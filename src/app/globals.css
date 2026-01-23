@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+/* 🎨 Paleta de Cores - Em Casa com Cecília */
+:root {
+  /* Cores principais */
+  --verde-escuro: #1a4d2e;
+  --laranja: #ff6b35;
+  --amarelo: #ffd700;
+  --preto: #0f1419;
+  --branco: #ffffff;
+
+  /* Aliases para Tailwind */
+  --background: var(--branco);
+  --foreground: var(--preto);
+  --primary: var(--verde-escuro);
+  --secondary: var(--laranja);
+  --accent: var(--amarelo);
+}
+
+@theme inline {
+  /* Cores customizadas */
+  --color-verde-escuro: #1a4d2e;
+  --color-laranja: #ff6b35;
+  --color-amarelo: #ffd700;
+  --color-preto: #0f1419;
+  --color-branco: #ffffff;
+
+  /* Aliases Tailwind */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-secondary: var(--secondary);
+  --color-accent: var(--accent);
+
+  /* Font Montserrat */
+  --font-sans: var(--font-montserrat), system-ui, -apple-system, sans-serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-montserrat), sans-serif;
+}
