@@ -1,231 +1,226 @@
 # 🚀 Próximos Passos - Em Casa com Cecília
 
-**Data:** 23 Jan 2025
-**Status:** Alpha 0.01 - Base completa pronta!
+**Data:** 03 Abr 2026
+**Status:** Refatoração Home Page em andamento - aproximação da versão final
 
 ---
 
-## ✅ O QUE JÁ ESTÁ PRONTO
+## 📋 TAREFAS PENDENTES (Home Page)
 
-### 🎨 Design & Layout
-- ✅ Header redesenhado (logo 70% menor, busca integrada)
-- ✅ Home page completa com estrutura do Cooked & Loved
-- ✅ Paleta de cores da Cecília (verde #1a4d2e, laranja #ff6b35, amarelo #ffd700)
-- ✅ Font Montserrat (400, 600, 700, 800)
-- ✅ Design responsivo (mobile + desktop)
+### 🔥 PRIORIDADE 1 - Estrutura da Home Page
 
-### 🔍 Funcionalidades
-- ✅ **OmniSearch** - Busca omnisearch poderosa (FUNDAMENTAL!)
-  - Busca em tempo real
-  - Multifields (título, ingredientes, categoria, dificuldade)
-  - Navegação por teclado
-  - Highlight de termos
-- ✅ Filtro por categorias
-- ✅ Sistema de navegação completo
-- ✅ Formulário de contato (frontend)
-- ✅ FAQs com accordion interativo
+#### 1. TopBar (Correções)
+- [x] **Posicionamento:** Movida para ANTES do Header/Navbar
+- [x] **Estilo:** Sem box/pill no texto
+- [x] **Conteúdo:** Texto + ícone WhatsApp
+- [x] **Link:** `https://chat.whatsapp.com/GwouQfaZMrj32j7pKOIZbQ`
+- [x] **Sticky:** Mantida no topo
 
-### 📄 Páginas Criadas
-1. ✅ **Home** - 4 cards destaque, categorias, sobre, coleções, receitas
-2. ✅ **Receitas** - Lista com busca e filtros
-3. ✅ **Receita Individual** - Template completo (ingredientes, preparo, dicas)
-4. ✅ **Reviews** - Grid com sistema de estrelas
-5. ✅ **Sobre** - História, valores, estatísticas
-6. ✅ **Contato** - Formulário funcional
-7. ✅ **FAQs** - 20+ perguntas organizadas
+#### 2. Reordenar Seções
+Nova ordem da Home:
+1. TopBar (WhatsApp)
+2. Header/Navbar
+3. MainCategories (4 cards retangulares)
+4. Categories (ícones minimalistas)
+5. Hero (apresentação)
+6. Receitas Populares
+7. Meus Links (carrossel)
+8. Ofertas
+9. Footer + CTA Redes Sociais
 
-### 🧩 Componentes
-- ✅ Navbar (responsivo com menu mobile)
-- ✅ Footer (links, sociais)
-- ✅ OmniSearch (busca inteligente)
-
-### 📚 Documentação
-- ✅ README.md
-- ✅ DEPLOY-HOSTINGER-NODEJS.md (guia de deploy completo)
-- ✅ OMNISEARCH.md (documentação da busca)
-- ✅ PROJETO-COMPLETO.md (visão geral)
-- ✅ COMO-USAR.md (personalização)
-- ✅ CHECKLIST-LANCAMENTO.md
+- [x] **Ordem base aplicada** na home modularizada
+- [ ] **Ajustar encaixe final** entre CTA YouTube e footer/redes
 
 ---
 
-## 🎯 PRÓXIMAS PRIORIDADES
+### 🎨 PRIORIDADE 2 - MainCategories (Cards Retangulares)
 
-### 🔥 ALTA PRIORIDADE (Fazer logo)
+#### 3. Cards Retangulares com Foto + Texto Sobreposto
+- [x] **Layout:** Estrutura com fundo + texto sobreposto implementada
+- [ ] **Referência:** Cooked & Loved (DINNER / SALADS / APPETIZERS / CHICKEN)
+- [x] **Aspect Ratio:** Retangular vertical (3:4)
+- [ ] **Conteúdo:**
+  - [x] Nome da categoria em branco
+  - [x] Contagem de receitas
+  - [ ] Imagem/foto real no lugar dos placeholders
+- [x] **Hover:** Estrutura com zoom/elevação já iniciada
+- [x] **Categorias:** Doces, Salgados, Massas, Carnes
 
-#### 1. Adicionar Conteúdo Real
-- [ ] **10-20 receitas completas** (começar pequeno)
-  - Título, descrição, ingredientes, modo de preparo
-  - Categorias corretas
-  - Tempo de preparo real
-  - Dificuldade
-  - Links YouTube
-- [ ] **5 reviews** de produtos
-- [ ] **Fotos reais** da Cecília (avatar, sobre)
-- [ ] **Imagens de receitas** (podem ser temporárias primeiro)
+---
 
-#### 2. Deploy Inicial
-- [ ] Seguir guia `DEPLOY-HOSTINGER-NODEJS.md`
-- [ ] Testar build local: `npm run build`
-- [ ] Push para GitHub
-- [ ] Configurar Node.js Web App na Hostinger
+### 🎯 PRIORIDADE 3 - Categories (Ícones Minimalistas)
+
+#### 4. Ícones em Linha Horizontal
+- [x] **Estilo:** Ícones em cinza
+- [x] **Tamanho:** Ajustados para faixa 64px-80px
+- [x] **Cor:** Cinza
+- [x] **Título:** Abaixo do ícone
+- [x] **Layout:** Linha horizontal com scroll horizontal
+- [x] **Hover:** Destaque leve
+- [x] **Categorias:** Expandido além das 4 principais
+
+---
+
+### 🍳 PRIORIDADE 4 - Cards de Receitas
+
+#### 5. Card de Receita - Novo Design
+- [x] **Layout:** Imagem domina o card
+- [ ] **Transparência:** Refinar fundo translúcido/gradiente na parte inferior
+- [ ] **Conteúdo (de baixo para cima):**
+  1. [x] Imagem como área principal
+  2. [x] Tempo e dificuldade sobrepostos
+  3. [x] Título da receita
+  4. [x] Sem preview de descrição
+  5. [x] Sem botão "Ver Receita"
+- [ ] **Hover:** Refinar zoom + elevação no padrão final
+- [x] **Unificação:** Estrutura alinhada entre "Populares" e "Novas"
+
+---
+
+### 🎠 PRIORIDADE 5 - Meus Links (Carrossel)
+
+#### 6. Carrossel de Cards
+- [x] **Layout:** Faixa horizontal implementada
+- [x] **Cards:** Direção visual iniciada
+- [x] **Destaques Fixos:**
+  - Dicas & Ofertas (primeiro)
+  - DAMIE - Cupom CECILIA12 (segundo)
+- [ ] **Futuros:** Mais cards serão adicionados
+- [ ] **Navegação:** Evoluir para setas ou drag mais refinado
+- [x] **Responsivo:** Base atende mobile e desktop
+
+---
+
+### 📱 PRIORIDADE 6 - Footer + Redes Sociais
+
+#### 7. CTA Redes Sociais no Footer
+- [ ] **Ideia:** Últimos posts do Instagram (rede principal)
+- [x] **Alternativa:** CTA menor para seguir nas redes já foi implementado parcialmente
+- [ ] **Local:** Footer ou antes do footer
+- [ ] **Conteúdo:**
+  - [x] Instagram
+  - [x] YouTube
+  - [x] TikTok
+  - [x] Facebook
+  - [x] Kwai
+- [ ] **Decisão pendente:** Avaliar se mantém ou remove
+
+---
+
+## 📝 RESUMO DAS MUDANÇAS
+
+### O que mudar:
+| Seção | Mudança |
+|-------|---------|
+| TopBar | Ajustes finais apenas se houver conflito visual com header |
+| MainCategories | Trocar placeholders por fotos/imagens finais |
+| Categories | Refinar ícones/arte se necessário |
+| Receitas | Refinar visual final do card |
+| Meus Links | Melhorar navegação do carrossel |
+| Footer | Fechar direção final do CTA social |
+
+### O que manter:
+- Hero (apresentação)
+- Seção de Ofertas
+- CTA YouTube (pode ir para footer)
+
+---
+
+## 🎯 PRIORIDADES GERAIS (Pós-Refatoração)
+
+### 🔥 ALTA PRIORIDADE
+
+#### 1. Conteúdo Real
+- [ ] 10-20 receitas completas
+- [ ] 5 reviews de produtos
+- [ ] Fotos reais da Cecília
+- [ ] Imagens de receitas
+
+#### 2. Finalização da Home
+- [ ] Refinar cards de receitas
+- [ ] Refinar carrossel de Meus Links
+- [ ] Fechar footer/redes sociais
+- [ ] Substituir placeholders principais
+
+#### 3. Deploy
+- [ ] Build local: `npm run build`
+- [ ] Push GitHub
+- [ ] Hostinger Node.js Web App
 - [ ] DNS + SSL
 
-#### 3. SEO Básico
-- [ ] Google Analytics instalado
-- [ ] Google Search Console configurado
-- [ ] Meta tags verificadas em todas as páginas
-- [ ] Sitemap.xml criado
+#### 4. SEO Básico
+- [ ] Google Analytics
+- [ ] Google Search Console
+- [ ] Meta tags verificadas
+- [ ] Sitemap.xml
 
 ---
 
-### ⚡ MÉDIA PRIORIDADE (Próxima fase)
+### ⚡ MÉDIA PRIORIDADE
 
-#### 4. Melhorias do Cooked & Loved
-- [ ] **Cook Mode** + Timer (game changer!)
-  - Modo tela cheia
-  - Timer fixo
-  - Checkbox para ingredientes
-- [ ] **Print-friendly layout**
-  - Botão "Imprimir Receita"
-  - CSS otimizado para impressão
-- [ ] **Newsletter sidebar**
-  - Captura de emails
-  - Popup com consentimento
-- [ ] **Hover zoom nos cards** (já tem, mas refinaar)
+#### 5. Melhorias Cooked & Loved
+- [ ] Cook Mode + Timer
+- [ ] Print-friendly layout
+- [ ] Newsletter sidebar
+- [ ] Sistema de ratings
 
-#### 5. Funcionalidades Sociais
-- [ ] Sistema de ratings (estrelas)
-- [ ] Comentários (com moderação)
-- [ ] Compartilhar receitas (WhatsApp, Facebook, Pinterest)
-- [ ] "Fiz essa receita!" (contador)
-
-#### 6. Coleções
-- [ ] Criar páginas de coleções
-  - Receitas Rápidas
-  - Low Carb
-  - Receitas para Festas
-  - Sobremesas Especiais
-- [ ] Sistema de tags
+#### 6. Funcionalidades Sociais
+- [ ] Comentários
+- [ ] Compartilhar (WhatsApp, Pinterest)
+- [ ] "Fiz essa receita!"
 
 ---
 
 ### 🔮 BAIXA PRIORIDADE (Futuro)
 
-#### 7. Backend & Database
-- [ ] Conectar a um CMS (Strapi, Sanity, Contentful)
-- [ ] Banco de dados para receitas
-- [ ] API para formulário de contato
-- [ ] Sistema de busca server-side
+#### 7. Backend & CMS
+- [ ] CMS (Strapi, Sanity, Contentful)
+- [ ] Database para receitas
+- [ ] API formulário contato
 
-#### 8. Features Avançadas
-- [ ] Busca por voz (mobile)
-- [ ] Salvar receitas favoritas (login)
-- [ ] Notas privadas em receitas
-- [ ] Calculadora de porções
-- [ ] Lista de compras automática
-
-#### 9. Integrações
-- [ ] YouTube API (vídeos automáticos)
+#### 8. Integrações
+- [ ] YouTube API
 - [ ] Instagram feed
-- [ ] Pinterest integration
-- [ ] Email marketing (Mailchimp/ConvertKit)
+- [ ] Email marketing
 
 ---
 
-## 📝 IDEIAS & ANOTAÇÕES
+## 🐛 BUGS/ISSUES
 
-### Do que gostamos do Cooked & Loved
-- ✅ Layout limpo e minimalista
-- ✅ Cards sem excesso de informação
-- ✅ Conceito de Coleções
-- ✅ Sistema de categorias bem organizado
-- ❌ Excesso de seções na home (evitar!)
-
-### Diferenciais da Cecília
-- ✅ Personalidade marcante
-- ✅ Reviews sinceros
-- ✅ Conexão com YouTube
-- ✅ Storytelling pessoal
-- ✅ OmniSearch poderoso
+- [x] TopBar abaixo do Header
+- [ ] Cards de receitas precisam de acabamento visual final
 
 ---
 
-## 🐛 BUGS/ISSUES CONHECIDOS
+## 💡 ANOTAÇÕES
 
-- [ ] Nenhum no momento! 🎉
+### Referências Visuais
+- **Cooked & Loved:** Layout limpo, cards minimalistas
+- **MainCategories:** Foto + texto sobreposto
+- **Categories:** Ícones cinza minimalistas
+- **Cards Receita:** Imagem 70-80%, transparência
 
----
-
-## 📞 QUANDO RETOMAR
-
-### Comandos úteis:
-```bash
-# Rodar servidor local
-npm run dev
-
-# Build de teste
-npm run build
-
-# Ver status git
-git status
-
-# Commit
-git add .
-git commit -m "Mensagem"
-git push
-```
-
-### Contexto para o Claude:
-> "Continuando de onde paramos. Já temos:
-> - Header redesenhado (logo menor, busca integrada)
-> - Home page completa (4 cards, categorias, sobre, coleções)
-> - OmniSearch funcionando (busca omnisearch)
-> - Todas as páginas básicas criadas
->
-> Vamos trabalhar em: [escolher da lista acima]"
+### Decisões Pendentes
+- [ ] Manter CTA Instagram no footer?
+- [ ] Quantos cards no carrossel Meus Links?
+- [ ] Imagens reais ou placeholders temporários?
 
 ---
 
-## 🎯 META: LANÇAMENTO v1.0
+## 📊 STATUS ATUAL
 
-**O que precisa ter:**
-- ✅ 50+ receitas
-- ✅ 10+ reviews
-- ✅ Site no ar (Hostinger)
-- ✅ SSL ativo
-- ✅ Google Analytics
-- ✅ Newsletter funcionando
-- ✅ Links sociais corretos
-
-**Quando:** [Definir data]
-
----
-
-## 📊 MÉTRICAS DE SUCESSO
-
-**Mês 1:**
-- 1000 visitantes únicos
-- 100 inscritos newsletter
-- 50 receitas favoritas
-
-**Mês 3:**
-- 5000 visitantes únicos
-- 500 inscritos newsletter
-- 200 receitas favoritas
-- Primeiras receitas viralizando
+| Área | Status |
+|------|--------|
+| TopBar | ✅ Implementado |
+| MainCategories | ⏳ Estrutura pronta, faltam imagens finais |
+| Categories | ✅ Implementado |
+| Hero | ⏳ Bom nível visual, ainda com placeholder |
+| Cards Receita | ⏳ Estrutura nova pronta, faltam refinamentos |
+| Meus Links | ⏳ Carrossel básico pronto, faltam melhorias |
+| Ofertas | ✅ Implementado na nova home |
+| Footer | ⏳ Parcial, falta decisão final |
 
 ---
 
-## 💡 LEMBRETES
-
-- ⚠️ **IMPORTANTE:** Busca é fundamental! Sempre priorizar OmniSearch
-- 💰 **Monetização:** Adsense + afiliados (depois de tráfego)
-- 📸 **Conteúdo:** Fotos de qualidade fazem diferença
-- 🎥 **Vídeo:** YouTube é a prioridade (site é complemento)
-- 📱 **Mobile:** 70% do tráfego vem de mobile
-
----
-
-**Criado por Claude Code - Em Casa com Cecília v0.01**
-**Última atualização:** 23 Jan 2025
+**Última atualização:** 03 Abr 2026
+**Próxima ação:** Commit checkpoint + refinamento dos cards de receita, MyLinks e footer
