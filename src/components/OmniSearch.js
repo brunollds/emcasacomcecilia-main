@@ -1,7 +1,8 @@
 'use client';
 
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef, useCallback } from 'react';
 import Link from 'next/link';
+import { getRecipeAllCategoryLabels, getRecipePrimaryCategory } from '@/lib/data';
 
 export default function OmniSearch({ receitas, placeholder = "Buscar receitas, ingredientes..." }) {
   const [query, setQuery] = useState('');
@@ -23,7 +24,7 @@ export default function OmniSearch({ receitas, placeholder = "Buscar receitas, i
   }, []);
 
   // Função de busca omnisearch
-  const searchRecipes = (searchQuery) => {
+  const searchRecipes = useCallback((searchQuery) => {
     if (!searchQuery.trim()) {
       setResults([]);
       setIsOpen(false);
@@ -34,24 +35,25 @@ export default function OmniSearch({ receitas, placeholder = "Buscar receitas, i
 
     const filtered = receitas.filter((receita) => {
       // Busca no título
-      if (receita.titulo.toLowerCase().includes(lowerQuery)) return true;
+      if (receita.title.toLowerCase().includes(lowerQuery)) return true;
 
       // Busca na descrição
-      if (receita.descricao?.toLowerCase().includes(lowerQuery)) return true;
+      if (receita.description?.toLowerCase().includes(lowerQuery)) return true;
 
       // Busca na categoria
-      if (receita.categoria?.toLowerCase().includes(lowerQuery)) return true;
+      if (getRecipeAllCategoryLabels(receita).some(category => category.toLowerCase().includes(lowerQuery))) return true;
 
       // Busca na dificuldade
-      if (receita.dificuldade?.toLowerCase().includes(lowerQuery)) return true;
+      if (receita.difficulty?.toLowerCase().includes(lowerQuery)) return true;
+
+      if (receita.searchTerms?.some(term => term.toLowerCase().includes(lowerQuery))) return true;
 
       // Busca nos ingredientes (se tiver)
-      if (receita.ingredientes) {
-        const allIngredients = [
-          ...(receita.ingredientes.massa || []),
-          ...(receita.ingredientes.cobertura || []),
-          ...(receita.ingredientes.recheio || []),
-        ].join(' ').toLowerCase();
+      if (receita.ingredients) {
+        const allIngredients = receita.ingredients
+          .flatMap(section => section.items || [])
+          .join(' ')
+          .toLowerCase();
 
         if (allIngredients.includes(lowerQuery)) return true;
       }
@@ -66,8 +68,8 @@ export default function OmniSearch({ receitas, placeholder = "Buscar receitas, i
 
     // Ordenar por relevância (título > ingredientes > descrição)
     const sorted = filtered.sort((a, b) => {
-      const aTitleMatch = a.titulo.toLowerCase().includes(lowerQuery);
-      const bTitleMatch = b.titulo.toLowerCase().includes(lowerQuery);
+      const aTitleMatch = a.title.toLowerCase().includes(lowerQuery);
+      const bTitleMatch = b.title.toLowerCase().includes(lowerQuery);
 
       if (aTitleMatch && !bTitleMatch) return -1;
       if (!aTitleMatch && bTitleMatch) return 1;
@@ -77,7 +79,7 @@ export default function OmniSearch({ receitas, placeholder = "Buscar receitas, i
 
     setResults(sorted.slice(0, 8)); // Máximo 8 resultados
     setIsOpen(true);
-  };
+  }, [receitas]);
 
   // Busca em tempo real (debounced)
   useEffect(() => {
@@ -86,7 +88,7 @@ export default function OmniSearch({ receitas, placeholder = "Buscar receitas, i
     }, 300); // 300ms de delay
 
     return () => clearTimeout(timer);
-  }, [query]);
+  }, [query, searchRecipes]);
 
   // Navegação por teclado
   const handleKeyDown = (e) => {
@@ -106,9 +108,9 @@ export default function OmniSearch({ receitas, placeholder = "Buscar receitas, i
       case 'Enter':
         e.preventDefault();
         if (selectedIndex >= 0 && results[selectedIndex]) {
-          window.location.href = `/receitas/${results[selectedIndex].id}`;
+          window.location.href = `/receitas/${results[selectedIndex].slug}`;
         } else if (results.length > 0) {
-          window.location.href = `/receitas/${results[0].id}`;
+          window.location.href = `/receitas/${results[0].slug}`;
         }
         break;
       case 'Escape':
@@ -177,7 +179,7 @@ export default function OmniSearch({ receitas, placeholder = "Buscar receitas, i
             {results.map((receita, index) => (
               <li key={receita.id}>
                 <Link
-                  href={`/receitas/${receita.id}`}
+                  href={`/receitas/${receita.slug}`}
                   className={`block px-5 py-4 hover:bg-[#f5f5f5] transition-colors border-b border-gray-100 last:border-0 ${
                     index === selectedIndex ? 'bg-[#ffd700]/20' : ''
                   }`}
@@ -195,23 +197,23 @@ export default function OmniSearch({ receitas, placeholder = "Buscar receitas, i
                     {/* Info */}
                     <div className="flex-1 min-w-0">
                       <h4 className="font-bold text-[#1a4d2e] mb-1 truncate">
-                        {highlightMatch(receita.titulo, query)}
+                        {highlightMatch(receita.title, query)}
                       </h4>
 
                       <p className="text-sm text-gray-600 line-clamp-1 mb-2">
-                        {receita.descricao}
+                        {receita.description}
                       </p>
 
                       {/* Badges */}
                       <div className="flex flex-wrap gap-2">
                         <span className="px-2 py-1 bg-[#ffd700] text-[#1a4d2e] text-xs font-bold rounded-full">
-                          {receita.categoria}
+                          {getRecipePrimaryCategory(receita)}
                         </span>
                         <span className="px-2 py-1 bg-gray-200 text-gray-700 text-xs font-semibold rounded-full">
-                          ⏱️ {receita.tempoPreparo}
+                          ⏱️ {receita.totalTime}
                         </span>
                         <span className="px-2 py-1 bg-gray-200 text-gray-700 text-xs font-semibold rounded-full">
-                          📊 {receita.dificuldade}
+                          📊 {receita.difficulty}
                         </span>
                       </div>
                     </div>
@@ -245,7 +247,7 @@ export default function OmniSearch({ receitas, placeholder = "Buscar receitas, i
             Nenhuma receita encontrada
           </h3>
           <p className="text-gray-600 mb-4">
-            Não encontramos receitas com "{query}"
+            Não encontramos receitas com &quot;{query}&quot;
           </p>
           <Link
             href="/contato"

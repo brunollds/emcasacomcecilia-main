@@ -1,78 +1,69 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 
 // 4 categorias principais com foto + texto sobreposto
 const mainCategories = [
   { 
-    slug: 'doces', 
-    nome: 'Doces', 
-    emoji: '🍰',
-    count: 24,
-    // Gradiente como placeholder (substituir por foto depois)
-    gradient: 'from-pink-400 to-pink-600',
+    slug: 'air-fryer', 
+    nome: 'Air Fryer', 
+    image: '/images/recipes/featured/air-fryer.jpg',
+    gradient: 'from-purple-900/80 to-indigo-900/40',
   },
   { 
-    slug: 'salgados', 
-    nome: 'Salgados', 
-    emoji: '🥐',
-    count: 18,
-    gradient: 'from-orange-400 to-orange-600',
+    slug: 'frango', 
+    nome: 'Frango', 
+    image: '/images/recipes/featured/frango.jpg',
+    gradient: 'from-orange-900/80 to-yellow-900/40',
+  },
+  { 
+    slug: 'doces', 
+    nome: 'Doces', 
+    image: '/images/recipes/featured/doces.jpg',
+    gradient: 'from-rose-900/80 to-pink-900/40',
   },
   { 
     slug: 'massas', 
     nome: 'Massas', 
-    emoji: '🍝',
-    count: 12,
-    gradient: 'from-yellow-400 to-yellow-600',
-  },
-  { 
-    slug: 'carnes', 
-    nome: 'Carnes', 
-    emoji: '🍖',
-    count: 15,
-    gradient: 'from-red-400 to-red-600',
+    image: '/images/recipes/featured/massas.jpg',
+    gradient: 'from-cyan-900/80 to-blue-900/40',
   },
 ];
 
 export function MainCategories() {
   return (
-    <section className="py-8 px-6 bg-white">
-      <div className="mx-auto max-w-7xl">
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+    <section className="px-4 pb-6 pt-4 md:px-6 md:pb-8 md:pt-6">
+      <div className="mx-auto max-w-[980px] lg:max-w-7xl">
+        <div className="grid grid-cols-2 gap-3 lg:grid-cols-4 lg:gap-6">
           {mainCategories.map((cat, index) => (
             <Link
               key={cat.slug}
               href={`/receitas?categoria=${cat.slug}`}
-              className="group relative overflow-hidden rounded-xl shadow-md hover:shadow-xl transition-all duration-300"
+              className="group relative block aspect-[3/3.55] overflow-hidden rounded-[1.25rem] bg-[#0f1d3a] shadow-lg transition-all duration-500 hover:-translate-y-1.5 hover:shadow-2xl lg:aspect-[3/3.5] lg:rounded-[2rem]"
               style={{ animationDelay: `${index * 0.1}s` }}
             >
-              {/* Card Retangular Vertical - Aspect Ratio 3:4 */}
-              <div className={`aspect-[3/4] bg-gradient-to-br ${cat.gradient} relative`}>
+              {/* Imagem de Fundo Otimizada */}
+              <Image
+                src={cat.image}
+                alt={cat.nome}
+                fill
+                className="object-cover transition-transform duration-700 ease-out group-hover:scale-110"
+                sizes="(max-width: 1024px) 50vw, 25vw"
+              />
+
+              {/* Overlays de Design */}
+              <div className={`absolute inset-0 bg-gradient-to-t ${cat.gradient} opacity-60 mix-blend-multiply transition-opacity group-hover:opacity-40`} />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent opacity-80" />
+
+              {/* Conteúdo do Card */}
+              <div className="absolute inset-0 flex flex-col justify-end p-4 lg:p-6">
+                <h3 className="font-heading text-xl font-bold leading-tight text-white drop-shadow-md lg:text-3xl">
+                  {cat.nome}
+                </h3>
                 
-                {/* Imagem de fundo (placeholder - substituir por foto real depois) */}
-                <div className="absolute inset-0 flex items-center justify-center text-7xl md:text-8xl opacity-30 group-hover:scale-110 transition-transform duration-500">
-                  {cat.emoji}
-                </div>
-
-                {/* Overlay gradiente - mais forte embaixo para leitura */}
-                <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
-
-                {/* Texto na PARTE INFERIOR do card */}
-                <div className="absolute bottom-0 left-0 right-0 p-4 text-center">
-                  {/* Nome da categoria em branco */}
-                  <h3 className="text-xl md:text-2xl font-bold text-white uppercase tracking-wide mb-1 drop-shadow-lg">
-                    {cat.nome}
-                  </h3>
-                  
-                  {/* Contagem de receitas */}
-                  <p className="text-white/80 text-xs md:text-sm font-medium">
-                    {cat.count} receitas
-                  </p>
-                </div>
-
-                {/* Efeito hover - overlay mais escuro */}
-                <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors duration-300" />
+                {/* Linha decorativa animada */}
+                <div className="mt-2 h-0.5 w-0 rounded-full bg-[#ffd700] transition-all duration-500 group-hover:w-12 lg:mt-3 lg:h-1 lg:group-hover:w-16" />
               </div>
             </Link>
           ))}

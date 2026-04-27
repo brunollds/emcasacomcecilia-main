@@ -29,11 +29,14 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
+.next-dev*.log
 
-# env files (can opt-in for committing if needed)
-.env*
+# env files
+.env
 .env.local
 .env.production
+.env.development
+# .env.example é commitado intencionalmente como referência
 
 # vercel
 .vercel
@@ -44,3 +47,28 @@ next-env.d.ts
 
 # Hostinger específico
 .htaccess
+
+# Credenciais Google (service account)
+gen-lang-client-0983829646-19a6db7e1490.json
+
+# Pipeline temporário do YouTube
+/data/youtube/
+
+# Ferramentas de IA locais
+.claude/
+.qwen/
+GEMINI.md
+QWEN.md
+AGENTS.md
+
+# Documentação interna de desenvolvimento
+CHECKLIST-LANCAMENTO.md
+COMO-USAR.md
+GITHUB-SETUP.md
+OMNISEARCH.md
+PROJETO-COMPLETO.md
+PROXIMOS-PASSOS.md
+docs/
+
+# Imagens temporárias
+public/images/temp/

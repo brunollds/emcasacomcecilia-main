@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { Mail } from 'lucide-react';
+import { brandLinks, socialMedias } from '@/lib/data';
 
 // Ícones SVG para redes sociais
 const SocialIcons = {
@@ -33,95 +33,78 @@ const SocialIcons = {
 };
 
 const socialLinks = [
-  { name: 'YouTube', url: 'https://youtube.com/@emcasacomcecilia', followers: '11.3K+', icon: SocialIcons.Youtube, color: 'bg-red-600' },
-  { name: 'Instagram', url: 'https://instagram.com/emcasacomcecilia', followers: '445K', icon: SocialIcons.Instagram, color: 'bg-gradient-to-br from-purple-600 to-pink-600' },
-  { name: 'TikTok', url: 'https://tiktok.com/@emcasacomcecilia', followers: '84K', icon: SocialIcons.TikTok, color: 'bg-black' },
-  { name: 'Facebook', url: 'https://facebook.com/emcasacomcecilia', followers: '7K', icon: SocialIcons.Facebook, color: 'bg-blue-600' },
-  { name: 'Kwai', url: 'https://kwai.com/@emcasacomcecilia', followers: '5K', icon: SocialIcons.Kwai, color: 'bg-orange-500' },
-];
+  ...socialMedias.map((social) => ({
+    name: social.name,
+    url: social.url,
+    icon: SocialIcons[social.icon] || SocialIcons.Youtube,
+  })),
+].filter((social) => Boolean(social.icon));
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-[#0f1419] pt-12 pb-8 px-6">
-      <div className="max-w-7xl mx-auto">
-        {/* Redes Sociais - Destaque */}
-        <div className="text-center mb-10">
-          <h3 className="text-white font-semibold mb-6 text-lg">Siga nas Redes Sociais</h3>
-          <div className="flex flex-wrap justify-center gap-3">
-            {socialLinks.map((social) => (
-              <a
-                key={social.name}
-                href={social.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className={`w-12 h-12 rounded-xl ${social.color} flex items-center justify-center text-white hover:scale-110 transition-transform`}
-                aria-label={`Siga @emcasacomcecilia no ${social.name}`}
+    <footer className="bg-[#0f1d3a] px-6 pb-10 pt-12">
+      <div className="mx-auto max-w-7xl">
+        <div className="flex flex-col items-center gap-6 border-b border-white/10 pb-6 text-center lg:flex-row lg:items-center lg:justify-between lg:text-left">
+          <Link href="/" className="group flex flex-col items-center justify-center">
+            <span
+              className="inline-flex items-baseline gap-[1.5px] text-white"
+              style={{ fontSize: '1.62rem', fontWeight: 800, letterSpacing: '-0.5px', lineHeight: 1 }}
+            >
+              <span style={{ fontSize: '0.60rem', fontWeight: 700, letterSpacing: '-0.3px', color: '#ffffff' }}>em</span>
+              <span style={{ fontSize: '1em', fontWeight: 800, letterSpacing: '-0.4px', color: '#ffffff' }}>CASA</span>
+              <span style={{ fontSize: '0.60rem', fontWeight: 700, letterSpacing: '-0.3px', color: '#ffffff' }}>com</span>
+              <span
+                className="border-b-2 border-[#ff6b35]/80 pb-0.5"
+                style={{
+                  fontSize: '1em',
+                  fontWeight: 800,
+                  letterSpacing: '-0.4px',
+                  color: '#ff6b35',
+                }}
               >
-                <social.icon />
-              </a>
-            ))}
-          </div>
-          <p className="text-gray-400 text-sm mt-4">
-            +550K seguidores em todas as redes
-          </p>
-        </div>
+                CECÍLIA
+              </span>
+            </span>
+            <span className="mt-1 text-center text-[0.65rem] font-medium tracking-[0.3px] text-white/70">
+              Receitas que dão certo
+            </span>
+          </Link>
 
-        {/* Divider */}
-        <div className="border-t border-white/10 my-8" />
+          <nav className="flex flex-wrap justify-center gap-x-6 gap-y-3 text-sm font-medium text-white/78 lg:justify-start">
+            <Link href="/receitas" className="transition-colors hover:text-[#ff6b35]">Receitas</Link>
+            <Link href="/categorias" className="transition-colors hover:text-[#ff6b35]">Categorias</Link>
+            <Link href="/reviews" className="transition-colors hover:text-[#ff6b35]">Reviews</Link>
+            <Link href="/sobre" className="transition-colors hover:text-[#ff6b35]">Sobre</Link>
+            <Link href="/faqs" className="transition-colors hover:text-[#ff6b35]">FAQs</Link>
+            <a href={brandLinks.dicas} target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-[#ff6b35]">Dicas</a>
+            <a href={brandLinks.damie} target="_blank" rel="noopener noreferrer" className="font-bold text-[#ffd700] transition-colors hover:text-white">DAMIE</a>
+          </nav>
 
-        {/* Links e Copyright */}
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mb-8">
-          {/* Receitas */}
-          <div>
-            <h4 className="text-white font-semibold mb-4">Receitas</h4>
-            <ul className="space-y-2">
-              <li><Link href="/receitas" className="text-gray-400 hover:text-[#ff6b35] transition-colors text-sm">Todas as Receitas</Link></li>
-              <li><Link href="/receitas?categoria=doces" className="text-gray-400 hover:text-[#ff6b35] transition-colors text-sm">Doces</Link></li>
-              <li><Link href="/receitas?categoria=salgados" className="text-gray-400 hover:text-[#ff6b35] transition-colors text-sm">Salgados</Link></li>
-              <li><Link href="/receitas?categoria=air-fryer" className="text-gray-400 hover:text-[#ff6b35] transition-colors text-sm">Air Fryer</Link></li>
-            </ul>
-          </div>
-
-          {/* Institucional */}
-          <div>
-            <h4 className="text-white font-semibold mb-4">Institucional</h4>
-            <ul className="space-y-2">
-              <li><Link href="/sobre" className="text-gray-400 hover:text-[#ff6b35] transition-colors text-sm">Sobre</Link></li>
-              <li><Link href="/reviews" className="text-gray-400 hover:text-[#ff6b35] transition-colors text-sm">Reviews</Link></li>
-              <li><Link href="/contato" className="text-gray-400 hover:text-[#ff6b35] transition-colors text-sm">Contato</Link></li>
-              <li><Link href="/faqs" className="text-gray-400 hover:text-[#ff6b35] transition-colors text-sm">FAQs</Link></li>
-            </ul>
-          </div>
-
-          {/* Links Externos */}
-          <div>
-            <h4 className="text-white font-semibold mb-4">Links Úteis</h4>
-            <ul className="space-y-2">
-              <li><a href="https://dicas.emcasacomcecilia.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#ff6b35] transition-colors text-sm">Dicas & Ofertas</a></li>
-              <li><a href="https://damie.emcasacomcecilia.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#ff6b35] transition-colors text-sm">Cupom CECILIA12</a></li>
-              <li><a href="https://youtube.com/@emcasacomcecilia" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#ff6b35] transition-colors text-sm">Canal YouTube</a></li>
-            </ul>
-          </div>
-
-          {/* Contato */}
-          <div>
-            <h4 className="text-white font-semibold mb-4">Contato</h4>
-            <ul className="space-y-2">
-              <li><a href="mailto:contato@emcasacomcecilia.com" className="text-gray-400 hover:text-[#ff6b35] transition-colors text-sm flex items-center gap-1"><Mail className="w-3.5 h-3.5" /> Email</a></li>
-            </ul>
+          <div className="flex items-center justify-center gap-2">
+              {socialLinks.map((social) => (
+                <a
+                  key={social.name}
+                  href={social.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-white/12 text-[#ff6b35] transition-all hover:-translate-y-0.5 hover:border-[#ff6b35]/50 hover:bg-white/5"
+                  aria-label={`Siga @emcasacomcecilia no ${social.name}`}
+                >
+                  <social.icon />
+                </a>
+              ))}
           </div>
         </div>
 
-        {/* Divider */}
-        <div className="border-t border-white/10 my-8" />
-
-        {/* Copyright */}
-        <div className="text-center">
-          <p className="text-gray-400 text-sm">
-            © {currentYear} Em Casa com Cecília. Feito com ❤️ e muito tempero.
-          </p>
+        <div className="flex flex-col items-center gap-3 pt-5 text-center text-sm text-white/60 lg:flex-row lg:items-center lg:justify-between lg:text-left">
+          <p>© {currentYear} Em Casa com Cecília. Todos os direitos reservados.</p>
+          <div className="flex flex-wrap items-center justify-center gap-x-5 gap-y-2 lg:justify-start">
+            <Link href="/contato" className="transition-colors hover:text-[#ff6b35]">Contato</Link>
+            <a href={brandLinks.mediaKit} target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-[#ff6b35]">Media Kit</a>
+            <Link href="/privacidade" className="transition-colors hover:text-[#ff6b35]">Privacidade</Link>
+          </div>
         </div>
       </div>
     </footer>

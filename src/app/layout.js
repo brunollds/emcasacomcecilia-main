@@ -1,8 +1,8 @@
 import { Montserrat } from "next/font/google";
 import "./globals.css";
-import { TopBar } from "@/components/sections/TopBar";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import Analytics from "@/components/Analytics";
 
 const montserrat = Montserrat({
   variable: "--font-montserrat",
@@ -12,6 +12,7 @@ const montserrat = Montserrat({
 });
 
 export const metadata = {
+  metadataBase: new URL("https://emcasacomcecilia.com"),
   title: "Em Casa com Cecília - Receitas Práticas e Deliciosas",
   description: "Receitas caseiras, reviews sinceros e análises de produtos. Aprenda a cozinhar pratos deliciosos com a Cecília! +550K seguidores nas redes sociais.",
   keywords: ["receitas", "culinária", "reviews", "análises", "comida caseira", "Cecília", "Em Casa com Cecília"],
@@ -40,10 +41,10 @@ export default function RootLayout({ children }) {
       <body
         className={`${montserrat.variable} antialiased`}
       >
-        <TopBar />
         <Navbar />
         {children}
         <Footer />
+        <Analytics />
       </body>
     </html>
   );

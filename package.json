@@ -6,22 +6,30 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start -p ${PORT:-3000}",
-    "lint": "eslint"
+    "lint": "eslint",
+    "update:popular-recipes": "node scripts/update-popular-recipes.mjs",
+    "youtube:inventory": "tsx data/youtube/youtube-inventory.ts",
+    "youtube:match": "tsx data/youtube/youtube-recipe-matching.ts"
   },
   "dependencies": {
+    "@phosphor-icons/react": "^2.1.10",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^1.6.0",
     "next": "16.1.4",
     "react": "19.2.3",
     "react-dom": "19.2.3",
+    "resend": "^6.12.2",
     "tailwind-merge": "^3.5.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/node": "25.6.0",
+    "@types/react": "19.2.14",
     "eslint": "^9",
     "eslint-config-next": "16.1.4",
-    "tailwindcss": "^4"
+    "tailwindcss": "^4",
+    "tsx": "^4.21.0"
   },
   "engines": {
     "node": ">=18.0.0",

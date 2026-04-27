@@ -1,3 +1,4 @@
+import { cloneElement, isValidElement, type ButtonHTMLAttributes, type ReactElement } from 'react';
 import { clsx } from 'clsx';
 import { cva, type VariantProps } from 'class-variance-authority';
 
@@ -29,17 +30,30 @@ const buttonVariants = cva(
 );
 
 export interface ButtonProps
-  extends React.ButtonHTMLAttributes<HTMLButtonElement>,
+  extends ButtonHTMLAttributes<HTMLButtonElement>,
     VariantProps<typeof buttonVariants> {
   asChild?: boolean;
 }
 
-const Button = ({ className, variant, size, ...props }: ButtonProps) => {
+const Button = ({ className, variant, size, asChild, children, ...props }: ButtonProps) => {
+  const buttonClassName = clsx(buttonVariants({ variant, size, className }));
+
+  if (asChild && isValidElement(children)) {
+    const child = children as ReactElement<{ className?: string }>;
+
+    return cloneElement(child, {
+      ...props,
+      className: clsx(buttonClassName, child.props.className),
+    });
+  }
+
   return (
     <button
-      className={clsx(buttonVariants({ variant, size, className }))}
+      className={buttonClassName}
       {...props}
-    />
+    >
+      {children}
+    </button>
   );
 };
 
