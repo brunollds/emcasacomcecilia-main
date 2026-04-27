@@ -101,6 +101,18 @@ export default async function ReviewPage({ params }) {
   const verdictSection = review.contentSections?.find((section) => section.heading === 'Veredito');
   const relatedReviews = getRelatedReviews(review);
 
+  const baseUrl = 'https://emcasacomcecilia.com';
+
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Início', item: baseUrl },
+      { '@type': 'ListItem', position: 2, name: 'Reviews', item: `${baseUrl}/reviews` },
+      { '@type': 'ListItem', position: 3, name: review.title, item: `${baseUrl}/reviews/${getReviewSlug(review)}` },
+    ],
+  };
+
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': isProductReview ? 'Review' : 'Article',
@@ -132,10 +144,8 @@ export default async function ReviewPage({ params }) {
 
   return (
     <article className="min-h-screen bg-[#fef9f3] pb-20">
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
       <div className="border-b border-black/5 bg-white py-3 shadow-sm">
         <div className="mx-auto flex max-w-5xl items-center justify-between px-4">

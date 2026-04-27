@@ -86,9 +86,28 @@ const partners = [
   { name: 'Shein', src: '/images/about/partners/shein.webp', href: 'https://shein.com' },
 ];
 
+const personJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: 'Cecília Mauad',
+  url: 'https://emcasacomcecilia.com/sobre',
+  image: 'https://emcasacomcecilia.com/images/photos/BRU-1.jpg',
+  jobTitle: 'Criadora de Conteúdo Culinário',
+  description: 'Jornalista, mãe e criadora do Em Casa com Cecília. Especializada em receitas práticas e reviews sinceros de produtos.',
+  sameAs: [
+    'https://instagram.com/emcasacomcecilia',
+    'https://youtube.com/@emcasacomcecilia',
+    'https://tiktok.com/@emcasacomcecilia',
+  ],
+};
+
 export default function SobrePage() {
   return (
     <main className="min-h-screen bg-[#fef9f3]">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd) }}
+      />
 
       {/* ── 1. HERO ── */}
       <section className="relative overflow-hidden bg-[#0f1d3a] px-6 py-14 text-white md:py-20 lg:py-24">

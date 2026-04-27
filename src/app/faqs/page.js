@@ -1,4 +1,5 @@
 import FaqsClientPage from './FaqsClientPage';
+import { faqData } from '@/lib/faqData';
 
 export const metadata = {
   title: 'FAQs - Em Casa com Cecília',
@@ -14,6 +15,29 @@ export const metadata = {
   },
 };
 
+const faqJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqData.flatMap((cat) =>
+    cat.perguntas.map((faq) => ({
+      '@type': 'Question',
+      name: faq.pergunta,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: faq.resposta,
+      },
+    }))
+  ),
+};
+
 export default function FaqsPage() {
-  return <FaqsClientPage />;
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+      />
+      <FaqsClientPage />
+    </>
+  );
 }

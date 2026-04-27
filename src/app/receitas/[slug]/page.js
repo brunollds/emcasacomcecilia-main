@@ -145,6 +145,16 @@ export default async function RecipePage({ params }) {
   const taxonomyChips = getRecipeTaxonomyChips(recipe);
   const youtubeEmbedUrl = getYoutubeEmbedUrl(recipe.youtubeUrl);
 
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Início', item: baseUrl },
+      { '@type': 'ListItem', position: 2, name: 'Receitas', item: `${baseUrl}/receitas` },
+      { '@type': 'ListItem', position: 3, name: recipe.title, item: `${baseUrl}/receitas/${recipe.slug}` },
+    ],
+  };
+
   // JSON-LD para Google Recipes
   const jsonLd = {
     '@context': 'https://schema.org/',
@@ -180,11 +190,8 @@ export default async function RecipePage({ params }) {
     <article className="min-h-screen bg-[#fef9f3] pb-20">
       <RecipeViewTracker recipe={recipe} />
 
-      {/* Injeção de JSON-LD */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
 
       {/* Top Navigation */}
       <div className="bg-white border-b border-gray-100 sticky top-0 z-30 py-3 shadow-sm">
