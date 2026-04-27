@@ -36,52 +36,58 @@ export const metadata = {
   },
 };
 
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'Em Casa com Cecília',
+  url: 'https://emcasacomcecilia.com',
+  logo: 'https://emcasacomcecilia.com/images/logos/logo-em-casa-com-cecilia.png',
+  sameAs: [
+    'https://instagram.com/emcasacomcecilia',
+    'https://youtube.com/@emcasacomcecilia',
+    'https://tiktok.com/@emcasacomcecilia',
+    'https://facebook.com/emcasacomcecilia',
+  ],
+  contactPoint: {
+    '@type': 'ContactPoint',
+    email: 'contato@emcasacomcecilia.com',
+    contactType: 'customer support',
+    availableLanguage: 'Portuguese',
+  },
+};
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Em Casa com Cecília',
+  url: 'https://emcasacomcecilia.com',
+  description: 'Receitas práticas e deliciosas testadas na cozinha de casa. Reviews sinceros e conteúdo culinário para todos os níveis.',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: {
+      '@type': 'EntryPoint',
+      urlTemplate: 'https://emcasacomcecilia.com/receitas?q={search_term_string}',
+    },
+    'query-input': 'required name=search_term_string',
+  },
+};
+
 export default function RootLayout({ children }) {
   return (
     <html lang="pt-BR">
-      <body
-        className={`${montserrat.variable} antialiased`}
-      >
+      <body className={`${montserrat.variable} antialiased`}>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+        />
         <Navbar />
         {children}
         <Footer />
         <Analytics />
-        <Script id="schema-org" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify([
-          {
-            '@context': 'https://schema.org',
-            '@type': 'Organization',
-            name: 'Em Casa com Cecília',
-            url: 'https://emcasacomcecilia.com',
-            logo: 'https://emcasacomcecilia.com/images/logos/logo-em-casa-com-cecilia.png',
-            sameAs: [
-              'https://instagram.com/emcasacomcecilia',
-              'https://youtube.com/@emcasacomcecilia',
-              'https://tiktok.com/@emcasacomcecilia',
-              'https://facebook.com/emcasacomcecilia',
-            ],
-            contactPoint: {
-              '@type': 'ContactPoint',
-              email: 'contato@emcasacomcecilia.com',
-              contactType: 'customer support',
-              availableLanguage: 'Portuguese',
-            },
-          },
-          {
-            '@context': 'https://schema.org',
-            '@type': 'WebSite',
-            name: 'Em Casa com Cecília',
-            url: 'https://emcasacomcecilia.com',
-            description: 'Receitas práticas e deliciosas testadas na cozinha de casa. Reviews sinceros e conteúdo culinário para todos os níveis.',
-            potentialAction: {
-              '@type': 'SearchAction',
-              target: {
-                '@type': 'EntryPoint',
-                urlTemplate: 'https://emcasacomcecilia.com/receitas?q={search_term_string}',
-              },
-              'query-input': 'required name=search_term_string',
-            },
-          },
-        ]) }} />
         <Script id="clarity" strategy="afterInteractive">
           {`(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y)})(window,document,"clarity","script","r8u956l333");`}
         </Script>
