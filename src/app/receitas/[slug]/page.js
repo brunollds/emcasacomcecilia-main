@@ -255,7 +255,10 @@ export default async function RecipePage({ params }) {
                 src={youtubeEmbedUrl}
                 title={recipe.title}
                 className="w-full h-full"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerPolicy="strict-origin-when-cross-origin"
                 allowFullScreen
+                loading="lazy"
               />
             </div>
             <p className="mt-4 text-center text-sm text-gray-500 flex items-center justify-center gap-2">
