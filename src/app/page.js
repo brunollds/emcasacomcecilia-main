@@ -9,6 +9,8 @@ import { CTA } from '@/components/sections/CTA';
 import { getFeaturedOffers } from '@/lib/dicasOffers';
 import { getPopularRecipeSlugs } from '@/lib/popularRecipeStats';
 
+export const dynamic = 'force-dynamic';
+
 export const metadata = {
   title: 'Em Casa com Cecília - Receitas Práticas e Deliciosas',
   description: 'Receitas fáceis que dão certo, reviews sinceros, dicas de casa e vídeos da Cecília para deixar a rotina mais prática e gostosa.',
