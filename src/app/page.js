@@ -1,6 +1,7 @@
 import { Hero } from '@/components/sections/Hero';
 import { MainCategories } from '@/components/sections/MainCategories';
 import { Categories } from '@/components/sections/Categories';
+import { CouponStrip } from '@/components/sections/CouponStrip';
 import { PopularRecipes } from '@/components/sections/PopularRecipes';
 import { MyLinks } from '@/components/sections/MyLinks';
 import { ReviewsShowcase } from '@/components/sections/ReviewsShowcase';
@@ -40,29 +41,32 @@ export default async function Home() {
   return (
     <div className="min-h-screen bg-[#fef9f3]">
       <div className="bg-[#0f1d3a]">
-        {/* 1. 4 Cards Retangulares de Categorias Principais */}
+        {/* 1. Cupons ativos em faixa compacta */}
+        <CouponStrip />
+
+        {/* 2. 4 Cards Retangulares de Categorias Principais */}
         <MainCategories />
 
-        {/* 2. Categorias Minimalistas em linha horizontal */}
+        {/* 3. Categorias Minimalistas em linha horizontal */}
         <Categories />
 
-        {/* 3. Hero - Apresentação principal */}
+        {/* 4. Hero - Apresentação principal */}
         <Hero />
       </div>
 
-      {/* 4. Receitas Populares e Novas */}
+      {/* 5. Receitas Populares e Novas */}
       <PopularRecipes popularSlugs={popularRecipeSlugs} />
 
-      {/* 5. Reviews & Análises */}
+      {/* 6. Reviews & Análises */}
       <ReviewsShowcase />
 
-      {/* 6. Universo da Cecília */}
+      {/* 7. Universo da Cecília */}
       <MyLinks />
 
-      {/* 7. Ofertas */}
+      {/* 8. Ofertas */}
       <Offers items={featuredOffers} />
 
-      {/* 8. CTA YouTube */}
+      {/* 9. CTA YouTube */}
       <CTA />
     </div>
   );

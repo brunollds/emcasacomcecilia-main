@@ -13,6 +13,7 @@ export default function Navbar() {
   const navLinks = [
     { href: '/receitas', label: 'Receitas', primary: true },
     { href: '/reviews', label: 'Reviews' },
+    { href: '/cupons', label: 'Cupons' },
     { href: '/sobre', label: 'Sobre' },
     { href: '/contato', label: 'Contato' },
     { href: '/faqs', label: 'FAQs' },
@@ -91,7 +92,7 @@ export default function Navbar() {
 
           {/* Links Desktop */}
           <nav className="hidden lg:flex items-center gap-5">
-            {navLinks.slice(0, 2).map((link) => (
+            {navLinks.slice(0, 3).map((link) => (
               <Link
                 key={link.href}
                 href={link.href}

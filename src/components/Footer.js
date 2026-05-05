@@ -76,6 +76,7 @@ export default function Footer() {
             <Link href="/receitas" className="transition-colors hover:text-[#ff6b35]">Receitas</Link>
             <Link href="/categorias" className="transition-colors hover:text-[#ff6b35]">Categorias</Link>
             <Link href="/reviews" className="transition-colors hover:text-[#ff6b35]">Reviews</Link>
+            <Link href="/cupons" className="font-bold text-[#ffd700] transition-colors hover:text-white">Cupons</Link>
             <Link href="/sobre" className="transition-colors hover:text-[#ff6b35]">Sobre</Link>
             <Link href="/faqs" className="transition-colors hover:text-[#ff6b35]">FAQs</Link>
             <a href={brandLinks.dicas} target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-[#ff6b35]">Dicas</a>

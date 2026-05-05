@@ -130,6 +130,7 @@ export interface BrandLinks {
   kwai: string;
   dicas: string;
   damie: string;
+  dolceGusto: string;
   parcerias: string;
   airFryerEbook: string;
 }
@@ -158,6 +159,7 @@ export const brandLinks: BrandLinks = {
   kwai: 'https://kwai.com/@emcasacomcecilia',
   dicas: 'https://dicas.emcasacomcecilia.com',
   damie: 'https://damie.emcasacomcecilia.com',
+  dolceGusto: 'https://www.nescafe-dolcegusto.com.br/',
   parcerias: 'mailto:contato@emcasacomcecilia.com',
   airFryerEbook: 'mailto:contato@emcasacomcecilia.com?subject=Quero%20saber%20sobre%20o%20E-book%20Air%20Fryer',
 };

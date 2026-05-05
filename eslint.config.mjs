@@ -11,6 +11,7 @@ const eslintConfig = defineConfig([
     "build/**",
     // Reference prototypes only; not part of the active Next.js app.
     "kimi/**",
+    "docs/**",
     "next-env.d.ts",
   ]),
 ]);
