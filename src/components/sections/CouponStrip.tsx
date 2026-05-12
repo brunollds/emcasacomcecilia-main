@@ -19,17 +19,25 @@ export function CouponStrip() {
 
   // Checar localStorage apenas no client, após hydration
   useEffect(() => {
+    let shouldDismiss = false;
+
     try {
       const dismissedUntil = window.localStorage.getItem(DISMISS_KEY);
       if (dismissedUntil && new Date(dismissedUntil).getTime() > Date.now()) {
-        setDismissed(true);
-        return;
+        shouldDismiss = true;
+      } else if (dismissedUntil) {
+        window.localStorage.removeItem(DISMISS_KEY);
       }
-      if (dismissedUntil) window.localStorage.removeItem(DISMISS_KEY);
     } catch {
       // ignora erro de localStorage
     }
-    setMounted(true);
+
+    const id = window.setTimeout(() => {
+      setDismissed(shouldDismiss);
+      setMounted(true);
+    }, 0);
+
+    return () => window.clearTimeout(id);
   }, []);
 
   useEffect(() => {
