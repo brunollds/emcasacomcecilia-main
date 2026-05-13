@@ -34,8 +34,8 @@ yarn-error.log*
 # env files
 .env
 .env.local
-.env.production
 .env.development
+# .env.production é commitado intencionalmente — contém apenas NEXT_PUBLIC_* (IDs públicos)
 # .env.example é commitado intencionalmente como referência
 
 # vercel

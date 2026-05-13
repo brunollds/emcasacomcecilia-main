@@ -50,7 +50,7 @@ function pickThumbnail(thumbnails?: YouTubeThumbnailMap) {
 }
 
 function getShortsThumbnail(videoId: string) {
-  return `https://i.ytimg.com/vi/${videoId}/oardefault.jpg`;
+  return `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
 }
 
 async function fetchJson<T>(url: string): Promise<T> {
