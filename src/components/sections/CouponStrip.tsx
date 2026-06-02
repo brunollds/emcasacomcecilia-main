@@ -85,7 +85,7 @@ export function CouponStrip() {
     >
       <div className="mx-auto max-w-7xl px-3 pb-2 sm:px-6 lg:px-0">
         <div
-          className="flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.055] px-3 py-2 shadow-[0_8px_28px_rgba(0,0,0,0.14)] backdrop-blur-md sm:gap-3"
+          className="flex items-center gap-2 rounded-full border border-[#ff6b35]/45 bg-white/[0.055] px-3 py-2 shadow-[0_8px_28px_rgba(0,0,0,0.14),0_0_0_1px_rgba(255,107,53,0.12)] backdrop-blur-md sm:gap-3"
           aria-live="polite"
           aria-atomic="true"
         >

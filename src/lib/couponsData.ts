@@ -150,16 +150,16 @@ export const COUPONS: Coupon[] = [
     brandLogo: '/images/about/partners/dolce-gusto.avif',
     brandLogoAlt: 'Marca Nescafé Dolce Gusto',
     brandColor: '#7E2A1A',
-    code: 'CECI10',
-    discount: '10% OFF',
-    discountNumber: 10,
+    code: 'CECI',
+    discount: '5% OFF',
+    discountNumber: 5,
     category: 'Café e bebidas',
     shortDescription: 'cápsulas, máquinas e acessórios selecionados',
     longDescription:
       'Código da Cecília para economizar em compras na loja oficial Nescafé Dolce Gusto Brasil.',
-    metaTitle: 'Cupom Dolce Gusto 10% OFF • CECI10 ativo • Em Casa com Cecília',
+    metaTitle: 'Cupom Dolce Gusto 5% OFF • CECI ativo • Em Casa com Cecília',
     metaDescription:
-      'Cupom Dolce Gusto com 10% OFF. Use CECI10 no checkout para economizar em cápsulas, máquinas e acessórios.',
+      'Cupom Dolce Gusto com 5% OFF. Use CECI no checkout para economizar em cápsulas, máquinas e acessórios.',
     eligibleCategories:
       'Cápsulas selecionadas, máquinas Dolce Gusto e acessórios oficiais',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
@@ -168,20 +168,20 @@ export const COUPONS: Coupon[] = [
     combinable: 'Pode variar conforme campanha ativa da loja oficial',
     lastVerified: '2026-04-30',
     aboutBrand:
-      'A Nescafé Dolce Gusto é uma linha de cafés e bebidas em cápsulas da Nestlé, com máquinas e sabores pensados para preparo rápido em casa. A marca combina praticidade com variedade: cafés intensos, bebidas com leite, cappuccinos, chocolates e opções geladas aparecem no catálogo da loja oficial. O cupom CECI10 entra como benefício para quem acompanha a Cecília e quer economizar em cápsulas, máquinas ou acessórios selecionados. Como em toda parceria comercial, a recomendação deve ser conferida no checkout: o desconto aparece antes da finalização quando o produto está elegível.',
+      'A Nescafé Dolce Gusto é uma linha de cafés e bebidas em cápsulas da Nestlé, com máquinas e sabores pensados para preparo rápido em casa. A marca combina praticidade com variedade: cafés intensos, bebidas com leite, cappuccinos, chocolates e opções geladas aparecem no catálogo da loja oficial. O cupom CECI entra como benefício para quem acompanha a Cecília e quer economizar em cápsulas, máquinas ou acessórios selecionados. Como em toda parceria comercial, a recomendação deve ser conferida no checkout: o desconto aparece antes da finalização quando o produto está elegível.',
     faqs: [
       {
-        question: 'O cupom CECI10 vale para todas as cápsulas Dolce Gusto?',
+        question: 'O cupom CECI vale para todas as cápsulas Dolce Gusto?',
         answer:
           'O cupom pode valer para cápsulas selecionadas, mas a elegibilidade depende das regras atuais da loja. Sempre confirme se o desconto aparece no carrinho antes de finalizar.',
       },
       {
-        question: 'O cupom CECI10 funciona em máquinas Dolce Gusto?',
+        question: 'O cupom CECI funciona em máquinas Dolce Gusto?',
         answer:
           'Pode funcionar em máquinas selecionadas. Caso o produto tenha uma campanha própria ou restrição comercial, o checkout informa se o cupom é aceito.',
       },
       {
-        question: 'Posso usar o cupom CECI10 mais de uma vez?',
+        question: 'Posso usar o cupom CECI mais de uma vez?',
         answer:
           'A regra pode variar conforme campanha da loja oficial, mas o cupom foi cadastrado como benefício recorrente da Cecília. Confira as condições no carrinho.',
       },
@@ -191,7 +191,7 @@ export const COUPONS: Coupon[] = [
           'Não necessariamente. O cupom concede desconto nos produtos elegíveis; frete, prazo e condições de entrega seguem as regras da loja oficial Dolce Gusto.',
       },
       {
-        question: 'O cupom CECI10 é cumulativo?',
+        question: 'O cupom CECI é cumulativo?',
         answer:
           'Depende da campanha vigente. Cupons costumam não acumular com outras promoções, mas alguns kits podem aceitar desconto. O valor final do carrinho é a referência.',
       },
@@ -199,6 +199,68 @@ export const COUPONS: Coupon[] = [
         question: 'O link leva para a loja oficial?',
         answer:
           'Sim. O botão de compra aponta para o site oficial Nescafé Dolce Gusto Brasil informado pela parceria.',
+      },
+    ],
+    status: 'ativo',
+    featured: true,
+  },
+  {
+    slug: 'yesstyle',
+    brand: 'YesStyle',
+    brandUrl: 'https://ystyle.co/x5pes',
+    brandIcon: 'YS',
+    brandLogo: '/images/logos/yesstyle.jpg',
+    brandLogoAlt: 'Marca YesStyle',
+    brandColor: '#111827',
+    code: 'CECILIA010',
+    discount: '5% OFF',
+    discountNumber: 5,
+    category: 'Beleza, moda e lifestyle',
+    shortDescription: 'beleza coreana, skincare, moda e produtos selecionados',
+    longDescription:
+      'Código da Cecília para economizar em compras selecionadas na YesStyle, incluindo produtos de beleza, skincare, moda e lifestyle.',
+    metaTitle: 'Cupom YesStyle 5% OFF • CECILIA010 ativo • Em Casa com Cecília',
+    metaDescription:
+      'Cupom YesStyle com 5% OFF. Use CECILIA010 para economizar em beleza coreana, skincare, moda e produtos selecionados.',
+    eligibleCategories:
+      'Produtos selecionados de beleza, skincare, moda, acessórios e lifestyle conforme regras da loja',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Sim, conforme regras da loja',
+    shipping: 'Calculado separadamente, conforme política internacional da loja',
+    combinable: 'Pode variar conforme campanha ativa da YesStyle',
+    lastVerified: '2026-06-02',
+    aboutBrand:
+      'A YesStyle é uma loja internacional conhecida por produtos de beleza asiática, skincare, moda, acessórios e itens de lifestyle. O cupom CECILIA010 entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar em compras selecionadas. Como regras de desconto, frete e elegibilidade podem variar por campanha, produto e país de entrega, a recomendação é sempre conferir o desconto aplicado no carrinho antes de finalizar a compra.',
+    faqs: [
+      {
+        question: 'O cupom CECILIA010 funciona em todos os produtos da YesStyle?',
+        answer:
+          'O cupom pode valer para produtos selecionados da YesStyle. A elegibilidade depende das regras atuais da loja, então confirme se o desconto aparece no checkout antes de finalizar.',
+      },
+      {
+        question: 'O cupom CECILIA010 vale para skincare e beleza coreana?',
+        answer:
+          'Pode valer para itens selecionados de skincare, beleza coreana e cosméticos, desde que estejam dentro das condições comerciais da campanha ativa.',
+      },
+      {
+        question: 'O cupom YesStyle dá frete grátis?',
+        answer:
+          'Não necessariamente. O cupom aplica desconto nos produtos elegíveis; frete, prazo e condições de entrega seguem as regras internacionais da YesStyle.',
+      },
+      {
+        question: 'O cupom CECILIA010 é cumulativo com outras promoções?',
+        answer:
+          'Pode variar conforme campanha vigente. O valor final exibido no carrinho é sempre a referência para saber se o cupom acumulou ou substituiu outra condição.',
+      },
+      {
+        question: 'Posso usar o cupom CECILIA010 mais de uma vez?',
+        answer:
+          'A regra de reutilização depende da política da loja e da campanha vigente. Se houver limite por conta, CPF ou pedido, o checkout informa.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
       },
     ],
     status: 'ativo',
@@ -263,7 +325,7 @@ export const COUPONS: Coupon[] = [
           'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
       },
     ],
-    status: 'ativo',
+    status: 'pausado',
     featured: true,
   },
 ];
