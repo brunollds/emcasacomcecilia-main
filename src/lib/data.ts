@@ -78,6 +78,7 @@ export interface Review {
   rating?: number;
   description: string;
   publishedAt: string;
+  publishedAtISO?: string;
   image?: string;
   imageAlt?: string;
   youtubeUrl?: string;
@@ -10484,6 +10485,86 @@ export function getRecipeCuisine(recipe: Recipe): string | null {
 }
 
 export const reviews: Review[] = [
+  {
+    id: 16,
+    slug: 'poltrona-amamentacao-rotina',
+    title: 'Poltrona de amamentação: o que fez diferença na rotina aqui em casa',
+    type: 'Móveis & Conforto',
+    description: 'Descubra o que realmente importa ao escolher uma poltrona de amamentação. Dicas práticas da rotina real da Cecília, com link para o guia completo e cupom CECILIA12.',
+    publishedAt: '09 Jun 2026',
+    publishedAtISO: '2026-06-09',
+    image: '/images/reviews/poltrona-reclinavel-cecilia.webp',
+    imageAlt: 'Cecília e o Ian sentados na poltrona reclinável bege da sala de estar.',
+    pros: [],
+    cons: [],
+    contentSections: [
+      {
+        heading: 'Introdução',
+        paragraphs: [
+          'Quando o Ian nasceu, eu achava que o cantinho da amamentação seria o sofá da sala. Colocava uma almofada nas costas, outra no braço, escolhia um lado mais confortável do estofado e ficava ali, às três da manhã, meio dormindo, meio alimentando. Funcionou? Até funcionou. Mas depois de algumas semanas começaram as dores: na lombar, no pescoço, no braço que ficava sem apoio. E o pior era quando eu finalmente conseguia colocar o Ian para dormir no peito, mas não conseguia ajustar minha própria posição sem acordar ele.',
+          'Foi aí que a gente começou a pensar seriamente em uma poltrona de amamentação. Não uma cadeira genérica de escritório, não um puff improvisado. Algo que realmente me segurasse durante sessões de 20, 30, 40 minutos, várias vezes ao dia e à noite. Hoje, depois de meses usando, consigo dizer o que realmente fez diferença — e o que eu olharia de novo se tivesse que escolher.'
+        ]
+      },
+      {
+        heading: 'Resposta rápida: o que funciona de verdade',
+        bullets: [
+          'Reclinação ajustável é essencial, principalmente nas mamadas noturnas quando você também precisa descansar.',
+          'Apoio para os braços na altura certa evita que o ombro e o antebraço façam força o tempo todo.',
+          'Tecido respirável faz muita diferença em climas quentes — para o bebê e para você.',
+          'Movimento suave e silencioso ajuda a não acordar o bebê depois que ele finalmente dormiu.',
+          'Espaço ao redor para um banco ou mesa lateral vale tanto quanto a própria poltrona.'
+        ]
+      },
+      {
+        heading: 'Como a poltrona entrou na rotina',
+        paragraphs: [
+          'No começo eu amamentava em qualquer lugar. Cama, sofá, cadeira da cozinha. Cada lugar tinha um problema: na cama eu acabava deitada de um jeito ruim para a coluna, no sofá afundava demais e não tinha apoio de braço, na cadeira da cozinha ficava rígida demais. O corpo foi acumulando cansaço e, sem eu perceber, a amamentação virou uma tarefa desconfortável.',
+          'A poltrona reclinável mudou isso porque ela permite ajustar a posição sem eu precisar me movimentar muito. Quando o Ian está mais agitado, deixo o encosto mais ereto. Quando ele cai no sono, reclino devagar e aproveito para descansar também.',
+          'O movimento é silencioso — e isso não é detalhe pequeno, porque qualquer barulho na madruga pode reiniciar tudo do zero. Outra coisa que só descobri usando: o apoio de braços. Não basta ter braços na poltrona. Eles precisam estar na altura certa para que o bebê fique alinhado ao seio sem você ter que curvar os ombros. Quando o braço fica muito baixo, você acaba compensando com a coluna. Quando fica muito alto, fica rígido. A altura ideal é quase sempre algo intermediário.'
+        ],
+        image: '/images/reviews/poltrona-reclinavel-cecilia-botao-reclinacao.webp',
+        imageAlt: 'Cecília mostrando o botão de reclinação na lateral da poltrona reclinável.',
+        imageCaption: 'O botão na lateral permite ajustar a posição sem movimentos bruscos — importante quando o bebê acabou de dormir.'
+      },
+      {
+        heading: 'O que eu observaria antes de comprar',
+        paragraphs: [
+          'Se eu fosse escolher de novo, prestaria atenção em cinco coisas:'
+        ],
+        bullets: [
+          '1. Profundidade do assento: poltronas muito fundas dificultam levantar com o bebê no colo. Prefira algo que permita apoiar bem os pés no chão.',
+          '2. Mecanismo de reclinação: manuais são mais baratas, mas elétricas ajudam muito quando você está com o bebê em uma das mãos.',
+          '3. Tecido e limpeza: vazamentos acontecem. Tecidos com boa resistência e fáceis de limpar salvam a peça a longo prazo.',
+          '4. Estabilidade da base: você vai entrar e sair da poltrona centenas de vezes com o bebê. Base firme e que não escorregue é segurança.',
+          '5. Tomada próxima: se for elétrica, verifique se há ponto de energia perto do canto escolhido. Parece óbvio, mas já vi gente esquecer disso.'
+        ]
+      },
+      {
+        heading: 'Onde a Damie pode entrar nessa decisão',
+        paragraphs: [
+          'Quando a gente pesquisou opções, encontramos várias poltronas reclináveis no mercado. A Damie apareceu como uma alternativa brasileira com boa variedade de revestimentos e mecanismos que fazem sentido para quem vai usar a poltrona como cantinho de amamentação e, depois, como lugar de descanso da família.',
+          'O que me chamou atenção na época foi a possibilidade de escolher tecido linho — que é respirável, importante para quem vive em lugar quente — e o fato de a montagem ser simples. Com bebê pequeno em casa, não dá para perder um dia inteiro montando móvel. Além disso, os modelos com reclinação elétrica e ajuste silencioso funcionam bem para quem precisa mudar de posição sem acordar o neném.',
+          'Se você está nessa fase de pesquisa, vale a pena ler o guia completo que preparei sobre o tema:'
+        ],
+        links: [
+          {
+            label: 'Guia: como escolher poltrona para amamentação',
+            href: 'https://damie.emcasacomcecilia.com/guias/poltrona-para-amamentacao?utm_source=site-principal&utm_content=amamentacao'
+          }
+        ]
+      },
+      {
+        heading: 'Veredito',
+        paragraphs: [
+          'Nossa poltrona virou parte da rotina. Não é apenas o lugar da amamentação — é onde eu descanso depois das mamadas, onde o Ian dorme no colo às vezes, onde a gente se senta para ler histórias no fim do dia. Se você está montando esse cantinho agora, escolha pensando no conforto real do dia a dia, não só na foto do ambiente.',
+          'Se quiser conhecer a linha de poltronas que a gente pesquisou e que tem cupom de desconto ativo, dá uma olhada no especial Damie da Cecília. Use o cupom CECILIA12 no checkout e confira se o desconto foi aplicado antes de finalizar a compra.'
+        ],
+        image: '/images/reviews/poltrona-reclinavel-cecilia-ian.webp',
+        imageAlt: 'Cecília com o Ian no colo na poltrona reclinável.',
+        imageCaption: 'O cantinho de amamentação virou também lugar de descanso, leitura e momentos juntos no fim do dia.'
+      }
+    ]
+  },
   {
     id: 15,
     slug: 'minha-experiencia-manteiga-batida-aerada',

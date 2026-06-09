@@ -27,6 +27,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     url: `${BASE_URL}/reviews/${getReviewSlug(review)}`,
     priority: 0.6,
     changeFrequency: 'monthly' as const,
+    lastModified: review.publishedAtISO,
   }));
 
   const couponRoutes: MetadataRoute.Sitemap = getActiveCoupons().map((coupon) => ({

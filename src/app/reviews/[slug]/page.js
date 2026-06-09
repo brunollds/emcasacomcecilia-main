@@ -119,7 +119,7 @@ export default async function ReviewPage({ params }) {
     name: review.title,
     headline: review.title,
     description: review.description,
-    datePublished: review.publishedAt,
+    datePublished: review.publishedAtISO || review.publishedAt,
     author: {
       '@type': 'Person',
       name: 'Cecília',
@@ -339,6 +339,9 @@ export default async function ReviewPage({ params }) {
             <p className="mt-5 rounded-2xl bg-[#1a4d2e]/8 px-5 py-4 text-lg font-bold leading-relaxed text-[#0f1419]">
               {verdictSection.emphasis}
             </p>
+          )}
+          {verdictSection?.image && (
+            <ReviewInlineImage section={verdictSection} reviewTitle={review.title} />
           )}
           <p className="mt-5 text-sm font-medium text-gray-500">
             Publicado em {review.publishedAt}. Esta análise reflete a experiência editorial do Em Casa com Cecília.
