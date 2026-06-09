@@ -17,6 +17,8 @@ export interface Coupon {
   brandIcon: string;
   brandLogo?: string;
   brandLogoAlt?: string;
+  socialImage?: string;
+  socialImageAlt?: string;
   brandColor: string;
   code: string;
   discount: string;
@@ -53,6 +55,8 @@ export const COUPONS: Coupon[] = [
     brandIcon: 'D',
     brandLogo: '/images/about/partners/damie.jpg',
     brandLogoAlt: 'Marca DAMIE',
+    socialImage: '/images/reviews/poltronas-reclinaveis-damie.webp',
+    socialImageAlt: 'Poltronas reclináveis DAMIE',
     brandColor: '#C24B1F',
     code: 'CECILIA12',
     discount: '12% OFF',
@@ -63,14 +67,14 @@ export const COUPONS: Coupon[] = [
       'Código exclusivo da Cecília para economizar em poltronas, sofás, camas estofadas e móveis selecionados da DAMIE.',
     metaTitle: 'Cupom DAMIE 12% OFF • CECILIA12 ativo • Em Casa com Cecília',
     metaDescription:
-      'Cupom DAMIE com 12% OFF. Use CECILIA12 no checkout para economizar em poltronas, sofás e camas premium.',
+      'Cupom DAMIE atualizado junho 2026: use CECILIA12 para 12% OFF em poltronas, sofás e móveis selecionados.',
     eligibleCategories:
       'Poltronas reclináveis, sofás, camas estofadas e móveis selecionados',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
     reusable: 'Sim, sem limite de usos por CPF',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Não cumulativo com outros cupons ou promoções especiais',
-    lastVerified: '2026-04-30',
+    lastVerified: '2026-06-09',
     aboutBrand:
       'A DAMIE é uma marca brasileira de móveis estofados premium, com foco em poltronas reclináveis, sofás, camas e soluções de conforto para a casa. A Cecília usa produtos da marca no dia a dia e produziu reviews mostrando montagem, acabamento, conforto e uso real em casa. O cupom CECILIA12 foi criado para quem acompanha o Em Casa com Cecília e quer comprar com desconto direto no checkout. A proposta da parceria é simples: indicar produtos que fazem sentido para uma casa mais confortável, sem esconder que existe relação comercial e comissão de afiliado quando uma compra é feita pelo link ou cupom.',
     faqs: [
@@ -118,25 +122,25 @@ export const COUPONS: Coupon[] = [
     relatedContent: [
       {
         title: 'Minha experiência: Poltronas Reclináveis DAMIE',
-        url: '/reviews/minha-experiencia-poltronas-reclinaveis',
+        url: '/reviews/poltronas-reclinaveis-damie-vale-o-investimento',
         type: 'review',
         publishedAt: '2025-04-17',
       },
       {
         title: 'Review: Sofá Modular DAMIE',
-        url: '/reviews/sofa-modular-damie',
+        url: '/reviews/sofa-damie-na-caixa-vale-a-pena-o-modular',
         type: 'review',
         publishedAt: '2026-04-29',
       },
       {
         title: 'Review: Poltrona Moon DAMIE',
-        url: '/reviews/poltrona-moon-damie',
+        url: '/reviews/poltrona-moon-design-que-parece-obra-de-arte',
         type: 'review',
         publishedAt: '2026-04-29',
       },
       {
         title: 'Review: Poltrona Levita DAMIE',
-        url: '/reviews/poltrona-levita-damie',
+        url: '/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto',
         type: 'review',
         publishedAt: '2026-04-29',
       },

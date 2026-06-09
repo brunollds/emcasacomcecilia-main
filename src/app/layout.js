@@ -16,7 +16,6 @@ export const metadata = {
   metadataBase: new URL("https://emcasacomcecilia.com"),
   title: "Em Casa com Cecília - Receitas Práticas e Deliciosas",
   description: "Receitas caseiras, reviews sinceros e análises de produtos. Aprenda a cozinhar pratos deliciosos com a Cecília! +550K seguidores nas redes sociais.",
-  keywords: ["receitas", "culinária", "reviews", "análises", "comida caseira", "Cecília", "Em Casa com Cecília"],
   authors: [{ name: "Cecília Mauad" }],
   openGraph: {
     title: "Em Casa com Cecília - Receitas Práticas e Deliciosas",

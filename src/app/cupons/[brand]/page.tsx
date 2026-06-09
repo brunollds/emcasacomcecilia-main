@@ -18,6 +18,8 @@ export const dynamicParams = true;
 export function generateMetadata({ params }: { params: { brand: string } }): Metadata {
   const coupon = getCouponBySlug(params.brand);
   if (!coupon) return {};
+  const socialImage = coupon.socialImage || coupon.brandLogo || '/images/logos/logo-em-casa-com-cecilia.png';
+  const socialImageAlt = coupon.socialImageAlt || coupon.brandLogoAlt || 'Em Casa com Cecília';
 
   return {
     title: coupon.metaTitle,
@@ -32,10 +34,16 @@ export function generateMetadata({ params }: { params: { brand: string } }): Met
       type: 'article',
       images: [
         {
-          url: '/images/logos/logo-em-casa-com-cecilia.png',
-          alt: 'Logo Em Casa com Cecília',
+          url: socialImage,
+          alt: socialImageAlt,
         },
       ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: coupon.metaTitle,
+      description: coupon.metaDescription,
+      images: [socialImage],
     },
   };
 }
@@ -61,9 +69,21 @@ function getJsonLd(coupon: NonNullable<ReturnType<typeof getCouponBySlug>>) {
       name: coupon.brand,
       url: coupon.brandUrl,
     },
-    validFrom: coupon.lastVerified,
+    dateModified: coupon.lastVerified,
     url,
     couponCode: coupon.code,
+  };
+
+  const webPage = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: coupon.metaTitle,
+    description: coupon.metaDescription,
+    url,
+    dateModified: coupon.lastVerified,
+    primaryImageOfPage: coupon.socialImage
+      ? `https://emcasacomcecilia.com${coupon.socialImage}`
+      : undefined,
   };
 
   const faq = {
@@ -104,7 +124,7 @@ function getJsonLd(coupon: NonNullable<ReturnType<typeof getCouponBySlug>>) {
     ],
   };
 
-  return [offer, faq, breadcrumb];
+  return [webPage, offer, faq, breadcrumb];
 }
 
 export default function CouponBrandPage({ params }: { params: { brand: string } }) {
@@ -113,7 +133,7 @@ export default function CouponBrandPage({ params }: { params: { brand: string } 
 
   const otherCoupons = getOtherActiveCoupons(coupon.slug);
   const jsonLd = getJsonLd(coupon);
-  const lastVerified = new Date(coupon.lastVerified).toLocaleDateString('pt-BR', {
+  const lastVerified = new Date(`${coupon.lastVerified}T12:00:00`).toLocaleDateString('pt-BR', {
     day: 'numeric',
     month: 'long',
     year: 'numeric',
@@ -167,6 +187,19 @@ export default function CouponBrandPage({ params }: { params: { brand: string } 
           </div>
         </div>
       </section>
+
+      {coupon.slug === 'damie' && (
+        <section className="px-4 pt-8">
+          <div className="mx-auto max-w-5xl rounded-2xl border border-[#ff6b35]/30 bg-white px-5 py-4 shadow-soft">
+            <p className="font-heading text-lg font-black text-[#0f1419]">
+              Cupom Damie atualizado: CECILIA12 — 12% OFF em todo o site (junho 2026).
+            </p>
+            <p className="mt-2 text-sm leading-relaxed text-[#0f1419]/70">
+              Funciona com Pix e cartão. Confirme o desconto no checkout antes de finalizar.
+            </p>
+          </div>
+        </section>
+      )}
 
       <section className="px-4 py-12">
         <div className="mx-auto max-w-5xl">
