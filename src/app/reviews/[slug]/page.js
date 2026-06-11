@@ -343,6 +343,21 @@ export default async function ReviewPage({ params }) {
           {verdictSection?.image && (
             <ReviewInlineImage section={verdictSection} reviewTitle={review.title} />
           )}
+          {verdictSection?.links?.length > 0 && (
+            <div className="mt-6 flex flex-wrap gap-3">
+              {verdictSection.links.map((link) => (
+                <a
+                  key={link.href}
+                  href={link.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex rounded-full bg-[#0f1d3a] px-5 py-2.5 text-sm font-bold text-white transition-all hover:-translate-y-0.5 hover:bg-[#ff6b35] hover:shadow-md"
+                >
+                  {link.label}
+                </a>
+              ))}
+            </div>
+          )}
           <p className="mt-5 text-sm font-medium text-gray-500">
             Publicado em {review.publishedAt}. Esta análise reflete a experiência editorial do Em Casa com Cecília.
           </p>

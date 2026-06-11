@@ -10486,6 +10486,115 @@ export function getRecipeCuisine(recipe: Recipe): string | null {
 
 export const reviews: Review[] = [
   {
+    id: 17,
+    slug: 'cupom-cecilia12-como-usar',
+    title: 'Cupom Damie CECILIA12: como usar o desconto da Cecília',
+    type: 'Guia & Cupons',
+    description: 'Passo a passo simples para usar o cupom CECILIA12 no site da Damie. Veja onde digitar o código e como confirmar o desconto antes de finalizar a compra.',
+    publishedAt: '11 Jun 2026',
+    publishedAtISO: '2026-06-11',
+    image: '/images/reviews/poltronas-reclinaveis-damie.webp',
+    imageAlt: 'Conjunto de poltronas reclináveis Damie em tom caramelo.',
+    pros: [],
+    cons: [],
+    contentSections: [
+      {
+        heading: 'Introdução',
+        paragraphs: [
+          'Toda vez que mostro nossa poltrona reclinável nas redes, aparece alguém perguntando: "Cecília, o cupom ainda funciona?" ou "Onde eu coloco o CECILIA12?". Às vezes a pessoa já está no site da Damie, com o produto no carrinho, e não sabe exatamente onde aplicar o código. Outras vezes, tem medo de o desconto não ter sido aplicado e acabar pagando o valor cheio sem perceber.',
+          'Já passei por isso em outras compras. Cupom que não funciona, código que dá erro, desconto que some no checkout. Por isso resolvi escrever este passo a passo com tudo o que você precisa saber para usar o cupom CECILIA12 sem surpresa. É simples, mas vale a pena conferir cada etapa antes de finalizar.'
+        ]
+      },
+      {
+        heading: 'Resposta rápida: como usar o cupom CECILIA12',
+        bullets: [
+          'Acesse o site oficial da Damie e escolha o produto que você quer.',
+          'Adicione ao carrinho e vá para o checkout.',
+          'No campo de cupom ou código promocional, digite CECILIA12 exatamente como está escrito.',
+          'Clique em aplicar e confirme se o desconto apareceu no valor total antes de pagar.',
+          'O cupom oferece 12% de desconto em compras no site oficial, conforme as condições vigentes.'
+        ]
+      },
+      {
+        heading: '1. Escolha o produto no site oficial',
+        paragraphs: [
+          'O cupom CECILIA12 é válido para compras feitas diretamente no site da Damie. Funciona para poltronas reclináveis, poltronas decorativas, sofás modulares e outros produtos da linha, conforme as regras ativas no momento da compra. Meu conselho é: escolha o modelo, o revestimento e a cor com calma antes de ir para o carrinho. Trocar depois de aplicar o cupom pode resetar o checkout e você teria que digitar o código de novo.'
+        ]
+      },
+      {
+        heading: '2. Adicione ao carrinho e revise o pedido',
+        paragraphs: [
+          'Antes de correr para o pagamento, confira se o produto selecionado é realmente o que você quer.'
+        ],
+        bullets: [
+          'Confira o modelo e o tamanho, especialmente nos sofás modulares, onde a quantidade de lugares muda o valor.',
+          'Revise o tecido e a cor escolhidos.',
+          'Veja se há algum acessório adicional, como porta-copos, massageador ou entrada USB.'
+        ]
+      },
+      {
+        heading: '3. Aplique o cupom no checkout',
+        paragraphs: [
+          'No momento do pagamento, procure o campo indicado como "Cupom de desconto", "Código promocional" ou algo similar. Digite CECILIA12 sem espaços e sem alterar as letras. Clique em aplicar. Se o código estiver válido, o desconto deve aparecer automaticamente no resumo do pedido, reduzindo o valor total.'
+        ]
+      },
+      {
+        heading: '4. Confirme o desconto antes de pagar',
+        paragraphs: [
+          'Aqui está o passo mais importante: confira se o desconto foi realmente aplicado antes de finalizar a compra. O valor final deve ser menor que o original. Se o cupom não funcionar, pode ser que:'
+        ],
+        bullets: [
+          'O código tenha sido digitado com erro de digitação.',
+          'O produto selecionado não esteja elegível naquele momento.',
+          'O cupom tenha atingido um limite de uso ou expirado.',
+          'Em qualquer um desses casos, entre em contato direto com o suporte da Damie antes de concluir o pagamento.'
+        ]
+      },
+      {
+        heading: 'O que eu observaria antes de comprar',
+        paragraphs: [
+          'O cupom ajuda, mas a compra de um móvel de alto padrão precisa de planejamento além do desconto. Antes de usar o CECILIA12, eu faria estas verificações:'
+        ],
+        bullets: [
+          'Medir o ambiente: poltronas reclináveis precisam de espaço para abrir. Sofás modulares precisam caber no elevador e na porta.',
+          'Escolher o tecido pensando no uso real: criança, pet e incidência de luz solar mudam a escolha do revestimento.',
+          'Verificar o prazo de entrega: a Damie trabalha com frete por transportadora especializada, então confirme o tempo para sua região.',
+          'Ler as condições de troca: a marca oferece 30 dias para troca ou devolução, mas é importante conhecer os detalhes antes da compra.'
+        ]
+      },
+      {
+        heading: 'Onde a Damie entra nessa história',
+        paragraphs: [
+          'A parceria com a Damie surgiu naturalmente. A gente pesquisou muito antes de comprar nossa primeira poltrona reclinável, testou o produto em casa por meses e só depois de ter experiência real com a marca é que surgiu a possibilidade do cupom CECILIA12. Não é um código genérico de internet. É um desconto que nasceu da nossa relação real com os produtos.',
+          'Se você está pesquisando poltrona reclinável, sofá modular ou poltrona decorativa, o cupom pode ajudar a reduzir o investimento. Mas o mais importante ainda é escolher o produto certo para a sua casa. No especial Damie da Cecília você encontra dicas de escolha, comparações e cuidados na hora de montar o ambiente.'
+        ],
+        links: [
+          {
+            label: 'Ver o especial Damie da Cecília',
+            href: 'https://damie.emcasacomcecilia.com/?utm_source=site-principal&utm_content=cupom-page'
+          },
+          {
+            label: 'Guia de poltrona para amamentação',
+            href: 'https://damie.emcasacomcecilia.com/guias/poltrona-para-amamentacao?utm_source=site-principal&utm_content=cupom-page'
+          }
+        ]
+      },
+      {
+        heading: 'Veredito',
+        paragraphs: [
+          'Se você chegou até aqui já com o produto escolhido, o passo final é simples: no checkout do site da Damie, digite CECILIA12, clique em aplicar e confira se o desconto de 12% apareceu no valor total antes de pagar. Se tiver dúvida, o suporte da Damie pode ajudar diretamente pelo site.',
+          'E se ainda está na fase de pesquisa, não tem pressa. Escolha com calma, meça o ambiente, pense no tecido e só depois use o cupom. O desconto está ali para quando você estiver pronta.'
+        ],
+        links: [
+          {
+            label: 'Usar o cupom CECILIA12 na Damie',
+            href: 'https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_content=cupom-page'
+          }
+        ]
+      }
+    ]
+  },
+  {
     id: 16,
     slug: 'poltrona-amamentacao-rotina',
     title: 'Poltrona de amamentação: o que fez diferença na rotina aqui em casa',

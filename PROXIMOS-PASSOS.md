@@ -113,6 +113,12 @@
 - [ ] Avaliar uso pontual de `@chenglou/pretext` no bloco editorial das páginas de receita (`intro` + curiosidade), para tipografia mais rica sem transformar Pretext em base global do layout
 - [ ] Prototipar um `RecipeEditorialBlock` isolado antes de adotar a biblioteca em outras áreas
 - [ ] Considerar Pretext para rich inline/chips apenas se o experimento do bloco editorial justificar a complexidade
+- [ ] Auditar prioridades pendentes antes de iniciar a padronização visual de autoria
+- [ ] Criar um componente compartilhado `ArticleByline` com variantes editorial e compacta
+- [ ] Aplicar a byline completa em reviews/artigos: foto, Cecília Mauad, link para `/sobre` e data
+- [ ] Aplicar uma byline compacta nas páginas individuais de receita
+- [ ] Padronizar o schema `Person` de receitas e reviews com nome completo e URL da página `/sobre`
+- [ ] Avaliar suporte consistente a `datePublished` e `dateModified` antes de preencher datas retroativas
 
 ---
 
