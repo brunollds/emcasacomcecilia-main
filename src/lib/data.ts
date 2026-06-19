@@ -186,6 +186,7 @@ export interface Review {
   updatedAt?: string;
   author?: PersonRef;
   authors?: PersonRef[];
+  isNew?: boolean;
   image?: string;
   imageAlt?: string;
   imageAspect?: 'landscape' | 'portrait' | 'square';
@@ -19713,6 +19714,7 @@ export const reviews: Review[] = [
     metaDescription: 'Cupom CECI NESCAFÉ Dolce Gusto: use o código CECI no site oficial e ganhe 5% OFF em cápsulas, cafeteiras e acessórios para compras acima de R$ 100. Ativo para JUNHO 2026.',
     publishedAt: '19 Jun 2026',
     publishedAtISO: '2026-06-19',
+    isNew: true,
     image: '/images/reviews/cupons/nescafe-dolce-gusto-hero.webp',
     imageAlt: 'Cápsulas de café NESCAFÉ Dolce Gusto e máquina de café em cima de uma mesa.',
     imageFit: 'cover',

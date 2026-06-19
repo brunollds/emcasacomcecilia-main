@@ -47,12 +47,22 @@ const estimateReadingTime = (review) => {
 
 const uniqueTypes = ['Todos', ...Array.from(new Set(publishedReviews.map((r) => r.type))).sort()];
 
+const sortReviewsByDateDesc = (items) =>
+  [...items].sort((a, b) => {
+    const dateA = a.publishedAtISO ? Date.parse(a.publishedAtISO) : 0;
+    const dateB = b.publishedAtISO ? Date.parse(b.publishedAtISO) : 0;
+    return dateB - dateA || b.id - a.id;
+  });
+
 export default function ReviewsClientPage() {
   const [activeType, setActiveType] = useState('Todos');
   const [visible, setVisible] = useState(INITIAL_COUNT);
 
   const filtered = useMemo(
-    () => (activeType === 'Todos' ? publishedReviews : publishedReviews.filter((r) => r.type === activeType)),
+    () =>
+      sortReviewsByDateDesc(
+        activeType === 'Todos' ? publishedReviews : publishedReviews.filter((r) => r.type === activeType)
+      ),
     [activeType]
   );
 
@@ -169,9 +179,16 @@ export default function ReviewsClientPage() {
 
                       {/* Tag tipo */}
                       <div className="absolute left-4 top-4">
-                        <span className="inline-flex items-center gap-1.5 rounded-full bg-white/95 px-3 py-1.5 text-[10px] font-bold uppercase tracking-[0.2em] text-[#0f1419] shadow-lg backdrop-blur-md">
-                          {review.type}
-                        </span>
+                        <div className="flex flex-wrap gap-2">
+                          {review.isNew && (
+                            <span className="inline-flex items-center rounded-full bg-[#ff6b35] px-3 py-1.5 text-[10px] font-black uppercase tracking-[0.2em] text-white shadow-lg">
+                              Novo
+                            </span>
+                          )}
+                          <span className="inline-flex items-center gap-1.5 rounded-full bg-white/95 px-3 py-1.5 text-[10px] font-bold uppercase tracking-[0.2em] text-[#0f1419] shadow-lg backdrop-blur-md">
+                            {review.type}
+                          </span>
+                        </div>
                       </div>
 
                       {/* Ícone central quando sem imagem */}
