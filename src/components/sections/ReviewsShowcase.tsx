@@ -74,6 +74,26 @@ export function ReviewsShowcase() {
             const readingTime = estimateReadingTime(review);
             const isFeatured = index === 0;
             const isProductReview = Boolean(review.rating);
+            const imageClassName =
+              review.imageFit === 'cover'
+                ? 'object-cover'
+                : review.imageFit === 'contain'
+                  ? 'object-contain bg-white p-3'
+                  : isProductReview
+                    ? 'object-contain bg-white p-3'
+                    : 'object-cover';
+            const objectPosition =
+              review.imagePosition && (review.imageFit === 'cover' || (!review.imageFit && !isProductReview))
+                ? review.imagePosition === 'top'
+                  ? '50% 10%'
+                  : review.imagePosition === 'bottom'
+                    ? '50% 90%'
+                    : review.imagePosition === 'left'
+                      ? '20% 50%'
+                      : review.imagePosition === 'right'
+                        ? '80% 50%'
+                        : review.imagePosition
+                : undefined;
 
             return (
               <Link
@@ -92,9 +112,8 @@ export function ReviewsShowcase() {
                         src={review.image}
                         alt={review.imageAlt || review.title}
                         fill
-                        className={`transition-transform duration-700 ease-out group-hover:scale-110 ${
-                          isProductReview ? 'object-contain bg-white p-3' : 'object-cover'
-                        }`}
+                        className={`transition-transform duration-700 ease-out group-hover:scale-110 ${imageClassName}`}
+                        style={objectPosition ? { objectPosition } : undefined}
                         sizes="(max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"
                       />
                     ) : (

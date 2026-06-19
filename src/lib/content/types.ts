@@ -299,7 +299,7 @@ export interface Review {
   image?: string;
   imageAlt?: string;
   imageAspect?: 'landscape' | 'portrait' | 'square';
-  imagePosition?: 'center' | 'top' | 'bottom';
+  imagePosition?: 'center' | 'top' | 'bottom' | 'left' | 'right';
   imageFit?: 'cover' | 'contain';
   coverImage?: Image;
   category?: string;

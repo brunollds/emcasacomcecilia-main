@@ -8,7 +8,7 @@ export interface ReviewHeroImageProps {
   alt: string;
   isPortrait?: boolean;
   imageAspect?: 'landscape' | 'portrait' | 'square';
-  imagePosition?: 'center' | 'top' | 'bottom';
+  imagePosition?: 'center' | 'top' | 'bottom' | 'left' | 'right';
   imageFit?: 'cover' | 'contain';
   hasProductRating?: boolean;
   rating?: number;
@@ -24,6 +24,8 @@ const POSITION_CLASSES = {
   center: 'object-center',
   top: 'object-top',
   bottom: 'object-bottom',
+  left: 'object-left',
+  right: 'object-right',
 };
 
 export function ReviewHeroImage({

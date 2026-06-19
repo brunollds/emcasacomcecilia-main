@@ -191,7 +191,7 @@ export interface Review {
   imageAlt?: string;
   imageAspect?: 'landscape' | 'portrait' | 'square';
   draft?: boolean;
-  imagePosition?: 'center' | 'top' | 'bottom';
+  imagePosition?: 'center' | 'top' | 'bottom' | 'left' | 'right';
   imageFit?: 'cover' | 'contain';
   youtubeUrl?: string;
   audio?: AudioClip;
@@ -19718,6 +19718,7 @@ export const reviews: Review[] = [
     image: '/images/reviews/cupons/nescafe-dolce-gusto-hero.webp',
     imageAlt: 'Cápsulas de café NESCAFÉ Dolce Gusto e máquina de café em cima de uma mesa.',
     imageFit: 'cover',
+    imagePosition: 'right',
     gallery: [
       {
         image: '/images/reviews/cupons/nescafe-dolce-gusto-galeria-1.webp',
