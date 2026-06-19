@@ -1,0 +1,75 @@
+'use client';
+
+import { EditorialReveal, SectionHeadingReveal } from '@/components/editorial';
+import { ReviewSectionContent } from './ReviewSectionContent';
+import type { ContentSection, ReviewKind } from '@/lib/content';
+
+export interface ReviewContentSectionsProps {
+  sections: ContentSection[];
+  reviewTitle: string;
+  sectionIds: Map<string, string>;
+  filterHeadings?: string[];
+  kind?: ReviewKind;
+}
+
+function getStepNumber(heading?: string): string | null {
+  const match = heading?.match(/^(?:Passo\s+|Step\s+)?(\d+)(?:[\.\):\s]|\s+)/i);
+  return match?.[1] || null;
+}
+
+export function ReviewContentSections({
+  sections,
+  reviewTitle,
+  sectionIds,
+  filterHeadings = [],
+  kind = 'editorial',
+}: ReviewContentSectionsProps): React.ReactElement | null {
+  const visibleSections = sections.filter((section) => !filterHeadings.includes(section.heading || ''));
+
+  if (visibleSections.length === 0) {
+    return null;
+  }
+
+  return (
+    <div className="space-y-10">
+      {visibleSections.map((section, index) => {
+        const sectionId = section.heading ? sectionIds.get(section.heading) : undefined;
+        const stepNumber = getStepNumber(section.heading);
+        const isFirst = index === 0;
+
+        return (
+          <EditorialReveal
+            as="section"
+            key={section.heading || `section-${index}`}
+            id={sectionId}
+            className="scroll-mt-32 lg:scroll-mt-28"
+          >
+            {section.heading && (
+              <div className={stepNumber ? 'mb-5 flex items-start gap-4' : ''}>
+                {stepNumber && (
+                  <span className="mt-1 flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-full bg-[#ff6b35] font-handwritten text-2xl font-bold text-white shadow-soft">
+                    {stepNumber}
+                  </span>
+                )}
+                <SectionHeadingReveal
+                  as="h2"
+                  underlineColor="#ff6b35"
+                  className={`${stepNumber ? 'mb-0 flex-1 pt-1' : 'mb-5'} font-editorial text-2xl font-bold text-[#1a4d2e]`}
+                >
+                  {stepNumber ? section.heading.replace(/^\d+\.\s+/, '') : section.heading}
+                </SectionHeadingReveal>
+              </div>
+            )}
+
+            <ReviewSectionContent
+              section={section}
+              reviewTitle={reviewTitle}
+              isFirst={isFirst}
+              kind={kind}
+            />
+          </EditorialReveal>
+        );
+      })}
+    </div>
+  );
+}

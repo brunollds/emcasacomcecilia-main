@@ -4,7 +4,7 @@ import { useState, useMemo } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { ArrowRight, Leaf } from 'lucide-react';
-import { getReviewSlug, reviews } from '@/lib/data';
+import { getReviewSlug, publishedReviews } from '@/lib/data';
 
 const INITIAL_COUNT = 8;
 const LOAD_MORE_COUNT = 4;
@@ -45,14 +45,14 @@ const estimateReadingTime = (review) => {
   return Math.max(2, Math.ceil(words / 180));
 };
 
-const uniqueTypes = ['Todos', ...Array.from(new Set(reviews.map((r) => r.type))).sort()];
+const uniqueTypes = ['Todos', ...Array.from(new Set(publishedReviews.map((r) => r.type))).sort()];
 
 export default function ReviewsClientPage() {
   const [activeType, setActiveType] = useState('Todos');
   const [visible, setVisible] = useState(INITIAL_COUNT);
 
   const filtered = useMemo(
-    () => (activeType === 'Todos' ? reviews : reviews.filter((r) => r.type === activeType)),
+    () => (activeType === 'Todos' ? publishedReviews : publishedReviews.filter((r) => r.type === activeType)),
     [activeType]
   );
 
@@ -133,8 +133,26 @@ export default function ReviewsClientPage() {
                           alt={review.imageAlt || review.title}
                           fill
                           className={`transition-transform duration-700 ease-out group-hover:scale-110 ${
-                            isProductReview ? 'object-contain bg-white p-4' : 'object-cover'
+                            review.imageFit === 'cover'
+                              ? 'object-cover'
+                              : review.imageFit === 'contain'
+                                ? 'object-contain bg-white p-4'
+                                : isProductReview
+                                  ? 'object-contain bg-white p-4'
+                                  : 'object-cover'
                           }`}
+                          style={
+                            review.imagePosition && (review.imageFit === 'cover' || (!review.imageFit && !isProductReview))
+                              ? {
+                                  objectPosition:
+                                    review.imagePosition === 'top'
+                                      ? '50% 10%'
+                                      : review.imagePosition === 'bottom'
+                                        ? '50% 90%'
+                                        : review.imagePosition,
+                                }
+                              : undefined
+                          }
                           sizes="(max-width: 768px) 50vw, (max-width: 1280px) 33vw, 25vw"
                         />
                       ) : (

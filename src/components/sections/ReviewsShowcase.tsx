@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { ArrowRight } from 'lucide-react';
-import { getReviewSlug, reviews } from '@/lib/data';
+import { getReviewSlug, publishedReviews } from '@/lib/data';
 
 const accentByType: Record<string, string> = {
   Eletrodoméstico: '#ff6b35',
@@ -19,7 +19,7 @@ const iconByType: Record<string, string> = {
   Ingrediente: '🧂',
 };
 
-const estimateReadingTime = (review: (typeof reviews)[number]) => {
+const estimateReadingTime = (review: (typeof publishedReviews)[number]) => {
   const words = [
     review.title,
     review.description,
@@ -41,8 +41,8 @@ const estimateReadingTime = (review: (typeof reviews)[number]) => {
 
 export function ReviewsShowcase() {
   const featuredReviews = [
-    ...reviews.filter((review) => review.image),
-    ...reviews.filter((review) => !review.image),
+    ...publishedReviews.filter((review) => review.image),
+    ...publishedReviews.filter((review) => !review.image),
   ].slice(0, 4);
 
   return (

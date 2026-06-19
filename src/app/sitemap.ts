@@ -1,5 +1,5 @@
 import type { MetadataRoute } from 'next';
-import { recipes, reviews, getReviewSlug } from '@/lib/data';
+import { recipes, publishedReviews, getReviewSlug } from '@/lib/data';
 import { getActiveCoupons } from '@/lib/couponsData';
 
 const BASE_URL = 'https://emcasacomcecilia.com';
@@ -23,7 +23,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     changeFrequency: 'monthly' as const,
   }));
 
-  const reviewRoutes: MetadataRoute.Sitemap = reviews.map((review) => ({
+  const reviewRoutes: MetadataRoute.Sitemap = publishedReviews.map((review) => ({
     url: `${BASE_URL}/reviews/${getReviewSlug(review)}`,
     priority: 0.6,
     changeFrequency: 'monthly' as const,

@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState, useSyncExternalStore } from 'react';
 import { Pause, Play, RotateCcw, Square } from 'lucide-react';
 
 function splitIntoChunks(text) {
@@ -24,15 +24,32 @@ function splitIntoChunks(text) {
     .filter(Boolean);
 }
 
+function subscribeToHydration() {
+  return () => {};
+}
+
+function getHydratedSnapshot() {
+  return true;
+}
+
+function getServerSnapshot() {
+  return false;
+}
+
 export default function TextToSpeechButton({ text, label = 'Ouvir artigo' }) {
   const [status, setStatus] = useState('idle');
   const chunksRef = useRef([]);
   const indexRef = useRef(0);
-  const isSupported = typeof window !== 'undefined' && 'speechSynthesis' in window;
+  const isHydrated = useSyncExternalStore(
+    subscribeToHydration,
+    getHydratedSnapshot,
+    getServerSnapshot
+  );
+  const isSupported = isHydrated && typeof window !== 'undefined' && 'speechSynthesis' in window;
 
   useEffect(() => {
     return () => {
-      if ('speechSynthesis' in window) {
+      if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
         window.speechSynthesis.cancel();
       }
     };

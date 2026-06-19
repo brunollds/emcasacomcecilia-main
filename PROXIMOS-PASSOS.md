@@ -1,7 +1,94 @@
 # 🚀 Próximos Passos - Em Casa com Cecília
 
-**Data:** 24 Abr 2026
-**Status:** Estrutura principal concluída; `/categorias` em ponto bom para v1.0, `/receitas` com nova base facetada e ainda pendente de polimento fino
+**Data:** 11 Jun 2026
+**Status:** Site em produção; foco atual em operação segura, evolução editorial e melhoria dos templates de leitura
+
+---
+
+## PLANO ATUAL CONSOLIDADO
+
+Esta seção representa o estado atual do projeto. As seções posteriores permanecem como histórico das decisões e tarefas anteriores.
+
+### PRIORIDADE IMEDIATA - Operação e estabilidade
+
+- [ ] Automatizar o deploy completo em um script seguro, seguindo integralmente `docs/DEPLOY-GUIDE.md`
+- [ ] O script deve executar `lint`, build, archive na pasta pai, deploy via Hostinger, restauração obrigatória do `.env`, reinício e verificações HTTP
+- [ ] O script deve abortar o processo quando faltar variável obrigatória ou quando `lint`/build falhar
+- [ ] Nunca realizar upload manual ou parcial de arquivos de `.next`
+- [ ] Documentar procedimento de rollback e verificação de processos em loop
+- [ ] Incluir notificação do IndexNow e validação do sitemap após publicação de conteúdo
+
+### PRIORIDADE EDITORIAL - Templates de leitura
+
+- [ ] Auditar os templates atuais de receitas e reviews em desktop e mobile antes de redesenhar
+- [ ] Remodelar a página individual de receita para leitura mais agradável, harmoniosa e menos baseada em grandes blocos brancos
+- [ ] Seguir a direção visual aprovada do novo template de receita: hero em cascata, títulos com sublinhado desenhado, ingredientes e passos revelados progressivamente e bloco de dicas no estilo de anotação editorial
+- [ ] Remodelar a página individual de review/artigo com hierarquia editorial mais clara, melhor ritmo entre texto, imagens, vídeo, CTA e conteúdo relacionado
+- [ ] Preservar durante o redesign: Recipe/Article/Review schema, canonical, Open Graph, TTS, vídeo, taxonomia e links com UTM
+- [ ] Criar componentes editoriais compartilhados quando fizer sentido, sem forçar receitas e reviews a terem exatamente o mesmo layout
+- [ ] Avaliar um índice de conteúdo em artigos longos e navegação rápida para ingredientes/modo de preparo nas receitas
+- [ ] Avaliar tipografia, largura ideal de leitura, espaçamento, destaques, citações, imagens inline e cards de resposta rápida
+- [ ] Implementar animações com CSS + `IntersectionObserver`, respeitando `prefers-reduced-motion`; Pretext não será responsável pelos gatilhos de scroll
+- [ ] Limitar stagger em listas longas para não atrasar o acesso a ingredientes e passos
+
+### PRETEXT E PADRONIZAÇÃO EDITORIAL
+
+- [ ] Adotar `@chenglou/pretext` como infraestrutura editorial nos pontos em que medição e composição de texto tragam benefício real
+- [ ] Explorar `prepare` + `layout` para altura previsível, prevenção de layout shift e componentes editoriais responsivos
+- [ ] Explorar `prepareWithSegments` + APIs de linhas para composições especiais que precisem controlar quebras e fluxo ao redor de imagens
+- [ ] Explorar `rich-inline` para destaques, links, chips e fragmentos tipográficos inline sem transformar a biblioteca em um editor de conteúdo
+- [ ] Manter o corpo principal dos artigos em HTML semântico no DOM para SEO, acessibilidade, seleção de texto, TTS e impressão
+- [ ] Criar uma camada compartilhada de componentes Pretext em TypeScript, evitando chamadas e configurações duplicadas nos templates
+- [ ] Sincronizar fontes, pesos, `line-height` e `letter-spacing` do Pretext com os tokens CSS do projeto
+- [ ] Preparar fallback normal em HTML/CSS para ambientes sem `Intl.Segmenter` ou Canvas 2D
+- [ ] Validar desempenho, hidratação, responsividade, acessibilidade e redução de CLS antes de expandir o uso
+- [ ] Não forçar Pretext em todo parágrafo: usar a API completa disponível somente onde houver ganho mensurável de layout ou apresentação
+
+### PRIORIDADE DE AUTORIA E E-E-A-T
+
+- [ ] Auditar prioridades pendentes antes de iniciar a padronização visual de autoria
+- [ ] Criar um componente compartilhado `ArticleByline` com variantes editorial e compacta
+- [ ] Aplicar a byline completa em reviews/artigos: foto, Cecília Mauad, link para `/sobre` e data
+- [ ] Aplicar uma byline compacta nas páginas individuais de receita
+- [x] Padronizar o schema `Person` de receitas e reviews com nome completo e URL da página `/sobre`
+- [ ] Avaliar suporte consistente a `datePublished` e `dateModified` antes de preencher datas retroativas
+
+### EVOLUÇÃO DA PUBLICAÇÃO DE CONTEÚDO
+
+- [ ] Curto prazo: manter arquivos locais, mas criar um fluxo assistido para gerar e validar entradas de receitas e reviews
+- [ ] Depois: migrar receitas e reviews gradualmente de `src/lib/data.ts` para banco de dados ou CMS
+- [ ] Preservar o modelo atual de ingredientes agrupados (`IngredientSection[]`); não migrar novamente um recurso que já existe
+- [ ] Adicionar `instructionGroups` como campo opcional e compatível com `instructions`, permitindo migração gradual do modo de preparo
+- [ ] Criar adaptador que transforme `instructions` legadas em um grupo padrão quando `instructionGroups` não existir
+- [ ] Definir requisitos do CMS: rascunho, revisão, agendamento, upload de imagens, SEO, autoria, categorias e preview
+- [ ] Evitar migração integral de uma vez; começar por novos reviews/artigos e manter compatibilidade com o conteúdo atual
+- [ ] Avaliar estratégia de cache/revalidação para publicar conteúdo sem rebuild completo
+
+### DIVISÃO DE TRABALHO ENTRE AGENTES
+
+- [ ] Kimi: implementar componentes, tipos, adaptadores de dados, Pretext, animações, testes técnicos e migrações estruturais
+- [ ] Gemini: revisar, corrigir e estruturar textos; propor agrupamentos editoriais sem editar a arquitetura do projeto
+- [ ] Codex: definir contratos, revisar diffs, integrar etapas, impedir regressões de SEO/acessibilidade, executar `lint`/build e aprovar o resultado visual
+- [ ] Cada agente deve trabalhar em escopo e arquivos explicitamente delimitados; evitar alterações simultâneas em `src/lib/data.ts` e nos mesmos templates
+- [ ] Toda entrega de agente deve incluir lista de arquivos alterados, decisões tomadas, limitações e comandos de validação executados
+- [ ] Integrar em etapas pequenas e reversíveis: modelo de dados, componentes-base, template de receita, migração piloto, template de review e expansão
+
+### CONTEÚDO E SEO CONTÍNUOS
+
+- [ ] Revisar duplicatas editoriais entre receitas semelhantes
+- [ ] Continuar substituindo placeholders pelas melhores imagens disponíveis
+- [ ] Fazer o pareamento progressivo entre receitas, reviews e vídeos do YouTube
+- [ ] Revisar Search Console, Analytics e Clarity periodicamente para priorizar melhorias reais
+- [ ] Ativar popularidade automática somente após validar volume e qualidade dos dados
+- [ ] Solicitar indexação no Search Console para páginas estratégicas após alterações relevantes
+
+### BACKLOG NÃO URGENTE
+
+- [ ] Cook Mode e timers para receitas
+- [ ] Versão amigável para impressão
+- [ ] Sistema de avaliações, comentários e “Fiz essa receita”
+- [ ] Newsletter e email marketing quando houver infraestrutura editorial
+- [ ] Migração gradual de componentes `.js` para `.tsx` em commits separados de mudanças visuais
 
 ---
 
@@ -110,15 +197,8 @@
 
 ## 🧭 BACKLOG V2.0
 
-- [ ] Avaliar uso pontual de `@chenglou/pretext` no bloco editorial das páginas de receita (`intro` + curiosidade), para tipografia mais rica sem transformar Pretext em base global do layout
-- [ ] Prototipar um `RecipeEditorialBlock` isolado antes de adotar a biblioteca em outras áreas
-- [ ] Considerar Pretext para rich inline/chips apenas se o experimento do bloco editorial justificar a complexidade
-- [ ] Auditar prioridades pendentes antes de iniciar a padronização visual de autoria
-- [ ] Criar um componente compartilhado `ArticleByline` com variantes editorial e compacta
-- [ ] Aplicar a byline completa em reviews/artigos: foto, Cecília Mauad, link para `/sobre` e data
-- [ ] Aplicar uma byline compacta nas páginas individuais de receita
-- [ ] Padronizar o schema `Person` de receitas e reviews com nome completo e URL da página `/sobre`
-- [ ] Avaliar suporte consistente a `datePublished` e `dateModified` antes de preencher datas retroativas
+- [ ] Consultar o plano consolidado no topo para a adoção planejada de Pretext, animações, autoria, templates, deploy e CMS
+- [ ] Manter comentários, Cook Mode, impressão e recursos sociais coordenados com o novo sistema editorial
 
 ---
 

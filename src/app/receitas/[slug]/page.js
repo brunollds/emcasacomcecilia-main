@@ -3,28 +3,70 @@ import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { getCategorySlug, getRecipeCuisine, getRecipeImage, getRecipeImageAlt, getRecipePrimaryCategory, recipes } from '@/lib/data';
 import { Clock, ChefHat, Users, Utensils, Lightbulb, PlayCircle, ArrowLeft, Flame } from 'lucide-react';
+import { buildSchemaAuthors, minutesToIsoDuration, normalizeRecipe } from '@/lib/content';
 import RecipeViewTracker from '@/components/RecipeViewTracker';
 import CopyLinkButton from '@/components/CopyLinkButton';
+import { EditorialReveal, PretextPullQuote, SectionHeadingReveal } from '@/components/editorial';
+import { RecipeIngredients, RecipeInstructions, RecipeNotebookTemplate } from '@/components/recipe';
 
-function getYoutubeEmbedUrl(url) {
+function getYoutubeVideoId(url) {
   if (!url) return null;
-  const watchMatch = url.match(/youtube\.com\/watch\?v=([\w-]+)/);
-  if (watchMatch) return `https://www.youtube.com/embed/${watchMatch[1]}`;
-  const shortMatch = url.match(/youtu\.be\/([\w-]+)/);
-  if (shortMatch) return `https://www.youtube.com/embed/${shortMatch[1]}`;
+
+  try {
+    const parsed = new URL(url);
+    const hostname = parsed.hostname.replace(/^www\./, '');
+
+    if (hostname === 'youtu.be') {
+      return parsed.pathname.split('/').filter(Boolean)[0] || null;
+    }
+
+    if (hostname === 'youtube.com' || hostname === 'm.youtube.com') {
+      if (parsed.pathname === '/watch') {
+        return parsed.searchParams.get('v');
+      }
+
+      const [type, id] = parsed.pathname.split('/').filter(Boolean);
+      if (['embed', 'shorts', 'live'].includes(type)) {
+        return id || null;
+      }
+    }
+  } catch {
+    return null;
+  }
+
   return null;
 }
 
-// Função auxiliar para converter tempo legível (ex: '15 min', '1h 20 min') para ISO 8601 (ex: 'PT15M', 'PT1H20M')
+function getYoutubeEmbedUrl(url) {
+  const id = getYoutubeVideoId(url);
+  return id ? `https://www.youtube.com/embed/${id}` : null;
+}
+
+function getYoutubeWatchUrl(url) {
+  const id = getYoutubeVideoId(url);
+  return id ? `https://www.youtube.com/watch?v=${id}` : null;
+}
+
+function getAbsoluteUrl(url, baseUrl) {
+  if (!url) return null;
+
+  try {
+    return new URL(url, baseUrl).toString();
+  } catch {
+    return null;
+  }
+}
+
+// Função auxiliar para converter tempo legável (ex: '15 min', '1h 20 min') para ISO 8601 (ex: 'PT15M', 'PT1H20M')
 function convertToISO8601(timeStr) {
   if (!timeStr) return undefined;
   const hoursMatch = timeStr.match(/(\d+)\s*h/);
   const minutesMatch = timeStr.match(/(\d+)\s*min/);
-  
+
   let iso = 'PT';
   if (hoursMatch) iso += `${hoursMatch[1]}H`;
   if (minutesMatch) iso += `${minutesMatch[1]}M`;
-  
+
   return iso === 'PT' ? undefined : iso;
 }
 
@@ -139,6 +181,18 @@ export default async function RecipePage({ params }) {
     notFound();
   }
 
+  const viewModel = normalizeRecipe(recipe);
+  const {
+    recipe: canonical,
+    totalMinutes,
+    displayIngredients,
+    displayInstructions,
+    hasServingsControl,
+    schemaIngredients,
+    schemaInstructions,
+    schemaIsoDuration,
+  } = viewModel;
+
   const recipeImage = getRecipeImage(recipe);
   const recipeImageAlt = getRecipeImageAlt(recipe);
   const baseUrl = 'https://emcasacomcecilia.com';
@@ -155,6 +209,202 @@ export default async function RecipePage({ params }) {
     ],
   };
 
+  const youtubeVideoId = getYoutubeVideoId(recipe.youtubeUrl);
+  const youtubeWatchUrl = getYoutubeWatchUrl(recipe.youtubeUrl);
+  const NOTEBOOK_RECIPE_SLUGS = new Set([
+    'pao-naan-indiano-caseiro',
+    'bolo-de-cenoura-com-cobertura-de-chocolate',
+    'rabanada-com-doce-de-leite',
+    'tacos-de-carne-mexicanos-com-guacamole',
+    'temaki-de-salmao-com-cream-cheese',
+    'talharim-caseiro-com-molho-de-tomate-fresco',
+    'macarrao-carbonara-cremoso',
+    'macarrao-com-molho-pesto-de-manjericao',
+    'batatas-rusticas-crocantes-na-air-fryer',
+    'bolo-de-caneca-na-air-fryer',
+    'chips-de-batata-doce-na-air-fryer',
+    'bolo-de-banana-caramelizada-com-nozes',
+    'bolo-de-chocolate-com-recheio-de-brigadeiro',
+    'bolo-de-fuba-com-erva-doce',
+    'brigadeiro-tradicional-brasileiro',
+    'bolo-de-milho-cremoso-com-queijo-minas',
+    'moqueca-capixaba-tradicional',
+    'coxinha-de-frango-cremosa',
+    'bolinha-de-queijo-com-massa-leve',
+    'coxinha-de-frango-com-massa-de-batata',
+    'pizza-de-calabresa-caseira',
+    'pave-raffaello-cremoso-com-amendoas',
+    'pudim-de-leite-condensado-tradicional',
+    'cheesecake-de-frutas-vermelhas',
+    'salmao-assado-com-batatas-e-vegetais',
+    'pote-da-felicidade-proteico',
+    'torta-de-limao-com-merengue',
+    'torta-de-chocolate-com-morango',
+    'bolo-de-coco-gelado-com-cobertura-de-coco',
+    'bolo-de-limao-com-glace-de-limao',
+    'beijinho-de-coco-tradicional',
+    'brigadeiro-de-leite-ninho-com-nutella',
+    'cajuzinho-nordestino',
+    'bolo-de-laranja-com-calda-de-laranja',
+    'empadao-de-frango-com-recheio-cremoso',
+    'quiche-lorraine-tradicional',
+    'creme-brulee-classico',
+    'tiramisu-italiano-autentico',
+    'torta-de-frutas-vermelhas-com-chantilly',
+    'frango-tikka-masala-com-arroz-basmati',
+    'sopa-tom-yum-tom-yam-goong',
+    'bolo-de-chocolate-de-caneca-no-micro-ondas',
+    'bolo-gelado-de-coco-com-recheio-de-doce-de-leite',
+    'bolo-de-aipim-com-coco-ralado',
+    'brigadeiro-gourmet-de-pistache',
+    'brigadeiro-branco-com-granulado-colorido',
+    'doce-de-leite-caseiro-cremoso',
+    'gelatina-de-vinho-com-frutas-frescas',
+    'manjar-de-coco-com-calda-de-ameixa',
+    'palha-italiana-de-cafe',
+    'arroz-doce-com-doce-de-leite',
+    'trouxinha-de-cheddar-na-air-fryer',
+    'nozes-crocantes-com-mel-e-especiarias-na-air-fryer',
+    'cubinhos-de-frango-crocantes',
+    'enroladinho-de-salsicha-com-massa-folhada',
+    'pastel-de-carne-com-tempero-caseiro',
+    'bolinho-de-bacalhau-com-batata-e-tempero-verde',
+    'mini-quiche-lorraine-com-bacon-e-queijo',
+    'croquete-de-carne-com-recheio-cremoso',
+    'bolinho-de-arroz-recheado-com-queijo',
+    'kibe-frito-tradicional',
+    'mini-pizza-de-calabresa-com-massa-caseira',
+    'dadinho-de-tapioca-com-coco-ralado',
+    'arroz-branco-soltinho',
+    'arroz-integral-com-legumes',
+    'pure-de-batata-cremoso-com-manteiga-e-leite',
+    'batata-assada-com-alecrim-e-alho',
+    'batata-frita-crocante',
+    'farofa-de-bacon-com-cebola-e-temperos',
+    'cuscuz-marroquino-com-legumes-e-frutas-secas',
+    'polenta-cremosa-com-queijo-parmesao',
+    'tomates-confitados',
+    'manteiga-temperada-turbinada-da-cecilia',
+    'dal-makhani',
+    'samosa-pastelzinho-indiano',
+    'chutney-de-manga',
+    'burritos-de-frango-com-feijao-e-queijo',
+    'tortillas-de-trigo-caseiras',
+    'nachos-com-chilli-e-queijo-derretido',
+    'sushi-caseiro-com-salmao-e-atum',
+    'guacamole',
+    'quesadillas-de-queijo-com-molho-picante',
+    'ravioli-de-carne-com-molho-branco',
+    'lasanha-a-bolonhesa',
+    'nhoque-de-batata-com-molho-de-tomate',
+    'espaguete-a-puttanesca-com-azeitonas-e-alcaparras',
+    'lasanha-vegetariana-com-abobrinha-e-berinjela',
+    'nhoque-de-ricota-com-molho-de-espinafre',
+    'ravioli-de-queijo-com-molho-de-tomate-fresco',
+    'macarrao-ao-molho-alfredo-com-limao-siciliano',
+    'pizza-portuguesa',
+    'pizza-vegetariana-com-abobrinha-berinjela-e-pimentao',
+    'pizza-de-frango-com-catupiry',
+    'pizza-doce-com-chocolate-e-morango',
+    'lasanha-de-queijo-cottage-com-vegetais',
+    'salada-grega-com-queijo-feta',
+    'salada-caesar-com-frango-grelhado',
+    'salada-de-quinoa-com-frutas-secas-e-legumes',
+    'salada-caprese-com-molho-pesto',
+    'salada-tropical-com-folhas-verdes-manga-abacaxi-e-camarao',
+    'salada-de-batata-com-maionese-caseira-e-ervas',
+    'sopa-cremosa-de-mandioquinha-com-croutons',
+    'gaspacho',
+    'sopa-detox-de-legumes-com-gengibre',
+    'caldo-verde-com-bacon-crocante',
+    'quiche-de-espinafre-com-ricota-integral',
+    'quiche-integral-de-frango-com-legumes',
+    'quiche-sem-gluten-de-queijo-com-brocolis',
+    'mini-quiches-de-legumes',
+    'pave-de-chocolate-com-biscoito-e-chantilly',
+    'pave-de-morango-com-creme-branco',
+    'pave-de-limao-com-biscoito-champanhe',
+    'pave-de-maracuja-com-chocolate-branco',
+    'pave-de-maracuja-com-camadas-de-chocolate',
+    'mousse-de-chocolate-cremosa',
+    'mousse-de-limao-com-raspas-de-limao',
+    'mousse-de-maracuja-com-calda-de-chocolate',
+    'mousse-de-frutas-vermelhas-com-chantilly',
+    'pudim-de-chocolate-com-calda-de-chocolate',
+    'pudim-de-coco-queimado',
+    'pudim-de-pao-com-passas',
+    'sorvete-caseiro-de-morango',
+    'sorvete-de-chocolate-cremoso',
+    'sorvete-de-creme-com-calda-de-caramelo',
+    'sorbet-de-limao',
+    'cookies-com-gotas-de-chocolate',
+    'torta-sorvete-de-doce-de-leite',
+    'mousse-de-ovolmatine-com-chantilly',
+    'brownie-de-ovolmatine',
+    'trufas-de-chocolate-com-ovolmatine',
+    'pave-de-ovolmatine',
+    'milkshake-de-ovolmatine',
+    'cafe-com-ovolmatine',
+    'smoothie-de-banana-e-ovolmatine',
+    'ninho-de-chocolate-com-ovinhos-de-colher',
+    'brownie-de-colher-na-casquinha',
+    'torta-mosaico-de-pascoa',
+    'trufas-de-maracuja-e-coco',
+    'pao-de-acucar-recheado-com-doce-de-leite',
+    'hot-cross-buns',
+    'cordeirinho-de-bolo-de-cenoura',
+    'mousse-vegano-de-chocolate-com-frutas',
+    'biscoitos-de-coelhinho',
+    'cheesecake-de-caju-sem-lactose',
+    'pavlova-ninho-com-frutas-tropicais',
+    'ovo-de-colher-com-recheio-de-pacoca',
+    'ovo-de-pascoa-funcional',
+    'macas-do-amor-de-coelho',
+    'trufas-de-chocolate-com-pistache-e-framboesa',
+    'brownies-com-nozes-e-ganache-de-caramelo-salgado',
+    'mini-paves-de-chocolate-e-morango',
+    'tiramisu-de-pascoa',
+    'mousse-de-chocolate-com-pimenta-rosa',
+    'picole-surpresa-de-pascoa',
+    'eclairs-de-pascoa-recheados-com-creme-de-avela-e-ganache',
+    'donuts-de-chocolate-com-glace-de-framboesa',
+    'tarteletes-de-limao-siciliano-com-merengue-torrado',
+    'rabanadas-gourmet-com-sorvete-de-canela',
+    'pave-de-ricota-com-limao-e-hortela',
+    'biscoitos-de-queijo-com-ervas-finas',
+    'rosquinha-de-maca-com-massa-folhada',
+    'bife-de-hamburguer-assado-no-forno',
+    'pipoca-doce-no-micro-ondas',
+    'petit-gateau-de-chocolate-com-sorvete',
+    'quindim-tradicional-brasileiro',
+    'biscoitos-amanteigados-decorados',
+    'biscoitos-integrais-com-aveia-e-mel',
+    'torta-de-frango-com-requeijao',
+    'torta-de-legumes-com-massa-integral',
+    'torta-salgada-de-atum-com-massa-folhada',
+    'torta-mousse-de-chocolate-com-base-de-oreo',
+    'torta-de-ricota-com-frutas-vermelhas',
+    'torta-de-abacaxi-com-coco-e-chantilly',
+    'torta-de-banana-com-doce-de-leite-e-merengue',
+    'torta-de-maca-com-canela',
+    'torta-holandesa-com-creme-e-chocolate',
+    'pao-de-mel-com-especiarias-e-glace-real',
+    'torta-mousse-de-maracuja-com-biscoito-champagne',
+    'macarons-de-pascoa',
+    'cheesecake-de-limao-siciliano-com-decoracao-de-pascoa',
+    'bolo-de-cenoura-com-cobertura-de-chocolate-vegana',
+    'ovo-de-pascoa-recheado-com-brigadeiro-de-churros',
+    'bolo-de-pascoa-com-decoracao-de-jardim',
+    'ovo-de-pascoa-com-recheio-de-sorvete-artesanal',
+    'bolo-naked-cake-de-pascoa',
+    'cenourinhas-de-marshmallow',
+    'sanduiches-doces-de-pascoa',
+    'pudim-de-maria-mole',
+    'copo-da-felicidade-kinder-bueno',
+    'cheesecake-de-morango-com-decoracao-de-pascoa',
+    'copo-da-felicidade-raffaello',
+  ]);
+
   // JSON-LD para Google Recipes
   const jsonLd = {
     '@context': 'https://schema.org/',
@@ -165,26 +415,66 @@ export default async function RecipePage({ params }) {
       '@type': 'WebPage',
       '@id': `${baseUrl}/receitas/${recipe.slug}`,
     },
-    author: {
-      '@type': 'Person',
-      name: 'Cecília',
-    },
+    author: buildSchemaAuthors(recipe.authors, recipe.author),
     description: recipe.description,
-    prepTime: convertToISO8601(recipe.prepTime),
-    cookTime: convertToISO8601(recipe.cookTime),
-    totalTime: convertToISO8601(recipe.totalTime),
+    prepTime: minutesToIsoDuration(canonical.prepMinutes) ?? convertToISO8601(recipe.prepTime),
+    cookTime: minutesToIsoDuration(canonical.cookMinutes) ?? convertToISO8601(recipe.cookTime),
+    totalTime: schemaIsoDuration ?? convertToISO8601(recipe.totalTime),
     recipeYield: recipe.yield,
     recipeCategory: getRecipePrimaryCategory(recipe),
     recipeCuisine: getRecipeCuisine(recipe) || 'Brasileira',
     keywords: recipe.searchTerms?.join(', '),
-    recipeIngredient: recipe.ingredients.flatMap(section => section.items),
-    recipeInstructions: recipe.instructions.map((step, index) => ({
+    recipeIngredient: schemaIngredients,
+    recipeInstructions: schemaInstructions.map((step, index) => ({
       '@type': 'HowToStep',
       name: `Passo ${index + 1}`,
       text: step,
       url: `${baseUrl}/receitas/${recipe.slug}#step-${index + 1}`,
     })),
+    ...(recipe.publishedAt && { datePublished: recipe.publishedAt }),
+    ...(recipe.updatedAt && { dateModified: recipe.updatedAt }),
+    ...(recipe.rating && {
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: recipe.rating.average,
+        ratingCount: recipe.rating.count,
+      },
+    }),
+    ...(recipe.calories && {
+      nutrition: {
+        '@type': 'NutritionInformation',
+        calories: recipe.calories,
+      },
+    }),
+    ...(youtubeVideoId && recipe.videoUploadDate && {
+      video: {
+        '@type': 'VideoObject',
+        name: recipe.title,
+        description: recipe.description,
+        thumbnailUrl: recipe.videoThumbnail
+          ? getAbsoluteUrl(recipe.videoThumbnail, baseUrl)
+          : `https://img.youtube.com/vi/${youtubeVideoId}/hqdefault.jpg`,
+        uploadDate: recipe.videoUploadDate,
+        url: youtubeWatchUrl,
+        embedUrl: youtubeEmbedUrl,
+      },
+    }),
   };
+
+  if (NOTEBOOK_RECIPE_SLUGS.has(recipe.slug)) {
+    return (
+      <RecipeNotebookTemplate
+        recipe={recipe}
+        viewModel={viewModel}
+        taxonomyChips={taxonomyChips}
+        youtubeEmbedUrl={youtubeEmbedUrl}
+        recipeImage={recipeImage}
+        recipeImageAlt={recipeImageAlt}
+        breadcrumbJsonLd={breadcrumbJsonLd}
+        jsonLd={jsonLd}
+      />
+    );
+  }
 
   return (
     <article className="min-h-screen bg-[#fef9f3] pb-20">
@@ -273,23 +563,27 @@ export default async function RecipePage({ params }) {
             <div className="rounded-[2rem] border border-[#0f1419]/8 bg-white/90 p-7 shadow-sm md:p-10">
               <div className="mx-auto max-w-3xl space-y-8">
                 {recipe.intro && (
-                  <div className="space-y-3">
+                  <EditorialReveal as="div" className="space-y-3">
                     <p className="text-[11px] font-bold uppercase tracking-[0.16em] text-[#ff6b35]">
                       Introdução
                     </p>
-                    <p className="text-lg leading-8 text-[#24313d] md:text-[1.15rem]">
-                    {recipe.intro}
+                    <p className="font-serif text-lg leading-8 text-[#24313d] md:text-[1.15rem]">
+                      {recipe.intro}
                     </p>
-                  </div>
+                  </EditorialReveal>
                 )}
                 {recipe.context && (
                   <div className="space-y-3 border-t border-black/6 pt-6">
                     <p className="text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]">
                       Curiosidade
                     </p>
-                    <p className="text-base leading-8 text-gray-600 md:text-[1.05rem]">
-                      {recipe.context}
-                    </p>
+                    <PretextPullQuote
+                      quote={recipe.context}
+                      cite="Cecília Mauad"
+                      font="400 20px Lora, Georgia, serif"
+                      lineHeight={32}
+                      className="text-[#4a5568]"
+                    />
                   </div>
                 )}
               </div>
@@ -304,7 +598,7 @@ export default async function RecipePage({ params }) {
               <Utensils className="text-[#ffd700]" />
               Ficha Técnica
             </h2>
-            
+
             <div className="grid grid-cols-2 gap-6 md:grid-cols-5">
               <div className="flex flex-col gap-1">
                 <span className="text-white/60 text-xs uppercase font-bold tracking-widest flex items-center gap-1.5">
@@ -342,49 +636,25 @@ export default async function RecipePage({ params }) {
           <div className="p-8 md:p-12 grid md:grid-cols-12 gap-12">
             {/* Ingredientes */}
             <div className="md:col-span-5">
-              <h3 className="text-2xl font-bold text-[#1a4d2e] mb-6 pb-2 border-b-2 border-[#ffd700] inline-block">
-                Ingredientes
-              </h3>
-              {recipe.ingredients.map((section, idx) => (
-                <div key={idx} className="mb-8 last:mb-0">
-                  <h4 className="font-bold text-[#ff6b35] text-sm uppercase tracking-wider mb-4">
-                    {section.section}
-                  </h4>
-                  <ul className="space-y-4">
-                    {section.items.map((item, i) => (
-                      <li key={i} className="flex items-start gap-3 group">
-                        <input type="checkbox" className="mt-1.5 h-4 w-4 rounded border-gray-300 text-[#1a4d2e] focus:ring-[#1a4d2e]" />
-                        <span className="text-gray-700 leading-tight group-hover:text-black transition-colors">
-                          {item}
-                        </span>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              ))}
+              <RecipeIngredients
+                slug={recipe.slug}
+                structuredIngredients={displayIngredients}
+                legacyIngredients={canonical.ingredients}
+                baseServings={hasServingsControl ? canonical.servings : undefined}
+                servingsUnit={canonical.servingsUnit}
+              />
             </div>
 
             {/* Modo de Preparo */}
             <div className="md:col-span-7">
-              <h3 className="text-2xl font-bold text-[#1a4d2e] mb-6 pb-2 border-b-2 border-[#ffd700] inline-block">
-                Modo de Preparo
-              </h3>
-              <ol className="space-y-8">
-                {recipe.instructions.map((step, i) => (
-                  <li key={i} id={`step-${i + 1}`} className="relative pl-12">
-                    <span className="absolute left-0 top-0 w-8 h-8 bg-[#f5f5f5] text-[#1a4d2e] rounded-full flex items-center justify-center font-bold text-sm">
-                      {i + 1}
-                    </span>
-                    <p className="text-gray-700 leading-relaxed pt-1">
-                      {step}
-                    </p>
-                  </li>
-                ))}
-              </ol>
+              <RecipeInstructions
+                instructionGroups={displayInstructions}
+                baseSlug={recipe.slug}
+              />
 
               {/* Dicas Extras */}
               {recipe.tips && recipe.tips.length > 0 && (
-                <div className="mt-12 bg-[#fef9f3] rounded-2xl p-6 border-l-4 border-[#ffd700]">
+                <EditorialReveal as="div" className="mt-12 bg-[#fef9f3] rounded-2xl p-6 border-l-4 border-[#ffd700]">
                   <h4 className="flex items-center gap-2 font-bold text-[#1a4d2e] mb-3">
                     <Lightbulb size={20} className="text-[#ff6b35]" />
                     Dicas da Cecília
@@ -396,7 +666,7 @@ export default async function RecipePage({ params }) {
                       </li>
                     ))}
                   </ul>
-                </div>
+                </EditorialReveal>
               )}
             </div>
           </div>
