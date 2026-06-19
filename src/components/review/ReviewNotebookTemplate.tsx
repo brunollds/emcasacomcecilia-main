@@ -93,7 +93,15 @@ export function ReviewNotebookTemplate({
   const isPortraitHero = review.imageAspect === 'portrait';
 
   const stepSections = (review.contentSections || []).filter((s) => isStepHeading(s.heading));
-  const nonStepSections = (review.contentSections || []).filter((s) => !isStepHeading(s.heading));
+  const firstStepIndex = (review.contentSections || []).findIndex((s) => isStepHeading(s.heading));
+
+  const preStepSections = firstStepIndex !== -1
+    ? (review.contentSections || []).slice(0, firstStepIndex).filter((s) => !isStepHeading(s.heading))
+    : (review.contentSections || []).filter((s) => !isStepHeading(s.heading));
+
+  const postStepSections = firstStepIndex !== -1
+    ? (review.contentSections || []).slice(firstStepIndex).filter((s) => !isStepHeading(s.heading))
+    : [];
 
   return (
     <>
@@ -246,7 +254,7 @@ export function ReviewNotebookTemplate({
               {kind === 'guia' ? (
                 <>
                   <ReviewContentSections
-                    sections={nonStepSections.filter((s) => !filteredHeadings.includes(s.heading || ''))}
+                    sections={preStepSections.filter((s) => !filteredHeadings.includes(s.heading || ''))}
                     reviewTitle={review.title}
                     sectionIds={sectionIds}
                     filterHeadings={filteredHeadings}
@@ -255,6 +263,17 @@ export function ReviewNotebookTemplate({
                   {stepSections.length > 0 && (
                     <div className="mt-12">
                       <GuideTimeline steps={stepSections} sectionIds={sectionIds} reviewTitle={review.title} />
+                    </div>
+                  )}
+                  {postStepSections.length > 0 && (
+                    <div className="mt-12">
+                      <ReviewContentSections
+                        sections={postStepSections.filter((s) => !filteredHeadings.includes(s.heading || ''))}
+                        reviewTitle={review.title}
+                        sectionIds={sectionIds}
+                        filterHeadings={filteredHeadings}
+                        kind={kind}
+                      />
                     </div>
                   )}
                 </>

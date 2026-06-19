@@ -1,10 +1,11 @@
 import { notFound } from 'next/navigation';
-import { getReviewSlug, publishedReviews } from '@/lib/data';
+import { getReviewSlug, publishedReviews, reviews } from '@/lib/data';
 import { buildSchemaAuthors, normalizeReview } from '@/lib/content';
 import { ReviewNotebookTemplate } from '@/components/review';
 
 function findReview(slug) {
-  return publishedReviews.find((review) => getReviewSlug(review) === slug);
+  const list = process.env.NODE_ENV === 'development' ? reviews : publishedReviews;
+  return list.find((review) => getReviewSlug(review) === slug);
 }
 
 function getYoutubeEmbedUrl(url) {
