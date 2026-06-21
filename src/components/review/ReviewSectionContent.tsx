@@ -5,6 +5,7 @@ import ReviewInlineImage from '@/components/ReviewInlineImage';
 import { DropCapParagraph, EditorialReveal, PretextShrinkwrap, TopTenList } from '@/components/editorial';
 import { HighlightCoupon } from './HighlightCoupon';
 import type { ContentSection } from '@/lib/content';
+import { ReputacaoMetricas, PadroesReclamacao } from './ReputacaoMetricas';
 
 export interface ReviewSectionContentProps {
   section: ContentSection;
@@ -23,6 +24,29 @@ function parseProsConsBullet(item: string): { type: 'pro' | 'con'; text: string 
   return {
     type: match[1].toLowerCase() === 'prós' ? 'pro' : 'con',
     text: match[2],
+  };
+}
+
+function parseFaqBullet(item: string): { question: string; answer: string } {
+  const match = item.match(/^([^\?]+\?)\s*(.+)$/);
+  if (match) {
+    return {
+      question: match[1].trim(),
+      answer: match[2].trim(),
+    };
+  }
+  // Try mapping by first colon ":" if no "?" found
+  const colonIndex = item.indexOf(':');
+  if (colonIndex > 0) {
+    return {
+      question: item.substring(0, colonIndex + 1).trim(),
+      answer: item.substring(colonIndex + 1).trim(),
+    };
+  }
+  // Fallback
+  return {
+    question: 'Dúvida',
+    answer: item,
   };
 }
 
@@ -55,6 +79,10 @@ export function ReviewSectionContent({
       pro: prosItems[rowIndex]?.text,
       con: consItems[rowIndex]?.text,
     })
+  );
+  const isFaq = Boolean(
+    section.heading?.toLowerCase().includes('perguntas frequentes') ||
+    section.heading?.toLowerCase().includes('faq')
   );
 
   return (
@@ -186,28 +214,57 @@ export function ReviewSectionContent({
       )}
 
       {section.bullets && section.bullets.length > 0 && !shouldRenderProsConsTable && !shouldRenderTopTen && (
-        <ul className="mt-5 space-y-3">
-          {section.bullets.map((item, bulletIndex) => (
-            <EditorialReveal
-              as="li"
-              key={`b-${bulletIndex}`}
-              delay={Math.min(bulletIndex * 0.06, 0.3)}
-              distance={12}
-              className="flex items-start gap-3 rounded-xl border border-[#1a4d2e]/10 bg-white p-4 font-editorial text-[#24313d]"
-            >
-              <span className="mt-1.5 h-2 w-2 flex-shrink-0 rounded-full bg-[#ff6b35]" />
-              <span>
-                <HighlightCoupon text={item} />
-              </span>
-            </EditorialReveal>
-          ))}
-        </ul>
+        isFaq ? (
+          <div className="mt-5 space-y-4">
+            {section.bullets.map((item, bulletIndex) => {
+              const faq = parseFaqBullet(item);
+              return (
+                <EditorialReveal
+                  key={`faq-${bulletIndex}`}
+                  delay={Math.min(bulletIndex * 0.06, 0.3)}
+                  distance={12}
+                >
+                  <details className="group rounded-[1.5rem] border border-[#1a4d2e]/10 bg-white px-6 py-5 shadow-soft transition-all duration-300 hover:-translate-y-0.5 hover:border-[#ff6b35]/30 hover:shadow-md open:border-[#ff6b35]/40 open:bg-[#fef9f3]">
+                    <summary className="flex cursor-pointer list-none items-center justify-between gap-4 font-semibold text-[#0f1419] outline-none transition-colors group-open:text-[#1a4d2e] focus-visible:ring-2 focus-visible:ring-[#ff6b35]/35">
+                      <span><HighlightCoupon text={faq.question} /></span>
+                      <span className="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-full bg-[#fef9f3] text-xl font-semibold text-[#ff6b35] shadow-[inset_0_0_0_1px_rgba(255,107,53,0.10)] transition-all duration-300 group-hover:bg-[#ff6b35]/10 group-open:rotate-45 group-open:bg-[#ff6b35] group-open:text-white">
+                        +
+                      </span>
+                    </summary>
+                    <div className="faq-answer mt-4 border-t border-[#1a4d2e]/10 pt-4">
+                      <p className="font-editorial text-base leading-relaxed text-[#24313d]">
+                        <HighlightCoupon text={faq.answer} />
+                      </p>
+                    </div>
+                  </details>
+                </EditorialReveal>
+              );
+            })}
+          </div>
+        ) : (
+          <ul className="mt-5 space-y-3">
+            {section.bullets.map((item, bulletIndex) => (
+              <EditorialReveal
+                as="li"
+                key={`b-${bulletIndex}`}
+                delay={Math.min(bulletIndex * 0.06, 0.3)}
+                distance={12}
+                className="flex items-start gap-3 rounded-xl border border-[#1a4d2e]/10 bg-white p-4 font-editorial text-[#24313d]"
+              >
+                <span className="mt-1.5 h-2 w-2 flex-shrink-0 rounded-full bg-[#ff6b35]" />
+                <span>
+                  <HighlightCoupon text={item} />
+                </span>
+              </EditorialReveal>
+            ))}
+          </ul>
+        )
       )}
 
       {shouldRenderTopTen && <TopTenList items={section.bullets} />}
 
       {section.links && section.links.length > 0 && (
-        <div className="mt-8 flex flex-wrap gap-4">
+        <div className={`mt-8 flex flex-wrap gap-4 ${Boolean(section.image || (section.images && section.images.length > 0)) ? 'justify-center w-full' : ''}`}>
           {section.links.map((link) => {
             const internal = isInternalLink(link.href);
             return (
@@ -225,6 +282,50 @@ export function ReviewSectionContent({
           })}
         </div>
       )}
+
+      {section.widget === 'ReputacaoMetricas' && (
+        <div className="mt-6">
+          <ReputacaoMetricas />
+        </div>
+      )}
+
+      {section.widget === 'PadroesReclamacao' && (
+        <div className="mt-6">
+          <PadroesReclamacao />
+        </div>
+      )}
+
+      {section.accordionBlock && (
+        <div className="mt-6">
+          <details className="group rounded-[1.5rem] border border-[#1a4d2e]/20 bg-[#f1f1ee] px-6 py-5 shadow-soft transition-all duration-300 hover:border-[#1a4d2e]/30 open:bg-[#e6e6e2]">
+            <summary className="flex cursor-pointer list-none items-center justify-between gap-4 font-semibold text-[#0f1419] outline-none transition-colors group-open:text-[#1a4d2e] focus-visible:ring-2 focus-visible:ring-[#ff6b35]/35">
+              <span>{section.accordionBlock.heading}</span>
+              <span className="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-full bg-white text-xl font-semibold text-[#1a4d2e] shadow-[inset_0_0_0_1px_rgba(26,77,46,0.10)] transition-all duration-300 group-hover:bg-[#1a4d2e]/10 group-open:rotate-45 group-open:bg-[#1a4d2e] group-open:text-white">
+                +
+              </span>
+            </summary>
+            <div className="faq-answer mt-4 border-t border-[#1a4d2e]/10 pt-4 space-y-3">
+              {section.accordionBlock.paragraphs.map((p, idx) => (
+                <p key={idx} className="font-editorial text-base leading-relaxed text-[#24313d]">
+                  <HighlightCoupon text={p} />
+                </p>
+              ))}
+            </div>
+          </details>
+        </div>
+      )}
+
+      {section.postParagraphs?.map((paragraph, paragraphIndex) => (
+        <EditorialReveal
+          as="p"
+          key={`post-p-${paragraphIndex}`}
+          delay={Math.min(paragraphIndex * 0.05, 0.25)}
+          distance={14}
+          className="mt-6 font-editorial text-lg leading-8 text-[#24313d] last:mb-0"
+        >
+          <HighlightCoupon text={paragraph} />
+        </EditorialReveal>
+      ))}
     </>
   );
 }

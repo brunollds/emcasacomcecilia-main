@@ -1,0 +1,54 @@
+<svg width="800" height="360" viewBox="0 0 800 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="360" rx="16" fill="#fef9f3"/>
+  <rect x="0.5" y="0.5" width="799" height="359" rx="15.5" stroke="#1a4d2e" stroke-opacity="0.1"/>
+
+  <!-- Header -->
+  <rect x="24" y="24" width="752" height="60" rx="8" fill="#1a4d2e" fill-opacity="0.05"/>
+  <text x="44" y="59" fill="#1a4d2e" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold">Reclame Aqui — Damie Móveis</text>
+  <text x="732" y="59" fill="#1a4d2e" fill-opacity="0.6" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="medium" text-anchor="end">Consolidado • Junho 2026</text>
+
+  <!-- Left: Reputation Badge -->
+  <rect x="24" y="108" width="240" height="228" rx="12" fill="#faf8f3"/>
+  <rect x="24.5" y="108.5" width="239" height="227" rx="11.5" stroke="#1a4d2e" stroke-opacity="0.05"/>
+  
+  <!-- Reputation Smile Emoji / Shield -->
+  <circle cx="144" cy="170" r="36" fill="#1a4d2e"/>
+  <!-- Smile mouth -->
+  <path d="M126 172C126 182 134 190 144 190C154 190 162 182 162 172" stroke="#fef9f3" stroke-width="4" stroke-linecap="round"/>
+  <!-- Eyes -->
+  <circle cx="132" cy="160" r="3.5" fill="#fef9f3"/>
+  <circle cx="156" cy="160" r="3.5" fill="#fef9f3"/>
+  
+  <text x="144" y="235" fill="#1a4d2e" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="bold" text-anchor="middle">ÓTIMO</text>
+  <text x="144" y="265" fill="#0f1419" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">8.0<tspan font-size="16" font-weight="normal" fill="#0f1419" fill-opacity="0.5">/10</tspan></text>
+  <text x="144" y="295" fill="#0f1419" fill-opacity="0.4" font-family="system-ui, -apple-system, sans-serif" font-size="12" text-anchor="middle">Janela de 6 meses (Reclame Aqui)</text>
+
+  <!-- Right: Details List -->
+  <g transform="translate(288, 108)">
+    <rect width="488" height="228" rx="12" fill="#faf8f3"/>
+    <rect x="0.5" y="0.5" width="487" height="227" rx="11.5" stroke="#1a4d2e" stroke-opacity="0.05"/>
+
+    <!-- Row 1: Reclamações respondidas -->
+    <text x="24" y="38" fill="#0f1419" fill-opacity="0.6" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="medium">Reclamações respondidas</text>
+    <text x="464" y="38" fill="#1a4d2e" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" text-anchor="end">100%</text>
+    <rect x="24" y="48" width="440" height="6" rx="3" fill="#0f1419" fill-opacity="0.05"/>
+    <rect x="24" y="48" width="440" height="6" rx="3" fill="#1a4d2e"/>
+
+    <!-- Row 2: Voltariam a fazer negócio -->
+    <text x="24" y="94" fill="#0f1419" fill-opacity="0.6" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="medium">Voltariam a fazer negócio</text>
+    <text x="464" y="94" fill="#0f1419" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" text-anchor="end">70.9%</text>
+    <rect x="24" y="104" width="440" height="6" rx="3" fill="#0f1419" fill-opacity="0.05"/>
+    <rect x="24" y="104" width="312" height="6" rx="3" fill="#1a4d2e"/>
+
+    <!-- Row 3: Índice de solução -->
+    <text x="24" y="150" fill="#0f1419" fill-opacity="0.6" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="medium">Índice de solução</text>
+    <text x="464" y="150" fill="#1a4d2e" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" text-anchor="end">81.7%</text>
+    <rect x="24" y="160" width="440" height="6" rx="3" fill="#0f1419" fill-opacity="0.05"/>
+    <rect x="24" y="160" width="359" height="6" rx="3" fill="#1a4d2e"/>
+
+    <!-- Row 4: Nota do consumidor -->
+    <text x="24" y="206" fill="#0f1419" fill-opacity="0.6" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="medium">Nota média do consumidor</text>
+    <text x="464" y="206" fill="#0f1419" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" text-anchor="end">7.12</text>
+  </g>
+</svg>

@@ -4,6 +4,42 @@ Histórico de versões e mudanças do site `emcasacomcecilia.com`.
 
 ---
 
+## [1.4.0] — 2026-06-20 — Templates, Conteúdo e UX
+
+### Adicionado
+- **Template unificado de receitas** — `RecipeNotebookTemplate` aplicado em 191 receitas
+- **Template unificado de reviews** — `ReviewNotebookTemplate` aplicado em 12 reviews
+- **Sistema de draft para reviews** — campo `draft` em `Review`, `publishedReviews` filtrado, preview local em dev
+- **Galeria unificada Fotos/Vídeos** — `ReviewGallerySection` com toggle e carrossel nos reviews
+- **ShareBar reduzido** — compartilhamento nas páginas individuais de receitas e reviews
+- **Novo review**: *Damie no Reclame Aqui: o que os dados mostram antes de você comprar* (`id: 19`)
+- **Novo review em preparação**: *Cupom CECI NESCAFÉ Dolce Gusto* (ativado no deploy; anteriormente em draft)
+- **Efeito de destaque de cupom** — `HighlightCoupon` agora destaca `CECI` além de `CECILIA12`
+- **Favicon** — logo do site configurado em `layout.js`
+- **Colagem DAMIE** no card "Explore o universo da Cecília" com fotos reais da Cecília
+- **Ilustração Dicas & Ofertas** no card correspondente
+- **JSON-LD e metadados** para os novos reviews
+
+### Alterado
+- **Home / Receitas Populares** — limitado a 4 cards no desktop (uma linha)
+- **Home / espaçamento mobile** — reduzido o gap entre Receitas Populares e Receitas Novas
+- **Card DAMIE** — overlay mais escuro e botão "Pegar cupom" em laranja #ff6b35
+- **Card Dicas & Ofertas** — imagem de fundo aplicada corretamente nos cards secundários
+- **Imagens reais nos reviews**:
+  - Poltrona Amamentação Rotina
+  - Poltrona Levita
+  - Sofá Damie na Caixa
+  - Poltrona Moon
+  - Cupom CECI NESCAFÉ Dolce Gusto
+- **Imagens placeholder** adicionadas para 4 receitas com referências quebradas
+
+### Corrigido
+- **Id duplicado de review** — `damie-reclame-aqui` ajustado de `18` para `19`
+- **Imagens faltantes** — verificação de caminhos em `public/` para receitas e reviews
+- **Referência de imagem do card Dicas** — SVG substituído por WebP para evitar cache/formato
+
+---
+
 ## [1.3.0] — 2026-04-27 — SEO Avançado
 *Commit: `68b6d6d`, `8ed80a1`*
 
@@ -99,10 +135,11 @@ Histórico de versões e mudanças do site `emcasacomcecilia.com`.
 
 ---
 
-## Pendente (pós v1.3.0)
+## Pendente (pós v1.4.0)
 
 - [ ] **Pinterest Rich Pins** — conta suspensa, aguardando reativação. Adicionar `<meta name="p:domain_verify">` no `layout.js` e verificar domínio
 - [ ] **GA Popular Recipes** — ativar `GA_POPULAR_RECIPES_ENABLED=true` no servidor após 18/Mai/2026 (30 dias de dados reais)
-- [ ] **Imagens de receitas** — ampliar de ~60 imagens para cobrir mais das 190 receitas
+- [ ] **Imagens de receitas** — substituir 4 placeholders por fotos reais (`temaki-de-salmao`, `bolo-de-banana`, `bolinha-de-queijo`, `coxinha-de-frango`)
 - [ ] **Sistema de avaliação** — `aggregateRating` no Recipe schema (Google Rich Results)
 - [ ] **Migração JS → TSX** — gradual, sem urgência
+- [ ] **Review Samsung WindFree Connect** — reativar quando tiver conteúdo completo

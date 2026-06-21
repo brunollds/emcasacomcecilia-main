@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fffdf9"/>
+      <stop offset="100%" stop-color="#f7f2ea"/>
+    </linearGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <circle cx="30" cy="30" r="1.5" fill="#1a4d2e" opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect width="1200" height="675" fill="url(#grid)"/>
+
+  <!-- Elementos decorativos de cupom/tag -->
+  <g opacity="0.12">
+    <rect x="80" y="80" width="220" height="120" rx="20" fill="#1a4d2e"/>
+    <circle cx="80" cy="140" r="14" fill="#fffdf9"/>
+    <circle cx="300" cy="140" r="14" fill="#fffdf9"/>
+    <rect x="110" y="125" width="120" height="12" rx="6" fill="#fffdf9"/>
+    <rect x="110" y="155" width="80" height="12" rx="6" fill="#fffdf9"/>
+  </g>
+
+  <g opacity="0.10">
+    <rect x="900" y="90" width="200" height="110" rx="18" fill="#ff6b35"/>
+    <circle cx="900" cy="145" r="12" fill="#fffdf9"/>
+    <circle cx="1100" cy="145" r="12" fill="#fffdf9"/>
+    <rect x="930" y="130" width="110" height="10" rx="5" fill="#fffdf9"/>
+    <rect x="930" y="155" width="70" height="10" rx="5" fill="#fffdf9"/>
+  </g>
+
+  <g opacity="0.10">
+    <rect x="940" y="420" width="180" height="100" rx="16" fill="#1a4d2e"/>
+    <circle cx="940" cy="470" r="12" fill="#fffdf9"/>
+    <circle cx="1120" cy="470" r="12" fill="#fffdf9"/>
+    <rect x="965" y="455" width="90" height="10" rx="5" fill="#fffdf9"/>
+    <rect x="965" y="480" width="60" height="10" rx="5" fill="#fffdf9"/>
+  </g>
+
+  <g opacity="0.08">
+    <rect x="60" y="430" width="190" height="105" rx="16" fill="#ff6b35"/>
+    <circle cx="60" cy="482" r="12" fill="#fffdf9"/>
+    <circle cx="250" cy="482" r="12" fill="#fffdf9"/>
+    <rect x="85" y="465" width="95" height="10" rx="5" fill="#fffdf9"/>
+    <rect x="85" y="490" width="65" height="10" rx="5" fill="#fffdf9"/>
+  </g>
+
+  <!-- Ícones de tag/porcentagem -->
+  <g fill="none" stroke="#1a4d2e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.18">
+    <path d="M500 200 L560 200 L590 230 L590 280 L560 310 L500 310 L470 280 L470 230 Z"/>
+    <circle cx="545" cy="245" r="10"/>
+  </g>
+
+  <g fill="none" stroke="#ff6b35" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.16">
+    <path d="M650 380 L720 380 L750 410 L750 470 L720 500 L650 500 L620 470 L620 410 Z"/>
+    <path d="M680 420 L700 440 M700 420 L680 440"/>
+  </g>
+
+  <!-- Círculos sutis -->
+  <circle cx="1050" cy="300" r="90" fill="#1a4d2e" opacity="0.04"/>
+  <circle cx="150" cy="250" r="70" fill="#ff6b35" opacity="0.04"/>
+</svg>

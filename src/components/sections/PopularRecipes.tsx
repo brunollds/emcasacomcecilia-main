@@ -17,7 +17,7 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
   const popularRecipes = (analyticsPopularRecipes.length > 0
     ? analyticsPopularRecipes
     : recipes.filter(r => r.isPopular)
-  ).slice(0, 8);
+  ).slice(0, 4);
   const newRecipes = [...recipes].sort((a, b) => b.id - a.id).slice(0, 4);
 
   const renderRecipeCard = (recipe, index, isNew = false) => (
@@ -80,7 +80,7 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
     <section className="bg-white pb-16 pt-10">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Receitas Populares */}
-        <div className="mb-16">
+        <div className="mb-10 md:mb-16">
           <div className="flex items-center gap-2 mb-4">
             <Heart className="w-5 h-5 text-[#ff6b35] fill-[#ff6b35]" />
             <span className="text-sm font-semibold text-[#ff6b35] uppercase tracking-wide">

@@ -23,6 +23,7 @@ export interface ReviewNotebookTemplateProps {
   reviewImageAlt: string;
   breadcrumbJsonLd: Record<string, unknown>;
   jsonLd: Record<string, unknown>;
+  faqJsonLd?: Record<string, unknown> | null;
   relatedReviews: Review[];
 }
 
@@ -55,6 +56,7 @@ export function ReviewNotebookTemplate({
   reviewImageAlt,
   breadcrumbJsonLd,
   jsonLd,
+  faqJsonLd = null,
   relatedReviews,
 }: ReviewNotebookTemplateProps): React.ReactElement {
   const { kind, plainTextBody } = viewModel;
@@ -109,6 +111,9 @@ export function ReviewNotebookTemplate({
       <EditorialAmbientBackground variant="review" className="review-page-bg min-h-screen pb-20">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+        {faqJsonLd && (
+          <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
+        )}
 
         <div className="mx-auto max-w-6xl px-4 py-6 md:py-10">
           {/* Header editorial */}

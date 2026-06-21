@@ -103,7 +103,7 @@ function InlineImageThumbnail({ image, index, onOpen }) {
       <button
         type="button"
         onClick={() => onOpen(index)}
-        className="group relative block w-full overflow-hidden rounded-[1.25rem] bg-[#f4f4f5]"
+        className={`group relative block w-full overflow-hidden rounded-[1.25rem] ${isContain ? 'bg-white' : 'bg-[#f4f4f5]'}`}
         aria-label={`Ampliar imagem ${index + 1}`}
       >
         <div
@@ -230,10 +230,11 @@ export default function ReviewInlineImage({ section, reviewTitle }) {
 
   const isMulti = images.length > 1;
   const isSinglePortrait = images.length === 1 && images[0].fit === 'portrait';
+  const isSingleContain = images.length === 1 && images[0].fit === 'contain';
 
   return (
     <>
-      <div className={`mt-6 grid w-full gap-4 ${isMulti ? 'grid-cols-1 sm:grid-cols-2' : 'grid-cols-1'} ${isSinglePortrait ? 'mx-auto max-w-[420px]' : ''}`}>
+      <div className={`mt-6 grid w-full gap-4 ${isMulti ? 'grid-cols-1 sm:grid-cols-2' : 'grid-cols-1'} ${isSinglePortrait ? 'mx-auto max-w-[320px]' : isSingleContain ? 'mx-auto max-w-[360px]' : ''}`}>
         {images.map((image, index) => (
           <InlineImageThumbnail
             key={`${image.src}-${index}`}

@@ -15,7 +15,7 @@ const links = [
     eyebrow: 'Parceria da casa',
     accent: '#ff6b35',
     cta: 'Pegar cupom',
-    image: '/images/universe/damie-hero.jpg',
+    image: '/images/universe/damie-hero-collage.webp',
     Icon: Handshake,
   },
   {
@@ -27,6 +27,7 @@ const links = [
     eyebrow: 'Economize melhor',
     accent: '#1a4d2e',
     cta: 'Ver ofertas',
+    image: '/images/universe/dicas-hero.webp',
     Icon: Tag,
   },
   {
@@ -75,9 +76,9 @@ export function MyLinks() {
             ) : (
               <div className="absolute inset-0 bg-[linear-gradient(135deg,#4a1b0c_0%,#a6371d_48%,#ff8a4c_100%)]" />
             )}
-            <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(15,20,25,0.18)_0%,rgba(15,20,25,0.48)_58%,rgba(15,20,25,0.74)_100%)]" />
-            <div className="absolute inset-0 bg-[radial-gradient(circle_at_16%_20%,rgba(255,255,255,0.24),transparent_30%),radial-gradient(circle_at_88%_10%,rgba(255,215,0,0.18),transparent_24%)]" />
-            <div className="absolute -right-16 -top-20 h-48 w-48 rounded-full bg-white/15 blur-3xl transition-transform duration-500 group-hover:scale-125" />
+            <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(15,20,25,0.32)_0%,rgba(15,20,25,0.58)_58%,rgba(15,20,25,0.82)_100%)]" />
+            <div className="absolute inset-0 bg-[radial-gradient(circle_at_16%_20%,rgba(255,255,255,0.18),transparent_30%),radial-gradient(circle_at_88%_10%,rgba(255,215,0,0.12),transparent_24%)]" />
+            <div className="absolute -right-16 -top-20 h-48 w-48 rounded-full bg-white/12 blur-3xl transition-transform duration-500 group-hover:scale-125" />
             <div className="relative flex w-full flex-col justify-between">
               <div className="flex items-start justify-between gap-5">
                 <div>
@@ -103,7 +104,7 @@ export function MyLinks() {
               </div>
 
               <div className="flex flex-wrap items-center gap-3 border-t border-white/18 pt-4">
-                <span className="rounded-full bg-[#0f1419] px-4 py-2.5 text-sm font-bold text-white transition-all group-hover:bg-white group-hover:text-[#0f1419]">
+                <span className="rounded-full bg-[#ff6b35] px-4 py-2.5 text-sm font-bold text-white shadow-lg transition-all group-hover:bg-white group-hover:text-[#ff6b35]">
                   {heroLink.cta}
                 </span>
                 <ArrowUpRight className="h-5 w-5 transition-transform duration-300 group-hover:translate-x-1 group-hover:-translate-y-1" />
@@ -123,8 +124,27 @@ export function MyLinks() {
                 className={`group relative min-h-[210px] w-[70vw] min-w-[230px] max-w-[310px] flex-shrink-0 snap-start overflow-hidden rounded-[1.5rem] border border-black/5 bg-white p-5 shadow-soft transition-all duration-500 hover:-translate-y-1 hover:shadow-medium md:min-h-[230px] md:w-auto md:min-w-0 md:max-w-none ${
                   link.comingSoon ? 'opacity-78 hover:opacity-100' : ''
                 }`}
+                style={link.image ? { backgroundColor: `${link.accent}14` } : undefined}
               >
-                <div className="absolute right-0 top-0 h-24 w-24 rounded-bl-full bg-[#fef9f3]" />
+                {link.image && (
+                  <>
+                    <Image
+                      src={link.image}
+                      alt={link.title}
+                      fill
+                      className="object-cover opacity-70 transition-transform duration-700 ease-out group-hover:scale-105"
+                      sizes="(max-width: 768px) 70vw, (max-width: 1024px) 33vw, 25vw"
+                    />
+                    <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(254,249,243,0.30)_0%,rgba(254,249,243,0.74)_52%,rgba(254,249,243,0.94)_100%)]" />
+                    <div
+                      className="absolute inset-0 opacity-35"
+                      style={{
+                        background: `radial-gradient(circle at 82% 18%, ${link.accent}55, transparent 34%), radial-gradient(circle at 14% 84%, #ff6b3540, transparent 34%)`,
+                      }}
+                    />
+                  </>
+                )}
+                <div className="absolute right-0 top-0 h-24 w-24 rounded-bl-full bg-[#fef9f3]/80" />
                 <div className="relative flex h-full flex-col justify-between gap-5">
                   <div className="flex items-start justify-between gap-4">
                     <div>

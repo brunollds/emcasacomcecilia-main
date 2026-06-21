@@ -116,6 +116,36 @@ export default async function ReviewPage({ params }) {
         }
       : {}),
   };
+  
+  const faqSection = review.contentSections?.find(
+    (s) => s.heading?.toLowerCase().includes('perguntas frequentes') || s.heading?.toLowerCase().includes('faq')
+  );
+
+  let faqJsonLd = null;
+  if (faqSection && faqSection.bullets) {
+    const mainEntity = faqSection.bullets.map((bullet) => {
+      const qMatch = bullet.match(/^([^\?]+\?)\s*(.+)$/);
+      if (qMatch) {
+        return {
+          '@type': 'Question',
+          name: qMatch[1].trim(),
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: qMatch[2].trim(),
+          },
+        };
+      }
+      return null;
+    }).filter(Boolean);
+
+    if (mainEntity.length > 0) {
+      faqJsonLd = {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity,
+      };
+    }
+  }
 
   return (
     <ReviewNotebookTemplate
@@ -126,6 +156,7 @@ export default async function ReviewPage({ params }) {
       reviewImageAlt={review.imageAlt || review.title}
       breadcrumbJsonLd={breadcrumbJsonLd}
       jsonLd={jsonLd}
+      faqJsonLd={faqJsonLd}
       relatedReviews={relatedReviews}
     />
   );

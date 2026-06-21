@@ -8,3 +8,4 @@ export {
   type ReviewTableOfContentsProps,
   type ReviewMobileTocProps,
 } from './ReviewTableOfContents';
+export { ReputacaoMetricas, PadroesReclamacao } from './ReputacaoMetricas';

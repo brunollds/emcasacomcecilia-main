@@ -230,6 +230,7 @@ export interface ContentSectionImage {
 export interface ContentSection {
   heading?: string;
   paragraphs?: string[];
+  postParagraphs?: string[];
   bullets?: string[];
   emphasis?: string;
   image?: string | ContentSectionImage;
@@ -238,6 +239,11 @@ export interface ContentSection {
   imageFit?: 'cover' | 'contain' | 'portrait';
   images?: ContentSectionImage[];
   links?: ContentSectionLink[];
+  widget?: string;
+  accordionBlock?: {
+    heading: string;
+    paragraphs: string[];
+  };
 }
 
 export interface GalleryImage {

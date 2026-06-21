@@ -54,6 +54,11 @@ export const metadata = {
     index: true,
     follow: true,
   },
+  icons: {
+    icon: '/images/logos/logo-em-casa-com-cecilia.png',
+    apple: '/images/logos/logo-em-casa-com-cecilia.png',
+    shortcut: '/images/logos/logo-em-casa-com-cecilia.png',
+  },
 };
 
 const organizationSchema = {

@@ -232,6 +232,12 @@ export interface Review {
     imageFit?: 'cover' | 'contain' | 'portrait';
     images?: ContentSectionImage[];
     links?: ContentSectionLink[];
+    widget?: string;
+    postParagraphs?: string[];
+    accordionBlock?: {
+      heading: string;
+      paragraphs: string[];
+    };
   }[];
 }
 
@@ -18626,6 +18632,148 @@ export function getRecipeCuisine(recipe: Recipe): string | null {
 }
 
 export const reviews: Review[] = [
+  {
+    id: 19,
+    slug: 'damie-reclame-aqui-o-que-os-dados-mostram',
+    title: 'Damie no Reclame Aqui: o que os dados mostram antes de você comprar',
+    type: 'Análise de Reputação',
+    description: 'Levantamento completo do Reclame Aqui da Damie Móveis: nota atual, taxa de resposta, tipos de reclamação mais comuns e o que considerar antes de comprar.',
+    publishedAt: '20 Jun 2026',
+    publishedAtISO: '2026-06-20',
+    isNew: true,
+    image: '/images/reviews/damie-reclame-aqui-hero.webp',
+    imageAlt: 'Painel do Reclame Aqui da Damie Móveis mostrando nota 8.0 e reputação Ótimo.',
+    pros: [
+      'Dados públicos do Reclame Aqui',
+      'Resposta de 100% das reclamações',
+      'Índice de solução de 81,7%',
+      'Tempo médio de resposta de 14h',
+    ],
+    cons: [
+      'Entrega depende de transportadora terceirizada',
+      'Variações pontuais em revestimentos de couro',
+      'Nota pode variar por janela móvel de 6 meses',
+    ],
+    contentSections: [
+      {
+        heading: 'Resposta rápida',
+        widget: 'ReputacaoMetricas',
+      },
+      {
+        heading: 'Por que pesquisar o Reclame Aqui antes de comprar móvel pela internet',
+        paragraphs: [
+          'Comprar móvel online é diferente de comprar um eletrodoméstico ou uma roupa. O produto é grande, caro, difícil de devolver — não é o caso da Damie, conto mais abaixo — e a entrega quase sempre depende de uma transportadora terceirizada. Quando algo dá errado — atraso, avaria, dificuldade de acesso no prédio — a frustração é proporcional ao valor investido.',
+          'Por isso, antes de fechar qualquer compra de sofá ou poltrona pela internet, eu paro no Reclame Aqui. Não para achar empresa perfeita — isso não existe — mas para entender o padrão dos problemas e, principalmente, como a empresa responde quando eles aparecem. Uma marca com nota alta e resposta rápida não garante que você não vai ter problema, mas indica que, se tiver, há mais chance de ser atendido.',
+        ],
+      },
+      {
+        heading: 'Os dados atuais da Damie no Reclame Aqui',
+        paragraphs: [
+          'Segundo o painel do Reclame Aqui consultado em junho de 2026, a Damie Móveis apresenta os seguintes indicadores:',
+        ],
+        bullets: [
+          'Nota: 8,0/10',
+          'Classificação: Ótimo',
+          'Respostas: 100% das reclamações respondidas',
+          'Índice de solução: 81,7%',
+          'Voltariam a fazer negócio: 70,9%',
+          'Tempo médio de resposta: 14 horas',
+          'Total de casos no período consolidado: 324',
+        ],
+        links: [
+          {
+            label: 'Ver perfil oficial no Reclame Aqui →',
+            href: 'https://www.reclameaqui.com.br/empresa/damie-moveis/',
+          },
+        ],
+      },
+      {
+        heading: 'Dados institucionais',
+        paragraphs: [
+          'A Damie opera sob a razão social Dix Indústria de Estofados Ltda, CNPJ 26.315.698/0001-90, sediada em Frederico Westphalen, RS. A marca oferece garantia de 1 ano contra defeitos de fabricação e 30 dias de teste em casa.',
+          'A nota é calculada com base em uma janela móvel de 6 meses, então ela pode variar ao longo do tempo. Por isso, vale a pena consultar diretamente o Reclame Aqui no dia da sua compra para confirmar o número atual.',
+        ],
+      },
+      {
+        heading: 'O que aparece nas reclamações',
+        paragraphs: [
+          'Dos 324 casos registrados no período consolidado, dois padrões se repetem com mais frequência:',
+        ],
+        widget: 'PadroesReclamacao',
+        accordionBlock: {
+          heading: 'O que não aparece: devolução e arrependimento',
+          paragraphs: [
+            'Por se tratar de uma compra que costuma ser difícil de devolver na maioria das lojas online, a Damie mitiga esse receio oferecendo uma política de 30 dias de teste com devolução garantida.',
+            'O interessante é que, ao analisar os tipos comuns de problemas e reclamações registrados no Reclame Aqui (que se concentram em logística de transporte), a taxa de desistência da compra ou devolução por insatisfação com o produto é quase inexistente (para não dizer nula). Isso indica que a promessa de qualidade e o teste em casa realmente funcionam na prática.',
+          ],
+        },
+      },
+      {
+        heading: 'Como isso se compara ao mercado',
+        image: {
+          src: '/images/reviews/damie-reclame-aqui-reputacao.webp',
+          alt: 'Selo de Reputação Ótima da Damie no Reclame Aqui',
+          objectFit: 'contain',
+        },
+        paragraphs: [
+          'No setor de móveis e estofados vendidos pela internet — sofás, poltronas e estofados de médio e alto padrão —, uma nota 8,0 com classificação Ótimo, resposta de 100% e tempo médio de resposta de 14 horas é uma combinação que poucas marcas do segmento sustentam. Não vou nomear concorrentes aqui, mas é possível encontrar marcas do mesmo nicho com notas na faixa de regular ou até insuficiente no Reclame Aqui, com taxas de resposta bem abaixo de 100% e tempo de retorno medido em dias, não horas.',
+          'Isso não significa que toda concorrente seja problemática, nem que a Damie seja isenta de falhas. Significa apenas que, em termos de reputação online medida pelo Reclame Aqui, a Damie está acima da média do setor.',
+        ],
+      },
+      {
+        heading: 'O que fazer antes de comprar',
+        paragraphs: [
+          'Com base nos padrões de reclamação encontrados, estas são as verificações que eu faria antes de fechar pedido:',
+        ],
+        bullets: [
+          'Meça o acesso — elevador, corredor, porta de entrada e escada. É o ponto mais citado em reclamações de entrega.',
+          'Prefira tecido se tiver dúvida — linho, suede ou bouclé têm variação menor reportada do que couro bovino original.',
+          'Registre em foto no recebimento — antes de abrir completamente a embalagem, documente o estado da caixa e do produto.',
+          'Acione o suporte dentro dos 30 dias de teste — se algo não estiver certo, não espere. O prazo de teste em casa existe para isso.',
+        ],
+      },
+      {
+        heading: 'Nossa experiência pessoal',
+        paragraphs: [
+          'Se você quer saber como foi nossa experiência real com as poltronas e o sofá da Damie — entrega, montagem e uso no dia a dia — escrevi em detalhe aqui:',
+        ],
+        image: {
+          src: '/images/reviews/damie-reclame-aqui-local.webp',
+          alt: 'Poltrona reclinável bege da Damie na sala de estar da Cecília.',
+          caption: 'Poltrona reclinável bege da Damie na nossa sala de estar.',
+          objectFit: 'portrait',
+        },
+        links: [
+          {
+            label: 'Damie é confiável? Nossa experiência depois de meses de uso',
+            href: 'https://damie.emcasacomcecilia.com/damie-e-confiavel',
+          },
+        ],
+      },
+      {
+        heading: 'Perguntas frequentes',
+        bullets: [
+          'Qual a nota da Damie no Reclame Aqui? A Damie Móveis tem nota 8,0/10 no Reclame Aqui (consultado em junho de 2026), com classificação Ótimo. A empresa responde 100% das reclamações recebidas e resolve 81,7% delas. A nota é calculada com janela móvel de 6 meses e pode variar.',
+          'O que aparece nas reclamações da Damie? A maioria dos 324 casos registrados envolve logística de transportadoras terceirizadas — atraso ou dificuldade de subir volumes grandes em escadas e elevadores pequenos. Em menor escala, há relatos de variação de odor ou textura em revestimentos de couro bovino original.',
+          'A nota 8,0 da Damie é boa para o setor de móveis online? Sim. No setor de móveis e estofados vendidos pela internet, é comum encontrar marcas com notas na faixa de regular ou insuficiente no Reclame Aqui. A nota 8,0 com classificação Ótimo, resposta de 100% e tempo médio de resposta de 14 horas coloca a Damie acima da média do setor.',
+          'A Damie resolve reclamações? Segundo os dados do Reclame Aqui de junho de 2026, a Damie responde 100% das reclamações e resolve 81,7% delas, com 70,9% dos consumidores afirmando que voltariam a fazer negócio com a marca.',
+          'É possível desistir ou cancelar uma compra da Damie? Sim. Além dos 30 dias de teste garantidos por lei e pela própria política da empresa, a taxa de arrependimento, cancelamento ou desistência registrada no Reclame Aqui é praticamente nula. Isso indica que a maioria dos consumidores que compram pelo site ficam satisfeitos e não acionam a devolução.',
+        ],
+      },
+      {
+        heading: 'Nota de transparência',
+        paragraphs: [
+          'Este artigo contém promoção afiliada. Se você já decidiu comprar e quiser usar nosso cupom, ele está disponível na página de cupom da Cecília. Ao comprar usando o cupom CECILIA12 ou os links indicados, você apoia o Em Casa com Cecília sem custo adicional.',
+        ],
+        links: [
+          {
+            label: 'Ver cupom CECILIA12',
+            href: 'https://emcasacomcecilia.com/cupons/damie',
+          },
+        ],
+      },
+    ],
+  },
   {
     id: 17,
     slug: 'cupom-cecilia12-como-usar',
