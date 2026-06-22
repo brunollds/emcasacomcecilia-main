@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import { ArrowRight, ChevronRight, PlayCircle } from 'lucide-react';
+import { ArrowRight, ChevronRight, PlayCircle, Globe } from 'lucide-react';
 import TextToSpeechButton from '@/components/TextToSpeechButton';
 import { ShareBar } from '@/components/shared/ShareBar';
 import { ReviewGallerySection } from './ReviewGallerySection';
@@ -73,7 +73,11 @@ export function ReviewNotebookTemplate({
   const filteredHeadings: string[] = ['Transparência', 'Veredito'];
 
   const tocItems = (review.contentSections || [])
-    .filter((section) => section.heading && !filteredHeadings.includes(section.heading))
+    .filter((section) => (
+      section.heading &&
+      !filteredHeadings.includes(section.heading) &&
+      !(kind === 'guia' && isStepHeading(section.heading))
+    ))
     .map((section) => ({
       id: sectionIds.get(section.heading || '') || '',
       heading: section.heading || '',
@@ -168,6 +172,51 @@ export function ReviewNotebookTemplate({
             >
               {review.description}
             </EditorialReveal>
+
+            {/* Language Switcher for YesStyle localized versions */}
+            {[
+              'codigo-cecilia010-yesstyle-como-usar',
+              'yesstyle-reward-code-coupon-cecilia010',
+              'codigo-de-recompensa-yesstyle-cupon-cecilia010',
+              'code-recompense-yesstyle-cecilia010',
+              'yesstyle-reward-code-rabatt-cecilia010'
+            ].includes(review.slug) && (
+              <div className="mb-6 flex flex-wrap items-center gap-2 rounded-lg border border-[#1a4d2e]/10 bg-[#faf8f3] px-4 py-2.5 text-xs text-[#4a5568]">
+                <span className="font-semibold text-[#1a4d2e] flex items-center gap-1.5">
+                  <Globe size={14} className="text-[#ff6b35]" />
+                  {review.slug === 'yesstyle-reward-code-coupon-cecilia010'
+                    ? 'Read this guide in other languages:'
+                    : review.slug === 'codigo-de-recompensa-yesstyle-cupon-cecilia010'
+                      ? 'Lee esta guía en otros idiomas:'
+                      : review.slug === 'code-recompense-yesstyle-cecilia010'
+                        ? 'Lire ce guide dans une autre langue :'
+                        : review.slug === 'yesstyle-reward-code-rabatt-cecilia010'
+                          ? 'Diesen Leitfaden in einer anderen Sprache lesen:'
+                          : 'Leia este guia em outros idiomas:'}
+                </span>
+                <div className="flex flex-wrap items-center gap-2 ml-1">
+                  {[
+                    { slug: 'codigo-cecilia010-yesstyle-como-usar', label: 'Português', href: '/reviews/codigo-cecilia010-yesstyle-como-usar' },
+                    { slug: 'yesstyle-reward-code-coupon-cecilia010', label: 'English', href: '/reviews/yesstyle-reward-code-coupon-cecilia010' },
+                    { slug: 'codigo-de-recompensa-yesstyle-cupon-cecilia010', label: 'Español', href: '/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010' },
+                    { slug: 'code-recompense-yesstyle-cecilia010', label: 'Français', href: '/reviews/code-recompense-yesstyle-cecilia010' },
+                    { slug: 'yesstyle-reward-code-rabatt-cecilia010', label: 'Deutsch', href: '/reviews/yesstyle-reward-code-rabatt-cecilia010' }
+                  ]
+                    .filter((lang) => lang.slug !== review.slug)
+                    .map((lang, index, arr) => (
+                      <span key={lang.slug} className="inline-flex items-center gap-2">
+                        <Link
+                          href={lang.href}
+                          className="font-medium text-[#1a4d2e] hover:text-[#ff6b35] transition-colors underline underline-offset-4"
+                        >
+                          {lang.label}
+                        </Link>
+                        {index < arr.length - 1 && <span className="text-[#1a4d2e]/20">|</span>}
+                      </span>
+                    ))}
+                </div>
+              </div>
+            )}
 
             <EditorialReveal as="div" delay={0.2} className="mb-8">
               <ArticleByline

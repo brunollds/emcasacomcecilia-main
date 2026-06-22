@@ -15,7 +15,7 @@ function normalizeImages(section, reviewTitle) {
       src: singleSrc,
       alt: (typeof section.image === 'string' ? section.imageAlt : section.image?.alt) || section.heading || reviewTitle,
       caption,
-      fit: fit === 'portrait' ? 'portrait' : fit === 'contain' ? 'contain' : 'cover',
+      fit: fit === 'portrait' ? 'portrait' : fit === 'wide' ? 'wide' : fit === 'contain' ? 'contain' : 'cover',
     });
   }
 
@@ -25,7 +25,7 @@ function normalizeImages(section, reviewTitle) {
         src: item.src,
         alt: item.alt || section.heading || reviewTitle,
         caption: item.caption,
-        fit: item.objectFit === 'portrait' ? 'portrait' : item.objectFit === 'contain' ? 'contain' : 'cover',
+        fit: item.objectFit === 'portrait' ? 'portrait' : item.objectFit === 'wide' ? 'wide' : item.objectFit === 'contain' ? 'contain' : 'cover',
       });
     }
   }
@@ -37,6 +37,7 @@ function InlineImageThumbnail({ image, index, onOpen }) {
   const [pendingReveal, setPendingReveal] = useState(true);
   const isPortrait = image.fit === 'portrait';
   const isContain = image.fit === 'contain';
+  const isWide = image.fit === 'wide';
   const ref = useRef(null);
 
   useEffect(() => {
@@ -103,19 +104,19 @@ function InlineImageThumbnail({ image, index, onOpen }) {
       <button
         type="button"
         onClick={() => onOpen(index)}
-        className={`group relative block w-full overflow-hidden rounded-[1.25rem] ${isContain ? 'bg-white' : 'bg-[#f4f4f5]'}`}
+        className={`group relative block w-full overflow-hidden rounded-[1.25rem] ${(isContain || isWide) ? 'bg-white' : 'bg-[#f4f4f5]'}`}
         aria-label={`Ampliar imagem ${index + 1}`}
       >
         <div
           className={`relative w-full ${
-            isPortrait ? 'aspect-[9/16]' : 'aspect-video'
+            isPortrait ? 'aspect-[9/16]' : isWide ? 'aspect-[4/1]' : 'aspect-video'
           }`}
         >
           <Image
             src={image.src}
             alt={image.alt}
             fill
-            className={isPortrait ? 'object-cover' : isContain ? 'object-contain' : 'object-cover'}
+            className={isPortrait ? 'object-cover' : (isContain || isWide) ? 'object-contain' : 'object-cover'}
             sizes="(max-width: 768px) 100vw, 50vw"
           />
         </div>
@@ -231,10 +232,11 @@ export default function ReviewInlineImage({ section, reviewTitle }) {
   const isMulti = images.length > 1;
   const isSinglePortrait = images.length === 1 && images[0].fit === 'portrait';
   const isSingleContain = images.length === 1 && images[0].fit === 'contain';
+  const isSingleWide = images.length === 1 && images[0].fit === 'wide';
 
   return (
     <>
-      <div className={`mt-6 grid w-full gap-4 ${isMulti ? 'grid-cols-1 sm:grid-cols-2' : 'grid-cols-1'} ${isSinglePortrait ? 'mx-auto max-w-[320px]' : isSingleContain ? 'mx-auto max-w-[360px]' : ''}`}>
+      <div className={`mt-6 grid w-full gap-4 ${isMulti ? 'grid-cols-1 sm:grid-cols-2' : 'grid-cols-1'} ${isSinglePortrait ? 'mx-auto max-w-[320px]' : isSingleWide ? 'mx-auto max-w-3xl' : isSingleContain ? 'mx-auto max-w-2xl' : ''}`}>
         {images.map((image, index) => (
           <InlineImageThumbnail
             key={`${image.src}-${index}`}

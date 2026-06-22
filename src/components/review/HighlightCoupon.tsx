@@ -7,5 +7,5 @@ export interface HighlightCouponProps {
 }
 
 export function HighlightCoupon({ text }: HighlightCouponProps): React.ReactElement {
-  return <AnimatedTextHighlight text={text} terms={['CECILIA12', 'CECI']} />;
+  return <AnimatedTextHighlight text={text} terms={['CECILIA010', 'CECILIA12', 'CECI']} />;
 }

@@ -24,8 +24,8 @@ export interface PersonRef {
 export interface ArticleRef {
   slug: string;
   title: string;
-  category: string;
-  coverImage: Image;
+  category?: string;
+  coverImage?: Image;
 }
 
 // ---------------------------------------------------------------------------
@@ -223,7 +223,7 @@ export interface ContentSectionImage {
   src: string;
   alt: string;
   caption?: string;
-  objectFit?: 'cover' | 'contain' | 'portrait';
+  objectFit?: 'cover' | 'contain' | 'portrait' | 'wide';
 }
 
 /** Modelo legado real de contentSections em src/lib/data.ts. */
@@ -236,7 +236,7 @@ export interface ContentSection {
   image?: string | ContentSectionImage;
   imageAlt?: string;
   imageCaption?: string;
-  imageFit?: 'cover' | 'contain' | 'portrait';
+  imageFit?: 'cover' | 'contain' | 'portrait' | 'wide';
   images?: ContentSectionImage[];
   links?: ContentSectionLink[];
   widget?: string;
@@ -326,6 +326,7 @@ export interface Review {
 
   // CTA (opcional)
   cta?: Cta;
+  coupon?: string;
 
   // Avaliação existente (preservar)
   rating?: number;

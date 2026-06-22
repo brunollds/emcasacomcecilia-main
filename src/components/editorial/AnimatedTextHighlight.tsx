@@ -64,7 +64,10 @@ export function AnimatedTextHighlight({
   terms = DEFAULT_TERMS,
   className = '',
 }: AnimatedTextHighlightProps): React.ReactElement {
-  const activeTerms = terms.filter(Boolean);
+  const activeTerms = useMemo(
+    () => terms.filter(Boolean).sort((a, b) => b.length - a.length),
+    [terms]
+  );
 
   const parts = useMemo(() => {
     if (activeTerms.length === 0) return [text];
