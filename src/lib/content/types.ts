@@ -341,6 +341,7 @@ export interface Review {
   collections?: string[];
   isPopular?: boolean;
   isNew?: boolean;
+  hideFromListings?: boolean;
 
   // SEO
   metaDescription?: string;

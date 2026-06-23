@@ -8,6 +8,7 @@ import { getReviewSlug, publishedReviews } from '@/lib/data';
 
 const INITIAL_COUNT = 8;
 const LOAD_MORE_COUNT = 4;
+const listedReviews = publishedReviews.filter((review) => !review.hideFromListings);
 
 const accentByType = {
   'Eletrodoméstico': '#ff6b35',
@@ -45,7 +46,7 @@ const estimateReadingTime = (review) => {
   return Math.max(2, Math.ceil(words / 180));
 };
 
-const uniqueTypes = ['Todos', ...Array.from(new Set(publishedReviews.map((r) => r.type))).sort()];
+const uniqueTypes = ['Todos', ...Array.from(new Set(listedReviews.map((r) => r.type))).sort()];
 
 const sortReviewsByDateDesc = (items) =>
   [...items].sort((a, b) => {
@@ -61,7 +62,7 @@ export default function ReviewsClientPage() {
   const filtered = useMemo(
     () =>
       sortReviewsByDateDesc(
-        activeType === 'Todos' ? publishedReviews : publishedReviews.filter((r) => r.type === activeType)
+        activeType === 'Todos' ? listedReviews : listedReviews.filter((r) => r.type === activeType)
       ),
     [activeType]
   );

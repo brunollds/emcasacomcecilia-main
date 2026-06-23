@@ -187,6 +187,7 @@ export interface Review {
   author?: PersonRef;
   authors?: PersonRef[];
   isNew?: boolean;
+  hideFromListings?: boolean;
   image?: string;
   imageAlt?: string;
   imageAspect?: 'landscape' | 'portrait' | 'square';
@@ -18897,6 +18898,7 @@ export const reviews: Review[] = [
     publishedAt: '22 Jun 2026',
     publishedAtISO: '2026-06-22',
     draft: false,
+    hideFromListings: true,
     image: '/images/reviews/cupons/yesstyle-kbeauty-hero.webp',
     imageAlt: 'Korean skincare and K-beauty products from YesStyle beautifully arranged on a bright table.',
     imageFit: 'cover',
@@ -19127,6 +19129,7 @@ export const reviews: Review[] = [
     publishedAt: '22 Jun 2026',
     publishedAtISO: '2026-06-22',
     draft: false,
+    hideFromListings: true,
     image: '/images/reviews/cupons/yesstyle-kbeauty-hero.webp',
     imageAlt: 'Productos de cosmética y skincare coreano de YesStyle ordenados en una mesa iluminada.',
     imageFit: 'cover',
@@ -19357,6 +19360,7 @@ export const reviews: Review[] = [
     publishedAt: '22 Jun 2026',
     publishedAtISO: '2026-06-22',
     draft: false,
+    hideFromListings: true,
     image: '/images/reviews/cupons/yesstyle-kbeauty-hero.webp',
     imageAlt: 'Produits de K-beauty et skincare coréen de YesStyle disposés sur une table claire.',
     imageFit: 'cover',
@@ -19588,6 +19592,7 @@ export const reviews: Review[] = [
     publishedAt: '22 Jun 2026',
     publishedAtISO: '2026-06-22',
     draft: false,
+    hideFromListings: true,
     image: '/images/reviews/cupons/yesstyle-kbeauty-hero.webp',
     imageAlt: 'Produkte von K-beauty und koreanischer Pflege von YesStyle auf einem hellen Tisch angeordnet.',
     imageFit: 'cover',

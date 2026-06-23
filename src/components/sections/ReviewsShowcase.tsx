@@ -47,7 +47,8 @@ const sortReviewsByDateDesc = (items: typeof publishedReviews) =>
   });
 
 export function ReviewsShowcase() {
-  const featuredReviews = sortReviewsByDateDesc(publishedReviews).slice(0, 4);
+  const listedReviews = publishedReviews.filter((review) => !review.hideFromListings);
+  const featuredReviews = sortReviewsByDateDesc(listedReviews).slice(0, 4);
 
   return (
     <section className="bg-white pb-16 pt-6 md:pt-8">
