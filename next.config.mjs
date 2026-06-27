@@ -4,6 +4,15 @@ const nextConfig = {
   experimental: {
     cpus: 1,
   },
+  async redirects() {
+    return [
+      {
+        source: '/cupons/nestle-nutre',
+        destination: '/cupons/nutren',
+        permanent: true,
+      },
+    ];
+  },
   images: {
     remotePatterns: [
       {
