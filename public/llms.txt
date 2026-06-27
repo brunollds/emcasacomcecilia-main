@@ -9,6 +9,7 @@ Este site é o hub oficial da criadora Cecília, com foco em receitas testadas, 
 - Home: /
 - Receitas: /receitas
 - Reviews e análises: /reviews
+- Cupons ativos: /cupons
 - Sobre a Cecília: /sobre
 - Contato: /contato
 - FAQs: /faqs

@@ -264,7 +264,7 @@ export function ReviewSectionContent({
       {shouldRenderTopTen && <TopTenList items={section.bullets} />}
 
       {section.links && section.links.length > 0 && (
-        <div className={`mt-8 flex flex-wrap gap-4 ${Boolean(section.image || (section.images && section.images.length > 0)) ? 'justify-center w-full' : ''}`}>
+        <div className={`mt-4 flex flex-wrap gap-4 ${Boolean(section.image || (section.images && section.images.length > 0)) ? 'justify-center w-full' : ''}`}>
           {section.links.map((link) => {
             const internal = isInternalLink(link.href);
             return (

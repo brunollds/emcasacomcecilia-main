@@ -15,8 +15,13 @@ export function generateStaticParams() {
 
 export const dynamicParams = true;
 
-export function generateMetadata({ params }: { params: { brand: string } }): Metadata {
-  const coupon = getCouponBySlug(params.brand);
+type CouponBrandPageProps = {
+  params: Promise<{ brand: string }>;
+};
+
+export async function generateMetadata({ params }: CouponBrandPageProps): Promise<Metadata> {
+  const { brand } = await params;
+  const coupon = getCouponBySlug(brand);
   if (!coupon) return {};
   const socialImage = coupon.socialImage || coupon.brandLogo || '/images/logos/logo-em-casa-com-cecilia.png';
   const socialImageAlt = coupon.socialImageAlt || coupon.brandLogoAlt || 'Em Casa com Cecília';
@@ -127,8 +132,9 @@ function getJsonLd(coupon: NonNullable<ReturnType<typeof getCouponBySlug>>) {
   return [webPage, offer, faq, breadcrumb];
 }
 
-export default function CouponBrandPage({ params }: { params: { brand: string } }) {
-  const coupon = getCouponBySlug(params.brand);
+export default async function CouponBrandPage({ params }: CouponBrandPageProps) {
+  const { brand } = await params;
+  const coupon = getCouponBySlug(brand);
   if (!coupon) notFound();
 
   const otherCoupons = getOtherActiveCoupons(coupon.slug);
@@ -138,6 +144,10 @@ export default function CouponBrandPage({ params }: { params: { brand: string } 
     month: 'long',
     year: 'numeric',
   });
+  const highlightDate = new Date(`${coupon.lastVerified}T12:00:00`);
+  const highlightMonthYear = `${highlightDate.toLocaleDateString('pt-BR', {
+    month: 'long',
+  })} ${highlightDate.getFullYear()}`;
   const heroGradient = `linear-gradient(135deg, ${coupon.brandColor} 0%, #862f0e 100%)`;
 
   return (
@@ -188,14 +198,14 @@ export default function CouponBrandPage({ params }: { params: { brand: string } 
         </div>
       </section>
 
-      {coupon.slug === 'damie' && (
+      {coupon.monthlyHighlight && (
         <section className="px-4 pt-8">
           <div className="mx-auto max-w-5xl rounded-2xl border border-[#ff6b35]/30 bg-white px-5 py-4 shadow-soft">
             <p className="font-heading text-lg font-black text-[#0f1419]">
-              Cupom Damie atualizado: CECILIA12 — 12% OFF em todo o site (junho 2026).
+              Cupom {coupon.brand} atualizado: {coupon.code} — {coupon.discount} {coupon.monthlyHighlight.scope} ({highlightMonthYear}).
             </p>
             <p className="mt-2 text-sm leading-relaxed text-[#0f1419]/70">
-              Funciona com Pix e cartão. Confirme o desconto no checkout antes de finalizar.
+              {coupon.monthlyHighlight.note}. Confirme o desconto no checkout antes de finalizar.
             </p>
           </div>
         </section>
@@ -269,7 +279,7 @@ export default function CouponBrandPage({ params }: { params: { brand: string } 
             <DetailRow label="Código" value={coupon.code} mono />
             <DetailRow label="Desconto" value={coupon.discount} />
             <DetailRow label="Loja" value={coupon.brand} />
-            <DetailRow label="Categorias elegíveis" value={coupon.eligibleCategories} />
+            <DetailRow label="Abrangência" value={coupon.eligibleCategories} />
             <DetailRow label="Validade" value={coupon.validity} />
             <DetailRow label="Reusável" value={coupon.reusable} />
             <DetailRow label="Cumulativo" value={coupon.combinable} />
@@ -283,7 +293,7 @@ export default function CouponBrandPage({ params }: { params: { brand: string } 
           <ol className="mt-4 list-decimal space-y-3 pl-6 text-base leading-relaxed text-[#0f1419]/78">
             <li>Copie o código <strong>{coupon.code}</strong> no card acima.</li>
             <li>Acesse a loja {coupon.brand} pelo botão indicado.</li>
-            <li>Adicione os produtos elegíveis ao carrinho.</li>
+            <li>Adicione os produtos desejados ao carrinho.</li>
             <li>Cole o código no campo de cupom/desconto antes de finalizar.</li>
             <li>Confira se o desconto de <strong>{coupon.discount}</strong> apareceu no resumo do pedido.</li>
           </ol>

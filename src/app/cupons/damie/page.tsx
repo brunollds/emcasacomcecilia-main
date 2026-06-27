@@ -1,8 +1,11 @@
-import type { Metadata } from 'next';
 import CouponBrandPage, { generateMetadata as generateBrandMetadata } from '../[brand]/page';
 
-export const metadata: Metadata = generateBrandMetadata({ params: { brand: 'damie' } });
+const params = Promise.resolve({ brand: 'damie' });
+
+export function generateMetadata() {
+  return generateBrandMetadata({ params });
+}
 
 export default function DamieCouponPage() {
-  return <CouponBrandPage params={{ brand: 'damie' }} />;
+  return <CouponBrandPage params={params} />;
 }

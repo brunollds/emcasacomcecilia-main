@@ -45,6 +45,10 @@ export interface Coupon {
     type: 'review' | 'post';
     publishedAt: string;
   }[];
+  monthlyHighlight?: {
+    scope: string;
+    note: string;
+  };
 }
 
 export const COUPONS: Coupon[] = [
@@ -62,14 +66,14 @@ export const COUPONS: Coupon[] = [
     discount: '12% OFF',
     discountNumber: 12,
     category: 'Móveis e decoração',
-    shortDescription: 'móveis premium selecionados',
+    shortDescription: 'todo o site DAMIE',
     longDescription:
-      'Código exclusivo da Cecília para economizar em poltronas, sofás, camas estofadas e móveis selecionados da DAMIE.',
+      'Código exclusivo da Cecília para economizar em compras no site da DAMIE.',
     metaTitle: 'Cupom DAMIE 12% OFF • CECILIA12 ativo • Em Casa com Cecília',
     metaDescription:
-      'Cupom DAMIE atualizado junho 2026: use CECILIA12 para 12% OFF em poltronas, sofás e móveis selecionados.',
+      'Cupom DAMIE atualizado junho 2026: use CECILIA12 para 12% OFF em todo o site.',
     eligibleCategories:
-      'Poltronas reclináveis, sofás, camas estofadas e móveis selecionados',
+      'Todo o site DAMIE',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
     reusable: 'Sim, sem limite de usos por CPF',
     shipping: 'Calculado separadamente, conforme política da loja',
@@ -81,7 +85,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom CECILIA12 funciona em todos os produtos da DAMIE?',
         answer:
-          'O cupom vale para produtos elegíveis da DAMIE. Em geral, inclui poltronas, sofás, camas e móveis selecionados, mas itens em promoção especial podem ter regra própria. Confira se o desconto aparece no checkout antes de finalizar.',
+          'O cupom vale para compras no site da DAMIE. Se algum item tiver uma campanha especial com regra própria, o checkout informa antes da finalização.',
       },
       {
         question: 'O cupom CECILIA12 é cumulativo com outras promoções?',
@@ -91,7 +95,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom inclui frete grátis?',
         answer:
-          'Não. O cupom aplica desconto no valor dos produtos elegíveis. O frete é calculado separadamente pela loja conforme CEP, produto e política de entrega.',
+          'Não. O cupom aplica desconto no valor dos produtos. O frete é calculado separadamente pela loja conforme CEP, produto e política de entrega.',
       },
       {
         question: 'A Cecília testou produtos da DAMIE?',
@@ -145,6 +149,10 @@ export const COUPONS: Coupon[] = [
         publishedAt: '2026-04-29',
       },
     ],
+    monthlyHighlight: {
+      scope: 'em todo o site',
+      note: 'Funciona com Pix e cartão',
+    },
   },
   {
     slug: 'dolce-gusto',
@@ -158,31 +166,31 @@ export const COUPONS: Coupon[] = [
     discount: '5% OFF',
     discountNumber: 5,
     category: 'Café e bebidas',
-    shortDescription: 'cápsulas, máquinas e acessórios selecionados',
+    shortDescription: 'cápsulas, máquinas e acessórios da loja oficial',
     longDescription:
       'Código da Cecília para economizar em compras na loja oficial Nescafé Dolce Gusto Brasil.',
     metaTitle: 'Cupom Dolce Gusto 5% OFF • CECI ativo • Em Casa com Cecília',
     metaDescription:
       'Cupom Dolce Gusto com 5% OFF. Use CECI no checkout para economizar em cápsulas, máquinas e acessórios.',
     eligibleCategories:
-      'Cápsulas selecionadas, máquinas Dolce Gusto e acessórios oficiais',
+      'Todo o site oficial Dolce Gusto, conforme regras da campanha',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
     reusable: 'Sim, conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Pode variar conforme campanha ativa da loja oficial',
     lastVerified: '2026-04-30',
     aboutBrand:
-      'A Nescafé Dolce Gusto é uma linha de cafés e bebidas em cápsulas da Nestlé, com máquinas e sabores pensados para preparo rápido em casa. A marca combina praticidade com variedade: cafés intensos, bebidas com leite, cappuccinos, chocolates e opções geladas aparecem no catálogo da loja oficial. O cupom CECI entra como benefício para quem acompanha a Cecília e quer economizar em cápsulas, máquinas ou acessórios selecionados. Como em toda parceria comercial, a recomendação deve ser conferida no checkout: o desconto aparece antes da finalização quando o produto está elegível.',
+      'A Nescafé Dolce Gusto é uma linha de cafés e bebidas em cápsulas da Nestlé, com máquinas e sabores pensados para preparo rápido em casa. A marca combina praticidade com variedade: cafés intensos, bebidas com leite, cappuccinos, chocolates e opções geladas aparecem no catálogo da loja oficial. O cupom CECI entra como benefício para quem acompanha a Cecília e quer economizar em compras na loja oficial. Como em toda parceria comercial, a recomendação deve ser conferida no checkout: o desconto aparece antes da finalização quando a regra da campanha permite.',
     faqs: [
       {
         question: 'O cupom CECI vale para todas as cápsulas Dolce Gusto?',
         answer:
-          'O cupom pode valer para cápsulas selecionadas, mas a elegibilidade depende das regras atuais da loja. Sempre confirme se o desconto aparece no carrinho antes de finalizar.',
+          'O cupom vale para compras na loja oficial Dolce Gusto, conforme as regras ativas da campanha. Sempre confirme se o desconto aparece no carrinho antes de finalizar.',
       },
       {
         question: 'O cupom CECI funciona em máquinas Dolce Gusto?',
         answer:
-          'Pode funcionar em máquinas selecionadas. Caso o produto tenha uma campanha própria ou restrição comercial, o checkout informa se o cupom é aceito.',
+          'Pode funcionar em máquinas Dolce Gusto. Caso algum produto tenha uma campanha própria ou restrição comercial, o checkout informa se o cupom é aceito.',
       },
       {
         question: 'Posso usar o cupom CECI mais de uma vez?',
@@ -192,7 +200,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom dá frete grátis?',
         answer:
-          'Não necessariamente. O cupom concede desconto nos produtos elegíveis; frete, prazo e condições de entrega seguem as regras da loja oficial Dolce Gusto.',
+          'Não necessariamente. O cupom concede desconto nos produtos; frete, prazo e condições de entrega seguem as regras da loja oficial Dolce Gusto.',
       },
       {
         question: 'O cupom CECI é cumulativo?',
@@ -205,6 +213,10 @@ export const COUPONS: Coupon[] = [
           'Sim. O botão de compra aponta para o site oficial Nescafé Dolce Gusto Brasil informado pela parceria.',
       },
     ],
+    monthlyHighlight: {
+      scope: 'na loja oficial',
+      note: 'Pode variar conforme campanha ativa da loja',
+    },
     status: 'ativo',
     featured: true,
   },
@@ -220,36 +232,36 @@ export const COUPONS: Coupon[] = [
     discount: '5% OFF',
     discountNumber: 5,
     category: 'Beleza, moda e lifestyle',
-    shortDescription: 'beleza coreana, skincare, moda e produtos selecionados',
+    shortDescription: 'beleza coreana, skincare, moda e lifestyle',
     longDescription:
-      'Código da Cecília para economizar em compras selecionadas na YesStyle, incluindo produtos de beleza, skincare, moda e lifestyle.',
+      'Código da Cecília para economizar em compras na YesStyle, incluindo produtos de beleza, skincare, moda e lifestyle.',
     metaTitle: 'Cupom YesStyle 5% OFF • CECILIA010 ativo • Em Casa com Cecília',
     metaDescription:
-      'Cupom YesStyle com 5% OFF. Use CECILIA010 para economizar em beleza coreana, skincare, moda e produtos selecionados.',
+      'Cupom YesStyle com 5% OFF. Use CECILIA010 para economizar em beleza coreana, skincare, moda e lifestyle.',
     eligibleCategories:
-      'Produtos selecionados de beleza, skincare, moda, acessórios e lifestyle conforme regras da loja',
+      'Beleza, skincare, moda, acessórios e lifestyle, conforme regras da loja',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Sim, conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política internacional da loja',
     combinable: 'Pode variar conforme campanha ativa da YesStyle',
     lastVerified: '2026-06-02',
     aboutBrand:
-      'A YesStyle é uma loja internacional conhecida por produtos de beleza asiática, skincare, moda, acessórios e itens de lifestyle. O cupom CECILIA010 entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar em compras selecionadas. Como regras de desconto, frete e elegibilidade podem variar por campanha, produto e país de entrega, a recomendação é sempre conferir o desconto aplicado no carrinho antes de finalizar a compra.',
+      'A YesStyle é uma loja internacional conhecida por produtos de beleza asiática, skincare, moda, acessórios e itens de lifestyle. O cupom CECILIA010 entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar em compras no site. Como regras de desconto, frete e aplicação podem variar por campanha, produto e país de entrega, a recomendação é sempre conferir o desconto aplicado no carrinho antes de finalizar a compra.',
     faqs: [
       {
         question: 'O cupom CECILIA010 funciona em todos os produtos da YesStyle?',
         answer:
-          'O cupom pode valer para produtos selecionados da YesStyle. A elegibilidade depende das regras atuais da loja, então confirme se o desconto aparece no checkout antes de finalizar.',
+          'O código pode ser usado na YesStyle conforme as regras atuais da loja. Confirme se o desconto aparece no checkout antes de finalizar.',
       },
       {
         question: 'O cupom CECILIA010 vale para skincare e beleza coreana?',
         answer:
-          'Pode valer para itens selecionados de skincare, beleza coreana e cosméticos, desde que estejam dentro das condições comerciais da campanha ativa.',
+          'Pode valer para skincare, beleza coreana e cosméticos conforme as condições comerciais da campanha ativa.',
       },
       {
         question: 'O cupom YesStyle dá frete grátis?',
         answer:
-          'Não necessariamente. O cupom aplica desconto nos produtos elegíveis; frete, prazo e condições de entrega seguem as regras internacionais da YesStyle.',
+          'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem as regras internacionais da YesStyle.',
       },
       {
         question: 'O cupom CECILIA010 é cumulativo com outras promoções?',
@@ -267,6 +279,151 @@ export const COUPONS: Coupon[] = [
           'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
       },
     ],
+    monthlyHighlight: {
+      scope: 'na YesStyle',
+      note: 'Use no campo Reward Code e confira a aplicação no checkout',
+    },
+    status: 'ativo',
+    featured: true,
+  },
+  {
+    slug: 'nutren',
+    brand: 'Nutren',
+    brandUrl: 'https://www.nestlenutre.com.br/',
+    brandIcon: 'N',
+    brandLogo: '/images/about/partners/nutren.png',
+    brandLogoAlt: 'Marca Nutren',
+    brandColor: '#0056A4',
+    code: 'CECI',
+    discount: '5% OFF',
+    discountNumber: 5,
+    category: 'Nutrição e bem-estar',
+    shortDescription: 'produtos Nutren, exceto Alfamino e Alfaré',
+    longDescription:
+      'Código da Cecília para economizar em produtos Nutren na loja oficial, exceto Alfamino e Alfaré.',
+    metaTitle: 'Cupom Nutren 5% OFF • CECI ativo • Em Casa com Cecília',
+    metaDescription:
+      'Cupom Nutren com 5% OFF. Use CECI no checkout para economizar em produtos Nutren, exceto Alfamino e Alfaré.',
+    eligibleCategories: 'Produtos Nutren, exceto Alfamino e Alfaré',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja',
+    shipping: 'Calculado separadamente, conforme política da loja',
+    combinable: 'Pode variar conforme campanha ativa da loja oficial',
+    lastVerified: '2026-06-26',
+    aboutBrand:
+      'A Nutren é uma linha de suplementos nutricionais da Nestlé, desenvolvida para complementação alimentar em diferentes rotinas e necessidades. Os produtos da marca incluem fórmulas balanceadas que podem fazer parte do dia a dia de quem busca praticidade na alimentação, sempre conforme as indicações do rótulo e, quando necessário, com orientação de um profissional de saúde. O cupom CECI foi criado para quem acompanha o Em Casa com Cecília e quer economizar na loja oficial, com exceção de Alfamino e Alfaré. Como em toda parceria comercial, a recomendação é conferir o desconto aplicado no checkout antes de finalizar a compra.',
+    faqs: [
+      {
+        question: 'O cupom CECI vale para todos os produtos Nutren?',
+        answer:
+          'O cupom vale para produtos Nutren, com exceção de Alfamino e Alfaré. Confirme se o desconto aparece no checkout antes de finalizar.',
+      },
+      {
+        question: 'O cupom CECI funciona nos produtos Nutren?',
+        answer:
+          'Sim, o cupom foi cadastrado para produtos Nutren, exceto Alfamino e Alfaré. Valide no carrinho antes de concluir a compra.',
+      },
+      {
+        question: 'Posso usar o cupom CECI mais de uma vez?',
+        answer:
+          'A regra de reutilização depende da política da loja e da campanha vigente. Se houver limite por conta, CPF ou pedido, o checkout informa.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja oficial.',
+      },
+      {
+        question: 'O cupom CECI é cumulativo?',
+        answer:
+          'Pode variar conforme campanha ativa da loja oficial. O valor final exibido no carrinho é a referência para saber se o cupom acumulou ou substituiu outra condição.',
+      },
+      {
+        question: 'O link leva para a loja oficial?',
+        answer:
+          'Sim. O botão de compra aponta para o site oficial da Nutren/Nestlé informado pela parceria.',
+      },
+      {
+        question: 'O que fazer se o cupom CECI não funcionar?',
+        answer:
+          'Verifique se o produto não é Alfamino ou Alfaré, se o código foi digitado corretamente e se a campanha ainda está ativa. Se ainda assim não funcionar, avise pelo contato do site para que a informação seja revisada.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'em produtos Nutren, exceto Alfamino e Alfaré',
+      note: 'Válido para a linha Nutren, com exceção de Alfamino e Alfaré',
+    },
+    status: 'ativo',
+    featured: true,
+  },
+  {
+    slug: 'i-wanna-sleep',
+    brand: 'I Wanna Sleep',
+    brandUrl: 'https://www.iwannasleep.com.br',
+    brandIcon: 'IWS',
+    brandLogo: '/images/about/partners/i-wanna-sleep.avif',
+    brandLogoAlt: 'Marca I Wanna Sleep',
+    brandColor: '#2D1B4E',
+    code: 'CECIEMCASA',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Sono e conforto',
+    shortDescription: 'todo o site I Wanna Sleep',
+    longDescription:
+      'Código da Cecília para economizar em compras no site da I Wanna Sleep.',
+    metaTitle: 'Cupom I Wanna Sleep 10% OFF • CECIEMCASA ativo • Em Casa com Cecília',
+    metaDescription:
+      'Cupom I Wanna Sleep com 10% OFF. Use CECIEMCASA para economizar em todo o site.',
+    eligibleCategories:
+      'Todo o site I Wanna Sleep',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja',
+    shipping: 'Calculado separadamente, conforme política da loja',
+    combinable: 'Pode variar conforme campanha ativa da loja oficial',
+    lastVerified: '2026-06-26',
+    aboutBrand:
+      'A I Wanna Sleep é uma marca focada em produtos para sono, conforto e bem-estar do quarto, como colchões, travesseiros, lençóis e acessórios pensados para rotinas de descanso. O cupom CECIEMCASA entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar no site oficial. Como regras de desconto, frete e aplicação podem variar por campanha e produto, a recomendação é sempre conferir o desconto no checkout antes de finalizar a compra.',
+    faqs: [
+      {
+        question: 'O cupom CECIEMCASA vale para todos os produtos da I Wanna Sleep?',
+        answer:
+          'O cupom vale para compras no site da I Wanna Sleep. Confirme se o desconto aparece no checkout antes de finalizar.',
+      },
+      {
+        question: 'O cupom CECIEMCASA funciona em colchões, travesseiros e acessórios?',
+        answer:
+          'Pode funcionar em colchões, travesseiros e acessórios da I Wanna Sleep. O carrinho mostra se a regra da campanha foi aplicada.',
+      },
+      {
+        question: 'Posso usar o cupom CECIEMCASA mais de uma vez?',
+        answer:
+          'A regra de reutilização depende da política da loja e da campanha vigente. Se houver limite por conta, CPF ou pedido, o checkout informa.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja oficial.',
+      },
+      {
+        question: 'O cupom CECIEMCASA é cumulativo?',
+        answer:
+          'Pode variar conforme campanha ativa da loja oficial. O valor final exibido no carrinho é a referência para saber se o cupom acumulou ou substituiu outra condição.',
+      },
+      {
+        question: 'O link leva para a loja oficial?',
+        answer:
+          'Sim. O botão de compra aponta para o site oficial da I Wanna Sleep informado pela parceria.',
+      },
+      {
+        question: 'O que fazer se o cupom CECIEMCASA não funcionar?',
+        answer:
+          'Verifique se o código foi digitado corretamente e se a campanha ainda está ativa. Se ainda assim não funcionar, avise pelo contato do site para que a informação seja revisada.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'em todo o site',
+      note: 'Válido para compras no site oficial da I Wanna Sleep',
+    },
     status: 'ativo',
     featured: true,
   },
@@ -282,36 +439,36 @@ export const COUPONS: Coupon[] = [
     discount: '10% OFF',
     discountNumber: 10,
     category: 'Chocolates e presentes',
-    shortDescription: 'chocolates, presentes e produtos selecionados',
+    shortDescription: 'chocolates, presentes e produtos da loja',
     longDescription:
-      'Código da Cecília para economizar em compras de chocolates, presentes e produtos selecionados na Kopenhagen.',
+      'Código da Cecília para economizar em compras de chocolates, presentes e produtos da Kopenhagen.',
     metaTitle: 'Cupom Kopenhagen 10% OFF • CECILIA10 ativo • Em Casa com Cecília',
     metaDescription:
-      'Cupom Kopenhagen com 10% OFF. Use CECILIA10 no checkout para economizar em chocolates, presentes e produtos selecionados.',
+      'Cupom Kopenhagen com 10% OFF. Use CECILIA10 no checkout para economizar em chocolates, presentes e produtos da loja.',
     eligibleCategories:
-      'Chocolates, presentes, kits e produtos selecionados conforme regras da loja',
+      'Chocolates, presentes, kits e produtos da loja conforme regras da campanha',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
     reusable: 'Sim, conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Pode variar conforme campanha ativa da Kopenhagen',
     lastVerified: '2026-05-02',
     aboutBrand:
-      'A Kopenhagen é uma das marcas de chocolate mais conhecidas do Brasil, com linhas voltadas para presentes, datas comemorativas e momentos especiais em casa. No universo Em Casa com Cecília, o cupom CECILIA10 entra como benefício para quem quer comprar chocolates, kits e produtos selecionados com desconto direto no checkout. Como as campanhas podem variar por data, estoque e categoria, a recomendação é conferir o desconto no carrinho antes de finalizar a compra. A página reúne o código ativo, instruções de uso e transparência sobre a parceria.',
+      'A Kopenhagen é uma das marcas de chocolate mais conhecidas do Brasil, com linhas voltadas para presentes, datas comemorativas e momentos especiais em casa. No universo Em Casa com Cecília, o cupom CECILIA10 entra como benefício para quem quer comprar chocolates, kits e produtos da loja com desconto direto no checkout. Como as campanhas podem variar por data, estoque e categoria, a recomendação é conferir o desconto no carrinho antes de finalizar a compra. A página reúne o código ativo, instruções de uso e transparência sobre a parceria.',
     faqs: [
       {
         question: 'O cupom CECILIA10 funciona em todos os produtos da Kopenhagen?',
         answer:
-          'O cupom pode valer para produtos selecionados da Kopenhagen. A elegibilidade depende das regras atuais da loja, então confirme se o desconto aparece no checkout antes de finalizar.',
+          'O cupom pode valer para produtos da Kopenhagen conforme as regras atuais da loja. Confirme se o desconto aparece no checkout antes de finalizar.',
       },
       {
         question: 'O cupom CECILIA10 vale para presentes e kits?',
         answer:
-          'Pode valer para kits, presentes e chocolates selecionados, desde que estejam dentro das condições comerciais da campanha ativa.',
+          'Pode valer para kits, presentes e chocolates conforme as condições comerciais da campanha ativa.',
       },
       {
         question: 'O cupom Kopenhagen dá frete grátis?',
         answer:
-          'Não necessariamente. O cupom aplica desconto nos produtos elegíveis; frete, prazo e condições de entrega seguem as regras da loja.',
+          'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem as regras da loja.',
       },
       {
         question: 'O cupom CECILIA10 é cumulativo com outras promoções?',
