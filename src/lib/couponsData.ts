@@ -287,7 +287,7 @@ export const COUPONS: Coupon[] = [
     featured: true,
   },
   {
-    slug: 'nestle-nutre',
+    slug: 'nutren',
     brand: 'Nestlé Nutre',
     brandUrl: 'https://www.nestlenutre.com.br/',
     brandIcon: 'N',
@@ -496,8 +496,7 @@ export function getActiveCoupons(): Coupon[] {
 }
 
 export function getCouponBySlug(slug: string): Coupon | undefined {
-  const normalizedSlug = slug === 'nutren' ? 'nestle-nutre' : slug;
-  return COUPONS.find((coupon) => coupon.slug === normalizedSlug && coupon.status === 'ativo');
+  return COUPONS.find((coupon) => coupon.slug === slug && coupon.status === 'ativo');
 }
 
 export function getOtherActiveCoupons(currentSlug: string): Coupon[] {
