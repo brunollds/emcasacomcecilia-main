@@ -287,41 +287,41 @@ export const COUPONS: Coupon[] = [
     featured: true,
   },
   {
-    slug: 'nutren',
-    brand: 'Nutren',
+    slug: 'nestle-nutre',
+    brand: 'Nestlé Nutre',
     brandUrl: 'https://www.nestlenutre.com.br/',
     brandIcon: 'N',
     brandLogo: '/images/about/partners/nutren.png',
-    brandLogoAlt: 'Marca Nutren',
+    brandLogoAlt: 'Marca Nestlé Nutre',
     brandColor: '#0056A4',
     code: 'CECI',
     discount: '5% OFF',
     discountNumber: 5,
     category: 'Nutrição e bem-estar',
-    shortDescription: 'produtos Nutren, exceto Alfamino e Alfaré',
+    shortDescription: 'produtos Nestlé Nutre, exceto Alfamino e Alfaré',
     longDescription:
-      'Código da Cecília para economizar em produtos Nutren na loja oficial, exceto Alfamino e Alfaré.',
-    metaTitle: 'Cupom Nutren 5% OFF • CECI ativo • Em Casa com Cecília',
+      'Código da Cecília para economizar em produtos Nestlé Nutre na loja oficial, exceto Alfamino e Alfaré.',
+    metaTitle: 'Cupom Nestlé Nutre 5% OFF • CECI ativo • Em Casa com Cecília',
     metaDescription:
-      'Cupom Nutren com 5% OFF. Use CECI no checkout para economizar em produtos Nutren, exceto Alfamino e Alfaré.',
-    eligibleCategories: 'Produtos Nutren, exceto Alfamino e Alfaré',
+      'Cupom Nestlé Nutre com 5% OFF. Use CECI no checkout para economizar em produtos Nestlé Nutre, exceto Alfamino e Alfaré.',
+    eligibleCategories: 'Produtos Nestlé Nutre, exceto Alfamino e Alfaré',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Pode variar conforme campanha ativa da loja oficial',
     lastVerified: '2026-06-26',
     aboutBrand:
-      'A Nutren é uma linha de suplementos nutricionais da Nestlé, desenvolvida para complementação alimentar em diferentes rotinas e necessidades. Os produtos da marca incluem fórmulas balanceadas que podem fazer parte do dia a dia de quem busca praticidade na alimentação, sempre conforme as indicações do rótulo e, quando necessário, com orientação de um profissional de saúde. O cupom CECI foi criado para quem acompanha o Em Casa com Cecília e quer economizar na loja oficial, com exceção de Alfamino e Alfaré. Como em toda parceria comercial, a recomendação é conferir o desconto aplicado no checkout antes de finalizar a compra.',
+      'A Nestlé Nutre é uma loja oficial da Nestlé voltada a produtos de nutrição e suplementação, com opções para diferentes rotinas e necessidades alimentares. Os produtos disponíveis podem fazer parte do dia a dia de quem busca praticidade na alimentação, sempre conforme as indicações do rótulo e, quando necessário, com orientação de um profissional de saúde. O cupom CECI foi criado para quem acompanha o Em Casa com Cecília e quer economizar na loja oficial, com exceção de Alfamino e Alfaré. Como em toda parceria comercial, a recomendação é conferir o desconto aplicado no checkout antes de finalizar a compra.',
     faqs: [
       {
-        question: 'O cupom CECI vale para todos os produtos Nutren?',
+        question: 'O cupom CECI vale para todos os produtos Nestlé Nutre?',
         answer:
-          'O cupom vale para produtos Nutren, com exceção de Alfamino e Alfaré. Confirme se o desconto aparece no checkout antes de finalizar.',
+          'O cupom vale para produtos Nestlé Nutre, com exceção de Alfamino e Alfaré. Confirme se o desconto aparece no checkout antes de finalizar.',
       },
       {
-        question: 'O cupom CECI funciona nos produtos Nutren?',
+        question: 'O cupom CECI funciona nos produtos Nestlé Nutre?',
         answer:
-          'Sim, o cupom foi cadastrado para produtos Nutren, exceto Alfamino e Alfaré. Valide no carrinho antes de concluir a compra.',
+          'Sim, o cupom foi cadastrado para produtos Nestlé Nutre, exceto Alfamino e Alfaré. Valide no carrinho antes de concluir a compra.',
       },
       {
         question: 'Posso usar o cupom CECI mais de uma vez?',
@@ -341,7 +341,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O link leva para a loja oficial?',
         answer:
-          'Sim. O botão de compra aponta para o site oficial da Nutren/Nestlé informado pela parceria.',
+          'Sim. O botão de compra aponta para o site oficial Nestlé Nutre informado pela parceria.',
       },
       {
         question: 'O que fazer se o cupom CECI não funcionar?',
@@ -350,8 +350,8 @@ export const COUPONS: Coupon[] = [
       },
     ],
     monthlyHighlight: {
-      scope: 'em produtos Nutren, exceto Alfamino e Alfaré',
-      note: 'Válido para a linha Nutren, com exceção de Alfamino e Alfaré',
+      scope: 'em produtos Nestlé Nutre, exceto Alfamino e Alfaré',
+      note: 'Válido para a loja Nestlé Nutre, com exceção de Alfamino e Alfaré',
     },
     status: 'ativo',
     featured: true,
@@ -496,7 +496,8 @@ export function getActiveCoupons(): Coupon[] {
 }
 
 export function getCouponBySlug(slug: string): Coupon | undefined {
-  return COUPONS.find((coupon) => coupon.slug === slug && coupon.status === 'ativo');
+  const normalizedSlug = slug === 'nutren' ? 'nestle-nutre' : slug;
+  return COUPONS.find((coupon) => coupon.slug === normalizedSlug && coupon.status === 'ativo');
 }
 
 export function getOtherActiveCoupons(currentSlug: string): Coupon[] {
