@@ -65,16 +65,18 @@ export async function generateMetadata({ params }) {
     languages['x-default'] = 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-coupon-cecilia010';
   }
 
+  const seoDescription = review.metaDescription || review.description;
+
   return {
     title: `${review.title} - Em Casa com Cecília`,
-    description: review.description,
+    description: seoDescription,
     alternates: {
       canonical: url,
       ...(Object.keys(languages).length > 0 ? { languages } : {})
     },
     openGraph: {
       title: review.title,
-      description: review.description,
+      description: seoDescription,
       url,
       type: 'article',
       images: review.image

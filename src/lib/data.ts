@@ -18744,7 +18744,7 @@ export const reviews: Review[] = [
   {
     id: 20,
     slug: 'codigo-cecilia010-yesstyle-como-usar',
-    title: 'Cupom YesStyle: Como usar o Código CECILIA010 e Somar Descontos em K-Beauty',
+    title: 'YesStyle CECILIA010: 5% extra',
     type: 'Guia & Cupons',
     reviewKind: 'guia',
     description: 'Guia prático para usar o código de influenciador CECILIA010 na YesStyle. Descubra a diferença de outros cupons, aprenda a fazer o empilhamento de descontos (stacking) e confira dicas de K-Beauty e importação.',
@@ -18998,7 +18998,7 @@ export const reviews: Review[] = [
   {
     id: 21,
     slug: 'yesstyle-reward-code-coupon-cecilia010',
-    title: 'YesStyle Reward Code: How to Use CECILIA010 and Stack Coupons',
+    title: 'YesStyle CECILIA010 Code: Extra 5% Off',
     type: 'Guia & Cupons',
     reviewKind: 'guia',
     description: 'Practical guide to using the YesStyle influencer reward code CECILIA010. Discover how it differs from regular coupons, learn how to stack discounts, and check K-beauty and customs tips.',
@@ -19229,7 +19229,7 @@ export const reviews: Review[] = [
   {
     id: 22,
     slug: 'codigo-de-recompensa-yesstyle-cupon-cecilia010',
-    title: 'Código de Recompensa YesStyle: Cómo usar CECILIA010 y Sumar Descuentos',
+    title: 'Código YesStyle CECILIA010: 5% extra',
     type: 'Guia & Cupons',
     reviewKind: 'guia',
     description: 'Guía práctica para usar el código de influenciador CECILIA010 en YesStyle. Descubre la diferencia con otros cupones, aprende a acumular descuentos (stacking) y consulta consejos de K-beauty y aduanas.',
@@ -19460,11 +19460,11 @@ export const reviews: Review[] = [
   {
     id: 23,
     slug: 'code-recompense-yesstyle-cecilia010',
-    title: 'Code Récompense YesStyle : Comment Utiliser CECILIA010 et Cumuler des Coupons',
+    title: 'Code YesStyle CECILIA010 : 5% en plus',
     type: 'Guide & Coupons',
     reviewKind: 'guia',
     description: 'Guide pratique pour utiliser le code d\'influenceur CECILIA010 sur YesStyle. Découvrez sa différence avec les coupons classiques, apprenez à cumuler les remises et profitez de conseils sur la K-beauty et la douane.',
-    metaDescription: 'Utilisez le code d\'influenceur CECILIA010 sur YesStyle pour obtenir 5% de réduction supplémentaire sur vos commandes de cosmétiques coréens, K-beauty et mode.',
+    metaDescription: 'Utilisez le code CECILIA010 sur YesStyle pour obtenir 5% en plus sur vos commandes K-beauty, cosmetiques coreens et mode.',
     publishedAt: '22 Jun 2026',
     publishedAtISO: '2026-06-22',
     draft: false,
@@ -19692,7 +19692,7 @@ export const reviews: Review[] = [
   {
     id: 24,
     slug: 'yesstyle-reward-code-rabatt-cecilia010',
-    title: 'YesStyle Reward Code: So verwendest du CECILIA010 und kombinierst Gutscheine',
+    title: 'YesStyle Code CECILIA010: 5% extra',
     type: 'Guide & Gutscheine',
     reviewKind: 'guia',
     description: 'Praktische Anleitung zur Nutzung des YesStyle Influencer-Codes CECILIA010. Erfahre den Unterschied zu normalen Gutscheinen, wie du Rabatte kombinierst (Stacking) und erhalte Tipps zu K-Beauty und Zoll.',
