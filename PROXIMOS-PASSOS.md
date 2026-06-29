@@ -18,6 +18,20 @@ Esta seção representa o estado atual do projeto. As seções posteriores perma
 - [ ] Documentar procedimento de rollback e verificação de processos em loop
 - [ ] Incluir notificação do IndexNow e validação do sitemap após publicação de conteúdo
 
+### REDESENHO DO DEPLOY E PUBLICAÇÃO EDITORIAL
+
+- [ ] Redesenhar o fluxo atual de deploy para evitar upload/rebuild completo do site em alterações simples de artigos, receitas e metadados
+- [ ] Avaliar substituir o deploy por archive/MCP por um fluxo Git-based no servidor: `git pull`, build controlado, restart único e `.env` preservado fora do artefato
+- [ ] Garantir que o `.env` não seja apagado em cada deploy; idealmente ele deve ser gerenciado no painel/ambiente da Hostinger ou em arquivo persistente fora da pasta substituída
+- [ ] Criar um script remoto seguro que impeça múltiplos processos Node simultâneos e valide processos ativos antes/depois do restart
+- [ ] Adicionar verificação pós-deploy para detectar `pthread_create: Resource temporarily unavailable`, crash loop, múltiplos `next-server` e porta incorreta
+- [ ] Separar conteúdo editorial do bundle principal: mover gradualmente receitas, reviews/artigos e metadados de `src/lib/data.ts` para JSON externo, banco, CMS ou API própria
+- [ ] Avaliar ISR/on-demand revalidation para publicar ou corrigir páginas de conteúdo sem rebuild completo do Next.js
+- [ ] Definir uma estratégia de publicação editorial com preview, validação de SEO, revisão e rollback por página, não por site inteiro
+- [ ] Começar a migração pelo conteúdo novo de reviews/artigos, mantendo compatibilidade com o conteúdo legado em `src/lib/data.ts`
+- [ ] Comparar alternativas de infraestrutura antes de mudanças grandes: Hostinger com Git deploy melhorado, Vercel/Netlify/Cloudflare para Next.js, ou CMS headless com cache/revalidação
+- [ ] Documentar decisão arquitetural: custo, risco operacional, rollback, preservação de SEO, tempo de build, facilidade de edição e impacto em receitas/reviews existentes
+
 ### PRIORIDADE EDITORIAL - Templates de leitura
 
 - [ ] Auditar os templates atuais de receitas e reviews em desktop e mobile antes de redesenhar

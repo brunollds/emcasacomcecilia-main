@@ -18642,7 +18642,7 @@ export const reviews: Review[] = [
   {
     id: 25,
     slug: 'sofa-damie-modular-vale-a-pena',
-    title: 'Sofá Damie Modular Vale a Pena? O que aprendi antes e depois de comprar',
+    title: 'Sofá Damie Modular: vale a pena?',
     type: 'Reviews',
     reviewKind: 'editorial',
     description: 'Comprei o sofá modular Damie e usei no dia a dia. Aqui está o que me fez escolher — e o que eu observaria de novo antes de fechar a compra.',
