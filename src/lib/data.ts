@@ -18650,7 +18650,6 @@ export const reviews: Review[] = [
     publishedAt: '26 Jun 2026',
     publishedAtISO: '2026-06-26',
     draft: false,
-    isNew: true,
     image: '/images/reviews/sofa-damie-modular-hero.webp',
     imageAlt: 'Sofá modular Damie em ambiente de sala de estar, com módulos e puff organizados.',
     imageAspect: 'portrait',
