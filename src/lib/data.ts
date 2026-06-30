@@ -22131,7 +22131,7 @@ export const reviews: Review[] = [
 {
   id: 226,
   slug: 'promocao-dolce-gusto-60-caixas-mini-me-gratis',
-  title: 'Dolce Gusto: 60 caixas + Mini Me',
+  title: 'Dolce Gusto: 60 caixas, ganhe Mini Me',
   type: 'Guia',
   reviewKind: 'guia',
   author: CECILIA_AUTHOR,
