@@ -114,24 +114,34 @@ export function ReviewSectionContent({
       })}
 
       {section.emphasis && (
-        <div className="group my-6">
-          <PretextShrinkwrap
-            text={section.emphasis}
-            font="italic 400 18px Lora, Georgia, serif"
-            lineHeight={30}
-            minWidth={260}
-            maxWidthRatio={0.9}
-            className="rounded-r-xl border-l-[3px] border-[#ff6b35] bg-[#ff6b35]/5 px-5 py-4 transition-colors duration-300 group-hover:border-[#1a4d2e] group-hover:bg-[#ff6b35]/10"
-          >
-            <blockquote className="m-0 font-editorial text-lg italic leading-relaxed text-[#4a5568]">
-              &quot;<HighlightCoupon text={section.emphasis} />&quot;
-            </blockquote>
-            <cite className="mt-3 block text-sm not-italic opacity-70">Cecília Mauad</cite>
-          </PretextShrinkwrap>
+        <div className={`my-6 grid grid-cols-1 gap-6 ${section.image ? 'md:grid-cols-[1fr_200px] items-center' : ''}`}>
+          <div className="group">
+            <PretextShrinkwrap
+              text={section.emphasis}
+              font="italic 400 18px Lora, Georgia, serif"
+              lineHeight={30}
+              minWidth={260}
+              maxWidthRatio={0.9}
+              className="rounded-r-xl border-l-[3px] border-[#ff6b35] bg-[#ff6b35]/5 px-5 py-4 transition-colors duration-300 group-hover:border-[#1a4d2e] group-hover:bg-[#ff6b35]/10"
+            >
+              <blockquote className="m-0 font-editorial text-lg italic leading-relaxed text-[#4a5568]">
+                &quot;<HighlightCoupon text={section.emphasis} />&quot;
+              </blockquote>
+              <cite className="mt-3 block text-sm not-italic opacity-70">Cecília Mauad</cite>
+            </PretextShrinkwrap>
+          </div>
+          {section.image && (
+            <div className="max-w-[200px] mx-auto md:mx-0 w-full">
+              <ReviewInlineImage
+                section={{ image: section.image, imageFit: section.imageFit || 'portrait', imageAlt: section.imageAlt || reviewTitle }}
+                reviewTitle={reviewTitle}
+              />
+            </div>
+          )}
         </div>
       )}
 
-      {(section.image || (section.images && section.images.length > 0)) && (
+      {(section.image || (section.images && section.images.length > 0)) && !section.emphasis && (
         <ReviewInlineImage section={section} reviewTitle={reviewTitle} />
       )}
 

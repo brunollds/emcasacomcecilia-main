@@ -18752,7 +18752,6 @@ export const reviews: Review[] = [
     publishedAt: '21 Jun 2026',
     publishedAtISO: '2026-06-21',
     draft: false,
-    isNew: true,
     image: '/images/reviews/cupons/yesstyle-kbeauty-hero.webp',
     imageAlt: 'Produtos de K-beauty e skincare coreano da YesStyle dispostos sobre uma mesa clara.',
     imageFit: 'cover',
@@ -21348,7 +21347,993 @@ export const reviews: Review[] = [
         ],
       },
     ],
-  }
+  },
+
+  // === ARTIGOS NOVOS ADICIONADOS EM LOTE ===
+  {
+  id: 217,
+  slug: 'clube-dolce-gusto-como-funciona',
+  title: 'Clube Dolce Gusto: como acumular pontos e trocar prêmios (2026)',
+  type: 'Guia',
+  reviewKind: 'guia',
+  author: CECILIA_AUTHOR,
+  description: 'Guia completo sobre o Clube Dolce Gusto: como acumular pontos com códigos das caixas, cadastrar no site e trocar por prêmios na loja oficial.',
+  metaDescription: 'Saiba como funciona o Clube Dolce Gusto: acumule pontos com códigos das caixas e troque por prêmios na loja oficial. Guia completo 2026.',
+  publishedAt: 'Draft',
+  publishedAtISO: undefined,
+  draft: true,
+  image: '/images/reviews/dolcegusto/clube-dolce-gusto-como-funciona-hero.webp',
+  imageAlt: 'Ilustração do Clube de Recompensas Dolce Gusto mostrando acúmulo de pontos e troca de prêmios',
+  imageFit: 'cover',
+  pros: [],
+  cons: [],
+  contentSections: [
+    {
+      heading: 'O que é o Clube Dolce Gusto?',
+      paragraphs: [
+        'O Clube Dolce Gusto é o programa de fidelidade oficial da marca NESCAFÉ Dolce Gusto no Brasil. A proposta é simples: toda vez que você compra uma caixa de cápsulas compatíveis, ganha pontos que podem ser trocados por produtos, acessórios e outros benefícios exclusivos na Loja de Prêmios do site oficial. Para quem consome com regularidade, como fazemos aqui em casa, o programa funciona como um jeito prático de transformar a rotina do café em recompensas concretas ao longo do ano.',
+        'O funcionamento é baseado em códigos exclusivos que vêm dentro de cada caixa de cápsulas vendida no país. A cada caixa registrada, você recebe 100 pontos. Não importa se a compra foi feita no supermercado da esquina, em uma loja física de eletrodomésticos ou no próprio site oficial: se o produto tiver o código válido, ele conta para o seu saldo no Clube.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Como acumular pontos no Clube',
+      paragraphs: [
+        'A forma mais comum de acumular pontos é escaneando o código QR ou digitando o código de 12 dígitos que vem impresso nas caixas de cápsulas. Cada unidade com código válido credita exatamente 100 pontos na conta do participante. Isso significa que, se você compra duas ou três caixas por mês, consegue juntar uma quantidade significativa de pontos ao longo de um semestre.',
+        'Caixas compradas em qualquer canal de venda são válidas, desde que sejam produtos originais da linha NESCAFÉ Dolce Gusto comercializados no Brasil. Supermercados, atacados, lojas online e o próprio e-commerce oficial participam. A dica é guardar as caixas até registrar o código, pois, sem ele, não é possível fazer a pontuação retroativa.'
+      ],
+      bullets: [
+        'Cada caixa com código QR ou código de 12 dígitos vale 100 pontos.',
+        'Caixas compradas em supermercados, lojas físicas ou online também acumulam pontos.',
+        'O produto precisa ter o código válido para participar do programa.',
+        'Não é possível acumular pontos sem o código presente na embalagem.'
+      ],
+    },
+    {
+      heading: 'Onde e como trocar os pontos',
+      paragraphs: [
+        'As trocas acontecem exclusivamente na Loja de Prêmios do site oficial da NESCAFÉ Dolce Gusto. O catálogo costuma incluir itens como xícaras, porta-cápsulas, acessórios para máquinas e, em alguns momentos, produtos de parceiros. O processo é direto: com o saldo suficiente, basta escolher o prêmio desejado e confirmar a troca dentro da plataforma.',
+        'O importante é acompanhar o saldo de pontos com regularidade e ficar de olho nas atualizações do catálogo, já que os itens disponíveis podem mudar ao longo do ano. A entrega dos prêmios é feita em endereço cadastrado, geralmente em prazos similares aos de compras no e-commerce oficial.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Passo a passo para cadastrar seus códigos',
+      paragraphs: [
+        'Para começar a acumular pontos, é necessário criar uma conta no site oficial do Clube Dolce Gusto. O cadastro é gratuito e leva poucos minutos. Depois de confirmar o e-mail, você acessa a área de pontos e registra cada caixa de cápsulas que tiver em casa. O site aceita tanto a leitura do código QR quanto a digitação manual do código de 12 dígitos.',
+        'O ideal é registrar os códigos assim que abrir uma nova caixa, evitando perder a embalagem ou o comprovante antes de fazer a pontuação. Se você compra com frequência, manter uma rotina mensal de cadastro ajuda a não deixar pontos acumulados fora da conta.'
+      ],
+      bullets: [
+        'Acesse o site oficial e crie sua conta no Clube Dolce Gusto.',
+        'Confirme o cadastro pelo e-mail de ativação.',
+        'Entre na área de pontos e escolha entre escanear o QR Code ou digitar o código de 12 dígitos.',
+        'Repita o processo para cada nova caixa de cápsulas que comprar.'
+      ],
+    },
+    {
+      heading: 'Economize com o cupom CECI',
+      paragraphs: [
+        'Além de acumular pontos no Clube, você pode pagar menos nas compras de cápsulas e máquinas na loja oficial. A parceria com o Em Casa com Cecília garante 5% de desconto extra com o cupom CECI. A combinação de economia na compra e pontuação no programa de fidelidade é a estratégia mais eficiente para quem quer gastar menos sem abrir mão da qualidade do café em casa.',
+        'Para usar o cupom, basta inserir o código CECI no carrinho de compras do site oficial antes de finalizar o pedido. O desconto é aplicado automaticamente sobre o valor dos produtos elegíveis, e a compra ainda gera pontos para o Clube, já que os produtos vendidos no e-commerce oficial também contam.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Resumo: vale a pena participar?',
+      paragraphs: [
+        'Se você já consome cápsulas Dolce Gusto com frequência, participar do Clube é uma decisão praticamente automática. O esforço para cadastrar os códigos é mínimo, e o retorno vem na forma de prêmios e acessórios que complementam a experiência do café em casa. Associado ao cupom CECI, o programa torna o custo-benefício da rotina ainda mais interessante. A recomendação é manter o cadastro ativo, registrar os códigos sempre que abrir uma nova caixa e aproveitar as trocas na Loja de Prêmios sempre que o saldo permitir.'
+      ],
+      bullets: [],
+    },
+  ],
+  cta: {
+    text: 'Cadastre-se no Clube Dolce Gusto e aproveite o cupom CECI para economizar na loja oficial.',
+    label: 'Acessar loja oficial',
+    url: 'https://www.nescafe-dolcegusto.com.br/',
+  },
+  coupon: 'CECI',
+  editorialNote: 'Este artigo foi produzido em parceria comercial com a NESCAFÉ Dolce Gusto. O Em Casa com Cecília recebe comissão sobre compras feitas com o cupom CECI e por meio de links para o site oficial. O conteúdo é independente e baseado em informações públicas do programa de fidelidade.',
+  relatedArticles: [
+    { slug: 'cupom-ceci-nescafe-dolce-gusto-como-usar', title: 'Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto' },
+  ],
+},
+
+// Artigo 218: Melhores cápsulas Dolce Gusto (com quickNotes)
+{
+  id: 218,
+  slug: 'melhores-capsulas-dolce-gusto-2026',
+  title: 'Melhores cápsulas Dolce Gusto em 2026: guia de sabores',
+  type: 'Guia',
+  reviewKind: 'guia',
+  author: CECILIA_AUTHOR,
+  description: 'Guia com os sabores de cápsulas Dolce Gusto mais vendidos em 2026: cafés, cappuccinos, chocolates e gelados. Preços e quickNotes de consumo real.',
+  metaDescription: 'Descubra as cápsulas Dolce Gusto mais vendidas em 2026: cafés, cappuccinos, chocolates e gelados. Guia de sabores para comprar.',
+  publishedAt: 'Draft',
+  publishedAtISO: undefined,
+  draft: true,
+  image: '/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-2026-hero.webp',
+  imageAlt: 'Variedade de cápsulas Dolce Gusto coloridas organizadas sobre uma mesa de cozinha',
+  imageFit: 'cover',
+  pros: [],
+  cons: [],
+  contentSections: [
+    {
+      heading: 'Como escolher a cápsula certa',
+      paragraphs: [
+        'A linha NESCAFÉ Dolce Gusto oferece dezenas de opções, e escolher entre tantos sabores pode parecer difícil no início. A regra geral é simples: se você gosta de café forte e puro, prefira as variedades de espresso e ristretto. Se curte bebidas mais suaves, com leite ou chocolate, as cápsulas de cappuccino, latte e chococino costumam ser as favoritas. Neste guia, listamos os sabores mais populares no site oficial do Brasil em 2026, com preços aproximados e uma descrição breve de cada perfil. Quando temos experiência real de consumo aqui em casa, incluímos uma quickNote honesta.',
+        'Os preços médios no mercado brasileiro giram em torno de R$ 22 a R$ 28 para caixas de cápsulas individuais com 16 unidades. As caixas de bebidas com leite (cappuccino, latte) costumam ter o mesmo preço de caixa, mas com 8 doses — porque cada porção usa duas cápsulas (uma de café e uma de leite). Isso significa que o custo por xícara é aproximadamente o dobro, embora o valor da caixa seja similar.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Espresso Intenso',
+      paragraphs: [
+        'O Espresso Intenso é um dos cafés mais vendidos da marca. Tem corpo médio, notas de torra intensa e um amargor equilibrado que funciona bem tanto puro quanto como base para bebidas com leite. É uma escolha segura para quem quer começar pela linha de cafés tradicionais sem errar.'
+      ],
+      emphasis: 'Esse é o sabor que mais temos em casa. A torra intensa funciona bem tanto puro quanto com leite, e a intensidade é suficiente para acordar sem ser amargo demais.',
+    },
+    {
+      heading: 'Ristretto',
+      paragraphs: [
+        'O Ristretto segue na mesma linha do Espresso Intenso, mas com um perfil ainda mais concentrado. A torra é mais marcada, e o resultado na xícara é um café curto, encorpado e com sabor persistente. Indicado para quem gosta de espresso italiano clássico e não tem medo de intensidade.'
+      ],
+      bullets: [
+        'Espresso Intenso: corpo médio, torra intensa, versátil para beber puro ou com leite.',
+        'Ristretto: mais concentrado, curto e encorpado, ideal para apreciadores de espresso forte.'
+      ],
+    },
+    {
+      heading: 'Bebidas com leite: Cappuccino e Latte Macchiato',
+      paragraphs: [
+        'As cápsulas com leite são as grandes responsáveis pela popularidade da Dolce Gusto entre quem não bebe café puro. O Cappuccino mistura uma dose de espresso com uma camada espessa de leite em pó, resultando em uma bebida cremosa e com leve doçura. O Latte Macchiato segue a mesma lógica, mas com proporção maior de leite, deixando o sabor do café mais suave e a textura ainda mais aveludada.',
+        'As caixas dessas variedades costumam vir com duas cápsulas por porção: uma de café e uma de leite. Isso significa que uma caixa de 16 cápsulas faz 8 bebidas, enquanto uma caixa de cápsulas individuais faz 16. O resultado é uma bebida de cafeteria servida em minutos na sua cozinha, mas com custo por xícara proporcionalmente maior.'
+      ],
+      bullets: [
+        'Cappuccino: espresso com leite cremoso e espuma consistente.',
+        'Latte Macchiato: proporção maior de leite, sabor suave e textura aveludada.',
+        'Caixas com leite incluem duas cápsulas por porção e fazem 8 bebidas por caixa de 16 unidades.'
+      ],
+    },
+    {
+      heading: 'Chococino',
+      paragraphs: [
+        'Para quem não quer café, o Chococino é a versão chocolate quente da marca, com leite em pó e cacau, resultando em uma bebida doce e reconfortante. É especialmente útil para receber visitas ou para quem mora com crianças e quer diversificar as opções da máquina sem comprar outro equipamento.'
+      ],
+      emphasis: 'O Chococino é o que sobra menos rápido aqui — quando recebemos visitas ou quando a gente quer algo doce depois do almoço, é a primeira escolha da família.',
+    },
+    {
+      heading: 'Mocha, Nesquik e Nestea',
+      paragraphs: [
+        'O Mocha mistura café e chocolate, oferecendo um meio-termo para quem não consegue escolher entre os dois. Já o Nesquik traz o sabor familiar do achocolatado em formato de cápsula, e o Nestea oferece uma opção de chá gelado ou quente, dependendo da variedade disponível no Brasil. Essas cápsulas são práticas para quem quer diversificar a experiência da máquina.'
+      ],
+      bullets: [
+        'Chococino: chocolate quente com leite, doce e reconfortante.',
+        'Mocha: mistura de café e chocolate, ideal para quem gosta de ambos.',
+        'Nesquik: achocolatado no formato cápsula, conhecido pelo sabor familiar.',
+        'Nestea: opção de chá, disponível em variações geladas ou quentes.'
+      ],
+    },
+    {
+      heading: 'Como escolher entre tantas opções',
+      paragraphs: [
+        'A escolha ideal depende do seu perfil e da rotina da casa. Se a prioridade é acordar com um café forte, as variedades de espresso são as indicadas. Se o café da tarde costuma ser acompanhado de conversa, um cappuccino ou latte macchiato cria o clima certo. Para a sobremesa ou para os momentos com crianças, o Chococino e o Nesquik são práticos e agradam praticamente todo mundo.',
+        'Uma boa estratégia é montar um mix com dois ou três sabores fixos e experimentar uma novidade a cada novo pedido. Assim, você não fica preso a uma única opção e aproveita melhor a máquina ao longo do ano.'
+      ],
+      bullets: [
+        'Misture cápsulas de café puro com opções com leite para variar o dia a dia.',
+        'Mantenha sempre um chocolate ou chá em casa para visitas e crianças.',
+        'Compre em caixas maiores ou aproveite o cupom CECI para reduzir o custo por unidade.'
+      ],
+    },
+    {
+      heading: 'Economize com o cupom CECI',
+      paragraphs: [
+        'Manter uma rotina de cápsulas em casa pode gerar um custo mensal relevante, especialmente quando a família consome várias unidades por dia. Por isso, vale a pena usar o cupom de desconto CECI na loja oficial da NESCAFÉ Dolce Gusto. O código dá 5% de desconto nas compras e pode ser usado em conjunto com outras promoções do site, dependendo das regras vigentes.',
+        'Aplicar o cupom é simples: basta inserir o código CECI no campo de cupom do carrinho antes de finalizar a compra. Com o desconto, o preço médio das caixas fica mais competitivo, e o gasto mensal com café em casa diminui sem perder qualidade.'
+      ],
+      bullets: [],
+    },
+  ],
+  cta: {
+    text: 'Compre suas cápsulas favoritas na loja oficial e economize 5% com o cupom CECI.',
+    label: 'Ver cápsulas na loja',
+    url: 'https://www.nescafe-dolcegusto.com.br/',
+  },
+  coupon: 'CECI',
+  editorialNote: 'Este guia foi produzido em parceria comercial com a NESCAFÉ Dolce Gusto. O Em Casa com Cecília recebe comissão sobre compras feitas com o cupom CECI e por meio de links para o site oficial. As descrições de sabor são baseadas em informações públicas da marca, e as quickNotes refletem experiências reais de consumo da nossa rotina doméstica.',
+  relatedArticles: [
+    { slug: 'cupom-ceci-nescafe-dolce-gusto-como-usar', title: 'Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto' },
+  ],
+},
+
+// Artigo 219: Máquinas Dolce Gusto
+{
+  id: 219,
+  slug: 'dolce-gusto-maquinas-qual-escolher',
+  title: 'Máquinas Dolce Gusto: qual escolher para sua casa?',
+  type: 'Editorial',
+  reviewKind: 'editorial',
+  author: CECILIA_AUTHOR,
+  description: 'Comparativo das máquinas de café Dolce Gusto no Brasil: Genio S, Mini Me, Piccolo XS e Infinissima. Preços, specs e qual modelo comprar.',
+  metaDescription: 'Compare as máquinas Dolce Gusto: Genio S, Mini Me, Piccolo XS e Infinissima. Veja preços, specs e qual modelo combina com você.',
+  publishedAt: 'Draft',
+  publishedAtISO: undefined,
+  draft: true,
+  image: '/images/reviews/dolcegusto/dolce-gusto-maquinas-qual-escolher-hero.webp',
+  imageAlt: 'Comparativo lado a lado de quatro modelos de máquinas de café Dolce Gusto em uma bancada de cozinha',
+  imageFit: 'cover',
+  pros: [],
+  cons: [],
+  contentSections: [
+    {
+      heading: 'Como escolher uma máquina Dolce Gusto',
+      paragraphs: [
+        'Escolher uma máquina de café em cápsulas envolve mais do que apenas design. É preciso considerar o tamanho da cozinha, a quantidade de pessoas que vão usar o equipamento, a frequência de consumo e o orçamento disponível. A NESCAFÉ Dolce Gusto mantém no Brasil uma linha de máquinas variada, com modelos que vão desde opções compactas para apartamentos pequenos até equipamentos com tanque maior para famílias numerosas.',
+        'Os preços das máquinas no mercado brasileiro variam aproximadamente entre R$ 400 e R$ 900, dependendo do modelo, das promoções do site oficial e das condições de pagamento. Abaixo, detalhamos as principais características de quatro modelos populares para ajudar na decisão.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Genio S',
+      paragraphs: [
+        'A Genio S é um dos modelos mais completos da linha atual. Com pressão de 15 bar e um depósito de água de aproximadamente 1 litro, ela entrega bebidas consistentes e com boa camada de crema. O funcionamento é automático, o que facilita o dia a dia: basta inserir a cápsula, ajustar a intensidade se desejar e deixar a máquina fazer o resto. O design é moderno, com acabamentos que se encaixam bem em cozinhas atualizadas.',
+        'O modelo é indicado para quem busca praticidade sem abrir mão de especificações técnicas sólidas. O depósito de 1 litro permite preparar várias xícaras antes de precisar reabastecer, o que é conveniente para casais ou famílias pequenas que tomam café ao longo da manhã.'
+      ],
+      bullets: [
+        'Pressão de 15 bar para extração consistente.',
+        'Depósito de água de aproximadamente 1 litro.',
+        'Funcionamento automático, ideal para o uso diário.',
+        'Design moderno e acabamento compatível com cozinhas contemporâneas.'
+      ],
+    },
+    {
+      heading: 'Mini Me',
+      paragraphs: [
+        'Como o nome sugere, a Mini Me é a opção compacta da linha. Ela também trabalha com pressão de 15 bar, mas o depósito de água é menor, em torno de 0,8 litro. É a escolha natural para quem tem pouco espaço na bancada ou mora em apartamentos onde cada centímetro conta. Apesar do tamanho reduzido, a máquina mantém a qualidade de extração dos modelos maiores.',
+        'O preço da Mini Me costuma ser mais acessível dentro da faixa de R$ 400 a R$ 900, o que a torna uma porta de entrada interessante para quem quer testar o sistema Dolce Gusto sem fazer um investimento alto. Para quem consome uma ou duas xícaras por dia, a capacidade do reservatório é suficiente.'
+      ],
+      bullets: [
+        'Formato compacto, ideal para cozinhas pequenas.',
+        'Pressão de 15 bar, com extração de qualidade.',
+        'Reservatório de aproximadamente 0,8 litro.',
+        'Preço geralmente mais acessível dentro da linha.'
+      ],
+    },
+    {
+      heading: 'Piccolo XS',
+      paragraphs: [
+        'A Piccolo XS é a máquina manual mais popular e acessível da linha Dolce Gusto. Com pressão de 15 bar, ela garante a mesma qualidade de extração de cafés e bebidas cremosas dos modelos automáticos. A grande diferença está no controle do fluxo: por ser um modelo manual, é você quem decide a quantidade exata de água na xícara movendo a alavanca superior para cortar o fluxo no momento desejado. O design é ultracompacto, ideal para bancadas estreitas.',
+        'O reservatório de água tem capacidade de 0,8 litro, similar ao da Mini Me. Como é uma cafeteira de entrada, o preço costuma ser um dos menores da marca (geralmente abaixo de R$ 450), o que representa um excelente custo-benefício para quem deseja flexibilidade de bebidas sem investir muito e prefere a simplicidade do controle manual.'
+      ],
+      bullets: [
+        'Formato ultracompacto, ideal para bancadas com pouco espaço.',
+        'Pressão de 15 bar para uma extração consistente com crema aveludada.',
+        'Operação manual por alavanca, permitindo controlar o tamanho da bebida.',
+        'Excelente custo-benefício, sendo o modelo de entrada mais em conta.'
+      ],
+    },
+    {
+      heading: 'Infinissima',
+      paragraphs: [
+        'A Infinissima é a máquina com o maior tanque de água da linha, aproximadamente 1,2 litro. Isso a torna ideal para famílias numerosas, escritórios ou para quem recebe visitas com frequência e não quer ficar reabastecendo o reservatório a cada duas ou três xícaras. O formato é um pouco mais alongado, mas ainda assim organizado o suficiente para não dominar a bancada.',
+        'Se a rotina da sua casa envolve várias pessoas tomando café, cappuccino ou chocolate ao longo do dia, a Infinissima reduz a fricção de ter que completar o tanque toda hora. O investimento costuma ser um pouco maior, mas a conveniência do tanque grande compensa para quem tem demanda alta.'
+      ],
+      bullets: [
+        'Tanque de água de aproximadamente 1,2 litro, o maior da linha.',
+        'Indicada para famílias grandes ou consumo frequente.',
+        'Formato alongado, mas ainda organizado para a bancada.',
+        'Conforto de preparar várias bebidas sem reabastecer.'
+      ],
+    },
+    {
+      heading: 'Resumo: qual modelo combina com você?',
+      paragraphs: [
+        'A escolha da máquina certa depende do equilíbrio entre espaço, automação e orçamento. Se o apartamento é pequeno e o consumo é baixo com preferência por praticidade automática, a Mini Me atende bem. Para quem quer automação, reservatório confortável de 1L e recursos de temperatura, a Genio S é o meio-termo ideal. A Piccolo XS atende quem busca economia e prefere o controle manual, e a Infinissima é a resposta para famílias maiores que precisam de volume de água.',
+        'Independentemente do modelo, todas as máquinas da linha utilizam as mesmas cápsulas Dolce Gusto, então a diferença está apenas na experiência de uso, no tamanho e no visual. O importante é escolher a que se encaixa na sua rotina.'
+      ],
+      bullets: [
+        'Mini Me: compacta, automática e econômica.',
+        'Genio S: automática, reservatório de 1 litro, recursos extras de temperatura.',
+        'Piccolo XS: manual, ultracompacta e com o menor custo inicial.',
+        'Infinissima: manual com tanque grande de 1,2 litro, ideal para famílias.'
+      ],
+    },
+    {
+      heading: 'Economize com o cupom CECI',
+      paragraphs: [
+        'Comprar uma máquina Dolce Gusto representa um investimento, e qualquer desconto ajuda. O cupom CECI garante 5% de desconto na loja oficial e pode ser aplicado na compra de máquinas, cápsulas e acessórios. Antes de finalizar o pedido, insira o código CECI no campo de cupom do carrinho para reduzir o valor total. A parceria com o Em Casa com Cecília mantém o cupom ativo para leitores e seguidores.'
+      ],
+      bullets: [],
+    },
+  ],
+  cta: {
+    text: 'Compare os modelos na loja oficial e use o cupom CECI para 5% de desconto na sua máquina Dolce Gusto.',
+    label: 'Ver máquinas na loja',
+    url: 'https://www.nescafe-dolcegusto.com.br/',
+  },
+  coupon: 'CECI',
+  editorialNote: 'Este artigo foi produzido em parceria comercial com a NESCAFÉ Dolce Gusto. O Em Casa com Cecília recebe comissão sobre compras feitas com o cupom CECI e por meio de links para o site oficial. As especificações técnicas são baseadas em informações públicas da marca, e os preços são aproximados, sujeitos a variações de promoção e região.',
+  relatedArticles: [
+    { slug: 'cupom-ceci-nescafe-dolce-gusto-como-usar', title: 'Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto' },
+  ],
+},
+
+// =============================================================================
+// I WANNA SLEEP (3 artigos) — sem quickNote, produto a caminho
+// =============================================================================
+
+// Artigo 220: Cupom CECIEMCASA I Wanna Sleep
+{
+  id: 220,
+  slug: 'cupom-ceciemcasa-i-wanna-sleep-como-usar',
+  title: 'Como usar o cupom CECIEMCASA na I Wanna Sleep (JUNHO 2026)',
+  type: 'Guia',
+  reviewKind: 'guia',
+  author: CECILIA_AUTHOR,
+  description: 'Guia passo a passo para usar o cupom CECIEMCASA na I Wanna Sleep e garantir 10% de desconto em todo o site oficial.',
+  metaDescription: 'Use o cupom CECIEMCASA na I Wanna Sleep e ganhe 10% OFF em todo o site. Passo a passo, regras e validação no checkout.',
+  publishedAt: 'Draft',
+  publishedAtISO: undefined,
+  draft: true,
+  image: '/images/reviews/iwannasleep/cupom-ceciemcasa-hero.webp',
+  imageAlt: 'Cupom CECIEMCASA na I Wanna Sleep com 10% de desconto em produtos para sono',
+  imageFit: 'cover',
+  pros: [],
+  cons: [],
+  contentSections: [
+    {
+      heading: 'Resposta rápida',
+      paragraphs: [
+        'O cupom de desconto ativo para a I Wanna Sleep é CECIEMCASA. Ele garante 10% de desconto em compras realizadas no site oficial da marca, válido para todo o catálogo de produtos. O código deve ser inserido no checkout, antes da finalização do pagamento, para que o valor seja recalculado automaticamente.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Passo a passo: como usar o cupom CECIEMCASA',
+      paragraphs: [
+        'Aplicar o cupom no site da I Wanna Sleep é simples e leva poucos minutos. Siga os passos abaixo para garantir o desconto corretamente:'
+      ],
+      bullets: [
+        'Copie o código CECIEMCASA para a área de transferência.',
+        'Acesse o site oficial da I Wanna Sleep em iwannasleep.com.br.',
+        'Navegue pelo catálogo e escolha os produtos desejados (travesseiros, colchões, acessórios de sono, nutrição etc.).',
+        'Adicione os itens ao carrinho e clique em "Finalizar Compra".',
+        'No checkout, localize o campo "Cupom de Desconto" ou "Código Promocional".',
+        'Cole o código CECIEMCASA e clique em "Aplicar".',
+        'Verifique se o valor total da compra foi recalculado com 10% de desconto.',
+        'Prossiga com o preenchimento dos dados de entrega e pagamento.'
+      ],
+    },
+    {
+      heading: 'Regras e condições do cupom',
+      paragraphs: [
+        'Antes de finalizar a compra, é importante entender como o cupom funciona e quais são as limitações:'
+      ],
+      bullets: [
+        'O cupom CECIEMCASA oferece 10% de desconto e é válido em todo o site oficial da I Wanna Sleep.',
+        'O desconto é aplicado sobre o valor dos produtos, não sobre o frete.',
+        'O cupom pode não ser cumulativo com outras promoções automáticas do site; prevalece a condição mais vantajosa ou a política vigente da loja.',
+        'O frete é calculado separadamente e varia conforme o local de entrega e o peso do pedido.',
+        'A validade do cupom está atrelada à parceria comercial vigente; confirme sempre a aplicação no checkout antes de concluir o pagamento.'
+      ],
+    },
+    {
+      heading: 'Perguntas frequentes',
+      paragraphs: [
+        'Dúvidas comuns sobre o uso do cupom CECIEMCASA na I Wanna Sleep:'
+      ],
+      bullets: [
+        'O cupom funciona em todos os produtos? Sim, o código é válido para todo o catálogo disponível no site oficial.',
+        'Posso usar o cupom mais de uma vez? Geralmente, o código pode ser utilizado em compras distintas, desde que a parceria esteja ativa. Consulte as condições no momento da compra.',
+        'O desconto inclui frete? Não. O frete é calculado à parte e não entra na base de cálculo do desconto de 10%.',
+        'E se o cupom não funcionar? Verifique se o código foi digitado corretamente (letras maiúsculas, sem espaços). Caso persista, entre em contato com o atendimento da I Wanna Sleep.'
+      ],
+    },
+  ],
+  cta: {
+    text: 'Aproveite o cupom CECIEMCASA e economize 10% na I Wanna Sleep',
+    label: 'Ir para a loja',
+    url: 'https://www.iwannasleep.com.br/',
+  },
+  coupon: 'CECIEMCASA',
+  editorialNote: 'O cupom CECIEMCASA é resultado de uma parceria comercial entre o Em Casa com Cecília e a I Wanna Sleep. Ao utilizá-lo, você apoia o projeto sem pagar nada a mais por isso. O desconto é válido conforme as regras da marca e pode ser alterado ou encerrado a qualquer momento.',
+  relatedArticles: [],
+},
+
+// Artigo 221: I Wanna Sleep é confiável?
+{
+  id: 221,
+  slug: 'i-wanna-sleep-e-confiavel',
+  title: 'I Wanna Sleep é confiável? O que observar antes de comprar',
+  type: 'Editorial',
+  reviewKind: 'editorial',
+  author: CECILIA_AUTHOR,
+  description: 'Análise dos dados públicos da I Wanna Sleep, incluindo CNPJ, endereço, políticas de entrega, trocas e formas de pagamento.',
+  metaDescription: 'A I Wanna Sleep é confiável? Veja dados da empresa, políticas de entrega, trocas e o que observar antes de comprar no site oficial.',
+  publishedAt: 'Draft',
+  publishedAtISO: undefined,
+  draft: true,
+  image: '/images/reviews/iwannasleep/confiabilidade-hero.webp',
+  imageAlt: 'Análise da confiabilidade da marca I Wanna Sleep e políticas de compra',
+  imageFit: 'cover',
+  pros: [],
+  cons: [],
+  contentSections: [
+    {
+      heading: 'Dados públicos da empresa',
+      paragraphs: [
+        'A I Wanna Sleep é uma marca brasileira com operações registradas sob o CNPJ 43.783.630/0001-92. O endereço comercial está localizado na Rua Serra do Rola Moça, 315, em Belo Horizonte, Minas Gerais. A empresa se posiciona como uma "global lifestyle sleep brand" com foco exclusivo em produtos e soluções para o sono, e sua missão declarada é "Help you sleep better!".',
+        'A marca possui lojas físicas no Brasil, além do canal de vendas online. No site oficial, o consumidor encontra uma seção dedicada a "Nossas lojas", o que indica presença omnichannel e estrutura comercial consolidada. Além do varejo, a empresa investe em conteúdo e comunidade, com blog próprio, programa de influenciadores e o IWS Labs, uma iniciativa voltada à pesquisa e desenvolvimento de soluções para o sono.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Catálogo e posicionamento de mercado',
+      paragraphs: [
+        'A I Wanna Sleep oferece um portfólio amplo que vai além de travesseiros e colchões. O catálogo inclui produtos como cobertores tecnológicos (IWS Igloo, IWS Huggy), jogos de cama em bamboo, pillow top, acessórios de viagem (Travesseiro de Viagem Snow Mini), itens de maternidade, poltronas Ekornes, sleepwear e linha de nutrição do sono com melatonina, floral de Bach e spray funcional. A variedade sugere uma marca com capacidade de desenvolvimento de produto e parcerias com fornecedores especializados.',
+        'A marca também trabalha com tecnologias próprias, como o travesseiro IWS Snow, o IWS Airgelly 2.0 e o Protex Bamboo, que reforçam o posicionamento de inovação no setor. O fato de manter um braço de pesquisa (IWS Labs) é um indicativo de investimento em credibilidade técnica e diferenciação de mercado.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Políticas de compra e pós-venda',
+      paragraphs: [
+        'A transparência nas políticas de compra é um ponto relevante na avaliação de confiabilidade. O site oficial da I Wanna Sleep disponibiliza informações claras sobre trocas e devoluções, além de ferramenta para rastreamento de pedidos. O consumidor também encontra o Sleeptest, um teste online para avaliar o perfil de sono e receber recomendações de produtos.',
+        'As formas de pagamento disponíveis incluem Pix e cartão de crédito, com opção de parcelamento. A diversidade de meios de pagamento facilita a compra e é um sinal de infraestrutura de e-commerce madura. O site também oferece atendimento ao cliente, com canais para tirar dúvidas sobre produtos, entregas e políticas de troca.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'O que observar antes de comprar',
+      paragraphs: [
+        'Como em qualquer compra online, recomenda-se verificar os seguintes pontos antes de finalizar o pedido na I Wanna Sleep:'
+      ],
+      bullets: [
+        'Confirme se está no domínio oficial (iwannasleep.com.br) para evitar sites falsos ou não autorizados.',
+        'Leia a descrição completa dos produtos, incluindo materiais, dimensões e tecnologias aplicadas.',
+        'Consulte a política de trocas e devoluções para entender prazos e condições.',
+        'Verifique o prazo de entrega para o seu CEP antes de concluir a compra.',
+        'Mantenha o comprovante de pagamento e o número de pedido para rastreamento.'
+      ],
+    },
+    {
+      heading: 'Parceria e cupom de desconto',
+      paragraphs: [
+        'O Em Casa com Cecília mantém uma parceria comercial ativa com a I Wanna Sleep. Por meio dessa parceria, os leitores podem utilizar o cupom CECIEMCASA para obter 10% de desconto em todo o site oficial. A utilização do cupom não altera o preço final para o consumidor — o desconto é concedido pela marca — e funciona como uma forma de apoiar o projeto editorial.'
+      ],
+      bullets: [],
+    },
+  ],
+  cta: {
+    text: 'Conheça os produtos da I Wanna Sleep e aproveite o cupom CECIEMCASA',
+    label: 'Visitar loja',
+    url: 'https://www.iwannasleep.com.br/',
+  },
+  coupon: 'CECIEMCASA',
+  editorialNote: 'Este artigo é de natureza editorial e analítica. A menção ao cupom CECIEMCASA decorre de uma parceria comercial entre o Em Casa com Cecília e a I Wanna Sleep. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca.',
+  relatedArticles: [],
+},
+
+// Artigo 222: Travesseiro IWS Snow (ProductProfile)
+{
+  id: 222,
+  slug: 'i-wanna-sleep-travesseiro-snow-ficha-tecnica',
+  title: 'Travesseiro IWS Snow: ficha técnica, preço e como comprar',
+  type: 'Editorial',
+  reviewKind: 'editorial',
+  author: CECILIA_AUTHOR,
+  description: 'Ficha técnica do Travesseiro IWS Snow com preço atual, materiais, regulagem de altura e produtos relacionados da marca.',
+  metaDescription: 'Veja a ficha técnica do Travesseiro IWS Snow: preço, materiais, regulagem de altura e como comprar com cupom CECIEMCASA.',
+  publishedAt: 'Draft',
+  publishedAtISO: undefined,
+  draft: true,
+  image: '/images/reviews/iwannasleep/travesseiro-snow-hero.webp',
+  imageAlt: 'Travesseiro IWS Snow com tecnologia de regulagem de altura e capa refrigerante',
+  imageFit: 'cover',
+  pros: [],
+  cons: [],
+  contentSections: [
+    {
+      heading: 'O que é o Travesseiro IWS Snow',
+      paragraphs: [
+        'O Travesseiro IWS Snow é um dos carros-chefe da marca I Wanna Sleep. Ele se destaca no catálogo por reunir tecnologias voltadas ao conforto térmico e à adaptação postural. A proposta do produto é oferecer uma superfície de apoio que auxilie na qualidade do sono, combinando materiais de performance com a possibilidade de personalização da altura — um recurso que permite ajustar o travesseiro ao biótipo e à posição de dormir de cada pessoa.',
+        'A marca descreve o IWS Snow como parte de uma linha de travesseiros tecnológicos, desenvolvidos com base em pesquisas do IWS Labs. O produto é voltado para quem busca alternativas aos travesseiros tradicionais, especialmente aqueles que sentem desconforto relacionado à temperatura ou à altura inadequada do apoio cervical.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Ficha técnica e características',
+      paragraphs: [
+        'As informações técnicas do Travesseiro IWS Snow disponíveis no site oficial apontam para um produto com as seguintes características principais:'
+      ],
+      bullets: [
+        'Tecnologia de regulagem de altura, permitindo ajustar a espessura do travesseiro conforme a necessidade.',
+        'Materiais com propriedades de dissipação térmica, projetados para reduzir a sensação de calor durante o sono.',
+        'Capa com textura suave e acabamento que remete à sensação de "frio" ou refrigeração (daí o nome "Snow").',
+        'Estrutura híbrida que combina camadas de diferentes densidades para distribuição de peso.',
+        'Disponível em tamanhos que atendem a diferentes preferências de leito e dimensões de cama.'
+      ],
+    },
+    {
+      heading: 'Preço e variações',
+      paragraphs: [
+        'O Travesseiro IWS Snow está disponível no site oficial a partir de R$ 367,90. O preço original listado era de R$ 419,00, o que indica uma redução promocional no momento da consulta. O valor pode variar conforme promoções sazonais, campanhas específicas ou mudanças na política de preços da marca. É recomendável verificar o valor atualizado diretamente no site oficial antes da compra.',
+        'Além do IWS Snow, a marca oferece outros modelos de travesseiro que podem interessar ao consumidor em busca de alternativas. O Travesseiro Cervical Coluna Relax, por exemplo, é comercializado por R$ 227,90 e tem foco em apoio anatômico para a coluna cervical. Já o Travesseiro IWS Airgelly 2.0, com preço de R$ 497,90, é uma opção de linha premium com tecnologia de gel para controle térmico. O Travesseiro IWS Original Látex, a partir de R$ 327,90, é indicado para quem prefere a elasticidade natural do látex.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Como comprar no site oficial',
+      paragraphs: [
+        'A compra do Travesseiro IWS Snow deve ser realizada exclusivamente pelo site oficial da I Wanna Sleep (iwannasleep.com.br), garantindo a autenticidade do produto e o acesso às políticas de troca e devolução da marca. O site aceita pagamento via Pix e cartão de crédito, com opção de parcelamento. Após a confirmação do pagamento, o cliente recebe informações para rastreamento do pedido.'
+      ],
+      bullets: [
+        'Acesse iwannasleep.com.br e use a barra de busca ou o menu para localizar o Travesseiro IWS Snow.',
+        'Selecione o modelo e o tamanho desejado e clique em "Comprar".',
+        'No checkout, insira o cupom CECIEMCASA para garantir 10% de desconto no valor do produto.',
+        'Escolha a forma de pagamento e finalize a compra.',
+        'Guarde o número do pedido e acompanhe a entrega pela ferramenta de rastreamento.'
+      ],
+    },
+    {
+      heading: 'Acessórios complementares',
+      paragraphs: [
+        'Para quem investe no Travesseiro IWS Snow, a marca oferece acessórios que podem prolongar a vida útil do produto ou complementar a experiência de sono. O Protetor de Travesseiro Protex Bamboo, por exemplo, é vendido a partir de R$ 127,90 e serve como barreira de proteção contra umidade e ácaros. A Máscara de Dormir Orb Sleep Mask, com preço de R$ 177,90, é uma opção para quem busca bloqueio de luz durante o descanso.'
+      ],
+      bullets: [],
+    },
+  ],
+  cta: {
+    text: 'Veja o Travesseiro IWS Snow no site oficial e use o cupom CECIEMCASA',
+    label: 'Comprar agora',
+    url: 'https://www.iwannasleep.com.br/',
+  },
+  coupon: 'CECIEMCASA',
+  editorialNote: 'Este artigo apresenta dados técnicos e de preço baseados em informações públicas do site oficial da I Wanna Sleep. Não foi realizada nenhuma avaliação pessoal do produto, pois o item ainda não foi recebido. O cupom CECIEMCASA é oferecido por meio de uma parceria comercial entre o Em Casa com Cecília e a marca.',
+  relatedArticles: [],
+},
+
+// =============================================================================
+// NESTLÉ NUTRE (3 artigos) — sem quickNote, não testou
+// =============================================================================
+
+// Artigo 223: Cupom CECI Nestlé Nutre
+{
+  id: 223,
+  slug: 'cupom-ceci-nestle-nutre-como-usar',
+  title: 'Como usar o cupom CECI na Nestlé Nutre (JUNHO 2026)',
+  type: 'Guia',
+  reviewKind: 'guia',
+  author: CECILIA_AUTHOR,
+  description: 'Guia rápido para usar o cupom CECI na Nestlé Nutre e garantir 5% de desconto. Veja passo a passo, regras e exceção dos produtos Alfamino e Alfaré.',
+  metaDescription: 'Aproveite o cupom CECI na loja oficial Nestlé Nutre para ganhar 5% de desconto extra. Veja o passo a passo completo, regras de uso, validade e a exceção dos produtos Alfamino e Alfaré na compra online.',
+  publishedAt: 'Draft',
+  publishedAtISO: undefined,
+  draft: true,
+  image: '/images/reviews/nutren/cupom-ceci-hero.webp',
+  imageAlt: 'Cupom CECI na loja oficial Nestlé Nutre',
+  imageFit: 'cover',
+  pros: [],
+  cons: [],
+  contentSections: [
+    {
+      heading: 'Resposta rápida',
+      paragraphs: [
+        'O cupom CECI é um código de desconto ativo na loja oficial Nestlé Nutre. Ao aplicá-lo no checkout, o consumidor obtém 5% de redução sobre o valor dos produtos selecionados. A vantagem é válida para a maioria dos itens da marca, com exceção dos produtos Alfamino e Alfaré, que não entram na promoção. O desconto é aplicado diretamente no carrinho de compras e não depende de valor mínimo de compra, embora o frete seja calculado separadamente conforme a localização de entrega. A parceria comercial que mantém o cupom ativo é revisada periodicamente, por isso recomenda-se consultar as condições no momento da compra.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Passo a passo para usar o cupom CECI',
+      paragraphs: [
+        'Para garantir o desconto, basta seguir o procedimento abaixo no momento da finalização da compra. O processo é simples e funciona tanto para produtos em pó quanto para versões prontas para beber (RTD).'
+      ],
+      bullets: [
+        'Copie o código CECI.',
+        'Acesse o site oficial em https://www.nestlenutre.com.br/.',
+        'Escolha o produto desejado e adicione-o ao carrinho.',
+        'No checkout, localize o campo de cupom e insira o código CECI.',
+        'Confirme o desconto de 5% no resumo do pedido antes de finalizar.'
+      ],
+    },
+    {
+      heading: 'Produtos excluídos: Alfamino e Alfaré',
+      paragraphs: [
+        'É importante observar que o cupom CECI não é válido para todos os produtos do catálogo. A exceção é clara e está descrita nas condições da parceria comercial. Os produtos Alfamino e Alfaré não participam da promoção e, ao tentar aplicar o código para esses itens, o sistema não reconhece o desconto. Essa exclusão se deve à natureza específica dessas fórmulas, que atendem a necessidades nutricionais muito particularizadas e costumam ter regras comerciais distintas. Antes de finalizar a compra, recomenda-se verificar se todos os itens do carrinho são elegíveis ao benefício.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Regras e condições do desconto',
+      paragraphs: [
+        'O desconto de 5% é aplicado sobre o preço do produto, sem necessidade de valor mínimo de compra. No entanto, o cupom não é cumulativo com outras promoções ou códigos de desconto que estejam ativos no site. O frete é calculado de forma independente e não entra no cálculo do desconto. A parceria comercial que mantém o cupom CECI ativo é revisada periodicamente, e as regras podem ser ajustadas sem aviso prévio. Por isso, a orientação é sempre conferir o valor final no checkout antes de confirmar o pagamento.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Perguntas frequentes',
+      paragraphs: [
+        'Abaixo, as dúvidas mais comuns sobre o uso do cupom CECI na Nestlé Nutre.'
+      ],
+      bullets: [
+        'O cupom CECI funciona para Nutren Senior? Sim, o cupom é válido para Nutren Senior, Nutren Control, Nutren 2.0, Nutren Ultra, Nutren Fortify, Nutren Mulher e demais produtos da linha, exceto Alfamino e Alfaré.',
+        'O cupom pode ser usado mais de uma vez? A política de uso pode variar conforme as regras da loja no momento da compra. Recomenda-se verificar os termos no checkout.',
+        'É necessário receita médica para comprar? Não é necessário receita médica para adquirir os produtos no site oficial, mas itens de nutrição clínica devem ser usados conforme indicação do rótulo e, quando necessário, com orientação de profissional de saúde.'
+      ],
+    },
+  ],
+  cta: {
+    text: 'Compre no site oficial com cupom CECI',
+    label: 'Ver produtos',
+    url: 'https://www.nestlenutre.com.br/',
+  },
+  coupon: 'CECI',
+  editorialNote: 'Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.',
+  relatedArticles: [],
+},
+
+// Artigo 224: Nestlé Nutre — produtos e para que servem
+{
+  id: 224,
+  slug: 'nestle-nutre-produtos-para-que-servem',
+  title: 'Nestlé Nutre: produtos, para que servem e como comprar',
+  type: 'Editorial',
+  reviewKind: 'editorial',
+  author: CECILIA_AUTHOR,
+  description: 'Conheça a linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra, Fortify e Mulher. Veja para que serve cada produto e como comprar com cupom.',
+  metaDescription: 'Conheça a linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra, Fortify e mais. Veja para que serve cada produto, preços aproximados, formas de uso e como comprar com o cupom CECI na loja oficial.',
+  publishedAt: 'Draft',
+  publishedAtISO: undefined,
+  draft: true,
+  image: '/images/reviews/nutren/linha-produtos-hero.webp',
+  imageAlt: 'Linha de produtos Nestlé Nutre',
+  imageFit: 'cover',
+  pros: [],
+  cons: [],
+  contentSections: [
+    {
+      heading: 'O que é a Nestlé Nutre?',
+      paragraphs: [
+        'A Nestlé Nutre é uma marca da Nestlé Health Science voltada à nutrição e suplementação. O propósito declarado da marca é ajudar pessoas, promovendo saúde e bem-estar com soluções inovadoras e personalizadas. A linha abrange categorias como suplementação, nutrição clínica, nutrição pediátrica e envelhecimento saudável, com foco em áreas como metabolismo, saúde gastrointestinal e neurológica. Os produtos são desenvolvidos para complementar a alimentação diária e atender a necessidades específicas de diferentes perfis de consumidores, desde adultos em processo de envelhecimento até pessoas com demandas nutricionais controladas. A marca opera exclusivamente no Brasil por meio do site oficial, onde é possível adquirir os produtos diretamente.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Nutren Senior',
+      paragraphs: [
+        'O Nutren Senior é uma fórmula desenvolvida para adultos com 50 anos ou mais. Trata-se de um composto lácteo enriquecido com vitaminas, minerais e fibras, sem lactose, sem açúcar adicionado e sem glúten. A composição inclui selênio, vitaminas A, E, C, B1, B12, D, K, além de cálcio, fósforo, ferro, zinco, cobre, vitaminas B2, B6, biotina e ácido pantotênico. O produto está disponível em pó nas versões de 370g e 740g, com preços aproximados entre R$ 100 e R$ 200, e também na versão pronta para beber (RTD) de 200ml. A proposta é oferecer uma fonte concentrada de nutrientes que podem estar em menor quantidade na alimentação habitual dessa faixa etária.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Nutren Control',
+      paragraphs: [
+        'O Nutren Control é destinado ao controle dietético de pessoas com necessidades especiais no metabolismo de açúcares. A fórmula contém fibras e carboidratos de liberação lenta, com o objetivo de auxiliar na manutenção da glicemia ao longo do dia. O produto é comercializado em pó, com sabor baunilha, e na versão RTD de 200ml. O preço aproximado da versão em pó de 380g fica entre R$ 94 e R$ 112. Assim como os demais itens da linha, o Nutren Control deve ser utilizado conforme a indicação do rótulo e, quando necessário, com acompanhamento de profissional de saúde.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Nutren 2.0',
+      paragraphs: [
+        'O Nutren 2.0 é uma fórmula hipercalórica, com densidade de 2,0 kcal/mL, hiperlipídica e normoproteica. É isenta de lactose e sem glúten, com fonte de proteínas composta por caseinato de cálcio e sódio. O produto é indicado para situações que exigem alta oferta calórica em volumes restritos. A versão pronta para beber de 200ml custa aproximadamente R$ 18,99 por unidade. O Nutren 2.0 é classificado como produto de nutrição clínica e, por isso, deve ser empregado sob orientação adequada, conforme a prescrição do rótulo e, quando aplicável, de profissional de saúde.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Nutren Ultra',
+      paragraphs: [
+        'O Nutren Ultra é uma fórmula pronta para consumo, rica em proteínas, com 20g por porção, e 282 kcal. A composição inclui 17 vitaminas e minerais, com baixo teor de lactose e sabor baunilha. Cada garrafinha de 125ml custa aproximadamente R$ 15,90. O produto é voltado para consumidores que buscam praticidade e uma fonte concentrada de proteínas e micronutrientes, sem a necessidade de preparo. A embalagem individual facilita o transporte e o consumo fora de casa, sendo uma opção para quem deseja complementar a alimentação de forma rápida.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Nutren Fortify e Nutren Mulher',
+      paragraphs: [
+        'O Nutren Fortify é uma formulação que inclui ômega-3 e proteínas, com preço aproximado similar ao da linha Senior. O produto é voltado para o suporte nutricional com foco em componentes específicos que integram a dieta de adultos. Já o Nutren Mulher foi desenvolvido com colágeno, atendendo a demandas relacionadas à beleza e nutrição feminina. Ambos os produtos devem ser considerados como complementos alimentares e não como substitutos de refeições, devendo ser utilizados conforme as orientações do rótulo. A escolha entre as versões depende dos objetivos nutricionais individuais de cada consumidor.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Como comprar e uso responsável',
+      paragraphs: [
+        'Os produtos da linha Nestlé Nutre podem ser adquiridos diretamente no site oficial da marca. Não é necessário receita médica para a compra, mas os itens de nutrição clínica devem ser utilizados conforme a indicação do rótulo e, quando necessário, com orientação de profissional de saúde. O cupom CECI oferece 5% de desconto na loja oficial, com exceção dos produtos Alfamino e Alfaré. Antes de iniciar o uso de qualquer suplemento ou fórmula especializada, recomenda-se a leitura completa das informações nutricionais e a consulta a um nutricionista ou médico, especialmente para pessoas com condições de saúde preexistentes. Os preços mencionados são aproximados e podem variar conforme promoções e disponibilidade de estoque.'
+      ],
+      bullets: [],
+    },
+  ],
+  cta: {
+    text: 'Compre no site oficial com cupom CECI',
+    label: 'Ver produtos',
+    url: 'https://www.nestlenutre.com.br/',
+  },
+  coupon: 'CECI',
+  editorialNote: 'Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.',
+  relatedArticles: [],
+},
+
+// Artigo 225: Nutren Senior Zero Lactose (ProductProfile)
+{
+  id: 225,
+  slug: 'nutren-senior-zero-lactose-ficha-tecnica',
+  title: 'Nutren Senior Zero Lactose: ficha técnica, preço e como comprar',
+  type: 'Editorial',
+  reviewKind: 'editorial',
+  author: CECILIA_AUTHOR,
+  description: 'Ficha técnica do Nutren Senior Zero Lactose: nutrientes, preço aproximado e orientações de uso. Saiba como comprar com cupom CECI.',
+  metaDescription: 'Veja a ficha técnica completa do Nutren Senior Zero Lactose: nutrientes, preço aproximado, modo de preparo, como usar, onde encontrar e como comprar com o cupom CECI na loja oficial Nestlé Nutre.',
+  publishedAt: 'Draft',
+  publishedAtISO: undefined,
+  draft: true,
+  image: '/images/reviews/nutren/nutren-senior-hero.webp',
+  imageAlt: 'Lata do Nutren Senior Zero Lactose',
+  imageFit: 'cover',
+  pros: [],
+  cons: [],
+  contentSections: [
+    {
+      heading: 'O que é o Nutren Senior Zero Lactose?',
+      paragraphs: [
+        'O Nutren Senior Zero Lactose é um composto lácteo enriquecido com vitaminas, minerais e fibras, desenvolvido para atender às necessidades nutricionais de pessoas com 50 anos ou mais. A fórmula é isenta de lactose, não contém açúcar adicionado e é sem glúten, o que a torna adequada para consumidores com restrições alimentares específicas. O produto está disponível em embalagens de 370g e 740g, além de versão pronta para beber (RTD) de 200ml. A proposta da fórmula é complementar a alimentação diária com nutrientes que podem estar em menor quantidade na dieta convencional desse público. A marca Nestlé Nutre, da qual o produto faz parte, é uma filial da Nestlé Health Science, voltada à nutrição e suplementação.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Ficha técnica e nutrientes principais',
+      paragraphs: [
+        'A composição do Nutren Senior inclui uma ampla gama de vitaminas e minerais. A lista de nutrientes principais contempla selênio, vitaminas A, E, C, B1, B12, D, K, além de cálcio, fósforo, ferro, zinco, cobre, vitaminas B2, B6, biotina e ácido pantotênico. A fonte de proteínas é composta por proteínas do leite. A fórmula também contém fibras, que fazem parte da proposta nutricional da linha. Abaixo, os principais destaques da ficha técnica:'
+      ],
+      bullets: [
+        'Zero lactose.',
+        'Zero açúcar adicionado.',
+        'Sem glúten.',
+        'Vitaminas A, E, C, B1, B12, D e K.',
+        'Selênio, cálcio, fósforo, ferro, zinco e cobre.',
+        'Vitaminas B2, B6, biotina e ácido pantotênico.',
+        'Proteínas e fibras.'
+      ],
+    },
+    {
+      heading: 'Preço aproximado',
+      paragraphs: [
+        'O preço do Nutren Senior varia conforme o tamanho da embalagem e a forma de apresentação. A versão em pó de 370g custa aproximadamente entre R$ 100 e R$ 110. Já a versão de 740g tem preço aproximado entre R$ 188 e R$ 200. A versão pronta para beber (RTD) de 200ml segue a faixa de preço similar aos demais itens líquidos da linha. Os valores são referenciais e podem sofrer alterações conforme promoções, cupons de desconto e disponibilidade de estoque no site oficial. Recomenda-se consultar o preço atualizado no momento da compra.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Como preparar',
+      paragraphs: [
+        'A recomendação de uso descrita no rótulo indica a diluição de 3 colheres de sopa rasas, equivalente a 27,5g do produto em pó, em aproximadamente 200ml de água morna ou fria. A ingestão sugerida é de duas porções ao dia, totalizando a quantidade indicada para o complemento nutricional diário. É importante seguir a proporção recomendada para garantir a concentração adequada de nutrientes por porção. O preparo deve ser feito em recipiente limpo e a bebida deve ser consumida imediatamente após a mistura. Em caso de dúvidas sobre a adequação do produto à rotina alimentar individual, recomenda-se consultar um profissional de saúde.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Como comprar com cupom',
+      paragraphs: [
+        'O Nutren Senior pode ser adquirido diretamente no site oficial da Nestlé Nutre, sem necessidade de receita médica. No entanto, como produto de nutrição especializada, deve ser utilizado conforme a indicação do rótulo e, quando necessário, com orientação de profissional de saúde. No checkout, é possível aplicar o cupom CECI para obter 5% de desconto sobre o valor do produto. O cupom não é válido para Alfamino e Alfaré, mas funciona normalmente para o Nutren Senior e demais itens da linha. O frete é calculado separadamente e o cupom não é cumulativo com outras promoções ativas no site. A parceria comercial que viabiliza o desconto é mantida de forma recorrente e revisada periodicamente.'
+      ],
+      bullets: [],
+    },
+  ],
+  cta: {
+    text: 'Compre no site oficial com cupom CECI',
+    label: 'Ver produtos',
+    url: 'https://www.nestlenutre.com.br/',
+  },
+  coupon: 'CECI',
+  editorialNote: 'Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.',
+  relatedArticles: [],
+},
+
+
+// =============================================================================
+// DOLCE GUSTO — Artigos de Oportunidade (promoções temporárias)
+// =============================================================================
+
+{
+  id: 226,
+  slug: 'promocao-dolce-gusto-60-caixas-mini-me-gratis',
+  title: 'Dolce Gusto: 60 caixas + Mini Me',
+  type: 'Guia',
+  reviewKind: 'guia',
+  author: CECILIA_AUTHOR,
+  description: 'Oferta Dolce Gusto: ao comprar 60 caixas de cápsulas ORIGINAL na loja oficial, ganhe uma máquina Mini Me. Regras, cupom CECI e análise.',
+  metaDescription: 'Promoção Dolce Gusto: compre 60 caixas ORIGINAL, ganhe Mini Me grátis e veja regras, cupom CECI e análise de custo-benefício.',
+  publishedAt: '29 Jun 2026',
+  publishedAtISO: '2026-06-29',
+  draft: false,
+  isNew: true,
+  image: '/images/reviews/dolcegusto/promocao-60-caixas-hero.webp',
+  imageAlt: 'Arte da promoção Dolce Gusto com 60 caixas de cápsulas e máquina Mini Me grátis',
+  imageFit: 'cover',
+  pros: [],
+  cons: [],
+  gallery: [
+    {
+      image: '/images/reviews/dolcegusto/promocao-60-caixas-art-1.webp',
+      alt: 'Arte promocional da Dolce Gusto 60 caixas e Mini Me grátis - 1',
+      caption: 'Divulgação oficial da promoção de 60 caixas e Mini Me grátis',
+    },
+    {
+      image: '/images/reviews/dolcegusto/promocao-60-caixas-art-2.webp',
+      alt: 'Arte promocional da Dolce Gusto 60 caixas e Mini Me grátis - 2',
+      caption: 'Regras e detalhes sobre as cores e voltagem da máquina Mini Me',
+    },
+    {
+      image: '/images/reviews/dolcegusto/promocao-60-caixas-art-3.webp',
+      alt: 'Arte promocional da Dolce Gusto 60 caixas e Mini Me grátis - 3',
+      caption: 'Limitações importantes da oferta e acúmulo de descontos',
+    },
+    {
+      image: '/images/reviews/dolcegusto/promocao-60-caixas-art-4.webp',
+      alt: 'Arte promocional da Dolce Gusto 60 caixas e Mini Me grátis - 4',
+      caption: 'Análise de custo-benefício para quem deseja aproveitar a oferta',
+    },
+    {
+      image: '/images/reviews/dolcegusto/promocao-60-caixas-art-5.webp',
+      alt: 'Arte promocional da Dolce Gusto 60 caixas e Mini Me grátis - 5',
+      caption: 'Como economizar ainda mais aplicando o cupom CECI',
+    },
+  ],
+  contentSections: [
+    {
+      heading: 'O que é a promoção',
+      paragraphs: [
+        'A loja oficial da NESCAFÉ Dolce Gusto lançou uma promoção de volume para quem compra em quantidade: ao adicionar 60 caixas de cápsulas ORIGINAL ao carrinho, o cliente ganha uma máquina Mini Me sem custo adicional. É uma oferta voltada para quem já consome com frequência e quer garantir estoque de cápsulas com um bônus concreto. A promoção está disponível a partir de 01h00 do dia 27/06/2026 e pode ser encerrada sem aviso prévio, conforme estoque.',
+        'A máquina Mini Me é um dos modelos mais compactos da linha, com pressão de 15 bar e reservatório de aproximadamente 0,8 litro. Por ser gratuita nesta promoção, ela funciona como um bônus real para o consumidor que já planejava comprar cápsulas em volume — seja para uso próprio, para presentear ou para um segundo ponto da casa (escritório, quarto de hóspedes).'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Regras completas da promoção',
+      paragraphs: [
+        'As condições da oferta são claras e devem ser lidas com atenção antes de finalizar a compra. Abaixo, o resumo das regras oficiais:'
+      ],
+      bullets: [
+        'Produtos elegíveis: caixas de cápsulas ORIGINAL (sabores da linha padrão). Não válido para NEO nem DGusta.',
+        'Máquina bônus: Mini Me (cor não pode ser escolhida; voltagem é selecionada no carrinho).',
+        'Limite: apenas uma máquina por pedido.',
+        'Não cumulativa: com combos de bebidas, outras promoções do site, resgate de pontos no carrinho ou utilização de cupons resgatados por pontos.',
+        'Troca: após a compra, não é possível realizar a troca dos sabores de cápsulas.',
+        'Troca de voltagem: não é permitida após a compra.'
+      ],
+    },
+    {
+      heading: 'Como usar o cupom CECI na promoção',
+      paragraphs: [
+        'O cupom CECI (5% OFF) pode ajudar a reduzir o valor total quando estiver elegível no carrinho. Como as regras de promoções podem mudar, aplique o código antes de finalizar e confirme se o desconto aparece no resumo do pedido.',
+        'O desconto de 5% sobre um valor elevado de 60 caixas representa uma economia adicional significativa. Por exemplo, considerando um preço médio de R$ 25 por caixa, o valor total seria aproximadamente R$ 1.500. Com o cupom CECI, a economia é de cerca de R$ 75 — além da máquina Mini Me, que custaria entre R$ 400 e R$ 900 em condições normais de compra.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Vale a pena?',
+      paragraphs: [
+        'A conta é simples: se você já consome cápsulas Dolce Gusto com frequência (família grande, escritório ou consumo diário intenso), comprar 60 caixas de uma vez garante estoque para meses e transforma a Mini Me em um bônus real. A validade das cápsulas é longa, e o estoque pode ser armazenado em local seco e arejado sem perder qualidade.',
+        'Se o consumo é esporádico (uma ou duas xícaras por semana), 60 caixas podem demorar anos para acabar, e o investimento inicial pode não fazer sentido. Neste caso, a recomendação é manter o cupom CECI para compras menores e acompanhar outras promoções do site que tenham menor volume mínimo.',
+        'A decisão final depende do perfil de consumo e da disponibilidade de estoque da promoção. Como a oferta pode ser encerrada sem aviso prévio, quem tem interesse deve agir dentro do prazo de disponibilidade.'
+      ],
+      bullets: [
+        'Consumo frequente: 60 caixas são viáveis e a Mini Me é um bônus valioso.',
+        'Consumo esporádico: volume pode ser excessivo; avalie antes de comprar.',
+        'Sempre confirme as condições no site oficial antes de finalizar o pedido.'
+      ],
+      emphasis: 'Aqui em casa, pelo nosso ritmo de consumo, 60 caixas durariam em torno de 4 a 6 meses. Para quem consome diariamente, o estoque faz sentido e garante a máquina grátis.',
+      image: '/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp',
+      imageAlt: 'Cecília Mauad consumindo café em casa',
+      imageFit: 'portrait',
+    },
+    {
+      heading: 'Alerta de validade',
+      paragraphs: [
+        'Este é um artigo de oportunidade. Promoções têm prazo limitado e podem ser encerradas sem aviso prévio. A oferta descrita está disponível a partir de 01h00 do dia 27/06/2026, mas não há garantia de duração. Recomenda-se verificar a disponibilidade da promoção no site oficial antes de qualquer compra. Quando a promoção encerrar, este artigo será arquivado como referência histórica.'
+      ],
+      bullets: [],
+    },
+  ],
+  cta: {
+    text: 'Aproveite a promoção de 60 caixas + Mini Me grátis e ainda economize 5% com o cupom CECI.',
+    label: 'Ir para a loja oficial',
+    url: 'https://www.nescafe-dolcegusto.com.br/sabores',
+  },
+  coupon: 'CECI',
+  editorialNote: 'Este artigo de oportunidade menciona uma promoção temporária da NESCAFÉ Dolce Gusto. O cupom CECI é parte de uma parceria comercial com o Em Casa com Cecília. As regras da promoção são transcritas fielmente do site oficial, mas podem ser alteradas ou encerradas a qualquer momento.',
+  relatedArticles: [
+    { slug: 'cupom-ceci-nescafe-dolce-gusto-como-usar', title: 'Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto' },
+    { slug: 'clube-dolce-gusto-como-funciona', title: 'Clube Dolce Gusto: como acumular pontos e trocar prêmios (2026)' },
+  ],
+},
+
+
+{
+  id: 227,
+  slug: 'promocao-dolce-gusto-maquina-100-capsulas-50',
+  title: 'Promoção Dolce Gusto: compre máquina e leve 100 cápsulas pelo preço de 50',
+  type: 'Guia',
+  reviewKind: 'guia',
+  author: CECILIA_AUTHOR,
+  description: 'Oferta Dolce Gusto: compre máquina Mini Me, Genio S e ganhe 100 cápsulas DGUSTA pelo preço de 50. Regras, modelos e cupom CECI.',
+  metaDescription: 'Promoção Dolce Gusto: compre máquina elegível e leve 100 cápsulas DGUSTA pelo preço de 50. Veja modelos, regras, cupom CECI e como aproveitar.',
+  publishedAt: 'Draft',
+  publishedAtISO: undefined,
+  draft: true,
+  image: '/images/reviews/dolcegusto/promocao-maquina-100-capsulas-hero.webp',
+  imageAlt: 'Promoção Dolce Gusto: máquina com caixa DGUSTA de 100 cápsulas pelo preço de 50',
+  imageFit: 'cover',
+  pros: [],
+  cons: [],
+  contentSections: [
+    {
+      heading: 'O que é a promoção',
+      paragraphs: [
+        'A NESCAFÉ Dolce Gusto está com uma promoção direcionada a quem está começando ou quer renovar o equipamento: ao comprar uma máquina selecionada e adicionar uma caixa DGUSTA de 100 cápsulas ao carrinho, o cliente paga apenas 50 cápsulas. É uma forma de sair com máquina + estoque inicial em uma única compra. A oferta está disponível a partir de 01h00 do dia 22/06/2026 e pode ser encerrada sem aviso prévio, conforme estoque.',
+        'A promoção é válida exclusivamente no site oficial da NESCAFÉ Dolce Gusto e não se aplica a outros canais de venda. O desconto é aplicado automaticamente no carrinho, desde que o cliente adicione simultaneamente a máquina elegível e a caixa DGUSTA de 100 cápsulas.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Modelos de máquina elegíveis',
+      paragraphs: [
+        'A promoção não vale para todos os modelos da linha. Apenas as máquinas listadas abaixo participam da oferta:'
+      ],
+      bullets: [
+        'MINI ME',
+        'GENIO S BASIC',
+        'GENIO S PLUS',
+        'GENIO S TOUCH',
+        'Não válido para máquina NEO.'
+      ],
+    },
+    {
+      heading: 'Regras completas da promoção',
+      paragraphs: [
+        'As condições da oferta são detalhadas e devem ser respeitadas para que o desconto seja aplicado corretamente. Abaixo, o resumo das regras oficiais:'
+      ],
+      bullets: [
+        'O cliente deve adicionar a máquina e a caixa DGUSTA de 100 cápsulas ao mesmo carrinho.',
+        'O desconto é aplicado automaticamente ao confirmar o pedido (verifique no resumo do carrinho).',
+        'Limite: 3 caixas DGUSTA por CPF.',
+        'Não cumulativa: com combo com máquinas, combo de bebidas e resgate de pontos.',
+        'Válida apenas para DGUSTA de 100 cápsulas.',
+        'Oferta disponível enquanto durarem os estoques, podendo ser encerrada sem aviso prévio.'
+      ],
+    },
+    {
+      heading: 'Como usar o cupom CECI na promoção',
+      paragraphs: [
+        'O cupom CECI (5% OFF) funciona em conjunto com esta promoção! Confirmamos e testamos que o desconto de 5% é aplicado de forma cumulativa sobre o valor final do carrinho após a aplicação da oferta automática. Para aproveitar, basta adicionar a máquina e a caixa de 100 cápsulas e, no checkout, inserir o código CECI no campo de cupom.',
+        'A recomendação prática é: antes de fechar o pedido, confirme na tela de resumo que tanto o desconto da promoção (o abatimento do valor correspondente a 50 cápsulas) quanto a redução de 5% do cupom CECI estão aplicados e descritos de forma clara no valor total.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Quem deve aproveitar?',
+      paragraphs: [
+        'Esta promoção é ideal para três perfis de consumidor: quem ainda não tem máquina e quer começar com estoque, quem está renovando um modelo antigo, e quem quer uma segunda máquina para outro ambiente da casa. A caixa DGUSTA de 100 cápsulas cobre a curva de aprendizado de descobrir quais sabores são preferidos, e o desconto de 50 cápsulas reduz o custo inicial consideravelmente.',
+        'Para quem já tem máquina e não precisa de outra, a promoção não faz sentido a menos que haja alguém na família para presentear. Neste caso, a limitação de 3 caixas DGUSTA por CPF impede aproveitar a oferta em larga escala, o que é uma proteção razoável da marca contra revenda.',
+        'A escolha da máquina dentro dos modelos elegíveis depende do espaço disponível e do orçamento. O MINI ME é a opção mais acessível e compacta. Os modelos GENIO S oferecem automação e reservatórios maiores. A recomendação é escolher o modelo que se encaixa na rotina da casa, independentemente do desconto das cápsulas.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Alerta de validade',
+      paragraphs: [
+        'Este é um artigo de oportunidade. Promoções têm prazo limitado e podem ser encerradas sem aviso prévio. A oferta descrita está disponível a partir de 01h00 do dia 22/06/2026, mas não há garantia de duração. Recomenda-se verificar a disponibilidade da promoção no site oficial antes de qualquer compra. Quando a promoção encerrar, este artigo será arquivado como referência histórica.'
+      ],
+      bullets: [],
+    },
+  ],
+  cta: {
+    text: 'Aproveite a promoção de máquina + 100 cápsulas e ainda economize com o cupom CECI.',
+    label: 'Ir para a loja oficial',
+    url: 'https://www.nescafe-dolcegusto.com.br/',
+  },
+  coupon: 'CECI',
+  editorialNote: 'Este artigo de oportunidade menciona uma promoção temporária da NESCAFÉ Dolce Gusto. O cupom CECI é parte de uma parceria comercial com o Em Casa com Cecília. As regras da promoção são transcritas fielmente do site oficial, mas podem ser alteradas ou encerradas a qualquer momento.',
+  relatedArticles: [
+    { slug: 'cupom-ceci-nescafe-dolce-gusto-como-usar', title: 'Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto' },
+    { slug: 'dolce-gusto-maquinas-qual-escolher', title: 'Máquinas Dolce Gusto: qual escolher para sua casa?' },
+  ],
+},
 ];
 
 export const publishedReviews: Review[] = reviews.filter((review) => !review.draft);
