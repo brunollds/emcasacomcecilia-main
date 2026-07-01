@@ -71,14 +71,14 @@ export const COUPONS: Coupon[] = [
       'Código exclusivo da Cecília para economizar em compras no site da DAMIE.',
     metaTitle: 'Cupom DAMIE 12% OFF • CECILIA12 ativo • Em Casa com Cecília',
     metaDescription:
-      'Cupom DAMIE atualizado junho 2026: use CECILIA12 para 12% OFF em todo o site.',
+      'Cupom DAMIE atualizado julho 2026: use CECILIA12 para 12% OFF em todo o site.',
     eligibleCategories:
       'Todo o site DAMIE',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
     reusable: 'Sim, sem limite de usos por CPF',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Não cumulativo com outros cupons ou promoções especiais',
-    lastVerified: '2026-06-09',
+    lastVerified: '2026-07-09',
     aboutBrand:
       'A DAMIE é uma marca brasileira de móveis estofados premium, com foco em poltronas reclináveis, sofás, camas e soluções de conforto para a casa. A Cecília usa produtos da marca no dia a dia e produziu reviews mostrando montagem, acabamento, conforto e uso real em casa. O cupom CECILIA12 foi criado para quem acompanha o Em Casa com Cecília e quer comprar com desconto direto no checkout. A proposta da parceria é simples: indicar produtos que fazem sentido para uma casa mais confortável, sem esconder que existe relação comercial e comissão de afiliado quando uma compra é feita pelo link ou cupom.',
     faqs: [
@@ -128,25 +128,25 @@ export const COUPONS: Coupon[] = [
         title: 'Minha experiência: Poltronas Reclináveis DAMIE',
         url: '/reviews/poltronas-reclinaveis-damie-vale-o-investimento',
         type: 'review',
-        publishedAt: '2025-04-17',
+        publishedAt: '2026-07-17',
       },
       {
         title: 'Review: Sofá Modular DAMIE',
         url: '/reviews/sofa-damie-na-caixa-vale-a-pena-o-modular',
         type: 'review',
-        publishedAt: '2026-04-29',
+        publishedAt: '2026-07-18',
       },
       {
         title: 'Review: Poltrona Moon DAMIE',
         url: '/reviews/poltrona-moon-design-que-parece-obra-de-arte',
         type: 'review',
-        publishedAt: '2026-04-29',
+        publishedAt: '2026-07-18',
       },
       {
         title: 'Review: Poltrona Levita DAMIE',
         url: '/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto',
         type: 'review',
-        publishedAt: '2026-04-29',
+        publishedAt: '2026-07-18',
       },
     ],
     monthlyHighlight: {
@@ -178,7 +178,7 @@ export const COUPONS: Coupon[] = [
     reusable: 'Sim, conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Pode variar conforme campanha ativa da loja oficial',
-    lastVerified: '2026-04-30',
+    lastVerified: '2026-07-30',
     aboutBrand:
       'A Nescafé Dolce Gusto é uma linha de cafés e bebidas em cápsulas da Nestlé, com máquinas e sabores pensados para preparo rápido em casa. A marca combina praticidade com variedade: cafés intensos, bebidas com leite, cappuccinos, chocolates e opções geladas aparecem no catálogo da loja oficial. O cupom CECI entra como benefício para quem acompanha a Cecília e quer economizar em compras na loja oficial. Como em toda parceria comercial, a recomendação deve ser conferida no checkout: o desconto aparece antes da finalização quando a regra da campanha permite.',
     faqs: [
@@ -244,7 +244,7 @@ export const COUPONS: Coupon[] = [
     reusable: 'Sim, conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política internacional da loja',
     combinable: 'Pode variar conforme campanha ativa da YesStyle',
-    lastVerified: '2026-06-02',
+    lastVerified: '2026-07-02',
     aboutBrand:
       'A YesStyle é uma loja internacional conhecida por produtos de beleza asiática, skincare, moda, acessórios e itens de lifestyle. O cupom CECILIA010 entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar em compras no site. Como regras de desconto, frete e aplicação podem variar por campanha, produto e país de entrega, a recomendação é sempre conferir o desconto aplicado no carrinho antes de finalizar a compra.',
     faqs: [
@@ -309,7 +309,7 @@ export const COUPONS: Coupon[] = [
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Pode variar conforme campanha ativa da loja oficial',
-    lastVerified: '2026-06-26',
+    lastVerified: '2026-07-26',
     aboutBrand:
       'A Nestlé Nutre é uma loja oficial da Nestlé voltada a produtos de nutrição e suplementação, com opções para diferentes rotinas e necessidades alimentares. Os produtos disponíveis podem fazer parte do dia a dia de quem busca praticidade na alimentação, sempre conforme as indicações do rótulo e, quando necessário, com orientação de um profissional de saúde. O cupom CECI foi criado para quem acompanha o Em Casa com Cecília e quer economizar na loja oficial, com exceção de Alfamino e Alfaré. Como em toda parceria comercial, a recomendação é conferir o desconto aplicado no checkout antes de finalizar a compra.',
     faqs: [
@@ -380,7 +380,7 @@ export const COUPONS: Coupon[] = [
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Pode variar conforme campanha ativa da loja oficial',
-    lastVerified: '2026-06-26',
+    lastVerified: '2026-07-26',
     aboutBrand:
       'A I Wanna Sleep é uma marca focada em produtos para sono, conforto e bem-estar do quarto, como colchões, travesseiros, lençóis e acessórios pensados para rotinas de descanso. O cupom CECIEMCASA entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar no site oficial. Como regras de desconto, frete e aplicação podem variar por campanha e produto, a recomendação é sempre conferir o desconto no checkout antes de finalizar a compra.',
     faqs: [
@@ -451,7 +451,7 @@ export const COUPONS: Coupon[] = [
     reusable: 'Sim, conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Pode variar conforme campanha ativa da Kopenhagen',
-    lastVerified: '2026-05-02',
+    lastVerified: '2026-07-02',
     aboutBrand:
       'A Kopenhagen é uma das marcas de chocolate mais conhecidas do Brasil, com linhas voltadas para presentes, datas comemorativas e momentos especiais em casa. No universo Em Casa com Cecília, o cupom CECILIA10 entra como benefício para quem quer comprar chocolates, kits e produtos da loja com desconto direto no checkout. Como as campanhas podem variar por data, estoque e categoria, a recomendação é conferir o desconto no carrinho antes de finalizar a compra. A página reúne o código ativo, instruções de uso e transparência sobre a parceria.',
     faqs: [

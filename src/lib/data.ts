@@ -18647,8 +18647,8 @@ export const reviews: Review[] = [
     reviewKind: 'editorial',
     description: 'Comprei o sofá modular Damie e usei no dia a dia. Aqui está o que me fez escolher — e o que eu observaria de novo antes de fechar a compra.',
     metaDescription: 'Sofá que chega na caixa, puff incluso, modular de verdade. O que levou a Cecília a escolher e o que observar antes de comprar.',
-    publishedAt: '26 Jun 2026',
-    publishedAtISO: '2026-06-26',
+    publishedAt: '26 Jul 2026',
+    publishedAtISO: '2026-07-26',
     draft: false,
     image: '/images/reviews/sofa-damie-modular-hero.webp',
     imageAlt: 'Sofá modular Damie em ambiente de sala de estar, com módulos e puff organizados.',
@@ -18748,8 +18748,8 @@ export const reviews: Review[] = [
     reviewKind: 'guia',
     description: 'Guia prático para usar o código de influenciador CECILIA010 na YesStyle. Descubra a diferença de outros cupons, aprenda a fazer o empilhamento de descontos (stacking) e confira dicas de K-Beauty e importação.',
     metaDescription: 'Use CECILIA010 na YesStyle para ganhar 5% extra e combinar com cupons em compras de K-beauty, skincare coreano e moda.',
-    publishedAt: '21 Jun 2026',
-    publishedAtISO: '2026-06-21',
+    publishedAt: '21 Jul 2026',
+    publishedAtISO: '2026-07-21',
     draft: false,
     image: '/images/reviews/cupons/yesstyle-kbeauty-hero.webp',
     imageAlt: 'Produtos de K-beauty e skincare coreano da YesStyle dispostos sobre uma mesa clara.',
@@ -19001,8 +19001,8 @@ export const reviews: Review[] = [
     reviewKind: 'guia',
     description: 'Practical guide to using the YesStyle influencer reward code CECILIA010. Discover how it differs from regular coupons, learn how to stack discounts, and check K-beauty and customs tips.',
     metaDescription: 'Use CECILIA010 on YesStyle for an extra 5% off and stack it with coupons on K-beauty, Korean skincare and fashion.',
-    publishedAt: '22 Jun 2026',
-    publishedAtISO: '2026-06-22',
+    publishedAt: '22 Jul 2026',
+    publishedAtISO: '2026-07-22',
     draft: false,
     hideFromListings: true,
     image: '/images/reviews/cupons/yesstyle-kbeauty-hero.webp',
@@ -19232,8 +19232,8 @@ export const reviews: Review[] = [
     reviewKind: 'guia',
     description: 'Guía práctica para usar el código de influenciador CECILIA010 en YesStyle. Descubre la diferencia con otros cupones, aprende a acumular descuentos (stacking) y consulta consejos de K-beauty y aduanas.',
     metaDescription: 'Usa CECILIA010 en YesStyle para ganar 5% extra y combinarlo con cupones en K-beauty, cosmética coreana y moda.',
-    publishedAt: '22 Jun 2026',
-    publishedAtISO: '2026-06-22',
+    publishedAt: '22 Jul 2026',
+    publishedAtISO: '2026-07-22',
     draft: false,
     hideFromListings: true,
     image: '/images/reviews/cupons/yesstyle-kbeauty-hero.webp',
@@ -19463,8 +19463,8 @@ export const reviews: Review[] = [
     reviewKind: 'guia',
     description: 'Guide pratique pour utiliser le code d\'influenceur CECILIA010 sur YesStyle. Découvrez sa différence avec les coupons classiques, apprenez à cumuler les remises et profitez de conseils sur la K-beauty et la douane.',
     metaDescription: 'Utilisez CECILIA010 sur YesStyle pour obtenir 5% en plus avec les coupons K-beauty, soins coreens et mode.',
-    publishedAt: '22 Jun 2026',
-    publishedAtISO: '2026-06-22',
+    publishedAt: '22 Jul 2026',
+    publishedAtISO: '2026-07-22',
     draft: false,
     hideFromListings: true,
     image: '/images/reviews/cupons/yesstyle-kbeauty-hero.webp',
@@ -19695,8 +19695,8 @@ export const reviews: Review[] = [
     reviewKind: 'guia',
     description: 'Praktische Anleitung zur Nutzung des YesStyle Influencer-Codes CECILIA010. Erfahre den Unterschied zu normalen Gutscheinen, wie du Rabatte kombinierst (Stacking) und erhalte Tipps zu K-Beauty und Zoll.',
     metaDescription: 'Nutze CECILIA010 bei YesStyle fur 5% extra und kombiniere ihn mit Gutscheinen fur K-Beauty, Pflege und Mode.',
-    publishedAt: '22 Jun 2026',
-    publishedAtISO: '2026-06-22',
+    publishedAt: '22 Jul 2026',
+    publishedAtISO: '2026-07-22',
     draft: false,
     hideFromListings: true,
     image: '/images/reviews/cupons/yesstyle-kbeauty-hero.webp',
@@ -19924,8 +19924,8 @@ export const reviews: Review[] = [
     title: 'Damie no Reclame Aqui: o que os dados mostram antes de você comprar',
     type: 'Análise de Reputação',
     description: 'Levantamento completo do Reclame Aqui da Damie Móveis: nota atual, taxa de resposta, tipos de reclamação mais comuns e o que considerar antes de comprar.',
-    publishedAt: '20 Jun 2026',
-    publishedAtISO: '2026-06-20',
+    publishedAt: '20 Jul 2026',
+    publishedAtISO: '2026-07-20',
     image: '/images/reviews/damie-reclame-aqui-hero.webp',
     imageAlt: 'Painel do Reclame Aqui da Damie Móveis mostrando nota 8.0 e reputação Ótimo.',
     pros: [
@@ -20065,8 +20065,8 @@ export const reviews: Review[] = [
     title: 'Cupom Damie CECILIA12: como usar o desconto da Cecília',
     type: 'Guia & Cupons',
     description: 'Passo a passo simples para usar o cupom CECILIA12 no site da Damie. Veja onde digitar o código e como confirmar o desconto antes de finalizar a compra.',
-    publishedAt: '11 Jun 2026',
-    publishedAtISO: '2026-06-11',
+    publishedAt: '11 Jul 2026',
+    publishedAtISO: '2026-07-11',
     image: '/images/reviews/cupom-damie-cecilia-poltrona-reclinavel.webp',
     imageAspect: 'portrait',
     imageAlt: 'Cecília usando uma poltrona reclinável Damie com o apoio para as pernas aberto.',
@@ -20194,8 +20194,8 @@ export const reviews: Review[] = [
     title: 'Poltrona de amamentação: o que fez diferença na rotina aqui em casa',
     type: 'Móveis & Conforto',
     description: 'Descubra o que realmente importa ao escolher uma poltrona de amamentação. Dicas práticas da rotina real da Cecília, com link para o guia completo e cupom CECILIA12.',
-    publishedAt: '09 Jun 2026',
-    publishedAtISO: '2026-06-09',
+    publishedAt: '09 Jul 2026',
+    publishedAtISO: '2026-07-09',
     image: '/images/reviews/poltrona-amamentacao-rotina-hero.webp',
     imageAlt: 'Cecília com o Ian no colo na poltrona reclinável bege.',
     imageAspect: 'portrait',
@@ -20539,7 +20539,7 @@ export const reviews: Review[] = [
     type: 'Móveis de Luxo',
     rating: 5.0,
     description: 'Minha análise da Poltrona Levita Elétrica Damie: dois motores independentes, ajuste de pescoço, base giratória e conforto premium para quem busca o topo da linha.',
-    publishedAt: '18 Abr 2026',
+    publishedAt: '18 Jul 2026',
     image: '/images/reviews/poltrona-levita-cecilia-flores.webp',
     imageAlt: 'Cecília sentada na Poltrona Levita ao lado de um arranjo de flores.',
     imageAspect: 'portrait',
@@ -20677,7 +20677,7 @@ export const reviews: Review[] = [
     type: 'Praticidade & Conforto',
     rating: 4.9,
     description: 'Uma análise do Sofá Damie Modular 3 Lugares com puff: entrega em caixas, montagem, flexibilidade, conforto e por que ele pode valer o investimento para casas reais.',
-    publishedAt: '18 Abr 2026',
+    publishedAt: '18 Jul 2026',
     image: '/images/reviews/sofa-damie-na-caixa-cecilia-hero.webp',
     imageAlt: 'Cecília sentada no Sofá Damie Modular na sala.',
     imageAspect: 'portrait',
@@ -20831,7 +20831,7 @@ export const reviews: Review[] = [
     type: 'Decoração & Design',
     rating: 5.0,
     description: 'Minha análise da Poltrona Moon da Damie: design escultural, base giratória 360°, tecidos premium e por que ela funciona como peça de destaque na decoração.',
-    publishedAt: '18 Abr 2026',
+    publishedAt: '18 Jul 2026',
     image: '/images/reviews/poltrona-moon-cecilia-quem.webp',
     imageAlt: 'Cecília na Poltrona Moon em um canto de leitura da casa.',
     imageAspect: 'portrait',
@@ -20969,8 +20969,8 @@ export const reviews: Review[] = [
     type: 'Móveis & Conforto',
     rating: 5.0,
     description: 'Minha experiência real com as poltronas reclináveis Damie: compra, montagem, tecido, conforto no uso diário e cupom CECILIA12.',
-    publishedAt: '17 Abr 2026',
-    publishedAtISO: '2026-04-17',
+    publishedAt: '17 Jul 2026',
+    publishedAtISO: '2026-07-17',
     authors: [CECILIA_AUTHOR, BRUNO_AUTHOR],
     image: '/images/reviews/poltrona-reclinavel-cecilia-botao-reclinacao.webp',
     imageAlt: 'Cecília Mauad usando a poltrona reclinável Damie e acionando o botão de reclinação.',
@@ -21140,13 +21140,13 @@ export const reviews: Review[] = [
   {
     id: 18,
     slug: 'cupom-ceci-nescafe-dolce-gusto-como-usar',
-    title: 'Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5% (JUNHO 2026)',
+    title: 'Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5% (JULHO 2026)',
     type: 'Guia & Cupons',
     reviewKind: 'guia',
     description: 'Guia completo para aplicar o cupom CECI no site oficial da NESCAFÉ Dolce Gusto e garantir 5% de desconto em compras acima de R$ 100.',
-    metaDescription: 'Cupom CECI NESCAFÉ Dolce Gusto: use o código CECI no site oficial e ganhe 5% OFF em cápsulas, cafeteiras e acessórios para compras acima de R$ 100. Ativo para JUNHO 2026.',
-    publishedAt: '19 Jun 2026',
-    publishedAtISO: '2026-06-19',
+    metaDescription: 'Cupom CECI NESCAFÉ Dolce Gusto: use o código CECI no site oficial e ganhe 5% OFF em cápsulas, cafeteiras e acessórios para compras acima de R$ 100. Ativo para JULHO 2026.',
+    publishedAt: '19 Jul 2026',
+    publishedAtISO: '2026-07-19',
     image: '/images/reviews/cupons/nescafe-dolce-gusto-hero.webp',
     imageAlt: 'Cápsulas de café NESCAFÉ Dolce Gusto e máquina de café em cima de uma mesa.',
     imageFit: 'cover',
@@ -21210,7 +21210,7 @@ export const reviews: Review[] = [
           'Compra Mínima: A partir de R$ 100 em produtos',
           'Limites: Até 3 utilizações por CPF',
           'Onde usar: Site oficial NESCAFÉ Dolce Gusto Brasil',
-          'Válido em: JUNHO 2026 (cupom verificado e ativo)',
+          'Válido em: JULHO 2026 (cupom verificado e ativo)',
         ],
         emphasis: 'Use o código CECI no checkout da NESCAFÉ DOLCE GUSTO e economize 5% em todas as suas compras elegíveis.',
       },
@@ -21279,7 +21279,7 @@ export const reviews: Review[] = [
       {
         heading: 'O que fazer se o cupom CECI não funcionar?',
         paragraphs: [
-          'Embora o cupom CECI seja um cupom válido e ativo para JUNHO 2026, algumas situações podem impedir a aplicação. Veja o que verificar.',
+          'Embora o cupom CECI seja um cupom válido e ativo para JULHO 2026, algumas situações podem impedir a aplicação. Veja o que verificar.',
         ],
         bullets: [
           'Código digitado incorretamente: Verifique se digitou CECI sem espaços ou caracteres extras.',
@@ -21301,7 +21301,7 @@ export const reviews: Review[] = [
           'Desconto: 5% sobre o valor dos produtos.',
           'Compra mínima: Válido para pedidos a partir de R$ 100 em produtos.',
           'Limite de uso: Cada CPF pode utilizar o cupom no máximo 3 vezes.',
-          'Validade: Verificado e ativo para JUNHO 2026 — atualizado todo mês.',
+          'Validade: Verificado e ativo para JULHO 2026 — atualizado todo mês.',
           'Onde usar: Exclusivamente no site oficial da NESCAFÉ DOLCE GUSTO Brasil.',
           'Acumulação: O cupom pode ou não ser combinado com outras promoções do site, dependendo da regra vigente.',
           'Frete: O desconto não se aplica ao valor do frete, apenas aos produtos.',
@@ -21326,7 +21326,7 @@ export const reviews: Review[] = [
         ],
         bullets: [
           'Economia real: 5% de desconto pode parecer pouco, mas em compras recorrentes de cápsulas ou na aquisição de uma máquina, faz diferença no final do mês.',
-          'Código verificado: Testamos e confirmamos que o cupom CECI está ativo e válido para JUNHO 2026.',
+          'Código verificado: Testamos e confirmamos que o cupom CECI está ativo e válido para JULHO 2026.',
           'Sem burocracia: Basta digitar o código no checkout — sem cadastros extras, sem programas de fidelidade obrigatórios.',
           'Ajuda o blog: Ao usar nosso cupom, você apoia o Em Casa com Cecília sem pagar nada a mais por isso. O desconto é integralmente seu!',
         ],
@@ -21338,7 +21338,7 @@ export const reviews: Review[] = [
         ],
         bullets: [
           'O cupom CECI funciona no app da NESCAFÉ Dolce Gusto? Atualmente, este guia foca no uso do cupom no site oficial. Estamos verificando se o código também é válido no aplicativo móvel e atualizaremos este artigo assim que confirmarmos.',
-          'O cupom CECI tem data de validade? O código é atualizado e verificado mensalmente. Para JUNHO 2026, o cupom CECI está válido e ativo. Sempre volte aqui para confirmar o código do mês atual antes de comprar.',
+          'O cupom CECI tem data de validade? O código é atualizado e verificado mensalmente. Para JULHO 2026, o cupom CECI está válido e ativo. Sempre volte aqui para confirmar o código do mês atual antes de comprar.',
           'Posso usar o cupom CECI mais de uma vez? Sim! O cupom CECI pode ser usado em até 3 compras por CPF. Não há limite global de utilizações por cliente fora dessa regra do CPF, desde que seja aplicado no site oficial da NESCAFÉ DOLCE GUSTO.',
           'O desconto de 5% é sobre o frete também? Não. O cupom CECI aplica 5% OFF apenas sobre o valor dos produtos. O valor do frete é calculado separadamente e não entra na base de cálculo do desconto.',
           'O que acontece se o cupom não der certo? Se o código não for aplicado, verifique se: digitou corretamente como CECI; sua compra somou pelo menos R$ 100; você já não atingiu o limite de 3 usos no seu CPF; o produto não está em uma promoção exclusiva que bloqueie cupons.',
@@ -21665,7 +21665,7 @@ export const reviews: Review[] = [
 {
   id: 220,
   slug: 'cupom-ceciemcasa-i-wanna-sleep-como-usar',
-  title: 'Como usar o cupom CECIEMCASA na I Wanna Sleep (JUNHO 2026)',
+  title: 'Como usar o cupom CECIEMCASA na I Wanna Sleep (JULHO 2026)',
   type: 'Guia',
   reviewKind: 'guia',
   author: CECILIA_AUTHOR,
@@ -21900,7 +21900,7 @@ export const reviews: Review[] = [
 {
   id: 223,
   slug: 'cupom-ceci-nestle-nutre-como-usar',
-  title: 'Como usar o cupom CECI na Nestlé Nutre (JUNHO 2026)',
+  title: 'Como usar o cupom CECI na Nestlé Nutre (JULHO 2026)',
   type: 'Guia',
   reviewKind: 'guia',
   author: CECILIA_AUTHOR,
@@ -22130,46 +22130,46 @@ export const reviews: Review[] = [
 
 {
   id: 226,
-  slug: 'promocao-dolce-gusto-60-caixas-mini-me-gratis',
-  title: 'Dolce Gusto: 60 caixas, ganhe Mini Me',
+  slug: 'promocao-dolce-gusto-55-caixas-mini-me-gratis',
+  title: 'Dolce Gusto: 55 caixas, ganhe Mini Me',
   type: 'Guia',
   reviewKind: 'guia',
   author: CECILIA_AUTHOR,
-  description: 'Oferta Dolce Gusto: ao comprar 60 caixas de cápsulas ORIGINAL na loja oficial, ganhe uma máquina Mini Me. Regras, cupom CECI e análise.',
-  metaDescription: 'Promoção Dolce Gusto: compre 60 caixas ORIGINAL, ganhe Mini Me grátis e veja regras, cupom CECI e análise de custo-benefício.',
-  publishedAt: '29 Jun 2026',
-  publishedAtISO: '2026-06-29',
+  description: 'Oferta Dolce Gusto: ao comprar 55 caixas de cápsulas ORIGINAL na loja oficial, ganhe uma máquina Mini Me. Regras, cupom CECI e análise.',
+  metaDescription: 'Promoção Dolce Gusto: compre 55 caixas ORIGINAL, ganhe Mini Me grátis e veja regras, cupom CECI e análise de custo-benefício.',
+  publishedAt: '30 Jul 2026',
+  publishedAtISO: '2026-07-30',
   draft: false,
   isNew: true,
-  image: '/images/reviews/dolcegusto/promocao-60-caixas-hero.webp',
-  imageAlt: 'Arte da promoção Dolce Gusto com 60 caixas de cápsulas e máquina Mini Me grátis',
+  image: '/images/reviews/dolcegusto/promocao-55-caixas-hero.webp',
+  imageAlt: 'Arte da promoção Dolce Gusto com 55 caixas de cápsulas e máquina Mini Me grátis',
   imageFit: 'cover',
   pros: [],
   cons: [],
   gallery: [
     {
-      image: '/images/reviews/dolcegusto/promocao-60-caixas-art-1.webp',
-      alt: 'Arte promocional da Dolce Gusto 60 caixas e Mini Me grátis - 1',
-      caption: 'Divulgação oficial da promoção de 60 caixas e Mini Me grátis',
+      image: '/images/reviews/dolcegusto/promocao-55-caixas-art-1.webp',
+      alt: 'Arte promocional da Dolce Gusto 55 caixas e Mini Me grátis - 1',
+      caption: 'Divulgação oficial da promoção de 55 caixas e Mini Me grátis',
     },
     {
-      image: '/images/reviews/dolcegusto/promocao-60-caixas-art-2.webp',
-      alt: 'Arte promocional da Dolce Gusto 60 caixas e Mini Me grátis - 2',
+      image: '/images/reviews/dolcegusto/promocao-55-caixas-art-2.webp',
+      alt: 'Arte promocional da Dolce Gusto 55 caixas e Mini Me grátis - 2',
       caption: 'Regras e detalhes sobre as cores e voltagem da máquina Mini Me',
     },
     {
-      image: '/images/reviews/dolcegusto/promocao-60-caixas-art-3.webp',
-      alt: 'Arte promocional da Dolce Gusto 60 caixas e Mini Me grátis - 3',
+      image: '/images/reviews/dolcegusto/promocao-55-caixas-art-3.webp',
+      alt: 'Arte promocional da Dolce Gusto 55 caixas e Mini Me grátis - 3',
       caption: 'Limitações importantes da oferta e acúmulo de descontos',
     },
     {
-      image: '/images/reviews/dolcegusto/promocao-60-caixas-art-4.webp',
-      alt: 'Arte promocional da Dolce Gusto 60 caixas e Mini Me grátis - 4',
+      image: '/images/reviews/dolcegusto/promocao-55-caixas-art-4.webp',
+      alt: 'Arte promocional da Dolce Gusto 55 caixas e Mini Me grátis - 4',
       caption: 'Análise de custo-benefício para quem deseja aproveitar a oferta',
     },
     {
-      image: '/images/reviews/dolcegusto/promocao-60-caixas-art-5.webp',
-      alt: 'Arte promocional da Dolce Gusto 60 caixas e Mini Me grátis - 5',
+      image: '/images/reviews/dolcegusto/promocao-55-caixas-art-5.webp',
+      alt: 'Arte promocional da Dolce Gusto 55 caixas e Mini Me grátis - 5',
       caption: 'Como economizar ainda mais aplicando o cupom CECI',
     },
   ],
@@ -22177,7 +22177,7 @@ export const reviews: Review[] = [
     {
       heading: 'O que é a promoção',
       paragraphs: [
-        'A loja oficial da NESCAFÉ Dolce Gusto lançou uma promoção de volume para quem compra em quantidade: ao adicionar 60 caixas de cápsulas ORIGINAL ao carrinho, o cliente ganha uma máquina Mini Me sem custo adicional. É uma oferta voltada para quem já consome com frequência e quer garantir estoque de cápsulas com um bônus concreto. A promoção está disponível a partir de 01h00 do dia 27/06/2026 e pode ser encerrada sem aviso prévio, conforme estoque.',
+        'A loja oficial da NESCAFÉ Dolce Gusto lançou uma promoção de volume para quem compra em quantidade: ao adicionar 55 caixas de cápsulas ORIGINAL ao carrinho, o cliente ganha uma máquina Mini Me sem custo adicional. É uma oferta voltada para quem já consome com frequência e quer garantir estoque de cápsulas com um bônus concreto. A promoção está disponível a partir de 16h00 do dia 30/06/2026 e pode ser encerrada sem aviso prévio, conforme estoque.',
         'A máquina Mini Me é um dos modelos mais compactos da linha, com pressão de 15 bar e reservatório de aproximadamente 0,8 litro. Por ser gratuita nesta promoção, ela funciona como um bônus real para o consumidor que já planejava comprar cápsulas em volume — seja para uso próprio, para presentear ou para um segundo ponto da casa (escritório, quarto de hóspedes).'
       ],
       bullets: [],
@@ -22200,23 +22200,23 @@ export const reviews: Review[] = [
       heading: 'Como usar o cupom CECI na promoção',
       paragraphs: [
         'O cupom CECI (5% OFF) pode ajudar a reduzir o valor total quando estiver elegível no carrinho. Como as regras de promoções podem mudar, aplique o código antes de finalizar e confirme se o desconto aparece no resumo do pedido.',
-        'O desconto de 5% sobre um valor elevado de 60 caixas representa uma economia adicional significativa. Por exemplo, considerando um preço médio de R$ 25 por caixa, o valor total seria aproximadamente R$ 1.500. Com o cupom CECI, a economia é de cerca de R$ 75 — além da máquina Mini Me, que custaria entre R$ 400 e R$ 900 em condições normais de compra.'
+        'O desconto de 5% sobre um valor elevado de 55 caixas representa uma economia adicional significativa. Por exemplo, considerando um preço médio de R$ 25 por caixa, o valor total seria aproximadamente R$ 1.375. Com o cupom CECI, a economia é de cerca de R$ 68,75 — além da máquina Mini Me, que custaria entre R$ 400 e R$ 900 em condições normais de compra.'
       ],
       bullets: [],
     },
     {
       heading: 'Vale a pena?',
       paragraphs: [
-        'A conta é simples: se você já consome cápsulas Dolce Gusto com frequência (família grande, escritório ou consumo diário intenso), comprar 60 caixas de uma vez garante estoque para meses e transforma a Mini Me em um bônus real. A validade das cápsulas é longa, e o estoque pode ser armazenado em local seco e arejado sem perder qualidade.',
-        'Se o consumo é esporádico (uma ou duas xícaras por semana), 60 caixas podem demorar anos para acabar, e o investimento inicial pode não fazer sentido. Neste caso, a recomendação é manter o cupom CECI para compras menores e acompanhar outras promoções do site que tenham menor volume mínimo.',
+        'A conta é simples: se você já consome cápsulas Dolce Gusto com frequência (família grande, escritório ou consumo diário intenso), comprar 55 caixas de uma vez garante estoque para meses e transforma a Mini Me em um bônus real. A validade das cápsulas é longa, e o estoque pode ser armazenado em local seco e arejado sem perder qualidade.',
+        'Se o consumo é esporádico (uma ou duas xícaras por semana), 55 caixas podem demorar anos para acabar, e o investimento inicial pode não fazer sentido. Neste caso, a recomendação é manter o cupom CECI para compras menores e acompanhar outras promoções do site que tenham menor volume mínimo.',
         'A decisão final depende do perfil de consumo e da disponibilidade de estoque da promoção. Como a oferta pode ser encerrada sem aviso prévio, quem tem interesse deve agir dentro do prazo de disponibilidade.'
       ],
       bullets: [
-        'Consumo frequente: 60 caixas são viáveis e a Mini Me é um bônus valioso.',
+        'Consumo frequente: 55 caixas são viáveis e a Mini Me é um bônus valioso.',
         'Consumo esporádico: volume pode ser excessivo; avalie antes de comprar.',
         'Sempre confirme as condições no site oficial antes de finalizar o pedido.'
       ],
-      emphasis: 'Aqui em casa, pelo nosso ritmo de consumo, 60 caixas durariam em torno de 4 a 6 meses. Para quem consome diariamente, o estoque faz sentido e garante a máquina grátis.',
+      emphasis: 'Aqui em casa, pelo nosso ritmo de consumo, 55 caixas durariam em torno de 4 a 5 meses. Para quem consome diariamente, o estoque faz sentido e garante a máquina grátis.',
       image: '/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp',
       imageAlt: 'Cecília Mauad consumindo café em casa',
       imageFit: 'portrait',
@@ -22224,13 +22224,13 @@ export const reviews: Review[] = [
     {
       heading: 'Alerta de validade',
       paragraphs: [
-        'Este é um artigo de oportunidade. Promoções têm prazo limitado e podem ser encerradas sem aviso prévio. A oferta descrita está disponível a partir de 01h00 do dia 27/06/2026, mas não há garantia de duração. Recomenda-se verificar a disponibilidade da promoção no site oficial antes de qualquer compra. Quando a promoção encerrar, este artigo será arquivado como referência histórica.'
+        'Este é um artigo de oportunidade. Promoções têm prazo limitado e podem ser encerradas sem aviso prévio. A oferta descrita está disponível a partir de 16h00 do dia 30/06/2026, mas não há garantia de duração. Recomenda-se verificar a disponibilidade da promoção no site oficial antes de qualquer compra. Quando a promoção encerrar, este artigo será arquivado como referência histórica.'
       ],
       bullets: [],
     },
   ],
   cta: {
-    text: 'Aproveite a promoção de 60 caixas + Mini Me grátis e ainda economize 5% com o cupom CECI.',
+    text: 'Aproveite a promoção de 55 caixas + Mini Me grátis e ainda economize 5% com o cupom CECI.',
     label: 'Ir para a loja oficial',
     url: 'https://www.nescafe-dolcegusto.com.br/sabores',
   },
@@ -22243,96 +22243,7 @@ export const reviews: Review[] = [
 },
 
 
-{
-  id: 227,
-  slug: 'promocao-dolce-gusto-maquina-100-capsulas-50',
-  title: 'Promoção Dolce Gusto: compre máquina e leve 100 cápsulas pelo preço de 50',
-  type: 'Guia',
-  reviewKind: 'guia',
-  author: CECILIA_AUTHOR,
-  description: 'Oferta Dolce Gusto: compre máquina Mini Me, Genio S e ganhe 100 cápsulas DGUSTA pelo preço de 50. Regras, modelos e cupom CECI.',
-  metaDescription: 'Promoção Dolce Gusto: compre máquina elegível e leve 100 cápsulas DGUSTA pelo preço de 50. Veja modelos, regras, cupom CECI e como aproveitar.',
-  publishedAt: 'Draft',
-  publishedAtISO: undefined,
-  draft: true,
-  image: '/images/reviews/dolcegusto/promocao-maquina-100-capsulas-hero.webp',
-  imageAlt: 'Promoção Dolce Gusto: máquina com caixa DGUSTA de 100 cápsulas pelo preço de 50',
-  imageFit: 'cover',
-  pros: [],
-  cons: [],
-  contentSections: [
-    {
-      heading: 'O que é a promoção',
-      paragraphs: [
-        'A NESCAFÉ Dolce Gusto está com uma promoção direcionada a quem está começando ou quer renovar o equipamento: ao comprar uma máquina selecionada e adicionar uma caixa DGUSTA de 100 cápsulas ao carrinho, o cliente paga apenas 50 cápsulas. É uma forma de sair com máquina + estoque inicial em uma única compra. A oferta está disponível a partir de 01h00 do dia 22/06/2026 e pode ser encerrada sem aviso prévio, conforme estoque.',
-        'A promoção é válida exclusivamente no site oficial da NESCAFÉ Dolce Gusto e não se aplica a outros canais de venda. O desconto é aplicado automaticamente no carrinho, desde que o cliente adicione simultaneamente a máquina elegível e a caixa DGUSTA de 100 cápsulas.'
-      ],
-      bullets: [],
-    },
-    {
-      heading: 'Modelos de máquina elegíveis',
-      paragraphs: [
-        'A promoção não vale para todos os modelos da linha. Apenas as máquinas listadas abaixo participam da oferta:'
-      ],
-      bullets: [
-        'MINI ME',
-        'GENIO S BASIC',
-        'GENIO S PLUS',
-        'GENIO S TOUCH',
-        'Não válido para máquina NEO.'
-      ],
-    },
-    {
-      heading: 'Regras completas da promoção',
-      paragraphs: [
-        'As condições da oferta são detalhadas e devem ser respeitadas para que o desconto seja aplicado corretamente. Abaixo, o resumo das regras oficiais:'
-      ],
-      bullets: [
-        'O cliente deve adicionar a máquina e a caixa DGUSTA de 100 cápsulas ao mesmo carrinho.',
-        'O desconto é aplicado automaticamente ao confirmar o pedido (verifique no resumo do carrinho).',
-        'Limite: 3 caixas DGUSTA por CPF.',
-        'Não cumulativa: com combo com máquinas, combo de bebidas e resgate de pontos.',
-        'Válida apenas para DGUSTA de 100 cápsulas.',
-        'Oferta disponível enquanto durarem os estoques, podendo ser encerrada sem aviso prévio.'
-      ],
-    },
-    {
-      heading: 'Como usar o cupom CECI na promoção',
-      paragraphs: [
-        'O cupom CECI (5% OFF) funciona em conjunto com esta promoção! Confirmamos e testamos que o desconto de 5% é aplicado de forma cumulativa sobre o valor final do carrinho após a aplicação da oferta automática. Para aproveitar, basta adicionar a máquina e a caixa de 100 cápsulas e, no checkout, inserir o código CECI no campo de cupom.',
-        'A recomendação prática é: antes de fechar o pedido, confirme na tela de resumo que tanto o desconto da promoção (o abatimento do valor correspondente a 50 cápsulas) quanto a redução de 5% do cupom CECI estão aplicados e descritos de forma clara no valor total.'
-      ],
-      bullets: [],
-    },
-    {
-      heading: 'Quem deve aproveitar?',
-      paragraphs: [
-        'Esta promoção é ideal para três perfis de consumidor: quem ainda não tem máquina e quer começar com estoque, quem está renovando um modelo antigo, e quem quer uma segunda máquina para outro ambiente da casa. A caixa DGUSTA de 100 cápsulas cobre a curva de aprendizado de descobrir quais sabores são preferidos, e o desconto de 50 cápsulas reduz o custo inicial consideravelmente.',
-        'Para quem já tem máquina e não precisa de outra, a promoção não faz sentido a menos que haja alguém na família para presentear. Neste caso, a limitação de 3 caixas DGUSTA por CPF impede aproveitar a oferta em larga escala, o que é uma proteção razoável da marca contra revenda.',
-        'A escolha da máquina dentro dos modelos elegíveis depende do espaço disponível e do orçamento. O MINI ME é a opção mais acessível e compacta. Os modelos GENIO S oferecem automação e reservatórios maiores. A recomendação é escolher o modelo que se encaixa na rotina da casa, independentemente do desconto das cápsulas.'
-      ],
-      bullets: [],
-    },
-    {
-      heading: 'Alerta de validade',
-      paragraphs: [
-        'Este é um artigo de oportunidade. Promoções têm prazo limitado e podem ser encerradas sem aviso prévio. A oferta descrita está disponível a partir de 01h00 do dia 22/06/2026, mas não há garantia de duração. Recomenda-se verificar a disponibilidade da promoção no site oficial antes de qualquer compra. Quando a promoção encerrar, este artigo será arquivado como referência histórica.'
-      ],
-      bullets: [],
-    },
-  ],
-  cta: {
-    text: 'Aproveite a promoção de máquina + 100 cápsulas e ainda economize com o cupom CECI.',
-    label: 'Ir para a loja oficial',
-    url: 'https://www.nescafe-dolcegusto.com.br/',
-  },
-  coupon: 'CECI',
-  editorialNote: 'Este artigo de oportunidade menciona uma promoção temporária da NESCAFÉ Dolce Gusto. O cupom CECI é parte de uma parceria comercial com o Em Casa com Cecília. As regras da promoção são transcritas fielmente do site oficial, mas podem ser alteradas ou encerradas a qualquer momento.',
-  relatedArticles: [
-    { slug: 'cupom-ceci-nescafe-dolce-gusto-como-usar', title: 'Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto' },
-    { slug: 'dolce-gusto-maquinas-qual-escolher', title: 'Máquinas Dolce Gusto: qual escolher para sua casa?' },
-  ],
-},
+
 ];
 
 export const publishedReviews: Review[] = reviews.filter((review) => !review.draft);
