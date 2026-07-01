@@ -12,7 +12,7 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 - `lastVerified` (ISO 8601: `YYYY-MM-DD`)
 - `metaDescription` (quando mencionar "mês ano", ex: "atualizado julho 2026")
 - `monthlyHighlight.scope` / `monthlyHighlight.note` (quando houver regras específicas do mês)
-- `relatedContent[].publishedAt` (quando o conteúdo relacionado for atualizado)
+- `relatedContent[].publishedAt` somente quando houver republicação/editorial real do conteúdo relacionado
 
 #### Cupons ativos
 
@@ -40,28 +40,30 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 
 Os artigos abaixo contêm referências ao mês/ano e precisam de atualização mensal:
 
+> Importante: não alterar `publishedAt` ou `publishedAtISO` apenas por causa da atualização mensal do cupom. Essas datas são editoriais e devem refletir a publicação original do artigo. Atualize esses campos só quando o artigo for realmente republicado.
+
 #### YesStyle
 
 | Slug | Linhas aproximadas | Campos a verificar |
 |---|---|---|
-| `codigo-cecilia010-yesstyle-como-usar` | ~18745 | `publishedAt`, `publishedAtISO`, textos sobre validade |
-| `yesstyle-reward-code-coupon-cecilia010` | ~18998 | `publishedAt`, `publishedAtISO` |
-| `codigo-de-recompensa-yesstyle-cupon-cecilia010` | ~19229 | `publishedAt`, `publishedAtISO` |
-| `code-recompense-yesstyle-cecilia010` | ~19460 | `publishedAt`, `publishedAtISO` |
-| `yesstyle-reward-code-rabatt-cecilia010` | ~19692 | `publishedAt`, `publishedAtISO` |
+| `codigo-cecilia010-yesstyle-como-usar` | ~18745 | textos sobre validade, se houver |
+| `yesstyle-reward-code-coupon-cecilia010` | ~18998 | textos sobre validade, se houver |
+| `codigo-de-recompensa-yesstyle-cupon-cecilia010` | ~19229 | textos sobre validade, se houver |
+| `code-recompense-yesstyle-cecilia010` | ~19460 | textos sobre validade, se houver |
+| `yesstyle-reward-code-rabatt-cecilia010` | ~19692 | textos sobre validade, se houver |
 
 #### DAMIE
 
 | Slug | Linhas aproximadas | Campos a verificar |
 |---|---|---|
-| `cupom-cecilia12-como-usar` | ~20064 | `publishedAt`, `publishedAtISO`, textos sobre validade |
+| `cupom-cecilia12-como-usar` | ~20064 | textos sobre validade |
 
 #### NESCAFÉ Dolce Gusto
 
 | Slug | Linhas aproximadas | Campos a verificar |
 |---|---|---|
-| `cupom-ceci-nescafe-dolce-gusto-como-usar` | ~21142 | `title`, `metaDescription`, `publishedAt`, `publishedAtISO`, textos com `JUNHO 2026`/`JULHO 2026` |
-| `promocao-dolce-gusto-55-caixas-mini-me-gratis` | ~22133 | `publishedAt`, `publishedAtISO` |
+| `cupom-ceci-nescafe-dolce-gusto-como-usar` | ~21142 | `title`, `metaDescription`, textos com `JUNHO 2026`/`JULHO 2026` |
+| `promocao-dolce-gusto-55-caixas-mini-me-gratis` | ~22133 | regras e textos da promoção, se a oferta mudar |
 
 #### I Wanna Sleep
 
@@ -77,7 +79,7 @@ Os artigos abaixo contêm referências ao mês/ano e precisam de atualização m
 
 ### 4. `src/lib/data.ts` — reviews relacionadas às marcas de cupom
 
-Essas reviews mencionam cupons e/ou são referenciadas em `relatedContent` dos cupons. Atualizar `publishedAt` e `publishedAtISO` quando a marca/Cecília indicar novo conteúdo:
+Essas reviews mencionam cupons e/ou são referenciadas em `relatedContent` dos cupons. Não atualizar `publishedAt`/`publishedAtISO` no ciclo mensal; revisar apenas textos de cupom caso exista menção ao mês vigente:
 
 | Slug | Linhas aproximadas | Marca relacionada |
 |---|---|---|
@@ -98,9 +100,11 @@ Antes de atualizar, rode uma busca para encontrar possíveis referências ao mê
 grep -n -E "(Janeiro|Fevereiro|Março|Abril|Maio|Junho|Julho|Agosto|Setembro|Outubro|Novembro|Dezembro|JANEIRO|FEVEREIRO|MARÇO|ABRIL|MAIO|JUNHO|JULHO|AGOSTO|SETEMBRO|OUTUBRO|NOVEMBRO|DEZEMBRO)\s+2026" src/lib/data.ts src/lib/couponsData.ts
 
 # Busca por datas ISO do mês anterior (exemplo: junho 2026)
+# Atenção: datas em `publishedAtISO` podem ser datas editoriais legítimas e não devem ser trocadas automaticamente.
 grep -n -E "2026-06-[0-9]{2}" src/lib/data.ts src/lib/couponsData.ts
 
 # Busca por datas no formato "DD Mmm 2026" do mês anterior (exemplo: junho)
+# Atenção: datas em `publishedAt` podem ser datas editoriais legítimas e não devem ser trocadas automaticamente.
 grep -n -E "(Jan|Fev|Mar|Abr|Mai|Jun|Jul|Ago|Set|Out|Nov|Dez)\s+2026" src/lib/data.ts src/lib/couponsData.ts
 ```
 
@@ -108,10 +112,10 @@ grep -n -E "(Jan|Fev|Mar|Abr|Mai|Jun|Jul|Ago|Set|Out|Nov|Dez)\s+2026" src/lib/da
 
 - [ ] Atualizar `lastVerified` em `src/lib/couponsData.ts` para todos os cupons ativos
 - [ ] Atualizar `metaDescription` de cupons que mencionam "atualizado mês ano"
-- [ ] Atualizar `publishedAt` e `publishedAtISO` dos artigos de cupom
+- [ ] Preservar `publishedAt` e `publishedAtISO` dos artigos já publicados, salvo republicação editorial real
 - [ ] Atualizar títulos de artigos de cupom que incluem mês/ano
 - [ ] Atualizar textos internos dos artigos que mencionam `JUNHO 2026`, `JULHO 2026`, etc.
-- [ ] Atualizar `publishedAt`/`publishedAtISO` das reviews relacionadas, quando houver novo conteúdo
+- [ ] Atualizar `publishedAt`/`publishedAtISO` das reviews relacionadas somente quando houver novo conteúdo ou republicação real
 - [ ] Rodar `npm run lint`
 - [ ] Rodar `npm run typecheck`
 - [ ] Rodar `npm run validate:content`
@@ -120,6 +124,7 @@ grep -n -E "(Jan|Fev|Mar|Abr|Mai|Jun|Jul|Ago|Set|Out|Nov|Dez)\s+2026" src/lib/da
 
 ## Notas
 
+- Não alterar datas editoriais de conteúdos já publicados apenas para refletir a verificação mensal do cupom.
 - Não alterar datas de conteúdos que não têm relação com cupons (ex: receitas, reviews de produtos sem cupom ativo, histórico curioso).
 - Artigos marcados como `draft: true` não geram páginas nem entram no sitemap, mas devem manter consistência se forem publicados no futuro.
 - O template `/cupons/[brand]/page.tsx` não precisa ser editado para atualização mensal — o bloco de destaque é totalmente dados-driven.
