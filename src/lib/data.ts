@@ -21350,92 +21350,147 @@ export const reviews: Review[] = [
 
   // === ARTIGOS NOVOS ADICIONADOS EM LOTE ===
   {
-  id: 217,
-  slug: 'clube-dolce-gusto-como-funciona',
-  title: 'Clube Dolce Gusto: como acumular pontos e trocar prêmios (2026)',
-  type: 'Guia',
-  reviewKind: 'guia',
-  author: CECILIA_AUTHOR,
-  description: 'Guia completo sobre o Clube Dolce Gusto: como acumular pontos com códigos das caixas, cadastrar no site e trocar por prêmios na loja oficial.',
-  metaDescription: 'Saiba como funciona o Clube Dolce Gusto: acumule pontos com códigos das caixas e troque por prêmios na loja oficial. Guia completo 2026.',
-  publishedAt: 'Draft',
-  publishedAtISO: undefined,
-  draft: true,
-  image: '/images/reviews/dolcegusto/clube-dolce-gusto-como-funciona-hero.webp',
-  imageAlt: 'Ilustração do Clube de Recompensas Dolce Gusto mostrando acúmulo de pontos e troca de prêmios',
-  imageFit: 'cover',
-  pros: [],
-  cons: [],
-  contentSections: [
-    {
-      heading: 'O que é o Clube Dolce Gusto?',
-      paragraphs: [
-        'O Clube Dolce Gusto é o programa de fidelidade oficial da marca NESCAFÉ Dolce Gusto no Brasil. A proposta é simples: toda vez que você compra uma caixa de cápsulas compatíveis, ganha pontos que podem ser trocados por produtos, acessórios e outros benefícios exclusivos na Loja de Prêmios do site oficial. Para quem consome com regularidade, como fazemos aqui em casa, o programa funciona como um jeito prático de transformar a rotina do café em recompensas concretas ao longo do ano.',
-        'O funcionamento é baseado em códigos exclusivos que vêm dentro de cada caixa de cápsulas vendida no país. A cada caixa registrada, você recebe 100 pontos. Não importa se a compra foi feita no supermercado da esquina, em uma loja física de eletrodomésticos ou no próprio site oficial: se o produto tiver o código válido, ele conta para o seu saldo no Clube.'
-      ],
-      bullets: [],
+    id: 217,
+    slug: 'clube-dolce-gusto-como-funciona',
+    title: 'Clube Dolce Gusto: pontos e prêmios',
+    type: 'Guia',
+    reviewKind: 'guia',
+    author: CECILIA_AUTHOR,
+    description: 'Guia prático do Clube Dolce Gusto: como cadastrar códigos das caixas, acumular pontos, trocar prêmios e economizar com o cupom CECI.',
+    metaDescription: 'Clube Dolce Gusto: veja como cadastrar códigos das caixas, acumular pontos, trocar prêmios e usar o cupom CECI na loja oficial.',
+    publishedAt: '03 Jul 2026',
+    publishedAtISO: '2026-07-03',
+    draft: false,
+    isNew: true,
+    image: '/images/reviews/dolcegusto/clube-dolce-gusto-como-funciona-hero-v2.webp',
+    imageAlt: 'Celular com tela de programa de recompensas ao lado de café e cápsulas em uma mesa clara',
+    imageFit: 'cover',
+    pros: [],
+    cons: [],
+    contentSections: [
+      {
+        heading: 'Como funciona o Clube Dolce Gusto',
+        paragraphs: [
+          'O Clube Dolce Gusto é o programa de fidelidade oficial da NESCAFÉ® Dolce Gusto® no Brasil. A lógica é simples para quem consome café em cápsulas: ao comprar caixas de cápsulas originais, você acumula pontos cadastrando o código de 12 dígitos impresso no interior das embalagens da Geração 1 ou preparando cápsulas NEO via aplicativo. Depois, esses pontos podem ser trocados por novas cápsulas, acessórios e prêmios na loja do clube.',
+          'O cadastro no programa é gratuito para quem possui conta no e-commerce da marca. Na prática, em vez de jogar as caixas fora, vale criar o hábito de registrar os códigos para aproveitar melhor as compras que já fazem parte da rotina.',
+        ],
+        bullets: [
+          'Quem pode participar: residentes do Brasil com 18 anos ou mais, com limite de uma conta por CPF.',
+          'Como pontuar Geração 1: cadastrando os códigos alfanuméricos de 12 dígitos presentes no interior das embalagens.',
+          'Como pontuar NEO: extraindo cápsulas na máquina NEO pareada com o aplicativo oficial da Dolce Gusto.',
+          'Como economizar ainda mais: aplicar o cupom CECI (5% OFF) nas compras de cápsulas na loja oficial para potencializar a economia.',
+        ],
+        emphasis: 'Atenção às regras de validade: seus pontos expiram após 6 meses de inatividade na conta. Para mantê-los ativos, você precisa registrar pelo menos um código ou resgatar um prêmio dentro desse período.',
+      },
+      {
+        heading: 'O que é o Clube Dolce Gusto?',
+        paragraphs: [
+          'O Clube Dolce Gusto funciona como um programa de fidelidade e relacionamento direto entre a marca e o consumidor. O programa é direcionado a residentes do Brasil com 18 anos ou mais que possuam uma conta ativa no site oficial. Caso você já tenha feito alguma compra ou tenha cadastro na loja oficial da Dolce Gusto, a inscrição no programa de pontos é vinculada à sua conta.',
+          'Cada usuário pode ter apenas uma conta vinculada ao CPF para acumular pontos. A participação é gratuita, e o saldo começa a ser formado conforme os códigos e ações elegíveis são registrados.',
+        ],
+        links: [
+          { label: 'Acessar site oficial Dolce Gusto', href: 'https://www.nescafe-dolcegusto.com.br/' },
+        ],
+      },
+      {
+        heading: 'Como acumular pontos no Clube',
+        paragraphs: [
+          'O acúmulo de pontos foi desenhado de forma diferente para os sistemas de máquinas da marca, além de permitir bonificações por ações específicas realizadas no site oficial. Entenda as formas de pontuar:',
+        ],
+        bullets: [
+          'NESCAFÉ® Dolce Gusto® Geração 1: cada caixa de cápsulas oficial da linha padrão (de 10, 12 ou 16 cápsulas) vem com um código exclusivo de 12 dígitos impresso na parte interna da embalagem. Cada código válido cadastrado confere 100 pontos de fidelidade.',
+          'NESCAFÉ® Dolce Gusto® NEO: o acúmulo é automatizado pelo preparo. A cada cápsula NEO extraída no aplicativo NESCAFÉ® Dolce Gusto® com a máquina pareada, você ganha 10 pontos de fidelidade, totalizando 100 pontos por caixa de 10 unidades.',
+          'Cadastro da newsletter: assinar as novidades do e-commerce rende +100 pontos de boas-vindas.',
+          'Compras online: comprar cápsulas ou acessórios logado no site oficial garante +100 pontos adicionais no saldo da conta.',
+          'Assinatura de cápsulas: o primeiro pedido de assinatura garante um bônus especial de +1.000 pontos.',
+          'Combos especiais DGUSTA: adquirir uma caixa DGUSTA de 50 cápsulas rende +500 pontos, enquanto a DGUSTA de 100 cápsulas confere +1.000 pontos no extrato.',
+        ],
+        image: '/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp',
+        imageAlt: 'Caixas de cápsulas Dolce Gusto elegíveis para acumular pontos no Clube',
+        imageFit: 'cover',
+      },
+      {
+        heading: 'Onde e como trocar os pontos por prêmios',
+        paragraphs: [
+          'Você pode utilizar os pontos acumulados no Dolce Gusto Club de duas maneiras práticas no checkout:',
+          'Direto no carrinho de compras: você pode trocar seus pontos diretamente no carrinho por produtos NESCAFÉ® Dolce Gusto® durante uma compra comum no site oficial.',
+          'Na Loja de Prêmios oficial: para trocar por itens e prêmios de marcas parceiras ou acessórios de café, acesse a vitrine dedicada do Clube Dolce Gusto.',
+          'Atenção sobre a validade do saldo: os pontos permanecem ativos enquanto você mantiver a conta ativa. Caso a conta fique inativa por 6 meses consecutivos, sem registrar novos códigos de caixas e sem resgatar nenhum prêmio ou produto, todo o saldo acumulado será zerado.',
+        ],
+        image: '/images/reviews/dolcegusto/clube-dolce-gusto-resgate-pontos.webp',
+        imageAlt: 'Tela de resgate de pontos para troca por produtos ou prêmios no site oficial',
+        imageFit: 'contain',
+        links: [
+          { label: 'Acessar Loja de Prêmios', href: 'https://club.nescafe-dolcegusto.com.br/' },
+        ],
+      },
+      {
+        heading: 'Passo a passo para cadastrar seus códigos',
+        paragraphs: [
+          'Para cadastrar seus códigos alfanuméricos da Geração 1 e garantir seus pontos, siga o tutorial simples abaixo:',
+        ],
+        bullets: [
+          'Acesse a sua conta oficial no site da Dolce Gusto com seu login e senha.',
+          'Clique na aba lateral ou menu principal identificado como “Club”.',
+          'Selecione a opção de digitar código e preencha o código no campo “Insira seu Código”.',
+          'Confirme a validação e preste atenção a letras e números parecidos que geram erros comuns de digitação, como a letra O e o número 0.',
+          'No caso de cápsulas NEO, certifique-se de que a máquina NEO esteja pareada ao aplicativo no celular durante as extrações para que os pontos entrem de forma automática.',
+        ],
+        image: '/images/reviews/dolcegusto/clube-dolce-gusto-tutorial-cadastro.webp',
+        imageAlt: 'Tutorial e campo de inserção de código de 12 dígitos no site da Dolce Gusto',
+        imageFit: 'contain',
+      },
+      {
+        heading: 'Economize ainda mais usando o cupom CECI',
+        paragraphs: [
+          'A melhor tática para comprar cápsulas e maximizar seus benefícios é combinar os descontos imediatos com os pontos de fidelidade acumulados pós-compra. Na loja oficial da Dolce Gusto, você pode usar o cupom CECI para obter 5% de desconto direto em suas compras elegíveis.',
+          'Ao aplicar o cupom CECI no carrinho, você paga menos pelas caixas de cápsulas, ganha os pontos extras da compra online (+100 pontos) e depois ainda cadastra o código interno de cada caixa para receber mais 100 pontos por embalagem da Geração 1 ou por extrações NEO. A economia é contínua e inteligente.',
+        ],
+        image: '/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp',
+        imageAlt: 'Cecília tomando café em casa, representando a rotina de consumo Dolce Gusto',
+        imageCaption: 'Para quem compra cápsulas com frequência, cadastrar os códigos evita desperdiçar pontos que já vieram nas embalagens.',
+        imageFit: 'portrait',
+        bullets: [
+          'Aplique o cupom CECI na tela do carrinho antes de fechar o pedido.',
+          'Confirme que o abatimento de 5% foi refletido no valor total.',
+          'Ao receber a encomenda, abra as caixas e cadastre os códigos de 12 dígitos.',
+          'Acompanhe seu extrato e planeje a troca de prêmios antes do prazo de validade de 6 meses.',
+        ],
+      },
+      {
+        heading: 'Resumo: vale a pena participar?',
+        paragraphs: [
+          'A resposta é sim para quem já compra cápsulas Dolce Gusto com alguma frequência. O Clube Dolce Gusto é gratuito, simples de usar e recompensa um hábito de consumo que você já possui. Cadastrar o código de 12 dígitos leva poucos segundos e, a médio prazo, acumular esses pontos pode render produtos, acessórios ou vouchers úteis.',
+          'A dica prática é criar uma caixinha ou gaveta para guardar as embalagens abertas no dia a dia. Uma vez por mês, acesse o painel do clube, digite os códigos em sequência e mantenha o saldo sempre renovado para evitar expiração por inatividade.',
+        ],
+      },
+      {
+        heading: 'FAQ: dúvidas comuns sobre o Clube Dolce Gusto',
+        paragraphs: [
+          'Reunimos as principais dúvidas técnicas sobre o Dolce Gusto Club:',
+        ],
+        bullets: [
+          'Quem pode participar do programa? Residentes do Brasil com 18 anos ou mais que possuam conta no site oficial.',
+          'Como ganho pontos com as caixas de cápsulas? Caixas Geração 1 possuem código interno de 12 dígitos (100 pontos por caixa de 10, 12 ou 16 cápsulas). Caixas NEO acumulam 10 pontos por extração no aplicativo oficial.',
+          'Quanto tempo duram os meus pontos? Eles são válidos enquanto você registra códigos ou realiza trocas de prêmios pelo menos uma vez a cada 6 meses. Se a conta ficar inativa por 6 meses, o saldo total expira.',
+          'Não encontro ou não consigo ler o código na embalagem. O que fazer? Se a caixa for Geração 1 e o código estiver ausente ou ilegível, ligue para o SAC no 0800 776 2233 ou envie um formulário de contato com foto da caixa e a nota fiscal da compra para receber um código substituto.',
+          'Comprei cápsulas em outro país. Posso cadastrar os códigos? Não. O programa é territorial, e códigos de embalagens adquiridas fora do Brasil não são válidos para resgate de pontos na conta brasileira.',
+          'Meu código não é aceito no site. O que fazer? Verifique se não houve erro de digitação, como trocar a letra O pelo número 0, ou se o código já não foi inserido antes. Cada código só pode ser usado uma vez. Se o erro persistir, acione o suporte oficial.',
+        ],
+      },
+    ],
+    cta: {
+      text: 'Cadastre-se no Clube Dolce Gusto e aproveite o cupom CECI para economizar na loja oficial.',
+      label: 'Acessar loja oficial',
+      url: 'https://www.nescafe-dolcegusto.com.br/',
     },
-    {
-      heading: 'Como acumular pontos no Clube',
-      paragraphs: [
-        'A forma mais comum de acumular pontos é escaneando o código QR ou digitando o código de 12 dígitos que vem impresso nas caixas de cápsulas. Cada unidade com código válido credita exatamente 100 pontos na conta do participante. Isso significa que, se você compra duas ou três caixas por mês, consegue juntar uma quantidade significativa de pontos ao longo de um semestre.',
-        'Caixas compradas em qualquer canal de venda são válidas, desde que sejam produtos originais da linha NESCAFÉ Dolce Gusto comercializados no Brasil. Supermercados, atacados, lojas online e o próprio e-commerce oficial participam. A dica é guardar as caixas até registrar o código, pois, sem ele, não é possível fazer a pontuação retroativa.'
-      ],
-      bullets: [
-        'Cada caixa com código QR ou código de 12 dígitos vale 100 pontos.',
-        'Caixas compradas em supermercados, lojas físicas ou online também acumulam pontos.',
-        'O produto precisa ter o código válido para participar do programa.',
-        'Não é possível acumular pontos sem o código presente na embalagem.'
-      ],
-    },
-    {
-      heading: 'Onde e como trocar os pontos',
-      paragraphs: [
-        'As trocas acontecem exclusivamente na Loja de Prêmios do site oficial da NESCAFÉ Dolce Gusto. O catálogo costuma incluir itens como xícaras, porta-cápsulas, acessórios para máquinas e, em alguns momentos, produtos de parceiros. O processo é direto: com o saldo suficiente, basta escolher o prêmio desejado e confirmar a troca dentro da plataforma.',
-        'O importante é acompanhar o saldo de pontos com regularidade e ficar de olho nas atualizações do catálogo, já que os itens disponíveis podem mudar ao longo do ano. A entrega dos prêmios é feita em endereço cadastrado, geralmente em prazos similares aos de compras no e-commerce oficial.'
-      ],
-      bullets: [],
-    },
-    {
-      heading: 'Passo a passo para cadastrar seus códigos',
-      paragraphs: [
-        'Para começar a acumular pontos, é necessário criar uma conta no site oficial do Clube Dolce Gusto. O cadastro é gratuito e leva poucos minutos. Depois de confirmar o e-mail, você acessa a área de pontos e registra cada caixa de cápsulas que tiver em casa. O site aceita tanto a leitura do código QR quanto a digitação manual do código de 12 dígitos.',
-        'O ideal é registrar os códigos assim que abrir uma nova caixa, evitando perder a embalagem ou o comprovante antes de fazer a pontuação. Se você compra com frequência, manter uma rotina mensal de cadastro ajuda a não deixar pontos acumulados fora da conta.'
-      ],
-      bullets: [
-        'Acesse o site oficial e crie sua conta no Clube Dolce Gusto.',
-        'Confirme o cadastro pelo e-mail de ativação.',
-        'Entre na área de pontos e escolha entre escanear o QR Code ou digitar o código de 12 dígitos.',
-        'Repita o processo para cada nova caixa de cápsulas que comprar.'
-      ],
-    },
-    {
-      heading: 'Economize com o cupom CECI',
-      paragraphs: [
-        'Além de acumular pontos no Clube, você pode pagar menos nas compras de cápsulas e máquinas na loja oficial. A parceria com o Em Casa com Cecília garante 5% de desconto extra com o cupom CECI. A combinação de economia na compra e pontuação no programa de fidelidade é a estratégia mais eficiente para quem quer gastar menos sem abrir mão da qualidade do café em casa.',
-        'Para usar o cupom, basta inserir o código CECI no carrinho de compras do site oficial antes de finalizar o pedido. O desconto é aplicado automaticamente sobre o valor dos produtos elegíveis, e a compra ainda gera pontos para o Clube, já que os produtos vendidos no e-commerce oficial também contam.'
-      ],
-      bullets: [],
-    },
-    {
-      heading: 'Resumo: vale a pena participar?',
-      paragraphs: [
-        'Se você já consome cápsulas Dolce Gusto com frequência, participar do Clube é uma decisão praticamente automática. O esforço para cadastrar os códigos é mínimo, e o retorno vem na forma de prêmios e acessórios que complementam a experiência do café em casa. Associado ao cupom CECI, o programa torna o custo-benefício da rotina ainda mais interessante. A recomendação é manter o cadastro ativo, registrar os códigos sempre que abrir uma nova caixa e aproveitar as trocas na Loja de Prêmios sempre que o saldo permitir.'
-      ],
-      bullets: [],
-    },
-  ],
-  cta: {
-    text: 'Cadastre-se no Clube Dolce Gusto e aproveite o cupom CECI para economizar na loja oficial.',
-    label: 'Acessar loja oficial',
-    url: 'https://www.nescafe-dolcegusto.com.br/',
+    coupon: 'CECI',
+    editorialNote: 'Este artigo foi produzido em parceria comercial com a NESCAFÉ Dolce Gusto. O Em Casa com Cecília recebe comissão sobre compras feitas com o cupom CECI e por meio de links para o site oficial. O conteúdo é independente e baseado em informações públicas do programa de fidelidade.',
+    relatedArticles: [
+      { slug: 'cupom-ceci-nescafe-dolce-gusto-como-usar', title: 'Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto' },
+      { slug: 'promocao-dolce-gusto-55-caixas-mini-me-gratis', title: 'Dolce Gusto: 55 caixas, ganhe Mini Me' },
+    ],
   },
-  coupon: 'CECI',
-  editorialNote: 'Este artigo foi produzido em parceria comercial com a NESCAFÉ Dolce Gusto. O Em Casa com Cecília recebe comissão sobre compras feitas com o cupom CECI e por meio de links para o site oficial. O conteúdo é independente e baseado em informações públicas do programa de fidelidade.',
-  relatedArticles: [
-    { slug: 'cupom-ceci-nescafe-dolce-gusto-como-usar', title: 'Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto' },
-  ],
-},
 
 // Artigo 218: Melhores cápsulas Dolce Gusto (com quickNotes)
 {
@@ -22140,7 +22195,6 @@ export const reviews: Review[] = [
   publishedAt: '29 Jun 2026',
   publishedAtISO: '2026-06-29',
   draft: false,
-  isNew: true,
   image: '/images/reviews/dolcegusto/promocao-55-caixas-hero.webp',
   imageAlt: 'Arte da promoção Dolce Gusto com 55 caixas de cápsulas e máquina Mini Me grátis',
   imageFit: 'cover',
@@ -22238,7 +22292,7 @@ export const reviews: Review[] = [
   editorialNote: 'Este artigo de oportunidade menciona uma promoção temporária da NESCAFÉ Dolce Gusto. O cupom CECI é parte de uma parceria comercial com o Em Casa com Cecília. As regras da promoção são transcritas fielmente do site oficial, mas podem ser alteradas ou encerradas a qualquer momento.',
   relatedArticles: [
     { slug: 'cupom-ceci-nescafe-dolce-gusto-como-usar', title: 'Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto' },
-    { slug: 'clube-dolce-gusto-como-funciona', title: 'Clube Dolce Gusto: como acumular pontos e trocar prêmios (2026)' },
+    { slug: 'clube-dolce-gusto-como-funciona', title: 'Clube Dolce Gusto: pontos e prêmios' },
   ],
 },
 
