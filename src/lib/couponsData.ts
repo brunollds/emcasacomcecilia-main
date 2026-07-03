@@ -23,6 +23,11 @@ export interface Coupon {
   code: string;
   discount: string;
   discountNumber: number;
+  offerTypeLabel?: string;
+  offerTypeLabelPlural?: string;
+  offerActionLabel?: string;
+  codeFieldLabel?: string;
+  codeInstructions?: string[];
   category: string;
   shortDescription: string;
   longDescription: string;
@@ -231,57 +236,68 @@ export const COUPONS: Coupon[] = [
     code: 'CECILIA010',
     discount: '5% OFF',
     discountNumber: 5,
+    offerTypeLabel: 'código de recompensa',
+    offerTypeLabelPlural: 'códigos de recompensa',
+    offerActionLabel: 'somar 5% extras',
+    codeFieldLabel: 'Reward Code / Código de Recompensa',
+    codeInstructions: [
+      'Copie o código de recompensa CECILIA010 no card acima.',
+      'Acesse a YesStyle e adicione seus produtos ao carrinho.',
+      'No checkout, cole CECILIA010 no campo Reward Code / Código de Recompensa, não no campo de cupom.',
+      'Se houver um cupom promocional ativo da YesStyle, aplique esse cupom no campo Coupon Code / Código de Cupom.',
+      'Confira se o desconto do cupom e os 5% extras do CECILIA010 aparecem separados no resumo do pedido.',
+    ],
     category: 'Beleza, moda e lifestyle',
     shortDescription: 'beleza coreana, skincare, moda e lifestyle',
     longDescription:
-      'Código da Cecília para economizar em compras na YesStyle, incluindo produtos de beleza, skincare, moda e lifestyle.',
-    metaTitle: 'Cupom YesStyle 5% OFF • CECILIA010 ativo • Em Casa com Cecília',
+      'CECILIA010 é um código de recompensa da YesStyle, não um cupom tradicional: ele adiciona 5% extras no campo Reward Code e pode ser usado junto com cupons promocionais ativos.',
+    metaTitle: 'Código de recompensa YesStyle • CECILIA010 + cupons',
     metaDescription:
-      'Cupom YesStyle com 5% OFF. Use CECILIA010 para economizar em beleza coreana, skincare, moda e lifestyle.',
+      'CECILIA010 é código de recompensa YesStyle: use no campo Reward Code para somar 5% extras aos cupons ativos em K-beauty, skincare e moda.',
     eligibleCategories:
       'Beleza, skincare, moda, acessórios e lifestyle, conforme regras da loja',
-    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    validity: 'Código de recompensa ativo enquanto a parceria estiver vigente',
     reusable: 'Sim, conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política internacional da loja',
-    combinable: 'Pode variar conforme campanha ativa da YesStyle',
+    combinable: 'Sim: deve ser usado no campo Reward Code e pode somar aos cupons ativos aplicados no campo Coupon Code',
     lastVerified: '2026-07-02',
     aboutBrand:
-      'A YesStyle é uma loja internacional conhecida por produtos de beleza asiática, skincare, moda, acessórios e itens de lifestyle. O cupom CECILIA010 entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar em compras no site. Como regras de desconto, frete e aplicação podem variar por campanha, produto e país de entrega, a recomendação é sempre conferir o desconto aplicado no carrinho antes de finalizar a compra.',
+      'A YesStyle é uma loja internacional conhecida por produtos de beleza asiática, skincare, moda, acessórios e itens de lifestyle. O CECILIA010 entra como código de recompensa de influenciador para quem acompanha o Em Casa com Cecília e quer economizar no site. A diferença importante é que ele não substitui o cupom promocional da loja: deve ser aplicado no campo Reward Code para somar 5% extras aos cupons ativos inseridos no campo Coupon Code. Como regras de desconto, frete e aplicação podem variar por campanha, produto e país de entrega, confira sempre o resumo do carrinho antes de finalizar a compra.',
     faqs: [
       {
-        question: 'O cupom CECILIA010 funciona em todos os produtos da YesStyle?',
+        question: 'CECILIA010 é cupom ou código de recompensa da YesStyle?',
         answer:
-          'O código pode ser usado na YesStyle conforme as regras atuais da loja. Confirme se o desconto aparece no checkout antes de finalizar.',
+          'CECILIA010 é um código de recompensa (Reward Code) de influenciador. Ele deve ser colocado no campo Reward Code / Código de Recompensa, não no campo de cupom tradicional.',
       },
       {
-        question: 'O cupom CECILIA010 vale para skincare e beleza coreana?',
+        question: 'Posso usar CECILIA010 junto com um cupom YesStyle?',
         answer:
-          'Pode valer para skincare, beleza coreana e cosméticos conforme as condições comerciais da campanha ativa.',
+          'Sim. A principal vantagem é justamente somar: CECILIA010 vai no campo Reward Code e o cupom promocional ativo vai no campo Coupon Code. Confira os dois descontos no resumo do pedido.',
       },
       {
-        question: 'O cupom YesStyle dá frete grátis?',
+        question: 'O código de recompensa CECILIA010 vale para skincare e beleza coreana?',
         answer:
-          'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem as regras internacionais da YesStyle.',
+          'Pode valer para skincare, K-beauty, cosméticos, moda e lifestyle conforme as condições comerciais da YesStyle. O checkout sempre mostra se o benefício foi aplicado.',
       },
       {
-        question: 'O cupom CECILIA010 é cumulativo com outras promoções?',
+        question: 'CECILIA010 dá frete grátis?',
         answer:
-          'Pode variar conforme campanha vigente. O valor final exibido no carrinho é sempre a referência para saber se o cupom acumulou ou substituiu outra condição.',
+          'Não necessariamente. O código de recompensa adiciona benefício nos produtos elegíveis; frete, prazo e condições de entrega seguem as regras internacionais da YesStyle.',
       },
       {
-        question: 'Posso usar o cupom CECILIA010 mais de uma vez?',
+        question: 'Posso usar CECILIA010 mais de uma vez?',
         answer:
-          'A regra de reutilização depende da política da loja e da campanha vigente. Se houver limite por conta, CPF ou pedido, o checkout informa.',
+          'A regra de reutilização depende da política da YesStyle e do programa de recompensas vigente. Se houver limite por conta ou pedido, o checkout informa.',
       },
       {
-        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        question: 'Usar o código de recompensa apoia o Em Casa com Cecília?',
         answer:
-          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+          'Sim, o uso do CECILIA010 pode gerar comissão, crédito ou benefício de afiliado para o Em Casa com Cecília, sem custo extra para você.',
       },
     ],
     monthlyHighlight: {
       scope: 'na YesStyle',
-      note: 'Use no campo Reward Code e confira a aplicação no checkout',
+      note: 'Não é cupom tradicional: use no campo Reward Code para somar 5% extras aos cupons ativos',
     },
     status: 'ativo',
     featured: true,
