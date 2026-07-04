@@ -18743,7 +18743,7 @@ export const reviews: Review[] = [
   {
     id: 20,
     slug: 'codigo-cecilia010-yesstyle-como-usar',
-    title: 'YesStyle CECILIA010',
+    title: 'YesStyle CECILIA010: código de recompensa',
     type: 'Guia & Cupons',
     reviewKind: 'guia',
     description: 'Guia prático para usar o código de influenciador CECILIA010 na YesStyle. Descubra a diferença de outros cupons, aprenda a fazer o empilhamento de descontos (stacking) e confira dicas de K-Beauty e importação.',
@@ -18770,7 +18770,7 @@ export const reviews: Review[] = [
     ],
     contentSections: [
       {
-        heading: 'Resposta rápida: como funciona o código CECILIA010',
+        heading: 'Como funciona o código CECILIA010',
         paragraphs: [
           'Diferente do que acontece com cupons tradicionais (como o CECILIA12 na Damie ou o CECI na Dolce Gusto, que aplicam um desconto direto no carrinho), o código CECILIA010 na YesStyle funciona de maneira única como um "Reward Code" (Código de Recompensa).',
           'A grande sacada é que ele possui um campo exclusivo e separado no checkout. Isso significa que ele é 100% cumulativo: você pode usá-lo ao mesmo tempo com QUALQUER cupom ativo no site, somando o cupom com os 5% oferecidos por CECILIA010.'
@@ -18996,7 +18996,7 @@ export const reviews: Review[] = [
   {
     id: 21,
     slug: 'yesstyle-reward-code-coupon-cecilia010',
-    title: 'YesStyle CECILIA010',
+    title: 'YesStyle CECILIA010: Reward Code',
     type: 'Guia & Cupons',
     reviewKind: 'guia',
     description: 'Practical guide to using the YesStyle influencer reward code CECILIA010. Discover how it differs from regular coupons, learn how to stack discounts, and check K-beauty and customs tips.',
@@ -19024,7 +19024,7 @@ export const reviews: Review[] = [
     ],
     contentSections: [
       {
-        heading: 'Quick response: how the code CECILIA010 works',
+        heading: 'How the code CECILIA010 works',
         paragraphs: [
           'Unlike traditional coupon codes which apply a direct discount alone, the code CECILIA010 on YesStyle works as a "Reward Code" (influencer code).',
           'The main advantage is that it has a separate and dedicated field at checkout. This means it is stackable: you can use it at the same time with any active coupon code on the site, adding the 5% off offered by CECILIA010 to your savings.'
@@ -19227,7 +19227,7 @@ export const reviews: Review[] = [
   {
     id: 22,
     slug: 'codigo-de-recompensa-yesstyle-cupon-cecilia010',
-    title: 'YesStyle CECILIA010',
+    title: 'YesStyle CECILIA010: código de recompensa',
     type: 'Guia & Cupons',
     reviewKind: 'guia',
     description: 'Guía práctica para usar el código de influenciador CECILIA010 en YesStyle. Descubre la diferencia con otros cupones, aprende a acumular descuentos (stacking) y consulta consejos de K-beauty y aduanas.',
@@ -19255,7 +19255,7 @@ export const reviews: Review[] = [
     ],
     contentSections: [
       {
-        heading: 'Respuesta rápida: cómo funciona el código CECILIA010',
+        heading: 'Cómo funciona el código CECILIA010',
         paragraphs: [
           'A diferencia de los cupones tradicionales que aplican un descuento directo por sí solos, el código CECILIA010 en YesStyle funciona de manera exclusiva como un "Reward Code" (Código de Recompensa).',
           'La gran ventaja es que cuenta con un campo separado en el checkout. Esto significa que es acumulable: puedes usarlo al mismo tiempo con cualquier cupón activo en el sitio, sumando el descuento del cupón con el 5% extra de CECILIA010.'
@@ -19458,7 +19458,7 @@ export const reviews: Review[] = [
   {
     id: 23,
     slug: 'code-recompense-yesstyle-cecilia010',
-    title: 'YesStyle CECILIA010',
+    title: 'YesStyle CECILIA010 : code de récompense',
     type: 'Guide & Coupons',
     reviewKind: 'guia',
     description: 'Guide pratique pour utiliser le code d\'influenceur CECILIA010 sur YesStyle. Découvrez sa différence avec les coupons classiques, apprenez à cumuler les remises et profitez de conseils sur la K-beauty et la douane.',
@@ -19486,7 +19486,7 @@ export const reviews: Review[] = [
     ],
     contentSections: [
       {
-        heading: 'Réponse rapide : comment fonctionne le code CECILIA010',
+        heading: 'Comment fonctionne le code CECILIA010',
         paragraphs: [
           'Contrairement aux codes coupons traditionnels qui appliquent une remise directe de manière exclusive, le code CECILIA010 sur YesStyle fonctionne spécifiquement comme un "Reward Code" (Code de récompense).',
           'L\'avantage principal est qu\'il dispose d\'un champ dédié et séparé lors du paiement. CECILIA010 ajoute 5% supplémentaires lorsqu’il est saisi dans le champ Reward Code / Code de récompense. Cela signifie qu\'il est cumulable avec n\'importe quel code coupon actif du site.'
@@ -19690,7 +19690,7 @@ export const reviews: Review[] = [
   {
     id: 24,
     slug: 'yesstyle-reward-code-rabatt-cecilia010',
-    title: 'YesStyle CECILIA010',
+    title: 'YesStyle CECILIA010: Reward Code nutzen',
     type: 'Guide & Gutscheine',
     reviewKind: 'guia',
     description: 'Praktische Anleitung zur Nutzung des YesStyle Influencer-Codes CECILIA010. Erfahre den Unterschied zu normalen Gutscheinen, wie du Rabatte kombinierst (Stacking) und erhalte Tipps zu K-Beauty und Zoll.',
@@ -19718,7 +19718,7 @@ export const reviews: Review[] = [
     ],
     contentSections: [
       {
-        heading: 'Schnellantwort: So funktioniert der Code CECILIA010',
+        heading: 'So funktioniert der Code CECILIA010',
         paragraphs: [
           'Im Gegensatz zu herkömmlichen Gutscheincodes, die allein einen Rabatt im Warenkorb gewähren, funktioniert der Code CECILIA010 bei YesStyle auf eine besondere Weise als "Reward Code" (Belohnungscode).',
           'Der Hauptvorteil besteht darin, dass er ein separates Eingabefeld im Checkout hat. CECILIA010 bringt 5% extra, wenn der Code im Feld Reward Code / Belohnungscode eingegeben wird. Das bedeutet, dass er vollständig kombinierbar ist: Du kannst ihn gleichzeitig mit jedem aktiven Gutschein auf der Website nutzen.'
