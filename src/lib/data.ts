@@ -21726,11 +21726,11 @@ export const reviews: Review[] = [
   author: CECILIA_AUTHOR,
   description: 'Guia passo a passo para usar o cupom CECIEMCASA na I Wanna Sleep e garantir 10% de desconto em todo o site oficial.',
   metaDescription: 'Use o cupom CECIEMCASA na I Wanna Sleep e ganhe 10% OFF em todo o site. Passo a passo, regras e validação no checkout.',
-  publishedAt: 'Draft',
-  publishedAtISO: undefined,
-  draft: true,
+  publishedAt: '01 Jul 2026',
+  publishedAtISO: '2026-07-01',
+  draft: false,
   image: '/images/reviews/iwannasleep/cupom-ceciemcasa-hero.webp',
-  imageAlt: 'Cupom CECIEMCASA na I Wanna Sleep com 10% de desconto em produtos para sono',
+  imageAlt: 'Mulher comemorando com o travesseiro IWS Snow — cupom CECIEMCASA dá 10% de desconto na I Wanna Sleep',
   imageFit: 'cover',
   pros: [],
   cons: [],
@@ -21791,7 +21791,10 @@ export const reviews: Review[] = [
   },
   coupon: 'CECIEMCASA',
   editorialNote: 'O cupom CECIEMCASA é resultado de uma parceria comercial entre o Em Casa com Cecília e a I Wanna Sleep. Ao utilizá-lo, você apoia o projeto sem pagar nada a mais por isso. O desconto é válido conforme as regras da marca e pode ser alterado ou encerrado a qualquer momento.',
-  relatedArticles: [],
+  relatedArticles: [
+    { slug: 'i-wanna-sleep-e-confiavel', title: 'I Wanna Sleep é confiável? O que observar antes de comprar' },
+    { slug: 'i-wanna-sleep-travesseiro-snow-ficha-tecnica', title: 'Travesseiro IWS Snow: ficha técnica, preço e como comprar' },
+  ],
 },
 
 // Artigo 221: I Wanna Sleep é confiável?
@@ -21804,11 +21807,11 @@ export const reviews: Review[] = [
   author: CECILIA_AUTHOR,
   description: 'Análise dos dados públicos da I Wanna Sleep, incluindo CNPJ, endereço, políticas de entrega, trocas e formas de pagamento.',
   metaDescription: 'A I Wanna Sleep é confiável? Veja dados da empresa, políticas de entrega, trocas e o que observar antes de comprar no site oficial.',
-  publishedAt: 'Draft',
-  publishedAtISO: undefined,
-  draft: true,
+  publishedAt: '03 Jul 2026',
+  publishedAtISO: '2026-07-03',
+  draft: false,
   image: '/images/reviews/iwannasleep/confiabilidade-hero.webp',
-  imageAlt: 'Análise da confiabilidade da marca I Wanna Sleep e políticas de compra',
+  imageAlt: 'Pillow top da I Wanna Sleep ajustado sobre o colchão — análise de confiabilidade da marca',
   imageFit: 'cover',
   pros: [],
   cons: [],
@@ -21865,7 +21868,10 @@ export const reviews: Review[] = [
   },
   coupon: 'CECIEMCASA',
   editorialNote: 'Este artigo é de natureza editorial e analítica. A menção ao cupom CECIEMCASA decorre de uma parceria comercial entre o Em Casa com Cecília e a I Wanna Sleep. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca.',
-  relatedArticles: [],
+  relatedArticles: [
+    { slug: 'cupom-ceciemcasa-i-wanna-sleep-como-usar', title: 'Como usar o cupom CECIEMCASA na I Wanna Sleep (JULHO 2026)' },
+    { slug: 'i-wanna-sleep-travesseiro-snow-ficha-tecnica', title: 'Travesseiro IWS Snow: ficha técnica, preço e como comprar' },
+  ],
 },
 
 // Artigo 222: Travesseiro IWS Snow (ProductProfile)
@@ -21878,9 +21884,9 @@ export const reviews: Review[] = [
   author: CECILIA_AUTHOR,
   description: 'Ficha técnica do Travesseiro IWS Snow com preço atual, materiais, regulagem de altura e produtos relacionados da marca.',
   metaDescription: 'Veja a ficha técnica do Travesseiro IWS Snow: preço, materiais, regulagem de altura e como comprar com cupom CECIEMCASA.',
-  publishedAt: 'Draft',
-  publishedAtISO: undefined,
-  draft: true,
+  publishedAt: '05 Jul 2026',
+  publishedAtISO: '2026-07-05',
+  draft: false,
   image: '/images/reviews/iwannasleep/travesseiro-snow-hero.webp',
   imageAlt: 'Travesseiro IWS Snow com tecnologia de regulagem de altura e capa refrigerante',
   imageFit: 'cover',
@@ -21944,7 +21950,10 @@ export const reviews: Review[] = [
   },
   coupon: 'CECIEMCASA',
   editorialNote: 'Este artigo apresenta dados técnicos e de preço baseados em informações públicas do site oficial da I Wanna Sleep. Não foi realizada nenhuma avaliação pessoal do produto, pois o item ainda não foi recebido. O cupom CECIEMCASA é oferecido por meio de uma parceria comercial entre o Em Casa com Cecília e a marca.',
-  relatedArticles: [],
+  relatedArticles: [
+    { slug: 'cupom-ceciemcasa-i-wanna-sleep-como-usar', title: 'Como usar o cupom CECIEMCASA na I Wanna Sleep (JULHO 2026)' },
+    { slug: 'i-wanna-sleep-e-confiavel', title: 'I Wanna Sleep é confiável? O que observar antes de comprar' },
+  ],
 },
 
 // =============================================================================
@@ -21961,11 +21970,11 @@ export const reviews: Review[] = [
   author: CECILIA_AUTHOR,
   description: 'Guia rápido para usar o cupom CECI na Nestlé Nutre e garantir 5% de desconto. Veja passo a passo, regras e exceção dos produtos Alfamino e Alfaré.',
   metaDescription: 'Aproveite o cupom CECI na loja oficial Nestlé Nutre para ganhar 5% de desconto extra. Veja o passo a passo completo, regras de uso, validade e a exceção dos produtos Alfamino e Alfaré na compra online.',
-  publishedAt: 'Draft',
-  publishedAtISO: undefined,
-  draft: true,
+  publishedAt: '02 Jul 2026',
+  publishedAtISO: '2026-07-02',
+  draft: false,
   image: '/images/reviews/nutren/cupom-ceci-hero.webp',
-  imageAlt: 'Cupom CECI na loja oficial Nestlé Nutre',
+  imageAlt: 'Campanha da Nestlé Nutre com família — cupom CECI dá 5% de desconto na loja oficial',
   imageFit: 'cover',
   pros: [],
   cons: [],
@@ -22023,7 +22032,10 @@ export const reviews: Review[] = [
   },
   coupon: 'CECI',
   editorialNote: 'Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.',
-  relatedArticles: [],
+  relatedArticles: [
+    { slug: 'nestle-nutre-produtos-para-que-servem', title: 'Nestlé Nutre: produtos, para que servem e como comprar' },
+    { slug: 'nutren-senior-zero-lactose-ficha-tecnica', title: 'Nutren Senior Zero Lactose: ficha técnica, preço e como comprar' },
+  ],
 },
 
 // Artigo 224: Nestlé Nutre — produtos e para que servem
@@ -22036,9 +22048,9 @@ export const reviews: Review[] = [
   author: CECILIA_AUTHOR,
   description: 'Conheça a linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra, Fortify e Mulher. Veja para que serve cada produto e como comprar com cupom.',
   metaDescription: 'Conheça a linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra, Fortify e mais. Veja para que serve cada produto, preços aproximados, formas de uso e como comprar com o cupom CECI na loja oficial.',
-  publishedAt: 'Draft',
-  publishedAtISO: undefined,
-  draft: true,
+  publishedAt: '04 Jul 2026',
+  publishedAtISO: '2026-07-04',
+  draft: false,
   image: '/images/reviews/nutren/linha-produtos-hero.webp',
   imageAlt: 'Linha de produtos Nestlé Nutre',
   imageFit: 'cover',
@@ -22102,7 +22114,10 @@ export const reviews: Review[] = [
   },
   coupon: 'CECI',
   editorialNote: 'Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.',
-  relatedArticles: [],
+  relatedArticles: [
+    { slug: 'cupom-ceci-nestle-nutre-como-usar', title: 'Como usar o cupom CECI na Nestlé Nutre (JULHO 2026)' },
+    { slug: 'nutren-senior-zero-lactose-ficha-tecnica', title: 'Nutren Senior Zero Lactose: ficha técnica, preço e como comprar' },
+  ],
 },
 
 // Artigo 225: Nutren Senior Zero Lactose (ProductProfile)
@@ -22115,9 +22130,9 @@ export const reviews: Review[] = [
   author: CECILIA_AUTHOR,
   description: 'Ficha técnica do Nutren Senior Zero Lactose: nutrientes, preço aproximado e orientações de uso. Saiba como comprar com cupom CECI.',
   metaDescription: 'Veja a ficha técnica completa do Nutren Senior Zero Lactose: nutrientes, preço aproximado, modo de preparo, como usar, onde encontrar e como comprar com o cupom CECI na loja oficial Nestlé Nutre.',
-  publishedAt: 'Draft',
-  publishedAtISO: undefined,
-  draft: true,
+  publishedAt: '06 Jul 2026',
+  publishedAtISO: '2026-07-06',
+  draft: false,
   image: '/images/reviews/nutren/nutren-senior-hero.webp',
   imageAlt: 'Lata do Nutren Senior Zero Lactose',
   imageFit: 'cover',
@@ -22156,7 +22171,7 @@ export const reviews: Review[] = [
     {
       heading: 'Como preparar',
       paragraphs: [
-        'A recomendação de uso descrita no rótulo indica a diluição de 3 colheres de sopa rasas, equivalente a 27,5g do produto em pó, em aproximadamente 200ml de água morna ou fria. A ingestão sugerida é de duas porções ao dia, totalizando a quantidade indicada para o complemento nutricional diário. É importante seguir a proporção recomendada para garantir a concentração adequada de nutrientes por porção. O preparo deve ser feito em recipiente limpo e a bebida deve ser consumida imediatamente após a mistura. Em caso de dúvidas sobre a adequação do produto à rotina alimentar individual, recomenda-se consultar um profissional de saúde.'
+        'A recomendação de uso descrita pela marca indica a diluição de 3 colheres de sopa rasas, equivalente a 27,5g do produto em pó, em duas etapas: primeiro, misture o pó com uma pequena quantidade de água em temperatura ambiente (cerca de 50ml) até formar uma pasta cremosa; depois, adicione o restante da água (130ml) e mexa até a completa dissolução — totalizando aproximadamente 180ml de água por porção. A ingestão sugerida no rótulo é de duas porções ao dia. É importante seguir a proporção recomendada para garantir a concentração adequada de nutrientes por porção. O preparo deve ser feito em recipiente limpo e a bebida deve ser consumida logo após a mistura. Em caso de dúvidas sobre a adequação do produto à rotina alimentar individual, recomenda-se consultar um profissional de saúde.'
       ],
       bullets: [],
     },
@@ -22175,7 +22190,10 @@ export const reviews: Review[] = [
   },
   coupon: 'CECI',
   editorialNote: 'Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.',
-  relatedArticles: [],
+  relatedArticles: [
+    { slug: 'cupom-ceci-nestle-nutre-como-usar', title: 'Como usar o cupom CECI na Nestlé Nutre (JULHO 2026)' },
+    { slug: 'nestle-nutre-produtos-para-que-servem', title: 'Nestlé Nutre: produtos, para que servem e como comprar' },
+  ],
 },
 
 
