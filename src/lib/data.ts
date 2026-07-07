@@ -21738,7 +21738,7 @@ export const reviews: Review[] = [
     {
       heading: 'Resposta rápida',
       paragraphs: [
-        'O cupom de desconto ativo para a I Wanna Sleep é CECIEMCASA. Ele garante 10% de desconto em compras realizadas no site oficial da marca, válido para todo o catálogo de produtos. O código deve ser inserido no checkout, antes da finalização do pagamento, para que o valor seja recalculado automaticamente.'
+        'O cupom de desconto ativo para a I Wanna Sleep é CECIEMCASA. Ele garante 10% de desconto em compras realizadas no site oficial da marca, aplicado aos produtos elegíveis conforme as regras vigentes da campanha. O código deve ser inserido no checkout, antes da finalização do pagamento, para que o valor seja recalculado automaticamente — o próprio carrinho confirma se o desconto foi aplicado.'
       ],
       bullets: [],
     },
@@ -21764,7 +21764,7 @@ export const reviews: Review[] = [
         'Antes de finalizar a compra, é importante entender como o cupom funciona e quais são as limitações:'
       ],
       bullets: [
-        'O cupom CECIEMCASA oferece 10% de desconto e é válido em todo o site oficial da I Wanna Sleep.',
+        'O cupom CECIEMCASA oferece 10% de desconto nos produtos elegíveis do site oficial da I Wanna Sleep, conforme as regras vigentes no checkout.',
         'O desconto é aplicado sobre o valor dos produtos, não sobre o frete.',
         'O cupom pode não ser cumulativo com outras promoções automáticas do site; prevalece a condição mais vantajosa ou a política vigente da loja.',
         'O frete é calculado separadamente e varia conforme o local de entrega e o peso do pedido.',
@@ -21777,7 +21777,7 @@ export const reviews: Review[] = [
         'Dúvidas comuns sobre o uso do cupom CECIEMCASA na I Wanna Sleep:'
       ],
       bullets: [
-        'O cupom funciona em todos os produtos? Sim, o código é válido para todo o catálogo disponível no site oficial.',
+        'O cupom funciona em todos os produtos? O código é aceito no site oficial e cobre a maior parte do catálogo; a confirmação definitiva é o checkout, que mostra o desconto aplicado antes do pagamento.',
         'Posso usar o cupom mais de uma vez? Geralmente, o código pode ser utilizado em compras distintas, desde que a parceria esteja ativa. Consulte as condições no momento da compra.',
         'O desconto inclui frete? Não. O frete é calculado à parte e não entra na base de cálculo do desconto de 10%.',
         'E se o cupom não funcionar? Verifique se o código foi digitado corretamente (letras maiúsculas, sem espaços). Caso persista, entre em contato com o atendimento da I Wanna Sleep.'
@@ -21856,7 +21856,7 @@ export const reviews: Review[] = [
     {
       heading: 'Parceria e cupom de desconto',
       paragraphs: [
-        'O Em Casa com Cecília mantém uma parceria comercial ativa com a I Wanna Sleep. Por meio dessa parceria, os leitores podem utilizar o cupom CECIEMCASA para obter 10% de desconto em todo o site oficial. A utilização do cupom não altera o preço final para o consumidor — o desconto é concedido pela marca — e funciona como uma forma de apoiar o projeto editorial.'
+        'O Em Casa com Cecília mantém uma parceria comercial ativa com a I Wanna Sleep. Por meio dessa parceria, os leitores podem utilizar o cupom CECIEMCASA para obter 10% de desconto nos produtos elegíveis do site oficial, conforme as regras vigentes no checkout. A utilização do cupom não gera custo adicional para o leitor — o desconto é concedido pela marca — e funciona como uma forma de apoiar o projeto editorial.'
       ],
       bullets: [],
     },
@@ -21925,7 +21925,7 @@ export const reviews: Review[] = [
     {
       heading: 'Como comprar no site oficial',
       paragraphs: [
-        'A compra do Travesseiro IWS Snow deve ser realizada exclusivamente pelo site oficial da I Wanna Sleep (iwannasleep.com.br), garantindo a autenticidade do produto e o acesso às políticas de troca e devolução da marca. O site aceita pagamento via Pix e cartão de crédito, com opção de parcelamento. Após a confirmação do pagamento, o cliente recebe informações para rastreamento do pedido.'
+        'A compra do Travesseiro IWS Snow pode ser realizada pelo site oficial da I Wanna Sleep (iwannasleep.com.br) ou pelos demais canais oficiais da marca, como as lojas físicas listadas na seção "Nossas lojas" — garantindo a autenticidade do produto e o acesso às políticas de troca e devolução. No site, o pagamento pode ser feito via Pix e cartão de crédito, com opção de parcelamento, e o cupom CECIEMCASA é aplicado no checkout. Após a confirmação do pagamento, o cliente recebe informações para rastreamento do pedido.'
       ],
       bullets: [
         'Acesse iwannasleep.com.br e use a barra de busca ou o menu para localizar o Travesseiro IWS Snow.',
@@ -22074,7 +22074,7 @@ export const reviews: Review[] = [
     {
       heading: 'Nutren Control',
       paragraphs: [
-        'O Nutren Control é destinado ao controle dietético de pessoas com necessidades especiais no metabolismo de açúcares. A fórmula contém fibras e carboidratos de liberação lenta, com o objetivo de auxiliar na manutenção da glicemia ao longo do dia. O produto é comercializado em pó, com sabor baunilha, e na versão RTD de 200ml. O preço aproximado da versão em pó de 380g fica entre R$ 94 e R$ 112. Assim como os demais itens da linha, o Nutren Control deve ser utilizado conforme a indicação do rótulo e, quando necessário, com acompanhamento de profissional de saúde.'
+        'O Nutren Control é descrito pelo fabricante como um produto para o controle dietético de pessoas com necessidades especiais no metabolismo de açúcares. Segundo o rótulo, a fórmula contém fibras e carboidratos de liberação lenta. O produto é comercializado em pó, com sabor baunilha, e na versão RTD de 200ml. O preço aproximado da versão em pó de 380g fica entre R$ 94 e R$ 112. Por se tratar de produto com indicação dietética específica, a decisão de incluí-lo na rotina deve partir da orientação de um profissional de saúde, que pode avaliar se o perfil descrito no rótulo corresponde à necessidade individual.'
       ],
       bullets: [],
     },
