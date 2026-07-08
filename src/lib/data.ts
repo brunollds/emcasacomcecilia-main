@@ -21710,12 +21710,12 @@ export const reviews: Review[] = [
       heading: 'Veredito',
       paragraphs: [
         'Se você já sabe o que quer e está pronto para investir em noites de sono melhores, o processo é muito rápido. No checkout da I Wanna Sleep, digite o cupom CECIEMCASA, clique em aplicar e finalize a compra com 10% de desconto.',
-        'Caso ainda esteja pesquisando qual travesseiro comprar, recomendo ler a análise técnica do IWS Snow que preparamos para ajudar na sua escolha.'
+        'Caso ainda esteja pesquisando outros produtos da marca, recomendo conferir a ficha técnica do Cobertor IWS Igloo, que acabou de chegar aqui em casa, ou nossa análise sobre a confiabilidade da I Wanna Sleep.'
       ],
       links: [
         {
-          label: 'Ficha técnica: Travesseiro IWS Snow',
-          href: '/reviews/i-wanna-sleep-travesseiro-snow-ficha-tecnica'
+          label: 'Ficha técnica: Cobertor IWS Igloo',
+          href: '/reviews/i-wanna-sleep-cobertor-igloo-ficha-tecnica'
         },
         {
           label: 'Usar o cupom CECIEMCASA na I Wanna Sleep',
@@ -21733,7 +21733,7 @@ export const reviews: Review[] = [
   editorialNote: 'O cupom CECIEMCASA é fruto de uma parceria de afiliados oficial entre o Em Casa com Cecília e a I Wanna Sleep. Ao comprar por meio de nossas indicações, você ajuda a manter nosso trabalho editorial sem qualquer custo adicional. Os preços e cupons estão sujeitos a alterações pelas marcas parceiras.',
   relatedArticles: [
     { slug: 'i-wanna-sleep-e-confiavel', title: 'I Wanna Sleep é confiável? O que observar antes de comprar' },
-    { slug: 'i-wanna-sleep-travesseiro-snow-ficha-tecnica', title: 'Travesseiro IWS Snow: ficha técnica, preço e como comprar' },
+    { slug: 'i-wanna-sleep-cobertor-igloo-ficha-tecnica', title: 'Cobertor IWS Igloo: ficha técnica, preço e como comprar' },
   ],
 },
 
@@ -21929,11 +21929,11 @@ export const reviews: Review[] = [
   editorialNote: 'Este artigo é de natureza editorial e analítica. A menção ao cupom CECIEMCASA decorre de uma parceria comercial entre o Em Casa com Cecília e a I Wanna Sleep. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca.',
   relatedArticles: [
     { slug: 'cupom-ceciemcasa-i-wanna-sleep-como-usar', title: 'Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%' },
-    { slug: 'i-wanna-sleep-travesseiro-snow-ficha-tecnica', title: 'Travesseiro IWS Snow: ficha técnica, preço e como comprar' },
+    { slug: 'i-wanna-sleep-cobertor-igloo-ficha-tecnica', title: 'Cobertor IWS Igloo: ficha técnica, preço e como comprar' },
   ],
 },
 
-// Artigo 222: Travesseiro IWS Snow (ProductProfile)
+// Artigo 222: Travesseiro IWS Snow (ProductProfile) — ENGAVETADO, sem data definida
 {
   id: 222,
   slug: 'i-wanna-sleep-travesseiro-snow-ficha-tecnica',
@@ -21943,8 +21943,8 @@ export const reviews: Review[] = [
   author: CECILIA_AUTHOR,
   description: 'Ficha técnica do Travesseiro IWS Snow com preço atual, materiais, regulagem de altura e produtos relacionados da marca.',
   metaDescription: 'Veja a ficha técnica do Travesseiro IWS Snow: preço, materiais, regulagem de altura e como comprar com cupom CECIEMCASA.',
-  publishedAt: '11 Jul 2026',
-  publishedAtISO: '2026-07-11',
+  publishedAt: 'Draft',
+  publishedAtISO: undefined,
   draft: true,
   image: '/images/reviews/iwannasleep/travesseiro-snow-hero.webp',
   imageAlt: 'Travesseiro IWS Snow com tecnologia de regulagem de altura e capa refrigerante',
@@ -22009,6 +22009,93 @@ export const reviews: Review[] = [
   },
   coupon: 'CECIEMCASA',
   editorialNote: 'Este artigo apresenta dados técnicos e de preço baseados em informações públicas do site oficial da I Wanna Sleep. Não foi realizada nenhuma avaliação pessoal do produto, pois o item ainda não foi recebido. O cupom CECIEMCASA é oferecido por meio de uma parceria comercial entre o Em Casa com Cecília e a marca.',
+  relatedArticles: [
+    { slug: 'cupom-ceciemcasa-i-wanna-sleep-como-usar', title: 'Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%' },
+    { slug: 'i-wanna-sleep-e-confiavel', title: 'I Wanna Sleep é confiável? O que observar antes de comprar' },
+  ],
+},
+
+// Artigo 227: Cobertor IWS Igloo (ProductProfile — produto recebido, sem quickNote ainda)
+{
+  id: 227,
+  slug: 'i-wanna-sleep-cobertor-igloo-ficha-tecnica',
+  title: 'Cobertor IWS Igloo: ficha técnica, preço e como comprar',
+  type: 'Editorial',
+  reviewKind: 'editorial',
+  author: CECILIA_AUTHOR,
+  description: 'Ficha técnica do Cobertor IWS Igloo, o cobertor de dupla face (lado frio e lado quente) da I Wanna Sleep: tecnologias, materiais, tamanhos e preço atual.',
+  metaDescription: 'Veja a ficha técnica do Cobertor IWS Igloo: tecnologia dupla face, materiais, tamanhos disponíveis e como comprar com cupom CECIEMCASA.',
+  publishedAt: '11 Jul 2026',
+  publishedAtISO: '2026-07-11',
+  draft: true,
+  image: '/images/reviews/iwannasleep/cobertor-igloo-hero.webp',
+  imageAlt: 'Mãos tocando os dois lados do Cobertor IWS Igloo, um com toque frio e outro com toque quente',
+  imageFit: 'cover',
+  imageAspect: 'square',
+  pros: [],
+  cons: [],
+  contentSections: [
+    {
+      heading: 'O que é o Cobertor IWS Igloo',
+      paragraphs: [
+        'O Cobertor IWS Igloo é o item mais recente que recebemos aqui em casa da parceria com a I Wanna Sleep. A marca o descreve como o primeiro cobertor com dupla face térmica: um lado com toque frio, para quem esquenta durante a noite, e um lado com toque quente e aconchegante, para quem sente frio — bastando virar o cobertor para trocar de sensação.',
+        'A proposta é resolver um problema clássico de casal ou de mudança de estação: em vez de precisar de dois edredons diferentes, o Igloo tenta cobrir as duas necessidades em uma peça só. Como acabamos de receber o produto, este artigo traz a ficha técnica com base nos dados oficiais da marca — assim que tivermos mais noites de uso, atualizamos com impressões pessoais.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Ficha técnica e tecnologias',
+      paragraphs: [
+        'Segundo o site oficial, o Cobertor IWS Igloo reúne seis tecnologias próprias da marca:'
+      ],
+      bullets: [
+        'ICE-FEEL FIBER SYSTEM: fibras de poliamida no lado frio, que a marca descreve como capazes de dissipar o calor corporal a até 3°C abaixo da temperatura ambiente.',
+        'WARM-FEEL FIBER SYSTEM: fibras de poliéster no lado quente, projetadas para reter o calor corporal de forma controlada.',
+        'DUAL-FACE TECHNOLOGY: a possibilidade de virar o cobertor para alternar entre a sensação fria e a quente.',
+        'SILK-GLIDE SURFACE: acabamento de superfície com textura sedosa nos dois lados.',
+        'BALANCE SYSTEM: peso calibrado para dar sensação de aconchego sem abafar.',
+        'AIR-FLOW SYSTEM: sistema de respirabilidade para reduzir o acúmulo de calor sob o cobertor.'
+      ],
+    },
+    {
+      heading: 'Materiais e composição',
+      paragraphs: [
+        'O lado frio é composto por 90% poliamida e 10% elastano. O lado quente é composto por 92% poliéster e 8% elastano. Essa diferença de composição entre as duas faces é o que sustenta, segundo a marca, a diferença de sensação térmica entre elas.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Tamanhos disponíveis',
+      paragraphs: [
+        'O Cobertor IWS Igloo é vendido em dois tamanhos:'
+      ],
+      bullets: [
+        'Casal/Queen: 220 × 240 cm, com aproximadamente 2,06 kg.',
+        'King/Super King: 240 × 260 cm, com aproximadamente 2,4 kg.'
+      ],
+    },
+    {
+      heading: 'Preço e como comprar',
+      paragraphs: [
+        'No site oficial, o Cobertor IWS Igloo é vendido a partir de R$ 997,90, com preço original listado em R$ 1.099,00. Os valores podem variar conforme promoções e disponibilidade de estoque no momento da compra — por ser um lançamento mais recente da marca, vale conferir a disponibilidade no site antes de finalizar o pedido. No checkout, o cupom CECIEMCASA garante 10% de desconto adicional nos produtos elegíveis. A marca também oferece um teste de 30 noites: se o produto não agradar, é possível solicitar reembolso em crédito na loja.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Como lavar e cuidar do cobertor',
+      paragraphs: [
+        'As instruções de cuidado informadas pela marca recomendam lavagem a no máximo 30°C, à mão ou à máquina, sem uso de alvejante e sem passar a ferro. O produto também não deve ir à lavagem a seco. A secagem recomendada é natural, pendurado à sombra, sem uso de secadora.'
+      ],
+      bullets: [],
+    },
+  ],
+  cta: {
+    text: 'Veja o Cobertor IWS Igloo no site oficial e use o cupom CECIEMCASA',
+    label: 'Ver produto',
+    url: 'https://www.iwannasleep.com.br/products/cobertor-iws-igloo',
+  },
+  coupon: 'CECIEMCASA',
+  editorialNote: 'Este artigo apresenta dados técnicos e de preço baseados em informações públicas do site oficial da I Wanna Sleep. O produto foi recebido por meio da parceria entre o Em Casa com Cecília e a marca, mas ainda não passou por um período de uso suficiente para uma avaliação pessoal completa. O cupom CECIEMCASA é oferecido por meio dessa mesma parceria comercial.',
   relatedArticles: [
     { slug: 'cupom-ceciemcasa-i-wanna-sleep-como-usar', title: 'Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%' },
     { slug: 'i-wanna-sleep-e-confiavel', title: 'I Wanna Sleep é confiável? O que observar antes de comprar' },
