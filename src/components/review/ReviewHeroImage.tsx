@@ -13,6 +13,11 @@ export interface ReviewHeroImageProps {
   hasProductRating?: boolean;
   rating?: number;
   objectContain?: boolean;
+  video?: {
+    mp4: string;
+    webm?: string;
+    poster?: string;
+  };
 }
 
 function isMobile(): boolean {
@@ -38,9 +43,11 @@ export function ReviewHeroImage({
   hasProductRating = false,
   rating,
   objectContain = false,
+  video,
 }: ReviewHeroImageProps): React.ReactElement {
   const effectivePortrait = imageAspect === 'portrait' || (!imageAspect && isPortrait);
   const effectiveLandscape = imageAspect === 'landscape';
+  const effectiveSquare = imageAspect === 'square';
   const effectiveObjectContain = !imageAspect && objectContain;
   const wrapRef = useRef<HTMLDivElement>(null);
   const imgRef = useRef<HTMLDivElement>(null);
@@ -66,7 +73,7 @@ export function ReviewHeroImage({
 
       // Parallax vertical para hero landscape. Reduced motion mantém blur/opacidade,
       // mas remove deslocamento vertical.
-      if (!effectivePortrait && !effectiveLandscape && !prefersReduced) {
+      if (!effectivePortrait && !effectiveLandscape && !effectiveSquare && !prefersReduced) {
         const rect = wrapRef.current.getBoundingClientRect();
         if (rect.bottom > 0 && rect.top < viewportHeight) {
           const offset = rect.top * 0.25;
@@ -105,7 +112,7 @@ export function ReviewHeroImage({
       window.removeEventListener('scroll', onScroll);
       window.removeEventListener('resize', update);
     };
-  }, [effectivePortrait, effectiveLandscape]);
+  }, [effectivePortrait, effectiveLandscape, effectiveSquare]);
 
   return (
     <div
@@ -113,9 +120,11 @@ export function ReviewHeroImage({
       className={`group relative overflow-hidden rounded-2xl bg-white shadow-medium ${
         effectivePortrait
           ? 'mx-auto max-w-[320px] sm:max-w-[380px] md:max-w-[460px]'
-          : effectiveObjectContain
-            ? 'mx-auto max-w-[420px] md:max-w-[480px]'
-            : ''
+          : effectiveSquare
+            ? 'mx-auto max-w-[500px]'
+            : effectiveObjectContain
+              ? 'mx-auto max-w-[420px] md:max-w-[480px]'
+              : ''
       }`}
     >
       <div
@@ -123,36 +132,63 @@ export function ReviewHeroImage({
         className={`relative w-full will-change-transform transition-transform duration-75 ${
           effectivePortrait
             ? 'review-hero-portrait-zoom aspect-[9/16] max-h-[680px]'
-            : effectiveObjectContain
-              ? 'aspect-[4/5] max-h-[560px]'
-              : effectiveLandscape
-                ? 'aspect-[16/9]'
-                : 'aspect-[16/9]'
+            : effectiveSquare
+              ? 'aspect-square'
+              : effectiveObjectContain
+                ? 'aspect-[4/5] max-h-[560px]'
+                : effectiveLandscape
+                  ? 'aspect-[16/9]'
+                  : 'aspect-[16/9]'
         }`}
-        style={effectivePortrait || effectiveObjectContain || effectiveLandscape ? {} : { height: '120%', marginTop: '-10%' }}
+        style={effectivePortrait || effectiveObjectContain || effectiveLandscape || effectiveSquare ? {} : { height: '120%', marginTop: '-10%' }}
       >
-        <Image
-          src={src}
-          alt={alt}
-          fill
-          className={
-            effectivePortrait && imageFit === 'contain'
-              ? 'object-contain bg-white transition-transform duration-700 group-hover:scale-[1.02] md:p-2'
-              : effectivePortrait || effectiveLandscape
-                ? `object-cover ${POSITION_CLASSES[imagePosition] || 'object-center'} transition-transform duration-700 group-hover:scale-[1.03]`
-                : hasProductRating
-                  ? 'object-contain bg-white p-3 transition-transform duration-700 group-hover:scale-[1.02] md:p-5'
-                  : effectiveObjectContain
-                    ? 'object-contain bg-white p-2 transition-transform duration-700 group-hover:scale-[1.02] md:p-3'
-                    : 'object-cover transition-transform duration-700 group-hover:scale-[1.03]'
-          }
-          sizes={
-            isPortrait
-              ? '(max-width: 768px) 100vw, 672px'
-              : '(max-width: 1200px) 100vw, 1100px'
-          }
-          priority
-        />
+        {video ? (
+          <video
+            autoPlay
+            muted
+            loop
+            playsInline
+            poster={video.poster}
+            className={
+              (effectivePortrait || effectiveSquare) && imageFit === 'contain'
+                ? 'object-contain bg-white transition-transform duration-700 group-hover:scale-[1.02] md:p-2 w-full h-full'
+                : effectivePortrait || effectiveLandscape || effectiveSquare
+                  ? `object-cover ${POSITION_CLASSES[imagePosition] || 'object-center'} transition-transform duration-700 group-hover:scale-[1.03] w-full h-full`
+                  : hasProductRating
+                    ? 'object-contain bg-white p-3 transition-transform duration-700 group-hover:scale-[1.02] md:p-5 w-full h-full'
+                    : effectiveObjectContain
+                      ? 'object-contain bg-white p-2 transition-transform duration-700 group-hover:scale-[1.02] md:p-3 w-full h-full'
+                      : 'object-cover transition-transform duration-700 group-hover:scale-[1.03] w-full h-full'
+            }
+          >
+            {video.webm && <source src={video.webm} type="video/webm" />}
+            <source src={video.mp4} type="video/mp4" />
+            Seu navegador não suporta vídeos.
+          </video>
+        ) : (
+          <Image
+            src={src}
+            alt={alt}
+            fill
+            className={
+              (effectivePortrait || effectiveSquare) && imageFit === 'contain'
+                ? 'object-contain bg-white transition-transform duration-700 group-hover:scale-[1.02] md:p-2'
+                : effectivePortrait || effectiveLandscape || effectiveSquare
+                  ? `object-cover ${POSITION_CLASSES[imagePosition] || 'object-center'} transition-transform duration-700 group-hover:scale-[1.03]`
+                  : hasProductRating
+                    ? 'object-contain bg-white p-3 transition-transform duration-700 group-hover:scale-[1.02] md:p-5'
+                    : effectiveObjectContain
+                      ? 'object-contain bg-white p-2 transition-transform duration-700 group-hover:scale-[1.02] md:p-3'
+                      : 'object-cover transition-transform duration-700 group-hover:scale-[1.03]'
+            }
+            sizes={
+              isPortrait
+                ? '(max-width: 768px) 100vw, 672px'
+                : '(max-width: 1200px) 100vw, 1100px'
+            }
+            priority
+          />
+        )}
       </div>
       {hasProductRating && typeof rating === 'number' && (
         <figcaption className="sr-only">

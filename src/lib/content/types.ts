@@ -305,6 +305,11 @@ export interface Review {
   image?: string;
   imageAlt?: string;
   imageAspect?: 'landscape' | 'portrait' | 'square';
+  video?: {
+    mp4: string;
+    webm?: string;
+    poster?: string;
+  };
   imagePosition?: 'center' | 'top' | 'bottom' | 'left' | 'right';
   imageFit?: 'cover' | 'contain';
   coverImage?: Image;

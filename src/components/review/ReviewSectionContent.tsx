@@ -96,7 +96,7 @@ export function ReviewSectionContent({
               delay={0}
               distance={14}
             >
-              <DropCapParagraph text={paragraph} highlightTerms={['CECILIA12', 'CECI', 'CECILIA010']} />
+              <DropCapParagraph text={paragraph} highlightTerms={['CECILIA010', 'CECILIA12', 'CECIEMCASA', 'CECI']} />
             </EditorialReveal>
           );
         }

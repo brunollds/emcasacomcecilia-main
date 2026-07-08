@@ -191,6 +191,11 @@ export interface Review {
   image?: string;
   imageAlt?: string;
   imageAspect?: 'landscape' | 'portrait' | 'square';
+  video?: {
+    mp4: string;
+    webm?: string;
+    poster?: string;
+  };
   draft?: boolean;
   imagePosition?: 'center' | 'top' | 'bottom' | 'left' | 'right';
   imageFit?: 'cover' | 'contain';
@@ -21532,7 +21537,7 @@ export const reviews: Review[] = [
         'O Ristretto segue na mesma linha do Espresso Intenso, mas com um perfil ainda mais concentrado. A torra é mais marcada, e o resultado na xícara é um café curto, encorpado e com sabor persistente. Indicado para quem gosta de espresso italiano clássico e não tem medo de intensidade.'
       ],
       bullets: [
-        'Espresso Intenso: corpo médio, torra intensa, versátil para beber puro ou com leite.',
+'Espresso Intenso: corpo médio, torra intensa, versátil para beber puro ou com leite.',
         'Ristretto: mais concentrado, curto e encorpado, ideal para apreciadores de espresso forte.'
       ],
     },
@@ -21597,6 +21602,138 @@ export const reviews: Review[] = [
   editorialNote: 'Este guia foi produzido em parceria comercial com a NESCAFÉ Dolce Gusto. O Em Casa com Cecília recebe comissão sobre compras feitas com o cupom CECI e por meio de links para o site oficial. As descrições de sabor são baseadas em informações públicas da marca, e as quickNotes refletem experiências reais de consumo da nossa rotina doméstica.',
   relatedArticles: [
     { slug: 'cupom-ceci-nescafe-dolce-gusto-como-usar', title: 'Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto' },
+  ],
+},
+
+// Artigo 220: Cupom CECIEMCASA I Wanna Sleep
+{
+  id: 220,
+  slug: 'cupom-ceciemcasa-i-wanna-sleep-como-usar',
+  title: 'Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%',
+  type: 'Guia & Cupons',
+  reviewKind: 'guia',
+  author: CECILIA_AUTHOR,
+  description: 'Aprenda a usar o cupom CECIEMCASA no site oficial da I Wanna Sleep. Veja o passo a passo completo para garantir 10% de desconto em travesseiros, colchões e acessórios de sono.',
+  metaDescription: 'Use o cupom CECIEMCASA na I Wanna Sleep e ganhe 10% OFF em todo o site. Veja o passo a passo, regras e como validar o desconto de 10% no checkout.',
+  publishedAt: '07 Jul 2026',
+  publishedAtISO: '2026-07-07',
+  draft: false,
+  image: '/images/reviews/iwannasleep/cupom-ceciemcasa-hero.webp',
+  imageAlt: 'Cecília abrindo o pacote da I Wanna Sleep contendo produtos de sono confortáveis.',
+  imageFit: 'cover',
+  imageAspect: 'square',
+  video: {
+    mp4: '/images/reviews/iwannasleep/i-wanna-sleep-site-1.mp4',
+    webm: '/images/reviews/iwannasleep/i-wanna-sleep-site-1.webm',
+    poster: '/images/reviews/iwannasleep/i-wanna-sleep-site-1-poster.jpg',
+  },
+  pros: [
+    'Garante 10% de desconto real no site oficial da marca',
+    'Válido para quase todo o catálogo (travesseiros, colchões e acessórios)',
+    'Cupom verificado e ativo para a parceria oficial',
+    'Permite economizar em produtos premium como o Travesseiro IWS Snow',
+    'Sem necessidade de cadastros complexos para aplicar',
+  ],
+  cons: [
+    'O desconto não é aplicável sobre o valor do frete',
+    'Não cumulativo com alguns cupons ou campanhas específicas',
+  ],
+  contentSections: [
+    {
+      heading: 'Introdução',
+      paragraphs: [
+        'Cuidar do sono virou prioridade máxima por aqui, especialmente depois que o Ian nasceu. Quem acompanha nossa rotina nas redes sabe o quanto valorizo um quarto aconchegante e travesseiros que realmente apoiem o pescoço e a coluna de forma correta. Mas investir em marcas de sono de alto padrão gera dúvidas sobre onde comprar, como economizar e se os cupons realmente funcionam.',
+        'Por isso, criamos uma parceria com a I Wanna Sleep e temos o cupom exclusivo CECIEMCASA, que dá 10% de desconto em todo o site. Preparei este guia passo a passo simples para você ver exatamente onde inserir o código no checkout e confirmar que o desconto foi aplicado antes de pagar, evitando surpresas.'
+      ],
+    },
+    {
+      heading: 'Resposta rápida: como usar o cupom CECIEMCASA',
+      paragraphs: [
+        'Para quem tem pressa, o processo é super direto: o cupom ativo é o CECIEMCASA, que concede 10% de desconto no site oficial. Insira o código na tela de pagamento (checkout) e certifique-se de que o total foi recalculado antes de finalizar.'
+      ],
+      bullets: [
+        'Código do cupom: CECIEMCASA',
+        'Desconto: 10% OFF em todo o site oficial',
+        'Elegibilidade: Válido para travesseiros (como o IWS Snow), colchões, lençóis, sleepwear e acessórios',
+        'Onde aplicar: No carrinho/checkout do site oficial iwannasleep.com.br',
+      ],
+    },
+    {
+      heading: '1. Acesse o site oficial da I Wanna Sleep',
+      paragraphs: [
+        'O cupom só funciona no site oficial da marca (iwannasleep.com.br). Navegue pelas categorias e selecione os itens desejados. Seja o famoso Travesseiro IWS Snow, o Pillow Top ou os lençóis de bambu, escolha as medidas e modelos adequados antes de prosseguir. Mudar os itens depois de ir ao checkout pode limpar o cupom do carrinho.'
+      ],
+      image: '/images/reviews/iwannasleep/1-escolha-produto.webp',
+      imageAlt: 'Navegando no site oficial da I Wanna Sleep.',
+      imageCaption: 'Escolha os produtos e selecione as opções de tamanho ou cor.'
+    },
+    {
+      heading: '2. Revise seu carrinho de compras',
+      paragraphs: [
+        'Depois de adicionar tudo o que precisa, clique no ícone de sacola no canto superior direito para acessar seu carrinho. Revise as quantidades, tamanhos de travesseiro ou colchão para garantir que nada foi adicionado por engano.'
+      ],
+      image: '/images/reviews/iwannasleep/2-adicione-carrinho.webp',
+      imageAlt: 'Carrinho de compras no site da I Wanna Sleep.',
+      imageCaption: 'Confira os itens selecionados no carrinho antes de avançar para a finalização.'
+    },
+    {
+      heading: '3. Digite o cupom CECIEMCASA no checkout',
+      paragraphs: [
+        'Na tela de finalização de compra (checkout), logo ao lado dos campos de dados de pagamento ou resumo de valores, você encontrará um campo com o texto "Adicionar cupom de desconto" ou similar. Digite CECIEMCASA (tudo em letras maiúsculas, sem espaços) e clique no botão para aplicar.'
+      ],
+      image: '/images/reviews/iwannasleep/3-aplique-cupom.webp',
+      imageAlt: 'Inserindo o cupom CECIEMCASA no campo de desconto.',
+      imageCaption: 'Insira o cupom CECIEMCASA e clique em aplicar para ativar o desconto.'
+    },
+    {
+      heading: '4. Confirme o desconto no valor total',
+      paragraphs: [
+        'O passo mais importante é a validação visual. Veja o resumo do pedido: o valor do desconto de 10% deve estar discriminado separadamente e sobreatraído do valor dos produtos. Confirme que o valor total caiu antes de inserir seus dados de pagamento finais.'
+      ],
+      image: '/images/reviews/iwannasleep/4-confirme-desconto.webp',
+      imageAlt: 'Desconto do cupom CECIEMCASA aplicado na I Wanna Sleep.',
+      imageCaption: 'Confirme o desconto de 10% aplicado no resumo de valores antes do pagamento.'
+    },
+    {
+      heading: 'O que observar antes de comprar produtos de sono',
+      paragraphs: [
+        'Dormir bem é um investimento. Além de aproveitar os 10% de desconto com o cupom CECIEMCASA, recomendo atentar para estes detalhes:'
+      ],
+      bullets: [
+        'Altura ajustável: Se comprar o Travesseiro IWS Snow, lembre-se de que ele possui regulagem de altura por camadas. Faça testes nas primeiras noites para achar a altura perfeita para seu ombro.',
+        'Medidas exatas: Para pillow tops e lençóis, meça a altura e largura exatas do seu colchão (padrão Solteiro, Casal, Queen ou King).',
+        'Prazo de entrega: Itens maiores como colchões e poltronas ergonômicas podem demandar transporte específico. Verifique o prazo de frete no carrinho.',
+        'Política de devolução: A I Wanna Sleep oferece um ótimo suporte, mas leia as diretrizes de troca para produtos de contato pessoal caso tenha dúvidas.',
+      ],
+    },
+    {
+      heading: 'Veredito',
+      paragraphs: [
+        'Se você já sabe o que quer e está pronto para investir em noites de sono melhores, o processo é muito rápido. No checkout da I Wanna Sleep, digite o cupom CECIEMCASA, clique em aplicar e finalize a compra com 10% de desconto.',
+        'Caso ainda esteja pesquisando qual travesseiro comprar, recomendo ler a análise técnica do IWS Snow que preparamos para ajudar na sua escolha.'
+      ],
+      links: [
+        {
+          label: 'Ficha técnica: Travesseiro IWS Snow',
+          href: '/reviews/i-wanna-sleep-travesseiro-snow-ficha-tecnica'
+        },
+        {
+          label: 'Usar o cupom CECIEMCASA na I Wanna Sleep',
+          href: 'https://www.iwannasleep.com.br/'
+        }
+      ]
+    }
+  ],
+  cta: {
+    text: 'Aproveite o cupom CECIEMCASA e economize 10% na I Wanna Sleep',
+    label: 'Usar cupom no site',
+    url: 'https://www.iwannasleep.com.br/',
+  },
+  coupon: 'CECIEMCASA',
+  editorialNote: 'O cupom CECIEMCASA é fruto de uma parceria de afiliados oficial entre o Em Casa com Cecília e a I Wanna Sleep. Ao comprar por meio de nossas indicações, você ajuda a manter nosso trabalho editorial sem qualquer custo adicional. Os preços e cupons estão sujeitos a alterações pelas marcas parceiras.',
+  relatedArticles: [
+    { slug: 'i-wanna-sleep-e-confiavel', title: 'I Wanna Sleep é confiável? O que observar antes de comprar' },
+    { slug: 'i-wanna-sleep-travesseiro-snow-ficha-tecnica', title: 'Travesseiro IWS Snow: ficha técnica, preço e como comprar' },
   ],
 },
 
@@ -21717,85 +21854,7 @@ export const reviews: Review[] = [
 // =============================================================================
 
 // Artigo 220: Cupom CECIEMCASA I Wanna Sleep
-{
-  id: 220,
-  slug: 'cupom-ceciemcasa-i-wanna-sleep-como-usar',
-  title: 'Como usar o cupom CECIEMCASA na I Wanna Sleep (JULHO 2026)',
-  type: 'Guia',
-  reviewKind: 'guia',
-  author: CECILIA_AUTHOR,
-  description: 'Guia passo a passo para usar o cupom CECIEMCASA na I Wanna Sleep e garantir 10% de desconto em todo o site oficial.',
-  metaDescription: 'Use o cupom CECIEMCASA na I Wanna Sleep e ganhe 10% OFF em todo o site. Passo a passo, regras e validação no checkout.',
-  publishedAt: '07 Jul 2026',
-  publishedAtISO: '2026-07-07',
-  draft: false,
-  image: '/images/reviews/iwannasleep/cupom-ceciemcasa-hero.webp',
-  imageAlt: 'Mulher comemorando com o travesseiro IWS Snow — cupom CECIEMCASA dá 10% de desconto na I Wanna Sleep',
-  imageFit: 'cover',
-  pros: [],
-  cons: [],
-  contentSections: [
-    {
-      heading: 'Resposta rápida',
-      paragraphs: [
-        'O cupom de desconto ativo para a I Wanna Sleep é CECIEMCASA. Ele garante 10% de desconto em compras realizadas no site oficial da marca, aplicado aos produtos elegíveis conforme as regras vigentes da campanha. O código deve ser inserido no checkout, antes da finalização do pagamento, para que o valor seja recalculado automaticamente — o próprio carrinho confirma se o desconto foi aplicado.'
-      ],
-      bullets: [],
-    },
-    {
-      heading: 'Passo a passo: como usar o cupom CECIEMCASA',
-      paragraphs: [
-        'Aplicar o cupom no site da I Wanna Sleep é simples e leva poucos minutos. Siga os passos abaixo para garantir o desconto corretamente:'
-      ],
-      bullets: [
-        'Copie o código CECIEMCASA para a área de transferência.',
-        'Acesse o site oficial da I Wanna Sleep em iwannasleep.com.br.',
-        'Navegue pelo catálogo e escolha os produtos desejados (travesseiros, colchões, acessórios de sono, nutrição etc.).',
-        'Adicione os itens ao carrinho e clique em "Finalizar Compra".',
-        'No checkout, localize o campo "Cupom de Desconto" ou "Código Promocional".',
-        'Cole o código CECIEMCASA e clique em "Aplicar".',
-        'Verifique se o valor total da compra foi recalculado com 10% de desconto.',
-        'Prossiga com o preenchimento dos dados de entrega e pagamento.'
-      ],
-    },
-    {
-      heading: 'Regras e condições do cupom',
-      paragraphs: [
-        'Antes de finalizar a compra, é importante entender como o cupom funciona e quais são as limitações:'
-      ],
-      bullets: [
-        'O cupom CECIEMCASA oferece 10% de desconto nos produtos elegíveis do site oficial da I Wanna Sleep, conforme as regras vigentes no checkout.',
-        'O desconto é aplicado sobre o valor dos produtos, não sobre o frete.',
-        'O cupom pode não ser cumulativo com outras promoções automáticas do site; prevalece a condição mais vantajosa ou a política vigente da loja.',
-        'O frete é calculado separadamente e varia conforme o local de entrega e o peso do pedido.',
-        'A validade do cupom está atrelada à parceria comercial vigente; confirme sempre a aplicação no checkout antes de concluir o pagamento.'
-      ],
-    },
-    {
-      heading: 'Perguntas frequentes',
-      paragraphs: [
-        'Dúvidas comuns sobre o uso do cupom CECIEMCASA na I Wanna Sleep:'
-      ],
-      bullets: [
-        'O cupom funciona em todos os produtos? O código é aceito no site oficial e cobre a maior parte do catálogo; a confirmação definitiva é o checkout, que mostra o desconto aplicado antes do pagamento.',
-        'Posso usar o cupom mais de uma vez? Geralmente, o código pode ser utilizado em compras distintas, desde que a parceria esteja ativa. Consulte as condições no momento da compra.',
-        'O desconto inclui frete? Não. O frete é calculado à parte e não entra na base de cálculo do desconto de 10%.',
-        'E se o cupom não funcionar? Verifique se o código foi digitado corretamente (letras maiúsculas, sem espaços). Caso persista, entre em contato com o atendimento da I Wanna Sleep.'
-      ],
-    },
-  ],
-  cta: {
-    text: 'Aproveite o cupom CECIEMCASA e economize 10% na I Wanna Sleep',
-    label: 'Ir para a loja',
-    url: 'https://www.iwannasleep.com.br/',
-  },
-  coupon: 'CECIEMCASA',
-  editorialNote: 'O cupom CECIEMCASA é resultado de uma parceria comercial entre o Em Casa com Cecília e a I Wanna Sleep. Ao utilizá-lo, você apoia o projeto sem pagar nada a mais por isso. O desconto é válido conforme as regras da marca e pode ser alterado ou encerrado a qualquer momento.',
-  relatedArticles: [
-    { slug: 'i-wanna-sleep-e-confiavel', title: 'I Wanna Sleep é confiável? O que observar antes de comprar' },
-    { slug: 'i-wanna-sleep-travesseiro-snow-ficha-tecnica', title: 'Travesseiro IWS Snow: ficha técnica, preço e como comprar' },
-  ],
-},
+
 
 // Artigo 221: I Wanna Sleep é confiável?
 {
@@ -21869,7 +21928,7 @@ export const reviews: Review[] = [
   coupon: 'CECIEMCASA',
   editorialNote: 'Este artigo é de natureza editorial e analítica. A menção ao cupom CECIEMCASA decorre de uma parceria comercial entre o Em Casa com Cecília e a I Wanna Sleep. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca.',
   relatedArticles: [
-    { slug: 'cupom-ceciemcasa-i-wanna-sleep-como-usar', title: 'Como usar o cupom CECIEMCASA na I Wanna Sleep (JULHO 2026)' },
+    { slug: 'cupom-ceciemcasa-i-wanna-sleep-como-usar', title: 'Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%' },
     { slug: 'i-wanna-sleep-travesseiro-snow-ficha-tecnica', title: 'Travesseiro IWS Snow: ficha técnica, preço e como comprar' },
   ],
 },
@@ -21951,7 +22010,7 @@ export const reviews: Review[] = [
   coupon: 'CECIEMCASA',
   editorialNote: 'Este artigo apresenta dados técnicos e de preço baseados em informações públicas do site oficial da I Wanna Sleep. Não foi realizada nenhuma avaliação pessoal do produto, pois o item ainda não foi recebido. O cupom CECIEMCASA é oferecido por meio de uma parceria comercial entre o Em Casa com Cecília e a marca.',
   relatedArticles: [
-    { slug: 'cupom-ceciemcasa-i-wanna-sleep-como-usar', title: 'Como usar o cupom CECIEMCASA na I Wanna Sleep (JULHO 2026)' },
+    { slug: 'cupom-ceciemcasa-i-wanna-sleep-como-usar', title: 'Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%' },
     { slug: 'i-wanna-sleep-e-confiavel', title: 'I Wanna Sleep é confiável? O que observar antes de comprar' },
   ],
 },
