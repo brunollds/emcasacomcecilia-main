@@ -21366,7 +21366,6 @@ export const reviews: Review[] = [
     publishedAt: '03 Jul 2026',
     publishedAtISO: '2026-07-03',
     draft: false,
-    isNew: true,
     image: '/images/reviews/dolcegusto/clube-dolce-gusto-como-funciona-hero-v2.webp',
     imageAlt: 'Celular com tela de programa de recompensas ao lado de café e cápsulas em uma mesa clara',
     imageFit: 'cover',
@@ -21618,6 +21617,7 @@ export const reviews: Review[] = [
   publishedAt: '07 Jul 2026',
   publishedAtISO: '2026-07-07',
   draft: false,
+  isNew: true,
   image: '/images/reviews/iwannasleep/cupom-ceciemcasa-hero.webp',
   imageAlt: 'Cecília abrindo o pacote da I Wanna Sleep contendo produtos de sono confortáveis.',
   imageFit: 'cover',
@@ -21688,7 +21688,7 @@ export const reviews: Review[] = [
     {
       heading: '4. Confirme o desconto no valor total',
       paragraphs: [
-        'O passo mais importante é a validação visual. Veja o resumo do pedido: o valor do desconto de 10% deve estar discriminado separadamente e sobreatraído do valor dos produtos. Confirme que o valor total caiu antes de inserir seus dados de pagamento finais.'
+        'O passo mais importante é a validação visual. Veja o resumo do pedido: o valor do desconto de 10% deve estar discriminado separadamente e subtraído do valor dos produtos. Confirme que o valor total caiu antes de inserir seus dados de pagamento finais.'
       ],
       image: '/images/reviews/iwannasleep/4-confirme-desconto.webp',
       imageAlt: 'Desconto do cupom CECIEMCASA aplicado na I Wanna Sleep.',
