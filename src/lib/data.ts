@@ -20190,6 +20190,15 @@ export const reviews: Review[] = [
             href: 'https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_content=cupom-page'
           }
         ]
+      },
+      {
+        heading: 'Perguntas frequentes',
+        bullets: [
+          'O cupom CECILIA12 funciona em qual produto da Damie? Funciona em poltronas, sofás, camas, área externa e acessórios, conforme as condições ativas no momento da compra.',
+          'Onde eu aplico o cupom CECILIA12? No checkout do site oficial da Damie, no campo de cupom ou código promocional, antes de finalizar o pagamento.',
+          'Posso trocar o produto depois de aplicar o cupom? Trocar o modelo, tecido ou cor depois de aplicar o código pode resetar o checkout, exigindo digitar o cupom novamente.',
+          'Quanto tempo tenho para trocar ou devolver? A Damie oferece 30 dias para troca ou devolução, mas vale ler as condições completas antes da compra.'
+        ]
       }
     ]
   },
@@ -21710,17 +21719,22 @@ export const reviews: Review[] = [
       heading: 'Veredito',
       paragraphs: [
         'Se você já sabe o que quer e está pronto para investir em noites de sono melhores, o processo é muito rápido. No checkout da I Wanna Sleep, digite o cupom CECIEMCASA, clique em aplicar e finalize a compra com 10% de desconto.',
-        'Caso ainda esteja pesquisando outros produtos da marca, recomendo conferir a ficha técnica do Cobertor IWS Igloo, que acabou de chegar aqui em casa, ou nossa análise sobre a confiabilidade da I Wanna Sleep.'
+        'Caso ainda esteja em dúvida sobre a marca, em breve trago aqui outras análises e fichas técnicas dos produtos que já recebemos em casa.'
       ],
       links: [
-        {
-          label: 'Ficha técnica: Cobertor IWS Igloo',
-          href: '/reviews/i-wanna-sleep-cobertor-igloo-ficha-tecnica'
-        },
         {
           label: 'Usar o cupom CECIEMCASA na I Wanna Sleep',
           href: 'https://www.iwannasleep.com.br/'
         }
+      ]
+    },
+    {
+      heading: 'Perguntas frequentes',
+      bullets: [
+        'O cupom CECIEMCASA funciona em todos os produtos? O código é aceito no site oficial e cobre a maior parte do catálogo; a confirmação definitiva é o checkout, que mostra o desconto aplicado antes do pagamento.',
+        'Posso usar o cupom mais de uma vez? Geralmente, o código pode ser utilizado em compras distintas, desde que a parceria esteja ativa. Consulte as condições no momento da compra.',
+        'O desconto inclui frete? Não. O frete é calculado à parte e não entra na base de cálculo do desconto de 10%.',
+        'E se o cupom não funcionar? Verifique se o código foi digitado corretamente (letras maiúsculas, sem espaços). Caso persista, entre em contato com o atendimento da I Wanna Sleep.'
       ]
     }
   ],
@@ -21919,6 +21933,15 @@ export const reviews: Review[] = [
       ],
       bullets: [],
     },
+    {
+      heading: 'Perguntas frequentes',
+      bullets: [
+        'A I Wanna Sleep tem loja física ou é só online? A marca tem lojas físicas no Brasil além do site oficial, conforme a seção "Nossas lojas" disponível no site.',
+        'Qual o CNPJ da I Wanna Sleep? A empresa opera sob o CNPJ 43.783.630/0001-92, com endereço registrado em Belo Horizonte, Minas Gerais.',
+        'Como sei que estou no site oficial? Confirme se o domínio é iwannasleep.com.br antes de inserir dados de pagamento.',
+        'O cupom CECIEMCASA muda o preço final do produto? Não. O desconto é concedido pela marca e não representa custo adicional para quem compra.'
+      ],
+    },
   ],
   cta: {
     text: 'Conheça os produtos da I Wanna Sleep e aproveite o cupom CECIEMCASA',
@@ -22000,6 +22023,15 @@ export const reviews: Review[] = [
         'Para quem investe no Travesseiro IWS Snow, a marca oferece acessórios que podem prolongar a vida útil do produto ou complementar a experiência de sono. O Protetor de Travesseiro Protex Bamboo, por exemplo, é vendido a partir de R$ 127,90 e serve como barreira de proteção contra umidade e ácaros. A Máscara de Dormir Orb Sleep Mask, com preço de R$ 177,90, é uma opção para quem busca bloqueio de luz durante o descanso.'
       ],
       bullets: [],
+    },
+    {
+      heading: 'Perguntas frequentes',
+      bullets: [
+        'O Travesseiro IWS Snow tem regulagem de altura? Sim, o produto conta com tecnologia de regulagem de altura por camadas, permitindo ajustar a espessura conforme a necessidade.',
+        'Qual o preço do Travesseiro IWS Snow? A partir de R$ 367,90 no site oficial, com preço original de R$ 419,00 — valores sujeitos a alteração conforme promoções.',
+        'O cupom CECIEMCASA vale para o IWS Snow? Sim, o cupom garante 10% de desconto no valor do produto, aplicado no checkout do site oficial.',
+        'Onde comprar o Travesseiro IWS Snow com segurança? Pelo site oficial iwannasleep.com.br ou pelas lojas físicas listadas na seção "Nossas lojas" da marca.'
+      ],
     },
   ],
   cta: {
@@ -22087,6 +22119,15 @@ export const reviews: Review[] = [
         'As instruções de cuidado informadas pela marca recomendam lavagem a no máximo 30°C, à mão ou à máquina, sem uso de alvejante e sem passar a ferro. O produto também não deve ir à lavagem a seco. A secagem recomendada é natural, pendurado à sombra, sem uso de secadora.'
       ],
       bullets: [],
+    },
+    {
+      heading: 'Perguntas frequentes',
+      bullets: [
+        'Como funciona a dupla face do Cobertor IWS Igloo? Um lado usa fibras de poliamida com toque frio (ICE-FEEL FIBER SYSTEM) e o outro usa fibras de poliéster com toque quente (WARM-FEEL FIBER SYSTEM) — basta virar o cobertor para trocar de sensação.',
+        'Quais tamanhos existem? Casal/Queen (220×240cm, ~2,06kg) e King/Super King (240×260cm, ~2,4kg).',
+        'Como lavar o Cobertor IWS Igloo? A no máximo 30°C, à mão ou à máquina, sem alvejante, sem ferro e sem lavagem a seco — a secagem deve ser natural, à sombra.',
+        'O cupom CECIEMCASA vale para o Igloo? Sim, garante 10% de desconto adicional nos produtos elegíveis no checkout do site oficial.'
+      ],
     },
   ],
   cta: {
@@ -22309,6 +22350,15 @@ export const reviews: Review[] = [
       ],
       bullets: [],
     },
+    {
+      heading: 'Perguntas frequentes',
+      bullets: [
+        'Qual produto da linha Nutren é indicado para idosos? O Nutren Senior é voltado para adultos com 50 anos ou mais, com vitaminas, minerais e fibras.',
+        'Preciso de receita médica para comprar Nutren? Não, mas itens de nutrição clínica devem ser usados conforme o rótulo e, quando necessário, com orientação de profissional de saúde.',
+        'O cupom CECI funciona para toda a linha Nutren? Funciona para praticamente todos os produtos, exceto Alfamino e Alfaré, que ficam de fora da promoção.',
+        'Qual a diferença entre Nutren 2.0 e Nutren Ultra? O Nutren 2.0 é hipercalórico (2,0 kcal/mL) e indicado para nutrição clínica; o Nutren Ultra é uma bebida pronta rica em proteínas (20g por porção) para consumo do dia a dia.'
+      ],
+    },
   ],
   cta: {
     text: 'Compre no site oficial com cupom CECI',
@@ -22385,6 +22435,15 @@ export const reviews: Review[] = [
         'O Nutren Senior pode ser adquirido diretamente no site oficial da Nestlé Nutre, sem necessidade de receita médica. No entanto, como produto de nutrição especializada, deve ser utilizado conforme a indicação do rótulo e, quando necessário, com orientação de profissional de saúde. No checkout, é possível aplicar o cupom CECI para obter 5% de desconto sobre o valor do produto. O cupom não é válido para Alfamino e Alfaré, mas funciona normalmente para o Nutren Senior e demais itens da linha. O frete é calculado separadamente e o cupom não é cumulativo com outras promoções ativas no site. A parceria comercial que viabiliza o desconto é mantida de forma recorrente e revisada periodicamente.'
       ],
       bullets: [],
+    },
+    {
+      heading: 'Perguntas frequentes',
+      bullets: [
+        'Como preparar o Nutren Senior Zero Lactose? Dilua 3 colheres de sopa rasas (27,5g) em 50ml de água até formar uma pasta cremosa, depois complete com mais 130ml de água (~180ml no total).',
+        'O Nutren Senior tem lactose ou açúcar? Não. A fórmula é zero lactose, zero açúcar adicionado e sem glúten.',
+        'Qual o preço do Nutren Senior? A versão de 370g custa entre R$ 100 e R$ 110; a de 740g, entre R$ 188 e R$ 200 — valores aproximados, sujeitos a promoções.',
+        'O cupom CECI vale para o Nutren Senior? Sim, garante 5% de desconto no checkout do site oficial da Nestlé Nutre.'
+      ],
     },
   ],
   cta: {
