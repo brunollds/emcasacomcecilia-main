@@ -38,6 +38,10 @@ yarn-error.log*
 # .env.production é commitado intencionalmente — contém apenas NEXT_PUBLIC_* (IDs públicos)
 # .env.example é commitado intencionalmente como referência
 
+# Fase 2a deploy artifacts
+*.tar.gz
+**/.config/emcasa/
+
 # vercel
 .vercel
 
