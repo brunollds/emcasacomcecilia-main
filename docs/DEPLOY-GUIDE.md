@@ -127,8 +127,8 @@ Abrir `emcasacomcecilia.com` em janela anônima e confirmar:
 | `NODE_OPTIONS` | Limita o pool V8 no runtime da Hostinger (`--v8-pool-size=1`) para evitar falha de criação de threads |
 | `RESEND_API_KEY` | Envio de emails do formulário de contato |
 | `YOUTUBE_API_KEY` | Buscar vídeos recentes do canal (seção home) |
-| `YOUTUBE_CHANNEL_ID` | ID do canal YouTube (`UCy2fjgwhD9x20SBe1jtN5vQ`) |
-| `NEXT_PUBLIC_GA_MEASUREMENT_ID` | Google Analytics 4 (`G-LDLH63KJMP`) |
+| `YOUTUBE_CHANNEL_ID` | ID do canal YouTube |
+| `NEXT_PUBLIC_GA_MEASUREMENT_ID` | Google Analytics 4 |
 
 > **Nota:** `GA_POPULAR_RECIPES_ENABLED=true` deve ser adicionado **após 18/05/2026** (30 dias de dados no GA).
 

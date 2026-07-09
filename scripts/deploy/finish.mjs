@@ -1,5 +1,5 @@
 // Finaliza o deploy: reinjeta o .env, restart graceful, verifica. Fail-loud.
-// Uso: npm run deploy:finish   (rodar DEPOES do upload MCP chegar a state=completed)
+// Uso: npm run deploy:finish   (rodar DEPOIS do upload MCP chegar a state=completed)
 import { execFileSync, execSync } from 'node:child_process';
 import { writeFileSync, mkdtempSync } from 'node:fs';
 import { tmpdir } from 'node:os';
