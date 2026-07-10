@@ -18986,8 +18986,15 @@ export const reviews: Review[] = [
           'Posso devolver produtos? A política é limitada para compras internacionais. Produtos com defeito ou envio errado podem ser devolvidos. Produtos de K-beauty (skincare, maquiagem) geralmente não podem ser devolvidos por questões de higiene, a menos que estejam selados.',
           'O que é o Elite Club? Programa de fidelidade da YesStyle. Quanto mais você gasta, mais pontos acumula — Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.',
           'O site tem versão em português? Sim! No topo do site você pode selecionar o idioma para português.',
-          'O frete grátis funciona para todo o Brasil? Sim, em compras acima de US$ 59 com envio standard. Funciona para qualquer cidade, mas o prazo pode ser mais longo para regiões distantes.'
-        ]
+          'O frete grátis funciona para todo o Brasil? Sim, em compras acima de US$ 59 com envio standard. Funciona para qualquer cidade, mas o prazo pode ser mais longo para regiões distantes.',
+        
+          'Como rastrear meu pedido da YesStyle? Após a confirmação de envio, a YesStyle envia um e-mail com o código de rastreamento internacional. Você também pode acessar o histórico de pedidos logado na sua conta. O rastreamento funciona via serviços como 17track ou no próprio site da transportadora. O prazo de entrega padrão é de 15 a 30 dias úteis, podendo haver variações na alfândega brasileira.',
+          'O que fazer se meu pedido da YesStyle for retido na alfândega? Se o pedido for parado na Receita Federal, você pode ser notificado para pagar o Imposto de Importação (60% sobre o valor excedente a US$ 50). A YesStyle informa que, para pedidos elegíveis abaixo de US$ 1.000, é possível solicitar reembolso de impostos e taxas alfandegárias em forma de Crédito da Loja, mediante comprovante de pagamento e solicitação ao atendimento em até 30 dias.',
+          'As roupas da YesStyle usam tamanhos asiáticos. Como escolher o meu? Sim, a maioria das roupas segue a numeração asiática, que costuma ser menor que a brasileira. Sempre consulte a tabela de medidas disponível na página de cada produto (geralmente em centímetros) e compare com suas medidas corporais. Recomendamos pedir um ou dois tamanhos acima do habitual, especialmente em peças mais justas.',
+          'Quais são as marcas de K-beauty mais vendidas na YesStyle? A YesStyle é distribuidora autorizada de marcas consagradas como COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul e Haruharu. O site organiza os produtos por categorias como essências, tônicos, séruns e protetores solares, facilitando a busca por rotina de skincare coreana.',
+          'Posso cancelar ou alterar um pedido na YesStyle depois de confirmado? A YesStyle permite cancelar pedidos que ainda não foram enviados (status \'Processing\') diretamente pelo histórico de pedidos na sua conta. Após o envio, não é possível cancelar, mas você pode recusar a entrega quando chegar ao Brasil. Alterações de endereço ou produtos só são possíveis antes do envio, via atendimento ao cliente.',
+          'Cupom YesStyle primeira compra: como usar o CECILIA010? O código CECILIA010 funciona independentemente de ser sua primeira compra ou não. Basta inserir o código no campo Reward Code no checkout para garantir 5% de desconto extra, acumulável com cupons ativos do site.',
+          'YesStyle cupom influencer: o que é o CECILIA010? O CECILIA010 é um código de recompensa de influenciador registrado na YesStyle. Ele concede 5% de desconto extra no checkout e pode ser combinado com cupons promocionais ativos, diferente de códigos de primeira compra que geralmente não são cumulativos.']
       }
     ],
     cta: {
@@ -19217,8 +19224,15 @@ export const reviews: Review[] = [
           'Will I pay customs fees? It depends on your country\'s rules. YesStyle offers a refund policy in the form of store credit for eligible customs charges on orders under US$ 1,000, subject to claim guidelines.',
           'Are the products authentic? Yes, YesStyle is an authorized distributor of all brands in its catalog, sourcing directly from manufacturers.',
           'How do I pay? Payments can be made with international credit cards or PayPal. Currency conversion is handled automatically.',
-          'What is the Elite Club? YesStyle\'s loyalty program. Shopping helps you earn points to level up and get progressive discounts.'
-        ]
+          'What is the Elite Club? YesStyle\'s loyalty program. Shopping helps you earn points to level up and get progressive discounts.',
+        
+          'How do I track my YesStyle order after it ships? Once your order ships, YesStyle sends an international tracking number via email and displays it in your account order history. You can track parcels using 17track or the carrier\'s own website. Standard shipping usually takes 15–30 business days depending on your country, with possible customs delays.',
+          'What should I do if my YesStyle package is held by customs? If your local customs office holds the package, you may need to pay import duties or VAT. According to YesStyle\'s policy, eligible orders under US$ 1,000 may qualify for a store-credit refund of customs fees if you submit a valid receipt and claim via customer support within 30 days. Always check your country\'s import threshold before ordering.',
+          'Does YesStyle clothing run small? How do I choose the right Asian size? Yes, most YesStyle apparel follows Asian sizing, which tends to run smaller than US or European sizes. Each product page includes a size chart in centimeters. We recommend measuring yourself and comparing with the chart, and sizing up one or two sizes for a comfortable fit, especially for fitted styles.',
+          'Which K-beauty brands are bestsellers on YesStyle? YesStyle is an authorized distributor of popular K-beauty brands such as COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul, and Haruharu. The site categorizes products by skincare steps—essences, toners, serums, and sunscreens—making it easy to build a Korean skincare routine.',
+          'Can I cancel or change my YesStyle order after placing it? You can cancel orders that are still in \'Processing\' status directly from your order history. Once shipped, cancellation is not possible, but you may refuse delivery upon arrival. Address or item changes are only possible before shipping by contacting customer support promptly.',
+          'Does the CECILIA010 code work for first-time YesStyle buyers? Yes, CECILIA010 works regardless of whether it is your first order. Enter it in the Reward Code field at checkout for an extra 5% off, stackable with active site coupons.',
+          'Is CECILIA010 a YesStyle influencer coupon? CECILIA010 is a registered influencer reward code. It gives 5% extra off at checkout and stacks with active promo coupons, unlike first-purchase codes that are usually not cumulative.']
       }
     ],
     cta: {
@@ -19448,8 +19462,15 @@ export const reviews: Review[] = [
           '¿Tendré que pagar aduanas? Depende de tu país. YesStyle ofrece una política de reembolso en crédito de tienda para aranceles aduaneros admisibles en pedidos de menos de US$ 1.000.',
           '¿Los productos son originales? Sí, todos los productos son de procedencia directa de marcas y fabricantes autorizados.',
           '¿Cómo puedo pagar? Puedes pagar con tarjeta internacional o PayPal. La conversión de moneda se realiza de forma automática.',
-          '¿Qué es el Elite Club? Es el programa de fidelización de YesStyle. Comprar te ayuda a sumar puntos para subir de nivel y obtener descuentos fijos.'
-        ]
+          '¿Qué es el Elite Club? Es el programa de fidelización de YesStyle. Comprar te ayuda a sumar puntos para subir de nivel y obtener descuentos fijos.',
+        
+          '¿Cómo rastrear mi pedido de YesStyle después de que se envía? Una vez que tu pedido se envía, YesStyle te envía un número de rastreo internacional por correo electrónico y también lo muestra en el historial de pedidos de tu cuenta. Puedes rastrearlo en sitios como 17track o en la página de la transportadora. El envío estándar suele tardar entre 15 y 30 días hábiles, dependiendo de tu país y posibles demoras aduaneras.',
+          '¿Qué debo hacer si mi paquete de YesStyle queda retenido en aduana? Si la aduana de tu país retiene el paquete, es posible que debas pagar aranceles o impuestos de importación. Según la política de YesStyle, los pedidos elegibles por debajo de US$ 1.000 pueden calificar para un reembolso en crédito de tienda de los gastos aduaneros, si presentas el comprobante y envías la solicitud al servicio de atención en un plazo de 30 días. Verifica siempre el límite de importación de tu país antes de comprar.',
+          '¿La ropa de YesStyle es pequeña? ¿Cómo elegir la talla asiática correcta? Sí, la mayoría de la ropa de YesStyle sigue el tallaje asiático, que suele ser más pequeño que el tallaje europeo o americano. Cada página de producto incluye una tabla de medidas en centímetros. Te recomendamos tomarte las medidas y compararlas con la tabla, y pedir una o dos tallas más para un ajuste cómodo, especialmente en prendas ajustadas.',
+          '¿Cuáles son las marcas de K-beauty más vendidas en YesStyle? YesStyle es distribuidor autorizado de marcas populares de K-beauty como COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul y Haruharu. El sitio organiza los productos por categorías como esencias, tónicos, séruns y protectores solares, lo que facilita armar una rutina coreana de skincare.',
+          '¿Puedo cancelar o modificar mi pedido de YesStyle después de confirmarlo? Puedes cancelar pedidos que aún estén en estado \'Processing\' directamente desde tu historial de pedidos. Una vez enviado, no es posible cancelar, pero puedes rechazar la entrega cuando llegue. Los cambios de dirección o productos solo son posibles antes del envío, contactando rápidamente al servicio de atención al cliente.',
+          '¿Funciona el código CECILIA010 en la primera compra en YesStyle? Sí, el código CECILIA010 funciona independientemente de si es tu primera compra. Introdúcelo en el campo Reward Code en el checkout para obtener un 5% extra de descuento, acumulable con cupones activos del sitio.',
+          '¿Es CECILIA010 un cupón de influencer de YesStyle? CECILIA010 es un código de recompensa de influencer registrado. Otorga un 5% extra de descuento en el checkout y se acumula con cupones promocionales activos, a diferencia de los códigos de primera compra que generalmente no son acumulables.']
       }
     ],
     cta: {
@@ -19680,8 +19701,15 @@ export const reviews: Review[] = [
           'Dois-je payer des frais de douane ? Pour les commandes éligibles de moins de 150 €, la TVA peut être traitée via IOSS lorsque applicable. Vérifiez toujours le récapitulatif final et les règles locales. De plus, YesStyle propose une politique de remboursement des frais de douane en crédit de boutique pour les commandes de moins de US$ 1 000.',
           'Les produits sont-ils authentiques ? Oui, tout provient directement des marques et de distributeurs officiels.',
           'Quels sont les moyens de paiement ? Vous pouvez régler par carte internationale ou PayPal. La conversion monétaire est automatique.',
-          'Qu\'est-ce que l\'Elite Club ? C\'est le programme de fidélisation de YesStyle. Vos achats vous permettent de cumuler des points et d\'obtenir des remises exclusives.'
-        ]
+          'Qu\'est-ce que l\'Elite Club ? C\'est le programme de fidélisation de YesStyle. Vos achats vous permettent de cumuler des points et d\'obtenir des remises exclusives.',
+        
+          'Comment suivre ma commande YesStyle après l\'expédition? Une fois votre commande expédiée, YesStyle vous envoie un numéro de suivi international par e-mail et l\'affiche également dans l\'historique de vos commandes. Vous pouvez suivre votre colis sur 17track ou sur le site du transporteur. La livraison standard prend généralement de 15 à 30 jours ouvrables, selon votre pays et les éventuels retards douaniers.',
+          'Que faire si mon colis YesStyle est bloqué en douane? Si votre colis est retenu par la douane de votre pays, vous devrez peut-être payer des droits de douane ou la TVA. Selon la politique de YesStyle, les commandes éligibles inférieures à 1 000 $ US peuvent être remboursées sous forme de crédit magasin pour les frais douaniers, si vous soumettez un reçu valide et une demande au service client dans un délai de 30 jours. Vérifiez toujours le seuil d\'importation de votre pays avant de commander.',
+          'Les vêtements YesStyle sont-ils petits? Comment choisir la bonne taille asiatique? Oui, la plupart des vêtements YesStyle suivent le calibrage asiatique, qui tend à être plus petit que les tailles européennes ou américaines. Chaque page produit inclut un tableau des tailles en centimètres. Nous vous recommandons de prendre vos mesures et de les comparer au tableau, et de choisir une ou deux tailles au-dessus pour un ajustement confortable, notamment pour les styles ajustés.',
+          'Quelles marques K-beauty sont les plus vendues sur YesStyle? YesStyle est distributeur agréé de marques K-beauty populaires telles que COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul et Haruharu. Le site organise les produits par catégories — essences, toners, sérums, écrans solaires — ce qui facilite la construction d\'une routine de soins coréenne.',
+          'Puis-je annuler ou modifier ma commande YesStyle après l\'avoir confirmée? Vous pouvez annuler les commandes qui sont encore en statut \'Processing\' directement depuis votre historique de commandes. Une fois expédiée, l\'annulation n\'est plus possible, mais vous pouvez refuser la livraison à l\'arrivée. Les changements d\'adresse ou de produits ne sont possibles qu\'avant l\'expédition, en contactant rapidement le service client.',
+          'Le code CECILIA010 fonctionne-t-il pour la première commande YesStyle? Oui, CECILIA010 fonctionne indépendamment du nombre de commandes. Saisissez-le dans le champ Reward Code lors du paiement pour obtenir 5 % de remise supplémentaire, cumulable avec les coupons actifs du site.',
+          'CECIlia010 est-il un coupon influenceur YesStyle? CECILIA010 est un code de récompense influenceur enregistré. Il offre 5 % de remise supplémentaire au checkout et se cumule avec les coupons promotionnels actifs, contrairement aux codes de première commande qui ne sont généralement pas cumulables.']
       }
     ],
     cta: {
@@ -19911,8 +19939,15 @@ export const reviews: Review[] = [
           'Muss ich Zollgebühren zahlen? Bei geeigneten Bestellungen unter 150 € kann die MwSt. über IOSS abgewickelt werden, sofern anwendbar. Prüfe immer die finale Bestellübersicht und die lokalen Einfuhrregeln. Zudem bietet YesStyle eine Erstattung von berechtigten Zollgebühren als Guthaben für Bestellungen unter US$ 1.000.',
           'Sind die Produkte original? Ja, alle Produkte stammen direkt von den Marken und autorisierten Händlern.',
           'Wie kann ich bezahlen? Du kannst mit internationaler Kreditkarte oder PayPal bezahlen. Die Währungsumrechnung erfolgt automatisch.',
-          'Was ist der Elite Club? Das Treueprogramm von YesStyle. Durch Einkäufe sammelst du Punkte, um im Level aufzusteigen und dauerhafte Rabatte zu erhalten.'
-        ]
+          'Was ist der Elite Club? Das Treueprogramm von YesStyle. Durch Einkäufe sammelst du Punkte, um im Level aufzusteigen und dauerhafte Rabatte zu erhalten.',
+        
+          'Wie kann ich meine YesStyle-Bestellung nach dem Versand verfolgen? Sobald deine Bestellung versandt wurde, sendet YesStyle dir eine internationale Tracking-Nummer per E-Mail und zeigt sie auch im Bestellverlauf deines Kontos an. Du kannst das Paket über 17track oder die Website des Versanddienstleisters verfolgen. Die Standardlieferung dauert in der Regel 15 bis 30 Werktage, abhängig von deinem Land und möglichen Zollverzögerungen.',
+          'Was soll ich tun, wenn mein YesStyle-Paket beim Zoll hängt? Falls dein Paket vom Zoll deines Landes festgehalten wird, musst du möglicherweise Einfuhrabgaben oder Mehrwertsteuer zahlen. Laut der Richtlinie von YesStyle können berechtigte Bestellungen unter 1.000 $ US erstattet werden – als Shop-Guthaben für Zollgebühren, sofern du einen gültigen Beleg einreichst und den Antrag innerhalb von 30 Tagen beim Kundenservice stellst. Überprüfe vor der Bestellung immer die Einfuhrgrenze deines Landes.',
+          'Fallen YesStyle-Kleidungsstücke klein aus? Wie wähle ich die richtige asiatische Größe? Ja, die meisten YesStyle-Kleidungsstücke folgen der asiatischen Größenordnung, die tendenziell kleiner ausfällt als europäische oder amerikanische Größen. Jede Produktseite enthält eine Größentabelle in Zentimetern. Wir empfehlen, deine Maße zu nehmen und mit der Tabelle zu vergleichen, und eine oder zwei Größen größer zu wählen, besonders bei enganliegenden Styles.',
+          'Welche K-Beauty-Marken sind bei YesStyle die beliebtesten? YesStyle ist autorisierter Vertriebspopulärer K-Beauty-Marken wie COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul und Haruharu. Die Website organisiert Produkte nach Kategorien – Essenzen, Toner, Seren, Sonnenschutzmittel – was den Aufbau einer koreanischen Hautpflegeroutine erleichtert.',
+          'Kann ich meine YesStyle-Bestellung nach der Bestätigung stornieren oder ändern? Du kannst Bestellungen, die sich noch im Status \'Processing\' befinden, direkt über deinen Bestellverlauf stornieren. Nach dem Versand ist eine Stornierung nicht mehr möglich, aber du kannst die Lieferung bei Ankunft ablehnen. Adress- oder Produktänderungen sind nur vor dem Versand möglich, indem du den Kundenservice schnell kontaktierst.',
+          'Funktioniert der CECILIA010-Code für Erstkäufer bei YesStyle? Ja, CECILIA010 funktioniert unabhängig davon, ob es sich um die erste Bestellung handelt. Gib ihn im Reward-Code-Feld beim Checkout ein, um 5 % Extrarabatt zu erhalten, kombinierbar mit aktiven Gutscheinen der Website.',
+          'Ist CECILIA010 ein YesStyle-Influencer-Gutschein? CECILIA010 ist ein registrierter Influencer-Belohnungscode. Er gewährt 5 % Extrarabatt beim Checkout und ist mit aktiven Promo-Gutscheinen kombinierbar, im Gegensatz zu Erstkauf-Gutscheinen, die meist nicht kumulativ sind.']
       }
     ],
     cta: {
@@ -20048,7 +20083,14 @@ export const reviews: Review[] = [
           'A nota 8,0 da Damie é boa para o setor de móveis online? Sim. No setor de móveis e estofados vendidos pela internet, é comum encontrar marcas com notas na faixa de regular ou insuficiente no Reclame Aqui. A nota 8,0 com classificação Ótimo, resposta de 100% e tempo médio de resposta de 14 horas coloca a Damie acima da média do setor.',
           'A Damie resolve reclamações? Segundo os dados do Reclame Aqui de junho de 2026, a Damie responde 100% das reclamações e resolve 81,7% delas, com 70,9% dos consumidores afirmando que voltariam a fazer negócio com a marca.',
           'É possível desistir ou cancelar uma compra da Damie? Sim. Além dos 30 dias de teste garantidos por lei e pela própria política da empresa, a taxa de arrependimento, cancelamento ou desistência registrada no Reclame Aqui é praticamente nula. Isso indica que a maioria dos consumidores que compram pelo site ficam satisfeitos e não acionam a devolução.',
-        ],
+        
+          'A Damie é confiável para comprar sofá pela internet? Sim, com ressalvas de planejamento. A Damie possui nota 8,0/10 no Reclame Aqui, classificação \'Ótimo\', responde 100% das reclamações e resolve mais de 80% dos casos. O principal risco não é fraude, mas a logística de entrega: móveis grandes dependem de transportadoras terceirizadas e exigem que o cliente meça corredores e elevadores antes da compra.',
+          'Quanto tempo a Damie demora para entregar? O prazo varia conforme a região e o tipo de produto. Para capitais e regiões metropolitanas, a entrega costuma ocorrer em 7 a 15 dias úteis. Para cidades do interior, pode ultrapassar 20 dias úteis. A Damie trabalha com transportadora especializada e o rastreamento é enviado por e-mail após o despacho.',
+          'O que acontece se o sofá Damie chegar com defeito? A Damie oferece garantia de 1 ano contra defeitos de fabricação. Se o produto chegar avariado, fotografe a embalagem e o produto antes de abrir completamente, acione o suporte em até 7 dias e não descarte as caixas até a resolução. A empresa costuma enviar peça de reposição ou técnico para avaliação.',
+          'A Damie vende no Mercado Livre ou só no site oficial? A Damie opera principalmente pelo site oficial (damie.com.br), onde o cupom CECILIA12 é válido. O catálogo completo, as personalizações de tecido e as condições de garantia estão disponíveis apenas no site oficial. Recomendamos comprar direto pela loja para ter acesso ao suporte completo.',
+          'Como é a experiência de compra da Damie em comparação com outras marcas? A Damie se diferencia pela personalização de tecidos e mecanismos, pelo conceito modular e pela política de 30 dias de teste. Em comparação com marcas genéricas de marketplaces, o investimento é maior, mas o acabamento e a durabilidade tendem a superar produtos de entrada. Em comparação com lojas físicas, oferece mais opções de revestimento e a conveniência de entrega em casa, mas sem a possibilidade de sentir o sofá antes de comprar.',
+          'Cupom Damie 15: existe cupom de 15%? O CECILIA12 garante 12% de desconto sem limitação de data ou evento, enquanto cupons de 15% podem ser sazonais e limitados. Recomendamos sempre testar o CECILIA12 no checkout para comparar qual oferece o maior desconto naquele momento.',
+          'Cupom Damie primeira compra: o CECILIA12 funciona? Sim, o cupom CECILIA12 funciona para primeira compra e compras subsequentes no site oficial da Damie, sem limite de uso por CPF, desde que esteja dentro das condições vigentes.'],
       },
       {
         heading: 'Nota de transparência',
@@ -20197,8 +20239,15 @@ export const reviews: Review[] = [
           'O cupom CECILIA12 funciona em qual produto da Damie? Funciona em poltronas, sofás, camas, área externa e acessórios, conforme as condições ativas no momento da compra.',
           'Onde eu aplico o cupom CECILIA12? No checkout do site oficial da Damie, no campo de cupom ou código promocional, antes de finalizar o pagamento.',
           'Posso trocar o produto depois de aplicar o cupom? Trocar o modelo, tecido ou cor depois de aplicar o código pode resetar o checkout, exigindo digitar o cupom novamente.',
-          'Quanto tempo tenho para trocar ou devolver? A Damie oferece 30 dias para troca ou devolução, mas vale ler as condições completas antes da compra.'
-        ]
+          'Quanto tempo tenho para trocar ou devolver? A Damie oferece 30 dias para troca ou devolução, mas vale ler as condições completas antes da compra.',
+        
+          'O cupom CECILIA12 acumula com outras promoções do site? Não. O código CECILIA12 é um cupom de influenciador que concede 12% de desconto direto no checkout, mas geralmente não é cumulativo com outras campanhas ativas. O ideal é testar no carrinho: se houver promoção vigente, o sistema aplica automaticamente o maior desconto disponível. A Cecília sempre recomenda comparar antes de finalizar.',
+          'Posso usar o cupom CECILIA12 mais de uma vez? O cupom CECILIA12 é válido para múltiplas compras no site oficial, desde que esteja dentro das condições vigentes. Não há limite de uso por CPF, mas o desconto se aplica apenas ao valor do produto e não ao frete. Recomendamos confirmar o valor final no checkout antes de pagar.',
+          'O cupom CECILIA12 funciona para frete grátis? Não. O cupom CECILIA12 concede 12% de desconto sobre o valor do produto, mas não altera a política de frete. A empresa trabalha com transportadora especializada e o valor do envio é calculado no checkout conforme a região e o volume do pedido. O desconto é aplicado apenas sobre o subtotal dos produtos.',
+          'O que fazer se o cupom CECILIA12 não funcionar no checkout? Primeiro, verifique se digitou o código corretamente: CECILIA12, sem espaços, tudo em maiúsculo. Se o erro persistir, pode ser que o produto selecionado não esteja elegível naquele momento ou que o cupom tenha atingido um limite de uso. Nesses casos, entre em contato direto com o suporte da Damie pelo chat ou WhatsApp antes de concluir o pagamento.',
+          'Cupom Damie 15: existe cupom de 15%? O CECILIA12 garante 12% de desconto sem limitação de data ou evento, enquanto cupons de 15% podem ser sazonais e limitados. Recomendamos sempre testar o CECILIA12 no checkout para comparar qual oferece o maior desconto naquele momento.',
+          'Cupom Damie primeira compra: o CECILIA12 funciona? Sim, o cupom CECILIA12 funciona para primeira compra e compras subsequentes no site oficial da Damie, sem limite de uso por CPF, desde que esteja dentro das condições vigentes.',
+          'Cupom Damie 2026: o CECILIA12 ainda vale? Sim, o cupom CECILIA12 é mantido ativo pela parceria entre o blog Em Casa com Cecília e a Damie. Recomendamos sempre testar no checkout antes de finalizar para confirmar que ainda está vigente.']
       }
     ]
   },
@@ -21357,7 +21406,17 @@ export const reviews: Review[] = [
           'O desconto de 5% é sobre o frete também? Não. O cupom CECI aplica 5% OFF apenas sobre o valor dos produtos. O valor do frete é calculado separadamente e não entra na base de cálculo do desconto.',
           'O que acontece se o cupom não der certo? Se o código não for aplicado, verifique se: digitou corretamente como CECI; sua compra somou pelo menos R$ 100; você já não atingiu o limite de 3 usos no seu CPF; o produto não está em uma promoção exclusiva que bloqueie cupons.',
           'O cupom CECI é confiável? Sim. O cupom CECI é fruto de uma parceria oficial entre o blog Em Casa com Cecília e a NESCAFÉ DOLCE GUSTO. O código é legítimo e o desconto é garantido pelo site oficial da marca.',
-        ],
+        
+          'Qual o valor mínimo de compra para usar o cupom CECI? O cupom CECI exige uma compra mínima de R$ 100 em produtos para ser ativado. O desconto de 5% é aplicado sobre o valor dos produtos, não sobre o frete. Recomendamos verificar o valor final no checkout antes de confirmar o pagamento.',
+          'O cupom CECI acumula com pontos do Clube Dolce Gusto? Sim, o cupom CECI é aplicado no carrinho de compras e não interfere no programa de fidelidade. Você pode usar o cupom CECI para comprar cápsulas e, ao receber as caixas, cadastrar os códigos no Clube Dolce Gusto para acumular pontos normalmente.',
+          'O cupom CECI funciona para máquinas ou só para cápsulas? O cupom CECI é válido para todo o catálogo do site oficial: cápsulas de todos os sabores, cafeteiras automáticas e acessórios. A única regra é que o valor total dos produtos deve somar pelo menos R$ 100 para ativar o desconto.',
+          'Posso usar o cupom CECI em compras parceladas? Sim, o cupom CECI reduz o valor total dos produtos e o valor final pode ser parcelado no cartão de crédito conforme as condições disponíveis no checkout. O desconto incide sobre o valor base, reduzindo proporcionalmente o valor de cada parcela.',
+          'O que acontece se eu devolver um produto comprado com o cupom CECI? Se houver devolução ou cancelamento parcial, o reembolso será calculado sobre o valor efetivamente pago (já com o desconto de 5% aplicado). O cupom não é restituído para uma nova utilização, exceto se o cancelamento for integral e processado antes da fatura do cartão.',
+          'Cupom Dolce Gusto primeira compra: o CECI funciona? Sim, o cupom CECI funciona para primeira compra e demais compras no site oficial, desde que respeitado o limite de 3 usos por CPF e o valor mínimo de R$ 100 em produtos.',
+          'Cupom Dolce Gusto brinde: o CECI dá brinde? Não, o cupom CECI concede 5% de desconto direto no valor dos produtos. Brindes são campanhas pontuais da marca e não dependem do cupom de influenciador. O CECI funciona 24/7, independentemente de promoções sazonais.',
+          'Cupom frete grátis Dolce Gusto: o CECI inclui frete grátis? Não, o cupom CECI aplica 5% de desconto apenas sobre o valor dos produtos. O frete é calculado separadamente e pode haver promoções de frete grátis esporádicas, mas o cupom CECI não altera a política de envio.',
+          'Cupom Dolce Gusto cápsulas: o CECI vale para cápsulas? Sim, o cupom CECI é válido para todo o catálogo, incluindo cápsulas de todos os sabores, máquinas e acessórios, desde que o valor mínimo de R$ 100 em produtos seja atingido.',
+          'Cupom Dolce Gusto Instagram: existe cupom no Instagram? O cupom CECI é o código oficial de parceria do blog Em Casa com Cecília e é válido no site oficial da NESCAFÉ Dolce Gusto. Cupons de outros influenciadores no Instagram variam de 5% a 10% e podem exigir valor mínimo; o CECI é garantido e funciona 24/7.'],
       },
     ],
   },
@@ -21489,7 +21548,12 @@ export const reviews: Review[] = [
           'Não encontro ou não consigo ler o código na embalagem. O que fazer? Se a caixa for Geração 1 e o código estiver ausente ou ilegível, ligue para o SAC no 0800 776 2233 ou envie um formulário de contato com foto da caixa e a nota fiscal da compra para receber um código substituto.',
           'Comprei cápsulas em outro país. Posso cadastrar os códigos? Não. O programa é territorial, e códigos de embalagens adquiridas fora do Brasil não são válidos para resgate de pontos na conta brasileira.',
           'Meu código não é aceito no site. O que fazer? Verifique se não houve erro de digitação, como trocar a letra O pelo número 0, ou se o código já não foi inserido antes. Cada código só pode ser usado uma vez. Se o erro persistir, acione o suporte oficial.',
-        ],
+        
+          'Quanto custa o frete na Loja de Prêmios do Clube? O frete na Loja de Prêmios é calculado automaticamente no checkout conforme o CEP e peso do pedido. A Dolce Gusto eventualmente oferece campanhas de frete grátis para resgates, divulgadas por e-mail ou no site do clube. Para economizar, aguarde uma promoção ou acumule mais pontos para resgatar itens de maior valor, diluindo o custo do envio.',
+          'Posso transferir meus pontos para outra pessoa? Não. Os pontos do Clube Dolce Gusto são intransferíveis e vinculados exclusivamente ao CPF da conta que os acumulou. Cada usuário pode ter apenas uma conta por CPF. Se você comprou caixas para presente, quem usar as cápsulas precisará cadastrar os códigos na própria conta.',
+          'Quanto tempo demora para os pontos caírem na conta após cadastrar o código? Em geral, os pontos da Geração 1 são creditados instantaneamente após a validação do código no site. Para as cápsulas NEO, o acúmulo é automático pelo aplicativo, mas pode levar algumas horas até a sincronização completa. Se após 24 horas os pontos não aparecerem, verifique se a máquina NEO está pareada corretamente ou entre em contato com o SAC pelo 0800 776 2233.',
+          'Existe limite de pontos que posso acumular por mês? Não há limite máximo explícito de pontos por mês. No entanto, cada código de caixa Geração 1 pode ser cadastrado apenas uma vez, e o sistema identifica tentativas de uso duplicado. O limite prático é o número de caixas que você consome. Para o sistema NEO, os pontos são contabilizados por extração, então o volume de consumo define o acúmulo.',
+          'O que acontece com meus pontos se eu cancelar minha conta? Ao cancelar sua conta, todo o saldo de pontos acumulado é perdido e não pode ser recuperado. Recomenda-se resgatar todos os prêmios ou aplicar os pontos no carrinho antes de solicitar o encerramento. Se você pretende pausar o uso, mantenha a conta ativa cadastrando pelo menos um código a cada 6 meses para evitar a expiração por inatividade.'],
       },
     ],
     cta: {
@@ -21734,8 +21798,13 @@ export const reviews: Review[] = [
         'O cupom CECIEMCASA funciona em todos os produtos? O código é aceito no site oficial e cobre a maior parte do catálogo; a confirmação definitiva é o checkout, que mostra o desconto aplicado antes do pagamento.',
         'Posso usar o cupom mais de uma vez? Geralmente, o código pode ser utilizado em compras distintas, desde que a parceria esteja ativa. Consulte as condições no momento da compra.',
         'O desconto inclui frete? Não. O frete é calculado à parte e não entra na base de cálculo do desconto de 10%.',
-        'E se o cupom não funcionar? Verifique se o código foi digitado corretamente (letras maiúsculas, sem espaços). Caso persista, entre em contato com o atendimento da I Wanna Sleep.'
-      ]
+        'E se o cupom não funcionar? Verifique se o código foi digitado corretamente (letras maiúsculas, sem espaços). Caso persista, entre em contato com o atendimento da I Wanna Sleep.',
+      
+          'O cupom CECIEMCASA pode ser usado em compras com frete grátis? Sim, o cupom CECIEMCASA é aplicado sobre o valor dos produtos, enquanto o frete grátis é uma condição independente ativada por valor mínimo de compra ou promoções específicas. Quando ambas as regras se aplicam, você acumula o desconto do cupom e o frete grátis, pagando apenas o valor final dos itens.',
+          'O cupom CECIEMCASA expira em alguma data? O cupom é vinculado à parceria ativa entre o Em Casa com Cecília e a I Wanna Sleep. Não há uma data de expiração fixa divulgada, mas a marca pode alterar ou encerrar a promoção a qualquer momento. Recomendamos aplicar o código no checkout antes de finalizar para confirmar que ele ainda está ativo.',
+          'O cupom CECIEMCASA funciona para compras no aplicativo da IWS? O cupom CECIEMCASA é validado no checkout do site oficial (iwannasleep.com.br). Se a marca oferecer um aplicativo, o código deve funcionar da mesma forma, desde que a finalização ocorra dentro da plataforma oficial. A dica é sempre verificar se o desconto de 10% aparece no resumo do pedido antes de confirmar.',
+          'O cupom CECIEMCASA é cumulativo com outros descontos ou promoções sazonais? Não. O cupom geralmente não é cumulativo com outras campanhas promocionais, cupons de primeira compra ou descontos automáticos já aplicados. O sistema do checkout aplica apenas o maior desconto disponível, então insira o código para comparar e garantir que o valor de 10% OFF seja o mais vantajoso.',
+          'Posso usar o cupom CECIEMCASA em pedidos parcelados? Sim, o cupom reduz o valor total dos produtos e o valor final pode ser parcelado no cartão de crédito conforme as condições disponíveis no checkout (geralmente em até 6 vezes sem juros). O desconto incide sobre o valor base, reduzindo proporcionalmente o valor de cada parcela.']
     }
   ],
   cta: {
@@ -21939,8 +22008,13 @@ export const reviews: Review[] = [
         'A I Wanna Sleep tem loja física ou é só online? A marca tem lojas físicas no Brasil além do site oficial, conforme a seção "Nossas lojas" disponível no site.',
         'Qual o CNPJ da I Wanna Sleep? A empresa opera sob o CNPJ 43.783.630/0001-92, com endereço registrado em Belo Horizonte, Minas Gerais.',
         'Como sei que estou no site oficial? Confirme se o domínio é iwannasleep.com.br antes de inserir dados de pagamento.',
-        'O cupom CECIEMCASA muda o preço final do produto? Não. O desconto é concedido pela marca e não representa custo adicional para quem compra.'
-      ],
+        'O cupom CECIEMCASA muda o preço final do produto? Não. O desconto é concedido pela marca e não representa custo adicional para quem compra.',
+      
+          'A I Wanna Sleep entrega para todo o Brasil ou só em capitais? Sim, a I Wanna Sleep realiza entregas para todo o Brasil através de transportadoras parceiras. O prazo e o valor do frete são calculados no checkout de acordo com o CEP. Para regiões mais distantes ou áreas rurais, o prazo pode ser estendido e o valor ajustado. Sempre consulte o simulador de frete no carrinho antes de finalizar.',
+          'Os produtos da I Wanna Sleep têm garantia? Sim, a marca oferece garantia legal de 90 dias contra defeitos de fabricação, conforme o CDC. Além disso, produtos como colchões e travesseiros podem contar com garantias estendidas específicas da marca, cujos prazos e condições são informados na ficha técnica de cada item. Para o Cobertor Igloo, há teste de 30 noites com reembolso em crédito na loja caso não se adapte.',
+          'Como funciona a troca ou devolução na I Wanna Sleep? A I Wanna Sleep segue a política de arrependimento do CDC, permitindo a devolução em até 7 dias após o recebimento para produtos sem uso. Para itens com defeito, o prazo é de até 30 dias. Alguns produtos contam com teste de 30 noites, onde você pode solicitar reembolso em crédito na loja caso não se adapte. Sempre conserve a embalagem original e o comprovante de compra.',
+          'O pagamento no site da I Wanna Sleep é seguro? Sim, o site oficial utiliza criptografia SSL e processa os pagamentos através de gateways certificados (Pix e cartão de crédito). O domínio seguro começa com \'https://www.iwannasleep.com.br\' e não solicita dados sensíveis por e-mail ou WhatsApp. Se alguém entrar em contato cobrando pagamento fora do site, desconsidere e denuncie.',
+          'A I Wanna Sleep é uma empresa nova ou já tem histórico no mercado? A I Wanna Sleep é uma marca brasileira com CNPJ ativo desde 2021, sediada em Belo Horizonte, MG. Apesar de relativamente jovem, a marca investiu em estrutura omnichannel (lojas físicas + e-commerce), tecnologia própria (IWS Labs) e programa de influenciadores, sinais de crescimento consolidado e operação séria no setor de sleep tech.'],
     },
   ],
   cta: {
@@ -22030,8 +22104,13 @@ export const reviews: Review[] = [
         'O Travesseiro IWS Snow tem regulagem de altura? Sim, o produto conta com tecnologia de regulagem de altura por camadas, permitindo ajustar a espessura conforme a necessidade.',
         'Qual o preço do Travesseiro IWS Snow? A partir de R$ 367,90 no site oficial, com preço original de R$ 419,00 — valores sujeitos a alteração conforme promoções.',
         'O cupom CECIEMCASA vale para o IWS Snow? Sim, o cupom garante 10% de desconto no valor do produto, aplicado no checkout do site oficial.',
-        'Onde comprar o Travesseiro IWS Snow com segurança? Pelo site oficial iwannasleep.com.br ou pelas lojas físicas listadas na seção "Nossas lojas" da marca.'
-      ],
+        'Onde comprar o Travesseiro IWS Snow com segurança? Pelo site oficial iwannasleep.com.br ou pelas lojas físicas listadas na seção "Nossas lojas" da marca.',
+      
+          'O Travesseiro IWS Snow é bom para quem tem dor cervical? Sim, o IWS Snow foi projetado com regulagem de altura por camadas, permitindo ajustar o apoio cervical conforme a largura dos ombros e a posição de dormir. Para quem sente dor cervical, a capacidade de personalizar a altura ajuda a manter a coluna alinhada, reduzindo a tensão muscular. No entanto, quem tem condições médicas deve consultar um ortopedista ou fisioterapeuta antes de escolher.',
+          'Qual a diferença entre o Travesseiro IWS Snow e o IWS Airgelly 2.0? O IWS Snow tem foco em conforto térmico (sensação de frio) e regulagem de altura por camadas, sendo ideal para quem esquenta ao dormir. O IWS Airgelly 2.0 é a opção premium com tecnologia de gel para controle térmico avançado. O Snow é mais acessível (a partir de R$ 367,90), enquanto o Airgelly 2.0 custa a partir de R$ 497,90 e oferece performance térmica superior.',
+          'O Travesseiro IWS Snow é firme ou macio? O IWS Snow tem uma estrutura híbrida que combina camadas de diferentes densidades. O nível de firmeza pode ser ajustado pela remoção de camadas internas: com todas as camadas, ele fica mais alto e firme; removendo camadas, fica mais baixo e com sensação mais macia. Essa customização é o diferencial em relação aos travesseiros tradicionais.',
+          'O Travesseiro IWS Snow esquenta durante a noite? Não, pelo contrário: a tecnologia de dissipação térmica e a capa com textura refrigerante (ICE-FEEL) foram desenvolvidas para reduzir a sensação de calor. A marca descreve que o material ajuda a manter a superfície mais fresca em comparação com espumas convencionais, sendo uma boa opção para quem sofre com calor noturno ou suor excessivo.',
+          'Qual a altura ideal do IWS Snow para quem dorme de lado? Quem dorme de lado geralmente precisa de um travesseiro mais alto para manter a coluna cervical neutra. No IWS Snow, isso equivale a usar todas as camadas de regulagem, mantendo a espessura máxima. A recomendação é que a altura seja aproximadamente igual à distância entre o ombro e a base do pescoço, o que o modelo ajustável permite testar.'],
     },
   ],
   cta: {
@@ -22126,8 +22205,13 @@ export const reviews: Review[] = [
         'Como funciona a dupla face do Cobertor IWS Igloo? Um lado usa fibras de poliamida com toque frio (ICE-FEEL FIBER SYSTEM) e o outro usa fibras de poliéster com toque quente (WARM-FEEL FIBER SYSTEM) — basta virar o cobertor para trocar de sensação.',
         'Quais tamanhos existem? Casal/Queen (220×240cm, ~2,06kg) e King/Super King (240×260cm, ~2,4kg).',
         'Como lavar o Cobertor IWS Igloo? A no máximo 30°C, à mão ou à máquina, sem alvejante, sem ferro e sem lavagem a seco — a secagem deve ser natural, à sombra.',
-        'O cupom CECIEMCASA vale para o Igloo? Sim, garante 10% de desconto adicional nos produtos elegíveis no checkout do site oficial.'
-      ],
+        'O cupom CECIEMCASA vale para o Igloo? Sim, garante 10% de desconto adicional nos produtos elegíveis no checkout do site oficial.',
+      
+          'O Cobertor IWS Igloo é bom para usar no inverno ou só no verão? O Igloo é projetado para ser usado o ano todo graças à tecnologia Dual-Face. No verão ou para quem esquenta, o lado frio (ICE-FEEL FIBER SYSTEM) dissipa o calor corporal. No inverno ou para quem sente frio, o lado quente (WARM-FEEL FIBER SYSTEM) retém o calor de forma controlada. Isso elimina a necessidade de trocar de cobertor entre as estações, sendo uma solução prática para casais com temperaturas corporais diferentes.',
+          'O Cobertor IWS Igloo realmente funciona para casais com temperaturas diferentes? Sim, essa é uma das propostas principais do produto. Como o cobertor tem lado frio e lado quente, cada pessoa pode posicionar sua metade do corpo sobre a face que preferir. Além disso, o Balance System distribui o peso de forma uniforme, evitando que o cobertor se acumule de um lado só. A tecnologia Air-Flow também reduz a sensação de \'abafamento\' comum em cobertores tradicionais.',
+          'O Cobertor IWS Igloo é muito pesado ou aperta durante o sono? Não. O peso é calibrado pelo Balance System para dar sensação de aconchego (efeito casulo) sem causar pressão excessiva. A versão Casal/Queen pesa aproximadamente 2,06 kg e a King/Super King cerca de 2,4 kg — distribuídos em uma área grande, o que resulta em uma pressão leve e reconfortante, sem a sensação de esmagamento de cobertores muito pesados.',
+          'Posso usar o Cobertor IWS Igloo com lençol ou é melhor em contato direto com a pele? O fabricante recomenda usar o cobertor sobre o lençol, como cobertor final, para proteger as fibras tecnológicas das duas faces. No entanto, a superfície Silk-Glide é sedosa e confortável, então o uso direto sobre a pele não causa irritação. Para prolongar a vida útil e manter as propriedades térmicas intactas, a melhor prática é usar com lençol e lavar o Igloo apenas quando necessário.',
+          'O que acontece se eu não gostar do Cobertor IWS Igloo depois de comprar? A I Wanna Sleep oferece um teste de 30 noites para o Cobertor IWS Igloo. Se você não se adaptar ao produto dentro desse prazo, pode solicitar reembolso em crédito na loja. O cobertor deve estar em boas condições de uso, sem manchas ou danos. É importante ler os termos completos da política de teste no site oficial e guardar a embalagem original durante esse período.'],
     },
   ],
   cta: {
@@ -22265,8 +22349,19 @@ export const reviews: Review[] = [
         'O cupom CECI funciona para Nutren Senior? Sim, o cupom é válido para Nutren Senior, Nutren Control, Nutren 2.0, Nutren Ultra, Nutren Fortify, Nutren Mulher e demais produtos da linha, exceto Alfamino e Alfaré.',
         'O cupom pode ser usado mais de uma vez? A política de uso pode variar conforme as regras da loja no momento da compra. Recomenda-se verificar os termos no checkout.',
         'É necessário receita médica para comprar? Não é necessário receita médica para adquirir os produtos no site oficial, mas itens de nutrição clínica devem ser usados conforme indicação do rótulo e, quando necessário, com orientação de profissional de saúde.',
-        'O desconto inclui o frete? Não. O frete é calculado à parte e não entra na base de cálculo do desconto de 5%.'
-      ],
+        'O desconto inclui o frete? Não. O frete é calculado à parte e não entra na base de cálculo do desconto de 5%.',
+      
+          'Qual o valor mínimo de compra para usar o cupom CECI? Não há valor mínimo de compra para aplicar o cupom CECI. O desconto de 5% é válido sobre o valor dos produtos elegíveis no carrinho, independentemente do total da compra. O frete, no entanto, é calculado separadamente conforme a localização de entrega.',
+          'O cupom CECI dá frete grátis? Não. O cupom CECI concede 5% de desconto sobre o valor dos produtos, mas o frete é calculado de forma independente e não entra no cálculo do desconto. Recomenda-se verificar o valor do frete no checkout antes de finalizar o pedido.',
+          'Como saber se o cupom CECI foi aplicado corretamente? Após inserir o código CECI no campo de cupom no checkout, o sistema exibe o valor do desconto no resumo do pedido. Se o desconto de 5% não aparecer, verifique se o produto é elegível (Alfamino e Alfaré estão excluídos) e se não há outro cupom ativo, pois o CECI não é cumulativo.',
+          'O cupom CECI tem data de validade? O cupom CECI é mantido ativo por meio de uma parceria comercial revisada periodicamente. As regras e a validade podem ser ajustadas sem aviso prévio. Por isso, recomenda-se sempre conferir o valor final no checkout no momento da compra para garantir que o desconto ainda está vigente.',
+          'Posso usar o cupom CECI em compras recorrentes ou assinatura? O cupom CECI não é cumulativo com outras promoções ou códigos de desconto ativos no site. Recomenda-se verificar, no momento da compra, se a função de assinatura ou compra recorrente permite o uso de cupons de parceiros, pois as regras podem variar conforme a política vigente da loja.',
+          'Cupom Nestlé Nutren: onde encontrar? O cupom CECI é o código oficial de parceria do blog Em Casa com Cecília com a Nestlé Nutre. Ele garante 5% de desconto na maioria dos produtos da loja oficial e pode ser aplicado diretamente no campo de cupom no checkout.',
+          'Nutren desconto laboratório: há desconto para laboratórios? Não há desconto específico para laboratórios no site oficial da Nestlé Nutre. O cupom CECI é válido para compras de pessoa física e pode ser usado por profissionais de saúde em compras pessoais, mas não substitui contratos corporativos ou vendas diretas para instituições.',
+          'Nestlé meu desconto nutrição: existe programa de desconto? Não há programa de desconto exclusivo "meu desconto nutrição" no site oficial da Nestlé Nutre. O cupom CECI é o código oficial de parceria do blog Em Casa com Cecília e garante 5% de desconto na maioria dos produtos, sem necessidade de cadastro em programa de fidelidade.',
+          'Programa de desconto Nutren: como funciona? A Nestlé Nutre não opera um programa de fidelidade ou clube de descontos com pontos. O desconto é aplicado via cupom CECI diretamente no checkout, sem acúmulo de pontos ou necessidade de login recorrente.',
+          'Cupom Nestlé: o CECI vale para outros produtos Nestlé? Não. O cupom CECI é válido exclusivamente para produtos vendidos no site oficial da Nestlé Nutre (Nutren Senior, Control, 2.0, Ultra, Fortify, Mulher). Não funciona para produtos de outras marcas Nestlé como Nescafé, Kit Kat, Purina ou outros e-commerces.',
+          'Promo desconto Nutren Senior: existe promoção específica? O cupom CECI garante 5% de desconto em Nutren Senior e demais produtos da linha (exceto Alfamino e Alfaré). Promoções pontuais podem aparecer no site oficial, mas o CECI é garantido e funciona independentemente de campanhas sazonais.'],
     },
   ],
   cta: {
@@ -22356,8 +22451,18 @@ export const reviews: Review[] = [
         'Qual produto da linha Nutren é indicado para idosos? O Nutren Senior é voltado para adultos com 50 anos ou mais, com vitaminas, minerais e fibras.',
         'Preciso de receita médica para comprar Nutren? Não, mas itens de nutrição clínica devem ser usados conforme o rótulo e, quando necessário, com orientação de profissional de saúde.',
         'O cupom CECI funciona para toda a linha Nutren? Funciona para praticamente todos os produtos, exceto Alfamino e Alfaré, que ficam de fora da promoção.',
-        'Qual a diferença entre Nutren 2.0 e Nutren Ultra? O Nutren 2.0 é hipercalórico (2,0 kcal/mL) e indicado para nutrição clínica; o Nutren Ultra é uma bebida pronta rica em proteínas (20g por porção) para consumo do dia a dia.'
-      ],
+        'Qual a diferença entre Nutren 2.0 e Nutren Ultra? O Nutren 2.0 é hipercalórico (2,0 kcal/mL) e indicado para nutrição clínica; o Nutren Ultra é uma bebida pronta rica em proteínas (20g por porção) para consumo do dia a dia.',
+      
+          'Nutren 2.0 é para engordar? O Nutren 2.0 é uma fórmula hipercalórica (2,0 kcal/mL) indicada para situações que exigem alta oferta calórica em volumes restritos. Ele não é um \'engordante\', mas um suplemento de nutrição clínica para reposição energética intensa, e deve ser usado sob orientação de profissional de saúde.',
+          'Nutren Ultra pode substituir uma refeição? O Nutren Ultra é uma fórmula pronta para consumo, rica em proteínas (20g por porção) e 17 vitaminas e minerais. Ele complementa a alimentação, mas não substitui refeições completas. É ideal para quem precisa de praticidade e um boost proteico no dia a dia.',
+          'Nutren Mulher melhora a pele e o cabelo? O Nutren Mulher contém colágeno em sua formulação, nutriente associado à saúde da pele, unhas e cabelos. No entanto, ele é um complemento alimentar e não um medicamento cosmético. Os resultados variam de pessoa para pessoa e dependem da consistência de uso e da alimentação geral.',
+          'Cupom Nestlé Nutren: onde encontrar? O cupom CECI é o código oficial de parceria do blog Em Casa com Cecília com a Nestlé Nutre. Ele garante 5% de desconto na maioria dos produtos da loja oficial e pode ser aplicado diretamente no campo de cupom no checkout.',
+          'Nutren desconto laboratório: há desconto para laboratórios? Não há desconto específico para laboratórios no site oficial da Nestlé Nutre. O cupom CECI é válido para compras de pessoa física e pode ser usado por profissionais de saúde em compras pessoais, mas não substitui contratos corporativos ou vendas diretas para instituições.',
+          'Promo desconto Nutren Senior: existe promoção específica? O cupom CECI garante 5% de desconto em Nutren Senior e demais produtos da linha (exceto Alfamino e Alfaré). Promoções pontuais podem aparecer no site oficial, mas o CECI é garantido e funciona independentemente de campanhas sazonais.',
+          'Nestlé meu desconto nutrição: existe programa de desconto? Não há programa de desconto exclusivo "meu desconto nutrição" no site oficial da Nestlé Nutre. O cupom CECI é o código oficial de parceria e garante 5% de desconto na maioria dos produtos, sem necessidade de cadastro em programa de fidelidade.',
+          'Programa de desconto Nutren: como funciona? A Nestlé Nutre não opera um programa de fidelidade ou clube de descontos com pontos. O desconto é aplicado via cupom CECI diretamente no checkout, sem acúmulo de pontos ou necessidade de login recorrente.',
+          'Cupom Nestlé: o CECI vale para outros produtos Nestlé? Não. O cupom CECI é válido exclusivamente para produtos vendidos no site oficial da Nestlé Nutre. Não funciona para produtos de outras marcas Nestlé como Nescafé, Kit Kat, Purina ou outros e-commerces.',
+          'Onde comprar Nestlé Nutre com desconto? Os produtos Nestlé Nutre são vendidos exclusivamente no site oficial da marca. É possível aplicar o cupom CECI no checkout para garantir 5% de desconto na maioria dos produtos, exceto Alfamino e Alfaré. Não há necessidade de receita médica para a compra.'],
     },
   ],
   cta: {
@@ -22442,8 +22547,19 @@ export const reviews: Review[] = [
         'Como preparar o Nutren Senior Zero Lactose? Dilua 3 colheres de sopa rasas (27,5g) em 50ml de água até formar uma pasta cremosa, depois complete com mais 130ml de água (~180ml no total).',
         'O Nutren Senior tem lactose ou açúcar? Não. A fórmula é zero lactose, zero açúcar adicionado e sem glúten.',
         'Qual o preço do Nutren Senior? A versão de 370g custa entre R$ 100 e R$ 110; a de 740g, entre R$ 188 e R$ 200 — valores aproximados, sujeitos a promoções.',
-        'O cupom CECI vale para o Nutren Senior? Sim, garante 5% de desconto no checkout do site oficial da Nestlé Nutre.'
-      ],
+        'O cupom CECI vale para o Nutren Senior? Sim, garante 5% de desconto no checkout do site oficial da Nestlé Nutre.',
+      
+          'Nutren Senior Zero Lactose engorda? O Nutren Senior é um composto lácteo enriquecido com vitaminas, minerais e fibras, desenvolvido para complementar a nutrição de adultos 50+. Ele não é um produto para ganho de peso, mas pode contribuir para a manutenção do peso adequado quando usado como parte de uma dieta equilibrada. Quem busca ganho de peso deve consultar um nutricionista.',
+          'Quem tem diabetes pode tomar Nutren Senior Zero Lactose? O Nutren Senior Zero Lactose não contém açúcar adicionado, mas possui carboidratos naturais do leite. Pessoas com diabetes devem consultar um médico ou nutricionista antes de iniciar o uso, para avaliar a adequação do produto ao plano alimentar individual e ao controle glicêmico.',
+          'Nutren Senior pode substituir o café da manhã? O Nutren Senior é um complemento alimentar e não um substituto de refeições. Ele pode ser consumido no café da manhã para reforçar a ingestão de nutrientes, mas não deve substituir uma refeição completa com frutas, cereais integrais e proteínas sólidas.',
+          'Qual o melhor horário para tomar Nutren Senior? A recomendação do rótulo é consumir 2 porções ao dia, preparadas com 3 colheres de sopa rasas (27,5g) diluídas em 200ml de água. Os horários podem ser adaptados à rotina individual, como café da manhã e lanche da tarde, desde que a quantidade diária recomendada seja respeitada.',
+          'Cupom Nestlé Nutren: o CECI vale para Nutren Senior? Sim, o cupom CECI garante 5% de desconto no checkout do site oficial da Nestlé Nutre para o Nutren Senior e demais produtos da linha, exceto Alfamino e Alfaré.',
+          'Nutren desconto laboratório: há desconto para laboratórios? Não há desconto específico para laboratórios no site oficial da Nestlé Nutre. O cupom CECI é válido para compras de pessoa física e pode ser usado por profissionais de saúde em compras pessoais, mas não substitui contratos corporativos.',
+          'Promo desconto Nutren Senior: existe promoção específica? O cupom CECI garante 5% de desconto em Nutren Senior. Promoções pontuais podem aparecer no site oficial, mas o CECI é garantido e funciona independentemente de campanhas sazonais.',
+          'Nestlé meu desconto nutrição: existe programa de desconto? Não há programa de desconto exclusivo "meu desconto nutrição" no site oficial. O cupom CECI é o código oficial de parceria e garante 5% de desconto sem necessidade de cadastro em programa de fidelidade.',
+          'Programa de desconto Nutren: como funciona? A Nestlé Nutre não opera um programa de fidelidade ou clube de descontos. O desconto é aplicado via cupom CECI diretamente no checkout.',
+          'Cupom Nestlé: o CECI vale para outros produtos Nestlé? Não. O cupom CECI é válido exclusivamente para produtos vendidos no site oficial da Nestlé Nutre. Não funciona para outras marcas Nestlé ou outros e-commerces.',
+          'Nutren Senior em pó ou pronto para beber: qual é melhor? Ambos têm a mesma base nutricional. A versão em pó (370g ou 740g) é mais econômica e permite ajustar a quantidade de preparo. A versão pronta para beber (RTD, 200ml) oferece praticidade para consumo fora de casa. A escolha depende do estilo de vida e da preferência de uso.'],
     },
   ],
   cta: {
