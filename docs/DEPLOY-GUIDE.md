@@ -66,9 +66,15 @@ retorno que `root_directory: emcasacomcecilia` e `app_type: next`.
 npm run deploy:finish
 ```
 
-Faz, em ordem: reinjeta a `.env` (do arquivo gerenciado, via scp) → restart graceful
-(`touch tmp/restart.txt`) → verifica em loop `HTTP 200` **e** que os vídeos populam (thumbnails
-`ytimg`), tolerando a janela de restart (~5s de indisponibilidade). Fail-loud se não voltar.
+Faz, em ordem: reinjeta a `.env` (do arquivo gerenciado, via scp) → captura os workers atuais →
+restart (`touch tmp/restart.txt`) → verifica em loop `HTTP 200` **e** que os vídeos populam
+(thumbnails `ytimg`) → **poda os workers antigos** capturados (só depois do 200). Fail-loud se não voltar.
+
+> ⚠️ **O restart é COLD START (~90-120s de indisponibilidade), não rolling** — verificado na marra
+> neste host. O site fica em `000`/`503` durante esse intervalo; é **esperado**, não pânico. O
+> `finish` espera até 180s. A poda pós-200 evita que restarts sucessivos empilhem `next-server`
+> (a causa raiz do 503 — ver "Recuperação de 503"). Se algum dia o pileup ainda ocorrer, a
+> recuperação manual abaixo continua válida.
 
 ### 4. IndexNow (avisar buscadores)
 
