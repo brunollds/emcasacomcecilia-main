@@ -3,9 +3,30 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 
 const DEFAULT_TERMS = ['CECILIA12'];
+const LINK_PATTERN = /\[([^\]]+)\]\((https?:\/\/[^\s)]+|\/[^\s)]*)\)/g;
 
 function escapeRegExp(value: string): string {
   return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+type TextSegment = { text: string; href?: undefined } | { text: string; href: string };
+
+function splitLinks(text: string): TextSegment[] {
+  const segments: TextSegment[] = [];
+  let lastIndex = 0;
+  let match: RegExpExecArray | null;
+  const pattern = new RegExp(LINK_PATTERN);
+  while ((match = pattern.exec(text)) !== null) {
+    if (match.index > lastIndex) {
+      segments.push({ text: text.slice(lastIndex, match.index) });
+    }
+    segments.push({ text: match[1], href: match[2] });
+    lastIndex = match.index + match[0].length;
+  }
+  if (lastIndex < text.length || segments.length === 0) {
+    segments.push({ text: text.slice(lastIndex) });
+  }
+  return segments;
 }
 
 interface AnimatedHighlightProps {
@@ -59,6 +80,38 @@ export interface AnimatedTextHighlightProps {
   className?: string;
 }
 
+function HighlightedText({
+  text,
+  activeTerms,
+  className,
+  keyPrefix,
+}: {
+  text: string;
+  activeTerms: string[];
+  className: string;
+  keyPrefix: string;
+}): React.ReactElement {
+  if (activeTerms.length === 0) return <>{text}</>;
+  const pattern = new RegExp(`(${activeTerms.map(escapeRegExp).join('|')})`, 'g');
+  const parts = text.split(pattern).filter((part) => part.length > 0);
+  if (parts.length === 1) return <>{text}</>;
+
+  return (
+    <>
+      {parts.map((part, index) => {
+        const isHighlight = activeTerms.includes(part);
+        return isHighlight ? (
+          <AnimatedHighlight key={`${keyPrefix}-${index}`} className={className}>
+            {part}
+          </AnimatedHighlight>
+        ) : (
+          <span key={`${keyPrefix}-${index}`}>{part}</span>
+        );
+      })}
+    </>
+  );
+}
+
 export function AnimatedTextHighlight({
   text,
   terms = DEFAULT_TERMS,
@@ -69,28 +122,31 @@ export function AnimatedTextHighlight({
     [terms]
   );
 
-  const parts = useMemo(() => {
-    if (activeTerms.length === 0) return [text];
-    const pattern = new RegExp(`(${activeTerms.map(escapeRegExp).join('|')})`, 'g');
-    return text.split(pattern).filter((part) => part.length > 0);
-  }, [activeTerms, text]);
-
-  if (activeTerms.length === 0 || parts.length === 1) {
-    return <>{text}</>;
-  }
+  const segments = useMemo(() => splitLinks(text), [text]);
 
   return (
     <>
-      {parts.map((part, index) => {
-        const isHighlight = activeTerms.includes(part);
-        return isHighlight ? (
-          <AnimatedHighlight key={`${part}-${index}`} className={className}>
-            {part}
-          </AnimatedHighlight>
+      {segments.map((segment, index) =>
+        segment.href ? (
+          <a
+            key={`link-${index}`}
+            href={segment.href}
+            target={segment.href.startsWith('/') ? undefined : '_blank'}
+            rel={segment.href.startsWith('/') ? undefined : 'noopener noreferrer'}
+            className="font-semibold text-[#1a4d2e] underline decoration-[#ff6b35]/50 underline-offset-2 transition-colors hover:text-[#ff6b35]"
+          >
+            {segment.text}
+          </a>
         ) : (
-          <span key={`${part}-${index}`}>{part}</span>
-        );
-      })}
+          <HighlightedText
+            key={`text-${index}`}
+            text={segment.text}
+            activeTerms={activeTerms}
+            className={className}
+            keyPrefix={`seg-${index}`}
+          />
+        )
+      )}
     </>
   );
 }

@@ -22244,8 +22244,8 @@ export const reviews: Review[] = [
   publishedAt: '09 Jul 2026',
   publishedAtISO: '2026-07-09',
   draft: true,
-  image: '/images/reviews/nutren/cupom-ceci-hero.webp',
-  imageAlt: 'Campanha da Nestlé Nutre com família — cupom CECI dá 5% de desconto na loja oficial',
+  image: '/images/reviews/nutren/nutren-senior-linha-hero.webp',
+  imageAlt: 'Linha Nutren Senior: cápsulas A-Z, lata 740g, lata 370g Premium 6.1 e versão pronta para beber, produtos oficiais da Nestlé Nutre',
   imageFit: 'cover',
   pros: [
     'Garante 5% de desconto real no site oficial da Nestlé Nutre',
@@ -22280,8 +22280,12 @@ export const reviews: Review[] = [
     {
       heading: '1. Escolha o produto no site oficial',
       paragraphs: [
-        'O cupom CECI é válido para compras feitas diretamente no site oficial da Nestlé Nutre (nestlenutre.com.br). Funciona para praticamente toda a linha — Nutren Senior, Nutren Control, Nutren 2.0, Nutren Ultra, Nutren Fortify, Nutren Mulher — tanto na versão em pó quanto na versão pronta para beber (RTD), com exceção de Alfamino e Alfaré. Escolha o produto e a versão (sabor, tamanho da embalagem) com calma antes de ir para o carrinho.'
+        'O cupom CECI é válido para compras feitas diretamente no site oficial da Nestlé Nutre ([nestlenutre.com.br](https://www.nestlenutre.com.br/)). Funciona para praticamente toda a linha — Nutren Senior, Nutren Control, Nutren 2.0, Nutren Ultra, Nutren Fortify, Nutren Mulher — tanto na versão em pó quanto na versão pronta para beber (RTD), com exceção de Alfamino e Alfaré. Escolha o produto e a versão (sabor, tamanho da embalagem) com calma antes de ir para o carrinho.'
       ],
+      image: '/images/reviews/nutren/passo-1-lista-produtos.webp',
+      imageAlt: 'Página de produtos e promoções do site oficial da Nestlé Nutre.',
+      imageCaption: 'Escolha o produto direto no site oficial da Nestlé Nutre.',
+      imageFit: 'contain',
     },
     {
       heading: '2. Adicione ao carrinho e revise o pedido',
@@ -22292,18 +22296,30 @@ export const reviews: Review[] = [
         'Confira o sabor e o tamanho da embalagem (370g, 740g ou a versão pronta para beber).',
         'Se o carrinho tiver mais de um produto, verifique se nenhum deles é Alfamino ou Alfaré — esses dois não entram na promoção.',
       ],
+      image: '/images/reviews/nutren/passo-2-carrinho.webp',
+      imageAlt: 'Carrinho de compras da Nestlé Nutre com um item adicionado antes do checkout.',
+      imageCaption: 'Revise o carrinho antes de seguir para o pagamento.',
+      imageFit: 'contain',
     },
     {
       heading: '3. Digite o cupom CECI no checkout',
       paragraphs: [
         'No momento do pagamento, procure o campo indicado como "Cupom de desconto", "Código promocional" ou similar. Digite CECI sem espaços e sem alterar as letras, e clique em aplicar. Se o código for aceito, o desconto de 5% deve aparecer automaticamente no resumo do pedido.'
       ],
+      image: '/images/reviews/nutren/passo-3-digite-ceci.webp',
+      imageAlt: 'Campo "Cupom de Desconto" no checkout da Nestlé Nutre com o código CECI digitado.',
+      imageCaption: 'Digite CECI no campo de cupom e clique em aplicar.',
+      imageFit: 'contain',
     },
     {
       heading: '4. Confirme o desconto antes de pagar',
       paragraphs: [
         'Esse é o passo mais importante: confira se o desconto realmente apareceu no valor total antes de finalizar a compra. Se o cupom não funcionar, verifique se o código foi digitado corretamente, se algum item do carrinho é Alfamino ou Alfaré (que ficam de fora da promoção) e se a compra não está combinando o cupom com outra promoção ativa no site.'
       ],
+      image: '/images/reviews/nutren/passo-4-cupom-aplicado.webp',
+      imageAlt: 'Carrinho da Nestlé Nutre mostrando o cupom CECI aplicado com sucesso e o desconto de 5% no resumo do pedido.',
+      imageCaption: 'O resumo do pedido mostra o desconto do cupom CECI já aplicado.',
+      imageFit: 'contain',
     },
     {
       heading: 'Produtos excluídos: Alfamino e Alfaré',
@@ -22350,18 +22366,19 @@ export const reviews: Review[] = [
         'O cupom pode ser usado mais de uma vez? A política de uso pode variar conforme as regras da loja no momento da compra. Recomenda-se verificar os termos no checkout.',
         'É necessário receita médica para comprar? Não é necessário receita médica para adquirir os produtos no site oficial, mas itens de nutrição clínica devem ser usados conforme indicação do rótulo e, quando necessário, com orientação de profissional de saúde.',
         'O desconto inclui o frete? Não. O frete é calculado à parte e não entra na base de cálculo do desconto de 5%.',
-      
-          'Qual o valor mínimo de compra para usar o cupom CECI? Não há valor mínimo de compra para aplicar o cupom CECI. O desconto de 5% é válido sobre o valor dos produtos elegíveis no carrinho, independentemente do total da compra. O frete, no entanto, é calculado separadamente conforme a localização de entrega.',
-          'O cupom CECI dá frete grátis? Não. O cupom CECI concede 5% de desconto sobre o valor dos produtos, mas o frete é calculado de forma independente e não entra no cálculo do desconto. Recomenda-se verificar o valor do frete no checkout antes de finalizar o pedido.',
-          'Como saber se o cupom CECI foi aplicado corretamente? Após inserir o código CECI no campo de cupom no checkout, o sistema exibe o valor do desconto no resumo do pedido. Se o desconto de 5% não aparecer, verifique se o produto é elegível (Alfamino e Alfaré estão excluídos) e se não há outro cupom ativo, pois o CECI não é cumulativo.',
-          'O cupom CECI tem data de validade? O cupom CECI é mantido ativo por meio de uma parceria comercial revisada periodicamente. As regras e a validade podem ser ajustadas sem aviso prévio. Por isso, recomenda-se sempre conferir o valor final no checkout no momento da compra para garantir que o desconto ainda está vigente.',
-          'Posso usar o cupom CECI em compras recorrentes ou assinatura? O cupom CECI não é cumulativo com outras promoções ou códigos de desconto ativos no site. Recomenda-se verificar, no momento da compra, se a função de assinatura ou compra recorrente permite o uso de cupons de parceiros, pois as regras podem variar conforme a política vigente da loja.',
-          'Cupom Nestlé Nutren: onde encontrar? O cupom CECI é o código oficial de parceria do blog Em Casa com Cecília com a Nestlé Nutre. Ele garante 5% de desconto na maioria dos produtos da loja oficial e pode ser aplicado diretamente no campo de cupom no checkout.',
-          'Nutren desconto laboratório: há desconto para laboratórios? Não há desconto específico para laboratórios no site oficial da Nestlé Nutre. O cupom CECI é válido para compras de pessoa física e pode ser usado por profissionais de saúde em compras pessoais, mas não substitui contratos corporativos ou vendas diretas para instituições.',
-          'Nestlé meu desconto nutrição: existe programa de desconto? Não há programa de desconto exclusivo "meu desconto nutrição" no site oficial da Nestlé Nutre. O cupom CECI é o código oficial de parceria do blog Em Casa com Cecília e garante 5% de desconto na maioria dos produtos, sem necessidade de cadastro em programa de fidelidade.',
-          'Programa de desconto Nutren: como funciona? A Nestlé Nutre não opera um programa de fidelidade ou clube de descontos com pontos. O desconto é aplicado via cupom CECI diretamente no checkout, sem acúmulo de pontos ou necessidade de login recorrente.',
-          'Cupom Nestlé: o CECI vale para outros produtos Nestlé? Não. O cupom CECI é válido exclusivamente para produtos vendidos no site oficial da Nestlé Nutre (Nutren Senior, Control, 2.0, Ultra, Fortify, Mulher). Não funciona para produtos de outras marcas Nestlé como Nescafé, Kit Kat, Purina ou outros e-commerces.',
-          'Promo desconto Nutren Senior: existe promoção específica? O cupom CECI garante 5% de desconto em Nutren Senior e demais produtos da linha (exceto Alfamino e Alfaré). Promoções pontuais podem aparecer no site oficial, mas o CECI é garantido e funciona independentemente de campanhas sazonais.'],
+        'O cupom CECI funciona em produtos que já estão com desconto ou em combo? Sim. Em teste real no checkout, o CECI aplicou os 5% de desconto por cima do preço de um combo que já tinha 20% OFF automático, reduzindo ainda mais o valor final. A soma com outro cupom digitado separadamente não é garantida — nesses casos, o checkout costuma aplicar apenas o maior desconto disponível.',
+        'Qual o valor mínimo de compra para usar o cupom CECI? Não há valor mínimo de compra para aplicar o cupom CECI. O desconto de 5% é válido sobre o valor dos produtos elegíveis no carrinho, independentemente do total da compra. O frete, no entanto, é calculado separadamente conforme a localização de entrega.',
+        'O cupom CECI dá frete grátis? Não. O cupom CECI concede 5% de desconto sobre o valor dos produtos, mas o frete é calculado de forma independente e não entra no cálculo do desconto. Recomenda-se verificar o valor do frete no checkout antes de finalizar o pedido.',
+        'Como saber se o cupom CECI foi aplicado corretamente? Após inserir o código CECI no campo de cupom no checkout, o sistema exibe o valor do desconto no resumo do pedido. Se o desconto de 5% não aparecer, verifique se o produto é elegível (Alfamino e Alfaré estão excluídos) e se não há outro cupom ativo, pois o CECI não é cumulativo com outros códigos.',
+        'O cupom CECI tem data de validade? O cupom CECI é mantido ativo por meio de uma parceria comercial revisada periodicamente. As regras e a validade podem ser ajustadas sem aviso prévio. Por isso, recomenda-se sempre conferir o valor final no checkout no momento da compra para garantir que o desconto ainda está vigente.',
+        'Posso usar o cupom CECI em compras recorrentes ou assinatura? O cupom CECI não é cumulativo com outros códigos de desconto ativos no site. Recomenda-se verificar, no momento da compra, se a função de assinatura ou compra recorrente permite o uso de cupons de parceiros, pois as regras podem variar conforme a política vigente da loja.',
+        'Onde encontro o cupom Nestlé Nutren? O cupom CECI é o código oficial de parceria do blog Em Casa com Cecília com a Nestlé Nutre. Ele garante 5% de desconto na maioria dos produtos da loja oficial e pode ser aplicado diretamente no campo de cupom no checkout.',
+        'Existe desconto de laboratório para produtos Nutren? Não há desconto específico para laboratórios no site oficial da Nestlé Nutre. O cupom CECI é válido para compras de pessoa física e pode ser usado por profissionais de saúde em compras pessoais, mas não substitui contratos corporativos ou vendas diretas para instituições.',
+        'Existe o programa "Nestlé meu desconto nutrição"? Não há um programa oficial com esse nome no site da Nestlé Nutre. O cupom CECI é o código real de parceria do blog Em Casa com Cecília e garante 5% de desconto na maioria dos produtos, sem necessidade de cadastro em programa de fidelidade.',
+        'Como funciona o programa de desconto Nutren? A Nestlé Nutre não opera um programa de fidelidade ou clube de descontos com pontos. O desconto real é aplicado via cupom CECI diretamente no checkout, sem acúmulo de pontos ou necessidade de login recorrente.',
+        'O cupom Nestlé CECI vale para outros produtos da marca? Não. O cupom CECI é válido exclusivamente para produtos vendidos no site oficial da Nestlé Nutre (Nutren Senior, Control, 2.0, Ultra, Fortify, Mulher). Não funciona para produtos de outras marcas Nestlé como Nescafé, Kit Kat, Purina ou outros e-commerces.',
+        'Existe alguma promoção de desconto específica para Nutren Senior? O cupom CECI garante 5% de desconto em Nutren Senior e demais produtos da linha (exceto Alfamino e Alfaré). Promoções pontuais podem aparecer no site oficial, mas o CECI é garantido e funciona independentemente de campanhas sazonais.',
+      ],
     },
   ],
   cta: {
