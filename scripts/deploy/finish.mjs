@@ -25,10 +25,19 @@ async function main() {
 
   // 3. verificação mecânica (state=completed NÃO basta)
   console.log('[3/3] verificando produção…');
+  // na janela de restart o app fica ~5s indisponível e o curl sai não-zero — tolerar e re-tentar,
+  // nunca deixar o erro do curl derrubar a verificação (senão dá falso-negativo num deploy que deu certo)
+  const httpCode = () => {
+    try {
+      return execSync(`curl -s -o /dev/null -w "%{http_code}" https://${DOMAIN}/`).toString().trim();
+    } catch {
+      return '000'; // conexão recusada/reset durante o restart
+    }
+  };
   let ok = false;
   for (let i = 0; i < 12; i++) {
     execSync('sleep 5');
-    const code = execSync(`curl -s -o /dev/null -w "%{http_code}" https://${DOMAIN}/`).toString().trim();
+    const code = httpCode();
     if (code === '200') { ok = true; break; }
     console.log(`  ... http ${code}, retry`);
   }
@@ -37,7 +46,11 @@ async function main() {
   if (!body.includes('Últimos vídeos')) {
     throw new Error('200 mas sem marcador de conteúdo ("Últimos vídeos") — checar .env/YOUTUBE no servidor');
   }
-  console.log('  ✅ 200 + conteúdo ok\n=== deploy concluído sem hPanel ===');
+  // marcador é só o cabeçalho (renderiza sem vídeos); confirmar que os vídeos REALMENTE populam
+  const videosOk = /ytimg\.com\/vi\//.test(body);
+  console.log(videosOk
+    ? '  ✅ 200 + conteúdo ok (vídeos populando)\n=== deploy concluído sem hPanel ==='
+    : '  ⚠️ 200 + página ok, mas SEM thumbnails de vídeo — conferir YOUTUBE_API_KEY/quota (deploy não falhou)\n=== deploy concluído sem hPanel ===');
 }
 
 main().catch((e) => { console.error('\n❌', e.message); process.exit(1); });

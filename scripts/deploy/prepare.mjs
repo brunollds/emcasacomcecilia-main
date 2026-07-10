@@ -18,10 +18,16 @@ console.log('[2/2] criando archive de fonte…');
 const parent = path.resolve('..');
 const archive = path.join(parent, 'emcasacomcecilia-deploy.tar.gz');
 execFileSync('tar', [
+  // caminho de saída no Windows tem "C:" — sem isto o GNU tar o trata como host remoto (Broken pipe)
+  '--force-local',
   '--exclude=emcasacomcecilia/.next', '--exclude=emcasacomcecilia/node_modules',
   '--exclude=emcasacomcecilia/.git', '--exclude=emcasacomcecilia/.claude',
+  '--exclude=emcasacomcecilia/.qwen',
   '--exclude=emcasacomcecilia/.env.local', '--exclude=emcasacomcecilia/.env',
   '--exclude=emcasacomcecilia/*.tar.gz',
+  // lixo de edição — nunca deve embarcar no build de produção
+  '--exclude=*.bak', '--exclude=*.bak.*', '--exclude=*.work',
+  '--exclude=*.orig', '--exclude=*.rej',
   '-czf', archive, 'emcasacomcecilia/',
 ], { cwd: parent, stdio: 'inherit' });
 
