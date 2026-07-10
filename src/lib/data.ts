@@ -21690,7 +21690,6 @@ export const reviews: Review[] = [
   publishedAt: '07 Jul 2026',
   publishedAtISO: '2026-07-07',
   draft: false,
-  isNew: true,
   image: '/images/reviews/iwannasleep/cupom-ceciemcasa-hero.webp',
   imageAlt: 'Cecília abrindo o pacote da I Wanna Sleep contendo produtos de sono confortáveis.',
   imageFit: 'cover',
@@ -22241,9 +22240,10 @@ export const reviews: Review[] = [
   author: CECILIA_AUTHOR,
   description: 'Aprenda a usar o cupom CECI no site oficial da Nestlé Nutre. Passo a passo completo para garantir 5% de desconto, com a exceção dos produtos Alfamino e Alfaré.',
   metaDescription: 'Use o cupom CECI na Nestlé Nutre e ganhe 5% OFF na loja oficial. Veja o passo a passo, a exceção de Alfamino e Alfaré e como validar o desconto no checkout.',
-  publishedAt: '09 Jul 2026',
-  publishedAtISO: '2026-07-09',
-  draft: true,
+  publishedAt: '10 Jul 2026',
+  publishedAtISO: '2026-07-10',
+  draft: false,
+  isNew: true,
   image: '/images/reviews/nutren/nutren-senior-linha-hero.webp',
   imageAlt: 'Linha Nutren Senior: cápsulas A-Z, lata 740g, lata 370g Premium 6.1 e versão pronta para beber, produtos oficiais da Nestlé Nutre',
   imageFit: 'cover',
@@ -22389,7 +22389,7 @@ export const reviews: Review[] = [
   coupon: 'CECI',
   editorialNote: 'Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.',
   // relatedArticles vazio de propósito: 'nestle-nutre-produtos-para-que-servem' (11 Jul) e
-  // 'nutren-senior-zero-lactose-ficha-tecnica' (13 Jul) ainda não publicaram nessa data (09 Jul).
+  // 'nutren-senior-zero-lactose-ficha-tecnica' (13 Jul) ainda não publicaram (este foi para o ar em 10 Jul).
   // Repopular assim que cada um for para o ar, senão o card "Leia também" 404.
   relatedArticles: [],
 },
