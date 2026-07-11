@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node scripts/content/build-index.mjs && next build",
     "start": "next start -p ${PORT:-3000}",
     "lint": "eslint",
     "typecheck": "tsc --noEmit",
@@ -15,7 +15,9 @@
     "youtube:inventory": "tsx data/youtube/youtube-inventory.ts",
     "youtube:match": "tsx data/youtube/youtube-recipe-matching.ts",
     "deploy:prepare": "node scripts/deploy/prepare.mjs",
-    "deploy:finish": "node scripts/deploy/finish.mjs"
+    "deploy:finish": "node scripts/deploy/finish.mjs",
+    "content:export": "tsx scripts/content/export-content.ts",
+    "content:index": "node scripts/content/build-index.mjs"
   },
   "dependencies": {
     "@chenglou/pretext": "^0.0.8",
