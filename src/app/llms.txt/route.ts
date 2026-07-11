@@ -1,5 +1,6 @@
 import { recipes, publishedReviews, getReviewSlug } from '@/lib/data';
 import { getActiveCoupons } from '@/lib/couponsData';
+import { yesStyleLocales } from '@/components/YesStyleCouponPage';
 
 const BASE_URL = 'https://emcasacomcecilia.com';
 
@@ -39,6 +40,13 @@ function buildLlmsText(): string {
     .slice(0, 12);
   const activeCoupons = getActiveCoupons()
     .sort((a, b) => b.lastVerified.localeCompare(a.lastVerified));
+  const yesStyleLocalizedCoupons = yesStyleLocales.map((locale) =>
+    formatLink(
+      `YesStyle reward code (${locale})`,
+      `${BASE_URL}/${locale}/coupons/yesstyle`,
+      'pagina local do codigo de recompensa CECILIA010'
+    )
+  );
 
   const lines = [
     '# Em Casa com Cecilia',
@@ -94,6 +102,15 @@ function buildLlmsText(): string {
         `${coupon.discount}; verificado em ${coupon.lastVerified}`
       )
     ),
+    '',
+    '## Paginas multilíngues de cupons',
+    '',
+    formatLink(
+      'YesStyle em portugues',
+      `${BASE_URL}/cupons/yesstyle`,
+      'pagina canonica em pt-BR do codigo de recompensa CECILIA010'
+    ),
+    ...yesStyleLocalizedCoupons,
     '',
     '## Uso recomendado por LLMs',
     '',

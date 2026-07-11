@@ -1,6 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { recipes, publishedReviews, getReviewSlug } from '@/lib/data';
 import { getActiveCoupons } from '@/lib/couponsData';
+import { yesStyleLocales } from '@/components/YesStyleCouponPage';
 
 const BASE_URL = 'https://emcasacomcecilia.com';
 
@@ -23,12 +24,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     changeFrequency: 'monthly' as const,
   }));
 
-  const reviewRoutes: MetadataRoute.Sitemap = publishedReviews.map((review) => ({
-    url: `${BASE_URL}/reviews/${getReviewSlug(review)}`,
-    priority: 0.6,
-    changeFrequency: 'monthly' as const,
-    lastModified: review.publishedAtISO,
-  }));
+  const reviewRoutes: MetadataRoute.Sitemap = publishedReviews
+    .filter((review) => !review.hideFromListings)
+    .map((review) => ({
+      url: `${BASE_URL}/reviews/${getReviewSlug(review)}`,
+      priority: 0.6,
+      changeFrequency: 'monthly' as const,
+      lastModified: review.publishedAtISO,
+    }));
 
   const couponRoutes: MetadataRoute.Sitemap = getActiveCoupons().map((coupon) => ({
     url: `${BASE_URL}/cupons/${coupon.slug}`,
@@ -37,5 +40,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: coupon.lastVerified,
   }));
 
-  return [...staticRoutes, ...recipeRoutes, ...reviewRoutes, ...couponRoutes];
+  const localizedCouponRoutes: MetadataRoute.Sitemap = yesStyleLocales.map((locale) => ({
+    url: `${BASE_URL}/${locale}/coupons/yesstyle`,
+    priority: 0.7,
+    changeFrequency: 'weekly' as const,
+    lastModified: '2026-07-11',
+  }));
+
+  return [...staticRoutes, ...recipeRoutes, ...reviewRoutes, ...couponRoutes, ...localizedCouponRoutes];
 }
