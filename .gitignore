@@ -79,3 +79,6 @@ public/images/temp/
 
 # Artefatos de migração de conteúdo
 scripts/content/artifacts/
+
+# Preview preview slot e restart signals
+tmp/
