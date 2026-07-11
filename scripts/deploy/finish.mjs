@@ -5,18 +5,34 @@
 // (Site → Variáveis de ambiente), PERSISTEM entre deploys e são injetadas no processo node no boot.
 // Por isso este passo não reinjeta .env nem reinicia — só verifica. O único restart é o do próprio
 // deploy MCP (cold start ~90-120s neste host). Validado 10/07: app 200 + vídeos SEM .env no servidor.
-import { execFileSync, execSync } from 'node:child_process';
+import { execFileSync } from 'node:child_process';
 
 const DOMAIN = 'emcasacomcecilia.com';
 const SSH_ARGS = ['-p', '65002', 'u150185510@46.202.145.2'];
 const APPDIR_ABS = '/home/u150185510/domains/emcasacomcecilia.com/nodejs';
 
-function httpCode() {
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+async function httpCode() {
   try {
-    return execSync(`curl -s -o /dev/null -w "%{http_code}" https://${DOMAIN}/`).toString().trim();
+    const response = await fetch(`https://${DOMAIN}/`, {
+      redirect: 'manual',
+    });
+    return String(response.status);
   } catch {
     return '000'; // conexão recusada/reset durante o cold start
   }
+}
+
+async function fetchText(url) {
+  const response = await fetch(url);
+  if (!response.ok) {
+    throw new Error(`HTTP ${response.status} ao buscar ${url}`);
+  }
+
+  return response.text();
 }
 
 async function main() {
@@ -24,8 +40,8 @@ async function main() {
   let ok = false;
   let lastCode = '000';
   for (let i = 0; i < 48; i++) { // ~240s — cold start real ~185s em 2 deploys seguidos
-    execSync('sleep 5');
-    lastCode = httpCode();
+    await sleep(5000);
+    lastCode = await httpCode();
     if (lastCode === '200') { ok = true; break; }
     console.log(`  ... http ${lastCode}, subindo (${(i + 1) * 5}s)`);
   }
@@ -37,7 +53,7 @@ async function main() {
   }
 
   console.log('[2/2] verificando conteúdo + saúde dos processos…');
-  const body = execSync(`curl -s https://${DOMAIN}/`).toString();
+  const body = await fetchText(`https://${DOMAIN}/`);
   if (!body.includes('Últimos vídeos')) {
     throw new Error('200 mas sem a seção "Últimos vídeos" — checar o app');
   }
