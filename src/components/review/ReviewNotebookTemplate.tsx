@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import { ArrowRight, ChevronRight, PlayCircle, Globe } from 'lucide-react';
+import { ArrowRight, ChevronRight, PlayCircle } from 'lucide-react';
 import TextToSpeechButton from '@/components/TextToSpeechButton';
 import { ShareBar } from '@/components/shared/ShareBar';
 import { ReviewGallerySection } from './ReviewGallerySection';
@@ -12,6 +12,10 @@ import { ReviewHeroImage } from './ReviewHeroImage';
 import { ReviewVerdictCard } from './ReviewVerdictCard';
 import { ReviewMobileToc } from './ReviewTableOfContents';
 import { ReviewSidebar } from './ReviewSidebar';
+import { ReviewMobileBottomBar } from './ReviewMobileBottomBar';
+import { InlineCouponCopy } from './InlineCouponCopy';
+import type { CouponCopyLocale } from './couponCopyLocale';
+import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 import { GuideTimeline } from './GuideTimeline';
 import { PullQuote } from './PullQuote';
 
@@ -46,6 +50,21 @@ function estimateReadTimeMinutes(text: string): number {
 
 function isStepHeading(heading?: string): boolean {
   return /^(\d+[\.\)]\s+|Passo\s+\d+|Step\s+\d+)/i.test(heading || '');
+}
+
+function getCouponCopyLocale(slug: string): CouponCopyLocale {
+  const localesBySlug: Record<string, CouponCopyLocale> = {
+    'yesstyle-reward-code-coupon-cecilia010': 'en',
+    'codigo-de-recompensa-yesstyle-cupon-cecilia010': 'es',
+    'code-recompense-yesstyle-cecilia010': 'fr',
+    'yesstyle-reward-code-rabatt-cecilia010': 'de',
+    'yesstyle-reward-code-cecilia010-ko': 'ko',
+    'yesstyle-reward-code-cecilia010-ja': 'ja',
+    'yesstyle-reward-code-cecilia010-zh-hant': 'zh-hant',
+    'yesstyle-reward-code-cecilia010-zh-hans': 'zh-hans',
+  };
+
+  return localesBySlug[slug] || 'pt';
 }
 
 export function ReviewNotebookTemplate({
@@ -97,6 +116,7 @@ export function ReviewNotebookTemplate({
       : null;
   const hasCta = Boolean(effectiveCta?.url && effectiveCta?.label);
   const isPortraitHero = review.imageAspect === 'portrait';
+  const couponCopyLocale = getCouponCopyLocale(review.slug);
 
   const stepSections = (review.contentSections || []).filter((s) => isStepHeading(s.heading));
   const firstStepIndex = (review.contentSections || []).findIndex((s) => isStepHeading(s.heading));
@@ -119,7 +139,7 @@ export function ReviewNotebookTemplate({
           <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
         )}
 
-        <div className="mx-auto max-w-6xl px-4 py-6 md:py-10">
+        <div className="mx-auto max-w-6xl px-4 py-6 pb-28 md:py-10 lg:pb-10">
           {/* Header editorial */}
           <header className="mb-10">
             {/* Fila do topo: categoria + breadcrumb */}
@@ -168,54 +188,44 @@ export function ReviewNotebookTemplate({
             <EditorialReveal
               as="p"
               delay={0.15}
-              className="mb-6 max-w-3xl font-editorial text-lg italic leading-relaxed text-[#4a5568] md:text-xl"
+              className="mb-4 max-w-3xl font-editorial text-lg italic leading-relaxed text-[#4a5568] md:text-xl"
             >
               {review.description}
             </EditorialReveal>
 
-            {/* Language Switcher for YesStyle localized versions */}
+            {/* Cupom copiável no resumo — só guias com cupom */}
+            {kind === 'guia' && review.coupon && (
+              <EditorialReveal delay={0.17}>
+                <InlineCouponCopy coupon={review.coupon} locale={couponCopyLocale} />
+              </EditorialReveal>
+            )}
+
+            {/* Seletor reutilizável para versões localizadas */}
             {[
               'codigo-cecilia010-yesstyle-como-usar',
               'yesstyle-reward-code-coupon-cecilia010',
               'codigo-de-recompensa-yesstyle-cupon-cecilia010',
               'code-recompense-yesstyle-cecilia010',
-              'yesstyle-reward-code-rabatt-cecilia010'
+              'yesstyle-reward-code-rabatt-cecilia010',
+              'yesstyle-reward-code-cecilia010-ko',
+              'yesstyle-reward-code-cecilia010-ja',
+              'yesstyle-reward-code-cecilia010-zh-hant',
+              'yesstyle-reward-code-cecilia010-zh-hans'
             ].includes(review.slug) && (
-              <div className="mb-6 flex flex-wrap items-center gap-2 rounded-lg border border-[#1a4d2e]/10 bg-[#faf8f3] px-4 py-2.5 text-xs text-[#4a5568]">
-                <span className="font-semibold text-[#1a4d2e] flex items-center gap-1.5">
-                  <Globe size={14} className="text-[#ff6b35]" />
-                  {review.slug === 'yesstyle-reward-code-coupon-cecilia010'
-                    ? 'Read this guide in other languages:'
-                    : review.slug === 'codigo-de-recompensa-yesstyle-cupon-cecilia010'
-                      ? 'Lee esta guía en otros idiomas:'
-                      : review.slug === 'code-recompense-yesstyle-cecilia010'
-                        ? 'Lire ce guide dans une autre langue :'
-                        : review.slug === 'yesstyle-reward-code-rabatt-cecilia010'
-                          ? 'Diesen Leitfaden in einer anderen Sprache lesen:'
-                          : 'Leia este guia em outros idiomas:'}
-                </span>
-                <div className="flex flex-wrap items-center gap-2 ml-1">
-                  {[
-                    { slug: 'codigo-cecilia010-yesstyle-como-usar', label: 'Português', href: '/reviews/codigo-cecilia010-yesstyle-como-usar' },
-                    { slug: 'yesstyle-reward-code-coupon-cecilia010', label: 'English', href: '/reviews/yesstyle-reward-code-coupon-cecilia010' },
-                    { slug: 'codigo-de-recompensa-yesstyle-cupon-cecilia010', label: 'Español', href: '/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010' },
-                    { slug: 'code-recompense-yesstyle-cecilia010', label: 'Français', href: '/reviews/code-recompense-yesstyle-cecilia010' },
-                    { slug: 'yesstyle-reward-code-rabatt-cecilia010', label: 'Deutsch', href: '/reviews/yesstyle-reward-code-rabatt-cecilia010' }
-                  ]
-                    .filter((lang) => lang.slug !== review.slug)
-                    .map((lang, index, arr) => (
-                      <span key={lang.slug} className="inline-flex items-center gap-2">
-                        <Link
-                          href={lang.href}
-                          className="font-medium text-[#1a4d2e] hover:text-[#ff6b35] transition-colors underline underline-offset-4"
-                        >
-                          {lang.label}
-                        </Link>
-                        {index < arr.length - 1 && <span className="text-[#1a4d2e]/20">|</span>}
-                      </span>
-                    ))}
-                </div>
-              </div>
+              <LanguageSwitcher
+                currentLocale={couponCopyLocale}
+                links={{
+                  pt: '/reviews/codigo-cecilia010-yesstyle-como-usar',
+                  en: '/reviews/yesstyle-reward-code-coupon-cecilia010',
+                  es: '/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010',
+                  fr: '/reviews/code-recompense-yesstyle-cecilia010',
+                  de: '/reviews/yesstyle-reward-code-rabatt-cecilia010',
+                  ko: '/reviews/yesstyle-reward-code-cecilia010-ko',
+                  ja: '/reviews/yesstyle-reward-code-cecilia010-ja',
+                  'zh-hant': '/reviews/yesstyle-reward-code-cecilia010-zh-hant',
+                  'zh-hans': '/reviews/yesstyle-reward-code-cecilia010-zh-hans',
+                }}
+              />
             )}
 
             <EditorialReveal as="div" delay={0.2} className="mb-8">
@@ -535,6 +545,12 @@ export function ReviewNotebookTemplate({
           )}
         </div>
       </EditorialAmbientBackground>
+
+      <ReviewMobileBottomBar
+        coupon={review.coupon}
+        cta={effectiveCta ? { url: effectiveCta.url, label: effectiveCta.label } : null}
+        locale={couponCopyLocale}
+      />
     </>
   );
 }

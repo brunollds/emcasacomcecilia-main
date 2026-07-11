@@ -9,3 +9,5 @@ export {
   type ReviewMobileTocProps,
 } from './ReviewTableOfContents';
 export { ReputacaoMetricas, PadroesReclamacao } from './ReputacaoMetricas';
+export { ReviewMobileBottomBar, type ReviewMobileBottomBarProps } from './ReviewMobileBottomBar';
+export { InlineCouponCopy, type InlineCouponCopyProps } from './InlineCouponCopy';

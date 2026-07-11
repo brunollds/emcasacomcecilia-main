@@ -26,7 +26,11 @@ export async function generateMetadata({ params }) {
     'yesstyle-reward-code-coupon-cecilia010',
     'codigo-de-recompensa-yesstyle-cupon-cecilia010',
     'code-recompense-yesstyle-cecilia010',
-    'yesstyle-reward-code-rabatt-cecilia010'
+    'yesstyle-reward-code-rabatt-cecilia010',
+    'yesstyle-reward-code-cecilia010-ko',
+    'yesstyle-reward-code-cecilia010-ja',
+    'yesstyle-reward-code-cecilia010-zh-hant',
+    'yesstyle-reward-code-cecilia010-zh-hans'
   ];
 
   if (yesStyleSlugs.includes(slug)) {
@@ -35,6 +39,10 @@ export async function generateMetadata({ params }) {
     languages['es'] = 'https://emcasacomcecilia.com/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010';
     languages['fr'] = 'https://emcasacomcecilia.com/reviews/code-recompense-yesstyle-cecilia010';
     languages['de'] = 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-rabatt-cecilia010';
+    languages['ko'] = 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-ko';
+    languages['ja'] = 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-ja';
+    languages['zh-Hant'] = 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-zh-hant';
+    languages['zh-Hans'] = 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-zh-hans';
     languages['x-default'] = 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-coupon-cecilia010';
   }
 

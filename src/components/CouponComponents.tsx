@@ -8,6 +8,8 @@ import { ArrowUpRight, Check, ChevronDown, Copy } from 'lucide-react';
 type CopyButtonProps = {
   code: string;
   label?: string;
+  copiedLabel?: string;
+  ariaLabel?: string;
   variant?: 'primary' | 'ghost';
   className?: string;
 };
@@ -15,6 +17,8 @@ type CopyButtonProps = {
 export function CopyButton({
   code,
   label = 'Copiar código',
+  copiedLabel = 'Copiado!',
+  ariaLabel,
   variant = 'primary',
   className = '',
 }: CopyButtonProps) {
@@ -40,12 +44,12 @@ export function CopyButton({
       type="button"
       onClick={handleClick}
       className={`inline-flex items-center gap-2 rounded-lg text-sm font-semibold transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 ${variantClass} ${className}`}
-      aria-label={`Copiar código ${code}`}
+      aria-label={ariaLabel || `Copiar código ${code}`}
     >
       {copied ? (
         <>
           <Check className="h-4 w-4" />
-          Copiado!
+          {copiedLabel}
         </>
       ) : (
         <>

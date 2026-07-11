@@ -30132,6 +30132,246 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dieser Artikel enthält Affiliate-Links. Wenn du den Belohnungscode CECILIA010 nutzt, kann der Blog Em Casa com Cecília eine Provision oder Vorteile erhalten, ohne dass dir zusätzliche Kosten entstehen. Alle Informationen basieren auf Recherchen und persönlicher Erfahrung. Zollbestimmungen und Richtlinien des Shops können sich ändern."
   },
   {
+    "id": 40,
+    "slug": "yesstyle-reward-code-cecilia010-ko",
+    "title": "YesStyle 리워드 코드 CECILIA010: 추가 5% 할인",
+    "type": "Guide & Coupons",
+    "reviewKind": "guia",
+    "description": "YesStyle 리워드 코드 CECILIA010을 올바른 칸에 입력해 활성 쿠폰과 함께 추가 5% 혜택을 받는 방법을 안내합니다.",
+    "publishedAt": "11 Jul 2026",
+    "publishedAtISO": "2026-07-11",
+    "draft": false,
+    "hideFromListings": true,
+    "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
+    "imageAlt": "YesStyle의 한국 스킨케어 제품",
+    "coupon": "CECILIA010",
+    "cta": {
+      "text": "YesStyle 결제 시 CECILIA010을 사용하세요.",
+      "label": "YesStyle에서 코드 사용",
+      "url": "https://ystyle.co/x5pes"
+    },
+    "contentSections": [
+      {
+        "heading": "CECILIA010 사용 방법",
+        "paragraphs": [
+          "CECILIA010은 일반 쿠폰이 아닌 YesStyle 리워드 코드입니다. Reward Code 전용 칸에 입력하면 추가 5% 혜택을 받을 수 있습니다.",
+          "활성 프로모션 쿠폰은 Coupon Code 칸에 별도로 입력할 수 있으므로 두 혜택을 함께 확인하세요."
+        ],
+        "bullets": [
+          "코드: CECILIA010",
+          "혜택: 추가 5%",
+          "입력 위치: Reward Code",
+          "활성 쿠폰과 함께 사용 가능"
+        ]
+      },
+      {
+        "heading": "결제 단계",
+        "paragraphs": [
+          "YesStyle에서 상품을 장바구니에 담고 결제로 이동하세요. Reward Code 칸에 CECILIA010을 입력한 뒤 적용을 선택합니다."
+        ],
+        "bullets": [
+          "Reward Code에 CECILIA010 입력",
+          "Coupon Code에는 별도의 활성 프로모션 코드 입력",
+          "결제 전 주문 요약에서 두 할인 확인"
+        ]
+      },
+      {
+        "heading": "구매 전 확인 사항",
+        "paragraphs": [
+          "배송, 세금 및 할인 적용 여부는 목적지와 현재 조건에 따라 달라질 수 있습니다. 결제 전 최종 금액을 확인하세요."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "CECILIA010은 쿠폰인가요? 리워드 코드이며 Reward Code 칸에 입력합니다.",
+          "다른 쿠폰과 함께 사용할 수 있나요? 네, 활성 쿠폰은 Coupon Code 칸에 별도로 입력하세요.",
+          "할인율은 얼마인가요? 대상 주문에서 추가 5% 혜택을 제공하며 현재 조건을 확인하세요."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "slug": "yesstyle-reward-code-cecilia010-ja",
+    "title": "YesStyle リワードコード CECILIA010：さらに5%オフ",
+    "type": "Guide & Coupons",
+    "reviewKind": "guia",
+    "description": "YesStyleのリワードコードCECILIA010を正しい欄に入力し、有効なクーポンと併用する方法を解説します。",
+    "publishedAt": "11 Jul 2026",
+    "publishedAtISO": "2026-07-11",
+    "draft": false,
+    "hideFromListings": true,
+    "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
+    "imageAlt": "YesStyleの韓国スキンケア製品",
+    "coupon": "CECILIA010",
+    "cta": {
+      "text": "YesStyleのチェックアウトでCECILIA010を使いましょう。",
+      "label": "YesStyleでコードを使う",
+      "url": "https://ystyle.co/x5pes"
+    },
+    "contentSections": [
+      {
+        "heading": "CECILIA010の使い方",
+        "paragraphs": [
+          "CECILIA010は通常のクーポンではなくYesStyleのリワードコードです。Reward Code専用欄に入力するとさらに5%の特典が適用されます。",
+          "有効なプロモーションコードはCoupon Code欄に別途入力できるため、両方の割引を確認してください。"
+        ],
+        "bullets": [
+          "コード：CECILIA010",
+          "特典：さらに5%",
+          "入力欄：Reward Code",
+          "有効なクーポンと併用可能"
+        ]
+      },
+      {
+        "heading": "チェックアウトの手順",
+        "paragraphs": [
+          "商品をバッグに入れてチェックアウトへ進み、Reward Code欄にCECILIA010を入力して適用します。"
+        ],
+        "bullets": [
+          "Reward CodeにCECILIA010を入力",
+          "Coupon Codeには別の有効なコードを入力",
+          "注文前に両方の割引を確認"
+        ]
+      },
+      {
+        "heading": "購入前の確認",
+        "paragraphs": [
+          "送料、税金、割引の適用は配送先と現在の条件により異なります。支払い前に最終金額を確認してください。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "CECILIA010はクーポンですか？Reward Code欄に入力するリワードコードです。",
+          "ほかのクーポンと併用できますか？はい。プロモーションコードはCoupon Code欄に入力します。",
+          "割引率はいくらですか？対象注文でさらに5%の特典が付きます。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "slug": "yesstyle-reward-code-cecilia010-zh-hant",
+    "title": "YesStyle 獎勵碼 CECILIA010：額外 5% 優惠",
+    "type": "Guide & Coupons",
+    "reviewKind": "guia",
+    "description": "了解如何在 YesStyle 正確輸入獎勵碼 CECILIA010，並與有效優惠碼同時使用。",
+    "publishedAt": "11 Jul 2026",
+    "publishedAtISO": "2026-07-11",
+    "draft": false,
+    "hideFromListings": true,
+    "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
+    "imageAlt": "YesStyle 韓國護膚產品",
+    "coupon": "CECILIA010",
+    "cta": {
+      "text": "在 YesStyle 結帳時使用 CECILIA010。",
+      "label": "前往 YesStyle 使用代碼",
+      "url": "https://ystyle.co/x5pes"
+    },
+    "contentSections": [
+      {
+        "heading": "如何使用 CECILIA010",
+        "paragraphs": [
+          "CECILIA010 是 YesStyle 獎勵碼，不是一般優惠碼。請在 Reward Code 專用欄位輸入，以獲得額外 5% 優惠。",
+          "有效促銷優惠碼可另外輸入 Coupon Code 欄位，請確認兩項優惠皆已套用。"
+        ],
+        "bullets": [
+          "代碼：CECILIA010",
+          "優惠：額外 5%",
+          "輸入位置：Reward Code",
+          "可與有效優惠碼一起使用"
+        ]
+      },
+      {
+        "heading": "結帳步驟",
+        "paragraphs": [
+          "將商品加入購物袋後前往結帳，在 Reward Code 欄位輸入 CECILIA010 並套用。"
+        ],
+        "bullets": [
+          "Reward Code 輸入 CECILIA010",
+          "Coupon Code 另外輸入促銷碼",
+          "付款前確認兩項折扣"
+        ]
+      },
+      {
+        "heading": "購買前請確認",
+        "paragraphs": [
+          "運費、稅費與優惠適用情況可能因配送地及當前條款而不同，付款前請確認最終金額。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "CECILIA010 是優惠碼嗎？它是應輸入 Reward Code 的獎勵碼。",
+          "可與其他優惠碼使用嗎？可以，促銷碼請輸入 Coupon Code。",
+          "優惠是多少？符合條件的訂單可額外享有 5%。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "slug": "yesstyle-reward-code-cecilia010-zh-hans",
+    "title": "YesStyle 奖励码 CECILIA010：额外 5% 优惠",
+    "type": "Guide & Coupons",
+    "reviewKind": "guia",
+    "description": "了解如何在 YesStyle 正确输入奖励码 CECILIA010，并与有效优惠码同时使用。",
+    "publishedAt": "11 Jul 2026",
+    "publishedAtISO": "2026-07-11",
+    "draft": false,
+    "hideFromListings": true,
+    "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
+    "imageAlt": "YesStyle 韩国护肤产品",
+    "coupon": "CECILIA010",
+    "cta": {
+      "text": "在 YesStyle 结账时使用 CECILIA010。",
+      "label": "前往 YesStyle 使用代码",
+      "url": "https://ystyle.co/x5pes"
+    },
+    "contentSections": [
+      {
+        "heading": "如何使用 CECILIA010",
+        "paragraphs": [
+          "CECILIA010 是 YesStyle 奖励码，不是普通优惠码。请在 Reward Code 专用栏位输入，以获得额外 5% 优惠。",
+          "有效促销优惠码可另外输入 Coupon Code 栏位，请确认两项优惠均已应用。"
+        ],
+        "bullets": [
+          "代码：CECILIA010",
+          "优惠：额外 5%",
+          "输入位置：Reward Code",
+          "可与有效优惠码一起使用"
+        ]
+      },
+      {
+        "heading": "结账步骤",
+        "paragraphs": [
+          "将商品加入购物袋后前往结账，在 Reward Code 栏位输入 CECILIA010 并应用。"
+        ],
+        "bullets": [
+          "在 Reward Code 输入 CECILIA010",
+          "在 Coupon Code 另外输入促销码",
+          "付款前确认两项折扣"
+        ]
+      },
+      {
+        "heading": "购买前请确认",
+        "paragraphs": [
+          "运费、税费及优惠适用情况可能因配送地和当前条款而不同，付款前请确认最终金额。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "CECILIA010 是优惠码吗？它是应输入 Reward Code 的奖励码。",
+          "可以与其他优惠码一起使用吗？可以，促销码请输入 Coupon Code。",
+          "优惠是多少？符合条件的订单可额外享受 5%。"
+        ]
+      }
+    ]
+  },
+  {
     "id": 19,
     "slug": "damie-reclame-aqui-o-que-os-dados-mostram",
     "title": "Damie no Reclame Aqui: o que os dados mostram antes de você comprar",
@@ -30292,6 +30532,12 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Cecília usando uma poltrona reclinável Damie com o apoio para as pernas aberto.",
     "pros": [],
     "cons": [],
+    "coupon": "CECILIA12",
+    "cta": {
+      "text": "Use o cupom CECILIA12 no checkout da Damie para receber 12% de desconto.",
+      "label": "Usar cupom na Damie",
+      "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_content=cupom-page"
+    },
     "contentSections": [
       {
         "heading": "Introdução",
@@ -31511,6 +31757,7 @@ export const reviewsData: unknown[] = [
       "Desconto não se aplica ao valor do frete",
       "Válido apenas no site oficial da NESCAFÉ Dolce Gusto Brasil"
     ],
+    "coupon": "CECI",
     "cta": {
       "text": "Use o cupom de desconto oficial CECI no checkout da NESCAFÉ Dolce Gusto.",
       "label": "Acessar NESCAFÉ Dolce Gusto",

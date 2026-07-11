@@ -49,6 +49,10 @@ const nextConfig = {
       },
       {
         protocol: 'https',
+        hostname: 'deo.shopeemobile.com',
+      },
+      {
+        protocol: 'https',
         hostname: 'down-br.img.susercontent.com',
       },
       {

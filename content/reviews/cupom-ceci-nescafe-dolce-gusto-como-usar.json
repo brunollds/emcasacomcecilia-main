@@ -52,6 +52,7 @@
     "Desconto não se aplica ao valor do frete",
     "Válido apenas no site oficial da NESCAFÉ Dolce Gusto Brasil"
   ],
+  "coupon": "CECI",
   "cta": {
     "text": "Use o cupom de desconto oficial CECI no checkout da NESCAFÉ Dolce Gusto.",
     "label": "Acessar NESCAFÉ Dolce Gusto",

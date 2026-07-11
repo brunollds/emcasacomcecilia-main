@@ -11,6 +11,12 @@
   "imageAlt": "Cecília usando uma poltrona reclinável Damie com o apoio para as pernas aberto.",
   "pros": [],
   "cons": [],
+  "coupon": "CECILIA12",
+  "cta": {
+    "text": "Use o cupom CECILIA12 no checkout da Damie para receber 12% de desconto.",
+    "label": "Usar cupom na Damie",
+    "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_content=cupom-page"
+  },
   "contentSections": [
     {
       "heading": "Introdução",

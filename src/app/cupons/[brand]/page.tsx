@@ -3,6 +3,8 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { CopyButton, CouponPillCard, FAQAccordion } from '@/components/CouponComponents';
+import { ReviewMobileBottomBar } from '@/components/review';
+import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 import {
   getAllActiveCouponSlugs,
   getCouponBySlug,
@@ -31,6 +33,20 @@ export async function generateMetadata({ params }: CouponBrandPageProps): Promis
     description: coupon.metaDescription,
     alternates: {
       canonical: `/cupons/${coupon.slug}`,
+      ...(coupon.slug === 'yesstyle' ? {
+        languages: {
+          'pt-BR': 'https://emcasacomcecilia.com/cupons/yesstyle',
+          en: 'https://emcasacomcecilia.com/en/coupons/yesstyle',
+          es: 'https://emcasacomcecilia.com/es/coupons/yesstyle',
+          fr: 'https://emcasacomcecilia.com/fr/coupons/yesstyle',
+          de: 'https://emcasacomcecilia.com/de/coupons/yesstyle',
+          ko: 'https://emcasacomcecilia.com/ko/coupons/yesstyle',
+          ja: 'https://emcasacomcecilia.com/ja/coupons/yesstyle',
+          'zh-Hant': 'https://emcasacomcecilia.com/zh-hant/coupons/yesstyle',
+          'zh-Hans': 'https://emcasacomcecilia.com/zh-hans/coupons/yesstyle',
+          'x-default': 'https://emcasacomcecilia.com/en/coupons/yesstyle',
+        },
+      } : {}),
     },
     openGraph: {
       title: coupon.metaTitle,
@@ -163,7 +179,7 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
   const heroGradient = `linear-gradient(135deg, ${coupon.brandColor} 0%, #862f0e 100%)`;
 
   return (
-    <main className="min-h-screen bg-[#fef9f3]">
+    <main className="min-h-screen bg-[#fef9f3] pb-24 lg:pb-0">
       {jsonLd.map((schema, index) => (
         <script
           key={index}
@@ -209,6 +225,27 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
           </div>
         </div>
       </section>
+
+      {coupon.slug === 'yesstyle' && (
+        <section className="px-4 pt-8">
+          <div className="mx-auto max-w-5xl">
+            <LanguageSwitcher
+              currentLocale="pt"
+              links={{
+                pt: '/cupons/yesstyle',
+                en: '/en/coupons/yesstyle',
+                es: '/es/coupons/yesstyle',
+                fr: '/fr/coupons/yesstyle',
+                de: '/de/coupons/yesstyle',
+                ko: '/ko/coupons/yesstyle',
+                ja: '/ja/coupons/yesstyle',
+                'zh-hant': '/zh-hant/coupons/yesstyle',
+                'zh-hans': '/zh-hans/coupons/yesstyle',
+              }}
+            />
+          </div>
+        </section>
+      )}
 
       {coupon.monthlyHighlight && (
         <section className="px-4 pt-8">
@@ -408,6 +445,11 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
           </div>
         </div>
       </article>
+
+      <ReviewMobileBottomBar
+        coupon={coupon.code}
+        cta={{ url: coupon.brandUrl, label: 'Usar na loja' }}
+      />
     </main>
   );
 }
