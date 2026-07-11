@@ -7,12 +7,37 @@ de um archive da fonte; nunca se envia `.next/` pronto.
 
 1. **NUNCA** fazer upload manual de `.next/`. O standalone da Hostinger é customizado e
    incompatível com build local — qualquer scp de `.next/` corrompe o servidor (crash loop, 100% CPU).
-2. **Um `deploy:finish` por deploy.** Cada restart (`touch tmp/restart.txt` ou MCP restart)
-   sobe um `next-server` novo **sem matar os antigos**. Rodar `finish` repetido empilha processos
-   até exaurir recursos → **503**. Se precisar recuperar, veja "Recuperação de 503" abaixo.
-3. **Nenhum deploy em produção sem decisão explícita do Bruno** (domínio apex = maior risco).
-4. Segredos ficam **fora do repositório** (arquivo gerenciado, ver abaixo). Nunca colar valores
-   em docs, código ou chat.
+2. **Deploy só via MCP, nunca pelo painel.** O painel Node.js está preso em **node 18.x** (label), e
+   um "Reimplantar" pelo painel reconstrói nessa versão. Os deploys via MCP rodam **node 20** (validado).
+   Deployar pelo painel = build divergente do que foi testado.
+3. **Um deploy = um restart.** Cada restart (`touch tmp/restart.txt`, MCP restart, ou o próprio deploy)
+   sobe um `next-server` novo **sem matar os antigos**. Restarts repetidos empilham processos até
+   exaurir recursos → **503**. Ver "Recuperação de 503".
+4. **Nenhum deploy em produção sem decisão explícita do Bruno** (domínio apex = maior risco).
+
+---
+
+## Variáveis de ambiente — vivem no PAINEL (não em arquivo)
+
+Desde 10/07/2026 os segredos e o `NODE_OPTIONS` moram no **painel da Hostinger**
+(`hPanel → Site emcasacomcecilia.com → Variáveis de ambiente`), **não** em um `.env` no servidor.
+Vantagens: **persistem entre deploys** (o deploy não as apaga) e são injetadas no processo node **no
+boot** — então o app já nasce saudável sem precisar de scp de `.env` nem restart manual.
+
+Validado em prod: com **nenhum `.env`** no servidor, o processo node tem `NODE_OPTIONS` e
+`YOUTUBE_API_KEY`, site 200 + vídeos populando.
+
+| Variável | Finalidade |
+|----------|-----------|
+| `NODE_OPTIONS` = `--v8-pool-size=1` | **Obrigatória** — sem ela, falha de criação de thread → 503 |
+| `RESEND_API_KEY` | Envio de email do formulário de contato |
+| `YOUTUBE_API_KEY` | Buscar vídeos recentes do canal (seção da home) |
+| `YOUTUBE_CHANNEL_ID` = `UCy2fjgwhD9x20SBe1jtN5vQ` | ID do canal (público) |
+| `NEXT_PUBLIC_GA_MEASUREMENT_ID` = `G-LDLH63KJMP` | GA4 (público; também vai no `.env.production`, baked em build) |
+
+> **Referência/backup dos valores:** `~/.config/emcasa/production.env` na máquina do Bruno (fora do
+> repo, nunca versionar). É a fonte de verdade do que **deve** estar no painel. Se precisar repovoar o
+> painel, é de lá que se copia. Os valores originais vieram de `emcasacomcecilia/.env.local`.
 
 ---
 
@@ -21,7 +46,6 @@ de um archive da fonte; nunca se envia `.next/` pronto.
 ### 0. Editar o conteúdo do artigo (`src/lib/data.ts`)
 
 Todo o conteúdo (receitas, reviews, FAQs) vive em `src/lib/data.ts` — é a fonte da verdade.
-Ao editar:
 
 ```bash
 cd C:/Users/Bruno/Downloads/Emcasacomcecilia/emcasacomcecilia
@@ -44,8 +68,7 @@ da **pasta PAI** com prefixo `emcasacomcecilia/` (senão o `resolveSettings` da 
 Já exclui `.next`, `node_modules`, `.git`, `.claude`, `.qwen`, `.env`/`.env.local`, e lixo de edição
 (`.bak/.work/.orig/.rej`). Usa `--force-local` no tar (senão o `C:` do path do Windows quebra o GNU tar).
 
-`.env.production` **entra de propósito** — só tem `NEXT_PUBLIC_*` (GA4, baked em build time). Os
-segredos ficam de fora e são injetados no passo 3.
+`.env.production` **entra de propósito** — só tem `NEXT_PUBLIC_*` (GA4, baked em build time).
 
 ### 2. Deploy via MCP (sessão Claude com ferramentas Hostinger)
 
@@ -58,23 +81,23 @@ hosting_deployJsApplication
 Depois faz poll com `hosting_listJsDeployments` até `state: completed` (~1 min). Confirmar no
 retorno que `root_directory: emcasacomcecilia` e `app_type: next`.
 
-> **`state: completed` NÃO é validação suficiente.** O deploy apaga a `.env`; o passo 3 restaura e testa.
+> **`state: completed` NÃO é validação suficiente** — o build terminou, mas o app faz cold start
+> (~90-120s) e pode empilhar processo. Sempre rodar o passo 3.
 
-### 3. `deploy:finish` (uma vez só — ver Regra 2)
+### 3. `deploy:finish` — health-check (não muta nada)
 
 ```bash
 npm run deploy:finish
 ```
 
-Faz, em ordem: reinjeta a `.env` (do arquivo gerenciado, via scp) → captura os workers atuais →
-restart (`touch tmp/restart.txt`) → verifica em loop `HTTP 200` **e** que os vídeos populam
-(thumbnails `ytimg`) → **poda os workers antigos** capturados (só depois do 200). Fail-loud se não voltar.
+Com o env no painel, este passo **não reinjeta `.env` nem reinicia** — só **verifica**: espera
+`HTTP 200` (até 180s, cobrindo o cold start) → confirma que os vídeos populam (thumbnails `ytimg`,
+prova de que o `YOUTUBE_API_KEY` do painel funciona) → avisa se há pilha de workers. Fail-loud se
+não voltar.
 
-> ⚠️ **O restart é COLD START (~90-120s de indisponibilidade), não rolling** — verificado na marra
-> neste host. O site fica em `000`/`503` durante esse intervalo; é **esperado**, não pânico. O
-> `finish` espera até 180s. A poda pós-200 evita que restarts sucessivos empilhem `next-server`
-> (a causa raiz do 503 — ver "Recuperação de 503"). Se algum dia o pileup ainda ocorrer, a
-> recuperação manual abaixo continua válida.
+> ⚠️ **O restart do deploy é COLD START (~90-120s de indisponibilidade), não rolling.** O site fica
+> em `000`/`503` nesse intervalo — é **esperado**, não pânico. Se passar de 180s ou ficar em 503,
+> ver Troubleshooting / Recuperação de 503.
 
 ### 4. IndexNow (avisar buscadores)
 
@@ -92,25 +115,11 @@ retornar 200.
 
 ---
 
-## Arquivo de env gerenciado (segredos fora do repo)
-
-O `deploy:finish` lê de `~/.config/emcasa/production.env` (ou `EMCASA_ENV_FILE`). **Nunca versionar.**
-
-Chaves obrigatórias (o loader valida): `NODE_OPTIONS=--v8-pool-size=1` (obrigatória — sem ela, falha
-de criação de thread → 503), `RESEND_API_KEY`, `YOUTUBE_API_KEY`, `YOUTUBE_CHANNEL_ID`,
-`NEXT_PUBLIC_GA_MEASUREMENT_ID`.
-
-> **Fonte dos valores reais/correntes:** `emcasacomcecilia/.env.local` (cópia local do dev).
-> NÃO estão no `.env.example` (placeholders) nem em nenhum doc versionado. Se o arquivo gerenciado
-> sumir, remontar dele — e validar a chave YouTube na API antes de deployar (o marcador "Últimos vídeos"
-> renderiza mesmo com chave morta; só a ausência de thumbnails `ytimg` denuncia).
-
----
-
 ## Recuperação de 503 (processos `next-server` empilhados)
 
-Sintoma: `curl` retorna a página 503 do LiteSpeed. Causa quase sempre: restarts repetidos deixaram
-vários `next-server` presos no dir do emcasa, exaurindo recursos.
+Sintoma: `curl` retorna a página 503 do LiteSpeed. Causa: restarts repetidos deixaram vários
+`next-server` presos no dir do emcasa, exaurindo recursos. (Com o env no painel isso ficou raro —
+só há 1 restart por deploy — mas ainda é possível.)
 
 O MCP `hosting_restartNode_jsApplicationV1` **sozinho não resolve** (adiciona mais um processo à pilha).
 A correção confiável (equivale ao stop/start do hPanel, mas cirúrgica) — **exige aprovação do Bruno**,
@@ -133,8 +142,8 @@ touch "$TARGET/tmp/restart.txt"                 # respawn único e limpo
 ```
 
 > **Igualdade estrita de `cwd`** — não casa com `api.emcasacomcecilia.com` nem
-> `damie.emcasacomcecilia.com`. **Nunca** matar processos desses dois. Pool saudável pós-respawn ≈
-> 3 workers; ~8 = pilha (problema).
+> `damie.emcasacomcecilia.com`. **Nunca** matar processos desses dois. Pool saudável ≈ 1-3 workers;
+> muito mais que isso = pilha. (Pelo hPanel: parar/iniciar só a app do domínio principal.)
 
 ---
 
@@ -152,32 +161,24 @@ touch "$TARGET/tmp/restart.txt"                 # respawn único e limpo
 
 ---
 
-## Variáveis de ambiente
-
-| Variável | Finalidade |
-|----------|-----------|
-| `NODE_OPTIONS` | Limita o pool V8 (`--v8-pool-size=1`) — sem isso, falha de thread → 503 |
-| `RESEND_API_KEY` | Envio de email do formulário de contato |
-| `YOUTUBE_API_KEY` | Buscar vídeos recentes do canal (seção da home) |
-| `YOUTUBE_CHANNEL_ID` | ID do canal (público) |
-| `NEXT_PUBLIC_GA_MEASUREMENT_ID` | Google Analytics 4 (público; vai no `.env.production`) |
-
----
-
 ## Troubleshooting
 
-**Site retorna 503** → ver "Recuperação de 503" acima. Verificar também se a `.env` tem
-`NODE_OPTIONS=--v8-pool-size=1`.
+**Site retorna 503** → se logo após um deploy, pode ser cold start (aguardar até ~2 min). Se persistir:
+(a) checar `NODE_OPTIONS=--v8-pool-size=1` nas Variáveis de ambiente do painel; (b) ver "Recuperação
+de 503" (pilha de processos).
 
-**"Últimos vídeos" sem thumbnails** → `.env` faltando ou `YOUTUBE_API_KEY` inválida/sem quota.
-Rodar `deploy:finish` (reinjeta a `.env`) e conferir a chave na API do YouTube.
+**"Últimos vídeos" sem thumbnails** → `YOUTUBE_API_KEY` ausente no painel, inválida ou sem quota.
+Conferir a var no painel e testar a chave na API do YouTube.
 
-**Formulário de contato não envia** → `.env` faltando (`RESEND_API_KEY`). Rodar `deploy:finish`.
+**Formulário de contato não envia** → `RESEND_API_KEY` ausente no painel.
 
 **`resolveSettings` HTTP 500** → archive criado de dentro do projeto (sem prefixo `emcasacomcecilia/`).
 Recriar com `deploy:prepare` (que já faz da pasta PAI).
 
 **Site sem CSS/JS** → BUILD_ID mismatch. Deploy limpo via MCP; nunca corrigir com scp.
+
+**Build saiu em node 18 / comportamento estranho** → deploy foi disparado pelo painel. Sempre via MCP
+(node 20). Ver Regra 2.
 
 **IndexNow enviou `.../C:/Program Files/Git/...`** → passou path com `/` no Git-Bash. Usar URLs
 completas (`https://...`).
