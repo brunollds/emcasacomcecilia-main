@@ -28,6 +28,8 @@ execFileSync('tar', [
   // lixo de edição — nunca deve embarcar no build de produção
   '--exclude=*.bak', '--exclude=*.bak.*', '--exclude=*.work',
   '--exclude=*.orig', '--exclude=*.rej',
+  // artefatos de diff da migração (gitignored; tar não lê .gitignore)
+  '--exclude=emcasacomcecilia/scripts/content/artifacts',
   '-czf', archive, 'emcasacomcecilia/',
 ], { cwd: parent, stdio: 'inherit' });
 
