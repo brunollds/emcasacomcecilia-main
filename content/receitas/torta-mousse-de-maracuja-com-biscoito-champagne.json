@@ -1,0 +1,150 @@
+{
+  "id": 202,
+  "slug": "torta-mousse-de-maracuja-com-biscoito-champagne",
+  "title": "Torta Mousse de Maracujá com Biscoito Champagne",
+  "description": "Torta gelada com base de biscoito champagne e mousse aerada de maracujá.",
+  "intro": "Esta torta mousse de maracujá é the leveza tropical em sua forma mais elegante. A base delicada de biscoito champagne acolhe uma mousse aerada e intensamente frutada, criando uma sobremesa gelada que derrete na boca liberando o aroma inconfundível da fruta, sendo the escolha perfeita para encerrar refeições com frescor e um toque de sofisticação artesanal.",
+  "context": "A mousse de maracujá é um dos pilares da doçaria brasileira por seu equilíbrio entre o doce e o ácido. Nesta versão de torta, the técnica de hidratar os biscoitos e garantir the estabilidade da mousse resulta em um prato de visual deslumbrante e textura de nuvem, celebrando the vitalidade dos nossos ingredientes nativos em uma apresentação refinada e contemporânea.",
+  "categories": [
+    "Sobremesas",
+    "Tortas",
+    "Frutas",
+    "Doces Gelados"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Tortas Doces",
+    "Mousses"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Maracujá",
+    "Leite Condensado"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "0 min",
+  "totalTime": "4 h 55 min",
+  "difficulty": "Fácil",
+  "yield": "10 fatias",
+  "searchTerms": [
+    "torta mousse de maracujá",
+    "biscoito champagne",
+    "sobremesa gelada",
+    "Páscoa"
+  ],
+  "tags": [
+    "tortademaracuja",
+    "moussedemaracuja",
+    "biscoitochampagne",
+    "sobremesagelada",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Base e mousse",
+      "items": [
+        "200 g de biscoito champagne",
+        "100 g de manteiga sem sal derretida",
+        "1 xícara de suco de maracujá concentrado",
+        "1 lata de leite condensado",
+        "1 caixa de creme de leite fresco",
+        "1 envelope de gelatina em pó sem sabor",
+        "5 colheres de sopa de água fervente",
+        "Frutas frescas para decorar",
+        "Raspas de chocolate branco para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Triture o biscoito champagne até formar farofa fina.",
+    "Misture com manteiga derretida e pressione no fundo de uma forma removível.",
+    "Leve à geladeira por 30 minutos.",
+    "Dissolva a gelatina na água fervente.",
+    "Bata suco de maracujá, leite condensado e creme de leite até formar creme.",
+    "Adicione a gelatina dissolvida e bata rapidamente.",
+    "Despeje sobre a base e gele por pelo menos 4 horas.",
+    "Desenforme e decore com frutas frescas e raspas de chocolate branco."
+  ],
+  "tips": [
+    "Castanhas trituradas deixam a base mais crocante.",
+    "Aumente o suco de maracujá para um recheio mais azedinho.",
+    "Folhas de hortelã deixam a apresentação mais fresca."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 25,
+  "structuredIngredients": [
+    {
+      "section": "Base e mousse",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "biscoito champagne"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga sem sal derretida"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "suco de maracujá concentrado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "caixa",
+          "name": "creme de leite fresco"
+        },
+        {
+          "qty": 1,
+          "unit": "envelope",
+          "name": "gelatina em pó sem sabor"
+        },
+        {
+          "qty": 5,
+          "unit": "col. sopa",
+          "name": "água fervente"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Frutas frescas",
+          "note": "para decorar"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Raspas de chocolate branco",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Triture o biscoito champagne até formar farofa fina.",
+        "Misture com manteiga derretida e pressione no fundo de uma forma removível.",
+        "Leve à geladeira por 30 minutos.",
+        "Dissolva a gelatina na água fervente.",
+        "Bata suco de maracujá, leite condensado e creme de leite até formar creme.",
+        "Adicione a gelatina dissolvida e bata rapidamente.",
+        "Despeje sobre a base e gele por pelo menos 4 horas.",
+        "Desenforme e decore com frutas frescas e raspas de chocolate branco."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": 184,
+  "slug": "bife-de-hamburguer-assado-no-forno",
+  "title": "Bife de Hambúrguer Assado no Forno",
+  "description": "Hambúrguer assado com crosta crocante de cornflakes e interior suculento.",
+  "categories": [
+    "Lanches",
+    "Carnes",
+    "Forno",
+    "Salgados"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Carne Vermelha"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Americana"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "diet": [
+    "High Protein",
+    "Low Carb"
+  ],
+  "keyIngredients": [
+    "Carne Moída"
+  ],
+  "collections": [
+    "Receitas em 30 min"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "20 min",
+  "totalTime": "40 min",
+  "difficulty": "Fácil",
+  "yield": "2 bifes grandes",
+  "searchTerms": [
+    "bife de hambúrguer",
+    "hambúrguer assado",
+    "cornflakes",
+    "lanche crocante"
+  ],
+  "tags": [
+    "hamburguerassado",
+    "receitacrocante",
+    "bifesuculento",
+    "cozinhapratica",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Hambúrguer",
+      "items": [
+        "300 g de filé de peito moído ou patinho moído",
+        "Tempero claro ou tempero de sua preferência a gosto",
+        "1 xícara de cornflakes natural sem açúcar",
+        "1 colher de chá de sal de ervas",
+        "1 ovo batido",
+        "Azeite extra virgem para finalizar",
+        "Papel antiaderente para assar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Processe ou solte a carne sem transformar em pasta.",
+    "Misture o tempero à carne e modele 2 bifes grandes.",
+    "Leve os bifes à geladeira por 10 a 15 minutos para firmar.",
+    "Triture os cornflakes com o sal de ervas até formar farofa grossa.",
+    "Bata o ovo em um prato fundo.",
+    "Passe os bifes no ovo e depois na farofa de cornflakes.",
+    "Coloque em assadeira forrada com papel antiaderente.",
+    "Regue com um fio de azeite.",
+    "Asse a 250°C por 20 minutos, sem virar."
+  ],
+  "tips": [
+    "Não processe demais a carne para preservar suculência.",
+    "Triture os cornflakes na hora para uma crosta mais crocante.",
+    "Para rechear, coloque um cubo de queijo no centro antes de empanar."
+  ],
+  "servings": 2,
+  "servingsUnit": "bifes grandes",
+  "prepMinutes": 20,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Hambúrguer",
+      "items": [
+        {
+          "qty": 300,
+          "unit": "g",
+          "name": "filé de peito moído ou patinho moído"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Tempero claro ou tempero de sua preferência",
+          "note": "a gosto"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "cornflakes natural sem açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "sal de ervas"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo batido"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Azeite extra virgem",
+          "note": "para finalizar"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Papel antiaderente para assar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Processe ou solte a carne sem transformar em pasta.",
+        "Misture o tempero à carne e modele 2 bifes grandes.",
+        "Leve os bifes à geladeira por 10 a 15 minutos para firmar.",
+        "Triture os cornflakes com o sal de ervas até formar farofa grossa.",
+        "Bata o ovo em um prato fundo.",
+        "Passe os bifes no ovo e depois na farofa de cornflakes.",
+        "Coloque em assadeira forrada com papel antiaderente.",
+        "Regue com um fio de azeite.",
+        "Asse a 250°C por 20 minutos, sem virar."
+      ]
+    }
+  ]
+}

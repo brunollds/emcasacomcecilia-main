@@ -1,0 +1,118 @@
+{
+  "id": 153,
+  "slug": "smoothie-de-banana-e-ovolmatine",
+  "title": "Smoothie de Banana e Ovolmatine",
+  "description": "Smoothie cremoso com banana madura, leite, Ovolmatine, mel e gelo opcional.",
+  "intro": "Este smoothie de banana com Ovolmatine é the união perfeita entre saúde e prazer sensorial. A doçura natural da fruta madura ganha the profundidade do malte em uma textura cremosa e gelada, resultando em uma bebida nutritiva e energética que é ideal para o café da manhã ou como um pós-treino cheio de sabor.",
+  "context": "Os smoothies são the escolha moderna para refeições rápidas e funcionais. Nesta versão, the banana atua como base de corpo e potássio, enquanto o Ovolmatine adiciona o fator de satisfação, celebrando the culinária consciente que não abre mão do prazer e da criatividade na mistura de ingredientes naturais e amados.",
+  "categories": [
+    "Bebidas",
+    "Smoothies",
+    "Ovolmatine",
+    "Café da Manhã"
+  ],
+  "primaryCategory": "Bebida",
+  "subCategory": [
+    "Shakes"
+  ],
+  "mealTime": [
+    "Café da Manhã"
+  ],
+  "method": [
+    "Liquidificador"
+  ],
+  "keyIngredients": [
+    "Banana",
+    "Chocolate"
+  ],
+  "collections": [
+    "Receitas em 30 min"
+  ],
+  "prepTime": "5 min",
+  "cookTime": "0 min",
+  "totalTime": "5 min",
+  "difficulty": "Fácil",
+  "yield": "1 porção",
+  "searchTerms": [
+    "smoothie de banana",
+    "Ovolmatine",
+    "vitamina de banana",
+    "bebida nutritiva"
+  ],
+  "tags": [
+    "smoothiedebanana",
+    "ovolmatine",
+    "banana",
+    "bebidanutritiva",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Smoothie",
+      "items": [
+        "1 banana madura",
+        "1 copo de leite ou leite vegetal",
+        "2 colheres de sopa de Ovolmatine",
+        "1 colher de sopa de mel",
+        "Cubos de gelo opcionais"
+      ]
+    }
+  ],
+  "instructions": [
+    "Descasque e corte a banana em rodelas.",
+    "Bata banana, leite, Ovolmatine, mel e gelo no liquidificador.",
+    "Ajuste a textura com mais leite se necessário.",
+    "Sirva imediatamente."
+  ],
+  "tips": [
+    "Banana congelada deixa o smoothie mais cremoso.",
+    "Iogurte natural adiciona corpo e proteína.",
+    "Canela, manga ou morango funcionam como variações."
+  ],
+  "servings": 1,
+  "servingsUnit": "porção",
+  "prepMinutes": 5,
+  "structuredIngredients": [
+    {
+      "section": "Smoothie",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "banana madura"
+        },
+        {
+          "qty": 1,
+          "unit": "copo",
+          "name": "leite ou leite vegetal"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres de sopa de Ovolmatine"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de sopa de mel"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Cubos de gelo opcionais"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Descasque e corte a banana em rodelas.",
+        "Bata banana, leite, Ovolmatine, mel e gelo no liquidificador.",
+        "Ajuste a textura com mais leite se necessário.",
+        "Sirva imediatamente."
+      ]
+    }
+  ]
+}

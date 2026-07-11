@@ -1,0 +1,176 @@
+{
+  "id": 27,
+  "slug": "pao-naan-indiano-caseiro",
+  "title": "Pão Naan Indiano Caseiro",
+  "description": "Aprenda a fazer o legítimo pão indiano: macio, com bolhas douradas e aroma irresistível, perfeito para acompanhar molhos e curries.",
+  "intro": "O pão naan é a alma das refeições indianas, conhecido por sua textura macia e as icônicas bolhas douradas que surgem no calor da frigideira. Com um leve aroma de iogurte e finalizado com manteiga derretida, ele é o veículo perfeito para mergulhar em curries ricos ou simplesmente ser apreciado ainda quente, direto do fogo.",
+  "context": "Embora tradicionalmente assado em fornos tandoor de argila, esta versão caseira adaptada para a frigideira preserva a autenticidade e o sabor do legítimo naan. É um pão que celebra a partilha e a hospitalidade, sendo um elemento essencial que une todos os sabores de um banquete oriental.",
+  "publishedAt": "2024-03-01",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "image": "/images/recipes/paes/pao-naan-indiano-caseiro.jpg",
+  "imageAlt": "Pães naan indianos caseiros empilhados com ervas e manteiga.",
+  "categories": [
+    "Pães",
+    "Indiana",
+    "Acompanhamento"
+  ],
+  "primaryCategory": "Pão",
+  "subCategory": [
+    "Pães Caseiros"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Indiana"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "collections": [
+    "Receita Clássica"
+  ],
+  "prepTime": "15 min",
+  "prepMinutes": 15,
+  "cookTime": "10 min",
+  "cookMinutes": 10,
+  "totalTime": "1h 25 min",
+  "difficulty": "Fácil",
+  "yield": "8 unidades",
+  "servings": 8,
+  "servingsUnit": "pães",
+  "searchTerms": [
+    "pão naan",
+    "naan indiano",
+    "pão de frigideira",
+    "iogurte natural",
+    "manteiga ghee",
+    "comida indiana"
+  ],
+  "tags": [
+    "paonaan",
+    "indiana",
+    "paodefrigideira",
+    "iogurte",
+    "paocaseiro",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "3 xícaras (chá) de farinha de trigo",
+        "1 xícara (chá) de iogurte natural integral",
+        "1/2 xícara (chá) de água morna",
+        "2 colheres (sopa) de azeite ou manteiga ghee",
+        "1 colher (sopa) de açúcar",
+        "1 colher (sopa) de fermento biológico seco",
+        "1 colher (chá) de sal"
+      ]
+    },
+    {
+      "section": "Finalização",
+      "items": [
+        "Manteiga derretida a gosto",
+        "Alho picado e salsinha (opcional)"
+      ]
+    }
+  ],
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 3,
+          "unit": "xíc. (chá)",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc. (chá)",
+          "name": "iogurte natural integral"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc. (chá)",
+          "name": "água morna"
+        },
+        {
+          "qty": 2,
+          "unit": "col. sopa",
+          "name": "azeite ou manteiga ghee"
+        },
+        {
+          "qty": 1,
+          "unit": "col. sopa",
+          "name": "açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "col. sopa",
+          "name": "fermento biológico seco"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "sal"
+        }
+      ]
+    },
+    {
+      "section": "Finalização",
+      "items": [
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "manteiga derretida",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "alho picado e salsinha",
+          "note": "opcional"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    "Em uma tigela, misture a água morna, o açúcar e o fermento. Deixe descansar por 5 a 10 minutos até espumar.",
+    "Adicione o iogurte, o azeite e o sal. Misture bem.",
+    "Incorpore a farinha aos poucos e amasse até obter uma massa lisa e levemente grudenta.",
+    "Sove por cerca de 5 minutos e deixe crescer em uma tigela untada por 1 hora, ou até dobrar de volume.",
+    "Divida a massa em 8 bolas. Abra cada uma em formato oval com cerca de 0,5 cm de espessura.",
+    "Aqueça uma frigideira de fundo grosso em fogo alto. Cozinhe cada pão por 1 a 2 minutos de cada lado, até formar bolhas e dourar.",
+    "Retire e pincele imediatamente com manteiga derretida."
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Em uma tigela, misture a água morna, o açúcar e o fermento. Deixe descansar por 5 a 10 minutos até espumar.",
+        "Adicione o iogurte, o azeite e o sal. Misture bem.",
+        "Incorpore a farinha aos poucos e amasse até obter uma massa lisa e levemente grudenta.",
+        "Sove por cerca de 5 minutos e deixe crescer em uma tigela untada por 1 hora, ou até dobrar de volume.",
+        "Divida a massa em 8 bolas. Abra cada uma em formato oval com cerca de 0,5 cm de espessura.",
+        "Aqueça uma frigideira de fundo grosso em fogo alto. Cozinhe cada pão por 1 a 2 minutos de cada lado, até formar bolhas e dourar.",
+        "Retire e pincele imediatamente com manteiga derretida."
+      ]
+    }
+  ],
+  "tips": [
+    "Use a frigideira bem quente para o naan inflar e criar bolhas douradas rapidamente.",
+    "Não abra a massa fina demais: ela precisa de espessura para ficar macia por dentro.",
+    "Pincele a manteiga assim que o pão sair do fogo para ela derreter e perfumar a massa."
+  ]
+}

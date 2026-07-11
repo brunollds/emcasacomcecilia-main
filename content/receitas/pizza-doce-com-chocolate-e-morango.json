@@ -1,0 +1,164 @@
+{
+  "id": 111,
+  "slug": "pizza-doce-com-chocolate-e-morango",
+  "title": "Pizza Doce com Chocolate e Morango",
+  "description": "Pizza doce com massa caseira, chocolate ao leite derretido e morangos frescos.",
+  "intro": "A pizza doce de chocolate com morango é o encerramento lúdico e irresistível de qualquer noite de massas. Unindo o calor da massa artesanal recém-saída do forno à cremosidade do chocolate derretido e ao frescor ácido dos morangos, esta sobremesa é um festival de texturas que agrada a todas as idades, transformando a pizza em um momento de pura indulgência.",
+  "context": "Uma adaptação festiva das pizzarias brasileiras, a pizza doce desafia a tradição italiana com criatividade e ousadia. O segredo da perfeição está no equilíbrio: o chocolate não deve ser excessivamente doce, permitindo que o frescor natural das frutas brilhe, criando um prato que celebra a alegria e o compartilhamento em cada fatia colorida.",
+  "categories": [
+    "Massas",
+    "Pizza",
+    "Sobremesas",
+    "Doces"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Tortas Doces"
+  ],
+  "mealTime": [
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate",
+    "Morango"
+  ],
+  "collections": [
+    "Para Dois"
+  ],
+  "prepTime": "1h20",
+  "cookTime": "20 min",
+  "totalTime": "1h40",
+  "difficulty": "Médio",
+  "yield": "1 pizza grande",
+  "searchTerms": [
+    "pizza doce",
+    "chocolate",
+    "morango",
+    "sobremesa",
+    "pizza de chocolate"
+  ],
+  "tags": [
+    "pizzadoce",
+    "chocolate",
+    "morango",
+    "sobremesa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 xícara de água morna",
+        "1 colher (sopa) de açúcar",
+        "1 colher (sopa) de fermento biológico seco",
+        "1/4 xícara de azeite",
+        "3 xícaras de farinha de trigo",
+        "1 colher (chá) de sal"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "200 g de chocolate ao leite picado",
+        "1 caixa de morangos frescos",
+        "Açúcar de confeiteiro a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Prepare a massa e deixe crescer por 1 hora.",
+    "Abra a massa e coloque em forma untada.",
+    "Asse a 200°C por cerca de 15 minutos.",
+    "Retire do forno e espalhe o chocolate picado.",
+    "Volte ao forno por alguns minutos até derreter.",
+    "Cubra com morangos frescos.",
+    "Finalize com açúcar de confeiteiro."
+  ],
+  "tips": [
+    "Banana, kiwi ou manga podem variar a cobertura.",
+    "Sirva quente ou fria.",
+    "Chocolate meio amargo reduz a doçura."
+  ],
+  "servings": 1,
+  "servingsUnit": "pizza grande",
+  "prepMinutes": 60,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "água morna"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de fermento biológico seco"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "azeite"
+        },
+        {
+          "qty": 3,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de sal"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "chocolate ao leite picado"
+        },
+        {
+          "qty": 1,
+          "unit": "caixa",
+          "name": "morangos frescos"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Açúcar de confeiteiro",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Prepare a massa e deixe crescer por 1 hora.",
+        "Abra a massa e coloque em forma untada.",
+        "Asse a 200°C por cerca de 15 minutos.",
+        "Retire do forno e espalhe o chocolate picado.",
+        "Volte ao forno por alguns minutos até derreter.",
+        "Cubra com morangos frescos.",
+        "Finalize com açúcar de confeiteiro."
+      ]
+    }
+  ]
+}

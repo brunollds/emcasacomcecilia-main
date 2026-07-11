@@ -1,0 +1,140 @@
+{
+  "id": 212,
+  "slug": "pudim-de-maria-mole",
+  "title": "Pudim de Maria Mole",
+  "description": "Pudim sem forno, firme e cremoso, feito com maria mole, leite condensado e leite de coco.",
+  "intro": "O pudim de maria mole é the suavidade gelada que derrete na boca com the leveza de uma nuvem. Sem necessidade de forno, este clássico das sobremesas práticas une o perfume tropical do leite de coco à textura aerada da maria mole, oferecendo um encerramento refrescante e nostálgico que agrada a todos pela sua delicadeza láctea.",
+  "context": "Pilar da doçaria caseira que preza pela eficiência, o pudim de maria mole é uma lição de paciência no resfriamento. Esta receita valoriza the simplicidade dos ingredientes que, quando batidos no ponto certo, criam uma sobremesa de textura inimitável, celebrando the praticidade que não abre mão do prazer de um doce bem executado e extremamente acolhedor.",
+  "categories": [
+    "Sobremesas",
+    "Pudins",
+    "Doces Gelados",
+    "Fáceis"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pudins & Cremes"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Coco"
+  ],
+  "collections": [
+    "Receita Clássica",
+    "Receita de Vó"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "0 min",
+  "totalTime": "12 h 10 min",
+  "difficulty": "Fácil",
+  "yield": "10 fatias",
+  "searchTerms": [
+    "pudim de maria mole",
+    "pudim sem forno",
+    "leite de coco",
+    "sobremesa gelada"
+  ],
+  "tags": [
+    "pudimdemariamole",
+    "pudimsemforno",
+    "sobremesagelada",
+    "docinhodedomingo",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Pudim",
+      "items": [
+        "1 pacote de maria mole",
+        "1 lata de leite condensado",
+        "1 lata de creme de leite",
+        "1 xícara de água quente",
+        "200 ml de leite de coco",
+        "Caramelo para untar a forma",
+        "Coco ralado para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Caramelize uma forma média.",
+    "No liquidificador, dissolva a maria mole na água quente.",
+    "Adicione leite condensado, creme de leite e leite de coco.",
+    "Bata por 1 minuto até ficar homogêneo.",
+    "Despeje na forma caramelizada.",
+    "Leve à geladeira por no mínimo 12 horas.",
+    "Passe uma faca fina nas bordas e desenforme.",
+    "Decore com coco ralado."
+  ],
+  "tips": [
+    "As 12 horas de geladeira são essenciais para firmar.",
+    "Use caramelo que não endurece para facilitar o desenforme.",
+    "Abacaxi picado ou maria mole de chocolate criam boas variações."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Pudim",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "maria mole"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "água quente"
+        },
+        {
+          "qty": 200,
+          "unit": "ml",
+          "name": "leite de coco"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Caramelo a forma",
+          "note": "para untar"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Coco ralado",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Caramelize uma forma média.",
+        "No liquidificador, dissolva a maria mole na água quente.",
+        "Adicione leite condensado, creme de leite e leite de coco.",
+        "Bata por 1 minuto até ficar homogêneo.",
+        "Despeje na forma caramelizada.",
+        "Leve à geladeira por no mínimo 12 horas.",
+        "Passe uma faca fina nas bordas e desenforme.",
+        "Decore com coco ralado."
+      ]
+    }
+  ]
+}

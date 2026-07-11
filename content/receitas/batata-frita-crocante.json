@@ -1,0 +1,122 @@
+{
+  "id": 84,
+  "slug": "batata-frita-crocante",
+  "title": "Batata Frita Crocante",
+  "description": "Batata frita caseira, sequinha e crocante, perfeita para lanches e petiscos.",
+  "intro": "A batata frita perfeita é o objeto de desejo de dez entre dez apaixonados por comida. Com sua cor dourada hipnotizante e aquele 'crac' sonoro que revela um interior macio e fumegante, ela é a rainha dos petiscos e o acompanhamento imbatível que transforma qualquer lanche em um momento de puro prazer.",
+  "context": "O segredo da batata frita digna de restaurante reside na técnica da dupla fritura e na remoção correta do amido. Esta receita desvenda o passo a passo para garantir que fiquem sequinhas e crocantes por mais tempo, celebrando um clássico mundial que atravessa gerações como o símbolo máximo da diversão à mesa.",
+  "categories": [
+    "Acompanhamentos",
+    "Petiscos",
+    "Lanches"
+  ],
+  "primaryCategory": "Acompanhamento",
+  "subCategory": [
+    "Batatas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar",
+    "Happy Hour"
+  ],
+  "method": [
+    "Fritura"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "keyIngredients": [
+    "Batata"
+  ],
+  "collections": [
+    "Comfort Food",
+    "Receita Clássica",
+    "Para Crianças"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "20 min",
+  "totalTime": "35 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "isPopular": true,
+  "searchTerms": [
+    "batata frita",
+    "batata crocante",
+    "fritas",
+    "petisco",
+    "lanche"
+  ],
+  "tags": [
+    "batatafrita",
+    "fritas",
+    "batatacrocante",
+    "petisco",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Batatas",
+      "items": [
+        "1 kg de batatas médias",
+        "Óleo para fritar",
+        "Sal a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Descasque as batatas e corte em palitos.",
+    "Lave em água corrente para retirar o excesso de amido.",
+    "Seque muito bem com pano limpo ou papel toalha.",
+    "Aqueça o óleo em uma panela funda.",
+    "Frite até dourar e ficar crocante.",
+    "Escorra em papel toalha.",
+    "Tempere com sal e sirva."
+  ],
+  "tips": [
+    "Palitos finos e uniformes fritam melhor.",
+    "Para mais crocância, frite em duas etapas: primeiro em fogo mais baixo, depois em óleo mais quente.",
+    "Páprica, alho em pó e orégano podem entrar na finalização."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Batatas",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "kg de batatas médias"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Óleo",
+          "note": "para fritar"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Descasque as batatas e corte em palitos.",
+        "Lave em água corrente para retirar o excesso de amido.",
+        "Seque muito bem com pano limpo ou papel toalha.",
+        "Aqueça o óleo em uma panela funda.",
+        "Frite até dourar e ficar crocante.",
+        "Escorra em papel toalha.",
+        "Tempere com sal e sirva."
+      ]
+    }
+  ]
+}

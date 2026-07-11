@@ -1,0 +1,120 @@
+{
+  "id": 161,
+  "slug": "mousse-vegano-de-chocolate-com-frutas",
+  "title": "Mousse Vegano de Chocolate com Frutas",
+  "description": "Mousse vegano cremoso com abacate ou tofu, cacau, agave, baunilha e frutas frescas.",
+  "intro": "Esta mousse vegana de chocolate é the prova de que the leveza e the intensidade podem coexistir em uma sobremesa ética e deliciosa. Com uma base aveludada de abacate ou tofu que derrete na boca, enriquecida pelo cacau puro, ela oferece um prazer aveludado e consciente, finalizado com the explosão de cor e frescor das frutas vermelhas sazonais.",
+  "context": "A confeitaria inclusiva ganha status de alta gastronomia nesta receita que valoriza ingredientes naturais. O segredo da textura de 'nuvem' sem o uso de ovos ou lácteos reside no equilíbrio entre as gorduras boas e o dulçor do agave, celebrando uma Páscoa moderna onde the saúde e o sabor caminham juntos em uma apresentação vibrante e sofisticada.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Vegana",
+    "Chocolate"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Mousses"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "diet": [
+    "Vegana",
+    "Sem Lactose"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "0 min",
+  "totalTime": "2 h 15 min",
+  "difficulty": "Fácil",
+  "yield": "6 porções",
+  "searchTerms": [
+    "mousse vegano",
+    "chocolate vegano",
+    "abacate",
+    "tofu",
+    "frutas frescas"
+  ],
+  "tags": [
+    "moussevegano",
+    "chocolatevegano",
+    "pascoavegana",
+    "sem lactose",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Mousse",
+      "items": [
+        "2 abacates maduros ou 300 g de tofu",
+        "1/2 xícara de cacau em pó",
+        "1/2 xícara de xarope de agave",
+        "1 colher de chá de essência de baunilha",
+        "Morangos, mirtilos e framboesas para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bata abacate ou tofu com cacau, agave e baunilha até ficar homogêneo.",
+    "Distribua em taças.",
+    "Leve à geladeira por 2 horas.",
+    "Decore com frutas frescas e hortelã antes de servir."
+  ],
+  "tips": [
+    "Banana congelada pode substituir o abacate para uma textura cremosa.",
+    "Calda de chocolate vegano deixa a apresentação mais intensa.",
+    "Prepare um dia antes e decore apenas na hora."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Mousse",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "abacates maduros ou 300 g de tofu"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "cacau em pó"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "xarope de agave"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de chá de essência de baunilha"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Morangos, mirtilos e framboesas",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Bata abacate ou tofu com cacau, agave e baunilha até ficar homogêneo.",
+        "Distribua em taças.",
+        "Leve à geladeira por 2 horas.",
+        "Decore com frutas frescas e hortelã antes de servir."
+      ]
+    }
+  ]
+}

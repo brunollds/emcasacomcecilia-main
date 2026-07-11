@@ -1,0 +1,139 @@
+{
+  "id": 188,
+  "slug": "biscoitos-amanteigados-decorados",
+  "title": "Biscoitos Amanteigados Decorados",
+  "description": "Biscoitos natalinos macios, amanteigados e decorados com glacê colorido.",
+  "intro": "Estes biscoitos amanteigados são the materialização do afeto e da criatividade na cozinha festiva. Com uma massa que desmancha na boca e o aroma inconfundível da baunilha, eles ganham vida com decorações coloridas de glacê real, transformando o simples ato de assar em um momento lúdico de celebração e partilha.",
+  "context": "Pilar das tradições de fim de ano ao redor do mundo, o biscoito amanteigado é valorizado por sua versatilidade de formas e desenhos. Esta receita foca na qualidade da manteiga para garantir the textura ideal para o corte, celebrando the hospitalidade através de pequenos mimos artesanais feitos com carinho para presentear e decorar mesas festivas.",
+  "categories": [
+    "Doces",
+    "Biscoitos",
+    "Natal",
+    "Sazonais"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Biscoitos & Cookies"
+  ],
+  "mealTime": [
+    "Lanche da Tarde"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "collections": [
+    "Natal",
+    "Festas de Fim de Ano",
+    "Para Crianças"
+  ],
+  "prepTime": "30 min",
+  "cookTime": "12 min",
+  "totalTime": "42 min",
+  "difficulty": "Fácil",
+  "yield": "35 unidades",
+  "searchTerms": [
+    "biscoitos amanteigados",
+    "biscoitos decorados",
+    "Natal",
+    "glacê real"
+  ],
+  "tags": [
+    "biscoitosamanteigados",
+    "natal",
+    "decorados",
+    "receitafacil",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa e decoração",
+      "items": [
+        "200 g de manteiga sem sal em temperatura ambiente",
+        "1 xícara de açúcar",
+        "1 ovo",
+        "3 xícaras de farinha de trigo",
+        "1 colher de chá de essência de baunilha",
+        "Glacê real pronto ou caseiro",
+        "Corantes alimentícios"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bata a manteiga com o açúcar até obter creme claro e fofo.",
+    "Adicione o ovo e a baunilha e bata novamente.",
+    "Acrescente a farinha aos poucos até formar massa homogênea.",
+    "Abra a massa em superfície enfarinhada até 0,5 cm de espessura.",
+    "Corte em formatos natalinos ou no formato desejado.",
+    "Coloque em assadeira untada e enfarinhada.",
+    "Asse a 180°C por 10 a 12 minutos, até dourar levemente.",
+    "Deixe esfriar completamente antes de decorar.",
+    "Finalize com glacê real e corantes."
+  ],
+  "tips": [
+    "Use copo ou faca se não tiver cortadores.",
+    "Adicione 1 colher de sopa de leite para biscoitos mais macios.",
+    "Raspas de limão ou laranja deixam a massa mais aromática."
+  ],
+  "servings": 35,
+  "servingsUnit": "unidades",
+  "prepMinutes": 30,
+  "cookMinutes": 12,
+  "structuredIngredients": [
+    {
+      "section": "Massa e decoração",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "manteiga sem sal em temperatura ambiente"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo"
+        },
+        {
+          "qty": 3,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "essência de baunilha"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Glacê real pronto ou caseiro"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Corantes alimentícios"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Bata a manteiga com o açúcar até obter creme claro e fofo.",
+        "Adicione o ovo e a baunilha e bata novamente.",
+        "Acrescente a farinha aos poucos até formar massa homogênea.",
+        "Abra a massa em superfície enfarinhada até 0,5 cm de espessura.",
+        "Corte em formatos natalinos ou no formato desejado.",
+        "Coloque em assadeira untada e enfarinhada.",
+        "Asse a 180°C por 10 a 12 minutos, até dourar levemente.",
+        "Deixe esfriar completamente antes de decorar.",
+        "Finalize com glacê real e corantes."
+      ]
+    }
+  ]
+}

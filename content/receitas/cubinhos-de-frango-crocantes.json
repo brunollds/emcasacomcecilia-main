@@ -1,0 +1,134 @@
+{
+  "id": 67,
+  "slug": "cubinhos-de-frango-crocantes",
+  "title": "Cubinhos de Frango Crocantes",
+  "description": "Petisco caseiro de frango processado com queijo, temperos e casquinha crocante.",
+  "intro": "Os cubinhos de frango crocantes são a versão elevada e artesanal dos clássicos nuggets. Com uma massa temperada de frango fresco que incorpora queijo derretido em sua estrutura, este petisco oferece um exterior dourado e estaladiça que esconde um interior surpreendentemente macio e suculento, garantindo sucesso absoluto entre adultos e crianças.",
+  "context": "Esta receita foca na honestidade dos ingredientes, substituindo ultraprocessados por uma técnica caseira de moagem e tempero. É um exemplo de como a cozinha doméstica pode replicar favoritos populares com muito mais sabor e qualidade, utilizando a adição da mussarela como o segredo para manter a umidade interna durante a fritura, resultando em um aperitivo prático e irresistível.",
+  "categories": [
+    "Frango",
+    "Salgados",
+    "Lanches",
+    "Petiscos"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Salgados Fritos"
+  ],
+  "mealTime": [
+    "Happy Hour"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fritura"
+  ],
+  "keyIngredients": [
+    "Frango"
+  ],
+  "collections": [
+    "Para Crianças"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "15 min",
+  "totalTime": "30 min",
+  "difficulty": "Fácil",
+  "yield": "20 cubinhos",
+  "isPopular": true,
+  "searchTerms": [
+    "cubinhos de frango",
+    "frango crocante",
+    "nuggets caseiros",
+    "mussarela",
+    "petisco"
+  ],
+  "tags": [
+    "cubinhosdefrango",
+    "frangocrocante",
+    "petiscocaseiro",
+    "lanchecriativo",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 filé grande de frango em pedaços, cerca de 250 g",
+        "1 colher (sopa) de tempero de alho",
+        "1/2 xícara de farinha de rosca",
+        "2 colheres (sopa) de farinha de trigo",
+        "1/2 xícara de mussarela ralada",
+        "Óleo para fritar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Coloque o frango no processador.",
+    "Adicione o tempero de alho, a farinha de rosca, a farinha de trigo e a mussarela.",
+    "Processe até formar uma massa homogênea e modelável.",
+    "Modele cubos pequenos, com cerca de 3 cm.",
+    "Frite em óleo quente a 180°C até dourar por todos os lados.",
+    "Escorra em papel toalha e sirva imediatamente."
+  ],
+  "tips": [
+    "Processe bem o frango para evitar grumos na massa.",
+    "Para mais crocância, passe os cubinhos em farinha panko antes de fritar.",
+    "Sirva com barbecue, maionese temperada ou molho de pimenta."
+  ],
+  "servings": 20,
+  "servingsUnit": "cubinhos",
+  "prepMinutes": 15,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "filé grande de frango em pedaços, cerca de 250 g"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de tempero de alho"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "farinha de rosca"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres (sopa) de farinha de trigo"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "mussarela ralada"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Óleo",
+          "note": "para fritar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Coloque o frango no processador.",
+        "Adicione o tempero de alho, a farinha de rosca, a farinha de trigo e a mussarela.",
+        "Processe até formar uma massa homogênea e modelável.",
+        "Modele cubos pequenos, com cerca de 3 cm.",
+        "Frite em óleo quente a 180°C até dourar por todos os lados.",
+        "Escorra em papel toalha e sirva imediatamente."
+      ]
+    }
+  ]
+}

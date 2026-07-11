@@ -1,0 +1,207 @@
+{
+  "id": 126,
+  "slug": "mini-quiches-de-legumes",
+  "title": "Mini Quiches de Legumes",
+  "description": "Mini quiches assadas em porções individuais com brócolis, cenoura, milho, ervilha e parmesão.",
+  "intro": "As mini quiches de legumes são pequenas explosões de sabor e nutrição, perfeitas para a lancheira das crianças ou para um coquetel sofisticado entre amigos. Em formato individual, elas trazem um arco-íris de legumes envoltos em um creme de ovos e parmesão sobre uma base amanteigada, tornando o ato de comer vegetais um momento lúdico e extremamente delicioso.",
+  "context": "A praticidade do formato mini torna estas quiches ideais para o controle de porções e para a versatilidade do dia a dia. A receita valoriza a técnica de 'mise en place', onde legumes picadinhos de forma uniforme garantem um cozimento perfeito e um visual deslumbrante, celebrando a cozinha prática que transforma ingredientes simples em petiscos gourmet cheios de saúde.",
+  "categories": [
+    "Quiches",
+    "Lanches",
+    "Vegetariana",
+    "Salgados"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Petiscos Quentes"
+  ],
+  "mealTime": [
+    "Happy Hour",
+    "Brunch"
+  ],
+  "cuisine": [
+    "Francesa"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "collections": [
+    "Para Congelar"
+  ],
+  "prepTime": "30 min",
+  "cookTime": "20 min",
+  "totalTime": "50 min",
+  "difficulty": "Médio",
+  "yield": "12 unidades",
+  "searchTerms": [
+    "mini quiches",
+    "legumes",
+    "lancheira",
+    "brócolis",
+    "cenoura"
+  ],
+  "tags": [
+    "miniquiches",
+    "legumes",
+    "receitafacil",
+    "lancheira",
+    "criancas",
+    "saudavel",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 xícara de farinha de trigo",
+        "100 g de manteiga gelada em cubos",
+        "3 colheres de sopa de água gelada",
+        "1 colher de chá de sal"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "1/2 xícara de brócolis picado",
+        "1/2 xícara de cenoura ralada",
+        "1/2 xícara de milho verde",
+        "1/4 xícara de ervilha fresca",
+        "1 cebola pequena picada",
+        "2 dentes de alho picados",
+        "1 colher de sopa de azeite",
+        "3 ovos",
+        "1 xícara de leite",
+        "Sal, pimenta-do-reino e noz-moscada a gosto",
+        "Queijo parmesão ralado a gosto para finalizar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture farinha e sal, adicione manteiga e trabalhe até formar uma farofa grossa.",
+    "Adicione água gelada aos poucos até formar a massa e leve à geladeira por 30 minutos.",
+    "Refogue cebola e alho no azeite, adicione os legumes e tempere.",
+    "Bata ovos com leite, sal, pimenta e noz-moscada.",
+    "Abra a massa e forre forminhas de muffin.",
+    "Distribua o recheio de legumes nas forminhas.",
+    "Cubra com a mistura de ovos e leite.",
+    "Finalize com parmesão ralado.",
+    "Asse a 180°C por cerca de 20 minutos, até dourar e firmar."
+  ],
+  "tips": [
+    "Troque os legumes conforme a preferência.",
+    "Orégano, manjericão ou tomilho deixam o recheio mais aromático.",
+    "Sirva quente ou fria."
+  ],
+  "servings": 12,
+  "servingsUnit": "unidades",
+  "prepMinutes": 30,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga gelada em cubos"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "colheres de sopa de água gelada"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de chá de sal"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "brócolis picado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "cenoura ralada"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "milho verde"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "ervilha fresca"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de sopa de azeite"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "leite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino e noz-moscada",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Queijo parmesão ralado  para finalizar",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture farinha e sal, adicione manteiga e trabalhe até formar uma farofa grossa.",
+        "Adicione água gelada aos poucos até formar a massa e leve à geladeira por 30 minutos.",
+        "Refogue cebola e alho no azeite, adicione os legumes e tempere.",
+        "Bata ovos com leite, sal, pimenta e noz-moscada.",
+        "Abra a massa e forre forminhas de muffin.",
+        "Distribua o recheio de legumes nas forminhas.",
+        "Cubra com a mistura de ovos e leite.",
+        "Finalize com parmesão ralado.",
+        "Asse a 180°C por cerca de 20 minutos, até dourar e firmar."
+      ]
+    }
+  ]
+}

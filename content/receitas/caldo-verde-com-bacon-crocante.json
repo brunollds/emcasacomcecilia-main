@@ -1,0 +1,162 @@
+{
+  "id": 122,
+  "slug": "caldo-verde-com-bacon-crocante",
+  "title": "Caldo Verde com Bacon Crocante",
+  "description": "Clássico caldo verde com batata, couve, linguiça calabresa e bacon crocante preparado na air fryer.",
+  "intro": "O caldo verde é a poesia rústica de Portugal que se tornou um clássico inquestionável das noites frias brasileiras. Com sua base aveludada de batatas e o verde intenso da couve finamente cortada, esta versão ganha uma modernidade irresistível com o bacon preparado na air fryer, que adiciona um toque defumado e uma crocância surpreendente a cada colherada.",
+  "context": "Patrimônio gastronômico da região do Minho, o caldo verde celebra a união entre a terra e o mar. A inclusão da linguiça calabresa e a finalização com bacon crocante são adaptações que trazem a alma das tavernas para a mesa de casa, onde a técnica de amassar as batatas no próprio caldo confere a textura artesanal e o conforto que atravessa oceanos e gerações.",
+  "categories": [
+    "Sopas",
+    "Portuguesa",
+    "Air Fryer",
+    "Jantar"
+  ],
+  "primaryCategory": "Sopa",
+  "subCategory": [
+    "Caldos"
+  ],
+  "mealTime": [
+    "Jantar"
+  ],
+  "cuisine": [
+    "Portuguesa"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "keyIngredients": [
+    "Batata"
+  ],
+  "collections": [
+    "Inverno",
+    "Comfort Food",
+    "Receita Clássica"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "40 min",
+  "totalTime": "55 min",
+  "difficulty": "Fácil",
+  "yield": "6 porções",
+  "searchTerms": [
+    "caldo verde",
+    "bacon crocante",
+    "couve manteiga",
+    "linguiça calabresa",
+    "receita portuguesa"
+  ],
+  "tags": [
+    "caldoverde",
+    "baconcrocante",
+    "receitafacil",
+    "portugal",
+    "tradicional",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Caldo",
+      "items": [
+        "1 kg de batatas descascadas e picadas",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "1 litro de água",
+        "1 maço de couve manteiga cortada em tiras finas",
+        "200 g de linguiça calabresa defumada em rodelas",
+        "100 g de bacon em cubos",
+        "Azeite de oliva extra virgem",
+        "Sal e pimenta-do-reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Refogue a cebola e o alho no azeite até dourarem.",
+    "Adicione as batatas e refogue por alguns minutos.",
+    "Cubra com água e cozinhe até as batatas ficarem macias.",
+    "Enquanto isso, frite o bacon em cubos na air fryer até ficar crocante e reserve.",
+    "Amasse as batatas com um garfo ou passe por um espremedor.",
+    "Volte o purê de batatas para a panela com a água do cozimento.",
+    "Adicione a couve e a linguiça calabresa.",
+    "Cozinhe por mais 10 minutos, mexendo ocasionalmente.",
+    "Tempere com sal e pimenta.",
+    "Sirva quente com o bacon crocante por cima."
+  ],
+  "tips": [
+    "Linguiça portuguesa deixa o sabor mais autêntico.",
+    "Um pouco de farinha de trigo no refogado ajuda a encorpar o caldo.",
+    "Sirva com pão caseiro ou torradas."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "cookMinutes": 40,
+  "structuredIngredients": [
+    {
+      "section": "Caldo",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "kg de batatas descascadas e picadas"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "l",
+          "name": "água"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "maço de couve manteiga cortada em tiras finas"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "linguiça calabresa defumada em rodelas"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "bacon em cubos"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Azeite de oliva extra virgem"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Refogue a cebola e o alho no azeite até dourarem.",
+        "Adicione as batatas e refogue por alguns minutos.",
+        "Cubra com água e cozinhe até as batatas ficarem macias.",
+        "Enquanto isso, frite o bacon em cubos na air fryer até ficar crocante e reserve.",
+        "Amasse as batatas com um garfo ou passe por um espremedor.",
+        "Volte o purê de batatas para a panela com a água do cozimento.",
+        "Adicione a couve e a linguiça calabresa.",
+        "Cozinhe por mais 10 minutos, mexendo ocasionalmente.",
+        "Tempere com sal e pimenta.",
+        "Sirva quente com o bacon crocante por cima."
+      ]
+    }
+  ]
+}

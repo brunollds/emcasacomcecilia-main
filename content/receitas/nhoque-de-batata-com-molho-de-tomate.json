@@ -1,0 +1,142 @@
+{
+  "id": 101,
+  "slug": "nhoque-de-batata-com-molho-de-tomate",
+  "title": "Nhoque de Batata com Molho de Tomate",
+  "description": "Nhoque tradicional de batata com molho de tomate caseiro e parmesão.",
+  "intro": "O nhoque de batata é a expressão máxima do carinho em forma de massa. Com sua textura leve e macia que derrete na boca, cada 'bolinha' de batata e farinha é um convite ao aconchego, especialmente quando banhada por um molho de tomate caseiro apurado e finalizada com uma chuva de parmesão ralado na hora.",
+  "context": "Prato emblemático da tradição italiana, o 'gnocchi' é famoso mundialmente pela simpatia do 'Nhoque da Fortuna' no dia 29 de cada mês. O segredo da massa perfeita reside no uso de batatas mais secas (como a Asterix) e no manuseio delicado, garantindo que a massa permaneça leve e aerada, honrando as receitas de família passadas por gerações.",
+  "categories": [
+    "Massas",
+    "Italiana",
+    "Vegetariana",
+    "Jantar"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Massas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Italiana"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "keyIngredients": [
+    "Batata",
+    "Tomate"
+  ],
+  "collections": [
+    "Receita Clássica"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "20 min",
+  "totalTime": "55 min",
+  "difficulty": "Médio",
+  "yield": "4 porções",
+  "searchTerms": [
+    "nhoque de batata",
+    "gnocchi",
+    "molho de tomate",
+    "massa italiana",
+    "nhoque da fortuna"
+  ],
+  "tags": [
+    "nhoquedebatata",
+    "molhodetomate",
+    "massas",
+    "italiana",
+    "vegetariana",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Nhoque",
+      "items": [
+        "1 kg de batatas cozidas e amassadas",
+        "2 xícaras de farinha de trigo",
+        "1 ovo",
+        "Sal, pimenta-do-reino e noz-moscada a gosto",
+        "Molho de tomate caseiro",
+        "Queijo parmesão ralado para servir"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture batatas, farinha, ovo, sal, pimenta e noz-moscada.",
+    "Sove só até formar uma massa homogênea.",
+    "Faça rolinhos e corte em pedaços pequenos.",
+    "Marque os nhoques com um garfo.",
+    "Cozinhe em água fervente com sal até subirem.",
+    "Retire com escumadeira.",
+    "Sirva com molho de tomate e parmesão."
+  ],
+  "tips": [
+    "Cozinhe as batatas com casca para mais sabor.",
+    "Não sove demais para não deixar o nhoque pesado.",
+    "Também combina com molho branco, pesto ou bolonhesa."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 35,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Nhoque",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "kg de batatas cozidas e amassadas"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino e noz-moscada",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Molho de tomate caseiro"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Queijo parmesão ralado",
+          "note": "para servir"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture batatas, farinha, ovo, sal, pimenta e noz-moscada.",
+        "Sove só até formar uma massa homogênea.",
+        "Faça rolinhos e corte em pedaços pequenos.",
+        "Marque os nhoques com um garfo.",
+        "Cozinhe em água fervente com sal até subirem.",
+        "Retire com escumadeira.",
+        "Sirva com molho de tomate e parmesão."
+      ]
+    }
+  ]
+}

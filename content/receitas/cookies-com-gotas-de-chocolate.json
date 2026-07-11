@@ -1,0 +1,160 @@
+{
+  "id": 145,
+  "slug": "cookies-com-gotas-de-chocolate",
+  "title": "Cookies com Gotas de Chocolate",
+  "description": "Cookies clássicos com manteiga, açúcar mascavo, baunilha e muitas gotas de chocolate.",
+  "intro": "Estes cookies com gotas de chocolate são the definição do biscoito americano perfeito: crocantes nas bordas, macios no centro e repletos de chocolate derretido. Com o aroma inconfundível da baunilha e do açúcar mascavo perfumando the casa, cada unidade é um convite ao prazer imediato e ao conforto de um lanche feito com carinho.",
+  "context": "Ícone da confeitaria doméstica, o cookie de chocolate é uma lição de equilíbrio entre texturas. O uso do bicarbonato de sódio e do açúcar mascavo é the chave para the cor dourada e the maciez interna, celebrando the tradição de biscoitos caseiros que unem gerações em volta de um copo de leite gelado ou um café fresquinho.",
+  "categories": [
+    "Sobremesas",
+    "Cookies",
+    "Chocolate",
+    "Lanches"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Biscoitos & Cookies"
+  ],
+  "mealTime": [
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Americana"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Comfort Food",
+    "Receita Clássica"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "12 min",
+  "totalTime": "32 min",
+  "difficulty": "Fácil",
+  "yield": "24 unidades",
+  "searchTerms": [
+    "cookies",
+    "gotas de chocolate",
+    "biscoito americano",
+    "lanche"
+  ],
+  "tags": [
+    "cookies",
+    "chocolate",
+    "biscoitos",
+    "lanche",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 xícara de manteiga sem sal em temperatura ambiente",
+        "1 xícara de açúcar",
+        "1/2 xícara de açúcar mascavo",
+        "2 ovos",
+        "1 colher de chá de essência de baunilha",
+        "2 xícaras de farinha de trigo",
+        "1 colher de chá de fermento em pó",
+        "1/2 colher de chá de bicarbonato de sódio",
+        "1/2 colher de chá de sal",
+        "2 xícaras de gotas de chocolate"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bata manteiga, açúcar e açúcar mascavo até obter um creme claro.",
+    "Adicione os ovos um a um e misture a baunilha.",
+    "Misture farinha, fermento, bicarbonato e sal em outra tigela.",
+    "Incorpore os secos à mistura cremosa.",
+    "Adicione as gotas de chocolate.",
+    "Modele bolinhas e coloque em assadeira untada, com espaço entre elas.",
+    "Asse a 180°C por 10 a 12 minutos.",
+    "Deixe esfriar em uma grade antes de servir."
+  ],
+  "tips": [
+    "Uma colher de leite deixa os cookies mais macios.",
+    "Nozes, castanhas ou frutas secas combinam com a massa.",
+    "Finalize com chocolate derretido ou confeitos."
+  ],
+  "servings": 24,
+  "servingsUnit": "unidades",
+  "prepMinutes": 20,
+  "cookMinutes": 12,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "manteiga sem sal em temperatura ambiente"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "açúcar mascavo"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de chá de essência de baunilha"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de chá de fermento em pó"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "name": "colher de chá de bicarbonato de sódio"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "name": "colher de chá de sal"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "gotas de chocolate"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Bata manteiga, açúcar e açúcar mascavo até obter um creme claro.",
+        "Adicione os ovos um a um e misture a baunilha.",
+        "Misture farinha, fermento, bicarbonato e sal em outra tigela.",
+        "Incorpore os secos à mistura cremosa.",
+        "Adicione as gotas de chocolate.",
+        "Modele bolinhas e coloque em assadeira untada, com espaço entre elas.",
+        "Asse a 180°C por 10 a 12 minutos.",
+        "Deixe esfriar em uma grade antes de servir."
+      ]
+    }
+  ]
+}

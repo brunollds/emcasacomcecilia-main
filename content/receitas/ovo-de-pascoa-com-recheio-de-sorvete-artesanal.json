@@ -1,0 +1,115 @@
+{
+  "id": 208,
+  "slug": "ovo-de-pascoa-com-recheio-de-sorvete-artesanal",
+  "title": "Ovo de Páscoa com Recheio de Sorvete Artesanal",
+  "description": "Ovo de chocolate recheado com sorvete artesanal para uma sobremesa gelada de Páscoa.",
+  "intro": "Este ovo de Páscoa com sorvete é the solução refrescante e sofisticada para encerrar o banquete pascoal com leveza. A casca de chocolate crocante esconde um interior cremoso de sorvete artesanal, criando um contraste de temperaturas que derrete na boca e oferece um prazer gelado irresistível, ideal para os dias ensolarados de outono.",
+  "context": "Inovando no formato tradicional, o ovo recheado com sorvete celebra the fusão entre the chocolateria e the gelateria. A técnica de selar as metades geladas garante the integridade das texturas, provando que the Páscoa pode ser reinventada com criatividade e frescor, utilizando ingredientes de alta qualidade para um resultado digno das melhores confeitarias gourmet.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Chocolate",
+    "Sorvetes"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Gelados"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "30 min",
+  "cookTime": "0 min",
+  "totalTime": "2 h 30 min",
+  "difficulty": "Fácil",
+  "yield": "1 ovo médio",
+  "searchTerms": [
+    "ovo de Páscoa com sorvete",
+    "sorvete artesanal",
+    "sobremesa gelada",
+    "chocolate"
+  ],
+  "tags": [
+    "ovodepascoadiferente",
+    "sorveteartesanal",
+    "sobremesagelada",
+    "pascoacriativa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Ovo gelado",
+      "items": [
+        "500 g de chocolate meio amargo ou ao leite",
+        "1 litro de sorvete artesanal no sabor de sua preferência",
+        "Formas de silicone no formato de ovo",
+        "Confeitos coloridos ou mini coelhos de chocolate para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Derreta o chocolate em banho-maria ou no micro-ondas.",
+    "Espalhe o chocolate nas formas com pincel culinário.",
+    "Leve à geladeira por 15 minutos para firmar.",
+    "Repita a camada de chocolate para criar casca firme.",
+    "Recheie cada metade com sorvete artesanal.",
+    "Una as metades e leve ao freezer por pelo menos 2 horas.",
+    "Desenforme e decore com confeitos ou mini coelhos."
+  ],
+  "tips": [
+    "Maracujá, pistache e frutas vermelhas são sabores que contrastam bem com chocolate.",
+    "Sirva com calda quente de chocolate para contraste de temperatura.",
+    "Embale em celofane se for presentear."
+  ],
+  "servings": 1,
+  "servingsUnit": "ovo médio",
+  "prepMinutes": 30,
+  "structuredIngredients": [
+    {
+      "section": "Ovo gelado",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "chocolate meio amargo ou ao leite"
+        },
+        {
+          "qty": 1,
+          "unit": "l",
+          "name": "sorvete artesanal no sabor de sua preferência"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Formas de silicone no formato de ovo"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Confeitos coloridos ou mini coelhos de chocolate",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Derreta o chocolate em banho-maria ou no micro-ondas.",
+        "Espalhe o chocolate nas formas com pincel culinário.",
+        "Leve à geladeira por 15 minutos para firmar.",
+        "Repita a camada de chocolate para criar casca firme.",
+        "Recheie cada metade com sorvete artesanal.",
+        "Una as metades e leve ao freezer por pelo menos 2 horas.",
+        "Desenforme e decore com confeitos ou mini coelhos."
+      ]
+    }
+  ]
+}

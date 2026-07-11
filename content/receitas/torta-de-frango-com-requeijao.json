@@ -1,0 +1,193 @@
+{
+  "id": 190,
+  "slug": "torta-de-frango-com-requeijao",
+  "title": "Torta de Frango com Requeijão",
+  "description": "Torta salgada com massa caseira crocante, frango desfiado e creme de requeijão.",
+  "intro": "A torta de frango com requeijão é the rainha dos almoços práticos e das lancheiras escolares, sendo o sinônimo absoluto de conforto e saciedade. Com sua massa caseira quebradiça que derrete na boca e um recheio de frango suculento e cremoso, ela oferece uma explosão de sabor caseiro que aquece o coração em qualquer refeição.",
+  "context": "Prato coringa da culinária brasileira, the torta salgada destaca-se pela sua versatilidade e alma democrática. O segredo da perfeição está na temperatura da manteiga para the massa e no tempero do refogado, celebrando the praticidade de um prato que pode ser completo, nutritivo e extremamente apetitoso, servindo gerações com the mesma hospitalidade.",
+  "categories": [
+    "Salgados",
+    "Tortas",
+    "Frango",
+    "Almoço"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Tortas Salgadas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Frango",
+    "Queijo"
+  ],
+  "collections": [
+    "Comfort Food",
+    "Para Congelar"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "30 min",
+  "totalTime": "1 h 5 min",
+  "difficulty": "Médio",
+  "yield": "8 fatias",
+  "searchTerms": [
+    "torta de frango",
+    "requeijão",
+    "massa caseira",
+    "frango desfiado"
+  ],
+  "tags": [
+    "tortadefrango",
+    "requeijao",
+    "almocofacil",
+    "tortacaseira",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "2 xícaras de farinha de trigo",
+        "100 g de manteiga gelada em cubos",
+        "1 ovo",
+        "3 colheres de sopa de água gelada",
+        "1 colher de chá de sal"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "1 peito de frango cozido e desfiado",
+        "1 cebola pequena picada",
+        "2 dentes de alho picados",
+        "1 colher de sopa de azeite",
+        "1 tomate picado sem pele e sem sementes",
+        "1 pote de requeijão cremoso",
+        "1/2 xícara de leite",
+        "Sal, pimenta-do-reino e cheiro-verde a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture farinha e sal, adicione a manteiga e esfarele com as pontas dos dedos.",
+    "Adicione ovo e água gelada aos poucos até formar massa homogênea.",
+    "Embrulhe e leve à geladeira por 30 minutos.",
+    "Refogue cebola e alho no azeite.",
+    "Junte frango, tomate, sal, pimenta e cheiro-verde.",
+    "Misture requeijão e leite em uma tigela.",
+    "Abra a massa e forre uma forma de fundo removível.",
+    "Espalhe o frango e cubra com a mistura de requeijão.",
+    "Asse a 180°C por cerca de 30 minutos, até dourar."
+  ],
+  "tips": [
+    "Pré-asse a massa por 10 minutos para uma base mais crocante.",
+    "Milho, ervilha ou palmito combinam bem com o recheio.",
+    "Sirva quente ou fria com salada verde."
+  ],
+  "servings": 8,
+  "servingsUnit": "fatias",
+  "prepMinutes": 35,
+  "cookMinutes": 30,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga gelada em cubos"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo"
+        },
+        {
+          "qty": 3,
+          "unit": "col. sopa",
+          "name": "água gelada"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "sal"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "peito de frango cozido e desfiado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "col. sopa",
+          "name": "azeite"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "tomate picado sem pele e sem sementes"
+        },
+        {
+          "qty": 1,
+          "unit": "pote",
+          "name": "requeijão cremoso"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "leite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino e cheiro-verde",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture farinha e sal, adicione a manteiga e esfarele com as pontas dos dedos.",
+        "Adicione ovo e água gelada aos poucos até formar massa homogênea.",
+        "Embrulhe e leve à geladeira por 30 minutos.",
+        "Refogue cebola e alho no azeite.",
+        "Junte frango, tomate, sal, pimenta e cheiro-verde.",
+        "Misture requeijão e leite em uma tigela.",
+        "Abra a massa e forre uma forma de fundo removível.",
+        "Espalhe o frango e cubra com a mistura de requeijão.",
+        "Asse a 180°C por cerca de 30 minutos, até dourar."
+      ]
+    }
+  ]
+}

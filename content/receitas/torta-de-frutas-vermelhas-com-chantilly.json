@@ -1,0 +1,182 @@
+{
+  "id": 52,
+  "slug": "torta-de-frutas-vermelhas-com-chantilly",
+  "title": "Torta de Frutas Vermelhas com Chantilly",
+  "description": "Torta delicada com frutas vermelhas, massa amanteigada e chantilly fresco.",
+  "intro": "Esta torta de frutas vermelhas é uma explosão de cores e frescor. A acidez vibrante do mix de morangos, amoras e framboesas encontra o par perfeito no chantilly caseiro leve e aerado, tudo sustentado por uma massa amanteigada que derrete na boca, resultando em uma sobremesa sofisticada e equilibrada.",
+  "context": "Com influências da confeitaria francesa clássica, esta receita destaca o chantilly — uma invenção do século XVII que revolucionou as sobremesas europeias. É a torta ideal para celebrações especiais ou para aproveitar o auge da estação das frutas vermelhas, oferecendo um visual deslumbrante que antecipa a qualidade dos sabores.",
+  "categories": [
+    "Francesa",
+    "Doces",
+    "Sobremesas",
+    "Tortas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Tortas Doces"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Morango"
+  ],
+  "collections": [
+    "Verão"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "30 min",
+  "totalTime": "1h 5 min",
+  "difficulty": "Médio",
+  "yield": "10 fatias",
+  "isNew": true,
+  "searchTerms": [
+    "torta de frutas vermelhas",
+    "chantilly",
+    "morango",
+    "framboesa",
+    "amora",
+    "mirtilo"
+  ],
+  "tags": [
+    "bolodefrutasvermelhas",
+    "chantilly",
+    "francesa",
+    "frutasvermelhas",
+    "sofisticacao",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "2 xícaras de farinha de trigo",
+        "1 colher (chá) de fermento em pó",
+        "1 pitada de sal",
+        "1 xícara de açúcar",
+        "100 g de manteiga gelada em cubos",
+        "2 ovos",
+        "1/2 xícara de leite"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "500 g de frutas vermelhas frescas, como morango, framboesa, amora e mirtilo",
+        "1/2 xícara de açúcar",
+        "1 colher (sopa) de amido de milho"
+      ]
+    },
+    {
+      "section": "Chantilly",
+      "items": [
+        "500 ml de creme de leite fresco gelado",
+        "1/2 xícara de açúcar de confeiteiro"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture os ingredientes secos da massa com a manteiga até formar uma farofa.",
+    "Adicione os ovos e o leite, forre uma forma e asse a 180°C por cerca de 30 minutos.",
+    "Cozinhe as frutas vermelhas com açúcar e amido até engrossar e deixe esfriar.",
+    "Bata o creme de leite com o açúcar de confeiteiro até obter picos firmes.",
+    "Monte a torta espalhando o recheio sobre a massa e cobrindo com chantilly."
+  ],
+  "tips": [
+    "Pré-asse a massa por 10 minutos antes de colocar o recheio para evitar que amoleça.",
+    "Use frutas inteiras no topo para decorar."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 35,
+  "cookMinutes": 30,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de fermento em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "pitada",
+          "name": "sal"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga gelada em cubos"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "leite"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "frutas vermelhas frescas, como morango, framboesa, amora e mirtilo"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de amido de milho"
+        }
+      ]
+    },
+    {
+      "section": "Chantilly",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "ml",
+          "name": "creme de leite fresco gelado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "açúcar de confeiteiro"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture os ingredientes secos da massa com a manteiga até formar uma farofa.",
+        "Adicione os ovos e o leite, forre uma forma e asse a 180°C por cerca de 30 minutos.",
+        "Cozinhe as frutas vermelhas com açúcar e amido até engrossar e deixe esfriar.",
+        "Bata o creme de leite com o açúcar de confeiteiro até obter picos firmes.",
+        "Monte a torta espalhando o recheio sobre a massa e cobrindo com chantilly."
+      ]
+    }
+  ]
+}

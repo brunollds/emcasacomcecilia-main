@@ -1,0 +1,62 @@
+{
+  "id": 14,
+  "slug": "conhecendo-mais-rabanada",
+  "title": "Conhecendo Mais: Rabanada",
+  "type": "Conhecendo Mais",
+  "description": "A história, as variações e os detalhes que explicam por que a rabanada virou um clássico afetivo da mesa brasileira.",
+  "publishedAt": "20 Abr 2026",
+  "image": "/images/reviews/conhecendo-mais-rabanada.avif",
+  "imageAlt": "Rabanadas servidas em um prato com açúcar e canela.",
+  "imageAspect": "landscape",
+  "youtubeUrl": "https://youtu.be/DSH6TZyiMms?si=kchxcuEg9MF7B2bG",
+  "pros": [
+    "Resgata a origem do prato",
+    "Explica escolhas de pão, imersão e finalização",
+    "Inclui variações úteis para testar em casa"
+  ],
+  "cons": [
+    "É um conteúdo histórico e técnico, não uma receita passo a passo completa"
+  ],
+  "contentSections": [
+    {
+      "heading": "Origem da rabanada",
+      "paragraphs": [
+        "A rabanada tem uma história fascinante que remonta a tempos antigos. Sua origem está ligada ao aproveitamento do pão velho, uma prática comum em tempos de escassez. Acredita-se que tenha surgido em tradições antigas de reaproveitamento, nas quais o pão envelhecido era mergulhado em leite e ovos antes de ser frito, criando uma forma deliciosa de transformar um alimento simples.",
+        "Na França, essa lógica ficou conhecida como pain perdu, ou pão perdido. Em Portugal, de onde herdamos a tradição, a rabanada se tornou um doce natalino por volta do século XV. Os portugueses acrescentaram elementos próprios à receita, como vinho do Porto e especiarias, criando versões próximas das que conhecemos hoje.",
+        "No Brasil, a rabanada chegou com os colonizadores portugueses e se adaptou ao nosso paladar. Aqui, é tradicionalmente servida no Natal, mas também aparece durante todo o ano em padarias, cafés e mesas de família."
+      ]
+    },
+    {
+      "heading": "A Escolha do Pão: O Segredo para uma Rabanada Perfeita",
+      "paragraphs": [
+        "O primeiro passo para uma rabanada deliciosa é a escolha do pão. O pão francês amanhecido é o mais tradicional, pois sua textura absorve bem a mistura de leite e ovos, deixando o interior macio e o exterior crocante.",
+        "Você também pode optar por pães de forma mais grossos ou até mesmo pelos pães próprios para rabanada, que já vêm em fatias espessas e garantem mais sabor e textura. Para uma versão ainda mais especial, o pão brioche pode deixar a rabanada mais macia e rica."
+      ]
+    },
+    {
+      "heading": "A Imersão: Leite, Ovos e Especiarias para Sabor e Maciez",
+      "paragraphs": [
+        "A mistura de leite, ovos e açúcar é essencial para deixar a rabanada com uma textura incrivelmente macia. Adicionar especiarias como canela e noz-moscada traz um toque aromático especial.",
+        "O segredo é mergulhar as fatias de pão na mistura, garantindo que absorvam bem, mas sem encharcar demais. Esse equilíbrio evita que o pão desmanche e ajuda a manter a estrutura da rabanada durante a fritura."
+      ]
+    },
+    {
+      "heading": "Fritura e Finalização",
+      "paragraphs": [
+        "Fritar a rabanada é o segredo para deixá-la crocante por fora e macia por dentro. Aqueça óleo ou manteiga em uma frigideira e frite as fatias até que fiquem douradas e crocantes. Depois, escorra o excesso em papel toalha para garantir que a rabanada fique sequinha.",
+        "Para um acabamento perfeito, passe as rabanadas fritas em uma mistura de açúcar e canela. Esse toque final deixa a sobremesa ainda mais irresistível, com sabor doce, aromático e imediatamente reconhecível."
+      ]
+    },
+    {
+      "heading": "Variações para Testar",
+      "bullets": [
+        "Calda de vinho, mel, leite condensado ou caldas aromatizadas com especiarias.",
+        "Especiarias extras como cravo-da-índia, raspas de limão ou raspas de laranja.",
+        "Cobertura especial com calda de caramelo ou chocolate.",
+        "Versão assada para uma opção mais leve.",
+        "Pão brioche para uma rabanada mais macia e sofisticada.",
+        "Cada região tem sua própria versão: pain perdu na França, french toast na Inglaterra e eggy bread nos Estados Unidos, todas com a mesma base de reaproveitamento do pão."
+      ]
+    }
+  ]
+}

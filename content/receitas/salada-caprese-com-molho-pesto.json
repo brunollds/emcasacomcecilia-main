@@ -1,0 +1,142 @@
+{
+  "id": 116,
+  "slug": "salada-caprese-com-molho-pesto",
+  "title": "Salada Caprese com Molho Pesto",
+  "description": "Clássico italiano com tomate, mozzarella de búfala, manjericão, azeite e molho pesto.",
+  "intro": "A salada Caprese é a tradução visual da bandeira italiana e do minimalismo gastronômico. A união das fatias de tomate maduro com a mussarela de búfala macia e o perfume do manjericão fresco ganha uma camada extra de sabor com o molho pesto artesanal, criando um prato refrescante que celebra a harmonia absoluta entre o leite e a terra.",
+  "context": "Nascida na ilha de Capri, esta salada é uma homenagem ao frescor do Mediterrâneo. A receita destaca a importância de ingredientes em temperatura ambiente para que o sabor da búfala e o aroma das ervas sejam plenamente apreciados, provando que a alta gastronomia muitas vezes reside na qualidade intocada do que a natureza nos oferece.",
+  "categories": [
+    "Saladas",
+    "Italiana",
+    "Vegetariana",
+    "Leves"
+  ],
+  "primaryCategory": "Salada",
+  "subCategory": [
+    "Saladas Verdes"
+  ],
+  "mealTime": [
+    "Almoço"
+  ],
+  "cuisine": [
+    "Italiana"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "diet": [
+    "Vegetariana",
+    "Low Carb"
+  ],
+  "keyIngredients": [
+    "Tomate",
+    "Queijo"
+  ],
+  "collections": [
+    "Receitas em 30 min",
+    "Verão",
+    "Receita Clássica"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "0 min",
+  "totalTime": "10 min",
+  "difficulty": "Fácil",
+  "yield": "2 porções",
+  "searchTerms": [
+    "salada caprese",
+    "molho pesto",
+    "mozzarella de búfala",
+    "tomate",
+    "manjericão"
+  ],
+  "tags": [
+    "saladacaprese",
+    "molhopesto",
+    "mozzarella",
+    "italiana",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Salada",
+      "items": [
+        "2 tomates maduros em rodelas",
+        "250 g de mozzarella de búfala em rodelas",
+        "Folhas de manjericão fresco a gosto",
+        "Azeite a gosto",
+        "Sal e pimenta-do-reino a gosto",
+        "Molho pesto a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Intercale rodelas de tomate e mozzarella em um prato.",
+    "Decore com folhas de manjericão.",
+    "Regue com azeite.",
+    "Tempere com sal e pimenta.",
+    "Finalize com molho pesto.",
+    "Sirva imediatamente."
+  ],
+  "tips": [
+    "Mozzarella comum pode substituir a de búfala.",
+    "Rúcula, azeitonas ou presunto cru combinam bem.",
+    "Sirva como entrada ou acompanhamento."
+  ],
+  "servings": 2,
+  "servingsUnit": "porções",
+  "prepMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Salada",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "tomates maduros em rodelas"
+        },
+        {
+          "qty": 250,
+          "unit": "g",
+          "name": "mozzarella de búfala em rodelas"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Folhas de manjericão fresco",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Azeite",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Molho pesto",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Intercale rodelas de tomate e mozzarella em um prato.",
+        "Decore com folhas de manjericão.",
+        "Regue com azeite.",
+        "Tempere com sal e pimenta.",
+        "Finalize com molho pesto.",
+        "Sirva imediatamente."
+      ]
+    }
+  ]
+}

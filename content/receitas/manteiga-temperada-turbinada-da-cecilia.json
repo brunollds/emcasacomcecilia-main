@@ -1,0 +1,115 @@
+{
+  "id": 89,
+  "slug": "manteiga-temperada-turbinada-da-cecilia",
+  "title": "Manteiga Temperada Turbinada da Cecília",
+  "description": "Manteiga composta com alho assado e cebolinha para pães, legumes e carnes.",
+  "intro": "Esta manteiga temperada é o segredo de chef que você pode fazer em casa. Com a doçura do alho caramelizado na air fryer e o frescor da cebolinha, ela transforma um simples pedaço de pão ou um filé grelhado em uma experiência gastronômica de luxo, unindo praticidade e sabor intenso.",
+  "context": "O alho assado perde sua picância pungente e ganha uma textura aveludada e um sabor suave, sendo a base perfeita para manteigas compostas de inspiração francesa. Esta versão 'turbinada' é um exemplo de como a tecnologia da air fryer pode facilitar processos clássicos, resultando em um acompanhamento versátil e aromático para ter sempre na geladeira.",
+  "categories": [
+    "Air Fryer",
+    "Acompanhamentos",
+    "Básicos"
+  ],
+  "primaryCategory": "Molho",
+  "subCategory": [
+    "Molhos Frios"
+  ],
+  "mealTime": [
+    "Happy Hour"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "collections": [
+    "Preparar com Antecedência",
+    "Receitas em 30 min"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "totalTime": "30 min",
+  "difficulty": "Fácil",
+  "yield": "1 pote",
+  "isNew": true,
+  "searchTerms": [
+    "manteiga temperada",
+    "alho assado",
+    "cebolinha",
+    "manteiga caseira",
+    "air fryer"
+  ],
+  "tags": [
+    "manteigatemperada",
+    "alhoassado",
+    "manteigacaseira",
+    "acompanhamento",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Manteiga",
+      "items": [
+        "1 cabeça grande de alho",
+        "1 pote de manteiga de boa qualidade",
+        "Cebolinha picada a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Corte a ponta da cabeça de alho.",
+    "Asse na air fryer a 180°C por 20 minutos, ou até ficar bem macia.",
+    "Espere esfriar um pouco.",
+    "Amasse a manteiga com um garfo até ficar cremosa.",
+    "Esprema os dentes de alho assados e misture à manteiga.",
+    "Adicione cebolinha picada e misture bem.",
+    "Transfira para um pote com tampa e conserve na geladeira."
+  ],
+  "tips": [
+    "No forno convencional, asse o alho a 200°C por cerca de 30 minutos.",
+    "Pimenta-do-reino, orégano, salsinha ou manjericão podem entrar na mistura.",
+    "Use em pães, torradas, legumes grelhados, sanduíches ou para finalizar carnes."
+  ],
+  "servings": 1,
+  "servingsUnit": "pote",
+  "prepMinutes": 10,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Manteiga",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cabeça grande de alho"
+        },
+        {
+          "qty": 1,
+          "unit": "pote",
+          "name": "manteiga de boa qualidade"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Cebolinha picada",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Corte a ponta da cabeça de alho.",
+        "Asse na air fryer a 180°C por 20 minutos, ou até ficar bem macia.",
+        "Espere esfriar um pouco.",
+        "Amasse a manteiga com um garfo até ficar cremosa.",
+        "Esprema os dentes de alho assados e misture à manteiga.",
+        "Adicione cebolinha picada e misture bem.",
+        "Transfira para um pote com tampa e conserve na geladeira."
+      ]
+    }
+  ]
+}

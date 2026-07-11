@@ -1,0 +1,209 @@
+{
+  "id": 95,
+  "slug": "nachos-com-chilli-e-queijo-derretido",
+  "title": "Nachos com Chilli e Queijo Derretido",
+  "description": "Petisco tex-mex com nachos crocantes, chilli com carne, cheddar derretido e jalapeños.",
+  "intro": "Os nachos com chilli são a definição de uma festa em forma de prato. A combinação imbatível de tortillas de milho super crocantes, um chilli com carne rico e levemente picante e a cascata de cheddar derretido cria o petisco social definitivo, feito para compartilhar e celebrar o sabor intenso e colorido da cozinha Tex-Mex.",
+  "context": "Símbolo da fusão vibrante entre o México e os Estados Unidos, o chilli é o coração desta receita, onde o feijão preto e a carne moída são lentamente cozidos para concentrar especiarias como a páprica e o cominho. É uma experiência multissensorial de crocância, calor e cremosidade que conquista o paladar em qualquer reunião informal ou happy hour.",
+  "categories": [
+    "Mexicana",
+    "Petiscos",
+    "Carnes",
+    "Lanches"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Petiscos Quentes"
+  ],
+  "mealTime": [
+    "Happy Hour"
+  ],
+  "cuisine": [
+    "Mexicana"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Carne Moída",
+    "Queijo"
+  ],
+  "collections": [
+    "Para Dois",
+    "Comfort Food"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "35 min",
+  "totalTime": "50 min",
+  "difficulty": "Fácil",
+  "yield": "6 porções",
+  "isPopular": true,
+  "searchTerms": [
+    "nachos",
+    "chilli com carne",
+    "queijo cheddar",
+    "tex-mex",
+    "petisco mexicano",
+    "guacamole"
+  ],
+  "tags": [
+    "nachos",
+    "chilli",
+    "queijoderretido",
+    "texmex",
+    "petisco",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Base",
+      "items": [
+        "Nachos crocantes",
+        "1 xícara de queijo cheddar ralado",
+        "Jalapeños fatiados a gosto",
+        "Coentro fresco picado a gosto",
+        "Guacamole para acompanhar"
+      ]
+    },
+    {
+      "section": "Chilli",
+      "items": [
+        "500 g de carne moída",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "1 pimentão picado",
+        "1 lata de tomate pelado picado",
+        "1 lata de feijão preto cozido",
+        "1 colher (sopa) de páprica doce",
+        "1 colher (chá) de cominho em pó",
+        "1 colher (chá) de chilli em pó",
+        "Azeite, sal e pimenta a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Doure cebola e alho no azeite.",
+    "Adicione a carne moída e refogue até dourar.",
+    "Junte pimentão, tomate, feijão, páprica, cominho e chilli.",
+    "Tempere e cozinhe em fogo baixo por cerca de 30 minutos.",
+    "Espalhe os nachos em uma assadeira.",
+    "Cubra com chilli e queijo cheddar.",
+    "Leve ao forno a 180°C até o queijo derreter.",
+    "Finalize com jalapeños e coentro."
+  ],
+  "tips": [
+    "Sirva imediatamente para manter a crocância.",
+    "Guacamole, sour cream e salsa mexicana completam o prato.",
+    "Ajuste o chilli em pó conforme o nível de picância desejado."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "cookMinutes": 35,
+  "structuredIngredients": [
+    {
+      "section": "Base",
+      "items": [
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Nachos crocantes"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "queijo cheddar ralado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Jalapeños fatiados",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Coentro fresco picado",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Guacamole",
+          "note": "para acompanhar"
+        }
+      ]
+    },
+    {
+      "section": "Chilli",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "carne moída"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "pimentão picado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "tomate pelado picado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "feijão preto cozido"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de páprica doce"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de cominho em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de chilli em pó"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Azeite, sal e pimenta",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Doure cebola e alho no azeite.",
+        "Adicione a carne moída e refogue até dourar.",
+        "Junte pimentão, tomate, feijão, páprica, cominho e chilli.",
+        "Tempere e cozinhe em fogo baixo por cerca de 30 minutos.",
+        "Espalhe os nachos em uma assadeira.",
+        "Cubra com chilli e queijo cheddar.",
+        "Leve ao forno a 180°C até o queijo derreter.",
+        "Finalize com jalapeños e coentro."
+      ]
+    }
+  ]
+}

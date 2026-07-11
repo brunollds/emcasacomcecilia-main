@@ -1,0 +1,161 @@
+{
+  "id": 69,
+  "slug": "bolinha-de-queijo-com-massa-leve",
+  "title": "Bolinha de Queijo com Massa Leve",
+  "description": "Petisco de queijo com massa leve, exterior dourado e interior macio.",
+  "intro": "A bolinha de queijo com massa leve é o petisco que nunca sobra no prato. Com uma base que lembra a delicadeza de uma massa de choux (mas salgada e cozida), estas esferas douradas escondem um centro de queijo derretido e elástico, oferecendo uma explosão de sabor lácteo e uma textura que derrete na boca.",
+  "context": "Um clássico imbatível dos happy hours brasileiros, a bolinha de queijo celebra a simplicidade e a eficiência da massa cozida. Esta versão se diferencia pela leveza da massa enriquecida com ovos, que garante um exterior crocante e um interior aerado, provando que um petisco tradicional pode ganhar toques de sofisticação técnica sem perder sua essência democrática.",
+  "image": "/images/recipes/salgados/bolinha-de-queijo-com-massa-leve.jpg",
+  "imageAlt": "Bolinhas de queijo douradas e crocantes empilhadas.",
+  "categories": [
+    "Salgados",
+    "Lanches",
+    "Petiscos"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Bolinhos"
+  ],
+  "mealTime": [
+    "Happy Hour"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fritura"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "keyIngredients": [
+    "Queijo"
+  ],
+  "collections": [
+    "Aniversário",
+    "Para Congelar"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "15 min",
+  "totalTime": "35 min",
+  "difficulty": "Médio",
+  "yield": "24 unidades",
+  "searchTerms": [
+    "bolinha de queijo",
+    "petisco de queijo",
+    "happy hour",
+    "mussarela",
+    "parmesão"
+  ],
+  "tags": [
+    "bolinhadequeijo",
+    "petiscos",
+    "happyhour",
+    "queijoderretido",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 xícara de água",
+        "1/2 xícara de leite",
+        "1/2 xícara de manteiga",
+        "1 xícara de farinha de trigo",
+        "4 ovos",
+        "1 xícara de queijo mussarela ralado",
+        "1/2 xícara de queijo parmesão ralado",
+        "Sal e pimenta-do-reino a gosto",
+        "Óleo para fritar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Em uma panela, coloque a água, o leite e a manteiga.",
+    "Leve ao fogo médio até ferver.",
+    "Adicione a farinha de uma só vez e mexa até a massa desgrudar do fundo.",
+    "Retire do fogo e deixe esfriar um pouco.",
+    "Adicione os ovos um a um, misturando bem a cada adição.",
+    "Misture a mussarela, o parmesão, o sal e a pimenta.",
+    "Modele bolinhas com uma colher.",
+    "Frite em óleo quente até dourar e escorra em papel toalha."
+  ],
+  "tips": [
+    "Para bolinhas mais crocantes, adicione 1 colher de sopa de amido de milho.",
+    "Varie os queijos com provolone, cheddar ou meia cura.",
+    "Sirva com molho de tomate, barbecue ou maionese temperada."
+  ],
+  "servings": 24,
+  "servingsUnit": "unidades",
+  "prepMinutes": 20,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "água"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "leite"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "manteiga"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "queijo mussarela ralado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "queijo parmesão ralado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Óleo",
+          "note": "para fritar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Em uma panela, coloque a água, o leite e a manteiga.",
+        "Leve ao fogo médio até ferver.",
+        "Adicione a farinha de uma só vez e mexa até a massa desgrudar do fundo.",
+        "Retire do fogo e deixe esfriar um pouco.",
+        "Adicione os ovos um a um, misturando bem a cada adição.",
+        "Misture a mussarela, o parmesão, o sal e a pimenta.",
+        "Modele bolinhas com uma colher.",
+        "Frite em óleo quente até dourar e escorra em papel toalha."
+      ]
+    }
+  ]
+}

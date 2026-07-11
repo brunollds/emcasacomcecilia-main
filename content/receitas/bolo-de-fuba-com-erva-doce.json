@@ -1,0 +1,150 @@
+{
+  "id": 39,
+  "slug": "bolo-de-fuba-com-erva-doce",
+  "title": "Bolo de Fubá com Erva-Doce",
+  "description": "Bolo de fubá simples e aromático, com erva-doce e textura macia para acompanhar café coado.",
+  "intro": "O bolo de fubá com erva-doce é a essência do aconchego em forma de fatia. Com sua textura rústica e macia, pontuada pelo aroma inconfundível da erva-doce, este bolo é o companheiro perfeito para um café recém-coado, trazendo para a mesa a simplicidade e o calor das manhãs no interior.",
+  "context": "Com raízes profundas na culinária rural brasileira, o bolo de fubá reflete a herança cultural da mistura entre o milho (base da dieta indígena) e as técnicas europeias de panificação. A adição da erva-doce é um toque clássico que remete às cozinhas de vó, onde o aroma que perfuma a casa é tão importante quanto o sabor do bolo.",
+  "image": "/images/recipes/bolos/bolo-de-fuba-com-erva-doce.jpg",
+  "imageAlt": "Bolo de fubá com erva-doce fatiado em prato claro.",
+  "categories": [
+    "Brasileira",
+    "Bolos Caseiros",
+    "Café da Manhã"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Bolos"
+  ],
+  "mealTime": [
+    "Café da Manhã",
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Mineira",
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Milho"
+  ],
+  "collections": [
+    "Festa Junina",
+    "Receita de Vó"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "40 min",
+  "totalTime": "50 min",
+  "difficulty": "Fácil",
+  "yield": "10 fatias",
+  "isPopular": true,
+  "searchTerms": [
+    "bolo de fubá",
+    "erva-doce",
+    "café da tarde",
+    "bolo caseiro",
+    "fubá mimoso",
+    "casa de vó"
+  ],
+  "tags": [
+    "bolodefuba",
+    "ervadoce",
+    "brasileiro",
+    "cafedatarde",
+    "casadevo",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "4 ovos",
+        "1 xícara (chá) de óleo",
+        "1 xícara (chá) de leite",
+        "1 xícara (chá) de açúcar",
+        "1 xícara (chá) de fubá mimoso",
+        "1 xícara (chá) de farinha de trigo",
+        "1 colher (sopa) de erva-doce",
+        "1 colher (sopa) de fermento em pó"
+      ]
+    }
+  ],
+  "instructions": [
+    "Pré-aqueça o forno a 180°C e unte uma forma com furo central.",
+    "No liquidificador, bata os ovos, o óleo, o leite e o açúcar até ficar homogêneo.",
+    "Adicione o fubá, a farinha e a erva-doce e bata apenas para misturar.",
+    "Acrescente o fermento e misture rapidamente.",
+    "Despeje na forma e asse por cerca de 40 minutos, ou até dourar.",
+    "Deixe esfriar e desenforme."
+  ],
+  "tips": [
+    "Adicione 1/2 xícara de coco ralado para uma textura mais rústica.",
+    "Substitua o leite por leite de coco para um bolo mais úmido."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 10,
+  "cookMinutes": 40,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de óleo"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de leite"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de fubá mimoso"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de erva-doce"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de fermento em pó"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Pré-aqueça o forno a 180°C e unte uma forma com furo central.",
+        "No liquidificador, bata os ovos, o óleo, o leite e o açúcar até ficar homogêneo.",
+        "Adicione o fubá, a farinha e a erva-doce e bata apenas para misturar.",
+        "Acrescente o fermento e misture rapidamente.",
+        "Despeje na forma e asse por cerca de 40 minutos, ou até dourar.",
+        "Deixe esfriar e desenforme."
+      ]
+    }
+  ]
+}

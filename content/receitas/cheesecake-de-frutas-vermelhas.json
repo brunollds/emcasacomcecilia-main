@@ -1,0 +1,143 @@
+{
+  "id": 172,
+  "slug": "cheesecake-de-frutas-vermelhas",
+  "title": "Cheesecake de Frutas Vermelhas",
+  "description": "Cheesecake clássico com base de biscoito, recheio de cream cheese e cobertura de frutas vermelhas.",
+  "intro": "Este cheesecake de frutas vermelhas é the celebração da cremosidade láctea e da acidez frutada em uma sobremesa de prestígio. Com sua base crocante de biscoito e o recheio denso de cream cheese coroado por uma calda brilhante de morangos e framboesas, ele oferece um visual de vitrine de confeitaria e um sabor que é puro luxo e frescor para the sua Páscoa.",
+  "context": "Pilar da confeitaria americana com raízes europeias, o cheesecake perfeito depende do cozimento lento em temperatura controlada para manter the sua cor marfim e textura aveludada. Esta receita valoriza o uso de frutas frescas para the calda, celebrando the harmonia entre the doçura e the acidez que torna esta sobremesa um clássico inquestionável e sempre amado.",
+  "image": "/images/recipes/pascoa/cheesecake-de-frutas-vermelhas.jpg",
+  "imageAlt": "Cheesecake de frutas vermelhas com cobertura brilhante e base de biscoito.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Cheesecakes",
+    "Frutas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Cheesecakes"
+  ],
+  "cuisine": [
+    "Americana"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Morango"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "45 min",
+  "totalTime": "5 h 10 min",
+  "difficulty": "Médio",
+  "yield": "10 fatias",
+  "searchTerms": [
+    "cheesecake de frutas vermelhas",
+    "cream cheese",
+    "biscoito maisena",
+    "morango",
+    "framboesa"
+  ],
+  "tags": [
+    "cheesecakedefrutas",
+    "frutasvermelhas",
+    "pascoadeliciosa",
+    "sobremesagourmet",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Base e recheio",
+      "items": [
+        "200 g de biscoito maisena triturado",
+        "100 g de manteiga derretida",
+        "500 g de cream cheese em temperatura ambiente",
+        "1 lata de leite condensado",
+        "3 ovos",
+        "1 colher de chá de essência de baunilha",
+        "1 xícara de frutas vermelhas",
+        "2 colheres de sopa de geleia de frutas vermelhas opcional"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture biscoito triturado e manteiga e pressione no fundo da forma.",
+    "Leve à geladeira enquanto prepara o recheio.",
+    "Bata cream cheese, leite condensado, ovos e baunilha.",
+    "Despeje sobre a base.",
+    "Asse a 160°C por cerca de 45 minutos.",
+    "Refrigere por pelo menos 4 horas.",
+    "Cubra com frutas vermelhas e geleia aquecida."
+  ],
+  "tips": [
+    "Hortelã deixa a decoração mais fresca.",
+    "Sirva bem gelado.",
+    "A geleia dá brilho e intensifica o sabor das frutas."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 25,
+  "cookMinutes": 45,
+  "structuredIngredients": [
+    {
+      "section": "Base e recheio",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "biscoito maisena triturado"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga derretida"
+        },
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "cream cheese em temperatura ambiente"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de chá de essência de baunilha"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "frutas vermelhas"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres de sopa de geleia de frutas vermelhas",
+          "note": "opcional"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture biscoito triturado e manteiga e pressione no fundo da forma.",
+        "Leve à geladeira enquanto prepara o recheio.",
+        "Bata cream cheese, leite condensado, ovos e baunilha.",
+        "Despeje sobre a base.",
+        "Asse a 160°C por cerca de 45 minutos.",
+        "Refrigere por pelo menos 4 horas.",
+        "Cubra com frutas vermelhas e geleia aquecida."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": 150,
+  "slug": "pave-de-ovolmatine",
+  "title": "Pavê de Ovolmatine",
+  "description": "Pavê com biscoito champanhe, creme de Ovolmatine, frutas frescas e raspas de chocolate.",
+  "intro": "O pavê de Ovolmatine fecha este bloco com the glória das camadas maltadas e refrescantes. Intercalando biscoitos champanhe umedecidos com um creme leve de Ovolmatine e o frescor de frutas sazonais, esta sobremesa gelada é the definição de equilíbrio e prazer, oferecendo uma experiência de texturas variadas que encantam o paladar em cada garfada.",
+  "context": "O pavê maltado é uma evolução contemporânea das sobremesas de tabuleiro que marcam the história das famílias brasileiras. Esta receita valoriza the leveza do creme de leite fresco e o aroma da baunilha, provando que the tradição do pavê permite infinitas reinvenções que celebram the modernidade e o sabor autêntico de ingredientes que amamos.",
+  "categories": [
+    "Sobremesas",
+    "Pavês",
+    "Chocolate",
+    "Ovolmatine"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pavês"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "0 min",
+  "totalTime": "4 h 25 min",
+  "difficulty": "Fácil",
+  "yield": "8 porções",
+  "searchTerms": [
+    "pavê de Ovolmatine",
+    "biscoito champanhe",
+    "frutas",
+    "sobremesa maltada"
+  ],
+  "tags": [
+    "pavedeovolmatine",
+    "ovolmatine",
+    "pave",
+    "sobremesa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Pavê",
+      "items": [
+        "1 pacote de biscoito champanhe",
+        "400 ml de creme de leite fresco",
+        "2 colheres de sopa de Ovolmatine",
+        "1 colher de chá de essência de baunilha",
+        "1/2 xícara de leite para umedecer",
+        "Frutas frescas picadas a gosto",
+        "Raspas de chocolate ou castanhas para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture creme de leite fresco, Ovolmatine e baunilha até obter um creme leve.",
+    "Umedeça rapidamente os biscoitos no leite.",
+    "Monte camadas de biscoito, creme e frutas.",
+    "Repita as camadas e finalize com creme.",
+    "Decore com frutas, raspas de chocolate ou castanhas.",
+    "Leve à geladeira por pelo menos 4 horas."
+  ],
+  "tips": [
+    "Morangos e bananas combinam bem com o creme maltado.",
+    "Iogurte grego deixa o creme mais leve e levemente ácido.",
+    "O tempo de geladeira é essencial para firmar as camadas."
+  ],
+  "servings": 8,
+  "servingsUnit": "porções",
+  "prepMinutes": 25,
+  "structuredIngredients": [
+    {
+      "section": "Pavê",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "biscoito champanhe"
+        },
+        {
+          "qty": 400,
+          "unit": "ml",
+          "name": "creme de leite fresco"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres de sopa de Ovolmatine"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de chá de essência de baunilha"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "leite para umedecer"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Frutas frescas picadas",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Raspas de chocolate ou castanhas",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture creme de leite fresco, Ovolmatine e baunilha até obter um creme leve.",
+        "Umedeça rapidamente os biscoitos no leite.",
+        "Monte camadas de biscoito, creme e frutas.",
+        "Repita as camadas e finalize com creme.",
+        "Decore com frutas, raspas de chocolate ou castanhas.",
+        "Leve à geladeira por pelo menos 4 horas."
+      ]
+    }
+  ]
+}

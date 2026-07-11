@@ -1,0 +1,136 @@
+{
+  "id": 140,
+  "slug": "pudim-de-pao-com-passas",
+  "title": "Pudim de Pão com Passas",
+  "description": "Pudim econômico e afetivo com pão amanhecido, leite, ovos, açúcar, passas e caramelo.",
+  "intro": "O pudim de pão com passas é the materialização da economia inteligente e do afeto na cozinha. Transformando o pão amanhecido em uma sobremesa densa, úmida e ricamente temperada com o adocicado das passas e the calda de caramelo, ele oferece um sabor nostálgico que remete às tardes na casa da vó, onde nada se perdia e tudo se transformava em prazer.",
+  "context": "Prato clássico de aproveitamento, o pudim de pão é uma lição de sustentabilidade gastronômica presente em diversas culturas ao redor do mundo. Esta receita valoriza the textura rústica e o conforto de ingredientes básicos, provando que the simplicidade do cotidiano pode resultar em uma sobremesa de alma generosa e sabor inesquecível que aquece o coração.",
+  "categories": [
+    "Sobremesas",
+    "Pudins",
+    "Caseiras",
+    "Aproveitamento"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pudins & Cremes"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "collections": [
+    "Receita de Vó",
+    "Comfort Food",
+    "Econômica"
+  ],
+  "prepTime": "45 min",
+  "cookTime": "1 h 30 min",
+  "totalTime": "2 h 15 min",
+  "difficulty": "Fácil",
+  "yield": "10 porções",
+  "searchTerms": [
+    "pudim de pão",
+    "passas",
+    "pão amanhecido",
+    "sobremesa econômica",
+    "café da tarde"
+  ],
+  "tags": [
+    "pudimdepao",
+    "pao",
+    "passas",
+    "sobremesa",
+    "cafedatarde",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Pudim",
+      "items": [
+        "4 pães franceses amanhecidos",
+        "1 litro de leite",
+        "4 ovos",
+        "1 xícara de açúcar",
+        "1/2 xícara de passas",
+        "1 colher de sopa de manteiga",
+        "Açúcar para caramelizar a forma"
+      ]
+    }
+  ],
+  "instructions": [
+    "Pique o pão e deixe de molho no leite por cerca de 30 minutos.",
+    "Bata pão com leite, ovos, açúcar, passas e manteiga no liquidificador.",
+    "Caramelize uma forma de pudim com açúcar.",
+    "Despeje o creme na forma.",
+    "Asse em banho-maria por cerca de 1 hora e 30 minutos, até firmar.",
+    "Deixe esfriar completamente antes de desenformar."
+  ],
+  "tips": [
+    "Mais leite deixa o pudim mais úmido.",
+    "Canela ou raspas de limão deixam o sabor mais acolhedor.",
+    "Finalize com frutas, coco ralado ou calda de caramelo."
+  ],
+  "servings": 10,
+  "servingsUnit": "porções",
+  "prepMinutes": 45,
+  "cookMinutes": 60,
+  "structuredIngredients": [
+    {
+      "section": "Pudim",
+      "items": [
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "pães franceses amanhecidos"
+        },
+        {
+          "qty": 1,
+          "unit": "l",
+          "name": "leite"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "passas"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de sopa de manteiga"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Açúcar",
+          "note": "para caramelizar a forma"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Pique o pão e deixe de molho no leite por cerca de 30 minutos.",
+        "Bata pão com leite, ovos, açúcar, passas e manteiga no liquidificador.",
+        "Caramelize uma forma de pudim com açúcar.",
+        "Despeje o creme na forma.",
+        "Asse em banho-maria por cerca de 1 hora e 30 minutos, até firmar.",
+        "Deixe esfriar completamente antes de desenformar."
+      ]
+    }
+  ]
+}

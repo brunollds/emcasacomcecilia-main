@@ -1,0 +1,145 @@
+{
+  "id": 53,
+  "slug": "frango-tikka-masala-com-arroz-basmati",
+  "title": "Frango Tikka Masala com Arroz Basmati",
+  "description": "Frango marinado em iogurte e especiarias, servido com molho cremoso e arroz basmati.",
+  "intro": "O frango tikka masala é uma explosão de cores, aromas e sabores que transporta o paladar diretamente para as ruas vibrantes da Índia. O frango, marinado longamente em iogurte e um blend potente de especiarias, resulta em cubos extremamente macios envoltos em um molho de tomate rico, cremoso e levemente picante.",
+  "context": "Considerado por muitos o prato nacional do Reino Unido devido à sua imensa popularidade, o Tikka Masala é um exemplo brilhante da fusão cultural gastronômica. Acompanhado pelo arroz basmati perfumado, esta receita celebra a complexidade das especiarias orientais adaptadas para um paladar global que busca conforto e intensidade em cada colherada.",
+  "categories": [
+    "Indiana",
+    "Frango",
+    "Especiarias",
+    "Jantar"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Frango"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Indiana"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "keyIngredients": [
+    "Frango",
+    "Arroz"
+  ],
+  "collections": [
+    "Comfort Food"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "35 min",
+  "totalTime": "3h",
+  "difficulty": "Médio",
+  "yield": "6 porções",
+  "isNew": true,
+  "searchTerms": [
+    "tikka masala",
+    "frango",
+    "curry",
+    "iogurte",
+    "arroz basmati",
+    "comida indiana"
+  ],
+  "tags": [
+    "tikkamasala",
+    "frango",
+    "indiana",
+    "especiarias",
+    "curry",
+    "basmati",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Frango e molho",
+      "items": [
+        "1kg de peito de frango em cubos",
+        "1 xícara de iogurte natural",
+        "Gengibre, alho, páprica, cominho, coentro em pó, cúrcuma e pimenta a gosto",
+        "1 lata de tomate pelado picado",
+        "1/2 xícara de creme de leite fresco",
+        "Coentro fresco picado",
+        "Arroz basmati para acompanhar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture o frango com o iogurte e as especiarias.",
+    "Deixe marinar na geladeira por no mínimo 2 horas.",
+    "Refogue cebola e alho no azeite, adicione o frango e doure bem.",
+    "Junte o tomate pelado e cozinhe por alguns minutos.",
+    "Finalize com creme de leite e coentro fresco e deixe o molho engrossar levemente.",
+    "Sirva com arroz basmati perfumado."
+  ],
+  "tips": [
+    "Se puder, deixe o frango marinando de um dia para o outro para um sabor mais profundo.",
+    "Sirva com pão naan quentinho para aproveitar o molho."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 25,
+  "cookMinutes": 35,
+  "structuredIngredients": [
+    {
+      "section": "Frango e molho",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "kg de peito de frango em cubos"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "iogurte natural"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Gengibre, alho, páprica, cominho, coentro em pó, cúrcuma e pimenta",
+          "note": "a gosto"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "tomate pelado picado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "creme de leite fresco"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Coentro fresco picado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Arroz basmati",
+          "note": "para acompanhar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture o frango com o iogurte e as especiarias.",
+        "Deixe marinar na geladeira por no mínimo 2 horas.",
+        "Refogue cebola e alho no azeite, adicione o frango e doure bem.",
+        "Junte o tomate pelado e cozinhe por alguns minutos.",
+        "Finalize com creme de leite e coentro fresco e deixe o molho engrossar levemente.",
+        "Sirva com arroz basmati perfumado."
+      ]
+    }
+  ]
+}

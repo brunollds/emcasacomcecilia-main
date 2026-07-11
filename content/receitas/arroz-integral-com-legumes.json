@@ -1,0 +1,166 @@
+{
+  "id": 81,
+  "slug": "arroz-integral-com-legumes",
+  "title": "Arroz Integral com Legumes",
+  "description": "Arroz integral nutritivo com cenoura, brócolis, vagem e temperos frescos.",
+  "intro": "O arroz integral com legumes é a escolha inteligente para quem não abre mão do sabor em uma dieta equilibrada. Com uma base de grãos nutritivos e um mix colorido de cenoura, brócolis e vagem, este acompanhamento oferece uma textura rica e um perfil de sabor fresco que transforma a refeição cotidiana em um banquete de saúde.",
+  "context": "Valorizando a densidade nutricional, o arroz integral requer uma técnica de cozimento que garanta maciez sem perder a estrutura do grão. É o prato ideal para quem busca energia duradoura e saciedade, celebrando a versatilidade dos legumes da estação em uma combinação que agrada tanto pelo visual vibrante quanto pelos benefícios ao corpo.",
+  "categories": [
+    "Saudáveis",
+    "Acompanhamentos",
+    "Vegetariana"
+  ],
+  "primaryCategory": "Acompanhamento",
+  "subCategory": [
+    "Arroz"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Vegetariana",
+    "Vegana",
+    "Fit"
+  ],
+  "keyIngredients": [
+    "Arroz",
+    "Cenoura"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "50 min",
+  "totalTime": "1h 5 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "searchTerms": [
+    "arroz integral",
+    "legumes",
+    "cenoura",
+    "brócolis",
+    "vagem",
+    "acompanhamento saudável"
+  ],
+  "tags": [
+    "arrozintegral",
+    "legumes",
+    "receitasaudavel",
+    "acompanhamento",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Arroz",
+      "items": [
+        "1 xícara (chá) de arroz integral",
+        "2 xícaras (chá) de água",
+        "1 colher (sopa) de azeite",
+        "1 cebola pequena picada",
+        "1 dente de alho picado",
+        "1 cenoura pequena picada",
+        "1/2 xícara (chá) de brócolis picado",
+        "1/2 xícara (chá) de vagem picada",
+        "Sal e pimenta-do-reino a gosto",
+        "Salsinha e cebolinha para finalizar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Lave o arroz integral em água corrente.",
+    "Aqueça o azeite e refogue cebola e alho.",
+    "Adicione o arroz e refogue por 1 minuto.",
+    "Junte a água e o sal.",
+    "Cozinhe em fogo baixo por cerca de 40 minutos.",
+    "Adicione cenoura, brócolis e vagem.",
+    "Cozinhe por mais 10 minutos, até os legumes ficarem macios.",
+    "Finalize com salsinha e cebolinha."
+  ],
+  "tips": [
+    "Milho, ervilha e pimentão também funcionam bem.",
+    "Uma colher de vinagre branco ajuda a soltar os grãos.",
+    "Sirva com carnes, aves, peixes ou pratos vegetarianos."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "cookMinutes": 50,
+  "structuredIngredients": [
+    {
+      "section": "Arroz",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de arroz integral"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "(chá) de água"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de azeite"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 1,
+          "unit": "dente",
+          "name": "alho picado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cenoura pequena picada"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de brócolis picado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de vagem picada"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Salsinha e cebolinha",
+          "note": "para finalizar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Lave o arroz integral em água corrente.",
+        "Aqueça o azeite e refogue cebola e alho.",
+        "Adicione o arroz e refogue por 1 minuto.",
+        "Junte a água e o sal.",
+        "Cozinhe em fogo baixo por cerca de 40 minutos.",
+        "Adicione cenoura, brócolis e vagem.",
+        "Cozinhe por mais 10 minutos, até os legumes ficarem macios.",
+        "Finalize com salsinha e cebolinha."
+      ]
+    }
+  ]
+}

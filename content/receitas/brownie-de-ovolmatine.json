@@ -1,0 +1,149 @@
+{
+  "id": 148,
+  "slug": "brownie-de-ovolmatine",
+  "title": "Brownie de Ovolmatine",
+  "description": "Brownie intenso de chocolate meio amargo com cacau, café opcional e toque maltado de Ovolmatine.",
+  "intro": "Este brownie de Ovolmatine é the celebração da intensidade e do contraste. Com the clássica massa densa e 'puxenta' do chocolate meio amargo enriquecida com o sabor maltado, ele oferece uma casquinha craquelada perfeita que esconde um centro úmido e rico, sendo the escolha definitiva para quem busca um doce potente e sofisticado.",
+  "context": "O brownie perfeito é the união entre técnica de cozimento e qualidade do chocolate. A adição do café expresso opcional e do malte intensifica as notas do cacau, provando que the confeitaria americana adaptada ganha alma e profundidade, resultando em um clássico moderno que é o par ideal para uma bola de sorvete de creme ou um momento de indulgência absoluta.",
+  "categories": [
+    "Sobremesas",
+    "Brownies",
+    "Chocolate",
+    "Ovolmatine"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Brownies"
+  ],
+  "cuisine": [
+    "Americana"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "25 min",
+  "totalTime": "45 min",
+  "difficulty": "Fácil",
+  "yield": "12 pedaços",
+  "searchTerms": [
+    "brownie de Ovolmatine",
+    "brownie",
+    "chocolate meio amargo",
+    "cacau"
+  ],
+  "tags": [
+    "browniedeovolmatine",
+    "chocolate",
+    "brownie",
+    "ovolmatine",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Brownie",
+      "items": [
+        "200 g de chocolate meio amargo",
+        "150 g de manteiga sem sal",
+        "3 ovos grandes",
+        "1 xícara de açúcar",
+        "100 g de farinha de trigo",
+        "1/2 xícara de cacau em pó",
+        "2 colheres de sopa de Ovolmatine",
+        "1 pitada de sal",
+        "1 colher de chá de café expresso opcional"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preaqueça o forno a 180°C e prepare uma forma com papel manteiga.",
+    "Derreta chocolate e manteiga até formar um creme liso.",
+    "Bata ovos e açúcar até a mistura clarear.",
+    "Incorpore o chocolate derretido aos ovos.",
+    "Peneire farinha, cacau, Ovolmatine, sal e café, e misture delicadamente.",
+    "Despeje na forma e asse por 20 a 25 minutos.",
+    "Deixe esfriar antes de cortar."
+  ],
+  "tips": [
+    "Pedaços extras de chocolate deixam o brownie mais úmido.",
+    "Reduza o tempo de forno para um centro mais molinho.",
+    "Sirva com sorvete de creme ou chantilly."
+  ],
+  "servings": 12,
+  "servingsUnit": "pedaços",
+  "prepMinutes": 20,
+  "cookMinutes": 25,
+  "structuredIngredients": [
+    {
+      "section": "Brownie",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "chocolate meio amargo"
+        },
+        {
+          "qty": 150,
+          "unit": "g",
+          "name": "manteiga sem sal"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos grandes"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "cacau em pó"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres de sopa de Ovolmatine"
+        },
+        {
+          "qty": 1,
+          "unit": "pitada",
+          "name": "sal"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de chá de café expresso",
+          "note": "opcional"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Preaqueça o forno a 180°C e prepare uma forma com papel manteiga.",
+        "Derreta chocolate e manteiga até formar um creme liso.",
+        "Bata ovos e açúcar até a mistura clarear.",
+        "Incorpore o chocolate derretido aos ovos.",
+        "Peneire farinha, cacau, Ovolmatine, sal e café, e misture delicadamente.",
+        "Despeje na forma e asse por 20 a 25 minutos.",
+        "Deixe esfriar antes de cortar."
+      ]
+    }
+  ]
+}

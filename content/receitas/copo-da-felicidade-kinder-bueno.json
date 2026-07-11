@@ -1,0 +1,146 @@
+{
+  "id": 213,
+  "slug": "copo-da-felicidade-kinder-bueno",
+  "title": "Copo da Felicidade Kinder Bueno",
+  "description": "Sobremesa em camadas com creme branco, creme de avelã com chocolate e Kinder Bueno.",
+  "intro": "O copo da felicidade Kinder Bueno é the expressão máxima da indulgência gourmet em camadas. Unindo cremes de chocolate branco e avelã à crocância inconfundível do bombom Kinder, esta sobremesa individual é um festival de texturas e sabores de elite que transforma cada colherada em um momento de puro prazer e sofisticação contemporânea.",
+  "context": "Fenômeno das confeitarias modernas, os 'copos da felicidade' valorizam the montagem vertical e the variedade de recheios premium. Esta versão celebra the combinação de laticínios de alta qualidade com ingredientes consagrados mundialmente, provando que the criatividade brasileira em servir doces em taças resultou em experiências gastronômicas luxuosas e irresistíveis.",
+  "categories": [
+    "Sobremesas",
+    "Copos da Felicidade",
+    "Chocolate",
+    "Doces"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pudins & Cremes"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Para Dois"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "10 min",
+  "totalTime": "2 h 35 min",
+  "difficulty": "Fácil",
+  "yield": "4 taças",
+  "searchTerms": [
+    "copo da felicidade",
+    "Kinder Bueno",
+    "Nutella",
+    "creme branco",
+    "sobremesa em camadas"
+  ],
+  "tags": [
+    "copodafelicidade",
+    "kinderbueno",
+    "nutella",
+    "sobremesagourmet",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Cremes e montagem",
+      "items": [
+        "1 lata de leite condensado",
+        "1 caixa de creme de leite",
+        "1 colher de sopa de manteiga sem sal",
+        "100 g de chocolate branco picado",
+        "1/2 xícara de Nutella",
+        "1/4 xícara de chocolate em pó 50%",
+        "1 pacote de Kinder Bueno White",
+        "Confeitos de chocolate ao leite e branco a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Cozinhe leite condensado, creme de leite e manteiga até obter creme espesso.",
+    "Divida o creme em duas partes.",
+    "Em uma parte, misture chocolate branco até derreter.",
+    "Na outra, misture Nutella e chocolate em pó.",
+    "Deixe os cremes esfriarem.",
+    "Monte taças alternando creme branco, creme de avelã e pedaços de Kinder Bueno.",
+    "Finalize com confeitos.",
+    "Leve à geladeira por pelo menos 2 horas."
+  ],
+  "tips": [
+    "Amido de milho deixa o creme mais consistente.",
+    "Morangos frescos ou castanhas trazem contraste de textura.",
+    "Sirva em taças individuais para apresentação mais sofisticada."
+  ],
+  "servings": 4,
+  "servingsUnit": "taças",
+  "prepMinutes": 25,
+  "cookMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Cremes e montagem",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "caixa",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 1,
+          "unit": "col. sopa",
+          "name": "manteiga sem sal"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "chocolate branco picado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "Nutella"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "chocolate em pó 50%"
+        },
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "Kinder Bueno White"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Confeitos de chocolate ao leite e branco",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Cozinhe leite condensado, creme de leite e manteiga até obter creme espesso.",
+        "Divida o creme em duas partes.",
+        "Em uma parte, misture chocolate branco até derreter.",
+        "Na outra, misture Nutella e chocolate em pó.",
+        "Deixe os cremes esfriarem.",
+        "Monte taças alternando creme branco, creme de avelã e pedaços de Kinder Bueno.",
+        "Finalize com confeitos.",
+        "Leve à geladeira por pelo menos 2 horas."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": 131,
+  "slug": "pave-de-maracuja-com-chocolate-branco",
+  "title": "Pavê de Maracujá com Chocolate Branco",
+  "description": "Pavê tropical com creme de maracujá, chocolate branco derretido e biscoito champanhe.",
+  "intro": "O pavê de maracujá com chocolate branco é the definição de equilíbrio tropical e luxo. A intensidade cítrica do suco concentrado de maracujá corta perfeitamente a doçura amanteigada do chocolate branco, criando camadas de um creme sedoso que, intercalado com biscoitos delicados, resulta em uma sobremesa exótica, refrescante e irresistível.",
+  "context": "O maracujá é a estrela desta receita que celebra a biodiversidade brasileira aliada à técnica de confeitaria refinada. A adição de raspas de chocolate branco no topo não é apenas decorativa, mas um elemento de textura que complementa o creme, provando que a acidez da fruta é the melhor parceira para a doçura dos lácteos de alta qualidade.",
+  "categories": [
+    "Sobremesas",
+    "Pavês",
+    "Frutas",
+    "Doces Gelados"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pavês"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Maracujá",
+    "Chocolate"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "10 min",
+  "totalTime": "4 h 35 min",
+  "difficulty": "Fácil",
+  "yield": "8 porções",
+  "searchTerms": [
+    "pavê de maracujá",
+    "chocolate branco",
+    "biscoito champanhe",
+    "sobremesa tropical",
+    "maracujá"
+  ],
+  "tags": [
+    "pavedemaracuja",
+    "maracuja",
+    "chocolatebranco",
+    "sobremesa",
+    "tropical",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Pavê",
+      "items": [
+        "1 pacote de biscoito champanhe",
+        "1 lata de leite condensado",
+        "1 lata de creme de leite",
+        "1/2 xícara de suco de maracujá concentrado",
+        "100 g de chocolate branco picado",
+        "Raspas de chocolate a gosto",
+        "Leite para umedecer os biscoitos"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture leite condensado, creme de leite e suco de maracujá em uma panela.",
+    "Cozinhe em fogo baixo até engrossar e deixe esfriar.",
+    "Derreta o chocolate branco em banho-maria ou no micro-ondas.",
+    "Monte camadas de biscoito umedecido, creme de maracujá e chocolate branco.",
+    "Repita as camadas até acabar os ingredientes.",
+    "Leve à geladeira por pelo menos 4 horas.",
+    "Finalize com raspas de chocolate antes de servir."
+  ],
+  "tips": [
+    "Suco natural de maracujá deixa o sabor mais fresco.",
+    "Morangos ou kiwi combinam com a decoração.",
+    "Umedeça os biscoitos em leite com açúcar se quiser uma textura mais macia."
+  ],
+  "servings": 8,
+  "servingsUnit": "porções",
+  "prepMinutes": 25,
+  "cookMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Pavê",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "biscoito champanhe"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "suco de maracujá concentrado"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "chocolate branco picado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Raspas de chocolate",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Leite para umedecer os biscoitos"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture leite condensado, creme de leite e suco de maracujá em uma panela.",
+        "Cozinhe em fogo baixo até engrossar e deixe esfriar.",
+        "Derreta o chocolate branco em banho-maria ou no micro-ondas.",
+        "Monte camadas de biscoito umedecido, creme de maracujá e chocolate branco.",
+        "Repita as camadas até acabar os ingredientes.",
+        "Leve à geladeira por pelo menos 4 horas.",
+        "Finalize com raspas de chocolate antes de servir."
+      ]
+    }
+  ]
+}

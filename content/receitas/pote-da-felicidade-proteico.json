@@ -1,0 +1,129 @@
+{
+  "id": 183,
+  "slug": "pote-da-felicidade-proteico",
+  "title": "Pote da Felicidade Proteico",
+  "description": "Lanche proteico em camadas com creme de ricota, whey, café e torrada de arroz.",
+  "image": "/images/recipes/saudaveis/pote-da-felicidade-proteico.jpg",
+  "imageAlt": "Pote da felicidade proteico em camadas cremosas.",
+  "categories": [
+    "Saudáveis",
+    "Lanches",
+    "Sobremesas",
+    "Proteico"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pudins & Cremes"
+  ],
+  "mealTime": [
+    "Café da Manhã",
+    "Lanche da Tarde"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "diet": [
+    "Fit",
+    "High Protein"
+  ],
+  "keyIngredients": [
+    "Banana"
+  ],
+  "collections": [
+    "Para Dois"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "0 min",
+  "totalTime": "10 min",
+  "difficulty": "Fácil",
+  "yield": "1 pote",
+  "searchTerms": [
+    "pote da felicidade",
+    "lanche proteico",
+    "sobremesa fit",
+    "whey",
+    "creme de ricota"
+  ],
+  "tags": [
+    "potedafelicidade",
+    "receitaproteica",
+    "sobremesafit",
+    "lanchesaudavel",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Montagem",
+      "items": [
+        "Creme de ricota ou iogurte natural",
+        "1 scoop de whey protein no sabor de sua preferência",
+        "2 torradas de arroz orgânicas tipo Okoshi",
+        "Café coado suficiente para umedecer",
+        "Mel, adoçante, frutas, castanhas, granola ou sementes a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture o creme de ricota com o whey até formar um creme liso.",
+    "Quebre as torradas de arroz em pedaços grandes.",
+    "Umedeça rapidamente as torradas no café, sem encharcar.",
+    "Monte camadas de torrada e creme em um pote.",
+    "Finalize com frutas, sementes, castanhas ou granola, se desejar.",
+    "Leve para gelar ou consuma em seguida."
+  ],
+  "tips": [
+    "Iogurte grego deixa o creme mais ácido e cremoso.",
+    "Whey de chocolate com banana cria uma versão chocobanana.",
+    "Monte em pote transparente para valorizar as camadas."
+  ],
+  "servings": 1,
+  "servingsUnit": "pote",
+  "prepMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Montagem",
+      "items": [
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Creme de ricota ou iogurte natural"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "scoop de whey protein no sabor de sua preferência"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "torradas de arroz orgânicas tipo Okoshi"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Café coado",
+          "note": "suficiente para umedecer"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Mel, adoçante, frutas, castanhas, granola ou sementes",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture o creme de ricota com o whey até formar um creme liso.",
+        "Quebre as torradas de arroz em pedaços grandes.",
+        "Umedeça rapidamente as torradas no café, sem encharcar.",
+        "Monte camadas de torrada e creme em um pote.",
+        "Finalize com frutas, sementes, castanhas ou granola, se desejar.",
+        "Leve para gelar ou consuma em seguida."
+      ]
+    }
+  ]
+}

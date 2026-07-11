@@ -1,0 +1,131 @@
+{
+  "id": 171,
+  "slug": "tiramisu-de-pascoa",
+  "title": "Tiramisù de Páscoa",
+  "description": "Tiramisù em formato de ovo com biscoito champanhe, café, creme de mascarpone e cacau.",
+  "intro": "O tiramisù de Páscoa traz the energia do café e the cremosidade do mascarpone em uma apresentação temática irresistível. Em formato de ovo, esta sobremesa italiana clássica mantém the sua alma aveludada e o aroma profundo do cacau, oferecendo um encerramento elegante e sofisticado que celebra the herança europeia com um toque de criatividade sazonal.",
+  "context": "Respeitando the técnica tradicional de não ir ao fogo, o tiramisù de Páscoa destaca the qualidade dos ingredientes crus. O segredo da estrutura em novos formatos reside no descanso prolongado na geladeira, celebrando the paciência e the elegância de um doce que é sinônimo de 'puxa-me para cima' (energia e sabor) em qualquer lugar do mundo.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Italiana",
+    "Sobremesas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Tortas Doces"
+  ],
+  "cuisine": [
+    "Italiana"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "0 min",
+  "totalTime": "4 h 35 min",
+  "difficulty": "Médio",
+  "yield": "8 porções",
+  "searchTerms": [
+    "tiramisù de Páscoa",
+    "mascarpone",
+    "biscoito champanhe",
+    "café",
+    "sobremesa italiana"
+  ],
+  "tags": [
+    "tiramisucriativo",
+    "pascoaitaliana",
+    "mascarpone",
+    "cafe",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Tiramisù",
+      "items": [
+        "500 g de mascarpone",
+        "4 ovos com claras e gemas separadas",
+        "200 g de açúcar",
+        "1 xícara de café espresso frio",
+        "24 biscoitos champanhe",
+        "Cacau em pó para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bata gemas com açúcar até clarear.",
+    "Adicione mascarpone e misture.",
+    "Bata claras em neve e incorpore ao creme.",
+    "Umedeça os biscoitos no café.",
+    "Monte em forma de ovo alternando biscoitos e creme.",
+    "Finalize com cacau peneirado.",
+    "Leve à geladeira por 4 horas antes de desenformar."
+  ],
+  "tips": [
+    "Sem forma de ovo, use tigelas pequenas.",
+    "Aquafaba e creme de castanha permitem uma adaptação vegana.",
+    "Cacau peneirado dá acabamento elegante."
+  ],
+  "servings": 8,
+  "servingsUnit": "porções",
+  "prepMinutes": 35,
+  "structuredIngredients": [
+    {
+      "section": "Tiramisù",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "mascarpone"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "ovos com claras e gemas separadas"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "café espresso frio"
+        },
+        {
+          "qty": 24,
+          "unit": "",
+          "name": "biscoitos champanhe"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Cacau em pó",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Bata gemas com açúcar até clarear.",
+        "Adicione mascarpone e misture.",
+        "Bata claras em neve e incorpore ao creme.",
+        "Umedeça os biscoitos no café.",
+        "Monte em forma de ovo alternando biscoitos e creme.",
+        "Finalize com cacau peneirado.",
+        "Leve à geladeira por 4 horas antes de desenformar."
+      ]
+    }
+  ]
+}

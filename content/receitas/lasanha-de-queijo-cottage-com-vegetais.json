@@ -1,0 +1,290 @@
+{
+  "id": 112,
+  "slug": "lasanha-de-queijo-cottage-com-vegetais",
+  "title": "Lasanha de Queijo Cottage com Vegetais",
+  "description": "Lasanha proteica com carne magra, vegetais, queijo cottage, mussarela light e parmesão.",
+  "intro": "Esta lasanha de queijo cottage com vegetais é a resposta para quem busca uma refeição robusta, proteica e surpreendentemente leve. Com camadas de carne magra, um mix nutritivo de legumes e a suavidade do cottage, ela reinventa o clássico italiano em uma versão focada no bem-estar, sem abrir mão do sabor intenso e da gratinação dourada que todos amamos.",
+  "context": "Focada no equilíbrio nutricional, esta receita substitui os queijos gordurosos pela leveza do cottage enriquecido com ovos, garantindo uma textura cremosa e alta saciedade. É a escolha perfeita para o planejamento semanal de refeições saudáveis, onde a técnica de incorporar os vegetais ao molho cria uma harmonia de sabores que agrada tanto atletas quanto famílias que buscam uma dieta consciente.",
+  "categories": [
+    "Massas",
+    "Saudáveis",
+    "Carnes",
+    "Jantar"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Massas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Italiana"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "diet": [
+    "Vegetariana",
+    "Fit"
+  ],
+  "keyIngredients": [
+    "Queijo"
+  ],
+  "collections": [
+    "Para Congelar"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "50 min",
+  "totalTime": "1h25",
+  "difficulty": "Médio",
+  "yield": "8 porções",
+  "searchTerms": [
+    "lasanha de queijo cottage",
+    "lasanha proteica",
+    "vegetais",
+    "carne magra",
+    "fitness"
+  ],
+  "tags": [
+    "lasanhacottage",
+    "queijocottage",
+    "receitafitness",
+    "massas",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Vegetais",
+      "items": [
+        "1 abobrinha média em cubos",
+        "2 cenouras médias em cubos",
+        "1 pimentão vermelho em cubos",
+        "1/2 xícara de cogumelos fatiados",
+        "2 dentes de alho picados",
+        "1 cebola pequena picada"
+      ]
+    },
+    {
+      "section": "Molho de Carne",
+      "items": [
+        "906 g de carne moída magra",
+        "3 latas de molho de tomate",
+        "1/2 lata de água",
+        "1 colher (chá) de sal",
+        "1 colher (chá) de alho em pó",
+        "2 colheres (chá) de cebola em pó",
+        "1 colher (chá) de pimenta-do-reino",
+        "2 1/2 colheres (chá) de orégano seco",
+        "5 colheres (chá) de manjericão seco"
+      ]
+    },
+    {
+      "section": "Camada de Queijo",
+      "items": [
+        "2 potes de queijo cottage",
+        "2 colheres (sopa) de amido de milho",
+        "2 ovos grandes",
+        "1 colher (sopa) de salsa seca",
+        "1 xícara de mussarela light ralada",
+        "1/2 xícara de parmesão ralado"
+      ]
+    },
+    {
+      "section": "Montagem",
+      "items": [
+        "340 g de massa para lasanha pré-cozida",
+        "453 g de mussarela light ralada",
+        "150 g de parmesão ralado",
+        "Salsa seca para finalizar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Refogue carne moída, cebola e alho.",
+    "Junte ao molho de tomate com água e temperos.",
+    "Refogue cogumelos, abobrinha, cenoura e pimentão.",
+    "Misture os vegetais ao molho de carne.",
+    "Bata cottage com amido e adicione ovos, salsa, mussarela e parmesão.",
+    "Monte camadas de molho, massa e creme de cottage.",
+    "Finalize com mussarela e parmesão.",
+    "Cubra e asse a 200°C por 30 minutos.",
+    "Retire o alumínio e asse mais 15 minutos.",
+    "Deixe repousar 15 minutos antes de cortar."
+  ],
+  "tips": [
+    "Bata o cottage no processador para textura mais lisa.",
+    "Substitua carne por lentilhas para versão vegetariana.",
+    "Fatias de abobrinha ou berinjela podem substituir a massa em versão low-carb."
+  ],
+  "servings": 8,
+  "servingsUnit": "porções",
+  "prepMinutes": 35,
+  "cookMinutes": 50,
+  "structuredIngredients": [
+    {
+      "section": "Vegetais",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "abobrinha média em cubos"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "cenouras médias em cubos"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "pimentão vermelho em cubos"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "cogumelos fatiados"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena picada"
+        }
+      ]
+    },
+    {
+      "section": "Molho de Carne",
+      "items": [
+        {
+          "qty": 906,
+          "unit": "g",
+          "name": "carne moída magra"
+        },
+        {
+          "qty": 3,
+          "unit": "lata",
+          "name": "molho de tomate"
+        },
+        {
+          "qty": 0.5,
+          "unit": "lata",
+          "name": "água"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de sal"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de alho em pó"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres (chá) de cebola em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de pimenta-do-reino"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "1/2 colheres (chá) de orégano seco"
+        },
+        {
+          "qty": 5,
+          "unit": "",
+          "name": "colheres (chá) de manjericão seco"
+        }
+      ]
+    },
+    {
+      "section": "Camada de Queijo",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "pote",
+          "name": "queijo cottage"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres (sopa) de amido de milho"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "ovos grandes"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de salsa seca"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "mussarela light ralada"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "parmesão ralado"
+        }
+      ]
+    },
+    {
+      "section": "Montagem",
+      "items": [
+        {
+          "qty": 340,
+          "unit": "g",
+          "name": "massa para lasanha pré-cozida"
+        },
+        {
+          "qty": 453,
+          "unit": "g",
+          "name": "mussarela light ralada"
+        },
+        {
+          "qty": 150,
+          "unit": "g",
+          "name": "parmesão ralado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Salsa seca",
+          "note": "para finalizar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Refogue carne moída, cebola e alho.",
+        "Junte ao molho de tomate com água e temperos.",
+        "Refogue cogumelos, abobrinha, cenoura e pimentão.",
+        "Misture os vegetais ao molho de carne.",
+        "Bata cottage com amido e adicione ovos, salsa, mussarela e parmesão.",
+        "Monte camadas de molho, massa e creme de cottage.",
+        "Finalize com mussarela e parmesão.",
+        "Cubra e asse a 200°C por 30 minutos.",
+        "Retire o alumínio e asse mais 15 minutos.",
+        "Deixe repousar 15 minutos antes de cortar."
+      ]
+    }
+  ]
+}

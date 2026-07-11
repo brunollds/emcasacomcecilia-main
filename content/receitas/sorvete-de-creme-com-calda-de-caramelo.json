@@ -1,0 +1,114 @@
+{
+  "id": 143,
+  "slug": "sorvete-de-creme-com-calda-de-caramelo",
+  "title": "Sorvete de Creme com Calda de Caramelo",
+  "description": "Sorvete caseiro de creme com baunilha, leite condensado, creme de leite e calda de caramelo.",
+  "intro": "O sorvete de creme com calda de caramelo é the síntese da elegância atemporal na confeitaria. A suavidade da baunilha, presente no sorvete leve e aerado, encontra o par ideal na calda de caramelo dourada e profunda, criando um contraste de temperaturas e sabores que é puro luxo em cada colherada.",
+  "context": "Considerado o sabor universal, o sorvete de creme é the tela em branco para as criações mais sofisticadas. Nesta versão, the calda de caramelo caseira eleva o prato a um nível de bistrô, onde the técnica de infusão da baunilha garante um perfume inconfundível, celebrando the simplicidade refinada que torna as sobremesas clássicas eternas.",
+  "categories": [
+    "Sobremesas",
+    "Sorvetes",
+    "Doces Gelados",
+    "Clássicas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Gelados"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "collections": [
+    "Verão",
+    "Para Congelar",
+    "Receita Clássica"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "0 min",
+  "totalTime": "4 h 10 min",
+  "difficulty": "Fácil",
+  "yield": "6 porções",
+  "searchTerms": [
+    "sorvete de creme",
+    "calda de caramelo",
+    "baunilha",
+    "sorvete caseiro"
+  ],
+  "tags": [
+    "sorvetedecreme",
+    "caldadecaramelo",
+    "sobremesa",
+    "classico",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Sorvete",
+      "items": [
+        "1 lata de leite condensado",
+        "1 lata de creme de leite",
+        "1/2 xícara de leite",
+        "1 colher de chá de essência de baunilha",
+        "Calda de caramelo pronta para acompanhar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bata leite condensado, creme de leite, leite e baunilha no liquidificador.",
+    "Despeje em um recipiente e leve ao freezer por pelo menos 4 horas.",
+    "Retire alguns minutos antes de servir.",
+    "Cubra com calda de caramelo na hora de servir."
+  ],
+  "tips": [
+    "Bata o creme na batedeira antes de congelar para mais cremosidade.",
+    "Raspas de limão, chocolate picado ou frutas frescas combinam bem.",
+    "Finalize com chantilly, castanhas ou biscoitos."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Sorvete",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "leite"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de chá de essência de baunilha"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Calda de caramelo pronta",
+          "note": "para acompanhar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Bata leite condensado, creme de leite, leite e baunilha no liquidificador.",
+        "Despeje em um recipiente e leve ao freezer por pelo menos 4 horas.",
+        "Retire alguns minutos antes de servir.",
+        "Cubra com calda de caramelo na hora de servir."
+      ]
+    }
+  ]
+}

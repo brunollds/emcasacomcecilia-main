@@ -1,0 +1,158 @@
+{
+  "id": 198,
+  "slug": "torta-de-limao-com-merengue",
+  "title": "Torta de Limão com Merengue",
+  "description": "Torta refrescante com base de biscoito, creme de limão e merengue dourado.",
+  "intro": "Esta torta de limão é o frescor instantâneo servido em uma fatia deslumbrante. O creme de limão intensamente cítrico e aveludado ganha o par ideal na doçura do merengue dourado, tudo sobre uma base de biscoitos amanteigados que traz the crocância necessária para equilibrar the suavidade do recheio, resultando em um clássico refrescante que encanta os olhos e o paladar.",
+  "context": "Um dos doces mais pedidos nas confeitarias brasileiras, the torta de limão com merengue é uma lição de equilíbrio sensorial. A receita valoriza the técnica do merengue suíço ou francês para garantir the estrutura perfeita e o visual icônico, provando que the acidez vibrante da fruta é the chave para uma sobremesa leve e sofisticada que limpa o paladar.",
+  "image": "/images/recipes/sobremesas/torta-de-limao-com-merengue.jpg",
+  "imageAlt": "Torta de limão com merengue dourado e fatia servida.",
+  "categories": [
+    "Sobremesas",
+    "Tortas",
+    "Frutas",
+    "Doces Gelados"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Tortas Doces"
+  ],
+  "cuisine": [
+    "Americana"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Limão",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Receita Clássica"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "10 min",
+  "totalTime": "4 h 35 min",
+  "difficulty": "Fácil",
+  "yield": "10 fatias",
+  "searchTerms": [
+    "torta de limão",
+    "merengue",
+    "biscoito maisena",
+    "sobremesa refrescante"
+  ],
+  "tags": [
+    "tortadelimao",
+    "merengue",
+    "sobremesaclassica",
+    "refrescante",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Base",
+      "items": [
+        "2 pacotes de biscoito maisena",
+        "100 g de manteiga sem sal derretida"
+      ]
+    },
+    {
+      "section": "Recheio e merengue",
+      "items": [
+        "1 lata de leite condensado",
+        "1 caixa de creme de leite",
+        "Suco de 4 limões",
+        "Raspas de 1 limão",
+        "3 claras em neve",
+        "6 colheres de sopa de açúcar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Triture os biscoitos até formar farofa fina.",
+    "Misture com a manteiga derretida e pressione no fundo de uma forma removível.",
+    "Leve a base à geladeira por 30 minutos.",
+    "Bata leite condensado, creme de leite, suco e raspas de limão até formar creme.",
+    "Despeje sobre a base e leve à geladeira por pelo menos 4 horas.",
+    "Bata claras em neve e adicione açúcar aos poucos até formar merengue firme.",
+    "Cubra a torta com o merengue.",
+    "Doure no forno a 180°C por cerca de 10 minutos."
+  ],
+  "tips": [
+    "Castanhas trituradas deixam a base mais crocante.",
+    "Aumente o suco de limão para um recheio mais azedinho.",
+    "Finalize com raspas de limão antes de servir."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 25,
+  "cookMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Base",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "pacote",
+          "name": "biscoito maisena"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga sem sal derretida"
+        }
+      ]
+    },
+    {
+      "section": "Recheio e merengue",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "caixa",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 4,
+          "unit": "un.",
+          "name": "limões",
+          "note": "suco"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Raspas de 1 limão"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "claras em neve"
+        },
+        {
+          "qty": 6,
+          "unit": "",
+          "name": "colheres de sopa de açúcar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Triture os biscoitos até formar farofa fina.",
+        "Misture com a manteiga derretida e pressione no fundo de uma forma removível.",
+        "Leve a base à geladeira por 30 minutos.",
+        "Bata leite condensado, creme de leite, suco e raspas de limão até formar creme.",
+        "Despeje sobre a base e leve à geladeira por pelo menos 4 horas.",
+        "Bata claras em neve e adicione açúcar aos poucos até formar merengue firme.",
+        "Cubra a torta com o merengue.",
+        "Doure no forno a 180°C por cerca de 10 minutos."
+      ]
+    }
+  ]
+}

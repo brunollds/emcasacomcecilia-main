@@ -1,0 +1,136 @@
+{
+  "id": 167,
+  "slug": "macas-do-amor-de-coelho",
+  "title": "Maçãs do Amor de Coelho",
+  "description": "Maçãs do amor temáticas de Páscoa com caramelo, chocolate branco colorido e confeitos.",
+  "intro": "As maçãs do amor de coelho são the diversão em forma de fruta, unindo the doçura do caramelo e do chocolate colorido ao frescor da maçã vermelha. Com decorações temáticas que encantam os olhos, elas são o presente comestível perfeito para the Páscoa, trazendo um sorriso e um sabor de infância para crianças de todas as idades.",
+  "context": "Transformar frutas em doces de festa é uma tradição lúdica que celebra the fartura. Esta receita valoriza the técnica de banhar the fruta para garantir the casquinha crocante e o brilho do chocolate, provando que the criatividade e o afeto na cozinha podem transformar ingredientes simples do dia a dia em símbolos de celebração e alegria compartilhada.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Frutas",
+    "Doces"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Docinhos"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "keyIngredients": [
+    "Maçã"
+  ],
+  "collections": [
+    "Páscoa",
+    "Para Crianças"
+  ],
+  "prepTime": "30 min",
+  "cookTime": "15 min",
+  "totalTime": "45 min",
+  "difficulty": "Médio",
+  "yield": "6 unidades",
+  "searchTerms": [
+    "maçã do amor",
+    "maçã de coelho",
+    "Páscoa infantil",
+    "chocolate branco",
+    "caramelo"
+  ],
+  "tags": [
+    "macadoamor",
+    "pascoasaudavel",
+    "coelhinhodapascoa",
+    "frutasdecoradas",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Maçãs",
+      "items": [
+        "6 maçãs vermelhas",
+        "2 xícaras de açúcar",
+        "1/2 xícara de água",
+        "1 xícara de chocolate branco",
+        "Corante alimentício pastel",
+        "Confeitos em formato de ovinhos ou coelhinhos",
+        "Palitos de madeira"
+      ]
+    }
+  ],
+  "instructions": [
+    "Espete as maçãs nos palitos e reserve.",
+    "Leve açúcar e água ao fogo até formar caramelo.",
+    "Banhe as maçãs no caramelo e deixe firmar.",
+    "Derreta o chocolate branco e tinja com corante pastel.",
+    "Cubra as maçãs com o chocolate colorido.",
+    "Decore com confeitos antes de firmar completamente."
+  ],
+  "tips": [
+    "Use cores pastel para reforçar o visual de Páscoa.",
+    "Embale em saquinhos transparentes com laço.",
+    "Granulados e mini coelhos ajudam na decoração infantil."
+  ],
+  "servings": 6,
+  "servingsUnit": "unidades",
+  "prepMinutes": 30,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Maçãs",
+      "items": [
+        {
+          "qty": 6,
+          "unit": "",
+          "name": "maçãs vermelhas"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "água"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "chocolate branco"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Corante alimentício pastel"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Confeitos em formato de ovinhos ou coelhinhos"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Palitos de madeira"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Espete as maçãs nos palitos e reserve.",
+        "Leve açúcar e água ao fogo até formar caramelo.",
+        "Banhe as maçãs no caramelo e deixe firmar.",
+        "Derreta o chocolate branco e tinja com corante pastel.",
+        "Cubra as maçãs com o chocolate colorido.",
+        "Decore com confeitos antes de firmar completamente."
+      ]
+    }
+  ]
+}

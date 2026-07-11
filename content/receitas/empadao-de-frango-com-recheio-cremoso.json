@@ -1,0 +1,177 @@
+{
+  "id": 47,
+  "slug": "empadao-de-frango-com-recheio-cremoso",
+  "title": "Empadão de Frango com Recheio Cremoso",
+  "description": "Empadão brasileiro com massa amanteigada e recheio úmido de frango com requeijão.",
+  "intro": "O empadão de frango é o verdadeiro protagonista das reuniões de família. Com sua famosa 'massa podre' que esfarela e derrete na boca ao mesmo tempo, contrastando com um recheio de frango suculento e extremamente cremoso, ele é a definição de comida afetiva que aquece o coração.",
+  "context": "Descendente das empadas trazidas pelos portugueses na época colonial, o empadão se adaptou ao paladar brasileiro com recheios mais úmidos e massas ricas em gordura. É um prato que evoca o carinho dos almoços de domingo na casa da vó, onde a simplicidade da técnica encontra o prazer de uma fatia generosa e dourada.",
+  "categories": [
+    "Brasileira",
+    "Salgados",
+    "Comida Afetiva"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Tortas Salgadas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Frango"
+  ],
+  "collections": [
+    "Comfort Food",
+    "Receita de Vó"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "30 min",
+  "totalTime": "1h 5 min",
+  "difficulty": "Médio",
+  "yield": "8 porções",
+  "isPopular": true,
+  "searchTerms": [
+    "empadão",
+    "frango",
+    "requeijão",
+    "massa podre",
+    "almoço de domingo",
+    "torta salgada"
+  ],
+  "tags": [
+    "empadao",
+    "frango",
+    "brasileira",
+    "conforto",
+    "domingo",
+    "receitadevo",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "2 xícaras de farinha de trigo",
+        "100 g de manteiga gelada em cubos",
+        "1 ovo",
+        "3 colheres (sopa) de água gelada"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "1 peito de frango cozido e desfiado",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "1 tomate picado",
+        "1 pote de requeijão cremoso (200 g)",
+        "1/2 xícara de leite",
+        "Sal, pimenta e cheiro-verde a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Prepare a massa misturando a farinha e a manteiga até formar uma farofa.",
+    "Adicione o ovo e a água gelada até dar liga e leve à geladeira por 30 minutos.",
+    "Refogue o frango com cebola, alho, tomate e temperos.",
+    "Misture o requeijão com o leite e incorpore ao recheio para dar cremosidade.",
+    "Forre a forma com parte da massa, coloque o recheio e cubra com o restante da massa.",
+    "Pincele gema e asse a 180°C por cerca de 30 minutos, até dourar."
+  ],
+  "tips": [
+    "Adicione milho, ervilha ou palmito ao recheio para render mais e ficar colorido.",
+    "Não sove demais a massa; o segredo da textura quebradiça é apenas misturar os ingredientes."
+  ],
+  "servings": 8,
+  "servingsUnit": "porções",
+  "prepMinutes": 35,
+  "cookMinutes": 30,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga gelada em cubos"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "colheres (sopa) de água gelada"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "peito de frango cozido e desfiado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "tomate picado"
+        },
+        {
+          "qty": 1,
+          "unit": "pote",
+          "name": "requeijão cremoso (200 g)"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "leite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta e cheiro-verde",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Prepare a massa misturando a farinha e a manteiga até formar uma farofa.",
+        "Adicione o ovo e a água gelada até dar liga e leve à geladeira por 30 minutos.",
+        "Refogue o frango com cebola, alho, tomate e temperos.",
+        "Misture o requeijão com o leite e incorpore ao recheio para dar cremosidade.",
+        "Forre a forma com parte da massa, coloque o recheio e cubra com o restante da massa.",
+        "Pincele gema e asse a 180°C por cerca de 30 minutos, até dourar."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "id": 195,
+  "slug": "torta-de-abacaxi-com-coco-e-chantilly",
+  "title": "Torta de Abacaxi com Coco e Chantilly",
+  "description": "Torta tropical com massa caseira, recheio de abacaxi com coco e cobertura de chantilly.",
+  "intro": "Esta torta de abacaxi com coco é the tradução da refrescância tropical em uma sobremesa clássica. A combinação da fruta levemente cozida com the doçura do coco ralado fresco, coroada por uma nuvem de chantilly aerado, oferece um equilíbrio perfeito entre o cítrico e o lácteo que derrete na boca a cada garfada.",
+  "context": "Um ícone das reuniões familiares brasileiras, the torta de abacaxi celebra the abundância das frutas tropicais. Esta receita valoriza the técnica de preparar o doce da fruta com antecedência para que the massa amanteigada se mantenha crocante, resultando em uma sobremesa que é sinônimo de leveza e hospitalidade em tardes ensolaradas.",
+  "categories": [
+    "Sobremesas",
+    "Tortas",
+    "Frutas",
+    "Tropicais"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Tortas Doces"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Coco"
+  ],
+  "collections": [
+    "Verão"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "30 min",
+  "totalTime": "1 h 5 min",
+  "difficulty": "Médio",
+  "yield": "10 fatias",
+  "searchTerms": [
+    "torta de abacaxi",
+    "coco ralado",
+    "chantilly",
+    "sobremesa tropical"
+  ],
+  "tags": [
+    "tortadeabacaxi",
+    "coco",
+    "chantilly",
+    "sobremesatropical",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "2 xícaras de farinha de trigo",
+        "1 colher de chá de fermento em pó",
+        "1 pitada de sal",
+        "1 xícara de açúcar",
+        "100 g de manteiga gelada em cubos",
+        "2 ovos",
+        "1/2 xícara de leite"
+      ]
+    },
+    {
+      "section": "Recheio e cobertura",
+      "items": [
+        "1 abacaxi maduro descascado e picado",
+        "1/2 xícara de açúcar",
+        "1/2 xícara de coco ralado",
+        "1 lata de creme de leite gelado sem soro",
+        "1/2 xícara de açúcar de confeiteiro"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture farinha, fermento, sal, açúcar e manteiga até formar farofa.",
+    "Adicione ovos e leite até formar massa homogênea.",
+    "Coloque em forma untada e enfarinhada.",
+    "Asse a 180°C por cerca de 30 minutos, até dourar.",
+    "Cozinhe abacaxi, açúcar e coco até o abacaxi amolecer e a calda engrossar.",
+    "Bata creme de leite gelado com açúcar de confeiteiro até formar picos firmes.",
+    "Espalhe o recheio sobre a massa fria.",
+    "Cubra com chantilly e decore com coco ou pedaços de abacaxi."
+  ],
+  "tips": [
+    "Pré-asse a massa por 10 minutos para uma base mais crocante.",
+    "Abacaxi em calda pode ser usado em uma versão mais rápida.",
+    "Raspas de limão deixam o recheio mais fresco."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 35,
+  "cookMinutes": 30,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "fermento em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "pitada",
+          "name": "sal"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga gelada em cubos"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "leite"
+        }
+      ]
+    },
+    {
+      "section": "Recheio e cobertura",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "abacaxi maduro descascado e picado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "coco ralado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "creme de leite gelado sem soro"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "açúcar de confeiteiro"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture farinha, fermento, sal, açúcar e manteiga até formar farofa.",
+        "Adicione ovos e leite até formar massa homogênea.",
+        "Coloque em forma untada e enfarinhada.",
+        "Asse a 180°C por cerca de 30 minutos, até dourar.",
+        "Cozinhe abacaxi, açúcar e coco até o abacaxi amolecer e a calda engrossar.",
+        "Bata creme de leite gelado com açúcar de confeiteiro até formar picos firmes.",
+        "Espalhe o recheio sobre a massa fria.",
+        "Cubra com chantilly e decore com coco ou pedaços de abacaxi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "id": 124,
+  "slug": "quiche-integral-de-frango-com-legumes",
+  "title": "Quiche Integral de Frango com Legumes",
+  "description": "Quiche integral nutritiva com frango desfiado, cenoura, brócolis, milho e creme de ovos.",
+  "intro": "A quiche integral de frango com legumes é the solução perfeita para uma refeição completa, prática e extremamente apetitosa. Unindo a suculência do frango desfiado com o colorido dos legumes frescos em uma base de massa crocante e nutritiva, ela oferece um festival de texturas que derrete na boca, sendo ideal para quem não abre mão do sabor em uma dieta equilibrada.",
+  "context": "Ideal para o planejamento de refeições (meal prep), a quiche de frango é um coringa da culinária doméstica. A massa que combina farinhas integral e branca garante a estrutura perfeita sem o peso excessivo, celebrando a eficiência de um prato que pode ser servido quente ou frio, sempre mantendo a integridade dos sabores e o valor nutricional dos vegetais.",
+  "categories": [
+    "Quiches",
+    "Frango",
+    "Salgados",
+    "Saudáveis"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Tortas Salgadas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Brunch",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Francesa"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "diet": [
+    "Fit",
+    "High Protein"
+  ],
+  "keyIngredients": [
+    "Frango"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "30 min",
+  "totalTime": "1 h 5 min",
+  "difficulty": "Médio",
+  "yield": "8 fatias",
+  "searchTerms": [
+    "quiche integral",
+    "frango desfiado",
+    "legumes",
+    "cenoura",
+    "brócolis"
+  ],
+  "tags": [
+    "quicheintegral",
+    "frango",
+    "legumes",
+    "receitafacil",
+    "almoco",
+    "saudavel",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 xícara de farinha de trigo integral",
+        "1/2 xícara de farinha de trigo branca",
+        "100 g de manteiga gelada em cubos",
+        "3 colheres de sopa de água gelada",
+        "1 colher de chá de sal"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "1 peito de frango cozido e desfiado",
+        "1 cebola pequena picada",
+        "2 dentes de alho picados",
+        "1 colher de sopa de azeite",
+        "1 cenoura pequena ralada",
+        "1/2 xícara de brócolis picado",
+        "1/2 xícara de milho verde",
+        "3 ovos",
+        "1 xícara de leite",
+        "Sal, pimenta-do-reino e noz-moscada a gosto",
+        "Salsinha picada a gosto para finalizar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Prepare a massa misturando farinhas, sal, manteiga e água gelada até formar uma massa homogênea.",
+    "Embrulhe a massa e leve à geladeira por 30 minutos.",
+    "Refogue cebola e alho no azeite, adicione frango, cenoura, brócolis e milho, e tempere.",
+    "Bata os ovos com o leite e tempere com sal, pimenta e noz-moscada.",
+    "Abra a massa, forre uma forma e distribua o recheio de frango com legumes.",
+    "Cubra com a mistura de ovos e leite.",
+    "Asse a 180°C por cerca de 30 minutos, até dourar e firmar.",
+    "Finalize com salsinha picada antes de servir."
+  ],
+  "tips": [
+    "Varie os legumes conforme o que tiver em casa.",
+    "Curry, páprica ou orégano deixam o recheio mais aromático.",
+    "A quiche pode ser servida quente ou fria."
+  ],
+  "servings": 8,
+  "servingsUnit": "fatias",
+  "prepMinutes": 35,
+  "cookMinutes": 30,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "farinha de trigo integral"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "farinha de trigo branca"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga gelada em cubos"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "colheres de sopa de água gelada"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de chá de sal"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "peito de frango cozido e desfiado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de sopa de azeite"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cenoura pequena ralada"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "brócolis picado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "milho verde"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "leite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino e noz-moscada",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Salsinha picada  para finalizar",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Prepare a massa misturando farinhas, sal, manteiga e água gelada até formar uma massa homogênea.",
+        "Embrulhe a massa e leve à geladeira por 30 minutos.",
+        "Refogue cebola e alho no azeite, adicione frango, cenoura, brócolis e milho, e tempere.",
+        "Bata os ovos com o leite e tempere com sal, pimenta e noz-moscada.",
+        "Abra a massa, forre uma forma e distribua o recheio de frango com legumes.",
+        "Cubra com a mistura de ovos e leite.",
+        "Asse a 180°C por cerca de 30 minutos, até dourar e firmar.",
+        "Finalize com salsinha picada antes de servir."
+      ]
+    }
+  ]
+}

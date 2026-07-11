@@ -1,0 +1,123 @@
+{
+  "id": 179,
+  "slug": "pave-de-ricota-com-limao-e-hortela",
+  "title": "Pavê de Ricota com Limão e Hortelã",
+  "description": "Pavê leve e refrescante com creme de ricota, limão, hortelã e biscoito champanhe.",
+  "intro": "Este pavê de ricota é the definição de leveza e frescor para quem busca uma sobremesa menos doce e extremamente aromática. A suavidade da ricota batida com limão ganha o toque revigorante da hortelã fresca, intercalada com biscoitos champanhe que derretem na boca, oferecendo um encerramento etéreo para as refeições festivas.",
+  "context": "Inovando no formato clássico do pavê, esta receita utiliza a ricota como base para um creme mais nutritivo e aerado. É the celebração do frescor das ervas na doçaria, onde the hortelã atua como um elemento surpresa que limpa o paladar, provando que the confeitaria de Páscoa pode ser refrescante, moderna e surpreendentemente leve.",
+  "categories": [
+    "Sobremesas",
+    "Pavês",
+    "Frutas",
+    "Leves"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pavês"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Limão"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "0 min",
+  "totalTime": "4 h 20 min",
+  "difficulty": "Fácil",
+  "yield": "8 porções",
+  "searchTerms": [
+    "pavê de ricota",
+    "limão e hortelã",
+    "biscoito champanhe",
+    "sobremesa leve"
+  ],
+  "tags": [
+    "pavedericota",
+    "limaoehortela",
+    "pascoarefrescante",
+    "receitaleve",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Creme e montagem",
+      "items": [
+        "400 g de ricota fresca",
+        "1 lata de leite condensado",
+        "Suco e raspas de 2 limões",
+        "Folhas de hortelã picadas a gosto",
+        "1 pacote de biscoito champanhe",
+        "1 xícara de leite para umedecer os biscoitos"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bata ricota, leite condensado, suco e raspas de limão até obter creme homogêneo.",
+    "Misture folhas de hortelã picadas.",
+    "Umedeça os biscoitos rapidamente no leite.",
+    "Monte camadas de biscoito e creme de ricota.",
+    "Repita até finalizar com creme.",
+    "Leve à geladeira por pelo menos 4 horas."
+  ],
+  "tips": [
+    "Decore com hortelã inteira e raspas extras de limão.",
+    "Baunilha suaviza a acidez do creme.",
+    "Sirva bem gelado."
+  ],
+  "servings": 8,
+  "servingsUnit": "porções",
+  "prepMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Creme e montagem",
+      "items": [
+        {
+          "qty": 400,
+          "unit": "g",
+          "name": "ricota fresca"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 2,
+          "unit": "un.",
+          "name": "limões",
+          "note": "suco e raspas"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Folhas de hortelã picadas",
+          "note": "a gosto"
+        },
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "biscoito champanhe"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "leite para umedecer os biscoitos"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Bata ricota, leite condensado, suco e raspas de limão até obter creme homogêneo.",
+        "Misture folhas de hortelã picadas.",
+        "Umedeça os biscoitos rapidamente no leite.",
+        "Monte camadas de biscoito e creme de ricota.",
+        "Repita até finalizar com creme.",
+        "Leve à geladeira por pelo menos 4 horas."
+      ]
+    }
+  ]
+}

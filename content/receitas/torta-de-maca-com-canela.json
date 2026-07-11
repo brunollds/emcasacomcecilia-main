@@ -1,0 +1,176 @@
+{
+  "id": 197,
+  "slug": "torta-de-maca-com-canela",
+  "title": "Torta de Maçã com Canela",
+  "description": "Torta clássica com massa amanteigada, maçãs cozidas com canela e farofa crocante.",
+  "intro": "A torta de maçã com canela é the essência da confeitaria clássica que perfuma the cozinha com promessas de aconchego. Com fatias de fruta macias envoltas em especiarias e uma farofa ultra-crocante por cima, cada fatia oferece the harmonia perfeita entre the acidez da maçã e the doçura aromática da canela, sendo o par ideal para um café ou uma bola de sorvete.",
+  "context": "Pilar das tradições europeias e americanas, the torta de maçã (Apple Pie) é valorizada mundialmente por sua versatilidade e sabor rústico. Esta receita foca na técnica da massa 'sablée' que derrete na boca, celebrando the simplicidade de ingredientes nobres que, quando bem combinados, criam uma sobremesa de elegância atemporal e alma acolhedora.",
+  "categories": [
+    "Sobremesas",
+    "Tortas",
+    "Frutas",
+    "Clássicas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Tortas Doces"
+  ],
+  "cuisine": [
+    "Americana"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Maçã"
+  ],
+  "collections": [
+    "Receita Clássica",
+    "Comfort Food",
+    "Inverno"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "55 min",
+  "totalTime": "1 h 30 min",
+  "difficulty": "Médio",
+  "yield": "10 fatias",
+  "searchTerms": [
+    "torta de maçã",
+    "canela",
+    "maçã caramelizada",
+    "sobremesa clássica"
+  ],
+  "tags": [
+    "tortademaca",
+    "canela",
+    "sobremesaclassica",
+    "confeitaria",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "2 xícaras de farinha de trigo",
+        "1 colher de chá de sal",
+        "1 xícara de manteiga gelada em cubos",
+        "1/2 xícara de água gelada"
+      ]
+    },
+    {
+      "section": "Recheio e cobertura",
+      "items": [
+        "4 maçãs médias descascadas e fatiadas",
+        "1/2 xícara de açúcar",
+        "1 colher de sopa de canela em pó",
+        "1 colher de sopa de suco de limão",
+        "1/2 xícara de farinha de trigo",
+        "1/2 xícara de açúcar para a farofa",
+        "1/2 xícara de manteiga gelada em cubos para a farofa"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture farinha e sal, adicione manteiga e esfarele com as pontas dos dedos.",
+    "Adicione água gelada aos poucos até formar massa homogênea.",
+    "Embrulhe e leve à geladeira por 30 minutos.",
+    "Cozinhe maçãs, açúcar, canela e limão por cerca de 15 minutos.",
+    "Misture farinha, açúcar e manteiga até formar farofa para a cobertura.",
+    "Abra a massa e forre uma forma de fundo removível.",
+    "Despeje o recheio de maçã.",
+    "Cubra com a farofa.",
+    "Asse a 180°C por cerca de 40 minutos, até dourar."
+  ],
+  "tips": [
+    "Maçãs verdes deixam o recheio mais ácido.",
+    "Uvas-passas podem entrar no recheio para uma versão mais clássica.",
+    "Sirva quente com sorvete de creme."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 35,
+  "cookMinutes": 55,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "sal"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "manteiga gelada em cubos"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "água gelada"
+        }
+      ]
+    },
+    {
+      "section": "Recheio e cobertura",
+      "items": [
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "maçãs médias descascadas e fatiadas"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "col. sopa",
+          "name": "canela em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "col. sopa",
+          "name": "suco de limão"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "açúcar para a farofa"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "manteiga gelada em cubos para a farofa"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture farinha e sal, adicione manteiga e esfarele com as pontas dos dedos.",
+        "Adicione água gelada aos poucos até formar massa homogênea.",
+        "Embrulhe e leve à geladeira por 30 minutos.",
+        "Cozinhe maçãs, açúcar, canela e limão por cerca de 15 minutos.",
+        "Misture farinha, açúcar e manteiga até formar farofa para a cobertura.",
+        "Abra a massa e forre uma forma de fundo removível.",
+        "Despeje o recheio de maçã.",
+        "Cubra com a farofa.",
+        "Asse a 180°C por cerca de 40 minutos, até dourar."
+      ]
+    }
+  ]
+}

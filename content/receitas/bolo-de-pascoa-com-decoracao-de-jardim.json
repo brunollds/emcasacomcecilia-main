@@ -1,0 +1,158 @@
+{
+  "id": 207,
+  "slug": "bolo-de-pascoa-com-decoracao-de-jardim",
+  "title": "Bolo de Páscoa com Decoração de Jardim",
+  "description": "Bolo festivo com massa de baunilha e decoração lúdica de jardim com pasta americana.",
+  "intro": "O Bolo Jardim de Páscoa é uma obra-prima da confeitaria artística que transforma the sua mesa em um cenário encantado. Com uma massa amanteigada leve e uma decoração lúdica feita com pasta americana e glacê, ele celebra the renovação da vida através de flores e coelhinhos comestíveis, sendo the escolha perfeita para um almoço de domingo inesquecível.",
+  "context": "Valorizando the ludicidade e the técnica de modelagem, esta receita destaca the importância da estética na gastronomia sazonal. É um bolo que convida as crianças para the cozinha, provando que the hospitalidade e o carinho podem ser expressos através de detalhes artesanais que transformam uma sobremesa simples em uma peça central de celebração e alegria compartilhada.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Bolos Caseiros",
+    "Confeitaria"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Bolos"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "45 min",
+  "cookTime": "40 min",
+  "totalTime": "1 h 25 min",
+  "difficulty": "Médio",
+  "yield": "12 fatias",
+  "searchTerms": [
+    "bolo de Páscoa",
+    "decoração de jardim",
+    "pasta americana",
+    "bolo decorado"
+  ],
+  "tags": [
+    "bolodepascoa",
+    "decoracaodejardim",
+    "bolodecorado",
+    "pascoacriativa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa e decoração",
+      "items": [
+        "3 xícaras de farinha de trigo",
+        "2 xícaras de açúcar",
+        "4 ovos",
+        "150 g de manteiga",
+        "1 xícara de leite",
+        "1 colher de sopa de fermento em pó",
+        "1 colher de chá de essência de baunilha",
+        "Pasta americana para decorar",
+        "Glacê real para cobrir",
+        "Corantes alimentícios"
+      ]
+    }
+  ],
+  "instructions": [
+    "Pré-aqueça o forno a 180°C e unte uma forma redonda.",
+    "Bata manteiga e açúcar até formar creme claro.",
+    "Adicione os ovos um a um, batendo bem.",
+    "Peneire farinha e fermento.",
+    "Adicione os secos alternando com leite.",
+    "Misture a baunilha e despeje na forma.",
+    "Asse por cerca de 40 minutos e deixe esfriar.",
+    "Cubra com glacê real.",
+    "Modele flores, folhas, borboletas e coelhos com pasta americana e corantes.",
+    "Decore criando um jardim comestível."
+  ],
+  "tips": [
+    "Raspas de limão ou laranja perfumam a massa.",
+    "Chantilly pode substituir o glacê real.",
+    "Use cortadores de pasta americana para acabamento mais preciso."
+  ],
+  "servings": 12,
+  "servingsUnit": "fatias",
+  "prepMinutes": 45,
+  "cookMinutes": 40,
+  "structuredIngredients": [
+    {
+      "section": "Massa e decoração",
+      "items": [
+        {
+          "qty": 3,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 150,
+          "unit": "g",
+          "name": "manteiga"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "leite"
+        },
+        {
+          "qty": 1,
+          "unit": "col. sopa",
+          "name": "fermento em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "essência de baunilha"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Pasta americana",
+          "note": "para decorar"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Glacê real para cobrir"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Corantes alimentícios"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Pré-aqueça o forno a 180°C e unte uma forma redonda.",
+        "Bata manteiga e açúcar até formar creme claro.",
+        "Adicione os ovos um a um, batendo bem.",
+        "Peneire farinha e fermento.",
+        "Adicione os secos alternando com leite.",
+        "Misture a baunilha e despeje na forma.",
+        "Asse por cerca de 40 minutos e deixe esfriar.",
+        "Cubra com glacê real.",
+        "Modele flores, folhas, borboletas e coelhos com pasta americana e corantes.",
+        "Decore criando um jardim comestível."
+      ]
+    }
+  ]
+}

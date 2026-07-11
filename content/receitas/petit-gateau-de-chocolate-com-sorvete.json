@@ -1,0 +1,139 @@
+{
+  "id": 186,
+  "slug": "petit-gateau-de-chocolate-com-sorvete",
+  "title": "Petit Gateau de Chocolate com Sorvete",
+  "description": "Bolinho quente de chocolate com centro cremoso, servido com sorvete gelado.",
+  "intro": "O petit gateau de chocolate é the síntese da elegância e da surpresa na sobremesa. Sob uma casquinha delicada, esconde-se um coração de chocolate derretido e intenso que, ao encontrar o par ideal no sorvete de creme gelado, cria um contraste de temperaturas e texturas que é puro luxo e sofisticação em cada colherada.",
+  "context": "Um clássico da gastronomia francesa (literalmente 'pequeno bolo'), o petit gateau exige precisão no tempo de forno para garantir o centro líquido. É the receita perfeita para jantares especiais, onde the técnica de assar em alta temperatura transforma ingredientes básicos em uma joia da alta confeitaria que celebra the pureza do chocolate e o prazer sensorial.",
+  "categories": [
+    "Sobremesas",
+    "Chocolate",
+    "Francesa",
+    "Especiais"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Bolos"
+  ],
+  "cuisine": [
+    "Francesa"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Para Dois",
+    "Receita Clássica"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "10 min",
+  "totalTime": "25 min",
+  "difficulty": "Médio",
+  "yield": "6 unidades",
+  "searchTerms": [
+    "petit gateau",
+    "chocolate",
+    "sorvete",
+    "sobremesa quente",
+    "centro cremoso"
+  ],
+  "tags": [
+    "petitgateau",
+    "chocolate",
+    "sobremesa",
+    "receitafacil",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "100 g de chocolate meio amargo picado",
+        "100 g de manteiga sem sal",
+        "2 ovos",
+        "2 gemas",
+        "1/2 xícara de açúcar",
+        "1/4 xícara de farinha de trigo",
+        "Sorvete de creme ou chocolate para acompanhar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Derreta o chocolate com a manteiga em banho-maria ou no micro-ondas.",
+    "Misture ovos, gemas e açúcar até obter creme claro.",
+    "Adicione o chocolate derretido à mistura de ovos.",
+    "Incorpore a farinha aos poucos até formar massa homogênea.",
+    "Distribua em forminhas individuais untadas e enfarinhadas.",
+    "Asse a 200°C por 8 a 10 minutos, até as bordas firmarem e o centro continuar cremoso.",
+    "Desenforme com cuidado e sirva imediatamente com sorvete."
+  ],
+  "tips": [
+    "Use chocolate de boa qualidade para sabor mais intenso.",
+    "Não asse demais para preservar o centro cremoso.",
+    "Adicione essência de baunilha para um aroma mais elegante."
+  ],
+  "servings": 6,
+  "servingsUnit": "unidades",
+  "prepMinutes": 15,
+  "cookMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "chocolate meio amargo picado"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga sem sal"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "gemas"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sorvete de creme ou chocolate",
+          "note": "para acompanhar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Derreta o chocolate com a manteiga em banho-maria ou no micro-ondas.",
+        "Misture ovos, gemas e açúcar até obter creme claro.",
+        "Adicione o chocolate derretido à mistura de ovos.",
+        "Incorpore a farinha aos poucos até formar massa homogênea.",
+        "Distribua em forminhas individuais untadas e enfarinhadas.",
+        "Asse a 200°C por 8 a 10 minutos, até as bordas firmarem e o centro continuar cremoso.",
+        "Desenforme com cuidado e sirva imediatamente com sorvete."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "id": 76,
+  "slug": "bolinho-de-arroz-recheado-com-queijo",
+  "title": "Bolinho de Arroz Recheado com Queijo",
+  "description": "Bolinho crocante de arroz reaproveitado com recheio de queijo derretido.",
+  "intro": "O bolinho de arroz recheado com queijo é o rei do aproveitamento criativo na cozinha. Transformando o arroz do dia anterior em uma joia dourada e crocante, este petisco ganha um toque de mestre com o recheio de mussarela derretida e o sabor defumado do bacon, provando que sobras podem se tornar o destaque de qualquer reunião.",
+  "context": "Simbolizando a inteligência da culinária doméstica brasileira contra o desperdício, o bolinho de arroz é um clássico de 'boteco de raiz'. A técnica de empanar com farinha panko eleva a receita para um nível gourmet, garantindo uma crocância superior que torna este prato um acompanhamento versátil ou a estrela de uma reunião informal.",
+  "categories": [
+    "Brasileira",
+    "Salgados",
+    "Petiscos",
+    "Aproveitamento"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Bolinhos"
+  ],
+  "mealTime": [
+    "Happy Hour",
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fritura"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "keyIngredients": [
+    "Arroz",
+    "Queijo"
+  ],
+  "collections": [
+    "Econômica",
+    "Receita de Vó"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "15 min",
+  "totalTime": "40 min",
+  "difficulty": "Médio",
+  "yield": "20 bolinhos",
+  "isNew": true,
+  "searchTerms": [
+    "bolinho de arroz",
+    "sobras de arroz",
+    "queijo derretido",
+    "zero desperdício",
+    "petisco"
+  ],
+  "tags": [
+    "bolinhodearroz",
+    "zerodesperdicio",
+    "petiscocaseiro",
+    "queijoderretido",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "2 xícaras de arroz cozido",
+        "1 ovo",
+        "3 colheres (sopa) de cheiro-verde picado",
+        "1/2 xícara de queijo ralado",
+        "4 colheres (sopa) de farinha de trigo",
+        "100 g de bacon picado",
+        "1 colher (sopa) de sal de ervas",
+        "1 colher (chá) de fermento em pó",
+        "100 g de queijo mussarela em cubos"
+      ]
+    },
+    {
+      "section": "Para empanar",
+      "items": [
+        "1/2 xícara de farinha de trigo",
+        "2 ovos batidos",
+        "1 xícara de farinha panko",
+        "Óleo para fritar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture arroz, ovo, cheiro-verde, queijo ralado, bacon e farinha.",
+    "Tempere com sal de ervas e incorpore o fermento por último.",
+    "Modele porções da massa com as mãos untadas.",
+    "Coloque um cubo de mussarela no centro e feche bem.",
+    "Passe na farinha de trigo, nos ovos batidos e na farinha panko.",
+    "Leve à geladeira por 15 minutos.",
+    "Frite em óleo a 180°C até dourar.",
+    "Escorra em papel toalha."
+  ],
+  "tips": [
+    "Use arroz do dia anterior, mais firme e menos úmido.",
+    "Para versão sem glúten, use farinha de arroz e polvilho doce.",
+    "Na air fryer, borrife óleo e asse a 180°C por cerca de 12 minutos."
+  ],
+  "servings": 20,
+  "servingsUnit": "bolinhos",
+  "prepMinutes": 25,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "arroz cozido"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "colheres (sopa) de cheiro-verde picado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "queijo ralado"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "colheres (sopa) de farinha de trigo"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "bacon picado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de sal de ervas"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de fermento em pó"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "queijo mussarela em cubos"
+        }
+      ]
+    },
+    {
+      "section": "Para empanar",
+      "items": [
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "ovos batidos"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "farinha panko"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Óleo",
+          "note": "para fritar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture arroz, ovo, cheiro-verde, queijo ralado, bacon e farinha.",
+        "Tempere com sal de ervas e incorpore o fermento por último.",
+        "Modele porções da massa com as mãos untadas.",
+        "Coloque um cubo de mussarela no centro e feche bem.",
+        "Passe na farinha de trigo, nos ovos batidos e na farinha panko.",
+        "Leve à geladeira por 15 minutos.",
+        "Frite em óleo a 180°C até dourar.",
+        "Escorra em papel toalha."
+      ]
+    }
+  ]
+}

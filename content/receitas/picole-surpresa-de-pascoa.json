@@ -1,0 +1,113 @@
+{
+  "id": 174,
+  "slug": "picole-surpresa-de-pascoa",
+  "title": "Picolé Surpresa de Páscoa",
+  "description": "Picolé de chocolate com recheio surpresa de geleia, Nutella ou doce de leite e confeitos coloridos.",
+  "intro": "O picolé surpresa de Páscoa é the diversão gelada que esconde segredos deliciosos em seu interior. Cobertos por uma casquinha crocante de chocolate que protege recheios cremosos de Nutella ou doce de leite, estes picolés artesanais são visualmente festivos e garantem uma explosão de alegria e sabor em cada mordida refrescante e lúdica.",
+  "context": "Transformar o formato do chocolate de Páscoa em picolés artesanais é uma tendência que une praticidade e ludicidade. Esta receita valoriza the técnica de camadas e o recheio surpresa, provando que the confeitaria sazonal pode ser refrescante e inovadora, celebrando the infância com ingredientes de alta qualidade e uma apresentação colorida e vibrante.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Sorvetes",
+    "Chocolate"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Gelados"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Páscoa",
+    "Para Crianças"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "0 min",
+  "totalTime": "2 h 20 min",
+  "difficulty": "Fácil",
+  "yield": "8 unidades",
+  "searchTerms": [
+    "picolé surpresa",
+    "picolé de chocolate",
+    "Páscoa gelada",
+    "recheio cremoso"
+  ],
+  "tags": [
+    "picolesurpresa",
+    "pascoagelada",
+    "chocolategourmet",
+    "sobremesagelada",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Picolés",
+      "items": [
+        "300 g de chocolate derretido ao leite, branco ou meio amargo",
+        "1/2 xícara de geleia de frutas vermelhas, Nutella ou doce de leite",
+        "Granulado dourado ou confeitos coloridos",
+        "Palitos de picolé"
+      ]
+    }
+  ],
+  "instructions": [
+    "Preencha metade das formas de picolé com chocolate derretido.",
+    "Leve ao freezer por 5 minutos.",
+    "Adicione o recheio no centro.",
+    "Complete com mais chocolate.",
+    "Insira os palitos e decore com confeitos.",
+    "Leve ao freezer por cerca de 2 horas."
+  ],
+  "tips": [
+    "Copinhos descartáveis funcionam se não houver forma de picolé.",
+    "Chocolate 70% com geleia cria uma versão vegana simples.",
+    "Sirva em balde com gelo para festas ao ar livre."
+  ],
+  "servings": 8,
+  "servingsUnit": "unidades",
+  "prepMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Picolés",
+      "items": [
+        {
+          "qty": 300,
+          "unit": "g",
+          "name": "chocolate derretido ao leite, branco ou meio amargo"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "geleia de frutas vermelhas, Nutella ou doce de leite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Granulado dourado ou confeitos coloridos"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Palitos de picolé"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Preencha metade das formas de picolé com chocolate derretido.",
+        "Leve ao freezer por 5 minutos.",
+        "Adicione o recheio no centro.",
+        "Complete com mais chocolate.",
+        "Insira os palitos e decore com confeitos.",
+        "Leve ao freezer por cerca de 2 horas."
+      ]
+    }
+  ]
+}

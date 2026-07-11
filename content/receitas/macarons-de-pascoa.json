@@ -1,0 +1,156 @@
+{
+  "id": 203,
+  "slug": "macarons-de-pascoa",
+  "title": "Macarons de Páscoa",
+  "description": "Macarons coloridos com recheios de ganache, doce de leite ou frutas vermelhas.",
+  "intro": "Os macarons de Páscoa são pequenas joias da patisserie francesa que trazem cor e luxo para the sua mesa. Com suas casquinhas crocantes de amêndoa e recheios aveludados de ganache e geleia, estes doces finos em tons pastel são the definição de sofisticação e técnica, proporcionando uma explosão de sabor e elegância em cada mordida etérea.",
+  "context": "Considerado um dos preparos mais desafiadores e refinados do mundo, o macaron exige precisão milimétrica no manuseio do merengue e da farinha de amêndoas. Esta versão temática celebra the Páscoa com criatividade, onde the técnica do 'macaronage' garante the superfície lisa e o 'pé' característico, resultando em um doce de prestígado internacional e alma artística.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Doces",
+    "Francesa"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Biscoitos & Cookies"
+  ],
+  "cuisine": [
+    "Francesa"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "45 min",
+  "cookTime": "15 min",
+  "totalTime": "1 h 30 min",
+  "difficulty": "Difícil",
+  "yield": "20 unidades",
+  "searchTerms": [
+    "macarons de Páscoa",
+    "farinha de amêndoa",
+    "ganache",
+    "doces finos"
+  ],
+  "tags": [
+    "macaronsdepascoa",
+    "sobremesaelegante",
+    "pascoacriativa",
+    "docesfinos",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Casquinhas e recheios",
+      "items": [
+        "150 g de farinha de amêndoa",
+        "200 g de açúcar de confeiteiro",
+        "3 claras de ovo",
+        "70 g de açúcar refinado",
+        "Corante alimentício em cores pastel",
+        "100 g de chocolate meio amargo",
+        "100 ml de creme de leite",
+        "Doce de leite cremoso",
+        "Geleia de frutas vermelhas",
+        "Confeitos coloridos ou mini ovos para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Peneire farinha de amêndoa e açúcar de confeiteiro.",
+    "Bata claras em neve e adicione açúcar refinado até obter merengue firme.",
+    "Incorpore os secos ao merengue delicadamente.",
+    "Divida a massa e tinja com corantes pastel.",
+    "Modele discos em assadeira com papel manteiga.",
+    "Deixe descansar por 30 minutos, até a superfície secar.",
+    "Asse a 150°C por 12 a 15 minutos.",
+    "Prepare ganache aquecendo creme de leite e misturando ao chocolate.",
+    "Recheie com ganache, doce de leite ou geleia e decore."
+  ],
+  "tips": [
+    "Use tapete de silicone para macarons mais uniformes.",
+    "Deixe as casquinhas esfriarem completamente antes de rechear.",
+    "Embale em caixinhas para presentear."
+  ],
+  "servings": 20,
+  "servingsUnit": "unidades",
+  "prepMinutes": 45,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Casquinhas e recheios",
+      "items": [
+        {
+          "qty": 150,
+          "unit": "g",
+          "name": "farinha de amêndoa"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "açúcar de confeiteiro"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "claras de ovo"
+        },
+        {
+          "qty": 70,
+          "unit": "g",
+          "name": "açúcar refinado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Corante alimentício em cores pastel"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "chocolate meio amargo"
+        },
+        {
+          "qty": 100,
+          "unit": "ml",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Doce de leite cremoso"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Geleia de frutas vermelhas"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Confeitos coloridos ou mini ovos",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Peneire farinha de amêndoa e açúcar de confeiteiro.",
+        "Bata claras em neve e adicione açúcar refinado até obter merengue firme.",
+        "Incorpore os secos ao merengue delicadamente.",
+        "Divida a massa e tinja com corantes pastel.",
+        "Modele discos em assadeira com papel manteiga.",
+        "Deixe descansar por 30 minutos, até a superfície secar.",
+        "Asse a 150°C por 12 a 15 minutos.",
+        "Prepare ganache aquecendo creme de leite e misturando ao chocolate.",
+        "Recheie com ganache, doce de leite ou geleia e decore."
+      ]
+    }
+  ]
+}

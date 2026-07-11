@@ -1,0 +1,187 @@
+{
+  "id": 90,
+  "slug": "dal-makhani",
+  "title": "Dal Makhani",
+  "description": "Sopa indiana cremosa de lentilha preta e feijão manteiga com especiarias.",
+  "intro": "O Dal Makhani é o auge do conforto na culinária do Punjab. Com sua textura amanteigada (makhani) e uma mistura potente de especiarias indianas, este dal oferece uma cremosidade inigualável que abraça o paladar, equilibrando o sabor terroso das lentilhas pretas com a riqueza do creme de leite e do coentro fresco.",
+  "context": "Tradicionalmente reservado para celebrações devido ao seu longo processo de cozimento, o Dal Makhani é um símbolo da generosidade indiana. Esta receita valoriza o tempo de infusão das especiarias como o cominho e a cúrcuma, provando que a paciência na cozinha resulta em um prato de alma vibrante e sabor profundo que une culturas à mesa.",
+  "categories": [
+    "Indiana",
+    "Sopas",
+    "Vegetariana",
+    "Jantar"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Refogados & Ensopados",
+    "Vegetariano"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Indiana"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "keyIngredients": [
+    "Feijão"
+  ],
+  "collections": [
+    "Comfort Food"
+  ],
+  "prepTime": "4h 15 min",
+  "cookTime": "45 min",
+  "totalTime": "5h",
+  "difficulty": "Médio",
+  "yield": "6 porções",
+  "isNew": true,
+  "searchTerms": [
+    "dal makhani",
+    "lentilha preta",
+    "feijão manteiga",
+    "comida indiana",
+    "vegetariana"
+  ],
+  "tags": [
+    "dalmakhani",
+    "lentilha",
+    "comidaindiana",
+    "sopa",
+    "vegetariana",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Dal",
+      "items": [
+        "1 xícara de lentilha preta",
+        "1/2 xícara de feijão manteiga",
+        "1 cebola grande picada",
+        "2 dentes de alho picados",
+        "1 colher (sopa) de gengibre ralado",
+        "1 colher (sopa) de manteiga ghee ou manteiga comum",
+        "1 colher (chá) de cominho em pó",
+        "1 colher (chá) de coentro em pó",
+        "1/2 colher (chá) de cúrcuma",
+        "1/4 colher (chá) de pimenta em pó",
+        "Sal a gosto",
+        "1/2 xícara de creme de leite fresco",
+        "Coentro fresco para finalizar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Lave a lentilha e o feijão e deixe de molho por pelo menos 4 horas.",
+    "Escorra e cozinhe em água com sal até ficarem macios.",
+    "Refogue cebola e alho na ghee até dourar.",
+    "Adicione gengibre, cominho, coentro, cúrcuma e pimenta.",
+    "Junte lentilha e feijão cozidos.",
+    "Cubra com água fervente e cozinhe em fogo baixo por cerca de 30 minutos.",
+    "Adicione creme de leite e misture.",
+    "Finalize com coentro fresco."
+  ],
+  "tips": [
+    "O cozimento lento deixa o dal mais cremoso.",
+    "Ajuste a pimenta ao seu paladar.",
+    "Sirva com pão naan ou arroz basmati."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 240,
+  "cookMinutes": 45,
+  "structuredIngredients": [
+    {
+      "section": "Dal",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "lentilha preta"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "feijão manteiga"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola grande picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de gengibre ralado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de manteiga ghee ou manteiga comum"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de cominho em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de coentro em pó"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "name": "colher (chá) de cúrcuma"
+        },
+        {
+          "qty": 0.25,
+          "unit": "",
+          "name": "colher (chá) de pimenta em pó"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "creme de leite fresco"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Coentro fresco",
+          "note": "para finalizar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Lave a lentilha e o feijão e deixe de molho por pelo menos 4 horas.",
+        "Escorra e cozinhe em água com sal até ficarem macios.",
+        "Refogue cebola e alho na ghee até dourar.",
+        "Adicione gengibre, cominho, coentro, cúrcuma e pimenta.",
+        "Junte lentilha e feijão cozidos.",
+        "Cubra com água fervente e cozinhe em fogo baixo por cerca de 30 minutos.",
+        "Adicione creme de leite e misture.",
+        "Finalize com coentro fresco."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": 59,
+  "slug": "brigadeiro-branco-com-granulado-colorido",
+  "title": "Brigadeiro Branco com Granulado Colorido",
+  "description": "Brigadeiro branco de leite em pó, macio e finalizado com granulado colorido.",
+  "intro": "O brigadeiro branco com granulado colorido é a pura expressão da alegria infantil. Com sua base suave que realça a doçura do leite condensado e a textura aveludada do leite em pó, ele se transforma em uma explosão de cores com os granulados, sendo the favorito absoluto para iluminar mesas de aniversário e trazer diversão a cada mordida.",
+  "context": "Esta variante do brigadeiro tradicional foca na delicadeza do sabor lácteo, permitindo que os elementos visuais ganhem destaque. É um clássico das festas brasileiras que celebra a simplicidade e a criatividade, permitindo que cada docinho seja uma pequena obra de arte colorida.",
+  "categories": [
+    "Brasileira",
+    "Doces",
+    "Festas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Docinhos"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "keyIngredients": [
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Aniversário",
+    "Para Crianças"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "10 min",
+  "totalTime": "25 min",
+  "difficulty": "Fácil",
+  "yield": "24 unidades",
+  "searchTerms": [
+    "brigadeiro branco",
+    "granulado colorido",
+    "leite em pó",
+    "docinho de festa",
+    "festa infantil"
+  ],
+  "tags": [
+    "brigadeirobranco",
+    "granuladocolorido",
+    "docinhodefesta",
+    "festainfantil",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 lata de leite condensado",
+        "1 colher (sopa) de manteiga sem sal",
+        "50 g de leite em pó",
+        "Granulado colorido a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Em uma panela, misture o leite condensado, a manteiga e o leite em pó.",
+    "Leve ao fogo baixo e cozinhe, mexendo sempre, até desgrudar do fundo da panela.",
+    "Transfira para um prato untado e deixe esfriar completamente.",
+    "Enrole as bolinhas com as mãos untadas.",
+    "Passe no granulado colorido e coloque em forminhas."
+  ],
+  "tips": [
+    "Para mais cremosidade, adicione 1 colher de sopa de creme de leite ao final.",
+    "Raspas de limão ou laranja deixam o sabor mais fresco.",
+    "Misture granulados de formatos diferentes para uma apresentação mais divertida."
+  ],
+  "servings": 24,
+  "servingsUnit": "unidades",
+  "prepMinutes": 15,
+  "cookMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de manteiga sem sal"
+        },
+        {
+          "qty": 50,
+          "unit": "g",
+          "name": "leite em pó"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Granulado colorido",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Em uma panela, misture o leite condensado, a manteiga e o leite em pó.",
+        "Leve ao fogo baixo e cozinhe, mexendo sempre, até desgrudar do fundo da panela.",
+        "Transfira para um prato untado e deixe esfriar completamente.",
+        "Enrole as bolinhas com as mãos untadas.",
+        "Passe no granulado colorido e coloque em forminhas."
+      ]
+    }
+  ]
+}

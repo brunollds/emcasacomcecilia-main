@@ -1,0 +1,126 @@
+{
+  "id": 58,
+  "slug": "brigadeiro-gourmet-de-pistache",
+  "title": "Brigadeiro Gourmet de Pistache",
+  "description": "Brigadeiro gourmet com chocolate branco, pistache triturado e cobertura crocante.",
+  "intro": "O brigadeiro gourmet de pistache é a união perfeita entre a tradição brasileira e a sofisticação internacional. O chocolate branco aveludado serve de tela para o sabor sutil e amanteigado do pistache, criando um doce equilibrado que surpreende pela cor verde delicada e pela crocância elegante da cobertura.",
+  "context": "Esta receita exemplifica a evolução dos 'doces finos' no Brasil, onde o brigadeiro ganha status de alta confeitaria ao incorporar ingredientes nobres. É a escolha ideal para quem busca uma opção menos doce e mais aromática, sendo um destaque visual e de sabor em mesas de doces para casamentos e eventos especiais.",
+  "categories": [
+    "Brasileira",
+    "Doces",
+    "Festas",
+    "Gourmet"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Docinhos"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "keyIngredients": [
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Aniversário"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "12 min",
+  "totalTime": "32 min",
+  "difficulty": "Médio",
+  "yield": "22 unidades",
+  "isNew": true,
+  "searchTerms": [
+    "brigadeiro gourmet",
+    "pistache",
+    "chocolate branco",
+    "doces finos",
+    "docinho de festa"
+  ],
+  "tags": [
+    "brigadeirogourmet",
+    "pistache",
+    "docesfinos",
+    "brigadeiro",
+    "festa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 lata de leite condensado",
+        "1 colher (sopa) de manteiga sem sal",
+        "4 colheres (sopa) de chocolate branco picado",
+        "50 g de pistache sem casca triturado",
+        "Pistache picado a gosto para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Em uma panela, misture o leite condensado, a manteiga e o chocolate branco.",
+    "Leve ao fogo baixo, mexendo sempre, até desgrudar do fundo da panela.",
+    "Adicione o pistache triturado e misture bem.",
+    "Transfira para um prato untado e deixe esfriar completamente.",
+    "Enrole os brigadeiros com as mãos untadas.",
+    "Passe no pistache picado e coloque em forminhas."
+  ],
+  "tips": [
+    "Para mais cremosidade, adicione 1 colher de sopa de creme de leite ao final.",
+    "Para sabor mais intenso, adicione 1/2 colher de chá de baunilha.",
+    "Use forminhas douradas ou prateadas para uma apresentação mais elegante."
+  ],
+  "servings": 22,
+  "servingsUnit": "unidades",
+  "prepMinutes": 20,
+  "cookMinutes": 12,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de manteiga sem sal"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "colheres (sopa) de chocolate branco picado"
+        },
+        {
+          "qty": 50,
+          "unit": "g",
+          "name": "pistache sem casca triturado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Pistache picado  para decorar",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Em uma panela, misture o leite condensado, a manteiga e o chocolate branco.",
+        "Leve ao fogo baixo, mexendo sempre, até desgrudar do fundo da panela.",
+        "Adicione o pistache triturado e misture bem.",
+        "Transfira para um prato untado e deixe esfriar completamente.",
+        "Enrole os brigadeiros com as mãos untadas.",
+        "Passe no pistache picado e coloque em forminhas."
+      ]
+    }
+  ]
+}

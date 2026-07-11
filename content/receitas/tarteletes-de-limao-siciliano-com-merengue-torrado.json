@@ -1,0 +1,142 @@
+{
+  "id": 177,
+  "slug": "tarteletes-de-limao-siciliano-com-merengue-torrado",
+  "title": "Tarteletes de Limão Siciliano com Merengue Torrado",
+  "description": "Tarteletes amanteigadas com creme de limão siciliano e cobertura de merengue torrado.",
+  "intro": "Estas tarteletes são the síntese da sofisticação refrescante. A base amanteigada e crocante acolhe um creme de limão siciliano intensamente cítrico e aveludado, coroado por nuvens de merengue torrado que trazem uma doçura equilibrada e um visual de alta confeitaria para the sua sobremesa de Páscoa.",
+  "context": "Valorizando o aroma inconfundível do limão siciliano, esta receita é uma lição de contraste sensorial. A técnica de tostar o merengue adiciona uma camada defumada sutil que complementa the acidez da fruta, celebrando the herança das tortas cítricas europeias em formatos individuais que garantem elegância e frescor a qualquer recepção.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Tortas",
+    "Frutas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Tortas Doces"
+  ],
+  "cuisine": [
+    "Francesa"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Limão"
+  ],
+  "collections": [
+    "Para Dois"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "25 min",
+  "totalTime": "1 h",
+  "difficulty": "Médio",
+  "yield": "8 unidades",
+  "searchTerms": [
+    "tarteletes de limão",
+    "limão siciliano",
+    "merengue torrado",
+    "sobremesa refrescante"
+  ],
+  "tags": [
+    "tarteletesdelimao",
+    "merenguetorrado",
+    "pascoarefrescante",
+    "receitaelegante",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa e recheio",
+      "items": [
+        "1 1/2 xícaras de farinha de trigo",
+        "100 g de manteiga gelada",
+        "1/3 xícara de açúcar",
+        "1 ovo",
+        "Suco e raspas de 3 limões sicilianos",
+        "1 lata de leite condensado",
+        "1/2 xícara de creme de leite",
+        "Merengue pronto ou claras batidas com açúcar para finalizar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture farinha, manteiga, açúcar e ovo até formar a massa.",
+    "Forre forminhas de tartelete e asse até dourar.",
+    "Misture leite condensado, creme de leite, suco e raspas de limão.",
+    "Recheie as bases frias com o creme de limão.",
+    "Cubra com merengue.",
+    "Toste com maçarico culinário ou leve rapidamente ao forno alto."
+  ],
+  "tips": [
+    "Ajuste a acidez com mais ou menos suco de limão.",
+    "Misturar limão Tahiti e Siciliano cria sabor mais complexo.",
+    "Sirva gelada para ressaltar o frescor."
+  ],
+  "servings": 8,
+  "servingsUnit": "unidades",
+  "prepMinutes": 35,
+  "cookMinutes": 25,
+  "structuredIngredients": [
+    {
+      "section": "Massa e recheio",
+      "items": [
+        {
+          "qty": 1.5,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga gelada"
+        },
+        {
+          "qty": 0.33,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo"
+        },
+        {
+          "qty": 3,
+          "unit": "un.",
+          "name": "limões",
+          "note": "suco e raspas sicilianos"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Merengue pronto ou claras batidas com açúcar",
+          "note": "para finalizar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture farinha, manteiga, açúcar e ovo até formar a massa.",
+        "Forre forminhas de tartelete e asse até dourar.",
+        "Misture leite condensado, creme de leite, suco e raspas de limão.",
+        "Recheie as bases frias com o creme de limão.",
+        "Cubra com merengue.",
+        "Toste com maçarico culinário ou leve rapidamente ao forno alto."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "id": 75,
+  "slug": "croquete-de-carne-com-recheio-cremoso",
+  "title": "Croquete de Carne com Recheio Cremoso",
+  "description": "Croquete brasileiro com massa de batata, carne moída temperada e casquinha crocante.",
+  "intro": "O croquete de carne é a definição de um petisco robusto e surpreendente. Com sua casquinha escura e ultra-crocante que protege um interior extremamente cremoso feito à base de batata e carne moída intensamente temperada, ele oferece um equilíbrio de texturas que derrete na boca e satisfaz o paladar com um sabor profundo e caseiro.",
+  "context": "Inspirado na técnica francesa do 'croquette', este salgado foi abrasileirado com a inclusão da batata na massa, garantindo uma umidade que os modelos europeus nem sempre possuem. É um clássico das lanchonetes tradicionais e botecos de raiz, representando a maestria em transformar ingredientes cotidianos em um aperitivo de sabor sofisticado e técnica apurada.",
+  "categories": [
+    "Brasileira",
+    "Salgados",
+    "Carnes",
+    "Petiscos"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Salgados Fritos"
+  ],
+  "mealTime": [
+    "Happy Hour"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fritura"
+  ],
+  "keyIngredients": [
+    "Carne Moída"
+  ],
+  "collections": [
+    "Para Congelar"
+  ],
+  "prepTime": "40 min",
+  "cookTime": "25 min",
+  "totalTime": "1h 5 min",
+  "difficulty": "Médio",
+  "yield": "20 unidades",
+  "searchTerms": [
+    "croquete de carne",
+    "carne moída",
+    "massa de batata",
+    "salgado",
+    "petisco"
+  ],
+  "tags": [
+    "croquetedecarne",
+    "carnemoida",
+    "salgados",
+    "petisco",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "500 g de batatas cozidas e amassadas",
+        "1 xícara (chá) de leite",
+        "1 colher (sopa) de manteiga",
+        "1 cubo de caldo de galinha",
+        "Sal a gosto",
+        "Farinha de trigo até dar o ponto"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "500 g de carne moída",
+        "1 cebola grande picada",
+        "2 dentes de alho picados",
+        "1 tomate picado sem pele e sem sementes",
+        "1/2 xícara (chá) de azeitonas verdes picadas",
+        "1/4 xícara (chá) de cheiro-verde picado",
+        "Sal, pimenta-do-reino e cominho a gosto"
+      ]
+    },
+    {
+      "section": "Para empanar",
+      "items": [
+        "1 ovo batido",
+        "Farinha de rosca",
+        "Óleo para fritar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Cozinhe batatas, leite, manteiga, caldo e sal até formar um purê cremoso.",
+    "Adicione farinha de trigo aos poucos até a massa desgrudar do fundo.",
+    "Deixe esfriar.",
+    "Refogue cebola e alho, adicione a carne moída e deixe dourar.",
+    "Junte tomate, azeitonas, cheiro-verde e temperos.",
+    "Abra porções da massa, recheie e modele os croquetes.",
+    "Passe no ovo batido e na farinha de rosca.",
+    "Frite em óleo quente até dourar."
+  ],
+  "tips": [
+    "Use farinha panko ou fubá para variar a casquinha.",
+    "Mussarela, milho verde ou palmito podem entrar no recheio.",
+    "Sirva com molho de pimenta, ketchup ou mostarda."
+  ],
+  "servings": 20,
+  "servingsUnit": "unidades",
+  "prepMinutes": 40,
+  "cookMinutes": 25,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "batatas cozidas e amassadas"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de leite"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de manteiga"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cubo de caldo de galinha"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Farinha de trigo",
+          "note": "até dar o ponto"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "carne moída"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola grande picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "tomate picado sem pele e sem sementes"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de azeitonas verdes picadas"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "(chá) de cheiro-verde picado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino e cominho",
+          "note": "a gosto"
+        }
+      ]
+    },
+    {
+      "section": "Para empanar",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo batido"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Farinha de rosca"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Óleo",
+          "note": "para fritar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Cozinhe batatas, leite, manteiga, caldo e sal até formar um purê cremoso.",
+        "Adicione farinha de trigo aos poucos até a massa desgrudar do fundo.",
+        "Deixe esfriar.",
+        "Refogue cebola e alho, adicione a carne moída e deixe dourar.",
+        "Junte tomate, azeitonas, cheiro-verde e temperos.",
+        "Abra porções da massa, recheie e modele os croquetes.",
+        "Passe no ovo batido e na farinha de rosca.",
+        "Frite em óleo quente até dourar."
+      ]
+    }
+  ]
+}

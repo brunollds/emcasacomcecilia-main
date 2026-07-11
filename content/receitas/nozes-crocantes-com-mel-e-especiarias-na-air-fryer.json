@@ -1,0 +1,128 @@
+{
+  "id": 66,
+  "slug": "nozes-crocantes-com-mel-e-especiarias-na-air-fryer",
+  "title": "Nozes Crocantes com Mel e Especiarias na Air Fryer",
+  "description": "Snack gourmet de nozes com mel, gergelim e especiarias, tostado na air fryer.",
+  "intro": "Estas nozes crocantes são a definição de um petisco gourmet e equilibrado. Envoltas em uma camada delicada de mel que carameliza no calor da air fryer, e finalizadas com a complexidade aromática do cominho preto e do gergelim, elas entregam uma textura estaladiça e um sabor agridoce que eleva qualquer recepção ou prato do dia a dia.",
+  "context": "O ato de tostar oleaginosas é uma técnica ancestral para despertar seus óleos naturais e intensificar sabores. Aqui, a tecnologia da air fryer garante um controle preciso do dourado, transformando nozes simples em um acompanhamento versátil que transita entre o snack saudável e o ingrediente sofisticado para saladas e sobremesas, unindo nutrição e prazer sensorial.",
+  "categories": [
+    "Air Fryer",
+    "Saudáveis",
+    "Lanches",
+    "Petiscos"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Petiscos Quentes"
+  ],
+  "mealTime": [
+    "Happy Hour"
+  ],
+  "method": [
+    "Air Fryer"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "collections": [
+    "Receitas em 30 min"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "12 min",
+  "totalTime": "37 min",
+  "difficulty": "Fácil",
+  "yield": "1 pote pequeno",
+  "searchTerms": [
+    "nozes crocantes",
+    "mel",
+    "air fryer",
+    "snack saudável",
+    "gergelim",
+    "cominho preto"
+  ],
+  "tags": [
+    "nozescrocantes",
+    "receitaairfryer",
+    "snacksaudavel",
+    "petiscogourmet",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Nozes",
+      "items": [
+        "200 g de nozes inteiras",
+        "2 colheres (sopa) de mel",
+        "1 colher (sopa) de sementes de gergelim",
+        "1 colher (sopa) de cominho preto ou nigella",
+        "Água filtrada para hidratar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Hidrate as nozes em água fria por 20 minutos.",
+    "Escorra bem e seque com papel toalha ou pano limpo.",
+    "Misture as nozes com o mel até envolver todos os pedaços.",
+    "Adicione o gergelim e o cominho preto.",
+    "Pré-aqueça a air fryer a 180°C por 3 minutos.",
+    "Distribua as nozes em camada única no cesto.",
+    "Asse por 8 a 15 minutos, mexendo a cada 2 ou 3 minutos, até dourar.",
+    "Espere esfriar completamente para ficar crocante."
+  ],
+  "tips": [
+    "Monitore de perto, porque mel e nozes douram rápido.",
+    "Guarde em pote hermético depois de esfriar.",
+    "Use como petisco ou topping para saladas, iogurtes e pratos agridoces."
+  ],
+  "servings": 1,
+  "servingsUnit": "pote pequeno",
+  "prepMinutes": 25,
+  "cookMinutes": 12,
+  "structuredIngredients": [
+    {
+      "section": "Nozes",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "nozes inteiras"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres (sopa) de mel"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de sementes de gergelim"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de cominho preto ou nigella"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Água filtrada para hidratar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Hidrate as nozes em água fria por 20 minutos.",
+        "Escorra bem e seque com papel toalha ou pano limpo.",
+        "Misture as nozes com o mel até envolver todos os pedaços.",
+        "Adicione o gergelim e o cominho preto.",
+        "Pré-aqueça a air fryer a 180°C por 3 minutos.",
+        "Distribua as nozes em camada única no cesto.",
+        "Asse por 8 a 15 minutos, mexendo a cada 2 ou 3 minutos, até dourar.",
+        "Espere esfriar completamente para ficar crocante."
+      ]
+    }
+  ]
+}

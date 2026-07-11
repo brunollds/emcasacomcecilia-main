@@ -1,0 +1,128 @@
+{
+  "id": 146,
+  "slug": "torta-sorvete-de-doce-de-leite",
+  "title": "Torta Sorvete de Doce de Leite",
+  "description": "Torta gelada com base crocante de Bis, recheio de doce de leite com chantilly e ganache de chocolate.",
+  "intro": "A torta sorvete de doce de leite é uma arquitetura de prazer gelado que surpreende a cada camada. Com uma base crocante de biscoito Bis triturado e um recheio generoso que une the cremosidade do doce de leite ao chantilly leve, ela é finalizada com uma ganache brilhante, resultando em uma sobremesa de festa que é visualmente impactante e absolutamente irresistível.",
+  "context": "Esta receita é the prova de que the fusão de ingredientes amados pode resultar em uma sobremesa de alto nível gastronômico. A técnica de montar the torta em camadas e garantir o congelamento correto permite que as texturas — do crocante ao aveludado — se revelem de forma distinta, celebrando the criatividade brasileira em transformar clássicos em experiências geladas de puro luxo.",
+  "categories": [
+    "Sobremesas",
+    "Tortas",
+    "Sorvetes",
+    "Doces Gelados"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Gelados"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Verão",
+    "Para Congelar",
+    "Comfort Food"
+  ],
+  "prepTime": "30 min",
+  "cookTime": "0 min",
+  "totalTime": "6 h 30 min",
+  "difficulty": "Fácil",
+  "yield": "8 porções",
+  "searchTerms": [
+    "torta sorvete",
+    "doce de leite",
+    "Bis",
+    "ganache",
+    "sobremesa gelada"
+  ],
+  "tags": [
+    "tortasorvete",
+    "docedeleite",
+    "bis",
+    "sobremesa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Torta",
+      "items": [
+        "1 pacote de Bis",
+        "500 ml de creme de leite fresco ou chantilly pronto",
+        "400 g de doce de leite",
+        "200 g de chocolate meio amargo",
+        "100 ml de creme de leite para a ganache"
+      ]
+    }
+  ],
+  "instructions": [
+    "Triture o Bis até formar uma farofa grossa.",
+    "Forre o fundo de uma forma removível com a farofa, pressionando bem.",
+    "Bata o creme de leite fresco até ponto de chantilly.",
+    "Misture delicadamente o doce de leite ao chantilly.",
+    "Despeje sobre a base e leve ao freezer por pelo menos 4 horas.",
+    "Derreta o chocolate com creme de leite para formar uma ganache.",
+    "Espalhe a ganache sobre o recheio firme e leve ao freezer por mais 2 horas.",
+    "Desenforme com cuidado e sirva gelado."
+  ],
+  "tips": [
+    "Não precisa adicionar manteiga ao Bis triturado.",
+    "Doce de leite artesanal deixa o sabor mais marcante.",
+    "Morangos ou geleia equilibram a doçura."
+  ],
+  "servings": 8,
+  "servingsUnit": "porções",
+  "prepMinutes": 30,
+  "structuredIngredients": [
+    {
+      "section": "Torta",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "Bis"
+        },
+        {
+          "qty": 500,
+          "unit": "ml",
+          "name": "creme de leite fresco ou chantilly pronto"
+        },
+        {
+          "qty": 400,
+          "unit": "g",
+          "name": "doce de leite"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "chocolate meio amargo"
+        },
+        {
+          "qty": 100,
+          "unit": "ml",
+          "name": "creme de leite para a ganache"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Triture o Bis até formar uma farofa grossa.",
+        "Forre o fundo de uma forma removível com a farofa, pressionando bem.",
+        "Bata o creme de leite fresco até ponto de chantilly.",
+        "Misture delicadamente o doce de leite ao chantilly.",
+        "Despeje sobre a base e leve ao freezer por pelo menos 4 horas.",
+        "Derreta o chocolate com creme de leite para formar uma ganache.",
+        "Espalhe a ganache sobre o recheio firme e leve ao freezer por mais 2 horas.",
+        "Desenforme com cuidado e sirva gelado."
+      ]
+    }
+  ]
+}

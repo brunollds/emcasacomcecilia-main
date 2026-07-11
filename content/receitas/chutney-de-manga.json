@@ -1,0 +1,160 @@
+{
+  "id": 92,
+  "slug": "chutney-de-manga",
+  "title": "Chutney de Manga",
+  "description": "Molho indiano agridoce de manga com vinagre, açúcar mascavo e especiarias.",
+  "intro": "O chutney de manga é a magia do equilíbrio agridoce na culinária indiana. Com o brilho da manga madura elevado pelo vinagre e açúcar mascavo, este molho concentrado e perfumado com especiarias é o parceiro ideal para pratos picantes, trazendo um toque de frescor e sofisticação que ilumina qualquer banquete oriental.",
+  "context": "Tradicionalmente usado para limpar o paladar e equilibrar as intensas especiarias dos curries, o chutney é uma sabedoria milenar de conservação de sabores. Esta receita valoriza a textura da fruta, resultando em uma conserva luxuosa que transforma de petiscos simples a carnes elaboradas em experiências gastronômicas complexas e gourmet.",
+  "categories": [
+    "Indiana",
+    "Molhos",
+    "Acompanhamentos",
+    "Vegetariana"
+  ],
+  "primaryCategory": "Molho",
+  "subCategory": [
+    "Molhos Frios"
+  ],
+  "cuisine": [
+    "Indiana"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Vegana",
+    "Sem Lactose"
+  ],
+  "collections": [
+    "Preparar com Antecedência"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "totalTime": "30 min",
+  "difficulty": "Fácil",
+  "yield": "1 pote pequeno",
+  "searchTerms": [
+    "chutney de manga",
+    "molho agridoce",
+    "manga",
+    "comida indiana",
+    "especiarias"
+  ],
+  "tags": [
+    "chutneydemanga",
+    "manga",
+    "comidaindiana",
+    "molho",
+    "agridoce",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Chutney",
+      "items": [
+        "1 manga grande picada",
+        "1 cebola pequena picada",
+        "1 dente de alho picado",
+        "1 colher (sopa) de gengibre ralado",
+        "1/2 xícara de vinagre de maçã",
+        "1/4 xícara de açúcar mascavo",
+        "1 colher (chá) de cominho em pó",
+        "1 colher (chá) de coentro em pó",
+        "1/2 colher (chá) de cúrcuma",
+        "1/4 colher (chá) de pimenta em pó",
+        "Sal a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture todos os ingredientes em uma panela.",
+    "Leve ao fogo baixo.",
+    "Cozinhe por cerca de 20 minutos, mexendo ocasionalmente.",
+    "Quando a manga estiver macia e o molho engrossar, desligue.",
+    "Deixe esfriar antes de servir."
+  ],
+  "tips": [
+    "Para chutney mais picante, aumente a pimenta.",
+    "Vinagre branco pode substituir o vinagre de maçã.",
+    "Sirva com samosas, curry, frango tikka masala ou sanduíches."
+  ],
+  "servings": 1,
+  "servingsUnit": "pote pequeno",
+  "prepMinutes": 10,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Chutney",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "manga grande picada"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 1,
+          "unit": "dente",
+          "name": "alho picado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de gengibre ralado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "vinagre de maçã"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "açúcar mascavo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de cominho em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de coentro em pó"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "name": "colher (chá) de cúrcuma"
+        },
+        {
+          "qty": 0.25,
+          "unit": "",
+          "name": "colher (chá) de pimenta em pó"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture todos os ingredientes em uma panela.",
+        "Leve ao fogo baixo.",
+        "Cozinhe por cerca de 20 minutos, mexendo ocasionalmente.",
+        "Quando a manga estiver macia e o molho engrossar, desligue.",
+        "Deixe esfriar antes de servir."
+      ]
+    }
+  ]
+}

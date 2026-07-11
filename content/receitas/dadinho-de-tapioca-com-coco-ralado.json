@@ -1,0 +1,135 @@
+{
+  "id": 79,
+  "slug": "dadinho-de-tapioca-com-coco-ralado",
+  "title": "Dadinho de Tapioca com Coco Ralado",
+  "description": "Dadinho doce de tapioca granulada com leite de coco e coco ralado.",
+  "intro": "O dadinho de tapioca com coco é a celebração da brasilidade em cubos. Nesta versão doce, a textura granulada e elástica da tapioca se une à cremosidade do leite de coco e ao sabor tropical do coco ralado, resultando em um petisco delicado que derrete na boca e encanta pela simplicidade e frescor.",
+  "context": "Reinvenção de um petisco que virou febre na gastronomia brasileira contemporânea, esta variante doce destaca a versatilidade da mandioca (base da tapioca). É uma receita que transita entre o lanche da tarde e a sobremesa de festa, celebrando ingredientes nativos com uma técnica moderna de moldagem e resfriamento que preserva a integridade de cada ingrediente.",
+  "categories": [
+    "Brasileira",
+    "Doces",
+    "Petiscos",
+    "Sobremesas"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Petiscos Quentes"
+  ],
+  "mealTime": [
+    "Happy Hour"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fritura"
+  ],
+  "diet": [
+    "Vegetariana",
+    "Sem Glúten"
+  ],
+  "keyIngredients": [
+    "Queijo",
+    "Coco"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "5 min",
+  "totalTime": "2h 20 min",
+  "difficulty": "Fácil",
+  "yield": "20 dadinhos",
+  "searchTerms": [
+    "dadinho de tapioca",
+    "tapioca granulada",
+    "coco ralado",
+    "leite de coco",
+    "doce brasileiro"
+  ],
+  "tags": [
+    "dadinhodetapioca",
+    "cocoralado",
+    "docesbrasileiros",
+    "petisco",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 xícara de tapioca granulada",
+        "1 xícara de leite quente",
+        "1 vidro de leite de coco (200 ml)",
+        "1/2 xícara de açúcar",
+        "100 g de coco ralado",
+        "Coco ralado extra para finalizar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture a tapioca granulada, o açúcar e o coco ralado em uma tigela.",
+    "Aqueça o leite com o leite de coco.",
+    "Despeje os líquidos quentes sobre a tapioca e misture bem.",
+    "Transfira para uma forma pequena forrada com plástico filme.",
+    "Pressione para nivelar e leve à geladeira até firmar.",
+    "Corte em cubos e finalize com coco ralado."
+  ],
+  "tips": [
+    "Para uma versão mais cremosa, adicione leite condensado à mistura.",
+    "Sirva gelado ou doure rapidamente na frigideira antiaderente.",
+    "Fica ótimo com calda de leite condensado ou doce de leite."
+  ],
+  "servings": 20,
+  "servingsUnit": "dadinhos",
+  "prepMinutes": 15,
+  "cookMinutes": 5,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "tapioca granulada"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "leite quente"
+        },
+        {
+          "qty": 1,
+          "unit": "vidro",
+          "name": "leite de coco (200 ml)"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "coco ralado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Coco ralado extra",
+          "note": "para finalizar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture a tapioca granulada, o açúcar e o coco ralado em uma tigela.",
+        "Aqueça o leite com o leite de coco.",
+        "Despeje os líquidos quentes sobre a tapioca e misture bem.",
+        "Transfira para uma forma pequena forrada com plástico filme.",
+        "Pressione para nivelar e leve à geladeira até firmar.",
+        "Corte em cubos e finalize com coco ralado."
+      ]
+    }
+  ]
+}

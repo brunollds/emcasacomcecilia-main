@@ -1,0 +1,138 @@
+{
+  "id": 35,
+  "slug": "chips-de-batata-doce-na-air-fryer",
+  "title": "Chips de Batata Doce na Air Fryer",
+  "description": "Chips fininhos de batata-doce feitos na air fryer, crocantes e ideais para um petisco leve.",
+  "intro": "Crocantes, levemente adocicados e extremamente viciantes, estes chips de batata-doce são a alternativa saudável perfeita para o lanche da tarde ou como petisco de happy hour. Preparados na air fryer com o mínimo de óleo, eles mantêm a textura estaladiça que amamos, realçada por um toque de páprica e especiarias.",
+  "context": "A batata-doce é um superalimento versátil e querido em dietas equilibradas por seu baixo índice glicêmico e riqueza em nutrientes. Transformá-la em chips é uma técnica moderna de 'snacking consciente', unindo o prazer de uma textura crocante com os benefícios de um ingrediente natural e sem glúten.",
+  "image": "/images/recipes/air-fryer/chips-de-batata-doce-na-air-fryer.jpg",
+  "imageAlt": "Chips crocantes de batata-doce feitos na air fryer.",
+  "categories": [
+    "Air Fryer",
+    "Petiscos",
+    "Saudáveis",
+    "Vegano"
+  ],
+  "primaryCategory": "Acompanhamento",
+  "subCategory": [
+    "Batatas"
+  ],
+  "mealTime": [
+    "Happy Hour",
+    "Lanche da Tarde"
+  ],
+  "method": [
+    "Air Fryer"
+  ],
+  "diet": [
+    "Vegetariana",
+    "Vegana",
+    "Fit"
+  ],
+  "keyIngredients": [
+    "Batata"
+  ],
+  "collections": [
+    "Receitas em 30 min"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "totalTime": "30 min",
+  "difficulty": "Fácil",
+  "yield": "2 porções",
+  "isNew": true,
+  "searchTerms": [
+    "chips",
+    "batata doce",
+    "air fryer",
+    "petisco saudável",
+    "sem glúten",
+    "vegano",
+    "páprica"
+  ],
+  "tags": [
+    "chipsdebatatadoce",
+    "airfryer",
+    "petiscosaudavel",
+    "semgluten",
+    "vegano",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Chips",
+      "items": [
+        "1 batata doce média",
+        "Azeite de oliva extra virgem",
+        "Sal e pimenta-do-reino a gosto",
+        "Páprica doce ou picante a gosto",
+        "Canela em pó a gosto (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    "Lave bem a batata doce e corte em fatias finas, com cerca de 3 mm de espessura.",
+    "Seque bem as fatias com papel toalha.",
+    "Misture as fatias com azeite, sal, pimenta, páprica e canela, se for usar.",
+    "Coloque as fatias na cesta da Air Fryer em uma única camada, sem sobrepor.",
+    "Asse a 180°C por 15 a 20 minutos, virando na metade do tempo.",
+    "Retire quando estiverem douradas e crocantes."
+  ],
+  "tips": [
+    "Para mais crocância, deixe as fatias de molho em água gelada por 30 minutos antes de temperar.",
+    "Experimente alho em pó, cebola em pó, cominho ou curry.",
+    "Sirva com maionese caseira, guacamole, sour cream ou iogurte grego temperado."
+  ],
+  "servings": 2,
+  "servingsUnit": "porções",
+  "prepMinutes": 10,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Chips",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "batata doce média"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Azeite de oliva extra virgem"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Páprica doce ou picante",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Canela em pó  (opcional)",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Lave bem a batata doce e corte em fatias finas, com cerca de 3 mm de espessura.",
+        "Seque bem as fatias com papel toalha.",
+        "Misture as fatias com azeite, sal, pimenta, páprica e canela, se for usar.",
+        "Coloque as fatias na cesta da Air Fryer em uma única camada, sem sobrepor.",
+        "Asse a 180°C por 15 a 20 minutos, virando na metade do tempo.",
+        "Retire quando estiverem douradas e crocantes."
+      ]
+    }
+  ]
+}

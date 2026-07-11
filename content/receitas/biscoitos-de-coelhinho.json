@@ -1,0 +1,120 @@
+{
+  "id": 162,
+  "slug": "biscoitos-de-coelhinho",
+  "title": "Biscoitos de Coelhinho",
+  "description": "Biscoitos de aveia e mel sem glúten em formato de coelho, decorados com glacê vegetal.",
+  "intro": "Estes biscoitos de coelhinho são the pura expressão da doçura lúdica da Páscoa. Com uma massa saudável de aveia e mel, moldada em formatos encantadores e decorada com cuidado, eles oferecem um lanche nutritivo e divertido que encanta as crianças e traz um toque artesanal e carinhoso para the mesa festiva.",
+  "context": "Valorizando ingredientes que cuidam do bem-estar, esta receita é ideal para lancheiras e presentes caseiros. A técnica de moldagem manual celebra the tradição dos biscoitos festivos europeus adaptados para um paladar que busca menos açúcar refinado e mais sabor natural, provando que the magia da Páscoa reside nos pequenos detalhes feitos à mão.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Cookies",
+    "Sem Glúten"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Biscoitos & Cookies"
+  ],
+  "mealTime": [
+    "Lanche da Tarde"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "collections": [
+    "Páscoa",
+    "Para Crianças"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "15 min",
+  "totalTime": "35 min",
+  "difficulty": "Fácil",
+  "yield": "20 unidades",
+  "searchTerms": [
+    "biscoitos de coelhinho",
+    "biscoito sem glúten",
+    "aveia",
+    "mel",
+    "Páscoa infantil"
+  ],
+  "tags": [
+    "biscoitosdecoelho",
+    "pascoasemgluten",
+    "lanchessaudaveis",
+    "criancas",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Biscoitos",
+      "items": [
+        "2 xícaras de aveia em flocos sem glúten",
+        "1/2 xícara de mel",
+        "1 ovo",
+        "1/2 xícara de manteiga derretida ou óleo de coco",
+        "Glacê vegetal para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture aveia, mel, ovo e manteiga até formar uma massa homogênea.",
+    "Abra a massa e corte com cortadores de coelho ou ovo.",
+    "Asse a 180°C por cerca de 15 minutos.",
+    "Deixe esfriar completamente.",
+    "Decore com glacê vegetal."
+  ],
+  "tips": [
+    "Para versão vegana, substitua o ovo por chia hidratada.",
+    "Xarope de bordo ou açúcar de coco podem substituir o mel.",
+    "Guarde em pote hermético por até 1 semana."
+  ],
+  "servings": 20,
+  "servingsUnit": "unidades",
+  "prepMinutes": 20,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Biscoitos",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "aveia em flocos sem glúten"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "mel"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "manteiga derretida ou óleo de coco"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Glacê vegetal",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture aveia, mel, ovo e manteiga até formar uma massa homogênea.",
+        "Abra a massa e corte com cortadores de coelho ou ovo.",
+        "Asse a 180°C por cerca de 15 minutos.",
+        "Deixe esfriar completamente.",
+        "Decore com glacê vegetal."
+      ]
+    }
+  ]
+}

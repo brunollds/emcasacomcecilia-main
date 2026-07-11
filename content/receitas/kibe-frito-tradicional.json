@@ -1,0 +1,145 @@
+{
+  "id": 77,
+  "slug": "kibe-frito-tradicional",
+  "title": "Kibe Frito Tradicional",
+  "description": "Kibe frito de carne moída, trigo para quibe, hortelã e temperos árabes.",
+  "intro": "O kibe frito é a síntese da herança árabe integrada à paixão brasileira por petiscos. Com seu exterior escuro e crocante e um interior úmido que libera o frescor inconfundível da hortelã, cada mordida oferece um equilíbrio perfeito entre a textura rústica do trigo e a suculência da carne moída intensamente temperada.",
+  "context": "Trazido ao Brasil pelos imigrantes sírio-libaneses no final do século XIX, o kibe tornou-se um patrimônio afetivo da nossa gastronomia. Esta receita respeita o método tradicional de hidratação do trigo e o uso generoso de ervas frescas, provando que a simplicidade de poucos ingredientes, quando bem manipulados, resulta em um clássico atemporal que une culturas à mesa.",
+  "categories": [
+    "Árabe",
+    "Salgados",
+    "Carnes",
+    "Petiscos"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Salgados Fritos"
+  ],
+  "mealTime": [
+    "Happy Hour"
+  ],
+  "cuisine": [
+    "Árabe"
+  ],
+  "method": [
+    "Fritura"
+  ],
+  "keyIngredients": [
+    "Carne Moída"
+  ],
+  "collections": [
+    "Receita Clássica"
+  ],
+  "prepTime": "45 min",
+  "cookTime": "15 min",
+  "totalTime": "1h",
+  "difficulty": "Médio",
+  "yield": "18 unidades",
+  "searchTerms": [
+    "kibe",
+    "quibe",
+    "carne moída",
+    "trigo para quibe",
+    "comida árabe",
+    "hortelã"
+  ],
+  "tags": [
+    "kibe",
+    "carnemoida",
+    "comidaarabe",
+    "petisco",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "500 g de carne moída",
+        "1 cebola grande picada",
+        "1 maço de hortelã fresca picada",
+        "1 xícara de trigo para quibe",
+        "1/2 xícara de água fervente",
+        "Sal e pimenta-do-reino a gosto",
+        "Óleo para fritar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Lave o trigo para quibe e deixe de molho em água fria por 30 minutos.",
+    "Escorra bem e reserve.",
+    "Processe a carne com cebola e hortelã até formar uma pasta fina.",
+    "Misture a carne com o trigo escorrido, sal e pimenta.",
+    "Adicione água fervente aos poucos, amassando até ficar moldável.",
+    "Modele os kibes em formato de torpedo.",
+    "Frite em óleo quente até dourar.",
+    "Escorra em papel toalha e sirva quente."
+  ],
+  "tips": [
+    "Para kibe mais úmido, adicione um pouco mais de água fervente.",
+    "Pinhões, castanhas ou nozes podem entrar no recheio.",
+    "Sirva com coalhada seca, limão, tahine, homus ou babaganoush."
+  ],
+  "servings": 18,
+  "servingsUnit": "unidades",
+  "prepMinutes": 45,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "carne moída"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola grande picada"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "maço de hortelã fresca picada"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "trigo para quibe"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "água fervente"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Óleo",
+          "note": "para fritar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Lave o trigo para quibe e deixe de molho em água fria por 30 minutos.",
+        "Escorra bem e reserve.",
+        "Processe a carne com cebola e hortelã até formar uma pasta fina.",
+        "Misture a carne com o trigo escorrido, sal e pimenta.",
+        "Adicione água fervente aos poucos, amassando até ficar moldável.",
+        "Modele os kibes em formato de torpedo.",
+        "Frite em óleo quente até dourar.",
+        "Escorra em papel toalha e sirva quente."
+      ]
+    }
+  ]
+}

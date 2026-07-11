@@ -1,0 +1,162 @@
+{
+  "id": 176,
+  "slug": "donuts-de-chocolate-com-glace-de-framboesa",
+  "title": "Donuts de Chocolate com Glacê de Framboesa",
+  "description": "Donuts fofinhos de chocolate com glacê de framboesa e confeitos coloridos.",
+  "intro": "Estes donuts de chocolate trazem the alegria e the cor para the sua mesa de Páscoa. Com uma massa fofinha e escura que derrete na boca, contrastando com the acidez vibrante e the cor rosa natural do glacê de framboesa, eles são the escolha divertida e moderna para um brunch festivo ou um lanche especial com as crianças.",
+  "context": "Ícones da cultura pop e da panificação americana, os donuts ganham uma roupagem gourmet nesta receita. O segredo está no equilíbrio entre o cacau profundo da massa e o frescor frutado da cobertura, celebrando the criatividade na cozinha sazonal onde the apresentação colorida antecipa o prazer de cada mordida macia e açucarada.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Donuts",
+    "Chocolate"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Biscoitos & Cookies"
+  ],
+  "mealTime": [
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Americana"
+  ],
+  "method": [
+    "Fritura"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Comfort Food"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "15 min",
+  "totalTime": "40 min",
+  "difficulty": "Médio",
+  "yield": "12 unidades",
+  "searchTerms": [
+    "donuts de chocolate",
+    "glacê de framboesa",
+    "confeitos",
+    "Páscoa divertida"
+  ],
+  "tags": [
+    "donutsdechocolate",
+    "glacedeframboesa",
+    "pascoadivertida",
+    "receitacolorida",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa e glacê",
+      "items": [
+        "2 xícaras de farinha de trigo",
+        "1/2 xícara de cacau em pó",
+        "1/2 xícara de açúcar",
+        "2 ovos",
+        "1/2 xícara de leite",
+        "1/4 xícara de óleo",
+        "1 colher de chá de fermento em pó",
+        "1 pitada de sal",
+        "1 xícara de açúcar de confeiteiro",
+        "2 a 3 colheres de sopa de suco de framboesa",
+        "Confeitos coloridos para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture farinha, cacau, açúcar, fermento e sal.",
+    "Adicione ovos, leite e óleo até obter massa homogênea.",
+    "Modele os donuts com as mãos ou cortadores.",
+    "Frite em óleo quente até dourarem ou asse para uma versão mais leve.",
+    "Misture açúcar de confeiteiro e suco de framboesa até formar glacê.",
+    "Mergulhe os donuts no glacê e finalize com confeitos."
+  ],
+  "tips": [
+    "Assar os donuts deixa a receita mais leve.",
+    "Ajuste o suco de framboesa para controlar cor e acidez.",
+    "Morangos ou framboesas frescas deixam a apresentação mais bonita."
+  ],
+  "servings": 12,
+  "servingsUnit": "unidades",
+  "prepMinutes": 25,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Massa e glacê",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "cacau em pó"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "leite"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "óleo"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "fermento em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "pitada",
+          "name": "sal"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "açúcar de confeiteiro"
+        },
+        {
+          "qty": 2,
+          "unit": "col. sopa",
+          "name": "suco de framboesa"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Confeitos coloridos",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture farinha, cacau, açúcar, fermento e sal.",
+        "Adicione ovos, leite e óleo até obter massa homogênea.",
+        "Modele os donuts com as mãos ou cortadores.",
+        "Frite em óleo quente até dourarem ou asse para uma versão mais leve.",
+        "Misture açúcar de confeiteiro e suco de framboesa até formar glacê.",
+        "Mergulhe os donuts no glacê e finalize com confeitos."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": 125,
+  "slug": "quiche-sem-gluten-de-queijo-com-brocolis",
+  "title": "Quiche Sem Glúten de Queijo com Brócolis",
+  "description": "Quiche sem glúten com massa de farinha de arroz, amido de milho, fécula de batata, brócolis e queijos.",
+  "intro": "Esta quiche de queijo com brócolis prova que o sabor e a sofisticação não precisam de glúten para brilhar. Com uma massa inovadora e crocante feita à base de farinha de arroz e batata, ela sustenta um recheio cremoso e gratinado onde o brócolis al dente é a estrela, resultando em um prato inclusivo que encanta a todos pela leveza e textura impecável.",
+  "context": "Desenvolver massas sem glúten que mantenham a textura amanteigada é um desafio técnico vencido nesta receita. O uso da fécula de batata e do amido de milho garante o 'clac' característico da quiche, celebrando a culinária inclusiva que valoriza o frescor dos ingredientes naturais e o prazer de uma refeição segura e repleta de sabor para todos à mesa.",
+  "categories": [
+    "Quiches",
+    "Sem Glúten",
+    "Vegetariana",
+    "Salgados"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Tortas Salgadas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Brunch",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Francesa"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "diet": [
+    "Vegetariana",
+    "Sem Glúten"
+  ],
+  "keyIngredients": [
+    "Queijo"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "30 min",
+  "totalTime": "1 h 5 min",
+  "difficulty": "Médio",
+  "yield": "8 fatias",
+  "searchTerms": [
+    "quiche sem glúten",
+    "brócolis",
+    "queijo",
+    "farinha de arroz",
+    "fécula de batata"
+  ],
+  "tags": [
+    "quichesemgluten",
+    "brocolis",
+    "queijo",
+    "receitafacil",
+    "semgluten",
+    "saudavel",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa sem glúten",
+      "items": [
+        "1 xícara de farinha de arroz",
+        "1/2 xícara de amido de milho",
+        "1/2 xícara de fécula de batata",
+        "100 g de manteiga gelada em cubos",
+        "1 ovo",
+        "3 colheres de sopa de água gelada",
+        "1 colher de chá de sal"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "1 brócolis cozido no vapor e picado",
+        "1 cebola pequena picada",
+        "2 dentes de alho picados",
+        "1 colher de sopa de azeite",
+        "3 ovos",
+        "1 xícara de creme de leite fresco",
+        "1 xícara de queijo mussarela ralado",
+        "1/2 xícara de queijo parmesão ralado",
+        "Sal, pimenta-do-reino e noz-moscada a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture farinha de arroz, amido de milho, fécula de batata e sal.",
+    "Adicione a manteiga e misture até formar uma farofa grossa.",
+    "Junte o ovo e a água gelada aos poucos até formar uma massa homogênea.",
+    "Embrulhe e leve à geladeira por 30 minutos.",
+    "Refogue cebola e alho no azeite, adicione o brócolis e tempere.",
+    "Bata os ovos com creme de leite, sal, pimenta e noz-moscada.",
+    "Abra a massa, forre a forma, distribua o brócolis e cubra com o creme.",
+    "Polvilhe mussarela e parmesão.",
+    "Asse a 180°C por cerca de 30 minutos, até dourar e firmar."
+  ],
+  "tips": [
+    "Pré-asse a massa por 10 minutos para uma base mais crocante.",
+    "Espinafre, tomate ou abobrinha funcionam bem no recheio.",
+    "Sirva com salada verde para uma refeição leve."
+  ],
+  "servings": 8,
+  "servingsUnit": "fatias",
+  "prepMinutes": 35,
+  "cookMinutes": 30,
+  "structuredIngredients": [
+    {
+      "section": "Massa sem glúten",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "farinha de arroz"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "amido de milho"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "fécula de batata"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga gelada em cubos"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "colheres de sopa de água gelada"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de chá de sal"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "brócolis cozido no vapor e picado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de sopa de azeite"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "creme de leite fresco"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "queijo mussarela ralado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "queijo parmesão ralado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino e noz-moscada",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture farinha de arroz, amido de milho, fécula de batata e sal.",
+        "Adicione a manteiga e misture até formar uma farofa grossa.",
+        "Junte o ovo e a água gelada aos poucos até formar uma massa homogênea.",
+        "Embrulhe e leve à geladeira por 30 minutos.",
+        "Refogue cebola e alho no azeite, adicione o brócolis e tempere.",
+        "Bata os ovos com creme de leite, sal, pimenta e noz-moscada.",
+        "Abra a massa, forre a forma, distribua o brócolis e cubra com o creme.",
+        "Polvilhe mussarela e parmesão.",
+        "Asse a 180°C por cerca de 30 minutos, até dourar e firmar."
+      ]
+    }
+  ]
+}

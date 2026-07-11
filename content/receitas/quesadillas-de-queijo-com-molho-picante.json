@@ -1,0 +1,124 @@
+{
+  "id": 98,
+  "slug": "quesadillas-de-queijo-com-molho-picante",
+  "title": "Quesadillas de Queijo com Molho Picante",
+  "description": "Tortillas douradas recheadas com queijo derretido e servidas com molho picante.",
+  "intro": "A quesadilla é a prova de que poucos ingredientes, quando bem combinados, criam uma explosão de satisfação. Com sua tortilla dourada e estaladiça protegendo um coração generoso de queijo derretido, este petisco mexicano é a solução rápida e deliciosa para um lanche de última hora ou uma reunião descontraída com amigos.",
+  "context": "Literalmente traduzida como 'coisinha de queijo', a quesadilla é um pilar da comida de rua mexicana. Sua versatilidade permite que ela transite entre um snack minimalista e uma refeição robusta, dependendo dos recheios adicionados, mas é na versão clássica de queijo com molho picante que sua essência reconfortante e democrática mais brilha.",
+  "categories": [
+    "Mexicana",
+    "Lanches",
+    "Petiscos",
+    "Vegetariana"
+  ],
+  "primaryCategory": "Lanche",
+  "subCategory": [
+    "Wraps & Enrolados"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar",
+    "Happy Hour"
+  ],
+  "cuisine": [
+    "Mexicana"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "keyIngredients": [
+    "Queijo"
+  ],
+  "collections": [
+    "Receitas em 30 min"
+  ],
+  "prepTime": "5 min",
+  "cookTime": "10 min",
+  "totalTime": "15 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "searchTerms": [
+    "quesadilla",
+    "queijo",
+    "tortilla",
+    "molho picante",
+    "petisco mexicano",
+    "lanche rápido"
+  ],
+  "tags": [
+    "quesadillas",
+    "queijo",
+    "molhopicante",
+    "mexicana",
+    "lanche",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Quesadillas",
+      "items": [
+        "4 tortillas de milho ou trigo",
+        "200 g de queijo mussarela ralado",
+        "Molho picante a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Aqueça uma frigideira antiaderente em fogo médio.",
+    "Coloque uma tortilla na frigideira.",
+    "Espalhe queijo ralado sobre metade da tortilla.",
+    "Dobre ao meio e pressione levemente.",
+    "Doure por cerca de 2 minutos de cada lado.",
+    "Repita com as demais tortillas.",
+    "Corte em triângulos e sirva com molho picante."
+  ],
+  "tips": [
+    "Incremente com frango desfiado, carne moída, legumes ou guacamole.",
+    "Sirva com salsa mexicana, sour cream ou guacamole.",
+    "Tortillas caseiras deixam a receita mais especial."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 5,
+  "cookMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Quesadillas",
+      "items": [
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "tortillas de milho ou trigo"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "queijo mussarela ralado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Molho picante",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Aqueça uma frigideira antiaderente em fogo médio.",
+        "Coloque uma tortilla na frigideira.",
+        "Espalhe queijo ralado sobre metade da tortilla.",
+        "Dobre ao meio e pressione levemente.",
+        "Doure por cerca de 2 minutos de cada lado.",
+        "Repita com as demais tortillas.",
+        "Corte em triângulos e sirva com molho picante."
+      ]
+    }
+  ]
+}

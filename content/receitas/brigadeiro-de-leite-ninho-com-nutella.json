@@ -1,0 +1,124 @@
+{
+  "id": 43,
+  "slug": "brigadeiro-de-leite-ninho-com-nutella",
+  "title": "Brigadeiro de Leite Ninho com Nutella",
+  "description": "Brigadeiro gourmet de leite em pó com recheio cremoso de Nutella.",
+  "intro": "O brigadeiro de Leite Ninho com Nutella é a definição moderna de indulgência gourmet. A base suave e láctea do leite em pó cria o contraste ideal para o recheio surpreendente e cremoso de creme de avelã, resultando em um docinho que é, ao mesmo tempo, nostálgico e sofisticado.",
+  "context": "Essa receita representa o auge da 'revolução gourmet' dos brigadeiros no Brasil, onde a criatividade nacional elevou o docinho de festa a um novo patamar de sabor. Combinando dois ingredientes extremamente populares, ele se tornou um sucesso absoluto em eventos e uma prova da nossa constante capacidade de reinventar tradições.",
+  "categories": [
+    "Brasileira",
+    "Doces",
+    "Festas",
+    "Sobremesas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Docinhos"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "keyIngredients": [
+    "Leite Condensado",
+    "Chocolate"
+  ],
+  "collections": [
+    "Aniversário",
+    "Para Crianças"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "12 min",
+  "totalTime": "32 min",
+  "difficulty": "Médio",
+  "yield": "22 unidades",
+  "isNew": true,
+  "searchTerms": [
+    "brigadeiro gourmet",
+    "leite ninho",
+    "nutella",
+    "leite em pó",
+    "docinho de festa"
+  ],
+  "tags": [
+    "leiteninho",
+    "nutella",
+    "brigadeirogourmet",
+    "brasileiro",
+    "inovacao",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 lata de leite condensado",
+        "1 colher (sopa) de manteiga sem sal",
+        "4 colheres (sopa) de Leite Ninho",
+        "1/2 xícara (chá) de Nutella para o recheio",
+        "Leite em pó para enrolar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Em uma panela, misture o leite condensado, a manteiga e o Leite Ninho.",
+    "Cozinhe em fogo baixo, mexendo sempre, até desgrudar do fundo da panela.",
+    "Retire do fogo e deixe esfriar completamente.",
+    "Abra uma porção da massa na mão, coloque uma pequena porção de Nutella no centro e feche com cuidado.",
+    "Enrole as bolinhas e passe no leite em pó."
+  ],
+  "tips": [
+    "Use a Nutella gelada ou em saco de confeiteiro para facilitar o recheio.",
+    "Finalize com uma pequena pitanga de Nutella por cima do docinho pronto."
+  ],
+  "servings": 22,
+  "servingsUnit": "unidades",
+  "prepMinutes": 20,
+  "cookMinutes": 12,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de manteiga sem sal"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "colheres (sopa) de Leite Ninho"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de Nutella para o recheio"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Leite em pó para enrolar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Em uma panela, misture o leite condensado, a manteiga e o Leite Ninho.",
+        "Cozinhe em fogo baixo, mexendo sempre, até desgrudar do fundo da panela.",
+        "Retire do fogo e deixe esfriar completamente.",
+        "Abra uma porção da massa na mão, coloque uma pequena porção de Nutella no centro e feche com cuidado.",
+        "Enrole as bolinhas e passe no leite em pó."
+      ]
+    }
+  ]
+}

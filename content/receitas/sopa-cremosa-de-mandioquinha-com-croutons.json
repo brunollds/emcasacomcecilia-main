@@ -1,0 +1,149 @@
+{
+  "id": 119,
+  "slug": "sopa-cremosa-de-mandioquinha-com-croutons",
+  "title": "Sopa Cremosa de Mandioquinha com Croutons",
+  "description": "Sopa aconchegante de mandioquinha batida com creme de leite e finalizada com croutons crocantes.",
+  "intro": "Esta sopa de mandioquinha é o verdadeiro 'abraço na tigela' para os dias que pedem conforto e calor. Com o sabor adocicado e terroso característico da mandioquinha (batata baroa), elevado pela cremosidade do creme de leite e o contraste crocante dos croutons artesanais, ela oferece uma experiência aveludada que satisfaz o corpo e a alma.",
+  "context": "A mandioquinha é uma joia da culinária brasileira, valorizada por seu perfume inconfundível e riqueza de nutrientes. Nesta receita, a técnica de refogar bem os temperos antes do cozimento lento garante uma profundidade de sabor que brilha através do creme homogêneo, celebrando a simplicidade da horta em um prato que é puro aconchego e sofisticação caseira.",
+  "categories": [
+    "Sopas",
+    "Leves",
+    "Vegetariana",
+    "Jantar"
+  ],
+  "primaryCategory": "Sopa",
+  "subCategory": [
+    "Cremes"
+  ],
+  "mealTime": [
+    "Jantar"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "collections": [
+    "Inverno",
+    "Comfort Food"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "30 min",
+  "totalTime": "45 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "searchTerms": [
+    "sopa de mandioquinha",
+    "mandioquinha cremosa",
+    "croutons",
+    "creme de leite",
+    "sopa cremosa"
+  ],
+  "tags": [
+    "sopacremosa",
+    "mandioquinha",
+    "croutons",
+    "receitafacil",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Sopa",
+      "items": [
+        "1 kg de mandioquinha descascada e picada",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "1 litro de água",
+        "1 caixinha de creme de leite",
+        "Sal e pimenta-do-reino a gosto",
+        "Azeite de oliva extra virgem",
+        "Croutons para finalizar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Refogue a cebola e o alho no azeite até dourarem.",
+    "Adicione a mandioquinha e refogue por alguns minutos.",
+    "Cubra com água e cozinhe até a mandioquinha ficar macia.",
+    "Tempere com sal e pimenta.",
+    "Bata a sopa no liquidificador até obter um creme homogêneo.",
+    "Volte o creme para a panela e misture o creme de leite.",
+    "Sirva quente com croutons por cima."
+  ],
+  "tips": [
+    "Caldo de legumes no lugar da água intensifica o sabor.",
+    "Batata ou cenoura ajudam a deixar a sopa mais encorpada.",
+    "Finalize com parmesão, bacon ou cebolinha para variar."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "cookMinutes": 30,
+  "structuredIngredients": [
+    {
+      "section": "Sopa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "kg de mandioquinha descascada e picada"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "l",
+          "name": "água"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "caixinha de creme de leite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Azeite de oliva extra virgem"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Croutons",
+          "note": "para finalizar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Refogue a cebola e o alho no azeite até dourarem.",
+        "Adicione a mandioquinha e refogue por alguns minutos.",
+        "Cubra com água e cozinhe até a mandioquinha ficar macia.",
+        "Tempere com sal e pimenta.",
+        "Bata a sopa no liquidificador até obter um creme homogêneo.",
+        "Volte o creme para a panela e misture o creme de leite.",
+        "Sirva quente com croutons por cima."
+      ]
+    }
+  ]
+}

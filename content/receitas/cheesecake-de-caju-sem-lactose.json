@@ -1,0 +1,134 @@
+{
+  "id": 163,
+  "slug": "cheesecake-de-caju-sem-lactose",
+  "title": "Cheesecake de Caju sem Lactose",
+  "description": "Cheesecake sem lactose com base de castanhas e tâmaras, recheio cremoso de caju e cobertura de frutas vermelhas.",
+  "intro": "Este cheesecake de caju é uma joia da culinária funcional, unindo the cremosidade surpreendente das castanhas ao frescor vibrante das frutas vermelhas. Com uma base rústica de tâmaras e castanhas, ele oferece uma experiênsia densa e rica que é totalmente livre de lácteos, sendo the escolha perfeita para uma sobremesa de prestígio e bem-estar.",
+  "context": "Utilizando the técnica de hidratação e emulsão de oleaginosas, este cheesecake celebra the biodiversidade brasileira. É uma receita que honra the horta e the terra, transformando ingredientes crus em uma sobremesa de textura impecável e visual deslumbrante, ideal para quem busca luxo e saúde em uma só garfada.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Sem Lactose",
+    "Sobremesas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Cheesecakes"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "diet": [
+    "Sem Lactose",
+    "Vegana"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "0 min",
+  "totalTime": "4 h 25 min",
+  "difficulty": "Fácil",
+  "yield": "8 fatias",
+  "searchTerms": [
+    "cheesecake de caju",
+    "sem lactose",
+    "castanhas",
+    "tâmaras",
+    "frutas vermelhas"
+  ],
+  "tags": [
+    "cheesecakedecaju",
+    "semlactose",
+    "pascoasaudavel",
+    "sobremesafit",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Base e recheio",
+      "items": [
+        "1 xícara de castanhas trituradas",
+        "1/2 xícara de tâmaras sem caroço",
+        "2 xícaras de caju hidratado",
+        "1/2 xícara de xarope de agave",
+        "Suco de 1 limão",
+        "Geleia de frutas vermelhas",
+        "Morangos frescos para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Triture castanhas e tâmaras para formar a base.",
+    "Pressione a base em uma forma de fundo removível.",
+    "Bata caju hidratado, agave e limão até ficar cremoso.",
+    "Despeje sobre a base.",
+    "Leve ao freezer por 4 horas.",
+    "Finalize com geleia e morangos antes de servir."
+  ],
+  "tips": [
+    "Castanha-do-pará pode substituir o caju.",
+    "Raspas de chocolate 70% deixam o visual mais festivo.",
+    "Use forma de aro removível para facilitar o corte."
+  ],
+  "servings": 8,
+  "servingsUnit": "fatias",
+  "prepMinutes": 25,
+  "structuredIngredients": [
+    {
+      "section": "Base e recheio",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "castanhas trituradas"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "tâmaras sem caroço"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "caju hidratado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "xarope de agave"
+        },
+        {
+          "qty": 1,
+          "unit": "un.",
+          "name": "limão",
+          "note": "suco"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Geleia de frutas vermelhas"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Morangos frescos",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Triture castanhas e tâmaras para formar a base.",
+        "Pressione a base em uma forma de fundo removível.",
+        "Bata caju hidratado, agave e limão até ficar cremoso.",
+        "Despeje sobre a base.",
+        "Leve ao freezer por 4 horas.",
+        "Finalize com geleia e morangos antes de servir."
+      ]
+    }
+  ]
+}

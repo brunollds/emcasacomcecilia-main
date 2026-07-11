@@ -1,0 +1,135 @@
+{
+  "id": 62,
+  "slug": "manjar-de-coco-com-calda-de-ameixa",
+  "title": "Manjar de Coco com Calda de Ameixa",
+  "description": "Sobremesa brasileira clássica, cremosa e gelada, servida com ameixas em calda.",
+  "intro": "O manjar de coco com calda de ameixa é a síntese da elegância simples na sobremesa brasileira. Com sua brancura impecável e textura sedosa que derrete na boca, ele oferece um contraste clássico entre a doçura tropical do coco e o toque profundo e levemente ácido da calda de ameixa, sendo o encerramento perfeito para um almoço festivo.",
+  "context": "Com origens que remontam a preparos medievais adaptados pela colonização portuguesa, o manjar tornou-se um ícone da nossa mesa. Esta receita valoriza a técnica do cozimento lento que garante a cremosidade sem ser pesada, celebrando o coco como ingrediente central da nossa identidade gastronômica.",
+  "categories": [
+    "Brasileira",
+    "Doces",
+    "Sobremesas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pudins & Cremes"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "keyIngredients": [
+    "Coco",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Natal",
+    "Festas de Fim de Ano",
+    "Receita Clássica",
+    "Receita de Vó"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "15 min",
+  "totalTime": "4h 30 min",
+  "difficulty": "Fácil",
+  "yield": "8 porções",
+  "isPopular": true,
+  "searchTerms": [
+    "manjar de coco",
+    "calda de ameixa",
+    "leite de coco",
+    "amido de milho",
+    "sobremesa gelada"
+  ],
+  "tags": [
+    "manjardecoco",
+    "caldadeameixa",
+    "sobremesa",
+    "brasileiro",
+    "docetradicional",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Manjar",
+      "items": [
+        "1 litro de leite integral",
+        "1 vidro de leite de coco (200 ml)",
+        "1 xícara (chá) de açúcar",
+        "1/2 xícara (chá) de amido de milho",
+        "1 pacote de coco ralado (100 g)",
+        "Ameixas em calda para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Em uma panela, misture o leite, o leite de coco, o açúcar e o amido de milho.",
+    "Leve ao fogo baixo, mexendo sempre, até engrossar.",
+    "Adicione o coco ralado e misture bem.",
+    "Despeje em uma forma levemente untada com óleo.",
+    "Leve à geladeira por pelo menos 4 horas.",
+    "Desenforme e decore com ameixas em calda."
+  ],
+  "tips": [
+    "Para um manjar mais firme, aumente um pouco o amido de milho.",
+    "Leite de coco caseiro deixa o sabor mais intenso.",
+    "Também combina com pêssego ou figo em calda."
+  ],
+  "servings": 8,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Manjar",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "l",
+          "name": "leite integral"
+        },
+        {
+          "qty": 1,
+          "unit": "vidro",
+          "name": "leite de coco (200 ml)"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de açúcar"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de amido de milho"
+        },
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "coco ralado (100 g)"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Ameixas em calda",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Em uma panela, misture o leite, o leite de coco, o açúcar e o amido de milho.",
+        "Leve ao fogo baixo, mexendo sempre, até engrossar.",
+        "Adicione o coco ralado e misture bem.",
+        "Despeje em uma forma levemente untada com óleo.",
+        "Leve à geladeira por pelo menos 4 horas.",
+        "Desenforme e decore com ameixas em calda."
+      ]
+    }
+  ]
+}

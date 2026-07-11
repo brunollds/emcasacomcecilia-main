@@ -1,0 +1,128 @@
+{
+  "id": 215,
+  "slug": "copo-da-felicidade-raffaello",
+  "title": "Copo da Felicidade Raffaello",
+  "description": "Sobremesa em camadas com creme de chocolate branco, coco, amêndoas e bombons Raffaello.",
+  "intro": "O copo da felicidade Raffaello é the delicadeza tropical servida em camadas de puro luxo. Com the suavidade do chocolate branco e do coco ralado unida ao crocante das amêndoas e ao requinte do bombom Raffaello, esta sobremesa é the escolha definitiva para quem busca um doce de elite, equilibrado e visualmente deslumbrante que derrete na boca.",
+  "context": "Encerrando the lista com chave de ouro, esta receita celebra the combinação clássica e sofisticada do coco com as amêndoas. A montagem em camadas valoriza the transparência das taças e the qualidade superior dos ingredientes, provando que the confeitaria moderna pode ser ao mesmo tempo exótica, elegante e absolutamente inesquecível em cada detalhe de sabor e textura.",
+  "categories": [
+    "Sobremesas",
+    "Copos da Felicidade",
+    "Chocolate Branco",
+    "Doces"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pudins & Cremes"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Coco"
+  ],
+  "collections": [
+    "Para Dois"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "0 min",
+  "totalTime": "2 h 20 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "searchTerms": [
+    "copo da felicidade Raffaello",
+    "chocolate branco",
+    "coco",
+    "amêndoas",
+    "bombom Raffaello"
+  ],
+  "tags": [
+    "copodafelicidade",
+    "raffaello",
+    "chocolatebranco",
+    "coco",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Creme e montagem",
+      "items": [
+        "200 g de chocolate branco picado",
+        "1 lata de leite condensado",
+        "1 lata de creme de leite",
+        "1 xícara de coco ralado",
+        "1/2 xícara de amêndoas laminadas",
+        "10 bombons Raffaello"
+      ]
+    }
+  ],
+  "instructions": [
+    "Derreta o chocolate branco em banho-maria ou no micro-ondas.",
+    "Misture o chocolate derretido com leite condensado e creme de leite até obter creme homogêneo.",
+    "Adicione coco ralado e amêndoas laminadas ao creme.",
+    "Em copos ou taças, intercale camadas de creme com bombons Raffaello picados.",
+    "Leve à geladeira por pelo menos 2 horas antes de servir.",
+    "Finalize com bombons inteiros, coco ou raspas de chocolate branco."
+  ],
+  "tips": [
+    "Raspas de limão ou laranja equilibram a doçura do chocolate branco.",
+    "Nozes ou castanhas podem substituir as amêndoas.",
+    "Morangos frescos deixam a montagem mais leve e colorida."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Creme e montagem",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "chocolate branco picado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "coco ralado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "amêndoas laminadas"
+        },
+        {
+          "qty": 10,
+          "unit": "",
+          "name": "bombons Raffaello"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Derreta o chocolate branco em banho-maria ou no micro-ondas.",
+        "Misture o chocolate derretido com leite condensado e creme de leite até obter creme homogêneo.",
+        "Adicione coco ralado e amêndoas laminadas ao creme.",
+        "Em copos ou taças, intercale camadas de creme com bombons Raffaello picados.",
+        "Leve à geladeira por pelo menos 2 horas antes de servir.",
+        "Finalize com bombons inteiros, coco ou raspas de chocolate branco."
+      ]
+    }
+  ]
+}

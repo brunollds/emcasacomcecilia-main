@@ -1,0 +1,123 @@
+{
+  "id": 61,
+  "slug": "gelatina-de-vinho-com-frutas-frescas",
+  "title": "Gelatina de Vinho com Frutas Frescas",
+  "description": "Sobremesa adulta, leve e elegante com vinho branco ou espumante e frutas frescas.",
+  "intro": "A gelatina de vinho com frutas frescas é a sobremesa adulta definitiva: leve, sofisticada e visualmente deslumbrante. Utilizando vinho branco ou espumante como base, ela oferece um equilíbrio perfeito entre a acidez frutada e a doçura suave, criando taças refrescantes que são o encerramento ideal para jantares elegantes.",
+  "context": "Esta receita eleva a simples gelatina a um patamar de alta gastronomia, inspirando-se nas terrines de frutas europeias. É a escolha perfeita para quem busca uma sobremesa que impressione pelo frescor e pela transparência vítrea, onde as cores naturais das frutas frescas brilham em uma apresentação minimalista e chic.",
+  "categories": [
+    "Doces",
+    "Sobremesas",
+    "Festas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pudins & Cremes"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Morango"
+  ],
+  "collections": [
+    "Para Dois"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "5 min",
+  "totalTime": "4h 20 min",
+  "difficulty": "Fácil",
+  "yield": "6 taças",
+  "isNew": true,
+  "searchTerms": [
+    "gelatina de vinho",
+    "espumante",
+    "frutas frescas",
+    "morango",
+    "kiwi",
+    "uva"
+  ],
+  "tags": [
+    "gelatinadevinho",
+    "vinho",
+    "frutasfrescas",
+    "sobremesarefrescante",
+    "docesfinos",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Gelatina",
+      "items": [
+        "2 xícaras de vinho branco ou espumante",
+        "1 xícara de água",
+        "1 envelope de gelatina sem sabor",
+        "1/2 xícara de açúcar",
+        "Frutas frescas a gosto, como morango, kiwi e uva"
+      ]
+    }
+  ],
+  "instructions": [
+    "Dissolva a gelatina sem sabor na água conforme as instruções da embalagem.",
+    "Aqueça o vinho com o açúcar apenas até dissolver completamente.",
+    "Desligue o fogo e incorpore a gelatina dissolvida.",
+    "Distribua em taças individuais.",
+    "Leve à geladeira por pelo menos 4 horas.",
+    "Antes de servir, decore com frutas frescas."
+  ],
+  "tips": [
+    "Use vinho rosé ou espumante para variar a cor e o sabor.",
+    "Folhas de hortelã ou raspas de limão siciliano deixam a apresentação mais fresca.",
+    "Também pode ser montada em uma travessa grande para servir em família."
+  ],
+  "servings": 6,
+  "servingsUnit": "taças",
+  "prepMinutes": 15,
+  "cookMinutes": 5,
+  "structuredIngredients": [
+    {
+      "section": "Gelatina",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "vinho branco ou espumante"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "água"
+        },
+        {
+          "qty": 1,
+          "unit": "envelope",
+          "name": "gelatina sem sabor"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Frutas frescas , como morango, kiwi e uva",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Dissolva a gelatina sem sabor na água conforme as instruções da embalagem.",
+        "Aqueça o vinho com o açúcar apenas até dissolver completamente.",
+        "Desligue o fogo e incorpore a gelatina dissolvida.",
+        "Distribua em taças individuais.",
+        "Leve à geladeira por pelo menos 4 horas.",
+        "Antes de servir, decore com frutas frescas."
+      ]
+    }
+  ]
+}

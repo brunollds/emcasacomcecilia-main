@@ -1,0 +1,119 @@
+{
+  "id": 210,
+  "slug": "cenourinhas-de-marshmallow",
+  "title": "Cenourinhas de Marshmallow",
+  "description": "Marshmallows cobertos com pasta americana laranja e folhas de chocolate verde para a Páscoa.",
+  "intro": "As cenourinhas de marshmallow são the diversão em forma de docinho, unindo the leveza da nuvem de açúcar à cor vibrante da pasta americana. Com um design criativo que remete ao símbolo clássico da Páscoa, estes mimos são perfeitos para decorar mesas infantis ou presentear, trazendo um sorriso e um sabor lúdico para the celebração.",
+  "context": "Transformar ingredientes prontos através da modelagem é uma lição de criatividade prática na cozinha. Esta receita valoriza o uso de elementos visuais para criar uma experiênsia temática envolvente, provando que the confeitaria de Páscoa pode ser simples, divertida e extremamente charmosa, celebrando the infância com toques de design comestível.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Doces",
+    "Infantil"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Docinhos"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "collections": [
+    "Páscoa",
+    "Para Crianças"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "5 min",
+  "totalTime": "30 min",
+  "difficulty": "Fácil",
+  "yield": "20 unidades",
+  "searchTerms": [
+    "cenourinhas de marshmallow",
+    "Páscoa infantil",
+    "pasta americana",
+    "docinho criativo"
+  ],
+  "tags": [
+    "cenourinhasdemarshmallow",
+    "pascoadivertida",
+    "marshmallow",
+    "doceludico",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Docinhos",
+      "items": [
+        "1 pacote de marshmallows grandes",
+        "Pasta americana laranja",
+        "Chocolate branco derretido",
+        "Corante alimentício verde",
+        "Forminhas de papel para docinhos"
+      ]
+    }
+  ],
+  "instructions": [
+    "Abra a pasta americana laranja em camada fina.",
+    "Corte retângulos grandes o suficiente para envolver os marshmallows.",
+    "Enrole cada marshmallow na pasta americana, moldando como cenoura.",
+    "Derreta o chocolate branco e tinja com corante verde.",
+    "Com saco de confeitar, faça folhas verdes no topo de cada cenourinha.",
+    "Deixe secar por alguns minutos.",
+    "Coloque em forminhas de papel antes de servir."
+  ],
+  "tips": [
+    "Marshmallows coloridos ou recheados deixam a receita mais divertida.",
+    "Glacê real colorido pode substituir a pasta americana.",
+    "Use como enfeite em bolos ou cupcakes de Páscoa."
+  ],
+  "servings": 20,
+  "servingsUnit": "unidades",
+  "prepMinutes": 25,
+  "cookMinutes": 5,
+  "structuredIngredients": [
+    {
+      "section": "Docinhos",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "marshmallows grandes"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Pasta americana laranja"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Chocolate branco derretido"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Corante alimentício verde"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Forminhas de papel para docinhos"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Abra a pasta americana laranja em camada fina.",
+        "Corte retângulos grandes o suficiente para envolver os marshmallows.",
+        "Enrole cada marshmallow na pasta americana, moldando como cenoura.",
+        "Derreta o chocolate branco e tinja com corante verde.",
+        "Com saco de confeitar, faça folhas verdes no topo de cada cenourinha.",
+        "Deixe secar por alguns minutos.",
+        "Coloque em forminhas de papel antes de servir."
+      ]
+    }
+  ]
+}

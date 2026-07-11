@@ -1,0 +1,119 @@
+{
+  "id": 137,
+  "slug": "pudim-de-leite-condensado-tradicional",
+  "title": "Pudim de Leite Condensado Tradicional",
+  "description": "Pudim clássico brasileiro com leite condensado, leite, ovos e calda de caramelo.",
+  "intro": "O pudim de leite condensado é the joia da coroa das sobremesas brasileiras e o sinônimo absoluto de aconchego familiar. Com sua textura imbatível, lisa e sedosa, e the clássica calda de caramelo brilhante que envolve cada fatia, ele é o doce que atravessa gerações, sendo the presença obrigatória e amada em qualquer mesa de domingo.",
+  "context": "Evolução dos antigos pudins de pão e leite europeus, the versão brasileira com leite condensado tornou-se um fenômeno cultural e gastronômico. O segredo do 'pudim perfeito' — com ou sem furinhos, dependendo da preferência — reside no controle do fogo e no banho-maria delicado, celebrando the técnica que transforma ingredientes básicos em um símbolo de hospitalidade e alma nacional.",
+  "image": "/images/recipes/pudins/pudim-de-leite-condensado-tradicional.jpg",
+  "imageAlt": "Pudim de leite condensado tradicional com calda de caramelo.",
+  "categories": [
+    "Sobremesas",
+    "Pudins",
+    "Clássicas",
+    "Festas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pudins & Cremes"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Leite Condensado",
+    "Ovos"
+  ],
+  "collections": [
+    "Receita Clássica",
+    "Receita de Vó"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "1 h 30 min",
+  "totalTime": "1 h 45 min",
+  "difficulty": "Fácil",
+  "yield": "10 porções",
+  "searchTerms": [
+    "pudim de leite condensado",
+    "pudim tradicional",
+    "caramelo",
+    "sobremesa brasileira"
+  ],
+  "tags": [
+    "pudimdeleitecondensado",
+    "leitecondensado",
+    "pudim",
+    "sobremesa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Pudim",
+      "items": [
+        "1 lata de leite condensado",
+        "2 latas de leite",
+        "3 ovos",
+        "Açúcar para caramelizar a forma"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bata leite condensado, leite e ovos no liquidificador até obter um creme homogêneo.",
+    "Caramelize uma forma de pudim com açúcar.",
+    "Despeje o creme na forma caramelizada.",
+    "Asse em banho-maria por cerca de 1 hora e 30 minutos, até firmar.",
+    "Deixe esfriar completamente antes de desenformar."
+  ],
+  "tips": [
+    "Amido de milho deixa o pudim mais firme.",
+    "Evite abrir o forno durante o cozimento para não rachar.",
+    "Desenforme com cuidado depois de frio."
+  ],
+  "servings": 10,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "cookMinutes": 60,
+  "structuredIngredients": [
+    {
+      "section": "Pudim",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 2,
+          "unit": "lata",
+          "name": "leite"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Açúcar",
+          "note": "para caramelizar a forma"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Bata leite condensado, leite e ovos no liquidificador até obter um creme homogêneo.",
+        "Caramelize uma forma de pudim com açúcar.",
+        "Despeje o creme na forma caramelizada.",
+        "Asse em banho-maria por cerca de 1 hora e 30 minutos, até firmar.",
+        "Deixe esfriar completamente antes de desenformar."
+      ]
+    }
+  ]
+}

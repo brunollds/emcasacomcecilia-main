@@ -1,0 +1,173 @@
+{
+  "id": 196,
+  "slug": "torta-de-banana-com-doce-de-leite-e-merengue",
+  "title": "Torta de Banana com Doce de Leite e Merengue",
+  "description": "Torta com massa caseira, banana, doce de leite e cobertura de merengue dourado.",
+  "intro": "A torta de banana com doce de leite e merengue é the síntese do prazer reconfortante e da alma brasileira. Com camadas generosas de doce de leite cremoso e bananas fatiadas sobre uma massa artesanal, ela é finalizada com um merengue dourado e fofinho, criando uma experiênsia de texturas que aquece o coração e agrada a todos os paladares.",
+  "context": "Inspirada na clássica 'Banoffee' inglesa mas adaptada para the paixão nacional pelo doce de leite, esta receita destaca-se pela simplicidade e intensidade dos sabores. O segredo reside na qualidade do doce de leite e no ponto do merengue, celebrando the cozinha afetiva que transforma ingredientes do cotidiano em uma sobremesa festiva de prestígio inquestionável.",
+  "categories": [
+    "Sobremesas",
+    "Tortas",
+    "Banana",
+    "Doces"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Tortas Doces"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Banana",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Comfort Food"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "40 min",
+  "totalTime": "1 h 15 min",
+  "difficulty": "Médio",
+  "yield": "10 fatias",
+  "searchTerms": [
+    "torta de banana",
+    "doce de leite",
+    "merengue",
+    "sobremesa brasileira"
+  ],
+  "tags": [
+    "tortadebanana",
+    "docedeleite",
+    "merengue",
+    "sobremesabrasileira",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "2 xícaras de farinha de trigo",
+        "1 colher de chá de fermento em pó",
+        "1 pitada de sal",
+        "1 xícara de açúcar",
+        "100 g de manteiga gelada em cubos",
+        "2 ovos",
+        "1/2 xícara de leite"
+      ]
+    },
+    {
+      "section": "Recheio e merengue",
+      "items": [
+        "4 bananas nanicas maduras em rodelas",
+        "1 lata de doce de leite",
+        "3 claras em neve",
+        "6 colheres de sopa de açúcar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture farinha, fermento, sal, açúcar e manteiga até formar farofa.",
+    "Adicione ovos e leite até formar massa homogênea.",
+    "Asse a massa em forma untada a 180°C por cerca de 30 minutos.",
+    "Espalhe doce de leite sobre a massa assada e fria.",
+    "Cubra com rodelas de banana.",
+    "Bata claras em neve e adicione açúcar aos poucos até formar merengue firme.",
+    "Cubra a torta com o merengue.",
+    "Leve ao forno a 180°C por cerca de 10 minutos, até dourar levemente."
+  ],
+  "tips": [
+    "Banana prata ou caturra também funcionam bem.",
+    "Canela em pó no recheio reforça o sabor da banana.",
+    "Doure o merengue só no final para não ressecar."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 35,
+  "cookMinutes": 40,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "fermento em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "pitada",
+          "name": "sal"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga gelada em cubos"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "leite"
+        }
+      ]
+    },
+    {
+      "section": "Recheio e merengue",
+      "items": [
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "bananas nanicas maduras em rodelas"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "doce de leite"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "claras em neve"
+        },
+        {
+          "qty": 6,
+          "unit": "col. sopa",
+          "name": "açúcar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture farinha, fermento, sal, açúcar e manteiga até formar farofa.",
+        "Adicione ovos e leite até formar massa homogênea.",
+        "Asse a massa em forma untada a 180°C por cerca de 30 minutos.",
+        "Espalhe doce de leite sobre a massa assada e fria.",
+        "Cubra com rodelas de banana.",
+        "Bata claras em neve e adicione açúcar aos poucos até formar merengue firme.",
+        "Cubra a torta com o merengue.",
+        "Leve ao forno a 180°C por cerca de 10 minutos, até dourar levemente."
+      ]
+    }
+  ]
+}

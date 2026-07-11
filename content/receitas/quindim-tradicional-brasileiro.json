@@ -1,0 +1,122 @@
+{
+  "id": 187,
+  "slug": "quindim-tradicional-brasileiro",
+  "title": "Quindim Tradicional Brasileiro",
+  "description": "Doce clássico brasileiro com gemas, açúcar e coco ralado, assado em banho-maria.",
+  "intro": "O quindim é the joia dourada e brilhante da doçaria brasileira, celebrando the união entre the herança portuguesa e o perfume tropical do coco. Com sua textura sedosa que derrete na boca e the cor vibrante das gemas, ele oferece uma doçura equilibrada e um visual de vitrine de confeitaria que encanta em qualquer celebração.",
+  "context": "Herança da doçaria conventual, o quindim substituiu as amêndoas europeias pelo coco fresco no Brasil colonial. O segredo do seu brilho inconfundível reside no tempo de descanso da massa e no banho-maria delicado, honrando uma tradição secular que transformou ingredientes simples em um símbolo de hospitalidade e alma nacional.",
+  "categories": [
+    "Doces",
+    "Sobremesas",
+    "Brasileira",
+    "Coco"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pudins & Cremes"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Coco",
+    "Ovos"
+  ],
+  "collections": [
+    "Receita Clássica",
+    "Receita de Vó"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "40 min",
+  "totalTime": "55 min",
+  "difficulty": "Médio",
+  "yield": "12 unidades",
+  "searchTerms": [
+    "quindim",
+    "doce brasileiro",
+    "coco ralado",
+    "gemas",
+    "banho-maria"
+  ],
+  "tags": [
+    "quindim",
+    "sobremesa",
+    "receitafacil",
+    "cozinhapratica",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "12 gemas",
+        "1 xícara de açúcar",
+        "100 g de coco ralado",
+        "Manteiga e açúcar para untar as forminhas"
+      ]
+    }
+  ],
+  "instructions": [
+    "Pré-aqueça o forno a 180°C.",
+    "Unte bem as forminhas com manteiga e açúcar.",
+    "Misture as gemas com o açúcar até obter creme claro.",
+    "Adicione o coco ralado e misture bem.",
+    "Preencha as forminhas até 3/4 da capacidade.",
+    "Asse em banho-maria por cerca de 40 minutos, até dourar.",
+    "Deixe esfriar e desenforme com cuidado."
+  ],
+  "tips": [
+    "Use gemas frescas para sabor mais limpo.",
+    "Peneire as gemas se quiser textura mais delicada.",
+    "Sirva gelado para firmar melhor."
+  ],
+  "servings": 12,
+  "servingsUnit": "unidades",
+  "prepMinutes": 15,
+  "cookMinutes": 40,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 12,
+          "unit": "",
+          "name": "gemas"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "coco ralado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Manteiga e açúcar as forminhas",
+          "note": "para untar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Pré-aqueça o forno a 180°C.",
+        "Unte bem as forminhas com manteiga e açúcar.",
+        "Misture as gemas com o açúcar até obter creme claro.",
+        "Adicione o coco ralado e misture bem.",
+        "Preencha as forminhas até 3/4 da capacidade.",
+        "Asse em banho-maria por cerca de 40 minutos, até dourar.",
+        "Deixe esfriar e desenforme com cuidado."
+      ]
+    }
+  ]
+}

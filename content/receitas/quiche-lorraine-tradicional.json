@@ -1,0 +1,172 @@
+{
+  "id": 49,
+  "slug": "quiche-lorraine-tradicional",
+  "title": "Quiche Lorraine Tradicional",
+  "description": "Torta francesa aberta com massa amanteigada, bacon, creme de leite e queijo Gruyère.",
+  "intro": "A quiche lorraine é a síntese da elegância francesa em um formato rústico e reconfortante. Com sua base de massa quebradiça amanteigada e um recheio generoso de creme, bacon defumado e queijo, ela entrega um equilíbrio perfeito entre o salgado e o cremoso, sendo a escolha ideal para um brunch sofisticado ou um jantar leve.",
+  "context": "Originária da região da Lorena, na França, esta torta aberta atravessou séculos como um dos pilares da culinária clássica. A adição da noz-moscada ao creme é o segredo sutil que amarra todos os sabores, provando que a gastronomia francesa pode ser acolhedora e surpreendentemente simples de preparar em casa.",
+  "categories": [
+    "Francesa",
+    "Salgados",
+    "Tortas",
+    "Clássicos"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Tortas Salgadas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Brunch",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Francesa"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Queijo",
+    "Ovos"
+  ],
+  "collections": [
+    "Receita Clássica"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "40 min",
+  "totalTime": "1h 15 min",
+  "difficulty": "Médio",
+  "yield": "8 fatias",
+  "searchTerms": [
+    "quiche lorraine",
+    "bacon",
+    "gruyère",
+    "torta salgada",
+    "francesa",
+    "creme de leite"
+  ],
+  "tags": [
+    "quichelorraine",
+    "francesa",
+    "bacon",
+    "queijo",
+    "classico",
+    "gastronomia",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "2 xícaras de farinha de trigo",
+        "150 g de manteiga gelada em cubos",
+        "5 colheres (sopa) de água gelada",
+        "1 colher (chá) de sal"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "200 g de bacon em cubos",
+        "1 cebola picada",
+        "3 ovos",
+        "1 xícara de creme de leite fresco",
+        "1 xícara de queijo Gruyère ou mussarela ralado",
+        "Sal, pimenta e noz-moscada a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture farinha e sal com a manteiga até virar uma farofa.",
+    "Adicione a água aos poucos até dar liga e leve a massa à geladeira por 30 minutos.",
+    "Frite o bacon na própria gordura e refogue a cebola.",
+    "Bata os ovos com o creme de leite e tempere com sal, pimenta e noz-moscada.",
+    "Forre a forma com a massa, coloque bacon e cebola, cubra com o creme e finalize com o queijo.",
+    "Asse a 180°C por cerca de 40 minutos, até dourar e firmar."
+  ],
+  "tips": [
+    "Adicione cogumelos ou espinafre ao recheio para variar.",
+    "Sirva com salada de folhas verdes e vinagrete leve."
+  ],
+  "servings": 8,
+  "servingsUnit": "fatias",
+  "prepMinutes": 35,
+  "cookMinutes": 40,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 150,
+          "unit": "g",
+          "name": "manteiga gelada em cubos"
+        },
+        {
+          "qty": 5,
+          "unit": "",
+          "name": "colheres (sopa) de água gelada"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de sal"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "bacon em cubos"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola picada"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "creme de leite fresco"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "queijo Gruyère ou mussarela ralado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta e noz-moscada",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture farinha e sal com a manteiga até virar uma farofa.",
+        "Adicione a água aos poucos até dar liga e leve a massa à geladeira por 30 minutos.",
+        "Frite o bacon na própria gordura e refogue a cebola.",
+        "Bata os ovos com o creme de leite e tempere com sal, pimenta e noz-moscada.",
+        "Forre a forma com a massa, coloque bacon e cebola, cubra com o creme e finalize com o queijo.",
+        "Asse a 180°C por cerca de 40 minutos, até dourar e firmar."
+      ]
+    }
+  ]
+}

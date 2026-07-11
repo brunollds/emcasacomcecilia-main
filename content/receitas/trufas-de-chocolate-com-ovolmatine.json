@@ -1,0 +1,126 @@
+{
+  "id": 149,
+  "slug": "trufas-de-chocolate-com-ovolmatine",
+  "title": "Trufas de Chocolate com Ovolmatine",
+  "description": "Trufas cremosas de chocolate meio amargo com creme de leite, manteiga, Ovolmatine e cacau.",
+  "intro": "As trufas de chocolate com Ovolmatine são pequenas joias de puro sabor e técnica. Cada esfera de ganache cremosa e aveludada derrete na boca, liberando as notas maltadas e o amargor sofisticado do chocolate meio amargo, finalizadas com the rusticidade elegante do cacau em pó que envolve este doce de prestígio.",
+  "context": "Inspiradas nas trufas clássicas europeias, estas unidades celebram the maestria da ganache. O segredo reside na temperatura correta do creme de leite para fundir o chocolate sem queimar, resultando em um docinho que é sinônimo de hospitalidade e requinte, ideal para presentear ou encerrar um banquete com um toque de alta confeitaria artesanal.",
+  "categories": [
+    "Sobremesas",
+    "Docinhos",
+    "Chocolate",
+    "Ovolmatine"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Docinhos"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "5 min",
+  "totalTime": "2 h 30 min",
+  "difficulty": "Fácil",
+  "yield": "25 unidades",
+  "searchTerms": [
+    "trufas de chocolate",
+    "Ovolmatine",
+    "ganache",
+    "docinhos"
+  ],
+  "tags": [
+    "trufasdechocolate",
+    "ovolmatine",
+    "chocolate",
+    "docinhos",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Trufas",
+      "items": [
+        "300 g de chocolate meio amargo",
+        "150 ml de creme de leite",
+        "2 colheres de sopa de Ovolmatine",
+        "1 colher de sopa de manteiga",
+        "2 colheres de sopa de cacau em pó para enrolar",
+        "1 pitada de sal opcional"
+      ]
+    }
+  ],
+  "instructions": [
+    "Pique o chocolate em pedaços pequenos.",
+    "Aqueça creme de leite e manteiga sem ferver.",
+    "Desligue o fogo e misture o chocolate até derreter.",
+    "Adicione Ovolmatine e sal, e misture bem.",
+    "Leve à geladeira por cerca de 2 horas, até firmar.",
+    "Modele bolinhas e passe no cacau em pó."
+  ],
+  "tips": [
+    "Essência de laranja ou licor suave combinam com o chocolate.",
+    "Nozes ou amêndoas picadas adicionam crocância.",
+    "Guarde em recipiente fechado na geladeira."
+  ],
+  "servings": 25,
+  "servingsUnit": "unidades",
+  "prepMinutes": 25,
+  "cookMinutes": 5,
+  "structuredIngredients": [
+    {
+      "section": "Trufas",
+      "items": [
+        {
+          "qty": 300,
+          "unit": "g",
+          "name": "chocolate meio amargo"
+        },
+        {
+          "qty": 150,
+          "unit": "ml",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres de sopa de Ovolmatine"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de sopa de manteiga"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres de sopa de cacau em pó para enrolar"
+        },
+        {
+          "qty": 1,
+          "unit": "pitada",
+          "name": "sal",
+          "note": "opcional"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Pique o chocolate em pedaços pequenos.",
+        "Aqueça creme de leite e manteiga sem ferver.",
+        "Desligue o fogo e misture o chocolate até derreter.",
+        "Adicione Ovolmatine e sal, e misture bem.",
+        "Leve à geladeira por cerca de 2 horas, até firmar.",
+        "Modele bolinhas e passe no cacau em pó."
+      ]
+    }
+  ]
+}

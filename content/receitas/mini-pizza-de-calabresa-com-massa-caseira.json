@@ -1,0 +1,173 @@
+{
+  "id": 78,
+  "slug": "mini-pizza-de-calabresa-com-massa-caseira",
+  "title": "Mini Pizza de Calabresa com Massa Caseira",
+  "description": "Mini pizzas caseiras com molho de tomate, calabresa, mussarela e orégano.",
+  "intro": "As mini pizzas de calabresa são a alegria garantida de qualquer reunião. Com uma massa caseira fofinha e bordas levemente douradas, estas pequenas delícias carregam o sabor intenso da calabresa e o derretimento clássico da mussarela, oferecendo o conforto de uma pizzaria artesanal em porções individuais e práticas.",
+  "context": "Representando a versatilidade das massas fermentadas, a mini pizza é um ícone dos buffets infantis e happy hours brasileiros. Esta receita valoriza o tempo de crescimento da massa, garantindo a leveza que diferencia o preparo artesanal das opções congeladas industrialmente, permitindo um toque pessoal no molho e no equilíbrio dos ingredientes.",
+  "categories": [
+    "Salgados",
+    "Massas",
+    "Lanches",
+    "Petiscos"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Petiscos Quentes"
+  ],
+  "mealTime": [
+    "Happy Hour"
+  ],
+  "cuisine": [
+    "Italiana",
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Queijo"
+  ],
+  "collections": [
+    "Para Dois"
+  ],
+  "prepTime": "1h 20 min",
+  "cookTime": "15 min",
+  "totalTime": "1h 35 min",
+  "difficulty": "Médio",
+  "yield": "12 mini pizzas",
+  "isPopular": true,
+  "searchTerms": [
+    "mini pizza",
+    "pizza de calabresa",
+    "massa caseira",
+    "lanche",
+    "festa"
+  ],
+  "tags": [
+    "minipizza",
+    "calabresa",
+    "pizzacaseira",
+    "petisco",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 xícara (chá) de água morna",
+        "1 colher (sopa) de açúcar",
+        "1 colher (sopa) de fermento biológico seco",
+        "1/4 xícara (chá) de azeite",
+        "3 xícaras (chá) de farinha de trigo",
+        "1 colher (chá) de sal"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "1 xícara (chá) de molho de tomate",
+        "200 g de calabresa fatiada",
+        "200 g de queijo mussarela fatiado",
+        "Orégano a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture água morna, açúcar e fermento e deixe descansar por 10 minutos.",
+    "Adicione azeite e farinha aos poucos, misturando até formar massa lisa.",
+    "Sove por cerca de 10 minutos.",
+    "Cubra e deixe crescer por 1 hora, ou até dobrar de volume.",
+    "Abra a massa e corte círculos pequenos.",
+    "Coloque em assadeira untada.",
+    "Cubra com molho, calabresa, mussarela e orégano.",
+    "Asse a 200°C por cerca de 15 minutos."
+  ],
+  "tips": [
+    "Cebola, pimentão, azeitona e milho verde combinam com calabresa.",
+    "Para mini pizzas mais crocantes, abra a massa bem fina.",
+    "Sirva quente em festas ou congele os discos pré-assados."
+  ],
+  "servings": 12,
+  "servingsUnit": "mini pizzas",
+  "prepMinutes": 60,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de água morna"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de fermento biológico seco"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "(chá) de azeite"
+        },
+        {
+          "qty": 3,
+          "unit": "xíc.",
+          "name": "(chá) de farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de sal"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de molho de tomate"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "calabresa fatiada"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "queijo mussarela fatiado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Orégano",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture água morna, açúcar e fermento e deixe descansar por 10 minutos.",
+        "Adicione azeite e farinha aos poucos, misturando até formar massa lisa.",
+        "Sove por cerca de 10 minutos.",
+        "Cubra e deixe crescer por 1 hora, ou até dobrar de volume.",
+        "Abra a massa e corte círculos pequenos.",
+        "Coloque em assadeira untada.",
+        "Cubra com molho, calabresa, mussarela e orégano.",
+        "Asse a 200°C por cerca de 15 minutos."
+      ]
+    }
+  ]
+}

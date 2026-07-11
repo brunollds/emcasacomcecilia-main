@@ -1,0 +1,115 @@
+{
+  "id": 60,
+  "slug": "doce-de-leite-caseiro-cremoso",
+  "title": "Doce de Leite Caseiro Cremoso",
+  "description": "Doce de leite caseiro feito com leite, açúcar e cozimento lento até ficar cremoso.",
+  "intro": "O doce de leite caseiro cremoso é a materialização da paciência e do carinho na cozinha. Feito a partir da redução lenta do leite com açúcar, este doce alcança uma cor âmbar profunda e uma textura aveludada que derrete na boca, oferecendo um sabor autêntico que nenhuma versão industrializada consegue replicar.",
+  "context": "Um pilar da gastronomia mineira e brasileira, o doce de leite é o resultado de uma técnica secular de conservação e concentração de sabor. A adição do bicarbonato de sódio é o segredo para garantir a cor característica e evitar que o leite talhe, resultando em um clássico indispensável para acompanhar queijos, recheear bolos ou ser apreciado puramente de colher.",
+  "categories": [
+    "Brasileira",
+    "Doces",
+    "Básicos",
+    "Sobremesas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Docinhos"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "keyIngredients": [
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Receita Clássica",
+    "Receita de Vó"
+  ],
+  "prepTime": "5 min",
+  "cookTime": "1h 30 min",
+  "totalTime": "1h 35 min",
+  "difficulty": "Médio",
+  "yield": "1 pote médio",
+  "isPopular": true,
+  "searchTerms": [
+    "doce de leite",
+    "doce de leite caseiro",
+    "leite integral",
+    "bicarbonato",
+    "recheio"
+  ],
+  "tags": [
+    "docedeleite",
+    "docedeleitecaseiro",
+    "doce",
+    "brasileiro",
+    "comidadevo",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Doce",
+      "items": [
+        "1 litro de leite integral",
+        "2 xícaras (chá) de açúcar",
+        "1 colher (chá) de bicarbonato de sódio"
+      ]
+    }
+  ],
+  "instructions": [
+    "Em uma panela grande de fundo grosso, misture o leite, o açúcar e o bicarbonato.",
+    "Leve ao fogo médio, mexendo sempre.",
+    "Cozinhe até engrossar e ficar dourado, por cerca de 1 hora e 30 minutos.",
+    "Retire do fogo e bata na batedeira por cerca de 5 minutos para deixar liso.",
+    "Transfira para um pote de vidro esterilizado e deixe esfriar.",
+    "Guarde na geladeira por até 15 dias."
+  ],
+  "tips": [
+    "Para doce de leite mais claro, cozinhe por menos tempo.",
+    "Para sabor mais intenso e escuro, aumente o tempo de cozimento.",
+    "Mexa com frequência para evitar que grude no fundo.",
+    "Canela ou cravo-da-índia podem perfumar a receita."
+  ],
+  "servings": 1,
+  "servingsUnit": "pote médio",
+  "prepMinutes": 5,
+  "cookMinutes": 60,
+  "structuredIngredients": [
+    {
+      "section": "Doce",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "l",
+          "name": "leite integral"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "(chá) de açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de bicarbonato de sódio"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Em uma panela grande de fundo grosso, misture o leite, o açúcar e o bicarbonato.",
+        "Leve ao fogo médio, mexendo sempre.",
+        "Cozinhe até engrossar e ficar dourado, por cerca de 1 hora e 30 minutos.",
+        "Retire do fogo e bata na batedeira por cerca de 5 minutos para deixar liso.",
+        "Transfira para um pote de vidro esterilizado e deixe esfriar.",
+        "Guarde na geladeira por até 15 dias."
+      ]
+    }
+  ]
+}

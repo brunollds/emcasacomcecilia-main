@@ -1,0 +1,140 @@
+{
+  "id": 57,
+  "slug": "bolo-de-aipim-com-coco-ralado",
+  "title": "Bolo de Aipim com Coco Ralado",
+  "description": "Bolo brasileiro úmido de aipim com coco ralado, perfeito para café da tarde.",
+  "intro": "O bolo de aipim com coco ralado é a alma da culinária rústica e afetiva do Brasil. Com sua textura densa e úmida que quase lembra um pudim pesado, ele celebra o sabor terroso da mandioca harmonizado com a doçura tropical do coco, resultando em um bolo que é puro aconchego para o café da tarde.",
+  "context": "Conhecido como aipim, mandioca ou macaxeira dependendo da região, este ingrediente é a base da segurança alimentar histórica do Brasil. Esta receita valoriza essa herança indígena, transformando o tubérculo em uma iguaria que é presença obrigatória tanto em mesas de fazenda quanto em festejos juninos, simbolizando a riqueza da nossa terra.",
+  "categories": [
+    "Brasileira",
+    "Doces",
+    "Bolos Caseiros",
+    "Café da Manhã"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Bolos"
+  ],
+  "mealTime": [
+    "Café da Manhã",
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Nordestina",
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "diet": [
+    "Sem Glúten"
+  ],
+  "keyIngredients": [
+    "Mandioca",
+    "Coco"
+  ],
+  "collections": [
+    "Receita de Vó",
+    "Receita Clássica"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "40 min",
+  "totalTime": "55 min",
+  "difficulty": "Fácil",
+  "yield": "10 fatias",
+  "searchTerms": [
+    "bolo de aipim",
+    "bolo de mandioca",
+    "macaxeira",
+    "coco ralado",
+    "bolo caseiro"
+  ],
+  "tags": [
+    "bolodeaipim",
+    "cocoralado",
+    "mandioca",
+    "macaxeira",
+    "bolocaseiro",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "500 g de aipim cozido e amassado",
+        "4 ovos",
+        "1 xícara (chá) de açúcar",
+        "1/2 xícara (chá) de óleo",
+        "100 g de coco ralado",
+        "1 colher (sopa) de fermento em pó"
+      ]
+    }
+  ],
+  "instructions": [
+    "Pré-aqueça o forno a 180°C.",
+    "Unte e enfarinhe uma forma redonda com furo central.",
+    "No liquidificador, bata o aipim, os ovos, o açúcar e o óleo até obter um creme homogêneo.",
+    "Adicione o coco ralado e o fermento e bata rapidamente apenas para misturar.",
+    "Despeje na forma e asse por cerca de 40 minutos, até dourar e firmar.",
+    "Espere esfriar e desenforme."
+  ],
+  "tips": [
+    "Para textura mais marcante, adicione 1/2 xícara de queijo parmesão ralado.",
+    "Para um bolo mais úmido, adicione 1/2 xícara de leite de coco à massa.",
+    "Sirva com café fresco ou chá da tarde."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 15,
+  "cookMinutes": 40,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "aipim cozido e amassado"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de açúcar"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de óleo"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "coco ralado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de fermento em pó"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Pré-aqueça o forno a 180°C.",
+        "Unte e enfarinhe uma forma redonda com furo central.",
+        "No liquidificador, bata o aipim, os ovos, o açúcar e o óleo até obter um creme homogêneo.",
+        "Adicione o coco ralado e o fermento e bata rapidamente apenas para misturar.",
+        "Despeje na forma e asse por cerca de 40 minutos, até dourar e firmar.",
+        "Espere esfriar e desenforme."
+      ]
+    }
+  ]
+}

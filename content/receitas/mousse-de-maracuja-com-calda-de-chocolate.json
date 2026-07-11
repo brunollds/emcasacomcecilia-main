@@ -1,0 +1,122 @@
+{
+  "id": 135,
+  "slug": "mousse-de-maracuja-com-calda-de-chocolate",
+  "title": "Mousse de Maracujá com Calda de Chocolate",
+  "description": "Mousse tropical de maracujá com leite condensado, creme de leite, gelatina e calda de chocolate.",
+  "intro": "Esta mousse de maracujá traz o vibrante sabor tropical da fruta em uma textura densa e aveludada, coroada por uma calda de chocolate que adiciona profundidade e um toque de indulgência. É the combinação perfeita de sabores contrastantes que se encontram em harmonia, criando uma sobremesa exótica e equilibrada.",
+  "context": "A mousse de maracujá é um dos doces mais amados do Brasil, valorizada por sua cor intensa e perfumeando em um prato que é ao mesmo tempo simples de preparar e visualmente sofisticado, celebrando the riqueza dos nossos ingredientes nativos.",
+  "categories": [
+    "Sobremesas",
+    "Mousses",
+    "Frutas",
+    "Chocolate"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Mousses"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Maracujá",
+    "Chocolate"
+  ],
+  "collections": [
+    "Receita Clássica"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "0 min",
+  "totalTime": "4 h 15 min",
+  "difficulty": "Fácil",
+  "yield": "6 porções",
+  "searchTerms": [
+    "mousse de maracujá",
+    "calda de chocolate",
+    "gelatina incolor",
+    "sobremesa tropical"
+  ],
+  "tags": [
+    "moussedemaracuja",
+    "maracuja",
+    "chocolate",
+    "sobremesa",
+    "tropical",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Mousse",
+      "items": [
+        "1 lata de leite condensado",
+        "1 lata de creme de leite",
+        "1/2 xícara de suco de maracujá concentrado",
+        "1 envelope de gelatina incolor sem sabor",
+        "Calda de chocolate pronta para acompanhar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Prepare a gelatina conforme as instruções da embalagem.",
+    "Bata leite condensado, creme de leite, suco de maracujá e gelatina dissolvida no liquidificador.",
+    "Distribua em taças ou em um refratário.",
+    "Leve à geladeira por pelo menos 4 horas, até firmar.",
+    "Cubra com calda de chocolate na hora de servir."
+  ],
+  "tips": [
+    "Clara em neve deixa a mousse mais consistente e aerada.",
+    "Raspas de chocolate, hortelã ou frutas frescas funcionam bem na decoração.",
+    "Use suco concentrado para manter o sabor marcante."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Mousse",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "suco de maracujá concentrado"
+        },
+        {
+          "qty": 1,
+          "unit": "envelope",
+          "name": "gelatina incolor sem sabor"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Calda de chocolate pronta",
+          "note": "para acompanhar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Prepare a gelatina conforme as instruções da embalagem.",
+        "Bata leite condensado, creme de leite, suco de maracujá e gelatina dissolvida no liquidificador.",
+        "Distribua em taças ou em um refratário.",
+        "Leve à geladeira por pelo menos 4 horas, até firmar.",
+        "Cubra com calda de chocolate na hora de servir."
+      ]
+    }
+  ]
+}

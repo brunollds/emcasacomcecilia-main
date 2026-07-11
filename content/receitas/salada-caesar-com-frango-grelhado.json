@@ -1,0 +1,130 @@
+{
+  "id": 114,
+  "slug": "salada-caesar-com-frango-grelhado",
+  "title": "Salada Caesar com Frango Grelhado",
+  "description": "Salada completa com alface, frango grelhado, croutons, parmesão e molho Caesar.",
+  "intro": "A salada Caesar é o equilíbrio perfeito entre a elegância clássica e a satisfação de um prato completo. Com a textura estaladiça da alface romana, a suculência do frango grelhado e o toque inconfundível dos croutons artesanais e do parmesão, ela é elevada por um molho cremoso e rico que transformou este preparo em uma das saladas mais amadas do mundo.",
+  "context": "Criada por Caesar Cardini em 1924, esta salada nasceu da improvisação e tornou-se um ícone da sofisticação prática. O segredo reside no contraste de texturas e na potência do molho à base de anchovas e alho, provando que a simplicidade, quando executada com técnica, resulta em um clássico atemporal que une frescor e indulgência em cada garfada.",
+  "categories": [
+    "Saladas",
+    "Frango",
+    "Leves",
+    "Almoço"
+  ],
+  "primaryCategory": "Salada",
+  "subCategory": [
+    "Saladas Verdes"
+  ],
+  "mealTime": [
+    "Almoço"
+  ],
+  "cuisine": [
+    "Americana"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "High Protein",
+    "Low Carb"
+  ],
+  "keyIngredients": [
+    "Frango",
+    "Queijo"
+  ],
+  "collections": [
+    "Receita Clássica"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "10 min",
+  "totalTime": "25 min",
+  "difficulty": "Fácil",
+  "yield": "2 porções",
+  "searchTerms": [
+    "salada caesar",
+    "frango grelhado",
+    "croutons",
+    "parmesão",
+    "molho caesar"
+  ],
+  "tags": [
+    "saladacaesar",
+    "frangogrelhado",
+    "salada",
+    "almocoleve",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Salada",
+      "items": [
+        "1 pé de alface americana",
+        "1 peito de frango grelhado e fatiado",
+        "Croutons a gosto",
+        "Queijo parmesão ralado a gosto",
+        "Molho Caesar a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Lave e seque bem as folhas de alface.",
+    "Misture alface, frango, croutons e parmesão.",
+    "Regue com molho Caesar.",
+    "Sirva imediatamente."
+  ],
+  "tips": [
+    "Faça croutons com pão em cubos tostado no forno ou na Air Fryer.",
+    "Anchovas picadas deixam o molho mais intenso.",
+    "Tomate cereja, ovo cozido ou bacon são boas variações."
+  ],
+  "servings": 2,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "cookMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Salada",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "pé de alface americana"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "peito de frango grelhado e fatiado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Croutons",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Queijo parmesão ralado",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Molho Caesar",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Lave e seque bem as folhas de alface.",
+        "Misture alface, frango, croutons e parmesão.",
+        "Regue com molho Caesar.",
+        "Sirva imediatamente."
+      ]
+    }
+  ]
+}

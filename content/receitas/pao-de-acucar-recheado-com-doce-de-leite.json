@@ -1,0 +1,144 @@
+{
+  "id": 158,
+  "slug": "pao-de-acucar-recheado-com-doce-de-leite",
+  "title": "Pão de Açúcar Recheado com Doce de Leite",
+  "description": "Pãezinhos doces em formato de ovo, recheados com doce de leite cremoso e finalizados com glacê.",
+  "intro": "Estes pãezinhos doces recheados com doce de leite são the definição de carinho em forma de massa fofinha. Modelados em formatos festivos para the Páscoa e finalizados com um glacê delicado, eles escondem um coração generoso de doce de leite cremoso, transformando o café da manhã pascoal em um momento de pura doçura e tradição.",
+  "context": "Herança das panificações artesanais, o pão doce recheado é um símbolo de hospitalidade. Esta receita valoriza the fermentação lenta e the técnica de rechear o pão ainda cru, garantindo que o doce de leite se funda à massa durante o cozimento, celebrando the memória afetiva das padarias de bairro com um toque de sofisticação caseira.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Pães",
+    "Doces"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Bolos"
+  ],
+  "mealTime": [
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "25 min",
+  "totalTime": "2 h",
+  "difficulty": "Médio",
+  "yield": "10 unidades",
+  "searchTerms": [
+    "pão de açúcar recheado",
+    "doce de leite",
+    "Páscoa",
+    "pão doce",
+    "ovo surpresa"
+  ],
+  "tags": [
+    "paorecheado",
+    "docedeleite",
+    "pascoa",
+    "paodoce",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa e recheio",
+      "items": [
+        "500 g de farinha de trigo",
+        "1 xícara de leite morno",
+        "2 ovos",
+        "100 g de manteiga",
+        "1 colher de sopa de fermento biológico",
+        "1 lata de doce de leite cremoso",
+        "1 xícara de açúcar de confeiteiro",
+        "2 colheres de sopa de leite para o glacê"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture farinha, leite, ovos, manteiga e fermento até formar uma massa homogênea.",
+    "Deixe crescer por 1 hora.",
+    "Abra porções da massa, recheie com doce de leite e feche em formato de ovo.",
+    "Asse a 180°C por cerca de 25 minutos.",
+    "Misture açúcar de confeiteiro e leite para formar o glacê.",
+    "Decore os pães com glacê e deixe secar antes de servir."
+  ],
+  "tips": [
+    "Sem forma temática, modele os ovos manualmente e asse em assadeira untada.",
+    "Use corantes alimentícios no glacê para um visual mais festivo.",
+    "Brigadeiro gourmet pode substituir o doce de leite."
+  ],
+  "servings": 10,
+  "servingsUnit": "unidades",
+  "prepMinutes": 35,
+  "cookMinutes": 25,
+  "structuredIngredients": [
+    {
+      "section": "Massa e recheio",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "leite morno"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de sopa de fermento biológico"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "doce de leite cremoso"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "açúcar de confeiteiro"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres de sopa de leite para o glacê"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture farinha, leite, ovos, manteiga e fermento até formar uma massa homogênea.",
+        "Deixe crescer por 1 hora.",
+        "Abra porções da massa, recheie com doce de leite e feche em formato de ovo.",
+        "Asse a 180°C por cerca de 25 minutos.",
+        "Misture açúcar de confeiteiro e leite para formar o glacê.",
+        "Decore os pães com glacê e deixe secar antes de servir."
+      ]
+    }
+  ]
+}

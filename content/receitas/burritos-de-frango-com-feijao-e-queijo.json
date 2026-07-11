@@ -1,0 +1,172 @@
+{
+  "id": 93,
+  "slug": "burritos-de-frango-com-feijao-e-queijo",
+  "title": "Burritos de Frango com Feijão e Queijo",
+  "description": "Burritos de trigo recheados com frango desfiado, feijão, queijo e temperos mexicanos.",
+  "intro": "O burrito de frango é a refeição generosa e completa em um só abraço de tortilla. Com o frango suculento intensamente temperado e a cremosidade do feijão envoltos em queijo derretido, este clássico oferece um equilíbrio reconfortante de texturas que transformam o jantar em uma experiência mexicana vibrante e prática.",
+  "context": "Símbolo da eficiência da culinária de fronteira (Tex-Mex), o burrito foi desenhado para ser portátil e substancial. Esta receita celebra a combinação clássica de cominho e páprica, criando um recheio rico que, quando enrolado com maestria, garante uma explosão de sabor e conforto em cada mordida, ideal para compartilhar com a família.",
+  "categories": [
+    "Mexicana",
+    "Frango",
+    "Jantar",
+    "Lanches"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Frango"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Mexicana"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "keyIngredients": [
+    "Frango",
+    "Feijão"
+  ],
+  "collections": [
+    "Comfort Food"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "20 min",
+  "totalTime": "35 min",
+  "difficulty": "Fácil",
+  "yield": "8 burritos",
+  "isPopular": true,
+  "searchTerms": [
+    "burrito de frango",
+    "feijão",
+    "queijo",
+    "tortilla",
+    "comida mexicana",
+    "tex-mex"
+  ],
+  "tags": [
+    "burritosdefrango",
+    "frango",
+    "feijao",
+    "queijo",
+    "comidamexicana",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Burritos",
+      "items": [
+        "8 tortillas de trigo",
+        "1 peito de frango cozido e desfiado",
+        "1 cebola pequena picada",
+        "2 dentes de alho picados",
+        "1 colher (sopa) de azeite",
+        "1 colher (sopa) de cominho em pó",
+        "1 colher (sopa) de páprica doce",
+        "1 colher (chá) de chilli em pó",
+        "Sal e pimenta-do-reino a gosto",
+        "1 xícara de feijão cozido",
+        "1 xícara de queijo mussarela ralado"
+      ]
+    }
+  ],
+  "instructions": [
+    "Refogue cebola e alho no azeite.",
+    "Adicione o frango desfiado e refogue.",
+    "Tempere com cominho, páprica, chilli, sal e pimenta.",
+    "Junte feijão e queijo.",
+    "Cozinhe até o queijo derreter.",
+    "Aqueça as tortillas.",
+    "Recheie, dobre as bordas e enrole como charuto.",
+    "Sirva imediatamente."
+  ],
+  "tips": [
+    "Ajuste o chilli ao seu paladar.",
+    "Guacamole, sour cream, alface e tomate deixam o burrito mais completo.",
+    "Sirva com salsa mexicana ou molho de pimenta."
+  ],
+  "servings": 8,
+  "servingsUnit": "burritos",
+  "prepMinutes": 15,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Burritos",
+      "items": [
+        {
+          "qty": 8,
+          "unit": "",
+          "name": "tortillas de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "peito de frango cozido e desfiado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de azeite"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de cominho em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de páprica doce"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de chilli em pó"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "feijão cozido"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "queijo mussarela ralado"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Refogue cebola e alho no azeite.",
+        "Adicione o frango desfiado e refogue.",
+        "Tempere com cominho, páprica, chilli, sal e pimenta.",
+        "Junte feijão e queijo.",
+        "Cozinhe até o queijo derreter.",
+        "Aqueça as tortillas.",
+        "Recheie, dobre as bordas e enrole como charuto.",
+        "Sirva imediatamente."
+      ]
+    }
+  ]
+}

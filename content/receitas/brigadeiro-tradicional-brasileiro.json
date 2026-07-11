@@ -1,0 +1,123 @@
+{
+  "id": 41,
+  "slug": "brigadeiro-tradicional-brasileiro",
+  "title": "Brigadeiro Tradicional Brasileiro",
+  "description": "O doce mais icônico do Brasil em sua versão mais cremosa e equilibrada. Perfeito para festas infantis, eventos ou para aquele momento de indulgência absoluta.",
+  "intro": "O brigadeiro tradicional é, sem dúvida, o coração de qualquer celebração no Brasil. Feito com poucos ingredientes mas exigindo paciência no fogo baixo, este doce entrega uma textura densa, elástica e extremamente aveludada, que derrete na boca liberando o sabor profundo do chocolate combinado com a doçura do leite condensado.",
+  "context": "Criado no Rio de Janeiro em 1946 durante a campanha eleitoral do Brigadeiro Eduardo Gomes, este doce genuinamente brasileiro ultrapassou as fronteiras políticas para se tornar o doce mais democrático do país. De festas infantis a jantares de gala, o brigadeiro é o símbolo máximo da hospitalidade e da alegria compartilhada à mesa brasileira.",
+  "image": "/images/recipes/doces/brigadeiro-tradicional-brasileiro.jpg",
+  "imageAlt": "Brigadeiros tradicionais brasileiros com granulado em forminhas.",
+  "categories": [
+    "Brasileira",
+    "Doces",
+    "Festas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Docinhos"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "keyIngredients": [
+    "Chocolate",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Aniversário",
+    "Receita Clássica",
+    "Para Crianças"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "12 min",
+  "totalTime": "22 min",
+  "difficulty": "Fácil",
+  "yield": "25 unidades",
+  "isPopular": true,
+  "searchTerms": [
+    "brigadeiro",
+    "leite condensado",
+    "chocolate em pó",
+    "granulado",
+    "docinho de festa",
+    "brasileiro",
+    "aniversário"
+  ],
+  "tags": [
+    "brigadeiro",
+    "brasileiro",
+    "festas",
+    "chocolate",
+    "classico",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 lata de leite condensado",
+        "1 colher (sopa) de manteiga sem sal",
+        "4 colheres (sopa) de chocolate em pó 50% cacau",
+        "Chocolate granulado para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Em uma panela de fundo grosso, misture o leite condensado, a manteiga e o chocolate em pó.",
+    "Leve ao fogo baixo, mexendo sempre, até a massa começar a desgrudar do fundo da panela.",
+    "Transfira para um prato untado e deixe esfriar completamente.",
+    "Com as mãos untadas com manteiga, enrole as bolinhas.",
+    "Passe no granulado e coloque em forminhas de papel."
+  ],
+  "tips": [
+    "Adicione 1 colher de sopa de creme de leite ao final do cozimento para um brigadeiro mais macio.",
+    "Experimente raspas de laranja ou uma pitada de canela para variar o sabor."
+  ],
+  "servings": 25,
+  "servingsUnit": "unidades",
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de manteiga sem sal"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "colheres (sopa) de chocolate em pó 50% cacau"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Chocolate granulado",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Em uma panela de fundo grosso, misture o leite condensado, a manteiga e o chocolate em pó.",
+        "Leve ao fogo baixo, mexendo sempre, até a massa começar a desgrudar do fundo da panela.",
+        "Transfira para um prato untado e deixe esfriar completamente.",
+        "Com as mãos untadas com manteiga, enrole as bolinhas.",
+        "Passe no granulado e coloque em forminhas de papel."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": 107,
+  "slug": "pizza-de-calabresa-caseira",
+  "title": "Pizza de Calabresa Caseira",
+  "description": "Pizza caseira de massa fina com molho de tomate, calabresa, mussarela e orégano.",
+  "intro": "A pizza de calabresa caseira é o símbolo máximo da diversão e do compartilhamento em volta da mesa. Com uma massa artesanal de bordas douradas e fofinhas, coberta por fatias generosas de calabresa defumada e o derretimento clássico da mussarela, ela oferece aquele sabor autêntico de pizzaria italiana feito com o carinho e o capricho da sua própria cozinha.",
+  "context": "Dominar a arte da massa de pizza em casa é uma conquista culinária que abre portas para infinitas variações. Esta receita foca na técnica da fermentação correta, garantindo uma base leve e digerível que serve como tela para a combinação favorita dos brasileiros: o salgado da calabresa equilibrado pelo orégano e pelo molho de tomate apurado, celebrando a tradição das noites de pizza em família.",
+  "image": "/images/recipes/massas/pizza-de-calabresa-caseira.jpg",
+  "imageAlt": "Pizza de calabresa caseira com queijo derretido e orégano.",
+  "categories": [
+    "Massas",
+    "Pizza",
+    "Lanches",
+    "Jantar"
+  ],
+  "primaryCategory": "Lanche",
+  "subCategory": [
+    "Pizzas"
+  ],
+  "mealTime": [
+    "Jantar"
+  ],
+  "cuisine": [
+    "Italiana",
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Queijo"
+  ],
+  "collections": [
+    "Comfort Food",
+    "Para Dois"
+  ],
+  "prepTime": "1h20",
+  "cookTime": "20 min",
+  "totalTime": "1h40",
+  "difficulty": "Médio",
+  "yield": "1 pizza grande",
+  "searchTerms": [
+    "pizza de calabresa",
+    "pizza caseira",
+    "massa de pizza",
+    "calabresa",
+    "mussarela"
+  ],
+  "tags": [
+    "pizzadecalabresa",
+    "pizza",
+    "calabresa",
+    "massacaseira",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 xícara de água morna",
+        "1 colher (sopa) de açúcar",
+        "1 colher (sopa) de fermento biológico seco",
+        "1/4 xícara de azeite",
+        "3 xícaras de farinha de trigo",
+        "1 colher (chá) de sal"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "1 xícara de molho de tomate caseiro",
+        "200 g de calabresa fatiada",
+        "200 g de queijo mussarela fatiado",
+        "Orégano fresco a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture água morna, açúcar e fermento e deixe espumar.",
+    "Adicione azeite, farinha e sal.",
+    "Sove por cerca de 10 minutos.",
+    "Cubra e deixe crescer por 1 hora.",
+    "Abra a massa e coloque em forma untada.",
+    "Cubra com molho, calabresa e mussarela.",
+    "Salpique orégano.",
+    "Asse a 200°C por cerca de 20 minutos."
+  ],
+  "tips": [
+    "Deixe a massa descansar mais tempo para ficar mais crocante.",
+    "Cebola fatiada combina bem com calabresa.",
+    "Sirva quente."
+  ],
+  "servings": 1,
+  "servingsUnit": "pizza grande",
+  "prepMinutes": 60,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "água morna"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de fermento biológico seco"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "azeite"
+        },
+        {
+          "qty": 3,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de sal"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "molho de tomate caseiro"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "calabresa fatiada"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "queijo mussarela fatiado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Orégano fresco",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture água morna, açúcar e fermento e deixe espumar.",
+        "Adicione azeite, farinha e sal.",
+        "Sove por cerca de 10 minutos.",
+        "Cubra e deixe crescer por 1 hora.",
+        "Abra a massa e coloque em forma untada.",
+        "Cubra com molho, calabresa e mussarela.",
+        "Salpique orégano.",
+        "Asse a 200°C por cerca de 20 minutos."
+      ]
+    }
+  ]
+}

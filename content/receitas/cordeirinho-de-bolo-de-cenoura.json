@@ -1,0 +1,143 @@
+{
+  "id": 160,
+  "slug": "cordeirinho-de-bolo-de-cenoura",
+  "title": "Cordeirinho de Bolo de Cenoura",
+  "description": "Bolo de cenoura temático de Páscoa decorado com chocolate e coco ralado para imitar lã de cordeirinho.",
+  "intro": "Este bolo de cenoura temático é the forma mais fofa e deliciosa de celebrar the Páscoa com as crianças. Disfarçado de cordeirinho através de uma cobertura de coco ralado que imita the lã, ele esconde the massa úmida e vibrante que todos amam, unindo the diversão visual ao sabor inconfundível do clássico bolo caseiro.",
+  "context": "Transformar receitas consagradas através da decoração é uma lição de criatividade e afeto na cozinha. O 'cordeirinho' valoriza o uso do coco como elemento de textura e design, provando que the confeitaria temática pode ser simples, lúdica e extremamente saborosa, celebrando the infância e the renovação em cada fatia lúdica e perfumada.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Bolos Caseiros",
+    "Chocolate"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Bolos"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Cenoura"
+  ],
+  "collections": [
+    "Páscoa",
+    "Para Crianças"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "40 min",
+  "totalTime": "1 h 5 min",
+  "difficulty": "Médio",
+  "yield": "10 fatias",
+  "searchTerms": [
+    "cordeirinho de bolo",
+    "bolo de cenoura",
+    "Páscoa",
+    "coco ralado",
+    "bolo temático"
+  ],
+  "tags": [
+    "bolocordeirinho",
+    "bolodecenoura",
+    "pascoa",
+    "sobremesafofa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Bolo",
+      "items": [
+        "3 cenouras médias raladas",
+        "3 ovos",
+        "1 xícara de óleo",
+        "2 xícaras de açúcar",
+        "2 xícaras de farinha de trigo",
+        "1 colher de sopa de fermento",
+        "200 g de chocolate ao leite para cobertura",
+        "1 xícara de coco ralado para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bata cenouras, ovos, óleo e açúcar no liquidificador.",
+    "Misture a farinha e o fermento delicadamente.",
+    "Despeje em forma temática ou forma comum adaptada.",
+    "Asse a 180°C por cerca de 40 minutos.",
+    "Cubra com chocolate derretido.",
+    "Decore com coco ralado para imitar a lã do cordeirinho."
+  ],
+  "tips": [
+    "Sem forma de cordeiro, use forma redonda e modele a decoração.",
+    "Mini ovinhos de chocolate deixam a apresentação mais temática.",
+    "Chocolate 70% funciona em uma versão menos doce."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 25,
+  "cookMinutes": 40,
+  "structuredIngredients": [
+    {
+      "section": "Bolo",
+      "items": [
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "cenouras médias raladas"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "óleo"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de sopa de fermento"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "chocolate ao leite para cobertura"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "coco ralado",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Bata cenouras, ovos, óleo e açúcar no liquidificador.",
+        "Misture a farinha e o fermento delicadamente.",
+        "Despeje em forma temática ou forma comum adaptada.",
+        "Asse a 180°C por cerca de 40 minutos.",
+        "Cubra com chocolate derretido.",
+        "Decore com coco ralado para imitar a lã do cordeirinho."
+      ]
+    }
+  ]
+}

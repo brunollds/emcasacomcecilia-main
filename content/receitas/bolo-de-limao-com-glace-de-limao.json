@@ -1,0 +1,170 @@
+{
+  "id": 40,
+  "slug": "bolo-de-limao-com-glace-de-limao",
+  "title": "Bolo de Limão com Glacê de Limão",
+  "description": "Bolo fofinho de limão com glacê cítrico, brilhante e refrescante.",
+  "intro": "Leve, arejado e com um equilíbrio cítrico impecável, este bolo de limão é a definição de frescor na confeitaria caseira. A massa fofa, perfumada com raspas frescas, ganha um contraste perfeito com o glacê brilhante e azedinho, resultando em uma sobremesa que limpa o paladar e encanta pela simplicidade.",
+  "context": "O limão, com sua longa jornada histórica da Ásia para o Ocidente, transformou-se em um ingrediente indispensável na doçaria mundial por sua capacidade de equilibrar sabores intensos. Esta receita celebra a versatilidade da fruta em um formato clássico de bolo caseiro, sendo uma escolha refrescante para chás da tarde ou como um encerramento leve para refeições fartas.",
+  "categories": [
+    "Doces",
+    "Bolos Caseiros",
+    "Sobremesas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Bolos"
+  ],
+  "mealTime": [
+    "Café da Manhã",
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Limão"
+  ],
+  "collections": [
+    "Comfort Food",
+    "Receita Clássica"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "40 min",
+  "totalTime": "1h",
+  "difficulty": "Fácil",
+  "yield": "10 fatias",
+  "isNew": true,
+  "searchTerms": [
+    "bolo de limão",
+    "glacê de limão",
+    "raspas de limão",
+    "confeitaria",
+    "bolo cítrico"
+  ],
+  "tags": [
+    "bolodelimao",
+    "glacedelimao",
+    "refrescante",
+    "confeitaria",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "3 ovos",
+        "1 xícara (chá) de açúcar",
+        "1/2 xícara (chá) de óleo",
+        "Suco de 2 limões",
+        "Raspas de 2 limões",
+        "2 xícaras (chá) de farinha de trigo",
+        "1 colher (sopa) de fermento em pó"
+      ]
+    },
+    {
+      "section": "Glacê",
+      "items": [
+        "1 xícara (chá) de açúcar de confeiteiro",
+        "Suco de 1 limão",
+        "Raspas de limão a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Na batedeira, bata os ovos com o açúcar até obter um creme claro.",
+    "Adicione o óleo, o suco e as raspas de limão.",
+    "Misture a farinha com o fermento e incorpore à massa delicadamente.",
+    "Despeje em forma untada e asse a 180°C por cerca de 40 minutos.",
+    "Misture o açúcar de confeiteiro com o suco de limão aos poucos até obter um glacê homogêneo e brilhante.",
+    "Cubra o bolo frio com o glacê e finalize com raspas de limão."
+  ],
+  "tips": [
+    "Adicione nozes ou castanhas picadas à massa para uma textura extra.",
+    "Para um glacê mais firme, use um pouco mais de açúcar de confeiteiro."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 20,
+  "cookMinutes": 40,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de açúcar"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de óleo"
+        },
+        {
+          "qty": 2,
+          "unit": "un.",
+          "name": "limões",
+          "note": "suco"
+        },
+        {
+          "qty": 2,
+          "unit": "un.",
+          "name": "limões",
+          "note": "raspas"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "(chá) de farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de fermento em pó"
+        }
+      ]
+    },
+    {
+      "section": "Glacê",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de açúcar de confeiteiro"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Suco de 1 limão"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Raspas de limão",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Na batedeira, bata os ovos com o açúcar até obter um creme claro.",
+        "Adicione o óleo, o suco e as raspas de limão.",
+        "Misture a farinha com o fermento e incorpore à massa delicadamente.",
+        "Despeje em forma untada e asse a 180°C por cerca de 40 minutos.",
+        "Misture o açúcar de confeiteiro com o suco de limão aos poucos até obter um glacê homogêneo e brilhante.",
+        "Cubra o bolo frio com o glacê e finalize com raspas de limão."
+      ]
+    }
+  ]
+}

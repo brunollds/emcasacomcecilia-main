@@ -1,0 +1,120 @@
+{
+  "id": 71,
+  "slug": "enroladinho-de-salsicha-com-massa-folhada",
+  "title": "Enroladinho de Salsicha com Massa Folhada",
+  "description": "Petisco prático de salsicha envolta em massa folhada, assado até ficar dourado.",
+  "intro": "O enroladinho de salsicha com massa folhada é a solução vapt-vupt para aquele desejo de um salgadinho de festa. A leveza e o 'crac' irresistível da massa folhada elevam a simples salsicha a um patamar de aperitivo gourmet, sendo o lanche perfeito para reunir amigos sem passar horas na cozinha.",
+  "context": "Este petisco celebra a praticidade moderna na cozinha, utilizando a massa folhada como aliada para resultados profissionais com esforço mínimo. É um clássico dos aniversários brasileiros que ganha uma roupagem mais sofisticada e crocante, provando que ingredientes prontos, quando bem combinados, podem criar memórias deliciosas.",
+  "categories": [
+    "Salgados",
+    "Lanches",
+    "Petiscos"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Salgados Assados"
+  ],
+  "mealTime": [
+    "Happy Hour"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "collections": [
+    "Aniversário",
+    "Para Crianças",
+    "Para Congelar"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "totalTime": "30 min",
+  "difficulty": "Fácil",
+  "yield": "10 unidades",
+  "searchTerms": [
+    "enroladinho de salsicha",
+    "massa folhada",
+    "petisco de festa",
+    "lanche rápido"
+  ],
+  "tags": [
+    "enroladinhodesalsicha",
+    "massafolhada",
+    "petisco",
+    "lanche",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Enroladinhos",
+      "items": [
+        "1 pacote de massa folhada pronta",
+        "10 salsichas",
+        "1 ovo batido",
+        "Gergelim a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Pré-aqueça o forno a 200°C.",
+    "Desenrole a massa folhada e corte em tiras finas.",
+    "Enrole cada salsicha em uma tira de massa.",
+    "Pincele com ovo batido.",
+    "Polvilhe gergelim por cima.",
+    "Coloque em assadeira untada com azeite.",
+    "Asse por cerca de 20 minutos, ou até dourar."
+  ],
+  "tips": [
+    "Tempere as salsichas com pimenta-do-reino antes de enrolar para mais sabor.",
+    "Acrescente mussarela ou orégano antes de fechar.",
+    "Sirva com ketchup, mostarda ou maionese temperada."
+  ],
+  "servings": 10,
+  "servingsUnit": "unidades",
+  "prepMinutes": 10,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Enroladinhos",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "massa folhada pronta"
+        },
+        {
+          "qty": 10,
+          "unit": "",
+          "name": "salsichas"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo batido"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Gergelim",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Pré-aqueça o forno a 200°C.",
+        "Desenrole a massa folhada e corte em tiras finas.",
+        "Enrole cada salsicha em uma tira de massa.",
+        "Pincele com ovo batido.",
+        "Polvilhe gergelim por cima.",
+        "Coloque em assadeira untada com azeite.",
+        "Asse por cerca de 20 minutos, ou até dourar."
+      ]
+    }
+  ]
+}

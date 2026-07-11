@@ -1,0 +1,140 @@
+{
+  "id": 193,
+  "slug": "torta-mousse-de-chocolate-com-base-de-oreo",
+  "title": "Torta Mousse de Chocolate com Base de Oreo",
+  "description": "Torta gelada com base crocante de Oreo e mousse aerada de chocolate.",
+  "intro": "Esta torta mousse de chocolate é the síntese do prazer gelado e da sofisticação contemporânea. Com uma base ultra-crocante de biscoito Oreo que sustenta uma mousse aerada e aveludada, ela oferece um jogo de texturas e o amargor sutil do chocolate meio amargo, resultando em uma sobremesa de festa que é visualmente impactante e inesquecível.",
+  "context": "Inspirada nas modernas confeitarias 'no-bake', esta receita destaca the importância da textura aerada preservada pelas claras em neve. É the celebração do chocolate em camadas, onde the base escura contrasta com the leveza do recheio, provando que pouca técnica manual e ingredientes consagrados podem criar um doce de prestígio internacional e alma jovem.",
+  "categories": [
+    "Sobremesas",
+    "Tortas",
+    "Chocolate",
+    "Doces Gelados"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Tortas Doces",
+    "Mousses"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Comfort Food"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "0 min",
+  "totalTime": "4 h 25 min",
+  "difficulty": "Fácil",
+  "yield": "10 fatias",
+  "searchTerms": [
+    "torta mousse de chocolate",
+    "Oreo",
+    "sobremesa gelada",
+    "mousse aerada"
+  ],
+  "tags": [
+    "tortamoussedechocolate",
+    "oreo",
+    "chocolate",
+    "sobremesagelada",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Base",
+      "items": [
+        "1 pacote de biscoito Oreo",
+        "50 g de manteiga sem sal derretida"
+      ]
+    },
+    {
+      "section": "Mousse",
+      "items": [
+        "200 g de chocolate meio amargo picado",
+        "1 lata de creme de leite",
+        "3 claras em neve",
+        "Raspas de chocolate ou morangos para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Triture os biscoitos Oreo até formar farofa fina.",
+    "Misture com manteiga derretida e pressione no fundo de uma forma removível.",
+    "Leve a base à geladeira por 30 minutos.",
+    "Derreta o chocolate e misture com o creme de leite.",
+    "Incorpore as claras em neve delicadamente.",
+    "Despeje a mousse sobre a base.",
+    "Leve à geladeira por pelo menos 4 horas.",
+    "Decore com raspas de chocolate ou morangos."
+  ],
+  "tips": [
+    "Castanhas trituradas deixam a base mais crocante.",
+    "Incorpore as claras com espátula para manter a mousse aerada.",
+    "Ganache de chocolate pode substituir a decoração simples."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 25,
+  "structuredIngredients": [
+    {
+      "section": "Base",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "biscoito Oreo"
+        },
+        {
+          "qty": 50,
+          "unit": "g",
+          "name": "manteiga sem sal derretida"
+        }
+      ]
+    },
+    {
+      "section": "Mousse",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "chocolate meio amargo picado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "claras em neve"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Raspas de chocolate ou morangos",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Triture os biscoitos Oreo até formar farofa fina.",
+        "Misture com manteiga derretida e pressione no fundo de uma forma removível.",
+        "Leve a base à geladeira por 30 minutos.",
+        "Derreta o chocolate e misture com o creme de leite.",
+        "Incorpore as claras em neve delicadamente.",
+        "Despeje a mousse sobre a base.",
+        "Leve à geladeira por pelo menos 4 horas.",
+        "Decore com raspas de chocolate ou morangos."
+      ]
+    }
+  ]
+}

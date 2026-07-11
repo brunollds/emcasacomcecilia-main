@@ -1,0 +1,171 @@
+{
+  "id": 100,
+  "slug": "lasanha-a-bolonhesa",
+  "title": "Lasanha à Bolonhesa",
+  "description": "Clássico italiano com molho à bolonhesa, massa, mussarela e bechamel opcional.",
+  "intro": "A lasanha à bolonhesa é o ícone absoluto do almoço de domingo e da hospitalidade italiana. Camadas alternadas de massa macia, um ragu de carne rico e encorpado e a indulgência do queijo gratinado criam uma arquitetura de sabores que derrete na boca, transformando a mesa em um cenário de celebração familiar e conforto inigualável.",
+  "context": "Originária da região da Emília-Romanha, a 'lasagne alla bolognese' é um prato que exige tempo e dedicação, especialmente no apuro do molho de tomate com carne. É a receita multigeracional por excelência, onde o calor do forno unifica todos os ingredientes em uma travessa dourada que simboliza a generosidade e a alma da cozinha clássica italiana.",
+  "categories": [
+    "Massas",
+    "Italiana",
+    "Carnes",
+    "Almoço"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Massas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Italiana"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Carne Moída"
+  ],
+  "collections": [
+    "Receita Clássica",
+    "Comfort Food",
+    "Para Congelar"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "50 min",
+  "totalTime": "1h15",
+  "difficulty": "Médio",
+  "yield": "8 porções",
+  "isPopular": true,
+  "searchTerms": [
+    "lasanha à bolonhesa",
+    "lasanha",
+    "molho bolonhesa",
+    "carne moída",
+    "massa italiana"
+  ],
+  "tags": [
+    "lasanhaabolonhesa",
+    "carnemoida",
+    "molhobolonhesa",
+    "massas",
+    "italiana",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Lasanha",
+      "items": [
+        "500 g de massa para lasanha pré-cozida",
+        "500 g de carne moída",
+        "1 cebola grande picada",
+        "2 dentes de alho picados",
+        "2 colheres (sopa) de azeite",
+        "1 lata de tomate pelado picado",
+        "1 xícara de extrato de tomate",
+        "1 xícara de água",
+        "Sal, pimenta-do-reino, açúcar e orégano a gosto",
+        "250 g de queijo mussarela fatiado",
+        "Molho bechamel opcional"
+      ]
+    }
+  ],
+  "instructions": [
+    "Refogue cebola e alho no azeite.",
+    "Adicione a carne moída e doure bem.",
+    "Junte tomate pelado, extrato, água e temperos.",
+    "Cozinhe em fogo baixo por cerca de 30 minutos.",
+    "Monte camadas de molho, massa e queijo.",
+    "Finalize com queijo e bechamel, se usar.",
+    "Leve ao forno a 200°C por cerca de 20 minutos."
+  ],
+  "tips": [
+    "Cozinhe a massa antes se não for pré-cozida.",
+    "Vinho tinto deixa o molho mais intenso.",
+    "Sirva com salada verde."
+  ],
+  "servings": 8,
+  "servingsUnit": "porções",
+  "prepMinutes": 25,
+  "cookMinutes": 50,
+  "structuredIngredients": [
+    {
+      "section": "Lasanha",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "massa para lasanha pré-cozida"
+        },
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "carne moída"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola grande picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres (sopa) de azeite"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "tomate pelado picado"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "extrato de tomate"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "água"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino, açúcar e orégano",
+          "note": "a gosto"
+        },
+        {
+          "qty": 250,
+          "unit": "g",
+          "name": "queijo mussarela fatiado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Molho bechamel",
+          "note": "opcional"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Refogue cebola e alho no azeite.",
+        "Adicione a carne moída e doure bem.",
+        "Junte tomate pelado, extrato, água e temperos.",
+        "Cozinhe em fogo baixo por cerca de 30 minutos.",
+        "Monte camadas de molho, massa e queijo.",
+        "Finalize com queijo e bechamel, se usar.",
+        "Leve ao forno a 200°C por cerca de 20 minutos."
+      ]
+    }
+  ]
+}

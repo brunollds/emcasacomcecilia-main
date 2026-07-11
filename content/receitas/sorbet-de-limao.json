@@ -1,0 +1,119 @@
+{
+  "id": 144,
+  "slug": "sorbet-de-limao",
+  "title": "Sorbet de Limão",
+  "description": "Sorbet refrescante sem leite, feito com água, açúcar, suco de limão e raspas cítricas.",
+  "intro": "O sorbet de limão é the essência da refrescância em sua forma mais pura e leve. Sem o uso de lácteos, este preparo destaca the acidez vibrante e o aroma revigorante do limão natural, resultando em uma sobremesa gelada e cristalina que limpa o paladar e revitaliza o corpo, sendo the escolha perfeita para os dias mais quentes do ano.",
+  "context": "Diferente do sorvete tradicional, o sorbet valoriza the pureza da fruta e the leveza da calda de açúcar. É uma receita milenar que celebra the horta, onde the técnica de bater the mistura durante o congelamento garante os microcristais de gelo que conferem the textura característica, provando que the simplicidade da água e do limão pode criar um doce de extrema sofisticação.",
+  "categories": [
+    "Sobremesas",
+    "Sorvetes",
+    "Frutas",
+    "Sem Lactose"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Gelados"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "diet": [
+    "Vegana",
+    "Sem Lactose"
+  ],
+  "keyIngredients": [
+    "Limão"
+  ],
+  "collections": [
+    "Verão",
+    "Para Congelar"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "5 min",
+  "totalTime": "4 h 20 min",
+  "difficulty": "Fácil",
+  "yield": "6 porções",
+  "searchTerms": [
+    "sorbet de limão",
+    "sorvete sem lactose",
+    "limão",
+    "sobremesa refrescante"
+  ],
+  "tags": [
+    "sorbetdelimao",
+    "limao",
+    "semleite",
+    "refrescante",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Sorbet",
+      "items": [
+        "1 xícara de água",
+        "1 xícara de açúcar",
+        "1 xícara de suco de limão",
+        "Raspas de 1 limão"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture água e açúcar em uma panela.",
+    "Leve ao fogo baixo até o açúcar dissolver completamente.",
+    "Deixe a calda esfriar.",
+    "Misture suco de limão e raspas à calda.",
+    "Leve ao freezer por pelo menos 4 horas.",
+    "Retire alguns minutos antes de servir."
+  ],
+  "tips": [
+    "Bata a mistura no liquidificador antes de congelar para textura mais cremosa.",
+    "Laranja ou tangerina funcionam como variações cítricas.",
+    "Decore com hortelã, frutas frescas ou raspas de limão."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "cookMinutes": 5,
+  "structuredIngredients": [
+    {
+      "section": "Sorbet",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "água"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "suco de limão"
+        },
+        {
+          "qty": 1,
+          "unit": "un.",
+          "name": "limão",
+          "note": "raspas"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture água e açúcar em uma panela.",
+        "Leve ao fogo baixo até o açúcar dissolver completamente.",
+        "Deixe a calda esfriar.",
+        "Misture suco de limão e raspas à calda.",
+        "Leve ao freezer por pelo menos 4 horas.",
+        "Retire alguns minutos antes de servir."
+      ]
+    }
+  ]
+}

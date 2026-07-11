@@ -1,0 +1,118 @@
+{
+  "id": 65,
+  "slug": "trouxinha-de-cheddar-na-air-fryer",
+  "title": "Trouxinha de Cheddar na Air Fryer",
+  "description": "Petisco rápido de pão de forma recheado com cheddar e dourado na air fryer.",
+  "intro": "A trouxinha de cheddar na air fryer é o lanche de improviso que parece alta gastronomia. Utilizando pão de forma de maneira criativa, esta receita entrega um petisco de exterior dourado e crocante que esconde um coração de queijo cheddar derretido e intenso, perfeito para salvar aquele happy hour de última hora com máxima praticidade.",
+  "context": "Este preparo reflete a versatilidade da air fryer em ressignificar ingredientes simples do dia a dia. Ao temperar o leite com sal de ervas, elevamos a base do pão, provando que com técnica e o equipamento certo, podemos transformar itens básicos de despensa em um aperitivo sofisticado, versátil e irresistivelmente crocante.",
+  "categories": [
+    "Air Fryer",
+    "Salgados",
+    "Lanches",
+    "Petiscos"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Petiscos Quentes"
+  ],
+  "mealTime": [
+    "Happy Hour"
+  ],
+  "method": [
+    "Air Fryer"
+  ],
+  "keyIngredients": [
+    "Queijo"
+  ],
+  "collections": [
+    "Receitas em 30 min"
+  ],
+  "prepTime": "5 min",
+  "cookTime": "5 min",
+  "totalTime": "10 min",
+  "difficulty": "Fácil",
+  "yield": "4 unidades",
+  "isNew": true,
+  "searchTerms": [
+    "trouxinha de cheddar",
+    "air fryer",
+    "pão de forma",
+    "petisco rápido",
+    "lanche"
+  ],
+  "tags": [
+    "trouxinhadecheddar",
+    "petisconaairfryer",
+    "lanchegourmet",
+    "receitafacil",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Trouxinhas",
+      "items": [
+        "4 fatias de pão de forma sem casca",
+        "1/2 xícara de leite",
+        "1/4 colher (sopa) de sal de ervas",
+        "4 fatias de queijo cheddar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture o leite com o sal de ervas.",
+    "Molhe rapidamente cada fatia de pão no leite temperado.",
+    "Aperte suavemente para tirar o excesso sem rasgar.",
+    "Coloque uma fatia de cheddar no centro.",
+    "Dobre as pontas do pão formando uma trouxinha.",
+    "Leve à air fryer a 200°C por 5 minutos, virando na metade do tempo."
+  ],
+  "tips": [
+    "Molhe o pão rapidamente para não encharcar.",
+    "Pincele manteiga derretida antes de assar para dourar mais.",
+    "Varie o recheio com mussarela, tomate seco, ricota temperada ou chocolate com banana."
+  ],
+  "servings": 4,
+  "servingsUnit": "unidades",
+  "prepMinutes": 5,
+  "cookMinutes": 5,
+  "structuredIngredients": [
+    {
+      "section": "Trouxinhas",
+      "items": [
+        {
+          "qty": 4,
+          "unit": "fatia",
+          "name": "pão de forma sem casca"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "leite"
+        },
+        {
+          "qty": 0.25,
+          "unit": "",
+          "name": "colher (sopa) de sal de ervas"
+        },
+        {
+          "qty": 4,
+          "unit": "fatia",
+          "name": "queijo cheddar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture o leite com o sal de ervas.",
+        "Molhe rapidamente cada fatia de pão no leite temperado.",
+        "Aperte suavemente para tirar o excesso sem rasgar.",
+        "Coloque uma fatia de cheddar no centro.",
+        "Dobre as pontas do pão formando uma trouxinha.",
+        "Leve à air fryer a 200°C por 5 minutos, virando na metade do tempo."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": 156,
+  "slug": "torta-mosaico-de-pascoa",
+  "title": "Torta Mosaico de Páscoa",
+  "description": "Torta gelada colorida com base de biscoito, camadas de limão, maracujá, coco e decoração de Páscoa.",
+  "intro": "A torta mosaico de Páscoa é um festival de cores e sabores cítricos em uma apresentação deslumbrante e gelada. Com camadas que alternam o limão, o maracujá e o coco sobre uma base crocante, cada fatia revela um desenho geométrico vibrante que é the síntese da alegria e do frescor para the sobremesa do domingo pascoal.",
+  "context": "Inspirada nas clássicas gelatinas coloridas, esta versão eleva o mosaico ao nível de torta de prestígio. A técnica de alternar os cremes e garantir o resfriamento correto permite que os sabores não se misturem, preservando the identidade de cada fruta tropical e celebrando the biodiversidade brasileira em uma sobremesa sofisticada e refrescante.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Tortas",
+    "Doces Gelados"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Tortas Doces"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "0 min",
+  "totalTime": "4 h 35 min",
+  "difficulty": "Médio",
+  "yield": "10 porções",
+  "searchTerms": [
+    "torta mosaico",
+    "Páscoa",
+    "torta gelada",
+    "limão",
+    "maracujá",
+    "coco"
+  ],
+  "tags": [
+    "tortamosaico",
+    "pascoacriativa",
+    "sobremesagelada",
+    "torta",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Base e camadas",
+      "items": [
+        "200 g de biscoitos maisena triturados",
+        "100 g de manteiga derretida",
+        "1 lata de leite condensado",
+        "1 caixa de creme de leite",
+        "Suco de 2 limões",
+        "Polpa de 2 maracujás",
+        "100 g de coco ralado",
+        "Corante alimentício rosa, amarelo e verde opcional",
+        "Raspas de chocolate, mini ovos ou confeitos para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture biscoito triturado e manteiga e pressione no fundo de uma forma.",
+    "Leve à geladeira por 30 minutos.",
+    "Divida leite condensado e creme de leite em porções.",
+    "Misture uma porção com limão, outra com maracujá, outra com coco e outra com corante.",
+    "Despeje as camadas alternadamente sobre a base para formar o mosaico.",
+    "Leve ao freezer por pelo menos 4 horas.",
+    "Corte em cubos irregulares e decore com chocolate e confeitos."
+  ],
+  "tips": [
+    "Chocolate, doce de leite ou frutas frescas podem criar novas camadas.",
+    "Hortelã ou flores comestíveis elevam a apresentação.",
+    "Também pode ser montada em potes individuais."
+  ],
+  "servings": 10,
+  "servingsUnit": "porções",
+  "prepMinutes": 35,
+  "structuredIngredients": [
+    {
+      "section": "Base e camadas",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "biscoitos maisena triturados"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga derretida"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "caixa",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 2,
+          "unit": "un.",
+          "name": "limões",
+          "note": "suco"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Polpa de 2 maracujás"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "coco ralado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Corante alimentício rosa, amarelo e verde",
+          "note": "opcional"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Raspas de chocolate, mini ovos ou confeitos",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture biscoito triturado e manteiga e pressione no fundo de uma forma.",
+        "Leve à geladeira por 30 minutos.",
+        "Divida leite condensado e creme de leite em porções.",
+        "Misture uma porção com limão, outra com maracujá, outra com coco e outra com corante.",
+        "Despeje as camadas alternadamente sobre a base para formar o mosaico.",
+        "Leve ao freezer por pelo menos 4 horas.",
+        "Corte em cubos irregulares e decore com chocolate e confeitos."
+      ]
+    }
+  ]
+}

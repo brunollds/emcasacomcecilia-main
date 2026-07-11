@@ -1,0 +1,117 @@
+{
+  "id": 185,
+  "slug": "pipoca-doce-no-micro-ondas",
+  "title": "Pipoca Doce no Micro-ondas",
+  "description": "Pipoca doce rápida para sessão cinema em casa, feita com milho, óleo e açúcar.",
+  "intro": "A pipoca doce no micro-ondas é the solução mágica para transformar qualquer sessão de cinema em casa em um momento de pura diversão. Com the cor dourada do caramelo recém-feito e the crocância que todos amam, esta receita é the prova de que the praticidade pode ser extremamente deliciosa, ficando pronta em poucos minutos e sem sujeira.",
+  "context": "Praticidade absoluta é o lema desta receita que desmistifica o preparo da pipoca doce. O segredo reside no controle do tempo de micro-ondas para garantir que o açúcar caramelize sem queimar, celebrando the cozinha dinâmica que valoriza o conforto e o prazer imediato através de técnicas simples e eficientes.",
+  "categories": [
+    "Lanches",
+    "Doces",
+    "Micro-ondas",
+    "Petiscos"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Petiscos Quentes"
+  ],
+  "mealTime": [
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Micro-ondas"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "keyIngredients": [
+    "Milho"
+  ],
+  "collections": [
+    "Receitas em 30 min",
+    "Para Crianças",
+    "Econômica",
+    "Poucos Ingredientes"
+  ],
+  "prepTime": "2 min",
+  "cookTime": "5 min",
+  "totalTime": "7 min",
+  "difficulty": "Fácil",
+  "yield": "2 porções",
+  "searchTerms": [
+    "pipoca doce",
+    "micro-ondas",
+    "sessão cinema",
+    "caramelo rápido"
+  ],
+  "tags": [
+    "pipocadoce",
+    "microondas",
+    "receitafacil",
+    "cozinhapratica",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Pipoca",
+      "items": [
+        "1/2 xícara de milho de pipoca",
+        "2 colheres de sopa de óleo vegetal",
+        "4 colheres de sopa de açúcar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Em recipiente próprio para micro-ondas, misture o milho com o óleo.",
+    "Espalhe o açúcar por cima do milho.",
+    "Leve ao micro-ondas em potência alta por 3 a 5 minutos.",
+    "Desligue quando o intervalo entre os estouros aumentar.",
+    "Retire com cuidado e transfira para uma tigela."
+  ],
+  "tips": [
+    "Use recipiente grande para a pipoca ter espaço para estourar.",
+    "Não abra o micro-ondas enquanto os grãos estiverem estourando.",
+    "Finalize com canela, chocolate em pó ou coco ralado."
+  ],
+  "servings": 2,
+  "servingsUnit": "porções",
+  "prepMinutes": 2,
+  "cookMinutes": 5,
+  "structuredIngredients": [
+    {
+      "section": "Pipoca",
+      "items": [
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "milho de pipoca"
+        },
+        {
+          "qty": 2,
+          "unit": "col. sopa",
+          "name": "óleo vegetal"
+        },
+        {
+          "qty": 4,
+          "unit": "col. sopa",
+          "name": "açúcar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Em recipiente próprio para micro-ondas, misture o milho com o óleo.",
+        "Espalhe o açúcar por cima do milho.",
+        "Leve ao micro-ondas em potência alta por 3 a 5 minutos.",
+        "Desligue quando o intervalo entre os estouros aumentar.",
+        "Retire com cuidado e transfira para uma tigela."
+      ]
+    }
+  ]
+}

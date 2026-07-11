@@ -1,0 +1,138 @@
+{
+  "id": 1,
+  "slug": "bolo-de-cenoura-com-cobertura-de-chocolate",
+  "title": "Bolo de Cenoura com Cobertura de Chocolate",
+  "description": "Bolo de cenoura fofinho de liquidificador com cobertura de chocolate cremosa, perfeito para café da tarde.",
+  "image": "/images/recipes/bolos/bolo-de-cenoura-com-cobertura-de-chocolate.jpg",
+  "imageAlt": "Bolo de cenoura com cobertura de chocolate servido em prato claro.",
+  "categories": [
+    "Doces",
+    "Bolos Caseiros",
+    "Brasileira"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Bolos"
+  ],
+  "mealTime": [
+    "Café da Manhã",
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate",
+    "Cenoura"
+  ],
+  "collections": [
+    "Receita Clássica",
+    "Receita de Vó"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "30 min",
+  "totalTime": "45 min",
+  "difficulty": "Fácil",
+  "yield": "12 fatias",
+  "servings": 12,
+  "servingsUnit": "fatias",
+  "prepMinutes": 15,
+  "cookMinutes": 30,
+  "youtubeUrl": "https://youtube.com/@emcasacomcecilia",
+  "isPopular": true,
+  "searchTerms": [
+    "bolo de cenoura",
+    "cobertura de chocolate",
+    "bolo fofinho",
+    "liquidificador",
+    "café da tarde"
+  ],
+  "tags": [
+    "bolodecenoura",
+    "coberturadechocolate",
+    "bolocaseiro",
+    "cafedatarde",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "3 cenouras médias descascadas e picadas",
+        "4 ovos",
+        "1 xícara (chá) de óleo",
+        "2 xícaras (chá) de açúcar",
+        "2 e 1/2 xícaras (chá) de farinha de trigo",
+        "1 colher (sopa) de fermento em pó"
+      ]
+    }
+  ],
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "cenouras médias descascadas e picadas"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc. (chá)",
+          "name": "óleo"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc. (chá)",
+          "name": "açúcar"
+        },
+        {
+          "qty": 2.5,
+          "unit": "xíc. (chá)",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "col. sopa",
+          "name": "fermento em pó"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    "Bata no liquidificador as cenouras, os ovos, o óleo e o açúcar até ficar liso.",
+    "Transfira para uma tigela e incorpore a farinha aos poucos, sem bater demais.",
+    "Misture o fermento por último.",
+    "Despeje em forma untada e asse a 180°C por cerca de 35 a 40 minutos.",
+    "Cubra com calda de chocolate ainda morna."
+  ],
+  "instructionGroups": [
+    {
+      "section": "Massa",
+      "steps": [
+        "Bata no liquidificador as cenouras, os ovos, o óleo e o açúcar até ficar liso.",
+        "Transfira para uma tigela e incorpore a farinha aos poucos, sem bater demais.",
+        "Misture o fermento por último.",
+        "Despeje em forma untada e asse a 180°C por cerca de 35 a 40 minutos."
+      ]
+    },
+    {
+      "section": "Finalização",
+      "steps": [
+        "Cubra com calda de chocolate ainda morna."
+      ]
+    }
+  ],
+  "tips": [
+    "Não exagere na cenoura para o bolo não embatumar.",
+    "Peneire a farinha para deixar a massa mais leve."
+  ]
+}

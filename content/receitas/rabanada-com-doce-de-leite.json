@@ -1,0 +1,201 @@
+{
+  "id": 216,
+  "slug": "rabanada-com-doce-de-leite",
+  "title": "Rabanada com Doce de Leite",
+  "description": "Rabanadas recheadas com doce de leite, empanadas em leite condensado e finalizadas com açúcar e canela.",
+  "intro": "A rabanada com doce de leite transforma o clássico das festas de fim de ano em uma sobremesa ainda mais cremosa e indulgente. O pão amanhecido ganha recheio generoso, passa por uma mistura doce de leite condensado e fica dourado por fora, macio por dentro e perfumado com açúcar e canela.",
+  "context": "A rabanada nasceu como receita de aproveitamento: pão velho, leite, ovos e calor viravam um doce especial. Nesta versão brasileira, o doce de leite entra como recheio afetivo e reforça a vocação da receita para mesas de Natal, cafés demorados e sobremesas servidas ainda mornas.",
+  "image": "/images/recipes/sobremesas/rabanada-com-doce-de-leite.avif",
+  "imageAlt": "Rabanadas servidas em um prato com açúcar e canela.",
+  "categories": [
+    "Sobremesas",
+    "Doces",
+    "Festas",
+    "Natal"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pudins & Cremes"
+  ],
+  "mealTime": [
+    "Lanche da Tarde",
+    "Ceia"
+  ],
+  "cuisine": [
+    "Brasileira",
+    "Portuguesa"
+  ],
+  "method": [
+    "Fritura",
+    "Fogão"
+  ],
+  "keyIngredients": [
+    "Leite Condensado",
+    "Ovos"
+  ],
+  "collections": [
+    "Natal",
+    "Festas de Fim de Ano",
+    "Receita de Vó",
+    "Comfort Food"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "20 min",
+  "totalTime": "40 min",
+  "difficulty": "Fácil",
+  "yield": "8 porções",
+  "servings": 8,
+  "servingsUnit": "porções",
+  "prepMinutes": 20,
+  "cookMinutes": 20,
+  "youtubeUrl": "https://youtu.be/DSH6TZyiMms?si=kchxcuEg9MF7B2bG",
+  "searchTerms": [
+    "rabanada com doce de leite",
+    "rabanada recheada",
+    "rabanada de natal",
+    "doce de leite",
+    "açúcar e canela"
+  ],
+  "tags": [
+    "rabanada",
+    "docedeleite",
+    "natal",
+    "sobremesafacil",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Rabanada",
+      "items": [
+        "1 pão francês amanhecido, de preferência do dia anterior",
+        "1 lata de leite condensado (395 g)",
+        "1 xícara de leite integral",
+        "2 ovos",
+        "Óleo para fritar",
+        "Açúcar e canela para polvilhar"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "1 lata de doce de leite pastoso",
+        "1 colher de sopa de creme de leite, opcional, para deixar o recheio mais cremoso"
+      ]
+    }
+  ],
+  "structuredIngredients": [
+    {
+      "section": "Rabanada",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "pão francês amanhecido, de preferência do dia anterior"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado",
+          "note": "395 g"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "leite integral"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "óleo",
+          "note": "para fritar"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "açúcar e canela",
+          "note": "para polvilhar"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "doce de leite pastoso"
+        },
+        {
+          "qty": 1,
+          "unit": "col. sopa",
+          "name": "creme de leite",
+          "note": "opcional, para deixar o recheio mais cremoso"
+        }
+      ]
+    }
+  ],
+  "instructions": [
+    "Corte o pão em fatias de aproximadamente 2,5 cm de espessura.",
+    "Faça um corte horizontal no centro de cada fatia, criando uma bolsa para o recheio e mantendo um dos lados fechado.",
+    "Bata os ovos com um garfo em uma tigela.",
+    "Em outra tigela funda, misture o leite condensado com o leite integral até ficar homogêneo.",
+    "Se quiser um recheio mais cremoso, misture o doce de leite com o creme de leite.",
+    "Coloque o doce de leite em um saco de confeiteiro ou saco plástico com pequeno corte na ponta.",
+    "Recheie cada fatia de pão delicadamente, sem exagerar para não vazar.",
+    "Mergulhe rapidamente cada fatia recheada na mistura de leite condensado, por 2 a 3 segundos.",
+    "Passe no ovo batido, cobrindo toda a superfície.",
+    "Aqueça o óleo em temperatura média, cerca de 180°C.",
+    "Frite poucas unidades por vez até ficarem bem douradas.",
+    "Escorra em papel toalha para retirar o excesso de óleo.",
+    "Finalize polvilhando açúcar e canela e sirva ainda morna."
+  ],
+  "instructionGroups": [
+    {
+      "section": "Preparação do pão",
+      "steps": [
+        "Corte o pão em fatias de aproximadamente 2,5 cm de espessura.",
+        "Faça um corte horizontal no centro de cada fatia, criando uma bolsa para o recheio e mantendo um dos lados fechado."
+      ]
+    },
+    {
+      "section": "Mistura para empanar",
+      "steps": [
+        "Bata os ovos com um garfo em uma tigela.",
+        "Em outra tigela funda, misture o leite condensado com o leite integral até ficar homogêneo."
+      ]
+    },
+    {
+      "section": "Recheio",
+      "steps": [
+        "Se quiser um recheio mais cremoso, misture o doce de leite com o creme de leite.",
+        "Coloque o doce de leite em um saco de confeiteiro ou saco plástico com pequeno corte na ponta.",
+        "Recheie cada fatia de pão delicadamente, sem exagerar para não vazar."
+      ]
+    },
+    {
+      "section": "Preparo final",
+      "steps": [
+        "Mergulhe rapidamente cada fatia recheada na mistura de leite condensado, por 2 a 3 segundos.",
+        "Passe no ovo batido, cobrindo toda a superfície.",
+        "Aqueça o óleo em temperatura média, cerca de 180°C.",
+        "Frite poucas unidades por vez até ficarem bem douradas.",
+        "Escorra em papel toalha para retirar o excesso de óleo.",
+        "Finalize polvilhando açúcar e canela e sirva ainda morna."
+      ]
+    }
+  ],
+  "tips": [
+    "Como a mistura leva leite condensado, você pode reduzir ou omitir o açúcar da cobertura.",
+    "Teste a temperatura do óleo com um pequeno pedaço de pão antes de fritar as rabanadas.",
+    "Não deixe o pão muito tempo na mistura de leite condensado para evitar que desmanche.",
+    "Nutella, goiabada cremosa, creme de confeiteiro, geleia de frutas vermelhas ou chocolate meio amargo podem substituir o doce de leite.",
+    "Consuma no mesmo dia ou mantenha na geladeira por até 24 horas e aqueça levemente no forno antes de servir.",
+    "Sirva com café forte sem açúcar, cappuccino, vinho do Porto branco ou espumante demi-sec.",
+    "Se sobrar mistura de leite condensado, ela pode virar base para um pudim de leite condensado."
+  ]
+}

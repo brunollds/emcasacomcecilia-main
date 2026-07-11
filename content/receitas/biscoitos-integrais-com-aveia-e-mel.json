@@ -1,0 +1,141 @@
+{
+  "id": 189,
+  "slug": "biscoitos-integrais-com-aveia-e-mel",
+  "title": "Biscoitos Integrais com Aveia e Mel",
+  "description": "Biscoitos caseiros com farinha integral, aveia, mel e canela para um lanche equilibrado.",
+  "intro": "Estes biscoitos integrais são the escolha inteligente para quem busca um lanche nutritivo, crocante e extremamente aromático. A união da farinha integral com the textura rústica da aveia e the doçura natural do mel e da canela oferece saciedade e sabor, sendo o par perfeito para uma pausa consciente e revigorante no dia a dia.",
+  "context": "Focada na densidade nutricional, esta receita valoriza o uso de ingredientes integrais que liberam energia de forma lenta. É the celebração do biscoito caseiro funcional, onde o mel substitui parte do açúcar refinado, provando que the culinária saudável pode ser rica em texturas e perfumes que satisfazem o paladar de forma equilibrada e elegante.",
+  "categories": [
+    "Saudáveis",
+    "Biscoitos",
+    "Lanches",
+    "Integrais"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Biscoitos & Cookies"
+  ],
+  "mealTime": [
+    "Café da Manhã",
+    "Lanche da Tarde"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "diet": [
+    "Fit"
+  ],
+  "collections": [
+    "Para Congelar"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "20 min",
+  "totalTime": "35 min",
+  "difficulty": "Fácil",
+  "yield": "25 unidades",
+  "searchTerms": [
+    "biscoitos integrais",
+    "aveia e mel",
+    "lanche saudável",
+    "biscoito caseiro"
+  ],
+  "tags": [
+    "biscoitosintegrais",
+    "aveia",
+    "mel",
+    "lanchesaudavel",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 xícara de farinha de trigo integral",
+        "1/2 xícara de aveia em flocos",
+        "1/2 xícara de açúcar mascavo",
+        "1/2 xícara de manteiga sem sal em temperatura ambiente",
+        "1 ovo",
+        "1/4 xícara de mel",
+        "1 colher de chá de canela em pó",
+        "1/2 colher de chá de fermento em pó"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture farinha integral, aveia, açúcar mascavo, manteiga, ovo, mel, canela e fermento.",
+    "Mexa até obter massa homogênea.",
+    "Modele bolinhas e coloque em assadeira untada e enfarinhada.",
+    "Deixe espaço entre os biscoitos.",
+    "Asse a 180°C por 15 a 20 minutos, até dourar.",
+    "Deixe esfriar em grade antes de servir."
+  ],
+  "tips": [
+    "Adicione 1 colher de sopa de leite se quiser textura mais macia.",
+    "Frutas secas, castanhas ou nozes combinam bem com a massa.",
+    "Sirva com café, chá ou leite."
+  ],
+  "servings": 25,
+  "servingsUnit": "unidades",
+  "prepMinutes": 15,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "farinha de trigo integral"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "aveia em flocos"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "açúcar mascavo"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "manteiga sem sal em temperatura ambiente"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "mel"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "canela em pó"
+        },
+        {
+          "qty": 0.5,
+          "unit": "col. chá",
+          "name": "fermento em pó"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture farinha integral, aveia, açúcar mascavo, manteiga, ovo, mel, canela e fermento.",
+        "Mexa até obter massa homogênea.",
+        "Modele bolinhas e coloque em assadeira untada e enfarinhada.",
+        "Deixe espaço entre os biscoitos.",
+        "Asse a 180°C por 15 a 20 minutos, até dourar.",
+        "Deixe esfriar em grade antes de servir."
+      ]
+    }
+  ]
+}

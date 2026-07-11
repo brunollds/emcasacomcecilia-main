@@ -1,0 +1,142 @@
+{
+  "id": 36,
+  "slug": "bolo-de-banana-caramelizada-com-nozes",
+  "title": "Bolo de Banana Caramelizada com Nozes",
+  "description": "Um bolo perfumado com banana caramelizada, massa macia e crocância de nozes.",
+  "intro": "Este bolo de banana caramelizada é um abraço em forma de sobremesa. A combinação da massa úmida e perfumada com a cobertura dourada de bananas caramelizadas e a crocância das nozes cria camadas de texturas e sabores que evocam as melhores lembranças de bolos caseiros feitos com calma e carinho.",
+  "context": "Inspirado no clássico 'banana bread' norte-americano, esta versão brasileira adiciona a técnica do caramelo invertido, muito comum em tortas e pudins tradicionais. É a receita perfeita para aproveitar bananas bem maduras, transformando ingredientes simples em um bolo sofisticado para o café da tarde ou uma recepção especial.",
+  "image": "/images/recipes/bolos/bolo-de-banana-caramelizada-com-nozes.jpg",
+  "imageAlt": "Bolo de banana caramelizada com nozes servido em prato de cerâmica.",
+  "categories": [
+    "Americana",
+    "Doces",
+    "Bolos Caseiros",
+    "Café da Manhã"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Bolos"
+  ],
+  "mealTime": [
+    "Café da Manhã",
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Banana"
+  ],
+  "collections": [
+    "Comfort Food",
+    "Receita de Vó"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "40 min",
+  "totalTime": "1h",
+  "difficulty": "Fácil",
+  "yield": "10 fatias",
+  "isNew": true,
+  "searchTerms": [
+    "bolo de banana",
+    "banana caramelizada",
+    "banana bread",
+    "nozes",
+    "bolo caseiro",
+    "caramelo"
+  ],
+  "tags": [
+    "bolodebanana",
+    "bananacaramelizada",
+    "nozes",
+    "bolocaseiro",
+    "americana",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa e caramelo",
+      "items": [
+        "3 bananas nanicas maduras",
+        "1 xícara de açúcar",
+        "1/2 xícara de óleo vegetal",
+        "3 ovos",
+        "2 xícaras de farinha de trigo",
+        "1 colher (sopa) de fermento em pó",
+        "1/2 xícara de nozes picadas"
+      ]
+    }
+  ],
+  "instructions": [
+    "Caramelize o açúcar e espalhe em uma forma com furo central.",
+    "Corte parte das bananas em rodelas e coloque sobre o caramelo.",
+    "No liquidificador, bata os ovos, o óleo e as bananas restantes.",
+    "Despeje em uma tigela, misture a farinha e, por último, incorpore o fermento e as nozes.",
+    "Asse a 180°C por cerca de 40 minutos e desenforme ainda morno."
+  ],
+  "tips": [
+    "Use bananas bem maduras, com pintinhas pretas, para um sabor mais doce e intenso.",
+    "Sirva morno com uma bola de sorvete de creme."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 20,
+  "cookMinutes": 40,
+  "structuredIngredients": [
+    {
+      "section": "Massa e caramelo",
+      "items": [
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "bananas nanicas maduras"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "óleo vegetal"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de fermento em pó"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "nozes picadas"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Caramelize o açúcar e espalhe em uma forma com furo central.",
+        "Corte parte das bananas em rodelas e coloque sobre o caramelo.",
+        "No liquidificador, bata os ovos, o óleo e as bananas restantes.",
+        "Despeje em uma tigela, misture a farinha e, por último, incorpore o fermento e as nozes.",
+        "Asse a 180°C por cerca de 40 minutos e desenforme ainda morno."
+      ]
+    }
+  ]
+}

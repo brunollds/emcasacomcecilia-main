@@ -1,0 +1,147 @@
+{
+  "id": 199,
+  "slug": "torta-de-chocolate-com-morango",
+  "title": "Torta de Chocolate com Morango",
+  "description": "Torta gelada com base de biscoito de chocolate, creme intenso e morangos frescos.",
+  "intro": "A torta de chocolate com morango é the celebração definitiva da elegância e do prazer. Unindo um recheio de chocolate meio amargo denso e rico ao frescor suculento dos morangos inteiros, ela oferece um contraste visual e de sabor que é puro luxo, sendo the escolha irresistível para festas e momentos que pedem uma indulgência inesquecível.",
+  "context": "Esta combinação é um clássico mundial que nunca sai de moda por sua harmonia absoluta. A receita destaca the importância de utilizar frutas frescas e chocolate de alta qualidade para garantir the profundidade do sabor, celebrando the sofisticação de uma sobremesa que une o amargor do cacau à doçura frutada em uma apresentação digna das melhores vitrines.",
+  "image": "/images/recipes/sobremesas/torta-de-chocolate-com-morango.jpg",
+  "imageAlt": "Torta de chocolate com morangos frescos por cima.",
+  "categories": [
+    "Sobremesas",
+    "Tortas",
+    "Chocolate",
+    "Frutas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Tortas Doces"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate",
+    "Morango"
+  ],
+  "collections": [
+    "Para Dois"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "10 min",
+  "totalTime": "4 h 35 min",
+  "difficulty": "Fácil",
+  "yield": "10 fatias",
+  "searchTerms": [
+    "torta de chocolate",
+    "morango",
+    "chocolate meio amargo",
+    "sobremesa gelada"
+  ],
+  "tags": [
+    "tortadechocolate",
+    "morango",
+    "sobremesa",
+    "chocolate",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Base",
+      "items": [
+        "1 pacote de biscoito de chocolate",
+        "100 g de manteiga sem sal derretida"
+      ]
+    },
+    {
+      "section": "Recheio e cobertura",
+      "items": [
+        "1 lata de leite condensado",
+        "1 caixa de creme de leite",
+        "200 g de chocolate meio amargo picado",
+        "1 caixa de morangos frescos",
+        "Chantilly a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Triture os biscoitos até formar farofa fina.",
+    "Misture com a manteiga derretida e pressione no fundo de uma forma removível.",
+    "Leve a base à geladeira por 30 minutos.",
+    "Cozinhe leite condensado, creme de leite e chocolate em fogo baixo até formar creme homogêneo.",
+    "Despeje o recheio sobre a base.",
+    "Leve à geladeira por pelo menos 4 horas.",
+    "Decore com morangos fatiados e chantilly."
+  ],
+  "tips": [
+    "Castanhas trituradas deixam a base mais crocante.",
+    "Use chocolate 70% para sabor mais intenso.",
+    "Ganache pode substituir o chantilly na cobertura."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 25,
+  "cookMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Base",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "biscoito de chocolate"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga sem sal derretida"
+        }
+      ]
+    },
+    {
+      "section": "Recheio e cobertura",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "caixa",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "chocolate meio amargo picado"
+        },
+        {
+          "qty": 1,
+          "unit": "caixa",
+          "name": "morangos frescos"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Chantilly",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Triture os biscoitos até formar farofa fina.",
+        "Misture com a manteiga derretida e pressione no fundo de uma forma removível.",
+        "Leve a base à geladeira por 30 minutos.",
+        "Cozinhe leite condensado, creme de leite e chocolate em fogo baixo até formar creme homogêneo.",
+        "Despeje o recheio sobre a base.",
+        "Leve à geladeira por pelo menos 4 horas.",
+        "Decore com morangos fatiados e chantilly."
+      ]
+    }
+  ]
+}

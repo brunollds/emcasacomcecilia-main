@@ -1,0 +1,120 @@
+{
+  "id": 168,
+  "slug": "trufas-de-chocolate-com-pistache-e-framboesa",
+  "title": "Trufas de Chocolate com Pistache e Framboesa",
+  "description": "Trufas gourmet com ganache de chocolate meio amargo, purê de framboesa e cobertura de pistache.",
+  "intro": "Estas trufas gourmet são the expressão máxima da sofisticação pascoal em pequenas mordidas. A ganache de chocolate meio amargo, elevada pelo purê ácido de framboesa e the crocância amanteigada do pistache, cria um equilíbrio de sabores complexos que derretem na boca, sendo the escolha definitiva para encerrar um jantar de Páscoa com requinte.",
+  "context": "Inspiradas na alta chocolateria europeia, estas trufas destacam the harmonia entre o chocolate intenso e as notas frutais e oleaginosas. O segredo está no frescor do purê de framboesa que corta the doçura, celebrando the maestria técnica de fundir ingredientes nobres em unidades artesanais de puro prazer e prestígio gastronômico.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Docinhos",
+    "Chocolate"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Docinhos"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "30 min",
+  "cookTime": "5 min",
+  "totalTime": "2 h 35 min",
+  "difficulty": "Fácil",
+  "yield": "20 unidades",
+  "searchTerms": [
+    "trufas de chocolate",
+    "pistache",
+    "framboesa",
+    "ganache",
+    "Páscoa gourmet"
+  ],
+  "tags": [
+    "trufasdechocolate",
+    "pistache",
+    "framboesa",
+    "pascoagourmet",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Trufas",
+      "items": [
+        "200 g de chocolate meio amargo",
+        "100 ml de creme de leite",
+        "1 colher de sopa de manteiga",
+        "2 colheres de sopa de purê ou calda de framboesa",
+        "1/4 xícara de pistache triturado"
+      ]
+    }
+  ],
+  "instructions": [
+    "Aqueça creme de leite e manteiga até quase ferver.",
+    "Despeje sobre o chocolate picado e misture até formar ganache lisa.",
+    "Incorpore o purê de framboesa.",
+    "Leve à geladeira por cerca de 2 horas.",
+    "Modele bolinhas e passe no pistache triturado.",
+    "Finalize com calda de framboesa se desejar."
+  ],
+  "tips": [
+    "Framboesa fresca picada adiciona acidez ao recheio.",
+    "Mantenha refrigerado até servir.",
+    "Pistache extra deixa a cobertura mais crocante."
+  ],
+  "servings": 20,
+  "servingsUnit": "unidades",
+  "prepMinutes": 30,
+  "cookMinutes": 5,
+  "structuredIngredients": [
+    {
+      "section": "Trufas",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "chocolate meio amargo"
+        },
+        {
+          "qty": 100,
+          "unit": "ml",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de sopa de manteiga"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres de sopa de purê ou calda de framboesa"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "pistache triturado"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Aqueça creme de leite e manteiga até quase ferver.",
+        "Despeje sobre o chocolate picado e misture até formar ganache lisa.",
+        "Incorpore o purê de framboesa.",
+        "Leve à geladeira por cerca de 2 horas.",
+        "Modele bolinhas e passe no pistache triturado.",
+        "Finalize com calda de framboesa se desejar."
+      ]
+    }
+  ]
+}

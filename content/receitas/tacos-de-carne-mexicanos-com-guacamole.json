@@ -1,0 +1,119 @@
+{
+  "id": 28,
+  "slug": "tacos-de-carne-mexicanos-com-guacamole",
+  "title": "Tacos de Carne",
+  "description": "Tortillas recheadas com carne bem temperada, guacamole fresco e finalização prática para montar à mesa.",
+  "intro": "Os tacos de carne são a expressão máxima da comida vibrante e social do México. Combinando a crocância das tortillas com uma carne moída intensamente temperada e o frescor cremoso do guacamole, este prato oferece uma explosão de texturas e sabores cítricos que transformam o jantar em uma experiência festiva e interativa.",
+  "context": "Mais do que uma refeição, os tacos representam um estilo de vida focado na montagem personalizada e no compartilhamento. Esta receita valoriza os temperos clássicos como cominho e páprica, permitindo que cada pessoa crie sua combinação perfeita de calor, acidez e frescor diretamente à mesa.",
+  "image": "/images/recipes/carnes/tacos-de-carne-mexicanos-com-guacamole.jpg",
+  "imageAlt": "Tacos de carne mexicanos com guacamole e acompanhamentos frescos.",
+  "categories": [
+    "Mexicana",
+    "Carnes",
+    "Lanches"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Carne Vermelha"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Mexicana"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "keyIngredients": [
+    "Carne Moída"
+  ],
+  "collections": [
+    "Comfort Food"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "15 min",
+  "totalTime": "35 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "isPopular": true,
+  "searchTerms": [
+    "tacos de carne",
+    "taco mexicano",
+    "guacamole",
+    "tortilla",
+    "carne moída temperada"
+  ],
+  "tags": [
+    "tacos",
+    "mexicana",
+    "guacamole",
+    "carne",
+    "jantarrapido",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Base",
+      "items": [
+        "Tortillas de milho ou trigo",
+        "Carne moída",
+        "Guacamole",
+        "Sour cream"
+      ]
+    }
+  ],
+  "instructions": [
+    "Refogue a carne até dourar e tempere com páprica, cominho, sal e pimenta.",
+    "Aqueça as tortillas rapidamente para ficarem maleáveis.",
+    "Monte os tacos com carne, guacamole e sour cream.",
+    "Sirva imediatamente, com limão e ervas frescas se desejar."
+  ],
+  "tips": [
+    "Deixe os recheios separados para cada pessoa montar o próprio taco.",
+    "Tortillas aquecidas em frigideira ficam mais flexíveis e saborosas."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 20,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Base",
+      "items": [
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Tortillas de milho ou trigo"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Carne moída"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Guacamole"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sour cream"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Refogue a carne até dourar e tempere com páprica, cominho, sal e pimenta.",
+        "Aqueça as tortillas rapidamente para ficarem maleáveis.",
+        "Monte os tacos com carne, guacamole e sour cream.",
+        "Sirva imediatamente, com limão e ervas frescas se desejar."
+      ]
+    }
+  ]
+}

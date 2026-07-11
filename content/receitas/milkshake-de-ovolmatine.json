@@ -1,0 +1,125 @@
+{
+  "id": 151,
+  "slug": "milkshake-de-ovolmatine",
+  "title": "Milkshake de Ovolmatine",
+  "description": "Milkshake cremoso com leite, sorvete, Ovolmatine, gelo e cobertura opcional.",
+  "intro": "O milkshake de Ovolmatine é the celebração gelada e crocante que transforma qualquer momento em uma festa maltada. Unindo the cremosidade do sorvete de baunilha à potência do malte e ao 'crac' irresistível dos flocos, esta bebida é the escolha definitiva para quem busca uma indulgência refrescante e cheia de personalidade.",
+  "context": "Popularizado pelas lanchonetes americanas e reinventado com the paixão brasileira pelo malte, o milkshake de Ovolmatine é um clássico moderno. O segredo da textura perfeita está no equilíbrio entre o leite bem gelado e the quantidade generosa de Ovolmatine, celebrando the nostalgia das 'soda shops' com um toque contemporâneo e extremamente amado.",
+  "categories": [
+    "Bebidas",
+    "Sobremesas",
+    "Ovolmatine",
+    "Doces Gelados"
+  ],
+  "primaryCategory": "Bebida",
+  "subCategory": [
+    "Shakes"
+  ],
+  "mealTime": [
+    "Lanche da Tarde"
+  ],
+  "method": [
+    "Liquidificador"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Verão"
+  ],
+  "prepTime": "5 min",
+  "cookTime": "0 min",
+  "totalTime": "5 min",
+  "difficulty": "Fácil",
+  "yield": "2 porções",
+  "searchTerms": [
+    "milkshake de Ovolmatine",
+    "milkshake",
+    "sorvete",
+    "bebida gelada"
+  ],
+  "tags": [
+    "milkshakedeovolmatine",
+    "ovolmatine",
+    "bebidagelada",
+    "sobremesa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Milkshake",
+      "items": [
+        "2 xícaras de leite gelado",
+        "2 bolas de sorvete de baunilha ou chocolate",
+        "2 colheres de sopa de Ovolmatine",
+        "Cubos de gelo opcionais",
+        "Chantilly opcional",
+        "Calda de chocolate ou caramelo opcional"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bata leite, sorvete e Ovolmatine no liquidificador.",
+    "Adicione gelo se quiser a bebida mais gelada e espessa.",
+    "Sirva em copos altos.",
+    "Finalize com chantilly e calda, se desejar."
+  ],
+  "tips": [
+    "Use diferentes sabores de sorvete para variar.",
+    "Canela ou cacau em pó dão aroma extra.",
+    "Iogurte grego congelado cria uma versão mais leve."
+  ],
+  "servings": 2,
+  "servingsUnit": "porções",
+  "prepMinutes": 5,
+  "structuredIngredients": [
+    {
+      "section": "Milkshake",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "leite gelado"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "bolas de sorvete de baunilha ou chocolate"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres de sopa de Ovolmatine"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Cubos de gelo opcionais"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Chantilly",
+          "note": "opcional"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Calda de chocolate ou caramelo",
+          "note": "opcional"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Bata leite, sorvete e Ovolmatine no liquidificador.",
+        "Adicione gelo se quiser a bebida mais gelada e espessa.",
+        "Sirva em copos altos.",
+        "Finalize com chantilly e calda, se desejar."
+      ]
+    }
+  ]
+}

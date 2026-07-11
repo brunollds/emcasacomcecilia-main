@@ -1,0 +1,136 @@
+{
+  "id": 55,
+  "slug": "bolo-de-chocolate-de-caneca-no-micro-ondas",
+  "title": "Bolo de Chocolate de Caneca no Micro-ondas",
+  "description": "Bolo individual de chocolate, feito na caneca e pronto em poucos minutos.",
+  "intro": "O bolo de chocolate de caneca é the resposta rápida para aqueles momentos em que o desejo por chocolate não pode esperar. Com uma textura surpreendentemente fofa para um preparo de micro-ondas, ele oferece o conforto de um bolo quentinho em porção individual, perfeito para um lanche solitário ou um mimo de última hora.",
+  "context": "Popularizado pela cultura da internet e pelo ritmo de vida dinâmico, este bolo transformou o micro-ondas em uma ferramenta de confeitaria afetiva. É a receita ideal para quem busca praticidade absoluta sem abrir mão do prazer de um bolo feito na hora, sendo uma tela em branco para coberturas criativas como sorvete ou caldas rápidas.",
+  "categories": [
+    "Doces",
+    "Bolos Caseiros",
+    "Sobremesas",
+    "Rápido"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Bolos"
+  ],
+  "mealTime": [
+    "Lanche da Tarde"
+  ],
+  "method": [
+    "Micro-ondas"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Receitas em 30 min",
+    "Para Dois"
+  ],
+  "prepTime": "5 min",
+  "cookTime": "2 min",
+  "totalTime": "7 min",
+  "difficulty": "Fácil",
+  "yield": "1 porção",
+  "isNew": true,
+  "searchTerms": [
+    "bolo de caneca",
+    "micro-ondas",
+    "chocolate",
+    "sobremesa rápida",
+    "bolo individual"
+  ],
+  "tags": [
+    "bolodechocolate",
+    "microondas",
+    "bolodecaneca",
+    "sobremesa",
+    "receitafacil",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 ovo pequeno",
+        "4 colheres (sopa) de leite",
+        "3 colheres (sopa) de óleo",
+        "4 colheres (sopa) de açúcar",
+        "3 colheres (sopa) de chocolate em pó",
+        "5 colheres (sopa) de farinha de trigo",
+        "1 colher (café) de fermento em pó"
+      ]
+    }
+  ],
+  "instructions": [
+    "Em uma caneca grande de 300 ml, misture o ovo, o leite, o óleo e o açúcar.",
+    "Adicione o chocolate em pó, a farinha e o fermento.",
+    "Misture bem até obter uma massa homogênea.",
+    "Leve ao micro-ondas por 1 minuto e 30 segundos a 2 minutos em potência alta.",
+    "Retire com cuidado e espere amornar antes de servir."
+  ],
+  "tips": [
+    "Não encha a caneca até a boca, porque o bolo cresce.",
+    "Para um bolo mais molhadinho, adicione 1 colher de sopa de água à massa.",
+    "Finalize com cobertura de chocolate, granulado, chantilly ou sorvete."
+  ],
+  "servings": 1,
+  "servingsUnit": "porção",
+  "prepMinutes": 5,
+  "cookMinutes": 2,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo pequeno"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "colheres (sopa) de leite"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "colheres (sopa) de óleo"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "colheres (sopa) de açúcar"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "colheres (sopa) de chocolate em pó"
+        },
+        {
+          "qty": 5,
+          "unit": "",
+          "name": "colheres (sopa) de farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (café) de fermento em pó"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Em uma caneca grande de 300 ml, misture o ovo, o leite, o óleo e o açúcar.",
+        "Adicione o chocolate em pó, a farinha e o fermento.",
+        "Misture bem até obter uma massa homogênea.",
+        "Leve ao micro-ondas por 1 minuto e 30 segundos a 2 minutos em potência alta.",
+        "Retire com cuidado e espere amornar antes de servir."
+      ]
+    }
+  ]
+}

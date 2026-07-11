@@ -1,0 +1,119 @@
+{
+  "id": 42,
+  "slug": "beijinho-de-coco-tradicional",
+  "title": "Beijinho de Coco Tradicional",
+  "description": "Docinho de coco simples, cremoso e obrigatório em mesa de festa brasileira.",
+  "intro": "O beijinho de coco é o par perfeito do brigadeiro e um pilar da doçaria festiva brasileira. Com sua textura macia e o sabor suave e tropical do coco, ele oferece uma doçura equilibrada que remete imediatamente à alegria das celebrações em família e às tardes de festa.",
+  "context": "Adaptado da doçaria conventual portuguesa, o beijinho substituiu as amêndoas europeias pelo coco, um ingrediente abundante no Brasil. Hoje, é mais do que um doce; é um ícone cultural que atravessa gerações, decorado tradicionalmente com um cravo-da-índia que confere um aroma inconfundível a cada mordida.",
+  "categories": [
+    "Brasileira",
+    "Doces",
+    "Festas",
+    "Sobremesas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Docinhos"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "keyIngredients": [
+    "Coco",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Aniversário",
+    "Receita Clássica",
+    "Para Crianças"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "12 min",
+  "totalTime": "22 min",
+  "difficulty": "Fácil",
+  "yield": "25 unidades",
+  "searchTerms": [
+    "beijinho",
+    "coco",
+    "leite condensado",
+    "docinho de festa",
+    "cravo"
+  ],
+  "tags": [
+    "beijinho",
+    "coco",
+    "docinhodefesta",
+    "brasileiro",
+    "tradicao",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 lata de leite condensado",
+        "1 colher (sopa) de manteiga sem sal",
+        "100 g de coco ralado",
+        "Cravos-da-índia para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture o leite condensado, a manteiga e o coco ralado em uma panela.",
+    "Cozinhe em fogo baixo, mexendo sem parar, até a massa desgrudar do fundo da panela.",
+    "Deixe esfriar em um prato untado.",
+    "Enrole as bolinhas com as mãos untadas.",
+    "Passe no coco ralado e finalize com um cravo-da-índia no topo."
+  ],
+  "tips": [
+    "Use coco ralado fresco para sabor e aroma mais intensos.",
+    "Sirva em forminhas coloridas para uma apresentação mais festiva."
+  ],
+  "servings": 25,
+  "servingsUnit": "unidades",
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de manteiga sem sal"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "coco ralado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Cravos-da-índia",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture o leite condensado, a manteiga e o coco ralado em uma panela.",
+        "Cozinhe em fogo baixo, mexendo sem parar, até a massa desgrudar do fundo da panela.",
+        "Deixe esfriar em um prato untado.",
+        "Enrole as bolinhas com as mãos untadas.",
+        "Passe no coco ralado e finalize com um cravo-da-índia no topo."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "id": 56,
+  "slug": "bolo-gelado-de-coco-com-recheio-de-doce-de-leite",
+  "title": "Bolo Gelado de Coco com Recheio de Doce de Leite",
+  "description": "Bolo de tabuleiro molhadinho, recheado com doce de leite e finalizado com calda de coco.",
+  "intro": "O bolo gelado de coco com doce de leite é a tradução da nostalgia em cada garfada. Esta versão leva o clássico bolo de toalha felpuda a um novo patamar, adicionando um recheio cremoso de doce de leite que se funde à massa intensamente molhada pela calda de coco, criando uma sobremesa rica, doce e irresistivelmente refrescante.",
+  "context": "Herdeiro das festas de aniversário dos anos 80 e 90, este bolo de tabuleiro celebra a tradição brasileira de sobremesas generosas e afetivas. O segredo da sua perfeição é o descanso na geladeira, que permite que a massa absorva toda a calda e o recheio, resultando em uma textura que derrete na boca e evoca as melhores memórias de infância.",
+  "categories": [
+    "Brasileira",
+    "Doces",
+    "Bolos Caseiros",
+    "Sobremesas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Bolos"
+  ],
+  "mealTime": [
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Coco",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Comfort Food",
+    "Receita Clássica"
+  ],
+  "prepTime": "30 min",
+  "cookTime": "40 min",
+  "totalTime": "3h 10 min",
+  "difficulty": "Médio",
+  "yield": "12 fatias",
+  "isPopular": true,
+  "searchTerms": [
+    "bolo gelado",
+    "coco",
+    "doce de leite",
+    "bolo molhadinho",
+    "bolo de tabuleiro"
+  ],
+  "tags": [
+    "bologelado",
+    "bolodecoco",
+    "docedeleite",
+    "receitanostalgia",
+    "bolomolhadinho",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "5 ovos",
+        "1 xícara de açúcar",
+        "1/2 xícara de óleo",
+        "1 xícara de leite morno",
+        "2 xícaras de farinha de trigo",
+        "1 colher (sopa) de fermento em pó"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "400 g de doce de leite",
+        "1 e 1/2 caixa de creme de leite",
+        "2 colheres (sopa) de leite em pó, opcional"
+      ]
+    },
+    {
+      "section": "Calda",
+      "items": [
+        "1 caixa de leite condensado",
+        "1 medida da caixa de leite",
+        "1 garrafinha de leite de coco (200 ml)"
+      ]
+    }
+  ],
+  "instructions": [
+    "No liquidificador, bata os ovos e o açúcar até ficar claro.",
+    "Acrescente o óleo e o leite morno e bata mais um pouco.",
+    "Em uma tigela, misture a farinha e o fermento peneirados.",
+    "Incorpore a massa líquida aos secos, mexendo delicadamente.",
+    "Despeje em forma untada e asse a 180°C por 35 a 40 minutos.",
+    "Misture doce de leite, creme de leite e leite em pó e leve ao fogo até ponto de brigadeiro mole.",
+    "Misture leite condensado, leite e leite de coco para a calda.",
+    "Corte o bolo morno ao meio, molhe, recheie, cubra e finalize com o restante da calda.",
+    "Leve à geladeira por pelo menos 2 horas antes de servir."
+  ],
+  "tips": [
+    "Deixe o bolo no tabuleiro para absorver bem a calda.",
+    "Finalize com coco ralado para visual de festa.",
+    "Para eventos, corte em quadrados e embrulhe em papel alumínio."
+  ],
+  "servings": 12,
+  "servingsUnit": "fatias",
+  "prepMinutes": 30,
+  "cookMinutes": 40,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 5,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "óleo"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "leite morno"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de fermento em pó"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 400,
+          "unit": "g",
+          "name": "doce de leite"
+        },
+        {
+          "qty": 1.5,
+          "unit": "caixa",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres (sopa) de leite em pó",
+          "note": "opcional"
+        }
+      ]
+    },
+    {
+      "section": "Calda",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "caixa",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "medida da caixa de leite"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "garrafinha de leite de coco (200 ml)"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "No liquidificador, bata os ovos e o açúcar até ficar claro.",
+        "Acrescente o óleo e o leite morno e bata mais um pouco.",
+        "Em uma tigela, misture a farinha e o fermento peneirados.",
+        "Incorpore a massa líquida aos secos, mexendo delicadamente.",
+        "Despeje em forma untada e asse a 180°C por 35 a 40 minutos.",
+        "Misture doce de leite, creme de leite e leite em pó e leve ao fogo até ponto de brigadeiro mole.",
+        "Misture leite condensado, leite e leite de coco para a calda.",
+        "Corte o bolo morno ao meio, molhe, recheie, cubra e finalize com o restante da calda.",
+        "Leve à geladeira por pelo menos 2 horas antes de servir."
+      ]
+    }
+  ]
+}

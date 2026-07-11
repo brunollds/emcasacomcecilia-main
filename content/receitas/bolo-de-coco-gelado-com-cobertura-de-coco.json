@@ -1,0 +1,187 @@
+{
+  "id": 38,
+  "slug": "bolo-de-coco-gelado-com-cobertura-de-coco",
+  "title": "Bolo de Coco Gelado com Cobertura de Coco",
+  "description": "Bolo de coco fofinho, úmido e gelado, perfeito para dias quentes e sobremesas especiais.",
+  "intro": "O bolo de coco gelado é o sinônimo de refrescância e conforto para os dias quentes. Sua massa extremamente fofinha e úmida, saturada com o sabor tropical do coco e a doçura do leite condensado, oferece uma experiência de derreter na boca, sendo a sobremesa ideal para encerrar um almoço de verão com leveza e prazer.",
+  "context": "Muito popular nas festas brasileiras das décadas de 80 e 90, o famoso 'bolo de toalha felpuda' (como também é conhecido) costumava ser servido embrulhado em papel alumínio. Hoje, ele se mantém como um clássico da confeitaria afetiva, celebrando a abundância do coco em nossa culinária e a praticidade de uma sobremesa que fica ainda melhor quando preparada com antecedência.",
+  "categories": [
+    "Brasileira",
+    "Doces",
+    "Sobremesas",
+    "Bolos Caseiros"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Bolos"
+  ],
+  "mealTime": [
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Coco",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Receita Clássica",
+    "Receita de Vó"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "40 min",
+  "totalTime": "3h 5 min",
+  "difficulty": "Médio",
+  "yield": "12 fatias",
+  "searchTerms": [
+    "bolo de coco",
+    "coco gelado",
+    "leite de coco",
+    "coco ralado",
+    "sobremesa gelada"
+  ],
+  "tags": [
+    "bolodecocogelado",
+    "coco",
+    "tropical",
+    "verao",
+    "sobremesa",
+    "refrescante",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "4 ovos",
+        "1 xícara (chá) de açúcar",
+        "1/2 xícara (chá) de óleo",
+        "1 xícara (chá) de leite de coco",
+        "2 xícaras (chá) de farinha de trigo",
+        "1 colher (sopa) de fermento em pó"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "1 lata de leite condensado",
+        "1 vidro de leite de coco (200 ml)",
+        "1 pacote de coco ralado (100 g)"
+      ]
+    },
+    {
+      "section": "Cobertura",
+      "items": [
+        "1 lata de leite condensado",
+        "1/2 vidro de leite de coco (100 ml)",
+        "1 pacote de coco ralado em flocos (100 g)"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bata os ovos com o açúcar, adicione o óleo e o leite de coco.",
+    "Misture a farinha e o fermento e asse a 180°C por cerca de 40 minutos.",
+    "Cozinhe os ingredientes do recheio e da cobertura separadamente em fogo baixo até engrossar levemente.",
+    "Corte o bolo ao meio, recheie, cubra e leve à geladeira por pelo menos 2 horas antes de servir."
+  ],
+  "tips": [
+    "Adicione 1/2 xícara de leite à massa para deixar o bolo ainda mais molhadinho.",
+    "Acrescente abacaxi picado ao recheio para um toque extra de frescor."
+  ],
+  "servings": 12,
+  "servingsUnit": "fatias",
+  "prepMinutes": 25,
+  "cookMinutes": 40,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de açúcar"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de óleo"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de leite de coco"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "(chá) de farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de fermento em pó"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "vidro",
+          "name": "leite de coco (200 ml)"
+        },
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "coco ralado (100 g)"
+        }
+      ]
+    },
+    {
+      "section": "Cobertura",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "vidro",
+          "name": "leite de coco (100 ml)"
+        },
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "coco ralado em flocos (100 g)"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Bata os ovos com o açúcar, adicione o óleo e o leite de coco.",
+        "Misture a farinha e o fermento e asse a 180°C por cerca de 40 minutos.",
+        "Cozinhe os ingredientes do recheio e da cobertura separadamente em fogo baixo até engrossar levemente.",
+        "Corte o bolo ao meio, recheie, cubra e leve à geladeira por pelo menos 2 horas antes de servir."
+      ]
+    }
+  ]
+}

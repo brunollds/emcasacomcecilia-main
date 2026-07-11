@@ -1,0 +1,162 @@
+{
+  "id": 102,
+  "slug": "espaguete-a-puttanesca-com-azeitonas-e-alcaparras",
+  "title": "Espaguete à Puttanesca com Azeitonas e Alcaparras",
+  "description": "Massa rápida com tomate, azeitonas, alcaparras, anchovas e pimenta.",
+  "intro": "O espaguete à puttanesca é uma explosão de sabores mediterrâneos em um prato vibrante e cheio de atitude. Com a força das azeitonas pretas, o toque salgado das alcaparras e a intensidade das anchovas, esta massa oferece um perfil de sabor complexo e levemente picante que desperta o paladar e transforma o jantar em uma experiência italiana autêntica.",
+  "context": "Nascida nos bairros populares de Nápoles, a receita da 'puttanesca' é celebrada pela sua praticidade e pelo uso de ingredientes de despensa que entregam um resultado surpreendente. É a massa perfeita para quem busca intensidade sem passar horas no fogão, onde o azeite de oliva e o alho servem como base para um molho rico em história e personalidade.",
+  "categories": [
+    "Massas",
+    "Italiana",
+    "Jantar",
+    "Rápido"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Massas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Italiana"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "keyIngredients": [
+    "Macarrão",
+    "Tomate"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "totalTime": "30 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "searchTerms": [
+    "espaguete à puttanesca",
+    "puttanesca",
+    "azeitonas",
+    "alcaparras",
+    "anchovas",
+    "massa rápida"
+  ],
+  "tags": [
+    "espagueteaputtanesca",
+    "puttanesca",
+    "azeitonas",
+    "alcaparras",
+    "massas",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Puttanesca",
+      "items": [
+        "500 g de espaguete",
+        "2 colheres (sopa) de azeite",
+        "3 dentes de alho picados",
+        "1 lata de tomate pelado picado",
+        "1/2 xícara de azeitonas pretas picadas",
+        "1/4 xícara de alcaparras",
+        "1/4 xícara de filés de anchova picados",
+        "1 pimenta dedo-de-moça sem sementes picada",
+        "Sal e pimenta-do-reino a gosto",
+        "Salsinha picada para finalizar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Cozinhe o espaguete até ficar al dente.",
+    "Refogue o alho no azeite.",
+    "Adicione tomate, azeitonas, alcaparras, anchovas e pimenta.",
+    "Tempere e cozinhe por cerca de 15 minutos.",
+    "Misture o espaguete ao molho.",
+    "Finalize com salsinha."
+  ],
+  "tips": [
+    "Aliche em conserva pode substituir anchovas.",
+    "Ajuste a pimenta conforme o paladar.",
+    "Sirva com parmesão ralado."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 10,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Puttanesca",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "espaguete"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres (sopa) de azeite"
+        },
+        {
+          "qty": 3,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "tomate pelado picado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "azeitonas pretas picadas"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "alcaparras"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "filés de anchova picados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "pimenta dedo-de-moça sem sementes picada"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Salsinha picada",
+          "note": "para finalizar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Cozinhe o espaguete até ficar al dente.",
+        "Refogue o alho no azeite.",
+        "Adicione tomate, azeitonas, alcaparras, anchovas e pimenta.",
+        "Tempere e cozinhe por cerca de 15 minutos.",
+        "Misture o espaguete ao molho.",
+        "Finalize com salsinha."
+      ]
+    }
+  ]
+}

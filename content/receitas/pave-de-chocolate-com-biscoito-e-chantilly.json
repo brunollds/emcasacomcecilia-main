@@ -1,0 +1,149 @@
+{
+  "id": 128,
+  "slug": "pave-de-chocolate-com-biscoito-e-chantilly",
+  "title": "Pavê de Chocolate com Biscoito e Chantilly",
+  "description": "Pavê clássico com camadas de biscoito maisena, creme de chocolate e chantilly.",
+  "intro": "O pavê de chocolate com biscoito e chantilly é a tradução da felicidade em camadas. O creme de chocolate denso e caseiro alterna-se com biscoitos maisena perfeitamente umedecidos, finalizados pela leveza aerada do chantilly, criando uma sobremesa nostálgica e reconfortante que agrada a todos os paladares e nunca sai de moda nos almoços de domingo.",
+  "context": "Um verdadeiro pilar da doçaria caseira brasileira, o pavê de chocolate é uma lição de equilíbrio entre o doce e a textura. Esta receita valoriza o tempo de apuro do creme no fogo baixo para garantir a cremosidade sem ser excessivamente doce, celebrando a tradição de preparar sobremesas com antecedência para que cada garfada revele a fusão perfeita de todos os ingredientes.",
+  "categories": [
+    "Sobremesas",
+    "Pavês",
+    "Chocolate",
+    "Festas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pavês"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Receita Clássica",
+    "Receita de Vó",
+    "Natal",
+    "Festas de Fim de Ano"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "10 min",
+  "totalTime": "4 h 35 min",
+  "difficulty": "Fácil",
+  "yield": "8 porções",
+  "searchTerms": [
+    "pavê de chocolate",
+    "biscoito maisena",
+    "chantilly",
+    "sobremesa clássica",
+    "chocolate"
+  ],
+  "tags": [
+    "pavedechocolate",
+    "biscoito",
+    "chantilly",
+    "sobremesa",
+    "classica",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Pavê",
+      "items": [
+        "1 pacote de biscoito maisena",
+        "1 lata de leite condensado",
+        "1 lata de creme de leite",
+        "1/2 xícara de leite",
+        "3 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "Chantilly pronto para decorar",
+        "Leite para umedecer os biscoitos"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture leite condensado, creme de leite, leite, chocolate em pó e manteiga em uma panela.",
+    "Cozinhe em fogo baixo, mexendo sempre, até engrossar.",
+    "Retire do fogo e deixe esfriar.",
+    "Monte camadas de biscoito umedecido e creme de chocolate.",
+    "Repita até acabar os ingredientes, finalizando com creme.",
+    "Leve à geladeira por pelo menos 4 horas.",
+    "Decore com chantilly antes de servir."
+  ],
+  "tips": [
+    "Umedeça os biscoitos em leite com chocolate para um pavê mais molhadinho.",
+    "Raspas de chocolate ou licor de chocolate deixam o creme mais intenso.",
+    "Finalize com frutas, granulado ou raspas de chocolate."
+  ],
+  "servings": 8,
+  "servingsUnit": "porções",
+  "prepMinutes": 25,
+  "cookMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Pavê",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "biscoito maisena"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "leite"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "colheres de sopa de chocolate em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de sopa de manteiga"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Chantilly pronto",
+          "note": "para decorar"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Leite para umedecer os biscoitos"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture leite condensado, creme de leite, leite, chocolate em pó e manteiga em uma panela.",
+        "Cozinhe em fogo baixo, mexendo sempre, até engrossar.",
+        "Retire do fogo e deixe esfriar.",
+        "Monte camadas de biscoito umedecido e creme de chocolate.",
+        "Repita até acabar os ingredientes, finalizando com creme.",
+        "Leve à geladeira por pelo menos 4 horas.",
+        "Decore com chantilly antes de servir."
+      ]
+    }
+  ]
+}

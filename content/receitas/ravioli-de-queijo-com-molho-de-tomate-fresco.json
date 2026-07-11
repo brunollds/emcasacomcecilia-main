@@ -1,0 +1,212 @@
+{
+  "id": 105,
+  "slug": "ravioli-de-queijo-com-molho-de-tomate-fresco",
+  "title": "Ravioli de Queijo com Molho de Tomate Fresco",
+  "description": "Massa fresca recheada com ricota, parmesão e mussarela, servida com molho de tomate caseiro.",
+  "intro": "O ravióli de queijo com molho de tomate fresco é um clássico que celebra a harmonia entre a massa artesanal e a doçura dos tomates maduros. Recheado com um blend de ricota, parmesão e mussarela, cada 'travesseirinho' de massa libera um sabor lácteo rico que é perfeitamente equilibrado pela acidez vibrante de um molho caseiro feito com paciência e manjericão.",
+  "context": "Fazer ravióli em casa é um ritual de amor ao alimento, transformando farinha e ovos em uma base elegante para recheios criativos. Esta receita honra a técnica tradicional de massas recheadas, onde o segredo da perfeição está na espessura fina da massa e no frescor absoluto dos ingredientes, resultando em um prato que é puro prestígio e alma italiana.",
+  "categories": [
+    "Massas",
+    "Italiana",
+    "Vegetariana",
+    "Jantar"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Massas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Italiana"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "keyIngredients": [
+    "Queijo",
+    "Tomate"
+  ],
+  "prepTime": "50 min",
+  "cookTime": "25 min",
+  "totalTime": "1h15",
+  "difficulty": "Médio",
+  "yield": "4 porções",
+  "searchTerms": [
+    "ravioli de queijo",
+    "molho de tomate fresco",
+    "ricota",
+    "massa recheada",
+    "comida italiana"
+  ],
+  "tags": [
+    "raviolidequeijo",
+    "molhodetomatefresco",
+    "massas",
+    "italiana",
+    "vegetariana",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "2 xícaras de farinha de trigo",
+        "3 ovos",
+        "1 colher (sopa) de azeite",
+        "1 pitada de sal"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "250 g de ricota",
+        "1/2 xícara de queijo parmesão ralado",
+        "1/4 xícara de queijo mussarela ralado",
+        "Sal, pimenta-do-reino e noz-moscada a gosto",
+        "Salsinha picada a gosto"
+      ]
+    },
+    {
+      "section": "Molho",
+      "items": [
+        "1 kg de tomates maduros",
+        "1 cebola pequena picada",
+        "2 dentes de alho picados",
+        "1 colher (sopa) de azeite",
+        "Sal, pimenta-do-reino, açúcar e manjericão fresco a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture farinha, ovos, azeite e sal.",
+    "Sove por cerca de 10 minutos e abra a massa bem fina.",
+    "Misture os queijos do recheio com temperos e salsinha.",
+    "Corte a massa em quadrados e recheie.",
+    "Feche bem as bordas.",
+    "Refogue cebola e alho no azeite.",
+    "Adicione tomates picados e cozinhe até apurar.",
+    "Cozinhe os ravioli em água fervente por cerca de 3 minutos.",
+    "Misture ao molho e sirva com parmesão."
+  ],
+  "tips": [
+    "Massa pronta de ravioli pode acelerar o preparo.",
+    "Polvilhe farinha para evitar que a massa grude.",
+    "Também combina com molho branco ou pesto."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 50,
+  "cookMinutes": 25,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de azeite"
+        },
+        {
+          "qty": 1,
+          "unit": "pitada",
+          "name": "sal"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 250,
+          "unit": "g",
+          "name": "ricota"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "queijo parmesão ralado"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "queijo mussarela ralado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino e noz-moscada",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Salsinha picada",
+          "note": "a gosto"
+        }
+      ]
+    },
+    {
+      "section": "Molho",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "kg de tomates maduros"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de azeite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino, açúcar e manjericão fresco",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture farinha, ovos, azeite e sal.",
+        "Sove por cerca de 10 minutos e abra a massa bem fina.",
+        "Misture os queijos do recheio com temperos e salsinha.",
+        "Corte a massa em quadrados e recheie.",
+        "Feche bem as bordas.",
+        "Refogue cebola e alho no azeite.",
+        "Adicione tomates picados e cozinhe até apurar.",
+        "Cozinhe os ravioli em água fervente por cerca de 3 minutos.",
+        "Misture ao molho e sirva com parmesão."
+      ]
+    }
+  ]
+}

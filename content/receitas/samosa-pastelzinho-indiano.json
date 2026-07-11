@@ -1,0 +1,209 @@
+{
+  "id": 91,
+  "slug": "samosa-pastelzinho-indiano",
+  "title": "Samosa",
+  "description": "Pastelzinho indiano crocante com recheio de batata, ervilha e especiarias.",
+  "intro": "A samosa é o passaporte crocante para os sabores da Índia. Com seu formato triangular icônico e uma massa dourada que estala ao morder, ela esconde um recheio de batata e ervilhas intensamente temperado com gengibre e especiarias vibrantes, oferecendo uma explosão de texturas e calor em cada unidade.",
+  "context": "Uma obra-prima da comida de rua indiana, a samosa representa a habilidade artesanal de transformar ingredientes simples em um petisco de sabor complexo. Esta receita respeita os temperos tradicionais como a cúrcuma e o coentro, sendo o aperitivo perfeito para mergulhar em chutneys doces ou refrescantes molhos de iogurte.",
+  "categories": [
+    "Indiana",
+    "Salgados",
+    "Petiscos",
+    "Vegetariana"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Salgados Fritos"
+  ],
+  "mealTime": [
+    "Happy Hour"
+  ],
+  "cuisine": [
+    "Indiana"
+  ],
+  "method": [
+    "Fritura"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "keyIngredients": [
+    "Batata"
+  ],
+  "prepTime": "45 min",
+  "cookTime": "15 min",
+  "totalTime": "1h",
+  "difficulty": "Médio",
+  "yield": "12 unidades",
+  "searchTerms": [
+    "samosa",
+    "pastel indiano",
+    "batata",
+    "ervilha",
+    "comida indiana",
+    "petisco"
+  ],
+  "tags": [
+    "samosa",
+    "pastelzinhoindiano",
+    "comidaindiana",
+    "petisco",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "2 xícaras de farinha de trigo",
+        "1/2 xícara de água",
+        "1/4 xícara de azeite",
+        "1 colher (chá) de sal"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "2 batatas médias cozidas e amassadas",
+        "1 cebola pequena picada",
+        "1 colher (sopa) de gengibre ralado",
+        "1 colher (sopa) de alho picado",
+        "1 colher (chá) de cominho em pó",
+        "1 colher (chá) de coentro em pó",
+        "1/2 colher (chá) de cúrcuma",
+        "1/4 colher (chá) de pimenta em pó",
+        "Sal a gosto",
+        "1/4 xícara de ervilha fresca",
+        "1/4 xícara de coentro fresco picado",
+        "Óleo para fritar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture farinha, água, azeite e sal.",
+    "Sove por cerca de 10 minutos e deixe descansar por 30 minutos.",
+    "Refogue cebola e alho.",
+    "Adicione gengibre e especiarias.",
+    "Junte batata, ervilha e coentro e cozinhe por alguns minutos.",
+    "Abra a massa fina e corte em círculos.",
+    "Recheie, dobre em formato triangular e feche as bordas.",
+    "Frite em óleo quente até dourar."
+  ],
+  "tips": [
+    "Polvilhe farinha na bancada para a massa não grudar.",
+    "Ajuste a pimenta conforme o paladar.",
+    "Sirva com chutney de manga ou iogurte natural."
+  ],
+  "servings": 12,
+  "servingsUnit": "unidades",
+  "prepMinutes": 45,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "água"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "azeite"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de sal"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "batatas médias cozidas e amassadas"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de gengibre ralado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de alho picado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de cominho em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de coentro em pó"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "name": "colher (chá) de cúrcuma"
+        },
+        {
+          "qty": 0.25,
+          "unit": "",
+          "name": "colher (chá) de pimenta em pó"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "ervilha fresca"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "coentro fresco picado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Óleo",
+          "note": "para fritar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture farinha, água, azeite e sal.",
+        "Sove por cerca de 10 minutos e deixe descansar por 30 minutos.",
+        "Refogue cebola e alho.",
+        "Adicione gengibre e especiarias.",
+        "Junte batata, ervilha e coentro e cozinhe por alguns minutos.",
+        "Abra a massa fina e corte em círculos.",
+        "Recheie, dobre em formato triangular e feche as bordas.",
+        "Frite em óleo quente até dourar."
+      ]
+    }
+  ]
+}

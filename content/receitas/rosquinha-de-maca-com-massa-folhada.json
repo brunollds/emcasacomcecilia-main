@@ -1,0 +1,131 @@
+{
+  "id": 182,
+  "slug": "rosquinha-de-maca-com-massa-folhada",
+  "title": "Rosquinha de Maçã com Massa Folhada",
+  "description": "Sobremesa rápida com maçã, massa folhada, canela e acabamento dourado de confeitaria.",
+  "categories": [
+    "Sobremesas",
+    "Frutas",
+    "Massa Folhada",
+    "Lanches"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Tortas Doces"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Maçã"
+  ],
+  "collections": [
+    "Para Dois"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "totalTime": "30 min",
+  "difficulty": "Fácil",
+  "yield": "6 unidades",
+  "searchTerms": [
+    "rosquinha de maçã",
+    "massa folhada",
+    "sobremesa fácil",
+    "maçã com canela"
+  ],
+  "tags": [
+    "rosquinhademaca",
+    "massafolhada",
+    "sobremesafacil",
+    "docinhochique",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Rosquinhas",
+      "items": [
+        "1 maçã Gala ou Fuji firme",
+        "1 pacote de massa folhada",
+        "Farinha de trigo para polvilhar",
+        "1 gema para pincelar",
+        "Açúcar cristal ou canela para finalizar",
+        "Mel e leite em pó para a versão gourmet"
+      ]
+    }
+  ],
+  "instructions": [
+    "Corte a maçã em rodelas finas.",
+    "Retire o miolo com um copinho ou cortador redondo.",
+    "Abra a massa folhada e corte em tiras de 2 cm.",
+    "Polvilhe farinha nas tiras para não grudar.",
+    "Enrole cada rodela de maçã com uma tira de massa.",
+    "Coloque em assadeira untada ou forrada.",
+    "Pincele com gema.",
+    "Asse a 200°C por 15 a 20 minutos, até dourar.",
+    "Finalize com açúcar, canela, mel ou leite em pó."
+  ],
+  "tips": [
+    "Use maçãs firmes para manter o formato no forno.",
+    "Não economize na gema se quiser brilho e cor mais bonitos.",
+    "Adicione doce de leite no centro antes de assar para uma variação mais intensa."
+  ],
+  "servings": 6,
+  "servingsUnit": "unidades",
+  "prepMinutes": 10,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Rosquinhas",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "maçã Gala ou Fuji firme"
+        },
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "massa folhada"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Farinha de trigo",
+          "note": "para polvilhar"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "gema para pincelar"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Açúcar cristal ou canela",
+          "note": "para finalizar"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Mel e leite em pó para a versão gourmet"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Corte a maçã em rodelas finas.",
+        "Retire o miolo com um copinho ou cortador redondo.",
+        "Abra a massa folhada e corte em tiras de 2 cm.",
+        "Polvilhe farinha nas tiras para não grudar.",
+        "Enrole cada rodela de maçã com uma tira de massa.",
+        "Coloque em assadeira untada ou forrada.",
+        "Pincele com gema.",
+        "Asse a 200°C por 15 a 20 minutos, até dourar.",
+        "Finalize com açúcar, canela, mel ou leite em pó."
+      ]
+    }
+  ]
+}

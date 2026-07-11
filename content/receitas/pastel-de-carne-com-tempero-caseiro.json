@@ -1,0 +1,185 @@
+{
+  "id": 72,
+  "slug": "pastel-de-carne-com-tempero-caseiro",
+  "title": "Pastel de Carne com Tempero Caseiro",
+  "description": "Pastel caseiro de carne moída, massa fina e recheio bem temperado.",
+  "intro": "O pastel de carne é a alma das feiras livres brasileiras traduzida para o conforto do lar. Com sua massa fina que estala ao morder e um recheio de carne moída intensamente temperado e suculento, ele oferece aquela experiência nostálgica de domingo de manhã, onde o sabor da carne se mistura à crocância perfeita da fritura feita na hora.",
+  "context": "Mais do que um salgado, o pastel de feira é um ritual cultural no Brasil. Esta receita preserva a tradição da massa caseira que 'faz bolhas' e do recheio rico em temperos como cominho e azeitonas, celebrando a simplicidade da comida de rua que conquistou o paladar de todas as classes sociais com sua honestidade e sabor vibrante.",
+  "categories": [
+    "Brasileira",
+    "Salgados",
+    "Carnes",
+    "Petiscos"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Salgados Fritos"
+  ],
+  "mealTime": [
+    "Happy Hour",
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fritura"
+  ],
+  "keyIngredients": [
+    "Carne Moída"
+  ],
+  "collections": [
+    "Receita Clássica",
+    "Receita de Vó"
+  ],
+  "prepTime": "45 min",
+  "cookTime": "20 min",
+  "totalTime": "1h 5 min",
+  "difficulty": "Médio",
+  "yield": "12 pastéis",
+  "isPopular": true,
+  "searchTerms": [
+    "pastel de carne",
+    "pastel de feira",
+    "carne moída",
+    "massa caseira",
+    "salgado"
+  ],
+  "tags": [
+    "pasteldecarne",
+    "pasteldefeira",
+    "carnemoida",
+    "salgados",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "500 g de farinha de trigo",
+        "1 colher (chá) de sal",
+        "1/2 xícara (chá) de água",
+        "1/4 xícara (chá) de óleo vegetal"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "500 g de carne moída",
+        "1 cebola grande picada",
+        "2 dentes de alho picados",
+        "1 tomate picado sem pele e sem sementes",
+        "1/2 xícara (chá) de azeitonas verdes picadas",
+        "1/4 xícara (chá) de cheiro-verde picado",
+        "Sal, pimenta-do-reino e cominho a gosto",
+        "Óleo para fritar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture farinha e sal em uma tigela.",
+    "Adicione água e óleo aos poucos até formar uma massa lisa.",
+    "Sove por cerca de 10 minutos e deixe descansar por 30 minutos.",
+    "Refogue cebola e alho, adicione a carne e deixe dourar.",
+    "Junte tomate, azeitonas, cheiro-verde e temperos.",
+    "Abra a massa bem fina e corte em quadrados ou círculos.",
+    "Recheie, feche as bordas com um garfo e frite em óleo quente até dourar."
+  ],
+  "tips": [
+    "Para massa mais crocante, adicione 1 colher de sopa de vinagre à massa.",
+    "Mussarela, milho verde ou palmito combinam bem com o recheio.",
+    "Sirva com molho de pimenta, vinagrete ou maionese temperada."
+  ],
+  "servings": 12,
+  "servingsUnit": "pastéis",
+  "prepMinutes": 45,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de sal"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de água"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "(chá) de óleo vegetal"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "carne moída"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola grande picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "tomate picado sem pele e sem sementes"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de azeitonas verdes picadas"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "(chá) de cheiro-verde picado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino e cominho",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Óleo",
+          "note": "para fritar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture farinha e sal em uma tigela.",
+        "Adicione água e óleo aos poucos até formar uma massa lisa.",
+        "Sove por cerca de 10 minutos e deixe descansar por 30 minutos.",
+        "Refogue cebola e alho, adicione a carne e deixe dourar.",
+        "Junte tomate, azeitonas, cheiro-verde e temperos.",
+        "Abra a massa bem fina e corte em quadrados ou círculos.",
+        "Recheie, feche as bordas com um garfo e frite em óleo quente até dourar."
+      ]
+    }
+  ]
+}

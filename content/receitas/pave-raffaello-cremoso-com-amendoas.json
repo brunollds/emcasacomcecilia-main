@@ -1,0 +1,162 @@
+{
+  "id": 127,
+  "slug": "pave-raffaello-cremoso-com-amendoas",
+  "title": "Pavê Raffaello Cremoso com Amêndoas",
+  "description": "A sofisticação do bombom Raffaello em uma sobremesa gelada: camadas de creme aveludado de coco, amêndoas crocantes e a leveza do biscoito champanhe.",
+  "intro": "A sofisticação do bombom Raffaello ganha vida neste pavê que é puro luxo e delicadeza. Com camadas de creme aveludado de coco, amêndoas levemente tostadas que trazem uma crocância irresistível e a leveza do biscoito champanhe, esta sobremesa gelada é a escolha definitiva para quem busca um doce de elite, equilibrado e visualmente deslumbrante.",
+  "context": "Inspirado em um dos bombons mais elegantes do mundo, este pavê celebra a combinação clássica do coco com amêndoas brancas. A técnica de hidratar o biscoito levemente e garantir o descanso prolongado na geladeira é o que confere a textura de 'nuvem' que derrete na boca, transformando uma receita simples em um destaque digno das melhores confeitarias e celebrações especiais.",
+  "image": "/images/recipes/sobremesas/pave-raffaello.jpg",
+  "imageAlt": "Pavê Raffaello decorado com bombons, coco ralado e amêndoas laminadas.",
+  "categories": [
+    "Sobremesas",
+    "Pavês",
+    "Doces Gelados",
+    "Festas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pavês"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Coco",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Receita Clássica"
+  ],
+  "prepTime": "30 min",
+  "cookTime": "0 min",
+  "totalTime": "4 h 30 min",
+  "difficulty": "Fácil",
+  "yield": "10 porções",
+  "isPopular": true,
+  "searchTerms": [
+    "pavê raffaello",
+    "sobremesa de coco",
+    "amêndoas",
+    "doce de festa",
+    "pavê de elite",
+    "raffaello caseiro"
+  ],
+  "tags": [
+    "paveraffaello",
+    "coco",
+    "amendoas",
+    "sobremesa",
+    "pave",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Creme de Coco",
+      "items": [
+        "1 lata de leite condensado",
+        "1 lata de creme de leite (sem soro)",
+        "1 vidro de leite de coco (200 ml)",
+        "100 g de coco ralado fino"
+      ]
+    },
+    {
+      "section": "Montagem e Crocância",
+      "items": [
+        "1 pacote de biscoito champanhe (150 g)",
+        "1 xícara (chá) de leite (para umedecer)",
+        "1/2 xícara (chá) de amêndoas laminadas levemente tostadas",
+        "10 bombons Raffaello picados grosseiramente",
+        "Raspas de chocolate branco (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bata o leite condensado, o creme de leite e o leite de coco no liquidificador por 3 minutos até obter um creme bem liso. Misture o coco ralado com uma espátula.",
+    "Umedeça os biscoitos champanhe no leite rapidamente para que não fiquem moles demais.",
+    "Em um refratário, faça uma camada de biscoitos, cubra com uma parte do creme e polvilhe algumas amêndoas laminadas.",
+    "Repita o processo até finalizar com o creme por cima.",
+    "Decore com as amêndoas restantes, os bombons Raffaello e as raspas de chocolate.",
+    "Leve à geladeira por, no mínimo, 4 horas antes de servir para ganhar consistência."
+  ],
+  "tips": [
+    "Tostar levemente as amêndoas na frigideira realça o sabor e a crocância.",
+    "Para um pavê mais estruturado, use o creme de leite em lata e sem o soro."
+  ],
+  "servings": 10,
+  "servingsUnit": "porções",
+  "prepMinutes": 30,
+  "structuredIngredients": [
+    {
+      "section": "Creme de Coco",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "creme de leite (sem soro)"
+        },
+        {
+          "qty": 1,
+          "unit": "vidro",
+          "name": "leite de coco (200 ml)"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "coco ralado fino"
+        }
+      ]
+    },
+    {
+      "section": "Montagem e Crocância",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "biscoito champanhe (150 g)"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de leite (para umedecer)"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de amêndoas laminadas levemente tostadas"
+        },
+        {
+          "qty": 10,
+          "unit": "",
+          "name": "bombons Raffaello picados grosseiramente"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Raspas de chocolate branco ()",
+          "note": "opcional"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Bata o leite condensado, o creme de leite e o leite de coco no liquidificador por 3 minutos até obter um creme bem liso. Misture o coco ralado com uma espátula.",
+        "Umedeça os biscoitos champanhe no leite rapidamente para que não fiquem moles demais.",
+        "Em um refratário, faça uma camada de biscoitos, cubra com uma parte do creme e polvilhe algumas amêndoas laminadas.",
+        "Repita o processo até finalizar com o creme por cima.",
+        "Decore com as amêndoas restantes, os bombons Raffaello e as raspas de chocolate.",
+        "Leve à geladeira por, no mínimo, 4 horas antes de servir para ganhar consistência."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": 132,
+  "slug": "pave-de-maracuja-com-camadas-de-chocolate",
+  "title": "Pavê de Maracujá com Camadas de Chocolate",
+  "description": "Pavê gelado com creme de maracujá, ganache de chocolate meio amargo e biscoito champanhe.",
+  "intro": "Este pavê de maracujá eleva a combinação clássica com uma camada generosa de ganache de chocolate meio amargo, criando um contraste visual e de sabor de tirar o fôlego. O azedinho vibrante da fruta encontra o amargor sutil do chocolate em uma sobremesa gelada que é complexa, equilibrada e perfeita para ocasiões que pedem um toque de sofisticação.",
+  "context": "A ganache, um pilar da confeitaria francesa, encontra o maracujá brasileiro nesta receita que é the favorita de celebrações como a Páscoa. O segredo da perfeição está na temperatura dos cremes ao montar as camadas, garantindo que o visual permaneça impecável e os sabores se revelem de forma distinta em cada garfada, honrando a fusão entre tradição e criatividade.",
+  "categories": [
+    "Sobremesas",
+    "Pavês",
+    "Chocolate",
+    "Doces Gelados"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pavês"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Maracujá",
+    "Chocolate"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "10 min",
+  "totalTime": "4 h 35 min",
+  "difficulty": "Fácil",
+  "yield": "8 porções",
+  "searchTerms": [
+    "pavê de maracujá",
+    "ganache",
+    "chocolate meio amargo",
+    "biscoito champanhe",
+    "páscoa"
+  ],
+  "tags": [
+    "pavedemaracuja",
+    "chocolate",
+    "ganache",
+    "sobremesagelada",
+    "pascoa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Pavê",
+      "items": [
+        "1 pacote de biscoitos champanhe",
+        "1 lata de leite condensado",
+        "1 caixa de creme de leite",
+        "Suco de 2 maracujás",
+        "200 g de chocolate meio amargo picado",
+        "Raspas de chocolate para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture leite condensado, suco de maracujá e metade do creme de leite para formar o creme de maracujá.",
+    "Derreta o chocolate com o restante do creme de leite para fazer a ganache.",
+    "Monte o pavê alternando camadas de biscoito, creme de maracujá e ganache.",
+    "Decore com raspas de chocolate.",
+    "Leve à geladeira por 4 horas antes de servir."
+  ],
+  "tips": [
+    "Limão siciliano ou abacaxi podem substituir o maracujá em variações cítricas.",
+    "Hortelã ou flores comestíveis deixam a apresentação mais sofisticada.",
+    "Também pode ser montado em potes individuais."
+  ],
+  "servings": 8,
+  "servingsUnit": "porções",
+  "prepMinutes": 25,
+  "cookMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Pavê",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "biscoitos champanhe"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "caixa",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Suco de 2 maracujás"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "chocolate meio amargo picado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Raspas de chocolate",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture leite condensado, suco de maracujá e metade do creme de leite para formar o creme de maracujá.",
+        "Derreta o chocolate com o restante do creme de leite para fazer a ganache.",
+        "Monte o pavê alternando camadas de biscoito, creme de maracujá e ganache.",
+        "Decore com raspas de chocolate.",
+        "Leve à geladeira por 4 horas antes de servir."
+      ]
+    }
+  ]
+}

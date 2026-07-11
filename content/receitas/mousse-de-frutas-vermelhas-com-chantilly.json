@@ -1,0 +1,127 @@
+{
+  "id": 136,
+  "slug": "mousse-de-frutas-vermelhas-com-chantilly",
+  "title": "Mousse de Frutas Vermelhas com Chantilly",
+  "description": "Mousse delicada de frutas vermelhas com leite condensado, creme de leite, gelatina e chantilly.",
+  "intro": "Delicada, rosada e repleta de frescor, esta mousse de frutas vermelhas é uma ode à sofisticação das bagas silvestres. O mix de morangos, framboesas e amoras cria um sabor complexo e vibrante que, unido ao chantilly caseiro leve e aerado, oferece uma sobremesa etérea e equilibrada, ideal para momentos especiais e jantares refinados.",
+  "context": "As frutas vermelhas são valorizadas por sua acidez elegante e riqueza antioxidante. Nesta receita, the técnica de bater as frutas frescas preserva the cor natural e o sabor intenso, celebrando the herança das mousses de frutas europeias adaptadas para um paladar que busca leveza e um visual deslumbrante que antecipa o prazer de cada garfada.",
+  "categories": [
+    "Sobremesas",
+    "Mousses",
+    "Frutas",
+    "Doces Gelados"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Mousses"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Morango"
+  ],
+  "collections": [
+    "Para Dois"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "0 min",
+  "totalTime": "4 h 20 min",
+  "difficulty": "Fácil",
+  "yield": "6 porções",
+  "searchTerms": [
+    "mousse de frutas vermelhas",
+    "chantilly",
+    "morango",
+    "framboesa",
+    "amora"
+  ],
+  "tags": [
+    "moussedefrutasvermelhas",
+    "frutasvermelhas",
+    "chantilly",
+    "sobremesa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Mousse",
+      "items": [
+        "300 g de frutas vermelhas frescas ou congeladas",
+        "1 lata de leite condensado",
+        "1 lata de creme de leite",
+        "1 envelope de gelatina incolor sem sabor",
+        "Chantilly pronto para decorar",
+        "Frutas frescas para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Descongele as frutas vermelhas, se estiverem congeladas.",
+    "Bata as frutas com leite condensado e creme de leite no liquidificador.",
+    "Prepare a gelatina conforme a embalagem e bata junto ao creme.",
+    "Distribua em taças ou em um refratário.",
+    "Leve à geladeira por pelo menos 4 horas.",
+    "Decore com chantilly e frutas frescas antes de servir."
+  ],
+  "tips": [
+    "Varie a proporção de morango, framboesa, amora e mirtilo conforme a preferência.",
+    "Clara em neve deixa a textura mais aerada.",
+    "Calda de frutas vermelhas intensifica o sabor."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Mousse",
+      "items": [
+        {
+          "qty": 300,
+          "unit": "g",
+          "name": "frutas vermelhas frescas ou congeladas"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 1,
+          "unit": "envelope",
+          "name": "gelatina incolor sem sabor"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Chantilly pronto",
+          "note": "para decorar"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Frutas frescas",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Descongele as frutas vermelhas, se estiverem congeladas.",
+        "Bata as frutas com leite condensado e creme de leite no liquidificador.",
+        "Prepare a gelatina conforme a embalagem e bata junto ao creme.",
+        "Distribua em taças ou em um refratário.",
+        "Leve à geladeira por pelo menos 4 horas.",
+        "Decore com chantilly e frutas frescas antes de servir."
+      ]
+    }
+  ]
+}

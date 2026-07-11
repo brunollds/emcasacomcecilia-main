@@ -1,0 +1,150 @@
+{
+  "id": 117,
+  "slug": "salada-tropical-com-folhas-verdes-manga-abacaxi-e-camarao",
+  "title": "Salada Tropical com Folhas Verdes, Manga, Abacaxi e Camarão",
+  "description": "Salada refrescante com folhas verdes, frutas tropicais, camarão grelhado, limão e coentro.",
+  "intro": "Esta salada tropical é uma celebração da abundância e do frescor dos litorais. Combinando o brilho das frutas cítricas como manga e abacaxi com a sofisticação dos camarões grelhados no azeite, ela oferece um festival de sabores vibrantes e texturas contrastantes, sendo a escolha ideal para um almoço ensolarado ou um jantar leve e refrescante.",
+  "context": "Inspirada na fusão de sabores caribenhos e brasileiros, a salada tropical valoriza a acidez natural das frutas para equilibrar a riqueza dos frutos do mar. É uma receita que celebra a leveza e a sofisticação, utilizando folhas verdes crocantes como base para uma composição visual deslumbrante que antecipa o prazer de cada garfada rica em cores e saúde.",
+  "categories": [
+    "Saladas",
+    "Frutos do Mar",
+    "Leves",
+    "Saudáveis"
+  ],
+  "primaryCategory": "Salada",
+  "subCategory": [
+    "Saladas Verdes"
+  ],
+  "mealTime": [
+    "Almoço"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Sem Glúten",
+    "Sem Lactose"
+  ],
+  "keyIngredients": [
+    "Camarão"
+  ],
+  "collections": [
+    "Verão"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "8 min",
+  "totalTime": "28 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "searchTerms": [
+    "salada tropical",
+    "manga",
+    "abacaxi",
+    "camarão",
+    "folhas verdes"
+  ],
+  "tags": [
+    "saladatropical",
+    "manga",
+    "abacaxi",
+    "camarao",
+    "salada",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Salada",
+      "items": [
+        "1 maço de folhas verdes de sua preferência",
+        "1 manga grande em cubos",
+        "1 abacaxi pequeno em cubos",
+        "500 g de camarão médio limpo",
+        "1/4 xícara de azeite",
+        "Suco de 1 limão",
+        "Sal e pimenta-do-reino a gosto",
+        "Coentro fresco picado a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Lave e seque bem as folhas verdes.",
+    "Grelhe os camarões temperados com sal e pimenta.",
+    "Misture folhas, manga, abacaxi e camarão.",
+    "Tempere com azeite, limão, sal e pimenta.",
+    "Finalize com coentro fresco."
+  ],
+  "tips": [
+    "Tomate cereja, cebola roxa ou croutons deixam a salada mais completa.",
+    "Grelhar o abacaxi traz sabor caramelizado.",
+    "Sirva como prato principal leve."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 20,
+  "cookMinutes": 8,
+  "structuredIngredients": [
+    {
+      "section": "Salada",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "maço de folhas verdes de sua preferência"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "manga grande em cubos"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "abacaxi pequeno em cubos"
+        },
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "camarão médio limpo"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "azeite"
+        },
+        {
+          "qty": 1,
+          "unit": "un.",
+          "name": "limão",
+          "note": "suco"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Coentro fresco picado",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Lave e seque bem as folhas verdes.",
+        "Grelhe os camarões temperados com sal e pimenta.",
+        "Misture folhas, manga, abacaxi e camarão.",
+        "Tempere com azeite, limão, sal e pimenta.",
+        "Finalize com coentro fresco."
+      ]
+    }
+  ]
+}

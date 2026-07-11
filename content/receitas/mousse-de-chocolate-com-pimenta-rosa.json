@@ -1,0 +1,147 @@
+{
+  "id": 173,
+  "slug": "mousse-de-chocolate-com-pimenta-rosa",
+  "title": "Mousse de Chocolate com Pimenta Rosa",
+  "description": "Mousse de chocolate meio amargo com toque de pimenta rosa e crocante de amêndoas caramelizadas.",
+  "intro": "A mousse de chocolate com pimenta rosa é the escolha audaciosa e sofisticada para paladares que buscam novas experiências. O amargor profundo do chocolate meio amargo é sutilmente despertado pelo calor aromático e floral da pimenta rosa, criando um contraste inusitado e elegante que derrete na boca com uma leveza etérea e surpreendente.",
+  "context": "Explorando the fusão entre o cacau e as especiarias, esta receita é uma lição de equilíbrio sensorial. A pimenta rosa (aroeira) adiciona cor e uma nota de fundo complexa que não domina o chocolate, mas o eleva, celebrando the cozinha de vanguarda que utiliza ingredientes nativos para criar sobremesas de prestígio e alma contemporânea.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Mousses",
+    "Chocolate"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Mousses"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Páscoa",
+    "Para Dois"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "10 min",
+  "totalTime": "3 h 35 min",
+  "difficulty": "Médio",
+  "yield": "6 porções",
+  "searchTerms": [
+    "mousse de chocolate",
+    "pimenta rosa",
+    "amêndoas",
+    "crocante",
+    "Páscoa sofisticada"
+  ],
+  "tags": [
+    "moussedechocolate",
+    "pimentarosa",
+    "crocantedeamendoas",
+    "pascoainovadora",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Mousse e crocante",
+      "items": [
+        "200 g de chocolate meio amargo",
+        "200 ml de creme de leite fresco",
+        "3 claras em neve",
+        "2 gemas",
+        "1 colher de sopa de açúcar",
+        "1/2 colher de chá de pimenta rosa moída levemente",
+        "1/2 xícara de amêndoas picadas",
+        "1 colher de sopa de açúcar para o crocante",
+        "1 colher de chá de manteiga"
+      ]
+    }
+  ],
+  "instructions": [
+    "Derreta o chocolate e deixe esfriar um pouco.",
+    "Bata gemas com açúcar até clarear.",
+    "Misture as gemas ao chocolate e adicione pimenta rosa.",
+    "Incorpore as claras em neve delicadamente.",
+    "Distribua em taças e leve à geladeira por pelo menos 3 horas.",
+    "Doure amêndoas com manteiga e açúcar até caramelizar.",
+    "Deixe esfriar, quebre em pedaços e sirva sobre a mousse."
+  ],
+  "tips": [
+    "Ajuste a pimenta rosa com cuidado para não dominar o chocolate.",
+    "Sirva com crocante apenas na hora para preservar textura.",
+    "Chocolate amargo deixa a mousse mais intensa."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 25,
+  "cookMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Mousse e crocante",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "chocolate meio amargo"
+        },
+        {
+          "qty": 200,
+          "unit": "ml",
+          "name": "creme de leite fresco"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "claras em neve"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "gemas"
+        },
+        {
+          "qty": 1,
+          "unit": "col. sopa",
+          "name": "açúcar"
+        },
+        {
+          "qty": 0.5,
+          "unit": "col. chá",
+          "name": "pimenta rosa moída levemente"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "amêndoas picadas"
+        },
+        {
+          "qty": 1,
+          "unit": "col. sopa",
+          "name": "açúcar para o crocante"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "manteiga"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Derreta o chocolate e deixe esfriar um pouco.",
+        "Bata gemas com açúcar até clarear.",
+        "Misture as gemas ao chocolate e adicione pimenta rosa.",
+        "Incorpore as claras em neve delicadamente.",
+        "Distribua em taças e leve à geladeira por pelo menos 3 horas.",
+        "Doure amêndoas com manteiga e açúcar até caramelizar.",
+        "Deixe esfriar, quebre em pedaços e sirva sobre a mousse."
+      ]
+    }
+  ]
+}

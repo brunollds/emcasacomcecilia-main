@@ -1,0 +1,158 @@
+{
+  "id": 120,
+  "slug": "gaspacho",
+  "title": "Gaspacho",
+  "description": "Sopa fria espanhola com tomate, pepino, pimentão, azeite e vinagre de vinho tinto.",
+  "intro": "O gaspacho é o frescor da Andaluzia servido em forma de sopa gelada. Com sua cor vibrante e o sabor intenso dos tomates maduros equilibrado pelo pepino e pimentão, este preparo espanhol é uma explosão cítrica e refrescante, ideal para dias ensolarados onde buscamos uma refeição leve, hidratante e repleta de vitalidade.",
+  "context": "Nascida nos campos do sul da Espanha, esta 'sopa crua' é um triunfo da economia e do frescor. A receita valoriza o uso de um bom azeite e o tempo de descanso na geladeira, essencial para que os sabores se fundam e se estabilizem, provando que vegetais frescos e um toque de pão amanhecido podem criar um prato de prestígio mundial que celebra o auge do verão.",
+  "categories": [
+    "Sopas",
+    "Espanhola",
+    "Leves",
+    "Vegetariana"
+  ],
+  "primaryCategory": "Sopa",
+  "subCategory": [
+    "Cremes"
+  ],
+  "mealTime": [
+    "Almoço"
+  ],
+  "cuisine": [
+    "Espanhola"
+  ],
+  "method": [
+    "Liquidificador"
+  ],
+  "diet": [
+    "Vegana",
+    "Sem Lactose",
+    "Sem Glúten"
+  ],
+  "keyIngredients": [
+    "Tomate"
+  ],
+  "collections": [
+    "Verão",
+    "Receita Clássica"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "0 min",
+  "totalTime": "2 h 15 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "searchTerms": [
+    "gaspacho",
+    "sopa fria",
+    "tomate",
+    "pepino",
+    "receita espanhola"
+  ],
+  "tags": [
+    "gaspacho",
+    "sopafria",
+    "tomate",
+    "receitaespanhola",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Sopa fria",
+      "items": [
+        "4 tomates maduros picados",
+        "1 pepino picado",
+        "1 pimentão verde picado",
+        "1 cebola pequena picada",
+        "2 dentes de alho picados",
+        "1 fatia de pão amanhecido sem casca",
+        "1/2 xícara de azeite",
+        "1/4 xícara de vinagre de vinho tinto",
+        "Sal e pimenta-do-reino a gosto",
+        "Água gelada para ajustar a textura"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bata todos os ingredientes no liquidificador, adicionando água gelada aos poucos.",
+    "Coe em peneira fina para deixar a sopa mais lisa.",
+    "Leve à geladeira por pelo menos 2 horas.",
+    "Sirva bem gelado com croutons, ovo cozido picado ou presunto."
+  ],
+  "tips": [
+    "Use tomates bem maduros para um sabor mais intenso.",
+    "Tomate pelado deixa o gaspacho mais encorpado.",
+    "Abobrinha ou cenoura podem entrar como variação."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Sopa fria",
+      "items": [
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "tomates maduros picados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "pepino picado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "pimentão verde picado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "fatia",
+          "name": "pão amanhecido sem casca"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "azeite"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "vinagre de vinho tinto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Água gelada para ajustar a textura"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Bata todos os ingredientes no liquidificador, adicionando água gelada aos poucos.",
+        "Coe em peneira fina para deixar a sopa mais lisa.",
+        "Leve à geladeira por pelo menos 2 horas.",
+        "Sirva bem gelado com croutons, ovo cozido picado ou presunto."
+      ]
+    }
+  ]
+}

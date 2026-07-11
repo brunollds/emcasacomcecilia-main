@@ -1,0 +1,153 @@
+{
+  "id": 206,
+  "slug": "ovo-de-pascoa-recheado-com-brigadeiro-de-churros",
+  "title": "Ovo de Páscoa Recheado com Brigadeiro de Churros",
+  "description": "Ovo de chocolate com recheio cremoso de brigadeiro de churros, doce de leite e canela.",
+  "intro": "O ovo de churros é the união irresistível entre the tradição da Páscoa e o sabor nostálgico das feiras brasileiras. Com uma casca de chocolate branco generosamente recheada com brigadeiro de doce de leite e o toque aromático da canela, esta sobremesa de colher é uma explosão de cremosidade e afeto que encanta em cada mordida.",
+  "context": "Inspirado no doce espanhol que conquistou o Brasil, esta versão temática celebra the versatilidade do brigadeiro. O segredo reside no equilíbrio entre the doçura do chocolate e the picância suave da canela, resultando em uma experiênsia gastronômica que une the criatividade nacional às melhores lembranças de infância em uma apresentação festiva e luxuosa.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Chocolate",
+    "Doces"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Docinhos"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "15 min",
+  "totalTime": "1 h 20 min",
+  "difficulty": "Médio",
+  "yield": "1 ovo médio",
+  "searchTerms": [
+    "ovo de Páscoa",
+    "brigadeiro de churros",
+    "doce de leite",
+    "canela"
+  ],
+  "tags": [
+    "ovodepascoa",
+    "brigadeirodechurros",
+    "chocolate",
+    "pascoa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Casca e recheio",
+      "items": [
+        "250 g de chocolate ao leite",
+        "150 g de chocolate meio amargo",
+        "1 lata de leite condensado",
+        "1 caixa de creme de leite",
+        "1 colher de sopa de manteiga",
+        "1 colher de chá de canela em pó",
+        "3 colheres de sopa de doce de leite",
+        "Churros pequenos para decorar",
+        "Canela em pó para finalizar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Derreta os chocolates em banho-maria ou no micro-ondas.",
+    "Tempere o chocolate para formar uma casca brilhante e firme.",
+    "Preencha formas de ovo e leve à geladeira até endurecer.",
+    "Cozinhe leite condensado, creme de leite, manteiga e canela em fogo baixo.",
+    "Mexa até o brigadeiro começar a desgrudar do fundo.",
+    "Retire do fogo, misture doce de leite e deixe esfriar.",
+    "Recheie as cascas com brigadeiro de churros.",
+    "Decore com churros crocantes e canela."
+  ],
+  "tips": [
+    "Use chocolate de boa qualidade para uma casca mais estável.",
+    "Gengibre ou noz-moscada podem entrar no brigadeiro.",
+    "Confeitos ou frutas frescas deixam a decoração mais elaborada."
+  ],
+  "servings": 1,
+  "servingsUnit": "ovo médio",
+  "prepMinutes": 35,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Casca e recheio",
+      "items": [
+        {
+          "qty": 250,
+          "unit": "g",
+          "name": "chocolate ao leite"
+        },
+        {
+          "qty": 150,
+          "unit": "g",
+          "name": "chocolate meio amargo"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "caixa",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 1,
+          "unit": "col. sopa",
+          "name": "manteiga"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "canela em pó"
+        },
+        {
+          "qty": 3,
+          "unit": "col. sopa",
+          "name": "doce de leite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Churros pequenos",
+          "note": "para decorar"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Canela em pó",
+          "note": "para finalizar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Derreta os chocolates em banho-maria ou no micro-ondas.",
+        "Tempere o chocolate para formar uma casca brilhante e firme.",
+        "Preencha formas de ovo e leve à geladeira até endurecer.",
+        "Cozinhe leite condensado, creme de leite, manteiga e canela em fogo baixo.",
+        "Mexa até o brigadeiro começar a desgrudar do fundo.",
+        "Retire do fogo, misture doce de leite e deixe esfriar.",
+        "Recheie as cascas com brigadeiro de churros.",
+        "Decore com churros crocantes e canela."
+      ]
+    }
+  ]
+}

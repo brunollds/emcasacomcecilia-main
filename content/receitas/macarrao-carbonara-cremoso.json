@@ -1,0 +1,150 @@
+{
+  "id": 31,
+  "slug": "macarrao-carbonara-cremoso",
+  "title": "Macarrão Carbonara Cremoso",
+  "description": "Carbonara cremoso sem creme de leite, feito com ovos, queijo, bacon crocante e pimenta-do-reino.",
+  "intro": "O Macarrão Carbonara é a tradição romana em sua forma mais pura e técnica. Esqueça o creme de leite: a verdadeira cremosidade nasce da emulsão perfeita entre as gemas, o queijo pecorino e a gordura do bacon (ou guanciale), resultando em um prato rico, aveludado e com o toque picante e aromático da pimenta-do-reino moída na hora.",
+  "context": "Envolto em lendas, o prato teria surgido como sustento para os 'carbonari' (carvoeiros) nos Montes Apeninos, usando ingredientes duráveis e fáceis de transportar. Hoje, é um dos pilares da culinária de Roma e uma receita obrigatória para quem deseja dominar a arte de criar molhos sedosos sem truques artificiais.",
+  "image": "/images/recipes/massas/macarrao-carbonara-cremoso.jpg",
+  "imageAlt": "Prato de espaguete à carbonara cremoso com pedaços de bacon crocante.",
+  "categories": [
+    "Massas",
+    "Italiana",
+    "Jantar"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Massas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Italiana"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "keyIngredients": [
+    "Macarrão",
+    "Ovos"
+  ],
+  "collections": [
+    "Receita Clássica",
+    "Comfort Food"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "15 min",
+  "totalTime": "25 min",
+  "difficulty": "Médio",
+  "yield": "4 porções",
+  "isPopular": true,
+  "searchTerms": [
+    "carbonara",
+    "macarrão",
+    "espaguete",
+    "bacon",
+    "guanciale",
+    "ovos",
+    "pecorino",
+    "parmesão",
+    "italiana"
+  ],
+  "tags": [
+    "carbonara",
+    "italiana",
+    "bacon",
+    "ovos",
+    "pecorino",
+    "roma",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Base",
+      "items": [
+        "500 g de espaguete",
+        "200 g de bacon em cubos ou guanciale",
+        "4 gemas",
+        "1 ovo inteiro",
+        "100 g de queijo pecorino ou parmesão ralado na hora",
+        "Sal a gosto",
+        "Pimenta-do-reino moída na hora a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Cozinhe o macarrão em água salgada até ficar al dente.",
+    "Frite o bacon até ficar bem crocante, desligue o fogo e mantenha a gordura na panela.",
+    "Em uma tigela, misture os ovos com o queijo e bastante pimenta até formar um creme.",
+    "Escorra o macarrão e coloque na panela do bacon, com o fogo desligado.",
+    "Adicione a mistura de ovos e mexa vigorosamente para o calor da massa formar um creme sem virar omelete.",
+    "Sirva imediatamente com mais pimenta por cima."
+  ],
+  "tips": [
+    "O fogo deve estar desligado ao adicionar os ovos para manter a cremosidade.",
+    "Se o molho ficar seco, adicione uma concha da água do cozimento do macarrão."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Base",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "espaguete"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "bacon em cubos ou guanciale"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "gemas"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo inteiro"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "queijo pecorino ou parmesão ralado na hora"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Pimenta-do-reino moída na hora",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Cozinhe o macarrão em água salgada até ficar al dente.",
+        "Frite o bacon até ficar bem crocante, desligue o fogo e mantenha a gordura na panela.",
+        "Em uma tigela, misture os ovos com o queijo e bastante pimenta até formar um creme.",
+        "Escorra o macarrão e coloque na panela do bacon, com o fogo desligado.",
+        "Adicione a mistura de ovos e mexa vigorosamente para o calor da massa formar um creme sem virar omelete.",
+        "Sirva imediatamente com mais pimenta por cima."
+      ]
+    }
+  ]
+}

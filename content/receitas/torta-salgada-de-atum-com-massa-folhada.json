@@ -1,0 +1,143 @@
+{
+  "id": 192,
+  "slug": "torta-salgada-de-atum-com-massa-folhada",
+  "title": "Torta Salgada de Atum com Massa Folhada",
+  "description": "Torta prática com massa folhada, atum, tomate, cebola e azeitonas.",
+  "intro": "A torta de atum com massa folhada é the solução 'vapt-vupt' de luxo para quem busca praticidade sem abrir mão da elegância. O contraste entre the crocância amanteigada das mil folhas e o recheio úmido e aromático de atum com azeitonas cria uma experiênsia gastronômica rápida que surpreende pelo visual e pelo sabor equilibrado.",
+  "context": "Utilizando the versatilidade da massa folhada pronta, esta receita é um truque de mestre para recepções informais ou lanches rápidos. A técnica de selar os ingredientes frescos garante que the massa permaneça sequinha e dourada, celebrando the cozinha moderna que valoriza o tempo e the qualidade dos sabores em preparos simples e impactantes.",
+  "categories": [
+    "Salgados",
+    "Tortas",
+    "Peixes",
+    "Lanches"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Tortas Salgadas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Peixe"
+  ],
+  "collections": [
+    "Econômica",
+    "Receitas em 30 min"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "20 min",
+  "totalTime": "35 min",
+  "difficulty": "Fácil",
+  "yield": "6 fatias",
+  "searchTerms": [
+    "torta de atum",
+    "massa folhada",
+    "lanche rápido",
+    "atum em conserva"
+  ],
+  "tags": [
+    "tortasalgada",
+    "atum",
+    "massafolhada",
+    "receitafacil",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Torta",
+      "items": [
+        "1 pacote de massa folhada pronta retangular",
+        "2 latas de atum em óleo escorrido",
+        "1 cebola pequena picada",
+        "2 tomates picados sem pele e sem sementes",
+        "1/2 xícara de azeitonas verdes picadas",
+        "1/4 xícara de azeite",
+        "Sal, pimenta-do-reino e orégano a gosto",
+        "1 ovo batido para pincelar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Pré-aqueça o forno a 200°C.",
+    "Forre uma forma de torta com a massa folhada.",
+    "Misture atum, cebola, tomate, azeitonas, azeite, sal, pimenta e orégano.",
+    "Espalhe o recheio sobre a massa.",
+    "Pincele as bordas com ovo batido.",
+    "Asse por cerca de 20 minutos, até dourar e a massa cozinhar."
+  ],
+  "tips": [
+    "Faça cortes decorativos na massa para uma apresentação mais bonita.",
+    "Milho, ervilha, palmito ou queijo deixam o recheio mais completo.",
+    "Sirva quente ou fria com salada verde."
+  ],
+  "servings": 6,
+  "servingsUnit": "fatias",
+  "prepMinutes": 15,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Torta",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "massa folhada pronta retangular"
+        },
+        {
+          "qty": 2,
+          "unit": "lata",
+          "name": "atum em óleo escorrido"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "tomates picados sem pele e sem sementes"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "azeitonas verdes picadas"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "azeite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino e orégano",
+          "note": "a gosto"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo batido para pincelar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Pré-aqueça o forno a 200°C.",
+        "Forre uma forma de torta com a massa folhada.",
+        "Misture atum, cebola, tomate, azeitonas, azeite, sal, pimenta e orégano.",
+        "Espalhe o recheio sobre a massa.",
+        "Pincele as bordas com ovo batido.",
+        "Asse por cerca de 20 minutos, até dourar e a massa cozinhar."
+      ]
+    }
+  ]
+}

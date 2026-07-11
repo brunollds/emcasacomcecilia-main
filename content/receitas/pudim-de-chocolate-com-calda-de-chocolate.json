@@ -1,0 +1,131 @@
+{
+  "id": 138,
+  "slug": "pudim-de-chocolate-com-calda-de-chocolate",
+  "title": "Pudim de Chocolate com Calda de Chocolate",
+  "description": "Pudim cremoso de chocolate com leite condensado, ovos, chocolate em pó e calda de chocolate.",
+  "intro": "Para os amantes de cacau, o pudim de chocolate é the variação irresistível e ainda mais intensa do clássico nacional. Unindo the cremosidade tradicional do pudim com o sabor profundo do chocolate e uma calda brilhante, ele oferece uma experiência rica e aveludada que derrete na boca, elevando the sobremesa caseira a um patamar de pura indulgência.",
+  "context": "Integrando o chocolate à técnica clássica do pudim de leite, esta receita celebra the paixão nacional pelo cacau em um formato reconfortante. O tempo de cozimento lento em banho-maria é essencial para manter the estrutura delicada enquanto os sabores se fundem, resultando em um doce festivo que une the memória afetiva do pudim com o prazer universal do chocolate.",
+  "categories": [
+    "Sobremesas",
+    "Pudins",
+    "Chocolate",
+    "Festas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pudins & Cremes"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Comfort Food"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "1 h 30 min",
+  "totalTime": "1 h 45 min",
+  "difficulty": "Fácil",
+  "yield": "10 porções",
+  "searchTerms": [
+    "pudim de chocolate",
+    "calda de chocolate",
+    "chocolate em pó",
+    "sobremesa de chocolate"
+  ],
+  "tags": [
+    "pudimdechocolate",
+    "chocolate",
+    "pudim",
+    "sobremesa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Pudim",
+      "items": [
+        "1 lata de leite condensado",
+        "2 latas de leite",
+        "3 ovos",
+        "3 colheres de sopa de chocolate em pó",
+        "Calda de chocolate pronta para acompanhar",
+        "Açúcar para caramelizar a forma"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bata leite condensado, leite, ovos e chocolate em pó no liquidificador.",
+    "Caramelize uma forma de pudim com açúcar.",
+    "Despeje o creme na forma caramelizada.",
+    "Asse em banho-maria por cerca de 1 hora e 30 minutos, até firmar.",
+    "Deixe esfriar completamente antes de desenformar.",
+    "Cubra com calda de chocolate antes de servir."
+  ],
+  "tips": [
+    "Chocolate meio amargo deixa o sabor mais intenso.",
+    "Amido de milho ajuda a firmar o pudim.",
+    "Finalize com raspas de chocolate, frutas ou chantilly."
+  ],
+  "servings": 10,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "cookMinutes": 60,
+  "structuredIngredients": [
+    {
+      "section": "Pudim",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 2,
+          "unit": "lata",
+          "name": "leite"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "colheres de sopa de chocolate em pó"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Calda de chocolate pronta",
+          "note": "para acompanhar"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Açúcar",
+          "note": "para caramelizar a forma"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Bata leite condensado, leite, ovos e chocolate em pó no liquidificador.",
+        "Caramelize uma forma de pudim com açúcar.",
+        "Despeje o creme na forma caramelizada.",
+        "Asse em banho-maria por cerca de 1 hora e 30 minutos, até firmar.",
+        "Deixe esfriar completamente antes de desenformar.",
+        "Cubra com calda de chocolate antes de servir."
+      ]
+    }
+  ]
+}

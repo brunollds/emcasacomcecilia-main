@@ -1,0 +1,188 @@
+{
+  "id": 103,
+  "slug": "lasanha-vegetariana-com-abobrinha-e-berinjela",
+  "title": "Lasanha Vegetariana com Abobrinha e Berinjela",
+  "description": "Lasanha leve com legumes grelhados, molho bechamel, parmesão e manjericão.",
+  "intro": "Esta lasanha vegetariana é a prova de que a leveza e o sabor podem andar de mãos dadas em um clássico. Substituindo a carne por lâminas de abobrinha e berinjela grelhadas, e unindo-as à cremosidade do molho béchamel, criamos uma arquitetura de legumes e queijo que derrete na boca, oferecendo uma refeição nutritiva e extremamente elegante.",
+  "context": "Uma alternativa moderna e sofisticada à lasanha tradicional, esta versão valoriza o frescor dos legumes da estação. A técnica de grelhar os vegetais antes da montagem concentra os sabores e garante a estrutura perfeita, resultando em um prato que agrada tanto vegetarianos quanto amantes da boa mesa que buscam uma opção mais leve e aromática.",
+  "categories": [
+    "Massas",
+    "Vegetariana",
+    "Italiana",
+    "Jantar"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Massas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Italiana"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "keyIngredients": [
+    "Abobrinha",
+    "Berinjela"
+  ],
+  "collections": [
+    "Para Congelar"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "30 min",
+  "totalTime": "55 min",
+  "difficulty": "Médio",
+  "yield": "6 porções",
+  "searchTerms": [
+    "lasanha vegetariana",
+    "abobrinha",
+    "berinjela",
+    "molho bechamel",
+    "massa vegetariana"
+  ],
+  "tags": [
+    "lasanhavegetariana",
+    "abobrinha",
+    "berinjela",
+    "massas",
+    "vegetariana",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Lasanha",
+      "items": [
+        "1 pacote de massa para lasanha pré-cozida",
+        "2 abobrinhas médias em fatias finas",
+        "2 berinjelas médias em fatias finas",
+        "2 colheres (sopa) de azeite",
+        "2 dentes de alho picados",
+        "Sal e pimenta-do-reino a gosto",
+        "1/2 xícara de manjericão fresco picado",
+        "1/2 xícara de queijo parmesão ralado"
+      ]
+    },
+    {
+      "section": "Molho Bechamel",
+      "items": [
+        "2 colheres (sopa) de manteiga",
+        "2 colheres (sopa) de farinha de trigo",
+        "2 xícaras de leite integral",
+        "Sal, pimenta-do-reino e noz-moscada a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Pré-aqueça o forno a 200°C.",
+    "Grelhe abobrinha e berinjela com azeite, alho, sal e pimenta.",
+    "Prepare o bechamel com manteiga, farinha e leite.",
+    "Monte camadas de massa, legumes, bechamel e parmesão.",
+    "Finalize com bechamel e parmesão.",
+    "Asse por cerca de 20 minutos.",
+    "Finalize com manjericão."
+  ],
+  "tips": [
+    "Cogumelos, tomate ou espinafre funcionam bem no recheio.",
+    "Sirva com salada verde.",
+    "Deixe descansar alguns minutos antes de cortar."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 25,
+  "cookMinutes": 30,
+  "structuredIngredients": [
+    {
+      "section": "Lasanha",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "massa para lasanha pré-cozida"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "abobrinhas médias em fatias finas"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "berinjelas médias em fatias finas"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres (sopa) de azeite"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "manjericão fresco picado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "queijo parmesão ralado"
+        }
+      ]
+    },
+    {
+      "section": "Molho Bechamel",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres (sopa) de manteiga"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres (sopa) de farinha de trigo"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "leite integral"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino e noz-moscada",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Pré-aqueça o forno a 200°C.",
+        "Grelhe abobrinha e berinjela com azeite, alho, sal e pimenta.",
+        "Prepare o bechamel com manteiga, farinha e leite.",
+        "Monte camadas de massa, legumes, bechamel e parmesão.",
+        "Finalize com bechamel e parmesão.",
+        "Asse por cerca de 20 minutos.",
+        "Finalize com manjericão."
+      ]
+    }
+  ]
+}

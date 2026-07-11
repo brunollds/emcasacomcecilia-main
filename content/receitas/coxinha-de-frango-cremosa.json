@@ -1,0 +1,205 @@
+{
+  "id": 68,
+  "slug": "coxinha-de-frango-cremosa",
+  "title": "Coxinha de Frango Cremosa",
+  "description": "Coxinha tradicional brasileira com massa cozida, frango temperado e casquinha crocante.",
+  "intro": "A coxinha de frango cremosa é o ícone absoluto das vitrines de salgados e das festas brasileiras. Com sua massa cozida aveludada e um recheio de frango desfiado temperado com perfeição, ela oferece o contraste irresistível de uma casquinha dourada e crocante que esconde um interior úmido e reconfortante.",
+  "context": "Criada em São Paulo no século XIX, a coxinha evoluiu de um simples aproveitamento de sobras para se tornar um símbolo da gastronomia popular nacional. Esta receita foca na técnica correta da massa e no tempero do recheio, garantindo aquele sabor de infância que faz da coxinha o salgado mais democrático e amado do Brasil.",
+  "image": "/images/recipes/salgados/coxinha-de-frango-cremosa.jpg",
+  "imageAlt": "Coxinhas de frango cremosas douradas e crocantes.",
+  "categories": [
+    "Brasileira",
+    "Salgados",
+    "Frango",
+    "Petiscos"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Salgados Fritos"
+  ],
+  "mealTime": [
+    "Happy Hour"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fritura"
+  ],
+  "keyIngredients": [
+    "Frango"
+  ],
+  "collections": [
+    "Receita Clássica",
+    "Para Congelar"
+  ],
+  "prepTime": "45 min",
+  "cookTime": "25 min",
+  "totalTime": "1h 10 min",
+  "difficulty": "Médio",
+  "yield": "20 unidades",
+  "isPopular": true,
+  "searchTerms": [
+    "coxinha",
+    "coxinha de frango",
+    "salgado brasileiro",
+    "frango desfiado",
+    "festa"
+  ],
+  "tags": [
+    "coxinhadefrango",
+    "salgados",
+    "frango",
+    "receitabrasileira",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 litro de água",
+        "500 g de farinha de trigo",
+        "1 colher (sopa) de manteiga",
+        "1 cubo de caldo de galinha",
+        "Sal a gosto"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "1 peito de frango cozido e desfiado",
+        "1 cebola pequena picada",
+        "2 dentes de alho picados",
+        "1 colher (sopa) de azeite",
+        "Sal, pimenta-do-reino e salsinha a gosto"
+      ]
+    },
+    {
+      "section": "Para empanar",
+      "items": [
+        "1 ovo batido",
+        "Farinha de rosca",
+        "Óleo para fritar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Para a massa, ferva a água com manteiga, caldo de galinha e sal.",
+    "Adicione a farinha de uma só vez e mexa até desgrudar do fundo.",
+    "Deixe a massa esfriar.",
+    "Para o recheio, refogue cebola e alho no azeite.",
+    "Adicione o frango desfiado, tempere e finalize com salsinha.",
+    "Abra porções da massa, recheie e modele as coxinhas.",
+    "Passe no ovo batido e na farinha de rosca.",
+    "Frite em óleo quente até dourar."
+  ],
+  "tips": [
+    "Adicione requeijão, catupiry ou milho verde ao recheio para deixá-lo mais cremoso.",
+    "Para massa mais crocante, acrescente 1 colher de sopa de amido de milho.",
+    "Sirva quente com molho de pimenta, ketchup ou mostarda."
+  ],
+  "servings": 20,
+  "servingsUnit": "unidades",
+  "prepMinutes": 45,
+  "cookMinutes": 25,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "l",
+          "name": "água"
+        },
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de manteiga"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cubo de caldo de galinha"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal",
+          "note": "a gosto"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "peito de frango cozido e desfiado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de azeite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino e salsinha",
+          "note": "a gosto"
+        }
+      ]
+    },
+    {
+      "section": "Para empanar",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo batido"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Farinha de rosca"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Óleo",
+          "note": "para fritar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Para a massa, ferva a água com manteiga, caldo de galinha e sal.",
+        "Adicione a farinha de uma só vez e mexa até desgrudar do fundo.",
+        "Deixe a massa esfriar.",
+        "Para o recheio, refogue cebola e alho no azeite.",
+        "Adicione o frango desfiado, tempere e finalize com salsinha.",
+        "Abra porções da massa, recheie e modele as coxinhas.",
+        "Passe no ovo batido e na farinha de rosca.",
+        "Frite em óleo quente até dourar."
+      ]
+    }
+  ]
+}

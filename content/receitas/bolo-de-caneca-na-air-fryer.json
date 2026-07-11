@@ -1,0 +1,138 @@
+{
+  "id": 34,
+  "slug": "bolo-de-caneca-na-air-fryer",
+  "title": "Bolo de Caneca na Air Fryer",
+  "description": "Bolo de caneca fofinho feito na air fryer, ideal para uma sobremesa individual rápida.",
+  "intro": "O bolo de caneca na air fryer é a solução mágica para aquele desejo súbito por um doce quentinho e fofinho. Com uma massa leve e preparo que leva apenas alguns minutos, ele oferece o conforto de um bolo caseiro em porção individual, perfeito para um lanche rápido ou uma sobremesa de última hora sem sujeira na cozinha.",
+  "context": "Essa receita é uma evolução moderna dos bolos de micro-ondas, aproveitando a circulação de ar quente da air fryer para criar uma textura superior, mais próxima da de um forno convencional. É a prova de que a tecnologia pode ser uma aliada da confeitaria afetiva, permitindo pequenas indulgências com máxima praticidade.",
+  "image": "/images/recipes/air-fryer/bolo-de-caneca-na-air-fryer.jpg",
+  "imageAlt": "Bolo de caneca feito na air fryer com cobertura simples.",
+  "categories": [
+    "Air Fryer",
+    "Doces",
+    "Rápido"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Bolos"
+  ],
+  "mealTime": [
+    "Lanche da Tarde"
+  ],
+  "method": [
+    "Air Fryer"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Receitas em 30 min",
+    "Para Dois"
+  ],
+  "prepTime": "5 min",
+  "cookTime": "20 min",
+  "totalTime": "25 min",
+  "difficulty": "Fácil",
+  "yield": "1 caneca",
+  "isNew": true,
+  "searchTerms": [
+    "bolo de caneca",
+    "air fryer",
+    "bolo rápido",
+    "sobremesa",
+    "farinha de trigo",
+    "ovo",
+    "leite"
+  ],
+  "tags": [
+    "bolodecaneca",
+    "airfryer",
+    "sobremesa",
+    "receitafacil",
+    "rapido",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 ovo",
+        "4 colheres (sopa) de leite",
+        "3 colheres (sopa) de óleo",
+        "5 colheres (sopa) de açúcar",
+        "6 colheres (sopa) de farinha de trigo",
+        "1 colher (chá) de fermento em pó",
+        "1 pitada de sal"
+      ]
+    }
+  ],
+  "instructions": [
+    "Em uma caneca, misture o ovo, o leite, o óleo e o açúcar.",
+    "Adicione a farinha de trigo, o fermento e o sal, misturando bem até obter uma massa homogênea.",
+    "Leve a caneca à Air Fryer pré-aquecida a 180°C por cerca de 15 a 20 minutos, ou até dourar.",
+    "Retire com cuidado e deixe esfriar um pouco antes de servir."
+  ],
+  "tips": [
+    "Use uma caneca com capacidade para pelo menos 300 ml.",
+    "Unte a caneca com manteiga ou óleo antes de colocar a massa.",
+    "Para versão de chocolate, adicione 2 colheres de sopa de chocolate em pó à massa.",
+    "Finalize com cobertura de chocolate, granulado, frutas frescas ou chantilly."
+  ],
+  "servings": 1,
+  "servingsUnit": "caneca",
+  "prepMinutes": 5,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "colheres (sopa) de leite"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "colheres (sopa) de óleo"
+        },
+        {
+          "qty": 5,
+          "unit": "",
+          "name": "colheres (sopa) de açúcar"
+        },
+        {
+          "qty": 6,
+          "unit": "",
+          "name": "colheres (sopa) de farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de fermento em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "pitada",
+          "name": "sal"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Em uma caneca, misture o ovo, o leite, o óleo e o açúcar.",
+        "Adicione a farinha de trigo, o fermento e o sal, misturando bem até obter uma massa homogênea.",
+        "Leve a caneca à Air Fryer pré-aquecida a 180°C por cerca de 15 a 20 minutos, ou até dourar.",
+        "Retire com cuidado e deixe esfriar um pouco antes de servir."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": 46,
+  "slug": "bolo-de-milho-cremoso-com-queijo-minas",
+  "title": "Bolo de Milho Cremoso com Queijo Minas",
+  "description": "Bolo de milho de liquidificador com textura cremosa, sabor de festa junina e cubinhos de queijo Minas.",
+  "intro": "O bolo de milho cremoso com queijo Minas é a expressão máxima do conforto rural brasileiro. Sua textura úmida e quase pudinesca, pontuada por cubinhos de queijo derretido, equilibra perfeitamente a doçura natural do milho com o toque salgado do queijo, criando um sabor rústico e irresistível que perfuma toda a casa.",
+  "context": "Enraizado nas tradições das Festas Juninas e das cozinhas de fazenda, este bolo celebra o milho como base fundamental da nossa dieta. A adição do queijo Minas padrão eleva a receita, unindo dois ícones da nossa gastronomia em um preparo de liquidificador que prova que a sofisticação pode morar na simplicidade.",
+  "image": "/images/recipes/bolos/bolo-de-milho-cremoso-com-queijo-minas.jpg",
+  "imageAlt": "Bolo de milho cremoso com queijo Minas servido em fatias.",
+  "categories": [
+    "Brasileira",
+    "Bolos Caseiros",
+    "Café da Manhã"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Bolos"
+  ],
+  "mealTime": [
+    "Café da Manhã",
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Mineira",
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Milho",
+    "Queijo"
+  ],
+  "collections": [
+    "Festa Junina",
+    "Receita de Vó"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "50 min",
+  "totalTime": "1h 5 min",
+  "difficulty": "Fácil",
+  "yield": "10 fatias",
+  "isPopular": true,
+  "searchTerms": [
+    "bolo de milho",
+    "queijo minas",
+    "flocão",
+    "festa junina",
+    "liquidificador",
+    "café"
+  ],
+  "tags": [
+    "bolodemilho",
+    "queijominas",
+    "receitafacil",
+    "brasileiro",
+    "festajunina",
+    "comidadevo",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "2 latas de milho verde escorrido",
+        "1 xícara (chá) de leite",
+        "3 ovos",
+        "2 colheres (sopa) de manteiga",
+        "1 e 1/2 xícara (chá) de açúcar",
+        "1 xícara (chá) de flocão de milho",
+        "1 colher (sopa) de fermento em pó",
+        "150 g de queijo Minas padrão em cubinhos"
+      ]
+    }
+  ],
+  "instructions": [
+    "No liquidificador, bata o milho, o leite, os ovos, a manteiga e o açúcar até ficar homogêneo.",
+    "Adicione o flocão de milho e bata rapidamente apenas para misturar.",
+    "Acrescente o fermento e misture com uma colher.",
+    "Adicione os cubinhos de queijo Minas à massa.",
+    "Despeje em uma forma untada e enfarinhada.",
+    "Asse em forno preaquecido a 180°C por cerca de 40 a 50 minutos, ou até dourar."
+  ],
+  "tips": [
+    "Para um bolo ainda mais cremoso, bata menos o milho e deixe alguns pedacinhos.",
+    "O queijo Minas padrão derrete melhor que o frescal nesta receita.",
+    "Sirva quentinho com café coado."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 15,
+  "cookMinutes": 50,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "lata",
+          "name": "milho verde escorrido"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de leite"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres (sopa) de manteiga"
+        },
+        {
+          "qty": 1.5,
+          "unit": "xíc.",
+          "name": "(chá) de açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de flocão de milho"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de fermento em pó"
+        },
+        {
+          "qty": 150,
+          "unit": "g",
+          "name": "queijo Minas padrão em cubinhos"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "No liquidificador, bata o milho, o leite, os ovos, a manteiga e o açúcar até ficar homogêneo.",
+        "Adicione o flocão de milho e bata rapidamente apenas para misturar.",
+        "Acrescente o fermento e misture com uma colher.",
+        "Adicione os cubinhos de queijo Minas à massa.",
+        "Despeje em uma forma untada e enfarinhada.",
+        "Asse em forno preaquecido a 180°C por cerca de 40 a 50 minutos, ou até dourar."
+      ]
+    }
+  ]
+}

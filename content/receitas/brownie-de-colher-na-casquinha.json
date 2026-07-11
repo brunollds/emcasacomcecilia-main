@@ -1,0 +1,142 @@
+{
+  "id": 155,
+  "slug": "brownie-de-colher-na-casquinha",
+  "title": "Brownie de Colher na Casquinha",
+  "description": "Brownie macio assado em casquinhas de sorvete e decorado com mini coelhos e ovinhos de Páscoa.",
+  "intro": "O brownie de colher na casquinha é the reinvenção portátil e divertida da sobremesa favorita de chocolate. Assado diretamente em casquinhas de sorvete e decorado com elementos de Páscoa, ele oferece the densidade perfeita do brownie com the crocância da casca, resultando em um doce criativo e extremamente prático para presentear.",
+  "context": "Inovação na confeitaria sazonal, esta receita utiliza the casquinha como um recipiente comestível e funcional. É the celebração da criatividade na cozinha, onde the técnica de assar em novos formatos permite descobertas de texturas e sabores, provando que the Páscoa pode ser celebrada com originalidade e muito chocolate de alta qualidade.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Brownies",
+    "Chocolate"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pudins & Cremes"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Páscoa",
+    "Para Dois"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "15 min",
+  "totalTime": "35 min",
+  "difficulty": "Fácil",
+  "yield": "8 unidades",
+  "searchTerms": [
+    "brownie de colher",
+    "casquinha de sorvete",
+    "Páscoa",
+    "mini ovos",
+    "sobremesa criativa"
+  ],
+  "tags": [
+    "browniedecolher",
+    "pascoacriativa",
+    "chocolate",
+    "sobremesa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Brownie",
+      "items": [
+        "150 g de chocolate meio amargo",
+        "100 g de manteiga",
+        "3 ovos",
+        "1 xícara de açúcar",
+        "1/2 xícara de farinha de trigo",
+        "1 colher de chá de essência de baunilha",
+        "Casquinhas de sorvete",
+        "Mini coelhos de chocolate e mini ovos de Páscoa para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Derreta chocolate e manteiga e reserve.",
+    "Bata ovos com açúcar até formar uma mistura clara.",
+    "Adicione baunilha e incorpore o chocolate derretido.",
+    "Misture a farinha até formar uma massa homogênea.",
+    "Distribua nas casquinhas até 3/4 da capacidade.",
+    "Asse a 180°C por cerca de 15 minutos.",
+    "Decore com mini coelhos e mini ovos de Páscoa."
+  ],
+  "tips": [
+    "Nozes, castanhas ou gotas de chocolate podem entrar na massa.",
+    "Sirva com sorvete de creme para contraste quente e frio.",
+    "Pode ser embalado individualmente como lembrancinha."
+  ],
+  "servings": 8,
+  "servingsUnit": "unidades",
+  "prepMinutes": 20,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Brownie",
+      "items": [
+        {
+          "qty": 150,
+          "unit": "g",
+          "name": "chocolate meio amargo"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de chá de essência de baunilha"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Casquinhas de sorvete"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Mini coelhos de chocolate e mini ovos de Páscoa",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Derreta chocolate e manteiga e reserve.",
+        "Bata ovos com açúcar até formar uma mistura clara.",
+        "Adicione baunilha e incorpore o chocolate derretido.",
+        "Misture a farinha até formar uma massa homogênea.",
+        "Distribua nas casquinhas até 3/4 da capacidade.",
+        "Asse a 180°C por cerca de 15 minutos.",
+        "Decore com mini coelhos e mini ovos de Páscoa."
+      ]
+    }
+  ]
+}

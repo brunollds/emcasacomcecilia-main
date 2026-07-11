@@ -1,0 +1,113 @@
+{
+  "id": 142,
+  "slug": "sorvete-de-chocolate-cremoso",
+  "title": "Sorvete de Chocolate Cremoso",
+  "description": "Sorvete caseiro de chocolate com leite condensado, creme de leite, chocolate em pó e manteiga.",
+  "intro": "O sorvete de chocolate cremoso é the resposta definitiva para os desejos de indulgência gelada. Com uma textura densa e rica, feita à base de chocolate em pó e leite condensado apurado no fogo, ele oferece um sabor profundo e reconfortante que derrete na boca, transformando o clássico favorito em uma joia da sua própria cozinha.",
+  "context": "Esta receita adapta the técnica de cremes cozidos para garantir uma estrutura mais firme e aveludada após o congelamento. É the celebração do chocolate em sua forma mais democrática e amada, sendo the base perfeita para acompanhar bolos quentes ou ser apreciado puramente como um mimo sofisticado e extremamente prático de preparar.",
+  "categories": [
+    "Sobremesas",
+    "Sorvetes",
+    "Chocolate",
+    "Doces Gelados"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Gelados"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Verão",
+    "Para Congelar",
+    "Comfort Food"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "10 min",
+  "totalTime": "4 h 25 min",
+  "difficulty": "Fácil",
+  "yield": "6 porções",
+  "searchTerms": [
+    "sorvete de chocolate",
+    "sorvete caseiro",
+    "chocolate em pó",
+    "sorvete cremoso"
+  ],
+  "tags": [
+    "sorvetedechocolate",
+    "chocolate",
+    "sorvetecaseiro",
+    "sobremesa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Sorvete",
+      "items": [
+        "1 lata de leite condensado",
+        "1 lata de creme de leite",
+        "1/2 xícara de chocolate em pó",
+        "1 colher de sopa de manteiga"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture leite condensado, creme de leite, chocolate em pó e manteiga em uma panela.",
+    "Cozinhe em fogo baixo, mexendo sempre, até engrossar.",
+    "Retire do fogo e deixe esfriar.",
+    "Despeje em um recipiente e leve ao freezer por pelo menos 4 horas.",
+    "Retire alguns minutos antes de servir."
+  ],
+  "tips": [
+    "Bater o creme na batedeira antes de congelar melhora a textura.",
+    "Chocolate picado ou licor de chocolate intensificam o sabor.",
+    "Sirva com frutas frescas, calda ou chantilly."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "cookMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Sorvete",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "chocolate em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de sopa de manteiga"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture leite condensado, creme de leite, chocolate em pó e manteiga em uma panela.",
+        "Cozinhe em fogo baixo, mexendo sempre, até engrossar.",
+        "Retire do fogo e deixe esfriar.",
+        "Despeje em um recipiente e leve ao freezer por pelo menos 4 horas.",
+        "Retire alguns minutos antes de servir."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": 118,
+  "slug": "salada-de-batata-com-maionese-caseira-e-ervas",
+  "title": "Salada de Batata com Maionese Caseira e Ervas",
+  "description": "Salada cremosa de batata com maionese caseira, mostarda Dijon, cenoura, salsão e ervas frescas.",
+  "intro": "A salada de batata com maionese é o acompanhamento que nunca pode faltar no churrasco de domingo ou no almoço em família. Com a cremosidade luxuosa da maionese feita em casa, acentuada pela picância da mostarda Dijon e o frescor das ervas colhidas na hora, ela transforma ingredientes humildes em uma experiência aveludada e irresistível.",
+  "context": "Prato afetivo por excelência, a 'maionese' brasileira é uma adaptação de clássicos europeus que conquistou um lugar cativo no coração do país. O segredo da textura perfeita está no corte uniforme das batatas e no resfriamento correto antes de incorporar o molho, garantindo que cada cubo de batata permaneça íntegro e envolto em um sabor que evoca as melhores memórias de festas e celebrações.",
+  "categories": [
+    "Saladas",
+    "Acompanhamentos",
+    "Leves",
+    "Caseiras"
+  ],
+  "primaryCategory": "Salada",
+  "subCategory": [
+    "Saladas Verdes"
+  ],
+  "mealTime": [
+    "Almoço"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "keyIngredients": [
+    "Batata"
+  ],
+  "collections": [
+    "Receita Clássica",
+    "Comfort Food"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "20 min",
+  "totalTime": "40 min",
+  "difficulty": "Fácil",
+  "yield": "6 porções",
+  "searchTerms": [
+    "salada de batata",
+    "maionese caseira",
+    "mostarda Dijon",
+    "salsão",
+    "ervas frescas"
+  ],
+  "tags": [
+    "saladadebatata",
+    "maionesecaseira",
+    "receitafacil",
+    "acompanhamento",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Salada",
+      "items": [
+        "1 kg de batatas cozidas e cortadas em cubos",
+        "1 cenoura média ralada",
+        "1 talo de salsão picado",
+        "1/2 xícara de maionese caseira",
+        "1/4 xícara de mostarda Dijon",
+        "1 colher de sopa de vinagre de vinho branco",
+        "Sal e pimenta-do-reino a gosto",
+        "Salsinha e cebolinha picadas a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture as batatas cozidas, a cenoura ralada e o salsão em uma tigela grande.",
+    "Em outro recipiente, misture a maionese, a mostarda, o vinagre, o sal e a pimenta.",
+    "Despeje o molho sobre a salada e misture delicadamente.",
+    "Finalize com salsinha e cebolinha.",
+    "Leve à geladeira por pelo menos 30 minutos antes de servir."
+  ],
+  "tips": [
+    "Use mais maionese se quiser uma salada mais cremosa.",
+    "Pepino, milho ou ervilha podem entrar como variações.",
+    "Combina bem com carnes, frango e peixe."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 20,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Salada",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "kg de batatas cozidas e cortadas em cubos"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cenoura média ralada"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "talo de salsão picado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "maionese caseira"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "mostarda Dijon"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de sopa de vinagre de vinho branco"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Salsinha e cebolinha picadas",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture as batatas cozidas, a cenoura ralada e o salsão em uma tigela grande.",
+        "Em outro recipiente, misture a maionese, a mostarda, o vinagre, o sal e a pimenta.",
+        "Despeje o molho sobre a salada e misture delicadamente.",
+        "Finalize com salsinha e cebolinha.",
+        "Leve à geladeira por pelo menos 30 minutos antes de servir."
+      ]
+    }
+  ]
+}

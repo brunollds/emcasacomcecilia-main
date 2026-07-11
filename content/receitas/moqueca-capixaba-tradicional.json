@@ -1,0 +1,162 @@
+{
+  "id": 48,
+  "slug": "moqueca-capixaba-tradicional",
+  "title": "Moqueca Capixaba Tradicional",
+  "description": "Moqueca capixaba com peixe fresco, coentro, urucum e cozimento lento na panela de barro.",
+  "intro": "A moqueca capixaba é a celebração da simplicidade e do frescor do mar. Diferente da versão baiana, ela não utiliza leite de coco ou dendê, focando na pureza do peixe e no colorido natural do urucum, resultando em um caldo leve, aromático e profundamente saboroso que é um verdadeiro ícone da nossa costa.",
+  "context": "Com raízes indígenas e tradição secular no Espírito Santo, este prato é tradicionalmente preparado em panelas de barro feitas à mão por artesãs capixabas. É mais do que uma receita; é um patrimônio cultural que exige paciência no cozimento lento, preservando a integridade das postas e a alma da gastronomia brasileira.",
+  "image": "/images/recipes/peixes/moqueca-capixaba-tradicional.jpg",
+  "imageAlt": "Moqueca capixaba tradicional em panela de barro com peixe e coentro.",
+  "categories": [
+    "Capixaba",
+    "Brasileira",
+    "Peixes",
+    "Saudáveis"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Peixes & Frutos do Mar",
+    "Refogados & Ensopados"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Capixaba",
+    "Brasileira"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Sem Glúten",
+    "Sem Lactose"
+  ],
+  "keyIngredients": [
+    "Peixe"
+  ],
+  "collections": [
+    "Receita Clássica",
+    "Receita de Vó"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "30 min",
+  "totalTime": "50 min",
+  "difficulty": "Médio",
+  "yield": "6 porções",
+  "searchTerms": [
+    "moqueca capixaba",
+    "peixe",
+    "panela de barro",
+    "urucum",
+    "coentro",
+    "espírito santo"
+  ],
+  "tags": [
+    "moquecacapixaba",
+    "peixe",
+    "brasileira",
+    "espiritosanto",
+    "tradicao",
+    "saudavel",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Moqueca",
+      "items": [
+        "1kg de peixe fresco em postas, como badejo ou robalo",
+        "1 cebola em rodelas",
+        "4 tomates em rodelas",
+        "2 pimentões em rodelas",
+        "1 maço de coentro fresco",
+        "1/2 xícara de azeite de oliva",
+        "1/4 xícara de azeite de urucum ou colorau",
+        "Suco de 2 limões",
+        "Sal e pimenta a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Tempere o peixe com limão, sal e pimenta.",
+    "Na panela de barro, faça camadas de legumes e peixe.",
+    "Regue com o azeite de oliva e o azeite de urucum.",
+    "Cozinhe em fogo baixo por cerca de 30 minutos, sem mexer para não quebrar o peixe.",
+    "Adicione o coentro no final e sirva com arroz e pirão."
+  ],
+  "tips": [
+    "A panela de barro mantém o calor por muito tempo, então desligue o fogo um pouco antes do ponto final.",
+    "Use cabeça e rabo do peixe para preparar um caldo de pirão mais saboroso."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 20,
+  "cookMinutes": 30,
+  "structuredIngredients": [
+    {
+      "section": "Moqueca",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "kg de peixe fresco em postas, como badejo ou robalo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola em rodelas"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "tomates em rodelas"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "pimentões em rodelas"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "maço de coentro fresco"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "azeite de oliva"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "azeite de urucum ou colorau"
+        },
+        {
+          "qty": 2,
+          "unit": "un.",
+          "name": "limões",
+          "note": "suco"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Tempere o peixe com limão, sal e pimenta.",
+        "Na panela de barro, faça camadas de legumes e peixe.",
+        "Regue com o azeite de oliva e o azeite de urucum.",
+        "Cozinhe em fogo baixo por cerca de 30 minutos, sem mexer para não quebrar o peixe.",
+        "Adicione o coentro no final e sirva com arroz e pirão."
+      ]
+    }
+  ]
+}

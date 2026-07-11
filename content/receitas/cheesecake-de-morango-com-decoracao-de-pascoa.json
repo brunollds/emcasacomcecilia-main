@@ -1,0 +1,137 @@
+{
+  "id": 214,
+  "slug": "cheesecake-de-morango-com-decoracao-de-pascoa",
+  "title": "Cheesecake de Morango com Decoração de Páscoa",
+  "description": "Cheesecake gelado com base de biscoito, creme de cream cheese, geleia de morango e mini ovos.",
+  "intro": "Este cheesecake de morango é the síntese da cremosidade e do brilho frutal para the sua mesa de Páscoa. Com uma base crocante que sustenta um recheio denso de cream cheese e uma geleia vibrante de morangos frescos, ele oferece um visual de joalheria gastronômica e um sabor equilibrado que é puro luxo e frescor para celebrar the data com requinte.",
+  "context": "Valorizando the harmonia entre the doçura láctea e the acidez vibrante da fruta, esta receita é uma lição de técnica e paciência no resfriamento. A decoração temática com mini ovos adiciona the camada lúdica necessária para the Páscoa, celebrando the herança das tortas de queijo com um toque de criatividade sazonal que antecipa o prazer de cada garfada sofisticada.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Cheesecakes",
+    "Frutas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Cheesecakes"
+  ],
+  "cuisine": [
+    "Americana"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Morango"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "0 min",
+  "totalTime": "4 h 50 min",
+  "difficulty": "Fácil",
+  "yield": "10 fatias",
+  "searchTerms": [
+    "cheesecake de morango",
+    "Páscoa",
+    "cream cheese",
+    "geleia de morango",
+    "mini ovos"
+  ],
+  "tags": [
+    "cheesecakedemorango",
+    "pascoacriativa",
+    "sobremesaelegante",
+    "morango",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Base e recheio",
+      "items": [
+        "200 g de biscoitos triturados",
+        "100 g de manteiga derretida",
+        "500 g de cream cheese",
+        "1 lata de leite condensado",
+        "1 caixa de creme de leite",
+        "1 xícara de geleia de morango",
+        "Mini ovos de Páscoa para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture biscoitos triturados com manteiga derretida.",
+    "Forre o fundo de uma forma removível e leve à geladeira por 30 minutos.",
+    "Bata cream cheese, leite condensado e creme de leite até obter creme homogêneo.",
+    "Espalhe o creme sobre a base.",
+    "Leve à geladeira por pelo menos 4 horas.",
+    "Cubra com geleia de morango.",
+    "Decore com mini ovos de Páscoa antes de servir."
+  ],
+  "tips": [
+    "Framboesa ou amora podem substituir a geleia de morango.",
+    "Flores comestíveis e raspas de chocolate branco refinam a decoração.",
+    "Também funciona em potes individuais para presentear."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Base e recheio",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "biscoitos triturados"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga derretida"
+        },
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "cream cheese"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "caixa",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "geleia de morango"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Mini ovos de Páscoa",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture biscoitos triturados com manteiga derretida.",
+        "Forre o fundo de uma forma removível e leve à geladeira por 30 minutos.",
+        "Bata cream cheese, leite condensado e creme de leite até obter creme homogêneo.",
+        "Espalhe o creme sobre a base.",
+        "Leve à geladeira por pelo menos 4 horas.",
+        "Cubra com geleia de morango.",
+        "Decore com mini ovos de Páscoa antes de servir."
+      ]
+    }
+  ]
+}

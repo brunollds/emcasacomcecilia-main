@@ -1,0 +1,147 @@
+{
+  "id": 169,
+  "slug": "brownies-com-nozes-e-ganache-de-caramelo-salgado",
+  "title": "Brownies com Nozes e Ganache de Caramelo Salgado",
+  "description": "Brownies densos de chocolate com nozes e cobertura cremosa de caramelo salgado.",
+  "intro": "Estes brownies elevam o conceito de indulgência com sua massa densa de chocolate com nozes, coroada por uma luxuosa ganache de caramelo salgado. O equilíbrio perfeito entre o doce profundo, o amargor do cacau e o toque mineral do sal marinho cria uma experiência sensorial complexa e absolutamente viciante que é the estrela de qualquer mesa de sobremesas.",
+  "context": "O caramelo salgado é um pilar da confeitaria moderna que traz sofisticação imediata aos clássicos. Nesta receita, the técnica de assar o brownie com nozes garante camadas de textura, enquanto the cobertura fluida celebra the fusão de sabores contrastantes, resultando em um doce de Páscoa que é sinônimo de modernidade e prazer adulto refinado.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Brownies",
+    "Chocolate"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Brownies"
+  ],
+  "cuisine": [
+    "Americana"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Comfort Food"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "25 min",
+  "totalTime": "50 min",
+  "difficulty": "Fácil",
+  "yield": "12 pedaços",
+  "searchTerms": [
+    "brownie com nozes",
+    "caramelo salgado",
+    "ganache",
+    "Páscoa gourmet",
+    "chocolate"
+  ],
+  "tags": [
+    "browniesincriveis",
+    "caramelosalgado",
+    "nozes",
+    "pascoagourmet",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Brownie e ganache",
+      "items": [
+        "200 g de chocolate meio amargo",
+        "150 g de manteiga",
+        "1 xícara de açúcar",
+        "3 ovos",
+        "1/2 xícara de farinha de trigo",
+        "1/2 xícara de nozes picadas",
+        "1/2 xícara de creme de leite",
+        "100 g de caramelo",
+        "1 pitada de sal marinho"
+      ]
+    }
+  ],
+  "instructions": [
+    "Derreta chocolate e manteiga até obter mistura homogênea.",
+    "Bata ovos com açúcar e incorpore ao chocolate.",
+    "Adicione farinha e nozes, misturando delicadamente.",
+    "Asse a 180°C por 20 a 25 minutos.",
+    "Aqueça creme de leite e misture caramelo e sal até formar ganache.",
+    "Despeje a ganache sobre os brownies ainda quentes."
+  ],
+  "tips": [
+    "Ajuste o sal para equilibrar doce e salgado.",
+    "Flor de sal deixa a finalização mais sofisticada.",
+    "Sirva com sorvete de creme."
+  ],
+  "servings": 12,
+  "servingsUnit": "pedaços",
+  "prepMinutes": 25,
+  "cookMinutes": 25,
+  "structuredIngredients": [
+    {
+      "section": "Brownie e ganache",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "chocolate meio amargo"
+        },
+        {
+          "qty": 150,
+          "unit": "g",
+          "name": "manteiga"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "nozes picadas"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "caramelo"
+        },
+        {
+          "qty": 1,
+          "unit": "pitada",
+          "name": "sal marinho"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Derreta chocolate e manteiga até obter mistura homogênea.",
+        "Bata ovos com açúcar e incorpore ao chocolate.",
+        "Adicione farinha e nozes, misturando delicadamente.",
+        "Asse a 180°C por 20 a 25 minutos.",
+        "Aqueça creme de leite e misture caramelo e sal até formar ganache.",
+        "Despeje a ganache sobre os brownies ainda quentes."
+      ]
+    }
+  ]
+}

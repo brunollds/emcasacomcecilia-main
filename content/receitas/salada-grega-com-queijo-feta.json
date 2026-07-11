@@ -1,0 +1,155 @@
+{
+  "id": 113,
+  "slug": "salada-grega-com-queijo-feta",
+  "title": "Salada Grega com Queijo Feta",
+  "description": "Salada fresca com tomate, pepino, cebola roxa, azeitonas, queijo feta, limão e orégano.",
+  "intro": "A salada grega é o frescor do Mediterrâneo servido em uma tigela vibrante e cheia de vida. Com a crocância do pepino, a doçura do tomate maduro e a cremosidade salgada do autêntico queijo feta, esta combinação é um exemplo magistral de como poucos ingredientes de alta qualidade podem criar uma experiência gastronômica refrescante e profundamente aromática.",
+  "context": "Conhecida na Grécia como 'Horiatiki' (salada camponesa), este prato é a alma das refeições de verão. A receita valoriza a pureza do azeite de oliva e o perfume do orégano seco, celebrando uma tradição milenar onde o frescor absoluto dos ingredientes dita o ritmo, tornando-a o acompanhamento ideal para grelhados ou um almoço leve e revitalizante.",
+  "categories": [
+    "Saladas",
+    "Grega",
+    "Vegetariana",
+    "Leves"
+  ],
+  "primaryCategory": "Salada",
+  "subCategory": [
+    "Saladas Verdes"
+  ],
+  "mealTime": [
+    "Almoço"
+  ],
+  "cuisine": [
+    "Grega",
+    "Mediterrânea"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "diet": [
+    "Vegetariana",
+    "Low Carb"
+  ],
+  "keyIngredients": [
+    "Queijo",
+    "Tomate"
+  ],
+  "collections": [
+    "Receitas em 30 min",
+    "Verão"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "0 min",
+  "totalTime": "15 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "searchTerms": [
+    "salada grega",
+    "queijo feta",
+    "pepino",
+    "azeitonas",
+    "salada mediterrânea"
+  ],
+  "tags": [
+    "saladagrega",
+    "queijofeta",
+    "salada",
+    "mediterranea",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Salada",
+      "items": [
+        "2 tomates maduros em cubos",
+        "1 pepino japonês em rodelas",
+        "1 cebola roxa pequena em rodelas finas",
+        "1/2 xícara de azeitonas pretas fatiadas",
+        "200 g de queijo feta em cubos",
+        "1/4 xícara de azeite",
+        "Suco de 1 limão",
+        "Sal e pimenta-do-reino a gosto",
+        "Orégano fresco picado a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture tomates, pepino, cebola, azeitonas e feta em uma tigela.",
+    "Tempere com azeite, limão, sal e pimenta.",
+    "Finalize com orégano fresco.",
+    "Sirva imediatamente."
+  ],
+  "tips": [
+    "Use tomates maduros para mais sabor.",
+    "Pimentão verde ou vermelho deixa a salada mais crocante.",
+    "Sirva com carnes grelhadas, peixes ou frango assado."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Salada",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "tomates maduros em cubos"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "pepino japonês em rodelas"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola roxa pequena em rodelas finas"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "azeitonas pretas fatiadas"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "queijo feta em cubos"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "azeite"
+        },
+        {
+          "qty": 1,
+          "unit": "un.",
+          "name": "limão",
+          "note": "suco"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Orégano fresco picado",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture tomates, pepino, cebola, azeitonas e feta em uma tigela.",
+        "Tempere com azeite, limão, sal e pimenta.",
+        "Finalize com orégano fresco.",
+        "Sirva imediatamente."
+      ]
+    }
+  ]
+}

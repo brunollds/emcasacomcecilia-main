@@ -1,0 +1,168 @@
+{
+  "id": 181,
+  "slug": "salmao-assado-com-batatas-e-vegetais",
+  "title": "Salmão Assado com Batatas e Vegetais",
+  "description": "Jantar de uma assadeira só com salmão suculento, batatas, vagem e cebola.",
+  "image": "/images/recipes/peixes/salmao-assado-com-batatas-e-vegetais.jpg",
+  "imageAlt": "Salmão assado com batatas e vegetais em assadeira.",
+  "categories": [
+    "Peixes",
+    "Jantar",
+    "Saudáveis",
+    "Prato Único"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Peixes & Frutos do Mar"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "diet": [
+    "Fit",
+    "High Protein",
+    "Sem Glúten"
+  ],
+  "keyIngredients": [
+    "Salmão",
+    "Batata"
+  ],
+  "collections": [
+    "Receitas em 30 min"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "30 min",
+  "totalTime": "45 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "searchTerms": [
+    "salmão assado",
+    "batatas",
+    "vegetais",
+    "jantar prático",
+    "uma assadeira"
+  ],
+  "tags": [
+    "salmaoassado",
+    "receitapratica",
+    "jantargourmet",
+    "peixeperfeito",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Assadeira",
+      "items": [
+        "800 g de salmão fresco com pele",
+        "4 batatas médias pré-cozidas",
+        "150 g de vagem",
+        "1 cebola roxa cortada em pétalas",
+        "3 dentes de alho inteiros",
+        "Azeite extra virgem a gosto",
+        "Sal temperado ou sal comum a gosto",
+        "Pimenta-do-reino moída na hora a gosto",
+        "Raspas de limão siciliano para finalizar",
+        "Papel antiaderente para forrar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Pré-aqueça o forno a 200°C.",
+    "Forre a assadeira com papel antiaderente.",
+    "Coloque o salmão no centro da forma, com a pele para baixo.",
+    "Distribua batatas pré-cozidas, vagem, cebola e alho ao redor.",
+    "Regue tudo generosamente com azeite.",
+    "Tempere com sal temperado e pimenta-do-reino.",
+    "Asse por 25 a 30 minutos, sem virar.",
+    "Finalize com raspas de limão siciliano nos últimos minutos."
+  ],
+  "tips": [
+    "Pré-cozinhe as batatas por 10 minutos para garantir interior macio.",
+    "Não asse o salmão por tempo excessivo para evitar que resseque.",
+    "Sirva em travessa grande com ervas frescas para uma apresentação mais elegante."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "cookMinutes": 30,
+  "structuredIngredients": [
+    {
+      "section": "Assadeira",
+      "items": [
+        {
+          "qty": 800,
+          "unit": "g",
+          "name": "salmão fresco com pele"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "batatas médias pré-cozidas"
+        },
+        {
+          "qty": 150,
+          "unit": "g",
+          "name": "vagem"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola roxa cortada em pétalas"
+        },
+        {
+          "qty": 3,
+          "unit": "dentes",
+          "name": "alho inteiros"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Azeite extra virgem",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal temperado ou sal comum",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Pimenta-do-reino moída na hora",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Raspas de limão siciliano",
+          "note": "para finalizar"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Papel antiaderente para forrar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Pré-aqueça o forno a 200°C.",
+        "Forre a assadeira com papel antiaderente.",
+        "Coloque o salmão no centro da forma, com a pele para baixo.",
+        "Distribua batatas pré-cozidas, vagem, cebola e alho ao redor.",
+        "Regue tudo generosamente com azeite.",
+        "Tempere com sal temperado e pimenta-do-reino.",
+        "Asse por 25 a 30 minutos, sem virar.",
+        "Finalize com raspas de limão siciliano nos últimos minutos."
+      ]
+    }
+  ]
+}

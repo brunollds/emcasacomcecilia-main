@@ -1,0 +1,135 @@
+{
+  "id": 164,
+  "slug": "pavlova-ninho-com-frutas-tropicais",
+  "title": "Pavlova-Ninho com Frutas Tropicais",
+  "description": "Pavlova em formato de ninho com merengue crocante, chantilly, manga, kiwi e maracujá.",
+  "intro": "A pavlova-ninho é the síntese da leveza e do brilho tropical. Com seu merengue crocante por fora e macio como marshmallow por dentro, moldado em formato de ninho, ela acolhe um recheio de chantilly e frutas como manga e kiwi, resultando em uma sobremesa etérea e refrescante que é um verdadeiro espetáculo visual na mesa de Páscoa.",
+  "context": "Um clássico da Oceania com alma brasileira, the pavlova destaca-se pela técnica de assar em baixa temperatura para manter the alvura do merengue. A adição de frutas tropicais cítricas equilibra the doçura do açúcar, celebrando the elegância da simplicidade e the sofisticação de texturas que derretem na boca em um momento de pura celebração.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Frutas",
+    "Sobremesas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Tortas Doces"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Morango"
+  ],
+  "collections": [
+    "Páscoa",
+    "Verão"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "1 h 30 min",
+  "totalTime": "3 h 55 min",
+  "difficulty": "Médio",
+  "yield": "8 porções",
+  "searchTerms": [
+    "pavlova ninho",
+    "frutas tropicais",
+    "merengue",
+    "manga",
+    "kiwi",
+    "maracujá"
+  ],
+  "tags": [
+    "pavlovacriativa",
+    "pascoatropical",
+    "frutastropicais",
+    "merengue",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Pavlova",
+      "items": [
+        "4 claras em neve",
+        "1 xícara de açúcar",
+        "1 colher de sopa de vinagre",
+        "200 ml de chantilly",
+        "1 manga em cubos",
+        "2 kiwis em cubos",
+        "Polpa de maracujá a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bata claras com açúcar até formar um merengue brilhante.",
+    "Adicione o vinagre e misture delicadamente.",
+    "Modele em formato de ninho.",
+    "Asse a 110°C por 1 hora e 30 minutos.",
+    "Desligue o forno e deixe esfriar por 2 horas.",
+    "Recheie com chantilly, manga, kiwi e maracujá."
+  ],
+  "tips": [
+    "Use um garfo para texturizar o merengue se não tiver bico de confeitar.",
+    "Creme de coco substitui o chantilly em versão sem lactose.",
+    "Calda de gengibre dá um toque extra."
+  ],
+  "servings": 8,
+  "servingsUnit": "porções",
+  "prepMinutes": 25,
+  "cookMinutes": 60,
+  "structuredIngredients": [
+    {
+      "section": "Pavlova",
+      "items": [
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "claras em neve"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de sopa de vinagre"
+        },
+        {
+          "qty": 200,
+          "unit": "ml",
+          "name": "chantilly"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "manga em cubos"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "kiwis em cubos"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Polpa de maracujá",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Bata claras com açúcar até formar um merengue brilhante.",
+        "Adicione o vinagre e misture delicadamente.",
+        "Modele em formato de ninho.",
+        "Asse a 110°C por 1 hora e 30 minutos.",
+        "Desligue o forno e deixe esfriar por 2 horas.",
+        "Recheie com chantilly, manga, kiwi e maracujá."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": 211,
+  "slug": "sanduiches-doces-de-pascoa",
+  "title": "Sanduíches Doces de Páscoa",
+  "description": "Sanduíches de brioche com Nutella, morangos, marshmallows e decoração de Páscoa.",
+  "intro": "Estes sanduíches doces de brioche são the definição de lanche festivo e surpreendente. Recheados com the cremosidade da Nutella e o frescor dos morangos e marshmallows, eles oferecem um contraste de texturas e sabores que transforma o café da tarde de Páscoa em um momento de pura alegria e indulgência lúdica.",
+  "context": "Adaptando o conceito de sanduíche para o universo das sobremesas, esta receita celebra the versatilidade das massas amanteigadas. A técnica de aquecer levemente o brioche desperta os aromas e funde os recheios, resultando em um preparo prático e impactante que honra the tradição de reunir the família em volta de lanches criativos e cheios de sabor.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Lanches",
+    "Doces"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Biscoitos & Cookies"
+  ],
+  "mealTime": [
+    "Lanche da Tarde"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "collections": [
+    "Páscoa",
+    "Para Crianças"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "5 min",
+  "totalTime": "15 min",
+  "difficulty": "Fácil",
+  "yield": "4 unidades",
+  "searchTerms": [
+    "sanduíches doces",
+    "brioche",
+    "Nutella",
+    "morango",
+    "marshmallow"
+  ],
+  "tags": [
+    "sanduichesdoces",
+    "brioche",
+    "nutella",
+    "pascoadivertida",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Sanduíches",
+      "items": [
+        "4 pães de brioche",
+        "Nutella a gosto",
+        "Morangos frescos fatiados",
+        "Marshmallows",
+        "Mini coelhos de chocolate para decorar",
+        "Açúcar de confeiteiro para finalizar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Corte os pães de brioche ao meio.",
+    "Recheie com Nutella, morangos fatiados e marshmallows.",
+    "Aqueça rapidamente na sanduicheira ou no forno para derreter o recheio.",
+    "Decore com mini coelhos de chocolate.",
+    "Finalize com açúcar de confeiteiro, se desejar."
+  ],
+  "tips": [
+    "Doce de leite, geleia ou frutas secas funcionam como variações.",
+    "Aqueça pouco para não derreter demais o chocolate decorativo.",
+    "Embale em saquinhos transparentes para lembrancinhas."
+  ],
+  "servings": 4,
+  "servingsUnit": "unidades",
+  "prepMinutes": 10,
+  "cookMinutes": 5,
+  "structuredIngredients": [
+    {
+      "section": "Sanduíches",
+      "items": [
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "pães de brioche"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Nutella",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Morangos frescos fatiados"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Marshmallows"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Mini coelhos de chocolate",
+          "note": "para decorar"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Açúcar de confeiteiro",
+          "note": "para finalizar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Corte os pães de brioche ao meio.",
+        "Recheie com Nutella, morangos fatiados e marshmallows.",
+        "Aqueça rapidamente na sanduicheira ou no forno para derreter o recheio.",
+        "Decore com mini coelhos de chocolate.",
+        "Finalize com açúcar de confeiteiro, se desejar."
+      ]
+    }
+  ]
+}

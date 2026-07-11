@@ -1,0 +1,159 @@
+{
+  "id": 200,
+  "slug": "torta-holandesa-com-creme-e-chocolate",
+  "title": "Torta Holandesa com Creme e Chocolate",
+  "description": "Sobremesa gelada com base crocante de biscoito, creme aveludado e cobertura de chocolate.",
+  "intro": "A torta holandesa é the síntese da sofisticação gelada e do requinte visual. Com seu anel de biscoitos envolto em um creme branco aveludado e finalizada com uma ganache de chocolate brilhante, esta sobremesa oferece uma textura sedosa e um sabor equilibrado que se tornou the assinatura de celebrações elegantes e jantares de prestígio.",
+  "context": "Apesar do nome, the torta holandesa é uma criação genuinamente brasileira, nascida em Campinas na década de 90. Ela celebraando em um ícone da nossa confeitaria moderna que preza pela leveza e pela estética impecável em cada fatia gelada.",
+  "categories": [
+    "Sobremesas",
+    "Tortas",
+    "Chocolate",
+    "Doces Gelados"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Tortas Doces"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Receita Clássica"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "5 min",
+  "totalTime": "5 h 30 min",
+  "difficulty": "Fácil",
+  "yield": "10 fatias",
+  "searchTerms": [
+    "torta holandesa",
+    "creme",
+    "chocolate",
+    "sobremesa gelada"
+  ],
+  "tags": [
+    "tortaholandesa",
+    "creme",
+    "chocolate",
+    "sobremesaclassica",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Base",
+      "items": [
+        "200 g de biscoito maisena",
+        "100 g de manteiga sem sal derretida"
+      ]
+    },
+    {
+      "section": "Creme e cobertura",
+      "items": [
+        "1 lata de leite condensado",
+        "1 caixa de creme de leite",
+        "1 colher de sopa de manteiga sem sal",
+        "1/2 xícara de açúcar",
+        "1 colher de chá de essência de baunilha",
+        "200 g de chocolate meio amargo picado",
+        "1/2 caixa de creme de leite para a cobertura"
+      ]
+    }
+  ],
+  "instructions": [
+    "Triture os biscoitos até formar farofa fina.",
+    "Misture com manteiga derretida e pressione no fundo de uma forma removível.",
+    "Leve a base à geladeira por 30 minutos.",
+    "Bata manteiga e açúcar até formar creme claro.",
+    "Adicione leite condensado aos poucos, batendo sempre.",
+    "Junte creme de leite e baunilha até obter creme homogêneo.",
+    "Despeje sobre a base e leve à geladeira por pelo menos 4 horas.",
+    "Derreta o chocolate e misture com creme de leite até formar cobertura lisa.",
+    "Espalhe sobre a torta e gele por mais 1 hora."
+  ],
+  "tips": [
+    "Nozes ou castanhas trituradas deixam a base mais crocante.",
+    "Raspas de limão ou laranja perfumam o creme.",
+    "Decore com raspas de chocolate ou frutas frescas."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 25,
+  "cookMinutes": 5,
+  "structuredIngredients": [
+    {
+      "section": "Base",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "biscoito maisena"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga sem sal derretida"
+        }
+      ]
+    },
+    {
+      "section": "Creme e cobertura",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "caixa",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 1,
+          "unit": "col. sopa",
+          "name": "manteiga sem sal"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "essência de baunilha"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "chocolate meio amargo picado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "caixa",
+          "name": "creme de leite para a cobertura"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Triture os biscoitos até formar farofa fina.",
+        "Misture com manteiga derretida e pressione no fundo de uma forma removível.",
+        "Leve a base à geladeira por 30 minutos.",
+        "Bata manteiga e açúcar até formar creme claro.",
+        "Adicione leite condensado aos poucos, batendo sempre.",
+        "Junte creme de leite e baunilha até obter creme homogêneo.",
+        "Despeje sobre a base e leve à geladeira por pelo menos 4 horas.",
+        "Derreta o chocolate e misture com creme de leite até formar cobertura lisa.",
+        "Espalhe sobre a torta e gele por mais 1 hora."
+      ]
+    }
+  ]
+}

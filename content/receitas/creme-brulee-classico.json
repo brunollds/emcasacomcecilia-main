@@ -1,0 +1,127 @@
+{
+  "id": 50,
+  "slug": "creme-brulee-classico",
+  "title": "Crème Brûlée Clássico",
+  "description": "Sobremesa francesa com creme de baunilha sedoso e casquinha de açúcar caramelizada.",
+  "intro": "O crème brûlée é o mestre dos contrastes na confeitaria francesa. Sob uma casquinha vítrea de açúcar caramelizado que se quebra com o toque da colher, esconde-se um creme de baunilha denso e sedoso, criando uma experiência sensorial luxuosa que equilibra a doçura do caramelo com a suavidade láctea.",
+  "context": "Citado em livros de receitas desde o século XVII, este 'creme queimado' é um ícone da sofisticação europeia. O segredo da sua perfeição reside no cozimento delicado em banho-maria, que preserva a textura aveludada das gemas sem deixá-las cozinhar demais, transformando ingredientes básicos em uma sobremesa inesquecível.",
+  "categories": [
+    "Francesa",
+    "Sobremesas",
+    "Doces"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pudins & Cremes"
+  ],
+  "cuisine": [
+    "Francesa"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Ovos"
+  ],
+  "collections": [
+    "Receita Clássica",
+    "Para Dois"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "50 min",
+  "totalTime": "5h 10 min",
+  "difficulty": "Médio",
+  "yield": "6 porções",
+  "searchTerms": [
+    "crème brûlée",
+    "creme brulee",
+    "baunilha",
+    "maçarico",
+    "sobremesa francesa",
+    "ramequim"
+  ],
+  "tags": [
+    "cremebrulee",
+    "francesa",
+    "sobremesa",
+    "baunilha",
+    "sofisticacao",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Creme",
+      "items": [
+        "500 ml de creme de leite fresco gelado",
+        "1 fava de baunilha ou 1 colher (chá) de extrato",
+        "6 gemas de ovo",
+        "100 g de açúcar",
+        "Açúcar cristal para a casquinha"
+      ]
+    }
+  ],
+  "instructions": [
+    "Aqueça o creme de leite com a baunilha até quase ferver e deixe em infusão por 15 minutos.",
+    "Bata as gemas com o açúcar até obter um creme claro.",
+    "Adicione o creme morno aos poucos às gemas, mexendo sempre.",
+    "Coe a mistura e distribua em ramequins.",
+    "Asse em banho-maria a 160°C por 40 a 50 minutos, até o centro ficar levemente gelatinoso.",
+    "Leve à geladeira por 4 horas.",
+    "Antes de servir, polvilhe açúcar cristal e queime com o maçarico."
+  ],
+  "tips": [
+    "Não deixe a água do banho-maria ferver para evitar que o creme talhe.",
+    "Sem maçarico, use o grill do forno por poucos segundos, bem próximo ao creme."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 20,
+  "cookMinutes": 50,
+  "structuredIngredients": [
+    {
+      "section": "Creme",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "ml",
+          "name": "creme de leite fresco gelado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "fava de baunilha ou 1 colher (chá) de extrato"
+        },
+        {
+          "qty": 6,
+          "unit": "",
+          "name": "gemas de ovo"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "açúcar"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Açúcar cristal",
+          "note": "para a casquinha"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Aqueça o creme de leite com a baunilha até quase ferver e deixe em infusão por 15 minutos.",
+        "Bata as gemas com o açúcar até obter um creme claro.",
+        "Adicione o creme morno aos poucos às gemas, mexendo sempre.",
+        "Coe a mistura e distribua em ramequins.",
+        "Asse em banho-maria a 160°C por 40 a 50 minutos, até o centro ficar levemente gelatinoso.",
+        "Leve à geladeira por 4 horas.",
+        "Antes de servir, polvilhe açúcar cristal e queime com o maçarico."
+      ]
+    }
+  ]
+}

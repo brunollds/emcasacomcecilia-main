@@ -1,0 +1,172 @@
+{
+  "id": 121,
+  "slug": "sopa-detox-de-legumes-com-gengibre",
+  "title": "Sopa Detox de Legumes com Gengibre",
+  "description": "Sopa leve com legumes variados, gengibre, azeite e salsinha para uma refeição prática e nutritiva.",
+  "intro": "Esta sopa detox é a escolha inteligente para quem busca leveza, nutrição e um toque de energia termogênica. O mix vibrante de legumes coloridos ganha uma camada extra de sabor e funcionalidade com o gengibre ralado, resultando em um caldo aromático e revitalizante que ajuda a limpar o organismo e a aquecer o corpo com frescor e equilíbrio.",
+  "context": "Focada no bem-estar, a sopa detox utiliza o gengibre não apenas pelo seu aroma inconfundível, mas por suas propriedades antioxidantes que elevam a densidade nutricional dos vegetais. É a receita ideal para encerrar o dia de forma consciente, onde o cozimento preserva o sabor natural dos ingredientes, celebrando uma culinária que cuida e nutre com máxima praticidade.",
+  "categories": [
+    "Sopas",
+    "Leves",
+    "Saudáveis",
+    "Vegetariana"
+  ],
+  "primaryCategory": "Sopa",
+  "subCategory": [
+    "Sopas Completas"
+  ],
+  "mealTime": [
+    "Jantar"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Vegana",
+    "Sem Lactose",
+    "Fit"
+  ],
+  "collections": [
+    "Inverno"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "30 min",
+  "totalTime": "45 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "searchTerms": [
+    "sopa detox",
+    "legumes",
+    "gengibre",
+    "sopa saudável",
+    "jantar leve"
+  ],
+  "tags": [
+    "sopadetox",
+    "legumes",
+    "gengibre",
+    "receitafacil",
+    "saude",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Sopa",
+      "items": [
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "1 colher de sopa de gengibre ralado",
+        "1 abobrinha picada",
+        "1 cenoura picada",
+        "1 chuchu picado",
+        "1 couve-flor pequena picada",
+        "1 brócolis pequeno picado",
+        "1 litro de água",
+        "Sal e pimenta-do-reino a gosto",
+        "Azeite de oliva extra virgem",
+        "Salsinha picada a gosto para finalizar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Refogue a cebola e o alho no azeite até dourarem.",
+    "Adicione o gengibre ralado e refogue por mais 1 minuto.",
+    "Acrescente os legumes picados e refogue por alguns minutos.",
+    "Cubra com água e cozinhe até os legumes ficarem macios.",
+    "Tempere com sal e pimenta.",
+    "Se desejar, bata a sopa no liquidificador para obter um creme homogêneo.",
+    "Sirva quente com salsinha picada."
+  ],
+  "tips": [
+    "Varie os legumes de acordo com o que tiver em casa.",
+    "Curry, cúrcuma ou cominho deixam o sabor mais intenso.",
+    "Frango desfiado, carne moída ou ovo cozido tornam a refeição mais completa."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "cookMinutes": 30,
+  "structuredIngredients": [
+    {
+      "section": "Sopa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de sopa de gengibre ralado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "abobrinha picada"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cenoura picada"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "chuchu picado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "couve-flor pequena picada"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "brócolis pequeno picado"
+        },
+        {
+          "qty": 1,
+          "unit": "l",
+          "name": "água"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Azeite de oliva extra virgem"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Salsinha picada  para finalizar",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Refogue a cebola e o alho no azeite até dourarem.",
+        "Adicione o gengibre ralado e refogue por mais 1 minuto.",
+        "Acrescente os legumes picados e refogue por alguns minutos.",
+        "Cubra com água e cozinhe até os legumes ficarem macios.",
+        "Tempere com sal e pimenta.",
+        "Se desejar, bata a sopa no liquidificador para obter um creme homogêneo.",
+        "Sirva quente com salsinha picada."
+      ]
+    }
+  ]
+}

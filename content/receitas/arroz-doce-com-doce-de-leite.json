@@ -1,0 +1,137 @@
+{
+  "id": 64,
+  "slug": "arroz-doce-com-doce-de-leite",
+  "title": "Arroz Doce com Doce de Leite",
+  "description": "Arroz doce cremoso feito com arroz arbóreo, leite e doce de leite caramelizado.",
+  "intro": "O arroz doce com doce de leite é o auge do conforto comestível. Nesta variação dourada e aveludada, o tradicional arroz cremoso ganha a profundidade caramelizada do doce de leite, resultando em uma sobremesa que abraça o paladar com sua doçura intensa e textura rica, perfeita para ser degustada morna em dias frios.",
+  "context": "Com raízes que atravessam a Ásia e a Europa antes de se tornarem um pilar das Festas Juninas no Brasil, o arroz doce é uma lição de paciência e técnica. O uso do arroz arbóreo nesta receita eleva o prato a um nível de risoto doce, celebrando a capacidade brasileira de transformar um clássico mundial em algo único através do nosso amado doce de leite.",
+  "categories": [
+    "Brasileira",
+    "Doces",
+    "Sobremesas",
+    "Comida Afetiva"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pudins & Cremes"
+  ],
+  "mealTime": [
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "keyIngredients": [
+    "Arroz",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Comfort Food",
+    "Receita de Vó"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "totalTime": "40 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "isPopular": true,
+  "searchTerms": [
+    "arroz doce",
+    "doce de leite",
+    "arroz arbóreo",
+    "sobremesa cremosa",
+    "canela"
+  ],
+  "tags": [
+    "arrozdoce",
+    "docedeleite",
+    "sobremesacremosa",
+    "receitadavo",
+    "comidadealma",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Arroz doce",
+      "items": [
+        "1 xícara de arroz arbóreo",
+        "2 xícaras de água",
+        "3 xícaras de leite integral",
+        "1/2 xícara de creme de leite",
+        "200 g de doce de leite tradicional ou com coco",
+        "Canela em pau e cravo a gosto, opcional"
+      ]
+    }
+  ],
+  "instructions": [
+    "Cozinhe o arroz arbóreo na água em fogo médio, mexendo ocasionalmente.",
+    "Quando a água começar a ficar turva, adicione 2 xícaras de leite, a canela e o cravo.",
+    "Cozinhe até o arroz ficar macio.",
+    "Incorpore o creme de leite e o restante do leite para ajustar a cremosidade.",
+    "Finalize misturando o doce de leite até incorporar bem.",
+    "Sirva quente ou gelado, com doce de leite extra por cima."
+  ],
+  "tips": [
+    "O arroz arbóreo libera mais amido e deixa a textura naturalmente cremosa.",
+    "Mexa com frequência para evitar que grude no fundo.",
+    "Finalize com canela, castanhas ou amêndoas tostadas."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 10,
+  "cookMinutes": 30,
+  "structuredIngredients": [
+    {
+      "section": "Arroz doce",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "arroz arbóreo"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "água"
+        },
+        {
+          "qty": 3,
+          "unit": "xíc.",
+          "name": "leite integral"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "doce de leite tradicional ou com coco"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Canela em pau e cravo , opcional",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Cozinhe o arroz arbóreo na água em fogo médio, mexendo ocasionalmente.",
+        "Quando a água começar a ficar turva, adicione 2 xícaras de leite, a canela e o cravo.",
+        "Cozinhe até o arroz ficar macio.",
+        "Incorpore o creme de leite e o restante do leite para ajustar a cremosidade.",
+        "Finalize misturando o doce de leite até incorporar bem.",
+        "Sirva quente ou gelado, com doce de leite extra por cima."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": 85,
+  "slug": "farofa-de-bacon-com-cebola-e-temperos",
+  "title": "Farofa de Bacon com Cebola e Temperos",
+  "description": "Farofa brasileira crocante com bacon, cebola, farinha de mandioca e cheiro-verde.",
+  "intro": "A farofa de bacon com cebola é o ponto de exclamação em qualquer prato brasileiro. Com o bacon crocante liberando sua gordura saborosa para envolver a farinha de mandioca e o adocicado da cebola refogada, este acompanhamento oferece uma complexidade rústica que é, ao mesmo tempo, simples e absolutamente indispensável em um churrasco ou almoço de domingo.",
+  "context": "Herança cultural que une influências indígenas e coloniais, a farofa é a alma da versatilidade na nossa cozinha. Esta receita foca no equilíbrio entre a crocância do bacon e a textura da farinha torrada, celebrando um prato que tem o poder de unir todos os elementos de uma refeição farta com seu sabor defumado e acolhedor.",
+  "categories": [
+    "Brasileira",
+    "Acompanhamentos",
+    "Churrasco"
+  ],
+  "primaryCategory": "Acompanhamento",
+  "subCategory": [
+    "Farofas & Farinhas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "collections": [
+    "Receita Clássica",
+    "Receita de Vó",
+    "Festas de Fim de Ano"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "15 min",
+  "totalTime": "25 min",
+  "difficulty": "Fácil",
+  "yield": "6 porções",
+  "isPopular": true,
+  "searchTerms": [
+    "farofa de bacon",
+    "farinha de mandioca",
+    "cebola",
+    "churrasco",
+    "feijoada"
+  ],
+  "tags": [
+    "farofa",
+    "farofadebacon",
+    "bacon",
+    "acompanhamento",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Farofa",
+      "items": [
+        "200 g de bacon picado",
+        "1 cebola média picada",
+        "2 xícaras de farinha de mandioca torrada",
+        "1 colher (sopa) de manteiga",
+        "Sal e pimenta-do-reino a gosto",
+        "Salsinha e cebolinha picadas para finalizar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Frite o bacon em uma panela até dourar e ficar crocante.",
+    "Retire o bacon e reserve.",
+    "Na mesma panela, refogue a cebola na gordura do bacon até ficar transparente.",
+    "Adicione a farinha de mandioca e a manteiga.",
+    "Misture bem e tempere com sal e pimenta.",
+    "Volte o bacon para a panela e misture.",
+    "Finalize com salsinha e cebolinha."
+  ],
+  "tips": [
+    "Para farofa mais úmida, adicione água fervente aos poucos.",
+    "Alho em pó, páprica doce ou colorau combinam bem.",
+    "Sirva com carnes, aves, peixes, feijoada ou churrasco."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Farofa",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "bacon picado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola média picada"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de mandioca torrada"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de manteiga"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Salsinha e cebolinha picadas",
+          "note": "para finalizar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Frite o bacon em uma panela até dourar e ficar crocante.",
+        "Retire o bacon e reserve.",
+        "Na mesma panela, refogue a cebola na gordura do bacon até ficar transparente.",
+        "Adicione a farinha de mandioca e a manteiga.",
+        "Misture bem e tempere com sal e pimenta.",
+        "Volte o bacon para a panela e misture.",
+        "Finalize com salsinha e cebolinha."
+      ]
+    }
+  ]
+}

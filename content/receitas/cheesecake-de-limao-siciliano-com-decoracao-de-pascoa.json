@@ -1,0 +1,149 @@
+{
+  "id": 204,
+  "slug": "cheesecake-de-limao-siciliano-com-decoracao-de-pascoa",
+  "title": "Cheesecake de Limão Siciliano com Decoração de Páscoa",
+  "description": "Cheesecake gelado com base de biscoito, creme cítrico e decoração festiva.",
+  "intro": "Este cheesecake de limão siciliano é the síntese da sofisticação refrescante para the Páscoa. O creme de queijo denso e sedoso ganha the vibração cítrica da fruta e um visual encantador com mini ovos e flores, oferecendo uma sobremesa de vitrine que equilibra perfeitamente the indulgência láctea com the leveza aromática para encerrar o banquete pascoal.",
+  "context": "Valorizando the elegância do limão siciliano, esta receita é uma lição de equilíbrio sensorial e apresentação. A técnica de decorar the cheesecake após o resfriamento prolongado preserva the beleza das frutas e confeitos, celebrando the herança das tortas de queijo europeias adaptadas com um toque lúdico e refinado que antecipa o prazer de cada garfada.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Cheesecakes",
+    "Frutas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Cheesecakes"
+  ],
+  "cuisine": [
+    "Americana"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Limão"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "0 min",
+  "totalTime": "4 h 55 min",
+  "difficulty": "Fácil",
+  "yield": "10 fatias",
+  "searchTerms": [
+    "cheesecake de limão siciliano",
+    "Páscoa",
+    "cream cheese",
+    "sobremesa refrescante"
+  ],
+  "tags": [
+    "cheesecakedepascoa",
+    "limaosiciliano",
+    "sobremesarefrescante",
+    "pascoacriativa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Base e recheio",
+      "items": [
+        "200 g de biscoito maisena triturado",
+        "100 g de manteiga derretida",
+        "500 g de cream cheese em temperatura ambiente",
+        "1 lata de leite condensado",
+        "Suco de 3 limões sicilianos",
+        "Raspas de limão siciliano",
+        "200 ml de chantilly fresco batido",
+        "Mini ovos de chocolate ou confeitos coloridos",
+        "Flores comestíveis para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture biscoitos triturados com manteiga até formar farofa úmida.",
+    "Forre o fundo de uma forma removível e leve à geladeira por 30 minutos.",
+    "Misture cream cheese, leite condensado e suco de limão até formar creme.",
+    "Despeje sobre a base e alise a superfície.",
+    "Leve à geladeira por pelo menos 4 horas.",
+    "Cubra com chantilly batido.",
+    "Decore com raspas de limão, mini ovos e flores comestíveis."
+  ],
+  "tips": [
+    "Limão Tahiti pode substituir o Siciliano em uma versão mais acessível.",
+    "Geleia de frutas vermelhas cria uma camada extra entre recheio e chantilly.",
+    "Monte em potes individuais para servir ou presentear."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 25,
+  "structuredIngredients": [
+    {
+      "section": "Base e recheio",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "biscoito maisena triturado"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga derretida"
+        },
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "cream cheese em temperatura ambiente"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 3,
+          "unit": "un.",
+          "name": "limões",
+          "note": "suco sicilianos"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Raspas de limão siciliano"
+        },
+        {
+          "qty": 200,
+          "unit": "ml",
+          "name": "chantilly fresco batido"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Mini ovos de chocolate ou confeitos coloridos"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Flores comestíveis",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture biscoitos triturados com manteiga até formar farofa úmida.",
+        "Forre o fundo de uma forma removível e leve à geladeira por 30 minutos.",
+        "Misture cream cheese, leite condensado e suco de limão até formar creme.",
+        "Despeje sobre a base e alise a superfície.",
+        "Leve à geladeira por pelo menos 4 horas.",
+        "Cubra com chantilly batido.",
+        "Decore com raspas de limão, mini ovos e flores comestíveis."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": 129,
+  "slug": "pave-de-morango-com-creme-branco",
+  "title": "Pavê de Morango com Creme Branco",
+  "description": "Pavê refrescante com biscoito champanhe, creme branco, morangos frescos e chantilly.",
+  "intro": "Este pavê de morango é o encontro refrescante entre a suavidade do creme branco e a acidez vibrante das frutas frescas. Com camadas de biscoito champanhe que absorvem a essência do morango, ele oferece uma experiência leve e colorida que é a cara do verão, sendo a sobremesa ideal para encerrar qualquer refeição com frescor e elegância.",
+  "context": "Valorizando o uso de frutas da estação, o pavê de morango destaca-se pelo visual deslumbrante e pela harmonia de sabores cítricos e lácteos. O segredo desta receita está no frescor absoluto dos morangos e no contraste com o creme branco sedoso, provando que ingredientes simples, quando bem apresentados, criam uma sobremesa de prestígio que celebra a vitalidade da horta.",
+  "categories": [
+    "Sobremesas",
+    "Pavês",
+    "Frutas",
+    "Doces Gelados"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pavês"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Morango",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Receita de Vó",
+    "Natal"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "10 min",
+  "totalTime": "4 h 35 min",
+  "difficulty": "Fácil",
+  "yield": "8 porções",
+  "searchTerms": [
+    "pavê de morango",
+    "creme branco",
+    "biscoito champanhe",
+    "morango",
+    "sobremesa gelada"
+  ],
+  "tags": [
+    "pavedemorango",
+    "morango",
+    "cremebranco",
+    "sobremesa",
+    "verao",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Pavê",
+      "items": [
+        "1 pacote de biscoito champanhe",
+        "1 lata de leite condensado",
+        "1 lata de creme de leite",
+        "1/2 xícara de leite",
+        "1 caixa de morangos frescos",
+        "Chantilly pronto para decorar",
+        "Leite para umedecer os biscoitos"
+      ]
+    }
+  ],
+  "instructions": [
+    "Lave e pique os morangos em cubos pequenos.",
+    "Misture leite condensado, creme de leite e leite em uma panela.",
+    "Cozinhe em fogo baixo até o creme engrossar e deixe esfriar.",
+    "Monte camadas de biscoito champanhe umedecido, creme branco e morangos.",
+    "Repita as camadas até finalizar com creme.",
+    "Leve à geladeira por pelo menos 4 horas.",
+    "Decore com chantilly antes de servir."
+  ],
+  "tips": [
+    "Raspas de limão ou baunilha combinam bem com o creme branco.",
+    "Use morangos frescos na decoração para valorizar o visual.",
+    "Chocolate granulado ou hortelã podem finalizar a sobremesa."
+  ],
+  "servings": 8,
+  "servingsUnit": "porções",
+  "prepMinutes": 25,
+  "cookMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Pavê",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "biscoito champanhe"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "leite"
+        },
+        {
+          "qty": 1,
+          "unit": "caixa",
+          "name": "morangos frescos"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Chantilly pronto",
+          "note": "para decorar"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Leite para umedecer os biscoitos"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Lave e pique os morangos em cubos pequenos.",
+        "Misture leite condensado, creme de leite e leite em uma panela.",
+        "Cozinhe em fogo baixo até o creme engrossar e deixe esfriar.",
+        "Monte camadas de biscoito champanhe umedecido, creme branco e morangos.",
+        "Repita as camadas até finalizar com creme.",
+        "Leve à geladeira por pelo menos 4 horas.",
+        "Decore com chantilly antes de servir."
+      ]
+    }
+  ]
+}

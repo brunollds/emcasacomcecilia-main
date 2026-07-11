@@ -1,0 +1,124 @@
+{
+  "id": 157,
+  "slug": "trufas-de-maracuja-e-coco",
+  "title": "Trufas de Maracujá e Coco",
+  "description": "Trufas refrescantes com ganache de chocolate branco, maracujá, creme de leite e cobertura de coco ralado.",
+  "intro": "As trufas de maracujá e coco são pequenas explosões tropicais envoltas em chocolate branco sedoso. O azedinho vibrante da fruta encontra the suavidade do coco ralado fresco em uma ganache aveludada que derrete na boca, criando um docinho de Páscoa que é ao mesmo tempo refrescante, sofisticado e visualmente elegante.",
+  "context": "Valorizando the combinação clássica da doçaria nacional, estas trufas celebram the união entre the terra e the horta. A técnica de empanar no coco ralado garante uma textura rústica e artesanal, enquanto o recheio concentrado de maracujá prova que the acidez é the melhor parceira para equilibrar the doçura do chocolate branco de alta qualidade.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Docinhos",
+    "Frutas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Docinhos"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Maracujá",
+    "Coco"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "30 min",
+  "cookTime": "5 min",
+  "totalTime": "2 h 35 min",
+  "difficulty": "Fácil",
+  "yield": "20 unidades",
+  "searchTerms": [
+    "trufas de maracujá",
+    "coco ralado",
+    "Páscoa",
+    "chocolate branco",
+    "docinhos"
+  ],
+  "tags": [
+    "trufasdepascoa",
+    "maracuja",
+    "coco",
+    "sobremesa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Trufas",
+      "items": [
+        "200 g de chocolate branco picado",
+        "1/2 xícara de suco de maracujá concentrado",
+        "1 caixa de creme de leite",
+        "1 xícara de coco ralado fresco para cobrir",
+        "Mini cenouras de chocolate ou confeitos coloridos para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Derreta o chocolate branco em banho-maria ou no micro-ondas.",
+    "Misture suco de maracujá e creme de leite até formar ganache homogênea.",
+    "Leve à geladeira por cerca de 2 horas, até firmar.",
+    "Modele bolinhas com as mãos untadas.",
+    "Passe no coco ralado fresco.",
+    "Decore com mini cenouras, mini ovos ou confeitos.",
+    "Leve à geladeira por mais 30 minutos antes de servir."
+  ],
+  "tips": [
+    "Limão siciliano ou abacaxi podem substituir o maracujá.",
+    "Uma casquinha fina de chocolate derretido deixa a trufa mais elaborada.",
+    "Embale em caixinhas decorativas para presentear."
+  ],
+  "servings": 20,
+  "servingsUnit": "unidades",
+  "prepMinutes": 30,
+  "cookMinutes": 5,
+  "structuredIngredients": [
+    {
+      "section": "Trufas",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "chocolate branco picado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "suco de maracujá concentrado"
+        },
+        {
+          "qty": 1,
+          "unit": "caixa",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "coco ralado fresco para cobrir"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Mini cenouras de chocolate ou confeitos coloridos",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Derreta o chocolate branco em banho-maria ou no micro-ondas.",
+        "Misture suco de maracujá e creme de leite até formar ganache homogênea.",
+        "Leve à geladeira por cerca de 2 horas, até firmar.",
+        "Modele bolinhas com as mãos untadas.",
+        "Passe no coco ralado fresco.",
+        "Decore com mini cenouras, mini ovos ou confeitos.",
+        "Leve à geladeira por mais 30 minutos antes de servir."
+      ]
+    }
+  ]
+}

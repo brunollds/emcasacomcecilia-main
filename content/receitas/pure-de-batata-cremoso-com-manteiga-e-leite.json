@@ -1,0 +1,131 @@
+{
+  "id": 82,
+  "slug": "pure-de-batata-cremoso-com-manteiga-e-leite",
+  "title": "Purê de Batata Cremoso com Manteiga e Leite",
+  "description": "Purê clássico, cremoso e aveludado para acompanhar carnes, aves e legumes.",
+  "intro": "O purê de batata cremoso é o abraço em forma de guarnição. Com sua textura aveludada e o toque sutil da noz-moscada, ele é o acompanhamento universal que traz conforto imediato, elevando qualquer prato principal — da carne de panela ao peixe grelhado — com sua suavidade e sabor amanteigado.",
+  "context": "Pilar da 'comfort food' mundial, o purê perfeito depende da temperatura certa dos ingredientes ao serem incorporados. Esta receita foca na técnica de aquecer o leite e a manteiga para garantir uma emulsão homogênea, celebrando a simplicidade da batata em seu estado mais elegante e reconfortante.",
+  "categories": [
+    "Comida Afetiva",
+    "Acompanhamentos",
+    "Básicos"
+  ],
+  "primaryCategory": "Acompanhamento",
+  "subCategory": [
+    "Purês"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Vegetariana",
+    "Sem Glúten"
+  ],
+  "keyIngredients": [
+    "Batata"
+  ],
+  "collections": [
+    "Comfort Food",
+    "Receita Clássica"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "totalTime": "30 min",
+  "difficulty": "Fácil",
+  "yield": "6 porções",
+  "searchTerms": [
+    "purê de batata",
+    "batata",
+    "manteiga",
+    "leite",
+    "acompanhamento cremoso"
+  ],
+  "tags": [
+    "puredebatata",
+    "batata",
+    "acompanhamento",
+    "comidaafetiva",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Purê",
+      "items": [
+        "1 kg de batatas cozidas e descascadas",
+        "1/2 xícara (chá) de manteiga sem sal",
+        "1/2 xícara (chá) de leite integral",
+        "Sal e pimenta-do-reino a gosto",
+        "Noz-moscada a gosto, opcional"
+      ]
+    }
+  ],
+  "instructions": [
+    "Passe as batatas cozidas por um espremedor ou amasse bem.",
+    "Coloque as batatas em uma panela com manteiga e leite.",
+    "Leve ao fogo baixo, mexendo até ficar cremoso e homogêneo.",
+    "Tempere com sal, pimenta e noz-moscada.",
+    "Sirva quente."
+  ],
+  "tips": [
+    "Para purê mais cremoso, aumente um pouco a manteiga ou o leite.",
+    "Alho refogado, parmesão ou bacon deixam o sabor mais intenso.",
+    "Evite bater demais no liquidificador para não deixar o purê elástico."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 10,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Purê",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "kg de batatas cozidas e descascadas"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de manteiga sem sal"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de leite integral"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Noz-moscada , opcional",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Passe as batatas cozidas por um espremedor ou amasse bem.",
+        "Coloque as batatas em uma panela com manteiga e leite.",
+        "Leve ao fogo baixo, mexendo até ficar cremoso e homogêneo.",
+        "Tempere com sal, pimenta e noz-moscada.",
+        "Sirva quente."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": 51,
+  "slug": "tiramisu-italiano-autentico",
+  "title": "Tiramisu Italiano Autêntico",
+  "description": "Sobremesa italiana com camadas de biscoito champagne, café, mascarpone e cacau.",
+  "intro": "O tiramisu é a sobremesa italiana que equilibra energia e elegância. Com camadas de biscoitos levemente umedecidos em café forte e um creme rico e aveludado de queijo mascarpone, ele oferece uma harmonia perfeita entre o amargor do café e do cacau com a doçura suave e densa do queijo, derretendo na boca.",
+  "context": "Literalmente traduzido como 'puxa-me para cima' (pelo efeito revigorante do café e do açúcar), o tiramisu é um clássico relativamente moderno da região do Vêneto. Esta receita respeita a tradição de não ir ao fogo, dependendo exclusivamente da qualidade dos ingredientes e do tempo de descanso para atingir a consistência ideal.",
+  "categories": [
+    "Italiana",
+    "Sobremesas",
+    "Doces"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Tortas Doces"
+  ],
+  "cuisine": [
+    "Italiana"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Receita Clássica"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "0 min",
+  "totalTime": "4h 25 min",
+  "difficulty": "Médio",
+  "yield": "8 porções",
+  "isPopular": true,
+  "searchTerms": [
+    "tiramisu",
+    "mascarpone",
+    "café",
+    "biscoito champagne",
+    "cacau",
+    "sobremesa italiana"
+  ],
+  "tags": [
+    "tiramisu",
+    "italiana",
+    "cafe",
+    "mascarpone",
+    "sobremesa",
+    "classico",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Montagem",
+      "items": [
+        "250 g de biscoitos champagne",
+        "1 xícara de café forte coado e frio",
+        "4 gemas de ovo",
+        "1/2 xícara de açúcar",
+        "500 g de queijo mascarpone",
+        "Cacau em pó para polvilhar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bata as gemas com o açúcar até obter um creme fofo.",
+    "Incorpore o mascarpone delicadamente.",
+    "Passe os biscoitos rapidamente no café, sem encharcar.",
+    "Em um refratário, faça camadas de biscoito, creme, biscoito e creme.",
+    "Finalize com cacau em pó generosamente.",
+    "Leve à geladeira por no mínimo 4 horas antes de servir."
+  ],
+  "tips": [
+    "Adicione vinho Marsala ou licor de café ao café para um sabor mais profundo.",
+    "Use biscoitos champagne de boa qualidade para manter estrutura após umedecer."
+  ],
+  "servings": 8,
+  "servingsUnit": "porções",
+  "prepMinutes": 25,
+  "structuredIngredients": [
+    {
+      "section": "Montagem",
+      "items": [
+        {
+          "qty": 250,
+          "unit": "g",
+          "name": "biscoitos champagne"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "café forte coado e frio"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "gemas de ovo"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "queijo mascarpone"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Cacau em pó",
+          "note": "para polvilhar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Bata as gemas com o açúcar até obter um creme fofo.",
+        "Incorpore o mascarpone delicadamente.",
+        "Passe os biscoitos rapidamente no café, sem encharcar.",
+        "Em um refratário, faça camadas de biscoito, creme, biscoito e creme.",
+        "Finalize com cacau em pó generosamente.",
+        "Leve à geladeira por no mínimo 4 horas antes de servir."
+      ]
+    }
+  ]
+}

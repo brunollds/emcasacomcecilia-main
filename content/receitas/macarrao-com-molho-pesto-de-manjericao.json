@@ -1,0 +1,147 @@
+{
+  "id": 32,
+  "slug": "macarrao-com-molho-pesto-de-manjericao",
+  "title": "Macarrão com Molho Pesto de Manjericão",
+  "description": "Massa rápida com pesto fresco de manjericão, azeite, parmesão e nozes, pronta em 20 minutos.",
+  "intro": "O macarrão com molho pesto é a tradução literal de frescor na cozinha. Com sua cor verde vibrante e o aroma inconfundível do manjericão, esta receita oferece uma textura aveludada e um sabor marcante que equilibra o salgado do queijo parmesão com a suavidade das nozes e do azeite extra virgem.",
+  "context": "Originário da Ligúria, no norte da Itália, o termo 'pesto' deriva do verbo italiano 'pestare' (amassar), referindo-se ao método tradicional de preparo em pilões de mármore. É uma receita atemporal que transforma ingredientes crus em um molho sofisticado, ideal para quem busca uma refeição rápida mas cheia de personalidade histórica.",
+  "image": "/images/recipes/massas/macarrao-com-molho-pesto-de-manjericao.jpg",
+  "imageAlt": "Macarrão com molho pesto de manjericão servido em tigela clara.",
+  "categories": [
+    "Massas",
+    "Italiana",
+    "Rápido"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Massas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Italiana"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "keyIngredients": [
+    "Macarrão"
+  ],
+  "collections": [
+    "Receitas em 30 min"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "10 min",
+  "totalTime": "20 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "isNew": true,
+  "searchTerms": [
+    "pesto",
+    "manjericão",
+    "macarrão",
+    "azeite",
+    "parmesão",
+    "nozes",
+    "pinoli",
+    "italiana",
+    "rápido"
+  ],
+  "tags": [
+    "pesto",
+    "manjericao",
+    "italiana",
+    "rapido",
+    "massafacil",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Pesto e massa",
+      "items": [
+        "1 maço grande de manjericão fresco",
+        "2 dentes de alho",
+        "1/2 xícara de azeite extra virgem",
+        "1/2 xícara de queijo parmesão",
+        "1/4 de xícara de nozes ou pinoli",
+        "Sal a gosto",
+        "500 g de macarrão, como espaguete ou trofie"
+      ]
+    }
+  ],
+  "instructions": [
+    "No processador ou pilão, bata o alho, as nozes e o manjericão.",
+    "Adicione o queijo e vá colocando o azeite em fio até formar uma pasta homogênea e vibrante.",
+    "Cozinhe o macarrão até ficar al dente.",
+    "Misture o pesto à massa fria ou morna, sem cozinhar o molho para não escurecer o manjericão.",
+    "Sirva com um fio de azeite extra."
+  ],
+  "tips": [
+    "Adicione uma pedra de gelo ao bater o manjericão no processador para manter o verde intenso.",
+    "Cubra o pesto com uma camada de azeite em um pote fechado para conservar na geladeira por até 5 dias."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 10,
+  "cookMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Pesto e massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "maço grande de manjericão fresco"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "azeite extra virgem"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "queijo parmesão"
+        },
+        {
+          "qty": 0.25,
+          "unit": "",
+          "name": "xícara de nozes ou pinoli"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal",
+          "note": "a gosto"
+        },
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "macarrão, como espaguete ou trofie"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "No processador ou pilão, bata o alho, as nozes e o manjericão.",
+        "Adicione o queijo e vá colocando o azeite em fio até formar uma pasta homogênea e vibrante.",
+        "Cozinhe o macarrão até ficar al dente.",
+        "Misture o pesto à massa fria ou morna, sem cozinhar o molho para não escurecer o manjericão.",
+        "Sirva com um fio de azeite extra."
+      ]
+    }
+  ]
+}

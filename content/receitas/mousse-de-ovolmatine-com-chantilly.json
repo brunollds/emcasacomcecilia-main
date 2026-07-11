@@ -1,0 +1,124 @@
+{
+  "id": 147,
+  "slug": "mousse-de-ovolmatine-com-chantilly",
+  "title": "Mousse de Ovolmatine com Chantilly",
+  "description": "Mousse maltada com creme de leite fresco, Ovolmatine, gelatina, chantilly e raspas de chocolate.",
+  "intro": "A mousse de Ovolmatine é uma experiência sensorial maltada que eleva the clássica mousse de chocolate a um novo patamar de sabor. Com the textura aerada e o toque inconfundível do malte, esta sobremesa ganha the companhia perfeita no chantilly caseiro, criando um doce equilibrado e contemporâneo que encanta pela profundidade de seus aromas.",
+  "context": "O uso de ingredientes maltados é uma tendência que traz nostalgia e sofisticação para the confeitaria moderna. Nesta receita, the técnica de incorporação delicada garante the leveza da 'nuvem' de chocolate, enquanto o Ovolmatine adiciona uma camada de sabor complexa, celebrando the inovação e o prazer de descobrir novas facetas de ingredientes consagrados.",
+  "categories": [
+    "Sobremesas",
+    "Mousses",
+    "Chocolate",
+    "Ovolmatine"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Mousses"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "0 min",
+  "totalTime": "4 h 20 min",
+  "difficulty": "Fácil",
+  "yield": "6 porções",
+  "searchTerms": [
+    "mousse de Ovolmatine",
+    "chantilly",
+    "sobremesa maltada",
+    "raspas de chocolate"
+  ],
+  "tags": [
+    "moussedeovolmatine",
+    "ovolmatine",
+    "chantilly",
+    "sobremesa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Mousse",
+      "items": [
+        "500 ml de creme de leite fresco",
+        "1 envelope de gelatina sem sabor",
+        "2 colheres de sopa de Ovolmatine em pó",
+        "200 ml de chantilly",
+        "Raspas de chocolate a gosto",
+        "Essência de baunilha a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Dissolva a gelatina conforme as instruções da embalagem.",
+    "Misture creme de leite fresco e Ovolmatine até incorporar.",
+    "Adicione a gelatina dissolvida e mexa até ficar homogêneo.",
+    "Distribua em taças e leve à geladeira por 3 a 4 horas.",
+    "Finalize com chantilly e raspas de chocolate."
+  ],
+  "tips": [
+    "Baunilha reforça o aroma da mousse.",
+    "Frutas vermelhas picadas criam contraste de sabor.",
+    "Respeite o tempo de geladeira para firmar bem."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Mousse",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "ml",
+          "name": "creme de leite fresco"
+        },
+        {
+          "qty": 1,
+          "unit": "envelope",
+          "name": "gelatina sem sabor"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres de sopa de Ovolmatine em pó"
+        },
+        {
+          "qty": 200,
+          "unit": "ml",
+          "name": "chantilly"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Raspas de chocolate",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Essência de baunilha",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Dissolva a gelatina conforme as instruções da embalagem.",
+        "Misture creme de leite fresco e Ovolmatine até incorporar.",
+        "Adicione a gelatina dissolvida e mexa até ficar homogêneo.",
+        "Distribua em taças e leve à geladeira por 3 a 4 horas.",
+        "Finalize com chantilly e raspas de chocolate."
+      ]
+    }
+  ]
+}

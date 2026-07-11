@@ -1,0 +1,136 @@
+{
+  "id": 97,
+  "slug": "guacamole",
+  "title": "Guacamole",
+  "description": "Molho mexicano cremoso e fresco à base de abacate, limão, tomate, cebola e coentro.",
+  "intro": "O guacamole é a alma verde e vibrante de qualquer festa mexicana. Com sua cremosidade natural acentuada pelo toque cítrico do limão e o frescor inconfundível do coentro, este molho é a definição de simplicidade rústica que harmoniza perfeitamente com nachos, tacos ou até mesmo uma fatia de pão torrado no café da manhã.",
+  "context": "Herança ancestral dos Astecas, o guacamole (do náuatle 'ahuacamolli') é uma das contribuições mais amadas do México para a gastronomia mundial. O segredo de um preparo autêntico reside no uso de abacates perfeitamente maduros e no amassado grosseiro com garfo, preservando pedaços que conferem a textura artesanal característica desta iguaria atemporal.",
+  "categories": [
+    "Mexicana",
+    "Molhos",
+    "Vegetariana",
+    "Acompanhamentos"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Petiscos Frios"
+  ],
+  "mealTime": [
+    "Happy Hour"
+  ],
+  "cuisine": [
+    "Mexicana"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "diet": [
+    "Vegana",
+    "Sem Lactose"
+  ],
+  "keyIngredients": [
+    "Tomate"
+  ],
+  "collections": [
+    "Receitas em 30 min",
+    "Receita Clássica"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "0 min",
+  "totalTime": "10 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "searchTerms": [
+    "guacamole",
+    "abacate",
+    "molho mexicano",
+    "tacos",
+    "nachos",
+    "burritos"
+  ],
+  "tags": [
+    "guacamole",
+    "abacate",
+    "molho",
+    "mexicana",
+    "vegetariana",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Guacamole",
+      "items": [
+        "2 abacates maduros",
+        "1/2 cebola pequena picada",
+        "1 tomate pequeno picado",
+        "1/4 xícara de coentro fresco picado",
+        "Suco de 1 limão",
+        "Sal e pimenta-do-reino a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Amasse os abacates com um garfo.",
+    "Adicione cebola, tomate, coentro e suco de limão.",
+    "Tempere com sal e pimenta.",
+    "Misture bem e sirva frio ou em temperatura ambiente."
+  ],
+  "tips": [
+    "Use abacates maduros para textura cremosa.",
+    "Substitua coentro por salsinha se preferir.",
+    "Para mais picância, adicione jalapeño picado."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Guacamole",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "abacates maduros"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "tomate pequeno picado"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "coentro fresco picado"
+        },
+        {
+          "qty": 1,
+          "unit": "un.",
+          "name": "limão",
+          "note": "suco"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Amasse os abacates com um garfo.",
+        "Adicione cebola, tomate, coentro e suco de limão.",
+        "Tempere com sal e pimenta.",
+        "Misture bem e sirva frio ou em temperatura ambiente."
+      ]
+    }
+  ]
+}

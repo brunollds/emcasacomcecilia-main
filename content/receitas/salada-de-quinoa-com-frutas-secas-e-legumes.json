@@ -1,0 +1,156 @@
+{
+  "id": 115,
+  "slug": "salada-de-quinoa-com-frutas-secas-e-legumes",
+  "title": "Salada de Quinoa com Frutas Secas e Legumes",
+  "description": "Salada nutritiva com quinoa, brócolis, cenoura, frutas secas, nozes e limão.",
+  "intro": "Esta salada de quinoa é uma explosão de nutrientes, cores e contrastes agridoces. Unindo o grão ancestral a um mix crocante de legumes e à doçura concentrada de damascos e passas, ela oferece uma refeição leve, sem glúten e extremamente equilibrada, perfeita para quem busca energia e frescor com um toque de sofisticação oriental.",
+  "context": "Considerada um 'superalimento' por sua riqueza proteica, a quinoa serve como a tela perfeita para a criatividade na cozinha saudável. Esta receita destaca o uso das oleaginosas e do suco cítrico de limão para elevar os sabores naturais, celebrando a versatilidade dos ingredientes vegetais em um prato que transita facilmente entre o lanche nutritivo e o acompanhamento gourmet.",
+  "categories": [
+    "Saladas",
+    "Saudáveis",
+    "Vegetariana",
+    "Leves"
+  ],
+  "primaryCategory": "Salada",
+  "subCategory": [
+    "Saladas de Grãos"
+  ],
+  "mealTime": [
+    "Almoço"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Vegetariana",
+    "Vegana",
+    "Fit"
+  ],
+  "collections": [
+    "Preparar com Antecedência"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "15 min",
+  "totalTime": "30 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "searchTerms": [
+    "salada de quinoa",
+    "frutas secas",
+    "legumes",
+    "quinoa",
+    "salada saudável"
+  ],
+  "tags": [
+    "saladadequinoa",
+    "quinoa",
+    "frutassecas",
+    "saudavel",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Salada",
+      "items": [
+        "1 xícara de quinoa cozida",
+        "1/2 xícara de brócolis picado",
+        "1/2 xícara de cenoura ralada",
+        "1/4 xícara de uvas passas",
+        "1/4 xícara de damasco seco picado",
+        "1/4 xícara de nozes picadas",
+        "1/4 xícara de azeite",
+        "Suco de 1 limão",
+        "Sal e pimenta-do-reino a gosto",
+        "Salsinha picada a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Cozinhe a quinoa em água com sal até ficar macia.",
+    "Misture quinoa, brócolis, cenoura, uvas passas, damasco e nozes.",
+    "Tempere com azeite, limão, sal e pimenta.",
+    "Finalize com salsinha.",
+    "Sirva fria ou em temperatura ambiente."
+  ],
+  "tips": [
+    "Varie legumes e frutas secas conforme a preferência.",
+    "Iogurte natural deixa o molho mais cremoso.",
+    "Cominho, curry ou páprica doce funcionam bem."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Salada",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "quinoa cozida"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "brócolis picado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "cenoura ralada"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "uvas passas"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "damasco seco picado"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "nozes picadas"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "azeite"
+        },
+        {
+          "qty": 1,
+          "unit": "un.",
+          "name": "limão",
+          "note": "suco"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Salsinha picada",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Cozinhe a quinoa em água com sal até ficar macia.",
+        "Misture quinoa, brócolis, cenoura, uvas passas, damasco e nozes.",
+        "Tempere com azeite, limão, sal e pimenta.",
+        "Finalize com salsinha.",
+        "Sirva fria ou em temperatura ambiente."
+      ]
+    }
+  ]
+}

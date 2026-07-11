@@ -1,0 +1,134 @@
+{
+  "id": 130,
+  "slug": "pave-de-limao-com-biscoito-champanhe",
+  "title": "Pavê de Limão com Biscoito Champanhe",
+  "description": "Pavê azedinho e refrescante com creme de limão, biscoito champanhe e raspas de limão.",
+  "intro": "O pavê de limão é the escolha perfeita para quem ama o contraste entre the doçura e the refrescância cítrica. Com um creme aveludado e intensamente aromatizado pelas raspas de limão frescas, esta sobremesa gelada limpa o paladar e encanta pela sua simplicidade sofisticada e frescor inconfundível.",
+  "context": "As sobremesas à base de limão são clássicos da culinária luso-brasileira por sua capacidade de equilibrar refeições fartas. Esta receita utiliza the técnica do creme de limão rápido que não precisa de fogo, preservando toda the potência da vitamina C e o aroma dos óleos essenciais da casca, resultando em um pavê que é sinônimo de leveza e prazer sensorial.",
+  "categories": [
+    "Sobremesas",
+    "Pavês",
+    "Frutas",
+    "Doces Gelados"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pavês"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Limão",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Receita Clássica"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "10 min",
+  "totalTime": "4 h 30 min",
+  "difficulty": "Fácil",
+  "yield": "8 porções",
+  "searchTerms": [
+    "pavê de limão",
+    "biscoito champanhe",
+    "creme de limão",
+    "sobremesa azedinha",
+    "limão"
+  ],
+  "tags": [
+    "pavedelimao",
+    "limao",
+    "sobremesa",
+    "azedinha",
+    "refrescante",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Pavê",
+      "items": [
+        "1 pacote de biscoito champanhe",
+        "1 lata de leite condensado",
+        "1 lata de creme de leite",
+        "1/2 xícara de suco de limão",
+        "Raspas de limão a gosto",
+        "Leite para umedecer os biscoitos"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture leite condensado, creme de leite e suco de limão em uma panela.",
+    "Cozinhe em fogo baixo, mexendo sempre, até engrossar.",
+    "Retire do fogo e deixe esfriar.",
+    "Monte camadas de biscoito champanhe umedecido e creme de limão.",
+    "Repita as camadas até finalizar com creme.",
+    "Leve à geladeira por pelo menos 4 horas.",
+    "Decore com raspas de limão antes de servir."
+  ],
+  "tips": [
+    "Limão siciliano deixa o aroma mais elegante.",
+    "Biscoito triturado ou chantilly funcionam bem na finalização.",
+    "Umedeça os biscoitos rapidamente para não desmancharem."
+  ],
+  "servings": 8,
+  "servingsUnit": "porções",
+  "prepMinutes": 20,
+  "cookMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Pavê",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "biscoito champanhe"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "suco de limão"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Raspas de limão",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Leite para umedecer os biscoitos"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture leite condensado, creme de leite e suco de limão em uma panela.",
+        "Cozinhe em fogo baixo, mexendo sempre, até engrossar.",
+        "Retire do fogo e deixe esfriar.",
+        "Monte camadas de biscoito champanhe umedecido e creme de limão.",
+        "Repita as camadas até finalizar com creme.",
+        "Leve à geladeira por pelo menos 4 horas.",
+        "Decore com raspas de limão antes de servir."
+      ]
+    }
+  ]
+}

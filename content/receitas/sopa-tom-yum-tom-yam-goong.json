@@ -1,0 +1,187 @@
+{
+  "id": 54,
+  "slug": "sopa-tom-yum-tom-yam-goong",
+  "title": "Sopa Tom Yum (Tom Yam Goong)",
+  "description": "Sopa tailandesa aromática com camarões, capim-limão, gengibre, leite de coco e pimenta.",
+  "intro": "A Sopa Tom Yum é a alma vibrante da culinária tailandesa em uma tigela. Com seu caldo translúcido e aromático, ela equilibra com maestria os quatro pilares do paladar thai: o cítrico do capim-limão, o picante da pimenta, o salgado do molho de peixe e a suavidade do leite de coco, criando uma experiência revigorante e inesquecível.",
+  "context": "Conhecida na Tailândia como um poderoso remédio caseiro para revigorar o corpo, a Tom Yum Goong (versão com camarão) é um patrimônio gastronômico de Bangkok. Esta receita valoriza ingredientes frescos e aromáticos, provando que uma sopa pode ser, ao mesmo tempo, leve, complexa e extremamente reconfortante.",
+  "categories": [
+    "Thai",
+    "Sopas",
+    "Peixes",
+    "Jantar"
+  ],
+  "primaryCategory": "Sopa",
+  "subCategory": [
+    "Caldos"
+  ],
+  "mealTime": [
+    "Jantar"
+  ],
+  "cuisine": [
+    "Tailandesa"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Sem Glúten"
+  ],
+  "keyIngredients": [
+    "Camarão"
+  ],
+  "collections": [
+    "Inverno"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "20 min",
+  "totalTime": "40 min",
+  "difficulty": "Médio",
+  "yield": "4 porções",
+  "searchTerms": [
+    "tom yum",
+    "tom yam goong",
+    "sopa thai",
+    "camarão",
+    "capim-limão",
+    "leite de coco"
+  ],
+  "tags": [
+    "tomyum",
+    "thai",
+    "sopa",
+    "exotica",
+    "picante",
+    "camarao",
+    "gastronomia",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Sopa",
+      "items": [
+        "500 g de camarão limpo",
+        "1 litro de água",
+        "1 cebola pequena picada",
+        "2 dentes de alho",
+        "1 pedaço de gengibre de 2cm",
+        "2 talos de capim-limão picados",
+        "4 folhas de limão kaffir ou raspas de limão siciliano",
+        "1 pimenta dedo-de-moça picada sem sementes",
+        "1/2 xícara de leite de coco",
+        "2 colheres (sopa) de suco de limão",
+        "1 colher (sopa) de molho de peixe",
+        "1 colher (sopa) de açúcar",
+        "100 g de cogumelos frescos fatiados",
+        "Coentro fresco para finalizar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Ferva a água com cebola, alho, gengibre, capim-limão e folhas de limão.",
+    "Adicione a pimenta e cozinhe por 5 minutos.",
+    "Junte o leite de coco, o suco de limão, o molho de peixe e o açúcar.",
+    "Adicione os camarões e os cogumelos.",
+    "Cozinhe até os camarões ficarem rosados.",
+    "Sirva bem quente com coentro picado."
+  ],
+  "tips": [
+    "Sirva com arroz jasmim soltinho.",
+    "Ajuste a quantidade de pimenta dedo-de-moça de acordo com seu paladar."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 20,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Sopa",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "camarão limpo"
+        },
+        {
+          "qty": 1,
+          "unit": "l",
+          "name": "água"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "pedaço de gengibre de 2cm"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "talos de capim-limão picados"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "folhas de limão kaffir ou raspas de limão siciliano"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "pimenta dedo-de-moça picada sem sementes"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "leite de coco"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres (sopa) de suco de limão"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de molho de peixe"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de açúcar"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "cogumelos frescos fatiados"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Coentro fresco",
+          "note": "para finalizar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Ferva a água com cebola, alho, gengibre, capim-limão e folhas de limão.",
+        "Adicione a pimenta e cozinhe por 5 minutos.",
+        "Junte o leite de coco, o suco de limão, o molho de peixe e o açúcar.",
+        "Adicione os camarões e os cogumelos.",
+        "Cozinhe até os camarões ficarem rosados.",
+        "Sirva bem quente com coentro picado."
+      ]
+    }
+  ]
+}

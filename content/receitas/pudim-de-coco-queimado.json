@@ -1,0 +1,122 @@
+{
+  "id": 139,
+  "slug": "pudim-de-coco-queimado",
+  "title": "Pudim de Coco Queimado",
+  "description": "Pudim cremoso com leite condensado, leite, ovos, coco ralado e calda caramelizada.",
+  "intro": "O pudim de coco queimado é the versão intensa e aromática do clássico brasileiro. Com the doçura profunda do coco tostado unida à cremosidade inconfundível do leite condensado, esta sobremesa oferece uma cor âmbar deslumbrante e um sabor que equilibra o tropical com o caramelo, sendo the escolha perfeita para quem busca um toque a mais de personalidade e sabor.",
+  "context": "Tostar o coco antes de incorporá-lo à massa é the técnica que define esta receita, despertando óleos essenciais que elevam o perfume do pudim a outro patamar. É uma homenagem à criatividade da doçaria nacional, onde ingredientes simples ganham novas camadas de complexidade através do calor, resultando em um doce que é ao mesmo tempo rústico, elegante e absolutamente amado.",
+  "categories": [
+    "Sobremesas",
+    "Pudins",
+    "Coco",
+    "Clássicas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pudins & Cremes"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Coco",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Receita Clássica"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "1 h 30 min",
+  "totalTime": "1 h 45 min",
+  "difficulty": "Fácil",
+  "yield": "10 porções",
+  "searchTerms": [
+    "pudim de coco queimado",
+    "coco ralado",
+    "calda caramelizada",
+    "pudim de coco"
+  ],
+  "tags": [
+    "pudimdecocoqueimado",
+    "coco",
+    "pudim",
+    "sobremesa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Pudim",
+      "items": [
+        "1 lata de leite condensado",
+        "2 latas de leite",
+        "3 ovos",
+        "1/2 xícara de coco ralado",
+        "Açúcar para caramelizar a forma"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bata leite condensado, leite, ovos e coco ralado no liquidificador.",
+    "Caramelize uma forma de pudim com açúcar.",
+    "Despeje o creme na forma caramelizada.",
+    "Asse em banho-maria por cerca de 1 hora e 30 minutos, até firmar.",
+    "Deixe esfriar completamente antes de desenformar."
+  ],
+  "tips": [
+    "Coco ralado fresco deixa o sabor mais intenso.",
+    "Amido de milho pode deixar o pudim mais firme.",
+    "Decore com coco ralado, raspas de limão ou calda de caramelo."
+  ],
+  "servings": 10,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "cookMinutes": 60,
+  "structuredIngredients": [
+    {
+      "section": "Pudim",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 2,
+          "unit": "lata",
+          "name": "leite"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "coco ralado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Açúcar",
+          "note": "para caramelizar a forma"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Bata leite condensado, leite, ovos e coco ralado no liquidificador.",
+        "Caramelize uma forma de pudim com açúcar.",
+        "Despeje o creme na forma caramelizada.",
+        "Asse em banho-maria por cerca de 1 hora e 30 minutos, até firmar.",
+        "Deixe esfriar completamente antes de desenformar."
+      ]
+    }
+  ]
+}

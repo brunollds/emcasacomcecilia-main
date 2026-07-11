@@ -1,0 +1,148 @@
+{
+  "id": 63,
+  "slug": "palha-italiana-de-cafe",
+  "title": "Palha Italiana de Café",
+  "description": "Palha italiana brasileira com brigadeiro de café, chocolate e biscoito maisena.",
+  "intro": "A palha italiana de café é o encontro perfeito entre o doce afetivo e o toque sofisticado do café. Esta receita transforma o clássico brigadeiro com biscoito maisena em uma experiência mais aromática e intensa, onde a crocância do biscoito se funde ao creme denso de chocolate e café, criando um docinho viciante e cheio de personalidade.",
+  "context": "Diferente do que o nome sugere, a palha italiana é uma invenção genuinamente brasileira, possivelmente inspirada pelo 'salame de chocolate' europeu. Esta versão com café solúvel eleva o doce a um patamar mais adulto, equilibrando a doçura do leite condensado com o amargor sutil do café, tornando-se o par ideal para um espresso ou como um presente artesanal.",
+  "categories": [
+    "Brasileira",
+    "Doces",
+    "Café da Manhã",
+    "Sobremesas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Docinhos"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "keyIngredients": [
+    "Chocolate",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Receita Clássica"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "15 min",
+  "totalTime": "2h 30 min",
+  "difficulty": "Fácil",
+  "yield": "9 pedaços",
+  "isNew": true,
+  "searchTerms": [
+    "palha italiana",
+    "café",
+    "brigadeiro",
+    "biscoito maisena",
+    "chocolate em pó"
+  ],
+  "tags": [
+    "palhaitaliana",
+    "docinhodecafe",
+    "brigadeirodiferente",
+    "sobremesa",
+    "cafedatarde",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 lata de leite condensado",
+        "1 colher (sopa) de margarina",
+        "2 colheres (sopa) de creme de leite",
+        "2 colheres (sopa) de chocolate em pó 50% cacau",
+        "1 colher (chá) de café solúvel",
+        "1/2 pacote de biscoito maisena quebrado",
+        "Açúcar para finalizar",
+        "Margarina para untar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Com o fogo desligado, misture leite condensado, margarina e creme de leite na panela.",
+    "Peneire o chocolate em pó e o café solúvel sobre a mistura.",
+    "Leve ao fogo médio, mexendo sempre, até atingir ponto de brigadeiro firme.",
+    "Desligue o fogo e incorpore o biscoito maisena quebrado.",
+    "Transfira para uma forma pequena untada e nivele a superfície.",
+    "Deixe esfriar completamente.",
+    "Corte em quadrados e passe no açúcar."
+  ],
+  "tips": [
+    "Quebre o biscoito em pedaços médios para manter textura.",
+    "Para corte mais limpo, use faca levemente untada.",
+    "Misture açúcar de confeiteiro, canela e uma pitada de café para uma finalização mais aromática."
+  ],
+  "servings": 9,
+  "servingsUnit": "pedaços",
+  "prepMinutes": 15,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de margarina"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres (sopa) de creme de leite"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres (sopa) de chocolate em pó 50% cacau"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de café solúvel"
+        },
+        {
+          "qty": 0.5,
+          "unit": "pacote",
+          "name": "biscoito maisena quebrado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Açúcar",
+          "note": "para finalizar"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Margarina",
+          "note": "para untar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Com o fogo desligado, misture leite condensado, margarina e creme de leite na panela.",
+        "Peneire o chocolate em pó e o café solúvel sobre a mistura.",
+        "Leve ao fogo médio, mexendo sempre, até atingir ponto de brigadeiro firme.",
+        "Desligue o fogo e incorpore o biscoito maisena quebrado.",
+        "Transfira para uma forma pequena untada e nivele a superfície.",
+        "Deixe esfriar completamente.",
+        "Corte em quadrados e passe no açúcar."
+      ]
+    }
+  ]
+}

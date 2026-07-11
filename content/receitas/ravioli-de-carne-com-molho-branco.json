@@ -1,0 +1,217 @@
+{
+  "id": 99,
+  "slug": "ravioli-de-carne-com-molho-branco",
+  "title": "Ravióli de Carne com Molho Branco",
+  "description": "Massa recheada com carne temperada e servida com molho branco cremoso.",
+  "intro": "O ravióli de carne com molho branco é a síntese do refinamento caseiro na culinária italiana. Cada pequena trouxinha de massa fresca esconde um recheio suculento e bem temperado, que encontra o par ideal na cremosidade aveludada do molho béchamel, resultando em um prato que equilibra técnica artesanal com o puro prazer do conforto.",
+  "context": "Fazer sua própria massa de ravióli é um gesto de carinho que eleva qualquer jantar especial. Esta receita destaca o uso da noz-moscada, um segredo clássico que perfuma tanto a carne quanto o molho, celebrando a tradição regional da Itália de criar massas recheadas que são verdadeiros presentes para o paladar, repletos de história e sabor.",
+  "categories": [
+    "Massas",
+    "Italiana",
+    "Carnes",
+    "Jantar"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Massas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Italiana"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "keyIngredients": [
+    "Carne Bovina"
+  ],
+  "prepTime": "45 min",
+  "cookTime": "25 min",
+  "totalTime": "1h10",
+  "difficulty": "Médio",
+  "yield": "4 porções",
+  "searchTerms": [
+    "ravióli de carne",
+    "ravioli",
+    "molho branco",
+    "massa recheada",
+    "comida italiana"
+  ],
+  "tags": [
+    "raviolidecarne",
+    "molhobranco",
+    "massas",
+    "italiana",
+    "jantarespecial",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "2 xícaras de farinha de trigo",
+        "3 ovos",
+        "1 colher (sopa) de azeite",
+        "1 pitada de sal"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "300 g de carne moída",
+        "1 cebola pequena picada",
+        "2 dentes de alho picados",
+        "1 colher (sopa) de azeite",
+        "Sal, pimenta-do-reino e noz-moscada a gosto",
+        "Salsinha picada a gosto"
+      ]
+    },
+    {
+      "section": "Molho Branco",
+      "items": [
+        "2 colheres (sopa) de manteiga",
+        "2 colheres (sopa) de farinha de trigo",
+        "500 ml de leite",
+        "Sal, pimenta-do-reino e noz-moscada a gosto",
+        "Queijo parmesão ralado para finalizar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture farinha, ovos, azeite e sal.",
+    "Sove por cerca de 10 minutos até formar massa lisa.",
+    "Abra a massa fina e corte em quadrados.",
+    "Refogue cebola e alho no azeite.",
+    "Adicione a carne e tempere com sal, pimenta, noz-moscada e salsinha.",
+    "Recheie os quadrados de massa e feche bem as bordas.",
+    "Para o molho, derreta a manteiga e misture a farinha.",
+    "Adicione o leite aos poucos até engrossar.",
+    "Cozinhe o ravióli em água fervente por cerca de 3 minutos.",
+    "Misture ao molho branco e finalize com parmesão."
+  ],
+  "tips": [
+    "Polvilhe farinha na bancada para a massa não grudar.",
+    "Cozinhe o ravióli em bastante água para evitar que cole.",
+    "Também combina com molho de tomate, pesto ou bolonhesa."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 45,
+  "cookMinutes": 25,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de azeite"
+        },
+        {
+          "qty": 1,
+          "unit": "pitada",
+          "name": "sal"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 300,
+          "unit": "g",
+          "name": "carne moída"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de azeite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino e noz-moscada",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Salsinha picada",
+          "note": "a gosto"
+        }
+      ]
+    },
+    {
+      "section": "Molho Branco",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres (sopa) de manteiga"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres (sopa) de farinha de trigo"
+        },
+        {
+          "qty": 500,
+          "unit": "ml",
+          "name": "leite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino e noz-moscada",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Queijo parmesão ralado",
+          "note": "para finalizar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture farinha, ovos, azeite e sal.",
+        "Sove por cerca de 10 minutos até formar massa lisa.",
+        "Abra a massa fina e corte em quadrados.",
+        "Refogue cebola e alho no azeite.",
+        "Adicione a carne e tempere com sal, pimenta, noz-moscada e salsinha.",
+        "Recheie os quadrados de massa e feche bem as bordas.",
+        "Para o molho, derreta a manteiga e misture a farinha.",
+        "Adicione o leite aos poucos até engrossar.",
+        "Cozinhe o ravióli em água fervente por cerca de 3 minutos.",
+        "Misture ao molho branco e finalize com parmesão."
+      ]
+    }
+  ]
+}

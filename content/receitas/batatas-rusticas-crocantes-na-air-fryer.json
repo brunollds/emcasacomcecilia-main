@@ -1,0 +1,135 @@
+{
+  "id": 33,
+  "slug": "batatas-rusticas-crocantes-na-air-fryer",
+  "title": "Batatas Rústicas Crocantes na Air Fryer",
+  "description": "Batatas rústicas douradas na air fryer, crocantes por fora, macias por dentro e bem temperadas.",
+  "intro": "Estas batatas rústicas são o acompanhamento definitivo para quem busca o contraste perfeito entre uma casca dourada e crocante e um interior macio e fumegante. Temperadas com páprica e alecrim, elas entregam um perfil de sabor complexo e rústico, funcionando tanto como estrela de um happy hour quanto como par ideal para carnes grelhadas.",
+  "context": "Historicamente ligadas à culinária camponesa europeia pelo aproveitamento total do alimento (incluindo a casca), as batatas rústicas ganharam nova vida com a tecnologia da air fryer. Este método moderno simula a fritura por imersão com uma fração do óleo, mantendo a tradição do sabor reconfortante com uma praticidade que se encaixa na rotina atual.",
+  "image": "/images/recipes/air-fryer/batatas-rusticas-crocantes-na-air-fryer.jpg",
+  "imageAlt": "Batatas rústicas crocantes preparadas na air fryer.",
+  "categories": [
+    "Air Fryer",
+    "Salgados",
+    "Petiscos"
+  ],
+  "primaryCategory": "Acompanhamento",
+  "subCategory": [
+    "Batatas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "method": [
+    "Air Fryer"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "keyIngredients": [
+    "Batata"
+  ],
+  "collections": [
+    "Receitas em 30 min"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "25 min",
+  "totalTime": "35 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "isPopular": true,
+  "searchTerms": [
+    "batata rústica",
+    "batata",
+    "air fryer",
+    "páprica",
+    "alecrim",
+    "petisco",
+    "happy hour"
+  ],
+  "tags": [
+    "batatarustica",
+    "airfryer",
+    "petiscos",
+    "happyhour",
+    "receitafacil",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Batatas",
+      "items": [
+        "Batatas médias tipo asterix ou bintje",
+        "Azeite de oliva extra virgem",
+        "Sal e pimenta-do-reino a gosto",
+        "Páprica doce ou picante a gosto",
+        "Alecrim fresco picado a gosto (opcional)"
+      ]
+    }
+  ],
+  "instructions": [
+    "Lave bem as batatas e corte em gomos grossos, mantendo a casca.",
+    "Seque bem as batatas com papel toalha.",
+    "Misture as batatas com azeite, sal, pimenta, páprica e alecrim, se for usar.",
+    "Coloque as batatas na cesta da Air Fryer em uma única camada, sem sobrepor.",
+    "Asse a 200°C por 20 a 25 minutos, virando na metade do tempo.",
+    "Sirva ainda quente com o molho de sua preferência."
+  ],
+  "tips": [
+    "Pré-aqueça a Air Fryer por 5 minutos para um resultado ainda mais crocante.",
+    "Experimente alho em pó, orégano ou açafrão para variar os temperos.",
+    "Sirva com maionese caseira, ketchup, mostarda ou molho barbecue."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 10,
+  "cookMinutes": 25,
+  "structuredIngredients": [
+    {
+      "section": "Batatas",
+      "items": [
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Batatas médias tipo asterix ou bintje"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Azeite de oliva extra virgem"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Páprica doce ou picante",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Alecrim fresco picado  (opcional)",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Lave bem as batatas e corte em gomos grossos, mantendo a casca.",
+        "Seque bem as batatas com papel toalha.",
+        "Misture as batatas com azeite, sal, pimenta, páprica e alecrim, se for usar.",
+        "Coloque as batatas na cesta da Air Fryer em uma única camada, sem sobrepor.",
+        "Asse a 200°C por 20 a 25 minutos, virando na metade do tempo.",
+        "Sirva ainda quente com o molho de sua preferência."
+      ]
+    }
+  ]
+}

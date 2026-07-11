@@ -1,0 +1,143 @@
+{
+  "id": 159,
+  "slug": "hot-cross-buns",
+  "title": "Hot Cross Buns",
+  "description": "Pães doces ingleses de Páscoa com especiarias, passas e cruz de glacê.",
+  "intro": "Os Hot Cross Buns trazem the tradição secular da Páscoa britânica para the sua mesa. Com uma massa leve e intensamente perfumada por especiarias como canela e noz-moscada, estes pães doces marcados com the icônica cruz de glacê são o par perfeito para um chá da tarde acolhedor e cheio de simbolismo.",
+  "context": "Pilar das celebrações na Inglaterra desde o século XIV, os Hot Cross Buns são valorizados por seu blend potente de especiarias e frutas secas. A receita celebra the herança europeia de panificação sazonal, onde the técnica de incorporar as passas e o acabamento vítreo resultam em um pão que é the cara da hospitalidade mundial e da celebração da partilha.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Pães",
+    "Internacional"
+  ],
+  "primaryCategory": "Pão",
+  "subCategory": [
+    "Pães Caseiros"
+  ],
+  "mealTime": [
+    "Café da Manhã",
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Inglesa"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "collections": [
+    "Páscoa",
+    "Receita Clássica"
+  ],
+  "prepTime": "30 min",
+  "cookTime": "20 min",
+  "totalTime": "1 h 50 min",
+  "difficulty": "Médio",
+  "yield": "10 unidades",
+  "searchTerms": [
+    "hot cross buns",
+    "pães doces",
+    "Páscoa inglesa",
+    "especiarias",
+    "passas"
+  ],
+  "tags": [
+    "hotcrossbuns",
+    "pascoa",
+    "paesdoces",
+    "especiarias",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Pães",
+      "items": [
+        "3 xícaras de farinha de trigo",
+        "1 xícara de passas brancas e escuras",
+        "1 colher de chá de canela em pó",
+        "1/2 colher de chá de noz-moscada",
+        "1 ovo",
+        "100 ml de leite",
+        "1/2 xícara de açúcar de confeiteiro para o glacê",
+        "1 colher de sopa de água para o glacê"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture farinha, especiarias e passas.",
+    "Adicione ovo e leite até formar uma massa.",
+    "Deixe crescer por 1 hora.",
+    "Modele bolinhas e asse a 190°C por cerca de 20 minutos.",
+    "Misture açúcar de confeiteiro e água.",
+    "Faça a cruz de glacê sobre os pães depois de assados."
+  ],
+  "tips": [
+    "Cranberries ou chocolate picado podem substituir as passas.",
+    "Coco ralado dá um toque brasileiro à massa.",
+    "Sirva quente com manteiga ou geleia."
+  ],
+  "servings": 10,
+  "servingsUnit": "unidades",
+  "prepMinutes": 30,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Pães",
+      "items": [
+        {
+          "qty": 3,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "passas brancas e escuras"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de chá de canela em pó"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "name": "colher de chá de noz-moscada"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo"
+        },
+        {
+          "qty": 100,
+          "unit": "ml",
+          "name": "leite"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "açúcar de confeiteiro para o glacê"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de sopa de água para o glacê"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture farinha, especiarias e passas.",
+        "Adicione ovo e leite até formar uma massa.",
+        "Deixe crescer por 1 hora.",
+        "Modele bolinhas e asse a 190°C por cerca de 20 minutos.",
+        "Misture açúcar de confeiteiro e água.",
+        "Faça a cruz de glacê sobre os pães depois de assados."
+      ]
+    }
+  ]
+}

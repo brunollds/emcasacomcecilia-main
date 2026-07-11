@@ -1,0 +1,177 @@
+{
+  "id": 209,
+  "slug": "bolo-naked-cake-de-pascoa",
+  "title": "Bolo Naked Cake de Páscoa",
+  "description": "Naked cake de Páscoa com camadas de bolo, geleia de frutas vermelhas e ganache.",
+  "intro": "O naked cake de Páscoa é the síntese da elegância rústica e do sabor autêntico. Com camadas de massa fofinha intercaladas com geleia vibrante de frutas vermelhas e ganache sedosa, ele revela the sua estrutura de forma honesta e deslumbrante, decorado com mini ovos que coroam esta sobremesa de prestígio e alma artesanal.",
+  "context": "Pilar da confeitaria contemporânea, o 'bolo pelado' valoriza the qualidade da massa e the harmonia visual dos recheios aparentes. Nesta versão festiva, the técnica de montagem em camadas garante the estabilidade sem perder the leveza, celebrando the sofisticação da simplicidade onde cada ingrediente brilha em uma apresentação sofisticada e acolhedora.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Bolos Caseiros",
+    "Confeitaria"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Bolos"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "45 min",
+  "cookTime": "30 min",
+  "totalTime": "1 h 15 min",
+  "difficulty": "Médio",
+  "yield": "12 fatias",
+  "searchTerms": [
+    "naked cake de Páscoa",
+    "bolo em camadas",
+    "ganache",
+    "frutas vermelhas"
+  ],
+  "tags": [
+    "nakedcakedepascoa",
+    "boloemcamadas",
+    "pascoaelegante",
+    "ganache",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Bolo e recheios",
+      "items": [
+        "3 xícaras de farinha de trigo",
+        "2 xícaras de açúcar",
+        "1 xícara de leite",
+        "1/2 xícara de óleo vegetal",
+        "4 ovos",
+        "1 colher de sopa de fermento em pó",
+        "1 colher de chá de essência de baunilha",
+        "1 xícara de geleia de frutas vermelhas",
+        "1 lata de leite condensado",
+        "200 g de creme de leite",
+        "200 g de chocolate meio amargo picado",
+        "Mini ovos de Páscoa para decorar",
+        "Hortelã, flores comestíveis ou raspas de chocolate para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Pré-aqueça o forno a 180°C e unte três formas redondas.",
+    "Misture farinha, açúcar e fermento.",
+    "Adicione leite, óleo, ovos e baunilha até formar massa homogênea.",
+    "Divida entre as formas e asse por 25 a 30 minutos.",
+    "Aqueça creme de leite e despeje sobre o chocolate picado para formar ganache.",
+    "Coloque uma camada de bolo no prato e espalhe geleia.",
+    "Adicione a segunda camada e cubra com ganache.",
+    "Finalize com a terceira camada.",
+    "Passe uma camada fina de ganache nas laterais para efeito naked.",
+    "Decore com mini ovos, hortelã, flores ou raspas de chocolate."
+  ],
+  "tips": [
+    "Doce de leite ou brigadeiro podem substituir a geleia.",
+    "Morangos frescos reforçam o visual de festa.",
+    "Monte com os bolos totalmente frios para evitar que o recheio escorra."
+  ],
+  "servings": 12,
+  "servingsUnit": "fatias",
+  "prepMinutes": 45,
+  "cookMinutes": 30,
+  "structuredIngredients": [
+    {
+      "section": "Bolo e recheios",
+      "items": [
+        {
+          "qty": 3,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "leite"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "óleo vegetal"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "col. sopa",
+          "name": "fermento em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "essência de baunilha"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "geleia de frutas vermelhas"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "chocolate meio amargo picado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Mini ovos de Páscoa",
+          "note": "para decorar"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Hortelã, flores comestíveis ou raspas de chocolate",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Pré-aqueça o forno a 180°C e unte três formas redondas.",
+        "Misture farinha, açúcar e fermento.",
+        "Adicione leite, óleo, ovos e baunilha até formar massa homogênea.",
+        "Divida entre as formas e asse por 25 a 30 minutos.",
+        "Aqueça creme de leite e despeje sobre o chocolate picado para formar ganache.",
+        "Coloque uma camada de bolo no prato e espalhe geleia.",
+        "Adicione a segunda camada e cubra com ganache.",
+        "Finalize com a terceira camada.",
+        "Passe uma camada fina de ganache nas laterais para efeito naked.",
+        "Decore com mini ovos, hortelã, flores ou raspas de chocolate."
+      ]
+    }
+  ]
+}

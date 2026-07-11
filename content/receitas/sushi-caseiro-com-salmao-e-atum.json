@@ -1,0 +1,166 @@
+{
+  "id": 96,
+  "slug": "sushi-caseiro-com-salmao-e-atum",
+  "title": "Sushi Caseiro com Salmão e Atum",
+  "description": "Desvende os segredos da culinária japonesa em casa: aprenda a preparar o arroz perfeito (Shari) e montar rolinhos de sushi frescos e profissionais.",
+  "intro": "Desvendar os segredos do sushi em casa é uma jornada gratificante de técnica e frescor. Do preparo minucioso do arroz temperado (Shari) à montagem cuidadosa dos rolinhos com salmão e atum de grau sushi, esta receita transforma sua cozinha em um autêntico balcão japonês, onde a qualidade dos ingredientes é a verdadeira protagonista.",
+  "context": "O sushi é uma forma de arte milenar que celebra o equilíbrio entre o ácido, o doce e o sabor puro do mar. Dominar o ponto do arroz e a pressão correta ao enrolar o nori exige paciência, mas recompensa com uma refeição elegante, saudável e repleta de rituais que tornam o ato de comer uma experiência de profundo respeito ao alimento.",
+  "categories": [
+    "Japonesa",
+    "Peixes",
+    "Saudáveis"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Peixes & Frutos do Mar"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Japonesa"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Salmão",
+    "Arroz"
+  ],
+  "collections": [
+    "Para Dois"
+  ],
+  "prepTime": "45 min",
+  "cookTime": "20 min",
+  "totalTime": "1h 5 min",
+  "difficulty": "Médio",
+  "yield": "10 rolinhos",
+  "searchTerms": [
+    "sushi caseiro",
+    "salmão",
+    "atum",
+    "arroz para sushi",
+    "alga nori",
+    "comida japonesa",
+    "shari"
+  ],
+  "tags": [
+    "sushicaseiro",
+    "salmao",
+    "atum",
+    "comidajaponesa",
+    "sushi",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Arroz (Shari)",
+      "items": [
+        "500 g de arroz japonês (tipo grão curto)",
+        "600 ml de água",
+        "1/2 xícara (chá) de vinagre de arroz",
+        "2 colheres (sopa) de açúcar refinado",
+        "1 colher (chá) de sal"
+      ]
+    },
+    {
+      "section": "Montagem",
+      "items": [
+        "10 folhas de alga nori",
+        "200 g de salmão fresco em fatias finas (grau sushi)",
+        "200 g de atum fresco em fatias finas (grau sushi)",
+        "Wasabi, shoyu e gengibre em conserva para acompanhar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Lave o arroz japonês em água corrente, esfregando delicadamente, até que a água saia quase transparente. Deixe escorrer por 15 minutos.",
+    "Cozinhe o arroz com a água em fogo médio até ferver. Abaixe o fogo e cozinhe com a panela tampada por cerca de 15 minutos ou até a água secar.",
+    "Em uma panela pequena, misture o vinagre, o açúcar e o sal e leve ao fogo apenas para dissolver (não deixe ferver).",
+    "Transfira o arroz para um recipiente de madeira ou vidro e regue com o tempero de vinagre. Misture com movimentos de \"corte\" para não amassar os grãos, enquanto resfria o arroz.",
+    "Coloque a folha de nori sobre uma esteira de bambu. Espalhe uma camada fina de arroz, deixando uma borda livre.",
+    "Disponha o peixe no centro e enrole firmemente com a ajuda da esteira.",
+    "Corte em fatias com uma faca muito afiada e úmida e sirva com shoyu e wasabi."
+  ],
+  "tips": [
+    "Use sempre peixe de procedência confiável para consumo cru.",
+    "Molhe as mãos em água com vinagre para o arroz não grudar nos dedos durante a montagem."
+  ],
+  "servings": 10,
+  "servingsUnit": "rolinhos",
+  "prepMinutes": 45,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Arroz (Shari)",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "arroz japonês (tipo grão curto)"
+        },
+        {
+          "qty": 600,
+          "unit": "ml",
+          "name": "água"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de vinagre de arroz"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres (sopa) de açúcar refinado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de sal"
+        }
+      ]
+    },
+    {
+      "section": "Montagem",
+      "items": [
+        {
+          "qty": 10,
+          "unit": "",
+          "name": "folhas de alga nori"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "salmão fresco em fatias finas (grau sushi)"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "atum fresco em fatias finas (grau sushi)"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Wasabi, shoyu e gengibre em conserva",
+          "note": "para acompanhar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Lave o arroz japonês em água corrente, esfregando delicadamente, até que a água saia quase transparente. Deixe escorrer por 15 minutos.",
+        "Cozinhe o arroz com a água em fogo médio até ferver. Abaixe o fogo e cozinhe com a panela tampada por cerca de 15 minutos ou até a água secar.",
+        "Em uma panela pequena, misture o vinagre, o açúcar e o sal e leve ao fogo apenas para dissolver (não deixe ferver).",
+        "Transfira o arroz para um recipiente de madeira ou vidro e regue com o tempero de vinagre. Misture com movimentos de \"corte\" para não amassar os grãos, enquanto resfria o arroz.",
+        "Coloque a folha de nori sobre uma esteira de bambu. Espalhe uma camada fina de arroz, deixando uma borda livre.",
+        "Disponha o peixe no centro e enrole firmemente com a ajuda da esteira.",
+        "Corte em fatias com uma faca muito afiada e úmida e sirva com shoyu e wasabi."
+      ]
+    }
+  ]
+}

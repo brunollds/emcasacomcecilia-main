@@ -1,0 +1,177 @@
+{
+  "id": 37,
+  "slug": "bolo-de-chocolate-com-recheio-de-brigadeiro",
+  "title": "Bolo de Chocolate com Recheio de Brigadeiro",
+  "description": "Bolo de chocolate de festa com massa úmida, recheio de brigadeiro e cobertura generosa.",
+  "intro": "O bolo de chocolate com recheio de brigadeiro é a celebração definitiva da doçura brasileira. Com uma massa úmida e escura que derrete na boca, contrastando com a cremosidade densa e aveludada do brigadeiro, este bolo é a escolha clássica para aniversários e momentos que pedem uma indulgência generosa e inesquecível.",
+  "context": "Esta receita une dois grandes amores nacionais: o bolo de chocolate caseiro e o brigadeiro, um ícone da nossa confeitaria criado na década de 1940. Juntos, eles formam a base de quase todas as festas no Brasil, representando não apenas uma sobremesa, mas um símbolo de afeto e hospitalidade em qualquer celebração familiar.",
+  "image": "/images/recipes/bolos/bolo-de-chocolate-com-recheio-de-brigadeiro.jpg",
+  "imageAlt": "Bolo de chocolate em camadas com recheio de brigadeiro e granulado.",
+  "categories": [
+    "Brasileira",
+    "Doces",
+    "Bolos Caseiros",
+    "Festas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Bolos"
+  ],
+  "mealTime": [
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Aniversário",
+    "Comfort Food"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "40 min",
+  "totalTime": "1h 5 min",
+  "difficulty": "Médio",
+  "yield": "12 fatias",
+  "isPopular": true,
+  "searchTerms": [
+    "bolo de chocolate",
+    "brigadeiro",
+    "festa",
+    "aniversário",
+    "chocolate em pó",
+    "granulado"
+  ],
+  "tags": [
+    "bolodechocolate",
+    "brigadeiro",
+    "brasileiro",
+    "festa",
+    "aniversario",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "3 ovos",
+        "1 xícara (chá) de açúcar",
+        "1/2 xícara (chá) de óleo",
+        "1 xícara (chá) de leite",
+        "2 xícaras (chá) de farinha de trigo",
+        "1/2 xícara (chá) de chocolate em pó 50% cacau",
+        "1 colher (sopa) de fermento em pó"
+      ]
+    },
+    {
+      "section": "Recheio e cobertura",
+      "items": [
+        "2 latas de leite condensado",
+        "4 colheres (sopa) de chocolate em pó 50% cacau",
+        "1 colher (sopa) de manteiga sem sal",
+        "Granulado de chocolate a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Na batedeira, bata os ovos com o açúcar. Adicione o óleo e o leite e bata mais um pouco.",
+    "Misture a farinha com o chocolate e o fermento e adicione à massa delicadamente.",
+    "Asse a 180°C por cerca de 40 minutos.",
+    "Para o recheio, misture leite condensado, chocolate e manteiga em uma panela e cozinhe em fogo baixo até obter um brigadeiro cremoso.",
+    "Corte o bolo ao meio, recheie, cubra com o restante do brigadeiro e finalize com granulado."
+  ],
+  "tips": [
+    "Para um recheio mais firme, adicione 1 colher de sopa de amido de milho ao brigadeiro.",
+    "Adicione nozes ou coco ralado ao recheio para variar."
+  ],
+  "servings": 12,
+  "servingsUnit": "fatias",
+  "prepMinutes": 25,
+  "cookMinutes": 40,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de açúcar"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de óleo"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de leite"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "(chá) de farinha de trigo"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de chocolate em pó 50% cacau"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de fermento em pó"
+        }
+      ]
+    },
+    {
+      "section": "Recheio e cobertura",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "colheres (sopa) de chocolate em pó 50% cacau"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de manteiga sem sal"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Granulado de chocolate",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Na batedeira, bata os ovos com o açúcar. Adicione o óleo e o leite e bata mais um pouco.",
+        "Misture a farinha com o chocolate e o fermento e adicione à massa delicadamente.",
+        "Asse a 180°C por cerca de 40 minutos.",
+        "Para o recheio, misture leite condensado, chocolate e manteiga em uma panela e cozinhe em fogo baixo até obter um brigadeiro cremoso.",
+        "Corte o bolo ao meio, recheie, cubra com o restante do brigadeiro e finalize com granulado."
+      ]
+    }
+  ]
+}

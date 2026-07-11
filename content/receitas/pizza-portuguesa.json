@@ -1,0 +1,195 @@
+{
+  "id": 108,
+  "slug": "pizza-portuguesa",
+  "title": "Pizza Portuguesa",
+  "description": "Pizza caseira com presunto, mussarela, ovos, cebola, pimentão, azeitonas e orégano.",
+  "intro": "A pizza portuguesa é o festival de cores e sabores que se tornou um pilar das pizzarias brasileiras. Combinando presunto, mussarela, ovos cozidos, cebola e pimentão sobre uma massa artesanal crocante, esta receita oferece uma harmonia perfeita entre o salgado, o rústico e o frescor dos vegetais, sendo a escolha clássica para quem busca fartura e tradição.",
+  "context": "Diferente da pizza encontrada em Portugal, a versão brasileira 'Portuguesa' é uma homenagem à criatividade das padarias e pizzarias de imigrantes. É um prato que celebra a abundância de ingredientes, onde cada fatia revela camadas de texturas que evocam o carinho das noites em família e a rica história da adaptação gastronômica luso-brasileira.",
+  "categories": [
+    "Massas",
+    "Pizza",
+    "Lanches",
+    "Jantar"
+  ],
+  "primaryCategory": "Lanche",
+  "subCategory": [
+    "Pizzas"
+  ],
+  "mealTime": [
+    "Jantar"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Queijo",
+    "Ovos"
+  ],
+  "collections": [
+    "Receita Clássica"
+  ],
+  "prepTime": "1h20",
+  "cookTime": "20 min",
+  "totalTime": "1h40",
+  "difficulty": "Médio",
+  "yield": "1 pizza grande",
+  "searchTerms": [
+    "pizza portuguesa",
+    "pizza caseira",
+    "presunto",
+    "ovo",
+    "azeitona",
+    "mussarela"
+  ],
+  "tags": [
+    "pizzaportuguesa",
+    "pizza",
+    "presunto",
+    "mussarela",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 xícara de água morna",
+        "1 colher (sopa) de açúcar",
+        "1 colher (sopa) de fermento biológico seco",
+        "1/4 xícara de azeite",
+        "3 xícaras de farinha de trigo",
+        "1 colher (chá) de sal"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "1 xícara de molho de tomate",
+        "200 g de presunto fatiado",
+        "200 g de queijo mussarela fatiado",
+        "2 ovos cozidos e fatiados",
+        "1 cebola pequena fatiada",
+        "1 pimentão verde fatiado",
+        "1/2 xícara de azeitonas pretas fatiadas",
+        "Orégano a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Prepare a massa com água, açúcar, fermento, azeite, farinha e sal.",
+    "Sove e deixe crescer por cerca de 1 hora.",
+    "Abra em disco e coloque em forma untada.",
+    "Espalhe o molho.",
+    "Cubra com presunto, queijo, ovos, cebola, pimentão e azeitonas.",
+    "Salpique orégano.",
+    "Asse a 200°C por cerca de 20 minutos."
+  ],
+  "tips": [
+    "Milho, palmito ou ervilha podem complementar o recheio.",
+    "Deixe a massa descansar bem para melhor textura.",
+    "Sirva assim que sair do forno."
+  ],
+  "servings": 1,
+  "servingsUnit": "pizza grande",
+  "prepMinutes": 60,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "água morna"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de fermento biológico seco"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "azeite"
+        },
+        {
+          "qty": 3,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de sal"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "molho de tomate"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "presunto fatiado"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "queijo mussarela fatiado"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "ovos cozidos e fatiados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena fatiada"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "pimentão verde fatiado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "azeitonas pretas fatiadas"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Orégano",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Prepare a massa com água, açúcar, fermento, azeite, farinha e sal.",
+        "Sove e deixe crescer por cerca de 1 hora.",
+        "Abra em disco e coloque em forma untada.",
+        "Espalhe o molho.",
+        "Cubra com presunto, queijo, ovos, cebola, pimentão e azeitonas.",
+        "Salpique orégano.",
+        "Asse a 200°C por cerca de 20 minutos."
+      ]
+    }
+  ]
+}

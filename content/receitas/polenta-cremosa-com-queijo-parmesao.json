@@ -1,0 +1,131 @@
+{
+  "id": 87,
+  "slug": "polenta-cremosa-com-queijo-parmesao",
+  "title": "Polenta Cremosa com Queijo Parmesão",
+  "description": "Polenta cremosa de fubá com manteiga e parmesão, perfeita com carnes e molhos.",
+  "intro": "A polenta cremosa é o conforto líquido da cozinha italiana. Com sua textura de seda e o sabor rústico do milho acentuado pelo queijo parmesão, ela serve como a base perfeita para ragus intensos ou simplesmente como um prato reconfortante que aquece a alma nos dias mais frios.",
+  "context": "Símbolo ancestral da culinária camponesa na Itália, a polenta transformou-se em um prato de prestígio global. O segredo desta receita está na paciência do mexer constante e na adição da manteiga ao final, que garante o brilho e a cremosidade que transformam o fubá em um ícone de sofisticação e alma.",
+  "categories": [
+    "Italiana",
+    "Acompanhamentos",
+    "Comida Afetiva"
+  ],
+  "primaryCategory": "Acompanhamento",
+  "subCategory": [
+    "Farofas & Farinhas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Italiana"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Vegetariana",
+    "Sem Glúten"
+  ],
+  "keyIngredients": [
+    "Queijo",
+    "Milho"
+  ],
+  "collections": [
+    "Comfort Food",
+    "Inverno"
+  ],
+  "prepTime": "5 min",
+  "cookTime": "20 min",
+  "totalTime": "25 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "searchTerms": [
+    "polenta cremosa",
+    "fubá",
+    "parmesão",
+    "comida italiana",
+    "acompanhamento"
+  ],
+  "tags": [
+    "polenta",
+    "queijoparmesao",
+    "polentacremosa",
+    "acompanhamento",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Polenta",
+      "items": [
+        "1 xícara de fubá pré-cozido",
+        "4 xícaras de água",
+        "1 colher (sopa) de manteiga",
+        "1/2 xícara de queijo parmesão ralado",
+        "Sal a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Coloque a água e o sal em uma panela e leve ao fogo.",
+    "Quando ferver, adicione o fubá aos poucos, mexendo com fouet.",
+    "Abaixe o fogo e cozinhe por cerca de 20 minutos, mexendo sempre.",
+    "Quando engrossar e desgrudar do fundo, adicione a manteiga e o parmesão.",
+    "Misture bem e sirva quente."
+  ],
+  "tips": [
+    "Mais manteiga e parmesão deixam a polenta ainda mais cremosa.",
+    "Mussarela, provolone ou gorgonzola podem substituir parte do parmesão.",
+    "Sirva com carnes, aves, cogumelos ou molhos encorpados."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 5,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Polenta",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "fubá pré-cozido"
+        },
+        {
+          "qty": 4,
+          "unit": "xíc.",
+          "name": "água"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de manteiga"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "queijo parmesão ralado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Coloque a água e o sal em uma panela e leve ao fogo.",
+        "Quando ferver, adicione o fubá aos poucos, mexendo com fouet.",
+        "Abaixe o fogo e cozinhe por cerca de 20 minutos, mexendo sempre.",
+        "Quando engrossar e desgrudar do fundo, adicione a manteiga e o parmesão.",
+        "Misture bem e sirva quente."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": 110,
+  "slug": "pizza-de-frango-com-catupiry",
+  "title": "Pizza de Frango com Catupiry",
+  "description": "Pizza caseira cremosa com frango desfiado temperado, Catupiry, mussarela e orégano.",
+  "intro": "A pizza de frango com Catupiry é a união sagrada entre a suculência do frango desfiado e a cremosidade lendária do requeijão brasileiro. Sobre uma base de massa artesanal e molho de tomate fresco, esta combinação cria um contraste de texturas que derrete na boca, oferecendo um sabor reconfortante que se tornou a assinatura da criatividade brasileira no mundo das pizzas.",
+  "context": "Nascida da ousadia de misturar ingredientes locais com a tradição italiana, esta pizza é um patrimônio afetivo da nossa gastronomia. O uso do Catupiry original é o segredo para o equilíbrio perfeito com o frango bem temperado, celebrando uma história de inovação que transformou um simples lanche em um clássico amado por todas as gerações.",
+  "categories": [
+    "Massas",
+    "Pizza",
+    "Frango",
+    "Jantar"
+  ],
+  "primaryCategory": "Lanche",
+  "subCategory": [
+    "Pizzas"
+  ],
+  "mealTime": [
+    "Jantar"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Frango",
+    "Queijo"
+  ],
+  "collections": [
+    "Comfort Food"
+  ],
+  "prepTime": "1h20",
+  "cookTime": "25 min",
+  "totalTime": "1h45",
+  "difficulty": "Médio",
+  "yield": "1 pizza grande",
+  "searchTerms": [
+    "pizza de frango com catupiry",
+    "frango desfiado",
+    "catupiry",
+    "pizza caseira",
+    "mussarela"
+  ],
+  "tags": [
+    "pizzadefrangocomcatupiry",
+    "frango",
+    "catupiry",
+    "pizza",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 xícara de água morna",
+        "1 colher (sopa) de açúcar",
+        "1 colher (sopa) de fermento biológico seco",
+        "1/4 xícara de azeite",
+        "3 xícaras de farinha de trigo",
+        "1 colher (chá) de sal"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "1 xícara de molho de tomate",
+        "1 peito de frango cozido e desfiado",
+        "1 cebola pequena picada",
+        "2 dentes de alho picados",
+        "1 colher (sopa) de azeite",
+        "Sal, pimenta-do-reino e orégano a gosto",
+        "200 g de Catupiry",
+        "200 g de queijo mussarela fatiado",
+        "Orégano fresco a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Prepare a massa e deixe crescer por 1 hora.",
+    "Refogue cebola e alho no azeite.",
+    "Adicione o frango desfiado e tempere.",
+    "Abra a massa e coloque em forma untada.",
+    "Espalhe molho de tomate.",
+    "Cubra com frango, Catupiry e mussarela.",
+    "Finalize com orégano.",
+    "Asse a 200°C por cerca de 20 minutos."
+  ],
+  "tips": [
+    "Milho, azeitonas ou palmito combinam bem.",
+    "Use frango já cozido para acelerar o preparo.",
+    "Sirva quente para manter a cremosidade."
+  ],
+  "servings": 1,
+  "servingsUnit": "pizza grande",
+  "prepMinutes": 60,
+  "cookMinutes": 25,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "água morna"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de fermento biológico seco"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "azeite"
+        },
+        {
+          "qty": 3,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de sal"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "molho de tomate"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "peito de frango cozido e desfiado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de azeite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino e orégano",
+          "note": "a gosto"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "Catupiry"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "queijo mussarela fatiado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Orégano fresco",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Prepare a massa e deixe crescer por 1 hora.",
+        "Refogue cebola e alho no azeite.",
+        "Adicione o frango desfiado e tempere.",
+        "Abra a massa e coloque em forma untada.",
+        "Espalhe molho de tomate.",
+        "Cubra com frango, Catupiry e mussarela.",
+        "Finalize com orégano.",
+        "Asse a 200°C por cerca de 20 minutos."
+      ]
+    }
+  ]
+}

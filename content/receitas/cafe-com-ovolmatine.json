@@ -1,0 +1,119 @@
+{
+  "id": 152,
+  "slug": "cafe-com-ovolmatine",
+  "title": "Café com Ovolmatine",
+  "description": "Bebida quente com café forte, leite, Ovolmatine e finalização opcional de canela.",
+  "intro": "O café com Ovolmatine é the evolução reconfortante e sofisticada do clássico café com leite. A intensidade do café forte encontra the doçura maltada, criando uma bebida quente, aveludada e energética que é perfeita para começar o dia com vigor ou para aquele momento de pausa que pede um mimo especial.",
+  "context": "Combinando duas paixões matinais, esta receita valoriza the fusão de aromas. A técnica de dissolver o malte no café quente garante que cada gole seja homogêneo e rico, provando que the versatilidade do Ovolmatine permite elevar até as rotinas mais simples a um patamar de conforto e sabor diferenciado.",
+  "categories": [
+    "Bebidas",
+    "Café",
+    "Ovolmatine",
+    "Café da Manhã"
+  ],
+  "primaryCategory": "Bebida",
+  "subCategory": [
+    "Cafés"
+  ],
+  "mealTime": [
+    "Café da Manhã",
+    "Lanche da Tarde"
+  ],
+  "method": [
+    "Liquidificador"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "prepTime": "8 min",
+  "cookTime": "0 min",
+  "totalTime": "8 min",
+  "difficulty": "Fácil",
+  "yield": "1 porção",
+  "searchTerms": [
+    "café com Ovolmatine",
+    "café maltado",
+    "bebida quente",
+    "café da manhã"
+  ],
+  "tags": [
+    "cafecomovolmatine",
+    "cafe",
+    "ovolmatine",
+    "bebidaquente",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Café",
+      "items": [
+        "1 dose de café expresso ou 50 ml de café forte coado",
+        "200 ml de leite quente",
+        "1 a 2 colheres de sopa de Ovolmatine",
+        "Açúcar ou adoçante a gosto opcional",
+        "Canela em pó para finalizar opcional"
+      ]
+    }
+  ],
+  "instructions": [
+    "Prepare o café pelo método de sua preferência.",
+    "Aqueça o leite sem ferver.",
+    "Misture o Ovolmatine ao café quente até dissolver.",
+    "Adicione o leite e mexa bem.",
+    "Adoce se desejar e finalize com canela."
+  ],
+  "tips": [
+    "Leite vegetal também funciona bem.",
+    "Bata o leite para uma textura mais cremosa.",
+    "Ajuste a quantidade de Ovolmatine ao seu paladar."
+  ],
+  "servings": 1,
+  "servingsUnit": "porção",
+  "prepMinutes": 8,
+  "structuredIngredients": [
+    {
+      "section": "Café",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "dose de café expresso ou 50 ml de café forte coado"
+        },
+        {
+          "qty": 200,
+          "unit": "ml",
+          "name": "leite quente"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "a 2 colheres de sopa de Ovolmatine"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Açúcar ou adoçante  opcional",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Canela em pó  opcional",
+          "note": "para finalizar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Prepare o café pelo método de sua preferência.",
+        "Aqueça o leite sem ferver.",
+        "Misture o Ovolmatine ao café quente até dissolver.",
+        "Adicione o leite e mexa bem.",
+        "Adoce se desejar e finalize com canela."
+      ]
+    }
+  ]
+}

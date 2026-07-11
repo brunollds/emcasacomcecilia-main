@@ -1,0 +1,163 @@
+{
+  "id": 45,
+  "slug": "bolo-de-laranja-com-calda-de-laranja",
+  "title": "Bolo de Laranja com Calda de Laranja",
+  "description": "Bolo cítrico, fofinho e perfumado, finalizado com calda de laranja ainda quente.",
+  "intro": "O bolo de laranja com calda é a definição de perfume na cozinha. Sua massa leve e fofinha, saturada com o suco natural e raspas cítricas, ganha uma camada extra de sabor com a calda quente que penetra em cada fibra, criando uma experiência úmida e vibrante que é impossível comer apenas uma fatia.",
+  "context": "Com influências da doçaria portuguesa, o uso da laranja em bolos é uma tradição secular que celebra a introdução das laranjas doces na Europa. Esta receita é um grampo do café da tarde brasileiro, valorizando a fruta em sua totalidade e entregando um bolo simples que impressiona pelo brilho e frescor.",
+  "categories": [
+    "Doces",
+    "Bolos Caseiros",
+    "Sobremesas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Bolos"
+  ],
+  "mealTime": [
+    "Café da Manhã",
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Laranja"
+  ],
+  "collections": [
+    "Comfort Food",
+    "Receita de Vó"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "40 min",
+  "totalTime": "1h",
+  "difficulty": "Fácil",
+  "yield": "10 fatias",
+  "searchTerms": [
+    "bolo de laranja",
+    "calda de laranja",
+    "raspas de laranja",
+    "bolo caseiro",
+    "confeitaria"
+  ],
+  "tags": [
+    "bolodelaranja",
+    "caldadelaranja",
+    "classico",
+    "confeitaria",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "3 ovos",
+        "1 xícara (chá) de açúcar",
+        "1/2 xícara (chá) de óleo",
+        "Suco de 2 laranjas",
+        "Raspas de 1 laranja",
+        "2 xícaras (chá) de farinha de trigo",
+        "1 colher (sopa) de fermento em pó"
+      ]
+    },
+    {
+      "section": "Calda",
+      "items": [
+        "Suco de 1 laranja",
+        "1/2 xícara (chá) de açúcar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Na batedeira, bata os ovos com o açúcar até obter um creme claro e fofo.",
+    "Adicione o óleo, o suco de laranja e as raspas e bata mais um pouco.",
+    "Misture a farinha com o fermento, peneire e adicione à massa aos poucos, misturando delicadamente.",
+    "Despeje em forma untada e enfarinhada e asse a 180°C por cerca de 40 minutos.",
+    "Para a calda, misture o suco de laranja com o açúcar e leve ao fogo baixo até dissolver e engrossar levemente.",
+    "Com o bolo ainda quente, faça furos com um garfo e despeje a calda por cima."
+  ],
+  "tips": [
+    "Bata as claras em neve separadamente e incorpore no final para um bolo mais leve.",
+    "Adicione 1/2 xícara de nozes picadas à massa para mais crocância."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 20,
+  "cookMinutes": 40,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de açúcar"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de óleo"
+        },
+        {
+          "qty": 2,
+          "unit": "un.",
+          "name": "laranjas",
+          "note": "suco"
+        },
+        {
+          "qty": 1,
+          "unit": "un.",
+          "name": "laranja",
+          "note": "raspas"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "(chá) de farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de fermento em pó"
+        }
+      ]
+    },
+    {
+      "section": "Calda",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "un.",
+          "name": "laranja",
+          "note": "suco"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de açúcar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Na batedeira, bata os ovos com o açúcar até obter um creme claro e fofo.",
+        "Adicione o óleo, o suco de laranja e as raspas e bata mais um pouco.",
+        "Misture a farinha com o fermento, peneire e adicione à massa aos poucos, misturando delicadamente.",
+        "Despeje em forma untada e enfarinhada e asse a 180°C por cerca de 40 minutos.",
+        "Para a calda, misture o suco de laranja com o açúcar e leve ao fogo baixo até dissolver e engrossar levemente.",
+        "Com o bolo ainda quente, faça furos com um garfo e despeje a calda por cima."
+      ]
+    }
+  ]
+}

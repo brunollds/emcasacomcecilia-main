@@ -1,0 +1,171 @@
+{
+  "id": 86,
+  "slug": "cuscuz-marroquino-com-legumes-e-frutas-secas",
+  "title": "Cuscuz Marroquino com Legumes e Frutas Secas",
+  "description": "Cuscuz marroquino leve e aromático com legumes, uvas-passas, damasco e especiarias.",
+  "intro": "Este cuscuz marroquino é uma celebração de texturas e perfumes no prato. A leveza dos grãos hidratados ganha a companhia vibrante de legumes salteados e o toque adocicado e luxuoso de damascos e passas, criando um acompanhamento sofisticado que transporta o paladar para os mercados de especiarias do Norte da África em poucos minutos.",
+  "context": "Originário das tradições berberes, o cuscuz marroquino é valorizado por sua rapidez e capacidade de absorver sabores. Esta versão equilibra perfeitamente a rusticidade dos legumes com o perfume da canela e a doçura das frutas secas, sendo uma opção versátil que funciona tanto como um prato principal leve quanto como estrela de um banquete internacional.",
+  "categories": [
+    "Internacional",
+    "Acompanhamentos",
+    "Vegetariana",
+    "Saudáveis"
+  ],
+  "primaryCategory": "Acompanhamento",
+  "subCategory": [
+    "Farofas & Farinhas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Mediterrânea",
+    "Árabe"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Vegetariana",
+    "Vegana"
+  ],
+  "collections": [
+    "Receitas em 30 min"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "10 min",
+  "totalTime": "25 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "isNew": true,
+  "searchTerms": [
+    "cuscuz marroquino",
+    "legumes",
+    "frutas secas",
+    "damasco",
+    "uvas-passas",
+    "vegetariano"
+  ],
+  "tags": [
+    "cuscuzmarroquino",
+    "legumes",
+    "frutassecas",
+    "acompanhamento",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Cuscuz",
+      "items": [
+        "1 xícara de cuscuz marroquino",
+        "1 xícara de água fervente",
+        "1 colher (sopa) de azeite",
+        "1/2 cebola pequena picada",
+        "1 dente de alho picado",
+        "1 cenoura pequena picada",
+        "1/2 xícara de abobrinha picada",
+        "1/4 xícara de uvas-passas",
+        "1/4 xícara de damasco seco picado",
+        "Sal, pimenta-do-reino e canela em pó a gosto",
+        "Salsinha e cebolinha para finalizar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Coloque o cuscuz em uma tigela, adicione a água fervente, cubra e deixe hidratar por 5 minutos.",
+    "Aqueça o azeite e refogue cebola e alho.",
+    "Adicione cenoura e abobrinha e refogue por alguns minutos.",
+    "Junte uvas-passas e damasco.",
+    "Tempere com sal, pimenta e canela.",
+    "Adicione o cuscuz hidratado e misture bem.",
+    "Finalize com salsinha e cebolinha."
+  ],
+  "tips": [
+    "Se quiser mais úmido, adicione um pouco mais de água fervente.",
+    "Pimentão, brócolis e couve-flor também funcionam.",
+    "Sirva como acompanhamento ou prato principal leve."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "cookMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Cuscuz",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "cuscuz marroquino"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "água fervente"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de azeite"
+        },
+        {
+          "qty": 0.5,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 1,
+          "unit": "dente",
+          "name": "alho picado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cenoura pequena picada"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "abobrinha picada"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "uvas-passas"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "damasco seco picado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino e canela em pó",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Salsinha e cebolinha",
+          "note": "para finalizar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Coloque o cuscuz em uma tigela, adicione a água fervente, cubra e deixe hidratar por 5 minutos.",
+        "Aqueça o azeite e refogue cebola e alho.",
+        "Adicione cenoura e abobrinha e refogue por alguns minutos.",
+        "Junte uvas-passas e damasco.",
+        "Tempere com sal, pimenta e canela.",
+        "Adicione o cuscuz hidratado e misture bem.",
+        "Finalize com salsinha e cebolinha."
+      ]
+    }
+  ]
+}

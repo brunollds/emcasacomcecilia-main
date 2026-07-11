@@ -1,0 +1,211 @@
+{
+  "id": 70,
+  "slug": "coxinha-de-frango-com-massa-de-batata",
+  "title": "Coxinha de Frango com Massa de Batata",
+  "description": "Variação cremosa da coxinha tradicional, com massa de batata e recheio de frango.",
+  "intro": "A coxinha de frango com massa de batata é a evolução suprema do salgado mais amado do Brasil. A adição da batata cozida transforma a massa em algo extraordinariamente macio e úmido, que derrete na boca em harmonia com o frango desfiado e suculento, mantendo a tradicional casquinha dourada que todos amam.",
+  "context": "Esta variante é muito apreciada em padarias e lanchonetes de qualidade superior, pois a batata confere uma nobreza e uma profundidade de sabor que a massa cozida simples não alcança. É uma receita que exige cuidado no ponto da massa, resultando em um salgado gourmet que representa o carinho e o capricho da culinária artesanal brasileira.",
+  "image": "/images/recipes/salgados/coxinha-de-frango-com-massa-de-batata.jpg",
+  "imageAlt": "Coxinha de frango com massa de batata dourada e crocante.",
+  "categories": [
+    "Brasileira",
+    "Salgados",
+    "Frango",
+    "Petiscos"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Salgados Fritos"
+  ],
+  "mealTime": [
+    "Happy Hour"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fritura"
+  ],
+  "keyIngredients": [
+    "Frango",
+    "Batata"
+  ],
+  "collections": [
+    "Receita Clássica"
+  ],
+  "prepTime": "45 min",
+  "cookTime": "25 min",
+  "totalTime": "1h 10 min",
+  "difficulty": "Médio",
+  "yield": "20 unidades",
+  "searchTerms": [
+    "coxinha de frango",
+    "massa de batata",
+    "salgado brasileiro",
+    "frango desfiado",
+    "petisco"
+  ],
+  "tags": [
+    "coxinhadefrango",
+    "massadebatata",
+    "salgados",
+    "petisco",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "500 g de batatas cozidas e amassadas",
+        "1 xícara (chá) de leite",
+        "1 colher (sopa) de manteiga",
+        "1 cubo de caldo de galinha",
+        "Sal a gosto",
+        "Farinha de trigo até dar o ponto"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "1 peito de frango cozido e desfiado",
+        "1 cebola pequena picada",
+        "2 dentes de alho picados",
+        "1 colher (sopa) de azeite",
+        "Sal, pimenta-do-reino e salsinha a gosto"
+      ]
+    },
+    {
+      "section": "Para empanar",
+      "items": [
+        "1 ovo batido",
+        "Farinha de rosca",
+        "Óleo para fritar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Em uma panela, misture as batatas amassadas, o leite, a manteiga, o caldo e o sal.",
+    "Cozinhe em fogo baixo, mexendo sempre, até formar um purê cremoso.",
+    "Adicione farinha de trigo aos poucos até a massa desgrudar do fundo.",
+    "Deixe a massa esfriar.",
+    "Refogue cebola e alho no azeite, adicione o frango e tempere.",
+    "Abra porções da massa, recheie e modele no formato de coxinha.",
+    "Passe no ovo batido e na farinha de rosca.",
+    "Frite em óleo quente até dourar."
+  ],
+  "tips": [
+    "Adicione mais farinha se precisar de uma massa mais firme.",
+    "Requeijão, catupiry ou milho verde deixam o recheio mais cremoso.",
+    "Farinha panko ou fubá criam uma casquinha diferente."
+  ],
+  "servings": 20,
+  "servingsUnit": "unidades",
+  "prepMinutes": 45,
+  "cookMinutes": 25,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "batatas cozidas e amassadas"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de leite"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de manteiga"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cubo de caldo de galinha"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Farinha de trigo",
+          "note": "até dar o ponto"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "peito de frango cozido e desfiado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de azeite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino e salsinha",
+          "note": "a gosto"
+        }
+      ]
+    },
+    {
+      "section": "Para empanar",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo batido"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Farinha de rosca"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Óleo",
+          "note": "para fritar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Em uma panela, misture as batatas amassadas, o leite, a manteiga, o caldo e o sal.",
+        "Cozinhe em fogo baixo, mexendo sempre, até formar um purê cremoso.",
+        "Adicione farinha de trigo aos poucos até a massa desgrudar do fundo.",
+        "Deixe a massa esfriar.",
+        "Refogue cebola e alho no azeite, adicione o frango e tempere.",
+        "Abra porções da massa, recheie e modele no formato de coxinha.",
+        "Passe no ovo batido e na farinha de rosca.",
+        "Frite em óleo quente até dourar."
+      ]
+    }
+  ]
+}

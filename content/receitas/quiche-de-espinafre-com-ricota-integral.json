@@ -1,0 +1,200 @@
+{
+  "id": 123,
+  "slug": "quiche-de-espinafre-com-ricota-integral",
+  "title": "Quiche de Espinafre com Ricota na Massa Integral",
+  "description": "Leveza e nutrição em cada fatia: uma massa integral crocante recheada com um creme aveludado de ricota e o frescor do espinafre orgânico.",
+  "intro": "Esta quiche de espinafre com ricota é a síntese da leveza e do equilíbrio em cada fatia. A massa integral, rústica e crocante, acolhe um recheio de creme aveludado onde o verde vibrante do espinafre encontra a suavidade láctea da ricota fresca, criando um prato sofisticado e nutritivo que é perfeito para um almoço leve ou um jantar cheio de frescor.",
+  "context": "As quiches de base integral são as favoritas de quem busca aliar prazer gastronômico com saúde. Esta receita destaca o uso da noz-moscada para elevar o sabor da ricota, celebrando a versatilidade deste prato francês adaptado para ingredientes que valorizam o bem-estar e o sabor autêntico de uma cozinha mais natural e artesanal.",
+  "categories": [
+    "Quiches",
+    "Salgados",
+    "Vegetariana",
+    "Saudáveis"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Tortas Salgadas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Brunch",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Francesa"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "diet": [
+    "Vegetariana",
+    "Fit"
+  ],
+  "keyIngredients": [
+    "Queijo"
+  ],
+  "prepTime": "30 min",
+  "cookTime": "35 min",
+  "totalTime": "1 h 5 min",
+  "difficulty": "Médio",
+  "yield": "8 fatias",
+  "searchTerms": [
+    "quiche de espinafre",
+    "ricota",
+    "massa integral",
+    "almoço leve",
+    "quiche vegetariana",
+    "saudável"
+  ],
+  "tags": [
+    "quiche",
+    "espinafre",
+    "ricota",
+    "receitafacil",
+    "almoco",
+    "saudavel",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 xícara de farinha de trigo integral",
+        "1/2 xícara de farinha de trigo branca",
+        "100 g de manteiga gelada em cubos",
+        "3 colheres de sopa de água gelada",
+        "1 colher de chá de sal"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "1 maço de espinafre fresco picado",
+        "1 cebola pequena picada",
+        "2 dentes de alho picados",
+        "1 colher de sopa de azeite",
+        "300 g de ricota",
+        "3 ovos",
+        "1/2 xícara de leite",
+        "Sal, pimenta-do-reino e noz-moscada a gosto",
+        "Ervas frescas picadas a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture as farinhas e o sal, junte a manteiga e trabalhe com as pontas dos dedos até formar uma farofa grossa.",
+    "Adicione a água gelada aos poucos até formar uma massa homogênea, embrulhe e leve à geladeira por 30 minutos.",
+    "Refogue cebola e alho no azeite, adicione o espinafre e cozinhe até murchar.",
+    "Misture ricota, ovos, leite, sal, pimenta, noz-moscada e ervas frescas.",
+    "Abra a massa e forre uma forma de torta com fundo removível.",
+    "Espalhe o espinafre sobre a massa e cubra com a mistura de ricota.",
+    "Asse em forno preaquecido a 180°C por cerca de 30 minutos, até dourar e firmar."
+  ],
+  "tips": [
+    "Parmesão ralado deixa o recheio mais cremoso e saboroso.",
+    "Tomate, brócolis ou abobrinha combinam bem no recheio.",
+    "Sirva quente ou fria com salada verde."
+  ],
+  "servings": 8,
+  "servingsUnit": "fatias",
+  "prepMinutes": 30,
+  "cookMinutes": 35,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "farinha de trigo integral"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "farinha de trigo branca"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga gelada em cubos"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "colheres de sopa de água gelada"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de chá de sal"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "maço de espinafre fresco picado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 2,
+          "unit": "dentes",
+          "name": "alho picados"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de sopa de azeite"
+        },
+        {
+          "qty": 300,
+          "unit": "g",
+          "name": "ricota"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "leite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino e noz-moscada",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Ervas frescas picadas",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture as farinhas e o sal, junte a manteiga e trabalhe com as pontas dos dedos até formar uma farofa grossa.",
+        "Adicione a água gelada aos poucos até formar uma massa homogênea, embrulhe e leve à geladeira por 30 minutos.",
+        "Refogue cebola e alho no azeite, adicione o espinafre e cozinhe até murchar.",
+        "Misture ricota, ovos, leite, sal, pimenta, noz-moscada e ervas frescas.",
+        "Abra a massa e forre uma forma de torta com fundo removível.",
+        "Espalhe o espinafre sobre a massa e cubra com a mistura de ricota.",
+        "Asse em forno preaquecido a 180°C por cerca de 30 minutos, até dourar e firmar."
+      ]
+    }
+  ]
+}

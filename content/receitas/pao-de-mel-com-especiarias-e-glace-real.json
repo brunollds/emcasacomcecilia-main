@@ -1,0 +1,195 @@
+{
+  "id": 201,
+  "slug": "pao-de-mel-com-especiarias-e-glace-real",
+  "title": "Pão de Mel com Especiarias e Glacê Real",
+  "description": "Pão de mel aromático com mel, cacau, especiarias e cobertura de glacê real.",
+  "intro": "O pão de mel com especiarias é the materialização do perfume e do afeto em forma de bolo. Com uma massa densa e úmida enriquecida pelo mel puro e um blend potente de canela, cravo e gengibre, ele é finalizado com the elegância do glacê real, oferecendo uma experiênsia sensorial rica que aquece o paladar e encanta pela tradição artesanal.",
+  "context": "Herança das panificações europeias medievais, o pão de mel (Lebkuchen) é valorizado por sua durabilidade e profundidade aromática. Esta receita celebra the maestria no equilíbrio das especiarias e the técnica do acabamento delicado, provando que the confeitaria artesanal pode transformar ingredientes nobres em símbolos de hospitalidade e presentes inesquecíveis.",
+  "categories": [
+    "Doces",
+    "Páscoa",
+    "Bolos Caseiros",
+    "Especiarias"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Biscoitos & Cookies"
+  ],
+  "mealTime": [
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Natal",
+    "Festas de Fim de Ano",
+    "Receita Clássica"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "40 min",
+  "totalTime": "1 h 5 min",
+  "difficulty": "Médio",
+  "yield": "12 porções",
+  "searchTerms": [
+    "pão de mel",
+    "especiarias",
+    "glacê real",
+    "mel",
+    "Páscoa"
+  ],
+  "tags": [
+    "paodemel",
+    "especiarias",
+    "glacereal",
+    "pascoa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa e glacê",
+      "items": [
+        "1 xícara de mel",
+        "1/2 xícara de açúcar mascavo",
+        "100 g de manteiga sem sal",
+        "2 ovos",
+        "2 xícaras de farinha de trigo",
+        "1/2 xícara de chocolate em pó 50%",
+        "1 colher de chá de canela em pó",
+        "1/2 colher de chá de cravo em pó",
+        "1/2 colher de chá de gengibre em pó",
+        "1 pitada de noz-moscada ralada",
+        "1 colher de chá de bicarbonato de sódio",
+        "1/2 xícara de leite",
+        "1 xícara de açúcar de confeiteiro",
+        "1 clara de ovo",
+        "Suco de 1/2 limão"
+      ]
+    }
+  ],
+  "instructions": [
+    "Aqueça mel, açúcar mascavo e manteiga em fogo baixo até derreter.",
+    "Deixe amornar e adicione os ovos, um por vez.",
+    "Misture farinha, chocolate, especiarias e bicarbonato.",
+    "Incorpore os secos à mistura de mel, alternando com leite.",
+    "Despeje em forma untada e enfarinhada.",
+    "Asse a 180°C por cerca de 40 minutos.",
+    "Deixe esfriar e desenforme.",
+    "Misture açúcar de confeiteiro, clara e limão até obter glacê liso.",
+    "Cubra o pão de mel e decore como desejar."
+  ],
+  "tips": [
+    "Use mel de boa qualidade para sabor mais marcante.",
+    "Raspas de laranja combinam bem com as especiarias.",
+    "Embale em celofane para presentear."
+  ],
+  "servings": 12,
+  "servingsUnit": "porções",
+  "prepMinutes": 25,
+  "cookMinutes": 40,
+  "structuredIngredients": [
+    {
+      "section": "Massa e glacê",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "mel"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "açúcar mascavo"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga sem sal"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "chocolate em pó 50%"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "canela em pó"
+        },
+        {
+          "qty": 0.5,
+          "unit": "col. chá",
+          "name": "cravo em pó"
+        },
+        {
+          "qty": 0.5,
+          "unit": "col. chá",
+          "name": "gengibre em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "pitada",
+          "name": "noz-moscada ralada"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "bicarbonato de sódio"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "leite"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "açúcar de confeiteiro"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "clara de ovo"
+        },
+        {
+          "qty": 0.5,
+          "unit": "un.",
+          "name": "limões",
+          "note": "suco"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Aqueça mel, açúcar mascavo e manteiga em fogo baixo até derreter.",
+        "Deixe amornar e adicione os ovos, um por vez.",
+        "Misture farinha, chocolate, especiarias e bicarbonato.",
+        "Incorpore os secos à mistura de mel, alternando com leite.",
+        "Despeje em forma untada e enfarinhada.",
+        "Asse a 180°C por cerca de 40 minutos.",
+        "Deixe esfriar e desenforme.",
+        "Misture açúcar de confeiteiro, clara e limão até obter glacê liso.",
+        "Cubra o pão de mel e decore como desejar."
+      ]
+    }
+  ]
+}

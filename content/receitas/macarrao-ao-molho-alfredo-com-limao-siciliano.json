@@ -1,0 +1,149 @@
+{
+  "id": 106,
+  "slug": "macarrao-ao-molho-alfredo-com-limao-siciliano",
+  "title": "Macarrão ao Molho Alfredo com Limão Siciliano",
+  "description": "Fettuccine cremoso com manteiga, parmesão, creme de leite fresco e toque cítrico.",
+  "intro": "O macarrão ao molho Alfredo ganha uma roupagem moderna e refrescante com o toque cítrico do limão siciliano. A base clássica de manteiga, parmesão e creme de leite — famosa por sua cremosidade aveludada — é elevada pelo aroma vibrante do limão, criando um equilíbrio impecável que limpa o paladar e torna cada garfada surpreendentemente leve e sofisticada.",
+  "context": "Inspirado no clássico criado em Roma por Alfredo di Lelio, esta versão 'Siciliana' adiciona o frescor característico do sul da Itália. É a receita perfeita para quem busca um prato de 'luxo rápido', onde poucos ingredientes de alta qualidade, como o queijo parmesão envelhecido e o suco fresco da fruta, criam um molho digno de alta gastronomia em poucos minutos.",
+  "categories": [
+    "Massas",
+    "Italiana",
+    "Rápido",
+    "Jantar"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Massas"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Italiana"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "keyIngredients": [
+    "Macarrão",
+    "Limão"
+  ],
+  "collections": [
+    "Receitas em 30 min"
+  ],
+  "prepTime": "10 min",
+  "cookTime": "15 min",
+  "totalTime": "25 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "searchTerms": [
+    "macarrão alfredo",
+    "molho alfredo",
+    "limão siciliano",
+    "fettuccine",
+    "massa cremosa"
+  ],
+  "tags": [
+    "macarraoalfredo",
+    "molhoalfredo",
+    "limaosiciliano",
+    "massas",
+    "italiana",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Alfredo",
+      "items": [
+        "500 g de fettuccine",
+        "100 g de manteiga sem sal",
+        "1 xícara de queijo parmesão ralado",
+        "1/2 xícara de creme de leite fresco",
+        "Suco de 1 limão siciliano",
+        "Sal e pimenta-do-reino a gosto",
+        "Raspas de limão siciliano para finalizar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Cozinhe o fettuccine até ficar al dente.",
+    "Derreta a manteiga em fogo baixo.",
+    "Adicione parmesão e mexa até formar um creme.",
+    "Junte creme de leite e suco de limão siciliano.",
+    "Tempere com sal e pimenta.",
+    "Misture a massa cozida ao molho.",
+    "Finalize com raspas de limão."
+  ],
+  "tips": [
+    "Mais parmesão deixa o molho mais encorpado.",
+    "Alho picado dá um toque extra.",
+    "Sirva com salada fresca."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Alfredo",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "fettuccine"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga sem sal"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "queijo parmesão ralado"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "creme de leite fresco"
+        },
+        {
+          "qty": 1,
+          "unit": "un.",
+          "name": "limão siciliano",
+          "note": "suco"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal e pimenta-do-reino",
+          "note": "a gosto"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Raspas de limão siciliano",
+          "note": "para finalizar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Cozinhe o fettuccine até ficar al dente.",
+        "Derreta a manteiga em fogo baixo.",
+        "Adicione parmesão e mexa até formar um creme.",
+        "Junte creme de leite e suco de limão siciliano.",
+        "Tempere com sal e pimenta.",
+        "Misture a massa cozida ao molho.",
+        "Finalize com raspas de limão."
+      ]
+    }
+  ]
+}

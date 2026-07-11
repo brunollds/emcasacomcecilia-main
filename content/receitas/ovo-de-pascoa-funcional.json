@@ -1,0 +1,111 @@
+{
+  "id": 166,
+  "slug": "ovo-de-pascoa-funcional",
+  "title": "Ovo de Páscoa Funcional",
+  "description": "Ovo de Páscoa com chocolate 70%, pasta de amendoim natural, castanhas e frutas secas.",
+  "intro": "Este ovo de Páscoa funcional prova que the Páscoa pode ser intensamente deliciosa e nutritiva ao mesmo tempo. Com chocolate 70% cacau e um recheio rico de pasta de amendoim natural e castanhas, ele oferece antioxidantes e energia duradoura, sendo the escolha consciente para quem busca prazer e saúde em um formato icônico e artesanal.",
+  "context": "Focada na densidade nutricional, esta receita destaca the qualidade superior do cacau e the ausência de ingredientes ultraprocessados. É the celebração do 'mimo saudável', onde as gorduras boas das castanhas e o sabor profundo do chocolate amargo criam uma harmonia sofisticada que satisfaz o paladar mais exigente de forma equilibrada e elegante.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Chocolate",
+    "Saudáveis"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Docinhos"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "diet": [
+    "Fit"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "0 min",
+  "totalTime": "55 min",
+  "difficulty": "Fácil",
+  "yield": "2 metades recheadas",
+  "searchTerms": [
+    "ovo funcional",
+    "chocolate 70%",
+    "pasta de amendoim",
+    "Páscoa saudável",
+    "ovo vegano"
+  ],
+  "tags": [
+    "ovofuncional",
+    "pascoasaudavel",
+    "chocolate70",
+    "pastadeamendoim",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Ovo",
+      "items": [
+        "500 g de chocolate 70% cacau ou chocolate vegano",
+        "1/2 xícara de pasta de amendoim natural",
+        "1/2 xícara de castanhas ou frutas secas picadas"
+      ]
+    }
+  ],
+  "instructions": [
+    "Derreta o chocolate em banho-maria ou no micro-ondas.",
+    "Forre formas de ovo com uma camada fina de chocolate.",
+    "Leve à geladeira por 15 minutos para firmar.",
+    "Recheie cada metade com pasta de amendoim e castanhas ou frutas secas.",
+    "Feche o ovo juntando as metades e leve à geladeira até firmar completamente."
+  ],
+  "tips": [
+    "Pasta de amêndoas ou avelãs pode substituir a pasta de amendoim.",
+    "Canela ou cacau em pó dão um toque extra ao recheio.",
+    "Embale em papel celofane para presentear."
+  ],
+  "servings": 2,
+  "servingsUnit": "metades recheadas",
+  "prepMinutes": 25,
+  "structuredIngredients": [
+    {
+      "section": "Ovo",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "chocolate 70% cacau ou chocolate vegano"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "pasta de amendoim natural"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "castanhas ou frutas secas picadas"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Derreta o chocolate em banho-maria ou no micro-ondas.",
+        "Forre formas de ovo com uma camada fina de chocolate.",
+        "Leve à geladeira por 15 minutos para firmar.",
+        "Recheie cada metade com pasta de amendoim e castanhas ou frutas secas.",
+        "Feche o ovo juntando as metades e leve à geladeira até firmar completamente."
+      ]
+    }
+  ]
+}

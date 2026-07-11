@@ -1,0 +1,187 @@
+{
+  "id": 194,
+  "slug": "torta-de-ricota-com-frutas-vermelhas",
+  "title": "Torta de Ricota com Frutas Vermelhas",
+  "description": "Torta delicada com massa caseira, creme de ricota e geleia de frutas vermelhas.",
+  "intro": "A torta de ricota com frutas vermelhas é the expressão máxima da delicadeza e do equilíbrio cítrico. A suavidade láctea do creme de ricota fresco é elevada pelo brilho e the acidez vibrante da geleia caseira, criando uma sobremesa leve, sofisticada e visualmente encantadora que derrete na boca com frescor e elegância.",
+  "context": "Valorizando the herança das 'torte di ricotta' italianas, esta versão brasileira adiciona o colorido das bagas silvestres. A receita destaca the técnica de peneirar the ricota para garantir the textura aveludada, celebrando the harmonia entre the doçura do leite e the vivacidade da horta em um prato que é sinônimo de bem-estar e prazer gastronômico refinado.",
+  "categories": [
+    "Sobremesas",
+    "Tortas",
+    "Frutas",
+    "Ricota"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Tortas Doces"
+  ],
+  "cuisine": [
+    "Italiana"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Morango"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "30 min",
+  "totalTime": "1 h 5 min",
+  "difficulty": "Médio",
+  "yield": "10 fatias",
+  "searchTerms": [
+    "torta de ricota",
+    "frutas vermelhas",
+    "geleia",
+    "sobremesa leve"
+  ],
+  "tags": [
+    "tortadericota",
+    "frutasvermelhas",
+    "sobremesa",
+    "receitafacil",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "2 xícaras de farinha de trigo",
+        "1 colher de chá de fermento em pó",
+        "1 pitada de sal",
+        "1 xícara de açúcar",
+        "100 g de manteiga gelada em cubos",
+        "2 ovos",
+        "1/2 xícara de leite"
+      ]
+    },
+    {
+      "section": "Recheio e cobertura",
+      "items": [
+        "500 g de ricota fresca amassada",
+        "1 lata de leite condensado",
+        "1 caixa de creme de leite",
+        "1/2 xícara de frutas vermelhas picadas",
+        "1 xícara de frutas vermelhas para a geleia",
+        "1/2 xícara de açúcar",
+        "1/4 xícara de água"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture farinha, fermento, sal, açúcar e manteiga até formar farofa.",
+    "Adicione ovos e leite até formar massa homogênea.",
+    "Coloque em forma untada e enfarinhada.",
+    "Asse a 180°C por cerca de 30 minutos e deixe esfriar.",
+    "Misture ricota, leite condensado, creme de leite e frutas vermelhas picadas.",
+    "Cozinhe frutas vermelhas, açúcar e água até formar geleia.",
+    "Espalhe o creme de ricota sobre a massa fria.",
+    "Cubra com a geleia de frutas vermelhas."
+  ],
+  "tips": [
+    "Pré-asse a massa por 10 minutos se quiser textura mais crocante.",
+    "Use as frutas da estação para reduzir custo.",
+    "Raspas de limão ou laranja deixam o recheio mais fresco."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 35,
+  "cookMinutes": 30,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "fermento em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "pitada",
+          "name": "sal"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga gelada em cubos"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "leite"
+        }
+      ]
+    },
+    {
+      "section": "Recheio e cobertura",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "ricota fresca amassada"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "caixa",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "frutas vermelhas picadas"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "frutas vermelhas para a geleia"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "água"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture farinha, fermento, sal, açúcar e manteiga até formar farofa.",
+        "Adicione ovos e leite até formar massa homogênea.",
+        "Coloque em forma untada e enfarinhada.",
+        "Asse a 180°C por cerca de 30 minutos e deixe esfriar.",
+        "Misture ricota, leite condensado, creme de leite e frutas vermelhas picadas.",
+        "Cozinhe frutas vermelhas, açúcar e água até formar geleia.",
+        "Espalhe o creme de ricota sobre a massa fria.",
+        "Cubra com a geleia de frutas vermelhas."
+      ]
+    }
+  ]
+}

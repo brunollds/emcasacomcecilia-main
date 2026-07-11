@@ -1,0 +1,184 @@
+{
+  "id": 109,
+  "slug": "pizza-vegetariana-com-abobrinha-berinjela-e-pimentao",
+  "title": "Pizza Vegetariana com Abobrinha, Berinjela e Pimentão",
+  "description": "Pizza colorida com massa caseira, molho de tomate, legumes e mussarela.",
+  "intro": "A pizza vegetariana é uma ode ao frescor e à vitalidade dos vegetais sobre a massa artesanal. Com uma combinação equilibrada de abobrinha, berinjela, tomates e manjericão, ela prova que a ausência de carne pode resultar em um prato extremamente saboroso, colorido e leve, perfeito para um jantar equilibrado sem abrir mão do prazer de uma boa pizza.",
+  "context": "Valorizando a horta na mesa, esta receita destaca a técnica de fatiar e temperar os legumes para que mantenham sua textura e doçura natural sob o calor do forno. É a escolha moderna para quem busca leveza e saúde, celebrando a versatilidade dos ingredientes naturais que se fundem ao queijo derretido em uma experiência gastronômica consciente e deliciosa.",
+  "categories": [
+    "Massas",
+    "Pizza",
+    "Vegetariana",
+    "Jantar"
+  ],
+  "primaryCategory": "Lanche",
+  "subCategory": [
+    "Pizzas"
+  ],
+  "mealTime": [
+    "Jantar"
+  ],
+  "cuisine": [
+    "Italiana"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "keyIngredients": [
+    "Abobrinha",
+    "Berinjela"
+  ],
+  "prepTime": "1h20",
+  "cookTime": "20 min",
+  "totalTime": "1h40",
+  "difficulty": "Médio",
+  "yield": "1 pizza grande",
+  "searchTerms": [
+    "pizza vegetariana",
+    "abobrinha",
+    "berinjela",
+    "pimentão",
+    "pizza caseira",
+    "legumes"
+  ],
+  "tags": [
+    "pizzavegetariana",
+    "abobrinha",
+    "berinjela",
+    "pimentao",
+    "pizza",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 xícara de água morna",
+        "1 colher (sopa) de açúcar",
+        "1 colher (sopa) de fermento biológico seco",
+        "1/4 xícara de azeite",
+        "3 xícaras de farinha de trigo",
+        "1 colher (chá) de sal"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "1 xícara de molho de tomate",
+        "1 abobrinha média em rodelas finas",
+        "1 berinjela média em cubos pequenos",
+        "1 pimentão verde em tiras finas",
+        "200 g de queijo mussarela fatiado",
+        "Orégano fresco a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Prepare a massa e deixe crescer por 1 hora.",
+    "Pré-aqueça o forno a 200°C.",
+    "Abra a massa em disco.",
+    "Espalhe molho de tomate.",
+    "Cubra com abobrinha, berinjela, pimentão e mussarela.",
+    "Salpique orégano.",
+    "Asse por cerca de 20 minutos."
+  ],
+  "tips": [
+    "Grelhar a abobrinha antes evita excesso de água.",
+    "Cebola, tomate, milho ou azeitonas são boas variações.",
+    "Sirva com folhas frescas."
+  ],
+  "servings": 1,
+  "servingsUnit": "pizza grande",
+  "prepMinutes": 60,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "água morna"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de fermento biológico seco"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "azeite"
+        },
+        {
+          "qty": 3,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de sal"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "molho de tomate"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "abobrinha média em rodelas finas"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "berinjela média em cubos pequenos"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "pimentão verde em tiras finas"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "queijo mussarela fatiado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Orégano fresco",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Prepare a massa e deixe crescer por 1 hora.",
+        "Pré-aqueça o forno a 200°C.",
+        "Abra a massa em disco.",
+        "Espalhe molho de tomate.",
+        "Cubra com abobrinha, berinjela, pimentão e mussarela.",
+        "Salpique orégano.",
+        "Asse por cerca de 20 minutos."
+      ]
+    }
+  ]
+}

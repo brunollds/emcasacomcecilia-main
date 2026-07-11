@@ -1,0 +1,117 @@
+{
+  "id": 165,
+  "slug": "ovo-de-colher-com-recheio-de-pacoca",
+  "title": "Ovo de Colher com Recheio de Paçoca",
+  "description": "Ovo de Páscoa de colher com casca de chocolate e recheio cremoso de paçoca com leite condensado.",
+  "intro": "O ovo de colher recheado com paçoca é the união irresistível entre the tradição do chocolate de Páscoa e o sabor rústico do amendoim brasileiro. Com uma casca crocante que esconde um creme aveludado e intenso, esta sobremesa é the definição de indulgência festiva que celebra the brasilidade em cada colherada densa e cheia de memória afetiva.",
+  "context": "Fenômeno da Páscoa contemporânea no Brasil, o ovo de colher valoriza the técnica de recheios cremosos de alta qualidade. A combinação do chocolate com o amendoim é um clássico que remete às festas populares, celebrando the hospitalidade e the criatividade nacional em transformar o chocolate em uma experiênsia interativa e luxuosa para compartilhar.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Chocolate",
+    "Doces"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Docinhos"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "0 min",
+  "totalTime": "1 h 5 min",
+  "difficulty": "Médio",
+  "yield": "2 metades recheadas",
+  "searchTerms": [
+    "ovo de colher",
+    "paçoca",
+    "ovo de Páscoa",
+    "amendoim",
+    "chocolate"
+  ],
+  "tags": [
+    "ovodecolher",
+    "pacoca",
+    "pascoacriativa",
+    "chocolate",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Ovo",
+      "items": [
+        "500 g de chocolate meio amargo ou ao leite",
+        "1 lata de leite condensado",
+        "200 g de amendoim torrado e moído ou paçoca pronta",
+        "Confeitos coloridos ou mini coelhos de chocolate para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Derreta o chocolate em banho-maria ou no micro-ondas.",
+    "Forre formas de ovo com uma camada fina de chocolate.",
+    "Leve à geladeira por 15 minutos para firmar.",
+    "Misture leite condensado e amendoim moído até formar creme de paçoca.",
+    "Recheie as metades com o creme.",
+    "Decore com confeitos, paçoca esfarelada ou mini coelhos."
+  ],
+  "tips": [
+    "Brigadeiro gourmet ou doce de leite podem substituir a paçoca.",
+    "Uma camada fina de ganache entre casca e recheio deixa mais sofisticado.",
+    "Embale em caixas decorativas para presentear."
+  ],
+  "servings": 2,
+  "servingsUnit": "metades recheadas",
+  "prepMinutes": 35,
+  "structuredIngredients": [
+    {
+      "section": "Ovo",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "chocolate meio amargo ou ao leite"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "amendoim torrado e moído ou paçoca pronta"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Confeitos coloridos ou mini coelhos de chocolate",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Derreta o chocolate em banho-maria ou no micro-ondas.",
+        "Forre formas de ovo com uma camada fina de chocolate.",
+        "Leve à geladeira por 15 minutos para firmar.",
+        "Misture leite condensado e amendoim moído até formar creme de paçoca.",
+        "Recheie as metades com o creme.",
+        "Decore com confeitos, paçoca esfarelada ou mini coelhos."
+      ]
+    }
+  ]
+}

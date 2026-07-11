@@ -1,0 +1,123 @@
+{
+  "id": 134,
+  "slug": "mousse-de-limao-com-raspas-de-limao",
+  "title": "Mousse de Limão com Raspas de Limão",
+  "description": "Mousse refrescante com leite condensado, creme de leite, suco de limão, gelatina e raspas cítricas.",
+  "intro": "A mousse de limão é o frescor instantâneo que ilumina qualquer refeição. Com sua textura sedosa e o equilíbrio impecável entre the doçura do leite condensado e the acidez cítrica do suco natural, esta sobremesa é the escolha refrescante e prática que agrada a todos, finalizada com raspas frescas que perfumam cada colherada.",
+  "context": "Praticidade e frescor são as palavras-chave desta receita que se tornou um clássico das casas brasileiras. O uso da gelatina garante the estrutura perfeita para servir em taças elegantes, enquanto the técnica de bater no liquidificador agiliza o preparo sem perder the qualidade, celebrando the versatilidade do limão em uma sobremesa que é the cara do bem-estar.",
+  "categories": [
+    "Sobremesas",
+    "Mousses",
+    "Frutas",
+    "Doces Gelados"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Mousses"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Limão",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Receita Clássica"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "0 min",
+  "totalTime": "4 h 15 min",
+  "difficulty": "Fácil",
+  "yield": "6 porções",
+  "searchTerms": [
+    "mousse de limão",
+    "raspas de limão",
+    "gelatina incolor",
+    "sobremesa refrescante",
+    "limão"
+  ],
+  "tags": [
+    "moussedelimao",
+    "limao",
+    "sobremesa",
+    "refrescante",
+    "azedinha",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Mousse",
+      "items": [
+        "1 lata de leite condensado",
+        "1 lata de creme de leite",
+        "1/2 xícara de suco de limão",
+        "Raspas de 1 limão",
+        "1 envelope de gelatina incolor sem sabor"
+      ]
+    }
+  ],
+  "instructions": [
+    "Prepare a gelatina conforme as instruções da embalagem.",
+    "Bata no liquidificador o leite condensado, o creme de leite, o suco de limão e a gelatina dissolvida.",
+    "Distribua em taças ou em um refratário.",
+    "Leve à geladeira por pelo menos 4 horas.",
+    "Finalize com raspas de limão antes de servir."
+  ],
+  "tips": [
+    "Uma clara em neve deixa a mousse mais aerada.",
+    "Limão siciliano intensifica o aroma.",
+    "Biscoitos, frutas frescas ou chantilly funcionam bem na decoração."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Mousse",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "suco de limão"
+        },
+        {
+          "qty": 1,
+          "unit": "un.",
+          "name": "limão",
+          "note": "raspas"
+        },
+        {
+          "qty": 1,
+          "unit": "envelope",
+          "name": "gelatina incolor sem sabor"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Prepare a gelatina conforme as instruções da embalagem.",
+        "Bata no liquidificador o leite condensado, o creme de leite, o suco de limão e a gelatina dissolvida.",
+        "Distribua em taças ou em um refratário.",
+        "Leve à geladeira por pelo menos 4 horas.",
+        "Finalize com raspas de limão antes de servir."
+      ]
+    }
+  ]
+}

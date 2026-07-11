@@ -1,0 +1,144 @@
+{
+  "id": 175,
+  "slug": "eclairs-de-pascoa-recheados-com-creme-de-avela-e-ganache",
+  "title": "Eclairs de Páscoa Recheados com Creme de Avelã e Ganache",
+  "description": "Eclairs de massa choux recheados com creme de avelã, cobertos com ganache de chocolate e confeitos de Páscoa.",
+  "intro": "As eclairs de Páscoa são theosamente com creme de avelã aveludado e finalizada com uma ganache brilhante, estas 'bombas' gourmet são o destaque absoluto para quem busca uma sobremesa refinada e cheia de sabor.",
+  "context": "Um clássico da patisserie francesa, the eclair exige técnica no cozimento da massa para garantir the leveza interna. Esta versão temática valoriza the combinação luxuosa do chocolate com avelãs, celebrando the Páscoa com um toque de alta confeitaria que encanta tanto pelo visual sofisticado quanto pela harmonia de texturas e sabores intensos.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Sobremesas",
+    "Francesa"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Tortas Doces"
+  ],
+  "cuisine": [
+    "Francesa"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "25 min",
+  "totalTime": "1 h",
+  "difficulty": "Médio",
+  "yield": "10 unidades",
+  "searchTerms": [
+    "eclairs de Páscoa",
+    "creme de avelã",
+    "ganache",
+    "massa choux",
+    "sobremesa francesa"
+  ],
+  "tags": [
+    "eclairsdepascoa",
+    "cremedeavela",
+    "ganache",
+    "receitafrancesa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa, recheio e cobertura",
+      "items": [
+        "1 xícara de água",
+        "100 g de manteiga",
+        "1 xícara de farinha de trigo",
+        "4 ovos",
+        "200 g de creme de avelã",
+        "100 g de chocolate meio amargo",
+        "1/4 xícara de creme de leite",
+        "Confeitos temáticos para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Aqueça água com manteiga até ferver.",
+    "Adicione a farinha e mexa até a massa desgrudar da panela.",
+    "Retire do fogo e incorpore os ovos um a um até a massa ficar brilhante.",
+    "Modele os eclairs e asse a 200°C por 20 a 25 minutos.",
+    "Depois de frios, corte e recheie com creme de avelã.",
+    "Derreta chocolate com creme de leite e cubra os eclairs.",
+    "Finalize com confeitos temáticos."
+  ],
+  "tips": [
+    "Use ovos em temperatura ambiente para uma massa mais leve.",
+    "Misture pasta de avelã ao recheio para sabor mais intenso.",
+    "Decore só depois que a ganache perder o excesso de calor."
+  ],
+  "servings": 10,
+  "servingsUnit": "unidades",
+  "prepMinutes": 35,
+  "cookMinutes": 25,
+  "structuredIngredients": [
+    {
+      "section": "Massa, recheio e cobertura",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "água"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "creme de avelã"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "chocolate meio amargo"
+        },
+        {
+          "qty": 0.25,
+          "unit": "xíc.",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Confeitos temáticos",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Aqueça água com manteiga até ferver.",
+        "Adicione a farinha e mexa até a massa desgrudar da panela.",
+        "Retire do fogo e incorpore os ovos um a um até a massa ficar brilhante.",
+        "Modele os eclairs e asse a 200°C por 20 a 25 minutos.",
+        "Depois de frios, corte e recheie com creme de avelã.",
+        "Derreta chocolate com creme de leite e cubra os eclairs.",
+        "Finalize com confeitos temáticos."
+      ]
+    }
+  ]
+}

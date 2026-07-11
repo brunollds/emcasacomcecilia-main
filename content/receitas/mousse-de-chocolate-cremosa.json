@@ -1,0 +1,119 @@
+{
+  "id": 133,
+  "slug": "mousse-de-chocolate-cremosa",
+  "title": "Mousse de Chocolate Cremosa",
+  "description": "Mousse clássica com chocolate meio amargo, creme de leite e claras em neve.",
+  "intro": "A mousse de chocolate é the síntese da elegância em forma de nuvem. Feita com chocolate meio amargo de alta qualidade e claras em neve batidas com precisão, ela oferece uma textura aerada e um sabor profundo que derrete na boca, sendo the sobremesa clássica por excelência para quem busca uma experiência intensa e sofisticada.",
+  "context": "Um ícone da gastronomia francesa ('mousse' significa espuma), esta sobremesa destaca a importância da técnica de incorporação delicada para preservar as bolhas de ar. É uma receita que celebra the pureza do cacau, provando que com poucos ingredientes e maestria no manuseio, é possível criar um doce de textura inigualável que é sinônimo de requinte mundial.",
+  "categories": [
+    "Sobremesas",
+    "Mousses",
+    "Chocolate",
+    "Doces Gelados"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Mousses"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate"
+  ],
+  "collections": [
+    "Comfort Food",
+    "Para Dois",
+    "Receita Clássica"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "5 min",
+  "totalTime": "4 h 25 min",
+  "difficulty": "Fácil",
+  "yield": "6 porções",
+  "searchTerms": [
+    "mousse de chocolate",
+    "chocolate meio amargo",
+    "claras em neve",
+    "sobremesa cremosa",
+    "mousse"
+  ],
+  "tags": [
+    "moussedechocolate",
+    "chocolate",
+    "sobremesa",
+    "classica",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Mousse",
+      "items": [
+        "200 g de chocolate meio amargo picado",
+        "1 lata de creme de leite",
+        "3 claras em neve",
+        "1/2 xícara de açúcar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Derreta o chocolate em banho-maria ou no micro-ondas.",
+    "Misture o chocolate derretido com o creme de leite até ficar homogêneo.",
+    "Bata as claras em neve com o açúcar até formar picos firmes.",
+    "Incorpore as claras ao creme de chocolate delicadamente.",
+    "Distribua em taças ou em um refratário.",
+    "Leve à geladeira por pelo menos 4 horas antes de servir."
+  ],
+  "tips": [
+    "Use chocolate de boa qualidade para sabor mais intenso.",
+    "Ajuste o açúcar se quiser uma mousse mais doce.",
+    "Decore com raspas de chocolate, frutas ou chantilly."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 20,
+  "cookMinutes": 5,
+  "structuredIngredients": [
+    {
+      "section": "Mousse",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "chocolate meio amargo picado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "claras em neve"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "açúcar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Derreta o chocolate em banho-maria ou no micro-ondas.",
+        "Misture o chocolate derretido com o creme de leite até ficar homogêneo.",
+        "Bata as claras em neve com o açúcar até formar picos firmes.",
+        "Incorpore as claras ao creme de chocolate delicadamente.",
+        "Distribua em taças ou em um refratário.",
+        "Leve à geladeira por pelo menos 4 horas antes de servir."
+      ]
+    }
+  ]
+}

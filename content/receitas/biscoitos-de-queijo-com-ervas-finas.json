@@ -1,0 +1,137 @@
+{
+  "id": 180,
+  "slug": "biscoitos-de-queijo-com-ervas-finas",
+  "title": "Biscoitos de Queijo com Ervas Finas",
+  "description": "Petisco crocante e amanteigado com parmesão, orégano e alecrim para happy hour.",
+  "intro": "Estes biscoitos de queijo são o petisco crocante e amanteigado que rouba the cena em qualquer happy hour. Com the potência do parmesão e o perfume das ervas finas, cada unidade oferece um 'crac' sonoro e um sabor intenso que harmoniza perfeitamente com vinhos, cervejas artesanais ou apenas como um mimo salgado e sofisticado para the Páscoa.",
+  "context": "Inspirados na tradição mineira e francesa de biscoitos salgados, estas unidades valorizam the qualidade da manteiga e o tempo de forno para garantir the textura que desmancha na boca. A adição do alecrim e do orégano seco desperta notas mediterrâneas, celebrando the hospitalidade através de petiscos artesanais feitos com carinho e precisão.",
+  "categories": [
+    "Petiscos",
+    "Salgados",
+    "Happy Hour",
+    "Queijo"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Petiscos Quentes"
+  ],
+  "mealTime": [
+    "Happy Hour",
+    "Lanche da Tarde"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "diet": [
+    "Vegetariana"
+  ],
+  "keyIngredients": [
+    "Queijo"
+  ],
+  "collections": [
+    "Preparar com Antecedência"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "20 min",
+  "totalTime": "40 min",
+  "difficulty": "Fácil",
+  "yield": "30 unidades",
+  "searchTerms": [
+    "biscoitos de queijo",
+    "ervas finas",
+    "parmesão",
+    "happy hour",
+    "petisco crocante"
+  ],
+  "tags": [
+    "biscoitosdequeijo",
+    "ervasfinas",
+    "petiscos",
+    "happyhour",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "200 g de manteiga sem sal em temperatura ambiente",
+        "1 xícara de queijo parmesão ralado",
+        "2 xícaras de farinha de trigo",
+        "1 colher de chá de sal",
+        "1 colher de chá de orégano seco",
+        "1 colher de chá de alecrim seco"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bata a manteiga com o parmesão até formar um creme homogêneo.",
+    "Adicione a farinha aos poucos e misture até a massa desgrudar das mãos.",
+    "Incorpore sal, orégano e alecrim.",
+    "Abra a massa em superfície enfarinhada até 0,5 cm de espessura.",
+    "Corte em quadrados, círculos ou palitos.",
+    "Disponha em assadeira untada e enfarinhada.",
+    "Asse a 180°C por 15 a 20 minutos, até dourar.",
+    "Deixe esfriar em grade antes de servir."
+  ],
+  "tips": [
+    "Adicione 1 colher de sopa de amido de milho para biscoitos mais crocantes.",
+    "Troque parte do parmesão por cheddar ou provolone para variar o sabor.",
+    "Sirva com patês, geleias ou molhos de sua preferência."
+  ],
+  "servings": 30,
+  "servingsUnit": "unidades",
+  "prepMinutes": 20,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "manteiga sem sal em temperatura ambiente"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "queijo parmesão ralado"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "sal"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "orégano seco"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "alecrim seco"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Bata a manteiga com o parmesão até formar um creme homogêneo.",
+        "Adicione a farinha aos poucos e misture até a massa desgrudar das mãos.",
+        "Incorpore sal, orégano e alecrim.",
+        "Abra a massa em superfície enfarinhada até 0,5 cm de espessura.",
+        "Corte em quadrados, círculos ou palitos.",
+        "Disponha em assadeira untada e enfarinhada.",
+        "Asse a 180°C por 15 a 20 minutos, até dourar.",
+        "Deixe esfriar em grade antes de servir."
+      ]
+    }
+  ]
+}

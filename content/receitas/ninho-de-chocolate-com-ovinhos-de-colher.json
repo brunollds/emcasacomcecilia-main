@@ -1,0 +1,139 @@
+{
+  "id": 154,
+  "slug": "ninho-de-chocolate-com-ovinhos-de-colher",
+  "title": "Ninho de Chocolate com Ovinhos de Colher",
+  "description": "Sobremesa lúdica de Páscoa com ninho de chocolate e biscoito, ovinhos recheados com brigadeiro cremoso e confeitos.",
+  "intro": "Este ninho de chocolate com ovinhos de colher é uma obra-prima lúdica que traz toda the magia da Páscoa para the sua mesa. Com uma base crocante que imita um ninho real e pequenos ovos recheados com brigadeiro aveludado, esta sobremesa é visualmente encantadora e promete ser o destaque absoluto das celebrações em família.",
+  "context": "A confeitaria temática de Páscoa celebra the renovação e the alegria através do chocolate. Esta receita destaca the técnica de modelagem e recheio de precisão, transformando ingredientes clássicos em uma apresentação criativa que celebra the ludicidade e the hospitalidade brasileira em momentos festivos e inesquecíveis.",
+  "categories": [
+    "Sazonais",
+    "Páscoa",
+    "Chocolate",
+    "Sobremesas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Docinhos"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Chocolate",
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "40 min",
+  "cookTime": "10 min",
+  "totalTime": "1 h 25 min",
+  "difficulty": "Médio",
+  "yield": "6 unidades",
+  "searchTerms": [
+    "ninho de chocolate",
+    "ovinhos de colher",
+    "Páscoa",
+    "brigadeiro",
+    "sobremesa criativa"
+  ],
+  "tags": [
+    "pascoacriativa",
+    "ninhodechocolate",
+    "ovosdecolher",
+    "sobremesa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Ninho e ovinhos",
+      "items": [
+        "200 g de chocolate meio amargo ou ao leite",
+        "1 pacote de biscoito maisena",
+        "1 lata de leite condensado",
+        "1 colher de sopa de manteiga",
+        "1 caixa de creme de leite",
+        "Forminhas de acetato ou silicone em formato de ovo pequeno",
+        "Confeitos coloridos ou mini coelhos de chocolate para decorar"
+      ]
+    }
+  ],
+  "instructions": [
+    "Triture os biscoitos até obter uma farofa fina.",
+    "Derreta parte do chocolate e misture aos biscoitos para formar uma massa.",
+    "Modele os ninhos e leve à geladeira por 15 minutos.",
+    "Cozinhe leite condensado, manteiga e creme de leite até formar brigadeiro cremoso.",
+    "Use o restante do chocolate para forrar as forminhas de ovo.",
+    "Recheie os ovinhos com brigadeiro e leve à geladeira por 30 minutos.",
+    "Desenforme os ovinhos, coloque sobre os ninhos e decore."
+  ],
+  "tips": [
+    "Doce de leite, ganache de maracujá ou frutas vermelhas podem variar o recheio.",
+    "Brigadeiro pronto acelera a montagem.",
+    "Também funciona como lembrancinha em embalagem transparente."
+  ],
+  "servings": 6,
+  "servingsUnit": "unidades",
+  "prepMinutes": 40,
+  "cookMinutes": 10,
+  "structuredIngredients": [
+    {
+      "section": "Ninho e ovinhos",
+      "items": [
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "chocolate meio amargo ou ao leite"
+        },
+        {
+          "qty": 1,
+          "unit": "pacote",
+          "name": "biscoito maisena"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher de sopa de manteiga"
+        },
+        {
+          "qty": 1,
+          "unit": "caixa",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Forminhas de acetato ou silicone em formato de ovo pequeno"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Confeitos coloridos ou mini coelhos de chocolate",
+          "note": "para decorar"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Triture os biscoitos até obter uma farofa fina.",
+        "Derreta parte do chocolate e misture aos biscoitos para formar uma massa.",
+        "Modele os ninhos e leve à geladeira por 15 minutos.",
+        "Cozinhe leite condensado, manteiga e creme de leite até formar brigadeiro cremoso.",
+        "Use o restante do chocolate para forrar as forminhas de ovo.",
+        "Recheie os ovinhos com brigadeiro e leve à geladeira por 30 minutos.",
+        "Desenforme os ovinhos, coloque sobre os ninhos e decore."
+      ]
+    }
+  ]
+}

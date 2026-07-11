@@ -1,0 +1,103 @@
+{
+  "id": 141,
+  "slug": "sorvete-caseiro-de-morango",
+  "title": "Sorvete Caseiro de Morango",
+  "description": "Sorvete caseiro simples e cremoso com morangos frescos, leite condensado e creme de leite.",
+  "intro": "Nada supera the leveza e the pureza de um sorvete caseiro feito com frutas de verdade. Esta receita de morango combina the doçura do leite condensado com the acidez refrescante dos morangos frescos, resultando em uma sobremesa gelada e cremosa que é the definição de um verão ensolarado e cheio de sabor.",
+  "context": "Diferente das versões industrializadas, o sorvete artesanal celebra the integridade dos ingredientes. O segredo desta receita está no frescor absoluto dos morangos e no tempo de congelamento, provando que com apenas três ingredientes básicos é possível criar uma sobremesa de prestígio que agrada a todas as idades com sua honestidade e cor vibrante.",
+  "categories": [
+    "Sobremesas",
+    "Sorvetes",
+    "Frutas",
+    "Doces Gelados"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Gelados"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Morango"
+  ],
+  "collections": [
+    "Verão",
+    "Para Congelar"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "0 min",
+  "totalTime": "4 h 15 min",
+  "difficulty": "Fácil",
+  "yield": "6 porções",
+  "searchTerms": [
+    "sorvete de morango",
+    "sorvete caseiro",
+    "morango fresco",
+    "sobremesa gelada"
+  ],
+  "tags": [
+    "sorvetecaseiro",
+    "morango",
+    "sobremesa",
+    "verao",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Sorvete",
+      "items": [
+        "1 caixa de morangos frescos",
+        "1 lata de leite condensado",
+        "1 lata de creme de leite"
+      ]
+    }
+  ],
+  "instructions": [
+    "Lave e pique os morangos.",
+    "Bata morangos, leite condensado e creme de leite no liquidificador.",
+    "Despeje em um recipiente e leve ao freezer por pelo menos 4 horas.",
+    "Retire alguns minutos antes de servir para facilitar o corte."
+  ],
+  "tips": [
+    "Bater o creme na batedeira antes de congelar melhora a cremosidade.",
+    "Raspas de limão, suco de laranja ou chocolate picado combinam bem.",
+    "Sirva com frutas frescas, calda ou chantilly."
+  ],
+  "servings": 6,
+  "servingsUnit": "porções",
+  "prepMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Sorvete",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "caixa",
+          "name": "morangos frescos"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "creme de leite"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Lave e pique os morangos.",
+        "Bata morangos, leite condensado e creme de leite no liquidificador.",
+        "Despeje em um recipiente e leve ao freezer por pelo menos 4 horas.",
+        "Retire alguns minutos antes de servir para facilitar o corte."
+      ]
+    }
+  ]
+}

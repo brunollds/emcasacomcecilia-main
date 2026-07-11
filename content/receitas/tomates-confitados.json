@@ -1,0 +1,117 @@
+{
+  "id": 88,
+  "slug": "tomates-confitados",
+  "title": "Tomates Confitados",
+  "description": "Tomates cereja assados com azeite e temperos para usar em saladas, massas e bruschettas.",
+  "intro": "Os tomates confitados são pequenas joias de sabor concentrado. O processo de cozimento lento em azeite transforma simples tomates cereja em explosões de doçura e aroma, criando um ingrediente coringa que eleva de bruschettas a massas com um toque de elegância artesanal.",
+  "context": "Derivado da técnica francesa de conservação 'confit', este preparo utiliza o tempo e a temperatura baixa como temperos principais. É uma receita que valoriza a paciência, resultando em tomates macios e imersos em um azeite intensamente perfumado, perfeito para quem busca sofisticação em detalhes simples na cozinha.",
+  "categories": [
+    "Acompanhamentos",
+    "Conservas",
+    "Vegetariana"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Petiscos Frios"
+  ],
+  "mealTime": [
+    "Happy Hour"
+  ],
+  "cuisine": [
+    "Mediterrânea"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "diet": [
+    "Vegana",
+    "Sem Lactose"
+  ],
+  "keyIngredients": [
+    "Tomate"
+  ],
+  "collections": [
+    "Preparar com Antecedência"
+  ],
+  "prepTime": "5 min",
+  "cookTime": "15 min",
+  "totalTime": "20 min",
+  "difficulty": "Fácil",
+  "yield": "1 pote médio",
+  "searchTerms": [
+    "tomates confitados",
+    "tomate cereja",
+    "azeite",
+    "conserva",
+    "bruschetta"
+  ],
+  "tags": [
+    "tomatesconfitados",
+    "receitacoringa",
+    "conservagourmet",
+    "acompanhamento",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Tomates",
+      "items": [
+        "500 g de tomates cereja",
+        "1/2 xícara de azeite extravirgem",
+        "2 colheres (chá) de tempero completo"
+      ]
+    }
+  ],
+  "instructions": [
+    "Pré-aqueça o forno a 200°C.",
+    "Corte os tomates cereja ao meio.",
+    "Espalhe em uma assadeira.",
+    "Regue com azeite.",
+    "Polvilhe o tempero completo.",
+    "Asse por cerca de 15 minutos, até murcharem levemente."
+  ],
+  "tips": [
+    "Tomilho fresco deixa o sabor mais aromático.",
+    "Uma pitada de pimenta calabresa cria uma versão picante.",
+    "Guarde em pote esterilizado, completamente coberto com azeite."
+  ],
+  "servings": 1,
+  "servingsUnit": "pote médio",
+  "prepMinutes": 5,
+  "cookMinutes": 15,
+  "structuredIngredients": [
+    {
+      "section": "Tomates",
+      "items": [
+        {
+          "qty": 500,
+          "unit": "g",
+          "name": "tomates cereja"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "azeite extravirgem"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres (chá) de tempero completo"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Pré-aqueça o forno a 200°C.",
+        "Corte os tomates cereja ao meio.",
+        "Espalhe em uma assadeira.",
+        "Regue com azeite.",
+        "Polvilhe o tempero completo.",
+        "Asse por cerca de 15 minutos, até murcharem levemente."
+      ]
+    }
+  ]
+}

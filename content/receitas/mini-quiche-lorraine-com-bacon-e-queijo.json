@@ -1,0 +1,175 @@
+{
+  "id": 74,
+  "slug": "mini-quiche-lorraine-com-bacon-e-queijo",
+  "title": "Mini Quiche Lorraine com Bacon e Queijo",
+  "description": "Quiche Lorraine em porções individuais, com bacon, creme de ovos e queijo Gruyère.",
+  "intro": "As mini quiches de bacon e queijo são a elegância francesa em formato individual. A base amanteigada e crocante acolhe um recheio de creme aveludado onde o salgado do bacon encontra o sabor marcante do queijo Gruyère, resultando em um aperitivo sofisticado que derrete na boca e encanta em qualquer recepção.",
+  "context": "Inspirada na clássica Quiche Lorraine, esta versão mini adapta a sofisticação da região da Lorena para o formato de petisco. É uma receita que valoriza o equilíbrio entre texturas e sabores, provando que a alta gastronomia pode ser traduzida em pequenas mordidas de puro conforto e prazer sensorial.",
+  "categories": [
+    "Francesa",
+    "Salgados",
+    "Tortas",
+    "Petiscos"
+  ],
+  "primaryCategory": "Petisco",
+  "subCategory": [
+    "Petiscos Quentes"
+  ],
+  "mealTime": [
+    "Happy Hour",
+    "Brunch"
+  ],
+  "cuisine": [
+    "Francesa"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "keyIngredients": [
+    "Queijo",
+    "Ovos"
+  ],
+  "collections": [
+    "Para Congelar"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "20 min",
+  "totalTime": "55 min",
+  "difficulty": "Médio",
+  "yield": "8 mini quiches",
+  "searchTerms": [
+    "mini quiche",
+    "quiche lorraine",
+    "bacon",
+    "gruyère",
+    "brunch",
+    "petisco"
+  ],
+  "tags": [
+    "miniquiche",
+    "quichelorraine",
+    "bacon",
+    "queijo",
+    "francesa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 xícara (chá) de farinha de trigo",
+        "100 g de manteiga gelada em cubos",
+        "1 ovo",
+        "1 pitada de sal"
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        "100 g de bacon em cubos",
+        "1 cebola pequena picada",
+        "2 ovos",
+        "1/2 xícara (chá) de creme de leite fresco",
+        "1/2 xícara (chá) de queijo Gruyère ralado",
+        "Sal, pimenta-do-reino e noz-moscada a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Misture farinha e sal, adicione a manteiga e faça uma farofa grossa.",
+    "Adicione o ovo e misture até formar uma massa homogênea.",
+    "Embrulhe e leve à geladeira por 30 minutos.",
+    "Frite o bacon até dourar e refogue a cebola na gordura.",
+    "Bata ovos com creme de leite e tempere com sal, pimenta e noz-moscada.",
+    "Abra a massa e forre forminhas de muffin ou empada.",
+    "Distribua bacon e cebola, cubra com o creme e finalize com queijo.",
+    "Asse a 180°C por cerca de 20 minutos, até dourar e firmar."
+  ],
+  "tips": [
+    "Se não tiver Gruyère, use Emmental, mussarela ou outro queijo que derreta bem.",
+    "Espinafre, tomate ou cogumelos funcionam como variações de recheio.",
+    "Sirva quente ou fria com salada verde."
+  ],
+  "servings": 8,
+  "servingsUnit": "mini quiches",
+  "prepMinutes": 35,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de farinha de trigo"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "manteiga gelada em cubos"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "ovo"
+        },
+        {
+          "qty": 1,
+          "unit": "pitada",
+          "name": "sal"
+        }
+      ]
+    },
+    {
+      "section": "Recheio",
+      "items": [
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "bacon em cubos"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "cebola pequena picada"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de creme de leite fresco"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "(chá) de queijo Gruyère ralado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal, pimenta-do-reino e noz-moscada",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Misture farinha e sal, adicione a manteiga e faça uma farofa grossa.",
+        "Adicione o ovo e misture até formar uma massa homogênea.",
+        "Embrulhe e leve à geladeira por 30 minutos.",
+        "Frite o bacon até dourar e refogue a cebola na gordura.",
+        "Bata ovos com creme de leite e tempere com sal, pimenta e noz-moscada.",
+        "Abra a massa e forre forminhas de muffin ou empada.",
+        "Distribua bacon e cebola, cubra com o creme e finalize com queijo.",
+        "Asse a 180°C por cerca de 20 minutos, até dourar e firmar."
+      ]
+    }
+  ]
+}

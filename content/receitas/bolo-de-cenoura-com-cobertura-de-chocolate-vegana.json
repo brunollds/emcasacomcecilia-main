@@ -1,0 +1,178 @@
+{
+  "id": 205,
+  "slug": "bolo-de-cenoura-com-cobertura-de-chocolate-vegana",
+  "title": "Bolo de Cenoura com Cobertura de Chocolate Vegana",
+  "description": "Bolo de cenoura sem ingredientes de origem animal com cobertura cremosa de chocolate vegano.",
+  "intro": "O bolo de cenoura com cobertura vegana prova que the tradição brasileira pode ser plenamente saboreada com consciência e saúde. Com the massa úmida e vibrante que todos amam, elevada por uma calda rica de chocolate sem ingredientes de origem animal, esta receita oferece o mesmo conforto e alegria do clássico original, celebrando the inclusão e o sabor autêntico.",
+  "context": "Adaptando the técnica de liquidificador para ingredientes de base vegetal, como the linhaça e o leite de coco, este bolo mantém the textura fofinha característica. É the celebração da gastronomia moderna e sustentável, onde the substituição inteligente de ingredientes prova que the culinária afetiva brasileira é versátil, ética e irresistivelmente deliciosa para todos.",
+  "categories": [
+    "Bolos Caseiros",
+    "Veganas",
+    "Páscoa",
+    "Chocolate"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Bolos"
+  ],
+  "mealTime": [
+    "Café da Manhã",
+    "Lanche da Tarde"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Forno"
+  ],
+  "diet": [
+    "Vegana",
+    "Sem Lactose"
+  ],
+  "keyIngredients": [
+    "Chocolate",
+    "Cenoura"
+  ],
+  "collections": [
+    "Páscoa"
+  ],
+  "prepTime": "20 min",
+  "cookTime": "40 min",
+  "totalTime": "1 h",
+  "difficulty": "Fácil",
+  "yield": "10 fatias",
+  "searchTerms": [
+    "bolo de cenoura vegano",
+    "cobertura de chocolate vegana",
+    "Páscoa vegana",
+    "sem leite"
+  ],
+  "tags": [
+    "bolodecenouravegano",
+    "chocolatevegano",
+    "pascoavegana",
+    "semcrueldade",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa e cobertura",
+      "items": [
+        "3 cenouras médias raladas",
+        "1 1/2 xícara de açúcar",
+        "1/2 xícara de óleo vegetal",
+        "2 xícaras de farinha de trigo",
+        "1 colher de sopa de fermento em pó",
+        "1 colher de chá de canela em pó",
+        "1 pitada de noz-moscada ralada",
+        "1 pitada de sal",
+        "2 colheres de sopa de linhaça ou chia hidratadas em 6 colheres de sopa de água",
+        "200 ml de leite de coco",
+        "200 g de chocolate vegano picado",
+        "Açúcar de coco a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Pré-aqueça o forno a 180°C e unte uma forma redonda.",
+    "Bata cenoura, açúcar, óleo, linhaça hidratada e água até formar creme.",
+    "Peneire farinha, fermento, canela, noz-moscada e sal.",
+    "Misture o creme de cenoura aos secos até formar massa lisa.",
+    "Despeje na forma e asse por cerca de 40 minutos.",
+    "Aqueça leite de coco e chocolate vegano em fogo baixo até formar cobertura lisa.",
+    "Adoce com açúcar de coco, se necessário.",
+    "Cubra o bolo frio e decore como desejar."
+  ],
+  "tips": [
+    "Raspas de laranja deixam a massa mais perfumada.",
+    "Amido de milho ajuda a deixar a cobertura mais consistente.",
+    "Decore com castanhas, frutas frescas ou coco ralado."
+  ],
+  "servings": 10,
+  "servingsUnit": "fatias",
+  "prepMinutes": 20,
+  "cookMinutes": 40,
+  "structuredIngredients": [
+    {
+      "section": "Massa e cobertura",
+      "items": [
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "cenouras médias raladas"
+        },
+        {
+          "qty": 1.5,
+          "unit": "xíc.",
+          "name": "açúcar"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "óleo vegetal"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "farinha de trigo"
+        },
+        {
+          "qty": 1,
+          "unit": "col. sopa",
+          "name": "fermento em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "canela em pó"
+        },
+        {
+          "qty": 1,
+          "unit": "pitada",
+          "name": "noz-moscada ralada"
+        },
+        {
+          "qty": 1,
+          "unit": "pitada",
+          "name": "sal"
+        },
+        {
+          "qty": 2,
+          "unit": "col. sopa",
+          "name": "linhaça ou chia hidratadas em 6 colheres de sopa de água"
+        },
+        {
+          "qty": 200,
+          "unit": "ml",
+          "name": "leite de coco"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "chocolate vegano picado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Açúcar de coco",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Pré-aqueça o forno a 180°C e unte uma forma redonda.",
+        "Bata cenoura, açúcar, óleo, linhaça hidratada e água até formar creme.",
+        "Peneire farinha, fermento, canela, noz-moscada e sal.",
+        "Misture o creme de cenoura aos secos até formar massa lisa.",
+        "Despeje na forma e asse por cerca de 40 minutos.",
+        "Aqueça leite de coco e chocolate vegano em fogo baixo até formar cobertura lisa.",
+        "Adoce com açúcar de coco, se necessário.",
+        "Cubra o bolo frio e decore como desejar."
+      ]
+    }
+  ]
+}

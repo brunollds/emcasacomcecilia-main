@@ -1,0 +1,126 @@
+{
+  "id": 44,
+  "slug": "cajuzinho-nordestino",
+  "title": "Cajuzinho Nordestino",
+  "description": "Docinho de festa com amendoim, formato de caju e sabor de Festa Junina.",
+  "intro": "O cajuzinho nordestino é um clássico que une a textura densa do doce de leite condensado com a crocância rústica do amendoim. Com seu formato icônico que homenageia a fruta tropical e sua cobertura de açúcar cristal, ele oferece um sabor intenso e reconfortante que é a cara das festas populares brasileiras.",
+  "context": "Apesar do nome, a receita tradicional foca no amendoim, um ingrediente central da culinária caipira e nordestina. O cajuzinho é uma das estrelas das Festas Juninas e aniversários, representando a criatividade em modelar doces que celebram a identidade visual das nossas frutas através de ingredientes simples e acessíveis.",
+  "categories": [
+    "Nordestina",
+    "Brasileira",
+    "Doces",
+    "Festas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Docinhos"
+  ],
+  "cuisine": [
+    "Nordestina",
+    "Brasileira"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "keyIngredients": [
+    "Leite Condensado"
+  ],
+  "collections": [
+    "Festa Junina",
+    "Receita Clássica",
+    "Receita de Vó"
+  ],
+  "prepTime": "15 min",
+  "cookTime": "12 min",
+  "totalTime": "27 min",
+  "difficulty": "Fácil",
+  "yield": "24 unidades",
+  "searchTerms": [
+    "cajuzinho",
+    "amendoim",
+    "caju",
+    "festa junina",
+    "docinho de festa",
+    "nordestino"
+  ],
+  "tags": [
+    "cajuzinho",
+    "amendoim",
+    "nordestino",
+    "festajunina",
+    "docinhodefesta",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Massa",
+      "items": [
+        "1 lata de leite condensado",
+        "1 colher (sopa) de manteiga sem sal",
+        "50 g de caju torrado e triturado ou amendoim",
+        "50 g de amendoim torrado e triturado",
+        "Açúcar cristal para envolver"
+      ]
+    }
+  ],
+  "instructions": [
+    "Em uma panela, misture todos os ingredientes, exceto o açúcar cristal.",
+    "Leve ao fogo baixo, mexendo sempre, até a massa soltar do fundo.",
+    "Deixe esfriar completamente.",
+    "Modele em formato de pequenos cajus.",
+    "Passe no açúcar cristal e decore a ponta com um pedaço de amendoim."
+  ],
+  "tips": [
+    "Use açúcar demerara ou chocolate em pó na massa para uma cor mais intensa e sabor rústico.",
+    "Deixe alguns pedaços maiores de amendoim para dar mais crocância."
+  ],
+  "servings": 24,
+  "servingsUnit": "unidades",
+  "prepMinutes": 15,
+  "cookMinutes": 12,
+  "structuredIngredients": [
+    {
+      "section": "Massa",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de manteiga sem sal"
+        },
+        {
+          "qty": 50,
+          "unit": "g",
+          "name": "caju torrado e triturado ou amendoim"
+        },
+        {
+          "qty": 50,
+          "unit": "g",
+          "name": "amendoim torrado e triturado"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Açúcar cristal",
+          "note": "para envolver"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Em uma panela, misture todos os ingredientes, exceto o açúcar cristal.",
+        "Leve ao fogo baixo, mexendo sempre, até a massa soltar do fundo.",
+        "Deixe esfriar completamente.",
+        "Modele em formato de pequenos cajus.",
+        "Passe no açúcar cristal e decore a ponta com um pedaço de amendoim."
+      ]
+    }
+  ]
+}

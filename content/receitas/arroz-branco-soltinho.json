@@ -1,0 +1,141 @@
+{
+  "id": 80,
+  "slug": "arroz-branco-soltinho",
+  "title": "Arroz Branco Soltinho de Todo Dia",
+  "description": "O segredo do arroz branco perfeito: grãos soltinhos, brancos e muito saborosos para acompanhar todas as suas refeições com maestria.",
+  "intro": "O arroz branco soltinho é a base invisível mas essencial da felicidade na mesa brasileira. Com grãos perfeitamente separados, leves e levemente aromáticos, ele é o companheiro fiel que realça o sabor de qualquer prato, desde o feijão de todo dia até o mais elaborado dos strogonoffs, garantindo o equilíbrio e o conforto que só um arroz bem feito proporciona.",
+  "context": "Um dos maiores desafios e, ao mesmo tempo, um dos pilares da culinária doméstica, fazer o arroz perfeito é uma prova de técnica e paciência. Esta receita descomplica o processo, focando no refogado inicial e no descanso pós-cozimento — segredos fundamentais para que o amido se estabilize e os grãos fiquem soltos, celebrando a simplicidade que sustenta a nossa cultura alimentar.",
+  "categories": [
+    "Brasileira",
+    "Acompanhamentos",
+    "Básicos"
+  ],
+  "primaryCategory": "Acompanhamento",
+  "subCategory": [
+    "Arroz"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar"
+  ],
+  "cuisine": [
+    "Brasileira"
+  ],
+  "method": [
+    "Fogão"
+  ],
+  "diet": [
+    "Vegetariana",
+    "Vegana",
+    "Sem Glúten"
+  ],
+  "keyIngredients": [
+    "Arroz"
+  ],
+  "collections": [
+    "Receita Clássica",
+    "Econômica",
+    "Poucos Ingredientes"
+  ],
+  "prepTime": "5 min",
+  "cookTime": "20 min",
+  "totalTime": "25 min",
+  "difficulty": "Fácil",
+  "yield": "4 porções",
+  "isPopular": true,
+  "searchTerms": [
+    "arroz branco",
+    "arroz soltinho",
+    "receita básica",
+    "acompanhamento",
+    "alho",
+    "grão solto"
+  ],
+  "tags": [
+    "arrozbranco",
+    "arrozsoltinho",
+    "receitabasica",
+    "acompanhamento",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Arroz",
+      "items": [
+        "1 xícara (chá) de arroz branco",
+        "2 xícaras (chá) de água",
+        "1 colher (sopa) de óleo vegetal",
+        "1 dente de alho picado, opcional",
+        "Sal a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Lave o arroz em água corrente até a água sair transparente.",
+    "Aqueça o óleo em fogo médio.",
+    "Refogue o alho por alguns segundos, se usar.",
+    "Adicione o arroz e refogue por 1 minuto.",
+    "Junte a água e o sal.",
+    "Quando ferver, abaixe o fogo, tampe e cozinhe por cerca de 15 minutos.",
+    "Desligue e deixe tampado por mais 5 minutos.",
+    "Solte com um garfo e sirva."
+  ],
+  "tips": [
+    "Uma colher de vinagre branco na água ajuda a deixar os grãos mais soltos.",
+    "Louro, cebola ou caldo de legumes podem aromatizar o cozimento.",
+    "Não mexa durante o cozimento para não quebrar os grãos."
+  ],
+  "servings": 4,
+  "servingsUnit": "porções",
+  "prepMinutes": 5,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Arroz",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "(chá) de arroz branco"
+        },
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "(chá) de água"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (sopa) de óleo vegetal"
+        },
+        {
+          "qty": 1,
+          "unit": "dente",
+          "name": "alho picado",
+          "note": "opcional"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Sal",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Lave o arroz em água corrente até a água sair transparente.",
+        "Aqueça o óleo em fogo médio.",
+        "Refogue o alho por alguns segundos, se usar.",
+        "Adicione o arroz e refogue por 1 minuto.",
+        "Junte a água e o sal.",
+        "Quando ferver, abaixe o fogo, tampe e cozinhe por cerca de 15 minutos.",
+        "Desligue e deixe tampado por mais 5 minutos.",
+        "Solte com um garfo e sirva."
+      ]
+    }
+  ]
+}

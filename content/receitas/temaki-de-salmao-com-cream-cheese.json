@@ -1,0 +1,158 @@
+{
+  "id": 29,
+  "slug": "temaki-de-salmao-com-cream-cheese",
+  "title": "Temaki de Salmão com Cream Cheese",
+  "description": "O cone de sushi japonês em sua versão mais amada: salmão fresco, arroz temperado e a cremosidade do cream cheese.",
+  "intro": "O temaki de salmão com cream cheese é o cone de felicidade da culinária japonesa moderna. A alga nori crocante envolve um arroz perfeitamente temperado e cubos generosos de salmão fresco, elevados pela cremosidade irresistível do cream cheese, criando um lanche sofisticado e equilibrado que deve ser saboreado imediatamente.",
+  "context": "O termo 'temaki' significa literalmente 'feito à mão', refletindo a natureza prática e artesanal deste sushi em formato de cone. Popularizado por sua facilidade de consumo, ele se tornou um símbolo da adaptação da cozinha japonesa ao ritmo urbano, mantendo o rigor no frescor dos ingredientes e na técnica de preparo do arroz.",
+  "image": "/images/recipes/peixes/temaki-de-salmao-com-cream-cheese.jpg",
+  "imageAlt": "Cone de temaki de salmão fresco com cream cheese e cebolinha.",
+  "categories": [
+    "Japonesa",
+    "Peixes",
+    "Saudáveis"
+  ],
+  "primaryCategory": "Prato Principal",
+  "subCategory": [
+    "Peixes & Frutos do Mar"
+  ],
+  "mealTime": [
+    "Almoço",
+    "Jantar",
+    "Happy Hour"
+  ],
+  "cuisine": [
+    "Japonesa"
+  ],
+  "method": [
+    "Sem Forno"
+  ],
+  "keyIngredients": [
+    "Salmão"
+  ],
+  "prepTime": "25 min",
+  "cookTime": "20 min",
+  "totalTime": "45 min",
+  "difficulty": "Médio",
+  "yield": "4 cones",
+  "searchTerms": [
+    "temaki de salmão",
+    "temaki caseiro",
+    "sushi em casa",
+    "salmão com cream cheese",
+    "alga nori",
+    "arroz japonês"
+  ],
+  "tags": [
+    "temaki",
+    "salmao",
+    "sushicaseiro",
+    "creamcheese",
+    "japonesa",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Arroz (Shari)",
+      "items": [
+        "2 xícaras (chá) de arroz japonês",
+        "2 e 1/2 xícaras (chá) de água",
+        "4 colheres (sopa) de vinagre de arroz",
+        "2 colheres (sopa) de açúcar",
+        "1 colher (chá) de sal"
+      ]
+    },
+    {
+      "section": "Montagem",
+      "items": [
+        "4 folhas de alga nori cortadas ao meio",
+        "200 g de salmão fresco picado em cubos",
+        "100 g de cream cheese",
+        "Cebolinha picada a gosto"
+      ]
+    }
+  ],
+  "instructions": [
+    "Lave o arroz até a água sair límpida. Cozinhe com a água em fogo baixo até secar. Deixe descansar por 10 minutos.",
+    "Misture o vinagre, o açúcar e o sal. Incorpore ao arroz ainda morno com movimentos delicados. Deixe esfriar.",
+    "Corte a alga nori ao meio. Coloque uma porção de arroz em metade da alga, espalhando diagonalmente.",
+    "Coloque o salmão, o cream cheese e a cebolinha sobre o arroz.",
+    "Enrole a alga começando pelo canto inferior esquerdo, formando um cone.",
+    "Feche a ponta com um grão de arroz para selar e sirva imediatamente."
+  ],
+  "servings": 4,
+  "servingsUnit": "cones",
+  "prepMinutes": 25,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Arroz (Shari)",
+      "items": [
+        {
+          "qty": 2,
+          "unit": "xíc.",
+          "name": "(chá) de arroz japonês"
+        },
+        {
+          "qty": 2.5,
+          "unit": "xíc.",
+          "name": "(chá) de água"
+        },
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "colheres (sopa) de vinagre de arroz"
+        },
+        {
+          "qty": 2,
+          "unit": "",
+          "name": "colheres (sopa) de açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "colher (chá) de sal"
+        }
+      ]
+    },
+    {
+      "section": "Montagem",
+      "items": [
+        {
+          "qty": 4,
+          "unit": "",
+          "name": "folhas de alga nori cortadas ao meio"
+        },
+        {
+          "qty": 200,
+          "unit": "g",
+          "name": "salmão fresco picado em cubos"
+        },
+        {
+          "qty": 100,
+          "unit": "g",
+          "name": "cream cheese"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Cebolinha picada",
+          "note": "a gosto"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Lave o arroz até a água sair límpida. Cozinhe com a água em fogo baixo até secar. Deixe descansar por 10 minutos.",
+        "Misture o vinagre, o açúcar e o sal. Incorpore ao arroz ainda morno com movimentos delicados. Deixe esfriar.",
+        "Corte a alga nori ao meio. Coloque uma porção de arroz em metade da alga, espalhando diagonalmente.",
+        "Coloque o salmão, o cream cheese e a cebolinha sobre o arroz.",
+        "Enrole a alga começando pelo canto inferior esquerdo, formando um cone.",
+        "Feche a ponta com um grão de arroz para selar e sirva imediatamente."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": 178,
+  "slug": "rabanadas-gourmet-com-sorvete-de-canela",
+  "title": "Rabanadas Gourmet com Sorvete de Canela",
+  "description": "Rabanadas douradas servidas com sorvete caseiro de canela e calda de frutas vermelhas.",
+  "intro": "As rabanadas gourmet elevam o clássico natalino a um patamar de sobremesa de luxo para the Páscoa. Douradas e suculentas, elas são servidas mornas com um sorvete caseiro de canela e calda de frutas vermelhas, criando um jogo de temperaturas e sabores agridoces que abraça o paladar com conforto e requinte.",
+  "context": "Nesta versão 'de elite', o uso do pão brioche garante uma maciez inigualável e um sabor amanteigado profundo. A receita celebra the cozinha afetiva ressignificada, onde the técnica de infusão do leite e o acompanhamento do sorvete artesanal transformam um prato simples em uma experiênsia gastronômica memorável e cheia de alma.",
+  "categories": [
+    "Sazonais",
+    "Sobremesas",
+    "Doces",
+    "Festas"
+  ],
+  "primaryCategory": "Sobremesa",
+  "subCategory": [
+    "Pudins & Cremes"
+  ],
+  "cuisine": [
+    "Brasileira",
+    "Portuguesa"
+  ],
+  "method": [
+    "Fritura"
+  ],
+  "collections": [
+    "Natal",
+    "Festas de Fim de Ano",
+    "Receita de Vó",
+    "Receita Clássica"
+  ],
+  "prepTime": "35 min",
+  "cookTime": "20 min",
+  "totalTime": "4 h 55 min",
+  "difficulty": "Médio",
+  "yield": "8 porções",
+  "searchTerms": [
+    "rabanadas gourmet",
+    "sorvete de canela",
+    "calda de frutas vermelhas",
+    "pão amanhecido"
+  ],
+  "tags": [
+    "rabanadasgourmet",
+    "sorvetedecanela",
+    "caldadefrutasvermelhas",
+    "sobremesagourmet",
+    "emcasacomcecilia"
+  ],
+  "ingredients": [
+    {
+      "section": "Rabanadas e acompanhamentos",
+      "items": [
+        "1 pão de brioche ou pão francês amanhecido em fatias grossas",
+        "3 ovos",
+        "1 xícara de leite",
+        "1/2 xícara de creme de leite",
+        "2 colheres de sopa de açúcar",
+        "1 colher de chá de essência de baunilha",
+        "1 colher de chá de canela em pó",
+        "Óleo para fritar",
+        "500 ml de creme de leite fresco",
+        "1 lata de leite condensado",
+        "1 xícara de frutas vermelhas",
+        "2 colheres de sopa de açúcar para a calda",
+        "Suco de 1/2 limão"
+      ]
+    }
+  ],
+  "instructions": [
+    "Bata ovos, leite, creme de leite, açúcar, baunilha e canela.",
+    "Mergulhe as fatias de pão na mistura.",
+    "Frite até dourar dos dois lados e reserve em papel absorvente.",
+    "Bata creme de leite fresco em ponto de chantilly e misture leite condensado e canela.",
+    "Leve o sorvete ao freezer por pelo menos 4 horas.",
+    "Cozinhe frutas vermelhas, açúcar e limão até formar calda.",
+    "Sirva as rabanadas mornas com sorvete e calda."
+  ],
+  "tips": [
+    "Polvilhe canela nas rabanadas antes de servir.",
+    "O contraste da rabanada morna com o sorvete gelado valoriza a sobremesa.",
+    "Pão brioche deixa a textura mais macia."
+  ],
+  "servings": 8,
+  "servingsUnit": "porções",
+  "prepMinutes": 35,
+  "cookMinutes": 20,
+  "structuredIngredients": [
+    {
+      "section": "Rabanadas e acompanhamentos",
+      "items": [
+        {
+          "qty": 1,
+          "unit": "",
+          "name": "pão de brioche ou pão francês amanhecido em fatias grossas"
+        },
+        {
+          "qty": 3,
+          "unit": "",
+          "name": "ovos"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "leite"
+        },
+        {
+          "qty": 0.5,
+          "unit": "xíc.",
+          "name": "creme de leite"
+        },
+        {
+          "qty": 2,
+          "unit": "col. sopa",
+          "name": "açúcar"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "essência de baunilha"
+        },
+        {
+          "qty": 1,
+          "unit": "col. chá",
+          "name": "canela em pó"
+        },
+        {
+          "qty": 0,
+          "unit": "",
+          "name": "Óleo",
+          "note": "para fritar"
+        },
+        {
+          "qty": 500,
+          "unit": "ml",
+          "name": "creme de leite fresco"
+        },
+        {
+          "qty": 1,
+          "unit": "lata",
+          "name": "leite condensado"
+        },
+        {
+          "qty": 1,
+          "unit": "xíc.",
+          "name": "frutas vermelhas"
+        },
+        {
+          "qty": 2,
+          "unit": "col. sopa",
+          "name": "açúcar para a calda"
+        },
+        {
+          "qty": 0.5,
+          "unit": "un.",
+          "name": "limões",
+          "note": "suco"
+        }
+      ]
+    }
+  ],
+  "instructionGroups": [
+    {
+      "section": "Modo de preparo",
+      "steps": [
+        "Bata ovos, leite, creme de leite, açúcar, baunilha e canela.",
+        "Mergulhe as fatias de pão na mistura.",
+        "Frite até dourar dos dois lados e reserve em papel absorvente.",
+        "Bata creme de leite fresco em ponto de chantilly e misture leite condensado e canela.",
+        "Leve o sorvete ao freezer por pelo menos 4 horas.",
+        "Cozinhe frutas vermelhas, açúcar e limão até formar calda.",
+        "Sirva as rabanadas mornas com sorvete e calda."
+      ]
+    }
+  ]
+}
