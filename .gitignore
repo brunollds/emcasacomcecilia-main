@@ -76,3 +76,6 @@ PROXIMOS-PASSOS.md
 
 # Imagens temporárias
 public/images/temp/
+
+# Artefatos de migração de conteúdo
+scripts/content/artifacts/
