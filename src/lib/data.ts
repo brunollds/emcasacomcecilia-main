@@ -21931,6 +21931,95 @@ export const reviews: Review[] = [
   ],
 },
 
+// Artigo 229: Dolce Gusto é confiável?
+{
+  id: 229,
+  slug: 'dolce-gusto-e-confiavel',
+  title: 'Dolce Gusto é confiável? O que observar antes de comprar',
+  type: 'Editorial',
+  reviewKind: 'editorial',
+  author: CECILIA_AUTHOR,
+  description: 'Análise dos dados públicos da NESCAFÉ Dolce Gusto: CNPJ, políticas de entrega, trocas, assistência técnica das máquinas e o que observar antes de comprar.',
+  metaDescription: 'A Dolce Gusto é confiável? Veja CNPJ, políticas de entrega e devolução, assistência técnica das máquinas e o que observar antes de comprar no site oficial.',
+  publishedAt: '13 Jul 2026',
+  publishedAtISO: '2026-07-13',
+  draft: true,
+  image: '/images/reviews/dolcegusto/dolce-gusto-maquinas-qual-escolher-hero.webp',
+  imageAlt: 'Máquinas NESCAFÉ Dolce Gusto lado a lado em uma cozinha — análise de confiabilidade da marca',
+  imageFit: 'cover',
+  pros: [],
+  cons: [],
+  contentSections: [
+    {
+      heading: 'Dados públicos da empresa',
+      paragraphs: [
+        'A NESCAFÉ Dolce Gusto no Brasil é operada pela Nestlé Brasil Ltda, sob o CNPJ 60.409.075/0001-52 — o mesmo registro usado por outras marcas Nestlé no país, incluindo a Nestlé Nutre. Não é uma loja terceirizada: é um canal de venda direta de uma multinacional com décadas de operação no Brasil.',
+        'O atendimento ao consumidor é feito pelo SAC 0800-776-2233, WhatsApp e formulário de contato no site oficial (nescafe-dolcegusto.com.br). Um detalhe pouco conhecido: as máquinas são fabricadas pela Arno (Groupe Seb), que mantém assistência técnica própria pelo telefone (11) 2060-9777, separada do atendimento da Nestlé sobre pedidos e cápsulas.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Catálogo e posicionamento de mercado',
+      paragraphs: [
+        'O catálogo cobre cápsulas de café (linhas Original e NEO), máquinas (Genio S, Mini Me, Piccolo XS, Eclipse, Infinissima, entre outras) e acessórios. A marca também tem parceria com a Starbucks, vendendo cápsulas Starbucks by NESCAFÉ Dolce Gusto exclusivas do sistema.',
+        'Existem dois programas de relacionamento: a Assinatura NDG, que renova o estoque de cápsulas automaticamente, e o DOLCE GUSTO CLUB, um programa de fidelidade em que o cliente cadastra o código impresso nas caixas para acumular pontos e trocar por produtos ou vale-presentes.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Políticas de compra e pós-venda',
+      paragraphs: [
+        'O direito de arrependimento é de até 7 dias corridos após o recebimento, conforme o CDC, com devolução na embalagem original e nota fiscal. Em caso de defeito de fabricação da máquina, o contato correto é com a Nestlé (SAC ou e-mail) ou diretamente com a assistência técnica da Arno — vale saber isso de antemão para não perder tempo no canal errado.',
+        'A entrega tem prazo de até 30 dias úteis, feita por transportadoras parceiras (Correios, Jadlog, Total Express, entre outras) com rastreamento por código enviado por e-mail. O cadastro no site é exclusivo para maiores de 18 anos residentes no Brasil, e a nota fiscal é enviada apenas por chave de acesso eletrônica, sem via impressa.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'O que observar antes de comprar',
+      paragraphs: [
+        'Como em qualquer compra online, recomenda-se verificar os seguintes pontos antes de finalizar o pedido na NESCAFÉ Dolce Gusto:'
+      ],
+      bullets: [
+        'Confirme se está no domínio oficial (nescafe-dolcegusto.com.br) antes de finalizar a compra.',
+        'Para defeito de máquina, o primeiro contato pode ser direto com a assistência técnica da Arno — muitas vezes mais rápido que abrir chamado pela Nestlé.',
+        'Brindes, frete grátis e cupons de outros perfis (Instagram, influenciadores) costumam ser promoções pontuais — sempre confira a vigência no carrinho.',
+        'O cupom CECI exige valor mínimo de R$ 100 em produtos elegíveis; confira o subtotal antes de aplicar.',
+        'Guarde a chave de acesso da nota fiscal recebida por e-mail — não há via impressa enviada com o pedido.'
+      ],
+    },
+    {
+      heading: 'Parceria e cupom de desconto',
+      paragraphs: [
+        'O Em Casa com Cecília mantém uma parceria comercial com a NESCAFÉ Dolce Gusto. Por meio dela, o cupom CECI garante 5% de desconto em compras acima de R$100 no site oficial, válido para cápsulas, máquinas e acessórios. O desconto é concedido pela marca e não representa custo adicional para quem compra.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Perguntas frequentes',
+      bullets: [
+        'A Dolce Gusto é da mesma empresa que a Nestlé? Sim, é operada pela Nestlé Brasil Ltda, sob o CNPJ 60.409.075/0001-52 — o mesmo usado por outras marcas Nestlé no país.',
+        'Quem fabrica as máquinas Dolce Gusto? As máquinas são fabricadas pela Arno (Groupe Seb), que também presta assistência técnica própria, separada do atendimento da Nestlé.',
+        'Qual o prazo de entrega da Dolce Gusto? Até 30 dias úteis, calculado a partir da separação do pedido, com rastreamento por código enviado por e-mail.',
+        'Como funciona a devolução na Dolce Gusto? Até 7 dias corridos após o recebimento, com o produto na embalagem original e nota fiscal, conforme o direito de arrependimento do CDC.',
+        'A Dolce Gusto entrega nota fiscal impressa? Não. A nota fiscal é emitida eletronicamente e enviada por e-mail apenas com a chave de acesso, sem via impressa no pacote.',
+        'O cupom CECI muda o preço final do produto? Não. O desconto é concedido pela marca e não representa custo adicional para quem compra.',
+      ],
+    },
+  ],
+  cta: {
+    text: 'Conheça a NESCAFÉ Dolce Gusto e aproveite o cupom CECI',
+    label: 'Visitar loja',
+    url: 'https://www.nescafe-dolcegusto.com.br/',
+  },
+  coupon: 'CECI',
+  editorialNote: 'Este artigo é de natureza editorial e analítica. A menção ao cupom CECI decorre de uma parceria comercial entre o Em Casa com Cecília e a NESCAFÉ Dolce Gusto. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca.',
+  relatedArticles: [
+    { slug: 'cupom-ceci-nescafe-dolce-gusto-como-usar', title: 'Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto' },
+    { slug: 'clube-dolce-gusto-como-funciona', title: 'Clube Dolce Gusto: pontos e prêmios' },
+    { slug: 'promocao-dolce-gusto-55-caixas-mini-me-gratis', title: 'Dolce Gusto: 55 caixas, ganhe Mini Me' },
+  ],
+},
+
 // =============================================================================
 // I WANNA SLEEP (3 artigos) — sem quickNote, produto a caminho
 // =============================================================================
@@ -21948,8 +22037,8 @@ export const reviews: Review[] = [
   author: CECILIA_AUTHOR,
   description: 'Análise dos dados públicos da I Wanna Sleep, incluindo CNPJ, endereço, políticas de entrega, trocas e formas de pagamento.',
   metaDescription: 'A I Wanna Sleep é confiável? Veja dados da empresa, políticas de entrega, trocas e o que observar antes de comprar no site oficial.',
-  publishedAt: '10 Jul 2026',
-  publishedAtISO: '2026-07-10',
+  publishedAt: '12 Jul 2026',
+  publishedAtISO: '2026-07-12',
   draft: true,
   image: '/images/reviews/iwannasleep/confiabilidade-hero.webp',
   imageAlt: 'Pillow top da I Wanna Sleep ajustado sobre o colchão — análise de confiabilidade da marca',
@@ -22135,8 +22224,8 @@ export const reviews: Review[] = [
   author: CECILIA_AUTHOR,
   description: 'Ficha técnica do Cobertor IWS Igloo, o cobertor de dupla face (lado frio e lado quente) da I Wanna Sleep: tecnologias, materiais, tamanhos e preço atual.',
   metaDescription: 'Veja a ficha técnica do Cobertor IWS Igloo: tecnologia dupla face, materiais, tamanhos disponíveis e como comprar com cupom CECIEMCASA.',
-  publishedAt: '12 Jul 2026',
-  publishedAtISO: '2026-07-12',
+  publishedAt: '16 Jul 2026',
+  publishedAtISO: '2026-07-16',
   draft: true,
   image: '/images/reviews/iwannasleep/cobertor-igloo-hero.webp',
   imageAlt: 'Mãos tocando os dois lados do Cobertor IWS Igloo, um com toque frio e outro com toque quente',
@@ -22374,8 +22463,8 @@ export const reviews: Review[] = [
         'Posso usar o cupom CECI em compras recorrentes ou assinatura? O cupom CECI não é cumulativo com outros códigos de desconto ativos no site. Recomenda-se verificar, no momento da compra, se a função de assinatura ou compra recorrente permite o uso de cupons de parceiros, pois as regras podem variar conforme a política vigente da loja.',
         'Onde encontro o cupom Nestlé Nutren? O cupom CECI é o código oficial de parceria do blog Em Casa com Cecília com a Nestlé Nutre. Ele garante 5% de desconto na maioria dos produtos da loja oficial e pode ser aplicado diretamente no campo de cupom no checkout.',
         'Existe desconto de laboratório para produtos Nutren? Não há desconto específico para laboratórios no site oficial da Nestlé Nutre. O cupom CECI é válido para compras de pessoa física e pode ser usado por profissionais de saúde em compras pessoais, mas não substitui contratos corporativos ou vendas diretas para instituições.',
-        'Existe o programa "Nestlé meu desconto nutrição"? Não há um programa oficial com esse nome no site da Nestlé Nutre. O cupom CECI é o código real de parceria do blog Em Casa com Cecília e garante 5% de desconto na maioria dos produtos, sem necessidade de cadastro em programa de fidelidade.',
-        'Como funciona o programa de desconto Nutren? A Nestlé Nutre não opera um programa de fidelidade ou clube de descontos com pontos. O desconto real é aplicado via cupom CECI diretamente no checkout, sem acúmulo de pontos ou necessidade de login recorrente.',
+        'Existe o programa "Nestlé meu desconto nutrição"? Não existe um programa com esse nome exato, mas a Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, que oferece um cupom de 10% renovado todo mês e atendimento nutricional gratuito por chat. É um benefício separado da nossa parceria: o cupom CECI garante 5% de desconto sem necessidade de cadastro em nenhum programa.',
+        'Como funciona o programa de desconto Nutren? A Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com conteúdo de saúde, atendimento nutricional gratuito e um cupom de 10% renovado todo mês — não é um clube de pontos. Já o cupom CECI é aplicado direto no checkout, sem necessidade de cadastro em nenhum programa.',
         'O cupom Nestlé CECI vale para outros produtos da marca? Não. O cupom CECI é válido exclusivamente para produtos vendidos no site oficial da Nestlé Nutre (Nutren Senior, Control, 2.0, Ultra, Fortify, Mulher). Não funciona para produtos de outras marcas Nestlé como Nescafé, Kit Kat, Purina ou outros e-commerces.',
         'Existe alguma promoção de desconto específica para Nutren Senior? O cupom CECI garante 5% de desconto em Nutren Senior e demais produtos da linha (exceto Alfamino e Alfaré). Promoções pontuais podem aparecer no site oficial, mas o CECI é garantido e funciona independentemente de campanhas sazonais.',
       ],
@@ -22388,10 +22477,97 @@ export const reviews: Review[] = [
   },
   coupon: 'CECI',
   editorialNote: 'Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.',
-  // relatedArticles vazio de propósito: 'nestle-nutre-produtos-para-que-servem' (11 Jul) e
-  // 'nutren-senior-zero-lactose-ficha-tecnica' (13 Jul) ainda não publicaram (este foi para o ar em 10 Jul).
+  // relatedArticles vazio de propósito: 'nestle-nutre-produtos-para-que-servem' (15 Jul), 'nestle-nutre-e-confiavel'
+  // (11 Jul) e 'nutren-senior-zero-lactose-ficha-tecnica' (17 Jul) ainda não publicaram (este foi para o ar em 10 Jul).
   // Repopular assim que cada um for para o ar, senão o card "Leia também" 404.
   relatedArticles: [],
+},
+
+// Artigo 228: Nestlé Nutre é confiável?
+{
+  id: 228,
+  slug: 'nestle-nutre-e-confiavel',
+  title: 'Nestlé Nutre é confiável? O que observar antes de comprar',
+  type: 'Editorial',
+  reviewKind: 'editorial',
+  author: CECILIA_AUTHOR,
+  description: 'Análise dos dados públicos da Nestlé Nutre: CNPJ, políticas de entrega, trocas, o Programa Nestlé Nutre e o que observar antes de comprar.',
+  metaDescription: 'A Nestlé Nutre é confiável? Veja CNPJ, políticas de entrega e devolução, o Programa Nestlé Nutre e o que observar antes de comprar no site oficial.',
+  publishedAt: '11 Jul 2026',
+  publishedAtISO: '2026-07-11',
+  draft: true,
+  image: '/images/reviews/nutren/cupom-ceci-hero.webp',
+  imageAlt: 'Família reunida sorrindo ao ar livre — campanha institucional da Nestlé Nutre',
+  imageFit: 'cover',
+  pros: [],
+  cons: [],
+  contentSections: [
+    {
+      heading: 'Dados públicos da empresa',
+      paragraphs: [
+        'A Nestlé Nutre é a loja oficial de e-commerce da Nestlé Health Science no Brasil, operada sob o CNPJ 60.409.075/0001-52, o mesmo registrado pela Nestlé Brasil Ltda. Não é uma empresa independente ou recém-criada: é o canal de venda direta ao consumidor de uma das maiores multinacionais de alimentos e nutrição do mundo, o que já traz um primeiro nível de segurança jurídica e financeira para quem compra.',
+        'O atendimento ao cliente é feito por telefone (0800 770 2461), WhatsApp (11 97893 1273) e por um assistente virtual chamado Nina, disponível no próprio site. O domínio oficial é nestlenutre.com.br, e o site exibe certificado de segurança SSL.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Catálogo e posicionamento de mercado',
+      paragraphs: [
+        'O catálogo da Nestlé Nutre é dividido em quatro grandes frentes: Suplementação (linha Nutren, vitaminas, proteínas), Nutrição Clínica (Isosource, Modulen, Peptamen, ThickenUp Clear), Nutrição Pediátrica (Alfamino, Alfaré — fórmulas para necessidades específicas de bebês e crianças) e Envelhecimento Saudável, o segmento onde a linha Nutren Senior se encaixa. O mesmo e-commerce também vende marcas parceiras como Sundown, Pure Encapsulations e Vital Proteins, ampliando a variedade sem sair do mesmo checkout.',
+        'Um diferencial pouco conhecido é o Programa Nestlé Nutre, um serviço de suporte ao paciente com conteúdo sobre disfagia, obesidade, nutrição enteral e cirurgia, além de um cupom de 10% renovado todo mês e atendimento nutricional gratuito por chat (em parceria com a Becare). É um programa separado da nossa parceria com o cupom CECI, mas vale conhecer se você ou alguém da família usa produtos da linha com frequência.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Políticas de compra e pós-venda',
+      paragraphs: [
+        'O direito de arrependimento segue o CDC: até 7 dias corridos após o recebimento para devolver o produto, com frete de retorno custeado pela Nestlé, desde que o item esteja na embalagem original acompanhado da nota fiscal. Em compras no cartão, o estorno é feito na fatura seguinte; no boleto, por depósito em conta.',
+        'As entregas são feitas de segunda a sexta, das 8h às 22h (excepcionalmente também em fins de semana e feriados), com até três tentativas no endereço informado. O frete é grátis para compras acima de R$400, e o parcelamento chega a 6x sem juros no cartão. Quem compra por lá pela primeira vez ainda encontra o cupom BOASVINDAS10 (10% OFF), que é da própria loja — diferente do CECI, que é a parceria com este blog.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'O que observar antes de comprar',
+      paragraphs: [
+        'Como em qualquer compra online, recomenda-se verificar os seguintes pontos antes de finalizar o pedido na Nestlé Nutre:'
+      ],
+      bullets: [
+        'Confirme se está no domínio oficial (nestlenutre.com.br) antes de inserir dados de pagamento.',
+        'Itens de nutrição clínica e pediátrica (Alfamino, Alfaré, Isosource, Modulen) devem seguir a indicação do rótulo e, quando aplicável, orientação de um profissional de saúde.',
+        'Confira a validade do lote no momento da compra — são produtos de consumo contínuo.',
+        'Se você compra com frequência, vale avaliar o Programa Nestlé Nutre separadamente do cupom CECI.',
+        'No checkout, teste o cupom CECI e compare com outras promoções ativas — o sistema aplica só o maior desconto disponível.'
+      ],
+    },
+    {
+      heading: 'Parceria e cupom de desconto',
+      paragraphs: [
+        'O Em Casa com Cecília mantém uma parceria comercial com a Nestlé Nutre. Por meio dela, o cupom CECI garante 5% de desconto na maioria dos produtos do site oficial, exceto Alfamino e Alfaré. O desconto é concedido pela marca e não representa custo adicional para quem compra — é uma forma de apoiar o projeto editorial sem pagar nada além do preço do produto.'
+      ],
+      bullets: [],
+    },
+    {
+      heading: 'Perguntas frequentes',
+      bullets: [
+        'A Nestlé Nutre é a mesma empresa da Nestlé? Sim. É o e-commerce oficial da Nestlé Health Science no Brasil, operado sob o CNPJ da Nestlé Brasil Ltda (60.409.075/0001-52).',
+        'Qual o telefone de atendimento da Nestlé Nutre? 0800 770 2461, além de WhatsApp (11 97893 1273) e assistente virtual no próprio site.',
+        'A Nestlé Nutre entrega para todo o Brasil? Sim, as entregas cobrem todo o território nacional, com prazo calculado no checkout conforme o CEP.',
+        'Como funciona a devolução na Nestlé Nutre? Segue o CDC: até 7 dias corridos após o recebimento, com o produto na embalagem original e nota fiscal, e frete de retorno custeado pela empresa.',
+        'O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde, atendimento nutricional gratuito e um cupom de 10% renovado mensalmente — separado da parceria do cupom CECI com este blog.',
+        'O cupom CECI muda o preço final do produto? Não. O desconto é concedido pela marca e não representa custo adicional para quem compra.',
+      ],
+    },
+  ],
+  cta: {
+    text: 'Conheça a linha Nestlé Nutre e aproveite o cupom CECI',
+    label: 'Visitar loja',
+    url: 'https://www.nestlenutre.com.br/',
+  },
+  coupon: 'CECI',
+  editorialNote: 'Este artigo é de natureza editorial e analítica. A menção ao cupom CECI decorre de uma parceria comercial entre o Em Casa com Cecília e a Nestlé Nutre. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca.',
+  relatedArticles: [
+    { slug: 'cupom-ceci-nestle-nutre-como-usar', title: 'Cupom Nestlé Nutre CECI: como usar o desconto de 5%' },
+  ],
 },
 
 // Artigo 224: Nestlé Nutre — produtos e para que servem
@@ -22404,8 +22580,8 @@ export const reviews: Review[] = [
   author: CECILIA_AUTHOR,
   description: 'Conheça a linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra, Fortify e Mulher. Veja para que serve cada produto e como comprar com cupom.',
   metaDescription: 'Conheça a linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra, Fortify e mais. Veja para que serve cada produto, preços aproximados, formas de uso e como comprar com o cupom CECI na loja oficial.',
-  publishedAt: '11 Jul 2026',
-  publishedAtISO: '2026-07-11',
+  publishedAt: '15 Jul 2026',
+  publishedAtISO: '2026-07-15',
   draft: true,
   image: '/images/reviews/nutren/linha-produtos-hero.webp',
   imageAlt: 'Linha de produtos Nestlé Nutre',
@@ -22476,8 +22652,8 @@ export const reviews: Review[] = [
           'Cupom Nestlé Nutren: onde encontrar? O cupom CECI é o código oficial de parceria do blog Em Casa com Cecília com a Nestlé Nutre. Ele garante 5% de desconto na maioria dos produtos da loja oficial e pode ser aplicado diretamente no campo de cupom no checkout.',
           'Nutren desconto laboratório: há desconto para laboratórios? Não há desconto específico para laboratórios no site oficial da Nestlé Nutre. O cupom CECI é válido para compras de pessoa física e pode ser usado por profissionais de saúde em compras pessoais, mas não substitui contratos corporativos ou vendas diretas para instituições.',
           'Promo desconto Nutren Senior: existe promoção específica? O cupom CECI garante 5% de desconto em Nutren Senior e demais produtos da linha (exceto Alfamino e Alfaré). Promoções pontuais podem aparecer no site oficial, mas o CECI é garantido e funciona independentemente de campanhas sazonais.',
-          'Nestlé meu desconto nutrição: existe programa de desconto? Não há programa de desconto exclusivo "meu desconto nutrição" no site oficial da Nestlé Nutre. O cupom CECI é o código oficial de parceria e garante 5% de desconto na maioria dos produtos, sem necessidade de cadastro em programa de fidelidade.',
-          'Programa de desconto Nutren: como funciona? A Nestlé Nutre não opera um programa de fidelidade ou clube de descontos com pontos. O desconto é aplicado via cupom CECI diretamente no checkout, sem acúmulo de pontos ou necessidade de login recorrente.',
+          'Nestlé meu desconto nutrição: existe programa de desconto? Não existe um programa com esse nome exato, mas a Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês. É um benefício separado da nossa parceria: o cupom CECI garante 5% de desconto sem necessidade de cadastro em nenhum programa.',
+          'Programa de desconto Nutren: como funciona? A Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês e atendimento nutricional gratuito — não é um clube de pontos. O cupom CECI, por sua vez, é aplicado direto no checkout, sem necessidade de cadastro em nenhum programa.',
           'Cupom Nestlé: o CECI vale para outros produtos Nestlé? Não. O cupom CECI é válido exclusivamente para produtos vendidos no site oficial da Nestlé Nutre. Não funciona para produtos de outras marcas Nestlé como Nescafé, Kit Kat, Purina ou outros e-commerces.',
           'Onde comprar Nestlé Nutre com desconto? Os produtos Nestlé Nutre são vendidos exclusivamente no site oficial da marca. É possível aplicar o cupom CECI no checkout para garantir 5% de desconto na maioria dos produtos, exceto Alfamino e Alfaré. Não há necessidade de receita médica para a compra.'],
     },
@@ -22506,8 +22682,8 @@ export const reviews: Review[] = [
   author: CECILIA_AUTHOR,
   description: 'Ficha técnica do Nutren Senior Zero Lactose: nutrientes, preço aproximado e orientações de uso. Saiba como comprar com cupom CECI.',
   metaDescription: 'Veja a ficha técnica completa do Nutren Senior Zero Lactose: nutrientes, preço aproximado, modo de preparo, como usar, onde encontrar e como comprar com o cupom CECI na loja oficial Nestlé Nutre.',
-  publishedAt: '13 Jul 2026',
-  publishedAtISO: '2026-07-13',
+  publishedAt: '17 Jul 2026',
+  publishedAtISO: '2026-07-17',
   draft: true,
   image: '/images/reviews/nutren/nutren-senior-hero.webp',
   imageAlt: 'Lata do Nutren Senior Zero Lactose',
@@ -22573,8 +22749,8 @@ export const reviews: Review[] = [
           'Cupom Nestlé Nutren: o CECI vale para Nutren Senior? Sim, o cupom CECI garante 5% de desconto no checkout do site oficial da Nestlé Nutre para o Nutren Senior e demais produtos da linha, exceto Alfamino e Alfaré.',
           'Nutren desconto laboratório: há desconto para laboratórios? Não há desconto específico para laboratórios no site oficial da Nestlé Nutre. O cupom CECI é válido para compras de pessoa física e pode ser usado por profissionais de saúde em compras pessoais, mas não substitui contratos corporativos.',
           'Promo desconto Nutren Senior: existe promoção específica? O cupom CECI garante 5% de desconto em Nutren Senior. Promoções pontuais podem aparecer no site oficial, mas o CECI é garantido e funciona independentemente de campanhas sazonais.',
-          'Nestlé meu desconto nutrição: existe programa de desconto? Não há programa de desconto exclusivo "meu desconto nutrição" no site oficial. O cupom CECI é o código oficial de parceria e garante 5% de desconto sem necessidade de cadastro em programa de fidelidade.',
-          'Programa de desconto Nutren: como funciona? A Nestlé Nutre não opera um programa de fidelidade ou clube de descontos. O desconto é aplicado via cupom CECI diretamente no checkout.',
+          'Nestlé meu desconto nutrição: existe programa de desconto? Não existe um programa com esse nome exato, mas a Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com cupom de 10% renovado todo mês. O cupom CECI é separado desse programa e garante 5% de desconto sem necessidade de cadastro.',
+          'Programa de desconto Nutren: como funciona? A Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês — não é um clube de pontos. O cupom CECI é aplicado direto no checkout, sem necessidade de cadastro.',
           'Cupom Nestlé: o CECI vale para outros produtos Nestlé? Não. O cupom CECI é válido exclusivamente para produtos vendidos no site oficial da Nestlé Nutre. Não funciona para outras marcas Nestlé ou outros e-commerces.',
           'Nutren Senior em pó ou pronto para beber: qual é melhor? Ambos têm a mesma base nutricional. A versão em pó (370g ou 740g) é mais econômica e permite ajustar a quantidade de preparo. A versão pronta para beber (RTD, 200ml) oferece praticidade para consumo fora de casa. A escolha depende do estilo de vida e da preferência de uso.'],
     },
