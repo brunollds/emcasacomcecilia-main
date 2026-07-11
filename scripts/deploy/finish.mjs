@@ -23,7 +23,7 @@ async function main() {
   console.log('[1/2] aguardando produção responder (cold start do deploy pode levar ~90-120s)…');
   let ok = false;
   let lastCode = '000';
-  for (let i = 0; i < 36; i++) { // ~180s
+  for (let i = 0; i < 48; i++) { // ~240s — cold start real ~185s em 2 deploys seguidos
     execSync('sleep 5');
     lastCode = httpCode();
     if (lastCode === '200') { ok = true; break; }
@@ -32,7 +32,7 @@ async function main() {
   if (!ok) {
     const hint = lastCode === '503'
       ? '503 persistente — checar Variáveis de ambiente no painel (NODE_OPTIONS=--v8-pool-size=1?) ou pilha de next-server (ver DEPLOY-GUIDE › Recuperação de 503)'
-      : `sem 200 em 180s (último: ${lastCode}) — cold start longo ou app não subiu; ver console.log/stderr.log no servidor`;
+      : `sem 200 em 240s (último: ${lastCode}) — cold start longo ou app não subiu; ver console.log/stderr.log no servidor`;
     throw new Error(hint);
   }
 
