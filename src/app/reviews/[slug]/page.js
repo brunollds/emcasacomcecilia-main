@@ -1,38 +1,11 @@
 import { notFound } from 'next/navigation';
 import { getReviewSlug, publishedReviews, reviews } from '@/lib/data';
-import { buildSchemaAuthors, normalizeReview } from '@/lib/content';
 import { ReviewNotebookTemplate } from '@/components/review';
+import { buildReviewTemplateProps } from '@/lib/review-template-props';
 
 function findReview(slug) {
   const list = process.env.NODE_ENV === 'development' ? reviews : publishedReviews;
   return list.find((review) => getReviewSlug(review) === slug);
-}
-
-function getYoutubeEmbedUrl(url) {
-  if (!url) return null;
-
-  const watchMatch = url.match(/youtube\.com\/watch\?v=([\w-]+)/);
-  if (watchMatch) return `https://www.youtube.com/embed/${watchMatch[1]}`;
-
-  const shortMatch = url.match(/youtu\.be\/([\w-]+)/);
-  if (shortMatch) return `https://www.youtube.com/embed/${shortMatch[1]}`;
-
-  const shortsMatch = url.match(/youtube\.com\/shorts\/([\w-]+)/);
-  if (shortsMatch) return `https://www.youtube.com/embed/${shortsMatch[1]}`;
-
-  return null;
-}
-
-function getRelatedReviews(review) {
-  return publishedReviews
-    .filter((item) => item.id !== review.id)
-    .sort((a, b) => {
-      const typeScore = Number(b.type === review.type) - Number(a.type === review.type);
-      const productScore = Number(Boolean(b.rating) === Boolean(review.rating)) - Number(Boolean(a.rating) === Boolean(review.rating));
-
-      return typeScore || productScore || b.id - a.id;
-    })
-    .slice(0, 3);
 }
 
 export async function generateMetadata({ params }) {
@@ -94,93 +67,7 @@ export default async function ReviewPage({ params }) {
     notFound();
   }
 
-  const isProductReview = Boolean(review.rating);
-  const youtubeEmbedUrl = getYoutubeEmbedUrl(review.youtubeUrl);
-  const relatedReviews = getRelatedReviews(review);
-  const viewModel = normalizeReview(review);
-
-  const baseUrl = 'https://emcasacomcecilia.com';
-
-  const breadcrumbJsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'BreadcrumbList',
-    itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Início', item: baseUrl },
-      { '@type': 'ListItem', position: 2, name: 'Reviews', item: `${baseUrl}/reviews` },
-      { '@type': 'ListItem', position: 3, name: review.title, item: `${baseUrl}/reviews/${getReviewSlug(review)}` },
-    ],
-  };
-
-  const jsonLd = {
-    '@context': 'https://schema.org',
-    '@type': isProductReview ? 'Review' : 'Article',
-    name: review.title,
-    headline: review.title,
-    description: review.description,
-    datePublished: review.publishedAtISO || review.publishedAt,
-    ...(review.updatedAt ? { dateModified: review.updatedAt } : {}),
-    author: buildSchemaAuthors(review.authors, review.author),
-    image: review.image ? `https://emcasacomcecilia.com${review.image}` : undefined,
-    ...(isProductReview
-      ? {
-          reviewRating: {
-            '@type': 'Rating',
-            ratingValue: review.rating,
-            bestRating: 5,
-            worstRating: 1,
-          },
-          itemReviewed: {
-            '@type': 'Product',
-            name: review.title,
-            image: review.image ? `https://emcasacomcecilia.com${review.image}` : undefined,
-          },
-        }
-      : {}),
-  };
-  
-  const faqSection = review.contentSections?.find(
-    (s) => s.heading?.toLowerCase().includes('perguntas frequentes') || s.heading?.toLowerCase().includes('faq')
-  );
-
-  let faqJsonLd = null;
-  if (faqSection && faqSection.bullets) {
-    const mainEntity = faqSection.bullets.map((bullet) => {
-      const qMatch = bullet.match(/^([^\?]+\?)\s*(.+)$/);
-      if (qMatch) {
-        return {
-          '@type': 'Question',
-          name: qMatch[1].trim(),
-          acceptedAnswer: {
-            '@type': 'Answer',
-            text: qMatch[2].trim(),
-          },
-        };
-      }
-      return null;
-    }).filter(Boolean);
-
-    if (mainEntity.length > 0) {
-      faqJsonLd = {
-        '@context': 'https://schema.org',
-        '@type': 'FAQPage',
-        mainEntity,
-      };
-    }
-  }
-
-  return (
-    <ReviewNotebookTemplate
-      review={review}
-      viewModel={viewModel}
-      youtubeEmbedUrl={youtubeEmbedUrl}
-      reviewImage={review.image}
-      reviewImageAlt={review.imageAlt || review.title}
-      breadcrumbJsonLd={breadcrumbJsonLd}
-      jsonLd={jsonLd}
-      faqJsonLd={faqJsonLd}
-      relatedReviews={relatedReviews}
-    />
-  );
+  return <ReviewNotebookTemplate {...buildReviewTemplateProps(review)} />;
 }
 
 export function generateStaticParams() {
