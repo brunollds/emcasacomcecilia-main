@@ -21,6 +21,10 @@ const nextConfig = {
       },
       {
         protocol: 'https',
+        hostname: 'central.emcasacomcecilia.com',
+      },
+      {
+        protocol: 'https',
         hostname: 'http2.mlstatic.com',
       },
       {
