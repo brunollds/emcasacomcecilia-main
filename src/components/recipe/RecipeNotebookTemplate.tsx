@@ -127,7 +127,7 @@ export function RecipeNotebookTemplate({
             &quot;{recipe.description}&quot;
           </EditorialReveal>
 
-          <EditorialReveal as="div" delay={0.25} className="mb-8 flex flex-col items-center gap-3 text-sm text-[#1a4d2e]/80 md:items-start">
+          <EditorialReveal as="div" delay={0.25} className="mb-8 flex flex-wrap items-center justify-center gap-3 text-sm text-[#1a4d2e]/80 md:justify-start">
             <ArticleByline
               authors={recipe.authors || (recipe.author ? [recipe.author] : undefined)}
               fallbackAuthor={{
@@ -148,8 +148,11 @@ export function RecipeNotebookTemplate({
               ]}
               className="justify-center text-[#1a4d2e]/80 md:justify-start"
             />
-            {recipe.changelog && recipe.changelog.length > 0 && (
-              <details className="w-full text-xs text-[#4a5568] md:w-auto">
+          </EditorialReveal>
+
+          {recipe.changelog && recipe.changelog.length > 0 && (
+            <EditorialReveal as="div" delay={0.27} className="mb-8">
+              <details className="text-xs text-[#4a5568]">
                 <summary className="cursor-pointer font-semibold text-[#1a4d2e] hover:text-[#ff6b35]">
                   Histórico de atualizações
                 </summary>
@@ -164,8 +167,8 @@ export function RecipeNotebookTemplate({
                   ))}
                 </ul>
               </details>
-            )}
-          </EditorialReveal>
+            </EditorialReveal>
+          )}
 
           <EditorialReveal as="section" delay={0.3} className="mb-12">
             <div className="relative mx-auto aspect-[16/10] max-w-3xl overflow-hidden rounded-2xl shadow-xl ring-1 ring-[#1a4d2e]/10">
