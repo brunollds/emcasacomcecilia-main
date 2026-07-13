@@ -489,7 +489,7 @@ export function ReviewNotebookTemplate({
 
           {/* Artigos relacionados */}
           {relatedReviews.length > 0 && (
-            <section className="mt-12">
+            <section className="mt-12 print:hidden">
               <div className="mb-6 flex items-end justify-between gap-4">
                 <SectionHeadingReveal
                   as="h2"

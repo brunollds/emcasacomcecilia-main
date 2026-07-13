@@ -126,7 +126,7 @@ export function ShareBar({ url, title, contentType, imageUrl }: ShareBarProps): 
   };
 
   return (
-    <div className="flex flex-wrap items-center gap-2 rounded-2xl bg-[#f4f1ea] p-3.5">
+    <div className="flex flex-wrap items-center gap-2 rounded-2xl bg-[#f4f1ea] p-3.5 print:hidden">
       <span className="mr-0.5 text-sm text-[#4a5568]">Compartilhar:</span>
 
       {networks.map(({ key, label, Icon, ...rest }) => (

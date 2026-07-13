@@ -543,13 +543,6 @@ body {
     display: none !important;
   }
 
-  /* Hide share buttons and related articles */
-  .share-bar,
-  [class*="ShareBar"],
-  [class*="related"] {
-    display: none !important;
-  }
-
   /* Expand all accordion/details elements */
   details {
     display: block !important;
