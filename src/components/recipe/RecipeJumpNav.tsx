@@ -34,7 +34,7 @@ export function RecipeJumpNav({
               {index > 0 && <span className="text-[#ff6b35]/40">·</span>}
               <a
                 href={`#${link.id}`}
-                className="font-medium transition-colors hover:text-[#ff6b35] hover:font-semibold"
+                className="rounded font-medium transition-colors hover:text-[#ff6b35] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#ff6b35]"
               >
                 {link.label}
               </a>
