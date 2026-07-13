@@ -127,7 +127,7 @@ export function RecipeNotebookTemplate({
             &quot;{recipe.description}&quot;
           </EditorialReveal>
 
-          <EditorialReveal as="div" delay={0.25} className="mb-8 flex flex-wrap items-center justify-center gap-3 text-sm text-[#1a4d2e]/80 md:justify-start">
+          <EditorialReveal as="div" delay={0.25} className="mb-8 flex flex-col items-center gap-3 text-sm text-[#1a4d2e]/80 md:items-start">
             <ArticleByline
               authors={recipe.authors || (recipe.author ? [recipe.author] : undefined)}
               fallbackAuthor={{
@@ -148,6 +148,23 @@ export function RecipeNotebookTemplate({
               ]}
               className="justify-center text-[#1a4d2e]/80 md:justify-start"
             />
+            {recipe.changelog && recipe.changelog.length > 0 && (
+              <details className="w-full text-xs text-[#4a5568] md:w-auto">
+                <summary className="cursor-pointer font-semibold text-[#1a4d2e] hover:text-[#ff6b35]">
+                  Histórico de atualizações
+                </summary>
+                <ul className="mt-2 space-y-1 pl-4">
+                  {recipe.changelog.map((entry, idx) => (
+                    <li key={idx} className="flex flex-col">
+                      <time dateTime={entry.date} className="font-semibold text-[#1a4d2e]">
+                        {formatDate(entry.date)}
+                      </time>
+                      <span className="mt-0.5 text-[#4a5568]">{entry.text}</span>
+                    </li>
+                  ))}
+                </ul>
+              </details>
+            )}
           </EditorialReveal>
 
           <EditorialReveal as="section" delay={0.3} className="mb-12">

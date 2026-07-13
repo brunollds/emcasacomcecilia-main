@@ -136,6 +136,7 @@ export interface Recipe {
   authors?: PersonRef[];
   publishedAt?: string;
   updatedAt?: string;
+  changelog?: { date: string; text: string }[];
   image?: string;
   imageAlt?: string;
   coverImage?: Image;
@@ -302,6 +303,7 @@ export interface Review {
   publishedAt: string;
   publishedAtISO?: string;
   updatedAt?: string;
+  changelog?: { date: string; text: string }[];
   image?: string;
   imageAlt?: string;
   imageAspect?: 'landscape' | 'portrait' | 'square';

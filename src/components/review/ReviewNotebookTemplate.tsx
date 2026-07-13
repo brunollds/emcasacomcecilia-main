@@ -241,10 +241,30 @@ export function ReviewNotebookTemplate({
                   ...(review.publishedAtISO
                     ? [{ icon: 'calendar' as const, label: 'Publicado em', value: formatDate(review.publishedAtISO), dateTime: review.publishedAtISO }]
                     : []),
+                  ...(review.updatedAt && review.updatedAt !== review.publishedAtISO
+                    ? [{ label: 'Atualizado em', value: formatDate(review.updatedAt), dateTime: review.updatedAt }]
+                    : []),
                   { icon: 'clock', label: 'Tempo de leitura', value: `${readTime} min de leitura` },
                 ]}
                 action={<TextToSpeechButton text={speechText} />}
               />
+              {review.changelog && review.changelog.length > 0 && (
+                <details className="mt-3 text-sm text-[#4a5568]">
+                  <summary className="cursor-pointer font-semibold text-[#1a4d2e] hover:text-[#ff6b35]">
+                    Histórico de atualizações
+                  </summary>
+                  <ul className="mt-2 space-y-1.5 pl-4">
+                    {review.changelog.map((entry, idx) => (
+                      <li key={idx} className="flex flex-col text-xs">
+                        <time dateTime={entry.date} className="font-semibold text-[#1a4d2e]">
+                          {formatDate(entry.date)}
+                        </time>
+                        <span className="mt-0.5 text-[#4a5568]">{entry.text}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </details>
+              )}
             </EditorialReveal>
 
             {/* Hero image */}
