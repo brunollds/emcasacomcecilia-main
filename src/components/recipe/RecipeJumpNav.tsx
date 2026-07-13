@@ -26,15 +26,15 @@ export function RecipeJumpNav({
 
   return (
     <EditorialReveal as="div" delay={0.28} className="mb-8 print:hidden">
-      <nav aria-label="Atalhos da receita">
-        <p className="inline-flex flex-wrap items-center gap-2 text-sm text-[#1a4d2e]/70">
+      <nav aria-label="Atalhos da receita" className="rounded-xl border border-[#1a4d2e]/10 bg-[#fef9f3] px-4 py-2.5">
+        <p className="flex flex-wrap items-center gap-2 text-[15px] text-[#1a4d2e]">
           <span className="font-semibold text-[#1a4d2e]">Ir para:</span>
           {links.map((link, index) => (
             <span key={link.id} className="flex items-center gap-2">
               {index > 0 && <span className="text-[#ff6b35]/40">·</span>}
               <a
                 href={`#${link.id}`}
-                className="rounded font-medium transition-colors hover:text-[#ff6b35] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#ff6b35]"
+                className="rounded font-medium transition-colors hover:text-[#ff6b35] focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-[#ff6b35] focus-visible:outline-none"
               >
                 {link.label}
               </a>

@@ -13,7 +13,7 @@ export interface ChangelogDetailsProps {
 export function ChangelogDetails({ entries }: ChangelogDetailsProps): React.ReactElement {
   return (
     <details className="text-sm text-[#4a5568]">
-      <summary className="cursor-pointer font-semibold text-[#1a4d2e] hover:text-[#ff6b35] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#ff6b35]">
+      <summary className="cursor-pointer font-semibold text-[#1a4d2e] hover:text-[#ff6b35] focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-[#ff6b35] focus-visible:outline-none rounded">
         Histórico de atualizações
       </summary>
       {/* Rótulo visível só no print: o CSS de impressão oculta todos os <summary> */}

@@ -553,14 +553,12 @@ body {
   }
 
   /* Prevent page breaks inside content blocks */
-  section,
-  article,
   table,
   ul, ol,
   blockquote,
   .notebook-margin,
-  .dicas,
-  .pull-quote {
+  #ficha-tecnica,
+  #dicas {
     break-inside: avoid;
   }
 
@@ -605,8 +603,14 @@ body {
   /* Remove backgrounds, shadows, borders (except content-essential ones) */
   * {
     background-image: none !important;
+    background-color: transparent !important;
     box-shadow: none !important;
     text-shadow: none !important;
+    transform: none !important;
+  }
+
+  body {
+    background-color: white !important;
   }
 
   .notebook-paper,
@@ -721,7 +725,6 @@ body {
   }
 
   /* Pull quotes — emphasized with border */
-  .pull-quote,
   blockquote {
     border-left: 3pt solid #0f1419;
     padding-left: 12pt;
@@ -729,11 +732,39 @@ body {
     font-style: italic;
   }
 
-  /* Tips/dicas styling */
-  .dicas {
+  /* Tips/dicas styling — retarget to #dicas id */
+  #dicas {
     border: 1pt solid #0f1419 !important;
     background: white !important;
     padding: 9pt !important;
     margin: 12pt 0;
+  }
+
+  /* Ficha técnica — reduce size for print */
+  #ficha-tecnica {
+    margin: 12pt 0;
+  }
+
+  #ficha-tecnica .grid {
+    display: grid !important;
+    grid-template-columns: repeat(5, 1fr) !important;
+    gap: 4pt !important;
+  }
+
+  #ficha-tecnica .grid > div {
+    padding: 4pt !important;
+    border: none !important;
+    border-radius: 0 !important;
+    background: white !important;
+  }
+
+  #ficha-tecnica .font-handwritten,
+  #ficha-tecnica .font-hand-title {
+    font-family: Georgia, serif !important;
+    font-size: 10pt !important;
+  }
+
+  #ficha-tecnica span {
+    font-size: 7pt !important;
   }
 }

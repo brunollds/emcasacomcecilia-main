@@ -50,7 +50,7 @@ export function SectionLinkButton({
       onClick={handleClick}
       aria-label={label}
       title={label}
-      className="inline-flex items-center gap-1 rounded text-[#1a4d2e]/50 transition-colors hover:text-[#ff6b35] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#ff6b35] print:hidden"
+      className="inline-flex items-center gap-1 rounded text-[#1a4d2e]/50 transition-colors hover:text-[#ff6b35] focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-[#ff6b35] focus-visible:outline-none print:hidden"
     >
       {showFeedback ? (
         <span className="text-xs font-semibold text-[#1a4d2e]">Link copiado!</span>
