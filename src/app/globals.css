@@ -543,27 +543,10 @@ body {
     display: none !important;
   }
 
-  /* Hide share, coupons, CTAs, galleries, videos */
+  /* Hide share buttons and related articles */
   .share-bar,
   [class*="ShareBar"],
-  [class*="coupon"],
-  [class*="CTA"],
-  [class*="cta"],
-  [class*="Gallery"],
-  [class*="gallery"],
-  [class*="Video"],
-  [class*="video"],
-  [class*="ReadingProgress"],
-  [class*="reading-progress"],
-  [class*="TextToSpeech"],
-  [class*="text-to-speech"],
-  [class*="MobileBottom"],
-  [class*="mobile-bottom"],
-  [class*="related"],
-  .review-gallery-section,
-  .text-to-speech-button,
-  .reading-progress-bar,
-  .review-mobile-bottom-bar {
+  [class*="related"] {
     display: none !important;
   }
 

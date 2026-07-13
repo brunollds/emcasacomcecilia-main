@@ -388,7 +388,7 @@ export function ReviewNotebookTemplate({
 
               {/* Vídeo */}
               {youtubeEmbedUrl && (
-                <section className="mt-10 mb-10 rounded-2xl border border-[#1a4d2e]/10 bg-white p-6 shadow-soft md:p-8">
+                <section className="mt-10 mb-10 rounded-2xl border border-[#1a4d2e]/10 bg-white p-6 shadow-soft md:p-8 print:hidden">
                   <SectionHeadingReveal
                     as="h2"
                     underlineColor="#ff6b35"
@@ -416,7 +416,7 @@ export function ReviewNotebookTemplate({
 
               {/* CTA final */}
               {hasCta && (
-                <EditorialReveal as="section" className="relative mt-12 mb-10 overflow-hidden rounded-2xl bg-[#1a4d2e] p-6 text-white shadow-medium md:p-8">
+                <EditorialReveal as="section" className="relative mt-12 mb-10 overflow-hidden rounded-2xl bg-[#1a4d2e] p-6 text-white shadow-medium md:p-8 print:hidden">
                   <div
                     className="pointer-events-none absolute -right-8 -top-8 h-32 w-32 rounded-full bg-[#ff6b35]/15"
                     aria-hidden="true"
