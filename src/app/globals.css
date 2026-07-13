@@ -538,8 +538,8 @@ body {
   [role="navigation"],
   .navbar,
   aside:not([role="doc-noteref"]),
-  .sticky,
-  .fixed {
+  .sticky,    /* Sticky navigation/sidebars */
+  .fixed {    /* Fixed UI chrome */
     display: none !important;
   }
 
@@ -552,33 +552,26 @@ body {
     display: none !important;
   }
 
-  details > *:not(summary) {
-    display: block !important;
-  }
-
-  /* Page setup */
-  * {
-    page-break-inside: avoid;
-    orphans: 2;
-    widows: 2;
-  }
-
-  /* Prevent page breaks inside important content blocks */
+  /* Prevent page breaks inside content blocks */
   section,
   article,
+  table,
+  ul, ol,
+  blockquote,
   .notebook-margin,
-  [class*="section-heading"],
-  [class*="ingredient"],
-  [class*="instruction"],
-  [class*="step"] {
-    page-break-inside: avoid;
+  .dicas,
+  .pull-quote {
+    break-inside: avoid;
   }
 
   /* Typography */
   h1, h2, h3, h4, h5, h6 {
-    page-break-after: avoid;
     color: #0f1419 !important;
     font-weight: bold;
+  }
+
+  h2, h3 {
+    break-after: avoid;
   }
 
   h1 {
@@ -605,6 +598,8 @@ body {
     font-size: 11pt;
     line-height: 1.5;
     color: #0f1419 !important;
+    orphans: 2;
+    widows: 2;
   }
 
   /* Remove backgrounds, shadows, borders (except content-essential ones) */
@@ -619,7 +614,6 @@ body {
   .editorial-ambient-bg::before,
   .review-page-bg {
     background: white !important;
-    background-image: none !important;
   }
 
   /* Keep simple borders for structure */
@@ -671,10 +665,7 @@ body {
   }
 
   /* Recipe-specific adjustments */
-  .ficha-tecnica,
-  [class*="ficha"],
-  [class*="technical"] {
-    page-break-inside: avoid;
+  .ficha-tecnica {
     margin: 12pt 0;
   }
 
@@ -729,7 +720,7 @@ body {
     font-family: var(--font-editorial), Georgia, serif !important;
   }
 
-  /* Pull quotes */
+  /* Pull quotes — emphasized with border */
   .pull-quote,
   blockquote {
     border-left: 3pt solid #0f1419;
@@ -739,13 +730,10 @@ body {
   }
 
   /* Tips/dicas styling */
-  .dicas,
-  [class*="tips"],
-  [class*="dica"] {
+  .dicas {
     border: 1pt solid #0f1419 !important;
     background: white !important;
     padding: 9pt !important;
     margin: 12pt 0;
-    page-break-inside: avoid;
   }
 }
