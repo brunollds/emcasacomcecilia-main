@@ -4,7 +4,7 @@ import { ArrowRight, ChevronRight, PlayCircle } from 'lucide-react';
 import TextToSpeechButton from '@/components/TextToSpeechButton';
 import { ShareBar } from '@/components/shared/ShareBar';
 import { ReviewGallerySection } from './ReviewGallerySection';
-import { ArticleByline, EditorialAmbientBackground, EditorialReveal, SectionHeadingReveal } from '@/components/editorial';
+import { ArticleByline, ChangelogDetails, EditorialAmbientBackground, EditorialReveal, SectionHeadingReveal } from '@/components/editorial';
 import { contentSectionsToPlainText, formatDate, generateSectionIds, type Review, type ReviewViewModel } from '@/lib/content';
 import { ReadingProgressBar } from './ReadingProgressBar';
 import { ReviewContentSections } from './ReviewContentSections';
@@ -249,21 +249,9 @@ export function ReviewNotebookTemplate({
                 action={<TextToSpeechButton text={speechText} />}
               />
               {review.changelog && review.changelog.length > 0 && (
-                <details className="mt-3 text-sm text-[#4a5568]">
-                  <summary className="cursor-pointer font-semibold text-[#1a4d2e] hover:text-[#ff6b35]">
-                    Histórico de atualizações
-                  </summary>
-                  <ul className="mt-2 space-y-1.5 pl-4">
-                    {review.changelog.map((entry, idx) => (
-                      <li key={idx} className="flex flex-col text-xs">
-                        <time dateTime={entry.date} className="font-semibold text-[#1a4d2e]">
-                          {formatDate(entry.date)}
-                        </time>
-                        <span className="mt-0.5 text-[#4a5568]">{entry.text}</span>
-                      </li>
-                    ))}
-                  </ul>
-                </details>
+                <div className="mt-3">
+                  <ChangelogDetails entries={review.changelog} />
+                </div>
               )}
             </EditorialReveal>
 

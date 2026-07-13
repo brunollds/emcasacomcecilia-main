@@ -6,6 +6,7 @@ import { ShareBar } from '@/components/shared/ShareBar';
 import {
   AnimatedTextHighlight,
   ArticleByline,
+  ChangelogDetails,
   DropCapParagraph,
   EditorialAmbientBackground,
   EditorialReveal,
@@ -152,21 +153,7 @@ export function RecipeNotebookTemplate({
 
           {recipe.changelog && recipe.changelog.length > 0 && (
             <EditorialReveal as="div" delay={0.27} className="mb-8">
-              <details className="text-xs text-[#4a5568]">
-                <summary className="cursor-pointer font-semibold text-[#1a4d2e] hover:text-[#ff6b35]">
-                  Histórico de atualizações
-                </summary>
-                <ul className="mt-2 space-y-1 pl-4">
-                  {recipe.changelog.map((entry, idx) => (
-                    <li key={idx} className="flex flex-col">
-                      <time dateTime={entry.date} className="font-semibold text-[#1a4d2e]">
-                        {formatDate(entry.date)}
-                      </time>
-                      <span className="mt-0.5 text-[#4a5568]">{entry.text}</span>
-                    </li>
-                  ))}
-                </ul>
-              </details>
+              <ChangelogDetails entries={recipe.changelog} />
             </EditorialReveal>
           )}
 
