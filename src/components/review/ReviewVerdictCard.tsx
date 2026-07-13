@@ -122,7 +122,7 @@ export function ReviewVerdictCard({
       )}
 
       {(prosItems.length > 0 || consItems.length > 0) && (
-        <div id="pros-e-contras" className="overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft">
+        <div id="pros-e-contras" className="scroll-mt-24 overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft">
           <div className="grid gap-0 md:hidden">
             <div className="border-b border-[#1a4d2e]/10 bg-[#eef7f1] px-5 py-4 text-xs font-bold uppercase tracking-[0.14em] text-[#1a4d2e]">
               <CheckCircle2 className="mb-1 h-4 w-4" />

@@ -16,6 +16,8 @@ export function ChangelogDetails({ entries }: ChangelogDetailsProps): React.Reac
       <summary className="cursor-pointer font-semibold text-[#1a4d2e] hover:text-[#ff6b35] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#ff6b35]">
         Histórico de atualizações
       </summary>
+      {/* Rótulo visível só no print: o CSS de impressão oculta todos os <summary> */}
+      <p className="hidden font-semibold text-[#1a4d2e] print:block">Histórico de atualizações</p>
       <ul className="mt-2 space-y-1.5 pl-4">
         {entries.map((entry) => (
           <li key={entry.date + entry.text.slice(0, 20)} className="flex flex-col text-xs">
