@@ -1,4 +1,4 @@
-// Prepara o deploy do emcasa: build local de verificação + archive de fonte.
+// Prepara o deploy do emcasa: build local de verificação + archive da revisão commitada.
 // Uso: npm run deploy:prepare   [-- --skip-build]
 // Imprime o caminho absoluto do archive no fim (pra sessão Claude fazer o upload via MCP).
 import { execSync, execFileSync } from 'node:child_process';
@@ -13,25 +13,22 @@ if (!args.has('--skip-build')) {
   console.log('  ✅ build ok');
 }
 
-// 2. archive de fonte, da pasta PAI, com os excludes exatos do fluxo que funciona
-console.log('[2/2] criando archive de fonte…');
+// 2. archive da revisão commitada (HEAD), com prefixo emcasacomcecilia/
+console.log('[2/2] criando archive da revisão commitada…');
 const parent = path.resolve('..');
 const archive = path.join(parent, 'emcasacomcecilia-deploy.tar.gz');
-execFileSync('tar', [
-  // caminho de saída no Windows tem "C:" — sem isto o GNU tar o trata como host remoto (Broken pipe)
-  '--force-local',
-  '--exclude=emcasacomcecilia/.next', '--exclude=emcasacomcecilia/node_modules',
-  '--exclude=emcasacomcecilia/.git', '--exclude=emcasacomcecilia/.claude',
-  '--exclude=emcasacomcecilia/.qwen',
-  '--exclude=emcasacomcecilia/.env.local', '--exclude=emcasacomcecilia/.env',
-  '--exclude=emcasacomcecilia/*.tar.gz',
-  // lixo de edição — nunca deve embarcar no build de produção
-  '--exclude=*.bak', '--exclude=*.bak.*', '--exclude=*.work',
-  '--exclude=*.orig', '--exclude=*.rej',
-  // artefatos de diff da migração (gitignored; tar não lê .gitignore)
-  '--exclude=emcasacomcecilia/scripts/content/artifacts',
-  '-czf', archive, 'emcasacomcecilia/',
-], { cwd: parent, stdio: 'inherit' });
+const dirty = execSync('git status --short', { encoding: 'utf8' }).trim();
+if (dirty) {
+  console.log('  ⚠️ working tree suja detectada: o archive vai levar apenas o HEAD commitado.');
+}
+
+execFileSync('git', [
+  'archive',
+  '--format=tar.gz',
+  `--output=${archive}`,
+  '--prefix=emcasacomcecilia/',
+  'HEAD',
+], { stdio: 'inherit' });
 
 console.log(`\n✅ archive pronto: ${archive}`);
 console.log('\nPRÓXIMO PASSO (sessão Claude com MCP Hostinger):');

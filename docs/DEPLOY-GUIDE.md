@@ -43,9 +43,25 @@ Validado em prod: com **nenhum `.env`** no servidor, o processo node tem `NODE_O
 
 ## Fluxo completo
 
-### 0. Editar o conteúdo do artigo (`src/lib/data.ts`)
+### 0. Editar o conteúdo em `content/`
 
-Todo o conteúdo (receitas, reviews, FAQs) vive em `src/lib/data.ts` — é a fonte da verdade.
+A fonte da verdade editorial agora fica em arquivos individuais:
+
+- `content/receitas/<slug>.json`
+- `content/reviews/<slug>.json`
+- `content/receitas/_manifest.json`
+- `content/reviews/_manifest.json`
+
+O `data.ts` continua existindo como camada de tipos/helpers e passa a ler o índice gerado em
+`src/lib/generated/content-index.ts`. Esse índice é regenerado automaticamente a partir de `content/`
+em todo `npm run build`.
+
+Para artigo novo manual:
+
+1. criar o `JSON` em `content/receitas/` ou `content/reviews/`
+2. adicionar o `slug` no `_manifest.json` correspondente
+
+> A posição no `_manifest.json` define a ordem nas listagens.
 
 ```bash
 cd C:/Users/Bruno/Downloads/Emcasacomcecilia/emcasacomcecilia
@@ -54,7 +70,7 @@ npm run validate:content # gate: 0 inconsistências (warnings não-críticos sã
 ```
 
 Só commitar/deployar depois que **os dois gates passam**. Commit em branch (nunca `git add -A` —
-stagear só os arquivos nomeados; deixar `.bak`/`.work` e docs não-rastreados de fora).
+stagear só os arquivos nomeados; deixar `.bak`/`.work`, drafts não publicados e docs não-rastreados de fora).
 
 ### 1. `deploy:prepare` (local, sem impacto em produção)
 
@@ -63,12 +79,17 @@ npm run deploy:prepare          # build de verificação + cria o archive
 # npm run deploy:prepare -- --skip-build   (se o build acabou de passar)
 ```
 
-Faz o build local (pega erro antes de subir) e gera `../emcasacomcecilia-deploy.tar.gz` — archive
-da **pasta PAI** com prefixo `emcasacomcecilia/` (senão o `resolveSettings` da Hostinger dá HTTP 500).
-Já exclui `.next`, `node_modules`, `.git`, `.claude`, `.qwen`, `.env`/`.env.local`, e lixo de edição
-(`.bak/.work/.orig/.rej`). Usa `--force-local` no tar (senão o `C:` do path do Windows quebra o GNU tar).
+Faz o build local (pega erro antes de subir) e gera `../emcasacomcecilia-deploy.tar.gz` via
+**`git archive HEAD`** com prefixo `emcasacomcecilia/` (sem o prefixo, o `resolveSettings` da
+Hostinger dá HTTP 500). Consequências do `git archive` (deliberadas):
 
-`.env.production` **entra de propósito** — só tem `NEXT_PUBLIC_*` (GA4, baked em build time).
+- **O archive leva EXATAMENTE o HEAD commitado** — mudança não commitada NÃO deploya (o script avisa
+  se a árvore estiver suja). Commite antes de deployar.
+- Untracked e gitignored (`.env*` local, `.next`, `node_modules`, artefatos de diff, `.bak`) ficam
+  fora automaticamente — sem lista de excludes nem dependência do tar da plataforma (o tar.exe/bsdtar
+  do Windows era inconsistente).
+
+`.env.production` **entra** porque é rastreado de propósito — só tem `NEXT_PUBLIC_*` (GA4, baked em build time).
 
 ### 2. Deploy via MCP (sessão Claude com ferramentas Hostinger)
 
@@ -82,7 +103,7 @@ Depois faz poll com `hosting_listJsDeployments` até `state: completed` (~1 min)
 retorno que `root_directory: emcasacomcecilia` e `app_type: next`.
 
 > **`state: completed` NÃO é validação suficiente** — o build terminou, mas o app faz cold start
-> (~90-120s) e pode empilhar processo. Sempre rodar o passo 3.
+> (~185s) e pode empilhar processo. Sempre rodar o passo 3.
 
 ### 3. `deploy:finish` — health-check (não muta nada)
 
@@ -91,12 +112,12 @@ npm run deploy:finish
 ```
 
 Com o env no painel, este passo **não reinjeta `.env` nem reinicia** — só **verifica**: espera
-`HTTP 200` (até 180s, cobrindo o cold start) → confirma que os vídeos populam (thumbnails `ytimg`,
+`HTTP 200` (até 240s, cobrindo o cold start real de ~185s) → confirma que os vídeos populam (thumbnails `ytimg`,
 prova de que o `YOUTUBE_API_KEY` do painel funciona) → avisa se há pilha de workers. Fail-loud se
 não voltar.
 
-> ⚠️ **O restart do deploy é COLD START (~90-120s de indisponibilidade), não rolling.** O site fica
-> em `000`/`503` nesse intervalo — é **esperado**, não pânico. Se passar de 180s ou ficar em 503,
+> ⚠️ **O restart do deploy é COLD START (~185s de indisponibilidade), não rolling.** O site fica
+> em `000`/`503` nesse intervalo — é **esperado**, não pânico. Se passar de 240s ou ficar em 503,
 > ver Troubleshooting / Recuperação de 503.
 
 ### 4. IndexNow (avisar buscadores)
