@@ -291,38 +291,40 @@ export function ReviewNotebookTemplate({
               {/* Ficha do produto em tabela */}
               {kind === 'produto' && hasProductSpec && (
                 <EditorialReveal as="section" id="especificacoes" className="mb-10 scroll-mt-24">
-                  <details className="group overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft" open>
-                    <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-6 py-4 font-editorial text-xl font-bold text-[#1a4d2e] transition-colors hover:bg-[#faf8f3] md:px-8">
-                      <div className="flex items-center gap-2">
+                  <div className="flex items-start gap-2">
+                    <details className="group flex-1 overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft" open>
+                      <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-6 py-4 font-editorial text-xl font-bold text-[#1a4d2e] transition-colors hover:bg-[#faf8f3] md:px-8">
                         <span>Ficha do produto</span>
-                        <SectionLinkButton anchorId="especificacoes" />
+                        <span className="text-sm font-sans font-bold uppercase tracking-[0.14em] text-[#ff6b35] group-open:hidden">
+                          Abrir
+                        </span>
+                        <span className="hidden text-sm font-sans font-bold uppercase tracking-[0.14em] text-[#ff6b35] group-open:inline">
+                          Fechar
+                        </span>
+                      </summary>
+                      <div className="border-t border-[#1a4d2e]/10 px-6 pb-6 md:px-8 md:pb-8">
+                        <div className="mt-5 overflow-hidden rounded-xl border border-[#1a4d2e]/10">
+                          <table className="w-full text-sm">
+                            <tbody>
+                              {review.productSpec.map((spec, index) => (
+                                <tr key={index} className={index % 2 === 0 ? 'bg-[#faf8f3]' : 'bg-white'}>
+                                  <th className="w-2/5 px-4 py-3 text-left font-semibold text-[#1a4d2e]">
+                                    {spec.key}
+                                  </th>
+                                  <td className={`px-4 py-3 font-medium ${spec.highlight ? 'text-[#ff6b35]' : 'text-[#0f1419]'}`}>
+                                    {spec.value}
+                                  </td>
+                                </tr>
+                              ))}
+                            </tbody>
+                          </table>
+                        </div>
                       </div>
-                      <span className="text-sm font-sans font-bold uppercase tracking-[0.14em] text-[#ff6b35] group-open:hidden">
-                        Abrir
-                      </span>
-                      <span className="hidden text-sm font-sans font-bold uppercase tracking-[0.14em] text-[#ff6b35] group-open:inline">
-                        Fechar
-                      </span>
-                    </summary>
-                    <div className="border-t border-[#1a4d2e]/10 px-6 pb-6 md:px-8 md:pb-8">
-                      <div className="mt-5 overflow-hidden rounded-xl border border-[#1a4d2e]/10">
-                        <table className="w-full text-sm">
-                          <tbody>
-                            {review.productSpec.map((spec, index) => (
-                              <tr key={index} className={index % 2 === 0 ? 'bg-[#faf8f3]' : 'bg-white'}>
-                                <th className="w-2/5 px-4 py-3 text-left font-semibold text-[#1a4d2e]">
-                                  {spec.key}
-                                </th>
-                                <td className={`px-4 py-3 font-medium ${spec.highlight ? 'text-[#ff6b35]' : 'text-[#0f1419]'}`}>
-                                  {spec.value}
-                                </td>
-                              </tr>
-                            ))}
-                          </tbody>
-                        </table>
-                      </div>
+                    </details>
+                    <div className="pt-4">
+                      <SectionLinkButton anchorId="especificacoes" />
                     </div>
-                  </details>
+                  </div>
                 </EditorialReveal>
               )}
 
