@@ -112,7 +112,7 @@ export default function TextToSpeechButton({ text, label = 'Ouvir artigo' }) {
   }
 
   return (
-    <div className="mx-auto mt-6 flex max-w-fit flex-wrap items-center justify-center gap-2 rounded-full border border-[#0f1419]/10 bg-white/90 p-1.5 shadow-sm">
+    <div className="mx-auto mt-6 flex max-w-fit flex-wrap items-center justify-center gap-2 rounded-full border border-[#0f1419]/10 bg-white/90 p-1.5 shadow-sm print:hidden">
       {status === 'idle' && (
         <button
           type="button"

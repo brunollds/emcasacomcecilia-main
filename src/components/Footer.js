@@ -44,7 +44,7 @@ export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-[#0f1d3a] px-6 pb-10 pt-12">
+    <footer className="bg-[#0f1d3a] px-6 pb-10 pt-12 print:hidden">
       <div className="mx-auto max-w-7xl">
         <div className="flex flex-col items-center gap-6 border-b border-white/10 pb-6 text-center lg:flex-row lg:items-center lg:justify-between lg:text-left">
           <Link href="/" className="group flex flex-col items-center justify-center">
