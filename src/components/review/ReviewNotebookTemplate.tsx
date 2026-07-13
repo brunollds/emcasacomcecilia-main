@@ -290,7 +290,7 @@ export function ReviewNotebookTemplate({
 
               {/* Ficha do produto em tabela */}
               {kind === 'produto' && hasProductSpec && (
-                <EditorialReveal as="section" className="mb-10">
+                <EditorialReveal as="section" id="especificacoes" className="mb-10 scroll-mt-24">
                   <details className="group overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft" open>
                     <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-6 py-4 font-editorial text-xl font-bold text-[#1a4d2e] transition-colors hover:bg-[#faf8f3] md:px-8">
                       <span>Ficha do produto</span>

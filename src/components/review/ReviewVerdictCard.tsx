@@ -77,7 +77,7 @@ export function ReviewVerdictCard({
   );
 
   return (
-    <EditorialReveal as="section" className="mb-10 space-y-6">
+    <EditorialReveal as="section" id="veredito" className="mb-10 space-y-6 scroll-mt-24">
       {(hasVerdict || hasRating) && (
         <div className="relative overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft">
           {showSeal && (
@@ -119,7 +119,7 @@ export function ReviewVerdictCard({
       )}
 
       {(prosItems.length > 0 || consItems.length > 0) && (
-        <div className="overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft">
+        <div id="pros-e-contras" className="overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft">
           <div className="grid gap-0 md:hidden">
             <div className="border-b border-[#1a4d2e]/10 bg-[#eef7f1] px-5 py-4 text-xs font-bold uppercase tracking-[0.14em] text-[#1a4d2e]">
               <CheckCircle2 className="mb-1 h-4 w-4" />
