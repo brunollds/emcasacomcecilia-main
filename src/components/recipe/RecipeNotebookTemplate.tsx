@@ -13,6 +13,7 @@ import {
   PretextPullQuote,
   PretextShrinkwrap,
   SectionHeadingReveal,
+  SectionLinkButton,
 } from '@/components/editorial';
 import { formatDate, type Recipe, type RecipeViewModel } from '@/lib/content';
 import RecipeIngredients from './RecipeIngredients';
@@ -214,9 +215,12 @@ export function RecipeNotebookTemplate({
       {/* Ficha técnica integrada */}
       <section id="ficha-tecnica" className="notebook-margin mb-14 scroll-mt-24">
         <div className="mx-auto max-w-4xl">
-          <SectionHeadingReveal as="h2" underlineColor="#ff6b35" className="mb-6 font-editorial text-2xl font-bold text-[#1a4d2e]">
-            Ficha Técnica
-          </SectionHeadingReveal>
+          <div className="mb-6 flex items-center gap-2">
+            <SectionHeadingReveal as="h2" underlineColor="#ff6b35" className="font-editorial text-2xl font-bold text-[#1a4d2e]">
+              Ficha Técnica
+            </SectionHeadingReveal>
+            <SectionLinkButton anchorId="ficha-tecnica" />
+          </div>
 
           <div className="grid grid-cols-2 gap-4 sm:grid-cols-5">
             <EditorialReveal as="div" delay={0} className="rounded-xl border border-[#1a4d2e]/10 bg-white/60 p-4">
@@ -304,6 +308,7 @@ export function RecipeNotebookTemplate({
               variant="notebook"
               hideServingsControl
               servingsStorageKey={servingsStorageKey}
+              headingButton={<SectionLinkButton anchorId="ingredientes" />}
             />
           </div>
 
@@ -316,6 +321,7 @@ export function RecipeNotebookTemplate({
               instructionGroups={displayInstructions}
               baseSlug={recipe.slug}
               variant="notebook"
+              headingButton={<SectionLinkButton anchorId="modo-de-preparo" />}
             />
 
             {recipe.tips && recipe.tips.length > 0 && (
@@ -331,10 +337,13 @@ export function RecipeNotebookTemplate({
                   aria-hidden="true"
                   className="absolute left-1/2 top-0 h-5 w-20 -translate-x-1/2 -translate-y-1/2 rotate-[-2deg] rounded-sm bg-[#ffdf8a]/75 shadow-sm"
                 />
-                <h4 className="mb-3 flex items-center gap-2 font-editorial text-lg font-bold text-[#1a4d2e]">
-                  <Lightbulb size={20} className="text-[#ff6b35]" />
-                  Dicas da Cecília
-                </h4>
+                <div className="mb-3 flex items-center gap-2">
+                  <h4 className="flex items-center gap-2 font-editorial text-lg font-bold text-[#1a4d2e]">
+                    <Lightbulb size={20} className="text-[#ff6b35]" />
+                    Dicas da Cecília
+                  </h4>
+                  <SectionLinkButton anchorId="dicas" />
+                </div>
                 <p className="mb-3 text-xs font-semibold uppercase tracking-[0.14em] text-[#8b5a1f]">
                   Observações práticas para a receita dar certo
                 </p>

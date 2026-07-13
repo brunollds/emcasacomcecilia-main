@@ -10,3 +10,4 @@ export { DropCapParagraph, type DropCapParagraphProps } from './DropCapParagraph
 export { ArticleByline, type ArticleBylineAuthor, type ArticleBylineMeta, type ArticleBylineProps } from './ArticleByline';
 export { TopTenList, type TopTenListProps } from './TopTenList';
 export { ChangelogDetails, type ChangelogDetailsProps, type ChangelogEntry } from './ChangelogDetails';
+export { SectionLinkButton, type SectionLinkButtonProps } from './SectionLinkButton';

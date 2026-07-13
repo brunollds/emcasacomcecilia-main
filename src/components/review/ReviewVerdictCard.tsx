@@ -1,7 +1,7 @@
 'use client';
 
 import { CheckCircle2, Star, XCircle } from 'lucide-react';
-import { EditorialReveal } from '@/components/editorial';
+import { EditorialReveal, SectionLinkButton } from '@/components/editorial';
 import type { Review, ReviewKind } from '@/lib/content';
 
 export interface ReviewVerdictCardProps {
@@ -102,9 +102,12 @@ export function ReviewVerdictCard({
             </div>
 
             <div className="p-6 md:p-8">
-              <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/55">
-                Veredito
-              </p>
+              <div className="mb-3 flex items-center gap-2">
+                <p className="text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/55">
+                  Veredito
+                </p>
+                <SectionLinkButton anchorId="veredito" />
+              </div>
               <p className="font-editorial text-lg italic leading-relaxed text-[#24313d]">
                 &quot;{summary}&quot;
               </p>

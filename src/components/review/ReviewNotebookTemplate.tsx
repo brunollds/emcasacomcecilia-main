@@ -4,7 +4,7 @@ import { ArrowRight, ChevronRight, PlayCircle } from 'lucide-react';
 import TextToSpeechButton from '@/components/TextToSpeechButton';
 import { ShareBar } from '@/components/shared/ShareBar';
 import { ReviewGallerySection } from './ReviewGallerySection';
-import { ArticleByline, ChangelogDetails, EditorialAmbientBackground, EditorialReveal, SectionHeadingReveal } from '@/components/editorial';
+import { ArticleByline, ChangelogDetails, EditorialAmbientBackground, EditorialReveal, SectionHeadingReveal, SectionLinkButton } from '@/components/editorial';
 import { contentSectionsToPlainText, formatDate, generateSectionIds, type Review, type ReviewViewModel } from '@/lib/content';
 import { ReadingProgressBar } from './ReadingProgressBar';
 import { ReviewContentSections } from './ReviewContentSections';
@@ -293,7 +293,10 @@ export function ReviewNotebookTemplate({
                 <EditorialReveal as="section" id="especificacoes" className="mb-10 scroll-mt-24">
                   <details className="group overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft" open>
                     <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-6 py-4 font-editorial text-xl font-bold text-[#1a4d2e] transition-colors hover:bg-[#faf8f3] md:px-8">
-                      <span>Ficha do produto</span>
+                      <div className="flex items-center gap-2">
+                        <span>Ficha do produto</span>
+                        <SectionLinkButton anchorId="especificacoes" />
+                      </div>
                       <span className="text-sm font-sans font-bold uppercase tracking-[0.14em] text-[#ff6b35] group-open:hidden">
                         Abrir
                       </span>

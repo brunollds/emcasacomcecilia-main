@@ -14,6 +14,7 @@ export interface RecipeIngredientsProps {
   variant?: 'default' | 'notebook';
   hideServingsControl?: boolean;
   servingsStorageKey?: string;
+  headingButton?: React.ReactNode;
 }
 
 export function RecipeIngredients({
@@ -25,6 +26,7 @@ export function RecipeIngredients({
   variant = 'default',
   hideServingsControl = false,
   servingsStorageKey,
+  headingButton,
 }: RecipeIngredientsProps): React.ReactElement {
   const [checkedItems, setCheckedItems] = useState<Record<string, boolean>>({});
   const hasControl = Boolean(
@@ -45,9 +47,12 @@ export function RecipeIngredients({
   return (
     <div>
       <div className={`mb-6 ${isNotebook ? 'flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between' : 'flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between'}`}>
-        <SectionHeadingReveal as="h3" underlineColor={isNotebook ? '#ff6b35' : '#ffd700'}>
-          Ingredientes
-        </SectionHeadingReveal>
+        <div className="flex items-center gap-2">
+          <SectionHeadingReveal as="h3" underlineColor={isNotebook ? '#ff6b35' : '#ffd700'}>
+            Ingredientes
+          </SectionHeadingReveal>
+          {headingButton}
+        </div>
 
         {hasControl && !hideServingsControl && (
           <ServingScaleControl
