@@ -85,11 +85,10 @@ export function ReviewNotebookTemplate({
   const readTime = estimateReadTimeMinutes(plainTextBody);
 
   const hasProductRating = kind === 'produto' && typeof review.rating === 'number';
-  const transparencySection = review.contentSections?.find((section) => section.heading === 'Transparência');
   const verdictSection = review.contentSections?.find((section) => section.heading === 'Veredito');
 
   const sectionIds = generateSectionIds(review.contentSections || []);
-  const filteredHeadings: string[] = ['Transparência', 'Veredito'];
+  const filteredHeadings: string[] = ['Veredito'];
 
   const tocItems = (review.contentSections || [])
     .filter((section) => (
@@ -272,9 +271,6 @@ export function ReviewNotebookTemplate({
             </EditorialReveal>
           </header>
 
-          {/* Veredicto de produto */}
-          <ReviewVerdictCard review={review} kind={kind} />
-
           {/* Layout principal + sidebar */}
           <div className="grid gap-8 lg:grid-cols-12 lg:gap-12">
             {/* Conteúdo */}
@@ -456,6 +452,25 @@ export function ReviewNotebookTemplate({
                 </EditorialReveal>
               )}
 
+              {/* Veredito no final do corpo */}
+              {kind === 'produto' && (
+                <EditorialReveal as="section" id="veredito" className="mb-10 scroll-mt-24">
+                  <div className="mb-6 flex items-start gap-2">
+                    <SectionHeadingReveal
+                      as="h2"
+                      underlineColor="#ff6b35"
+                      className="font-editorial text-2xl font-bold text-[#1a4d2e]"
+                    >
+                      Veredito final
+                    </SectionHeadingReveal>
+                    <SectionLinkButton anchorId="veredito" />
+                  </div>
+                  <div className="space-y-6">
+                    <ReviewVerdictCard review={review} kind={kind} />
+                  </div>
+                </EditorialReveal>
+              )}
+
               {/* Share */}
               <EditorialReveal as="section" className="mb-10">
                 <ShareBar
@@ -477,19 +492,10 @@ export function ReviewNotebookTemplate({
                 review={review}
                 kind={kind}
                 tocItems={tocItems}
-                transparencySection={transparencySection}
                 effectiveCta={effectiveCta}
               />
             </aside>
           </div>
-
-          {/* Transparência mobile (quando não há sidebar) */}
-          {transparencySection && (
-            <div className="mt-8 rounded-xl border border-[#1a4d2e]/10 bg-white p-5 text-sm leading-relaxed text-[#4a5568] lg:hidden">
-              <strong className="font-bold text-[#0f1419]">Transparência:</strong>{' '}
-              {transparencySection.paragraphs?.join(' ')}
-            </div>
-          )}
 
           {/* Galeria */}
           {(review.gallery && review.gallery.length > 0) || review.youtubeUrl ? (

@@ -101,6 +101,8 @@ Campos **opcionais** a alinhar entre Em Casa JSON, frontmatter Dicas e `content-
 | Autor | `author` | `PersonRef` (name, slug, role, url, avatar…) | Contrato adota o shape de `PersonRef` (mais rico) |
 | Veredito | `verdict` genérico | `Verdict` (stars 1–5, recommendation union, summary) + pros/cons | Score genérico (`score`/`scoreMax`) só existe na Central; adapter converte p/ stars |
 
+**Regra editorial:** review de tipo **produto** SEMPRE define `verdict` (stars + recommendation + summary); **guia** e **editorial** não exigem.
+
 Campos **genuinamente novos** (não existem em `types.ts` — adicionar como opcionais):
 
 ```ts
@@ -226,6 +228,7 @@ Use como tracking; marcar no PR:
 
 ### Conteúdo / schema
 
+- [x] Regra editorial: review de tipo produto SEMPRE define verdict (stars+recommendation+summary); guia/editorial não exigem
 - [ ] `status` / `changelog` no types + JSON sample (datas: reusar `publishedAt`/`updatedAt` existentes)  
 - [ ] Loaders filtram `status !== 'published'` (nada de rascunho servido em produção)  
 - [ ] `notes[]` opcional no contrato  

@@ -607,6 +607,9 @@ body {
     box-shadow: none !important;
     text-shadow: none !important;
     transform: none !important;
+    opacity: 1 !important;
+    animation: none !important;
+    transition: none !important;
   }
 
   body {
@@ -722,6 +725,11 @@ body {
   .font-handwritten,
   .font-hand-title {
     font-family: var(--font-editorial), Georgia, serif !important;
+  }
+
+  /* Hide iframes in print (video embeds, galleries, etc.) */
+  iframe {
+    display: none !important;
   }
 
   /* Pull quotes — emphasized with border */

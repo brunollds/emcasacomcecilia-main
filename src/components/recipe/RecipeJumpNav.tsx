@@ -26,7 +26,7 @@ export function RecipeJumpNav({
 
   return (
     <EditorialReveal as="div" delay={0.28} className="mb-8 print:hidden">
-      <nav aria-label="Atalhos da receita" className="rounded-xl border border-[#1a4d2e]/10 bg-[#fef9f3] px-4 py-2.5">
+      <nav aria-label="Atalhos da receita" className="rotate-[-0.35deg] rounded-xl bg-[#fff4bf] px-4 py-2.5 shadow-soft">
         <p className="flex flex-wrap items-center gap-2 text-[15px] text-[#1a4d2e]">
           <span className="font-semibold text-[#1a4d2e]">Ir para:</span>
           {links.map((link, index) => (
