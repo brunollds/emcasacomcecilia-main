@@ -9,10 +9,16 @@ export interface RichMarginNoteProps {
   note: EditorialNoteData;
   /**
    * Absolute vertical offset (px) within the positioning container where the anchored line sits.
-   * Provided by the future line-measurement provider (Task 5).
+   * Provided by the line-measurement provider (MarginNoteRail).
    * Undefined = not yet positioned.
    */
   lineTop?: number;
+  /**
+   * Horizontal offset (px) from the left edge of the positioning container to the prose element.
+   * Used to position the note in the left gutter: left = noteLeft - 244px.
+   * Provided by MarginNoteRail after measuring the prose element.
+   */
+  noteLeft?: number;
 }
 
 /**
@@ -27,7 +33,7 @@ export interface RichMarginNoteProps {
  * a relative container (provided by the parent, e.g., content wrapper).
  * When undefined, renders at top of margin stack in static flow (fallback, no layout jump).
  */
-export function RichMarginNote({ note, lineTop }: RichMarginNoteProps): React.ReactElement {
+export function RichMarginNote({ note, lineTop, noteLeft }: RichMarginNoteProps): React.ReactElement {
   // Non-line-anchor notes: delegate to existing pill (all breakpoints)
   if (!note.anchor || !isLineAnchor(note.anchor)) {
     return <EditorialNotePill note={note} />;
@@ -49,9 +55,10 @@ export function RichMarginNote({ note, lineTop }: RichMarginNoteProps): React.Re
         className={`hidden lg:block max-w-[220px] bg-[#fff4bf] rounded-lg p-3 shadow-soft print:hidden ${lineTop === undefined ? 'richnote-fade-in' : ''}`}
         style={{
           transform: 'rotate(-0.35deg)',
-          ...(lineTop !== undefined && {
+          ...(lineTop !== undefined && noteLeft !== undefined && {
             position: 'absolute',
             top: `${lineTop}px`,
+            left: `${noteLeft - 244}px`,
           }),
         }}
       >

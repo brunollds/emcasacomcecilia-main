@@ -42,6 +42,7 @@ export function MarginNoteRail({
 
   const [linePositions, setLinePositions] = useState<Map<string, number>>(new Map());
   const [hasGutterSpace, setHasGutterSpace] = useState(false);
+  const [noteLeft, setNoteLeft] = useState<number>(0);
 
   // Filter notes anchored to this section via line anchor
   const anchoredNotes = notes.filter((note) => {
@@ -51,7 +52,7 @@ export function MarginNoteRail({
   });
 
   const resolveLineTop = useCallback(() => {
-    if (!proseRef.current) return;
+    if (!proseRef.current || !containerRef.current) return;
 
     // Get computed line-height; fallback to 28px if unavailable
     const computed = getComputedStyle(proseRef.current);
@@ -65,9 +66,14 @@ export function MarginNoteRail({
       }
     }
 
+    // Calculate left position of prose element relative to container
+    const proseRect = proseRef.current.getBoundingClientRect();
+    const containerRect = containerRef.current.getBoundingClientRect();
+    const proseLeftRelative = proseRect.left - containerRect.left;
+    setNoteLeft(proseLeftRelative);
+
     // Check if there's real gutter space (left distance to viewport edge)
-    const rect = proseRef.current.getBoundingClientRect();
-    const gutterSpace = rect.left; // Distance to viewport left in px
+    const gutterSpace = proseRect.left; // Distance to viewport left in px
 
     // Gate: only show margin notes if gutter >= 250px AND we're in a large viewport
     // RichMarginNote handles the <lg fallback; this rail adds the >=lg-but-no-space fallback
@@ -133,6 +139,7 @@ export function MarginNoteRail({
               key={note.id || note.label}
               note={note}
               lineTop={lineTop}
+              noteLeft={noteLeft}
             />
           );
         })}

@@ -18,6 +18,7 @@ import {
   SectionLinkButton,
 } from '@/components/editorial';
 import { formatDate, type Recipe, type RecipeViewModel } from '@/lib/content';
+import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 import RecipeIngredients from './RecipeIngredients';
 import RecipeInstructions from './RecipeInstructions';
 import { ServingScaleControl } from './ServingScaleControl';
@@ -64,9 +65,10 @@ export function RecipeNotebookTemplate({
   } as const;
 
   // Separate notes into anchored and unanchored
+  // Exclude both section-id anchored notes and line-anchored notes (which belong to margin rails)
   const notes = recipe.notes || [];
   const validAnchors = new Set(Object.keys(RECIPE_SECTION_INDICES));
-  const unanchoredNotes = notes.filter((note) => !note.anchor || !validAnchors.has(note.anchor));
+  const unanchoredNotes = notes.filter((note) => !note.anchor || (!validAnchors.has(note.anchor) && !isLineAnchor(note.anchor)));
   const getAnchoredNotes = (anchor: string) => notes.filter((note) => note.anchor === anchor);
 
   return (
