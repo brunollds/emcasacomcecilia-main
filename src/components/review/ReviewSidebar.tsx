@@ -125,20 +125,9 @@ export function ReviewSidebar({
             <span className="text-sm font-bold text-[#1a4d2e]">{stars.toFixed(1)}</span>
           </div>
           {recommendation && (
-            <p className="mb-3 text-sm font-bold text-[#1a4d2e]">
+            <p className="text-sm font-bold text-[#1a4d2e]">
               {recommendation === 'recomendo' ? '✓ Recomendo' : recommendation === 'com ressalvas' ? 'Com ressalvas' : 'Não recomendo'}
             </p>
-          )}
-          {effectiveCta?.url && effectiveCta?.label && (
-            <a
-              href={effectiveCta.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#ff6b35] px-5 py-2.5 text-sm font-bold text-white transition-all hover:-translate-y-0.5 hover:bg-[#e55a26] hover:shadow-md"
-            >
-              {effectiveCta.label}
-              <ArrowRight size={16} />
-            </a>
           )}
         </div>
       )}
