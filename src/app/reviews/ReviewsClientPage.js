@@ -6,6 +6,7 @@ import Image from 'next/image';
 import { ArrowRight, Leaf } from 'lucide-react';
 import { getReviewSlug, publishedReviews } from '@/lib/data';
 import { sanitizeViewTransitionName } from '@/lib/viewTransition';
+import { ViewTransitionLink } from '@/components/ViewTransitionLink';
 
 const INITIAL_COUNT = 8;
 const LOAD_MORE_COUNT = 4;
@@ -131,7 +132,7 @@ export default function ReviewsClientPage() {
               const isProductReview = Boolean(review.rating);
 
               return (
-                <Link
+                <ViewTransitionLink
                   key={review.id}
                   href={`/reviews/${getReviewSlug(review)}`}
                   className="group block animate-slide-up"
@@ -215,7 +216,7 @@ export default function ReviewsClientPage() {
                       <div className="mt-2 h-0.5 w-0 bg-[#ff6b35] transition-all duration-500 group-hover:w-12" />
                     </div>
                   </article>
-                </Link>
+                </ViewTransitionLink>
               );
             })}
           </div>

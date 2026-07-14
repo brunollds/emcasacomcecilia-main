@@ -5,6 +5,7 @@ import Image from 'next/image';
 import { useState } from 'react';
 import { usePathname, useRouter, useSearchParams } from 'next/navigation';
 import { sanitizeViewTransitionName } from '@/lib/viewTransition';
+import { ViewTransitionLink } from '@/components/ViewTransitionLink';
 import { ArrowRight, ChefHat, ChevronDown, Clock, Leaf, SlidersHorizontal, X } from 'lucide-react';
 import {
   COLLECTIONS,
@@ -286,7 +287,7 @@ function RecipeResultsGrid({ items }) {
     <>
       <div className="grid grid-cols-2 gap-4 md:grid-cols-3 md:gap-6 xl:grid-cols-4">
         {visibleFilteredRecipes.map((receita, index) => (
-          <Link
+          <ViewTransitionLink
             key={receita.id}
             href={`/receitas/${receita.slug}`}
             className="group block animate-slide-up"
@@ -334,7 +335,7 @@ function RecipeResultsGrid({ items }) {
                 <div className="mt-2 h-0.5 w-0 bg-[#ff6b35] transition-all duration-500 group-hover:w-12" />
               </div>
             </article>
-          </Link>
+          </ViewTransitionLink>
         ))}
       </div>
 
