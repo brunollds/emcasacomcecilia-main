@@ -514,6 +514,18 @@ body {
   }
 }
 
+/* 📍 Rich margin notes — fade in before line measurement (Task 5) */
+.richnote-fade-in {
+  animation: fade-in 0.5s ease-out;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .richnote-fade-in {
+    animation: none;
+    opacity: 1;
+  }
+}
+
 /* Impressão — Versão Limpa */
 @media print {
   /* Reset global print layout */
