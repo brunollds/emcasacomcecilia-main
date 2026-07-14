@@ -362,6 +362,8 @@ export interface Review {
   isPopular?: boolean;
   isNew?: boolean;
   hideFromListings?: boolean;
+  homeFeatured?: boolean;
+  affiliate?: string;
 
   // SEO
   metaDescription?: string;

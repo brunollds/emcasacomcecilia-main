@@ -190,6 +190,8 @@ export interface Review {
   authors?: PersonRef[];
   isNew?: boolean;
   hideFromListings?: boolean;
+  homeFeatured?: boolean;
+  affiliate?: string;
   image?: string;
   imageAlt?: string;
   imageAspect?: 'landscape' | 'portrait' | 'square';
