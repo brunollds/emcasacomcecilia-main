@@ -57,3 +57,23 @@ export function cancelSpeech(): void {
     window.speechSynthesis.cancel();
   }
 }
+
+/**
+ * Pauses ongoing speech synthesis.
+ * Safe to call on unsupported browsers or when no speech is playing.
+ */
+export function pauseSpeech(): void {
+  if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
+    window.speechSynthesis.pause();
+  }
+}
+
+/**
+ * Resumes paused speech synthesis.
+ * Safe to call on unsupported browsers or when speech is not paused.
+ */
+export function resumeSpeech(): void {
+  if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
+    window.speechSynthesis.resume();
+  }
+}

@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState, useSyncExternalStore } from 'react';
 import { Pause, Play, RotateCcw, Square } from 'lucide-react';
-import { splitIntoChunks, createUtterance, cancelSpeech } from '@/lib/tts';
+import { splitIntoChunks, createUtterance, cancelSpeech, pauseSpeech, resumeSpeech } from '@/lib/tts';
 
 function subscribeToHydration() {
   return () => {};
@@ -20,6 +20,7 @@ export default function TextToSpeechButton({ text, label = 'Ouvir artigo' }) {
   const [status, setStatus] = useState('idle');
   const chunksRef = useRef([]);
   const indexRef = useRef(0);
+  const generationRef = useRef(0);
   const isHydrated = useSyncExternalStore(
     subscribeToHydration,
     getHydratedSnapshot,
@@ -30,6 +31,7 @@ export default function TextToSpeechButton({ text, label = 'Ouvir artigo' }) {
   useEffect(() => {
     return () => {
       cancelSpeech();
+      generationRef.current += 1;
     };
   }, []);
 
@@ -42,14 +44,20 @@ export default function TextToSpeechButton({ text, label = 'Ouvir artigo' }) {
 
     indexRef.current = index;
     const utterance = createUtterance(chunksRef.current[index]);
+    // Capture generation token to guard against stale callbacks from cancelled utterances.
+    const capturedGeneration = generationRef.current;
 
     utterance.onend = () => {
+      // Ignore callback if generation has changed (utterance was cancelled externally).
+      if (generationRef.current !== capturedGeneration) return;
       if (indexRef.current === index) {
         speakChunk(index + 1);
       }
     };
 
     utterance.onerror = () => {
+      // Ignore error if generation has changed (utterance was cancelled externally).
+      if (generationRef.current !== capturedGeneration) return;
       setStatus('idle');
       indexRef.current = 0;
     };
@@ -62,26 +70,29 @@ export default function TextToSpeechButton({ text, label = 'Ouvir artigo' }) {
     if (!isSupported || !text) return;
 
     cancelSpeech();
+    generationRef.current += 1;
     chunksRef.current = splitIntoChunks(text);
     speakChunk(0);
   }
 
   function pause() {
-    window.speechSynthesis.pause();
+    pauseSpeech();
     setStatus('paused');
   }
 
   function resume() {
-    window.speechSynthesis.resume();
+    resumeSpeech();
     setStatus('playing');
   }
 
   function stop() {
     cancelSpeech();
+    generationRef.current += 1;
     indexRef.current = 0;
     setStatus('idle');
   }
 
+  // Intentional null-render when unsupported: prevents hydration mismatch and gracefully degrades.
   if (!isSupported || !text) {
     return null;
   }

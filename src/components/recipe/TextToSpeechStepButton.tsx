@@ -30,6 +30,7 @@ export function TextToSpeechStepButton({
 }: TextToSpeechStepButtonProps): React.ReactElement | null {
   const [isPlaying, setIsPlaying] = useState(false);
   const utteranceRef = useRef<SpeechSynthesisUtterance | null>(null);
+  const generationRef = useRef(0);
   const isHydrated = useSyncExternalStore(
     subscribeToHydration,
     getHydratedSnapshot,
@@ -44,6 +45,7 @@ export function TextToSpeechStepButton({
   useEffect(() => {
     return () => {
       cancelSpeech();
+      generationRef.current += 1;
       setIsPlaying(false);
     };
   }, []);
@@ -56,14 +58,21 @@ export function TextToSpeechStepButton({
 
     // Cancel any other ongoing speech (single-player rule)
     cancelSpeech();
+    generationRef.current += 1;
 
     utteranceRef.current = createUtterance(text);
+    // Capture generation token to guard against stale callbacks from cancelled utterances.
+    const capturedGeneration = generationRef.current;
 
     utteranceRef.current.onend = () => {
+      // Ignore callback if generation has changed (utterance was cancelled externally).
+      if (generationRef.current !== capturedGeneration) return;
       setIsPlaying(false);
     };
 
     utteranceRef.current.onerror = () => {
+      // Ignore error if generation has changed (utterance was cancelled externally).
+      if (generationRef.current !== capturedGeneration) return;
       setIsPlaying(false);
     };
 
@@ -76,6 +85,7 @@ export function TextToSpeechStepButton({
    */
   function stop() {
     cancelSpeech();
+    generationRef.current += 1;
     utteranceRef.current = null;
     setIsPlaying(false);
   }
@@ -88,6 +98,7 @@ export function TextToSpeechStepButton({
     }
   }
 
+  // Intentional null-render when unsupported: prevents hydration mismatch and gracefully degrades.
   if (!isSupported || !text) {
     return null;
   }
