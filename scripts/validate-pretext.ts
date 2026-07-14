@@ -1,6 +1,8 @@
 // Validação isolada da infraestrutura Pretext.
 // Não importa React nem componentes de browser.
 
+import fs from 'fs';
+import path from 'path';
 import { prepare, layout, prepareWithSegments, clearCache } from '@chenglou/pretext';
 import {
   prepareRichInline,
@@ -222,6 +224,113 @@ try {
   report(
     false,
     `Line anchor codec falhou: ${err instanceof Error ? err.message : String(err)}`
+  );
+}
+
+// ---------------------------------------------------------------------------
+// 8. Validação de conteúdo: âncoras em notes[] dos JSONs
+// ---------------------------------------------------------------------------
+
+const SECTION_ID_PATTERN = /^[a-z0-9-]+$/;
+
+function isSectionIdAnchor(anchor: string): boolean {
+  return SECTION_ID_PATTERN.test(anchor);
+}
+
+interface ContentFile {
+  id?: number;
+  slug: string;
+  notes?: Array<{
+    id?: string;
+    label: string;
+    body: string;
+    placement?: 'margin' | 'inline';
+    anchor?: string;
+  }>;
+  [key: string]: unknown;
+}
+
+function validateContentFile(filePath: string): Array<{ slug: string; error: string }> {
+  const errors: Array<{ slug: string; error: string }> = [];
+
+  try {
+    const content = fs.readFileSync(filePath, 'utf-8');
+    const data: ContentFile = JSON.parse(content);
+
+    if (!data.notes || !Array.isArray(data.notes)) {
+      return errors;
+    }
+
+    const fileName = path.basename(filePath);
+
+    for (const note of data.notes) {
+      if (!note.anchor) {
+        // Unanchored notes are fine
+        continue;
+      }
+
+      // Anchor must be either a valid line anchor or a valid section id
+      const isLine = isLineAnchor(note.anchor);
+      const isSection = isSectionIdAnchor(note.anchor);
+
+      if (!isLine && !isSection) {
+        errors.push({
+          slug: data.slug,
+          error: `${fileName}: Nota "${note.label}" tem âncora inválida "${note.anchor}". Esperado: S{sectionIndex}:L{lineNumber} (ex: S2:L7) ou section id (ex: ingredientes)`,
+        });
+      }
+    }
+  } catch (error) {
+    const fileName = path.basename(filePath);
+    errors.push({
+      slug: 'unknown',
+      error: `${fileName}: Falha ao analisar arquivo: ${error instanceof Error ? error.message : String(error)}`,
+    });
+  }
+
+  return errors;
+}
+
+try {
+  const contentDir = path.join(process.cwd(), 'src', 'content');
+  const reviewsDir = path.join(contentDir, 'reviews');
+  const recipesDir = path.join(contentDir, 'receitas');
+
+  const contentErrors: Array<{ slug: string; error: string }> = [];
+
+  // Validar reviews
+  if (fs.existsSync(reviewsDir)) {
+    const files = fs.readdirSync(reviewsDir).filter((f) => f.endsWith('.json'));
+    for (const file of files) {
+      const filePath = path.join(reviewsDir, file);
+      contentErrors.push(...validateContentFile(filePath));
+    }
+  }
+
+  // Validar receitas
+  if (fs.existsSync(recipesDir)) {
+    const files = fs.readdirSync(recipesDir).filter((f) => f.endsWith('.json'));
+    for (const file of files) {
+      const filePath = path.join(recipesDir, file);
+      contentErrors.push(...validateContentFile(filePath));
+    }
+  }
+
+  const hasContentErrors = contentErrors.length > 0;
+  report(
+    !hasContentErrors,
+    `Âncoras em content/reviews/*.json e content/receitas/*.json são válidas${hasContentErrors ? ` — ${contentErrors.length} erro(s) encontrado(s)` : ''}`
+  );
+
+  if (contentErrors.length > 0) {
+    for (const err of contentErrors) {
+      console.log(`     ${err.error}`);
+    }
+  }
+} catch (err) {
+  report(
+    false,
+    `Validação de conteúdo falhou: ${err instanceof Error ? err.message : String(err)}`
   );
 }
 

@@ -1,7 +1,8 @@
 'use client';
 
-import { EditorialReveal, SectionHeadingReveal, EditorialNotePill } from '@/components/editorial';
+import { EditorialReveal, SectionHeadingReveal, EditorialNotePill, MarginNoteRail } from '@/components/editorial';
 import { ReviewSectionContent } from './ReviewSectionContent';
+import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 import type { ContentSection, ReviewKind, EditorialNoteData } from '@/lib/content';
 
 export interface ReviewContentSectionsProps {
@@ -39,8 +40,9 @@ export function ReviewContentSections({
         const stepNumber = getStepNumber(section.heading);
         const isFirst = index === 0;
 
-        // Find notes anchored to this section
-        const anchoredNotes = notes.filter((note) => note.anchor === sectionId);
+        // Separate section-id anchored notes (pills) from line-anchored notes (margin rail)
+        const sectionIdNotes = notes.filter((note) => note.anchor === sectionId);
+        const lineAnchoredNotes = notes.filter((note) => note.anchor && isLineAnchor(note.anchor));
 
         return (
           <EditorialReveal
@@ -64,9 +66,9 @@ export function ReviewContentSections({
                   >
                     {stepNumber ? section.heading.replace(/^\d+\.\s+/, '') : section.heading}
                   </SectionHeadingReveal>
-                  {anchoredNotes.length > 0 && (
+                  {sectionIdNotes.length > 0 && (
                     <div className="mt-3 flex flex-wrap gap-2">
-                      {anchoredNotes.map((note) => (
+                      {sectionIdNotes.map((note) => (
                         <EditorialNotePill key={note.id || note.label} note={note} />
                       ))}
                     </div>
@@ -75,12 +77,14 @@ export function ReviewContentSections({
               </div>
             )}
 
-            <ReviewSectionContent
-              section={section}
-              reviewTitle={reviewTitle}
-              isFirst={isFirst}
-              kind={kind}
-            />
+            <MarginNoteRail notes={lineAnchoredNotes} sectionIndex={index}>
+              <ReviewSectionContent
+                section={section}
+                reviewTitle={reviewTitle}
+                isFirst={isFirst}
+                kind={kind}
+              />
+            </MarginNoteRail>
           </EditorialReveal>
         );
       })}
