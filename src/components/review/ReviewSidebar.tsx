@@ -2,8 +2,9 @@
 
 import { ArrowRight, Check, Copy, ExternalLink, Star } from 'lucide-react';
 import Link from 'next/link';
-import { useState } from 'react';
-import { ReviewTableOfContents, type TocItem } from './ReviewTableOfContents';
+import { useEffect, useRef, useState } from 'react';
+import { copyTextWithFallback } from '@/lib/clipboardUtils';
+import type { TocItem } from './ReviewTableOfContents';
 import type { Review, ReviewKind } from '@/lib/content';
 
 export interface ReviewSidebarProps {
@@ -36,7 +37,7 @@ function StarRating({ rating }: { rating: number }): React.ReactElement {
   );
 }
 
-function SidebarConversionCards({
+export function SidebarConversionCards({
   coupon,
   effectiveCta,
 }: {
@@ -44,36 +45,54 @@ function SidebarConversionCards({
   effectiveCta?: { url: string; label: string; text?: string } | null;
 }): React.ReactElement | null {
   const [copied, setCopied] = useState(false);
+  const timeoutRef = useRef<NodeJS.Timeout | null>(null);
 
   const handleCopy = async () => {
     if (!coupon) return;
 
-    try {
-      await navigator.clipboard.writeText(coupon);
-      setCopied(true);
-      window.setTimeout(() => setCopied(false), 1800);
-    } catch {
-      setCopied(false);
+    const success = await copyTextWithFallback(coupon);
+    if (!success) return;
+
+    setCopied(true);
+
+    if (timeoutRef.current) {
+      clearTimeout(timeoutRef.current);
     }
+
+    timeoutRef.current = setTimeout(() => {
+      setCopied(false);
+    }, 2200);
   };
+
+  // Cleanup on unmount
+  useEffect(() => {
+    return () => {
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+      }
+    };
+  }, []);
 
   if (!coupon && !effectiveCta?.url) return null;
 
   return (
     <div className="space-y-3">
       {coupon && (
-        <div className="rounded-xl border border-[#1a4d2e]/10 bg-white p-4 shadow-soft">
-          <div className="mb-2 flex items-center justify-between gap-3 rounded-xl border border-dashed border-[#1a4d2e]/20 bg-[#faf8f3] px-4 py-3">
-            <span className="font-mono text-lg font-black tracking-[0.08em] text-[#1a4d2e]">{coupon}</span>
-            <button
-              type="button"
-              onClick={handleCopy}
-              className="inline-flex h-9 w-9 items-center justify-center rounded-full bg-[#1a4d2e] text-white transition-all hover:-translate-y-0.5 hover:bg-[#ff6b35] hover:shadow-md"
-              aria-label={`Copiar código ${coupon}`}
-            >
-              {copied ? <Check size={17} /> : <Copy size={17} />}
-            </button>
-          </div>
+        <div className="space-y-2">
+          <button
+            type="button"
+            onClick={handleCopy}
+            className={`flex w-full items-center justify-center gap-2 rounded-full border-2 px-4 py-2 font-mono text-base font-black tracking-[0.08em] transition-all motion-safe:hover:-translate-y-px motion-safe:hover:shadow-md ${
+              copied
+                ? 'border-[#1a7f37] bg-[#f0fdf4] text-[#1a7f37]'
+                : 'border-dashed border-[#ff6b35]/60 bg-gradient-to-b from-[#fef9f3] to-[#fff4bf] text-[#1a4d2e] hover:shadow-md'
+            }`}
+            style={{ minHeight: '2.75rem' }}
+            aria-label={copied ? 'Cupom copiado' : `Copiar código ${coupon}`}
+          >
+            {coupon}
+            {copied ? <Check size={18} /> : <Copy size={18} />}
+          </button>
           <p className="text-xs leading-relaxed text-[#4a5568]">
             {copied ? 'Código copiado. Cole no campo correto do checkout.' : 'Copie antes de ir para a loja.'}
           </p>
@@ -81,28 +100,35 @@ function SidebarConversionCards({
       )}
 
       {effectiveCta?.url && effectiveCta?.label && (
-        <div>
-          <a
-            href={effectiveCta.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#ff6b35] px-5 py-2.5 text-sm font-bold text-white transition-all hover:-translate-y-0.5 hover:bg-[#e55a26] hover:shadow-md"
-          >
-            {effectiveCta.label}
-            <ExternalLink size={16} />
-          </a>
-        </div>
+        <a
+          href={effectiveCta.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#ff6b35] px-5 py-2.5 text-sm font-bold text-white transition-all hover:-translate-y-0.5 hover:bg-[#e55a26] hover:shadow-md"
+        >
+          {effectiveCta.label}
+          <ExternalLink size={16} />
+        </a>
       )}
     </div>
   );
 }
 
-export function ReviewSidebar({
+export interface ReviewSidebarContentProps {
+  review: Review;
+  kind: ReviewKind;
+  tocItems: TocItem[];
+  effectiveCta?: { url: string; label: string; text?: string } | null;
+  onTocLinkClick?: () => void;
+}
+
+export function ReviewSidebarContent({
   review,
   kind,
   tocItems,
   effectiveCta,
-}: ReviewSidebarProps): React.ReactElement | null {
+  onTocLinkClick,
+}: ReviewSidebarContentProps): React.ReactElement | null {
   // Unified order for all kinds
   const stars = kind === 'produto' ? review.verdict?.stars ?? review.rating : undefined;
   const recommendation = kind === 'produto' ? review.verdict?.recommendation : undefined;
@@ -116,7 +142,32 @@ export function ReviewSidebar({
 
   return (
     <div className="space-y-6">
-      {/* 1. Verdict card (only produto with stars) */}
+      {/* 1. Table of Contents (TOC first) */}
+      {hasToc && (
+        <nav aria-label="Navegação por capítulos" className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
+          <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">
+            Nesta análise
+          </p>
+          <ul className="space-y-1">
+            {tocItems.map((item) => (
+              <li key={item.id}>
+                <a
+                  href={`#${item.id}`}
+                  onClick={onTocLinkClick}
+                  className="block rounded-lg px-3 py-2 text-sm text-[#4a5568] transition-colors hover:bg-[#1a4d2e]/5 hover:text-[#1a4d2e]"
+                >
+                  {item.heading}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      )}
+
+      {/* 2. Conversion cards (coupon + CTA) */}
+      {hasConversionContent && <SidebarConversionCards coupon={review.coupon} effectiveCta={effectiveCta} />}
+
+      {/* 3. Verdict card (only produto with stars) */}
       {typeof stars === 'number' && (
         <div className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
           <p className="mb-2 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">Veredito da Cecília</p>
@@ -131,12 +182,6 @@ export function ReviewSidebar({
           )}
         </div>
       )}
-
-      {/* 2. Conversion cards (coupon + CTA) */}
-      {hasConversionContent && <SidebarConversionCards coupon={review.coupon} effectiveCta={effectiveCta} />}
-
-      {/* 3. Table of Contents */}
-      {hasToc && <ReviewTableOfContents items={tocItems} />}
 
       {/* 4. Related articles block */}
       {hasRelated && (
@@ -158,5 +203,21 @@ export function ReviewSidebar({
         </div>
       )}
     </div>
+  );
+}
+
+export function ReviewSidebar({
+  review,
+  kind,
+  tocItems,
+  effectiveCta,
+}: ReviewSidebarProps): React.ReactElement | null {
+  return (
+    <ReviewSidebarContent
+      review={review}
+      kind={kind}
+      tocItems={tocItems}
+      effectiveCta={effectiveCta}
+    />
   );
 }

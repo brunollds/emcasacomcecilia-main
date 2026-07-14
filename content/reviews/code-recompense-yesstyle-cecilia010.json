@@ -235,5 +235,11 @@
     "url": "https://www.yesstyle.com"
   },
   "coupon": "CECILIA010",
+  "notes": [
+    {
+      "label": "Le conseil de Cecília",
+      "body": "Le champ du code se trouve au moment du paiement, sous « Reward Code ». Copiez CECILIA010 avant d'ouvrir la boutique : il ne restera qu'à le coller en finalisant la commande."
+    }
+  ],
   "editorialNote": "Cet article contient des liens d'affiliation. Lorsque vous utilisez le code de récompense CECILIA010, le blog Em Casa com Cecília peut percevoir une commission ou des avantages sans coût additionnel pour vous. Toutes les informations sont issues de recherches et d'expériences vécues. Les règles douanières et conditions de la boutique peuvent changer."
 }

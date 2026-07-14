@@ -29182,6 +29182,13 @@ export const reviewsData: unknown[] = [
       "url": "https://www.yesstyle.com"
     },
     "coupon": "CECILIA010",
+    "notes": [
+      {
+        "label": "Dica da Cecília",
+        "body": "O campo do código fica no checkout, em \"Reward Code\". Copie o CECILIA010 antes de abrir a loja — assim é só colar na hora de fechar o pedido.",
+        "anchor": "como-funciona-o-codigo-cecilia010"
+      }
+    ],
     "editorialNote": "Este artigo contém links e códigos de afiliado. O CECILIA010 é um código de influenciador registrado na plataforma YesStyle. Quando você usa este código, o blog Em Casa Com Cecília pode receber uma comissão, crédito ou benefício de afiliado, sem nenhum custo adicional para você. Todas as informações são baseadas em pesquisa e experiência pessoal. Não recebi pagamento direto da YesStyle para escrever este artigo, mas existe uma relação de parceria comercial através do programa de influenciadores. Os cupons de desconto YesStyle mudam com frequência; sempre verifique os cupons válidos no site oficial da YesStyle antes de comprar. A informação sobre taxas de importação e política de reembolso é baseada nas regras informadas pela YesStyle e pode mudar. Consulte também os órgãos oficiais brasileiros para informações atualizadas sobre tributação de importação."
   },
   {
@@ -29420,6 +29427,12 @@ export const reviewsData: unknown[] = [
       "url": "https://www.yesstyle.com"
     },
     "coupon": "CECILIA010",
+    "notes": [
+      {
+        "label": "Cecília's tip",
+        "body": "The code field is at checkout, under \"Reward Code\". Copy CECILIA010 before you open the store so you can just paste it when placing your order."
+      }
+    ],
     "editorialNote": "This article contains affiliate links. When you use the reward code CECILIA010, the blog Em Casa com Cecília may receive a commission, credit, or referral points from YesStyle at no additional cost to you. All recommendations are based on research and personal experience. Store policies and import taxes can change; always check official guidelines."
   },
   {
@@ -29658,6 +29671,12 @@ export const reviewsData: unknown[] = [
       "url": "https://www.yesstyle.com"
     },
     "coupon": "CECILIA010",
+    "notes": [
+      {
+        "label": "Consejo de Cecília",
+        "body": "El campo del código está en el checkout, en \"Reward Code\". Copia CECILIA010 antes de abrir la tienda y pégalo al finalizar tu pedido."
+      }
+    ],
     "editorialNote": "Este artículo contiene enlaces de afiliados. Cuando utilizas el código de recompensa CECILIA010, el blog Em Casa com Cecília puede recibir una comisión o beneficios sin coste adicional para ti. Toda la información está basada en investigación y experiencia personal. Las condiciones aduaneras y políticas de la tienda pueden variar."
   },
   {
@@ -29897,6 +29916,12 @@ export const reviewsData: unknown[] = [
       "url": "https://www.yesstyle.com"
     },
     "coupon": "CECILIA010",
+    "notes": [
+      {
+        "label": "Le conseil de Cecília",
+        "body": "Le champ du code se trouve au moment du paiement, sous « Reward Code ». Copiez CECILIA010 avant d'ouvrir la boutique : il ne restera qu'à le coller en finalisant la commande."
+      }
+    ],
     "editorialNote": "Cet article contient des liens d'affiliation. Lorsque vous utilisez le code de récompense CECILIA010, le blog Em Casa com Cecília peut percevoir une commission ou des avantages sans coût additionnel pour vous. Toutes les informations sont issues de recherches et d'expériences vécues. Les règles douanières et conditions de la boutique peuvent changer."
   },
   {
@@ -30135,6 +30160,12 @@ export const reviewsData: unknown[] = [
       "url": "https://www.yesstyle.com"
     },
     "coupon": "CECILIA010",
+    "notes": [
+      {
+        "label": "Cecílias Tipp",
+        "body": "Das Codefeld findest du im Checkout unter \"Reward Code\". Kopiere CECILIA010, bevor du den Shop öffnest – beim Bestellen einfach einfügen."
+      }
+    ],
     "editorialNote": "Dieser Artikel enthält Affiliate-Links. Wenn du den Belohnungscode CECILIA010 nutzt, kann der Blog Em Casa com Cecília eine Provision oder Vorteile erhalten, ohne dass dir zusätzliche Kosten entstehen. Alle Informationen basieren auf Recherchen und persönlicher Erfahrung. Zollbestimmungen und Richtlinien des Shops können sich ändern."
   },
   {
@@ -30151,6 +30182,12 @@ export const reviewsData: unknown[] = [
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "YesStyle의 한국 스킨케어 제품",
     "coupon": "CECILIA010",
+    "notes": [
+      {
+        "label": "세실리아의 팁",
+        "body": "코드 입력란은 결제 화면의 \"Reward Code\"에 있습니다. 스토어를 열기 전에 CECILIA010을 복사해 두면 주문할 때 붙여넣기만 하면 됩니다."
+      }
+    ],
     "cta": {
       "text": "YesStyle 결제 시 CECILIA010을 사용하세요.",
       "label": "YesStyle에서 코드 사용",
@@ -30211,6 +30248,12 @@ export const reviewsData: unknown[] = [
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "YesStyleの韓国スキンケア製品",
     "coupon": "CECILIA010",
+    "notes": [
+      {
+        "label": "セシリアのヒント",
+        "body": "コード入力欄はチェックアウト画面の「Reward Code」にあります。ストアを開く前にCECILIA010をコピーしておくと、注文時に貼り付けるだけで済みます。"
+      }
+    ],
     "cta": {
       "text": "YesStyleのチェックアウトでCECILIA010を使いましょう。",
       "label": "YesStyleでコードを使う",
@@ -30271,6 +30314,12 @@ export const reviewsData: unknown[] = [
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "YesStyle 韓國護膚產品",
     "coupon": "CECILIA010",
+    "notes": [
+      {
+        "label": "塞西莉亞的小提示",
+        "body": "優惠碼輸入框在結帳頁面的「Reward Code」處。打開商店前先複製 CECILIA010，下單時直接貼上即可。"
+      }
+    ],
     "cta": {
       "text": "在 YesStyle 結帳時使用 CECILIA010。",
       "label": "前往 YesStyle 使用代碼",
@@ -30331,6 +30380,12 @@ export const reviewsData: unknown[] = [
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "YesStyle 韩国护肤产品",
     "coupon": "CECILIA010",
+    "notes": [
+      {
+        "label": "塞西莉亚的小贴士",
+        "body": "优惠码输入框在结算页面的“Reward Code”处。打开商店前先复制 CECILIA010，下单时直接粘贴即可。"
+      }
+    ],
     "cta": {
       "text": "在 YesStyle 结账时使用 CECILIA010。",
       "label": "前往 YesStyle 使用代码",

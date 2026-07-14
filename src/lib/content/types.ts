@@ -12,6 +12,14 @@ export interface Image {
   height?: number;
 }
 
+export interface EditorialNoteData {
+  id?: string;
+  label: string;          // note title shown on the pill and sheet header
+  body: string;           // plain text; paragraphs separated by \n\n
+  placement?: 'margin' | 'inline';  // reserved; current UI treats both the same
+  anchor?: string;        // stable section id the note attaches to
+}
+
 export interface PersonRef {
   name: string;
   slug: string;
@@ -184,6 +192,9 @@ export interface Recipe {
   // Avaliação
   rating?: RecipeRating;
 
+  // Editorial notes
+  notes?: EditorialNoteData[];
+
   // SEO
   metaDescription?: string;
   canonical?: string;
@@ -342,6 +353,7 @@ export interface Review {
   // Relacionados e rodapé
   relatedArticles?: ArticleRef[];
   editorialNote?: string;
+  notes?: EditorialNoteData[];
 
   // Taxonomia e flags
   tags?: string[];

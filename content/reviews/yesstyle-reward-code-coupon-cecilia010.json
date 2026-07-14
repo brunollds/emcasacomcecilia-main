@@ -234,5 +234,11 @@
     "url": "https://www.yesstyle.com"
   },
   "coupon": "CECILIA010",
+  "notes": [
+    {
+      "label": "Cecília's tip",
+      "body": "The code field is at checkout, under \"Reward Code\". Copy CECILIA010 before you open the store so you can just paste it when placing your order."
+    }
+  ],
   "editorialNote": "This article contains affiliate links. When you use the reward code CECILIA010, the blog Em Casa com Cecília may receive a commission, credit, or referral points from YesStyle at no additional cost to you. All recommendations are based on research and personal experience. Store policies and import taxes can change; always check official guidelines."
 }

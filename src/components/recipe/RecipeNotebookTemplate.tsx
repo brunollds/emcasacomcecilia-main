@@ -9,6 +9,7 @@ import {
   ChangelogDetails,
   DropCapParagraph,
   EditorialAmbientBackground,
+  EditorialNotePill,
   EditorialReveal,
   PretextPullQuote,
   PretextShrinkwrap,
@@ -50,6 +51,12 @@ export function RecipeNotebookTemplate({
   const { displayIngredients, displayInstructions, hasServingsControl } = viewModel;
   const primaryBreadcrumbChip = taxonomyChips.find((chip) => chip.primary) ?? taxonomyChips[0];
   const servingsStorageKey = `serving-scale-${recipe.slug}`;
+
+  // Separate notes into anchored and unanchored
+  const notes = recipe.notes || [];
+  const validAnchors = new Set(['ficha-tecnica', 'ingredientes', 'modo-de-preparo', 'dicas']);
+  const unanchoredNotes = notes.filter((note) => !note.anchor || !validAnchors.has(note.anchor));
+  const getAnchoredNotes = (anchor: string) => notes.filter((note) => note.anchor === anchor);
 
   return (
     <EditorialAmbientBackground variant="recipe" className="notebook-paper min-h-screen pb-20">
@@ -159,6 +166,14 @@ export function RecipeNotebookTemplate({
             </EditorialReveal>
           )}
 
+          {unanchoredNotes.length > 0 && (
+            <EditorialReveal as="div" delay={0.28} className="mb-8 flex flex-wrap gap-2">
+              {unanchoredNotes.map((note) => (
+                <EditorialNotePill key={note.id || note.label} note={note} />
+              ))}
+            </EditorialReveal>
+          )}
+
           <RecipeJumpNav
             hasFichaTecnica={true}
             hasIngredientes={displayIngredients && displayIngredients.length > 0}
@@ -221,6 +236,13 @@ export function RecipeNotebookTemplate({
             </SectionHeadingReveal>
             <SectionLinkButton anchorId="ficha-tecnica" />
           </div>
+          {getAnchoredNotes('ficha-tecnica').length > 0 && (
+            <div className="mb-6 flex flex-wrap gap-2">
+              {getAnchoredNotes('ficha-tecnica').map((note) => (
+                <EditorialNotePill key={note.id || note.label} note={note} />
+              ))}
+            </div>
+          )}
 
           <div className="grid grid-cols-2 gap-4 sm:grid-cols-5">
             <EditorialReveal as="div" delay={0} className="rounded-xl border border-[#1a4d2e]/10 bg-white/60 p-4">
@@ -299,6 +321,13 @@ export function RecipeNotebookTemplate({
       <section className="notebook-margin mb-14">
         <div className="grid min-w-0 gap-10 md:grid-cols-12 md:gap-0">
           <div id="ingredientes" className="scroll-mt-24 md:col-span-5" aria-label="Ingredientes">
+            {getAnchoredNotes('ingredientes').length > 0 && (
+              <div className="mb-4 flex flex-wrap gap-2">
+                {getAnchoredNotes('ingredientes').map((note) => (
+                  <EditorialNotePill key={note.id || note.label} note={note} />
+                ))}
+              </div>
+            )}
             <RecipeIngredients
               slug={recipe.slug}
               structuredIngredients={displayIngredients}
@@ -317,6 +346,13 @@ export function RecipeNotebookTemplate({
             className="relative border-t border-[#8b6f47]/25 pt-10 scroll-mt-24 before:absolute before:left-0 before:top-0 before:h-px before:w-full before:bg-[linear-gradient(90deg,transparent,rgba(139,111,71,0.55),transparent)] md:col-span-7 md:border-l md:border-t-0 md:border-[#8b6f47]/25 md:pl-12 md:pt-0 md:before:left-0 md:before:top-0 md:before:h-full md:before:w-px md:before:bg-[linear-gradient(180deg,transparent,rgba(139,111,71,0.55),transparent)] xl:pl-16"
             aria-label="Modo de preparo"
           >
+            {getAnchoredNotes('modo-de-preparo').length > 0 && (
+              <div className="mb-4 flex flex-wrap gap-2">
+                {getAnchoredNotes('modo-de-preparo').map((note) => (
+                  <EditorialNotePill key={note.id || note.label} note={note} />
+                ))}
+              </div>
+            )}
             <RecipeInstructions
               instructionGroups={displayInstructions}
               baseSlug={recipe.slug}
@@ -329,6 +365,13 @@ export function RecipeNotebookTemplate({
                 id="dicas"
                 className="relative mt-10 scroll-mt-24"
               >
+                {getAnchoredNotes('dicas').length > 0 && (
+                  <div className="mb-4 flex flex-wrap gap-2">
+                    {getAnchoredNotes('dicas').map((note) => (
+                      <EditorialNotePill key={note.id || note.label} note={note} />
+                    ))}
+                  </div>
+                )}
                 <EditorialReveal
                   as="div"
                   className="rotate-[-0.35deg] rounded-xl border border-[#ffb26b]/60 bg-[#fff4bf] p-5 shadow-[0_12px_28px_rgba(74,36,0,0.10)]"

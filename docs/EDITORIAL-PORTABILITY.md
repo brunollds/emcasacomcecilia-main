@@ -56,14 +56,14 @@ Trazer melhorias de leitura / Pretext / publicação testadas no blog **Dicas** 
 
 | ID Dicas | Feature | Em Casa | Damie | Notas de port |
 |----------|---------|---------|-------|----------------|
-| P1 | Atualizado em + changelog | ⏳ | ⏳ | Campos JSON + byline |
+| P1 | Atualizado em + changelog | ✅ | ⏳ | Campos JSON + byline |
 | P2 | Veredito sticky / compacto | ✅ parcial | ⏳ | Extrair shell sticky; skin por site |
 | P3–P4 | Accordion seletivo + tabela | ⏳ seletivo | ⏳ | Só blocos longos; não accordion em tudo |
-| R3/G5 | Deep link / share de trecho | ⏳ | ⏳ | Preferir `#seção` / ids estáveis no Next; OG por trecho opcional |
+| R3/G5 | Deep link / share de trecho | ✅ Em Casa | ⏳ | Preferir `#seção` / ids estáveis no Next; OG por trecho opcional |
 | R7 | Progress de leitura | ✅ parcial | ⏳ | Evoluir; linhas Pretext só se prosa longa |
-| G2 | Notes mobile pill + sheet | ⏳ | ⏳ | **Reimplementar em React** (UX validada no Dicas) |
-| G7 | Print / versão limpa | ⏳ **alta em receita** | ⏳ | CSS print por template |
-| G8 | TOC decisões / âncoras | ⏳ | ⏳ | Review: veredito/prós; receita: ingredientes/passos/dicas |
+| G2 | Notes mobile pill + sheet | ✅ Em Casa | ⏳ | **Reimplementar em React** (UX validada no Dicas) |
+| G7 | Print / versão limpa | ✅ Em Casa | ⏳ | CSS print por template |
+| G8 | TOC decisões / âncoras | ✅ Em Casa | ⏳ | Review: veredito/prós; receita: ingredientes/passos/dicas |
 | X3 | View Transitions | ⏳ | ⏳ | Next VT API / CSS |
 | X4 | Scroll-driven leve | ✅ IO (`EditorialReveal`) | ⏳ | Manter IO; não forçar só CSS timeline |
 
@@ -170,14 +170,14 @@ type EditorialExtensions = {
 
 Ordem sugerida:
 
-1. Print limpo (receita prioritária + review)  
-2. Byline + `dateModified` + changelog no JSON/UI  
-3. TOC / âncoras (review decisões + receita ingredientes/passos/dicas)  
-4. Progress / share de seção estáveis  
+1. ✅ Print limpo (receita prioritária + review)  
+2. ✅ Byline + `dateModified` + changelog no JSON/UI  
+3. ✅ TOC / âncoras (review decisões + receita ingredientes/passos/dicas)  
+4. ✅ Progress / share de seção estáveis  
 
 ### Wave 2 — Notes mobile (UX Dicas em React)
 
-- Componente `EditorialNote` + mobile **pill + bottom sheet** (não cards no fluxo)  
+- ✅ Componente `EditorialNote` + mobile **pill + bottom sheet** (não cards no fluxo)  
 - Aplicar em Review primeiro; em Receita como “dica da Cecília”  
 
 ### Wave 3 — Pretext depth seletivo
@@ -238,14 +238,14 @@ Use como tracking; marcar no PR:
 
 ### UI / UX
 
-- [ ] Print CSS receita  
-- [ ] Print CSS review  
-- [ ] Byline completa review + compacta receita  
-- [ ] TOC / jump links receita (ingredientes, passos, dicas)  
-- [ ] TOC decisões review  
-- [ ] Note mobile: pill no fluxo + sheet; sem card amarelo full  
+- [x] Print CSS receita  
+- [x] Print CSS review  
+- [x] Byline completa review + compacta receita  
+- [x] TOC / jump links receita (ingredientes, passos, dicas)  
+- [x] TOC decisões review  
+- [x] Note mobile: pill no fluxo + sheet; sem card amarelo full  
 - [ ] Drawer/lista de notes (se mobile nav) fecha e navega  
-- [ ] `prefers-reduced-motion` em reveals  
+- [x] `prefers-reduced-motion` em reveals  
 
 ### Pretext
 

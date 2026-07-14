@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
 import { CopyButton, FAQAccordion } from '@/components/CouponComponents';
-import { ReviewMobileBottomBar } from '@/components/review';
+import { CouponBottomBar } from '@/components/CouponBottomBar';
 import type { CouponCopyLocale } from '@/components/review/couponCopyLocale';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 
@@ -82,7 +82,7 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
     <section className="px-4 pt-8"><div className="mx-auto max-w-5xl"><LanguageSwitcher currentLocale={page.locale} links={{ pt: '/cupons/yesstyle', en: '/en/coupons/yesstyle', es: '/es/coupons/yesstyle', fr: '/fr/coupons/yesstyle', de: '/de/coupons/yesstyle', ko: '/ko/coupons/yesstyle', ja: '/ja/coupons/yesstyle', 'zh-hant': '/zh-hant/coupons/yesstyle', 'zh-hans': '/zh-hans/coupons/yesstyle' }} /></div></section>
     <section className="px-4 py-12"><div className="mx-auto max-w-5xl rounded-[2rem] bg-[#111827] p-7 text-white shadow-large md:p-10"><p className="font-mono text-4xl font-black tracking-[.08em] md:text-6xl">CECILIA010</p><p className="mt-4 max-w-2xl text-white/85">{page.description}</p><div className="mt-7 flex flex-col gap-3 sm:flex-row"><CopyButton code="CECILIA010" label={page.copy} copiedLabel={page.copied} ariaLabel={page.copyAria} /><a href="https://ystyle.co/x5pes" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center rounded-lg border border-white/30 px-4 py-2.5 text-sm font-semibold hover:bg-white/15">{page.visit}</a></div></div></section>
     <article className="bg-white px-4 py-14"><div className="mx-auto max-w-3xl"><h2 className="font-heading text-2xl font-black text-[#0f1419]">{page.details}</h2><dl className="mt-6 divide-y divide-black/8 rounded-2xl border border-black/8"><Detail label="Code" value="CECILIA010" /><Detail label="Discount" value="5% extra" /><Detail label="Field" value="Reward Code" /></dl><h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">{page.instructionsTitle}</h2><ol className="mt-4 list-decimal space-y-3 pl-6 text-[#0f1419]/78">{page.instructions.map((item) => <li key={item}>{item}</li>)}</ol><p className="mt-4 rounded-2xl border border-[#ff6b35]/25 bg-[#fff7ed] px-4 py-3 text-sm text-[#7c2d12]">{page.note}</p><h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">{page.faqTitle}</h2><div className="mt-4"><FAQAccordion items={page.faqs} /></div><div className="mt-14 rounded-2xl bg-[#fef9f3] p-6 text-sm leading-relaxed text-[#0f1419]/68">{page.transparency}</div></div></article>
-    <ReviewMobileBottomBar coupon="CECILIA010" cta={{ url: 'https://ystyle.co/x5pes', label: page.visit }} locale={page.locale} />
+    <CouponBottomBar coupon="CECILIA010" cta={{ url: 'https://ystyle.co/x5pes', label: page.visit }} locale={page.locale} />
   </main>;
 }
 

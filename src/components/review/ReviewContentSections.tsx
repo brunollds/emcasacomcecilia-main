@@ -1,8 +1,8 @@
 'use client';
 
-import { EditorialReveal, SectionHeadingReveal } from '@/components/editorial';
+import { EditorialReveal, SectionHeadingReveal, EditorialNotePill } from '@/components/editorial';
 import { ReviewSectionContent } from './ReviewSectionContent';
-import type { ContentSection, ReviewKind } from '@/lib/content';
+import type { ContentSection, ReviewKind, EditorialNoteData } from '@/lib/content';
 
 export interface ReviewContentSectionsProps {
   sections: ContentSection[];
@@ -10,6 +10,7 @@ export interface ReviewContentSectionsProps {
   sectionIds: Map<string, string>;
   filterHeadings?: string[];
   kind?: ReviewKind;
+  notes?: EditorialNoteData[];
 }
 
 function getStepNumber(heading?: string): string | null {
@@ -23,6 +24,7 @@ export function ReviewContentSections({
   sectionIds,
   filterHeadings = [],
   kind = 'editorial',
+  notes = [],
 }: ReviewContentSectionsProps): React.ReactElement | null {
   const visibleSections = sections.filter((section) => !filterHeadings.includes(section.heading || ''));
 
@@ -36,6 +38,9 @@ export function ReviewContentSections({
         const sectionId = section.heading ? sectionIds.get(section.heading) : undefined;
         const stepNumber = getStepNumber(section.heading);
         const isFirst = index === 0;
+
+        // Find notes anchored to this section
+        const anchoredNotes = notes.filter((note) => note.anchor === sectionId);
 
         return (
           <EditorialReveal
@@ -51,13 +56,22 @@ export function ReviewContentSections({
                     {stepNumber}
                   </span>
                 )}
-                <SectionHeadingReveal
-                  as="h2"
-                  underlineColor="#ff6b35"
-                  className={`${stepNumber ? 'mb-0 flex-1 pt-1' : 'mb-5'} font-editorial text-2xl font-bold text-[#1a4d2e]`}
-                >
-                  {stepNumber ? section.heading.replace(/^\d+\.\s+/, '') : section.heading}
-                </SectionHeadingReveal>
+                <div className={`${stepNumber ? 'flex-1' : ''}`}>
+                  <SectionHeadingReveal
+                    as="h2"
+                    underlineColor="#ff6b35"
+                    className={`${stepNumber ? 'mb-0 pt-1' : 'mb-5'} font-editorial text-2xl font-bold text-[#1a4d2e]`}
+                  >
+                    {stepNumber ? section.heading.replace(/^\d+\.\s+/, '') : section.heading}
+                  </SectionHeadingReveal>
+                  {anchoredNotes.length > 0 && (
+                    <div className="mt-3 flex flex-wrap gap-2">
+                      {anchoredNotes.map((note) => (
+                        <EditorialNotePill key={note.id || note.label} note={note} />
+                      ))}
+                    </div>
+                  )}
+                </div>
               </div>
             )}
 
