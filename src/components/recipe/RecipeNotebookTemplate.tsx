@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { ArrowLeft, Clock, ChefHat, Users, Utensils, Lightbulb, PlayCircle } from 'lucide-react';
+import TextToSpeechButton from '@/components/TextToSpeechButton';
 import RecipeViewTracker from '@/components/RecipeViewTracker';
 import { ShareBar } from '@/components/shared/ShareBar';
 import {
@@ -51,9 +52,18 @@ export function RecipeNotebookTemplate({
   breadcrumbJsonLd,
   jsonLd,
 }: RecipeNotebookTemplateProps): React.ReactElement {
-  const { displayIngredients, displayInstructions, hasServingsControl } = viewModel;
+  const { displayIngredients, displayInstructions, hasServingsControl, schemaIngredients, schemaInstructions } = viewModel;
   const primaryBreadcrumbChip = taxonomyChips.find((chip) => chip.primary) ?? taxonomyChips[0];
   const servingsStorageKey = `serving-scale-${recipe.slug}`;
+
+  const speechText = [
+    recipe.title,
+    recipe.description,
+    recipe.intro,
+    schemaIngredients.length > 0 ? ['Ingredientes:', ...schemaIngredients].join(' ') : null,
+    schemaInstructions.length > 0 ? ['Modo de preparo:', ...schemaInstructions.map((step, i) => `Passo ${i + 1}: ${step}`)].join(' ') : null,
+    recipe.tips && recipe.tips.length > 0 ? ['Dicas:', ...recipe.tips].join(' ') : null,
+  ].filter(Boolean).join('. ');
 
   // Recipe section index mapping for line anchors (0-based)
   // This documents the fixed section structure for authoring and line anchor validation
@@ -171,6 +181,7 @@ export function RecipeNotebookTemplate({
                   ? [{ label: 'Atualizado em', value: `Atualizado em ${formatDate(recipe.updatedAt)}`, dateTime: recipe.updatedAt }]
                   : []),
               ]}
+              action={<TextToSpeechButton text={speechText} label="Ouvir receita" />}
               className="justify-center text-[#1a4d2e]/80 md:justify-start"
             />
           </EditorialReveal>
