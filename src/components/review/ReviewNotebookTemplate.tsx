@@ -103,6 +103,15 @@ export function ReviewNotebookTemplate({
     }))
     .filter((item) => item.id);
 
+  // Add "Veredito final" to TOC if the verdict section will render
+  const hasVerdictStars = Boolean(review.verdict?.stars);
+  const hasRating = typeof review.rating === 'number';
+  const hasProsOrCons = (review.pros?.length ?? 0) > 0 || (review.cons?.length ?? 0) > 0;
+  const shouldRenderVerdict = kind === 'produto' && (hasVerdictStars || hasRating || hasProsOrCons);
+  if (shouldRenderVerdict) {
+    tocItems.push({ id: 'veredito', heading: 'Veredito final' });
+  }
+
   const hasProductSpec = review.productSpec && review.productSpec.length > 0;
   const verdictLinkCta = verdictSection?.links?.[0];
   const effectiveCta = review.cta?.url && review.cta?.label
