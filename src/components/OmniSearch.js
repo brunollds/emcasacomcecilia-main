@@ -1,109 +1,85 @@
 'use client';
 
-import { useState, useEffect, useRef, useCallback } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
-import { getRecipeAllCategoryLabels, getRecipePrimaryCategory } from '@/lib/data';
+import { Search, X, ArrowRight } from 'lucide-react';
 
-export default function OmniSearch({ receitas, placeholder = "Buscar receitas, ingredientes..." }) {
+// Índice slim gerado no build (scripts/content/build-index.mjs -> public/search-index.json).
+// Carregado sob demanda no 1º foco; a promise fica em cache no módulo para que as
+// instâncias de desktop e mobile compartilhem um único fetch.
+let indexPromise = null;
+function loadSearchIndex() {
+  if (!indexPromise) {
+    indexPromise = fetch('/search-index.json')
+      .then((res) => (res.ok ? res.json() : []))
+      .catch(() => []);
+  }
+  return indexPromise;
+}
+
+function escapeRegExp(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+export default function OmniSearch({ placeholder = 'Buscar receitas...' }) {
   const [query, setQuery] = useState('');
+  const [index, setIndex] = useState(null);
   const [results, setResults] = useState([]);
   const [isOpen, setIsOpen] = useState(false);
   const [selectedIndex, setSelectedIndex] = useState(-1);
   const searchRef = useRef(null);
 
-  // Fecha dropdown ao clicar fora
+  // Fecha o dropdown ao clicar fora
   useEffect(() => {
     function handleClickOutside(event) {
       if (searchRef.current && !searchRef.current.contains(event.target)) {
         setIsOpen(false);
       }
     }
-
     document.addEventListener('mousedown', handleClickOutside);
     return () => document.removeEventListener('mousedown', handleClickOutside);
   }, []);
 
-  // Função de busca omnisearch
-  const searchRecipes = useCallback((searchQuery) => {
-    if (!searchQuery.trim()) {
-      setResults([]);
-      setIsOpen(false);
-      return;
-    }
-
-    const lowerQuery = searchQuery.toLowerCase().trim();
-
-    const filtered = receitas.filter((receita) => {
-      // Busca no título
-      if (receita.title.toLowerCase().includes(lowerQuery)) return true;
-
-      // Busca na descrição
-      if (receita.description?.toLowerCase().includes(lowerQuery)) return true;
-
-      // Busca na categoria
-      if (getRecipeAllCategoryLabels(receita).some(category => category.toLowerCase().includes(lowerQuery))) return true;
-
-      // Busca na dificuldade
-      if (receita.difficulty?.toLowerCase().includes(lowerQuery)) return true;
-
-      if (receita.searchTerms?.some(term => term.toLowerCase().includes(lowerQuery))) return true;
-
-      // Busca nos ingredientes (se tiver)
-      if (receita.ingredients) {
-        const allIngredients = receita.ingredients
-          .flatMap(section => section.items || [])
-          .join(' ')
-          .toLowerCase();
-
-        if (allIngredients.includes(lowerQuery)) return true;
-      }
-
-      // Busca nas tags (se tiver)
-      if (receita.tags && Array.isArray(receita.tags)) {
-        if (receita.tags.some(tag => tag.toLowerCase().includes(lowerQuery))) return true;
-      }
-
-      return false;
-    });
-
-    // Ordenar por relevância (título > ingredientes > descrição)
-    const sorted = filtered.sort((a, b) => {
-      const aTitleMatch = a.title.toLowerCase().includes(lowerQuery);
-      const bTitleMatch = b.title.toLowerCase().includes(lowerQuery);
-
-      if (aTitleMatch && !bTitleMatch) return -1;
-      if (!aTitleMatch && bTitleMatch) return 1;
-
-      return 0;
-    });
-
-    setResults(sorted.slice(0, 8)); // Máximo 8 resultados
-    setIsOpen(true);
-  }, [receitas]);
-
-  // Busca em tempo real (debounced)
+  // Busca debounced. Deps primitivas/estáveis (query: string, index: state) —
+  // sem valores recriados no corpo, então o efeito não redispara sozinho. O reset
+  // de query vazia acontece no onChange, então aqui o setState só roda dentro do
+  // setTimeout (assíncrono), nunca sincronamente no corpo do efeito.
   useEffect(() => {
+    const lowerQuery = query.trim().toLowerCase();
+    if (!lowerQuery || !index) return undefined; // vazio ou índice ainda carregando
+
     const timer = setTimeout(() => {
-      searchRecipes(query);
-    }, 300); // 300ms de delay
+      const filtered = index.filter((receita) => receita.terms.includes(lowerQuery));
+      const sorted = filtered.sort((a, b) => {
+        const aTitle = a.title.toLowerCase().includes(lowerQuery);
+        const bTitle = b.title.toLowerCase().includes(lowerQuery);
+        if (aTitle && !bTitle) return -1;
+        if (!aTitle && bTitle) return 1;
+        return 0;
+      });
+      setResults(sorted.slice(0, 8));
+      setIsOpen(true);
+      setSelectedIndex(-1);
+    }, 200);
 
     return () => clearTimeout(timer);
-  }, [query, searchRecipes]);
+  }, [query, index]);
 
-  // Navegação por teclado
+  const handleFocus = () => {
+    if (index === null) loadSearchIndex().then(setIndex);
+    if (query.trim()) setIsOpen(true);
+  };
+
   const handleKeyDown = (e) => {
     if (!isOpen) return;
-
     switch (e.key) {
       case 'ArrowDown':
         e.preventDefault();
-        setSelectedIndex(prev =>
-          prev < results.length - 1 ? prev + 1 : prev
-        );
+        setSelectedIndex((prev) => (prev < results.length - 1 ? prev + 1 : prev));
         break;
       case 'ArrowUp':
         e.preventDefault();
-        setSelectedIndex(prev => prev > 0 ? prev - 1 : -1);
+        setSelectedIndex((prev) => (prev > 0 ? prev - 1 : -1));
         break;
       case 'Enter':
         e.preventDefault();
@@ -111,158 +87,122 @@ export default function OmniSearch({ receitas, placeholder = "Buscar receitas, i
           window.location.href = `/receitas/${results[selectedIndex].slug}`;
         } else if (results.length > 0) {
           window.location.href = `/receitas/${results[0].slug}`;
+        } else if (query.trim()) {
+          window.location.href = `/receitas?q=${encodeURIComponent(query.trim())}`;
         }
         break;
       case 'Escape':
         setIsOpen(false);
         setSelectedIndex(-1);
         break;
+      default:
+        break;
     }
   };
 
-  // Highlight do texto
-  const highlightMatch = (text, query) => {
-    if (!query.trim()) return text;
-
-    const parts = text.split(new RegExp(`(${query})`, 'gi'));
+  const highlightMatch = (text, term) => {
+    const trimmed = term.trim();
+    if (!trimmed) return text;
+    const parts = text.split(new RegExp(`(${escapeRegExp(trimmed)})`, 'gi'));
     return parts.map((part, i) =>
-      part.toLowerCase() === query.toLowerCase()
-        ? <mark key={i} className="bg-[#ffd700] text-[#1a4d2e] font-bold">{part}</mark>
-        : part
+      part.toLowerCase() === trimmed.toLowerCase() ? (
+        <mark key={i} className="bg-[#ffd700]/60 text-inherit">
+          {part}
+        </mark>
+      ) : (
+        part
+      )
     );
+  };
+
+  const clearQuery = () => {
+    setQuery('');
+    setResults([]);
+    setIsOpen(false);
+    setSelectedIndex(-1);
   };
 
   return (
     <div ref={searchRef} className="relative w-full">
-      {/* Input de Busca */}
       <div className="relative">
+        <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-white/60" />
         <input
           type="text"
           value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          onKeyDown={handleKeyDown}
-          onFocus={() => query && setIsOpen(true)}
-          placeholder={placeholder}
-          className="w-full px-5 py-4 pl-14 text-lg border-2 border-gray-300 rounded-full focus:border-[#ff6b35] focus:outline-none transition-all shadow-lg"
-        />
-
-        {/* Ícone de busca */}
-        <div className="absolute left-5 top-1/2 -translate-y-1/2 text-gray-400 text-2xl">
-          🔍
-        </div>
-
-        {/* Botão limpar */}
-        {query && (
-          <button
-            onClick={() => {
-              setQuery('');
+          onChange={(e) => {
+            const value = e.target.value;
+            setQuery(value);
+            if (!value.trim()) {
               setResults([]);
               setIsOpen(false);
-            }}
-            className="absolute right-5 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600 text-2xl"
+              setSelectedIndex(-1);
+            }
+          }}
+          onKeyDown={handleKeyDown}
+          onFocus={handleFocus}
+          placeholder={placeholder}
+          aria-label="Buscar receitas"
+          className="w-full rounded-full border border-white/20 bg-white/10 py-2.5 pl-10 pr-9 text-sm text-white placeholder-white/50 transition-all focus:border-white/40 focus:bg-white/20 focus:outline-none"
+        />
+        {query && (
+          <button
+            type="button"
+            onClick={clearQuery}
+            aria-label="Limpar busca"
+            className="absolute right-3 top-1/2 -translate-y-1/2 text-white/60 transition-colors hover:text-white"
           >
-            ✕
+            <X className="h-4 w-4" />
           </button>
         )}
       </div>
 
-      {/* Dropdown de Resultados */}
       {isOpen && results.length > 0 && (
-        <div className="absolute z-50 w-full mt-2 bg-white rounded-2xl shadow-2xl border-2 border-gray-200 overflow-hidden">
-          <div className="p-3 bg-[#f5f5f5] border-b border-gray-200">
-            <span className="text-sm text-gray-600 font-semibold">
-              {results.length} {results.length === 1 ? 'receita encontrada' : 'receitas encontradas'}
-            </span>
-          </div>
-
-          <ul className="max-h-96 overflow-y-auto">
-            {results.map((receita, index) => (
-              <li key={receita.id}>
+        <div className="absolute z-[60] mt-2 w-full overflow-hidden rounded-2xl border border-gray-200 bg-white text-left shadow-2xl">
+          <p className="border-b border-gray-100 bg-gray-50 px-4 py-2 text-xs font-semibold text-gray-500">
+            {results.length} {results.length === 1 ? 'receita encontrada' : 'receitas encontradas'}
+          </p>
+          <ul className="max-h-[70vh] overflow-y-auto">
+            {results.map((receita, i) => (
+              <li key={receita.id ?? receita.slug}>
                 <Link
                   href={`/receitas/${receita.slug}`}
-                  className={`block px-5 py-4 hover:bg-[#f5f5f5] transition-colors border-b border-gray-100 last:border-0 ${
-                    index === selectedIndex ? 'bg-[#ffd700]/20' : ''
+                  onClick={clearQuery}
+                  className={`flex items-center gap-3 border-b border-gray-100 px-4 py-2.5 transition-colors last:border-0 hover:bg-[#fef9f3] ${
+                    i === selectedIndex ? 'bg-[#ffd700]/15' : ''
                   }`}
-                  onClick={() => {
-                    setIsOpen(false);
-                    setQuery('');
-                  }}
                 >
-                  <div className="flex items-start gap-4">
-                    {/* Emoji ou imagem */}
-                    <div className="flex-shrink-0 w-16 h-16 bg-gradient-to-br from-[#ff6b35] to-[#ffd700] rounded-lg flex items-center justify-center text-3xl">
-                      🍽️
-                    </div>
-
-                    {/* Info */}
-                    <div className="flex-1 min-w-0">
-                      <h4 className="font-bold text-[#1a4d2e] mb-1 truncate">
-                        {highlightMatch(receita.title, query)}
-                      </h4>
-
-                      <p className="text-sm text-gray-600 line-clamp-1 mb-2">
-                        {receita.description}
-                      </p>
-
-                      {/* Badges */}
-                      <div className="flex flex-wrap gap-2">
-                        <span className="px-2 py-1 bg-[#ffd700] text-[#1a4d2e] text-xs font-bold rounded-full">
-                          {getRecipePrimaryCategory(receita)}
-                        </span>
-                        <span className="px-2 py-1 bg-gray-200 text-gray-700 text-xs font-semibold rounded-full">
-                          ⏱️ {receita.totalTime}
-                        </span>
-                        <span className="px-2 py-1 bg-gray-200 text-gray-700 text-xs font-semibold rounded-full">
-                          📊 {receita.difficulty}
-                        </span>
-                      </div>
-                    </div>
-
-                    {/* Seta */}
-                    <div className="flex-shrink-0 text-gray-400 text-xl">
-                      →
-                    </div>
+                  <div className="min-w-0 flex-1">
+                    <p className="truncate text-sm font-semibold text-[#1a4d2e]">
+                      {highlightMatch(receita.title, query)}
+                    </p>
+                    <p className="truncate text-xs text-gray-500">
+                      {[receita.category, receita.totalTime, receita.difficulty].filter(Boolean).join(' · ')}
+                    </p>
                   </div>
+                  <ArrowRight className="h-4 w-4 flex-shrink-0 text-gray-300" />
                 </Link>
               </li>
             ))}
           </ul>
-
-          {/* Ver todos os resultados */}
           <Link
-            href={`/receitas?q=${encodeURIComponent(query)}`}
-            className="block px-5 py-3 bg-[#1a4d2e] text-white text-center font-semibold hover:bg-[#ff6b35] transition-colors"
-            onClick={() => setIsOpen(false)}
+            href={`/receitas?q=${encodeURIComponent(query.trim())}`}
+            onClick={clearQuery}
+            className="block bg-[#1a4d2e] px-4 py-2.5 text-center text-sm font-semibold text-white transition-colors hover:bg-[#ff6b35]"
           >
-            Ver todos os resultados ({results.length})
+            Ver todas as receitas
           </Link>
         </div>
       )}
 
-      {/* Sem resultados */}
-      {isOpen && query && results.length === 0 && (
-        <div className="absolute z-50 w-full mt-2 bg-white rounded-2xl shadow-2xl border-2 border-gray-200 p-8 text-center">
-          <div className="text-6xl mb-4">😔</div>
-          <h3 className="text-xl font-bold text-[#1a4d2e] mb-2">
-            Nenhuma receita encontrada
-          </h3>
-          <p className="text-gray-600 mb-4">
-            Não encontramos receitas com &quot;{query}&quot;
-          </p>
-          <Link
-            href="/contato"
-            className="inline-block px-6 py-2 bg-[#ff6b35] text-white rounded-full font-semibold hover:bg-[#1a4d2e] transition-all"
-          >
-            Sugerir esta receita
-          </Link>
-        </div>
-      )}
-
-      {/* Dicas de uso */}
-      {!query && (
-        <div className="mt-3 text-center">
-          <p className="text-sm text-gray-500">
-            💡 Dica: Busque por nome, ingrediente ou categoria
+      {isOpen && query.trim() && index && results.length === 0 && (
+        <div className="absolute z-[60] mt-2 w-full rounded-2xl border border-gray-200 bg-white p-5 text-center shadow-2xl">
+          <p className="text-sm font-semibold text-[#1a4d2e]">Nenhuma receita encontrada</p>
+          <p className="mt-1 text-xs text-gray-500">
+            Nada para &quot;{query.trim()}&quot;. Tente outro termo ou{' '}
+            <Link href="/contato" onClick={clearQuery} className="font-semibold text-[#ff6b35] hover:underline">
+              sugira esta receita
+            </Link>
+            .
           </p>
         </div>
       )}

@@ -2,12 +2,12 @@
 
 import Link from 'next/link';
 import { useState, useEffect } from 'react';
-import { Search, Menu, X, ArrowRight } from 'lucide-react';
+import { Menu, X, ArrowRight } from 'lucide-react';
 import { brandLinks } from '@/lib/data';
+import OmniSearch from '@/components/OmniSearch';
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
-  const [searchQuery, setSearchQuery] = useState('');
   const [scrolled, setScrolled] = useState(false);
 
   const navLinks = [
@@ -18,13 +18,6 @@ export default function Navbar() {
     { href: '/contato', label: 'Contato' },
     { href: '/faqs', label: 'FAQs' },
   ];
-
-  const handleSearch = (e) => {
-    e.preventDefault();
-    if (searchQuery.trim()) {
-      window.location.href = `/receitas?q=${encodeURIComponent(searchQuery)}`;
-    }
-  };
 
   useEffect(() => {
     const handleScroll = () => {
@@ -77,18 +70,9 @@ export default function Navbar() {
           </Link>
 
           {/* Busca Desktop */}
-          <form onSubmit={handleSearch} className="hidden flex-1 max-w-md lg:flex">
-            <div className="relative w-full">
-              <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-white/60" />
-              <input
-                type="text"
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-                placeholder="Buscar receitas..."
-                className="w-full pl-10 pr-4 py-2.5 rounded-full border border-white/20 bg-white/10 text-white placeholder-white/50 focus:border-white/40 focus:bg-white/20 focus:outline-none text-sm"
-              />
-            </div>
-          </form>
+          <div className="hidden max-w-md flex-1 lg:block">
+            <OmniSearch />
+          </div>
 
           {/* Links Desktop */}
           <nav className="hidden lg:flex items-center gap-5">
@@ -176,18 +160,9 @@ export default function Navbar() {
             >
               DAMIE
             </Link>
-            <form onSubmit={handleSearch} className="pt-4">
-              <div className="relative">
-                <Search className="absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-white/60" />
-                <input
-                  type="text"
-                  value={searchQuery}
-                  onChange={(e) => setSearchQuery(e.target.value)}
-                  placeholder="Buscar receitas"
-                  className="w-full border border-white/28 bg-white py-3 pl-3 pr-10 text-sm text-[#0f1419] placeholder-[#0f1419]/42 focus:border-[#ff6b35] focus:outline-none"
-                />
-              </div>
-            </form>
+            <div className="pt-4">
+              <OmniSearch placeholder="Buscar receitas" />
+            </div>
           </div>
         </div>
       )}

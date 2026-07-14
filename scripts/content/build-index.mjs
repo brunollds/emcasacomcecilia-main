@@ -34,3 +34,37 @@ const body =
 mkdirSync(path.join('src', 'lib', 'generated'), { recursive: true });
 writeFileSync(path.join('src', 'lib', 'generated', 'content-index.ts'), banner + body);
 console.log(`ok content-index.ts (${recipes.length} receitas, ${reviews.length} reviews)`);
+
+// Índice slim de busca para o header (carregado sob demanda no cliente).
+// `terms` já vem em minúsculas e concatenado para o filtro ser um includes() barato.
+const searchIndex = recipes.map((r) => {
+  const categorias = [
+    ...(r.categories || []),
+    r.primaryCategory,
+    ...(r.subCategory || []),
+    ...(r.mealTime || []),
+    ...(r.cuisine || []),
+    ...(r.method || []),
+    ...(r.collections || []),
+  ].filter(Boolean);
+
+  const terms = [r.title, r.description, ...categorias, ...(r.searchTerms || []), ...(r.tags || []), r.difficulty]
+    .filter(Boolean)
+    .join(' ')
+    .toLowerCase();
+
+  return {
+    id: r.id,
+    slug: r.slug,
+    title: r.title,
+    description: r.description,
+    category: r.primaryCategory || r.categories?.[0] || 'Geral',
+    difficulty: r.difficulty,
+    totalTime: r.totalTime,
+    terms,
+  };
+});
+
+mkdirSync('public', { recursive: true });
+writeFileSync(path.join('public', 'search-index.json'), JSON.stringify(searchIndex));
+console.log(`ok public/search-index.json (${searchIndex.length} receitas)`);
