@@ -8,17 +8,47 @@ import { Search, X, ArrowRight } from 'lucide-react';
 // Carregado sob demanda no 1º foco; a promise fica em cache no módulo para que as
 // instâncias de desktop e mobile compartilhem um único fetch.
 let indexPromise = null;
-function loadSearchIndex() {
+let indexCache = null;
+
+async function loadSearchIndex() {
+  if (indexCache) return indexCache;
+
   if (!indexPromise) {
     indexPromise = fetch('/search-index.json')
-      .then((res) => (res.ok ? res.json() : []))
-      .catch(() => []);
+      .then((res) => {
+        if (!res.ok) {
+          throw new Error(`Falha ao carregar search-index.json (${res.status})`);
+        }
+        return res.json();
+      })
+      .then((data) => {
+        indexCache = Array.isArray(data) ? data : [];
+        return indexCache;
+      })
+      .catch((error) => {
+        indexPromise = null;
+        throw error;
+      });
   }
+
   return indexPromise;
 }
 
 function escapeRegExp(value) {
   return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function getRankedResults(index, lowerQuery) {
+  if (!lowerQuery || !index?.length) return [];
+
+  const filtered = index.filter((receita) => receita.terms.includes(lowerQuery));
+  return [...filtered].sort((a, b) => {
+    const aTitle = a.title.toLowerCase().includes(lowerQuery);
+    const bTitle = b.title.toLowerCase().includes(lowerQuery);
+    if (aTitle && !bTitle) return -1;
+    if (!aTitle && bTitle) return 1;
+    return 0;
+  });
 }
 
 export default function OmniSearch({ placeholder = 'Buscar receitas...' }) {
@@ -49,14 +79,7 @@ export default function OmniSearch({ placeholder = 'Buscar receitas...' }) {
     if (!lowerQuery || !index) return undefined; // vazio ou índice ainda carregando
 
     const timer = setTimeout(() => {
-      const filtered = index.filter((receita) => receita.terms.includes(lowerQuery));
-      const sorted = filtered.sort((a, b) => {
-        const aTitle = a.title.toLowerCase().includes(lowerQuery);
-        const bTitle = b.title.toLowerCase().includes(lowerQuery);
-        if (aTitle && !bTitle) return -1;
-        if (!aTitle && bTitle) return 1;
-        return 0;
-      });
+      const sorted = getRankedResults(index, lowerQuery);
       setResults(sorted.slice(0, 8));
       setIsOpen(true);
       setSelectedIndex(-1);
@@ -66,32 +89,47 @@ export default function OmniSearch({ placeholder = 'Buscar receitas...' }) {
   }, [query, index]);
 
   const handleFocus = () => {
-    if (index === null) loadSearchIndex().then(setIndex);
+    if (index === null) {
+      loadSearchIndex()
+        .then(setIndex)
+        .catch(() => {});
+    }
     if (query.trim()) setIsOpen(true);
   };
 
   const handleKeyDown = (e) => {
-    if (!isOpen) return;
     switch (e.key) {
       case 'ArrowDown':
+        if (!isOpen) return;
         e.preventDefault();
         setSelectedIndex((prev) => (prev < results.length - 1 ? prev + 1 : prev));
         break;
       case 'ArrowUp':
+        if (!isOpen) return;
         e.preventDefault();
         setSelectedIndex((prev) => (prev > 0 ? prev - 1 : -1));
         break;
       case 'Enter':
         e.preventDefault();
-        if (selectedIndex >= 0 && results[selectedIndex]) {
+        if (selectedIndex >= 0 && results[selectedIndex] && isOpen) {
           window.location.href = `/receitas/${results[selectedIndex].slug}`;
-        } else if (results.length > 0) {
-          window.location.href = `/receitas/${results[0].slug}`;
-        } else if (query.trim()) {
+          break;
+        }
+
+        if (query.trim() && index?.length) {
+          const immediateResults = getRankedResults(index, query.trim().toLowerCase());
+          if (immediateResults.length > 0) {
+            window.location.href = `/receitas/${immediateResults[0].slug}`;
+            break;
+          }
+        }
+
+        if (query.trim()) {
           window.location.href = `/receitas?q=${encodeURIComponent(query.trim())}`;
         }
         break;
       case 'Escape':
+        if (!isOpen) return;
         setIsOpen(false);
         setSelectedIndex(-1);
         break;
