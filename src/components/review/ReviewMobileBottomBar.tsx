@@ -38,7 +38,8 @@ export function ReviewMobileBottomBar({
   const [barState, setBarState] = useState<'full' | 'dismissed'>('full');
   const [drawerOpen, setDrawerOpen] = useState(false);
   const timeoutRef = useRef<NodeJS.Timeout | null>(null);
-  const drawerTriggerRef = useRef<HTMLButtonElement>(null);
+  const barDrawerTriggerRef = useRef<HTMLButtonElement>(null);
+  const floatingDrawerTriggerRef = useRef<HTMLButtonElement>(null);
   const labels = getCouponCopyLabels(locale);
 
   const hasCoupon = Boolean(coupon);
@@ -106,8 +107,9 @@ export function ReviewMobileBottomBar({
     <>
       {/* Full bar: coupon + CTA + drawer trigger + close */}
       <div
-        className={`fixed inset-x-0 bottom-0 z-50 lg:hidden print:hidden ${visible && barState === 'full' ? 'translate-y-0' : 'translate-y-full'} transition-transform duration-300 ease-out`}
+        className={`fixed inset-x-0 bottom-0 z-50 lg:hidden print:hidden ${visible && barState === 'full' ? 'translate-y-0' : 'translate-y-full'} transition-transform duration-300 ease-out ${barState === 'dismissed' ? 'pointer-events-none' : ''}`}
         aria-label="Barra de cupom mobile"
+        aria-hidden={barState === 'dismissed'}
       >
         {/* Gradiente sutil na base para contraste sobre conteúdo claro */}
         <div className="pointer-events-none absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-black/20 to-transparent" aria-hidden="true" />
@@ -117,7 +119,7 @@ export function ReviewMobileBottomBar({
             {/* Botão TOC Drawer (primeiro) */}
             {hasSidebar && (
               <button
-                ref={drawerTriggerRef}
+                ref={barDrawerTriggerRef}
                 type="button"
                 onClick={() => setDrawerOpen(true)}
                 className="inline-flex h-11 w-11 flex-shrink-0 items-center justify-center rounded-full bg-white text-[#4a5568] shadow-[0_2px_8px_rgba(0,0,0,0.1)] transition-all motion-safe:hover:-translate-y-0.5 hover:text-[#1a4d2e] motion-safe:hover:shadow-[0_4px_12px_rgba(0,0,0,0.14)]"
@@ -173,7 +175,7 @@ export function ReviewMobileBottomBar({
       {/* Floating drawer trigger (persistent after dismissal) */}
       {hasSidebar && barState === 'dismissed' && (
         <button
-          ref={drawerTriggerRef}
+          ref={floatingDrawerTriggerRef}
           type="button"
           onClick={() => setDrawerOpen(true)}
           className="fixed bottom-4 left-4 z-40 lg:hidden print:hidden inline-flex h-11 w-11 items-center justify-center rounded-full bg-white text-[#4a5568] border border-[#1a4d2e]/15 shadow-[0_2px_8px_rgba(0,0,0,0.1)] transition-all motion-safe:hover:-translate-y-0.5 hover:text-[#1a4d2e] motion-safe:hover:shadow-[0_4px_12px_rgba(0,0,0,0.14)]"
@@ -189,7 +191,7 @@ export function ReviewMobileBottomBar({
           open={drawerOpen}
           onClose={() => setDrawerOpen(false)}
           ariaLabel="Nesta análise"
-          returnFocusRef={drawerTriggerRef}
+          returnFocusRef={barState === 'full' ? barDrawerTriggerRef : floatingDrawerTriggerRef}
         >
           <ReviewSidebarContent
             review={review}
