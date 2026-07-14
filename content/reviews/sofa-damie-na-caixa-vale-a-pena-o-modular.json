@@ -3,7 +3,13 @@
   "slug": "sofa-damie-na-caixa-vale-a-pena-o-modular",
   "title": "Sofá Damie na Caixa: Vale a pena o modular?",
   "type": "Praticidade & Conforto",
+  "reviewKind": "produto",
   "rating": 4.9,
+  "verdict": {
+    "stars": 5,
+    "recommendation": "recomendo",
+    "summary": "Entrega em caixas, montagem simples e flexibilidade modular: conforto que vale o investimento para casas reais."
+  },
   "description": "Uma análise do Sofá Damie Modular 3 Lugares com puff: entrega em caixas, montagem, flexibilidade, conforto e por que ele pode valer o investimento para casas reais.",
   "publishedAt": "18 Abr 2026",
   "image": "/images/reviews/sofa-damie-na-caixa-cecilia-hero.webp",
@@ -46,6 +52,12 @@
     "Produto premium exige planejamento de orçamento",
     "É importante medir bem o ambiente antes da compra"
   ],
+  "cta": {
+    "text": "Use o cupom CECILIA12 para garantir 12% OFF em compras elegíveis na Damie.",
+    "label": "Usar o cupom",
+    "url": "https://damie.emcasacomcecilia.com"
+  },
+  "coupon": "CECILIA12",
   "contentSections": [
     {
       "heading": "A História da Damie: Inovação e Qualidade em Móveis de Alto Padrão",

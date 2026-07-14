@@ -7,6 +7,7 @@ export interface RecipeInstructionsProps {
   instructionGroups: InstructionSection[];
   baseSlug: string;
   variant?: 'default' | 'notebook';
+  headingButton?: React.ReactNode;
 }
 
 interface StepWithNumber {
@@ -23,6 +24,7 @@ export function RecipeInstructions({
   instructionGroups,
   baseSlug,
   variant = 'default',
+  headingButton,
 }: RecipeInstructionsProps): React.ReactElement {
   // Calcula números de passo globalmente sem mutação durante o render.
   const groupsWithStepNumbers = instructionGroups.reduce<{
@@ -44,13 +46,15 @@ export function RecipeInstructions({
 
   return (
     <div>
-      <SectionHeadingReveal
-        as="h3"
-        underlineColor={isNotebook ? '#ff6b35' : '#ffd700'}
-        className="mb-6"
-      >
-        Modo de Preparo
-      </SectionHeadingReveal>
+      <div className="mb-6 flex items-center gap-2">
+        <SectionHeadingReveal
+          as="h3"
+          underlineColor={isNotebook ? '#ff6b35' : '#ffd700'}
+        >
+          Modo de Preparo
+        </SectionHeadingReveal>
+        {headingButton}
+      </div>
 
       <div className="space-y-10">
         {groupsWithStepNumbers.map((group, groupIndex) => (

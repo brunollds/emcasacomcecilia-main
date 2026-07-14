@@ -27,7 +27,7 @@ export function ReadingProgressBar(): React.ReactElement {
   return (
     <div
       aria-hidden="true"
-      className="review-reading-progress fixed top-0 left-0 z-[60] h-[3px] w-full bg-[#1a4d2e]/10"
+      className="review-reading-progress fixed top-0 left-0 z-[60] h-[3px] w-full bg-[#1a4d2e]/10 print:hidden"
     >
       <div
         ref={barRef}

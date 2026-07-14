@@ -514,17 +514,284 @@ body {
   }
 }
 
-/* Impressão */
+/* Impressão — Versão Limpa */
 @media print {
-  .editorial-reveal,
-  .editorial-underline {
-    opacity: 1 !important;
-    transform: none !important;
-    animation: none !important;
+  /* Reset global print layout */
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: white !important;
+    color: #0f1419 !important;
+    font-family: var(--font-editorial), Georgia, 'Times New Roman', serif !important;
+    line-height: 1.6;
   }
 
   body {
     print-color-adjust: exact;
     -webkit-print-color-adjust: exact;
+  }
+
+  /* Hide all chrome/interactive UI */
+  header,
+  footer,
+  nav,
+  [role="navigation"],
+  .navbar,
+  aside:not([role="doc-noteref"]),
+  .sticky,    /* Sticky navigation/sidebars */
+  .fixed {    /* Fixed UI chrome */
+    display: none !important;
+  }
+
+  /* Expand all accordion/details elements */
+  details {
+    display: block !important;
+  }
+
+  details summary {
+    display: none !important;
+  }
+
+  /* Prevent page breaks inside content blocks */
+  table,
+  ul, ol,
+  blockquote,
+  #ficha-tecnica,
+  #dicas {
+    break-inside: avoid;
+  }
+
+  /* Compact vertical rhythm in print for better page flow */
+  .notebook-margin {
+    margin-bottom: 12pt !important;
+  }
+
+  h1 {
+    margin-top: 0 !important;
+    margin-bottom: 10pt !important;
+  }
+
+  h2 {
+    margin-top: 12pt !important;
+    margin-bottom: 6pt !important;
+  }
+
+  h3 {
+    margin-top: 9pt !important;
+    margin-bottom: 4pt !important;
+  }
+
+  /* Typography */
+  h1, h2, h3, h4, h5, h6 {
+    color: #0f1419 !important;
+    font-weight: bold;
+  }
+
+  h2, h3 {
+    break-after: avoid;
+  }
+
+  h1 {
+    font-size: 28pt;
+    line-height: 1.2;
+    margin: 0 0 12pt 0;
+    font-family: var(--font-hand-title), var(--font-editorial), Georgia, serif !important;
+  }
+
+  h2 {
+    font-size: 20pt;
+    line-height: 1.3;
+    margin: 18pt 0 9pt 0;
+  }
+
+  h3 {
+    font-size: 16pt;
+    line-height: 1.3;
+    margin: 12pt 0 6pt 0;
+  }
+
+  p {
+    margin: 0 0 9pt 0;
+    font-size: 11pt;
+    line-height: 1.5;
+    color: #0f1419 !important;
+    orphans: 2;
+    widows: 2;
+  }
+
+  /* Remove backgrounds, shadows, borders (except content-essential ones) */
+  * {
+    background-image: none !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+    transform: none !important;
+    opacity: 1 !important;
+    animation: none !important;
+    transition: none !important;
+  }
+
+  body {
+    background-color: white !important;
+  }
+
+  .notebook-paper,
+  .notebook-paper::before,
+  .editorial-ambient-bg::before,
+  .review-page-bg {
+    background: white !important;
+  }
+
+  /* Keep simple borders for structure */
+  table {
+    border-collapse: collapse;
+    border: 1pt solid #0f1419 !important;
+    margin: 12pt 0;
+    width: 100%;
+  }
+
+  table th {
+    background: #f5f5f5 !important;
+    color: #0f1419 !important;
+    border: 1pt solid #0f1419 !important;
+    padding: 6pt;
+    text-align: left;
+    font-weight: bold;
+  }
+
+  table td {
+    border: 1pt solid #0f1419 !important;
+    padding: 6pt;
+  }
+
+  /* Lists */
+  ul, ol {
+    margin: 9pt 0;
+    padding-left: 18pt;
+  }
+
+  li {
+    margin: 3pt 0;
+  }
+
+  /* Links */
+  a {
+    color: #0f1419 !important;
+    text-decoration: none;
+  }
+
+  a[href]::after {
+    content: "";
+  }
+
+  /* Images */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Recipe-specific adjustments */
+  .ficha-tecnica {
+    margin: 12pt 0;
+  }
+
+  /* Grid collapse to single column for print */
+  .grid {
+    display: block !important;
+  }
+
+  .grid > * {
+    margin-bottom: 12pt;
+  }
+
+  /* Remove gradients and complex backgrounds */
+  .category-overlay,
+  .gradient,
+  .bg-gradient {
+    background: white !important;
+  }
+
+  /* Checkboxes and form inputs */
+  input[type="checkbox"],
+  input[type="radio"] {
+    margin-right: 6pt;
+  }
+
+  /* Spacing adjustments */
+  .notebook-margin {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* Editorial reveals and animations */
+  .editorial-reveal,
+  .editorial-underline,
+  .inline-image-reveal,
+  .inline-image-reveal-visible,
+  .inline-image-reveal-pending,
+  .inline-image-reveal-ready {
+    opacity: 1 !important;
+    transform: none !important;
+    animation: none !important;
+  }
+
+  /* Breadcrumbs */
+  [aria-label="Breadcrumb"] {
+    display: none !important;
+  }
+
+  /* Handwritten text (for recipe counts) */
+  .font-handwritten,
+  .font-hand-title {
+    font-family: var(--font-editorial), Georgia, serif !important;
+  }
+
+  /* Hide iframes in print (video embeds, galleries, etc.) */
+  iframe {
+    display: none !important;
+  }
+
+  /* Pull quotes — emphasized with border */
+  blockquote {
+    border-left: 3pt solid #0f1419;
+    padding-left: 12pt;
+    margin: 12pt 0;
+    font-style: italic;
+  }
+
+  /* Tips/dicas styling — retarget to #dicas id */
+  #dicas {
+    border: 1pt solid #0f1419 !important;
+    background: white !important;
+    padding: 9pt !important;
+    margin: 12pt 0;
+  }
+
+  /* Ficha técnica — reduce size for print */
+  #ficha-tecnica {
+    margin: 12pt 0;
+  }
+
+  #ficha-tecnica .grid {
+    display: grid !important;
+    grid-template-columns: repeat(5, 1fr) !important;
+    gap: 4pt !important;
+  }
+
+  #ficha-tecnica .grid > div {
+    padding: 4pt !important;
+    border: none !important;
+    border-radius: 0 !important;
+    background: white !important;
+  }
+
+  #ficha-tecnica .font-handwritten,
+  #ficha-tecnica .font-hand-title {
+    font-family: Georgia, serif !important;
+    font-size: 10pt !important;
+  }
+
+  #ficha-tecnica span {
+    font-size: 7pt !important;
   }
 }

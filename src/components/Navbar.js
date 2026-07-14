@@ -35,7 +35,7 @@ export default function Navbar() {
   }, []);
 
   return (
-    <header className={`sticky top-0 z-50 transition-all duration-300 ${scrolled ? 'shadow-md' : ''}`} style={{ background: '#0f1d3a' }}>
+    <header className={`sticky top-0 z-50 transition-all duration-300 print:hidden ${scrolled ? 'shadow-md' : ''}`} style={{ background: '#0f1d3a' }}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Logo + Busca + Mobile Menu */}
         <div className="flex flex-col items-center gap-3 py-3 lg:flex-row lg:justify-between lg:gap-8">

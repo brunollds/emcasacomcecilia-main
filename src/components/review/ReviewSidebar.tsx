@@ -10,7 +10,6 @@ export interface ReviewSidebarProps {
   review: Review;
   kind: ReviewKind;
   tocItems: TocItem[];
-  transparencySection?: { heading?: string; paragraphs?: string[] } | null;
   effectiveCta?: { url: string; label: string; text?: string } | null;
 }
 
@@ -102,91 +101,49 @@ export function ReviewSidebar({
   review,
   kind,
   tocItems,
-  transparencySection,
   effectiveCta,
 }: ReviewSidebarProps): React.ReactElement | null {
-  if (kind === 'produto') {
-    const stars = review.verdict?.stars ?? review.rating;
-    const recommendation = review.verdict?.recommendation;
+  // Unified order for all kinds
+  const stars = kind === 'produto' ? review.verdict?.stars ?? review.rating : undefined;
+  const recommendation = kind === 'produto' ? review.verdict?.recommendation : undefined;
+  const hasConversionContent = Boolean(review.coupon || effectiveCta?.url);
+  const hasToc = tocItems.length > 0;
+  const hasRelated = Boolean(review.relatedArticles && review.relatedArticles.length > 0);
 
-    return (
-      <div className="space-y-6">
-        {typeof stars === 'number' && (
-          <div className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
-            <p className="mb-2 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">Veredito da Cecília</p>
-            <div className="mb-2 flex items-center gap-2">
-              <StarRating rating={stars} />
-              <span className="text-sm font-bold text-[#1a4d2e]">{stars.toFixed(1)}</span>
-            </div>
-            {recommendation && (
-              <p className="mb-3 text-sm font-bold text-[#1a4d2e]">
-                {recommendation === 'recomendo' ? '✓ Recomendo' : recommendation === 'com ressalvas' ? 'Com ressalvas' : 'Não recomendo'}
-              </p>
-            )}
-            {effectiveCta?.url && effectiveCta?.label && (
-              <a
-                href={effectiveCta.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#ff6b35] px-5 py-2.5 text-sm font-bold text-white transition-all hover:-translate-y-0.5 hover:bg-[#e55a26] hover:shadow-md"
-              >
-                {effectiveCta.label}
-                <ArrowRight size={16} />
-              </a>
-            )}
-          </div>
-        )}
-
-        <SidebarConversionCards coupon={review.coupon} effectiveCta={review.coupon ? effectiveCta : null} />
-
-        {transparencySection && (
-          <div className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 text-sm leading-relaxed text-[#4a5568]">
-            <strong className="font-bold text-[#0f1419]">Transparência:</strong>{' '}
-            {transparencySection.paragraphs?.join(' ')}
-          </div>
-        )}
-
-        <ReviewTableOfContents items={tocItems} />
-      </div>
-    );
+  if (typeof stars !== 'number' && !hasConversionContent && !hasToc && !hasRelated) {
+    return null;
   }
 
-  if (kind === 'guia') {
-    return (
-      <div className="space-y-6">
-        <ReviewTableOfContents items={tocItems} />
-
-        <SidebarConversionCards coupon={review.coupon} effectiveCta={effectiveCta} />
-
-        {transparencySection && (
-          <div className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 text-sm leading-relaxed text-[#4a5568]">
-            <strong className="font-bold text-[#0f1419]">Transparência:</strong>{' '}
-            {transparencySection.paragraphs?.join(' ')}
-          </div>
-        )}
-      </div>
-    );
-  }
-
-  // editorial
   return (
     <div className="space-y-6">
-      {transparencySection && (
-        <div className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 text-sm leading-relaxed text-[#4a5568]">
-          <strong className="font-bold text-[#0f1419]">Transparência:</strong>{' '}
-          {transparencySection.paragraphs?.join(' ')}
+      {/* 1. Verdict card (only produto with stars) */}
+      {typeof stars === 'number' && (
+        <div className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
+          <p className="mb-2 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">Veredito da Cecília</p>
+          <div className="mb-2 flex items-center gap-2">
+            <StarRating rating={stars} />
+            <span className="text-sm font-bold text-[#1a4d2e]">{stars.toFixed(1)}</span>
+          </div>
+          {recommendation && (
+            <p className="text-sm font-bold text-[#1a4d2e]">
+              {recommendation === 'recomendo' ? '✓ Recomendo' : recommendation === 'com ressalvas' ? 'Com ressalvas' : 'Não recomendo'}
+            </p>
+          )}
         </div>
       )}
 
-      {tocItems.length > 0 && <ReviewTableOfContents items={tocItems} />}
+      {/* 2. Conversion cards (coupon + CTA) */}
+      {hasConversionContent && <SidebarConversionCards coupon={review.coupon} effectiveCta={effectiveCta} />}
 
-      <SidebarConversionCards coupon={review.coupon} effectiveCta={effectiveCta} />
+      {/* 3. Table of Contents */}
+      {hasToc && <ReviewTableOfContents items={tocItems} />}
 
-      {review.relatedArticles && review.relatedArticles.length > 0 && (
+      {/* 4. Related articles block */}
+      {hasRelated && (
         <div className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
           <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">Leia também</p>
           <ul className="space-y-2">
-            {review.relatedArticles.map((article) => (
+            {review.relatedArticles!.map((article) => (
               <li key={article.slug}>
                 <Link
                   href={`/reviews/${article.slug}`}

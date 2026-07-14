@@ -64,7 +64,7 @@ export function ReviewMobileBottomBar({ coupon, cta, locale = 'pt' }: ReviewMobi
 
   return (
     <div
-      className={`fixed inset-x-0 bottom-0 z-50 lg:hidden ${visible && !dismissed ? 'translate-y-0' : 'translate-y-full'} transition-transform duration-300 ease-out`}
+      className={`fixed inset-x-0 bottom-0 z-50 lg:hidden print:hidden ${visible && !dismissed ? 'translate-y-0' : 'translate-y-full'} transition-transform duration-300 ease-out`}
       aria-label="Barra de cupom mobile"
     >
       {/* Gradiente sutil na base para contraste sobre conteúdo claro */}

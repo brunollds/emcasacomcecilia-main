@@ -3,7 +3,13 @@
   "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto",
   "title": "Poltrona Levita: O Topo da Tecnologia e Conforto",
   "type": "Móveis de Luxo",
+  "reviewKind": "produto",
   "rating": 5,
+  "verdict": {
+    "stars": 5,
+    "recommendation": "recomendo",
+    "summary": "O topo da linha da Damie: dois motores independentes, ajuste de pescoço e conforto premium que justificam o investimento."
+  },
   "description": "Minha análise da Poltrona Levita Elétrica Damie: dois motores independentes, ajuste de pescoço, base giratória e conforto premium para quem busca o topo da linha.",
   "publishedAt": "18 Abr 2026",
   "image": "/images/reviews/poltrona-levita-cecilia-flores.webp",
@@ -41,6 +47,12 @@
     "Precisa de tomada próxima",
     "Ocupa mais espaço que uma poltrona decorativa"
   ],
+  "cta": {
+    "text": "Use o cupom CECILIA12 para garantir 12% OFF em compras elegíveis na Damie.",
+    "label": "Usar o cupom",
+    "url": "https://damie.emcasacomcecilia.com"
+  },
+  "coupon": "CECILIA12",
   "contentSections": [
     {
       "heading": "A História da Damie: Inovação e Qualidade em Móveis de Alto Padrão",

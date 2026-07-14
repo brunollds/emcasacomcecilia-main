@@ -5,6 +5,8 @@
 
 ---
 
+> **Portabilidade editorial multi-blog (jul/2026):** ver [`docs/EDITORIAL-PORTABILITY.md`](docs/EDITORIAL-PORTABILITY.md) — mapa Dicas ↔ Em Casa ↔ Damie ↔ Central, o que portar, waves e contrato para CMS.
+
 ## PLANO ATUAL CONSOLIDADO
 
 Esta seção representa o estado atual do projeto. As seções posteriores permanecem como histórico das decisões e tarefas anteriores.

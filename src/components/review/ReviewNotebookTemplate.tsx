@@ -4,7 +4,7 @@ import { ArrowRight, ChevronRight, PlayCircle } from 'lucide-react';
 import TextToSpeechButton from '@/components/TextToSpeechButton';
 import { ShareBar } from '@/components/shared/ShareBar';
 import { ReviewGallerySection } from './ReviewGallerySection';
-import { ArticleByline, EditorialAmbientBackground, EditorialReveal, SectionHeadingReveal } from '@/components/editorial';
+import { ArticleByline, ChangelogDetails, EditorialAmbientBackground, EditorialReveal, SectionHeadingReveal, SectionLinkButton } from '@/components/editorial';
 import { contentSectionsToPlainText, formatDate, generateSectionIds, type Review, type ReviewViewModel } from '@/lib/content';
 import { ReadingProgressBar } from './ReadingProgressBar';
 import { ReviewContentSections } from './ReviewContentSections';
@@ -85,11 +85,10 @@ export function ReviewNotebookTemplate({
   const readTime = estimateReadTimeMinutes(plainTextBody);
 
   const hasProductRating = kind === 'produto' && typeof review.rating === 'number';
-  const transparencySection = review.contentSections?.find((section) => section.heading === 'Transparência');
   const verdictSection = review.contentSections?.find((section) => section.heading === 'Veredito');
 
   const sectionIds = generateSectionIds(review.contentSections || []);
-  const filteredHeadings: string[] = ['Transparência', 'Veredito'];
+  const filteredHeadings: string[] = ['Veredito'];
 
   const tocItems = (review.contentSections || [])
     .filter((section) => (
@@ -241,10 +240,18 @@ export function ReviewNotebookTemplate({
                   ...(review.publishedAtISO
                     ? [{ icon: 'calendar' as const, label: 'Publicado em', value: formatDate(review.publishedAtISO), dateTime: review.publishedAtISO }]
                     : []),
+                  ...(review.updatedAt && review.updatedAt !== review.publishedAtISO
+                    ? [{ label: 'Atualizado em', value: formatDate(review.updatedAt), dateTime: review.updatedAt }]
+                    : []),
                   { icon: 'clock', label: 'Tempo de leitura', value: `${readTime} min de leitura` },
                 ]}
                 action={<TextToSpeechButton text={speechText} />}
               />
+              {review.changelog && review.changelog.length > 0 && (
+                <div className="mt-3">
+                  <ChangelogDetails entries={review.changelog} />
+                </div>
+              )}
             </EditorialReveal>
 
             {/* Hero image */}
@@ -264,9 +271,6 @@ export function ReviewNotebookTemplate({
             </EditorialReveal>
           </header>
 
-          {/* Veredicto de produto */}
-          <ReviewVerdictCard review={review} kind={kind} />
-
           {/* Layout principal + sidebar */}
           <div className="grid gap-8 lg:grid-cols-12 lg:gap-12">
             {/* Conteúdo */}
@@ -282,36 +286,41 @@ export function ReviewNotebookTemplate({
 
               {/* Ficha do produto em tabela */}
               {kind === 'produto' && hasProductSpec && (
-                <EditorialReveal as="section" className="mb-10">
-                  <details className="group overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft" open>
-                    <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-6 py-4 font-editorial text-xl font-bold text-[#1a4d2e] transition-colors hover:bg-[#faf8f3] md:px-8">
-                      <span>Ficha do produto</span>
-                      <span className="text-sm font-sans font-bold uppercase tracking-[0.14em] text-[#ff6b35] group-open:hidden">
-                        Abrir
-                      </span>
-                      <span className="hidden text-sm font-sans font-bold uppercase tracking-[0.14em] text-[#ff6b35] group-open:inline">
-                        Fechar
-                      </span>
-                    </summary>
-                    <div className="border-t border-[#1a4d2e]/10 px-6 pb-6 md:px-8 md:pb-8">
-                      <div className="mt-5 overflow-hidden rounded-xl border border-[#1a4d2e]/10">
-                        <table className="w-full text-sm">
-                          <tbody>
-                            {review.productSpec.map((spec, index) => (
-                              <tr key={index} className={index % 2 === 0 ? 'bg-[#faf8f3]' : 'bg-white'}>
-                                <th className="w-2/5 px-4 py-3 text-left font-semibold text-[#1a4d2e]">
-                                  {spec.key}
-                                </th>
-                                <td className={`px-4 py-3 font-medium ${spec.highlight ? 'text-[#ff6b35]' : 'text-[#0f1419]'}`}>
-                                  {spec.value}
-                                </td>
-                              </tr>
-                            ))}
-                          </tbody>
-                        </table>
+                <EditorialReveal as="section" id="especificacoes" className="mb-10 scroll-mt-24">
+                  <div className="flex items-start gap-2">
+                    <details className="group flex-1 overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft" open>
+                      <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-6 py-4 font-editorial text-xl font-bold text-[#1a4d2e] transition-colors hover:bg-[#faf8f3] md:px-8">
+                        <span>Ficha do produto</span>
+                        <span className="text-sm font-sans font-bold uppercase tracking-[0.14em] text-[#ff6b35] group-open:hidden">
+                          Abrir
+                        </span>
+                        <span className="hidden text-sm font-sans font-bold uppercase tracking-[0.14em] text-[#ff6b35] group-open:inline">
+                          Fechar
+                        </span>
+                      </summary>
+                      <div className="border-t border-[#1a4d2e]/10 px-6 pb-6 md:px-8 md:pb-8">
+                        <div className="mt-5 overflow-hidden rounded-xl border border-[#1a4d2e]/10">
+                          <table className="w-full text-sm">
+                            <tbody>
+                              {review.productSpec.map((spec, index) => (
+                                <tr key={index} className={index % 2 === 0 ? 'bg-[#faf8f3]' : 'bg-white'}>
+                                  <th className="w-2/5 px-4 py-3 text-left font-semibold text-[#1a4d2e]">
+                                    {spec.key}
+                                  </th>
+                                  <td className={`px-4 py-3 font-medium ${spec.highlight ? 'text-[#ff6b35]' : 'text-[#0f1419]'}`}>
+                                    {spec.value}
+                                  </td>
+                                </tr>
+                              ))}
+                            </tbody>
+                          </table>
+                        </div>
                       </div>
+                    </details>
+                    <div className="pt-4">
+                      <SectionLinkButton anchorId="especificacoes" />
                     </div>
-                  </details>
+                  </div>
                 </EditorialReveal>
               )}
 
@@ -388,7 +397,7 @@ export function ReviewNotebookTemplate({
 
               {/* Vídeo */}
               {youtubeEmbedUrl && (
-                <section className="mt-10 mb-10 rounded-2xl border border-[#1a4d2e]/10 bg-white p-6 shadow-soft md:p-8">
+                <section className="mt-10 mb-10 rounded-2xl border border-[#1a4d2e]/10 bg-white p-6 shadow-soft md:p-8 print:hidden">
                   <SectionHeadingReveal
                     as="h2"
                     underlineColor="#ff6b35"
@@ -416,7 +425,7 @@ export function ReviewNotebookTemplate({
 
               {/* CTA final */}
               {hasCta && (
-                <EditorialReveal as="section" className="relative mt-12 mb-10 overflow-hidden rounded-2xl bg-[#1a4d2e] p-6 text-white shadow-medium md:p-8">
+                <EditorialReveal as="section" className="relative mt-12 mb-10 overflow-hidden rounded-2xl bg-[#1a4d2e] p-6 text-white shadow-medium md:p-8 print:hidden">
                   <div
                     className="pointer-events-none absolute -right-8 -top-8 h-32 w-32 rounded-full bg-[#ff6b35]/15"
                     aria-hidden="true"
@@ -443,6 +452,25 @@ export function ReviewNotebookTemplate({
                 </EditorialReveal>
               )}
 
+              {/* Veredito no final do corpo */}
+              {kind === 'produto' && (
+                <EditorialReveal as="section" id="veredito" className="mb-10 scroll-mt-24">
+                  <div className="mb-6 flex items-start gap-2">
+                    <SectionHeadingReveal
+                      as="h2"
+                      underlineColor="#ff6b35"
+                      className="font-editorial text-2xl font-bold text-[#1a4d2e]"
+                    >
+                      Veredito final
+                    </SectionHeadingReveal>
+                    <SectionLinkButton anchorId="veredito" />
+                  </div>
+                  <div className="space-y-6">
+                    <ReviewVerdictCard review={review} kind={kind} />
+                  </div>
+                </EditorialReveal>
+              )}
+
               {/* Share */}
               <EditorialReveal as="section" className="mb-10">
                 <ShareBar
@@ -464,19 +492,10 @@ export function ReviewNotebookTemplate({
                 review={review}
                 kind={kind}
                 tocItems={tocItems}
-                transparencySection={transparencySection}
                 effectiveCta={effectiveCta}
               />
             </aside>
           </div>
-
-          {/* Transparência mobile (quando não há sidebar) */}
-          {transparencySection && (
-            <div className="mt-8 rounded-xl border border-[#1a4d2e]/10 bg-white p-5 text-sm leading-relaxed text-[#4a5568] lg:hidden">
-              <strong className="font-bold text-[#0f1419]">Transparência:</strong>{' '}
-              {transparencySection.paragraphs?.join(' ')}
-            </div>
-          )}
 
           {/* Galeria */}
           {(review.gallery && review.gallery.length > 0) || review.youtubeUrl ? (
@@ -489,7 +508,7 @@ export function ReviewNotebookTemplate({
 
           {/* Artigos relacionados */}
           {relatedReviews.length > 0 && (
-            <section className="mt-12">
+            <section className="mt-12 print:hidden">
               <div className="mb-6 flex items-end justify-between gap-4">
                 <SectionHeadingReveal
                   as="h2"

@@ -403,7 +403,7 @@ export function ReviewGallerySection({ images, videos = [], title }: ReviewGalle
   const nextImage = () => setLightboxIndex((prev) => (prev === null ? null : (prev + 1) % images.length));
 
   return (
-    <section className="mt-12">
+    <section className="mt-12 print:hidden">
       <div className="rounded-2xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft md:p-8">
         <div className="mb-6 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
           <div>

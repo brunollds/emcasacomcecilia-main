@@ -6,17 +6,20 @@ import { ShareBar } from '@/components/shared/ShareBar';
 import {
   AnimatedTextHighlight,
   ArticleByline,
+  ChangelogDetails,
   DropCapParagraph,
   EditorialAmbientBackground,
   EditorialReveal,
   PretextPullQuote,
   PretextShrinkwrap,
   SectionHeadingReveal,
+  SectionLinkButton,
 } from '@/components/editorial';
 import { formatDate, type Recipe, type RecipeViewModel } from '@/lib/content';
 import RecipeIngredients from './RecipeIngredients';
 import RecipeInstructions from './RecipeInstructions';
 import { ServingScaleControl } from './ServingScaleControl';
+import { RecipeJumpNav } from './RecipeJumpNav';
 
 export interface RecipeNotebookTemplateProps {
   recipe: Recipe;
@@ -150,6 +153,19 @@ export function RecipeNotebookTemplate({
             />
           </EditorialReveal>
 
+          {recipe.changelog && recipe.changelog.length > 0 && (
+            <EditorialReveal as="div" delay={0.27} className="mb-8">
+              <ChangelogDetails entries={recipe.changelog} />
+            </EditorialReveal>
+          )}
+
+          <RecipeJumpNav
+            hasFichaTecnica={true}
+            hasIngredientes={displayIngredients && displayIngredients.length > 0}
+            hasModoDePreparo={displayInstructions && displayInstructions.length > 0}
+            hasDicas={recipe.tips && recipe.tips.length > 0}
+          />
+
           <EditorialReveal as="section" delay={0.3} className="mb-12">
             <div className="relative mx-auto aspect-[16/10] max-w-3xl overflow-hidden rounded-2xl shadow-xl ring-1 ring-[#1a4d2e]/10">
               <Image
@@ -197,11 +213,14 @@ export function RecipeNotebookTemplate({
       )}
 
       {/* Ficha técnica integrada */}
-      <section id="receita" className="notebook-margin mb-14">
+      <section id="ficha-tecnica" className="notebook-margin mb-14 scroll-mt-24">
         <div className="mx-auto max-w-4xl">
-          <SectionHeadingReveal as="h2" underlineColor="#ff6b35" className="mb-6 font-editorial text-2xl font-bold text-[#1a4d2e]">
-            Ficha Técnica
-          </SectionHeadingReveal>
+          <div className="mb-6 flex items-center gap-2">
+            <SectionHeadingReveal as="h2" underlineColor="#ff6b35" className="font-editorial text-2xl font-bold text-[#1a4d2e]">
+              Ficha Técnica
+            </SectionHeadingReveal>
+            <SectionLinkButton anchorId="ficha-tecnica" />
+          </div>
 
           <div className="grid grid-cols-2 gap-4 sm:grid-cols-5">
             <EditorialReveal as="div" delay={0} className="rounded-xl border border-[#1a4d2e]/10 bg-white/60 p-4">
@@ -279,7 +298,7 @@ export function RecipeNotebookTemplate({
       {/* Ingredientes e Modo de Preparo */}
       <section className="notebook-margin mb-14">
         <div className="grid min-w-0 gap-10 md:grid-cols-12 md:gap-0">
-          <div id="ingredientes" className="scroll-mt-24 md:col-span-5">
+          <div id="ingredientes" className="scroll-mt-24 md:col-span-5" aria-label="Ingredientes">
             <RecipeIngredients
               slug={recipe.slug}
               structuredIngredients={displayIngredients}
@@ -289,34 +308,42 @@ export function RecipeNotebookTemplate({
               variant="notebook"
               hideServingsControl
               servingsStorageKey={servingsStorageKey}
+              headingButton={<SectionLinkButton anchorId="ingredientes" />}
             />
           </div>
 
           <div
-            id="preparo"
-            className="relative border-t border-[#8b6f47]/25 pt-10 before:absolute before:left-0 before:top-0 before:h-px before:w-full before:bg-[linear-gradient(90deg,transparent,rgba(139,111,71,0.55),transparent)] md:col-span-7 md:border-l md:border-t-0 md:border-[#8b6f47]/25 md:pl-12 md:pt-0 md:before:left-0 md:before:top-0 md:before:h-full md:before:w-px md:before:bg-[linear-gradient(180deg,transparent,rgba(139,111,71,0.55),transparent)] xl:pl-16"
+            id="modo-de-preparo"
+            className="relative border-t border-[#8b6f47]/25 pt-10 scroll-mt-24 before:absolute before:left-0 before:top-0 before:h-px before:w-full before:bg-[linear-gradient(90deg,transparent,rgba(139,111,71,0.55),transparent)] md:col-span-7 md:border-l md:border-t-0 md:border-[#8b6f47]/25 md:pl-12 md:pt-0 md:before:left-0 md:before:top-0 md:before:h-full md:before:w-px md:before:bg-[linear-gradient(180deg,transparent,rgba(139,111,71,0.55),transparent)] xl:pl-16"
             aria-label="Modo de preparo"
           >
             <RecipeInstructions
               instructionGroups={displayInstructions}
               baseSlug={recipe.slug}
               variant="notebook"
+              headingButton={<SectionLinkButton anchorId="modo-de-preparo" />}
             />
 
             {recipe.tips && recipe.tips.length > 0 && (
-              <EditorialReveal
+              <div
                 id="dicas"
-                as="div"
-                className="relative mt-10 scroll-mt-24 rotate-[-0.35deg] rounded-xl border border-[#ffb26b]/60 bg-[#fff4bf] p-5 shadow-[0_12px_28px_rgba(74,36,0,0.10)]"
+                className="relative mt-10 scroll-mt-24"
               >
+                <EditorialReveal
+                  as="div"
+                  className="rotate-[-0.35deg] rounded-xl border border-[#ffb26b]/60 bg-[#fff4bf] p-5 shadow-[0_12px_28px_rgba(74,36,0,0.10)]"
+                >
                 <span
                   aria-hidden="true"
                   className="absolute left-1/2 top-0 h-5 w-20 -translate-x-1/2 -translate-y-1/2 rotate-[-2deg] rounded-sm bg-[#ffdf8a]/75 shadow-sm"
                 />
-                <h4 className="mb-3 flex items-center gap-2 font-editorial text-lg font-bold text-[#1a4d2e]">
-                  <Lightbulb size={20} className="text-[#ff6b35]" />
-                  Dicas da Cecília
-                </h4>
+                <div className="mb-3 flex items-center gap-2">
+                  <h4 className="flex items-center gap-2 font-editorial text-lg font-bold text-[#1a4d2e]">
+                    <Lightbulb size={20} className="text-[#ff6b35]" />
+                    Dicas da Cecília
+                  </h4>
+                  <SectionLinkButton anchorId="dicas" />
+                </div>
                 <p className="mb-3 text-xs font-semibold uppercase tracking-[0.14em] text-[#8b5a1f]">
                   Observações práticas para a receita dar certo
                 </p>
@@ -336,7 +363,8 @@ export function RecipeNotebookTemplate({
                     ))}
                   </ul>
                 </PretextShrinkwrap>
-              </EditorialReveal>
+                </EditorialReveal>
+              </div>
             )}
           </div>
         </div>
