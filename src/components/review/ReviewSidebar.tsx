@@ -78,11 +78,11 @@ export function SidebarConversionCards({
   return (
     <div className="space-y-3">
       {coupon && (
-        <div className="rounded-xl border border-dashed border-[#ff6b35]/50 bg-gradient-to-b from-[#fef9f3] to-[#fff4bf] p-3 shadow-soft">
+        <div className="space-y-2">
           <button
             type="button"
             onClick={handleCopy}
-            className={`mb-3 flex w-full items-center justify-center gap-2 rounded-full border-2 px-4 py-2 font-mono text-base font-black tracking-[0.08em] transition-all motion-safe:hover:-translate-y-px motion-safe:hover:shadow-md ${
+            className={`flex w-full items-center justify-center gap-2 rounded-full border-2 px-4 py-2 font-mono text-base font-black tracking-[0.08em] transition-all motion-safe:hover:-translate-y-px motion-safe:hover:shadow-md ${
               copied
                 ? 'border-[#1a7f37] bg-[#f0fdf4] text-[#1a7f37]'
                 : 'border-[#1a4d2e] text-[#1a4d2e] hover:bg-[#1a4d2e]/5'
@@ -99,17 +99,15 @@ export function SidebarConversionCards({
       )}
 
       {effectiveCta?.url && effectiveCta?.label && (
-        <div>
-          <a
-            href={effectiveCta.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#ff6b35] px-5 py-2.5 text-sm font-bold text-white transition-all hover:-translate-y-0.5 hover:bg-[#e55a26] hover:shadow-md"
-          >
-            {effectiveCta.label}
-            <ExternalLink size={16} />
-          </a>
-        </div>
+        <a
+          href={effectiveCta.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#ff6b35] px-5 py-2.5 text-sm font-bold text-white transition-all hover:-translate-y-0.5 hover:bg-[#e55a26] hover:shadow-md"
+        >
+          {effectiveCta.label}
+          <ExternalLink size={16} />
+        </a>
       )}
     </div>
   );
