@@ -15,7 +15,7 @@ const LINE_ANCHOR_PATTERN = /^S(\d+):L(\d+)$/;
 /**
  * Analisa uma string de âncora de linha e retorna LineAnchor ou null.
  * Aceita apenas o formato "S{sectionIndex}:L{lineNumber}" (ex: "S2:L7").
- * Rejeita section ids como "ingredientes" ou formatos inválidos.
+ * Rejeita section ids como "ingredientes", formatos inválidos, ou lineNumber 0 (linhas são 1-based).
  */
 export function parseLineAnchor(anchor: string): LineAnchor | null {
   const match = anchor.match(LINE_ANCHOR_PATTERN);
@@ -23,6 +23,9 @@ export function parseLineAnchor(anchor: string): LineAnchor | null {
 
   const sectionIndex = parseInt(match[1], 10);
   const lineNumber = parseInt(match[2], 10);
+
+  // Rejeita lineNumber 0 pois linhas são 1-based
+  if (lineNumber === 0) return null;
 
   return { sectionIndex, lineNumber };
 }

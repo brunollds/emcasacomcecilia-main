@@ -8,7 +8,7 @@ export {
 export type { PretextFontStack } from './tokens';
 export { useElementWidth, useElementWidthExternal } from './useElementWidth';
 export { layoutWithMeasurement } from './layoutWithMeasurement';
-export type { MeasuredLayout } from './layoutWithMeasurement';
+export type { MeasuredLayout, LayoutLine } from './layoutWithMeasurement';
 export {
   parseLineAnchor,
   stringifyLineAnchor,

@@ -1,13 +1,17 @@
-import { prepare, layout } from '@chenglou/pretext';
+import { prepareWithSegments, layoutWithLines } from '@chenglou/pretext';
+import { type LayoutLine } from '@chenglou/pretext';
 import { supportsPretextSafe } from './supportsPretext';
+
+export type { LayoutLine } from '@chenglou/pretext';
 
 export interface MeasuredLayout {
   lineCount: number;
   height: number;
+  lines: LayoutLine[];
 }
 
 /**
- * Mede altura e contagem de linhas de um texto usando Pretext.
+ * Mede altura, contagem e detalhes de linhas de um texto usando Pretext.
  * Requer ambiente de browser com suporte a Canvas + Intl.Segmenter.
  * Lança erro descritivo se medição não é suportada — callers decidem fallback.
  */
@@ -25,12 +29,13 @@ export function layoutWithMeasurement(
   }
 
   try {
-    const prepared = prepare(text, font);
-    const result = layout(prepared, width, lineHeight);
+    const prepared = prepareWithSegments(text, font);
+    const result = layoutWithLines(prepared, width, lineHeight);
 
     return {
       lineCount: result.lineCount,
       height: result.height,
+      lines: result.lines,
     };
   } catch (error) {
     throw new Error(

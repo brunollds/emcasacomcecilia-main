@@ -201,7 +201,7 @@ try {
 
   // Test isLineAnchor
   const validAnchors = ['S0:L1', 'S2:L7', 'S99:L999'];
-  const invalidAnchors = ['ingredientes', 'S2', 'L7', 'S2L7', 'S2:L', 'abc'];
+  const invalidAnchors = ['ingredientes', 'S2', 'L7', 'S2L7', 'S2:L', 'abc', 'S0:L0'];
 
   const allValidPass = validAnchors.every((a) => isLineAnchor(a));
   const noInvalidPass = invalidAnchors.every((a) => !isLineAnchor(a));
@@ -211,11 +211,12 @@ try {
     'isLineAnchor diferencia âncoras de linha válidas (S{n}:L{n}) de seções/formatos inválidos'
   );
 
-  // Test parseLineAnchor returns null for invalid
+  // Test parseLineAnchor returns null for invalid (section id, bad format, and L0)
   const parseInvalidResult = parseLineAnchor('ingredientes');
+  const parseL0Result = parseLineAnchor('S0:L0');
   report(
-    parseInvalidResult === null,
-    'parseLineAnchor retorna null para section ids como "ingredientes"'
+    parseInvalidResult === null && parseL0Result === null,
+    'parseLineAnchor retorna null para section ids ("ingredientes") e L0 (linhas são 1-based)'
   );
 } catch (err) {
   report(
