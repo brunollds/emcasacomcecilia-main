@@ -2,27 +2,7 @@
 
 import { useEffect, useRef, useState, useSyncExternalStore } from 'react';
 import { Pause, Play, RotateCcw, Square } from 'lucide-react';
-
-function splitIntoChunks(text) {
-  return text
-    .replace(/\s+/g, ' ')
-    .split(/(?<=[.!?])\s+/)
-    .reduce((chunks, sentence) => {
-      const current = chunks[chunks.length - 1] || '';
-      const next = current ? `${current} ${sentence}` : sentence;
-
-      if (next.length > 220 && current) {
-        chunks.push(sentence);
-      } else if (chunks.length) {
-        chunks[chunks.length - 1] = next;
-      } else {
-        chunks.push(next);
-      }
-
-      return chunks;
-    }, [])
-    .filter(Boolean);
-}
+import { splitIntoChunks, createUtterance, cancelSpeech, pauseSpeech, resumeSpeech } from '@/lib/tts';
 
 function subscribeToHydration() {
   return () => {};
@@ -40,6 +20,7 @@ export default function TextToSpeechButton({ text, label = 'Ouvir artigo' }) {
   const [status, setStatus] = useState('idle');
   const chunksRef = useRef([]);
   const indexRef = useRef(0);
+  const generationRef = useRef(0);
   const isHydrated = useSyncExternalStore(
     subscribeToHydration,
     getHydratedSnapshot,
@@ -49,9 +30,8 @@ export default function TextToSpeechButton({ text, label = 'Ouvir artigo' }) {
 
   useEffect(() => {
     return () => {
-      if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
-        window.speechSynthesis.cancel();
-      }
+      cancelSpeech();
+      generationRef.current += 1;
     };
   }, []);
 
@@ -63,18 +43,21 @@ export default function TextToSpeechButton({ text, label = 'Ouvir artigo' }) {
     }
 
     indexRef.current = index;
-    const utterance = new SpeechSynthesisUtterance(chunksRef.current[index]);
-    utterance.lang = 'pt-BR';
-    utterance.rate = 0.95;
-    utterance.pitch = 1;
+    const utterance = createUtterance(chunksRef.current[index]);
+    // Capture generation token to guard against stale callbacks from cancelled utterances.
+    const capturedGeneration = generationRef.current;
 
     utterance.onend = () => {
+      // Ignore callback if generation has changed (utterance was cancelled externally).
+      if (generationRef.current !== capturedGeneration) return;
       if (indexRef.current === index) {
         speakChunk(index + 1);
       }
     };
 
     utterance.onerror = () => {
+      // Ignore error if generation has changed (utterance was cancelled externally).
+      if (generationRef.current !== capturedGeneration) return;
       setStatus('idle');
       indexRef.current = 0;
     };
@@ -86,27 +69,30 @@ export default function TextToSpeechButton({ text, label = 'Ouvir artigo' }) {
   function start() {
     if (!isSupported || !text) return;
 
-    window.speechSynthesis.cancel();
+    cancelSpeech();
+    generationRef.current += 1;
     chunksRef.current = splitIntoChunks(text);
     speakChunk(0);
   }
 
   function pause() {
-    window.speechSynthesis.pause();
+    pauseSpeech();
     setStatus('paused');
   }
 
   function resume() {
-    window.speechSynthesis.resume();
+    resumeSpeech();
     setStatus('playing');
   }
 
   function stop() {
-    window.speechSynthesis.cancel();
+    cancelSpeech();
+    generationRef.current += 1;
     indexRef.current = 0;
     setStatus('idle');
   }
 
+  // Intentional null-render when unsupported: prevents hydration mismatch and gracefully degrades.
   if (!isSupported || !text) {
     return null;
   }

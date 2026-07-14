@@ -17,7 +17,7 @@ export interface EditorialNoteData {
   label: string;          // note title shown on the pill and sheet header
   body: string;           // plain text; paragraphs separated by \n\n
   placement?: 'margin' | 'inline';  // reserved; current UI treats both the same
-  anchor?: string;        // stable section id the note attaches to
+  anchor?: string;        // section id ("ingredientes") or line anchor ("S2:L7" = section 0-based, line 1-based at 720px)
 }
 
 export interface PersonRef {

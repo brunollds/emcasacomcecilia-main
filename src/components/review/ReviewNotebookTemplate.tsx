@@ -6,6 +6,7 @@ import { ShareBar } from '@/components/shared/ShareBar';
 import { ReviewGallerySection } from './ReviewGallerySection';
 import { ArticleByline, ChangelogDetails, EditorialAmbientBackground, EditorialReveal, SectionHeadingReveal, SectionLinkButton, EditorialNotePill } from '@/components/editorial';
 import { contentSectionsToPlainText, formatDate, generateSectionIds, type Review, type ReviewViewModel } from '@/lib/content';
+import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 import { ReadingProgressBar } from './ReadingProgressBar';
 import { ReviewContentSections } from './ReviewContentSections';
 import { ReviewHeroImage } from './ReviewHeroImage';
@@ -17,6 +18,7 @@ import type { CouponCopyLocale } from './couponCopyLocale';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 import { GuideTimeline } from './GuideTimeline';
 import { PullQuote } from './PullQuote';
+import { ReviewHighlightChips } from './ReviewHighlightChips';
 
 export interface ReviewNotebookTemplateProps {
   review: Review;
@@ -128,8 +130,9 @@ export function ReviewNotebookTemplate({
     : [];
 
   // Separate notes into anchored and unanchored
+  // Exclude both section-id anchored notes and line-anchored notes (which belong to margin rails)
   const notes = review.notes || [];
-  const unanchoredNotes = notes.filter((note) => !note.anchor || !sectionIds.has(note.anchor));
+  const unanchoredNotes = notes.filter((note) => !note.anchor || (!sectionIds.has(note.anchor) && !isLineAnchor(note.anchor)));
 
   return (
     <>
@@ -263,6 +266,8 @@ export function ReviewNotebookTemplate({
                 </div>
               )}
             </EditorialReveal>
+
+            <ReviewHighlightChips review={review} kind={kind} />
 
             {/* Hero image */}
             <EditorialReveal as="figure" delay={0.25}>

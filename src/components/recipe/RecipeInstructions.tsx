@@ -2,6 +2,7 @@
 
 import type { InstructionSection } from '@/lib/content';
 import { EditorialReveal, SectionHeadingReveal } from '@/components/editorial';
+import { TextToSpeechStepButton } from './TextToSpeechStepButton';
 
 export interface RecipeInstructionsProps {
   instructionGroups: InstructionSection[];
@@ -86,13 +87,19 @@ export function RecipeInstructions({
                     >
                       {step.number}
                     </span>
-                    <p
-                      className={`pt-1 leading-relaxed ${
-                        isNotebook ? 'font-editorial text-lg text-[#24313d]' : 'text-gray-700'
-                      }`}
-                    >
-                      {step.text}
-                    </p>
+                    <div className="flex items-start gap-2 pt-1">
+                      <p
+                        className={`flex-1 leading-relaxed ${
+                          isNotebook ? 'font-editorial text-lg text-[#24313d]' : 'text-gray-700'
+                        }`}
+                      >
+                        {step.text}
+                      </p>
+                      <TextToSpeechStepButton
+                        text={step.text}
+                        label={`Ouvir passo ${step.number}`}
+                      />
+                    </div>
                   </EditorialReveal>
                 );
               })}

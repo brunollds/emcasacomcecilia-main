@@ -11,16 +11,19 @@ import {
   EditorialAmbientBackground,
   EditorialNotePill,
   EditorialReveal,
+  MarginNoteRail,
   PretextPullQuote,
   PretextShrinkwrap,
   SectionHeadingReveal,
   SectionLinkButton,
 } from '@/components/editorial';
 import { formatDate, type Recipe, type RecipeViewModel } from '@/lib/content';
+import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 import RecipeIngredients from './RecipeIngredients';
 import RecipeInstructions from './RecipeInstructions';
 import { ServingScaleControl } from './ServingScaleControl';
 import { RecipeJumpNav } from './RecipeJumpNav';
+import { RecipeMetaChips } from './RecipeMetaChips';
 
 export interface RecipeNotebookTemplateProps {
   recipe: Recipe;
@@ -52,10 +55,20 @@ export function RecipeNotebookTemplate({
   const primaryBreadcrumbChip = taxonomyChips.find((chip) => chip.primary) ?? taxonomyChips[0];
   const servingsStorageKey = `serving-scale-${recipe.slug}`;
 
+  // Recipe section index mapping for line anchors (0-based)
+  // This documents the fixed section structure for authoring and line anchor validation
+  const RECIPE_SECTION_INDICES = {
+    'ficha-tecnica': 0,
+    'ingredientes': 1,
+    'modo-de-preparo': 2,
+    'dicas': 3,
+  } as const;
+
   // Separate notes into anchored and unanchored
+  // Exclude both section-id anchored notes and line-anchored notes (which belong to margin rails)
   const notes = recipe.notes || [];
-  const validAnchors = new Set(['ficha-tecnica', 'ingredientes', 'modo-de-preparo', 'dicas']);
-  const unanchoredNotes = notes.filter((note) => !note.anchor || !validAnchors.has(note.anchor));
+  const validAnchors = new Set(Object.keys(RECIPE_SECTION_INDICES));
+  const unanchoredNotes = notes.filter((note) => !note.anchor || (!validAnchors.has(note.anchor) && !isLineAnchor(note.anchor)));
   const getAnchoredNotes = (anchor: string) => notes.filter((note) => note.anchor === anchor);
 
   return (
@@ -136,6 +149,8 @@ export function RecipeNotebookTemplate({
           <EditorialReveal as="p" delay={0.2} className="mx-auto mb-6 max-w-2xl text-center font-editorial text-lg italic leading-relaxed text-[#4a5568] md:mx-0 md:text-left md:text-xl">
             &quot;{recipe.description}&quot;
           </EditorialReveal>
+
+          <RecipeMetaChips recipe={recipe} />
 
           <EditorialReveal as="div" delay={0.25} className="mb-8 flex flex-wrap items-center justify-center gap-3 text-sm text-[#1a4d2e]/80 md:justify-start">
             <ArticleByline
@@ -244,7 +259,8 @@ export function RecipeNotebookTemplate({
             </div>
           )}
 
-          <div className="grid grid-cols-2 gap-4 sm:grid-cols-5">
+          <MarginNoteRail notes={notes} sectionIndex={RECIPE_SECTION_INDICES['ficha-tecnica']}>
+            <div className="grid grid-cols-2 gap-4 sm:grid-cols-5">
             <EditorialReveal as="div" delay={0} className="rounded-xl border border-[#1a4d2e]/10 bg-white/60 p-4">
               <span className="mb-1 flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-widest text-[#1a4d2e]/70">
                 <Clock size={12} /> Preparo
@@ -290,7 +306,8 @@ export function RecipeNotebookTemplate({
               </span>
               <span className="font-handwritten text-2xl text-[#1a4d2e]">{recipe.difficulty}</span>
             </EditorialReveal>
-          </div>
+            </div>
+          </MarginNoteRail>
         </div>
       </section>
 
@@ -328,17 +345,19 @@ export function RecipeNotebookTemplate({
                 ))}
               </div>
             )}
-            <RecipeIngredients
-              slug={recipe.slug}
-              structuredIngredients={displayIngredients}
-              legacyIngredients={recipe.ingredients}
-              baseServings={hasServingsControl ? recipe.servings : undefined}
-              servingsUnit={recipe.servingsUnit}
-              variant="notebook"
-              hideServingsControl
-              servingsStorageKey={servingsStorageKey}
-              headingButton={<SectionLinkButton anchorId="ingredientes" />}
-            />
+            <MarginNoteRail notes={notes} sectionIndex={RECIPE_SECTION_INDICES['ingredientes']}>
+              <RecipeIngredients
+                slug={recipe.slug}
+                structuredIngredients={displayIngredients}
+                legacyIngredients={recipe.ingredients}
+                baseServings={hasServingsControl ? recipe.servings : undefined}
+                servingsUnit={recipe.servingsUnit}
+                variant="notebook"
+                hideServingsControl
+                servingsStorageKey={servingsStorageKey}
+                headingButton={<SectionLinkButton anchorId="ingredientes" />}
+              />
+            </MarginNoteRail>
           </div>
 
           <div
@@ -353,12 +372,14 @@ export function RecipeNotebookTemplate({
                 ))}
               </div>
             )}
-            <RecipeInstructions
-              instructionGroups={displayInstructions}
-              baseSlug={recipe.slug}
-              variant="notebook"
-              headingButton={<SectionLinkButton anchorId="modo-de-preparo" />}
-            />
+            <MarginNoteRail notes={notes} sectionIndex={RECIPE_SECTION_INDICES['modo-de-preparo']}>
+              <RecipeInstructions
+                instructionGroups={displayInstructions}
+                baseSlug={recipe.slug}
+                variant="notebook"
+                headingButton={<SectionLinkButton anchorId="modo-de-preparo" />}
+              />
+            </MarginNoteRail>
 
             {recipe.tips && recipe.tips.length > 0 && (
               <div
@@ -372,10 +393,11 @@ export function RecipeNotebookTemplate({
                     ))}
                   </div>
                 )}
-                <EditorialReveal
-                  as="div"
-                  className="rotate-[-0.35deg] rounded-xl border border-[#ffb26b]/60 bg-[#fff4bf] p-5 shadow-[0_12px_28px_rgba(74,36,0,0.10)]"
-                >
+                <MarginNoteRail notes={notes} sectionIndex={RECIPE_SECTION_INDICES['dicas']}>
+                  <EditorialReveal
+                    as="div"
+                    className="rotate-[-0.35deg] rounded-xl border border-[#ffb26b]/60 bg-[#fff4bf] p-5 shadow-[0_12px_28px_rgba(74,36,0,0.10)]"
+                  >
                 <span
                   aria-hidden="true"
                   className="absolute left-1/2 top-0 h-5 w-20 -translate-x-1/2 -translate-y-1/2 rotate-[-2deg] rounded-sm bg-[#ffdf8a]/75 shadow-sm"
@@ -406,7 +428,8 @@ export function RecipeNotebookTemplate({
                     ))}
                   </ul>
                 </PretextShrinkwrap>
-                </EditorialReveal>
+                  </EditorialReveal>
+                </MarginNoteRail>
               </div>
             )}
           </div>
