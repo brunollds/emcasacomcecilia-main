@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState, useCallback } from 'react';
 import { RichMarginNote } from './RichMarginNote';
+import { EditorialNotePill } from './EditorialNotePill';
 import { parseLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 import type { EditorialNoteData } from '@/lib/content';
 
@@ -17,11 +18,14 @@ export interface MarginNoteRailProps {
 /**
  * MarginNoteRail — positions line-anchored editorial notes in the left gutter.
  *
- * Wraps a prose section and renders line-anchored notes as absolute-positioned
- * margin notes in the left gutter (notebook metaphor). Falls back to inline
- * EditorialNotePill when:
- * - Viewport is <lg (via hidden xl:block in RichMarginNote)
- * - Left gutter is <250px (no real margin space)
+ * Wraps a prose section and renders line-anchored notes with adaptive fallbacks:
+ * - Mobile (<xl): EditorialNotePill at top of section (visible, discoverable)
+ * - Desktop (≥xl) with gutter (≥250px): absolute margin note at prose_left - 244px
+ * - Desktop (≥xl) without gutter: pill fallback
+ *
+ * Each note is rendered as TWO siblings, visibility controlled by state + classes:
+ * 1. Mobile pill: `<div className="xl:hidden">` — always visible on mobile/tablet
+ * 2. Desktop margin note: `<aside className="hidden ${hasGutterSpace ? 'xl:block' : 'xl:hidden'}">` — visible only with gutter
  *
  * Line positioning:
  * - Reads prose element height + computed line-height after mount/resize
@@ -127,22 +131,33 @@ export function MarginNoteRail({
 
   return (
     <div ref={containerRef} className="relative">
+      {/* Mobile fallback pills: visible on <xl breakpoints */}
+      {anchoredNotes.map((note) => (
+        <div key={`mobile-${note.id || note.label}`} className="xl:hidden mb-4">
+          <EditorialNotePill note={note} />
+        </div>
+      ))}
+
       {/* Prose block with ref for measurement */}
       <div ref={proseRef}>{children}</div>
 
-      {/* Margin notes rail (print:hidden already in RichMarginNote) */}
-      {hasGutterSpace &&
-        anchoredNotes.map((note) => {
-          const lineTop = linePositions.get(note.id || note.label);
-          return (
+      {/* Desktop margin notes: visible on ≥xl with gutter space only (print:hidden already in RichMarginNote) */}
+      {anchoredNotes.map((note) => {
+        const lineTop = linePositions.get(note.id || note.label);
+        return (
+          <div
+            key={`desktop-${note.id || note.label}`}
+            className={`hidden ${hasGutterSpace ? 'xl:block' : 'xl:hidden'} print:hidden`}
+          >
             <RichMarginNote
-              key={note.id || note.label}
               note={note}
               lineTop={lineTop}
               noteLeft={noteLeft}
+              marginNoteOnly
             />
-          );
-        })}
+          </div>
+        );
+      })}
     </div>
   );
 }
