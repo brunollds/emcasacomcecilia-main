@@ -395,12 +395,19 @@ export function ReviewGallerySection({ images, videos = [], title }: ReviewGalle
   const [activeTab, setActiveTab] = useState<'photos' | 'videos'>(hasPhotos ? 'photos' : 'videos');
   const [lightboxIndex, setLightboxIndex] = useState<number | null>(null);
 
-  if (!hasPhotos && !hasVideos) return null;
+  const imageCount = images.length;
+  const openLightbox = useCallback((index: number) => setLightboxIndex(index), []);
+  const closeLightbox = useCallback(() => setLightboxIndex(null), []);
+  const previousImage = useCallback(
+    () => setLightboxIndex((prev) => (prev === null ? null : prev === 0 ? imageCount - 1 : prev - 1)),
+    [imageCount]
+  );
+  const nextImage = useCallback(
+    () => setLightboxIndex((prev) => (prev === null ? null : (prev + 1) % imageCount)),
+    [imageCount]
+  );
 
-  const openLightbox = (index: number) => setLightboxIndex(index);
-  const closeLightbox = () => setLightboxIndex(null);
-  const previousImage = () => setLightboxIndex((prev) => (prev === null ? null : prev === 0 ? images.length - 1 : prev - 1));
-  const nextImage = () => setLightboxIndex((prev) => (prev === null ? null : (prev + 1) % images.length));
+  if (!hasPhotos && !hasVideos) return null;
 
   return (
     <section className="mt-12 print:hidden">
