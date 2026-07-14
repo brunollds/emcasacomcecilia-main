@@ -243,16 +243,17 @@ body {
 
 /* 📝 Utilitários editoriais — Fase 2 */
 
+/* Referenciam as vars do next/font direto: as vars do @theme inline não existem em runtime */
 .font-editorial {
-  font-family: var(--font-editorial);
+  font-family: var(--font-lora), Georgia, 'Times New Roman', serif;
 }
 
 .font-handwritten {
-  font-family: var(--font-handwritten);
+  font-family: var(--font-caveat), 'Brush Script MT', cursive;
 }
 
 .font-hand-title {
-  font-family: var(--font-hand-title);
+  font-family: var(--font-kalam), var(--font-caveat), 'Comic Sans MS', cursive;
 }
 
 /* 📓 Template "caderno de família" — Fase 3C */
@@ -428,7 +429,7 @@ body {
 }
 
 .handwritten-number {
-  font-family: var(--font-handwritten);
+  font-family: var(--font-caveat), 'Brush Script MT', cursive;
   font-weight: 600;
 }
 
@@ -544,7 +545,7 @@ body {
     padding: 0;
     background: white !important;
     color: #0f1419 !important;
-    font-family: var(--font-editorial), Georgia, 'Times New Roman', serif !important;
+    font-family: var(--font-lora), Georgia, 'Times New Roman', serif !important;
     line-height: 1.6;
   }
 
@@ -617,7 +618,7 @@ body {
     font-size: 28pt;
     line-height: 1.2;
     margin: 0 0 12pt 0;
-    font-family: var(--font-hand-title), var(--font-editorial), Georgia, serif !important;
+    font-family: var(--font-kalam), var(--font-lora), Georgia, serif !important;
   }
 
   h2 {
@@ -765,7 +766,7 @@ body {
   /* Handwritten text (for recipe counts) */
   .font-handwritten,
   .font-hand-title {
-    font-family: var(--font-editorial), Georgia, serif !important;
+    font-family: var(--font-lora), Georgia, serif !important;
   }
 
   /* Hide iframes in print (video embeds, galleries, etc.) */
