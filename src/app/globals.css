@@ -490,6 +490,9 @@ body {
   transform: scale(1);
 }
 
+/* 🎞️ View Transitions API — Wave 4.2 */
+/* view-transition-name is applied via inline styles (style prop) in components */
+
 /* prefers-reduced-motion */
 @media (prefers-reduced-motion: reduce) {
   .editorial-reveal {
@@ -511,6 +514,13 @@ body {
     filter: blur(0px) !important;
     transform: scale(1) !important;
     transition: none !important;
+  }
+
+  /* Disable View Transitions under prefers-reduced-motion */
+  ::view-transition-group(*),
+  ::view-transition-old(*),
+  ::view-transition-new(*) {
+    animation: none !important;
   }
 }
 

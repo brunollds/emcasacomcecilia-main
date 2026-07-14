@@ -4,6 +4,7 @@ import { ArrowLeft, Clock, ChefHat, Users, Utensils, Lightbulb, PlayCircle } fro
 import TextToSpeechButton from '@/components/TextToSpeechButton';
 import RecipeViewTracker from '@/components/RecipeViewTracker';
 import { ShareBar } from '@/components/shared/ShareBar';
+import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 import {
   AnimatedTextHighlight,
   ArticleByline,
@@ -208,7 +209,10 @@ export function RecipeNotebookTemplate({
           />
 
           <EditorialReveal as="section" delay={0.3} className="mb-12">
-            <div className="relative mx-auto aspect-[16/10] max-w-3xl overflow-hidden rounded-2xl shadow-xl ring-1 ring-[#1a4d2e]/10">
+            <div
+              className="relative mx-auto aspect-[16/10] max-w-3xl overflow-hidden rounded-2xl shadow-xl ring-1 ring-[#1a4d2e]/10"
+              style={{ viewTransitionName: `recipe-hero-${sanitizeViewTransitionName(recipe.slug)}` }}
+            >
               <Image
                 src={recipeImage}
                 alt={recipeImageAlt}

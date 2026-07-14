@@ -2,6 +2,7 @@
 
 import Image from 'next/image';
 import { useEffect, useRef } from 'react';
+import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 
 export interface ReviewHeroImageProps {
   src: string;
@@ -13,6 +14,7 @@ export interface ReviewHeroImageProps {
   hasProductRating?: boolean;
   rating?: number;
   objectContain?: boolean;
+  slug?: string;
   video?: {
     mp4: string;
     webm?: string;
@@ -43,6 +45,7 @@ export function ReviewHeroImage({
   hasProductRating = false,
   rating,
   objectContain = false,
+  slug,
   video,
 }: ReviewHeroImageProps): React.ReactElement {
   const effectivePortrait = imageAspect === 'portrait' || (!imageAspect && isPortrait);
@@ -126,6 +129,7 @@ export function ReviewHeroImage({
               ? 'mx-auto max-w-[420px] md:max-w-[480px]'
               : ''
       }`}
+      style={slug ? { viewTransitionName: `review-hero-${sanitizeViewTransitionName(slug)}` } : undefined}
     >
       <div
         ref={imgRef}

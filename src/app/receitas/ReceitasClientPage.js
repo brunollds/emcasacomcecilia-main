@@ -4,6 +4,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { useState } from 'react';
 import { usePathname, useRouter, useSearchParams } from 'next/navigation';
+import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 import { ArrowRight, ChefHat, ChevronDown, Clock, Leaf, SlidersHorizontal, X } from 'lucide-react';
 import {
   COLLECTIONS,
@@ -292,7 +293,10 @@ function RecipeResultsGrid({ items }) {
             style={{ animationDelay: `${(index % 6) * 0.05}s` }}
           >
             <article className="transition-all duration-500 group-hover:-translate-y-2">
-              <div className="relative mb-4 aspect-[5/6] overflow-hidden rounded-[2rem] shadow-soft transition-all duration-500 group-hover:shadow-large">
+              <div
+                className="relative mb-4 aspect-[5/6] overflow-hidden rounded-[2rem] shadow-soft transition-all duration-500 group-hover:shadow-large"
+                style={{ viewTransitionName: `recipe-hero-${sanitizeViewTransitionName(receita.slug)}` }}
+              >
                 <Image
                   src={getRecipeImage(receita)}
                   alt={getRecipeImageAlt(receita)}

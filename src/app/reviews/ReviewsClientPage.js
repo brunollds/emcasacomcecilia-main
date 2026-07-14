@@ -5,6 +5,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { ArrowRight, Leaf } from 'lucide-react';
 import { getReviewSlug, publishedReviews } from '@/lib/data';
+import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 
 const INITIAL_COUNT = 8;
 const LOAD_MORE_COUNT = 4;
@@ -137,7 +138,10 @@ export default function ReviewsClientPage() {
                   style={{ animationDelay: `${(index % 8) * 0.05}s` }}
                 >
                   <article className="transition-all duration-500 group-hover:-translate-y-2">
-                    <div className="relative mb-4 aspect-[5/6] overflow-hidden rounded-[2rem] shadow-soft transition-all duration-500 group-hover:shadow-large">
+                    <div
+                      className="relative mb-4 aspect-[5/6] overflow-hidden rounded-[2rem] shadow-soft transition-all duration-500 group-hover:shadow-large"
+                      style={{ viewTransitionName: `review-hero-${sanitizeViewTransitionName(getReviewSlug(review))}` }}
+                    >
                       {review.image ? (
                         <Image
                           src={review.image}
