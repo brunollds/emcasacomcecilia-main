@@ -81,7 +81,7 @@ export function ReviewVerdictCard({
       {(hasVerdict || hasRating) && (
         <div className="relative overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft">
           {showSeal && (
-            <div className="absolute right-3 top-3 z-10 max-w-[150px] rotate-[-6deg] text-center sm:right-4 sm:top-4 sm:max-w-none">
+            <div className="absolute right-3 top-3 z-10 max-w-[150px] rotate-[-6deg] text-center print:hidden sm:right-4 sm:top-4 sm:max-w-none">
               <span className="inline-block rounded-full border-2 border-[#ff6b35]/30 bg-[#fff8f0] px-3 py-1.5 font-hand-title text-xs font-bold leading-tight text-[#d94b21] shadow-sm sm:px-4 sm:py-2 sm:text-sm">
                 Aprovado pela Cecília
               </span>
