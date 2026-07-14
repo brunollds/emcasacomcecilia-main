@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import Image from 'next/image';
-import { Clock, ChefHat, ArrowRight, Heart, Sparkles } from 'lucide-react';
+import { Clock, ChefHat, ArrowRight, Heart } from 'lucide-react';
 import { getRecipeImage, getRecipeImageAlt, recipes } from '@/lib/data';
 import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 import { ViewTransitionLink } from '@/components/ViewTransitionLink';
@@ -20,9 +20,8 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
     ? analyticsPopularRecipes
     : recipes.filter(r => r.isPopular)
   ).slice(0, 4);
-  const newRecipes = [...recipes].sort((a, b) => b.id - a.id).slice(0, 4);
 
-  const renderRecipeCard = (recipe, index, isNew = false) => (
+  const renderRecipeCard = (recipe, index) => (
     <ViewTransitionLink
       key={recipe.id}
       href={`/receitas/${recipe.slug}`}
@@ -45,16 +44,6 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
           {/* Overlays */}
           <div className="absolute inset-0 bg-black/0 transition-colors duration-300 group-hover:bg-black/10" />
           <div className="absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-80" />
-
-          {/* Badge 'Nova' */}
-          {isNew && (
-            <div className="absolute left-4 top-4">
-              <span className="inline-flex items-center gap-1.5 rounded-full bg-white/95 px-3 py-1.5 text-[10px] font-bold uppercase tracking-[0.2em] text-[#1a4d2e] shadow-lg backdrop-blur-md">
-                <Sparkles className="h-3 w-3 fill-current" />
-                Lançamento
-              </span>
-            </div>
-          )}
 
           {/* Info no Rodapé da Imagem */}
           <div className="absolute bottom-5 left-5 right-5 flex items-center gap-4 text-xs font-bold uppercase tracking-widest text-white">
@@ -82,10 +71,10 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
   );
 
   return (
-    <section className="bg-white pb-16 pt-10">
+    <section className="bg-white pb-16 pt-6 md:pt-8">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Receitas Populares */}
-        <div className="mb-10 md:mb-16">
+        <div>
           <div className="flex items-center gap-2 mb-4">
             <Heart className="w-5 h-5 text-[#ff6b35] fill-[#ff6b35]" />
             <span className="text-sm font-semibold text-[#ff6b35] uppercase tracking-wide">
@@ -108,24 +97,6 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
 
           <div className="-mx-4 flex snap-x snap-mandatory gap-4 overflow-x-auto px-4 pb-2 [scrollbar-width:none] md:mx-0 md:grid md:grid-cols-4 md:gap-4 md:overflow-visible md:px-0 md:pb-0 lg:gap-6 [&::-webkit-scrollbar]:hidden">
             {popularRecipes.map((recipe, index) => renderRecipeCard(recipe, index))}
-          </div>
-        </div>
-
-        {/* Receitas Novas */}
-        <div>
-          <div className="flex items-center gap-2 mb-4">
-            <Sparkles className="w-5 h-5 text-[#ffd700]" />
-            <span className="text-sm font-semibold text-[#ffd700] uppercase tracking-wide">
-              Acabou de Chegar
-            </span>
-          </div>
-
-          <h2 className="font-heading text-2xl sm:text-3xl font-bold text-[#0f1419] mb-8">
-            Receitas Novas
-          </h2>
-
-          <div className="-mx-4 flex snap-x snap-mandatory gap-4 overflow-x-auto px-4 pb-2 [scrollbar-width:none] md:mx-0 md:grid md:grid-cols-4 md:gap-4 md:overflow-visible md:px-0 md:pb-0 lg:gap-6 [&::-webkit-scrollbar]:hidden">
-            {newRecipes.map((recipe, index) => renderRecipeCard(recipe, index, true))}
           </div>
         </div>
 
