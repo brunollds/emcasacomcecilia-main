@@ -6,6 +6,13 @@
 // Por isso este passo não reinjeta .env nem reinicia — só verifica. O único restart é o do próprio
 // deploy MCP (cold start ~90-120s neste host). Validado 10/07: app 200 + vídeos SEM .env no servidor.
 import { execFileSync } from 'node:child_process';
+import { setDefaultResultOrder } from 'node:dns';
+
+// O domínio anuncia AAAA (IPv6) além do A. Em máquinas SEM rota IPv6 até a Hostinger
+// (ex.: Windows do Bruno/Codex — ENETUNREACH verificado 14/07), o fetch nativo tentava
+// IPv6 e dava 000 (falso negativo), enquanto o curl usava IPv4 e funcionava. Forçar IPv4
+// primeiro casa com o caminho do curl (fallback pra IPv6 continua se o IPv4 falhar).
+setDefaultResultOrder('ipv4first');
 
 const DOMAIN = 'emcasacomcecilia.com';
 const SSH_ARGS = ['-p', '65002', 'u150185510@46.202.145.2'];
@@ -15,14 +22,18 @@ function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+let lastFetchError = '';
 async function httpCode() {
   try {
     const response = await fetch(`https://${DOMAIN}/`, {
       redirect: 'manual',
     });
     return String(response.status);
-  } catch {
-    return '000'; // conexão recusada/reset durante o cold start
+  } catch (e) {
+    // NÃO engolir o motivo: ECONNREFUSED/ECONNRESET = cold start (retry ok);
+    // ENETUNREACH/ETIMEDOUT = rede/IPv6 (ambiental, não vai melhorar sozinho).
+    lastFetchError = e?.cause?.code || e?.cause?.message || e?.message || 'desconhecido';
+    return '000';
   }
 }
 
@@ -48,7 +59,7 @@ async function main() {
   if (!ok) {
     const hint = lastCode === '503'
       ? '503 persistente — checar Variáveis de ambiente no painel (NODE_OPTIONS=--v8-pool-size=1?) ou pilha de next-server (ver DEPLOY-GUIDE › Recuperação de 503)'
-      : `sem 200 em 240s (último: ${lastCode}) — cold start longo ou app não subiu; ver console.log/stderr.log no servidor`;
+      : `sem 200 em 240s (último: ${lastCode}${lastCode === '000' && lastFetchError ? `, motivo: ${lastFetchError}` : ''}) — cold start longo, rede, ou app não subiu; ver console.log/stderr.log no servidor`;
     throw new Error(hint);
   }
 
