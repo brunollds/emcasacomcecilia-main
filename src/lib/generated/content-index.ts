@@ -32994,8 +32994,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Aprenda a usar o cupom CECI no site oficial da Nestlé Nutre. Passo a passo completo para garantir 5% de desconto, com a exceção dos produtos Alfamino e Alfaré.",
-    "metaDescription": "Use o cupom CECI na Nestlé Nutre e ganhe 5% OFF na loja oficial. Veja o passo a passo, a exceção de Alfamino e Alfaré e como validar o desconto no checkout.",
+    "description": "Aprenda a usar o cupom CECI no site oficial da Nestlé Nutre. Passo a passo completo para garantir 5% de desconto em todo o site, com a exceção dos produtos Alfamino e Alfaré.",
+    "metaDescription": "Use o cupom CECI na Nestlé Nutre e ganhe 5% OFF em todo o site da loja oficial. Veja o passo a passo, a exceção de Alfamino e Alfaré e como validar o desconto no checkout.",
     "publishedAt": "10 Jul 2026",
     "publishedAtISO": "2026-07-10",
     "draft": false,
