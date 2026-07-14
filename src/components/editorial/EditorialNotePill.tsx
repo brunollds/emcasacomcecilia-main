@@ -48,7 +48,6 @@ export function EditorialNotePill({ note }: EditorialNotePillProps): React.React
   const [isOpen, setIsOpen] = useState(false);
   const pillRef = useRef<HTMLButtonElement>(null);
   const closeButtonRef = useRef<HTMLButtonElement>(null);
-  const [isMounted, setIsMounted] = useState(false);
 
   const prefersReducedMotion = useSyncExternalStore(
     subscribeToReducedMotion,
@@ -56,16 +55,22 @@ export function EditorialNotePill({ note }: EditorialNotePillProps): React.React
     getServerSnapshot
   );
 
-  useEffect(() => {
-    setIsMounted(true);
-  }, []);
+  // Hydration-safe portal gate: true on client, false on server
+  const isMounted = useSyncExternalStore(
+    () => () => {},
+    () => true,
+    () => false
+  );
 
   useEffect(() => {
     if (!isOpen) return;
 
+    const pillElement = pillRef.current;
+    const closeButtonElement = closeButtonRef.current;
+
     // Move focus to close button
     const timer = window.setTimeout(() => {
-      closeButtonRef.current?.focus();
+      closeButtonElement?.focus();
     }, 0);
 
     const handleKeyDown = (event: KeyboardEvent) => {
@@ -81,9 +86,9 @@ export function EditorialNotePill({ note }: EditorialNotePillProps): React.React
           const rect = el.getBoundingClientRect();
           return rect.width > 0 && rect.height > 0; // visible
         });
-        if (focusableInDialog.length === 1 && focusableInDialog[0] === closeButtonRef.current) {
+        if (focusableInDialog.length === 1 && focusableInDialog[0] === closeButtonElement) {
           event.preventDefault();
-          closeButtonRef.current?.focus();
+          closeButtonElement?.focus();
         }
       }
     };
@@ -98,7 +103,7 @@ export function EditorialNotePill({ note }: EditorialNotePillProps): React.React
       window.removeEventListener('keydown', handleKeyDown);
       releaseScrollLock();
       // Return focus to pill
-      pillRef.current?.focus();
+      pillElement?.focus();
     };
   }, [isOpen]);
 
