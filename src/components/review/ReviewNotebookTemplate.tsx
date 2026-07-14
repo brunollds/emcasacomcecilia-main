@@ -17,6 +17,7 @@ import type { CouponCopyLocale } from './couponCopyLocale';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 import { GuideTimeline } from './GuideTimeline';
 import { PullQuote } from './PullQuote';
+import { ReviewHighlightChips } from './ReviewHighlightChips';
 
 export interface ReviewNotebookTemplateProps {
   review: Review;
@@ -262,6 +263,10 @@ export function ReviewNotebookTemplate({
                   ))}
                 </div>
               )}
+            </EditorialReveal>
+
+            <EditorialReveal as="div" delay={0.22} className="mb-6">
+              <ReviewHighlightChips review={review} kind={kind} />
             </EditorialReveal>
 
             {/* Hero image */}

@@ -15,3 +15,5 @@ export {
   isLineAnchor,
 } from './lineAnchorCodec';
 export type { LineAnchor } from './lineAnchorCodec';
+export { measureChipWidth } from './richInlineAdapter';
+export type { RichInlineItem } from './richInlineAdapter';

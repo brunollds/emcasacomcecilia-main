@@ -14,3 +14,4 @@ export { SectionLinkButton, type SectionLinkButtonProps } from './SectionLinkBut
 export { EditorialNotePill, type EditorialNotePillProps } from './EditorialNotePill';
 export { RichMarginNote, type RichMarginNoteProps } from './RichMarginNote';
 export { BottomSheet, acquireScrollLock, releaseScrollLock, type BottomSheetProps } from './BottomSheet';
+export { RichChip, type RichChipProps } from './RichChip';

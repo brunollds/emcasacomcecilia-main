@@ -21,6 +21,7 @@ import RecipeIngredients from './RecipeIngredients';
 import RecipeInstructions from './RecipeInstructions';
 import { ServingScaleControl } from './ServingScaleControl';
 import { RecipeJumpNav } from './RecipeJumpNav';
+import { RecipeMetaChips } from './RecipeMetaChips';
 
 export interface RecipeNotebookTemplateProps {
   recipe: Recipe;
@@ -135,6 +136,10 @@ export function RecipeNotebookTemplate({
 
           <EditorialReveal as="p" delay={0.2} className="mx-auto mb-6 max-w-2xl text-center font-editorial text-lg italic leading-relaxed text-[#4a5568] md:mx-0 md:text-left md:text-xl">
             &quot;{recipe.description}&quot;
+          </EditorialReveal>
+
+          <EditorialReveal as="div" delay={0.23} className="mb-6">
+            <RecipeMetaChips recipe={recipe} />
           </EditorialReveal>
 
           <EditorialReveal as="div" delay={0.25} className="mb-8 flex flex-wrap items-center justify-center gap-3 text-sm text-[#1a4d2e]/80 md:justify-start">
