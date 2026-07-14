@@ -30182,6 +30182,20 @@ export const reviewsData: unknown[] = [
     "hideFromListings": true,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "YesStyle의 한국 스킨케어 제품",
+    "pros": [
+      "활성 쿠폰에 추가로 5% 할인을 더해주는 인플루언서 코드",
+      "사이트의 모든 활성 쿠폰 코드와 함께 사용 가능",
+      "US$ 59 이상 주문 시 무료 국제 배송",
+      "K-뷰티, J-뷰티, 한국 패션까지 방대한 카탈로그",
+      "100% 정품 — 공식 인증 판매점 제품",
+      "한국어 인터페이스로 편리하게 이용 가능한 사이트"
+    ],
+    "cons": [
+      "일반 쿠폰 코드를 대체하지 않음 (별도 칸에 입력)",
+      "국제 주문은 배송 국가에 따라 관세가 부과될 수 있음",
+      "국제 배송 기간 (표준 배송 기준 영업일 15~30일)",
+      "최종 결제는 미국 달러로 청구됨 (은행 환율에 따라 달라질 수 있음)"
+    ],
     "coupon": "CECILIA010",
     "notes": [
       {
@@ -30248,6 +30262,20 @@ export const reviewsData: unknown[] = [
     "hideFromListings": true,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "YesStyleの韓国スキンケア製品",
+    "pros": [
+      "アクティブなクーポンにさらに5%オフを追加するインフルエンサーコード",
+      "サイト内の有効なクーポンコードと併用可能",
+      "US$59以上の注文で国際送料無料",
+      "K-ビューティー、J-ビューティー、韓国ファッションまで豊富なカタログ",
+      "100%正規品 — 正規販売代理店",
+      "日本語インターフェースで利用しやすいサイト"
+    ],
+    "cons": [
+      "通常のクーポンコードの代わりにはならない（別欄で入力）",
+      "国際注文はお届け先によって関税が発生する場合がある",
+      "国際配送にかかる日数（標準配送で営業日15〜30日）",
+      "最終決済は米ドル建て（銀行の為替レートにより変動）"
+    ],
     "coupon": "CECILIA010",
     "notes": [
       {
@@ -30314,6 +30342,20 @@ export const reviewsData: unknown[] = [
     "hideFromListings": true,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "YesStyle 韓國護膚產品",
+    "pros": [
+      "網紅專屬代碼，可在有效優惠券基礎上再折抵5%",
+      "可與網站上任何有效優惠券代碼一併使用",
+      "訂單滿US$59即享國際免運",
+      "K-Beauty、J-Beauty與韓系時尚商品目錄豐富",
+      "100%正品 — 官方授權經銷商",
+      "網站提供繁體中文介面，購物更方便"
+    ],
+    "cons": [
+      "無法取代一般優惠券代碼（需於另一欄位輸入）",
+      "國際訂單可能依所在地區被徵收關稅",
+      "國際配送時間（標準配送約15至30個工作天）",
+      "最終結帳以美元計價（依銀行匯率而定）"
+    ],
     "coupon": "CECILIA010",
     "notes": [
       {
@@ -30380,6 +30422,20 @@ export const reviewsData: unknown[] = [
     "hideFromListings": true,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "YesStyle 韩国护肤产品",
+    "pros": [
+      "网红专属代码，可在有效优惠券基础上再享5%折扣",
+      "可与网站上任何有效优惠券代码一起使用",
+      "订单满US$59即享国际免运费",
+      "K-Beauty、J-Beauty与韩系时尚商品目录丰富",
+      "100%正品 — 官方授权经销商",
+      "网站提供简体中文界面，购物更方便"
+    ],
+    "cons": [
+      "无法替代常规优惠券代码（需在单独栏目输入）",
+      "国际订单可能因所在地区被征收关税",
+      "国际配送时间（标准配送约15至30个工作日）",
+      "最终结算以美元计价（取决于银行汇率）"
+    ],
     "coupon": "CECILIA010",
     "notes": [
       {
