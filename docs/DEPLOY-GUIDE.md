@@ -201,5 +201,11 @@ Recriar com `deploy:prepare` (que já faz da pasta PAI).
 **Build saiu em node 18 / comportamento estranho** → deploy foi disparado pelo painel. Sempre via MCP
 (node 20). Ver Regra 2.
 
+**`deploy:finish` fica em `http 000` mesmo com o site no ar** → o domínio anuncia AAAA (IPv6); em
+máquina sem rota IPv6 até a Hostinger o `fetch` nativo do Node tentava IPv6 e dava 000 (o `curl` usa
+IPv4 e funciona). Corrigido no `finish.mjs` com `dns.setDefaultResultOrder('ipv4first')`. Se voltar a
+aparecer em outro script que faz `fetch` (ex.: futuro), aplicar a mesma linha. A mensagem de falha
+agora mostra o `motivo:` (ENETUNREACH = rede/IPv6; ECONNREFUSED/RESET = cold start, é só esperar).
+
 **IndexNow enviou `.../C:/Program Files/Git/...`** → passou path com `/` no Git-Bash. Usar URLs
 completas (`https://...`).
