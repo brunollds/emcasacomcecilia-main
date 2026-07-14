@@ -6,6 +6,7 @@ import {
   prepareRichInline,
   measureRichInlineStats,
 } from '@chenglou/pretext/rich-inline';
+import { parseLineAnchor, stringifyLineAnchor, isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 
 interface ValidationResult {
   ok: boolean;
@@ -170,6 +171,58 @@ const hasIntlSegmenter =
 
 report(hasIntlSegmenter, `Intl.Segmenter disponível: ${hasIntlSegmenter}`);
 reportSkipped(`Canvas não disponível no ambiente Node — medição real ocorre no browser`);
+
+// ---------------------------------------------------------------------------
+// 7. Line anchor codec (funções puras — rodam em Node)
+// ---------------------------------------------------------------------------
+
+try {
+  // Test round-trip
+  const testCases = [
+    { section: 2, line: 7 },
+    { section: 0, line: 1 },
+    { section: 99, line: 999 },
+  ];
+
+  let allRoundTripsPass = true;
+  for (const tc of testCases) {
+    const str = stringifyLineAnchor(tc.section, tc.line);
+    const parsed = parseLineAnchor(str);
+    if (!parsed || parsed.sectionIndex !== tc.section || parsed.lineNumber !== tc.line) {
+      allRoundTripsPass = false;
+      break;
+    }
+  }
+
+  report(
+    allRoundTripsPass,
+    'stringifyLineAnchor + parseLineAnchor round-trips preservam sectionIndex e lineNumber'
+  );
+
+  // Test isLineAnchor
+  const validAnchors = ['S0:L1', 'S2:L7', 'S99:L999'];
+  const invalidAnchors = ['ingredientes', 'S2', 'L7', 'S2L7', 'S2:L', 'abc'];
+
+  const allValidPass = validAnchors.every((a) => isLineAnchor(a));
+  const noInvalidPass = invalidAnchors.every((a) => !isLineAnchor(a));
+
+  report(
+    allValidPass && noInvalidPass,
+    'isLineAnchor diferencia âncoras de linha válidas (S{n}:L{n}) de seções/formatos inválidos'
+  );
+
+  // Test parseLineAnchor returns null for invalid
+  const parseInvalidResult = parseLineAnchor('ingredientes');
+  report(
+    parseInvalidResult === null,
+    'parseLineAnchor retorna null para section ids como "ingredientes"'
+  );
+} catch (err) {
+  report(
+    false,
+    `Line anchor codec falhou: ${err instanceof Error ? err.message : String(err)}`
+  );
+}
 
 // ---------------------------------------------------------------------------
 // Resumo
