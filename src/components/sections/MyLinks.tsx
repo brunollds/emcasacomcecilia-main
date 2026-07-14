@@ -15,7 +15,7 @@ const links = [
     eyebrow: 'Parceria da casa',
     accent: '#ff6b35',
     cta: 'Pegar cupom',
-    image: '/images/universe/damie-hero-collage.webp',
+    image: '/images/universe/damie-hero-cecilia.webp',
     Icon: Handshake,
   },
   {
@@ -27,7 +27,7 @@ const links = [
     eyebrow: 'Economize melhor',
     accent: '#1a4d2e',
     cta: 'Ver ofertas',
-    image: '/images/universe/dicas-hero.webp',
+    image: '/images/universe/dicas-hero-promos.webp',
     Icon: Tag,
   },
   {
@@ -68,7 +68,7 @@ export function MyLinks() {
             {heroLink.image ? (
               <Image
                 src={heroLink.image}
-                alt="Ambiente DAMIE selecionado pela Cecília"
+                alt="Cecília debruçada sobre a caixa de entrega da DAMIE"
                 fill
                 className="object-cover transition-transform duration-700 ease-out group-hover:scale-105"
                 sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 34vw"
