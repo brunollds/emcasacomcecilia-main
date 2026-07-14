@@ -83,8 +83,8 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
           </div>
 
           <div className="mb-8 flex items-end justify-between gap-4">
-            <h2 className="font-heading text-2xl sm:text-3xl font-bold text-[#0f1419]">
-              Receitas Populares
+            <h2 className="font-editorial text-2xl sm:text-3xl font-bold text-[#1a4d2e]">
+              Receitas Favoritas
             </h2>
             <Link
               href="/receitas"

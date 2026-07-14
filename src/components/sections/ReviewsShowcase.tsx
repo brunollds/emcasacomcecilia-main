@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import Image from 'next/image';
-import { ArrowRight } from 'lucide-react';
+import { ArrowRight, BadgeCheck } from 'lucide-react';
 import { getReviewSlug, publishedReviews } from '@/lib/data';
 
 const accentByType: Record<string, string> = {
@@ -96,8 +96,14 @@ export function ReviewsShowcase() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="mb-8 flex flex-col gap-3 text-left md:mb-10 md:flex-row md:items-end md:justify-between">
           <div>
-            <h2 className="font-heading text-2xl font-bold text-[#0f1419] sm:text-3xl">
-              Reviews & análises sinceras
+            <div className="mb-4 flex items-center gap-2">
+              <BadgeCheck className="h-5 w-5 text-[#ff6b35]" />
+              <span className="text-sm font-semibold uppercase tracking-wide text-[#ff6b35]">
+                Testado em Casa
+              </span>
+            </div>
+            <h2 className="font-editorial text-2xl font-bold text-[#0f1d3a] sm:text-3xl">
+              Análises Sinceras
             </h2>
           </div>
           <Link
