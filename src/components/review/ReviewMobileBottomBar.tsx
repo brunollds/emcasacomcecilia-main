@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { Check, Copy, ExternalLink, X } from 'lucide-react';
 import { getCouponCopyLabels, type CouponCopyLocale } from './couponCopyLocale';
 
@@ -19,6 +19,7 @@ export function ReviewMobileBottomBar({ coupon, cta, locale = 'pt' }: ReviewMobi
   const [copied, setCopied] = useState(false);
   const [visible, setVisible] = useState(false);
   const [dismissed, setDismissed] = useState(false);
+  const timeoutRef = useRef<NodeJS.Timeout | null>(null);
   const labels = getCouponCopyLabels(locale);
 
   const hasCoupon = Boolean(coupon);
@@ -41,6 +42,15 @@ export function ReviewMobileBottomBar({ coupon, cta, locale = 'pt' }: ReviewMobi
     return () => window.removeEventListener('scroll', onScroll);
   }, [dismissed, hasCoupon, hasCta]);
 
+  // Cleanup timeout on unmount
+  useEffect(() => {
+    return () => {
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+      }
+    };
+  }, []);
+
   if (!hasCoupon && !hasCta) return null;
 
   const handleCopy = async () => {
@@ -48,7 +58,14 @@ export function ReviewMobileBottomBar({ coupon, cta, locale = 'pt' }: ReviewMobi
     try {
       await navigator.clipboard.writeText(coupon);
       setCopied(true);
-      window.setTimeout(() => setCopied(false), 1800);
+
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+      }
+
+      timeoutRef.current = setTimeout(() => {
+        setCopied(false);
+      }, 2200);
     } catch {
       setCopied(false);
     }
@@ -77,11 +94,17 @@ export function ReviewMobileBottomBar({ coupon, cta, locale = 'pt' }: ReviewMobi
             <button
               type="button"
               onClick={handleCopy}
-              className="flex flex-1 items-center justify-center gap-2 rounded-xl bg-white px-3 py-3 text-sm font-bold text-[#1a4d2e] shadow-[0_4px_16px_rgba(0,0,0,0.12)] transition-all active:scale-95 border border-[#1a4d2e]/10 hover:-translate-y-0.5 hover:shadow-[0_6px_20px_rgba(0,0,0,0.16)]"
-              aria-label={labels.copyCoupon(coupon)}
+              className={`flex flex-1 items-center justify-center gap-2 rounded-xl border border-dashed px-3 py-3 text-sm font-bold transition-all active:scale-95 hover:-translate-y-0.5 ${
+                copied
+                  ? 'border-[#1a7f37] bg-[#f0fdf4] text-[#1a7f37] shadow-[0_4px_16px_rgba(26,127,55,0.12)] hover:shadow-[0_6px_20px_rgba(26,127,55,0.16)]'
+                  : 'border-[#ff6b35]/50 bg-gradient-to-b from-[#fef9f3] to-[#fff4bf] text-[#1a4d2e] shadow-[0_4px_16px_rgba(0,0,0,0.12)] hover:shadow-[0_6px_20px_rgba(0,0,0,0.16)]'
+              }`}
+              aria-label={copied ? 'Cupom copiado' : labels.copyCoupon(coupon)}
             >
-              <span className="font-mono tracking-[0.04em]">{coupon}</span>
-              <span className="inline-flex h-7 w-7 items-center justify-center rounded-full bg-[#1a4d2e] text-white">
+              <span className="font-mono font-black tracking-[0.08em]">{coupon}</span>
+              <span className={`inline-flex h-7 w-7 items-center justify-center rounded-full transition-colors ${
+                copied ? 'bg-[#1a7f37] text-white' : 'bg-[#1a4d2e] text-white'
+              }`}>
                 {copied ? <Check size={14} /> : <Copy size={14} />}
               </span>
             </button>

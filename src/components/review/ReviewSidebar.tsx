@@ -2,7 +2,7 @@
 
 import { ArrowRight, Check, Copy, ExternalLink, Star } from 'lucide-react';
 import Link from 'next/link';
-import { useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { ReviewTableOfContents, type TocItem } from './ReviewTableOfContents';
 import type { Review, ReviewKind } from '@/lib/content';
 
@@ -44,6 +44,7 @@ function SidebarConversionCards({
   effectiveCta?: { url: string; label: string; text?: string } | null;
 }): React.ReactElement | null {
   const [copied, setCopied] = useState(false);
+  const timeoutRef = useRef<NodeJS.Timeout | null>(null);
 
   const handleCopy = async () => {
     if (!coupon) return;
@@ -51,29 +52,47 @@ function SidebarConversionCards({
     try {
       await navigator.clipboard.writeText(coupon);
       setCopied(true);
-      window.setTimeout(() => setCopied(false), 1800);
+
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+      }
+
+      timeoutRef.current = setTimeout(() => {
+        setCopied(false);
+      }, 2200);
     } catch {
       setCopied(false);
     }
   };
+
+  // Cleanup on unmount
+  useEffect(() => {
+    return () => {
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+      }
+    };
+  }, []);
 
   if (!coupon && !effectiveCta?.url) return null;
 
   return (
     <div className="space-y-3">
       {coupon && (
-        <div className="rounded-xl border border-[#1a4d2e]/10 bg-white p-4 shadow-soft">
-          <div className="mb-2 flex items-center justify-between gap-3 rounded-xl border border-dashed border-[#1a4d2e]/20 bg-[#faf8f3] px-4 py-3">
-            <span className="font-mono text-lg font-black tracking-[0.08em] text-[#1a4d2e]">{coupon}</span>
-            <button
-              type="button"
-              onClick={handleCopy}
-              className="inline-flex h-9 w-9 items-center justify-center rounded-full bg-[#1a4d2e] text-white transition-all hover:-translate-y-0.5 hover:bg-[#ff6b35] hover:shadow-md"
-              aria-label={`Copiar código ${coupon}`}
-            >
-              {copied ? <Check size={17} /> : <Copy size={17} />}
-            </button>
-          </div>
+        <div className="rounded-xl border border-dashed border-[#ff6b35]/50 bg-gradient-to-b from-[#fef9f3] to-[#fff4bf] p-4 shadow-soft">
+          <button
+            type="button"
+            onClick={handleCopy}
+            className={`mb-3 flex w-full items-center justify-center gap-3 rounded-full border-2 px-5 py-3 font-mono text-base font-black tracking-[0.08em] transition-all motion-safe:hover:-translate-y-px motion-safe:hover:shadow-md ${
+              copied
+                ? 'border-[#1a7f37] bg-[#f0fdf4] text-[#1a7f37]'
+                : 'border-[#1a4d2e] text-[#1a4d2e] hover:bg-[#1a4d2e]/5'
+            }`}
+            aria-label={copied ? 'Cupom copiado' : `Copiar código ${coupon}`}
+          >
+            {coupon}
+            {copied ? <Check size={18} /> : <Copy size={18} />}
+          </button>
           <p className="text-xs leading-relaxed text-[#4a5568]">
             {copied ? 'Código copiado. Cole no campo correto do checkout.' : 'Copie antes de ir para a loja.'}
           </p>
