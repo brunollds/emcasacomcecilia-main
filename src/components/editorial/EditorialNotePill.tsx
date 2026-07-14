@@ -5,6 +5,25 @@ import { createPortal } from 'react-dom';
 import { X, StickyNote } from 'lucide-react';
 import type { EditorialNoteData } from '@/lib/content';
 
+// Module-level scroll lock counter to handle concurrent modals safely
+let scrollLockCount = 0;
+let previousOverflow = '';
+
+function acquireScrollLock(): void {
+  if (scrollLockCount === 0) {
+    previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = 'hidden';
+  }
+  scrollLockCount += 1;
+}
+
+function releaseScrollLock(): void {
+  scrollLockCount = Math.max(0, scrollLockCount - 1);
+  if (scrollLockCount === 0) {
+    document.body.style.overflow = previousOverflow;
+  }
+}
+
 export interface EditorialNotePillProps {
   note: EditorialNoteData;
 }
@@ -49,22 +68,35 @@ export function EditorialNotePill({ note }: EditorialNotePillProps): React.React
       closeButtonRef.current?.focus();
     }, 0);
 
-    const handleEscKey = (event: KeyboardEvent) => {
+    const handleKeyDown = (event: KeyboardEvent) => {
       if (event.key === 'Escape') {
         setIsOpen(false);
       }
+      // Tab trap: if Tab and only close button is focusable, prevent and keep focus
+      if (event.key === 'Tab') {
+        const focusableElements = document.querySelectorAll(
+          'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])'
+        );
+        const focusableInDialog = Array.from(focusableElements).filter((el) => {
+          const rect = el.getBoundingClientRect();
+          return rect.width > 0 && rect.height > 0; // visible
+        });
+        if (focusableInDialog.length === 1 && focusableInDialog[0] === closeButtonRef.current) {
+          event.preventDefault();
+          closeButtonRef.current?.focus();
+        }
+      }
     };
 
-    // Lock body scroll
-    const originalOverflow = document.body.style.overflow;
-    document.body.style.overflow = 'hidden';
+    // Lock body scroll using module-level counter
+    acquireScrollLock();
 
-    window.addEventListener('keydown', handleEscKey);
+    window.addEventListener('keydown', handleKeyDown);
 
     return () => {
       window.clearTimeout(timer);
-      window.removeEventListener('keydown', handleEscKey);
-      document.body.style.overflow = originalOverflow;
+      window.removeEventListener('keydown', handleKeyDown);
+      releaseScrollLock();
       // Return focus to pill
       pillRef.current?.focus();
     };
@@ -90,7 +122,7 @@ export function EditorialNotePill({ note }: EditorialNotePillProps): React.React
   );
 
   const sheetContent = isOpen && isMounted && createPortal(
-    <div className="fixed inset-0 z-50 print:hidden" role="dialog" aria-modal="true" aria-label={note.label}>
+    <div className="fixed inset-0 z-[60] print:hidden" role="dialog" aria-modal="true" aria-label={note.label}>
       {/* Backdrop */}
       <div
         className="absolute inset-0 bg-black/40 transition-opacity"
@@ -101,6 +133,7 @@ export function EditorialNotePill({ note }: EditorialNotePillProps): React.React
       {/* Sheet panel */}
       <div
         className="absolute bottom-0 left-0 right-0 mx-auto max-w-2xl rounded-t-2xl bg-white shadow-lg overflow-y-auto max-h-[70vh]"
+        onClick={(e) => e.stopPropagation()}
         style={{
           transform: isOpen ? 'translateY(0)' : 'translateY(100%)',
           opacity: isOpen ? 1 : 0,
@@ -125,7 +158,7 @@ export function EditorialNotePill({ note }: EditorialNotePillProps): React.React
         <div className="px-6 py-6 md:px-8">
           {bodyParagraphs.map((paragraph, index) => (
             <p
-              key={index}
+              key={`${note.id ?? note.label}-${index}`}
               className="mt-3 text-sm leading-relaxed text-[#4a5568] first:mt-0"
             >
               {paragraph}

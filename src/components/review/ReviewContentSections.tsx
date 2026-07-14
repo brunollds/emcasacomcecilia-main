@@ -40,7 +40,7 @@ export function ReviewContentSections({
         const isFirst = index === 0;
 
         // Find notes anchored to this section
-        const ancheredNotes = notes.filter((note) => note.anchor === sectionId);
+        const anchoredNotes = notes.filter((note) => note.anchor === sectionId);
 
         return (
           <EditorialReveal
@@ -64,9 +64,9 @@ export function ReviewContentSections({
                   >
                     {stepNumber ? section.heading.replace(/^\d+\.\s+/, '') : section.heading}
                   </SectionHeadingReveal>
-                  {ancheredNotes.length > 0 && (
+                  {anchoredNotes.length > 0 && (
                     <div className="mt-3 flex flex-wrap gap-2">
-                      {ancheredNotes.map((note) => (
+                      {anchoredNotes.map((note) => (
                         <EditorialNotePill key={note.id || note.label} note={note} />
                       ))}
                     </div>
