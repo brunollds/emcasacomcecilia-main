@@ -4,7 +4,7 @@ import { ArrowRight, ChevronRight, PlayCircle } from 'lucide-react';
 import TextToSpeechButton from '@/components/TextToSpeechButton';
 import { ShareBar } from '@/components/shared/ShareBar';
 import { ReviewGallerySection } from './ReviewGallerySection';
-import { ArticleByline, ChangelogDetails, EditorialAmbientBackground, EditorialReveal, SectionHeadingReveal, SectionLinkButton } from '@/components/editorial';
+import { ArticleByline, ChangelogDetails, EditorialAmbientBackground, EditorialReveal, SectionHeadingReveal, SectionLinkButton, EditorialNotePill } from '@/components/editorial';
 import { contentSectionsToPlainText, formatDate, generateSectionIds, type Review, type ReviewViewModel } from '@/lib/content';
 import { ReadingProgressBar } from './ReadingProgressBar';
 import { ReviewContentSections } from './ReviewContentSections';
@@ -127,6 +127,10 @@ export function ReviewNotebookTemplate({
   const postStepSections = firstStepIndex !== -1
     ? (review.contentSections || []).slice(firstStepIndex).filter((s) => !isStepHeading(s.heading))
     : [];
+
+  // Separate notes into anchored and unanchored
+  const notes = review.notes || [];
+  const unanchoredNotes = notes.filter((note) => !note.anchor || !sectionIds.has(note.anchor));
 
   return (
     <>
@@ -252,6 +256,13 @@ export function ReviewNotebookTemplate({
                   <ChangelogDetails entries={review.changelog} />
                 </div>
               )}
+              {unanchoredNotes.length > 0 && (
+                <div className="mt-4 flex flex-wrap gap-2">
+                  {unanchoredNotes.map((note) => (
+                    <EditorialNotePill key={note.id || note.label} note={note} />
+                  ))}
+                </div>
+              )}
             </EditorialReveal>
 
             {/* Hero image */}
@@ -333,6 +344,7 @@ export function ReviewNotebookTemplate({
                     sectionIds={sectionIds}
                     filterHeadings={filteredHeadings}
                     kind={kind}
+                    notes={notes}
                   />
                   {stepSections.length > 0 && (
                     <div className="mt-12">
@@ -347,6 +359,7 @@ export function ReviewNotebookTemplate({
                         sectionIds={sectionIds}
                         filterHeadings={filteredHeadings}
                         kind={kind}
+                        notes={notes}
                       />
                     </div>
                   )}
@@ -358,6 +371,7 @@ export function ReviewNotebookTemplate({
                   sectionIds={sectionIds}
                   filterHeadings={filteredHeadings}
                   kind={kind}
+                  notes={notes}
                 />
               )}
 

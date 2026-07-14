@@ -28922,7 +28922,20 @@ export const reviewsData: unknown[] = [
         "title": "Dicas & Ofertas: cupons e promoções do mês"
       }
     ],
-    "editorialNote": "Este post contém promoção afiliada. Ao comprar usando o cupom CECILIA12 ou os links indicados, você apoia o Em Casa com Cecília sem custo adicional."
+    "editorialNote": "Este post contém promoção afiliada. Ao comprar usando o cupom CECILIA12 ou os links indicados, você apoia o Em Casa com Cecília sem custo adicional.",
+    "notes": [
+      {
+        "id": "test-1",
+        "label": "Dica de montagem",
+        "body": "A montagem do sofá modular é facilitada se você tiver pelo menos 2 pessoas. A maioria dos módulos pesa entre 15 e 25 kg.\n\nDica extra: reserve pelo menos 2-3 horas para todo o processo, incluindo desembalagem e organização do espaço.",
+        "anchor": "a-decisao-de-comprar-um-sofa-modular"
+      },
+      {
+        "id": "test-2",
+        "label": "Cuidados com limpeza",
+        "body": "O tecido do sofá Damie é durável, mas recomendo aspirar regularmente para evitar acúmulo de pó. Para manchas, use um pano úmido com água morna.\n\nEvite produtos químicos agressivos que podem danificar as fibras."
+      }
+    ]
   },
   {
     "id": 20,
