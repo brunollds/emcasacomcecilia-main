@@ -3,10 +3,8 @@ export { ReviewVerdictCard, type ReviewVerdictCardProps } from './ReviewVerdictC
 export { ReviewNotebookTemplate, type ReviewNotebookTemplateProps } from './ReviewNotebookTemplate';
 export {
   ReviewTableOfContents,
-  ReviewMobileToc,
   type TocItem,
   type ReviewTableOfContentsProps,
-  type ReviewMobileTocProps,
 } from './ReviewTableOfContents';
 export { ReputacaoMetricas, PadroesReclamacao } from './ReputacaoMetricas';
 export { ReviewMobileBottomBar, type ReviewMobileBottomBarProps } from './ReviewMobileBottomBar';

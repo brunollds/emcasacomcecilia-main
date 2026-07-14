@@ -67,36 +67,3 @@ export function ReviewTableOfContents({ items }: ReviewTableOfContentsProps): Re
     </nav>
   );
 }
-
-export interface ReviewMobileTocProps {
-  items: TocItem[];
-}
-
-export function ReviewMobileToc({ items }: ReviewMobileTocProps): React.ReactElement | null {
-  if (items.length === 0) return null;
-
-  return (
-    <details className="mb-8 rounded-xl border border-[#1a4d2e]/10 bg-white p-4 lg:hidden">
-      <summary className="cursor-pointer list-none text-sm font-bold text-[#1a4d2e]">
-        <span className="flex items-center justify-between">
-          Nesta análise
-          <span className="text-xs font-normal text-[#1a4d2e]/60" aria-hidden="true">
-            {items.length} seções
-          </span>
-        </span>
-      </summary>
-      <ul className="mt-3 space-y-1 border-t border-[#1a4d2e]/10 pt-3">
-        {items.map((item) => (
-          <li key={item.id}>
-            <a
-              href={`#${item.id}`}
-              className="block rounded-lg px-3 py-2 text-sm text-[#4a5568] transition-colors hover:bg-[#1a4d2e]/5 hover:text-[#1a4d2e]"
-            >
-              {item.heading}
-            </a>
-          </li>
-        ))}
-      </ul>
-    </details>
-  );
-}
