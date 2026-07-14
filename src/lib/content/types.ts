@@ -245,6 +245,7 @@ export interface ContentSection {
   postParagraphs?: string[];
   bullets?: string[];
   emphasis?: string;
+  emphasisAfterParagraph?: number;
   image?: string | ContentSectionImage;
   imageAlt?: string;
   imageCaption?: string;

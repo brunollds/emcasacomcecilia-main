@@ -1,5 +1,6 @@
 'use client';
 
+import React from 'react';
 import { ArrowUpRight } from 'lucide-react';
 import ReviewInlineImage from '@/components/ReviewInlineImage';
 import { DropCapParagraph, EditorialReveal, PretextShrinkwrap, TopTenList } from '@/components/editorial';
@@ -85,63 +86,72 @@ export function ReviewSectionContent({
     section.heading?.toLowerCase().includes('faq')
   );
 
+  const renderEmphasisBlock = (withImage: boolean = true) => (
+    <div className={withImage && section.image ? 'my-6 grid grid-cols-1 gap-6 md:grid-cols-[1fr_200px] items-center' : 'my-6'}>
+      <div className="group">
+        <PretextShrinkwrap
+          text={section.emphasis}
+          font="italic 400 18px Lora, Georgia, serif"
+          lineHeight={30}
+          minWidth={260}
+          maxWidthRatio={0.9}
+          className="rounded-r-xl border-l-[3px] border-[#ff6b35] bg-[#ff6b35]/5 px-5 py-4 transition-colors duration-300 group-hover:border-[#1a4d2e] group-hover:bg-[#ff6b35]/10"
+        >
+          <blockquote className="m-0 font-editorial text-lg italic leading-relaxed text-[#4a5568]">
+            &quot;<HighlightCoupon text={section.emphasis} />&quot;
+          </blockquote>
+          <cite className="mt-3 block text-sm not-italic opacity-70">Cecília Mauad</cite>
+        </PretextShrinkwrap>
+      </div>
+      {withImage && section.image && (
+        <div className="max-w-[200px] mx-auto md:mx-0 w-full">
+          <ReviewInlineImage
+            section={{ image: section.image, imageFit: section.imageFit || 'portrait', imageAlt: section.imageAlt || reviewTitle }}
+            reviewTitle={reviewTitle}
+          />
+        </div>
+      )}
+    </div>
+  );
+
   return (
     <>
       {section.paragraphs?.map((paragraph, paragraphIndex) => {
         const isFirstParagraph = showDropCap && paragraphIndex === 0;
+        const shouldRenderEmphasisAfter = section.emphasisAfterParagraph === paragraphIndex + 1;
+
         if (isFirstParagraph) {
           return (
-            <EditorialReveal
-              key={`p-${paragraphIndex}`}
-              delay={0}
-              distance={14}
-            >
-              <DropCapParagraph text={paragraph} highlightTerms={['CECILIA010', 'CECILIA12', 'CECIEMCASA', 'CECI']} />
-            </EditorialReveal>
+            <React.Fragment key={`p-${paragraphIndex}`}>
+              <EditorialReveal
+                delay={0}
+                distance={14}
+              >
+                <DropCapParagraph text={paragraph} highlightTerms={['CECILIA010', 'CECILIA12', 'CECIEMCASA', 'CECI']} />
+              </EditorialReveal>
+              {shouldRenderEmphasisAfter && section.emphasis && renderEmphasisBlock(false)}
+            </React.Fragment>
           );
         }
+
         return (
-          <EditorialReveal
-            as="p"
-            key={`p-${paragraphIndex}`}
-            delay={Math.min(paragraphIndex * 0.05, 0.25)}
-            distance={14}
-            className="mb-4 font-editorial text-lg leading-8 text-[#24313d] last:mb-0"
-          >
-            <HighlightCoupon text={paragraph} />
-          </EditorialReveal>
+          <React.Fragment key={`p-${paragraphIndex}`}>
+            <EditorialReveal
+              as="p"
+              delay={Math.min(paragraphIndex * 0.05, 0.25)}
+              distance={14}
+              className="mb-4 font-editorial text-lg leading-8 text-[#24313d] last:mb-0"
+            >
+              <HighlightCoupon text={paragraph} />
+            </EditorialReveal>
+            {shouldRenderEmphasisAfter && section.emphasis && renderEmphasisBlock(false)}
+          </React.Fragment>
         );
       })}
 
-      {section.emphasis && (
-        <div className={`my-6 grid grid-cols-1 gap-6 ${section.image ? 'md:grid-cols-[1fr_200px] items-center' : ''}`}>
-          <div className="group">
-            <PretextShrinkwrap
-              text={section.emphasis}
-              font="italic 400 18px Lora, Georgia, serif"
-              lineHeight={30}
-              minWidth={260}
-              maxWidthRatio={0.9}
-              className="rounded-r-xl border-l-[3px] border-[#ff6b35] bg-[#ff6b35]/5 px-5 py-4 transition-colors duration-300 group-hover:border-[#1a4d2e] group-hover:bg-[#ff6b35]/10"
-            >
-              <blockquote className="m-0 font-editorial text-lg italic leading-relaxed text-[#4a5568]">
-                &quot;<HighlightCoupon text={section.emphasis} />&quot;
-              </blockquote>
-              <cite className="mt-3 block text-sm not-italic opacity-70">Cecília Mauad</cite>
-            </PretextShrinkwrap>
-          </div>
-          {section.image && (
-            <div className="max-w-[200px] mx-auto md:mx-0 w-full">
-              <ReviewInlineImage
-                section={{ image: section.image, imageFit: section.imageFit || 'portrait', imageAlt: section.imageAlt || reviewTitle }}
-                reviewTitle={reviewTitle}
-              />
-            </div>
-          )}
-        </div>
-      )}
+      {section.emphasis && !section.emphasisAfterParagraph && renderEmphasisBlock(true)}
 
-      {(section.image || (section.images && section.images.length > 0)) && !section.emphasis && (
+      {(section.image || (section.images && section.images.length > 0)) && (!section.emphasis || section.emphasisAfterParagraph != null) && (
         <ReviewInlineImage section={section} reviewTitle={reviewTitle} />
       )}
 
