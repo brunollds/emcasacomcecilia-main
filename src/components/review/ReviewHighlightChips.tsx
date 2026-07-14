@@ -1,5 +1,5 @@
 import { CheckCircle2 } from 'lucide-react';
-import { RichChip } from '@/components/editorial';
+import { RichChip, EditorialReveal } from '@/components/editorial';
 import type { Review, ReviewKind } from '@/lib/content';
 
 export interface ReviewHighlightChipsProps {
@@ -59,8 +59,10 @@ export function ReviewHighlightChips({
   }
 
   return (
-    <div className="flex flex-wrap items-center gap-2">
-      {chips}
-    </div>
+    <EditorialReveal as="div" delay={0.22} className="mb-6">
+      <div className="flex flex-wrap items-center gap-2">
+        {chips}
+      </div>
+    </EditorialReveal>
   );
 }

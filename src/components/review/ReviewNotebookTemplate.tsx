@@ -265,9 +265,7 @@ export function ReviewNotebookTemplate({
               )}
             </EditorialReveal>
 
-            <EditorialReveal as="div" delay={0.22} className="mb-6">
-              <ReviewHighlightChips review={review} kind={kind} />
-            </EditorialReveal>
+            <ReviewHighlightChips review={review} kind={kind} />
 
             {/* Hero image */}
             <EditorialReveal as="figure" delay={0.25}>

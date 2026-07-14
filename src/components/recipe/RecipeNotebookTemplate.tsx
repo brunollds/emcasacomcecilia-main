@@ -138,9 +138,7 @@ export function RecipeNotebookTemplate({
             &quot;{recipe.description}&quot;
           </EditorialReveal>
 
-          <EditorialReveal as="div" delay={0.23} className="mb-6">
-            <RecipeMetaChips recipe={recipe} />
-          </EditorialReveal>
+          <RecipeMetaChips recipe={recipe} />
 
           <EditorialReveal as="div" delay={0.25} className="mb-8 flex flex-wrap items-center justify-center gap-3 text-sm text-[#1a4d2e]/80 md:justify-start">
             <ArticleByline

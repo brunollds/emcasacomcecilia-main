@@ -1,5 +1,5 @@
 import { Clock, Users, ChefHat } from 'lucide-react';
-import { RichChip } from '@/components/editorial';
+import { RichChip, EditorialReveal } from '@/components/editorial';
 import type { Recipe } from '@/lib/content';
 
 export interface RecipeMetaChipsProps {
@@ -31,10 +31,11 @@ export function RecipeMetaChips({ recipe }: RecipeMetaChipsProps): React.ReactEl
   }
 
   // Dificuldade
-  if (recipe.difficulty) {
+  const difficulty = recipe.difficultyLevel ?? recipe.difficulty;
+  if (difficulty) {
     chips.push(
       <RichChip key="difficulty" icon={<ChefHat size={14} />} variant="neutral">
-        {recipe.difficulty}
+        {difficulty}
       </RichChip>
     );
   }
@@ -44,8 +45,10 @@ export function RecipeMetaChips({ recipe }: RecipeMetaChipsProps): React.ReactEl
   }
 
   return (
-    <div className="flex flex-wrap items-center gap-2">
-      {chips}
-    </div>
+    <EditorialReveal as="div" delay={0.23} className="mb-6">
+      <div className="flex flex-wrap items-center gap-2">
+        {chips}
+      </div>
+    </EditorialReveal>
   );
 }

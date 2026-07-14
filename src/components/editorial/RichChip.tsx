@@ -16,7 +16,7 @@ export function RichChip({
   const variantClasses = {
     neutral: 'bg-[#eef7f1] text-[#1a4d2e]',
     destaque: 'bg-[#fff4bf] text-[#7a5b00]',
-    alerta: 'bg-[#fff3ee] text-[#d94b21]',
+    alerta: 'bg-[#fff3ee] text-[#b23a17]',
   };
 
   return (
