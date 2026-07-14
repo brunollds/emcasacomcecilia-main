@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useRef, useState, useCallback } from 'react';
+import { useEffect, useMemo, useRef, useState, useCallback } from 'react';
 import { RichMarginNote } from './RichMarginNote';
 import { EditorialNotePill } from './EditorialNotePill';
 import { parseLineAnchor } from '@/lib/pretext/lineAnchorCodec';
@@ -48,12 +48,19 @@ export function MarginNoteRail({
   const [hasGutterSpace, setHasGutterSpace] = useState(false);
   const [noteLeft, setNoteLeft] = useState<number>(0);
 
-  // Filter notes anchored to this section via line anchor
-  const anchoredNotes = notes.filter((note) => {
-    if (!note.anchor) return false;
-    const lineAnchor = parseLineAnchor(note.anchor);
-    return lineAnchor !== null && lineAnchor.sectionIndex === sectionIndex;
-  });
+  // Filter notes anchored to this section via line anchor.
+  // Memoizado: identidade estável evita que resolveLineTop (e os efeitos que
+  // dependem dele) re-disparem a cada render — sem isso o setLinePositions
+  // (Map sempre novo) entra em loop de update infinito.
+  const anchoredNotes = useMemo(
+    () =>
+      notes.filter((note) => {
+        if (!note.anchor) return false;
+        const lineAnchor = parseLineAnchor(note.anchor);
+        return lineAnchor !== null && lineAnchor.sectionIndex === sectionIndex;
+      }),
+    [notes, sectionIndex]
+  );
 
   const resolveLineTop = useCallback(() => {
     if (!proseRef.current || !containerRef.current) return;
