@@ -31858,6 +31858,7 @@ export const reviewsData: unknown[] = [
       "Válido apenas no site oficial da NESCAFÉ Dolce Gusto Brasil"
     ],
     "coupon": "CECI",
+    "affiliate": "dolce-gusto",
     "cta": {
       "text": "Use o cupom de desconto oficial CECI no checkout da NESCAFÉ Dolce Gusto.",
       "label": "Acessar NESCAFÉ Dolce Gusto",
@@ -32176,6 +32177,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.nescafe-dolcegusto.com.br/"
     },
     "coupon": "CECI",
+    "affiliate": "dolce-gusto",
     "editorialNote": "Este artigo foi produzido em parceria comercial com a NESCAFÉ Dolce Gusto. O Em Casa com Cecília recebe comissão sobre compras feitas com o cupom CECI e por meio de links para o site oficial. O conteúdo é independente e baseado em informações públicas do programa de fidelidade.",
     "relatedArticles": [
       {
@@ -32294,6 +32296,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.nescafe-dolcegusto.com.br/"
     },
     "coupon": "CECI",
+    "affiliate": "dolce-gusto",
     "editorialNote": "Este guia foi produzido em parceria comercial com a NESCAFÉ Dolce Gusto. O Em Casa com Cecília recebe comissão sobre compras feitas com o cupom CECI e por meio de links para o site oficial. As descrições de sabor são baseadas em informações públicas da marca, e as quickNotes refletem experiências reais de consumo da nossa rotina doméstica.",
     "relatedArticles": [
       {
@@ -32555,6 +32558,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.nescafe-dolcegusto.com.br/"
     },
     "coupon": "CECI",
+    "affiliate": "dolce-gusto",
     "editorialNote": "Este artigo foi produzido em parceria comercial com a NESCAFÉ Dolce Gusto. O Em Casa com Cecília recebe comissão sobre compras feitas com o cupom CECI e por meio de links para o site oficial. As especificações técnicas são baseadas em informações públicas da marca, e os preços são aproximados, sujeitos a variações de promoção e região.",
     "relatedArticles": [
       {
@@ -32649,6 +32653,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.nescafe-dolcegusto.com.br/"
     },
     "coupon": "CECI",
+    "affiliate": "dolce-gusto",
     "editorialNote": "Este artigo é de natureza editorial e analítica. A menção ao cupom CECI decorre de uma parceria comercial entre o Em Casa com Cecília e a NESCAFÉ Dolce Gusto. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca.",
     "relatedArticles": [
       {
@@ -33144,6 +33149,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.nestlenutre.com.br/"
     },
     "coupon": "CECI",
+    "affiliate": "nestle-nutre",
     "editorialNote": "Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.",
     "relatedArticles": []
   },
@@ -33233,6 +33239,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.nestlenutre.com.br/"
     },
     "coupon": "CECI",
+    "affiliate": "nestle-nutre",
     "editorialNote": "Este artigo é de natureza editorial e analítica. A menção ao cupom CECI decorre de uma parceria comercial entre o Em Casa com Cecília e a Nestlé Nutre. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca.",
     "relatedArticles": [
       {
@@ -33340,6 +33347,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.nestlenutre.com.br/"
     },
     "coupon": "CECI",
+    "affiliate": "nestle-nutre",
     "editorialNote": "Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.",
     "relatedArticles": [
       {
@@ -33442,6 +33450,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.nestlenutre.com.br/"
     },
     "coupon": "CECI",
+    "affiliate": "nestle-nutre",
     "editorialNote": "Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.",
     "relatedArticles": [
       {
@@ -33566,6 +33575,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.nescafe-dolcegusto.com.br/sabores"
     },
     "coupon": "CECI",
+    "affiliate": "dolce-gusto",
     "editorialNote": "Este artigo de oportunidade menciona uma promoção temporária da NESCAFÉ Dolce Gusto. O cupom CECI é parte de uma parceria comercial com o Em Casa com Cecília. As regras da promoção são transcritas fielmente do site oficial, mas podem ser alteradas ou encerradas a qualquer momento.",
     "relatedArticles": [
       {
