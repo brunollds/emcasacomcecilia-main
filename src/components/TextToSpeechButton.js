@@ -2,27 +2,7 @@
 
 import { useEffect, useRef, useState, useSyncExternalStore } from 'react';
 import { Pause, Play, RotateCcw, Square } from 'lucide-react';
-
-function splitIntoChunks(text) {
-  return text
-    .replace(/\s+/g, ' ')
-    .split(/(?<=[.!?])\s+/)
-    .reduce((chunks, sentence) => {
-      const current = chunks[chunks.length - 1] || '';
-      const next = current ? `${current} ${sentence}` : sentence;
-
-      if (next.length > 220 && current) {
-        chunks.push(sentence);
-      } else if (chunks.length) {
-        chunks[chunks.length - 1] = next;
-      } else {
-        chunks.push(next);
-      }
-
-      return chunks;
-    }, [])
-    .filter(Boolean);
-}
+import { splitIntoChunks, createUtterance, cancelSpeech } from '@/lib/tts';
 
 function subscribeToHydration() {
   return () => {};
@@ -49,9 +29,7 @@ export default function TextToSpeechButton({ text, label = 'Ouvir artigo' }) {
 
   useEffect(() => {
     return () => {
-      if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
-        window.speechSynthesis.cancel();
-      }
+      cancelSpeech();
     };
   }, []);
 
@@ -63,10 +41,7 @@ export default function TextToSpeechButton({ text, label = 'Ouvir artigo' }) {
     }
 
     indexRef.current = index;
-    const utterance = new SpeechSynthesisUtterance(chunksRef.current[index]);
-    utterance.lang = 'pt-BR';
-    utterance.rate = 0.95;
-    utterance.pitch = 1;
+    const utterance = createUtterance(chunksRef.current[index]);
 
     utterance.onend = () => {
       if (indexRef.current === index) {
@@ -86,7 +61,7 @@ export default function TextToSpeechButton({ text, label = 'Ouvir artigo' }) {
   function start() {
     if (!isSupported || !text) return;
 
-    window.speechSynthesis.cancel();
+    cancelSpeech();
     chunksRef.current = splitIntoChunks(text);
     speakChunk(0);
   }
@@ -102,7 +77,7 @@ export default function TextToSpeechButton({ text, label = 'Ouvir artigo' }) {
   }
 
   function stop() {
-    window.speechSynthesis.cancel();
+    cancelSpeech();
     indexRef.current = 0;
     setStatus('idle');
   }
