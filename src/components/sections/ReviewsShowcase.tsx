@@ -46,12 +46,53 @@ const sortReviewsByDateDesc = (items: typeof publishedReviews) =>
     return dateB - dateA || b.id - a.id;
   });
 
+const COUPON_TO_AFFILIATE: Record<string, string> = {
+  CECILIA12: 'damie',
+  CECIEMCASA: 'i-wanna-sleep',
+  CECILIA010: 'yesstyle',
+};
+
+type ShowcaseReview = (typeof publishedReviews)[number];
+
+const getAffiliate = (review: ShowcaseReview): string | undefined =>
+  review.affiliate ?? (review.coupon ? COUPON_TO_AFFILIATE[review.coupon] : undefined);
+
+const SHOWCASE_SIZE = 8;
+
+function selectShowcaseReviews(all: typeof publishedReviews): ShowcaseReview[] {
+  const listed = sortReviewsByDateDesc(all.filter((review) => !review.hideFromListings));
+  const selected: ShowcaseReview[] = [];
+  const usedIds = new Set<number>();
+  const coveredAffiliates = new Set<string>();
+
+  const push = (review: ShowcaseReview) => {
+    if (selected.length >= SHOWCASE_SIZE || usedIds.has(review.id)) return;
+    selected.push(review);
+    usedIds.add(review.id);
+    const affiliate = getAffiliate(review);
+    if (affiliate) coveredAffiliates.add(affiliate);
+  };
+
+  // 1. Fixadas manualmente
+  listed.filter((review) => review.homeFeatured).forEach(push);
+
+  // 2. Um artigo (o mais recente) por afiliado ainda não representado
+  for (const review of listed) {
+    const affiliate = getAffiliate(review);
+    if (affiliate && !coveredAffiliates.has(affiliate)) push(review);
+  }
+
+  // 3. Completa com as mais recentes
+  listed.forEach(push);
+
+  return selected;
+}
+
 export function ReviewsShowcase() {
-  const listedReviews = publishedReviews.filter((review) => !review.hideFromListings);
-  const featuredReviews = sortReviewsByDateDesc(listedReviews).slice(0, 4);
+  const featuredReviews = selectShowcaseReviews(publishedReviews);
 
   return (
-    <section className="bg-white pb-16 pt-6 md:pt-8">
+    <section className="bg-white pb-16 pt-10">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="mb-8 flex flex-col gap-3 text-left md:mb-10 md:flex-row md:items-end md:justify-between">
           <div>
@@ -68,12 +109,11 @@ export function ReviewsShowcase() {
           </Link>
         </div>
 
-        <div className="-mx-4 flex snap-x snap-mandatory gap-4 overflow-x-auto px-4 pb-2 [scrollbar-width:none] md:mx-0 md:grid md:grid-cols-4 md:gap-4 md:overflow-visible md:px-0 md:pb-0 lg:grid-cols-[1.35fr_1fr_1fr_1fr] lg:gap-6 [&::-webkit-scrollbar]:hidden">
+        <div className="-mx-4 grid grid-flow-col grid-rows-2 snap-x snap-mandatory gap-4 overflow-x-auto px-4 pb-2 [scrollbar-width:none] md:mx-0 md:grid-flow-row md:grid-rows-none md:grid-cols-4 md:overflow-visible md:px-0 md:pb-0 lg:gap-6 [&::-webkit-scrollbar]:hidden">
           {featuredReviews.map((review, index) => {
             const accent = accentByType[review.type] ?? '#ff6b35';
             const icon = iconByType[review.type] ?? '📝';
             const readingTime = estimateReadingTime(review);
-            const isFeatured = index === 0;
             const isProductReview = Boolean(review.rating);
             const imageClassName =
               review.imageFit === 'cover'
@@ -104,9 +144,7 @@ export function ReviewsShowcase() {
                 style={{ animationDelay: `${index * 0.08}s` }}
               >
                 <article className="transition-all duration-500 group-hover:-translate-y-2">
-                  <div className={`relative mb-4 overflow-hidden rounded-[1.35rem] shadow-soft transition-all duration-500 group-hover:shadow-large md:rounded-[1.6rem] lg:rounded-[2rem] ${
-                    isFeatured ? 'aspect-[9/10] lg:aspect-[10/11]' : 'aspect-[5/6]'
-                  }`}>
+                  <div className="relative mb-4 overflow-hidden rounded-[1.35rem] shadow-soft transition-all duration-500 group-hover:shadow-large md:rounded-[1.6rem] lg:rounded-[2rem] aspect-[5/6]">
                     {/* Imagem ou Gradiente */}
                     {review.image ? (
                       <Image
@@ -159,9 +197,7 @@ export function ReviewsShowcase() {
                   </div>
 
                   <div className="px-2">
-                    <h3 className={`font-heading font-bold leading-tight text-[#0f1419] transition-colors duration-300 group-hover:text-[#1a4d2e] ${
-                      isFeatured ? 'text-lg lg:text-2xl' : 'text-lg lg:text-xl'
-                    }`}>
+                    <h3 className="font-heading font-bold leading-tight text-[#0f1419] transition-colors duration-300 group-hover:text-[#1a4d2e] text-lg lg:text-xl">
                       {review.title}
                     </h3>
                     <div className="mt-2 h-0.5 w-0 bg-[#ff6b35] transition-all duration-500 group-hover:w-12" />
