@@ -3,7 +3,13 @@
   "slug": "poltrona-moon-design-que-parece-obra-de-arte",
   "title": "Poltrona Moon: Design que parece Obra de Arte",
   "type": "Decoração & Design",
+  "reviewKind": "produto",
   "rating": 5,
+  "verdict": {
+    "stars": 5,
+    "recommendation": "recomendo",
+    "summary": "Design escultural com base giratória 360° que funciona como peça de destaque na decoração, sem abrir mão do conforto."
+  },
   "description": "Minha análise da Poltrona Moon da Damie: design escultural, base giratória 360°, tecidos premium e por que ela funciona como peça de destaque na decoração.",
   "publishedAt": "18 Abr 2026",
   "image": "/images/reviews/poltrona-moon-cecilia-quem.webp",
@@ -46,6 +52,12 @@
     "Design decorativo pode não combinar com todos os ambientes",
     "Produto premium exige planejamento de orçamento"
   ],
+  "cta": {
+    "text": "Use o cupom CECILIA12 para garantir 12% OFF em compras elegíveis na Damie.",
+    "label": "Usar o cupom",
+    "url": "https://damie.emcasacomcecilia.com"
+  },
+  "coupon": "CECILIA12",
   "contentSections": [
     {
       "heading": "A História da Damie: Inovação e Qualidade em Móveis de Alto Padrão",
