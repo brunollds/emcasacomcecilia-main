@@ -32642,8 +32642,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-07-14",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/dolcegusto/dolce-gusto-maquinas-qual-escolher-hero.webp",
-    "imageAlt": "Máquinas NESCAFÉ Dolce Gusto lado a lado em uma cozinha — análise de confiabilidade da marca",
+    "image": "/images/reviews/dolcegusto/dolce-gusto-e-confiavel-hero.webp",
+    "imageAlt": "Cecília segurando a caixa lacrada da máquina NESCAFÉ Dolce Gusto neo recém-entregue, com o selo \"não aceite se o lacre estiver violado\" visível",
     "imageFit": "cover",
     "pros": [],
     "cons": [],
@@ -32686,6 +32686,11 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "image": "/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp",
+        "imageAlt": "Cupons promocionais NESCAFÉ Dolce Gusto — frete grátis, 10% OFF, meses de streaming, R$100 em delivery e vale-presente — ao lado das cápsulas Starbucks, Nescafé Gold, Copenhagen e da máquina neo",
+        "imageFit": "cover"
+      },
+      {
         "heading": "Parceria e cupom de desconto",
         "paragraphs": [
           "O Em Casa com Cecília mantém uma parceria comercial com a NESCAFÉ Dolce Gusto. Por meio dela, o cupom CECI garante 5% de desconto em compras acima de R$100 no site oficial, válido para cápsulas, máquinas e acessórios. O desconto é concedido pela marca e não representa custo adicional para quem compra."
@@ -32725,7 +32730,8 @@ export const reviewsData: unknown[] = [
         "slug": "promocao-dolce-gusto-55-caixas-mini-me-gratis",
         "title": "Dolce Gusto: 55 caixas, ganhe Mini Me"
       }
-    ]
+    ],
+    "imageAspect": "square"
   },
   {
     "id": 221,
