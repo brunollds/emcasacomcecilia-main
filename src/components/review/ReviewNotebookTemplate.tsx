@@ -577,9 +577,6 @@ export function ReviewNotebookTemplate({
       </EditorialAmbientBackground>
 
       <ReviewMobileBottomBar
-        coupon={review.coupon}
-        cta={effectiveCta ? { url: effectiveCta.url, label: effectiveCta.label } : null}
-        locale={couponCopyLocale}
         review={review}
         kind={kind}
         tocItems={tocItems}

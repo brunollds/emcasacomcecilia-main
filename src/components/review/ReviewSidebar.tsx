@@ -85,8 +85,9 @@ export function SidebarConversionCards({
             className={`flex w-full items-center justify-center gap-2 rounded-full border-2 px-4 py-2 font-mono text-base font-black tracking-[0.08em] transition-all motion-safe:hover:-translate-y-px motion-safe:hover:shadow-md ${
               copied
                 ? 'border-[#1a7f37] bg-[#f0fdf4] text-[#1a7f37]'
-                : 'border-[#1a4d2e] text-[#1a4d2e] hover:bg-[#1a4d2e]/5'
+                : 'border-dashed border-[#ff6b35]/60 bg-gradient-to-b from-[#fef9f3] to-[#fff4bf] text-[#1a4d2e] hover:shadow-md'
             }`}
+            style={{ minHeight: '2.75rem' }}
             aria-label={copied ? 'Cupom copiado' : `Copiar código ${coupon}`}
           >
             {coupon}
@@ -141,26 +142,7 @@ export function ReviewSidebarContent({
 
   return (
     <div className="space-y-6">
-      {/* 1. Verdict card (only produto with stars) */}
-      {typeof stars === 'number' && (
-        <div className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
-          <p className="mb-2 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">Veredito da Cecília</p>
-          <div className="mb-2 flex items-center gap-2">
-            <StarRating rating={stars} />
-            <span className="text-sm font-bold text-[#1a4d2e]">{stars.toFixed(1)}</span>
-          </div>
-          {recommendation && (
-            <p className="text-sm font-bold text-[#1a4d2e]">
-              {recommendation === 'recomendo' ? '✓ Recomendo' : recommendation === 'com ressalvas' ? 'Com ressalvas' : 'Não recomendo'}
-            </p>
-          )}
-        </div>
-      )}
-
-      {/* 2. Conversion cards (coupon + CTA) */}
-      {hasConversionContent && <SidebarConversionCards coupon={review.coupon} effectiveCta={effectiveCta} />}
-
-      {/* 3. Table of Contents */}
+      {/* 1. Table of Contents (TOC first) */}
       {hasToc && (
         <nav aria-label="Navegação por capítulos" className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
           <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">
@@ -180,6 +162,25 @@ export function ReviewSidebarContent({
             ))}
           </ul>
         </nav>
+      )}
+
+      {/* 2. Conversion cards (coupon + CTA) */}
+      {hasConversionContent && <SidebarConversionCards coupon={review.coupon} effectiveCta={effectiveCta} />}
+
+      {/* 3. Verdict card (only produto with stars) */}
+      {typeof stars === 'number' && (
+        <div className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
+          <p className="mb-2 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">Veredito da Cecília</p>
+          <div className="mb-2 flex items-center gap-2">
+            <StarRating rating={stars} />
+            <span className="text-sm font-bold text-[#1a4d2e]">{stars.toFixed(1)}</span>
+          </div>
+          {recommendation && (
+            <p className="text-sm font-bold text-[#1a4d2e]">
+              {recommendation === 'recomendo' ? '✓ Recomendo' : recommendation === 'com ressalvas' ? 'Com ressalvas' : 'Não recomendo'}
+            </p>
+          )}
+        </div>
       )}
 
       {/* 4. Related articles block */}

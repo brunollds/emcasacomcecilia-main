@@ -3,7 +3,6 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { CopyButton, CouponPillCard, FAQAccordion } from '@/components/CouponComponents';
-import { ReviewMobileBottomBar } from '@/components/review';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 import {
   getAllActiveCouponSlugs,
@@ -446,10 +445,6 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
         </div>
       </article>
 
-      <ReviewMobileBottomBar
-        coupon={coupon.code}
-        cta={{ url: coupon.brandUrl, label: 'Usar na loja' }}
-      />
     </main>
   );
 }
