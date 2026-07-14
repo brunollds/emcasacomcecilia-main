@@ -3,7 +3,12 @@
   "slug": "sofa-damie-modular-vale-a-pena",
   "title": "Sofá Damie Modular: vale a pena?",
   "type": "Reviews",
-  "reviewKind": "editorial",
+  "reviewKind": "produto",
+  "verdict": {
+    "stars": 5,
+    "recommendation": "recomendo",
+    "summary": "Comprei, usei no dia a dia e recomendo: modularidade e conforto que justificam a escolha — com os pontos que eu observaria de novo antes de fechar a compra."
+  },
   "description": "Comprei o sofá modular Damie e usei no dia a dia. Aqui está o que me fez escolher — e o que eu observaria de novo antes de fechar a compra.",
   "metaDescription": "Sofá que chega na caixa, puff incluso, modular de verdade. O que levou a Cecília a escolher e o que observar antes de comprar.",
   "publishedAt": "26 Jun 2026",
@@ -101,6 +106,7 @@
     "label": "Ver cupom CECILIA12 no site da Damie",
     "url": "https://emcasacomcecilia.com/cupons/damie"
   },
+  "coupon": "CECILIA12",
   "relatedArticles": [
     {
       "slug": "cupom-cecilia12-damie-como-usar",
