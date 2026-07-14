@@ -12,3 +12,4 @@ export { TopTenList, type TopTenListProps } from './TopTenList';
 export { ChangelogDetails, type ChangelogDetailsProps, type ChangelogEntry } from './ChangelogDetails';
 export { SectionLinkButton, type SectionLinkButtonProps } from './SectionLinkButton';
 export { EditorialNotePill, type EditorialNotePillProps } from './EditorialNotePill';
+export { BottomSheet, acquireScrollLock, releaseScrollLock, type BottomSheetProps } from './BottomSheet';

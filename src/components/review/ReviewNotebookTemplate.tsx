@@ -10,7 +10,6 @@ import { ReadingProgressBar } from './ReadingProgressBar';
 import { ReviewContentSections } from './ReviewContentSections';
 import { ReviewHeroImage } from './ReviewHeroImage';
 import { ReviewVerdictCard } from './ReviewVerdictCard';
-import { ReviewMobileToc } from './ReviewTableOfContents';
 import { ReviewSidebar } from './ReviewSidebar';
 import { ReviewMobileBottomBar } from './ReviewMobileBottomBar';
 import { InlineCouponCopy } from './InlineCouponCopy';
@@ -286,8 +285,6 @@ export function ReviewNotebookTemplate({
           <div className="grid gap-8 lg:grid-cols-12 lg:gap-12">
             {/* Conteúdo */}
             <div className="lg:col-span-8">
-              <ReviewMobileToc items={tocItems} />
-
               {/* Pull quote editorial */}
               {review.pullQuote && (
                 <div className="mb-10">
@@ -583,6 +580,10 @@ export function ReviewNotebookTemplate({
         coupon={review.coupon}
         cta={effectiveCta ? { url: effectiveCta.url, label: effectiveCta.label } : null}
         locale={couponCopyLocale}
+        review={review}
+        kind={kind}
+        tocItems={tocItems}
+        effectiveCta={effectiveCta}
       />
     </>
   );

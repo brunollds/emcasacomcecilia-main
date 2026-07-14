@@ -4,7 +4,7 @@ import { ArrowRight, Check, Copy, ExternalLink, Star } from 'lucide-react';
 import Link from 'next/link';
 import { useEffect, useRef, useState } from 'react';
 import { copyTextWithFallback } from '@/lib/clipboardUtils';
-import { ReviewTableOfContents, type TocItem } from './ReviewTableOfContents';
+import type { TocItem } from './ReviewTableOfContents';
 import type { Review, ReviewKind } from '@/lib/content';
 
 export interface ReviewSidebarProps {
@@ -37,7 +37,7 @@ function StarRating({ rating }: { rating: number }): React.ReactElement {
   );
 }
 
-function SidebarConversionCards({
+export function SidebarConversionCards({
   coupon,
   effectiveCta,
 }: {
@@ -78,11 +78,11 @@ function SidebarConversionCards({
   return (
     <div className="space-y-3">
       {coupon && (
-        <div className="rounded-xl border border-dashed border-[#ff6b35]/50 bg-gradient-to-b from-[#fef9f3] to-[#fff4bf] p-4 shadow-soft">
+        <div className="rounded-xl border border-dashed border-[#ff6b35]/50 bg-gradient-to-b from-[#fef9f3] to-[#fff4bf] p-3 shadow-soft">
           <button
             type="button"
             onClick={handleCopy}
-            className={`mb-3 flex w-full items-center justify-center gap-3 rounded-full border-2 px-5 py-3 font-mono text-base font-black tracking-[0.08em] transition-all motion-safe:hover:-translate-y-px motion-safe:hover:shadow-md ${
+            className={`mb-3 flex w-full items-center justify-center gap-2 rounded-full border-2 px-4 py-2 font-mono text-base font-black tracking-[0.08em] transition-all motion-safe:hover:-translate-y-px motion-safe:hover:shadow-md ${
               copied
                 ? 'border-[#1a7f37] bg-[#f0fdf4] text-[#1a7f37]'
                 : 'border-[#1a4d2e] text-[#1a4d2e] hover:bg-[#1a4d2e]/5'
@@ -115,12 +115,21 @@ function SidebarConversionCards({
   );
 }
 
-export function ReviewSidebar({
+export interface ReviewSidebarContentProps {
+  review: Review;
+  kind: ReviewKind;
+  tocItems: TocItem[];
+  effectiveCta?: { url: string; label: string; text?: string } | null;
+  onTocLinkClick?: () => void;
+}
+
+export function ReviewSidebarContent({
   review,
   kind,
   tocItems,
   effectiveCta,
-}: ReviewSidebarProps): React.ReactElement | null {
+  onTocLinkClick,
+}: ReviewSidebarContentProps): React.ReactElement | null {
   // Unified order for all kinds
   const stars = kind === 'produto' ? review.verdict?.stars ?? review.rating : undefined;
   const recommendation = kind === 'produto' ? review.verdict?.recommendation : undefined;
@@ -154,7 +163,26 @@ export function ReviewSidebar({
       {hasConversionContent && <SidebarConversionCards coupon={review.coupon} effectiveCta={effectiveCta} />}
 
       {/* 3. Table of Contents */}
-      {hasToc && <ReviewTableOfContents items={tocItems} />}
+      {hasToc && (
+        <nav aria-label="Navegação por capítulos" className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
+          <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">
+            Nesta análise
+          </p>
+          <ul className="space-y-1">
+            {tocItems.map((item) => (
+              <li key={item.id}>
+                <a
+                  href={`#${item.id}`}
+                  onClick={onTocLinkClick}
+                  className="block rounded-lg px-3 py-2 text-sm text-[#4a5568] transition-colors hover:bg-[#1a4d2e]/5 hover:text-[#1a4d2e]"
+                >
+                  {item.heading}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      )}
 
       {/* 4. Related articles block */}
       {hasRelated && (
@@ -176,5 +204,21 @@ export function ReviewSidebar({
         </div>
       )}
     </div>
+  );
+}
+
+export function ReviewSidebar({
+  review,
+  kind,
+  tocItems,
+  effectiveCta,
+}: ReviewSidebarProps): React.ReactElement | null {
+  return (
+    <ReviewSidebarContent
+      review={review}
+      kind={kind}
+      tocItems={tocItems}
+      effectiveCta={effectiveCta}
+    />
   );
 }
