@@ -28804,7 +28804,12 @@ export const reviewsData: unknown[] = [
     "slug": "sofa-damie-modular-vale-a-pena",
     "title": "Sofá Damie Modular: vale a pena?",
     "type": "Reviews",
-    "reviewKind": "editorial",
+    "reviewKind": "produto",
+    "verdict": {
+      "stars": 5,
+      "recommendation": "recomendo",
+      "summary": "Comprei, usei no dia a dia e recomendo: modularidade e conforto que justificam a escolha — com os pontos que eu observaria de novo antes de fechar a compra."
+    },
     "description": "Comprei o sofá modular Damie e usei no dia a dia. Aqui está o que me fez escolher — e o que eu observaria de novo antes de fechar a compra.",
     "metaDescription": "Sofá que chega na caixa, puff incluso, modular de verdade. O que levou a Cecília a escolher e o que observar antes de comprar.",
     "publishedAt": "26 Jun 2026",
@@ -28902,6 +28907,7 @@ export const reviewsData: unknown[] = [
       "label": "Ver cupom CECILIA12 no site da Damie",
       "url": "https://emcasacomcecilia.com/cupons/damie"
     },
+    "coupon": "CECILIA12",
     "relatedArticles": [
       {
         "slug": "cupom-cecilia12-damie-como-usar",
@@ -31044,7 +31050,13 @@ export const reviewsData: unknown[] = [
     "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto",
     "title": "Poltrona Levita: O Topo da Tecnologia e Conforto",
     "type": "Móveis de Luxo",
+    "reviewKind": "produto",
     "rating": 5,
+    "verdict": {
+      "stars": 5,
+      "recommendation": "recomendo",
+      "summary": "O topo da linha da Damie: dois motores independentes, ajuste de pescoço e conforto premium que justificam o investimento."
+    },
     "description": "Minha análise da Poltrona Levita Elétrica Damie: dois motores independentes, ajuste de pescoço, base giratória e conforto premium para quem busca o topo da linha.",
     "publishedAt": "18 Abr 2026",
     "image": "/images/reviews/poltrona-levita-cecilia-flores.webp",
@@ -31082,6 +31094,12 @@ export const reviewsData: unknown[] = [
       "Precisa de tomada próxima",
       "Ocupa mais espaço que uma poltrona decorativa"
     ],
+    "cta": {
+      "text": "Use o cupom CECILIA12 para garantir 12% OFF em compras elegíveis na Damie.",
+      "label": "Usar o cupom",
+      "url": "https://damie.emcasacomcecilia.com"
+    },
+    "coupon": "CECILIA12",
     "contentSections": [
       {
         "heading": "A História da Damie: Inovação e Qualidade em Móveis de Alto Padrão",
@@ -31192,7 +31210,13 @@ export const reviewsData: unknown[] = [
     "slug": "sofa-damie-na-caixa-vale-a-pena-o-modular",
     "title": "Sofá Damie na Caixa: Vale a pena o modular?",
     "type": "Praticidade & Conforto",
+    "reviewKind": "produto",
     "rating": 4.9,
+    "verdict": {
+      "stars": 5,
+      "recommendation": "recomendo",
+      "summary": "Entrega em caixas, montagem simples e flexibilidade modular: conforto que vale o investimento para casas reais."
+    },
     "description": "Uma análise do Sofá Damie Modular 3 Lugares com puff: entrega em caixas, montagem, flexibilidade, conforto e por que ele pode valer o investimento para casas reais.",
     "publishedAt": "18 Abr 2026",
     "image": "/images/reviews/sofa-damie-na-caixa-cecilia-hero.webp",
@@ -31235,6 +31259,12 @@ export const reviewsData: unknown[] = [
       "Produto premium exige planejamento de orçamento",
       "É importante medir bem o ambiente antes da compra"
     ],
+    "cta": {
+      "text": "Use o cupom CECILIA12 para garantir 12% OFF em compras elegíveis na Damie.",
+      "label": "Usar o cupom",
+      "url": "https://damie.emcasacomcecilia.com"
+    },
+    "coupon": "CECILIA12",
     "contentSections": [
       {
         "heading": "A História da Damie: Inovação e Qualidade em Móveis de Alto Padrão",
@@ -31356,7 +31386,13 @@ export const reviewsData: unknown[] = [
     "slug": "poltrona-moon-design-que-parece-obra-de-arte",
     "title": "Poltrona Moon: Design que parece Obra de Arte",
     "type": "Decoração & Design",
+    "reviewKind": "produto",
     "rating": 5,
+    "verdict": {
+      "stars": 5,
+      "recommendation": "recomendo",
+      "summary": "Design escultural com base giratória 360° que funciona como peça de destaque na decoração, sem abrir mão do conforto."
+    },
     "description": "Minha análise da Poltrona Moon da Damie: design escultural, base giratória 360°, tecidos premium e por que ela funciona como peça de destaque na decoração.",
     "publishedAt": "18 Abr 2026",
     "image": "/images/reviews/poltrona-moon-cecilia-quem.webp",
@@ -31399,6 +31435,12 @@ export const reviewsData: unknown[] = [
       "Design decorativo pode não combinar com todos os ambientes",
       "Produto premium exige planejamento de orçamento"
     ],
+    "cta": {
+      "text": "Use o cupom CECILIA12 para garantir 12% OFF em compras elegíveis na Damie.",
+      "label": "Usar o cupom",
+      "url": "https://damie.emcasacomcecilia.com"
+    },
+    "coupon": "CECILIA12",
     "contentSections": [
       {
         "heading": "A História da Damie: Inovação e Qualidade em Móveis de Alto Padrão",
@@ -31504,6 +31546,7 @@ export const reviewsData: unknown[] = [
     "slug": "poltronas-reclinaveis-damie-vale-o-investimento",
     "title": "Poltronas Reclináveis Damie - Vale o Investimento?",
     "type": "Móveis & Conforto",
+    "reviewKind": "produto",
     "rating": 5,
     "description": "Minha experiência real com as poltronas reclináveis Damie: compra, montagem, tecido, conforto no uso diário e cupom CECILIA12.",
     "publishedAt": "17 Abr 2026",
@@ -31578,6 +31621,7 @@ export const reviewsData: unknown[] = [
       "label": "Usar o cupom",
       "url": "https://damie.emcasacomcecilia.com"
     },
+    "coupon": "CECILIA12",
     "contentSections": [
       {
         "heading": "A História da Damie: Inovação e Qualidade em Móveis Reclináveis",
