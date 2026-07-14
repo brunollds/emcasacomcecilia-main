@@ -54,11 +54,11 @@ export default async function Home() {
         <Hero />
       </div>
 
-      {/* 5. Receitas Populares e Novas */}
-      <PopularRecipes popularSlugs={popularRecipeSlugs} />
-
-      {/* 6. Reviews & Análises */}
+      {/* 5. Reviews & Análises */}
       <ReviewsShowcase />
+
+      {/* 6. Receitas Populares */}
+      <PopularRecipes popularSlugs={popularRecipeSlugs} />
 
       {/* 7. Universo da Cecília */}
       <MyLinks />
