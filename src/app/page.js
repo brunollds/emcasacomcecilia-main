@@ -10,7 +10,7 @@ import { CTA } from '@/components/sections/CTA';
 import { getFeaturedOffers } from '@/lib/dicasOffers';
 import { getPopularRecipeSlugs } from '@/lib/popularRecipeStats';
 
-export const dynamic = 'force-dynamic';
+export const revalidate = 300;
 
 export const metadata = {
   title: 'Em Casa com Cecília - Receitas Práticas e Deliciosas',
