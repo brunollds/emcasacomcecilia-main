@@ -3,6 +3,7 @@
 import { ArrowRight, Check, Copy, ExternalLink, Star } from 'lucide-react';
 import Link from 'next/link';
 import { useEffect, useRef, useState } from 'react';
+import { copyTextWithFallback } from '@/lib/clipboardUtils';
 import { ReviewTableOfContents, type TocItem } from './ReviewTableOfContents';
 import type { Review, ReviewKind } from '@/lib/content';
 
@@ -49,20 +50,18 @@ function SidebarConversionCards({
   const handleCopy = async () => {
     if (!coupon) return;
 
-    try {
-      await navigator.clipboard.writeText(coupon);
-      setCopied(true);
+    const success = await copyTextWithFallback(coupon);
+    if (!success) return;
 
-      if (timeoutRef.current) {
-        clearTimeout(timeoutRef.current);
-      }
+    setCopied(true);
 
-      timeoutRef.current = setTimeout(() => {
-        setCopied(false);
-      }, 2200);
-    } catch {
-      setCopied(false);
+    if (timeoutRef.current) {
+      clearTimeout(timeoutRef.current);
     }
+
+    timeoutRef.current = setTimeout(() => {
+      setCopied(false);
+    }, 2200);
   };
 
   // Cleanup on unmount

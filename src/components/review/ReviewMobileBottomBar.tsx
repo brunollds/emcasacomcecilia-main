@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 import { Check, Copy, ExternalLink, X } from 'lucide-react';
+import { copyTextWithFallback } from '@/lib/clipboardUtils';
 import { getCouponCopyLabels, type CouponCopyLocale } from './couponCopyLocale';
 
 export interface ReviewMobileBottomBarProps {
@@ -55,20 +56,19 @@ export function ReviewMobileBottomBar({ coupon, cta, locale = 'pt' }: ReviewMobi
 
   const handleCopy = async () => {
     if (!coupon) return;
-    try {
-      await navigator.clipboard.writeText(coupon);
-      setCopied(true);
 
-      if (timeoutRef.current) {
-        clearTimeout(timeoutRef.current);
-      }
+    const success = await copyTextWithFallback(coupon);
+    if (!success) return;
 
-      timeoutRef.current = setTimeout(() => {
-        setCopied(false);
-      }, 2200);
-    } catch {
-      setCopied(false);
+    setCopied(true);
+
+    if (timeoutRef.current) {
+      clearTimeout(timeoutRef.current);
     }
+
+    timeoutRef.current = setTimeout(() => {
+      setCopied(false);
+    }, 2200);
   };
 
   const handleDismiss = (e: React.MouseEvent) => {
@@ -94,10 +94,10 @@ export function ReviewMobileBottomBar({ coupon, cta, locale = 'pt' }: ReviewMobi
             <button
               type="button"
               onClick={handleCopy}
-              className={`flex flex-1 items-center justify-center gap-2 rounded-xl border border-dashed px-3 py-3 text-sm font-bold transition-all active:scale-95 hover:-translate-y-0.5 ${
+              className={`flex flex-1 items-center justify-center gap-2 rounded-xl border border-dashed px-3 py-3 text-sm font-bold transition-all active:scale-95 motion-safe:hover:-translate-y-0.5 ${
                 copied
-                  ? 'border-[#1a7f37] bg-[#f0fdf4] text-[#1a7f37] shadow-[0_4px_16px_rgba(26,127,55,0.12)] hover:shadow-[0_6px_20px_rgba(26,127,55,0.16)]'
-                  : 'border-[#ff6b35]/50 bg-gradient-to-b from-[#fef9f3] to-[#fff4bf] text-[#1a4d2e] shadow-[0_4px_16px_rgba(0,0,0,0.12)] hover:shadow-[0_6px_20px_rgba(0,0,0,0.16)]'
+                  ? 'border-[#1a7f37] bg-[#f0fdf4] text-[#1a7f37] shadow-[0_4px_16px_rgba(26,127,55,0.12)] motion-safe:hover:shadow-[0_6px_20px_rgba(26,127,55,0.16)]'
+                  : 'border-[#ff6b35]/50 bg-gradient-to-b from-[#fef9f3] to-[#fff4bf] text-[#1a4d2e] shadow-[0_4px_16px_rgba(0,0,0,0.12)] motion-safe:hover:shadow-[0_6px_20px_rgba(0,0,0,0.16)]'
               }`}
               aria-label={copied ? 'Cupom copiado' : labels.copyCoupon(coupon)}
             >
@@ -116,7 +116,7 @@ export function ReviewMobileBottomBar({ coupon, cta, locale = 'pt' }: ReviewMobi
               href={cta!.url}
               target="_blank"
               rel="noopener noreferrer"
-              className={`inline-flex items-center justify-center gap-2 rounded-xl bg-[#ff6b35] px-4 py-3 text-sm font-bold text-white shadow-[0_4px_16px_rgba(255,107,53,0.35)] transition-all active:scale-95 hover:-translate-y-0.5 hover:bg-[#e55a26] hover:shadow-[0_6px_20px_rgba(255,107,53,0.45)] ${hasCoupon ? 'flex-1' : 'w-full'}`}
+              className={`inline-flex items-center justify-center gap-2 rounded-xl bg-[#ff6b35] px-4 py-3 text-sm font-bold text-white shadow-[0_4px_16px_rgba(255,107,53,0.35)] transition-all active:scale-95 motion-safe:hover:-translate-y-0.5 hover:bg-[#e55a26] motion-safe:hover:shadow-[0_6px_20px_rgba(255,107,53,0.45)] ${hasCoupon ? 'flex-1' : 'w-full'}`}
             >
               {ctaLabel}
               <ExternalLink size={15} />
@@ -127,7 +127,7 @@ export function ReviewMobileBottomBar({ coupon, cta, locale = 'pt' }: ReviewMobi
           <button
             type="button"
             onClick={handleDismiss}
-            className="inline-flex h-11 w-11 flex-shrink-0 items-center justify-center rounded-full bg-white text-[#4a5568] shadow-[0_2px_8px_rgba(0,0,0,0.1)] transition-all hover:-translate-y-0.5 hover:text-[#1a4d2e] hover:shadow-[0_4px_12px_rgba(0,0,0,0.14)]"
+            className="inline-flex h-11 w-11 flex-shrink-0 items-center justify-center rounded-full bg-white text-[#4a5568] shadow-[0_2px_8px_rgba(0,0,0,0.1)] transition-all motion-safe:hover:-translate-y-0.5 hover:text-[#1a4d2e] motion-safe:hover:shadow-[0_4px_12px_rgba(0,0,0,0.14)]"
             aria-label={labels.closeBar}
           >
             <X size={18} />
