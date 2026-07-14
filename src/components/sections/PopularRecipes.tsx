@@ -4,6 +4,8 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { Clock, ChefHat, ArrowRight, Heart, Sparkles } from 'lucide-react';
 import { getRecipeImage, getRecipeImageAlt, recipes } from '@/lib/data';
+import { sanitizeViewTransitionName } from '@/lib/viewTransition';
+import { ViewTransitionLink } from '@/components/ViewTransitionLink';
 
 type PopularRecipesProps = {
   popularSlugs?: string[];
@@ -21,14 +23,17 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
   const newRecipes = [...recipes].sort((a, b) => b.id - a.id).slice(0, 4);
 
   const renderRecipeCard = (recipe, index, isNew = false) => (
-    <Link
+    <ViewTransitionLink
       key={recipe.id}
       href={`/receitas/${recipe.slug}`}
       className="group block w-[230px] flex-shrink-0 snap-start animate-slide-up sm:w-[250px] md:w-auto"
       style={{ animationDelay: `${index * 0.1}s` }}
     >
       <article className="transition-all duration-500 group-hover:-translate-y-2">
-        <div className="relative mb-4 aspect-[5/6] overflow-hidden rounded-[1.35rem] shadow-soft transition-all duration-500 group-hover:shadow-large md:rounded-[1.6rem] lg:rounded-[2rem]">
+        <div
+          className="relative mb-4 aspect-[5/6] overflow-hidden rounded-[1.35rem] shadow-soft transition-all duration-500 group-hover:shadow-large md:rounded-[1.6rem] lg:rounded-[2rem]"
+          style={{ viewTransitionName: `recipe-hero-${sanitizeViewTransitionName(recipe.slug)}` }}
+        >
           <Image
             src={getRecipeImage(recipe)}
             alt={getRecipeImageAlt(recipe)}
@@ -73,7 +78,7 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
           <div className="mt-2 h-0.5 w-0 bg-[#ff6b35] transition-all duration-500 group-hover:w-12" />
         </div>
       </article>
-    </Link>
+    </ViewTransitionLink>
   );
 
   return (

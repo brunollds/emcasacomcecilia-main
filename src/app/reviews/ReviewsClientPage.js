@@ -5,6 +5,8 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { ArrowRight, Leaf } from 'lucide-react';
 import { getReviewSlug, publishedReviews } from '@/lib/data';
+import { sanitizeViewTransitionName } from '@/lib/viewTransition';
+import { ViewTransitionLink } from '@/components/ViewTransitionLink';
 
 const INITIAL_COUNT = 8;
 const LOAD_MORE_COUNT = 4;
@@ -130,14 +132,17 @@ export default function ReviewsClientPage() {
               const isProductReview = Boolean(review.rating);
 
               return (
-                <Link
+                <ViewTransitionLink
                   key={review.id}
                   href={`/reviews/${getReviewSlug(review)}`}
                   className="group block animate-slide-up"
                   style={{ animationDelay: `${(index % 8) * 0.05}s` }}
                 >
                   <article className="transition-all duration-500 group-hover:-translate-y-2">
-                    <div className="relative mb-4 aspect-[5/6] overflow-hidden rounded-[2rem] shadow-soft transition-all duration-500 group-hover:shadow-large">
+                    <div
+                      className="relative mb-4 aspect-[5/6] overflow-hidden rounded-[2rem] shadow-soft transition-all duration-500 group-hover:shadow-large"
+                      style={{ viewTransitionName: `review-hero-${sanitizeViewTransitionName(getReviewSlug(review))}` }}
+                    >
                       {review.image ? (
                         <Image
                           src={review.image}
@@ -211,7 +216,7 @@ export default function ReviewsClientPage() {
                       <div className="mt-2 h-0.5 w-0 bg-[#ff6b35] transition-all duration-500 group-hover:w-12" />
                     </div>
                   </article>
-                </Link>
+                </ViewTransitionLink>
               );
             })}
           </div>

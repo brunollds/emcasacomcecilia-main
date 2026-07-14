@@ -281,6 +281,7 @@ export function ReviewNotebookTemplate({
                 hasProductRating={hasProductRating}
                 objectContain={kind === 'editorial'}
                 rating={typeof review.rating === 'number' ? review.rating : undefined}
+                slug={review.slug}
                 video={review.video}
               />
             </EditorialReveal>
