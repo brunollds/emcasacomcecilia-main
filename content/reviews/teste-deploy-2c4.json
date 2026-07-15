@@ -1,0 +1,19 @@
+{
+  "slug": "teste-deploy-2c4",
+  "title": "Teste Deploy 2c4",
+  "description": "Review descartavel do E2E da 2c-4 (runner de deploy).",
+  "draft": true,
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "Teste",
+      "paragraphs": [
+        "Verificando o deploy via central."
+      ],
+      "bullets": []
+    }
+  ],
+  "relatedArticles": [],
+  "id": 230
+}
