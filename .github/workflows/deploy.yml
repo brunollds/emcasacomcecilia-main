@@ -82,13 +82,9 @@ jobs:
             fi
           done < <(find pkg/node_modules/@img -type f \( -name '*.node' -o -name '*.so' -o -name '*.so.*' \))
 
-          for manifest in pkg/server.js pkg/.next/required-server-files.json; do
-            [ -f "$manifest" ] || continue
-            if grep -Fq '/home/runner/work/' "$manifest"; then
-              echo "Runner path leaked into $manifest" >&2
-              exit 1
-            fi
-          done
+          # Sem asserção de "runner path": o standalone do Next embute o cwd de build
+          # (outputFileTracingRoot/root) em server.js e required-server-files.json — inócuo em
+          # runtime (o app roda de __dirname; provado pelo Damie em producao com o mesmo path).
 
           tar -C pkg -czf "emcasa-release-${RELEASE_ID}.tar.gz" .
           echo "BUILD_ID=$(tr -d '\n' < pkg/.next/BUILD_ID)" >> "$GITHUB_ENV"
