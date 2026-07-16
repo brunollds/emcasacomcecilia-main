@@ -22,7 +22,6 @@ export async function generateMetadata({ params }) {
 
   const languages = {};
   const yesStyleSlugs = [
-    'codigo-cecilia010-yesstyle-como-usar',
     'yesstyle-reward-code-coupon-cecilia010',
     'codigo-de-recompensa-yesstyle-cupon-cecilia010',
     'code-recompense-yesstyle-cecilia010',
@@ -34,7 +33,7 @@ export async function generateMetadata({ params }) {
   ];
 
   if (yesStyleSlugs.includes(slug)) {
-    languages['pt-BR'] = 'https://emcasacomcecilia.com/reviews/codigo-cecilia010-yesstyle-como-usar';
+    languages['pt-BR'] = 'https://emcasacomcecilia.com/cupons/yesstyle';
     languages['en'] = 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-coupon-cecilia010';
     languages['es'] = 'https://emcasacomcecilia.com/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010';
     languages['fr'] = 'https://emcasacomcecilia.com/reviews/code-recompense-yesstyle-cecilia010';

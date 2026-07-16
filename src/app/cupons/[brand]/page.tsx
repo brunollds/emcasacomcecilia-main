@@ -36,15 +36,15 @@ export async function generateMetadata({ params }: CouponBrandPageProps): Promis
       ...(coupon.slug === 'yesstyle' ? {
         languages: {
           'pt-BR': 'https://emcasacomcecilia.com/cupons/yesstyle',
-          en: 'https://emcasacomcecilia.com/en/coupons/yesstyle',
-          es: 'https://emcasacomcecilia.com/es/coupons/yesstyle',
-          fr: 'https://emcasacomcecilia.com/fr/coupons/yesstyle',
-          de: 'https://emcasacomcecilia.com/de/coupons/yesstyle',
-          ko: 'https://emcasacomcecilia.com/ko/coupons/yesstyle',
-          ja: 'https://emcasacomcecilia.com/ja/coupons/yesstyle',
-          'zh-Hant': 'https://emcasacomcecilia.com/zh-hant/coupons/yesstyle',
-          'zh-Hans': 'https://emcasacomcecilia.com/zh-hans/coupons/yesstyle',
-          'x-default': 'https://emcasacomcecilia.com/en/coupons/yesstyle',
+          en: 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-coupon-cecilia010',
+          es: 'https://emcasacomcecilia.com/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010',
+          fr: 'https://emcasacomcecilia.com/reviews/code-recompense-yesstyle-cecilia010',
+          de: 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-rabatt-cecilia010',
+          ko: 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-ko',
+          ja: 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-ja',
+          'zh-Hant': 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-zh-hant',
+          'zh-Hans': 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-zh-hans',
+          'x-default': 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-coupon-cecilia010',
         },
       } : {}),
     },
@@ -233,14 +233,14 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
               currentLocale="pt"
               links={{
                 pt: '/cupons/yesstyle',
-                en: '/en/coupons/yesstyle',
-                es: '/es/coupons/yesstyle',
-                fr: '/fr/coupons/yesstyle',
-                de: '/de/coupons/yesstyle',
-                ko: '/ko/coupons/yesstyle',
-                ja: '/ja/coupons/yesstyle',
-                'zh-hant': '/zh-hant/coupons/yesstyle',
-                'zh-hans': '/zh-hans/coupons/yesstyle',
+                en: '/reviews/yesstyle-reward-code-coupon-cecilia010',
+                es: '/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010',
+                fr: '/reviews/code-recompense-yesstyle-cecilia010',
+                de: '/reviews/yesstyle-reward-code-rabatt-cecilia010',
+                ko: '/reviews/yesstyle-reward-code-cecilia010-ko',
+                ja: '/reviews/yesstyle-reward-code-cecilia010-ja',
+                'zh-hant': '/reviews/yesstyle-reward-code-cecilia010-zh-hant',
+                'zh-hans': '/reviews/yesstyle-reward-code-cecilia010-zh-hans',
               }}
             />
           </div>

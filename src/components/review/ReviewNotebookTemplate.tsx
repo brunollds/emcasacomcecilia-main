@@ -229,7 +229,7 @@ export function ReviewNotebookTemplate({
               <LanguageSwitcher
                 currentLocale={couponCopyLocale}
                 links={{
-                  pt: '/reviews/codigo-cecilia010-yesstyle-como-usar',
+                  pt: '/cupons/yesstyle',
                   en: '/reviews/yesstyle-reward-code-coupon-cecilia010',
                   es: '/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010',
                   fr: '/reviews/code-recompense-yesstyle-cecilia010',

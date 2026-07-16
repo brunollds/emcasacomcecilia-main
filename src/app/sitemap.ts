@@ -1,7 +1,6 @@
 import type { MetadataRoute } from 'next';
 import { recipes, publishedReviews, getReviewSlug } from '@/lib/data';
 import { getActiveCoupons } from '@/lib/couponsData';
-import { yesStyleLocales } from '@/components/YesStyleCouponPage';
 
 const BASE_URL = 'https://emcasacomcecilia.com';
 
@@ -40,12 +39,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: coupon.lastVerified,
   }));
 
-  const localizedCouponRoutes: MetadataRoute.Sitemap = yesStyleLocales.map((locale) => ({
-    url: `${BASE_URL}/${locale}/coupons/yesstyle`,
-    priority: 0.7,
-    changeFrequency: 'weekly' as const,
-    lastModified: '2026-07-11',
-  }));
-
-  return [...staticRoutes, ...recipeRoutes, ...reviewRoutes, ...couponRoutes, ...localizedCouponRoutes];
+  return [...staticRoutes, ...recipeRoutes, ...reviewRoutes, ...couponRoutes];
 }

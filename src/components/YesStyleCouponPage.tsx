@@ -57,20 +57,19 @@ export function getYesStylePage(locale: string): PageCopy | null {
 export function getYesStyleMetadata(locale: string): Metadata {
   const page = getYesStylePage(locale);
   if (!page) return {};
-  const path = `/${page.locale}/coupons/yesstyle`;
-  const languages: Record<string, string> = {
+  const canonicalMap: Record<string, string> = {
     'pt-BR': 'https://emcasacomcecilia.com/cupons/yesstyle',
-    en: 'https://emcasacomcecilia.com/en/coupons/yesstyle',
-    es: 'https://emcasacomcecilia.com/es/coupons/yesstyle',
-    fr: 'https://emcasacomcecilia.com/fr/coupons/yesstyle',
-    de: 'https://emcasacomcecilia.com/de/coupons/yesstyle',
-    ko: 'https://emcasacomcecilia.com/ko/coupons/yesstyle',
-    ja: 'https://emcasacomcecilia.com/ja/coupons/yesstyle',
-    'zh-Hant': 'https://emcasacomcecilia.com/zh-hant/coupons/yesstyle',
-    'zh-Hans': 'https://emcasacomcecilia.com/zh-hans/coupons/yesstyle',
-    'x-default': 'https://emcasacomcecilia.com/en/coupons/yesstyle',
+    en: 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-coupon-cecilia010',
+    es: 'https://emcasacomcecilia.com/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010',
+    fr: 'https://emcasacomcecilia.com/reviews/code-recompense-yesstyle-cecilia010',
+    de: 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-rabatt-cecilia010',
+    ko: 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-ko',
+    ja: 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-ja',
+    'zh-hant': 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-zh-hant',
+    'zh-hans': 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-zh-hans',
   };
-  return { title: page.title, description: page.description, alternates: { canonical: path, languages }, openGraph: { title: page.title, description: page.description, url: path, locale: page.language, type: 'website' } };
+  const canonical = canonicalMap[page.locale] || 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-coupon-cecilia010';
+  return { title: page.title, description: page.description, alternates: { canonical }, openGraph: { title: page.title, description: page.description, url: canonical, locale: page.language, type: 'website' } };
 }
 
 export function YesStyleCouponPage({ locale }: { locale: string }) {
@@ -79,7 +78,7 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
   const date = new Date('2026-07-02T12:00:00').toLocaleDateString(page.language, { day: 'numeric', month: 'long', year: 'numeric' });
   return <main className="min-h-screen bg-[#fef9f3] pb-24 lg:pb-0">
     <section className="bg-[#0f1d3a] px-4 py-12 text-white md:py-16"><div className="mx-auto max-w-5xl"><nav className="mb-6 text-xs text-white/55"><Link href="/">Em Casa com Cecília</Link><span className="mx-2">/</span><span>YesStyle</span></nav><div className="flex gap-5 md:items-center"><div className="relative h-20 w-20 shrink-0 overflow-hidden rounded-2xl bg-white p-2"><Image src="/images/logos/yesstyle.jpg" alt="YesStyle" fill sizes="80px" className="object-contain p-2" priority /></div><div><p className="text-xs font-bold uppercase tracking-[.16em] text-[#ffd23f]">{page.eyebrow}</p><h1 className="mt-2 font-heading text-3xl font-black leading-tight md:text-5xl">{page.title}</h1><p className="mt-4 max-w-2xl text-white/78">{page.intro}</p><p className="mt-4 text-xs text-white/55">{page.updated}: {date}</p></div></div></div></section>
-    <section className="px-4 pt-8"><div className="mx-auto max-w-5xl"><LanguageSwitcher currentLocale={page.locale} links={{ pt: '/cupons/yesstyle', en: '/en/coupons/yesstyle', es: '/es/coupons/yesstyle', fr: '/fr/coupons/yesstyle', de: '/de/coupons/yesstyle', ko: '/ko/coupons/yesstyle', ja: '/ja/coupons/yesstyle', 'zh-hant': '/zh-hant/coupons/yesstyle', 'zh-hans': '/zh-hans/coupons/yesstyle' }} /></div></section>
+    <section className="px-4 pt-8"><div className="mx-auto max-w-5xl"><LanguageSwitcher currentLocale={page.locale} links={{ pt: '/cupons/yesstyle', en: '/reviews/yesstyle-reward-code-coupon-cecilia010', es: '/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010', fr: '/reviews/code-recompense-yesstyle-cecilia010', de: '/reviews/yesstyle-reward-code-rabatt-cecilia010', ko: '/reviews/yesstyle-reward-code-cecilia010-ko', ja: '/reviews/yesstyle-reward-code-cecilia010-ja', 'zh-hant': '/reviews/yesstyle-reward-code-cecilia010-zh-hant', 'zh-hans': '/reviews/yesstyle-reward-code-cecilia010-zh-hans' }} /></div></section>
     <section className="px-4 py-12"><div className="mx-auto max-w-5xl rounded-[2rem] bg-[#111827] p-7 text-white shadow-large md:p-10"><p className="font-mono text-4xl font-black tracking-[.08em] md:text-6xl">CECILIA010</p><p className="mt-4 max-w-2xl text-white/85">{page.description}</p><div className="mt-7 flex flex-col gap-3 sm:flex-row"><CopyButton code="CECILIA010" label={page.copy} copiedLabel={page.copied} ariaLabel={page.copyAria} /><a href="https://ystyle.co/x5pes" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center rounded-lg border border-white/30 px-4 py-2.5 text-sm font-semibold hover:bg-white/15">{page.visit}</a></div></div></section>
     <article className="bg-white px-4 py-14"><div className="mx-auto max-w-3xl"><h2 className="font-heading text-2xl font-black text-[#0f1419]">{page.details}</h2><dl className="mt-6 divide-y divide-black/8 rounded-2xl border border-black/8"><Detail label="Code" value="CECILIA010" /><Detail label="Discount" value="5% extra" /><Detail label="Field" value="Reward Code" /></dl><h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">{page.instructionsTitle}</h2><ol className="mt-4 list-decimal space-y-3 pl-6 text-[#0f1419]/78">{page.instructions.map((item) => <li key={item}>{item}</li>)}</ol><p className="mt-4 rounded-2xl border border-[#ff6b35]/25 bg-[#fff7ed] px-4 py-3 text-sm text-[#7c2d12]">{page.note}</p><h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">{page.faqTitle}</h2><div className="mt-4"><FAQAccordion items={page.faqs} /></div><div className="mt-14 rounded-2xl bg-[#fef9f3] p-6 text-sm leading-relaxed text-[#0f1419]/68">{page.transparency}</div></div></article>
     <CouponBottomBar coupon="CECILIA010" cta={{ url: 'https://ystyle.co/x5pes', label: page.visit }} locale={page.locale} />
