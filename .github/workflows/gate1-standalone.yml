@@ -1,0 +1,64 @@
+name: Gate 1 - Standalone proof
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'next.config.mjs'
+      - 'package.json'
+      - 'package-lock.json'
+      - 'scripts/**'
+      - 'src/**'
+      - 'content/**'
+      - 'public/**'
+
+permissions:
+  contents: read
+
+jobs:
+  prove-standalone:
+    name: Build and inspect Linux standalone
+    runs-on: ubuntu-22.04
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20.19.0
+          cache: npm
+
+      - run: npm ci
+      - run: npm run build
+
+      - name: Assert the standalone runtime artifact
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -f .next/standalone/server.js
+          test -f .next/standalone/package.json
+          test -d .next/standalone/node_modules/@img/sharp-linux-x64
+          test -d .next/standalone/node_modules/@img/sharp-libvips-linux-x64
+          find .next/standalone/node_modules/@img -name '*.node' -print
+          node -p "process.platform + ' ' + process.arch + ' glibc ' + process.report.getReport().header.glibcVersionRuntime"
+
+      - name: Record release assembly requirements
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -d .next/static
+          test -d public
+          printf 'BUILD_ID=' > gate1-release-report.txt
+          tr -d '\n' < .next/BUILD_ID >> gate1-release-report.txt
+          printf '\nstandalone server: ok\n' >> gate1-release-report.txt
+          printf 'next static: must be copied into standalone/.next/static\n' >> gate1-release-report.txt
+          printf 'public: must be copied into standalone/public\n' >> gate1-release-report.txt
+          find .next/standalone/node_modules/@img -name '*.node' -print >> gate1-release-report.txt
+          cat gate1-release-report.txt
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: gate1-release-report
+          path: gate1-release-report.txt
+          if-no-files-found: error
