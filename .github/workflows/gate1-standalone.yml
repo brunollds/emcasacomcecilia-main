@@ -43,6 +43,21 @@ jobs:
           find .next/standalone/node_modules/@img -name '*.node' -print
           node -p "process.platform + ' ' + process.arch + ' glibc ' + process.report.getReport().header.glibcVersionRuntime"
 
+      - name: Assert native binaries support the Hostinger glibc baseline
+        shell: bash
+        run: |
+          set -euo pipefail
+          baseline='GLIBC_2.34'
+          while IFS= read -r binary; do
+            required=$(objdump -T "$binary" | grep -oE 'GLIBC_[0-9.]+' | sort -V | tail -1 || true)
+            [ -z "$required" ] && continue
+            echo "$binary requires at most $required"
+            if [ "$(printf '%s\n%s\n' "$required" "$baseline" | sort -V | tail -1)" != "$baseline" ]; then
+              echo "Native binary exceeds Hostinger baseline: $required > $baseline" >&2
+              exit 1
+            fi
+          done < <(find .next/standalone/node_modules/@img -type f \( -name '*.node' -o -name '*.so' -o -name '*.so.*' \))
+
       - name: Record release assembly requirements
         shell: bash
         run: |
