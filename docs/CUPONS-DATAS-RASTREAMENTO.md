@@ -124,6 +124,7 @@ grep -n -E "(Jan|Fev|Mar|Abr|Mai|Jun|Jul|Ago|Set|Out|Nov|Dez)\s+2026" src/lib/da
 
 ## Notas
 
+- **Importante sobre `lastVerified`**: na atualização mensal (dia 01 do mês), o campo `lastVerified` deve ser definido para o dia 01 do mês vigente (ex: 2026-07-01 em julho, 2026-08-01 em agosto). Nunca deve conter uma data futura — datas futuras publicadas em `dateModified` e sitemap.xml são sinal negativo para o Google.
 - Não alterar datas editoriais de conteúdos já publicados apenas para refletir a verificação mensal do cupom.
 - Não alterar datas de conteúdos que não têm relação com cupons (ex: receitas, reviews de produtos sem cupom ativo, histórico curioso).
 - Artigos marcados como `draft: true` não geram páginas nem entram no sitemap, mas devem manter consistência se forem publicados no futuro.
