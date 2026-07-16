@@ -4,6 +4,7 @@ import { useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { ArrowUpRight, Check, ChevronDown, Copy } from 'lucide-react';
+import { trackEvent } from '@/lib/analytics';
 
 type CopyButtonProps = {
   code: string;
@@ -12,6 +13,8 @@ type CopyButtonProps = {
   ariaLabel?: string;
   variant?: 'primary' | 'ghost';
   className?: string;
+  brand?: string;
+  placement?: 'coupon_page' | 'bottom_bar' | 'review_inline';
 };
 
 export function CopyButton({
@@ -21,12 +24,19 @@ export function CopyButton({
   ariaLabel,
   variant = 'primary',
   className = '',
+  brand,
+  placement = 'coupon_page',
 }: CopyButtonProps) {
   const [copied, setCopied] = useState(false);
 
   const handleClick = async () => {
     try {
       await navigator.clipboard.writeText(code);
+      trackEvent('coupon_copy', {
+        coupon_code: code,
+        ...(brand && { brand }),
+        placement,
+      });
       setCopied(true);
       window.setTimeout(() => setCopied(false), 2000);
     } catch {
@@ -81,6 +91,45 @@ export function FAQAccordion({ items }: { items: FAQItem[] }) {
         </details>
       ))}
     </div>
+  );
+}
+
+type CouponStoreLinkProps = {
+  href: string;
+  label?: string;
+  couponCode?: string;
+  brand?: string;
+  placement?: 'coupon_page' | 'bottom_bar' | 'review_inline';
+  className?: string;
+};
+
+export function CouponStoreLink({
+  href,
+  label = 'Ir para a loja',
+  couponCode,
+  brand,
+  placement = 'coupon_page',
+  className = '',
+}: CouponStoreLinkProps) {
+  const handleClick = () => {
+    trackEvent('coupon_store_click', {
+      ...(couponCode && { coupon_code: couponCode }),
+      ...(brand && { brand }),
+      placement,
+      url: href,
+    });
+  };
+
+  return (
+    <a
+      href={href}
+      target="_blank"
+      rel="noopener noreferrer"
+      onClick={handleClick}
+      className={className}
+    >
+      {label}
+    </a>
   );
 }
 

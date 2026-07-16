@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import { Check, Copy } from 'lucide-react';
 import { getCouponCopyLabels, type CouponCopyLocale } from './couponCopyLocale';
+import { trackEvent } from '@/lib/analytics';
 
 export interface InlineCouponCopyProps {
   coupon: string;
@@ -16,6 +17,10 @@ export function InlineCouponCopy({ coupon, locale = 'pt' }: InlineCouponCopyProp
   const handleCopy = async () => {
     try {
       await navigator.clipboard.writeText(coupon);
+      trackEvent('coupon_copy', {
+        coupon_code: coupon,
+        placement: 'review_inline',
+      });
       setCopied(true);
       window.setTimeout(() => setCopied(false), 1800);
     } catch {

@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { CopyButton, CouponPillCard, FAQAccordion } from '@/components/CouponComponents';
+import { CopyButton, CouponPillCard, FAQAccordion, CouponStoreLink } from '@/components/CouponComponents';
 import { CouponBottomBar } from '@/components/CouponBottomBar';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 import {
@@ -304,15 +304,16 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
                 <CopyButton
                   code={coupon.code}
                   label={`Copiar e ${offerAction}`}
+                  brand={coupon.brand}
                 />
-                <a
+                <CouponStoreLink
                   href={coupon.brandUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  label="Ir para a loja"
+                  couponCode={coupon.code}
+                  brand={coupon.brand}
+                  placement="coupon_page"
                   className="inline-flex items-center justify-center rounded-lg border border-white/30 bg-white/15 px-4 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-white/25 focus:outline-none focus-visible:ring-2 focus-visible:ring-white"
-                >
-                  Ir para a loja
-                </a>
+                />
               </div>
             </div>
           </div>

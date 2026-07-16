@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from 'react';
 import { Check, Copy, ExternalLink, X } from 'lucide-react';
 import { copyTextWithFallback } from '@/lib/clipboardUtils';
 import { getCouponCopyLabels, type CouponCopyLocale } from './review/couponCopyLocale';
+import { trackEvent } from '@/lib/analytics';
 
 export interface CouponBottomBarProps {
   coupon: string;
@@ -59,6 +60,11 @@ export function CouponBottomBar({
     const success = await copyTextWithFallback(coupon);
     if (!success) return;
 
+    trackEvent('coupon_copy', {
+      coupon_code: coupon,
+      placement: 'bottom_bar',
+    });
+
     setCopied(true);
 
     if (timeoutRef.current) {
@@ -109,6 +115,11 @@ export function CouponBottomBar({
               href={cta!.url}
               target="_blank"
               rel="noopener noreferrer"
+              onClick={() => trackEvent('coupon_store_click', {
+                coupon_code: coupon,
+                placement: 'bottom_bar',
+                url: cta!.url,
+              })}
               className="inline-flex items-center justify-center gap-2 rounded-xl bg-[#ff6b35] px-4 py-3 text-sm font-bold text-white shadow-[0_4px_16px_rgba(255,107,53,0.35)] transition-all active:scale-95 motion-safe:hover:-translate-y-0.5 hover:bg-[#e55a26] motion-safe:hover:shadow-[0_6px_20px_rgba(255,107,53,0.45)]"
             >
               {ctaLabel}

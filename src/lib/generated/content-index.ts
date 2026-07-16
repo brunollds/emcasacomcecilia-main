@@ -28927,11 +28927,11 @@ export const reviewsData: unknown[] = [
   {
     "id": 20,
     "slug": "codigo-cecilia010-yesstyle-como-usar",
-    "title": "YesStyle CECILIA010: código de recompensa",
+    "title": "Como usar o código CECILIA010 na YesStyle: passo a passo do Reward Code",
     "type": "Guia & Cupons",
     "reviewKind": "guia",
-    "description": "Guia prático para usar o código de influenciador CECILIA010 na YesStyle. Descubra a diferença de outros cupons, aprenda a fazer o empilhamento de descontos (stacking) e confira dicas de K-Beauty e importação.",
-    "metaDescription": "Use CECILIA010 na YesStyle para ganhar 5% extra e combinar com cupons em compras de K-beauty, skincare coreano e moda.",
+    "description": "Passo a passo prático para usar o código de influenciador CECILIA010 na YesStyle. Veja onde digitá-lo no checkout (Reward Code), como combinar com cupons ativos, dicas de K-Beauty e regras de importação para o Brasil.",
+    "metaDescription": "Como usar CECILIA010 na YesStyle: campo Reward Code, 5% extra cumulativo, como combinar cupons + frete grátis para o Brasil em compras acima de US$ 59.",
     "publishedAt": "21 Jun 2026",
     "publishedAtISO": "2026-06-21",
     "draft": false,
@@ -28957,7 +28957,8 @@ export const reviewsData: unknown[] = [
         "heading": "Como funciona o código CECILIA010",
         "paragraphs": [
           "Diferente do que acontece com cupons tradicionais (como o CECILIA12 na Damie ou o CECI na Dolce Gusto, que aplicam um desconto direto no carrinho), o código CECILIA010 na YesStyle funciona de maneira única como um \"Reward Code\" (Código de Recompensa).",
-          "A grande sacada é que ele possui um campo exclusivo e separado no checkout. Isso significa que ele é 100% cumulativo: você pode usá-lo ao mesmo tempo com QUALQUER cupom ativo no site, somando o cupom com os 5% oferecidos por CECILIA010."
+          "A grande sacada é que ele possui um campo exclusivo e separado no checkout. Isso significa que ele é 100% cumulativo: você pode usá-lo ao mesmo tempo com QUALQUER cupom ativo no site, somando o cupom com os 5% oferecidos por CECILIA010.",
+          "Se você está buscando uma compra com cupom direto (desconto na hora), confira nosso cupom YesStyle atualizado na página comercial."
         ],
         "bullets": [
           "Código: CECILIA010",
@@ -28967,6 +28968,12 @@ export const reviewsData: unknown[] = [
           "Como funciona: Garante 5% extra no carrinho quando aplicado no campo correto",
           "Cumulativo: SIM! Você pode usar o CECILIA010 + qualquer cupom ativo no mesmo pedido",
           "Validade: Permanente (sempre ativo e verificado)"
+        ],
+        "links": [
+          {
+            "label": "Ver cupom YesStyle atualizado",
+            "href": "/cupons/yesstyle"
+          }
         ],
         "emphasis": "Dica da Cecília: O CECILIA010 não anula os cupons de desconto mensais da YesStyle — ele soma 5% a eles! Use sempre os dois campos no checkout para maximizar sua economia."
       },
@@ -29012,6 +29019,14 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Código de Recompensa (Reward Code - CECILIA010): Este é o código de influenciador da Cecília. Ele deve ser digitado no campo \"Código de Recompensa\" (ou \"Reward Code\") e garante 5% extra no pedido. Qualquer benefício além desse desconto depende das regras vigentes da YesStyle e não deve ser considerado garantido.",
           "Cupom de Desconto (Coupon Code ativo): Estes mudam de acordo com o mês, campanhas promocionais e regras vigentes do site. Quando houver um cupom disponível, ele deve ser digitado no campo \"Código de Cupom\" (ou \"Coupon Code\")."
+        ]
+      },
+      {
+        "heading": "CECILIA010 é código de influenciador YesStyle?",
+        "paragraphs": [
+          "Sim. O CECILIA010 é um código de recompensa de influenciador registrado no programa oficial de parceiros da YesStyle. Isso significa que ele foi criado especificamente para leitoras do blog Em Casa com Cecília que compram K-beauty e produtos asiáticos.",
+          "Diferente dos cupons mensais (que mudam e expiram), o código de influenciador se mantém ativo enquanto a parceria durar, e pode ser usado em novas compras. Se houver alguma limitação por conta ou por pedido, o próprio checkout da YesStyle avisa na hora de aplicar o código.",
+          "A vantagem do código de influenciador CECILIA010 é que ele funciona em um campo separado e não interfere com cupons ativos. Isso quer dizer que você ganha os 5% da influenciadora E ainda aproveita o cupom de desconto do mês — é o melhor dos dois mundos."
         ]
       },
       {
@@ -31936,7 +31951,26 @@ export const reviewsData: unknown[] = [
           "Onde usar: Site oficial NESCAFÉ Dolce Gusto Brasil",
           "Válido em: JULHO 2026 (cupom verificado e ativo)"
         ],
-        "emphasis": "Use o código CECI no checkout da NESCAFÉ DOLCE GUSTO e economize 5% em todas as suas compras elegíveis."
+        "emphasis": "Use o código CECI no checkout da NESCAFÉ DOLCE GUSTO e economize 5% em todas as suas compras elegíveis.",
+        "links": [
+          {
+            "label": "Cupom Dolce Gusto atualizado",
+            "href": "/cupons/dolce-gusto"
+          }
+        ]
+      },
+      {
+        "heading": "Cupom Dolce Gusto hoje: está ativo?",
+        "paragraphs": [
+          "Sim, o cupom CECI está ativo para compras na loja oficial da NESCAFÉ Dolce Gusto. Nossa última verificação foi em 1º de julho de 2026, e o código continua válido para o período. O cupom mantém as mesmas regras: 5% de desconto em compras acima de R$ 100, limitado a 3 usos por CPF, válido para todo o catálogo de cápsulas, máquinas e acessórios.",
+          "Para estar sempre segura sobre as condições mais recentes, confira a página dedicada ao cupom Dolce Gusto aqui do blog. Ela é atualizada regularmente com novas informações sobre o código, mudanças nas regras e promoções pontuais que possam estar ativas no site oficial."
+        ],
+        "links": [
+          {
+            "label": "Confira a página atualizada do cupom Dolce Gusto",
+            "href": "/cupons/dolce-gusto"
+          }
+        ]
       },
       {
         "heading": "O que é o cupom CECI da NESCAFÉ Dolce Gusto?",
@@ -32198,6 +32232,27 @@ export const reviewsData: unknown[] = [
           "Confirme que o abatimento de 5% foi refletido no valor total.",
           "Ao receber a encomenda, abra as caixas e cadastre os códigos de 12 dígitos.",
           "Acompanhe seu extrato e planeje a troca de prêmios antes do prazo de validade de 6 meses."
+        ]
+      },
+      {
+        "heading": "Pontos Dolce Gusto: como maximizar seu saldo",
+        "paragraphs": [
+          "Os pontos Dolce Gusto são a moeda do programa de fidelidade. Cada ação elegível (cadastro de código, compra online, assinatura de cápsulas) gera uma quantidade de pontos que fica guardada na sua conta. O objetivo é simples: acumular pontos Dolce Gusto para depois trocar por cápsulas grátis, acessórios ou até vouchers de desconto.",
+          "A estratégia para maximizar o saldo é combinar múltiplas ações: compre usando o cupom CECI (5% OFF), resgate os pontos de compra online, cadastre os códigos das caixas de cápsulas recebidas, e participe de bônus especiais quando disponíveis. Se você é consumidor frequente de café Dolce Gusto, manter os pontos Dolce Gusto ativos pode resultar em economias significativas ao longo de alguns meses."
+        ],
+        "bullets": [
+          "Cada caixa de cápsulas Geração 1 = 100 pontos Dolce Gusto (código cadastrado)",
+          "Cada extração NEO = 10 pontos Dolce Gusto (automático no aplicativo)",
+          "Compra online no site = +100 pontos Dolce Gusto",
+          "Assinatura de cápsulas = +1.000 pontos Dolce Gusto na primeira compra",
+          "Combos DGUSTA = 500 ou 1.000 pontos Dolce Gusto por caixa",
+          "Pontos Dolce Gusto expiram após 6 meses de inatividade — mantenha a conta ativa!"
+        ],
+        "links": [
+          {
+            "label": "Aproveite também o cupom CECI para comprar cápsulas",
+            "href": "/cupons/dolce-gusto"
+          }
         ]
       },
       {
@@ -33141,7 +33196,13 @@ export const reviewsData: unknown[] = [
         "heading": "Introdução",
         "paragraphs": [
           "Muita gente que acompanha as receitas aqui em casa também me pergunta sobre suplementação alimentar — principalmente pensando nos pais ou nos avós, naquela fase em que só a comida do dia a dia não cobre tudo que o corpo precisa. Foi conversando sobre isso que a parceria com a Nestlé Nutre apareceu: uma marca que muita família já usa no dia a dia, com produtos fáceis de achar em mercado e farmácia.",
-          "Ainda não testei os produtos da linha pessoalmente, então este guia é só sobre o cupom: onde aplicar o código CECI, quais produtos entram na promoção e a única exceção que você precisa saber antes de fechar a compra."
+          "Ainda não testei os produtos da linha pessoalmente, então este guia é só sobre o cupom: onde aplicar o código CECI, quais produtos entram na promoção e a única exceção que você precisa saber antes de fechar a compra. Se você está buscando a página oficial com todos os cupons e promoções ativas da loja, confira nosso cupom Nestlé Nutre atualizado."
+        ],
+        "links": [
+          {
+            "label": "Cupom Nestlé Nutre atualizado",
+            "href": "/cupons/nutren"
+          }
         ]
       },
       {
@@ -33152,6 +33213,14 @@ export const reviewsData: unknown[] = [
           "No campo de cupom ou código promocional, digite CECI exatamente como está escrito.",
           "Clique em aplicar e confirme se o desconto de 5% apareceu no valor total antes de pagar.",
           "O cupom não vale para Alfamino e Alfaré — confira se algum desses itens está no carrinho."
+        ]
+      },
+      {
+        "heading": "Cupom Nestlé Nutre CECI: o que você precisa saber",
+        "paragraphs": [
+          "O cupom Nestlé Nutre CECI oferece 5% de desconto real no site oficial — nenhuma pegadinha, sem valor mínimo de compra. É um código que funciona em praticamente toda a linha de produtos, com uma única exceção clara: Alfamino e Alfaré ficam de fora.",
+          "Diferente de outros cupons que mudam todo mês ou expiram em datas específicas, o cupom Nestlé Nutre CECI é mantido ativo como parte de uma parceria verificada. Isso quer dizer que você pode contar com ele para suas compras regulares de suplementação, sem perder tempo procurando novos códigos a cada semana.",
+          "A regra mais importante: o cupom Nestlé Nutre funciona sobre o valor dos produtos, não sobre o frete. Então se sua compra der R$ 100, você ganha R$ 5 de desconto — o frete é calculado à parte."
         ]
       },
       {
@@ -33629,6 +33698,19 @@ export const reviewsData: unknown[] = [
       }
     ],
     "contentSections": [
+      {
+        "heading": "Esta promoção ainda está ativa?",
+        "paragraphs": [
+          "A promoção de 55 caixas + Mini Me grátis entrou no ar às 16h00 do dia 30/06/2026 e é do tipo por tempo limitado: pode ser encerrada sem aviso prévio, conforme o estoque da loja. Antes de montar o carrinho, confirme no site oficial da NESCAFÉ Dolce Gusto se a oferta ainda aparece disponível.",
+          "Independentemente da promoção, o cupom CECI segue ativo na loja oficial. Para conferir descontos e condições vigentes, veja a página do cupom, que é mantida atualizada."
+        ],
+        "links": [
+          {
+            "label": "Conferir cupons e ofertas vigentes",
+            "href": "/cupons/dolce-gusto"
+          }
+        ]
+      },
       {
         "heading": "O que é a promoção",
         "paragraphs": [
