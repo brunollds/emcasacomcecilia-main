@@ -304,22 +304,28 @@ jobs:
           ssh -i ~/.ssh/id_ed25519 -p "$PORT" -o StrictHostKeyChecking=yes "$HOST" \
             "ROOT='$ROOT' RETAIN_RELEASES='$RETAIN_RELEASES' bash -s" <<'REMOTE'
           set -euo pipefail
-          cleanup_directories() {
-            local parent="$1" pattern="$2"
-            mapfile -t entries < <(find "$parent" -maxdepth 1 -mindepth 1 -type d -name "$pattern" -printf '%T@ %p\n' | sort -nr | cut -d' ' -f2-)
-            for ((i=RETAIN_RELEASES; i<${#entries[@]}; i++)); do
-              case "${entries[$i]}" in "$ROOT"/nodejs.prev-*|"$ROOT"/nodejs.bad-*) rm -rf -- "${entries[$i]}" ;; *) exit 1 ;; esac
-            done
-          }
-          cleanup_archives() {
-            mapfile -t entries < <(find "$ROOT/releases" -maxdepth 1 -type f -name '????????????????????????????????????????.tar.gz' -printf '%T@ %p\n' | sort -nr | cut -d' ' -f2-)
-            for ((i=RETAIN_RELEASES; i<${#entries[@]}; i++)); do
-              case "${entries[$i]}" in "$ROOT"/releases/*.tar.gz) rm -f -- "${entries[$i]}" ;; *) exit 1 ;; esac
-            done
-          }
-          cleanup_directories "$ROOT" 'nodejs.prev-*'
-          cleanup_directories "$ROOT" 'nodejs.bad-*'
-          cleanup_archives
+          # Pipe + 'tail -n +N' no lugar de 'mapfile < <(find ...)': process substitution nao roda
+          # via ssh "bash -s" (o script vem pela stdin -> /dev/fd/63 inexistente). Pipe puro funciona.
+          # Mantem newest-first (sort -nr por mtime), pula os RETAIN_RELEASES mais novos, apaga o resto.
+          skip=$((RETAIN_RELEASES + 1))
+
+          find "$ROOT" -maxdepth 1 -mindepth 1 -type d -name 'nodejs.prev-*' -printf '%T@ %p\n' \
+            | sort -nr | cut -d' ' -f2- | tail -n +"$skip" \
+            | while IFS= read -r e; do
+                case "$e" in "$ROOT"/nodejs.prev-*) rm -rf -- "$e" ;; *) echo "Retention: inesperado: $e" >&2; exit 1 ;; esac
+              done
+
+          find "$ROOT" -maxdepth 1 -mindepth 1 -type d -name 'nodejs.bad-*' -printf '%T@ %p\n' \
+            | sort -nr | cut -d' ' -f2- | tail -n +"$skip" \
+            | while IFS= read -r e; do
+                case "$e" in "$ROOT"/nodejs.bad-*) rm -rf -- "$e" ;; *) echo "Retention: inesperado: $e" >&2; exit 1 ;; esac
+              done
+
+          find "$ROOT/releases" -maxdepth 1 -type f -name '????????????????????????????????????????.tar.gz' -printf '%T@ %p\n' \
+            | sort -nr | cut -d' ' -f2- | tail -n +"$skip" \
+            | while IFS= read -r e; do
+                case "$e" in "$ROOT"/releases/*.tar.gz) rm -f -- "$e" ;; *) echo "Retention: inesperado: $e" >&2; exit 1 ;; esac
+              done
           REMOTE
           echo "Retained the latest $RETAIN_RELEASES previous/bad releases and archives." >> "$GITHUB_STEP_SUMMARY"
 
