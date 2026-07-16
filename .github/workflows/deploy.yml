@@ -1,0 +1,331 @@
+name: Deploy emcasa (manual)
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: 'Digite DEPLOY para confirmar a janela de manutencao aprovada.'
+        required: true
+        type: string
+      auto_rollback:
+        description: 'Restaurar automaticamente o release anterior se o health check do novo release falhar?'
+        required: true
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-emcasa
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: inputs.confirm == 'DEPLOY'
+    runs-on: ubuntu-22.04
+    timeout-minutes: 20
+    env:
+      HOST: u150185510@46.202.145.2
+      PORT: '65002'
+      DOMAIN: emcasacomcecilia.com
+      ROOT: /home/u150185510/domains/emcasacomcecilia.com
+      APP_DIR: /home/u150185510/domains/emcasacomcecilia.com/nodejs
+      RELEASE_ID: ${{ github.sha }}
+      RETAIN_RELEASES: '3'
+      HOSTINGER_ACCOUNT: u150185510
+      SSH_KEY: ${{ secrets.HOSTINGER_SSH_KEY }}
+      KNOWN_HOSTS: ${{ secrets.HOSTINGER_KNOWN_HOSTS }}
+      HOSTINGER_API_TOKEN: ${{ secrets.HOSTINGER_API_TOKEN }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20.19.0
+          cache: npm
+
+      - name: Install and build
+        run: |
+          npm ci
+          npm run build
+
+      - name: Assemble and validate the Linux release
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf pkg
+          mkdir -p pkg/.next
+          cp -a .next/standalone/. pkg/
+          cp -a .next/static pkg/.next/static
+          cp -a public/. pkg/public/
+
+          test -f pkg/server.js
+          test -f pkg/.next/BUILD_ID
+          test -d pkg/.next/static
+          test -f pkg/public/search-index.json
+          test -d pkg/node_modules/@img/sharp-linux-x64
+          test -d pkg/node_modules/@img/sharp-libvips-linux-x64
+
+          baseline='GLIBC_2.34'
+          while IFS= read -r binary; do
+            required=$(objdump -T "$binary" | grep -oE 'GLIBC_[0-9.]+' | sort -V | tail -1 || true)
+            [ -z "$required" ] && continue
+            echo "$binary requires at most $required"
+            if [ "$(printf '%s\n%s\n' "$required" "$baseline" | sort -V | tail -1)" != "$baseline" ]; then
+              echo "Native binary exceeds Hostinger baseline: $required > $baseline" >&2
+              exit 1
+            fi
+          done < <(find pkg/node_modules/@img -type f \( -name '*.node' -o -name '*.so' -o -name '*.so.*' \))
+
+          for manifest in pkg/server.js pkg/.next/required-server-files.json; do
+            [ -f "$manifest" ] || continue
+            if grep -Fq '/home/runner/work/' "$manifest"; then
+              echo "Runner path leaked into $manifest" >&2
+              exit 1
+            fi
+          done
+
+          tar -C pkg -czf "emcasa-release-${RELEASE_ID}.tar.gz" .
+          echo "BUILD_ID=$(tr -d '\n' < pkg/.next/BUILD_ID)" >> "$GITHUB_ENV"
+
+      - name: Configure SSH with a pinned host key
+        shell: bash
+        run: |
+          set -euo pipefail
+          [ -n "$SSH_KEY" ] || { echo 'HOSTINGER_SSH_KEY is missing' >&2; exit 1; }
+          [ -n "$KNOWN_HOSTS" ] || { echo 'HOSTINGER_KNOWN_HOSTS is missing' >&2; exit 1; }
+          install -d -m 700 ~/.ssh
+          printf '%s\n' "$SSH_KEY" | tr -d '\r' > ~/.ssh/id_ed25519
+          printf '%s\n' "$KNOWN_HOSTS" > ~/.ssh/known_hosts
+          chmod 600 ~/.ssh/id_ed25519 ~/.ssh/known_hosts
+          ssh-keygen -F "[46.202.145.2]:65002" -f ~/.ssh/known_hosts >/dev/null
+
+      - name: Upload release archive
+        shell: bash
+        run: |
+          set -euo pipefail
+          ssh -i ~/.ssh/id_ed25519 -p "$PORT" -o StrictHostKeyChecking=yes "$HOST" "mkdir -p '$ROOT/releases' '$ROOT/backups'"
+          scp -i ~/.ssh/id_ed25519 -P "$PORT" -o StrictHostKeyChecking=yes \
+            "emcasa-release-${RELEASE_ID}.tar.gz" "$HOST:$ROOT/releases/${RELEASE_ID}.tar.gz"
+
+      - name: Stop old workers, validate staging, and swap release
+        shell: bash
+        run: |
+          set -euo pipefail
+          ssh -i ~/.ssh/id_ed25519 -p "$PORT" -o StrictHostKeyChecking=yes "$HOST" \
+            "ROOT='$ROOT' APP_DIR='$APP_DIR' RELEASE_ID='$RELEASE_ID' bash -s" <<'REMOTE'
+          set -euo pipefail
+          release="$ROOT/releases/$RELEASE_ID"
+          archive="$ROOT/releases/$RELEASE_ID.tar.gz"
+          previous="$ROOT/nodejs.prev-$RELEASE_ID"
+          metadata="$ROOT/backups/emcasa-nodejs-$RELEASE_ID.txt"
+
+          [ ! -e "$release" ] || { echo "Release directory already exists: $release" >&2; exit 1; }
+          [ ! -e "$previous" ] || { echo "Previous release directory already exists: $previous" >&2; exit 1; }
+          mkdir "$release"
+          tar -xzf "$archive" -C "$release"
+          test -f "$release/server.js"
+          test -f "$release/.next/BUILD_ID"
+          test -d "$release/.next/static"
+          test -f "$release/public/search-index.json"
+          test -f "$release/node_modules/@img/sharp-linux-x64/lib/sharp-linux-x64.node"
+          test -d "$release/node_modules/@img/sharp-libvips-linux-x64"
+
+          stat -c 'release=%n owner=%U:%G mode=%a' "$APP_DIR" > "$metadata"
+          if [ -f "$ROOT/public_html/.htaccess" ]; then
+            cp -p "$ROOT/public_html/.htaccess" "$ROOT/backups/emcasa-htaccess-$RELEASE_ID"
+          fi
+
+          app_workers() {
+            for pid in $(pgrep -u u150185510 -f next-server || true); do
+              cwd=$(readlink "/proc/$pid/cwd" 2>/dev/null || true)
+              [ "$cwd" = "$APP_DIR" ] && printf '%s\n' "$pid"
+            done
+          }
+
+          for pid in $(app_workers); do kill -TERM "$pid"; done
+          sleep 3
+          for pid in $(app_workers); do kill -KILL "$pid"; done
+          sleep 1
+          survivors=$(app_workers || true)
+          [ -z "$survivors" ] || { echo "Refusing swap: old workers remain: $survivors" >&2; exit 1; }
+
+          if ! mv "$APP_DIR" "$previous"; then
+            echo 'Could not preserve current release' >&2
+            exit 1
+          fi
+          if ! mv "$release" "$APP_DIR"; then
+            mv "$previous" "$APP_DIR"
+            mkdir -p "$APP_DIR/tmp"
+            touch "$APP_DIR/tmp/restart.txt"
+            echo 'Swap failed; previous release restored' >&2
+            exit 1
+          fi
+          if ! mkdir -p "$APP_DIR/tmp" || ! touch "$APP_DIR/tmp/restart.txt"; then
+            bad="$ROOT/nodejs.bad-$RELEASE_ID"
+            mv "$APP_DIR" "$bad" || true
+            mv "$previous" "$APP_DIR"
+            mkdir -p "$APP_DIR/tmp"
+            touch "$APP_DIR/tmp/restart.txt"
+            echo 'Restart failed; previous release restored' >&2
+            exit 1
+          fi
+          REMOTE
+          echo 'SWAP_COMPLETED=1' >> "$GITHUB_ENV"
+
+      - name: Purge Hostinger website cache
+        shell: bash
+        run: |
+          set -euo pipefail
+          [ -n "$HOSTINGER_API_TOKEN" ] || { echo 'HOSTINGER_API_TOKEN is missing' >&2; exit 1; }
+          response=$(mktemp)
+          status=$(curl --silent --show-error --output "$response" --write-out '%{http_code}' \
+            --request DELETE \
+            --header "Authorization: Bearer $HOSTINGER_API_TOKEN" \
+            --header 'Accept: application/json' \
+            "https://developers.hostinger.com/api/hosting/v1/accounts/$HOSTINGER_ACCOUNT/websites/$DOMAIN/cache/clear")
+          case "$status" in
+            2*) echo 'Hostinger cache purge accepted' ;;
+            *) cat "$response" >&2; echo "Cache purge failed with HTTP $status" >&2; exit 1 ;;
+          esac
+
+      - name: Health check the new release
+        shell: bash
+        run: |
+          set -euo pipefail
+          base="https://${DOMAIN}"
+          body=$(mktemp)
+          headers=$(mktemp)
+          ready=0
+
+          for attempt in $(seq 1 48); do
+            status=$(curl -4 -sS --connect-timeout 10 --max-time 20 \
+              -H 'Cache-Control: no-cache' -D "$headers" -o "$body" -w '%{http_code}' \
+              "$base/" || true)
+            if [ "$status" = '200' ] && grep -Fq "$BUILD_ID" "$body"; then
+              ready=1
+              break
+            fi
+            echo "Waiting for new release: HTTP $status (${attempt} of 48)"
+            sleep 5
+          done
+          [ "$ready" = '1' ] || { echo 'New BUILD_ID was not served within 240 seconds' >&2; exit 1; }
+
+          curl -4 --fail --silent --show-error -H 'Cache-Control: no-cache' \
+            "$base/_next/static/$BUILD_ID/_buildManifest.js" >/dev/null
+          grep -Eq '/_next/static/.+\.(css|js)' "$body"
+          curl -4 --fail --silent --show-error \
+            "$base/_next/image?url=%2Fimages%2Flogos%2Flogo-em-casa-com-cecilia.png&w=256&q=75" >/dev/null
+
+          for route in /receitas /reviews /sobre /contato /sitemap.xml /llms.txt; do
+            status=$(curl -4 -sS --connect-timeout 10 --max-time 20 -o /dev/null -w '%{http_code}' \
+              -H 'Cache-Control: no-cache' "$base$route" || true)
+            [ "$status" = '200' ] || { echo "$route returned HTTP $status" >&2; exit 1; }
+          done
+          if ! grep -Fq 'Últimos vídeos' "$body" || ! grep -Eq 'ytimg\.com/vi/' "$body"; then
+            echo '::warning::Release is healthy, but YouTube content is not populated. Check API key or quota.'
+          fi
+
+          sleep 300
+          workers=$(ssh -i ~/.ssh/id_ed25519 -p "$PORT" -o StrictHostKeyChecking=yes "$HOST" \
+            "APP_DIR='$APP_DIR' bash -s" <<'REMOTE'
+          for pid in $(pgrep -u u150185510 -f next-server || true); do
+            [ "$(readlink /proc/$pid/cwd 2>/dev/null || true)" = "$APP_DIR" ] && echo "$pid"
+          done
+          REMOTE
+          )
+          worker_count=$(printf '%s\n' "$workers" | sed '/^$/d' | wc -l | tr -d ' ')
+          [ "$worker_count" -le 3 ] || { echo "Worker pile detected: $worker_count" >&2; exit 1; }
+
+          {
+            echo "release=$RELEASE_ID"
+            echo "build_id=$BUILD_ID"
+            echo "workers=$worker_count"
+            grep -iE '^(cache-control|etag|age|x-nextjs-cache):' "$headers" || true
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Roll back the post-swap release when requested
+        if: failure() && inputs.auto_rollback == 'true' && env.SWAP_COMPLETED == '1'
+        shell: bash
+        run: |
+          set -euo pipefail
+          ssh -i ~/.ssh/id_ed25519 -p "$PORT" -o StrictHostKeyChecking=yes "$HOST" \
+            "ROOT='$ROOT' APP_DIR='$APP_DIR' RELEASE_ID='$RELEASE_ID' bash -s" <<'REMOTE'
+          set -euo pipefail
+          previous="$ROOT/nodejs.prev-$RELEASE_ID"
+          bad="$ROOT/nodejs.bad-$RELEASE_ID"
+          [ -d "$previous" ] || { echo "No previous release found: $previous" >&2; exit 1; }
+
+          for pid in $(pgrep -u u150185510 -f next-server || true); do
+            [ "$(readlink /proc/$pid/cwd 2>/dev/null || true)" = "$APP_DIR" ] && kill -TERM "$pid"
+          done
+          sleep 3
+          for pid in $(pgrep -u u150185510 -f next-server || true); do
+            [ "$(readlink /proc/$pid/cwd 2>/dev/null || true)" = "$APP_DIR" ] && kill -KILL "$pid"
+          done
+          for pid in $(pgrep -u u150185510 -f next-server || true); do
+            [ "$(readlink /proc/$pid/cwd 2>/dev/null || true)" = "$APP_DIR" ] && { echo "Worker $pid survived rollback stop" >&2; exit 1; }
+          done
+
+          [ ! -e "$bad" ] || { echo "Rollback target already exists: $bad" >&2; exit 1; }
+          mv "$APP_DIR" "$bad"
+          mv "$previous" "$APP_DIR"
+          mkdir -p "$APP_DIR/tmp"
+          touch "$APP_DIR/tmp/restart.txt"
+          REMOTE
+          restored=0
+          for attempt in $(seq 1 48); do
+            status=$(curl -4 -sS --connect-timeout 10 --max-time 20 -o /dev/null -w '%{http_code}' \
+              -H 'Cache-Control: no-cache' "https://$DOMAIN/" || true)
+            if [ "$status" = '200' ]; then
+              restored=1
+              break
+            fi
+            sleep 5
+          done
+          [ "$restored" = '1' ] || { echo 'Rollback completed on disk, but the previous release did not return HTTP 200' >&2; exit 1; }
+          echo 'Auto rollback completed; the previous release was restarted.' >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Retain the latest release backups
+        if: success()
+        shell: bash
+        run: |
+          set -euo pipefail
+          ssh -i ~/.ssh/id_ed25519 -p "$PORT" -o StrictHostKeyChecking=yes "$HOST" \
+            "ROOT='$ROOT' RETAIN_RELEASES='$RETAIN_RELEASES' bash -s" <<'REMOTE'
+          set -euo pipefail
+          cleanup_directories() {
+            local parent="$1" pattern="$2"
+            mapfile -t entries < <(find "$parent" -maxdepth 1 -mindepth 1 -type d -name "$pattern" -printf '%T@ %p\n' | sort -nr | cut -d' ' -f2-)
+            for ((i=RETAIN_RELEASES; i<${#entries[@]}; i++)); do
+              case "${entries[$i]}" in "$ROOT"/nodejs.prev-*|"$ROOT"/nodejs.bad-*) rm -rf -- "${entries[$i]}" ;; *) exit 1 ;; esac
+            done
+          }
+          cleanup_archives() {
+            mapfile -t entries < <(find "$ROOT/releases" -maxdepth 1 -type f -name '????????????????????????????????????????.tar.gz' -printf '%T@ %p\n' | sort -nr | cut -d' ' -f2-)
+            for ((i=RETAIN_RELEASES; i<${#entries[@]}; i++)); do
+              case "${entries[$i]}" in "$ROOT"/releases/*.tar.gz) rm -f -- "${entries[$i]}" ;; *) exit 1 ;; esac
+            done
+          }
+          cleanup_directories "$ROOT" 'nodejs.prev-*'
+          cleanup_directories "$ROOT" 'nodejs.bad-*'
+          cleanup_archives
+          REMOTE
+          echo "Retained the latest $RETAIN_RELEASES previous/bad releases and archives." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Rollback procedure when automatic rollback is disabled
+        if: failure() && (inputs.auto_rollback != 'true' || env.SWAP_COMPLETED != '1')
+        run: |
+          cat <<'EOF' >> "$GITHUB_STEP_SUMMARY"
+          ## Manual rollback (do not run automatically)
+          1. Stop only next-server workers whose cwd equals the emcasa nodejs directory.
+          2. Move nodejs to nodejs.bad-<sha>.
+          3. Move nodejs.prev-<sha> back to nodejs.
+          4. Touch nodejs/tmp/restart.txt.
+          5. Re-run the health checks.
+          EOF
