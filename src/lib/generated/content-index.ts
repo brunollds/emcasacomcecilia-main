@@ -32296,8 +32296,8 @@ export const reviewsData: unknown[] = [
         "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto"
       },
       {
-        "slug": "promocao-dolce-gusto-55-caixas-mini-me-gratis",
-        "title": "Dolce Gusto: 55 caixas, ganhe Mini Me"
+        "slug": "promocao-dolce-gusto-caixas-mini-me-gratis",
+        "title": "Promoção Dolce Gusto: caixas de cápsulas + Mini Me grátis (como funciona)"
       }
     ]
   },
@@ -32781,8 +32781,8 @@ export const reviewsData: unknown[] = [
         "title": "Clube Dolce Gusto: pontos e prêmios"
       },
       {
-        "slug": "promocao-dolce-gusto-55-caixas-mini-me-gratis",
-        "title": "Dolce Gusto: 55 caixas, ganhe Mini Me"
+        "slug": "promocao-dolce-gusto-caixas-mini-me-gratis",
+        "title": "Promoção Dolce Gusto: caixas de cápsulas + Mini Me grátis (como funciona)"
       }
     ],
     "imageAspect": "square"
@@ -33649,8 +33649,8 @@ export const reviewsData: unknown[] = [
   },
   {
     "id": 226,
-    "slug": "promocao-dolce-gusto-55-caixas-mini-me-gratis",
-    "title": "Dolce Gusto: 55 caixas, ganhe Mini Me",
+    "slug": "promocao-dolce-gusto-caixas-mini-me-gratis",
+    "title": "Promoção Dolce Gusto: caixas de cápsulas + Mini Me grátis (como funciona)",
     "type": "Guia",
     "reviewKind": "guia",
     "author": {
@@ -33660,8 +33660,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Oferta Dolce Gusto: ao comprar 55 caixas de cápsulas ORIGINAL na loja oficial, ganhe uma máquina Mini Me. Regras, cupom CECI e análise.",
-    "metaDescription": "Promoção Dolce Gusto: compre 55 caixas ORIGINAL, ganhe Mini Me grátis e veja regras, cupom CECI e análise de custo-benefício.",
+    "description": "Promoção recorrente da Dolce Gusto: compre cápsulas ORIGINAL em volume e ganhe máquina Mini Me grátis. A quantidade de caixas exigida varia (50–70). Saiba como funciona, regras, cupom CECI e análise.",
+    "metaDescription": "Promoção Dolce Gusto: compre caixas de cápsulas, ganhe Mini Me grátis. Quantidade varia conforme o dia. Veja regras, cupom CECI e análise de custo-benefício.",
     "publishedAt": "29 Jun 2026",
     "publishedAtISO": "2026-06-29",
     "draft": false,
@@ -33699,10 +33699,11 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
-        "heading": "Esta promoção ainda está ativa?",
+        "heading": "Quantas caixas preciso comprar hoje?",
         "paragraphs": [
-          "A promoção de 55 caixas + Mini Me grátis entrou no ar às 16h00 do dia 30/06/2026 e é do tipo por tempo limitado: pode ser encerrada sem aviso prévio, conforme o estoque da loja. Antes de montar o carrinho, confirme no site oficial da NESCAFÉ Dolce Gusto se a oferta ainda aparece disponível.",
-          "Independentemente da promoção, o cupom CECI segue ativo na loja oficial. Para conferir descontos e condições vigentes, veja a página do cupom, que é mantida atualizada."
+          "A promoção funciona de forma recorrente: a loja oficial mantém a oferta ativa com frequência, mas o número de caixas exigido varia. Nas últimas semanas (período de junho a julho de 2026), o gatilho oscilou entre 50 e 70 caixas. Em 16 de julho de 2026, a loja operava com 60 caixas como mínimo para ganhar a Mini Me grátis.",
+          "Antes de montar o carrinho, verifique o número exato de caixas necessário consultando o site oficial da NESCAFÉ Dolce Gusto — ele aparece em destaque no banner de promoção. O número pode mudar a qualquer momento, conforme a estratégia comercial da loja. A promoção é temporária e pode ser interrompida sem aviso prévio.",
+          "Independentemente do número de caixas, o cupom CECI segue ativo na loja oficial e ajuda a economizar ainda mais. Para conferir descontos e condições vigentes, veja a página do cupom, que é mantida atualizada."
         ],
         "links": [
           {
@@ -33714,7 +33715,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é a promoção",
         "paragraphs": [
-          "A loja oficial da NESCAFÉ Dolce Gusto lançou uma promoção de volume para quem compra em quantidade: ao adicionar 55 caixas de cápsulas ORIGINAL ao carrinho, o cliente ganha uma máquina Mini Me sem custo adicional. É uma oferta voltada para quem já consome com frequência e quer garantir estoque de cápsulas com um bônus concreto. A promoção está disponível a partir de 16h00 do dia 30/06/2026 e pode ser encerrada sem aviso prévio, conforme estoque.",
+          "A loja oficial da NESCAFÉ Dolce Gusto oferece uma promoção de volume para quem compra em quantidade: ao adicionar o número de caixas de cápsulas ORIGINAL exigido (que varia conforme a semana), o cliente ganha uma máquina Mini Me sem custo adicional. É uma oferta voltada para quem já consome com frequência e quer garantir estoque de cápsulas com um bônus concreto. No exemplo que documentamos aqui, o gatilho estava em 55 caixas — mas fique atento ao número vigente no seu dia.",
           "A máquina Mini Me é um dos modelos mais compactos da linha, com pressão de 15 bar e reservatório de aproximadamente 0,8 litro. Por ser gratuita nesta promoção, ela funciona como um bônus real para o consumidor que já planejava comprar cápsulas em volume — seja para uso próprio, para presentear ou para um segundo ponto da casa (escritório, quarto de hóspedes)."
         ],
         "bullets": []
@@ -33737,23 +33738,23 @@ export const reviewsData: unknown[] = [
         "heading": "Como usar o cupom CECI na promoção",
         "paragraphs": [
           "O cupom CECI (5% OFF) pode ajudar a reduzir o valor total quando estiver elegível no carrinho. Como as regras de promoções podem mudar, aplique o código antes de finalizar e confirme se o desconto aparece no resumo do pedido.",
-          "O desconto de 5% sobre um valor elevado de 55 caixas representa uma economia adicional significativa. Por exemplo, considerando um preço médio de R$ 25 por caixa, o valor total seria aproximadamente R$ 1.375. Com o cupom CECI, a economia é de cerca de R$ 68,75 — além da máquina Mini Me, que custaria entre R$ 400 e R$ 900 em condições normais de compra."
+          "O desconto de 5% sobre um valor elevado de cápsulas representa uma economia adicional significativa. No exemplo abaixo usamos 55 caixas como cálculo, mas ajuste para o número vigente no seu dia. Considerando um preço médio de R$ 25 por caixa e 55 unidades, o valor total seria aproximadamente R$ 1.375. Com o cupom CECI, a economia é de cerca de R$ 68,75 — além da máquina Mini Me, que custaria entre R$ 400 e R$ 900 em condições normais de compra."
         ],
         "bullets": []
       },
       {
         "heading": "Vale a pena?",
         "paragraphs": [
-          "A conta é simples: se você já consome cápsulas Dolce Gusto com frequência (família grande, escritório ou consumo diário intenso), comprar 55 caixas de uma vez garante estoque para meses e transforma a Mini Me em um bônus real. A validade das cápsulas é longa, e o estoque pode ser armazenado em local seco e arejado sem perder qualidade.",
-          "Se o consumo é esporádico (uma ou duas xícaras por semana), 55 caixas podem demorar anos para acabar, e o investimento inicial pode não fazer sentido. Neste caso, a recomendação é manter o cupom CECI para compras menores e acompanhar outras promoções do site que tenham menor volume mínimo.",
-          "A decisão final depende do perfil de consumo e da disponibilidade de estoque da promoção. Como a oferta pode ser encerrada sem aviso prévio, quem tem interesse deve agir dentro do prazo de disponibilidade."
+          "A conta é simples: se você já consome cápsulas Dolce Gusto com frequência (família grande, escritório ou consumo diário intenso), comprar em volume garante estoque para meses e transforma a Mini Me em um bônus real. A validade das cápsulas é longa, e o estoque pode ser armazenado em local seco e arejado sem perder qualidade.",
+          "Se o consumo é esporádico (uma ou duas xícaras por semana), o número mínimo de caixas pode demorar anos para acabar, e o investimento inicial pode não fazer sentido. Neste caso, a recomendação é manter o cupom CECI para compras menores e acompanhar outras promoções do site que tenham menor volume mínimo.",
+          "A decisão final depende do perfil de consumo e da disponibilidade de estoque da promoção. Como a oferta pode ser encerrada sem aviso prévio, quem tem interesse deve agir dentro do prazo de disponibilidade e consultar o número exato de caixas exigido no dia."
         ],
         "bullets": [
-          "Consumo frequente: 55 caixas são viáveis e a Mini Me é um bônus valioso.",
-          "Consumo esporádico: volume pode ser excessivo; avalie antes de comprar.",
+          "Consumo frequente: o volume mínimo é viável e a Mini Me é um bônus valioso.",
+          "Consumo esporádico: verifique se o número de caixas faz sentido para seu ritmo.",
           "Sempre confirme as condições no site oficial antes de finalizar o pedido."
         ],
-        "emphasis": "Aqui em casa, pelo nosso ritmo de consumo, 55 caixas durariam em torno de 4 a 5 meses. Para quem consome diariamente, o estoque faz sentido e garante a máquina grátis.",
+        "emphasis": "Aqui em casa, pelo nosso ritmo de consumo, o número de caixas da promoção (ex.: 55) duraria em torno de 4 a 5 meses. Para quem consome diariamente, o estoque faz sentido e garante a máquina grátis.",
         "image": "/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp",
         "imageAlt": "Cecília Mauad consumindo café em casa",
         "imageFit": "portrait"
@@ -33761,13 +33762,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Alerta de validade",
         "paragraphs": [
-          "Este é um artigo de oportunidade. Promoções têm prazo limitado e podem ser encerradas sem aviso prévio. A oferta descrita está disponível a partir de 16h00 do dia 30/06/2026, mas não há garantia de duração. Recomenda-se verificar a disponibilidade da promoção no site oficial antes de qualquer compra. Quando a promoção encerrar, este artigo será arquivado como referência histórica."
+          "Este artigo explica uma promoção recorrente, mas não é uma garantia de continuidade. A loja oficial mantém a oferta ativa frequentemente, porém o número de caixas exigido muda regularmente, e a promoção pode ser encerrada ou modificada sem aviso prévio. Recomenda-se verificar a disponibilidade e o número exato de caixas no site oficial antes de qualquer compra. Quando a promoção encerrar de forma definitiva, este artigo será arquivado como referência histórica."
         ],
         "bullets": []
       }
     ],
     "cta": {
-      "text": "Aproveite a promoção de 55 caixas + Mini Me grátis e ainda economize 5% com o cupom CECI.",
+      "text": "Aproveite a promoção de cápsulas + Mini Me grátis e ainda economize 5% com o cupom CECI. Verifique o número de caixas exigido hoje.",
       "label": "Ir para a loja oficial",
       "url": "https://www.nescafe-dolcegusto.com.br/sabores"
     },

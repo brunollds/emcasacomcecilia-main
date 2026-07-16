@@ -63,7 +63,7 @@ Os artigos abaixo contêm referências ao mês/ano e precisam de atualização m
 | Slug | Linhas aproximadas | Campos a verificar |
 |---|---|---|
 | `cupom-ceci-nescafe-dolce-gusto-como-usar` | ~21142 | `title`, `metaDescription`, textos com `JUNHO 2026`/`JULHO 2026` |
-| `promocao-dolce-gusto-55-caixas-mini-me-gratis` | ~22133 | regras e textos da promoção, se a oferta mudar |
+| `promocao-dolce-gusto-caixas-mini-me-gratis` | ~22100 | regras e textos da promoção, se a oferta mudar |
 
 #### I Wanna Sleep
 

@@ -5,7 +5,12 @@ const nextConfig = {
     return [
       {
         source: '/reviews/promocao-dolce-gusto-60-caixas-mini-me-gratis',
-        destination: '/reviews/promocao-dolce-gusto-55-caixas-mini-me-gratis',
+        destination: '/reviews/promocao-dolce-gusto-caixas-mini-me-gratis',
+        permanent: true,
+      },
+      {
+        source: '/reviews/promocao-dolce-gusto-55-caixas-mini-me-gratis',
+        destination: '/reviews/promocao-dolce-gusto-caixas-mini-me-gratis',
         permanent: true,
       },
     ];
