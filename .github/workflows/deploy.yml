@@ -228,15 +228,24 @@ jobs:
           fi
 
           sleep 300
-          workers=$(ssh -i ~/.ssh/id_ed25519 -p "$PORT" -o StrictHostKeyChecking=yes "$HOST" \
+          # Conta workers do emcasa NO HOST e retorna só o número. if/then/fi (não '[ ] && echo')
+          # + exit 0: o script remoto nunca sai nao-zero, senao o set -e local mata o step antes de medir.
+          worker_count=$(ssh -i ~/.ssh/id_ed25519 -p "$PORT" -o StrictHostKeyChecking=yes "$HOST" \
             "APP_DIR='$APP_DIR' bash -s" <<'REMOTE'
-          for pid in $(pgrep -u u150185510 -f next-server || true); do
-            [ "$(readlink /proc/$pid/cwd 2>/dev/null || true)" = "$APP_DIR" ] && echo "$pid"
+          count=0
+          for pid in $(pgrep -u u150185510 -f next-server 2>/dev/null || true); do
+            if [ "$(readlink /proc/$pid/cwd 2>/dev/null || true)" = "$APP_DIR" ]; then
+              count=$((count + 1))
+            fi
           done
+          printf '%s\n' "$count"
+          exit 0
           REMOTE
           )
-          worker_count=$(printf '%s\n' "$workers" | sed '/^$/d' | wc -l | tr -d ' ')
-          [ "$worker_count" -le 3 ] || { echo "Worker pile detected: $worker_count" >&2; exit 1; }
+          worker_count=$(printf '%s' "$worker_count" | tr -dc '0-9')
+          [ -n "$worker_count" ] || worker_count=0
+          # Limite <=6: o apex roda ~2-4 workers normalmente (LSNODE escala com trafego); pilha real seria dezenas.
+          [ "$worker_count" -le 6 ] || { echo "Worker pile detected: $worker_count" >&2; exit 1; }
 
           {
             echo "release=$RELEASE_ID"
