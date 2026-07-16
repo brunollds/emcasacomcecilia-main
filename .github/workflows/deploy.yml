@@ -7,6 +7,14 @@ on:
         description: 'Digite DEPLOY para confirmar a janela de manutencao aprovada.'
         required: true
         type: string
+      auto_rollback:
+        description: 'Restaurar automaticamente o release anterior se o health check do novo release falhar?'
+        required: true
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
 
 permissions:
   contents: read
@@ -27,8 +35,11 @@ jobs:
       ROOT: /home/u150185510/domains/emcasacomcecilia.com
       APP_DIR: /home/u150185510/domains/emcasacomcecilia.com/nodejs
       RELEASE_ID: ${{ github.sha }}
+      RETAIN_RELEASES: '3'
+      HOSTINGER_ACCOUNT: u150185510
       SSH_KEY: ${{ secrets.HOSTINGER_SSH_KEY }}
       KNOWN_HOSTS: ${{ secrets.HOSTINGER_KNOWN_HOSTS }}
+      HOSTINGER_API_TOKEN: ${{ secrets.HOSTINGER_API_TOKEN }}
 
     steps:
       - uses: actions/checkout@v4
@@ -165,13 +176,29 @@ jobs:
             exit 1
           fi
           REMOTE
+          echo 'SWAP_COMPLETED=1' >> "$GITHUB_ENV"
+
+      - name: Purge Hostinger website cache
+        shell: bash
+        run: |
+          set -euo pipefail
+          [ -n "$HOSTINGER_API_TOKEN" ] || { echo 'HOSTINGER_API_TOKEN is missing' >&2; exit 1; }
+          response=$(mktemp)
+          status=$(curl --silent --show-error --output "$response" --write-out '%{http_code}' \
+            --request DELETE \
+            --header "Authorization: Bearer $HOSTINGER_API_TOKEN" \
+            --header 'Accept: application/json' \
+            "https://developers.hostinger.com/api/hosting/v1/accounts/$HOSTINGER_ACCOUNT/websites/$DOMAIN/cache/clear")
+          case "$status" in
+            2*) echo 'Hostinger cache purge accepted' ;;
+            *) cat "$response" >&2; echo "Cache purge failed with HTTP $status" >&2; exit 1 ;;
+          esac
 
       - name: Health check the new release
         shell: bash
         run: |
           set -euo pipefail
           base="https://${DOMAIN}"
-          cache_buster="release=${RELEASE_ID}"
           body=$(mktemp)
           headers=$(mktemp)
           ready=0
@@ -179,7 +206,7 @@ jobs:
           for attempt in $(seq 1 48); do
             status=$(curl -4 -sS --connect-timeout 10 --max-time 20 \
               -H 'Cache-Control: no-cache' -D "$headers" -o "$body" -w '%{http_code}' \
-              "$base/?$cache_buster" || true)
+              "$base/" || true)
             if [ "$status" = '200' ] && grep -Fq "$BUILD_ID" "$body"; then
               ready=1
               break
@@ -190,18 +217,19 @@ jobs:
           [ "$ready" = '1' ] || { echo 'New BUILD_ID was not served within 240 seconds' >&2; exit 1; }
 
           curl -4 --fail --silent --show-error -H 'Cache-Control: no-cache' \
-            "$base/_next/static/$BUILD_ID/_buildManifest.js?$cache_buster" >/dev/null
+            "$base/_next/static/$BUILD_ID/_buildManifest.js" >/dev/null
           grep -Eq '/_next/static/.+\.(css|js)' "$body"
           curl -4 --fail --silent --show-error \
             "$base/_next/image?url=%2Fimages%2Flogos%2Flogo-em-casa-com-cecilia.png&w=256&q=75" >/dev/null
 
           for route in /receitas /reviews /sobre /contato /sitemap.xml /llms.txt; do
             status=$(curl -4 -sS --connect-timeout 10 --max-time 20 -o /dev/null -w '%{http_code}' \
-              -H 'Cache-Control: no-cache' "$base$route?$cache_buster" || true)
+              -H 'Cache-Control: no-cache' "$base$route" || true)
             [ "$status" = '200' ] || { echo "$route returned HTTP $status" >&2; exit 1; }
           done
-          grep -Fq 'Últimos vídeos' "$body"
-          grep -Eq 'ytimg\.com/vi/' "$body"
+          if ! grep -Fq 'Últimos vídeos' "$body" || ! grep -Eq 'ytimg\.com/vi/' "$body"; then
+            echo '::warning::Release is healthy, but YouTube content is not populated. Check API key or quota.'
+          fi
 
           sleep 300
           workers=$(ssh -i ~/.ssh/id_ed25519 -p "$PORT" -o StrictHostKeyChecking=yes "$HOST" \
@@ -221,8 +249,77 @@ jobs:
             grep -iE '^(cache-control|etag|age|x-nextjs-cache):' "$headers" || true
           } >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Rollback procedure if health checks fail
-        if: failure()
+      - name: Roll back the post-swap release when requested
+        if: failure() && inputs.auto_rollback == 'true' && env.SWAP_COMPLETED == '1'
+        shell: bash
+        run: |
+          set -euo pipefail
+          ssh -i ~/.ssh/id_ed25519 -p "$PORT" -o StrictHostKeyChecking=yes "$HOST" \
+            "ROOT='$ROOT' APP_DIR='$APP_DIR' RELEASE_ID='$RELEASE_ID' bash -s" <<'REMOTE'
+          set -euo pipefail
+          previous="$ROOT/nodejs.prev-$RELEASE_ID"
+          bad="$ROOT/nodejs.bad-$RELEASE_ID"
+          [ -d "$previous" ] || { echo "No previous release found: $previous" >&2; exit 1; }
+
+          for pid in $(pgrep -u u150185510 -f next-server || true); do
+            [ "$(readlink /proc/$pid/cwd 2>/dev/null || true)" = "$APP_DIR" ] && kill -TERM "$pid"
+          done
+          sleep 3
+          for pid in $(pgrep -u u150185510 -f next-server || true); do
+            [ "$(readlink /proc/$pid/cwd 2>/dev/null || true)" = "$APP_DIR" ] && kill -KILL "$pid"
+          done
+          for pid in $(pgrep -u u150185510 -f next-server || true); do
+            [ "$(readlink /proc/$pid/cwd 2>/dev/null || true)" = "$APP_DIR" ] && { echo "Worker $pid survived rollback stop" >&2; exit 1; }
+          done
+
+          [ ! -e "$bad" ] || { echo "Rollback target already exists: $bad" >&2; exit 1; }
+          mv "$APP_DIR" "$bad"
+          mv "$previous" "$APP_DIR"
+          mkdir -p "$APP_DIR/tmp"
+          touch "$APP_DIR/tmp/restart.txt"
+          REMOTE
+          restored=0
+          for attempt in $(seq 1 48); do
+            status=$(curl -4 -sS --connect-timeout 10 --max-time 20 -o /dev/null -w '%{http_code}' \
+              -H 'Cache-Control: no-cache' "https://$DOMAIN/" || true)
+            if [ "$status" = '200' ]; then
+              restored=1
+              break
+            fi
+            sleep 5
+          done
+          [ "$restored" = '1' ] || { echo 'Rollback completed on disk, but the previous release did not return HTTP 200' >&2; exit 1; }
+          echo 'Auto rollback completed; the previous release was restarted.' >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Retain the latest release backups
+        if: success()
+        shell: bash
+        run: |
+          set -euo pipefail
+          ssh -i ~/.ssh/id_ed25519 -p "$PORT" -o StrictHostKeyChecking=yes "$HOST" \
+            "ROOT='$ROOT' RETAIN_RELEASES='$RETAIN_RELEASES' bash -s" <<'REMOTE'
+          set -euo pipefail
+          cleanup_directories() {
+            local parent="$1" pattern="$2"
+            mapfile -t entries < <(find "$parent" -maxdepth 1 -mindepth 1 -type d -name "$pattern" -printf '%T@ %p\n' | sort -nr | cut -d' ' -f2-)
+            for ((i=RETAIN_RELEASES; i<${#entries[@]}; i++)); do
+              case "${entries[$i]}" in "$ROOT"/nodejs.prev-*|"$ROOT"/nodejs.bad-*) rm -rf -- "${entries[$i]}" ;; *) exit 1 ;; esac
+            done
+          }
+          cleanup_archives() {
+            mapfile -t entries < <(find "$ROOT/releases" -maxdepth 1 -type f -name '????????????????????????????????????????.tar.gz' -printf '%T@ %p\n' | sort -nr | cut -d' ' -f2-)
+            for ((i=RETAIN_RELEASES; i<${#entries[@]}; i++)); do
+              case "${entries[$i]}" in "$ROOT"/releases/*.tar.gz) rm -f -- "${entries[$i]}" ;; *) exit 1 ;; esac
+            done
+          }
+          cleanup_directories "$ROOT" 'nodejs.prev-*'
+          cleanup_directories "$ROOT" 'nodejs.bad-*'
+          cleanup_archives
+          REMOTE
+          echo "Retained the latest $RETAIN_RELEASES previous/bad releases and archives." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Rollback procedure when automatic rollback is disabled
+        if: failure() && (inputs.auto_rollback != 'true' || env.SWAP_COMPLETED != '1')
         run: |
           cat <<'EOF' >> "$GITHUB_STEP_SUMMARY"
           ## Manual rollback (do not run automatically)
