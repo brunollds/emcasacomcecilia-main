@@ -109,7 +109,12 @@ jobs:
           scp -i ~/.ssh/id_ed25519 -P "$PORT" -o StrictHostKeyChecking=yes \
             "emcasa-release-${RELEASE_ID}.tar.gz" "$HOST:$ROOT/releases/${RELEASE_ID}.tar.gz"
 
-      - name: Stop old workers, validate staging, and swap release
+      # Swap PRIMEIRO, matar workers antigos DEPOIS: matar antes do swap perde a corrida com o
+      # LSNODE, que respawna um worker novo a cada request de trafego real ("Refusing swap: old
+      # workers remain", run 29529588169). Pos-swap a corrida desaparece: os workers antigos ficam
+      # com cwd em nodejs.prev-<sha> (identificaveis com precisao) e qualquer respawn novo ja nasce
+      # no diretorio novo. Bonus: os antigos servem durante o swap (menos downtime).
+      - name: Validate staging and swap release
         shell: bash
         run: |
           set -euo pipefail
@@ -137,20 +142,6 @@ jobs:
             cp -p "$ROOT/public_html/.htaccess" "$ROOT/backups/emcasa-htaccess-$RELEASE_ID"
           fi
 
-          app_workers() {
-            for pid in $(pgrep -u u150185510 -f next-server || true); do
-              cwd=$(readlink "/proc/$pid/cwd" 2>/dev/null || true)
-              [ "$cwd" = "$APP_DIR" ] && printf '%s\n' "$pid"
-            done
-          }
-
-          for pid in $(app_workers); do kill -TERM "$pid"; done
-          sleep 3
-          for pid in $(app_workers); do kill -KILL "$pid"; done
-          sleep 1
-          survivors=$(app_workers || true)
-          [ -z "$survivors" ] || { echo "Refusing swap: old workers remain: $survivors" >&2; exit 1; }
-
           if ! mv "$APP_DIR" "$previous"; then
             echo 'Could not preserve current release' >&2
             exit 1
@@ -173,6 +164,41 @@ jobs:
           fi
           REMOTE
           echo 'SWAP_COMPLETED=1' >> "$GITHUB_ENV"
+
+      - name: Retire workers of the previous release
+        shell: bash
+        run: |
+          set -euo pipefail
+          ssh -i ~/.ssh/id_ed25519 -p "$PORT" -o StrictHostKeyChecking=yes "$HOST" \
+            "ROOT='$ROOT' RELEASE_ID='$RELEASE_ID' bash -s" <<'REMOTE'
+          set -euo pipefail
+          previous="$ROOT/nodejs.prev-$RELEASE_ID"
+
+          old_workers() {
+            for pid in $(pgrep -u u150185510 -f next-server 2>/dev/null || true); do
+              if [ "$(readlink "/proc/$pid/cwd" 2>/dev/null || true)" = "$previous" ]; then
+                printf '%s\n' "$pid"
+              fi
+            done
+            exit 0
+          }
+
+          # Ate 5 rodadas TERM->KILL: pos-swap nenhum worker NOVO nasce no dir antigo,
+          # entao o conjunto so encolhe — as rodadas cobrem apenas lentidao de morte.
+          # ($(old_workers) roda em subshell; o exit 0 interno sai so do subshell)
+          for round in 1 2 3 4 5; do
+            pids=$(old_workers)
+            [ -z "$pids" ] && break
+            echo "round $round: retiring $pids"
+            for pid in $pids; do kill -TERM "$pid" 2>/dev/null || true; done
+            sleep 3
+            for pid in $pids; do kill -KILL "$pid" 2>/dev/null || true; done
+            sleep 2
+          done
+          pids=$(old_workers)
+          [ -z "$pids" ] || { echo "Old workers still alive after retries: $pids" >&2; exit 1; }
+          echo 'Previous release workers retired.'
+          REMOTE
 
       - name: Purge Hostinger website cache
         shell: bash
