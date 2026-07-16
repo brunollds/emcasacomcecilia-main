@@ -174,23 +174,23 @@ export const COUPONS: Coupon[] = [
     shortDescription: 'cápsulas, máquinas e acessórios da loja oficial',
     longDescription:
       'Código da Cecília para economizar em compras na loja oficial Nescafé Dolce Gusto Brasil.',
-    metaTitle: 'Cupom Dolce Gusto Julho 2026: código CECI ativo na loja oficial',
+    metaTitle: 'Cupom Dolce Gusto Julho 2026: CECI — 5% OFF na Loja Oficial',
     metaDescription:
-      'Cupom Dolce Gusto verificado em julho de 2026: use o código CECI no checkout da loja oficial Nescafé Dolce Gusto e confira o desconto no resumo do pedido.',
+      'Cupom Dolce Gusto testado em julho de 2026: use CECI no checkout da loja oficial Nescafé Dolce Gusto e ganhe 5% OFF em compras a partir de R$ 100.',
     eligibleCategories:
-      'Todo o site oficial Dolce Gusto, conforme regras da campanha',
+      'Todo o site oficial Dolce Gusto, em compras a partir de R$ 100',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
-    reusable: 'Sim, conforme regras da loja',
+    reusable: 'Sim, até 3 usos por CPF',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Pode variar conforme campanha ativa da loja oficial',
-    lastVerified: '2026-07-01',
+    lastVerified: '2026-07-16',
     aboutBrand:
       'A Nescafé Dolce Gusto é uma linha de cafés e bebidas em cápsulas da Nestlé, com máquinas e sabores pensados para preparo rápido em casa. A marca combina praticidade com variedade: cafés intensos, bebidas com leite, cappuccinos, chocolates e opções geladas aparecem no catálogo da loja oficial. O cupom CECI entra como benefício para quem acompanha a Cecília e quer economizar em compras na loja oficial. Como em toda parceria comercial, a recomendação deve ser conferida no checkout: o desconto aparece antes da finalização quando a regra da campanha permite.',
     faqs: [
       {
         question: 'O cupom CECI vale para todas as cápsulas Dolce Gusto?',
         answer:
-          'O cupom vale para compras na loja oficial Dolce Gusto, conforme as regras ativas da campanha. Sempre confirme se o desconto aparece no carrinho antes de finalizar.',
+          'Sim: o CECI dá 5% OFF em todo o catálogo da loja oficial Dolce Gusto — cápsulas, máquinas e acessórios — em compras a partir de R$ 100. Confirme o desconto no resumo do carrinho antes de finalizar.',
       },
       {
         question: 'O cupom CECI funciona em máquinas Dolce Gusto?',
@@ -200,7 +200,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'Posso usar o cupom CECI mais de uma vez?',
         answer:
-          'A regra pode variar conforme campanha da loja oficial, mas o cupom foi cadastrado como benefício recorrente da Cecília. Confira as condições no carrinho.',
+          'Sim, o cupom aceita até 3 usos por CPF. Depois disso, o checkout deixa de aplicar o desconto para o mesmo cadastro.',
       },
       {
         question: 'O cupom dá frete grátis?',
@@ -271,16 +271,16 @@ export const COUPONS: Coupon[] = [
     shortDescription: 'beleza coreana, skincare, moda e lifestyle',
     longDescription:
       'CECILIA010 é um código de recompensa da YesStyle, não um cupom tradicional: ele adiciona 5% extras no campo Reward Code e pode ser usado junto com cupons promocionais ativos.',
-    metaTitle: 'Cupom YesStyle Julho 2026: código de recompensa CECILIA010',
+    metaTitle: 'Cupom YesStyle Julho 2026: CECILIA010 — 5% Extra Cumulativo',
     metaDescription:
-      'Cupom YesStyle de julho de 2026: CECILIA010 é código de recompensa — use no campo Reward Code e combine com cupons promocionais ativos em K-beauty, skincare e moda.',
+      'Cupom YesStyle testado em julho de 2026: CECILIA010 soma 5% extras no campo Reward Code e é cumulativo com cupons promocionais ativos em K-beauty, skincare e moda.',
     eligibleCategories:
       'Beleza, skincare, moda, acessórios e lifestyle, conforme regras da loja',
     validity: 'Código de recompensa ativo enquanto a parceria estiver vigente',
     reusable: 'Sim, conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política internacional da loja',
     combinable: 'Sim: deve ser usado no campo Reward Code e pode somar aos cupons ativos aplicados no campo Coupon Code',
-    lastVerified: '2026-07-02',
+    lastVerified: '2026-07-16',
     aboutBrand:
       'A YesStyle é uma loja internacional conhecida por produtos de beleza asiática, skincare, moda, acessórios e itens de lifestyle. O CECILIA010 entra como código de recompensa de influenciador para quem acompanha o Em Casa com Cecília e quer economizar no site. A diferença importante é que ele não substitui o cupom promocional da loja: deve ser aplicado no campo Reward Code para somar 5% extras aos cupons ativos inseridos no campo Coupon Code. Como regras de desconto, frete e aplicação podem variar por campanha, produto e país de entrega, confira sempre o resumo do carrinho antes de finalizar a compra.',
     faqs: [
@@ -345,15 +345,15 @@ export const COUPONS: Coupon[] = [
     shortDescription: 'produtos Nestlé Nutre, exceto Alfamino e Alfaré',
     longDescription:
       'Código da Cecília para economizar em produtos Nestlé Nutre na loja oficial, exceto Alfamino e Alfaré.',
-    metaTitle: 'Cupom Nestlé Nutre Julho 2026: código CECI ativo na loja oficial',
+    metaTitle: 'Cupom Nestlé Nutre Julho 2026: CECI — 5% OFF na Loja Oficial',
     metaDescription:
-      'Cupom Nestlé Nutre verificado em julho de 2026: use o código CECI no checkout da loja oficial. Válido para produtos Nestlé Nutre, exceto Alfamino e Alfaré.',
+      'Cupom Nestlé Nutre testado em julho de 2026: use CECI no checkout da loja oficial e ganhe 5% OFF. Válido para produtos Nestlé Nutre, exceto Alfamino e Alfaré.',
     eligibleCategories: 'Produtos Nestlé Nutre, exceto Alfamino e Alfaré',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Pode variar conforme campanha ativa da loja oficial',
-    lastVerified: '2026-07-01',
+    lastVerified: '2026-07-16',
     aboutBrand:
       'A Nestlé Nutre é uma loja oficial da Nestlé voltada a produtos de nutrição e suplementação, com opções para diferentes rotinas e necessidades alimentares. Os produtos disponíveis podem fazer parte do dia a dia de quem busca praticidade na alimentação, sempre conforme as indicações do rótulo e, quando necessário, com orientação de um profissional de saúde. O cupom CECI foi criado para quem acompanha o Em Casa com Cecília e quer economizar na loja oficial, com exceção de Alfamino e Alfaré. Como em toda parceria comercial, a recomendação é conferir o desconto aplicado no checkout antes de finalizar a compra.',
     faqs: [

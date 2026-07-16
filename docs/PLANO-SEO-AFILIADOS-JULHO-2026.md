@@ -5,11 +5,11 @@ Consolidado a partir dos dados GSC/GA4 (18/06–15/07), exploração do código 
 Status (16/07/2026): **Waves 1–5 EXECUTADAS e commitadas** (c90b67e, 7e02e8d, 06d5732, a3c2701, 864d41a) — versões conservadoras, aguardando push/deploy.
 
 Pendências que dependem do Bruno (Wave 0):
-- [ ] Teste de checkout (CECI DG, CECI Nutre, CECILIA010 YS) → depois disso, subir % nos titles e regras concretas na página /cupons/dolce-gusto, e atualizar lastVerified para a data do teste
+- [x] Teste de checkout (16/07): % confirmados nas 3 lojas → titles com %, regras R$100/3 CPF na página DG e lastVerified 2026-07-16 aplicados
 - [ ] Confirmar se a promo 55 caixas Mini Me ainda está no ar (o aviso publicado é neutro: "ainda está ativa?")
-- [ ] Marcar coupon_copy e coupon_store_click como key events no GA4 (Admin → Events)
+- [ ] Marcar coupon_copy e coupon_store_click como key events no GA4 (analytics.google.com → Admin → Data display → Events; aparecem ~24h após os primeiros disparos pós-deploy)
 - [ ] Exports: GSC do subdomínio damie, GSC do site principal, GA4 aquisição do subdomínio
-- [ ] git push + build na Hostinger (deploy)
+- [ ] git push + build na Hostinger (deploy — será feito via Codex)
 
 ---
 
