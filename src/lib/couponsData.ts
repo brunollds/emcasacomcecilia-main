@@ -54,6 +54,11 @@ export interface Coupon {
     scope: string;
     note: string;
   };
+  tiers?: {
+    code: string;
+    discount: string;
+    minPurchase: string;
+  }[];
 }
 
 export const COUPONS: Coupon[] = [
@@ -478,6 +483,135 @@ export const COUPONS: Coupon[] = [
     },
     status: 'ativo',
     featured: true,
+  },
+  {
+    slug: 'magalu',
+    brand: 'Magalu',
+    brandUrl: 'https://www.magazinevoce.com.br/magazineemcasacomcecilia/',
+    brandIcon: 'M',
+    brandLogo: '/images/about/partners/magalu.webp',
+    brandLogoAlt: 'Marca Magalu (Magazine Luiza)',
+    brandColor: '#0086FF',
+    code: '100EMCASACOMCECILIA',
+    discount: 'R$ 10 a R$ 100 OFF',
+    discountNumber: 100,
+    codeInstructions: [
+      'Estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília: acesse a loja pelo navegador do celular ou computador (não funcionam no app do Magalu).',
+      'Entre com a sua conta Magalu de sempre — o login é o mesmo do site e do app.',
+      'Monte o carrinho com produtos vendidos e entregues pelo Magalu até atingir o valor mínimo da faixa desejada.',
+      'No checkout, aplique o código correspondente à sua faixa (ex.: 50EMCASACOMCECILIA para R$ 50 OFF em compras a partir de R$ 2.499,90).',
+      'Confira se o desconto apareceu no resumo do pedido antes de finalizar.',
+    ],
+    category: 'Eletrônicos, eletrodomésticos, móveis e mais',
+    shortDescription: 'produtos vendidos e entregues pelo Magalu na loja Magazine Você da Cecília',
+    longDescription:
+      'Códigos exclusivos da parceria da Cecília com o Magalu, em 10 faixas de R$ 10 a R$ 100 OFF conforme o valor do carrinho. Válidos apenas na loja Magazine Você da Cecília, em produtos vendidos e entregues pelo Magalu.',
+    metaTitle: 'Cupom Magalu Julho 2026: 100EMCASACOMCECILIA até R$ 100 OFF',
+    metaDescription:
+      'Cupom Magalu em julho 2026: use 100EMCASACOMCECILIA e ganhe até R$ 100 OFF na loja Magazine Você da Cecília. Válido só no navegador — veja todas as faixas.',
+    eligibleCategories:
+      'Produtos vendidos e entregues pelo Magalu, conforme a faixa de valor mínimo de cada cupom',
+    validity: 'Cupons ativos enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja Magazine Você',
+    shipping: 'Calculado separadamente, conforme política do Magalu',
+    combinable:
+      'Em regra, cupons não acumulam com outras promoções; confirme no checkout',
+    lastVerified: '2026-07-17',
+    aboutBrand:
+      'A loja Magazine Você da Cecília faz parte do programa oficial Influenciador Magalu (antigo Magazine Você), mantido pela Magazine Luiza S/A (CNPJ 47.960.950/0001-21). O domínio magazinevoce.com.br pertence à própria Magalu desde 2011, o que significa que quem vende, cobra, entrega e faz o pós-venda é o Magalu — e o login usado na loja é a conta Magalu que você já tem no site e no app. Os códigos desta campanha são criados pela Cecília para a própria loja: estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília — não no app do Magalu nem no site principal. Comprar por essa loja pode gerar comissão para o Em Casa com Cecília, sem custo extra para você: o preço e o desconto exibidos no checkout são exatamente os da sua faixa.',
+    faqs: [
+      {
+        question: 'Os cupons funcionam no app do Magalu?',
+        answer:
+          'Não. Estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília (celular ou computador). No app do Magalu, o código não é aplicado.',
+      },
+      {
+        question: 'Comprar na loja Magazine Você da Cecília é seguro? É golpe?',
+        answer:
+          'É seguro. A loja faz parte do programa oficial Influenciador Magalu, da Magazine Luiza S/A, e o domínio magazinevoce.com.br pertence à própria Magalu desde 2011. Seus dados de pagamento ficam apenas com o Magalu — nem a Cecília nem o site têm acesso a eles.',
+      },
+      {
+        question: 'Qual código eu devo usar?',
+        answer:
+          'Depende do valor total do seu carrinho. Consulte a tabela de faixas nesta página: cada código exige uma compra mínima (ex.: 50EMCASACOMCECILIA para R$ 50 OFF em compras a partir de R$ 2.499,90). Use sempre o código da maior faixa que o seu carrinho alcançar.',
+      },
+      {
+        question: 'Os cupons funcionam em qualquer produto?',
+        answer:
+          'Não. Estes códigos da Cecília valem apenas para produtos vendidos e entregues pelo Magalu, na loja Magazine Você da Cecília. Itens de lojistas parceiros (marketplace) não entram na regra — confira no checkout se o desconto foi aplicado.',
+      },
+      {
+        question: 'Os cupons são cumulativos com outras promoções?',
+        answer:
+          'Em regra, estes códigos da Cecília não acumulam com outras promoções ou códigos na loja Magazine Você da Cecília. O valor final exibido no checkout é sempre a referência.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'Não. O desconto é aplicado apenas no valor dos produtos. O frete é calculado separadamente, conforme a política do Magalu para o seu CEP e os itens do pedido.',
+      },
+      {
+        question: 'Preciso criar um cadastro novo para comprar na loja?',
+        answer:
+          'Não. Você entra com a sua conta Magalu de sempre — o mesmo login do site e do app do Magalu. Não é necessário criar um cadastro novo.',
+      },
+      {
+        question: 'Existe cupom Magalu de R$ 100 de desconto?',
+        answer:
+          'Sim: o código 100EMCASACOMCECILIA dá R$ 100 OFF em compras a partir de R$ 4.999,90, válido para produtos vendidos e entregues pelo Magalu na loja Magazine Você da Cecília, pelo navegador. É a maior faixa desta campanha.',
+      },
+      {
+        question: 'O cupom funciona para primeira compra?',
+        answer:
+          'Não há exigência de primeira compra: estes códigos da Cecília funcionam em qualquer pedido que atinja o valor mínimo da faixa escolhida, seja a sua primeira compra na loja ou não.',
+      },
+      {
+        question: 'Cupom Magalu hoje: está funcionando?',
+        answer:
+          'A última verificação dos 10 códigos foi em 17 de julho de 2026, com teste real de checkout (código 50EMCASACOMCECILIA aplicado com sucesso em um carrinho de R$ 2.999). Todos estavam ativos. Esta página é atualizada sempre que algo muda na campanha — se um código deixar de funcionar, o aviso aparece aqui.',
+      },
+      {
+        question: 'O cupom funciona no celular?',
+        answer:
+          'Sim, desde que a compra seja feita pelo navegador do celular (Chrome, Safari ou outro), na loja Magazine Você da Cecília. O que não funciona é o aplicativo do Magalu — o código só é aceito na loja, pelo navegador.',
+      },
+      {
+        question: 'Cupom Magazine Luiza e cupom Magalu são a mesma coisa?',
+        answer:
+          'Sim, Magalu é o nome curto do Magazine Luiza. Nesta campanha, os códigos da Cecília funcionam exclusivamente na loja Magazine Você da Cecília, que é operada pelo próprio Magazine Luiza dentro do programa Influenciador Magalu.',
+      },
+      {
+        question: 'Comprar com o cupom gera comissão para a Cecília?',
+        answer:
+          'Sim, e vale ser transparente: compras feitas na loja Magazine Você da Cecília geram uma comissão paga pelo Magalu, sem custo extra para você. E quando você usa qualquer um destes cupons, o valor do desconto é abatido da comissão que a Cecília receberia pelo pedido — ou seja, o desconto sai da comissão dela, não do seu bolso.',
+      },
+    ],
+    status: 'ativo',
+    featured: true,
+    relatedContent: [
+      {
+        title: 'Como usar o cupom Magalu da Cecília',
+        url: '/reviews/cupom-magalu-em-casa-com-cecilia',
+        type: 'review',
+        publishedAt: '2026-07-17',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'na loja Magazine Você da Cecília',
+      note: 'Estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília, em produtos vendidos e entregues pelo Magalu — não funcionam no app do Magalu',
+    },
+    tiers: [
+      { code: '10EMCASACOMCECILIA', discount: 'R$ 10 OFF', minPurchase: 'R$ 499,90' },
+      { code: '20EMCASACOMCECILIA', discount: 'R$ 20 OFF', minPurchase: 'R$ 999,90' },
+      { code: '30EMCASACOMCECILIA', discount: 'R$ 30 OFF', minPurchase: 'R$ 1.499,90' },
+      { code: '40EMCASACOMCECILIA', discount: 'R$ 40 OFF', minPurchase: 'R$ 1.999,90' },
+      { code: '50EMCASACOMCECILIA', discount: 'R$ 50 OFF', minPurchase: 'R$ 2.499,90' },
+      { code: '60EMCASACOMCECILIA', discount: 'R$ 60 OFF', minPurchase: 'R$ 2.999,90' },
+      { code: '70EMCASACOMCECILIA', discount: 'R$ 70 OFF', minPurchase: 'R$ 3.499,90' },
+      { code: '80EMCASACOMCECILIA', discount: 'R$ 80 OFF', minPurchase: 'R$ 3.999,90' },
+      { code: '90EMCASACOMCECILIA', discount: 'R$ 90 OFF', minPurchase: 'R$ 4.499,90' },
+      { code: '100EMCASACOMCECILIA', discount: 'R$ 100 OFF', minPurchase: 'R$ 4.999,90' },
+    ],
   },
   {
     slug: 'kopenhagen',

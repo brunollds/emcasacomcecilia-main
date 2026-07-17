@@ -6,6 +6,7 @@ import { CopyButton, CouponPillCard, FAQAccordion, CouponStoreLink } from '@/com
 import { CouponBottomBar } from '@/components/CouponBottomBar';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 import {
+  COUPONS,
   getAllActiveCouponSlugs,
   getCouponBySlug,
   getOtherActiveCoupons,
@@ -23,7 +24,11 @@ type CouponBrandPageProps = {
 
 export async function generateMetadata({ params }: CouponBrandPageProps): Promise<Metadata> {
   const { brand } = await params;
-  const coupon = getCouponBySlug(brand);
+  const coupon =
+    getCouponBySlug(brand) ??
+    (process.env.NODE_ENV === 'development'
+      ? COUPONS.find((item) => item.slug === brand)
+      : undefined);
   if (!coupon) return {};
   const socialImage = coupon.socialImage || coupon.brandLogo || '/images/logos/logo-em-casa-com-cecilia.png';
   const socialImageAlt = coupon.socialImageAlt || coupon.brandLogoAlt || 'Em Casa com Cecília';
@@ -151,7 +156,11 @@ function getJsonLd(coupon: NonNullable<ReturnType<typeof getCouponBySlug>>) {
 
 export default async function CouponBrandPage({ params }: CouponBrandPageProps) {
   const { brand } = await params;
-  const coupon = getCouponBySlug(brand);
+  const coupon =
+    getCouponBySlug(brand) ??
+    (process.env.NODE_ENV === 'development'
+      ? COUPONS.find((item) => item.slug === brand)
+      : undefined);
   if (!coupon) notFound();
 
   const otherCoupons = getOtherActiveCoupons(coupon.slug);
@@ -290,9 +299,15 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
                 </div>
               </div>
 
-              <p className="mt-6 font-mono text-4xl font-black tracking-[0.08em] md:text-6xl">
-                {coupon.code}
-              </p>
+              {coupon.tiers && coupon.tiers.length > 0 ? (
+                <p className="mt-6 font-heading text-4xl font-black leading-tight tracking-[-0.02em] md:text-6xl">
+                  {coupon.discount}
+                </p>
+              ) : (
+                <p className="mt-6 font-mono text-4xl font-black tracking-[0.08em] md:text-6xl">
+                  {coupon.code}
+                </p>
+              )}
               <h2 className="mt-4 font-heading text-2xl font-black leading-tight">
                 {coupon.shortDescription}
               </h2>
@@ -301,11 +316,20 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
               </p>
 
               <div className="mt-7 flex flex-col gap-3 sm:flex-row">
-                <CopyButton
-                  code={coupon.code}
-                  label={`Copiar e ${offerAction}`}
-                  brand={coupon.brand}
-                />
+                {coupon.tiers && coupon.tiers.length > 0 ? (
+                  <a
+                    href="#faixas-de-desconto"
+                    className="inline-flex items-center justify-center gap-2 rounded-lg bg-white px-4 py-2.5 text-sm font-semibold text-[#862f0e] transition-colors hover:bg-white/90 focus:outline-none focus-visible:ring-2 focus-visible:ring-white"
+                  >
+                    Ver as faixas e copiar o código
+                  </a>
+                ) : (
+                  <CopyButton
+                    code={coupon.code}
+                    label={`Copiar e ${offerAction}`}
+                    brand={coupon.brand}
+                  />
+                )}
                 <CouponStoreLink
                   href={coupon.brandUrl}
                   label="Ir para a loja"
@@ -322,7 +346,80 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
 
       <article className="bg-white px-4 py-14">
         <div className="mx-auto max-w-3xl">
-          <h2 className="font-heading text-2xl font-black text-[#0f1419]">
+          {coupon.tiers && coupon.tiers.length > 0 && (
+            <>
+              <h2 id="faixas-de-desconto" className="scroll-mt-24 font-heading text-2xl font-black text-[#0f1419]">
+                Faixas de desconto do {coupon.brand}
+              </h2>
+              <div className="mt-4 space-y-3">
+                <p className="rounded-2xl border border-[#ff6b35]/25 bg-[#fff7ed] px-4 py-3 text-sm leading-relaxed text-[#7c2d12]">
+                  <strong>Atenção:</strong> estes códigos da Cecília funcionam{' '}
+                  <strong>somente pelo navegador</strong>, na loja{' '}
+                  <a
+                    href={coupon.brandUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="font-semibold underline underline-offset-2"
+                  >
+                    {coupon.brandUrl.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, '')}
+                  </a>{' '}
+                  — não funcionam no app do Magalu nem em magazineluiza.com.br.
+                </p>
+                <p className="rounded-2xl border border-black/8 bg-white px-4 py-3 text-sm leading-relaxed text-[#0f1419]/78">
+                  <strong>Por que o endereço é diferente?</strong> O Magazine Você é a loja de
+                  influenciadores do próprio Magalu: mesmo catálogo, mesmos preços e a mesma conta.
+                  Você entra com o login Magalu de sempre, e quem vende, cobra, entrega e cuida do
+                  pós-venda é o Magazine Luiza. O endereço diferente não é golpe — é o que ativa os
+                  cupons exclusivos da Cecília.
+                </p>
+              </div>
+              <p className="mt-4 text-base leading-relaxed text-[#0f1419]/78">
+                Escolha o código conforme o valor total do seu carrinho — quanto maior a faixa
+                alcançada, maior o desconto em reais. Clique no código para copiá-lo.
+              </p>
+              <div className="mt-4 overflow-x-auto rounded-2xl border border-black/8">
+                <table className="w-full min-w-[480px] border-collapse text-left text-sm">
+                  <caption className="sr-only">
+                    Faixas de cupom {coupon.brand}: código, desconto e compra mínima
+                  </caption>
+                  <thead>
+                    <tr className="bg-[#fef9f3]">
+                      <th scope="col" className="px-4 py-3 font-heading text-xs font-black uppercase tracking-[0.14em] text-[#0f1419]/70">
+                        Cupom (clique para copiar)
+                      </th>
+                      <th scope="col" className="px-4 py-3 font-heading text-xs font-black uppercase tracking-[0.14em] text-[#0f1419]/70">
+                        Desconto
+                      </th>
+                      <th scope="col" className="px-4 py-3 font-heading text-xs font-black uppercase tracking-[0.14em] text-[#0f1419]/70">
+                        Compra mínima
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody className="divide-y divide-black/8">
+                    {coupon.tiers.map((tier) => (
+                      <tr key={tier.code} className="bg-white">
+                        <td className="px-4 py-3">
+                          <CopyButton
+                            code={tier.code}
+                            label={tier.code}
+                            copiedLabel="Copiado!"
+                            variant="outline"
+                            brand={coupon.brand}
+                            placement="coupon_page_tiers"
+                            className="font-mono text-xs font-black"
+                          />
+                        </td>
+                        <td className="px-4 py-3 font-semibold text-[#0f1419]">{tier.discount}</td>
+                        <td className="px-4 py-3 text-[#0f1419]/78">{tier.minPurchase}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </>
+          )}
+
+          <h2 className={`font-heading text-2xl font-black text-[#0f1419]${coupon.tiers && coupon.tiers.length > 0 ? ' mt-12' : ''}`}>
             Detalhes do {offerType} {coupon.code}
           </h2>
           <dl className="mt-6 divide-y divide-black/8 rounded-2xl border border-black/8">

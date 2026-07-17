@@ -5,6 +5,7 @@ import { ArrowUpRight } from 'lucide-react';
 import ReviewInlineImage from '@/components/ReviewInlineImage';
 import { DropCapParagraph, EditorialReveal, PretextShrinkwrap, TopTenList } from '@/components/editorial';
 import { HighlightCoupon } from './HighlightCoupon';
+import { CopyButton } from '@/components/CouponComponents';
 import type { ContentSection } from '@/lib/content';
 import { ReputacaoMetricas, PadroesReclamacao } from './ReputacaoMetricas';
 
@@ -282,6 +283,45 @@ export function ReviewSectionContent({
       )}
 
       {shouldRenderTopTen && <TopTenList items={section.bullets} />}
+
+      {section.couponTiers && section.couponTiers.length > 0 && (
+        <div className="mt-6 overflow-x-auto rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft">
+          <table className="w-full min-w-[480px] border-collapse text-left text-sm">
+            <caption className="sr-only">Faixas de cupom: código, desconto e compra mínima</caption>
+            <thead>
+              <tr className="bg-[#fef9f3]">
+                <th scope="col" className="px-4 py-3 font-heading text-xs font-black uppercase tracking-[0.14em] text-[#0f1419]/70">
+                  Cupom (clique para copiar)
+                </th>
+                <th scope="col" className="px-4 py-3 font-heading text-xs font-black uppercase tracking-[0.14em] text-[#0f1419]/70">
+                  Desconto
+                </th>
+                <th scope="col" className="px-4 py-3 font-heading text-xs font-black uppercase tracking-[0.14em] text-[#0f1419]/70">
+                  Compra mínima
+                </th>
+              </tr>
+            </thead>
+            <tbody className="divide-y divide-black/8">
+              {section.couponTiers.map((tier) => (
+                <tr key={tier.code}>
+                  <td className="px-4 py-3">
+                    <CopyButton
+                      code={tier.code}
+                      label={tier.code}
+                      copiedLabel="Copiado!"
+                      variant="outline"
+                      placement="review_inline"
+                      className="font-mono text-xs font-black"
+                    />
+                  </td>
+                  <td className="px-4 py-3 font-semibold text-[#0f1419]">{tier.discount}</td>
+                  <td className="px-4 py-3 text-[#0f1419]/78">{tier.minPurchase}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
 
       {section.links && section.links.length > 0 && (
         <div className={`mt-4 flex flex-wrap gap-4 ${Boolean(section.image || (section.images && section.images.length > 0)) ? 'justify-center w-full' : ''}`}>

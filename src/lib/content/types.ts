@@ -252,6 +252,7 @@ export interface ContentSection {
   imageFit?: 'cover' | 'contain' | 'portrait' | 'wide';
   images?: ContentSectionImage[];
   links?: ContentSectionLink[];
+  couponTiers?: { code: string; discount: string; minPurchase: string }[];
   widget?: string;
   accordionBlock?: {
     heading: string;

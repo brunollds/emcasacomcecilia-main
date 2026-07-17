@@ -23,6 +23,7 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 | `yesstyle` | YesStyle | `CECILIA010` | `lastVerified` |
 | `nutren` | Nutren / Nestlé Nutri | `CECI` | `lastVerified` |
 | `i-wanna-sleep` | I Wanna Sleep | `CECIEMCASA` | `lastVerified` |
+| `magalu` | Magalu (Magazine Você da Cecília) | `100EMCASACOMCECILIA` (+ 9 faixas em `tiers`) | `lastVerified`, `metaTitle`, `metaDescription`, FAQ "Cupom Magalu hoje" |
 
 #### Cupons inativos (não aparecem no site, mas mantêm histórico)
 

@@ -33011,7 +33011,6 @@ export const reviewsData: unknown[] = [
     "publishedAt": "16 Jul 2026",
     "publishedAtISO": "2026-07-16",
     "draft": false,
-    "isNew": true,
     "image": "/images/reviews/iwannasleep/cobertor-igloo-hero.webp",
     "imageAlt": "Mãos tocando os dois lados do Cobertor IWS Igloo, um com toque frio e outro com toque quente",
     "imageFit": "cover",
@@ -33785,5 +33784,424 @@ export const reviewsData: unknown[] = [
         "title": "Clube Dolce Gusto: pontos e prêmios"
       }
     ]
+  },
+  {
+    "id": 230,
+    "slug": "cupom-magalu-em-casa-com-cecilia",
+    "title": "Como usar o cupom Magalu da Cecília",
+    "type": "Guia & Cupons",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Passo a passo para usar o cupom Magazine Luiza da Cecília no navegador: códigos de R$ 10 a R$ 100 OFF na loja Magazine Você da Cecília e o que fazer quando o código não funciona no app do Magalu.",
+    "metaDescription": "Passo a passo para usar o cupom Magazine Luiza da Cecília no navegador: códigos de R$ 10 a R$ 100 OFF na loja Magazine Você — e por que não funciona no app.",
+    "publishedAt": "17 Jul 2026",
+    "publishedAtISO": "2026-07-17",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/magalu/magalu-hero.webp",
+    "imageAlt": "Página da loja Magazine Você da Cecília aberta no navegador, com produtos do Magalu e campo para aplicar cupom de desconto.",
+    "imageFit": "cover",
+    "coupon": "10EMCASACOMCECILIA",
+    "affiliate": "magalu",
+    "cta": {
+      "text": "Acesse a loja Magazine Você da Cecília pelo navegador e aplique o cupom da sua faixa de compra.",
+      "label": "Acessar a loja Magazine Você da Cecília",
+      "url": "https://www.magazinevoce.com.br/magazineemcasacomcecilia/"
+    },
+    "editorialNote": "Este artigo faz parte da parceria entre o blog Em Casa com Cecília e o Magazine Você, o programa oficial de influenciadores do Magalu. Os cupons EMCASACOMCECILIA são criados pela Cecília para a própria loja dentro do programa. Ao utilizar qualquer um deles, o valor do desconto é abatido da comissão que o blog receberia pela venda — o desconto sai da comissão, nunca do seu bolso. Quem vende, cobra, entrega e cuida do pós-venda é o próprio Magalu.",
+    "relatedArticles": [],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O cupom Magalu do Em Casa com Cecília está ativo e funciona em dez faixas de desconto, de R$ 10 a R$ 100 OFF. Todos os códigos valem apenas para produtos vendidos e entregues pelo Magalu e só podem ser usados no navegador, na loja Magazine Você da Cecília — não funcionam no aplicativo do Magalu nem no site magazineluiza.com.br.",
+          "Regra de ouro: cupom Magazine Luiza da Cecília é só no navegador. Abra a loja pelo link, monte o carrinho e aplique o código da sua faixa."
+        ],
+        "emphasis": "Funciona no navegador do seu PC ou celular: meus códigos exclusivos só funcionam na minha loja dentro da Magazine Luiza (Magazine Você).",
+        "couponTiers": [
+          {
+            "code": "10EMCASACOMCECILIA",
+            "discount": "R$ 10 OFF",
+            "minPurchase": "R$ 499,90"
+          },
+          {
+            "code": "20EMCASACOMCECILIA",
+            "discount": "R$ 20 OFF",
+            "minPurchase": "R$ 999,90"
+          },
+          {
+            "code": "30EMCASACOMCECILIA",
+            "discount": "R$ 30 OFF",
+            "minPurchase": "R$ 1.499,90"
+          },
+          {
+            "code": "40EMCASACOMCECILIA",
+            "discount": "R$ 40 OFF",
+            "minPurchase": "R$ 1.999,90"
+          },
+          {
+            "code": "50EMCASACOMCECILIA",
+            "discount": "R$ 50 OFF",
+            "minPurchase": "R$ 2.499,90"
+          },
+          {
+            "code": "60EMCASACOMCECILIA",
+            "discount": "R$ 60 OFF",
+            "minPurchase": "R$ 2.999,90"
+          },
+          {
+            "code": "70EMCASACOMCECILIA",
+            "discount": "R$ 70 OFF",
+            "minPurchase": "R$ 3.499,90"
+          },
+          {
+            "code": "80EMCASACOMCECILIA",
+            "discount": "R$ 80 OFF",
+            "minPurchase": "R$ 3.999,90"
+          },
+          {
+            "code": "90EMCASACOMCECILIA",
+            "discount": "R$ 90 OFF",
+            "minPurchase": "R$ 4.499,90"
+          },
+          {
+            "code": "100EMCASACOMCECILIA",
+            "discount": "R$ 100 OFF",
+            "minPurchase": "R$ 4.999,90"
+          }
+        ],
+        "links": [
+          {
+            "label": "Cupom Magalu atualizado",
+            "href": "/cupons/magalu"
+          }
+        ]
+      },
+      {
+        "heading": "O cupom Magalu da Cecília está ativo?",
+        "paragraphs": [
+          "Sim. A última verificação foi feita em 17 de julho de 2026 e as dez faixas do cupom Magalu estavam ativas, de R$ 10 a R$ 100 OFF conforme o valor do carrinho. Os códigos seguem válidos para produtos vendidos e entregues pelo Magalu, com uso exclusivo na loja Magazine Você da Cecília pelo navegador.",
+          "Prova real: nessa verificação eu testei o 50EMCASACOMCECILIA em um carrinho de R$ 2.999 e o desconto de R$ 50 apareceu no resumo do pedido — o print está no passo 4 deste guia.",
+          "Eu testo os cupons todo mês. Se algo mudar, a página dedicada ao cupom Magalu aqui do blog é a primeira a ser atualizada.",
+          "Um lembrete que eu repito sempre: se você tentar o código no aplicativo do Magalu, não vai funcionar. Não é bug — é a regra desta campanha. O cupom só existe dentro da minha loja no Magazine Você, acessada pelo navegador."
+        ],
+        "links": [
+          {
+            "label": "Confira a página atualizada do cupom Magalu",
+            "href": "/cupons/magalu"
+          }
+        ]
+      },
+      {
+        "heading": "Por que o cupom só funciona na loja Magazine Você da Cecília?",
+        "paragraphs": [
+          "Estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília, porque foram criados por mim exclusivamente para essa loja dentro do Magazine Você — o programa oficial de influenciadores da Magazine Luiza, no domínio magazinevoce.com.br.",
+          "Não é limitação estranha nem sinal de golpe: é a regra desta campanha. Estes códigos são um benefício da minha loja no Magazine Você e não valem no site magazineluiza.com.br nem no app do Magalu.",
+          "E tem um ponto que deixa tudo mais seguro: o magazinevoce.com.br é domínio da própria Magazine Luiza S/A (CNPJ 47.960.950/0001-21), registrado desde 2011. Quem vende, cobra, entrega e faz o pós-venda é o próprio Magalu, o login usa a sua conta Magalu de sempre, e o aviso oficial no rodapé deixa claro que você não compartilha dados com o dono da página.",
+          "Transparência: comprando na minha loja, eu recebo uma comissão sobre a compra — sem nenhum custo extra para você. E quando você usa qualquer um desses cupons, a Magazine Luiza desconta o valor do cupom da minha comissão: se a sua compra geraria R$ 15 de comissão e você aplicou o 10EMCASACOMCECILIA (R$ 10 OFF), ficam R$ 5 líquidos para mim. O desconto sai da comissão, não do seu bolso.",
+          "Resumindo: a loja é minha, mas a operação é 100% Magalu."
+        ],
+        "links": [
+          {
+            "label": "Ver a página do cupom Magalu com todas as faixas",
+            "href": "/cupons/magalu"
+          }
+        ]
+      },
+      {
+        "heading": "Como aplicar o cupom — passo a passo",
+        "paragraphs": [
+          "O processo leva menos de dois minutos, mas tudo precisa acontecer no navegador, na loja magazinevoce.com.br/magazineemcasacomcecilia. Siga as etapas abaixo, com prints das telas de cada etapa."
+        ]
+      },
+      {
+        "heading": "1. Acesse a loja pelo navegador",
+        "paragraphs": [
+          "Abra o navegador do seu celular ou computador e entre direto na loja Magazine Você da Cecília pelo link abaixo. Pode ser Chrome, Safari, Edge ou qualquer outro — o que importa é ser navegador.",
+          "Não abra o app do Magalu: ele não reconhece os códigos EMCASACOMCECILIA, exclusivos da loja no Magazine Você."
+        ],
+        "image": "/images/reviews/magalu/magalu-loja-navegador.webp",
+        "imageAlt": "Print da loja magazinevoce.com.br/magazineemcasacomcecilia aberta no navegador",
+        "imageCaption": "A loja Magazine Você da Cecília aberta no navegador: é aqui que os códigos da campanha funcionam.",
+        "imageFit": "contain",
+        "links": [
+          {
+            "label": "magazinevoce.com.br/magazineemcasacomcecilia",
+            "href": "https://www.magazinevoce.com.br/magazineemcasacomcecilia/"
+          }
+        ]
+      },
+      {
+        "heading": "2. Entre com a sua conta Magalu",
+        "paragraphs": [
+          "Na loja, faça login com a mesma conta Magalu que você já usa no site ou no app. Mesmo e-mail, mesma senha. Não é preciso criar cadastro novo nem informar seus dados para mim.",
+          "O aviso oficial no rodapé reforça: o cliente não compartilha dados com o dono da página. Seus dados ficam com o Magalu."
+        ]
+      },
+      {
+        "heading": "3. Monte o carrinho com produtos vendidos e entregues pelo Magalu",
+        "paragraphs": [
+          "Navegue pela loja e adicione os produtos ao carrinho. Atenção a um detalhe importante: o cupom só vale para itens vendidos e entregues pelo Magalu. Produtos de lojistas parceiros (marketplace) não entram na conta do desconto.",
+          "Na página do produto, confira se a venda e a entrega são do Magalu. Com itens mistos no carrinho, o desconto pode falhar."
+        ]
+      },
+      {
+        "heading": "4. Aplique o código da sua faixa",
+        "paragraphs": [
+          "No carrinho ou no checkout, localize o campo de cupom e digite o código da sua faixa. Comprou R$ 1.200? Use 20EMCASACOMCECILIA e ganhe R$ 20 OFF. Passou de R$ 5.000? 100EMCASACOMCECILIA dá R$ 100 OFF.",
+          "Digite sem espaços, com letras maiúsculas, e confirme em aplicar para o sistema recalcular o pedido."
+        ],
+        "image": "/images/reviews/magalu/magalu-cupom-aplicado.webp",
+        "imageAlt": "Campo de cupom com desconto aplicado no checkout",
+        "imageCaption": "Campo de cupom preenchido e desconto aplicado no resumo do pedido.",
+        "imageFit": "contain"
+      },
+      {
+        "heading": "5. Confirme o desconto e finalize",
+        "paragraphs": [
+          "Antes de pagar, confira no resumo se o desconto apareceu abatendo o valor dos produtos. Se não aparecer, não finalize: confira o código, o mínimo da faixa e se os itens são vendidos e entregues pelo Magalu.",
+          "Lembre-se de que o desconto vale só sobre os produtos, não sobre o frete. Tudo certo? É só concluir o pagamento normalmente, como em qualquer compra no Magalu."
+        ]
+      },
+      {
+        "heading": "O que fazer se o cupom não funcionar?",
+        "paragraphs": [
+          "Na maioria dos casos, o problema está em um dos pontos abaixo."
+        ],
+        "bullets": [
+          "Tentou no app do Magalu? É esperado não funcionar: estes códigos da Cecília só valem no navegador, na loja Magazine Você da Cecília. Abra a loja pelo navegador e tente de novo.",
+          "Valor mínimo não atingido: cada código exige um mínimo, de R$ 499,90 (R$ 10 OFF) a R$ 4.999,90 (R$ 100 OFF). Confira se o carrinho alcança a faixa.",
+          "Produto não vendido e entregue pelo Magalu: itens de lojistas parceiros do marketplace não aceitam o cupom. Verifique a informação de venda e entrega na página do produto.",
+          "Código com erro de digitação: digite sem espaços, com letras maiúsculas e o número correto da faixa (10, 20, 30... até 100).",
+          "Cache do navegador: limpe o cache, abra uma aba anônima ou teste outro navegador e refaça o login na loja."
+        ],
+        "emphasis": "Se nada resolver, me avisa pelos comentários ou pelo grupo de promoções: eu testo o código na hora e atualizo este guia se algo tiver mudado."
+      },
+      {
+        "heading": "Regras dos cupons da Cecília",
+        "paragraphs": [
+          "Antes de comprar, vale conhecer as regras do jogo para não ter surpresa no checkout."
+        ],
+        "bullets": [
+          "O desconto destes códigos incide apenas sobre o valor dos produtos, não sobre o frete.",
+          "Em regra, o cupom não é cumulativo com outros cupons de desconto.",
+          "Válido apenas para produtos vendidos e entregues pelo Magalu — marketplace não participa.",
+          "Cada faixa tem seu valor mínimo: de R$ 499,90 para R$ 10 OFF até R$ 4.999,90 para R$ 100 OFF.",
+          "Uso exclusivo no navegador, na loja Magazine Você da Cecília — não funciona no app nem em magazineluiza.com.br.",
+          "Os cupons são verificados mensalmente; a última verificação foi em 17 de julho de 2026."
+        ]
+      },
+      {
+        "heading": "Por que usar os cupons da Cecília?",
+        "paragraphs": [
+          "Além do desconto direto, estes cupons têm vantagens que faço questão de deixar claras."
+        ],
+        "bullets": [
+          "Economia real: R$ 10 a R$ 100 OFF conforme o valor da compra, desconto que aparece na hora, no resumo do pedido.",
+          "Cupom verificado todo mês: eu testo cada faixa antes de atualizar o guia, então você não perde tempo com código expirado.",
+          "Compra 100% Magalu: quem vende, cobra, entrega e faz o pós-venda é o próprio Magalu, com a mesma conta e as mesmas garantias de sempre.",
+          "Sem cadastro novo: você entra com a sua conta Magalu e não compartilha dado nenhum comigo.",
+          "Você apoia o blog sem pagar nada a mais: a comissão da parceria sai do Magalu, não do seu bolso."
+        ]
+      },
+      {
+        "heading": "FAQ – Perguntas frequentes",
+        "paragraphs": [
+          "Reuni as dúvidas mais comuns sobre o uso do cupom Magalu da Cecília."
+        ],
+        "bullets": [
+          "Como usar o cupom Magalu da Cecília? Pelo navegador, acesse a loja magazinevoce.com.br/magazineemcasacomcecilia, entre com sua conta Magalu, monte o carrinho com produtos vendidos e entregues pelo Magalu e aplique o código da sua faixa.",
+          "Onde coloco o código do cupom? No campo de cupom de desconto do carrinho ou do checkout, dentro da loja Magazine Você da Cecília, acessada pelo navegador.",
+          "O cupom funciona no app do Magalu? Não. Estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília — essa é a regra desta campanha.",
+          "Por que meu cupom não funcionou? As causas mais comuns: uso no app, carrinho abaixo do mínimo da faixa, produto de marketplace ou erro de digitação. Veja o troubleshooting acima.",
+          "Qual o valor mínimo de cada faixa? R$ 10 OFF a partir de R$ 499,90; R$ 20 OFF a partir de R$ 999,90; e assim por diante, em degraus de R$ 500, até R$ 100 OFF a partir de R$ 4.999,90.",
+          "Posso usar mais de um cupom na mesma compra? Em regra, não. Vale um cupom por pedido, então escolha o código da faixa mais alta que o seu carrinho alcançar.",
+          "O cupom vale para qualquer produto? Vale para produtos vendidos e entregues pelo Magalu. Itens de lojistas parceiros do marketplace não entram no desconto.",
+          "O cupom acumula com ofertas e frete grátis? O desconto não vale sobre o frete e, em regra, não é cumulativo com outros cupons. Ofertas de preço do site costumam valer normalmente.",
+          "Qual a validade dos cupons? Os códigos são verificados mensalmente. A última verificação foi em 17 de julho de 2026 — volte sempre a este guia ou à página do cupom antes de comprar.",
+          "Comprar na loja da Cecília é seguro? Sim: o domínio magazinevoce.com.br é do próprio Magalu e quem opera tudo é a Magazine Luiza — veja os detalhes na seção 'Por que o cupom só funciona na loja Magazine Você da Cecília?' aqui deste guia."
+        ]
+      }
+    ],
+    "pros": [
+      "Dez faixas de desconto, de R$ 10 a R$ 100 OFF, para compras de diferentes tamanhos",
+      "Cupons verificados mensalmente — última checagem em 17 de julho de 2026",
+      "Operação 100% Magalu: venda, cobrança, entrega e pós-venda pela própria Magazine Luiza",
+      "Login com a mesma conta Magalu, sem cadastro novo e sem compartilhar dados",
+      "Desconto aplicado na hora, visível no resumo do pedido antes do pagamento"
+    ],
+    "cons": [
+      "Só funciona no navegador, na loja Magazine Você da Cecília — não funciona no app do Magalu",
+      "Cada faixa exige um valor mínimo de compra, de R$ 499,90 a R$ 4.999,90",
+      "Válido apenas para produtos vendidos e entregues pelo Magalu",
+      "Em regra, não é cumulativo com outros cupons de desconto"
+    ]
+  },
+  {
+    "id": 231,
+    "slug": "magazine-voce-e-confiavel",
+    "title": "Magazine Você é confiável? É golpe? Entenda antes de comprar",
+    "type": "Editorial",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Análise do Magazine Você (Influenciador Magalu): dono do domínio, CNPJ, como funciona a loja de influenciador, quem vende e entrega, reputação e como verificar se é seguro.",
+    "metaDescription": "Magazine Você é confiável ou é golpe? Veja o CNPJ dono do domínio, quem vende e entrega, a reputação no Reclame Aqui e como confirmar que a loja é segura.",
+    "publishedAt": "16 Jul 2026",
+    "publishedAtISO": "2026-07-16",
+    "draft": true,
+    "image": "/images/reviews/magalu/magazine-voce-e-confiavel-hero.webp",
+    "imageAlt": "Tela da loja Magazine Você do Em Casa com Cecília exibindo o selo Influenciador Magalu, a aba Cupons e o rodapé oficial desenvolvido por magazineluiza.com",
+    "imageFit": "cover",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Resposta direta: sim, o Magazine Você é confiável",
+        "paragraphs": [
+          "Vou direto ao ponto: sim, o Magazine Você é confiável. O site magazinevoce.com.br não é uma loja desconhecida nem um esquema paralelo — pertence ao próprio Magazine Luiza e é a plataforma oficial do programa Influenciador Magalu, em que pessoas físicas montam uma vitrine dentro da estrutura do Magalu.",
+          "Eu entendo a desconfiança, inclusive porque a minha loja é uma delas: o endereço não é magazineluiza.com e o nome diferente assusta. Desconfiar é saudável — a internet está cheia de site falso. Por isso escrevi este artigo como faria com uma amiga: mostrando, com registros públicos, quem é o dono do domínio, como a compra funciona por dentro e como você pode checar tudo antes de digitar qualquer dado."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "O que é o Magazine Você (Influenciador Magalu)",
+        "paragraphs": [
+          "O Magazine Você é o programa de lojas de influenciadores do Magazine Luiza, hoje chamado Influenciador Magalu (antes também Parceiro Magalu). Qualquer pessoa pode criar gratuitamente uma loja online com URL própria dentro do domínio magazinevoce.com.br, escolher produtos do catálogo do Magalu e ganhar comissão de 1% a 12% sobre cada venda.",
+          "É o modelo da minha loja, a magazinevoce.com.br/magazineemcasacomcecilia: eu seleciono os produtos e organizo os cupons, mas site, sistema e vitrine rodam na infraestrutura do Magazine Luiza. O contrato oficial do programa deixa isso explícito: as marcas 'MAGAZINE VOCÊ' e 'Influenciador Magalu' e os domínios pertencem ao Magazine Luiza."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Quem é o dono do site: CNPJ e registro do domínio",
+        "paragraphs": [
+          "Essa foi a minha primeira verificação antes de abrir a loja, e qualquer pessoa pode repeti-la. O domínio magazinevoce.com.br está registrado em nome da MAGAZINE LUIZA S/A, CNPJ 47.960.950/0001-21 — o mesmo CNPJ da rede das lojas físicas e do site principal. O registro existe desde 2011: não é um domínio criado ontem para aplicar golpe.",
+          "Para conferir, entre no registro.br (órgão oficial que administra domínios .br) e use a consulta whois: digite magazinevoce.com.br e o resultado mostra titular, CNPJ e data de criação. É público e gratuito. Golpista nenhum registra domínio no CNPJ de uma empresa de capital aberto — o rastro jurídico seria imediato."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Como funciona a compra: quem vende, cobra e entrega",
+        "paragraphs": [
+          "Aqui mora o ponto mais importante: embora a vitrine seja da influenciadora, toda a operação é do Magalu. Estoque, pagamento, cobrança, nota fiscal, entrega e pós-venda são operados pelo Magazine Luiza, nas mesmas condições de uma compra no site ou app oficial.",
+          "O influenciador não tem acesso aos seus dados de pagamento em nenhuma etapa: eu não vejo cartão, senha, nada. O rodapé oficial da loja avisa que 'para comprar nesse site você não precisa compartilhar seus dados com o dono da página' e assina 'desenvolvido por magazineluiza.com'. E o login é feito com a mesma conta que você já usa no Magalu — sem cadastro novo."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Por que os cupons só funcionam nessa loja?",
+        "paragraphs": [
+          "Muita gente estranha quando o cupom não funciona no app do Magalu e acha que caiu num golpe. A explicação é simples: estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília. São cupons de campanha criados para esta vitrine específica — não valem no app nem em outras lojas do programa.",
+          "A URL diferente, portanto, não é phishing: é o próprio modelo. É assim que o Magalu identifica a vitrine de origem da venda para pagar a comissão. O cupom 10EMCASACOMCECILIA, por exemplo, só funciona na minha loja. Não é limitação suspeita, é a arquitetura oficial."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Reputação: o que diz o Reclame Aqui",
+        "paragraphs": [
+          "Consultei o Reclame Aqui hoje, 16 de julho de 2026, e o retrato completo é este: o perfil principal do Magazine Luiza tem reputação máxima (Ótimo/RA1000), nota 8,3 de 10 na loja online e 8,2 na física. É o canal onde as reclamações de compra — inclusive de lojas de influenciador — são atendidas.",
+          "Existe também um perfil do domínio magazinevoce, e aqui preciso ser honesta: poucas reclamações (cerca de 50), nota baixa e 0% respondidas. Isso não significa compra sem suporte — significa um canal pouco monitorado. O caminho certo para qualquer problema é o perfil principal do Magalu. Prefiro contar isso abertamente a fingir que só há números bonitos."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Como verificar se uma loja Magazine Você é oficial",
+        "paragraphs": [
+          "Como o programa é aberto, vale adotar uma checagem rápida antes de comprar em qualquer loja de influenciador — a minha ou a de outra pessoa:"
+        ],
+        "bullets": [
+          "Confira se o endereço está no domínio magazinevoce.com.br — no whois do registro.br, o titular deve ser a MAGAZINE LUIZA S/A, CNPJ 47.960.950/0001-21.",
+          "Verifique o cadeado HTTPS no navegador antes de digitar qualquer dado.",
+          "Procure o selo 'Influenciador Magalu' com o nome do dono da loja na identificação da página.",
+          "Confira o rodapé: ele deve trazer o aviso de que você não compartilha dados com o dono da página e a assinatura 'desenvolvido por magazineluiza.com'.",
+          "Desconfie de qualquer site fora desse domínio pedindo dados de pagamento fora do checkout do Magalu — esse sim é o padrão clássico de golpe."
+        ]
+      },
+      {
+        "heading": "A loja do Em Casa com Cecília",
+        "paragraphs": [
+          "A minha loja passou por essa verificação hoje: exibe o selo 'emcasacomcecilia — Influenciador Magalu', tem a aba Cupons ativa e traz o rodapé oficial. É lá que concentro os produtos que recomendo nos artigos e os cupons exclusivos do blog, de R$ 10 a R$ 100 OFF conforme a campanha — válidos apenas na minha loja, pelo navegador.",
+          "Basta entrar na loja, aplicar o cupom no carrinho e conferir o desconto antes de finalizar. O passo a passo completo, com valores e regras atualizados, está nos guias abaixo."
+        ],
+        "bullets": [],
+        "images": [
+          {
+            "image": "/images/reviews/magalu/magazine-voce-selo-influenciador.webp",
+            "imageAlt": "Selo 'Influenciador Magalu' exibido na loja da Cecília",
+            "imageFit": "contain"
+          },
+          {
+            "image": "/images/reviews/magalu/magazine-voce-rodape-oficial.webp",
+            "imageAlt": "Rodapé oficial 'desenvolvido por magazineluiza.com' com aviso de segurança",
+            "imageFit": "contain"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver os cupons Magalu da Cecília e como usar",
+            "href": "/reviews/cupom-magalu-em-casa-com-cecilia"
+          },
+          {
+            "label": "Página do cupom Magalu",
+            "href": "/cupons/magalu"
+          }
+        ]
+      },
+      {
+        "heading": "Como verificamos",
+        "paragraphs": [
+          "As métricas de reputação e os registros públicos citados neste artigo mudam com o tempo: notas sobem e descem, contratos são atualizados e páginas saem do ar. Tudo o que está escrito aqui foi consultado diretamente nas fontes oficiais em 16 de julho de 2026.",
+          "Recomendo repetir a checagem antes de comprar — leva poucos minutos, e cada fonte listada abaixo é pública e gratuita."
+        ],
+        "bullets": [
+          "Reclame Aqui — Magalu Loja Online (https://www.reclameaqui.com.br/empresa/magazine-luiza-loja-online/): reputação Ótimo/RA1000, nota 8,3/10 em 16/07/2026.",
+          "Contrato oficial do Divulgador (https://www.parceiromagalu.com.br/divulgador/venda-mais/post/contrato-do-divulgador.html): declara 'Magazine Você' como marca e domínio do Magazine Luiza.",
+          "Central de ajuda oficial do Influenciador Magalu (https://divulgador-magalu.zendesk.com/hc/pt-br): regras e funcionamento do programa de influenciadores.",
+          "Consulta whois do domínio magazinevoce.com.br no registro.br (https://registro.br/tecnologia/ferramentas/whois/): proprietário Magazine Luiza S/A, CNPJ 47.960.950/0001-21, domínio criado em 2011.",
+          "A própria loja da Cecília (https://www.magazinevoce.com.br/magazineemcasacomcecilia/): exibe o selo 'Influenciador Magalu' e o rodapé oficial."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O Magazine Você é confiável? Sim — o domínio pertence à MAGAZINE LUIZA S/A (CNPJ 47.960.950/0001-21) e toda a operação da compra é do Magalu.",
+          "O Magazine Você é golpe? Não. É a plataforma oficial do Influenciador Magalu; golpe seria um site fora desse domínio se passando por ele.",
+          "O que é o programa? O Influenciador Magalu (ex-Magazine Você) permite criar uma loja online gratuita e ganhar comissão de 1% a 12% por venda.",
+          "Quem é o dono do site? A MAGAZINE LUIZA S/A, com domínio registrado desde 2011 — confira no whois do registro.br.",
+          "Comprar na loja de influenciador é seguro? Sim, se a loja estiver no domínio oficial e exibir o selo 'Influenciador Magalu' e o rodapé da plataforma.",
+          "O influenciador vê meus dados de pagamento? Não — o pagamento é processado pelo Magalu, como avisa o próprio rodapé da loja.",
+          "Quem cuida de entrega, nota fiscal e troca? O Magazine Luiza, nas mesmas condições do site e app oficiais.",
+          "O preço é o mesmo do Magalu? Os produtos são do catálogo do Magalu; o que muda são a curadoria e os cupons exclusivos daquela URL.",
+          "O que o Reclame Aqui diz? O Magalu tem reputação máxima (Ótimo/RA1000, 8,3/10 online); o perfil do domínio magazinevoce é pouco monitorado — reclame pelo canal principal.",
+          "Como evitar site falso? Confira domínio, cadeado HTTPS, selo 'Influenciador Magalu' e rodapé oficial — e nunca informe dados fora do checkout do Magalu."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Conheça a loja Magazine Você do Em Casa com Cecília e aproveite os cupons de R$ 10 a R$ 100 OFF",
+      "label": "Visitar loja",
+      "url": "https://www.magazinevoce.com.br/magazineemcasacomcecilia/"
+    },
+    "coupon": "10EMCASACOMCECILIA",
+    "affiliate": "magalu",
+    "editorialNote": "Este artigo é de natureza editorial e analítica. O Em Casa com Cecília mantém uma loja no programa Influenciador Magalu e recebe comissão pelas vendas realizadas por meio dela, sem custo adicional para quem compra. Todas as informações são baseadas em dados públicos verificados em 16 de julho de 2026, incluindo o registro do domínio no registro.br, o contrato oficial do programa e o Reclame Aqui.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-magalu-em-casa-com-cecilia",
+        "title": "Como usar o cupom Magalu da Cecília"
+      }
+    ],
+    "imageAspect": "square"
   }
 ];

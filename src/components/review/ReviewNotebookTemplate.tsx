@@ -207,8 +207,12 @@ export function ReviewNotebookTemplate({
               {review.description}
             </EditorialReveal>
 
-            {/* Cupom copiável no resumo — só guias com cupom */}
-            {kind === 'guia' && review.coupon && (
+            {/* Cupom copiável no resumo — só guias com cupom (oculto quando há tabela de faixas) */}
+            {kind === 'guia' &&
+              review.coupon &&
+              !review.contentSections?.some(
+                (s) => s.couponTiers && s.couponTiers.length > 0
+              ) && (
               <EditorialReveal delay={0.17}>
                 <InlineCouponCopy coupon={review.coupon} locale={couponCopyLocale} />
               </EditorialReveal>
