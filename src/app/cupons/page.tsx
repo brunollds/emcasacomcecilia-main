@@ -189,7 +189,7 @@ export default function CuponsPage() {
               Escolha uma marca para ver detalhes completos, regras de uso e conteúdo relacionado.
             </p>
 
-            <div className="mt-6 grid gap-3 md:grid-cols-2">
+            <div className="mt-6 grid min-w-0 gap-3 md:grid-cols-2">
               {activeCoupons.map((coupon) => (
                 <CouponPillCard
                   key={coupon.slug}

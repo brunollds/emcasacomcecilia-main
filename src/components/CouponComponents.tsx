@@ -161,7 +161,7 @@ export function CouponPillCard({
   return (
     <Link
       href={href}
-      className={`group flex items-center gap-3 rounded-2xl border border-black/8 bg-white p-4 shadow-soft transition-all hover:-translate-y-0.5 hover:border-[#ff6b35]/35 hover:shadow-md ${className}`}
+      className={`group flex min-w-0 max-w-full items-center gap-2 rounded-2xl border border-black/8 bg-white p-3 shadow-soft transition-all hover:-translate-y-0.5 hover:border-[#ff6b35]/35 hover:shadow-md sm:gap-3 sm:p-4 ${className}`}
     >
       <div className="relative flex h-12 w-12 shrink-0 items-center justify-center overflow-hidden rounded-xl border border-black/8 bg-white text-sm font-black text-[#862f0e] shadow-inner">
         {brandLogo ? (
@@ -179,8 +179,8 @@ export function CouponPillCard({
         )}
       </div>
       <div className="min-w-0 flex-1">
-        <div className="flex items-center gap-2">
-          <span className="text-sm font-black text-[#0f1419]">{brand}</span>
+        <div className="flex min-w-0 items-center gap-2">
+          <span className="truncate text-sm font-black text-[#0f1419]">{brand}</span>
           <ArrowUpRight className="h-3.5 w-3.5 text-[#0f1419]/38 transition-colors group-hover:text-[#ff6b35]" />
         </div>
         <p className="mt-0.5 truncate text-xs text-[#0f1419]/58">
@@ -189,7 +189,7 @@ export function CouponPillCard({
           {shortDescription}
         </p>
       </div>
-      <span className="shrink-0 rounded-full bg-[#ffd23f] px-3 py-1 text-xs font-black text-[#4a2400]">
+      <span className="max-w-[38%] shrink-0 truncate rounded-full bg-[#ffd23f] px-2.5 py-1 text-xs font-black text-[#4a2400] sm:px-3">
         {discount}
       </span>
     </Link>
