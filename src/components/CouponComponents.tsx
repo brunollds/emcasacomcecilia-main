@@ -99,24 +99,31 @@ export function FAQAccordion({ items }: { items: FAQItem[] }) {
 type CouponStoreLinkProps = {
   href: string;
   label?: string;
+  children?: React.ReactNode;
   couponCode?: string;
   brand?: string;
-  placement?: 'coupon_page' | 'bottom_bar' | 'review_inline';
+  contentSlug?: string;
+  sponsored?: boolean;
+  placement?: 'coupon_page' | 'bottom_bar' | 'review_inline' | 'review_sidebar' | 'review_mobile_drawer' | 'review_final_cta';
   className?: string;
 };
 
 export function CouponStoreLink({
   href,
   label = 'Ir para a loja',
+  children,
   couponCode,
   brand,
+  contentSlug,
+  sponsored = true,
   placement = 'coupon_page',
   className = '',
 }: CouponStoreLinkProps) {
   const handleClick = () => {
-    trackEvent('coupon_store_click', {
+    trackEvent(sponsored ? 'coupon_store_click' : 'outbound_link_click', {
       ...(couponCode && { coupon_code: couponCode }),
       ...(brand && { brand }),
+      ...(contentSlug && { content_slug: contentSlug }),
       placement,
       url: href,
     });
@@ -126,11 +133,11 @@ export function CouponStoreLink({
     <a
       href={href}
       target="_blank"
-      rel="noopener noreferrer"
+      rel={sponsored ? 'sponsored noopener noreferrer' : 'noopener noreferrer'}
       onClick={handleClick}
       className={className}
     >
-      {label}
+      {children ?? label}
     </a>
   );
 }

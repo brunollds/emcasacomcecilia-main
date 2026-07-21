@@ -38,6 +38,10 @@ export function buildReviewTemplateProps(review) {
   const viewModel = normalizeReview(review);
 
   const baseUrl = 'https://emcasacomcecilia.com';
+  const reviewUrl = `${baseUrl}/reviews/${getReviewSlug(review)}`;
+  const productBrand = review.brand || review.productSpec?.find(
+    (spec) => spec.key?.toLowerCase() === 'marca'
+  )?.value;
 
   const breadcrumbJsonLd = {
     '@context': 'https://schema.org',
@@ -45,7 +49,7 @@ export function buildReviewTemplateProps(review) {
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Início', item: baseUrl },
       { '@type': 'ListItem', position: 2, name: 'Reviews', item: `${baseUrl}/reviews` },
-      { '@type': 'ListItem', position: 3, name: review.title, item: `${baseUrl}/reviews/${getReviewSlug(review)}` },
+      { '@type': 'ListItem', position: 3, name: review.title, item: reviewUrl },
     ],
   };
 
@@ -55,9 +59,20 @@ export function buildReviewTemplateProps(review) {
     name: review.title,
     headline: review.title,
     description: review.description,
+    url: reviewUrl,
+    mainEntityOfPage: reviewUrl,
     datePublished: review.publishedAtISO || review.publishedAt,
     ...(review.updatedAt ? { dateModified: review.updatedAt } : {}),
     author: buildSchemaAuthors(review.authors, review.author),
+    publisher: {
+      '@type': 'Organization',
+      name: 'Em Casa com Cecília',
+      url: baseUrl,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${baseUrl}/images/logos/logo-em-casa-com-cecilia.png`,
+      },
+    },
     image: review.image ? `https://emcasacomcecilia.com${review.image}` : undefined,
     ...(isProductReview
       ? {
@@ -69,7 +84,15 @@ export function buildReviewTemplateProps(review) {
           },
           itemReviewed: {
             '@type': 'Product',
-            name: review.title,
+            name: review.productName || review.title,
+            ...(productBrand
+              ? {
+                  brand: {
+                    '@type': 'Brand',
+                    name: productBrand,
+                  },
+                }
+              : {}),
             image: review.image ? `https://emcasacomcecilia.com${review.image}` : undefined,
           },
         }

@@ -5,15 +5,19 @@ import { ArrowUpRight } from 'lucide-react';
 import ReviewInlineImage from '@/components/ReviewInlineImage';
 import { DropCapParagraph, EditorialReveal, PretextShrinkwrap, TopTenList } from '@/components/editorial';
 import { HighlightCoupon } from './HighlightCoupon';
-import { CopyButton } from '@/components/CouponComponents';
+import { CopyButton, CouponStoreLink } from '@/components/CouponComponents';
 import type { ContentSection } from '@/lib/content';
 import { ReputacaoMetricas, PadroesReclamacao } from './ReputacaoMetricas';
+import { ReviewLoopVideo } from './ReviewLoopVideo';
 
 export interface ReviewSectionContentProps {
   section: ContentSection;
   reviewTitle: string;
   isFirst?: boolean;
   kind?: 'editorial' | 'guia' | 'produto';
+  reviewSlug?: string;
+  coupon?: string;
+  affiliate?: string;
 }
 
 function isInternalLink(href: string): boolean {
@@ -64,6 +68,9 @@ export function ReviewSectionContent({
   reviewTitle,
   isFirst = false,
   kind = 'editorial',
+  reviewSlug,
+  coupon,
+  affiliate,
 }: ReviewSectionContentProps): React.ReactElement {
   const showDropCap = isFirst && Boolean(kind);
   const prosConsItems = section.bullets
@@ -158,18 +165,14 @@ export function ReviewSectionContent({
 
       {section.video && (
         <div className="my-6 overflow-hidden rounded-[1.25rem] bg-[#f4f4f5] shadow-soft aspect-video max-w-2xl mx-auto">
-          <video
-            autoPlay
-            muted
-            loop
-            playsInline
+          <ReviewLoopVideo
+            mp4={section.video.mp4}
+            webm={section.video.webm}
             poster={section.video.poster}
+            ariaLabel={section.video.alt || `Vídeo demonstrativo: ${section.heading || reviewTitle}`}
+            preload="metadata"
             className="w-full h-full object-cover"
-          >
-            {section.video.webm && <source src={section.video.webm} type="video/webm" />}
-            <source src={section.video.mp4} type="video/mp4" />
-            Seu navegador não suporta vídeos.
-          </video>
+          />
         </div>
       )}
 
@@ -344,13 +347,33 @@ export function ReviewSectionContent({
         <div className={`mt-4 flex flex-wrap gap-4 ${Boolean(section.image || (section.images && section.images.length > 0)) ? 'justify-center w-full' : ''}`}>
           {section.links.map((link) => {
             const internal = isInternalLink(link.href);
+            const className = 'inline-flex items-center gap-1.5 rounded-full bg-[#0f1d3a] px-5 py-2.5 text-sm font-bold text-white transition-all hover:-translate-y-0.5 hover:bg-[#ff6b35] hover:shadow-md';
+
+            if (!internal && link.sponsored) {
+              return (
+                <CouponStoreLink
+                  key={link.href}
+                  href={link.href}
+                  couponCode={coupon}
+                  brand={affiliate}
+                  contentSlug={reviewSlug}
+                  sponsored
+                  placement="review_inline"
+                  className={className}
+                >
+                  {link.label}
+                  <ArrowUpRight size={16} />
+                </CouponStoreLink>
+              );
+            }
+
             return (
               <a
                 key={link.href}
                 href={link.href}
                 target={internal ? undefined : '_blank'}
                 rel={internal ? undefined : 'noopener noreferrer'}
-                className="inline-flex items-center gap-1.5 rounded-full bg-[#0f1d3a] px-5 py-2.5 text-sm font-bold text-white transition-all hover:-translate-y-0.5 hover:bg-[#ff6b35] hover:shadow-md"
+                className={className}
               >
                 {link.label}
                 {!internal && <ArrowUpRight size={16} />}

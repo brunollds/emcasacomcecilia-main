@@ -229,6 +229,7 @@ export interface ContentBlock {
 export interface ContentSectionLink {
   label: string;
   href: string;
+  sponsored?: boolean;
 }
 
 export interface ContentSectionImage {
@@ -262,6 +263,7 @@ export interface ContentSection {
     mp4: string;
     webm?: string;
     poster?: string;
+    alt?: string;
   };
 }
 
@@ -298,6 +300,7 @@ export interface Cta {
   text: string;
   label: string;
   url: string;
+  sponsored?: boolean;
 }
 
 /** Modelo canônico de review — compatível com data.ts legado + campos v1.1. */
@@ -344,6 +347,8 @@ export interface Review {
   pullQuote?: string;
 
   // Campos de produto (opcionais)
+  productName?: string;
+  brand?: string;
   verdict?: Verdict;
   pros: string[];
   cons: string[];
@@ -372,6 +377,7 @@ export interface Review {
   affiliate?: string;
 
   // SEO
+  seoTitle?: string;
   metaDescription?: string;
   canonical?: string;
 }

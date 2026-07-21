@@ -3,6 +3,7 @@
 import Image from 'next/image';
 import { useState, useCallback, useEffect, useRef } from 'react';
 import { Maximize2, X } from 'lucide-react';
+import { useReviewMediaBlur } from '@/components/review/useReviewMediaBlur';
 
 function normalizeImages(section, reviewTitle) {
   const images = [];
@@ -39,6 +40,8 @@ function InlineImageThumbnail({ image, index, onOpen }) {
   const isContain = image.fit === 'contain';
   const isWide = image.fit === 'wide';
   const ref = useRef(null);
+  const mediaRef = useRef(null);
+  useReviewMediaBlur(mediaRef);
 
   useEffect(() => {
     if (typeof window === 'undefined') return undefined;
@@ -102,10 +105,11 @@ function InlineImageThumbnail({ image, index, onOpen }) {
       }`}
     >
       <button
+        ref={mediaRef}
         type="button"
-        onClick={() => onOpen(index)}
-        className={`group relative block w-full overflow-hidden rounded-[1.25rem] ${(isContain || isWide) ? 'bg-white' : 'bg-[#f4f4f5]'}`}
-        aria-label={`Ampliar imagem ${index + 1}`}
+        onClick={(event) => onOpen(index, event.currentTarget)}
+        className={`group relative block w-full overflow-hidden rounded-[1.25rem] transition-[filter,opacity] duration-150 ${(isContain || isWide) ? 'bg-white' : 'bg-[#f4f4f5]'}`}
+        aria-label={`Ampliar imagem: ${image.alt}`}
       >
         <div
           className={`relative w-full ${
@@ -136,21 +140,84 @@ function InlineImageThumbnail({ image, index, onOpen }) {
 
 function Lightbox({ images, currentIndex, onClose, onNext, onPrev }) {
   const image = images[currentIndex];
+  const dialogRef = useRef(null);
+  const closeButtonRef = useRef(null);
 
   const handleBackdropClick = useCallback(() => {
     onClose();
   }, [onClose]);
 
+  useEffect(() => {
+    const dialog = dialogRef.current;
+    if (!dialog) return undefined;
+
+    const previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = 'hidden';
+    closeButtonRef.current?.focus();
+
+    const handleKeyDown = (event) => {
+      if (event.key === 'Escape') {
+        event.preventDefault();
+        onClose();
+        return;
+      }
+
+      if (event.key === 'ArrowLeft' && images.length > 1) {
+        event.preventDefault();
+        onPrev();
+        return;
+      }
+
+      if (event.key === 'ArrowRight' && images.length > 1) {
+        event.preventDefault();
+        onNext();
+        return;
+      }
+
+      if (event.key !== 'Tab') return;
+
+      const focusable = Array.from(dialog.querySelectorAll('button:not([disabled]), [href], [tabindex]:not([tabindex="-1"])'));
+      if (focusable.length === 0) {
+        event.preventDefault();
+        dialog.focus();
+        return;
+      }
+
+      const first = focusable[0];
+      const last = focusable[focusable.length - 1];
+      if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault();
+        last.focus();
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault();
+        first.focus();
+      }
+    };
+
+    document.addEventListener('keydown', handleKeyDown);
+    return () => {
+      document.body.style.overflow = previousOverflow;
+      document.removeEventListener('keydown', handleKeyDown);
+    };
+  }, [images.length, onClose, onNext, onPrev]);
+
   if (!image) return null;
+
+  const captionId = image.caption ? `review-lightbox-caption-${currentIndex}` : undefined;
 
   return (
     <div
+      ref={dialogRef}
       className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/90 p-4"
       role="dialog"
       aria-modal="true"
+      aria-label={`Imagem ampliada ${currentIndex + 1} de ${images.length}`}
+      aria-describedby={captionId}
+      tabIndex={-1}
       onClick={handleBackdropClick}
     >
       <button
+        ref={closeButtonRef}
         type="button"
         onClick={(e) => {
           e.stopPropagation();
@@ -207,7 +274,7 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev }) {
       )}
 
       {image.caption && (
-        <p className="mt-3 max-w-2xl text-center text-sm text-white/80">
+        <p id={captionId} className="mt-3 max-w-2xl text-center text-sm text-white/80">
           {image.caption}
         </p>
       )}
@@ -218,6 +285,17 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev }) {
 export default function ReviewInlineImage({ section, reviewTitle }) {
   const images = normalizeImages(section, reviewTitle);
   const [openIndex, setOpenIndex] = useState(null);
+  const lastTriggerRef = useRef(null);
+
+  const handleOpen = useCallback((index, trigger) => {
+    lastTriggerRef.current = trigger;
+    setOpenIndex(index);
+  }, []);
+
+  const handleClose = useCallback(() => {
+    setOpenIndex(null);
+    window.requestAnimationFrame(() => lastTriggerRef.current?.focus());
+  }, []);
 
   const handleNext = useCallback(() => {
     setOpenIndex((prev) => (prev === null ? null : (prev + 1) % images.length));
@@ -242,7 +320,7 @@ export default function ReviewInlineImage({ section, reviewTitle }) {
             key={`${image.src}-${index}`}
             image={image}
             index={index}
-            onOpen={setOpenIndex}
+            onOpen={handleOpen}
           />
         ))}
       </div>
@@ -251,7 +329,7 @@ export default function ReviewInlineImage({ section, reviewTitle }) {
         <Lightbox
           images={images}
           currentIndex={openIndex}
-          onClose={() => setOpenIndex(null)}
+          onClose={handleClose}
           onNext={handleNext}
           onPrev={handlePrev}
         />

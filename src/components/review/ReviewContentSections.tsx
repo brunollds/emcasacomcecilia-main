@@ -12,6 +12,9 @@ export interface ReviewContentSectionsProps {
   filterHeadings?: string[];
   kind?: ReviewKind;
   notes?: EditorialNoteData[];
+  reviewSlug?: string;
+  coupon?: string;
+  affiliate?: string;
 }
 
 function getStepNumber(heading?: string): string | null {
@@ -26,6 +29,9 @@ export function ReviewContentSections({
   filterHeadings = [],
   kind = 'editorial',
   notes = [],
+  reviewSlug,
+  coupon,
+  affiliate,
 }: ReviewContentSectionsProps): React.ReactElement | null {
   const visibleSections = sections.filter((section) => !filterHeadings.includes(section.heading || ''));
 
@@ -83,6 +89,9 @@ export function ReviewContentSections({
                 reviewTitle={reviewTitle}
                 isFirst={isFirst}
                 kind={kind}
+                reviewSlug={reviewSlug}
+                coupon={coupon}
+                affiliate={affiliate}
               />
             </MarginNoteRail>
           </EditorialReveal>

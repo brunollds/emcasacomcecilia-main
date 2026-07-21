@@ -3,6 +3,8 @@
 import Image from 'next/image';
 import { useEffect, useRef } from 'react';
 import { sanitizeViewTransitionName } from '@/lib/viewTransition';
+import { ReviewLoopVideo } from './ReviewLoopVideo';
+import { useReviewMediaBlur } from './useReviewMediaBlur';
 
 export interface ReviewHeroImageProps {
   src: string;
@@ -54,6 +56,7 @@ export function ReviewHeroImage({
   const effectiveObjectContain = !imageAspect && objectContain;
   const wrapRef = useRef<HTMLDivElement>(null);
   const imgRef = useRef<HTMLDivElement>(null);
+  useReviewMediaBlur(imgRef);
 
   useEffect(() => {
     if (typeof window === 'undefined') return undefined;
@@ -66,12 +69,9 @@ export function ReviewHeroImage({
 
       if (isMobile()) {
         imgRef.current.style.transform = 'translateY(0px)';
-        imgRef.current.style.filter = 'blur(0px)';
-        imgRef.current.style.opacity = '1';
         return;
       }
 
-      const scrolled = window.scrollY;
       const viewportHeight = window.innerHeight;
 
       // Parallax vertical para hero landscape. Reduced motion mantém blur/opacidade,
@@ -85,17 +85,6 @@ export function ReviewHeroImage({
       } else {
         imgRef.current.style.transform = 'translateY(0px)';
       }
-
-      // Mantém o hero nítido no começo da leitura e só aplica foco/desfoque
-      // depois que o usuário já passou pelo cabeçalho.
-      const effectStart = 240;
-      const effectEnd = 680;
-      const progress = Math.max(0, Math.min(1, (scrolled - effectStart) / (effectEnd - effectStart)));
-      const nextBlur = Math.round(progress * 8 * 10) / 10;
-      const nextOpacity = Math.round((1 - progress * 0.22) * 100) / 100;
-
-      imgRef.current.style.filter = `blur(${nextBlur}px)`;
-      imgRef.current.style.opacity = `${nextOpacity}`;
     };
 
     const onScroll = () => {
@@ -147,12 +136,12 @@ export function ReviewHeroImage({
         style={effectivePortrait || effectiveObjectContain || effectiveLandscape || effectiveSquare ? {} : { height: '120%', marginTop: '-10%' }}
       >
         {video ? (
-          <video
-            autoPlay
-            muted
-            loop
-            playsInline
+          <ReviewLoopVideo
+            mp4={video.mp4}
+            webm={video.webm}
             poster={video.poster}
+            ariaLabel={alt}
+            preload="auto"
             className={
               (effectivePortrait || effectiveSquare) && imageFit === 'contain'
                 ? 'object-contain bg-white transition-transform duration-700 group-hover:scale-[1.02] md:p-2 w-full h-full'
@@ -164,11 +153,7 @@ export function ReviewHeroImage({
                       ? 'object-contain bg-white p-2 transition-transform duration-700 group-hover:scale-[1.02] md:p-3 w-full h-full'
                       : 'object-cover transition-transform duration-700 group-hover:scale-[1.03] w-full h-full'
             }
-          >
-            {video.webm && <source src={video.webm} type="video/webm" />}
-            <source src={video.mp4} type="video/mp4" />
-            Seu navegador não suporta vídeos.
-          </video>
+          />
         ) : (
           <Image
             src={src}

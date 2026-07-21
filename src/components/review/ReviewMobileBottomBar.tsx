@@ -11,7 +11,7 @@ export interface ReviewMobileBottomBarProps {
   review?: Review;
   kind?: ReviewKind;
   tocItems?: TocItem[];
-  effectiveCta?: { url: string; label: string; text?: string } | null;
+  effectiveCta?: { url: string; label: string; text?: string; sponsored?: boolean } | null;
 }
 
 export function ReviewMobileBottomBar({
@@ -74,6 +74,7 @@ export function ReviewMobileBottomBar({
             tocItems={tocItems}
             effectiveCta={effectiveCta}
             onTocLinkClick={() => setDrawerOpen(false)}
+            conversionPlacement="review_mobile_drawer"
           />
         </BottomSheet>
       )}

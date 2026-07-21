@@ -28803,8 +28803,11 @@ export const reviewsData: unknown[] = [
     "id": 232,
     "slug": "poltrona-damie-e-boa",
     "title": "Poltrona Damie é boa? Minha experiência com a nova versão 2.0",
+    "seoTitle": "Poltrona Damie é boa? Minha experiência com a versão 2.0",
     "type": "Móveis & Conforto",
     "reviewKind": "produto",
+    "productName": "Poltrona Reclinável Damie 2.0",
+    "brand": "Damie",
     "rating": 5,
     "ratingCount": 14,
     "description": "Análise completa da nova Poltrona Reclinável Damie 2.0 (versão 2026). Testamos a versão elétrica com massagem, giro, balanço, mesa de apoio e cupom CECILIA12.",
@@ -28827,8 +28830,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "image": "/images/reviews/poltrona-reclinavel-cecilia-botao-reclinacao.webp",
-    "imageAlt": "Cecília Mauad usando a poltrona reclinável Damie e acionando o botão de reclinação.",
+    "image": "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada.webp",
+    "imageAlt": "Cecília Mauad sentada na Poltrona Reclinável Damie 2.0 na cor caramelo.",
     "imageFit": "cover",
     "pros": [
       "Base elétrica com giro 360° e balanço suave (modelo testado)",
@@ -28887,10 +28890,12 @@ export const reviewsData: unknown[] = [
     "cta": {
       "text": "Siga para a loja oficial da Damie, monte a sua Poltrona Damie 2.0 e economize 12% com o cupom CECILIA12.",
       "label": "Seguir para a loja oficial da Damie",
-      "url": "https://damie.emcasacomcecilia.com"
+      "url": "https://damie.emcasacomcecilia.com",
+      "sponsored": true
     },
     "coupon": "CECILIA12",
-    "editorialNote": "Este artigo foi produzido a partir de nossa experiência real com a poltrona em casa. O cupom CECILIA12 é parte de nossa parceria comercial com a Damie, gerando comissão para o blog em compras elegíveis, sem custo adicional para você. O conteúdo é independente e focado em guiar sua decisão de compra.",
+    "affiliate": "damie",
+    "editorialNote": "Este artigo foi produzido a partir de nossa experiência real. O cupom CECILIA12 é parte de nossa parceria comercial com a Damie, sem custo adicional para você.",
     "relatedArticles": [
       {
         "slug": "sofa-damie-modular-vale-a-pena",
@@ -29034,7 +29039,9 @@ export const reviewsData: unknown[] = [
           }
         ],
         "video": {
-          "mp4": "/videos/reviews/damie/poltrona-reclinavel-damie-2-0-loop.mp4"
+          "mp4": "/videos/reviews/damie/poltrona-reclinavel-damie-2-0-loop.mp4",
+          "poster": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-1.webp",
+          "alt": "Poltrona Damie 2.0 em movimento durante a demonstração das conexões e da montagem"
         }
       },
       {
@@ -29066,7 +29073,8 @@ export const reviewsData: unknown[] = [
     ],
     "imageAspect": "square",
     "video": {
-      "mp4": "/videos/reviews/damie/poltrona-reclinavel-damie-2-0-hero-loop.mp4"
+      "mp4": "/videos/reviews/damie/poltrona-reclinavel-damie-2-0-hero-loop.mp4",
+      "poster": "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada.webp"
     }
   },
   {

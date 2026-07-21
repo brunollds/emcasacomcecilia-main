@@ -1,7 +1,7 @@
 'use client';
 
 import { CheckCircle2, Star, XCircle } from 'lucide-react';
-import { EditorialReveal, SectionLinkButton } from '@/components/editorial';
+import { EditorialReveal } from '@/components/editorial';
 import type { Review, ReviewKind } from '@/lib/content';
 
 export interface ReviewVerdictCardProps {
@@ -77,7 +77,7 @@ export function ReviewVerdictCard({
   );
 
   return (
-    <EditorialReveal as="section" id="veredito" className="mb-10 space-y-6 scroll-mt-24">
+    <EditorialReveal as="section" className="mb-10 space-y-6">
       {(hasVerdict || hasRating) && (
         <div className="relative overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft">
           {showSeal && (
@@ -106,7 +106,6 @@ export function ReviewVerdictCard({
                 <p className="text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/55">
                   Veredito
                 </p>
-                <SectionLinkButton anchorId="veredito" />
               </div>
               <p className="font-editorial text-lg italic leading-relaxed text-[#24313d]">
                 &quot;{summary}&quot;

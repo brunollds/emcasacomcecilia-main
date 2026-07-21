@@ -114,7 +114,7 @@ export function CouponBottomBar({
             <a
               href={cta!.url}
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               onClick={() => trackEvent('coupon_store_click', {
                 coupon_code: coupon,
                 placement: 'bottom_bar',

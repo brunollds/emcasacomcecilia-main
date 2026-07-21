@@ -4,6 +4,8 @@ import { ArrowRight, Check, Copy, ExternalLink, Star } from 'lucide-react';
 import Link from 'next/link';
 import { useEffect, useRef, useState } from 'react';
 import { copyTextWithFallback } from '@/lib/clipboardUtils';
+import { trackEvent } from '@/lib/analytics';
+import { CouponStoreLink } from '@/components/CouponComponents';
 import type { TocItem } from './ReviewTableOfContents';
 import type { Review, ReviewKind } from '@/lib/content';
 
@@ -11,8 +13,10 @@ export interface ReviewSidebarProps {
   review: Review;
   kind: ReviewKind;
   tocItems: TocItem[];
-  effectiveCta?: { url: string; label: string; text?: string } | null;
+  effectiveCta?: { url: string; label: string; text?: string; sponsored?: boolean } | null;
 }
+
+type ReviewConversionPlacement = 'review_sidebar' | 'review_mobile_drawer';
 
 function StarRating({ rating }: { rating: number }): React.ReactElement {
   const fullStars = Math.floor(rating);
@@ -40,9 +44,15 @@ function StarRating({ rating }: { rating: number }): React.ReactElement {
 export function SidebarConversionCards({
   coupon,
   effectiveCta,
+  reviewSlug,
+  affiliate,
+  placement = 'review_sidebar',
 }: {
   coupon?: string;
-  effectiveCta?: { url: string; label: string; text?: string } | null;
+  effectiveCta?: { url: string; label: string; text?: string; sponsored?: boolean } | null;
+  reviewSlug: string;
+  affiliate?: string;
+  placement?: ReviewConversionPlacement;
 }): React.ReactElement | null {
   const [copied, setCopied] = useState(false);
   const timeoutRef = useRef<NodeJS.Timeout | null>(null);
@@ -52,6 +62,13 @@ export function SidebarConversionCards({
 
     const success = await copyTextWithFallback(coupon);
     if (!success) return;
+
+    trackEvent('coupon_copy', {
+      coupon_code: coupon,
+      ...(affiliate && { brand: affiliate }),
+      content_slug: reviewSlug,
+      placement,
+    });
 
     setCopied(true);
 
@@ -100,15 +117,18 @@ export function SidebarConversionCards({
       )}
 
       {effectiveCta?.url && effectiveCta?.label && (
-        <a
+        <CouponStoreLink
           href={effectiveCta.url}
-          target="_blank"
-          rel="noopener noreferrer"
+          couponCode={coupon}
+          brand={affiliate}
+          contentSlug={reviewSlug}
+          sponsored={effectiveCta.sponsored}
+          placement={placement}
           className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#ff6b35] px-5 py-2.5 text-sm font-bold text-white transition-all hover:-translate-y-0.5 hover:bg-[#e55a26] hover:shadow-md"
         >
           {effectiveCta.label}
           <ExternalLink size={16} />
-        </a>
+        </CouponStoreLink>
       )}
     </div>
   );
@@ -118,8 +138,9 @@ export interface ReviewSidebarContentProps {
   review: Review;
   kind: ReviewKind;
   tocItems: TocItem[];
-  effectiveCta?: { url: string; label: string; text?: string } | null;
+  effectiveCta?: { url: string; label: string; text?: string; sponsored?: boolean } | null;
   onTocLinkClick?: () => void;
+  conversionPlacement?: ReviewConversionPlacement;
 }
 
 export function ReviewSidebarContent({
@@ -128,6 +149,7 @@ export function ReviewSidebarContent({
   tocItems,
   effectiveCta,
   onTocLinkClick,
+  conversionPlacement = 'review_sidebar',
 }: ReviewSidebarContentProps): React.ReactElement | null {
   // Unified order for all kinds
   const stars = kind === 'produto' ? review.verdict?.stars ?? review.rating : undefined;
@@ -165,7 +187,15 @@ export function ReviewSidebarContent({
       )}
 
       {/* 2. Conversion cards (coupon + CTA) */}
-      {hasConversionContent && <SidebarConversionCards coupon={review.coupon} effectiveCta={effectiveCta} />}
+      {hasConversionContent && (
+        <SidebarConversionCards
+          coupon={review.coupon}
+          effectiveCta={effectiveCta}
+          reviewSlug={review.slug}
+          affiliate={review.affiliate}
+          placement={conversionPlacement}
+        />
+      )}
 
       {/* 3. Verdict card (only produto with stars) */}
       {typeof stars === 'number' && (

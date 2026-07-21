@@ -69,6 +69,7 @@ export interface InstructionMedia {
 export interface ContentSectionLink {
   label: string;
   href: string;
+  sponsored?: boolean;
 }
 
 export interface ContentSectionImage {
@@ -182,6 +183,8 @@ export interface Review {
   reviewKind?: 'produto' | 'guia' | 'editorial';
   rating?: number;
   ratingCount?: number;
+  productName?: string;
+  brand?: string;
   description: string;
   publishedAt: string;
   publishedAtISO?: string;
@@ -227,9 +230,11 @@ export interface Review {
     text: string;
     label: string;
     url: string;
+    sponsored?: boolean;
   };
   coupon?: string;
   editorialNote?: string;
+  seoTitle?: string;
   metaDescription?: string;
   canonical?: string;
   relatedArticles?: {
@@ -258,6 +263,7 @@ export interface Review {
       mp4: string;
       webm?: string;
       poster?: string;
+      alt?: string;
     };
   }[];
 }

@@ -46,22 +46,36 @@ export async function generateMetadata({ params }) {
   }
 
   const seoDescription = review.metaDescription || review.description;
+  const seoTitle = review.seoTitle || review.title;
+  const documentTitle = seoTitle.length <= 42
+    ? `${seoTitle} - Em Casa com Cecília`
+    : seoTitle;
+  const socialImage = review.image
+    ? [{ url: review.image, alt: review.imageAlt || review.title }]
+    : undefined;
 
   return {
-    title: `${review.title} - Em Casa com Cecília`,
+    title: documentTitle,
     description: seoDescription,
     alternates: {
       canonical: url,
       ...(Object.keys(languages).length > 0 ? { languages } : {})
     },
     openGraph: {
-      title: review.title,
+      title: seoTitle,
       description: seoDescription,
       url,
       type: 'article',
-      images: review.image
-        ? [{ url: review.image, alt: review.imageAlt || review.title }]
-        : undefined,
+      publishedTime: review.publishedAtISO,
+      modifiedTime: review.updatedAt,
+      authors: review.authors?.map((author) => author.name),
+      images: socialImage,
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: seoTitle,
+      description: seoDescription,
+      images: review.image ? [review.image] : undefined,
     },
   };
 }

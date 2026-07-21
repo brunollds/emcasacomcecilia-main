@@ -1,7 +1,8 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import { ArrowRight, ChevronRight, PlayCircle } from 'lucide-react';
+import { ArrowRight, ChevronRight, PlayCircle, ShieldCheck } from 'lucide-react';
 import TextToSpeechButton from '@/components/TextToSpeechButton';
+import { CouponStoreLink } from '@/components/CouponComponents';
 import { ShareBar } from '@/components/shared/ShareBar';
 import { ReviewGallerySection } from './ReviewGallerySection';
 import { ArticleByline, ChangelogDetails, EditorialAmbientBackground, EditorialReveal, SectionHeadingReveal, SectionLinkButton, EditorialNotePill } from '@/components/editorial';
@@ -68,6 +69,22 @@ function getCouponCopyLocale(slug: string): CouponCopyLocale {
   return localesBySlug[slug] || 'pt';
 }
 
+function getDisclosureLabel(locale: CouponCopyLocale): string {
+  const labels: Record<CouponCopyLocale, string> = {
+    pt: 'Transparência editorial',
+    en: 'Editorial transparency',
+    es: 'Transparencia editorial',
+    fr: 'Transparence éditoriale',
+    de: 'Redaktionelle Transparenz',
+    ko: '광고 및 제휴 안내',
+    ja: '広告・アフィリエイトについて',
+    'zh-hant': '聯盟行銷揭露',
+    'zh-hans': '联盟营销披露',
+  };
+
+  return labels[locale];
+}
+
 export function ReviewNotebookTemplate({
   review,
   viewModel,
@@ -113,14 +130,21 @@ export function ReviewNotebookTemplate({
   }
 
   const hasProductSpec = review.productSpec && review.productSpec.length > 0;
+  const hasCommercialRelationship = Boolean(
+    review.affiliate || (review.coupon && review.editorialNote)
+  );
   const verdictLinkCta = verdictSection?.links?.[0];
   const effectiveCta = review.cta?.url && review.cta?.label
-    ? review.cta
+    ? {
+        ...review.cta,
+        sponsored: review.cta.sponsored ?? hasCommercialRelationship,
+      }
     : verdictLinkCta
       ? {
           url: verdictLinkCta.href,
           label: verdictLinkCta.label,
           text: verdictSection?.paragraphs?.at(-1) || review.description,
+          sponsored: verdictLinkCta.sponsored ?? hasCommercialRelationship,
         }
       : null;
   const hasCta = Boolean(effectiveCta?.url && effectiveCta?.label);
@@ -280,6 +304,25 @@ export function ReviewNotebookTemplate({
               )}
             </EditorialReveal>
 
+            {review.editorialNote && (
+              <EditorialReveal
+                as="aside"
+                delay={0.22}
+                className="mb-6 flex max-w-3xl items-start gap-3 rounded-xl border border-[#1a4d2e]/15 bg-[#eef7f1] px-4 py-3 text-[#24313d]"
+                aria-label={getDisclosureLabel(couponCopyLocale)}
+              >
+                <ShieldCheck className="mt-0.5 h-5 w-5 flex-shrink-0 text-[#1a4d2e]" aria-hidden="true" />
+                <div>
+                  <p className="text-[11px] font-bold uppercase tracking-[0.14em] text-[#1a4d2e]">
+                    {getDisclosureLabel(couponCopyLocale)}
+                  </p>
+                  <p className="mt-1 text-sm leading-relaxed text-[#4a5568]">
+                    {review.editorialNote}
+                  </p>
+                </div>
+              </EditorialReveal>
+            )}
+
             <ReviewHighlightChips review={review} kind={kind} />
 
             {/* Hero image */}
@@ -328,10 +371,11 @@ export function ReviewNotebookTemplate({
                       <div className="border-t border-[#1a4d2e]/10 px-6 pb-6 md:px-8 md:pb-8">
                         <div className="mt-5 overflow-hidden rounded-xl border border-[#1a4d2e]/10">
                           <table className="w-full text-sm">
+                            <caption className="sr-only">Ficha técnica do produto avaliado</caption>
                             <tbody>
                               {review.productSpec.map((spec, index) => (
                                 <tr key={index} className={index % 2 === 0 ? 'bg-[#faf8f3]' : 'bg-white'}>
-                                  <th className="w-2/5 px-4 py-3 text-left font-semibold text-[#1a4d2e]">
+                                  <th scope="row" className="w-2/5 px-4 py-3 text-left font-semibold text-[#1a4d2e]">
                                     {spec.key}
                                   </th>
                                   <td className={`px-4 py-3 font-medium ${spec.highlight ? 'text-[#ff6b35]' : 'text-[#0f1419]'}`}>
@@ -345,7 +389,7 @@ export function ReviewNotebookTemplate({
                       </div>
                     </details>
                     <div className="pt-4">
-                      <SectionLinkButton anchorId="especificacoes" />
+                      <SectionLinkButton anchorId="especificacoes" label="Copiar link da ficha do produto" />
                     </div>
                   </div>
                 </EditorialReveal>
@@ -361,6 +405,9 @@ export function ReviewNotebookTemplate({
                     filterHeadings={filteredHeadings}
                     kind={kind}
                     notes={notes}
+                    reviewSlug={review.slug}
+                    coupon={review.coupon}
+                    affiliate={review.affiliate}
                   />
                   {stepSections.length > 0 && (
                     <div className="mt-12">
@@ -376,6 +423,9 @@ export function ReviewNotebookTemplate({
                         filterHeadings={filteredHeadings}
                         kind={kind}
                         notes={notes}
+                        reviewSlug={review.slug}
+                        coupon={review.coupon}
+                        affiliate={review.affiliate}
                       />
                     </div>
                   )}
@@ -388,6 +438,9 @@ export function ReviewNotebookTemplate({
                   filterHeadings={filteredHeadings}
                   kind={kind}
                   notes={notes}
+                  reviewSlug={review.slug}
+                  coupon={review.coupon}
+                  affiliate={review.affiliate}
                 />
               )}
 
@@ -409,16 +462,19 @@ export function ReviewNotebookTemplate({
                   {verdictSection.links && verdictSection.links.length > 0 && (
                     <div className="mt-8 flex flex-wrap gap-4">
                       {verdictSection.links.map((link) => (
-                        <a
+                        <CouponStoreLink
                           key={link.href}
                           href={link.href}
-                          target="_blank"
-                          rel="noopener noreferrer"
+                          couponCode={review.coupon}
+                          brand={review.affiliate}
+                          contentSlug={review.slug}
+                          sponsored={link.sponsored ?? hasCommercialRelationship}
+                          placement="review_inline"
                           className="inline-flex items-center gap-1.5 rounded-full bg-[#0f1d3a] px-5 py-2.5 text-sm font-bold text-white transition-all hover:-translate-y-0.5 hover:bg-[#ff6b35] hover:shadow-md"
                         >
                           {link.label}
                           <ArrowRight size={16} />
-                        </a>
+                        </CouponStoreLink>
                       ))}
                     </div>
                   )}
@@ -469,15 +525,18 @@ export function ReviewNotebookTemplate({
                         {effectiveCta?.text}
                       </p>
                     </div>
-                    <a
+                    <CouponStoreLink
                       href={effectiveCta?.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
+                      couponCode={review.coupon}
+                      brand={review.affiliate}
+                      contentSlug={review.slug}
+                      sponsored={effectiveCta?.sponsored}
+                      placement="review_final_cta"
                       className="inline-flex flex-shrink-0 items-center rounded-full bg-[#ff6b35] px-6 py-3 text-sm font-bold text-white shadow-md transition-all duration-200 hover:-translate-y-1 hover:bg-[#e55a26] hover:shadow-lg"
                     >
                       {effectiveCta?.label}
                       <ArrowRight size={16} className="ml-2" />
-                    </a>
+                    </CouponStoreLink>
                   </div>
                 </EditorialReveal>
               )}
@@ -493,7 +552,7 @@ export function ReviewNotebookTemplate({
                     >
                       Veredito final
                     </SectionHeadingReveal>
-                    <SectionLinkButton anchorId="veredito" />
+                    <SectionLinkButton anchorId="veredito" label="Copiar link do veredito final" />
                   </div>
                   <div className="space-y-6">
                     <ReviewVerdictCard review={review} kind={kind} />
