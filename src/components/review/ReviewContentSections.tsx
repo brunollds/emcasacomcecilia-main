@@ -18,8 +18,15 @@ export interface ReviewContentSectionsProps {
 }
 
 function getStepNumber(heading?: string): string | null {
-  const match = heading?.match(/^(?:Passo\s+|Step\s+)?(\d+)(?:[\.\):\s]|\s+)/i);
-  return match?.[1] || null;
+  const match = heading?.match(/^(?:(?:Passo|Step)\s+)?(\d+)[\.\):]\s+|^(?:Passo|Step)\s+(\d+)\s+/i);
+  return match?.[1] || match?.[2] || null;
+}
+
+function removeStepPrefix(heading: string): string {
+  return heading.replace(
+    /^(?:(?:Passo|Step)\s+)?\d+[\.\):]\s+|^(?:Passo|Step)\s+\d+\s+/i,
+    ''
+  );
 }
 
 export function ReviewContentSections({
@@ -70,7 +77,7 @@ export function ReviewContentSections({
                     underlineColor="#ff6b35"
                     className={`${stepNumber ? 'mb-0 pt-1' : 'mb-5'} font-editorial text-2xl font-bold text-[#1a4d2e]`}
                   >
-                    {stepNumber ? section.heading.replace(/^\d+\.\s+/, '') : section.heading}
+                    {stepNumber ? removeStepPrefix(section.heading) : section.heading}
                   </SectionHeadingReveal>
                   {sectionIdNotes.length > 0 && (
                     <div className="mt-3 flex flex-wrap gap-2">

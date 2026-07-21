@@ -28833,6 +28833,7 @@ export const reviewsData: unknown[] = [
     "image": "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada.webp",
     "imageAlt": "Cecília Mauad sentada na Poltrona Reclinável Damie 2.0 na cor caramelo.",
     "imageFit": "cover",
+    "youtubeUrl": "https://youtube.com/shorts/B8L2YJC8gaE?si=vlYdQlHOWvhfYVAv",
     "pros": [
       "Base elétrica com giro 360° e balanço suave (modelo testado)",
       "Motor independente de cabeça e pescoço que melhora o apoio para ler ou ver TV",
