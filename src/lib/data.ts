@@ -254,6 +254,11 @@ export interface Review {
       heading: string;
       paragraphs: string[];
     };
+    video?: {
+      mp4: string;
+      webm?: string;
+      poster?: string;
+    };
   }[];
 }
 

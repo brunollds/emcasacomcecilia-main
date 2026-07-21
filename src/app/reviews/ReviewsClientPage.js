@@ -52,9 +52,10 @@ const uniqueTypes = ['Todos', ...Array.from(new Set(listedReviews.map((r) => r.t
 
 const sortReviewsByDateDesc = (items) =>
   [...items].sort((a, b) => {
+    const newnessOrder = Number(Boolean(b.isNew)) - Number(Boolean(a.isNew));
     const dateA = a.publishedAtISO ? Date.parse(a.publishedAtISO) : 0;
     const dateB = b.publishedAtISO ? Date.parse(b.publishedAtISO) : 0;
-    return dateB - dateA || b.id - a.id;
+    return newnessOrder || dateB - dateA || b.id - a.id;
   });
 
 export default function ReviewsClientPage() {

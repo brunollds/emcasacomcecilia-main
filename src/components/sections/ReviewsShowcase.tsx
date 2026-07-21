@@ -41,9 +41,10 @@ const estimateReadingTime = (review: (typeof publishedReviews)[number]) => {
 
 const sortReviewsByDateDesc = (items: typeof publishedReviews) =>
   [...items].sort((a, b) => {
+    const newnessOrder = Number(Boolean(b.isNew)) - Number(Boolean(a.isNew));
     const dateA = a.publishedAtISO ? Date.parse(a.publishedAtISO) : 0;
     const dateB = b.publishedAtISO ? Date.parse(b.publishedAtISO) : 0;
-    return dateB - dateA || b.id - a.id;
+    return newnessOrder || dateB - dateA || b.id - a.id;
   });
 
 const COUPON_TO_AFFILIATE: Record<string, string> = {

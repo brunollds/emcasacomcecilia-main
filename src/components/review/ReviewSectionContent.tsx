@@ -156,6 +156,23 @@ export function ReviewSectionContent({
         <ReviewInlineImage section={section} reviewTitle={reviewTitle} />
       )}
 
+      {section.video && (
+        <div className="my-6 overflow-hidden rounded-[1.25rem] bg-[#f4f4f5] shadow-soft aspect-video max-w-2xl mx-auto">
+          <video
+            autoPlay
+            muted
+            loop
+            playsInline
+            poster={section.video.poster}
+            className="w-full h-full object-cover"
+          >
+            {section.video.webm && <source src={section.video.webm} type="video/webm" />}
+            <source src={section.video.mp4} type="video/mp4" />
+            Seu navegador não suporta vídeos.
+          </video>
+        </div>
+      )}
+
       {shouldRenderProsConsTable && (
         <div className="mt-6 overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft">
           <div className="grid gap-0 md:hidden">

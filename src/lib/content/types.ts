@@ -258,6 +258,11 @@ export interface ContentSection {
     heading: string;
     paragraphs: string[];
   };
+  video?: {
+    mp4: string;
+    webm?: string;
+    poster?: string;
+  };
 }
 
 export interface GalleryImage {

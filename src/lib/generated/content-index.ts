@@ -28800,6 +28800,276 @@ export const recipesData: unknown[] = [
 
 export const reviewsData: unknown[] = [
   {
+    "id": 232,
+    "slug": "poltrona-damie-e-boa",
+    "title": "Poltrona Damie é boa? Minha experiência com a nova versão 2.0",
+    "type": "Móveis & Conforto",
+    "reviewKind": "produto",
+    "rating": 5,
+    "ratingCount": 14,
+    "description": "Análise completa da nova Poltrona Reclinável Damie 2.0 (versão 2026). Testamos a versão elétrica com massagem, giro, balanço, mesa de apoio e cupom CECILIA12.",
+    "metaDescription": "Análise da Poltrona Reclinável Damie 2.0. Veja os opcionais de massagem, mesa, motor de cabeça e use o cupom CECILIA12 para ganhar 12% de desconto.",
+    "publishedAt": "21 Jul 2026",
+    "publishedAtISO": "2026-07-21",
+    "isNew": true,
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "image": "/images/reviews/poltrona-reclinavel-cecilia-botao-reclinacao.webp",
+    "imageAlt": "Cecília Mauad usando a poltrona reclinável Damie e acionando o botão de reclinação.",
+    "imageFit": "cover",
+    "pros": [
+      "Base elétrica com giro 360° e balanço suave (modelo testado)",
+      "Motor independente de cabeça e pescoço que melhora o apoio para ler ou ver TV",
+      "Acessórios modulares (luminária touch, suporte de tablet e mesa giratória)",
+      "Revestimento em Courino Importado praticamente impermeável e fácil de limpar",
+      "Estrutura robusta com capacidade informada de até 160 kg",
+      "Sistema de massagem por vibração silencioso no uso diário"
+    ],
+    "cons": [
+      "Custo elevado por ser um produto de alto padrão totalmente personalizável",
+      "Opcionais de tecnologia (motores extras, massagem e indução) encarecem o produto",
+      "Exige uma tomada próxima na sala para alimentar os motores elétricos"
+    ],
+    "pullQuote": "Parece um abraço ou um colo de mãe. A poltrona Damie 2.0 une o relaxamento da reclinação elétrica silenciosa com a praticidade de uma mesa giratória e revestimento impermeável.",
+    "verdict": {
+      "stars": 5,
+      "recommendation": "recomendo",
+      "summary": "Para nós, a Poltrona Damie 2.0 vale a pena para quem prioriza conforto, personalização e recursos elétricos e aceita investir mais por isso."
+    },
+    "productSpec": [
+      {
+        "key": "Marca",
+        "value": "Damie"
+      },
+      {
+        "key": "Versão",
+        "value": "2.0 (Lançamento 2026)"
+      },
+      {
+        "key": "Mecanismo testado",
+        "value": "Elétrica com giro, balanço e massagem"
+      },
+      {
+        "key": "Revestimento",
+        "value": "Courino Importado caramelo (praticamente impermeável)"
+      },
+      {
+        "key": "Dimensões",
+        "value": "106,5 cm (A) × 89 cm (P) × 95 cm (L)"
+      },
+      {
+        "key": "Comprimento reclinada",
+        "value": "174 cm na posição quase deitada"
+      },
+      {
+        "key": "Capacidade Máxima",
+        "value": "160 kg"
+      },
+      {
+        "key": "Cupom de Desconto",
+        "value": "CECILIA12 (12% OFF no site da Damie)",
+        "highlight": true
+      }
+    ],
+    "cta": {
+      "text": "Siga para a loja oficial da Damie, monte a sua Poltrona Damie 2.0 e economize 12% com o cupom CECILIA12.",
+      "label": "Seguir para a loja oficial da Damie",
+      "url": "https://damie.emcasacomcecilia.com"
+    },
+    "coupon": "CECILIA12",
+    "editorialNote": "Este artigo foi produzido a partir de nossa experiência real com a poltrona em casa. O cupom CECILIA12 é parte de nossa parceria comercial com a Damie, gerando comissão para o blog em compras elegíveis, sem custo adicional para você. O conteúdo é independente e focado em guiar sua decisão de compra.",
+    "relatedArticles": [
+      {
+        "slug": "sofa-damie-modular-vale-a-pena",
+        "title": "Sofá Modular Damie: Vale a pena?"
+      },
+      {
+        "slug": "damie-reclame-aqui-o-que-os-dados-mostram",
+        "title": "Damie no Reclame Aqui: O que os dados mostram?"
+      },
+      {
+        "slug": "cupom-cecilia12-como-usar",
+        "title": "Cupom CECILIA12 na Damie: Como usar?"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Como funciona a Poltrona Reclinável Damie 2.0",
+        "paragraphs": [
+          "A nova Poltrona Reclinável Damie 2.0 (versão 2026) é uma evolução relevante da linha de poltronas de cinema e amamentação da marca. Produzida sob medida pela indústria gaúcha Damie, ela vai além da reclinação: é uma estação de conforto que você monta e personaliza de acordo com o seu orçamento e gosto.",
+          "A Poltrona Damie 2.0 vale a pena para quem prioriza conforto, personalização e recursos elétricos e aceita investir mais por isso. Pode não compensar para quem procura uma poltrona simples, tem pouco espaço ou não pretende usar os opcionais tecnológicos.",
+          "É possível escolher o tipo de base (manual ou elétrica com balanço), o revestimento e acessórios como carregador, luminária touch e massageador. Em nossa experiência inicial, a ergonomia se mostrou muito confortável para salas de TV, home cinemas, quartos de bebê e cantos de leitura. Com o cupom Damie CECILIA12, você garante 12% de desconto no valor total do carrinho."
+        ],
+        "bullets": [
+          "Personalização total: escolha do mecanismo, revestimentos, cores e acessórios tecnológicos.",
+          "Mecanismo elétrico: ajuste milimétrico e motor silencioso que reclina suavemente.",
+          "Revestimento prático: opção de Courino Importado (praticamente impermeável), ideal para casas com pets e crianças.",
+          "Cupom exclusivo: digite CECILIA12 no checkout oficial para obter 12% de desconto."
+        ],
+        "emphasis": "A sensação ao sentar e reclinar na poltrona Damie 2.0 não é apenas de um abraço confortável, mas sim de um verdadeiro 'colo de mãe'. Em nossas primeiras semanas de uso, os motores elétricos se mostraram muito silenciosos e o ajuste, preciso.",
+        "emphasisAfterParagraph": 2,
+        "image": "/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp",
+        "imageAlt": "Medidas da Poltrona Damie 2.0 fechada e quase totalmente reclinada",
+        "imageCaption": "Medidas informadas pela fabricante: 106,5 cm de altura, 89 cm de profundidade, 95 cm de largura e 174 cm quando quase totalmente reclinada.",
+        "imageFit": "contain"
+      },
+      {
+        "heading": "Nossa Experiência Real",
+        "paragraphs": [
+          "Recebemos a Poltrona Damie 2.0 há menos de um mês e, desde então, ela vem sendo usada todos os dias por todos aqui de casa e também por nossas visitas. Nossa configuração é elétrica, com giro e balanço, revestida em Courino Importado caramelo.",
+          "Nessas primeiras semanas, a poltrona superou nossas expectativas de conforto. O motor elétrico de reclinação opera com ruído quase imperceptível, o que é ótimo para assistir a filmes ou ler à noite. Para nós, a combinação de giro e balanço com o revestimento praticamente impermeável transformou a poltrona em um refúgio depois de um dia corrido.",
+          "A configuração que estamos usando inclui massagem, motor independente de cabeça e pescoço, case fosco 3 em 1 com tomada, USB-A e USB-C, porta-copos, luminária, mesa de apoio e suporte com carregador para smartphones e tablets. Todos os opcionais encontraram utilidade na nossa rotina, mas a massagem foi o recurso favorito da Cecília.",
+          "Entre a emissão da nota fiscal e a chegada da poltrona passaram aproximadamente 15 dias corridos. A experiência de entrega foi ágil para um móvel produzido de forma personalizada.",
+          "As condições comerciais foram verificadas em 21 de julho de 2026: o código CECILIA12 oferece 12% de desconto em todo o catálogo e pode ser acumulado com mais 10% no PIX. A marca também informa parcelamento em até 12 vezes sem juros ou até 18 vezes com juros, além de possibilidade de frete grátis conforme a região. Essas condições podem ser alteradas pela fabricante."
+        ],
+        "bullets": [
+          "Conforto ergonômico excepcional com sensação de 'abraço' acolhedor.",
+          "Todos os opcionais instalados se mostraram úteis nas primeiras semanas de uso.",
+          "12% de desconto no carrinho aplicando o código CECILIA12."
+        ]
+      },
+      {
+        "heading": "Os Grandes Upgrades da Versão 2.0",
+        "paragraphs": [
+          "A Damie redesenhou a estrutura de suas poltronas reclináveis clássicas para entregar mais elegância e conforto no modelo 2.0. Os principais refinamentos estéticos e ergonômicos incluem:"
+        ],
+        "bullets": [
+          "Almofada Acolchoada Regulável: Desenvolvida para apoiar a cabeça e o pescoço. Costurada ao encosto, pode ser ajustada em diferentes posições para cada biotipo ou colocada para trás, liberando o encosto.",
+          "Bolsos Laterais Ampliados: Redesenhados com dois compartimentos amplos que ocupam a lateral, perfeitos para organizar controles, livros e celulares.",
+          "Novo Desenho do Apoio de Braço: Linhas retas e superfície contínua que modernizam o visual e integram USB e controles na altura das mãos.",
+          "Apoio de Pés Arredondado: Estrutura de espuma com maior altura e toque macio, favorecendo uma postura relaxada que distribui melhor o peso do corpo.",
+          "Porta-Copos Cromado: Acabamento metálico embutido no braço que combina praticidade com o novo desenho da peça."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/damie/poltrona-damie-2-0-almofada-regulavel.webp",
+            "alt": "Detalhe da almofada acolchoada regulável da Poltrona Damie 2.0",
+            "caption": "A almofada pode ser reposicionada para adaptar o apoio de cabeça e pescoço.",
+            "objectFit": "contain"
+          },
+          {
+            "src": "/images/reviews/damie/poltrona-damie-2-0-bolso-lateral.webp",
+            "alt": "Bolso lateral ampliado da Poltrona Damie 2.0",
+            "caption": "Os dois compartimentos laterais acomodam controles, livros e pequenos acessórios.",
+            "objectFit": "contain"
+          },
+          {
+            "src": "/images/reviews/damie/poltrona-damie-2-0-apoio-pes.webp",
+            "alt": "Apoio de pés arredondado da Poltrona Damie 2.0 em uso",
+            "caption": "O apoio de pés ganhou formato arredondado, mais altura e uma camada macia de espuma.",
+            "objectFit": "contain"
+          }
+        ]
+      },
+      {
+        "heading": "4 Versões de Mecanismo e Base",
+        "paragraphs": [
+          "Ao encomendar a sua poltrona Damie 2.0, o primeiro passo é selecionar a mecânica de movimentação e a estrutura da base. Existem quatro versões disponíveis:",
+          "1. Manual com Base Fixa (Gatilho): O modelo clássico e mais acessível. A reclinação é acionada puxando um gatilho lateral de plástico e empurrando o encosto com o peso do corpo.",
+          "2. Elétrica com Base Fixa: A poltrona reclina através de botões elétricos discretos no braço da cadeira. Ideal para quem quer ajuste sem esforço, mas não precisa de movimentação rotativa.",
+          "3. Elétrica com Base de Giro e Balanço (a nossa versão): A opção mais completa da linha. Além de reclinar de forma elétrica, a base permite giro de 360 graus e um balanço suave e relaxante.",
+          "4. Elétrica com Base Fixa e Elevação: Desenvolvida para idosos, gestantes ou pessoas com limitações motoras. A cadeira reclina eletricamente e também se inclina fisicamente para a frente, ajudando a pessoa a se levantar sem forçar as articulações."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Tipos de Revestimento: Por que escolhemos o Courino Importado?",
+        "paragraphs": [
+          "A Damie oferece cinco revestimentos para a estrutura da poltrona: Suede (toque clássico aveludado), Bouclé (textura moderna e visual volumoso), Linho (elegante e fresco), Courino Importado e Couro Bovino Original (material nobre disponível em até 10 cores).",
+          "Em nossa casa, escolhemos o Courino Importado na cor caramelo. Embora comer ou beber sobre um estofado sofisticado pareça arriscado, o material é praticamente impermeável. Em nosso uso, líquidos ficam na superfície e podem ser removidos com um pano úmido, o que deixa a poltrona muito mais prática para a rotina da família."
+        ],
+        "bullets": [
+          "Suede, Bouclé e Linho: Toques têxteis confortáveis e respiráveis.",
+          "Courino Importado: O mais prático contra manchas, pelos de animais e derramamento de líquidos.",
+          "Couro Bovino Original: Toque sofisticado, boa expectativa de durabilidade e catálogo de até 10 cores."
+        ]
+      },
+      {
+        "heading": "Acessórios Opcionais: Monte sua Estação Tecnológica",
+        "paragraphs": [
+          "Um dos diferenciais da Damie 2.0 é o catálogo de acessórios modulares. Nossa configuração reúne massagem, motor independente de cabeça e pescoço, case fosco 3 em 1, porta-copos, luminária, mesa de apoio e suporte com carregador para dispositivos móveis. Todos foram usados e se mostraram úteis nessas primeiras semanas:"
+        ],
+        "bullets": [
+          "Sistema de Massagem por Vibração: O massageador tem controle remoto e funcionou de maneira silenciosa em nosso uso. Foi o opcional favorito da Cecília.",
+          "Motor Independente de Cabeça e Pescoço: Ajusta o apoio para a frente e ajuda a encontrar uma posição confortável para ler ou assistir TV mesmo com a poltrona reclinada.",
+          "Mesa de Apoio Giratória: A bandeja se encaixa no braço, gira e oferece uma base estável para notebook, prato ou bloco de anotações.",
+          "Luminária com Controle Touch: A haste flexível com LED permite ler à noite sem iluminar o restante do cômodo.",
+          "Suporte com Carregador para Smartphone ou Tablet: Mantém o dispositivo na altura dos olhos e permite carregá-lo durante o uso.",
+          "Case Fosco 3 em 1: Reúne tomada no padrão brasileiro, porta USB-A e porta USB-C ao alcance das mãos.",
+          "Porta-Copos: Fica embutido no braço e ajuda a manter a bebida estável e acessível."
+        ]
+      },
+      {
+        "heading": "Montagem Simples e Conexões Internas",
+        "paragraphs": [
+          "A montagem da Poltrona Damie 2.0 segue o padrão prático da marca. O produto chega em duas partes principais: o assento (base) e o encosto. Para montar, basta deslizar os trilhos metálicos do encosto nas guias do assento até ouvir o clique de travamento.",
+          "Na parte traseira do assento, ficam organizados os fios e conectores rápidos dos motores. Com um sistema de encaixe simples do tipo macho-fêmea, você conecta o cabo de energia principal da fonte bivolt, o cabo de sinal do motor de ajuste de cabeça independente e a fiação do sistema de massagem. Nas fotos abaixo, mostramos a poltrona sem o encosto acoplado e o detalhe das conexões elétricas:"
+        ],
+        "bullets": [],
+        "images": [
+          {
+            "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-1.webp",
+            "alt": "Parte de trás do assento da poltrona Damie 2.0 mostrando a fiação dos motores",
+            "caption": "Conexões elétricas dos motores e do massageador por vibração.",
+            "objectFit": "contain"
+          },
+          {
+            "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-2.webp",
+            "alt": "Trilho metálico da base do assento da poltrona Damie 2.0 sem o encosto",
+            "caption": "Estrutura interna em madeira de eucalipto e compensado naval com os trilhos de encaixe.",
+            "objectFit": "contain"
+          }
+        ],
+        "video": {
+          "mp4": "/videos/reviews/damie/poltrona-reclinavel-damie-2-0-loop.mp4"
+        }
+      },
+      {
+        "heading": "Estrutura e Construção",
+        "paragraphs": [
+          "Segundo a Damie, a estrutura combina madeira tratada de eucalipto com chapas de compensado naval, materiais escolhidos para oferecer resistência à umidade e estabilidade ao móvel.",
+          "A fabricante também informa que o mecanismo de reclinação em aço carbono suporta até 160 kg. Durante nossas primeiras semanas de uso, não percebemos estalos, rangidos ou trepidações nas transições de movimento; a durabilidade de longo prazo ainda será acompanhada."
+        ],
+        "bullets": [],
+        "image": "/images/reviews/damie/poltrona-damie-2-0-estrutura.webp",
+        "imageAlt": "Vista frontal da estrutura e do desenho da Poltrona Damie 2.0",
+        "imageCaption": "Vista frontal do modelo 2.0, com apoio de pés arredondado, braços redesenhados e almofada regulável.",
+        "imageFit": "contain"
+      },
+      {
+        "heading": "FAQ — Dúvidas frequentes sobre a Poltrona Damie 2.0",
+        "paragraphs": [
+          "Reunimos as principais dúvidas dos leitores sobre a poltrona de relaxamento da Damie:"
+        ],
+        "bullets": [
+          "Como funciona o cupom CECILIA12 na Damie? Digite CECILIA12 no checkout da loja oficial da Damie para garantir 12% de desconto em todo o catálogo, incluindo produtos e opcionais. O código pode ser acumulado com mais 10% no PIX. Condições verificadas em 21 de julho de 2026 e sujeitas a alteração pela fabricante.",
+          "O Em Casa com Cecília possui parceria com a Damie? Sim. O cupom CECILIA12 faz parte de nossa parceria comercial com a Damie e pode gerar comissão para o blog em compras elegíveis, sem custo adicional para você. Nossa avaliação é baseada na experiência real com a poltrona em casa.",
+          "Qual a poltrona indicada para quem tem mais de 1,85m? A Damie disponibiliza o opcional 'Encosto Fixo Mais Alto', que aumenta a altura do encosto da poltrona para acomodar pessoas mais altas com apoio completo de cabeça.",
+          "A poltrona Damie 2.0 elétrica precisa de bateria? Ela funciona ligada diretamente na tomada através de uma fonte bivolt. O ideal é posicioná-la próxima a uma tomada de energia na sala.",
+          "Como funciona a garantia do fabricante? A Damie informa 1 ano de garantia contra defeitos de fabricação na estrutura de madeira e nas ferragens metálicas. Condição verificada em 21 de julho de 2026 e sujeita aos termos vigentes da fabricante.",
+          "O tecido de Courino Importado da poltrona esquenta? O material é de alta qualidade e possui toque mais ameno, mas por ser impermeável ele troca menos calor que o linho. É ideal para salas com climatização ou ar condicionado."
+        ]
+      }
+    ],
+    "imageAspect": "square",
+    "video": {
+      "mp4": "/videos/reviews/damie/poltrona-reclinavel-damie-2-0-hero-loop.mp4"
+    }
+  },
+  {
     "id": 25,
     "slug": "sofa-damie-modular-vale-a-pena",
     "title": "Sofá Damie Modular: vale a pena?",
