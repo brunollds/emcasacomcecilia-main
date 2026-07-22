@@ -69,13 +69,13 @@
     {
       "section": "Massa",
       "items": [
-        "10 xíc. (chá) de farinha de trigo",
-        "1 xíc. (chá) de iogurte natural integral",
-        "1/2 xíc. (chá) de água morna",
-        "2 col. sopa de azeite ou manteiga ghee",
-        "1 col. sopa de açúcar",
-        "1 col. sopa de fermento biológico seco",
-        "1 col. chá de sal"
+        "3 xícaras (chá) de farinha de trigo",
+        "1 xícara (chá) de iogurte natural integral",
+        "1/2 xícara (chá) de água morna",
+        "2 colheres (sopa) de azeite ou manteiga ghee",
+        "1 colher (sopa) de açúcar",
+        "1 colher (sopa) de fermento biológico seco",
+        "1 colher (chá) de sal"
       ]
     },
     {
@@ -91,7 +91,7 @@
       "section": "Massa",
       "items": [
         {
-          "qty": 10,
+          "qty": 3,
           "unit": "xíc. (chá)",
           "name": "farinha de trigo"
         },
