@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import { getCategorySlug, getRecipeCuisine, getRecipeImage, getRecipeImageAlt, getRecipePrimaryCategory, recipes } from '@/lib/data';
 import { Clock, ChefHat, Users, Utensils, Lightbulb, PlayCircle, ArrowLeft, Flame } from 'lucide-react';
 import { buildSchemaAuthors, minutesToIsoDuration, normalizeRecipe } from '@/lib/content';
+import { buildRecipeTemplateProps } from '@/lib/recipe-template-props';
 import RecipeViewTracker from '@/components/RecipeViewTracker';
 import CopyLinkButton from '@/components/CopyLinkButton';
 import { EditorialReveal, PretextPullQuote, SectionHeadingReveal } from '@/components/editorial';
@@ -37,6 +38,7 @@ function getYoutubeVideoId(url) {
   return null;
 }
 
+
 function getYoutubeEmbedUrl(url) {
   const id = getYoutubeVideoId(url);
   return id ? `https://www.youtube.com/embed/${id}` : null;
@@ -57,7 +59,7 @@ function getAbsoluteUrl(url, baseUrl) {
   }
 }
 
-// Função auxiliar para converter tempo legável (ex: '15 min', '1h 20 min') para ISO 8601 (ex: 'PT15M', 'PT1H20M')
+// Função auxiliar para converter tempo legível (ex: '15 min', '1h 20 min') para ISO 8601 (ex: 'PT15M', 'PT1H20M')
 function convertToISO8601(timeStr) {
   if (!timeStr) return undefined;
   const hoursMatch = timeStr.match(/(\d+)\s*h/);
@@ -68,71 +70,6 @@ function convertToISO8601(timeStr) {
   if (minutesMatch) iso += `${minutesMatch[1]}M`;
 
   return iso === 'PT' ? undefined : iso;
-}
-
-function getRecipeTaxonomyChips(recipe) {
-  const chips = [];
-
-  if (recipe.primaryCategory) {
-    chips.push({
-      key: `tipo-${recipe.primaryCategory}`,
-      label: recipe.primaryCategory,
-      href: `/receitas?tipo=${getCategorySlug(recipe.primaryCategory)}`,
-      primary: true,
-    });
-  }
-
-  (recipe.subCategory || []).forEach((label) => {
-    chips.push({
-      key: `sub-${label}`,
-      label,
-      href: `/receitas?sub=${getCategorySlug(label)}`,
-    });
-  });
-
-  (recipe.cuisine || []).forEach((label) => {
-    chips.push({
-      key: `cozinha-${label}`,
-      label,
-      href: `/receitas?cozinha=${getCategorySlug(label)}`,
-    });
-  });
-
-  (recipe.method || []).forEach((label) => {
-    chips.push({
-      key: `metodo-${label}`,
-      label,
-      href: `/receitas?metodo=${getCategorySlug(label)}`,
-    });
-  });
-
-  (recipe.diet || []).forEach((label) => {
-    chips.push({
-      key: `dieta-${label}`,
-      label,
-      href: `/receitas?dieta=${getCategorySlug(label)}`,
-    });
-  });
-
-  (recipe.keyIngredients || []).forEach((label) => {
-    chips.push({
-      key: `ingrediente-${label}`,
-      label,
-      href: `/receitas?ingrediente=${getCategorySlug(label)}`,
-    });
-  });
-
-  (recipe.collections || []).forEach((label) => {
-    chips.push({
-      key: `colecao-${label}`,
-      label,
-      href: `/receitas?colecao=${getCategorySlug(label)}`,
-    });
-  });
-
-  return chips
-    .filter((chip, index, list) => list.findIndex((candidate) => candidate.key === chip.key) === index)
-    .slice(0, 7);
 }
 
 // SEO Dinâmico
@@ -196,7 +133,6 @@ export default async function RecipePage({ params }) {
   const recipeImage = getRecipeImage(recipe);
   const recipeImageAlt = getRecipeImageAlt(recipe);
   const baseUrl = 'https://emcasacomcecilia.com';
-  const taxonomyChips = getRecipeTaxonomyChips(recipe);
   const youtubeEmbedUrl = getYoutubeEmbedUrl(recipe.youtubeUrl);
 
   const breadcrumbJsonLd = {
@@ -462,18 +398,8 @@ export default async function RecipePage({ params }) {
   };
 
   if (NOTEBOOK_RECIPE_SLUGS.has(recipe.slug)) {
-    return (
-      <RecipeNotebookTemplate
-        recipe={recipe}
-        viewModel={viewModel}
-        taxonomyChips={taxonomyChips}
-        youtubeEmbedUrl={youtubeEmbedUrl}
-        recipeImage={recipeImage}
-        recipeImageAlt={recipeImageAlt}
-        breadcrumbJsonLd={breadcrumbJsonLd}
-        jsonLd={jsonLd}
-      />
-    );
+    const templateProps = buildRecipeTemplateProps(recipe);
+    return <RecipeNotebookTemplate {...templateProps} />;
   }
 
   return (
