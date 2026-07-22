@@ -159,6 +159,7 @@ export interface Recipe {
   // Ficha técnica nova (opcional)
   prepMinutes?: number;
   cookMinutes?: number;
+  totalMinutes?: number;
   servings?: number;
   servingsUnit?: string;
   difficultyLevel?: Difficulty;

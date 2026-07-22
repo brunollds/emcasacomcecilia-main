@@ -127,12 +127,13 @@ export function computeTotalMinutes(recipe: Recipe): number | null {
 }
 
 /**
- * Resolve o tempo total priorizando o total editorial explícito. Isso preserva
- * períodos passivos, como descanso, fermentação, marinada e resfriamento, que
- * não aparecem na soma prepMinutes + cookMinutes.
+ * Resolve o tempo total priorizando o campo numérico explícito totalMinutes.
+ * Isso preserva períodos passivos como descanso, fermentação, marinada e resfriamento,
+ * que não aparecem na soma prepMinutes + cookMinutes.
  */
 export function resolveTotalMinutes(recipe: Recipe): number | null {
   return (
+    (typeof recipe.totalMinutes === 'number' && recipe.totalMinutes > 0 ? recipe.totalMinutes : null) ??
     parseMinutesFromText(recipe.totalTime) ??
     computeTotalMinutes(recipe) ??
     sumParsedTimes(recipe.prepTime, recipe.cookTime)
@@ -149,17 +150,25 @@ function sumParsedTimes(prepTime: string, cookTime: string): number | null {
 
 /**
  * Tenta extrair minutos de uma string legada de tempo.
- * Exemplos: "15 min" → 15; "1h 20 min" → 80; "1h" → 60.
+ * Exemplos: "15 min" → 15; "1h 20 min" → 80; "1h" → 60; "1h25" → 85.
  * Retorna null quando não for possível interpretar com segurança.
  */
 export function parseMinutesFromText(timeText: string): number | null {
   if (!timeText || typeof timeText !== 'string') return null;
 
   const hoursMatch = timeText.match(/(\d+)\s*h/i);
-  const minutesMatch = timeText.match(/(\d+)\s*min/i);
+  let minutesMatch = timeText.match(/(\d+)\s*min/i);
 
   const hours = hoursMatch ? parseInt(hoursMatch[1], 10) : 0;
-  const minutes = minutesMatch ? parseInt(minutesMatch[1], 10) : 0;
+  let minutes = minutesMatch ? parseInt(minutesMatch[1], 10) : 0;
+
+  // Handle compact format like "1h25" (digits immediately after h)
+  if (minutes === 0 && hoursMatch) {
+    const compactMatch = timeText.match(/h\s*(\d+)/i);
+    if (compactMatch) {
+      minutes = parseInt(compactMatch[1], 10);
+    }
+  }
 
   if (hours === 0 && minutes === 0) return null;
 
