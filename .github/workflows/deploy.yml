@@ -139,6 +139,10 @@ jobs:
           # (outputFileTracingRoot/root) em server.js e required-server-files.json — inócuo em
           # runtime (o app roda de __dirname; provado pelo Damie em producao com o mesmo path).
 
+          # JSON via env (nunca interpolar inputs em run:); TARGET_SHA/DEPLOY_UUID ja validados na Task 4.
+          TARGET_SHA="$TARGET_SHA" DEPLOY_UUID="$DEPLOY_UUID" node -e 'const fs=require("fs");fs.writeFileSync("pkg/release-meta.json",JSON.stringify({target_sha:process.env.TARGET_SHA||null,deploy_uuid:process.env.DEPLOY_UUID||null})+"\n")'
+          test -f pkg/release-meta.json
+
           tar -C pkg -czf "emcasa-release-${RELEASE_ID}.tar.gz" .
           echo "BUILD_ID=$(tr -d '\n' < pkg/.next/BUILD_ID)" >> "$GITHUB_ENV"
 
@@ -400,7 +404,7 @@ jobs:
                 case "$e" in "$ROOT"/nodejs.bad-*) rm -rf -- "$e" ;; *) echo "Retention: inesperado: $e" >&2; exit 1 ;; esac
               done
 
-          find "$ROOT/releases" -maxdepth 1 -type f -name '????????????????????????????????????????.tar.gz' -printf '%T@ %p\n' \
+          find "$ROOT/releases" -maxdepth 1 -type f -name '*.tar.gz' -printf '%T@ %p\n' \
             | sort -nr | cut -d' ' -f2- | tail -n +"$skip" \
             | while IFS= read -r e; do
                 case "$e" in "$ROOT"/releases/*.tar.gz) rm -f -- "$e" ;; *) echo "Retention: inesperado: $e" >&2; exit 1 ;; esac
