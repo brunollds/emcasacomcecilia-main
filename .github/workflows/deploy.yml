@@ -306,6 +306,32 @@ jobs:
               -H 'Cache-Control: no-cache' "$base$route" || true)
             [ "$status" = '200' ] || { echo "$route returned HTTP $status" >&2; exit 1; }
           done
+
+          # Fluxo gerenciado: a attestation servida tem que bater com o deploy — senao a central
+          # nunca resolve os drafts. Como isso autoriza o deploy, a comparacao e por JSON.parse exato
+          # (nao substring): exige HTTP 200, raiz objeto, campos exatos e igualdade estrita. Node ja
+          # esta no runner; inputs via env (nunca interpolados no script).
+          if [ -n "${DEPLOY_UUID:-}" ]; then
+            BASE="$base" TARGET_SHA="$TARGET_SHA" DEPLOY_UUID="$DEPLOY_UUID" node -e '(async () => {
+              const base = process.env.BASE, ts = process.env.TARGET_SHA, du = process.env.DEPLOY_UUID;
+              const url = `${base}/api/release?cb=${Date.now()}${Math.floor(Math.random() * 1e6)}`;
+              // Timeout preserva o limite do curl --max-time 20 (nao pendurar o step / o rollback).
+              const res = await fetch(url, { headers: { "Cache-Control": "no-cache" }, signal: AbortSignal.timeout(20000) });
+              if (res.status !== 200) throw new Error(`attestation HTTP ${res.status}`);
+              if ((res.headers.get("cache-control") || "").toLowerCase() !== "no-store")
+                throw new Error(`attestation sem no-store: ${res.headers.get("cache-control")}`);
+              const parsed = JSON.parse(await res.text());
+              if (parsed === null || typeof parsed !== "object" || Array.isArray(parsed))
+                throw new Error("attestation: raiz nao e objeto");
+              const keys = Object.keys(parsed).sort();
+              if (keys.length !== 2 || keys[0] !== "deploy_uuid" || keys[1] !== "target_sha")
+                throw new Error(`attestation: campos inesperados: ${keys.join(",")}`);
+              if (parsed.target_sha !== ts) throw new Error(`target_sha divergente: ${parsed.target_sha} != ${ts}`);
+              if (parsed.deploy_uuid !== du) throw new Error(`deploy_uuid divergente: ${parsed.deploy_uuid} != ${du}`);
+              console.log(`attestation confirmada: ${ts} / ${du}`);
+            })().catch((e) => { console.error(String(e.message || e)); process.exit(1); })'
+          fi
+
           if ! grep -Fq 'Últimos vídeos' "$body" || ! grep -Eq 'ytimg\.com/vi/' "$body"; then
             echo '::warning::Release is healthy, but YouTube content is not populated. Check API key or quota.'
           fi
