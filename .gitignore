@@ -82,3 +82,5 @@ scripts/content/artifacts/
 
 # Preview preview slot e restart signals
 tmp/
+
+release-meta.json
