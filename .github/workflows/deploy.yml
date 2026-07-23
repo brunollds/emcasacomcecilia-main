@@ -1,4 +1,5 @@
 name: Deploy emcasa (manual)
+run-name: deploy-emcasa-${{ inputs.deploy_uuid || github.run_id }}
 
 on:
   workflow_dispatch:
@@ -15,6 +16,16 @@ on:
         options:
           - 'true'
           - 'false'
+      target_sha:
+        description: 'SHA exato a implantar (a central preenche). Vazio = HEAD do main (fluxo antigo).'
+        required: false
+        default: ''
+        type: string
+      deploy_uuid:
+        description: 'UUID do deploy da central. Vazio = deploy manual/legado.'
+        required: false
+        default: ''
+        type: string
 
 permissions:
   contents: read
@@ -34,7 +45,6 @@ jobs:
       DOMAIN: emcasacomcecilia.com
       ROOT: /home/u150185510/domains/emcasacomcecilia.com
       APP_DIR: /home/u150185510/domains/emcasacomcecilia.com/nodejs
-      RELEASE_ID: ${{ github.sha }}
       RETAIN_RELEASES: '3'
       HOSTINGER_ACCOUNT: u150185510
       SSH_KEY: ${{ secrets.HOSTINGER_SSH_KEY }}
@@ -42,7 +52,50 @@ jobs:
       HOSTINGER_API_TOKEN: ${{ secrets.HOSTINGER_API_TOKEN }}
 
     steps:
+      - name: Compute and validate release identity
+        env:
+          IN_TARGET_SHA: ${{ inputs.target_sha }}
+          IN_DEPLOY_UUID: ${{ inputs.deploy_uuid }}
+          FALLBACK_SHA: ${{ github.sha }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          ts="$IN_TARGET_SHA"
+          du="$IN_DEPLOY_UUID"
+          if [ -n "$ts" ] || [ -n "$du" ]; then
+            # Fluxo gerenciado: ambos obrigatorios e validados (defesa contra injecao/JSON invalido).
+            { [ -n "$ts" ] && [ -n "$du" ]; } || { echo 'target_sha e deploy_uuid: ambos ou nenhum' >&2; exit 1; }
+            [[ "$ts" =~ ^[0-9a-f]{40}$ ]] || { echo "target_sha invalido (esperado 40 hex): $ts" >&2; exit 1; }
+            [[ "$du" =~ ^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$ ]] \
+              || { echo "deploy_uuid invalido (UUID canonico): $du" >&2; exit 1; }
+            {
+              echo "TARGET_SHA=$ts"
+              echo "DEPLOY_UUID=$du"
+              echo "RELEASE_KEY=$ts-$du"
+              echo "RELEASE_ID=$ts-$du"
+            } >> "$GITHUB_ENV"
+          else
+            # Fluxo legado: identidade = github.sha (40 chars, identico ao comportamento atual).
+            {
+              echo "TARGET_SHA=$FALLBACK_SHA"
+              echo "DEPLOY_UUID="
+              echo "RELEASE_KEY=$FALLBACK_SHA"
+              echo "RELEASE_ID=$FALLBACK_SHA"
+            } >> "$GITHUB_ENV"
+          fi
+
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.target_sha || github.sha }}
+
+      - name: Verify checked-out SHA matches target_sha
+        if: inputs.target_sha != ''
+        shell: bash
+        run: |
+          set -euo pipefail
+          head="$(git rev-parse HEAD)"
+          [ "$head" = "$TARGET_SHA" ] || { echo "HEAD ($head) != TARGET_SHA ($TARGET_SHA)" >&2; exit 1; }
+          echo "HEAD confirmado em $head"
 
       - uses: actions/setup-node@v4
         with:
