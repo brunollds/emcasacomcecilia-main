@@ -57,3 +57,23 @@ export function validateRedirects(redirects, activeSlugs = new Set()) {
     }
   }
 }
+
+import { readFileSync } from 'node:fs';
+import path from 'node:path';
+
+/**
+ * Lê redirects.json + manifestos do disco, monta activeSlugs e valida.
+ * @param {string} redirectsPath  caminho do redirects.json
+ * @param {string} contentDir     dir 'content' (contém receitas/reviews/_manifest.json)
+ * @returns {Array} o array de redirects validado
+ */
+export function validateRedirectsFromDisk(redirectsPath, contentDir) {
+  const redirects = JSON.parse(readFileSync(redirectsPath, 'utf-8'));
+  const activeSlugs = new Set();
+  for (const tipo of ['receitas', 'reviews']) {
+    const manifest = JSON.parse(readFileSync(path.join(contentDir, tipo, '_manifest.json'), 'utf-8'));
+    for (const slug of manifest) activeSlugs.add(`/${tipo}/${slug}`);
+  }
+  validateRedirects(redirects, activeSlugs);
+  return redirects;
+}

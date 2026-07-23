@@ -1,19 +1,21 @@
+import { fileURLToPath } from 'node:url';
+import path from 'node:path';
+import { validateRedirectsFromDisk } from './scripts/content/validate-redirects.mjs';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+
+// Fail-loud no build: redirects.json inválido derruba o build (o script `build` não chama
+// validate:content, então a validação mora aqui).
+const redirects = validateRedirectsFromDisk(
+  path.join(__dirname, 'content', 'redirects.json'),
+  path.join(__dirname, 'content')
+);
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'standalone',
   async redirects() {
-    return [
-      {
-        source: '/reviews/promocao-dolce-gusto-60-caixas-mini-me-gratis',
-        destination: '/reviews/promocao-dolce-gusto-caixas-mini-me-gratis',
-        permanent: true,
-      },
-      {
-        source: '/reviews/promocao-dolce-gusto-55-caixas-mini-me-gratis',
-        destination: '/reviews/promocao-dolce-gusto-caixas-mini-me-gratis',
-        permanent: true,
-      },
-    ];
+    return redirects;
   },
   reactStrictMode: true,
   experimental: {
