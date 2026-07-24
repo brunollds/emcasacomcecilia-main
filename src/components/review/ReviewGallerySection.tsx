@@ -159,17 +159,19 @@ function PhotoLightbox({
       </button>
 
       <div
-        className="relative h-[80vh] w-full max-w-6xl"
+        className="relative flex h-[80vh] w-full max-w-6xl items-center justify-center overflow-hidden rounded-xl bg-white p-2"
         onClick={(e) => e.stopPropagation()}
       >
-        <Image
-          src={current.image}
-          alt={current.alt || current.caption || 'Imagem da galeria'}
-          fill
-          className="object-contain"
-          sizes="100vw"
-          priority
-        />
+        <div className="relative h-full w-full">
+          <Image
+            src={current.image}
+            alt={current.alt || current.caption || 'Imagem da galeria'}
+            fill
+            className="object-contain"
+            sizes="100vw"
+            priority
+          />
+        </div>
       </div>
 
       {current.caption && (

@@ -164,7 +164,7 @@ export function ReviewSectionContent({
       )}
 
       {section.video && (
-        <div className="my-6 overflow-hidden rounded-[1.25rem] bg-[#f4f4f5] shadow-soft aspect-video max-w-2xl mx-auto">
+        <div className={`my-6 overflow-hidden rounded-[1.25rem] bg-[#f4f4f5] shadow-soft max-w-2xl mx-auto ${section.video.aspect === 'square' ? 'aspect-square' : 'aspect-video'}`}>
           <ReviewLoopVideo
             mp4={section.video.mp4}
             webm={section.video.webm}

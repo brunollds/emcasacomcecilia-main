@@ -16,7 +16,7 @@ function normalizeImages(section, reviewTitle) {
       src: singleSrc,
       alt: (typeof section.image === 'string' ? section.imageAlt : section.image?.alt) || section.heading || reviewTitle,
       caption,
-      fit: fit === 'portrait' ? 'portrait' : fit === 'wide' ? 'wide' : fit === 'contain' ? 'contain' : 'cover',
+      fit: fit === 'portrait' ? 'portrait' : fit === 'wide' ? 'wide' : fit === 'square' ? 'square' : fit === 'contain' ? 'contain' : 'cover',
     });
   }
 
@@ -26,7 +26,7 @@ function normalizeImages(section, reviewTitle) {
         src: item.src,
         alt: item.alt || section.heading || reviewTitle,
         caption: item.caption,
-        fit: item.objectFit === 'portrait' ? 'portrait' : item.objectFit === 'wide' ? 'wide' : item.objectFit === 'contain' ? 'contain' : 'cover',
+        fit: item.objectFit === 'portrait' ? 'portrait' : item.objectFit === 'wide' ? 'wide' : item.objectFit === 'square' ? 'square' : item.objectFit === 'contain' ? 'contain' : 'cover',
       });
     }
   }
@@ -39,6 +39,7 @@ function InlineImageThumbnail({ image, index, onOpen }) {
   const isPortrait = image.fit === 'portrait';
   const isContain = image.fit === 'contain';
   const isWide = image.fit === 'wide';
+  const isSquare = image.fit === 'square';
   const ref = useRef(null);
   const mediaRef = useRef(null);
   useReviewMediaBlur(mediaRef);
@@ -113,14 +114,14 @@ function InlineImageThumbnail({ image, index, onOpen }) {
       >
         <div
           className={`relative w-full ${
-            isPortrait ? 'aspect-[9/16]' : isWide ? 'aspect-[4/1]' : 'aspect-video'
+            isPortrait ? 'aspect-[9/16]' : isWide ? 'aspect-[4/1]' : isSquare ? 'aspect-square' : 'aspect-video'
           }`}
         >
           <Image
             src={image.src}
             alt={image.alt}
             fill
-            className={isPortrait ? 'object-cover' : (isContain || isWide) ? 'object-contain' : 'object-cover'}
+            className={isPortrait || isSquare ? 'object-cover' : (isContain || isWide) ? 'object-contain' : 'object-cover'}
             sizes="(max-width: 768px) 100vw, 50vw"
           />
         </div>
@@ -230,17 +231,19 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev }) {
       </button>
 
       <div
-        className="relative h-[75vh] w-full max-w-6xl"
+        className="relative flex h-[75vh] w-full max-w-6xl items-center justify-center overflow-hidden rounded-xl bg-white p-2"
         onClick={(e) => e.stopPropagation()}
       >
-        <Image
-          src={image.src}
-          alt={image.alt}
-          fill
-          className="object-contain"
-          sizes="100vw"
-          priority
-        />
+        <div className="relative h-full w-full">
+          <Image
+            src={image.src}
+            alt={image.alt}
+            fill
+            className="object-contain"
+            sizes="100vw"
+            priority
+          />
+        </div>
       </div>
 
       {images.length > 1 && (

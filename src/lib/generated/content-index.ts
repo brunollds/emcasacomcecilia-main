@@ -34721,7 +34721,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-1.webp",
     "imageAlt": "Cecília Mauad com a máquina NESCAFÉ Dolce Gusto Genio S Touch em casa",
-    "imageFit": "contain",
+    "imageFit": "cover",
     "imageAspect": "square",
     "pros": [
       "Painel touch responsivo, sem delay perceptível",
@@ -34822,7 +34822,8 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [],
         "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-2.webp",
-        "imageAlt": "Cecília Mauad apresentando a NESCAFÉ Dolce Gusto Genio S Touch na cozinha"
+        "imageAlt": "Cecília Mauad apresentando a NESCAFÉ Dolce Gusto Genio S Touch na cozinha",
+        "imageFit": "square"
       },
       {
         "heading": "Unboxing e primeiro contato",
@@ -34844,7 +34845,8 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "video": {
           "mp4": "/videos/reviews/dolcegusto/genio-s-touch-loop-2.mp4",
-          "poster": "/images/reviews/dolcegusto/genio-s-touch-loop-2-poster.webp"
+          "poster": "/images/reviews/dolcegusto/genio-s-touch-loop-2-poster.webp",
+          "aspect": "square"
         }
       },
       {
@@ -34861,7 +34863,13 @@ export const reviewsData: unknown[] = [
           "Na comparação com as outras máquinas de cápsula que já tivemos em casa — incluindo a Vertuo da Nespresso —, a Genio S Touch foi a mais rápida pra ficar pronta pra primeira bebida. (A NEO, outra máquina Dolce Gusto, é um pouco menos rápida que a Touch — mas isso fica pro artigo específico dela.)",
           "O barulho ficou dentro do aceitável e não notamos vazamento. Bebida saiu na temperatura e na quantidade esperadas. O que incomodou foi ela ficar pingando entre um preparo e o outro — algo que não acontece na NEO nem na Vertuo, pelo menos no nosso uso."
         ],
-        "bullets": []
+        "bullets": [],
+        "video": {
+          "mp4": "/videos/reviews/dolcegusto/genio-s-touch-loop-1.mp4",
+          "poster": "/images/reviews/dolcegusto/genio-s-touch-loop-1-poster.webp",
+          "alt": "Colocando uma cápsula na NESCAFÉ Dolce Gusto Genio S Touch antes do preparo",
+          "aspect": "square"
+        }
       },
       {
         "heading": "O que incomodou (sem só elogiar)",
@@ -34928,27 +34936,21 @@ export const reviewsData: unknown[] = [
       }
     ],
     "publishedAtISO": "2026-07-23",
-    "video": {
-      "mp4": "/videos/reviews/dolcegusto/genio-s-touch-loop-1.mp4",
-      "poster": "/images/reviews/dolcegusto/genio-s-touch-loop-1-poster.webp"
-    },
     "rating": 4,
-    "gallery": {
-      "images": [
-        {
-          "url": "/images/reviews/dolcegusto/genio-s-touch-cecilia-1.webp",
-          "alt": "Cecília Mauad com a NESCAFÉ Dolce Gusto Genio S Touch"
-        },
-        {
-          "url": "/images/reviews/dolcegusto/genio-s-touch-cecilia-2.webp",
-          "alt": "Cecília Mauad testando a NESCAFÉ Dolce Gusto Genio S Touch em casa"
-        },
-        {
-          "url": "/images/reviews/dolcegusto/genio-s-touch-dimensoes.webp",
-          "alt": "Esquema de dimensões da NESCAFÉ Dolce Gusto Genio S Touch"
-        }
-      ]
-    }
+    "gallery": [
+      {
+        "url": "/images/reviews/dolcegusto/genio-s-touch-cecilia-1.webp",
+        "alt": "Cecília Mauad com a NESCAFÉ Dolce Gusto Genio S Touch"
+      },
+      {
+        "url": "/images/reviews/dolcegusto/genio-s-touch-cecilia-2.webp",
+        "alt": "Cecília Mauad testando a NESCAFÉ Dolce Gusto Genio S Touch em casa"
+      },
+      {
+        "url": "/images/reviews/dolcegusto/genio-s-touch-dimensoes.webp",
+        "alt": "Esquema de dimensões da NESCAFÉ Dolce Gusto Genio S Touch"
+      }
+    ]
   },
   {
     "id": 235,

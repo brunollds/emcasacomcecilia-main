@@ -251,7 +251,7 @@ export interface ContentSection {
   image?: string | ContentSectionImage;
   imageAlt?: string;
   imageCaption?: string;
-  imageFit?: 'cover' | 'contain' | 'portrait' | 'wide';
+  imageFit?: 'cover' | 'contain' | 'portrait' | 'wide' | 'square';
   images?: ContentSectionImage[];
   links?: ContentSectionLink[];
   couponTiers?: { code: string; discount: string; minPurchase: string }[];
@@ -265,6 +265,7 @@ export interface ContentSection {
     webm?: string;
     poster?: string;
     alt?: string;
+    aspect?: 'video' | 'square';
   };
 }
 
