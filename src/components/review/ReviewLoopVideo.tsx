@@ -6,10 +6,10 @@ import { useEffect, useRef, useState, useSyncExternalStore } from 'react';
 export interface ReviewLoopVideoProps {
   mp4: string;
   webm?: string;
-  poster?: string;
-  ariaLabel: string;
+  poster: string;
+  ariaLabel?: string;
   className?: string;
-  preload?: 'none' | 'metadata' | 'auto';
+  preload?: 'auto' | 'metadata' | 'none';
 }
 
 function subscribeToReducedMotion(callback: () => void): () => void {
@@ -38,41 +38,83 @@ export function ReviewLoopVideo({
 }: ReviewLoopVideoProps): React.ReactElement {
   const videoRef = useRef<HTMLVideoElement>(null);
   const [isPlaying, setIsPlaying] = useState(false);
+  const [shouldLoadMedia, setShouldLoadMedia] = useState(false);
+  const [isInViewport, setIsInViewport] = useState(false);
+
   const prefersReducedMotion = useSyncExternalStore(
     subscribeToReducedMotion,
     getReducedMotionSnapshot,
     getServerSnapshot
   );
 
+  // 1. Observer Effect: manages media loading & viewport presence independently of reduced motion
   useEffect(() => {
     const video = videoRef.current;
     if (!video) return undefined;
 
-    if (prefersReducedMotion) {
+    if (typeof window === 'undefined' || !('IntersectionObserver' in window)) {
+      const timer = setTimeout(() => {
+        setShouldLoadMedia(true);
+        setIsInViewport(true);
+      }, 0);
+      return () => clearTimeout(timer);
+    }
+
+    let active = true;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (!active) return;
+          if (entry.isIntersecting) {
+            setShouldLoadMedia(true);
+            setIsInViewport(true);
+          } else {
+            setIsInViewport(false);
+          }
+        });
+      },
+      { rootMargin: '200px', threshold: 0.1 }
+    );
+
+    observer.observe(video);
+
+    return () => {
+      active = false;
+      observer.disconnect();
+    };
+  }, []);
+
+  // 2. Playback Control Effect: runs AFTER media source is rendered into DOM
+  useEffect(() => {
+    const video = videoRef.current;
+    if (!video || !shouldLoadMedia) return;
+
+    if (prefersReducedMotion || !isInViewport) {
       video.pause();
-      return undefined;
+      return;
     }
 
     let active = true;
     const playPromise = video.play();
     if (playPromise) {
-      playPromise
-        .then(() => {
-          if (active) setIsPlaying(true);
-        })
-        .catch(() => {
-          if (active) setIsPlaying(false);
-        });
+      playPromise.catch(() => {
+        // Handle autoplay restriction gracefully
+      });
     }
 
     return () => {
       active = false;
     };
-  }, [prefersReducedMotion]);
+  }, [shouldLoadMedia, isInViewport, prefersReducedMotion]);
 
   const togglePlayback = () => {
     const video = videoRef.current;
     if (!video) return;
+
+    if (!shouldLoadMedia) {
+      setShouldLoadMedia(true);
+    }
 
     if (video.paused) {
       void video.play();
@@ -85,19 +127,18 @@ export function ReviewLoopVideo({
     <div className="relative h-full w-full">
       <video
         ref={videoRef}
-        autoPlay={!prefersReducedMotion}
         muted
         loop
         playsInline
         poster={poster}
-        preload={preload}
+        preload={shouldLoadMedia ? preload : 'none'}
         aria-label={ariaLabel}
         onPlay={() => setIsPlaying(true)}
         onPause={() => setIsPlaying(false)}
         className={className}
       >
-        {webm && <source src={webm} type="video/webm" />}
-        <source src={mp4} type="video/mp4" />
+        {shouldLoadMedia && webm && <source src={webm} type="video/webm" />}
+        {shouldLoadMedia && <source src={mp4} type="video/mp4" />}
         Seu navegador não suporta vídeos.
       </video>
 
@@ -108,7 +149,6 @@ export function ReviewLoopVideo({
         aria-label={isPlaying ? 'Pausar vídeo' : 'Reproduzir vídeo'}
       >
         {isPlaying ? <Pause className="h-4 w-4" aria-hidden="true" /> : <Play className="h-4 w-4" aria-hidden="true" />}
-        {isPlaying ? 'Pausar' : 'Reproduzir'}
       </button>
     </div>
   );

@@ -23,7 +23,6 @@ const recipes = loadOrdered(path.join('content', 'receitas'));
 const reviews = loadOrdered(path.join('content', 'reviews'));
 
 const banner =
-  '/* eslint-disable */\n' +
   '// GERADO por scripts/content/build-index.mjs a partir de content/ — NÃO EDITAR.\n' +
   '// Regenerado em todo build (npm run build). A fonte da verdade é content/.\n';
 

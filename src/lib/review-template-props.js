@@ -32,7 +32,8 @@ export function getRelatedReviews(review) {
 }
 
 export function buildReviewTemplateProps(review) {
-  const isProductReview = Boolean(review.rating);
+  const canonicalRating = review.rating ?? review.verdict?.stars;
+  const isProductReview = review.reviewKind === 'produto' || typeof canonicalRating === 'number';
   const youtubeEmbedUrl = getYoutubeEmbedUrl(review.youtubeUrl);
   const relatedReviews = getRelatedReviews(review);
   const viewModel = normalizeReview(review);
@@ -74,11 +75,11 @@ export function buildReviewTemplateProps(review) {
       },
     },
     image: review.image ? `https://emcasacomcecilia.com${review.image}` : undefined,
-    ...(isProductReview
+    ...(isProductReview && typeof canonicalRating === 'number'
       ? {
           reviewRating: {
             '@type': 'Rating',
-            ratingValue: review.rating,
+            ratingValue: canonicalRating,
             bestRating: 5,
             worstRating: 1,
           },
