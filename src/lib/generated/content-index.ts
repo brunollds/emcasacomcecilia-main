@@ -34722,6 +34722,7 @@ export const reviewsData: unknown[] = [
     "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-1.webp",
     "imageAlt": "Cecília Mauad com a máquina NESCAFÉ Dolce Gusto Genio S Touch em casa",
     "imageFit": "cover",
+    "imagePosition": "right",
     "imageAspect": "square",
     "pros": [
       "Painel touch responsivo, sem delay perceptível",
