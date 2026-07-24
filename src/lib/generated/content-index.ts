@@ -29711,7 +29711,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "22 Jun 2026",
     "publishedAtISO": "2026-06-22",
     "draft": false,
-    "hideFromListings": true,
+    "hideFromPortugueseListings": true,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "Korean skincare and K-beauty products from YesStyle beautifully arranged on a bright table.",
     "imageFit": "cover",
@@ -29955,7 +29955,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "22 Jun 2026",
     "publishedAtISO": "2026-06-22",
     "draft": false,
-    "hideFromListings": true,
+    "hideFromPortugueseListings": true,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "Productos de cosmética y skincare coreano de YesStyle ordenados en una mesa iluminada.",
     "imageFit": "cover",
@@ -30199,7 +30199,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "22 Jun 2026",
     "publishedAtISO": "2026-06-22",
     "draft": false,
-    "hideFromListings": true,
+    "hideFromPortugueseListings": true,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "Produits de K-beauty et skincare coréen de YesStyle disposés sur une table claire.",
     "imageFit": "cover",
@@ -30444,7 +30444,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "22 Jun 2026",
     "publishedAtISO": "2026-06-22",
     "draft": false,
-    "hideFromListings": true,
+    "hideFromPortugueseListings": true,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "Produkte von K-beauty und koreanischer Pflege von YesStyle auf einem hellen Tisch angeordnet.",
     "imageFit": "cover",
@@ -30687,7 +30687,6 @@ export const reviewsData: unknown[] = [
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
     "draft": false,
-    "hideFromListings": true,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "YesStyle의 한국 스킨케어 제품",
     "pros": [
@@ -30755,7 +30754,8 @@ export const reviewsData: unknown[] = [
           "할인율은 얼마인가요? 대상 주문에서 추가 5% 혜택을 제공하며 현재 조건을 확인하세요."
         ]
       }
-    ]
+    ],
+    "hideFromPortugueseListings": true
   },
   {
     "id": 41,
@@ -30767,7 +30767,6 @@ export const reviewsData: unknown[] = [
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
     "draft": false,
-    "hideFromListings": true,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "YesStyleの韓国スキンケア製品",
     "pros": [
@@ -30835,7 +30834,8 @@ export const reviewsData: unknown[] = [
           "割引率はいくらですか？対象注文でさらに5%の特典が付きます。"
         ]
       }
-    ]
+    ],
+    "hideFromPortugueseListings": true
   },
   {
     "id": 42,
@@ -30847,7 +30847,6 @@ export const reviewsData: unknown[] = [
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
     "draft": false,
-    "hideFromListings": true,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "YesStyle 韓國護膚產品",
     "pros": [
@@ -30915,7 +30914,8 @@ export const reviewsData: unknown[] = [
           "優惠是多少？符合條件的訂單可額外享有 5%。"
         ]
       }
-    ]
+    ],
+    "hideFromPortugueseListings": true
   },
   {
     "id": 43,
@@ -30927,7 +30927,6 @@ export const reviewsData: unknown[] = [
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
     "draft": false,
-    "hideFromListings": true,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "YesStyle 韩国护肤产品",
     "pros": [
@@ -30995,7 +30994,8 @@ export const reviewsData: unknown[] = [
           "优惠是多少？符合条件的订单可额外享受 5%。"
         ]
       }
-    ]
+    ],
+    "hideFromPortugueseListings": true
   },
   {
     "id": 19,
@@ -36218,7 +36218,6 @@ export const reviewsData: unknown[] = [
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
     "hideFromPortugueseListings": true,
-    "hideFromListings": true,
     "authors": [
       {
         "name": "Cecília Mauad",
@@ -36428,7 +36427,6 @@ export const reviewsData: unknown[] = [
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
     "hideFromPortugueseListings": true,
-    "hideFromListings": true,
     "authors": [
       {
         "name": "Cecília Mauad",

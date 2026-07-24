@@ -168,6 +168,10 @@ export default function ReviewsClientPage() {
                                       ? '50% 10%'
                                       : review.imagePosition === 'bottom'
                                         ? '50% 90%'
+                                        : review.imagePosition === 'left'
+                                          ? '20% 50%'
+                                          : review.imagePosition === 'right'
+                                            ? '80% 50%'
                                         : review.imagePosition,
                                 }
                               : undefined
