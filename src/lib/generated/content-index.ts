@@ -28813,7 +28813,6 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Análise da Poltrona Reclinável Damie 2.0. Veja os opcionais de massagem, mesa, motor de cabeça e use o cupom CECILIA12 para ganhar 12% de desconto.",
     "publishedAt": "21 Jul 2026",
     "publishedAtISO": "2026-07-21",
-    "isNew": true,
     "authors": [
       {
         "name": "Cecília Mauad",
@@ -29495,6 +29494,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Aprenda a encontrar cupons YesStyle válidos, evitar códigos expirados e fazer a combinação com o código de recompensa CECILIA010 para economizar até 5% extra.",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
+    "isNew": true,
     "authors": [
       {
         "name": "Cecília Mauad",
@@ -34292,7 +34292,6 @@ export const reviewsData: unknown[] = [
     "publishedAt": "17 Jul 2026",
     "publishedAtISO": "2026-07-17",
     "draft": false,
-    "isNew": true,
     "image": "/images/reviews/magalu/magalu-hero.webp",
     "imageAlt": "Página da loja Magazine Você da Cecília aberta no navegador, com produtos do Magalu e campo para aplicar cupom de desconto.",
     "imageFit": "cover",
@@ -34719,6 +34718,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso: unboxing, painel touch, velocidade, o que incomodou e cupom CECI para comprar.",
     "publishedAt": "23 de julho de 2026",
     "draft": false,
+    "isNew": true,
     "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-1.webp",
     "imageAlt": "Cecília Mauad com a máquina NESCAFÉ Dolce Gusto Genio S Touch em casa",
     "imageFit": "cover",
@@ -34962,6 +34962,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Learn how to find valid YesStyle coupon codes, avoid expired codes, and combine them with the reward code CECILIA010 for up to 5% extra discount.",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
+    "hideFromPortugueseListings": true,
     "authors": [
       {
         "name": "Cecília Mauad",
@@ -35170,6 +35171,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Aprende a encontrar cupones YesStyle válidos, evitar códigos caducados y combinarlos con el código de recompensa CECILIA010 para ahorrar hasta un 5% extra.",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
+    "hideFromPortugueseListings": true,
     "authors": [
       {
         "name": "Cecília Mauad",
@@ -35378,6 +35380,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Apprenez à trouver des codes promo YesStyle valides, évitez les codes expirés et cumulez-les avec le code de récompense CECILIA010 pour jusqu'à 5% de réduction supplémentaire.",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
+    "hideFromPortugueseListings": true,
     "authors": [
       {
         "name": "Cecília Mauad",
@@ -35586,6 +35589,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Lerne, wie du gültige YesStyle Gutscheincodes findest, abgelaufene Codes vermeidest und sie mit dem Rabattcode CECILIA010 für bis zu 5% Extra-Rabatt kombinierst.",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
+    "hideFromPortugueseListings": true,
     "authors": [
       {
         "name": "Cecília Mauad",
@@ -35794,6 +35798,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle 유효 쿠폰 코드를 찾고 만료된 코드를 피하며, CECILIA010 리워드 코드로 최대 5% 추가 할인을 적용하는 방법을 알아보세요.",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
+    "hideFromPortugueseListings": true,
     "authors": [
       {
         "name": "Cecília Mauad",
@@ -36002,6 +36007,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyleの有効なクーポンコードの探し方、期限切れコードの回避法、CECILIA010で最大5%追加割引を適用する併用方法を解説します。",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
+    "hideFromPortugueseListings": true,
     "authors": [
       {
         "name": "Cecília Mauad",
@@ -36210,6 +36216,8 @@ export const reviewsData: unknown[] = [
     "metaDescription": "學習如何找到有效的 YesStyle 促銷優惠碼，避免過期代碼，並配合獎勵代碼 CECILIA010 疊加享高達 5% 額外折扣。",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
+    "hideFromPortugueseListings": true,
+    "hideFromListings": true,
     "authors": [
       {
         "name": "Cecília Mauad",
@@ -36418,6 +36426,8 @@ export const reviewsData: unknown[] = [
     "metaDescription": "学习如何找到有效的 YesStyle 促销优惠码，避免过期代码，并配合奖励代码 CECILIA010 叠加享高达 5% 额外折扣。",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
+    "hideFromPortugueseListings": true,
+    "hideFromListings": true,
     "authors": [
       {
         "name": "Cecília Mauad",

@@ -61,7 +61,9 @@ const getAffiliate = (review: ShowcaseReview): string | undefined =>
 const SHOWCASE_SIZE = 8;
 
 function selectShowcaseReviews(all: typeof publishedReviews): ShowcaseReview[] {
-  const listed = sortReviewsByDateDesc(all.filter((review) => !review.hideFromListings));
+  const listed = sortReviewsByDateDesc(
+    all.filter((review) => !review.hideFromListings && !review.hideFromPortugueseListings)
+  );
   const selected: ShowcaseReview[] = [];
   const usedIds = new Set<number>();
   const coveredAffiliates = new Set<string>();
@@ -74,16 +76,19 @@ function selectShowcaseReviews(all: typeof publishedReviews): ShowcaseReview[] {
     if (affiliate) coveredAffiliates.add(affiliate);
   };
 
-  // 1. Fixadas manualmente
+  // 1. Publicações novas sempre aparecem, mesmo quando há cards fixados.
+  listed.filter((review) => review.isNew).forEach(push);
+
+  // 2. Fixadas manualmente
   listed.filter((review) => review.homeFeatured).forEach(push);
 
-  // 2. Um artigo (o mais recente) por afiliado ainda não representado
+  // 3. Um artigo (o mais recente) por afiliado ainda não representado
   for (const review of listed) {
     const affiliate = getAffiliate(review);
     if (affiliate && !coveredAffiliates.has(affiliate)) push(review);
   }
 
-  // 3. Completa com as mais recentes
+  // 4. Completa com as mais recentes
   listed.forEach(push);
 
   return selected;

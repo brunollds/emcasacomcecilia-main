@@ -193,6 +193,7 @@ export interface Review {
   authors?: PersonRef[];
   isNew?: boolean;
   hideFromListings?: boolean;
+  hideFromPortugueseListings?: boolean;
   homeFeatured?: boolean;
   affiliate?: string;
   image?: string;

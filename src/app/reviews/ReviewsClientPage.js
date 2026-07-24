@@ -10,7 +10,9 @@ import { ViewTransitionLink } from '@/components/ViewTransitionLink';
 
 const INITIAL_COUNT = 8;
 const LOAD_MORE_COUNT = 4;
-const listedReviews = publishedReviews.filter((review) => !review.hideFromListings);
+const listedReviews = publishedReviews.filter(
+  (review) => !review.hideFromListings && !review.hideFromPortugueseListings
+);
 
 const accentByType = {
   'Eletrodoméstico': '#ff6b35',

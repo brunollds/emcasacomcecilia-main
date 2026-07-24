@@ -375,6 +375,7 @@ export interface Review {
   isPopular?: boolean;
   isNew?: boolean;
   hideFromListings?: boolean;
+  hideFromPortugueseListings?: boolean;
   homeFeatured?: boolean;
   affiliate?: string;
 
