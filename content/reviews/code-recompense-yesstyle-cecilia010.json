@@ -5,7 +5,7 @@
   "type": "Guide & Coupons",
   "reviewKind": "guia",
   "description": "Guide pratique pour utiliser le code d'influenceur CECILIA010 sur YesStyle. Découvrez sa différence avec les coupons classiques, apprenez à cumuler les remises et profitez de conseils sur la K-beauty et la douane.",
-  "metaDescription": "Utilisez CECILIA010 sur YesStyle pour obtenir 5% en plus avec les coupons K-beauty, soins coreens et mode.",
+  "metaDescription": "Utilisez CECILIA010 sur YesStyle pour obtenir Jusqu’à 5% en plus (5% 1ère commande / 2% récurrente) avec les coupons K-beauty, soins coreens et mode.",
   "publishedAt": "22 Jun 2026",
   "publishedAtISO": "2026-06-22",
   "draft": false,
@@ -232,7 +232,7 @@
   "cta": {
     "text": "Utilisez le code d'influenceur officiel CECILIA010 lors du paiement sur YesStyle.",
     "label": "Aller sur YesStyle et utiliser le Code CECILIA010",
-    "url": "https://www.yesstyle.com"
+    "url": "https://ystyle.co/rQYQv"
   },
   "coupon": "CECILIA010",
   "notes": [
@@ -241,5 +241,5 @@
       "body": "Le champ du code se trouve au moment du paiement, sous « Reward Code ». Copiez CECILIA010 avant d'ouvrir la boutique : il ne restera qu'à le coller en finalisant la commande."
     }
   ],
-  "editorialNote": "Cet article contient des liens d'affiliation. Lorsque vous utilisez le code de récompense CECILIA010, le blog Em Casa com Cecília peut percevoir une commission ou des avantages sans coût additionnel pour vous. Toutes les informations sont issues de recherches et d'expériences vécues. Les règles douanières et conditions de la boutique peuvent changer."
+  "editorialNote": "Cet article contient des liens affiliés. Si vous accédez à YesStyle via nos liens ou utilisez le code influenceur CECILIA010, nous pouvons recevoir une commission sans frais supplémentaires pour vous."
 }

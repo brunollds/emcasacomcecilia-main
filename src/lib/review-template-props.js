@@ -106,7 +106,7 @@ export function buildReviewTemplateProps(review) {
   let faqJsonLd = null;
   if (faqSection && faqSection.bullets) {
     const mainEntity = faqSection.bullets.map((bullet) => {
-      const qMatch = bullet.match(/^([^\?]+\?)\s*(.+)$/);
+      const qMatch = bullet.match(/^([^\?\uFF1F]+[\?\uFF1F])\s*(.+)$/);
       if (qMatch) {
         return {
           '@type': 'Question',

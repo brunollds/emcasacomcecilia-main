@@ -279,7 +279,7 @@ export function buildSchemaAuthors(
  * Retorna a própria string se não for uma data válida.
  * A data é interpretada como local, sem conversão de fuso horário.
  */
-export function formatDate(isoDate: string): string {
+export function formatDate(isoDate: string, locale: string = 'pt-BR'): string {
   const parts = isoDate.match(/^(\d{4})-(\d{2})-(\d{2})$/);
   if (!parts) return isoDate;
 

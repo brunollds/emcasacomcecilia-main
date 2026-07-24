@@ -6,6 +6,19 @@ import { BottomSheet } from '@/components/editorial';
 import { ReviewSidebarContent } from './ReviewSidebar';
 import type { Review, ReviewKind } from '@/lib/content';
 import type { TocItem } from './ReviewTableOfContents';
+import { getCouponCopyLocale } from './couponCopyLocale';
+
+const mobileAriaLabels: Record<string, string> = {
+  pt: 'Abrir sumário',
+  en: 'Open table of contents',
+  es: 'Abrir tabla de contenidos',
+  fr: 'Ouvrir le sommaire',
+  de: 'Inhaltsverzeichnis öffnen',
+  ko: '목차 열기',
+  ja: '目次を開く',
+  'zh-hant': '開啟目錄',
+  'zh-hans': '打开目录',
+};
 
 export interface ReviewMobileBottomBarProps {
   review?: Review;
@@ -54,7 +67,7 @@ export function ReviewMobileBottomBar({
           type="button"
           onClick={() => setDrawerOpen(true)}
           className="fixed bottom-4 left-4 z-40 inline-flex h-11 w-11 items-center justify-center rounded-full bg-white text-[#4a5568] border border-[#1a4d2e]/15 shadow-[0_2px_8px_rgba(0,0,0,0.1)] transition-all motion-safe:hover:-translate-y-0.5 hover:text-[#1a4d2e] motion-safe:hover:shadow-[0_4px_12px_rgba(0,0,0,0.14)] lg:hidden print:hidden"
-          aria-label="Abrir sumário"
+          aria-label={review ? (mobileAriaLabels[getCouponCopyLocale(review.slug)] || 'Abrir sumário') : 'Abrir sumário'}
         >
           <List size={18} />
         </button>
@@ -65,7 +78,7 @@ export function ReviewMobileBottomBar({
         <BottomSheet
           open={drawerOpen}
           onClose={() => setDrawerOpen(false)}
-          ariaLabel="Nesta análise"
+          ariaLabel={review ? (mobileAriaLabels[getCouponCopyLocale(review.slug)] || 'Nesta análise') : 'Nesta análise'}
           returnFocusRef={floatingDrawerTriggerRef}
         >
           <ReviewSidebarContent

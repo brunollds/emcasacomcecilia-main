@@ -235,26 +235,7 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
         </div>
       </section>
 
-      {coupon.slug === 'yesstyle' && (
-        <section className="px-4 pt-8">
-          <div className="mx-auto max-w-5xl">
-            <LanguageSwitcher
-              currentLocale="pt"
-              links={{
-                pt: '/cupons/yesstyle',
-                en: '/reviews/yesstyle-reward-code-coupon-cecilia010',
-                es: '/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010',
-                fr: '/reviews/code-recompense-yesstyle-cecilia010',
-                de: '/reviews/yesstyle-reward-code-rabatt-cecilia010',
-                ko: '/reviews/yesstyle-reward-code-cecilia010-ko',
-                ja: '/reviews/yesstyle-reward-code-cecilia010-ja',
-                'zh-hant': '/reviews/yesstyle-reward-code-cecilia010-zh-hant',
-                'zh-hans': '/reviews/yesstyle-reward-code-cecilia010-zh-hans',
-              }}
-            />
-          </div>
-        </section>
-      )}
+
 
       {coupon.monthlyHighlight && (
         <section className="px-4 pt-8">

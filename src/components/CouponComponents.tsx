@@ -119,8 +119,10 @@ export function CouponStoreLink({
   placement = 'coupon_page',
   className = '',
 }: CouponStoreLinkProps) {
+  const isInternal = href.startsWith('/') || href.startsWith('https://emcasacomcecilia.com');
+
   const handleClick = () => {
-    trackEvent(sponsored ? 'coupon_store_click' : 'outbound_link_click', {
+    trackEvent(sponsored && !isInternal ? 'coupon_store_click' : 'outbound_link_click', {
       ...(couponCode && { coupon_code: couponCode }),
       ...(brand && { brand }),
       ...(contentSlug && { content_slug: contentSlug }),
@@ -128,6 +130,14 @@ export function CouponStoreLink({
       url: href,
     });
   };
+
+  if (isInternal) {
+    return (
+      <Link href={href} className={className} onClick={handleClick}>
+        {children ?? label}
+      </Link>
+    );
+  }
 
   return (
     <a

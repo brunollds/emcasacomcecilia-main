@@ -11,13 +11,30 @@ export interface GuideTimelineProps {
   reviewTitle: string;
 }
 
-function getStepNumber(heading?: string): string | null {
-  const match = heading?.match(/^(?:Passo\s+|Step\s+)?(\d+)(?:[\.\):\s]|\s+)/i);
-  return match?.[1] || null;
+function getStepNumber(heading?: string, fallbackIndex: number = 0): string {
+  if (!heading) return String(fallbackIndex + 1);
+  const prefixMatch = heading.match(/^(?:Passo|Paso|Étape|Schritt|Step|ステップ|步驟|步骤)\s*(\d+)/i);
+  if (prefixMatch?.[1]) return prefixMatch[1];
+  
+  const koreanMatch = heading.match(/^(\d+)\s*단계/i);
+  if (koreanMatch?.[1]) return koreanMatch[1];
+
+  const digitMatch = heading.match(/^(\d+)[\.\)]/);
+  if (digitMatch?.[1]) return digitMatch[1];
+
+  const anyDigit = heading.match(/(\d+)/);
+  if (anyDigit?.[1]) return anyDigit[1];
+
+  return String(fallbackIndex + 1);
 }
 
 function getStepTitle(heading?: string): string {
-  return heading?.replace(/^(?:\d+[\.\)]\s+|Passo\s+\d+[:\.\s]*|Step\s+\d+[:\.\s]*)/i, '') || '';
+  if (!heading) return '';
+  return heading
+    .replace(/^(?:Passo|Paso|Étape|Schritt|Step|ステップ|步驟|步骤)\s*\d+[\s:\.\-—–]*/i, '')
+    .replace(/^\d+\s*단계[\s:\.\-—–]*/i, '')
+    .replace(/^\d+[\.\)]\s*/, '')
+    .trim();
 }
 
 export function GuideTimeline({ steps, sectionIds, reviewTitle }: GuideTimelineProps): React.ReactElement | null {
@@ -97,7 +114,7 @@ export function GuideTimeline({ steps, sectionIds, reviewTitle }: GuideTimelineP
 
       <div className="space-y-10">
         {steps.map((step, index) => {
-          const stepNumber = getStepNumber(step.heading);
+          const stepNumber = getStepNumber(step.heading, index);
           const stepTitle = getStepTitle(step.heading);
           const sectionId = step.heading ? sectionIds.get(step.heading) : undefined;
           const isActive = index === activeIndex;

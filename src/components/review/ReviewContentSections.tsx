@@ -18,15 +18,22 @@ export interface ReviewContentSectionsProps {
 }
 
 function getStepNumber(heading?: string): string | null {
-  const match = heading?.match(/^(?:(?:Passo|Step)\s+)?(\d+)[\.\):]\s+|^(?:Passo|Step)\s+(\d+)\s+/i);
-  return match?.[1] || match?.[2] || null;
+  if (!heading) return null;
+  const prefixMatch = heading.match(/^(?:Passo|Paso|Étape|Schritt|Step|ステップ|步驟|步骤)\s*(\d+)/i);
+  if (prefixMatch?.[1]) return prefixMatch[1];
+  const koreanMatch = heading.match(/^(\d+)\s*단계/i);
+  if (koreanMatch?.[1]) return koreanMatch[1];
+  const digitMatch = heading.match(/^(\d+)[\.\)]/);
+  return digitMatch?.[1] || null;
 }
 
 function removeStepPrefix(heading: string): string {
-  return heading.replace(
-    /^(?:(?:Passo|Step)\s+)?\d+[\.\):]\s+|^(?:Passo|Step)\s+\d+\s+/i,
-    ''
-  );
+  if (!heading) return '';
+  return heading
+    .replace(/^(?:Passo|Paso|Étape|Schritt|Step|ステップ|步驟|步骤)\s*\d+[\s:\.\-—–]*/i, '')
+    .replace(/^\d+\s*단계[\s:\.\-—–]*/i, '')
+    .replace(/^\d+[\.\)]\s*/, '')
+    .trim();
 }
 
 export function ReviewContentSections({

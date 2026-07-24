@@ -4,6 +4,7 @@ import { ArrowRight, ChevronRight, PlayCircle, ShieldCheck } from 'lucide-react'
 import TextToSpeechButton from '@/components/TextToSpeechButton';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { ShareBar } from '@/components/shared/ShareBar';
+import { DocumentLangSetter } from '@/components/shared/DocumentLangSetter';
 import { ReviewGallerySection } from './ReviewGallerySection';
 import { ArticleByline, ChangelogDetails, EditorialAmbientBackground, EditorialReveal, SectionHeadingReveal, SectionLinkButton, EditorialNotePill } from '@/components/editorial';
 import { contentSectionsToPlainText, formatDate, generateSectionIds, type Review, type ReviewViewModel } from '@/lib/content';
@@ -15,7 +16,7 @@ import { ReviewVerdictCard } from './ReviewVerdictCard';
 import { ReviewSidebar } from './ReviewSidebar';
 import { ReviewMobileBottomBar } from './ReviewMobileBottomBar';
 import { InlineCouponCopy } from './InlineCouponCopy';
-import type { CouponCopyLocale } from './couponCopyLocale';
+import { getCouponCopyLocale, isStepHeading, type CouponCopyLocale } from './couponCopyLocale';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 import { GuideTimeline } from './GuideTimeline';
 import { PullQuote } from './PullQuote';
@@ -50,24 +51,9 @@ function estimateReadTimeMinutes(text: string): number {
   return Math.max(1, Math.ceil(words / 200));
 }
 
-function isStepHeading(heading?: string): boolean {
-  return /^(\d+[\.\)]\s+|Passo\s+\d+|Step\s+\d+)/i.test(heading || '');
-}
 
-function getCouponCopyLocale(slug: string): CouponCopyLocale {
-  const localesBySlug: Record<string, CouponCopyLocale> = {
-    'yesstyle-reward-code-coupon-cecilia010': 'en',
-    'codigo-de-recompensa-yesstyle-cupon-cecilia010': 'es',
-    'code-recompense-yesstyle-cecilia010': 'fr',
-    'yesstyle-reward-code-rabatt-cecilia010': 'de',
-    'yesstyle-reward-code-cecilia010-ko': 'ko',
-    'yesstyle-reward-code-cecilia010-ja': 'ja',
-    'yesstyle-reward-code-cecilia010-zh-hant': 'zh-hant',
-    'yesstyle-reward-code-cecilia010-zh-hans': 'zh-hans',
-  };
 
-  return localesBySlug[slug] || 'pt';
-}
+
 
 function getDisclosureLabel(locale: CouponCopyLocale): string {
   const labels: Record<CouponCopyLocale, string> = {
@@ -85,6 +71,118 @@ function getDisclosureLabel(locale: CouponCopyLocale): string {
   return labels[locale];
 }
 
+const templateUiLabels: Record<CouponCopyLocale, {
+  publishedAt: string;
+  updatedAt: string;
+  readTime: (mins: number) => string;
+  interested: string;
+  tableOfContents: string;
+  relatedArticles: string;
+  verdictHeading: string;
+  verdictToc: string;
+  viewAll: string;
+}> = {
+  pt: {
+    publishedAt: 'Publicado em',
+    updatedAt: 'Atualizado em',
+    readTime: (m) => `${m} min de leitura`,
+    interested: 'Interessou?',
+    tableOfContents: 'Nesta análise',
+    relatedArticles: 'Artigos relacionados',
+    verdictHeading: 'Veredito da Cecília',
+    verdictToc: 'Veredito final',
+    viewAll: 'Ver todos',
+  },
+  en: {
+    publishedAt: 'Published on',
+    updatedAt: 'Updated on',
+    readTime: (m) => `${m} min read`,
+    interested: 'Interested?',
+    tableOfContents: 'In this guide',
+    relatedArticles: 'Related articles',
+    verdictHeading: 'Cecília’s Verdict',
+    verdictToc: 'Final verdict',
+    viewAll: 'View all',
+  },
+  es: {
+    publishedAt: 'Publicado el',
+    updatedAt: 'Actualizado el',
+    readTime: (m) => `${m} min de lectura`,
+    interested: '¿Te interesa?',
+    tableOfContents: 'En esta guía',
+    relatedArticles: 'Artículos relacionados',
+    verdictHeading: 'Veredicto de Cecília',
+    verdictToc: 'Veredicto final',
+    viewAll: 'Ver todos',
+  },
+  fr: {
+    publishedAt: 'Publié le',
+    updatedAt: 'Mis à jour le',
+    readTime: (m) => `${m} min de lecture`,
+    interested: 'Intéressé ?',
+    tableOfContents: 'Dans ce guide',
+    relatedArticles: 'Articles connexes',
+    verdictHeading: 'Verdict de Cecília',
+    verdictToc: 'Verdict final',
+    viewAll: 'Voir tout',
+  },
+  de: {
+    publishedAt: 'Veröffentlicht am',
+    updatedAt: 'Aktualisiert am',
+    readTime: (m) => `${m} Min. Lesezeit`,
+    interested: 'Interessiert?',
+    tableOfContents: 'In diesem Ratgeber',
+    relatedArticles: 'Verwandte Artikel',
+    verdictHeading: 'Cecílias Fazit',
+    verdictToc: 'Endergebnis',
+    viewAll: 'Alle ansehen',
+  },
+  ko: {
+    publishedAt: '발행일',
+    updatedAt: '수정일',
+    readTime: (m) => `읽는 시간 ${m}분`,
+    interested: '관심이 있으신가요?',
+    tableOfContents: '목차',
+    relatedArticles: '관련 문서',
+    verdictHeading: '세실리아의 최종 평가',
+    verdictToc: '최종 평가',
+    viewAll: '전체 보기',
+  },
+  ja: {
+    publishedAt: '公開日',
+    updatedAt: '更新日',
+    readTime: (m) => `読了時間 約${m}分`,
+    interested: '気になりましたか？',
+    tableOfContents: '目次',
+    relatedArticles: '関連記事',
+    verdictHeading: 'セシリアの最終評価',
+    verdictToc: '最終評価',
+    viewAll: 'すべて見る',
+  },
+  'zh-hant': {
+    publishedAt: '發布於',
+    updatedAt: '更新於',
+    readTime: (m) => `閱讀時間約 ${m} 分鐘`,
+    interested: '感興趣嗎？',
+    tableOfContents: '目錄',
+    relatedArticles: '相關文章',
+    verdictHeading: 'Cecília 的最終評價',
+    verdictToc: '最終評價',
+    viewAll: '查看全部',
+  },
+  'zh-hans': {
+    publishedAt: '发布于',
+    updatedAt: '更新于',
+    readTime: (m) => `阅读时间约 ${m} 分钟`,
+    interested: '感兴趣吗？',
+    tableOfContents: '目录',
+    relatedArticles: '相关文章',
+    verdictHeading: 'Cecília 的最终评价',
+    verdictToc: '最终评价',
+    viewAll: '查看全部',
+  },
+};
+
 export function ReviewNotebookTemplate({
   review,
   viewModel,
@@ -96,6 +194,9 @@ export function ReviewNotebookTemplate({
   faqJsonLd = null,
   relatedReviews,
 }: ReviewNotebookTemplateProps): React.ReactElement {
+  const couponCopyLocale = getCouponCopyLocale(review.slug);
+  const ui = templateUiLabels[couponCopyLocale] || templateUiLabels.pt;
+
   const { kind, plainTextBody } = viewModel;
   const kindLabel = getKindLabel(kind);
   const badgeColor = getBadgeColor(kind);
@@ -149,7 +250,6 @@ export function ReviewNotebookTemplate({
       : null;
   const hasCta = Boolean(effectiveCta?.url && effectiveCta?.label);
   const isPortraitHero = review.imageAspect === 'portrait';
-  const couponCopyLocale = getCouponCopyLocale(review.slug);
 
   const stepSections = (review.contentSections || []).filter((s) => isStepHeading(s.heading));
   const firstStepIndex = (review.contentSections || []).findIndex((s) => isStepHeading(s.heading));
@@ -169,6 +269,12 @@ export function ReviewNotebookTemplate({
 
   return (
     <>
+      <DocumentLangSetter locale={couponCopyLocale} />
+      <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){try{var l=${JSON.stringify(couponCopyLocale === 'pt' ? 'pt-BR' : (couponCopyLocale === 'zh-hant' ? 'zh-Hant' : (couponCopyLocale === 'zh-hans' ? 'zh-Hans' : couponCopyLocale)))};if(document&&document.documentElement){document.documentElement.lang=l;}}catch(e){}})();`,
+          }}
+        />
       <ReadingProgressBar />
       <EditorialAmbientBackground variant="review" className="review-page-bg min-h-screen pb-20">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
@@ -270,6 +376,33 @@ export function ReviewNotebookTemplate({
               />
             )}
 
+            {[
+              'como-encontrar-cupons-yesstyle-validos',
+              'how-to-find-valid-yesstyle-coupon-codes',
+              'como-encontrar-cupones-yesstyle-validos',
+              'comment-trouver-des-codes-promo-yesstyle-valides',
+              'gueltige-yesstyle-gutscheincodes-finden',
+              'yesstyle-valid-coupon-guide-ko',
+              'yesstyle-valid-coupon-guide-ja',
+              'yesstyle-valid-coupon-guide-zh-hant',
+              'yesstyle-valid-coupon-guide-zh-hans'
+            ].includes(review.slug) && (
+              <LanguageSwitcher
+                currentLocale={couponCopyLocale}
+                links={{
+                  pt: '/reviews/como-encontrar-cupons-yesstyle-validos',
+                  en: '/reviews/how-to-find-valid-yesstyle-coupon-codes',
+                  es: '/reviews/como-encontrar-cupones-yesstyle-validos',
+                  fr: '/reviews/comment-trouver-des-codes-promo-yesstyle-valides',
+                  de: '/reviews/gueltige-yesstyle-gutscheincodes-finden',
+                  ko: '/reviews/yesstyle-valid-coupon-guide-ko',
+                  ja: '/reviews/yesstyle-valid-coupon-guide-ja',
+                  'zh-hant': '/reviews/yesstyle-valid-coupon-guide-zh-hant',
+                  'zh-hans': '/reviews/yesstyle-valid-coupon-guide-zh-hans',
+                }}
+              />
+            )}
+
             <EditorialReveal as="div" delay={0.2} className="mb-8">
               <ArticleByline
                 authors={review.authors || (review.author ? [review.author] : undefined)}
@@ -281,12 +414,12 @@ export function ReviewNotebookTemplate({
                 }}
                 meta={[
                   ...(review.publishedAtISO
-                    ? [{ icon: 'calendar' as const, label: 'Publicado em', value: formatDate(review.publishedAtISO), dateTime: review.publishedAtISO }]
+                    ? [{ icon: 'calendar' as const, label: ui.publishedAt, value: formatDate(review.publishedAtISO, couponCopyLocale), dateTime: review.publishedAtISO }]
                     : []),
                   ...(review.updatedAt && review.updatedAt !== review.publishedAtISO
-                    ? [{ label: 'Atualizado em', value: formatDate(review.updatedAt), dateTime: review.updatedAt }]
+                    ? [{ label: ui.updatedAt, value: formatDate(review.updatedAt, couponCopyLocale), dateTime: review.updatedAt }]
                     : []),
-                  { icon: 'clock', label: 'Tempo de leitura', value: `${readTime} min de leitura` },
+                  { icon: 'clock', label: ui.readTime(1).split(' ')[0], value: ui.readTime(readTime) },
                 ]}
                 action={<TextToSpeechButton text={speechText} />}
               />
@@ -519,7 +652,7 @@ export function ReviewNotebookTemplate({
                   <div className="relative flex flex-col items-start justify-between gap-4 sm:flex-row sm:items-center">
                     <div>
                       <p className="mb-1 text-[11px] font-bold uppercase tracking-[0.16em] text-[#ff6b35]">
-                        Interessou?
+                        {ui.interested}
                       </p>
                       <p className="max-w-2xl font-editorial text-lg italic leading-relaxed">
                         {effectiveCta?.text}
@@ -604,13 +737,13 @@ export function ReviewNotebookTemplate({
                   underlineColor="#ff6b35"
                   className="font-editorial text-2xl font-bold text-[#1a4d2e]"
                 >
-                  Mais artigos que você pode gostar
+                  {ui.relatedArticles}
                 </SectionHeadingReveal>
                 <Link
                   href="/reviews"
                   className="hidden items-center gap-2 text-sm font-bold text-[#1a4d2e] transition-colors hover:text-[#ff6b35] md:inline-flex"
                 >
-                  Ver todos
+                  {ui.viewAll}
                   <ArrowRight size={16} />
                 </Link>
               </div>

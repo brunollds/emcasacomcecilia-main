@@ -6,8 +6,21 @@ import { useEffect, useRef, useState } from 'react';
 import { copyTextWithFallback } from '@/lib/clipboardUtils';
 import { trackEvent } from '@/lib/analytics';
 import { CouponStoreLink } from '@/components/CouponComponents';
+import { getCouponCopyLocale } from './couponCopyLocale';
 import type { TocItem } from './ReviewTableOfContents';
 import type { Review, ReviewKind } from '@/lib/content';
+
+const tocTitlesByLocale: Record<string, string> = {
+  pt: 'Nesta análise',
+  en: 'In this guide',
+  es: 'En esta guía',
+  fr: 'Dans ce guide',
+  de: 'In diesem Ratgeber',
+  ko: '목차',
+  ja: '目次',
+  'zh-hant': '目錄',
+  'zh-hans': '目录',
+};
 
 export interface ReviewSidebarProps {
   review: Review;
@@ -168,7 +181,7 @@ export function ReviewSidebarContent({
       {hasToc && (
         <nav aria-label="Navegação por capítulos" className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
           <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">
-            Nesta análise
+            {tocTitlesByLocale[getCouponCopyLocale(review.slug)] || 'Nesta análise'}
           </p>
           <ul className="space-y-1">
             {tocItems.map((item) => (
