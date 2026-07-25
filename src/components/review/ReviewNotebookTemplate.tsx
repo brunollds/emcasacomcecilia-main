@@ -4,7 +4,6 @@ import { ArrowRight, ChevronRight, PlayCircle, ShieldCheck } from 'lucide-react'
 import TextToSpeechButton from '@/components/TextToSpeechButton';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { ShareBar } from '@/components/shared/ShareBar';
-import { DocumentLangSetter } from '@/components/shared/DocumentLangSetter';
 import { ReviewGallerySection } from './ReviewGallerySection';
 import { ArticleByline, ChangelogDetails, EditorialAmbientBackground, EditorialReveal, SectionHeadingReveal, SectionLinkButton, EditorialNotePill } from '@/components/editorial';
 import { contentSectionsToPlainText, formatDate, generateSectionIds, type Review, type ReviewViewModel } from '@/lib/content';
@@ -271,12 +270,6 @@ export function ReviewNotebookTemplate({
 
   return (
     <>
-      <DocumentLangSetter locale={couponCopyLocale} />
-      <script
-          dangerouslySetInnerHTML={{
-            __html: `(function(){try{var l=${JSON.stringify(couponCopyLocale === 'pt' ? 'pt-BR' : (couponCopyLocale === 'zh-hant' ? 'zh-Hant' : (couponCopyLocale === 'zh-hans' ? 'zh-Hans' : couponCopyLocale)))};if(document&&document.documentElement){document.documentElement.lang=l;}}catch(e){}})();`,
-          }}
-        />
       <ReadingProgressBar />
       <EditorialAmbientBackground variant="review" className="review-page-bg min-h-screen pb-20">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
