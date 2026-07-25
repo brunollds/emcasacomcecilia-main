@@ -1,4 +1,4 @@
-import { getPrimaryRewardCode, getActivePromoCoupons, getLatestYesStyleVerifiedAtISO } from './yesstyleCoupons';
+import { getPrimaryRewardCode, getLatestYesStyleVerifiedAtISO } from './yesstyleCoupons';
 
 export interface CouponFAQ {
   question: string;

@@ -1,16 +1,12 @@
 import {
-  YESSTYLE_COUPONS_FACTUAL,
   getPrimaryRewardCode,
   getActivePromoCoupons,
   getLatestYesStyleVerifiedAtISO,
-  type YesStyleRewardOffer,
-  type YesStylePromoOffer,
 } from '../src/lib/yesstyleCoupons';
 import {
   resolveYesStylePage,
   getYesStyleMetadata,
   yesStyleLocales,
-  formatIsoDateUTC,
   YesStyleCouponPage,
   getYesStyleBreadcrumbItems,
 } from '../src/components/YesStyleCouponPage';
