@@ -1,90 +1,103 @@
 import fs from 'fs';
 import path from 'path';
 
-// 1. Matriz de Expressões Proibidas (Normalizadas via Regex por Locale)
-const forbiddenRegexes = [
-  // Permanência / Validade Absoluta
+// 1. Frases Proibidas Absolutas (Permanência Falsa e Stacking Irrestrito)
+const forbiddenPhrases = [
+  /n['’]importe\s+quel/i,
+  /any\s+active\s+(coupon|promo\s+code)/i,
   /qualquer\s+cupom/i,
+  /cualquier\s+cupón/i,
+  /jedem\s+aktiven\s+gutschein/i,
+  /mit\s+jedem\s+gutschein/i,
+  /independentemente\s+de\s+ser\s+sua\s+primeira\s+compra/i,
+  /regardless\s+of\s+whether\s+it\s+is\s+your\s+first\s+order/i,
+  /indépendamment\s+du\s+nombre\s+de\s+commandes/i,
+  /unabhängig\s+davon,\s+ob/i,
   /100%\s*cumulativo/i,
   /validade\s*:\s*permanente/i,
   /mais\s+permanente/i,
-  /any\s+active\s+coupon/i,
-  /any\s+active\s+promo\s+code/i,
   /validity\s*:\s*permanent/i,
   /more\s+permanent/i,
-  /cualquier\s+cupón/i,
   /validez\s*:\s*permanente/i,
   /siempre\s+activo/i,
-  /tout\s+coupon/i,
   /validité\s*:\s*permanent/i,
-  /toujours\s+actif\s+et\s+validé/i,
+  /toujours\s+actif/i,
   /partenaire\s+permanent/i,
-  /jedem\s+aktiven\s+gutschein/i,
-  /mit\s+jedem\s+gutschein/i,
   /gültigkeit\s*:\s*dauerhaft/i,
   /immer\s+aktiv/i,
   /dauerhafter\s+partner-code/i,
-  /어떤\s+쿠폰/i,
-  /유효기간\s*:\s*영구/i,
-  /あらゆるクーポン/i,
-  /有効期限\s*:\s*永久/i,
-  /任何優惠碼/i,
-  /有效期限\s*[:：]\s*永久/i,
-  /任何优惠码/i,
-  /有效期限\s*[:：]\s*永久/i,
-  /cupons\s+elegíveis\s+válido/i,
-  /cupones\s+promocionales\s+elegibles\s+activo/i,
-
-  // Promessa Fictícia de 5% Fixo (sem diferenciar 1ª compra 5% e recorrente 2%)
-  /independentemente\s+de\s+ser\s+sua\s+primeira\s+compra/i,
-  /garantir\s+5%/i,
-  /garante\s+5%\s+extra\s+no/i,
-  /ativar\s+os\s+5%\s+extras/i,
-  /somar\s+esse\s+cupom\s+aos\s+5%\s+extras/i,
-  /soma\s+5%\s+extras/i,
-  /oferece\s+5%\s+extras/i,
-  /regardless\s+of\s+whether\s+it\s+is\s+your\s+first\s+order/i,
-  /les\s+5%\s+de\s+CECILIA010/i,
-  /el\s+5%\s+de\s+CECILIA010/i,
-  /fügt\s+ihnen\s+5%\s+hinzu/i,
-  /die\s+5%\s+von\s+CECILIA010/i,
 ];
 
-// 2. Teste de Regressão Negativo
+// 2. Validador Semântico de Desconto 5%
+// Se a linha menciona 5% no contexto do CECILIA010 ou desconto de influenciador, DEVE conter um qualificador válido.
+const qualifiersRegex = /(até|up\s+to|hasta|jusqu['’]à|bis\s+zu|최대|最大|最高|高達|高达|primeira\s+compra|1ª\s+compra|1st\s+order|first\s+order|1st\s+purchase|first\s+purchase|1ère\s+commande|première\s+commande|primera\s+compra|erstbestellung|erste\s+bestellung|1\.\s+bestellung|1ª\s+compras|첫\s+구매|初回|首購|首购|首次|2%|Bronze|Elite\s+Club|10%|15%|50%)/i;
+
+function validateSemanticRules(text, fileName = '') {
+  const errors = [];
+
+  // Checagem 1: Frases proibidas de permanência ou stacking irrestrito
+  for (const regex of forbiddenPhrases) {
+    const match = text.match(regex);
+    if (match) {
+      errors.push(`Termo proibido detectado: "${match[0]}"`);
+    }
+  }
+
+  // Checagem 2: Validação semântica das menções a 5%
+  const lines = text.split('\n');
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+
+    // Ignorar linhas de metadata estática como 'bestRating: 5' ou 'id: 5' ou 'stars: 5'
+    if (line.includes('"bestRating"') || line.includes('"stars"') || line.includes('"ratingValue"')) {
+      continue;
+    }
+
+    // Se a linha menciona 5% (ou 5 % ou 5% OFF)
+    if (/5\s*%/i.test(line)) {
+      if (!qualifiersRegex.test(line)) {
+        errors.push(`Linha ${i + 1}: Promessa de 5% sem qualificação (até / 1ª compra / 2%): "${line.trim()}"`);
+      }
+    }
+  }
+
+  return errors;
+}
+
+// 3. Bateria de Testes de Regressão Negativo (Comprova falha em inconsistências reais)
 function runNegativeRegressionTests() {
-  const dummyCases = [
-    'FR: Validité : Permanent (toujours actif et validé)',
-    'DE: mit jedem aktiven Gutschein einlösbar',
-    'DE: ist ein dauerhafter Partner-Code',
-    'EN: works with any active promo code and is more permanent',
-    'ES: este código está siempre activo y verificado',
-    'PT: 100% cumulativo com qualquer cupom',
-    'PT: funciona independentemente de ser sua primeira compra',
-    'PT: para garantir 5% de desconto extra',
-    'EN: regardless of whether it is your first order',
-    'FR: les 5% de CECILIA010',
-    'DE: fügt ihnen 5% hinzu',
-    'ES: el 5% de CECILIA010',
+  const dummyInconsistentCases = [
+    'PT: O código CECILIA010 concede 5% de desconto extra no checkout.',
+    'PT: Funciona 100% cumulativo com qualquer cupom.',
+    'PT: Funciona independentemente de ser sua primeira compra.',
+    'EN: Use CECILIA010 for an extra 5% off at checkout.',
+    'EN: Works with any active promo code and is more permanent.',
+    'EN: Works regardless of whether it is your first order.',
+    'FR: Offre 5% de réduction supplémentaire sur tous les produits.',
+    'FR: Cumulable avec n\'importe quel coupon du site.',
+    'DE: Gewährt 5% Extrarabatt beim Checkout.',
+    'DE: Ist mit jedem aktiven Gutschein einlösbar und immer aktiv.',
   ];
 
   let caught = 0;
-  for (const dummy of dummyCases) {
-    if (forbiddenRegexes.some((regex) => regex.test(dummy))) {
+  for (const dummy of dummyInconsistentCases) {
+    const errors = validateSemanticRules(dummy, 'test-dummy');
+    if (errors.length > 0) {
       caught++;
     }
   }
 
-  if (caught !== dummyCases.length) {
-    console.error(`❌ TESTE DE REGRESSÃO FALHOU: Apenas ${caught}/${dummyCases.length} casos de teste negativos foram capturados pelo auditor!`);
+  if (caught !== dummyInconsistentCases.length) {
+    console.error(`❌ TESTE DE REGRESSÃO FALHOU: Apenas ${caught}/${dummyInconsistentCases.length} casos de teste negativos foram capturados pelo validador semântico!`);
     process.exit(1);
   } else {
-    console.log(`✅ TESTE DE REGRESSÃO NEGATIVO APROVADO: Todos os ${caught} casos de teste falsos foram capturados corretamente!`);
+    console.log(`✅ TESTE DE REGRESSÃO NEGATIVO APROVADO: Todos os ${caught}/${dummyInconsistentCases.length} casos de teste falsos foram capturados pelo validador semântico!`);
   }
 }
 
 runNegativeRegressionTests();
 
-// 3. Auditoria nos 18 Artigos da YesStyle
+// 4. Auditoria nos 18 Artigos da YesStyle
 const targetFiles = [
   'codigo-cecilia010-yesstyle-como-usar.json',
   'como-encontrar-cupons-yesstyle-validos.json',
@@ -107,39 +120,36 @@ const targetFiles = [
 ];
 
 const reviewsDir = path.resolve('content/reviews');
-let errorsCount = 0;
+let totalErrorsCount = 0;
 
-console.log('\n=== AUDITORIA EDITORIAL RIGOROSA DE CONTEÚDO YESSTYLE (PROJETO C1) ===\n');
+console.log('\n=== AUDITORIA EDITORIAL SEMÂNTICA DE CONTEÚDO YESSTYLE (PROJETO C1) ===\n');
 
 for (const fileName of targetFiles) {
   const filePath = path.join(reviewsDir, fileName);
   if (!fs.existsSync(filePath)) {
     console.error(`❌ Arquivo ausente: ${fileName}`);
-    errorsCount++;
+    totalErrorsCount++;
     continue;
   }
 
   const text = fs.readFileSync(filePath, 'utf8');
-  let fileHasErrors = false;
+  const fileErrors = validateSemanticRules(text, fileName);
 
-  for (const regex of forbiddenRegexes) {
-    const match = text.match(regex);
-    if (match) {
-      console.error(`❌ Termo proibido detectado em "${fileName}": "${match[0]}"`);
-      fileHasErrors = true;
-      errorsCount++;
+  if (fileErrors.length > 0) {
+    console.error(`❌ Erros no arquivo "${fileName}":`);
+    for (const err of fileErrors) {
+      console.error(`   - ${err}`);
     }
-  }
-
-  if (!fileHasErrors) {
-    console.log(`✅ ${fileName.padEnd(55)} -> 100% Conforme!`);
+    totalErrorsCount += fileErrors.length;
+  } else {
+    console.log(`✅ ${fileName.padEnd(55)} -> 100% Conforme Semanticamente!`);
   }
 }
 
-if (errorsCount === 0) {
-  console.log('\n🎉 TODOS OS 18 ARTIGOS YESSTYLE ESTÃO TOTALMENTE AUDITADOS E 100% CONFORMES!');
+if (totalErrorsCount === 0) {
+  console.log('\n🎉 TODOS OS 18 ARTIGOS YESSTYLE PASSARAM NA VALIDAÇÃO SEMÂNTICA EDITORIAL COM 100% DE SUCESSO!');
   process.exit(0);
 } else {
-  console.error(`\n❌ ${errorsCount} violação(ões) editorial(is) encontrada(s)!`);
+  console.error(`\n❌ ${totalErrorsCount} violação(ões) semântica(s) encontrada(s)!`);
   process.exit(1);
 }

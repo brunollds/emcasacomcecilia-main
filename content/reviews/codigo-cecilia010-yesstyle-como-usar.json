@@ -5,7 +5,7 @@
   "type": "Guia & Cupons",
   "reviewKind": "guia",
   "description": "Passo a passo prático para usar o código de influenciador CECILIA010 na YesStyle. Veja onde digitá-lo no checkout (Reward Code), como combinar com cupons ativos, dicas de K-Beauty e regras de importação para o Brasil.",
-  "metaDescription": "Como usar CECILIA010 na YesStyle: campo Reward Code, 5% extra cumulativo, como combinar cupons + frete grátis para o Brasil em compras acima de US$ 59.",
+  "metaDescription": "Como usar CECILIA010 na YesStyle: campo Reward Code, até 5% extra cumulativo (5% 1ª compra / 2% recorrente), como combinar cupons + frete grátis para o Brasil em compras acima de US$ 59.",
   "publishedAt": "21 Jun 2026",
   "publishedAtISO": "2026-06-21",
   "draft": false,
@@ -224,10 +224,8 @@
     {
       "heading": "Dicas para comprar na YesStyle: como encontrar as melhores ofertas",
       "paragraphs": [
-        "Como alguém que acompanha a YesStyle há um bom tempo, reunir aqui minhas melhores dicas para você economizar:"
-      ],
-      "bullets": [
-        "Como esses códigos mudam com frequência, o mais seguro é verificar a página de promoções da própria YesStyle antes de finalizar a compra. Depois, aplique o cupom ativo no campo \"Coupon Code\" and mantenha o CECILIA010 no campo \"Reward Code\"."
+        "Como alguém que acompanha a YesStyle há um bom tempo, reuni aqui minhas melhores dicas para você economizar:",
+        "Como esses códigos mudam com frequência, o mais seguro é verificar a página de promoções da própria YesStyle antes de finalizar a compra. Depois, aplique o cupom ativo no campo \"Coupon Code\" e mantenha o CECILIA010 no campo \"Reward Code\"."
       ],
       "bullets": [
         "Flash Sales: promoções relâmpago de até 50% OFF por tempo limitado. Entre no site diariamente e adicione produtos à Wishlist.",
@@ -239,11 +237,7 @@
         "Compare com o preço no Brasil: pesquise em Beleza na Web, Sephora e revendedores de K-beauty antes de comprar.",
         "Fique de olho nas estações: Black Friday (novembro), 11.11 (Dia dos Solteiros), Natal, Summer Sale (junho/julho), Back to School (agosto/setembro).",
         "Use o CECILIA010 sempre: não custa nada, soma até 5% extra (5% 1ª compra / 2% recorrente) quando aplicado corretamente e apoia o blog."
-      ],
-      "image": "/images/reviews/cupons/yesstyle-checkout-passo-a-passo.webp",
-      "imageAlt": "Checkout da YesStyle com campos de desconto e código CECILIA010 inserido.",
-      "imageCaption": "Tela final do pedido com a lista de descontos somados no valor total.",
-      "imageFit": "contain"
+      ]
     },
     {
       "heading": "Perguntas frequentes sobre o código CECILIA010 na YesStyle (FAQ)",
@@ -252,7 +246,7 @@
       ],
       "bullets": [
         "O CECILIA010 é um cupom de desconto? Ele funciona como código de recompensa/influenciador da YesStyle e oferece até 5% extra (5% 1ª compra / 2% recorrente) quando aplicado no campo correto. A vantagem é que pode ser usado junto com cupons elegíveis.",
-        "Posso usar o CECILIA010 junto com cupons? Sim! Ele vai no campo \"Reward Code\", enquanto os cupons vão no campo \"Coupon Code\". Assim, você soma os 5% do CECILIA010 ao cupom ativo.",
+        "Posso usar o CECILIA010 junto com cupons? Sim! Ele vai no campo \"Reward Code\", enquanto os cupons vão no campo \"Coupon Code\". Assim, você soma até 5% extra (5% na primeira compra e 2% em compras recorrentes) aos cupons promocionais elegíveis confirmados no checkout.",
         "O CECILIA010 tem validade? Funciona enquanto o programa de influenciadores da YesStyle estiver ativo e o código for verificado regularmente.",
         "Comprar na YesStyle é seguro? Sim. Empresa legítima desde 2006, atende mais de 80 países, produtos autênticos, criptografia SSL.",
         "Quanto tempo demora para chegar no Brasil? Standard: 15 a 30 dias úteis. Express: 7 a 15 dias úteis. O tempo na alfândega pode adicionar dias extras.",
