@@ -288,11 +288,17 @@ export const COUPONS: Coupon[] = [
     },
     get metaTitle() {
       const r = getPrimaryRewardCode();
-      return `Cupom YesStyle Julho 2026: ${r.code} — Até ${r.newCustomerDiscount}% Extra Cumulativo`;
+      const d = new Date(`${r.verifiedAt}T00:00:00Z`);
+      const months = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'];
+      const monthYear = `${months[d.getUTCMonth()]} ${d.getUTCFullYear()}`;
+      return `Cupom YesStyle ${monthYear}: ${r.code} — Até ${r.newCustomerDiscount}% Extra Cumulativo`;
     },
     get metaDescription() {
       const r = getPrimaryRewardCode();
-      return `Cupom YesStyle testado em julho de 2026: use ${r.code} para até ${r.newCustomerDiscount}% extra no campo Reward Code (${r.newCustomerDiscount}% 1ª compra / ${r.returningCustomerDiscount}% recorrente) e combine com cupons promocionais elegíveis.`;
+      const d = new Date(`${r.verifiedAt}T00:00:00Z`);
+      const months = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
+      const monthYear = `${months[d.getUTCMonth()]} de ${d.getUTCFullYear()}`;
+      return `Cupom YesStyle testado em ${monthYear}: use ${r.code} para até ${r.newCustomerDiscount}% extra no campo Reward Code (${r.newCustomerDiscount}% 1ª compra / ${r.returningCustomerDiscount}% recorrente) e combine com cupons promocionais elegíveis.`;
     },
     eligibleCategories:
       'Beleza, skincare, moda, acessórios e lifestyle, conforme regras da loja',
@@ -301,70 +307,74 @@ export const COUPONS: Coupon[] = [
     shipping: 'Calculado separadamente, conforme política internacional da loja',
     combinable: 'Sim: deve ser usado no campo Reward Code e é acumulável com cupons promocionais elegíveis no campo Coupon Code',
     get lastVerified() { return getPrimaryRewardCode().verifiedAt; },
-    aboutBrand:
-      'A YesStyle é uma loja internacional conhecida por produtos de beleza asiática, skincare, moda, acessórios e itens de lifestyle. O CECILIA010 entra como código de recompensa de influenciador para quem acompanha o Em Casa com Cecília e quer economizar no site. A diferença importante é que ele não substitui o cupom promocional da loja: deve ser aplicado no campo Reward Code para somar até 5% extras (5% na primeira compra ou 2% em compras recorrentes) aos cupons promocionais elegíveis inseridos no campo Coupon Code. Como regras de desconto, frete e aplicação podem variar por campanha, produto e país de entrega, confira sempre o resumo do carrinho antes de finalizar a compra.',
-    faqs: [
-      {
-        question: 'CECILIA010 é cupom ou código de recompensa da YesStyle?',
-        answer:
-          'CECILIA010 é um código de recompensa (Reward Code) de influenciador. Ele deve ser colocado no campo Reward Code / Código de Recompensa, não no campo de cupom tradicional.',
-      },
-      {
-        question: 'Posso usar CECILIA010 junto com um cupom YesStyle?',
-        answer:
-          'Sim. A principal vantagem é justamente somar: CECILIA010 vai no campo Reward Code e o cupom promocional ativo vai no campo Coupon Code. Confira os descontos acumulados no resumo do pedido.',
-      },
-      {
-        question: 'Qual o desconto do código CECILIA010?',
-        answer:
-          'O CECILIA010 oferece até 5% OFF extra: 5% de desconto para novos clientes em sua primeira compra e 2% de desconto para compras recorrentes.',
-      },
-      {
-        question: 'O código de recompensa CECILIA010 vale para skincare e beleza coreana?',
-        answer:
-          'Pode valer para skincare, K-beauty, cosméticos, moda e lifestyle conforme as condições comerciais da YesStyle. O checkout sempre mostra se o benefício foi aplicado.',
-      },
-      {
-        question: 'CECILIA010 dá frete grátis?',
-        answer:
-          'Não necessariamente. O código de recompensa adiciona benefício nos produtos elegíveis; frete, prazo e condições de entrega seguem as regras internacionais da YesStyle.',
-      },
-      {
-        question: 'Posso usar CECILIA010 mais de uma vez?',
-        answer:
-          'A regra de reutilização depende da política da YesStyle e do programa de recompensas vigente. Se houver limite por conta ou pedido, o checkout informa.',
-      },
-      {
-        question: 'Usar o código de recompensa apoia o Em Casa com Cecília?',
-        answer:
-          'Sim, o uso do CECILIA010 pode gerar comissão, crédito ou benefício de afiliado para o Em Casa com Cecília, sem custo extra para você.',
-      },
-    ],
+    get aboutBrand() {
+      const r = getPrimaryRewardCode();
+      return `A YesStyle é uma loja internacional conhecida por produtos de beleza asiática, skincare, moda, acessórios e itens de lifestyle. O ${r.code} entra como código de recompensa de influenciador para quem acompanha o Em Casa com Cecília e quer economizar no site. A diferença importante é que ele não substitui o cupom promocional da loja: deve ser aplicado no campo Reward Code para somar até ${r.newCustomerDiscount}% extras (${r.newCustomerDiscount}% na primeira compra ou ${r.returningCustomerDiscount}% em compras recorrentes) aos cupons promocionais elegíveis inseridos no campo Coupon Code. Como regras de desconto, frete e aplicação podem variar por campanha, produto e país de entrega, confira sempre o resumo do carrinho antes de finalizar a compra.`;
+    },
+    get faqs() {
+      const r = getPrimaryRewardCode();
+      return [
+        {
+          question: `${r.code} é cupom ou código de recompensa da YesStyle?`,
+          answer: `${r.code} é um código de recompensa (Reward Code) de influenciador. Ele deve ser colocado no campo Reward Code / Código de Recompensa, não no campo de cupom tradicional.`,
+        },
+        {
+          question: `Posso usar ${r.code} junto com um cupom YesStyle?`,
+          answer: `Sim. A principal vantagem é justamente somar: ${r.code} vai no campo Reward Code e o cupom promocional ativo vai no campo Coupon Code. Confira os descontos acumulados no resumo do pedido.`,
+        },
+        {
+          question: `Qual o desconto do código ${r.code}?`,
+          answer: `O ${r.code} oferece até ${r.newCustomerDiscount}% OFF extra: ${r.newCustomerDiscount}% de desconto para novos clientes em sua primeira compra e ${r.returningCustomerDiscount}% de desconto para compras recorrentes.`,
+        },
+        {
+          question: `O código de recompensa ${r.code} vale para skincare e beleza coreana?`,
+          answer: 'Pode valer para skincare, K-beauty, cosméticos, moda e lifestyle conforme as condições comerciais da YesStyle. O checkout sempre mostra se o benefício foi aplicado.',
+        },
+        {
+          question: `${r.code} dá frete grátis?`,
+          answer: 'Não necessariamente. O código de recompensa adiciona benefício nos produtos elegíveis; frete, prazo e condições de entrega seguem as regras internacionais da YesStyle.',
+        },
+        {
+          question: `Posso usar ${r.code} mais de uma vez?`,
+          answer: 'A regra de reutilização depende da política da YesStyle e do programa de recompensas vigente. Se houver limite por conta ou pedido, o checkout informa.',
+        },
+        {
+          question: 'Usar o código de recompensa apoia o Em Casa com Cecília?',
+          answer: `Sim, o uso do ${r.code} pode gerar comissão, crédito ou benefício de afiliado para o Em Casa com Cecília, sem custo extra para você.`,
+        },
+      ];
+    },
     status: 'ativo',
     featured: true,
-    relatedContent: [
-      {
-        title: 'Como encontrar cupons YesStyle válidos e combinar com o CECILIA010',
-        url: '/reviews/como-encontrar-cupons-yesstyle-validos',
-        type: 'review',
-        publishedAt: '2026-07-24',
-      },
-      {
-        title: 'YesStyle CECILIA010: como usar o código de recompensa (Passo a passo com prints)',
-        url: '/reviews/codigo-cecilia010-yesstyle-como-usar',
-        type: 'review',
-        publishedAt: '2026-06-21',
-      },
-      {
-        title: 'YesStyle Reward Code CECILIA010 (English)',
-        url: '/reviews/yesstyle-reward-code-coupon-cecilia010',
-        type: 'review',
-        publishedAt: '2026-07-11',
-      },
-    ],
-    monthlyHighlight: {
-      scope: 'na YesStyle',
-      note: 'Não é cupom tradicional: use no campo Reward Code para somar até 5% extras aos cupons promocionais elegíveis',
+    get relatedContent() {
+      const r = getPrimaryRewardCode();
+      return [
+        {
+          title: 'Como encontrar cupons YesStyle válidos e acumular descontos',
+          url: '/reviews/como-encontrar-cupons-yesstyle-validos',
+          type: 'review' as const,
+          publishedAt: '2026-07-24',
+        },
+        {
+          title: `YesStyle ${r.code}: como usar o código de recompensa (Passo a passo com prints)`,
+          url: '/reviews/codigo-cecilia010-yesstyle-como-usar',
+          type: 'review' as const,
+          publishedAt: '2026-06-21',
+        },
+        {
+          title: `YesStyle Reward Code ${r.code} (English)`,
+          url: '/reviews/yesstyle-reward-code-coupon-cecilia010',
+          type: 'review' as const,
+          publishedAt: '2026-07-11',
+        },
+      ];
+    },
+    get monthlyHighlight() {
+      const r = getPrimaryRewardCode();
+      return {
+        scope: 'na YesStyle',
+        note: `Não é cupom tradicional: use no campo Reward Code para somar até ${r.newCustomerDiscount}% extras aos cupons promocionais elegíveis`,
+      };
     },
   },
   {

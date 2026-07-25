@@ -410,7 +410,7 @@ for (const coupon of YESSTYLE_COUPONS_FACTUAL) {
       reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" com verifiedAt ausente ou inválida` });
     }
     if (coupon.expiresAt) {
-      const expiryDate = new Date(coupon.expiresAt).getTime();
+      const expiryDate = new Date(`${coupon.expiresAt}T23:59:59.999Z`).getTime();
       if (Number.isNaN(expiryDate)) {
         reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" com expiresAt inválida` });
       } else if (expiryDate < nowTimestamp) {
@@ -468,6 +468,15 @@ try {
   reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: 'getYesStyleLocaleFromSlugOrPath não falhou com erro explícito para rota inválida' });
 } catch (e) {
   // Comportamento esperado
+}
+
+// 5. Execução automatizada da prova de mutação factual completa
+import { runYesStyleMutationTest } from './test-yesstyle-mutation';
+const mutationResult = runYesStyleMutationTest();
+if (!mutationResult.success) {
+  for (const err of mutationResult.errors) {
+    reportError({ type: 'review', id: -1, slug: '__yesstyle_mutation_test__', message: err });
+  }
 }
 
 // ---------------------------------------------------------------------------
