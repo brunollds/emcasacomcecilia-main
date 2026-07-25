@@ -1,9 +1,12 @@
 # Plano YesStyle — i18n, cupons dinâmicos e hubs indexáveis
 
-Status: aprovado para execução por etapas  
-Base de referência: `e260866`  
-Implementação: Gemini 3.6  
-Revisão e aceite: Codex  
+Status: Projeto A concluído e em produção; Projetos B e C pendentes
+
+Baseline de produção após o Projeto A: `4342fab`
+
+Implementação: Gemini 3.6
+
+Revisão e aceite: Codex
 
 ## 1. Objetivo
 
@@ -15,15 +18,17 @@ O trabalho será dividido em três projetos independentes:
 
 - **Projeto A — Fundação e consolidação:** uma fonte de verdade para locales,
   rotas, dados factuais e traduções.
-- **Projeto B — Hubs transacionais indexáveis:** canonical próprio, hreflang
-  hub com hub, sitemap e conteúdo transacional diferenciado.
+- **Projeto B1 — Produto transacional:** uma experiência dinâmica comum aos
+  nove hubs, ainda sem ativar a indexação internacional.
+- **Projeto B2 — Ativação SEO dos hubs:** canonical próprio, hreflang hub com
+  hub, sitemap e schemas.
 - **Projeto C — Idioma no HTML do servidor:** spike arquitetural para corrigir
   o `lang` da raiz sem misturar essa mudança com o ganho SEO dos hubs.
 
 Essa separação preserva as URLs atuais dos artigos e permite capturar o valor
 SEO transacional sem tornar uma eventual migração de rotas um pré-requisito.
 
-## 2. Estado atual confirmado
+## 2. Estado atual confirmado após o Projeto A
 
 - Existem três intenções de busca distintas:
   - hub transacional de cupons;
@@ -34,15 +39,25 @@ SEO transacional sem tornar uma eventual migração de rotas um pré-requisito.
   da home e de `/reviews`, mas continuam publicadas, no sitemap e nos
   respectivos clusters de hreflang.
 - Os hubs internacionais já existem em `/{locale}/coupons/yesstyle`.
-- Hoje esses hubs são auxiliares: seus canonicals apontam para artigos, não
-  para eles próprios.
+- O hub brasileiro `/cupons/yesstyle` é canônico e está no sitemap.
+- Os oito hubs internacionais continuam auxiliares: seus canonicals apontam
+  para artigos, não para eles próprios, e eles permanecem fora do sitemap.
 - O seletor de idiomas dos hubs aponta para artigos, misturando intenções.
 - O `RootLayout` gera `<html lang="pt-BR">`.
 - `DocumentLangSetter` e o script atual de ajuste de idioma são renderizados
   apenas no `ReviewNotebookTemplate`. Portanto, os hubs permanecem com
   `pt-BR` tanto no HTML bruto quanto no DOM.
-- Os rótulos de detalhes dos hubs ainda contêm texto em inglês hardcoded, como
-  `Code`, `Discount`, `Field` e `Up to 5% extra...`.
+- O Projeto A está em produção com:
+  - registro central dos nove locales e das rotas dos três clusters;
+  - locale explícito nos 18 artigos;
+  - fonte factual única para o Rewards Code;
+  - rótulos transacionais localizados;
+  - validação de paridade, datas, fontes e mutação factual.
+- A página brasileira ainda usa o template genérico de marca. A tabela de
+  faixas existente é uma mecânica exclusiva do Magalu e não representa a
+  mecânica da YesStyle.
+- A fonte factual possui o Rewards Code `CECILIA010`, mas não possui atualmente
+  um cupom promocional ativo com comprovação oficial.
 
 ## 3. Decisões congeladas
 
@@ -55,14 +70,23 @@ SEO transacional sem tornar uma eventual migração de rotas um pré-requisito.
 3. Os JSONs usarão a mesma chave interna do registro: `pt`, `en`, `es`, `fr`,
    `de`, `ko`, `ja`, `zh-hant` e `zh-hans`.
 4. O Projeto A não mudará URLs, canonicals, hreflang, sitemap nem indexação.
-5. O Projeto B só começa depois que a lista dinâmica de cupons estiver pronta
-   e diferenciar claramente o hub da página educativa.
+5. O Projeto B será entregue em duas etapas independentes:
+   - B1 cria e publica a experiência transacional dinâmica, sem alterar os
+     sinais de indexação;
+   - B2 ativa os nove hubs como páginas canônicas somente após aceite explícito
+     da B1.
 6. Os hubs trocarão idiomas com outros hubs. Artigos continuarão trocando
    idiomas apenas com seus equivalentes editoriais.
 7. O Projeto C não bloqueia o Projeto B e só será decidido após um spike.
 8. Cada projeto terá branch, revisão e deploy próprios.
+9. A interface da YesStyle não reutilizará `tiers` nem a tabela de faixas do
+   Magalu. As duas marcas possuem mecânicas promocionais diferentes.
+10. `verifiedAt` representa uma verificação factual real do código ou oferta,
+    não a data de edição, build ou deploy.
 
 ## 4. Projeto A — Fundação e consolidação
+
+**Status:** concluído, revisado e implantado em produção.
 
 ### Resultado esperado
 
@@ -241,105 +265,323 @@ Todos os itens abaixo são obrigatórios:
 - adicionar `<main lang>` como compensação;
 - mudar schema SEO dos hubs.
 
-### Gate A → B
+### Gate A → B1
 
-O Projeto B só pode começar quando:
+O gate técnico do Projeto A foi cumprido. Antes de iniciar a implementação da
+B1, resta confirmar editorialmente a data de verificação exibida:
 
-- a lista dinâmica estiver em produção e for alimentada pela fonte factual;
-- existir fluxo definido de verificação por fonte oficial;
-- o hub tiver conteúdo transacional substancialmente diferente dos artigos;
-- existir estado claro para “nenhum cupom promocional verificado agora”;
-- fonte, região, validade e última verificação estiverem visíveis;
-- os textos dos nove idiomas tiverem revisão editorial;
-- todos os gates do Projeto A tiverem passado.
+- manter `verifiedAt: '2026-07-24'` somente se o código tiver sido realmente
+  testado ou verificado nessa data;
+- caso contrário, usar a última verificação factual confirmada, atualmente
+  registrada como `2026-07-16`.
 
-## 5. Projeto B — Hubs transacionais canônicos e indexáveis
+Essa decisão deve ser registrada no primeiro commit da B1. Nenhuma data pode
+ser atualizada apenas para aparentar conteúdo recente.
+
+## 5. Projeto B1 — Experiência transacional dinâmica
 
 ### Resultado esperado
 
-Nove páginas transacionais independentes, cada uma apta a disputar buscas como
-“YesStyle coupon code”, sem canibalizar os artigos educativos.
+Os nove endereços existentes devem renderizar a mesma arquitetura
+transacional, com fatos compartilhados e interface localizada. A B1 será
+publicada para revisão visual e editorial sem mudar canonicals, hreflang,
+sitemap, seletor de idiomas ou estratégia de indexação.
 
-### B1 — Canonical e indexação
+O hub precisa ter uma função claramente diferente dos artigos:
+
+- **hub:** consultar ofertas vigentes, copiar códigos e seguir para a loja;
+- **artigo do Rewards Code:** entender o `CECILIA010` e onde aplicá-lo;
+- **guia de cupons:** aprender a encontrar e combinar descontos elegíveis.
+
+### B1.0 — Baseline e isolamento
+
+- Criar a branch `codex/yesstyle-hubs-b1` a partir da produção aprovada.
+- Confirmar árvore limpa e registrar o commit-base.
+- Registrar antes da implementação:
+  - HTML e captura visual dos nove hubs;
+  - canonical, hreflang e destino do seletor de cada hub;
+  - URLs YesStyle existentes no sitemap;
+  - contagem de páginas do build;
+  - conteúdo da fonte factual.
+- Resolver e documentar a pendência de `verifiedAt`.
+- Não permitir outra sessão alterando a mesma branch ou os mesmos arquivos.
+
+### B1.1 — Modelo factual por tipo de oferta
+
+Substituir o modelo genérico por uma união discriminada. O contrato pode seguir
+esta forma, adaptada aos tipos já implantados no Projeto A:
+
+```ts
+type YesStyleOfferBase = {
+  id: string;
+  code: string;
+  status: 'active' | 'scheduled' | 'expired';
+  startsAt?: string;
+  expiresAt?: string;
+  verifiedAt: string;
+  regions: string[];
+  officialSourceUrl: string;
+  eligibility?: string[];
+  restrictions?: string[];
+};
+
+type YesStyleRewardOffer = YesStyleOfferBase & {
+  type: 'reward';
+  affiliateUrl: string;
+  newCustomerDiscount: number;
+  returningCustomerDiscount: number;
+};
+
+type YesStylePromoOffer = YesStyleOfferBase & {
+  type: 'coupon';
+  discount:
+    | { kind: 'percentage'; value: number }
+    | { kind: 'fixed'; value: number; currency: string }
+    | { kind: 'shipping' }
+    | { kind: 'text'; label: string };
+};
+```
+
+Regras:
+
+- `reward` e `coupon` são entidades diferentes;
+- cupom promocional não recebe campos artificiais de cliente novo/recorrente;
+- fatos não são copiados para os dicionários;
+- `officialSourceUrl` comprova a oferta;
+- `affiliateUrl` é o destino comercial e não substitui a fonte;
+- oferta expirada não pode ser renderizada como ativa;
+- nenhum agregador de cupons é aceito como fonte oficial.
+
+### B1.2 — Modelo de página resolvido
+
+Criar um resolvedor compartilhado para PT e os oito hubs internacionais. Ele
+deve combinar:
+
+- registro central de locale e rotas;
+- ofertas factuais ativas;
+- dicionário de interface;
+- datas e benefícios formatados no locale;
+- links para o artigo do Rewards Code e o guia equivalentes;
+- estado vazio localizado.
+
+As rotas podem continuar diferentes, mas devem consumir o mesmo componente e o
+mesmo modelo resolvido. Não manter uma implementação brasileira dentro de
+`CouponBrandPage` e outra internacional em `YesStyleCouponPage`.
+
+### B1.3 — Interface dos hubs
+
+Não copiar a tabela de faixas do Magalu. A experiência YesStyle deve conter:
+
+1. um card principal e permanente para o Rewards/Influencer Code;
+2. uma área separada para cupons promocionais verificados;
+3. instrução curta para usar os dois campos do checkout;
+4. fonte, região, validade e última verificação visíveis;
+5. CTA comercial pelo link oficial da Cecília;
+6. links internos para os dois conteúdos educativos equivalentes.
+
+No desktop, as ofertas promocionais podem ser apresentadas em tabela:
+
+| Tipo | Código | Benefício | Validade | Região | Verificado | Ação |
+| --- | --- | --- | --- | --- | --- | --- |
+
+No mobile, as mesmas informações devem virar cards legíveis, sem rolagem
+horizontal obrigatória.
+
+O fluxo visível deve orientar o leitor a:
+
+1. copiar o cupom promocional elegível, quando houver;
+2. copiar ou memorizar o Rewards Code;
+3. abrir a YesStyle pelo link oficial da Cecília;
+4. aplicar o cupom em `Coupon Code`;
+5. aplicar o `CECILIA010` em `Rewards/Influencer Code`;
+6. confirmar no resumo do pedido se os dois descontos foram aceitos.
+
+Não afirmar cumulatividade universal. Usar formulação equivalente a “podem ser
+combinados quando elegíveis, conforme as regras da campanha; confirme no
+checkout”.
+
+### B1.4 — Estado sem cupom promocional
+
+Quando a fonte factual não tiver um cupom promocional ativo e verificado:
+
+- manter o card do `CECILIA010`;
+- exibir claramente “Nenhum cupom promocional verificado no momento”, no
+  idioma da página;
+- informar a data da última checagem;
+- não exibir linha vazia, código vencido ou sugestão não comprovada;
+- não transformar o Rewards Code em “cupom” para preencher artificialmente a
+  lista.
+
+### B1.5 — Conteúdo e localização
+
+Localizar nos nove idiomas:
+
+- títulos, descrições e instruções;
+- rótulos da tabela e dos cards;
+- mensagens de copiar e sucesso;
+- tipo da oferta, validade, região e verificação;
+- estado vazio;
+- FAQ e transparência editorial;
+- CTAs e textos acessíveis.
+
+Percentuais, códigos, datas, regiões e URLs devem entrar por parâmetros da
+fonte factual. Revisar especialmente JA, KO, ZH-Hant e ZH-Hans para eliminar
+fallbacks ou resíduos de outros idiomas.
+
+### B1.6 — Processo editorial de verificação
+
+Até existir uma integração oficial confiável, o processo será manual:
+
+1. localizar a promoção em um canal oficial da YesStyle;
+2. registrar a URL oficial ou outra evidência aprovada;
+3. confirmar código, benefício, região, período e elegibilidade;
+4. testar no checkout quando possível;
+5. registrar `verifiedAt` como a data real dessa checagem;
+6. publicar na fonte factual;
+7. deixar o validador retirar ou rejeitar ofertas expiradas.
+
+Alterar texto, imagem, build ou data de deploy não renova `verifiedAt`.
+
+### B1.7 — Preservação SEO obrigatória
+
+Durante toda a B1:
+
+- `/cupons/yesstyle` mantém canonical próprio;
+- os oito hubs internacionais mantêm canonical para seus artigos atuais;
+- o seletor dos hubs mantém o comportamento atual;
+- o sitemap continua com os 18 artigos e apenas o hub PT, totalizando 19 URLs
+  YesStyle;
+- hreflang e indexação não mudam;
+- nenhum redirect é criado;
+- schemas SEO dos hubs não são ampliados.
+
+Essa limitação é intencional: permite validar o produto transacional em
+produção antes de torná-lo uma nova superfície de busca.
+
+### B1.8 — Gates de aceite
+
+- nove rotas respondem e usam o mesmo componente/modelo transacional;
+- Reward Code e cupons promocionais são visualmente e semanticamente
+  separados;
+- estado sem cupom promocional funciona nos nove idiomas;
+- desktop e mobile aprovados visualmente;
+- copiar código, abrir loja e links educativos funcionam;
+- link comercial usa `rel="sponsored noopener noreferrer"` e abre conforme o
+  padrão externo do site;
+- links internos não recebem `sponsored`;
+- fonte, validade, região e `verifiedAt` aparecem corretamente;
+- nenhum placeholder ou fato hardcoded vaza nos dicionários;
+- teste de mutação cobre Reward Code e cupom promocional;
+- validadores rejeitam fonte ausente, data impossível e oferta ativa expirada;
+- `validate:content`, tipos, lint e build aprovados;
+- contagem de páginas, sitemap, canonical e hreflang idênticos ao baseline;
+- inspeção do HTML e navegação real em PT, EN, ES, JA e ZH-Hant;
+- smoke test em produção após deploy.
+
+### Gate B1 → B2
+
+A B2 só pode começar após:
+
+- aprovação explícita do usuário sobre visual e texto da B1 em produção;
+- revisão editorial dos nove idiomas;
+- confirmação do fluxo de atualização dos cupons;
+- resolução documentada de `verifiedAt`;
+- pelo menos um teste completo dos estados “com cupom” e “sem cupom”;
+- relatório confirmando que nenhum sinal SEO mudou durante a B1.
+
+## 6. Projeto B2 — Ativação SEO dos nove hubs
+
+### Resultado esperado
+
+Transformar os hubs já aprovados como produto em nove páginas transacionais
+canônicas e interligadas, aptas a disputar buscas por cupons sem alterar as
+URLs ou os clusters dos 18 artigos.
+
+### B2.1 — Canonical e indexação
 
 - Aplicar canonical próprio aos nove hubs existentes.
-- Remover qualquer sinal que os trate como duplicatas auxiliares dos artigos.
-- Preservar as URLs atuais; não migrar os artigos.
+- Remover sinais que tratem os oito hubs internacionais como duplicatas
+  auxiliares dos artigos.
+- Preservar todas as URLs atuais.
+- Não migrar artigos e não criar redirects.
 
-### B2 — Hreflang exclusivo do cluster de hubs
+### B2.2 — Hreflang exclusivo do cluster de hubs
 
 - Hub aponta apenas para hubs equivalentes.
 - Usar os nove idiomas do registro central.
-- Usar `x-default` para a versão inglesa `/en/coupons/yesstyle`.
-- Garantir reciprocidade completa.
+- Usar `x-default` para `/en/coupons/yesstyle`.
+- Garantir reciprocidade completa entre as nove páginas.
+- Não misturar o cluster dos hubs com os dois clusters editoriais.
 
-### B3 — Seletor hub com hub
+### B2.3 — Seletor hub com hub
 
-O seletor dos hubs deve alternar entre os nove hubs. O comportamento atual, que
-leva o usuário do hub a artigos traduzidos, precisa ser removido como parte do
-critério de aceite do Projeto B.
+O seletor dos hubs passa a alternar somente entre os nove hubs. Os seletores
+dos artigos continuam alternando apenas entre seus equivalentes editoriais.
 
-### B4 — Sitemap
+### B2.4 — Sitemap e descoberta
 
-- Incluir os nove hubs canônicos.
-- Não remover os 18 artigos.
-- Validar ausência de duplicidade e URLs não canônicas.
+- Incluir os oito hubs internacionais.
+- Manter o hub PT e os 18 artigos.
+- O conjunto YesStyle passa de 19 para 27 URLs no sitemap.
+- Validar ausência de duplicidade e de URL não canônica.
+- Após o deploy, enviar o sitemap e os nove hubs ao mecanismo de descoberta
+  usado pelo projeto, sem prometer indexação imediata.
 
-### B5 — Conteúdo transacional diferenciado
+### B2.5 — Metadata e links internos
 
-Cada hub deve exibir no próprio idioma:
+- Título e descrição transacionais localizados.
+- Data/mês só aparece quando derivado de verificação factual apropriada.
+- Cada hub liga para o artigo do Rewards Code e o guia do mesmo locale.
+- Os conteúdos educativos ligam de volta ao hub equivalente quando a âncora
+  for contextualmente útil.
+- Nenhum dos artigos muda canonical ou URL.
 
-- cupons promocionais ativos e oficialmente verificados;
-- estado vazio honesto quando não houver cupom promocional;
-- `CECILIA010` em bloco separado como Rewards/Influencer Code;
-- desconto de 5% para novos clientes e 2% para recorrentes, conforme regras
-  vigentes;
-- código, tipo, região, validade, fonte e última verificação;
-- botão de copiar;
-- CTA pelo link oficial da Cecília;
-- instrução sobre os campos `Coupon Code` e `Rewards/Influencer Code`;
-- ressalva de elegibilidade e conferência no checkout;
-- links internos para o artigo do código e o guia de cupons equivalentes no
-  mesmo idioma;
-- transparência editorial curta.
-
-### B6 — Schema
+### B2.6 — Schema
 
 Usar somente tipos compatíveis com a função do hub:
 
 - `WebPage` ou `CollectionPage`;
 - `BreadcrumbList`;
-- `FAQPage`, apenas quando o FAQ estiver visível.
+- `FAQPage`, apenas para perguntas visíveis na página.
 
 Não gerar `Product`, `Review`, nota ou contagem de avaliações.
 
-### B7 — Idioma do subtree
+### B2.7 — Idioma do subtree
 
-Como mitigação de baixo risco, renderizar o conteúdo do hub dentro de:
+Renderizar o conteúdo do hub dentro de:
 
 ```tsx
 <main lang={page.htmlLang}>
 ```
 
 Isso melhora a semântica e a acessibilidade do subtree, mas não corrige o
-`lang` da raiz. A limitação de `<html lang="pt-BR">` no HTML bruto deve ser
-registrada como conhecida até o Projeto C.
+`lang` da raiz. A limitação de `<html lang="pt-BR">` no HTML bruto continua
+registrada até o Projeto C.
 
-### B8 — Gates de aceite
+### B2.8 — Gates de aceite
 
 - canonical próprio nos nove hubs;
 - hreflang recíproco hub com hub, incluindo `x-default`;
 - seletor navegando apenas entre hubs;
-- nove hubs presentes no sitemap;
-- cada hub com conteúdo localizado e lista dinâmica;
-- nenhum fato promocional duplicado nos dicionários;
+- 27 URLs YesStyle no sitemap: 18 artigos e nove hubs;
+- cada hub indexável, sem `noindex` e sem canonical conflitante;
 - `<main lang>` correto;
 - schemas válidos e sem `Product`/`Review`;
+- links internos apontando para conteúdos do mesmo locale;
 - artigos e respectivos clusters sem regressão;
 - `validate:content`, tipos, lint e build aprovados;
-- inspeção do HTML bruto e navegação real em PT, EN, JA e ZH-Hant.
+- inspeção do HTML bruto e navegação real em PT, EN, ES, JA e ZH-Hant;
+- verificação pós-deploy de canonical, hreflang, sitemap, schema e status HTTP;
+- monitoramento posterior no Google Search Console sem interpretar ausência de
+  indexação imediata como falha técnica.
 
-## 6. Projeto C — `html lang` no servidor e estratégia de rotas
+### Rollback independente
+
+Se a ativação SEO apresentar erro, reverter canonical, hreflang, seletor,
+sitemap e schemas ao estado da B1. A experiência transacional e a fonte factual
+permanecem publicadas; não há rollback de URL nem cadeia de redirects.
+
+## 7. Projeto C — `html lang` no servidor e estratégia de rotas
 
 ### Princípio
 
@@ -382,7 +624,7 @@ A opção 2 só será aprovada se o ganho justificar:
 Não há congelamento nem urgência para migrar URLs, pois o valor SEO
 transacional dos hubs será capturado pelo Projeto B.
 
-## 7. Sequência de commits sugerida
+## 8. Sequência de commits sugerida
 
 ### Projeto A
 
@@ -393,7 +635,14 @@ transacional dos hubs será capturado pelo Projeto B.
 5. `refactor: migrate YesStyle hubs to shared registries`
 6. `test: validate YesStyle locale and coupon integrity`
 
-### Projeto B
+### Projeto B1
+
+1. `docs: split YesStyle hubs rollout into B1 and B2`
+2. `refactor: model YesStyle rewards and promotional offers`
+3. `feat: build shared localized YesStyle transactional hub`
+4. `test: validate YesStyle hub states and SEO parity`
+
+### Projeto B2
 
 1. `feat: make YesStyle coupon hubs canonical`
 2. `feat: connect localized YesStyle coupon hubs`
@@ -403,7 +652,7 @@ transacional dos hubs será capturado pelo Projeto B.
 
 Somente após o spike e a decisão arquitetural.
 
-## 8. Protocolo de implementação e revisão
+## 9. Protocolo de implementação e revisão
 
 1. Gemini implementa uma etapa ou commit por vez.
 2. Cada entrega informa arquivos alterados, decisões tomadas e comandos de
@@ -418,7 +667,7 @@ Somente após o spike e a decisão arquitetural.
 6. Nenhuma sessão paralela deve alterar a mesma branch ou os mesmos arquivos.
 7. Push e deploy exigem revisão final da branch e árvore limpa.
 
-## 9. Critério global de conclusão
+## 10. Critério global de conclusão
 
 O programa A/B/C estará concluído quando:
 
@@ -432,7 +681,7 @@ O programa A/B/C estará concluído quando:
 - não houver regressão nas listagens brasileiras, nos artigos existentes ou na
   atribuição pelo link oficial da Cecília.
 
-## 10. Referências técnicas
+## 11. Referências técnicas
 
 - [Google — Managing multi-regional and multilingual sites](https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites)
 - [Google — Tell Google about localized versions](https://developers.google.com/search/docs/specialty/international/localized-versions)
