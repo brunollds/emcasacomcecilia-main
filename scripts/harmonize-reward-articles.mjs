@@ -3,6 +3,7 @@ import path from 'path';
 
 // 1. Matriz de Expressões Proibidas (Normalizadas via Regex por Locale)
 const forbiddenRegexes = [
+  // Permanência / Validade Absoluta
   /qualquer\s+cupom/i,
   /100%\s*cumulativo/i,
   /validade\s*:\s*permanente/i,
@@ -33,9 +34,23 @@ const forbiddenRegexes = [
   /有效期限\s*[:：]\s*永久/i,
   /cupons\s+elegíveis\s+válido/i,
   /cupones\s+promocionales\s+elegibles\s+activo/i,
+
+  // Promessa Fictícia de 5% Fixo (sem diferenciar 1ª compra 5% e recorrente 2%)
+  /independentemente\s+de\s+ser\s+sua\s+primeira\s+compra/i,
+  /garantir\s+5%/i,
+  /garante\s+5%\s+extra\s+no/i,
+  /ativar\s+os\s+5%\s+extras/i,
+  /somar\s+esse\s+cupom\s+aos\s+5%\s+extras/i,
+  /soma\s+5%\s+extras/i,
+  /oferece\s+5%\s+extras/i,
+  /regardless\s+of\s+whether\s+it\s+is\s+your\s+first\s+order/i,
+  /les\s+5%\s+de\s+CECILIA010/i,
+  /el\s+5%\s+de\s+CECILIA010/i,
+  /fügt\s+ihnen\s+5%\s+hinzu/i,
+  /die\s+5%\s+von\s+CECILIA010/i,
 ];
 
-// 2. Teste de Regressão Negativo (Garante que o auditor falharia se um termo proibido existisse)
+// 2. Teste de Regressão Negativo
 function runNegativeRegressionTests() {
   const dummyCases = [
     'FR: Validité : Permanent (toujours actif et validé)',
@@ -44,6 +59,12 @@ function runNegativeRegressionTests() {
     'EN: works with any active promo code and is more permanent',
     'ES: este código está siempre activo y verificado',
     'PT: 100% cumulativo com qualquer cupom',
+    'PT: funciona independentemente de ser sua primeira compra',
+    'PT: para garantir 5% de desconto extra',
+    'EN: regardless of whether it is your first order',
+    'FR: les 5% de CECILIA010',
+    'DE: fügt ihnen 5% hinzu',
+    'ES: el 5% de CECILIA010',
   ];
 
   let caught = 0;

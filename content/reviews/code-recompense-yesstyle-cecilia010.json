@@ -137,9 +137,9 @@
         "Le cumul de réductions (stacking) consiste à remplir les deux zones principales de l'écran de paiement : le champ de code de récompense et le champ de coupon. Par précaution, appliquez toujours CECILIA010 dans le champ de code de récompense et le coupon promotionnel dans le champ de coupon."
       ],
       "bullets": [
-        "Étape 1 — Code de Récompense : appliquez CECILIA010 dans la case Reward Code pour activer les 5% de réduction.",
-        "Étape 2 — Coupon actif : appliquez n'importe quel coupon valide dans la case Coupon Code.",
-        "Étape 3 — Validation finale : avant de procéder au paiement, assurez-vous que les 5% de CECILIA010 et la réduction du coupon apparaissent distinctement dans le récapitulatif."
+        "Étape 1 — Code de Récompense : appliquez CECILIA010 dans la case Reward Code pour activer la remise jusqu'à 5 % extra (5 % 1ère commande / 2 % suivantes).",
+        "Étape 2 — Coupon actif : appliquez les coupons promo éligibles du site dans la case Coupon Code.",
+        "Étape 3 — Validation finale : avant de procéder au paiement, assurez-vous que la remise jusqu'à 5 % extra de CECILIA010 et la réduction du coupon éligible apparaissent distinctement dans le récapitulatif."
       ],
       "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
       "imageAlt": "Récapitulatif des remises sur l'écran de paiement YesStyle.",
