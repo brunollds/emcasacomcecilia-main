@@ -6,11 +6,13 @@ import { CouponBottomBar } from '@/components/CouponBottomBar';
 import {
   getYesStyleLocaleConfig,
   getHubLanguageLinks,
+  YESSTYLE_LOCALES,
   type YesStyleLocale,
 } from '@/lib/i18n/yesstyleCluster';
 import {
   getPrimaryRewardCode,
   getActivePromoCoupons,
+  getLatestYesStyleVerifiedAtISO,
   type YesStyleRewardOffer,
   type YesStylePromoOffer,
 } from '@/lib/yesstyleCoupons';
@@ -21,6 +23,8 @@ export type Locale = YesStyleLocale;
 export type PageCopy = {
   locale: Locale;
   language: string;
+  homeLabel: string;
+  couponsLabel: string;
   eyebrow: string;
   titleTemplate: string;
   descriptionTemplate: string;
@@ -88,6 +92,11 @@ export interface ResolvedPromoOffer {
 export interface ResolvedYesStylePage {
   locale: Locale;
   language: string;
+  htmlLang: string;
+  homeLabel: string;
+  couponsLabel: string;
+  canonicalUrl: string;
+  verifiedAtISO: string;
   eyebrow: string;
   title: string;
   description: string;
@@ -133,10 +142,37 @@ export interface ResolvedYesStylePage {
   affiliateUrl: string;
 }
 
+export interface BreadcrumbItemSpec {
+  name: string;
+  item: string;
+}
+
+// Helper puro exportado para construção e teste estrito dos breadcrumbs (3 níveis em PT, 2 níveis nos internacionais)
+export function getYesStyleBreadcrumbItems(
+  locale: Locale,
+  canonicalUrl: string,
+  homeLabel: string,
+  couponsLabel: string
+): BreadcrumbItemSpec[] {
+  if (locale === 'pt') {
+    return [
+      { name: homeLabel, item: 'https://emcasacomcecilia.com' },
+      { name: couponsLabel, item: 'https://emcasacomcecilia.com/cupons' },
+      { name: 'YesStyle', item: canonicalUrl },
+    ];
+  }
+  return [
+    { name: homeLabel, item: 'https://emcasacomcecilia.com' },
+    { name: 'YesStyle', item: canonicalUrl },
+  ];
+}
+
 const pages: Record<Locale, PageCopy> = {
   pt: {
     locale: 'pt',
     language: 'pt-BR',
+    homeLabel: 'Início',
+    couponsLabel: 'Cupons',
     eyebrow: 'Cupons e Código de Recompensa YesStyle',
     titleTemplate: 'Cupom YesStyle {code}: Até {newDiscount}% OFF Extra Elegível',
     descriptionTemplate: 'Código de recompensa {code} oficial da YesStyle: use no campo Reward Code para até {newDiscount}% extra, combinável com cupons promocionais elegíveis no checkout.',
@@ -206,6 +242,8 @@ const pages: Record<Locale, PageCopy> = {
   en: {
     locale: 'en',
     language: 'en-US',
+    homeLabel: 'Em Casa com Cecília',
+    couponsLabel: 'Coupons',
     eyebrow: 'YesStyle Coupons & Reward Code',
     titleTemplate: 'YesStyle Reward Code {code}: Up to {newDiscount}% Extra',
     descriptionTemplate: 'Official YesStyle reward code {code}. Add up to {newDiscount}% extra at checkout on top of eligible promo coupons.',
@@ -275,6 +313,8 @@ const pages: Record<Locale, PageCopy> = {
   es: {
     locale: 'es',
     language: 'es-ES',
+    homeLabel: 'Em Casa com Cecília',
+    couponsLabel: 'Cupones',
     eyebrow: 'Cupones y Código de Recompensa YesStyle',
     titleTemplate: 'Código de recompensa YesStyle {code}: Hasta {newDiscount}% extra',
     descriptionTemplate: 'Código de recompensa oficial {code} en YesStyle. Suma hasta un {newDiscount}% extra junto con cupones promocionales elegibles al pagar.',
@@ -343,6 +383,8 @@ const pages: Record<Locale, PageCopy> = {
   fr: {
     locale: 'fr',
     language: 'fr-FR',
+    homeLabel: 'Em Casa com Cecília',
+    couponsLabel: 'Coupons',
     eyebrow: 'Coupons et Code Récompense YesStyle',
     titleTemplate: 'Code récompense YesStyle {code} : Jusqu’à {newDiscount} % en plus',
     descriptionTemplate: 'Code récompense officiel {code} sur YesStyle. Ajoutez jusqu’à {newDiscount} % de réduction sous réserve d’éligibilité des coupons promo.',
@@ -411,6 +453,8 @@ const pages: Record<Locale, PageCopy> = {
   de: {
     locale: 'de',
     language: 'de-DE',
+    homeLabel: 'Em Casa com Cecília',
+    couponsLabel: 'Gutscheine',
     eyebrow: 'YesStyle Gutscheine & Reward Code',
     titleTemplate: 'YesStyle Reward Code {code}: Bis zu {newDiscount} % extra',
     descriptionTemplate: 'Offizieller YesStyle Reward Code {code}. Erhalte bis zu {newDiscount} % extra neben berechtigten Aktionsgutscheinen an der Kasse.',
@@ -479,6 +523,8 @@ const pages: Record<Locale, PageCopy> = {
   ko: {
     locale: 'ko',
     language: 'ko-KR',
+    homeLabel: 'Em Casa com Cecília',
+    couponsLabel: '쿠폰',
     eyebrow: 'YesStyle 쿠폰 및 리워드 코드',
     titleTemplate: 'YesStyle 리워드 코드 {code}: 추가 {newDiscount}% 할인',
     descriptionTemplate: '공식 YesStyle 리워드 코드 {code}. 결제 시 대상 프로모션 쿠폰과 함께 최대 추가 {newDiscount}% 혜택을 받으세요.',
@@ -547,6 +593,8 @@ const pages: Record<Locale, PageCopy> = {
   ja: {
     locale: 'ja',
     language: 'ja-JP',
+    homeLabel: 'Em Casa com Cecília',
+    couponsLabel: 'クーポン',
     eyebrow: 'YesStyle クーポン＆リワードコード',
     titleTemplate: 'YesStyle リワードコード {code}：さらに{newDiscount}%オフ',
     descriptionTemplate: 'YesStyle公式リワードコード{code}。チェックアウト時に対象のプロモーションクーポンと併用して最大{newDiscount}%追加オフ。',
@@ -615,6 +663,8 @@ const pages: Record<Locale, PageCopy> = {
   'zh-hant': {
     locale: 'zh-hant',
     language: 'zh-HK',
+    homeLabel: 'Em Casa com Cecília',
+    couponsLabel: '優惠碼',
     eyebrow: 'YesStyle 優惠碼與獎勵碼',
     titleTemplate: 'YesStyle 獎勵碼 {code}：額外 {newDiscount}% 優惠',
     descriptionTemplate: 'YesStyle 官方獎勵碼 {code}。在結帳時可與適用促銷優惠碼組合使用，額外享有最高 {newDiscount}% 優惠。',
@@ -683,6 +733,8 @@ const pages: Record<Locale, PageCopy> = {
   'zh-hans': {
     locale: 'zh-hans',
     language: 'zh-CN',
+    homeLabel: 'Em Casa com Cecília',
+    couponsLabel: '优惠码',
     eyebrow: 'YesStyle 优惠码与奖励码',
     titleTemplate: 'YesStyle 奖励码 {code}：额外 {newDiscount}% 优惠',
     descriptionTemplate: 'YesStyle 官方奖励码 {code}。在结账时可与适用促销优惠码组合使用，额外享受最高 {newDiscount}% 优惠。',
@@ -744,7 +796,7 @@ const pages: Record<Locale, PageCopy> = {
     guideCardSubtext: '叠加规则与免运条件',
     faqTitle: '常见问题',
     faqs: [
-      { question: '{code} 可以和其他优惠码一起使用吗？', answer: 'Reward Code 栏位的 {code} 可与 Coupon Code 栏位的适用促销优惠码组合使用，实际叠加结果须以结账明细为准。' },
+      { question: '{code} 可以和其他优惠码一起使用吗？', answer: 'Reward Code 栏位的 {code} 可与 Coupon Code 栏位的适用促销优惠码组合使用，实际叠加结果须以结账明细为準。' },
     ],
     transparencyTemplate: '此页面包含联盟链接。使用 {code} 购物时，我们可能会获得佣金。',
   },
@@ -788,8 +840,19 @@ export function resolveYesStylePage(
 
   const reward = rewardInput || getPrimaryRewardCode();
   const promos = promosInput !== undefined ? promosInput : getActivePromoCoupons();
-  const formattedDate = formatIsoDateUTC(reward.verifiedAt, page.language);
   const config = getYesStyleLocaleConfig(page.locale);
+
+  // [Arquitetura Centralizada]: Usa helper getLatestYesStyleVerifiedAtISO quando usando entradas de produção
+  const latestVerifiedAtISO = rewardInput || promosInput
+    ? [reward.verifiedAt, ...promos.map((p) => p.verifiedAt)].reduce((latest, date) => (date > latest ? date : latest), reward.verifiedAt)
+    : getLatestYesStyleVerifiedAtISO();
+
+  const formattedDate = formatIsoDateUTC(latestVerifiedAtISO, page.language);
+
+  const canonicalUrl =
+    page.locale === 'pt'
+      ? 'https://emcasacomcecilia.com/cupons/yesstyle'
+      : `https://emcasacomcecilia.com${config.hubPath}`;
 
   const activePromoOffers: ResolvedPromoOffer[] = promos.map((promo) => {
     let discountStr = '';
@@ -834,6 +897,11 @@ export function resolveYesStylePage(
   return {
     locale: page.locale,
     language: page.language,
+    htmlLang: config.htmlLang,
+    homeLabel: page.homeLabel,
+    couponsLabel: page.couponsLabel,
+    canonicalUrl,
+    verifiedAtISO: latestVerifiedAtISO,
     eyebrow: page.eyebrow,
     title: fillPlaceholders(page.titleTemplate, reward, firstPromoCode),
     description: fillPlaceholders(page.descriptionTemplate, reward, firstPromoCode),
@@ -888,15 +956,21 @@ export function getYesStyleMetadata(locale: string): Metadata {
   if (!resolved) return {};
   const config = getYesStyleLocaleConfig(locale);
 
-  const canonical =
-    locale === 'pt'
-      ? 'https://emcasacomcecilia.com/cupons/yesstyle'
-      : `https://emcasacomcecilia.com${config.rewardArticlePath}`;
+  const canonical = resolved.canonicalUrl;
+
+  const languages: Record<string, string> = {};
+  for (const locConfig of Object.values(YESSTYLE_LOCALES)) {
+    languages[locConfig.hreflang] = `https://emcasacomcecilia.com${locConfig.hubPath}`;
+  }
+  languages['x-default'] = 'https://emcasacomcecilia.com/en/coupons/yesstyle';
 
   return {
     title: resolved.title,
     description: resolved.description,
-    alternates: { canonical },
+    alternates: {
+      canonical,
+      languages,
+    },
     openGraph: {
       title: resolved.title,
       description: resolved.description,
@@ -911,18 +985,62 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
   const resolved = resolveYesStylePage(locale);
   if (!resolved) return null;
 
-  // Em B1: LanguageSwitcher nos hubs aponta para hub->hub
   const languageLinks = getHubLanguageLinks();
+  const breadcrumbItems = getYesStyleBreadcrumbItems(resolved.locale, resolved.canonicalUrl, resolved.homeLabel, resolved.couponsLabel);
+
+  // Schemas JSON-LD B2
+  const webPageSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: resolved.title,
+    description: resolved.description,
+    url: resolved.canonicalUrl,
+    inLanguage: resolved.htmlLang,
+    dateModified: resolved.verifiedAtISO,
+  };
+
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbItems.map((b, idx) => ({
+      '@type': 'ListItem',
+      position: idx + 1,
+      name: b.name,
+      item: b.item,
+    })),
+  };
+
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: resolved.faqs.map((faq) => ({
+      '@type': 'Question',
+      name: faq.question,
+      acceptedAnswer: { '@type': 'Answer', text: faq.answer },
+    })),
+  };
 
   return (
-    <main className="min-h-screen bg-[#fef9f3] pb-24 lg:pb-0">
+    <main lang={resolved.htmlLang} className="min-h-screen bg-[#fef9f3] pb-24 lg:pb-0">
+      {/* Schemas JSON-LD Estruturados para B2 */}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+
       {/* Header hero */}
       <section className="bg-[#0f1d3a] px-4 py-12 text-white md:py-16">
         <div className="mx-auto max-w-5xl">
           <nav className="mb-6 text-xs text-white/55">
-            <Link href="/">Em Casa com Cecília</Link>
-            <span className="mx-2">/</span>
-            <span>YesStyle</span>
+            {breadcrumbItems.map((b, idx) => (
+              <span key={b.item}>
+                {idx > 0 ? <span className="mx-2">/</span> : null}
+                {idx < breadcrumbItems.length - 1 ? (
+                  <Link href={b.item.replace('https://emcasacomcecilia.com', '') || '/'}>{b.name}</Link>
+                ) : (
+                  <span>{b.name}</span>
+                )}
+              </span>
+            ))}
           </nav>
           <div className="flex gap-5 md:items-center">
             <div className="relative h-20 w-20 shrink-0 overflow-hidden rounded-2xl bg-white p-2">
@@ -938,7 +1056,7 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
         </div>
       </section>
 
-      {/* Language Switcher (Alterna hub <-> hub em B1) */}
+      {/* Language Switcher (Hub ↔ Hub) */}
       <section className="px-4 pt-8">
         <div className="mx-auto max-w-5xl">
           <LanguageSwitcher currentLocale={resolved.locale} links={languageLinks} />
@@ -983,7 +1101,7 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
 
           {resolved.activePromoOffers.length > 0 ? (
             <div className="mt-6">
-              {/* Table view para Desktop (6 colunas: Tipo, Código, Desconto, Validade, Região, Verificado) */}
+              {/* Table view para Desktop */}
               <div className="hidden md:block overflow-hidden rounded-2xl border border-black/10 bg-white shadow-soft">
                 <table className="w-full text-left text-sm">
                   <thead className="bg-[#0f1d3a] text-white">
