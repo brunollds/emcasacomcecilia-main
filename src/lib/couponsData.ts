@@ -1,4 +1,4 @@
-import { getPrimaryRewardCode } from './yesstyleCoupons';
+import { getPrimaryRewardCode, getActivePromoCoupons } from './yesstyleCoupons';
 
 export interface CouponFAQ {
   question: string;
@@ -286,16 +286,22 @@ export const COUPONS: Coupon[] = [
       const r = getPrimaryRewardCode();
       return `${r.code} é o código de recompensa oficial da YesStyle: garante até ${r.newCustomerDiscount}% OFF extra (${r.newCustomerDiscount}% na primeira compra ou ${r.returningCustomerDiscount}% em compras recorrentes) no campo Reward Code e é acumulável com cupons promocionais elegíveis no campo Coupon Code.`;
     },
+    get lastVerified() {
+      const r = getPrimaryRewardCode();
+      const promos = getActivePromoCoupons();
+      const allDates = [r.verifiedAt, ...promos.map((p) => p.verifiedAt)];
+      return allDates.reduce((latest, date) => (date > latest ? date : latest), r.verifiedAt);
+    },
     get metaTitle() {
       const r = getPrimaryRewardCode();
-      const d = new Date(`${r.verifiedAt}T00:00:00Z`);
+      const d = new Date(`${this.lastVerified}T00:00:00Z`);
       const months = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'];
       const monthYear = `${months[d.getUTCMonth()]} ${d.getUTCFullYear()}`;
       return `Cupom YesStyle ${monthYear}: ${r.code} — Até ${r.newCustomerDiscount}% Extra Cumulativo`;
     },
     get metaDescription() {
       const r = getPrimaryRewardCode();
-      const d = new Date(`${r.verifiedAt}T00:00:00Z`);
+      const d = new Date(`${this.lastVerified}T00:00:00Z`);
       const months = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
       const monthYear = `${months[d.getUTCMonth()]} de ${d.getUTCFullYear()}`;
       return `Cupom YesStyle testado em ${monthYear}: use ${r.code} para até ${r.newCustomerDiscount}% extra no campo Reward Code (${r.newCustomerDiscount}% 1ª compra / ${r.returningCustomerDiscount}% recorrente) e combine com cupons promocionais elegíveis.`;
@@ -306,7 +312,6 @@ export const COUPONS: Coupon[] = [
     reusable: 'Sim, conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política internacional da loja',
     combinable: 'Sim: deve ser usado no campo Reward Code e é acumulável com cupons promocionais elegíveis no campo Coupon Code',
-    get lastVerified() { return getPrimaryRewardCode().verifiedAt; },
     get aboutBrand() {
       const r = getPrimaryRewardCode();
       return `A YesStyle é uma loja internacional conhecida por produtos de beleza asiática, skincare, moda, acessórios e itens de lifestyle. O ${r.code} entra como código de recompensa de influenciador para quem acompanha o Em Casa com Cecília e quer economizar no site. A diferença importante é que ele não substitui o cupom promocional da loja: deve ser aplicado no campo Reward Code para somar até ${r.newCustomerDiscount}% extras (${r.newCustomerDiscount}% na primeira compra ou ${r.returningCustomerDiscount}% em compras recorrentes) aos cupons promocionais elegíveis inseridos no campo Coupon Code. Como regras de desconto, frete e aplicação podem variar por campanha, produto e país de entrega, confira sempre o resumo do carrinho antes de finalizar a compra.`;

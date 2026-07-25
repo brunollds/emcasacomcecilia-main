@@ -216,7 +216,7 @@ const pages: Record<Locale, PageCopy> = {
   en: {
     locale: 'en',
     language: 'en-US',
-    homeLabel: 'Home',
+    homeLabel: 'Em Casa com Cecília',
     couponsLabel: 'Coupons',
     eyebrow: 'YesStyle Coupons & Reward Code',
     titleTemplate: 'YesStyle Reward Code {code}: Up to {newDiscount}% Extra',
@@ -287,7 +287,7 @@ const pages: Record<Locale, PageCopy> = {
   es: {
     locale: 'es',
     language: 'es-ES',
-    homeLabel: 'Inicio',
+    homeLabel: 'Em Casa com Cecília',
     couponsLabel: 'Cupones',
     eyebrow: 'Cupones y Código de Recompensa YesStyle',
     titleTemplate: 'Código de recompensa YesStyle {code}: Hasta {newDiscount}% extra',
@@ -357,7 +357,7 @@ const pages: Record<Locale, PageCopy> = {
   fr: {
     locale: 'fr',
     language: 'fr-FR',
-    homeLabel: 'Accueil',
+    homeLabel: 'Em Casa com Cecília',
     couponsLabel: 'Coupons',
     eyebrow: 'Coupons et Code Récompense YesStyle',
     titleTemplate: 'Code récompense YesStyle {code} : Jusqu’à {newDiscount} % en plus',
@@ -427,7 +427,7 @@ const pages: Record<Locale, PageCopy> = {
   de: {
     locale: 'de',
     language: 'de-DE',
-    homeLabel: 'Startseite',
+    homeLabel: 'Em Casa com Cecília',
     couponsLabel: 'Gutscheine',
     eyebrow: 'YesStyle Gutscheine & Reward Code',
     titleTemplate: 'YesStyle Reward Code {code}: Bis zu {newDiscount} % extra',
@@ -497,7 +497,7 @@ const pages: Record<Locale, PageCopy> = {
   ko: {
     locale: 'ko',
     language: 'ko-KR',
-    homeLabel: '홈',
+    homeLabel: 'Em Casa com Cecília',
     couponsLabel: '쿠폰',
     eyebrow: 'YesStyle 쿠폰 및 리워드 코드',
     titleTemplate: 'YesStyle 리워드 코드 {code}: 추가 {newDiscount}% 할인',
@@ -567,7 +567,7 @@ const pages: Record<Locale, PageCopy> = {
   ja: {
     locale: 'ja',
     language: 'ja-JP',
-    homeLabel: 'ホーム',
+    homeLabel: 'Em Casa com Cecília',
     couponsLabel: 'クーポン',
     eyebrow: 'YesStyle クーポン＆リワードコード',
     titleTemplate: 'YesStyle リワードコード {code}：さらに{newDiscount}%オフ',
@@ -637,7 +637,7 @@ const pages: Record<Locale, PageCopy> = {
   'zh-hant': {
     locale: 'zh-hant',
     language: 'zh-HK',
-    homeLabel: '首頁',
+    homeLabel: 'Em Casa com Cecília',
     couponsLabel: '優惠碼',
     eyebrow: 'YesStyle 優惠碼與獎勵碼',
     titleTemplate: 'YesStyle 獎勵碼 {code}：額外 {newDiscount}% 優惠',
@@ -707,7 +707,7 @@ const pages: Record<Locale, PageCopy> = {
   'zh-hans': {
     locale: 'zh-hans',
     language: 'zh-CN',
-    homeLabel: '首页',
+    homeLabel: 'Em Casa com Cecília',
     couponsLabel: '优惠码',
     eyebrow: 'YesStyle 优惠码与奖励码',
     titleTemplate: 'YesStyle 奖励码 {code}：额外 {newDiscount}% 优惠',
@@ -814,8 +814,12 @@ export function resolveYesStylePage(
 
   const reward = rewardInput || getPrimaryRewardCode();
   const promos = promosInput !== undefined ? promosInput : getActivePromoCoupons();
-  const formattedDate = formatIsoDateUTC(reward.verifiedAt, page.language);
   const config = getYesStyleLocaleConfig(page.locale);
+
+  // [P1 Fix]: Calcular data da atualização mais recente (maior verifiedAt entre o Reward Code e cupons ativos)
+  const allVerifiedDates = [reward.verifiedAt, ...promos.map((p) => p.verifiedAt)];
+  const latestVerifiedAtISO = allVerifiedDates.reduce((latest, date) => (date > latest ? date : latest), reward.verifiedAt);
+  const formattedDate = formatIsoDateUTC(latestVerifiedAtISO, page.language);
 
   const canonicalUrl =
     page.locale === 'pt'
@@ -869,7 +873,7 @@ export function resolveYesStylePage(
     homeLabel: page.homeLabel,
     couponsLabel: page.couponsLabel,
     canonicalUrl,
-    verifiedAtISO: reward.verifiedAt,
+    verifiedAtISO: latestVerifiedAtISO,
     eyebrow: page.eyebrow,
     title: fillPlaceholders(page.titleTemplate, reward, firstPromoCode),
     description: fillPlaceholders(page.descriptionTemplate, reward, firstPromoCode),
@@ -924,22 +928,14 @@ export function getYesStyleMetadata(locale: string): Metadata {
   if (!resolved) return {};
   const config = getYesStyleLocaleConfig(locale);
 
-  // Projeto B2: Canonical próprio auto-referenciado em todos os 9 hubs
   const canonical = resolved.canonicalUrl;
 
-  // Projeto B2: Mapas de hreflang recíprocos entre os 9 hubs + x-default
-  const languages: Record<string, string> = {
-    'pt-BR': 'https://emcasacomcecilia.com/cupons/yesstyle',
-    'en': 'https://emcasacomcecilia.com/en/coupons/yesstyle',
-    'es': 'https://emcasacomcecilia.com/es/coupons/yesstyle',
-    'fr': 'https://emcasacomcecilia.com/fr/coupons/yesstyle',
-    'de': 'https://emcasacomcecilia.com/de/coupons/yesstyle',
-    'ko': 'https://emcasacomcecilia.com/ko/coupons/yesstyle',
-    'ja': 'https://emcasacomcecilia.com/ja/coupons/yesstyle',
-    'zh-Hant': 'https://emcasacomcecilia.com/zh-hant/coupons/yesstyle',
-    'zh-Hans': 'https://emcasacomcecilia.com/zh-hans/coupons/yesstyle',
-    'x-default': 'https://emcasacomcecilia.com/en/coupons/yesstyle',
-  };
+  // [P1 Fix]: Iterar dinamicamente sobre YESSTYLE_LOCALES sem hardcode e adicionar apenas x-default
+  const languages: Record<string, string> = {};
+  for (const locConfig of Object.values(YESSTYLE_LOCALES)) {
+    languages[locConfig.hreflang] = `https://emcasacomcecilia.com${locConfig.hubPath}`;
+  }
+  languages['x-default'] = 'https://emcasacomcecilia.com/en/coupons/yesstyle';
 
   return {
     title: resolved.title,
@@ -964,7 +960,7 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
 
   const languageLinks = getHubLanguageLinks();
 
-  // Schemas JSON-LD B2 (WebPage, BreadcrumbList, FAQPage)
+  // Schemas JSON-LD B2
   const webPageSchema = {
     '@context': 'https://schema.org',
     '@type': 'WebPage',
@@ -975,14 +971,23 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
     dateModified: resolved.verifiedAtISO,
   };
 
+  // [P1 Fix]: Trilha de Breadcrumb com 3 níveis em PT e 2 níveis nos hubs internacionais
+  const breadcrumbElements =
+    resolved.locale === 'pt'
+      ? [
+          { '@type': 'ListItem', position: 1, name: resolved.homeLabel, item: 'https://emcasacomcecilia.com' },
+          { '@type': 'ListItem', position: 2, name: resolved.couponsLabel, item: 'https://emcasacomcecilia.com/cupons' },
+          { '@type': 'ListItem', position: 3, name: 'YesStyle', item: resolved.canonicalUrl },
+        ]
+      : [
+          { '@type': 'ListItem', position: 1, name: resolved.homeLabel, item: 'https://emcasacomcecilia.com' },
+          { '@type': 'ListItem', position: 2, name: 'YesStyle', item: resolved.canonicalUrl },
+        ];
+
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
-    itemListElement: [
-      { '@type': 'ListItem', position: 1, name: resolved.homeLabel, item: 'https://emcasacomcecilia.com' },
-      { '@type': 'ListItem', position: 2, name: resolved.couponsLabel, item: 'https://emcasacomcecilia.com/cupons' },
-      { '@type': 'ListItem', position: 3, name: 'YesStyle', item: resolved.canonicalUrl },
-    ],
+    itemListElement: breadcrumbElements,
   };
 
   const faqSchema = {
@@ -1008,8 +1013,12 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
           <nav className="mb-6 text-xs text-white/55">
             <Link href="/">{resolved.homeLabel}</Link>
             <span className="mx-2">/</span>
-            <Link href="/cupons">{resolved.couponsLabel}</Link>
-            <span className="mx-2">/</span>
+            {resolved.locale === 'pt' ? (
+              <>
+                <Link href="/cupons">{resolved.couponsLabel}</Link>
+                <span className="mx-2">/</span>
+              </>
+            ) : null}
             <span>YesStyle</span>
           </nav>
           <div className="flex gap-5 md:items-center">
