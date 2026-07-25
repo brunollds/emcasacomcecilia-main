@@ -29208,7 +29208,7 @@ export const reviewsData: unknown[] = [
     "type": "Guia & Cupons",
     "reviewKind": "guia",
     "description": "Passo a passo prático para usar o código de influenciador CECILIA010 na YesStyle. Veja onde digitá-lo no checkout (Reward Code), como combinar com cupons ativos, dicas de K-Beauty e regras de importação para o Brasil.",
-    "metaDescription": "Como usar CECILIA010 na YesStyle: campo Reward Code, até 5% extra cumulativo (5% 1ª compra / 2% recorrente), como combinar cupons + frete grátis para o Brasil em compras acima de US$ 59.",
+    "metaDescription": "Como usar CECILIA010 na YesStyle: campo Reward Code, até 5% extra — 5% na primeira compra e 2% nas recorrentes — combinável com cupons promocionais elegíveis conforme o checkout.",
     "publishedAt": "21 Jun 2026",
     "publishedAtISO": "2026-06-21",
     "draft": false,
@@ -29303,7 +29303,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Sim. O CECILIA010 é um código de recompensa de influenciador registrado no programa oficial de parceiros da YesStyle. Isso significa que ele foi criado especificamente para leitoras do blog Em Casa com Cecília que compram K-beauty e produtos asiáticos.",
           "Diferente dos cupons mensais (que mudam e expiram), o código de influenciador se mantém ativo enquanto a parceria durar, e pode ser usado em novas compras. Se houver alguma limitação por conta ou por pedido, o próprio checkout da YesStyle avisa na hora de aplicar o código.",
-          "A vantagem do código de influenciador CECILIA010 é que ele funciona em um campo separado e não interfere com cupons ativos. Isso quer dizer que você ganha até 5% extra da influenciadora (5% 1ª compra / 2% recorrente) E ainda aproveita o cupom de desconto do mês — é o melhor dos dois mundos."
+          "A vantagem do código de influenciador CECILIA010 é que ele funciona em um campo separado e pode ser combinado com cupons promocionais elegíveis confirmados no checkout. Isso quer dizer que você ganha até 5% extra da influenciadora (5% 1ª compra / 2% recorrente) E ainda aproveita o cupom de desconto do mês — é o melhor dos dois mundos."
         ]
       },
       {
@@ -30687,18 +30687,18 @@ export const reviewsData: unknown[] = [
   {
     "id": 40,
     "slug": "yesstyle-reward-code-cecilia010-ko",
-    "title": "YesStyle 리워드 코드 CECILIA010: 최대 5% 할인",
+    "title": "YesStyle 리워드 코드 CECILIA010: 최대 5% 할인 (첫 구매 5% / 재구매 2%)",
     "type": "Guide & Coupons",
     "reviewKind": "guia",
-    "description": "YesStyle 리워드 코드 CECILIA010을 올바른 칸에 입력해 활성 쿠폰과 함께 최대 5% 혜택을 받는 방법을 안내합니다.",
+    "description": "YesStyle 리워드 코드 CECILIA010을 올바른 칸에 입력해 적격 프로모션 쿠폰과 함께 최대 5% 혜택(첫 구매 5% / 재구매 2%)을 받는 방법을 안내합니다.",
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
     "draft": false,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "YesStyle의 한국 스킨케어 제품",
     "pros": [
-      "활성 쿠폰에 추가로 최대 5% 할인을 더해주는 인플루언서 코드",
-      "사이트의 모든 활성 쿠폰 코드와 함께 사용 가능",
+      "적격 프로모션 쿠폰에 추가로 최대 5% 할인(첫 구매 5% / 재구매 2%)을 더해주는 인플루언서 코드",
+      "사이트의 적격 프로모션 쿠폰 코드와 결제 시 확인 후 함께 사용 가능",
       "US$ 59 이상 주문 시 무료 국제 배송",
       "K-뷰티, J-뷰티, 한국 패션까지 방대한 카탈로그",
       "100% 정품 — 공식 인증 판매점 제품",
@@ -30726,14 +30726,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "CECILIA010 사용 방법",
         "paragraphs": [
-          "CECILIA010은 일반 쿠폰이 아닌 YesStyle 리워드 코드입니다. Reward Code 전용 칸에 입력하면 최대 5% 혜택을 받을 수 있습니다.",
-          "활성 프로모션 쿠폰은 Coupon Code 칸에 별도로 입력할 수 있으므로 두 혜택을 함께 확인하세요."
+          "CECILIA010은 일반 쿠폰이 아닌 YesStyle 리워드 코드입니다. Reward Code 전용 칸에 입력하면 최대 5% 혜택(첫 구매 5% / 재구매 2%)을 받을 수 있습니다.",
+          "적격 프로모션 쿠폰은 Coupon Code 칸에 별도로 입력할 수 있으므로 결제 시 두 혜택을 함께 확인하세요."
         ],
         "bullets": [
           "코드: CECILIA010",
-          "혜택: 최대 5%",
+          "혜택: 최대 5% (첫 구매 5% / 재구매 2%)",
           "입력 위치: Reward Code",
-          "활성 쿠폰과 함께 사용 가능"
+          "적격 프로모션 쿠폰과 결제 시 확인 후 함께 사용 가능"
         ]
       },
       {
@@ -30743,7 +30743,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Reward Code에 CECILIA010 입력",
-          "Coupon Code에는 별도의 활성 프로모션 코드 입력",
+          "Coupon Code에는 별도의 적격 프로모션 코드 입력",
           "결제 전 주문 요약에서 두 할인 확인"
         ]
       },
@@ -30757,8 +30757,8 @@ export const reviewsData: unknown[] = [
         "heading": "자주 묻는 질문",
         "bullets": [
           "CECILIA010은 쿠폰인가요? 리워드 코드이며 Reward Code 칸에 입력합니다.",
-          "다른 쿠폰과 함께 사용할 수 있나요? 네, 활성 쿠폰은 Coupon Code 칸에 별도로 입력하세요.",
-          "할인율은 얼마인가요? 대상 주문에서 최대 5% 혜택을 제공하며 현재 조건을 확인하세요."
+          "다른 쿠폰과 함께 사용할 수 있나요? 네, 적격 프로모션 쿠폰은 Coupon Code 칸에 별도로 입력하여 결제 요약에서 최종 확인하세요.",
+          "할인율은 얼마인가요? 첫 구매 5% / 재구매 2%로 최대 5% 혜택을 제공하며 적격 프로모션 쿠폰과 조합하여 결제 시 최종 적용을 확인하세요."
         ]
       }
     ],
@@ -30768,78 +30768,77 @@ export const reviewsData: unknown[] = [
   {
     "id": 41,
     "slug": "yesstyle-reward-code-cecilia010-ja",
-    "title": "YesStyle リワードコード CECILIA010：最大5%オフ",
+    "title": "YesStyle リワードコード CECILIA010：最大5%オフ（初回購入 5% / リピーター 2%）",
     "type": "Guide & Coupons",
     "reviewKind": "guia",
-    "description": "YesStyleのリワードコードCECILIA010を正しい欄に入力し、有効なクーポンと併用する方法を解説します。",
+    "description": "YesStyleのリワードコードCECILIA010を正しい欄に入力し、対象プロモーションクーポンと併用して最大5%オフ（初回購入 5% / リピーター 2%）を受ける方法を解説します。",
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
     "draft": false,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "YesStyleの韓国スキンケア製品",
     "pros": [
-      "アクティブなクーポンに最大5%オフを追加するインフルエンサーコード",
-      "サイト内の有効なクーポンコードと併用可能",
+      "対象プロモーションクーポンに最大5%オフ（初回購入 5% / リピーター 2%）を追加するインフルエンサーコード",
+      "サイト内の対象プロモーションクーポンコードと注文確定前に確認の上で併用可能",
       "US$59以上の注文で国際送料無料",
       "K-ビューティー、J-ビューティー、韓国ファッションまで豊富なカタログ",
-      "100%正規品 — 正規販売代理店",
-      "日本語インターフェースで利用しやすいサイト"
+      "100%正規品 — 公式認定販売店製品",
+      "日本語インターフェースで快適に買い物が楽しめるサイト"
     ],
     "cons": [
-      "通常のクーポンコードの代わりにはならない（別欄で入力）",
-      "国際注文はお届け先によって関税が発生する場合がある",
-      "国際配送にかかる日数（標準配送で営業日15〜30日）",
-      "最終決済は米ドル建て（銀行の為替レートにより変動）"
+      "通常のクーポンコードを代替しません（専用欄に入力）",
+      "国際注文は配送国により関税が適用される場合があります",
+      "国際配送期間（標準配送で営業日15〜30日）",
+      "最終決済は米ドル請求となります（カード会社の換算レートに依存）"
     ],
     "coupon": "CECILIA010",
     "notes": [
       {
         "label": "セシリアのヒント",
-        "body": "コード入力欄はチェックアウト画面の「Reward Code」にあります。ストアを開く前にCECILIA010をコピーしておくと、注文時に貼り付けるだけで済みます。"
+        "body": "コード入力欄は決済画面の「Reward Code」にあります。ショップを開く前にCECILIA010をコピーしておくと注文時に貼り付けるだけです。"
       }
     ],
     "cta": {
-      "text": "YesStyleのチェックアウトでCECILIA010を使いましょう。",
-      "label": "YesStyleでコードを使う",
+      "text": "YesStyleの注文でCECILIA010を活用しましょう。",
+      "label": "YesStyleでコードを使用する",
       "url": "https://ystyle.co/rQYQv"
     },
     "contentSections": [
       {
         "heading": "CECILIA010の使い方",
         "paragraphs": [
-          "CECILIA010は通常のクーポンではなくYesStyleのリワードコードです。Reward Code専用欄に入力すると最大5%の特典が適用されます。",
-          "有効なプロモーションコードはCoupon Code欄に別途入力できるため、両方の割引を確認してください。"
+          "CECILIA010は通常のクーポンではなくYesStyleのリワードコードです。Reward Code専用欄に入力すると最大5%オフ（初回購入 5% / リピーター 2%）の特典が適用されます。",
+          "対象プロモーションコードはCoupon Code欄に別途入力できるため、決済時に両方の割引が適用されているか確認してください。"
         ],
         "bullets": [
-          "コード：CECILIA010",
-          "特典：最大5%",
+          "特典：最大5%（初回購入 5% / リピーター 2%）",
           "入力欄：Reward Code",
-          "有効なクーポンと併用可能"
+          "対象プロモーションクーポンと注文確定前に確認の上で併用可能"
         ]
       },
       {
-        "heading": "チェックアウトの手順",
+        "heading": "ご注文の手順",
         "paragraphs": [
-          "商品をバッグに入れてチェックアウトへ進み、Reward Code欄にCECILIA010を入力して適用します。"
+          "YesStyleで商品をカートに入れ、チェックアウト画面へ進みます。Reward Code欄にCECILIA010を入力し、適用ボタンを押します。"
         ],
         "bullets": [
-          "Reward CodeにCECILIA010を入力",
-          "Coupon Codeには別の有効なコードを入力",
-          "注文前に両方の割引を確認"
+          "Reward Code欄にCECILIA010を入力",
+          "Coupon Code欄には別途対象プロモーションコードを入力",
+          "注文確定前に両方の割引が適用されていることを確認"
         ]
       },
       {
-        "heading": "購入前の確認",
+        "heading": "ご注文前の注意事項",
         "paragraphs": [
-          "送料、税金、割引の適用は配送先と現在の条件により異なります。支払い前に最終金額を確認してください。"
+          "配送、税金、割引適用範囲は配送先およびキャンペーンの条件により異なる場合があります。お支払い前に最終合計金額をご確認ください。"
         ]
       },
       {
         "heading": "よくある質問",
         "bullets": [
           "CECILIA010はクーポンですか？Reward Code欄に入力するリワードコードです。",
-          "ほかのクーポンと併用できますか？はい。プロモーションコードはCoupon Code欄に入力します。",
-          "割引率はいくらですか？対象注文で最大5%の特典が付きます。"
+          "ほかのクーポンと併用できますか？はい。対象プロモーションコードはCoupon Code欄に入力し、チェックアウト画面で併用を確認できます。",
+          "割引率はいくらですか？初回購入 5% / リピーター 2%の最大5%特典が対象注文に適用され、チェックアウト時に確認されます。"
         ]
       }
     ],
@@ -30849,38 +30848,38 @@ export const reviewsData: unknown[] = [
   {
     "id": 42,
     "slug": "yesstyle-reward-code-cecilia010-zh-hant",
-    "title": "YesStyle 獎勵碼 CECILIA010：高達 5% 優惠",
+    "title": "YesStyle 獎勵碼 CECILIA010：高達 5% 優惠 (首購 5% / 回購 2%)",
     "type": "Guide & Coupons",
     "reviewKind": "guia",
-    "description": "了解如何在 YesStyle 正確輸入獎勵碼 CECILIA010，並與有效優惠碼同時使用。",
+    "description": "了解如何在 YesStyle 正確輸入獎勵碼 CECILIA010，並與合資格促銷優惠券同時使用，享受高達 5% 優惠（首購 5% / 回購 2%）。",
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
     "draft": false,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "YesStyle 韓國護膚產品",
     "pros": [
-      "網紅專屬代碼，可在有效優惠券基礎上再折抵高達 5%",
-      "可與網站上任何有效優惠券代碼一併使用",
+      "網紅專屬代碼，可在合資格促銷優惠券基礎上再折抵高達 5%（首購 5% / 回購 2%）",
+      "可與網站上合資格促銷優惠券一併使用，於結帳時確認",
       "訂單滿US$59即享國際免運",
       "K-Beauty、J-Beauty與韓系時尚商品目錄豐富",
-      "100%正品 — 官方授權經銷商",
-      "網站提供繁體中文介面，購物更方便"
+      "100%正品 — 官方授權經銷商產品",
+      "繁體中文介面，方便輕鬆購物"
     ],
     "cons": [
-      "無法取代一般優惠券代碼（需於另一欄位輸入）",
-      "國際訂單可能依所在地區被徵收關稅",
-      "國際配送時間（標準配送約15至30個工作天）",
-      "最終結帳以美元計價（依銀行匯率而定）"
+      "無法替代一般促銷優惠碼（需於專用欄位輸入）",
+      "國際訂單根據送貨國家可能需支付關稅",
+      "國際運送時間（標準運送約 15 至 30 個工作天）",
+      "最終結帳以美元計價（取決於銀行匯率）"
     ],
     "coupon": "CECILIA010",
     "notes": [
       {
-        "label": "塞西莉亞的小提示",
-        "body": "優惠碼輸入框在結帳頁面的「Reward Code」處。打開商店前先複製 CECILIA010，下單時直接貼上即可。"
+        "label": "西西莉亞的小貼士",
+        "body": "代碼輸入欄位於結帳頁面的「Reward Code」。開啟商店前先複製 CECILIA010，下單時直接貼上即可。"
       }
     ],
     "cta": {
-      "text": "在 YesStyle 結帳時使用 CECILIA010。",
+      "text": "在 YesStyle 結帳時使用 CECILIA010 優惠碼。",
       "label": "前往 YesStyle 使用代碼",
       "url": "https://ystyle.co/rQYQv"
     },
@@ -30888,39 +30887,38 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如何使用 CECILIA010",
         "paragraphs": [
-          "CECILIA010 是 YesStyle 獎勵碼，不是一般優惠碼。請在 Reward Code 專用欄位輸入，以獲得高達 5% 優惠。",
-          "有效促銷優惠碼可另外輸入 Coupon Code 欄位，請確認兩項優惠皆已套用。"
+          "CECILIA010 是 YesStyle 獎勵碼，不是一般優惠碼。請在 Reward Code 專用欄位輸入，以獲得高達 5% 優惠（首購 5% / 回購 2%）。",
+          "合資格促銷優惠碼可另外輸入 Coupon Code 欄位，請於結帳時確認兩項優惠皆已套用。"
         ],
         "bullets": [
-          "代碼：CECILIA010",
-          "優惠：高達 5%",
+          "優惠：高達 5%（首購 5% / 回購 2%）",
           "輸入位置：Reward Code",
-          "可與有效優惠碼一起使用"
+          "可與合資格促銷優惠券一起使用，於結帳時確認"
         ]
       },
       {
         "heading": "結帳步驟",
         "paragraphs": [
-          "將商品加入購物袋後前往結帳，在 Reward Code 欄位輸入 CECILIA010 並套用。"
+          "在 YesStyle 選購商品加入購物車後前往結帳。在 Reward Code 欄位輸入 CECILIA010 並點擊套用。"
         ],
         "bullets": [
-          "Reward Code 輸入 CECILIA010",
-          "Coupon Code 另外輸入促銷碼",
-          "付款前確認兩項折扣"
+          "在 Reward Code 輸入 CECILIA010",
+          "在 Coupon Code 輸入合資格促銷優惠碼",
+          "付款前於訂單摘要確認兩項折扣"
         ]
       },
       {
-        "heading": "購買前請確認",
+        "heading": "購物前注意事項",
         "paragraphs": [
-          "運費、稅費與優惠適用情況可能因配送地及當前條款而不同，付款前請確認最終金額。"
+          "運費、稅項及折扣適用範圍會因目的地及優惠條件而異。請於付款前確認最終金額。"
         ]
       },
       {
         "heading": "常見問題",
         "bullets": [
           "CECILIA010 是優惠碼嗎？它是應輸入 Reward Code 的獎勵碼。",
-          "可與其他優惠碼使用嗎？可以，促銷碼請輸入 Coupon Code。",
-          "優惠是多少？符合條件的訂單可高達 5% 優惠。"
+          "可與其他優惠碼使用嗎？可以，合資格促銷碼請輸入 Coupon Code，於結帳摘要確認套用。",
+          "優惠是多少？首購 5% / 回購 2%，符合條件的訂單可享高達 5% 優惠，於結帳時確認最終折抵。"
         ]
       }
     ],
@@ -30930,38 +30928,38 @@ export const reviewsData: unknown[] = [
   {
     "id": 43,
     "slug": "yesstyle-reward-code-cecilia010-zh-hans",
-    "title": "YesStyle 奖励码 CECILIA010：高达 5% 优惠",
+    "title": "YesStyle 奖励码 CECILIA010：高达 5% 优惠 (首购 5% / 回购 2%)",
     "type": "Guide & Coupons",
     "reviewKind": "guia",
-    "description": "了解如何在 YesStyle 正确输入奖励码 CECILIA010，并与有效优惠码同时使用。",
+    "description": "了解如何在 YesStyle 正确输入奖励码 CECILIA010，并与合资格促销优惠券同时使用，享受高达 5% 优惠（首购 5% / 回购 2%）。",
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
     "draft": false,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "YesStyle 韩国护肤产品",
     "pros": [
-      "网红专属代码，可在有效优惠券基础上再享高达 5%折扣",
-      "可与网站上任何有效优惠券代码一起使用",
+      "网红专属代码，可在合资格促销优惠券基础上再享高达 5%折扣（首购 5% / 回购 2%）",
+      "可与网站上合资格促销优惠券一起使用，于结账时确认",
       "订单满US$59即享国际免运费",
       "K-Beauty、J-Beauty与韩系时尚商品目录丰富",
-      "100%正品 — 官方授权经销商",
-      "网站提供简体中文界面，购物更方便"
+      "100%正品 — 官方授权经销商产品",
+      "简体中文界面，方便轻松购物"
     ],
     "cons": [
-      "无法替代常规优惠券代码（需在单独栏目输入）",
-      "国际订单可能因所在地区被征收关税",
-      "国际配送时间（标准配送约15至30个工作日）",
-      "最终结算以美元计价（取决于银行汇率）"
+      "无法替代一般促销优惠码（需于专用栏位输入）",
+      "国际订单根据配送国家可能需支付关税",
+      "国际运输时间（标准运输约 15 至 30 个工作日）",
+      "最终结账以美元计价（取决于银行汇率）"
     ],
     "coupon": "CECILIA010",
     "notes": [
       {
-        "label": "塞西莉亚的小贴士",
-        "body": "优惠码输入框在结算页面的“Reward Code”处。打开商店前先复制 CECILIA010，下单时直接粘贴即可。"
+        "label": "西西莉亚的小贴士",
+        "body": "代码输入栏位于结账页面的“Reward Code”。打开商店前先复制 CECILIA010，下单时直接粘贴即可。"
       }
     ],
     "cta": {
-      "text": "在 YesStyle 结账时使用 CECILIA010。",
+      "text": "在 YesStyle 结账时使用 CECILIA010 优惠码。",
       "label": "前往 YesStyle 使用代码",
       "url": "https://ystyle.co/rQYQv"
     },
@@ -30969,39 +30967,38 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如何使用 CECILIA010",
         "paragraphs": [
-          "CECILIA010 是 YesStyle 奖励码，不是普通优惠码。请在 Reward Code 专用栏位输入，以获得高达 5% 优惠。",
-          "有效促销优惠码可另外输入 Coupon Code 栏位，请确认两项优惠均已应用。"
+          "CECILIA010 是 YesStyle 奖励码，不是普通优惠码。请在 Reward Code 专用栏位输入，以获得高达 5% 优惠（首购 5% / 回购 2%）。",
+          "合资格促销优惠码可另外输入 Coupon Code 栏位，请于结账时确认两项优惠均已应用。"
         ],
         "bullets": [
-          "代码：CECILIA010",
-          "优惠：高达 5%",
+          "优惠：高达 5%（首购 5% / 回购 2%）",
           "输入位置：Reward Code",
-          "可与有效优惠码一起使用"
+          "可与合资格促销优惠券一起使用，于结账时确认"
         ]
       },
       {
         "heading": "结账步骤",
         "paragraphs": [
-          "将商品加入购物袋后前往结账，在 Reward Code 栏位输入 CECILIA010 并应用。"
+          "在 YesStyle 选购商品加入购物车后前往结账。在 Reward Code 栏位输入 CECILIA010 并点击应用。"
         ],
         "bullets": [
           "在 Reward Code 输入 CECILIA010",
-          "在 Coupon Code 另外输入促销码",
-          "付款前确认两项折扣"
+          "在 Coupon Code 输入合资格促销优惠码",
+          "付款前于订单摘要确认两项折扣"
         ]
       },
       {
-        "heading": "购买前请确认",
+        "heading": "购物前注意事项",
         "paragraphs": [
-          "运费、税费及优惠适用情况可能因配送地和当前条款而不同，付款前请确认最终金额。"
+          "运费、税项及折扣适用范围会因目的地及优惠条件而异。请于付款前确认最终金额。"
         ]
       },
       {
         "heading": "常见问题",
         "bullets": [
-          "CECILIA010 是优惠码吗？它是应输入 Reward Code 的奖励码。",
-          "可以与其他优惠码一起使用吗？可以，促销码请输入 Coupon Code。",
-          "优惠是多少？符合条件的订单可高达 5% 优惠。"
+          "CECILIA010 是优惠码吗？ 它是应输入 Reward Code 的奖励码。",
+          "可以与其他优惠码一起使用吗？可以，合资格促销码请输入 Coupon Code，于结账摘要确认应用。",
+          "优惠是多少？首购 5% / 回购 2%，符合条件的订单可高达 5% 优惠，于结账时确认最终折抵。"
         ]
       }
     ],
