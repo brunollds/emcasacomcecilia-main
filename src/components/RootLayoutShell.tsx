@@ -1,54 +1,54 @@
-import { Montserrat, Lora, Caveat, Kalam } from "next/font/google";
-import Script from "next/script";
-import "./globals.css";
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
-import Analytics from "@/components/Analytics";
+import React from 'react';
+import { Montserrat, Lora, Caveat, Kalam } from 'next/font/google';
+import Script from 'next/script';
+import Navbar from '@/components/Navbar';
+import Footer from '@/components/Footer';
+import Analytics from '@/components/Analytics';
 
 const montserrat = Montserrat({
-  variable: "--font-montserrat",
-  subsets: ["latin"],
-  weight: ["400", "600", "700", "800"],
-  display: "swap",
+  variable: '--font-montserrat',
+  subsets: ['latin'],
+  weight: ['400', '600', '700', '800'],
+  display: 'swap',
 });
 
 const lora = Lora({
-  variable: "--font-lora",
-  subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
-  display: "swap",
+  variable: '--font-lora',
+  subsets: ['latin'],
+  weight: ['400', '500', '600', '700'],
+  display: 'swap',
 });
 
 const caveat = Caveat({
-  variable: "--font-caveat",
-  subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
-  display: "swap",
+  variable: '--font-caveat',
+  subsets: ['latin'],
+  weight: ['400', '500', '600', '700'],
+  display: 'swap',
 });
 
 const kalam = Kalam({
-  variable: "--font-kalam",
-  subsets: ["latin"],
-  weight: ["400", "700"],
-  display: "swap",
+  variable: '--font-kalam',
+  subsets: ['latin'],
+  weight: ['400', '700'],
+  display: 'swap',
 });
 
-export const metadata = {
-  metadataBase: new URL("https://emcasacomcecilia.com"),
-  title: "Em Casa com Cecília - Receitas Práticas e Deliciosas",
-  description: "Receitas caseiras, reviews sinceros e análises de produtos. Aprenda a cozinhar pratos deliciosos com a Cecília! +550K seguidores nas redes sociais.",
-  authors: [{ name: "Cecília Mauad" }],
+export const defaultMetadata = {
+  metadataBase: new URL('https://emcasacomcecilia.com'),
+  title: 'Em Casa com Cecília - Receitas Práticas e Deliciosas',
+  description: 'Receitas caseiras, reviews sinceros e análises de produtos. Aprenda a cozinhar pratos deliciosos com a Cecília! +550K seguidores nas redes sociais.',
+  authors: [{ name: 'Cecília Mauad' }],
   openGraph: {
-    title: "Em Casa com Cecília - Receitas Práticas e Deliciosas",
-    description: "Receitas caseiras, reviews sinceros e análises de produtos.",
-    type: "website",
-    locale: "pt_BR",
-    siteName: "Em Casa com Cecília",
+    title: 'Em Casa com Cecília - Receitas Práticas e Deliciosas',
+    description: 'Receitas caseiras, reviews sinceros e análises de produtos.',
+    type: 'website',
+    locale: 'pt_BR',
+    siteName: 'Em Casa com Cecília',
   },
   twitter: {
-    card: "summary_large_image",
-    title: "Em Casa com Cecília",
-    description: "Receitas caseiras, reviews sinceros e análises de produtos.",
+    card: 'summary_large_image',
+    title: 'Em Casa com Cecília',
+    description: 'Receitas caseiras, reviews sinceros e análises de produtos.',
   },
   robots: {
     index: true,
@@ -97,9 +97,15 @@ const websiteSchema = {
   },
 };
 
-export default function RootLayout({ children }) {
+export function RootLayoutShell({
+  lang,
+  children,
+}: {
+  lang: string;
+  children: React.ReactNode;
+}) {
   return (
-    <html lang="pt-BR">
+    <html lang={lang}>
       <body className={`${montserrat.variable} ${lora.variable} ${caveat.variable} ${kalam.variable} antialiased`}>
         <script
           type="application/ld+json"
@@ -114,7 +120,7 @@ export default function RootLayout({ children }) {
         <Footer />
         <Analytics />
         <Script id="clarity" strategy="afterInteractive">
-          {`(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y)})(window,document,"clarity","script","r8u956l333");`}
+          {`(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","r8u956l333");`}
         </Script>
       </body>
     </html>
