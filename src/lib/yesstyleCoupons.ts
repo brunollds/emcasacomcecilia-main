@@ -1,21 +1,47 @@
-// Fonte factual única para cupons YesStyle (Projeto A - A4)
+// Fonte factual única para cupons YesStyle (Projeto B1 - B1.1)
 // Fatos, datas, regras e links de verificação oficiais.
 
-export interface YesStyleCouponItem {
+export type YesStyleDiscountSpec =
+  | { kind: 'percentage'; value: number }
+  | { kind: 'fixed'; value: number; currency: string }
+  | { kind: 'shipping' }
+  | { kind: 'text'; label: string };
+
+export interface YesStyleOfferBase {
+  id: string;
   code: string;
-  type: 'reward' | 'coupon';
-  newCustomerDiscount: number; // Ex: 5 (%)
-  returningCustomerDiscount: number; // Ex: 2 (%)
-  verifiedAt: string; // YYYY-MM-DD
-  expiresAt?: string; // YYYY-MM-DD (opcional para cupons promocionais temporários)
-  officialSourceUrl: string; // Fonte oficial comprovável
-  affiliateUrl: string; // Link comercial de afiliada
   status: 'active' | 'scheduled' | 'expired';
+  startsAt?: string;
+  expiresAt?: string;
+  verifiedAt: string; // YYYY-MM-DD
   regions: string[];
+  officialSourceUrl: string;
+  affiliateUrl?: string;
+  evidenceImage?: string;
+  eligibility?: string[];
+  restrictions?: string[];
 }
 
-export const YESSTYLE_COUPONS_FACTUAL: YesStyleCouponItem[] = [
+export interface YesStyleRewardOffer extends YesStyleOfferBase {
+  type: 'reward';
+  affiliateUrl: string;
+  newCustomerDiscount: number; // Ex: 5 (%)
+  returningCustomerDiscount: number; // Ex: 2 (%)
+}
+
+export interface YesStylePromoOffer extends YesStyleOfferBase {
+  type: 'coupon';
+  discount: YesStyleDiscountSpec;
+}
+
+export type YesStyleOffer = YesStyleRewardOffer | YesStylePromoOffer;
+
+// Manter alias para compatibilidade estrita com validadores e componentes
+export type YesStyleCouponItem = YesStyleOffer;
+
+export const YESSTYLE_COUPONS_FACTUAL: YesStyleOffer[] = [
   {
+    id: 'cecilia010-reward',
     code: 'CECILIA010',
     type: 'reward',
     newCustomerDiscount: 5,
@@ -26,11 +52,25 @@ export const YESSTYLE_COUPONS_FACTUAL: YesStyleCouponItem[] = [
     status: 'active',
     regions: ['GLOBAL'],
   },
+  {
+    id: 'btsvip15-promo',
+    code: 'BTSVIP15',
+    type: 'coupon',
+    discount: { kind: 'percentage', value: 15 },
+    verifiedAt: '2026-07-25',
+    officialSourceUrl: 'https://www.yesstyle.com/en/home.html',
+    affiliateUrl: 'https://ystyle.co/rQYQv',
+    evidenceImage: '/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp',
+    status: 'active',
+    regions: ['GLOBAL'],
+  },
 ];
 
 // Helper: obtém o código de recompensa ativo principal (Rewards/Influencer Code)
-export function getPrimaryRewardCode(): YesStyleCouponItem {
-  const reward = YESSTYLE_COUPONS_FACTUAL.find((item) => item.type === 'reward' && item.status === 'active');
+export function getPrimaryRewardCode(): YesStyleRewardOffer {
+  const reward = YESSTYLE_COUPONS_FACTUAL.find(
+    (item): item is YesStyleRewardOffer => item.type === 'reward' && item.status === 'active'
+  );
   if (!reward) {
     throw new Error('[yesstyleCoupons] Nenhum Reward Code ativo encontrado na fonte factual!');
   }
@@ -38,6 +78,8 @@ export function getPrimaryRewardCode(): YesStyleCouponItem {
 }
 
 // Helper: obtém cupons promocionais ativos com fonte comprovada
-export function getActivePromoCoupons(): YesStyleCouponItem[] {
-  return YESSTYLE_COUPONS_FACTUAL.filter((item) => item.type === 'coupon' && item.status === 'active');
+export function getActivePromoCoupons(): YesStylePromoOffer[] {
+  return YESSTYLE_COUPONS_FACTUAL.filter(
+    (item): item is YesStylePromoOffer => item.type === 'coupon' && item.status === 'active'
+  );
 }
