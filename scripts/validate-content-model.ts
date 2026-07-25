@@ -388,10 +388,27 @@ import {
 } from '@/lib/i18n/yesstyleCluster';
 import { YESSTYLE_COUPONS_FACTUAL } from '@/lib/yesstyleCoupons';
 
-// 1. Validação do registro de locales
+// 1. Validação do registro de locales e unicidade de rotas
+const registeredPathsAndSlugs = new Set<string>();
+
 for (const key of YESSTYLE_LOCALE_KEYS) {
-  if (!YESSTYLE_LOCALES[key]) {
+  const config = YESSTYLE_LOCALES[key];
+  if (!config) {
     reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: `Locale "${key}" ausente no registro central YESSTYLE_LOCALES` });
+  } else {
+    const itemsToCheck = [
+      config.hubPath,
+      config.rewardArticleSlug,
+      config.rewardArticlePath,
+      config.guideSlug,
+      config.guidePath,
+    ];
+    for (const item of itemsToCheck) {
+      if (registeredPathsAndSlugs.has(item)) {
+        reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: `Rota/slug duplicada no registro central YESSTYLE_LOCALES: "${item}"` });
+      }
+      registeredPathsAndSlugs.add(item);
+    }
   }
 }
 
@@ -433,7 +450,7 @@ for (const coupon of YESSTYLE_COUPONS_FACTUAL) {
   }
 }
 
-// 3. Validação de paridade dos 18 artigos nos clusters
+// 3. Validação de paridade e isolamento dos 18 artigos nos clusters
 const rewardLocalesFound = new Set<string>();
 const guideLocalesFound = new Set<string>();
 
@@ -448,6 +465,9 @@ for (const review of reviews) {
       const expectedLocale = findYesStyleLocaleFromSlugOrPath(review.slug);
       if (review.locale !== expectedLocale) {
         reportError({ type: 'review', id: review.id, slug: review.slug, message: `Campo "locale" ("${review.locale}") não coincide com o registro central ("${expectedLocale}")` });
+      }
+      if (review.locale !== 'pt' && review.hideFromPortugueseListings !== true) {
+        reportError({ type: 'review', id: review.id, slug: review.slug, message: `Artigo internacional YesStyle (${review.locale}) deve conter "hideFromPortugueseListings: true"` });
       }
     }
 

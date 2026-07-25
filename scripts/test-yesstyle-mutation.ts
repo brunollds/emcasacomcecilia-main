@@ -111,6 +111,9 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
         if (str.includes('{code}') || str.includes('{newDiscount}') || str.includes('{returningDiscount}')) {
           errors.push(`Placeholder vazado não resolvido em locale "${locale}": "${str}"`);
         }
+        if (str.includes('CECILIA010')) {
+          errors.push(`Literal hardcoded "CECILIA010" não parametrizado mantido em locale "${locale}": "${str}"`);
+        }
       }
 
       // Verificar presença da mutação nos campos chave resolvidos
