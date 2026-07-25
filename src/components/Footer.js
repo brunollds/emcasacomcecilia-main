@@ -105,7 +105,7 @@ export default function Footer({ lang = 'pt-BR' }) {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-white/12 text-[#ff6b35] transition-all hover:-translate-y-0.5 hover:border-[#ff6b35]/50 hover:bg-white/5"
-                aria-label={`Siga @emcasacomcecilia no ${social.name}`}
+                aria-label={copy.followAria.replace('{social}', social.name)}
               >
                 <social.icon />
               </a>

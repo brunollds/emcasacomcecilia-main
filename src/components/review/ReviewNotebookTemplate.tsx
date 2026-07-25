@@ -19,6 +19,7 @@ import { InlineCouponCopy } from './InlineCouponCopy';
 import { getCouponCopyLocale, isStepHeading, type CouponCopyLocale } from './couponCopyLocale';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 import { YESSTYLE_LOCALES, getRewardArticleLanguageLinks, getGuideArticleLanguageLinks } from '@/lib/i18n/yesstyleCluster';
+import { getShellCopy } from '@/lib/i18n/shellDictionary';
 import { GuideTimeline } from './GuideTimeline';
 import { PullQuote } from './PullQuote';
 import { ReviewHighlightChips } from './ReviewHighlightChips';
@@ -295,14 +296,27 @@ export function ReviewNotebookTemplate({
 
               <nav aria-label="Breadcrumb">
                 <ol className="flex flex-wrap items-center gap-2 text-sm text-[#4a5568]">
-                  <li>
-                    <Link href="/" className="transition-colors hover:text-[#1a4d2e]">Início</Link>
-                  </li>
-                  <li aria-hidden="true"><ChevronRight size={14} /></li>
-                  <li>
-                    <Link href="/reviews" className="transition-colors hover:text-[#1a4d2e]">Reviews</Link>
-                  </li>
-                  <li aria-hidden="true"><ChevronRight size={14} /></li>
+                  {couponCopyLocale === 'pt' ? (
+                    <>
+                      <li>
+                        <Link href="/" className="transition-colors hover:text-[#1a4d2e]">{getShellCopy('pt').homeLabel}</Link>
+                      </li>
+                      <li aria-hidden="true"><ChevronRight size={14} /></li>
+                      <li>
+                        <Link href="/reviews" className="transition-colors hover:text-[#1a4d2e]">Reviews</Link>
+                      </li>
+                      <li aria-hidden="true"><ChevronRight size={14} /></li>
+                    </>
+                  ) : (
+                    <>
+                      <li>
+                        <Link href={YESSTYLE_LOCALES[couponCopyLocale as keyof typeof YESSTYLE_LOCALES]?.hubPath || '/'} className="transition-colors hover:text-[#1a4d2e]">
+                          {getShellCopy(couponCopyLocale).hubLabel}
+                        </Link>
+                      </li>
+                      <li aria-hidden="true"><ChevronRight size={14} /></li>
+                    </>
+                  )}
                   <li className="max-w-[200px] truncate text-[#1a4d2e] md:max-w-md" aria-current="page">
                     {review.title}
                   </li>
@@ -382,7 +396,7 @@ export function ReviewNotebookTemplate({
                     : []),
                   { icon: 'clock', label: ui.readTime(1).split(' ')[0], value: ui.readTime(readTime) },
                 ]}
-                action={<TextToSpeechButton text={speechText} />}
+                action={<TextToSpeechButton text={speechText} label={getShellCopy(couponCopyLocale).listenAudio} />}
               />
               {review.changelog && review.changelog.length > 0 && (
                 <div className="mt-3">
@@ -701,7 +715,7 @@ export function ReviewNotebookTemplate({
                   {ui.relatedArticles}
                 </SectionHeadingReveal>
                 <Link
-                  href="/reviews"
+                  href={couponCopyLocale === 'pt' ? '/reviews' : (YESSTYLE_LOCALES[couponCopyLocale as keyof typeof YESSTYLE_LOCALES]?.hubPath || '/')}
                   className="hidden items-center gap-2 text-sm font-bold text-[#1a4d2e] transition-colors hover:text-[#ff6b35] md:inline-flex"
                 >
                   {ui.viewAll}

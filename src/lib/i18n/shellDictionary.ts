@@ -13,6 +13,8 @@ export interface ShellCopy {
   contactLabel: string;
   privacyLabel: string;
   twitterDescription: string;
+  followAria: string;
+  listenAudio: string;
 }
 
 export const SHELL_DICTIONARY: Record<YesStyleLocale, ShellCopy> = {
@@ -29,6 +31,8 @@ export const SHELL_DICTIONARY: Record<YesStyleLocale, ShellCopy> = {
     contactLabel: 'Contato',
     privacyLabel: 'Privacidade',
     twitterDescription: 'Receitas caseiras, reviews sinceros e análises de produtos.',
+    followAria: 'Siga @emcasacomcecilia no {social}',
+    listenAudio: 'Ouvir artigo',
   },
   en: {
     locale: 'en',
@@ -43,6 +47,8 @@ export const SHELL_DICTIONARY: Record<YesStyleLocale, ShellCopy> = {
     contactLabel: 'Contact',
     privacyLabel: 'Privacy',
     twitterDescription: 'Tested home recipes, verified discount coupons, and K-beauty reviews by Cecília Mauad.',
+    followAria: 'Follow @emcasacomcecilia on {social}',
+    listenAudio: 'Listen to article',
   },
   es: {
     locale: 'es',
@@ -57,6 +63,8 @@ export const SHELL_DICTIONARY: Record<YesStyleLocale, ShellCopy> = {
     contactLabel: 'Contacto',
     privacyLabel: 'Privacidad',
     twitterDescription: 'Recetas probadas, cupones de descuento verificados y guías de belleza por Cecília Mauad.',
+    followAria: 'Sigue a @emcasacomcecilia en {social}',
+    listenAudio: 'Escuchar artículo',
   },
   fr: {
     locale: 'fr',
@@ -71,6 +79,8 @@ export const SHELL_DICTIONARY: Record<YesStyleLocale, ShellCopy> = {
     contactLabel: 'Contact',
     privacyLabel: 'Confidentialité',
     twitterDescription: 'Recettes maison, coupons de réduction vérifiés et guides K-beauty par Cecília Mauad.',
+    followAria: 'Suivez @emcasacomcecilia sur {social}',
+    listenAudio: "Écouter l'article",
   },
   de: {
     locale: 'de',
@@ -85,6 +95,8 @@ export const SHELL_DICTIONARY: Record<YesStyleLocale, ShellCopy> = {
     contactLabel: 'Kontakt',
     privacyLabel: 'Datenschutz',
     twitterDescription: 'Erprobte Rezepte, verifizierte Gutscheincodes und K-Beauty Ratgeber von Cecília Mauad.',
+    followAria: 'Folgen Sie @emcasacomcecilia auf {social}',
+    listenAudio: 'Artikel anhören',
   },
   ko: {
     locale: 'ko',
@@ -99,6 +111,8 @@ export const SHELL_DICTIONARY: Record<YesStyleLocale, ShellCopy> = {
     contactLabel: '문의하기',
     privacyLabel: '개인정보처리방침',
     twitterDescription: '검증된 홈 레시피, YesStyle 리워드 코드 및 K-뷰티 가이드.',
+    followAria: '{social}에서 @emcasacomcecilia 팔로우하기',
+    listenAudio: '기사 듣기',
   },
   ja: {
     locale: 'ja',
@@ -109,10 +123,12 @@ export const SHELL_DICTIONARY: Record<YesStyleLocale, ShellCopy> = {
     rewardArticleLabel: 'コード使い方ガイド',
     guideLabel: 'クーポン探しガイド',
     damieLabel: 'DAMIE',
-    footerRights: 'All rights reserved.',
+    footerRights: '全著作権所有。',
     contactLabel: 'お問い合わせ',
     privacyLabel: 'プライバシーポリシー',
     twitterDescription: '検証済みレシピ、YesStyleリワードコード、K-Beautyレビュー。',
+    followAria: '{social}で@emcasacomceciliaをフォロー',
+    listenAudio: '記事を聞く',
   },
   'zh-hant': {
     locale: 'zh-hant',
@@ -127,6 +143,8 @@ export const SHELL_DICTIONARY: Record<YesStyleLocale, ShellCopy> = {
     contactLabel: '聯絡我們',
     privacyLabel: '隱私權政策',
     twitterDescription: '經測試的家常食譜、驗證的 YesStyle 獎勵碼與美妝指南。',
+    followAria: '在 {social} 上追蹤 @emcasacomcecilia',
+    listenAudio: '收聽文章',
   },
   'zh-hans': {
     locale: 'zh-hans',
@@ -141,6 +159,8 @@ export const SHELL_DICTIONARY: Record<YesStyleLocale, ShellCopy> = {
     contactLabel: '联系我们',
     privacyLabel: '隐私政策',
     twitterDescription: '经测试的家常食谱、验证的 YesStyle 奖励码与美妆指南。',
+    followAria: '在 {social} 上关注 @emcasacomcecilia',
+    listenAudio: '收听文章',
   },
 };
 

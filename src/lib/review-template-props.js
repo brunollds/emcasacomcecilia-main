@@ -1,8 +1,7 @@
-// Constrói as props do ReviewNotebookTemplate a partir de um Review.
-// Fonte única do mapeamento: usada pela página /reviews/[slug] E pelo /preview
-// (que renderiza rascunhos da central com os MESMOS componentes de produção).
 import { getReviewSlug, publishedReviews } from '@/lib/data';
 import { buildSchemaAuthors, normalizeReview } from '@/lib/content';
+import { YESSTYLE_LOCALES, findYesStyleLocaleFromSlugOrPath } from '@/lib/i18n/yesstyleCluster';
+import { getShellCopy } from '@/lib/i18n/shellDictionary';
 
 export function getYoutubeEmbedUrl(url) {
   if (!url) return null;
@@ -38,21 +37,36 @@ export function buildReviewTemplateProps(review) {
   const relatedReviews = getRelatedReviews(review);
   const viewModel = normalizeReview(review);
 
+  const currentSlug = getReviewSlug(review);
+  const localeKey = review.locale || findYesStyleLocaleFromSlugOrPath(currentSlug) || 'pt';
+  const isPt = localeKey === 'pt';
+  const config = YESSTYLE_LOCALES[localeKey];
+  const copy = getShellCopy(localeKey);
+
   const baseUrl = 'https://emcasacomcecilia.com';
-  const reviewUrl = `${baseUrl}/reviews/${getReviewSlug(review)}`;
+  const reviewUrl = `${baseUrl}/reviews/${currentSlug}`;
   const productBrand = review.brand || review.productSpec?.find(
     (spec) => spec.key?.toLowerCase() === 'marca'
   )?.value;
 
-  const breadcrumbJsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'BreadcrumbList',
-    itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Início', item: baseUrl },
-      { '@type': 'ListItem', position: 2, name: 'Reviews', item: `${baseUrl}/reviews` },
-      { '@type': 'ListItem', position: 3, name: review.title, item: reviewUrl },
-    ],
-  };
+  const breadcrumbJsonLd = isPt
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          { '@type': 'ListItem', position: 1, name: copy.homeLabel, item: baseUrl },
+          { '@type': 'ListItem', position: 2, name: 'Reviews', item: `${baseUrl}/reviews` },
+          { '@type': 'ListItem', position: 3, name: review.title, item: reviewUrl },
+        ],
+      }
+    : {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          { '@type': 'ListItem', position: 1, name: copy.hubLabel, item: `${baseUrl}${config.hubPath}` },
+          { '@type': 'ListItem', position: 2, name: review.title, item: reviewUrl },
+        ],
+      };
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -140,5 +154,6 @@ export function buildReviewTemplateProps(review) {
     jsonLd,
     faqJsonLd,
     relatedReviews,
+    localeKey,
   };
 }
