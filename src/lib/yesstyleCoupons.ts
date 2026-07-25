@@ -62,7 +62,7 @@ export const YESSTYLE_COUPONS_FACTUAL: YesStyleOffer[] = [
     affiliateUrl: 'https://ystyle.co/rQYQv',
     evidenceImage: '/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp',
     status: 'active',
-    regions: ['GLOBAL'],
+    regions: [],
   },
 ];
 

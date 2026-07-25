@@ -65,7 +65,7 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
       }
     }
 
-    // 5. Testar resolvedor de produção resolveYesStylePage para TODOS OS 9 LOCALES (incluindo PT)
+    // 5. Testar resolvedor de produção resolveYesStylePage para TODOS OS 9 LOCALES
     for (const locale of yesStyleLocales) {
       const resolved = resolveYesStylePage(locale);
       const meta = getYesStyleMetadata(locale);
@@ -115,6 +115,10 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
         resolved.instructionsTitle,
         ...resolved.instructions,
         resolved.note,
+        resolved.rewardArticleCardTitle,
+        resolved.rewardArticleCardSubtext,
+        resolved.guideCardTitle,
+        resolved.guideCardSubtext,
         resolved.transparency,
         ...resolved.faqs.map((f) => f.question),
         ...resolved.faqs.map((f) => f.answer),
@@ -130,7 +134,7 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
       }
     }
 
-    // 6. Testar estado sem cupom promocional (B1.4)
+    // 6. Testar estado sem cupom promocional (B1.4 e P1 Finding 3 assertion)
     for (const locale of yesStyleLocales) {
       const emptyStateResolved = resolveYesStylePage(locale, primaryReward, []);
       if (!emptyStateResolved) {
@@ -141,6 +145,12 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
         }
         if (!emptyStateResolved.emptyPromosNotice || emptyStateResolved.emptyPromosNotice.includes('{code}')) {
           errors.push(`Mensagem de estado sem cupons inválida para locale "${locale}": "${emptyStateResolved.emptyPromosNotice}"`);
+        }
+        // Assert that NO instruction line in empty state contains any promo coupon code
+        for (const inst of emptyStateResolved.instructions) {
+          if (inst.includes('BTSVIP15') || inst.includes('PROMOTEST88')) {
+            errors.push(`Instrução do estado sem cupom promocional contém código promocional residuo em "${locale}": "${inst}"`);
+          }
         }
       }
     }
@@ -171,7 +181,7 @@ if (require.main === module) {
     console.log('✅ TESTE DE MUTAÇÃO B1 PASSOU COM SUCESSO!');
     console.log('   - 9 locales integrados ao modelo transacional compartilhado!');
     console.log('   - Reward Code (CECILIA010) e cupom promocional (BTSVIP15) testados!');
-    console.log('   - Estado sem cupom promocional (B1.4) validado!');
+    console.log('   - Estado sem cupom promocional (B1.4) validado sem vazamento de promo code!');
     process.exit(0);
   } else {
     console.error('❌ FALHA NO TESTE DE MUTAÇÃO B1:');
