@@ -158,8 +158,8 @@ export function getYesStyleLocaleConfig(localeStr: string): YesStyleLocaleConfig
   return config;
 }
 
-// Helper: identifica o locale a partir do slug do artigo ou rota do hub
-export function getYesStyleLocaleFromSlugOrPath(slugOrPath: string): YesStyleLocale {
+// Helper genérico/nullable (retorna null se a rota não pertencer aos clusters YesStyle)
+export function findYesStyleLocaleFromSlugOrPath(slugOrPath: string): YesStyleLocale | null {
   for (const config of Object.values(YESSTYLE_LOCALES)) {
     if (
       config.rewardArticleSlug === slugOrPath ||
@@ -171,19 +171,28 @@ export function getYesStyleLocaleFromSlugOrPath(slugOrPath: string): YesStyleLoc
       return config.locale;
     }
   }
-  return 'pt'; // Default seguro para páginas legadas em português
+  return null;
 }
 
-// Helper: obtém os links de alternância de idioma para o cluster de Reward Code
+// Helper estrito/fail-loud: lança erro se o slug/caminho não for um recurso YesStyle válido
+export function getYesStyleLocaleFromSlugOrPath(slugOrPath: string): YesStyleLocale {
+  const locale = findYesStyleLocaleFromSlugOrPath(slugOrPath);
+  if (!locale) {
+    throw new Error(`[yesstyleCluster] Slug ou rota YesStyle desconhecida/não registrada: "${slugOrPath}"`);
+  }
+  return locale;
+}
+
+// Helper: obtém os links de alternância de idioma para o cluster de Reward Code (artigo -> artigo)
 export function getRewardArticleLanguageLinks(): Record<YesStyleLocale, string> {
   const links: Partial<Record<YesStyleLocale, string>> = {};
   for (const config of Object.values(YESSTYLE_LOCALES)) {
-    links[config.locale] = config.locale === 'pt' ? '/cupons/yesstyle' : config.rewardArticlePath;
+    links[config.locale] = config.rewardArticlePath;
   }
   return links as Record<YesStyleLocale, string>;
 }
 
-// Helper: obtém os links de alternância de idioma para o cluster de Guia de Cupons
+// Helper: obtém os links de alternância de idioma para o cluster de Guia de Cupons (artigo -> artigo)
 export function getGuideArticleLanguageLinks(): Record<YesStyleLocale, string> {
   const links: Partial<Record<YesStyleLocale, string>> = {};
   for (const config of Object.values(YESSTYLE_LOCALES)) {
@@ -192,7 +201,7 @@ export function getGuideArticleLanguageLinks(): Record<YesStyleLocale, string> {
   return links as Record<YesStyleLocale, string>;
 }
 
-// Helper: obtém os links de alternância de idioma para os hubs de cupons
+// Helper: obtém os links de alternância de idioma para os hubs de cupons (hub -> hub)
 export function getHubLanguageLinks(): Record<YesStyleLocale, string> {
   const links: Partial<Record<YesStyleLocale, string>> = {};
   for (const config of Object.values(YESSTYLE_LOCALES)) {

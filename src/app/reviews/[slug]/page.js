@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation';
 import { getReviewSlug, publishedReviews, reviews } from '@/lib/data';
 import { ReviewNotebookTemplate } from '@/components/review';
 import { buildReviewTemplateProps } from '@/lib/review-template-props';
-import { YESSTYLE_LOCALES, getYesStyleLocaleConfig, getYesStyleLocaleFromSlugOrPath } from '@/lib/i18n/yesstyleCluster';
+import { YESSTYLE_LOCALES, getYesStyleLocaleConfig, findYesStyleLocaleFromSlugOrPath } from '@/lib/i18n/yesstyleCluster';
 
 function findReview(slug) {
   const list = process.env.NODE_ENV === 'development' ? reviews : publishedReviews;
@@ -20,7 +20,7 @@ export async function generateMetadata({ params }) {
   }
 
   const url = `https://emcasacomcecilia.com/reviews/${getReviewSlug(review)}`;
-  const currentLocaleKey = review.locale || getYesStyleLocaleFromSlugOrPath(slug);
+  const currentLocaleKey = review.locale || findYesStyleLocaleFromSlugOrPath(slug) || 'pt';
   const localeConfig = getYesStyleLocaleConfig(currentLocaleKey);
 
   const languages = {};

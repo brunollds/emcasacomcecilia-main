@@ -1,4 +1,4 @@
-import { getYesStyleLocaleFromSlugOrPath, type YesStyleLocale } from '@/lib/i18n/yesstyleCluster';
+import { findYesStyleLocaleFromSlugOrPath, type YesStyleLocale } from '@/lib/i18n/yesstyleCluster';
 
 export type CouponCopyLocale = YesStyleLocale;
 
@@ -70,7 +70,7 @@ export function getCouponCopyLabels(locale: CouponCopyLocale = 'pt'): CouponCopy
 
 
 export function getCouponCopyLocale(slugOrLocale: string): CouponCopyLocale {
-  return getYesStyleLocaleFromSlugOrPath(slugOrLocale);
+  return findYesStyleLocaleFromSlugOrPath(slugOrLocale) || 'pt';
 }
 
 export function isStepHeading(heading?: string): boolean {

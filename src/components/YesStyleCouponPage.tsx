@@ -17,10 +17,10 @@ type Locale = Exclude<YesStyleLocale, 'pt'>;
 type PageCopy = {
   locale: Locale;
   language: string;
-  title: string;
-  description: string;
+  titleTemplate: string;
+  descriptionTemplate: string;
   eyebrow: string;
-  intro: string;
+  introTemplate: string;
   updated: string;
   copy: string;
   copied: string;
@@ -29,7 +29,7 @@ type PageCopy = {
   details: string;
   codeLabel: string;
   discountLabel: string;
-  discountValue: string;
+  discountValueTemplate: string;
   fieldLabel: string;
   fieldValue: string;
   instructionsTitle: string;
@@ -44,10 +44,10 @@ const pages: Record<Locale, PageCopy> = {
   en: {
     locale: 'en',
     language: 'en',
-    title: 'YesStyle Reward Code CECILIA010: Up to 5% Extra',
-    description: 'Use the YesStyle reward code CECILIA010 at checkout to add 5% extra savings alongside active coupon codes.',
+    titleTemplate: 'YesStyle Reward Code CECILIA010: Up to {newDiscount}% Extra',
+    descriptionTemplate: 'Use the YesStyle reward code CECILIA010 at checkout to add {newDiscount}% extra savings alongside active coupon codes.',
     eyebrow: 'YesStyle Reward Code',
-    intro: 'CECILIA010 is a YesStyle Reward Code, not a regular coupon. Enter it in the dedicated Reward Code field to add up to 5% extra (5% on 1st order / 2% on returning orders).',
+    introTemplate: 'CECILIA010 is a YesStyle Reward Code, not a regular coupon. Enter it in the dedicated Reward Code field to add up to {newDiscount}% extra ({newDiscount}% on 1st order / {returningDiscount}% on returning orders).',
     updated: 'Verified',
     copy: 'Copy code',
     copied: 'Copied!',
@@ -56,7 +56,7 @@ const pages: Record<Locale, PageCopy> = {
     details: 'Code details',
     codeLabel: 'Code',
     discountLabel: 'Discount',
-    discountValue: 'Up to 5% extra (5% for new customers / 2% for returning customers)',
+    discountValueTemplate: 'Up to {newDiscount}% extra ({newDiscount}% for new customers / {returningDiscount}% for returning customers)',
     fieldLabel: 'Field',
     fieldValue: 'Reward Code',
     instructionsTitle: 'How to use CECILIA010',
@@ -71,17 +71,17 @@ const pages: Record<Locale, PageCopy> = {
     faqTitle: 'Frequently asked questions',
     faqs: [
       { question: 'Can I use CECILIA010 with a coupon?', answer: 'Yes. Use CECILIA010 in Reward Code and any eligible promotional code in Coupon Code.' },
-      { question: 'What discount does it offer?', answer: 'It adds 5% extra, subject to YesStyle’s active terms and eligible products.' },
+      { question: 'What discount does it offer?', answer: 'It adds up to {newDiscount}% extra, subject to YesStyle’s active terms and eligible products.' },
     ],
     transparency: 'This page contains affiliate links. If you visit YesStyle through our links or use the influencer code CECILIA010, we may earn a commission at no extra cost to you.',
   },
   es: {
     locale: 'es',
     language: 'es',
-    title: 'Código de recompensa YesStyle CECILIA010: Hasta 5% extra',
-    description: 'Usa el código de recompensa CECILIA010 en YesStyle para sumar un 5% extra junto con los cupones activos.',
+    titleTemplate: 'Código de recompensa YesStyle CECILIA010: Hasta {newDiscount}% extra',
+    descriptionTemplate: 'Usa el código de recompensa CECILIA010 en YesStyle para sumar un {newDiscount}% extra junto con los cupones activos.',
     eyebrow: 'Código de recompensa YesStyle',
-    intro: 'CECILIA010 es un código de recompensa, no un cupón tradicional. Úsalo en el campo Reward Code para sumar hasta un 5% extra (5% en 1ª compra / 2% en compras siguientes).',
+    introTemplate: 'CECILIA010 es un código de recompensa, no un cupón tradicional. Úsalo en el campo Reward Code para sumar hasta un {newDiscount}% extra ({newDiscount}% en 1ª compra / {returningDiscount}% en compras siguientes).',
     updated: 'Verificado',
     copy: 'Copiar código',
     copied: '¡Copiado!',
@@ -90,7 +90,7 @@ const pages: Record<Locale, PageCopy> = {
     details: 'Detalles del código',
     codeLabel: 'Código',
     discountLabel: 'Descuento',
-    discountValue: 'Hasta 5% extra (5% nuevos clientes / 2% clientes habituales)',
+    discountValueTemplate: 'Hasta {newDiscount}% extra ({newDiscount}% nuevos clientes / {returningDiscount}% clientes habituales)',
     fieldLabel: 'Campo',
     fieldValue: 'Reward Code',
     instructionsTitle: 'Cómo usar CECILIA010',
@@ -105,17 +105,17 @@ const pages: Record<Locale, PageCopy> = {
     faqTitle: 'Preguntas frecuentes',
     faqs: [
       { question: '¿Puedo usarlo con un cupón?', answer: 'Sí. Usa CECILIA010 en Reward Code y el cupón promocional en Coupon Code.' },
-      { question: '¿Qué descuento ofrece?', answer: 'Añade un 5% extra, según las condiciones vigentes de YesStyle.' },
+      { question: '¿Qué descuento ofrece?', answer: 'Añade até {newDiscount}% extra, según las condiciones vigentes de YesStyle.' },
     ],
     transparency: 'Esta página contiene enlaces de afiliado. Si accedes a YesStyle mediante nuestros enlaces o usas el código de influencer CECILIA010, podemos recibir una comisión sin coste adicional para ti.',
   },
   fr: {
     locale: 'fr',
     language: 'fr',
-    title: 'Code récompense YesStyle CECILIA010 : Jusqu’à 5 % en plus',
-    description: 'Utilisez le code récompense CECILIA010 sur YesStyle pour ajouter 5 % de réduction aux coupons actifs.',
+    titleTemplate: 'Code récompense YesStyle CECILIA010 : Jusqu’à {newDiscount} % en plus',
+    descriptionTemplate: 'Utilisez le code récompense CECILIA010 sur YesStyle pour ajouter {newDiscount} % de réduction aux coupons actifs.',
     eyebrow: 'Code récompense YesStyle',
-    intro: 'CECILIA010 est un code récompense, et non un coupon classique. Saisissez-le dans le champ Reward Code pour ajouter jusqu’à 5 % (5 % 1ère commande / 2 % commandes suivantes).',
+    introTemplate: 'CECILIA010 est un code récompense, et non un coupon classique. Saisissez-le dans le champ Reward Code pour ajouter jusqu’à {newDiscount} % ({newDiscount} % 1ère commande / {returningDiscount} % commandes suivantes).',
     updated: 'Vérifié',
     copy: 'Copier le code',
     copied: 'Copié !',
@@ -124,7 +124,7 @@ const pages: Record<Locale, PageCopy> = {
     details: 'Détails du code',
     codeLabel: 'Code',
     discountLabel: 'Réduction',
-    discountValue: 'Jusqu’à 5 % extra (5 % nouveaux clients / 2 % clients réguliers)',
+    discountValueTemplate: 'Jusqu’à {newDiscount} % extra ({newDiscount} % nouveaux clients / {returningDiscount} % clients réguliers)',
     fieldLabel: 'Champ',
     fieldValue: 'Reward Code',
     instructionsTitle: 'Comment utiliser CECILIA010',
@@ -139,17 +139,17 @@ const pages: Record<Locale, PageCopy> = {
     faqTitle: 'Questions fréquentes',
     faqs: [
       { question: 'Puis-je l’utiliser avec un coupon ?', answer: 'Oui. Utilisez CECILIA010 dans Reward Code et le coupon promotionnel dans Coupon Code.' },
-      { question: 'Quelle réduction offre-t-il ?', answer: 'Il ajoute 5 %, selon les conditions YesStyle en vigueur.' },
+      { question: 'Quelle réduction offre-t-il ?', answer: 'Il ajoute jusqu’à {newDiscount} %, selon les conditions YesStyle en vigueur.' },
     ],
     transparency: 'Cette page contient des liens affiliés. Si vous accédez à YesStyle via nos liens ou utilisez le code influenceur CECILIA010, nous pouvons recevoir une commission sans frais supplémentaires pour vous.',
   },
   de: {
     locale: 'de',
     language: 'de',
-    title: 'YesStyle Reward Code CECILIA010: Bis zu 5 % extra',
-    description: 'Nutze den YesStyle Reward Code CECILIA010 und erhalte zusätzlich 5 % neben aktiven Gutscheincodes.',
+    titleTemplate: 'YesStyle Reward Code CECILIA010: Bis zu {newDiscount} % extra',
+    descriptionTemplate: 'Nutze den YesStyle Reward Code CECILIA010 und erhalte zusätzlich {newDiscount} % neben aktiven Gutscheincodes.',
     eyebrow: 'YesStyle Reward Code',
-    intro: 'CECILIA010 ist ein Reward Code, kein normaler Gutschein. Gib ihn im separaten Reward-Code-Feld ein, um bis zu 5 % extra zu erhalten (5 % bei Erstbestellung / 2 % bei Folgebestellungen).',
+    introTemplate: 'CECILIA010 ist ein Reward Code, kein normaler Gutschein. Gib ihn im separaten Reward-Code-Feld ein, um bis zu {newDiscount} % extra zu erhalten ({newDiscount} % bei Erstbestellung / {returningDiscount} % bei Folgebestellungen).',
     updated: 'Verifiziert',
     copy: 'Code kopieren',
     copied: 'Kopiert!',
@@ -158,7 +158,7 @@ const pages: Record<Locale, PageCopy> = {
     details: 'Code-Details',
     codeLabel: 'Code',
     discountLabel: 'Rabatt',
-    discountValue: 'Bis zu 5 % extra (5 % Erstbestellung / 2 % Folgebestellungen)',
+    discountValueTemplate: 'Bis zu {newDiscount} % extra ({newDiscount} % Erstbestellung / {returningDiscount} % Folgebestellungen)',
     fieldLabel: 'Feld',
     fieldValue: 'Reward Code',
     instructionsTitle: 'So verwendest du CECILIA010',
@@ -173,17 +173,17 @@ const pages: Record<Locale, PageCopy> = {
     faqTitle: 'Häufige Fragen',
     faqs: [
       { question: 'Kann ich den Code mit einem Gutschein nutzen?', answer: 'Ja. Nutze CECILIA010 im Reward-Code-Feld und den Aktionscode im Coupon-Code-Feld.' },
-      { question: 'Welchen Rabatt gibt es?', answer: 'Der Code fügt 5 % hinzu, gemäß den aktuellen YesStyle-Bedingungen.' },
+      { question: 'Welchen Rabatt gibt es?', answer: 'Der Code fügt bis zu {newDiscount} % hinzu, gemäß den aktuellen YesStyle-Bedingungen.' },
     ],
     transparency: 'Diese Seite enthält Affiliate-Links. Wenn du YesStyle über unsere Links besuchst oder den Influencer-Code CECILIA010 verwendest, können wir eine Provision erhalten, ohne dass dir zusätzliche Kosten entstehen.',
   },
   ko: {
     locale: 'ko',
     language: 'ko-KR',
-    title: 'YesStyle 리워드 코드 CECILIA010: 추가 5% 할인',
-    description: 'YesStyle 결제 시 리워드 코드 CECILIA010을 사용해 활성 쿠폰과 함께 추가 5% 혜택을 받으세요.',
+    titleTemplate: 'YesStyle 리워드 코드 CECILIA010: 추가 {newDiscount}% 할인',
+    descriptionTemplate: 'YesStyle 결제 시 리워드 코드 CECILIA010을 사용해 활성 쿠폰과 함께 추가 {newDiscount}% 혜택을 받으세요.',
     eyebrow: 'YesStyle 리워드 코드',
-    intro: 'CECILIA010은 일반 쿠폰이 아닌 리워드 코드입니다. Reward Code 전용 칸에 입력하면 추가 5% 혜택을 받을 수 있습니다.',
+    introTemplate: 'CECILIA010은 일반 쿠폰이 아닌 리워드 코드입니다. Reward Code 전용 칸에 입력하면 추가 {newDiscount}% 혜택을 받을 수 있습니다.',
     updated: '확인일',
     copy: '코드 복사',
     copied: '복사됨!',
@@ -192,7 +192,7 @@ const pages: Record<Locale, PageCopy> = {
     details: '코드 정보',
     codeLabel: '코드',
     discountLabel: '할인율',
-    discountValue: '최대 5% 추가 할인 (첫 구매 5% / 재구매 2%)',
+    discountValueTemplate: '최대 {newDiscount}% 추가 할인 (첫 구매 {newDiscount}% / 재구매 {returningDiscount}%)',
     fieldLabel: '입력란',
     fieldValue: 'Reward Code',
     instructionsTitle: 'CECILIA010 사용 방법',
@@ -207,17 +207,17 @@ const pages: Record<Locale, PageCopy> = {
     faqTitle: '자주 묻는 질문',
     faqs: [
       { question: '다른 쿠폰과 함께 사용할 수 있나요?', answer: '네. CECILIA010은 Reward Code에, 프로모션 쿠폰은 Coupon Code에 입력하세요.' },
-      { question: '할인율은 얼마인가요?', answer: 'YesStyle의 현재 조건과 대상 상품에 따라 추가 5% 혜택을 제공합니다.' },
+      { question: '할인율은 얼마인가요?', answer: 'YesStyle의 현재 조건과 대상 상품에 따라 추가 {newDiscount}% 혜택을 제공합니다.' },
     ],
     transparency: '이 페이지에는 제휴 링크가 포함될 수 있습니다. 코드를 사용하거나 YesStyle을 방문하면 추가 비용 없이 Em Casa com Cecília를 지원할 수 있습니다.',
   },
   ja: {
     locale: 'ja',
     language: 'ja-JP',
-    title: 'YesStyle リワードコード CECILIA010：さらに5%オフ',
-    description: 'YesStyleでリワードコードCECILIA010を使うと、有効なクーポンに加えてさらに5%お得になります。',
+    titleTemplate: 'YesStyle リワードコード CECILIA010：さらに{newDiscount}%オフ',
+    descriptionTemplate: 'YesStyleでリワードコードCECILIA010を使うと、有効なクーポンに加えてさらに{newDiscount}%お得になります。',
     eyebrow: 'YesStyle リワードコード',
-    intro: 'CECILIA010は通常のクーポンではなくリワードコードです。Reward Code欄に入力すると追加で5%の特典が適用されます。',
+    introTemplate: 'CECILIA010は通常のクーポンではなくリワードコードです。Reward Code欄に入力すると追加で{newDiscount}%の特典が適用されます。',
     updated: '確認日',
     copy: 'コードをコピー',
     copied: 'コピーしました！',
@@ -226,7 +226,7 @@ const pages: Record<Locale, PageCopy> = {
     details: 'コードの詳細',
     codeLabel: 'コード',
     discountLabel: '割引率',
-    discountValue: '最大5%追加オフ（初回5% / 2回目以降2%）',
+    discountValueTemplate: '最大{newDiscount}%追加オフ（初回{newDiscount}% / 2回目以降{returningDiscount}%）',
     fieldLabel: '入力欄',
     fieldValue: 'Reward Code',
     instructionsTitle: 'CECILIA010の使い方',
@@ -241,17 +241,17 @@ const pages: Record<Locale, PageCopy> = {
     faqTitle: 'よくある質問',
     faqs: [
       { question: 'ほかのクーポンと併用できますか？', answer: 'はい。CECILIA010はReward Code、プロモーションコードはCoupon Codeに入力してください。' },
-      { question: '割引率はいくらですか？', answer: 'YesStyleの最新条件と対象商品に応じて、さらに5%の特典が加わります。' },
+      { question: '割引率はいくらですか？', answer: 'YesStyleの最新条件と対象商品に応じて、さらに{newDiscount}%の特典が加わります。' },
     ],
     transparency: 'このページにはアフィリエイトリンクが含まれる場合があります。コードの利用またはYesStyleへの訪問は、追加費用なしでEm Casa com Cecíliaを支援することがあります。',
   },
   'zh-hant': {
     locale: 'zh-hant',
     language: 'zh-Hant',
-    title: 'YesStyle 獎勵碼 CECILIA010：額外 5% 優惠',
-    description: '在 YesStyle 結帳時使用獎勵碼 CECILIA010，可與有效優惠碼疊加，額外享有 5% 優惠。',
+    titleTemplate: 'YesStyle 獎勵碼 CECILIA010：額外 {newDiscount}% 優惠',
+    descriptionTemplate: '在 YesStyle 結帳時使用獎勵碼 CECILIA010，可與有效優惠碼疊加，額外享有 {newDiscount}% 優惠。',
     eyebrow: 'YesStyle 獎勵碼',
-    intro: 'CECILIA010 是獎勵碼，並非一般優惠碼。請在 Reward Code 專用欄位輸入，即可獲得額外 5% 優惠。',
+    introTemplate: 'CECILIA010 是獎勵碼，並非一般優惠碼。請在 Reward Code 專用欄位輸入，即可獲得額外 {newDiscount}% 優惠。',
     updated: '已驗證',
     copy: '複製優惠碼',
     copied: '已複製！',
@@ -260,7 +260,7 @@ const pages: Record<Locale, PageCopy> = {
     details: '優惠碼詳情',
     codeLabel: '優惠碼',
     discountLabel: '折扣力度',
-    discountValue: '最高額外 5% 優惠（首購 5% / 複購 2%）',
+    discountValueTemplate: '最高額外 {newDiscount}% 優惠（首購 {newDiscount}% / 複購 {returningDiscount}%）',
     fieldLabel: '輸入欄位',
     fieldValue: 'Reward Code',
     instructionsTitle: '如何使用 CECILIA010',
@@ -275,17 +275,17 @@ const pages: Record<Locale, PageCopy> = {
     faqTitle: '常見問題',
     faqs: [
       { question: '可以與其他優惠碼同時使用嗎？', answer: '可以。CECILIA010 請輸入 Reward Code，促銷優惠碼請輸入 Coupon Code。' },
-      { question: '可享多少優惠？', answer: '依 YesStyle 當前條款及適用商品，可額外享有 5% 優惠。' },
+      { question: '可享多少優惠？', answer: '依 YesStyle 當前條款及適用商品，可額外享有 {newDiscount}% 優惠。' },
     ],
     transparency: '此頁面可能包含聯盟連結。使用代碼或前往 YesStyle 不會增加您的費用，並可能支持 Em Casa com Cecília。',
   },
   'zh-hans': {
     locale: 'zh-hans',
     language: 'zh-Hans',
-    title: 'YesStyle 奖励码 CECILIA010：额外 5% 优惠',
-    description: '在 YesStyle 结账时使用奖励码 CECILIA010，可与有效优惠码叠加，额外享受 5% 优惠。',
+    titleTemplate: 'YesStyle 奖励码 CECILIA010：额外 {newDiscount}% 优惠',
+    descriptionTemplate: '在 YesStyle 结账时使用奖励码 CECILIA010，可与有效优惠码叠加，额外享受 {newDiscount}% 优惠。',
     eyebrow: 'YesStyle 奖励码',
-    intro: 'CECILIA010 是奖励码，而非普通优惠码。请在 Reward Code 专用栏位输入，即可获得额外 5% 优惠。',
+    introTemplate: 'CECILIA010 是奖励码，而非普通优惠码。请在 Reward Code 专用栏位输入，即可获得额外 {newDiscount}% 优惠。',
     updated: '已验证',
     copy: '复制优惠码',
     copied: '已复制！',
@@ -294,7 +294,7 @@ const pages: Record<Locale, PageCopy> = {
     details: '优惠码详情',
     codeLabel: '优惠码',
     discountLabel: '折扣力度',
-    discountValue: '最高额外 5% 优惠（首购 5% / 复购 2%）',
+    discountValueTemplate: '最高额外 {newDiscount}% 优惠（首购 {newDiscount}% / 复购 {returningDiscount}%）',
     fieldLabel: '输入栏位',
     fieldValue: 'Reward Code',
     instructionsTitle: '如何使用 CECILIA010',
@@ -309,7 +309,7 @@ const pages: Record<Locale, PageCopy> = {
     faqTitle: '常见问题',
     faqs: [
       { question: '可以和其他优惠码一起使用吗？', answer: '可以。请将 CECILIA010 输入 Reward Code，将促销优惠码输入 Coupon Code。' },
-      { question: '优惠是多少？', answer: '根据 YesStyle 当前条款及适用商品，可额外享受 5% 优惠。' },
+      { question: '优惠是多少？', answer: '根据 YesStyle 当前条款及适用商品，可额外享受 {newDiscount}% 优惠。' },
     ],
     transparency: '此页面可能包含联盟链接。使用代码或访问 YesStyle 不会增加您的费用，并可能支持 Em Casa com Cecília。',
   },
@@ -321,19 +321,29 @@ export function getYesStylePage(locale: string): PageCopy | null {
   return pages[locale as Locale] || null;
 }
 
+function fillPlaceholders(template: string, reward: ReturnType<typeof getPrimaryRewardCode>): string {
+  return template
+    .replace(/\{newDiscount\}/g, String(reward.newCustomerDiscount))
+    .replace(/\{returningDiscount\}/g, String(reward.returningCustomerDiscount));
+}
+
 export function getYesStyleMetadata(locale: string): Metadata {
   const page = getYesStylePage(locale);
   if (!page) return {};
   const config = getYesStyleLocaleConfig(locale);
+  const reward = getPrimaryRewardCode();
   const canonical = `https://emcasacomcecilia.com${config.rewardArticlePath}`;
 
+  const title = fillPlaceholders(page.titleTemplate, reward);
+  const description = fillPlaceholders(page.descriptionTemplate, reward);
+
   return {
-    title: page.title,
-    description: page.description,
+    title,
+    description,
     alternates: { canonical },
     openGraph: {
-      title: page.title,
-      description: page.description,
+      title,
+      description,
       url: canonical,
       locale: config.openGraphLocale,
       type: 'website',
@@ -354,6 +364,15 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
 
   const languageLinks = getRewardArticleLanguageLinks();
 
+  const title = fillPlaceholders(page.titleTemplate, rewardCodeInfo);
+  const description = fillPlaceholders(page.descriptionTemplate, rewardCodeInfo);
+  const intro = fillPlaceholders(page.introTemplate, rewardCodeInfo);
+  const discountValue = fillPlaceholders(page.discountValueTemplate, rewardCodeInfo);
+  const faqs = page.faqs.map((faq) => ({
+    question: faq.question,
+    answer: fillPlaceholders(faq.answer, rewardCodeInfo),
+  }));
+
   return (
     <main className="min-h-screen bg-[#fef9f3] pb-24 lg:pb-0">
       <section className="bg-[#0f1d3a] px-4 py-12 text-white md:py-16">
@@ -369,8 +388,8 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
             </div>
             <div>
               <p className="text-xs font-bold uppercase tracking-[.16em] text-[#ffd23f]">{page.eyebrow}</p>
-              <h1 className="mt-2 font-heading text-3xl font-black leading-tight md:text-5xl">{page.title}</h1>
-              <p className="mt-4 max-w-2xl text-white/78">{page.intro}</p>
+              <h1 className="mt-2 font-heading text-3xl font-black leading-tight md:text-5xl">{title}</h1>
+              <p className="mt-4 max-w-2xl text-white/78">{intro}</p>
               <p className="mt-4 text-xs text-white/55">{page.updated}: {date}</p>
             </div>
           </div>
@@ -386,10 +405,10 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
       <section className="px-4 py-12">
         <div className="mx-auto max-w-5xl rounded-[2rem] bg-[#111827] p-7 text-white shadow-large md:p-10">
           <p className="font-mono text-4xl font-black tracking-[.08em] md:text-6xl">{rewardCodeInfo.code}</p>
-          <p className="mt-4 max-w-2xl text-white/85">{page.description}</p>
+          <p className="mt-4 max-w-2xl text-white/85">{description}</p>
           <div className="mt-7 flex flex-col gap-3 sm:flex-row">
             <CopyButton code={rewardCodeInfo.code} label={page.copy} copiedLabel={page.copied} ariaLabel={page.copyAria} />
-            <a href={rewardCodeInfo.sourceUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center rounded-lg border border-white/30 px-4 py-2.5 text-sm font-semibold hover:bg-white/15">
+            <a href={rewardCodeInfo.affiliateUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center rounded-lg border border-white/30 px-4 py-2.5 text-sm font-semibold hover:bg-white/15">
               {page.visit}
             </a>
           </div>
@@ -401,7 +420,7 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
           <h2 className="font-heading text-2xl font-black text-[#0f1419]">{page.details}</h2>
           <dl className="mt-6 divide-y divide-black/8 rounded-2xl border border-black/8">
             <Detail label={page.codeLabel} value={rewardCodeInfo.code} />
-            <Detail label={page.discountLabel} value={page.discountValue} />
+            <Detail label={page.discountLabel} value={discountValue} />
             <Detail label={page.fieldLabel} value={page.fieldValue} />
           </dl>
           <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">{page.instructionsTitle}</h2>
@@ -410,12 +429,12 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
           </ol>
           <p className="mt-4 rounded-2xl border border-[#ff6b35]/25 bg-[#fff7ed] px-4 py-3 text-sm text-[#7c2d12]">{page.note}</p>
           <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">{page.faqTitle}</h2>
-          <div className="mt-4"><FAQAccordion items={page.faqs} /></div>
+          <div className="mt-4"><FAQAccordion items={faqs} /></div>
           <div className="mt-14 rounded-2xl bg-[#fef9f3] p-6 text-sm leading-relaxed text-[#0f1419]/68">{page.transparency}</div>
         </div>
       </article>
 
-      <CouponBottomBar coupon={rewardCodeInfo.code} cta={{ url: rewardCodeInfo.sourceUrl, label: page.visit }} locale={page.locale} />
+      <CouponBottomBar coupon={rewardCodeInfo.code} cta={{ url: rewardCodeInfo.affiliateUrl, label: page.visit }} locale={page.locale} />
     </main>
   );
 }

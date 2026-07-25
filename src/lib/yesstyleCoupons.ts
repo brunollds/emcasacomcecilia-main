@@ -8,7 +8,8 @@ export interface YesStyleCouponItem {
   returningCustomerDiscount: number; // Ex: 2 (%)
   verifiedAt: string; // YYYY-MM-DD
   expiresAt?: string; // YYYY-MM-DD (opcional para cupons promocionais temporários)
-  sourceUrl: string;
+  officialSourceUrl: string; // Fonte oficial comprovável
+  affiliateUrl: string; // Link comercial de afiliada
   status: 'active' | 'scheduled' | 'expired';
   regions: string[];
 }
@@ -20,18 +21,8 @@ export const YESSTYLE_COUPONS_FACTUAL: YesStyleCouponItem[] = [
     newCustomerDiscount: 5,
     returningCustomerDiscount: 2,
     verifiedAt: '2026-07-24',
-    sourceUrl: 'https://ystyle.co/rQYQv',
-    status: 'active',
-    regions: ['GLOBAL'],
-  },
-  {
-    code: 'BTSVIP15',
-    type: 'coupon',
-    newCustomerDiscount: 15,
-    returningCustomerDiscount: 15,
-    verifiedAt: '2026-07-24',
-    expiresAt: '2026-07-31',
-    sourceUrl: 'https://www.yesstyle.com',
+    officialSourceUrl: 'https://www.yesstyle.com/en/influencers.html',
+    affiliateUrl: 'https://ystyle.co/rQYQv',
     status: 'active',
     regions: ['GLOBAL'],
   },
@@ -46,7 +37,7 @@ export function getPrimaryRewardCode(): YesStyleCouponItem {
   return reward;
 }
 
-// Helper: obtém cupons promocionais ativos
+// Helper: obtém cupons promocionais ativos com fonte comprovada
 export function getActivePromoCoupons(): YesStyleCouponItem[] {
   return YESSTYLE_COUPONS_FACTUAL.filter((item) => item.type === 'coupon' && item.status === 'active');
 }

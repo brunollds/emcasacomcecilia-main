@@ -380,31 +380,94 @@ if (!pilotReview) {
 // Validação YesStyle i18n & Cupons Factuais (Projeto A - A6)
 // ---------------------------------------------------------------------------
 
-import { YESSTYLE_LOCALES, YESSTYLE_LOCALE_KEYS } from '@/lib/i18n/yesstyleCluster';
+import {
+  YESSTYLE_LOCALES,
+  YESSTYLE_LOCALE_KEYS,
+  getYesStyleLocaleFromSlugOrPath,
+  findYesStyleLocaleFromSlugOrPath,
+} from '@/lib/i18n/yesstyleCluster';
 import { YESSTYLE_COUPONS_FACTUAL } from '@/lib/yesstyleCoupons';
 
+// 1. Validação do registro de locales
 for (const key of YESSTYLE_LOCALE_KEYS) {
   if (!YESSTYLE_LOCALES[key]) {
     reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: `Locale "${key}" ausente no registro central YESSTYLE_LOCALES` });
   }
 }
 
+// 2. Validação da integridade dos cupons factuais
+const nowTimestamp = new Date().getTime();
+
 for (const coupon of YESSTYLE_COUPONS_FACTUAL) {
   if (coupon.status === 'active') {
-    if (!coupon.sourceUrl) {
-      reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" sem sourceUrl` });
+    if (!coupon.officialSourceUrl) {
+      reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" sem officialSourceUrl` });
     }
-    if (!coupon.verifiedAt) {
-      reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" sem verifiedAt` });
+    if (!coupon.affiliateUrl) {
+      reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" sem affiliateUrl` });
+    }
+    if (!coupon.verifiedAt || Number.isNaN(new Date(coupon.verifiedAt).getTime())) {
+      reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" com verifiedAt ausente ou inválida` });
     }
     if (coupon.expiresAt) {
       const expiryDate = new Date(coupon.expiresAt).getTime();
-      const now = new Date('2026-07-24').getTime();
-      if (expiryDate < now) {
+      if (Number.isNaN(expiryDate)) {
+        reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" com expiresAt inválida` });
+      } else if (expiryDate < nowTimestamp) {
         reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" expirou em ${coupon.expiresAt}` });
       }
     }
   }
+}
+
+// 3. Validação de paridade dos 18 artigos nos clusters
+const rewardLocalesFound = new Set<string>();
+const guideLocalesFound = new Set<string>();
+
+for (const review of reviews) {
+  const isReward = Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.rewardArticleSlug === review.slug);
+  const isGuide = Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.guideSlug === review.slug);
+
+  if (isReward || isGuide) {
+    if (!review.locale) {
+      reportError({ type: 'review', id: review.id, slug: review.slug, message: 'Artigo YesStyle sem campo "locale" explícito no JSON' });
+    } else {
+      const expectedLocale = findYesStyleLocaleFromSlugOrPath(review.slug);
+      if (review.locale !== expectedLocale) {
+        reportError({ type: 'review', id: review.id, slug: review.slug, message: `Campo "locale" ("${review.locale}") não coincide com o registro central ("${expectedLocale}")` });
+      }
+    }
+
+    if (isReward) {
+      if (rewardLocalesFound.has(review.locale || '')) {
+        reportError({ type: 'review', id: review.id, slug: review.slug, message: `Locale "${review.locale}" duplicado no cluster de Reward Code` });
+      }
+      if (review.locale) rewardLocalesFound.add(review.locale);
+    }
+
+    if (isGuide) {
+      if (guideLocalesFound.has(review.locale || '')) {
+        reportError({ type: 'review', id: review.id, slug: review.slug, message: `Locale "${review.locale}" duplicado no cluster de Guia` });
+      }
+      if (review.locale) guideLocalesFound.add(review.locale);
+    }
+  }
+}
+
+if (rewardLocalesFound.size !== YESSTYLE_LOCALE_KEYS.length) {
+  reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: `Cluster de Reward Code possui ${rewardLocalesFound.size} de ${YESSTYLE_LOCALE_KEYS.length} idiomas` });
+}
+
+if (guideLocalesFound.size !== YESSTYLE_LOCALE_KEYS.length) {
+  reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: `Cluster de Guia possui ${guideLocalesFound.size} de ${YESSTYLE_LOCALE_KEYS.length} idiomas` });
+}
+
+// 4. Validação do resolvedor estrito fail-loud
+try {
+  getYesStyleLocaleFromSlugOrPath('invalid-test-slug-999');
+  reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: 'getYesStyleLocaleFromSlugOrPath não falhou com erro explícito para rota inválida' });
+} catch (e) {
+  // Comportamento esperado
 }
 
 // ---------------------------------------------------------------------------

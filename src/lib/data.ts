@@ -178,6 +178,7 @@ export interface AudioClip {
 export interface Review {
   id: number;
   slug: string;
+  locale?: string;
   title: string;
   type: string;
   reviewKind?: 'produto' | 'guia' | 'editorial';
