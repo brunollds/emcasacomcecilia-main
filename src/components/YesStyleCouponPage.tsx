@@ -40,6 +40,7 @@ export type PageCopy = {
   proofLabel: string;
   validityUnconfirmed: string;
   regionUnconfirmed: string;
+  freeShippingLabel: string;
   tableHeaders: {
     type: string;
     code: string;
@@ -139,9 +140,9 @@ const pages: Record<Locale, PageCopy> = {
     locale: 'pt',
     language: 'pt-BR',
     eyebrow: 'Cupons e Código de Recompensa YesStyle',
-    titleTemplate: 'Cupom YesStyle {code}: Até {newDiscount}% OFF Extra Cumulativo',
-    descriptionTemplate: 'Código de recompensa {code} oficial da YesStyle. Ganhe até {newDiscount}% extra no checkout acumulável com cupons promocionais.',
-    introTemplate: '{code} é o código de recompensa oficial da YesStyle. Digite no campo Reward Code para somar até {newDiscount}% extra ({newDiscount}% na 1ª compra / {returningDiscount}% em compras recorrentes) aos cupons promocionais ativos.',
+    titleTemplate: 'Cupom YesStyle {code}: Até {newDiscount}% OFF Extra Elegível',
+    descriptionTemplate: 'Código de recompensa {code} oficial da YesStyle: use no campo Reward Code para até {newDiscount}% extra, combinável com cupons promocionais elegíveis no checkout.',
+    introTemplate: '{code} é o código de recompensa oficial da YesStyle. Digite no campo Reward Code para somar até {newDiscount}% extra ({newDiscount}% na 1ª compra / {returningDiscount}% em compras recorrentes) aos cupons promocionais ativos elegíveis.',
     updated: 'Atualizado em',
     copy: 'Copiar código',
     copied: 'Copiado!',
@@ -157,6 +158,7 @@ const pages: Record<Locale, PageCopy> = {
     proofLabel: 'Ver comprovante oficial',
     validityUnconfirmed: 'Validade a confirmar no checkout',
     regionUnconfirmed: 'Região a confirmar no checkout',
+    freeShippingLabel: 'Frete Grátis',
     tableHeaders: {
       type: 'Tipo',
       code: 'Código',
@@ -210,8 +212,8 @@ const pages: Record<Locale, PageCopy> = {
     language: 'en-US',
     eyebrow: 'YesStyle Coupons & Reward Code',
     titleTemplate: 'YesStyle Reward Code {code}: Up to {newDiscount}% Extra',
-    descriptionTemplate: 'Official YesStyle reward code {code}. Save up to {newDiscount}% extra at checkout combinable with promo coupons.',
-    introTemplate: '{code} is the official YesStyle Reward Code. Enter it in the Reward Code field to add up to {newDiscount}% extra ({newDiscount}% on 1st order / {returningDiscount}% on returning orders) on top of active promo codes.',
+    descriptionTemplate: 'Official YesStyle reward code {code}. Add up to {newDiscount}% extra at checkout on top of eligible promo coupons.',
+    introTemplate: '{code} is the official YesStyle Reward Code. Enter it in the Reward Code field to add up to {newDiscount}% extra ({newDiscount}% on 1st order / {returningDiscount}% on returning orders) on top of eligible active promo codes.',
     updated: 'Verified',
     copy: 'Copy code',
     copied: 'Copied!',
@@ -227,6 +229,7 @@ const pages: Record<Locale, PageCopy> = {
     proofLabel: 'View official proof',
     validityUnconfirmed: 'Validity subject to checkout',
     regionUnconfirmed: 'Region subject to checkout',
+    freeShippingLabel: 'Free Shipping',
     tableHeaders: {
       type: 'Type',
       code: 'Code',
@@ -280,7 +283,7 @@ const pages: Record<Locale, PageCopy> = {
     language: 'es-ES',
     eyebrow: 'Cupones y Código de Recompensa YesStyle',
     titleTemplate: 'Código de recompensa YesStyle {code}: Hasta {newDiscount}% extra',
-    descriptionTemplate: 'Código de recompensa oficial {code} en YesStyle. Suma hasta un {newDiscount}% extra junto con cupones promocionales.',
+    descriptionTemplate: 'Código de recompensa oficial {code} en YesStyle. Suma hasta un {newDiscount}% extra junto con cupones promocionales elegibles al pagar.',
     introTemplate: '{code} es el código de recompensa oficial de YesStyle. Úsalo en el campo Reward Code para sumar hasta un {newDiscount}% extra ({newDiscount}% en 1ª compra / {returningDiscount}% en compras siguientes).',
     updated: 'Verificado',
     copy: 'Copiar código',
@@ -289,7 +292,7 @@ const pages: Record<Locale, PageCopy> = {
     copyAriaPromoTemplate: 'Copiar cupón promocional {code}',
     visit: 'Ir a YesStyle',
     rewardCardBadge: 'Código de Recompensa (Activo)',
-    rewardCardDescriptionTemplate: 'Código de influencer activo. Úsalo en el campo Reward Code para sumar hasta {newDiscount}% extra.',
+    rewardCardDescriptionTemplate: 'Código de influencer activo. Úsalo en el campo Reward Code para sumar hasta {newDiscount}% extra con cupones elegibles.',
     rewardDiscountValueTemplate: 'Hasta {newDiscount}% extra ({newDiscount}% 1ª compra / {returningDiscount}% habitual)',
     promosSectionTitle: 'Cupones Promocionales Verificados',
     emptyPromosNoticeTemplate: 'No hay cupones promocionales verificados en este momento.',
@@ -297,6 +300,7 @@ const pages: Record<Locale, PageCopy> = {
     proofLabel: 'Ver comprobante oficial',
     validityUnconfirmed: 'Validez a confirmar en checkout',
     regionUnconfirmed: 'Región a confirmar en checkout',
+    freeShippingLabel: 'Envío Gratis',
     tableHeaders: {
       type: 'Tipo',
       code: 'Código',
@@ -340,7 +344,7 @@ const pages: Record<Locale, PageCopy> = {
     guideCardSubtext: 'Reglas de combinación y envío',
     faqTitle: 'Preguntas Frecuentes',
     faqs: [
-      { question: '¿Puedo usar {code} con un cupón?', answer: 'El código {code} en el campo Reward Code se puede combinar con cupons promocionales elegibles en Coupon Code, debiendo confirmarse en el resumen del checkout.' },
+      { question: '¿Puedo usar {code} con un cupón?', answer: 'El código {code} en el campo Reward Code se puede combinar con cupones promocionales elegibles en Coupon Code, debiendo confirmarse en el resumen del checkout.' },
     ],
     transparencyTemplate: 'Esta página contiene enlaces de afiliado. Si compras mediante el código {code}, podemos recibir una comisión sin coste adicional.',
   },
@@ -349,7 +353,7 @@ const pages: Record<Locale, PageCopy> = {
     language: 'fr-FR',
     eyebrow: 'Coupons et Code Récompense YesStyle',
     titleTemplate: 'Code récompense YesStyle {code} : Jusqu’à {newDiscount} % en plus',
-    descriptionTemplate: 'Code récompense officiel {code} sur YesStyle. Ajoutez jusqu’à {newDiscount} % de réduction aux coupons actifs.',
+    descriptionTemplate: 'Code récompense officiel {code} sur YesStyle. Ajoutez jusqu’à {newDiscount} % de réduction sous réserve d’éligibilité des coupons promo.',
     introTemplate: '{code} est le code récompense officiel de YesStyle. Saisissez-le dans le champ Reward Code pour ajouter jusqu’à {newDiscount} % ({newDiscount} % 1ère commande / {returningDiscount} % commandes suivantes).',
     updated: 'Vérifié',
     copy: 'Copier le code',
@@ -358,7 +362,7 @@ const pages: Record<Locale, PageCopy> = {
     copyAriaPromoTemplate: 'Copier le coupon promo {code}',
     visit: 'Aller sur YesStyle',
     rewardCardBadge: 'Code Récompense (Actif)',
-    rewardCardDescriptionTemplate: 'Code influenceur actif. Saisissez-le dans le champ Reward Code pour ajouter jusqu’à {newDiscount} % de réduction.',
+    rewardCardDescriptionTemplate: 'Code influenceur actif. Saisissez-le dans le champ Reward Code pour ajouter jusqu’à {newDiscount} % de réduction avec les coupons éligibles.',
     rewardDiscountValueTemplate: 'Jusqu’à {newDiscount} % extra ({newDiscount} % 1ère commande / {returningDiscount} % suivantes)',
     promosSectionTitle: 'Coupons Promotionnels Vérifiés',
     emptyPromosNoticeTemplate: 'Aucun coupon promotionnel vérifié pour le moment.',
@@ -366,6 +370,7 @@ const pages: Record<Locale, PageCopy> = {
     proofLabel: 'Voir la preuve officielle',
     validityUnconfirmed: 'Validité à confirmer au paiement',
     regionUnconfirmed: 'Région à confirmer au paiement',
+    freeShippingLabel: 'Livraison Gratuite',
     tableHeaders: {
       type: 'Type',
       code: 'Code',
@@ -418,7 +423,7 @@ const pages: Record<Locale, PageCopy> = {
     language: 'de-DE',
     eyebrow: 'YesStyle Gutscheine & Reward Code',
     titleTemplate: 'YesStyle Reward Code {code}: Bis zu {newDiscount} % extra',
-    descriptionTemplate: 'Offizieller YesStyle Reward Code {code}. Erhalte bis zu {newDiscount} % extra neben aktiven Gutscheincodes.',
+    descriptionTemplate: 'Offizieller YesStyle Reward Code {code}. Erhalte bis zu {newDiscount} % extra neben berechtigten Aktionsgutscheinen an der Kasse.',
     introTemplate: '{code} ist der offizielle YesStyle Reward Code. Gib ihn im Feld Reward Code ein, um bis zu {newDiscount} % extra ({newDiscount} % Erstbestellung / {returningDiscount} % Folgebestellungen) zu erhalten.',
     updated: 'Verifiziert',
     copy: 'Code kopieren',
@@ -427,7 +432,7 @@ const pages: Record<Locale, PageCopy> = {
     copyAriaPromoTemplate: 'Aktionsgutschein {code} kopieren',
     visit: 'Zu YesStyle',
     rewardCardBadge: 'Reward Code (Aktiv)',
-    rewardCardDescriptionTemplate: 'Aktiver Influencer-Code. Gib ihn im Feld Reward Code ein, um bis zu {newDiscount} % extra zu sparen.',
+    rewardCardDescriptionTemplate: 'Aktiver Influencer-Code. Gib ihn im Feld Reward Code ein, um bis zu {newDiscount} % extra mit berechtigten Gutscheinen zu sparen.',
     rewardDiscountValueTemplate: 'Bis zu {newDiscount} % extra ({newDiscount} % Erstbestellung / {returningDiscount} % Folgebestellung)',
     promosSectionTitle: 'Verifizierte Aktionsgutscheine',
     emptyPromosNoticeTemplate: 'Derzeit keine verifizierten Aktionsgutscheine aktiv.',
@@ -435,6 +440,7 @@ const pages: Record<Locale, PageCopy> = {
     proofLabel: 'Offiziellen Nachweis anzeigen',
     validityUnconfirmed: 'Gültigkeit an der Kasse zu prüfen',
     regionUnconfirmed: 'Region an der Kasse zu prüfen',
+    freeShippingLabel: 'Kostenloser Versand',
     tableHeaders: {
       type: 'Typ',
       code: 'Code',
@@ -487,7 +493,7 @@ const pages: Record<Locale, PageCopy> = {
     language: 'ko-KR',
     eyebrow: 'YesStyle 쿠폰 및 리워드 코드',
     titleTemplate: 'YesStyle 리워드 코드 {code}: 추가 {newDiscount}% 할인',
-    descriptionTemplate: '공식 YesStyle 리워드 코드 {code}. 결제 시 프로모션 쿠폰과 함께 최대 추가 {newDiscount}% 혜택을 받으세요.',
+    descriptionTemplate: '공식 YesStyle 리워드 코드 {code}. 결제 시 대상 프로모션 쿠폰과 함께 최대 추가 {newDiscount}% 혜택을 받으세요.',
     introTemplate: '{code}은 공식 YesStyle 리워드 코드입니다. Reward Code 전용 칸에 입력하면 최대 추가 {newDiscount}% (첫 구매 {newDiscount}% / 재구매 {returningDiscount}%) 혜택을 받을 수 있습니다.',
     updated: '확인일',
     copy: '코드 복사',
@@ -504,6 +510,7 @@ const pages: Record<Locale, PageCopy> = {
     proofLabel: '공식 증빙 보기',
     validityUnconfirmed: '결제 시 유효기간 확인 필요',
     regionUnconfirmed: '결제 시 적용 지역 확인 필요',
+    freeShippingLabel: '무료 배송',
     tableHeaders: {
       type: '구분',
       code: '코드',
@@ -556,7 +563,7 @@ const pages: Record<Locale, PageCopy> = {
     language: 'ja-JP',
     eyebrow: 'YesStyle クーポン＆リワードコード',
     titleTemplate: 'YesStyle リワードコード {code}：さらに{newDiscount}%オフ',
-    descriptionTemplate: 'YesStyle公式リワードコード{code}。チェックアウト時にプロモーションクーポンと併用して最大{newDiscount}%追加オフ。',
+    descriptionTemplate: 'YesStyle公式リワードコード{code}。チェックアウト時に対象のプロモーションクーポンと併用して最大{newDiscount}%追加オフ。',
     introTemplate: '{code}は公式YesStyleリワードコードです。Reward Code欄に入力すると最大で追加{newDiscount}%（初回{newDiscount}% / 2回目以降{returningDiscount}%）の特典が適用されます。',
     updated: '確認日',
     copy: 'コードをコピー',
@@ -573,6 +580,7 @@ const pages: Record<Locale, PageCopy> = {
     proofLabel: '公式証明を見る',
     validityUnconfirmed: 'チェックアウト時に有効期限を確認',
     regionUnconfirmed: 'チェックアウト時に対象地域を確認',
+    freeShippingLabel: '送料無料',
     tableHeaders: {
       type: '種別',
       code: 'コード',
@@ -625,7 +633,7 @@ const pages: Record<Locale, PageCopy> = {
     language: 'zh-HK',
     eyebrow: 'YesStyle 優惠碼與獎勵碼',
     titleTemplate: 'YesStyle 獎勵碼 {code}：額外 {newDiscount}% 優惠',
-    descriptionTemplate: 'YesStyle 官方獎勵碼 {code}。在結帳時可與促銷優惠碼疊加，額外享有最高 {newDiscount}% 優惠。',
+    descriptionTemplate: 'YesStyle 官方獎勵碼 {code}。在結帳時可與適用促銷優惠碼組合使用，額外享有最高 {newDiscount}% 優惠。',
     introTemplate: '{code} 是 YesStyle 官方獎勵碼。請在 Reward Code 專用欄位輸入，即可獲得最高額外 {newDiscount}% 優惠（首購 {newDiscount}% / 複購 {returningDiscount}%）。',
     updated: '已驗證',
     copy: '複製優惠碼',
@@ -642,6 +650,7 @@ const pages: Record<Locale, PageCopy> = {
     proofLabel: '查看官方證明',
     validityUnconfirmed: '有效期限須於結帳時確認',
     regionUnconfirmed: '適用地區須於結帳時確認',
+    freeShippingLabel: '免運費',
     tableHeaders: {
       type: '類型',
       code: '優惠碼',
@@ -694,7 +703,7 @@ const pages: Record<Locale, PageCopy> = {
     language: 'zh-CN',
     eyebrow: 'YesStyle 优惠码与奖励码',
     titleTemplate: 'YesStyle 奖励码 {code}：额外 {newDiscount}% 优惠',
-    descriptionTemplate: 'YesStyle 官方奖励码 {code}。在结账时可与促销优惠码叠加，额外享受最高 {newDiscount}% 优惠。',
+    descriptionTemplate: 'YesStyle 官方奖励码 {code}。在结账时可与适用促销优惠码组合使用，额外享受最高 {newDiscount}% 优惠。',
     introTemplate: '{code} 是 YesStyle 官方奖励码。请在 Reward Code 专用栏位输入，即可获得最高额外 {newDiscount}% 优惠（首购 {newDiscount}% / 复购 {returningDiscount}%）。',
     updated: '已验证',
     copy: '复制优惠码',
@@ -711,6 +720,7 @@ const pages: Record<Locale, PageCopy> = {
     proofLabel: '查看官方证明',
     validityUnconfirmed: '有效期限须于结账时确认',
     regionUnconfirmed: '适用地区须于结账时确认',
+    freeShippingLabel: '免运费',
     tableHeaders: {
       type: '类型',
       code: '优惠码',
@@ -808,7 +818,7 @@ export function resolveYesStylePage(
     } else if (promo.discount.kind === 'fixed') {
       discountStr = `${promo.discount.currency} ${promo.discount.value} OFF`;
     } else if (promo.discount.kind === 'shipping') {
-      discountStr = 'Frete Grátis';
+      discountStr = page.freeShippingLabel;
     } else {
       discountStr = promo.discount.label;
     }

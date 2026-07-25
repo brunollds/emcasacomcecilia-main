@@ -437,6 +437,9 @@ for (const coupon of YESSTYLE_COUPONS_FACTUAL) {
     if (!coupon.verifiedAt || !isValidISODateString(coupon.verifiedAt)) {
       reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" com verifiedAt ausente, malformada ou calendário impossível: "${coupon.verifiedAt}"` });
     }
+    if (coupon.type === 'coupon' && !coupon.expiresAt && !coupon.recheckBy) {
+      reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom promocional ativo "${coupon.code}" deve possuir expiresAt ou recheckBy` });
+    }
     if (coupon.expiresAt) {
       if (!isValidISODateString(coupon.expiresAt)) {
         reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" com expiresAt malformada ou calendário impossível: "${coupon.expiresAt}"` });
@@ -444,6 +447,16 @@ for (const coupon of YESSTYLE_COUPONS_FACTUAL) {
         const expiryDate = new Date(`${coupon.expiresAt}T23:59:59.999Z`).getTime();
         if (expiryDate < nowTimestamp) {
           reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" expirou em ${coupon.expiresAt}` });
+        }
+      }
+    }
+    if (coupon.recheckBy) {
+      if (!isValidISODateString(coupon.recheckBy)) {
+        reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" com recheckBy malformada ou calendário impossível: "${coupon.recheckBy}"` });
+      } else {
+        const recheckDate = new Date(`${coupon.recheckBy}T23:59:59.999Z`).getTime();
+        if (recheckDate < nowTimestamp) {
+          reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" excedeu o prazo limite de rechecagem editorial (${coupon.recheckBy}). Re-verifique a oferta ou altere o status para expired.` });
         }
       }
     }

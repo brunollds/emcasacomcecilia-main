@@ -13,6 +13,7 @@ export interface YesStyleOfferBase {
   status: 'active' | 'scheduled' | 'expired';
   startsAt?: string;
   expiresAt?: string;
+  recheckBy?: string; // YYYY-MM-DD (prazo limite para re-verificação editorial)
   verifiedAt: string; // YYYY-MM-DD
   regions: string[];
   officialSourceUrl: string;
@@ -58,6 +59,7 @@ export const YESSTYLE_COUPONS_FACTUAL: YesStyleOffer[] = [
     type: 'coupon',
     discount: { kind: 'percentage', value: 15 },
     verifiedAt: '2026-07-25',
+    recheckBy: '2026-08-01',
     officialSourceUrl: 'https://www.yesstyle.com/en/home.html',
     affiliateUrl: 'https://ystyle.co/rQYQv',
     evidenceImage: '/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp',
