@@ -2,6 +2,8 @@ import { publishedReviews, getReviewSlug } from '@/lib/data';
 import { YESSTYLE_LOCALES } from '@/lib/i18n/yesstyleCluster';
 import { renderReviewPageBySlug, generateReviewMetadataBySlug } from '@/components/review/ReviewPageContainer';
 
+export const dynamicParams = false;
+
 export async function generateMetadata({ params }) {
   const { slug } = await params;
   return generateReviewMetadataBySlug(slug);

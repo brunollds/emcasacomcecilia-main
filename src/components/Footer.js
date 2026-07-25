@@ -40,8 +40,9 @@ const socialLinks = [
   })),
 ].filter((social) => Boolean(social.icon));
 
-export default function Footer() {
+export default function Footer({ lang = 'pt-BR' }) {
   const currentYear = new Date().getFullYear();
+  const isPt = lang === 'pt-BR';
 
   return (
     <footer className="bg-[#0f1d3a] px-6 pb-10 pt-12 print:hidden">
@@ -68,43 +69,43 @@ export default function Footer() {
               </span>
             </span>
             <span className="mt-1 text-center text-[0.65rem] font-medium tracking-[0.3px] text-white/70">
-              Receitas que dão certo
+              {isPt ? 'Receitas que dão certo' : 'Home recipes & honest reviews'}
             </span>
           </Link>
 
           <nav className="flex flex-wrap justify-center gap-x-6 gap-y-3 text-sm font-medium text-white/78 lg:justify-start">
-            <Link href="/receitas" className="transition-colors hover:text-[#ff6b35]">Receitas</Link>
-            <Link href="/categorias" className="transition-colors hover:text-[#ff6b35]">Categorias</Link>
+            <Link href="/receitas" className="transition-colors hover:text-[#ff6b35]">{isPt ? 'Receitas' : 'Recipes'}</Link>
+            {isPt && <Link href="/categorias" className="transition-colors hover:text-[#ff6b35]">Categorias</Link>}
             <Link href="/reviews" className="transition-colors hover:text-[#ff6b35]">Reviews</Link>
-            <Link href="/cupons" className="font-bold text-[#ffd700] transition-colors hover:text-white">Cupons</Link>
-            <Link href="/sobre" className="transition-colors hover:text-[#ff6b35]">Sobre</Link>
-            <Link href="/faqs" className="transition-colors hover:text-[#ff6b35]">FAQs</Link>
-            <a href={brandLinks.dicas} target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-[#ff6b35]">Dicas</a>
+            <Link href="/cupons" className="font-bold text-[#ffd700] transition-colors hover:text-white">{isPt ? 'Cupons' : 'Coupons'}</Link>
+            <Link href="/sobre" className="transition-colors hover:text-[#ff6b35]">{isPt ? 'Sobre' : 'About'}</Link>
+            {isPt && <Link href="/faqs" className="transition-colors hover:text-[#ff6b35]">FAQs</Link>}
+            {isPt && <a href={brandLinks.dicas} target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-[#ff6b35]">Dicas</a>}
             <a href={brandLinks.damie} target="_blank" rel="noopener noreferrer" className="font-bold text-[#ffd700] transition-colors hover:text-white">DAMIE</a>
           </nav>
 
           <div className="flex items-center justify-center gap-2">
-              {socialLinks.map((social) => (
-                <a
-                  key={social.name}
-                  href={social.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-white/12 text-[#ff6b35] transition-all hover:-translate-y-0.5 hover:border-[#ff6b35]/50 hover:bg-white/5"
-                  aria-label={`Siga @emcasacomcecilia no ${social.name}`}
-                >
-                  <social.icon />
-                </a>
-              ))}
+            {socialLinks.map((social) => (
+              <a
+                key={social.name}
+                href={social.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-white/12 text-[#ff6b35] transition-all hover:-translate-y-0.5 hover:border-[#ff6b35]/50 hover:bg-white/5"
+                aria-label={`Siga @emcasacomcecilia no ${social.name}`}
+              >
+                <social.icon />
+              </a>
+            ))}
           </div>
         </div>
 
         <div className="flex flex-col items-center gap-3 pt-5 text-center text-sm text-white/60 lg:flex-row lg:items-center lg:justify-between lg:text-left">
-          <p>© {currentYear} Em Casa com Cecília. Todos os direitos reservados.</p>
+          <p>© {currentYear} Em Casa com Cecília. {isPt ? 'Todos os direitos reservados.' : 'All rights reserved.'}</p>
           <div className="flex flex-wrap items-center justify-center gap-x-5 gap-y-2 lg:justify-start">
-            <Link href="/contato" className="transition-colors hover:text-[#ff6b35]">Contato</Link>
-            <a href={brandLinks.mediaKit} target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-[#ff6b35]">Media Kit</a>
-            <Link href="/privacidade" className="transition-colors hover:text-[#ff6b35]">Privacidade</Link>
+            <Link href="/contato" className="transition-colors hover:text-[#ff6b35]">{isPt ? 'Contato' : 'Contact'}</Link>
+            {isPt && <a href={brandLinks.mediaKit} target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-[#ff6b35]">Media Kit</a>}
+            <Link href="/privacidade" className="transition-colors hover:text-[#ff6b35]">{isPt ? 'Privacidade' : 'Privacy'}</Link>
           </div>
         </div>
       </div>

@@ -39,7 +39,7 @@ export const defaultMetadata = {
   description: 'Receitas caseiras, reviews sinceros e análises de produtos. Aprenda a cozinhar pratos deliciosos com a Cecília! +550K seguidores nas redes sociais.',
   authors: [{ name: 'Cecília Mauad' }],
   openGraph: {
-    title: 'Em Casa com Cecília - Receitas Práticas e Deliciosas',
+    title: 'Em Casa com Cecília',
     description: 'Receitas caseiras, reviews sinceros e análises de produtos.',
     type: 'website',
     locale: 'pt_BR',
@@ -61,42 +61,6 @@ export const defaultMetadata = {
   },
 };
 
-const organizationSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'Organization',
-  name: 'Em Casa com Cecília',
-  url: 'https://emcasacomcecilia.com',
-  logo: 'https://emcasacomcecilia.com/images/logos/logo-em-casa-com-cecilia.png',
-  sameAs: [
-    'https://instagram.com/emcasacomcecilia',
-    'https://youtube.com/@emcasacomcecilia',
-    'https://tiktok.com/@emcasacomcecilia',
-    'https://facebook.com/emcasacomcecilia',
-  ],
-  contactPoint: {
-    '@type': 'ContactPoint',
-    email: 'contato@emcasacomcecilia.com',
-    contactType: 'customer support',
-    availableLanguage: 'Portuguese',
-  },
-};
-
-const websiteSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebSite',
-  name: 'Em Casa com Cecília',
-  url: 'https://emcasacomcecilia.com',
-  description: 'Receitas práticas e deliciosas testadas na cozinha de casa. Reviews sinceros e conteúdo culinário para todos os níveis.',
-  potentialAction: {
-    '@type': 'SearchAction',
-    target: {
-      '@type': 'EntryPoint',
-      urlTemplate: 'https://emcasacomcecilia.com/receitas?q={search_term_string}',
-    },
-    'query-input': 'required name=search_term_string',
-  },
-};
-
 export function RootLayoutShell({
   lang,
   children,
@@ -104,6 +68,48 @@ export function RootLayoutShell({
   lang: string;
   children: React.ReactNode;
 }) {
+  const isPt = lang === 'pt-BR';
+
+  const organizationSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'Em Casa com Cecília',
+    url: 'https://emcasacomcecilia.com',
+    logo: 'https://emcasacomcecilia.com/images/logos/logo-em-casa-com-cecilia.png',
+    sameAs: [
+      'https://instagram.com/emcasacomcecilia',
+      'https://youtube.com/@emcasacomcecilia',
+      'https://tiktok.com/@emcasacomcecilia',
+      'https://facebook.com/emcasacomcecilia',
+    ],
+    contactPoint: {
+      '@type': 'ContactPoint',
+      email: 'contato@emcasacomcecilia.com',
+      contactType: 'customer support',
+      availableLanguage: isPt ? ['Portuguese'] : ['Portuguese', 'English'],
+    },
+  };
+
+  const websiteSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'Em Casa com Cecília',
+    url: 'https://emcasacomcecilia.com',
+    description: isPt
+      ? 'Receitas práticas e deliciosas testadas na cozinha de casa. Reviews sinceros e conteúdo culinário para todos os níveis.'
+      : 'Tested home recipes, verified discount coupons, and product reviews by Cecília Mauad.',
+    potentialAction: isPt
+      ? {
+          '@type': 'SearchAction',
+          target: {
+            '@type': 'EntryPoint',
+            urlTemplate: 'https://emcasacomcecilia.com/receitas?q={search_term_string}',
+          },
+          'query-input': 'required name=search_term_string',
+        }
+      : undefined,
+  };
+
   return (
     <html lang={lang}>
       <body className={`${montserrat.variable} ${lora.variable} ${caveat.variable} ${kalam.variable} antialiased`}>
@@ -115,9 +121,9 @@ export function RootLayoutShell({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
         />
-        <Navbar />
+        <Navbar lang={lang} />
         {children}
-        <Footer />
+        <Footer lang={lang} />
         <Analytics />
         <Script id="clarity" strategy="afterInteractive">
           {`(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","r8u956l333");`}

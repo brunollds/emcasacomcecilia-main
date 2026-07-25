@@ -6,18 +6,27 @@ import { Menu, X, ArrowRight } from 'lucide-react';
 import { brandLinks } from '@/lib/data';
 import OmniSearch from '@/components/OmniSearch';
 
-export default function Navbar() {
+export default function Navbar({ lang = 'pt-BR' }) {
   const [isOpen, setIsOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  const isPt = lang === 'pt-BR';
 
-  const navLinks = [
-    { href: '/receitas', label: 'Receitas', primary: true },
-    { href: '/reviews', label: 'Reviews' },
-    { href: '/cupons', label: 'Cupons' },
-    { href: '/sobre', label: 'Sobre' },
-    { href: '/contato', label: 'Contato' },
-    { href: '/faqs', label: 'FAQs' },
-  ];
+  const navLinks = isPt
+    ? [
+        { href: '/receitas', label: 'Receitas', primary: true },
+        { href: '/reviews', label: 'Reviews' },
+        { href: '/cupons', label: 'Cupons' },
+        { href: '/sobre', label: 'Sobre' },
+        { href: '/contato', label: 'Contato' },
+        { href: '/faqs', label: 'FAQs' },
+      ]
+    : [
+        { href: '/receitas', label: 'Recipes' },
+        { href: '/reviews', label: 'Reviews' },
+        { href: '/cupons', label: 'Coupons', primary: true },
+        { href: '/sobre', label: 'About' },
+        { href: '/contato', label: 'Contact' },
+      ];
 
   useEffect(() => {
     const handleScroll = () => {
@@ -30,7 +39,7 @@ export default function Navbar() {
   return (
     <header className={`sticky top-0 z-50 transition-all duration-300 print:hidden ${scrolled ? 'shadow-md' : ''}`} style={{ background: '#0f1d3a' }}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        {/* Logo + Busca + Mobile Menu */}
+        {/* Logo + Busca (PT) + Mobile Menu */}
         <div className="flex flex-col items-center gap-3 py-3 lg:flex-row lg:justify-between lg:gap-8">
           {/* Logo - CSS Style */}
           <Link href="/" className="group flex flex-shrink-0 translate-y-[2px] flex-col items-center justify-center">
@@ -65,14 +74,18 @@ export default function Navbar() {
               marginTop: '2px',
               textAlign: 'center'
             }}>
-              Receitas que dão certo
+              {isPt ? 'Receitas que dão certo' : 'Home recipes & honest reviews'}
             </span>
           </Link>
 
-          {/* Busca Desktop */}
-          <div className="hidden max-w-md flex-1 lg:block">
-            <OmniSearch />
-          </div>
+          {/* Busca Desktop (Apenas para PT) */}
+          {isPt ? (
+            <div className="hidden max-w-md flex-1 lg:block">
+              <OmniSearch />
+            </div>
+          ) : (
+            <div className="hidden flex-1 lg:block" />
+          )}
 
           {/* Links Desktop */}
           <nav className="hidden lg:flex items-center gap-5">
@@ -97,20 +110,22 @@ export default function Navbar() {
             >
               DAMIE
             </Link>
-            <Link
-              href={brandLinks.dicas}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center gap-1.5 px-4 py-2 rounded-full bg-[#ff6b35] text-white text-sm font-semibold hover:bg-[#ff5722] transition-all"
-            >
-              Dicas
-              <ArrowRight className="w-3.5 h-3.5" />
-            </Link>
+            {isPt && (
+              <Link
+                href={brandLinks.dicas}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-1.5 px-4 py-2 rounded-full bg-[#ff6b35] text-white text-sm font-semibold hover:bg-[#ff5722] transition-all"
+              >
+                Dicas
+                <ArrowRight className="w-3.5 h-3.5" />
+              </Link>
+            )}
             <Link
               href="/sobre"
               className="text-sm font-medium text-white/78 transition-colors hover:text-white"
             >
-              Sobre
+              {isPt ? 'Sobre' : 'About'}
             </Link>
           </nav>
 
@@ -119,10 +134,10 @@ export default function Navbar() {
             <button
               onClick={() => setIsOpen(!isOpen)}
               className="inline-flex items-center gap-3 rounded-full px-4 py-1.5 text-sm font-bold uppercase tracking-[0.12em] text-white/82 transition-colors hover:bg-white/10 hover:text-white"
-              aria-label="Menu e busca"
+              aria-label="Menu"
             >
               {isOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
-              Menu & Busca
+              {isPt ? 'Menu & Busca' : 'Menu'}
             </button>
           </div>
         </div>
@@ -142,15 +157,17 @@ export default function Navbar() {
                 {link.label}
               </Link>
             ))}
-            <Link
-              href={brandLinks.dicas}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="block border-b border-white/10 px-2 py-3 text-sm font-bold uppercase tracking-[0.12em] text-[#ff6b35] transition-colors hover:text-white"
-              onClick={() => setIsOpen(false)}
-            >
-              Dicas & Ofertas
-            </Link>
+            {isPt && (
+              <Link
+                href={brandLinks.dicas}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block border-b border-white/10 px-2 py-3 text-sm font-bold uppercase tracking-[0.12em] text-[#ff6b35] transition-colors hover:text-white"
+                onClick={() => setIsOpen(false)}
+              >
+                Dicas & Ofertas
+              </Link>
+            )}
             <Link
               href={brandLinks.damie}
               target="_blank"
@@ -160,9 +177,11 @@ export default function Navbar() {
             >
               DAMIE
             </Link>
-            <div className="pt-4">
-              <OmniSearch placeholder="Buscar receitas" />
-            </div>
+            {isPt && (
+              <div className="pt-4">
+                <OmniSearch placeholder="Buscar receitas" />
+              </div>
+            )}
           </div>
         </div>
       )}

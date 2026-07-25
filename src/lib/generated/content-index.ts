@@ -29216,8 +29216,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Produtos de K-beauty e skincare coreano da YesStyle dispostos sobre uma mesa clara.",
     "imageFit": "cover",
     "pros": [
-      "Código de influenciador que soma 5% extra aos cupons ativos",
-      "Pode ser usado junto com qualquer cupom ativo no site",
+      "Código de influenciador que soma até 5% extra aos cupons promocionais elegíveis",
+      "Pode ser usado junto com cupons promocionais elegíveis no site",
       "Frete grátis para o Brasil em compras acima de US$ 59",
       "Catálogo extenso de K-Beauty, moda coreana e J-Beauty",
       "Produtos 100% autênticos — distribuidora autorizada",
@@ -29234,17 +29234,17 @@ export const reviewsData: unknown[] = [
         "heading": "Como funciona o código CECILIA010",
         "paragraphs": [
           "Diferente do que acontece com cupons tradicionais (como o CECILIA12 na Damie ou o CECI na Dolce Gusto, que aplicam um desconto direto no carrinho), o código CECILIA010 na YesStyle funciona de maneira única como um \"Reward Code\" (Código de Recompensa).",
-          "A grande sacada é que ele possui um campo exclusivo e separado no checkout. Isso significa que ele é 100% cumulativo: você pode usá-lo ao mesmo tempo com QUALQUER cupom ativo no site, somando o cupom com os 5% oferecidos por CECILIA010.",
+          "A grande sacada é que ele possui um campo exclusivo e separado no checkout. Isso significa que ele é combinável com cupons elegíveis: você pode usá-lo ao mesmo tempo com QUALQUER cupom ativo no site, somando o cupom com os 5% oferecidos por CECILIA010.",
           "Se você está buscando uma compra com cupom direto (desconto na hora), confira nosso cupom YesStyle atualizado na página comercial."
         ],
         "bullets": [
           "Código: CECILIA010",
-          "Desconto: 5% extra",
+          "Desconto: Até 5% extra (5% 1ª compra / 2% recorrente)",
           "Tipo: Código de Influenciador / Código de Recompensa (Reward Code)",
           "Onde usar: Campo \"Código de Recompensa\" (Reward Code) no checkout da YesStyle",
-          "Como funciona: Garante 5% extra no carrinho quando aplicado no campo correto",
-          "Cumulativo: SIM! Você pode usar o CECILIA010 + qualquer cupom ativo no mesmo pedido",
-          "Validade: Permanente (sempre ativo e verificado)"
+          "Como funciona: Garante até 5% extra (5% 1ª compra / 2% recorrente) no carrinho quando aplicado no campo correto",
+          "Cumulativo: SIM! Você pode usar o CECILIA010 + cupons promocionais elegíveis no mesmo pedido",
+          "Validade: Código ativo no programa oficial de influenciadores (verificado regularmente)"
         ],
         "links": [
           {
@@ -29252,7 +29252,7 @@ export const reviewsData: unknown[] = [
             "href": "/cupons/yesstyle"
           }
         ],
-        "emphasis": "Dica da Cecília: O CECILIA010 não anula os cupons de desconto mensais da YesStyle — ele soma 5% a eles! Use sempre os dois campos no checkout para maximizar sua economia."
+        "emphasis": "Dica da Cecília: O CECILIA010 não anula os cupons de desconto mensais da YesStyle — ele soma até 5% extra (5% 1ª compra / 2% recorrente) a cupons elegíveis! Use sempre os dois campos no checkout para maximizar sua economia."
       },
       {
         "heading": "O que é a YesStyle?",
@@ -29341,7 +29341,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Insira o cupom promocional ativo do mês",
         "paragraphs": [
-          "Localize o campo \"Código de Cupom\" (ou \"Coupon Code\") e insira qualquer cupom ativo no site naquele momento. Clique em \"Aplicar\" para somar esse cupom aos 5% extras do CECILIA010."
+          "Localize o campo \"Código de Cupom\" (ou \"Coupon Code\") e insira cupons promocionais elegíveis no site naquele momento. Clique em \"Aplicar\" para somar esse cupom aos 5% extras do CECILIA010."
         ]
       },
       {
@@ -29358,7 +29358,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Passo 1 — Código de Recompensa: aplique CECILIA010 no campo Reward Code para ativar os 5% extras.",
-          "Passo 2 — Cupom ativo: aplique qualquer cupom válido do site no campo Coupon Code.",
+          "Passo 2 — Cupom ativo: aplique cupons elegíveis válido do site no campo Coupon Code.",
           "Passo 3 — Conferência final: antes de pagar, confirme no resumo do pedido se os 5% do CECILIA010 e o cupom ativo apareceram corretamente."
         ],
         "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
@@ -29718,8 +29718,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Korean skincare and K-beauty products from YesStyle beautifully arranged on a bright table.",
     "imageFit": "cover",
     "pros": [
-      "Influencer code that adds an extra 5% off on top of active coupons",
-      "Can be combined with any active coupon code on the site",
+      "Influencer code that adds up to 5% extra on top of eligible promo coupons",
+      "Can be combined with eligible promo coupons on the site",
       "Free international shipping on orders over US$ 59",
       "Vast catalog of K-Beauty, J-Beauty, and Korean fashion",
       "100% authentic products — authorized distributor",
@@ -29736,7 +29736,7 @@ export const reviewsData: unknown[] = [
         "heading": "How the code CECILIA010 works",
         "paragraphs": [
           "Unlike traditional coupon codes which apply a direct discount alone, the code CECILIA010 on YesStyle works as a \"Reward Code\" (influencer code).",
-          "The main advantage is that it has a separate and dedicated field at checkout. This means it is stackable: you can use it at the same time with any active coupon code on the site, adding the 5% off offered by CECILIA010 to your savings."
+          "The main advantage is that it has a separate and dedicated field at checkout. This means it is stackable: you can use it at the same time with eligible promo coupons on the site, adding up to 5% extra (5% 1st order / 2% returning) offered by CECILIA010 to your savings."
         ],
         "bullets": [
           "Code: CECILIA010",
@@ -29745,9 +29745,9 @@ export const reviewsData: unknown[] = [
           "Where to use: \"Reward Code\" field at YesStyle checkout",
           "Benefit: Adds Up to 5% extra (5% 1st order / 2% returning) to your cart when applied in the correct field",
           "Stackable: YES! You can use CECILIA010 + any active coupon on the same order",
-          "Validity: Permanent (always active and verified)"
+          "Validity: Active influencer program code (regularly verified)"
         ],
-        "emphasis": "Cecilia Tip: The code CECILIA010 does not cancel YesStyle promo coupons — it adds 5% on top of them! Always fill both discount fields at checkout to maximize your savings."
+        "emphasis": "Cecilia Tip: The code CECILIA010 does not cancel YesStyle promo coupons — it adds up to 5% extra (5% 1st order / 2% returning) on top of eligible coupons! Always fill both discount fields at checkout to maximize your savings."
       },
       {
         "heading": "What is YesStyle?",
@@ -29964,7 +29964,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "cover",
     "pros": [
       "Código de influenciador que suma un Hasta 5% extra (5% 1ª compra / 2% recorrente) a los cupones activos",
-      "Se puede usar junto con cualquier cupón activo en el sitio",
+      "Se puede usar junto con cupones promocionales elegibles activo en el sitio",
       "Envío gratis internacional en compras superiores a US$ 59",
       "Catálogo extenso de K-Beauty, maquillaje y moda coreana",
       "Productos 100% auténticos — distribuidor de marcas autorizado",
@@ -29981,7 +29981,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cómo funciona el código CECILIA010",
         "paragraphs": [
           "A diferencia de los cupones tradicionales que aplican un descuento directo por sí solos, el código CECILIA010 en YesStyle funciona de manera exclusiva como un \"Reward Code\" (Código de Recompensa).",
-          "La gran ventaja es que cuenta con un campo separado en el checkout. Esto significa que es acumulable: puedes usarlo al mismo tiempo con cualquier cupón activo en el sitio, sumando el descuento del cupón con el Hasta 5% extra (5% 1ª compra / 2% recorrente) de CECILIA010."
+          "La gran ventaja es que cuenta con un campo separado en el checkout. Esto significa que es acumulable: puedes usarlo al mismo tiempo con cupones promocionales elegibles activo en el sitio, sumando el descuento del cupón con el Hasta 5% extra (5% 1ª compra / 2% recorrente) de CECILIA010."
         ],
         "bullets": [
           "Código: CECILIA010",
@@ -29990,7 +29990,7 @@ export const reviewsData: unknown[] = [
           "Dónde usar: Campo \"Código de Recompensa\" (Reward Code) en el checkout de YesStyle",
           "Cómo funciona: Añade un Hasta 5% extra (5% 1ª compra / 2% recorrente) al carrito al aplicarse en el campo correcto",
           "Acumulable: ¡SÍ! Puedes usar CECILIA010 + cualquier cupón activo en el mismo pedido",
-          "Validez: Permanente (siempre activo y verificado)"
+          "Validez: Código activo en el programa de influencers (siempre activo y verificado)"
         ],
         "emphasis": "Consejo de Cecilia: El código CECILIA010 no anula los cupones de descuento mensuales de YesStyle — ¡suma un 5% a ellos! Rellena siempre ambos campos en el checkout para maximizar tu ahorro."
       },
@@ -30481,7 +30481,7 @@ export const reviewsData: unknown[] = [
           "Eingabefeld: \"Reward Code\" oder \"Belohnungscode\" im Checkout bei YesStyle",
           "Wirkung: Gewährt 5% Extrarabatt im Warenkorb, wenn er im richtigen Feld angewendet wird",
           "Kombinierbar: JA! Du kannst CECILIA010 und einen aktiven Gutschein für dieselbe Bestellung nutzen",
-          "Gültigkeit: Dauerhaft (immer aktiv und geprüft)"
+          "Gültigkeit: Aktiver Influencer-Code im Programm (immer aktiv und geprüft)"
         ],
         "emphasis": "Cecilias Tipp: Der Code CECILIA010 hebt die monatlichen Gutscheincodes von YesStyle nicht auf — er fügt ihnen 5% hinzu! Nutze immer beide Eingabefelder im Checkout, um deine Ersparnis zu maximieren."
       },
