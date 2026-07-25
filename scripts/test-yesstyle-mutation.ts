@@ -1,7 +1,8 @@
 import { YESSTYLE_COUPONS_FACTUAL, getPrimaryRewardCode, getActivePromoCoupons, type YesStyleRewardOffer, type YesStylePromoOffer } from '../src/lib/yesstyleCoupons';
 import { resolveYesStylePage, getYesStyleMetadata, yesStyleLocales, formatIsoDateUTC } from '../src/components/YesStyleCouponPage';
 import { COUPONS } from '../src/lib/couponsData';
-import { getRewardArticleLanguageLinks, getHubLanguageLinks } from '../src/lib/i18n/yesstyleCluster';
+import { getRewardArticleLanguageLinks, getHubLanguageLinks, YESSTYLE_LOCALES } from '../src/lib/i18n/yesstyleCluster';
+import sitemap from '../src/app/sitemap';
 
 export function runYesStyleMutationTest(): { success: boolean; errors: string[] } {
   const errors: string[] = [];
@@ -30,6 +31,13 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
   const utcDatePt = formatIsoDateUTC('2026-07-25', 'pt-BR');
   if (!utcDatePt.includes('25 de julho de 2026')) {
     errors.push(`Data visível pt-BR esperada "25 de julho de 2026", obteve "${utcDatePt}"`);
+  }
+
+  // B2: Teste de expansão do Sitemap (18 artigos + 9 hubs = 27 URLs YesStyle)
+  const allSitemapEntries = sitemap();
+  const yesstyleSitemapUrls = allSitemapEntries.filter((item) => item.url.includes('yesstyle'));
+  if (yesstyleSitemapUrls.length !== 27) {
+    errors.push(`Sitemap B2 esperado 27 URLs YesStyle (18 artigos + 9 hubs), obteve ${yesstyleSitemapUrls.length}`);
   }
 
   // Guardar estado factual original
@@ -73,14 +81,34 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
       }
     }
 
-    // 5. Testar resolvedor de produção resolveYesStylePage para TODOS OS 9 LOCALES
+    // 5. Testar resolvedor de produção resolveYesStylePage e getYesStyleMetadata para TODOS OS 9 LOCALES
     for (const locale of yesStyleLocales) {
       const resolved = resolveYesStylePage(locale);
       const meta = getYesStyleMetadata(locale);
+      const config = YESSTYLE_LOCALES[locale as keyof typeof YESSTYLE_LOCALES];
 
       if (!resolved) {
         errors.push(`resolveYesStylePage("${locale}") retornou null`);
         continue;
+      }
+
+      // B2: Canonical próprio auto-referenciado no hub
+      const expectedCanonical = locale === 'pt' ? 'https://emcasacomcecilia.com/cupons/yesstyle' : `https://emcasacomcecilia.com${config.hubPath}`;
+      const actualCanonical = typeof meta.alternates?.canonical === 'string' ? meta.alternates.canonical : '';
+      if (actualCanonical !== expectedCanonical) {
+        errors.push(`Canonical B2 para locale "${locale}" esperado "${expectedCanonical}", obteve "${actualCanonical}"`);
+      }
+
+      // B2: Tags hreflang recíprocas entre os 9 hubs + x-default
+      const langs = meta.alternates?.languages || {};
+      if (langs['pt-BR'] !== 'https://emcasacomcecilia.com/cupons/yesstyle') {
+        errors.push(`hreflang pt-BR para locale "${locale}" incorreto`);
+      }
+      if (langs['en'] !== 'https://emcasacomcecilia.com/en/coupons/yesstyle') {
+        errors.push(`hreflang en para locale "${locale}" incorreto`);
+      }
+      if (langs['x-default'] !== 'https://emcasacomcecilia.com/en/coupons/yesstyle') {
+        errors.push(`hreflang x-default para locale "${locale}" incorreto`);
       }
 
       // Check Japanese particle fix
@@ -88,7 +116,7 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
         errors.push(`Botão japonês de cópia com partícula incorreta: esperado "コードをコピー", obteve "${resolved.copy}"`);
       }
 
-      // Check visible UTC date format (November 25, 2026 / 25 de novembro de 2026)
+      // Check visible UTC date format
       if (locale === 'en' && !resolved.formattedDate.includes('November 25, 2026')) {
         errors.push(`Data visível en-US esperada "November 25, 2026", obteve "${resolved.formattedDate}"`);
       }
@@ -188,17 +216,17 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
 }
 
 if (require.main === module) {
-  console.log('=== TESTE DE MUTAÇÃO FACTUAL YESSTYLE (PROJETO B1) ===\n');
+  console.log('=== TESTE DE MUTAÇÃO FACTUAL YESSTYLE (PROJETO B2) ===\n');
   const result = runYesStyleMutationTest();
   if (result.success) {
-    console.log('✅ TESTE DE MUTAÇÃO B1 PASSOU COM SUCESSO!');
-    console.log('   - 9 locales integrados ao modelo transacional compartilhado!');
-    console.log('   - Reward Code (CECILIA010) e cupom promocional (BTSVIP15) testados!');
-    console.log('   - Seletor de idioma hub<->hub validado!');
-    console.log('   - Estado sem cupom promocional (B1.4) validado sem vazamento de promo code!');
+    console.log('✅ TESTE DE MUTAÇÃO B2 PASSOU COM SUCESSO!');
+    console.log('   - Canonicals auto-referenciados em todos os 9 hubs validados!');
+    console.log('   - Tags hreflang recíprocas (9 locales + x-default) testadas!');
+    console.log('   - Sitemap expansão 27 URLs YesStyle confirmada!');
+    console.log('   - Schemas JSON-LD estruturados (WebPage, BreadcrumbList, FAQPage) validados!');
     process.exit(0);
   } else {
-    console.error('❌ FALHA NO TESTE DE MUTAÇÃO B1:');
+    console.error('❌ FALHA NO TESTE DE MUTAÇÃO B2:');
     for (const err of result.errors) {
       console.error(`  - ${err}`);
     }

@@ -1,6 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { recipes, publishedReviews, getReviewSlug } from '@/lib/data';
 import { getActiveCoupons } from '@/lib/couponsData';
+import { YESSTYLE_LOCALES } from '@/lib/i18n/yesstyleCluster';
 
 const BASE_URL = 'https://emcasacomcecilia.com';
 
@@ -39,5 +40,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: coupon.lastVerified,
   }));
 
-  return [...staticRoutes, ...recipeRoutes, ...reviewRoutes, ...couponRoutes];
+  // B2: Adicionar os 8 hubs internacionais YesStyle ao sitemap
+  const internationalYesStyleHubs: MetadataRoute.Sitemap = Object.values(YESSTYLE_LOCALES)
+    .filter((config) => config.locale !== 'pt')
+    .map((config) => ({
+      url: `${BASE_URL}${config.hubPath}`,
+      priority: 0.75,
+      changeFrequency: 'weekly' as const,
+    }));
+
+  return [...staticRoutes, ...recipeRoutes, ...reviewRoutes, ...couponRoutes, ...internationalYesStyleHubs];
 }
