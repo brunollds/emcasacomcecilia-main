@@ -4,6 +4,8 @@ import Script from 'next/script';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import Analytics from '@/components/Analytics';
+import { getShellCopy } from '@/lib/i18n/shellDictionary';
+import { YESSTYLE_LOCALES, type YesStyleLocale } from '@/lib/i18n/yesstyleCluster';
 
 const montserrat = Montserrat({
   variable: '--font-montserrat',
@@ -33,33 +35,44 @@ const kalam = Kalam({
   display: 'swap',
 });
 
-export const defaultMetadata = {
-  metadataBase: new URL('https://emcasacomcecilia.com'),
-  title: 'Em Casa com Cecília - Receitas Práticas e Deliciosas',
-  description: 'Receitas caseiras, reviews sinceros e análises de produtos. Aprenda a cozinhar pratos deliciosos com a Cecília! +550K seguidores nas redes sociais.',
-  authors: [{ name: 'Cecília Mauad' }],
-  openGraph: {
+export function getLocaleMetadata(localeStr: string) {
+  const loc: YesStyleLocale = (
+    Object.values(YESSTYLE_LOCALES).find((cfg) => cfg.htmlLang === localeStr)?.locale || 'pt'
+  ) as YesStyleLocale;
+
+  const copy = getShellCopy(loc);
+  const config = YESSTYLE_LOCALES[loc];
+
+  return {
+    metadataBase: new URL('https://emcasacomcecilia.com'),
     title: 'Em Casa com Cecília',
-    description: 'Receitas caseiras, reviews sinceros e análises de produtos.',
-    type: 'website',
-    locale: 'pt_BR',
-    siteName: 'Em Casa com Cecília',
-  },
-  twitter: {
-    card: 'summary_large_image',
-    title: 'Em Casa com Cecília',
-    description: 'Receitas caseiras, reviews sinceros e análises de produtos.',
-  },
-  robots: {
-    index: true,
-    follow: true,
-  },
-  icons: {
-    icon: '/images/logos/logo-em-casa-com-cecilia.png',
-    apple: '/images/logos/logo-em-casa-com-cecilia.png',
-    shortcut: '/images/logos/logo-em-casa-com-cecilia.png',
-  },
-};
+    description: copy.twitterDescription,
+    authors: [{ name: 'Cecília Mauad' }],
+    openGraph: {
+      title: 'Em Casa com Cecília',
+      description: copy.twitterDescription,
+      type: 'website',
+      locale: config.openGraphLocale,
+      siteName: 'Em Casa com Cecília',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: 'Em Casa com Cecília',
+      description: copy.twitterDescription,
+    },
+    robots: {
+      index: true,
+      follow: true,
+    },
+    icons: {
+      icon: '/images/logos/logo-em-casa-com-cecilia.png',
+      apple: '/images/logos/logo-em-casa-com-cecilia.png',
+      shortcut: '/images/logos/logo-em-casa-com-cecilia.png',
+    },
+  };
+}
+
+export const defaultMetadata = getLocaleMetadata('pt-BR');
 
 export function RootLayoutShell({
   lang,
@@ -68,7 +81,25 @@ export function RootLayoutShell({
   lang: string;
   children: React.ReactNode;
 }) {
-  const isPt = lang === 'pt-BR';
+  const loc: YesStyleLocale = (
+    Object.values(YESSTYLE_LOCALES).find((cfg) => cfg.htmlLang === lang)?.locale || 'pt'
+  ) as YesStyleLocale;
+
+  const copy = getShellCopy(loc);
+  const isPt = loc === 'pt';
+
+  // Mapeamento dos idiomas declarados no schema da organização
+  const languageNames: Record<YesStyleLocale, string> = {
+    pt: 'Portuguese',
+    en: 'English',
+    es: 'Spanish',
+    fr: 'French',
+    de: 'German',
+    ko: 'Korean',
+    ja: 'Japanese',
+    'zh-hant': 'Traditional Chinese',
+    'zh-hans': 'Simplified Chinese',
+  };
 
   const organizationSchema = {
     '@context': 'https://schema.org',
@@ -86,7 +117,7 @@ export function RootLayoutShell({
       '@type': 'ContactPoint',
       email: 'contato@emcasacomcecilia.com',
       contactType: 'customer support',
-      availableLanguage: isPt ? ['Portuguese'] : ['Portuguese', 'English'],
+      availableLanguage: Array.from(new Set(['Portuguese', languageNames[loc]])),
     },
   };
 
@@ -95,9 +126,7 @@ export function RootLayoutShell({
     '@type': 'WebSite',
     name: 'Em Casa com Cecília',
     url: 'https://emcasacomcecilia.com',
-    description: isPt
-      ? 'Receitas práticas e deliciosas testadas na cozinha de casa. Reviews sinceros e conteúdo culinário para todos os níveis.'
-      : 'Tested home recipes, verified discount coupons, and product reviews by Cecília Mauad.',
+    description: copy.twitterDescription,
     potentialAction: isPt
       ? {
           '@type': 'SearchAction',

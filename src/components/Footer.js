@@ -2,6 +2,8 @@
 
 import Link from 'next/link';
 import { brandLinks, socialMedias } from '@/lib/data';
+import { getShellCopy, getShellNavLinks } from '@/lib/i18n/shellDictionary';
+import { YESSTYLE_LOCALES } from '@/lib/i18n/yesstyleCluster';
 
 // Ícones SVG para redes sociais
 const SocialIcons = {
@@ -42,13 +44,19 @@ const socialLinks = [
 
 export default function Footer({ lang = 'pt-BR' }) {
   const currentYear = new Date().getFullYear();
-  const isPt = lang === 'pt-BR';
+
+  const localeKey = Object.values(YESSTYLE_LOCALES).find((cfg) => cfg.htmlLang === lang)?.locale || 'pt';
+
+  const isPt = localeKey === 'pt';
+  const copy = getShellCopy(localeKey);
+  const navLinks = getShellNavLinks(localeKey);
+  const homeHref = isPt ? '/' : YESSTYLE_LOCALES[localeKey].hubPath;
 
   return (
     <footer className="bg-[#0f1d3a] px-6 pb-10 pt-12 print:hidden">
       <div className="mx-auto max-w-7xl">
         <div className="flex flex-col items-center gap-6 border-b border-white/10 pb-6 text-center lg:flex-row lg:items-center lg:justify-between lg:text-left">
-          <Link href="/" className="group flex flex-col items-center justify-center">
+          <Link href={homeHref} className="group flex flex-col items-center justify-center">
             <span
               className="inline-flex items-baseline gap-[1.5px] text-white"
               style={{ fontSize: '1.62rem', fontWeight: 800, letterSpacing: '-0.5px', lineHeight: 1 }}
@@ -69,19 +77,24 @@ export default function Footer({ lang = 'pt-BR' }) {
               </span>
             </span>
             <span className="mt-1 text-center text-[0.65rem] font-medium tracking-[0.3px] text-white/70">
-              {isPt ? 'Receitas que dão certo' : 'Home recipes & honest reviews'}
+              {copy.tagline}
             </span>
           </Link>
 
           <nav className="flex flex-wrap justify-center gap-x-6 gap-y-3 text-sm font-medium text-white/78 lg:justify-start">
-            <Link href="/receitas" className="transition-colors hover:text-[#ff6b35]">{isPt ? 'Receitas' : 'Recipes'}</Link>
-            {isPt && <Link href="/categorias" className="transition-colors hover:text-[#ff6b35]">Categorias</Link>}
-            <Link href="/reviews" className="transition-colors hover:text-[#ff6b35]">Reviews</Link>
-            <Link href="/cupons" className="font-bold text-[#ffd700] transition-colors hover:text-white">{isPt ? 'Cupons' : 'Coupons'}</Link>
-            <Link href="/sobre" className="transition-colors hover:text-[#ff6b35]">{isPt ? 'Sobre' : 'About'}</Link>
-            {isPt && <Link href="/faqs" className="transition-colors hover:text-[#ff6b35]">FAQs</Link>}
-            {isPt && <a href={brandLinks.dicas} target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-[#ff6b35]">Dicas</a>}
-            <a href={brandLinks.damie} target="_blank" rel="noopener noreferrer" className="font-bold text-[#ffd700] transition-colors hover:text-white">DAMIE</a>
+            {navLinks.map((link) => (
+              <Link key={link.href} href={link.href} className="transition-colors hover:text-[#ff6b35]">
+                {link.label}
+              </Link>
+            ))}
+            {isPt && (
+              <a href={brandLinks.dicas} target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-[#ff6b35]">
+                Dicas
+              </a>
+            )}
+            <a href={brandLinks.damie} target="_blank" rel="noopener noreferrer" className="font-bold text-[#ffd700] transition-colors hover:text-white">
+              {copy.damieLabel}
+            </a>
           </nav>
 
           <div className="flex items-center justify-center gap-2">
@@ -101,11 +114,19 @@ export default function Footer({ lang = 'pt-BR' }) {
         </div>
 
         <div className="flex flex-col items-center gap-3 pt-5 text-center text-sm text-white/60 lg:flex-row lg:items-center lg:justify-between lg:text-left">
-          <p>© {currentYear} Em Casa com Cecília. {isPt ? 'Todos os direitos reservados.' : 'All rights reserved.'}</p>
+          <p>© {currentYear} Em Casa com Cecília. {copy.footerRights}</p>
           <div className="flex flex-wrap items-center justify-center gap-x-5 gap-y-2 lg:justify-start">
-            <Link href="/contato" className="transition-colors hover:text-[#ff6b35]">{isPt ? 'Contato' : 'Contact'}</Link>
-            {isPt && <a href={brandLinks.mediaKit} target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-[#ff6b35]">Media Kit</a>}
-            <Link href="/privacidade" className="transition-colors hover:text-[#ff6b35]">{isPt ? 'Privacidade' : 'Privacy'}</Link>
+            {isPt ? (
+              <>
+                <Link href="/contato" className="transition-colors hover:text-[#ff6b35]">{copy.contactLabel}</Link>
+                <a href={brandLinks.mediaKit} target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-[#ff6b35]">Media Kit</a>
+                <Link href="/privacidade" className="transition-colors hover:text-[#ff6b35]">{copy.privacyLabel}</Link>
+              </>
+            ) : (
+              <>
+                <span className="text-white/60">{copy.contactLabel}: contato@emcasacomcecilia.com</span>
+              </>
+            )}
           </div>
         </div>
       </div>

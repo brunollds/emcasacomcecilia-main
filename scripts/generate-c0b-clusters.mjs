@@ -15,10 +15,10 @@ for (const config of Object.values(YESSTYLE_LOCALES)) {
   // 1. Root Layout para o idioma
   const layoutContent = `import React from 'react';
 import '@/app/globals.css';
-import { RootLayoutShell, defaultMetadata } from '@/components/RootLayoutShell';
+import { RootLayoutShell, getLocaleMetadata } from '@/components/RootLayoutShell';
 import { getYesStyleLocaleConfig } from '@/lib/i18n/yesstyleCluster';
 
-export const metadata = defaultMetadata;
+export const metadata = getLocaleMetadata('${config.htmlLang}');
 
 export default function LocalizedClusterLayout({ children }: { children: React.ReactNode }) {
   const config = getYesStyleLocaleConfig('${config.locale}');
@@ -73,7 +73,7 @@ export default function GuideArticlePage() {
 `;
   fs.writeFileSync(path.join(guideDir, 'page.tsx'), guidePageContent, 'utf8');
 
-  console.log(`Grupo de rotas criado: ${clusterDirName}`);
+  console.log(`Grupo de rotas atualizado: ${clusterDirName}`);
 }
 
-console.log('✅ Todos os 8 grupos de rotas internacionais do C0b foram gerados!');
+console.log('✅ Todos os 8 grupos de rotas internacionais foram atualizados com metadados localizados!');
