@@ -98,8 +98,13 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
         const foundPromo = resolved.activePromoOffers.find((p) => p.code === 'PROMOTEST88');
         if (!foundPromo) {
           errors.push(`Cupom promocional mutado "PROMOTEST88" não encontrado na lista resolvida para locale "${locale}"`);
-        } else if (!foundPromo.discountLabel.includes('88%')) {
-          errors.push(`Desconto do cupom promocional mutado não contém "88%" em locale "${locale}": "${foundPromo.discountLabel}"`);
+        } else {
+          if (!foundPromo.discountLabel.includes('88%')) {
+            errors.push(`Desconto do cupom promocional mutado não contém "88%" em locale "${locale}": "${foundPromo.discountLabel}"`);
+          }
+          if (!foundPromo.copyAria.includes('PROMOTEST88') || foundPromo.copyAria.includes('MUTATIONTEST99')) {
+            errors.push(`copyAria do cupom promocional contém código incorreto em locale "${locale}": "${foundPromo.copyAria}"`);
+          }
         }
       }
 
