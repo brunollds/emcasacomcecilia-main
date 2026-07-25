@@ -59,7 +59,7 @@ export const YESSTYLE_COUPONS_FACTUAL: YesStyleOffer[] = [
     type: 'coupon',
     discount: { kind: 'percentage', value: 15 },
     verifiedAt: '2026-07-25',
-    recheckBy: '2026-08-01',
+    recheckBy: '2026-07-27',
     officialSourceUrl: 'https://www.yesstyle.com/en/home.html',
     affiliateUrl: 'https://ystyle.co/rQYQv',
     evidenceImage: '/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp',
