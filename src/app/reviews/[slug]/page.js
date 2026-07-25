@@ -2,24 +2,12 @@ import { notFound } from 'next/navigation';
 import { getReviewSlug, publishedReviews, reviews } from '@/lib/data';
 import { ReviewNotebookTemplate } from '@/components/review';
 import { buildReviewTemplateProps } from '@/lib/review-template-props';
-import { getCouponCopyLocale } from '@/components/review/couponCopyLocale';
+import { YESSTYLE_LOCALES, getYesStyleLocaleConfig, getYesStyleLocaleFromSlugOrPath } from '@/lib/i18n/yesstyleCluster';
 
 function findReview(slug) {
   const list = process.env.NODE_ENV === 'development' ? reviews : publishedReviews;
   return list.find((review) => getReviewSlug(review) === slug);
 }
-
-const openGraphLocaleMap = {
-  pt: 'pt_BR',
-  en: 'en_US',
-  es: 'es_ES',
-  fr: 'fr_FR',
-  de: 'de_DE',
-  ko: 'ko_KR',
-  ja: 'ja_JP',
-  'zh-hant': 'zh_TW',
-  'zh-hans': 'zh_CN',
-};
 
 export async function generateMetadata({ params }) {
   const { slug } = await params;
@@ -32,54 +20,23 @@ export async function generateMetadata({ params }) {
   }
 
   const url = `https://emcasacomcecilia.com/reviews/${getReviewSlug(review)}`;
+  const currentLocaleKey = review.locale || getYesStyleLocaleFromSlugOrPath(slug);
+  const localeConfig = getYesStyleLocaleConfig(currentLocaleKey);
 
   const languages = {};
-  const yesStyleSlugs = [
-    'codigo-cecilia010-yesstyle-como-usar',
-    'yesstyle-reward-code-coupon-cecilia010',
-    'codigo-de-recompensa-yesstyle-cupon-cecilia010',
-    'code-recompense-yesstyle-cecilia010',
-    'yesstyle-reward-code-rabatt-cecilia010',
-    'yesstyle-reward-code-cecilia010-ko',
-    'yesstyle-reward-code-cecilia010-ja',
-    'yesstyle-reward-code-cecilia010-zh-hant',
-    'yesstyle-reward-code-cecilia010-zh-hans'
-  ];
+  const isRewardSlug = Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.rewardArticleSlug === slug);
+  const isGuideSlug = Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.guideSlug === slug);
 
-  const yesStyleGuideSlugs = [
-    'como-encontrar-cupons-yesstyle-validos',
-    'how-to-find-valid-yesstyle-coupon-codes',
-    'como-encontrar-cupones-yesstyle-validos',
-    'comment-trouver-des-codes-promo-yesstyle-valides',
-    'gueltige-yesstyle-gutscheincodes-finden',
-    'yesstyle-valid-coupon-guide-ko',
-    'yesstyle-valid-coupon-guide-ja',
-    'yesstyle-valid-coupon-guide-zh-hant',
-    'yesstyle-valid-coupon-guide-zh-hans'
-  ];
-
-  if (yesStyleGuideSlugs.includes(slug)) {
-    languages['pt-BR'] = 'https://emcasacomcecilia.com/reviews/como-encontrar-cupons-yesstyle-validos';
-    languages['en'] = 'https://emcasacomcecilia.com/reviews/how-to-find-valid-yesstyle-coupon-codes';
-    languages['es'] = 'https://emcasacomcecilia.com/reviews/como-encontrar-cupones-yesstyle-validos';
-    languages['fr'] = 'https://emcasacomcecilia.com/reviews/comment-trouver-des-codes-promo-yesstyle-valides';
-    languages['de'] = 'https://emcasacomcecilia.com/reviews/gueltige-yesstyle-gutscheincodes-finden';
-    languages['ko'] = 'https://emcasacomcecilia.com/reviews/yesstyle-valid-coupon-guide-ko';
-    languages['ja'] = 'https://emcasacomcecilia.com/reviews/yesstyle-valid-coupon-guide-ja';
-    languages['zh-Hant'] = 'https://emcasacomcecilia.com/reviews/yesstyle-valid-coupon-guide-zh-hant';
-    languages['zh-Hans'] = 'https://emcasacomcecilia.com/reviews/yesstyle-valid-coupon-guide-zh-hans';
-    languages['x-default'] = 'https://emcasacomcecilia.com/reviews/how-to-find-valid-yesstyle-coupon-codes';
-  } else if (yesStyleSlugs.includes(slug)) {
-    languages['pt-BR'] = 'https://emcasacomcecilia.com/reviews/codigo-cecilia010-yesstyle-como-usar';
-    languages['en'] = 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-coupon-cecilia010';
-    languages['es'] = 'https://emcasacomcecilia.com/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010';
-    languages['fr'] = 'https://emcasacomcecilia.com/reviews/code-recompense-yesstyle-cecilia010';
-    languages['de'] = 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-rabatt-cecilia010';
-    languages['ko'] = 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-ko';
-    languages['ja'] = 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-ja';
-    languages['zh-Hant'] = 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-zh-hant';
-    languages['zh-Hans'] = 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-zh-hans';
-    languages['x-default'] = 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-coupon-cecilia010';
+  if (isGuideSlug) {
+    for (const cfg of Object.values(YESSTYLE_LOCALES)) {
+      languages[cfg.hreflang] = `https://emcasacomcecilia.com${cfg.guidePath}`;
+    }
+    languages['x-default'] = `https://emcasacomcecilia.com${YESSTYLE_LOCALES.en.guidePath}`;
+  } else if (isRewardSlug) {
+    for (const cfg of Object.values(YESSTYLE_LOCALES)) {
+      languages[cfg.hreflang] = `https://emcasacomcecilia.com${cfg.rewardArticlePath}`;
+    }
+    languages['x-default'] = `https://emcasacomcecilia.com${YESSTYLE_LOCALES.en.rewardArticlePath}`;
   }
 
   const seoDescription = review.metaDescription || review.description;
@@ -103,7 +60,7 @@ export async function generateMetadata({ params }) {
       description: seoDescription,
       url,
       type: 'article',
-      locale: openGraphLocaleMap[getCouponCopyLocale(review.slug)] || 'pt_BR',
+      locale: localeConfig.openGraphLocale,
       publishedTime: review.publishedAtISO,
       modifiedTime: review.updatedAt,
       authors: review.authors?.map((author) => author.name),

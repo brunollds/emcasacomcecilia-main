@@ -1,4 +1,6 @@
-export type CouponCopyLocale = 'pt' | 'en' | 'es' | 'fr' | 'de' | 'ko' | 'ja' | 'zh-hant' | 'zh-hans';
+import { getYesStyleLocaleFromSlugOrPath, type YesStyleLocale } from '@/lib/i18n/yesstyleCluster';
+
+export type CouponCopyLocale = YesStyleLocale;
 
 export type CouponCopyLabels = {
   copy: string;
@@ -67,28 +69,8 @@ export function getCouponCopyLabels(locale: CouponCopyLocale = 'pt'): CouponCopy
 }
 
 
-export function getCouponCopyLocale(slug: string): CouponCopyLocale {
-  const localesBySlug: Record<string, CouponCopyLocale> = {
-    'yesstyle-reward-code-coupon-cecilia010': 'en',
-    'codigo-de-recompensa-yesstyle-cupon-cecilia010': 'es',
-    'code-recompense-yesstyle-cecilia010': 'fr',
-    'yesstyle-reward-code-rabatt-cecilia010': 'de',
-    'yesstyle-reward-code-cecilia010-ko': 'ko',
-    'yesstyle-reward-code-cecilia010-ja': 'ja',
-    'yesstyle-reward-code-cecilia010-zh-hant': 'zh-hant',
-    'yesstyle-reward-code-cecilia010-zh-hans': 'zh-hans',
-
-    'how-to-find-valid-yesstyle-coupon-codes': 'en',
-    'como-encontrar-cupones-yesstyle-validos': 'es',
-    'comment-trouver-des-codes-promo-yesstyle-valides': 'fr',
-    'gueltige-yesstyle-gutscheincodes-finden': 'de',
-    'yesstyle-valid-coupon-guide-ko': 'ko',
-    'yesstyle-valid-coupon-guide-ja': 'ja',
-    'yesstyle-valid-coupon-guide-zh-hant': 'zh-hant',
-    'yesstyle-valid-coupon-guide-zh-hans': 'zh-hans',
-  };
-
-  return localesBySlug[slug] || 'pt';
+export function getCouponCopyLocale(slugOrLocale: string): CouponCopyLocale {
+  return getYesStyleLocaleFromSlugOrPath(slugOrLocale);
 }
 
 export function isStepHeading(heading?: string): boolean {

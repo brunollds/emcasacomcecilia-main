@@ -29482,7 +29482,8 @@ export const reviewsData: unknown[] = [
         "anchor": "como-funciona-o-codigo-cecilia010"
       }
     ],
-    "editorialNote": "Este artigo contém links de afiliado. Ao acessar a YesStyle pelos nossos links ou usar o código de influenciadora CECILIA010, podemos receber uma comissão, sem custo adicional para você."
+    "editorialNote": "Este artigo contém links de afiliado. Ao acessar a YesStyle pelos nossos links ou usar o código de influenciadora CECILIA010, podemos receber uma comissão, sem custo adicional para você.",
+    "locale": "pt"
   },
   {
     "id": 234,
@@ -29698,7 +29699,8 @@ export const reviewsData: unknown[] = [
           }
         ]
       }
-    ]
+    ],
+    "locale": "pt"
   },
   {
     "id": 21,
@@ -29942,7 +29944,8 @@ export const reviewsData: unknown[] = [
         "body": "The code field is at checkout, under \"Reward Code\". Copy CECILIA010 before you open the store so you can just paste it when placing your order."
       }
     ],
-    "editorialNote": "This article contains affiliate links. If you visit YesStyle through our links or use the influencer code CECILIA010, we may earn a commission at no extra cost to you."
+    "editorialNote": "This article contains affiliate links. If you visit YesStyle through our links or use the influencer code CECILIA010, we may earn a commission at no extra cost to you.",
+    "locale": "en"
   },
   {
     "id": 22,
@@ -30186,7 +30189,8 @@ export const reviewsData: unknown[] = [
         "body": "El campo del código está en el checkout, en \"Reward Code\". Copia CECILIA010 antes de abrir la tienda y pégalo al finalizar tu pedido."
       }
     ],
-    "editorialNote": "Este artículo contiene enlaces de afiliado. Si accedes a YesStyle mediante nuestros enlaces o usas el código de influencer CECILIA010, podemos recibir una comisión sin coste adicional para ti."
+    "editorialNote": "Este artículo contiene enlaces de afiliado. Si accedes a YesStyle mediante nuestros enlaces o usas el código de influencer CECILIA010, podemos recibir una comisión sin coste adicional para ti.",
+    "locale": "es"
   },
   {
     "id": 23,
@@ -30431,7 +30435,8 @@ export const reviewsData: unknown[] = [
         "body": "Le champ du code se trouve au moment du paiement, sous « Reward Code ». Copiez CECILIA010 avant d'ouvrir la boutique : il ne restera qu'à le coller en finalisant la commande."
       }
     ],
-    "editorialNote": "Cet article contient des liens affiliés. Si vous accédez à YesStyle via nos liens ou utilisez le code influenceur CECILIA010, nous pouvons recevoir une commission sans frais supplémentaires pour vous."
+    "editorialNote": "Cet article contient des liens affiliés. Si vous accédez à YesStyle via nos liens ou utilisez le code influenceur CECILIA010, nous pouvons recevoir une commission sans frais supplémentaires pour vous.",
+    "locale": "fr"
   },
   {
     "id": 24,
@@ -30675,7 +30680,8 @@ export const reviewsData: unknown[] = [
         "body": "Das Codefeld findest du im Checkout unter \"Reward Code\". Kopiere CECILIA010, bevor du den Shop öffnest – beim Bestellen einfach einfügen."
       }
     ],
-    "editorialNote": "Dieser Artikel enthält Affiliate-Links. Wenn du YesStyle über unsere Links besuchst oder den Influencer-Code CECILIA010 verwendest, können wir eine Provision erhalten, ohne dass dir zusätzliche Kosten entstehen."
+    "editorialNote": "Dieser Artikel enthält Affiliate-Links. Wenn du YesStyle über unsere Links besuchst oder den Influencer-Code CECILIA010 verwendest, können wir eine Provision erhalten, ohne dass dir zusätzliche Kosten entstehen.",
+    "locale": "de"
   },
   {
     "id": 40,
@@ -30755,7 +30761,8 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "hideFromPortugueseListings": true
+    "hideFromPortugueseListings": true,
+    "locale": "ko"
   },
   {
     "id": 41,
@@ -30835,7 +30842,8 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "hideFromPortugueseListings": true
+    "hideFromPortugueseListings": true,
+    "locale": "ja"
   },
   {
     "id": 42,
@@ -30915,7 +30923,8 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "hideFromPortugueseListings": true
+    "hideFromPortugueseListings": true,
+    "locale": "zh-hant"
   },
   {
     "id": 43,
@@ -30995,7 +31004,8 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "hideFromPortugueseListings": true
+    "hideFromPortugueseListings": true,
+    "locale": "zh-hans"
   },
   {
     "id": 19,
@@ -35160,7 +35170,8 @@ export const reviewsData: unknown[] = [
           }
         ]
       }
-    ]
+    ],
+    "locale": "en"
   },
   {
     "id": 236,
@@ -35369,7 +35380,8 @@ export const reviewsData: unknown[] = [
           }
         ]
       }
-    ]
+    ],
+    "locale": "es"
   },
   {
     "id": 237,
@@ -35578,7 +35590,8 @@ export const reviewsData: unknown[] = [
           }
         ]
       }
-    ]
+    ],
+    "locale": "fr"
   },
   {
     "id": 238,
@@ -35787,7 +35800,8 @@ export const reviewsData: unknown[] = [
           }
         ]
       }
-    ]
+    ],
+    "locale": "de"
   },
   {
     "id": 239,
@@ -35996,7 +36010,8 @@ export const reviewsData: unknown[] = [
           }
         ]
       }
-    ]
+    ],
+    "locale": "ko"
   },
   {
     "id": 240,
@@ -36205,7 +36220,8 @@ export const reviewsData: unknown[] = [
           }
         ]
       }
-    ]
+    ],
+    "locale": "ja"
   },
   {
     "id": 241,
@@ -36414,7 +36430,8 @@ export const reviewsData: unknown[] = [
           }
         ]
       }
-    ]
+    ],
+    "locale": "zh-hant"
   },
   {
     "id": 242,
@@ -36623,6 +36640,7 @@ export const reviewsData: unknown[] = [
           }
         ]
       }
-    ]
+    ],
+    "locale": "zh-hans"
   }
 ];

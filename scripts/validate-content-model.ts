@@ -377,6 +377,37 @@ if (!pilotReview) {
 }
 
 // ---------------------------------------------------------------------------
+// Validação YesStyle i18n & Cupons Factuais (Projeto A - A6)
+// ---------------------------------------------------------------------------
+
+import { YESSTYLE_LOCALES, YESSTYLE_LOCALE_KEYS } from '@/lib/i18n/yesstyleCluster';
+import { YESSTYLE_COUPONS_FACTUAL } from '@/lib/yesstyleCoupons';
+
+for (const key of YESSTYLE_LOCALE_KEYS) {
+  if (!YESSTYLE_LOCALES[key]) {
+    reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: `Locale "${key}" ausente no registro central YESSTYLE_LOCALES` });
+  }
+}
+
+for (const coupon of YESSTYLE_COUPONS_FACTUAL) {
+  if (coupon.status === 'active') {
+    if (!coupon.sourceUrl) {
+      reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" sem sourceUrl` });
+    }
+    if (!coupon.verifiedAt) {
+      reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" sem verifiedAt` });
+    }
+    if (coupon.expiresAt) {
+      const expiryDate = new Date(coupon.expiresAt).getTime();
+      const now = new Date('2026-07-24').getTime();
+      if (expiryDate < now) {
+        reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" expirou em ${coupon.expiresAt}` });
+      }
+    }
+  }
+}
+
+// ---------------------------------------------------------------------------
 // Resumo
 // ---------------------------------------------------------------------------
 

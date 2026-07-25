@@ -310,6 +310,7 @@ export interface Review {
   // Identificação
   id: number;
   slug: string;
+  locale?: string;
 
   // Tipo editorial legado (preservar — não substituir)
   type: string;

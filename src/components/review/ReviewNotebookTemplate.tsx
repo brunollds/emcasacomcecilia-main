@@ -18,6 +18,7 @@ import { ReviewMobileBottomBar } from './ReviewMobileBottomBar';
 import { InlineCouponCopy } from './InlineCouponCopy';
 import { getCouponCopyLocale, isStepHeading, type CouponCopyLocale } from './couponCopyLocale';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
+import { YESSTYLE_LOCALES, getRewardArticleLanguageLinks, getGuideArticleLanguageLinks } from '@/lib/i18n/yesstyleCluster';
 import { GuideTimeline } from './GuideTimeline';
 import { PullQuote } from './PullQuote';
 import { ReviewHighlightChips } from './ReviewHighlightChips';
@@ -349,57 +350,17 @@ export function ReviewNotebookTemplate({
             )}
 
             {/* Seletor reutilizável para versões localizadas */}
-            {[
-              'codigo-cecilia010-yesstyle-como-usar',
-              'yesstyle-reward-code-coupon-cecilia010',
-              'codigo-de-recompensa-yesstyle-cupon-cecilia010',
-              'code-recompense-yesstyle-cecilia010',
-              'yesstyle-reward-code-rabatt-cecilia010',
-              'yesstyle-reward-code-cecilia010-ko',
-              'yesstyle-reward-code-cecilia010-ja',
-              'yesstyle-reward-code-cecilia010-zh-hant',
-              'yesstyle-reward-code-cecilia010-zh-hans'
-            ].includes(review.slug) && (
+            {Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.rewardArticleSlug === review.slug) && (
               <LanguageSwitcher
                 currentLocale={couponCopyLocale}
-                links={{
-                  pt: '/reviews/codigo-cecilia010-yesstyle-como-usar',
-                  en: '/reviews/yesstyle-reward-code-coupon-cecilia010',
-                  es: '/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010',
-                  fr: '/reviews/code-recompense-yesstyle-cecilia010',
-                  de: '/reviews/yesstyle-reward-code-rabatt-cecilia010',
-                  ko: '/reviews/yesstyle-reward-code-cecilia010-ko',
-                  ja: '/reviews/yesstyle-reward-code-cecilia010-ja',
-                  'zh-hant': '/reviews/yesstyle-reward-code-cecilia010-zh-hant',
-                  'zh-hans': '/reviews/yesstyle-reward-code-cecilia010-zh-hans',
-                }}
+                links={getRewardArticleLanguageLinks()}
               />
             )}
 
-            {[
-              'como-encontrar-cupons-yesstyle-validos',
-              'how-to-find-valid-yesstyle-coupon-codes',
-              'como-encontrar-cupones-yesstyle-validos',
-              'comment-trouver-des-codes-promo-yesstyle-valides',
-              'gueltige-yesstyle-gutscheincodes-finden',
-              'yesstyle-valid-coupon-guide-ko',
-              'yesstyle-valid-coupon-guide-ja',
-              'yesstyle-valid-coupon-guide-zh-hant',
-              'yesstyle-valid-coupon-guide-zh-hans'
-            ].includes(review.slug) && (
+            {Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.guideSlug === review.slug) && (
               <LanguageSwitcher
                 currentLocale={couponCopyLocale}
-                links={{
-                  pt: '/reviews/como-encontrar-cupons-yesstyle-validos',
-                  en: '/reviews/how-to-find-valid-yesstyle-coupon-codes',
-                  es: '/reviews/como-encontrar-cupones-yesstyle-validos',
-                  fr: '/reviews/comment-trouver-des-codes-promo-yesstyle-valides',
-                  de: '/reviews/gueltige-yesstyle-gutscheincodes-finden',
-                  ko: '/reviews/yesstyle-valid-coupon-guide-ko',
-                  ja: '/reviews/yesstyle-valid-coupon-guide-ja',
-                  'zh-hant': '/reviews/yesstyle-valid-coupon-guide-zh-hant',
-                  'zh-hans': '/reviews/yesstyle-valid-coupon-guide-zh-hans',
-                }}
+                links={getGuideArticleLanguageLinks()}
               />
             )}
 

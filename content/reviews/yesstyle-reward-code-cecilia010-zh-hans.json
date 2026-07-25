@@ -76,5 +76,6 @@
       ]
     }
   ],
-  "hideFromPortugueseListings": true
+  "hideFromPortugueseListings": true,
+  "locale": "zh-hans"
 }
