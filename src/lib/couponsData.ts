@@ -1,4 +1,4 @@
-import { getPrimaryRewardCode, getActivePromoCoupons } from './yesstyleCoupons';
+import { getPrimaryRewardCode, getActivePromoCoupons, getLatestYesStyleVerifiedAtISO } from './yesstyleCoupons';
 
 export interface CouponFAQ {
   question: string;
@@ -287,10 +287,7 @@ export const COUPONS: Coupon[] = [
       return `${r.code} é o código de recompensa oficial da YesStyle: garante até ${r.newCustomerDiscount}% OFF extra (${r.newCustomerDiscount}% na primeira compra ou ${r.returningCustomerDiscount}% em compras recorrentes) no campo Reward Code e é acumulável com cupons promocionais elegíveis no campo Coupon Code.`;
     },
     get lastVerified() {
-      const r = getPrimaryRewardCode();
-      const promos = getActivePromoCoupons();
-      const allDates = [r.verifiedAt, ...promos.map((p) => p.verifiedAt)];
-      return allDates.reduce((latest, date) => (date > latest ? date : latest), r.verifiedAt);
+      return getLatestYesStyleVerifiedAtISO();
     },
     get metaTitle() {
       const r = getPrimaryRewardCode();

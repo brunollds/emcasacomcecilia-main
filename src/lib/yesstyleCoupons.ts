@@ -85,3 +85,11 @@ export function getActivePromoCoupons(): YesStylePromoOffer[] {
     (item): item is YesStylePromoOffer => item.type === 'coupon' && item.status === 'active'
   );
 }
+
+// Helper: obtém a maior data de verificação entre o Reward Code principal e os cupons promocionais ativos
+export function getLatestYesStyleVerifiedAtISO(): string {
+  const reward = getPrimaryRewardCode();
+  const promos = getActivePromoCoupons();
+  const allDates = [reward.verifiedAt, ...promos.map((p) => p.verifiedAt)];
+  return allDates.reduce((latest, date) => (date > latest ? date : latest), reward.verifiedAt);
+}

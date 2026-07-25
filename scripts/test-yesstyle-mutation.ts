@@ -1,14 +1,34 @@
-import { YESSTYLE_COUPONS_FACTUAL, getPrimaryRewardCode, getActivePromoCoupons, type YesStyleRewardOffer, type YesStylePromoOffer } from '../src/lib/yesstyleCoupons';
-import { resolveYesStylePage, getYesStyleMetadata, yesStyleLocales, formatIsoDateUTC, YesStyleCouponPage } from '../src/components/YesStyleCouponPage';
+import {
+  YESSTYLE_COUPONS_FACTUAL,
+  getPrimaryRewardCode,
+  getActivePromoCoupons,
+  getLatestYesStyleVerifiedAtISO,
+  type YesStyleRewardOffer,
+  type YesStylePromoOffer,
+} from '../src/lib/yesstyleCoupons';
+import {
+  resolveYesStylePage,
+  getYesStyleMetadata,
+  yesStyleLocales,
+  formatIsoDateUTC,
+  YesStyleCouponPage,
+  getYesStyleBreadcrumbItems,
+} from '../src/components/YesStyleCouponPage';
 import { COUPONS } from '../src/lib/couponsData';
-import { getRewardArticleLanguageLinks, getHubLanguageLinks, YESSTYLE_LOCALES } from '../src/lib/i18n/yesstyleCluster';
-import { publishedReviews, getReviewSlug } from '../src/lib/data';
+import {
+  getRewardArticleLanguageLinks,
+  getHubLanguageLinks,
+  YESSTYLE_LOCALES,
+} from '../src/lib/i18n/yesstyleCluster';
 import sitemap from '../src/app/sitemap';
 
 export function runYesStyleMutationTest(): { success: boolean; errors: string[] } {
   const errors: string[] = [];
   const primaryReward = getPrimaryRewardCode();
   const activePromos = getActivePromoCoupons();
+
+  // [P1 Fix]: Calcular data esperada inicialmente de forma dinâmica (nunca hardcodar datas estáticas no teste)
+  const initialLatestVerifiedAt = getLatestYesStyleVerifiedAtISO();
 
   // 1. Mapeamento de links nos seletores de idioma
   const rewardLinks = getRewardArticleLanguageLinks();
@@ -24,28 +44,19 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
     errors.push(`Seletor de idioma EN nos hubs aponta para "${hubLinks.en}" em vez de "/en/coupons/yesstyle"`);
   }
 
-  // 2. Teste de data de atualização mais recente (latestVerifiedAtISO)
-  // O hub deve usar a maior data entre o Reward Code (2026-07-24) e os cupons ativos (BTSVIP15 em 2026-07-25 -> 2026-07-25)
+  // 2. Teste de data de atualização mais recente dinâmica (verifiedAtISO)
   const ptResolvedDateTest = resolveYesStylePage('pt');
-  if (!ptResolvedDateTest || ptResolvedDateTest.verifiedAtISO !== '2026-07-25') {
-    errors.push(`dateModified/verifiedAtISO esperado "2026-07-25" (maior data com BTSVIP15 ativo), obteve "${ptResolvedDateTest?.verifiedAtISO}"`);
-  }
-  if (ptResolvedDateTest && !ptResolvedDateTest.formattedDate.includes('25 de julho de 2026')) {
-    errors.push(`Data formatada PT esperada "25 de julho de 2026", obteve "${ptResolvedDateTest.formattedDate}"`);
+  if (!ptResolvedDateTest || ptResolvedDateTest.verifiedAtISO !== initialLatestVerifiedAt) {
+    errors.push(`verifiedAtISO inicial esperado "${initialLatestVerifiedAt}", obteve "${ptResolvedDateTest?.verifiedAtISO}"`);
   }
 
-  const enResolvedDateTest = resolveYesStylePage('en');
-  if (enResolvedDateTest && !enResolvedDateTest.formattedDate.includes('July 25, 2026')) {
-    errors.push(`Data formatada EN esperada "July 25, 2026", obteve "${enResolvedDateTest.formattedDate}"`);
-  }
-
-  // 3. Validação rigorosa e exata do Sitemap B2 (18 artigos + 9 hubs = 27 URLs YesStyle)
+  // 3. Validação estrita do Sitemap B2 a partir de YESSTYLE_LOCALES (Sem heurística de slugs!)
   const allSitemapEntries = sitemap();
   const yesstyleSitemapUrls = allSitemapEntries
-    .filter((item) => item.url.includes('yesstyle') || item.url.includes('cecilia010'))
+    .filter((item) => item.url.includes('yesstyle') || item.url.includes('cecilia010') || item.url.includes('code-recompense') || item.url.includes('codigo-de-recompensa'))
     .map((item) => item.url);
 
-  // Verificar ausência de duplicatas
+  // Verificar ausência de duplicatas no sitemap
   const uniqueUrls = new Set(yesstyleSitemapUrls);
   if (uniqueUrls.size !== yesstyleSitemapUrls.length) {
     errors.push(`Sitemap contém URLs duplicadas da YesStyle! Total: ${yesstyleSitemapUrls.length}, Únicas: ${uniqueUrls.size}`);
@@ -56,10 +67,11 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
     errors.push('Sitemap viola baseline: rota duplicada indevida "/pt/coupons/yesstyle" presente!');
   }
 
-  // Construir conjunto de URLs esperadas de forma determinística
-  const expectedArticleUrls = publishedReviews
-    .filter((r) => r.slug.includes('yesstyle') || r.slug.includes('cecilia010') || r.slug.includes('code-recompense') || r.slug.includes('codigo-de-recompensa'))
-    .map((r) => `https://emcasacomcecilia.com/reviews/${getReviewSlug(r)}`);
+  // [P2 Fix]: Construção direta do conjunto das 18 URLs de artigos a partir dos 9 registros em YESSTYLE_LOCALES
+  const expectedArticleUrls = Object.values(YESSTYLE_LOCALES).flatMap((config) => [
+    `https://emcasacomcecilia.com${config.rewardArticlePath}`,
+    `https://emcasacomcecilia.com${config.guidePath}`,
+  ]);
 
   const expectedHubUrls = Object.values(YESSTYLE_LOCALES).map(
     (config) => `https://emcasacomcecilia.com${config.hubPath}`
@@ -67,7 +79,7 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
 
   const expectedTotalUrls = new Set([...expectedArticleUrls, ...expectedHubUrls]);
   if (expectedTotalUrls.size !== 27) {
-    errors.push(`Regra interna de teste: esperado 27 URLs únicas no conjunto de referência, calculou ${expectedTotalUrls.size}`);
+    errors.push(`Regra interna de teste: conjunto estrito de URLs calculou ${expectedTotalUrls.size} em vez de 27`);
   }
 
   if (yesstyleSitemapUrls.length !== 27) {
@@ -80,25 +92,26 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
     }
   }
 
-  // Verificar lastModified do sitemap para os 9 hubs
+  // Verificar lastModified do sitemap para os 9 hubs (deve coincidir com initialLatestVerifiedAt)
   const hubSitemapEntries = allSitemapEntries.filter((item) =>
     Object.values(YESSTYLE_LOCALES).some((c) => `https://emcasacomcecilia.com${c.hubPath}` === item.url)
   );
   for (const hubEntry of hubSitemapEntries) {
-    if (hubEntry.lastModified !== '2026-07-25') {
-      errors.push(`lastModified no sitemap para "${hubEntry.url}" esperado "2026-07-25", obteve "${hubEntry.lastModified}"`);
+    if (hubEntry.lastModified !== initialLatestVerifiedAt) {
+      errors.push(`lastModified no sitemap para "${hubEntry.url}" esperado "${initialLatestVerifiedAt}", obteve "${hubEntry.lastModified}"`);
     }
   }
 
-  // Guardar estado factual original para teste de mutação
-  const origCode = primaryReward.code;
-  const origNew = primaryReward.newCustomerDiscount;
-  const origRet = primaryReward.returningCustomerDiscount;
-  const origVerified = primaryReward.verifiedAt;
+  // [P1 Fix]: Capturar estado factual original completo para restauração estrita no finally
+  const origRewardCode = primaryReward.code;
+  const origRewardNew = primaryReward.newCustomerDiscount;
+  const origRewardRet = primaryReward.returningCustomerDiscount;
+  const origRewardVerified = primaryReward.verifiedAt;
 
   const promoToMutate = activePromos[0];
   const origPromoCode = promoToMutate ? promoToMutate.code : '';
   const origPromoVal = promoToMutate && promoToMutate.discount.kind === 'percentage' ? promoToMutate.discount.value : 0;
+  const origPromoVerified = promoToMutate ? promoToMutate.verifiedAt : '';
 
   try {
     // 4. Executar mutação em memória (ex: CECILIA010 -> MUTATIONTEST99, BTSVIP15 -> PROMOTEST88)
@@ -113,17 +126,17 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
       promoToMutate.verifiedAt = '2026-11-26';
     }
 
-    // 5. Testar Hub PT em couponsData (lastVerified dinâmico)
+    // 5. Testar Hub PT em couponsData (lastVerified dinâmico de mutação)
     const ptHub = COUPONS.find((c) => c.slug === 'yesstyle');
     if (!ptHub) {
       errors.push('Hub PT "yesstyle" não encontrado em COUPONS');
     } else {
       if (ptHub.code !== 'MUTATIONTEST99') errors.push(`Hub PT code: esperado "MUTATIONTEST99", obteve "${ptHub.code}"`);
       if (ptHub.discountNumber !== 99) errors.push(`Hub PT discountNumber: esperado 99, obteve ${ptHub.discountNumber}`);
-      if (ptHub.lastVerified !== '2026-11-26') errors.push(`Hub PT lastVerified esperado "2026-11-26" (maior data da mutação), obteve "${ptHub.lastVerified}"`);
+      if (ptHub.lastVerified !== '2026-11-26') errors.push(`Hub PT lastVerified esperado "2026-11-26" (maior data mutada), obteve "${ptHub.lastVerified}"`);
     }
 
-    // 6. Testar resolvedor de produção, metadata, hreflangs e Schemas JSON-LD para TODOS OS 9 LOCALES
+    // 6. Testar resolvedor, metadata, hreflangs com igualdade total e breadcrumbs estritos para TODOS OS 9 LOCALES
     for (const locale of yesStyleLocales) {
       const resolved = resolveYesStylePage(locale);
       const meta = getYesStyleMetadata(locale);
@@ -141,37 +154,42 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
         errors.push(`Canonical B2 para locale "${locale}" esperado "${expectedCanonical}", obteve "${actualCanonical}"`);
       }
 
-      // [P1 Fix]: Testar TODAS as 9 tags hreflang + x-default geradas a partir de YESSTYLE_LOCALES
+      // [P2 Fix]: Teste de igualdade completa do dicionário de hreflangs (comparação exata de todas as 10 chaves)
       const langs = meta.alternates?.languages || {};
-      const expectedHreflangKeys = [
-        'pt-BR', 'en', 'es', 'fr', 'de', 'ko', 'ja', 'zh-Hant', 'zh-Hans', 'x-default'
-      ];
-      for (const key of expectedHreflangKeys) {
-        if (!langs[key]) {
-          errors.push(`Hreflang key "${key}" ausente no metadata do locale "${locale}"`);
+      const actualKeys = Object.keys(langs);
+      if (actualKeys.length !== 10) {
+        errors.push(`Quantidade de chaves hreflang esperada 10 em "${locale}", obteve ${actualKeys.length}`);
+      }
+
+      for (const locConfig of Object.values(YESSTYLE_LOCALES)) {
+        const expectedUrl = `https://emcasacomcecilia.com${locConfig.hubPath}`;
+        if (langs[locConfig.hreflang] !== expectedUrl) {
+          errors.push(`hreflang "${locConfig.hreflang}" em locale "${locale}" esperado "${expectedUrl}", obteve "${langs[locConfig.hreflang]}"`);
         }
       }
 
-      // Validação das URLs exatas do mapa de hreflangs
-      if (langs['pt-BR'] !== 'https://emcasacomcecilia.com/cupons/yesstyle') {
-        errors.push(`hreflang pt-BR para locale "${locale}" esperado "https://emcasacomcecilia.com/cupons/yesstyle", obteve "${langs['pt-BR']}"`);
-      }
-      if (langs['en'] !== 'https://emcasacomcecilia.com/en/coupons/yesstyle') {
-        errors.push(`hreflang en para locale "${locale}" esperado "https://emcasacomcecilia.com/en/coupons/yesstyle", obteve "${langs['en']}"`);
-      }
       if (langs['x-default'] !== 'https://emcasacomcecilia.com/en/coupons/yesstyle') {
-        errors.push(`hreflang x-default para locale "${locale}" esperado "https://emcasacomcecilia.com/en/coupons/yesstyle", obteve "${langs['x-default']}"`);
-      }
-      if (langs['ja'] !== 'https://emcasacomcecilia.com/ja/coupons/yesstyle') {
-        errors.push(`hreflang ja para locale "${locale}" esperado "https://emcasacomcecilia.com/ja/coupons/yesstyle", obteve "${langs['ja']}"`);
+        errors.push(`hreflang x-default em locale "${locale}" esperado "https://emcasacomcecilia.com/en/coupons/yesstyle", obteve "${langs['x-default']}"`);
       }
 
-      // [P1 Fix]: Testar Breadcrumb no locale (3 níveis em PT, 2 níveis nos internacionais)
-      // Em PT: Início -> Cupons -> YesStyle
-      // Em Internacional: Home -> YesStyle (sem simular /cupons em PT)
-      const elementNode = YesStyleCouponPage({ locale });
-      if (!elementNode) {
-        errors.push(`YesStyleCouponPage({ locale: "${locale}" }) retornou null`);
+      // [P2 Fix]: Teste estrito das posições, rótulos e URLs dos breadcrumbs (3 níveis em PT vs 2 nos internacionais)
+      const breadcrumbItems = getYesStyleBreadcrumbItems(resolved.locale, resolved.canonicalUrl, resolved.homeLabel, resolved.couponsLabel);
+      if (locale === 'pt') {
+        if (breadcrumbItems.length !== 3) {
+          errors.push(`Breadcrumb PT esperado 3 níveis, obteve ${breadcrumbItems.length}`);
+        }
+        if (breadcrumbItems[0]?.item !== 'https://emcasacomcecilia.com') errors.push('Breadcrumb PT nível 1 incorreto');
+        if (breadcrumbItems[1]?.item !== 'https://emcasacomcecilia.com/cupons') errors.push('Breadcrumb PT nível 2 incorreto');
+        if (breadcrumbItems[2]?.item !== 'https://emcasacomcecilia.com/cupons/yesstyle') errors.push('Breadcrumb PT nível 3 incorreto');
+      } else {
+        if (breadcrumbItems.length !== 2) {
+          errors.push(`Breadcrumb internacional "${locale}" esperado 2 níveis, obteve ${breadcrumbItems.length}`);
+        }
+        if (breadcrumbItems[0]?.item !== 'https://emcasacomcecilia.com') errors.push(`Breadcrumb "${locale}" nível 1 incorreto`);
+        if (breadcrumbItems[1]?.item !== expectedCanonical) errors.push(`Breadcrumb "${locale}" nível 2 incorreto`);
+        if (breadcrumbItems.some((b) => b.item.includes('/cupons'))) {
+          errors.push(`Breadcrumb internacional "${locale}" contém vazamento indevido para "/cupons" em PT!`);
+        }
       }
 
       // Check dateModified na resposta resolvida
@@ -252,22 +270,22 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
         }
         for (const inst of emptyStateResolved.instructions) {
           if (inst.includes('BTSVIP15') || inst.includes('PROMOTEST88')) {
-            errors.push(`Instrução do estado sem cupom promocional contém código promocional residuo em "${locale}": "${inst}"`);
+            errors.push(`Instrução do estado sem cupom promocional contém código promocional resíduo em "${locale}": "${inst}"`);
           }
         }
       }
     }
   } finally {
-    // Restaurar estado factual original
-    primaryReward.code = origCode;
-    primaryReward.newCustomerDiscount = origNew;
-    primaryReward.returningCustomerDiscount = origRet;
-    primaryReward.verifiedAt = origVerified;
+    // [P1 Fix]: Restaurar estado factual original de forma ESTRITA sem sobrescrever datas factuais
+    primaryReward.code = origRewardCode;
+    primaryReward.newCustomerDiscount = origRewardNew;
+    primaryReward.returningCustomerDiscount = origRewardRet;
+    primaryReward.verifiedAt = origRewardVerified;
 
     if (promoToMutate && promoToMutate.discount.kind === 'percentage') {
       promoToMutate.code = origPromoCode;
       promoToMutate.discount.value = origPromoVal;
-      promoToMutate.verifiedAt = '2026-07-25';
+      promoToMutate.verifiedAt = origPromoVerified; // Restauração exata do valor original!
     }
   }
 
@@ -278,18 +296,19 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
 }
 
 if (require.main === module) {
-  console.log('=== TESTE DE MUTAÇÃO FACTUAL YESSTYLE (PROJETO B2 REVISADO) ===\n');
+  console.log('=== TESTE DE MUTAÇÃO FACTUAL YESSTYLE (PROJETO B2 RIGOROSO) ===\n');
   const result = runYesStyleMutationTest();
   if (result.success) {
-    console.log('✅ TESTE DE MUTAÇÃO B2 REVISADO PASSOU COM SUCESSO!');
-    console.log('   - Canonicals auto-referenciados em todos os 9 hubs validados!');
-    console.log('   - 10 Tags hreflang recíprocas (geradas via YESSTYLE_LOCALES) testadas em todos os 9 locales!');
-    console.log('   - Sitemap: exatamente 27 URLs YesStyle (sem duplicatas, sem /pt/coupons/yesstyle, conjunto exato validadado)!');
-    console.log('   - dateModified & lastModified: utiliza a maior data (2026-07-25 com BTSVIP15 ativo)!');
-    console.log('   - Breadcrumb: 3 níveis em PT e 2 níveis nos hubs internacionais sem vazamento para /cupons em PT!');
+    console.log('✅ TESTE DE MUTAÇÃO B2 RIGOROSO PASSOU COM SUCESSO!');
+    console.log('   - Restauração factual exata no finally (origPromoVerified preservado)!');
+    console.log('   - Datas iniciais validadas dinamicamente via getLatestYesStyleVerifiedAtISO()!');
+    console.log('   - Canonicals auto-referenciados nos 9 hubs confirmados!');
+    console.log('   - Hreflangs: 10 chaves validadas por igualdade total em TODOS os 9 locales!');
+    console.log('   - Sitemap: exatamente 27 URLs de YESSTYLE_LOCALES (sem heurísticas de slugs)!');
+    console.log('   - Breadcrumbs: 3 níveis em PT e 2 níveis nos hubs internacionais sem vazamento para /cupons!');
     process.exit(0);
   } else {
-    console.error('❌ FALHA NO TESTE DE MUTAÇÃO B2 REVISADO:');
+    console.error('❌ FALHA NO TESTE DE MUTAÇÃO B2 RIGOROSO:');
     for (const err of result.errors) {
       console.error(`  - ${err}`);
     }

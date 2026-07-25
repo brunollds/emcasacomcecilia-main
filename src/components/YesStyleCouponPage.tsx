@@ -12,6 +12,7 @@ import {
 import {
   getPrimaryRewardCode,
   getActivePromoCoupons,
+  getLatestYesStyleVerifiedAtISO,
   type YesStyleRewardOffer,
   type YesStylePromoOffer,
 } from '@/lib/yesstyleCoupons';
@@ -139,6 +140,31 @@ export interface ResolvedYesStylePage {
   transparency: string;
   rewardCode: string;
   affiliateUrl: string;
+}
+
+export interface BreadcrumbItemSpec {
+  name: string;
+  item: string;
+}
+
+// Helper puro exportado para construção e teste estrito dos breadcrumbs (3 níveis em PT, 2 níveis nos internacionais)
+export function getYesStyleBreadcrumbItems(
+  locale: Locale,
+  canonicalUrl: string,
+  homeLabel: string,
+  couponsLabel: string
+): BreadcrumbItemSpec[] {
+  if (locale === 'pt') {
+    return [
+      { name: homeLabel, item: 'https://emcasacomcecilia.com' },
+      { name: couponsLabel, item: 'https://emcasacomcecilia.com/cupons' },
+      { name: 'YesStyle', item: canonicalUrl },
+    ];
+  }
+  return [
+    { name: homeLabel, item: 'https://emcasacomcecilia.com' },
+    { name: 'YesStyle', item: canonicalUrl },
+  ];
 }
 
 const pages: Record<Locale, PageCopy> = {
@@ -770,7 +796,7 @@ const pages: Record<Locale, PageCopy> = {
     guideCardSubtext: '叠加规则与免运条件',
     faqTitle: '常见问题',
     faqs: [
-      { question: '{code} 可以和其他优惠码一起使用吗？', answer: 'Reward Code 栏位的 {code} 可与 Coupon Code 栏位的适用促销优惠码组合使用，实际叠加结果须以结账明细为准。' },
+      { question: '{code} 可以和其他优惠码一起使用吗？', answer: 'Reward Code 栏位的 {code} 可与 Coupon Code 栏位的适用促销优惠码组合使用，实际叠加结果须以结账明细为準。' },
     ],
     transparencyTemplate: '此页面包含联盟链接。使用 {code} 购物时，我们可能会获得佣金。',
   },
@@ -816,9 +842,11 @@ export function resolveYesStylePage(
   const promos = promosInput !== undefined ? promosInput : getActivePromoCoupons();
   const config = getYesStyleLocaleConfig(page.locale);
 
-  // [P1 Fix]: Calcular data da atualização mais recente (maior verifiedAt entre o Reward Code e cupons ativos)
-  const allVerifiedDates = [reward.verifiedAt, ...promos.map((p) => p.verifiedAt)];
-  const latestVerifiedAtISO = allVerifiedDates.reduce((latest, date) => (date > latest ? date : latest), reward.verifiedAt);
+  // [Arquitetura Centralizada]: Usa helper getLatestYesStyleVerifiedAtISO quando usando entradas de produção
+  const latestVerifiedAtISO = rewardInput || promosInput
+    ? [reward.verifiedAt, ...promos.map((p) => p.verifiedAt)].reduce((latest, date) => (date > latest ? date : latest), reward.verifiedAt)
+    : getLatestYesStyleVerifiedAtISO();
+
   const formattedDate = formatIsoDateUTC(latestVerifiedAtISO, page.language);
 
   const canonicalUrl =
@@ -930,7 +958,6 @@ export function getYesStyleMetadata(locale: string): Metadata {
 
   const canonical = resolved.canonicalUrl;
 
-  // [P1 Fix]: Iterar dinamicamente sobre YESSTYLE_LOCALES sem hardcode e adicionar apenas x-default
   const languages: Record<string, string> = {};
   for (const locConfig of Object.values(YESSTYLE_LOCALES)) {
     languages[locConfig.hreflang] = `https://emcasacomcecilia.com${locConfig.hubPath}`;
@@ -959,6 +986,7 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
   if (!resolved) return null;
 
   const languageLinks = getHubLanguageLinks();
+  const breadcrumbItems = getYesStyleBreadcrumbItems(resolved.locale, resolved.canonicalUrl, resolved.homeLabel, resolved.couponsLabel);
 
   // Schemas JSON-LD B2
   const webPageSchema = {
@@ -971,23 +999,15 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
     dateModified: resolved.verifiedAtISO,
   };
 
-  // [P1 Fix]: Trilha de Breadcrumb com 3 níveis em PT e 2 níveis nos hubs internacionais
-  const breadcrumbElements =
-    resolved.locale === 'pt'
-      ? [
-          { '@type': 'ListItem', position: 1, name: resolved.homeLabel, item: 'https://emcasacomcecilia.com' },
-          { '@type': 'ListItem', position: 2, name: resolved.couponsLabel, item: 'https://emcasacomcecilia.com/cupons' },
-          { '@type': 'ListItem', position: 3, name: 'YesStyle', item: resolved.canonicalUrl },
-        ]
-      : [
-          { '@type': 'ListItem', position: 1, name: resolved.homeLabel, item: 'https://emcasacomcecilia.com' },
-          { '@type': 'ListItem', position: 2, name: 'YesStyle', item: resolved.canonicalUrl },
-        ];
-
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
-    itemListElement: breadcrumbElements,
+    itemListElement: breadcrumbItems.map((b, idx) => ({
+      '@type': 'ListItem',
+      position: idx + 1,
+      name: b.name,
+      item: b.item,
+    })),
   };
 
   const faqSchema = {
@@ -1011,15 +1031,16 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
       <section className="bg-[#0f1d3a] px-4 py-12 text-white md:py-16">
         <div className="mx-auto max-w-5xl">
           <nav className="mb-6 text-xs text-white/55">
-            <Link href="/">{resolved.homeLabel}</Link>
-            <span className="mx-2">/</span>
-            {resolved.locale === 'pt' ? (
-              <>
-                <Link href="/cupons">{resolved.couponsLabel}</Link>
-                <span className="mx-2">/</span>
-              </>
-            ) : null}
-            <span>YesStyle</span>
+            {breadcrumbItems.map((b, idx) => (
+              <span key={b.item}>
+                {idx > 0 ? <span className="mx-2">/</span> : null}
+                {idx < breadcrumbItems.length - 1 ? (
+                  <Link href={b.item.replace('https://emcasacomcecilia.com', '') || '/'}>{b.name}</Link>
+                ) : (
+                  <span>{b.name}</span>
+                )}
+              </span>
+            ))}
           </nav>
           <div className="flex gap-5 md:items-center">
             <div className="relative h-20 w-20 shrink-0 overflow-hidden rounded-2xl bg-white p-2">
