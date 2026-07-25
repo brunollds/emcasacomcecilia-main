@@ -1,11 +1,9 @@
-import CouponBrandPage, { generateMetadata as generateBrandMetadata } from '../[brand]/page';
-
-const params = Promise.resolve({ brand: 'yesstyle' });
+import { YesStyleCouponPage, getYesStyleMetadata } from '@/components/YesStyleCouponPage';
 
 export function generateMetadata() {
-  return generateBrandMetadata({ params });
+  return getYesStyleMetadata('pt');
 }
 
-export default function YesStyleCouponPage() {
-  return <CouponBrandPage params={params} />;
+export default function YesStylePortugueseCouponPage() {
+  return <YesStyleCouponPage locale="pt" />;
 }
