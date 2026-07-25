@@ -1,17 +1,25 @@
 import { YESSTYLE_COUPONS_FACTUAL, getPrimaryRewardCode, getActivePromoCoupons, type YesStyleRewardOffer, type YesStylePromoOffer } from '../src/lib/yesstyleCoupons';
 import { resolveYesStylePage, getYesStyleMetadata, yesStyleLocales, formatIsoDateUTC } from '../src/components/YesStyleCouponPage';
 import { COUPONS } from '../src/lib/couponsData';
-import { getRewardArticleLanguageLinks } from '../src/lib/i18n/yesstyleCluster';
+import { getRewardArticleLanguageLinks, getHubLanguageLinks } from '../src/lib/i18n/yesstyleCluster';
 
 export function runYesStyleMutationTest(): { success: boolean; errors: string[] } {
   const errors: string[] = [];
   const primaryReward = getPrimaryRewardCode();
   const activePromos = getActivePromoCoupons();
 
-  // 1. Mapeamento de links de artigo no seletor de idiomas
+  // 1. Mapeamento de links nos seletores de idioma
   const rewardLinks = getRewardArticleLanguageLinks();
   if (rewardLinks.pt !== '/reviews/codigo-cecilia010-yesstyle-como-usar') {
     errors.push(`Seletor de idioma PT no artigo aponta para "${rewardLinks.pt}" em vez de "/reviews/codigo-cecilia010-yesstyle-como-usar"`);
+  }
+
+  const hubLinks = getHubLanguageLinks();
+  if (hubLinks.pt !== '/cupons/yesstyle') {
+    errors.push(`Seletor de idioma PT nos hubs aponta para "${hubLinks.pt}" em vez de "/cupons/yesstyle"`);
+  }
+  if (hubLinks.en !== '/en/coupons/yesstyle') {
+    errors.push(`Seletor de idioma EN nos hubs aponta para "${hubLinks.en}" em vez de "/en/coupons/yesstyle"`);
   }
 
   // 2. Teste de formatação de data visível em UTC
@@ -181,6 +189,7 @@ if (require.main === module) {
     console.log('✅ TESTE DE MUTAÇÃO B1 PASSOU COM SUCESSO!');
     console.log('   - 9 locales integrados ao modelo transacional compartilhado!');
     console.log('   - Reward Code (CECILIA010) e cupom promocional (BTSVIP15) testados!');
+    console.log('   - Seletor de idioma hub<->hub validado!');
     console.log('   - Estado sem cupom promocional (B1.4) validado sem vazamento de promo code!');
     process.exit(0);
   } else {

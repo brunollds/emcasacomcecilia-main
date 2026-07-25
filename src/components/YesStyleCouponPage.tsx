@@ -5,7 +5,7 @@ import { CopyButton, FAQAccordion } from '@/components/CouponComponents';
 import { CouponBottomBar } from '@/components/CouponBottomBar';
 import {
   getYesStyleLocaleConfig,
-  getRewardArticleLanguageLinks,
+  getHubLanguageLinks,
   type YesStyleLocale,
 } from '@/lib/i18n/yesstyleCluster';
 import {
@@ -48,8 +48,6 @@ export type PageCopy = {
     validity: string;
     region: string;
     verified: string;
-    proof: string;
-    action: string;
   };
   offerTypeReward: string;
   offerTypeCoupon: string;
@@ -156,8 +154,8 @@ const pages: Record<Locale, PageCopy> = {
     emptyPromosNoticeTemplate: 'Nenhum cupom promocional verificado no momento.',
     emptyPromosSubtextTemplate: 'O código de recompensa {code} continua ativo no campo Reward Code.',
     proofLabel: 'Ver comprovante oficial',
-    validityUnconfirmed: 'Validade a confirmar no checkout',
-    regionUnconfirmed: 'Região a confirmar no checkout',
+    validityUnconfirmed: 'Prazo não informado',
+    regionUnconfirmed: 'Região não informada',
     freeShippingLabel: 'Frete Grátis',
     tableHeaders: {
       type: 'Tipo',
@@ -166,8 +164,6 @@ const pages: Record<Locale, PageCopy> = {
       validity: 'Validade',
       region: 'Região',
       verified: 'Verificado',
-      proof: 'Comprovação',
-      action: 'Ação',
     },
     offerTypeReward: 'Código de Recompensa',
     offerTypeCoupon: 'Cupom Promocional',
@@ -227,8 +223,8 @@ const pages: Record<Locale, PageCopy> = {
     emptyPromosNoticeTemplate: 'No verified promotional coupons active right now.',
     emptyPromosSubtextTemplate: 'The reward code {code} remains active in the Reward Code field.',
     proofLabel: 'View official proof',
-    validityUnconfirmed: 'Validity subject to checkout',
-    regionUnconfirmed: 'Region subject to checkout',
+    validityUnconfirmed: 'Validity unstated',
+    regionUnconfirmed: 'Region unstated',
     freeShippingLabel: 'Free Shipping',
     tableHeaders: {
       type: 'Type',
@@ -237,8 +233,6 @@ const pages: Record<Locale, PageCopy> = {
       validity: 'Validity',
       region: 'Region',
       verified: 'Verified',
-      proof: 'Proof',
-      action: 'Action',
     },
     offerTypeReward: 'Reward Code',
     offerTypeCoupon: 'Promo Coupon',
@@ -298,8 +292,8 @@ const pages: Record<Locale, PageCopy> = {
     emptyPromosNoticeTemplate: 'No hay cupones promocionales verificados en este momento.',
     emptyPromosSubtextTemplate: 'El código de recompensa {code} sigue activo en el campo Reward Code.',
     proofLabel: 'Ver comprobante oficial',
-    validityUnconfirmed: 'Validez a confirmar en checkout',
-    regionUnconfirmed: 'Región a confirmar en checkout',
+    validityUnconfirmed: 'Plazo no informado',
+    regionUnconfirmed: 'Región no informada',
     freeShippingLabel: 'Envío Gratis',
     tableHeaders: {
       type: 'Tipo',
@@ -308,8 +302,6 @@ const pages: Record<Locale, PageCopy> = {
       validity: 'Validez',
       region: 'Región',
       verified: 'Verificado',
-      proof: 'Comprobante',
-      action: 'Acción',
     },
     offerTypeReward: 'Código de Recompensa',
     offerTypeCoupon: 'Cupón Promocional',
@@ -368,18 +360,16 @@ const pages: Record<Locale, PageCopy> = {
     emptyPromosNoticeTemplate: 'Aucun coupon promotionnel vérifié pour le moment.',
     emptyPromosSubtextTemplate: 'Le code récompense {code} reste actif dans le champ Reward Code.',
     proofLabel: 'Voir la preuve officielle',
-    validityUnconfirmed: 'Validité à confirmer au paiement',
-    regionUnconfirmed: 'Région à confirmer au paiement',
+    validityUnconfirmed: 'Délai non précisé',
+    regionUnconfirmed: 'Région non précisée',
     freeShippingLabel: 'Livraison Gratuite',
     tableHeaders: {
       type: 'Type',
       code: 'Code',
       discount: 'Réduction',
       validity: 'Validité',
-      region: 'Région',
+      region: 'Règion',
       verified: 'Vérifié',
-      proof: 'Preuve',
-      action: 'Action',
     },
     offerTypeReward: 'Code Récompense',
     offerTypeCoupon: 'Coupon Promo',
@@ -438,8 +428,8 @@ const pages: Record<Locale, PageCopy> = {
     emptyPromosNoticeTemplate: 'Derzeit keine verifizierten Aktionsgutscheine aktiv.',
     emptyPromosSubtextTemplate: 'Der Reward Code {code} bleibt im Feld Reward Code aktiv.',
     proofLabel: 'Offiziellen Nachweis anzeigen',
-    validityUnconfirmed: 'Gültigkeit an der Kasse zu prüfen',
-    regionUnconfirmed: 'Region an der Kasse zu prüfen',
+    validityUnconfirmed: 'Frist nicht angegeben',
+    regionUnconfirmed: 'Region nicht angegeben',
     freeShippingLabel: 'Kostenloser Versand',
     tableHeaders: {
       type: 'Typ',
@@ -448,8 +438,6 @@ const pages: Record<Locale, PageCopy> = {
       validity: 'Gültigkeit',
       region: 'Region',
       verified: 'Verifiziert',
-      proof: 'Nachweis',
-      action: 'Aktion',
     },
     offerTypeReward: 'Reward Code',
     offerTypeCoupon: 'Aktionsgutschein',
@@ -508,8 +496,8 @@ const pages: Record<Locale, PageCopy> = {
     emptyPromosNoticeTemplate: '현재 검증된 프로모션 쿠폰이 없습니다.',
     emptyPromosSubtextTemplate: '리워드 코드 {code}은 Reward Code 칸에서 계속 활성화 상태입니다.',
     proofLabel: '공식 증빙 보기',
-    validityUnconfirmed: '결제 시 유효기간 확인 필요',
-    regionUnconfirmed: '결제 시 적용 지역 확인 필요',
+    validityUnconfirmed: '기한 미기재',
+    regionUnconfirmed: '지역 미기재',
     freeShippingLabel: '무료 배송',
     tableHeaders: {
       type: '구분',
@@ -518,8 +506,6 @@ const pages: Record<Locale, PageCopy> = {
       validity: '유효기간',
       region: '적용지역',
       verified: '확인일',
-      proof: '증빙',
-      action: '사용',
     },
     offerTypeReward: '리워드 코드',
     offerTypeCoupon: '프로모션 쿠폰',
@@ -578,8 +564,8 @@ const pages: Record<Locale, PageCopy> = {
     emptyPromosNoticeTemplate: '現在、検証済みのプロモーションクーポンはありません。',
     emptyPromosSubtextTemplate: 'リワードコード {code} は Reward Code 欄で引き続き有効です。',
     proofLabel: '公式証明を見る',
-    validityUnconfirmed: 'チェックアウト時に有効期限を確認',
-    regionUnconfirmed: 'チェックアウト時に対象地域を確認',
+    validityUnconfirmed: '期限未記載',
+    regionUnconfirmed: '地域未記載',
     freeShippingLabel: '送料無料',
     tableHeaders: {
       type: '種別',
@@ -588,8 +574,6 @@ const pages: Record<Locale, PageCopy> = {
       validity: '有効期限',
       region: '対象地域',
       verified: '確認日',
-      proof: '証明',
-      action: '操作',
     },
     offerTypeReward: 'リワードコード',
     offerTypeCoupon: 'プロモクーポン',
@@ -648,8 +632,8 @@ const pages: Record<Locale, PageCopy> = {
     emptyPromosNoticeTemplate: '目前沒有已驗證的促銷優惠碼。',
     emptyPromosSubtextTemplate: '獎勵碼 {code} 在 Reward Code 欄位仍保持有效。',
     proofLabel: '查看官方證明',
-    validityUnconfirmed: '有效期限須於結帳時確認',
-    regionUnconfirmed: '適用地區須於結帳時確認',
+    validityUnconfirmed: '未註明期限',
+    regionUnconfirmed: '未註明地區',
     freeShippingLabel: '免運費',
     tableHeaders: {
       type: '類型',
@@ -658,8 +642,6 @@ const pages: Record<Locale, PageCopy> = {
       validity: '有效期限',
       region: '適用地區',
       verified: '驗證日',
-      proof: '證明',
-      action: '操作',
     },
     offerTypeReward: '獎勵碼',
     offerTypeCoupon: '促銷優惠碼',
@@ -718,8 +700,8 @@ const pages: Record<Locale, PageCopy> = {
     emptyPromosNoticeTemplate: '目前没有已验证的促销优惠码。',
     emptyPromosSubtextTemplate: '奖励码 {code} 在 Reward Code 栏位仍保持有效。',
     proofLabel: '查看官方证明',
-    validityUnconfirmed: '有效期限须于结账时确认',
-    regionUnconfirmed: '适用地区须于结账时确认',
+    validityUnconfirmed: '未注明期限',
+    regionUnconfirmed: '未注明地区',
     freeShippingLabel: '免运费',
     tableHeaders: {
       type: '类型',
@@ -728,8 +710,6 @@ const pages: Record<Locale, PageCopy> = {
       validity: '有效期限',
       region: '适用地区',
       verified: '验证日',
-      proof: '证明',
-      action: '操作',
     },
     offerTypeReward: '奖励码',
     offerTypeCoupon: '促销优惠码',
@@ -931,7 +911,8 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
   const resolved = resolveYesStylePage(locale);
   if (!resolved) return null;
 
-  const languageLinks = getRewardArticleLanguageLinks();
+  // Em B1: LanguageSwitcher nos hubs aponta para hub->hub
+  const languageLinks = getHubLanguageLinks();
 
   return (
     <main className="min-h-screen bg-[#fef9f3] pb-24 lg:pb-0">
@@ -957,7 +938,7 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
         </div>
       </section>
 
-      {/* Language Switcher (Preservado em B1) */}
+      {/* Language Switcher (Alterna hub <-> hub em B1) */}
       <section className="px-4 pt-8">
         <div className="mx-auto max-w-5xl">
           <LanguageSwitcher currentLocale={resolved.locale} links={languageLinks} />
@@ -995,14 +976,14 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
         </div>
       </section>
 
-      {/* Seção 2: Cupons Promocionais Verificados (B1.3, B1.4, B1.5) */}
+      {/* Seção 2: Cupons Promocionais Verificados (Tabela simplificada de 6 colunas) */}
       <section className="px-4 py-8">
         <div className="mx-auto max-w-5xl">
           <h2 className="font-heading text-2xl font-black text-[#0f1419]">{resolved.promosSectionTitle}</h2>
 
           {resolved.activePromoOffers.length > 0 ? (
             <div className="mt-6">
-              {/* Table view para Desktop */}
+              {/* Table view para Desktop (6 colunas: Tipo, Código, Desconto, Validade, Região, Verificado) */}
               <div className="hidden md:block overflow-hidden rounded-2xl border border-black/10 bg-white shadow-soft">
                 <table className="w-full text-left text-sm">
                   <thead className="bg-[#0f1d3a] text-white">
@@ -1013,36 +994,30 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
                       <th className="px-4 py-3.5 font-bold">{resolved.tableHeaders.validity}</th>
                       <th className="px-4 py-3.5 font-bold">{resolved.tableHeaders.region}</th>
                       <th className="px-4 py-3.5 font-bold">{resolved.tableHeaders.verified}</th>
-                      <th className="px-4 py-3.5 font-bold">{resolved.tableHeaders.proof}</th>
-                      <th className="px-4 py-3.5 font-bold text-right">{resolved.tableHeaders.action}</th>
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-black/8">
                     {resolved.activePromoOffers.map((promo) => (
                       <tr key={promo.id} className="hover:bg-[#fef9f3] transition-colors">
                         <td className="px-4 py-4 font-semibold text-[#0f1419]">
-                          <span className="inline-flex items-center rounded-md bg-[#ff6b35]/12 px-2 py-1 text-xs font-bold text-[#7c2d12]">
+                          <span className="inline-flex items-center rounded-md bg-[#ff6b35]/12 px-2.5 py-1 text-xs font-bold text-[#7c2d12]">
                             {resolved.offerTypeCoupon}
                           </span>
                         </td>
-                        <td className="px-4 py-4 font-mono font-black text-base text-[#0f1419]">{promo.code}</td>
+                        <td className="px-4 py-4">
+                          <CopyButton
+                            code={promo.code}
+                            label={promo.code}
+                            copiedLabel={resolved.copied}
+                            ariaLabel={promo.copyAria}
+                            variant="outline"
+                            className="font-mono text-base font-black tracking-wider text-[#0f1419] border-[#0f1419]/20 hover:border-[#ff6b35]"
+                          />
+                        </td>
                         <td className="px-4 py-4 font-bold text-[#ff6b35]">{promo.discountLabel}</td>
                         <td className="px-4 py-4 text-xs text-[#0f1419]/75">{promo.validityLabel}</td>
                         <td className="px-4 py-4 text-xs text-[#0f1419]/75">{promo.regionLabel}</td>
                         <td className="px-4 py-4 text-xs text-[#0f1419]/65">{promo.formattedVerifiedDate}</td>
-                        <td className="px-4 py-4 text-xs">
-                          <a
-                            href={promo.evidenceImage || promo.officialSourceUrl}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="font-semibold text-[#ff6b35] hover:underline"
-                          >
-                            {promo.proofLabel}
-                          </a>
-                        </td>
-                        <td className="px-4 py-4 text-right">
-                          <CopyButton code={promo.code} label={resolved.copy} copiedLabel={resolved.copied} ariaLabel={promo.copyAria} />
-                        </td>
                       </tr>
                     ))}
                   </tbody>
@@ -1059,8 +1034,19 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
                       </span>
                       <span className="font-bold text-[#ff6b35] text-sm">{promo.discountLabel}</span>
                     </div>
-                    <p className="mt-3 font-mono text-3xl font-black text-[#0f1419]">{promo.code}</p>
-                    <dl className="mt-3 divide-y divide-black/5 text-xs text-[#0f1419]/75">
+
+                    <div className="mt-3">
+                      <CopyButton
+                        code={promo.code}
+                        label={promo.code}
+                        copiedLabel={resolved.copied}
+                        ariaLabel={promo.copyAria}
+                        variant="outline"
+                        className="w-full justify-center font-mono text-2xl font-black tracking-wider text-[#0f1419] border-[#0f1419]/20 hover:border-[#ff6b35] py-3"
+                      />
+                    </div>
+
+                    <dl className="mt-4 divide-y divide-black/5 text-xs text-[#0f1419]/75">
                       <div className="flex justify-between py-1.5">
                         <dt>{resolved.tableHeaders.validity}:</dt>
                         <dd className="font-medium">{promo.validityLabel}</dd>
@@ -1074,17 +1060,6 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
                         <dd className="font-medium">{promo.formattedVerifiedDate}</dd>
                       </div>
                     </dl>
-                    <div className="mt-4 flex flex-col gap-2.5">
-                      <CopyButton code={promo.code} label={resolved.copy} copiedLabel={resolved.copied} ariaLabel={promo.copyAria} />
-                      <a
-                        href={promo.evidenceImage || promo.officialSourceUrl}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-flex items-center justify-center rounded-lg border border-black/15 py-2 text-xs font-semibold text-[#0f1419]/80 hover:bg-black/5"
-                      >
-                        {promo.proofLabel}
-                      </a>
-                    </div>
                   </div>
                 ))}
               </div>
