@@ -268,12 +268,14 @@ Todos os itens abaixo são obrigatórios:
 ### Gate A → B1
 
 O gate técnico do Projeto A foi cumprido. Antes de iniciar a implementação da
-B1, resta confirmar editorialmente a data de verificação exibida:
+B1, cada oferta deve ter sua própria data de verificação:
 
-- manter `verifiedAt: '2026-07-24'` somente se o código tiver sido realmente
-  testado ou verificado nessa data;
-- caso contrário, usar a última verificação factual confirmada, atualmente
-  registrada como `2026-07-16`.
+- o cupom promocional `BTSVIP15` foi confirmado em funcionamento pelo usuário
+  em 25 de julho de 2026 e deve usar `verifiedAt: '2026-07-25'`;
+- o `CECILIA010` só deve manter `verifiedAt: '2026-07-24'` se o Rewards Code
+  também tiver sido realmente testado ou verificado nessa data;
+- caso contrário, o Rewards Code deve usar sua última verificação factual
+  confirmada.
 
 Essa decisão deve ser registrada no primeiro commit da B1. Nenhuma data pode
 ser atualizada apenas para aparentar conteúdo recente.
@@ -305,6 +307,40 @@ O hub precisa ter uma função claramente diferente dos artigos:
   - conteúdo da fonte factual.
 - Resolver e documentar a pendência de `verifiedAt`.
 - Não permitir outra sessão alterando a mesma branch ou os mesmos arquivos.
+
+### Estado factual inicial da B1
+
+A primeira renderização da lista dinâmica deve partir do seguinte estado:
+
+#### Rewards/Influencer Code
+
+- código: `CECILIA010`;
+- benefício: 5% para novos clientes e 2% para clientes recorrentes, conforme as
+  regras vigentes;
+- destino comercial: `https://ystyle.co/rQYQv`;
+- data de verificação: confirmar separadamente antes da implementação.
+
+#### Cupom promocional
+
+- código: `BTSVIP15`;
+- benefício exibido pela YesStyle: 15% OFF em qualquer pedido;
+- status: ativo e confirmado em funcionamento em 25 de julho de 2026;
+- `verifiedAt: '2026-07-25'`;
+- evidência oficial disponível no projeto:
+  `public/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp`;
+- página onde a campanha foi exibida:
+  `https://www.yesstyle.com/en/home.html`;
+- validade: campanha temporária com contagem regressiva na captura, mas sem
+  horário final suficientemente comprovado para preencher `expiresAt`;
+- região: não publicar como mundial até existir confirmação oficial;
+- cumulatividade: orientar o usuário a testar junto ao Rewards Code e confirmar
+  os dois descontos no checkout, sem promessa absoluta.
+
+O implementador não deve deduzir a validade pelo relógio presente na imagem,
+nem interpretar o “15” do código como fonte do desconto. O benefício vem do
+texto do banner; a situação ativa vem da verificação factual de 25 de julho.
+Se a B1 for publicada depois dessa data, o cupom precisa ser verificado
+novamente imediatamente antes do deploy.
 
 ### B1.1 — Modelo factual por tipo de oferta
 
