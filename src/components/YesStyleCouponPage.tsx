@@ -4,12 +4,11 @@ import Link from 'next/link';
 import { CopyButton, FAQAccordion } from '@/components/CouponComponents';
 import { CouponBottomBar } from '@/components/CouponBottomBar';
 import {
-  YESSTYLE_LOCALES,
   getYesStyleLocaleConfig,
   getRewardArticleLanguageLinks,
   type YesStyleLocale,
 } from '@/lib/i18n/yesstyleCluster';
-import { getPrimaryRewardCode } from '@/lib/yesstyleCoupons';
+import { getPrimaryRewardCode, type YesStyleCouponItem } from '@/lib/yesstyleCoupons';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 
 type Locale = Exclude<YesStyleLocale, 'pt'>;
@@ -40,10 +39,39 @@ type PageCopy = {
   transparencyTemplate: string;
 };
 
+export interface ResolvedYesStylePage {
+  locale: Locale;
+  language: string;
+  title: string;
+  description: string;
+  eyebrow: string;
+  intro: string;
+  updatedLabel: string;
+  formattedDate: string;
+  copy: string;
+  copied: string;
+  copyAria: string;
+  visit: string;
+  details: string;
+  codeLabel: string;
+  discountLabel: string;
+  discountValue: string;
+  fieldLabel: string;
+  fieldValue: string;
+  instructionsTitle: string;
+  instructions: string[];
+  note: string;
+  faqTitle: string;
+  faqs: { question: string; answer: string }[];
+  transparency: string;
+  rewardCode: string;
+  affiliateUrl: string;
+}
+
 const pages: Record<Locale, PageCopy> = {
   en: {
     locale: 'en',
-    language: 'en',
+    language: 'en-US',
     titleTemplate: 'YesStyle Reward Code {code}: Up to {newDiscount}% Extra',
     descriptionTemplate: 'Use the YesStyle reward code {code} at checkout to add {newDiscount}% extra savings alongside active coupon codes.',
     eyebrow: 'YesStyle Reward Code',
@@ -77,7 +105,7 @@ const pages: Record<Locale, PageCopy> = {
   },
   es: {
     locale: 'es',
-    language: 'es',
+    language: 'es-ES',
     titleTemplate: 'Código de recompensa YesStyle {code}: Hasta {newDiscount}% extra',
     descriptionTemplate: 'Usa el código de recompensa {code} en YesStyle para sumar un {newDiscount}% extra junto con los cupones activos.',
     eyebrow: 'Código de recompensa YesStyle',
@@ -111,7 +139,7 @@ const pages: Record<Locale, PageCopy> = {
   },
   fr: {
     locale: 'fr',
-    language: 'fr',
+    language: 'fr-FR',
     titleTemplate: 'Code récompense YesStyle {code} : Jusqu’à {newDiscount} % en plus',
     descriptionTemplate: 'Utilisez le code récompense {code} sur YesStyle pour ajouter {newDiscount} % de réduction aux coupons actifs.',
     eyebrow: 'Code récompense YesStyle',
@@ -145,7 +173,7 @@ const pages: Record<Locale, PageCopy> = {
   },
   de: {
     locale: 'de',
-    language: 'de',
+    language: 'de-DE',
     titleTemplate: 'YesStyle Reward Code {code}: Bis zu {newDiscount} % extra',
     descriptionTemplate: 'Nutze den YesStyle Reward Code {code} und erhalte zusätzlich {newDiscount} % neben aktiven Gutscheincodes.',
     eyebrow: 'YesStyle Reward Code',
@@ -183,7 +211,7 @@ const pages: Record<Locale, PageCopy> = {
     titleTemplate: 'YesStyle 리워드 코드 {code}: 추가 {newDiscount}% 할인',
     descriptionTemplate: 'YesStyle 결제 시 리워드 코드 {code}을 사용해 활성 쿠폰과 함께 추가 {newDiscount}% 혜택을 받으세요.',
     eyebrow: 'YesStyle 리워드 코드',
-    introTemplate: '{code}은 일반 쿠폰이 아닌 리워드 코드입니다. Reward Code 전용 칸에 입력하면 추가 {newDiscount}% 혜택을 받을 수 있습니다.',
+    introTemplate: '{code}은 일반 쿠폰이 아닌 리워드 코드입니다. Reward Code 전용 칸에 입력하면 최대 추가 {newDiscount}% (첫 구매 {newDiscount}% / 재구매 {returningDiscount}%) 혜택을 받을 수 있습니다.',
     updated: '확인일',
     copy: '코드 복사',
     copied: '복사됨!',
@@ -209,7 +237,7 @@ const pages: Record<Locale, PageCopy> = {
       { question: '{code} 코드를 다른 쿠폰과 함께 사용할 수 있나요?', answer: '네. {code}은 Reward Code에, 프로모션 쿠폰은 Coupon Code에 입력하세요.' },
       { question: '할인율은 얼마인가요?', answer: 'YesStyle의 현재 조건과 대상 상품에 따라 추가 {newDiscount}% 혜택을 제공합니다.' },
     ],
-    transparencyTemplate: '이 페이지에는 제휴 링크가 포함될 수 있습니다. 코드를 사용하거나 YesStyle을 방문하면 추가 비용 없이 Em Casa com Cecília를 지원할 수 있습니다.',
+    transparencyTemplate: '이 페이지에는 제휴 링크가 포함될 수 있습니다. 인플루언서 코드 {code}를 사용하거나 YesStyle을 방문하면 추가 비용 없이 Em Casa com Cecília를 지원할 수 있습니다.',
   },
   ja: {
     locale: 'ja',
@@ -217,9 +245,9 @@ const pages: Record<Locale, PageCopy> = {
     titleTemplate: 'YesStyle リワードコード {code}：さらに{newDiscount}%オフ',
     descriptionTemplate: 'YesStyleでリワードコード{code}を使うと、有効なクーポンに加えてさらに{newDiscount}%お得になります。',
     eyebrow: 'YesStyle リワードコード',
-    introTemplate: '{code}は通常のクーポンではなくリワードコードです。Reward Code欄に入力すると追加で{newDiscount}%の特典が適用されます。',
+    introTemplate: '{code}は通常のクーポンではなくリワードコードです。Reward Code欄に入力すると最大で追加{newDiscount}%（初回{newDiscount}% / 2回目以降{returningDiscount}%）の特典が適用されます。',
     updated: '確認日',
-    copy: 'コード를 コピー',
+    copy: 'コードをコピー',
     copied: 'コピーしました！',
     copyAriaTemplate: 'コード {code} をコピー',
     visit: 'YesStyleへ',
@@ -243,15 +271,15 @@ const pages: Record<Locale, PageCopy> = {
       { question: '{code}はほかのクーポンと併用できますか？', answer: 'はい。{code}はReward Code、プロモーションコードはCoupon Codeに入力してください。' },
       { question: '割引率はいくらですか？', answer: 'YesStyleの最新条件と対象商品に応じて、さらに{newDiscount}%の特典が加わります。' },
     ],
-    transparencyTemplate: 'このページにはアフィリエイトリンクが含まれる場合があります。コードの利用またはYesStyleへの訪問は、追加費用なしでEm Casa com Cecíliaを支援することがあります。',
+    transparencyTemplate: 'このページにはアフィリエイトリンクが含まれる場合があります。インフルエンサーコード {code} の利用またはYesStyleへの訪問は、追加費用なしでEm Casa com Cecíliaを支援することがあります。',
   },
   'zh-hant': {
     locale: 'zh-hant',
-    language: 'zh-Hant',
+    language: 'zh-HK',
     titleTemplate: 'YesStyle 獎勵碼 {code}：額外 {newDiscount}% 優惠',
     descriptionTemplate: '在 YesStyle 結帳時使用獎勵碼 {code}，可與有效優惠碼疊加，額外享有 {newDiscount}% 優惠。',
     eyebrow: 'YesStyle 獎勵碼',
-    introTemplate: '{code} 是獎勵碼，並非一般優惠碼。請在 Reward Code 專用欄位輸入，即可獲得額外 {newDiscount}% 優惠。',
+    introTemplate: '{code} 是獎勵碼，並非一般優惠碼。請在 Reward Code 專用欄位輸入，即可獲得最高額外 {newDiscount}% 優惠（首購 {newDiscount}% / 複購 {returningDiscount}%）。',
     updated: '已驗證',
     copy: '複製優惠碼',
     copied: '已複製！',
@@ -277,15 +305,15 @@ const pages: Record<Locale, PageCopy> = {
       { question: '{code} 可以與其他優惠碼同時使用嗎？', answer: '可以。{code} 請輸入 Reward Code，促銷優惠碼請輸入 Coupon Code。' },
       { question: '可享多少優惠？', answer: '依 YesStyle 當前條款及適用商品，可額外享有 {newDiscount}% 優惠。' },
     ],
-    transparencyTemplate: '此頁面可能包含聯盟連結。使用代碼或前往 YesStyle 不會增加您的費用，並可能支持 Em Casa com Cecília。',
+    transparencyTemplate: '此頁面可能包含聯盟連結。使用網紅優惠碼 {code} 或前往 YesStyle 不會增加您的費用，並可能支持 Em Casa com Cecília。',
   },
   'zh-hans': {
     locale: 'zh-hans',
-    language: 'zh-Hans',
+    language: 'zh-CN',
     titleTemplate: 'YesStyle 奖励码 {code}：额外 {newDiscount}% 优惠',
     descriptionTemplate: '在 YesStyle 结账时使用奖励码 {code}，可与有效优惠码叠加，额外享受 {newDiscount}% 优惠。',
     eyebrow: 'YesStyle 奖励码',
-    introTemplate: '{code} 是奖励码，而非普通优惠码。请在 Reward Code 专用栏位输入，即可获得额外 {newDiscount}% 优惠。',
+    introTemplate: '{code} 是奖励码，而非普通优惠码。请在 Reward Code 专用栏位输入，即可获得最高额外 {newDiscount}% 优惠（首购 {newDiscount}% / 复购 {returningDiscount}%）。',
     updated: '已验证',
     copy: '复制优惠码',
     copied: '已复制！',
@@ -311,7 +339,7 @@ const pages: Record<Locale, PageCopy> = {
       { question: '{code} 可以和其他优惠码一起使用吗？', answer: '可以。请将 {code} 输入 Reward Code，将促销优惠码输入 Coupon Code。' },
       { question: '优惠是多少？', answer: '根据 YesStyle 当前条款及适用商品，可额外享受 {newDiscount}% 优惠。' },
     ],
-    transparencyTemplate: '此页面可能包含联盟链接。使用代码或访问 YesStyle 不会增加您的费用，并可能支持 Em Casa com Cecília。',
+    transparencyTemplate: '此页面可能包含联盟链接。使用网红优惠码 {code} 或访问 YesStyle 不会增加您的费用，并可能支持 Em Casa com Cecília。',
   },
 };
 
@@ -321,30 +349,80 @@ export function getYesStylePage(locale: string): PageCopy | null {
   return pages[locale as Locale] || null;
 }
 
-function fillPlaceholders(template: string, reward: ReturnType<typeof getPrimaryRewardCode>): string {
+export function formatIsoDateUTC(dateIso: string, language: string): string {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(dateIso)) {
+    throw new Error(`[formatIsoDateUTC] Formato de data ISO inválido (esperado YYYY-MM-DD): "${dateIso}"`);
+  }
+  const [year, month, day] = dateIso.split('-').map(Number);
+  const date = new Date(Date.UTC(year, month - 1, day));
+  return date.toLocaleDateString(language, {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+    timeZone: 'UTC',
+  });
+}
+
+function fillPlaceholders(template: string, reward: YesStyleCouponItem): string {
   return template
     .replace(/\{code\}/g, reward.code)
     .replace(/\{newDiscount\}/g, String(reward.newCustomerDiscount))
     .replace(/\{returningDiscount\}/g, String(reward.returningCustomerDiscount));
 }
 
-export function getYesStyleMetadata(locale: string): Metadata {
+export function resolveYesStylePage(locale: string, rewardInput?: YesStyleCouponItem): ResolvedYesStylePage | null {
   const page = getYesStylePage(locale);
-  if (!page) return {};
-  const config = getYesStyleLocaleConfig(locale);
-  const reward = getPrimaryRewardCode();
-  const canonical = `https://emcasacomcecilia.com${config.rewardArticlePath}`;
+  if (!page) return null;
 
-  const title = fillPlaceholders(page.titleTemplate, reward);
-  const description = fillPlaceholders(page.descriptionTemplate, reward);
+  const reward = rewardInput || getPrimaryRewardCode();
+  const formattedDate = formatIsoDateUTC(reward.verifiedAt, page.language);
 
   return {
-    title,
-    description,
+    locale: page.locale,
+    language: page.language,
+    title: fillPlaceholders(page.titleTemplate, reward),
+    description: fillPlaceholders(page.descriptionTemplate, reward),
+    eyebrow: page.eyebrow,
+    intro: fillPlaceholders(page.introTemplate, reward),
+    updatedLabel: page.updated,
+    formattedDate,
+    copy: page.copy,
+    copied: page.copied,
+    copyAria: fillPlaceholders(page.copyAriaTemplate, reward),
+    visit: page.visit,
+    details: page.details,
+    codeLabel: page.codeLabel,
+    discountLabel: page.discountLabel,
+    discountValue: fillPlaceholders(page.discountValueTemplate, reward),
+    fieldLabel: page.fieldLabel,
+    fieldValue: page.fieldValue,
+    instructionsTitle: fillPlaceholders(page.instructionsTitleTemplate, reward),
+    instructions: page.instructionsTemplates.map((item) => fillPlaceholders(item, reward)),
+    note: fillPlaceholders(page.noteTemplate, reward),
+    faqTitle: page.faqTitle,
+    faqs: page.faqs.map((faq) => ({
+      question: fillPlaceholders(faq.question, reward),
+      answer: fillPlaceholders(faq.answer, reward),
+    })),
+    transparency: fillPlaceholders(page.transparencyTemplate, reward),
+    rewardCode: reward.code,
+    affiliateUrl: reward.affiliateUrl,
+  };
+}
+
+export function getYesStyleMetadata(locale: string): Metadata {
+  const resolved = resolveYesStylePage(locale);
+  if (!resolved) return {};
+  const config = getYesStyleLocaleConfig(locale);
+  const canonical = `https://emcasacomcecilia.com${config.rewardArticlePath}`;
+
+  return {
+    title: resolved.title,
+    description: resolved.description,
     alternates: { canonical },
     openGraph: {
-      title,
-      description,
+      title: resolved.title,
+      description: resolved.description,
       url: canonical,
       locale: config.openGraphLocale,
       type: 'website',
@@ -353,31 +431,10 @@ export function getYesStyleMetadata(locale: string): Metadata {
 }
 
 export function YesStyleCouponPage({ locale }: { locale: string }) {
-  const page = getYesStylePage(locale);
-  if (!page) return null;
-
-  const rewardCodeInfo = getPrimaryRewardCode();
-  const date = new Date(rewardCodeInfo.verifiedAt).toLocaleDateString(page.language, {
-    day: 'numeric',
-    month: 'long',
-    year: 'numeric',
-  });
+  const resolved = resolveYesStylePage(locale);
+  if (!resolved) return null;
 
   const languageLinks = getRewardArticleLanguageLinks();
-
-  const title = fillPlaceholders(page.titleTemplate, rewardCodeInfo);
-  const description = fillPlaceholders(page.descriptionTemplate, rewardCodeInfo);
-  const intro = fillPlaceholders(page.introTemplate, rewardCodeInfo);
-  const copyAria = fillPlaceholders(page.copyAriaTemplate, rewardCodeInfo);
-  const discountValue = fillPlaceholders(page.discountValueTemplate, rewardCodeInfo);
-  const instructionsTitle = fillPlaceholders(page.instructionsTitleTemplate, rewardCodeInfo);
-  const instructions = page.instructionsTemplates.map((item) => fillPlaceholders(item, rewardCodeInfo));
-  const note = fillPlaceholders(page.noteTemplate, rewardCodeInfo);
-  const faqs = page.faqs.map((faq) => ({
-    question: fillPlaceholders(faq.question, rewardCodeInfo),
-    answer: fillPlaceholders(faq.answer, rewardCodeInfo),
-  }));
-  const transparency = fillPlaceholders(page.transparencyTemplate, rewardCodeInfo);
 
   return (
     <main className="min-h-screen bg-[#fef9f3] pb-24 lg:pb-0">
@@ -393,10 +450,10 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
               <Image src="/images/logos/yesstyle.jpg" alt="YesStyle" fill sizes="80px" className="object-contain p-2" priority />
             </div>
             <div>
-              <p className="text-xs font-bold uppercase tracking-[.16em] text-[#ffd23f]">{page.eyebrow}</p>
-              <h1 className="mt-2 font-heading text-3xl font-black leading-tight md:text-5xl">{title}</h1>
-              <p className="mt-4 max-w-2xl text-white/78">{intro}</p>
-              <p className="mt-4 text-xs text-white/55">{page.updated}: {date}</p>
+              <p className="text-xs font-bold uppercase tracking-[.16em] text-[#ffd23f]">{resolved.eyebrow}</p>
+              <h1 className="mt-2 font-heading text-3xl font-black leading-tight md:text-5xl">{resolved.title}</h1>
+              <p className="mt-4 max-w-2xl text-white/78">{resolved.intro}</p>
+              <p className="mt-4 text-xs text-white/55">{resolved.updatedLabel}: {resolved.formattedDate}</p>
             </div>
           </div>
         </div>
@@ -404,18 +461,18 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
 
       <section className="px-4 pt-8">
         <div className="mx-auto max-w-5xl">
-          <LanguageSwitcher currentLocale={page.locale} links={languageLinks} />
+          <LanguageSwitcher currentLocale={resolved.locale} links={languageLinks} />
         </div>
       </section>
 
       <section className="px-4 py-12">
         <div className="mx-auto max-w-5xl rounded-[2rem] bg-[#111827] p-7 text-white shadow-large md:p-10">
-          <p className="font-mono text-4xl font-black tracking-[.08em] md:text-6xl">{rewardCodeInfo.code}</p>
-          <p className="mt-4 max-w-2xl text-white/85">{description}</p>
+          <p className="font-mono text-4xl font-black tracking-[.08em] md:text-6xl">{resolved.rewardCode}</p>
+          <p className="mt-4 max-w-2xl text-white/85">{resolved.description}</p>
           <div className="mt-7 flex flex-col gap-3 sm:flex-row">
-            <CopyButton code={rewardCodeInfo.code} label={page.copy} copiedLabel={page.copied} ariaLabel={copyAria} />
-            <a href={rewardCodeInfo.affiliateUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center rounded-lg border border-white/30 px-4 py-2.5 text-sm font-semibold hover:bg-white/15">
-              {page.visit}
+            <CopyButton code={resolved.rewardCode} label={resolved.copy} copiedLabel={resolved.copied} ariaLabel={resolved.copyAria} />
+            <a href={resolved.affiliateUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center rounded-lg border border-white/30 px-4 py-2.5 text-sm font-semibold hover:bg-white/15">
+              {resolved.visit}
             </a>
           </div>
         </div>
@@ -423,24 +480,24 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
 
       <article className="bg-white px-4 py-14">
         <div className="mx-auto max-w-3xl">
-          <h2 className="font-heading text-2xl font-black text-[#0f1419]">{page.details}</h2>
+          <h2 className="font-heading text-2xl font-black text-[#0f1419]">{resolved.details}</h2>
           <dl className="mt-6 divide-y divide-black/8 rounded-2xl border border-black/8">
-            <Detail label={page.codeLabel} value={rewardCodeInfo.code} />
-            <Detail label={page.discountLabel} value={discountValue} />
-            <Detail label={page.fieldLabel} value={page.fieldValue} />
+            <Detail label={resolved.codeLabel} value={resolved.rewardCode} />
+            <Detail label={resolved.discountLabel} value={resolved.discountValue} />
+            <Detail label={resolved.fieldLabel} value={resolved.fieldValue} />
           </dl>
-          <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">{instructionsTitle}</h2>
+          <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">{resolved.instructionsTitle}</h2>
           <ol className="mt-4 list-decimal space-y-3 pl-6 text-[#0f1419]/78">
-            {instructions.map((item) => <li key={item}>{item}</li>)}
+            {resolved.instructions.map((item) => <li key={item}>{item}</li>)}
           </ol>
-          <p className="mt-4 rounded-2xl border border-[#ff6b35]/25 bg-[#fff7ed] px-4 py-3 text-sm text-[#7c2d12]">{note}</p>
-          <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">{page.faqTitle}</h2>
-          <div className="mt-4"><FAQAccordion items={faqs} /></div>
-          <div className="mt-14 rounded-2xl bg-[#fef9f3] p-6 text-sm leading-relaxed text-[#0f1419]/68">{transparency}</div>
+          <p className="mt-4 rounded-2xl border border-[#ff6b35]/25 bg-[#fff7ed] px-4 py-3 text-sm text-[#7c2d12]">{resolved.note}</p>
+          <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">{resolved.faqTitle}</h2>
+          <div className="mt-4"><FAQAccordion items={resolved.faqs} /></div>
+          <div className="mt-14 rounded-2xl bg-[#fef9f3] p-6 text-sm leading-relaxed text-[#0f1419]/68">{resolved.transparency}</div>
         </div>
       </article>
 
-      <CouponBottomBar coupon={rewardCodeInfo.code} cta={{ url: rewardCodeInfo.affiliateUrl, label: page.visit }} locale={page.locale} />
+      <CouponBottomBar coupon={resolved.rewardCode} cta={{ url: resolved.affiliateUrl, label: resolved.visit }} locale={resolved.locale} />
     </main>
   );
 }

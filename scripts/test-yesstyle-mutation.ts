@@ -1,5 +1,5 @@
 import { YESSTYLE_COUPONS_FACTUAL } from '../src/lib/yesstyleCoupons';
-import { getYesStylePage, getYesStyleMetadata, yesStyleLocales } from '../src/components/YesStyleCouponPage';
+import { resolveYesStylePage, getYesStyleMetadata, yesStyleLocales, formatIsoDateUTC } from '../src/components/YesStyleCouponPage';
 import { COUPONS } from '../src/lib/couponsData';
 import { getRewardArticleLanguageLinks } from '../src/lib/i18n/yesstyleCluster';
 
@@ -7,26 +7,36 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
   const errors: string[] = [];
   const primaryReward = YESSTYLE_COUPONS_FACTUAL[0];
 
-  // 1. Mapeamento de links de artigo
+  // 1. Mapeamento de links de artigo no seletor de idiomas
   const rewardLinks = getRewardArticleLanguageLinks();
   if (rewardLinks.pt !== '/reviews/codigo-cecilia010-yesstyle-como-usar') {
     errors.push(`Seletor de idioma PT no artigo aponta para "${rewardLinks.pt}" em vez de "/reviews/codigo-cecilia010-yesstyle-como-usar"`);
   }
 
-  // Guardar estado original
+  // 2. Teste de formatação de data visível em UTC (sem recuar um dia por fuso local)
+  const utcDateEn = formatIsoDateUTC('2026-07-24', 'en-US');
+  if (!utcDateEn.includes('July 24, 2026')) {
+    errors.push(`Data visível en-US esperada "July 24, 2026", obteve "${utcDateEn}"`);
+  }
+  const utcDatePt = formatIsoDateUTC('2026-07-24', 'pt-BR');
+  if (!utcDatePt.includes('24 de julho de 2026')) {
+    errors.push(`Data visível pt-BR esperada "24 de julho de 2026", obteve "${utcDatePt}"`);
+  }
+
+  // Guardar estado factual original
   const origCode = primaryReward.code;
   const origNew = primaryReward.newCustomerDiscount;
   const origRet = primaryReward.returningCustomerDiscount;
   const origVerified = primaryReward.verifiedAt;
 
   try {
-    // 2. Executar mutação em memória
+    // 3. Executar mutação em memória (ex: CECILIA010 -> MUTATIONTEST99, 5%/2% -> 99%/44%, 2026-07-24 -> 2026-11-25)
     primaryReward.code = 'MUTATIONTEST99';
     primaryReward.newCustomerDiscount = 99;
     primaryReward.returningCustomerDiscount = 44;
     primaryReward.verifiedAt = '2026-11-25';
 
-    // 3. Testar Hub PT em couponsData
+    // 4. Testar Hub PT em couponsData
     const ptHub = COUPONS.find((c) => c.slug === 'yesstyle');
     if (!ptHub) {
       errors.push('Hub PT "yesstyle" não encontrado em COUPONS');
@@ -56,26 +66,74 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
       }
     }
 
-    // 4. Testar todos os 8 Hubs Internacionais (YesStyleCouponPage)
+    // 5. Testar resolvedor de produção resolveYesStylePage para todos os 8 dicionários internacionais
     for (const locale of yesStyleLocales) {
-      const page = getYesStylePage(locale);
+      const resolved = resolveYesStylePage(locale);
       const meta = getYesStyleMetadata(locale);
 
-      if (!page) {
-        errors.push(`Página do hub para locale "${locale}" retornou null`);
+      if (!resolved) {
+        errors.push(`resolveYesStylePage("${locale}") retornou null`);
         continue;
       }
 
+      // Check Japanese particle fix
+      if (locale === 'ja' && resolved.copy !== 'コードをコピー') {
+        errors.push(`Botão japonês de cópia com partícula incorreta: esperado "コードをコピー", obteve "${resolved.copy}"`);
+      }
+
+      // Check visible UTC date format (November 25, 2026 / 25 de noviembre de 2026)
+      if (locale === 'en' && !resolved.formattedDate.includes('November 25, 2026')) {
+        errors.push(`Data visível en-US esperada "November 25, 2026", obteve "${resolved.formattedDate}"`);
+      }
+
+      // Check Metadata title and description
       const titleStr = typeof meta.title === 'string' ? meta.title : '';
       if (!titleStr.includes('MUTATIONTEST99') || !titleStr.includes('99')) {
         errors.push(`Metadata title para locale "${locale}" não propagou mutação: "${titleStr}"`);
       }
 
-      const formattedFaqAns = page.faqs[0]?.answer
-        .replace(/\{code\}/g, primaryReward.code)
-        .replace(/\{newDiscount\}/g, String(primaryReward.newCustomerDiscount));
-      if (!formattedFaqAns?.includes('MUTATIONTEST99')) {
-        errors.push(`FAQ answer para locale "${locale}" não propagou mutação de código`);
+      // Varrer recursivamente todos os campos resolvidos para verificar vazamento de placeholders
+      const stringsToAudit: string[] = [
+        resolved.title,
+        resolved.description,
+        resolved.intro,
+        resolved.copyAria,
+        resolved.discountValue,
+        resolved.instructionsTitle,
+        ...resolved.instructions,
+        resolved.note,
+        resolved.transparency,
+        ...resolved.faqs.map((f) => f.question),
+        ...resolved.faqs.map((f) => f.answer),
+      ];
+
+      for (const str of stringsToAudit) {
+        if (str.includes('{code}') || str.includes('{newDiscount}') || str.includes('{returningDiscount}')) {
+          errors.push(`Placeholder vazado não resolvido em locale "${locale}": "${str}"`);
+        }
+      }
+
+      // Verificar presença da mutação nos campos chave resolvidos
+      if (!resolved.title.includes('MUTATIONTEST99')) {
+        errors.push(`Título resolvido em locale "${locale}" não contém o código mutado: "${resolved.title}"`);
+      }
+      if (!resolved.intro.includes('99') || !resolved.intro.includes('44')) {
+        errors.push(`Intro resolvida em locale "${locale}" não contém descontos mutados: "${resolved.intro}"`);
+      }
+      if (!resolved.discountValue.includes('99') || !resolved.discountValue.includes('44')) {
+        errors.push(`discountValue resolvido em locale "${locale}" não contém descontos mutados: "${resolved.discountValue}"`);
+      }
+      if (!resolved.instructionsTitle.includes('MUTATIONTEST99')) {
+        errors.push(`instructionsTitle resolvido em locale "${locale}" não contém o código mutado`);
+      }
+      if (!resolved.instructions[0].includes('MUTATIONTEST99')) {
+        errors.push(`Primeira instrução resolvida em locale "${locale}" não contém o código mutado`);
+      }
+      if (!resolved.note.includes('MUTATIONTEST99')) {
+        errors.push(`Nota resolvida em locale "${locale}" não contém o código mutado`);
+      }
+      if (!resolved.transparency.includes('MUTATIONTEST99')) {
+        errors.push(`Transparência resolvida em locale "${locale}" não contém o código mutado`);
       }
     }
   } finally {
@@ -97,7 +155,9 @@ if (require.main === module) {
   const result = runYesStyleMutationTest();
   if (result.success) {
     console.log('✅ TESTE DE MUTAÇÃO PASSOU COM SUCESSO!');
-    console.log('   - Mutação em memória de código (MUTATIONTEST99), percentuais (99%/44%) e data (2026-11-25) propagada para 100% dos hubs e metadatas!');
+    console.log('   - resolvedor resolveYesStylePage validado sem vazamento de placeholders!');
+    console.log('   - datas visíveis formatadas estritamente em UTC!');
+    console.log('   - rótulo japonês verificado!');
     process.exit(0);
   } else {
     console.error('❌ FALHA NO TESTE DE MUTAÇÃO:');

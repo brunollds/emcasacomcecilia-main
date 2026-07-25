@@ -396,6 +396,17 @@ for (const key of YESSTYLE_LOCALE_KEYS) {
 }
 
 // 2. Validação da integridade dos cupons factuais
+export function isValidISODateString(value: string): boolean {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(value)) return false;
+  const [y, m, d] = value.split('-').map(Number);
+  const date = new Date(Date.UTC(y, m - 1, d));
+  return (
+    date.getUTCFullYear() === y &&
+    date.getUTCMonth() + 1 === m &&
+    date.getUTCDate() === d
+  );
+}
+
 const nowTimestamp = new Date().getTime();
 
 for (const coupon of YESSTYLE_COUPONS_FACTUAL) {
@@ -406,15 +417,17 @@ for (const coupon of YESSTYLE_COUPONS_FACTUAL) {
     if (!coupon.affiliateUrl) {
       reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" sem affiliateUrl` });
     }
-    if (!coupon.verifiedAt || Number.isNaN(new Date(coupon.verifiedAt).getTime())) {
-      reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" com verifiedAt ausente ou inválida` });
+    if (!coupon.verifiedAt || !isValidISODateString(coupon.verifiedAt)) {
+      reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" com verifiedAt ausente, malformada ou calendário impossível: "${coupon.verifiedAt}"` });
     }
     if (coupon.expiresAt) {
-      const expiryDate = new Date(`${coupon.expiresAt}T23:59:59.999Z`).getTime();
-      if (Number.isNaN(expiryDate)) {
-        reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" com expiresAt inválida` });
-      } else if (expiryDate < nowTimestamp) {
-        reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" expirou em ${coupon.expiresAt}` });
+      if (!isValidISODateString(coupon.expiresAt)) {
+        reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" com expiresAt malformada ou calendário impossível: "${coupon.expiresAt}"` });
+      } else {
+        const expiryDate = new Date(`${coupon.expiresAt}T23:59:59.999Z`).getTime();
+        if (expiryDate < nowTimestamp) {
+          reportError({ type: 'review', id: -1, slug: '__yesstyle_coupons__', message: `Cupom ativo "${coupon.code}" expirou em ${coupon.expiresAt}` });
+        }
       }
     }
   }
