@@ -45,7 +45,7 @@ jobs:
       DOMAIN: emcasacomcecilia.com
       ROOT: /home/u150185510/domains/emcasacomcecilia.com
       APP_DIR: /home/u150185510/domains/emcasacomcecilia.com/nodejs
-      RETAIN_RELEASES: '3'
+      RETAIN_RELEASES: '1'
       HOSTINGER_ACCOUNT: u150185510
       SSH_KEY: ${{ secrets.HOSTINGER_SSH_KEY }}
       KNOWN_HOSTS: ${{ secrets.HOSTINGER_KNOWN_HOSTS }}
