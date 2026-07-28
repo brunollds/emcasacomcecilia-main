@@ -54,17 +54,22 @@ export const YESSTYLE_COUPONS_FACTUAL: YesStyleOffer[] = [
     regions: ['GLOBAL'],
   },
   {
-    id: 'btsvip15-promo',
-    code: 'BTSVIP15',
+    id: 'bts26-promo',
+    code: 'BTS26',
     type: 'coupon',
-    discount: { kind: 'percentage', value: 15 },
-    verifiedAt: '2026-07-25',
-    recheckBy: '2026-07-27',
-    officialSourceUrl: 'https://www.yesstyle.com/en/home.html',
+    discount: { kind: 'text', label: '8–15% OFF' },
+    verifiedAt: '2026-07-28',
+    // Termos oficiais (help hsi.2839): promoção de 28/07/2026 00:00 GMT a 30/07/2026 23:59 GMT.
+    expiresAt: '2026-07-30',
+    officialSourceUrl: 'https://apparatus.yesstyle.com/es/joyciful/list.html/bpt.299_bid.331185?bcc=14121',
     affiliateUrl: 'https://ystyle.co/rQYQv',
-    evidenceImage: '/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp',
+    eligibility: [
+      '8% OFF em pedidos a partir de US$ 79',
+      '10% OFF em pedidos a partir de US$ 149',
+      '15% OFF em pedidos a partir de US$ 199',
+    ],
     status: 'active',
-    regions: [],
+    regions: ['GLOBAL'],
   },
 ];
 

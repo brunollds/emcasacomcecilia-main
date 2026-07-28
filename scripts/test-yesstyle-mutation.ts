@@ -106,19 +106,19 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
 
   const promoToMutate = activePromos[0];
   const origPromoCode = promoToMutate ? promoToMutate.code : '';
-  const origPromoVal = promoToMutate && promoToMutate.discount.kind === 'percentage' ? promoToMutate.discount.value : 0;
+  const origPromoDiscount = promoToMutate ? { ...promoToMutate.discount } : null;
   const origPromoVerified = promoToMutate ? promoToMutate.verifiedAt : '';
 
   try {
-    // 4. Executar mutação em memória (ex: CECILIA010 -> MUTATIONTEST99, BTSVIP15 -> PROMOTEST88)
+    // 4. Executar mutação em memória dos dois códigos factuais
     primaryReward.code = 'MUTATIONTEST99';
     primaryReward.newCustomerDiscount = 99;
     primaryReward.returningCustomerDiscount = 44;
     primaryReward.verifiedAt = '2026-11-25';
 
-    if (promoToMutate && promoToMutate.discount.kind === 'percentage') {
+    if (promoToMutate) {
       promoToMutate.code = 'PROMOTEST88';
-      promoToMutate.discount.value = 88;
+      promoToMutate.discount = { kind: 'percentage', value: 88 };
       promoToMutate.verifiedAt = '2026-11-26';
     }
 
@@ -265,7 +265,7 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
           errors.push(`Mensagem de estado sem cupons inválida para locale "${locale}": "${emptyStateResolved.emptyPromosNotice}"`);
         }
         for (const inst of emptyStateResolved.instructions) {
-          if (inst.includes('BTSVIP15') || inst.includes('PROMOTEST88')) {
+          if (inst.includes(origPromoCode) || inst.includes('PROMOTEST88')) {
             errors.push(`Instrução do estado sem cupom promocional contém código promocional resíduo em "${locale}": "${inst}"`);
           }
         }
@@ -278,9 +278,9 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
     primaryReward.returningCustomerDiscount = origRewardRet;
     primaryReward.verifiedAt = origRewardVerified;
 
-    if (promoToMutate && promoToMutate.discount.kind === 'percentage') {
+    if (promoToMutate && origPromoDiscount) {
       promoToMutate.code = origPromoCode;
-      promoToMutate.discount.value = origPromoVal;
+      promoToMutate.discount = origPromoDiscount;
       promoToMutate.verifiedAt = origPromoVerified; // Restauração exata do valor original!
     }
   }
