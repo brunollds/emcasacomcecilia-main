@@ -3,54 +3,8 @@
 // (que renderiza rascunhos da central com os MESMOS componentes de produção).
 import { getCategorySlug, getRecipeImage, getRecipeImageAlt, getRecipePrimaryCategory, getRecipeCuisine } from '@/lib/data';
 import { buildSchemaAuthors, minutesToIsoDuration, normalizeRecipe } from '@/lib/content';
-
-function getYoutubeVideoId(url) {
-  if (!url) return null;
-
-  try {
-    const parsed = new URL(url);
-    const hostname = parsed.hostname.replace(/^www\./, '');
-
-    if (hostname === 'youtu.be') {
-      return parsed.pathname.split('/').filter(Boolean)[0] || null;
-    }
-
-    if (hostname === 'youtube.com' || hostname === 'm.youtube.com') {
-      if (parsed.pathname === '/watch') {
-        return parsed.searchParams.get('v');
-      }
-
-      const [type, id] = parsed.pathname.split('/').filter(Boolean);
-      if (['embed', 'shorts', 'live'].includes(type)) {
-        return id || null;
-      }
-    }
-  } catch {
-    return null;
-  }
-
-  return null;
-}
-
-function getYoutubeEmbedUrl(url) {
-  const id = getYoutubeVideoId(url);
-  return id ? `https://www.youtube.com/embed/${id}` : null;
-}
-
-function getYoutubeWatchUrl(url) {
-  const id = getYoutubeVideoId(url);
-  return id ? `https://www.youtube.com/watch?v=${id}` : null;
-}
-
-function getAbsoluteUrl(url, baseUrl) {
-  if (!url) return null;
-
-  try {
-    return new URL(url, baseUrl).toString();
-  } catch {
-    return null;
-  }
-}
+import { getYoutubeEmbedUrl } from '@/lib/video-metadata';
+import { buildYoutubeVideoObject } from '@/lib/video-schema';
 
 // Função auxiliar para converter tempo legível (ex: '15 min', '1h 20 min') para ISO 8601 (ex: 'PT15M', 'PT1H20M')
 function convertToISO8601(timeStr) {
@@ -155,8 +109,12 @@ export function buildRecipeTemplateProps(recipe) {
     ],
   };
 
-  const youtubeVideoId = getYoutubeVideoId(recipe.youtubeUrl);
-  const youtubeWatchUrl = getYoutubeWatchUrl(recipe.youtubeUrl);
+  const videoJsonLd = buildYoutubeVideoObject({
+    url: recipe.youtubeUrl,
+    thumbnailUrl: recipe.videoThumbnail,
+    uploadDate: recipe.videoUploadDate,
+    baseUrl,
+  });
 
   // JSON-LD para Google Recipes
   const jsonLd = {
@@ -199,19 +157,7 @@ export function buildRecipeTemplateProps(recipe) {
         calories: recipe.calories,
       },
     }),
-    ...(youtubeVideoId && recipe.videoUploadDate && {
-      video: {
-        '@type': 'VideoObject',
-        name: recipe.title,
-        description: recipe.description,
-        thumbnailUrl: recipe.videoThumbnail
-          ? getAbsoluteUrl(recipe.videoThumbnail, baseUrl)
-          : `https://img.youtube.com/vi/${youtubeVideoId}/hqdefault.jpg`,
-        uploadDate: recipe.videoUploadDate,
-        url: youtubeWatchUrl,
-        embedUrl: youtubeEmbedUrl,
-      },
-    }),
+    ...(videoJsonLd && { video: videoJsonLd }),
   };
 
   return {

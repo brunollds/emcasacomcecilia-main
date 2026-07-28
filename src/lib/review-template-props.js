@@ -2,21 +2,16 @@ import { getReviewSlug, publishedReviews } from '@/lib/data';
 import { buildSchemaAuthors, normalizeReview } from '@/lib/content';
 import { YESSTYLE_LOCALES, findYesStyleLocaleFromSlugOrPath } from '@/lib/i18n/yesstyleCluster';
 import { getShellCopy } from '@/lib/i18n/shellDictionary';
+import {
+  getPrimaryLocalVideoMeta,
+  getYoutubeEmbedUrl,
+} from '@/lib/video-metadata';
+import {
+  buildLocalVideoObject,
+  buildYoutubeVideoObject,
+} from '@/lib/video-schema';
 
-export function getYoutubeEmbedUrl(url) {
-  if (!url) return null;
-
-  const watchMatch = url.match(/youtube\.com\/watch\?v=([\w-]+)/);
-  if (watchMatch) return `https://www.youtube.com/embed/${watchMatch[1]}`;
-
-  const shortMatch = url.match(/youtu\.be\/([\w-]+)/);
-  if (shortMatch) return `https://www.youtube.com/embed/${shortMatch[1]}`;
-
-  const shortsMatch = url.match(/youtube\.com\/shorts\/([\w-]+)/);
-  if (shortsMatch) return `https://www.youtube.com/embed/${shortsMatch[1]}`;
-
-  return null;
-}
+export { getYoutubeEmbedUrl };
 
 export function getRelatedReviews(review) {
   return publishedReviews
@@ -45,6 +40,18 @@ export function buildReviewTemplateProps(review) {
 
   const baseUrl = 'https://emcasacomcecilia.com';
   const reviewUrl = `${baseUrl}/reviews/${currentSlug}`;
+  const youtubeVideoJsonLd = buildYoutubeVideoObject({
+    url: review.youtubeUrl,
+    baseUrl,
+  });
+  const localVideoMetadata = getPrimaryLocalVideoMeta(currentSlug);
+  const localVideoJsonLd = localVideoMetadata
+    ? buildLocalVideoObject({
+        ...localVideoMetadata,
+        baseUrl,
+      })
+    : null;
+  const videoJsonLd = youtubeVideoJsonLd || localVideoJsonLd;
   const productBrand = review.brand || review.productSpec?.find(
     (spec) => spec.key?.toLowerCase() === 'marca'
   )?.value;
@@ -89,6 +96,7 @@ export function buildReviewTemplateProps(review) {
       },
     },
     image: review.image ? `https://emcasacomcecilia.com${review.image}` : undefined,
+    ...(videoJsonLd && { video: videoJsonLd }),
     ...(isProductReview && typeof canonicalRating === 'number'
       ? {
           reviewRating: {
