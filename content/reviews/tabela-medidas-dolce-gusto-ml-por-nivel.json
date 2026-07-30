@@ -1,0 +1,104 @@
+{
+  "id": 243,
+  "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
+  "title": "Tabela de medidas Dolce Gusto: quantos ml sai em cada nível?",
+  "type": "Guia",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Tabela oficial de medidas Dolce Gusto com os valores em ml confirmados no manual da Genio S Touch — inclui café espresso, lungo, receitas multi-pass e a função XL.",
+  "metaDescription": "Quantos ml sai em cada nível da Dolce Gusto? Veja a tabela completa com valores do manual oficial: 35 ml, 50 ml, 200 ml, 240 ml, 300 ml e muito mais.",
+  "publishedAt": "Draft",
+  "draft": true,
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "Por que uma tabela de medidas Dolce Gusto?",
+      "paragraphs": [
+        "Quando começamos a usar a Genio S Touch em casa, uma dúvida apareceu rápido: os tracinhos e ícones do painel não mostram os valores em mililitros. A gente só via os símbolos — os mesmos impressos nas cápsulas — mas sem números para orientar receitas, comparações ou até curiosidade pessoal.",
+        "Pesquisando online, encontrei informações conflitantes em alguns sites sobre os valores de cada nível — e uma erro bem comum: sites dizem que XL = 280 ml, quando o manual oficial da nossa máquina confirma XL = 300 ml.",
+        "Este guia traz a tabela oficial de medidas Dolce Gusto confirmada no manual impresso da Genio S Touch. Aqui você encontra os valores reais em ml para cada nível — e também a honestidade: o que a Nestlé publica e o que ela não documenta."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Tabela oficial: valores em ml por nível",
+      "paragraphs": [
+        "Os valores abaixo são aqueles que constam no manual da nossa máquina. Alguns aparecem em cartões de receita, outros estão registrados junto aos ícones da escala de barras:"
+      ],
+      "bullets": [
+        "1 tracinho (ou 1 barra) = 35 ml — café espresso pequeno (painel verde)",
+        "2 tracinhos (ou 2 barras) = 50 ml — espresso (painel roxo/magenta)",
+        "200 ml — aparece em receitas de múltiplos passos (painel verde-limão)",
+        "Receita multi-pass (ex. latte) = passo 1 com 200 ml + passo 2 com 40 ml = 240 ml total (painel verde-limão)",
+        "150 g de gelo + 150 ml de água = 300 ml no copo (receita gelada, painel azul-escuro)",
+        "XL = 300 ml — o tamanho máximo (painel vermelho)"
+      ]
+    },
+    {
+      "heading": "O que a Nestlé não publica (e por quê)",
+      "paragraphs": [
+        "Se você contou, vai notar que a tabela acima pula dos 50 ml direto pra 200 ml. Essa brecha existe porque: **os níveis intermediários (3, 4, 5 e 6 tracinhos) não têm valores em ml documentados no manual oficial**.",
+        "Isso não é omissão, é design: cada cápsula vem com um nível de água recomendado impresso na embalagem (aquele ícone que você vê na caixinha). A máquina Genio S Touch honra essa recomendação quando você a encaixa — o painel só mostra os tracinhos, e você segue a cápsula.",
+        "Na prática, isso significa que o volume entre 50 ml e 200 ml varia conforme a bebida — nem todas as cápsulas vão passar pelos níveis 3, 4, 5, 6 da mesma forma. A Nestlé deixou isso em aberto porque o sistema é flexível por design.",
+        "Bruno mencionou que poderia medir com copo medidor depois, nível a nível — se isso acontecer, a gente volta aqui e atualiza o artigo com os valores estimados. Por enquanto, honestidade: estes são os números que constam no manual; os intermediários, variam."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Terminologia: tracinho, barra, nível e lungo",
+      "paragraphs": [
+        "Uma curiosidade: a própria Nestlé usa a palavra 'tracinho' na documentação oficial. Você pode ver isso até na página do Adaptador NEO Start no site da marca, que menciona 'Para cafés espressos, faça com 1 tracinho de água, para Lungos, com 4 tracinhos'.",
+        "Isso nos dá um dado indireto legal: **lungo = 4 tracinhos** de água, o que faz sentido com a escala — entre os 50 ml (2 tracinhos) e os 200+ ml (que já entram em receitas)."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "A tabela corrigida (vs. o que você vê em outros sites)",
+      "paragraphs": [
+        "Alguns sites afirmam que XL = 280 ml. Não é verdade — o manual da Dolce Gusto confirma **300 ml para XL**. Esse erro circula há um tempo, e a gente quis deixar registrado aqui pra quem buscar: confie no manual da sua máquina ou no site oficial (nescafe-dolcegusto.com.br), não em especulações.",
+        "Se você tem uma máquina diferente (Mini Me, Piccolo, Infinissima, etc.) e o manual dela traz valores diferentes, lembre: cada modelo pode ter suas variações. O que você lê aqui é específico da Genio S Touch."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Quantos ml cada botão/tracinho da Dolce Gusto? Conforme nosso manual: 1 = 35 ml, 2 = 50 ml, depois vem 200 ml e 300 ml (XL). Os intermediários (3, 4, 5, 6) não têm ml documentado.",
+        "Tabela de medidas Dolce Gusto: e os níveis 3 a 6? A Nestlé não publica valores oficiais para os níveis 3, 4, 5 e 6 tracinhos — eles variam conforme a cápsula. Cada embalagem traz a recomendação de nível impressa.",
+        "O que significa os tracinhos/riscos da Dolce Gusto? Os tracinhos (ou barras) indicam a quantidade de água que vai passar pela cápsula. Mais tracinhos = mais água = bebida mais leve ou maior volume.",
+        "Quantos tracinhos para lungo? A Nestlé menciona 4 tracinhos de água para Lungos — esse dado vem da documentação oficial do Adaptador NEO Start.",
+        "Dolce Gusto XL: realmente 300 ml? Sim. O manual da Genio S Touch confirma 300 ml para a função XL, não 280 ml como alguns sites dizem.",
+        "Cupom CECI ainda é válido? Cupons promocionais têm prazo de validade e podem mudar. Se o CECI não estiver ativo quando você for comprar, o link da loja oficial neste artigo mostra a promoção vigente no momento."
+      ]
+    }
+  ],
+  "cta": {
+    "text": "Confira cápsulas e máquinas Dolce Gusto no site oficial com cupom CECI",
+    "label": "Visitar loja",
+    "url": "https://www.nescafe-dolcegusto.com.br/"
+  },
+  "coupon": "CECI",
+  "affiliate": "dolce-gusto",
+  "editorialNote": "Este artigo é baseado no manual impresso da NESCAFÉ Dolce Gusto Genio S Touch. A menção ao cupom CECI decorre de uma parceria comercial entre o Em Casa com Cecília e a NESCAFÉ Dolce Gusto. O cupom tem prazo de validade — se não estiver disponível, o site oficial mostra as promoções vigentes.",
+  "relatedArticles": [
+    {
+      "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
+      "title": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso"
+    },
+    {
+      "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
+      "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5%"
+    },
+    {
+      "slug": "dolce-gusto-e-confiavel",
+      "title": "Dolce Gusto é confiável? O que observar antes de comprar"
+    }
+  ]
+}

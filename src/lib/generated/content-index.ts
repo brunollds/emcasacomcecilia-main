@@ -36640,5 +36640,871 @@ export const reviewsData: unknown[] = [
       }
     ],
     "locale": "zh-hans"
+  },
+  {
+    "id": 243,
+    "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
+    "title": "Tabela de medidas Dolce Gusto: quantos ml sai em cada nível?",
+    "type": "Guia",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Tabela oficial de medidas Dolce Gusto com os valores em ml confirmados no manual da Genio S Touch — inclui café espresso, lungo, receitas multi-pass e a função XL.",
+    "metaDescription": "Quantos ml sai em cada nível da Dolce Gusto? Veja a tabela completa com valores do manual oficial: 35 ml, 50 ml, 200 ml, 240 ml, 300 ml e muito mais.",
+    "publishedAt": "Draft",
+    "draft": true,
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Por que uma tabela de medidas Dolce Gusto?",
+        "paragraphs": [
+          "Quando começamos a usar a Genio S Touch em casa, uma dúvida apareceu rápido: os tracinhos e ícones do painel não mostram os valores em mililitros. A gente só via os símbolos — os mesmos impressos nas cápsulas — mas sem números para orientar receitas, comparações ou até curiosidade pessoal.",
+          "Pesquisando online, encontrei informações conflitantes em alguns sites sobre os valores de cada nível — e uma erro bem comum: sites dizem que XL = 280 ml, quando o manual oficial da nossa máquina confirma XL = 300 ml.",
+          "Este guia traz a tabela oficial de medidas Dolce Gusto confirmada no manual impresso da Genio S Touch. Aqui você encontra os valores reais em ml para cada nível — e também a honestidade: o que a Nestlé publica e o que ela não documenta."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Tabela oficial: valores em ml por nível",
+        "paragraphs": [
+          "Os valores abaixo são aqueles que constam no manual da nossa máquina. Alguns aparecem em cartões de receita, outros estão registrados junto aos ícones da escala de barras:"
+        ],
+        "bullets": [
+          "1 tracinho (ou 1 barra) = 35 ml — café espresso pequeno (painel verde)",
+          "2 tracinhos (ou 2 barras) = 50 ml — espresso (painel roxo/magenta)",
+          "200 ml — aparece em receitas de múltiplos passos (painel verde-limão)",
+          "Receita multi-pass (ex. latte) = passo 1 com 200 ml + passo 2 com 40 ml = 240 ml total (painel verde-limão)",
+          "150 g de gelo + 150 ml de água = 300 ml no copo (receita gelada, painel azul-escuro)",
+          "XL = 300 ml — o tamanho máximo (painel vermelho)"
+        ]
+      },
+      {
+        "heading": "O que a Nestlé não publica (e por quê)",
+        "paragraphs": [
+          "Se você contou, vai notar que a tabela acima pula dos 50 ml direto pra 200 ml. Essa brecha existe porque: **os níveis intermediários (3, 4, 5 e 6 tracinhos) não têm valores em ml documentados no manual oficial**.",
+          "Isso não é omissão, é design: cada cápsula vem com um nível de água recomendado impresso na embalagem (aquele ícone que você vê na caixinha). A máquina Genio S Touch honra essa recomendação quando você a encaixa — o painel só mostra os tracinhos, e você segue a cápsula.",
+          "Na prática, isso significa que o volume entre 50 ml e 200 ml varia conforme a bebida — nem todas as cápsulas vão passar pelos níveis 3, 4, 5, 6 da mesma forma. A Nestlé deixou isso em aberto porque o sistema é flexível por design.",
+          "Bruno mencionou que poderia medir com copo medidor depois, nível a nível — se isso acontecer, a gente volta aqui e atualiza o artigo com os valores estimados. Por enquanto, honestidade: estes são os números que constam no manual; os intermediários, variam."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Terminologia: tracinho, barra, nível e lungo",
+        "paragraphs": [
+          "Uma curiosidade: a própria Nestlé usa a palavra 'tracinho' na documentação oficial. Você pode ver isso até na página do Adaptador NEO Start no site da marca, que menciona 'Para cafés espressos, faça com 1 tracinho de água, para Lungos, com 4 tracinhos'.",
+          "Isso nos dá um dado indireto legal: **lungo = 4 tracinhos** de água, o que faz sentido com a escala — entre os 50 ml (2 tracinhos) e os 200+ ml (que já entram em receitas)."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "A tabela corrigida (vs. o que você vê em outros sites)",
+        "paragraphs": [
+          "Alguns sites afirmam que XL = 280 ml. Não é verdade — o manual da Dolce Gusto confirma **300 ml para XL**. Esse erro circula há um tempo, e a gente quis deixar registrado aqui pra quem buscar: confie no manual da sua máquina ou no site oficial (nescafe-dolcegusto.com.br), não em especulações.",
+          "Se você tem uma máquina diferente (Mini Me, Piccolo, Infinissima, etc.) e o manual dela traz valores diferentes, lembre: cada modelo pode ter suas variações. O que você lê aqui é específico da Genio S Touch."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quantos ml cada botão/tracinho da Dolce Gusto? Conforme nosso manual: 1 = 35 ml, 2 = 50 ml, depois vem 200 ml e 300 ml (XL). Os intermediários (3, 4, 5, 6) não têm ml documentado.",
+          "Tabela de medidas Dolce Gusto: e os níveis 3 a 6? A Nestlé não publica valores oficiais para os níveis 3, 4, 5 e 6 tracinhos — eles variam conforme a cápsula. Cada embalagem traz a recomendação de nível impressa.",
+          "O que significa os tracinhos/riscos da Dolce Gusto? Os tracinhos (ou barras) indicam a quantidade de água que vai passar pela cápsula. Mais tracinhos = mais água = bebida mais leve ou maior volume.",
+          "Quantos tracinhos para lungo? A Nestlé menciona 4 tracinhos de água para Lungos — esse dado vem da documentação oficial do Adaptador NEO Start.",
+          "Dolce Gusto XL: realmente 300 ml? Sim. O manual da Genio S Touch confirma 300 ml para a função XL, não 280 ml como alguns sites dizem.",
+          "Cupom CECI ainda é válido? Cupons promocionais têm prazo de validade e podem mudar. Se o CECI não estiver ativo quando você for comprar, o link da loja oficial neste artigo mostra a promoção vigente no momento."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Confira cápsulas e máquinas Dolce Gusto no site oficial com cupom CECI",
+      "label": "Visitar loja",
+      "url": "https://www.nescafe-dolcegusto.com.br/"
+    },
+    "coupon": "CECI",
+    "affiliate": "dolce-gusto",
+    "editorialNote": "Este artigo é baseado no manual impresso da NESCAFÉ Dolce Gusto Genio S Touch. A menção ao cupom CECI decorre de uma parceria comercial entre o Em Casa com Cecília e a NESCAFÉ Dolce Gusto. O cupom tem prazo de validade — se não estiver disponível, o site oficial mostra as promoções vigentes.",
+    "relatedArticles": [
+      {
+        "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
+        "title": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso"
+      },
+      {
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
+        "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5%"
+      },
+      {
+        "slug": "dolce-gusto-e-confiavel",
+        "title": "Dolce Gusto é confiável? O que observar antes de comprar"
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "slug": "yesstyle-e-confiavel",
+    "title": "YesStyle é confiável? O que observar antes de comprar",
+    "type": "Editorial",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Análise dos dados públicos da YesStyle: empresa de Hong Kong, autorização de 400+ marcas coreanas, políticas de entrega internacional, alfândega/impostos no Brasil, e o que observar antes de comprar.",
+    "metaDescription": "A YesStyle é confiável? Veja dados da empresa, autorização de marcas coreanas, políticas de entrega para o Brasil, impostos de importação e o que observar antes de comprar.",
+    "publishedAt": "Draft",
+    "draft": true,
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Dados públicos da empresa",
+        "paragraphs": [
+          "A YesStyle Limited é uma empresa de e-commerce com sede em Hong Kong, fundada em 2006. A empresa opera como subsidiária de YesAsia Holdings Limited, que é listada na bolsa de valores de Hong Kong com o código 2209.HK. Isso significa que, embora a YesStyle seja um site independente, sua controladora é uma empresa pública com operações fiscalizadas e auditadas.",
+          "A YesStyle atende clientes em mais de 80 países, com versão do site traduzida para português e suporte a múltiplas moedas de referência. No Brasil, as compras são cotadas em dólar americano (USD) e processadas conforme a regulamentação de e-commerce internacional. A empresa mantém canais de atendimento ao cliente para tirar dúvidas sobre produtos, prazos de entrega, impostos de importação e política de devoluções."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Catálogo e posicionamento de mercado",
+        "paragraphs": [
+          "A YesStyle é reconhecida como distribuidora autorizada de mais de 400 marcas de beleza coreana (K-beauty), beleza japonesa (J-beauty) e fashion asiática. O catálogo inclui skincare (séruns, essências, tônicos, protetores solares), maquiagem, produtos para cabelo, moda conceitual, acessórios e suplementos de bem-estar.",
+          "A marca trabalha com marcas consagradas como COSRX, Etude House, Hada Labo, Rohto, e parceria exclusiva com Starbucks para cápsulas Starbucks by YesStyle. Testes independentes confirmam a autenticidade dos produtos oferecidos, já que a YesStyle compra diretamente das marcas ou de distribuidores autorizados. O fato de ser controlada por uma empresa listada em bolsa (YesAsia Holdings) é um indicativo de operação consolidada e investimento em integridade de cadeia de suprimentos."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Políticas de compra e pós-venda",
+        "paragraphs": [
+          "O site da YesStyle oferece navegação em português e checkout em múltiplas formas de pagamento (cartão de crédito, PayPal). Frete grátis é oferecido para compras acima de US$ 59 para o Brasil, utilizando método padrão de entrega internacional.",
+          "O prazo de entrega varia entre 10 a 25 dias úteis, dependendo do método de envio escolhido e da localização no Brasil. Rastreamento é disponibilizado por código enviado por e-mail. A empresa segue regulamentações de direito de arrependimento: até 7 dias após o recebimento, o consumidor pode solicitar devolução na embalagem original. Para produtos com defeito, o prazo estendido é de até 30 dias. O atendimento ao cliente pode ser contatado via chat, e-mail ou formulário no site oficial."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "O que observar antes de comprar",
+        "paragraphs": [
+          "Como em qualquer compra internacional, recomenda-se verificar os seguintes pontos antes de finalizar o pedido na YesStyle:"
+        ],
+        "bullets": [
+          "Confirme se está no domínio oficial (yesstyle.com) antes de inserir dados de pagamento. O checkout seguro deve iniciar com 'https://'.",
+          "Observe que compras internacionais estão sujeitas às regras brasileiras de importação (como o programa Remessa Conforme). Dependendo do valor do pedido e do seu estado, incidem imposto de importação e ICMS — e as alíquotas mudam de tempos em tempos. Antes de fechar o pedido, confira no checkout se os impostos já aparecem no total ou se podem ser cobrados na entrega.",
+          "Leia atentamente as descrições dos produtos, incluindo dimensões, materiais, e instruções de cuidado — padrões de beleza asiáticos podem diferir dos locais (ex: tamanho de embalagem, concentração de princípios ativos).",
+          "Verifique o prazo de entrega estimado no carrinho para seu CEP. Regiões mais distantes podem ter prazos estendidos.",
+          "Mantenha o comprovante de pagamento, o número de pedido e o código de rastreamento para acompanhamento e eventual recurso em caso de problemas.",
+          "Produtos podem chegar em caixa lacrada — não aceite o pacote se o lacre estiver violado, pois é garantia de autenticidade.",
+          "Para devoluções ou dúvidas, contact o atendimento oficial da YesStyle; não confunda com revendedores não autorizados."
+        ]
+      },
+      {
+        "heading": "Parceria e código de recompensa",
+        "paragraphs": [
+          "O Em Casa com Cecília mantém uma parceria comercial com a YesStyle. Por meio dessa parceria, leitores podem utilizar o código de recompensa (Reward Code) CECILIA010 no campo específico do checkout para obter até 5% de desconto extra na primeira compra e 2% nas compras recorrentes. Este código é compatível com cupons promocionais elegíveis ativos no site, permitindo acumular descontos.",
+          "O código CECILIA010 é permanente enquanto a parceria durar, diferente de cupons sazonais que mudam mês a mês. A utilização do código não gera custo adicional para o leitor — o benefício é concedido pela marca como apoio ao projeto editorial Em Casa com Cecília."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A YesStyle é confiável ou é um site falso? A YesStyle é legítima. É uma empresa fundada em 2006 com sede em Hong Kong, subsidiária de YesAsia Holdings Limited, listada na bolsa de Hong Kong (2209.HK). Testes independentes confirmam a autenticidade dos produtos K-beauty e J-beauty oferecidos.",
+          "YesStyle vende produtos 100% autênticos? Sim, a YesStyle é distribuidora autorizada de mais de 400 marcas coreanas e compra diretamente das marcas ou distribuidores autorizados. Consumidores devem receber produtos em caixas lacradas com selos de autenticidade intactos.",
+          "Qual o prazo de entrega da YesStyle para o Brasil? Prazo padrão é 10 a 25 dias úteis, dependendo do método de envio e localização. Frete grátis é oferecido em compras acima de US$ 59. Regiões mais distantes podem ter prazos estendidos.",
+          "YesStyle cobra impostos de importação para o Brasil? Compras internacionais estão sujeitas a imposto de importação e ICMS conforme as regras vigentes no Brasil (programa Remessa Conforme). As alíquotas dependem do valor do pedido e do estado, e mudam com o tempo — confira o valor total no checkout antes de pagar e verifique se há cobrança adicional na entrega.",
+          "O código CECILIA010 muda o preço final do produto? Não. O código CECILIA010 oferece até 5% extra (5% 1ª compra, 2% recorrente) como benefício da parceria, sem custo adicional para o leitor.",
+          "Como funciona a devolução na YesStyle? Até 7 dias após o recebimento, com o produto na embalagem original e comprovante de compra. Alguns produtos elegíveis podem ter períodos de teste estendido — verifique a política específica do item.",
+          "Como é o atendimento ao cliente da YesStyle? A empresa oferece suporte via chat no site, e-mail e formulário de contato. Para pedidos, devoluções e dúvidas sobre entrega, o atendimento em português é disponibilizado.",
+          "A YesStyle aceita qual forma de pagamento? Cartão de crédito internacional, PayPal e, em alguns países, localWallets. Todos os pedidos são processados em USD.",
+          "YesStyle é seguro para inserir dados de cartão? Sim, o site utiliza conexão HTTPS segura e processa pagamentos via gateways certificados internacionais. Nunca insira dados sensíveis fora do checkout oficial.",
+          "Qual é o domínio oficial da YesStyle? O domínio oficial é yesstyle.com (com idioma português disponível selecionando no site). Cuidado com sites falsos ou revendedores não autorizados.",
+          "YesStyle oferece frete grátis para o Brasil? Sim, frete grátis é oferecido em compras acima de US$ 59 pelo método padrão de entrega internacional.",
+          "Como usar o código CECILIA010 na YesStyle? Digite CECILIA010 no campo 'Código de Recompensa' (Reward Code) durante o checkout. Este campo é separado do campo de cupom, e ambos podem ser usados simultaneamente."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Conheça a YesStyle e aproveite o código CECILIA010",
+      "label": "Visitar loja",
+      "url": "https://ystyle.co/x5pes"
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Este artigo é de natureza editorial e analítica. A menção ao código CECILIA010 decorre de uma parceria comercial entre o Em Casa com Cecília e a YesStyle. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca, registros de empresa, e pesquisa independente verificada.",
+    "relatedArticles": [
+      {
+        "slug": "codigo-cecilia010-yesstyle-como-usar",
+        "title": "Como usar o código CECILIA010 na YesStyle: passo a passo do Reward Code"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "slug": "assinatura-dolce-gusto-como-funciona",
+    "title": "Assinatura Dolce Gusto (NDG): como funciona e vale a pena?",
+    "type": "Guia",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Guia prático da Assinatura NESCAFÉ Dolce Gusto: como funciona, benefícios de desconto e frete grátis, frequências de entrega e como cancelar sem taxas.",
+    "metaDescription": "Assinatura Dolce Gusto: veja como funciona, descontos exclusivos, frequências de entrega (mensal/bimestral/trimestral) e como cancelar sem taxa.",
+    "publishedAt": "Draft",
+    "draft": true,
+    "image": "/images/reviews/dolcegusto/dolce-gusto-e-confiavel-hero.webp",
+    "imageAlt": "Máquina NESCAFÉ Dolce Gusto com cápsulas e xícara de café em uma mesa",
+    "imageFit": "cover",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "O que é a Assinatura Dolce Gusto",
+        "paragraphs": [
+          "A Assinatura NESCAFÉ Dolce Gusto é um serviço de entrega recorrente que permite ao consumidor automatizar suas compras de cápsulas de café. Em vez de ir manualmente ao site e fazer novos pedidos a cada vez que o estoque acaba, você configura a assinatura uma única vez, define a frequência e os produtos desejados, e as caixas chegam regularmente na sua casa — sem taxa de adesão, sem mensalidade e sem multa de cancelamento.",
+          "É diferente do Clube Dolce Gusto, que é um programa de fidelidade para acumular pontos. A Assinatura é um modelo de compra recorrente desenhado para quem já consome cápsulas com frequência e quer praticidade e descontos exclusivos."
+        ],
+        "bullets": [
+          "Serviço de entrega automática de cápsulas na frequência que você escolher.",
+          "Sem taxa de adesão, cancelamento ou mensalidade — pague apenas pelos produtos e frete.",
+          "Descontos exclusivos na compra (confirme as condições atuais no regulamento oficial).",
+          "Frete grátis em todos os pedidos de assinatura.",
+          "Créditos de pontos DOLCE GUSTO CLUB no primeiro pedido.",
+          "Mínimo de 3 caixas por pedido."
+        ],
+        "emphasis": "A Assinatura é ideal para quem bebe café Dolce Gusto todos os dias ou em alta frequência. Se você consome poucas cápsulas por mês, pode não compensar o mínimo de 3 caixas por ciclo."
+      },
+      {
+        "heading": "Como funciona a Assinatura",
+        "paragraphs": [
+          "O processo é simples e pode ser feito diretamente no site oficial da Dolce Gusto. Primeiro, você acessa a seção de assinatura, escolhe quais produtos deseja (cápsulas das linhas Geração 1 ou NEO, dependendo da sua máquina) e em qual quantidade. Depois, define a frequência de envio — mensal, bimestral ou trimestral — e confirma. Pronto: a loja automática gerará o seu pedido recorrente."
+        ],
+        "bullets": [
+          "Acesse o site oficial da NESCAFÉ Dolce Gusto e navegue até Plano de Assinaturas.",
+          "Selecione quais cápsulas e acessórios deseja receber — mínimo 3 caixas por ciclo.",
+          "Escolha a frequência: mensal, bimestral ou trimestral.",
+          "Confirme os dados de entrega e o método de pagamento.",
+          "Após confirmação, seus pedidos serão gerados automaticamente conforme a frequência escolhida.",
+          "Você recebe um e-mail de confirmação antes de cada novo pedido.",
+          "Pode alterar sua assinatura, adicionar/remover produtos ou mudar a frequência a qualquer momento."
+        ],
+        "image": "/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp",
+        "imageAlt": "Cápsulas de café NESCAFÉ Dolce Gusto ao lado de uma máquina de café",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "Geração 1 × NEO: qual assinatura escolher?",
+        "paragraphs": [
+          "A Dolce Gusto oferece assinaturas para dois sistemas diferentes: Geração 1 (máquinas tradicionais) e NEO (segunda geração). A escolha depende de qual máquina você possui em casa.",
+          "A Geração 1 é a linha clássica da marca, com máquinas como Genio S, Piccolo XS e Infinissima. As cápsulas compatíveis incluem mais de 50 sabores: cafés, expressos, cappuccinos, chás e até chocolate quente. O consumo é mais variado porque a linha oferece bebidas além de café.",
+          "O NEO é a geração mais recente, com máquinas como NEO Start e a nova Genio S Touch com painel touch. As cápsulas NEO são exclusivas deste sistema e focam em bebidas de café puro: expressos, lungos, blends Starbucks e opções orgânicas. Se você quer variedade de bebidas (cappuccino, chá), o NEO não oferece essa flexibilidade."
+        ],
+        "bullets": [
+          "Geração 1: Máquinas clássicas + 50+ sabores de bebidas (café, chai, chocolate, chá).",
+          "NEO: Máquinas modernas com painel touch + cápsulas focadas em café puro.",
+          "Máquinas Geração 1 e NEO NÃO são compatíveis entre si — escolha conforme o equipamento que você possui.",
+          "Se acabou de comprar a máquina e está na dúvida, verifique o nome exato do modelo na documentação ou no manual de instruções.",
+          "Ambas têm planos de assinatura independentes com os mesmos benefícios de desconto e frete grátis."
+        ]
+      },
+      {
+        "heading": "Benefícios e descontos da Assinatura",
+        "paragraphs": [
+          "A Assinatura NESCAFÉ Dolce Gusto oferece benefícios exclusivos que não estão disponíveis em compras avulsas. Os principais são desconto direto e frete grátis — ambos aplicados a todos os ciclos de entrega. Também há bônus de pontos creditados no DOLCE GUSTO CLUB no primeiro pedido, que você pode usar para trocar por prêmios ou aplicar em futuras compras.",
+          "Importante: o percentual exato de desconto pode variar dependendo de quando você aderir e das condições promocionais vigentes. Sempre consulte o regulamento oficial e a página de assinatura para conferir as condições atualizadas, pois a marca ajusta esses benefícios periodicamente."
+        ],
+        "bullets": [
+          "Frete grátis em todos os pedidos da assinatura.",
+          "Desconto exclusivo aplicado automaticamente no preço das cápsulas (confirme o percentual no site).",
+          "Créditos de pontos DOLCE GUSTO CLUB no primeiro pedido — podem ser usados para trocar por prêmios.",
+          "Sem taxa de adesão.",
+          "Sem mensalidade.",
+          "Sem taxa de cancelamento.",
+          "Liberdade para modificar a assinatura (produtos, frequência) ou cancelar quando desejar após atender os requisitos do programa."
+        ]
+      },
+      {
+        "heading": "Assinatura × Clube Dolce Gusto: qual é a diferença?",
+        "paragraphs": [
+          "É comum confundir a Assinatura com o Clube Dolce Gusto, mas são dois programas completamente diferentes com propósitos opostos.",
+          "A Assinatura é um modelo de compra automática — você paga por cada pedido recorrente e recebe os produtos em ciclos regulares. O benefício aqui é a praticidade (não precisa lembrar de comprar) e o desconto imediato no preço das cápsulas.",
+          "O Clube Dolce Gusto é um programa de fidelidade gratuito — você compra cápsulas normalmente (uma vez por vez) e cadastra o código de 12 dígitos impresso na embalagem para acumular pontos. Esses pontos são trocados por produtos, acessórios ou vouchers de desconto. Não há desconto imediato; você economiza depois, através dos pontos."
+        ],
+        "bullets": [
+          "Assinatura: você contrata um serviço de entrega recorrente com desconto e frete grátis.",
+          "Clube: você compra normalmente e cadastra códigos das embalagens para acumular pontos.",
+          "Assinatura é para quem quer praticidade e desconto imediato; Clube é para quem quer economizar a longo prazo acumulando pontos.",
+          "Você pode usar AMBOS simultaneamente — contratar a assinatura E participar do Clube para maximizar benefícios.",
+          "Assinatura tem custo (paga pelos produtos); Clube é gratuito.",
+          "Na Assinatura, os pontos do CLUB também são creditados, então há uma sobreposição de benefícios."
+        ],
+        "emphasis": "Dúvida comum: 'Posso assinar cápsulas E cadastrar códigos no Clube?' Sim! A Assinatura é um modelo de compra, enquanto o Clube é um programa de fidelidade — você pode fazer os dois ao mesmo tempo para ganhar descontos duplos."
+      },
+      {
+        "heading": "Cancelamento: como sair da Assinatura",
+        "paragraphs": [
+          "Um dos maiores medos de quem assina algo é ficar preso. Segundo o FAQ oficial da Dolce Gusto, não há taxa de adesão nem taxa de cancelamento na Assinatura. O ponto de atenção fica por conta das condições de permanência: dependendo da oferta de desconto que você aceitar ao assinar, o regulamento pode prever um número mínimo de ciclos — por isso, vale ler as condições da SUA oferta antes de concluir.",
+          "Em ofertas promocionais divulgadas pela marca, já apareceram condições de permanência mínima vinculadas ao desconto (um número de ciclos a cumprir antes de cancelar). Como essas condições variam de campanha para campanha, não dá para cravar uma regra única aqui: o que vale é o regulamento vigente no momento da SUA assinatura — confira o número de ciclos, se houver, antes de aceitar."
+        ],
+        "bullets": [
+          "Sem taxa de cancelamento — você não paga nada para sair.",
+          "Sem multa por rescisão contratual.",
+          "Sem período mínimo indefinido de permanência.",
+          "Atenção: ofertas com desconto podem prever permanência mínima (número de ciclos) — confira no regulamento da sua oferta.",
+          "Cumprida a eventual permanência mínima da oferta, o cancelamento é livre.",
+          "Para cancelar, entre em contato com o SAC ou acesse sua conta no site e solicite o cancelamento.",
+          "Confira o regulamento completo da assinatura para detalhes sobre processamento da solicitação.",
+          "Após o cancelamento, a assinatura para imediatamente — você não receberá mais pedidos recorrentes."
+        ],
+        "links": [
+          {
+            "label": "Regulamento Completo da Assinatura",
+            "href": "https://www.nescafe-dolcegusto.com.br/sobre/termos-assinatura"
+          }
+        ]
+      },
+      {
+        "heading": "Vale a pena assinar?",
+        "paragraphs": [
+          "A resposta depende do seu padrão de consumo. Se você bebe café Dolce Gusto diariamente ou consome múltiplas xícaras por semana, a Assinatura compensa pelos descontos imediatos e frete grátis. Um consumidor que leva 30-45 dias para gastar 3 caixas encontrará grande vantagem em não pagar frete e aplicar o desconto automaticamente.",
+          "Por outro lado, se você consome poucas cápsulas por mês — digamos, 1 ou 2 caixas — o mínimo de 3 caixas por ciclo pode virar estoque em casa. Nesse caso, pagar frete em compras pontuais talvez seja mais econômico do que se forçar a manter uma assinatura com mínimo maior que o necessário.",
+          "Um terceiro cenário: você quer combinar a Assinatura com o Clube. Se assina as cápsulas E cadastra os códigos no programa de fidelidade, você tem descontos duplos: o desconto imediato da assinatura MAIS os pontos do Clube que acumula em cada ciclo. Essa combinação maximize a economia a longo prazo."
+        ],
+        "bullets": [
+          "Assine se consome 3+ caixas por mês — o desconto e frete grátis compensam.",
+          "Não assine se consome menos de 3 caixas por mês — o mínimo de 3 caixas fica caro.",
+          "Combine Assinatura + Clube para ganhar desconto duplo (imediato + pontos para trocar).",
+          "Sem taxa de cancelamento — mas confira se a sua oferta prevê permanência mínima antes de assinar.",
+          "Avalie também se a frequência (mensal, bimestral, trimestral) faz sentido com seu consumo real.",
+          "Use o cupom CECI primeiro para comparar o preço: se o CECI de 5% em compra avulsa for maior que o desconto da assinatura, compre avulso; senão, assine."
+        ]
+      },
+      {
+        "heading": "O que observar antes de assinar",
+        "paragraphs": [
+          "Antes de clicar em 'Confirmar Assinatura', verifique alguns detalhes importantes para evitar surpresas:"
+        ],
+        "bullets": [
+          "Confirme qual máquina você tem (Geração 1 ou NEO) para assinar as cápsulas certas — não são compatíveis entre si.",
+          "Revise o mínimo de 3 caixas por ciclo — você consegue consumir isso na frequência escolhida?",
+          "Escolha bem a frequência (mensal, bimestral, trimestral) conforme seu consumo real.",
+          "Leia o regulamento completo da assinatura no site oficial para entender todas as restrições.",
+          "Verifique se há alguma promoção ativa além dos benefícios padrão (brindes, descontos maiores, etc).",
+          "Confirme que está no domínio oficial (nescafe-dolcegusto.com.br) antes de finalizar.",
+          "Guarde a confirmação de assinatura recebida por e-mail — você vai precisar dela para modificar ou cancelar.",
+          "Leia o regulamento da oferta antes de aceitar: é lá que constam eventuais ciclos mínimos vinculados ao desconto.",
+          "Opcionalmente, cadastre os códigos das cápsulas no Clube Dolce Gusto para ganhar pontos extras em cima da assinatura."
+        ]
+      },
+      {
+        "heading": "FAQ: Dúvidas frequentes sobre a Assinatura Dolce Gusto",
+        "paragraphs": [
+          "Reunimos as principais perguntas que os consumidores fazem sobre o programa:"
+        ],
+        "bullets": [
+          "Qual é a diferença entre Assinatura e Clube Dolce Gusto? A Assinatura é um modelo de compra recorrente com desconto imediato e frete grátis. O Clube é um programa de fidelidade gratuito onde você cadastra códigos das embalagens para acumular pontos e trocar por prêmios. Você pode usar os dois simultaneamente.",
+          "Quanto é o desconto da Assinatura? O desconto varia conforme a data de adesão e condições vigentes — consulte o regulamento oficial e a página de assinatura para o valor atual.",
+          "Há taxa de adesão ou mensalidade? Não. Você paga apenas pelos produtos que solicitar e o frete (que é grátis na assinatura).",
+          "Posso cancelar a Assinatura a qualquer momento? Não há taxa de cancelamento, segundo o FAQ oficial. Porém, ofertas com desconto podem prever permanência mínima (número de ciclos) — consulte o regulamento da sua oferta para saber as condições exatas antes de assinar.",
+          "O que acontece se eu cancelar? A assinatura para imediatamente — você não recebe mais pedidos recorrentes. Os pontos do Clube que você acumulou não são perdidos.",
+          "Posso modificar a assinatura (produtos, frequência)? Sim. Você pode adicionar, remover produtos ou mudar a frequência a qualquer momento sem custo adicional.",
+          "Como faço para assinar? Acesse o site oficial da NESCAFÉ Dolce Gusto, navegue até Plano de Assinaturas, escolha os produtos e frequência, e confirme.",
+          "A assinatura funciona com Geração 1 e NEO? Sim, existem planos separados para cada sistema — escolha conforme sua máquina.",
+          "Posso usar o cupom CECI junto com a Assinatura? Confirme essa possibilidade com o site oficial — em geral, desconto da assinatura e cupons promocionais podem ter restrições de acúmulo.",
+          "Os pontos do Clube Dolce Gusto são creditados na assinatura? A marca divulga bônus de pontos do CLUB vinculado à Assinatura (por exemplo, no primeiro pedido), além dos pontos normais que você ganha cadastrando os códigos das caixas. As regras exatas de crédito estão no regulamento do programa.",
+          "Qual é o mínimo de caixas por pedido? 3 caixas no mínimo a cada ciclo.",
+          "Quantas frequências existem? Mensal, bimestral e trimestral — escolha conforme seu consumo.",
+          "Assinatura é a mesma coisa que Clube? Não. Veja a seção 'Assinatura × Clube Dolce Gusto' para entender as diferenças completas."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Conheça o Plano de Assinatura da NESCAFÉ Dolce Gusto e aproveite desconto e frete grátis.",
+      "label": "Acessar Plano de Assinaturas",
+      "url": "https://www.nescafe-dolcegusto.com.br/plano-assinaturas"
+    },
+    "coupon": "CECI",
+    "affiliate": "dolce-gusto",
+    "editorialNote": "Este artigo foi produzido em parceria comercial com a NESCAFÉ Dolce Gusto. O Em Casa com Cecília recebe comissão sobre compras feitas com o cupom CECI e por meio de links para o site oficial. As informações sobre benefícios da assinatura são baseadas em dados públicos — para detalhes atualizados e regulamento completo, consulte o site oficial.",
+    "relatedArticles": [
+      {
+        "slug": "clube-dolce-gusto-como-funciona",
+        "title": "Clube Dolce Gusto: pontos e prêmios"
+      },
+      {
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
+        "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto"
+      },
+      {
+        "slug": "dolce-gusto-e-confiavel",
+        "title": "Dolce Gusto é confiável? O que observar antes de comprar"
+      },
+      {
+        "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
+        "title": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso"
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "slug": "adaptador-neo-start-o-que-e",
+    "title": "Adaptador NEO Start: o que é e quando você precisa dele",
+    "type": "Guia",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Entenda o que é o Adaptador NEO Start, qual a diferença entre cápsulas ORIGINAL e NEO, quais máquinas Dolce Gusto são compatíveis e se vale a pena comprar.",
+    "metaDescription": "Adaptador NEO Start: o que é, quais máquinas são compatíveis, cápsulas NEO compostáveis e se vale a pena comprar para sua Dolce Gusto.",
+    "publishedAt": "Draft",
+    "draft": true,
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "O Adaptador NEO Start: entendendo o sistema",
+        "paragraphs": [
+          "Se você tem uma máquina Dolce Gusto e já ouviu falar em cápsulas NEO, é natural ficar confuso: são sistemas diferentes, e nem toda máquina Dolce Gusto funciona com as duas. O Adaptador NEO Start é justamente a ponte entre esses dois mundos.",
+          "A NESCAFÉ Dolce Gusto no Brasil funciona com dois ecossistemas de cápsulas distintos: o sistema ORIGINAL (usado pelas máquinas mais antigas e populares) e o sistema NEO (mais recente, focado em sustentabilidade). O adaptador permite usar cápsulas NEO em máquinas ORIGINAL — uma solução bem pensada pra quem quer aproveitar os benefícios das cápsulas compostáveis sem trocar de máquina."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Qual é a diferença entre cápsulas ORIGINAL e NEO?",
+        "paragraphs": [
+          "A diferença fundamental está no material e no sistema de encaixe. As cápsulas ORIGINAL são feitas de plástico e alumínio, enquanto as cápsulas NEO usam papel e fibra compostáveis — certificadas pela TUV para compostagem em casa e industrialmente. Isso significa que, ao descartar uma cápsula NEO, ela se decompõe naturalmente em alguns meses, sem deixar resíduos plásticos.",
+          "Do ponto de vista prático: máquinas NEO já vêm preparadas para as cápsulas NEO desde o início. Máquinas ORIGINAL não conseguem usar cápsulas NEO direto — aí é que entra o adaptador. O sistema NEO é também um pouco mais compacto e elegante em design, e geralmente associado a máquinas mais modernas da marca."
+        ],
+        "bullets": [
+          "Cápsulas ORIGINAL: plástico e alumínio, encaixe tradicional",
+          "Cápsulas NEO: papel e fibra compostáveis, encaixe e tamanho ligeiramente diferentes",
+          "Máquinas NEO: preparadas nativamente para cápsulas NEO",
+          "Máquinas ORIGINAL: precisam do adaptador para usar cápsulas NEO"
+        ]
+      },
+      {
+        "heading": "Como funciona o Adaptador NEO Start",
+        "paragraphs": [
+          "O Adaptador NEO Start é um acessório simples: um suporte que substitui o suporte de cápsula regular da máquina. Quando você quer usar uma cápsula NEO, você remove o suporte padrão, insere o adaptador no lugar e coloca a cápsula NEO normalmente.",
+          "O modo de uso é direto conforme indicado pela marca: remova o suporte de cápsula regular, insira o Adaptador NEO Start e coloque o café NEO. Para espressos, ajuste a água em 1 'tracinho'; para Lungos, use 4 'tracinhos'. Simples assim — não precisa de ajustes extras na máquina ou nada complicado."
+        ],
+        "bullets": [
+          "Remove o suporte regular de cápsula da máquina",
+          "Insere o Adaptador NEO Start no mesmo lugar",
+          "Coloca a cápsula NEO e prepara normalmente",
+          "Mais rápido e fácil que você pode estar imaginando"
+        ]
+      },
+      {
+        "heading": "Máquinas compatíveis com o Adaptador NEO Start",
+        "paragraphs": [
+          "Nem todas as máquinas Dolce Gusto ORIGINAL são compatíveis com o adaptador — a marca lista especificamente quais modelos funcionam. Se você tem uma dessas máquinas, pode usar o adaptador sem problemas:"
+        ],
+        "bullets": [
+          "Genio S",
+          "Genio S Touch (a mesma que temos em casa e já testamos)",
+          "Genio S Plus",
+          "Infinissima",
+          "Infinissima Touch",
+          "Piccolo",
+          "Piccolo XS",
+          "Mini Me"
+        ]
+      },
+      {
+        "heading": "Cápsulas NEO compatíveis com o adaptador",
+        "paragraphs": [
+          "Nem todas as cápsulas NEO funcionam com o adaptador — a marca especifica quais cafés estão na lista de compatibilidade oficial:"
+        ],
+        "bullets": [
+          "NEO Espresso Sul de Minas Orgânico",
+          "NEO Espresso Delicate",
+          "NEO Espresso Serras do Alto Paranaíba",
+          "NEO Lungo Chapada Diamantina",
+          "NEO Lungo Cerrado Orgânico"
+        ]
+      },
+      {
+        "heading": "Quanto custa e onde comprar",
+        "paragraphs": [
+          "No site oficial, o Adaptador NEO Start estava sendo vendido por R$ 69,90, de um preço anterior de R$ 89,90 (preço verificado em 30 de julho de 2026 — pode mudar conforme promoções e disponibilidade). Quem tem pontos no Dolce Gusto Club também pode trocar por 10.000 pontos.",
+          "Uma cápsula NEO custa em torno de R$ 22,90 a R$ 28,90 (exemplo: NEO Espresso Delicate saía de R$ 28,90 por R$ 22,90 no período consultado). Considerando que o adaptador é um investimento único e as cápsulas NEO são compostáveis, pode fazer sentido dependendo de quanto café você consome."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Vale a pena comprar?",
+        "paragraphs": [
+          "Essa é uma pergunta que depende do seu caso específico. Se você tem uma máquina Dolce Gusto ORIGINAL e quer usar cápsulas compostáveis, o adaptador é a única solução. Mas vale avaliar:"
+        ],
+        "bullets": [
+          "Se você bebe café diariamente e se importa com compostabilidade, o adaptador custa relativamente pouco pra um uso de longo prazo.",
+          "Se você consome pouquíssimo café, pode não compensar o investimento — nesse caso, as cápsulas ORIGINAL comuns já atendem.",
+          "Se você está pensando em trocar de máquina de qualquer forma, considere a Dolce Gusto NEO ou uma Genio S Touch (que testamos e é compatível com o adaptador).",
+          "Quem participa do Dolce Gusto Club pode trocar por pontos e economizar os R$ 69,90."
+        ]
+      },
+      {
+        "heading": "Integração com o Dolce Gusto Club",
+        "paragraphs": [
+          "Um detalhe legal: as compras de cápsulas NEO no site oficial com o adaptador já somam pontos automaticamente no Dolce Gusto Club. Se você faz parte do programa, isso é um incentivo extra pra considerar o adaptador — acumula pontos e pode trocar depois."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Adaptador NEO Start serve em qual máquina? Serve em: Genio S, Genio S Touch, Genio S Plus, Infinissima, Infinissima Touch, Piccolo, Piccolo XS e Mini Me. Se sua máquina não está nessa lista, o adaptador não é compatível.",
+          "Cápsula NEO funciona na Dolce Gusto normal? Não — cápsulas NEO só funcionam em máquinas NEO ou em máquinas ORIGINAL com o Adaptador NEO Start. Sem o adaptador, a cápsula NEO não encaixa corretamente.",
+          "Adaptador NEO Start vale a pena? Depende de quanto você bebe café e se se importa com sustentabilidade. Se consome regularmente, o investimento de R$ 69,90 se paga ao longo do tempo — as cápsulas NEO compostáveis são o grande diferencial.",
+          "Preciso trocar de máquina para usar cápsulas NEO? Não, se sua máquina está na lista de compatíveis. O adaptador resolve — custa menos que uma máquina nova.",
+          "O adaptador muda a qualidade do café? Não. O sabor sai igual — o adaptador é só um suporte, sem interferência no resultado final.",
+          "Quantas vezes posso usar o mesmo adaptador? O adaptador é reutilizável. Você tira e coloca quantas vezes quiser — não estraga com o uso normal.",
+          "Tem hedge do cupom CECI? Sim, o cupom CECI funciona no site oficial da Dolce Gusto e aplica 5% de desconto em compras acima de R$ 100, incluindo o adaptador e cápsulas NEO. Mas cupons têm prazo de validade — se não estiver mais ativo quando você for comprar, o link abaixo leva direto pra loja oficial."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Conheça o Adaptador NEO Start na loja oficial e aproveite o cupom CECI",
+      "label": "Comprar Adaptador NEO Start",
+      "url": "https://www.nescafe-dolcegusto.com.br/adaptador-neo-start"
+    },
+    "coupon": "CECI",
+    "affiliate": "dolce-gusto",
+    "editorialNote": "Este artigo é um guia de informações baseado em dados públicos disponíveis no site oficial da NESCAFÉ Dolce Gusto e no dossiê do adaptador coletado em 30 de julho de 2026. O cupom CECI faz parte da nossa parceria comercial com a marca e pode gerar comissão para o blog, sem custo adicional para você.",
+    "relatedArticles": [
+      {
+        "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
+        "title": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso"
+      },
+      {
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
+        "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5%"
+      },
+      {
+        "slug": "clube-dolce-gusto-como-funciona",
+        "title": "Clube Dolce Gusto: pontos e prêmios"
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "slug": "starbucks-dolce-gusto-capsulas-guia",
+    "title": "Cápsulas Starbucks na Dolce Gusto: guia completo dos sabores",
+    "type": "Guia",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Guia dos sabores Starbucks exclusivos para o sistema Dolce Gusto: intensidade, formatos (5+5 e 10 cápsulas), preços atualizados de 30/07/2026 e como comprar com o cupom CECI.",
+    "metaDescription": "Cápsulas Starbucks Dolce Gusto: guia completo dos 5 sabores disponíveis, intensidade, preços de 30/07/2026 e como comprar com cupom CECI na loja oficial.",
+    "publishedAt": "Draft",
+    "draft": true,
+    "pros": [],
+    "cons": [],
+    "coupon": "CECI",
+    "affiliate": "dolce-gusto",
+    "editorialNote": "Este é um guia de pesquisa baseado no catálogo oficial da NESCAFÉ Dolce Gusto em 30 de julho de 2026. Preços e estoque mudam conforme o site da marca. A menção ao cupom CECI decorre de uma parceria comercial entre o Em Casa com Cecília e a NESCAFÉ Dolce Gusto.",
+    "cta": {
+      "text": "Conheça as cápsulas Starbucks na loja oficial e aproveite o cupom CECI",
+      "label": "Ver na loja oficial",
+      "url": "https://www.nescafe-dolcegusto.com.br/starbucks"
+    },
+    "relatedArticles": [
+      {
+        "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
+        "title": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso"
+      },
+      {
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
+        "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto"
+      },
+      {
+        "slug": "clube-dolce-gusto-como-funciona",
+        "title": "Clube Dolce Gusto: pontos e prêmios"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "A parceria entre Starbucks e Nestlé no sistema Dolce Gusto",
+        "paragraphs": [
+          "Em 2018, Starbucks Corporation e Nestlé S.A. formaram a Global Coffee Alliance para expandir globalmente os produtos Starbucks em canais de consumo fora das cafeterias. Como parte dessa parceria, a Nestlé obteve os direitos de comercializar e distribuir marcas como Starbucks, Seattle's Best Coffee e Teavana em formatos de cápsula para o sistema Dolce Gusto. No Brasil, essas cápsulas exclusivas Starbucks estão disponíveis apenas para o sistema ORIGINAL da Dolce Gusto.",
+          "O resultado é um catálogo específico de sabores Starbucks preparados sob a supervisão de qualidade da marca de café, mantendo a identidade Starbucks dentro da conveniência das cápsulas Dolce Gusto — 'A qualidade dos cafés Starbucks®, preparados no conforto da sua casa.'"
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Os 5 sabores Starbucks para Dolce Gusto",
+        "paragraphs": [
+          "O catálogo Starbucks by NESCAFÉ Dolce Gusto varia conforme a disponibilidade na loja oficial. Abaixo estão os sabores documentados em 30 de julho de 2026, com preços e status de estoque verificados naquela data. Lembre-se de que preços, ofertas e disponibilidade mudam — sempre confira na loja oficial antes de finalizar a compra."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "1. STARBUCKS Espresso Colombia",
+        "paragraphs": [
+          "Um café de origem única com notas equilibradas, apresentado em cápsula de 10 unidades. Intensidade 7 (moderada-alta na escala Dolce Gusto), indicada para quem aprecia um espresso com corpo sem extremos. O perfil é descrito como 'Uma viagem de sabor'.",
+          "Preço verificado em 30/07/2026: R$ 27,90 com desconto para R$ 21,99 (cliente Clube Dolce Gusto com 2.500 pontos). Essa promoção pode variar — a loja oficial sempre mostra o preço e condição vigentes no momento do acesso."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "2. STARBUCKS Cappuccino",
+        "paragraphs": [
+          "O Cappuccino é apresentado no formato especial 5+5, com 5 cápsulas de café e 5 cápsulas de leite cremoso. Este é um dos dois sabores Starbucks que requer duas cápsulas por bebida: você prepara uma de café + uma de leite para atingir a consistência cremosa característica do cappuccino. O resultado é descrito como 'Rico e cremoso'.",
+          "Preço verificado em 30/07/2026: R$ 27,90 com desconto para R$ 21,99 (promoção variável). O valor pode parecer alto pela quantidade de cápsulas, mas cada caixa rende 5 bebidas completas de cappuccino."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "3. STARBUCKS Caramel Macchiato",
+        "paragraphs": [
+          "Outra bebida de 2 cápsulas, o Caramel Macchiato vem no formato 5+5 (5 de café, 5 de leite). O perfil é 'Doce, cremoso e único', capturando a assinatura Starbucks de doçura equilibrada com crema de café. Como no cappuccino, você usa uma cápsula de leite + uma de café por preparação, totalizando 5 bebidas por caixa.",
+          "Preço verificado em 30/07/2026: R$ 27,90 reduzido para R$ 17,90 — este era o menor preço entre os sabores Starbucks disponíveis na data."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "4. STARBUCKS Espresso Roast",
+        "paragraphs": [
+          "Um café clássico Starbucks com intensidade 11 (a mais alta na escala Dolce Gusto), apresentado em cápsula de 10 unidades. O Espresso Roast é para quem prefere um café encorpado e intenso, sem atenuantes. Descrito como 'Um clássico Starbucks'.",
+          "Status em 30/07/2026: SEM ESTOQUE na loja oficial. Não há preço ativo na data da coleta. Este sabor pode retornar conforme a reposição de estoque — acompanhe o site oficial ou registre-se para notificações de disponibilidade se estiver interessado."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "5. STARBUCKS Americano House Blend",
+        "paragraphs": [
+          "Um café equilibrado com intensidade 8 (moderada-alta), apresentado em formato de 10 cápsulas. O House Blend é um clássico Starbucks pensado como um café de consumo diário, não extremamente intenso nem suave. Descrito como 'Um clássico equilibrado'.",
+          "Status em 30/07/2026: SEM ESTOQUE na loja oficial. Assim como o Espresso Roast, este sabor pode estar em processo de reposição — verifique a página oficial /starbucks para acompanhar o retorno da disponibilidade."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Entendendo o formato 5+5 (bebidas de 2 cápsulas)",
+        "paragraphs": [
+          "Os sabores Cappuccino e Caramel Macchiato usam um formato especial: 5 cápsulas de café + 5 cápsulas de leite na mesma caixa. Cada bebida consome uma cápsula de cada tipo, totalizando 5 bebidas completas por caixa.",
+          "Esse design reflete a fórmula das bebidas à base de leite: você está combinando café concentrado (extraído pela pressão da máquina) com leite aquecido, simulando a técnica barista de um cappuccino ou macchiato. A proporção padrão é 40 ml de café + 200 ml de leite, para uma bebida de aproximadamente 240 ml.",
+          "A compatibilidade é total com máquinas ORIGINAL Dolce Gusto (como a Genio S, Genio S Touch, Mini Me, Piccolo XS, Infinissima), já que o sistema de pressão de 15 bar extrai tanto café quanto leite sem adaptadores."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Compatibilidade com máquinas Dolce Gusto",
+        "paragraphs": [
+          "As cápsulas Starbucks by NESCAFÉ Dolce Gusto são exclusivas do sistema ORIGINAL — não funcionam no sistema NEO, que usa cápsulas de design diferente.",
+          "Qualquer máquina ORIGINAL do catálogo atual (Genio S, Genio S Touch, Mini Me, Piccolo XS, Infinissima, Eclipse) prepara as cápsulas Starbucks sem problemas. A pressão padrão de 15 bar é suficiente para extrair a qualidade de ambos os tipos de cápsula (café puro ou leite).",
+          "Se você tem uma máquina NEO e quer experimentar cápsulas Starbucks, será necessário adquirir o Adaptador NEO Start (vendido separadamente) — mas o adaptador funciona apenas com cápsulas de café preto selecionadas, não com o formato de leite dos macchiatos e cappuccinos."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Preços, estoque e hedge do cupom CECI",
+        "paragraphs": [
+          "Os valores apresentados neste guia foram verificados no site oficial da NESCAFÉ Dolce Gusto em 30 de julho de 2026. Preços são dinâmicos e refletem promoções vigentes naquela data — eles podem subir, descer, ou ser oferecidos em pack promocional sem pré-aviso.",
+          "Da mesma forma, o estoque de um sabor (como Espresso Roast e Americano House Blend em 30/07) muda conforme a reposição. Não há garantia de que um produto indisponível será reabastecido ou quando isso ocorrerá.",
+          "Para comprar com segurança e aproveitando desconto real, use o cupom CECI no checkout: aplique o código na loja oficial antes de finalizar, garantindo 5% OFF em cápsulas, máquinas e acessórios a partir de R$ 100 de compra. Como todo cupom, o CECI tem prazo de validade e pode ser alterado pela marca — se não estiver disponível no momento da sua compra, o link da loja oficial abaixo leva direto aos produtos com o preço e condições vigentes."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Como comprar cápsulas Starbucks na Dolce Gusto",
+        "paragraphs": [
+          "O passo a passo é simples:"
+        ],
+        "bullets": [
+          "Acesse a página /starbucks no site oficial (nescafe-dolcegusto.com.br/starbucks).",
+          "Escolha os sabores disponíveis — verifique estoque e preço vigentes no carrinho.",
+          "Adicione ao carrinho e revise o subtotal (deve estar acima de R$ 100 para usar cupons).",
+          "No checkout, procure a seção de cupons e insira o código CECI.",
+          "Confirme o desconto de 5% — ele é aplicado automaticamente sobre o valor dos produtos.",
+          "Finalize o pagamento conforme as opções disponíveis (débito, crédito parcelado, Pix).",
+          "Acompanhe a entrega via rastreamento enviado por e-mail (prazo até 30 dias úteis)."
+        ]
+      },
+      {
+        "heading": "Maximizando o valor: cupom CECI + Clube Dolce Gusto",
+        "paragraphs": [
+          "Se você já é ou vai se cadastrar no Clube Dolce Gusto, há uma oportunidade dupla de economia: usar o cupom CECI no checkout (5% OFF) e depois cadastrar o código alfanumérico de 12 dígitos impresso na caixa para acumular 100 pontos de fidelidade por caixa. Esses pontos podem ser trocados por novos produtos, acessórios ou vale-presentes na loja do clube.",
+          "A estratégia é: compre com CECI (desconto imediato), receba a encomenda, abra as caixas de cápsulas Starbucks, cadastre os códigos internos no clube, e acumule pontos enquanto consome o café."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Cápsula Starbucks funciona na Dolce Gusto? Sim, as cápsulas Starbucks by NESCAFÉ Dolce Gusto são oficiais e compatíveis com todas as máquinas do sistema ORIGINAL (Genio S, Genio S Touch, Mini Me, Piccolo XS, Infinissima, Eclipse). Não funcionam em máquinas NEO sem adaptador.",
+          "Quais sabores Starbucks tem na Dolce Gusto? Em 30 de julho de 2026, estão disponíveis: Espresso Colombia (intensidade 7, 10 cáps), Cappuccino (5+5 cáps), Caramel Macchiato (5+5 cáps). Os sabores Espresso Roast (intensidade 11) e Americano House Blend (intensidade 8) estavam sem estoque na data. O catálogo pode variar.",
+          "Cápsula Starbucks Dolce Gusto preço: quanto custa? Os preços variam conforme promoção e data. Em 30/07/2026, os sabores disponíveis custavam entre R$ 17,90 e R$ 27,90 (R$ 21,99 com promoção/Clube). Sempre confira na loja oficial antes de comprar — o preço é dinâmico.",
+          "Como usar o cupom CECI nas cápsulas Starbucks? Adicione os produtos ao carrinho no site oficial (nescafe-dolcegusto.com.br), procure a seção de cupons no checkout, insira o código CECI e confirme o desconto de 5% — válido a partir de R$ 100 em compras.",
+          "Posso cadastrar cápsulas Starbucks no Clube Dolce Gusto? Sim. As cápsulas Starbucks vêm com o código de 12 dígitos na embalagem interna. Cadastre-o no painel do clube para ganhar 100 pontos por caixa.",
+          "Quanto ml sai de uma cápsula Starbucks? As cápsulas de café preto (Espresso Colombia, Espresso Roast, Americano House Blend) seguem o padrão de níveis da máquina. As cápsulas de leite (no formato 5+5) entregam cerca de 200 ml por extração. O resultado final é definido pelo nível selecionado no painel ou botões da sua máquina.",
+          "As cápsulas Starbucks são sustentáveis? As cápsulas Dolce Gusto têm alumínio reciclável, mas verifique o programa de reciclagem da marca. A Nestlé oferece informações sobre descarte correto no site oficial e SAC.",
+          "Existe frete grátis para cápsulas Starbucks? Promoções de frete grátis são campanhas pontuais da marca, não permanentes. Consulte o site oficial no momento da compra. O cupom CECI aplica desconto sobre os produtos, não sobre o frete."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "slug": "sleeptest-i-wanna-sleep-como-funciona",
+    "title": "Sleeptest da I Wanna Sleep: como funciona na prática (100 noites, 30 dias e as regras que ninguém lê)",
+    "type": "Guia",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Guia completo sobre a política Sleeptest da I Wanna Sleep: diferenças entre colchões (100 dias), travesseiros (30 dias) e pillow tops, custos, regras de troca, crédito vs reembolso e as pegadinhas que ninguém avisa.",
+    "metaDescription": "Entenda como funciona o Sleeptest da I Wanna Sleep: regras por categoria (colchões 100 dias, travesseiros 30 dias), custos de logística reversa, etiqueta intacta e como funciona a troca com crédito.",
+    "publishedAt": "Draft",
+    "draft": true,
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "O que é o Sleeptest",
+        "paragraphs": [
+          "O Sleeptest é a política de teste de conforto da I Wanna Sleep — basicamente, você compra um colchão, travesseiro ou outro item e tem um período para testar em casa antes de decidir se mantém ou troca. Parece simples, mas a realidade tem camadas: prazos diferentes dependendo do produto, custos que você precisa pagar em algumas categorias, e regras bem específicas sobre embalagem e estado do item.",
+          "A gente mantém uma parceria com a marca e já recebemos alguns produtos aqui em casa (como o Cobertor IWS Igloo), mas nunca acionamos uma troca via Sleeptest. As informações que você encontra neste artigo vêm diretamente da política oficial publicada em suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Sleeptest, consultada em 30 de julho de 2026. Por isso, resolvemos traduzir tudo para PT limpo: o que a gente sabe, as pegadinhas, e o que você precisa conferir antes de comprar."
+        ]
+      },
+      {
+        "heading": "Colchões: 100 dias para testar (e R$300 para trocar)",
+        "paragraphs": [
+          "Os colchões têm o período mais longo: até 100 dias a partir da entrega. Mas tem um detalhe que muda tudo — o uso mínimo.",
+          "Você só pode pedir troca após 15 dias de uso. Isso significa que não é possível comprar, receber, ficar 2 dias e devolver insatisfeito sem usar. A marca quer ter certeza de que você testou de verdade, não apenas abriu a embalagem."
+        ],
+        "bullets": [
+          "Prazo: 100 dias desde a entrega",
+          "Uso mínimo obrigatório: 15 dias antes de poder trocar",
+          "Motivo: Apenas por conforto (não serve para trocar tamanho: casal por casal, por exemplo)",
+          "Condições exigidas: Colchão sem danos visíveis ou sujeira; protetor de colchão usado durante todo o período; etiqueta de fábrica intacta; embalagem original completa; nota fiscal em mãos; 1 troca por CPF (ou seja, você não pode trocar duas vezes)",
+          "Custo da troca: Taxa única de frete + montagem de R$300 em Belo Horizonte e região metropolitana — demais regiões precisam consultar com o pós-vendas",
+          "O que vira crédito ou devolução: Se o novo colchão for mais caro que o que você está devolvendo, você paga a diferença; se for mais barato, o valor vira crédito na loja (não funciona em loja física, só no e-commerce)"
+        ]
+      },
+      {
+        "heading": "Travesseiros: 30 dias e sem custo extra",
+        "paragraphs": [
+          "Travesseiros têm regras mais rápidas e bem mais amigáveis no bolso: você tem 30 dias para testar e não paga nada para trocar.",
+          "Assim como colchões, também é preciso usar no mínimo 15 dias antes de poder solicitar a troca — a marca quer ter certeza de que você testou de verdade."
+        ],
+        "bullets": [
+          "Prazo: 30 dias após recebimento",
+          "Uso mínimo obrigatório: 15 dias antes de poder trocar",
+          "Motivo: Por conforto",
+          "Condições exigidas: Travesseiro em perfeito estado; etiqueta intacta; embalagem original; nota fiscal",
+          "Como funciona a troca: Você envia o travesseiro pelos Correios para o centro de distribuição da marca",
+          "Custo: Zero. A marca arca com a logística reversa",
+          "Você recebe: Crédito de troca (não reembolso em dinheiro). O crédito é inserido na sua conta e pode ser usado para comprar outro travesseiro ou qualquer outro produto elegível"
+        ]
+      },
+      {
+        "heading": "Pillow tops: mesmas regras dos travesseiros",
+        "paragraphs": [
+          "Os pillow tops (aquele tipo de sobrelençol acolchoado que fica encaixado no colchão) seguem exatamente as mesmas regras dos travesseiros: 30 dias, 15 dias mínimo de uso, sem custo para trocar, crédito em troca de devolução."
+        ]
+      },
+      {
+        "heading": "Cobertores: confira a página do produto antes de comprar",
+        "paragraphs": [
+          "Aqui entra uma pegadinha importante. A política oficial do Sleeptest que capturamos da central de ajuda não lista cobertores como categoria — ela cobre colchões, travesseiros e pillow tops.",
+          "Mas produtos específicos como o Cobertor IWS Igloo (que a gente tem aqui em casa) anunciam suas próprias políticas de teste na página do produto. No caso do Igloo, a marca anuncia \"teste de 30 noites com reembolso em crédito\".",
+          "A lição: não suponha que cobertor segue a regra de travesseiro só porque parecem similares. Cada produto tem sua política anunciada na página. Confira lá antes de adicionar ao carrinho — e se tiver dúvida, mande mensagem pro atendimento da marca para confirmar antes de comprar."
+        ]
+      },
+      {
+        "heading": "Nutrição e outras categorias",
+        "paragraphs": [
+          "A política oficial menciona que existem regras de Sleeptest para a categoria \"Nutrição\" (suplementos), mas os detalhes específicos não estão publicados na central de ajuda que consultamos. Se você quer comprar um suplemento com a garantia de teste, entre em contato direto com o pós-vendas da marca para não ter surpresa — não assuma que as regras de travesseiro vale para suplemento."
+        ]
+      },
+      {
+        "heading": "Letras miúdas que todo comprador precisa saber",
+        "paragraphs": [
+          "Além das regras por categoria, aqui estão os detalhes que costumam passar batido e depois geram frustração:"
+        ],
+        "bullets": [
+          "Etiqueta intacta é obrigatória: Se você remover a etiqueta de fábrica, perde o direito à troca. Mesmo que o colchão/travesseiro esteja perfeito.",
+          "Um só CPF, uma só troca: Não tente traçar a conta — a política é explícita em \"1 troca por CPF\". Você não consegue trocar duas vezes, nem com pessoas diferentes da família usando o mesmo CPF.",
+          "E-commerce troca em e-commerce, loja física troca em loja física: Se você comprou online, a troca é processada online. Se comprou na loja física, volta para a loja física.",
+          "Crédito vale só no e-commerce (para colchões com diferença de preço): Se você pedir crédito, esse crédito não vale em loja física — só no site.",
+          "Embalagem original tem que estar completa: Não é só o colchão/travesseiro que importa — você precisa guardar toda a embalagem original durante os 100 dias (colchões) ou 30 dias (travesseiros). Se perdeu a caixa, perdeu a chance de trocar.",
+          "Nota fiscal é documento obrigatório: Não venda com descontos \"sem nota fiscal\" — você vai precisar dela para ativar a garantia de teste."
+        ]
+      },
+      {
+        "heading": "Crédito ou reembolso? (Spoiler: geralmente é crédito)",
+        "paragraphs": [
+          "Essa é a pergunta mais frequente. Na prática:",
+          "Para travesseiros e pillow tops: O cliente recebe crédito automaticamente — não há devolução em dinheiro. O crédito fica na sua conta da loja e pode ser usado para comprar outro travesseiro, pillow top, lençol, sleepwear ou acessórios.",
+          "Para colchões com diferença de preço: Se o novo colchão for mais barato, você também recebe crédito — não reembolso. Se for mais caro, você paga a diferença.",
+          "Em resumo: A política prioriza o crédito na loja, não devoluções em dinheiro. É uma prática comum em e-commerce, mas é bom saber disso na hora de decidir."
+        ]
+      },
+      {
+        "heading": "Vale a pena? O veredito",
+        "paragraphs": [
+          "O Sleeptest é uma ótima garantia de conforto — você não está comprando \"gato por lebre\" nem ficando preso a um colchão que não dorme bem. Mas não é tão \"sem risco\" quanto parece à primeira vista.",
+          "Para colchões, os R$300 de taxa de logística reversa são um custo real. Em Belo Horizonte pode não parecer muito, mas é algo que você precisa contabilizar antes de comprar — se o colchão vai ser devolvido, você já desconta esses R$300 do valor que pagou. Se você mora em outro estado, a taxa pode ser ainda maior, então consulte.",
+          "Para travesseiros, aí sim: sem custo, 30 dias, crédito. É um incentivo real para você testar em casa com calma, o que é legal.",
+          "A grande pegadinha é a etiqueta intacta e a embalagem original completa — muita gente abre tudo para limpar/lavar antes de dormir pela primeira vez e depois descobre que não pode trocar. Leia essa parte do contrato antes de rasgar a embalagem."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Como funciona o Sleeptest da I Wanna Sleep? É um período de teste de conforto para colchões (100 dias), travesseiros (30 dias) e pillow tops (30 dias). Você testa em casa, e se não gostar de conforto, pode trocar por outro — com algumas condições (uso mínimo, embalagem original, etiqueta intacta).",
+          "Colchão I Wanna Sleep tem teste? Sim, 100 dias — mas você precisa usar no mínimo 15 dias antes de poder solicitar a troca.",
+          "Sleeptest devolve dinheiro ou crédito? Depende do produto. Para travesseiros, é sempre crédito. Para colchões, é crédito se o novo for mais barato; se for mais caro, você paga a diferença. Não há reembolso em dinheiro — tudo vira crédito de loja.",
+          "Quanto custa devolver colchão I Wanna Sleep? R$300 em Belo Horizonte e região metropolitana. Demais regiões precisam consultar com o pós-vendas da marca, pois o custo de logística varia.",
+          "Preciso manter a etiqueta? Sim, é obrigatório. Se arrancar a etiqueta de fábrica, perde o direito à troca.",
+          "Posso trocar duas vezes? Não, a política permite apenas 1 troca por CPF durante todo o período.",
+          "Se eu não gostar do colchão em 5 dias, consigo trocar? Não, é preciso usar no mínimo 15 dias antes de poder solicitar a troca.",
+          "A embalagem original precisa estar perfeita? Sim, a embalagem original tem que estar completa se você quiser trocar — não pode estar rasgada ou parcialmente desmontada.",
+          "Vale a pena comprar colchão I Wanna Sleep com Sleeptest? Vale a pena pelo conforto testado, mas lembre-se dos R$300 de custo de troca (BH/região) e das condições rígidas (etiqueta intacta, 15 dias mínimo de uso, sem danos). Se você tem certeza do que quer, o Sleeptest é um diferencial. Se está muito em dúvida, converse antes com o atendimento para ter certeza da altura/densidade certa."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Conheça os produtos I Wanna Sleep e aproveite o cupom CECIEMCASA",
+      "label": "Ver site oficial",
+      "url": "https://www.iwannasleep.com.br/"
+    },
+    "coupon": "CECIEMCASA",
+    "affiliate": "i-wanna-sleep",
+    "editorialNote": "Este artigo traduz a política oficial de Sleeptest da I Wanna Sleep com base em dados públicos coletados diretamente da central de ajuda oficial em 30 de julho de 2026. O cupom CECIEMCASA (10% de desconto) é oferecido por meio de uma parceria comercial entre o Em Casa com Cecília e a marca. Ao comprar por meio de nossas indicações, você ajuda a manter nosso trabalho editorial sem qualquer custo adicional. Os preços, políticas e cupons estão sujeitos a alterações pela marca.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
+        "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%"
+      },
+      {
+        "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
+        "title": "Cobertor IWS Igloo: toque gelado de um lado, aconchego quentinho do outro"
+      }
+    ]
   }
 ];
