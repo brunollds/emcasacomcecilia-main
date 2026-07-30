@@ -36833,7 +36833,7 @@ export const reviewsData: unknown[] = [
     "cta": {
       "text": "Conheça a YesStyle e aproveite o código CECILIA010",
       "label": "Visitar loja",
-      "url": "https://ystyle.co/x5pes"
+      "url": "https://ystyle.co/rQYQv"
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -36843,7 +36843,8 @@ export const reviewsData: unknown[] = [
         "slug": "codigo-cecilia010-yesstyle-como-usar",
         "title": "Como usar o código CECILIA010 na YesStyle: passo a passo do Reward Code"
       }
-    ]
+    ],
+    "locale": "pt"
   },
   {
     "id": 245,
