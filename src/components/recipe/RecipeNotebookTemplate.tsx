@@ -37,6 +37,7 @@ export interface RecipeNotebookTemplateProps {
     primary?: boolean;
   }[];
   youtubeEmbedUrl: string | null;
+  videoPageUrl: string | null;
   recipeImage: string;
   recipeImageAlt: string;
   breadcrumbJsonLd: Record<string, unknown>;
@@ -48,6 +49,7 @@ export function RecipeNotebookTemplate({
   viewModel,
   taxonomyChips,
   youtubeEmbedUrl,
+  videoPageUrl,
   recipeImage,
   recipeImageAlt,
   breadcrumbJsonLd,
@@ -345,6 +347,14 @@ export function RecipeNotebookTemplate({
               <PlayCircle size={16} className="text-[#ff6b35]" />
               Assista ao passo a passo detalhado no YouTube
             </p>
+            {videoPageUrl && (
+              <Link
+                href={videoPageUrl}
+                className="mt-3 inline-flex items-center gap-2 text-sm font-bold text-[#ff6b35] hover:text-[#1a4d2e]"
+              >
+                Abrir a página dedicada ao vídeo
+              </Link>
+            )}
           </div>
         </section>
       )}

@@ -1,12 +1,9 @@
-# HANDOFF — VideoObject no domínio principal (+ cupom BTS26)
+# HANDOFF — Vídeos no domínio principal
 
-**Estado em 28/07/2026: PROJETO CONCLUÍDO E NO AR.** Commits `6f68175` (vídeo) e
-`6cacefd` (BTS26) deployados via CI (run 30396095773, rerun verde após timeout
-SSH do runner — fail2ban provável; produção nunca ficou inconsistente).
-Verificado em produção: 12 páginas com VideoObject, Rich Results Test 4/4
-pilotos com "Vídeos: 1 item válido" (rabanada, poltrona-damie-e-boa,
-i-wanna-sleep-cobertor-igloo-ficha-tecnica, minha-experiencia-manteiga-batida-aerada),
-IndexNow 24 URLs. Nenhuma implementação em andamento — só as pendências abaixo.
+**Estado em 01/08/2026:** VideoObject editorial em 12 páginas e Entrega 3
+implementada com 11 páginas de exibição em `/videos/[slug]`, hub `/videos` e
+extensão de vídeo no sitemap principal. Antes do deploy, executar todos os gates
+da seção final. Guia de autoria: `docs/GUIA-EDITORIAL-VIDEOS.md`.
 
 ## Arquitetura (o que um sucessor precisa saber)
 
@@ -29,11 +26,21 @@ IndexNow 24 URLs. Nenhuma implementação em andamento — só as pendências ab
   pode gerar schema; um único VideoObject por página. O preview da central
   importa esses módulos — **manter os exports compatíveis**
   (`getYoutubeEmbedUrl` é re-exportado de review-template-props de propósito).
+- **Páginas de exibição**: `src/lib/video-pages.js` liga cada vídeo editorial
+  único a um slug e ao artigo/receita de origem. As rotas
+  `src/app/(pt)/videos/[slug]/page.js` colocam um único player, com controles,
+  imediatamente depois do H1. `/videos` é o hub navegável.
+- **Sitemap de vídeo**: o próprio `sitemap.xml` usa a extensão oficial
+  `xmlns:video` por meio da propriedade `videos` do Next.js. Só as páginas
+  `/videos/[slug]` recebem `<video:video>`; artigos, loops complementares e
+  vídeos decorativos não entram como vídeos no sitemap. O `llms.txt` também
+  deriva o hub e as páginas do mesmo registro `videoPages`.
 - **Validador**: `scripts/validate-video-schema.ts`, roda dentro de
   `npm run build` (fail-closed). Cobre: URL sem ID válido, entrada faltante no
   registro, campos obrigatórios, ISO 8601, `/embed/`, assets locais existentes
   em `public/`, MP4 de review alheio, >1 primary por página, primary competindo
-  com YouTube, registro órfão.
+  com YouTube, registro órfão, página de exibição ausente/duplicada e divergência
+  entre registro, VideoObject e sitemap.
 
 ## Regra operacional para vídeo novo
 
@@ -41,19 +48,21 @@ IndexNow 24 URLs. Nenhuma implementação em andamento — só as pendências ab
 2. O ID novo PRECISA ganhar entrada em `videoMetadata` (título real, descrição
    exclusiva, uploadDate da publicação no YouTube, duração) — senão o build
    falha. Fonte: API do YouTube (part=snippet,contentDetails) ou manual.
-3. MP4 editorial novo: entrada em `localVideoMetadata` com classificação
+3. Todo vídeo YouTube do registro precisa de uma definição única em
+   `video-pages.js`, com slug, artigo de origem e título do artigo.
+4. MP4 editorial novo: entrada em `localVideoMetadata` com classificação
    explícita + poster exclusivo. Loop decorativo → `decorative` (sem schema).
-4. O build nunca chama API externa.
+5. MP4 `primary` também precisa de definição em `video-pages.js`. `secondary` e
+   `decorative` nunca ganham página de exibição nem entrada no sitemap.
+6. O build nunca chama API externa.
 
 ## Pendências (nenhuma é código em andamento)
 
 | Item | Prazo | Ação |
 |---|---|---|
-| **Cupom BTS26 expira** | 30/07 23:59 GMT (20:59 BRT) | Em 31/07 o build TRAVA (fail-loud por design). Remover/substituir/desativar em `src/lib/yesstyleCoupons.ts` + build + deploy. A página estática em produção NÃO expira sozinha. |
 | **Bolo de cenoura** | decisão do Bruno | `content/receitas/bolo-de-cenoura-com-cobertura-de-chocolate.json` tem `youtubeUrl` apontando pro CANAL. Remover o campo ou trocar pelo vídeo certo (registrar o ID novo), **fora de operação ativa da central**, e então tirar o slug de `KNOWN_INVALID_YOUTUBE_URLS` no validador. |
 | **Product snippet inválido** | backlog (chip criado) | Preexistente: `itemReviewed: Product` sem offers/review/aggregateRating → inelegível a Snippets do produto em TODOS os reviews de produto. Correção = Product top-level com review aninhado; mexe no shape do jsonLd e no validador (atualizar juntos). |
-| **Search Console** | 2-7-28 dias | Acompanhar relatório de vídeos + receitas dos pilotos. |
-| **Futuro opcional** | — | Páginas `/videos/[slug]` + video sitemap (só se vídeo virar frente SEO relevante). DAMIE tem sistema próprio já no ar; o `videoSchema` de lá segue permissivo de propósito — não "corrigir" sem plano. |
+| **Search Console** | 2-7-28 dias após deploy | Reenviar `sitemap.xml`, acompanhar “Vídeos encontrados” e solicitar validação de “O vídeo não está em uma página de exibição”. |
 
 ## Gates antes de qualquer mudança nesta área
 

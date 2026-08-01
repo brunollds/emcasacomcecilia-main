@@ -10,6 +10,11 @@ import {
   buildLocalVideoObject,
   buildYoutubeVideoObject,
 } from '@/lib/video-schema';
+import {
+  getVideoPageForSourcePath,
+  getVideoPageForYoutubeUrl,
+  getVideoPageUrl,
+} from '@/lib/video-pages';
 
 export { getYoutubeEmbedUrl };
 
@@ -52,6 +57,9 @@ export function buildReviewTemplateProps(review) {
       })
     : null;
   const videoJsonLd = youtubeVideoJsonLd || localVideoJsonLd;
+  const videoPage = getVideoPageForYoutubeUrl(review.youtubeUrl)
+    || getVideoPageForSourcePath(`/reviews/${currentSlug}`);
+  const videoPageUrl = getVideoPageUrl(videoPage);
   const productBrand = review.brand || review.productSpec?.find(
     (spec) => spec.key?.toLowerCase() === 'marca'
   )?.value;
@@ -156,6 +164,7 @@ export function buildReviewTemplateProps(review) {
     review,
     viewModel,
     youtubeEmbedUrl,
+    videoPageUrl,
     reviewImage: review.image,
     reviewImageAlt: review.imageAlt || review.title,
     breadcrumbJsonLd,

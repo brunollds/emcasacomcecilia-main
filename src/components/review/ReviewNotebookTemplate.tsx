@@ -27,6 +27,7 @@ export interface ReviewNotebookTemplateProps {
   review: Review;
   viewModel: ReviewViewModel;
   youtubeEmbedUrl: string | null;
+  videoPageUrl: string | null;
   reviewImage: string;
   reviewImageAlt: string;
   breadcrumbJsonLd: Record<string, unknown>;
@@ -188,6 +189,7 @@ export function ReviewNotebookTemplate({
   review,
   viewModel,
   youtubeEmbedUrl,
+  videoPageUrl,
   reviewImage,
   reviewImageAlt,
   breadcrumbJsonLd,
@@ -442,6 +444,14 @@ export function ReviewNotebookTemplate({
                 video={review.video}
               />
             </EditorialReveal>
+            {videoPageUrl && !youtubeEmbedUrl && (
+              <Link
+                href={videoPageUrl}
+                className="mt-4 inline-flex items-center gap-2 text-sm font-bold text-[#ff6b35] hover:text-[#1a4d2e]"
+              >
+                <PlayCircle size={17} aria-hidden="true" /> Abrir a página dedicada ao vídeo
+              </Link>
+            )}
           </header>
 
           {/* Layout principal + sidebar */}
@@ -607,6 +617,14 @@ export function ReviewNotebookTemplate({
                     <PlayCircle size={16} className="text-[#ff6b35]" />
                     Assista ao vídeo completo no YouTube
                   </p>
+                  {videoPageUrl && (
+                    <Link
+                      href={videoPageUrl}
+                      className="mt-3 inline-flex items-center gap-2 text-sm font-bold text-[#ff6b35] hover:text-[#1a4d2e]"
+                    >
+                      Abrir a página dedicada ao vídeo <ArrowRight size={16} aria-hidden="true" />
+                    </Link>
+                  )}
                 </section>
               )}
 

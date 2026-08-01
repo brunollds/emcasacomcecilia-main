@@ -178,6 +178,7 @@ export function getShellNavLinks(localeStr: string) {
     return [
       { href: '/receitas', label: 'Receitas', primary: true },
       { href: '/reviews', label: 'Reviews' },
+      { href: '/videos', label: 'Vídeos' },
       { href: '/cupons', label: 'Cupons' },
       { href: '/sobre', label: 'Sobre' },
       { href: '/contato', label: 'Contato' },

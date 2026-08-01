@@ -295,6 +295,7 @@ Use como tracking; marcar no PR:
 | `blog/WRITING-GUIDE.md` | Dicas (opções/limites de autoria) |
 | `docs/CONTINUIDADE.md` | Central Editorial |
 | `src/lib/content/types.ts` | Em Casa (schema a estender) |
+| `docs/GUIA-EDITORIAL-VIDEOS.md` | Em Casa (autoria, classificação e publicação de vídeos) |
 
 ---
 

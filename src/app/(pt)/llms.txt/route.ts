@@ -1,6 +1,7 @@
 import { recipes, publishedReviews, getReviewSlug } from '@/lib/data';
 import { getActiveCoupons } from '@/lib/couponsData';
 import { yesStyleLocales } from '@/components/YesStyleCouponPage';
+import { videoPages } from '@/lib/video-pages';
 
 const BASE_URL = 'https://emcasacomcecilia.com';
 
@@ -60,6 +61,7 @@ function buildLlmsText(): string {
     formatLink('Home', BASE_URL, 'hub oficial da Cecilia'),
     formatLink('Receitas', `${BASE_URL}/receitas`, 'receitas testadas e organizadas por categorias'),
     formatLink('Reviews e analises', `${BASE_URL}/reviews`, 'reviews, guias e comparativos publicados'),
+    formatLink('Videos', `${BASE_URL}/videos`, 'receitas, testes e demonstracoes em video'),
     formatLink('Cupons ativos', `${BASE_URL}/cupons`, 'codigos e beneficios verificados'),
     formatLink('Sobre', `${BASE_URL}/sobre`, 'informacoes editoriais e autoria'),
     formatLink('Contato', `${BASE_URL}/contato`, 'canal de contato do site'),
@@ -91,6 +93,12 @@ function buildLlmsText(): string {
         `${BASE_URL}/receitas/${recipe.slug}`,
         recipe.description
       )
+    ),
+    '',
+    '## Videos',
+    '',
+    ...videoPages.map((video) =>
+      formatLink(video.title, video.canonicalUrl, video.description)
     ),
     '',
     '## Cupons e codigos ativos',

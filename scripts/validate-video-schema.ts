@@ -1,6 +1,7 @@
 import { existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { recipes, reviews } from '@/lib/data';
+import sitemap from '@/app/sitemap';
 import { buildRecipeTemplateProps } from '@/lib/recipe-template-props';
 import { buildReviewTemplateProps } from '@/lib/review-template-props';
 import {
@@ -8,9 +9,12 @@ import {
   getYoutubeEmbedUrl,
   getYoutubeVideoId,
   localVideoMetadata,
+  videoMetadata,
 } from '@/lib/video-metadata';
+import { buildLocalVideoObject, buildYoutubeVideoObject } from '@/lib/video-schema';
+import { videoPages } from '@/lib/video-pages';
 
-type ContentKind = 'receita' | 'review';
+type ContentKind = 'receita' | 'review' | 'página de vídeo';
 
 type VideoSchema = {
   '@type'?: string;
@@ -47,6 +51,7 @@ const KNOWN_INVALID_YOUTUBE_URLS = new Set(['bolo-de-cenoura-com-cobertura-de-ch
 
 const errors: string[] = [];
 let validatedPages = 0;
+let validatedWatchPages = 0;
 
 function isIso8601Date(value: string | undefined): boolean {
   return Boolean(
@@ -251,10 +256,110 @@ for (const sourceUrl of Object.keys(localVideoMetadata)) {
   }
 }
 
+const sourcePagePaths = new Set([
+  ...recipes.map((recipe) => `/receitas/${recipe.slug}`),
+  ...reviews.map((review) => `/reviews/${review.slug}`),
+]);
+const sitemapEntries = sitemap();
+const seenVideoPageSlugs = new Set<string>();
+const seenVideoSources = new Set<string>();
+
+for (const videoPage of videoPages) {
+  const sourceKey = videoPage.kind === 'youtube'
+    ? `youtube:${videoPage.videoId}`
+    : `local:${videoPage.contentUrl}`;
+
+  if (seenVideoPageSlugs.has(videoPage.slug)) {
+    report('página de vídeo', videoPage.slug, 'slug duplicado');
+  }
+  seenVideoPageSlugs.add(videoPage.slug);
+
+  if (seenVideoSources.has(sourceKey)) {
+    report('página de vídeo', videoPage.slug, 'vídeo possui mais de uma página de exibição');
+  }
+  seenVideoSources.add(sourceKey);
+
+  if (!sourcePagePaths.has(videoPage.sourcePath)) {
+    report('página de vídeo', videoPage.slug, `conteúdo de origem não existe: ${videoPage.sourcePath}`);
+  }
+
+  const videoObject = videoPage.kind === 'youtube'
+    ? buildYoutubeVideoObject({
+        url: videoPage.youtubeUrl,
+        title: videoPage.title,
+        description: videoPage.description,
+        thumbnailUrl: videoPage.thumbnailUrl,
+        uploadDate: videoPage.uploadDate,
+        duration: videoPage.duration,
+      })
+    : buildLocalVideoObject(videoPage);
+
+  if (!videoObject || videoObject['@type'] !== 'VideoObject') {
+    report('página de vídeo', videoPage.slug, 'não gera VideoObject completo');
+  } else {
+    if (!videoObject.name || !videoObject.description) {
+      report('página de vídeo', videoPage.slug, 'VideoObject sem título ou descrição');
+    }
+    if (!videoObject.thumbnailUrl || !/^https?:\/\//.test(videoObject.thumbnailUrl)) {
+      report('página de vídeo', videoPage.slug, 'VideoObject sem thumbnailUrl absoluta');
+    }
+    if (!isIso8601Date(videoObject.uploadDate)) {
+      report('página de vídeo', videoPage.slug, 'VideoObject sem uploadDate ISO 8601 válida');
+    }
+  }
+
+  const sitemapEntry = sitemapEntries.find((entry) => entry.url === videoPage.canonicalUrl);
+  const sitemapVideo = sitemapEntry?.videos?.[0];
+  if (!sitemapEntry || sitemapEntry.videos?.length !== 1 || !sitemapVideo) {
+    report('página de vídeo', videoPage.slug, 'não possui exatamente uma entrada no sitemap de vídeo');
+  } else {
+    if (
+      sitemapVideo.title !== videoPage.title ||
+      sitemapVideo.description !== videoPage.description ||
+      sitemapVideo.thumbnail_loc !== new URL(videoPage.thumbnailUrl, 'https://emcasacomcecilia.com').toString()
+    ) {
+      report('página de vídeo', videoPage.slug, 'metadados do sitemap divergem do registro editorial');
+    }
+    if (videoPage.kind === 'youtube' && sitemapVideo.player_loc !== videoPage.embedUrl) {
+      report('página de vídeo', videoPage.slug, 'player_loc do sitemap não corresponde ao embed do YouTube');
+    }
+    if (
+      videoPage.kind === 'local' &&
+      sitemapVideo.content_loc !== new URL(videoPage.contentUrl, 'https://emcasacomcecilia.com').toString()
+    ) {
+      report('página de vídeo', videoPage.slug, 'content_loc do sitemap não corresponde ao MP4');
+    }
+  }
+
+  validatedWatchPages += 1;
+}
+
+for (const videoId of Object.keys(videoMetadata)) {
+  const matches = videoPages.filter(
+    (videoPage) => videoPage.kind === 'youtube' && videoPage.videoId === videoId
+  );
+  if (matches.length !== 1) {
+    errors.push(`vídeo YouTube ${videoId}: esperado 1 página de exibição, encontradas ${matches.length}`);
+  }
+}
+
+for (const [contentUrl, metadata] of Object.entries(localVideoMetadata)) {
+  if ((metadata as LocalVideoMetadata).classification !== 'primary') continue;
+
+  const matches = videoPages.filter(
+    (videoPage) => videoPage.kind === 'local' && videoPage.contentUrl === contentUrl
+  );
+  if (matches.length !== 1) {
+    errors.push(`MP4 principal ${contentUrl}: esperado 1 página de exibição, encontradas ${matches.length}`);
+  }
+}
+
 if (errors.length > 0) {
   console.error('Falha na validação de vídeos:');
   for (const error of errors) console.error(`- ${error}`);
   process.exit(1);
 }
 
-console.log(`Vídeos válidos: ${validatedPages} página(s) com VideoObject completo.`);
+console.log(
+  `Vídeos válidos: ${validatedPages} página(s) editoriais e ${validatedWatchPages} página(s) de exibição.`
+);

@@ -3,6 +3,7 @@ import { recipes, publishedReviews, getReviewSlug } from '@/lib/data';
 import { getActiveCoupons } from '@/lib/couponsData';
 import { YESSTYLE_LOCALES } from '@/lib/i18n/yesstyleCluster';
 import { getLatestYesStyleVerifiedAtISO } from '@/lib/yesstyleCoupons';
+import { isoDurationToSeconds, videoPages } from '@/lib/video-pages';
 
 const BASE_URL = 'https://emcasacomcecilia.com';
 
@@ -10,6 +11,7 @@ const staticRoutes: MetadataRoute.Sitemap = [
   { url: BASE_URL, priority: 1.0, changeFrequency: 'daily' },
   { url: `${BASE_URL}/receitas`, priority: 0.9, changeFrequency: 'daily' },
   { url: `${BASE_URL}/reviews`, priority: 0.8, changeFrequency: 'weekly' },
+  { url: `${BASE_URL}/videos`, priority: 0.8, changeFrequency: 'weekly' },
   { url: `${BASE_URL}/cupons`, priority: 0.8, changeFrequency: 'weekly' },
   { url: `${BASE_URL}/categorias`, priority: 0.7, changeFrequency: 'weekly' },
   { url: `${BASE_URL}/sobre`, priority: 0.6, changeFrequency: 'monthly' },
@@ -41,6 +43,32 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: coupon.lastVerified,
   }));
 
+  const videoRoutes: MetadataRoute.Sitemap = videoPages.map((video) => ({
+    url: video.canonicalUrl,
+    priority: 0.7,
+    changeFrequency: 'monthly' as const,
+    lastModified: video.uploadDate,
+    videos: [
+      {
+        title: video.title,
+        thumbnail_loc: new URL(video.thumbnailUrl, BASE_URL).toString(),
+        description: video.description,
+        ...(video.kind === 'youtube'
+          ? { player_loc: video.embedUrl }
+          : { content_loc: new URL(video.contentUrl, BASE_URL).toString() }),
+        ...(isoDurationToSeconds(video.duration)
+          ? { duration: isoDurationToSeconds(video.duration) }
+          : {}),
+        publication_date: video.uploadDate,
+        family_friendly: 'yes' as const,
+        uploader: {
+          info: `${BASE_URL}/sobre`,
+          content: 'Em Casa com Cecília',
+        },
+      },
+    ],
+  }));
+
   // [P1 Centralizado]: Data da verificação mais recente para os 8 hubs internacionais YesStyle
   const latestYesStyleDate = getLatestYesStyleVerifiedAtISO();
 
@@ -54,5 +82,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: latestYesStyleDate,
     }));
 
-  return [...staticRoutes, ...recipeRoutes, ...reviewRoutes, ...couponRoutes, ...internationalYesStyleHubs];
+  return [
+    ...staticRoutes,
+    ...recipeRoutes,
+    ...reviewRoutes,
+    ...videoRoutes,
+    ...couponRoutes,
+    ...internationalYesStyleHubs,
+  ];
 }

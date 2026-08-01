@@ -5,6 +5,7 @@ import { getCategorySlug, getRecipeImage, getRecipeImageAlt, getRecipePrimaryCat
 import { buildSchemaAuthors, minutesToIsoDuration, normalizeRecipe } from '@/lib/content';
 import { getYoutubeEmbedUrl } from '@/lib/video-metadata';
 import { buildYoutubeVideoObject } from '@/lib/video-schema';
+import { getVideoPageForYoutubeUrl, getVideoPageUrl } from '@/lib/video-pages';
 
 // Função auxiliar para converter tempo legível (ex: '15 min', '1h 20 min') para ISO 8601 (ex: 'PT15M', 'PT1H20M')
 function convertToISO8601(timeStr) {
@@ -98,6 +99,7 @@ export function buildRecipeTemplateProps(recipe) {
   const baseUrl = 'https://emcasacomcecilia.com';
   const taxonomyChips = getRecipeTaxonomyChips(recipe);
   const youtubeEmbedUrl = getYoutubeEmbedUrl(recipe.youtubeUrl);
+  const videoPageUrl = getVideoPageUrl(getVideoPageForYoutubeUrl(recipe.youtubeUrl));
 
   const breadcrumbJsonLd = {
     '@context': 'https://schema.org',
@@ -165,6 +167,7 @@ export function buildRecipeTemplateProps(recipe) {
     viewModel,
     taxonomyChips,
     youtubeEmbedUrl,
+    videoPageUrl,
     recipeImage,
     recipeImageAlt,
     breadcrumbJsonLd,
