@@ -32378,11 +32378,11 @@ export const reviewsData: unknown[] = [
   {
     "id": 18,
     "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-    "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5% (JULHO 2026)",
+    "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5% (AGOSTO 2026)",
     "type": "Guia & Cupons",
     "reviewKind": "guia",
     "description": "Guia completo para aplicar o cupom CECI no site oficial da NESCAFÉ Dolce Gusto e garantir 5% de desconto em compras acima de R$ 100.",
-    "metaDescription": "Cupom CECI NESCAFÉ Dolce Gusto: use o código CECI no site oficial e ganhe 5% OFF em cápsulas, cafeteiras e acessórios para compras acima de R$ 100. Ativo para JULHO 2026.",
+    "metaDescription": "Cupom CECI NESCAFÉ Dolce Gusto: use o código CECI no site oficial e ganhe 5% OFF em cápsulas, cafeteiras e acessórios para compras acima de R$ 100. Ativo para AGOSTO 2026.",
     "publishedAt": "19 Jun 2026",
     "publishedAtISO": "2026-06-19",
     "image": "/images/reviews/cupons/nescafe-dolce-gusto-hero.webp",
@@ -32450,7 +32450,7 @@ export const reviewsData: unknown[] = [
           "Compra Mínima: A partir de R$ 100 em produtos",
           "Limites: Até 3 utilizações por CPF",
           "Onde usar: Site oficial NESCAFÉ Dolce Gusto Brasil",
-          "Válido em: JULHO 2026 (cupom verificado e ativo)"
+          "Válido em: AGOSTO 2026 (cupom verificado e ativo)"
         ],
         "emphasis": "Use o código CECI no checkout da NESCAFÉ DOLCE GUSTO e economize 5% em todas as suas compras elegíveis.",
         "links": [
@@ -32463,7 +32463,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Dolce Gusto hoje: está ativo?",
         "paragraphs": [
-          "Sim, o cupom CECI está ativo para compras na loja oficial da NESCAFÉ Dolce Gusto. Nossa última verificação foi em 1º de julho de 2026, e o código continua válido para o período. O cupom mantém as mesmas regras: 5% de desconto em compras acima de R$ 100, limitado a 3 usos por CPF, válido para todo o catálogo de cápsulas, máquinas e acessórios.",
+          "Sim, o cupom CECI está ativo para compras na loja oficial da NESCAFÉ Dolce Gusto. Nossa última verificação foi em 1º de agosto de 2026, e o código continua válido para o período. O cupom mantém as mesmas regras: 5% de desconto em compras acima de R$ 100, limitado a 3 usos por CPF, válido para todo o catálogo de cápsulas, máquinas e acessórios.",
           "Para estar sempre segura sobre as condições mais recentes, confira a página dedicada ao cupom Dolce Gusto aqui do blog. Ela é atualizada regularmente com novas informações sobre o código, mudanças nas regras e promoções pontuais que possam estar ativas no site oficial."
         ],
         "links": [
@@ -32538,7 +32538,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que fazer se o cupom CECI não funcionar?",
         "paragraphs": [
-          "Embora o cupom CECI seja um cupom válido e ativo para JULHO 2026, algumas situações podem impedir a aplicação. Veja o que verificar."
+          "Embora o cupom CECI seja um cupom válido e ativo para AGOSTO 2026, algumas situações podem impedir a aplicação. Veja o que verificar."
         ],
         "bullets": [
           "Código digitado incorretamente: Verifique se digitou CECI sem espaços ou caracteres extras.",
@@ -32560,7 +32560,7 @@ export const reviewsData: unknown[] = [
           "Desconto: 5% sobre o valor dos produtos.",
           "Compra mínima: Válido para pedidos a partir de R$ 100 em produtos.",
           "Limite de uso: Cada CPF pode utilizar o cupom no máximo 3 vezes.",
-          "Validade: Verificado e ativo para JULHO 2026 — atualizado todo mês.",
+          "Validade: Verificado e ativo para AGOSTO 2026 — atualizado todo mês.",
           "Onde usar: Exclusivamente no site oficial da NESCAFÉ DOLCE GUSTO Brasil.",
           "Acumulação: O cupom pode ou não ser combinado com outras promoções do site, dependendo da regra vigente.",
           "Frete: O desconto não se aplica ao valor do frete, apenas aos produtos."
@@ -32585,7 +32585,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Economia real: 5% de desconto pode parecer pouco, mas em compras recorrentes de cápsulas ou na aquisição de uma máquina, faz diferença no final do mês.",
-          "Código verificado: Testamos e confirmamos que o cupom CECI está ativo e válido para JULHO 2026.",
+          "Código verificado: Testamos e confirmamos que o cupom CECI está ativo e válido para AGOSTO 2026.",
           "Sem burocracia: Basta digitar o código no checkout — sem cadastros extras, sem programas de fidelidade obrigatórios.",
           "Ajuda o blog: Ao usar nosso cupom, você apoia o Em Casa com Cecília sem pagar nada a mais por isso. O desconto é integralmente seu!"
         ]
@@ -32597,7 +32597,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "O cupom CECI funciona no app da NESCAFÉ Dolce Gusto? Atualmente, este guia foca no uso do cupom no site oficial. Estamos verificando se o código também é válido no aplicativo móvel e atualizaremos este artigo assim que confirmarmos.",
-          "O cupom CECI tem data de validade? O código é atualizado e verificado mensalmente. Para JULHO 2026, o cupom CECI está válido e ativo. Sempre volte aqui para confirmar o código do mês atual antes de comprar.",
+          "O cupom CECI tem data de validade? O código é atualizado e verificado mensalmente. Para AGOSTO 2026, o cupom CECI está válido e ativo. Sempre volte aqui para confirmar o código do mês atual antes de comprar.",
           "Posso usar o cupom CECI mais de uma vez? Sim! O cupom CECI pode ser usado em até 3 compras por CPF. Não há limite global de utilizações por cliente fora dessa regra do CPF, desde que seja aplicado no site oficial da NESCAFÉ DOLCE GUSTO.",
           "O desconto de 5% é sobre o frete também? Não. O cupom CECI aplica 5% OFF apenas sobre o valor dos produtos. O valor do frete é calculado separadamente e não entra na base de cálculo do desconto.",
           "O que acontece se o cupom não der certo? Se o código não for aplicado, verifique se: digitou corretamente como CECI; sua compra somou pelo menos R$ 100; você já não atingiu o limite de 3 usos no seu CPF; o produto não está em uma promoção exclusiva que bloqueie cupons.",
@@ -34382,7 +34382,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom Magalu da Cecília está ativo?",
         "paragraphs": [
-          "Sim. A última verificação foi feita em 17 de julho de 2026 e as dez faixas do cupom Magalu estavam ativas, de R$ 10 a R$ 100 OFF conforme o valor do carrinho. Os códigos seguem válidos para produtos vendidos e entregues pelo Magalu, com uso exclusivo na loja Magazine Você da Cecília pelo navegador.",
+          "Sim. A última verificação foi feita em 1º de agosto de 2026 e as dez faixas do cupom Magalu estavam ativas, de R$ 10 a R$ 100 OFF conforme o valor do carrinho. Os códigos seguem válidos para produtos vendidos e entregues pelo Magalu, com uso exclusivo na loja Magazine Você da Cecília pelo navegador.",
           "Prova real: nessa verificação eu testei o 50EMCASACOMCECILIA em um carrinho de R$ 2.999 e o desconto de R$ 50 apareceu no resumo do pedido — o print está no passo 4 deste guia.",
           "Eu testo os cupons todo mês. Se algo mudar, a página dedicada ao cupom Magalu aqui do blog é a primeira a ser atualizada.",
           "Um lembrete que eu repito sempre: se você tentar o código no aplicativo do Magalu, não vai funcionar. Não é bug — é a regra desta campanha. O cupom só existe dentro da minha loja no Magazine Você, acessada pelo navegador."
@@ -34490,7 +34490,7 @@ export const reviewsData: unknown[] = [
           "Válido apenas para produtos vendidos e entregues pelo Magalu — marketplace não participa.",
           "Cada faixa tem seu valor mínimo: de R$ 499,90 para R$ 10 OFF até R$ 4.999,90 para R$ 100 OFF.",
           "Uso exclusivo no navegador, na loja Magazine Você da Cecília — não funciona no app nem em magazineluiza.com.br.",
-          "Os cupons são verificados mensalmente; a última verificação foi em 17 de julho de 2026."
+          "Os cupons são verificados mensalmente; a última verificação foi em 1º de agosto de 2026."
         ]
       },
       {
@@ -34520,14 +34520,14 @@ export const reviewsData: unknown[] = [
           "Posso usar mais de um cupom na mesma compra? Em regra, não. Vale um cupom por pedido, então escolha o código da faixa mais alta que o seu carrinho alcançar.",
           "O cupom vale para qualquer produto? Vale para produtos vendidos e entregues pelo Magalu. Itens de lojistas parceiros do marketplace não entram no desconto.",
           "O cupom acumula com ofertas e frete grátis? O desconto não vale sobre o frete e, em regra, não é cumulativo com outros cupons. Ofertas de preço do site costumam valer normalmente.",
-          "Qual a validade dos cupons? Os códigos são verificados mensalmente. A última verificação foi em 17 de julho de 2026 — volte sempre a este guia ou à página do cupom antes de comprar.",
+          "Qual a validade dos cupons? Os códigos são verificados mensalmente. A última verificação foi em 1º de agosto de 2026 — volte sempre a este guia ou à página do cupom antes de comprar.",
           "Comprar na loja da Cecília é seguro? Sim: o domínio magazinevoce.com.br é do próprio Magalu e quem opera tudo é a Magazine Luiza — veja os detalhes na seção 'Por que o cupom só funciona na loja Magazine Você da Cecília?' aqui deste guia."
         ]
       }
     ],
     "pros": [
       "Dez faixas de desconto, de R$ 10 a R$ 100 OFF, para compras de diferentes tamanhos",
-      "Cupons verificados mensalmente — última checagem em 17 de julho de 2026",
+      "Cupons verificados mensalmente — última checagem em 1º de agosto de 2026",
       "Operação 100% Magalu: venda, cobrança, entrega e pós-venda pela própria Magazine Luiza",
       "Login com a mesma conta Magalu, sem cadastro novo e sem compartilhar dados",
       "Desconto aplicado na hora, visível no resumo do pedido antes do pagamento"

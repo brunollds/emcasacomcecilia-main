@@ -105,6 +105,7 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
   const origRewardVerified = primaryReward.verifiedAt;
 
   const promoToMutate = activePromos[0];
+  const expectedMutatedLatest = promoToMutate ? '2026-11-26' : '2026-11-25';
   const origPromoCode = promoToMutate ? promoToMutate.code : '';
   const origPromoDiscount = promoToMutate ? { ...promoToMutate.discount } : null;
   const origPromoVerified = promoToMutate ? promoToMutate.verifiedAt : '';
@@ -129,7 +130,7 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
     } else {
       if (ptHub.code !== 'MUTATIONTEST99') errors.push(`Hub PT code: esperado "MUTATIONTEST99", obteve "${ptHub.code}"`);
       if (ptHub.discountNumber !== 99) errors.push(`Hub PT discountNumber: esperado 99, obteve ${ptHub.discountNumber}`);
-      if (ptHub.lastVerified !== '2026-11-26') errors.push(`Hub PT lastVerified esperado "2026-11-26" (maior data mutada), obteve "${ptHub.lastVerified}"`);
+      if (ptHub.lastVerified !== expectedMutatedLatest) errors.push(`Hub PT lastVerified esperado "${expectedMutatedLatest}" (maior data mutada), obteve "${ptHub.lastVerified}"`);
     }
 
     // 6. Testar resolvedor, metadata, hreflangs com igualdade total e breadcrumbs estritos para TODOS OS 9 LOCALES
@@ -189,8 +190,8 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
       }
 
       // Check dateModified na resposta resolvida
-      if (resolved.verifiedAtISO !== '2026-11-26') {
-        errors.push(`resolved.verifiedAtISO esperado "2026-11-26" (data mutada mais recente), obteve "${resolved.verifiedAtISO}"`);
+      if (resolved.verifiedAtISO !== expectedMutatedLatest) {
+        errors.push(`resolved.verifiedAtISO esperado "${expectedMutatedLatest}" (data mutada mais recente), obteve "${resolved.verifiedAtISO}"`);
       }
 
       // Check Japanese copy button text
@@ -265,7 +266,7 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
           errors.push(`Mensagem de estado sem cupons inválida para locale "${locale}": "${emptyStateResolved.emptyPromosNotice}"`);
         }
         for (const inst of emptyStateResolved.instructions) {
-          if (inst.includes(origPromoCode) || inst.includes('PROMOTEST88')) {
+          if ((origPromoCode && inst.includes(origPromoCode)) || inst.includes('PROMOTEST88')) {
             errors.push(`Instrução do estado sem cupom promocional contém código promocional resíduo em "${locale}": "${inst}"`);
           }
         }

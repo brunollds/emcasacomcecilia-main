@@ -1,7 +1,7 @@
 # Rastreamento de datas mensais dos cupons
 
 > Documento de referência para facilitar a atualização mensal das referências de cupons no projeto.
-> Última atualização: julho/2026.
+> Última atualização: agosto/2026.
 
 ## Arquivos que precisam de revisão mensal
 
@@ -20,7 +20,7 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 |---|---|---|---|
 | `damie` | DAMIE | `CECILIA12` | `lastVerified`, `metaDescription` |
 | `dolce-gusto` | Nescafé Dolce Gusto | `CECI` | `lastVerified` |
-| `yesstyle` | YesStyle | `CECILIA010` | `lastVerified` |
+| `yesstyle` | YesStyle | `CECILIA010` (recompensa) + `26READY` (promocional até 03/08) | `lastVerified`; conferir `verifiedAt`, `expiresAt` e `status` em `src/lib/yesstyleCoupons.ts` |
 | `nutren` | Nutren / Nestlé Nutri | `CECI` | `lastVerified` |
 | `i-wanna-sleep` | I Wanna Sleep | `CECIEMCASA` | `lastVerified` |
 | `magalu` | Magalu (Magazine Você da Cecília) | `100EMCASACOMCECILIA` (+ 9 faixas em `tiers`) | `lastVerified`, `metaTitle`, `metaDescription`, FAQ "Cupom Magalu hoje" |
@@ -37,7 +37,7 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 - Não há hardcode de mês/ano neste arquivo — a data exibida vem de `lastVerified`.
 - **Não precisa editar** a menos que a estrutura do bloco mude.
 
-### 3. `src/lib/data.ts` — artigos de cupom
+### 3. `content/reviews/*.json` — artigos de cupom
 
 Os artigos abaixo contêm referências ao mês/ano e precisam de atualização mensal:
 
@@ -45,7 +45,7 @@ Os artigos abaixo contêm referências ao mês/ano e precisam de atualização m
 
 #### YesStyle
 
-| Slug | Linhas aproximadas | Campos a verificar |
+| Slug | Referência | Campos a verificar |
 |---|---|---|
 | `codigo-cecilia010-yesstyle-como-usar` | ~18745 | textos sobre validade, se houver |
 | `yesstyle-reward-code-coupon-cecilia010` | ~18998 | textos sobre validade, se houver |
@@ -55,30 +55,30 @@ Os artigos abaixo contêm referências ao mês/ano e precisam de atualização m
 
 #### DAMIE
 
-| Slug | Linhas aproximadas | Campos a verificar |
+| Slug | Referência | Campos a verificar |
 |---|---|---|
 | `cupom-cecilia12-como-usar` | ~20064 | textos sobre validade |
 
 #### NESCAFÉ Dolce Gusto
 
-| Slug | Linhas aproximadas | Campos a verificar |
+| Slug | Referência | Campos a verificar |
 |---|---|---|
 | `cupom-ceci-nescafe-dolce-gusto-como-usar` | ~21142 | `title`, `metaDescription`, textos com `JUNHO 2026`/`JULHO 2026` |
 | `promocao-dolce-gusto-caixas-mini-me-gratis` | ~22100 | regras e textos da promoção, se a oferta mudar |
 
 #### I Wanna Sleep
 
-| Slug | Linhas aproximadas | Campos a verificar |
+| Slug | Referência | Campos a verificar |
 |---|---|---|
-| `cupom-ceciemcasa-i-wanna-sleep-como-usar` | ~21667 | `title` (draft: true, mas mantém referência ao mês) |
+| `cupom-ceciemcasa-i-wanna-sleep-como-usar` | arquivo JSON homônimo | textos sobre validade, se houver |
 
 #### Nestlé Nutre
 
-| Slug | Linhas aproximadas | Campos a verificar |
+| Slug | Referência | Campos a verificar |
 |---|---|---|
-| `cupom-ceci-nestle-nutre-como-usar` | ~21902 | `title` (draft: true, mas mantém referência ao mês) |
+| `cupom-ceci-nestle-nutre-como-usar` | arquivo JSON homônimo | textos sobre validade, se houver |
 
-### 4. `src/lib/data.ts` — reviews relacionadas às marcas de cupom
+### 4. `content/reviews/*.json` — reviews relacionadas às marcas de cupom
 
 Essas reviews mencionam cupons e/ou são referenciadas em `relatedContent` dos cupons. Não atualizar `publishedAt`/`publishedAtISO` no ciclo mensal; revisar apenas textos de cupom caso exista menção ao mês vigente:
 
@@ -98,15 +98,15 @@ Antes de atualizar, rode uma busca para encontrar possíveis referências ao mê
 
 ```bash
 # Busca por meses/anos literais (ajustar conforme o mês anterior)
-grep -n -E "(Janeiro|Fevereiro|Março|Abril|Maio|Junho|Julho|Agosto|Setembro|Outubro|Novembro|Dezembro|JANEIRO|FEVEREIRO|MARÇO|ABRIL|MAIO|JUNHO|JULHO|AGOSTO|SETEMBRO|OUTUBRO|NOVEMBRO|DEZEMBRO)\s+2026" src/lib/data.ts src/lib/couponsData.ts
+grep -n -E "(Janeiro|Fevereiro|Março|Abril|Maio|Junho|Julho|Agosto|Setembro|Outubro|Novembro|Dezembro|JANEIRO|FEVEREIRO|MARÇO|ABRIL|MAIO|JUNHO|JULHO|AGOSTO|SETEMBRO|OUTUBRO|NOVEMBRO|DEZEMBRO)\s+2026" content/reviews src/lib/couponsData.ts
 
 # Busca por datas ISO do mês anterior (exemplo: junho 2026)
 # Atenção: datas em `publishedAtISO` podem ser datas editoriais legítimas e não devem ser trocadas automaticamente.
-grep -n -E "2026-06-[0-9]{2}" src/lib/data.ts src/lib/couponsData.ts
+grep -n -E "2026-06-[0-9]{2}" content/reviews src/lib/couponsData.ts
 
 # Busca por datas no formato "DD Mmm 2026" do mês anterior (exemplo: junho)
 # Atenção: datas em `publishedAt` podem ser datas editoriais legítimas e não devem ser trocadas automaticamente.
-grep -n -E "(Jan|Fev|Mar|Abr|Mai|Jun|Jul|Ago|Set|Out|Nov|Dez)\s+2026" src/lib/data.ts src/lib/couponsData.ts
+grep -n -E "(Jan|Fev|Mar|Abr|Mai|Jun|Jul|Ago|Set|Out|Nov|Dez)\s+2026" content/reviews src/lib/couponsData.ts
 ```
 
 ## Checklist de atualização mensal
