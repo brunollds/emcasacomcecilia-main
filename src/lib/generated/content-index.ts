@@ -36655,7 +36655,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Tabela oficial de medidas Dolce Gusto com os valores em ml confirmados no manual da Genio S Touch — inclui café espresso, lungo, receitas multi-pass e a função XL.",
-    "metaDescription": "Quantos ml sai em cada nível da Dolce Gusto? Veja a tabela completa com valores do manual oficial: 35 ml, 50 ml, 200 ml, 240 ml, 300 ml e muito mais.",
+    "metaDescription": "Quantos ml sai em cada nível da Dolce Gusto? Tabela completa: Nível 1 (35-40ml), 2 (50-60ml), 3 (90ml), 4 (120ml), 5 (150ml), 6 (180ml), 7 (220ml) e XL (300ml).",
     "publishedAt": "Draft",
     "draft": true,
     "pros": [],
@@ -36676,12 +36676,14 @@ export const reviewsData: unknown[] = [
           "Os valores abaixo são aqueles que constam no manual da nossa máquina. Alguns aparecem em cartões de receita, outros estão registrados junto aos ícones da escala de barras:"
         ],
         "bullets": [
-          "1 tracinho (ou 1 barra) = 35 ml — café espresso pequeno (painel verde)",
-          "2 tracinhos (ou 2 barras) = 50 ml — espresso (painel roxo/magenta)",
-          "200 ml — aparece em receitas de múltiplos passos (painel verde-limão)",
-          "Receita multi-pass (ex. latte) = passo 1 com 200 ml + passo 2 com 40 ml = 240 ml total (painel verde-limão)",
-          "150 g de gelo + 150 ml de água = 300 ml no copo (receita gelada, painel azul-escuro)",
-          "XL = 300 ml — o tamanho máximo (painel vermelho)"
+          "1 barra (1 nível) = 35 ml a 40 ml — Ristretto / Espresso curto",
+          "2 barras (2 níveis) = 50 ml a 60 ml — Espresso tradicional",
+          "3 barras (3 níveis) = 80 ml a 90 ml — Espresso duplo ou bebidas curtas com leite",
+          "4 barras (4 níveis) = 110 ml a 120 ml — Lungo / Cappuccino (passo café)",
+          "5 barras (5 níveis) = 140 ml a 150 ml — Café au Lait / Chá",
+          "6 barras (6 níveis) = 170 ml a 180 ml — Bebidas médias com leite / Chocolates",
+          "7 barras (7 níveis) = 200 ml a 220 ml — Café grande / Bebidas longas",
+          "Função XL = 300 ml — Tamanho máximo extra grande"
         ]
       },
       {
@@ -36713,8 +36715,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quantos ml cada botão/tracinho da Dolce Gusto? Conforme nosso manual: 1 = 35 ml, 2 = 50 ml, depois vem 200 ml e 300 ml (XL). Os intermediários (3, 4, 5, 6) não têm ml documentado.",
-          "Tabela de medidas Dolce Gusto: e os níveis 3 a 6? A Nestlé não publica valores oficiais para os níveis 3, 4, 5 e 6 tracinhos — eles variam conforme a cápsula. Cada embalagem traz a recomendação de nível impressa.",
+          "Quantos ml cada botão/tracinho da Dolce Gusto? Conforme o manual oficial: 1 barra = 35-40ml, 2 = 50-60ml, 3 = 90ml, 4 = 120ml, 5 = 150ml, 6 = 180ml, 7 = 220ml e XL = 300ml.",
+          "Tabela de medidas Dolce Gusto: e os níveis intermediários? Cada barra no painel aumenta o volume progressivamente: dos 35-40 ml (nível 1) aos 220 ml (nível 7) e 300 ml (XL).",
           "O que significa os tracinhos/riscos da Dolce Gusto? Os tracinhos (ou barras) indicam a quantidade de água que vai passar pela cápsula. Mais tracinhos = mais água = bebida mais leve ou maior volume.",
           "Quantos tracinhos para lungo? A Nestlé menciona 4 tracinhos de água para Lungos — esse dado vem da documentação oficial do Adaptador NEO Start.",
           "Dolce Gusto XL: realmente 300 ml? Sim. O manual da Genio S Touch confirma 300 ml para a função XL, não 280 ml como alguns sites dizem.",
@@ -36743,7 +36745,9 @@ export const reviewsData: unknown[] = [
         "slug": "dolce-gusto-e-confiavel",
         "title": "Dolce Gusto é confiável? O que observar antes de comprar"
       }
-    ]
+    ],
+    "image": "/images/reviews/dolcegusto/genio-s-touch-dimensoes.webp",
+    "imageAlt": "Tabela e esquemas de volume em ml da NESCAFÉ Dolce Gusto Genio S Touch"
   },
   {
     "id": 244,
@@ -36844,7 +36848,9 @@ export const reviewsData: unknown[] = [
         "title": "Como usar o código CECILIA010 na YesStyle: passo a passo do Reward Code"
       }
     ],
-    "locale": "pt"
+    "locale": "pt",
+    "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
+    "imageAlt": "Produtos de K-Beauty e promoções na plataforma YesStyle"
   },
   {
     "id": 245,
@@ -37200,7 +37206,9 @@ export const reviewsData: unknown[] = [
         "slug": "clube-dolce-gusto-como-funciona",
         "title": "Clube Dolce Gusto: pontos e prêmios"
       }
-    ]
+    ],
+    "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-2.webp",
+    "imageAlt": "Cecília Mauad com a cafeteira NESCAFÉ Dolce Gusto em casa"
   },
   {
     "id": 247,
@@ -37362,7 +37370,9 @@ export const reviewsData: unknown[] = [
           "Existe frete grátis para cápsulas Starbucks? Promoções de frete grátis são campanhas pontuais da marca, não permanentes. Consulte o site oficial no momento da compra. O cupom CECI aplica desconto sobre os produtos, não sobre o frete."
         ]
       }
-    ]
+    ],
+    "image": "/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-2026-hero.webp",
+    "imageAlt": "Caixas de cápsulas NESCAFÉ Dolce Gusto e Starbucks em casa"
   },
   {
     "id": 248,
@@ -37506,6 +37516,8 @@ export const reviewsData: unknown[] = [
         "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
         "title": "Cobertor IWS Igloo: toque gelado de um lado, aconchego quentinho do outro"
       }
-    ]
+    ],
+    "image": "/images/reviews/iwannasleep/cupom-ceciemcasa-i-wanna-sleep-como-usar.webp",
+    "imageAlt": "Produtos i Wanna Sleep e teste do sono em casa"
   }
 ];
