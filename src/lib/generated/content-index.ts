@@ -29496,7 +29496,6 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Aprenda a encontrar cupons YesStyle válidos, evitar códigos expirados e fazer a combinação com o código de recompensa CECILIA010 para economizar até 5% extra.",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
-    "isNew": true,
     "authors": [
       {
         "name": "Cecília Mauad",
@@ -34726,7 +34725,6 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso: unboxing, painel touch, velocidade, o que incomodou e cupom CECI para comprar.",
     "publishedAt": "23 de julho de 2026",
     "draft": false,
-    "isNew": true,
     "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-1.webp",
     "imageAlt": "Cecília Mauad com a máquina NESCAFÉ Dolce Gusto Genio S Touch em casa",
     "imageFit": "cover",
@@ -36659,6 +36657,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2 de agosto de 2026",
     "publishedAtISO": "2026-08-02",
     "draft": false,
+    "isNew": true,
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -36725,6 +36724,14 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
+        "heading": "Cupom CECI para comprar na loja oficial",
+        "paragraphs": [
+          "Se você chegou diretamente a este guia e pretende comprar cápsulas ou uma máquina, use o cupom **CECI** na loja oficial da NESCAFÉ Dolce Gusto para obter **5% de desconto**, conforme as regras vigentes no momento da compra.",
+          "Digite CECI no campo de cupom antes de concluir o pedido e confirme se o desconto foi aplicado. O cupom faz parte da nossa parceria comercial com a marca, sem custo adicional para você."
+        ],
+        "bullets": []
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quantos ml cada botão ou tracinho da Dolce Gusto? A Nestlé não publica uma equivalência única para toda a linha. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, reunimos estas referências aproximadas: 1 barra = 35-40 ml, 2 = 50-60 ml, 3 = 80-90 ml, 4 = 110-120 ml, 5 = 140-150 ml, 6 = 170-180 ml, 7 = 200-220 ml e XL = 300 ml.",
@@ -36734,14 +36741,6 @@ export const reviewsData: unknown[] = [
           "Dolce Gusto XL: realmente 300 ml? Nos manuais consultados da Genio S Touch e da Mini Me 2.0, sim: ambos mostram 300 ml para a função XL. Outros modelos ou referências podem apresentar informações diferentes.",
           "Cupom CECI ainda é válido? Cupons promocionais têm prazo de validade e podem mudar. Se o CECI não estiver ativo quando você for comprar, o link da loja oficial neste artigo mostra a promoção vigente no momento."
         ]
-      },
-      {
-        "heading": "Cupom CECI para comprar na loja oficial",
-        "paragraphs": [
-          "Se você chegou diretamente a este guia e pretende comprar cápsulas ou uma máquina, use o cupom **CECI** na loja oficial da NESCAFÉ Dolce Gusto para obter **5% de desconto**, conforme as regras vigentes no momento da compra.",
-          "Digite CECI no campo de cupom antes de concluir o pedido e confirme se o desconto foi aplicado. O cupom faz parte da nossa parceria comercial com a marca, sem custo adicional para você."
-        ],
-        "bullets": []
       }
     ],
     "cta": {
