@@ -36688,13 +36688,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-2.webp",
         "imageAlt": "Detalhe da indicação de mililitros por nível de barra impressa no manual oficial",
-        "imageFit": "square",
-        "video": {
-          "mp4": "/videos/reviews/dolcegusto/tabela-manual-dolce-gusto-loop.mp4",
-          "poster": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-loop-poster.webp",
-          "alt": "Demonstração em vídeo da seleção de nível de água no painel da máquina NESCAFÉ Dolce Gusto",
-          "aspect": "square"
-        }
+        "imageFit": "square"
       },
       {
         "heading": "Como funciona a variação de volume por nível",
@@ -36714,7 +36708,10 @@ export const reviewsData: unknown[] = [
           "Uma curiosidade: a própria Nestlé usa a palavra 'tracinho' na documentação oficial. Você pode ver isso até na página do Adaptador NEO Start no site da marca, que menciona 'Para cafés espressos, faça com 1 tracinho de água, para Lungos, com 4 tracinhos'.",
           "Isso confirma a correspondência direta da escala: **lungo = 4 tracinhos** (aprox. 120 ml de café), mantendo a proporção exata entre o espresso curto (1 ou 2 barras) e as bebidas de volume maior."
         ],
-        "bullets": []
+        "bullets": [],
+        "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-1.webp",
+        "imageAlt": "Foto real do manual da NESCAFÉ Dolce Gusto com a indicação de tracinhos e níveis",
+        "imageFit": "square"
       },
       {
         "heading": "A tabela corrigida (vs. o que você vê em outros sites)",
@@ -36746,7 +36743,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este artigo é baseado no manual impresso da NESCAFÉ Dolce Gusto Genio S Touch. A menção ao cupom CECI decorre de uma parceria comercial entre o Em Casa com Cecília e a NESCAFÉ Dolce Gusto. O cupom tem prazo de validade — se não estiver disponível, o site oficial mostra as promoções vigentes.",
+    "editorialNote": "Este artigo é baseado no manual impresso da NESCAFÉ Dolce Gusto Genio S Touch. A menção ao cupom CECI decorre de uma parceria comercial entre o Em Casa com Cecília e a NESCAFÉ Dolce Gusto.",
     "relatedArticles": [
       {
         "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
@@ -36786,7 +36783,13 @@ export const reviewsData: unknown[] = [
         "alt": "Confirmação do volume de 300 ml para a função XL",
         "caption": "Confirmação no manual oficial: a função XL corresponde a 300 ml."
       }
-    ]
+    ],
+    "video": {
+      "mp4": "/videos/reviews/dolcegusto/tabela-manual-dolce-gusto-loop.mp4",
+      "poster": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-loop-poster.webp",
+      "alt": "Demonstração em vídeo da seleção de nível de água no painel da máquina NESCAFÉ Dolce Gusto",
+      "aspect": "square"
+    }
   },
   {
     "id": 244,
