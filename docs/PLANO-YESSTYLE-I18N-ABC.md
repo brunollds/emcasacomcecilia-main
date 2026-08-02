@@ -1,6 +1,81 @@
 # Plano YesStyle — i18n, cupons dinâmicos e hubs indexáveis
 
-Status: Projeto A concluído e em produção; Projetos B e C pendentes
+> ⚠️ **ATUALIZAÇÃO 25/07/2026 — LEIA ISTO ANTES DE QUALQUER COISA ABAIXO.**
+> O corpo deste documento (seções 1–11) é o **plano original**, escrito antes da
+> execução. Ele descreve B2 e C como pendentes e descreve a arquitetura de C
+> como um spike em aberto entre duas opções. **Isso não reflete mais a
+> produção.** Os projetos A, B1, B2 e C foram todos implementados, revisados e
+> **deployados em produção** entre 24 e 25/07/2026. Antes de planejar qualquer
+> trabalho novo no cluster YesStyle, leia a Seção 0 abaixo — ela é a fonte da
+> verdade sobre o estado atual. Se este aviso e o corpo do documento
+> divergirem, **a Seção 0 vence**.
+
+## 0. Status final (produção, 25/07/2026 — substitui as seções 1–7 como fonte de estado)
+
+**Todo o programa A → B1 → B2 → C está em produção.** Não há projeto pendente
+no cluster YesStyle. O que resta é rotina editorial (revalidação de cupons) e
+monitoramento (Search Console).
+
+- **Projeto A** — commit `4342fab`. Registro central (`src/lib/i18n/yesstyleCluster.ts`),
+  locale explícito nos 18 artigos, fonte factual única de cupons
+  (`src/lib/yesstyleCoupons.ts`), mapas duplicados removidos.
+- **Projeto B1** — commit `d86cc61`/`c3c30f4`. Hub transacional dinâmico nos 9
+  idiomas (Reward Code `CECILIA010` + cupons promocionais quando houver +
+  estado vazio localizado), consumindo a fonte factual do A. Tabela própria da
+  YesStyle (Tipo/Código/Benefício/Validade/Região/Verificado) — **não** reusa
+  `tiers` do Magalu.
+- **Projeto B2** — commit `a72a7b4`, deploy run `30173684324`. **Os 9 hubs são
+  canônicos e indexáveis.** `/en/coupons/yesstyle` (e os outros 7) têm
+  `canonical` self-referenciado, não apontam mais para os artigos. Cluster de
+  hreflang hub↔hub com 10 chaves recíprocas + `x-default → /en/coupons/yesstyle`.
+  Sitemap com 27 URLs YesStyle (18 artigos + 9 hubs). Seletor dos hubs alterna
+  hub↔hub; seletor dos artigos continua artigo↔artigo. Verificado ao vivo em
+  produção, incluindo contraprova de que os artigos não vazaram hreflang para
+  hubs.
+- **Projeto C** — commit `475b4ae`, deploy run `30179984685`. **`<html lang>`
+  nativo no HTML bruto, sem JavaScript.** `DocumentLangSetter` e o script
+  inline foram removidos. **A arquitetura final NÃO é a descrita na Seção 7
+  original** (split único pt/internacional). Depois de uma iteração (chamada
+  C0b), a solução foi: `(pt)` + um route group `(yesstyle-XX)` por idioma (9
+  root layouts no total). Dentro de `(pt)`, `/reviews/[slug]` continua
+  dinâmico e as reviews em português navegam via `ViewTransitionLink`
+  (`next/link`) — **navegação 100% SPA dentro do português, sem recarga**. Os
+  16 artigos internacionais existem como rotas estáticas explícitas dentro do
+  route group do próprio idioma (rota estática vence a dinâmica do `(pt)`).
+  Recarga completa do documento só acontece ao cruzar idiomas — comportamento
+  intencional e necessário para entregar o `<html lang>` correto, e medido em
+  produção como imperceptível (documento novo já chega com o lang certo, sem
+  flash perceptível).
+- **Decisão definitiva sobre migrar URLs dos 16 artigos internacionais**
+  (`/reviews/yesstyle-...` → `/{locale}/reviews/...`): **fora da mesa, e não
+  deve ser reaberta.** A Seção 7 original só recomendava essa migração se a
+  arquitetura de layout único falhasse — ela não falhou (é isso que o C0b
+  prova). Reabrir essa migração agora seria trabalho puro sem ganho: os hubs
+  já são canônicos (B2) e o `lang` já sai certo (C) sem mexer numa única URL
+  de artigo.
+- **Protocolo real de revisão observado**: Gemini implementa → Codex revisa
+  tecnicamente cada etapa → revisão de última instância (verificação
+  independente em produção, HTML bruto e gates rodados por fora) antes de
+  cada gate. Manter esse protocolo em qualquer trabalho novo no cluster.
+- **Rotina editorial viva (não é projeto, é operação):**
+  - `BTSVIP15` tem `recheckBy: '2026-07-27'` na fonte factual. O validador
+    **derruba o build** a partir de 28/07 se a oferta não for re-verificada ou
+    marcada `expired` — mas isso só protege builds futuros; a página estática
+    já deployada não some sozinha. Re-checar no site da YesStyle e rodar
+    build+deploy novo é ação manual.
+  - Acompanhar Search Console dos 9 hubs nas janelas de 2, 7 e 28 dias
+    (cobertura, "Duplicate without user-selected canonical", impressões por
+    idioma) — é a primeira medição real da hipótese de tráfego transacional
+    internacional.
+  - Deploy é **manual** (`workflow_dispatch` do GitHub Actions "Deploy
+    emcasa"). Merge na `main` não deploya sozinho.
+
+---
+
+## Plano original (histórico — mantido para registro de decisão, não é mais o estado atual)
+
+Status original: Projeto A concluído e em produção; Projetos B e C pendentes
+(ver Seção 0 acima para o estado real)
 
 Baseline de produção após o Projeto A: `4342fab`
 
