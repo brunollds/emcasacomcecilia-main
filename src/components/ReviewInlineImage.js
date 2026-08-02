@@ -312,12 +312,13 @@ export default function ReviewInlineImage({ section, reviewTitle }) {
 
   const isMulti = images.length > 1;
   const isSinglePortrait = images.length === 1 && images[0].fit === 'portrait';
+  const isSingleSquare = images.length === 1 && images[0].fit === 'square';
   const isSingleContain = images.length === 1 && images[0].fit === 'contain';
   const isSingleWide = images.length === 1 && images[0].fit === 'wide';
 
   return (
     <>
-      <div className={`mt-6 grid w-full gap-4 ${isMulti ? 'grid-cols-1 sm:grid-cols-2' : 'grid-cols-1'} ${isSinglePortrait ? 'mx-auto max-w-[320px]' : isSingleWide ? 'mx-auto max-w-3xl' : isSingleContain ? 'mx-auto max-w-2xl' : ''}`}>
+      <div className={`mt-6 grid w-full gap-4 ${isMulti ? 'grid-cols-1 sm:grid-cols-2' : 'grid-cols-1'} ${isSinglePortrait ? 'mx-auto max-w-[320px]' : isSingleSquare ? 'mx-auto max-w-md md:max-w-lg' : isSingleWide ? 'mx-auto max-w-3xl' : isSingleContain ? 'mx-auto max-w-2xl' : ''}`}>
         {images.map((image, index) => (
           <InlineImageThumbnail
             key={`${image.src}-${index}`}
