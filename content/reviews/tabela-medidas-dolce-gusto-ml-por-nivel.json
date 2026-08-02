@@ -42,7 +42,10 @@
         "6 barras (6 níveis) = 170 ml a 180 ml — Bebidas médias com leite / Chocolates",
         "7 barras (7 níveis) = 200 ml a 220 ml — Café grande / Bebidas longas",
         "Função XL = 300 ml — Tamanho máximo extra grande"
-      ]
+      ],
+      "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-2.webp",
+      "imageAlt": "Detalhe da indicação de mililitros por nível de barra impressa no manual oficial",
+      "imageFit": "square"
     },
     {
       "heading": "Como funciona a variação de volume por nível",
@@ -51,7 +54,10 @@
         "Cada cápsula traz a quantidade recomendada impressa na embalagem em forma de barras. Ao selecionar o número correspondente no painel touch, a máquina extrai a quantidade exata de água programada para aquela receita.",
         "Para bebidas de múltiplos passos (como lattes e cappuccinos), o volume total no copo é a soma das duas etapas: por exemplo, 170 ml de leite (nível 6) + 50 ml de café (nível 2) resultam em 220 ml no copo."
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-3.webp",
+      "imageAlt": "Guia de receitas e bebidas com indicação de barras no manual da Dolce Gusto",
+      "imageFit": "square"
     },
     {
       "heading": "Terminologia: tracinho, barra, nível e lungo",
@@ -67,7 +73,10 @@
         "Alguns sites afirmam que XL = 280 ml. Não é verdade — o manual da Dolce Gusto confirma **300 ml para XL**. Esse erro circula há um tempo, e a gente quis deixar registrado aqui pra quem buscar: confie no manual da sua máquina ou no site oficial (nescafe-dolcegusto.com.br), não em especulações.",
         "Se você tem uma máquina diferente (Mini Me, Piccolo, Infinissima, etc.) e o manual dela traz valores diferentes, lembre: cada modelo pode ter suas variações. O que você lê aqui é específico da Genio S Touch."
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-4.webp",
+      "imageAlt": "Confirmação do volume máximo de 300 ml para a função XL no manual da máquina",
+      "imageFit": "square"
     },
     {
       "heading": "Perguntas frequentes",
@@ -103,6 +112,30 @@
       "title": "Dolce Gusto é confiável? O que observar antes de comprar"
     }
   ],
-  "image": "/images/reviews/dolcegusto/genio-s-touch-dimensoes.webp",
-  "imageAlt": "Tabela e esquemas de volume em ml da NESCAFÉ Dolce Gusto Genio S Touch"
+  "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-1.webp",
+  "imageAlt": "Foto real do manual da NESCAFÉ Dolce Gusto com a tabela de medidas em ml por nível",
+  "imageFit": "cover",
+  "imageAspect": "square",
+  "gallery": [
+    {
+      "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-1.webp",
+      "alt": "Foto do manual oficial da NESCAFÉ Dolce Gusto com a tabela de volumes em ml",
+      "caption": "Foto real do manual da NESCAFÉ Dolce Gusto Genio S Touch com a tabela de medidas em ml por nível."
+    },
+    {
+      "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-2.webp",
+      "alt": "Detalhe da indicação de mililitros por nível de barra",
+      "caption": "Valores oficiais em mililitros correspondentes a cada nível de água no painel."
+    },
+    {
+      "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-3.webp",
+      "alt": "Guia de receitas e bebidas com indicação de barras",
+      "caption": "Recomendação de barras para lattes, cappuccinos e bebidas multi-passo no manual."
+    },
+    {
+      "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-4.webp",
+      "alt": "Confirmação do volume de 300 ml para a função XL",
+      "caption": "Confirmação no manual oficial: a função XL corresponde a 300 ml."
+    }
+  ]
 }
