@@ -46,24 +46,7 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
     errors.push(`verifiedAtISO inicial esperado "${initialLatestVerifiedAt}", obteve "${ptResolvedDateTest?.verifiedAtISO}"`);
   }
 
-  // 3. Validação estrita do Sitemap B2 a partir de YESSTYLE_LOCALES (Sem heurística de slugs!)
-  const allSitemapEntries = sitemap();
-  const yesstyleSitemapUrls = allSitemapEntries
-    .filter((item) => item.url.includes('yesstyle') || item.url.includes('cecilia010') || item.url.includes('code-recompense') || item.url.includes('codigo-de-recompensa'))
-    .map((item) => item.url);
-
-  // Verificar ausência de duplicatas no sitemap
-  const uniqueUrls = new Set(yesstyleSitemapUrls);
-  if (uniqueUrls.size !== yesstyleSitemapUrls.length) {
-    errors.push(`Sitemap contém URLs duplicadas da YesStyle! Total: ${yesstyleSitemapUrls.length}, Únicas: ${uniqueUrls.size}`);
-  }
-
-  // Verificar que /pt/coupons/yesstyle NÃO existe no sitemap
-  if (yesstyleSitemapUrls.some((url) => url.includes('/pt/coupons/yesstyle'))) {
-    errors.push('Sitemap viola baseline: rota duplicada indevida "/pt/coupons/yesstyle" presente!');
-  }
-
-  // [P2 Fix]: Construção direta do conjunto das 18 URLs de artigos a partir dos 9 registros em YESSTYLE_LOCALES
+  // 3. Validação estrita do Sitemap B2 a partir de YESSTYLE_LOCALES
   const expectedArticleUrls = Object.values(YESSTYLE_LOCALES).flatMap((config) => [
     `https://emcasacomcecilia.com${config.rewardArticlePath}`,
     `https://emcasacomcecilia.com${config.guidePath}`,
@@ -76,6 +59,22 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
   const expectedTotalUrls = new Set([...expectedArticleUrls, ...expectedHubUrls]);
   if (expectedTotalUrls.size !== 27) {
     errors.push(`Regra interna de teste: conjunto estrito de URLs calculou ${expectedTotalUrls.size} em vez de 27`);
+  }
+
+  const allSitemapEntries = sitemap();
+  const yesstyleSitemapUrls = allSitemapEntries
+    .filter((item) => expectedTotalUrls.has(item.url))
+    .map((item) => item.url);
+
+  // Verificar ausência de duplicatas no sitemap
+  const uniqueUrls = new Set(yesstyleSitemapUrls);
+  if (uniqueUrls.size !== yesstyleSitemapUrls.length) {
+    errors.push(`Sitemap contém URLs duplicadas da YesStyle! Total: ${yesstyleSitemapUrls.length}, Únicas: ${uniqueUrls.size}`);
+  }
+
+  // Verificar que /pt/coupons/yesstyle NÃO existe no sitemap
+  if (yesstyleSitemapUrls.some((url) => url.includes('/pt/coupons/yesstyle'))) {
+    errors.push('Sitemap viola baseline: rota duplicada indevida "/pt/coupons/yesstyle" presente!');
   }
 
   if (yesstyleSitemapUrls.length !== 27) {

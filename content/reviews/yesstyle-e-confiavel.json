@@ -13,8 +13,11 @@
   },
   "description": "Análise dos dados públicos da YesStyle: empresa de Hong Kong, autorização de 400+ marcas coreanas, políticas de entrega internacional, alfândega/impostos no Brasil, e o que observar antes de comprar.",
   "metaDescription": "A YesStyle é confiável? Veja dados da empresa, autorização de marcas coreanas, políticas de entrega para o Brasil, impostos de importação e o que observar antes de comprar.",
-  "publishedAt": "Draft",
-  "draft": true,
+  "publishedAt": "2 de agosto de 2026",
+  "publishedAtISO": "2026-08-02",
+  "draft": false,
+  "imageFit": "cover",
+  "imageAspect": "square",
   "pros": [],
   "cons": [],
   "contentSections": [
@@ -32,7 +35,10 @@
         "A YesStyle é reconhecida como distribuidora autorizada de mais de 400 marcas de beleza coreana (K-beauty), beleza japonesa (J-beauty) e fashion asiática. O catálogo inclui skincare (séruns, essências, tônicos, protetores solares), maquiagem, produtos para cabelo, moda conceitual, acessórios e suplementos de bem-estar.",
         "A loja trabalha com marcas consagradas do universo K-beauty e J-beauty, como COSRX, Etude House, Hada Labo e Rohto. A YesStyle se apresenta como distribuidora autorizada, comprando diretamente das marcas ou de distribuidores oficiais. O fato de ser controlada por uma empresa listada em bolsa (YesAsia Holdings) é um indicativo de operação consolidada, com contas auditadas e obrigações públicas de transparência."
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
+      "imageAlt": "Marcas e produtos de K-beauty e J-beauty na plataforma YesStyle",
+      "imageFit": "square"
     },
     {
       "heading": "Políticas de compra e pós-venda",
