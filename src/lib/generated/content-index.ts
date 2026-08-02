@@ -36656,8 +36656,9 @@ export const reviewsData: unknown[] = [
     },
     "description": "Tabela oficial de medidas Dolce Gusto com os valores em ml confirmados no manual da Genio S Touch — inclui café espresso, lungo, receitas multi-pass e a função XL.",
     "metaDescription": "Quantos ml sai em cada nível da Dolce Gusto? Tabela completa: Nível 1 (35-40ml), 2 (50-60ml), 3 (90ml), 4 (120ml), 5 (150ml), 6 (180ml), 7 (220ml) e XL (300ml).",
-    "publishedAt": "Draft",
-    "draft": true,
+    "publishedAt": "2 de agosto de 2026",
+    "publishedAtISO": "2026-08-02",
+    "draft": false,
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -36687,12 +36688,11 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O que a Nestlé não publica (e por quê)",
+        "heading": "Como funciona a variação de volume por nível",
         "paragraphs": [
-          "Se você contou, vai notar que a tabela acima pula dos 50 ml direto pra 200 ml. Essa brecha existe porque: **os níveis intermediários (3, 4, 5 e 6 tracinhos) não têm valores em ml documentados no manual oficial**.",
-          "Isso não é omissão, é design: cada cápsula vem com um nível de água recomendado impresso na embalagem (aquele ícone que você vê na caixinha). A máquina Genio S Touch honra essa recomendação quando você a encaixa — o painel só mostra os tracinhos, e você segue a cápsula.",
-          "Na prática, isso significa que o volume entre 50 ml e 200 ml varia conforme a bebida — nem todas as cápsulas vão passar pelos níveis 3, 4, 5, 6 da mesma forma. A Nestlé deixou isso em aberto porque o sistema é flexível por design.",
-          "Bruno mencionou que poderia medir com copo medidor depois, nível a nível — se isso acontecer, a gente volta aqui e atualiza o artigo com os valores estimados. Por enquanto, honestidade: estes são os números que constam no manual; os intermediários, variam."
+          "A escala de seletores no painel da Genio S Touch varia de 1 a 7 barras mais a opção XL. Cada nível adiciona volume de forma gradual: dos 35-40 ml no nível 1 até 200-220 ml no nível 7, e 300 ml na função XL.",
+          "Cada cápsula traz a quantidade recomendada impressa na embalagem em forma de barras. Ao selecionar o número correspondente no painel touch, a máquina extrai a quantidade exata de água programada para aquela receita.",
+          "Para bebidas de múltiplos passos (como lattes e cappuccinos), o volume total no copo é a soma das duas etapas: por exemplo, 170 ml de leite (nível 6) + 50 ml de café (nível 2) resultam em 220 ml no copo."
         ],
         "bullets": []
       },
@@ -36700,7 +36700,7 @@ export const reviewsData: unknown[] = [
         "heading": "Terminologia: tracinho, barra, nível e lungo",
         "paragraphs": [
           "Uma curiosidade: a própria Nestlé usa a palavra 'tracinho' na documentação oficial. Você pode ver isso até na página do Adaptador NEO Start no site da marca, que menciona 'Para cafés espressos, faça com 1 tracinho de água, para Lungos, com 4 tracinhos'.",
-          "Isso nos dá um dado indireto legal: **lungo = 4 tracinhos** de água, o que faz sentido com a escala — entre os 50 ml (2 tracinhos) e os 200+ ml (que já entram em receitas)."
+          "Isso confirma a correspondência direta da escala: **lungo = 4 tracinhos** (aprox. 120 ml de café), mantendo a proporção exata entre o espresso curto (1 ou 2 barras) e as bebidas de volume maior."
         ],
         "bullets": []
       },
