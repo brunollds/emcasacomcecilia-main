@@ -117,6 +117,11 @@ export const localVideoMetadata = {
     reviewSlug: 'dolce-gusto-genio-s-touch-vale-a-pena',
     reason: 'Demonstração complementar do painel touch.',
   },
+  '/videos/reviews/dolcegusto/tabela-manual-dolce-gusto-loop.mp4': {
+    classification: 'decorative',
+    reviewSlug: 'tabela-medidas-dolce-gusto-ml-por-nivel',
+    reason: 'Loop visual do hero; demonstra o painel sem narrativa editorial própria.',
+  },
 };
 
 export function getPrimaryLocalVideoMeta(reviewSlug) {
