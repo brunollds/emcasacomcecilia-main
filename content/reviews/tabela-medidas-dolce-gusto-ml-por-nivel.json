@@ -45,7 +45,13 @@
       ],
       "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-2.webp",
       "imageAlt": "Detalhe da indicação de mililitros por nível de barra impressa no manual oficial",
-      "imageFit": "square"
+      "imageFit": "square",
+      "video": {
+        "mp4": "/videos/reviews/dolcegusto/tabela-manual-dolce-gusto-loop.mp4",
+        "poster": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-loop-poster.webp",
+        "alt": "Demonstração em vídeo da seleção de nível de água no painel da máquina NESCAFÉ Dolce Gusto",
+        "aspect": "square"
+      }
     },
     {
       "heading": "Como funciona a variação de volume por nível",
