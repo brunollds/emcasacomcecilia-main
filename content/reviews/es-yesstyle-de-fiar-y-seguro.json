@@ -1,0 +1,99 @@
+{
+  "id": 251,
+  "slug": "es-yesstyle-de-fiar-y-seguro",
+  "title": "¿Es YesStyle de Fiar y Seguro? Lo que Debes Saber Antes de Comprar",
+  "type": "Editorial",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Análisis de datos públicos de YesStyle: sede en Hong Kong, distribuidor autorizado de más de 400 marcas asiáticas, envíos internacionales, aduanas y garantía al comprador.",
+  "metaDescription": "¿Es YesStyle confiable y seguro? Datos de la empresa, autorizaciones de marcas de K-beauty, envío internacional, impuestos y consejos de compra.",
+  "publishedAt": "2 de agosto de 2026",
+  "publishedAtISO": "2026-08-02",
+  "draft": false,
+  "locale": "es",
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
+  "imageAlt": "Productos de K-Beauty y ofertas en la plataforma YesStyle",
+  "imageFit": "cover",
+  "imageAspect": "square",
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "Información Pública de la Empresa",
+      "paragraphs": [
+        "YesStyle Limited es una plataforma de comercio electrónico con sede en Hong Kong fundada en 2006. Opera como subsidiaria de YesAsia Holdings Limited, empresa cotizada en la Bolsa de Valores de Hong Kong (código 2209.HK). Esto significa que YesStyle cuenta con el respaldo de una corporación pública sometida a auditorías financieras regulares.",
+        "La tienda presta servicio a compradores de más de 80 países en múltiples divisas e idiomas. Las compras internacionales se realizan de acuerdo con los estándares de comercio electrónico global, ofreciendo soporte al cliente para seguimiento de paquetes y devoluciones."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Catálogo y Posicionamiento de Mercado",
+      "paragraphs": [
+        "YesStyle está reconocida como distribuidora autorizada de más de 400 marcas de belleza coreana (K-beauty), japonesa (J-beauty) y moda asiática. Incluye cosméticos, cuidado de la piel (tónicos, sérums, protectores solares), maquillaje y accesorios.",
+        "Trabaja directamente con firmas consolidadas como COSRX, Etude House, Hada Labo y Rohto, obteniendo los productos de fabricantes o distribuidores oficiales autorizados."
+      ],
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
+      "imageAlt": "Marcas de K-Beauty disponibles en YesStyle",
+      "imageFit": "square"
+    },
+    {
+      "heading": "Envíos Internacionales y Atención al Cliente",
+      "paragraphs": [
+        "YesStyle realiza envíos internacionales a más de 80 países con envío estándar gratuito en pedidos que alcancen el importe mínimo requerido (como 48 € o 59 USD).",
+        "El plazo habitual de entrega oscila entre 7 y 14 días laborables según el país de destino. Se proporciona número de seguimiento para cada pedido. Los clientes disponen de hasta 14 días tras la recepción para solicitar devoluciones en productos intactos."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Consejos Prácticos Antes de Pedir",
+      "paragraphs": [
+        "Antes de finalizar tu compra en YesStyle, ten en cuenta los siguientes consejos:"
+      ],
+      "bullets": [
+        "Comprueba siempre que estás en el sitio web oficial (yesstyle.com) con conexión HTTPS segura.",
+        "Revisa la normativa aduanera de tu país para conocer los umbrales exentos de aranceles de importación.",
+        "Lee detenidamente las especificaciones de los cosméticos y las guías de tallas en moda asiática.",
+        "Verifica el plazo de entrega estimado en el carrito antes de confirmar el pago."
+      ]
+    },
+    {
+      "heading": "Código de Recompensa y Descuento Adicional",
+      "paragraphs": [
+        "Em Casa com Cecília mantiene una alianza comercial con YesStyle. Gracias a ella, puedes introducir el código de recompensa CECILIA010 en la casilla 'Reward Code' para conseguir hasta un 5% de descuento extra en tu primera compra y un 2% en pedidos habituales. Es acumulable con cupones promocionales.",
+        "El código CECILIA010 es permanente y no tiene ningún coste adicional para el comprador."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Preguntas Frecuentes",
+      "bullets": [
+        "¿Es YesStyle confiable y legítimo? Sí, YesStyle es una tienda online auténtica fundada en 2006, filial de la empresa pública YesAsia Holdings Limited (2209.HK).",
+        "¿Los productos de YesStyle son 100% originales? Sí, es distribuidor autorizado de más de 400 marcas coreanas y japonesas.",
+        "¿Cuánto tarda en llegar un pedido de YesStyle? El envío internacional estándar suele tardar entre 7 y 14 días laborables.",
+        "¿Cómo usar el código CECILIA010? Introduce CECILIA010 en la casilla 'Código de Recompensa' durante el proceso de pago."
+      ]
+    }
+  ],
+  "cta": {
+    "text": "Compra cosmética coreana en YesStyle con el código CECILIA010",
+    "label": "Visitar tienda",
+    "url": "https://ystyle.co/rQYQv"
+  },
+  "coupon": "CECILIA010",
+  "affiliate": "yesstyle",
+  "editorialNote": "Artículo editorial independiente. La mención del código CECILIA010 forma parte de la alianza de afiliados entre Em Casa com Cecília y YesStyle.",
+  "relatedArticles": [
+    {
+      "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
+      "title": "Cómo usar el código de recompensa CECILIA010 en YesStyle"
+    }
+  ]
+}

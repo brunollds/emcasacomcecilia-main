@@ -1,0 +1,82 @@
+{
+  "id": 254,
+  "slug": "yesstyle-trust-guide-ko",
+  "title": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보",
+  "type": "Editorial",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "YesStyle 기업 정보 분석: 홍콩 본사, 400개 이상 한국 및 아시아 뷰티 브랜드 공식 유통, 글로벌 배송 및 구매자 보호 정책 안내.",
+  "metaDescription": "YesStyle은 믿을 수 있을까? 상장사 기업 정보, 400+ K-뷰티 브랜드 공식 유통, 국제 배송 및 쇼핑 팁 안내.",
+  "publishedAt": "2026년 8월 2일",
+  "publishedAtISO": "2026-08-02",
+  "draft": false,
+  "locale": "ko",
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
+  "imageAlt": "YesStyle 플랫폼의 K-뷰티 제품 및 프로모션",
+  "imageFit": "cover",
+  "imageAspect": "square",
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "기업 공개 정보",
+      "paragraphs": [
+        "YesStyle Limited는 2006년에 설립된 홍콩 기반의 글로벌 이커머스 플랫폼입니다. 홍콩 증권거래소 상장사(주식 코드 2209.HK)인 YesAsia Holdings Limited의 자회사로 운영되며, 정기적인 회계 감사를 받는 정식 기업입니다.",
+        "전 세계 80개국 이상에 서비스를 제공하며 다국어 및 다양한 통화 결제를 지원합니다."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "카탈로그 및 브랜드 유통",
+      "paragraphs": [
+        "YesStyle은 COSRX, Etude House, Hada Labo 등 400개 이상의 한국(K-beauty) 및 일본 뷰티 브랜드의 공식 유통업체입니다. 브랜드 본사 또는 공식 파트너사로부터 직접 정품을 공급받습니다."
+      ],
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
+      "imageAlt": "YesStyle 정품 K-뷰티 브랜드",
+      "imageFit": "square"
+    },
+    {
+      "heading": "국제 배송 및 고객 지원 Policy",
+      "paragraphs": [
+        "전 세계 80여 개국으로 국제 배송을 제공하며, 일정 금액 이상 구매 시 무료 배송 혜택을 제공합니다. 평균 배송 기간은 7일~14일(영업일 기준) 소요됩니다."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "리워드 코드 및 추가 할인",
+      "paragraphs": [
+        "결제 시 Reward Code 입력란에 CECILIA010을 입력하면 첫 구매 시 최대 5%, 재구매 시 2% 추가 할인을 적용받을 수 있습니다. 일반 프로모션 쿠폰과 중복 적용이 가능합니다."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "자주 묻는 질문 (FAQ)",
+      "bullets": [
+        "YesStyle은 정품만 판매하나요? 네, 400개 이상 브랜드의 정식 유통업체로서 100% 정품을 판매합니다.",
+        "CECILIA010 코드는 어떻게 사용하나요? 결제 단계의 'Reward Code' 입력란에 CECILIA010을 입력하시면 됩니다."
+      ]
+    }
+  ],
+  "cta": {
+    "text": "YesStyle 공식 K-뷰티 쇼핑하기 (코드 CECILIA010)",
+    "label": "쇼핑몰 이동",
+    "url": "https://ystyle.co/rQYQv"
+  },
+  "coupon": "CECILIA010",
+  "affiliate": "yesstyle",
+  "editorialNote": "독립적인 편집 리뷰입니다. CECILIA010 코드 사용 시 제휴 파트너십을 통해 혜택이 제공됩니다.",
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-reward-code-cecilia010-ko",
+      "title": "YesStyle 리워드 코드 CECILIA010 사용 방법 안내"
+    }
+  ]
+}

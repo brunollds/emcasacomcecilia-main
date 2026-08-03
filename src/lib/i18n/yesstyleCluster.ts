@@ -15,6 +15,8 @@ export interface YesStyleLocaleConfig {
   rewardArticlePath: string;
   guideSlug: string;
   guidePath: string;
+  trustArticleSlug: string;
+  trustArticlePath: string;
 }
 
 export const YESSTYLE_LOCALES: Record<YesStyleLocale, YesStyleLocaleConfig> = {
@@ -30,6 +32,8 @@ export const YESSTYLE_LOCALES: Record<YesStyleLocale, YesStyleLocaleConfig> = {
     rewardArticlePath: '/reviews/codigo-cecilia010-yesstyle-como-usar',
     guideSlug: 'como-encontrar-cupons-yesstyle-validos',
     guidePath: '/reviews/como-encontrar-cupons-yesstyle-validos',
+    trustArticleSlug: 'yesstyle-e-confiavel',
+    trustArticlePath: '/reviews/yesstyle-e-confiavel',
   },
   en: {
     locale: 'en',
@@ -43,6 +47,8 @@ export const YESSTYLE_LOCALES: Record<YesStyleLocale, YesStyleLocaleConfig> = {
     rewardArticlePath: '/reviews/yesstyle-reward-code-coupon-cecilia010',
     guideSlug: 'how-to-find-valid-yesstyle-coupon-codes',
     guidePath: '/reviews/how-to-find-valid-yesstyle-coupon-codes',
+    trustArticleSlug: 'is-yesstyle-legit-and-safe-review',
+    trustArticlePath: '/reviews/is-yesstyle-legit-and-safe-review',
   },
   es: {
     locale: 'es',
@@ -56,6 +62,8 @@ export const YESSTYLE_LOCALES: Record<YesStyleLocale, YesStyleLocaleConfig> = {
     rewardArticlePath: '/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010',
     guideSlug: 'como-encontrar-cupones-yesstyle-validos',
     guidePath: '/reviews/como-encontrar-cupones-yesstyle-validos',
+    trustArticleSlug: 'es-yesstyle-de-fiar-y-seguro',
+    trustArticlePath: '/reviews/es-yesstyle-de-fiar-y-seguro',
   },
   fr: {
     locale: 'fr',
@@ -69,6 +77,8 @@ export const YESSTYLE_LOCALES: Record<YesStyleLocale, YesStyleLocaleConfig> = {
     rewardArticlePath: '/reviews/code-recompense-yesstyle-cecilia010',
     guideSlug: 'comment-trouver-des-codes-promo-yesstyle-valides',
     guidePath: '/reviews/comment-trouver-des-codes-promo-yesstyle-valides',
+    trustArticleSlug: 'yesstyle-est-il-fiable-et-sur',
+    trustArticlePath: '/reviews/yesstyle-est-il-fiable-et-sur',
   },
   de: {
     locale: 'de',
@@ -82,6 +92,8 @@ export const YESSTYLE_LOCALES: Record<YesStyleLocale, YesStyleLocaleConfig> = {
     rewardArticlePath: '/reviews/yesstyle-reward-code-rabatt-cecilia010',
     guideSlug: 'gueltige-yesstyle-gutscheincodes-finden',
     guidePath: '/reviews/gueltige-yesstyle-gutscheincodes-finden',
+    trustArticleSlug: 'ist-yesstyle-serioes-und-sicher',
+    trustArticlePath: '/reviews/ist-yesstyle-serioes-und-sicher',
   },
   ko: {
     locale: 'ko',
@@ -95,6 +107,8 @@ export const YESSTYLE_LOCALES: Record<YesStyleLocale, YesStyleLocaleConfig> = {
     rewardArticlePath: '/reviews/yesstyle-reward-code-cecilia010-ko',
     guideSlug: 'yesstyle-valid-coupon-guide-ko',
     guidePath: '/reviews/yesstyle-valid-coupon-guide-ko',
+    trustArticleSlug: 'yesstyle-trust-guide-ko',
+    trustArticlePath: '/reviews/yesstyle-trust-guide-ko',
   },
   ja: {
     locale: 'ja',
@@ -108,6 +122,8 @@ export const YESSTYLE_LOCALES: Record<YesStyleLocale, YesStyleLocaleConfig> = {
     rewardArticlePath: '/reviews/yesstyle-reward-code-cecilia010-ja',
     guideSlug: 'yesstyle-valid-coupon-guide-ja',
     guidePath: '/reviews/yesstyle-valid-coupon-guide-ja',
+    trustArticleSlug: 'yesstyle-trust-guide-ja',
+    trustArticlePath: '/reviews/yesstyle-trust-guide-ja',
   },
   'zh-hant': {
     locale: 'zh-hant',
@@ -121,6 +137,8 @@ export const YESSTYLE_LOCALES: Record<YesStyleLocale, YesStyleLocaleConfig> = {
     rewardArticlePath: '/reviews/yesstyle-reward-code-cecilia010-zh-hant',
     guideSlug: 'yesstyle-valid-coupon-guide-zh-hant',
     guidePath: '/reviews/yesstyle-valid-coupon-guide-zh-hant',
+    trustArticleSlug: 'yesstyle-trust-guide-zh-hant',
+    trustArticlePath: '/reviews/yesstyle-trust-guide-zh-hant',
   },
   'zh-hans': {
     locale: 'zh-hans',
@@ -134,6 +152,8 @@ export const YESSTYLE_LOCALES: Record<YesStyleLocale, YesStyleLocaleConfig> = {
     rewardArticlePath: '/reviews/yesstyle-reward-code-cecilia010-zh-hans',
     guideSlug: 'yesstyle-valid-coupon-guide-zh-hans',
     guidePath: '/reviews/yesstyle-valid-coupon-guide-zh-hans',
+    trustArticleSlug: 'yesstyle-trust-guide-zh-hans',
+    trustArticlePath: '/reviews/yesstyle-trust-guide-zh-hans',
   },
 };
 
@@ -164,9 +184,11 @@ export function findYesStyleLocaleFromSlugOrPath(slugOrPath: string): YesStyleLo
     if (
       config.rewardArticleSlug === slugOrPath ||
       config.guideSlug === slugOrPath ||
+      config.trustArticleSlug === slugOrPath ||
       config.hubPath === slugOrPath ||
       config.rewardArticlePath === slugOrPath ||
-      config.guidePath === slugOrPath
+      config.guidePath === slugOrPath ||
+      config.trustArticlePath === slugOrPath
     ) {
       return config.locale;
     }
@@ -197,6 +219,15 @@ export function getGuideArticleLanguageLinks(): Record<YesStyleLocale, string> {
   const links: Partial<Record<YesStyleLocale, string>> = {};
   for (const config of Object.values(YESSTYLE_LOCALES)) {
     links[config.locale] = config.guidePath;
+  }
+  return links as Record<YesStyleLocale, string>;
+}
+
+// Helper: obtém os links de alternância de idioma para o cluster de Confiança/Legit (artigo -> artigo)
+export function getTrustArticleLanguageLinks(): Record<YesStyleLocale, string> {
+  const links: Partial<Record<YesStyleLocale, string>> = {};
+  for (const config of Object.values(YESSTYLE_LOCALES)) {
+    links[config.locale] = config.trustArticlePath;
   }
   return links as Record<YesStyleLocale, string>;
 }

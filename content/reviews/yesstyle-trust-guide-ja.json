@@ -1,0 +1,82 @@
+{
+  "id": 255,
+  "slug": "yesstyle-trust-guide-ja",
+  "title": "YesStyleは safe？購入前に知っておくべき信頼性と評判",
+  "type": "Editorial",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "YesStyleの企業情報解説：香港本社、400以上の韓流コスメ正規取扱、 global配送、返금保証および買い物ガイド。",
+  "metaDescription": "YesStyleは安全で信頼できる？香港上場企業の透明性、400以上のK-Beauty正規代理店情報、配送・クーポンガイド。",
+  "publishedAt": "2026年8月2日",
+  "publishedAtISO": "2026-08-02",
+  "draft": false,
+  "locale": "ja",
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
+  "imageAlt": "YesStyleのK-Beauty製品とプロモ",
+  "imageFit": "cover",
+  "imageAspect": "square",
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "企業情報と透明性",
+      "paragraphs": [
+        "YesStyle Limitedは2006年に設立された香港拠点のECサイトです。香港証券取引所上場企業であるYesAsia Holdings Limited（証券コード 2209.HK）の傘下であり、会計監査を受けた透明性の高い企業です。",
+        "世界80カ国以上に向けて発送を行っており、日本語表示および日本円決済にも対応しています。"
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "取扱ブランドと正規品保証",
+      "paragraphs": [
+        "COSRX、Etude、肌ラボなど400以上のK-BeautyおよびJ-Beautyブランドの正規販売店です。メーカーまたは authorized ディストリビューターから directly に商品を仕入れています。"
+      ],
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
+      "imageAlt": "YesStyleで買えるコスメブランド",
+      "imageFit": "square"
+    },
+    {
+      "heading": "国際配送とサポート",
+      "paragraphs": [
+        "一定金額以上の注文で国際送料無料が適用されます。日本への通常お届け日数は約7日〜14営業日です。追跡番号が発行されます。"
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "リワードコードで追加割引",
+      "paragraphs": [
+        "チェックアウト時に「リワードコード（Reward Code）」欄へ CECILIA010 を入力すると、初回購入で最大5%オフ、2回目以降で2%オフ가適用されます。通常のクーポンコードと併용可能です。"
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "YesStyleは正規品ですか？ はい、400以上のブランドと正規契約を結ぶ公式販売店です。",
+        "CECILIA010の使い方は？ 決済画面の「リワードコード」欄に CECILIA010 を入力してください。"
+      ]
+    }
+  ],
+  "cta": {
+    "text": "YesStyleでK-Beautyを購入する（コード CECILIA010）",
+    "label": "公式サイトへ",
+    "url": "https://ystyle.co/rQYQv"
+  },
+  "coupon": "CECILIA010",
+  "affiliate": "yesstyle",
+  "editorialNote": "本記事は独立した編集レビューです。コード CECILIA010 の利用はアフィリエイトパートナーシップに基づきます。",
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-reward-code-cecilia010-ja",
+      "title": "YesStyleリワードコード CECILIA010 の使い方・入力手順"
+    }
+  ]
+}

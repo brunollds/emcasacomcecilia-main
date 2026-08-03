@@ -50,6 +50,7 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
   const expectedArticleUrls = Object.values(YESSTYLE_LOCALES).flatMap((config) => [
     `https://emcasacomcecilia.com${config.rewardArticlePath}`,
     `https://emcasacomcecilia.com${config.guidePath}`,
+    `https://emcasacomcecilia.com${config.trustArticlePath}`,
   ]);
 
   const expectedHubUrls = Object.values(YESSTYLE_LOCALES).map(
@@ -57,8 +58,8 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
   );
 
   const expectedTotalUrls = new Set([...expectedArticleUrls, ...expectedHubUrls]);
-  if (expectedTotalUrls.size !== 27) {
-    errors.push(`Regra interna de teste: conjunto estrito de URLs calculou ${expectedTotalUrls.size} em vez de 27`);
+  if (expectedTotalUrls.size !== 36) {
+    errors.push(`Regra interna de teste: conjunto estrito de URLs calculou ${expectedTotalUrls.size} em vez de 36`);
   }
 
   const allSitemapEntries = sitemap();
@@ -77,8 +78,8 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
     errors.push('Sitemap viola baseline: rota duplicada indevida "/pt/coupons/yesstyle" presente!');
   }
 
-  if (yesstyleSitemapUrls.length !== 27) {
-    errors.push(`Sitemap B2 esperado exatamente 27 URLs YesStyle, obteve ${yesstyleSitemapUrls.length}`);
+  if (yesstyleSitemapUrls.length !== 36) {
+    errors.push(`Sitemap B2 esperado exatamente 36 URLs YesStyle, obteve ${yesstyleSitemapUrls.length}`);
   }
 
   for (const expectedUrl of expectedTotalUrls) {

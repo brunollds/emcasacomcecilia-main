@@ -37574,5 +37574,882 @@ export const reviewsData: unknown[] = [
     ],
     "image": "/images/reviews/iwannasleep/cupom-ceciemcasa-i-wanna-sleep-como-usar.webp",
     "imageAlt": "Produtos i Wanna Sleep e teste do sono em casa"
+  },
+  {
+    "id": 249,
+    "slug": "sofa-na-caixa-crise-reclamacoes-procon-sp",
+    "title": "O que Aconteceu com a Sofá na Caixa? Crise de Reclamações e Ação do Procon-SP",
+    "type": "Investigação",
+    "reviewKind": "editorial",
+    "draft": true,
+    "description": "Sofá na Caixa virou sucesso viral e depois enfrentou explosão de reclamações. Veja o que motivou a ação do Procon-SP e o que aprender antes de comprar sofá modular online.",
+    "seoTitle": "O que Aconteceu com a Sofá na Caixa? Crise de Reclamações e Ação do Procon-SP",
+    "metaDescription": "Sofá na Caixa virou sucesso viral e depois enfrentou explosão de reclamações. Veja o que motivou a ação do Procon-SP e o que aprender antes de comprar sofá modular online.",
+    "publishedAt": "02 Ago 2026",
+    "publishedAtISO": "2026-08-02",
+    "updatedAt": "2026-08-02",
+    "image": "/images/reviews/sofa-na-caixa-crise-hero.webp",
+    "imageAlt": "Ilustração editorial sobre a crise de reclamações da Sofá na Caixa e a investigação do Procon-SP.",
+    "pros": [
+      "Canais públicos e gratuitos para reclamar: Procon, Consumidor.gov.br e Reclame Aqui",
+      "CDC garante direito à devolução em compras online dentro do prazo legal",
+      "Juizado Especial Cível não cobra custas para causas de até 40 salários mínimos"
+    ],
+    "cons": [
+      "Reclamações cresceram 126% em 2025, segundo o Procon-SP",
+      "Apenas 13% dos consumidores no Reclame Aqui comprariam novamente da empresa",
+      "Empresa não compareceu a reuniões nem respondeu correspondências do Procon-SP em 2026"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resumo rápido",
+        "paragraphs": [
+          "A Sofá na Caixa, empresa que viralizou nas redes vendendo sofás modulares entregues compactados em caixas, enfrenta desde 2025 uma onda crescente de reclamações por atraso de entrega, produtos não recebidos e estornos não realizados."
+        ],
+        "bullets": [
+          "Segundo o Procon-SP, as reclamações cresceram 126% em 2025 frente a 2024",
+          "O órgão iniciou o processo para incluir a empresa na lista \"Evite Estes Sites\"",
+          "Conforme reportagem do G1 e da BBC News Brasil, o padrão de queixas envolve meses de espera sem entrega nem reembolso",
+          "O caso segue em aberto em 2026, com novas tentativas de contato do Procon-SP sem resposta da empresa"
+        ]
+      },
+      {
+        "heading": "Da fama nas redes sociais a um problema real",
+        "paragraphs": [
+          "Sofás modulares entregues em caixas compactas, para montar em casa, viraram uma das buscas mais fortes do mobiliário online no Brasil entre 2024 e 2025. Entre as marcas que mais se destacaram nesse movimento está a Sofá na Caixa, fundada em 2024 por Rubens Stuque, que ganhou visibilidade rápida com uma campanha de marketing digital agressiva e chegou a ser citada em reportagem da revista Forbes sobre o faturamento expressivo da primeira semana de operação.",
+          "O mesmo crescimento acelerado que projetou a marca nas redes sociais, porém, trouxe um problema documentado por órgãos de defesa do consumidor e pela grande imprensa: a capacidade de produção e logística não acompanhou o volume de vendas, e o resultado apareceu em forma de reclamações."
+        ]
+      },
+      {
+        "heading": "A linha do tempo da crise",
+        "paragraphs": [
+          "Reconstituindo os fatos a partir de fontes oficiais e reportagens já publicadas:"
+        ],
+        "bullets": [
+          "2024 — a empresa é fundada e cresce rapidamente nas redes sociais, superando a capacidade de produção ao longo de 2025",
+          "Julho de 2025 — segundo o Procon-SP, o órgão abriu procedimento de fiscalização depois de identificar aumento expressivo de reclamações; a empresa compareceu a uma reunião, regularizou seu cadastro e se comprometeu a resolver os casos em aberto",
+          "Outubro de 2025 — conforme reportagem do G1 e da BBC News Brasil, o Procon-SP notificou novamente a empresa por não cumprir o plano de resolução acordado; a reportagem reuniu relatos de consumidores com meses de espera sem entrega nem reembolso",
+          "2026 — de acordo com comunicado do Procon-SP, o órgão tentou uma nova reunião, desta vez virtual, mas a empresa não compareceu nem justificou a ausência; tentativas de contato por correspondência física também não tiveram sucesso, com os envios devolvidos como destinatário ausente em três tentativas",
+          "O Procon-SP afirma ter iniciado o processo para incluir o nome e o domínio da empresa na lista \"Evite Estes Sites\"",
+          "Relatos mais recentes, de meados de 2026, seguem descrevendo casos de mais de seis meses de espera sem solução"
+        ]
+      },
+      {
+        "heading": "Os números por trás da crise",
+        "paragraphs": [
+          "Os dados públicos disponíveis, sempre com a fonte indicada, ajudam a dimensionar o problema:"
+        ],
+        "bullets": [
+          "Segundo o Procon-SP, as reclamações cresceram 126% em 2025 (614 registros entre janeiro e agosto de 2025, contra 272 em todo o ano de 2024)",
+          "De acordo com a Secretaria Nacional do Consumidor, houve 88% mais reclamações de produtos não entregues em 2025 na comparação com 2024",
+          "Conforme reportagem do G1 e da BBC News Brasil publicada em outubro de 2025, o Reclame Aqui registrava então mais de 7.800 reclamações acumuladas contra a empresa, a maior parte nos 12 meses anteriores, com apenas 13% dos consumidores afirmando que comprariam novamente",
+          "Em entrevista à BBC News Brasil, o fundador Rubens Stuque reconheceu publicamente parte dos problemas, afirmando que os atrasos afetariam uma fração dos pedidos já entregues até então, e atribuiu parte da dificuldade ao aumento de custo de insumos e a desafios logísticos"
+        ],
+        "postParagraphs": [
+          "Como todo indicador de Reclame Aqui, esse número muda com o tempo — vale conferir o painel atualizado diretamente no site antes de tirar qualquer conclusão."
+        ]
+      },
+      {
+        "heading": "O que esse caso ensina antes de comprar sofá modular online",
+        "paragraphs": [
+          "Sem citar outras marcas do setor, o caso da Sofá na Caixa é um bom lembrete de alguns sinais que valem a checagem antes de fechar qualquer compra de sofá modular pela internet:"
+        ],
+        "bullets": [
+          "Nota no Reclame Aqui — mas olhando também o índice de solução, não só a taxa de resposta. Responder a reclamação não é o mesmo que resolvê-la.",
+          "Reclamações recentes vs. histórico — um pico de queixas nos últimos meses pode indicar que a empresa cresceu além da própria capacidade de entrega.",
+          "CNPJ e endereço verificáveis — dá para confirmar rapidamente em sites oficiais de consulta pública.",
+          "Política de devolução clara e por escrito — antes da compra, não só depois de um problema."
+        ]
+      },
+      {
+        "heading": "Onde a Damie entra nessa história",
+        "paragraphs": [
+          "Um parágrafo à parte, porque não é o foco deste texto: ao pesquisar esse mercado de sofás e poltronas vendidos online, os dados públicos da Damie no Reclame Aqui — nota 8,0, índice de solução de 81,7% — foram um dos fatores que nos deram segurança para fechar compra com a marca. Não é uma comparação direta com a Sofá na Caixa, é só o contexto de como avaliamos esse tipo de compra."
+        ],
+        "links": [
+          {
+            "label": "Ver o levantamento completo de reputação da Damie",
+            "href": "/reviews/damie-reclame-aqui-o-que-os-dados-mostram"
+          }
+        ]
+      },
+      {
+        "heading": "O que fazer se você comprou da Sofá na Caixa e está com problema",
+        "paragraphs": [
+          "Orientação de utilidade pública para quem já comprou e está enfrentando atraso, falta de retorno ou estorno não realizado:"
+        ],
+        "bullets": [
+          "Registre todos os contatos com a empresa por escrito, guardando protocolos e comprovantes",
+          "O Código de Defesa do Consumidor permite exigir o cumprimento da oferta, reembolso integral ou rescisão do contrato",
+          "Registre queixa formal no Procon do seu estado e no Consumidor.gov.br",
+          "Para causas de até 40 salários mínimos, é possível recorrer ao Juizado Especial Cível sem custas processuais"
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O que está acontecendo com a Sofá na Caixa? A empresa, que viralizou nas redes sociais por vender sofás modulares entregues em caixas, enfrenta desde 2025 uma explosão de reclamações por atraso na entrega, produtos não recebidos e estornos não realizados. Segundo o Procon-SP, as reclamações cresceram 126% em 2025, e o órgão iniciou o processo para incluir a empresa na lista \"Evite Estes Sites\" depois que a empresa não respondeu a tentativas de contato oficiais.",
+          "A Sofá na Caixa está na lista Evite Estes Sites do Procon? Segundo comunicado oficial do Procon-SP, o processo de inclusão do nome e domínio da empresa na lista foi iniciado depois que a empresa não compareceu a reunião agendada e não respondeu a correspondências enviadas pelo órgão. Consulte a lista atualizada diretamente no site oficial do Procon-SP antes de decidir.",
+          "O que fazer se comprei da Sofá na Caixa e não recebi o produto? Recomenda-se registrar todos os contatos com a empresa, guardar comprovantes e número de protocolo. É possível recorrer ao Código de Defesa do Consumidor para exigir o cumprimento da oferta ou reembolso, registrar queixa no Procon ou no Consumidor.gov.br, e mover ação no Juizado Especial Cível sem custos para valores de até 40 salários mínimos."
+        ]
+      },
+      {
+        "heading": "Fontes",
+        "paragraphs": [
+          "Este artigo se baseia nas seguintes fontes públicas, consultadas em agosto de 2026:"
+        ],
+        "bullets": [
+          "Procon-SP — comunicado oficial sobre a fiscalização da Sofá na Caixa",
+          "G1 / BBC News Brasil — \"Como Sofá na Caixa foi de sucesso viral nas redes à explosão de reclamações de clientes\" (Thais Carrança, 15/10/2025)",
+          "Exame — \"Sofá na Caixa: Procon-SP abre investigação contra empresa após 500 reclamações\" (17/07/2025)",
+          "Reclame Aqui — painel público da empresa"
+        ],
+        "links": [
+          {
+            "label": "Lista \"Evite Estes Sites\" — Procon-SP",
+            "href": "https://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php"
+          },
+          {
+            "label": "Reportagem G1/BBC News Brasil",
+            "href": "https://www.opovo.com.br/agencia/bbc/2025/10/15/amp/como-sofa-na-caixa-foi-de-sucesso-viral-nas-redes-a-explosao-de-reclamacoes-de-clientes.html"
+          },
+          {
+            "label": "Reportagem Exame",
+            "href": "https://exame.com/invest/minhas-financas/sofa-na-caixa-procon-sp-abre-investigacao-contra-empresa-apos-500-reclamacoes/"
+          }
+        ]
+      },
+      {
+        "heading": "Nota de transparência",
+        "paragraphs": [
+          "Este é um artigo jornalístico/informativo, não uma comparação promocional. As informações sobre a Sofá na Caixa foram obtidas de fontes públicas — Procon-SP, reportagens do G1/BBC News Brasil e da Exame, e Reclame Aqui — e apresentadas com atribuição de fonte. O parágrafo sobre a Damie contém link de afiliado: ao comprar usando os links indicados, você apoia o Em Casa com Cecília sem custo adicional."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "slug": "is-yesstyle-legit-and-safe-review",
+    "title": "Is YesStyle Legit and Safe? What to Know Before Shopping",
+    "type": "Editorial",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "An analysis of YesStyle public company data: Hong Kong headquarters, 400+ authorized Asian beauty brands, global shipping policies, customs, and buyer protection.",
+    "metaDescription": "Is YesStyle legit and safe? Public company data, 400+ authorized K-beauty brand partnerships, international shipping, customs, and shopping tips.",
+    "publishedAt": "August 2, 2026",
+    "publishedAtISO": "2026-08-02",
+    "draft": false,
+    "locale": "en",
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
+    "imageAlt": "K-Beauty products and promotions on the YesStyle platform",
+    "imageFit": "cover",
+    "imageAspect": "square",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Public Company Information",
+        "paragraphs": [
+          "YesStyle Limited is an e-commerce company headquartered in Hong Kong, founded in 2006. The company operates as a subsidiary of YesAsia Holdings Limited, which is publicly listed on the Hong Kong Stock Exchange under stock code 2209.HK. This means that while YesStyle functions as an online retailer, its parent entity is a public corporation subject to financial audits and regulatory oversight.",
+          "YesStyle serves customers across more than 80 countries, providing multi-currency options and localized language interfaces. Transactions are processed in major global currencies (USD, EUR, GBP, CAD, AUD) in compliance with international e-commerce standards. The platform maintains dedicated customer support channels for order tracking, product authenticity inquiries, and return procedures."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Catalog and Market Position",
+        "paragraphs": [
+          "YesStyle is recognized as an authorized retailer for over 400 Korean beauty (K-beauty), Japanese beauty (J-beauty), and Asian fashion brands. The catalog covers skincare (serums, essences, toners, sunscreens), makeup, haircare, Asian fashion, accessories, and wellness items.",
+          "The platform partners directly with established K-beauty and J-beauty brands, such as COSRX, Etude House, Hada Labo, and Rohto. Products are sourced directly from brand manufacturers or authorized distributors. Being backed by a publicly listed parent company (YesAsia Holdings) provides verifiable transparency regarding business operations."
+        ],
+        "bullets": [],
+        "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
+        "imageAlt": "K-Beauty and J-Beauty brands available on YesStyle",
+        "imageFit": "square"
+      },
+      {
+        "heading": "Global Shipping and Customer Policies",
+        "paragraphs": [
+          "YesStyle offers international shipping to over 80 countries worldwide. Standard express and express delivery options are available, with free standard shipping offered on orders meeting minimum purchase thresholds (e.g., US$ 59 / € 48 / £ 45).",
+          "International delivery typically takes between 7 to 14 business days depending on destination country and customs processing speed. Tracking numbers are provided for all dispatched parcels. Customers have up to 14 days after receipt to request returns for unopened items in original packaging, and 30 days for defective goods. Customer support is accessible via online inquiry forms, live chat, and email."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Tips Before Placing Your Order",
+        "paragraphs": [
+          "When shopping internationally on YesStyle, keep the following practical guidelines in mind:"
+        ],
+        "bullets": [
+          "Always verify you are browsing the official domain (yesstyle.com) with secure HTTPS encryption before entering payment details.",
+          "Check local customs regulations in your country regarding tax-free import thresholds to anticipate potential duty fees upon arrival.",
+          "Read product descriptions carefully, including shade indicators, packaging sizes, and ingredient lists, as Asian cosmetics standards may differ from western norms.",
+          "Review estimated delivery windows for your region at checkout prior to order placement.",
+          "Keep your order confirmation email, transaction ID, and tracking code saved until your package arrives safely.",
+          "Inspect the outer box upon delivery — do not accept parcels with broken seals or damaged packaging."
+        ]
+      },
+      {
+        "heading": "Reward Code Partnership & Extra Savings",
+        "paragraphs": [
+          "Em Casa com Cecília maintains an affiliate partnership with YesStyle. Through this partnership, shoppers can enter the Reward Code CECILIA010 in the dedicated Extra Code / Reward Code field at checkout to receive up to 5% extra discount on first orders and 2% on returning orders. This code stacks with valid promotional coupons for maximum savings.",
+          "The CECILIA010 code remains active as long as the partnership continues. Using this code incurs no extra fee for the buyer — the discount benefit is provided by the brand in support of our editorial project."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Frequently Asked Questions",
+        "bullets": [
+          "Is YesStyle legit and reliable? Yes, YesStyle is a legitimate online retailer founded in 2006. It is a subsidiary of YesAsia Holdings Limited (2209.HK), a publicly listed company on the Hong Kong Stock Exchange.",
+          "Does YesStyle sell 100% authentic products? Yes, YesStyle is an authorized distributor for 400+ Korean and Japanese beauty brands, sourcing directly from official manufacturers and brand representatives.",
+          "How long does YesStyle shipping take internationally? Standard international shipping usually takes 7 to 14 business days depending on the destination country and local customs handling.",
+          "Does YesStyle offer free international shipping? Yes, free standard shipping is available on qualifying orders above minimum spend thresholds (such as $59 USD).",
+          "Does the Reward Code CECILIA010 expire? No, CECILIA010 is a permanent Reward Code that gives up to 5% extra discount and stacks with promo coupon codes.",
+          "How do I use code CECILIA010 on YesStyle? Enter CECILIA010 in the 'Reward Code' field during checkout. It can be combined with a coupon code in the 'Coupon Code' field."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Shop official K-Beauty on YesStyle with code CECILIA010",
+      "label": "Visit YesStyle",
+      "url": "https://ystyle.co/rQYQv"
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "This review is analytical and editorial in nature. The mention of code CECILIA010 is part of an affiliate partnership between Em Casa com Cecília and YesStyle. Public company data and official brand information were independently verified.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-reward-code-coupon-cecilia010",
+        "title": "How to Use YesStyle Reward Code CECILIA010: Step-by-Step Checkout Guide"
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "slug": "es-yesstyle-de-fiar-y-seguro",
+    "title": "¿Es YesStyle de Fiar y Seguro? Lo que Debes Saber Antes de Comprar",
+    "type": "Editorial",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Análisis de datos públicos de YesStyle: sede en Hong Kong, distribuidor autorizado de más de 400 marcas asiáticas, envíos internacionales, aduanas y garantía al comprador.",
+    "metaDescription": "¿Es YesStyle confiable y seguro? Datos de la empresa, autorizaciones de marcas de K-beauty, envío internacional, impuestos y consejos de compra.",
+    "publishedAt": "2 de agosto de 2026",
+    "publishedAtISO": "2026-08-02",
+    "draft": false,
+    "locale": "es",
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
+    "imageAlt": "Productos de K-Beauty y ofertas en la plataforma YesStyle",
+    "imageFit": "cover",
+    "imageAspect": "square",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Información Pública de la Empresa",
+        "paragraphs": [
+          "YesStyle Limited es una plataforma de comercio electrónico con sede en Hong Kong fundada en 2006. Opera como subsidiaria de YesAsia Holdings Limited, empresa cotizada en la Bolsa de Valores de Hong Kong (código 2209.HK). Esto significa que YesStyle cuenta con el respaldo de una corporación pública sometida a auditorías financieras regulares.",
+          "La tienda presta servicio a compradores de más de 80 países en múltiples divisas e idiomas. Las compras internacionales se realizan de acuerdo con los estándares de comercio electrónico global, ofreciendo soporte al cliente para seguimiento de paquetes y devoluciones."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Catálogo y Posicionamiento de Mercado",
+        "paragraphs": [
+          "YesStyle está reconocida como distribuidora autorizada de más de 400 marcas de belleza coreana (K-beauty), japonesa (J-beauty) y moda asiática. Incluye cosméticos, cuidado de la piel (tónicos, sérums, protectores solares), maquillaje y accesorios.",
+          "Trabaja directamente con firmas consolidadas como COSRX, Etude House, Hada Labo y Rohto, obteniendo los productos de fabricantes o distribuidores oficiales autorizados."
+        ],
+        "bullets": [],
+        "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
+        "imageAlt": "Marcas de K-Beauty disponibles en YesStyle",
+        "imageFit": "square"
+      },
+      {
+        "heading": "Envíos Internacionales y Atención al Cliente",
+        "paragraphs": [
+          "YesStyle realiza envíos internacionales a más de 80 países con envío estándar gratuito en pedidos que alcancen el importe mínimo requerido (como 48 € o 59 USD).",
+          "El plazo habitual de entrega oscila entre 7 y 14 días laborables según el país de destino. Se proporciona número de seguimiento para cada pedido. Los clientes disponen de hasta 14 días tras la recepción para solicitar devoluciones en productos intactos."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Consejos Prácticos Antes de Pedir",
+        "paragraphs": [
+          "Antes de finalizar tu compra en YesStyle, ten en cuenta los siguientes consejos:"
+        ],
+        "bullets": [
+          "Comprueba siempre que estás en el sitio web oficial (yesstyle.com) con conexión HTTPS segura.",
+          "Revisa la normativa aduanera de tu país para conocer los umbrales exentos de aranceles de importación.",
+          "Lee detenidamente las especificaciones de los cosméticos y las guías de tallas en moda asiática.",
+          "Verifica el plazo de entrega estimado en el carrito antes de confirmar el pago."
+        ]
+      },
+      {
+        "heading": "Código de Recompensa y Descuento Adicional",
+        "paragraphs": [
+          "Em Casa com Cecília mantiene una alianza comercial con YesStyle. Gracias a ella, puedes introducir el código de recompensa CECILIA010 en la casilla 'Reward Code' para conseguir hasta un 5% de descuento extra en tu primera compra y un 2% en pedidos habituales. Es acumulable con cupones promocionales.",
+          "El código CECILIA010 es permanente y no tiene ningún coste adicional para el comprador."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Preguntas Frecuentes",
+        "bullets": [
+          "¿Es YesStyle confiable y legítimo? Sí, YesStyle es una tienda online auténtica fundada en 2006, filial de la empresa pública YesAsia Holdings Limited (2209.HK).",
+          "¿Los productos de YesStyle son 100% originales? Sí, es distribuidor autorizado de más de 400 marcas coreanas y japonesas.",
+          "¿Cuánto tarda en llegar un pedido de YesStyle? El envío internacional estándar suele tardar entre 7 y 14 días laborables.",
+          "¿Cómo usar el código CECILIA010? Introduce CECILIA010 en la casilla 'Código de Recompensa' durante el proceso de pago."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Compra cosmética coreana en YesStyle con el código CECILIA010",
+      "label": "Visitar tienda",
+      "url": "https://ystyle.co/rQYQv"
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Artículo editorial independiente. La mención del código CECILIA010 forma parte de la alianza de afiliados entre Em Casa com Cecília y YesStyle.",
+    "relatedArticles": [
+      {
+        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
+        "title": "Cómo usar el código de recompensa CECILIA010 en YesStyle"
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "slug": "yesstyle-est-il-fiable-et-sur",
+    "title": "YesStyle est-il Fiable et Sûr ? Ce qu'il Faut Savoir Avant d'Acheter",
+    "type": "Editorial",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Analyse des données publiques de YesStyle : siège à Hong Kong, revendeur agréé de 400+ marques de beauté asiatique, livraison internationale et garanties d'achat.",
+    "metaDescription": "YesStyle est-il fiable et sûr ? Données d'entreprise, partenariats officiels K-beauty, livraisons internationales, douanes et conseils d'achat.",
+    "publishedAt": "2 août 2026",
+    "publishedAtISO": "2026-08-02",
+    "draft": false,
+    "locale": "fr",
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
+    "imageAlt": "Produits K-Beauty et offres sur la plateforme YesStyle",
+    "imageFit": "cover",
+    "imageAspect": "square",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Informations Publiques sur l'Entreprise",
+        "paragraphs": [
+          "YesStyle Limited est une plateforme de e-commerce basée à Hong Kong, fondée en 2006. Elle est une filiale de YesAsia Holdings Limited, société cotée à la Bourse de Hong Kong sous le code 2209.HK. Cela garantit une gestion transparente et des comptes audités.",
+          "Le site dessert plus de 80 pays en proposant plusieurs devises d'affichage. Les commandes sont traitées selon les normes du commerce électronique international."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Catalogue et Partenariats Officiels",
+        "paragraphs": [
+          "YesStyle est un distributeur agréé pour plus de 400 marques de beauté coréenne (K-beauty), japonaise (J-beauty) et de mode asiatique. On y retrouve des marques réputées comme COSRX, Etude House, Hada Labo et Rohto.",
+          "Les produits sont directement acheminés depuis les fabricants ou distributeurs officiels certifiés."
+        ],
+        "bullets": [],
+        "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
+        "imageAlt": "Marques K-Beauty disponibles sur YesStyle",
+        "imageFit": "square"
+      },
+      {
+        "heading": "Livraison Internationale et Retours",
+        "paragraphs": [
+          "YesStyle propose la livraison internationale gratuite pour les commandes dépassant le montant minimum requis (ex. 48 € ou 59 USD).",
+          "Les délais moyens de livraison s'élèvent à 7 à 14 jours ouvrés. Un numéro de suivi est fourni pour chaque colis. Les retours sont possibles sous 14 jours après réception."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Conseils Avant de Commander",
+        "paragraphs": [
+          "Voici quelques conseils pratiques avant de valider votre panier :"
+        ],
+        "bullets": [
+          "Vérifiez que vous naviguez sur le domaine officiel (yesstyle.com) en HTTPS.",
+          "Renseignez-vous sur la réglementation douanière de votre pays concernant la TVA et les droits d'importation.",
+          "Lisez attentivement les fiches produits et guides de tailles."
+        ]
+      },
+      {
+        "heading": "Code de Récompense et Réduction Supplémentaire",
+        "paragraphs": [
+          "Em Casa com Cecília est partenaire de YesStyle. En saisissant le code de récompense CECILIA010 dans le champ dédié au moment du paiement, vous bénéficiez de 5 % de réduction supplémentaire sur votre première commande et de 2 % sur les suivantes. Cumulable avec les codes promo.",
+          "Le code CECILIA010 est permanent et sans aucun frais pour l'acheteur."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Foire Aux Questions",
+        "bullets": [
+          "YesStyle est-il un site fiable ? Oui, YesStyle est une entreprise légitime fondée en 2006, filiale du groupe coté en bourse YesAsia Holdings (2209.HK).",
+          "Les produits sont-ils authentiques ? Oui, YesStyle est revendeur officiel agréé de plus de 400 marques coréennes et japonaises.",
+          "Quel est le délai de livraison ? La livraison internationale standard prend en moyenne 7 à 14 jours ouvrés.",
+          "Comment utiliser le code CECILIA010 ? Saisissez CECILIA010 dans la case 'Code de Récompense' lors de la validation du panier."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Commandez vos soins K-Beauty sur YesStyle avec le code CECILIA010",
+      "label": "Visiter YesStyle",
+      "url": "https://ystyle.co/rQYQv"
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Revue éditoriale indépendante. L'utilisation du code CECILIA010 s'inscrit dans le cadre d'un partenariat d'affiliation.",
+    "relatedArticles": [
+      {
+        "slug": "code-recompense-yesstyle-cecilia010",
+        "title": "Comment utiliser le code de récompense CECILIA010 sur YesStyle"
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "slug": "ist-yesstyle-serioes-und-sicher",
+    "title": "Ist YesStyle Seriös und Sicher? Was Sie Vor Dem Kauf Wissen Müssen",
+    "type": "Editorial",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Analyse der öffentlichen Unternehmensdaten von YesStyle: Hauptsitz in Hongkong, autorisierter Händler von 400+ asiatischen Kosmetikmarken, internationaler Versand und Käuferschutz.",
+    "metaDescription": "Ist YesStyle seriös und sicher? Unternehmensdaten, offizielle K-Beauty Partnerschaften, internationaler Versand, Zoll und Einkauftipps.",
+    "publishedAt": "2. August 2026",
+    "publishedAtISO": "2026-08-02",
+    "draft": false,
+    "locale": "de",
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
+    "imageAlt": "K-Beauty Produkte und Angebote auf YesStyle",
+    "imageFit": "cover",
+    "imageAspect": "square",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Öffentliche Unternehmensdaten",
+        "paragraphs": [
+          "YesStyle Limited ist eine E-Commerce-Plattform mit Sitz in Hongkong, gegründet im Jahr 2006. Die Gesellschaft ist eine Tochtergesellschaft der YesAsia Holdings Limited, die an der Hongkonger Börse unter dem Code 2209.HK notiert ist. Dies gewährleistet geprüfte Finanzberichte und Transparenz.",
+          "YesStyle liefert weltweit in über 80 Länder mit Unterstützung verschiedener Währungen. Bestellungen werden nach internationalen Online-Handelsstandards abgewickelt."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Sortiment und Autorisierte Marken",
+        "paragraphs": [
+          "YesStyle gilt als autorisierter Händler für mehr als 400 koreanische (K-Beauty) und japanische (J-Beauty) Kosmetik- sowie Modemarken. Beliebte Marken wie COSRX, Etude House, Hada Labo und Rohto werden direkt vom Hersteller bezogen."
+        ],
+        "bullets": [],
+        "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
+        "imageAlt": "Authentische K-Beauty Marken auf YesStyle",
+        "imageFit": "square"
+      },
+      {
+        "heading": "Internationaler Versand und Rückgabe",
+        "paragraphs": [
+          "Kostenloser Standardversand wird ab Erreichen des Mindestbestellwerts (z. B. 48 €) angeboten.",
+          "Die internationale Lieferzeit beträgt in der Regel 7 bis 14 Werktage. Jedes Paket enthält eine Sendungsverfolgungsnummer. Rückgaben sind innerhalb von 14 Tagen nach Erhalt möglich."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Tipps Vor Der Bestellung",
+        "paragraphs": [
+          "Beachten Sie vor Ihrem Kauf folgende Empfehlungen:"
+        ],
+        "bullets": [
+          "Stellen Sie sicher, dass Sie sich auf der offiziellen Domain (yesstyle.com) mit verschlüsselter HTTPS-Verbindung befinden.",
+          "Informieren Sie sich über die Zoll- und Einfuhrbestimmungen Ihres Landes bezüglich Einfuhrumsatzsteuer.",
+          "Prüfen Sie Größenangaben und Produktdetails sorgfältig."
+        ]
+      },
+      {
+        "heading": "Rabattcode und Zusätzliche Ersparnis",
+        "paragraphs": [
+          "Em Casa com Cecília unterhält eine Partnerschaft mit YesStyle. Durch Eingabe des Rabattcodes CECILIA010 im Feld 'Reward Code' beim Checkout erhalten Sie 5 % Extra-Rabatt bei der Erstbestellung und 2 % bei Folgebestellungen. Kombinierbar mit Aktionsgutscheinen.",
+          "Der Code CECILIA010 ist dauerhaft gültig und für Käufer völlig kostenlos."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Häufig Gestellte Fragen",
+        "bullets": [
+          "Ist YesStyle seriös? Ja, YesStyle ist ein etablierter Online-Shop (gegründet 2006) und Tochterunternehmen der börsennotierten YesAsia Holdings (2209.HK).",
+          "Sind die Produkte 100% original? Ja, YesStyle ist autorisierter Händler für über 400 Kosmetikmarken.",
+          "Wie lange dauert der Versand? Der internationale Standardversand dauert in der Regel 7 bis 14 Werktage.",
+          "Wie löse ich CECILIA010 ein? Tragen Sie den Code CECILIA010 im Feld 'Reward Code' beim Checkout ein."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "K-Beauty auf YesStyle bestellen mit Code CECILIA010",
+      "label": "Shop Besuchen",
+      "url": "https://ystyle.co/rQYQv"
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Unabhängiger redaktioneller Bericht. Die Verwendung des Codes CECILIA010 erfolgt im Rahmen einer Affiliate-Partnerschaft.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-reward-code-rabatt-cecilia010",
+        "title": "YesStyle Reward Code CECILIA010 einlösen: Anleitung"
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "slug": "yesstyle-trust-guide-ko",
+    "title": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보",
+    "type": "Editorial",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "YesStyle 기업 정보 분석: 홍콩 본사, 400개 이상 한국 및 아시아 뷰티 브랜드 공식 유통, 글로벌 배송 및 구매자 보호 정책 안내.",
+    "metaDescription": "YesStyle은 믿을 수 있을까? 상장사 기업 정보, 400+ K-뷰티 브랜드 공식 유통, 국제 배송 및 쇼핑 팁 안내.",
+    "publishedAt": "2026년 8월 2일",
+    "publishedAtISO": "2026-08-02",
+    "draft": false,
+    "locale": "ko",
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
+    "imageAlt": "YesStyle 플랫폼의 K-뷰티 제품 및 프로모션",
+    "imageFit": "cover",
+    "imageAspect": "square",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "기업 공개 정보",
+        "paragraphs": [
+          "YesStyle Limited는 2006년에 설립된 홍콩 기반의 글로벌 이커머스 플랫폼입니다. 홍콩 증권거래소 상장사(주식 코드 2209.HK)인 YesAsia Holdings Limited의 자회사로 운영되며, 정기적인 회계 감사를 받는 정식 기업입니다.",
+          "전 세계 80개국 이상에 서비스를 제공하며 다국어 및 다양한 통화 결제를 지원합니다."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "카탈로그 및 브랜드 유통",
+        "paragraphs": [
+          "YesStyle은 COSRX, Etude House, Hada Labo 등 400개 이상의 한국(K-beauty) 및 일본 뷰티 브랜드의 공식 유통업체입니다. 브랜드 본사 또는 공식 파트너사로부터 직접 정품을 공급받습니다."
+        ],
+        "bullets": [],
+        "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
+        "imageAlt": "YesStyle 정품 K-뷰티 브랜드",
+        "imageFit": "square"
+      },
+      {
+        "heading": "국제 배송 및 고객 지원 Policy",
+        "paragraphs": [
+          "전 세계 80여 개국으로 국제 배송을 제공하며, 일정 금액 이상 구매 시 무료 배송 혜택을 제공합니다. 평균 배송 기간은 7일~14일(영업일 기준) 소요됩니다."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "리워드 코드 및 추가 할인",
+        "paragraphs": [
+          "결제 시 Reward Code 입력란에 CECILIA010을 입력하면 첫 구매 시 최대 5%, 재구매 시 2% 추가 할인을 적용받을 수 있습니다. 일반 프로모션 쿠폰과 중복 적용이 가능합니다."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "자주 묻는 질문 (FAQ)",
+        "bullets": [
+          "YesStyle은 정품만 판매하나요? 네, 400개 이상 브랜드의 정식 유통업체로서 100% 정품을 판매합니다.",
+          "CECILIA010 코드는 어떻게 사용하나요? 결제 단계의 'Reward Code' 입력란에 CECILIA010을 입력하시면 됩니다."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "YesStyle 공식 K-뷰티 쇼핑하기 (코드 CECILIA010)",
+      "label": "쇼핑몰 이동",
+      "url": "https://ystyle.co/rQYQv"
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "독립적인 편집 리뷰입니다. CECILIA010 코드 사용 시 제휴 파트너십을 통해 혜택이 제공됩니다.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-reward-code-cecilia010-ko",
+        "title": "YesStyle 리워드 코드 CECILIA010 사용 방법 안내"
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "slug": "yesstyle-trust-guide-ja",
+    "title": "YesStyleは safe？購入前に知っておくべき信頼性と評判",
+    "type": "Editorial",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "YesStyleの企業情報解説：香港本社、400以上の韓流コスメ正規取扱、 global配送、返금保証および買い物ガイド。",
+    "metaDescription": "YesStyleは安全で信頼できる？香港上場企業の透明性、400以上のK-Beauty正規代理店情報、配送・クーポンガイド。",
+    "publishedAt": "2026年8月2日",
+    "publishedAtISO": "2026-08-02",
+    "draft": false,
+    "locale": "ja",
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
+    "imageAlt": "YesStyleのK-Beauty製品とプロモ",
+    "imageFit": "cover",
+    "imageAspect": "square",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "企業情報と透明性",
+        "paragraphs": [
+          "YesStyle Limitedは2006年に設立された香港拠点のECサイトです。香港証券取引所上場企業であるYesAsia Holdings Limited（証券コード 2209.HK）の傘下であり、会計監査を受けた透明性の高い企業です。",
+          "世界80カ国以上に向けて発送を行っており、日本語表示および日本円決済にも対応しています。"
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "取扱ブランドと正規品保証",
+        "paragraphs": [
+          "COSRX、Etude、肌ラボなど400以上のK-BeautyおよびJ-Beautyブランドの正規販売店です。メーカーまたは authorized ディストリビューターから directly に商品を仕入れています。"
+        ],
+        "bullets": [],
+        "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
+        "imageAlt": "YesStyleで買えるコスメブランド",
+        "imageFit": "square"
+      },
+      {
+        "heading": "国際配送とサポート",
+        "paragraphs": [
+          "一定金額以上の注文で国際送料無料が適用されます。日本への通常お届け日数は約7日〜14営業日です。追跡番号が発行されます。"
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "リワードコードで追加割引",
+        "paragraphs": [
+          "チェックアウト時に「リワードコード（Reward Code）」欄へ CECILIA010 を入力すると、初回購入で最大5%オフ、2回目以降で2%オフ가適用されます。通常のクーポンコードと併용可能です。"
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "YesStyleは正規品ですか？ はい、400以上のブランドと正規契約を結ぶ公式販売店です。",
+          "CECILIA010の使い方は？ 決済画面の「リワードコード」欄に CECILIA010 を入力してください。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "YesStyleでK-Beautyを購入する（コード CECILIA010）",
+      "label": "公式サイトへ",
+      "url": "https://ystyle.co/rQYQv"
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "本記事は独立した編集レビューです。コード CECILIA010 の利用はアフィリエイトパートナーシップに基づきます。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-reward-code-cecilia010-ja",
+        "title": "YesStyleリワードコード CECILIA010 の使い方・入力手順"
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "slug": "yesstyle-trust-guide-zh-hant",
+    "title": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南",
+    "type": "Editorial",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "YesStyle 企業背景分析：香港總部、400+ 韓國及亞洲美妝品牌官方授權經銷、全球發貨及買家保障說明。",
+    "metaDescription": "YesStyle 安全可靠嗎？上市公司背景、400+ K-Beauty 品牌官方授權、全球運送與優惠碼指南。",
+    "publishedAt": "2026年8月2日",
+    "publishedAtISO": "2026-08-02",
+    "draft": false,
+    "locale": "zh-hant",
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
+    "imageAlt": "YesStyle 平台上的 K-Beauty 美妝產品",
+    "imageFit": "cover",
+    "imageAspect": "square",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "上市公司企業背景",
+        "paragraphs": [
+          "YesStyle Limited 成立於 2006 年，總部位於香港，是香港交易所上市公司 YesAsia Holdings Limited（股份代號：2209.HK）旗下的電商平台。作為上市公司子公司，其營運與財務均受嚴格監管及定期審計。",
+          "平台服務覆蓋全球 80 多個國家及地區，支援多國語言及貨幣結算。"
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "商品陣容與正品保障",
+        "paragraphs": [
+          "YesStyle 是 400 多個韓國美妝（K-Beauty）、日本美妝（J-Beauty）及亞洲時尚品牌的官方授權經銷商，包括 COSRX、Etude House、肌研（Hada Labo）等熱門品牌。所有商品均直接向品牌總公司或指定官方代理商採購，保證 100% 正品。"
+        ],
+        "bullets": [],
+        "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
+        "imageAlt": "YesStyle 授權正品品牌",
+        "imageFit": "square"
+      },
+      {
+        "heading": "全球運送與售後保障",
+        "paragraphs": [
+          "提供全球國際快遞服務，訂單達到指定金額即可享有免費標準運送。運送時間一般為 7 至 14 個工作天，並附設包裹追蹤號碼。"
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "獎勵代碼額外折扣",
+        "paragraphs": [
+          "結帳時於「獎勵代碼 (Reward Code)」欄位輸入 CECILIA010，首單可享最高 5% 額外折扣，續購可享 2% 折扣。可與優惠券代碼（Coupon Code）疊加使用。"
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "YesStyle 是正品嗎？ 是的，YesStyle 是 400 多個美妝品牌的官方授權經銷商。",
+          "如何使用 CECILIA010 代碼？ 結帳時在「獎勵代碼」欄位輸入 CECILIA010 即可。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "前往 YesStyle 選購美妝 (使用代碼 CECILIA010)",
+      "label": "造訪網站",
+      "url": "https://ystyle.co/rQYQv"
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "本文章為獨立編輯評論。使用 CECILIA010 代碼包含聯盟行銷合作關係。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-reward-code-cecilia010-zh-hant",
+        "title": "YesStyle 獎勵代碼 CECILIA010 使用指南"
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "slug": "yesstyle-trust-guide-zh-hans",
+    "title": "YesStyle 值得信赖吗？购买前必看安全评价与购物指南",
+    "type": "Editorial",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "YesStyle 企业背景分析：香港总部、400+ 韩国及亚洲美妆品牌官方授权经销、全球发货及买家保障说明。",
+    "metaDescription": "YesStyle 安全可靠吗？上市公司背景、400+ K-Beauty 品牌官方授权、全球运送与优惠码指南。",
+    "publishedAt": "2026年8月2日",
+    "publishedAtISO": "2026-08-02",
+    "draft": false,
+    "locale": "zh-hans",
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
+    "imageAlt": "YesStyle 平台上的 K-Beauty 美妆产品",
+    "imageFit": "cover",
+    "imageAspect": "square",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "上市公司企业背景",
+        "paragraphs": [
+          "YesStyle Limited 成立于 2006 年，总部位于香港，是香港交易所上市公司 YesAsia Holdings Limited（股份代码：2209.HK）旗下的电商平台。作为上市公司子公司，其运营与财务均受严格监管及定期审计。",
+          "平台服务覆盖全球 80 多个国家及地区，支持多国语言及货币结算。"
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "商品阵容与正品保障",
+        "paragraphs": [
+          "YesStyle 是 400 多个韩国美妆（K-Beauty）、日本美妆（J-Beauty）及亚洲时尚品牌的官方授权经销商，包括 COSRX、Etude House、肌研（Hada Labo）等热门品牌。所有商品均直接向品牌总公司或指定官方代理商采购，保证 100% 正品。"
+        ],
+        "bullets": [],
+        "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
+        "imageAlt": "YesStyle 授权正品品牌",
+        "imageFit": "square"
+      },
+      {
+        "heading": "全球运送与售后保障",
+        "paragraphs": [
+          "提供全球国际快递服务，订单达到指定金额即可享有免费标准运送。运送时间一般为 7 至 14 个工作日，并附设包裹追踪号码。"
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "奖励代码额外折扣",
+        "paragraphs": [
+          "结账时于“奖励代码 (Reward Code)”栏位输入 CECILIA010，首单可享最高 5% 额外折扣，续购可享 2% 折扣。可与优惠券代码（Coupon Code）叠加使用。"
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "YesStyle 是正品吗？ 是的，YesStyle 是 400 多个美妆品牌的官方授权经销商。",
+          "如何使用 CECILIA010 代码？ 结账时在“奖励代码”栏位输入 CECILIA010 即可。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "前往 YesStyle 选购美妆 (使用代码 CECILIA010)",
+      "label": "造访网站",
+      "url": "https://ystyle.co/rQYQv"
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "本文章为独立编辑评论。使用 CECILIA010 代码包含联盟营销合作关系。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-reward-code-cecilia010-zh-hans",
+        "title": "YesStyle 奖励代码 CECILIA010 使用指南"
+      }
+    ]
   }
 ];

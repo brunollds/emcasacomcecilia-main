@@ -463,15 +463,17 @@ for (const coupon of YESSTYLE_COUPONS_FACTUAL) {
   }
 }
 
-// 3. Validação de paridade e isolamento dos 18 artigos nos clusters
+// 3. Validação de paridade e isolamento dos 27 artigos nos 3 clusters
 const rewardLocalesFound = new Set<string>();
 const guideLocalesFound = new Set<string>();
+const trustLocalesFound = new Set<string>();
 
 for (const review of reviews) {
   const isReward = Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.rewardArticleSlug === review.slug);
   const isGuide = Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.guideSlug === review.slug);
+  const isTrust = Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.trustArticleSlug === review.slug);
 
-  if (isReward || isGuide) {
+  if (isReward || isGuide || isTrust) {
     if (!review.locale) {
       reportError({ type: 'review', id: review.id, slug: review.slug, message: 'Artigo YesStyle sem campo "locale" explícito no JSON' });
     } else {
@@ -497,6 +499,13 @@ for (const review of reviews) {
       }
       if (review.locale) guideLocalesFound.add(review.locale);
     }
+
+    if (isTrust) {
+      if (trustLocalesFound.has(review.locale || '')) {
+        reportError({ type: 'review', id: review.id, slug: review.slug, message: `Locale "${review.locale}" duplicado no cluster de Confiança` });
+      }
+      if (review.locale) trustLocalesFound.add(review.locale);
+    }
   }
 }
 
@@ -506,6 +515,10 @@ if (rewardLocalesFound.size !== YESSTYLE_LOCALE_KEYS.length) {
 
 if (guideLocalesFound.size !== YESSTYLE_LOCALE_KEYS.length) {
   reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: `Cluster de Guia possui ${guideLocalesFound.size} de ${YESSTYLE_LOCALE_KEYS.length} idiomas` });
+}
+
+if (trustLocalesFound.size !== YESSTYLE_LOCALE_KEYS.length) {
+  reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: `Cluster de Confiança possui ${trustLocalesFound.size} de ${YESSTYLE_LOCALE_KEYS.length} idiomas` });
 }
 
 // 4. Validação do resolvedor estrito fail-loud

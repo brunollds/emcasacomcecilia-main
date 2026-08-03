@@ -1,0 +1,82 @@
+{
+  "id": 257,
+  "slug": "yesstyle-trust-guide-zh-hans",
+  "title": "YesStyle 值得信赖吗？购买前必看安全评价与购物指南",
+  "type": "Editorial",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "YesStyle 企业背景分析：香港总部、400+ 韩国及亚洲美妆品牌官方授权经销、全球发货及买家保障说明。",
+  "metaDescription": "YesStyle 安全可靠吗？上市公司背景、400+ K-Beauty 品牌官方授权、全球运送与优惠码指南。",
+  "publishedAt": "2026年8月2日",
+  "publishedAtISO": "2026-08-02",
+  "draft": false,
+  "locale": "zh-hans",
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
+  "imageAlt": "YesStyle 平台上的 K-Beauty 美妆产品",
+  "imageFit": "cover",
+  "imageAspect": "square",
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "上市公司企业背景",
+      "paragraphs": [
+        "YesStyle Limited 成立于 2006 年，总部位于香港，是香港交易所上市公司 YesAsia Holdings Limited（股份代码：2209.HK）旗下的电商平台。作为上市公司子公司，其运营与财务均受严格监管及定期审计。",
+        "平台服务覆盖全球 80 多个国家及地区，支持多国语言及货币结算。"
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "商品阵容与正品保障",
+      "paragraphs": [
+        "YesStyle 是 400 多个韩国美妆（K-Beauty）、日本美妆（J-Beauty）及亚洲时尚品牌的官方授权经销商，包括 COSRX、Etude House、肌研（Hada Labo）等热门品牌。所有商品均直接向品牌总公司或指定官方代理商采购，保证 100% 正品。"
+      ],
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
+      "imageAlt": "YesStyle 授权正品品牌",
+      "imageFit": "square"
+    },
+    {
+      "heading": "全球运送与售后保障",
+      "paragraphs": [
+        "提供全球国际快递服务，订单达到指定金额即可享有免费标准运送。运送时间一般为 7 至 14 个工作日，并附设包裹追踪号码。"
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "奖励代码额外折扣",
+      "paragraphs": [
+        "结账时于“奖励代码 (Reward Code)”栏位输入 CECILIA010，首单可享最高 5% 额外折扣，续购可享 2% 折扣。可与优惠券代码（Coupon Code）叠加使用。"
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "YesStyle 是正品吗？ 是的，YesStyle 是 400 多个美妆品牌的官方授权经销商。",
+        "如何使用 CECILIA010 代码？ 结账时在“奖励代码”栏位输入 CECILIA010 即可。"
+      ]
+    }
+  ],
+  "cta": {
+    "text": "前往 YesStyle 选购美妆 (使用代码 CECILIA010)",
+    "label": "造访网站",
+    "url": "https://ystyle.co/rQYQv"
+  },
+  "coupon": "CECILIA010",
+  "affiliate": "yesstyle",
+  "editorialNote": "本文章为独立编辑评论。使用 CECILIA010 代码包含联盟营销合作关系。",
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-reward-code-cecilia010-zh-hans",
+      "title": "YesStyle 奖励代码 CECILIA010 使用指南"
+    }
+  ]
+}
