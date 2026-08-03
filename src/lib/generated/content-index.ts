@@ -36835,8 +36835,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Catálogo e posicionamento de mercado",
         "paragraphs": [
-          "A YesStyle é reconhecida como distribuidora autorizada de mais de 400 marcas de beleza coreana (K-beauty), beleza japonesa (J-beauty) e fashion asiática. O catálogo inclui skincare (séruns, essências, tônicos, protetores solares), maquiagem, produtos para cabelo, moda conceitual, acessórios e suplementos de bem-estar.",
-          "A empresa se declara distribuidora autorizada de mais de 400 marcas consagradas do universo K-beauty e J-beauty, como COSRX, Etude House, Hada Labo e Rohto, comprando diretamente das marcas ou de distribuidores oficiais parceiros. O fato de ser controlada por uma empresa listada em bolsa (YesAsia Holdings) é um indicativo público de transparência e auditoria regular."
+          "A YesStyle se declara distribuidora autorizada de mais de 400 marcas de beleza coreana (K-beauty), oferecendo também produtos de beleza e moda asiática. O catálogo inclui skincare (séruns, essências, tônicos, protetores solares), maquiagem, produtos para cabelo, moda e acessórios.",
+          "A empresa declara em suas informações corporativas ser distribuidora autorizada de mais de 400 marcas de beleza coreana, trabalhando com nomes conhecidos como COSRX, Etude House, Hada Labo e Rohto, comprando das fabricantes ou de distribuidores parceiros. O fato de ser controlada por uma empresa listada em bolsa (YesAsia Holdings) é um indicativo público de transparência e auditoria regular."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
@@ -36865,8 +36865,7 @@ export const reviewsData: unknown[] = [
           "Leia atentamente as descrições dos produtos, incluindo dimensões, materiais, e instruções de cuidado — padrões de beleza asiáticos podem diferir dos locais (ex: tamanho de embalagem, concentração de princípios ativos).",
           "Verifique o prazo de entrega estimado no carrinho para seu CEP. Regiões mais distantes podem ter prazos estendidos.",
           "Mantenha o comprovante de pagamento, o número de pedido e o código de rastreamento para acompanhamento e eventual recurso em caso de problemas.",
-          "Produtos podem chegar em caixa lacrada — não aceite o pacote se o lacre estiver violado, pois é garantia de autenticidade.",
-          "Como funciona a devolução na YesStyle? A solicitação de devolução é feita via formulário de autorização (RMA) no atendimento ao cliente. Produtos elegíveis não violados podem ser devolvidos para reembolso em crédito na loja ou estorno conforme a política vigente do produto."
+          "Produtos podem chegar em caixa lacrada — não aceite o pacote se o lacre estiver violado, pois é garantia de autenticidade."
         ]
       },
       {
@@ -36885,7 +36884,6 @@ export const reviewsData: unknown[] = [
           "Qual o prazo de entrega da YesStyle para o Brasil? Quando os envios ao Brasil estão ativos, o prazo padrão é de 10 a 25 dias úteis, dependendo do método e da localização. Atenção: em 2 de agosto de 2026 os envios para o Brasil continuavam suspensos — confira no site se já voltaram antes de planejar a compra.",
           "YesStyle cobra impostos de importação para o Brasil? A YesStyle não participa do Remessa Conforme (verificado em julho de 2026), então os impostos de importação e o ICMS não vêm calculados no checkout — quando há cobrança, ela acontece na chegada do pacote, via Correios ou transportadora. As alíquotas dependem do valor do pedido e do estado e mudam com o tempo.",
           "O código CECILIA010 muda o preço final do produto? Não. O código CECILIA010 oferece até 5% extra (5% 1ª compra, 2% recorrente) como benefício da parceria, sem custo adicional para o leitor.",
-          "YesStyle vende produtos autênticos? A YesStyle se declara distribuidora autorizada de mais de 400 marcas coreanas e japonesas, comprando diretamente das fabricantes ou distribuidores oficiais parceiros.",
           "Como funciona a devolução na YesStyle? A solicitação de devolução é feita via formulário de autorização (RMA) no atendimento ao cliente. Produtos elegíveis não violados podem ser devolvidos para reembolso em crédito na loja ou estorno conforme a política vigente do produto.",
           "A YesStyle aceita qual forma de pagamento? Cartão de crédito internacional, PayPal e, em alguns países, localWallets. Todos os pedidos são processados em USD.",
           "YesStyle é seguro para inserir dados de cartão? Sim, o site utiliza conexão HTTPS segura e processa pagamentos via gateways certificados internacionais. Nunca insira dados sensíveis fora do checkout oficial.",
@@ -38283,8 +38281,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "取扱ブランドと正規品保証",
         "paragraphs": [
-          "YesStyleは、COSRX、Etude、肌ラボなど400以上の韓国コスメ（K-Beauty）および日本コスメ（J-Beauty）ブランドの正規販売店として公式に認定されています。商品はブランドメーカーまたは公式認定ディストリビューターから直接仕入れています。",
-          "上場親会社（YesAsia Holdings）の支援を受けているため、事業運営における透明性と安全性が客観的に証明されています。"
+          "YesStyleは、400以上の韓国コスメ（K-Beauty）ブランドの正規販売店であることを自社サイトで案内しており、アジアンファッションやコスメも幅広く展開しています。",
+          "同社は企業情報において、COSRX、Etude、肌ラボなど400以上の韓国コスメブランドの正規販売店としてメーカーまたはパートナー代理店から商品を仕入れていると説明しています。香港上場親会社（YesAsia Holdings）の傘下として企業透明性を確保しています。"
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
@@ -38294,8 +38292,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "国際配送と購入・カスタマーサポート方針",
         "paragraphs": [
-          "YesStyleは世界80カ国以上への国際発送に対応しています。一定金額以上の注文で国際送料無料が適用されます（条件は決済画面にてご確認ください）。",
-          "配送期間や送料は、お届け先の国・地域、選択した配送方法、および商品の出荷準備状況によって異なります。すべての注文に追跡番号が発行されます。商品到着後14日以内の未開封品は返品申請が可能です。"
+          "YesStyleは世界80カ国以上への発送に対応しています。国ごとの条件を満たすことで送料無料が適用される場合があります（適用条件はカート画面にてご確認ください）。",
+          "お届け日数や送料、追跡の有無は配送先、選択した配送方法、および商品の準備状況により異なります。詳細は決済画面でご確認ください。対象商品の返品に関しては、カスタマーサポートを通じた返品許可（RMA）の手続きに従って行われます。"
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
@@ -38318,7 +38316,7 @@ export const reviewsData: unknown[] = [
         "heading": "リワードコードで追加割引",
         "paragraphs": [
           "Em Casa com CecíliaはYesStyleと公式アフィリエイトパートナーシップを結んでいます。チェックアウト時に「リワードコード（Reward Code）」欄へ CECILIA010 を入力すると、初回購入で最大5%オフ、2回目以降で2%オフの追加割引が適用されます。通常のプロモーションクーポンと併用可能です。",
-          "CECILIA010 コードは永久有効で、購入者様に追加費用は一切かかりません。"
+          "CECILIA010 コードはパートナーシップが有効な期間中ご利用いただけ、購入者様に追加費用は一切かかりません。"
         ],
         "bullets": []
       },
