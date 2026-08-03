@@ -1,6 +1,7 @@
 'use client';
 
 import Image from 'next/image';
+import { createPortal } from 'react-dom';
 import { useState, useRef, useCallback, useEffect } from 'react';
 import { ChevronLeft, ChevronRight, Maximize2, Play, ImageIcon, X } from 'lucide-react';
 
@@ -112,11 +113,11 @@ function PhotoLightbox({
     };
   }, [onClose, onNext, onPrevious]);
 
-  if (!current) return null;
+  if (!current || typeof document === 'undefined') return null;
 
-  return (
+  return createPortal(
     <div
-      className="fixed inset-0 z-50 flex items-center justify-center bg-black/90 p-4"
+      className="fixed inset-0 z-[100] flex min-h-[100dvh] items-center justify-center overscroll-contain bg-black/90 px-3 pb-[max(0.75rem,env(safe-area-inset-bottom))] pt-[max(0.75rem,env(safe-area-inset-top))]"
       role="dialog"
       aria-modal="true"
       onClick={onClose}
@@ -126,7 +127,7 @@ function PhotoLightbox({
         type="button"
         onClick={onClose}
         data-lightbox-control
-        className="absolute right-4 top-4 z-50 flex h-11 w-11 items-center justify-center rounded-full bg-white/95 text-[#0f1419] shadow-lg transition-transform hover:scale-110 active:scale-95"
+        className="absolute right-[max(0.75rem,env(safe-area-inset-right))] top-[max(0.75rem,env(safe-area-inset-top))] z-50 flex h-11 w-11 items-center justify-center rounded-full bg-white/95 text-[#0f1419] shadow-lg transition-transform hover:scale-110 active:scale-95"
         aria-label="Fechar imagem ampliada"
       >
         <X className="h-6 w-6" />
@@ -159,7 +160,7 @@ function PhotoLightbox({
       </button>
 
       <div
-        className="relative flex h-[80vh] w-full max-w-6xl items-center justify-center overflow-hidden rounded-xl bg-white p-2"
+        className="relative flex h-[min(82dvh,900px)] w-full max-w-6xl items-center justify-center overflow-hidden rounded-xl bg-white p-2"
         onClick={(e) => e.stopPropagation()}
       >
         <div className="relative h-full w-full">
@@ -179,7 +180,8 @@ function PhotoLightbox({
           {current.caption}
         </p>
       )}
-    </div>
+    </div>,
+    document.body
   );
 }
 

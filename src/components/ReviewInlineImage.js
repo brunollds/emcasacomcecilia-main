@@ -1,6 +1,7 @@
 'use client';
 
 import Image from 'next/image';
+import { createPortal } from 'react-dom';
 import { useState, useCallback, useEffect, useRef } from 'react';
 import { Maximize2, X } from 'lucide-react';
 import { useReviewMediaBlur } from '@/components/review/useReviewMediaBlur';
@@ -34,7 +35,7 @@ function normalizeImages(section, reviewTitle) {
   return images;
 }
 
-function InlineImageThumbnail({ image, index, onOpen }) {
+function InlineImageThumbnail({ image, index, onOpen, sizes }) {
   const [pendingReveal, setPendingReveal] = useState(true);
   const isPortrait = image.fit === 'portrait';
   const isContain = image.fit === 'contain';
@@ -122,7 +123,7 @@ function InlineImageThumbnail({ image, index, onOpen }) {
             alt={image.alt}
             fill
             className={isPortrait || isSquare ? 'object-cover' : (isContain || isWide) ? 'object-contain' : 'object-cover'}
-            sizes="(max-width: 768px) 100vw, 50vw"
+            sizes={sizes}
           />
         </div>
         <span className="absolute bottom-3 right-3 inline-flex items-center gap-1.5 rounded-full bg-black/70 px-3 py-1.5 text-xs font-bold uppercase tracking-[0.12em] text-white opacity-90 transition-opacity group-hover:opacity-100">
@@ -202,14 +203,14 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev }) {
     };
   }, [images.length, onClose, onNext, onPrev]);
 
-  if (!image) return null;
+  if (!image || typeof document === 'undefined') return null;
 
   const captionId = image.caption ? `review-lightbox-caption-${currentIndex}` : undefined;
 
-  return (
+  return createPortal(
     <div
       ref={dialogRef}
-      className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/90 p-4"
+      className="fixed inset-0 z-[100] flex min-h-[100dvh] flex-col items-center justify-center overscroll-contain bg-black/90 px-3 pb-[max(0.75rem,env(safe-area-inset-bottom))] pt-[max(0.75rem,env(safe-area-inset-top))]"
       role="dialog"
       aria-modal="true"
       aria-label={`Imagem ampliada ${currentIndex + 1} de ${images.length}`}
@@ -224,14 +225,14 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev }) {
           e.stopPropagation();
           onClose();
         }}
-        className="absolute right-4 top-4 z-50 flex h-11 w-11 items-center justify-center rounded-full bg-white/95 text-[#0f1419] shadow-lg transition-transform hover:scale-110 active:scale-95"
+        className="absolute right-[max(0.75rem,env(safe-area-inset-right))] top-[max(0.75rem,env(safe-area-inset-top))] z-50 flex h-11 w-11 items-center justify-center rounded-full bg-white/95 text-[#0f1419] shadow-lg transition-transform hover:scale-110 active:scale-95"
         aria-label="Fechar imagem ampliada"
       >
         <X className="h-6 w-6" />
       </button>
 
       <div
-        className="relative flex h-[75vh] w-full max-w-6xl items-center justify-center overflow-hidden rounded-xl bg-white p-2"
+        className="relative flex min-h-0 w-full max-w-6xl flex-1 items-center justify-center overflow-hidden rounded-xl bg-white p-2"
         onClick={(e) => e.stopPropagation()}
       >
         <div className="relative h-full w-full">
@@ -247,7 +248,7 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev }) {
       </div>
 
       {images.length > 1 && (
-        <div className="mt-4 flex items-center gap-4 text-white">
+        <div className="mt-3 flex shrink-0 items-center gap-4 text-white">
           <button
             type="button"
             onClick={(e) => {
@@ -277,11 +278,12 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev }) {
       )}
 
       {image.caption && (
-        <p id={captionId} className="mt-3 max-w-2xl text-center text-sm text-white/80">
+        <p id={captionId} className="mt-2 max-w-2xl shrink-0 px-3 text-center text-sm text-white/80">
           {image.caption}
         </p>
       )}
-    </div>
+    </div>,
+    document.body
   );
 }
 
@@ -315,6 +317,13 @@ export default function ReviewInlineImage({ section, reviewTitle }) {
   const isSingleSquare = images.length === 1 && images[0].fit === 'square';
   const isSingleContain = images.length === 1 && images[0].fit === 'contain';
   const isSingleWide = images.length === 1 && images[0].fit === 'wide';
+  const thumbnailSizes = isMulti
+    ? '(max-width: 640px) calc(100vw - 2rem), (max-width: 1024px) calc((100vw - 4rem) / 2), 336px'
+    : isSingleSquare
+      ? '(max-width: 768px) min(calc(100vw - 2rem), 448px), 512px'
+      : isSinglePortrait
+        ? '(max-width: 768px) min(calc(100vw - 2rem), 320px), 320px'
+        : '(max-width: 1024px) calc(100vw - 2rem), 672px';
 
   return (
     <>
@@ -325,6 +334,7 @@ export default function ReviewInlineImage({ section, reviewTitle }) {
             image={image}
             index={index}
             onOpen={handleOpen}
+            sizes={thumbnailSizes}
           />
         ))}
       </div>
