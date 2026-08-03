@@ -36835,8 +36835,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Catálogo e posicionamento de mercado",
         "paragraphs": [
-          "A YesStyle se declara distribuidora autorizada de mais de 400 marcas de beleza coreana (K-beauty), oferecendo também produtos de beleza e moda asiática. O catálogo inclui skincare (séruns, essências, tônicos, protetores solares), maquiagem, produtos para cabelo, moda e acessórios.",
-          "A empresa declara em suas informações corporativas ser distribuidora autorizada de mais de 400 marcas de beleza coreana, trabalhando com nomes conhecidos como COSRX, Etude House, Hada Labo e Rohto, comprando das fabricantes ou de distribuidores parceiros. O fato de ser controlada por uma empresa listada em bolsa (YesAsia Holdings) é um indicativo público de transparência e auditoria regular."
+          "A YesStyle se declara distribuidora autorizada de mais de 400 marcas de beleza coreana (K-beauty), oferecendo também cosméticos asiáticos e moda. O catálogo inclui skincare (séruns, essências, tônicos, protetores solares), maquiagem, produtos para cabelo e acessórios.",
+          "A empresa declara em suas informações corporativas ser distribuidora autorizada de mais de 400 marcas de beleza coreana, trabalhando com marcas conhecidas como COSRX, Etude House, Hada Labo e Rohto, adquirindo produtos diretamente das fabricantes ou de distribuidores parceiros. O fato de ser controlada por uma empresa listada em bolsa (YesAsia Holdings) é um indicativo público de transparência e auditoria regular."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
@@ -36880,7 +36880,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A YesStyle é confiável ou é um site falso? A YesStyle é legítima. É uma empresa fundada em 2006 com sede em Hong Kong, subsidiária da YesAsia Holdings Limited, listada na bolsa de Hong Kong (2209.HK), e se apresenta como distribuidora autorizada das marcas que vende.",
-          "YesStyle vende produtos autênticos? A YesStyle se declara distribuidora autorizada de mais de 400 marcas coreanas e japonesas, comprando diretamente das fabricantes ou distribuidores oficiais parceiros.",
+          "YesStyle vende produtos autênticos? A YesStyle declara ser distribuidora autorizada de mais de 400 marcas de beleza coreana, comprando diretamente das fabricantes ou de distribuidores parceiros oficiais.",
           "Qual o prazo de entrega da YesStyle para o Brasil? Quando os envios ao Brasil estão ativos, o prazo padrão é de 10 a 25 dias úteis, dependendo do método e da localização. Atenção: em 2 de agosto de 2026 os envios para o Brasil continuavam suspensos — confira no site se já voltaram antes de planejar a compra.",
           "YesStyle cobra impostos de importação para o Brasil? A YesStyle não participa do Remessa Conforme (verificado em julho de 2026), então os impostos de importação e o ICMS não vêm calculados no checkout — quando há cobrança, ela acontece na chegada do pacote, via Correios ou transportadora. As alíquotas dependem do valor do pedido e do estado e mudam com o tempo.",
           "O código CECILIA010 muda o preço final do produto? Não. O código CECILIA010 oferece até 5% extra (5% 1ª compra, 2% recorrente) como benefício da parceria, sem custo adicional para o leitor.",
@@ -37772,8 +37772,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Catalog and Market Position",
         "paragraphs": [
-          "YesStyle is recognized as an authorized retailer for over 400 Korean beauty (K-beauty), Japanese beauty (J-beauty), and Asian fashion brands. The catalog covers skincare (serums, essences, toners, sunscreens), makeup, haircare, Asian fashion, accessories, and wellness items.",
-          "YesStyle states that it is an authorized retailer for over 400 K-beauty and J-beauty brands, including COSRX, Etude House, Hada Labo, and Rohto, sourcing from brand manufacturers or official partners. Being backed by a publicly listed parent company (YesAsia Holdings) provides verifiable corporate transparency."
+          "YesStyle states that it is an authorized distributor for over 400 Korean beauty (K-beauty) brands, while also offering Japanese beauty products and Asian fashion. The catalog covers skincare (serums, essences, toners, sunscreens), makeup, haircare, and accessories.",
+          "The company states in its corporate information that it operates as an authorized distributor for over 400 Korean beauty brands, featuring established names such as COSRX, Etude House, Hada Labo, and Rohto, sourcing from brand manufacturers or authorized brand partners. Being backed by a publicly listed parent company (YesAsia Holdings) provides verifiable corporate transparency."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
@@ -37817,7 +37817,7 @@ export const reviewsData: unknown[] = [
         "heading": "Frequently Asked Questions",
         "bullets": [
           "Is YesStyle legit and reliable? Yes, YesStyle is a legitimate online retailer founded in 2006. It is a subsidiary of YesAsia Holdings Limited (2209.HK), a publicly listed company on the Hong Kong Stock Exchange.",
-          "Does YesStyle sell authentic products? YesStyle states it is an authorized distributor for 400+ Korean and Japanese beauty brands, sourcing directly from official manufacturers and authorized brand partners.",
+          "Does YesStyle sell authentic products? YesStyle states it is an authorized distributor for over 400 Korean beauty brands, sourcing directly from official manufacturers or authorized brand partners.",
           "How long does YesStyle shipping take internationally? Standard international shipping usually takes 7 to 14 business days depending on the destination country and local customs handling.",
           "Does YesStyle offer free international shipping? Yes, free standard shipping is available on qualifying orders above minimum spend thresholds (such as $59 USD).",
           "Does the Reward Code CECILIA010 expire? No, CECILIA010 is a permanent Reward Code that gives up to 5% extra discount and stacks with promo coupon codes.",
@@ -37881,8 +37881,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Catálogo y Posicionamiento de Mercado",
         "paragraphs": [
-          "YesStyle está reconocida como distribuidora autorizada de más de 400 marcas de belleza coreana (K-beauty), japonesa (J-beauty) y moda asiática. Incluye cosméticos, cuidado de la piel (tónicos, sérums, protectores solares), maquillaje y accesorios.",
-          "YesStyle declara ser distribuidora autorizada de más de 400 marcas de K-beauty y J-beauty, como COSRX, Etude House, Hada Labo y Rohto, obteniendo productos directamente de fabricantes o distribuidores oficiales asociados. Estar respaldada por una cotizada pública (YesAsia Holdings) aporta transparencia corporativa."
+          "YesStyle declara ser distribuidora autorizada de más de 400 marcas de belleza coreana (K-beauty), ofreciendo también productos de belleza japonesa y moda asiática. El catálogo incluye cuidado de la piel (tónicos, sérums, protectores solares), maquillaje y accesorios.",
+          "La empresa declara en su información corporativa ser distribuidora autorizada de más de 400 marcas de belleza coreana, trabajando con firmas consolidadas como COSRX, Etude House, Hada Labo y Rohto, obteniendo productos directamente de fabricantes o socios distribuidores oficiales. Estar respaldada por una cotizada pública (YesAsia Holdings) aporta transparencia corporativa."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
@@ -37924,7 +37924,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preguntas Frecuentes",
         "bullets": [
           "¿Es YesStyle confiable y legítimo? Sí, YesStyle es una tienda online auténtica fundada en 2006, filial de la empresa pública YesAsia Holdings Limited (2209.HK).",
-          "¿Los productos de YesStyle son originales? YesStyle declara ser distribuidor autorizado de más de 400 marcas coreanas y japonesas, comprando directamente a fabricantes o socios oficiales.",
+          "¿Los productos de YesStyle son originales? YesStyle declara ser distribuidor autorizado de más de 400 marcas de belleza coreana, comprando directamente a fabricantes o socios oficiales autorizados.",
           "¿Cuánto tarda en llegar un pedido de YesStyle? El envío internacional estándar suele tardar entre 7 y 14 días laborables.",
           "¿Cómo usar el código CECILIA010? Introduce CECILIA010 en la casilla 'Código de Recompensa' durante el proceso de pago."
         ]
@@ -37986,8 +37986,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Catalogue et Partenariats Officiels",
         "paragraphs": [
-          "YesStyle est un distributeur agréé pour plus de 400 marques de beauté coréenne (K-beauty), japonaise (J-beauty) et de mode asiatique. On y retrouve des marques réputées comme COSRX, Etude House, Hada Labo et Rohto.",
-          "YesStyle déclare être revendeur agréé pour plus de 400 marques K-beauty et J-beauty, telles que COSRX, Etude House, Hada Labo et Rohto, en s'approvisionnant auprès des fabricants ou partenaires officiels. Son appartenance au groupe coté YesAsia Holdings constitue un gage de transparence financière."
+          "YesStyle déclare être revendeur agréé pour plus de 400 marques de beauté coréenne (K-beauty), tout en proposant des produits de beauté japonaise et de la mode asiatique. Le catalogue comprend des soins de la peau (sérums, essences, toniques, crèmes solaires), du maquillage et des accessoires.",
+          "L'entreprise indique dans ses informations officielles être revendeur agréé pour plus de 400 marques de beauté coréenne, travaillant avec des marques établies comme COSRX, Etude House, Hada Labo et Rohto, en s'approvisionnant auprès des fabricants ou partenaires distributeurs certifiés. Son appartenance au groupe coté YesAsia Holdings constitue un gage de transparence financière."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
@@ -38090,7 +38090,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sortiment und Autorisierte Marken",
         "paragraphs": [
-          "YesStyle gilt als autorisierter Händler für mehr als 400 koreanische (K-Beauty) und japanische (J-Beauty) Kosmetik- sowie Modemarken. Beliebte Marken wie COSRX, Etude House, Hada Labo und Rohto werden direkt vom Hersteller bezogen."
+          "YesStyle gibt an, autorisierter Händler für mehr als 400 koreanische Kosmetikmarken (K-Beauty) zu sein, und bietet darüber hinaus japanische Kosmetik und asiatische Mode an. Das Sortiment umfasst Hautpflege (Seren, Essenzen, Toner, Sonnenschutz), Make-up und Accessoires.",
+          "Das Unternehmen erklärt in seinen Unternehmensangaben, autorisierter Händler für über 400 koreanische Kosmetikmarken zu sein, darunter bekannte Namen wie COSRX, Etude House, Hada Labo und Rohto, und bezieht Produkte von Herstellern oder offiziellen Partnern. Als Tochtergesellschaft der börsennotierten YesAsia Holdings unterliegt das Unternehmen Transparenzpflichten."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
@@ -38131,7 +38132,7 @@ export const reviewsData: unknown[] = [
         "heading": "Häufig Gestellte Fragen",
         "bullets": [
           "Ist YesStyle seriös? Ja, YesStyle ist ein etablierter Online-Shop (gegründet 2006) und Tochterunternehmen der börsennotierten YesAsia Holdings (2209.HK).",
-          "Sind die Produkte original? YesStyle gibt an, autorisierter Händler für über 400 Kosmetikmarken zu sein und direkt von offiziellen Herstellern zu beziehen.",
+          "Sind die Produkte original? YesStyle gibt an, autorisierter Händler für über 400 koreanische Kosmetikmarken zu sein und von offiziellen Herstellern oder Vertragspartnern zu beziehen.",
           "Wie lange dauert der Versand? Der internationale Standardversand dauert in der Regel 7 bis 14 Werktage.",
           "Wie löse ich CECILIA010 ein? Tragen Sie den Code CECILIA010 im Feld 'Reward Code' beim Checkout ein."
         ]
@@ -38193,7 +38194,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "카탈로그 및 브랜드 유통",
         "paragraphs": [
-          "YesStyle은 COSRX, Etude House, Hada Labo 등 400개 이상의 한국(K-beauty) 및 일본 뷰티 브랜드의 공식 유통업체입니다. 브랜드 본사 또는 공식 파트너사로부터 직접 정품을 공급받습니다."
+          "YesStyle은 400개 이상의 한국 뷰티(K-beauty) 브랜드 공식 유통업체임을 밝히고 있으며, 일본 뷰티 제품 및 아시아 패션도 함께 선보이고 있습니다. 카탈로그에는 스킨케어(세럼, 에센스, 토너, 선크림), 메이크업, 헤어케어 및 액세서리가 포함됩니다.",
+          "기업 공시 정보에 따르면 YesStyle은 COSRX, Etude House, Hada Labo, Rohto 등 400개 이상의 한국 뷰티 브랜드의 공식 유통업체로서 제조사 또는 정식 파트너사로부터 상품을 공급받는다고 설명합니다. 홍콩 상장사인 YesAsia Holdings 자회사로서 공시 투명성을 갖추고 있습니다."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
@@ -38220,7 +38222,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문 (FAQ)",
         "bullets": [
-          "YesStyle은 정품만 판매하나요? YesStyle은 400개 이상 브랜드의 정식 유통업체로서 제조사 및 공식 파트너사로부터 직접 공급받는다고 밝히고 있습니다.",
+          "YesStyle은 정품만 판매하나요? YesStyle은 400개 이상 한국 뷰티 브랜드의 정식 유통업체로서 제조사 및 공식 파트너사로부터 직접 공급받는다고 밝히고 있습니다.",
           "CECILIA010 코드는 어떻게 사용하나요? 결제 단계의 'Reward Code' 입력란에 CECILIA010을 입력하시면 됩니다."
         ]
       }
@@ -38282,7 +38284,7 @@ export const reviewsData: unknown[] = [
         "heading": "取扱ブランドと正規品保証",
         "paragraphs": [
           "YesStyleは、400以上の韓国コスメ（K-Beauty）ブランドの正規販売店であることを自社サイトで案内しており、アジアンファッションやコスメも幅広く展開しています。",
-          "同社は企業情報において、COSRX、Etude、肌ラボなど400以上の韓国コスメブランドの正規販売店としてメーカーまたはパートナー代理店から商品を仕入れていると説明しています。香港上場親会社（YesAsia Holdings）の傘下として企業透明性を確保しています。"
+          "同社は企業情報において、COSRX、Etude、肌ラボ、Rohtoなど400以上の韓国コスメブランドの正規販売店としてメーカーまたはパートナー代理店から商品を仕入れていると説明しています。香港上場親会社（YesAsia Holdings）の傘下として企業透明性を確保しています。"
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
@@ -38323,7 +38325,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "YesStyleは正規品ですか？ はい、YesStyleは400以上のブランドと正規契約を結ぶ公式販売店です。",
+          "YesStyleは正規品ですか？ YesStyleは400以上の韓国コスメブランドの正規販売店であることを公表しており、メーカーまたは公式パートナーから仕入れていると説明しています。",
           "YesStyleの配送日数はどのくらいですか？ お届け先の国、選択した配送方法、商品の在庫状況によって異なります。正確な日数はカート画面でご確認ください。",
           "CECILIA010の使い方は？ 決済画面の「リワードコード」欄に CECILIA010 を入力してください。クーポンコードと同時に利用可能です。"
         ]
@@ -38385,7 +38387,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "商品陣容與正品保障",
         "paragraphs": [
-          "YesStyle 是 400 多個韓國美妝（K-Beauty）、日本美妝（J-Beauty）及亞洲時尚品牌的官方授權經銷商，包括 COSRX、Etude House、肌研（Hada Labo）等熱門品牌。所有商品均直接向品牌總公司或指定官方代理商採購，保證 100% 正品。"
+          "YesStyle 於官方網站聲明為 400 多個韓國美妝（K-Beauty）品牌的官方授權經銷商，同時提供日本美妝及亞洲時尚商品。商品涵蓋護膚品（精華液、化妝水、防曬乳）、彩妝及飾品。",
+          "公司於企業資料中表示，其為 COSRX、Etude House、肌研（Hada Labo）及 Rohto 等 400 多個韓國美妝品牌的授權經銷商，直接向品牌製造商或官方合作代理商採購。身為香港上市企業 YesAsia Holdings 旗下子公司，營運具有公開透明度。"
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
@@ -38412,7 +38415,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "YesStyle 是正品嗎？ YesStyle 聲明為 400 多個美妝品牌的官方授權經銷商，直接向品牌總公司或官方授權商採購。",
+          "YesStyle 是正品嗎？ YesStyle 於官方資料中聲明為 400 多個韓國美妝品牌的授權經銷商，直接向品牌製造商或官方授權代理商採購。",
           "如何使用 CECILIA010 代碼？ 結帳時在「獎勵代碼」欄位輸入 CECILIA010 即可。"
         ]
       }
@@ -38473,7 +38476,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "商品阵容与正品保障",
         "paragraphs": [
-          "YesStyle 是 400 多个韩国美妆（K-Beauty）、日本美妆（J-Beauty）及亚洲时尚品牌的官方授权经销商，包括 COSRX、Etude House、肌研（Hada Labo）等热门品牌。所有商品均直接向品牌总公司或指定官方代理商采购，保证 100% 正品。"
+          "YesStyle 于官方网站声明为 400 多个韩国美妆（K-Beauty）品牌的官方授权经销商，同时提供日本美妆及亚洲时尚商品。商品涵盖护肤品（精华液、化妆水、防晒乳）、彩妆及饰品。",
+          "公司于企业资料中表示，其为 COSRX、Etude House、肌研（Hada Labo）及 Rohto 等 400 多个韩国美妆品牌的授权经销商，直接向品牌制造商或官方合作代理商采购。身为香港上市企业 YesAsia Holdings 旗下子公司，运营具有公开透明度。"
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
@@ -38500,7 +38504,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "YesStyle 是正品吗？ YesStyle 声明为 400 多个美妆品牌的官方授权经销商，直接向品牌总公司或官方授权商采购。",
+          "YesStyle 是正品吗？ YesStyle 于官方资料中声明为 400 多个韩国美妆品牌的授权经销商，直接向品牌制造商或官方授权代理商采购。",
           "如何使用 CECILIA010 代码？ 结账时在“奖励代码”栏位输入 CECILIA010 即可。"
         ]
       }
