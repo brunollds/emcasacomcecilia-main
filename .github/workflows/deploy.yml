@@ -163,9 +163,21 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          ssh -i ~/.ssh/id_ed25519 -p "$PORT" -o StrictHostKeyChecking=yes "$HOST" "mkdir -p '$ROOT/releases' '$ROOT/backups'"
-          scp -i ~/.ssh/id_ed25519 -P "$PORT" -o StrictHostKeyChecking=yes \
-            "emcasa-release-${RELEASE_ID}.tar.gz" "$HOST:$ROOT/releases/${RELEASE_ID}.tar.gz"
+          # O SSH compartilhado da Hostinger pode recusar uma conexao do runner de forma transitória.
+          # Falha antes do swap nao toca producao; quatro tentativas limitadas evitam abortar um release valido.
+          for attempt in 1 2 3 4; do
+            if ssh -i ~/.ssh/id_ed25519 -p "$PORT" -o StrictHostKeyChecking=yes -o ConnectTimeout=20 -o ConnectionAttempts=1 \
+              "$HOST" "mkdir -p '$ROOT/releases' '$ROOT/backups'" && \
+              scp -i ~/.ssh/id_ed25519 -P "$PORT" -o StrictHostKeyChecking=yes -o ConnectTimeout=20 -o ConnectionAttempts=1 \
+                "emcasa-release-${RELEASE_ID}.tar.gz" "$HOST:$ROOT/releases/${RELEASE_ID}.tar.gz"; then
+              exit 0
+            fi
+            [ "$attempt" -lt 4 ] || break
+            echo "Upload SSH indisponivel; aguardando antes da tentativa $((attempt + 1)) de 4."
+            sleep $((attempt * 20))
+          done
+          echo 'Nao foi possivel enviar o release por SSH apos quatro tentativas.' >&2
+          exit 1
 
       # Swap PRIMEIRO, matar workers antigos DEPOIS: matar antes do swap perde a corrida com o
       # LSNODE, que respawna um worker novo a cada request de trafego real ("Refusing swap: old
