@@ -52,7 +52,7 @@ gh run watch --repo brunollds/emcasacomcecilia-main --exit-status <run-id>
 6. **Swap atômico**: `mv nodejs → nodejs.prev-<sha>` + `mv staging → nodejs` + `touch tmp/restart.txt`
    (recovery embutido: se o swap/restart falhar, restaura o anterior sozinho)
 7. **Purge do CDN** (`DELETE /cache/clear` na API da Hostinger)
-8. **Health-check**: 200 + BUILD_ID novo servido (até 240s, cobre cold start ~185s) →
+8. **Health-check**: 200 + BUILD_ID novo servido (até 420s, cobre cold start e até 5 min de HTML retido na CDN) →
    `_buildManifest.js` 200 → `/_next/image` 200 (prova o sharp) → rotas `/receitas /reviews /sobre
    /contato /sitemap.xml /llms.txt` 200 → vídeos (warning se não populados) → após 5 min, workers ≤ 6
 9. Falhou depois do swap? **auto-rollback** restaura `nodejs.prev-<sha>` e espera o 200 voltar
@@ -176,7 +176,7 @@ embute o cwd de build em `outputFileTracingRoot`, inócuo em runtime).
 **Run vermelho DEPOIS do swap** → o auto-rollback restaurou o release anterior (conferir site 200).
 Ver o step que falhou; o site fica no build anterior até novo deploy.
 
-**Site 503 pós-deploy** → cold start (~185s) é esperado; o health-check espera 240s. Persistiu:
+**Site 503 pós-deploy** → cold start (~185s) é esperado; o health-check espera até 420s. Persistiu:
 (a) `NODE_OPTIONS=--v8-pool-size=1` no painel? (b) Recuperação de 503.
 
 **"Últimos vídeos" sem thumbnails** → `YOUTUBE_API_KEY` ausente/sem quota (o health-check só avisa,
