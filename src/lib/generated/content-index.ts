@@ -36810,7 +36810,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Análise dos dados públicos da empresa de Hong Kong YesStyle, com as maiores marcas asiáticas de beleza e atendimento mundial",
+    "description": "Análise dos dados públicos da YesStyle: empresa de Hong Kong, marcas asiáticas de beleza, envios e atendimento internacional.",
     "metaDescription": "A YesStyle é confiável? Veja dados públicos da empresa, autorização de marcas coreanas, política de envios, impostos e o que observar antes de comprar.",
     "publishedAt": "2 de agosto de 2026",
     "publishedAtISO": "2026-08-02",
@@ -36841,7 +36841,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "Marcas autorizadas de K-Beauty e J-Beauty na YesStyle (COSRX, Anua, Beauty of Joseon)",
-        "imageFit": "square"
+        "imageFit": "wide"
       },
       {
         "heading": "Políticas de compra e pós-venda",
@@ -37778,7 +37778,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "Most wanted authorized K-Beauty and J-Beauty brands on YesStyle",
-        "imageFit": "square"
+        "imageFit": "wide"
       },
       {
         "heading": "Global Shipping and Customer Policies",
@@ -37887,7 +37887,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "Marcas de K-Beauty autorizadas en YesStyle",
-        "imageFit": "square"
+        "imageFit": "wide"
       },
       {
         "heading": "Envíos Internacionales y Atención al Cliente",
@@ -37992,7 +37992,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "Marques de beauté coréenne partenaires officielles sur YesStyle",
-        "imageFit": "square"
+        "imageFit": "wide"
       },
       {
         "heading": "Livraison Internationale et Retours",
@@ -38096,7 +38096,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "Beliebte autorisierte K-Beauty Marken auf YesStyle",
-        "imageFit": "square"
+        "imageFit": "wide"
       },
       {
         "heading": "Internationaler Versand und Rückgabe",
@@ -38200,7 +38200,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "YesStyle 입점 인기 K-뷰티 브랜드 라인업",
-        "imageFit": "square"
+        "imageFit": "wide"
       },
       {
         "heading": "국제 배송 및 고객 지원 Policy",
@@ -38289,7 +38289,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "YesStyleで買えるコスメブランド",
-        "imageFit": "square"
+        "imageFit": "wide"
       },
       {
         "heading": "国際配送と購入・カスタマーサポート方針",
@@ -38393,7 +38393,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "YesStyle 授權熱門韓國及日本美妝品牌",
-        "imageFit": "square"
+        "imageFit": "wide"
       },
       {
         "heading": "全球運送與售後保障",
@@ -38482,7 +38482,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "YesStyle 授权热门韩国及日本美妆品牌",
-        "imageFit": "square"
+        "imageFit": "wide"
       },
       {
         "heading": "全球运送与售后保障",

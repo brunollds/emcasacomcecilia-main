@@ -11,7 +11,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Análise dos dados públicos da empresa de Hong Kong YesStyle, com as maiores marcas asiáticas de beleza e atendimento mundial",
+  "description": "Análise dos dados públicos da YesStyle: empresa de Hong Kong, marcas asiáticas de beleza, envios e atendimento internacional.",
   "metaDescription": "A YesStyle é confiável? Veja dados públicos da empresa, autorização de marcas coreanas, política de envios, impostos e o que observar antes de comprar.",
   "publishedAt": "2 de agosto de 2026",
   "publishedAtISO": "2026-08-02",
@@ -42,7 +42,7 @@
       "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
       "imageAlt": "Marcas autorizadas de K-Beauty e J-Beauty na YesStyle (COSRX, Anua, Beauty of Joseon)",
-      "imageFit": "square"
+      "imageFit": "wide"
     },
     {
       "heading": "Políticas de compra e pós-venda",
