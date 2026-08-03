@@ -26,6 +26,7 @@ export async function generateReviewMetadataBySlug(slug: string) {
   const languages: Record<string, string> = {};
   const isRewardSlug = Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.rewardArticleSlug === slug);
   const isGuideSlug = Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.guideSlug === slug);
+  const isTrustSlug = Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.trustArticleSlug === slug);
 
   if (isGuideSlug) {
     for (const cfg of Object.values(YESSTYLE_LOCALES)) {
@@ -37,6 +38,11 @@ export async function generateReviewMetadataBySlug(slug: string) {
       languages[cfg.hreflang] = `https://emcasacomcecilia.com${cfg.rewardArticlePath}`;
     }
     languages['x-default'] = `https://emcasacomcecilia.com${YESSTYLE_LOCALES.en.rewardArticlePath}`;
+  } else if (isTrustSlug) {
+    for (const cfg of Object.values(YESSTYLE_LOCALES)) {
+      languages[cfg.hreflang] = `https://emcasacomcecilia.com${cfg.trustArticlePath}`;
+    }
+    languages['x-default'] = `https://emcasacomcecilia.com${YESSTYLE_LOCALES.en.trustArticlePath}`;
   }
 
   const seoDescription = review.metaDescription || review.description;

@@ -12,7 +12,7 @@
     "url": "/sobre"
   },
   "description": "Analyse des données publiques de YesStyle : siège à Hong Kong, revendeur agréé de 400+ marques de beauté asiatique, livraison internationale et garanties d'achat.",
-  "metaDescription": "YesStyle est-il fiable et sûr ? Données d'entreprise, partenariats officiels K-beauty, livraisons internationales, douanes et conseils d'achat.",
+  "metaDescription": "YesStyle est-il fiable et sûr ? Données d'entreprise, partenariats officiels K-beauty, politiques de livraison, douanes et conseils d'achat.",
   "publishedAt": "2 août 2026",
   "publishedAtISO": "2026-08-02",
   "draft": false,
@@ -40,7 +40,7 @@
       "heading": "Catalogue et Partenariats Officiels",
       "paragraphs": [
         "YesStyle est un distributeur agréé pour plus de 400 marques de beauté coréenne (K-beauty), japonaise (J-beauty) et de mode asiatique. On y retrouve des marques réputées comme COSRX, Etude House, Hada Labo et Rohto.",
-        "Les produits sont directement acheminés depuis les fabricants ou distributeurs officiels certifiés."
+        "YesStyle déclare être revendeur agréé pour plus de 400 marques K-beauty et J-beauty, telles que COSRX, Etude House, Hada Labo et Rohto, en s'approvisionnant auprès des fabricants ou partenaires officiels. Son appartenance au groupe coté YesAsia Holdings constitue un gage de transparence financière."
       ],
       "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
@@ -51,7 +51,7 @@
       "heading": "Livraison Internationale et Retours",
       "paragraphs": [
         "YesStyle propose la livraison internationale gratuite pour les commandes dépassant le montant minimum requis (ex. 48 € ou 59 USD).",
-        "Les délais moyens de livraison s'élèvent à 7 à 14 jours ouvrés. Un numéro de suivi est fourni pour chaque colis. Les retours sont possibles sous 14 jours après réception."
+        "Les délais de livraison, frais et conditions de livraison gratuite varient en fonction du pays de destination, du mode d'expédition et de la disponibilité des articles. Les estimations exactes sont calculées lors de la validation du panier. Les retours d'articles éligibles sous emballage d'origine se font via une demande d'Autorisation de Retour (RMA) auprès du service client."
       ],
       "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",

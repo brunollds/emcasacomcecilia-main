@@ -130,9 +130,24 @@ export function buildReviewTemplateProps(review) {
       : {}),
   };
 
-  const faqSection = review.contentSections?.find(
-    (s) => s.heading?.toLowerCase().includes('perguntas frequentes') || s.heading?.toLowerCase().includes('faq')
-  );
+  const isFaqHeading = (heading) => {
+    if (!heading) return false;
+    const h = heading.toLowerCase();
+    return (
+      h.includes('perguntas frequentes') ||
+      h.includes('faq') ||
+      h.includes('frequently asked') ||
+      h.includes('preguntas frecuentes') ||
+      h.includes('foire aux questions') ||
+      h.includes('häufig gestellte') ||
+      h.includes('자주 묻는') ||
+      h.includes('よくある') ||
+      h.includes('常見問題') ||
+      h.includes('常见问题')
+    );
+  };
+
+  const faqSection = review.contentSections?.find((s) => isFaqHeading(s.heading));
 
   let faqJsonLd = null;
   if (faqSection && faqSection.bullets) {

@@ -12,7 +12,7 @@
     "url": "/sobre"
   },
   "description": "YesStyle 기업 정보 분석: 홍콩 본사, 400개 이상 한국 및 아시아 뷰티 브랜드 공식 유통, 글로벌 배송 및 구매자 보호 정책 안내.",
-  "metaDescription": "YesStyle은 믿을 수 있을까? 상장사 기업 정보, 400+ K-뷰티 브랜드 공식 유통, 국제 배송 및 쇼핑 팁 안내.",
+  "metaDescription": "YesStyle은 믿을 수 있을까? 상장사 기업 정보, 400+ K-뷰티 브랜드 공식 유통, 배송 정책 및 쇼핑 팁 안내.",
   "publishedAt": "2026년 8월 2일",
   "publishedAtISO": "2026-08-02",
   "draft": false,
@@ -66,7 +66,7 @@
     {
       "heading": "자주 묻는 질문 (FAQ)",
       "bullets": [
-        "YesStyle은 정품만 판매하나요? 네, 400개 이상 브랜드의 정식 유통업체로서 100% 정품을 판매합니다.",
+        "YesStyle은 정품만 판매하나요? YesStyle은 400개 이상 브랜드의 정식 유통업체로서 제조사 및 공식 파트너사로부터 직접 공급받는다고 밝히고 있습니다.",
         "CECILIA010 코드는 어떻게 사용하나요? 결제 단계의 'Reward Code' 입력란에 CECILIA010을 입력하시면 됩니다."
       ]
     }

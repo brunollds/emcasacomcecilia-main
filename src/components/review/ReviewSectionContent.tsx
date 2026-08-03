@@ -34,7 +34,7 @@ function parseProsConsBullet(item: string): { type: 'pro' | 'con'; text: string 
 }
 
 function parseFaqBullet(item: string): { question: string; answer: string } {
-  const match = item.match(/^([^\?]+\?)\s*(.+)$/);
+  const match = item.match(/^([^\?\uFF1F]+[\?\uFF1F])\s*(.+)$/);
   if (match) {
     return {
       question: match[1].trim(),
@@ -90,8 +90,17 @@ export function ReviewSectionContent({
     })
   );
   const isFaq = Boolean(
-    section.heading?.toLowerCase().includes('perguntas frequentes') ||
-    section.heading?.toLowerCase().includes('faq')
+    section.heading &&
+      (section.heading.toLowerCase().includes('perguntas frequentes') ||
+        section.heading.toLowerCase().includes('faq') ||
+        section.heading.toLowerCase().includes('frequently asked') ||
+        section.heading.toLowerCase().includes('preguntas frecuentes') ||
+        section.heading.toLowerCase().includes('foire aux questions') ||
+        section.heading.toLowerCase().includes('häufig gestellte') ||
+        section.heading.toLowerCase().includes('자주 묻는') ||
+        section.heading.toLowerCase().includes('よくある') ||
+        section.heading.toLowerCase().includes('常見問題') ||
+        section.heading.toLowerCase().includes('常见问题'))
   );
 
   const renderEmphasisBlock = (withImage: boolean = true) => (
