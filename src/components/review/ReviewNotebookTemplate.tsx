@@ -17,7 +17,7 @@ import { ReviewMobileBottomBar } from './ReviewMobileBottomBar';
 import { InlineCouponCopy } from './InlineCouponCopy';
 import { getCouponCopyLocale, isStepHeading, type CouponCopyLocale } from './couponCopyLocale';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
-import { YESSTYLE_LOCALES, getRewardArticleLanguageLinks, getGuideArticleLanguageLinks } from '@/lib/i18n/yesstyleCluster';
+import { YESSTYLE_LOCALES, getRewardArticleLanguageLinks, getGuideArticleLanguageLinks, getTrustArticleLanguageLinks } from '@/lib/i18n/yesstyleCluster';
 import { getShellCopy } from '@/lib/i18n/shellDictionary';
 import { GuideTimeline } from './GuideTimeline';
 import { PullQuote } from './PullQuote';
@@ -370,6 +370,13 @@ export function ReviewNotebookTemplate({
               <LanguageSwitcher
                 currentLocale={couponCopyLocale}
                 links={getGuideArticleLanguageLinks()}
+              />
+            )}
+
+            {Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.trustArticleSlug === review.slug) && (
+              <LanguageSwitcher
+                currentLocale={couponCopyLocale}
+                links={getTrustArticleLanguageLinks()}
               />
             )}
 
