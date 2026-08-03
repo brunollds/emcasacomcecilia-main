@@ -295,20 +295,22 @@ jobs:
           headers=$(mktemp)
           ready=0
 
-          # A CDN pode reter HTML estatico por ate 5 min mesmo apos o purge aceito.
-          # Sete minutos cobrem essa janela e o cold start do Passenger sem rollback prematuro.
+          # A CDN pode manter a home estaticamente cacheada mesmo apos o purge aceito.
+          # A attestation e dinamica/no-store e identifica o release real sem depender desse HTML.
           for attempt in $(seq 1 84); do
             status=$(curl -4 -sS --connect-timeout 10 --max-time 20 \
               -H 'Cache-Control: no-cache' -D "$headers" -o "$body" -w '%{http_code}' \
               "$base/" || true)
-            if [ "$status" = '200' ] && grep -Fq "$BUILD_ID" "$body"; then
+            attestation=$(curl -4 -sS --connect-timeout 10 --max-time 20 \
+              -H 'Cache-Control: no-cache' "$base/api/release?cb=$attempt-$(date +%s)" || true)
+            if [ "$status" = '200' ] && grep -Fq "\"target_sha\":\"$TARGET_SHA\"" <<<"$attestation"; then
               ready=1
               break
             fi
-            echo "Waiting for new release: HTTP $status (${attempt} of 84)"
+            echo "Waiting for new release attestation: home HTTP $status (${attempt} of 84)"
             sleep 5
           done
-          [ "$ready" = '1' ] || { echo 'New BUILD_ID was not served within 420 seconds' >&2; exit 1; }
+          [ "$ready" = '1' ] || { echo 'New release attestation was not served within 420 seconds' >&2; exit 1; }
 
           curl -4 --fail --silent --show-error -H 'Cache-Control: no-cache' \
             "$base/_next/static/$BUILD_ID/_buildManifest.js" >/dev/null

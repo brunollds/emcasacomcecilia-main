@@ -52,7 +52,7 @@ gh run watch --repo brunollds/emcasacomcecilia-main --exit-status <run-id>
 6. **Swap atômico**: `mv nodejs → nodejs.prev-<sha>` + `mv staging → nodejs` + `touch tmp/restart.txt`
    (recovery embutido: se o swap/restart falhar, restaura o anterior sozinho)
 7. **Purge do CDN** (`DELETE /cache/clear` na API da Hostinger)
-8. **Health-check**: 200 + BUILD_ID novo servido (até 420s, cobre cold start e até 5 min de HTML retido na CDN) →
+8. **Health-check**: 200 + attestation dinâmica do SHA novo (até 420s, sem depender de HTML retido na CDN) →
    `_buildManifest.js` 200 → `/_next/image` 200 (prova o sharp) → rotas `/receitas /reviews /sobre
    /contato /sitemap.xml /llms.txt` 200 → vídeos (warning se não populados) → após 5 min, workers ≤ 6
 9. Falhou depois do swap? **auto-rollback** restaura `nodejs.prev-<sha>` e espera o 200 voltar
@@ -185,7 +185,8 @@ não derruba o deploy).
 **Site sem CSS/JS (BUILD_ID mismatch)** → redeploy limpo via CI. Nunca corrigir com scp parcial.
 
 **Usuários vendo versão antiga** → o workflow purga o CDN; HTML tem `s-maxage=300` — até 5 min de
-stale é normal. Persistiu: purge manual no hPanel (Performance → Clear Cache).
+stale é normal. A attestation do deploy não depende desse cache. Persistiu: purge manual no hPanel
+(Performance → Clear Cache).
 
 **Dispatch falha com 403** → o token usado (central: `EMCASA_GIT_TOKEN`) precisa de
 **Actions: read and write** no repo, além de Contents.
