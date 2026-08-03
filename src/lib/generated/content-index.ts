@@ -36927,10 +36927,10 @@ export const reviewsData: unknown[] = [
     },
     "description": "Guia prático da Assinatura NESCAFÉ Dolce Gusto: como funciona, benefícios de desconto e frete grátis, frequências de entrega e como cancelar sem taxas.",
     "metaDescription": "Assinatura Dolce Gusto: veja como funciona, descontos exclusivos, frequências de entrega (mensal/bimestral/trimestral) e como cancelar sem taxa.",
-    "publishedAt": "Draft",
-    "draft": true,
-    "image": "/images/reviews/dolcegusto/dolce-gusto-e-confiavel-hero.webp",
-    "imageAlt": "Máquina NESCAFÉ Dolce Gusto com cápsulas e xícara de café em uma mesa",
+    "publishedAt": "3 de agosto de 2026",
+    "draft": false,
+    "image": "/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp",
+    "imageAlt": "Caixas de cápsulas NESCAFÉ Dolce Gusto prontas para entrega recorrente na Assinatura",
     "imageFit": "cover",
     "pros": [],
     "cons": [],
@@ -37120,7 +37120,8 @@ export const reviewsData: unknown[] = [
         "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
         "title": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso"
       }
-    ]
+    ],
+    "publishedAtISO": "2026-08-03"
   },
   {
     "id": 246,
