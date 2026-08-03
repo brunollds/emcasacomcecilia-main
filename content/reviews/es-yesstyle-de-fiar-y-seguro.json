@@ -31,7 +31,10 @@
         "YesStyle Limited es una plataforma de comercio electrónico con sede en Hong Kong fundada en 2006. Opera como subsidiaria de YesAsia Holdings Limited, empresa cotizada en la Bolsa de Valores de Hong Kong (código 2209.HK). Esto significa que YesStyle cuenta con el respaldo de una corporación pública sometida a auditorías financieras regulares.",
         "La tienda presta servicio a compradores de más de 80 países en múltiples divisas e idiomas. Las compras internacionales se realizan de acuerdo con los estándares de comercio electrónico global, ofreciendo soporte al cliente para seguimiento de paquetes y devoluciones."
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
+      "imageAlt": "Interfaz oficial y banners de la tienda YesStyle",
+      "imageFit": "square"
     },
     {
       "heading": "Catálogo y Posicionamiento de Mercado",
@@ -40,8 +43,8 @@
         "Trabaja directamente con firmas consolidadas como COSRX, Etude House, Hada Labo y Rohto, obteniendo los productos de fabricantes o distribuidores oficiales autorizados."
       ],
       "bullets": [],
-      "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-      "imageAlt": "Marcas de K-Beauty disponibles en YesStyle",
+      "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
+      "imageAlt": "Marcas de K-Beauty autorizadas en YesStyle",
       "imageFit": "square"
     },
     {
@@ -50,7 +53,10 @@
         "YesStyle realiza envíos internacionales a más de 80 países con envío estándar gratuito en pedidos que alcancen el importe mínimo requerido (como 48 € o 59 USD).",
         "El plazo habitual de entrega oscila entre 7 y 14 días laborables según el país de destino. Se proporciona número de seguimiento para cada pedido. Los clientes disponen de hasta 14 días tras la recepción para solicitar devoluciones en productos intactos."
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
+      "imageAlt": "Catálogo de productos con precios y valoraciones en YesStyle",
+      "imageFit": "square"
     },
     {
       "heading": "Consejos Prácticos Antes de Pedir",

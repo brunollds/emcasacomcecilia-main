@@ -31,7 +31,10 @@
         "YesStyle Limited is an e-commerce company headquartered in Hong Kong, founded in 2006. The company operates as a subsidiary of YesAsia Holdings Limited, which is publicly listed on the Hong Kong Stock Exchange under stock code 2209.HK. This means that while YesStyle functions as an online retailer, its parent entity is a public corporation subject to financial audits and regulatory oversight.",
         "YesStyle serves customers across more than 80 countries, providing multi-currency options and localized language interfaces. Transactions are processed in major global currencies (USD, EUR, GBP, CAD, AUD) in compliance with international e-commerce standards. The platform maintains dedicated customer support channels for order tracking, product authenticity inquiries, and return procedures."
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
+      "imageAlt": "Official YesStyle storefront interface and banner promotions",
+      "imageFit": "square"
     },
     {
       "heading": "Catalog and Market Position",
@@ -40,8 +43,8 @@
         "The platform partners directly with established K-beauty and J-beauty brands, such as COSRX, Etude House, Hada Labo, and Rohto. Products are sourced directly from brand manufacturers or authorized distributors. Being backed by a publicly listed parent company (YesAsia Holdings) provides verifiable transparency regarding business operations."
       ],
       "bullets": [],
-      "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-      "imageAlt": "K-Beauty and J-Beauty brands available on YesStyle",
+      "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
+      "imageAlt": "Most wanted authorized K-Beauty and J-Beauty brands on YesStyle",
       "imageFit": "square"
     },
     {
@@ -50,7 +53,10 @@
         "YesStyle offers international shipping to over 80 countries worldwide. Standard express and express delivery options are available, with free standard shipping offered on orders meeting minimum purchase thresholds (e.g., US$ 59 / € 48 / £ 45).",
         "International delivery typically takes between 7 to 14 business days depending on destination country and customs processing speed. Tracking numbers are provided for all dispatched parcels. Customers have up to 14 days after receipt to request returns for unopened items in original packaging, and 30 days for defective goods. Customer support is accessible via online inquiry forms, live chat, and email."
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
+      "imageAlt": "Product listing grid with discounts and ratings on YesStyle",
+      "imageFit": "square"
     },
     {
       "heading": "Tips Before Placing Your Order",

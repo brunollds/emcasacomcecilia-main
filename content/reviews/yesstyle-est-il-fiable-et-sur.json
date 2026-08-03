@@ -31,7 +31,10 @@
         "YesStyle Limited est une plateforme de e-commerce basée à Hong Kong, fondée en 2006. Elle est une filiale de YesAsia Holdings Limited, société cotée à la Bourse de Hong Kong sous le code 2209.HK. Cela garantit une gestion transparente et des comptes audités.",
         "Le site dessert plus de 80 pays en proposant plusieurs devises d'affichage. Les commandes sont traitées selon les normes du commerce électronique international."
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
+      "imageAlt": "Interface officielle et bannière promotionnelle du site YesStyle",
+      "imageFit": "square"
     },
     {
       "heading": "Catalogue et Partenariats Officiels",
@@ -40,8 +43,8 @@
         "Les produits sont directement acheminés depuis les fabricants ou distributeurs officiels certifiés."
       ],
       "bullets": [],
-      "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-      "imageAlt": "Marques K-Beauty disponibles sur YesStyle",
+      "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
+      "imageAlt": "Marques de beauté coréenne partenaires officielles sur YesStyle",
       "imageFit": "square"
     },
     {
@@ -50,7 +53,10 @@
         "YesStyle propose la livraison internationale gratuite pour les commandes dépassant le montant minimum requis (ex. 48 € ou 59 USD).",
         "Les délais moyens de livraison s'élèvent à 7 à 14 jours ouvrés. Un numéro de suivi est fourni pour chaque colis. Les retours sont possibles sous 14 jours après réception."
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
+      "imageAlt": "Grille de produits avec réductions et avis vérifiés sur YesStyle",
+      "imageFit": "square"
     },
     {
       "heading": "Conseils Avant de Commander",

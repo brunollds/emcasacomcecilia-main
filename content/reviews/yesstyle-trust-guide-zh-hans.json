@@ -31,7 +31,10 @@
         "YesStyle Limited 成立于 2006 年，总部位于香港，是香港交易所上市公司 YesAsia Holdings Limited（股份代码：2209.HK）旗下的电商平台。作为上市公司子公司，其运营与财务均受严格监管及定期审计。",
         "平台服务覆盖全球 80 多个国家及地区，支持多国语言及货币结算。"
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
+      "imageAlt": "YesStyle 官方网站首页界面与促销横幅",
+      "imageFit": "square"
     },
     {
       "heading": "商品阵容与正品保障",
@@ -39,8 +42,8 @@
         "YesStyle 是 400 多个韩国美妆（K-Beauty）、日本美妆（J-Beauty）及亚洲时尚品牌的官方授权经销商，包括 COSRX、Etude House、肌研（Hada Labo）等热门品牌。所有商品均直接向品牌总公司或指定官方代理商采购，保证 100% 正品。"
       ],
       "bullets": [],
-      "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-      "imageAlt": "YesStyle 授权正品品牌",
+      "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
+      "imageAlt": "YesStyle 授权热门韩国及日本美妆品牌",
       "imageFit": "square"
     },
     {
@@ -48,7 +51,10 @@
       "paragraphs": [
         "提供全球国际快递服务，订单达到指定金额即可享有免费标准运送。运送时间一般为 7 至 14 个工作日，并附设包裹追踪号码。"
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
+      "imageAlt": "YesStyle 商品列表、折扣价格与用户评价",
+      "imageFit": "square"
     },
     {
       "heading": "奖励代码额外折扣",

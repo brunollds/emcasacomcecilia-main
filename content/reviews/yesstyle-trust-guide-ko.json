@@ -31,7 +31,10 @@
         "YesStyle Limited는 2006년에 설립된 홍콩 기반의 글로벌 이커머스 플랫폼입니다. 홍콩 증권거래소 상장사(주식 코드 2209.HK)인 YesAsia Holdings Limited의 자회사로 운영되며, 정기적인 회계 감사를 받는 정식 기업입니다.",
         "전 세계 80개국 이상에 서비스를 제공하며 다국어 및 다양한 통화 결제를 지원합니다."
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
+      "imageAlt": "YesStyle 공식 온라인 스토어 메인 화면",
+      "imageFit": "square"
     },
     {
       "heading": "카탈로그 및 브랜드 유통",
@@ -39,8 +42,8 @@
         "YesStyle은 COSRX, Etude House, Hada Labo 등 400개 이상의 한국(K-beauty) 및 일본 뷰티 브랜드의 공식 유통업체입니다. 브랜드 본사 또는 공식 파트너사로부터 직접 정품을 공급받습니다."
       ],
       "bullets": [],
-      "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-      "imageAlt": "YesStyle 정품 K-뷰티 브랜드",
+      "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
+      "imageAlt": "YesStyle 입점 인기 K-뷰티 브랜드 라인업",
       "imageFit": "square"
     },
     {
@@ -48,7 +51,10 @@
       "paragraphs": [
         "전 세계 80여 개국으로 국제 배송을 제공하며, 일정 금액 이상 구매 시 무료 배송 혜택을 제공합니다. 평균 배송 기간은 7일~14일(영업일 기준) 소요됩니다."
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
+      "imageAlt": "YesStyle 제품 목록, 할인율 및 사용자 평점",
+      "imageFit": "square"
     },
     {
       "heading": "리워드 코드 및 추가 할인",

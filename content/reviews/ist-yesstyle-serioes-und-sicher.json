@@ -31,7 +31,10 @@
         "YesStyle Limited ist eine E-Commerce-Plattform mit Sitz in Hongkong, gegründet im Jahr 2006. Die Gesellschaft ist eine Tochtergesellschaft der YesAsia Holdings Limited, die an der Hongkonger Börse unter dem Code 2209.HK notiert ist. Dies gewährleistet geprüfte Finanzberichte und Transparenz.",
         "YesStyle liefert weltweit in über 80 Länder mit Unterstützung verschiedener Währungen. Bestellungen werden nach internationalen Online-Handelsstandards abgewickelt."
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
+      "imageAlt": "Offizielles YesStyle Shop-Interface und Aktionsbanner",
+      "imageFit": "square"
     },
     {
       "heading": "Sortiment und Autorisierte Marken",
@@ -39,8 +42,8 @@
         "YesStyle gilt als autorisierter Händler für mehr als 400 koreanische (K-Beauty) und japanische (J-Beauty) Kosmetik- sowie Modemarken. Beliebte Marken wie COSRX, Etude House, Hada Labo und Rohto werden direkt vom Hersteller bezogen."
       ],
       "bullets": [],
-      "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-      "imageAlt": "Authentische K-Beauty Marken auf YesStyle",
+      "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
+      "imageAlt": "Beliebte autorisierte K-Beauty Marken auf YesStyle",
       "imageFit": "square"
     },
     {
@@ -49,7 +52,10 @@
         "Kostenloser Standardversand wird ab Erreichen des Mindestbestellwerts (z. B. 48 €) angeboten.",
         "Die internationale Lieferzeit beträgt in der Regel 7 bis 14 Werktage. Jedes Paket enthält eine Sendungsverfolgungsnummer. Rückgaben sind innerhalb von 14 Tagen nach Erhalt möglich."
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
+      "imageAlt": "Produktübersicht mit Preisen und Kundenbewertungen auf YesStyle",
+      "imageFit": "square"
     },
     {
       "heading": "Tipps Vor Der Bestellung",

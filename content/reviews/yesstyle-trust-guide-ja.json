@@ -31,7 +31,10 @@
         "YesStyle Limitedは2006年に設立された香港拠点のECサイトです。香港証券取引所上場企業であるYesAsia Holdings Limited（証券コード 2209.HK）の傘下であり、会計監査を受けた透明性の高い企業です。",
         "世界80カ国以上に向けて発送を行っており、日本語表示および日本円決済にも対応しています。"
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
+      "imageAlt": "YesStyle公式サイトのメイン画面とプロモ",
+      "imageFit": "square"
     },
     {
       "heading": "取扱ブランドと正規品保証",
@@ -39,8 +42,8 @@
         "COSRX、Etude、肌ラボなど400以上のK-BeautyおよびJ-Beautyブランドの正規販売店です。メーカーまたは authorized ディストリビューターから directly に商品を仕入れています。"
       ],
       "bullets": [],
-      "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-      "imageAlt": "YesStyleで買えるコスメブランド",
+      "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
+      "imageAlt": "YesStyleで取り扱う人気コスメブランド一覧",
       "imageFit": "square"
     },
     {
@@ -48,7 +51,10 @@
       "paragraphs": [
         "一定金額以上の注文で国際送料無料が適用されます。日本への通常お届け日数は約7日〜14営業日です。追跡番号が発行されます。"
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
+      "imageAlt": "YesStyleの製品リストと割引価格・評価",
+      "imageFit": "square"
     },
     {
       "heading": "リワードコードで追加割引",
