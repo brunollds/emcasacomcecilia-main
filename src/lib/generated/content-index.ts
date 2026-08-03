@@ -36657,6 +36657,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2 de agosto de 2026",
     "publishedAtISO": "2026-08-02",
     "draft": false,
+    "isNew": true,
     "pros": [],
     "cons": [],
     "contentSections": [
