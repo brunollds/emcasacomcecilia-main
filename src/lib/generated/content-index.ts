@@ -36926,8 +36926,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Guia oficial da Assinatura NESCAFÉ Dolce Gusto: 25% OFF em todos os pedidos, frete grátis, 1.000 pontos no Club, regras de frete e cancelamento sem taxas.",
-    "metaDescription": "Assinatura Dolce Gusto: veja como funciona, 25% OFF fixo, frete grátis, 1.000 pontos bônus no Club, frequências de entrega e cancelamento sem taxa.",
+    "description": "Guia prático e independente da Assinatura NESCAFÉ Dolce Gusto: como funciona o desconto de 25%, frete grátis, bônus no Club, frequências de entrega e cancelamento sem taxa.",
+    "metaDescription": "Assinatura Dolce Gusto: veja como funciona, 25% OFF, frete grátis conforme regulamento, bônus no Club, frequências de entrega e cancelamento sem taxa.",
     "publishedAt": "3 de agosto de 2026",
     "publishedAtISO": "2026-08-03",
     "draft": false,
@@ -36940,22 +36940,28 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é a Assinatura Dolce Gusto",
         "paragraphs": [
-          "A Assinatura NESCAFÉ Dolce Gusto é um serviço de entrega recorrente que permite ao consumidor automatizar suas compras de cápsulas de café. Em vez de fazer novos pedidos manualmente a cada vez que o estoque acaba, você configura a assinatura uma única vez no site oficial, define os produtos desejados e a frequência de envio (mensal, bimestral ou trimestral).",
-          "Diferente de compras avulsas, o plano garante 25% de desconto fixo em todas as caixas de bebidas da assinatura e frete grátis em todas as entregas. Não há cobrança de taxa de adesão, mensalidade fixa ou multa por cancelamento — você paga apenas pelas cápsulas que escolher."
+          "A Assinatura NESCAFÉ Dolce Gusto é um serviço de entrega recorrente oferecido pela marca para automatizar a compra de cápsulas de café. Em vez de fazer novos pedidos manualmente a cada vez que o estoque acaba, o leitor configura a assinatura no site oficial, define os produtos desejados e a frequência de envio (mensal, bimestral ou trimestral).",
+          "Segundo o regulamento oficial da marca, o plano oferece desconto promocional (atualmente 25% OFF em assinaturas novas) sobre as caixas selecionadas e frete grátis conforme a política de entrega do checkout. Não há cobrança de taxa de adesão ou mensalidade fixa, permitindo cancelar sem taxas adicionais."
         ],
         "bullets": [
-          "Serviço de entrega automática de cápsulas na frequência que você escolher (mensal, bimestral ou trimestral).",
-          "25% OFF em todos os itens da assinatura (válido para assinaturas ativas).",
-          "Frete grátis em 100% dos pedidos recorrentes de assinatura.",
-          "1.000 pontos creditados no Dolce Gusto CLUB no 1º pedido (bônus único por CPF).",
-          "Sem taxa de adesão, mensalidade ou cobrança de cancelamento.",
-          "Pedido mínimo de 3 caixas por entrega.",
-          "Limite de 1 plano de assinatura ativo por CPF."
+          "Serviço de entrega automática de cápsulas na frequência escolhida (mensal, bimestral ou trimestral).",
+          "25% OFF em itens de assinatura (conforme regulamento de novas assinaturas no site oficial).",
+          "Frete grátis aplicável a pedidos de assinatura (verifique a cobertura para o seu CEP no checkout).",
+          "Bônus de 1.000 pontos no Dolce Gusto CLUB creditados na 1ª assinatura (limitado a 1 vez por CPF).",
+          "Sem taxa de adesão, mensalidade fixa ou cobrança de cancelamento.",
+          "Pedido mínimo de 3 caixas por entrega recorrente.",
+          "Limite de 1 plano de assinatura por CPF."
         ],
         "image": "/images/reviews/dolcegusto/assinatura-dolce-gusto-painel-oficial.webp",
         "imageAlt": "Banner oficial do Plano de Assinaturas NESCAFÉ Dolce Gusto",
         "imageFit": "contain",
-        "emphasis": "A Assinatura é ideal para quem consome café Dolce Gusto com frequência diária. O mínimo de 3 caixas por pedido garante os 25% OFF e o frete grátis em todas as entregas."
+        "emphasis": "A Assinatura é ideal para quem consome café Dolce Gusto com frequência diária. O mínimo de 3 caixas por pedido garante os 25% OFF e o frete grátis em todas as entregas.",
+        "links": [
+          {
+            "label": "Termos e Condições do Plano de Assinaturas (Site Oficial)",
+            "href": "https://www.nescafe-dolcegusto.com.br/sobre/termos-assinatura"
+          }
+        ]
       },
       {
         "heading": "Como funciona a Assinatura na prática",
@@ -37046,14 +37052,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena assinar?",
         "paragraphs": [
-          "Para quem consome 3 ou mais caixas de cápsulas por mês (ou seja, cerca de 1 a 2 xícaras de café por dia na residência ou escritório), a Assinatura vale muito a pena. A economia dos 25% OFF combinada com o frete grátis supera qualquer compra avulsa tradicional sem cupom especial.",
-          "Porém, se você consome pouquíssimo café (menos de 3 caixas por mês), atingir a trava mínima de 3 caixas pode gerar acúmulo desnecessário de estoque. Nesse caso, a recomendação é utilizar cupons de desconto avulsos (como o cupom CECI) em compras pontuais."
+          "Para quem consome café Dolce Gusto com frequência e atinge o mínimo de 3 caixas por pedido, a Assinatura vale a pena pela praticidade e pela economia acumulada do desconto fixo com o frete grátis em relação a compras avulsas sem cupom especial.",
+          "Por outro lado, se o seu consumo é muito ocasional e você dificilmente atinge 3 caixas por ciclo de entrega, manter uma assinatura pode gerar estoque acumulado em casa. Nesse cenário, vale mais a pena fazer compras pontuais avulsas utilizando cupons promocionais (como o cupom CECI) no carrinho."
         ],
         "bullets": [
-          "Vale a pena se você consome 3+ caixas por pedido — garante 25% OFF fixo + frete grátis.",
-          "Receba 1.000 pontos no Club na 1ª assinatura para trocar por produtos.",
-          "Não vale a pena para consumo muito baixo (menos de 3 caixas por ciclo).",
-          "Dica inteligente: Use o cupom CECI em compras avulsas quando não atingir o mínimo da assinatura."
+          "Vale a pena se você costuma atingir o mínimo de 3 caixas por ciclo — garante o desconto fixo da assinatura + frete grátis.",
+          "Receba 1.000 pontos no Club no 1º pedido para trocar por produtos na Loja de Prêmios.",
+          "Não vale a pena se você consome poucas cápsulas e não atinge 3 caixas por ciclo de entrega.",
+          "Dica prática: Use o cupom CECI em compras avulsas quando não quiser manter uma assinatura recorrente."
         ]
       },
       {
@@ -37118,7 +37124,8 @@ export const reviewsData: unknown[] = [
         "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
         "title": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso"
       }
-    ]
+    ],
+    "isNew": true
   },
   {
     "id": 246,
