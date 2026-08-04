@@ -11,9 +11,10 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Guia prático da Assinatura NESCAFÉ Dolce Gusto: como funciona, benefícios de desconto e frete grátis, frequências de entrega e como cancelar sem taxas.",
-  "metaDescription": "Assinatura Dolce Gusto: veja como funciona, descontos exclusivos, frequências de entrega (mensal/bimestral/trimestral) e como cancelar sem taxa.",
+  "description": "Guia oficial da Assinatura NESCAFÉ Dolce Gusto: 25% OFF em todos os pedidos, frete grátis, 1.000 pontos no Club, regras de frete e cancelamento sem taxas.",
+  "metaDescription": "Assinatura Dolce Gusto: veja como funciona, 25% OFF fixo, frete grátis, 1.000 pontos bônus no Club, frequências de entrega e cancelamento sem taxa.",
   "publishedAt": "3 de agosto de 2026",
+  "publishedAtISO": "2026-08-03",
   "draft": false,
   "image": "/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp",
   "imageAlt": "Caixas de cápsulas NESCAFÉ Dolce Gusto prontas para entrega recorrente na Assinatura",
@@ -24,104 +25,105 @@
     {
       "heading": "O que é a Assinatura Dolce Gusto",
       "paragraphs": [
-        "A Assinatura NESCAFÉ Dolce Gusto é um serviço de entrega recorrente que permite ao consumidor automatizar suas compras de cápsulas de café. Em vez de ir manualmente ao site e fazer novos pedidos a cada vez que o estoque acaba, você configura a assinatura uma única vez, define a frequência e os produtos desejados, e as caixas chegam regularmente na sua casa — sem taxa de adesão, sem mensalidade e sem multa de cancelamento.",
-        "É diferente do Clube Dolce Gusto, que é um programa de fidelidade para acumular pontos. A Assinatura é um modelo de compra recorrente desenhado para quem já consome cápsulas com frequência e quer praticidade e descontos exclusivos."
+        "A Assinatura NESCAFÉ Dolce Gusto é um serviço de entrega recorrente que permite ao consumidor automatizar suas compras de cápsulas de café. Em vez de fazer novos pedidos manualmente a cada vez que o estoque acaba, você configura a assinatura uma única vez no site oficial, define os produtos desejados e a frequência de envio (mensal, bimestral ou trimestral).",
+        "Diferente de compras avulsas, o plano garante 25% de desconto fixo em todas as caixas de bebidas da assinatura e frete grátis em todas as entregas. Não há cobrança de taxa de adesão, mensalidade fixa ou multa por cancelamento — você paga apenas pelas cápsulas que escolher."
       ],
       "bullets": [
-        "Serviço de entrega automática de cápsulas na frequência que você escolher.",
-        "Sem taxa de adesão, cancelamento ou mensalidade — pague apenas pelos produtos e frete.",
-        "Descontos exclusivos na compra (confirme as condições atuais no regulamento oficial).",
-        "Frete grátis em todos os pedidos de assinatura.",
-        "Créditos de pontos DOLCE GUSTO CLUB no primeiro pedido.",
-        "Mínimo de 3 caixas por pedido."
+        "Serviço de entrega automática de cápsulas na frequência que você escolher (mensal, bimestral ou trimestral).",
+        "25% OFF em todos os itens da assinatura (válido para assinaturas ativas).",
+        "Frete grátis em 100% dos pedidos recorrentes de assinatura.",
+        "1.000 pontos creditados no Dolce Gusto CLUB no 1º pedido (bônus único por CPF).",
+        "Sem taxa de adesão, mensalidade ou cobrança de cancelamento.",
+        "Pedido mínimo de 3 caixas por entrega.",
+        "Limite de 1 plano de assinatura ativo por CPF."
       ],
-      "emphasis": "A Assinatura é ideal para quem bebe café Dolce Gusto todos os dias ou em alta frequência. Se você consome poucas cápsulas por mês, pode não compensar o mínimo de 3 caixas por ciclo."
+      "image": "/images/reviews/dolcegusto/assinatura-dolce-gusto-painel-oficial.webp",
+      "imageAlt": "Banner oficial do Plano de Assinaturas NESCAFÉ Dolce Gusto",
+      "imageFit": "contain",
+      "emphasis": "A Assinatura é ideal para quem consome café Dolce Gusto com frequência diária. O mínimo de 3 caixas por pedido garante os 25% OFF e o frete grátis em todas as entregas."
     },
     {
-      "heading": "Como funciona a Assinatura",
+      "heading": "Como funciona a Assinatura na prática",
       "paragraphs": [
-        "O processo é simples e pode ser feito diretamente no site oficial da Dolce Gusto. Primeiro, você acessa a seção de assinatura, escolhe quais produtos deseja (cápsulas das linhas Geração 1 ou NEO, dependendo da sua máquina) e em qual quantidade. Depois, define a frequência de envio — mensal, bimestral ou trimestral — e confirma. Pronto: a loja automática gerará o seu pedido recorrente."
+        "O processo de montagem é feito no site oficial da NESCAFÉ Dolce Gusto na aba 'Plano de Assinaturas'. Você seleciona as bebidas desejadas — incluindo cápsulas da linha Geração 1 (como Espresso, Matinal, Cappuccino e Chás) e da linha NEO (como Espresso Concentrado e Blends Starbucks).",
+        "A única forma de pagamento aceita é o cartão de crédito (Visa, Mastercard ou Elo), sem opção de parcelamento. A cobrança é realizada automaticamente na data de cada ciclo. Caso haja alguma falha no pagamento do cartão cadastrado, a Nestlé realiza até 3 tentativas de cobrança durante 3 dias consecutivos antes de suspender o envio."
       ],
       "bullets": [
         "Acesse o site oficial da NESCAFÉ Dolce Gusto e navegue até Plano de Assinaturas.",
-        "Selecione quais cápsulas e acessórios deseja receber — mínimo 3 caixas por ciclo.",
-        "Escolha a frequência: mensal, bimestral ou trimestral.",
-        "Confirme os dados de entrega e o método de pagamento.",
-        "Após confirmação, seus pedidos serão gerados automaticamente conforme a frequência escolhida.",
-        "Você recebe um e-mail de confirmação antes de cada novo pedido.",
-        "Pode alterar sua assinatura, adicionar/remover produtos ou mudar a frequência a qualquer momento."
+        "Selecione suas caixas de bebidas favoritas (mínimo de 3 caixas por pedido).",
+        "Escolha a frequência de entrega: mensal (a cada 30 dias), bimestral (60 dias) ou trimestral (90 dias).",
+        "Cadastre seu cartão de crédito (Visa, Mastercard ou Elo).",
+        "Você pode alterar itens, alterar o cartão ou ajustar a frequência na sua conta em até 2 dias antes do próximo envio.",
+        "É permitido pular até 1 entrega por ano direto pelo painel de cliente."
       ],
-      "image": "/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp",
-      "imageAlt": "Cápsulas de café NESCAFÉ Dolce Gusto ao lado de uma máquina de café",
-      "imageFit": "cover"
+      "image": "/images/reviews/dolcegusto/assinatura-dolce-gusto-passo-a-passo.webp",
+      "imageAlt": "Passo a passo visual para configurar a assinatura de cápsulas no site oficial",
+      "imageFit": "contain"
     },
     {
       "heading": "Geração 1 × NEO: qual assinatura escolher?",
       "paragraphs": [
-        "A Dolce Gusto oferece assinaturas para dois sistemas diferentes: Geração 1 (máquinas tradicionais) e NEO (segunda geração). A escolha depende de qual máquina você possui em casa.",
-        "A Geração 1 é a linha clássica da marca, com máquinas como Genio S, Piccolo XS e Infinissima. As cápsulas compatíveis incluem mais de 50 sabores: cafés, expressos, cappuccinos, chás e até chocolate quente. O consumo é mais variado porque a linha oferece bebidas além de café.",
-        "O NEO é a geração mais recente, com máquinas como NEO Start e a nova Genio S Touch com painel touch. As cápsulas NEO são exclusivas deste sistema e focam em bebidas de café puro: expressos, lungos, blends Starbucks e opções orgânicas. Se você quer variedade de bebidas (cappuccino, chá), o NEO não oferece essa flexibilidade."
+        "A Dolce Gusto oferece opções de assinatura para seus dois sistemas de máquinas: Geração 1 (linhas clássicas) e NEO (linha sustentável de extração por papel). A escolha depende da sua máquina em casa.",
+        "A linha Geração 1 é compatível com máquinas tradicionais como Genio S, Piccolo XS, Mini Me e Infinissima, contando com mais de 50 opções de bebidas (cafés, lattes, chocolates e chás). Já a linha NEO é exclusiva para a máquina NEO e foca em cafés pretos de torra fina e tecnologia de compostagem. Atenção: caixas de 50 ou 100 cápsulas (como combos DGusta) não entram no plano de assinatura."
       ],
       "bullets": [
-        "Geração 1: Máquinas clássicas + 50+ sabores de bebidas (café, chai, chocolate, chá).",
-        "NEO: Máquinas modernas com painel touch + cápsulas focadas em café puro.",
-        "Máquinas Geração 1 e NEO NÃO são compatíveis entre si — escolha conforme o equipamento que você possui.",
-        "Se acabou de comprar a máquina e está na dúvida, verifique o nome exato do modelo na documentação ou no manual de instruções.",
-        "Ambas têm planos de assinatura independentes com os mesmos benefícios de desconto e frete grátis."
+        "Geração 1: Para máquinas clássicas + variedade de 50+ bebidas (cafés, chocolates, chás).",
+        "NEO: Exclusivo para máquina NEO + cápsulas de papel compostáveis focadas em café de alta precisão.",
+        "As cápsulas Geração 1 e NEO não são fisicamente compatíveis entre si — assine a linha correspondente ao seu aparelho.",
+        "Caixas promocionais DGusta de 50 ou 100 unidades não entram na assinatura."
       ]
     },
     {
       "heading": "Benefícios e descontos da Assinatura",
       "paragraphs": [
-        "A Assinatura NESCAFÉ Dolce Gusto oferece benefícios exclusivos que não estão disponíveis em compras avulsas. Os principais são desconto direto e frete grátis — ambos aplicados a todos os ciclos de entrega. Também há bônus de pontos creditados no DOLCE GUSTO CLUB no primeiro pedido, que você pode usar para trocar por prêmios ou aplicar em futuras compras.",
-        "Importante: o percentual exato de desconto pode variar dependendo de quando você aderir e das condições promocionais vigentes. Sempre consulte o regulamento oficial e a página de assinatura para conferir as condições atualizadas, pois a marca ajusta esses benefícios periodicamente."
+        "Os benefícios vigentes do Plano de Assinatura Dolce Gusto garantem economia imediata e recorrente:",
+        "Além do desconto de 25%OFF sobre o valor das caixas e frete grátis universal, novos assinantes recebem 1.000 pontos no Dolce Gusto CLUB creditados no primeiro pedido. Esses pontos podem ser usados posteriormente na Loja de Prêmios para resgatar xícaras, acessórios ou novas caixas de cápsulas."
       ],
       "bullets": [
-        "Frete grátis em todos os pedidos da assinatura.",
-        "Desconto exclusivo aplicado automaticamente no preço das cápsulas (confirme o percentual no site).",
-        "Créditos de pontos DOLCE GUSTO CLUB no primeiro pedido — podem ser usados para trocar por prêmios.",
-        "Sem taxa de adesão.",
-        "Sem mensalidade.",
-        "Sem taxa de cancelamento.",
-        "Liberdade para modificar a assinatura (produtos, frequência) ou cancelar quando desejar após atender os requisitos do programa."
-      ]
+        "25% OFF em todas as caixas de bebidas do pedido de assinatura.",
+        "Frete grátis em 100% das entregas recorrentes para todo o Brasil.",
+        "1.000 pontos no CLUB creditados na 1ª assinatura (bônus único por CPF).",
+        "Sem taxa de adesão ou mensalidade.",
+        "Sem taxa ou multa por cancelamento.",
+        "Possibilidade de receber brindes surpresa em campanhas e datas comemorativas.",
+        "Nota para assinantes antigos (anteriores a 12/08/2025): mantêm 30% OFF e sem pedido mínimo de 3 caixas enquanto a assinatura permanecer ativa e sem alterações."
+      ],
+      "image": "/images/reviews/dolcegusto/assinatura-dolce-gusto-beneficios-25off.webp",
+      "imageAlt": "Quadro de benefícios da Assinatura Dolce Gusto: 25% OFF, Frete Grátis e 1000 pontos no Club",
+      "imageFit": "contain"
     },
     {
       "heading": "Assinatura × Clube Dolce Gusto: qual é a diferença?",
       "paragraphs": [
-        "É comum confundir a Assinatura com o Clube Dolce Gusto, mas são dois programas completamente diferentes com propósitos opostos.",
-        "A Assinatura é um modelo de compra automática — você paga por cada pedido recorrente e recebe os produtos em ciclos regulares. O benefício aqui é a praticidade (não precisa lembrar de comprar) e o desconto imediato no preço das cápsulas.",
-        "O Clube Dolce Gusto é um programa de fidelidade gratuito — você compra cápsulas normalmente (uma vez por vez) e cadastra o código de 12 dígitos impresso na embalagem para acumular pontos. Esses pontos são trocados por produtos, acessórios ou vouchers de desconto. Não há desconto imediato; você economiza depois, através dos pontos."
+        "É comum confundir a Assinatura com o Clube Dolce Gusto, mas trata-se de dois programas complementares:",
+        "A Assinatura é um modelo de compra recorrente com desconto imediato de 25% nas cápsulas e frete grátis. O Clube Dolce Gusto é o programa de fidelidade gratuito onde você insere os códigos de 12 dígitos das abas das caixas para acumular pontos.",
+        "A grande vantagem é que você pode usar os dois ao mesmo tempo: recebe os 25% OFF + frete grátis na assinatura, ganha os 1.000 pontos bônus no 1º pedido e ainda cadastra os códigos internos de cada caixa que chegar para ganhar mais pontos no Clube."
       ],
       "bullets": [
-        "Assinatura: você contrata um serviço de entrega recorrente com desconto e frete grátis.",
-        "Clube: você compra normalmente e cadastra códigos das embalagens para acumular pontos.",
-        "Assinatura é para quem quer praticidade e desconto imediato; Clube é para quem quer economizar a longo prazo acumulando pontos.",
-        "Você pode usar AMBOS simultaneamente — contratar a assinatura E participar do Clube para maximizar benefícios.",
-        "Assinatura tem custo (paga pelos produtos); Clube é gratuito.",
-        "Na Assinatura, os pontos do CLUB também são creditados, então há uma sobreposição de benefícios."
+        "Assinatura: Desconto imediato de 25% + frete grátis em pedidos automáticos.",
+        "Clube: Acúmulo de pontos cadastrando códigos de 12 dígitos das embalagens.",
+        "Uso combinado: Assinar e cadastrar os códigos garante desconto duplo (imediato + prêmios futuros).",
+        "Na 1ª assinatura, 1.000 pontos são creditados automaticamente no seu saldo do CLUB."
       ],
-      "emphasis": "Dúvida comum: 'Posso assinar cápsulas E cadastrar códigos no Clube?' Sim! A Assinatura é um modelo de compra, enquanto o Clube é um programa de fidelidade — você pode fazer os dois ao mesmo tempo para ganhar descontos duplos."
+      "emphasis": "Dúvida frequente: 'Os cupons do site acumulando com a assinatura?' Cupons promocionais comuns do site não acumulam com os 25% OFF da assinatura. Apenas cupons exclusivos criados especificamente para assinantes são aceitos."
     },
     {
-      "heading": "Cancelamento: como sair da Assinatura",
+      "heading": "Cancelamento e alterações na assinatura",
       "paragraphs": [
-        "Um dos maiores medos de quem assina algo é ficar preso. Segundo o FAQ oficial da Dolce Gusto, não há taxa de adesão nem taxa de cancelamento na Assinatura. O ponto de atenção fica por conta das condições de permanência: dependendo da oferta de desconto que você aceitar ao assinar, o regulamento pode prever um número mínimo de ciclos — por isso, vale ler as condições da SUA oferta antes de concluir.",
-        "Em ofertas promocionais divulgadas pela marca, já apareceram condições de permanência mínima vinculadas ao desconto (um número de ciclos a cumprir antes de cancelar). Como essas condições variam de campanha para campanha, não dá para cravar uma regra única aqui: o que vale é o regulamento vigente no momento da SUA assinatura — confira o número de ciclos, se houver, antes de aceitar."
+        "O regulamento oficial da Nestlé garante cancelamento livre a qualquer momento, sem multa ou cobrança de taxa de saída.",
+        "O cancelamento pode ser feito diretamente na página da sua conta no site oficial (aba Assinatura) ou enviando e-mail para atendimento.dolcegusto@nestle.com.br. O único requisito é realizar o cancelamento com no mínimo 1 dia de antecedência em relação à data do próximo pedido. Se precisar alterar produtos, endereço ou método de pagamento, a edição deve ser feita até 2 dias antes do próximo envio."
       ],
       "bullets": [
-        "Sem taxa de cancelamento — você não paga nada para sair.",
-        "Sem multa por rescisão contratual.",
-        "Sem período mínimo indefinido de permanência.",
-        "Atenção: ofertas com desconto podem prever permanência mínima (número de ciclos) — confira no regulamento da sua oferta.",
-        "Cumprida a eventual permanência mínima da oferta, o cancelamento é livre.",
-        "Para cancelar, entre em contato com o SAC ou acesse sua conta no site e solicite o cancelamento.",
-        "Confira o regulamento completo da assinatura para detalhes sobre processamento da solicitação.",
-        "Após o cancelamento, a assinatura para imediatamente — você não receberá mais pedidos recorrentes."
+        "Sem taxa de cancelamento ou multa por rescisão.",
+        "Cancelamento pode ser feito online no painel do cliente ou por e-mail no SAC.",
+        "Exige solicitação com no mínimo 1 dia de antecedência do próximo pedido.",
+        "Edição de cesta de produtos, frequência ou cartão de crédito deve ser feita até 2 dias antes da data do pedido.",
+        "Permite pular 1 entrega por ano sem perder a assinatura.",
+        "Caso ocorram 3 falhas consecutivas de cobrança no cartão, a assinatura é cancelada automaticamente."
       ],
       "links": [
         {
-          "label": "Regulamento Completo da Assinatura",
+          "label": "Termos e Condições Oficiais do Plano de Assinaturas",
           "href": "https://www.nescafe-dolcegusto.com.br/sobre/termos-assinatura"
         }
       ]
@@ -129,67 +131,61 @@
     {
       "heading": "Vale a pena assinar?",
       "paragraphs": [
-        "A resposta depende do seu padrão de consumo. Se você bebe café Dolce Gusto diariamente ou consome múltiplas xícaras por semana, a Assinatura compensa pelos descontos imediatos e frete grátis. Um consumidor que leva 30-45 dias para gastar 3 caixas encontrará grande vantagem em não pagar frete e aplicar o desconto automaticamente.",
-        "Por outro lado, se você consome poucas cápsulas por mês — digamos, 1 ou 2 caixas — o mínimo de 3 caixas por ciclo pode virar estoque em casa. Nesse caso, pagar frete em compras pontuais talvez seja mais econômico do que se forçar a manter uma assinatura com mínimo maior que o necessário.",
-        "Um terceiro cenário: você quer combinar a Assinatura com o Clube. Se assina as cápsulas E cadastra os códigos no programa de fidelidade, você tem descontos duplos: o desconto imediato da assinatura MAIS os pontos do Clube que acumula em cada ciclo. Essa combinação maximize a economia a longo prazo."
+        "Para quem consome 3 ou mais caixas de cápsulas por mês (ou seja, cerca de 1 a 2 xícaras de café por dia na residência ou escritório), a Assinatura vale muito a pena. A economia dos 25% OFF combinada com o frete grátis supera qualquer compra avulsa tradicional sem cupom especial.",
+        "Porém, se você consome pouquíssimo café (menos de 3 caixas por mês), atingir a trava mínima de 3 caixas pode gerar acúmulo desnecessário de estoque. Nesse caso, a recomendação é utilizar cupons de desconto avulsos (como o cupom CECI) em compras pontuais."
       ],
       "bullets": [
-        "Assine se consome 3+ caixas por mês — o desconto e frete grátis compensam.",
-        "Não assine se consome menos de 3 caixas por mês — o mínimo de 3 caixas fica caro.",
-        "Combine Assinatura + Clube para ganhar desconto duplo (imediato + pontos para trocar).",
-        "Sem taxa de cancelamento — mas confira se a sua oferta prevê permanência mínima antes de assinar.",
-        "Avalie também se a frequência (mensal, bimestral, trimestral) faz sentido com seu consumo real.",
-        "Use o cupom CECI primeiro para comparar o preço: se o CECI de 5% em compra avulsa for maior que o desconto da assinatura, compre avulso; senão, assine."
+        "Vale a pena se você consome 3+ caixas por pedido — garante 25% OFF fixo + frete grátis.",
+        "Receba 1.000 pontos no Club na 1ª assinatura para trocar por produtos.",
+        "Não vale a pena para consumo muito baixo (menos de 3 caixas por ciclo).",
+        "Dica inteligente: Use o cupom CECI em compras avulsas quando não atingir o mínimo da assinatura."
       ]
     },
     {
       "heading": "O que observar antes de assinar",
       "paragraphs": [
-        "Antes de clicar em 'Confirmar Assinatura', verifique alguns detalhes importantes para evitar surpresas:"
+        "Antes de concluir seu plano no site da NESCAFÉ Dolce Gusto, atente-se a estes 5 pontos práticos:"
       ],
       "bullets": [
-        "Confirme qual máquina você tem (Geração 1 ou NEO) para assinar as cápsulas certas — não são compatíveis entre si.",
-        "Revise o mínimo de 3 caixas por ciclo — você consegue consumir isso na frequência escolhida?",
-        "Escolha bem a frequência (mensal, bimestral, trimestral) conforme seu consumo real.",
-        "Leia o regulamento completo da assinatura no site oficial para entender todas as restrições.",
-        "Verifique se há alguma promoção ativa além dos benefícios padrão (brindes, descontos maiores, etc).",
-        "Confirme que está no domínio oficial (nescafe-dolcegusto.com.br) antes de finalizar.",
-        "Guarde a confirmação de assinatura recebida por e-mail — você vai precisar dela para modificar ou cancelar.",
-        "Leia o regulamento da oferta antes de aceitar: é lá que constam eventuais ciclos mínimos vinculados ao desconto.",
-        "Opcionalmente, cadastre os códigos das cápsulas no Clube Dolce Gusto para ganhar pontos extras em cima da assinatura."
-      ]
+        "Verifique se as cápsulas selecionadas correspondem à sua máquina (Geração 1 vs NEO).",
+        "Confirme o pedido mínimo de 3 caixas no carrinho para liberar o desconto de 25% e o frete grátis.",
+        "Lembre-se de que o pagamento é exclusivamente via cartão de crédito à vista.",
+        "Caso precise mudar o cartão ou os sabores, faça as edições na sua conta com pelo menos 2 dias de antecedência do envio.",
+        "Se não for consumir as cápsulas no mês, você pode pular 1 entrega por ano sem cancelar seu plano."
+      ],
+      "image": "/images/reviews/dolcegusto/assinatura-dolce-gusto-freq-caixas.webp",
+      "imageAlt": "Seleção de frequência e mínimo de 3 caixas no carrinho de assinatura",
+      "imageFit": "contain"
     },
     {
       "heading": "FAQ: Dúvidas frequentes sobre a Assinatura Dolce Gusto",
       "paragraphs": [
-        "Reunimos as principais perguntas que os consumidores fazem sobre o programa:"
+        "Respostas claras para as principais dúvidas sobre o Plano de Assinaturas oficial:"
       ],
       "bullets": [
-        "Qual é a diferença entre Assinatura e Clube Dolce Gusto? A Assinatura é um modelo de compra recorrente com desconto imediato e frete grátis. O Clube é um programa de fidelidade gratuito onde você cadastra códigos das embalagens para acumular pontos e trocar por prêmios. Você pode usar os dois simultaneamente.",
-        "Quanto é o desconto da Assinatura? O desconto varia conforme a data de adesão e condições vigentes — consulte o regulamento oficial e a página de assinatura para o valor atual.",
-        "Há taxa de adesão ou mensalidade? Não. Você paga apenas pelos produtos que solicitar e o frete (que é grátis na assinatura).",
-        "Posso cancelar a Assinatura a qualquer momento? Não há taxa de cancelamento, segundo o FAQ oficial. Porém, ofertas com desconto podem prever permanência mínima (número de ciclos) — consulte o regulamento da sua oferta para saber as condições exatas antes de assinar.",
-        "O que acontece se eu cancelar? A assinatura para imediatamente — você não recebe mais pedidos recorrentes. Os pontos do Clube que você acumulou não são perdidos.",
-        "Posso modificar a assinatura (produtos, frequência)? Sim. Você pode adicionar, remover produtos ou mudar a frequência a qualquer momento sem custo adicional.",
-        "Como faço para assinar? Acesse o site oficial da NESCAFÉ Dolce Gusto, navegue até Plano de Assinaturas, escolha os produtos e frequência, e confirme.",
-        "A assinatura funciona com Geração 1 e NEO? Sim, existem planos separados para cada sistema — escolha conforme sua máquina.",
-        "Posso usar o cupom CECI junto com a Assinatura? Confirme essa possibilidade com o site oficial — em geral, desconto da assinatura e cupons promocionais podem ter restrições de acúmulo.",
-        "Os pontos do Clube Dolce Gusto são creditados na assinatura? A marca divulga bônus de pontos do CLUB vinculado à Assinatura (por exemplo, no primeiro pedido), além dos pontos normais que você ganha cadastrando os códigos das caixas. As regras exatas de crédito estão no regulamento do programa.",
-        "Qual é o mínimo de caixas por pedido? 3 caixas no mínimo a cada ciclo.",
-        "Quantas frequências existem? Mensal, bimestral e trimestral — escolha conforme seu consumo.",
-        "Assinatura é a mesma coisa que Clube? Não. Veja a seção 'Assinatura × Clube Dolce Gusto' para entender as diferenças completas.",
+        "Qual é o desconto da Assinatura Dolce Gusto? Novas assinaturas recebem 25% OFF em todas as caixas de bebidas e frete grátis em todas as entregas. Assinantes antigos (anteriores a 12/08/2025) mantêm 30% OFF enquanto a assinatura continuar ativa sem edições.",
+        "Qual é o pedido mínimo para assinar? O pedido mínimo é de 3 caixas por entrega.",
+        "Há cobrança de mensalidade ou taxa de adesão? Não. Não há taxa de adesão, mensalidade ou taxa de cancelamento. Você paga apenas o valor dos produtos escolhidos com 25% de desconto.",
+        "Como funciona o bônus de 1.000 pontos no CLUB? Na criação da 1ª assinatura por CPF, 1.000 pontos são creditados no seu saldo do Dolce Gusto CLUB no primeiro pedido.",
+        "Quais são as formas de pagamento aceitas? Exclusivamente cartão de crédito (Visa, Mastercard ou Elo) sem parcelamento.",
+        "O que acontece se o cartão de crédito falhar? A loja realiza 3 tentativas de cobrança em 3 dias consecutivos. Se o pagamento não for aprovado após 3 tentativas, a assinatura é cancelada automaticamente.",
+        "Como cancelar a Assinatura Dolce Gusto? Acesse sua conta no site oficial na aba 'Assinatura' e clique em cancelar, ou envie e-mail para atendimento.dolcegusto@nestle.com.br com o assunto 'Cancelar Assinatura'. O cancelamento deve ser feito pelo menos 1 dia antes da data do próximo pedido.",
+        "Posso pular uma entrega da assinatura? Sim, você pode pular até 1 entrega por ano diretamente pelo painel do cliente.",
+        "Até quando posso editar os produtos ou cartão da assinatura? Até 2 dias antes da data prevista para o próximo envio.",
+        "Cupons normais do site acumulam com a assinatura? Não. Cupons promocionais normais do site não acumulam com o desconto de 25% da assinatura; apenas cupons específicos para assinantes são válidos.",
+        "Posso ter mais de uma assinatura por CPF? Não. O limite é de 1 assinatura ativa por CPF.",
         "Como usar códigos promocionais na página do Clube Dolce Gusto? Os cupons de desconto (como o cupom CECI) devem ser digitados no carrinho de compras ou no checkout da loja oficial NESCAFÉ Dolce Gusto antes de finalizar o pedido, e não na área do Clube. Na página do Clube Dolce Gusto, você digita apenas os códigos de 12 dígitos impressos nas abas internas das embalagens para acumular pontos de fidelidade."
       ]
     }
   ],
   "cta": {
-    "text": "Conheça o Plano de Assinatura da NESCAFÉ Dolce Gusto e aproveite desconto e frete grátis.",
+    "text": "Conheça o Plano de Assinatura da NESCAFÉ Dolce Gusto e garanta 25% OFF e frete grátis.",
     "label": "Acessar Plano de Assinaturas",
     "url": "https://www.nescafe-dolcegusto.com.br/plano-assinaturas"
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",
-  "editorialNote": "Este artigo foi produzido em parceria comercial com a NESCAFÉ Dolce Gusto. O Em Casa com Cecília recebe comissão sobre compras feitas com o cupom CECI e por meio de links para o site oficial. As informações sobre benefícios da assinatura são baseadas em dados públicos — para detalhes atualizados e regulamento completo, consulte o site oficial.",
+  "editorialNote": "Este artigo foi produzido com base nos Termos e Condições Oficiais do Plano de Assinatura NESCAFÉ Dolce Gusto (Nestlé Brasil Ltda). O Em Casa com Cecília mantém parceria comercial com a marca e recebe comissão sobre compras realizadas via links oficiais e pelo cupom CECI. Todas as informações refletem os regulamentos vigentes.",
   "relatedArticles": [
     {
       "slug": "clube-dolce-gusto-como-funciona",
@@ -207,6 +203,5 @@
       "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
       "title": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso"
     }
-  ],
-  "publishedAtISO": "2026-08-03"
+  ]
 }
