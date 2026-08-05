@@ -37455,10 +37455,10 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Guia completo sobre a política Sleeptest da I Wanna Sleep: diferenças entre colchões (100 dias), travesseiros (30 dias) e pillow tops, custos, regras de troca, crédito vs reembolso e as pegadinhas que ninguém avisa.",
-    "metaDescription": "Entenda como funciona o Sleeptest da I Wanna Sleep: regras por categoria (colchões 100 dias, travesseiros 30 dias), custos de logística reversa, etiqueta intacta e como funciona a troca com crédito.",
-    "publishedAt": "Draft",
-    "draft": true,
+    "description": "Guia sobre o Sleeptest da I Wanna Sleep: regras por categoria (colchões 100 dias, travesseiros 30 dias), custos de frete, etiquetas e reembolso em crédito.",
+    "metaDescription": "Entenda o Sleeptest da I Wanna Sleep: colchões (100 dias), travesseiros (30 dias), taxa de frete R$300 em colchões (BH), etiqueta intacta e crédito.",
+    "publishedAt": "4 de agosto de 2026",
+    "draft": false,
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -37585,8 +37585,11 @@ export const reviewsData: unknown[] = [
         "title": "Cobertor IWS Igloo: toque gelado de um lado, aconchego quentinho do outro"
       }
     ],
-    "image": "/images/reviews/iwannasleep/cupom-ceciemcasa-i-wanna-sleep-como-usar.webp",
-    "imageAlt": "Produtos i Wanna Sleep e teste do sono em casa"
+    "image": "/images/reviews/iwannasleep/confiabilidade-hero.webp",
+    "imageAlt": "Banner ilustrativo do teste de conforto e Sleeptest i Wanna Sleep",
+    "publishedAtISO": "2026-08-04",
+    "isNew": true,
+    "imageFit": "cover"
   },
   {
     "id": 249,
