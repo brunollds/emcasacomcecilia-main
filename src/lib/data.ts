@@ -252,7 +252,7 @@ export interface Review {
     image?: string | ContentSectionImage;
     imageAlt?: string;
     imageCaption?: string;
-    imageFit?: 'cover' | 'contain' | 'portrait' | 'wide';
+    imageFit?: 'cover' | 'contain' | 'portrait' | 'wide' | 'panoramic' | 'square';
     images?: ContentSectionImage[];
     links?: ContentSectionLink[];
     widget?: string;

@@ -237,7 +237,7 @@ export interface ContentSectionImage {
   src: string;
   alt: string;
   caption?: string;
-  objectFit?: 'cover' | 'contain' | 'portrait' | 'wide';
+  objectFit?: 'cover' | 'contain' | 'portrait' | 'wide' | 'panoramic' | 'square';
 }
 
 /** Modelo legado real de contentSections em src/lib/data.ts. */
@@ -251,7 +251,7 @@ export interface ContentSection {
   image?: string | ContentSectionImage;
   imageAlt?: string;
   imageCaption?: string;
-  imageFit?: 'cover' | 'contain' | 'portrait' | 'wide' | 'square';
+  imageFit?: 'cover' | 'contain' | 'portrait' | 'wide' | 'panoramic' | 'square';
   images?: ContentSectionImage[];
   links?: ContentSectionLink[];
   couponTiers?: { code: string; discount: string; minPurchase: string }[];
