@@ -37182,14 +37182,17 @@ export const reviewsData: unknown[] = [
         "heading": "Como funciona o Adaptador NEO Start",
         "paragraphs": [
           "O Adaptador NEO Start é um acessório de encaixe que substitui temporariamente o porta-cápsulas padrão da sua máquina ORIGINAL. O manual oficial do produto estabelece quatro recomendações de uso e segurança essenciais para a operação.",
-          "Instruções do manual oficial: 1) Encaixe a cápsula de papel no adaptador e posicione na máquina sem forçar a gaveta. 2) Baixe a alavanca da máquina com cuidado — se sentir resistência ao fechar a tampa, não force o mecanismo; verifique o alinhamento da cápsula. 3) Selecione EXCLUSIVAMENTE a função de água quente para a extração. 4) Após o término do preparo, aguarde alguns segundos e retire o adaptador segurando estritamente pela pega/haste de manuseio, pois o acessório atinge altas temperaturas durante a passagem de água quente."
+          "Como preparar a bebida por tipo de máquina: 1) Nas máquinas Flow Stop / automáticas (Genio S, Genio S Touch, Genio S Plus, Infinissima Touch e Mini Me automática), selecione o volume em tracinhos normalmente (1 tracinho para Espressos e 4 tracinhos para Lungos). 2) Nas máquinas manuais (Piccolo, Piccolo XS e Mini Me manual), basta mover a alavanca para a posição de água quente e retorná-la manualmente para a posição central neutra quando atingir o volume desejado na xícara.",
+          "Encaixe magnético e cuidados ao fechar: O adaptador é magneticamente atraído para a posição final na cabeça da máquina. Certifique-se de que a tampa do próprio adaptador esteja firmemente pressionada e travada antes de inserir. Se sentir resistência ao fechar a alavanca da máquina, não force — auxilie o fechamento aplicando leve pressão com a palma da mão.",
+          "Atenção ao resfriamento: Após a extração, aguarde alguns segundos e retire o adaptador segurando estritamente pela pega/haste de manuseio dedicada, pois o acessório fica muito quente durante a passagem de água."
         ],
         "bullets": [
           "Utilizar EXCLUSIVAMENTE a função de água quente da máquina.",
-          "Retirar o adaptador segurando sempre pela pega dedicada, pois o corpo do acessório fica muito quente após a extração.",
-          "Baixar a alavanca da máquina com cuidado — não forçar o fechamento se houver resistência.",
-          "Use a função de água quente e o volume indicado na cápsula compatível.",
-          "Depois do resfriamento, remova a cápsula usada e limpe o adaptador."
+          "Máquinas automáticas (Flow Stop): Selecionar o volume em tracinhos normalmente (1 para Espresso, 4 para Lungo).",
+          "Máquinas manuais: Mover a alavanca para água quente e retornar ao centro ao atingir o volume desejado.",
+          "Encaixe magnético: O acessório é atraído para a posição final; trave a tampa do adaptador antes de inserir e auxilie o fechamento com a palma da mão se necessário.",
+          "Retirar o adaptador segurando sempre pela pega dedicada, pois o corpo do acessório atinge altas temperaturas.",
+          "Lavar o suporte com água corrente após o resfriamento."
         ],
         "links": [
           {
@@ -37197,8 +37200,8 @@ export const reviewsData: unknown[] = [
             "href": "https://www.dolce-gusto.pt/media/wysiwyg/NDG_NEO-START_UM_leaflet_325x200_EN_FR_DE_NL_IT_ES_PTG_PTB_2024-10-23.pdf"
           }
         ],
-        "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-1.webp",
-        "imageAlt": "Manual oficial NESCAFÉ Dolce Gusto com instruções de manuseio e porta-cápsulas",
+        "image": "/images/reviews/dolcegusto/adaptador-neo-start-passo-a-passo.webp",
+        "imageAlt": "Passo a passo oficial de uso do Adaptador NEO Start na máquina Dolce Gusto",
         "imageFit": "contain"
       },
       {
@@ -37220,20 +37223,27 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cápsulas NEO compatíveis com o adaptador",
         "paragraphs": [
-          "Nem todas as cápsulas da linha NEO são compatíveis com o adaptador — a marca destina o acessório exclusivamente a variedades selecionadas de cafés pretos (Espresso e Lungo). Bebidas com leite, chás ou receitas compostas não são suportadas pelo adaptador.",
-          "A disponibilidade e a lista de SKUs podem mudar. Confirme a indicação de compatibilidade na página oficial da cápsula antes de comprar."
+          "O Adaptador NEO Start é compatível com uma seleção oficial de cafés pretos da linha NEO (variedades de Espresso e Lungo). Bebidas com leite, chás ou receitas mistas não são suportadas pelo adaptador.",
+          "Confira os exemplos de cápsulas de café preto listadas oficialmente pela NESCAFÉ Dolce Gusto:"
         ],
         "bullets": [
-          "Procure a indicação de compatibilidade com NEO Start na página da cápsula.",
-          "Não presuma que toda cápsula NEO será compatível.",
-          "O adaptador é destinado a cafés pretos NEO selecionados."
+          "NEO Espresso Sul de Minas Orgânico (café preto)",
+          "NEO Starbucks® Espresso Roast (café preto)",
+          "NEO Espresso Delicate (café preto)",
+          "NEO Lungo Cerrado Orgânico (café preto)",
+          "NEO Espresso Serras do Alto Paranaíba (café preto)",
+          "NEO Lungo Chapada Diamantina (café preto)",
+          "Nota: Bebidas com leite e outras linhas mistas NEO não são compatíveis com o adaptador."
         ],
         "links": [
           {
             "label": "Consulta de Cápsulas NEO Compatíveis (Loja Oficial Dolce Gusto)",
             "href": "https://www.nescafe-dolcegusto.com.br/categoriaprodutos/capsulas/neo"
           }
-        ]
+        ],
+        "image": "/images/reviews/dolcegusto/adaptador-neo-start-combo-maquina.webp",
+        "imageAlt": "Combo de máquina de café Dolce Gusto com o Adaptador NEO Start e cápsulas",
+        "imageFit": "contain"
       },
       {
         "heading": "Quanto custa e onde comprar",
@@ -37265,12 +37275,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Adaptador NEO Start serve em qual máquina? Serve em: Genio S, Genio S Touch, Genio S Plus, Infinissima, Infinissima Touch, Piccolo, Piccolo XS e Mini Me. Se sua máquina não está nessa lista, o adaptador não é compatível.",
-          "Cápsula NEO funciona na Dolce Gusto normal? Não — cápsulas NEO só funcionam em máquinas NEO ou em máquinas ORIGINAL com o Adaptador NEO Start. Sem o adaptador, a cápsula NEO não encaixa corretamente.",
-          "Adaptador NEO Start vale a pena? Depende da sua máquina, do consumo e da disponibilidade das cápsulas compatíveis. Compare o preço atual do adaptador com o de uma máquina NEO antes de decidir.",
-          "Preciso trocar de máquina para usar cápsulas NEO? Não, se sua máquina está na lista de compatíveis. O adaptador resolve — custa menos que uma máquina nova.",
-          "O adaptador altera a extração do café em relação à máquina NEO nativa? O adaptador viabiliza o encaixe e a passagem de água quente em cápsulas selecionadas de café preto nas máquinas ORIGINAL compatíveis. Ele não adiciona os recursos próprios de uma máquina NEO dedicada.",
-          "Quantas vezes posso usar o mesmo adaptador? O adaptador é reutilizável. Você tira e coloca quantas vezes quiser — não estraga com o uso normal.",
+          "Quais são os cafés compatíveis com o Adaptador NEO Start? O Adaptador NEO Start® é compatível com uma seleção de cafés pretos de NEO, incluindo NEO Espresso Sul de Minas Orgânico, NEO Starbucks® Espresso Roast, NEO Espresso Delicate, NEO Lungo Cerrado Orgânico, NEO Espresso Serras do Alto Paranaíba e NEO Lungo Chapada Diamantina.",
+          "Posso escolher o tamanho da minha xícara de café com o Adaptador NEO Start? Sim. Se você tem uma máquina manual (como Piccolo ou Mini Me manual), basta mover a alavanca para a posição quente e retorná-la à posição do meio quando o volume desejado for alcançado. Para máquinas automáticas (Flow Stop), selecione o volume em tracinhos normalmente (1 tracinho para Espresso e 4 para Lungo).",
+          "O Adaptador NEO Start é compatível com todos os modelos de máquinas NESCAFÉ Dolce Gusto? Não. Ele é compatível especificamente com os modelos: MINI ME®, INFINISSIMA®, INFINISSIMA® Touch, GENIO® S, GENIO® S Plus, GENIO® S Touch, PICCOLO® e PICCOLO® XS. Não é compatível com outros modelos.",
+          "Não consigo fechar a tampa da máquina após inserir o Adaptador NEO Start, o que devo fazer? O Adaptador NEO Start é magneticamente atraído para a posição final. Se tiver dificuldade para fechar a alavanca da máquina, verifique se: 1) Sua máquina é compatível; 2) A tampa do próprio adaptador está firmemente pressionada e travada; 3) O adaptador está bem inserido na cabeça da máquina e empurrado até a posição final. Auxilie o fechamento aplicando leve pressão com a palma da mão.",
+          "O adaptador altera a extração do café em relação à máquina NEO nativa? O adaptador viabiliza o encaixe físico e a passagem de água quente em cápsulas selecionadas de café preto nas máquinas da linha ORIGINAL. A extração é feita via pressão de água quente tradicional de 15 bar da máquina clássica, sem a tecnologia Air-Brew ou pareamento via aplicativo nativos da cafeteira NEO dedicada.",
+          "O adaptador esquenta durante o uso? Sim. O corpo do acessório fica muito quente durante a passagem de água. Após o preparo, aguarde alguns segundos e remova o adaptador segurando exclusivamente pela pega/haste de manuseio.",
           "Como usar o cupom CECI na compra do adaptador? O cupom CECI pode ser digitado no carrinho de compras na loja oficial da NESCAFÉ Dolce Gusto para obter desconto direto em produtos elegíveis, sujeito às condições vigentes no checkout."
         ]
       }
@@ -37297,10 +37307,11 @@ export const reviewsData: unknown[] = [
         "title": "Clube Dolce Gusto: pontos e prêmios"
       }
     ],
-    "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-2.webp",
-    "imageAlt": "Cecília Mauad com a Genio S Touch, uma das máquinas compatíveis com o Adaptador NEO Start",
+    "image": "/images/reviews/dolcegusto/adaptador-neo-start-hero-oficial.webp",
+    "imageAlt": "Adaptador NESCAFÉ Dolce Gusto NEO Start oficial para máquinas da linha ORIGINAL",
     "publishedAtISO": "2026-08-04",
-    "isNew": true
+    "isNew": true,
+    "imageFit": "cover"
   },
   {
     "id": 247,
