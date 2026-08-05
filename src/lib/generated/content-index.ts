@@ -37140,7 +37140,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Guia do Adaptador NEO Start: como usar cápsulas de papel NEO em máquinas Dolce Gusto da linha ORIGINAL (Genio S, Piccolo, Mini Me), compatibilidade e vale a pena.",
+    "description": "Guia do Adaptador NEO Start: compatibilidade com máquinas ORIGINAL, uso seguro e o que conferir antes de comprar.",
     "metaDescription": "Adaptador NEO Start: o que é, quais máquinas e cápsulas são compatíveis, como funciona a extração e se vale a pena para sua máquina Dolce Gusto.",
     "publishedAt": "4 de agosto de 2026",
     "draft": false,
@@ -37151,19 +37151,29 @@ export const reviewsData: unknown[] = [
         "heading": "O Adaptador NEO Start: entendendo o sistema",
         "paragraphs": [
           "Se você possui uma máquina de café NESCAFÉ Dolce Gusto da linha tradicional (ORIGINAL) e deseja experimentar as cápsulas de papel compostáveis da linha NEO, o Adaptador NEO Start é a ponte criada pela marca para viabilizar essa compatibilidade.",
-          "No Brasil, a Dolce Gusto opera com dois ecossistemas de bebidas: o sistema ORIGINAL (máquinas com cápsulas de plástico/alumínio) e o sistema NEO (máquinas com cápsulas de papel compostável de base biológica). O adaptador permite encaixar cápsulas NEO de cafés pretos em modelos da linha ORIGINAL sem precisar comprar uma máquina nova."
+          "No Brasil, a Dolce Gusto opera com dois ecossistemas de bebidas: o sistema ORIGINAL e o sistema NEO. O adaptador permite preparar cápsulas NEO selecionadas em modelos compatíveis da linha ORIGINAL sem comprar uma máquina NEO dedicada."
         ],
-        "bullets": []
+        "bullets": [],
+        "links": [
+          {
+            "label": "Página Oficial do Adaptador NEO Start",
+            "href": "https://www.nescafe-dolcegusto.com.br/adaptador-neo-start"
+          },
+          {
+            "label": "Manual do Adaptador NEO Start",
+            "href": "https://www.dolce-gusto.pt/media/wysiwyg/NDG_NEO-START_UM_leaflet_325x200_EN_FR_DE_NL_IT_ES_PTG_PTB_2024-10-23.pdf"
+          }
+        ]
       },
       {
         "heading": "Qual é a diferença entre cápsulas ORIGINAL e NEO?",
         "paragraphs": [
-          "A diferença fundamental está no material e no sistema de encaixe. As cápsulas ORIGINAL são feitas de plástico e alumínio, enquanto as cápsulas NEO usam papel e fibra compostáveis — certificadas pela TUV para compostagem em casa e industrialmente. Isso significa que, ao descartar uma cápsula NEO, ela se decompõe naturalmente em alguns meses, sem deixar resíduos plásticos.",
-          "Do ponto de vista prático: máquinas NEO já vêm preparadas para as cápsulas NEO desde o início. Máquinas ORIGINAL não conseguem usar cápsulas NEO direto — aí é que entra o adaptador. O sistema NEO é também um pouco mais compacto e elegante em design, e geralmente associado a máquinas mais modernas da marca."
+          "A diferença fundamental está no formato, no sistema de encaixe e na tecnologia das cápsulas. A linha NEO usa cápsulas de papel compostável, enquanto a linha ORIGINAL utiliza outro formato de cápsula e porta-cápsula.",
+          "Do ponto de vista prático, máquinas NEO já vêm preparadas para as cápsulas NEO. Máquinas ORIGINAL compatíveis precisam do adaptador para preparar cápsulas NEO selecionadas."
         ],
         "bullets": [
-          "Cápsulas ORIGINAL: plástico e alumínio, encaixe tradicional",
-          "Cápsulas NEO: papel e fibra compostáveis, encaixe e tamanho ligeiramente diferentes",
+          "Cápsulas ORIGINAL: formato e porta-cápsula próprios da linha tradicional",
+          "Cápsulas NEO: papel compostável e encaixe diferente",
           "Máquinas NEO: preparadas nativamente para cápsulas NEO",
           "Máquinas ORIGINAL: precisam do adaptador para usar cápsulas NEO"
         ]
@@ -37171,16 +37181,25 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como funciona o Adaptador NEO Start",
         "paragraphs": [
-          "O Adaptador NEO Start é um acessório de encaixe que substitui temporariamente o porta-cápsulas padrão da sua máquina ORIGINAL. Você remove o suporte comum, insere o Adaptador NEO Start e posiciona a cápsula de papel no nicho central.",
-          "Como funciona a extração: nas máquinas ORIGINAL, a extração ocorre utilizando a pressão tradicional de 15 bar e a agulha da máquina (regulando os tracinhos de água recomendados pela marca: 1 tracinho para Espressos e 4 tracinhos para Lungos). Vale lembrar que o adaptador é um suporte físico de compatibilidade — ele não adiciona funções eletrônicas ou a tecnologia Air-Brew nativas da máquina NEO dedicada."
+          "O Adaptador NEO Start é um acessório de encaixe que substitui temporariamente o porta-cápsulas padrão da sua máquina ORIGINAL. O manual oficial do produto estabelece quatro recomendações de uso e segurança essenciais para a operação.",
+          "Instruções do manual oficial: 1) Encaixe a cápsula de papel no adaptador e posicione na máquina sem forçar a gaveta. 2) Baixe a alavanca da máquina com cuidado — se sentir resistência ao fechar a tampa, não force o mecanismo; verifique o alinhamento da cápsula. 3) Selecione EXCLUSIVAMENTE a função de água quente para a extração. 4) Após o término do preparo, aguarde alguns segundos e retire o adaptador segurando estritamente pela pega/haste de manuseio, pois o acessório atinge altas temperaturas durante a passagem de água quente."
         ],
         "bullets": [
-          "Substitui o porta-cápsulas tradicional da sua máquina da linha ORIGINAL.",
-          "Posiciona a cápsula de papel NEO perfeitamente centralizada para perfuração segura.",
-          "Regulagem de água sugerida: 1 tracinho para Espressos e 4 tracinhos para Lungos.",
-          "Acessório lavável e reutilizável — insira e remova sempre que quiser alternar entre cápsulas clássicas e NEO.",
-          "Atenção ao manuseio: encaixe o adaptador suavemente sem forçar a alavanca de trava se houver resistência."
-        ]
+          "Utilizar EXCLUSIVAMENTE a função de água quente da máquina.",
+          "Retirar o adaptador segurando sempre pela pega dedicada, pois o corpo do acessório fica muito quente após a extração.",
+          "Baixar a alavanca da máquina com cuidado — não forçar o fechamento se houver resistência.",
+          "Use a função de água quente e o volume indicado na cápsula compatível.",
+          "Depois do resfriamento, remova a cápsula usada e limpe o adaptador."
+        ],
+        "links": [
+          {
+            "label": "Manual Oficial e Recomendações do Adaptador NEO Start",
+            "href": "https://www.dolce-gusto.pt/media/wysiwyg/NDG_NEO-START_UM_leaflet_325x200_EN_FR_DE_NL_IT_ES_PTG_PTB_2024-10-23.pdf"
+          }
+        ],
+        "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-1.webp",
+        "imageAlt": "Manual oficial NESCAFÉ Dolce Gusto com instruções de manuseio e porta-cápsulas",
+        "imageFit": "contain"
       },
       {
         "heading": "Máquinas compatíveis com o Adaptador NEO Start",
@@ -37201,40 +37220,45 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cápsulas NEO compatíveis com o adaptador",
         "paragraphs": [
-          "Nem todas as cápsulas NEO funcionam com o adaptador — a marca especifica quais cafés estão na lista de compatibilidade oficial:"
+          "Nem todas as cápsulas da linha NEO são compatíveis com o adaptador — a marca destina o acessório exclusivamente a variedades selecionadas de cafés pretos (Espresso e Lungo). Bebidas com leite, chás ou receitas compostas não são suportadas pelo adaptador.",
+          "A disponibilidade e a lista de SKUs podem mudar. Confirme a indicação de compatibilidade na página oficial da cápsula antes de comprar."
         ],
         "bullets": [
-          "NEO Espresso Sul de Minas Orgânico",
-          "NEO Espresso Delicate",
-          "NEO Espresso Serras do Alto Paranaíba",
-          "NEO Lungo Chapada Diamantina",
-          "NEO Lungo Cerrado Orgânico"
+          "Procure a indicação de compatibilidade com NEO Start na página da cápsula.",
+          "Não presuma que toda cápsula NEO será compatível.",
+          "O adaptador é destinado a cafés pretos NEO selecionados."
+        ],
+        "links": [
+          {
+            "label": "Consulta de Cápsulas NEO Compatíveis (Loja Oficial Dolce Gusto)",
+            "href": "https://www.nescafe-dolcegusto.com.br/categoriaprodutos/capsulas/neo"
+          }
         ]
       },
       {
         "heading": "Quanto custa e onde comprar",
         "paragraphs": [
-          "No site oficial, o Adaptador NEO Start estava sendo vendido por R$ 69,90, de um preço anterior de R$ 89,90 (preço verificado em 30 de julho de 2026 — pode mudar conforme promoções e disponibilidade). Quem tem pontos no Dolce Gusto Club também pode trocar por 10.000 pontos.",
-          "Uma cápsula NEO custa em torno de R$ 22,90 a R$ 28,90 (exemplo: NEO Espresso Delicate saía de R$ 28,90 por R$ 22,90 no período consultado). Considerando que o adaptador é um investimento único e as cápsulas NEO são compostáveis, pode fazer sentido dependendo de quanto café você consome."
+          "Preço, estoque, promoções e eventuais opções de resgate por pontos variam. Consulte a página oficial do adaptador e a Loja de Prêmios antes de decidir.",
+          "Como o adaptador é reutilizável, compare o custo atual do acessório, das cápsulas compatíveis e de uma eventual máquina NEO nova antes da compra."
         ],
         "bullets": []
       },
       {
         "heading": "Vale a pena comprar?",
         "paragraphs": [
-          "Essa é uma pergunta que depende do seu caso específico. Se você tem uma máquina Dolce Gusto ORIGINAL e quer usar cápsulas compostáveis, o adaptador é a única solução. Mas vale avaliar:"
+          "Essa é uma pergunta que depende do seu caso específico. Para quem já tem uma máquina ORIGINAL compatível e quer experimentar cápsulas NEO selecionadas, o adaptador pode evitar a compra imediata de outra máquina. Mas vale avaliar:"
         ],
         "bullets": [
-          "Se você bebe café diariamente e se importa com compostabilidade, o adaptador custa relativamente pouco pra um uso de longo prazo.",
+          "Se você bebe café regularmente e se interessa pela proposta das cápsulas NEO, o acessório pode fazer sentido para uso contínuo.",
           "Se você consome pouquíssimo café, pode não compensar o investimento — nesse caso, as cápsulas ORIGINAL comuns já atendem.",
           "Se você está pensando em trocar de máquina de qualquer forma, considere a Dolce Gusto NEO ou uma Genio S Touch (que testamos e é compatível com o adaptador).",
-          "Quem participa do Dolce Gusto Club pode trocar por pontos e economizar os R$ 69,90."
+          "Confira no Club se o acessório está disponível para resgate e qual é a pontuação exigida."
         ]
       },
       {
         "heading": "Integração com o Dolce Gusto Club",
         "paragraphs": [
-          "Um detalhe legal: as compras de cápsulas NEO no site oficial com o adaptador já somam pontos automaticamente no Dolce Gusto Club. Se você faz parte do programa, isso é um incentivo extra pra considerar o adaptador — acumula pontos e pode trocar depois."
+          "A pontuação do Dolce Gusto Club segue regras próprias por produto e campanha. Antes de comprar, confirme no regulamento do Club como os pontos são creditados para as cápsulas NEO elegíveis."
         ],
         "bullets": []
       },
@@ -37243,22 +37267,22 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Adaptador NEO Start serve em qual máquina? Serve em: Genio S, Genio S Touch, Genio S Plus, Infinissima, Infinissima Touch, Piccolo, Piccolo XS e Mini Me. Se sua máquina não está nessa lista, o adaptador não é compatível.",
           "Cápsula NEO funciona na Dolce Gusto normal? Não — cápsulas NEO só funcionam em máquinas NEO ou em máquinas ORIGINAL com o Adaptador NEO Start. Sem o adaptador, a cápsula NEO não encaixa corretamente.",
-          "Adaptador NEO Start vale a pena? Depende de quanto você bebe café e se se importa com sustentabilidade. Se consome regularmente, o investimento de R$ 69,90 se paga ao longo do tempo — as cápsulas NEO compostáveis são o grande diferencial.",
+          "Adaptador NEO Start vale a pena? Depende da sua máquina, do consumo e da disponibilidade das cápsulas compatíveis. Compare o preço atual do adaptador com o de uma máquina NEO antes de decidir.",
           "Preciso trocar de máquina para usar cápsulas NEO? Não, se sua máquina está na lista de compatíveis. O adaptador resolve — custa menos que uma máquina nova.",
-          "O adaptador muda a qualidade do café? Não. O sabor sai igual — o adaptador é só um suporte, sem interferência no resultado final.",
+          "O adaptador altera a extração do café em relação à máquina NEO nativa? O adaptador viabiliza o encaixe e a passagem de água quente em cápsulas selecionadas de café preto nas máquinas ORIGINAL compatíveis. Ele não adiciona os recursos próprios de uma máquina NEO dedicada.",
           "Quantas vezes posso usar o mesmo adaptador? O adaptador é reutilizável. Você tira e coloca quantas vezes quiser — não estraga com o uso normal.",
           "Como usar o cupom CECI na compra do adaptador? O cupom CECI pode ser digitado no carrinho de compras na loja oficial da NESCAFÉ Dolce Gusto para obter desconto direto em produtos elegíveis, sujeito às condições vigentes no checkout."
         ]
       }
     ],
     "cta": {
-      "text": "Conheça o Adaptador NEO Start na loja oficial e aproveite o cupom CECI",
+      "text": "Conheça o Adaptador NEO Start na loja oficial e confira as condições do cupom CECI",
       "label": "Comprar Adaptador NEO Start",
       "url": "https://www.nescafe-dolcegusto.com.br/adaptador-neo-start"
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este artigo é um guia de informações baseado em dados públicos disponíveis no site oficial da NESCAFÉ Dolce Gusto e no dossiê do adaptador coletado em 30 de julho de 2026. O cupom CECI faz parte da nossa parceria comercial com a marca e pode gerar comissão para o blog, sem custo adicional para você.",
+    "editorialNote": "Este artigo é um guia editorial baseado na página oficial e no manual do Adaptador NEO Start. Compatibilidade, preço, estoque e benefícios podem mudar; confirme no site oficial antes da compra. O cupom CECI faz parte da nossa parceria comercial com a marca e pode gerar comissão para o blog, sem custo adicional para você.",
     "relatedArticles": [
       {
         "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
@@ -37274,7 +37298,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-2.webp",
-    "imageAlt": "Cecília Mauad com a cafeteira NESCAFÉ Dolce Gusto em casa",
+    "imageAlt": "Cecília Mauad com a Genio S Touch, uma das máquinas compatíveis com o Adaptador NEO Start",
     "publishedAtISO": "2026-08-04",
     "isNew": true
   },
@@ -38537,9 +38561,9 @@ export const reviewsData: unknown[] = [
   {
     "id": 258,
     "slug": "aliv-head-gel-iws-mascara-termica-enxaqueca",
-    "title": "Aliv™ Head Gel IWS: a máscara térmica 360° para enxaqueca vale a pena?",
-    "type": "Review",
-    "reviewKind": "produto",
+    "title": "Aliv Head Gel IWS: máscara térmica para dor de cabeça vale a pena?",
+    "type": "Guia",
+    "reviewKind": "guia",
     "author": {
       "name": "Cecília Mauad",
       "slug": "cecilia-mauad",
@@ -38547,127 +38571,128 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Análise da máscara térmica Aliv Head Gel IWS: terapia dupla (frio e quente) 360°, alívio sem remédios para enxaqueca, sinusite e tensão, e se vale o investimento.",
-    "metaDescription": "Review Aliv Head Gel IWS: máscara térmica 360° para enxaqueca e sinusite. Veja como funciona a terapia quente/frio, blackout total e se vale a pena.",
+    "description": "Guia da máscara térmica Aliv Head Gel IWS: uso frio ou quente, cobertura 360 graus, cuidados de segurança e o que considerar antes de comprar.",
+    "metaDescription": "Aliv Head Gel IWS: máscara térmica quente ou fria. Veja instruções de uso, cuidados de segurança, cobertura 360 graus e o que avaliar antes de comprar.",
     "publishedAt": "4 de agosto de 2026",
     "publishedAtISO": "2026-08-04",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/iwannasleep/travesseiro-snow-hero.webp",
-    "imageAlt": "Máscara térmica Aliv Head Gel IWS para alívio de enxaqueca e tensão",
+    "image": "/images/reviews/iwannasleep/aliv-head-gel-iws-hero.jpg",
+    "imageAlt": "Pessoa usando a máscara térmica Aliv Head Gel IWS sobre os olhos",
     "imageFit": "cover",
     "productSpec": {
-      "name": "Aliv™ Head Gel IWS",
+      "name": "Aliv Head Gel IWS",
       "brand": "I Wanna Sleep",
-      "price": "R$ 197,00",
-      "rating": "4.9",
-      "category": "Bem-estar / Terapia do Sono",
+      "price": "Consulte preço e disponibilidade na loja oficial",
+      "category": "Bem-estar / Compressa térmica",
       "highlights": [
-        "Terapia dupla: Compressão Fria (crioterapia) e Quente (termoterapia)",
-        "Cobertura 360° anatômica com bloqueio total de luz (blackout)",
-        "Gel de grau médico flexível (não endurece no congelador)",
-        "Sem velcros ou tiras incômodas — veste como uma touca macia",
-        "Alívio natural sem dependência de medicamentos"
+        "Uso frio ou quente conforme as instruções da marca",
+        "Cobertura 360 graus com gel térmico flexível",
+        "Máscara reutilizável em formato de touca",
+        "Limpeza externa com pano úmido"
       ]
     },
     "pros": [
-      "Alívio imediato e não farmacológico para dores de cabeça e sinusite",
-      "Bloqueio de luz 360° perfeito para momentos de crise fotofóbica",
-      "Tecido elástico e macio que não aperta nem puxa o cabelo",
-      "Gel permanece flexível mesmo após horas no congelador",
-      "Pode ser usado tanto frio (freezer) quanto morno (micro-ondas)"
+      "Uso frio ou quente conforme as instruções da marca",
+      "Cobertura que envolve olhos e têmporas",
+      "Máscara reutilizável e sem tiras",
+      "Gel flexível quando resfriado, segundo a marca"
     ],
     "cons": [
-      "A retenção de temperatura gelada dura cerca de 20 a 30 minutos por sessão",
-      "Exige refrigeração prévia no congelador dentro do saquinho protetor"
+      "A duração da temperatura varia conforme ambiente e uso",
+      "Exige resfriamento ou aquecimento prévio",
+      "Não substitui avaliação ou tratamento de saúde"
     ],
     "contentSections": [
       {
         "heading": "O que é a máscara Aliv Head Gel IWS",
         "paragraphs": [
-          "A Aliv Head Gel IWS é uma máscara térmica anatômica projetada pela I Wanna Sleep para proporcionar alívio natural e rápido de dores de cabeça, enxaqueca, sinusite, tensão ocular e estresse acumulado.",
-          "Diferente das bolsas térmicas tradicionais que exigem ser seguradas com as mãos ou presas com tiras de velcro desconfortáveis, a Aliv Head Gel foi desenhada como uma touca elástica 360°. Ela envolve toda a cabeça e a região dos olhos com um gel de grau médico de alta densidade, combinando compressão suave, controle de temperatura e blackout total de luz."
+          "A Aliv Head Gel IWS é uma máscara térmica reutilizável da I Wanna Sleep, criada para aplicação fria ou quente na cabeça e na região dos olhos.",
+          "Em formato de touca elástica com gel térmico em 360 graus, ela cobre a testa, as têmporas e os olhos para oferecer conforto térmico e reduzir a luz durante uma pausa ou descanso. Este guia resume as informações públicas da marca; ele não substitui orientação profissional de saúde."
         ],
         "bullets": [
-          "Design 360° em formato de touca elástica sem velcros ou fivelas.",
-          "Terapia dupla: Crioterapia (frio) e Termoterapia (quente).",
-          "Bloqueio total de luz (blackout) ideal para crises de fotofobia.",
-          "Gel de grau médico interno que se molda ao formato do rosto.",
-          "Solução não farmacológica para reduzir o uso excessivo de analgésicos."
+          "Design 360 graus em formato de touca elástica sem velcros ou fivelas.",
+          "Uso frio ou quente conforme as instruções da marca.",
+          "Redução de luz na região dos olhos conforme o ajuste no rosto.",
+          "Gel interno flexível que se molda ao formato da cabeça.",
+          "Medida de conforto complementar; não substitui avaliação ou tratamento médico."
+        ],
+        "links": [
+          {
+            "label": "Informacoes e instrucoes do Aliv Head Gel IWS",
+            "href": "https://www.iwannasleep.com.br/products/aliv-head-gel-iws"
+          }
         ]
       },
       {
-        "heading": "Como funciona: Crioterapia vs Termoterapia",
+        "heading": "Como usar frio ou quente com segurança",
         "paragraphs": [
-          "A máscara oferece versatilidade térmica para dois tipos de aplicação clínica e relaxante:",
-          "Uso Frio (Crioterapia): Basta colocar a máscara no congelador/freezer por cerca de 1 a 2 horas dentro do saquinho de proteção. O frio provoca vasoconstrição nas têmporas e na testa, reduzindo a pulsação das artérias e adormecendo a sensação de dor de cabeça crônica, enxaqueca ou fadiga ocular.",
-          "Uso Quente (Termoterapia): Aquecida rapidamente no micro-ondas por alguns segundos, a máscara relaxa a musculatura facial e alivia a pressão nos seios da face causadas por sinusite, rinite ou estresse tenso no pescoço e mandíbula."
+          "A máscara pode ser usada em duas temperaturas, sempre respeitando as instruções da marca e testando a temperatura antes de encostar na pele.",
+          "Para uso frio, a marca orienta deixar a máscara no congelador por 1 a 1h30 ou, no máximo, 2 horas na geladeira. Para uso quente, orienta aquecer no micro-ondas por 15 a 30 segundos, sem exceder a temperatura recomendada.",
+          "Não use se a temperatura estiver desconfortável. Em caso de dor de cabeça súbita, intensa, diferente do habitual ou acompanhada de outros sintomas, procure atendimento de saúde."
         ],
         "bullets": [
-          "Crioterapia (Frio): Indicada para enxaqueca, cefaleia tensional, olhos inchados e ressaca.",
-          "Termoterapia (Quente): Indicada para sinusite, congestão facial e tensão muscular.",
-          "O gel interno não congela feito pedra — permanece maleável para se adaptar às têmporas."
+          "Uso frio: siga o tempo de resfriamento indicado pela marca.",
+          "Uso quente: aqueça por 15 a 30 segundos e teste antes de usar.",
+          "O gel permanece maleável quando resfriado, segundo a marca.",
+          "Limpe apenas a parte externa com pano úmido; não mergulhe o produto em água."
         ]
       },
       {
-        "heading": "Design 360° e Blackout de Luz",
+        "heading": "Cobertura 360 graus e redução de luz",
         "paragraphs": [
-          "Um dos maiores vilões de quem sofre com enxaqueca é a sensibilidade à luz (fotofobia). Qualquer ponto de iluminação pode intensificar a dor de forma insuportável.",
-          "A Aliv Head Gel possui um caimento anatômico que cobre completamente a testa, têmporas, topo da cabeça e a região dos olhos. Ao vesti-la, ela veda a entrada de luz ambiente instantaneamente, permitindo que você descanse em um ambiente escuro mesmo durante o dia."
+          "A sensibilidade à luz pode acompanhar alguns episódios de dor de cabeça. Uma máscara que reduz a luz pode tornar o descanso mais confortável em um ambiente claro.",
+          "A Aliv Head Gel cobre testa, têmporas, topo da cabeça e região dos olhos. O nível de bloqueio de luz varia conforme o ajuste no rosto e a iluminação do ambiente; não deve ser tratado como blackout garantido."
         ],
         "bullets": [
-          "Cobertura total dos olhos e têmporas.",
-          "Sem costuras rígidas na área dos olhos para evitar pressão excessiva nos globos oculares.",
-          "Tecido de toque aveludado e respirável."
+          "Formato que envolve olhos e têmporas.",
+          "Capa de 80% nylon e 20% elastano, segundo a marca.",
+          "Medida aproximada de 16 x 21,5 cm; confira se atende ao seu uso."
         ]
       },
       {
-        "heading": "Alívio sem remédios: vale a pena?",
+        "heading": "Conforto térmico: vale a pena?",
         "paragraphs": [
-          "O principal trunfo da Aliv Head Gel IWS é oferecer uma alternativa física imediata sem os efeitos colaterais de remédios analgésicos recorrentes.",
-          "Para quem enfrenta crises frequentes de enxaqueca ou trabalha o dia todo em frente a telas digitais, a sensação de alívio frio imediato combinada com o blackout proporciona um relaxamento profundo em 15 a 20 minutos."
+          "A máscara pode ser uma opção de conforto térmico em casa, no trabalho ou durante uma pausa. Ela não substitui diagnóstico, tratamento ou medicamentos prescritos.",
+          "Pode fazer sentido para quem procura uma compressa reutilizável que cubra olhos e têmporas. Para dores frequentes ou incapacitantes, procure orientação profissional antes de depender de qualquer medida caseira."
         ],
         "bullets": [
-          "Vale a pena para quem tem enxaqueca, sinusite frequente ou fadiga ocular.",
-          "Pode ser usada deitado ou sentado sem escorregar da cabeça.",
-          "Excelente custo-benefício para evitar o consumo diário de medicamentos."
+          "Pode fazer sentido para quem procura uma máscara térmica reutilizável.",
+          "Verifique a disponibilidade, o preço e a política de troca antes de comprar.",
+          "Não deve ser usada como substituta de medicamentos ou acompanhamento de saúde."
         ]
       },
       {
-        "heading": "FAQ: Dúvidas frequentes sobre a Aliv Head Gel IWS",
+        "heading": "Perguntas frequentes",
         "paragraphs": [
-          "Respostas práticas sobre a máscara térmica Aliv Head Gel:"
+          "Respostas práticas sobre a máscara térmica Aliv Head Gel IWS:"
         ],
         "bullets": [
-          "Quanto tempo a máscara Aliv Head Gel fica gelada? A retenção da temperatura gelada dura entre 20 e 30 minutos por aplicação, o tempo recomendado por especialistas para sessões de crioterapia.",
-          "O gel da máscara fica duro no freezer? Não. O gel de grau médico foi formulado para manter a flexibilidade macia mesmo em temperaturas abaixo de zero.",
-          "Como aquecer a Aliv Head Gel no micro-ondas? Aqueça por intervalos curtos de 10 a 15 segundos para evitar sobreaquecimento do gel.",
-          "Como lavar a máscara Aliv Head Gel? Limpe a superfície externa com um pano levemente umedecido em água e sabão neutro. Não mergulhe totalmente na água.",
-          "Como usar o cupom CECIEMCASA na compra da máscara Aliv Head Gel? Digite o cupom CECIEMCASA no carrinho de compras no site oficial da I Wanna Sleep para obter 10% de desconto direto."
+          "Quanto tempo a máscara Aliv Head Gel fica gelada? A sensação térmica varia conforme o ambiente e o uso. A marca indica preparar a máscara no congelador por 1 a 1h30 ou, no máximo, 2 horas na geladeira antes do uso frio.",
+          "O gel da máscara fica duro no freezer? A marca informa que o gel permanece flexível quando resfriado. Confira o estado do produto e use apenas se estiver confortável ao toque.",
+          "Como aquecer a Aliv Head Gel no micro-ondas? A marca orienta aquecer por 15 a 30 segundos e testar a temperatura antes de encostar na pele. Não superaqueça.",
+          "Como lavar a máscara Aliv Head Gel? Limpe a superfície externa com pano levemente umedecido. Não mergulhe o produto em água.",
+          "Como usar o cupom CECIEMCASA? Digite o código no carrinho da loja oficial para verificar a aplicação em produtos elegíveis, conforme as condições vigentes no checkout."
         ]
       }
     ],
     "cta": {
-      "text": "Conheça a Máscara Aliv Head Gel IWS na loja oficial e aproveite o cupom CECIEMCASA",
+      "text": "Conheça a Aliv Head Gel IWS e confira preço, disponibilidade e condições do cupom na loja oficial.",
       "label": "Ver Aliv Head Gel IWS",
       "url": "https://www.iwannasleep.com.br/products/aliv-head-gel-iws"
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Este artigo é uma análise editorial independente da máscara Aliv Head Gel baseada em especificações públicas da I Wanna Sleep. O cupom CECIEMCASA (10% de desconto) faz parte de nossa parceria comercial com a marca e gera comissão que apoia nosso trabalho editorial, sem custo adicional para você.",
+    "editorialNote": "Este guia editorial foi elaborado com base em especificações públicas da I Wanna Sleep e não oferece orientação médica. Preços, disponibilidade, políticas e cupons podem mudar. O cupom CECIEMCASA faz parte de parceria comercial e pode gerar comissão para o blog, sem custo adicional para você.",
     "relatedArticles": [
       {
         "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
-        "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%"
+        "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto"
       },
       {
         "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
-        "title": "Cobertor IWS Igloo: toque gelado de um lado, aconchego quentinho do outro"
+        "title": "Cobertor IWS Igloo: toque gelado de um lado e aconchego do outro"
       }
-    ],
-    "verdict": {
-      "stars": 5,
-      "text": "A máscara Aliv Head Gel IWS é uma excelente solução não farmacológica para alívio rápido de enxaqueca, sinusite e estresse com a combinação de terapia dupla e blackout 360°."
-    }
+    ]
   }
 ];
