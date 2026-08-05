@@ -60,9 +60,9 @@ export function buildReviewTemplateProps(review) {
   const videoPage = getVideoPageForYoutubeUrl(review.youtubeUrl)
     || getVideoPageForSourcePath(`/reviews/${currentSlug}`);
   const videoPageUrl = getVideoPageUrl(videoPage);
-  const productBrand = review.brand || review.productSpec?.find(
+  const productBrand = review.brand || (Array.isArray(review.productSpec) ? review.productSpec.find(
     (spec) => spec.key?.toLowerCase() === 'marca'
-  )?.value;
+  )?.value : undefined);
 
   const breadcrumbJsonLd = isPt
     ? {

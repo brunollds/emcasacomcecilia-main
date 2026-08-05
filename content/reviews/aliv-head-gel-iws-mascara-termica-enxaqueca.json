@@ -20,18 +20,40 @@
   "image": "/images/reviews/iwannasleep/aliv-head-gel-iws-hero.jpg",
   "imageAlt": "Pessoa usando a máscara térmica Aliv Head Gel IWS sobre os olhos",
   "imageFit": "cover",
-  "productSpec": {
-    "name": "Aliv Head Gel IWS",
-    "brand": "I Wanna Sleep",
-    "price": "Consulte preço e disponibilidade na loja oficial",
-    "category": "Bem-estar / Compressa térmica",
-    "highlights": [
-      "Uso frio ou quente conforme as instruções da marca",
-      "Cobertura 360 graus com gel térmico flexível",
-      "Máscara reutilizável em formato de touca",
-      "Limpeza externa com pano úmido"
-    ]
-  },
+  "productSpec": [
+    {
+      "key": "Marca",
+      "value": "I Wanna Sleep"
+    },
+    {
+      "key": "Modelo",
+      "value": "Aliv Head Gel IWS"
+    },
+    {
+      "key": "Tipo",
+      "value": "Máscara Térmica / Compressa para Cabeça e Olhos"
+    },
+    {
+      "key": "Terapia",
+      "value": "Fria (congelador) ou Morna (micro-ondas por 15 a 30s)"
+    },
+    {
+      "key": "Cobertura",
+      "value": "360 graus para testa, têmporas e olhos"
+    },
+    {
+      "key": "Material",
+      "value": "Capa 80% nylon e 20% elastano com gel térmico flexível"
+    },
+    {
+      "key": "Dimensões",
+      "value": "Aproximadamente 16 x 21,5 cm"
+    },
+    {
+      "key": "Higienização",
+      "value": "Limpeza externa com pano umedecido em água"
+    }
+  ],
   "pros": [
     "Uso frio ou quente conforme as instruções da marca",
     "Cobertura que envolve olhos e têmporas",
@@ -59,7 +81,7 @@
       ],
       "links": [
         {
-          "label": "Informacoes e instrucoes do Aliv Head Gel IWS",
+          "label": "Informações e Instruções da Máscara Aliv Head Gel IWS (Loja Oficial)",
           "href": "https://www.iwannasleep.com.br/products/aliv-head-gel-iws"
         }
       ]
@@ -133,5 +155,6 @@
       "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
       "title": "Cobertor IWS Igloo: toque gelado de um lado e aconchego do outro"
     }
-  ]
+  ],
+  "brand": "I Wanna Sleep"
 }
