@@ -37140,18 +37140,18 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Entenda o que é o Adaptador NEO Start, qual a diferença entre cápsulas ORIGINAL e NEO, quais máquinas Dolce Gusto são compatíveis e se vale a pena comprar.",
-    "metaDescription": "Adaptador NEO Start: o que é, quais máquinas são compatíveis, cápsulas NEO compostáveis e se vale a pena comprar para sua Dolce Gusto.",
-    "publishedAt": "Draft",
-    "draft": true,
+    "description": "Guia do Adaptador NEO Start: como usar cápsulas de papel NEO em máquinas Dolce Gusto da linha ORIGINAL (Genio S, Piccolo, Mini Me), compatibilidade e vale a pena.",
+    "metaDescription": "Adaptador NEO Start: o que é, quais máquinas e cápsulas são compatíveis, como funciona a extração e se vale a pena para sua máquina Dolce Gusto.",
+    "publishedAt": "4 de agosto de 2026",
+    "draft": false,
     "pros": [],
     "cons": [],
     "contentSections": [
       {
         "heading": "O Adaptador NEO Start: entendendo o sistema",
         "paragraphs": [
-          "Se você tem uma máquina Dolce Gusto e já ouviu falar em cápsulas NEO, é natural ficar confuso: são sistemas diferentes, e nem toda máquina Dolce Gusto funciona com as duas. O Adaptador NEO Start é justamente a ponte entre esses dois mundos.",
-          "A NESCAFÉ Dolce Gusto no Brasil funciona com dois ecossistemas de cápsulas distintos: o sistema ORIGINAL (usado pelas máquinas mais antigas e populares) e o sistema NEO (mais recente, focado em sustentabilidade). O adaptador permite usar cápsulas NEO em máquinas ORIGINAL — uma solução bem pensada pra quem quer aproveitar os benefícios das cápsulas compostáveis sem trocar de máquina."
+          "Se você possui uma máquina de café NESCAFÉ Dolce Gusto da linha tradicional (ORIGINAL) e deseja experimentar as cápsulas de papel compostáveis da linha NEO, o Adaptador NEO Start é a ponte criada pela marca para viabilizar essa compatibilidade.",
+          "No Brasil, a Dolce Gusto opera com dois ecossistemas de bebidas: o sistema ORIGINAL (máquinas com cápsulas de plástico/alumínio) e o sistema NEO (máquinas com cápsulas de papel compostável de base biológica). O adaptador permite encaixar cápsulas NEO de cafés pretos em modelos da linha ORIGINAL sem precisar comprar uma máquina nova."
         ],
         "bullets": []
       },
@@ -37171,14 +37171,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como funciona o Adaptador NEO Start",
         "paragraphs": [
-          "O Adaptador NEO Start é um acessório simples: um suporte que substitui o suporte de cápsula regular da máquina. Quando você quer usar uma cápsula NEO, você remove o suporte padrão, insere o adaptador no lugar e coloca a cápsula NEO normalmente.",
-          "O modo de uso é direto conforme indicado pela marca: remova o suporte de cápsula regular, insira o Adaptador NEO Start e coloque o café NEO. Para espressos, ajuste a água em 1 'tracinho'; para Lungos, use 4 'tracinhos'. Simples assim — não precisa de ajustes extras na máquina ou nada complicado."
+          "O Adaptador NEO Start é um acessório de encaixe que substitui temporariamente o porta-cápsulas padrão da sua máquina ORIGINAL. Você remove o suporte comum, insere o Adaptador NEO Start e posiciona a cápsula de papel no nicho central.",
+          "Como funciona a extração: nas máquinas ORIGINAL, a extração ocorre utilizando a pressão tradicional de 15 bar e a agulha da máquina (regulando os tracinhos de água recomendados pela marca: 1 tracinho para Espressos e 4 tracinhos para Lungos). Vale lembrar que o adaptador é um suporte físico de compatibilidade — ele não adiciona funções eletrônicas ou a tecnologia Air-Brew nativas da máquina NEO dedicada."
         ],
         "bullets": [
-          "Remove o suporte regular de cápsula da máquina",
-          "Insere o Adaptador NEO Start no mesmo lugar",
-          "Coloca a cápsula NEO e prepara normalmente",
-          "Mais rápido e fácil que você pode estar imaginando"
+          "Substitui o porta-cápsulas tradicional da sua máquina da linha ORIGINAL.",
+          "Posiciona a cápsula de papel NEO perfeitamente centralizada para perfuração segura.",
+          "Regulagem de água sugerida: 1 tracinho para Espressos e 4 tracinhos para Lungos.",
+          "Acessório lavável e reutilizável — insira e remova sempre que quiser alternar entre cápsulas clássicas e NEO.",
+          "Atenção ao manuseio: encaixe o adaptador suavemente sem forçar a alavanca de trava se houver resistência."
         ]
       },
       {
@@ -37246,7 +37247,7 @@ export const reviewsData: unknown[] = [
           "Preciso trocar de máquina para usar cápsulas NEO? Não, se sua máquina está na lista de compatíveis. O adaptador resolve — custa menos que uma máquina nova.",
           "O adaptador muda a qualidade do café? Não. O sabor sai igual — o adaptador é só um suporte, sem interferência no resultado final.",
           "Quantas vezes posso usar o mesmo adaptador? O adaptador é reutilizável. Você tira e coloca quantas vezes quiser — não estraga com o uso normal.",
-          "Tem hedge do cupom CECI? Sim, o cupom CECI funciona no site oficial da Dolce Gusto e aplica 5% de desconto em compras acima de R$ 100, incluindo o adaptador e cápsulas NEO. Mas cupons têm prazo de validade — se não estiver mais ativo quando você for comprar, o link abaixo leva direto pra loja oficial."
+          "Como usar o cupom CECI na compra do adaptador? O cupom CECI pode ser digitado no carrinho de compras na loja oficial da NESCAFÉ Dolce Gusto para obter desconto direto em produtos elegíveis, sujeito às condições vigentes no checkout."
         ]
       }
     ],
@@ -37273,7 +37274,9 @@ export const reviewsData: unknown[] = [
       }
     ],
     "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-2.webp",
-    "imageAlt": "Cecília Mauad com a cafeteira NESCAFÉ Dolce Gusto em casa"
+    "imageAlt": "Cecília Mauad com a cafeteira NESCAFÉ Dolce Gusto em casa",
+    "publishedAtISO": "2026-08-04",
+    "isNew": true
   },
   {
     "id": 247,
