@@ -37023,7 +37023,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Assinatura: Desconto sobre o valor das caixas e frete grátis conforme regras do checkout.",
           "Clube: Acúmulo de pontos cadastrando códigos de 12 dígitos das embalagens.",
-          "Uso combinado: Assinar e cadastrar os códigos garante benefício duplo (desconto no pedido + prêmios futuros).",
+          "Uso combinado: Permite combinar o desconto aplicável no pedido com o acúmulo de pontos, conforme as regras vigentes.",
           "Na 1ª assinatura, 1.000 pontos são creditados no seu saldo do CLUB segundo as regras da marca."
         ],
         "emphasis": "Dúvida frequente: 'Os cupons do site acumulando com a assinatura?' Cupons promocionais comuns do site não acumulam com os 25% OFF da assinatura. Apenas cupons exclusivos criados especificamente para assinantes são aceitos."

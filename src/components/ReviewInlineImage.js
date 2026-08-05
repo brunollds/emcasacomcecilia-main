@@ -17,7 +17,7 @@ function normalizeImages(section, reviewTitle) {
       src: singleSrc,
       alt: (typeof section.image === 'string' ? section.imageAlt : section.image?.alt) || section.heading || reviewTitle,
       caption,
-      fit: fit === 'portrait' ? 'portrait' : fit === 'wide' ? 'wide' : fit === 'square' ? 'square' : fit === 'contain' ? 'contain' : 'cover',
+      fit: fit === 'portrait' ? 'portrait' : fit === 'wide' ? 'wide' : fit === 'panoramic' ? 'panoramic' : fit === 'square' ? 'square' : fit === 'contain' ? 'contain' : 'cover',
     });
   }
 
@@ -27,7 +27,7 @@ function normalizeImages(section, reviewTitle) {
         src: item.src,
         alt: item.alt || section.heading || reviewTitle,
         caption: item.caption,
-        fit: item.objectFit === 'portrait' ? 'portrait' : item.objectFit === 'wide' ? 'wide' : item.objectFit === 'square' ? 'square' : item.objectFit === 'contain' ? 'contain' : 'cover',
+        fit: item.objectFit === 'portrait' ? 'portrait' : item.objectFit === 'wide' ? 'wide' : item.objectFit === 'panoramic' ? 'panoramic' : item.objectFit === 'square' ? 'square' : item.objectFit === 'contain' ? 'contain' : 'cover',
       });
     }
   }
@@ -40,6 +40,7 @@ function InlineImageThumbnail({ image, index, onOpen, sizes }) {
   const isPortrait = image.fit === 'portrait';
   const isContain = image.fit === 'contain';
   const isWide = image.fit === 'wide';
+  const isPanoramic = image.fit === 'panoramic';
   const isSquare = image.fit === 'square';
   const ref = useRef(null);
   const mediaRef = useRef(null);
@@ -110,19 +111,19 @@ function InlineImageThumbnail({ image, index, onOpen, sizes }) {
         ref={mediaRef}
         type="button"
         onClick={(event) => onOpen(index, event.currentTarget)}
-        className={`group relative block w-full overflow-hidden rounded-[1.25rem] transition-[filter,opacity] duration-150 ${(isContain || isWide) ? 'bg-white' : 'bg-[#f4f4f5]'}`}
+        className={`group relative block w-full overflow-hidden rounded-[1.25rem] transition-[filter,opacity] duration-150 ${(isContain || isWide || isPanoramic) ? 'bg-white' : 'bg-[#f4f4f5]'}`}
         aria-label={`Ampliar imagem: ${image.alt}`}
       >
         <div
           className={`relative w-full ${
-            isPortrait ? 'aspect-[9/16]' : isWide ? 'aspect-[4/1]' : isSquare ? 'aspect-square' : 'aspect-video'
+            isPortrait ? 'aspect-[9/16]' : isPanoramic ? 'aspect-[6/1]' : isWide ? 'aspect-[4/1]' : isSquare ? 'aspect-square' : 'aspect-video'
           }`}
         >
           <Image
             src={image.src}
             alt={image.alt}
             fill
-            className={isPortrait || isSquare ? 'object-cover' : (isContain || isWide) ? 'object-contain' : 'object-cover'}
+            className={isPortrait || isSquare ? 'object-cover' : (isContain || isWide || isPanoramic) ? 'object-contain' : 'object-cover'}
             sizes={sizes}
           />
         </div>
