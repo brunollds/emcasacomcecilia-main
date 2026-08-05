@@ -36954,7 +36954,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/dolcegusto/assinatura-dolce-gusto-painel-oficial.webp",
         "imageAlt": "Banner oficial do Plano de Assinaturas NESCAFÉ Dolce Gusto",
-        "imageFit": "contain",
+        "imageFit": "panoramic",
         "emphasis": "A Assinatura é indicada para quem consome café Dolce Gusto com frequência regular. O atendimento ao mínimo de 3 caixas por pedido permite acessar as condições de desconto e frete conforme o regulamento e o checkout oficial.",
         "links": [
           {
