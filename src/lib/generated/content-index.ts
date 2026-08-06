@@ -33849,10 +33849,10 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Análise dos dados públicos da Nestlé Nutre: CNPJ, políticas de entrega, trocas, o Programa Nestlé Nutre e o que observar antes de comprar.",
-    "metaDescription": "A Nestlé Nutre é confiável? Veja CNPJ, políticas de entrega e devolução, o Programa Nestlé Nutre e o que observar antes de comprar no site oficial.",
-    "publishedAt": "Draft",
-    "draft": true,
+    "description": "Análise completa da Nestlé Nutre: CNPJ oficial da Nestlé Brasil, SAC, política de troca/devolução (CDC 7 dias), entregas e o que observar antes de comprar.",
+    "metaDescription": "Nestlé Nutre é confiável? Veja CNPJ oficial, SAC 0800, políticas de troca/devolução, entregas, o Programa Nestlé Nutre e dicas de compra no site oficial.",
+    "publishedAt": "5 de agosto de 2026",
+    "draft": false,
     "image": "/images/reviews/nutren/cupom-ceci-hero.webp",
     "imageAlt": "Família reunida sorrindo ao ar livre — campanha institucional da Nestlé Nutre",
     "imageFit": "cover",
@@ -33899,7 +33899,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e cupom de desconto",
         "paragraphs": [
-          "O Em Casa com Cecília mantém uma parceria comercial com a Nestlé Nutre. Por meio dela, o cupom CECI garante 5% de desconto na maioria dos produtos do site oficial, exceto Alfamino e Alfaré. O desconto é concedido pela marca e não representa custo adicional para quem compra — é uma forma de apoiar o projeto editorial sem pagar nada além do preço do produto."
+          "O Em Casa com Cecília possui parceria comercial com a Nestlé Nutre. Através dessa parceria, o cupom CECI pode conceder 5% de desconto no carrinho em produtos elegíveis do site oficial (exceto fórmulas infantis especiais como Alfamino e Alfaré, conforme regulamento da marca). As condições de desconto, validade e frete dependem das regras vigentes no checkout."
         ],
         "bullets": []
       },
@@ -33911,7 +33911,7 @@ export const reviewsData: unknown[] = [
           "A Nestlé Nutre entrega para todo o Brasil? Sim, as entregas cobrem todo o território nacional, com prazo calculado no checkout conforme o CEP.",
           "Como funciona a devolução na Nestlé Nutre? Segue o CDC: até 7 dias corridos após o recebimento, com o produto na embalagem original e nota fiscal, e frete de retorno custeado pela empresa.",
           "O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde, atendimento nutricional gratuito e um cupom de 10% renovado mensalmente — separado da parceria do cupom CECI com este blog.",
-          "O cupom CECI muda o preço final do produto? Não. O desconto é concedido pela marca e não representa custo adicional para quem compra."
+          "O cupom CECI garante desconto na Nestlé Nutre? O cupom CECI aplica 5% OFF em produtos elegíveis do site oficial no momento da compra, respeitando as exceções e condições vigentes no checkout."
         ]
       }
     ],
@@ -33927,8 +33927,14 @@ export const reviewsData: unknown[] = [
       {
         "slug": "cupom-ceci-nestle-nutre-como-usar",
         "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 5%"
+      },
+      {
+        "slug": "nestle-nutre-produtos-para-que-servem",
+        "title": "Nestlé Nutre: produtos, para que servem e como comprar"
       }
-    ]
+    ],
+    "publishedAtISO": "2026-08-05",
+    "isNew": true
   },
   {
     "id": 224,
