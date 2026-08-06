@@ -111,7 +111,7 @@ function InlineImageThumbnail({ image, index, onOpen, sizes }) {
         ref={mediaRef}
         type="button"
         onClick={(event) => onOpen(index, event.currentTarget)}
-        className={`group relative block w-full overflow-hidden rounded-[1.25rem] transition-[filter,opacity] duration-150 ${(isContain || isWide || isPanoramic) ? 'bg-white' : 'bg-[#f4f4f5]'}`}
+        className="group relative block w-full overflow-hidden rounded-[1.25rem] bg-white transition-[filter,opacity] duration-150"
         aria-label={`Ampliar imagem: ${image.alt}`}
       >
         <div
