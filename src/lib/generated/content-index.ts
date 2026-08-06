@@ -38666,7 +38666,10 @@ export const reviewsData: unknown[] = [
             "label": "Informações e Instruções da Máscara Aliv Head Gel IWS (Loja Oficial)",
             "href": "https://www.iwannasleep.com.br/products/aliv-head-gel-iws"
           }
-        ]
+        ],
+        "image": "/images/reviews/iwannasleep/aliv-head-gel-iws-descanso.webp",
+        "imageAlt": "Pessoa descansando com a máscara térmica Aliv Head Gel IWS cobrindo os olhos",
+        "imageFit": "square"
       },
       {
         "heading": "Como usar frio ou quente com segurança",
@@ -38680,6 +38683,18 @@ export const reviewsData: unknown[] = [
           "Uso quente: aqueça por 15 a 30 segundos e teste antes de usar.",
           "O gel permanece maleável quando resfriado, segundo a marca.",
           "Limpe apenas a parte externa com pano úmido; não mergulhe o produto em água."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/iwannasleep/aliv-head-gel-iws-frio-quente.webp",
+            "alt": "Máscara Aliv Head Gel IWS em composição que representa o uso frio ou quente",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/iwannasleep/aliv-head-gel-iws-uso-quente.webp",
+            "alt": "Pessoa usando a máscara Aliv Head Gel IWS em uma aplicação térmica quente",
+            "objectFit": "square"
+          }
         ]
       },
       {
@@ -38692,7 +38707,10 @@ export const reviewsData: unknown[] = [
           "Formato que envolve olhos e têmporas.",
           "Capa de 80% nylon e 20% elastano, segundo a marca.",
           "Medida aproximada de 16 x 21,5 cm; confira se atende ao seu uso."
-        ]
+        ],
+        "image": "/images/reviews/iwannasleep/aliv-head-gel-iws-cobertura-360.webp",
+        "imageAlt": "Pessoa usando a máscara Aliv Head Gel IWS com ilustração de cobertura ao redor da cabeça",
+        "imageFit": "square"
       },
       {
         "heading": "Conforto térmico: vale a pena?",
