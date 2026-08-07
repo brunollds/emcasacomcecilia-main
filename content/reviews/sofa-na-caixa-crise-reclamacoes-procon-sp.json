@@ -4,15 +4,15 @@
   "title": "O que Aconteceu com a Sofá na Caixa? Crise de Reclamações e Ação do Procon-SP",
   "type": "Investigação",
   "reviewKind": "editorial",
-  "draft": true,
+  "draft": false,
   "description": "Sofá na Caixa virou sucesso viral e depois enfrentou explosão de reclamações. Veja o que motivou a ação do Procon-SP e o que aprender antes de comprar sofá modular online.",
   "seoTitle": "O que Aconteceu com a Sofá na Caixa? Crise de Reclamações e Ação do Procon-SP",
   "metaDescription": "Sofá na Caixa virou sucesso viral e depois enfrentou explosão de reclamações. Veja o que motivou a ação do Procon-SP e o que aprender antes de comprar sofá modular online.",
-  "publishedAt": "02 Ago 2026",
-  "publishedAtISO": "2026-08-02",
+  "publishedAt": "7 de agosto de 2026",
+  "publishedAtISO": "2026-08-07",
   "updatedAt": "2026-08-02",
-  "image": "/images/reviews/sofa-na-caixa-crise-hero.webp",
-  "imageAlt": "Ilustração editorial sobre a crise de reclamações da Sofá na Caixa e a investigação do Procon-SP.",
+  "image": "/images/reviews/damie-reclame-aqui-hero.webp",
+  "imageAlt": "Ilustração editorial sobre a crise de reclamações da Sofá na Caixa e a investigação do Procon-SP",
   "pros": [
     "Canais públicos e gratuitos para reclamar: Procon, Consumidor.gov.br e Reclame Aqui",
     "CDC garante direito à devolução em compras online dentro do prazo legal",
@@ -148,5 +148,7 @@
         "Este é um artigo jornalístico/informativo, não uma comparação promocional. As informações sobre a Sofá na Caixa foram obtidas de fontes públicas — Procon-SP, reportagens do G1/BBC News Brasil e da Exame, e Reclame Aqui — e apresentadas com atribuição de fonte. O parágrafo sobre a Damie contém link de afiliado: ao comprar usando os links indicados, você apoia o Em Casa com Cecília sem custo adicional."
       ]
     }
-  ]
+  ],
+  "isNew": true,
+  "imageFit": "cover"
 }
