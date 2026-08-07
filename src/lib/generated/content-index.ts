@@ -33962,10 +33962,10 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Conheça a linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra, Fortify e Mulher. Veja para que serve cada produto e como comprar com cupom.",
-    "metaDescription": "Conheça a linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra, Fortify e mais. Veja para que serve cada produto, preços aproximados, formas de uso e como comprar com o cupom CECI na loja oficial.",
-    "publishedAt": "Draft",
-    "draft": true,
+    "description": "Guia da linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra, Fortify e Mulher. Entenda a indicação de cada produto, formas de consumo e como comprar.",
+    "metaDescription": "Nestlé Nutre: saiba para que serve cada produto (Nutren Senior, Control, 2.0, Ultra, Fortify), preços indicativos e como usar o cupom CECI na loja oficial.",
+    "publishedAt": "7 de agosto de 2026",
+    "draft": false,
     "image": "/images/reviews/nutren/linha-produtos-hero.webp",
     "imageAlt": "Linha de produtos Nestlé Nutre",
     "imageFit": "cover",
@@ -34017,7 +34017,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comprar e uso responsável",
         "paragraphs": [
-          "Os produtos da linha Nestlé Nutre podem ser adquiridos diretamente no site oficial da marca. Não é necessário receita médica para a compra, mas os itens de nutrição clínica devem ser utilizados conforme a indicação do rótulo e, quando necessário, com orientação de profissional de saúde. O cupom CECI oferece 5% de desconto na loja oficial, com exceção dos produtos Alfamino e Alfaré. Antes de iniciar o uso de qualquer suplemento ou fórmula especializada, recomenda-se a leitura completa das informações nutricionais e a consulta a um nutricionista ou médico, especialmente para pessoas com condições de saúde preexistentes. Os preços mencionados são aproximados e podem variar conforme promoções e disponibilidade de estoque."
+          "Os produtos da linha Nestlé Nutre podem ser adquiridos diretamente no e-commerce oficial da marca. Não é necessária receita médica para a compra, mas itens de nutrição clínica e pediátrica devem ser consumidos conforme a rotulagem e orientação de profissionais de saúde. O cupom CECI pode conceder 5% de desconto em produtos elegíveis no checkout (exceto Alfamino e Alfaré), sujeito às regras da loja oficial. Os preços mencionados são aproximados e dependem da disponibilidade e de campanhas ativas no site."
         ],
         "bullets": []
       },
@@ -34051,10 +34051,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.",
     "relatedArticles": [
       {
+        "slug": "nestle-nutre-e-confiavel",
+        "title": "Nestlé Nutre é confiável? O que observar antes de comprar"
+      },
+      {
         "slug": "cupom-ceci-nestle-nutre-como-usar",
         "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 5%"
       }
-    ]
+    ],
+    "publishedAtISO": "2026-08-07",
+    "isNew": true
   },
   {
     "id": 225,
@@ -34069,10 +34075,10 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Ficha técnica do Nutren Senior Zero Lactose: nutrientes, preço aproximado e orientações de uso. Saiba como comprar com cupom CECI.",
-    "metaDescription": "Veja a ficha técnica completa do Nutren Senior Zero Lactose: nutrientes, preço aproximado, modo de preparo, como usar, onde encontrar e como comprar com o cupom CECI na loja oficial Nestlé Nutre.",
-    "publishedAt": "Draft",
-    "draft": true,
+    "description": "Ficha técnica do Nutren Senior Zero Lactose: composição de nutrientes, modo de preparo, preços e orientações de uso. Veja como comprar com cupom CECI.",
+    "metaDescription": "Nutren Senior Zero Lactose: veja a ficha técnica, nutrientes, modo de preparo passo a passo, preços das versões 370g, 740g e pronta para beber, e cupom CECI na loja oficial.",
+    "publishedAt": "7 de agosto de 2026",
+    "draft": false,
     "image": "/images/reviews/nutren/nutren-senior-hero.webp",
     "imageAlt": "Lata do Nutren Senior Zero Lactose",
     "imageFit": "cover",
@@ -34118,7 +34124,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comprar com cupom",
         "paragraphs": [
-          "O Nutren Senior pode ser adquirido diretamente no site oficial da Nestlé Nutre, sem necessidade de receita médica. No entanto, como produto de nutrição especializada, deve ser utilizado conforme a indicação do rótulo e, quando necessário, com orientação de profissional de saúde. No checkout, é possível aplicar o cupom CECI para obter 5% de desconto sobre o valor do produto. O cupom não é válido para Alfamino e Alfaré, mas funciona normalmente para o Nutren Senior e demais itens da linha. O frete é calculado separadamente e o cupom não é cumulativo com outras promoções ativas no site. A parceria comercial que viabiliza o desconto é mantida de forma recorrente e revisada periodicamente."
+          "O Nutren Senior pode ser adquirido diretamente no site oficial da Nestlé Nutre. No entanto, como produto de nutrição especializada, deve ser utilizado conforme as orientações do rótulo e, quando necessário, com acompanhamento de profissional de saúde. No checkout, é possível testar o cupom CECI para obter 5% de desconto em produtos elegíveis (exceto Alfamino e Alfaré, segundo o regulamento da loja). O frete é calculado separadamente e o desconto aplica-se conforme as regras ativas no site oficial."
         ],
         "bullets": []
       },
@@ -34153,14 +34159,20 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 5%"
-      },
-      {
         "slug": "nestle-nutre-produtos-para-que-servem",
         "title": "Nestlé Nutre: produtos, para que servem e como comprar"
+      },
+      {
+        "slug": "nestle-nutre-e-confiavel",
+        "title": "Nestlé Nutre é confiável? O que observar antes de comprar"
+      },
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar",
+        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 5%"
       }
-    ]
+    ],
+    "publishedAtISO": "2026-08-07",
+    "isNew": true
   },
   {
     "id": 226,

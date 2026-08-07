@@ -11,10 +11,10 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Conheça a linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra, Fortify e Mulher. Veja para que serve cada produto e como comprar com cupom.",
-  "metaDescription": "Conheça a linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra, Fortify e mais. Veja para que serve cada produto, preços aproximados, formas de uso e como comprar com o cupom CECI na loja oficial.",
-  "publishedAt": "Draft",
-  "draft": true,
+  "description": "Guia da linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra, Fortify e Mulher. Entenda a indicação de cada produto, formas de consumo e como comprar.",
+  "metaDescription": "Nestlé Nutre: saiba para que serve cada produto (Nutren Senior, Control, 2.0, Ultra, Fortify), preços indicativos e como usar o cupom CECI na loja oficial.",
+  "publishedAt": "7 de agosto de 2026",
+  "draft": false,
   "image": "/images/reviews/nutren/linha-produtos-hero.webp",
   "imageAlt": "Linha de produtos Nestlé Nutre",
   "imageFit": "cover",
@@ -66,7 +66,7 @@
     {
       "heading": "Como comprar e uso responsável",
       "paragraphs": [
-        "Os produtos da linha Nestlé Nutre podem ser adquiridos diretamente no site oficial da marca. Não é necessário receita médica para a compra, mas os itens de nutrição clínica devem ser utilizados conforme a indicação do rótulo e, quando necessário, com orientação de profissional de saúde. O cupom CECI oferece 5% de desconto na loja oficial, com exceção dos produtos Alfamino e Alfaré. Antes de iniciar o uso de qualquer suplemento ou fórmula especializada, recomenda-se a leitura completa das informações nutricionais e a consulta a um nutricionista ou médico, especialmente para pessoas com condições de saúde preexistentes. Os preços mencionados são aproximados e podem variar conforme promoções e disponibilidade de estoque."
+        "Os produtos da linha Nestlé Nutre podem ser adquiridos diretamente no e-commerce oficial da marca. Não é necessária receita médica para a compra, mas itens de nutrição clínica e pediátrica devem ser consumidos conforme a rotulagem e orientação de profissionais de saúde. O cupom CECI pode conceder 5% de desconto em produtos elegíveis no checkout (exceto Alfamino e Alfaré), sujeito às regras da loja oficial. Os preços mencionados são aproximados e dependem da disponibilidade e de campanhas ativas no site."
       ],
       "bullets": []
     },
@@ -100,8 +100,14 @@
   "editorialNote": "Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.",
   "relatedArticles": [
     {
+      "slug": "nestle-nutre-e-confiavel",
+      "title": "Nestlé Nutre é confiável? O que observar antes de comprar"
+    },
+    {
       "slug": "cupom-ceci-nestle-nutre-como-usar",
       "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 5%"
     }
-  ]
+  ],
+  "publishedAtISO": "2026-08-07",
+  "isNew": true
 }
