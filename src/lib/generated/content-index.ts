@@ -33856,6 +33856,7 @@ export const reviewsData: unknown[] = [
     "image": "/images/reviews/nutren/nestle-nutre-hero.webp",
     "imageAlt": "Catálogo de marcas e linhas da Nestlé Nutre, incluindo Nutren, Isosource e Modulen",
     "imageFit": "cover",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -33884,7 +33885,7 @@ export const reviewsData: unknown[] = [
       {
         "image": "/images/reviews/nutren/nestle-nutre-linha-senior.webp",
         "imageAlt": "Linha Nutren Senior apresentada em material institucional da Nestlé Nutre",
-        "imageFit": "wide",
+        "imageFit": "contain",
         "imageCaption": "Exemplo de uma das linhas disponíveis na loja oficial; confira produtos, preços e condições vigentes diretamente no checkout."
       },
       {
