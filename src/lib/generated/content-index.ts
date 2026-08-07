@@ -33853,8 +33853,8 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Nestlé Nutre é confiável? Veja CNPJ oficial, SAC 0800, políticas de troca/devolução, entregas, o Programa Nestlé Nutre e dicas de compra no site oficial.",
     "publishedAt": "5 de agosto de 2026",
     "draft": false,
-    "image": "/images/reviews/nutren/cupom-ceci-hero.webp",
-    "imageAlt": "Família reunida sorrindo ao ar livre — campanha institucional da Nestlé Nutre",
+    "image": "/images/reviews/nutren/nestle-nutre-hero.webp",
+    "imageAlt": "Catálogo de marcas e linhas da Nestlé Nutre, incluindo Nutren, Isosource e Modulen",
     "imageFit": "cover",
     "pros": [],
     "cons": [],
@@ -33865,7 +33865,10 @@ export const reviewsData: unknown[] = [
           "A Nestlé Nutre é a loja oficial de e-commerce da Nestlé Health Science no Brasil, operada sob o CNPJ 60.409.075/0001-52, o mesmo registrado pela Nestlé Brasil Ltda. Não é uma empresa independente ou recém-criada: é o canal de venda direta ao consumidor de uma das maiores multinacionais de alimentos e nutrição do mundo, o que já traz um primeiro nível de segurança jurídica e financeira para quem compra.",
           "O atendimento ao cliente é feito por telefone (0800 770 2461), WhatsApp (11 97893 1273) e por um assistente virtual chamado Nina, disponível no próprio site. O domínio oficial é nestlenutre.com.br, e o site exibe certificado de segurança SSL."
         ],
-        "bullets": []
+        "bullets": [],
+        "image": "/images/reviews/nutren/nestle-nutre-identidade-institucional.webp",
+        "imageAlt": "Identidade visual da Nestlé Nutre como canal de soluções nutricionais",
+        "imageFit": "contain"
       },
       {
         "heading": "Catálogo e posicionamento de mercado",
@@ -33873,7 +33876,16 @@ export const reviewsData: unknown[] = [
           "O catálogo da Nestlé Nutre é dividido em quatro grandes frentes: Suplementação (linha Nutren, vitaminas, proteínas), Nutrição Clínica (Isosource, Modulen, Peptamen, ThickenUp Clear), Nutrição Pediátrica (Alfamino, Alfaré — fórmulas para necessidades específicas de bebês e crianças) e Envelhecimento Saudável, o segmento onde a linha Nutren Senior se encaixa. O mesmo e-commerce também vende marcas parceiras como Sundown, Pure Encapsulations e Vital Proteins, ampliando a variedade sem sair do mesmo checkout.",
           "Um diferencial pouco conhecido é o Programa Nestlé Nutre, um serviço de suporte ao paciente com conteúdo sobre disfagia, obesidade, nutrição enteral e cirurgia, além de um cupom de 10% renovado todo mês e atendimento nutricional gratuito por chat (em parceria com a Becare). É um programa separado da nossa parceria com o cupom CECI, mas vale conhecer se você ou alguém da família usa produtos da linha com frequência."
         ],
-        "bullets": []
+        "bullets": [],
+        "image": "/images/reviews/nutren/nestle-nutre-vitrine-oficial.webp",
+        "imageAlt": "Vitrine da loja oficial Nestlé Nutre com produtos e opções de compra",
+        "imageFit": "portrait"
+      },
+      {
+        "image": "/images/reviews/nutren/nestle-nutre-linha-senior.webp",
+        "imageAlt": "Linha Nutren Senior apresentada em material institucional da Nestlé Nutre",
+        "imageFit": "wide",
+        "imageCaption": "Exemplo de uma das linhas disponíveis na loja oficial; confira produtos, preços e condições vigentes diretamente no checkout."
       },
       {
         "heading": "Políticas de compra e pós-venda",
