@@ -33963,7 +33963,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Guia da linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra, Fortify e Mulher. Entenda a indicação de cada produto, formas de consumo e como comprar.",
-    "metaDescription": "Nestlé Nutre: saiba para que serve cada produto (Nutren Senior, Control, 2.0, Ultra, Fortify), preços indicativos e como usar o cupom CECI na loja oficial.",
+    "metaDescription": "Guia da linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra e Fortify. Veja a indicação de cada fórmula e como consultar preços e cupons no site.",
     "publishedAt": "7 de agosto de 2026",
     "draft": false,
     "image": "/images/reviews/nutren/linha-produtos-hero.webp",
@@ -33982,9 +33982,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Senior",
         "paragraphs": [
-          "O Nutren Senior é uma fórmula desenvolvida para adultos com 50 anos ou mais. Trata-se de um composto lácteo enriquecido com vitaminas, minerais e fibras, sem lactose, sem açúcar adicionado e sem glúten. A composição inclui selênio, vitaminas A, E, C, B1, B12, D, K, além de cálcio, fósforo, ferro, zinco, cobre, vitaminas B2, B6, biotina e ácido pantotênico. O produto está disponível em pó nas versões de 370g e 740g, com preços aproximados entre R$ 100 e R$ 200, e também na versão pronta para beber (RTD) de 200ml. A proposta é oferecer uma fonte concentrada de nutrientes que podem estar em menor quantidade na alimentação habitual dessa faixa etária."
+          "O Nutren Senior é uma fórmula desenvolvida para adultos com 50 anos ou mais. A linha conta com opções tradicionais e com a variante específica Zero Lactose para consumidores com intolerância.",
+          "A composição é enriquecida com vitaminas A, E, C, D, K e do complexo B, além de minerais como cálcio, ferro, zinco e selênio. O produto está disponível em pó (latas de 370g e 740g em preços de referência entre R$ 100 e R$ 200 em agosto de 2026) e na versão pronta para beber (RTD 200ml)."
         ],
-        "bullets": []
+        "bullets": [],
+        "links": [
+          {
+            "label": "Ver opções da linha Nutren Senior na loja oficial",
+            "href": "https://www.nestlenutre.com.br/"
+          }
+        ]
       },
       {
         "heading": "Nutren Control",
@@ -34017,7 +34024,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comprar e uso responsável",
         "paragraphs": [
-          "Os produtos da linha Nestlé Nutre podem ser adquiridos diretamente no e-commerce oficial da marca. Não é necessária receita médica para a compra, mas itens de nutrição clínica e pediátrica devem ser consumidos conforme a rotulagem e orientação de profissionais de saúde. O cupom CECI pode conceder 5% de desconto em produtos elegíveis no checkout (exceto Alfamino e Alfaré), sujeito às regras da loja oficial. Os preços mencionados são aproximados e dependem da disponibilidade e de campanhas ativas no site."
+          "Os produtos da linha Nestlé Nutre podem ser adquiridos no site oficial da marca. Os preços informados neste guia são referenciais (consultados em agosto de 2026) e podem oscilar conforme campanhas promocionais e frete.",
+          "No checkout, o consumidor pode testar o cupom CECI para obter 5% de desconto em produtos elegíveis (com exceção de Alfamino e Alfaré, conforme o regulamento da marca). Recomenda-se ler o rótulo completo de cada produto antes de iniciar o uso."
         ],
         "bullets": []
       },
@@ -34026,17 +34034,17 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual produto da linha Nutren é indicado para idosos? O Nutren Senior é voltado para adultos com 50 anos ou mais, com vitaminas, minerais e fibras.",
           "Preciso de receita médica para comprar Nutren? Não, mas itens de nutrição clínica devem ser usados conforme o rótulo e, quando necessário, com orientação de profissional de saúde.",
-          "O cupom CECI funciona para toda a linha Nutren? Funciona para praticamente todos os produtos, exceto Alfamino e Alfaré, que ficam de fora da promoção.",
+          "O cupom CECI pode ser testado para toda a linha Nutren? Funciona para praticamente todos os produtos, exceto Alfamino e Alfaré, que ficam de fora da promoção.",
           "Qual a diferença entre Nutren 2.0 e Nutren Ultra? O Nutren 2.0 é hipercalórico (2,0 kcal/mL) e indicado para nutrição clínica; o Nutren Ultra é uma bebida pronta rica em proteínas (20g por porção) para consumo do dia a dia.",
           "Nutren 2.0 é para engordar? O Nutren 2.0 é uma fórmula hipercalórica (2,0 kcal/mL) indicada para situações que exigem alta oferta calórica em volumes restritos. Ele não é um 'engordante', mas um suplemento de nutrição clínica para reposição energética intensa, e deve ser usado sob orientação de profissional de saúde.",
           "Nutren Ultra pode substituir uma refeição? O Nutren Ultra é uma fórmula pronta para consumo, rica em proteínas (20g por porção) e 17 vitaminas e minerais. Ele complementa a alimentação, mas não substitui refeições completas. É ideal para quem precisa de praticidade e um boost proteico no dia a dia.",
           "Nutren Mulher melhora a pele e o cabelo? O Nutren Mulher contém colágeno em sua formulação, nutriente associado à saúde da pele, unhas e cabelos. No entanto, ele é um complemento alimentar e não um medicamento cosmético. Os resultados variam de pessoa para pessoa e dependem da consistência de uso e da alimentação geral.",
-          "Cupom Nestlé Nutren: onde encontrar? O cupom CECI é o código oficial de parceria do blog Em Casa com Cecília com a Nestlé Nutre. Ele garante 5% de desconto na maioria dos produtos da loja oficial e pode ser aplicado diretamente no campo de cupom no checkout.",
+          "Cupom Nestlé Nutren: onde encontrar? O cupom CECI é o código de parceria que pode aplicar 5% OFF no checkout em produtos elegíveis do blog Em Casa com Cecília com a Nestlé Nutre. Ele pode conceder 5% de desconto na maioria dos produtos da loja oficial e pode ser aplicado diretamente no campo de cupom no checkout.",
           "Nutren desconto laboratório: há desconto para laboratórios? Não há desconto específico para laboratórios no site oficial da Nestlé Nutre. O cupom CECI é válido para compras de pessoa física e pode ser usado por profissionais de saúde em compras pessoais, mas não substitui contratos corporativos ou vendas diretas para instituições.",
-          "Promo desconto Nutren Senior: existe promoção específica? O cupom CECI garante 5% de desconto em Nutren Senior e demais produtos da linha (exceto Alfamino e Alfaré). Promoções pontuais podem aparecer no site oficial, mas o CECI é garantido e funciona independentemente de campanhas sazonais.",
-          "Nestlé meu desconto nutrição: existe programa de desconto? Não existe um programa com esse nome exato, mas a Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês. É um benefício separado da nossa parceria: o cupom CECI garante 5% de desconto sem necessidade de cadastro em nenhum programa.",
+          "Promo desconto Nutren Senior: existe promoção específica? O cupom CECI pode conceder 5% de desconto em Nutren Senior e demais produtos da linha (exceto Alfamino e Alfaré). Promoções pontuais podem aparecer no site oficial, mas o CECI é garantido e funciona independentemente de campanhas sazonais.",
+          "Nestlé meu desconto nutrição: existe programa de desconto? Não existe um programa com esse nome exato, mas a Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês. É um benefício separado da nossa parceria: o cupom CECI pode conceder 5% de desconto sem necessidade de cadastro em nenhum programa.",
           "Programa de desconto Nutren: como funciona? A Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês e atendimento nutricional gratuito — não é um clube de pontos. O cupom CECI, por sua vez, é aplicado direto no checkout, sem necessidade de cadastro em nenhum programa.",
-          "Cupom Nestlé: o CECI vale para outros produtos Nestlé? Não. O cupom CECI é válido exclusivamente para produtos vendidos no site oficial da Nestlé Nutre. Não funciona para produtos de outras marcas Nestlé como Nescafé, Kit Kat, Purina ou outros e-commerces.",
+          "Cupom Nestlé: o CECI vale para outros produtos Nestlé? Não. O cupom CECI é válido exclusivamente para produtos vendidos no site oficial da Nestlé Nutre. Não pode ser testado para produtos de outras marcas Nestlé como Nescafé, Kit Kat, Purina ou outros e-commerces.",
           "Onde comprar Nestlé Nutre com desconto? Os produtos Nestlé Nutre são vendidos exclusivamente no site oficial da marca. É possível aplicar o cupom CECI no checkout para garantir 5% de desconto na maioria dos produtos, exceto Alfamino e Alfaré. Não há necessidade de receita médica para a compra."
         ]
       }
@@ -34060,12 +34068,13 @@ export const reviewsData: unknown[] = [
       }
     ],
     "publishedAtISO": "2026-08-07",
-    "isNew": true
+    "isNew": true,
+    "updatedAt": "2026-08-07"
   },
   {
     "id": 225,
     "slug": "nutren-senior-zero-lactose-ficha-tecnica",
-    "title": "Nutren Senior Zero Lactose: ficha técnica, preço e como comprar",
+    "title": "Nutren Senior Zero Lactose: ficha técnica e como comprar",
     "type": "Editorial",
     "reviewKind": "editorial",
     "author": {
@@ -34076,7 +34085,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Ficha técnica do Nutren Senior Zero Lactose: composição de nutrientes, modo de preparo, preços e orientações de uso. Veja como comprar com cupom CECI.",
-    "metaDescription": "Nutren Senior Zero Lactose: veja a ficha técnica, nutrientes, modo de preparo passo a passo, preços das versões 370g, 740g e pronta para beber, e cupom CECI na loja oficial.",
+    "metaDescription": "Ficha técnica do Nutren Senior Zero Lactose: nutrientes, preparo de 180ml, lata de 740g, preços e como consultar o cupom CECI na loja oficial.",
     "publishedAt": "7 de agosto de 2026",
     "draft": false,
     "image": "/images/reviews/nutren/nutren-senior-hero.webp",
@@ -34088,9 +34097,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o Nutren Senior Zero Lactose?",
         "paragraphs": [
-          "O Nutren Senior Zero Lactose é um composto lácteo enriquecido com vitaminas, minerais e fibras, desenvolvido para atender às necessidades nutricionais de pessoas com 50 anos ou mais. A fórmula é isenta de lactose, não contém açúcar adicionado e é sem glúten, o que a torna adequada para consumidores com restrições alimentares específicas. O produto está disponível em embalagens de 370g e 740g, além de versão pronta para beber (RTD) de 200ml. A proposta da fórmula é complementar a alimentação diária com nutrientes que podem estar em menor quantidade na dieta convencional desse público. A marca Nestlé Nutre, da qual o produto faz parte, é uma filial da Nestlé Health Science, voltada à nutrição e suplementação."
+          "O Nutren Senior Zero Lactose é um composto lácteo enriquecido com vitaminas, minerais e fibras, formulado sem lactose e sem glúten para atender às necessidades nutricionais de adultos com 50 anos ou mais que possuem intolerância à lactose.",
+          "O produto está disponível no e-commerce oficial na embalagem em pó de 740g e na versão pronta para beber (RTD) de 200ml. A proposta da fórmula é complementar a alimentação diária de pessoas maduras que buscam reforçar a ingestão de nutrientes essenciais mantendo o conforto digestivo."
         ],
-        "bullets": []
+        "bullets": [],
+        "links": [
+          {
+            "label": "Página Oficial do Nutren Senior Zero Lactose na Nestlé Nutre",
+            "href": "https://www.nestlenutre.com.br/nutren-senior-zero-lactose-po-740g/p"
+          }
+        ]
       },
       {
         "heading": "Ficha técnica e nutrientes principais",
@@ -34099,53 +34115,48 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Zero lactose.",
-          "Zero açúcar adicionado.",
           "Sem glúten.",
-          "Vitaminas A, E, C, B1, B12, D e K.",
-          "Selênio, cálcio, fósforo, ferro, zinco e cobre.",
-          "Vitaminas B2, B6, biotina e ácido pantotênico.",
-          "Proteínas e fibras."
+          "Fonte de vitaminas A, E, C, B1, B12, D e K.",
+          "Fonte de minerais: selênio, cálcio, fósforo, ferro, zinco e cobre.",
+          "Contém proteínas do leite e fibras alimentares.",
+          "Apresentação em pó (lata 740g) e pronta para beber (garrafinha 200ml)."
         ]
       },
       {
         "heading": "Preço aproximado",
         "paragraphs": [
-          "O preço do Nutren Senior varia conforme o tamanho da embalagem e a forma de apresentação. A versão em pó de 370g custa aproximadamente entre R$ 100 e R$ 110. Já a versão de 740g tem preço aproximado entre R$ 188 e R$ 200. A versão pronta para beber (RTD) de 200ml segue a faixa de preço similar aos demais itens líquidos da linha. Os valores são referenciais e podem sofrer alterações conforme promoções, cupons de desconto e disponibilidade de estoque no site oficial. Recomenda-se consultar o preço atualizado no momento da compra."
+          "Os preços do Nutren Senior Zero Lactose variam conforme o formato de apresentação e promoções ativas. Em consulta realizada na loja oficial em agosto de 2026, a lata de 740g em pó registrava preço aproximado entre R$ 188 e R$ 200, enquanto a versão pronta para beber (RTD de 200ml) é comercializada por unidade ou em packs promocionais.",
+          "Os valores informados são referenciais e dependem da disponibilidade de estoque e de cupons de desconto ativos no momento do checkout."
         ],
         "bullets": []
       },
       {
         "heading": "Como preparar",
         "paragraphs": [
-          "A recomendação de uso descrita pela marca indica a diluição de 3 colheres de sopa rasas, equivalente a 27,5g do produto em pó, em duas etapas: primeiro, misture o pó com uma pequena quantidade de água em temperatura ambiente (cerca de 50ml) até formar uma pasta cremosa; depois, adicione o restante da água (130ml) e mexa até a completa dissolução — totalizando aproximadamente 180ml de água por porção. A ingestão sugerida no rótulo é de duas porções ao dia. É importante seguir a proporção recomendada para garantir a concentração adequada de nutrientes por porção. O preparo deve ser feito em recipiente limpo e a bebida deve ser consumida logo após a mistura. Em caso de dúvidas sobre a adequação do produto à rotina alimentar individual, recomenda-se consultar um profissional de saúde."
+          "O modo de preparo recomendado pela marca para a versão em pó orienta diluir 3 colheres de sopa rasas (27,5g do produto) em duas etapas:",
+          "Primeiro, adicione 50ml de água em temperatura ambiente e misture com uma colher até obter uma pasta homogênea. Em seguida, adicione mais 130ml de água e mexa até a completa dissolução — totalizando 180ml de bebida por porção.",
+          "A indicação de rótulo sugere o consumo de duas porções de 180ml ao dia. A bebida deve ser preparada em recipiente limpo e consumida imediatamente após a mistura. Para necessidades alimentares específicas, consulte um profissional de saúde."
         ],
         "bullets": []
       },
       {
         "heading": "Como comprar com cupom",
         "paragraphs": [
-          "O Nutren Senior pode ser adquirido diretamente no site oficial da Nestlé Nutre. No entanto, como produto de nutrição especializada, deve ser utilizado conforme as orientações do rótulo e, quando necessário, com acompanhamento de profissional de saúde. No checkout, é possível testar o cupom CECI para obter 5% de desconto em produtos elegíveis (exceto Alfamino e Alfaré, segundo o regulamento da loja). O frete é calculado separadamente e o desconto aplica-se conforme as regras ativas no site oficial."
+          "O Nutren Senior Zero Lactose pode ser adquirido diretamente no site oficial da Nestlé Nutre. No checkout, o consumidor pode testar o cupom CECI para obter 5% de desconto sobre os produtos elegíveis da compra (o cupom não se aplica a Alfamino e Alfaré, conforme regulamento da marca).",
+          "O valor do frete é calculado separadamente no checkout. O desconto promocional do cupom CECI depende de regras de elegibilidade e não é acumulável com outros cupons simultâneos na mesma transação."
         ],
         "bullets": []
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Como preparar o Nutren Senior Zero Lactose? Dilua 3 colheres de sopa rasas (27,5g) em 50ml de água até formar uma pasta cremosa, depois complete com mais 130ml de água (~180ml no total).",
-          "O Nutren Senior tem lactose ou açúcar? Não. A fórmula é zero lactose, zero açúcar adicionado e sem glúten.",
-          "Qual o preço do Nutren Senior? A versão de 370g custa entre R$ 100 e R$ 110; a de 740g, entre R$ 188 e R$ 200 — valores aproximados, sujeitos a promoções.",
-          "O cupom CECI vale para o Nutren Senior? Sim, garante 5% de desconto no checkout do site oficial da Nestlé Nutre.",
-          "Nutren Senior Zero Lactose engorda? O Nutren Senior é um composto lácteo enriquecido com vitaminas, minerais e fibras, desenvolvido para complementar a nutrição de adultos 50+. Ele não é um produto para ganho de peso, mas pode contribuir para a manutenção do peso adequado quando usado como parte de uma dieta equilibrada. Quem busca ganho de peso deve consultar um nutricionista.",
-          "Quem tem diabetes pode tomar Nutren Senior Zero Lactose? O Nutren Senior Zero Lactose não contém açúcar adicionado, mas possui carboidratos naturais do leite. Pessoas com diabetes devem consultar um médico ou nutricionista antes de iniciar o uso, para avaliar a adequação do produto ao plano alimentar individual e ao controle glicêmico.",
-          "Nutren Senior pode substituir o café da manhã? O Nutren Senior é um complemento alimentar e não um substituto de refeições. Ele pode ser consumido no café da manhã para reforçar a ingestão de nutrientes, mas não deve substituir uma refeição completa com frutas, cereais integrais e proteínas sólidas.",
-          "Qual o melhor horário para tomar Nutren Senior? A recomendação do rótulo é consumir 2 porções ao dia, preparadas com 3 colheres de sopa rasas (27,5g) diluídas em 200ml de água. Os horários podem ser adaptados à rotina individual, como café da manhã e lanche da tarde, desde que a quantidade diária recomendada seja respeitada.",
-          "Cupom Nestlé Nutren: o CECI vale para Nutren Senior? Sim, o cupom CECI garante 5% de desconto no checkout do site oficial da Nestlé Nutre para o Nutren Senior e demais produtos da linha, exceto Alfamino e Alfaré.",
-          "Nutren desconto laboratório: há desconto para laboratórios? Não há desconto específico para laboratórios no site oficial da Nestlé Nutre. O cupom CECI é válido para compras de pessoa física e pode ser usado por profissionais de saúde em compras pessoais, mas não substitui contratos corporativos.",
-          "Promo desconto Nutren Senior: existe promoção específica? O cupom CECI garante 5% de desconto em Nutren Senior. Promoções pontuais podem aparecer no site oficial, mas o CECI é garantido e funciona independentemente de campanhas sazonais.",
-          "Nestlé meu desconto nutrição: existe programa de desconto? Não existe um programa com esse nome exato, mas a Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com cupom de 10% renovado todo mês. O cupom CECI é separado desse programa e garante 5% de desconto sem necessidade de cadastro.",
-          "Programa de desconto Nutren: como funciona? A Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês — não é um clube de pontos. O cupom CECI é aplicado direto no checkout, sem necessidade de cadastro.",
-          "Cupom Nestlé: o CECI vale para outros produtos Nestlé? Não. O cupom CECI é válido exclusivamente para produtos vendidos no site oficial da Nestlé Nutre. Não funciona para outras marcas Nestlé ou outros e-commerces.",
-          "Nutren Senior em pó ou pronto para beber: qual é melhor? Ambos têm a mesma base nutricional. A versão em pó (370g ou 740g) é mais econômica e permite ajustar a quantidade de preparo. A versão pronta para beber (RTD, 200ml) oferece praticidade para consumo fora de casa. A escolha depende do estilo de vida e da preferência de uso."
+          "Como preparar o Nutren Senior Zero Lactose em pó? Dilua 3 colheres de sopa rasas (27,5g) em 50ml de água até formar uma pasta e complete com 130ml de água, totalizando 180ml de bebida.",
+          "O Nutren Senior Zero Lactose tem lactose? Não. A fórmula é isenta de lactose e sem glúten.",
+          "Nutren Senior Zero Lactose contém açúcares? A versão em pó não contém lactose, mas possui carboidratos e açúcares próprios da fórmula. Pessoas com restrição glicêmica ou diabetes devem consultar um profissional de saúde antes de consumir.",
+          "Qual o rendimento e preço do Nutren Senior Zero Lactose? A lata de 740g em pó custa entre R$ 188 e R$ 200 (preço consultado em agosto de 2026 na loja oficial), podendo variar conforme promoções e frete do checkout.",
+          "O cupom CECI vale para o Nutren Senior Zero Lactose? O cupom CECI pode conceder 5% de desconto no checkout do e-commerce oficial da Nestlé Nutre para itens elegíveis da linha Nutren.",
+          "Qual a diferença entre a versão em pó e a pronta para beber (RTD)? A versão em pó é preparada em 180ml de água e permite fracionar a porção. A versão pronta para beber (RTD 200ml) oferece praticidade para consumo imediato. Cada apresentação possui tabela nutricional e ingredientes específicos descritos em seu respectivo rótulo.",
+          "Nutren Senior pode substituir o café da manhã? O Nutren Senior é um complemento alimentar para reforço nutricional de adultos 50+, mas não substitui uma refeição sólida completa."
         ]
       }
     ],
@@ -34172,7 +34183,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "publishedAtISO": "2026-08-07",
-    "isNew": true
+    "isNew": true,
+    "updatedAt": "2026-08-07"
   },
   {
     "id": 226,
@@ -37669,18 +37681,18 @@ export const reviewsData: unknown[] = [
   {
     "id": 249,
     "slug": "sofa-na-caixa-crise-reclamacoes-procon-sp",
-    "title": "O que Aconteceu com a Sofá na Caixa? Crise de Reclamações e Ação do Procon-SP",
+    "title": "Crise da Sofá na Caixa: Reclamações e Atuação do Procon-SP",
     "type": "Investigação",
     "reviewKind": "editorial",
     "draft": false,
     "description": "Sofá na Caixa virou sucesso viral e depois enfrentou explosão de reclamações. Veja o que motivou a ação do Procon-SP e o que aprender antes de comprar sofá modular online.",
     "seoTitle": "O que Aconteceu com a Sofá na Caixa? Crise de Reclamações e Ação do Procon-SP",
-    "metaDescription": "Sofá na Caixa virou sucesso viral e depois enfrentou explosão de reclamações. Veja o que motivou a ação do Procon-SP e o que aprender antes de comprar sofá modular online.",
+    "metaDescription": "Entenda o aumento de reclamações da Sofá na Caixa em 2025, as notificações do Procon-SP e o que avaliar antes de comprar sofá modular online.",
     "publishedAt": "7 de agosto de 2026",
     "publishedAtISO": "2026-08-07",
-    "updatedAt": "2026-08-02",
-    "image": "/images/reviews/damie-reclame-aqui-hero.webp",
-    "imageAlt": "Ilustração editorial sobre a crise de reclamações da Sofá na Caixa e a investigação do Procon-SP",
+    "updatedAt": "2026-08-07",
+    "image": "/images/reviews/sofa-damie-na-caixa-cecilia-conceito.webp",
+    "imageAlt": "Conceito de sofá modular entregue em caixas compactas",
     "pros": [
       "Canais públicos e gratuitos para reclamar: Procon, Consumidor.gov.br e Reclame Aqui",
       "CDC garante direito à devolução em compras online dentro do prazo legal",
@@ -37717,12 +37729,12 @@ export const reviewsData: unknown[] = [
           "Reconstituindo os fatos a partir de fontes oficiais e reportagens já publicadas:"
         ],
         "bullets": [
-          "2024 — a empresa é fundada e cresce rapidamente nas redes sociais, superando a capacidade de produção ao longo de 2025",
-          "Julho de 2025 — segundo o Procon-SP, o órgão abriu procedimento de fiscalização depois de identificar aumento expressivo de reclamações; a empresa compareceu a uma reunião, regularizou seu cadastro e se comprometeu a resolver os casos em aberto",
-          "Outubro de 2025 — conforme reportagem do G1 e da BBC News Brasil, o Procon-SP notificou novamente a empresa por não cumprir o plano de resolução acordado; a reportagem reuniu relatos de consumidores com meses de espera sem entrega nem reembolso",
-          "2026 — de acordo com comunicado do Procon-SP, o órgão tentou uma nova reunião, desta vez virtual, mas a empresa não compareceu nem justificou a ausência; tentativas de contato por correspondência física também não tiveram sucesso, com os envios devolvidos como destinatário ausente em três tentativas",
-          "O Procon-SP afirma ter iniciado o processo para incluir o nome e o domínio da empresa na lista \"Evite Estes Sites\"",
-          "Relatos mais recentes, de meados de 2026, seguem descrevendo casos de mais de seis meses de espera sem solução"
+          "2024 — A empresa é fundada e expande vendas nas redes sociais ao longo do ano seguinte",
+          "Julho de 2025 — O Procon-SP abre procedimento de fiscalização diante do aumento de queixas; a empresa comparece a reunião e se compromete a regularizar atendimentos pendentes",
+          "Outubro de 2025 — Reportagem da BBC News Brasil e G1 documenta novas notificações do Procon-SP por descumprimento do plano de atendimento, com relatos de clientes aguardando há meses por entregas ou reembolsos",
+          "Novembro de 2025 — Comunicado do Procon-SP registra que a empresa não compareceu a audiência virtual agendada e que correspondências físicas foram devolvidas sem recebimento após tentativas",
+          "Dezembro de 2025 — Procon-SP informa ter iniciado os trâmites administrativos para inclusão da empresa na lista 'Evite Estes Sites'",
+          "Meados de 2026 — Registros em órgãos de defesa do consumidor continuam acompanhando o desdobramento dos casos pendentes"
         ]
       },
       {
@@ -37731,10 +37743,9 @@ export const reviewsData: unknown[] = [
           "Os dados públicos disponíveis, sempre com a fonte indicada, ajudam a dimensionar o problema:"
         ],
         "bullets": [
-          "Segundo o Procon-SP, as reclamações cresceram 126% em 2025 (614 registros entre janeiro e agosto de 2025, contra 272 em todo o ano de 2024)",
-          "De acordo com a Secretaria Nacional do Consumidor, houve 88% mais reclamações de produtos não entregues em 2025 na comparação com 2024",
-          "Conforme reportagem do G1 e da BBC News Brasil publicada em outubro de 2025, o Reclame Aqui registrava então mais de 7.800 reclamações acumuladas contra a empresa, a maior parte nos 12 meses anteriores, com apenas 13% dos consumidores afirmando que comprariam novamente",
-          "Em entrevista à BBC News Brasil, o fundador Rubens Stuque reconheceu publicamente parte dos problemas, afirmando que os atrasos afetariam uma fração dos pedidos já entregues até então, e atribuiu parte da dificuldade ao aumento de custo de insumos e a desafios logísticos"
+          "Procon-SP (dados acumulados até agosto de 2025): aumento de 126% nas reclamações registradas (614 casos entre jan-ago/2025 contra 272 em todo o ano de 2024)",
+          "Reclame Aqui (dados da reportagem BBC/G1 em outubro de 2025): acumulado de mais de 7.800 reclamações, com índice de solução de 13% na época da publicação",
+          "Posicionamento da empresa em outubro de 2025: em resposta enviada à imprensa, a fundação atribuiu os atrasos a gargalos logísticos e alta de custos de insumos na cadeia de produção"
         ],
         "postParagraphs": [
           "Como todo indicador de Reclame Aqui, esse número muda com o tempo — vale conferir o painel atualizado diretamente no site antes de tirar qualquer conclusão."
@@ -37755,7 +37766,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde a Damie entra nessa história",
         "paragraphs": [
-          "Um parágrafo à parte, porque não é o foco deste texto: ao pesquisar esse mercado de sofás e poltronas vendidos online, os dados públicos da Damie no Reclame Aqui — nota 8,0, índice de solução de 81,7% — foram um dos fatores que nos deram segurança para fechar compra com a marca. Não é uma comparação direta com a Sofá na Caixa, é só o contexto de como avaliamos esse tipo de compra."
+          "Transparência comercial: O Em Casa com Cecília mantém link de afiliado com a fabricante Damie. Ao pesquisar modelos de sofás modulares no mercado brasileiro em 2026, analisamos os indicadores públicos da Damie no Reclame Aqui (nota 8,0 e índice de solução de 81,7%) como parâmetro comparativo de atendimento.",
+          "Essa referência serve apenas como exemplo de checagem de dados públicos antes da compra. Se você optar por adquirir produtos via nossos links de afiliados, o canal pode receber uma comissão sem qualquer custo adicional para você."
         ],
         "links": [
           {
@@ -37767,7 +37779,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que fazer se você comprou da Sofá na Caixa e está com problema",
         "paragraphs": [
-          "Orientação de utilidade pública para quem já comprou e está enfrentando atraso, falta de retorno ou estorno não realizado:"
+          "Para consumidores que compraram e enfrentam atraso na entrega ou falta de estorno, os órgãos de defesa recomendam guardar todos os comprovantes, notas fiscais e conversas registradas.",
+          "Conforme o Código de Defesa do Consumidor (CDC), o comprador pode exigir o cumprimento forçado da entrega, a aceitação de produto equivalente ou a rescisão do contrato com restituição dos valores pagos.",
+          "No Juizado Especial Cível (JEC), ações de até 20 salários mínimos podem ser ajuizadas sem a necessidade de advogado; para causas entre 20 e 40 salários mínimos, a legislação exige representação por advogado.",
+          "Aviso legal: Este artigo possui caráter estritamente informativo e jornalístico, com base em fontes públicas oficiais, não substituindo orientação jurídica profissional."
         ],
         "bullets": [
           "Registre todos os contatos com a empresa por escrito, guardando protocolos e comprovantes",

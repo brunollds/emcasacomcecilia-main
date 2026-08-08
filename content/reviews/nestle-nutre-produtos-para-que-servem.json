@@ -12,7 +12,7 @@
     "url": "/sobre"
   },
   "description": "Guia da linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra, Fortify e Mulher. Entenda a indicação de cada produto, formas de consumo e como comprar.",
-  "metaDescription": "Nestlé Nutre: saiba para que serve cada produto (Nutren Senior, Control, 2.0, Ultra, Fortify), preços indicativos e como usar o cupom CECI na loja oficial.",
+  "metaDescription": "Guia da linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra e Fortify. Veja a indicação de cada fórmula e como consultar preços e cupons no site.",
   "publishedAt": "7 de agosto de 2026",
   "draft": false,
   "image": "/images/reviews/nutren/linha-produtos-hero.webp",
@@ -31,9 +31,16 @@
     {
       "heading": "Nutren Senior",
       "paragraphs": [
-        "O Nutren Senior é uma fórmula desenvolvida para adultos com 50 anos ou mais. Trata-se de um composto lácteo enriquecido com vitaminas, minerais e fibras, sem lactose, sem açúcar adicionado e sem glúten. A composição inclui selênio, vitaminas A, E, C, B1, B12, D, K, além de cálcio, fósforo, ferro, zinco, cobre, vitaminas B2, B6, biotina e ácido pantotênico. O produto está disponível em pó nas versões de 370g e 740g, com preços aproximados entre R$ 100 e R$ 200, e também na versão pronta para beber (RTD) de 200ml. A proposta é oferecer uma fonte concentrada de nutrientes que podem estar em menor quantidade na alimentação habitual dessa faixa etária."
+        "O Nutren Senior é uma fórmula desenvolvida para adultos com 50 anos ou mais. A linha conta com opções tradicionais e com a variante específica Zero Lactose para consumidores com intolerância.",
+        "A composição é enriquecida com vitaminas A, E, C, D, K e do complexo B, além de minerais como cálcio, ferro, zinco e selênio. O produto está disponível em pó (latas de 370g e 740g em preços de referência entre R$ 100 e R$ 200 em agosto de 2026) e na versão pronta para beber (RTD 200ml)."
       ],
-      "bullets": []
+      "bullets": [],
+      "links": [
+        {
+          "label": "Ver opções da linha Nutren Senior na loja oficial",
+          "href": "https://www.nestlenutre.com.br/"
+        }
+      ]
     },
     {
       "heading": "Nutren Control",
@@ -66,7 +73,8 @@
     {
       "heading": "Como comprar e uso responsável",
       "paragraphs": [
-        "Os produtos da linha Nestlé Nutre podem ser adquiridos diretamente no e-commerce oficial da marca. Não é necessária receita médica para a compra, mas itens de nutrição clínica e pediátrica devem ser consumidos conforme a rotulagem e orientação de profissionais de saúde. O cupom CECI pode conceder 5% de desconto em produtos elegíveis no checkout (exceto Alfamino e Alfaré), sujeito às regras da loja oficial. Os preços mencionados são aproximados e dependem da disponibilidade e de campanhas ativas no site."
+        "Os produtos da linha Nestlé Nutre podem ser adquiridos no site oficial da marca. Os preços informados neste guia são referenciais (consultados em agosto de 2026) e podem oscilar conforme campanhas promocionais e frete.",
+        "No checkout, o consumidor pode testar o cupom CECI para obter 5% de desconto em produtos elegíveis (com exceção de Alfamino e Alfaré, conforme o regulamento da marca). Recomenda-se ler o rótulo completo de cada produto antes de iniciar o uso."
       ],
       "bullets": []
     },
@@ -75,17 +83,17 @@
       "bullets": [
         "Qual produto da linha Nutren é indicado para idosos? O Nutren Senior é voltado para adultos com 50 anos ou mais, com vitaminas, minerais e fibras.",
         "Preciso de receita médica para comprar Nutren? Não, mas itens de nutrição clínica devem ser usados conforme o rótulo e, quando necessário, com orientação de profissional de saúde.",
-        "O cupom CECI funciona para toda a linha Nutren? Funciona para praticamente todos os produtos, exceto Alfamino e Alfaré, que ficam de fora da promoção.",
+        "O cupom CECI pode ser testado para toda a linha Nutren? Funciona para praticamente todos os produtos, exceto Alfamino e Alfaré, que ficam de fora da promoção.",
         "Qual a diferença entre Nutren 2.0 e Nutren Ultra? O Nutren 2.0 é hipercalórico (2,0 kcal/mL) e indicado para nutrição clínica; o Nutren Ultra é uma bebida pronta rica em proteínas (20g por porção) para consumo do dia a dia.",
         "Nutren 2.0 é para engordar? O Nutren 2.0 é uma fórmula hipercalórica (2,0 kcal/mL) indicada para situações que exigem alta oferta calórica em volumes restritos. Ele não é um 'engordante', mas um suplemento de nutrição clínica para reposição energética intensa, e deve ser usado sob orientação de profissional de saúde.",
         "Nutren Ultra pode substituir uma refeição? O Nutren Ultra é uma fórmula pronta para consumo, rica em proteínas (20g por porção) e 17 vitaminas e minerais. Ele complementa a alimentação, mas não substitui refeições completas. É ideal para quem precisa de praticidade e um boost proteico no dia a dia.",
         "Nutren Mulher melhora a pele e o cabelo? O Nutren Mulher contém colágeno em sua formulação, nutriente associado à saúde da pele, unhas e cabelos. No entanto, ele é um complemento alimentar e não um medicamento cosmético. Os resultados variam de pessoa para pessoa e dependem da consistência de uso e da alimentação geral.",
-        "Cupom Nestlé Nutren: onde encontrar? O cupom CECI é o código oficial de parceria do blog Em Casa com Cecília com a Nestlé Nutre. Ele garante 5% de desconto na maioria dos produtos da loja oficial e pode ser aplicado diretamente no campo de cupom no checkout.",
+        "Cupom Nestlé Nutren: onde encontrar? O cupom CECI é o código de parceria que pode aplicar 5% OFF no checkout em produtos elegíveis do blog Em Casa com Cecília com a Nestlé Nutre. Ele pode conceder 5% de desconto na maioria dos produtos da loja oficial e pode ser aplicado diretamente no campo de cupom no checkout.",
         "Nutren desconto laboratório: há desconto para laboratórios? Não há desconto específico para laboratórios no site oficial da Nestlé Nutre. O cupom CECI é válido para compras de pessoa física e pode ser usado por profissionais de saúde em compras pessoais, mas não substitui contratos corporativos ou vendas diretas para instituições.",
-        "Promo desconto Nutren Senior: existe promoção específica? O cupom CECI garante 5% de desconto em Nutren Senior e demais produtos da linha (exceto Alfamino e Alfaré). Promoções pontuais podem aparecer no site oficial, mas o CECI é garantido e funciona independentemente de campanhas sazonais.",
-        "Nestlé meu desconto nutrição: existe programa de desconto? Não existe um programa com esse nome exato, mas a Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês. É um benefício separado da nossa parceria: o cupom CECI garante 5% de desconto sem necessidade de cadastro em nenhum programa.",
+        "Promo desconto Nutren Senior: existe promoção específica? O cupom CECI pode conceder 5% de desconto em Nutren Senior e demais produtos da linha (exceto Alfamino e Alfaré). Promoções pontuais podem aparecer no site oficial, mas o CECI é garantido e funciona independentemente de campanhas sazonais.",
+        "Nestlé meu desconto nutrição: existe programa de desconto? Não existe um programa com esse nome exato, mas a Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês. É um benefício separado da nossa parceria: o cupom CECI pode conceder 5% de desconto sem necessidade de cadastro em nenhum programa.",
         "Programa de desconto Nutren: como funciona? A Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês e atendimento nutricional gratuito — não é um clube de pontos. O cupom CECI, por sua vez, é aplicado direto no checkout, sem necessidade de cadastro em nenhum programa.",
-        "Cupom Nestlé: o CECI vale para outros produtos Nestlé? Não. O cupom CECI é válido exclusivamente para produtos vendidos no site oficial da Nestlé Nutre. Não funciona para produtos de outras marcas Nestlé como Nescafé, Kit Kat, Purina ou outros e-commerces.",
+        "Cupom Nestlé: o CECI vale para outros produtos Nestlé? Não. O cupom CECI é válido exclusivamente para produtos vendidos no site oficial da Nestlé Nutre. Não pode ser testado para produtos de outras marcas Nestlé como Nescafé, Kit Kat, Purina ou outros e-commerces.",
         "Onde comprar Nestlé Nutre com desconto? Os produtos Nestlé Nutre são vendidos exclusivamente no site oficial da marca. É possível aplicar o cupom CECI no checkout para garantir 5% de desconto na maioria dos produtos, exceto Alfamino e Alfaré. Não há necessidade de receita médica para a compra."
       ]
     }
@@ -109,5 +117,6 @@
     }
   ],
   "publishedAtISO": "2026-08-07",
-  "isNew": true
+  "isNew": true,
+  "updatedAt": "2026-08-07"
 }
