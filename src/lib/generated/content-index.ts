@@ -33983,7 +33983,7 @@ export const reviewsData: unknown[] = [
         "heading": "Nutren Senior",
         "paragraphs": [
           "O Nutren Senior é uma fórmula desenvolvida para adultos com 50 anos ou mais. A linha conta com opções tradicionais e com a variante específica Zero Lactose para consumidores com intolerância.",
-          "A composição é enriquecida com vitaminas A, E, C, D, K e do complexo B, além de minerais como cálcio, ferro, zinco e selênio. O produto está disponível em pó (latas de 370g e 740g em preços de referência entre R$ 100 e R$ 200 em agosto de 2026) e na versão pronta para beber (RTD 200ml)."
+          "A composição é enriquecida com vitaminas A, E, C, D, K e do complexo B, além de minerais como cálcio, ferro, zinco e selênio. O produto está disponível em pó (latas de 370g e 740g, com valores de referência verificados em agosto de 2026 sujeitos a ofertas) e na versão pronta para beber (RTD 200ml)."
         ],
         "bullets": [],
         "links": [
@@ -33996,21 +33996,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutren Control",
         "paragraphs": [
-          "O Nutren Control é descrito pelo fabricante como um produto para o controle dietético de pessoas com necessidades especiais no metabolismo de açúcares. Segundo o rótulo, a fórmula contém fibras e carboidratos de liberação lenta. O produto é comercializado em pó, com sabor baunilha, e na versão RTD de 200ml. O preço aproximado da versão em pó de 380g fica entre R$ 94 e R$ 112. Por se tratar de produto com indicação dietética específica, a decisão de incluí-lo na rotina deve partir da orientação de um profissional de saúde, que pode avaliar se o perfil descrito no rótulo corresponde à necessidade individual."
+          "O Nutren Control é indicado para o suporte nutricional no controle dietético de pessoas com necessidades no metabolismo de açúcares. Contém fibras e carboidratos de absorção lenta, comercializado em pó e pronto para beber. Os valores de referência variam conforme embalagem e promoções da loja oficial consultadas em agosto de 2026. O uso deve acompanhar orientação profissional."
         ],
         "bullets": []
       },
       {
         "heading": "Nutren 2.0",
         "paragraphs": [
-          "O Nutren 2.0 é uma fórmula hipercalórica, com densidade de 2,0 kcal/mL, hiperlipídica e normoproteica. É isenta de lactose e sem glúten, com fonte de proteínas composta por caseinato de cálcio e sódio. O produto é indicado para situações que exigem alta oferta calórica em volumes restritos. A versão pronta para beber de 200ml custa aproximadamente R$ 18,99 por unidade. O Nutren 2.0 é classificado como produto de nutrição clínica e, por isso, deve ser empregado sob orientação adequada, conforme a prescrição do rótulo e, quando aplicável, de profissional de saúde."
+          "O Nutren 2.0 é uma fórmula hipercalórica (2,0 kcal/mL), hiperlipídica e normoproteica, isenta de lactose e sem glúten, voltada a situações que demandam alta densidade calórica em volumes reduzidos. Comercializado em embalagem pronta para beber de 200ml, com valor de referência individual consultado em agosto de 2026 sujeito a pacotes e promoções."
         ],
         "bullets": []
       },
       {
         "heading": "Nutren Ultra",
         "paragraphs": [
-          "O Nutren Ultra é uma fórmula pronta para consumo, rica em proteínas, com 20g por porção, e 282 kcal. A composição inclui 17 vitaminas e minerais, com baixo teor de lactose e sabor baunilha. Cada garrafinha de 125ml custa aproximadamente R$ 15,90. O produto é voltado para consumidores que buscam praticidade e uma fonte concentrada de proteínas e micronutrientes, sem a necessidade de preparo. A embalagem individual facilita o transporte e o consumo fora de casa, sendo uma opção para quem deseja complementar a alimentação de forma rápida."
+          "O Nutren Ultra é uma bebida pronta rica em proteínas (20g por porção) e 282 kcal em embalagem de 125ml, com 17 vitaminas e minerais. É voltada para praticidade de consumo no dia a dia, com preço de referência por unidade verificado em agosto de 2026 na loja oficial."
         ],
         "bullets": []
       },
@@ -34125,8 +34125,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço aproximado",
         "paragraphs": [
-          "Os preços do Nutren Senior Zero Lactose variam conforme o formato de apresentação e promoções ativas. Em consulta realizada na loja oficial em agosto de 2026, a lata de 740g em pó registrava preço aproximado entre R$ 188 e R$ 200, enquanto a versão pronta para beber (RTD de 200ml) é comercializada por unidade ou em packs promocionais.",
-          "Os valores informados são referenciais e dependem da disponibilidade de estoque e de cupons de desconto ativos no momento do checkout."
+          "O preço do Nutren Senior Zero Lactose varia conforme a apresentação (pó na lata de 740g ou garrafinha pronta para beber de 200ml), o valor de tabela praticado pela Nestlé Nutre e eventuais campanhas promocionais vigentes.",
+          "Em levantamento de referência na loja oficial em agosto de 2026, os valores da lata de 740g oscilavam entre o preço de lista cheio e valores com desconto em ofertas pontuais ou compras combinadas. Recomenda-se conferir o valor atualizado e eventuais cupons direto na página do produto antes da compra."
         ],
         "bullets": []
       },
@@ -34153,7 +34153,7 @@ export const reviewsData: unknown[] = [
           "Como preparar o Nutren Senior Zero Lactose em pó? Dilua 3 colheres de sopa rasas (27,5g) em 50ml de água até formar uma pasta e complete com 130ml de água, totalizando 180ml de bebida.",
           "O Nutren Senior Zero Lactose tem lactose? Não. A fórmula é isenta de lactose e sem glúten.",
           "Nutren Senior Zero Lactose contém açúcares? A versão em pó não contém lactose, mas possui carboidratos e açúcares próprios da fórmula. Pessoas com restrição glicêmica ou diabetes devem consultar um profissional de saúde antes de consumir.",
-          "Qual o rendimento e preço do Nutren Senior Zero Lactose? A lata de 740g em pó custa entre R$ 188 e R$ 200 (preço consultado em agosto de 2026 na loja oficial), podendo variar conforme promoções e frete do checkout.",
+          "Qual o preço do Nutren Senior Zero Lactose? Os preços variam conforme o formato (lata em pó de 740g ou garrafinha pronta para beber 200ml) e promoções ativas na loja oficial da Nestlé Nutre. Recomenda-se consultar o valor de tabela e descontos atualizados no checkout antes de finalizar a compra.",
           "O cupom CECI vale para o Nutren Senior Zero Lactose? O cupom CECI pode conceder 5% de desconto no checkout do e-commerce oficial da Nestlé Nutre para itens elegíveis da linha Nutren.",
           "Qual a diferença entre a versão em pó e a pronta para beber (RTD)? A versão em pó é preparada em 180ml de água e permite fracionar a porção. A versão pronta para beber (RTD 200ml) oferece praticidade para consumo imediato. Cada apresentação possui tabela nutricional e ingredientes específicos descritos em seu respectivo rótulo.",
           "Nutren Senior pode substituir o café da manhã? O Nutren Senior é um complemento alimentar para reforço nutricional de adultos 50+, mas não substitui uma refeição sólida completa."
@@ -37686,7 +37686,7 @@ export const reviewsData: unknown[] = [
     "reviewKind": "editorial",
     "draft": false,
     "description": "Sofá na Caixa virou sucesso viral e depois enfrentou explosão de reclamações. Veja o que motivou a ação do Procon-SP e o que aprender antes de comprar sofá modular online.",
-    "seoTitle": "O que Aconteceu com a Sofá na Caixa? Crise de Reclamações e Ação do Procon-SP",
+    "seoTitle": "Crise da Sofá na Caixa: Reclamações e Atuação do Procon-SP",
     "metaDescription": "Entenda o aumento de reclamações da Sofá na Caixa em 2025, as notificações do Procon-SP e o que avaliar antes de comprar sofá modular online.",
     "publishedAt": "7 de agosto de 2026",
     "publishedAtISO": "2026-08-07",
@@ -37700,8 +37700,8 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "Reclamações cresceram 126% em 2025, segundo o Procon-SP",
-      "Apenas 13% dos consumidores no Reclame Aqui comprariam novamente da empresa",
-      "Empresa não compareceu a reuniões nem respondeu correspondências do Procon-SP em 2026"
+      "Apenas 13% dos consumidores no Reclame Aqui informaram em levantamento de 2025 que voltariam a fazer negócio",
+      "Empresa registrou notificações formais e ausência em tentativas de conciliação do Procon-SP em 2025"
     ],
     "contentSections": [
       {
@@ -37710,10 +37710,10 @@ export const reviewsData: unknown[] = [
           "A Sofá na Caixa, empresa que viralizou nas redes vendendo sofás modulares entregues compactados em caixas, enfrenta desde 2025 uma onda crescente de reclamações por atraso de entrega, produtos não recebidos e estornos não realizados."
         ],
         "bullets": [
-          "Segundo o Procon-SP, as reclamações cresceram 126% em 2025 frente a 2024",
-          "O órgão iniciou o processo para incluir a empresa na lista \"Evite Estes Sites\"",
-          "Conforme reportagem do G1 e da BBC News Brasil, o padrão de queixas envolve meses de espera sem entrega nem reembolso",
-          "O caso segue em aberto em 2026, com novas tentativas de contato do Procon-SP sem resposta da empresa"
+          "Segundo o Procon-SP, as reclamações registradas cresceram 126% em 2025 frente a 2024",
+          "O órgão iniciou o procedimento administrativo para inclusão da empresa na lista 'Evite Estes Sites'",
+          "Conforme reportagem da BBC News Brasil (republicada no G1 e O Povo em out/2025), queixas envolvem relatos de espera sem entrega ou reembolso",
+          "O caso teve desdobramentos acompanhados por órgãos de defesa do consumidor e matérias jornalísticas"
         ]
       },
       {
@@ -37729,12 +37729,11 @@ export const reviewsData: unknown[] = [
           "Reconstituindo os fatos a partir de fontes oficiais e reportagens já publicadas:"
         ],
         "bullets": [
-          "2024 — A empresa é fundada e expande vendas nas redes sociais ao longo do ano seguinte",
-          "Julho de 2025 — O Procon-SP abre procedimento de fiscalização diante do aumento de queixas; a empresa comparece a reunião e se compromete a regularizar atendimentos pendentes",
-          "Outubro de 2025 — Reportagem da BBC News Brasil e G1 documenta novas notificações do Procon-SP por descumprimento do plano de atendimento, com relatos de clientes aguardando há meses por entregas ou reembolsos",
-          "Novembro de 2025 — Comunicado do Procon-SP registra que a empresa não compareceu a audiência virtual agendada e que correspondências físicas foram devolvidas sem recebimento após tentativas",
-          "Dezembro de 2025 — Procon-SP informa ter iniciado os trâmites administrativos para inclusão da empresa na lista 'Evite Estes Sites'",
-          "Meados de 2026 — Registros em órgãos de defesa do consumidor continuam acompanhando o desdobramento dos casos pendentes"
+          "2024 — A empresa é fundada e expande suas operações de vendas nas redes sociais",
+          "Meados de 2025 — O Procon-SP notifica a empresa após registrar aumento expressivo de reclamações por atrasos",
+          "Outubro de 2025 — Reportagem da BBC News Brasil documenta novas notificações formais do Procon-SP e relatos de consumidores aguardando entregas ou reembolsos",
+          "Segundo semestre de 2025 — Procon-SP informa ausência da empresa em reunião agendada e devolução de correspondências sem recebimento, iniciando procedimento para a lista 'Evite Estes Sites'",
+          "Registros públicos de defesa do consumidor continuam acompanhando as reclamações acumuladas no setor"
         ]
       },
       {
@@ -37743,9 +37742,9 @@ export const reviewsData: unknown[] = [
           "Os dados públicos disponíveis, sempre com a fonte indicada, ajudam a dimensionar o problema:"
         ],
         "bullets": [
-          "Procon-SP (dados acumulados até agosto de 2025): aumento de 126% nas reclamações registradas (614 casos entre jan-ago/2025 contra 272 em todo o ano de 2024)",
-          "Reclame Aqui (dados da reportagem BBC/G1 em outubro de 2025): acumulado de mais de 7.800 reclamações, com índice de solução de 13% na época da publicação",
-          "Posicionamento da empresa em outubro de 2025: em resposta enviada à imprensa, a fundação atribuiu os atrasos a gargalos logísticos e alta de custos de insumos na cadeia de produção"
+          "Procon-SP (dados de 2025): aumento de 126% nas reclamações (614 registros de jan-ago/2025 contra 272 em todo o ano de 2024)",
+          "Reclame Aqui (dados levantados pela BBC News Brasil em outubro de 2025): mais de 7.800 reclamações acumuladas, com 13% dos consumidores informando que voltariam a comprar",
+          "Posicionamento do fundador (outubro de 2025): em entrevista à BBC News Brasil, o fundador Rubens Stuque declarou que os atrasos afetavam uma parcela dos pedidos e apontou desafios logísticos e alta no custo de insumos"
         ],
         "postParagraphs": [
           "Como todo indicador de Reclame Aqui, esse número muda com o tempo — vale conferir o painel atualizado diretamente no site antes de tirar qualquer conclusão."
@@ -37805,23 +37804,27 @@ export const reviewsData: unknown[] = [
           "Este artigo se baseia nas seguintes fontes públicas, consultadas em agosto de 2026:"
         ],
         "bullets": [
-          "Procon-SP — comunicado oficial sobre a fiscalização da Sofá na Caixa",
-          "G1 / BBC News Brasil — \"Como Sofá na Caixa foi de sucesso viral nas redes à explosão de reclamações de clientes\" (Thais Carrança, 15/10/2025)",
-          "Exame — \"Sofá na Caixa: Procon-SP abre investigação contra empresa após 500 reclamações\" (17/07/2025)",
-          "Reclame Aqui — painel público da empresa"
+          "Procon-SP — comunicados oficiais sobre fiscalização de e-commerces e lista 'Evite Estes Sites'",
+          "BBC News Brasil — 'Como Sofá na Caixa foi de sucesso viral nas redes à explosão de reclamações de clientes' (outubro/2025, republicado via O Povo)",
+          "Exame — 'Sofá na Caixa: Procon-SP abre investigação contra empresa após 500 reclamações' (julho/2025)",
+          "Reclame Aqui — painel público de reputação de empresas de móveis"
         ],
         "links": [
           {
-            "label": "Lista \"Evite Estes Sites\" — Procon-SP",
+            "label": "Lista 'Evite Estes Sites' — Procon-SP (Site Oficial)",
             "href": "https://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php"
           },
           {
-            "label": "Reportagem G1/BBC News Brasil",
+            "label": "Reportagem BBC News Brasil (republicada via O Povo)",
             "href": "https://www.opovo.com.br/agencia/bbc/2025/10/15/amp/como-sofa-na-caixa-foi-de-sucesso-viral-nas-redes-a-explosao-de-reclamacoes-de-clientes.html"
           },
           {
-            "label": "Reportagem Exame",
+            "label": "Reportagem Revista Exame (Julho/2025)",
             "href": "https://exame.com/invest/minhas-financas/sofa-na-caixa-procon-sp-abre-investigacao-contra-empresa-apos-500-reclamacoes/"
+          },
+          {
+            "label": "Painel de Reclamações no Reclame Aqui",
+            "href": "https://www.reclameaqui.com.br/empresa/sofa-na-caixa/"
           }
         ]
       },
