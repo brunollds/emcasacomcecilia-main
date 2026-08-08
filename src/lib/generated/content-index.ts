@@ -34041,9 +34041,9 @@ export const reviewsData: unknown[] = [
           "Nutren Mulher melhora a pele e o cabelo? O Nutren Mulher contém colágeno em sua formulação, nutriente associado à saúde da pele, unhas e cabelos. No entanto, ele é um complemento alimentar e não um medicamento cosmético. Os resultados variam de pessoa para pessoa e dependem da consistência de uso e da alimentação geral.",
           "Cupom Nestlé Nutren: onde encontrar? O cupom CECI é o código de parceria que pode aplicar 5% OFF no checkout em produtos elegíveis do blog Em Casa com Cecília com a Nestlé Nutre. Ele pode conceder 5% de desconto na maioria dos produtos da loja oficial e pode ser aplicado diretamente no campo de cupom no checkout.",
           "Nutren desconto laboratório: há desconto para laboratórios? Não há desconto específico para laboratórios no site oficial da Nestlé Nutre. O cupom CECI é válido para compras de pessoa física e pode ser usado por profissionais de saúde em compras pessoais, mas não substitui contratos corporativos ou vendas diretas para instituições.",
-          "Promo desconto Nutren Senior: existe promoção específica? O cupom CECI pode conceder 5% de desconto em Nutren Senior e demais produtos da linha (exceto Alfamino e Alfaré). Promoções pontuais podem aparecer no site oficial, mas o CECI é garantido e funciona independentemente de campanhas sazonais.",
+          "Promo desconto Nutren Senior: existe promoção específica? O cupom CECI pode ser testado no checkout para tentar obter 5% de desconto em Nutren Senior e demais produtos elegíveis da linha, conforme as regras ativas na loja oficial.",
           "Nestlé meu desconto nutrição: existe programa de desconto? Não existe um programa com esse nome exato, mas a Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês. É um benefício separado da nossa parceria: o cupom CECI pode conceder 5% de desconto sem necessidade de cadastro em nenhum programa.",
-          "Programa de desconto Nutren: como funciona? A Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês e atendimento nutricional gratuito — não é um clube de pontos. O cupom CECI, por sua vez, é aplicado direto no checkout, sem necessidade de cadastro em nenhum programa.",
+          "Programa de desconto Nutren: como funciona? A Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês. O cupom CECI pode ser testado direto no checkout para tentar obter 5% de desconto em itens elegíveis.",
           "Cupom Nestlé: o CECI vale para outros produtos Nestlé? Não. O cupom CECI é válido exclusivamente para produtos vendidos no site oficial da Nestlé Nutre. Não pode ser testado para produtos de outras marcas Nestlé como Nescafé, Kit Kat, Purina ou outros e-commerces.",
           "Onde comprar Nestlé Nutre com desconto? Os produtos Nestlé Nutre são vendidos exclusivamente no site oficial da marca. É possível aplicar o cupom CECI no checkout para garantir 5% de desconto na maioria dos produtos, exceto Alfamino e Alfaré. Não há necessidade de receita médica para a compra."
         ]
@@ -37701,7 +37701,7 @@ export const reviewsData: unknown[] = [
     "cons": [
       "Reclamações cresceram 126% em 2025, segundo o Procon-SP",
       "Apenas 13% dos consumidores no Reclame Aqui informaram em levantamento de 2025 que voltariam a fazer negócio",
-      "Empresa registrou notificações formais e ausência em tentativas de conciliação do Procon-SP em 2025"
+      "Empresa registrou procedimento de fiscalização pelo Procon-SP em 2025"
     ],
     "contentSections": [
       {
@@ -37712,7 +37712,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Segundo o Procon-SP, as reclamações registradas cresceram 126% em 2025 frente a 2024",
           "O órgão iniciou o procedimento administrativo para inclusão da empresa na lista 'Evite Estes Sites'",
-          "Conforme reportagem da BBC News Brasil (republicada no G1 e O Povo em out/2025), queixas envolvem relatos de espera sem entrega ou reembolso",
+          "Conforme reportagem da BBC News Brasil (republicada via O Povo em out/2025), queixas envolvem relatos de espera sem entrega ou reembolso",
           "O caso teve desdobramentos acompanhados por órgãos de defesa do consumidor e matérias jornalísticas"
         ]
       },
@@ -37730,10 +37730,10 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "2024 — A empresa é fundada e expande suas operações de vendas nas redes sociais",
-          "Meados de 2025 — O Procon-SP notifica a empresa após registrar aumento expressivo de reclamações por atrasos",
-          "Outubro de 2025 — Reportagem da BBC News Brasil documenta novas notificações formais do Procon-SP e relatos de consumidores aguardando entregas ou reembolsos",
-          "Segundo semestre de 2025 — Procon-SP informa ausência da empresa em reunião agendada e devolução de correspondências sem recebimento, iniciando procedimento para a lista 'Evite Estes Sites'",
-          "Registros públicos de defesa do consumidor continuam acompanhando as reclamações acumuladas no setor"
+          "2025 — O Procon-SP abre procedimento de fiscalização e notifica a empresa diante do aumento expressivo de reclamações por atrasos e falta de entrega",
+          "Outubro de 2025 — Reportagem da BBC News Brasil documenta a abertura de investigações por órgãos de defesa do consumidor e reúne relatos de clientes aguardando entregas ou reembolsos",
+          "Segundo semestre de 2025 — Procon-SP inicia o procedimento administrativo para inclusão do site e domínio da empresa na lista pública 'Evite Estes Sites'",
+          "Registros em plataformas de defesa do consumidor e órgãos públicos continuam acompanhando o desdobramento das reclamações do setor"
         ]
       },
       {
