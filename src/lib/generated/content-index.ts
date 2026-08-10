@@ -37724,7 +37724,11 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Sofás modulares entregues em caixas compactas, para montar em casa, viraram uma das buscas mais fortes do mobiliário online no Brasil entre 2024 e 2025. Entre as marcas que mais se destacaram nesse movimento está a Sofá na Caixa, fundada em 2024 por Rubens Stuque, que ganhou visibilidade rápida com uma campanha de marketing digital agressiva e chegou a ser citada em reportagem da revista Forbes sobre o faturamento expressivo da primeira semana de operação.",
           "O mesmo crescimento acelerado que projetou a marca nas redes sociais, porém, trouxe um problema documentado por órgãos de defesa do consumidor e pela grande imprensa: a capacidade de produção e logística não acompanhou o volume de vendas, e o resultado apareceu em forma de reclamações."
-        ]
+        ],
+        "image": "/images/reviews/sofa-na-caixa/bbc-news-sofa-na-caixa-manchete.png",
+        "imageAlt": "Manchete de reportagem da BBC News Brasil sobre a explosão de reclamações contra a Sofá na Caixa",
+        "imageCaption": "Reportagem da BBC News Brasil, publicada em 15 de outubro de 2025 e republicada via O Povo.",
+        "imageFit": "wide"
       },
       {
         "heading": "A linha do tempo da crise",
