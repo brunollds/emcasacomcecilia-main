@@ -37723,7 +37723,7 @@ export const reviewsData: unknown[] = [
         "heading": "Da fama nas redes sociais a um problema real",
         "paragraphs": [
           "Sofás modulares entregues em caixas compactas, para montar em casa, viraram uma das buscas mais fortes do mobiliário online no Brasil entre 2024 e 2025. Entre as marcas que mais se destacaram nesse movimento está a Sofá na Caixa, fundada em 2024 por Rubens Stuque, que ganhou visibilidade rápida com uma campanha de marketing digital agressiva e chegou a ser citada em reportagem da revista Forbes sobre o faturamento expressivo da primeira semana de operação.",
-          "O mesmo crescimento acelerado que projetou a marca nas redes sociais, porém, trouxe um problema documentado por órgãos de defesa do consumidor e pela grande imprensa: a capacidade de produção e logística não acompanhou o volume de vendas, e o resultado apareceu em forma de reclamações."
+          "Segundo o Procon-SP e reportagens publicadas em 2025, o crescimento acelerado foi seguido por reclamações de atraso, falta de entrega e dificuldades para obter reembolso. Em entrevista à BBC News Brasil, o fundador reconheceu pedidos em atraso e citou desafios logísticos e custos de insumos entre os fatores enfrentados pela empresa."
         ],
         "image": "/images/reviews/sofa-na-caixa/bbc-news-sofa-na-caixa-manchete.png",
         "imageAlt": "Manchete de reportagem da BBC News Brasil sobre a explosão de reclamações contra a Sofá na Caixa",
@@ -37883,7 +37883,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nota de transparência",
         "paragraphs": [
-          "Este é um artigo jornalístico/informativo, não uma comparação promocional. As informações sobre a Sofá na Caixa foram obtidas de fontes públicas — Procon-SP, reportagens do G1/BBC News Brasil e da Exame, e Reclame Aqui — e apresentadas com atribuição de fonte. O parágrafo sobre a Damie contém link de afiliado: ao comprar usando os links indicados, você apoia o Em Casa com Cecília sem custo adicional."
+          "Este é um artigo jornalístico/informativo, não uma comparação promocional. As informações sobre a Sofá na Caixa foram obtidas de fontes públicas — Procon-SP, BBC News Brasil (republicada via O Povo), Exame e Reclame Aqui — e apresentadas com atribuição de fonte. O parágrafo sobre a Damie contém link de afiliado: ao comprar usando os links indicados, você apoia o Em Casa com Cecília sem custo adicional."
         ]
       }
     ],
