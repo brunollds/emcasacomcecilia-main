@@ -586,8 +586,9 @@ export function ReviewNotebookTemplate({
                           couponCode={review.coupon}
                           brand={review.affiliate}
                           contentSlug={review.slug}
+                          linkLabel={link.label}
                           sponsored={link.sponsored ?? hasCommercialRelationship}
-                          placement="review_inline"
+                          placement="review_verdict"
                           className="inline-flex items-center gap-1.5 rounded-full bg-[#0f1d3a] px-5 py-2.5 text-sm font-bold text-white transition-all hover:-translate-y-0.5 hover:bg-[#ff6b35] hover:shadow-md"
                         >
                           {link.label}
@@ -656,6 +657,7 @@ export function ReviewNotebookTemplate({
                       couponCode={review.coupon}
                       brand={review.affiliate}
                       contentSlug={review.slug}
+                      linkLabel={effectiveCta?.label}
                       sponsored={effectiveCta?.sponsored}
                       placement="review_final_cta"
                       className="inline-flex flex-shrink-0 items-center rounded-full bg-[#ff6b35] px-6 py-3 text-sm font-bold text-white shadow-md transition-all duration-200 hover:-translate-y-1 hover:bg-[#e55a26] hover:shadow-lg"

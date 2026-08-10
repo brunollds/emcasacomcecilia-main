@@ -29174,7 +29174,7 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Cupom CECILIA12 — 12% OFF no site da Damie",
-            "href": "https://emcasacomcecilia.com/cupons/damie"
+            "href": "/cupons/damie"
           }
         ]
       }
@@ -29182,7 +29182,7 @@ export const reviewsData: unknown[] = [
     "cta": {
       "text": "Aproveite o cupom de afiliado oficial para obter desconto.",
       "label": "Ver cupom CECILIA12 no site da Damie",
-      "url": "https://emcasacomcecilia.com/cupons/damie"
+      "url": "/cupons/damie"
     },
     "coupon": "CECILIA12",
     "relatedArticles": [
@@ -31146,7 +31146,7 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Ver cupom CECILIA12",
-            "href": "https://emcasacomcecilia.com/cupons/damie"
+            "href": "/cupons/damie"
           }
         ]
       }

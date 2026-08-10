@@ -7,8 +7,10 @@ import { DropCapParagraph, EditorialReveal, PretextShrinkwrap, TopTenList } from
 import { HighlightCoupon } from './HighlightCoupon';
 import { CopyButton, CouponStoreLink } from '@/components/CouponComponents';
 import type { ContentSection } from '@/lib/content';
+import { isCouponPageLink, isInternalLink } from '@/lib/internalLinks';
 import { ReputacaoMetricas, PadroesReclamacao } from './ReputacaoMetricas';
 import { ReviewLoopVideo } from './ReviewLoopVideo';
+import { TrackedCouponPageLink } from './TrackedCouponPageLink';
 
 export interface ReviewSectionContentProps {
   section: ContentSection;
@@ -18,10 +20,6 @@ export interface ReviewSectionContentProps {
   reviewSlug?: string;
   coupon?: string;
   affiliate?: string;
-}
-
-function isInternalLink(href: string): boolean {
-  return href.startsWith('/') || href.startsWith('#');
 }
 
 function parseProsConsBullet(item: string): { type: 'pro' | 'con'; text: string } | null {
@@ -356,7 +354,23 @@ export function ReviewSectionContent({
         <div className={`mt-4 flex flex-wrap gap-4 ${Boolean(section.image || (section.images && section.images.length > 0)) ? 'justify-center w-full' : ''}`}>
           {section.links.map((link) => {
             const internal = isInternalLink(link.href);
+            const couponPage = internal && isCouponPageLink(link.href);
             const className = 'inline-flex items-center gap-1.5 rounded-full bg-[#0f1d3a] px-5 py-2.5 text-sm font-bold text-white transition-all hover:-translate-y-0.5 hover:bg-[#ff6b35] hover:shadow-md';
+
+            if (couponPage) {
+              return (
+                <TrackedCouponPageLink
+                  key={link.href}
+                  href={link.href}
+                  contentSlug={reviewSlug}
+                  linkLabel={link.label}
+                  placement="review_inline"
+                  className={className}
+                >
+                  {link.label}
+                </TrackedCouponPageLink>
+              );
+            }
 
             if (!internal && link.sponsored) {
               return (

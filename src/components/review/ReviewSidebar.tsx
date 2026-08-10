@@ -135,6 +135,7 @@ export function SidebarConversionCards({
           couponCode={coupon}
           brand={affiliate}
           contentSlug={reviewSlug}
+          linkLabel={effectiveCta.label}
           sponsored={effectiveCta.sponsored}
           placement={placement}
           className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#ff6b35] px-5 py-2.5 text-sm font-bold text-white transition-all hover:-translate-y-0.5 hover:bg-[#e55a26] hover:shadow-md"

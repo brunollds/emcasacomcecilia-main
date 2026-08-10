@@ -9,3 +9,4 @@ export {
 export { ReputacaoMetricas, PadroesReclamacao } from './ReputacaoMetricas';
 export { ReviewMobileBottomBar, type ReviewMobileBottomBarProps } from './ReviewMobileBottomBar';
 export { InlineCouponCopy, type InlineCouponCopyProps } from './InlineCouponCopy';
+export { TrackedCouponPageLink, type CouponPageLinkPlacement } from './TrackedCouponPageLink';

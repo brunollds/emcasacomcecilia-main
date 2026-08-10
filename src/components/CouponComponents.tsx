@@ -5,6 +5,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { ArrowUpRight, Check, ChevronDown, Copy } from 'lucide-react';
 import { trackEvent } from '@/lib/analytics';
+import { getCouponBrandFromHref, getInternalHref, isCouponPageLink, isInternalLink } from '@/lib/internalLinks';
 
 type CopyButtonProps = {
   code: string;
@@ -103,8 +104,9 @@ type CouponStoreLinkProps = {
   couponCode?: string;
   brand?: string;
   contentSlug?: string;
+  linkLabel?: string;
   sponsored?: boolean;
-  placement?: 'coupon_page' | 'bottom_bar' | 'review_inline' | 'review_sidebar' | 'review_mobile_drawer' | 'review_final_cta';
+  placement?: 'coupon_page' | 'bottom_bar' | 'review_inline' | 'review_verdict' | 'review_sidebar' | 'review_mobile_drawer' | 'review_final_cta';
   className?: string;
 };
 
@@ -115,25 +117,30 @@ export function CouponStoreLink({
   couponCode,
   brand,
   contentSlug,
+  linkLabel,
   sponsored = true,
   placement = 'coupon_page',
   className = '',
 }: CouponStoreLinkProps) {
-  const isInternal = href.startsWith('/') || href.startsWith('https://emcasacomcecilia.com');
+  const internal = isInternalLink(href);
+  const couponPage = isCouponPageLink(href);
+  const internalHref = getInternalHref(href);
+  const destinationBrand = couponPage ? getCouponBrandFromHref(href) : brand;
 
   const handleClick = () => {
-    trackEvent(sponsored && !isInternal ? 'coupon_store_click' : 'outbound_link_click', {
+    trackEvent(couponPage ? 'coupon_page_click' : sponsored && !internal ? 'coupon_store_click' : 'outbound_link_click', {
       ...(couponCode && { coupon_code: couponCode }),
-      ...(brand && { brand }),
+      ...(destinationBrand && { brand: destinationBrand }),
       ...(contentSlug && { content_slug: contentSlug }),
+      ...(couponPage && linkLabel && { link_label: linkLabel }),
       placement,
-      url: href,
+      url: couponPage ? internalHref : href,
     });
   };
 
-  if (isInternal) {
+  if (internal) {
     return (
-      <Link href={href} className={className} onClick={handleClick}>
+      <Link href={internalHref} className={className} onClick={handleClick}>
         {children ?? label}
       </Link>
     );
