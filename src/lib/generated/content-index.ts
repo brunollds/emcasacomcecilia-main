@@ -37819,27 +37819,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Perguntas frequentes",
-        "bullets": [
-          "O que aconteceu com a Sofá na Caixa? A empresa viralizou vendendo sofás modulares compactos em caixas, mas enfrentou forte pico de atrasos de entrega e reclamações em 2025 devido à alta demanda. Em 2026, a marca mantém 100% de taxa de resposta no Reclame Aqui, com nota 6.0/10 (Regular) e 55,2% de índice de solução.",
-          "A Sofá na Caixa está na lista Evite Estes Sites do Procon-SP? Em consulta realizada em agosto de 2026 no sistema do Procon-SP, o domínio oficial da Sofá na Caixa NÃO consta na lista ativa de sites evitados.",
-          "Qual é a nota da Sofá na Caixa no Reclame Aqui em 2026? A empresa possui selo 'Regular' com nota 6.0/10. O tempo médio de resposta é de 2 dias e 12 horas, com 100% de queixas respondidas e nota média do consumidor de 4,45/10.",
-          "O que fazer se comprei e não recebi o produto? Guarde todos os comprovantes, notas fiscais e conversas. O Código de Defesa do Consumidor garante o direito ao reembolso ou cumprimento da oferta. É possível registrar queixa no Procon-SP ou Consumidor.gov.br e recorrer ao Juizado Especial Cível (sem advogado até 20 salários mínimos; com advogado entre 20 e 40 salários mínimos)."
-        ]
-      },
-      {
-        "heading": "Fontes",
-        "paragraphs": [
-          "Este artigo se baseia nas seguintes fontes públicas, consultadas em agosto de 2026:"
-        ],
-        "bullets": [
-          "Procon-SP — comunicados oficiais sobre fiscalização de e-commerces e lista 'Evite Estes Sites'",
-          "BBC News Brasil — 'Como Sofá na Caixa foi de sucesso viral nas redes à explosão de reclamações de clientes' (outubro/2025, republicado via O Povo)",
-          "Exame — 'Sofá na Caixa: Procon-SP abre investigação contra empresa após 500 reclamações' (julho/2025)",
-          "Reclame Aqui — painel público de reputação de empresas de móveis"
-        ]
-      },
-      {
         "heading": "Procon-SP (2026): comparação de registros no painel 'Empresas Reclamadas'",
         "paragraphs": [
           "Transparência comercial: O Em Casa com Cecília mantém link de afiliado com a fabricante Damie. Ao pesquisar marcas de estofados modulares online em 2026, analisamos os registros públicos do Procon-SP para comparar o volume de demandas abertas no órgão.",
@@ -37874,6 +37853,27 @@ export const reviewsData: unknown[] = [
             "label": "Ver o levantamento completo de reputação da Damie",
             "href": "/reviews/damie-reclame-aqui-o-que-os-dados-mostram"
           }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O que aconteceu com a Sofá na Caixa? A empresa viralizou vendendo sofás modulares compactos em caixas, mas enfrentou forte pico de atrasos de entrega e reclamações em 2025 devido à alta demanda. Em 2026, a marca mantém 100% de taxa de resposta no Reclame Aqui, com nota 6.0/10 (Regular) e 55,2% de índice de solução.",
+          "A Sofá na Caixa está na lista Evite Estes Sites do Procon-SP? Em consulta realizada em agosto de 2026 no sistema do Procon-SP, o domínio oficial da Sofá na Caixa NÃO consta na lista ativa de sites evitados.",
+          "Qual é a nota da Sofá na Caixa no Reclame Aqui em 2026? A empresa possui selo 'Regular' com nota 6.0/10. O tempo médio de resposta é de 2 dias e 12 horas, com 100% de queixas respondidas e nota média do consumidor de 4,45/10.",
+          "O que fazer se comprei e não recebi o produto? Guarde todos os comprovantes, notas fiscais e conversas. O Código de Defesa do Consumidor garante o direito ao reembolso ou cumprimento da oferta. É possível registrar queixa no Procon-SP ou Consumidor.gov.br e recorrer ao Juizado Especial Cível (sem advogado até 20 salários mínimos; com advogado entre 20 e 40 salários mínimos)."
+        ]
+      },
+      {
+        "heading": "Fontes",
+        "paragraphs": [
+          "Este artigo se baseia nas seguintes fontes públicas, consultadas em agosto de 2026:"
+        ],
+        "bullets": [
+          "Procon-SP — comunicados oficiais sobre fiscalização de e-commerces e lista 'Evite Estes Sites'",
+          "BBC News Brasil — 'Como Sofá na Caixa foi de sucesso viral nas redes à explosão de reclamações de clientes' (outubro/2025, republicado via O Povo)",
+          "Exame — 'Sofá na Caixa: Procon-SP abre investigação contra empresa após 500 reclamações' (julho/2025)",
+          "Reclame Aqui — painel público de reputação de empresas de móveis"
         ]
       },
       {
