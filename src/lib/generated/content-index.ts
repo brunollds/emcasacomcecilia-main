@@ -37696,7 +37696,7 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Canais públicos e gratuitos para reclamar: Procon, Consumidor.gov.br e Reclame Aqui",
       "CDC garante direito à devolução em compras online dentro do prazo legal",
-      "Juizado Especial Cível não cobra custas para causas de até 40 salários mínimos"
+      "Juizado Especial Cível não cobra custas em 1ª instância para causas de até 40 salários mínimos"
     ],
     "cons": [
       "Reclamações cresceram 126% em 2025, segundo o Procon-SP",

@@ -59,7 +59,7 @@ export const YESSTYLE_COUPONS_FACTUAL: YesStyleOffer[] = [
     type: 'coupon',
     discount: { kind: 'percentage', value: 15 },
     verifiedAt: '2026-08-05',
-    recheckBy: '2026-08-09',
+    recheckBy: '2026-08-31',
     // Termos gerais para cupons de 96 horas: uma campanha por vez, sem pedido mínimo.
     officialSourceUrl: 'https://www.yesstyle.com/en/help/section.html/hsi.1893',
     affiliateUrl: 'https://ystyle.co/rQYQv',
