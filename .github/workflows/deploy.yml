@@ -31,7 +31,7 @@ permissions:
   contents: read
 
 concurrency:
-  group: deploy-emcasa
+  group: emcasa-production
   cancel-in-progress: false
 
 jobs:
