@@ -56,6 +56,8 @@ export function CouponStrip() {
   const coupon = activeCoupons[activeIndex];
 
   const handleCopy = async () => {
+    if (coupon.offerMode !== 'discount-code') return;
+
     try {
       await navigator.clipboard.writeText(coupon.code);
       setCopiedIndex(activeIndex);
@@ -109,9 +111,15 @@ export function CouponStrip() {
             <span className="shrink-0 text-xs font-black uppercase tracking-[0.12em] text-[#ff9158]">
               {coupon.brand}
             </span>
-            <code className="shrink-0 rounded-full border border-[#ffd23f]/24 bg-[#ffd23f]/12 px-2 py-0.5 font-mono text-[0.72rem] font-black tracking-[0.06em] text-[#ffd23f]">
-              {coupon.code}
-            </code>
+            {coupon.offerMode === 'discount-code' ? (
+              <code className="shrink-0 rounded-full border border-[#ffd23f]/24 bg-[#ffd23f]/12 px-2 py-0.5 font-mono text-[0.72rem] font-black tracking-[0.06em] text-[#ffd23f]">
+                {coupon.code}
+              </code>
+            ) : (
+              <span className="shrink-0 rounded-full border border-[#ffd23f]/24 bg-[#ffd23f]/12 px-2 py-0.5 text-[0.72rem] font-black text-[#ffd23f]">
+                {coupon.offerTypeLabel ?? 'Oferta no link'}
+              </span>
+            )}
             <span className="shrink-0 rounded-full bg-[#ff6b35]/20 px-2 py-0.5 text-[0.7rem] font-black text-[#ff9158]">
               {coupon.discount}
             </span>
@@ -122,18 +130,27 @@ export function CouponStrip() {
 
           {/* Ações */}
           <div className="flex shrink-0 items-center gap-1.5">
-            <button
-              type="button"
-              onClick={handleCopy}
-              className="inline-flex items-center gap-1 rounded-full bg-white/10 px-2.5 py-1 text-[11px] font-bold text-white transition-colors hover:bg-white/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#ff6b35]"
-              aria-label={`Copiar cupom ${coupon.code}`}
-            >
-              {copiedIndex === activeIndex ? (
-                <><Check className="h-3 w-3" /><span className="hidden xs:inline sm:inline">Copiado</span></>
-              ) : (
-                <><Copy className="h-3 w-3" /><span className="hidden sm:inline">Copiar</span></>
-              )}
-            </button>
+            {coupon.offerMode === 'discount-code' ? (
+              <button
+                type="button"
+                onClick={handleCopy}
+                className="inline-flex items-center gap-1 rounded-full bg-white/10 px-2.5 py-1 text-[11px] font-bold text-white transition-colors hover:bg-white/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#ff6b35]"
+                aria-label={`Copiar cupom ${coupon.code}`}
+              >
+                {copiedIndex === activeIndex ? (
+                  <><Check className="h-3 w-3" /><span className="hidden xs:inline sm:inline">Copiado</span></>
+                ) : (
+                  <><Copy className="h-3 w-3" /><span className="hidden sm:inline">Copiar</span></>
+                )}
+              </button>
+            ) : (
+              <Link
+                href={`/cupons/${coupon.slug}`}
+                className="inline-flex rounded-full bg-white/10 px-2.5 py-1 text-[11px] font-bold text-white transition-colors hover:bg-white/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#ff6b35]"
+              >
+                Ver oferta
+              </Link>
+            )}
 
             <Link
               href="/cupons"
@@ -147,7 +164,7 @@ export function CouponStrip() {
               <div
                 className="ml-1 hidden items-center gap-1 sm:flex"
                 role="tablist"
-                aria-label="Selecionar cupom"
+                aria-label="Selecionar benefício"
               >
                 {activeCoupons.map((item, index) => (
                   <button
@@ -155,7 +172,7 @@ export function CouponStrip() {
                     type="button"
                     role="tab"
                     aria-selected={index === activeIndex}
-                    aria-label={`Cupom ${index + 1} de ${activeCoupons.length}`}
+                    aria-label={`Benefício ${index + 1} de ${activeCoupons.length}`}
                     onClick={() => setActiveIndex(index)}
                     className={`h-1.5 rounded-full transition-all focus:outline-none focus-visible:ring-2 focus-visible:ring-[#ff6b35] ${
                       index === activeIndex
@@ -171,7 +188,7 @@ export function CouponStrip() {
               type="button"
               onClick={handleDismiss}
               className="ml-0.5 rounded-full p-1 text-white/56 transition-colors hover:bg-white/10 hover:text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-[#ff6b35]"
-              aria-label="Fechar barra de cupons por 24 horas"
+              aria-label="Fechar barra de benefícios por 24 horas"
             >
               <X className="h-3.5 w-3.5" />
             </button>

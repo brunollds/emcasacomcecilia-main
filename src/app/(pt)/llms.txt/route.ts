@@ -105,9 +105,11 @@ function buildLlmsText(): string {
     '',
     ...activeCoupons.map((coupon) =>
       formatLink(
-        `${coupon.brand} - ${coupon.offerTypeLabel ?? 'cupom'} ${coupon.code}`,
+        coupon.offerMode === 'discount-code'
+          ? `${coupon.brand} - ${coupon.offerTypeLabel ?? 'cupom'} ${coupon.code}`
+          : `${coupon.brand} - ${coupon.offerTypeLabel ?? 'oferta por link'}`,
         `${BASE_URL}/cupons/${coupon.slug}`,
-        `${coupon.discount}; verificado em ${coupon.lastVerified}`
+        `${coupon.discount}; ${coupon.offerMode === 'discount-code' ? 'codigo disponivel' : 'acesso pelo link indicado'}; verificado em ${coupon.lastVerified}`
       )
     ),
     '',

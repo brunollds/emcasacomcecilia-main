@@ -6,22 +6,24 @@ import { copyTextWithFallback } from '@/lib/clipboardUtils';
 import { getCouponCopyLabels, type CouponCopyLocale } from './review/couponCopyLocale';
 import { trackEvent } from '@/lib/analytics';
 
-export interface CouponBottomBarProps {
-  coupon: string;
+type CouponBottomBarBaseProps = {
   cta?: { url: string; label: string } | null;
   locale?: CouponCopyLocale;
-}
+};
+
+export type CouponBottomBarProps = CouponBottomBarBaseProps & (
+  | { offerMode?: 'discount-code'; coupon: string }
+  | { offerMode: 'affiliate-link'; coupon?: never }
+);
 
 function getShortCtaLabel(label: string, locale: CouponCopyLocale): string {
   if (label.length <= 16) return label;
   return getCouponCopyLabels(locale).shortStoreCta;
 }
 
-export function CouponBottomBar({
-  coupon,
-  cta,
-  locale = 'pt',
-}: CouponBottomBarProps): React.ReactElement | null {
+export function CouponBottomBar(props: CouponBottomBarProps): React.ReactElement | null {
+  const { cta, locale = 'pt' } = props;
+  const coupon = props.offerMode === 'affiliate-link' ? null : props.coupon;
   const [copied, setCopied] = useState(false);
   const [visible, setVisible] = useState(false);
   const [dismissed, setDismissed] = useState(false);
@@ -57,6 +59,8 @@ export function CouponBottomBar({
   if (dismissed) return null;
 
   const handleCopy = async () => {
+    if (!coupon) return;
+
     const success = await copyTextWithFallback(coupon);
     if (!success) return;
 
@@ -86,7 +90,7 @@ export function CouponBottomBar({
   return (
     <div
       className={`fixed inset-x-0 bottom-0 z-50 lg:hidden print:hidden ${visible ? 'translate-y-0' : 'translate-y-full'} transition-transform duration-300 ease-out`}
-      aria-label="Barra de cupom mobile"
+      aria-label="Barra de benefício mobile"
       aria-hidden={!visible}
     >
       {/* Gradiente sutil na base para contraste sobre conteúdo claro */}
@@ -95,19 +99,21 @@ export function CouponBottomBar({
       <div className="relative mx-auto max-w-lg px-3 pt-2" style={{ paddingBottom: 'max(0.5rem, env(safe-area-inset-bottom))' }}>
         <div className="flex items-center gap-2 p-2">
           {/* Botão Copiar Cupom */}
-          <button
-            type="button"
-            onClick={handleCopy}
-            className={`flex flex-1 items-center justify-center gap-2 rounded-full border-2 px-3 py-2 text-sm font-bold transition-all active:scale-95 motion-safe:hover:-translate-y-0.5 ${
-              copied
-                ? 'border-[#1a7f37] bg-[#f0fdf4] text-[#1a7f37] shadow-[0_4px_16px_rgba(26,127,55,0.12)] motion-safe:hover:shadow-[0_6px_20px_rgba(26,127,55,0.16)]'
-                : 'border-[#1a4d2e] text-[#1a4d2e] hover:bg-[#1a4d2e]/5 shadow-[0_2px_8px_rgba(0,0,0,0.08)] motion-safe:hover:shadow-[0_4px_12px_rgba(0,0,0,0.12)]'
-            }`}
-            aria-label={copied ? 'Cupom copiado' : labels.copyCoupon(coupon)}
-          >
-            <span className="font-mono font-black tracking-[0.08em]">{coupon}</span>
-            {copied ? <Check size={14} /> : <Copy size={14} />}
-          </button>
+          {coupon && (
+            <button
+              type="button"
+              onClick={handleCopy}
+              className={`flex flex-1 items-center justify-center gap-2 rounded-full border-2 px-3 py-2 text-sm font-bold transition-all active:scale-95 motion-safe:hover:-translate-y-0.5 ${
+                copied
+                  ? 'border-[#1a7f37] bg-[#f0fdf4] text-[#1a7f37] shadow-[0_4px_16px_rgba(26,127,55,0.12)] motion-safe:hover:shadow-[0_6px_20px_rgba(26,127,55,0.16)]'
+                  : 'border-[#1a4d2e] text-[#1a4d2e] hover:bg-[#1a4d2e]/5 shadow-[0_2px_8px_rgba(0,0,0,0.08)] motion-safe:hover:shadow-[0_4px_12px_rgba(0,0,0,0.12)]'
+              }`}
+              aria-label={copied ? 'Cupom copiado' : labels.copyCoupon(coupon)}
+            >
+              <span className="font-mono font-black tracking-[0.08em]">{coupon}</span>
+              {copied ? <Check size={14} /> : <Copy size={14} />}
+            </button>
+          )}
 
           {/* Botão Ir para Loja */}
           {hasCta && (
@@ -116,11 +122,11 @@ export function CouponBottomBar({
               target="_blank"
               rel="sponsored noopener noreferrer"
               onClick={() => trackEvent('coupon_store_click', {
-                coupon_code: coupon,
+                ...(coupon && { coupon_code: coupon }),
                 placement: 'bottom_bar',
                 url: cta!.url,
               })}
-              className="inline-flex items-center justify-center gap-2 rounded-xl bg-[#ff6b35] px-4 py-3 text-sm font-bold text-white shadow-[0_4px_16px_rgba(255,107,53,0.35)] transition-all active:scale-95 motion-safe:hover:-translate-y-0.5 hover:bg-[#e55a26] motion-safe:hover:shadow-[0_6px_20px_rgba(255,107,53,0.45)]"
+              className={`inline-flex items-center justify-center gap-2 rounded-xl bg-[#ff6b35] px-4 py-3 text-sm font-bold text-white shadow-[0_4px_16px_rgba(255,107,53,0.35)] transition-all active:scale-95 motion-safe:hover:-translate-y-0.5 hover:bg-[#e55a26] motion-safe:hover:shadow-[0_6px_20px_rgba(255,107,53,0.45)]${coupon ? '' : ' flex-1'}`}
             >
               {ctaLabel}
               <ExternalLink size={15} />

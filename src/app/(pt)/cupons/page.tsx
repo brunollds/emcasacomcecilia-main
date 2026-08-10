@@ -7,13 +7,13 @@ import { getActiveCoupons, getCouponStats } from '@/lib/couponsData';
 export const metadata: Metadata = {
   title: 'Cupons da Cecília — Códigos de desconto ativos',
   description:
-    'Cupons ativos da Cecília para economizar em marcas parceiras como DAMIE e Dolce Gusto.',
+    'Cupons e ofertas da Cecília para economizar em marcas parceiras como DAMIE e Dolce Gusto.',
   alternates: {
     canonical: '/cupons',
   },
   openGraph: {
     title: 'Cupons da Cecília — Em Casa com Cecília',
-    description: 'Códigos de desconto ativos em marcas parceiras da Cecília.',
+    description: 'Códigos de desconto e ofertas em marcas parceiras da Cecília.',
     url: '/cupons',
     type: 'website',
     images: [
@@ -27,29 +27,29 @@ export const metadata: Metadata = {
 
 const HUB_FAQS = [
   {
-    question: 'Como funcionam os cupons da Cecília?',
+    question: 'Como funcionam os cupons e ofertas da Cecília?',
     answer:
-      'São códigos negociados com marcas parceiras que aparecem no universo Em Casa com Cecília. Você copia o código, acessa a loja e aplica no checkout para conferir o desconto.',
+      'Alguns benefícios usam códigos aplicados no checkout; outros são acessados diretamente pelo link indicado. A página de cada marca explica qual formato está ativo.',
   },
   {
-    question: 'Os cupons têm validade?',
+    question: 'Os benefícios têm validade?',
     answer:
-      'Cada cupom tem sua própria regra. As páginas individuais indicam validade, última verificação e condições de uso quando essas informações existem.',
+      'Cada cupom ou oferta tem sua própria regra. As páginas individuais indicam validade, última verificação e condições de uso quando essas informações existem.',
   },
   {
-    question: 'Posso usar o mesmo cupom mais de uma vez?',
+    question: 'Posso usar o mesmo benefício mais de uma vez?',
     answer:
-      'Em geral sim, mas a regra final é sempre da loja parceira. Se houver limite de uso por CPF ou campanha, isso aparece no carrinho ou checkout.',
+      'Isso depende da regra da loja parceira. Se houver limite por CPF, código ou campanha, a condição aparece na página da marca, no carrinho ou no checkout.',
   },
   {
-    question: 'O cupom é cumulativo com promoções da loja?',
+    question: 'O benefício é cumulativo com promoções da loja?',
     answer:
-      'Normalmente cupons não acumulam com outras promoções, mas isso pode variar por marca e campanha. O valor final exibido no checkout é a referência.',
+      'A possibilidade de acumular depende da marca, do formato da oferta e da campanha. O valor final exibido no carrinho ou checkout é a referência.',
   },
   {
-    question: 'O que acontece se o cupom não funcionar?',
+    question: 'O que acontece se o benefício não funcionar?',
     answer:
-      'Confira se o produto é elegível e se o código foi digitado corretamente. Se ainda assim não funcionar, avise pelo contato do site para que a informação seja revisada.',
+      'Confira se o produto é elegível e, quando houver código, se ele foi digitado corretamente. Se ainda assim não funcionar, avise pelo contato do site para que a informação seja revisada.',
   },
   {
     question: 'Existe comissão de afiliado?',
@@ -87,7 +87,9 @@ function getJsonLd() {
     itemListElement: activeCoupons.map((coupon, index) => ({
       '@type': 'ListItem',
       position: index + 1,
-      name: `Cupom ${coupon.brand} — ${coupon.discount} com ${coupon.code}`,
+      name: coupon.offerMode === 'discount-code'
+        ? `Cupom ${coupon.brand} — ${coupon.discount} com ${coupon.code}`
+        : `Oferta ${coupon.brand} — ${coupon.discount} pelo link indicado`,
       url: `https://emcasacomcecilia.com/cupons/${coupon.slug}`,
     })),
   };
@@ -150,15 +152,15 @@ export default function CuponsPage() {
                 Cupons da Cecília
               </h1>
               <p className="mt-5 max-w-2xl text-base leading-relaxed text-white/76 md:text-lg">
-                Códigos ativos para economizar em marcas parceiras que aparecem no Em Casa com Cecília.
-                Cada cupom tem uma página própria com regras, validade e instruções de uso.
+                Códigos e ofertas para economizar em marcas parceiras que aparecem no Em Casa com Cecília.
+                Cada benefício tem uma página própria com regras, validade e instruções de uso.
               </p>
             </div>
           </div>
 
           <dl className="mt-8 grid grid-cols-2 gap-3 rounded-2xl border border-white/10 bg-white/5 p-4 md:grid-cols-4">
             <div>
-              <dt className="text-[10px] font-black uppercase tracking-[0.18em] text-white/58">Cupons ativos</dt>
+              <dt className="text-[10px] font-black uppercase tracking-[0.18em] text-white/58">Benefícios ativos</dt>
               <dd className="mt-1 text-2xl font-black text-[#ff9158]">{stats.activeCount}</dd>
             </div>
             <div>
@@ -166,8 +168,8 @@ export default function CuponsPage() {
               <dd className="mt-1 text-2xl font-black text-[#ff9158]">{stats.averageDiscount}%</dd>
             </div>
             <div>
-              <dt className="text-[10px] font-black uppercase tracking-[0.18em] text-white/58">Uso</dt>
-              <dd className="mt-1 text-2xl font-black text-[#ff9158]">Reusável</dd>
+              <dt className="text-[10px] font-black uppercase tracking-[0.18em] text-white/58">Formatos</dt>
+              <dd className="mt-1 text-lg font-black text-[#ff9158]">Código + link</dd>
             </div>
             <div>
               <dt className="text-[10px] font-black uppercase tracking-[0.18em] text-white/58">Atualização</dt>
@@ -177,13 +179,13 @@ export default function CuponsPage() {
 
           {lastUpdate && (
             <p className="mt-4 text-xs text-white/55">
-              Última revisão dos cupons ativos: {lastUpdate}.
+              Última revisão dos benefícios ativos: {lastUpdate}.
             </p>
           )}
 
           <div className="mt-10 rounded-[2rem] border border-white/10 bg-white/[0.055] p-5 shadow-[0_18px_60px_rgba(0,0,0,0.18)] backdrop-blur-md">
             <h2 className="font-heading text-2xl font-black text-white">
-              Todos os cupons ativos
+              Cupons e ofertas ativos
             </h2>
             <p className="mt-2 max-w-2xl text-sm leading-relaxed text-white/68">
               Escolha uma marca para ver detalhes completos, regras de uso e conteúdo relacionado.
@@ -193,11 +195,13 @@ export default function CuponsPage() {
               {activeCoupons.map((coupon) => (
                 <CouponPillCard
                   key={coupon.slug}
+                  {...(coupon.offerMode === 'discount-code'
+                    ? { offerMode: coupon.offerMode, code: coupon.code }
+                    : { offerMode: coupon.offerMode })}
                   brand={coupon.brand}
                   brandIcon={coupon.brandIcon}
                   brandLogo={coupon.brandLogo}
                   brandLogoAlt={coupon.brandLogoAlt}
-                  code={coupon.code}
                   shortDescription={coupon.shortDescription}
                   discount={coupon.discount}
                   href={`/cupons/${coupon.slug}`}
@@ -211,13 +215,12 @@ export default function CuponsPage() {
       <section className="bg-white px-4 py-14">
         <div className="mx-auto max-w-3xl">
           <h2 className="font-heading text-2xl font-black text-[#0f1419]">
-            Como funcionam os cupons da Cecília
+            Como funcionam os cupons e ofertas da Cecília
           </h2>
           <p className="mt-4 text-base leading-relaxed text-[#0f1419]/78">
-            Os cupons desta página são organizados como uma central de benefícios. A ideia é simples:
-            você encontra o código ativo, copia, acessa a loja parceira e confere o desconto no checkout.
-            As páginas específicas ajudam a entender em quais produtos o cupom costuma funcionar e quais
-            regras precisam ser observadas.
+            Esta página reúne códigos e ofertas por link em uma central de benefícios. Quando houver um
+            código, você poderá copiá-lo e aplicar no checkout; nas ofertas por link, basta acessar a loja
+            pelo botão indicado. As páginas específicas explicam os produtos elegíveis e as regras de uso.
           </p>
           <p className="mt-4 text-base leading-relaxed text-[#0f1419]/78">
             Alguns links podem gerar comissão para o Em Casa com Cecília, sem custo extra para você.
@@ -228,9 +231,9 @@ export default function CuponsPage() {
             Como usar em 3 passos
           </h2>
           <ol className="mt-4 list-decimal space-y-3 pl-6 text-base leading-relaxed text-[#0f1419]/78">
-            <li>Abra a página da marca parceira e copie o código do cupom.</li>
-            <li>Acesse a loja pelo botão indicado e adicione os produtos elegíveis ao carrinho.</li>
-            <li>Cole o código no campo de cupom/desconto antes de finalizar a compra.</li>
+            <li>Abra a página da marca parceira e confira se o benefício usa código ou link.</li>
+            <li>Copie o código quando houver ou acesse diretamente a loja pelo botão indicado.</li>
+            <li>Confira as condições e o valor final antes de concluir a compra.</li>
           </ol>
 
           <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">

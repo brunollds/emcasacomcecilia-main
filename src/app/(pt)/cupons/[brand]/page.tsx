@@ -76,16 +76,21 @@ export async function generateMetadata({ params }: CouponBrandPageProps): Promis
 
 function getJsonLd(coupon: NonNullable<ReturnType<typeof getCouponBySlug>>) {
   const url = `https://emcasacomcecilia.com/cupons/${coupon.slug}`;
-  const offerType = coupon.offerTypeLabel || 'cupom';
+  const offerType = coupon.offerTypeLabel || (coupon.offerMode === 'discount-code' ? 'cupom' : 'oferta');
 
   const offer = {
     '@context': 'https://schema.org',
     '@type': 'Offer',
-    name: `${coupon.discount} na ${coupon.brand} com ${offerType} ${coupon.code}`,
+    name: coupon.offerMode === 'discount-code'
+      ? `${coupon.discount} na ${coupon.brand} com ${offerType} ${coupon.code}`
+      : `${coupon.discount} na ${coupon.brand} pelo link indicado`,
     description: coupon.longDescription,
     category: coupon.category,
     priceCurrency: 'BRL',
-    discount: `${coupon.discountNumber}`,
+    ...(coupon.offerMode === 'discount-code' ? {
+      discount: `${coupon.discountNumber}`,
+      couponCode: coupon.code,
+    } : {}),
     offeredBy: {
       '@type': 'Organization',
       name: coupon.brand,
@@ -98,7 +103,6 @@ function getJsonLd(coupon: NonNullable<ReturnType<typeof getCouponBySlug>>) {
     },
     dateModified: coupon.lastVerified,
     url,
-    couponCode: coupon.code,
   };
 
   const webPage = {
@@ -165,17 +169,26 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
 
   const otherCoupons = getOtherActiveCoupons(coupon.slug);
   const jsonLd = getJsonLd(coupon);
-  const offerType = coupon.offerTypeLabel || 'cupom';
-  const offerTypePlural = coupon.offerTypeLabelPlural || 'cupons';
-  const offerAction = coupon.offerActionLabel || `economizar ${coupon.discount}`;
-  const codeFieldLabel = coupon.codeFieldLabel || 'campo de cupom/desconto';
-  const codeInstructions = coupon.codeInstructions || [
-    `Copie o código ${coupon.code} no card acima.`,
-    `Acesse a loja ${coupon.brand} pelo botão indicado.`,
-    'Adicione os produtos desejados ao carrinho.',
-    'Cole o código no campo de cupom/desconto antes de finalizar.',
-    `Confira se o desconto de ${coupon.discount} apareceu no resumo do pedido.`,
-  ];
+  const couponCodeOffer = coupon.offerMode === 'discount-code' ? coupon : null;
+  const offerType = coupon.offerTypeLabel || (couponCodeOffer ? 'cupom' : 'oferta');
+  const offerTypePlural = coupon.offerTypeLabelPlural || (couponCodeOffer ? 'cupons' : 'ofertas');
+  const offerAction = coupon.offerActionLabel || (couponCodeOffer
+    ? `economizar ${coupon.discount}`
+    : 'Ver oferta');
+  const codeFieldLabel = couponCodeOffer?.codeFieldLabel || 'campo de cupom/desconto';
+  const offerInstructions = couponCodeOffer
+    ? couponCodeOffer.codeInstructions || [
+        `Copie o código ${couponCodeOffer.code} no card acima.`,
+        `Acesse a loja ${coupon.brand} pelo botão indicado.`,
+        'Adicione os produtos desejados ao carrinho.',
+        'Cole o código no campo de cupom/desconto antes de finalizar.',
+        `Confira se o desconto de ${coupon.discount} apareceu no resumo do pedido.`,
+      ]
+    : [
+        `Acesse a oferta da ${coupon.brand} pelo botão indicado.`,
+        'Confira os produtos e condições disponíveis na página da loja.',
+        'Verifique o valor final antes de concluir a compra.',
+      ];
   const lastVerified = new Date(`${coupon.lastVerified}T12:00:00`).toLocaleDateString('pt-BR', {
     day: 'numeric',
     month: 'long',
@@ -222,13 +235,15 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
             )}
             <div>
               <h1 className="font-heading text-3xl font-black leading-tight tracking-[-0.03em] md:text-5xl">
-                {offerType.charAt(0).toUpperCase() + offerType.slice(1)} {coupon.brand}: {coupon.discount} com {coupon.code}
+                {couponCodeOffer
+                  ? `${offerType.charAt(0).toUpperCase() + offerType.slice(1)} ${coupon.brand}: ${coupon.discount} com ${couponCodeOffer.code}`
+                  : `${offerType.charAt(0).toUpperCase() + offerType.slice(1)} ${coupon.brand}: ${coupon.discount}`}
               </h1>
               <p className="mt-4 max-w-2xl text-base leading-relaxed text-white/78">
                 {coupon.longDescription}
               </p>
               <p className="mt-4 text-xs text-white/55">
-                Atualizado em {lastVerified}. Confira o desconto no checkout antes de finalizar.
+                Atualizado em {lastVerified}. Confira as condições e o valor final antes de finalizar.
               </p>
             </div>
           </div>
@@ -241,10 +256,12 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
         <section className="px-4 pt-8">
           <div className="mx-auto max-w-5xl rounded-2xl border border-[#ff6b35]/30 bg-white px-5 py-4 shadow-soft">
             <p className="font-heading text-lg font-black text-[#0f1419]">
-              {offerType.charAt(0).toUpperCase() + offerType.slice(1)} {coupon.brand} atualizado: {coupon.code} — {coupon.discount} {coupon.monthlyHighlight.scope} ({highlightMonthYear}).
+              {couponCodeOffer
+                ? `${offerType.charAt(0).toUpperCase() + offerType.slice(1)} ${coupon.brand} atualizado: ${couponCodeOffer.code} — ${coupon.discount} ${coupon.monthlyHighlight.scope} (${highlightMonthYear}).`
+                : `Atualização da oferta ${coupon.brand}: ${coupon.discount} ${coupon.monthlyHighlight.scope} (${highlightMonthYear}).`}
             </p>
             <p className="mt-2 text-sm leading-relaxed text-[#0f1419]/70">
-              {coupon.monthlyHighlight.note}. Confirme o desconto no checkout antes de finalizar.
+              {coupon.monthlyHighlight.note}. Confirme as condições e o valor final antes de finalizar.
             </p>
           </div>
         </section>
@@ -272,7 +289,7 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
                 )}
                 <div className="flex flex-wrap items-center gap-3">
                   <span className="rounded-full bg-white px-3 py-1 text-[10px] font-black uppercase tracking-[0.18em] text-[#862f0e]">
-                    {coupon.brand} · {offerType} ativo
+                    {coupon.brand} · {offerType} disponível
                   </span>
                   <span className="rounded-full bg-[#ffd23f] px-3 py-1 text-[10px] font-black uppercase tracking-[0.18em] text-[#4a2400]">
                     {coupon.discount}
@@ -280,13 +297,17 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
                 </div>
               </div>
 
-              {coupon.tiers && coupon.tiers.length > 0 ? (
+              {couponCodeOffer?.tiers && couponCodeOffer.tiers.length > 0 ? (
                 <p className="mt-6 font-heading text-4xl font-black leading-tight tracking-[-0.02em] md:text-6xl">
                   {coupon.discount}
                 </p>
-              ) : (
+              ) : couponCodeOffer ? (
                 <p className="mt-6 font-mono text-4xl font-black tracking-[0.08em] md:text-6xl">
-                  {coupon.code}
+                  {couponCodeOffer.code}
+                </p>
+              ) : (
+                <p className="mt-6 font-heading text-4xl font-black leading-tight tracking-[-0.02em] md:text-6xl">
+                  {coupon.discount}
                 </p>
               )}
               <h2 className="mt-4 font-heading text-2xl font-black leading-tight">
@@ -297,24 +318,24 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
               </p>
 
               <div className="mt-7 flex flex-col gap-3 sm:flex-row">
-                {coupon.tiers && coupon.tiers.length > 0 ? (
+                {couponCodeOffer?.tiers && couponCodeOffer.tiers.length > 0 ? (
                   <a
                     href="#faixas-de-desconto"
                     className="inline-flex items-center justify-center gap-2 rounded-lg bg-white px-4 py-2.5 text-sm font-semibold text-[#862f0e] transition-colors hover:bg-white/90 focus:outline-none focus-visible:ring-2 focus-visible:ring-white"
                   >
                     Ver as faixas e copiar o código
                   </a>
-                ) : (
+                ) : couponCodeOffer ? (
                   <CopyButton
-                    code={coupon.code}
+                    code={couponCodeOffer.code}
                     label={`Copiar e ${offerAction}`}
                     brand={coupon.brand}
                   />
-                )}
+                ) : null}
                 <CouponStoreLink
                   href={coupon.offerUrl}
-                  label="Ir para a loja"
-                  couponCode={coupon.code}
+                  label={couponCodeOffer ? 'Ir para a loja' : offerAction}
+                  couponCode={couponCodeOffer?.code}
                   brand={coupon.brand}
                   placement="coupon_page"
                   className="inline-flex items-center justify-center rounded-lg border border-white/30 bg-white/15 px-4 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-white/25 focus:outline-none focus-visible:ring-2 focus-visible:ring-white"
@@ -327,7 +348,7 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
 
       <article className="bg-white px-4 py-14">
         <div className="mx-auto max-w-3xl">
-          {coupon.tiers && coupon.tiers.length > 0 && (
+          {couponCodeOffer?.tiers && couponCodeOffer.tiers.length > 0 && (
             <>
               <h2 id="faixas-de-desconto" className="scroll-mt-24 font-heading text-2xl font-black text-[#0f1419]">
                 Faixas de desconto do {coupon.brand}
@@ -377,7 +398,7 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-black/8">
-                    {coupon.tiers.map((tier) => (
+                    {couponCodeOffer.tiers.map((tier) => (
                       <tr key={tier.code} className="bg-white">
                         <td className="px-4 py-3">
                           <CopyButton
@@ -400,12 +421,14 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
             </>
           )}
 
-          <h2 className={`font-heading text-2xl font-black text-[#0f1419]${coupon.tiers && coupon.tiers.length > 0 ? ' mt-12' : ''}`}>
-            Detalhes do {offerType} {coupon.code}
+          <h2 className={`font-heading text-2xl font-black text-[#0f1419]${couponCodeOffer?.tiers && couponCodeOffer.tiers.length > 0 ? ' mt-12' : ''}`}>
+            {couponCodeOffer
+              ? `Detalhes do ${offerType} ${couponCodeOffer.code}`
+              : `Detalhes da oferta ${coupon.brand}`}
           </h2>
           <dl className="mt-6 divide-y divide-black/8 rounded-2xl border border-black/8">
-            <DetailRow label="Código" value={coupon.code} mono />
-            <DetailRow label="Desconto" value={coupon.discount} />
+            {couponCodeOffer && <DetailRow label="Código" value={couponCodeOffer.code} mono />}
+            <DetailRow label={couponCodeOffer ? 'Desconto' : 'Benefício'} value={coupon.discount} />
             <DetailRow label="Loja" value={coupon.brand} />
             <DetailRow label="Abrangência" value={coupon.eligibleCategories} />
             <DetailRow label="Validade" value={coupon.validity} />
@@ -416,15 +439,21 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
           </dl>
 
           <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">
-            Como aplicar o {offerType} {coupon.code} na {coupon.brand}
+            {couponCodeOffer
+              ? `Como aplicar o ${offerType} ${couponCodeOffer.code} na ${coupon.brand}`
+              : `Como acessar a oferta da ${coupon.brand}`}
           </h2>
           <ol className="mt-4 list-decimal space-y-3 pl-6 text-base leading-relaxed text-[#0f1419]/78">
-            {codeInstructions.map((instruction) => (
+            {offerInstructions.map((instruction) => (
               <li key={instruction}>{instruction}</li>
             ))}
           </ol>
           <p className="mt-4 rounded-2xl border border-[#ff6b35]/25 bg-[#fff7ed] px-4 py-3 text-sm leading-relaxed text-[#7c2d12]">
-            Campo correto: <strong>{codeFieldLabel}</strong>. Confirme sempre o resumo do pedido antes de pagar.
+            {couponCodeOffer ? (
+              <>Campo correto: <strong>{codeFieldLabel}</strong>. Confirme sempre o resumo do pedido antes de pagar.</>
+            ) : (
+              <>Esta oferta é acessada pelo link indicado e não exige código para copiar. Confirme as condições na loja antes de pagar.</>
+            )}
           </p>
 
           <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">
@@ -435,23 +464,25 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
           </p>
 
           <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">
-            Perguntas frequentes sobre {offerTypePlural} {coupon.brand}
+            {couponCodeOffer
+              ? `Perguntas frequentes sobre ${offerTypePlural} ${coupon.brand}`
+              : `Perguntas frequentes sobre ${offerTypePlural} da ${coupon.brand}`}
           </h2>
           <div className="mt-4">
             <FAQAccordion items={coupon.faqs} />
           </div>
 
-          {coupon.history && coupon.history.length > 0 && (
+          {couponCodeOffer?.history && couponCodeOffer.history.length > 0 && (
             <>
               <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">
                 Histórico de cupons da {coupon.brand}
               </h2>
               <p className="mt-4 text-base leading-relaxed text-[#0f1419]/78">
                 Cupons anteriores já usados nessa parceria. O cupom ativo atual é{' '}
-                <strong>{coupon.code}</strong>.
+                <strong>{couponCodeOffer.code}</strong>.
               </p>
               <ul className="mt-4 space-y-3">
-                {coupon.history.map((item) => (
+                {couponCodeOffer.history.map((item) => (
                   <li
                     key={`${item.date}-${item.code}`}
                     className="flex flex-wrap items-center gap-3 rounded-xl bg-[#fef9f3] px-4 py-3 text-sm"
@@ -494,17 +525,19 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
           {otherCoupons.length > 0 && (
             <>
               <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">
-                Outros cupons ativos
+                Outros benefícios ativos
               </h2>
               <div className="mt-4 grid gap-3 md:grid-cols-2">
                 {otherCoupons.map((otherCoupon) => (
                   <CouponPillCard
                     key={otherCoupon.slug}
+                    {...(otherCoupon.offerMode === 'discount-code'
+                      ? { offerMode: otherCoupon.offerMode, code: otherCoupon.code }
+                      : { offerMode: otherCoupon.offerMode })}
                     brand={otherCoupon.brand}
                     brandIcon={otherCoupon.brandIcon}
                     brandLogo={otherCoupon.brandLogo}
                     brandLogoAlt={otherCoupon.brandLogoAlt}
-                    code={otherCoupon.code}
                     shortDescription={otherCoupon.shortDescription}
                     discount={otherCoupon.discount}
                     href={`/cupons/${otherCoupon.slug}`}
@@ -517,18 +550,31 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
           <div className="mt-14 rounded-2xl bg-[#fef9f3] p-6">
             <h2 className="font-heading text-xl font-black text-[#0f1419]">Transparência</h2>
             <p className="mt-3 text-sm leading-relaxed text-[#0f1419]/68">
-              Esta página pode conter links de afiliado. Quando você compra usando o {offerType}{' '}
-              <strong>{coupon.code}</strong> ou acessa a loja pelo link indicado, o Em Casa com Cecília
-              pode receber comissão da marca, sem custo extra para você.
+              {couponCodeOffer ? (
+                <>Esta página pode conter links de afiliado. Quando você compra usando o {offerType}{' '}
+                  <strong>{couponCodeOffer.code}</strong> ou acessa a loja pelo link indicado, o Em Casa com Cecília
+                  pode receber comissão da marca, sem custo extra para você.</>
+              ) : (
+                <>Esta página contém um link de afiliado. Quando você acessa a oferta e compra pelo link indicado,
+                  o Em Casa com Cecília pode receber comissão da marca, sem custo extra para você.</>
+              )}
             </p>
           </div>
         </div>
       </article>
 
-      <CouponBottomBar
-        coupon={coupon.code}
-        cta={{ url: coupon.offerUrl, label: 'Usar na loja' }}
-      />
+      {coupon.offerMode === 'discount-code' ? (
+        <CouponBottomBar
+          offerMode={coupon.offerMode}
+          coupon={coupon.code}
+          cta={{ url: coupon.offerUrl, label: 'Usar na loja' }}
+        />
+      ) : (
+        <CouponBottomBar
+          offerMode={coupon.offerMode}
+          cta={{ url: coupon.offerUrl, label: offerAction }}
+        />
+      )}
     </main>
   );
 }

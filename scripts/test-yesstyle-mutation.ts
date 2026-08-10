@@ -129,6 +129,8 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
     const ptHub = COUPONS.find((c) => c.slug === 'yesstyle');
     if (!ptHub) {
       errors.push('Hub PT "yesstyle" não encontrado em COUPONS');
+    } else if (ptHub.offerMode !== 'discount-code') {
+      errors.push(`Hub PT "yesstyle" esperado como discount-code, obteve "${ptHub.offerMode}"`);
     } else {
       if (ptHub.code !== 'MUTATIONTEST99') errors.push(`Hub PT code: esperado "MUTATIONTEST99", obteve "${ptHub.code}"`);
       if (ptHub.discountNumber !== 99) errors.push(`Hub PT discountNumber: esperado 99, obteve ${ptHub.discountNumber}`);

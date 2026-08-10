@@ -12,7 +12,7 @@ export interface CouponHistory {
   note?: string;
 }
 
-export interface Coupon {
+interface CouponBase {
   slug: string;
   brand: string;
   officialUrl: string;
@@ -23,14 +23,10 @@ export interface Coupon {
   socialImage?: string;
   socialImageAlt?: string;
   brandColor: string;
-  code: string;
   discount: string;
-  discountNumber: number;
   offerTypeLabel?: string;
   offerTypeLabelPlural?: string;
   offerActionLabel?: string;
-  codeFieldLabel?: string;
-  codeInstructions?: string[];
   category: string;
   shortDescription: string;
   longDescription: string;
@@ -44,7 +40,6 @@ export interface Coupon {
   lastVerified: string;
   aboutBrand: string;
   faqs: CouponFAQ[];
-  history?: CouponHistory[];
   status: 'ativo' | 'pausado' | 'expirado';
   featured: boolean;
   relatedContent?: {
@@ -57,15 +52,31 @@ export interface Coupon {
     scope: string;
     note: string;
   };
+}
+
+export type CouponCodeOffer = CouponBase & {
+  offerMode: 'discount-code';
+  code: string;
+  discountNumber: number;
+  codeFieldLabel?: string;
+  codeInstructions?: string[];
+  history?: CouponHistory[];
   tiers?: {
     code: string;
     discount: string;
     minPurchase: string;
   }[];
-}
+};
+
+export type AffiliateLinkOffer = CouponBase & {
+  offerMode: 'affiliate-link';
+};
+
+export type Coupon = CouponCodeOffer | AffiliateLinkOffer;
 
 export const COUPONS: Coupon[] = [
   {
+    offerMode: 'discount-code',
     slug: 'damie',
     brand: 'DAMIE',
     officialUrl: 'https://damie.com.br',
@@ -169,6 +180,7 @@ export const COUPONS: Coupon[] = [
     },
   },
   {
+    offerMode: 'discount-code',
     slug: 'dolce-gusto',
     brand: 'Dolce Gusto',
     officialUrl: 'https://www.nescafe-dolcegusto.com.br/',
@@ -256,6 +268,7 @@ export const COUPONS: Coupon[] = [
     },
   },
   {
+    offerMode: 'discount-code',
     slug: 'yesstyle',
     brand: 'YesStyle',
     officialUrl: 'https://www.yesstyle.com/',
@@ -384,6 +397,7 @@ export const COUPONS: Coupon[] = [
     },
   },
   {
+    offerMode: 'discount-code',
     slug: 'nutren',
     brand: 'Nestlé Nutre',
     officialUrl: 'https://www.nestlenutre.com.br/',
@@ -463,6 +477,7 @@ export const COUPONS: Coupon[] = [
     },
   },
   {
+    offerMode: 'discount-code',
     slug: 'i-wanna-sleep',
     brand: 'I Wanna Sleep',
     officialUrl: 'https://www.iwannasleep.com.br',
@@ -535,6 +550,7 @@ export const COUPONS: Coupon[] = [
     featured: true,
   },
   {
+    offerMode: 'discount-code',
     slug: 'magalu',
     brand: 'Magalu',
     officialUrl: 'https://www.magazineluiza.com.br/',
@@ -665,6 +681,7 @@ export const COUPONS: Coupon[] = [
     ],
   },
   {
+    offerMode: 'discount-code',
     slug: 'kopenhagen',
     brand: 'Kopenhagen',
     officialUrl: 'https://www.kopenhagen.com.br/',
@@ -747,8 +764,11 @@ export function getAllActiveCouponSlugs(): string[] {
 
 export function getCouponStats() {
   const activeCoupons = getActiveCoupons();
-  const averageDiscount = activeCoupons.length
-    ? activeCoupons.reduce((total, coupon) => total + coupon.discountNumber, 0) / activeCoupons.length
+  const couponCodeOffers = activeCoupons.filter(
+    (coupon): coupon is CouponCodeOffer => coupon.offerMode === 'discount-code'
+  );
+  const averageDiscount = couponCodeOffers.length
+    ? couponCodeOffers.reduce((total, coupon) => total + coupon.discountNumber, 0) / couponCodeOffers.length
     : 0;
   const lastUpdate = activeCoupons
     .map((coupon) => coupon.lastVerified)

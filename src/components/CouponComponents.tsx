@@ -159,29 +159,34 @@ export function CouponStoreLink({
   );
 }
 
-type CouponPillCardProps = {
+type CouponPillCardBaseProps = {
   brand: string;
   brandIcon: string;
   brandLogo?: string;
   brandLogoAlt?: string;
-  code: string;
   shortDescription: string;
   discount: string;
   href: string;
   className?: string;
 };
 
-export function CouponPillCard({
-  brand,
-  brandIcon,
-  brandLogo,
-  brandLogoAlt,
-  code,
-  shortDescription,
-  discount,
-  href,
-  className = '',
-}: CouponPillCardProps) {
+type CouponPillCardProps = CouponPillCardBaseProps & (
+  | { offerMode: 'discount-code'; code: string }
+  | { offerMode: 'affiliate-link' }
+);
+
+export function CouponPillCard(props: CouponPillCardProps) {
+  const {
+    brand,
+    brandIcon,
+    brandLogo,
+    brandLogoAlt,
+    shortDescription,
+    discount,
+    href,
+    className = '',
+  } = props;
+
   return (
     <Link
       href={href}
@@ -208,8 +213,12 @@ export function CouponPillCard({
           <ArrowUpRight className="h-3.5 w-3.5 text-[#0f1419]/38 transition-colors group-hover:text-[#ff6b35]" />
         </div>
         <p className="mt-0.5 truncate text-xs text-[#0f1419]/58">
-          <code className="font-mono font-black text-[#0f1419]">{code}</code>
-          {' · '}
+          {props.offerMode === 'discount-code' && (
+            <>
+              <code className="font-mono font-black text-[#0f1419]">{props.code}</code>
+              {' · '}
+            </>
+          )}
           {shortDescription}
         </p>
       </div>
