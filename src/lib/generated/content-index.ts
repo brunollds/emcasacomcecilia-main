@@ -33851,7 +33851,7 @@ export const reviewsData: unknown[] = [
     },
     "description": "Análise completa da Nestlé Nutre: CNPJ oficial da Nestlé Brasil, SAC, política de troca/devolução (CDC 7 dias), entregas e o que observar antes de comprar.",
     "metaDescription": "Nestlé Nutre é confiável? Veja CNPJ oficial, SAC 0800, políticas de troca/devolução, entregas, o Programa Nestlé Nutre e dicas de compra no site oficial.",
-    "publishedAt": "9 de agosto de 2026",
+    "publishedAt": "5 de agosto de 2026",
     "draft": false,
     "image": "/images/reviews/nutren/nestle-nutre-hero.webp",
     "imageAlt": "Catálogo de marcas e linhas da Nestlé Nutre, incluindo Nutren, Isosource e Modulen",
@@ -33946,9 +33946,9 @@ export const reviewsData: unknown[] = [
         "title": "Nestlé Nutre: produtos, para que servem e como comprar"
       }
     ],
-    "publishedAtISO": "2026-08-09",
+    "publishedAtISO": "2026-08-05",
     "isNew": true,
-    "updatedAt": "2026-08-09"
+    "updatedAt": "2026-08-05"
   },
   {
     "id": 224,
@@ -33965,7 +33965,7 @@ export const reviewsData: unknown[] = [
     },
     "description": "Guia da linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra, Fortify e Mulher. Entenda a indicação de cada produto, formas de consumo e como comprar.",
     "metaDescription": "Guia da linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra e Fortify. Veja a indicação de cada fórmula e como consultar preços e cupons no site.",
-    "publishedAt": "10 de agosto de 2026",
+    "publishedAt": "11 de agosto de 2026",
     "draft": false,
     "image": "/images/reviews/nutren/linha-produtos-hero.webp",
     "imageAlt": "Linha de produtos Nestlé Nutre",
@@ -34068,9 +34068,9 @@ export const reviewsData: unknown[] = [
         "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 5%"
       }
     ],
-    "publishedAtISO": "2026-08-10",
+    "publishedAtISO": "2026-08-11",
     "isNew": true,
-    "updatedAt": "2026-08-10"
+    "updatedAt": "2026-08-11"
   },
   {
     "id": 225,
@@ -34087,7 +34087,7 @@ export const reviewsData: unknown[] = [
     },
     "description": "Ficha técnica do Nutren Senior Zero Lactose: composição de nutrientes, modo de preparo, preços e orientações de uso. Veja como comprar com cupom CECI.",
     "metaDescription": "Ficha técnica do Nutren Senior Zero Lactose: nutrientes, preparo de 180ml, lata de 740g, preços e como consultar o cupom CECI na loja oficial.",
-    "publishedAt": "11 de agosto de 2026",
+    "publishedAt": "13 de agosto de 2026",
     "draft": false,
     "image": "/images/reviews/nutren/nutren-senior-hero.webp",
     "imageAlt": "Lata do Nutren Senior Zero Lactose",
@@ -34183,9 +34183,9 @@ export const reviewsData: unknown[] = [
         "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 5%"
       }
     ],
-    "publishedAtISO": "2026-08-11",
+    "publishedAtISO": "2026-08-13",
     "isNew": true,
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-13"
   },
   {
     "id": 226,
@@ -37383,7 +37383,7 @@ export const reviewsData: unknown[] = [
     },
     "description": "Guia dos sabores Starbucks exclusivos para o sistema Dolce Gusto: intensidade, formatos (5+5 e 10 cápsulas), preços atualizados de 30/07/2026 e como comprar com o cupom CECI.",
     "metaDescription": "Cápsulas Starbucks Dolce Gusto: guia completo dos 5 sabores disponíveis, intensidade, preços de 30/07/2026 e como comprar com cupom CECI na loja oficial.",
-    "publishedAt": "Draft",
+    "publishedAt": "12 de agosto de 2026",
     "draft": true,
     "pros": [],
     "cons": [],
@@ -37530,7 +37530,9 @@ export const reviewsData: unknown[] = [
       }
     ],
     "image": "/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-2026-hero.webp",
-    "imageAlt": "Caixas de cápsulas NESCAFÉ Dolce Gusto e Starbucks em casa"
+    "imageAlt": "Caixas de cápsulas NESCAFÉ Dolce Gusto e Starbucks em casa",
+    "publishedAtISO": "2026-08-12",
+    "updatedAt": "2026-08-12"
   },
   {
     "id": 248,
@@ -37689,9 +37691,9 @@ export const reviewsData: unknown[] = [
     "description": "Sofá na Caixa virou sucesso viral e depois enfrentou explosão de reclamações. Veja o que motivou a ação do Procon-SP e o que aprender antes de comprar sofá modular online.",
     "seoTitle": "Crise da Sofá na Caixa: Reclamações e Atuação do Procon-SP",
     "metaDescription": "Entenda o aumento de reclamações da Sofá na Caixa em 2025, as notificações do Procon-SP e o que avaliar antes de comprar sofá modular online.",
-    "publishedAt": "12 de agosto de 2026",
-    "publishedAtISO": "2026-08-12",
-    "updatedAt": "2026-08-12",
+    "publishedAt": "10 de agosto de 2026",
+    "publishedAtISO": "2026-08-10",
+    "updatedAt": "2026-08-10",
     "image": "/images/reviews/sofa-damie-na-caixa-cecilia-conceito.webp",
     "imageAlt": "Conceito de sofá modular entregue em caixas compactas",
     "pros": [

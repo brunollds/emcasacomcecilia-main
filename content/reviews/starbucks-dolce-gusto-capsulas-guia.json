@@ -13,7 +13,7 @@
   },
   "description": "Guia dos sabores Starbucks exclusivos para o sistema Dolce Gusto: intensidade, formatos (5+5 e 10 cápsulas), preços atualizados de 30/07/2026 e como comprar com o cupom CECI.",
   "metaDescription": "Cápsulas Starbucks Dolce Gusto: guia completo dos 5 sabores disponíveis, intensidade, preços de 30/07/2026 e como comprar com cupom CECI na loja oficial.",
-  "publishedAt": "Draft",
+  "publishedAt": "12 de agosto de 2026",
   "draft": true,
   "pros": [],
   "cons": [],
@@ -160,5 +160,7 @@
     }
   ],
   "image": "/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-2026-hero.webp",
-  "imageAlt": "Caixas de cápsulas NESCAFÉ Dolce Gusto e Starbucks em casa"
+  "imageAlt": "Caixas de cápsulas NESCAFÉ Dolce Gusto e Starbucks em casa",
+  "publishedAtISO": "2026-08-12",
+  "updatedAt": "2026-08-12"
 }
