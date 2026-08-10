@@ -201,5 +201,6 @@
     }
   ],
   "isNew": true,
+  "imageAspect": "landscape",
   "imageFit": "cover"
 }

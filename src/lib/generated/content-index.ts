@@ -37884,6 +37884,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "isNew": true,
+    "imageAspect": "landscape",
     "imageFit": "cover"
   },
   {
