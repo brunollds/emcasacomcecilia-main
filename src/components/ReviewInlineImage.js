@@ -116,14 +116,14 @@ function InlineImageThumbnail({ image, index, onOpen, sizes }) {
       >
         <div
           className={`relative w-full ${
-            isPortrait ? 'aspect-[9/16]' : isPanoramic ? 'aspect-[6/1]' : isWide ? 'aspect-[4/1]' : isSquare ? 'aspect-square' : 'aspect-video'
+            isPortrait ? 'aspect-[9/16] max-w-md mx-auto bg-slate-900/5' : isPanoramic ? 'aspect-[6/1]' : isWide ? 'aspect-[4/1]' : isSquare ? 'aspect-square' : 'aspect-video'
           }`}
         >
           <Image
             src={image.src}
             alt={image.alt}
             fill
-            className={isPortrait || isSquare ? 'object-cover' : (isContain || isWide || isPanoramic) ? 'object-contain' : 'object-cover'}
+            className={isPortrait ? 'object-contain p-1.5' : isSquare ? 'object-cover' : (isContain || isWide || isPanoramic) ? 'object-contain' : 'object-cover'}
             sizes={sizes}
           />
         </div>
