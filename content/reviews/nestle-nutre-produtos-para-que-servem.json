@@ -14,7 +14,7 @@
   "description": "Guia da linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra, Fortify e Mulher. Entenda a indicação de cada produto, formas de consumo e como comprar.",
   "metaDescription": "Guia da linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra e Fortify. Veja a indicação de cada fórmula e como consultar preços e cupons no site.",
   "publishedAt": "11 de agosto de 2026",
-  "draft": false,
+  "draft": true,
   "image": "/images/reviews/nutren/linha-produtos-hero.webp",
   "imageAlt": "Linha de produtos Nestlé Nutre",
   "imageFit": "cover",

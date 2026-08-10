@@ -33966,7 +33966,7 @@ export const reviewsData: unknown[] = [
     "description": "Guia da linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra, Fortify e Mulher. Entenda a indicação de cada produto, formas de consumo e como comprar.",
     "metaDescription": "Guia da linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra e Fortify. Veja a indicação de cada fórmula e como consultar preços e cupons no site.",
     "publishedAt": "11 de agosto de 2026",
-    "draft": false,
+    "draft": true,
     "image": "/images/reviews/nutren/linha-produtos-hero.webp",
     "imageAlt": "Linha de produtos Nestlé Nutre",
     "imageFit": "cover",
@@ -34088,7 +34088,7 @@ export const reviewsData: unknown[] = [
     "description": "Ficha técnica do Nutren Senior Zero Lactose: composição de nutrientes, modo de preparo, preços e orientações de uso. Veja como comprar com cupom CECI.",
     "metaDescription": "Ficha técnica do Nutren Senior Zero Lactose: nutrientes, preparo de 180ml, lata de 740g, preços e como consultar o cupom CECI na loja oficial.",
     "publishedAt": "13 de agosto de 2026",
-    "draft": false,
+    "draft": true,
     "image": "/images/reviews/nutren/nutren-senior-hero.webp",
     "imageAlt": "Lata do Nutren Senior Zero Lactose",
     "imageFit": "cover",
@@ -37169,7 +37169,7 @@ export const reviewsData: unknown[] = [
         "title": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso"
       }
     ],
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 246,
@@ -37365,7 +37365,7 @@ export const reviewsData: unknown[] = [
     "image": "/images/reviews/dolcegusto/adaptador-neo-start-hero-oficial.webp",
     "imageAlt": "Adaptador NESCAFÉ Dolce Gusto NEO Start oficial para máquinas da linha ORIGINAL",
     "publishedAtISO": "2026-08-04",
-    "isNew": true,
+    "isNew": false,
     "imageFit": "cover"
   },
   {
