@@ -37737,6 +37737,16 @@ export const reviewsData: unknown[] = [
           "Outubro de 2025 — Reportagem da BBC News Brasil documenta a abertura de investigações por órgãos de defesa do consumidor e reúne relatos de clientes aguardando entregas ou reembolsos",
           "Segundo semestre de 2025 — Procon-SP inicia o procedimento administrativo para inclusão do site e domínio da empresa na lista pública 'Evite Estes Sites'",
           "Registros em plataformas de defesa do consumidor e órgãos públicos continuam acompanhando o desdobramento das reclamações do setor"
+        ],
+        "links": [
+          {
+            "label": "Ler reportagem da BBC News Brasil",
+            "href": "https://www.opovo.com.br/agencia/bbc/2025/10/15/amp/como-sofa-na-caixa-foi-de-sucesso-viral-nas-redes-a-explosao-de-reclamacoes-de-clientes.html"
+          },
+          {
+            "label": "Ler reportagem da Revista Exame",
+            "href": "https://exame.com/invest/minhas-financas/sofa-na-caixa-procon-sp-abre-investigacao-contra-empresa-apos-500-reclamacoes/"
+          }
         ]
       },
       {
@@ -37754,9 +37764,6 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Como todo indicador de Reclame Aqui, esse número muda com o tempo — vale conferir o painel atualizado diretamente no site antes de tirar qualquer conclusão."
         ],
-        "image": "/images/reviews/sofa-na-caixa/reclame-aqui-sofa-na-caixa-painel.webp",
-        "imageAlt": "Painel oficial de reputação da Sofá na Caixa no Reclame Aqui em agosto de 2026",
-        "imageFit": "portrait",
         "images": [
           {
             "src": "/images/reviews/sofa-na-caixa/reclame-aqui-sofa-na-caixa-painel.webp",
@@ -37769,6 +37776,12 @@ export const reviewsData: unknown[] = [
             "alt": "Painel Reclame Aqui Damie (258 queixas, solução 87,8%)",
             "caption": "Painel de reputação da Damie no Reclame Aqui (últimos 6 meses: 258 reclamações, 87,8% de solução e nota do consumidor 8,4/10).",
             "objectFit": "portrait"
+          }
+        ],
+        "links": [
+          {
+            "label": "Consultar painel da Sofá na Caixa no Reclame Aqui",
+            "href": "https://www.reclameaqui.com.br/empresa/sofa-na-caixa/"
           }
         ]
       },
@@ -37783,31 +37796,12 @@ export const reviewsData: unknown[] = [
           "Consulta em agosto de 2026: O domínio da empresa não está listado na busca pública de sites evitados do Procon-SP.",
           "Recomendação: Sempre consulte os registros atualizados nos órgãos estaduais antes de realizar compras de valor elevado."
         ],
-        "image": "/images/reviews/sofa-na-caixa/procon-sp-pesquisa-evite-sites.webp",
-        "imageAlt": "Consulta pública na lista Evite Estes Sites do Procon-SP em agosto de 2026",
-        "imageFit": "contain"
-      },
-      {
-        "heading": "Procon-SP (2026): comparação de registros no painel 'Empresas Reclamadas'",
-        "paragraphs": [
-          "Transparência comercial: O Em Casa com Cecília mantém link de afiliado com a fabricante Damie. Ao pesquisar marcas de estofados modulares online em 2026, analisamos os registros públicos do Procon-SP para comparar o volume de demandas abertas no órgão.",
-          "Na consulta realizada em 2026 no painel de busca 'Empresas Reclamadas' do Procon-SP, a diferença no volume absoluto de queixas registradas no órgão estadual é marcante:",
-          "Importante ressaltar que a pesquisa 'Empresas Reclamadas' quantifica os atendimentos abertos no Procon-SP. Em consulta separada no cadastro de bloqueio 'Evite Estes Sites', o domínio da Sofá na Caixa não consta na busca ativa do órgão em 2026."
-        ],
         "links": [
           {
-            "label": "Ver o levantamento completo de reputação da Damie",
-            "href": "/reviews/damie-reclame-aqui-o-que-os-dados-mostram"
+            "label": "Consultar lista Evite Estes Sites do Procon-SP",
+            "href": "https://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php"
           }
-        ],
-        "bullets": [
-          "Procon-SP 2026 — Sofá na Caixa: 1.125 reclamações registradas no painel do órgão",
-          "Procon-SP 2026 — Damie: apenas 6 reclamações registradas no mesmo painel de busca",
-          "Proporção no Procon-SP: A Sofá na Caixa registra mais de 180 vezes o volume de queixas abertas da Damie no órgão paulista"
-        ],
-        "image": "/images/reviews/sofa-na-caixa/procon-sp-damie-pesquisa.webp",
-        "imageAlt": "Consulta ao painel Empresas Reclamadas do Procon-SP em 2026 demonstrando a comparação de reclamações (Damie 6 vs Sofá na Caixa 1.125)",
-        "imageFit": "contain"
+        ]
       },
       {
         "heading": "O que fazer se você comprou da Sofá na Caixa e está com problema",
@@ -37843,23 +37837,42 @@ export const reviewsData: unknown[] = [
           "BBC News Brasil — 'Como Sofá na Caixa foi de sucesso viral nas redes à explosão de reclamações de clientes' (outubro/2025, republicado via O Povo)",
           "Exame — 'Sofá na Caixa: Procon-SP abre investigação contra empresa após 500 reclamações' (julho/2025)",
           "Reclame Aqui — painel público de reputação de empresas de móveis"
+        ]
+      },
+      {
+        "heading": "Procon-SP (2026): comparação de registros no painel 'Empresas Reclamadas'",
+        "paragraphs": [
+          "Transparência comercial: O Em Casa com Cecília mantém link de afiliado com a fabricante Damie. Ao pesquisar marcas de estofados modulares online em 2026, analisamos os registros públicos do Procon-SP para comparar o volume de demandas abertas no órgão.",
+          "Na consulta realizada em 2026 no painel de busca 'Empresas Reclamadas' do Procon-SP, a diferença no volume absoluto de queixas registradas no órgão estadual é marcante.",
+          "A pesquisa 'Empresas Reclamadas' quantifica os atendimentos abertos no Procon-SP. Ela não se confunde com a lista 'Evite Estes Sites', que é uma consulta administrativa separada."
+        ],
+        "bullets": [
+          "Procon-SP 2026 — Sofá na Caixa: 1.125 reclamações registradas no painel do órgão",
+          "Procon-SP 2026 — Damie: 6 reclamações registradas no mesmo painel de busca",
+          "Proporção no Procon-SP: A Sofá na Caixa registra mais de 180 vezes o volume de queixas abertas da Damie no órgão paulista"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/sofa-na-caixa/procon-sp-pesquisa-evite-sites.webp",
+            "alt": "Painel Empresas Reclamadas do Procon-SP para Sofá na Caixa, com 1.125 registros em 2026",
+            "caption": "Painel Empresas Reclamadas do Procon-SP: Sofá na Caixa com 1.125 registros em 2026.",
+            "objectFit": "contain"
+          },
+          {
+            "src": "/images/reviews/sofa-na-caixa/procon-sp-damie-pesquisa.webp",
+            "alt": "Painel Empresas Reclamadas do Procon-SP para Damie, com 6 registros em 2026",
+            "caption": "Painel Empresas Reclamadas do Procon-SP: Damie com 6 registros em 2026.",
+            "objectFit": "contain"
+          }
         ],
         "links": [
           {
-            "label": "Lista 'Evite Estes Sites' — Procon-SP (Site Oficial)",
-            "href": "https://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php"
+            "label": "Entender a consulta Empresas Reclamadas do Procon-SP",
+            "href": "https://www.procon.sp.gov.br/carta-de-servicos/"
           },
           {
-            "label": "Reportagem BBC News Brasil (republicada via O Povo)",
-            "href": "https://www.opovo.com.br/agencia/bbc/2025/10/15/amp/como-sofa-na-caixa-foi-de-sucesso-viral-nas-redes-a-explosao-de-reclamacoes-de-clientes.html"
-          },
-          {
-            "label": "Reportagem Revista Exame (Julho/2025)",
-            "href": "https://exame.com/invest/minhas-financas/sofa-na-caixa-procon-sp-abre-investigacao-contra-empresa-apos-500-reclamacoes/"
-          },
-          {
-            "label": "Painel de Reclamações no Reclame Aqui",
-            "href": "https://www.reclameaqui.com.br/empresa/sofa-na-caixa/"
+            "label": "Ver o levantamento completo de reputação da Damie",
+            "href": "/reviews/damie-reclame-aqui-o-que-os-dados-mostram"
           }
         ]
       },
