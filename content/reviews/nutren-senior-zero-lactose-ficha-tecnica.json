@@ -13,7 +13,7 @@
   },
   "description": "Ficha técnica do Nutren Senior Zero Lactose: composição de nutrientes, modo de preparo, preços e orientações de uso. Veja como comprar com cupom CECI.",
   "metaDescription": "Ficha técnica do Nutren Senior Zero Lactose: nutrientes, preparo de 180ml, lata de 740g, preços e como consultar o cupom CECI na loja oficial.",
-  "publishedAt": "13 de agosto de 2026",
+  "publishedAt": "Draft",
   "draft": true,
   "image": "/images/reviews/nutren/nutren-senior-hero.webp",
   "imageAlt": "Lata do Nutren Senior Zero Lactose",
@@ -110,6 +110,5 @@
     }
   ],
   "publishedAtISO": "2026-08-13",
-  "isNew": true,
   "updatedAt": "2026-08-13"
 }
