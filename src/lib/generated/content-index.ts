@@ -38861,5 +38861,237 @@ export const reviewsData: unknown[] = [
       }
     ],
     "brand": "I Wanna Sleep"
+  },
+  {
+    "id": 259,
+    "slug": "i-wanna-sleep-reclame-aqui-nota-reputacao",
+    "title": "I Wanna Sleep no Reclame Aqui: nota, reclamações e o que os dados mostram",
+    "type": "Análise de Reputação",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Levantamento dos dados públicos do Reclame Aqui da I Wanna Sleep: nota da loja online, nota das lojas físicas, índice de solução e os padrões mais comuns nas reclamações.",
+    "metaDescription": "A I Wanna Sleep é confiável segundo o Reclame Aqui? Veja a nota atual, taxa de resposta, índice de solução e o que mais aparece nas reclamações antes de comprar.",
+    "publishedAt": "Draft",
+    "draft": true,
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Por que consultar o Reclame Aqui antes de comprar",
+        "paragraphs": [
+          "Produtos de sono — travesseiro, cobertor, colchão — costumam ser uma compra de valor mais alto e de troca mais trabalhosa do que um item qualquer. Antes de recomendar uma marca, vale checar como ela se comporta quando algo dá errado: atraso, produto com defeito, dificuldade de troca. O Reclame Aqui não mostra se a empresa é perfeita — nenhuma é —, mas mostra o padrão dos problemas e, principalmente, se a marca responde quando eles aparecem."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Os dados atuais no Reclame Aqui",
+        "paragraphs": [
+          "A I Wanna Sleep tem dois perfis separados no Reclame Aqui: um para a loja online (iwannasleep.com.br) e outro para as lojas físicas. Os números são bem diferentes entre si, então vale olhar os dois antes de decidir onde comprar.",
+          "Loja online — nota 7,8/10, com 178 reclamações registradas (133 avaliadas pelos consumidores). A média das notas de quem avaliou é 7,66, 84,2% dizem que voltariam a fazer negócio com a marca, e a empresa resolve 94% dos casos recebidos. Nos últimos 6 meses considerados isoladamente, a média sobe para 8,8/10.",
+          "Lojas físicas — perfil separado, com 19 reclamações avaliadas. A média cai para 4,84, apenas 52,6% voltariam a fazer negócio, o índice de solução é 89,5% e o tempo médio de resposta é bem mais longo: 5 dias e 22 horas (contra até 1 dia útil informado para a loja online).",
+          "Essa diferença é o dado mais útil desta consulta: comprar pelo site oficial parece ser uma experiência de pós-venda consideravelmente melhor do que a registrada para as lojas físicas. A nota do Reclame Aqui é calculada em janela móvel e muda com o tempo — os números acima foram consultados em agosto de 2026 e vale conferir o perfil oficial no dia da sua compra."
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "Ver perfil da loja online no Reclame Aqui →",
+            "href": "https://www.reclameaqui.com.br/empresa/iws-i-wanna-sleep-loja-online/"
+          },
+          {
+            "label": "Ver perfil das lojas físicas no Reclame Aqui →",
+            "href": "https://www.reclameaqui.com.br/empresa/iws-i-wanna-sleep/"
+          }
+        ]
+      },
+      {
+        "heading": "O que a própria marca diz sobre sua reputação",
+        "paragraphs": [
+          "A I Wanna Sleep mantém uma página própria no site oficial falando sobre o Reclame Aqui, onde afirma ter resolvido 100% das reclamações recebidas. Segundo os números apresentados pela marca, foram mais de 33 mil pedidos nos últimos 6 meses considerados, com apenas 113 reclamações no período — uma taxa de insatisfação de 0,34%, ou seja, mais de 996 a cada 1.000 pedidos concluídos sem nenhum tipo de reclamação. A marca também se posiciona entre as seis empresas mais bem avaliadas do segmento casa no Reclame Aqui.",
+          "Vale o alerta de praxe: esses números são divulgados pela própria empresa, com metodologia e período de corte que ela mesma escolhe, então não são diretamente comparáveis ao snapshot público do painel do Reclame Aqui citado acima. Ainda assim, a direção dos dois — reputação boa na loja online — é consistente."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Padrões mais comuns nas reclamações",
+        "paragraphs": [
+          "Ao navegar pelos títulos das reclamações mais recentes registradas no Reclame Aqui, alguns temas se repetem com mais frequência:"
+        ],
+        "bullets": [
+          "Atraso ou problema na entrega — o tipo de reclamação mais comum em e-commerce de forma geral, e a I Wanna Sleep não é exceção.",
+          "Qualidade percebida do produto recebido — relatos de itens que não corresponderam à expectativa criada na descrição ou nas fotos do site.",
+          "Comunicação e propaganda — alguns títulos mencionam sensação de propaganda enganosa ou expectativa não atendida, o que reforça a importância de ler a ficha técnica completa antes de comprar.",
+          "Arrependimento e troca pós-compra — em volume menor, mas presente, especialmente em relatos das lojas físicas."
+        ]
+      },
+      {
+        "heading": "O que fazer antes de comprar",
+        "paragraphs": [
+          "Com base nesse padrão, estas são as verificações que valem a pena antes de fechar o pedido:"
+        ],
+        "bullets": [
+          "Prefira comprar pelo site oficial (iwannasleep.com.br) — a reputação da loja online é sensivelmente melhor do que a das lojas físicas nos dados consultados.",
+          "Leia a ficha técnica completa do produto, incluindo materiais, dimensões e tecnologias, antes de comprar — para evitar expectativa desalinhada com o que chega.",
+          "Guarde comprovante de pagamento e número do pedido para rastreamento e eventual contato com o suporte.",
+          "Se o produto chegar com problema, acione o suporte dentro do prazo de arrependimento (7 dias) ou de defeito (30 dias) e não descarte a embalagem original antes da resolução.",
+          "Consulte o perfil atualizado no Reclame Aqui no dia da sua compra — a nota muda com o tempo."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom de desconto",
+        "paragraphs": [
+          "O Em Casa com Cecília mantém uma parceria comercial ativa com a I Wanna Sleep. Por meio dessa parceria, os leitores podem utilizar o cupom CECIEMCASA para obter 10% de desconto nos produtos elegíveis do site oficial. A utilização do cupom não gera custo adicional para o leitor."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual a nota da I Wanna Sleep no Reclame Aqui? A loja online tem nota 7,8/10 (consultado em agosto de 2026), com 94% das reclamações resolvidas e 84,2% dos consumidores dizendo que voltariam a fazer negócio. O perfil das lojas físicas é separado e tem nota mais baixa, 4,84.",
+          "Por que a nota da loja online e das lojas físicas são diferentes? São dois perfis distintos no Reclame Aqui, com volumes de avaliação diferentes (133 na loja online contra 19 nas lojas físicas) e históricos de atendimento próprios. Isso pode refletir diferenças reais no processo de cada canal.",
+          "O que mais aparece nas reclamações da I Wanna Sleep? Atraso ou problema na entrega, insatisfação com a qualidade percebida do produto e relatos de comunicação/expectativa não atendida são os temas mais frequentes nos títulos das reclamações mais recentes.",
+          "A I Wanna Sleep resolve as reclamações? Segundo o Reclame Aqui, a loja online resolve 94% dos casos recebidos. A própria marca afirma resolver 100% das reclamações em sua página institucional sobre o tema — os números têm metodologias diferentes, mas apontam na mesma direção.",
+          "É mais seguro comprar no site oficial ou em loja física da I Wanna Sleep? Com base nos dados públicos consultados, a loja online tem reputação melhor no Reclame Aqui do que as lojas físicas. Isso não significa que a loja física seja um risco, mas é um dado a considerar.",
+          "O cupom CECIEMCASA muda o preço final do produto? Não. O desconto de 10% é concedido pela marca por meio da parceria com o Em Casa com Cecília, sem custo adicional para quem compra."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Conheça os produtos da I Wanna Sleep e aproveite o cupom CECIEMCASA",
+      "label": "Visitar loja",
+      "url": "https://www.iwannasleep.com.br/"
+    },
+    "coupon": "CECIEMCASA",
+    "editorialNote": "Este artigo é uma análise de dados públicos do Reclame Aqui e do site institucional da I Wanna Sleep, consultados em agosto de 2026. A nota do Reclame Aqui é calculada em janela móvel e pode mudar — consulte o perfil oficial antes de comprar. A menção ao cupom CECIEMCASA decorre de uma parceria comercial entre o Em Casa com Cecília e a I Wanna Sleep.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
+        "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%"
+      },
+      {
+        "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
+        "title": "Cobertor IWS Igloo: toque gelado de um lado, aconchego quentinho do outro"
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "slug": "melatonina-iws-liquida-gummy-guia",
+    "title": "Melatonina IWS: linha líquida e gummy da I Wanna Sleep, dose e regras da Anvisa",
+    "type": "Editorial",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Guia da linha de melatonina da I Wanna Sleep (líquida e gummy): dose por gota, ingredientes, preços, kits, regra da Anvisa de 0,21 mg/dia e contraindicações.",
+    "metaDescription": "Melatonina IWS líquida ou gummy: veja dose por gota, ingredientes, preços, kits, a regra da Anvisa de 0,21 mg/dia e contraindicações antes de comprar.",
+    "publishedAt": "Draft",
+    "draft": true,
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "O que é a linha de melatonina da I Wanna Sleep",
+        "paragraphs": [
+          "Além de travesseiros, cobertores e colchões, a I Wanna Sleep também vende uma linha de suplementos voltados ao sono, com melatonina como ingrediente central. O catálogo inclui a Melatonina Líquida IWS (gotas, sabor maracujá), a Melatonina Gummy IWS (goma mastigável, mesmo sabor) e kits combinados com outros produtos da linha de nutrição do sono, como o Sleeptea e o Sleepspray.",
+          "Este artigo reúne as informações públicas do site oficial sobre a linha — ficha técnica, preços, dose e contraindicações — e não substitui orientação médica ou nutricional."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Ficha técnica da Melatonina Líquida IWS",
+        "paragraphs": [
+          "A Melatonina Líquida IWS 30ml Maracujá é vendida em frasco com aproximadamente 750 gotas. Segundo o site oficial:"
+        ],
+        "bullets": [
+          "Dose: 0,21 mg de melatonina por gota.",
+          "Modo de uso indicado: 1 gota por via oral antes de dormir, ou conforme orientação médica.",
+          "Ingredientes: água, melatonina, glicerina, aromatizante natural (maracujá) e ácido cítrico.",
+          "Perfil: sem glúten, sem lactose, sem açúcar e vegano.",
+          "A Melatonina Gummy IWS Maracujá Doce segue a mesma dose por unidade (0,21 mg), em formato de goma mastigável."
+        ]
+      },
+      {
+        "heading": "Por que exatamente 0,21 mg? A regra da Anvisa",
+        "paragraphs": [
+          "A dose de 0,21 mg por gota não é arbitrária. Em 2021, a Anvisa autorizou o uso da melatonina como suplemento alimentar no Brasil (com base na RDC 243/2018 e na alteração da Instrução Normativa 28/2018), fixando o consumo diário máximo em 0,21 mg para pessoas a partir de 19 anos. É por isso que praticamente todos os suplementos de melatonina vendidos legalmente no país — inclusive os da I Wanna Sleep — usam essa mesma dose por unidade.",
+          "A regra da Anvisa também permite a venda sem receita médica, mas exige advertência obrigatória sobre restrições de uso, e não aprova alegações de benefício associadas ao consumo do suplemento — ou seja, a legislação não permite que a marca prometa efeitos específicos no rótulo."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Contraindicações e cuidados",
+        "paragraphs": [
+          "O próprio site da I Wanna Sleep lista as advertências exigidas pela regulamentação para este tipo de produto:"
+        ],
+        "bullets": [
+          "Não indicado para gestantes, lactantes ou crianças.",
+          "Evitar o uso antes de atividades que exigem atenção constante.",
+          "Quem toma outros medicamentos ou tem alguma condição de saúde deve consultar um médico antes de usar.",
+          "O produto não é um medicamento.",
+          "Manter fora do alcance de crianças."
+        ]
+      },
+      {
+        "heading": "Preços e kits",
+        "paragraphs": [
+          "Segundo o site oficial, a Melatonina Líquida IWS 30ml Maracujá custa R$ 87,00 na unidade. Há kits promocionais: o Kit 3 (compre 2, leve 3) sai por R$ 174,00, e o Kit 5 (compre 3, leve 5) por R$ 261,00 — nos dois casos, uma das unidades do kit sai sem custo adicional. A marca também vende combos, como o Kit Sleeptea + Melatonina Líquida IWS e o Kit Melatonina Líquida IWS + Sleepspray IWS. Preço e disponibilidade da versão Gummy não foram confirmados neste levantamento — consulte o valor atual diretamente no site.",
+          "Preços mudam com frequência em promoções sazonais — vale conferir o valor atualizado no site oficial antes de comprar."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Garantia e teste de satisfação",
+        "paragraphs": [
+          "A I Wanna Sleep oferece um prazo de 30 dias de satisfação para os produtos da linha de nutrição do sono comprados no site oficial: se o cliente não se adaptar, pode solicitar a troca por outro item do site dentro desse período. A garantia vale apenas para compras feitas diretamente no site oficial (iwannasleep.com.br)."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Como comprar com o cupom CECIEMCASA",
+        "paragraphs": [
+          "O Em Casa com Cecília mantém uma parceria comercial com a I Wanna Sleep. O cupom CECIEMCASA garante 10% de desconto nos produtos elegíveis do site oficial, incluindo a linha de melatonina, aplicado diretamente no checkout."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual a dose de melatonina por gota da IWS? 0,21 mg por gota, o limite máximo diário autorizado pela Anvisa para suplementos alimentares de melatonina destinados a adultos a partir de 19 anos.",
+          "A melatonina IWS é remédio? Não. O próprio rótulo informa que o produto não é um medicamento — é classificado como suplemento alimentar, regulamentado pela Anvisa desde 2021.",
+          "Quem não pode tomar a melatonina IWS? Gestantes, lactantes, crianças e pessoas que vão realizar atividades que exigem atenção constante logo em seguida. Quem usa outros medicamentos ou tem alguma condição de saúde deve consultar um médico antes.",
+          "Qual a diferença entre a versão líquida e a gummy? Ambas seguem a mesma dose por unidade (0,21 mg). A líquida vem em gotas (frasco de 30ml, cerca de 750 gotas) e a gummy é uma goma mastigável — a escolha é mais uma questão de preferência de uso do que de dose.",
+          "Quanto custa a Melatonina Líquida IWS? R$ 87,00 a unidade no site oficial, com kits promocionais de 3 (R$ 174,00) e 5 unidades (R$ 261,00). Valores podem mudar em promoções — confira o preço atual no site.",
+          "O cupom CECIEMCASA vale para a linha de melatonina? Sim, o cupom garante 10% de desconto nos produtos elegíveis do site oficial, incluindo a linha de nutrição do sono.",
+          "Existe garantia se eu não me adaptar à melatonina IWS? Sim, há um prazo de 30 dias de satisfação para troca por outro item do site, válido apenas para compras feitas diretamente no site oficial."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Conheça a linha de melatonina da I Wanna Sleep e aproveite o cupom CECIEMCASA",
+      "label": "Visitar loja",
+      "url": "https://www.iwannasleep.com.br/"
+    },
+    "coupon": "CECIEMCASA",
+    "editorialNote": "Este artigo apresenta informações públicas do site oficial da I Wanna Sleep e da regulamentação da Anvisa sobre melatonina como suplemento alimentar. Não foi realizada avaliação pessoal do produto e este conteúdo não substitui orientação médica ou nutricional. A menção ao cupom CECIEMCASA decorre de uma parceria comercial entre o Em Casa com Cecília e a I Wanna Sleep.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
+        "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%"
+      },
+      {
+        "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
+        "title": "Cobertor IWS Igloo: toque gelado de um lado, aconchego quentinho do outro"
+      }
+    ]
   }
 ];
