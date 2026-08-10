@@ -89,12 +89,12 @@ function getJsonLd(coupon: NonNullable<ReturnType<typeof getCouponBySlug>>) {
     offeredBy: {
       '@type': 'Organization',
       name: coupon.brand,
-      url: coupon.brandUrl,
+      url: coupon.officialUrl,
     },
     seller: {
       '@type': 'Organization',
       name: coupon.brand,
-      url: coupon.brandUrl,
+      url: coupon.officialUrl,
     },
     dateModified: coupon.lastVerified,
     url,
@@ -312,7 +312,7 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
                   />
                 )}
                 <CouponStoreLink
-                  href={coupon.brandUrl}
+                  href={coupon.offerUrl}
                   label="Ir para a loja"
                   couponCode={coupon.code}
                   brand={coupon.brand}
@@ -337,12 +337,12 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
                   <strong>Atenção:</strong> estes códigos da Cecília funcionam{' '}
                   <strong>somente pelo navegador</strong>, na loja{' '}
                   <a
-                    href={coupon.brandUrl}
+                    href={coupon.offerUrl}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="font-semibold underline underline-offset-2"
                   >
-                    {coupon.brandUrl.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, '')}
+                    {coupon.offerUrl.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, '')}
                   </a>{' '}
                   — não funcionam no app do Magalu nem em magazineluiza.com.br.
                 </p>
@@ -527,7 +527,7 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
 
       <CouponBottomBar
         coupon={coupon.code}
-        cta={{ url: coupon.brandUrl, label: 'Usar na loja' }}
+        cta={{ url: coupon.offerUrl, label: 'Usar na loja' }}
       />
     </main>
   );

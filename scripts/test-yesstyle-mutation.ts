@@ -103,6 +103,7 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
   const origRewardNew = primaryReward.newCustomerDiscount;
   const origRewardRet = primaryReward.returningCustomerDiscount;
   const origRewardVerified = primaryReward.verifiedAt;
+  const origRewardAffiliateUrl = primaryReward.affiliateUrl;
 
   const promoToMutate = activePromos[0];
   const expectedMutatedLatest = promoToMutate ? '2026-11-26' : '2026-11-25';
@@ -116,6 +117,7 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
     primaryReward.newCustomerDiscount = 99;
     primaryReward.returningCustomerDiscount = 44;
     primaryReward.verifiedAt = '2026-11-25';
+    primaryReward.affiliateUrl = 'https://ystyle.co/mutation-test';
 
     if (promoToMutate) {
       promoToMutate.code = 'PROMOTEST88';
@@ -131,6 +133,8 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
       if (ptHub.code !== 'MUTATIONTEST99') errors.push(`Hub PT code: esperado "MUTATIONTEST99", obteve "${ptHub.code}"`);
       if (ptHub.discountNumber !== 99) errors.push(`Hub PT discountNumber: esperado 99, obteve ${ptHub.discountNumber}`);
       if (ptHub.lastVerified !== expectedMutatedLatest) errors.push(`Hub PT lastVerified esperado "${expectedMutatedLatest}" (maior data mutada), obteve "${ptHub.lastVerified}"`);
+      if (ptHub.officialUrl !== 'https://www.yesstyle.com/') errors.push(`Hub PT officialUrl esperado "https://www.yesstyle.com/", obteve "${ptHub.officialUrl}"`);
+      if (ptHub.offerUrl !== 'https://ystyle.co/mutation-test') errors.push(`Hub PT offerUrl dinâmico esperado "https://ystyle.co/mutation-test", obteve "${ptHub.offerUrl}"`);
     }
 
     // 6. Testar resolvedor, metadata, hreflangs com igualdade total e breadcrumbs estritos para TODOS OS 9 LOCALES
@@ -278,6 +282,7 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
     primaryReward.newCustomerDiscount = origRewardNew;
     primaryReward.returningCustomerDiscount = origRewardRet;
     primaryReward.verifiedAt = origRewardVerified;
+    primaryReward.affiliateUrl = origRewardAffiliateUrl;
 
     if (promoToMutate && origPromoDiscount) {
       promoToMutate.code = origPromoCode;

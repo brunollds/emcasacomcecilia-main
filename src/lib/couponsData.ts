@@ -15,7 +15,8 @@ export interface CouponHistory {
 export interface Coupon {
   slug: string;
   brand: string;
-  brandUrl: string;
+  officialUrl: string;
+  offerUrl: string;
   brandIcon: string;
   brandLogo?: string;
   brandLogoAlt?: string;
@@ -67,7 +68,8 @@ export const COUPONS: Coupon[] = [
   {
     slug: 'damie',
     brand: 'DAMIE',
-    brandUrl: 'https://damie.com.br',
+    officialUrl: 'https://damie.com.br',
+    offerUrl: 'https://damie.com.br',
     brandIcon: 'D',
     brandLogo: '/images/about/partners/damie.jpg',
     brandLogoAlt: 'Marca DAMIE',
@@ -169,7 +171,8 @@ export const COUPONS: Coupon[] = [
   {
     slug: 'dolce-gusto',
     brand: 'Dolce Gusto',
-    brandUrl: 'https://www.nescafe-dolcegusto.com.br/',
+    officialUrl: 'https://www.nescafe-dolcegusto.com.br/',
+    offerUrl: 'https://www.nescafe-dolcegusto.com.br/',
     brandIcon: 'DG',
     brandLogo: '/images/about/partners/dolce-gusto.avif',
     brandLogoAlt: 'Marca Nescafé Dolce Gusto',
@@ -255,7 +258,8 @@ export const COUPONS: Coupon[] = [
   {
     slug: 'yesstyle',
     brand: 'YesStyle',
-    get brandUrl() { return getPrimaryRewardCode().affiliateUrl; },
+    officialUrl: 'https://www.yesstyle.com/',
+    get offerUrl() { return getPrimaryRewardCode().affiliateUrl; },
     brandIcon: 'YS',
     brandLogo: '/images/logos/yesstyle.jpg',
     brandLogoAlt: 'Marca YesStyle',
@@ -382,7 +386,8 @@ export const COUPONS: Coupon[] = [
   {
     slug: 'nutren',
     brand: 'Nestlé Nutre',
-    brandUrl: 'https://www.nestlenutre.com.br/',
+    officialUrl: 'https://www.nestlenutre.com.br/',
+    offerUrl: 'https://www.nestlenutre.com.br/',
     brandIcon: 'N',
     brandLogo: '/images/about/partners/nutren.png',
     brandLogoAlt: 'Marca Nestlé Nutre',
@@ -460,7 +465,8 @@ export const COUPONS: Coupon[] = [
   {
     slug: 'i-wanna-sleep',
     brand: 'I Wanna Sleep',
-    brandUrl: 'https://www.iwannasleep.com.br',
+    officialUrl: 'https://www.iwannasleep.com.br',
+    offerUrl: 'https://www.iwannasleep.com.br',
     brandIcon: 'IWS',
     brandLogo: '/images/about/partners/i-wanna-sleep.avif',
     brandLogoAlt: 'Marca I Wanna Sleep',
@@ -531,7 +537,8 @@ export const COUPONS: Coupon[] = [
   {
     slug: 'magalu',
     brand: 'Magalu',
-    brandUrl: 'https://www.magazinevoce.com.br/magazineemcasacomcecilia/',
+    officialUrl: 'https://www.magazineluiza.com.br/',
+    offerUrl: 'https://www.magazinevoce.com.br/magazineemcasacomcecilia/',
     brandIcon: 'M',
     brandLogo: '/images/about/partners/magalu.webp',
     brandLogoAlt: 'Marca Magalu (Magazine Luiza)',
@@ -660,7 +667,8 @@ export const COUPONS: Coupon[] = [
   {
     slug: 'kopenhagen',
     brand: 'Kopenhagen',
-    brandUrl: 'https://www.kopenhagen.com.br/',
+    officialUrl: 'https://www.kopenhagen.com.br/',
+    offerUrl: 'https://www.kopenhagen.com.br/',
     brandIcon: 'K',
     brandLogo: '/images/about/partners/kopenhagen.jpg',
     brandLogoAlt: 'Marca Kopenhagen',
