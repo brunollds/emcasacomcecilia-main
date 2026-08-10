@@ -94,17 +94,26 @@
       "imageFit": "contain"
     },
     {
-      "heading": "Onde a Damie entra nessa história",
+      "heading": "Onde a Damie entra nessa história: comparação de volume de reclamações",
       "paragraphs": [
-        "Transparência comercial: O Em Casa com Cecília mantém link de afiliado com a fabricante Damie. Ao pesquisar modelos de sofás modulares no mercado brasileiro em 2026, analisamos os indicadores públicos da Damie no Reclame Aqui (nota 8,0 e índice de solução de 81,7%) como parâmetro comparativo de atendimento.",
-        "Essa referência serve apenas como exemplo de checagem de dados públicos antes da compra. Se você optar por adquirir produtos via nossos links de afiliados, o canal pode receber uma comissão sem qualquer custo adicional para você."
+        "Transparência comercial: O Em Casa com Cecília mantém link de afiliado com a fabricante Damie. Ao pesquisar o mercado de móveis e estofados modulares online em 2026, analisamos os dados públicos de reputação para entender como diferentes marcas lidam com o pós-venda.",
+        "Na comparação direta entre os dados públicos das duas empresas no mesmo período, a discrepância no volume de queixas é marcante: enquanto a Sofá na Caixa acumula 1.125 reclamações no período recente analisado, a Damie registra apenas 6 reclamações acumuladas.",
+        "Além disso, em consulta realizada no site oficial do Procon-SP, a Damie também não consta na lista de sites evitados, registrando um índice de resolução de 81,7% e nota 8.0/10 no Reclame Aqui."
       ],
       "links": [
         {
           "label": "Ver o levantamento completo de reputação da Damie",
           "href": "/reviews/damie-reclame-aqui-o-que-os-dados-mostram"
         }
-      ]
+      ],
+      "bullets": [
+        "Volume de Reclamações no Período: Damie registra apenas 6 reclamações vs. 1.125 da Sofá na Caixa",
+        "Reputação no Reclame Aqui: Damie mantém nota 8,0/10 com 81,7% de índice de solução",
+        "Procon-SP: Ambas as marcas possuem domínios fora da lista de sites evitados em 2026, mas a diferença no volume absoluto de queixas é de mais de 180 vezes"
+      ],
+      "image": "/images/reviews/sofa-na-caixa/reclame-aqui-damie-painel.webp",
+      "imageAlt": "Painel oficial de reputação da Damie no Reclame Aqui (apenas 6 reclamações registradas no período)",
+      "imageFit": "contain"
     },
     {
       "heading": "O que fazer se você comprou da Sofá na Caixa e está com problema",
