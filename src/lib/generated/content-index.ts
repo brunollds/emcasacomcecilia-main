@@ -39091,5 +39091,153 @@ export const reviewsData: unknown[] = [
         "title": "Cobertor IWS Igloo: toque gelado de um lado, aconchego quentinho do outro"
       }
     ]
+  },
+  {
+    "id": 261,
+    "slug": "dolce-gusto-mini-me-2-0-vale-a-pena",
+    "title": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Teste Real na Cor Terracota",
+    "type": "Review de Produto",
+    "reviewKind": "product",
+    "draft": true,
+    "description": "Review completo e pessoal da cafeteira Dolce Gusto Mini Me 2.0 na cor Terracota: uso na bancada de trabalho, preparo de Lungo e Matinal, tempo de aquecimento e detalhes práticos.",
+    "seoTitle": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Review Real Terracota",
+    "metaDescription": "Testamos a Dolce Gusto Mini Me 2.0 Terracota no cantinho de trabalho: veja o desempenho em Lungo e Matinal, tempo de aquecimento de 20-30s, tomada 20A, prós e contras.",
+    "publishedAt": "Draft",
+    "publishedAtISO": "2026-08-11",
+    "updatedAt": "2026-08-11",
+    "image": "/images/reviews/dolcegusto/mini-me-2-0-combo-maquina.webp",
+    "imageAlt": "Cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 na bancada de trabalho",
+    "imageFit": "portrait",
+    "productSpec": [
+      {
+        "key": "Marca",
+        "value": "NESCAFÉ Dolce Gusto / Arno"
+      },
+      {
+        "key": "Modelo",
+        "value": "Mini Me 2.0"
+      },
+      {
+        "key": "Cor / Acabamento",
+        "value": "Terracota"
+      },
+      {
+        "key": "Pressão de Extração",
+        "value": "15 bar"
+      },
+      {
+        "key": "Capacidade do Reservatório",
+        "value": "0,8 Litro"
+      },
+      {
+        "key": "Seletor de Volume",
+        "value": "Automático (7 níveis de dosagem)"
+      },
+      {
+        "key": "Padrão de Tomada",
+        "value": "20 Amperes (20A - pino mais grosso)"
+      },
+      {
+        "key": "Tempo de Aquecimento",
+        "value": "20 a 30 segundos (LED verde)"
+      },
+      {
+        "key": "Sistema de Cápsulas",
+        "value": "Dolce Gusto Original"
+      }
+    ],
+    "rating": {
+      "score": 4.5,
+      "max": 5,
+      "stars": 4.5
+    },
+    "verdict": {
+      "title": "Veredito da Cecília",
+      "summary": "A Dolce Gusto Mini Me 2.0 na cor Terracota cumpre perfeitamente o papel de cafeteira compacta e estilosa para a bancada de trabalho. O dosador automático garante precisão no preparo de cafés maiores como Lungo e Matinal. Vale atentar para a tomada de 20A, o aquecimento de 20-30s e o leve pingamento pós-extração."
+    },
+    "pros": [
+      "Design compacto e acabamento Terracota moderno que valoriza o cantinho de trabalho",
+      "Seletor automático por barras garante a dosagem exata sem transbordar",
+      "Pressão de 15 bar produz extração encorpada com crema consistente",
+      "Reservatório de 0,8L é suficiente para o consumo individual ao longo do dia"
+    ],
+    "cons": [
+      "Requer tomada de 20 Amperes (20A) com pino mais grosso na bancada",
+      "Exige aguardar de 20 a 30 segundos para o LED de aquecimento ficar verde",
+      "Pinga por alguns segundos após a trava cortar a extração da cápsula"
+    ],
+    "contentSections": [
+      {
+        "heading": "Uma cafeteira Terracota no cantinho do trabalho",
+        "paragraphs": [
+          "Quando pensamos em montar um cantinho do café funcional para quem passa o dia trabalhando no computador, o espaço de bancada e a praticidade são os fatores decisivos. No meu teste diário com a NESCAFÉ Dolce Gusto Mini Me 2.0, escolhi o acabamento na cor Terracota — um tom terroso e quente que foge do tradicional eletrodoméstico preto e traz uma estética muito aconchegante para o ambiente de trabalho.",
+          "A Mini Me é historicamente um dos modelos mais populares do sistema Dolce Gusto. Nesta versão 2.0, a máquina mantém a proposta compacta, com o reservatório transparente de 0,8 litro encaixado na parte traseira e o clássico seletor automático por alavanca mecânica na parte superior."
+        ]
+      },
+      {
+        "heading": "Como é a rotina de uso: do Café Matinal ao Lungo",
+        "paragraphs": [
+          "No meu dia a dia de trabalho, as cápsulas mais preparadas na Mini Me 2.0 são o **Lungo** (nível 4 de dosagem, ~120ml) e o **Café Matinal** (nível 6 a 7, ~180 a 200ml). Para quem precisa de uma xícara maior para acompanhar um bloco longo de concentração sem ter que levantar a todo momento, ela atende com muita eficiência.",
+          "O funcionamento do dosador automático é simples: você ajusta a barra seletora de acordo com a indicação da cápsula (ou pela nossa [tabela de medidas em ml por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)), empurra a alavanca para a posição quente e a máquina interrompe o fluxo de água exatamente na medida programada. A bomba de 15 bar garante aquela camada fina de crema que preserva o aroma e o calor do café."
+        ]
+      },
+      {
+        "heading": "Pontos reais de atenção: o que observar no uso prático",
+        "paragraphs": [
+          "Como fazemos em todas as nossas análises no Em Casa com Cecília, trazemos os detalhes práticos que só aparecem na rotina de uso contínuo:"
+        ],
+        "bullets": [
+          "**Tempo de aquecimento inicial (20 a 30 segundos):** Ao ligar a máquina na tomada, o botão de energia pisca em vermelho durante o pré-aquecimento do termobloco. Leva cerca de 20 a 30 segundos até que a luz fique verde contínua, sinalizando que a água atingiu a temperatura correta para a extração.",
+          "**Tomada de 20 Amperes (20A):** O plugue elétrico da Mini Me 2.0 segue o padrão de pinos mais grossos (20A), comum em aparelhos de aquecimento rápido de água. Se a sua bancada tiver apenas tomadas convencionais de 10A, será necessário instalar uma tomada reforçada de 20A para uso seguro.",
+          "**Pingamento pós-preparo:** Assim que o motor interrompe o fluxo de água, a cápsula recém-perfurada retém um pequeno residual líquido e continua pingando por alguns segundos sobre a grade. A dica prática é deixar a xícara descansando de 3 a 5 segundos extras antes de retirar ou manter a bandeja pingadeira higienizada com frequência."
+        ]
+      },
+      {
+        "heading": "Reservatório de 0,8L e manutenção",
+        "paragraphs": [
+          "O reservatório de água de 0,8 litro é bem dimensionado para uso individual ou para duplas. No preparo de cafés maiores como o Matinal (~200ml), ele rende cerca de 3 a 4 xícaras cheias antes de precisar de reabastecimento.",
+          "A limpeza diária é simples: a bandeja pingadeira conta com grade removível para enxágue rápido e o suporte de cápsulas pode ser lavado em água corrente. Recomenda-se utilizar água filtrada no reservatório para evitar o acúmulo prematuro de calcário no sistema interno."
+        ]
+      },
+      {
+        "heading": "Onde comprar e cupom de desconto",
+        "paragraphs": [
+          "A Dolce Gusto Mini Me 2.0 pode ser adquirida no e-commerce oficial da marca, onde frequentemente integra campanhas promocionais de volume (como a [promoção de caixas com máquina grátis](/reviews/promocao-dolce-gusto-caixas-mini-me-gratis)). O preço de referência individual varia na faixa de R$ 400 a R$ 600, a depender da cor e de promoções ativas.",
+          "No checkout da loja oficial, o consumidor pode testar o cupom CECI para tentar obter 5% de desconto em produtos elegíveis (conforme as regras e exceções vigentes no site da NESCAFÉ Dolce Gusto)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Dolce Gusto Mini Me 2.0 é automática? Sim. Ela possui seletor por nível de barras que interrompe o fluxo de água automaticamente ao atingir o volume selecionado.",
+          "Quanto tempo a Mini Me 2.0 demora para esquentar? O pré-aquecimento do termobloco leva entre 20 e 30 segundos, momento em que o LED indicador passa de vermelho para verde.",
+          "Qual tomada a Mini Me 2.0 exige? Ela utiliza o plugue padrão de 20 Amperes (20A) com pinos de 4,8mm mais grossos, exigindo tomada compatível.",
+          "A Mini Me 2.0 aceita cápsulas Starbucks? Sim. Ela é 100% compatível com toda a linha de cápsulas Starbucks by NESCAFÉ Dolce Gusto e demais bebidas do sistema Original.",
+          "O cupom CECI vale para a Mini Me 2.0? O cupom CECI pode ser testado no checkout da loja oficial da NESCAFÉ Dolce Gusto para buscar 5% de desconto em itens elegíveis da compra."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Confira a Mini Me 2.0 na loja oficial com o cupom CECI",
+      "label": "Ver na loja oficial",
+      "url": "https://www.nescafe-dolcegusto.com.br/"
+    },
+    "coupon": "CECI",
+    "affiliate": "dolce-gusto",
+    "editorialNote": "Este artigo reflete a experiência de uso pessoal com a cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 Terracota. A menção ao cupom CECI decorre de uma parceria comercial com a NESCAFÉ Dolce Gusto.",
+    "relatedArticles": [
+      {
+        "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
+        "title": "Tabela de Medidas Dolce Gusto: quantos ml em cada nível"
+      },
+      {
+        "slug": "promocao-dolce-gusto-caixas-mini-me-gratis",
+        "title": "Promoção Dolce Gusto: caixas de cápsulas + Mini Me grátis"
+      },
+      {
+        "slug": "starbucks-dolce-gusto-capsulas-guia",
+        "title": "Cápsulas Starbucks na Dolce Gusto: guia dos sabores"
+      }
+    ]
   }
 ];
