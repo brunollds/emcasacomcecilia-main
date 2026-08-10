@@ -37684,27 +37684,27 @@ export const reviewsData: unknown[] = [
   {
     "id": 249,
     "slug": "sofa-na-caixa-crise-reclamacoes-procon-sp",
-    "title": "Crise da Sofá na Caixa: Reclamações e Atuação do Procon-SP",
+    "title": "O que Aconteceu com a Sofá na Caixa? Reclamações, Procon-SP e Reputação Atual",
     "type": "Investigação",
     "reviewKind": "editorial",
     "draft": false,
-    "description": "Sofá na Caixa virou sucesso viral e depois enfrentou explosão de reclamações. Veja o que motivou a ação do Procon-SP e o que aprender antes de comprar sofá modular online.",
-    "seoTitle": "Crise da Sofá na Caixa: Reclamações e Atuação do Procon-SP",
-    "metaDescription": "Entenda o aumento de reclamações da Sofá na Caixa em 2025, as notificações do Procon-SP e o que avaliar antes de comprar sofá modular online.",
+    "description": "Entenda o histórico de reclamações da Sofá na Caixa, a fiscalização do Procon-SP e a reputação atualizada da marca no Reclame Aqui.",
+    "seoTitle": "O que Aconteceu com a Sofá na Caixa? Reclamações, Procon-SP e Reputação Atual",
+    "metaDescription": "Sofá na Caixa: veja o histórico de reclamações, a checagem no Procon-SP (fora da lista 'Evite Estes Sites') e a nota atual 6.0/10 no Reclame Aqui.",
     "publishedAt": "10 de agosto de 2026",
     "publishedAtISO": "2026-08-10",
     "updatedAt": "2026-08-10",
     "image": "/images/reviews/sofa-damie-na-caixa-cecilia-conceito.webp",
     "imageAlt": "Conceito de sofá modular entregue em caixas compactas",
     "pros": [
-      "Canais públicos e gratuitos para reclamar: Procon, Consumidor.gov.br e Reclame Aqui",
-      "CDC garante direito à devolução em compras online dentro do prazo legal",
+      "Canais públicos e gratuitos para registrar queixas: Procon-SP, Consumidor.gov.br e Reclame Aqui",
+      "100% de taxa de resposta no Reclame Aqui nos últimos 6 meses (tempo médio de resposta de 2 dias e 12 horas)",
       "Juizado Especial Cível não cobra custas em 1ª instância para causas de até 40 salários mínimos"
     ],
     "cons": [
-      "Reclamações cresceram 126% em 2025, segundo o Procon-SP",
-      "Apenas 13% dos consumidores no Reclame Aqui informaram em levantamento de 2025 que voltariam a fazer negócio",
-      "Empresa registrou procedimento de fiscalização pelo Procon-SP em 2025"
+      "Selo de reputação 'Regular' no Reclame Aqui com nota média do consumidor de 4,45/10 (nota geral 6.0/10)",
+      "Índice de solução de 55,2% nos últimos 6 meses, com 48,4% dos clientes afirmando que voltariam a fazer negócio",
+      "Histórico de fiscalização e notificações formais por órgãos de defesa do consumidor em 2025"
     ],
     "contentSections": [
       {
@@ -37713,10 +37713,10 @@ export const reviewsData: unknown[] = [
           "A Sofá na Caixa, empresa que viralizou nas redes vendendo sofás modulares entregues compactados em caixas, enfrenta desde 2025 uma onda crescente de reclamações por atraso de entrega, produtos não recebidos e estornos não realizados."
         ],
         "bullets": [
-          "Segundo o Procon-SP, as reclamações registradas cresceram 126% em 2025 frente a 2024",
-          "O órgão iniciou o procedimento administrativo para inclusão da empresa na lista 'Evite Estes Sites'",
-          "Conforme reportagem da BBC News Brasil (republicada via O Povo em out/2025), queixas envolvem relatos de espera sem entrega ou reembolso",
-          "O caso teve desdobramentos acompanhados por órgãos de defesa do consumidor e matérias jornalísticas"
+          "Histórico: A Sofá na Caixa viralizou nas redes sociais comercializando sofás modulares entregues compactados, mas enfrentou forte gargalo operacional e de entregas ao longo de 2025",
+          "Procon-SP: O órgão de defesa instaurou fiscalização em 2025 diante do aumento de queixas. Em consulta realizada em agosto de 2026, o domínio da empresa NÃO consta na lista de sites evitados do Procon-SP",
+          "Reclame Aqui (agosto de 2026): A marca possui selo 'Regular' (nota 6.0/10), com 100% de reclamações respondidas, índice de solução de 55,2% e 48,4% de intenção de novos negócios",
+          "Consumidor: O Código de Defesa do Consumidor garante o direito ao cumprimento da oferta ou devolução com reembolso em compras online"
         ]
       },
       {
@@ -37742,28 +37742,39 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números por trás da crise",
         "paragraphs": [
-          "Os dados públicos disponíveis, sempre com a fonte indicada, ajudam a dimensionar o problema:"
+          "Os dados públicos dos órgãos de defesa e plataformas de avaliação ajudam a entender a evolução do atendimento da marca entre o pico do problema em 2025 e o cenário atual em 2026.",
+          "Em consulta realizada em agosto de 2026 no painel oficial do Reclame Aqui, a Sofá na Caixa registra a seguinte radiografia de atendimento nos últimos 6 meses:"
         ],
         "bullets": [
-          "Procon-SP (dados de 2025): aumento de 126% nas reclamações (614 registros de jan-ago/2025 contra 272 em todo o ano de 2024)",
-          "Reclame Aqui (dados levantados pela BBC News Brasil em outubro de 2025): mais de 7.800 reclamações acumuladas, com 13% dos consumidores informando que voltariam a comprar",
-          "Posicionamento do fundador (outubro de 2025): em entrevista à BBC News Brasil, o fundador Rubens Stuque declarou que os atrasos afetavam uma parcela dos pedidos e apontou desafios logísticos e alta no custo de insumos"
+          "Selo de Reputação: Regular (Nota geral 6.0 / 10)",
+          "Total de Reclamações Recebidas: 6.766 registros acumulados",
+          "Taxa de Resposta: 100% (6.766 respondidas e 0 aguardando resposta)",
+          "Tempo Médio de Resposta: 2 dias e 12 horas",
+          "Índice de Solução: 55,2% dos casos resolvidos",
+          "Intenção de Novos Negócios: 48,4% dos consumidores afirmam que voltariam a comprar",
+          "Nota Média do Consumidor: 4,45 / 10 (com base em 3.880 avaliações recebidas)"
         ],
         "postParagraphs": [
           "Como todo indicador de Reclame Aqui, esse número muda com o tempo — vale conferir o painel atualizado diretamente no site antes de tirar qualquer conclusão."
-        ]
+        ],
+        "image": "/images/reviews/sofa-na-caixa/reclame-aqui-sofa-na-caixa-painel.webp",
+        "imageAlt": "Painel oficial de reputação da Sofá na Caixa no Reclame Aqui em agosto de 2026",
+        "imageFit": "contain"
       },
       {
-        "heading": "O que esse caso ensina antes de comprar sofá modular online",
+        "heading": "Checagem no Procon-SP: o site está na lista 'Evite Estes Sites'?",
         "paragraphs": [
-          "Sem citar outras marcas do setor, o caso da Sofá na Caixa é um bom lembrete de alguns sinais que valem a checagem antes de fechar qualquer compra de sofá modular pela internet:"
+          "Durante a onda de reclamações de 2025, o Procon-SP notificou a empresa para prestar esclarecimentos sobre prazos de entrega e estornos. Diante do volume de queixas na época, o órgão deu início aos procedimentos de fiscalização.",
+          "Checagem em agosto de 2026: Em consulta realizada diretamente no sistema público da lista 'Evite Estes Sites' mantida pelo Procon-SP, o domínio oficial da Sofá na Caixa (sofanacaixa.com.br) NÃO consta na lista de sites não recomendados. Isso significa que a empresa não figura no rol ativo de e-commerces bloqueados pelo órgão de defesa paulista."
         ],
         "bullets": [
-          "Nota no Reclame Aqui — mas olhando também o índice de solução, não só a taxa de resposta. Responder a reclamação não é o mesmo que resolvê-la.",
-          "Reclamações recentes vs. histórico — um pico de queixas nos últimos meses pode indicar que a empresa cresceu além da própria capacidade de entrega.",
-          "CNPJ e endereço verificáveis — dá para confirmar rapidamente em sites oficiais de consulta pública.",
-          "Política de devolução clara e por escrito — antes da compra, não só depois de um problema."
-        ]
+          "Fiscalização em 2025: Procon-SP abriu apuração após registrar alta no volume de notificações por atrasos.",
+          "Consulta em agosto de 2026: O domínio da empresa não está listado na busca pública de sites evitados do Procon-SP.",
+          "Recomendação: Sempre consulte os registros atualizados nos órgãos estaduais antes de realizar compras de valor elevado."
+        ],
+        "image": "/images/reviews/sofa-na-caixa/procon-sp-pesquisa-evite-sites.webp",
+        "imageAlt": "Consulta pública na lista Evite Estes Sites do Procon-SP realizada em agosto de 2026",
+        "imageFit": "contain"
       },
       {
         "heading": "Onde a Damie entra nessa história",
@@ -37796,9 +37807,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O que está acontecendo com a Sofá na Caixa? A empresa, que viralizou nas redes sociais por vender sofás modulares entregues em caixas, enfrenta desde 2025 uma explosão de reclamações por atraso na entrega, produtos não recebidos e estornos não realizados. Segundo o Procon-SP, as reclamações cresceram 126% em 2025, e o órgão iniciou o processo para incluir a empresa na lista \"Evite Estes Sites\" depois que a empresa não respondeu a tentativas de contato oficiais.",
-          "A Sofá na Caixa está na lista Evite Estes Sites do Procon? Segundo reportagem da revista Exame, com base em informações e procedimentos do Procon-SP, o órgão abriu processo de fiscalização sobre a empresa após o registro de centenas de reclamações sobre entregas e reembolsos. Consulte a lista atualizada 'Evite Estes Sites' diretamente no site oficial do Procon-SP antes de decidir.",
-          "O que fazer se comprei da Sofá na Caixa e não recebi o produto? Recomenda-se registrar todos os contatos com a empresa, guardar comprovantes e número de protocolo. É possível recorrer ao Código de Defesa do Consumidor para exigir o cumprimento da oferta ou reembolso, registrar queixa no Procon ou no Consumidor.gov.br, e recorrer ao Juizado Especial Cível (sem advogado para causas de até 20 salários mínimos; com advogado para valores entre 20 e 40 salários mínimos)."
+          "O que aconteceu com a Sofá na Caixa? A empresa viralizou vendendo sofás modulares compactos em caixas, mas enfrentou forte pico de atrasos de entrega e reclamações em 2025 devido à alta demanda. Em 2026, a marca mantém 100% de taxa de resposta no Reclame Aqui, com nota 6.0/10 (Regular) e 55,2% de índice de solução.",
+          "A Sofá na Caixa está na lista Evite Estes Sites do Procon-SP? Em consulta realizada em agosto de 2026 no sistema do Procon-SP, o domínio oficial da Sofá na Caixa NÃO consta na lista ativa de sites evitados.",
+          "Qual é a nota da Sofá na Caixa no Reclame Aqui em 2026? A empresa possui selo 'Regular' com nota 6.0/10. O tempo médio de resposta é de 2 dias e 12 horas, com 100% de queixas respondidas e nota média do consumidor de 4,45/10.",
+          "O que fazer se comprei e não recebi o produto? Guarde todos os comprovantes, notas fiscais e conversas. O Código de Defesa do Consumidor garante o direito ao reembolso ou cumprimento da oferta. É possível registrar queixa no Procon-SP ou Consumidor.gov.br e recorrer ao Juizado Especial Cível (sem advogado até 20 salários mínimos; com advogado entre 20 e 40 salários mínimos)."
         ]
       },
       {
