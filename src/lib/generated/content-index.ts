@@ -34045,7 +34045,7 @@ export const reviewsData: unknown[] = [
           "Nestlé meu desconto nutrição: existe programa de desconto? Não existe um programa com esse nome exato, mas a Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês. É um benefício separado da nossa parceria: o cupom CECI pode conceder 5% de desconto sem necessidade de cadastro em nenhum programa.",
           "Programa de desconto Nutren: como funciona? A Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês. O cupom CECI pode ser testado direto no checkout para tentar obter 5% de desconto em itens elegíveis.",
           "Cupom Nestlé: o CECI vale para outros produtos Nestlé? Não. O cupom CECI é válido exclusivamente para produtos vendidos no site oficial da Nestlé Nutre. Não pode ser testado para produtos de outras marcas Nestlé como Nescafé, Kit Kat, Purina ou outros e-commerces.",
-          "Onde comprar Nestlé Nutre com desconto? Os produtos Nestlé Nutre são vendidos exclusivamente no site oficial da marca. É possível aplicar o cupom CECI no checkout para garantir 5% de desconto na maioria dos produtos, exceto Alfamino e Alfaré. Não há necessidade de receita médica para a compra."
+          "Onde comprar Nestlé Nutre com desconto? Os produtos Nestlé Nutre são vendidos exclusivamente no site oficial da marca. É possível testar o cupom CECI no checkout para tentar obter 5% de desconto em produtos elegíveis (exceto Alfamino e Alfaré, conforme as condições vigentes na loja oficial). Não há necessidade de receita médica para a compra."
         ]
       }
     ],
@@ -37787,15 +37787,15 @@ export const reviewsData: unknown[] = [
           "Registre todos os contatos com a empresa por escrito, guardando protocolos e comprovantes",
           "O Código de Defesa do Consumidor permite exigir o cumprimento da oferta, reembolso integral ou rescisão do contrato",
           "Registre queixa formal no Procon do seu estado e no Consumidor.gov.br",
-          "Para causas de até 40 salários mínimos, é possível recorrer ao Juizado Especial Cível sem custas processuais"
+          "No Juizado Especial Cível (JEC), ações de até 20 salários mínimos podem ser ajuizadas sem necessidade de advogado; para valores entre 20 e 40 salários mínimos, a legislação exige a representação por advogado."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "O que está acontecendo com a Sofá na Caixa? A empresa, que viralizou nas redes sociais por vender sofás modulares entregues em caixas, enfrenta desde 2025 uma explosão de reclamações por atraso na entrega, produtos não recebidos e estornos não realizados. Segundo o Procon-SP, as reclamações cresceram 126% em 2025, e o órgão iniciou o processo para incluir a empresa na lista \"Evite Estes Sites\" depois que a empresa não respondeu a tentativas de contato oficiais.",
-          "A Sofá na Caixa está na lista Evite Estes Sites do Procon? Segundo comunicado oficial do Procon-SP, o processo de inclusão do nome e domínio da empresa na lista foi iniciado depois que a empresa não compareceu a reunião agendada e não respondeu a correspondências enviadas pelo órgão. Consulte a lista atualizada diretamente no site oficial do Procon-SP antes de decidir.",
-          "O que fazer se comprei da Sofá na Caixa e não recebi o produto? Recomenda-se registrar todos os contatos com a empresa, guardar comprovantes e número de protocolo. É possível recorrer ao Código de Defesa do Consumidor para exigir o cumprimento da oferta ou reembolso, registrar queixa no Procon ou no Consumidor.gov.br, e mover ação no Juizado Especial Cível sem custos para valores de até 40 salários mínimos."
+          "A Sofá na Caixa está na lista Evite Estes Sites do Procon? Segundo reportagem da revista Exame, com base em informações e procedimentos do Procon-SP, o órgão abriu processo de fiscalização sobre a empresa após o registro de centenas de reclamações sobre entregas e reembolsos. Consulte a lista atualizada 'Evite Estes Sites' diretamente no site oficial do Procon-SP antes de decidir.",
+          "O que fazer se comprei da Sofá na Caixa e não recebi o produto? Recomenda-se registrar todos os contatos com a empresa, guardar comprovantes e número de protocolo. É possível recorrer ao Código de Defesa do Consumidor para exigir o cumprimento da oferta ou reembolso, registrar queixa no Procon ou no Consumidor.gov.br, e recorrer ao Juizado Especial Cível (sem advogado para causas de até 20 salários mínimos; com advogado para valores entre 20 e 40 salários mínimos)."
         ]
       },
       {
