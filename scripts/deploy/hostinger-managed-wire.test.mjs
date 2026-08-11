@@ -204,6 +204,14 @@ test('inventário de builds preserva histórico útil sem valores desconhecidos'
       uuid: BUILD_UUID,
       state: 'completed',
       created_at: '2026-08-10T18:30:00Z',
+      options: {
+        node_version: 20,
+        source_type: 'archive',
+        source_options: {
+          archive_path: 'old-release.tar.gz',
+          SECRET: 'não pode sair no artefato',
+        },
+      },
       environment_variables: { SECRET: 'não pode sair no artefato' },
     }],
     meta: { current_page: 1, last_page: 1, per_page: 50, total: 1 },
@@ -212,6 +220,11 @@ test('inventário de builds preserva histórico útil sem valores desconhecidos'
   assert.equal(inventory.total_returned, 1);
   assert.equal(inventory.builds[0].uuid, BUILD_UUID);
   assert.equal(inventory.builds[0].state, 'completed');
+  assert.deepEqual(inventory.builds[0].options, {
+    node_version: 20,
+    source_type: 'archive',
+    source_options: { archive_path: 'old-release.tar.gz' },
+  });
   assert.deepEqual(inventory.pagination, {
     current_page: 1,
     last_page: 1,

@@ -139,6 +139,11 @@ jobs:
           while IFS= read -r build_id; do
             echo "path=$build_id value=$(tr -d '\n' < "$build_id")"
           done
+          echo
+          echo 'SOURCE_ARCHIVES'
+          find "$ROOT" -maxdepth 5 -type f \
+            \( -name '*.zip' -o -name '*.tar.gz' -o -name '*.tgz' \) \
+            -printf 'path=%p bytes=%s modified=%TY-%Tm-%TdT%TH:%TM:%TSZ\n' 2>/dev/null | sort
           REMOTE
             echo
             echo 'PUBLIC_WORKER_BUILD_MANIFESTS'

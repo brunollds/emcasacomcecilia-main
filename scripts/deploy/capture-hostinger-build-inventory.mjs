@@ -13,6 +13,33 @@ const SAFE_BUILD_FIELDS = [
   'archive_path',
 ];
 
+const SAFE_OPTION_FIELDS = [
+  'node_version',
+  'app_type',
+  'root_directory',
+  'output_directory',
+  'build_script',
+  'entry_file',
+  'package_manager',
+  'source_type',
+];
+
+function normalizeBuildOptions(options) {
+  if (!options || typeof options !== 'object' || Array.isArray(options)) return null;
+  const safe = {};
+  for (const field of SAFE_OPTION_FIELDS) {
+    const value = options[field];
+    if (['string', 'number', 'boolean'].includes(typeof value) || value === null) {
+      safe[field] = value;
+    }
+  }
+  const archivePath = options.source_options?.archive_path;
+  if (typeof archivePath === 'string' || archivePath === null) {
+    safe.source_options = { archive_path: archivePath };
+  }
+  return safe;
+}
+
 export function normalizeBuildInventory(payload) {
   const builds = Array.isArray(payload) ? payload : payload?.data;
   if (!Array.isArray(builds)) {
@@ -42,6 +69,7 @@ export function normalizeBuildInventory(payload) {
       }
       return {
         ...safe,
+        options: normalizeBuildOptions(build.options),
         available_fields: Object.keys(build).sort(),
       };
     }),
@@ -61,24 +89,48 @@ async function main() {
       + `/websites/${encodeURIComponent(domain)}/nodejs/builds`,
     'https://developers.hostinger.com'
   );
-  endpoint.searchParams.set('page', '1');
   endpoint.searchParams.set('per_page', '50');
-
-  const response = await fetch(endpoint, {
-    headers: {
-      Accept: 'application/json',
-      Authorization: `Bearer ${token}`,
-      'Content-Type': 'application/json',
-      'User-Agent': 'emcasa-hostinger-read-only-capture/1',
-    },
-    redirect: 'error',
-    signal: AbortSignal.timeout(20_000),
-  });
-  if (!response.ok) {
-    throw new Error(`Hostinger HTTP ${response.status} ao listar builds`);
+  const builds = [];
+  let page = 1;
+  let expectedTotal = null;
+  while (page <= 20) {
+    endpoint.searchParams.set('page', String(page));
+    const response = await fetch(endpoint, {
+      headers: {
+        Accept: 'application/json',
+        Authorization: `Bearer ${token}`,
+        'Content-Type': 'application/json',
+        'User-Agent': 'emcasa-hostinger-read-only-capture/1',
+      },
+      redirect: 'error',
+      signal: AbortSignal.timeout(20_000),
+    });
+    if (!response.ok) {
+      throw new Error(`Hostinger HTTP ${response.status} ao listar builds (página ${page})`);
+    }
+    const inventory = normalizeBuildInventory(await response.json());
+    builds.push(...inventory.builds);
+    expectedTotal = inventory.pagination?.total ?? expectedTotal;
+    if (inventory.builds.length === 0
+      || (expectedTotal !== null && builds.length >= expectedTotal)
+      || inventory.builds.length < 50) {
+      break;
+    }
+    page += 1;
+  }
+  if (expectedTotal !== null && builds.length < expectedTotal) {
+    throw new Error(`inventário incompleto: ${builds.length}/${expectedTotal} builds`);
   }
 
-  const inventory = normalizeBuildInventory(await response.json());
+  const inventory = {
+    total_returned: builds.length,
+    pagination: {
+      pages_captured: page,
+      per_page: 50,
+      total: expectedTotal,
+    },
+    builds,
+  };
   const outputPath = path.resolve(
     process.env.BUILD_INVENTORY_OUTPUT ?? 'artifacts/managed-builds.json'
   );
