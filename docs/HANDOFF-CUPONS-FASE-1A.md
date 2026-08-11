@@ -1,7 +1,4 @@
-# Handoff — Fase 1A (linkagem de cupons por marca)
-
-Escopo: aplicar links contextuais artigo → `/cupons/<marca>` nas marcas prioritárias, e
-criar o mecanismo de link contextual em receitas.
+# Handoff — Fase 1A (visibilidade dos cupons por marca)
 
 Pré-requisitos já no ar (`origin/main` a partir de `9ecdf02`): medição do funil
 (`coupon_page_click`), `internalLinks.ts`, modelo `discount-code | affiliate-link`,
@@ -11,116 +8,226 @@ Caminhos relativos a `emcasacomcecilia/`.
 
 ---
 
-## Fila de prioridade — vem dos dados, não da lista do Guia Mestre
+## Objetivo da frente — ler antes de qualquer execução
 
-> **⚠️ Vintage do dado.** A janela do Search Console fecha em **15/07/2026**. Os snippets
-> atuais de `dolce-gusto` e `nutren` entraram depois: em **16/07/2026**, `727ec1c` adotou
-> title/description mensais conservadores e `092cb6b` publicou os descontos validados em
-> checkout. Em **01/08/2026**, `8b9a479` virou o mês para agosto e atualizou
-> `lastVerified` dos ativos; o Magalu também recebeu o padrão mensal. Os números abaixo
-> descrevem o site **antes** dessas intervenções.
->
-> Consequência: onde o diagnóstico é "página 1 sem clique → reescrever snippet", isso **já
-> foi feito** para Nutren e Dolce Gusto. O movimento correto para essas duas é solicitar
-> reindexação no GSC e medir só o período posterior a 01/08 — não reescrever de novo.
->
-> Ainda com o padrão antigo de title: `damie`, `i-wanna-sleep`, `kopenhagen`.
-> **`i-wanna-sleep` é o candidato remanescente de snippet** (28 impressões, posição 7,2).
-> Para a Damie o title da página de cupom importa pouco: a demanda dela está nas consultas
-> de reputação, que são respondidas pelos artigos, não pela página de cupom.
->
-> O item 2 (linkagem) depende agora da separação de intenção entre página de cupom e
-> artigo comercial, conforme o achado abaixo.
+**Todos os códigos comissionam pelo próprio código.** A pessoa não precisa visitar o site
+nem clicar em nada: se ela lê `CECI` no resultado de busca, memoriza e usa no checkout, a
+comissão acontece. Os códigos são curtos e memoráveis de propósito.
 
-Search Console, 18/06 a 15/07/2026. O cluster `/cupons/` inteiro fez **1 clique em 548
-impressões** em 28 dias — não há volume para gate estatístico, as decisões são direcionais.
+Consequência, e ela inverte o senso comum de SEO:
 
-| # | Página | Cliques | Impressões | Posição | Diagnóstico | Trabalho |
-|---|---|---:|---:|---:|---|---|
-| 1 | `/cupons/dolce-gusto` | 0 | 261 | 30,2 | autoridade/relevância | linkagem do cluster + revisão da página |
-| 2 | `/cupons/nutren` | 0 | 81 | 9,9 | página 1 sem clique | title/meta/intenção **primeiro**, links depois |
-| 3 | `/cupons/damie` | 0 | 3 | 6,0 | demanda existe, mas é de **reputação** | linkar dos 4 artigos de confiança |
-| 4 | `/cupons/i-wanna-sleep` | 0 | 28 | 7,2 | página 1 sem clique | snippet + links relacionados |
-| 5 | `/cupons/yesstyle` | 0 | 134 | 8,3 | página 1 sem clique | CTR primeiro; não expandir linkagem em massa |
-| — | `/cupons/magalu` | — | ausente | — | sem evidência | manter, aguardar dado |
-| — | `/cupons/kopenhagen` | — | pausado | — | não é destino válido | fora da campanha |
+> **A conversão acontece na SERP, não no site. O objetivo é aparecer bem posicionado com o
+> código legível — não receber o clique.**
 
-Consultas comerciais reais no período: `cupom yesstyle` (47), `cupom nestle nutre` (39),
-`cupom dolcegusto` (19, posição 32), `cupom yesstyle influencer` (16).
+Portanto:
 
-**Damie é caso à parte.** Não há uma única consulta de "cupom damie". A demanda é de
-confiança: `damie é confiável` (27), `damie poltronas é confiável` (26),
-`loja damie é confiável` (25), `damie com br é confiavel` (21) — todas em posição 5-7.
-O link certo sai dos artigos de reputação, não de um artigo de cupom.
+- **CTR não é KPI.** Página em posição 8 com 0% de CTR pode ser o modelo funcionando, não
+  falhando. Impressão em boa posição, com o código no snippet, já é venda potencial.
+- **`coupon_copy` não mede sucesso.** Código fácil de lembrar não é copiado. Taxa de cópia
+  baixa pode significar código bom.
+- **Não esconder o código atrás de "revelar cupom".** Quando se mede cópia, a tentação é
+  forçar cópia. Isso piora a experiência para melhorar um artefato de métrica.
+- Resposta da IA (Gemini, AI Overview, Copilot) e snippet rico **não são inimigos** aqui,
+  como seriam num site que vive de anúncio. São o produto.
 
-Nota de método: link interno move posição, não CTR. Para as páginas já em posição 6-10 com
-zero clique, reescrever title e meta description tem retorno maior por hora gasta do que
-linkagem — as duas coisas em paralelo, não uma em vez da outra.
+### A exceção: YesStyle
 
-## Achado — páginas de cupom competem com os próprios artigos
+Regra do programa: o código de influenciador dá comissão equivalente ao que o seguidor
+economizou (5% na primeira compra, 2% nas seguintes). **Clicar no Link de Influenciador
+dobra a porcentagem de comissão.**
 
-O recorte por `/cupons/` esconde metade da intenção comercial. Na mesma janela
-(18/06–15/07), as páginas de cupom fizeram **1 clique em 548 impressões**; considerando
-também os artigos comerciais, o site fez **4 cliques em aproximadamente 1.070
-impressões**. Três dos quatro cliques vieram de artigos.
+Ou seja, a YesStyle não tem objetivo oposto — tem os dois. O código no snippet preserva a
+comissão base de quem só memoriza; o clique vale **2×**.
 
-| Marca | Página `/cupons/` | Artigo comercial | Leitura |
-|---|---|---|---|
-| Dolce Gusto | 0 cliques · 261 impr. · posição 30,2 | `cupom-ceci-nescafe-dolce-gusto-como-usar`: 1 clique · 175 impr. · posição 10,3 | o artigo está 20 posições à frente |
-| I Wanna Sleep | 0 · 28 · posição 7,2 | `cupom-ceciemcasa-i-wanna-sleep-como-usar`: 2 cliques · 51 impr. · posição 9,5 | o artigo recebe os cliques mesmo abaixo |
-| YesStyle | 0 · 134 · posição 8,3 | dois artigos, com 67 e 95 impressões | três URLs disputam a mesma intenção |
-| Nutren | 0 · 81 · posição 9,9 | 0 · 6 · posição 8,3 | a página de cupom concentra as impressões |
+É a **única marca em que o clique tem valor econômico quantificado**, e portanto a única em
+que `coupon_store_click` significa dinheiro diretamente. Nas outras cinco ele é diagnóstico.
+Mesmo assim: não esconder o código da YesStyle — isso trocaria comissão base garantida por
+uma chance de dobrar.
+
+---
+
+## Fonte dos dados
+
+**Search Console (export direto), 10/05 a 11/08/2026, 93 dias.**
+
+> ⚠️ Análises anteriores desta frente usaram os exports do **GA4** (integração
+> GA4↔Search Console, 28 dias). Aquela fonte é um recorte pequeno e enviesado das sessões
+> que o GA4 conseguiu casar, e levou a conclusões erradas — inclusive a afirmação, falsa, de
+> que não existiam consultas de "cupom damie". **Não usar o GA4 para diagnóstico de busca.**
+
+| | GA4 (descartado) | GSC (fonte atual) |
+|---|---|---|
+| Site inteiro | ~60 cliques | **223 cliques / 18.564 impressões / 281 URLs** |
+| Cluster comercial | 1 clique / 548 impr. | **14 cliques / 2.491 impr. / 129 consultas** |
+
+### Por host
+
+| Host | Cliques | Impressões | URLs |
+|---|---:|---:|---:|
+| `emcasacomcecilia.com` | 185 | 13.434 | 255 |
+| `damie.emcasacomcecilia.com` | 38 | 5.105 | 22 |
+| `dicas.emcasacomcecilia.com` | 0 | 13 | 3 |
+| `link.emcasacomcecilia.com` | 0 | 12 | 1 |
+
+---
+
+## Demanda comercial por marca
+
+Somando as consultas de intenção de cupom:
+
+| Marca | Impressões | Posição | Cliques | Situação |
+|---|---:|---|---:|---|
+| **Damie** | **~1.495 (60%)** | **1,8 – 4,3** | 11 de 14 | resolvida — pelo **subdomínio** |
+| **Dolce Gusto** | ~330 | **28,9 – 47,5** | 0 | **a mercadoria não está na prateleira** |
+| YesStyle | ~168 | 6,1 – 9,3 | 0 | bem posicionada |
+| I Wanna Sleep | ~162 | 9,9 – 10,6 | 3 | bem posicionada |
+| Nutren | 62 | 11,0 | 0 | menor cluster do conjunto |
+
+Principais consultas: `cupom damie` (852 impr., pos. 4,22, 9 cliques) · `cupom de desconto
+damie` (191, pos. 4,28) · `cupom damie primeira compra` (163, pos. 4,25) · `cupom dolce
+gusto` (161, **pos. 28,87**) · `cupom i wanna sleep` (131, pos. 9,94) · `cupom yesstyle`
+(99, pos. 9,18) · `cupom nestle nutre` (62, pos. 11,00) · `cupom nescafe dolce gusto` (31,
+**pos. 47,52**).
+
+### Páginas comerciais
+
+| URL | Cliques | Impressões | Posição |
+|---|---:|---:|---:|
+| `damie.emcasacomcecilia.com/cupom-cecilia12` | 4 | 546 | 6,19 |
+| `/reviews/cupom-ceciemcasa-i-wanna-sleep-como-usar` | 3 | 366 | 9,25 |
+| `/cupons/dolce-gusto` | 0 | 351 | **31,32** |
+| `/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar` | 1 | 339 | 11,01 |
+| `/cupons/yesstyle` | 1 | 302 | 8,35 |
+| `/reviews/yesstyle-reward-code-coupon-cecilia010` | 1 | 174 | 8,48 |
+| `/en/coupons/yesstyle` | 1 | 152 | 12,20 |
+| `/reviews/how-to-find-valid-yesstyle-coupon-codes` | 1 | 135 | 7,82 |
+| `/cupons/magalu` | 0 | 123 | 18,00 |
+| `/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010` | 0 | 111 | 10,18 |
+| `/cupons/nutren` | 0 | 96 | 9,66 |
+| `/cupons` (hub) | 2 | 89 | 5,37 |
+| `/reviews/cupom-magalu-em-casa-com-cecilia` | 1 | 83 | 8,60 |
+| `/reviews/codigo-cecilia010-yesstyle-como-usar` | 0 | 79 | 6,87 |
+| `/reviews/cupom-ceci-nestle-nutre-como-usar` | 0 | 39 | 11,69 |
+| `/cupons/i-wanna-sleep` | 0 | 34 | 8,50 |
+| `/cupons/kopenhagen` | 0 | 11 | 20,09 |
+| **`/cupons/damie`** | 0 | **6** | 7,50 |
+| `/reviews/cupom-cecilia12-como-usar` | 0 | 1 | 6,00 |
+
+---
+
+## Damie sai da fila do site principal
+
+`damie.emcasacomcecilia.com` é um site Damie completo, com 22 URLs em posições 5–8:
+
+```
+/                                  20c  2.488i  pos 5,16
+/resenhas/poltrona-reclinavel-damie  2c   630i  pos 6,80
+/cupom-cecilia12                     4c   546i  pos 6,19   ← responde "cupom damie"
+/damie-e-confiavel                   4c   490i  pos 6,49
+```
+
+No site principal, `/cupons/damie` tem **6 impressões em 93 dias**.
+
+O subdomínio já venceu essa intenção, em posição 6, com o código no snippet — que é
+exatamente o objetivo desta frente. Uma campanha de linkagem para `/cupons/damie` criaria
+um terceiro concorrente para uma consulta já resolvida, dividindo sinal entre propriedades
+da mesma casa.
+
+**Decisão fechada em 11/08/2026: manter `/cupons/damie`.** A página continua ativa como
+fonte de código e regras, inclusive para citações contextuais necessárias em artigos do site
+principal. Ela fica despriorizada e fora da campanha de linkagem em massa desta fase; não
+remover nem redirecionar enquanto o subdomínio continuar vencendo a consulta comercial.
+
+---
+
+## Canibalização entre página de cupom e artigo
+
+Mesmo dentro do site principal, duas URLs disputam a mesma intenção:
+
+| Marca | Página `/cupons/` | Artigo comercial |
+|---|---|---|
+| Dolce Gusto | 351 impr., **pos. 31,3** | 339 impr., pos. 11,0 — **20 posições à frente** |
+| I Wanna Sleep | 34 impr., pos. 8,5 | 366 impr., pos. 9,25, 3 cliques |
+| YesStyle | 302 impr., pos. 8,35 | + 4 artigos PT/EN + hubs por locale |
+| Nutren | 96 impr., pos. 9,66 | 39 impr., pos. 11,69 |
+
+O Google costuma exibir uma URL por site por consulta. Duas páginas disputando **dividem
+sinal de ranqueamento** e as duas ficam piores — e posição é o KPI aqui.
 
 ### Decisão de ownership semântico
 
-**`/cupons/<marca>` é a URL principal para a intenção transacional atual**: “cupom X”,
-código vigente, desconto, validade, regras e CTA para a loja.
+**`/cupons/<marca>` é a URL principal para a intenção transacional**: “cupom X”, código
+vigente, desconto, validade, regras e CTA para a loja.
 
 Os artigos ficam com intenções complementares e duráveis:
 
 - instrução: “como usar o código”, campo correto no checkout, erros e restrições;
 - avaliação: experiência, reputação, comparação e “vale a pena”;
-- atualização editorial que exige contexto maior que o card da página de cupom.
+- atualização editorial que exija contexto maior que o card da página de cupom.
 
 Isso **não** significa apontar `rel=canonical` dos artigos para `/cupons/`. Os conteúdos são
-distintos e continuam self-canonical. A separação é feita por title, H1, introdução,
-âncoras internas e escopo editorial. Exemplo: a página pode responder “Cupom I Wanna
-Sleep”, enquanto o artigo responde “Como usar CECIEMCASA na I Wanna Sleep”.
+distintos e continuam self-canonical. A separação é por title, H1, introdução, âncoras e
+escopo editorial.
 
-O primeiro ajuste deve usar `seoTitle`, não `title`. O tipo `Review` já expõe
-`seoTitle?: string`, e `ReviewPageContainer` usa `review.seoTitle || review.title` na
-metadata. Assim é possível testar um title de SERP instrucional sem trocar o H1, o slug ou
-o título visível do artigo. Só alterar `title` — e portanto o H1 — se a medição posterior
-mostrar que o escopo editorial da página também precisa mudar.
+Os quatro artigos concorrentes **já têm slug `...como-usar`** — a URL sempre declarou
+intenção instrucional. Quem invadiu o transacional foi só o title, que nos quatro abre com
+"Cupom \<Marca\> \<CÓDIGO\>", idêntico ao início da página de cupom.
 
-Antes de ampliar links para uma marca:
+**Implementação barata:** existe `seoTitle?: string` (`src/lib/content/types.ts:384`), já
+usado em 3 reviews. `ReviewPageContainer` faz `seoTitle || title` para a metadata, enquanto
+o H1 continua vindo de `title`. Dá para recuar **só o title da SERP**, sem tocar em H1 nem
+em slug. Um campo, quatro arquivos, reversível.
 
-1. mapear quais URLs aparecem para a mesma consulta comercial;
-2. recuar primeiro o `seoTitle` dos artigos que tentam possuir “cupom X”, sem trocar H1,
-   slug nem URL;
-3. manter no artigo o passo a passo e apontar para `/cupons/<marca>` como fonte do código
-   e das regras atuais, usando o funil medido;
-4. manter na página de cupom o link de volta para o guia quando o usuário precisar de
-   instrução detalhada;
-5. medir por consulta **e por página** somente depois do deploy e da reindexação.
+### Regra de sequência — o risco é assimétrico por marca
 
-### Guardrail de sequência desta rodada
+Recuar o artigo antes de a página de cupom estar competitiva **vaga uma posição boa em
+favor de uma ruim**.
 
-O limite de aproximadamente três posições é um guardrail operacional para este conjunto
-pequeno de dados, não uma regra geral de SEO:
+| Marca | Página | Artigo | Recuar agora? |
+|---|---:|---:|---|
+| I Wanna Sleep | pos. 8,5 | pos. 9,25 | **sim** — a página já está à frente |
+| Nutren | pos. 9,66 | pos. 11,69 | **sim** — a página já está à frente |
+| Dolce Gusto | pos. 31,3 | pos. 11,0 | **não** — primeiro subir a página |
 
-- se `/cupons/<marca>` já estiver à frente do artigo ou até cerca de 3 posições atrás,
-  aplicar o `seoTitle` instrucional antes da linkagem tem risco baixo;
-- se a página de cupom estiver muito atrás, primeiro aumentar sua relevância com links e
-  aguardar reindexação; só depois recuar o `seoTitle` do artigo que hoje sustenta o tráfego.
+**Regra: recuar o artigo só quando a página de cupom estiver a até ~3 posições dele. Se
+estiver muito atrás, primeiro subir a página.**
 
-Aplicação: I Wanna Sleep e Nutren podem separar o title primeiro. Dolce Gusto não: o
-artigo está na posição 10,3 e é a única fonte de clique, enquanto `/cupons/dolce-gusto`
-está na 30,2. Para ela, linkagem vem antes da mudança de `seoTitle`. Damie permanece fora
-desse teste; a intenção medida é reputacional.
+---
 
-YesStyle exige auditoria separada antes de qualquer expansão: há três URLs para a mesma
-pergunta e o componente dedicado não segue automaticamente o template das outras marcas.
+## Métricas e gate
+
+Hierarquia, do mais confiável ao menos:
+
+1. **Painel de afiliado** — venda e comissão por marca. É a única verdade e é onde o gate
+   de expansão deve morar.
+2. **Search Console** — posição e impressões por consulta e por página. Diz onde há
+   oportunidade; é o KPI operacional desta fase.
+3. **GA4** — comparação **relativa** entre caminhos internos: qual artigo manda mais gente,
+   qual âncora, qual posição de CTA. Nunca nível absoluto de conversão.
+
+**Métrica da Fase 1A: posição e impressões nas consultas comerciais, por marca.**
+
+### Alerta de qualidade do GA4
+
+No export de páginas (14/07–10/08), *"Cupom YesStyle CECILIA010: Até 5% OFF Extra
+Elegível"* registrou **472 visualizações para 4 usuários ativos** — 118 por usuário. A home
+tem 19,6; "Reviews & Análises", 28,2. Não é comportamento humano.
+
+Como o funil `coupon_page_click` vive nesse mesmo GA4, os eventos novos nascem igualmente
+poluídos. **Investigar antes de confiar em qualquer número de GA4** — navegação própria,
+bot com JS, ou duplicação de `page_view`.
+
+**Auditoria local em 11/08/2026:** o repositório monta um único componente `Analytics`,
+configura o GA4 com `send_page_view: false` e tem um único emissor manual de `page_view`.
+O HTML publicado de `/cupons/yesstyle` contém somente o Measurement ID
+`G-LDLH63KJMP`, uma preload de `gtag.js` e nenhum contêiner GTM. Não há duplicação óbvia
+na implementação ou no HTML inicial.
+
+O próximo passo é diagnóstico no próprio GA4, sem mudar o código por hipótese: reproduzir
+uma navegação em DebugView/Tempo real e conferir contagem por sessão, hostname, origem do
+tráfego e filtro de tráfego interno. Se um único carregamento emitir mais de um `page_view`,
+inspecionar a sequência e a origem da tag; se não emitir, segmentar os 472 eventos para
+identificar bot, navegação interna ou anomalia de identidade.
 
 ---
 
@@ -134,26 +241,22 @@ Receitas **não têm onde colocar um link**. O tipo `Recipe`
 `RecipeNotebookTemplate.tsx` não renderiza `contentSections` em lugar nenhum, e nenhuma das
 192 receitas tem `links[]`.
 
-Ou seja: as zero receitas apontando para cupons não são omissão editorial, é ausência de
-mecanismo.
+As zero receitas apontando para cupons não são omissão editorial, é ausência de mecanismo.
 
 ### Decisão de design
 
-Como não existe campo de link, o mecanismo precisa de um. Três opções foram avaliadas:
+Três opções foram avaliadas: campo dedicado; reaproveitar `notes` (semântica errada —
+é nota editorial, não CTA comercial); adicionar `contentSections` a receitas (grande demais,
+muda o modelo de 192 arquivos).
 
-1. **Campo dedicado opcional** em `Recipe`, renderizado num slot definido (recomendado):
-   ```ts
-   couponCallout?: { brand: string; href: string; label: string };
-   ```
-   Explícito, tipado, um por receita, fácil de auditar. Slot natural: depois dos
-   ingredientes ou junto de `tips` — onde a pessoa já está decidindo o que comprar.
-2. Reaproveitar `notes` (`EditorialNoteData[]`) — já é renderizado, mas a semântica é de
-   nota editorial, não de CTA comercial. Mistura conceitos.
-3. Adicionar `contentSections` a receitas — grande demais para o objetivo e muda o modelo
-   de conteúdo de 192 arquivos.
+**Decisão fechada em 10/08/2026: campo dedicado opcional.**
 
-**Decisão fechada em 10/08/2026: opção 1.** O campo dedicado `couponCallout` entra junto
-com a primeira receita Dolce Gusto que o consumir.
+```ts
+couponCallout?: { brand: string; href: string; label: string };
+```
+
+Renderizado em slot definido — depois dos ingredientes ou junto de `tips`, onde a pessoa já
+está decidindo o que comprar. Entra junto com a primeira receita Dolce Gusto que o consumir.
 
 ### Critérios de aceite (obrigatórios)
 
@@ -161,21 +264,16 @@ com a primeira receita Dolce Gusto que o consumir.
 - passa pelo caminho compartilhado `isCouponPageLink` + `TrackedCouponPageLink`
   (`src/lib/internalLinks.ts`, `src/components/review/TrackedCouponPageLink.tsx`);
 - `placement: 'recipe_inline'`, adicionado ao union `CouponPageLinkPlacement`;
-- **marca derivada do destino** via `getCouponBrandFromHref`, nunca de etiqueta editorial
-  da receita;
-- teste versionado + smoke render provando que o evento dispara **uma vez por clique**,
-  sem duplicidade com `outbound_link_click`.
+- **marca derivada do destino** via `getCouponBrandFromHref`, nunca de etiqueta editorial;
+- teste versionado + smoke render provando que o evento dispara **uma vez por clique**, sem
+  duplicidade com `outbound_link_click`.
 
 O último critério não é formalidade: a primeira revisão do 1a encontrou exatamente esse
 defeito — medição instalada num caminho de render quando havia cinco, e marca vinda da
 etiqueta do artigo em vez do destino, o que zerava o `brand` em 5 dos 6 artigos da Damie.
 **Não criar um segundo renderizador de links.** Um renderizador novo nasce sem medição.
 
-### Escopo real hoje: ver seção "Cobertura editorial" abaixo
-
----
-
-## Cobertura editorial — quanto conteúdo existe para linkar
+### Cobertura editorial
 
 Levantamento em 10/08/2026 sobre `content/receitas/` (192 arquivos):
 
@@ -184,58 +282,50 @@ Levantamento em 10/08/2026 sobre `content/receitas/` (192 arquivos):
 | `dolce`, `cápsula`, `capsula`, `nescafé`, `nescafe` | **0** |
 | `damie`, `yesstyle`, `nutren`, `magalu`, `i wanna sleep` | **0** |
 | `café` / `cafe` | 25 |
-| `cappuccino` | 1 |
 
-**Nenhuma receita menciona qualquer marca parceira.** As 25 ocorrências de "café" são
-idiomáticas ou de ingrediente: "café da tarde", "companheiro perfeito para um café
-recém-coado", "café expresso opcional" num brownie. Só **uma** receita é sobre café de
-verdade — "Café com Ovolmatine".
+Nenhuma receita menciona marca parceira. As 25 ocorrências de "café" são idiomáticas ou de
+ingrediente ("café da tarde", "café expresso opcional" num brownie). Só uma receita é sobre
+café — "Café com Ovolmatine".
 
-Consequência: a linha da matriz do Guia Mestre "receita com cápsula/máquina Dolce Gusto →
-`/cupons/dolce-gusto`" descreve conteúdo que **ainda não existe**. Hoje o mecanismo teria
-no máximo um consumidor editorialmente defensável.
+Linkar "Bolo de Fubá com Erva-Doce" ao cupom porque a introdução cita "café recém-coado" é
+o link forçado que o critério nº 1 do Guia Mestre proíbe.
 
-Linkar "Bolo de Fubá com Erva-Doce" para o cupom da Dolce Gusto porque a introdução cita
-"café recém-coado" é exatamente o link forçado que o critério nº 1 do próprio Guia Mestre
-proíbe — e que a revisão registrada nele descreve como erro: receita popular não deve
-ganhar link artificial só por ter autoridade.
-
-### Leitura recomendada
-
-O mecanismo continua certo de existir — é barato, e é pré-requisito de qualquer receita
-futura com cápsula. Mas ele **não desbloqueia o cluster Dolce Gusto sozinho**: o que
-desbloqueia é escrever receitas que usem a máquina. Sem isso, a Fase 1A da Dolce Gusto
-acontece nos reviews de qualquer forma.
-
-Duas ordens foram avaliadas:
-
-- **A** — mecanismo agora, receitas com cápsula depois. Custa pouco, fica pronto, mas nasce
-  sem consumidor real.
-- **B** — pauta editorial primeiro (1-3 receitas com Dolce Gusto), mecanismo junto com a
-  primeira. O mecanismo nasce validado por conteúdo real.
-
-**Decisão fechada em 10/08/2026: B.** A pauta editorial vem primeiro; o mecanismo entra no
-mesmo commit da primeira receita Dolce Gusto e é validado pelo teste de `recipe_inline` e
-pelo smoke render. A opção A fica descartada nesta fase para não publicar infraestrutura
-sem consumidor editorial real.
+**Decisão fechada em 10/08/2026: opção B.** Pauta editorial primeiro; o mecanismo entra no
+mesmo commit da primeira receita Dolce Gusto e é validado pelo teste `recipe_inline` e pelo
+smoke render. Nada de infraestrutura sem consumidor editorial real.
 
 ---
 
-## Item 2 — Separação semântica e linkagem nos reviews
+## Item 2 — Lote inicial nos reviews
 
-Não depende do item 1. A ordem dentro de cada cluster passa a ser: **separar a intenção e
-depois distribuir links**.
+Não depende do item 1.
 
-| Cluster | Artigos | Intervenção |
-|---|---:|---|
-| Dolce Gusto | 3-4 | linkar primeiro para `/cupons/dolce-gusto`; recuar `seoTitle` só depois de reduzir a diferença de posição |
-| Damie | 4 de reputação | link para regras e código, sem deslocar a intenção da página |
-| Nutren | 1-2 | aplicar `seoTitle` instrucional no artigo de 6 impressões; preservar a página de cupom como principal |
-| I Wanna Sleep | 1 | snippet da página + `seoTitle` “como usar” + link medido |
-| YesStyle | 3 URLs | auditar ownership; não ampliar links nesta rodada |
+| Ordem | Cluster | Trabalho |
+|---|---|---|
+| 1 | **Dolce Gusto** | subir `/cupons/dolce-gusto` da posição 31. É a única marca em que ninguém chega a ver o código. Linkagem + revisão da página. **Não** recuar o artigo ainda |
+| 2 | I Wanna Sleep | recuar `seoTitle` do artigo; a página já está à frente |
+| 3 | YesStyle | auditoria própria antes de qualquer expansão — 4 artigos PT/EN + hub PT + hubs por locale disputando |
+| 4 | Nutren | recuar `seoTitle` do artigo; menor cluster, baixa prioridade |
+| — | Damie | **fora** — ver seção do subdomínio |
+| — | Magalu | 123 impr., pos. 18. Sem intervenção nesta rodada |
+| — | Kopenhagen | pausado |
 
-Âncoras variadas por artigo — o `link_label` agora é medido, então dá para saber qual
-formulação converte. Não repetir a mesma frase em todos.
+Âncoras variadas por artigo — `link_label` é medido, dá para saber qual formulação funciona.
+
+---
+
+## Regras permanentes
+
+- **FAQ com a pergunta literal.** Quando houver tarefa de edição de texto em artigo ou
+  página de cupom, incluir na FAQ a pergunta como a pessoa (e a IA) formula — "Qual é o
+  cupom da Damie?", "Qual o código de desconto do Dolce Gusto?" — com resposta factual em
+  uma frase. É o formato que os extratores de IA citam. Não é tarefa própria: entra como
+  rider em toda tarefa editorial.
+- **Bing não é canal hoje.** Indexação incompleta dos dois domínios e ~99% das keywords são
+  receitas ou o nome Cecília. Não é lacuna de medição, é de indexação. `npm run
+  indexnow:submit` já existe se um dia virar prioridade.
+- **Citação em IA não tem relatório.** Aferição é manual: perguntar "qual o cupom da
+  \<marca\>" no Gemini, AI Overview e Copilot, e registrar data e resultado por marca.
 
 ---
 
@@ -250,6 +340,6 @@ npm run test:coupon-offer-modes
 npm run build
 ```
 
-Para o item 1, acrescentar o teste novo do `recipe_inline` e o smoke render de uma receita
-com `couponCallout` preenchido, conferindo no HTML gerado que o link é interno (sem
+Para o item 1, acrescentar o teste do `recipe_inline` e o smoke render de uma receita com
+`couponCallout` preenchido, conferindo no HTML gerado que o link é interno (sem
 `target="_blank"`) e que o evento carrega `brand` derivado do destino.
