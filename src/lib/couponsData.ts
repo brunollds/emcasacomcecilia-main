@@ -493,9 +493,9 @@ export const COUPONS: Coupon[] = [
     shortDescription: 'todo o site I Wanna Sleep',
     longDescription:
       'Código da Cecília para economizar em compras no site da I Wanna Sleep.',
-    metaTitle: 'Cupom I Wanna Sleep 10% OFF • CECIEMCASA ativo • Em Casa com Cecília',
+    metaTitle: 'Cupom I Wanna Sleep Agosto 2026: CECIEMCASA — 10% OFF',
     metaDescription:
-      'Cupom I Wanna Sleep com 10% OFF. Use CECIEMCASA para economizar em todo o site.',
+      'Cupom I Wanna Sleep atualizado em agosto de 2026: use CECIEMCASA no checkout e ganhe 10% OFF em todo o site oficial.',
     eligibleCategories:
       'Todo o site I Wanna Sleep',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
