@@ -11,9 +11,9 @@
   "publishedAt": "Draft",
   "publishedAtISO": "2026-08-11",
   "updatedAt": "2026-08-11",
-  "image": "/images/reviews/dolcegusto/dolce-gusto-maquinas-qual-escolher-hero.webp",
-  "imageAlt": "Ilustração editorial de cafeteiras NESCAFÉ Dolce Gusto na bancada",
-  "imageFit": "cover",
+  "image": "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-1.webp",
+  "imageAlt": "Bruno com a cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 em gravação para o canal Em Casa com Cecília",
+  "imageFit": "square",
   "productSpec": [
     {
       "key": "Marca",
@@ -129,7 +129,10 @@
           "label": "Vídeo Especial no YouTube Shorts: Bruno apresenta a Mini Me 2.0 (Dia dos Pais)",
           "href": "https://www.youtube.com/shorts/RGM_61Heclo"
         }
-      ]
+      ],
+      "image": "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-2.webp",
+      "imageAlt": "Bruno apresentando os detalhes da Mini Me 2.0 no vídeo de Dia dos Pais",
+      "imageFit": "portrait"
     },
     {
       "heading": "Perguntas frequentes",

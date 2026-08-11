@@ -32899,7 +32899,13 @@ export const reviewsData: unknown[] = [
           "Manter uma rotina de cápsulas em casa pode gerar um custo mensal relevante, especialmente quando a família consome várias unidades por dia. Por isso, vale a pena usar o cupom de desconto CECI na loja oficial da NESCAFÉ Dolce Gusto. O código dá 5% de desconto nas compras e pode ser usado em conjunto com outras promoções do site, dependendo das regras vigentes.",
           "Aplicar o cupom é simples: basta inserir o código CECI no campo de cupom do carrinho antes de finalizar a compra. Com o desconto, o preço médio das caixas fica mais competitivo, e o gasto mensal com café em casa diminui sem perder qualidade."
         ],
-        "bullets": []
+        "bullets": [],
+        "links": [
+          {
+            "label": "Consultar regras atuais do cupom CECI",
+            "href": "/cupons/dolce-gusto"
+          }
+        ]
       }
     ],
     "cta": {
@@ -33161,7 +33167,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Comprar uma máquina Dolce Gusto representa um investimento, e qualquer desconto ajuda. O cupom CECI garante 5% de desconto na loja oficial e pode ser aplicado na compra de máquinas, cápsulas e acessórios. Antes de finalizar o pedido, insira o código CECI no campo de cupom do carrinho para reduzir o valor total. A parceria com o Em Casa com Cecília mantém o cupom ativo para leitores e seguidores."
         ],
-        "bullets": []
+        "bullets": [],
+        "links": [
+          {
+            "label": "Ver condições do desconto CECI",
+            "href": "/cupons/dolce-gusto"
+          }
+        ]
       }
     ],
     "cta": {
@@ -33250,7 +33262,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Em Casa com Cecília mantém uma parceria comercial com a NESCAFÉ Dolce Gusto. Por meio dela, o cupom CECI garante 5% de desconto em compras acima de R$100 no site oficial, válido para cápsulas, máquinas e acessórios. O desconto é concedido pela marca e não representa custo adicional para quem compra."
         ],
-        "bullets": []
+        "bullets": [],
+        "links": [
+          {
+            "label": "Confirmar validade do cupom CECI",
+            "href": "/cupons/dolce-gusto"
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
@@ -37108,6 +37126,12 @@ export const reviewsData: unknown[] = [
           "Receba 1.000 pontos no Club no 1º pedido para trocar por produtos na Loja de Prêmios.",
           "Não vale a pena se você consome poucas cápsulas e não atinge 3 caixas por ciclo de entrega.",
           "Dica prática: Use o cupom CECI em compras avulsas quando não quiser manter uma assinatura recorrente."
+        ],
+        "links": [
+          {
+            "label": "Comparar com as regras do cupom CECI",
+            "href": "/cupons/dolce-gusto"
+          }
         ]
       },
       {
@@ -37308,6 +37332,12 @@ export const reviewsData: unknown[] = [
           "Como o adaptador é reutilizável, compare o custo atual do acessório, das cápsulas compatíveis e de uma eventual máquina NEO nova antes da compra."
         ],
         "bullets": [],
+        "links": [
+          {
+            "label": "Conferir desconto e regras do cupom CECI",
+            "href": "/cupons/dolce-gusto"
+          }
+        ],
         "image": "/images/reviews/dolcegusto/adaptador-neo-start-passo-a-passo.webp",
         "imageAlt": "Vista frontal do Adaptador NEO Start fechado",
         "imageFit": "contain"
@@ -39111,9 +39141,9 @@ export const reviewsData: unknown[] = [
     "publishedAt": "Draft",
     "publishedAtISO": "2026-08-11",
     "updatedAt": "2026-08-11",
-    "image": "/images/reviews/dolcegusto/dolce-gusto-maquinas-qual-escolher-hero.webp",
-    "imageAlt": "Ilustração editorial de cafeteiras NESCAFÉ Dolce Gusto na bancada",
-    "imageFit": "cover",
+    "image": "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-1.webp",
+    "imageAlt": "Bruno com a cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 em gravação para o canal Em Casa com Cecília",
+    "imageFit": "square",
     "productSpec": [
       {
         "key": "Marca",
@@ -39229,7 +39259,10 @@ export const reviewsData: unknown[] = [
             "label": "Vídeo Especial no YouTube Shorts: Bruno apresenta a Mini Me 2.0 (Dia dos Pais)",
             "href": "https://www.youtube.com/shorts/RGM_61Heclo"
           }
-        ]
+        ],
+        "image": "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-2.webp",
+        "imageAlt": "Bruno apresentando os detalhes da Mini Me 2.0 no vídeo de Dia dos Pais",
+        "imageFit": "portrait"
       },
       {
         "heading": "Perguntas frequentes",
