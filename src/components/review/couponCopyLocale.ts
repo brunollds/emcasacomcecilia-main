@@ -1,6 +1,7 @@
-import { findYesStyleLocaleFromSlugOrPath, type YesStyleLocale } from '@/lib/i18n/yesstyleCluster';
+import { type Locale } from '@/lib/i18n/locales';
+import { findYesStyleLocaleFromSlugOrPath } from '@/lib/i18n/clusters/yesstyle';
 
-export type CouponCopyLocale = YesStyleLocale;
+export type CouponCopyLocale = Locale;
 
 export type CouponCopyLabels = {
   copy: string;

@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const clusterModule = await import('../src/lib/i18n/yesstyleCluster.ts');
+const clusterModule = await import('../src/lib/i18n/clusters/yesstyle.ts');
 const YESSTYLE_LOCALES = clusterModule.YESSTYLE_LOCALES;
 
 const appDir = path.resolve('src/app');
@@ -16,12 +16,12 @@ for (const config of Object.values(YESSTYLE_LOCALES)) {
   const layoutContent = `import React from 'react';
 import '@/app/globals.css';
 import { RootLayoutShell, getLocaleMetadata } from '@/components/RootLayoutShell';
-import { getYesStyleLocaleConfig } from '@/lib/i18n/yesstyleCluster';
+import { getLocaleConfig } from '@/lib/i18n/locales';
 
 export const metadata = getLocaleMetadata('${config.htmlLang}');
 
 export default function LocalizedClusterLayout({ children }: { children: React.ReactNode }) {
-  const config = getYesStyleLocaleConfig('${config.locale}');
+  const config = getLocaleConfig('${config.locale}');
   return <RootLayoutShell lang={config.htmlLang}>{children}</RootLayoutShell>;
 }
 `;
@@ -43,35 +43,22 @@ export default function HubPage() {
 `;
   fs.writeFileSync(path.join(hubDir, 'page.tsx'), hubPageContent, 'utf8');
 
-  // 3. Artigo Reward
-  const rewardDir = path.join(clusterDir, 'reviews', config.rewardArticleSlug);
-  fs.mkdirSync(rewardDir, { recursive: true });
-  const rewardPageContent = `import { renderReviewPageBySlug, generateReviewMetadataBySlug } from '@/components/review/ReviewPageContainer';
+  // 3. Artigos localizados
+  for (const article of config.articles) {
+    const articleDir = path.join(clusterDir, 'reviews', article.slug);
+    fs.mkdirSync(articleDir, { recursive: true });
+    const articlePageContent = `import { renderReviewPageBySlug, generateReviewMetadataBySlug } from '@/components/review/ReviewPageContainer';
 
 export function generateMetadata() {
-  return generateReviewMetadataBySlug('${config.rewardArticleSlug}');
+  return generateReviewMetadataBySlug('${article.slug}');
 }
 
-export default function RewardArticlePage() {
-  return renderReviewPageBySlug('${config.rewardArticleSlug}');
-}
-`;
-  fs.writeFileSync(path.join(rewardDir, 'page.tsx'), rewardPageContent, 'utf8');
-
-  // 4. Guia de Cupons
-  const guideDir = path.join(clusterDir, 'reviews', config.guideSlug);
-  fs.mkdirSync(guideDir, { recursive: true });
-  const guidePageContent = `import { renderReviewPageBySlug, generateReviewMetadataBySlug } from '@/components/review/ReviewPageContainer';
-
-export function generateMetadata() {
-  return generateReviewMetadataBySlug('${config.guideSlug}');
-}
-
-export default function GuideArticlePage() {
-  return renderReviewPageBySlug('${config.guideSlug}');
+export default function LocalizedArticlePage() {
+  return renderReviewPageBySlug('${article.slug}');
 }
 `;
-  fs.writeFileSync(path.join(guideDir, 'page.tsx'), guidePageContent, 'utf8');
+    fs.writeFileSync(path.join(articleDir, 'page.tsx'), articlePageContent, 'utf8');
+  }
 
   console.log(`Grupo de rotas atualizado: ${clusterDirName}`);
 }

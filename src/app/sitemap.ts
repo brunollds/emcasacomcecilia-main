@@ -1,7 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { recipes, publishedReviews, getReviewSlug } from '@/lib/data';
 import { getActiveCoupons } from '@/lib/couponsData';
-import { YESSTYLE_LOCALES } from '@/lib/i18n/yesstyleCluster';
+import { YESSTYLE_LOCALES } from '@/lib/i18n/clusters/yesstyle';
 import { getLatestYesStyleVerifiedAtISO } from '@/lib/yesstyleCoupons';
 import { isoDurationToSeconds, videoPages } from '@/lib/video-pages';
 

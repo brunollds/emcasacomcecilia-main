@@ -382,26 +382,24 @@ if (!pilotReview) {
 
 import {
   YESSTYLE_LOCALES,
-  YESSTYLE_LOCALE_KEYS,
   getYesStyleLocaleFromSlugOrPath,
   findYesStyleLocaleFromSlugOrPath,
-} from '@/lib/i18n/yesstyleCluster';
+  isYesStyleArticle,
+} from '@/lib/i18n/clusters/yesstyle';
+import { LOCALE_KEYS } from '@/lib/i18n/locales';
 import { YESSTYLE_COUPONS_FACTUAL } from '@/lib/yesstyleCoupons';
 
 // 1. Validação do registro de locales e unicidade de rotas
 const registeredPathsAndSlugs = new Set<string>();
 
-for (const key of YESSTYLE_LOCALE_KEYS) {
+for (const key of LOCALE_KEYS) {
   const config = YESSTYLE_LOCALES[key];
   if (!config) {
     reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: `Locale "${key}" ausente no registro central YESSTYLE_LOCALES` });
   } else {
     const itemsToCheck = [
       config.hubPath,
-      config.rewardArticleSlug,
-      config.rewardArticlePath,
-      config.guideSlug,
-      config.guidePath,
+      ...config.articles.flatMap((article) => [article.slug, article.path]),
     ];
     for (const item of itemsToCheck) {
       if (registeredPathsAndSlugs.has(item)) {
@@ -469,9 +467,9 @@ const guideLocalesFound = new Set<string>();
 const trustLocalesFound = new Set<string>();
 
 for (const review of reviews) {
-  const isReward = Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.rewardArticleSlug === review.slug);
-  const isGuide = Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.guideSlug === review.slug);
-  const isTrust = Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.trustArticleSlug === review.slug);
+  const isReward = isYesStyleArticle(review.slug, 'reward');
+  const isGuide = isYesStyleArticle(review.slug, 'guide');
+  const isTrust = isYesStyleArticle(review.slug, 'trust');
 
   if (isReward || isGuide || isTrust) {
     if (!review.locale) {
@@ -509,16 +507,16 @@ for (const review of reviews) {
   }
 }
 
-if (rewardLocalesFound.size !== YESSTYLE_LOCALE_KEYS.length) {
-  reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: `Cluster de Reward Code possui ${rewardLocalesFound.size} de ${YESSTYLE_LOCALE_KEYS.length} idiomas` });
+if (rewardLocalesFound.size !== LOCALE_KEYS.length) {
+  reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: `Cluster de Reward Code possui ${rewardLocalesFound.size} de ${LOCALE_KEYS.length} idiomas` });
 }
 
-if (guideLocalesFound.size !== YESSTYLE_LOCALE_KEYS.length) {
-  reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: `Cluster de Guia possui ${guideLocalesFound.size} de ${YESSTYLE_LOCALE_KEYS.length} idiomas` });
+if (guideLocalesFound.size !== LOCALE_KEYS.length) {
+  reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: `Cluster de Guia possui ${guideLocalesFound.size} de ${LOCALE_KEYS.length} idiomas` });
 }
 
-if (trustLocalesFound.size !== YESSTYLE_LOCALE_KEYS.length) {
-  reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: `Cluster de Confiança possui ${trustLocalesFound.size} de ${YESSTYLE_LOCALE_KEYS.length} idiomas` });
+if (trustLocalesFound.size !== LOCALE_KEYS.length) {
+  reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: `Cluster de Confiança possui ${trustLocalesFound.size} de ${LOCALE_KEYS.length} idiomas` });
 }
 
 // 4. Validação do resolvedor estrito fail-loud

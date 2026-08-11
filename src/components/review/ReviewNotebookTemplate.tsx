@@ -17,7 +17,13 @@ import { ReviewMobileBottomBar } from './ReviewMobileBottomBar';
 import { InlineCouponCopy } from './InlineCouponCopy';
 import { getCouponCopyLocale, isStepHeading, type CouponCopyLocale } from './couponCopyLocale';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
-import { YESSTYLE_LOCALES, getRewardArticleLanguageLinks, getGuideArticleLanguageLinks, getTrustArticleLanguageLinks } from '@/lib/i18n/yesstyleCluster';
+import {
+  getGuideArticleLanguageLinks,
+  getRewardArticleLanguageLinks,
+  getTrustArticleLanguageLinks,
+  getYesStyleLocaleConfig,
+  isYesStyleArticle,
+} from '@/lib/i18n/clusters/yesstyle';
 import { getShellCopy } from '@/lib/i18n/shellDictionary';
 import { GuideTimeline } from './GuideTimeline';
 import { PullQuote } from './PullQuote';
@@ -305,7 +311,7 @@ export function ReviewNotebookTemplate({
                   ) : (
                     <>
                       <li>
-                        <Link href={YESSTYLE_LOCALES[couponCopyLocale as keyof typeof YESSTYLE_LOCALES]?.hubPath || '/'} className="transition-colors hover:text-[#1a4d2e]">
+                        <Link href={getYesStyleLocaleConfig(couponCopyLocale).hubPath} className="transition-colors hover:text-[#1a4d2e]">
                           {getShellCopy(couponCopyLocale).hubLabel}
                         </Link>
                       </li>
@@ -359,21 +365,21 @@ export function ReviewNotebookTemplate({
             )}
 
             {/* Seletor reutilizável para versões localizadas */}
-            {Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.rewardArticleSlug === review.slug) && (
+            {isYesStyleArticle(review.slug, 'reward') && (
               <LanguageSwitcher
                 currentLocale={couponCopyLocale}
                 links={getRewardArticleLanguageLinks()}
               />
             )}
 
-            {Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.guideSlug === review.slug) && (
+            {isYesStyleArticle(review.slug, 'guide') && (
               <LanguageSwitcher
                 currentLocale={couponCopyLocale}
                 links={getGuideArticleLanguageLinks()}
               />
             )}
 
-            {Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.trustArticleSlug === review.slug) && (
+            {isYesStyleArticle(review.slug, 'trust') && (
               <LanguageSwitcher
                 currentLocale={couponCopyLocale}
                 links={getTrustArticleLanguageLinks()}
@@ -735,7 +741,7 @@ export function ReviewNotebookTemplate({
                   {ui.relatedArticles}
                 </SectionHeadingReveal>
                 <Link
-                  href={couponCopyLocale === 'pt' ? '/reviews' : (YESSTYLE_LOCALES[couponCopyLocale as keyof typeof YESSTYLE_LOCALES]?.hubPath || '/')}
+                  href={couponCopyLocale === 'pt' ? '/reviews' : getYesStyleLocaleConfig(couponCopyLocale).hubPath}
                   className="hidden items-center gap-2 text-sm font-bold text-[#1a4d2e] transition-colors hover:text-[#ff6b35] md:inline-flex"
                 >
                   {ui.viewAll}

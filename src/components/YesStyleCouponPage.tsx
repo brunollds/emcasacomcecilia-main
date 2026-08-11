@@ -5,10 +5,11 @@ import { CopyButton, FAQAccordion } from '@/components/CouponComponents';
 import { CouponBottomBar } from '@/components/CouponBottomBar';
 import {
   getYesStyleLocaleConfig,
+  getYesStyleArticle,
   getHubLanguageLinks,
   YESSTYLE_LOCALES,
-  type YesStyleLocale,
-} from '@/lib/i18n/yesstyleCluster';
+} from '@/lib/i18n/clusters/yesstyle';
+import type { Locale as SiteLocale } from '@/lib/i18n/locales';
 import {
   getPrimaryRewardCode,
   getActivePromoCoupons,
@@ -18,7 +19,7 @@ import {
 } from '@/lib/yesstyleCoupons';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 
-export type Locale = YesStyleLocale;
+export type Locale = SiteLocale;
 
 export type PageCopy = {
   locale: Locale;
@@ -938,8 +939,8 @@ export function resolveYesStylePage(
     rewardArticleCardSubtext: page.rewardArticleCardSubtext,
     guideCardTitle: page.guideCardTitle,
     guideCardSubtext: page.guideCardSubtext,
-    rewardArticlePath: config.rewardArticlePath,
-    guidePath: config.guidePath,
+    rewardArticlePath: getYesStyleArticle(page.locale, 'reward').path,
+    guidePath: getYesStyleArticle(page.locale, 'guide').path,
     faqTitle: page.faqTitle,
     faqs: page.faqs.map((faq) => ({
       question: fillPlaceholders(faq.question, reward, firstPromoCode),

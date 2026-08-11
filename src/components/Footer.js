@@ -3,7 +3,8 @@
 import Link from 'next/link';
 import { brandLinks, socialMedias } from '@/lib/data';
 import { getShellCopy, getShellNavLinks } from '@/lib/i18n/shellDictionary';
-import { YESSTYLE_LOCALES } from '@/lib/i18n/yesstyleCluster';
+import { findLocaleByHtmlLang } from '@/lib/i18n/locales';
+import { getYesStyleLocaleConfig } from '@/lib/i18n/clusters/yesstyle';
 
 // Ícones SVG para redes sociais
 const SocialIcons = {
@@ -45,12 +46,12 @@ const socialLinks = [
 export default function Footer({ lang = 'pt-BR' }) {
   const currentYear = new Date().getFullYear();
 
-  const localeKey = Object.values(YESSTYLE_LOCALES).find((cfg) => cfg.htmlLang === lang)?.locale || 'pt';
+  const localeKey = findLocaleByHtmlLang(lang) || 'pt';
 
   const isPt = localeKey === 'pt';
   const copy = getShellCopy(localeKey);
   const navLinks = getShellNavLinks(localeKey);
-  const homeHref = isPt ? '/' : YESSTYLE_LOCALES[localeKey].hubPath;
+  const homeHref = isPt ? '/' : getYesStyleLocaleConfig(localeKey).hubPath;
 
   return (
     <footer className="bg-[#0f1d3a] px-6 pb-10 pt-12 print:hidden">

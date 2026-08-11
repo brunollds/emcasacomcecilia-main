@@ -15,7 +15,7 @@ import {
   getRewardArticleLanguageLinks,
   getHubLanguageLinks,
   YESSTYLE_LOCALES,
-} from '../src/lib/i18n/yesstyleCluster';
+} from '../src/lib/i18n/clusters/yesstyle';
 import sitemap from '../src/app/sitemap';
 
 export function runYesStyleMutationTest(): { success: boolean; errors: string[] } {
@@ -47,11 +47,9 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
   }
 
   // 3. Validação estrita do Sitemap B2 a partir de YESSTYLE_LOCALES
-  const expectedArticleUrls = Object.values(YESSTYLE_LOCALES).flatMap((config) => [
-    `https://emcasacomcecilia.com${config.rewardArticlePath}`,
-    `https://emcasacomcecilia.com${config.guidePath}`,
-    `https://emcasacomcecilia.com${config.trustArticlePath}`,
-  ]);
+  const expectedArticleUrls = Object.values(YESSTYLE_LOCALES).flatMap((config) =>
+    config.articles.map((article) => `https://emcasacomcecilia.com${article.path}`)
+  );
 
   const expectedHubUrls = Object.values(YESSTYLE_LOCALES).map(
     (config) => `https://emcasacomcecilia.com${config.hubPath}`

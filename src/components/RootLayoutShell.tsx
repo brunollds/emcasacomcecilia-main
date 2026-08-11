@@ -5,7 +5,7 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import Analytics from '@/components/Analytics';
 import { getShellCopy } from '@/lib/i18n/shellDictionary';
-import { YESSTYLE_LOCALES, type YesStyleLocale } from '@/lib/i18n/yesstyleCluster';
+import { LOCALES, findLocaleByHtmlLang, type Locale } from '@/lib/i18n/locales';
 
 const montserrat = Montserrat({
   variable: '--font-montserrat',
@@ -36,12 +36,10 @@ const kalam = Kalam({
 });
 
 export function getLocaleMetadata(localeStr: string) {
-  const loc: YesStyleLocale = (
-    Object.values(YESSTYLE_LOCALES).find((cfg) => cfg.htmlLang === localeStr)?.locale || 'pt'
-  ) as YesStyleLocale;
+  const loc = findLocaleByHtmlLang(localeStr) || 'pt';
 
   const copy = getShellCopy(loc);
-  const config = YESSTYLE_LOCALES[loc];
+  const config = LOCALES[loc];
 
   return {
     metadataBase: new URL('https://emcasacomcecilia.com'),
@@ -81,15 +79,13 @@ export function RootLayoutShell({
   lang: string;
   children: React.ReactNode;
 }) {
-  const loc: YesStyleLocale = (
-    Object.values(YESSTYLE_LOCALES).find((cfg) => cfg.htmlLang === lang)?.locale || 'pt'
-  ) as YesStyleLocale;
+  const loc = findLocaleByHtmlLang(lang) || 'pt';
 
   const copy = getShellCopy(loc);
   const isPt = loc === 'pt';
 
   // Mapeamento dos idiomas declarados no schema da organização
-  const languageNames: Record<YesStyleLocale, string> = {
+  const languageNames: Record<Locale, string> = {
     pt: 'Portuguese',
     en: 'English',
     es: 'Spanish',

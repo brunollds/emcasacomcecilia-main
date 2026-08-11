@@ -6,19 +6,20 @@ import { Menu, X, ArrowRight } from 'lucide-react';
 import { brandLinks } from '@/lib/data';
 import OmniSearch from '@/components/OmniSearch';
 import { getShellCopy, getShellNavLinks } from '@/lib/i18n/shellDictionary';
-import { YESSTYLE_LOCALES } from '@/lib/i18n/yesstyleCluster';
+import { findLocaleByHtmlLang } from '@/lib/i18n/locales';
+import { getYesStyleLocaleConfig } from '@/lib/i18n/clusters/yesstyle';
 
 export default function Navbar({ lang = 'pt-BR' }) {
   const [isOpen, setIsOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
   // Map htmlLang back to internal locale key (e.g. 'pt-BR' -> 'pt', 'en' -> 'en', 'ja' -> 'ja', 'zh-Hant' -> 'zh-hant')
-  const localeKey = Object.values(YESSTYLE_LOCALES).find((cfg) => cfg.htmlLang === lang)?.locale || 'pt';
+  const localeKey = findLocaleByHtmlLang(lang) || 'pt';
 
   const isPt = localeKey === 'pt';
   const copy = getShellCopy(localeKey);
   const navLinks = getShellNavLinks(localeKey);
-  const homeHref = isPt ? '/' : YESSTYLE_LOCALES[localeKey].hubPath;
+  const homeHref = isPt ? '/' : getYesStyleLocaleConfig(localeKey).hubPath;
 
   useEffect(() => {
     const handleScroll = () => {

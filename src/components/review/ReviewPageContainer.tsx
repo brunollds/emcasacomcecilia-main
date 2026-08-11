@@ -3,7 +3,13 @@ import { notFound } from 'next/navigation';
 import { getReviewSlug, publishedReviews, reviews } from '@/lib/data';
 import { ReviewNotebookTemplate } from '@/components/review';
 import { buildReviewTemplateProps } from '@/lib/review-template-props';
-import { YESSTYLE_LOCALES, getYesStyleLocaleConfig, findYesStyleLocaleFromSlugOrPath } from '@/lib/i18n/yesstyleCluster';
+import { LOCALES, type Locale } from '@/lib/i18n/locales';
+import {
+  findYesStyleArticleKey,
+  findYesStyleLocaleFromSlugOrPath,
+  getYesStyleArticleLanguageLinks,
+  getYesStyleLocaleConfig,
+} from '@/lib/i18n/clusters/yesstyle';
 
 export function findReviewBySlug(slug: string) {
   const list = process.env.NODE_ENV === 'development' ? reviews : publishedReviews;
@@ -24,25 +30,14 @@ export async function generateReviewMetadataBySlug(slug: string) {
   const localeConfig = getYesStyleLocaleConfig(currentLocaleKey);
 
   const languages: Record<string, string> = {};
-  const isRewardSlug = Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.rewardArticleSlug === slug);
-  const isGuideSlug = Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.guideSlug === slug);
-  const isTrustSlug = Object.values(YESSTYLE_LOCALES).some((cfg) => cfg.trustArticleSlug === slug);
+  const articleKey = findYesStyleArticleKey(slug);
 
-  if (isGuideSlug) {
-    for (const cfg of Object.values(YESSTYLE_LOCALES)) {
-      languages[cfg.hreflang] = `https://emcasacomcecilia.com${cfg.guidePath}`;
+  if (articleKey) {
+    const articleLinks = getYesStyleArticleLanguageLinks(articleKey);
+    for (const [locale, path] of Object.entries(articleLinks)) {
+      languages[LOCALES[locale as Locale].hreflang] = `https://emcasacomcecilia.com${path}`;
     }
-    languages['x-default'] = `https://emcasacomcecilia.com${YESSTYLE_LOCALES.en.guidePath}`;
-  } else if (isRewardSlug) {
-    for (const cfg of Object.values(YESSTYLE_LOCALES)) {
-      languages[cfg.hreflang] = `https://emcasacomcecilia.com${cfg.rewardArticlePath}`;
-    }
-    languages['x-default'] = `https://emcasacomcecilia.com${YESSTYLE_LOCALES.en.rewardArticlePath}`;
-  } else if (isTrustSlug) {
-    for (const cfg of Object.values(YESSTYLE_LOCALES)) {
-      languages[cfg.hreflang] = `https://emcasacomcecilia.com${cfg.trustArticlePath}`;
-    }
-    languages['x-default'] = `https://emcasacomcecilia.com${YESSTYLE_LOCALES.en.trustArticlePath}`;
+    languages['x-default'] = `https://emcasacomcecilia.com${articleLinks.en}`;
   }
 
   const seoDescription = review.metaDescription || review.description;

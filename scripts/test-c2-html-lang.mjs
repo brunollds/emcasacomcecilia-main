@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const clusterModule = await import('../src/lib/i18n/yesstyleCluster.ts');
+const clusterModule = await import('../src/lib/i18n/clusters/yesstyle.ts');
 const YESSTYLE_LOCALES = clusterModule.YESSTYLE_LOCALES;
 
 const checks = [
@@ -10,6 +10,8 @@ const checks = [
 ];
 
 for (const config of Object.values(YESSTYLE_LOCALES)) {
+  const rewardArticle = config.articles.find((article) => article.key === 'reward');
+  const guideArticle = config.articles.find((article) => article.key === 'guide');
   const hubFilePath = config.locale === 'pt'
     ? '.next/server/app/cupons/yesstyle.html'
     : `.next/server/app/${config.locale}/coupons/yesstyle.html`;
@@ -21,14 +23,14 @@ for (const config of Object.values(YESSTYLE_LOCALES)) {
   });
 
   checks.push({
-    url: config.rewardArticlePath,
-    file: `.next/server/app${config.rewardArticlePath}.html`,
+    url: rewardArticle.path,
+    file: `.next/server/app${rewardArticle.path}.html`,
     expectedLang: config.htmlLang,
   });
 
   checks.push({
-    url: config.guidePath,
-    file: `.next/server/app${config.guidePath}.html`,
+    url: guideArticle.path,
+    file: `.next/server/app${guideArticle.path}.html`,
     expectedLang: config.htmlLang,
   });
 }

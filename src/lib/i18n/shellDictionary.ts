@@ -1,7 +1,8 @@
-import { type YesStyleLocale, YESSTYLE_LOCALES } from './yesstyleCluster';
+import { type Locale } from './locales';
+import { getYesStyleArticle, getYesStyleLocaleConfig } from './clusters/yesstyle';
 
 export interface ShellCopy {
-  locale: YesStyleLocale;
+  locale: Locale;
   tagline: string;
   menuLabel: string;
   homeLabel: string;
@@ -17,7 +18,7 @@ export interface ShellCopy {
   listenAudio: string;
 }
 
-export const SHELL_DICTIONARY: Record<YesStyleLocale, ShellCopy> = {
+export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
   pt: {
     locale: 'pt',
     tagline: 'Receitas que dão certo',
@@ -165,13 +166,13 @@ export const SHELL_DICTIONARY: Record<YesStyleLocale, ShellCopy> = {
 };
 
 export function getShellCopy(localeStr: string): ShellCopy {
-  const loc = (localeStr in SHELL_DICTIONARY ? localeStr : 'pt') as YesStyleLocale;
+  const loc = (localeStr in SHELL_DICTIONARY ? localeStr : 'pt') as Locale;
   return SHELL_DICTIONARY[loc];
 }
 
 export function getShellNavLinks(localeStr: string) {
-  const loc = (localeStr in SHELL_DICTIONARY ? localeStr : 'pt') as YesStyleLocale;
-  const config = YESSTYLE_LOCALES[loc];
+  const loc = (localeStr in SHELL_DICTIONARY ? localeStr : 'pt') as Locale;
+  const config = getYesStyleLocaleConfig(loc);
   const copy = SHELL_DICTIONARY[loc];
 
   if (loc === 'pt') {
@@ -188,7 +189,7 @@ export function getShellNavLinks(localeStr: string) {
 
   return [
     { href: config.hubPath, label: copy.hubLabel, primary: true },
-    { href: config.rewardArticlePath, label: copy.rewardArticleLabel },
-    { href: config.guidePath, label: copy.guideLabel },
+    { href: getYesStyleArticle(loc, 'reward').path, label: copy.rewardArticleLabel },
+    { href: getYesStyleArticle(loc, 'guide').path, label: copy.guideLabel },
   ];
 }

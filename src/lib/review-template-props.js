@@ -1,6 +1,6 @@
 import { getReviewSlug, publishedReviews } from '@/lib/data';
 import { buildSchemaAuthors, normalizeReview } from '@/lib/content';
-import { YESSTYLE_LOCALES, findYesStyleLocaleFromSlugOrPath } from '@/lib/i18n/yesstyleCluster';
+import { getYesStyleLocaleConfig, findYesStyleLocaleFromSlugOrPath } from '@/lib/i18n/clusters/yesstyle';
 import { getShellCopy } from '@/lib/i18n/shellDictionary';
 import {
   getPrimaryLocalVideoMeta,
@@ -40,7 +40,7 @@ export function buildReviewTemplateProps(review) {
   const currentSlug = getReviewSlug(review);
   const localeKey = review.locale || findYesStyleLocaleFromSlugOrPath(currentSlug) || 'pt';
   const isPt = localeKey === 'pt';
-  const config = YESSTYLE_LOCALES[localeKey];
+  const config = getYesStyleLocaleConfig(localeKey);
   const copy = getShellCopy(localeKey);
 
   const baseUrl = 'https://emcasacomcecilia.com';
