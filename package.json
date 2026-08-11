@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "node scripts/content/build-index.mjs && tsx scripts/validate-video-schema.ts && tsx scripts/test-internal-links.ts && tsx scripts/test-coupon-offer-modes.ts && tsx scripts/test-analytics-gate.ts && next build && node scripts/content/install-release-meta.mjs",
+    "build": "node scripts/content/build-index.mjs && tsx scripts/validate-video-schema.ts && tsx scripts/test-internal-links.ts && tsx scripts/test-coupon-offer-modes.ts && tsx scripts/test-analytics-gate.ts && next build",
     "start": "next start -p ${PORT:-3000}",
     "lint": "eslint",
     "typecheck": "tsc --noEmit",
@@ -12,7 +12,7 @@
     "validate:video": "tsx scripts/validate-video-schema.ts",
     "validate:pretext": "tsx scripts/validate-pretext.ts",
     "verify:release": "node scripts/content/verify-release-endpoint.mjs",
-    "test:release-meta": "node scripts/content/install-release-meta.mjs --self-test",
+    "test:release-meta": "node scripts/content/release-identity.mjs --self-test",
     "indexnow:submit": "node scripts/submit-indexnow.mjs",
     "update:popular-recipes": "node scripts/update-popular-recipes.mjs",
     "youtube:inventory": "tsx data/youtube/youtube-inventory.ts",

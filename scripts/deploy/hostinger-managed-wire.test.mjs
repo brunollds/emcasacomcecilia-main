@@ -12,6 +12,7 @@ import {
   runManagedWireProbe,
   triggerBuild,
   validateProbeInput,
+  waitForStaticBuild,
 } from './hostinger-managed-wire.mjs';
 
 const TARGET_SHA = 'a'.repeat(40);
@@ -97,6 +98,12 @@ async function withFakeProvider(fn) {
       response.end(JSON.stringify({ target_sha: TARGET_SHA, deploy_uuid: DEPLOY_UUID }));
       return;
     }
+    if (request.method === 'GET'
+      && url.pathname === `/_next/static/${TARGET_SHA}/_buildManifest.js`) {
+      response.setHeader('content-type', 'application/javascript');
+      response.end('self.__BUILD_MANIFEST={}');
+      return;
+    }
     response.statusCode = 404;
     response.end();
   });
@@ -114,7 +121,7 @@ async function withFakeProvider(fn) {
   }
 }
 
-test('reproduz upload TUS → settings → build → completed → attestation', async () => {
+test('reproduz upload TUS → build → attestation dinâmica + BUILD_ID estático', async () => {
   const dir = mkdtempSync(path.join(tmpdir(), 'hostinger-wire-'));
   const archivePath = path.join(dir, 'probe.tar.gz');
   const archive = Buffer.from('archive-fixture');
@@ -135,7 +142,9 @@ test('reproduz upload TUS → settings → build → completed → attestation',
         sleepImpl: async () => {},
         fetchImpl: (url, options) => {
           const parsed = new URL(url);
-          if (parsed.hostname === '127.0.0.1' && parsed.pathname === '/api/release') {
+          if (parsed.hostname === '127.0.0.1'
+            && (parsed.pathname === '/api/release'
+              || parsed.pathname === `/_next/static/${TARGET_SHA}/_buildManifest.js`)) {
             return fetch(`${origin}${parsed.pathname}${parsed.search}`, options);
           }
           return fetch(url, options);
@@ -145,7 +154,8 @@ test('reproduz upload TUS → settings → build → completed → attestation',
       assert.equal(getUploadBytes(), archive.length);
       assert.deepEqual(getBuildBody().source_options, { archive_path: 'probe.tar.gz' });
       assert.equal(getBuildBody().source_type, 'archive');
-      assert.equal(result.status, 'completed-and-attested');
+      assert.equal(result.status, 'completed-and-verified');
+      assert.equal(result.static_build_id, TARGET_SHA);
       assert.deepEqual(result.states, ['running', 'completed']);
       assert.deepEqual(dispatchedEvents, [{
         status: 'dispatched',
@@ -159,6 +169,24 @@ test('reproduz upload TUS → settings → build → completed → attestation',
   } finally {
     rmSync(dir, { recursive: true, force: true });
   }
+});
+
+test('falso 200 sem build manifest mantém o estado ambíguo', async () => {
+  await assert.rejects(
+    waitForStaticBuild({
+      domain: 'example.com',
+      targetSha: TARGET_SHA,
+      deployUuid: DEPLOY_UUID,
+      staticTimeoutMs: 1,
+      staticPollMs: 0,
+      sleepImpl: async () => {},
+      fetchImpl: async () => new Response('<html>fallback</html>', {
+        status: 200,
+        headers: { 'content-type': 'text/html' },
+      }),
+    }),
+    /sem BUILD_ID estático exato/
+  );
 });
 
 test('POST ambíguo vira dispatch-unknown e não é repetido', async () => {

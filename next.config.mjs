@@ -1,6 +1,7 @@
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import { validateRedirectsFromDisk } from './scripts/content/validate-redirects.mjs';
+import { readReleaseIdentity } from './scripts/content/release-identity.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -11,9 +12,21 @@ const redirects = validateRedirectsFromDisk(
   path.join(__dirname, 'content')
 );
 
+const releaseIdentity = readReleaseIdentity({
+  sourcePath: path.join(__dirname, 'release-meta.json'),
+  required: process.env.RELEASE_META_REQUIRED === '1',
+});
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'standalone',
+  ...(releaseIdentity.target_sha
+    ? { generateBuildId: async () => releaseIdentity.target_sha }
+    : {}),
+  env: {
+    EMCASA_RELEASE_TARGET_SHA: releaseIdentity.target_sha ?? '',
+    EMCASA_RELEASE_DEPLOY_UUID: releaseIdentity.deploy_uuid ?? '',
+  },
   async redirects() {
     return redirects;
   },

@@ -163,7 +163,7 @@ npx tsx scripts/test-yesstyle-mutation.ts
 
 `npm run typecheck` (`tsc --noEmit`) é o gate real do 1b: com união discriminada, ele
 lista de uma vez todos os consumidores que faltam migrar. Rodar antes do build, que é
-mais lento (`build-index` + `validate-video-schema` + `next build` + `install-release-meta`).
+mais lento (`build-index` + validadores versionados + `next build`).
 
 Nota: o `CLAUDE.md` do repositório afirma que não há suíte de testes e que
 `src/lib/data.ts` é a fonte de verdade do conteúdo. As duas coisas estão desatualizadas —

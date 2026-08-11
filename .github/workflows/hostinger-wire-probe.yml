@@ -32,6 +32,11 @@ jobs:
       HOSTINGER_API_TOKEN: ${{ secrets.HOSTINGER_API_TOKEN }}
       HOSTINGER_ACCOUNT: u150185510
       HOSTINGER_DOMAIN: emcasacomcecilia.com
+      HOST: u150185510@46.202.145.2
+      PORT: '65002'
+      ROOT: /home/u150185510/domains/emcasacomcecilia.com
+      SSH_KEY: ${{ secrets.HOSTINGER_SSH_KEY }}
+      KNOWN_HOSTS: ${{ secrets.HOSTINGER_KNOWN_HOSTS }}
 
     steps:
       - uses: actions/checkout@v4
@@ -55,6 +60,93 @@ jobs:
             echo "DEPLOY_UUID=$deploy_uuid"
             echo "ARCHIVE_NAME=emcasa-wire-$target_sha-$deploy_uuid.tar.gz"
           } >> "$GITHUB_ENV"
+
+      - name: Configure read-only SSH inspection
+        shell: bash
+        run: |
+          set -euo pipefail
+          [ -n "$SSH_KEY" ] || { echo 'HOSTINGER_SSH_KEY is missing' >&2; exit 1; }
+          [ -n "$KNOWN_HOSTS" ] || { echo 'HOSTINGER_KNOWN_HOSTS is missing' >&2; exit 1; }
+          install -d -m 700 ~/.ssh
+          printf '%s\n' "$SSH_KEY" | tr -d '\r' > ~/.ssh/id_ed25519
+          printf '%s\n' "$KNOWN_HOSTS" > ~/.ssh/known_hosts
+          chmod 600 ~/.ssh/id_ed25519 ~/.ssh/known_hosts
+          ssh-keygen -F "[46.202.145.2]:65002" -f ~/.ssh/known_hosts >/dev/null
+
+      - name: Capture pre-deploy runtime state
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p artifacts
+          {
+            echo "captured_at=$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            echo "candidate_target_sha=$TARGET_SHA"
+            echo
+            echo 'PUBLIC_ATTESTATION'
+            curl -4 --fail --silent --show-error --dump-header - \
+              -H 'Cache-Control: no-cache' \
+              "https://$HOSTINGER_DOMAIN/api/release?cb=pre-$GITHUB_RUN_ID-$(date +%s)"
+            echo
+            echo 'PUBLIC_HOME_HEADERS'
+            curl -4 --fail --silent --show-error --dump-header - \
+              --output artifacts/pre-deploy-home.html \
+              -H 'Cache-Control: no-cache' \
+              "https://$HOSTINGER_DOMAIN/?cb=pre-$GITHUB_RUN_ID-$(date +%s)"
+            echo
+            echo 'PUBLIC_SERVED_BUILD_IDS'
+            grep -oE '/_next/static/[^/]+/' artifacts/pre-deploy-home.html \
+              | sed -E 's#^/_next/static/([^/]+)/$#\1#' | sort -u || true
+            echo
+            echo 'REMOTE_RUNTIME'
+            ssh -i ~/.ssh/id_ed25519 -p "$PORT" -o StrictHostKeyChecking=yes "$HOST" \
+              "ROOT='$ROOT' ACCOUNT='$HOSTINGER_ACCOUNT' bash -s" <<'REMOTE'
+          set -euo pipefail
+          echo "remote_captured_at=$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          echo "root=$ROOT"
+          echo
+          echo 'WORKERS'
+          for pid in $(pgrep -u "$ACCOUNT" -f next-server 2>/dev/null || true); do
+            cwd=$(readlink "/proc/$pid/cwd" 2>/dev/null || true)
+            case "$cwd" in
+              "$ROOT"/*)
+                echo "pid=$pid cwd=$cwd"
+                if [ -f "$cwd/.next/BUILD_ID" ]; then
+                  echo "pid=$pid build_id=$(tr -d '\n' < "$cwd/.next/BUILD_ID")"
+                else
+                  echo "pid=$pid build_id=absent"
+                fi
+                if [ -f "$cwd/release-meta.json" ]; then
+                  echo "pid=$pid runtime_meta=$(tr -d '\n' < "$cwd/release-meta.json")"
+                else
+                  echo "pid=$pid runtime_meta=absent"
+                fi
+                ;;
+            esac
+          done
+          echo
+          echo 'RELEASE_META_FILES'
+          while IFS= read -r meta; do
+            echo "path=$meta"
+            echo "body=$(tr -d '\n' < "$meta")"
+          done < <(find "$ROOT/nodejs" "$ROOT/hbuilds" -maxdepth 8 \
+            -name release-meta.json -type f -print 2>/dev/null | sort)
+          echo
+          echo 'BUILD_IDS'
+          while IFS= read -r build_id; do
+            echo "path=$build_id value=$(tr -d '\n' < "$build_id")"
+          done < <(find "$ROOT/nodejs/.next" "$ROOT/hbuilds/versions" -maxdepth 6 \
+            -name BUILD_ID -type f -print 2>/dev/null | sort)
+          REMOTE
+          } > artifacts/pre-deploy-runtime.txt
+
+      - name: Preserve pre-deploy runtime state
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pre-deploy-runtime-${{ github.run_id }}
+          path: artifacts/
+          if-no-files-found: error
+          retention-days: 30
 
       - name: Build and prove local attestation
         shell: bash
@@ -100,7 +192,7 @@ jobs:
             printf '%s\n' "- deploy_uuid: \`$DEPLOY_UUID\`"
             echo '- Consulte o log do step de wire para `build_uuid`/`dispatch-unknown`.'
             if [ "${{ job.status }}" = 'success' ]; then
-              echo '- result: completed + exact public attestation'
+              echo '- result: completed + exact dynamic attestation + exact static BUILD_ID'
             else
               echo '- result: incomplete; não repetir o dispatch sem reconciliar pelo archive name'
             fi

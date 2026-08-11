@@ -68,6 +68,7 @@ jobs:
             [[ "$ts" =~ ^[0-9a-f]{40}$ ]] || { echo "target_sha invalido (esperado 40 hex): $ts" >&2; exit 1; }
             [[ "$du" =~ ^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$ ]] \
               || { echo "deploy_uuid invalido (UUID canonico): $du" >&2; exit 1; }
+            du="${du,,}"
             {
               echo "TARGET_SHA=$ts"
               echo "DEPLOY_UUID=$du"
@@ -75,12 +76,13 @@ jobs:
               echo "RELEASE_ID=$ts-$du"
             } >> "$GITHUB_ENV"
           else
-            # Fluxo legado: identidade = github.sha (40 chars, identico ao comportamento atual).
+            # Fluxo manual: gera UUID para que a identidade compilada seja sempre completa.
+            du=$(cat /proc/sys/kernel/random/uuid)
             {
               echo "TARGET_SHA=$FALLBACK_SHA"
-              echo "DEPLOY_UUID="
-              echo "RELEASE_KEY=$FALLBACK_SHA"
-              echo "RELEASE_ID=$FALLBACK_SHA"
+              echo "DEPLOY_UUID=$du"
+              echo "RELEASE_KEY=$FALLBACK_SHA-$du"
+              echo "RELEASE_ID=$FALLBACK_SHA-$du"
             } >> "$GITHUB_ENV"
           fi
 
@@ -105,7 +107,9 @@ jobs:
       - name: Install and build
         run: |
           npm ci
-          npm run build
+          node -e 'const fs=require("node:fs");fs.writeFileSync("release-meta.json",JSON.stringify({target_sha:process.env.TARGET_SHA,deploy_uuid:process.env.DEPLOY_UUID})+"\n")'
+          RELEASE_META_REQUIRED=1 npm run build
+          npm run verify:release
           npm run test:html-lang
 
       - name: Assemble and validate the Linux release
@@ -139,10 +143,6 @@ jobs:
           # Sem asserção de "runner path": o standalone do Next embute o cwd de build
           # (outputFileTracingRoot/root) em server.js e required-server-files.json — inócuo em
           # runtime (o app roda de __dirname; provado pelo Damie em producao com o mesmo path).
-
-          # JSON via env (nunca interpolar inputs em run:); TARGET_SHA/DEPLOY_UUID ja validados na Task 4.
-          TARGET_SHA="$TARGET_SHA" DEPLOY_UUID="$DEPLOY_UUID" node -e 'const fs=require("fs");fs.writeFileSync("pkg/release-meta.json",JSON.stringify({target_sha:process.env.TARGET_SHA||null,deploy_uuid:process.env.DEPLOY_UUID||null})+"\n")'
-          test -f pkg/release-meta.json
 
           tar -C pkg -czf "emcasa-release-${RELEASE_ID}.tar.gz" .
           echo "BUILD_ID=$(tr -d '\n' < pkg/.next/BUILD_ID)" >> "$GITHUB_ENV"

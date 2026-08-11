@@ -270,17 +270,24 @@ por atualização do provedor ou por uma reimplantação intermediária. O Next 
 para troca da superfície efetiva de execução, de pacote SSH para build gerenciado.
 
 O caminho preparado para o runtime real é `.github/workflows/hostinger-wire-probe.yml`: ele
-cria a identidade antes do build, instala o meta no standalone, envia o fonte pelo build
-gerenciado da Hostinger e só aceita sucesso com attestation pública exata. Os testes locais
-`test:release-meta`, `verify:release` e `test:hostinger-wire` passam, mas esse workflow ainda
-nunca foi executado. **O próximo deploy deve usar esse probe supervisionado**; não considerar
-a medição iniciada até `/api/release` devolver o SHA e o UUID daquele deploy.
+cria a identidade antes do build, envia o fonte pelo build gerenciado da Hostinger e só
+aceita sucesso com attestation pública exata. O probe ainda nunca foi executado. **O próximo
+deploy deve usar esse probe supervisionado**; não considerar a medição iniciada até
+`/api/release` devolver o SHA e o UUID daquele deploy.
 
-**Recomendação arquitetural antes de tornar o probe rotina:** compilar `target_sha` e
-`deploy_uuid` dentro do artefato e fazer a rota responder da memória, sem leitura de
-`process.cwd()`. Isso elimina o acoplamento a diretórios móveis e prova que o processo que
-respondeu é o build esperado, não apenas que um arquivo correto ficou ao lado dele. Ainda
-não implementado.
+**Identidade compilada:** `next.config.mjs` lê `release-meta.json` como entrada efêmera do
+build, usa `target_sha` como `BUILD_ID` determinístico e incorpora `target_sha` e `deploy_uuid`
+no bundle do servidor. A rota responde dessas
+constantes; não lê `process.cwd()` nem arquivo em runtime. `verify:release` remove todos os
+sidecars, injeta identidade falsa no ambiente do processo e exige que o standalone ainda
+devolva os valores do build. O probe exige também
+`/_next/static/<target_sha>/_buildManifest.js`: a rota dinâmica prova qual processo respondeu,
+e o manifesto prova que os arquivos do mesmo release estão publicados. Os testes
+`test:release-meta`, `verify:release` e `test:hostinger-wire` cobrem o contrato local.
+
+Antes do dispatch, o probe captura em artefato: resposta pública atual, `cwd` de cada worker,
+caminho completo do `hbuild`, `BUILD_ID` servido e todos os `release-meta.json` encontrados.
+Essa captura é fail-closed e acontece antes de qualquer mutação em produção.
 
 Consequência positiva do bloqueio: o export do GSC de 10/05–11/08 reflete o mesmo estado
 publicado de 01/08. As posições usadas para priorizar Dolce Gusto, I Wanna Sleep, YesStyle e

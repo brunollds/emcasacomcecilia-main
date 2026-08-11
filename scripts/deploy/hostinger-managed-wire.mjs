@@ -258,6 +258,34 @@ export async function waitForAttestation(config) {
   throw new Error('build completed sem attestation exata no prazo; estado ambíguo');
 }
 
+export async function waitForStaticBuild(config) {
+  const deadline = Date.now() + (config.staticTimeoutMs ?? 2 * 60_000);
+  const manifestUrl = `https://${config.domain}/_next/static/${config.targetSha}/_buildManifest.js`;
+  while (Date.now() < deadline) {
+    try {
+      const response = await (config.fetchImpl ?? fetch)(
+        `${manifestUrl}?cb=${encodeURIComponent(config.deployUuid)}-${Date.now()}`,
+        {
+          headers: { 'Cache-Control': 'no-cache' },
+          redirect: 'error',
+          signal: AbortSignal.timeout(20_000),
+        }
+      );
+      const contentType = response.headers.get('content-type') ?? '';
+      const body = await response.text();
+      if (response.status === 200
+        && contentType.includes('javascript')
+        && body.includes('self.__BUILD_MANIFEST')) {
+        return manifestUrl;
+      }
+    } catch {
+      // O artefato estático ainda não convergiu; o prazo limitado continua sendo autoridade.
+    }
+    await (config.sleepImpl ?? sleep)(config.staticPollMs ?? 3_000);
+  }
+  throw new Error('build completed sem BUILD_ID estático exato no prazo; estado ambíguo');
+}
+
 export async function runManagedWireProbe(input) {
   const config = { apiBase: DEFAULT_API_BASE, ...input };
   const { archiveName, size } = validateProbeInput(config);
@@ -273,14 +301,16 @@ export async function runManagedWireProbe(input) {
   });
   const completed = await waitForBuild(config, dispatched.uuid);
   await waitForAttestation(config);
+  await waitForStaticBuild(config);
   return {
-    status: 'completed-and-attested',
+    status: 'completed-and-verified',
     archive_name: archiveName,
     archive_bytes: size,
     build_uuid: dispatched.uuid,
     states: completed.states,
     target_sha: config.targetSha,
     deploy_uuid: config.deployUuid,
+    static_build_id: config.targetSha,
   };
 }
 

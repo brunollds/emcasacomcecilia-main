@@ -1,6 +1,14 @@
 # Guia de Deploy — emcasacomcecilia.com
 
-**Método vigente (desde 16/07/2026): GitHub Actions** — o workflow `.github/workflows/deploy.yml`
+> **Bloqueio operacional em 11/08/2026:** não usar o fluxo SSH de `.github/workflows/deploy.yml`
+> nem desativar o auto-rollback para contorná-lo. O runtime efetivo passou a executar em
+> `hbuilds/versions/<build>/nodejs`, e o gate por arquivo no `process.cwd()` ficou cego.
+> O próximo deploy deve ser a primeira execução supervisionada de
+> `.github/workflows/hostinger-wire-probe.yml`, com captura forense pré-dispatch e identidade
+> compilada. Só há sucesso quando `/api/release` devolver SHA/UUID exatos e o `BUILD_ID`
+> estático estiver acessível. Exige decisão explícita do Bruno.
+
+**Fluxo SSH legado (desde 16/07/2026; suspenso pelo bloqueio acima)** — o workflow `.github/workflows/deploy.yml`
 builda no runner (Linux, node 20, mesmo SO/glibc do host), monta o standalone e entrega por
 `scp`+`ssh` na porta 65002 (conexão direta ao host, **fora do Cloudflare**), com swap atômico,
 purge de CDN, health-check rico e auto-rollback. Provado no apex em 16/07 (runs 29471822605/29519794282).
