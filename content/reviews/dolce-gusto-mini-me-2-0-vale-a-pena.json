@@ -12,7 +12,7 @@
   "publishedAtISO": "2026-08-11",
   "updatedAt": "2026-08-11",
   "image": "/images/reviews/dolcegusto/dolce-gusto-maquinas-qual-escolher-hero.webp",
-  "imageAlt": "Cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 na bancada de café",
+  "imageAlt": "Ilustração editorial de cafeteiras NESCAFÉ Dolce Gusto na bancada",
   "imageFit": "cover",
   "productSpec": [
     {
@@ -67,7 +67,7 @@
   },
   "pros": [
     "Design compacto e acabamento Terracota moderno que valoriza a bancada",
-    "Novo botão único com dosagem automática por barras sem risco de transbordar",
+    "Novo botão único com dosagem automática por barras, que ajuda a respeitar o volume selecionado (desde que a xícara comporte a bebida escolhida)",
     "Modo Eco com desligamento automático em 1 minuto de inatividade (até 20% de economia)",
     "Pressão de 15 bar que gera boa extração de crema para cafés e bebidas"
   ],
@@ -102,6 +102,12 @@
         "**Tempo de aquecimento inicial (20 a 30 segundos):** Ao ligar a máquina, o LED pisca em vermelho durante o pré-aquecimento do termobloco, levando entre 20 e 30 segundos até ficar verde contínuo.",
         "**Plugue de 20 Amperes (127V):** Na unidade 127V testada em nossa bancada, o cabo elétrico conta com o plugue de 20A (pinos de 4,8mm mais grossos). É recomendável confirmar a voltagem e o padrão da tomada na sua residência antes da compra.",
         "**Pingamento pós-preparo:** Após a interrupção do fluxo de água, a cápsula perfurada retém um residual líquido que continua pingando por alguns segundos. A dica é aguardar 3 a 5 segundos extras antes de retirar a xícara."
+      ],
+      "links": [
+        {
+          "label": "Comunicado Oficial da Nestlé Brasil sobre o Lançamento da Mini Me 2.0",
+          "href": "https://www.nestle.com.br/media/pressreleases/allpressreleases/nescafe-dolce-gusto-lan%C3%A7a-mini-me-20-para-oferecer-mais-praticidade-no-dia-dia-e-ate-20-de-economia-de-energia"
+        }
       ]
     },
     {
