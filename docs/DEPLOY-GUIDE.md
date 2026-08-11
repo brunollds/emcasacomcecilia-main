@@ -7,6 +7,8 @@
 > `.github/workflows/hostinger-wire-probe.yml`, com captura forense pré-dispatch e identidade
 > compilada. Só há sucesso quando `/api/release` devolver SHA/UUID exatos e o `BUILD_ID`
 > estático estiver acessível. Exige decisão explícita do Bruno.
+> O modo `CAPTURE_ONLY` é somente leitura: preserva o artefato e pula build, archive e dispatch.
+> Apenas `PROBE_PRODUCTION` executa o wire e, portanto, implanta em produção.
 
 **Fluxo SSH legado (desde 16/07/2026; suspenso pelo bloqueio acima)** — o workflow `.github/workflows/deploy.yml`
 builda no runner (Linux, node 20, mesmo SO/glibc do host), monta o standalone e entrega por

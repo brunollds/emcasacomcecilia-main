@@ -297,8 +297,12 @@ em `hbuilds/versions/019fecf0-bbaa-7202-87a4-70c469b81ed7/nodejs`, todos com
 `BUILD_ID=0p0H0JQRCNN5jW_WxYqgK`, manifesto público 200 e nenhum sidecar no cwd. Há um único
 `release-meta.json` fora do runtime, em `nodejs/`, apontando para `4a6eae0` e com UUID nulo; o
 pacote SSH retido tem outro `BUILD_ID` (`pJC0ZITwsdsZmECOIKo3K`). Portanto o hbuild servido não
-pode ser atribuído a um SHA pelo `BUILD_ID` aleatório isoladamente. Uma nova execução do probe
-exige nova autorização explícita.
+pode ser atribuído a um SHA pelo `BUILD_ID` aleatório isoladamente.
+
+O workflow passou a separar os modos: `CAPTURE_ONLY` executa somente a inspeção e preservação do
+artefato; build local, archive e `Execute exact managed wire` têm guard explícito exclusivo para
+`PROBE_PRODUCTION`. O teste `test:hostinger-wire` afirma essa fronteira diretamente no YAML.
+Somente `PROBE_PRODUCTION` é decisão de deploy e exige autorização operacional própria.
 
 O conjunto de evidências, porém, atribui a produção a `4a6eae0`: o sidecar órfão aponta para esse
 SHA com UUID nulo — impressão digital do fluxo de 01/08 — e o HTML público preserva as marcas de

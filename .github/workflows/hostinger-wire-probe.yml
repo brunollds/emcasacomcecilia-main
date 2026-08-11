@@ -1,16 +1,17 @@
 name: Probe Hostinger managed wire
-run-name: hostinger-wire-probe-${{ github.run_id }}
+run-name: hostinger-wire-${{ inputs.confirm }}-${{ github.run_id }}
 
 on:
   workflow_dispatch:
     inputs:
       confirm:
-        description: 'Confirma um deploy gerenciado controlado em produção?'
+        description: 'Escolha captura somente leitura ou deploy gerenciado controlado.'
         required: true
         default: 'NO'
         type: choice
         options:
           - 'NO'
+          - 'CAPTURE_ONLY'
           - 'PROBE_PRODUCTION'
 
 permissions:
@@ -22,7 +23,7 @@ concurrency:
 
 jobs:
   probe:
-    if: inputs.confirm == 'PROBE_PRODUCTION'
+    if: inputs.confirm == 'CAPTURE_ONLY' || inputs.confirm == 'PROBE_PRODUCTION'
     runs-on: ubuntu-22.04
     timeout-minutes: 20
     environment:
@@ -47,6 +48,7 @@ jobs:
           cache: npm
 
       - name: Install dependencies
+        if: inputs.confirm == 'PROBE_PRODUCTION'
         run: npm ci
 
       - name: Compute release identity
@@ -165,6 +167,7 @@ jobs:
           retention-days: 30
 
       - name: Build and prove local attestation
+        if: inputs.confirm == 'PROBE_PRODUCTION'
         shell: bash
         run: |
           set -euo pipefail
@@ -174,6 +177,7 @@ jobs:
           npm run test:hostinger-wire
 
       - name: Assemble committed source archive
+        if: inputs.confirm == 'PROBE_PRODUCTION'
         shell: bash
         run: |
           set -euo pipefail
@@ -195,6 +199,7 @@ jobs:
           [ "$bytes" -lt 50000000 ] || { echo 'archive excede 50 MB' >&2; exit 1; }
 
       - name: Execute exact managed wire
+        if: inputs.confirm == 'PROBE_PRODUCTION'
         shell: bash
         run: ARCHIVE_PATH="$GITHUB_WORKSPACE/$ARCHIVE_NAME" npm run probe:hostinger-wire
 
@@ -204,10 +209,16 @@ jobs:
         run: |
           {
             echo '## Hostinger managed wire probe'
+            printf '%s\n' "- mode: \`${{ inputs.confirm }}\`"
             printf '%s\n' "- target_sha: \`$TARGET_SHA\`"
             printf '%s\n' "- deploy_uuid: \`$DEPLOY_UUID\`"
-            echo '- Consulte o log do step de wire para `build_uuid`/`dispatch-unknown`.'
-            if [ "${{ job.status }}" = 'success' ]; then
+            if [ "${{ inputs.confirm }}" = 'CAPTURE_ONLY' ] \
+              && [ "${{ job.status }}" = 'success' ]; then
+              echo '- result: read-only capture preserved; build, archive and dispatch skipped'
+            elif [ "${{ inputs.confirm }}" = 'CAPTURE_ONLY' ]; then
+              echo '- result: incomplete read-only capture; no build, archive or dispatch executed'
+            elif [ "${{ job.status }}" = 'success' ]; then
+              echo '- Consulte o log do step de wire para `build_uuid`.'
               echo '- result: completed + exact dynamic attestation + exact static BUILD_ID'
             else
               echo '- result: incomplete; não repetir o dispatch sem reconciliar pelo archive name'

@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import { mkdtempSync, rmSync, truncateSync, writeFileSync } from 'node:fs';
+import { mkdtempSync, readFileSync, rmSync, truncateSync, writeFileSync } from 'node:fs';
 import { createServer } from 'node:http';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
@@ -18,6 +18,8 @@ import {
 const TARGET_SHA = 'a'.repeat(40);
 const DEPLOY_UUID = '00000000-0000-4000-8000-000000000001';
 const BUILD_UUID = '019fd93f-c255-73a8-b44f-3a836b2af17d';
+
+const WORKFLOW_PATH = new URL('../../.github/workflows/hostinger-wire-probe.yml', import.meta.url);
 
 async function withFakeProvider(fn) {
   let offset = 0;
@@ -168,6 +170,30 @@ test('reproduz upload TUS → build → attestation dinâmica + BUILD_ID estáti
     });
   } finally {
     rmSync(dir, { recursive: true, force: true });
+  }
+});
+
+test('CAPTURE_ONLY não alcança build, archive nem dispatch', () => {
+  const workflow = readFileSync(WORKFLOW_PATH, 'utf8');
+  assert.match(
+    workflow,
+    /if: inputs\.confirm == 'CAPTURE_ONLY' \|\| inputs\.confirm == 'PROBE_PRODUCTION'/
+  );
+
+  for (const stepName of [
+    'Build and prove local attestation',
+    'Assemble committed source archive',
+    'Execute exact managed wire',
+  ]) {
+    const start = workflow.indexOf(`      - name: ${stepName}`);
+    assert.notEqual(start, -1, `step ausente: ${stepName}`);
+    const next = workflow.indexOf('\n      - name:', start + 1);
+    const block = workflow.slice(start, next === -1 ? undefined : next);
+    assert.match(
+      block,
+      /\n        if: inputs\.confirm == 'PROBE_PRODUCTION'\n/,
+      `${stepName} precisa ficar inacessível em CAPTURE_ONLY`
+    );
   }
 });
 
