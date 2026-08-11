@@ -304,6 +304,14 @@ artefato; build local, archive e `Execute exact managed wire` têm guard explíc
 `PROBE_PRODUCTION`. O teste `test:hostinger-wire` afirma essa fronteira diretamente no YAML.
 Somente `PROBE_PRODUCTION` é decisão de deploy e exige autorização operacional própria.
 
+**Captura somente leitura concluída:** o run `31514487153`, em 11/08/2026, terminou com sucesso
+em `CAPTURE_ONLY`; build, archive e `Execute exact managed wire` ficaram `skipped`. O artefato
+completo mostrou os três workers no mesmo hbuild e com
+`BUILD_ID=0p0H0JQRCNN5jW_WxYqgK`. O manifesto público desse ID respondeu 200, com
+`content-type: application/javascript`, cache imutável e corpo `self.__BUILD_MANIFEST` válido.
+Está provado que o processo e os arquivos estáticos servidos pertencem ao mesmo release. A
+produção não foi alterada por esse run.
+
 O conjunto de evidências, porém, atribui a produção a `4a6eae0`: o sidecar órfão aponta para esse
 SHA com UUID nulo — impressão digital do fluxo de 01/08 — e o HTML público preserva as marcas de
 conteúdo daquela versão (`Outros cupons ativos`, `cupom ativo` e o title de agosto do Nutren).
