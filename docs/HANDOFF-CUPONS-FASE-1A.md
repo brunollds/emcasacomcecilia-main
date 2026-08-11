@@ -29,7 +29,8 @@ Caminhos relativos a `emcasacomcecilia/`.
 > Para a Damie o title da página de cupom importa pouco: a demanda dela está nas consultas
 > de reputação, que são respondidas pelos artigos, não pela página de cupom.
 >
-> O item 2 (linkagem) não é afetado — nunca dependeu de title.
+> O item 2 (linkagem) depende agora da separação de intenção entre página de cupom e
+> artigo comercial, conforme o achado abaixo.
 
 Search Console, 18/06 a 15/07/2026. O cluster `/cupons/` inteiro fez **1 clique em 548
 impressões** em 28 dias — não há volume para gate estatístico, as decisões são direcionais.
@@ -55,6 +56,71 @@ O link certo sai dos artigos de reputação, não de um artigo de cupom.
 Nota de método: link interno move posição, não CTR. Para as páginas já em posição 6-10 com
 zero clique, reescrever title e meta description tem retorno maior por hora gasta do que
 linkagem — as duas coisas em paralelo, não uma em vez da outra.
+
+## Achado — páginas de cupom competem com os próprios artigos
+
+O recorte por `/cupons/` esconde metade da intenção comercial. Na mesma janela
+(18/06–15/07), as páginas de cupom fizeram **1 clique em 548 impressões**; considerando
+também os artigos comerciais, o site fez **4 cliques em aproximadamente 1.070
+impressões**. Três dos quatro cliques vieram de artigos.
+
+| Marca | Página `/cupons/` | Artigo comercial | Leitura |
+|---|---|---|---|
+| Dolce Gusto | 0 cliques · 261 impr. · posição 30,2 | `cupom-ceci-nescafe-dolce-gusto-como-usar`: 1 clique · 175 impr. · posição 10,3 | o artigo está 20 posições à frente |
+| I Wanna Sleep | 0 · 28 · posição 7,2 | `cupom-ceciemcasa-i-wanna-sleep-como-usar`: 2 cliques · 51 impr. · posição 9,5 | o artigo recebe os cliques mesmo abaixo |
+| YesStyle | 0 · 134 · posição 8,3 | dois artigos, com 67 e 95 impressões | três URLs disputam a mesma intenção |
+| Nutren | 0 · 81 · posição 9,9 | 0 · 6 · posição 8,3 | a página de cupom concentra as impressões |
+
+### Decisão de ownership semântico
+
+**`/cupons/<marca>` é a URL principal para a intenção transacional atual**: “cupom X”,
+código vigente, desconto, validade, regras e CTA para a loja.
+
+Os artigos ficam com intenções complementares e duráveis:
+
+- instrução: “como usar o código”, campo correto no checkout, erros e restrições;
+- avaliação: experiência, reputação, comparação e “vale a pena”;
+- atualização editorial que exige contexto maior que o card da página de cupom.
+
+Isso **não** significa apontar `rel=canonical` dos artigos para `/cupons/`. Os conteúdos são
+distintos e continuam self-canonical. A separação é feita por title, H1, introdução,
+âncoras internas e escopo editorial. Exemplo: a página pode responder “Cupom I Wanna
+Sleep”, enquanto o artigo responde “Como usar CECIEMCASA na I Wanna Sleep”.
+
+O primeiro ajuste deve usar `seoTitle`, não `title`. O tipo `Review` já expõe
+`seoTitle?: string`, e `ReviewPageContainer` usa `review.seoTitle || review.title` na
+metadata. Assim é possível testar um title de SERP instrucional sem trocar o H1, o slug ou
+o título visível do artigo. Só alterar `title` — e portanto o H1 — se a medição posterior
+mostrar que o escopo editorial da página também precisa mudar.
+
+Antes de ampliar links para uma marca:
+
+1. mapear quais URLs aparecem para a mesma consulta comercial;
+2. recuar primeiro o `seoTitle` dos artigos que tentam possuir “cupom X”, sem trocar H1,
+   slug nem URL;
+3. manter no artigo o passo a passo e apontar para `/cupons/<marca>` como fonte do código
+   e das regras atuais, usando o funil medido;
+4. manter na página de cupom o link de volta para o guia quando o usuário precisar de
+   instrução detalhada;
+5. medir por consulta **e por página** somente depois do deploy e da reindexação.
+
+### Guardrail de sequência desta rodada
+
+O limite de aproximadamente três posições é um guardrail operacional para este conjunto
+pequeno de dados, não uma regra geral de SEO:
+
+- se `/cupons/<marca>` já estiver à frente do artigo ou até cerca de 3 posições atrás,
+  aplicar o `seoTitle` instrucional antes da linkagem tem risco baixo;
+- se a página de cupom estiver muito atrás, primeiro aumentar sua relevância com links e
+  aguardar reindexação; só depois recuar o `seoTitle` do artigo que hoje sustenta o tráfego.
+
+Aplicação: I Wanna Sleep e Nutren podem separar o title primeiro. Dolce Gusto não: o
+artigo está na posição 10,3 e é a única fonte de clique, enquanto `/cupons/dolce-gusto`
+está na 30,2. Para ela, linkagem vem antes da mudança de `seoTitle`. Damie permanece fora
+desse teste; a intenção medida é reputacional.
+
+YesStyle exige auditoria separada antes de qualquer expansão: há três URLs para a mesma
+pergunta e o componente dedicado não segue automaticamente o template das outras marcas.
 
 ---
 
@@ -155,17 +221,18 @@ sem consumidor editorial real.
 
 ---
 
-## Item 2 — Lote inicial de linkagem nos reviews
+## Item 2 — Separação semântica e linkagem nos reviews
 
-Não depende do item 1. Pode começar já.
+Não depende do item 1. A ordem dentro de cada cluster passa a ser: **separar a intenção e
+depois distribuir links**.
 
 | Cluster | Artigos | Intervenção |
 |---|---:|---|
-| Dolce Gusto | 3-4 | link contextual para `/cupons/dolce-gusto` |
+| Dolce Gusto | 3-4 | linkar primeiro para `/cupons/dolce-gusto`; recuar `seoTitle` só depois de reduzir a diferença de posição |
 | Damie | 4 de reputação | link para regras e código, sem deslocar a intenção da página |
-| Nutren | 1-2 | link + **revisão de title/meta da página de cupom** |
-| I Wanna Sleep | 1 | link + snippet |
-| YesStyle | — | só CTR nesta rodada |
+| Nutren | 1-2 | aplicar `seoTitle` instrucional no artigo de 6 impressões; preservar a página de cupom como principal |
+| I Wanna Sleep | 1 | snippet da página + `seoTitle` “como usar” + link medido |
+| YesStyle | 3 URLs | auditar ownership; não ampliar links nesta rodada |
 
 Âncoras variadas por artigo — o `link_label` agora é medido, então dá para saber qual
 formulação converte. Não repetir a mesma frase em todos.
