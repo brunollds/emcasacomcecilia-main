@@ -9,7 +9,7 @@ const appDir = path.resolve('src/app');
 for (const config of Object.values(YESSTYLE_LOCALES)) {
   if (config.locale === 'pt') continue;
 
-  const clusterDirName = `(yesstyle-${config.locale})`;
+  const clusterDirName = `(${config.locale})`;
   const clusterDir = path.join(appDir, clusterDirName);
 
   // 1. Root Layout para o idioma
