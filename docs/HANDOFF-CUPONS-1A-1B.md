@@ -1,5 +1,9 @@
 # Handoff — Commits 1a e 1b (frente Cupons)
 
+> **Status: CONCLUÍDO em 10/08/2026.** 1a = `5b0c0d3`, 1b-A = `1e876e7`, 1b-B = `cc9a198`.
+> Este documento fica como registro do inventário que originou os commits.
+> Para o próximo passo (Shein multi-idioma e Commit 2), ver `HANDOFF-SHEIN-I18N.md`.
+
 Inventário do estado real do repositório em 10/08/2026, para quem for implementar.
 Todos os caminhos são relativos a `emcasacomcecilia/`.
 
