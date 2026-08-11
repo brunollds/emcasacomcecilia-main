@@ -1,0 +1,5 @@
+# O build gerenciado recebe apenas fontes necessárias para instalar e compilar o site.
+.github/** export-ignore
+docs/** export-ignore
+*.md export-ignore
+src/lib/generated/content-index.ts export-ignore
