@@ -1,9 +1,31 @@
 import assert from 'node:assert/strict';
 import {
   COUPONS,
+  getAllActiveCouponSlugs,
   getCouponStats,
   type AffiliateLinkOffer,
 } from '../src/lib/couponsData';
+
+const shein = COUPONS.find((coupon) => coupon.slug === 'shein');
+assert.ok(shein && shein.offerMode === 'affiliate-link', 'SHEIN deve existir como affiliate-link');
+assert.equal('code' in shein, false, 'SHEIN não pode expor referral como coupon.code');
+assert.equal('discountNumber' in shein, false, 'SHEIN não pode contaminar a média de descontos');
+assert.equal(shein.affiliateAccountId, '6177013015');
+assert.equal(shein.referral?.code, '4CW5Y');
+assert.equal(shein.referral?.verifiedAt, '2026-08-11');
+const sheinOfferUrl = new URL(shein.offerUrl);
+assert.equal(sheinOfferUrl.hostname, 'br.shein.com');
+assert.equal(sheinOfferUrl.searchParams.get('koc_id'), '6177013015');
+assert.equal(sheinOfferUrl.searchParams.get('search_words'), '4CW5Y');
+assert.deepEqual(
+  shein.campaigns?.map(({ code, offerUrl }) => ({ code, offerUrl })),
+  [
+    { code: '37S3442', offerUrl: 'https://onelink.shein.com/47/5yl4fyr203o0' },
+    { code: 'G326U6B', offerUrl: 'https://onelink.shein.com/47/5yl4h46pd93c' },
+  ]
+);
+assert.ok(getAllActiveCouponSlugs().includes('shein'), 'SHEIN ativa deve gerar página de cupom');
+assert.ok(!getAllActiveCouponSlugs().includes('kopenhagen'), 'Kopenhagen pausada não deve gerar página');
 
 const source = COUPONS.find((coupon) => coupon.offerMode === 'discount-code');
 assert.ok(source, 'É necessário ao menos um discount-code para montar o teste');

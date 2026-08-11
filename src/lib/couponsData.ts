@@ -12,6 +12,22 @@ export interface CouponHistory {
   note?: string;
 }
 
+export interface CouponReferral {
+  code: string;
+  label: string;
+  instructions: string;
+  verifiedAt: string;
+}
+
+export interface CouponCampaign {
+  title: string;
+  code: string;
+  offerUrl: string;
+  description: string;
+  eligibility: string;
+  verifiedAt: string;
+}
+
 interface CouponBase {
   slug: string;
   brand: string;
@@ -52,6 +68,9 @@ interface CouponBase {
     scope: string;
     note: string;
   };
+  affiliateAccountId?: string;
+  referral?: CouponReferral;
+  campaigns?: CouponCampaign[];
 }
 
 export type CouponCodeOffer = CouponBase & {
@@ -70,6 +89,7 @@ export type CouponCodeOffer = CouponBase & {
 
 export type AffiliateLinkOffer = CouponBase & {
   offerMode: 'affiliate-link';
+  linkInstructions?: string[];
 };
 
 export type Coupon = CouponCodeOffer | AffiliateLinkOffer;
@@ -679,6 +699,98 @@ export const COUPONS: Coupon[] = [
       { code: '90EMCASACOMCECILIA', discount: 'R$ 90 OFF', minPurchase: 'R$ 4.499,90' },
       { code: '100EMCASACOMCECILIA', discount: 'R$ 100 OFF', minPurchase: 'R$ 4.999,90' },
     ],
+  },
+  {
+    offerMode: 'affiliate-link',
+    slug: 'shein',
+    brand: 'SHEIN',
+    officialUrl: 'https://br.shein.com/',
+    offerUrl: 'https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20',
+    brandIcon: 'S',
+    brandLogo: '/images/about/partners/shein.webp',
+    brandLogoAlt: 'Marca SHEIN',
+    brandColor: '#111111',
+    discount: 'Campanhas vigentes',
+    offerTypeLabel: 'oferta',
+    offerTypeLabelPlural: 'ofertas',
+    offerActionLabel: 'Ver ofertas na SHEIN',
+    category: 'Moda, acessórios, beleza e casa',
+    shortDescription: 'link principal, código de indicação e campanhas vigentes',
+    longDescription:
+      'Acesse a SHEIN pelo link principal da Cecília, consulte o código de indicação 4CW5Y e veja as campanhas confirmadas para produtos selecionados e novos usuários.',
+    metaTitle: 'Cupom SHEIN Agosto 2026: 4CW5Y e Ofertas Ativas',
+    metaDescription:
+      'Acesse o link da Cecília para a SHEIN, pesquise 4CW5Y no app e confira as campanhas vigentes, incluindo produtos selecionados e 50% para novos usuários.',
+    eligibleCategories:
+      'Moda, acessórios, beleza, casa e demais categorias elegíveis em cada campanha',
+    validity: 'Links e campanhas sujeitos a alteração; confira as condições exibidas pela SHEIN',
+    reusable: 'Conforme as regras apresentadas pela SHEIN em cada campanha',
+    shipping: 'Calculado pela SHEIN conforme endereço, produtos e campanha',
+    combinable: 'Pode variar por campanha, conta e produto; confira o valor final antes de pagar',
+    lastVerified: '2026-08-11',
+    aboutBrand:
+      'A SHEIN é uma plataforma internacional de moda, acessórios, beleza e itens para casa. A página reúne o link principal da Cecília, o código de indicação informado pela parceria e campanhas que podem mudar ao longo do tempo. Links de produto específicos pertencem aos artigos de haul e reviews, porque disponibilidade, preço e estoque variam por peça. Compras feitas pelos links indicados podem gerar comissão para o Em Casa com Cecília, sem custo adicional para quem compra.',
+    faqs: [
+      {
+        question: 'O código 4CW5Y é um cupom de desconto da SHEIN?',
+        answer:
+          '4CW5Y é o código de indicação informado pela parceria. Pesquise o código no aplicativo SHEIN e confira as condições apresentadas para a sua conta; não tratamos esse código como um percentual fixo de desconto.',
+      },
+      {
+        question: 'O que é o código 37S3442 na SHEIN?',
+        answer:
+          '37S3442 é o código de busca da campanha vigente de produtos selecionados. Os descontos são por tempo limitado e podem variar conforme o item.',
+      },
+      {
+        question: 'Quem pode usar o código G326U6B?',
+        answer:
+          'A campanha G326U6B anuncia cupom de 50% apenas para novos usuários. A elegibilidade e o desconto final são confirmados pela SHEIN na conta e no checkout.',
+      },
+      {
+        question: 'Os links e códigos da SHEIN são permanentes?',
+        answer:
+          'Não. O link principal e as campanhas são reconferidos, mas a SHEIN pode reemitir links, encerrar campanhas ou alterar condições. A data de verificação desta página indica quando os dados foram revisados.',
+      },
+      {
+        question: 'Comprar pelos links gera comissão para a Cecília?',
+        answer:
+          'Pode gerar. A SHEIN pode pagar comissão ao Em Casa com Cecília por compras atribuídas aos links da parceria, sem custo adicional para quem compra.',
+      },
+    ],
+    linkInstructions: [
+      'Abra a SHEIN pelo link principal da Cecília.',
+      'Para usar o código de indicação, pesquise 4CW5Y no aplicativo SHEIN.',
+      'Para uma campanha específica, use o código de busca ou o botão correspondente nesta página.',
+      'Confira elegibilidade, produtos e prazo diretamente na SHEIN.',
+      'Verifique o valor final antes de concluir a compra.',
+    ],
+    affiliateAccountId: '6177013015',
+    referral: {
+      code: '4CW5Y',
+      label: 'Código de indicação da Cecília',
+      instructions: 'Pesquise 4CW5Y no aplicativo SHEIN e confira as condições apresentadas para a sua conta.',
+      verifiedAt: '2026-08-11',
+    },
+    campaigns: [
+      {
+        title: 'Produtos selecionados',
+        code: '37S3442',
+        offerUrl: 'https://onelink.shein.com/47/5yl4fyr203o0',
+        description: 'Produtos selecionados com descontos por tempo limitado.',
+        eligibility: 'Consulte os itens e as condições exibidas pela SHEIN.',
+        verifiedAt: '2026-08-11',
+      },
+      {
+        title: '50% para novos usuários',
+        code: 'G326U6B',
+        offerUrl: 'https://onelink.shein.com/47/5yl4h46pd93c',
+        description: 'Campanha com cupom de 50% voltada apenas a novos usuários.',
+        eligibility: 'Somente novos usuários elegíveis, conforme validação da SHEIN.',
+        verifiedAt: '2026-08-11',
+      },
+    ],
+    status: 'ativo',
+    featured: true,
   },
   {
     offerMode: 'discount-code',

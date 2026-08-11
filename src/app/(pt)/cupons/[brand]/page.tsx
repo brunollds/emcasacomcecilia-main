@@ -4,7 +4,6 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { CopyButton, CouponPillCard, FAQAccordion, CouponStoreLink } from '@/components/CouponComponents';
 import { CouponBottomBar } from '@/components/CouponBottomBar';
-import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 import {
   COUPONS,
   getAllActiveCouponSlugs,
@@ -38,20 +37,6 @@ export async function generateMetadata({ params }: CouponBrandPageProps): Promis
     description: coupon.metaDescription,
     alternates: {
       canonical: `/cupons/${coupon.slug}`,
-      ...(coupon.slug === 'yesstyle' ? {
-        languages: {
-          'pt-BR': 'https://emcasacomcecilia.com/cupons/yesstyle',
-          en: 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-coupon-cecilia010',
-          es: 'https://emcasacomcecilia.com/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010',
-          fr: 'https://emcasacomcecilia.com/reviews/code-recompense-yesstyle-cecilia010',
-          de: 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-rabatt-cecilia010',
-          ko: 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-ko',
-          ja: 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-ja',
-          'zh-Hant': 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-zh-hant',
-          'zh-Hans': 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-cecilia010-zh-hans',
-          'x-default': 'https://emcasacomcecilia.com/reviews/yesstyle-reward-code-coupon-cecilia010',
-        },
-      } : {}),
     },
     openGraph: {
       title: coupon.metaTitle,
@@ -170,6 +155,7 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
   const otherCoupons = getOtherActiveCoupons(coupon.slug);
   const jsonLd = getJsonLd(coupon);
   const couponCodeOffer = coupon.offerMode === 'discount-code' ? coupon : null;
+  const affiliateLinkOffer = coupon.offerMode === 'affiliate-link' ? coupon : null;
   const offerType = coupon.offerTypeLabel || (couponCodeOffer ? 'cupom' : 'oferta');
   const offerTypePlural = coupon.offerTypeLabelPlural || (couponCodeOffer ? 'cupons' : 'ofertas');
   const offerAction = coupon.offerActionLabel || (couponCodeOffer
@@ -184,7 +170,7 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
         'Cole o código no campo de cupom/desconto antes de finalizar.',
         `Confira se o desconto de ${coupon.discount} apareceu no resumo do pedido.`,
       ]
-    : [
+    : affiliateLinkOffer?.linkInstructions || [
         `Acesse a oferta da ${coupon.brand} pelo botão indicado.`,
         'Confira os produtos e condições disponíveis na página da loja.',
         'Verifique o valor final antes de concluir a compra.',
@@ -438,6 +424,57 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
             <DetailRow label="Última verificação" value={lastVerified} />
           </dl>
 
+          {coupon.referral && (
+            <>
+              <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">
+                {coupon.referral.label}
+              </h2>
+              <div className="mt-4 rounded-2xl border border-black/8 bg-[#fef9f3] p-5">
+                <code className="font-mono text-2xl font-black tracking-[0.08em] text-[#0f1419]">
+                  {coupon.referral.code}
+                </code>
+                <p className="mt-3 text-sm leading-relaxed text-[#0f1419]/72">
+                  {coupon.referral.instructions}
+                </p>
+                <p className="mt-3 text-xs text-[#0f1419]/52">
+                  Verificado em{' '}
+                  {new Date(`${coupon.referral.verifiedAt}T12:00:00`).toLocaleDateString('pt-BR')}.
+                </p>
+              </div>
+            </>
+          )}
+
+          {coupon.campaigns && coupon.campaigns.length > 0 && (
+            <>
+              <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">
+                Campanhas ativas da {coupon.brand}
+              </h2>
+              <div className="mt-4 grid gap-4 md:grid-cols-2">
+                {coupon.campaigns.map((campaign) => (
+                  <article key={`${campaign.code}-${campaign.offerUrl}`} className="rounded-2xl border border-black/8 bg-white p-5 shadow-soft">
+                    <h3 className="font-heading text-lg font-black text-[#0f1419]">{campaign.title}</h3>
+                    <code className="mt-3 inline-block rounded-lg bg-[#fef9f3] px-3 py-2 font-mono text-sm font-black tracking-[0.08em] text-[#0f1419]">
+                      {campaign.code}
+                    </code>
+                    <p className="mt-3 text-sm leading-relaxed text-[#0f1419]/72">{campaign.description}</p>
+                    <p className="mt-2 text-xs leading-relaxed text-[#0f1419]/56">{campaign.eligibility}</p>
+                    <CouponStoreLink
+                      href={campaign.offerUrl}
+                      label="Abrir campanha na SHEIN"
+                      brand={coupon.brand}
+                      placement="coupon_page"
+                      className="mt-4 inline-flex items-center justify-center rounded-lg bg-[#0f1419] px-4 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-[#0f1419]/85 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#ff6b35]"
+                    />
+                    <p className="mt-3 text-[11px] text-[#0f1419]/48">
+                      Verificada em{' '}
+                      {new Date(`${campaign.verifiedAt}T12:00:00`).toLocaleDateString('pt-BR')}.
+                    </p>
+                  </article>
+                ))}
+              </div>
+            </>
+          )}
+
           <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">
             {couponCodeOffer
               ? `Como aplicar o ${offerType} ${couponCodeOffer.code} na ${coupon.brand}`
@@ -451,6 +488,8 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
           <p className="mt-4 rounded-2xl border border-[#ff6b35]/25 bg-[#fff7ed] px-4 py-3 text-sm leading-relaxed text-[#7c2d12]">
             {couponCodeOffer ? (
               <>Campo correto: <strong>{codeFieldLabel}</strong>. Confirme sempre o resumo do pedido antes de pagar.</>
+            ) : coupon.referral ? (
+              <>O link principal abre a SHEIN; códigos de indicação e de campanha são pesquisados no aplicativo. Confirme as condições exibidas para a sua conta antes de pagar.</>
             ) : (
               <>Esta oferta é acessada pelo link indicado e não exige código para copiar. Confirme as condições na loja antes de pagar.</>
             )}
