@@ -36772,7 +36772,13 @@ export const reviewsData: unknown[] = [
           "Se você chegou diretamente a este guia e pretende comprar cápsulas ou uma máquina, use o cupom **CECI** na loja oficial da NESCAFÉ Dolce Gusto para obter **5% de desconto**, conforme as regras vigentes no momento da compra.",
           "Digite CECI no campo de cupom antes de concluir o pedido e confirme se o desconto foi aplicado. O cupom faz parte da nossa parceria comercial com a marca, sem custo adicional para você."
         ],
-        "bullets": []
+        "bullets": [],
+        "links": [
+          {
+            "label": "Consultar validade e regras do cupom CECI",
+            "href": "/cupons/dolce-gusto"
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
