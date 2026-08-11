@@ -13,6 +13,24 @@ Caminhos relativos a `emcasacomcecilia/`.
 
 ## Fila de prioridade — vem dos dados, não da lista do Guia Mestre
 
+> **⚠️ Vintage do dado.** A janela do Search Console fecha em **15/07/2026**. Os snippets
+> atuais de `dolce-gusto` e `nutren` entraram depois: em **16/07/2026**, `727ec1c` adotou
+> title/description mensais conservadores e `092cb6b` publicou os descontos validados em
+> checkout. Em **01/08/2026**, `8b9a479` virou o mês para agosto e atualizou
+> `lastVerified` dos ativos; o Magalu também recebeu o padrão mensal. Os números abaixo
+> descrevem o site **antes** dessas intervenções.
+>
+> Consequência: onde o diagnóstico é "página 1 sem clique → reescrever snippet", isso **já
+> foi feito** para Nutren e Dolce Gusto. O movimento correto para essas duas é solicitar
+> reindexação no GSC e medir só o período posterior a 01/08 — não reescrever de novo.
+>
+> Ainda com o padrão antigo de title: `damie`, `i-wanna-sleep`, `kopenhagen`.
+> **`i-wanna-sleep` é o candidato remanescente de snippet** (28 impressões, posição 7,2).
+> Para a Damie o title da página de cupom importa pouco: a demanda dela está nas consultas
+> de reputação, que são respondidas pelos artigos, não pela página de cupom.
+>
+> O item 2 (linkagem) não é afetado — nunca dependeu de title.
+
 Search Console, 18/06 a 15/07/2026. O cluster `/cupons/` inteiro fez **1 clique em 548
 impressões** em 28 dias — não há volume para gate estatístico, as decisões são direcionais.
 
