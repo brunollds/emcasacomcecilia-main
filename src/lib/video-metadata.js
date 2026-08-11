@@ -70,6 +70,13 @@ export const videoMetadata = {
     description:
       'Teste do Cobertor IWS Igloo dupla-face, comparando o lado de toque gelado com o lado quente e aconchegante para diferentes noites e temperaturas.',
   },
+  RGM_61Heclo: {
+    uploadDate: '2026-07-31T16:45:02-07:00',
+    duration: 'PT40S',
+    title: 'CUPOM CECI NESCAFÉ DOLCE GUSTO | Unboxing Mine Me 2.0 + primeiro café ☕',
+    description:
+      'A nova Mine Me 2.0 da Nescafé Dolce Gusto chegou como presente de Dia dos Pais! ☕🎁Neste unboxing ASMR, você acompanha todos os sons da abertura, da máquina sendo preparada e do primeiro café Leite Moça Pistache. Salva para lembrar do cupom CECI!\n\n\n#DolceGusto #MineMe20 #UnboxingASMR #CafeEmCasa #DiaDosPais #CupomCECI',
+  },
 };
 
 /**

@@ -72,6 +72,13 @@ const videoPageDefinitions = [
     sourceTitle: 'Cobertor IWS Igloo: ficha técnica e primeiras impressões',
   },
   {
+    slug: 'unboxing-dolce-gusto-mini-me-2-0-primeiro-cafe',
+    kind: 'youtube',
+    videoId: 'RGM_61Heclo',
+    sourcePath: '/reviews/dolce-gusto-mini-me-2-0-vale-a-pena',
+    sourceTitle: 'NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Teste Real na Cor Terracota',
+  },
+  {
     slug: 'como-usar-cupom-ceciemcasa-i-wanna-sleep',
     kind: 'local',
     contentUrl: '/images/reviews/iwannasleep/i-wanna-sleep-site-1.mp4',
