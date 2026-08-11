@@ -121,7 +121,14 @@
       "heading": "Onde comprar e cupom de desconto",
       "paragraphs": [
         "A Dolce Gusto Mini Me 2.0 pode ser adquirida no e-commerce oficial da marca, onde eventualmente integra campanhas promocionais de volume de cápsulas. O preço de tabela individual varia de acordo com a cor e ofertas ativas.",
-        "No checkout da loja oficial, o consumidor pode testar o cupom CECI para verificar elegibilidade a 5% de desconto em produtos elegíveis, segundo o regulamento vigente na loja oficial."
+        "No checkout da loja oficial, o consumidor pode testar o cupom CECI para verificar elegibilidade a 5% de desconto em produtos elegíveis, segundo o regulamento vigente na loja oficial.",
+        "Assista também ao vídeo especial do Bruno no canal Em Casa com Cecília no YouTube Shorts, gravado para a campanha de Dia dos Pais com a NESCAFÉ Dolce Gusto Mini Me 2.0, mostrando a máquina em ação."
+      ],
+      "links": [
+        {
+          "label": "Vídeo Especial no YouTube Shorts: Bruno apresenta a Mini Me 2.0 (Dia dos Pais)",
+          "href": "https://www.youtube.com/shorts/RGM_61Heclo"
+        }
       ]
     },
     {
@@ -157,5 +164,6 @@
       "slug": "starbucks-dolce-gusto-capsulas-guia",
       "title": "Cápsulas Starbucks na Dolce Gusto: guia dos sabores"
     }
-  ]
+  ],
+  "youtubeUrl": "https://www.youtube.com/shorts/RGM_61Heclo"
 }
