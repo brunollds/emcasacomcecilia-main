@@ -264,15 +264,16 @@ servida, não há prova de que aquele 200 já viesse do processo novo; o resulta
 não evidência suficiente de release saudável nem de release defeituoso.
 
 O runtime atual é um `hbuild` criado em 10/08, com `BUILD_ID` diferente do pacote SSH de
-01/08. Só essa versão gerenciada está retida, então não é possível provar se o `cwd` mudou
-por atualização do provedor ou por uma reimplantação intermediária. O Next permaneceu em
+01/08. Só essa versão gerenciada está retida como `hbuild` executável, então não é possível
+provar se o `cwd` mudou por atualização do provedor ou por uma reimplantação intermediária. O Next permaneceu em
 `16.1.4`; não há evidência de mudança no layout do standalone. A evidência disponível aponta
 para troca da superfície efetiva de execução, de pacote SSH para build gerenciado.
 
 O caminho preparado para o runtime real é `.github/workflows/hostinger-wire-probe.yml`: ele
 cria a identidade antes do build, envia o fonte pelo build gerenciado da Hostinger e só
-aceita sucesso com attestation pública exata. O probe ainda nunca foi executado. **O próximo
-deploy deve usar esse probe supervisionado**; não considerar a medição iniciada até
+aceita sucesso com attestation pública exata. O modo de captura já foi executado; o caminho
+mutante `PROBE_PRODUCTION` ainda não. **O próximo deploy deve usar esse probe supervisionado**;
+não considerar a medição iniciada até
 `/api/release` devolver o SHA e o UUID daquele deploy.
 
 **Identidade compilada:** `next.config.mjs` lê `release-meta.json` como entrada efêmera do
@@ -315,9 +316,25 @@ produção não foi alterada por esse run.
 O conjunto de evidências, porém, atribui a produção a `4a6eae0`: o sidecar órfão aponta para esse
 SHA com UUID nulo — impressão digital do fluxo de 01/08 — e o HTML público preserva as marcas de
 conteúdo daquela versão (`Outros cupons ativos`, `cupom ativo` e o title de agosto do Nutren).
-Nenhum release revertido sobreviveu parcialmente. Portanto o export do GSC de 10/05–11/08 é uma
-linha de base limpa para a Fase 1A. O marco zero da nova medição continua sendo o primeiro deploy
-atestado que inclua `5b0c0d3`; a partir dele, o `BUILD_ID` determinístico será o próprio SHA.
+O inventário prova que o runtime **atual** não está dividido; não permite julgar se candidatos
+revertidos eram saudáveis. Portanto o export do GSC de 10/05–11/08 é uma linha de base limpa para
+a Fase 1A. O marco zero da nova medição continua sendo a convergência estável do primeiro deploy
+atestado que inclua `5b0c0d3`, não o instante do dispatch; a partir dele, o `BUILD_ID`
+determinístico será o próprio SHA.
+
+**Pré-voo de retenção e recuperação:** o run somente leitura `31517447965` capturou 70/70
+registros históricos de build da API, mas apenas um `hbuild` executável no host. A API documentada
+não oferece promoção, reativação ou rollback de build anterior; os registros são histórico, não
+artefatos restauráveis. O wire gerenciado deve ser tratado como somente-para-frente.
+
+Há uma contingência separada: o host ainda preserva cinco pacotes standalone do fluxo SSH em
+`releases/`. O pacote `4a6eae05bf016ade01743c365d4fa10ba18d1652.tar.gz` passou em `gzip -t`,
+contém `server.js`, `.next/BUILD_ID` e `release-meta.json`, e tem SHA-256
+`d0e8131d49c00e4a3e4580b19e6f8f0ce44c36f2812f42619d6a368d242df1c1`.
+Isso preserva os bytes do release anterior, mas não constitui rollback pronto: é um pacote SSH,
+incompatível com o source archive do build gerenciado, e sua restauração sobre o runtime atual
+nunca foi ensaiada. Até existir runbook testado, `PROBE_PRODUCTION` é uma mudança sem rollback
+operacional garantido; em falha ambígua, a saída primária é reconciliar e seguir para frente.
 
 ---
 

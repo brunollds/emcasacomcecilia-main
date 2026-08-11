@@ -9,6 +9,12 @@
 > estático estiver acessível. Exige decisão explícita do Bruno.
 > O modo `CAPTURE_ONLY` é somente leitura: preserva o artefato e pula build, archive e dispatch.
 > Apenas `PROBE_PRODUCTION` executa o wire e, portanto, implanta em produção.
+>
+> **Postura de recuperação confirmada em 11/08/2026:** o wire gerenciado não oferece rollback
+> documentado nem retém outro `hbuild` executável no host. O histórico da API preserva registros
+> de build, não uma operação de reativação. Existe um pacote standalone legado íntegro de
+> `4a6eae0` em `releases/`, mas restaurá-lo seria uma contingência SSH manual ainda não ensaiada,
+> não rollback do fluxo gerenciado. Não executar `PROBE_PRODUCTION` supondo volta automática.
 
 **Fluxo SSH legado (desde 16/07/2026; suspenso pelo bloqueio acima)** — o workflow `.github/workflows/deploy.yml`
 builda no runner (Linux, node 20, mesmo SO/glibc do host), monta o standalone e entrega por
@@ -126,6 +132,10 @@ Nunca `git add -A`. **O CI deploya a `main`** — conteúdo tem que estar commit
 
 ## Rollback
 
+> Esta seção descreve **somente o fluxo SSH legado**, hoje suspenso. Ela não se aplica ao wire
+> gerenciado de `hostinger-wire-probe.yml`. Nesse wire, uma falha após o dispatch não aciona
+> rollback automático e a API documentada não expõe promoção ou reativação de build anterior.
+
 O workflow já faz auto-rollback quando o health-check reprova. Rollback MANUAL (ex.: problema
 percebido depois do run verde) — < 2 min:
 
@@ -210,3 +220,32 @@ via git archive) → MCP `hosting_deployJsApplication` (poll `hosting_listJsDepl
 `completed`) → `npm run deploy:finish` (health-check 240s + vídeos). Detalhes/pegadinhas: histórico
 do git deste guia (versão de 15/07). Pontos que continuam valendo: `state: completed` não é validação
 suficiente; painel = node 18 (não usar); env vive no painel.
+
+### Retenção e recuperação do wire gerenciado
+
+A captura somente leitura do run `31517447965` inventariou os dois lados sem alterar produção:
+
+- a API devolveu os **70/70 registros históricos de build**, em duas páginas;
+- o host manteve **um único `hbuild` executável**, o atualmente servido;
+- a API pública documenta listar/criar builds, ler logs e reiniciar o servidor, mas não documenta
+  endpoint para promover, reativar ou restaurar um build histórico;
+- `~/domains/emcasacomcecilia.com/releases/` ainda contém cinco pacotes standalone do fluxo SSH,
+  inclusive `4a6eae05bf016ade01743c365d4fa10ba18d1652.tar.gz`.
+
+O pacote de `4a6eae0` passou em `gzip -t`, contém `server.js`, `.next/BUILD_ID` e
+`release-meta.json`, e tem SHA-256
+`d0e8131d49c00e4a3e4580b19e6f8f0ce44c36f2812f42619d6a368d242df1c1`.
+Isso prova integridade e presença dos arquivos essenciais; **não prova restaurabilidade**. O pacote
+é um standalone grande do fluxo SSH, não um source archive compatível com o build gerenciado, e o
+procedimento de restaurá-lo sobre o runtime atual nunca foi testado.
+
+Classificação operacional:
+
+1. **Rollback gerenciado:** indisponível pela interface documentada.
+2. **Recuperação por novo dispatch:** disponível, mas segue somente para frente.
+3. **Contingência SSH com `4a6eae0`:** material existe e está íntegro; execução e verificação ainda
+   precisam de runbook próprio e autorização explícita de produção.
+
+Até esse runbook ser provado fora de uma emergência, tratar `PROBE_PRODUCTION` como uma mudança
+sem rollback operacional garantido. Histórico de build não deve ser chamado de backup, e pacote
+íntegro não deve ser chamado de rollback pronto.
