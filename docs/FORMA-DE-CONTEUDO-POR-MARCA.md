@@ -119,6 +119,24 @@ Consequência para a máquina de conteúdo, e ela vale para todas as marcas:
 Ao pautar, decidir de propósito qual dos dois se está produzindo. Os dois têm valor, e são
 valores diferentes: um constrói a autoridade do cluster, o outro entrega o código.
 
+### Vídeo próprio como capacidade editorial
+
+Quando houver vídeo próprio e editorialmente justificável, alinhar título e descrição reais
+do vídeo para que marca, código e contexto também possam viajar no `VideoObject`. Isso
+aumenta a legibilidade da oferta por buscadores e extratores, sem garantir exibição em
+resultado rico ou resposta de IA. Não criar vídeo apenas para preencher schema nem divergir
+dos metadados publicados no YouTube.
+
+Na prática isso dá à pauta uma **preferência** por vídeo em peça de utilidade — onde o código
+fica no corpo e depende do clique —, não uma obrigação.
+
+Caso real no acervo: o Shorts da Mini Me 2.0 (`RGM_61Heclo`) tem título abrindo com "CUPOM
+CECI NESCAFÉ DOLCE GUSTO" e descrição citando o código, porque foi assim que ele foi
+publicado. O registro em `src/lib/video-metadata.js` reproduz esses campos **exatamente como
+estão no YouTube**, inclusive o "Mine Me" do título original — schema descreve o que existe,
+não o que se preferia. Divergir aqui faria o `VideoObject.name` apontar para um vídeo que não
+é aquele.
+
 E a página citada tem um segundo uso que independe do clique: sendo o nó mais forte do
 cluster, **é de onde um link interno para `/cupons/<marca>` passa mais sinal**. Hoje a
 `tabela-medidas` é o primeiro nó do lote. Na árvore de 11/08/2026 há 12 reviews marcados com
