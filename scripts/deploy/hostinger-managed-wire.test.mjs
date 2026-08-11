@@ -5,6 +5,7 @@ import { tmpdir } from 'node:os';
 import path from 'node:path';
 import test from 'node:test';
 
+import { normalizeBuildInventory } from './capture-hostinger-build-inventory.mjs';
 import {
   DispatchUnknownError,
   isExactAttestation,
@@ -195,6 +196,30 @@ test('CAPTURE_ONLY não alcança build, archive nem dispatch', () => {
       `${stepName} precisa ficar inacessível em CAPTURE_ONLY`
     );
   }
+});
+
+test('inventário de builds preserva histórico útil sem valores desconhecidos', () => {
+  const inventory = normalizeBuildInventory({
+    data: [{
+      uuid: BUILD_UUID,
+      state: 'completed',
+      created_at: '2026-08-10T18:30:00Z',
+      environment_variables: { SECRET: 'não pode sair no artefato' },
+    }],
+    meta: { current_page: 1, last_page: 1, per_page: 50, total: 1 },
+  });
+
+  assert.equal(inventory.total_returned, 1);
+  assert.equal(inventory.builds[0].uuid, BUILD_UUID);
+  assert.equal(inventory.builds[0].state, 'completed');
+  assert.deepEqual(inventory.pagination, {
+    current_page: 1,
+    last_page: 1,
+    per_page: 50,
+    total: 1,
+  });
+  assert.ok(inventory.builds[0].available_fields.includes('environment_variables'));
+  assert.equal(JSON.stringify(inventory).includes('não pode sair no artefato'), false);
 });
 
 test('falso 200 sem build manifest mantém o estado ambíguo', async () => {

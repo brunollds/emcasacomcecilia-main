@@ -156,6 +156,7 @@ jobs:
                 "https://$HOSTINGER_DOMAIN/_next/static/$build_id/_buildManifest.js?cb=pre-$GITHUB_RUN_ID"
             done < artifacts/pre-deploy-worker-build-ids.txt
           } > artifacts/pre-deploy-runtime.txt
+          node scripts/deploy/capture-hostinger-build-inventory.mjs
 
       - name: Preserve pre-deploy runtime state
         if: always()
