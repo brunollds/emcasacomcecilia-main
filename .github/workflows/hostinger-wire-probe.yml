@@ -93,13 +93,10 @@ jobs:
               -H 'Cache-Control: no-cache' \
               "https://$HOSTINGER_DOMAIN/?cb=pre-$GITHUB_RUN_ID-$(date +%s)"
             echo
-            echo 'PUBLIC_SERVED_BUILD_IDS'
-            grep -oE '/_next/static/[^/]+/' artifacts/pre-deploy-home.html \
-              | sed -E 's#^/_next/static/([^/]+)/$#\1#' | sort -u || true
-            echo
             echo 'REMOTE_RUNTIME'
             ssh -i ~/.ssh/id_ed25519 -p "$PORT" -o StrictHostKeyChecking=yes "$HOST" \
-              "ROOT='$ROOT' ACCOUNT='$HOSTINGER_ACCOUNT' bash -s" <<'REMOTE'
+              "ROOT='$ROOT' ACCOUNT='$HOSTINGER_ACCOUNT' bash -s" <<'REMOTE' \
+              | tee artifacts/pre-deploy-remote.txt
           set -euo pipefail
           echo "remote_captured_at=$(date -u +%Y-%m-%dT%H:%M:%SZ)"
           echo "root=$ROOT"
@@ -125,18 +122,35 @@ jobs:
           done
           echo
           echo 'RELEASE_META_FILES'
+          find "$ROOT/nodejs" "$ROOT/hbuilds" -maxdepth 8 \
+            -name release-meta.json -type f -print 2>/dev/null | sort |
           while IFS= read -r meta; do
             echo "path=$meta"
             echo "body=$(tr -d '\n' < "$meta")"
-          done < <(find "$ROOT/nodejs" "$ROOT/hbuilds" -maxdepth 8 \
-            -name release-meta.json -type f -print 2>/dev/null | sort)
+          done
           echo
           echo 'BUILD_IDS'
+          find "$ROOT/nodejs/.next" "$ROOT/hbuilds/versions" -maxdepth 6 \
+            -name BUILD_ID -type f -print 2>/dev/null | sort |
           while IFS= read -r build_id; do
             echo "path=$build_id value=$(tr -d '\n' < "$build_id")"
-          done < <(find "$ROOT/nodejs/.next" "$ROOT/hbuilds/versions" -maxdepth 6 \
-            -name BUILD_ID -type f -print 2>/dev/null | sort)
+          done
           REMOTE
+            echo
+            echo 'PUBLIC_WORKER_BUILD_MANIFESTS'
+            grep -oE 'build_id=[^[:space:]]+' artifacts/pre-deploy-remote.txt \
+              | cut -d= -f2 | sort -u > artifacts/pre-deploy-worker-build-ids.txt
+            test -s artifacts/pre-deploy-worker-build-ids.txt
+            while IFS= read -r build_id; do
+              case "$build_id" in
+                ''|*[!a-zA-Z0-9_-]*) echo "BUILD_ID remoto inválido: $build_id" >&2; exit 1 ;;
+              esac
+              echo "build_id=$build_id"
+              curl -4 --fail --silent --show-error --dump-header - \
+                --output "artifacts/public-build-$build_id.js" \
+                -H 'Cache-Control: no-cache' \
+                "https://$HOSTINGER_DOMAIN/_next/static/$build_id/_buildManifest.js?cb=pre-$GITHUB_RUN_ID"
+            done < artifacts/pre-deploy-worker-build-ids.txt
           } > artifacts/pre-deploy-runtime.txt
 
       - name: Preserve pre-deploy runtime state
