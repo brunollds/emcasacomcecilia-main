@@ -718,7 +718,7 @@ export const COUPONS: Coupon[] = [
     shortDescription: 'link principal, código de indicação e campanhas vigentes',
     longDescription:
       'Acesse a SHEIN pelo link principal da Cecília, consulte o código de indicação 4CW5Y e veja as campanhas confirmadas para produtos selecionados e novos usuários.',
-    metaTitle: 'Cupom SHEIN Agosto 2026: 4CW5Y e Ofertas Ativas',
+    metaTitle: 'SHEIN: código de indicação 4CW5Y e cupom de 50% para novos usuários',
     metaDescription:
       'Acesse o link da Cecília para a SHEIN, pesquise 4CW5Y no app e confira as campanhas vigentes, incluindo produtos selecionados e 50% para novos usuários.',
     eligibleCategories:
