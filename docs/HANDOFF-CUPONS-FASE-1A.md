@@ -237,6 +237,56 @@ Ainda confirmar no próprio GA4, por DebugView/Tempo real, que uma navegação p
 um único `page_view` e que não existe segunda fonte. Conferir também hostname, origem do
 tráfego e filtro de tráfego interno.
 
+### Marco zero da medição e estado do deploy
+
+São dois relógios diferentes:
+
+- **Poluição local:** terminou em 11/08/2026, quando `5042d5a` entrou na árvore usada pelo
+  `next dev`. Isso não depende de deploy: localhost já não envia eventos para produção.
+- **Novo funil em produção:** ainda não começou. `coupon_page_click` nasce em `5b0c0d3`, que
+  não está implantado. O marco zero será a data e hora do primeiro deploy bem-sucedido do
+  stack que contenha esse commit; registrar o timestamp somente depois da attestation.
+
+O último deploy GitHub bem-sucedido foi `4a6eae0`, em 01/08/2026, anterior aos commits 1a e
+1b. Ele foi aprovado pelo `BUILD_ID` presente no HTML; como o fluxo legado não tinha
+`DEPLOY_UUID`, a checagem exata de `/api/release` foi pulada. Portanto a rota já existia,
+mas **não há evidência de que a attestation tenha funcionado naquele deploy**. O HTML
+publicado ainda exibe a prosa pré-`cc9a198`, e `/api/release` devolve
+`{"target_sha":null,"deploy_uuid":null}`.
+
+**Diagnóstico do release meta em 11/08/2026:** o arquivo existe em
+`~/domains/emcasacomcecilia.com/nodejs/release-meta.json`, com `target_sha: 4a6eae0`, mas
+os workers reais rodam em `hbuilds/versions/<build>/nodejs`. Esse cwd gerenciado não contém
+o arquivo, por isso o endpoint lê nulos. Em 03/08, `55d33de` trocou o gate de `BUILD_ID`
+pela attestation obrigatória; releases posteriores fizeram swap, e o verificador viu apenas
+o site respondendo 200, esperou 420 segundos e os reverteu. Sem identidade
+servida, não há prova de que aquele 200 já viesse do processo novo; o resultado é ambíguo,
+não evidência suficiente de release saudável nem de release defeituoso.
+
+O runtime atual é um `hbuild` criado em 10/08, com `BUILD_ID` diferente do pacote SSH de
+01/08. Só essa versão gerenciada está retida, então não é possível provar se o `cwd` mudou
+por atualização do provedor ou por uma reimplantação intermediária. O Next permaneceu em
+`16.1.4`; não há evidência de mudança no layout do standalone. A evidência disponível aponta
+para troca da superfície efetiva de execução, de pacote SSH para build gerenciado.
+
+O caminho preparado para o runtime real é `.github/workflows/hostinger-wire-probe.yml`: ele
+cria a identidade antes do build, instala o meta no standalone, envia o fonte pelo build
+gerenciado da Hostinger e só aceita sucesso com attestation pública exata. Os testes locais
+`test:release-meta`, `verify:release` e `test:hostinger-wire` passam, mas esse workflow ainda
+nunca foi executado. **O próximo deploy deve usar esse probe supervisionado**; não considerar
+a medição iniciada até `/api/release` devolver o SHA e o UUID daquele deploy.
+
+**Recomendação arquitetural antes de tornar o probe rotina:** compilar `target_sha` e
+`deploy_uuid` dentro do artefato e fazer a rota responder da memória, sem leitura de
+`process.cwd()`. Isso elimina o acoplamento a diretórios móveis e prova que o processo que
+respondeu é o build esperado, não apenas que um arquivo correto ficou ao lado dele. Ainda
+não implementado.
+
+Consequência positiva do bloqueio: o export do GSC de 10/05–11/08 reflete o mesmo estado
+publicado de 01/08. As posições usadas para priorizar Dolce Gusto, I Wanna Sleep, YesStyle e
+Nutren continuam sendo uma linha de base válida; nenhuma intervenção deste ciclo chegou à
+produção para confundi-las.
+
 ---
 
 ## Item 1 — Mecanismo de link contextual em receitas
