@@ -121,9 +121,11 @@ valores diferentes: um constrói a autoridade do cluster, o outro entrega o cód
 
 E a página citada tem um segundo uso que independe do clique: sendo o nó mais forte do
 cluster, **é de onde um link interno para `/cupons/<marca>` passa mais sinal**. Hoje a
-`tabela-medidas` não linka para o cupom. Na árvore de 11/08/2026 há 12 reviews marcados com
-`affiliate: "dolce-gusto"`: três já linkam para `/cupons/dolce-gusto` e nove ainda não. Essa
-contagem é retrato do acervo, não definição do lote editorial.
+`tabela-medidas` é o primeiro nó do lote. Na árvore de 11/08/2026 há 12 reviews marcados com
+`affiliate: "dolce-gusto"`: antes deste lote, três linkavam para `/cupons/dolce-gusto` e nove
+não. O lote inicial priorizou seis páginas de utilidade, confiança e comparação; depois dele,
+nove linkam e três reviews recentes ou de produto permanecem fora. Essa contagem é retrato do
+acervo, não regra para linkar em massa.
 
 ---
 

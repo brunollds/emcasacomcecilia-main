@@ -99,7 +99,13 @@
       "paragraphs": [
         "Comprar uma máquina Dolce Gusto representa um investimento, e qualquer desconto ajuda. O cupom CECI garante 5% de desconto na loja oficial e pode ser aplicado na compra de máquinas, cápsulas e acessórios. Antes de finalizar o pedido, insira o código CECI no campo de cupom do carrinho para reduzir o valor total. A parceria com o Em Casa com Cecília mantém o cupom ativo para leitores e seguidores."
       ],
-      "bullets": []
+      "bullets": [],
+      "links": [
+        {
+          "label": "Ver condições do desconto CECI",
+          "href": "/cupons/dolce-gusto"
+        }
+      ]
     }
   ],
   "cta": {

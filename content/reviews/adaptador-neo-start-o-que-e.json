@@ -131,6 +131,12 @@
         "Como o adaptador é reutilizável, compare o custo atual do acessório, das cápsulas compatíveis e de uma eventual máquina NEO nova antes da compra."
       ],
       "bullets": [],
+      "links": [
+        {
+          "label": "Conferir desconto e regras do cupom CECI",
+          "href": "/cupons/dolce-gusto"
+        }
+      ],
       "image": "/images/reviews/dolcegusto/adaptador-neo-start-passo-a-passo.webp",
       "imageAlt": "Vista frontal do Adaptador NEO Start fechado",
       "imageFit": "contain"

@@ -69,7 +69,13 @@
       "paragraphs": [
         "O Em Casa com Cecília mantém uma parceria comercial com a NESCAFÉ Dolce Gusto. Por meio dela, o cupom CECI garante 5% de desconto em compras acima de R$100 no site oficial, válido para cápsulas, máquinas e acessórios. O desconto é concedido pela marca e não representa custo adicional para quem compra."
       ],
-      "bullets": []
+      "bullets": [],
+      "links": [
+        {
+          "label": "Confirmar validade do cupom CECI",
+          "href": "/cupons/dolce-gusto"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",

@@ -145,6 +145,12 @@
         "Receba 1.000 pontos no Club no 1º pedido para trocar por produtos na Loja de Prêmios.",
         "Não vale a pena se você consome poucas cápsulas e não atinge 3 caixas por ciclo de entrega.",
         "Dica prática: Use o cupom CECI em compras avulsas quando não quiser manter uma assinatura recorrente."
+      ],
+      "links": [
+        {
+          "label": "Comparar com as regras do cupom CECI",
+          "href": "/cupons/dolce-gusto"
+        }
       ]
     },
     {

@@ -95,7 +95,13 @@
         "Manter uma rotina de cápsulas em casa pode gerar um custo mensal relevante, especialmente quando a família consome várias unidades por dia. Por isso, vale a pena usar o cupom de desconto CECI na loja oficial da NESCAFÉ Dolce Gusto. O código dá 5% de desconto nas compras e pode ser usado em conjunto com outras promoções do site, dependendo das regras vigentes.",
         "Aplicar o cupom é simples: basta inserir o código CECI no campo de cupom do carrinho antes de finalizar a compra. Com o desconto, o preço médio das caixas fica mais competitivo, e o gasto mensal com café em casa diminui sem perder qualidade."
       ],
-      "bullets": []
+      "bullets": [],
+      "links": [
+        {
+          "label": "Consultar regras atuais do cupom CECI",
+          "href": "/cupons/dolce-gusto"
+        }
+      ]
     }
   ],
   "cta": {
