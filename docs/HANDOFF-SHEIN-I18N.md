@@ -212,6 +212,47 @@ rota vazios com layout. **O gerador tem que iterar as chaves do próprio cluster
 Passos 1 e 2 não dependem do link geral da Shein — podem começar já. O passo 3 continua
 bloqueado por esse dado.
 
+## Dados da Shein NÃO confirmados — não fixar em código
+
+Situação em 10/08/2026. Nada abaixo deve entrar como valor definitivo antes de conferência
+no painel de afiliado.
+
+| Dado | Valor | Estado |
+|---|---|---|
+| Código de indicação | `4CW5Y` | informado; **regras não confirmadas** (elegibilidade, se comissiona, se é só conta nova) |
+| Código de busca no app | `37S3442` | informado |
+| Link de campanha (registro A) | `https://onelink.shein.com/47/5yheojvlnivm` | origem distinta, não confirmado |
+| Link de campanha (registro B) | `https://onelink.shein.com/47/5yh44ijap5yi` | origem distinta, não confirmado |
+| Link geral e durável da conta | — | **ausente; é o bloqueio do Commit 2** |
+
+Os dois links vieram de registros diferentes e **ambos aparecem associados ao mesmo código
+`37S3442`**. Isso pode significar campanhas distintas, um link reemitido para a mesma
+campanha, ou um registro obsoleto. Não associar definitivamente nenhum dos dois ao
+`37S3442` até conferir o painel.
+
+Não confirmar clicando: é link comissionado do próprio Bruno, o clique registra atribuição
+e polui o dado, e `onelink` resolve diferente em desktop e no app.
+
+Isso é o argumento concreto de por que `campaigns` é **lista**, e não campo único.
+
+### Como o Commit 2 anda sem esse dado
+
+Entrar a Shein com **`status: 'pausado'`**. `getCouponBySlug` e `getAllActiveCouponSlugs`
+filtram por `ativo`, então a entrada não aparece no hub, não entra no sitemap, não aparece
+na faixa da home, e `/cupons/shein` devolve 404 — comportamento correto para uma página cujo
+destino comercial não foi confirmado. É o mesmo mecanismo que a Kopenhagen usa hoje.
+
+Assim o Commit 2 leva tudo que não depende da URL: entrada `affiliate-link` dormente, bloco
+`referral` com `verifiedAt: null`, forma de `campaigns[]`, remoção da rota estática da
+Kopenhagen, remoção do bloco morto de hreflang (`[brand]/page.tsx:41-57`) e o CECI
+confirmado. A ativação vira um commit de uma linha: preencher `offerUrl` e virar o `status`.
+
+## Fase 1A
+
+Decidido em 10/08/2026 que a Fase 1A incluirá mecanismo de link contextual em receitas.
+Escopo, fila de prioridade por dados do Search Console e critérios de aceite estão em
+`HANDOFF-CUPONS-FASE-1A.md`. Este documento permanece focado no Commit 2.
+
 ## Verificação
 
 ```bash
