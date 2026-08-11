@@ -203,55 +203,56 @@ rota vazios com layout. **O gerador tem que iterar as chaves do próprio cluster
 1. ~~**Commit i18n-A** — split `locales.ts` / `clusters/`~~ ✅ `6230c78`.
 2. ~~**Commit i18n-B** — rename dos route groups para locale~~ ✅ 40 renames `R100` + 1 linha.
 3. **Commit 2** — dados comerciais: entrada Shein `affiliate-link`, `referral` (`4CW5Y`),
-   campanha (`37S3442`), CECI confirmado, remoção da rota estática do Kopenhagen,
+   campanhas ativas, afiliado `6177013015` confirmado, remoção da rota estática do Kopenhagen,
    remoção do bloco morto de hreflang.
 4. **Commit 3** — conteúdo: primeiro haul PT, fotos próprias, tabela de produtos com
    status por SKU, deep links, link para `/cupons/shein`, recorte YouTube +
    entrada em `video-pages.js` + `VideoObject`.
 
-Passos 1 e 2 não dependem do link geral da Shein — podem começar já. O passo 3 continua
-bloqueado por esse dado.
+Passos 1 e 2 estão concluídos. O passo 3 foi **desbloqueado em 11/08/2026** com a confirmação
+do link principal e de duas campanhas vigentes.
 
-## Dados da Shein NÃO confirmados — não fixar em código
-
-Situação em 10/08/2026. Nada abaixo deve entrar como valor definitivo antes de conferência
-no painel de afiliado.
+## Dados comerciais confirmados em 11/08/2026
 
 | Dado | Valor | Estado |
 |---|---|---|
-| Código de indicação | `4CW5Y` | informado; **regras não confirmadas** (elegibilidade, se comissiona, se é só conta nova) |
-| Código de busca no app | `37S3442` | informado |
-| Link de campanha (registro A) | `https://onelink.shein.com/47/5yheojvlnivm` | origem distinta, não confirmado |
-| Link de campanha (registro B) | `https://onelink.shein.com/47/5yh44ijap5yi` | origem distinta, não confirmado |
-| Link geral e durável da conta | — | **ausente; é o bloqueio do Commit 2** |
+| ID de afiliado | `6177013015` | confirmado pelo Bruno |
+| Código de indicação | `4CW5Y` | confirmado; não extrapolar regras comerciais não informadas |
+| Link principal referente ao código | `https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20` | usar em `offerUrl`; reconferir como qualquer dado comercial |
+| Campanha — produtos selecionados | busca `37S3442`; `https://onelink.shein.com/47/5yl4fyr203o0` | aumento de comissão; descontos por tempo limitado |
+| Campanha — 50% novos usuários | busca `G326U6B`; `https://onelink.shein.com/47/5yl4h46pd93c` | somente novos usuários |
 
-Os dois links vieram de registros diferentes e **ambos aparecem associados ao mesmo código
-`37S3442`**. Isso pode significar campanhas distintas, um link reemitido para a mesma
-campanha, ou um registro obsoleto. Não associar definitivamente nenhum dos dois ao
-`37S3442` até conferir o painel.
+**Correção de premissa, 11/08/2026: não existe "link geral e durável" no programa da Shein.**
+Este documento tratou a ausência dele como bloqueio do Commit 2 — estava errado. O que o
+programa oferece é o link associado ao código, e é ele que ocupa `offerUrl`. Não há o que
+esperar.
+
+Consequências para o modelo de dados:
+
+- `offerUrl` recebe **o link principal referente ao código**, com `verifiedAt` preenchido. Ele
+  tem prazo na prática, então é dado que se reconfere, não constante.
+- `campaigns[]` continua sendo lista, para as campanhas datadas que entrarem e saírem por cima.
+- **Artigos de haul carregam deep links convertidos por produto**, no próprio artigo, além do
+  link principal. Não centralizar isso em `couponsData` — ver a correção sobre deep links no
+  handoff da Fase 1A.
+
+Os registros anteriores `5yheojvlnivm` e `5yh44ijap5yi`, ambos associados ao `37S3442` em
+fontes diferentes, ficam apenas como histórico. Não usar nenhum deles no código: a campanha
+vigente informada em 11/08 usa `5yl4fyr203o0`.
 
 Não confirmar clicando: é link comissionado do próprio Bruno, o clique registra atribuição
 e polui o dado, e `onelink` resolve diferente em desktop e no app.
 
-Isso é o argumento concreto de por que `campaigns` é **lista**, e não campo único.
-
-### Como o Commit 2 anda sem esse dado
-
-Entrar a Shein com **`status: 'pausado'`**. `getCouponBySlug` e `getAllActiveCouponSlugs`
-filtram por `ativo`, então a entrada não aparece no hub, não entra no sitemap, não aparece
-na faixa da home, e `/cupons/shein` devolve 404 — comportamento correto para uma página cujo
-destino comercial não foi confirmado. É o mesmo mecanismo que a Kopenhagen usa hoje.
-
-Assim o Commit 2 leva tudo que não depende da URL: entrada `affiliate-link` dormente, bloco
-`referral` com `verifiedAt: null`, forma de `campaigns[]`, remoção da rota estática da
-Kopenhagen, remoção do bloco morto de hreflang (`[brand]/page.tsx:41-57`) e o CECI
-confirmado. A ativação vira um commit de uma linha: preencher `offerUrl` e virar o `status`.
+Isso é o argumento concreto de por que `campaigns` é **lista**, e não campo único. A Shein
+entra no Commit 2 com `status: 'ativo'`, `offerUrl` preenchido, `referral.verifiedAt` e as duas
+campanhas registradas separadamente.
 
 ## Fase 1A
 
-Decidido em 10/08/2026 que a Fase 1A incluirá mecanismo de link contextual em receitas.
-Escopo, fila de prioridade por dados do Search Console e critérios de aceite estão em
-`HANDOFF-CUPONS-FASE-1A.md`. Este documento permanece focado no Commit 2.
+O mecanismo de link contextual em receitas foi **retirado**, não adiado: não há receita com
+marca parceira prevista. Artigos de bebida vivem em `content/reviews/` e já usam
+`contentSections[].links[]`. A especificação de `couponCallout` permanece arquivada em
+`HANDOFF-CUPONS-FASE-1A.md` para o dia em que surgir um consumidor real.
 
 ## Verificação
 

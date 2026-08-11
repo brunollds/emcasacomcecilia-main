@@ -350,7 +350,30 @@ A série pública seguinte devolveu SHA/UUID exatos em 10/10 consultas entre `15
 
 ---
 
-## Item 1 — Mecanismo de link contextual em receitas
+## Item 1 — RETIRADO em 11/08/2026
+
+> **O mecanismo de link contextual em receitas sai da Fase 1A.**
+>
+> A decisão de 10/08 foi opção B: pauta editorial primeiro, `couponCallout` junto com a
+> primeira receita Dolce Gusto que o consumisse. Essa primeira receita **não está prevista** —
+> o Bruno confirmou em 11/08 que não há plano de fazer receita com Dolce Gusto, e que o
+> conteúdo do cluster será de **artigos de bebidas**.
+>
+> Artigo de bebida é review, não receita. Vive em `content/reviews/`, e ali o mecanismo já
+> existe e já foi usado no lote 1 — `contentSections[].links[]` renderizado por
+> `TrackedCouponPageLink`. **Não há mecanismo novo a construir.**
+>
+> Isso confirma o levantamento que originou a opção B: nenhuma das 192 receitas menciona
+> marca parceira, e agora sabe-se que não é atraso de pauta, é ausência de intenção. A linha
+> da matriz do Guia Mestre "receita com cápsula/máquina Dolce Gusto → `/cupons/dolce-gusto`"
+> fica **aposentada**, não adiada.
+>
+> `couponCallout` só volta à mesa se surgir receita com marca parceira. Construir agora seria
+> exatamente a infraestrutura sem consumidor que a opção B existia para evitar.
+>
+> A especificação abaixo fica como registro, para o dia em que houver o consumidor.
+
+## Item 1 (arquivado) — Mecanismo de link contextual em receitas
 
 ### Estado atual
 
