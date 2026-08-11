@@ -122,6 +122,8 @@ jobs:
           done
           echo
           echo 'RELEASE_META_FILES'
+          # Pipelines intencionais: este host não oferece /dev/fd para `< <(...)`.
+          # Os `while` abaixo só imprimem; não acumule estado para usar após o subshell.
           find "$ROOT/nodejs" "$ROOT/hbuilds" -maxdepth 8 \
             -name release-meta.json -type f -print 2>/dev/null | sort |
           while IFS= read -r meta; do

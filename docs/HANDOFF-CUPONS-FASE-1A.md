@@ -297,14 +297,15 @@ em `hbuilds/versions/019fecf0-bbaa-7202-87a4-70c469b81ed7/nodejs`, todos com
 `BUILD_ID=0p0H0JQRCNN5jW_WxYqgK`, manifesto público 200 e nenhum sidecar no cwd. Há um único
 `release-meta.json` fora do runtime, em `nodejs/`, apontando para `4a6eae0` e com UUID nulo; o
 pacote SSH retido tem outro `BUILD_ID` (`pJC0ZITwsdsZmECOIKo3K`). Portanto o hbuild servido não
-pode ser atribuído a um SHA pela instrumentação antiga. Uma nova execução do probe exige nova
-autorização explícita.
+pode ser atribuído a um SHA pelo `BUILD_ID` aleatório isoladamente. Uma nova execução do probe
+exige nova autorização explícita.
 
-O HTML público ainda mostra a prosa anterior a este ciclo, mas o `BUILD_ID` do hbuild difere do
-pacote de 01/08 e não pode ser ligado a um commit. Portanto o export do GSC de 10/05–11/08
-continua útil para priorização, mas **não deve mais ser descrito como linha de base bit-a-bit do
-deploy de 01/08**. O marco zero confiável continua sendo o primeiro deploy atestado que inclua
-`5b0c0d3`.
+O conjunto de evidências, porém, atribui a produção a `4a6eae0`: o sidecar órfão aponta para esse
+SHA com UUID nulo — impressão digital do fluxo de 01/08 — e o HTML público preserva as marcas de
+conteúdo daquela versão (`Outros cupons ativos`, `cupom ativo` e o title de agosto do Nutren).
+Nenhum release revertido sobreviveu parcialmente. Portanto o export do GSC de 10/05–11/08 é uma
+linha de base limpa para a Fase 1A. O marco zero da nova medição continua sendo o primeiro deploy
+atestado que inclua `5b0c0d3`; a partir dele, o `BUILD_ID` determinístico será o próprio SHA.
 
 ---
 
