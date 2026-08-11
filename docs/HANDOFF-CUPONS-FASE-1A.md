@@ -243,9 +243,9 @@ São dois relógios diferentes:
 
 - **Poluição local:** terminou em 11/08/2026, quando `5042d5a` entrou na árvore usada pelo
   `next dev`. Isso não depende de deploy: localhost já não envia eventos para produção.
-- **Novo funil em produção:** ainda não começou. `coupon_page_click` nasce em `5b0c0d3`, que
-  não está implantado. O marco zero será a data e hora do primeiro deploy bem-sucedido do
-  stack que contenha esse commit; registrar o timestamp somente depois da attestation.
+- **Novo funil em produção:** começou em **11/08/2026 15:14:06 BRT**, marco conservador posterior
+  à attestation, ao inventário completo dos workers e à série pública estável. Descartar qualquer
+  evento anterior desse baseline ao analisar `coupon_page_click`.
 
 O último deploy GitHub bem-sucedido foi `4a6eae0`, em 01/08/2026, anterior aos commits 1a e
 1b. Ele foi aprovado pelo `BUILD_ID` presente no HTML; como o fluxo legado não tinha
@@ -263,18 +263,16 @@ o site respondendo 200, esperou 420 segundos e os reverteu. Sem identidade
 servida, não há prova de que aquele 200 já viesse do processo novo; o resultado é ambíguo,
 não evidência suficiente de release saudável nem de release defeituoso.
 
-O runtime atual é um `hbuild` criado em 10/08, com `BUILD_ID` diferente do pacote SSH de
+O runtime anterior era um `hbuild` criado em 10/08, com `BUILD_ID` diferente do pacote SSH de
 01/08. Só essa versão gerenciada está retida como `hbuild` executável, então não é possível
 provar se o `cwd` mudou por atualização do provedor ou por uma reimplantação intermediária. O Next permaneceu em
 `16.1.4`; não há evidência de mudança no layout do standalone. A evidência disponível aponta
 para troca da superfície efetiva de execução, de pacote SSH para build gerenciado.
 
-O caminho preparado para o runtime real é `.github/workflows/hostinger-wire-probe.yml`: ele
+O caminho em uso para o runtime real é `.github/workflows/hostinger-wire-probe.yml`: ele
 cria a identidade antes do build, envia o fonte pelo build gerenciado da Hostinger e só
-aceita sucesso com attestation pública exata. O modo de captura já foi executado; o caminho
-mutante `PROBE_PRODUCTION` ainda não. **O próximo deploy deve usar esse probe supervisionado**;
-não considerar a medição iniciada até
-`/api/release` devolver o SHA e o UUID daquele deploy.
+aceita sucesso com attestation pública exata. Os modos `CAPTURE_ONLY` e `PROBE_PRODUCTION` já
+foram exercitados. Deploys seguintes devem continuar usando esse probe supervisionado.
 
 **Identidade compilada:** `next.config.mjs` lê `release-meta.json` como entrada efêmera do
 build, usa `target_sha` como `BUILD_ID` determinístico e incorpora `target_sha` e `deploy_uuid`
@@ -335,6 +333,20 @@ Isso preserva os bytes do release anterior, mas não constitui rollback pronto: 
 incompatível com o source archive do build gerenciado, e sua restauração sobre o runtime atual
 nunca foi ensaiada. Até existir runbook testado, `PROBE_PRODUCTION` é uma mudança sem rollback
 operacional garantido; em falha ambígua, a saída primária é reconciliar e seguir para frente.
+
+**Primeiro deploy atestado e marco zero:** o run `31520415657` falhou antes de qualquer dispatch:
+o source archive tinha `50.220.575` bytes. `c41e914` passou a excluir do `git archive` somente
+documentação, workflows e `src/lib/generated/content-index.ts`, que o build regenera; o pacote
+efetivo caiu para `49.784.149` bytes. O run `31521080009` então publicou
+`c41e914c78a01e4671adb3fe19c9effc7265a50e`, deploy UUID
+`4a8b7437-3a7d-4354-a6ee-7e715d87e105` e build Hostinger
+`019ff203-a971-703e-8b82-e431332a4975`.
+
+A identidade nova apareceu publicamente às `15:11:04 BRT`; o workflow ficou verde às
+`15:11:13`. O `CAPTURE_ONLY` pós-deploy `31521484469` registrou, às `15:13:41`, os dois workers
+no mesmo hbuild, ambos com `BUILD_ID=c41e914...`, e o manifesto público do mesmo ID em HTTP 200.
+A série pública seguinte devolveu SHA/UUID exatos em 10/10 consultas entre `15:13:36` e
+`15:14:06`. Portanto **11/08/2026 15:14:06 BRT** é o marco zero conservador do novo funil.
 
 ---
 

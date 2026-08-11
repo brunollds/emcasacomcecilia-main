@@ -1,12 +1,10 @@
 # Guia de Deploy — emcasacomcecilia.com
 
-> **Bloqueio operacional em 11/08/2026:** não usar o fluxo SSH de `.github/workflows/deploy.yml`
-> nem desativar o auto-rollback para contorná-lo. O runtime efetivo passou a executar em
-> `hbuilds/versions/<build>/nodejs`, e o gate por arquivo no `process.cwd()` ficou cego.
-> O próximo deploy deve ser a primeira execução supervisionada de
-> `.github/workflows/hostinger-wire-probe.yml`, com captura forense pré-dispatch e identidade
-> compilada. Só há sucesso quando `/api/release` devolver SHA/UUID exatos e o `BUILD_ID`
-> estático estiver acessível. Exige decisão explícita do Bruno.
+> **Estado operacional desde 11/08/2026:** o caminho atual de produção é
+> `.github/workflows/hostinger-wire-probe.yml`. A primeira implantação, run `31521080009`,
+> publicou `c41e914` com identidade compilada, attestation dinâmica exata e `BUILD_ID` estático
+> igual ao SHA. O fluxo SSH de `.github/workflows/deploy.yml` continua suspenso: o runtime efetivo
+> executa em `hbuilds/versions/<build>/nodejs`, não em `nodejs/`.
 > O modo `CAPTURE_ONLY` é somente leitura: preserva o artefato e pula build, archive e dispatch.
 > Apenas `PROBE_PRODUCTION` executa o wire e, portanto, implanta em produção.
 >
@@ -31,23 +29,52 @@ O fluxo antigo (build gerenciado da Hostinger via MCP) fica documentado no fim c
    Windows + scp manual continua PROIBIDO.
 2. **Nunca deployar pelo painel da Hostinger** (Node.js app → "Reimplantar"): reconstrói em node 18
    e diverge do testado.
-3. **Um deploy por vez.** O workflow tem `concurrency` lock; não dispare dois. Restart manual
-   descontrolado ainda empilha `next-server` → 503 (ver Recuperação de 503). O workflow faz o
-   restart LIMPO sozinho (mata os workers do emcasa antes do swap).
+3. **Um deploy por vez.** Os workflows compartilham o lock `emcasa-production`, com
+   `cancel-in-progress: false`; não dispare dois. Restart manual descontrolado ainda empilha
+   `next-server` → 503 (ver Recuperação de 503).
 4. **Nenhum deploy em produção sem decisão explícita do Bruno** (domínio apex).
 
 ---
 
 ## Como deployar
 
-### Caminho normal — central editorial
+### Caminho atual — wire gerenciado supervisionado
+
+```bash
+# A main precisa estar limpa, commitada e pushada.
+gh workflow run hostinger-wire-probe.yml \
+  --repo brunollds/emcasacomcecilia-main --ref main \
+  -f confirm=PROBE_PRODUCTION
+gh run watch --repo brunollds/emcasacomcecilia-main --exit-status <run-id>
+```
+
+O environment `production` exige aprovação explícita. O workflow captura o estado anterior,
+compila e testa a identidade no runner, cria um source archive menor que 50 MB, faz upload TUS,
+aciona o build gerenciado e exige simultaneamente:
+
+1. build Hostinger em estado `completed`;
+2. `/api/release` com SHA e UUID exatos;
+3. `/_next/static/<sha>/_buildManifest.js` acessível.
+
+Workflow verde é o gate mínimo. Declarar o release saudável exige também série pública estável,
+smoke de conteúdo e inventário de todos os workers via `CAPTURE_ONLY`. O marco da medição é a
+convergência desses sinais, não o dispatch.
+
+### Inspeção somente leitura
+
+```bash
+gh workflow run hostinger-wire-probe.yml \
+  --repo brunollds/emcasacomcecilia-main --ref main \
+  -f confirm=CAPTURE_ONLY
+```
+
+### Central editorial — deploy temporariamente suspenso
 
 Publicar reviews pela central (`https://central.emcasacomcecilia.com/reviews`) → eles ficam
-"publicado (aguardando deploy)" → botão **"Deployar agora"** dispara o workflow e acompanha o run
-("ver run" abre o Actions). No sucesso os reviews viram `deployed`. (~10-15 min; o site pisca ~2 min
-no restart.)
+"publicado (aguardando deploy)". Não usar o botão **"Deployar agora"** enquanto ele apontar para
+o workflow SSH suspenso; fazer o wire gerenciado manual acima.
 
-### Caminho manual — gh CLI
+### Fluxo SSH legado — suspenso
 
 ```bash
 # conteúdo já commitado + pushado na main (o CI builda a MAIN, não a árvore local!)
@@ -56,7 +83,7 @@ gh workflow run "Deploy emcasa (manual)" --repo brunollds/emcasacomcecilia-main 
 gh run watch --repo brunollds/emcasacomcecilia-main --exit-status <run-id>
 ```
 
-### O que o workflow faz (na ordem)
+### O que o workflow SSH legado fazia (na ordem)
 
 1. `npm ci` + `npm run build` (gera o índice de conteúdo + `next build` com `output: 'standalone'`)
 2. Monta o pacote (standalone + `.next/static` + `public/` + `.env.production`) e **valida**:
@@ -249,3 +276,24 @@ Classificação operacional:
 Até esse runbook ser provado fora de uma emergência, tratar `PROBE_PRODUCTION` como uma mudança
 sem rollback operacional garantido. Histórico de build não deve ser chamado de backup, e pacote
 íntegro não deve ser chamado de rollback pronto.
+
+### Primeiro release atestado pelo wire
+
+O run `31520415657` falhou antes do dispatch porque o source archive tinha `50.220.575` bytes.
+O commit `c41e914` adicionou `export-ignore` para documentação, workflows e o
+`content-index.ts` regenerável; nenhum arquivo de runtime ou mídia foi removido. O archive efetivo
+do run seguinte ficou em `49.784.149` bytes.
+
+O run `31521080009` concluiu em 11/08/2026:
+
+- SHA: `c41e914c78a01e4671adb3fe19c9effc7265a50e`;
+- deploy UUID: `4a8b7437-3a7d-4354-a6ee-7e715d87e105`;
+- build UUID Hostinger: `019ff203-a971-703e-8b82-e431332a4975`;
+- estados observados: `pending → running → completed`;
+- primeiro SHA/UUID novo observado publicamente: `15:11:04 BRT`;
+- workflow verde: `15:11:13 BRT`.
+
+O `CAPTURE_ONLY` pós-deploy `31521484469` registrou dois workers, ambos no mesmo hbuild e com
+`BUILD_ID=c41e914...`; o manifesto público do mesmo ID respondeu 200. Uma série adicional teve
+10/10 respostas exatas entre `15:13:36` e `15:14:06 BRT`. O release foi declarado saudável e o
+marco zero do funil foi fixado conservadoramente em **11/08/2026 15:14:06 BRT**.
