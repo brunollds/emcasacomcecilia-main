@@ -1,4 +1,4 @@
-const INTERNAL_HOSTNAMES = new Set([
+export const INTERNAL_HOSTNAMES = new Set([
   'emcasacomcecilia.com',
   'www.emcasacomcecilia.com',
 ]);

@@ -213,9 +213,9 @@ No export de páginas (14/07–10/08), *"Cupom YesStyle CECILIA010: Até 5% OFF 
 Elegível"* registrou **472 visualizações para 4 usuários ativos** — 118 por usuário. A home
 tem 19,6; "Reviews & Análises", 28,2. Não é comportamento humano.
 
-Como o funil `coupon_page_click` vive nesse mesmo GA4, os eventos novos nascem igualmente
-poluídos. **Investigar antes de confiar em qualquer número de GA4** — navegação própria,
-bot com JS, ou duplicação de `page_view`.
+Como o funil `coupon_page_click` vive nesse mesmo GA4, os eventos novos nasceram igualmente
+poluídos. **Não usar eventos anteriores ao gate de localhost como linha de base.** O volume
+não pode ser limpo retroativamente e a medição deve recomeçar depois da correção.
 
 **Auditoria local em 11/08/2026:** o repositório monta um único componente `Analytics`,
 configura o GA4 com `send_page_view: false` e tem um único emissor manual de `page_view`.
@@ -223,11 +223,19 @@ O HTML publicado de `/cupons/yesstyle` contém somente o Measurement ID
 `G-LDLH63KJMP`, uma preload de `gtag.js` e nenhum contêiner GTM. Não há duplicação óbvia
 na implementação ou no HTML inicial.
 
-O próximo passo é diagnóstico no próprio GA4, sem mudar o código por hipótese: reproduzir
-uma navegação em DebugView/Tempo real e conferir contagem por sessão, hostname, origem do
-tráfego e filtro de tráfego interno. Se um único carregamento emitir mais de um `page_view`,
-inspecionar a sequência e a origem da tag; se não emitir, segmentar os 472 eventos para
-identificar bot, navegação interna ou anomalia de identidade.
+**Causa encontrada:** `.env.local` contém `NEXT_PUBLIC_GA_MEASUREMENT_ID`, portanto o
+`next dev` enviava eventos para a propriedade de produção. Cada hot reload remontava o
+componente e emitia outro `page_view`; cliques usados nos smokes locais também contaminavam
+`coupon_page_click`, `coupon_copy` e `coupon_store_click`.
+
+**Correção:** Analytics só carrega nos hostnames de produção definidos em
+`INTERNAL_HOSTNAMES` (`emcasacomcecilia.com` e `www`). Localhost, IPv6, IP da LAN,
+preview, staging e o subdomínio Damie ficam fora por padrão. Teste local exige opt-in
+explícito com `NEXT_PUBLIC_GA_DEBUG=1`, que configura `debug_mode: true`.
+
+Ainda confirmar no próprio GA4, por DebugView/Tempo real, que uma navegação publicada emite
+um único `page_view` e que não existe segunda fonte. Conferir também hostname, origem do
+tráfego e filtro de tráfego interno.
 
 ---
 
@@ -337,6 +345,7 @@ npm run lint
 npm run validate:content
 npm run test:internal-links
 npm run test:coupon-offer-modes
+npm run test:analytics-gate
 npm run build
 ```
 
