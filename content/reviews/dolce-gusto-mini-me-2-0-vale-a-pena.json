@@ -89,6 +89,12 @@
       "paragraphs": [
         "Na rotina de trabalho, as bebidas mais preparadas na Mini Me 2.0 são o **Lungo** (nível 4 de dosagem, ~120ml) e o **Café Matinal** (nível 6 a 7, ~180 a 200ml). Para quem busca uma xícara maior para acompanhar períodos longos de foco sem parar a todo momento, ela oferece grande praticidade.",
         "O funcionamento é simples: você seleciona o número de barras na escala superior conforme a indicação da cápsula (ou pela nossa [tabela de medidas em ml por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)) e pressiona o botão de acionamento. A máquina realiza a extração automática com pressão de 15 bar e interrompe o fluxo de água de forma precisa ao atingir o volume escolhido."
+      ],
+      "links": [
+        {
+          "label": "Consulte a tabela de medidas em ml por nível confirmada no manual da Mini Me 2.0",
+          "href": "/reviews/tabela-medidas-dolce-gusto-ml-por-nivel"
+        }
       ]
     },
     {
@@ -126,8 +132,12 @@
       ],
       "links": [
         {
-          "label": "Vídeo Especial no YouTube Shorts: Bruno apresenta a Mini Me 2.0 (Dia dos Pais)",
-          "href": "https://www.youtube.com/shorts/RGM_61Heclo"
+          "label": "Ver regras e validade do cupom CECI para NESCAFÉ Dolce Gusto",
+          "href": "/cupons/dolce-gusto"
+        },
+        {
+          "label": "Vídeo Especial: Bruno apresenta a Mini Me 2.0 no nosso canal",
+          "href": "/videos/unboxing-dolce-gusto-mini-me-2-0-primeiro-cafe"
         }
       ],
       "image": "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-2.webp",
