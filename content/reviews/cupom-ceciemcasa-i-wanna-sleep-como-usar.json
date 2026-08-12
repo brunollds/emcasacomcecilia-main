@@ -54,6 +54,12 @@
         "Desconto: 10% OFF em todo o site oficial",
         "Elegibilidade: Válido para travesseiros (como o IWS Snow), colchões, lençóis, sleepwear e acessórios",
         "Onde aplicar: No carrinho/checkout do site oficial iwannasleep.com.br"
+      ],
+      "links": [
+        {
+          "label": "Conferir regras atualizadas do cupom I Wanna Sleep",
+          "href": "/cupons/i-wanna-sleep"
+        }
       ]
     },
     {
@@ -138,6 +144,7 @@
     "url": "https://www.iwannasleep.com.br/"
   },
   "coupon": "CECIEMCASA",
+  "affiliate": "i-wanna-sleep",
   "editorialNote": "O cupom CECIEMCASA é fruto de uma parceria de afiliados oficial entre o Em Casa com Cecília e a I Wanna Sleep. Ao comprar por meio de nossas indicações, você ajuda a manter nosso trabalho editorial sem qualquer custo adicional. Os preços e cupons estão sujeitos a alterações pelas marcas parceiras.",
   "relatedArticles": []
 }

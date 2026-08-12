@@ -63,7 +63,13 @@
       "paragraphs": [
         "O Em Casa com Cecília mantém uma parceria comercial ativa com a I Wanna Sleep. Por meio dessa parceria, os leitores podem utilizar o cupom CECIEMCASA para obter 10% de desconto nos produtos elegíveis do site oficial, conforme as regras vigentes no checkout. A utilização do cupom não gera custo adicional para o leitor — o desconto é concedido pela marca — e funciona como uma forma de apoiar o projeto editorial."
       ],
-      "bullets": []
+      "bullets": [],
+      "links": [
+        {
+          "label": "Consultar a página de cupom da I Wanna Sleep",
+          "href": "/cupons/i-wanna-sleep"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
@@ -86,6 +92,7 @@
     "url": "https://www.iwannasleep.com.br/"
   },
   "coupon": "CECIEMCASA",
+  "affiliate": "i-wanna-sleep",
   "editorialNote": "Este artigo é de natureza editorial e analítica. A menção ao cupom CECIEMCASA decorre de uma parceria comercial entre o Em Casa com Cecília e a I Wanna Sleep. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca.",
   "relatedArticles": [
     {

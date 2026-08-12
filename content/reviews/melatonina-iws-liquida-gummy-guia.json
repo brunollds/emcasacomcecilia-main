@@ -80,7 +80,13 @@
       "paragraphs": [
         "O Em Casa com Cecília mantém uma parceria comercial com a I Wanna Sleep. O cupom CECIEMCASA garante 10% de desconto nos produtos elegíveis do site oficial, incluindo a linha de melatonina, aplicado diretamente no checkout."
       ],
-      "bullets": []
+      "bullets": [],
+      "links": [
+        {
+          "label": "Consultar o cupom para a linha de melatonina IWS",
+          "href": "/cupons/i-wanna-sleep"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
@@ -101,6 +107,7 @@
     "url": "https://www.iwannasleep.com.br/"
   },
   "coupon": "CECIEMCASA",
+  "affiliate": "i-wanna-sleep",
   "editorialNote": "Este artigo apresenta informações públicas do site oficial da I Wanna Sleep e da regulamentação da Anvisa sobre melatonina como suplemento alimentar. Não foi realizada avaliação pessoal do produto e este conteúdo não substitui orientação médica ou nutricional. A menção ao cupom CECIEMCASA decorre de uma parceria comercial entre o Em Casa com Cecília e a I Wanna Sleep.",
   "relatedArticles": [
     {

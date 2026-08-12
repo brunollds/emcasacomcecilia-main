@@ -123,7 +123,13 @@
       "paragraphs": [
         "No site oficial, o Cobertor IWS Igloo é vendido a partir de R$ 997,90, com preço original listado em R$ 1.099,00. Os valores podem variar conforme promoções e disponibilidade de estoque no momento da compra — por ser um lançamento mais recente da marca, vale conferir a disponibilidade no site antes de finalizar o pedido. No checkout, o cupom CECIEMCASA garante 10% de desconto adicional nos produtos elegíveis. A marca também oferece um teste de 30 noites: se o produto não agradar, é possível solicitar reembolso em crédito na loja."
       ],
-      "bullets": []
+      "bullets": [],
+      "links": [
+        {
+          "label": "Ver o cupom vigente para o Cobertor IWS Igloo",
+          "href": "/cupons/i-wanna-sleep"
+        }
+      ]
     },
     {
       "heading": "Como lavar e cuidar do cobertor",
@@ -153,6 +159,7 @@
     "url": "https://www.iwannasleep.com.br/products/cobertor-iws-igloo"
   },
   "coupon": "CECIEMCASA",
+  "affiliate": "i-wanna-sleep",
   "youtubeUrl": "https://www.youtube.com/shorts/BlBbtv-VuL8",
   "editorialNote": "Este artigo apresenta dados técnicos e de preço baseados em informações públicas do site oficial da I Wanna Sleep, além das primeiras impressões em vídeo. O produto foi recebido por meio da parceria entre o Em Casa com Cecília e a marca, mas ainda não passou por um período de uso suficiente para uma avaliação pessoal completa. O cupom CECIEMCASA é oferecido por meio dessa mesma parceria comercial.",
   "relatedArticles": [

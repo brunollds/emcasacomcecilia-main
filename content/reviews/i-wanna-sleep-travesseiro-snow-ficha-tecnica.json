@@ -61,6 +61,12 @@
         "No checkout, insira o cupom CECIEMCASA para garantir 10% de desconto no valor do produto.",
         "Escolha a forma de pagamento e finalize a compra.",
         "Guarde o número do pedido e acompanhe a entrega pela ferramenta de rastreamento."
+      ],
+      "links": [
+        {
+          "label": "Conferir o desconto disponível para o IWS Snow",
+          "href": "/cupons/i-wanna-sleep"
+        }
       ]
     },
     {
@@ -91,6 +97,7 @@
     "url": "https://www.iwannasleep.com.br/"
   },
   "coupon": "CECIEMCASA",
+  "affiliate": "i-wanna-sleep",
   "editorialNote": "Este artigo apresenta dados técnicos e de preço baseados em informações públicas do site oficial da I Wanna Sleep. Não foi realizada nenhuma avaliação pessoal do produto, pois o item ainda não foi recebido. O cupom CECIEMCASA é oferecido por meio de uma parceria comercial entre o Em Casa com Cecília e a marca.",
   "relatedArticles": [
     {
