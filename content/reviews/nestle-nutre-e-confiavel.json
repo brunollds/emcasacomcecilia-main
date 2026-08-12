@@ -76,7 +76,13 @@
       "paragraphs": [
         "O Em Casa com Cecília possui parceria comercial com a Nestlé Nutre. Através dessa parceria, o cupom CECI pode conceder 5% de desconto no carrinho em produtos elegíveis do site oficial (exceto fórmulas infantis especiais como Alfamino e Alfaré, conforme regulamento da marca). As condições de desconto, validade e frete dependem das regras vigentes no checkout."
       ],
-      "bullets": []
+      "bullets": [],
+      "links": [
+        {
+          "label": "Consultar regras atuais do cupom Nestlé Nutre",
+          "href": "/cupons/nutren"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",

@@ -76,7 +76,13 @@
         "Os produtos da linha Nestlé Nutre podem ser adquiridos no site oficial da marca. Os preços informados neste guia são referenciais (consultados em agosto de 2026) e podem oscilar conforme campanhas promocionais e frete.",
         "No checkout, o consumidor pode testar o cupom CECI para obter 5% de desconto em produtos elegíveis (com exceção de Alfamino e Alfaré, conforme o regulamento da marca). Recomenda-se ler o rótulo completo de cada produto antes de iniciar o uso."
       ],
-      "bullets": []
+      "bullets": [],
+      "links": [
+        {
+          "label": "Ver o cupom disponível para produtos Nutren",
+          "href": "/cupons/nutren"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",

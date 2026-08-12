@@ -72,7 +72,13 @@
         "O Nutren Senior Zero Lactose pode ser adquirido diretamente no site oficial da Nestlé Nutre. No checkout, o consumidor pode testar o cupom CECI para obter 5% de desconto sobre os produtos elegíveis da compra (o cupom não se aplica a Alfamino e Alfaré, conforme regulamento da marca).",
         "O valor do frete é calculado separadamente no checkout. O desconto promocional do cupom CECI depende de regras de elegibilidade e não é acumulável com outros cupons simultâneos na mesma transação."
       ],
-      "bullets": []
+      "bullets": [],
+      "links": [
+        {
+          "label": "Conferir condições vigentes do cupom CECI",
+          "href": "/cupons/nutren"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
