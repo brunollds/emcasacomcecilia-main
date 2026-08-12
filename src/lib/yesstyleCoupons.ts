@@ -54,20 +54,23 @@ export const YESSTYLE_COUPONS_FACTUAL: YesStyleOffer[] = [
     regions: ['GLOBAL'],
   },
   {
-    id: 'earlybts-promo',
-    code: 'EARLYBTS',
+    id: 'btshaul26-promo',
+    code: 'BTSHAUL26',
     type: 'coupon',
-    discount: { kind: 'percentage', value: 15 },
-    verifiedAt: '2026-08-05',
-    recheckBy: '2026-08-31',
-    // Termos gerais para cupons de 96 horas: uma campanha por vez, sem pedido mínimo.
-    officialSourceUrl: 'https://www.yesstyle.com/en/help/section.html/hsi.1893',
+    discount: { kind: 'text', label: '8–15% OFF' },
+    startsAt: '2026-08-11',
+    expiresAt: '2026-08-13',
+    verifiedAt: '2026-08-11',
+    // Termos oficiais (help hsi.2843): promoção de 11/08/2026 00:00 GMT a 13/08/2026 23:59 GMT.
+    officialSourceUrl: 'https://www.yesstyle.com/en/help/section.html/hsi.2843',
     affiliateUrl: 'https://ystyle.co/rQYQv',
     eligibility: [
-      '15% OFF em qualquer pedido elegível',
+      '8% OFF em pedidos a partir de US$ 79',
+      '10% OFF em pedidos a partir de US$ 149',
+      '15% OFF em pedidos a partir de US$ 199',
     ],
     restrictions: [
-      'Vigência e produtos elegíveis devem ser confirmados no checkout da YesStyle.',
+      'Válido até 13/08/2026 às 23:59 GMT para produtos elegíveis.',
       'Use no campo Coupon Code; CECILIA010 continua no campo Reward Code.',
     ],
     status: 'active',
