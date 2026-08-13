@@ -1,4 +1,5 @@
 import { brandLinks, offers, type Offer } from '@/lib/data';
+import { isAllowedImageHost } from '@/lib/imageHosts.mjs';
 
 type DicasPost = {
   slug?: string;
@@ -55,7 +56,7 @@ function normalizeDicasPost(post: DicasPost, index: number): Offer | null {
     discount,
     store: post.loja || 'Dicas da Cecília',
     url: post.url,
-    image: post.imagem,
+    image: isAllowedImageHost(post.imagem) ? post.imagem : undefined,
   };
 }
 
