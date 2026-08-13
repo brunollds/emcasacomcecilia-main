@@ -53,6 +53,9 @@ convergência desses sinais, não o dispatch.
 
 ### Inspeção somente leitura
 
+O environment `production-observe` exige aprovação de `brunollds`, não permite bypass administrativo e
+aceita somente a branch `main`. Ele precisa continuar protegido antes de qualquer execução.
+
 ```bash
 gh workflow run hostinger-wire-probe.yml \
   --repo brunollds/emcasacomcecilia-main --ref main \

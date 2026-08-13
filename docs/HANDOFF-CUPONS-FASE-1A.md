@@ -300,7 +300,8 @@ pode ser atribuído a um SHA pelo `BUILD_ID` aleatório isoladamente.
 
 O workflow agora contém apenas `CAPTURE_ONLY`; build local, archive e dispatch foram removidos.
 O teste `test:hostinger-wire` afirma essa fronteira diretamente no YAML e também prova que o fluxo
-SSH antigo está arquivado fora de `.github/workflows/`.
+SSH antigo está arquivado fora de `.github/workflows/`. O environment `production-observe` foi criado antes
+do merge com reviewer obrigatório `brunollds`, bypass administrativo desabilitado e branch policy `main`.
 
 **Captura somente leitura concluída:** o run `31514487153`, em 11/08/2026, terminou com sucesso
 em `CAPTURE_ONLY`; build, archive e `Execute exact managed wire` ficaram `skipped`. O artefato
