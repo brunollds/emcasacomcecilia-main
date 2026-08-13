@@ -4,13 +4,13 @@
   "title": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Teste Real na Cor Terracota",
   "type": "Review de Produto",
   "reviewKind": "product",
-  "draft": true,
+  "draft": false,
   "description": "Review completo e pessoal da cafeteira Dolce Gusto Mini Me 2.0 na cor Terracota: uso na bancada de trabalho, preparo de Lungo e Matinal, tempo de aquecimento e detalhes práticos.",
   "seoTitle": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Review Real Terracota",
   "metaDescription": "Review da Dolce Gusto Mini Me 2.0 Terracota: veja o novo botão único, preparo de Lungo e Matinal, aquecimento em 20-30s, modo Eco e prós e contras.",
-  "publishedAt": "Draft",
-  "publishedAtISO": "2026-08-11",
-  "updatedAt": "2026-08-11",
+  "publishedAt": "12 de agosto de 2026",
+  "publishedAtISO": "2026-08-12",
+  "updatedAt": "2026-08-12",
   "image": "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-1.webp",
   "imageAlt": "Bruno com a cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 em gravação para o canal Em Casa com Cecília",
   "imageFit": "square",
@@ -178,5 +178,6 @@
       "title": "Cápsulas Starbucks na Dolce Gusto: guia dos sabores"
     }
   ],
-  "youtubeUrl": "https://www.youtube.com/shorts/RGM_61Heclo"
+  "youtubeUrl": "https://www.youtube.com/shorts/RGM_61Heclo",
+  "isNew": true
 }

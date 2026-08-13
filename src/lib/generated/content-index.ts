@@ -29185,6 +29185,7 @@ export const reviewsData: unknown[] = [
       "url": "/cupons/damie"
     },
     "coupon": "CECILIA12",
+    "affiliate": "damie",
     "relatedArticles": [
       {
         "slug": "cupom-cecilia12-damie-como-usar",
@@ -29476,6 +29477,7 @@ export const reviewsData: unknown[] = [
       "url": "https://ystyle.co/rQYQv"
     },
     "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
     "notes": [
       {
         "label": "Dica da Cecília",
@@ -29553,6 +29555,7 @@ export const reviewsData: unknown[] = [
       "sponsored": false
     },
     "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
     "editorialNote": "Este artigo contém links de afiliado. Ao acessar a YesStyle pelos nossos links ou usar o código de influenciadora CECILIA010, podemos receber uma comissão, sem custo adicional para você.",
     "relatedArticles": [
       {
@@ -29938,6 +29941,7 @@ export const reviewsData: unknown[] = [
       "url": "https://ystyle.co/rQYQv"
     },
     "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
     "notes": [
       {
         "label": "Cecília's tip",
@@ -30183,6 +30187,7 @@ export const reviewsData: unknown[] = [
       "url": "https://ystyle.co/rQYQv"
     },
     "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
     "notes": [
       {
         "label": "Consejo de Cecília",
@@ -30429,6 +30434,7 @@ export const reviewsData: unknown[] = [
       "url": "https://ystyle.co/rQYQv"
     },
     "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
     "notes": [
       {
         "label": "Le conseil de Cecília",
@@ -30674,6 +30680,7 @@ export const reviewsData: unknown[] = [
       "url": "https://ystyle.co/rQYQv"
     },
     "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
     "notes": [
       {
         "label": "Cecílias Tipp",
@@ -30710,6 +30717,7 @@ export const reviewsData: unknown[] = [
       "최종 결제는 미국 달러로 청구됨 (은행 환율에 따라 달라질 수 있음)"
     ],
     "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
     "notes": [
       {
         "label": "세실리아의 팁",
@@ -30791,6 +30799,7 @@ export const reviewsData: unknown[] = [
       "最終決済は米ドル請求となります（カード会社の換算レートに依存）"
     ],
     "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
     "notes": [
       {
         "label": "セシリアのヒント",
@@ -30871,6 +30880,7 @@ export const reviewsData: unknown[] = [
       "最終結帳以美元計價（取決於銀行匯率）"
     ],
     "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
     "notes": [
       {
         "label": "西西莉亞的小貼士",
@@ -30951,6 +30961,7 @@ export const reviewsData: unknown[] = [
       "最终结账以美元计价（取决于银行汇率）"
     ],
     "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
     "notes": [
       {
         "label": "西西莉亚的小贴士",
@@ -31166,6 +31177,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "coupon": "CECILIA12",
+    "affiliate": "damie",
     "cta": {
       "text": "Use o cupom CECILIA12 no checkout da Damie para receber 12% de desconto.",
       "label": "Usar cupom na Damie",
@@ -31727,6 +31739,7 @@ export const reviewsData: unknown[] = [
       "url": "https://damie.emcasacomcecilia.com"
     },
     "coupon": "CECILIA12",
+    "affiliate": "damie",
     "contentSections": [
       {
         "heading": "A História da Damie: Inovação e Qualidade em Móveis de Alto Padrão",
@@ -31892,6 +31905,7 @@ export const reviewsData: unknown[] = [
       "url": "https://damie.emcasacomcecilia.com"
     },
     "coupon": "CECILIA12",
+    "affiliate": "damie",
     "contentSections": [
       {
         "heading": "A História da Damie: Inovação e Qualidade em Móveis de Alto Padrão",
@@ -32068,6 +32082,7 @@ export const reviewsData: unknown[] = [
       "url": "https://damie.emcasacomcecilia.com"
     },
     "coupon": "CECILIA12",
+    "affiliate": "damie",
     "contentSections": [
       {
         "heading": "A História da Damie: Inovação e Qualidade em Móveis de Alto Padrão",
@@ -32249,6 +32264,7 @@ export const reviewsData: unknown[] = [
       "url": "https://damie.emcasacomcecilia.com"
     },
     "coupon": "CECILIA12",
+    "affiliate": "damie",
     "contentSections": [
       {
         "heading": "A História da Damie: Inovação e Qualidade em Móveis Reclináveis",
@@ -32979,6 +32995,12 @@ export const reviewsData: unknown[] = [
           "Desconto: 10% OFF em todo o site oficial",
           "Elegibilidade: Válido para travesseiros (como o IWS Snow), colchões, lençóis, sleepwear e acessórios",
           "Onde aplicar: No carrinho/checkout do site oficial iwannasleep.com.br"
+        ],
+        "links": [
+          {
+            "label": "Conferir regras atualizadas do cupom I Wanna Sleep",
+            "href": "/cupons/i-wanna-sleep"
+          }
         ]
       },
       {
@@ -33063,6 +33085,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.iwannasleep.com.br/"
     },
     "coupon": "CECIEMCASA",
+    "affiliate": "i-wanna-sleep",
     "editorialNote": "O cupom CECIEMCASA é fruto de uma parceria de afiliados oficial entre o Em Casa com Cecília e a I Wanna Sleep. Ao comprar por meio de nossas indicações, você ajuda a manter nosso trabalho editorial sem qualquer custo adicional. Os preços e cupons estão sujeitos a alterações pelas marcas parceiras.",
     "relatedArticles": []
   },
@@ -33371,7 +33394,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Em Casa com Cecília mantém uma parceria comercial ativa com a I Wanna Sleep. Por meio dessa parceria, os leitores podem utilizar o cupom CECIEMCASA para obter 10% de desconto nos produtos elegíveis do site oficial, conforme as regras vigentes no checkout. A utilização do cupom não gera custo adicional para o leitor — o desconto é concedido pela marca — e funciona como uma forma de apoiar o projeto editorial."
         ],
-        "bullets": []
+        "bullets": [],
+        "links": [
+          {
+            "label": "Consultar a página de cupom da I Wanna Sleep",
+            "href": "/cupons/i-wanna-sleep"
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
@@ -33394,6 +33423,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.iwannasleep.com.br/"
     },
     "coupon": "CECIEMCASA",
+    "affiliate": "i-wanna-sleep",
     "editorialNote": "Este artigo é de natureza editorial e analítica. A menção ao cupom CECIEMCASA decorre de uma parceria comercial entre o Em Casa com Cecília e a I Wanna Sleep. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca.",
     "relatedArticles": [
       {
@@ -33469,6 +33499,12 @@ export const reviewsData: unknown[] = [
           "No checkout, insira o cupom CECIEMCASA para garantir 10% de desconto no valor do produto.",
           "Escolha a forma de pagamento e finalize a compra.",
           "Guarde o número do pedido e acompanhe a entrega pela ferramenta de rastreamento."
+        ],
+        "links": [
+          {
+            "label": "Conferir o desconto disponível para o IWS Snow",
+            "href": "/cupons/i-wanna-sleep"
+          }
         ]
       },
       {
@@ -33499,6 +33535,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.iwannasleep.com.br/"
     },
     "coupon": "CECIEMCASA",
+    "affiliate": "i-wanna-sleep",
     "editorialNote": "Este artigo apresenta dados técnicos e de preço baseados em informações públicas do site oficial da I Wanna Sleep. Não foi realizada nenhuma avaliação pessoal do produto, pois o item ainda não foi recebido. O cupom CECIEMCASA é oferecido por meio de uma parceria comercial entre o Em Casa com Cecília e a marca.",
     "relatedArticles": [
       {
@@ -33636,7 +33673,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "No site oficial, o Cobertor IWS Igloo é vendido a partir de R$ 997,90, com preço original listado em R$ 1.099,00. Os valores podem variar conforme promoções e disponibilidade de estoque no momento da compra — por ser um lançamento mais recente da marca, vale conferir a disponibilidade no site antes de finalizar o pedido. No checkout, o cupom CECIEMCASA garante 10% de desconto adicional nos produtos elegíveis. A marca também oferece um teste de 30 noites: se o produto não agradar, é possível solicitar reembolso em crédito na loja."
         ],
-        "bullets": []
+        "bullets": [],
+        "links": [
+          {
+            "label": "Ver o cupom vigente para o Cobertor IWS Igloo",
+            "href": "/cupons/i-wanna-sleep"
+          }
+        ]
       },
       {
         "heading": "Como lavar e cuidar do cobertor",
@@ -33666,6 +33709,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.iwannasleep.com.br/products/cobertor-iws-igloo"
     },
     "coupon": "CECIEMCASA",
+    "affiliate": "i-wanna-sleep",
     "youtubeUrl": "https://www.youtube.com/shorts/BlBbtv-VuL8",
     "editorialNote": "Este artigo apresenta dados técnicos e de preço baseados em informações públicas do site oficial da I Wanna Sleep, além das primeiras impressões em vídeo. O produto foi recebido por meio da parceria entre o Em Casa com Cecília e a marca, mas ainda não passou por um período de uso suficiente para uma avaliação pessoal completa. O cupom CECIEMCASA é oferecido por meio dessa mesma parceria comercial.",
     "relatedArticles": [
@@ -33679,6 +33723,7 @@ export const reviewsData: unknown[] = [
     "id": 223,
     "slug": "cupom-ceci-nestle-nutre-como-usar",
     "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 5%",
+    "seoTitle": "Como usar o código CECI na Nestlé Nutre: passo a passo",
     "type": "Guia & Cupons",
     "reviewKind": "guia",
     "author": {
@@ -33932,7 +33977,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Em Casa com Cecília possui parceria comercial com a Nestlé Nutre. Através dessa parceria, o cupom CECI pode conceder 5% de desconto no carrinho em produtos elegíveis do site oficial (exceto fórmulas infantis especiais como Alfamino e Alfaré, conforme regulamento da marca). As condições de desconto, validade e frete dependem das regras vigentes no checkout."
         ],
-        "bullets": []
+        "bullets": [],
+        "links": [
+          {
+            "label": "Consultar regras atuais do cupom Nestlé Nutre",
+            "href": "/cupons/nutren"
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
@@ -34046,7 +34097,13 @@ export const reviewsData: unknown[] = [
           "Os produtos da linha Nestlé Nutre podem ser adquiridos no site oficial da marca. Os preços informados neste guia são referenciais (consultados em agosto de 2026) e podem oscilar conforme campanhas promocionais e frete.",
           "No checkout, o consumidor pode testar o cupom CECI para obter 5% de desconto em produtos elegíveis (com exceção de Alfamino e Alfaré, conforme o regulamento da marca). Recomenda-se ler o rótulo completo de cada produto antes de iniciar o uso."
         ],
-        "bullets": []
+        "bullets": [],
+        "links": [
+          {
+            "label": "Ver o cupom disponível para produtos Nutren",
+            "href": "/cupons/nutren"
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
@@ -34163,7 +34220,13 @@ export const reviewsData: unknown[] = [
           "O Nutren Senior Zero Lactose pode ser adquirido diretamente no site oficial da Nestlé Nutre. No checkout, o consumidor pode testar o cupom CECI para obter 5% de desconto sobre os produtos elegíveis da compra (o cupom não se aplica a Alfamino e Alfaré, conforme regulamento da marca).",
           "O valor do frete é calculado separadamente no checkout. O desconto promocional do cupom CECI depende de regras de elegibilidade e não é acumulável com outros cupons simultâneos na mesma transação."
         ],
-        "bullets": []
+        "bullets": [],
+        "links": [
+          {
+            "label": "Conferir condições vigentes do cupom CECI",
+            "href": "/cupons/nutren"
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
@@ -35088,6 +35151,7 @@ export const reviewsData: unknown[] = [
       "sponsored": false
     },
     "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
     "editorialNote": "This article contains affiliate links. When you visit YesStyle through our links or use the influencer code CECILIA010, we may earn a commission at no extra cost to you.",
     "relatedArticles": [
       {
@@ -35298,6 +35362,7 @@ export const reviewsData: unknown[] = [
       "sponsored": false
     },
     "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
     "editorialNote": "Este artículo contiene enlaces de afiliado. Al acceder a YesStyle mediante nuestros enlaces o usar el código CECILIA010, podemos recibir una comisión sin coste adicional para ti.",
     "relatedArticles": [
       {
@@ -35508,6 +35573,7 @@ export const reviewsData: unknown[] = [
       "sponsored": false
     },
     "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
     "editorialNote": "Cet article contient des liens d'affiliation. Lorsque vous achetez via nos liens ou utilisez le code CECILIA010, nous pouvons recevoir une commission sans coût supplémentaire pour vous.",
     "relatedArticles": [
       {
@@ -35718,6 +35784,7 @@ export const reviewsData: unknown[] = [
       "sponsored": false
     },
     "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
     "editorialNote": "Dieser Artikel enthält Affiliate-Links. Wenn du über unsere Links einkaufst oder den Code CECILIA010 nutzt, erhalten wir möglicherweise eine Provision ohne Aufpreis für dich.",
     "relatedArticles": [
       {
@@ -35928,6 +35995,7 @@ export const reviewsData: unknown[] = [
       "sponsored": false
     },
     "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
     "editorialNote": "본 문서에는 제휴 링크가 포함되어 있습니다. 링크를 통해 구매하거나 CECILIA010 코드를 사용하실 경우 소정의 수수료를 지급받을 수 있습니다.",
     "relatedArticles": [
       {
@@ -36138,6 +36206,7 @@ export const reviewsData: unknown[] = [
       "sponsored": false
     },
     "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
     "editorialNote": "本記事にはアフィリエイトリンクが含まれています。リンク経由でのご購入やCECILIA010コードのご利用により、当サイトが報酬を得る場合があります。",
     "relatedArticles": [
       {
@@ -36348,6 +36417,7 @@ export const reviewsData: unknown[] = [
       "sponsored": false
     },
     "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
     "editorialNote": "本文包含贊助聯盟連結。如果您通過我們的連結購買或使用 CECILIA010 代碼，我們可能會獲得佣金，對您無需支付額外費用。",
     "relatedArticles": [
       {
@@ -36558,6 +36628,7 @@ export const reviewsData: unknown[] = [
       "sponsored": false
     },
     "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
     "editorialNote": "本文包含赞助联盟链接。如果您通过我们的链接购买或使用 CECILIA010 代码，我们可能会获得佣金，对您无需支付额外费用。",
     "relatedArticles": [
       {
@@ -37638,6 +37709,12 @@ export const reviewsData: unknown[] = [
           "Aqui entra uma pegadinha importante. A política oficial do Sleeptest que capturamos da central de ajuda não lista cobertores como categoria — ela cobre colchões, travesseiros e pillow tops.",
           "Mas produtos específicos como o Cobertor IWS Igloo (que a gente tem aqui em casa) anunciam suas próprias políticas de teste na página do produto. No caso do Igloo, a marca anuncia \"teste de 30 noites com reembolso em crédito\".",
           "A lição: não suponha que cobertor segue a regra de travesseiro só porque parecem similares. Cada produto tem sua política anunciada na página. Confira lá antes de adicionar ao carrinho — e se tiver dúvida, mande mensagem pro atendimento da marca para confirmar antes de comprar."
+        ],
+        "links": [
+          {
+            "label": "Ver benefícios vigentes para compras na I Wanna Sleep",
+            "href": "/cupons/i-wanna-sleep"
+          }
         ]
       },
       {
@@ -38860,6 +38937,12 @@ export const reviewsData: unknown[] = [
           "Pode fazer sentido para quem procura uma máscara térmica reutilizável.",
           "Verifique a disponibilidade, o preço e a política de troca antes de comprar.",
           "Não deve ser usada como substituta de medicamentos ou acompanhamento de saúde."
+        ],
+        "links": [
+          {
+            "label": "Ver cupom atual da I Wanna Sleep",
+            "href": "/cupons/i-wanna-sleep"
+          }
         ]
       },
       {
@@ -38981,7 +39064,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Em Casa com Cecília mantém uma parceria comercial ativa com a I Wanna Sleep. Por meio dessa parceria, os leitores podem utilizar o cupom CECIEMCASA para obter 10% de desconto nos produtos elegíveis do site oficial. A utilização do cupom não gera custo adicional para o leitor."
         ],
-        "bullets": []
+        "bullets": [],
+        "links": [
+          {
+            "label": "Ver condições atuais do desconto I Wanna Sleep",
+            "href": "/cupons/i-wanna-sleep"
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
@@ -39001,6 +39090,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.iwannasleep.com.br/"
     },
     "coupon": "CECIEMCASA",
+    "affiliate": "i-wanna-sleep",
     "editorialNote": "Este artigo é uma análise de dados públicos do Reclame Aqui e do site institucional da I Wanna Sleep, consultados em agosto de 2026. A nota do Reclame Aqui é calculada em janela móvel e pode mudar — consulte o perfil oficial antes de comprar. A menção ao cupom CECIEMCASA decorre de uma parceria comercial entre o Em Casa com Cecília e a I Wanna Sleep.",
     "relatedArticles": [
       {
@@ -39095,7 +39185,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Em Casa com Cecília mantém uma parceria comercial com a I Wanna Sleep. O cupom CECIEMCASA garante 10% de desconto nos produtos elegíveis do site oficial, incluindo a linha de melatonina, aplicado diretamente no checkout."
         ],
-        "bullets": []
+        "bullets": [],
+        "links": [
+          {
+            "label": "Consultar o cupom para a linha de melatonina IWS",
+            "href": "/cupons/i-wanna-sleep"
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
@@ -39116,6 +39212,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.iwannasleep.com.br/"
     },
     "coupon": "CECIEMCASA",
+    "affiliate": "i-wanna-sleep",
     "editorialNote": "Este artigo apresenta informações públicas do site oficial da I Wanna Sleep e da regulamentação da Anvisa sobre melatonina como suplemento alimentar. Não foi realizada avaliação pessoal do produto e este conteúdo não substitui orientação médica ou nutricional. A menção ao cupom CECIEMCASA decorre de uma parceria comercial entre o Em Casa com Cecília e a I Wanna Sleep.",
     "relatedArticles": [
       {
@@ -39134,13 +39231,13 @@ export const reviewsData: unknown[] = [
     "title": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Teste Real na Cor Terracota",
     "type": "Review de Produto",
     "reviewKind": "product",
-    "draft": true,
+    "draft": false,
     "description": "Review completo e pessoal da cafeteira Dolce Gusto Mini Me 2.0 na cor Terracota: uso na bancada de trabalho, preparo de Lungo e Matinal, tempo de aquecimento e detalhes práticos.",
     "seoTitle": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Review Real Terracota",
     "metaDescription": "Review da Dolce Gusto Mini Me 2.0 Terracota: veja o novo botão único, preparo de Lungo e Matinal, aquecimento em 20-30s, modo Eco e prós e contras.",
-    "publishedAt": "Draft",
-    "publishedAtISO": "2026-08-11",
-    "updatedAt": "2026-08-11",
+    "publishedAt": "12 de agosto de 2026",
+    "publishedAtISO": "2026-08-12",
+    "updatedAt": "2026-08-12",
     "image": "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-1.webp",
     "imageAlt": "Bruno com a cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 em gravação para o canal Em Casa com Cecília",
     "imageFit": "square",
@@ -39308,6 +39405,7 @@ export const reviewsData: unknown[] = [
         "title": "Cápsulas Starbucks na Dolce Gusto: guia dos sabores"
       }
     ],
-    "youtubeUrl": "https://www.youtube.com/shorts/RGM_61Heclo"
+    "youtubeUrl": "https://www.youtube.com/shorts/RGM_61Heclo",
+    "isNew": true
   }
 ];
