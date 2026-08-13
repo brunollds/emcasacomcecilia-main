@@ -1,7 +1,7 @@
 import { Hero } from '@/components/sections/Hero';
-import { MainCategories } from '@/components/sections/MainCategories';
-import { Categories } from '@/components/sections/Categories';
 import { CouponStrip } from '@/components/sections/CouponStrip';
+import { FeaturedReviewGuides } from '@/components/sections/FeaturedReviewGuides';
+import { ReviewCategoryLinks } from '@/components/sections/ReviewCategoryLinks';
 import { PopularRecipes } from '@/components/sections/PopularRecipes';
 import { MyLinks } from '@/components/sections/MyLinks';
 import { ReviewsShowcase } from '@/components/sections/ReviewsShowcase';
@@ -9,6 +9,8 @@ import { Offers } from '@/components/sections/Offers';
 import { CTA } from '@/components/sections/CTA';
 import { getFeaturedOffers } from '@/lib/dicasOffers';
 import { getPopularRecipeSlugs } from '@/lib/popularRecipeStats';
+import { publishedReviews } from '@/lib/data';
+import { selectHomeReviewDiscovery, toHomeReviewCard } from '@/lib/reviewDiscovery';
 
 export const revalidate = 300;
 
@@ -33,6 +35,9 @@ export const metadata = {
 };
 
 export default async function Home() {
+  const discovery = selectHomeReviewDiscovery(publishedReviews);
+  const featuredReviewGuides = discovery.featured.map(toHomeReviewCard);
+  const recentReviewGuides = discovery.recent.map(toHomeReviewCard);
   const [featuredOffers, popularRecipeSlugs] = await Promise.all([
     getFeaturedOffers(),
     getPopularRecipeSlugs(),
@@ -44,29 +49,27 @@ export default async function Home() {
         {/* 1. Cupons ativos em faixa compacta */}
         <CouponStrip />
 
-        {/* 2. 4 Cards Retangulares de Categorias Principais */}
-        <MainCategories />
-
-        {/* 3. Categorias Minimalistas em linha horizontal */}
-        <Categories />
-
-        {/* 4. Hero - Apresentação principal */}
+        {/* 2. Hero - Apresentação principal */}
         <Hero />
       </div>
 
-      {/* 5. Reviews & Análises */}
-      <ReviewsShowcase />
+      {/* 3. Destaques e atalhos de Guias & Análises */}
+      <FeaturedReviewGuides items={featuredReviewGuides} />
+      <ReviewCategoryLinks />
 
-      {/* 6. Receitas Populares */}
+      {/* 4. Publicações recentes */}
+      <ReviewsShowcase items={recentReviewGuides} />
+
+      {/* 5. Receitas Populares */}
       <PopularRecipes popularSlugs={popularRecipeSlugs} />
 
-      {/* 7. Universo da Cecília */}
+      {/* 6. Universo da Cecília */}
       <MyLinks />
 
-      {/* 8. Ofertas */}
+      {/* 7. Ofertas */}
       <Offers items={featuredOffers} />
 
-      {/* 9. CTA YouTube */}
+      {/* 8. CTA YouTube */}
       <CTA />
     </div>
   );
