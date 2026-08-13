@@ -114,11 +114,6 @@ export const localVideoMetadata = {
     reviewSlug: 'poltrona-damie-e-boa',
     reason: 'Demonstração complementar; a página já possui vídeo principal do YouTube.',
   },
-  '/images/reviews/iwannasleep/cobertor-igloo-1.mp4': {
-    classification: 'secondary',
-    reviewSlug: 'i-wanna-sleep-cobertor-igloo-ficha-tecnica',
-    reason: 'Loop complementar; a página já possui vídeo principal do YouTube.',
-  },
   '/videos/reviews/dolcegusto/genio-s-touch-loop-2.mp4': {
     classification: 'secondary',
     reviewSlug: 'dolce-gusto-genio-s-touch-vale-a-pena',

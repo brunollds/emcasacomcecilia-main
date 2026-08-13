@@ -33597,11 +33597,6 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Mãos tocando os dois lados do Cobertor IWS Igloo, um com toque frio e outro com toque quente",
     "imageFit": "cover",
     "imageAspect": "square",
-    "video": {
-      "mp4": "/images/reviews/iwannasleep/cobertor-igloo-1.mp4",
-      "webm": "/images/reviews/iwannasleep/cobertor-igloo-1.webm",
-      "poster": "/images/reviews/iwannasleep/cobertor-igloo-1-poster.jpg"
-    },
     "pros": [],
     "cons": [],
     "gallery": [
