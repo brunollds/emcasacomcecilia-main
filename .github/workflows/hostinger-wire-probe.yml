@@ -86,11 +86,15 @@ jobs:
             echo
             echo 'PUBLIC_ATTESTATION'
             curl -4 --fail --silent --show-error --dump-header - \
+              --connect-timeout 10 --max-time 25 \
+              --retry 3 --retry-delay 3 --retry-all-errors \
               -H 'Cache-Control: no-cache' \
               "https://$HOSTINGER_DOMAIN/api/release?cb=pre-$GITHUB_RUN_ID-$(date +%s)"
             echo
             echo 'PUBLIC_HOME_HEADERS'
             curl -4 --fail --silent --show-error --dump-header - \
+              --connect-timeout 10 --max-time 25 \
+              --retry 3 --retry-delay 3 --retry-all-errors \
               --output artifacts/pre-deploy-home.html \
               -H 'Cache-Control: no-cache' \
               "https://$HOSTINGER_DOMAIN/?cb=pre-$GITHUB_RUN_ID-$(date +%s)"
@@ -156,6 +160,8 @@ jobs:
               esac
               echo "build_id=$build_id"
               curl -4 --fail --silent --show-error --dump-header - \
+                --connect-timeout 10 --max-time 25 \
+                --retry 3 --retry-delay 3 --retry-all-errors \
                 --output "artifacts/public-build-$build_id.js" \
                 -H 'Cache-Control: no-cache' \
                 "https://$HOSTINGER_DOMAIN/_next/static/$build_id/_buildManifest.js?cb=pre-$GITHUB_RUN_ID"
