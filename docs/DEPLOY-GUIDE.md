@@ -47,6 +47,13 @@ attestation pública. O G1 futuro só poderá declarar sucesso quando exigir sim
 2. `/api/release` com SHA e UUID exatos;
 3. `/_next/static/<sha>/_buildManifest.js` acessível.
 
+O Gate 1 mede cedo uma reconstrução da árvore commitada, usando a mesma forma de archive do
+`deploy:prepare`, e falha a partir de **45.000.000 bytes**. Isso é alerta preventivo, não prova do
+artefato enviado. O G1 definitivo deve executar `check:archive-size` sobre o **archive final exato**,
+depois de inserir sua identidade e imediatamente antes do upload. Em resposta ambígua ao POST, deve
+paginar o inventário do provider e reconciliar por `archive_name` exato antes de qualquer repetição;
+zero ou múltiplas correspondências permanecem fail-loud.
+
 Estado terminal do provider não basta. Declarar o release saudável exige também série pública estável,
 smoke de conteúdo e inventário de todos os workers via `CAPTURE_ONLY`. O marco da medição é a
 convergência desses sinais, não o dispatch.

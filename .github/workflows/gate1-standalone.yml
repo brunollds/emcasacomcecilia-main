@@ -35,12 +35,9 @@ jobs:
           ARCHIVE_MAX_BYTES: '45000000'
         run: |
           set -euo pipefail
-          target_sha=$(git rev-parse HEAD)
-          mkdir -p .archive-check/emcasacomcecilia
-          TARGET_SHA="$target_sha" node -e 'const fs=require("node:fs");fs.writeFileSync(".archive-check/emcasacomcecilia/release-meta.json",JSON.stringify({target_sha:process.env.TARGET_SHA,deploy_uuid:"00000000-0000-4000-8000-000000000001"})+"\n")'
-          git archive --format=tar --prefix=emcasacomcecilia/ --output=.archive-check/source.tar HEAD
-          tar -rf .archive-check/source.tar -C .archive-check emcasacomcecilia/release-meta.json
-          gzip -9 .archive-check/source.tar
+          mkdir -p .archive-check
+          git archive --format=tar.gz --prefix=emcasacomcecilia/ \
+            --output=.archive-check/source.tar.gz HEAD
           npm run check:archive-size -- .archive-check/source.tar.gz
 
       - run: npm ci
