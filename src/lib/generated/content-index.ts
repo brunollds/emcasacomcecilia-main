@@ -39271,7 +39271,7 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-08-12",
     "image": "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-1.webp",
     "imageAlt": "Bruno com a cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 em gravação para o canal Em Casa com Cecília",
-    "imageFit": "contain",
+    "imageFit": "cover",
     "productSpec": [
       {
         "key": "Marca",
