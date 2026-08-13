@@ -1,20 +1,19 @@
 # Guia de Deploy — emcasacomcecilia.com
 
-> **Estado operacional desde 11/08/2026:** o caminho atual de produção é
-> `.github/workflows/hostinger-wire-probe.yml`. A primeira implantação, run `31521080009`,
-> publicou `c41e914` com identidade compilada, attestation dinâmica exata e `BUILD_ID` estático
-> igual ao SHA. O fluxo SSH de `.github/workflows/deploy.yml` continua suspenso: o runtime efetivo
-> executa em `hbuilds/versions/<build>/nodejs`, não em `nodejs/`.
-> O modo `CAPTURE_ONLY` é somente leitura: preserva o artefato e pula build, archive e dispatch.
-> Apenas `PROBE_PRODUCTION` executa o wire e, portanto, implanta em produção.
+> **Estado operacional desde 13/08/2026:** não existe workflow de deploy executável neste
+> repositório. `hostinger-wire-probe.yml` aceita somente `CAPTURE_ONLY`, usa o environment
+> `production-observe` e não contém build, archive ou dispatch. O antigo fluxo SSH foi movido para
+> `docs/deploy-ssh-inactive.yml`, fora de `.github/workflows/`, porque operava no diretório inativo
+> `domains/.../nodejs`. Deploy temporário é somente pelo mecanismo gerenciado da Hostinger, com
+> decisão e execução supervisionadas pelo Bruno, até a aprovação do G1.
 >
 > **Postura de recuperação confirmada em 11/08/2026:** o wire gerenciado não oferece rollback
 > documentado nem retém outro `hbuild` executável no host. O histórico da API preserva registros
 > de build, não uma operação de reativação. Existe um pacote standalone legado íntegro de
 > `4a6eae0` em `releases/`, mas restaurá-lo seria uma contingência SSH manual ainda não ensaiada,
-> não rollback do fluxo gerenciado. Não executar `PROBE_PRODUCTION` supondo volta automática.
+> não rollback do fluxo gerenciado. Não reintroduzir dispatch no probe supondo volta automática.
 
-**Fluxo SSH legado (desde 16/07/2026; suspenso pelo bloqueio acima)** — o workflow `.github/workflows/deploy.yml`
+**Fluxo SSH legado (desde 16/07/2026; não executável)** — o arquivo `docs/deploy-ssh-inactive.yml`
 builda no runner (Linux, node 20, mesmo SO/glibc do host), monta o standalone e entrega por
 `scp`+`ssh` na porta 65002 (conexão direta ao host, **fora do Cloudflare**), com swap atômico,
 purge de CDN, health-check rico e auto-rollback. Provado no apex em 16/07 (runs 29471822605/29519794282).
@@ -27,8 +26,8 @@ O fluxo antigo (build gerenciado da Hostinger via MCP) fica documentado no fim c
    `sharp` (binário nativo) compilado pra plataforma errada. O CI builda em `ubuntu-22.04` (x64,
    glibc compatível com o host 2.34 — o workflow **verifica** isso por `objdump`). Build local
    Windows + scp manual continua PROIBIDO.
-2. **Nunca deployar pelo painel da Hostinger** (Node.js app → "Reimplantar"): reconstrói em node 18
-   e diverge do testado.
+2. **Usar somente o build gerenciado comprovado da Hostinger**, com source archive, identidade e attestation.
+   Não usar SSH/swap no diretório inativo nem presumir que um simples restart publica conteúdo novo.
 3. **Um deploy por vez.** Os workflows compartilham o lock `emcasa-production`, com
    `cancel-in-progress: false`; não dispare dois. Restart manual descontrolado ainda empilha
    `next-server` → 503 (ver Recuperação de 503).
@@ -38,25 +37,17 @@ O fluxo antigo (build gerenciado da Hostinger via MCP) fica documentado no fim c
 
 ## Como deployar
 
-### Caminho atual — wire gerenciado supervisionado
+### Deploy temporário — mecanismo gerenciado supervisionado
 
-```bash
-# A main precisa estar limpa, commitada e pushada.
-gh workflow run hostinger-wire-probe.yml \
-  --repo brunollds/emcasacomcecilia-main --ref main \
-  -f confirm=PROBE_PRODUCTION
-gh run watch --repo brunollds/emcasacomcecilia-main --exit-status <run-id>
-```
-
-O environment `production` exige aprovação explícita. O workflow captura o estado anterior,
-compila e testa a identidade no runner, cria um source archive menor que 50 MB, faz upload TUS,
-aciona o build gerenciado e exige simultaneamente:
+Não há comando de GitHub Actions autorizado para deploy. O operador usa o mecanismo gerenciado da
+Hostinger de forma supervisionada e registra SHA, `deploy_uuid`, build UUID, estado terminal e
+attestation pública. O G1 futuro só poderá declarar sucesso quando exigir simultaneamente:
 
 1. build Hostinger em estado `completed`;
 2. `/api/release` com SHA e UUID exatos;
 3. `/_next/static/<sha>/_buildManifest.js` acessível.
 
-Workflow verde é o gate mínimo. Declarar o release saudável exige também série pública estável,
+Estado terminal do provider não basta. Declarar o release saudável exige também série pública estável,
 smoke de conteúdo e inventário de todos os workers via `CAPTURE_ONLY`. O marco da medição é a
 convergência desses sinais, não o dispatch.
 
@@ -72,16 +63,12 @@ gh workflow run hostinger-wire-probe.yml \
 
 Publicar reviews pela central (`https://central.emcasacomcecilia.com/reviews`) → eles ficam
 "publicado (aguardando deploy)". Não usar o botão **"Deployar agora"** enquanto ele apontar para
-o workflow SSH suspenso; fazer o wire gerenciado manual acima.
+o workflow SSH suspenso. O deploy temporário exige operação supervisionada diretamente pelo mecanismo
+gerenciado da Hostinger; este guia não fornece comando automatizado enquanto o G1 estiver bloqueado.
 
 ### Fluxo SSH legado — suspenso
 
-```bash
-# conteúdo já commitado + pushado na main (o CI builda a MAIN, não a árvore local!)
-gh workflow run "Deploy emcasa (manual)" --repo brunollds/emcasacomcecilia-main --ref main \
-  -f confirm=DEPLOY -f auto_rollback=true
-gh run watch --repo brunollds/emcasacomcecilia-main --exit-status <run-id>
-```
+Não existe comando executável. O YAML histórico está em `docs/deploy-ssh-inactive.yml` somente para auditoria.
 
 ### O que o workflow SSH legado fazia (na ordem)
 
@@ -273,7 +260,7 @@ Classificação operacional:
 3. **Contingência SSH com `4a6eae0`:** material existe e está íntegro; execução e verificação ainda
    precisam de runbook próprio e autorização explícita de produção.
 
-Até esse runbook ser provado fora de uma emergência, tratar `PROBE_PRODUCTION` como uma mudança
+Até esse runbook ser provado fora de uma emergência, tratar qualquer deploy gerenciado como uma mudança
 sem rollback operacional garantido. Histórico de build não deve ser chamado de backup, e pacote
 íntegro não deve ser chamado de rollback pronto.
 

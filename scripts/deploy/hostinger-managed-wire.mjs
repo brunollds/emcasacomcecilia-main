@@ -29,6 +29,21 @@ export class ProviderHttpError extends Error {
   }
 }
 
+export class ProviderBusyError extends Error {
+  constructor(builds) {
+    const summary = builds
+      .map((build) => {
+        const uuid = UUID_RE.test(build?.uuid ?? '') ? build.uuid : 'uuid-invalido';
+        const state = ['pending', 'running'].includes(build?.state) ? build.state : 'estado-invalido';
+        return `${uuid}:${state}`;
+      })
+      .join(',');
+    super(`provider possui build ativo; dispatch bloqueado (${summary})`);
+    this.name = 'ProviderBusyError';
+    this.builds = builds;
+  }
+}
+
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
@@ -190,16 +205,35 @@ export async function triggerBuild(config, archiveName, settings) {
   return { uuid: data.uuid, state: data.state };
 }
 
-async function listBuilds(config) {
+async function listBuildPage(config, page) {
   const url = endpoint(
     config.apiBase,
     `/api/hosting/v1/accounts/${encodeURIComponent(config.username)}/websites/${encodeURIComponent(config.domain)}`
-      + '/nodejs/builds?page=1&per_page=50'
+      + `/nodejs/builds?page=${page}&per_page=50`
   );
   const data = await apiJson(url, { token: config.token, fetchImpl: config.fetchImpl });
   const builds = Array.isArray(data) ? data : data?.data;
   if (!Array.isArray(builds)) throw new Error('listagem de builds Hostinger com shape inesperado');
-  return builds;
+  const total = Array.isArray(data) ? null : data?.meta?.total;
+  return { builds, total: Number.isInteger(total) && total >= 0 ? total : null };
+}
+
+export async function listBuilds(config) {
+  const builds = [];
+  for (let page = 1; page <= 20; page++) {
+    const result = await listBuildPage(config, page);
+    builds.push(...result.builds);
+    if (result.builds.length < 50 || (result.total !== null && builds.length >= result.total)) {
+      return builds;
+    }
+  }
+  throw new Error('listagem de builds Hostinger excedeu limite defensivo de paginação');
+}
+
+export async function assertProviderIdle(config) {
+  const active = (await listBuilds(config))
+    .filter((build) => ['pending', 'running'].includes(build?.state));
+  if (active.length > 0) throw new ProviderBusyError(active);
 }
 
 export async function waitForBuild(config, buildUuid) {
@@ -289,9 +323,11 @@ export async function waitForStaticBuild(config) {
 export async function runManagedWireProbe(input) {
   const config = { apiBase: DEFAULT_API_BASE, ...input };
   const { archiveName, size } = validateProbeInput(config);
+  await assertProviderIdle(config);
   const credentials = await fetchUploadCredentials(config);
   await uploadArchive(config, credentials);
   const settings = await fetchBuildSettings(config, archiveName);
+  await assertProviderIdle(config);
   const dispatched = await triggerBuild(config, archiveName, settings);
   config.onDispatched?.({
     status: 'dispatched',

@@ -269,10 +269,10 @@ provar se o `cwd` mudou por atualização do provedor ou por uma reimplantação
 `16.1.4`; não há evidência de mudança no layout do standalone. A evidência disponível aponta
 para troca da superfície efetiva de execução, de pacote SSH para build gerenciado.
 
-O caminho em uso para o runtime real é `.github/workflows/hostinger-wire-probe.yml`: ele
-cria a identidade antes do build, envia o fonte pelo build gerenciado da Hostinger e só
-aceita sucesso com attestation pública exata. Os modos `CAPTURE_ONLY` e `PROBE_PRODUCTION` já
-foram exercitados. Deploys seguintes devem continuar usando esse probe supervisionado.
+Historicamente, `.github/workflows/hostinger-wire-probe.yml` provou o wire gerenciado e a
+attestation pública exata. Em 13/08/2026, o modo de deploy foi removido: o workflow aceita somente
+`CAPTURE_ONLY`, e deploys seguintes não podem reutilizar o probe. O G1 aprovado será o próximo
+executor automatizado; até lá, deploy é somente pelo mecanismo gerenciado supervisionado.
 
 **Identidade compilada:** `next.config.mjs` lê `release-meta.json` como entrada efêmera do
 build, usa `target_sha` como `BUILD_ID` determinístico e incorpora `target_sha` e `deploy_uuid`
@@ -298,10 +298,9 @@ em `hbuilds/versions/019fecf0-bbaa-7202-87a4-70c469b81ed7/nodejs`, todos com
 pacote SSH retido tem outro `BUILD_ID` (`pJC0ZITwsdsZmECOIKo3K`). Portanto o hbuild servido não
 pode ser atribuído a um SHA pelo `BUILD_ID` aleatório isoladamente.
 
-O workflow passou a separar os modos: `CAPTURE_ONLY` executa somente a inspeção e preservação do
-artefato; build local, archive e `Execute exact managed wire` têm guard explícito exclusivo para
-`PROBE_PRODUCTION`. O teste `test:hostinger-wire` afirma essa fronteira diretamente no YAML.
-Somente `PROBE_PRODUCTION` é decisão de deploy e exige autorização operacional própria.
+O workflow agora contém apenas `CAPTURE_ONLY`; build local, archive e dispatch foram removidos.
+O teste `test:hostinger-wire` afirma essa fronteira diretamente no YAML e também prova que o fluxo
+SSH antigo está arquivado fora de `.github/workflows/`.
 
 **Captura somente leitura concluída:** o run `31514487153`, em 11/08/2026, terminou com sucesso
 em `CAPTURE_ONLY`; build, archive e `Execute exact managed wire` ficaram `skipped`. O artefato
@@ -331,7 +330,7 @@ contém `server.js`, `.next/BUILD_ID` e `release-meta.json`, e tem SHA-256
 `d0e8131d49c00e4a3e4580b19e6f8f0ce44c36f2812f42619d6a368d242df1c1`.
 Isso preserva os bytes do release anterior, mas não constitui rollback pronto: é um pacote SSH,
 incompatível com o source archive do build gerenciado, e sua restauração sobre o runtime atual
-nunca foi ensaiada. Até existir runbook testado, `PROBE_PRODUCTION` é uma mudança sem rollback
+nunca foi ensaiada. Até existir runbook testado, qualquer deploy gerenciado é uma mudança sem rollback
 operacional garantido; em falha ambígua, a saída primária é reconciliar e seguir para frente.
 
 **Primeiro deploy atestado e marco zero:** o run `31520415657` falhou antes de qualquer dispatch:

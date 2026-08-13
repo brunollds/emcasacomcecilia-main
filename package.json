@@ -20,6 +20,7 @@
     "deploy:prepare": "node scripts/deploy/prepare.mjs",
     "deploy:finish": "node scripts/deploy/finish.mjs",
     "test:hostinger-wire": "node --test scripts/deploy/hostinger-managed-wire.test.mjs",
+    "test:artifact-scan": "node --test scripts/deploy/scan-artifacts.test.mjs",
     "test:coupon-offer-modes": "tsx scripts/test-coupon-offer-modes.ts",
     "test:internal-links": "tsx scripts/test-internal-links.ts",
     "test:analytics-gate": "tsx scripts/test-analytics-gate.ts",

@@ -73,6 +73,9 @@ jobs:
           find .next/standalone/node_modules/@img -name '*.node' -print >> gate1-release-report.txt
           cat gate1-release-report.txt
 
+      - name: Scan release report for secrets
+        run: node scripts/deploy/scan-artifacts.mjs gate1-release-report.txt
+
       - uses: actions/upload-artifact@v4
         with:
           name: gate1-release-report

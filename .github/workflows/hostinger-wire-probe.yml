@@ -12,7 +12,6 @@ on:
         options:
           - 'NO'
           - 'CAPTURE_ONLY'
-          - 'PROBE_PRODUCTION'
 
 permissions:
   contents: read
@@ -23,11 +22,11 @@ concurrency:
 
 jobs:
   probe:
-    if: inputs.confirm == 'CAPTURE_ONLY' || inputs.confirm == 'PROBE_PRODUCTION'
+    if: inputs.confirm == 'CAPTURE_ONLY'
     runs-on: ubuntu-22.04
     timeout-minutes: 20
     environment:
-      name: production
+      name: production-observe
       url: https://emcasacomcecilia.com
     env:
       HOSTINGER_API_TOKEN: ${{ secrets.HOSTINGER_API_TOKEN }}
@@ -47,21 +46,12 @@ jobs:
           node-version: 20.19.0
           cache: npm
 
-      - name: Install dependencies
-        if: inputs.confirm == 'PROBE_PRODUCTION'
-        run: npm ci
-
-      - name: Compute release identity
+      - name: Compute source identity
         shell: bash
         run: |
           set -euo pipefail
           target_sha=$(git rev-parse HEAD)
-          deploy_uuid=$(node -e 'console.log(require("node:crypto").randomUUID())')
-          {
-            echo "TARGET_SHA=$target_sha"
-            echo "DEPLOY_UUID=$deploy_uuid"
-            echo "ARCHIVE_NAME=emcasa-wire-$target_sha-$deploy_uuid.tar.gz"
-          } >> "$GITHUB_ENV"
+          echo "TARGET_SHA=$target_sha" >> "$GITHUB_ENV"
 
       - name: Configure read-only SSH inspection
         shell: bash
@@ -169,8 +159,16 @@ jobs:
           } > artifacts/pre-deploy-runtime.txt
           node scripts/deploy/capture-hostinger-build-inventory.mjs
 
-      - name: Preserve pre-deploy runtime state
+      - name: Scan pre-deploy runtime state for secrets
         if: always()
+        id: artifact_scan
+        env:
+          SCAN_SECRET_HOSTINGER_API_TOKEN: ${{ secrets.HOSTINGER_API_TOKEN }}
+          SCAN_SECRET_HOSTINGER_SSH_KEY: ${{ secrets.HOSTINGER_SSH_KEY }}
+        run: node scripts/deploy/scan-artifacts.mjs artifacts
+
+      - name: Preserve pre-deploy runtime state
+        if: always() && steps.artifact_scan.outcome == 'success'
         uses: actions/upload-artifact@v4
         with:
           name: pre-deploy-runtime-${{ github.run_id }}
@@ -178,44 +176,7 @@ jobs:
           if-no-files-found: error
           retention-days: 30
 
-      - name: Build and prove local attestation
-        if: inputs.confirm == 'PROBE_PRODUCTION'
-        shell: bash
-        run: |
-          set -euo pipefail
-          node -e 'const fs=require("node:fs");fs.writeFileSync("release-meta.json",JSON.stringify({target_sha:process.env.TARGET_SHA,deploy_uuid:process.env.DEPLOY_UUID})+"\n")'
-          RELEASE_META_REQUIRED=1 npm run build
-          npm run verify:release
-          npm run test:hostinger-wire
-
-      - name: Assemble committed source archive
-        if: inputs.confirm == 'PROBE_PRODUCTION'
-        shell: bash
-        run: |
-          set -euo pipefail
-          mkdir -p .wire-meta/emcasacomcecilia
-          cp release-meta.json .wire-meta/emcasacomcecilia/release-meta.json
-          git archive --format=tar --prefix=emcasacomcecilia/ --output=emcasa-wire.tar HEAD
-          tar -rf emcasa-wire.tar -C .wire-meta emcasacomcecilia/release-meta.json
-          gzip -9 emcasa-wire.tar
-          mv emcasa-wire.tar.gz "$ARCHIVE_NAME"
-
-          count=$(tar -tzf "$ARCHIVE_NAME" | grep -cx 'emcasacomcecilia/release-meta.json')
-          [ "$count" = '1' ] || { echo "release-meta count inválido: $count" >&2; exit 1; }
-          if tar -tzf "$ARCHIVE_NAME" | grep -Eq '(^|/)(node_modules|\.next|\.git)(/|$)'; then
-            echo 'archive contém diretório proibido' >&2
-            exit 1
-          fi
-          bytes=$(stat -c '%s' "$ARCHIVE_NAME")
-          echo "archive bytes: $bytes"
-          [ "$bytes" -lt 50000000 ] || { echo 'archive excede 50 MB' >&2; exit 1; }
-
-      - name: Execute exact managed wire
-        if: inputs.confirm == 'PROBE_PRODUCTION'
-        shell: bash
-        run: ARCHIVE_PATH="$GITHUB_WORKSPACE/$ARCHIVE_NAME" npm run probe:hostinger-wire
-
-      - name: Record attested identity
+      - name: Record observation result
         if: always()
         shell: bash
         run: |
@@ -223,16 +184,9 @@ jobs:
             echo '## Hostinger managed wire probe'
             printf '%s\n' "- mode: \`${{ inputs.confirm }}\`"
             printf '%s\n' "- target_sha: \`$TARGET_SHA\`"
-            printf '%s\n' "- deploy_uuid: \`$DEPLOY_UUID\`"
-            if [ "${{ inputs.confirm }}" = 'CAPTURE_ONLY' ] \
-              && [ "${{ job.status }}" = 'success' ]; then
+            if [ "${{ job.status }}" = 'success' ]; then
               echo '- result: read-only capture preserved; build, archive and dispatch skipped'
-            elif [ "${{ inputs.confirm }}" = 'CAPTURE_ONLY' ]; then
-              echo '- result: incomplete read-only capture; no build, archive or dispatch executed'
-            elif [ "${{ job.status }}" = 'success' ]; then
-              echo '- Consulte o log do step de wire para `build_uuid`.'
-              echo '- result: completed + exact dynamic attestation + exact static BUILD_ID'
             else
-              echo '- result: incomplete; não repetir o dispatch sem reconciliar pelo archive name'
+              echo '- result: incomplete read-only capture; no build, archive or dispatch executed'
             fi
           } >> "$GITHUB_STEP_SUMMARY"

@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import { mkdtempSync, readFileSync, rmSync, truncateSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdtempSync, readFileSync, rmSync, truncateSync, writeFileSync } from 'node:fs';
 import { createServer } from 'node:http';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
@@ -7,8 +7,10 @@ import test from 'node:test';
 
 import { normalizeBuildInventory } from './capture-hostinger-build-inventory.mjs';
 import {
+  assertProviderIdle,
   DispatchUnknownError,
   isExactAttestation,
+  ProviderBusyError,
   ProviderHttpError,
   runManagedWireProbe,
   triggerBuild,
@@ -21,12 +23,15 @@ const DEPLOY_UUID = '00000000-0000-4000-8000-000000000001';
 const BUILD_UUID = '019fd93f-c255-73a8-b44f-3a836b2af17d';
 
 const WORKFLOW_PATH = new URL('../../.github/workflows/hostinger-wire-probe.yml', import.meta.url);
+const EXECUTABLE_LEGACY_WORKFLOW_PATH = new URL('../../.github/workflows/deploy.yml', import.meta.url);
+const ARCHIVED_LEGACY_WORKFLOW_PATH = new URL('../../docs/deploy-ssh-inactive.yml', import.meta.url);
 
-async function withFakeProvider(fn) {
+async function withFakeProvider(fn, options = {}) {
   let offset = 0;
   let uploadLength = 0;
   let uploadBytes = 0;
   let listCalls = 0;
+  let preflightCalls = 0;
   let buildBody;
   const apiAuthorizations = [];
   const server = createServer(async (request, response) => {
@@ -86,12 +91,19 @@ async function withFakeProvider(fn) {
       return;
     }
     if (request.method === 'GET' && url.pathname.endsWith('/nodejs/builds')) {
-      listCalls++;
       response.setHeader('content-type', 'application/json');
+      if (!buildBody) {
+        preflightCalls++;
+        response.end(JSON.stringify({
+          data: options.activePreflightCall === preflightCalls
+            ? [{ uuid: BUILD_UUID, state: 'running' }]
+            : [],
+        }));
+        return;
+      }
+      listCalls++;
       response.end(JSON.stringify({
-        data: listCalls === 1
-          ? []
-          : [{ uuid: BUILD_UUID, state: listCalls === 2 ? 'running' : 'completed' }],
+        data: [{ uuid: BUILD_UUID, state: listCalls === 1 ? 'running' : 'completed' }],
       }));
       return;
     }
@@ -116,6 +128,7 @@ async function withFakeProvider(fn) {
       origin: `http://127.0.0.1:${server.address().port}`,
       getUploadBytes: () => uploadBytes,
       getBuildBody: () => buildBody,
+      getPreflightCalls: () => preflightCalls,
       getApiAuthorizations: () => apiAuthorizations,
     });
   } finally {
@@ -130,7 +143,13 @@ test('reproduz upload TUS → build → attestation dinâmica + BUILD_ID estáti
   const archive = Buffer.from('archive-fixture');
   writeFileSync(archivePath, archive);
   try {
-    await withFakeProvider(async ({ origin, getUploadBytes, getBuildBody, getApiAuthorizations }) => {
+    await withFakeProvider(async ({
+      origin,
+      getUploadBytes,
+      getBuildBody,
+      getPreflightCalls,
+      getApiAuthorizations,
+    }) => {
       const dispatchedEvents = [];
       const result = await runManagedWireProbe({
         apiBase: origin,
@@ -155,6 +174,7 @@ test('reproduz upload TUS → build → attestation dinâmica + BUILD_ID estáti
         onDispatched: (event) => dispatchedEvents.push(event),
       });
       assert.equal(getUploadBytes(), archive.length);
+      assert.equal(getPreflightCalls(), 2);
       assert.deepEqual(getBuildBody().source_options, { archive_path: 'probe.tar.gz' });
       assert.equal(getBuildBody().source_type, 'archive');
       assert.equal(result.status, 'completed-and-verified');
@@ -174,28 +194,101 @@ test('reproduz upload TUS → build → attestation dinâmica + BUILD_ID estáti
   }
 });
 
-test('CAPTURE_ONLY não alcança build, archive nem dispatch', () => {
-  const workflow = readFileSync(WORKFLOW_PATH, 'utf8');
-  assert.match(
-    workflow,
-    /if: inputs\.confirm == 'CAPTURE_ONLY' \|\| inputs\.confirm == 'PROBE_PRODUCTION'/
-  );
-
-  for (const stepName of [
-    'Build and prove local attestation',
-    'Assemble committed source archive',
-    'Execute exact managed wire',
-  ]) {
-    const start = workflow.indexOf(`      - name: ${stepName}`);
-    assert.notEqual(start, -1, `step ausente: ${stepName}`);
-    const next = workflow.indexOf('\n      - name:', start + 1);
-    const block = workflow.slice(start, next === -1 ? undefined : next);
-    assert.match(
-      block,
-      /\n        if: inputs\.confirm == 'PROBE_PRODUCTION'\n/,
-      `${stepName} precisa ficar inacessível em CAPTURE_ONLY`
-    );
+test('build ativo bloqueia antes de obter credencial ou enviar archive', async () => {
+  const dir = mkdtempSync(path.join(tmpdir(), 'hostinger-wire-busy-first-'));
+  const archivePath = path.join(dir, 'probe.tar.gz');
+  writeFileSync(archivePath, 'archive-fixture');
+  try {
+    await withFakeProvider(async ({ origin, getUploadBytes, getBuildBody }) => {
+      await assert.rejects(
+        runManagedWireProbe({
+          apiBase: origin,
+          token: 'token',
+          username: 'account',
+          domain: '127.0.0.1',
+          archivePath,
+          targetSha: TARGET_SHA,
+          deployUuid: DEPLOY_UUID,
+          fetchImpl: fetch,
+        }),
+        ProviderBusyError
+      );
+      assert.equal(getUploadBytes(), 0);
+      assert.equal(getBuildBody(), undefined);
+    }, { activePreflightCall: 1 });
+  } finally {
+    rmSync(dir, { recursive: true, force: true });
   }
+});
+
+test('build iniciado durante upload bloqueia antes do POST de dispatch', async () => {
+  const dir = mkdtempSync(path.join(tmpdir(), 'hostinger-wire-busy-second-'));
+  const archivePath = path.join(dir, 'probe.tar.gz');
+  const archive = Buffer.from('archive-fixture');
+  writeFileSync(archivePath, archive);
+  try {
+    await withFakeProvider(async ({ origin, getUploadBytes, getBuildBody }) => {
+      await assert.rejects(
+        runManagedWireProbe({
+          apiBase: origin,
+          token: 'token',
+          username: 'account',
+          domain: '127.0.0.1',
+          archivePath,
+          targetSha: TARGET_SHA,
+          deployUuid: DEPLOY_UUID,
+          fetchImpl: fetch,
+        }),
+        ProviderBusyError
+      );
+      assert.equal(getUploadBytes(), archive.length);
+      assert.equal(getBuildBody(), undefined);
+    }, { activePreflightCall: 2 });
+  } finally {
+    rmSync(dir, { recursive: true, force: true });
+  }
+});
+
+test('fence percorre paginação e encontra build ativo depois da primeira página', async () => {
+  let calls = 0;
+  const completed = Array.from({ length: 50 }, (_, index) => ({
+    uuid: `00000000-0000-4000-8000-${String(index).padStart(12, '0')}`,
+    state: 'completed',
+  }));
+  await assert.rejects(
+    assertProviderIdle({
+      apiBase: 'https://provider.invalid',
+      token: 'token',
+      username: 'account',
+      domain: 'example.com',
+      fetchImpl: async (url) => {
+        calls++;
+        const page = new URL(url).searchParams.get('page');
+        return new Response(JSON.stringify({
+          data: page === '1' ? completed : [{ uuid: BUILD_UUID, state: 'pending' }],
+          meta: { total: 51 },
+        }), { status: 200, headers: { 'content-type': 'application/json' } });
+      },
+    }),
+    ProviderBusyError
+  );
+  assert.equal(calls, 2);
+});
+
+test('workflow é somente leitura e não cria deployment em production', () => {
+  const workflow = readFileSync(WORKFLOW_PATH, 'utf8');
+  assert.match(workflow, /if: inputs\.confirm == 'CAPTURE_ONLY'/);
+  assert.match(workflow, /name: production-observe/);
+  assert.doesNotMatch(workflow, /PROBE_PRODUCTION/);
+  assert.doesNotMatch(workflow, /name: production\s*$/m);
+  assert.doesNotMatch(workflow, /probe:hostinger-wire|Execute exact managed wire/);
+  assert.match(workflow, /steps\.artifact_scan\.outcome == 'success'/);
+});
+
+test('workflow SSH legado fica arquivado fora do diretório executável', () => {
+  assert.equal(existsSync(EXECUTABLE_LEGACY_WORKFLOW_PATH), false);
+  assert.equal(existsSync(ARCHIVED_LEGACY_WORKFLOW_PATH), true);
+  assert.match(readFileSync(ARCHIVED_LEGACY_WORKFLOW_PATH, 'utf8'), /name: Deploy emcasa \(manual\)/);
 });
 
 test('inventário de builds preserva histórico útil sem valores desconhecidos', () => {
