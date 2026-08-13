@@ -129,6 +129,11 @@ export const localVideoMetadata = {
     reviewSlug: 'tabela-medidas-dolce-gusto-ml-por-nivel',
     reason: 'Loop visual do hero; demonstra o painel sem narrativa editorial própria.',
   },
+  '/videos/reviews/dolcegusto/mini-me-2-0-loop.mp4': {
+    classification: 'secondary',
+    reviewSlug: 'dolce-gusto-mini-me-2-0-vale-a-pena',
+    reason: 'Demonstração complementar da máquina em operação; o YouTube é o vídeo editorial principal.',
+  },
 };
 
 export function getPrimaryLocalVideoMeta(reviewSlug) {

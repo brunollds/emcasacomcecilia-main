@@ -265,7 +265,7 @@ export interface ContentSection {
     webm?: string;
     poster?: string;
     alt?: string;
-    aspect?: 'video' | 'square';
+    aspect?: 'video' | 'square' | 'portrait';
   };
 }
 
@@ -335,6 +335,7 @@ export interface Review {
     mp4: string;
     webm?: string;
     poster?: string;
+    aspect?: 'landscape' | 'portrait' | 'square';
   };
   imagePosition?: 'center' | 'top' | 'bottom' | 'left' | 'right';
   imageFit?: 'cover' | 'contain';

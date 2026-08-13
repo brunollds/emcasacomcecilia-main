@@ -171,7 +171,13 @@ export function ReviewSectionContent({
       )}
 
       {section.video && (
-        <div className={`my-6 overflow-hidden rounded-[1.25rem] bg-[#f4f4f5] shadow-soft max-w-2xl mx-auto ${section.video.aspect === 'square' ? 'aspect-square' : 'aspect-video'}`}>
+        <div className={`my-6 overflow-hidden rounded-[1.25rem] bg-[#f4f4f5] shadow-soft mx-auto ${
+          section.video.aspect === 'portrait'
+            ? 'aspect-[9/16] max-w-md'
+            : section.video.aspect === 'square'
+              ? 'aspect-square max-w-2xl'
+              : 'aspect-video max-w-2xl'
+        }`}>
           <ReviewLoopVideo
             mp4={section.video.mp4}
             webm={section.video.webm}

@@ -21,6 +21,7 @@ export interface ReviewHeroImageProps {
     mp4: string;
     webm?: string;
     poster?: string;
+    aspect?: 'landscape' | 'portrait' | 'square';
   };
 }
 
@@ -53,6 +54,11 @@ export function ReviewHeroImage({
   const effectivePortrait = imageAspect === 'portrait' || (!imageAspect && isPortrait);
   const effectiveLandscape = imageAspect === 'landscape';
   const effectiveSquare = imageAspect === 'square';
+  // A loop may have a different framing from the fallback image. Respect its own
+  // aspect ratio so `object-cover` does not crop evidence near the frame edges.
+  const mediaPortrait = video?.aspect ? video.aspect === 'portrait' : effectivePortrait;
+  const mediaLandscape = video?.aspect ? video.aspect === 'landscape' : effectiveLandscape;
+  const mediaSquare = video?.aspect ? video.aspect === 'square' : effectiveSquare;
   const effectiveObjectContain = !imageAspect && objectContain;
   const wrapRef = useRef<HTMLDivElement>(null);
   const imgRef = useRef<HTMLDivElement>(null);
@@ -76,7 +82,7 @@ export function ReviewHeroImage({
 
       // Parallax vertical para hero landscape. Reduced motion mantém blur/opacidade,
       // mas remove deslocamento vertical.
-      if (!effectivePortrait && !effectiveLandscape && !effectiveSquare && !prefersReduced) {
+      if (!mediaPortrait && !mediaLandscape && !mediaSquare && !prefersReduced) {
         const rect = wrapRef.current.getBoundingClientRect();
         if (rect.bottom > 0 && rect.top < viewportHeight) {
           const offset = rect.top * 0.25;
@@ -104,15 +110,15 @@ export function ReviewHeroImage({
       window.removeEventListener('scroll', onScroll);
       window.removeEventListener('resize', update);
     };
-  }, [effectivePortrait, effectiveLandscape, effectiveSquare]);
+  }, [mediaPortrait, mediaLandscape, mediaSquare]);
 
   return (
     <div
       ref={wrapRef}
       className={`group relative overflow-hidden rounded-2xl bg-white shadow-medium ${
-        effectivePortrait
+        mediaPortrait
           ? 'mx-auto max-w-[320px] sm:max-w-[380px] md:max-w-[460px]'
-          : effectiveSquare
+          : mediaSquare
             ? 'mx-auto max-w-[500px]'
             : effectiveObjectContain
               ? 'mx-auto max-w-[420px] md:max-w-[480px]'
@@ -123,17 +129,17 @@ export function ReviewHeroImage({
       <div
         ref={imgRef}
         className={`relative w-full will-change-transform transition-transform duration-75 ${
-          effectivePortrait
+          mediaPortrait
             ? 'review-hero-portrait-zoom aspect-[9/16] max-h-[680px]'
-            : effectiveSquare
+            : mediaSquare
               ? 'aspect-square'
               : effectiveObjectContain
                 ? 'aspect-[4/5] max-h-[560px]'
-                : effectiveLandscape
+                : mediaLandscape
                   ? 'aspect-[16/9]'
                   : 'aspect-[16/9]'
         }`}
-        style={effectivePortrait || effectiveObjectContain || effectiveLandscape || effectiveSquare ? {} : { height: '120%', marginTop: '-10%' }}
+        style={mediaPortrait || effectiveObjectContain || mediaLandscape || mediaSquare ? {} : { height: '120%', marginTop: '-10%' }}
       >
         {video ? (
           <ReviewLoopVideo
@@ -143,9 +149,9 @@ export function ReviewHeroImage({
             ariaLabel={alt}
             preload="auto"
             className={
-              (effectivePortrait || effectiveSquare) && imageFit === 'contain'
+              (mediaPortrait || mediaSquare) && imageFit === 'contain'
                 ? 'object-contain bg-white transition-transform duration-700 group-hover:scale-[1.02] md:p-2 w-full h-full'
-                : effectivePortrait || effectiveLandscape || effectiveSquare
+                : mediaPortrait || mediaLandscape || mediaSquare
                   ? `object-cover ${POSITION_CLASSES[imagePosition] || 'object-center'} transition-transform duration-700 group-hover:scale-[1.03] w-full h-full`
                   : hasProductRating
                     ? 'object-contain bg-white p-3 transition-transform duration-700 group-hover:scale-[1.02] md:p-5 w-full h-full'

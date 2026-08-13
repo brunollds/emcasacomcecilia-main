@@ -11,7 +11,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Tabela de referência construída a partir dos volumes mostrados nos manuais da Genio S Touch e da Mini Me 2.0 — inclui espresso, lungo, bebidas em duas etapas e a função XL.",
+  "description": "Tabela de referência construída a partir dos manuais da Genio S Touch e da Mini Me 2.0, agora com fotos da tabela impressa na embalagem — inclui cafés, lattes, bebidas em duas etapas e XL.",
   "metaDescription": "Quantos ml saem em cada nível da Dolce Gusto? Veja a referência confirmada nos manuais da Genio S Touch e da Mini Me 2.0, do nível 1 à função XL.",
   "publishedAt": "2 de agosto de 2026",
   "publishedAtISO": "2026-08-02",
@@ -25,7 +25,8 @@
       "paragraphs": [
         "Quando começamos a usar a Genio S Touch em casa, uma dúvida apareceu rápido: os tracinhos e ícones do painel não mostram os valores em mililitros. A gente só via os símbolos — os mesmos impressos nas cápsulas — mas sem números para orientar receitas, comparações ou até curiosidade pessoal.",
         "Pesquisando online, encontramos informações conflitantes sobre os valores de cada nível. Parte dessa diferença pode vir de modelos, cápsulas ou referências distintas — inclusive há fontes que associam a função XL a 280 ml, enquanto o manual da nossa Genio S Touch mostra 300 ml.",
-        "A Nestlé não publica, no manual nem no site oficial, uma tabela única que relacione todos os níveis aos volumes em mililitros. Por isso, reunimos os valores que aparecem nos diferentes exemplos e cartões de receita do manual impresso da Genio S Touch. O manual da Mini Me 2.0 repete o mesmo gráfico com as mesmas medidas, reforçando essa referência em dois modelos. Ainda assim, as faixas abaixo são uma compilação editorial, não uma calibração oficial válida para todas as máquinas e cápsulas."
+        "A Nestlé não publica, no manual nem no site oficial, uma tabela única que relacione todos os níveis aos volumes em mililitros. Por isso, reunimos os valores que aparecem nos diferentes exemplos e cartões de receita do manual impresso da Genio S Touch. O manual da Mini Me 2.0 repete o mesmo gráfico com as mesmas medidas, reforçando essa referência em dois modelos. Ainda assim, as faixas abaixo são uma compilação editorial, não uma calibração oficial válida para todas as máquinas e cápsulas.",
+        "Também fotografamos a tabela de preparo impressa em uma embalagem da linha Dolce Gusto. As imagens abaixo tornam visíveis as recomendações por bebida, inclusive as receitas feitas em duas etapas. Elas documentam essa tabela específica e não substituem a orientação impressa na cápsula ou no manual do seu modelo."
       ],
       "bullets": []
     },
@@ -44,21 +45,23 @@
         "7 barras (7 níveis): cerca de 200 ml a 220 ml — exemplos de cafés grandes e bebidas longas",
         "Função XL: 300 ml nos manuais consultados — tamanho máximo extra grande"
       ],
-      "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-2.webp",
-      "imageAlt": "Detalhe da indicação de mililitros por nível de barra impressa no manual oficial",
-      "imageFit": "square"
+      "image": "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-cafes-lattes.webp",
+      "imageAlt": "Tabela impressa em uma embalagem Dolce Gusto com volumes de cafés, lattes e bebidas preparadas em duas etapas",
+      "imageCaption": "Foto da tabela de preparo impressa na embalagem: cafés, lattes e as duas extrações de bebidas como latte macchiato e cappuccino.",
+      "imageFit": "contain"
     },
     {
       "heading": "Como funciona a variação de volume por nível",
       "paragraphs": [
         "A escala de seletores varia de 1 a 7 barras mais a opção XL. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, os volumes progridem de cerca de 35-40 ml no nível 1 até 200-220 ml no nível 7, enquanto a função XL aparece com 300 ml.",
         "Cada cápsula traz uma quantidade recomendada impressa na embalagem em forma de barras. Ao selecionar o número correspondente no painel touch, a máquina segue o nível indicado para aquela receita; o volume final deve ser entendido como aproximado e pode variar conforme a bebida e o modelo.",
-        "Nas bebidas preparadas em duas etapas, como lattes e cappuccinos, o volume total no copo é a soma das extrações. Um dos exemplos fotografados no manual combina 200 ml da etapa de leite com 40 ml da etapa de café, resultando em uma bebida de 240 ml."
+        "Nas bebidas preparadas em duas etapas, como lattes e cappuccinos, o volume total no copo é a soma das extrações. Na tabela fotografada, o cappuccino combina 200 ml da etapa de leite com 40 ml da etapa de café, totalizando 240 ml. O latte macchiato combina 170 ml de leite e 50 ml de café, totalizando 220 ml."
       ],
       "bullets": [],
-      "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-3.webp",
-      "imageAlt": "Guia de receitas e bebidas com indicação de barras no manual da Dolce Gusto",
-      "imageFit": "square"
+      "image": "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-chocolates-chas.webp",
+      "imageAlt": "Tabela impressa em uma embalagem Dolce Gusto com os volumes de chocolates, mochas e chás",
+      "imageCaption": "A mesma tabela traz receitas de chocolate, mocha e chá, incluindo os volumes de cada etapa quando há duas cápsulas.",
+      "imageFit": "contain"
     },
     {
       "heading": "Terminologia: tracinho, barra, nível e lungo",
@@ -69,6 +72,19 @@
       "bullets": [],
       "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-1.webp",
       "imageAlt": "Foto real do manual da NESCAFÉ Dolce Gusto com a indicação de tracinhos e níveis",
+      "imageFit": "square"
+    },
+    {
+      "heading": "Volumes por bebida na tabela impressa na embalagem",
+      "paragraphs": [
+        "A foto da embalagem ajuda a conferir exemplos concretos que aparecem na tabela de preparo. Nos cafés pretos, ela indica 35 ml para Ristretto Ardenza e Espresso Barista; 50 ml para Espresso, Espresso Descafeinado e Espresso Intenso; 120 ml para Caffè Matinal e Lungo; e 145 ml para Café Caseiro Intenso e Café Caseiro.",
+        "Na área de lattes, a mesma tabela mostra 80 ml para Cortado, 120 ml para Mochaccino Canela, 140 ml para Café au Lait Desnatado e 180 ml para Café au Lait. Para bebidas em duas etapas, os exemplos visíveis são Vanilla Latte Macchiato (175 ml de leite + 25 ml de café), Latte Macchiato (170 ml + 50 ml), Cappuccino (200 ml + 40 ml), Chococino (100 ml de chocolate + 110 ml de leite), Chococino Caramel (100 ml de leite + 110 ml de chocolate), Mocha (110 ml de café + 110 ml de leite) e Chai Tea Latte (120 ml de leite + 100 ml de chá).",
+        "A tabela também lista Nestea Limão e Nestea Pêssego com 200 ml. Use esses exemplos para escolher uma xícara que comporte o volume recomendado; para uma cápsula diferente, prevalece sempre o número de barras indicado na sua própria embalagem."
+      ],
+      "bullets": [],
+      "image": "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-hero.webp",
+      "imageAlt": "Visão geral da tabela de preparo impressa em uma embalagem Dolce Gusto, com cafés, lattes, chocolates e chás",
+      "imageCaption": "Visão geral fotografada da tabela de preparo na embalagem. Toque para ampliar e ler os exemplos por categoria.",
       "imageFit": "square"
     },
     {
@@ -130,11 +146,26 @@
       "title": "Dolce Gusto é confiável? O que observar antes de comprar"
     }
   ],
-  "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-1.webp",
-  "imageAlt": "Foto real do manual da NESCAFÉ Dolce Gusto com exemplos de volumes e níveis de preparo",
-  "imageFit": "cover",
+  "image": "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-hero.webp",
+  "imageAlt": "Tabela de preparo impressa em uma embalagem Dolce Gusto com volumes de cafés, lattes, chocolates e chás",
+  "imageFit": "contain",
   "imageAspect": "square",
   "gallery": [
+    {
+      "image": "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-hero.webp",
+      "alt": "Tabela de preparo impressa em uma embalagem Dolce Gusto com volumes por bebida",
+      "caption": "Foto da tabela de preparo da embalagem, usada como evidência complementar aos manuais consultados."
+    },
+    {
+      "image": "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-cafes-lattes.webp",
+      "alt": "Detalhe da tabela da embalagem Dolce Gusto com cafés e lattes",
+      "caption": "Cafés, lattes e bebidas em duas etapas com os volumes visíveis na tabela impressa."
+    },
+    {
+      "image": "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-chocolates-chas.webp",
+      "alt": "Detalhe da tabela da embalagem Dolce Gusto com chocolates e chás",
+      "caption": "Chocolates, mocha e chás com as recomendações de volume impressas na embalagem."
+    },
     {
       "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-1.webp",
       "alt": "Foto do manual oficial da NESCAFÉ Dolce Gusto com exemplos de volumes em ml",
@@ -158,7 +189,7 @@
   ],
   "video": {
     "mp4": "/videos/reviews/dolcegusto/tabela-manual-dolce-gusto-loop.mp4",
-    "poster": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-loop-poster.webp",
+    "poster": "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-hero.webp",
     "alt": "Demonstração em vídeo da seleção de nível de água no painel da máquina NESCAFÉ Dolce Gusto",
     "aspect": "square"
   }

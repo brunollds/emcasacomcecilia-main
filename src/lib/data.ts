@@ -204,6 +204,7 @@ export interface Review {
     mp4: string;
     webm?: string;
     poster?: string;
+    aspect?: 'landscape' | 'portrait' | 'square';
   };
   draft?: boolean;
   imagePosition?: 'center' | 'top' | 'bottom' | 'left' | 'right';
@@ -266,6 +267,7 @@ export interface Review {
       webm?: string;
       poster?: string;
       alt?: string;
+      aspect?: 'video' | 'square' | 'portrait';
     };
   }[];
 }
