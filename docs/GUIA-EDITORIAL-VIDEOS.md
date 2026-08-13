@@ -1,7 +1,7 @@
 # Guia editorial — como usar vídeos em receitas e artigos
 
 **Aplicação:** domínio principal `emcasacomcecilia.com`
-**Atualizado em:** 01/08/2026
+**Atualizado em:** 13/08/2026
 **Responsáveis:** autoria editorial + revisão técnica antes do deploy
 
 ## 1. Decisão antes de escrever
@@ -17,6 +17,18 @@ Classifique cada vídeo antes de inseri-lo no conteúdo:
 Cada artigo ou receita pode ter **um único vídeo principal**. Se houver YouTube
 e MP4 na mesma página, o YouTube é o principal; o MP4 deve ser `secondary` ou
 `decorative`.
+
+### 1.1 Não confundir vídeo com classe do artigo
+
+`primary`, `secondary` e `decorative` classificam o papel do vídeo. Já `Review.category`
+classifica o artigo de Guias & Análises em um dos quatro grupos definidos em
+`GUIA-EDITORIAL-GUIAS-ANALISES.md`. Não copiar `category` para os metadados do vídeo nem
+inferir a classe do artigo só porque existe player.
+
+Vídeo pode documentar experiência própria, mas não a prova sozinho. No caso do Cobertor IWS
+Igloo, o artigo pertence a Produtos & experiências porque o texto declara produto recebido,
+primeiras impressões e uso noturno registrados em vídeo. O Aliv Head Gel IWS permanece em
+Guias práticos & utilidade porque usa informações públicas sem experiência própria declarada.
 
 ## 2. O que a pessoa autora deve fornecer
 

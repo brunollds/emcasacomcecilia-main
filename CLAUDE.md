@@ -11,7 +11,20 @@ npm run start    # Production server (PORT env var or 3000)
 npm run lint     # ESLint
 ```
 
-No test suite is configured. After edits, validate with `npm run build` to catch type/build errors.
+Além disso há verificações versionadas — a afirmação anterior de que "não há suíte de testes"
+estava desatualizada:
+
+```bash
+npm run typecheck            # tsc --noEmit — gate mais rápido que o build
+npm run validate:content     # modelo de conteúdo
+npm run validate:video       # metadados e páginas de exibição de vídeo
+npm run test:internal-links  # domínio, normalização e derivação de marca
+npm run test:coupon-offer-modes
+npm run test:analytics-gate  # allowlist de hosts do GA4
+npm run test:html-lang
+```
+
+`npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
 
 ## Architecture
 
@@ -27,7 +40,36 @@ No test suite is configured. After edits, validate with `npm run build` to catch
 `@/*` resolves to `src/*` (configured in `jsconfig.json`).
 
 ### Data layer
-`src/lib/data.ts` exports typed interfaces and mock arrays for recipes, categories, offers, social media, and link items. **All content data lives here** until a CMS is integrated. Helper functions `formatPrice()` and `totalFollowers()` are also here.
+
+⚠️ **`src/lib/data.ts` não é mais a fonte de verdade do conteúdo.** A migração para JSON já
+aconteceu:
+
+| Conteúdo | Onde vive |
+|---|---|
+| Receitas e reviews | `content/receitas/*.json`, `content/reviews/*.json` + `_manifest.json` |
+| Tipos do conteúdo | `src/lib/content/types.ts` |
+| Cupons | `src/lib/couponsData.ts` (união `discount-code \| affiliate-link`) |
+| Locales e clusters i18n | `src/lib/i18n/locales.ts` e `src/lib/i18n/clusters/` |
+| Vídeos | `src/lib/video-metadata.js` e `src/lib/video-pages.js` |
+
+`src/lib/data.ts` ainda existe para categorias, redes sociais e links, com `formatPrice()` e
+`totalFollowers()`. Não acrescentar conteúdo editorial ali.
+
+### Classificação de Guias & Análises
+
+Antes de criar ou revisar `content/reviews/*.json`, ler
+`docs/GUIA-EDITORIAL-GUIAS-ANALISES.md`.
+
+| Campo | Autoridade |
+|---|---|
+| `category` | classe editorial e navegação; enum de quatro valores |
+| `reviewKind` | capacidades estruturais do template |
+| `type` | rótulo público granular e livre |
+
+Não inferir `category` de `type`, `reviewKind`, marca ou `pros/cons`, e não criar um campo
+paralelo `editorialClass`. O Aliv Head Gel IWS é guia porque usa fontes públicas sem experiência
+própria declarada; o Cobertor IWS Igloo é produto/experiência porque registra produto recebido,
+vídeo, primeiras impressões e uso noturno.
 
 ### Component layers
 - `src/components/ui/` — Primitive building blocks (`Card`, `Button`, `Badge`). Use `clsx` for className merging here.

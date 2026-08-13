@@ -3,6 +3,7 @@
 **De:** sessão editorial do emcasacomcecilia (Waves 0–3 do EDITORIAL-PORTABILITY, jul/2026)
 **Para:** agente responsável pela central-editorial
 **Objetivo:** a Wave 5 (central publica o contrato; sites revalidam/puxam) é **território da central**. Este doc lista o que o lado emcasa já entregou e onde está a fronteira, para a central absorver sem conflito.
+**Atualizado em:** 13/08/2026 — contrato planejado de `category`, ainda sem runtime
 
 ---
 
@@ -29,6 +30,11 @@ Campos novos em `content/reviews|receitas/*.json` + `src/lib/content/types.ts` �
 
 ## 3. O que a Wave 5 precisa decidir DO LADO DA CENTRAL
 
+- **Extensão aprovada em planejamento, ainda não entregue no runtime em 13/08/2026:**
+  `category` será a classe editorial canônica dos artigos PT de Guias & Análises, com quatro
+  valores definidos em `GUIA-EDITORIAL-GUIAS-ANALISES.md`. A Central deve expor select/enum,
+  preservar o valor no round-trip e bloquear nova publicação PT sem classe depois que o
+  validador do Commit 3A entrar. Não criar `editorialClass` no `content-model`.
 - `status`/`publishAt` no contrato: o doc §5 do EDITORIAL-PORTABILITY reservou `status?: 'draft'|'scheduled'|'published'|'archived'` — os loaders do emcasa ainda NÃO filtram (campo não existe em nenhum JSON). Quando a central começar a emitir, avisar para implementarmos o filtro `!== 'published'` nos loaders ANTES do primeiro draft publicado.
 - Mecanismo de revalidação/pull (ISR? webhook? rebuild?) — decisão de vocês; o site é SSR Hostinger com build manual hoje.
 - Espelhar o contrato em `packages/content-model` mapeando para os nomes REAIS do emcasa (tabela de reconciliação no §5 do EDITORIAL-PORTABILITY.md — `updatedAt`, `publishedAtISO`, `PersonRef`, `Verdict`; `slug` é a chave de portabilidade).
@@ -36,7 +42,8 @@ Campos novos em `content/reviews|receitas/*.json` + `src/lib/content/types.ts` �
 ## 4. Referências
 
 - `docs/EDITORIAL-PORTABILITY.md` (este repo) — §5 contrato reconciliado, §9 checklist com estado real
+- `docs/GUIA-EDITORIAL-GUIAS-ANALISES.md` (este repo) — enum, critérios e caso-limite Aliv × Igloo
 - `dicas/blog/EDITORIAL-PORTABILITY-FRONTEIRA.md` (monorepo dicas) — guardrails G-F1..G-F3
 - Componentes headless candidatos ao `@editorial/core`: `BottomSheet`, `EditorialNotePill`, `RichMarginNote`, `MarginNoteRail`, `RichChip`, `ChangelogDetails`, `SectionLinkButton`, `clipboardUtils`, `tts.ts`, `lineAnchorCodec`
 
-*Gerado em 14/07/2026, main local em `0353795` (Waves 1+2+3 mergeadas, deploy pendente).*
+*Gerado em 14/07/2026; atualizado em 13/08/2026 com a extensão planejada de classe editorial.*

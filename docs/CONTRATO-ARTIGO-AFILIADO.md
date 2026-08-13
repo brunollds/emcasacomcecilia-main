@@ -4,7 +4,8 @@ O que todo artigo novo de uma marca parceira carrega ao nascer. Vale para os art
 ainda não existem — reviews de máquinas, de bebidas, comparativos, guias — e é o que faz o
 acervo compor sozinho em vez de virar backlog de link faltando.
 
-Escrito em 11/08/2026. Caminhos relativos a `emcasacomcecilia/`.
+Escrito em 11/08/2026. Atualizado em 13/08/2026 com a classe editorial. Caminhos relativos a
+`emcasacomcecilia/`.
 
 Por que como contrato e não como tarefa: a linkagem retroativa de hoje não move a posição
 de nenhuma página sozinha. O que ela faz é **estabelecer o padrão antes do volume chegar**.
@@ -19,6 +20,7 @@ Em `content/reviews/<slug>.json`:
 
 | Campo | Valor | Para quê |
 |---|---|---|
+| `category` | uma das quatro classes de Guias & Análises | navegação, filtro e posição editorial; escolher pelo guia geral |
 | `coupon` | o código, ex. `"CECI"` | renderiza o bloco de cópia inline e o da sidebar |
 | `affiliate` | o **slug do cupom**, ex. `"dolce-gusto"` | marca a relação comercial; deve bater com o `slug` em `src/lib/couponsData.ts` |
 | `editorialNote` | frase de divulgação | junto com `coupon`, liga `hasCommercialRelationship` |
@@ -28,6 +30,11 @@ acervo — artigos da Nutren usam `nestle-nutre` enquanto o cupom é `nutren`. N
 
 O `brand` dos eventos é derivado do destino do link, não deste campo, então uma divergência
 aqui não quebra a medição — mas quebra a coerência do resto.
+
+Escolher `category` conforme `GUIA-EDITORIAL-GUIAS-ANALISES.md`. Parceria, CTA ou cupom não
+transformam automaticamente a peça em review de produto. O Aliv Head Gel IWS é guia porque
+explica/promove com fontes públicas sem experiência própria declarada; o Cobertor IWS Igloo é
+produto/experiência porque registra recebimento, primeiras impressões, vídeo e uso noturno.
 
 ## 2. Link interno para a página de cupom
 

@@ -1,6 +1,7 @@
 # Editorial Portability — Em Casa com Cecília ↔ multi-blog
 
 **Data:** 13 de julho de 2026  
+**Atualizado em:** 13 de agosto de 2026
 **Status:** Wave 0 (contrato + mapa) — base para CMS (`central-editorial`) e pack de leitura compartilhado  
 **Relacionado:** `PROXIMOS-PASSOS.md`, Dicas `blog/ROADMAP.md` / `blog/WRITING-GUIDE.md`, Central `docs/CONTINUIDADE.md`
 
@@ -100,9 +101,14 @@ Campos **opcionais** a alinhar entre Em Casa JSON, frontmatter Dicas e `content-
 | Publicado em | `publishAt` | `publishedAt` / `publishedAtISO` | Não criar `publishAt` no JSON do site |
 | Atualizado em | `dateModified` | `updatedAt` | Não criar `dateModified` no JSON do site |
 | Autor | `author` | `PersonRef` (name, slug, role, url, avatar…) | Contrato adota o shape de `PersonRef` (mais rico) |
+| Classe editorial | `category` | `category` (`ReviewCategory`) | Fonte canônica de navegação de Guias & Análises; quatro valores; nunca criar `editorialClass` paralelo |
 | Veredito | `verdict` genérico | `Verdict` (stars 1–5, recommendation union, summary) + pros/cons | Score genérico (`score`/`scoreMax`) só existe na Central; adapter converte p/ stars |
 
 **Regra editorial:** review de tipo **produto** SEMPRE define `verdict` (stars + recommendation + summary); **guia** e **editorial** não exigem.
+
+`category` continua opcional no schema legado até o Commit 3A. Depois dele, passa a ser
+obrigatória para artigo listado em português e para toda nova publicação PT de Guias &
+Análises. Outros idiomas só entram após decisão e backfill próprios.
 
 Campos **genuinamente novos** (não existem em `types.ts` — adicionar como opcionais):
 
@@ -229,6 +235,7 @@ Use como tracking; marcar no PR:
 
 ### Conteúdo / schema
 
+- [ ] `category` controlada nos artigos PT de Guias & Análises; enum 4 valores; adapter sem campo paralelo
 - [x] Regra editorial: review de tipo produto SEMPRE define verdict (stars+recommendation+summary); guia/editorial não exigem
 - [ ] `status` / `changelog` no types + JSON sample (datas: reusar `publishedAt`/`updatedAt` existentes)  
 - [ ] Loaders filtram `status !== 'published'` (nada de rascunho servido em produção)  
@@ -256,6 +263,7 @@ Use como tracking; marcar no PR:
 
 ### Multi-site / CMS
 
+- [ ] Central oferece `category` como select obrigatório para novo artigo PT de Guias & Análises
 - [ ] Doc de contrato espelhado em `central-editorial/packages/content-model` (quando for a hora)  
 - [ ] Damie: 1 guia piloto com âncoras + print  
 - [ ] Nenhum publish produção sem decisão explícita (regra Central)  
@@ -295,8 +303,9 @@ Use como tracking; marcar no PR:
 | `blog/WRITING-GUIDE.md` | Dicas (opções/limites de autoria) |
 | `docs/CONTINUIDADE.md` | Central Editorial |
 | `src/lib/content/types.ts` | Em Casa (schema a estender) |
+| `docs/GUIA-EDITORIAL-GUIAS-ANALISES.md` | Em Casa (classe editorial e decisão de pauta) |
 | `docs/GUIA-EDITORIAL-VIDEOS.md` | Em Casa (autoria, classificação e publicação de vídeos) |
 
 ---
 
-*Última atualização: 13/07/2026 — Wave 0.*
+*Última atualização: 13/08/2026 — contrato de classe editorial acrescentado; runtime pendente do Commit 3A.*
