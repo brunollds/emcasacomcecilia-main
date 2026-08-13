@@ -15,3 +15,10 @@ scripts/validate-pretext.ts export-ignore
 
 # Duplicata byte a byte do logo canônico, sem consumidor no código ou conteúdo.
 public/images/logos/JVHp4mNUSUu0_YhHD_lgPQ-Photoroom.png export-ignore
+
+# Assets legados sem consumidor; mantidos no histórico, mas fora do pacote gerenciado.
+public/images/logos/aFEtlOMkT12LfS48Ef7rdQ.webp export-ignore
+public/images/logos/aFEtlOMkT12LfS48Ef7rdQ-Photoroom.png export-ignore
+public/images/recipes/carnes/carne-2.jpg export-ignore
+public/images/recipes/sobremesas/mousse-2.jpg export-ignore
+public/images/reviews/damie-reclame-aqui-hero.jpg export-ignore
