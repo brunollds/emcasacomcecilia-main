@@ -2,14 +2,14 @@ import { Suspense } from 'react';
 import ReviewsClientPage from './ReviewsClientPage';
 
 export const metadata = {
-  title: 'Reviews & Análises - Em Casa com Cecília',
-  description: 'Reviews sinceros de produtos, eletrodomésticos e ingredientes testados na cozinha. Descubra o que realmente vale a pena!',
+  title: 'Guias & Análises - Em Casa com Cecília',
+  description: 'Guias práticos, análises de produtos, reputação de marcas e instruções de compra para ajudar você a decidir com mais contexto.',
   alternates: {
     canonical: '/reviews',
   },
   openGraph: {
-    title: 'Reviews & Análises - Em Casa com Cecília',
-    description: 'Produtos testados de verdade, análises sinceras e guias úteis para casa e cozinha.',
+    title: 'Guias & Análises - Em Casa com Cecília',
+    description: 'Guias práticos, análises de produtos, reputação de marcas e instruções de compra para decisões com mais contexto.',
     url: '/reviews',
     type: 'website',
   },

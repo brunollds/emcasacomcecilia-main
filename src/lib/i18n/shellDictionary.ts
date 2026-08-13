@@ -178,7 +178,7 @@ export function getShellNavLinks(localeStr: string) {
   if (loc === 'pt') {
     return [
       { href: '/receitas', label: 'Receitas', primary: true },
-      { href: '/reviews', label: 'Reviews' },
+      { href: '/reviews', label: 'Guias & Análises' },
       { href: '/videos', label: 'Vídeos' },
       { href: '/cupons', label: 'Cupons' },
       { href: '/sobre', label: 'Sobre' },

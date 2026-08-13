@@ -1,18 +1,21 @@
 'use client';
 
 import { useState, useMemo } from 'react';
-import Link from 'next/link';
 import Image from 'next/image';
+import { useRouter, useSearchParams } from 'next/navigation';
 import { ArrowRight, Leaf } from 'lucide-react';
 import { getReviewSlug, publishedReviews } from '@/lib/data';
+import {
+  REVIEW_CATEGORIES,
+  isListedInPortuguese,
+  parseReviewCategory,
+} from '@/lib/reviewDiscovery';
 import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 import { ViewTransitionLink } from '@/components/ViewTransitionLink';
 
 const INITIAL_COUNT = 8;
 const LOAD_MORE_COUNT = 4;
-const listedReviews = publishedReviews.filter(
-  (review) => !review.hideFromListings && !review.hideFromPortugueseListings
-);
+const listedReviews = publishedReviews.filter(isListedInPortuguese);
 
 const accentByType = {
   'Eletrodoméstico': '#ff6b35',
@@ -50,7 +53,10 @@ const estimateReadingTime = (review) => {
   return Math.max(2, Math.ceil(words / 180));
 };
 
-const uniqueTypes = ['Todos', ...Array.from(new Set(listedReviews.map((r) => r.type))).sort()];
+const categoryFilters = [
+  { value: null, label: 'Todos' },
+  ...REVIEW_CATEGORIES,
+];
 
 const sortReviewsByDateDesc = (items) =>
   [...items].sort((a, b) => {
@@ -61,23 +67,43 @@ const sortReviewsByDateDesc = (items) =>
   });
 
 export default function ReviewsClientPage() {
-  const [activeType, setActiveType] = useState('Todos');
-  const [visible, setVisible] = useState(INITIAL_COUNT);
+  const router = useRouter();
+  const searchParams = useSearchParams();
+  const activeCategory = parseReviewCategory(searchParams.get('categoria'));
+  const [pagination, setPagination] = useState({
+    category: activeCategory,
+    visible: INITIAL_COUNT,
+  });
+  const visible =
+    pagination.category === activeCategory
+      ? pagination.visible
+      : INITIAL_COUNT;
 
   const filtered = useMemo(
     () =>
       sortReviewsByDateDesc(
-        activeType === 'Todos' ? listedReviews : listedReviews.filter((r) => r.type === activeType)
+        activeCategory
+          ? listedReviews.filter((review) => review.category === activeCategory)
+          : listedReviews
       ),
-    [activeType]
+    [activeCategory]
   );
 
   const visibleReviews = filtered.slice(0, visible);
   const hasMore = filtered.length > visible;
 
-  const handleTypeChange = (type) => {
-    setActiveType(type);
-    setVisible(INITIAL_COUNT);
+  const handleCategoryChange = (category) => {
+    const params = new URLSearchParams(searchParams.toString());
+
+    if (category) {
+      params.set('categoria', category);
+    } else {
+      params.delete('categoria');
+    }
+
+    const query = params.toString();
+    router.push(query ? `/reviews?${query}` : '/reviews', { scroll: false });
+    setPagination({ category, visible: INITIAL_COUNT });
   };
 
   return (
@@ -93,10 +119,10 @@ export default function ReviewsClientPage() {
 
         <div className="relative z-10 mx-auto max-w-7xl animate-slide-up text-center">
           <h1 className="font-heading text-4xl font-bold md:text-5xl">
-            Reviews & Análises
+            Guias & Análises
           </h1>
           <p className="mx-auto mt-4 max-w-2xl text-base leading-relaxed text-white/70 md:text-lg">
-            Produtos testados de verdade na cozinha. Sem filtro, sem patrocínio escondido.
+            Guias práticos, experiências reais quando existem e análises baseadas em dados e fontes declaradas.
           </p>
         </div>
       </section>
@@ -105,25 +131,26 @@ export default function ReviewsClientPage() {
         <div className="mx-auto max-w-7xl">
           {/* Filtros */}
           <div className="mb-8 flex flex-wrap items-center gap-2">
-            {uniqueTypes.map((type) => (
+            {categoryFilters.map(({ value, label }) => (
               <button
-                key={type}
+                key={value || 'todos'}
                 type="button"
-                onClick={() => handleTypeChange(type)}
+                onClick={() => handleCategoryChange(value)}
+                aria-pressed={activeCategory === value}
                 className={`rounded-full border px-5 py-2 text-sm font-semibold transition-all ${
-                  activeType === type
+                  activeCategory === value
                     ? 'border-[#1a4d2e] bg-[#1a4d2e] text-white shadow-sm'
                     : 'border-black/10 bg-white text-[#0f1419] hover:border-[#ff6b35]/35 hover:text-[#ff6b35]'
                 }`}
               >
-                {type}
+                {label}
               </button>
             ))}
           </div>
 
           {/* Contagem */}
           <p className="mb-6 text-sm font-medium text-gray-500">
-            {filtered.length} {filtered.length === 1 ? 'análise' : 'análises'} encontradas
+            {filtered.length} {filtered.length === 1 ? 'conteúdo encontrado' : 'conteúdos encontrados'}
           </p>
 
           {/* Grid */}
@@ -233,10 +260,15 @@ export default function ReviewsClientPage() {
             <div className="mt-10 flex justify-center">
               <button
                 type="button"
-                onClick={() => setVisible((v) => v + LOAD_MORE_COUNT)}
+                onClick={() =>
+                  setPagination({
+                    category: activeCategory,
+                    visible: visible + LOAD_MORE_COUNT,
+                  })
+                }
                 className="inline-flex items-center gap-2 rounded-full border-2 border-[#1a4d2e] px-8 py-4 font-semibold text-[#1a4d2e] transition-all hover:bg-[#1a4d2e] hover:text-white"
               >
-                Carregar mais análises
+                Carregar mais guias e análises
                 <ArrowRight className="h-4 w-4" />
               </button>
             </div>
@@ -245,8 +277,8 @@ export default function ReviewsClientPage() {
           {/* Disclaimer */}
           {filtered.length > 0 && (
             <p className="mx-auto mt-12 max-w-2xl text-center text-xs leading-relaxed text-gray-400">
-              Todos os reviews são baseados na experiência pessoal e opinião sincera da Cecília.
-              Parcerias comerciais são sempre declaradas explicitamente no conteúdo.
+              Cada conteúdo informa sua base: experiência própria, dados públicos ou fontes declaradas.
+              Parcerias comerciais são identificadas explicitamente.
             </p>
           )}
         </div>
