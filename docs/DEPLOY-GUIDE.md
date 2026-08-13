@@ -55,6 +55,8 @@ convergência desses sinais, não o dispatch.
 
 O environment `production-observe` exige aprovação de `brunollds`, não permite bypass administrativo e
 aceita somente a branch `main`. Ele precisa continuar protegido antes de qualquer execução.
+Como `prevent_self_review=false`, o único operador pode aprovar o próprio dispatch. Esse controle é um gate
+de ação deliberada e auditável, não segregação de funções nem aprovação independente por segunda pessoa.
 
 ```bash
 gh workflow run hostinger-wire-probe.yml \
