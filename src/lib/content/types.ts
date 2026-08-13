@@ -1,6 +1,8 @@
 // Camada canônica de contratos de conteúdo — Fase 1
 // Compatível com src/lib/data.ts legado e com os contratos v1.1 de destino.
 
+import type { ReviewCategory } from '../reviewDiscovery';
+
 // ---------------------------------------------------------------------------
 // Primitivos compartilhados
 // ---------------------------------------------------------------------------
@@ -340,7 +342,7 @@ export interface Review {
   imagePosition?: 'center' | 'top' | 'bottom' | 'left' | 'right';
   imageFit?: 'cover' | 'contain';
   coverImage?: Image;
-  category?: string;
+  category?: ReviewCategory;
   youtubeUrl?: string;
   audio?: AudioClip;
   gallery?: GalleryImage[];

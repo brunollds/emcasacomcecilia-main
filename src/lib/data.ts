@@ -1,4 +1,5 @@
 import { recipesData, reviewsData } from './generated/content-index';
+import type { ReviewCategory } from './reviewDiscovery';
 
 // 📊 Dados Unificados - Em Casa com Cecília
 
@@ -182,6 +183,7 @@ export interface Review {
   title: string;
   type: string;
   reviewKind?: 'produto' | 'guia' | 'editorial';
+  category?: ReviewCategory;
   rating?: number;
   ratingCount?: number;
   productName?: string;

@@ -4,6 +4,11 @@
 
 import { recipes, reviews } from '@/lib/data';
 import {
+  isListedInPortuguese,
+  isReviewCategory,
+  isValidReviewPublishedAtISO,
+} from '@/lib/reviewDiscovery';
+import {
   formatQuantity,
   inferReviewKind,
   normalizeRecipe,
@@ -252,6 +257,38 @@ for (const review of reviews) {
     reportError({ type: 'review', id: review.id, slug: review.slug, message: 'type ausente' });
   }
 
+  const listedInPortuguese = isListedInPortuguese(review);
+
+  if (review.category !== undefined && !isReviewCategory(review.category)) {
+    reportError({
+      type: 'review',
+      id: review.id,
+      slug: review.slug,
+      message: `category inválida: "${review.category}"`,
+    });
+  }
+
+  if (listedInPortuguese && review.category === undefined) {
+    reportError({
+      type: 'review',
+      id: review.id,
+      slug: review.slug,
+      message: 'artigo listado em português sem category válida',
+    });
+  }
+
+  if (
+    listedInPortuguese &&
+    !isValidReviewPublishedAtISO(review.publishedAtISO)
+  ) {
+    reportError({
+      type: 'review',
+      id: review.id,
+      slug: review.slug,
+      message: 'artigo listado em português sem publishedAtISO válida',
+    });
+  }
+
   if (review.contentSections !== undefined && !Array.isArray(review.contentSections)) {
     reportError({ type: 'review', id: review.id, slug: review.slug, message: 'contentSections, quando presente, deve ser array' });
   }
@@ -265,7 +302,7 @@ for (const review of reviews) {
   }
 
   // Warnings não bloqueantes
-  if (!review.publishedAtISO) {
+  if (!review.publishedAtISO && !listedInPortuguese) {
     reportWarning({
       type: 'review',
       id: review.id,
