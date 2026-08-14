@@ -339,7 +339,7 @@ export const socialMedias: SocialMedia[] = [
   {
     name: 'YouTube',
     handle: '@emcasacomcecilia',
-    followers: '11.3K+',
+    followers: '13.3K',
     url: brandLinks.youtube,
     icon: 'Youtube',
     color: 'bg-red-600',
@@ -347,7 +347,7 @@ export const socialMedias: SocialMedia[] = [
   {
     name: 'Instagram',
     handle: '@emcasacomcecilia',
-    followers: '445K',
+    followers: '443.5K',
     url: brandLinks.instagram,
     icon: 'Instagram',
     color: 'bg-gradient-to-br from-purple-600 to-pink-600',
@@ -355,7 +355,7 @@ export const socialMedias: SocialMedia[] = [
   {
     name: 'TikTok',
     handle: '@emcasacomcecilia',
-    followers: '84K',
+    followers: '85.5K',
     url: brandLinks.tiktok,
     icon: 'TikTok',
     color: 'bg-black',
@@ -363,7 +363,7 @@ export const socialMedias: SocialMedia[] = [
   {
     name: 'Facebook',
     handle: 'Em Casa com Cecília',
-    followers: '7K',
+    followers: '8.5K',
     url: brandLinks.facebook,
     icon: 'Facebook',
     color: 'bg-blue-600',
@@ -371,7 +371,7 @@ export const socialMedias: SocialMedia[] = [
   {
     name: 'Kwai',
     handle: '@emcasacomcecilia',
-    followers: '5K',
+    followers: '6.4K',
     url: brandLinks.kwai,
     icon: 'Kwai',
     color: 'bg-orange-500',

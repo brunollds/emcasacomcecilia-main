@@ -55,7 +55,7 @@ export function ReviewsShowcase({ items }: { items: HomeReviewCard[] }) {
         onSelect={setActiveCategory}
       />
 
-      <section id="home-review-carousel" className="bg-white py-10 md:py-12">
+      <section id="home-review-carousel" className="bg-white pb-10 pt-7 md:py-12">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="mb-7 flex items-end justify-between gap-3 md:mb-8 md:gap-6">
           <div>
@@ -66,7 +66,7 @@ export function ReviewsShowcase({ items }: { items: HomeReviewCard[] }) {
               </span>
             </div>
             <h2 className="font-editorial text-2xl font-bold text-[#0f1d3a] sm:text-3xl">
-              Mais em Guias & Análises
+              Guias & Análises
             </h2>
           </div>
 
@@ -82,7 +82,7 @@ export function ReviewsShowcase({ items }: { items: HomeReviewCard[] }) {
         </div>
 
         <div className="grid grid-cols-2 gap-x-4 gap-y-8 md:grid-cols-4 md:gap-y-10">
-          {visibleItems.map((item) => {
+          {visibleItems.map((item, index) => {
             const accent = accentByType[item.type] ?? '#ff6b35';
             const imageClassName =
               item.imageFit === 'contain'
@@ -95,7 +95,7 @@ export function ReviewsShowcase({ items }: { items: HomeReviewCard[] }) {
                 href={`/reviews/${item.slug}`}
                 placement="home_reviews_carousel"
                 linkLabel={item.title}
-                className="group block"
+                className={`group block ${index >= 6 ? 'hidden md:block' : ''}`}
               >
                 <article className="transition-transform duration-500 group-hover:-translate-y-2">
                   <div className="relative mb-4 aspect-[4/3] overflow-hidden rounded-[1.35rem] shadow-soft transition-shadow duration-500 group-hover:shadow-large md:rounded-[1.6rem] lg:rounded-[2rem]">
@@ -124,13 +124,13 @@ export function ReviewsShowcase({ items }: { items: HomeReviewCard[] }) {
                     <div className="absolute inset-0 bg-black/0 transition-colors duration-300 group-hover:bg-black/10" />
                     <div className="absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-80" />
 
-                    <div className="absolute left-3 top-3 flex flex-wrap gap-2 sm:left-4 sm:top-4">
+                    <div className="absolute left-3 top-3 flex flex-wrap gap-1.5 sm:left-4 sm:top-4 sm:gap-2">
                       {item.isNew && (
-                        <span className="inline-flex items-center rounded-full bg-[#ff6b35] px-2.5 py-1.5 text-[9px] font-black uppercase tracking-[0.16em] text-white shadow-lg sm:px-3 sm:text-[10px] sm:tracking-[0.2em]">
+                        <span className="inline-flex items-center rounded-full bg-[#ff6b35] px-2 py-1 text-[8px] font-black uppercase leading-none tracking-[0.1em] text-white shadow-lg sm:px-3 sm:py-1.5 sm:text-[10px] sm:tracking-[0.2em]">
                           Novo
                         </span>
                       )}
-                      <span className="inline-flex items-center rounded-full bg-white/95 px-2.5 py-1.5 text-[9px] font-bold uppercase tracking-[0.12em] text-[#0f1419] shadow-lg backdrop-blur-md sm:px-3 sm:text-[10px] sm:tracking-[0.2em]">
+                      <span className="inline-flex items-center rounded-full bg-white/95 px-2 py-1 text-[8px] font-bold uppercase leading-none tracking-[0.08em] text-[#0f1419] shadow-lg backdrop-blur-md sm:px-3 sm:py-1.5 sm:text-[10px] sm:tracking-[0.2em]">
                         {item.type}
                       </span>
                     </div>

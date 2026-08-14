@@ -8,7 +8,7 @@ export async function CTA() {
   const youtubeShorts = await getYoutubeHighlights();
 
   return (
-    <section className="bg-[#0f1d3a] pt-16 pb-0">
+    <section className="bg-[#0f1d3a] pb-0 pt-8 md:pt-12">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="mb-5 flex flex-col gap-3 md:flex-row md:items-end md:justify-between">
           <h2 className="font-heading text-3xl font-bold text-white sm:text-[2.25rem]">

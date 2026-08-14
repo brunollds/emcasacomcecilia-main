@@ -2,7 +2,31 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { ChefHat, ArrowRight, MessageCircleMore, Coffee, Leaf, UtensilsCrossed } from 'lucide-react';
 import { Button } from '@/components/ui/Button';
-import { brandLinks } from '@/lib/data';
+import { brandLinks, socialMedias } from '@/lib/data';
+
+function formatHeroFollowerCount(value?: string) {
+  if (!value) return '—';
+
+  const thousands = Number.parseFloat(value);
+  return Number.isFinite(thousands) ? `${Math.round(thousands)}k` : '—';
+}
+
+const heroSocialStats = [
+  { name: 'Instagram', color: 'text-[#ffd700]' },
+  { name: 'TikTok', color: 'text-white' },
+  { name: 'YouTube', color: 'text-[#ff6b35]' },
+  { name: 'Facebook', color: 'text-white' },
+].map(({ name, color }) => ({
+  name,
+  color,
+  followers: formatHeroFollowerCount(
+    socialMedias.find((social) => social.name === name)?.followers,
+  ),
+}));
+
+const instagramFollowers = heroSocialStats.find(
+  ({ name }) => name === 'Instagram'
+)?.followers;
 
 const SocialIcons = {
   Youtube: () => (
@@ -45,7 +69,7 @@ export function Hero() {
         <div className="grid gap-8 items-center sm:grid-cols-[minmax(0,1fr)_260px] sm:gap-5 md:grid-cols-[minmax(0,1fr)_300px] md:gap-6 lg:grid-cols-2 lg:gap-12">
           {/* Texto */}
           <div className="space-y-5 animate-slide-up">
-            <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 text-white text-sm font-semibold">
+            <div className="hidden items-center gap-2 px-4 py-2 rounded-full bg-white/10 text-white text-sm font-semibold md:inline-flex">
               <ChefHat className="w-4 h-4" />
               <span>Bem-vindo ao meu cantinho!</span>
             </div>
@@ -118,26 +142,18 @@ export function Hero() {
               </span>
             </Link>
 
-            <div className="flex flex-wrap items-center gap-6 pt-2">
-              <div className="text-center">
-                <div className="font-heading text-2xl font-bold text-[#ffd700]">+100</div>
-                <div className="text-xs text-white/60">Receitas</div>
-              </div>
-              <div className="w-px h-10 bg-white/15" />
-              <div className="text-center">
-                <div className="font-heading text-2xl font-bold text-white">445k</div>
-                <div className="text-xs text-white/60">Instagram</div>
-              </div>
-              <div className="w-px h-10 bg-white/15" />
-              <div className="text-center">
-                <div className="font-heading text-2xl font-bold text-white">84k</div>
-                <div className="text-xs text-white/60">Tiktok</div>
-              </div>
-              <div className="w-px h-10 bg-white/15" />
-              <div className="text-center">
-                <div className="font-heading text-2xl font-bold text-[#ff6b35]">11.3k</div>
-                <div className="text-xs text-white/60">Youtube</div>
-              </div>
+            <div className="grid grid-cols-4 pt-2">
+              {heroSocialStats.map(({ name, color, followers }) => (
+                <div
+                  key={name}
+                  className="border-l border-white/15 px-2 text-center first:border-l-0 first:pl-0 last:pr-0"
+                >
+                  <div className={`font-heading text-2xl font-bold ${color}`}>
+                    {followers}
+                  </div>
+                  <div className="text-xs text-white/60">{name}</div>
+                </div>
+              ))}
             </div>
           </div>
 
@@ -169,8 +185,8 @@ export function Hero() {
                   </div>
 
                   <span className="hidden rounded-full border border-white/12 bg-white/10 px-3 py-1.5 text-[10px] font-semibold uppercase tracking-[0.12em] text-white backdrop-blur-sm md:inline-flex lg:text-[11px] lg:tracking-[0.16em]">
-                    <span className="hidden sm:inline">445k seguidores</span>
-                    <span className="sm:hidden">445k</span>
+                    <span className="hidden sm:inline">{instagramFollowers} seguidores</span>
+                    <span className="sm:hidden">{instagramFollowers}</span>
                   </span>
                 </div>
 

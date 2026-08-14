@@ -26,26 +26,8 @@ export function Offers({ items = offers }: OffersProps) {
   };
 
   return (
-    <section className="py-16 bg-[#fef9f3]">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-10">
-          <div>
-            <h2 className="font-heading text-2xl sm:text-3xl font-bold text-[#0f1419]">
-              Ofertas em Destaque
-            </h2>
-          </div>
-          
-          <Link
-            href={brandLinks.dicas}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="group hidden items-center gap-2 px-5 py-2.5 rounded-full bg-white border border-gray-200 text-[#ff6b35] font-bold text-sm transition-all hover:border-[#ff6b35]/30 hover:shadow-md md:inline-flex"
-          >
-            Ver Todas as Ofertas
-            <ExternalLink className="w-4 h-4 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
-          </Link>
-        </div>
-
+    <section className="bg-[#fef9f3] pb-10 pt-0 md:pb-16">
+      <div className="mx-auto max-w-7xl border-t border-[#1a4d2e]/10 px-4 pt-6 sm:px-6 md:pt-16 lg:px-8">
         <div className="relative">
           <div className="pointer-events-none absolute inset-y-0 left-0 hidden w-14 bg-gradient-to-r from-[#fef9f3] to-transparent lg:block" />
           <div className="pointer-events-none absolute inset-y-0 right-0 hidden w-14 bg-gradient-to-l from-[#fef9f3] to-transparent lg:block" />
@@ -143,20 +125,19 @@ export function Offers({ items = offers }: OffersProps) {
           </div>
         </div>
 
-        {/* CTA Final */}
-        <div className="text-center mt-12 md:hidden">
-          <p className="text-sm font-medium text-gray-500 mb-5">
-            Novas ofertas todos os dias no nosso canal de cupons!
-          </p>
+        <div className="mt-8 flex flex-col items-center gap-3 text-center md:mt-10">
           <Link
             href={brandLinks.dicas}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-3 px-10 py-4 bg-[#ff6b35] hover:bg-[#ff5722] text-white rounded-full font-bold shadow-lg shadow-[#ff6b35]/25 transition-all hover:scale-105 active:scale-95"
+            className="inline-flex items-center gap-3 rounded-full bg-[#ff6b35] px-8 py-3.5 font-bold text-white shadow-lg shadow-[#ff6b35]/25 transition-all hover:scale-105 hover:bg-[#ff5722] active:scale-95 md:px-10 md:py-4"
           >
-            Acessar Dicas & Ofertas
+            Acessar Ofertas & Cupons
             <ExternalLink className="w-5 h-5" />
           </Link>
+          <p className="text-sm font-medium text-gray-500">
+            Quer ver mais? Acesse nosso site de promos & cupons.
+          </p>
         </div>
       </div>
     </section>

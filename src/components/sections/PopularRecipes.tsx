@@ -72,24 +72,24 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
   );
 
   return (
-    <section className="bg-white pb-16 pt-6 md:pt-8">
+    <section className="bg-white pb-8 pt-0 md:pb-16 md:pt-8">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Receitas Populares */}
-        <div>
-          <div className="flex items-center gap-2 mb-4">
+        <div className="border-t border-[#1a4d2e]/10 pt-6 md:border-t-0 md:pt-0">
+          <div className="mb-2 flex items-center gap-2 md:mb-4">
             <Heart className="w-5 h-5 text-[#ff6b35] fill-[#ff6b35]" />
             <span className="text-sm font-semibold text-[#ff6b35] uppercase tracking-wide">
               Mais Amadas
             </span>
           </div>
 
-          <div className="mb-8 flex items-end justify-between gap-4">
+          <div className="mb-8 flex items-end justify-between gap-3 sm:gap-4">
             <h2 className="font-editorial text-2xl sm:text-3xl font-bold text-[#1a4d2e]">
               Receitas Favoritas
             </h2>
             <Link
               href="/receitas"
-              className="hidden items-center gap-2 rounded-full border border-[#1a4d2e]/20 bg-white px-5 py-2.5 text-sm font-semibold text-[#1a4d2e] transition-all hover:border-[#1a4d2e] hover:bg-[#1a4d2e] hover:text-white md:inline-flex"
+              className="inline-flex shrink-0 items-center gap-1.5 rounded-full border border-[#1a4d2e]/20 bg-white px-3.5 py-2 text-xs font-semibold text-[#1a4d2e] transition-all hover:border-[#1a4d2e] hover:bg-[#1a4d2e] hover:text-white sm:gap-2 sm:px-5 sm:py-2.5 sm:text-sm"
             >
               Ver todas
               <ArrowRight className="h-4 w-4" />
@@ -99,17 +99,6 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
           <div className="-mx-4 flex snap-x snap-mandatory gap-4 overflow-x-auto px-4 pb-2 [scrollbar-width:none] md:mx-0 md:grid md:grid-cols-4 md:gap-4 md:overflow-visible md:px-0 md:pb-0 lg:gap-6 [&::-webkit-scrollbar]:hidden">
             {popularRecipes.map((recipe, index) => renderRecipeCard(recipe, index))}
           </div>
-        </div>
-
-        {/* Ver Todas */}
-        <div className="mt-10 text-center md:hidden">
-          <Link
-            href="/receitas"
-            className="inline-flex items-center gap-2 px-8 py-4 border-2 border-[#1a4d2e] text-[#1a4d2e] rounded-full font-semibold hover:bg-[#1a4d2e] hover:text-white transition-all"
-          >
-            Ver Todas as Receitas
-            <ArrowRight className="h-4 w-4" />
-          </Link>
         </div>
 
         <RecipeCategoryLinks />

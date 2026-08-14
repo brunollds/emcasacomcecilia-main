@@ -31,8 +31,8 @@ const recipeCategories: Array<{
 
 export function RecipeCategoryLinks() {
   return (
-    <div className="mt-12 border-t border-[#1a4d2e]/10 pt-8">
-      <p className="mb-6 text-center text-xs font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/65">
+    <div className="mt-6 md:mt-12 md:border-t md:border-[#1a4d2e]/10 md:pt-8">
+      <p className="mb-4 text-center text-xs font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/65 md:mb-6">
         Explore receitas
       </p>
 

@@ -48,8 +48,8 @@ export function MyLinks() {
   const [heroLink, ...secondaryLinks] = links;
 
   return (
-    <section className="bg-[#fef9f3] px-6 py-12">
-      <div className="max-w-7xl mx-auto">
+    <section className="bg-[#fef9f3] px-6 pb-8 pt-0 md:py-12">
+      <div className="mx-auto max-w-7xl border-t border-[#1a4d2e]/10 pt-7 md:border-t-0 md:pt-0">
         <div className="mb-6 text-left">
           <div>
             <h2 className="font-heading text-2xl sm:text-3xl font-bold text-[#0f1419]">

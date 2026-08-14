@@ -30,7 +30,7 @@ export function ReviewCategoryLinks({
   onSelect: (category: ReviewCategory) => void;
 }) {
   return (
-    <section className="bg-[#0f1d3a] pb-12 pt-2 md:pb-14 md:pt-4">
+    <section className="bg-[#0f1d3a] pb-5 pt-2 md:pb-14 md:pt-4">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex flex-nowrap justify-start gap-4 overflow-x-auto pb-2 [scrollbar-width:none] lg:justify-center lg:gap-8 lg:overflow-visible [&::-webkit-scrollbar]:hidden">
           {REVIEW_CATEGORIES.map(({ value, label }) => {
