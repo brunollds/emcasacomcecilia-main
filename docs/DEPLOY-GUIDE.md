@@ -58,6 +58,30 @@ Estado terminal do provider não basta. Declarar o release saudável exige tamb�
 smoke de conteúdo e inventário de todos os workers via `CAPTURE_ONLY`. O marco da medição é a
 convergência desses sinais, não o dispatch.
 
+O único pacote autorizado para o MCP é o produzido por:
+
+```bash
+npm run deploy:prepare
+```
+
+O preflight atualiza `origin/main` e bloqueia antes do build quando a branch não é `main`, quando
+`HEAD != origin/main` ou quando existe qualquer mudança local que ficaria fora do archive. Ele também
+mostra o delta completo entre o SHA atestado em produção e o candidato, incorpora
+`release-meta.json` e aplica a guarda de 45 MB sobre o archive final exato. Não substituir erro por
+aviso e não montar pacote manualmente.
+
+Depois que o MCP informar `completed`, registrar o build UUID e verificar as três identidades:
+
+```bash
+npm run deploy:finish -- \
+  --target-sha <SHA_COMPLETO> \
+  --deploy-uuid <DEPLOY_UUID> \
+  --build-uuid <BUILD_UUID_HOSTINGER>
+```
+
+O `finish` valida attestation, manifesto estático, rotas essenciais e todos os workers sob
+`hbuilds/versions/<build_uuid>/nodejs`. A captura auditável via `CAPTURE_ONLY` continua obrigatória.
+
 ### Inspeção somente leitura
 
 O environment `production-observe` exige aprovação de `brunollds`, não permite bypass administrativo e
@@ -241,9 +265,10 @@ stale é normal. A attestation do deploy não depende desse cache. Persistiu: pu
 
 ## Fallback legado — deploy via MCP (build gerenciado da Hostinger)
 
-Só se o CI estiver indisponível. `npm run deploy:prepare` (archive com prefixo `emcasacomcecilia/`
-via git archive) → MCP `hosting_deployJsApplication` (poll `hosting_listJsDeployments` até
-`completed`) → `npm run deploy:finish` (health-check 240s + vídeos). Detalhes/pegadinhas: histórico
+Só se o CI estiver indisponível. `npm run deploy:prepare` (archive atestado com prefixo
+`emcasacomcecilia/`) → MCP `hosting_deployJsApplication` (poll `hosting_listJsDeployments` até
+`completed`) → `npm run deploy:finish -- --target-sha ... --deploy-uuid ... --build-uuid ...`
+(attestation + manifesto + smoke + workers gerenciados). Detalhes/pegadinhas: histórico
 do git deste guia (versão de 15/07). Pontos que continuam valendo: `state: completed` não é validação
 suficiente; painel = node 18 (não usar); env vive no painel.
 

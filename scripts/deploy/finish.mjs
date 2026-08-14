@@ -1,90 +1,172 @@
-// Verifica a saúde da produção após o deploy MCP. Fail-loud. NÃO muta nada no servidor.
-// Uso: npm run deploy:finish   (rodar DEPOIS do upload MCP chegar a state=completed)
-//
-// As variáveis de ambiente (NODE_OPTIONS, RESEND_API_KEY, YOUTUBE_*, GA) vivem no PAINEL da Hostinger
-// (Site → Variáveis de ambiente), PERSISTEM entre deploys e são injetadas no processo node no boot.
-// Por isso este passo não reinjeta .env nem reinicia — só verifica. O único restart é o do próprio
-// deploy MCP (cold start ~90-120s neste host). Validado 10/07: app 200 + vídeos SEM .env no servidor.
+// Verifica o release gerenciado depois que o build Hostinger chega a completed.
+// Uso: npm run deploy:finish -- --target-sha <SHA> --deploy-uuid <UUID> --build-uuid <UUID>
 import { execFileSync } from 'node:child_process';
 import { setDefaultResultOrder } from 'node:dns';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 
-// O domínio anuncia AAAA (IPv6) além do A. Em máquinas SEM rota IPv6 até a Hostinger
-// (ex.: Windows do Bruno/Codex — ENETUNREACH verificado 14/07), o fetch nativo tentava
-// IPv6 e dava 000 (falso negativo), enquanto o curl usava IPv4 e funcionava. Forçar IPv4
-// primeiro casa com o caminho do curl (fallback pra IPv6 continua se o IPv4 falhar).
 setDefaultResultOrder('ipv4first');
 
 const DOMAIN = 'emcasacomcecilia.com';
-const SSH_ARGS = ['-p', '65002', 'u150185510@46.202.145.2'];
-const APPDIR_ABS = '/home/u150185510/domains/emcasacomcecilia.com/nodejs';
+const ACCOUNT = 'u150185510';
+const ROOT = `/home/${ACCOUNT}/domains/${DOMAIN}`;
+const SSH_ARGS = ['-p', '65002', `${ACCOUNT}@46.202.145.2`];
+const SHA_RE = /^[0-9a-f]{40}$/;
+const UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/;
+const SMOKE_ROUTES = ['/', '/cupons', '/receitas', '/reviews', '/sobre', '/contato', '/sitemap.xml', '/llms.txt'];
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-let lastFetchError = '';
-async function httpCode() {
-  try {
-    const response = await fetch(`https://${DOMAIN}/`, {
-      redirect: 'manual',
+function argValue(name, argv = process.argv.slice(2)) {
+  const index = argv.indexOf(name);
+  return index === -1 ? undefined : argv[index + 1];
+}
+
+export function validateFinishInput({ targetSha, deployUuid, buildUuid }) {
+  if (!SHA_RE.test(targetSha ?? '')) throw new Error('--target-sha deve ser SHA completo');
+  if (!UUID_RE.test(deployUuid ?? '')) throw new Error('--deploy-uuid deve ser UUID canônico');
+  if (!UUID_RE.test(buildUuid ?? '')) throw new Error('--build-uuid deve ser UUID canônico');
+  return { targetSha, deployUuid, buildUuid };
+}
+
+function exactAttestation(value, targetSha, deployUuid) {
+  if (!value || typeof value !== 'object' || Array.isArray(value)) return false;
+  const keys = Object.keys(value).sort();
+  return keys.join(',') === 'deploy_uuid,target_sha'
+    && value.target_sha === targetSha
+    && value.deploy_uuid === deployUuid;
+}
+
+async function waitForAttestation({ targetSha, deployUuid }) {
+  const deadline = Date.now() + 240_000;
+  while (Date.now() < deadline) {
+    try {
+      const response = await fetch(`https://${DOMAIN}/api/release?cb=${deployUuid}-${Date.now()}`, {
+        headers: { 'Cache-Control': 'no-cache' },
+        redirect: 'error',
+        signal: AbortSignal.timeout(20_000),
+      });
+      const body = await response.json();
+      if (response.status === 200
+        && (response.headers.get('cache-control') ?? '').includes('no-store')
+        && exactAttestation(body, targetSha, deployUuid)) {
+        return;
+      }
+    } catch {
+      // O build ainda pode estar convergindo; o prazo continua sendo a autoridade.
+    }
+    await sleep(5_000);
+  }
+  throw new Error('produção não apresentou a atestação exata em 240s');
+}
+
+async function waitForStaticBuild(targetSha) {
+  const deadline = Date.now() + 240_000;
+  while (Date.now() < deadline) {
+    try {
+      const url = `https://${DOMAIN}/_next/static/${targetSha}/_buildManifest.js?cb=${Date.now()}`;
+      const response = await fetch(url, {
+        headers: { 'Cache-Control': 'no-cache' },
+        redirect: 'error',
+        signal: AbortSignal.timeout(20_000),
+      });
+      const body = await response.text();
+      if (response.status === 200 && body.includes('self.__BUILD_MANIFEST')) return;
+    } catch {
+      // O CDN pode convergir depois da atestação dinâmica.
+    }
+    await sleep(5_000);
+  }
+  throw new Error('manifesto estático do SHA candidato não convergiu em 240s');
+}
+
+async function verifySmokeRoutes() {
+  for (const route of SMOKE_ROUTES) {
+    const separator = route.includes('?') ? '&' : '?';
+    const response = await fetch(`https://${DOMAIN}${route}${separator}cb=${Date.now()}`, {
+      headers: { 'Cache-Control': 'no-cache' },
+      redirect: 'error',
+      signal: AbortSignal.timeout(20_000),
     });
-    return String(response.status);
-  } catch (e) {
-    // NÃO engolir o motivo: ECONNREFUSED/ECONNRESET = cold start (retry ok);
-    // ENETUNREACH/ETIMEDOUT = rede/IPv6 (ambiental, não vai melhorar sozinho).
-    lastFetchError = e?.cause?.code || e?.cause?.message || e?.message || 'desconhecido';
-    return '000';
+    if (response.status !== 200) throw new Error(`${route} respondeu HTTP ${response.status}`);
   }
 }
 
-async function fetchText(url) {
-  const response = await fetch(url);
-  if (!response.ok) {
-    throw new Error(`HTTP ${response.status} ao buscar ${url}`);
-  }
+export function parseWorkerRows(output, { targetSha, buildUuid }) {
+  const rows = output.trim().split('\n').filter(Boolean).map((line) => {
+    const [pid, cwd, buildId] = line.split('\t');
+    return { pid, cwd, buildId };
+  });
+  if (rows.length === 0) throw new Error('nenhum worker next-server encontrado');
 
-  return response.text();
+  const expectedCwd = `${ROOT}/hbuilds/versions/${buildUuid}/nodejs`;
+  for (const row of rows) {
+    if (!/^\d+$/.test(row.pid ?? '')) throw new Error(`linha de worker inválida: ${JSON.stringify(row)}`);
+    if (row.cwd !== expectedCwd) throw new Error(`worker ${row.pid} serve cwd inesperado: ${row.cwd}`);
+    if (row.buildId !== targetSha) throw new Error(`worker ${row.pid} serve BUILD_ID inesperado: ${row.buildId}`);
+  }
+  return rows;
+}
+
+function inspectManagedWorkers({ targetSha, buildUuid }) {
+  const remoteCommand = `ROOT='${ROOT}' ACCOUNT='${ACCOUNT}' BUILD_UUID='${buildUuid}' bash -s`;
+  const script = String.raw`set -euo pipefail
+for pid in $(pgrep -u "$ACCOUNT" -f next-server 2>/dev/null || true); do
+  cwd=$(readlink "/proc/$pid/cwd" 2>/dev/null || true)
+  case "$cwd" in
+    "$ROOT"/*)
+      build_id=absent
+      [ ! -f "$cwd/.next/BUILD_ID" ] || build_id=$(tr -d '\n' < "$cwd/.next/BUILD_ID")
+      printf '%s\t%s\t%s\n' "$pid" "$cwd" "$build_id"
+      ;;
+  esac
+done
+`;
+  let output;
+  try {
+    output = execFileSync('ssh', [...SSH_ARGS, remoteCommand], {
+      input: script,
+      encoding: 'utf8',
+      timeout: 30_000,
+    });
+  } catch (error) {
+    throw new Error(`falha ao inventariar workers gerenciados: ${error.message}`);
+  }
+  return parseWorkerRows(output, { targetSha, buildUuid });
 }
 
 async function main() {
-  console.log('[1/2] aguardando produção responder (cold start do deploy pode levar ~90-120s)…');
-  let ok = false;
-  let lastCode = '000';
-  for (let i = 0; i < 48; i++) { // ~240s — cold start real ~185s em 2 deploys seguidos
-    await sleep(5000);
-    lastCode = await httpCode();
-    if (lastCode === '200') { ok = true; break; }
-    console.log(`  ... http ${lastCode}, subindo (${(i + 1) * 5}s)`);
-  }
-  if (!ok) {
-    const hint = lastCode === '503'
-      ? '503 persistente — checar Variáveis de ambiente no painel (NODE_OPTIONS=--v8-pool-size=1?) ou pilha de next-server (ver DEPLOY-GUIDE › Recuperação de 503)'
-      : `sem 200 em 240s (último: ${lastCode}${lastCode === '000' && lastFetchError ? `, motivo: ${lastFetchError}` : ''}) — cold start longo, rede, ou app não subiu; ver console.log/stderr.log no servidor`;
-    throw new Error(hint);
-  }
+  const input = validateFinishInput({
+    targetSha: argValue('--target-sha'),
+    deployUuid: argValue('--deploy-uuid'),
+    buildUuid: argValue('--build-uuid'),
+  });
 
-  console.log('[2/2] verificando conteúdo + saúde dos processos…');
-  const body = await fetchText(`https://${DOMAIN}/`);
-  if (!body.includes('Últimos vídeos')) {
-    throw new Error('200 mas sem a seção "Últimos vídeos" — checar o app');
-  }
-  // marcador é só o cabeçalho; os thumbnails ytimg confirmam que o YOUTUBE_API_KEY do painel funciona
-  const videosOk = /ytimg\.com\/vi\//.test(body);
-  console.log(videosOk
-    ? '  ✅ 200 + vídeos populando (env do painel aplicado)'
-    : '  ⚠️ 200 mas SEM thumbnails de vídeo — conferir YOUTUBE_API_KEY no painel/quota (não bloqueia)');
+  console.log('[1/4] aguardando atestação exata…');
+  await waitForAttestation(input);
+  console.log('[2/4] verificando manifesto estático do SHA…');
+  await waitForStaticBuild(input.targetSha);
+  console.log('[3/4] verificando rotas essenciais…');
+  await verifySmokeRoutes();
+  console.log('[4/4] inventariando workers no hbuild gerenciado…');
+  const workers = inspectManagedWorkers(input);
 
-  // aviso de pilha (não poda automático — a poda é a recuperação manual documentada; ver DEPLOY-GUIDE)
-  try {
-    const listCmd = `pgrep -u u150185510 -f next-server | while read pid; do [ "$(readlink /proc/$pid/cwd 2>/dev/null)" = "${APPDIR_ABS}" ] && echo $pid; done; true`;
-    const n = execFileSync('ssh', [...SSH_ARGS, listCmd]).toString().trim().split(/\s+/).filter(Boolean).length;
-    console.log(n > 3
-      ? `  ⚠️ ${n} workers next-server do emcasa (pool normal ≈1-3) — possível pilha; ver DEPLOY-GUIDE › Recuperação de 503`
-      : `  workers emcasa: ${n} (ok)`);
-  } catch {
-    console.log('  (não consegui contar workers via ssh — ignorável)');
-  }
-  console.log('=== produção verificada ===');
+  console.log(`\n✅ release gerenciado verificado: ${input.targetSha}`);
+  console.log(`BUILD_UUID=${input.buildUuid}`);
+  console.log(`WORKERS=${workers.length}`);
+  console.log('\nEvidência auditável ainda obrigatória:');
+  console.log(
+    '  gh workflow run hostinger-wire-probe.yml --repo brunollds/emcasacomcecilia-main --ref main -f confirm=CAPTURE_ONLY',
+  );
 }
 
-main().catch((e) => { console.error('\n❌', e.message); process.exit(1); });
+const isMain = process.argv[1]
+  && path.resolve(process.argv[1]) === path.resolve(fileURLToPath(import.meta.url));
+if (isMain) {
+  main().catch((error) => {
+    console.error(`\n❌ ${error instanceof Error ? error.message : String(error)}`);
+    process.exitCode = 1;
+  });
+}

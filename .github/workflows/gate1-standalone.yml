@@ -41,6 +41,7 @@ jobs:
           npm run check:archive-size -- .archive-check/source.tar.gz
 
       - run: npm ci
+      - run: npm run test:deploy-guard
       - run: npm run build
       - run: npm run test:html-lang
 
