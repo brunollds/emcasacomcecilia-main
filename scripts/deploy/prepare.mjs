@@ -59,11 +59,11 @@ export function createAttestedArchive({
   const sourceTar = path.join(temp, 'source.tar');
   const staging = path.join(temp, 'staging');
   const archive = archivePath ?? path.resolve(
+    repoDir,
     '..',
     `emcasacomcecilia-${targetSha.slice(0, 7)}-${deployUuid}.tar.gz`,
   );
   mkdirSync(staging);
-  let failed = false;
 
   try {
     execFileSync('git', [
@@ -83,7 +83,6 @@ export function createAttestedArchive({
     const sha256 = createHash('sha256').update(readFileSync(archive)).digest('hex');
     return { archive, size, sha256 };
   } catch (error) {
-    failed = true;
     try {
       rmSync(archive, { force: true });
     } catch {
@@ -94,7 +93,11 @@ export function createAttestedArchive({
     try {
       rmSync(temp, { recursive: true, force: true });
     } catch (error) {
-      if (!failed) throw error;
+      console.warn(
+        `aviso: não foi possível remover diretório temporário: ${
+          error instanceof Error ? error.message : String(error)
+        }`,
+      );
     }
   }
 }

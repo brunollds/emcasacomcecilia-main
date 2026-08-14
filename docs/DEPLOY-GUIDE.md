@@ -56,6 +56,17 @@ igualdade byte a byte. Divergência aborta o upload. Em resposta ambígua ao POS
 paginar o inventário do provider e reconciliar por `archive_name` exato antes de qualquer repetição;
 zero ou múltiplas correspondências permanecem fail-loud.
 
+No Windows, recalcular sem copiar o arquivo:
+
+```powershell
+Get-FileHash -Algorithm SHA256 -LiteralPath '<ARCHIVE_PATH>'
+```
+
+Comparar o campo `Hash` com `ARCHIVE_SHA256` sem diferenciar maiúsculas de minúsculas. Evidência
+local de 14/08/2026: para `target_sha=66b16adce4870d637add80a0beee4a98336832f9`, a função produziu
+40.970.013 bytes e `d067c5a0ad919fcfbf9ec6447d5b91f3471cd51199aa8b3a6a3d83b86963ab2f`;
+`Get-FileHash` independente devolveu o mesmo digest. Foi prova local descartável, sem upload.
+
 Estado terminal do provider não basta. Declarar o release saudável exige também série pública estável,
 smoke de conteúdo e inventário de todos os workers via `CAPTURE_ONLY`. O marco da medição é a
 convergência desses sinais, não o dispatch.

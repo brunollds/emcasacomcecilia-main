@@ -77,6 +77,17 @@ test('rejeita identidade inválida antes de criar o archive', () => {
   assert.equal(existsSync(archivePath), false);
 });
 
+test('caminho padrão é ancorado no repositório informado', () => {
+  const { root, repoDir, targetSha } = fixture();
+  const result = createAttestedArchive({ targetSha, deployUuid: DEPLOY_UUID, repoDir });
+
+  assert.equal(
+    result.archive,
+    path.join(root, `emcasacomcecilia-${targetSha.slice(0, 7)}-${DEPLOY_UUID}.tar.gz`),
+  );
+  assert.equal(existsSync(result.archive), true);
+});
+
 test('archive acima da guarda falha e é removido', () => {
   const { root, repoDir, targetSha } = fixture();
   const archivePath = path.join(root, 'oversized.tar.gz');
