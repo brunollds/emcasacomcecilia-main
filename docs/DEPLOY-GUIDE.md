@@ -47,10 +47,12 @@ attestation pública. O G1 futuro só poderá declarar sucesso quando exigir sim
 2. `/api/release` com SHA e UUID exatos;
 3. `/_next/static/<sha>/_buildManifest.js` acessível.
 
-O Gate 1 mede cedo uma reconstrução da árvore commitada, usando a mesma forma de archive do
-`deploy:prepare`, e falha a partir de **45.000.000 bytes**. Isso é alerta preventivo, não prova do
-artefato enviado. O G1 definitivo deve executar `check:archive-size` sobre o **archive final exato**,
-depois de inserir sua identidade e imediatamente antes do upload. Em resposta ambígua ao POST, deve
+O Gate 1 mede cedo uma reconstrução da árvore commitada e falha a partir de **45.000.000 bytes**.
+Como ele não usa o mesmo empacotamento de `deploy:prepare`, os tamanhos são estimativas preventivas e
+não são comparáveis byte a byte. A guarda autoritativa roda no **archive final exato**, depois de
+inserir sua identidade e imediatamente antes do upload. O `deploy:prepare` imprime também
+`ARCHIVE_SHA256`; antes do POST, o operador deve recalcular o SHA-256 do caminho informado e exigir
+igualdade byte a byte. Divergência aborta o upload. Em resposta ambígua ao POST, o G1 deve
 paginar o inventário do provider e reconciliar por `archive_name` exato antes de qualquer repetição;
 zero ou múltiplas correspondências permanecem fail-loud.
 

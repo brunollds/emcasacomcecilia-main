@@ -2,14 +2,15 @@
 // Uso: npm run deploy:prepare   [-- --skip-build]
 // Imprime o caminho absoluto do archive no fim (pra sessão Claude fazer o upload via MCP).
 import { execSync, execFileSync } from 'node:child_process';
-import { randomUUID } from 'node:crypto';
-import { mkdtempSync, mkdirSync, rmSync, writeFileSync } from 'node:fs';
+import { createHash, randomUUID } from 'node:crypto';
+import { mkdtempSync, mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 import { checkArchiveSize } from './check-archive-size.mjs';
 import { assertDeployPreflight, assertProductionSha } from './preflight.mjs';
+import { parseReleaseIdentity } from '../content/release-identity.mjs';
 
 const args = new Set(process.argv.slice(2));
 
@@ -43,7 +44,17 @@ function currentState() {
   };
 }
 
-export function createAttestedArchive({ targetSha, deployUuid, archivePath }) {
+export function createAttestedArchive({
+  targetSha,
+  deployUuid,
+  archivePath,
+  maxBytes,
+  repoDir = process.cwd(),
+}) {
+  const identity = parseReleaseIdentity(JSON.stringify({
+    target_sha: targetSha,
+    deploy_uuid: deployUuid,
+  }));
   const temp = mkdtempSync(path.join(os.tmpdir(), 'emcasa-deploy-'));
   const sourceTar = path.join(temp, 'source.tar');
   const staging = path.join(temp, 'staging');
@@ -52,6 +63,7 @@ export function createAttestedArchive({ targetSha, deployUuid, archivePath }) {
     `emcasacomcecilia-${targetSha.slice(0, 7)}-${deployUuid}.tar.gz`,
   );
   mkdirSync(staging);
+  let failed = false;
 
   try {
     execFileSync('git', [
@@ -60,20 +72,30 @@ export function createAttestedArchive({ targetSha, deployUuid, archivePath }) {
       `--output=${sourceTar}`,
       '--prefix=emcasacomcecilia/',
       targetSha,
-    ], { stdio: 'inherit' });
+    ], { cwd: repoDir, stdio: 'inherit' });
     execFileSync('tar', ['-xf', sourceTar, '-C', staging], { stdio: 'inherit' });
     writeFileSync(
       path.join(staging, 'emcasacomcecilia', 'release-meta.json'),
-      `${JSON.stringify({ target_sha: targetSha, deploy_uuid: deployUuid })}\n`,
+      `${JSON.stringify(identity)}\n`,
     );
     execFileSync('tar', ['-czf', archive, '-C', staging, 'emcasacomcecilia'], { stdio: 'inherit' });
-    const size = checkArchiveSize({ archivePath: archive });
-    return { archive, size };
+    const size = checkArchiveSize({ archivePath: archive, maxBytes, rootDir: repoDir });
+    const sha256 = createHash('sha256').update(readFileSync(archive)).digest('hex');
+    return { archive, size, sha256 };
   } catch (error) {
-    rmSync(archive, { force: true });
+    failed = true;
+    try {
+      rmSync(archive, { force: true });
+    } catch {
+      // Preserva a causa original; falha de cleanup não pode mascarar o erro do archive.
+    }
     throw error;
   } finally {
-    rmSync(temp, { recursive: true, force: true });
+    try {
+      rmSync(temp, { recursive: true, force: true });
+    } catch (error) {
+      if (!failed) throw error;
+    }
   }
 }
 
@@ -105,12 +127,16 @@ async function main() {
 
   console.log('[4/4] criando archive atestado e aplicando guarda de 45 MB…');
   const deployUuid = randomUUID();
-  const { archive, size } = createAttestedArchive({ targetSha: after.headSha, deployUuid });
+  const { archive, size, sha256 } = createAttestedArchive({
+    targetSha: after.headSha,
+    deployUuid,
+  });
 
   console.log(`\n✅ archive pronto: ${archive}`);
   console.log(`TARGET_SHA=${after.headSha}`);
   console.log(`DEPLOY_UUID=${deployUuid}`);
   console.log(`ARCHIVE_BYTES=${size.bytes}`);
+  console.log(`ARCHIVE_SHA256=${sha256}`);
   console.log('\nPRÓXIMO PASSO (sessão Codex com MCP Hostinger):');
   console.log(`  hosting_deployJsApplication domain=emcasacomcecilia.com archivePath=${archive}`);
   console.log('  poll até state=completed e registre o build UUID');

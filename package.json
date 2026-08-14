@@ -23,7 +23,7 @@
     "test:hostinger-wire": "node --test scripts/deploy/hostinger-managed-wire.test.mjs",
     "test:artifact-scan": "node --test scripts/deploy/scan-artifacts.test.mjs",
     "test:archive-size": "node --test scripts/deploy/check-archive-size.test.mjs",
-    "test:deploy-guard": "node --test scripts/deploy/preflight.test.mjs scripts/deploy/finish.test.mjs",
+    "test:deploy-guard": "node --test scripts/deploy/preflight.test.mjs scripts/deploy/prepare.test.mjs scripts/deploy/finish.test.mjs",
     "test:yesstyle-data": "node --test scripts/content/validate-yesstyle-coupons.test.mjs",
     "check:archive-size": "node scripts/deploy/check-archive-size.mjs",
     "test:coupon-offer-modes": "tsx scripts/test-coupon-offer-modes.ts",
