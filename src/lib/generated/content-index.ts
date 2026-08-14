@@ -33375,19 +33375,54 @@ export const reviewsData: unknown[] = [
     "image": "/images/reviews/iwannasleep/confiabilidade-hero.webp",
     "imageAlt": "Pillow top da I Wanna Sleep ajustado sobre o colchão — análise de confiabilidade da marca",
     "imageFit": "cover",
+    "gallery": [
+      {
+        "image": "/images/reviews/iwannasleep/confiabilidade-hero.webp",
+        "alt": "Pillow top da I Wanna Sleep ajustado sobre o colchão",
+        "caption": "Pillow top IWS usado na análise de confiabilidade da marca."
+      },
+      {
+        "image": "/images/reviews/iwannasleep/iws-loja-fisica.webp",
+        "alt": "Interior de uma loja física da I Wanna Sleep, com letreiro luminoso da marca e cama de exposição",
+        "caption": "Loja física da I Wanna Sleep — a marca também vende em pontos físicos, além do e-commerce."
+      },
+      {
+        "image": "/images/reviews/iwannasleep/iws-global-lifestyle-sleep-brand.webp",
+        "alt": "Seção 'Global lifestyle sleep brand' do site oficial, com bandeiras dos EUA, Canadá, Brasil e México",
+        "caption": "O site oficial descreve sede global em Orlando (EUA) e presença em EUA, Canadá, Brasil e México."
+      },
+      {
+        "image": "/images/reviews/iwannasleep/iws-catalogo-travesseiros.webp",
+        "alt": "Página de catálogo oficial da I Wanna Sleep mostrando travesseiros IWS Snow, Cervical, Skin e Airgelly com preços",
+        "caption": "Parte do catálogo de travesseiros no site oficial, com preços e nomes de linha."
+      },
+      {
+        "image": "/images/reviews/iwannasleep/iws-missao-dormir-melhor.webp",
+        "alt": "Trecho do site oficial com o texto 'Nossa missão: Te ajudar a dormir melhor'",
+        "caption": "A missão declarada pela marca no site oficial."
+      }
+    ],
     "pros": [],
     "cons": [],
     "contentSections": [
       {
         "heading": "Dados públicos da empresa",
+        "image": "/images/reviews/iwannasleep/iws-loja-fisica.webp",
+        "imageAlt": "Interior de uma loja física da I Wanna Sleep, com letreiro luminoso da marca",
+        "imageCaption": "Loja física da I Wanna Sleep.",
+        "imageFit": "cover",
         "paragraphs": [
-          "A I Wanna Sleep é uma marca brasileira com operações registradas sob o CNPJ 43.783.630/0001-92. O endereço comercial está localizado na Rua Serra do Rola Moça, 315, em Belo Horizonte, Minas Gerais. A empresa se posiciona como uma \"global lifestyle sleep brand\" com foco exclusivo em produtos e soluções para o sono, e sua missão declarada é \"Help you sleep better!\".",
+          "A I Wanna Sleep opera no Brasil sob o CNPJ 43.783.630/0001-92, com endereço comercial na Rua Serra do Rola Moça, 315, em Belo Horizonte, Minas Gerais. Segundo o próprio site oficial, a marca se apresenta como uma \"global lifestyle sleep brand\", com sede global em Orlando, na Flórida (EUA), e presença declarada em diferentes países — Estados Unidos, Canadá, Brasil e México. No Brasil, quem responde pela operação comercial é a pessoa jurídica local citada acima, sob a mesma marca e o mesmo posicionamento internacional; a missão declarada, em todos os mercados, é ajudar as pessoas a dormir melhor.",
           "A marca possui lojas físicas no Brasil, além do canal de vendas online. No site oficial, o consumidor encontra uma seção dedicada a \"Nossas lojas\", o que indica presença omnichannel e estrutura comercial consolidada. Além do varejo, a empresa investe em conteúdo e comunidade, com blog próprio, programa de influenciadores e o IWS Labs, uma iniciativa voltada à pesquisa e desenvolvimento de soluções para o sono."
         ],
         "bullets": []
       },
       {
         "heading": "Catálogo e posicionamento de mercado",
+        "image": "/images/reviews/iwannasleep/iws-catalogo-travesseiros.webp",
+        "imageAlt": "Página de catálogo oficial da I Wanna Sleep mostrando travesseiros IWS Snow, Cervical, Skin e Airgelly com preços",
+        "imageCaption": "Parte do catálogo de travesseiros no site oficial.",
+        "imageFit": "contain",
         "paragraphs": [
           "A I Wanna Sleep oferece um portfólio amplo que vai além de travesseiros e colchões. O catálogo inclui produtos como cobertores tecnológicos (IWS Igloo, IWS Huggy), jogos de cama em bamboo, pillow top, acessórios de viagem (Travesseiro de Viagem Snow Mini), itens de maternidade, poltronas Ekornes, sleepwear e linha de nutrição do sono com melatonina, floral de Bach e spray funcional. A variedade sugere uma marca com capacidade de desenvolvimento de produto e parcerias com fornecedores especializados.",
           "A marca também trabalha com tecnologias próprias, como o travesseiro IWS Snow, o IWS Airgelly 2.0 e o Protex Bamboo, que reforçam o posicionamento de inovação no setor. O fato de manter um braço de pesquisa (IWS Labs) é um indicativo de investimento em credibilidade técnica e diferenciação de mercado."
@@ -33439,7 +33474,8 @@ export const reviewsData: unknown[] = [
           "Os produtos da I Wanna Sleep têm garantia? Sim, a marca oferece garantia legal de 90 dias contra defeitos de fabricação, conforme o CDC. Além disso, produtos como colchões e travesseiros podem contar com garantias estendidas específicas da marca, cujos prazos e condições são informados na ficha técnica de cada item. Para o Cobertor Igloo, há teste de 30 noites com reembolso em crédito na loja caso não se adapte.",
           "Como funciona a troca ou devolução na I Wanna Sleep? A I Wanna Sleep segue a política de arrependimento do CDC, permitindo a devolução em até 7 dias após o recebimento para produtos sem uso. Para itens com defeito, o prazo é de até 30 dias. Alguns produtos contam com teste de 30 noites, onde você pode solicitar reembolso em crédito na loja caso não se adapte. Sempre conserve a embalagem original e o comprovante de compra.",
           "O pagamento no site da I Wanna Sleep é seguro? Sim, o site oficial utiliza criptografia SSL e processa os pagamentos através de gateways certificados (Pix e cartão de crédito). O domínio seguro começa com 'https://www.iwannasleep.com.br' e não solicita dados sensíveis por e-mail ou WhatsApp. Se alguém entrar em contato cobrando pagamento fora do site, desconsidere e denuncie.",
-          "A I Wanna Sleep é uma empresa nova ou já tem histórico no mercado? A I Wanna Sleep é uma marca brasileira com CNPJ ativo desde 2021, sediada em Belo Horizonte, MG. Apesar de relativamente jovem, a marca investiu em estrutura omnichannel (lojas físicas + e-commerce), tecnologia própria (IWS Labs) e programa de influenciadores, sinais de crescimento consolidado e operação séria no setor de sleep tech."
+          "A I Wanna Sleep é uma empresa nova ou já tem histórico no mercado? No Brasil, a operação tem CNPJ ativo desde 2021, sediada em Belo Horizonte, MG. A marca se apresenta no site oficial como uma \"global lifestyle sleep brand\", com sede global em Orlando (EUA) e presença declarada em EUA, Canadá, Brasil e México. Apesar de a pessoa jurídica brasileira ser relativamente jovem, a marca investiu em estrutura omnichannel (lojas físicas + e-commerce), tecnologia própria (IWS Labs) e programa de influenciadores, sinais de operação séria no setor de sleep tech.",
+          "A I Wanna Sleep é uma marca só brasileira ou é internacional? É internacional. Segundo a seção \"Global lifestyle sleep brand\" do site oficial, a empresa tem sede global em Orlando, na Flórida (EUA), e opera em diferentes países — Estados Unidos, Canadá, Brasil e México. No Brasil, a operação comercial é feita pela pessoa jurídica local (CNPJ 43.783.630/0001-92), sob a mesma marca."
         ]
       }
     ],
