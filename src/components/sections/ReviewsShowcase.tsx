@@ -1,10 +1,15 @@
 'use client';
 
-import { useRef, useState } from 'react';
+import { useState } from 'react';
 import Image from 'next/image';
-import { ArrowLeft, ArrowRight, BookOpenText } from 'lucide-react';
+import { ArrowRight, BookOpenText } from 'lucide-react';
 import { TrackedHomeLink } from '@/components/TrackedHomeLink';
-import type { HomeReviewCard } from '@/lib/reviewDiscovery';
+import { ReviewCategoryLinks } from '@/components/sections/ReviewCategoryLinks';
+import {
+  REVIEW_CATEGORIES,
+  type HomeReviewCard,
+  type ReviewCategory,
+} from '@/lib/reviewDiscovery';
 
 const accentByType: Record<string, string> = {
   Eletrodoméstico: '#ff6b35',
@@ -22,39 +27,42 @@ function getObjectPosition(position: HomeReviewCard['imagePosition']) {
 }
 
 export function ReviewsShowcase({ items }: { items: HomeReviewCard[] }) {
-  const carouselRef = useRef<HTMLDivElement>(null);
-  const [position, setPosition] = useState({ atStart: true, atEnd: false });
-
-  const updatePosition = () => {
-    const carousel = carouselRef.current;
-    if (!carousel) return;
-
-    const maxScroll = carousel.scrollWidth - carousel.clientWidth;
-    setPosition({
-      atStart: carousel.scrollLeft <= 2,
-      atEnd: carousel.scrollLeft >= maxScroll - 2,
-    });
-  };
-
-  const scrollPage = (direction: -1 | 1) => {
-    const carousel = carouselRef.current;
-    if (!carousel) return;
-
-    carousel.scrollBy({
-      left: direction * carousel.clientWidth,
-      behavior: 'smooth',
-    });
-  };
+  const [activeCategory, setActiveCategory] = useState<ReviewCategory | null>(null);
+  const visibleItems = (
+    activeCategory
+      ? items.filter(({ category }) => category === activeCategory)
+      : items
+  ).slice(0, 8);
+  const activeLabel = REVIEW_CATEGORIES.find(
+    ({ value }) => value === activeCategory
+  )?.label;
+  const viewAllHref = activeCategory
+    ? `/reviews?categoria=${activeCategory}`
+    : '/reviews';
+  const viewAllLabel = activeCategory
+    ? {
+        'guias-praticos-utilidade': 'Ver todos os guias',
+        'produtos-experiencias': 'Ver todos os produtos',
+        'cupons-como-usar': 'Ver todos os cupons',
+        'confianca-reputacao': 'Ver todas as análises',
+      }[activeCategory]
+    : 'Ver todos os guias';
 
   return (
-    <section className="bg-white py-16">
-      <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div className="mb-8 flex items-end justify-between gap-4 md:mb-10">
+    <>
+      <ReviewCategoryLinks
+        activeCategory={activeCategory}
+        onSelect={setActiveCategory}
+      />
+
+      <section id="home-review-carousel" className="bg-white py-10 md:py-12">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div className="mb-7 flex items-end justify-between gap-3 md:mb-8 md:gap-6">
           <div>
-            <div className="mb-4 flex items-center gap-2">
+            <div className="mb-2 flex items-center gap-2 md:mb-3">
               <BookOpenText className="h-5 w-5 text-[#ff6b35]" />
               <span className="text-sm font-semibold uppercase tracking-wide text-[#ff6b35]">
-                Publicados recentemente
+                {activeLabel || 'Publicados recentemente'}
               </span>
             </div>
             <h2 className="font-editorial text-2xl font-bold text-[#0f1d3a] sm:text-3xl">
@@ -62,34 +70,19 @@ export function ReviewsShowcase({ items }: { items: HomeReviewCard[] }) {
             </h2>
           </div>
 
-          <div className="flex items-center gap-2">
-            <button
-              type="button"
-              onClick={() => scrollPage(-1)}
-              disabled={position.atStart}
-              aria-label="Ver guias anteriores"
-              className="inline-flex h-11 w-11 items-center justify-center rounded-full border border-[#0f1d3a]/15 text-[#0f1d3a] transition-all hover:border-[#0f1d3a] hover:bg-[#0f1d3a] hover:text-white disabled:cursor-not-allowed disabled:opacity-35 disabled:hover:border-[#0f1d3a]/15 disabled:hover:bg-transparent disabled:hover:text-[#0f1d3a]"
-            >
-              <ArrowLeft className="h-5 w-5" />
-            </button>
-            <button
-              type="button"
-              onClick={() => scrollPage(1)}
-              disabled={position.atEnd}
-              aria-label="Ver mais guias"
-              className="inline-flex h-11 w-11 items-center justify-center rounded-full border border-[#0f1d3a]/15 text-[#0f1d3a] transition-all hover:border-[#0f1d3a] hover:bg-[#0f1d3a] hover:text-white disabled:cursor-not-allowed disabled:opacity-35 disabled:hover:border-[#0f1d3a]/15 disabled:hover:bg-transparent disabled:hover:text-[#0f1d3a]"
-            >
-              <ArrowRight className="h-5 w-5" />
-            </button>
-          </div>
+          <TrackedHomeLink
+            href={viewAllHref}
+            placement="home_reviews_carousel"
+            linkLabel={viewAllLabel}
+            className="inline-flex shrink-0 items-center gap-1.5 rounded-full border border-[#0f1d3a]/15 px-3.5 py-2 text-xs font-semibold text-[#0f1d3a] transition-all hover:border-[#0f1d3a] hover:bg-[#0f1d3a] hover:text-white sm:gap-2 sm:px-5 sm:py-2.5 sm:text-sm"
+          >
+            {viewAllLabel}
+            <ArrowRight className="h-4 w-4" />
+          </TrackedHomeLink>
         </div>
 
-        <div
-          ref={carouselRef}
-          onScroll={updatePosition}
-          className="flex snap-x snap-mandatory gap-4 overflow-x-auto pb-2 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
-        >
-          {items.map((item) => {
+        <div className="grid grid-cols-2 gap-x-4 gap-y-8 md:grid-cols-4 md:gap-y-10">
+          {visibleItems.map((item) => {
             const accent = accentByType[item.type] ?? '#ff6b35';
             const imageClassName =
               item.imageFit === 'contain'
@@ -102,10 +95,10 @@ export function ReviewsShowcase({ items }: { items: HomeReviewCard[] }) {
                 href={`/reviews/${item.slug}`}
                 placement="home_reviews_carousel"
                 linkLabel={item.title}
-                className="group block flex-none basis-[calc((100%_-_1rem)/2)] snap-start md:basis-[calc((100%_-_3rem)/4)]"
+                className="group block"
               >
                 <article className="transition-transform duration-500 group-hover:-translate-y-2">
-                  <div className="relative mb-4 aspect-[5/6] overflow-hidden rounded-[1.35rem] shadow-soft transition-shadow duration-500 group-hover:shadow-large md:rounded-[1.6rem] lg:rounded-[2rem]">
+                  <div className="relative mb-4 aspect-[4/3] overflow-hidden rounded-[1.35rem] shadow-soft transition-shadow duration-500 group-hover:shadow-large md:rounded-[1.6rem] lg:rounded-[2rem]">
                     {item.image ? (
                       <Image
                         src={item.image}
@@ -160,19 +153,8 @@ export function ReviewsShowcase({ items }: { items: HomeReviewCard[] }) {
             );
           })}
         </div>
-
-        <div className="mt-10 text-center">
-          <TrackedHomeLink
-            href="/reviews"
-            placement="home_reviews_carousel"
-            linkLabel="Ver todos os guias"
-            className="inline-flex items-center gap-2 rounded-full border-2 border-[#0f1d3a] px-7 py-3.5 font-semibold text-[#0f1d3a] transition-all hover:bg-[#0f1d3a] hover:text-white"
-          >
-            Ver todos os guias
-            <ArrowRight className="h-4 w-4" />
-          </TrackedHomeLink>
         </div>
-      </div>
-    </section>
+      </section>
+    </>
   );
 }

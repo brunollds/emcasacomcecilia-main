@@ -1,5 +1,6 @@
 import assert from 'node:assert/strict';
 import {
+  getHomeCategoryFilterParameters,
   getHomeRouteClickParameters,
   type HomeRoutePlacement,
 } from '../src/components/TrackedHomeLink';
@@ -15,9 +16,9 @@ const cases: Array<{
     linkLabel: 'Guia de exemplo',
   },
   {
-    href: '/reviews?categoria=produtos-experiencias',
+    href: '/reviews',
     placement: 'home_review_categories',
-    linkLabel: 'Produtos & experiências',
+    linkLabel: 'Todos os guias',
   },
   {
     href: '/reviews/review-exemplo',
@@ -41,4 +42,19 @@ for (const input of cases) {
   ]);
 }
 
-console.log(`✅ homeRouteTracking: ${cases.length} placements passaram.`);
+const filterParameters = getHomeCategoryFilterParameters(
+  'produtos-experiencias',
+  'Produtos & experiências'
+);
+assert.deepEqual(filterParameters, {
+  category: 'produtos-experiencias',
+  placement: 'home_review_categories',
+  link_label: 'Produtos & experiências',
+});
+assert.deepEqual(Object.keys(filterParameters).sort(), [
+  'category',
+  'link_label',
+  'placement',
+]);
+
+console.log(`✅ homeRouteTracking: ${cases.length} placements + filtro passaram.`);

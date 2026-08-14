@@ -27,6 +27,17 @@ export function getHomeRouteClickParameters({
   };
 }
 
+export function getHomeCategoryFilterParameters(
+  category: string,
+  linkLabel: string
+) {
+  return {
+    category,
+    placement: 'home_review_categories',
+    link_label: linkLabel,
+  };
+}
+
 type TrackedHomeLinkProps = Omit<ComponentProps<typeof Link>, 'href' | 'onClick'> &
   HomeRouteClickInput & {
     onClick?: ComponentProps<typeof Link>['onClick'];

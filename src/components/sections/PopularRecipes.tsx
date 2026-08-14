@@ -6,6 +6,7 @@ import { Clock, ChefHat, ArrowRight, Heart } from 'lucide-react';
 import { getRecipeImage, getRecipeImageAlt, recipes } from '@/lib/data';
 import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 import { ViewTransitionLink } from '@/components/ViewTransitionLink';
+import { RecipeCategoryLinks } from '@/components/sections/RecipeCategoryLinks';
 
 type PopularRecipesProps = {
   popularSlugs?: string[];
@@ -30,7 +31,7 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
     >
       <article className="transition-all duration-500 group-hover:-translate-y-2">
         <div
-          className="relative mb-4 aspect-[5/6] overflow-hidden rounded-[1.35rem] shadow-soft transition-all duration-500 group-hover:shadow-large md:rounded-[1.6rem] lg:rounded-[2rem]"
+          className="relative mb-4 aspect-[4/3] overflow-hidden rounded-[1.35rem] shadow-soft transition-all duration-500 group-hover:shadow-large md:rounded-[1.6rem] lg:rounded-[2rem]"
           style={{ viewTransitionName: `recipe-hero-${sanitizeViewTransitionName(recipe.slug)}` }}
         >
           <Image
@@ -110,6 +111,8 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
             <ArrowRight className="h-4 w-4" />
           </Link>
         </div>
+
+        <RecipeCategoryLinks />
       </div>
     </section>
   );
