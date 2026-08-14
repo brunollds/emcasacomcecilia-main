@@ -39053,6 +39053,7 @@ export const reviewsData: unknown[] = [
     "slug": "i-wanna-sleep-reclame-aqui-nota-reputacao",
     "title": "I Wanna Sleep no Reclame Aqui: nota, reclamações e o que os dados mostram",
     "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
     "reviewKind": "editorial",
     "author": {
       "name": "Cecília Mauad",
@@ -39177,6 +39178,7 @@ export const reviewsData: unknown[] = [
     "slug": "melatonina-iws-liquida-gummy-guia",
     "title": "Melatonina IWS: linha líquida e gummy da I Wanna Sleep, dose e regras da Anvisa",
     "type": "Editorial",
+    "category": "guias-praticos-utilidade",
     "reviewKind": "editorial",
     "author": {
       "name": "Cecília Mauad",
