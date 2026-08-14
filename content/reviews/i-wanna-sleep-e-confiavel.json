@@ -15,19 +15,30 @@
   "metaDescription": "A I Wanna Sleep é confiável? Veja dados de CNPJ, lojas físicas, políticas de devolução e como testar o cupom CECIEMCASA no e-commerce oficial.",
   "publishedAt": "14 de agosto de 2026",
   "draft": false,
-  "image": "/images/reviews/iwannasleep/confiabilidade-hero.webp",
-  "imageAlt": "Pillow top da I Wanna Sleep ajustado sobre o colchão — análise de confiabilidade da marca",
+  "image": "/images/reviews/iwannasleep/iws-loja-fisica.webp",
+  "imageAlt": "Interior de uma loja física da I Wanna Sleep, com letreiro luminoso da marca e cama de exposição",
   "imageFit": "cover",
+  "imageAspect": "landscape",
   "gallery": [
-    {
-      "image": "/images/reviews/iwannasleep/confiabilidade-hero.webp",
-      "alt": "Pillow top da I Wanna Sleep ajustado sobre o colchão",
-      "caption": "Pillow top IWS usado na análise de confiabilidade da marca."
-    },
     {
       "image": "/images/reviews/iwannasleep/iws-loja-fisica.webp",
       "alt": "Interior de uma loja física da I Wanna Sleep, com letreiro luminoso da marca e cama de exposição",
       "caption": "Loja física da I Wanna Sleep — a marca também vende em pontos físicos, além do e-commerce."
+    },
+    {
+      "image": "/images/reviews/iwannasleep/iws-loja04-fachada.webp",
+      "alt": "Fachada de uma loja física da I Wanna Sleep, com letra 'IWS' em destaque e bandeira da marca",
+      "caption": "Fachada de outra loja física da I Wanna Sleep."
+    },
+    {
+      "image": "/images/reviews/iwannasleep/iws-loja02-fachada.webp",
+      "alt": "Fachada de outra loja da I Wanna Sleep, com letreiro 'IWS I wanna sleep' e colchão em exposição na vitrine",
+      "caption": "Mais uma unidade física da I Wanna Sleep, com colchão em exposição na vitrine."
+    },
+    {
+      "image": "/images/reviews/iwannasleep/confiabilidade-hero.webp",
+      "alt": "Pillow top da I Wanna Sleep ajustado sobre o colchão",
+      "caption": "Pillow top IWS."
     },
     {
       "image": "/images/reviews/iwannasleep/iws-global-lifestyle-sleep-brand.webp",
@@ -50,9 +61,9 @@
   "contentSections": [
     {
       "heading": "Dados públicos da empresa",
-      "image": "/images/reviews/iwannasleep/iws-loja-fisica.webp",
-      "imageAlt": "Interior de uma loja física da I Wanna Sleep, com letreiro luminoso da marca",
-      "imageCaption": "Loja física da I Wanna Sleep.",
+      "image": "/images/reviews/iwannasleep/iws-loja04-fachada.webp",
+      "imageAlt": "Fachada de uma loja física da I Wanna Sleep, com letra 'IWS' em destaque e bandeira da marca",
+      "imageCaption": "Fachada de uma loja física da I Wanna Sleep.",
       "imageFit": "cover",
       "paragraphs": [
         "A I Wanna Sleep opera no Brasil sob o CNPJ 43.783.630/0001-92, com endereço comercial na Rua Serra do Rola Moça, 315, em Belo Horizonte, Minas Gerais. Segundo o próprio site oficial, a marca se apresenta como uma \"global lifestyle sleep brand\", com sede global em Orlando, na Flórida (EUA), e presença declarada em diferentes países — Estados Unidos, Canadá, Brasil e México. No Brasil, quem responde pela operação comercial é a pessoa jurídica local citada acima, sob a mesma marca e o mesmo posicionamento internacional; a missão declarada, em todos os mercados, é ajudar as pessoas a dormir melhor.",
