@@ -33368,10 +33368,10 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Análise dos dados públicos da I Wanna Sleep, incluindo CNPJ, endereço, políticas de entrega, trocas e formas de pagamento.",
-    "metaDescription": "A I Wanna Sleep é confiável? Veja dados da empresa, políticas de entrega, trocas e o que observar antes de comprar no site oficial.",
-    "publishedAt": "Draft",
-    "draft": true,
+    "description": "Análise dos dados públicos da I Wanna Sleep: CNPJ 43.783.630/0001-92, lojas físicas, políticas de entrega, trocas e como consultar cupons no site oficial.",
+    "metaDescription": "A I Wanna Sleep é confiável? Veja dados de CNPJ, lojas físicas, políticas de devolução e como testar o cupom CECIEMCASA no e-commerce oficial.",
+    "publishedAt": "14 de agosto de 2026",
+    "draft": false,
     "image": "/images/reviews/iwannasleep/confiabilidade-hero.webp",
     "imageAlt": "Pillow top da I Wanna Sleep ajustado sobre o colchão — análise de confiabilidade da marca",
     "imageFit": "cover",
@@ -33418,7 +33418,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e cupom de desconto",
         "paragraphs": [
-          "O Em Casa com Cecília mantém uma parceria comercial ativa com a I Wanna Sleep. Por meio dessa parceria, os leitores podem utilizar o cupom CECIEMCASA para obter 10% de desconto nos produtos elegíveis do site oficial, conforme as regras vigentes no checkout. A utilização do cupom não gera custo adicional para o leitor — o desconto é concedido pela marca — e funciona como uma forma de apoiar o projeto editorial."
+          "O Em Casa com Cecília mantém parceria comercial ativa com a I Wanna Sleep. No checkout do e-commerce oficial, o leitor pode testar o cupom CECIEMCASA para buscar 10% de desconto em produtos elegíveis, segundo as regras e vigência estabelecidas pela marca. A utilização do cupom não gera custo adicional para o leitor e ajuda a apoiar o projeto editorial."
         ],
         "bullets": [],
         "links": [
@@ -33453,6 +33453,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Este artigo é de natureza editorial e analítica. A menção ao cupom CECIEMCASA decorre de uma parceria comercial entre o Em Casa com Cecília e a I Wanna Sleep. Todas as informações aqui apresentadas são baseadas em dados públicos disponíveis no site oficial da marca.",
     "relatedArticles": [
       {
+        "slug": "i-wanna-sleep-reclame-aqui-nota-reputacao",
+        "title": "I Wanna Sleep no Reclame Aqui: nota, reclamações e reputação"
+      },
+      {
         "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
         "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%"
       },
@@ -33460,7 +33464,11 @@ export const reviewsData: unknown[] = [
         "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
         "title": "Cobertor IWS Igloo: ficha técnica, preço e como comprar"
       }
-    ]
+    ],
+    "publishedAtISO": "2026-08-14",
+    "updatedAt": "2026-08-14",
+    "isNew": true,
+    "category": "confianca-reputacao"
   },
   {
     "id": 222,
