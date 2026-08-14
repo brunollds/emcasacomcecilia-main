@@ -66,6 +66,9 @@ Comparar o campo `Hash` com `ARCHIVE_SHA256` sem diferenciar maiúsculas de min�
 local de 14/08/2026: para `target_sha=66b16adce4870d637add80a0beee4a98336832f9`, a função produziu
 40.970.013 bytes e `d067c5a0ad919fcfbf9ec6447d5b91f3471cd51199aa8b3a6a3d83b86963ab2f`;
 `Get-FileHash` independente devolveu o mesmo digest. Foi prova local descartável, sem upload.
+O digest identifica o pacote produzido naquela execução, não o commit: reempacotar o mesmo SHA pode
+produzir bytes diferentes conforme a implementação de `tar` e o ambiente. Comparar sempre com o
+`ARCHIVE_SHA256` da execução que gerou o arquivo enviado, nunca com uma nova execução do preparo.
 
 Estado terminal do provider não basta. Declarar o release saudável exige também série pública estável,
 smoke de conteúdo e inventário de todos os workers via `CAPTURE_ONLY`. O marco da medição é a
