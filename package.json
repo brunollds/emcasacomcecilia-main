@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "node scripts/content/build-index.mjs && tsx scripts/test-review-discovery.ts && tsx scripts/validate-video-schema.ts && tsx scripts/test-internal-links.ts && tsx scripts/test-coupon-offer-modes.ts && tsx scripts/test-analytics-gate.ts && node scripts/test-image-hosts.mjs && next build",
+    "build": "node scripts/content/build-index.mjs && tsx scripts/test-review-discovery.ts && tsx scripts/validate-video-schema.ts && tsx scripts/test-internal-links.ts && tsx scripts/test-coupon-offer-modes.ts && tsx scripts/test-analytics-gate.ts && node scripts/test-image-hosts.mjs && tsx scripts/test-home-route-tracking.ts && next build",
     "start": "next start -p ${PORT:-3000}",
     "lint": "eslint",
     "typecheck": "tsc --noEmit",
@@ -25,6 +25,7 @@
     "test:internal-links": "tsx scripts/test-internal-links.ts",
     "test:analytics-gate": "tsx scripts/test-analytics-gate.ts",
     "test:image-hosts": "node scripts/test-image-hosts.mjs",
+    "test:home-route-tracking": "tsx scripts/test-home-route-tracking.ts",
     "test:review-discovery": "tsx scripts/test-review-discovery.ts",
     "probe:hostinger-wire": "node scripts/deploy/hostinger-managed-wire.mjs --execute",
     "content:export": "tsx scripts/content/export-content.ts",

@@ -2,8 +2,8 @@
 
 import { useRef, useState } from 'react';
 import Image from 'next/image';
-import Link from 'next/link';
 import { ArrowLeft, ArrowRight, BookOpenText } from 'lucide-react';
+import { TrackedHomeLink } from '@/components/TrackedHomeLink';
 import type { HomeReviewCard } from '@/lib/reviewDiscovery';
 
 const accentByType: Record<string, string> = {
@@ -97,9 +97,11 @@ export function ReviewsShowcase({ items }: { items: HomeReviewCard[] }) {
                 : 'object-cover';
 
             return (
-              <Link
+              <TrackedHomeLink
                 key={item.id}
                 href={`/reviews/${item.slug}`}
+                placement="home_reviews_carousel"
+                linkLabel={item.title}
                 className="group block flex-none basis-[calc((100%_-_1rem)/2)] snap-start md:basis-[calc((100%_-_3rem)/4)]"
               >
                 <article className="transition-transform duration-500 group-hover:-translate-y-2">
@@ -154,19 +156,21 @@ export function ReviewsShowcase({ items }: { items: HomeReviewCard[] }) {
                     <div className="mt-2 h-0.5 w-0 bg-[#ff6b35] transition-all duration-500 group-hover:w-12" />
                   </div>
                 </article>
-              </Link>
+              </TrackedHomeLink>
             );
           })}
         </div>
 
         <div className="mt-10 text-center">
-          <Link
+          <TrackedHomeLink
             href="/reviews"
+            placement="home_reviews_carousel"
+            linkLabel="Ver todos os guias"
             className="inline-flex items-center gap-2 rounded-full border-2 border-[#0f1d3a] px-7 py-3.5 font-semibold text-[#0f1d3a] transition-all hover:bg-[#0f1d3a] hover:text-white"
           >
             Ver todos os guias
             <ArrowRight className="h-4 w-4" />
-          </Link>
+          </TrackedHomeLink>
         </div>
       </div>
     </section>

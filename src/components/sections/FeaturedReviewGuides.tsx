@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import Link from 'next/link';
+import { TrackedHomeLink } from '@/components/TrackedHomeLink';
 import type { HomeReviewCard } from '@/lib/reviewDiscovery';
 
 function getObjectPosition(position: HomeReviewCard['imagePosition']) {
@@ -31,9 +31,11 @@ export function FeaturedReviewGuides({ items }: { items: HomeReviewCard[] }) {
                 : 'object-cover';
 
             return (
-              <Link
+              <TrackedHomeLink
                 key={item.id}
                 href={`/reviews/${item.slug}`}
+                placement="home_featured_guides"
+                linkLabel={item.title}
                 className="group relative block aspect-[3/3.55] overflow-hidden rounded-[1.25rem] bg-[#0f1d3a] shadow-lg transition-all duration-500 hover:-translate-y-1.5 hover:shadow-2xl lg:aspect-[3/3.5] lg:rounded-[2rem]"
               >
                 {item.image ? (
@@ -60,7 +62,7 @@ export function FeaturedReviewGuides({ items }: { items: HomeReviewCard[] }) {
                   </h3>
                   <div className="mt-3 h-0.5 w-10 rounded-full bg-[#ffd700] transition-all duration-500 group-hover:w-16 lg:h-1" />
                 </div>
-              </Link>
+              </TrackedHomeLink>
             );
           })}
         </div>

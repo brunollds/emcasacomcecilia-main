@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import {
   BookOpenText,
   Package,
@@ -7,6 +6,7 @@ import {
   Ticket,
 } from '@phosphor-icons/react/dist/ssr';
 import type { Icon } from '@phosphor-icons/react';
+import { TrackedHomeLink } from '@/components/TrackedHomeLink';
 import { REVIEW_CATEGORIES, type ReviewCategory } from '@/lib/reviewDiscovery';
 
 const icons: Record<ReviewCategory, Icon> = {
@@ -25,9 +25,11 @@ export function ReviewCategoryLinks() {
             const CategoryIcon = icons[value];
 
             return (
-              <Link
+              <TrackedHomeLink
                 key={value}
                 href={`/reviews?categoria=${value}`}
+                placement="home_review_categories"
+                linkLabel={label}
                 className="group flex w-[108px] flex-shrink-0 flex-col items-center gap-2 text-center lg:w-[150px]"
               >
                 <span className="flex h-14 w-14 items-center justify-center rounded-full border border-[#0f1d3a]/10 bg-white text-[#1a4d2e] shadow-sm transition-all duration-300 group-hover:-translate-y-1 group-hover:border-[#ff6b35]/30 group-hover:text-[#ff6b35] group-hover:shadow-md lg:h-16 lg:w-16">
@@ -36,12 +38,14 @@ export function ReviewCategoryLinks() {
                 <span className="text-xs font-semibold leading-tight text-[#0f1d3a]/72 transition-colors group-hover:text-[#0f1d3a] lg:text-sm">
                   {label}
                 </span>
-              </Link>
+              </TrackedHomeLink>
             );
           })}
 
-          <Link
+          <TrackedHomeLink
             href="/reviews"
+            placement="home_review_categories"
+            linkLabel="Todos os guias"
             className="group flex w-[108px] flex-shrink-0 flex-col items-center gap-2 text-center lg:w-[150px]"
           >
             <span className="flex h-14 w-14 items-center justify-center rounded-full border border-[#0f1d3a]/10 bg-white text-[#1a4d2e] shadow-sm transition-all duration-300 group-hover:-translate-y-1 group-hover:border-[#ff6b35]/30 group-hover:text-[#ff6b35] group-hover:shadow-md lg:h-16 lg:w-16">
@@ -50,7 +54,7 @@ export function ReviewCategoryLinks() {
             <span className="text-xs font-semibold leading-tight text-[#0f1d3a]/72 transition-colors group-hover:text-[#0f1d3a] lg:text-sm">
               Todos os guias
             </span>
-          </Link>
+          </TrackedHomeLink>
         </div>
       </div>
     </section>
