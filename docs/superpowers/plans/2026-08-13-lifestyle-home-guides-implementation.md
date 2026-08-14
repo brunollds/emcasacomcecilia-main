@@ -2,7 +2,10 @@
 
 **Data:** 13/08/2026
 
-**Status:** pronto para revisão; execução de runtime ainda não autorizada
+**Status:** ✅ EXECUTADO — os quatro commits (3A–3D) estão em `main`. Ver Seção 12.1 para o
+mapeamento de commit real e o resumo vivo em
+`docs/GUIA-EDITORIAL-GUIAS-ANALISES.md` (Seção 9), que é a referência que agentes de conteúdo
+devem ler. Este documento passa a ser registro histórico do plano, não uma pendência.
 
 **Spec de produto:** `docs/HANDOFF-LIFESTYLE-FASE-0.md`
 
@@ -755,3 +758,18 @@ O lote está concluído quando:
 10. o HTML e a interação correspondem ao mockup aprovado.
 
 Até uma autorização explícita do Bruno, este documento é **plano revisável**, não ordem de execução.
+
+## 12.1 Status real de execução (atualizado 14/08/2026)
+
+Os quatro commits deste plano foram autorizados e estão em `main`:
+
+| Commit do plano | Commit real | Objetivo |
+|---|---|---|
+| 3A | `7f12c94 feat(content): define review navigation categories` | contrato, backfill, seleção pura |
+| 3B | `0b6fb29 feat(reviews): add category navigation` | hub `/reviews` com `?categoria=` |
+| 3C | `c67d9df feat(home): replace recipe shortcuts with guide discovery` (+ `134815b feat(home): refine guide discovery layout`) | destaques + atalhos + carrossel na home |
+| 3D | `9870a86 feat(home): track guide discovery routes` | evento `home_route_click` |
+
+O comportamento em produção está descrito de forma agente-facing em
+`docs/GUIA-EDITORIAL-GUIAS-ANALISES.md`, Seção 9 — essa é a referência a manter atualizada se o
+mecanismo mudar de novo, não este plano.

@@ -2,9 +2,10 @@
 
 **Aplicação:** artigos publicados em `content/reviews/` e listados em português
 
-**Atualizado em:** 13/08/2026
+**Atualizado em:** 14/08/2026
 
-**Status:** vocabulário editorial aprovado; backfill e validação técnica entram no Commit 3A
+**Status:** vocabulário editorial aprovado; backfill, validação técnica e rotação automática na
+home implementados (Commits 3A–3D, ver Seção 9)
 
 ## 1. A decisão obrigatória de pauta
 
@@ -105,3 +106,42 @@ pertence ao repositório da Central e exige tarefa própria.
 O vocabulário foi aprovado para os 32 artigos listados em português, com distribuição inicial
 10/10/7/5. Esses números são retrato do acervo, não metas nem asserções permanentes. Conteúdo
 internacional recebe classe somente depois de decisão e backfill por locale.
+
+## 9. Rotação automática dos quatro destaques da home
+
+`category` não é só taxonomia de navegação: desde os commits `7f12c94`, `0b6fb29`,
+`c67d9df`/`134815b` e `9870a86` (plano técnico em
+`docs/superpowers/plans/2026-08-13-lifestyle-home-guides-implementation.md`), ela também decide
+sozinha o que aparece nos quatro cards de destaque da home. Ninguém edita esses cards à mão.
+
+Regra implementada em `selectHomeReviewDiscovery`
+([reviewDiscovery.ts:154](../src/lib/reviewDiscovery.ts:154)):
+
+- existe exatamente uma vaga para cada `category`;
+- o artigo com `publishedAtISO` mais recente daquela categoria ocupa a vaga;
+- empate de data é resolvido pelo maior `id`;
+- um artigo novo altera somente a vaga da própria categoria;
+- `type`, `reviewKind`, `isNew`, marca e parceria comercial não entram nessa seleção.
+
+Quando um artigo novo substitui o destaque de sua categoria:
+
+1. o novo assume o card principal da categoria (`FeaturedReviewGuides`);
+2. o antigo sai dos quatro destaques;
+3. o antigo entra automaticamente na grade cronológica de baixo — 2×4, até 8 artigos
+   ([ReviewsShowcase.tsx:31](../src/components/sections/ReviewsShowcase.tsx:31));
+4. filtrando por `?categoria=...` em `/reviews`, ele aparece como o primeiro artigo restante
+   daquela categoria, porque a lista já vem ordenada por data;
+5. na grade geral de 8 (sem filtro), só aparece se estiver entre os 8 mais recentes do acervo
+   listado combinado.
+
+Contrato para todo artigo PT novo, reforçando a Seção 1: `category` válida, `publishedAtISO` em
+`YYYY-MM-DD`, `id` único, sem `draft: true`, sem `hideFromListings`/`hideFromPortugueseListings`,
+presente no manifest, e passando por `npm run build`. Sem isso,
+[`assertDiscoverableReview`](../src/lib/reviewDiscovery.ts:96) derruba o build com o slug do
+artigo — nunca publica uma home incompleta.
+
+Publicar na Central sem deploy não move a home: ela só reflete a nova seleção depois do deploy,
+com até ~5 minutos de cache (`revalidate = 300` em `src/app/(pt)/page.js:19`).
+
+Quem gera ou revisa conteúdo não escolhe nem edita os quatro cards manualmente. A única ação
+editorial é classificar `category` e datar `publishedAtISO` corretamente — o sistema faz o resto.

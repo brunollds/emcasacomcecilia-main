@@ -4,7 +4,8 @@
 
 **Revisão do inventário:** 13/08/2026, commit `6ca736f`
 
-**Status:** arquitetura da Fase 0 aprovada em mockup; runtime não autorizado
+**Status:** arquitetura da Fase 0 aprovada em mockup; runtime executado em 14/08/2026 (ver nota
+na Seção 12)
 
 **Sequência estratégica:** Cupons → SHEIN → Lifestyle
 
@@ -409,7 +410,11 @@ O plano executável foi separado em `docs/superpowers/plans/2026-08-13-lifestyle
 3. **3C — home coerente:** destaques, atalhos e carrossel entram juntos, preservando ticker, Hero e restante da página;
 4. **3D — medição:** evento único de roteamento, condicionado a não duplicar renderizadores ou transformar desnecessariamente seções inteiras em client components.
 
-Nenhum desses commits está autorizado por este handoff. O plano contém caminhos, backfill fechado, expectativas do snapshot, gates e testes manuais para uma autorização futura de runtime.
+**Atualização 14/08/2026: os quatro commits foram autorizados e executados** (`7f12c94`,
+`0b6fb29`, `c67d9df`/`134815b`, `9870a86` — mapeamento completo na Seção 12.1 do plano). A home
+já roda a descoberta automática por categoria descrita nas Seções 6–9 deste handoff. O contrato
+vivo para quem cria conteúdo passou a viver em `docs/GUIA-EDITORIAL-GUIAS-ANALISES.md` (Seção 9);
+este handoff permanece como registro da decisão de produto da Fase 0, não como fonte operacional.
 
 ## 13. Pilotos editoriais da Frente 3
 
