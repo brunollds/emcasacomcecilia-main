@@ -33443,10 +33443,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
-          "A transparência nas políticas de compra é um ponto relevante na avaliação de confiabilidade. O site oficial da I Wanna Sleep disponibiliza informações claras sobre trocas e devoluções, além de ferramenta para rastreamento de pedidos. A marca também tem o Sleeptest: uma política de teste de conforto em casa, com até 100 noites para experimentar colchões e bases, e até 30 dias para travesseiros, acessórios e a linha de nutrição — com direito a troca por outro produto se você não se adaptar.",
+          "A transparência nas políticas de compra é um ponto relevante na avaliação de confiabilidade. O site oficial da I Wanna Sleep disponibiliza informações sobre trocas e devoluções, além de ferramenta para rastreamento de pedidos. A marca também mantém o Sleeptest: segundo a política oficial consultada em agosto de 2026, são até 100 dias para testar colchões e até 30 dias para categorias como travesseiros, pillow tops e nutrição, sempre sujeitos aos critérios específicos de uso, conservação, prazo e canal de compra.",
           "As formas de pagamento disponíveis incluem Pix e cartão de crédito, com opção de parcelamento. A diversidade de meios de pagamento facilita a compra e é um sinal de infraestrutura de e-commerce madura. O site também oferece atendimento ao cliente, com canais para tirar dúvidas sobre produtos, entregas e políticas de troca."
         ],
-        "bullets": []
+        "bullets": [],
+        "links": [
+          {
+            "label": "Consultar a política oficial do Sleeptest",
+            "href": "https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest"
+          },
+          {
+            "label": "Consultar os prazos oficiais de troca e devolução",
+            "href": "https://suporte.iwannasleep.com.br/hc/pt-br/articles/21288391714323-Qual-o-prazo-para-solicitar-troca-ou-devolu%C3%A7%C3%A3o-do-meu-produto"
+          }
+        ]
       },
       {
         "heading": "O que observar antes de comprar",
@@ -33480,18 +33490,18 @@ export const reviewsData: unknown[] = [
           "A I Wanna Sleep tem loja física ou é só online? A marca tem lojas físicas no Brasil além do site oficial, conforme a seção \"Nossas lojas\" disponível no site.",
           "Qual o CNPJ da I Wanna Sleep? A empresa opera sob o CNPJ 43.783.630/0001-92, com endereço registrado em Belo Horizonte, Minas Gerais.",
           "Como sei que estou no site oficial? Confirme se o domínio é iwannasleep.com.br antes de inserir dados de pagamento.",
-          "O cupom CECIEMCASA muda o preço final do produto? Não. O desconto é concedido pela marca e não representa custo adicional para quem compra.",
-          "A I Wanna Sleep entrega para todo o Brasil ou só em capitais? Sim, a I Wanna Sleep realiza entregas para todo o Brasil através de transportadoras parceiras. O prazo e o valor do frete são calculados no checkout de acordo com o CEP. Para regiões mais distantes ou áreas rurais, o prazo pode ser estendido e o valor ajustado. Sempre consulte o simulador de frete no carrinho antes de finalizar.",
-          "Os produtos da I Wanna Sleep têm garantia? Sim, a marca oferece garantia legal de 90 dias contra defeitos de fabricação, conforme o CDC. Além disso, produtos como colchões e travesseiros podem contar com garantias estendidas específicas da marca, cujos prazos e condições são informados na ficha técnica de cada item. Para o Cobertor Igloo, há teste de 30 noites com reembolso em crédito na loja caso não se adapte.",
-          "Como funciona a troca ou devolução na I Wanna Sleep? A I Wanna Sleep segue a política de arrependimento do CDC, permitindo a devolução em até 7 dias após o recebimento para produtos sem uso. Para itens com defeito, o prazo é de até 30 dias. Alguns produtos contam com teste de 30 noites, onde você pode solicitar reembolso em crédito na loja caso não se adapte. Sempre conserve a embalagem original e o comprovante de compra.",
-          "O pagamento no site da I Wanna Sleep é seguro? Sim, o site oficial utiliza criptografia SSL e processa os pagamentos através de gateways certificados (Pix e cartão de crédito). O domínio seguro começa com 'https://www.iwannasleep.com.br' e não solicita dados sensíveis por e-mail ou WhatsApp. Se alguém entrar em contato cobrando pagamento fora do site, desconsidere e denuncie.",
+          "O cupom CECIEMCASA muda o preço final do produto? Quando aceito no checkout para um produto elegível, o código reduz o valor conforme as regras vigentes da marca, sem acrescentar cobrança ao pedido.",
+          "A I Wanna Sleep entrega para todo o Brasil ou só em capitais? A marca informa que utiliza transportadoras parceiras. A disponibilidade, o prazo e o valor do frete dependem do CEP e devem ser confirmados no carrinho antes da compra.",
+          "Os produtos da I Wanna Sleep têm garantia? Os prazos e as condições podem variar conforme a categoria e a garantia informada na ficha do produto, sem afastar a garantia legal aplicável. Consulte a página do item e o atendimento oficial antes da compra; o Sleeptest é uma política comercial separada e possui regras próprias.",
+          "Como funciona a troca ou devolução na I Wanna Sleep? Segundo a política oficial, compras feitas no e-commerce podem ter troca ou devolução solicitada em até 7 dias corridos do recebimento, observadas as condições publicadas pela marca. Depois desse período, o Sleeptest pode ser aplicável a categorias elegíveis conforme regras próprias.",
+          "O pagamento no site da I Wanna Sleep é seguro? O domínio oficial usa HTTPS e apresenta Pix e cartão de crédito no checkout. Antes de pagar, confirme o endereço iwannasleep.com.br e não transfira valores para contatos que tentem concluir a venda fora do canal oficial.",
           "A I Wanna Sleep é uma empresa nova ou já tem histórico no mercado? No Brasil, a operação tem CNPJ ativo desde 2021, sediada em Belo Horizonte, MG. A marca se apresenta no site oficial como uma \"global lifestyle sleep brand\", com sede global em Orlando (EUA) e presença declarada em EUA, Canadá, Brasil e México. Apesar de a pessoa jurídica brasileira ser relativamente jovem, a marca investiu em estrutura omnichannel (lojas físicas + e-commerce), tecnologia própria (IWS Labs) e programa de influenciadores, sinais de operação séria no setor de sleep tech.",
           "A I Wanna Sleep é uma marca só brasileira ou é internacional? É internacional. Segundo a seção \"Global lifestyle sleep brand\" do site oficial, a empresa tem sede global em Orlando, na Flórida (EUA), e opera em diferentes países — Estados Unidos, Canadá, Brasil e México. No Brasil, a operação comercial é feita pela pessoa jurídica local (CNPJ 43.783.630/0001-92), sob a mesma marca."
         ]
       }
     ],
     "cta": {
-      "text": "Conheça os produtos da I Wanna Sleep e aproveite o cupom CECIEMCASA",
+      "text": "Conheça os produtos da I Wanna Sleep e teste o cupom CECIEMCASA no checkout",
       "label": "Visitar loja",
       "url": "https://www.iwannasleep.com.br/"
     },
