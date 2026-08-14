@@ -54,15 +54,15 @@ export const YESSTYLE_COUPONS_FACTUAL: YesStyleOffer[] = [
     regions: ['GLOBAL'],
   },
   {
-    id: 'btshaul26-promo',
-    code: 'BTSHAUL26',
+    id: 'campus26-promo',
+    code: 'CAMPUS26',
     type: 'coupon',
     discount: { kind: 'text', label: '8–15% OFF' },
-    startsAt: '2026-08-11',
-    expiresAt: '2026-08-13',
-    verifiedAt: '2026-08-11',
-    // Termos oficiais (help hsi.2843): promoção de 11/08/2026 00:00 GMT a 13/08/2026 23:59 GMT.
-    officialSourceUrl: 'https://www.yesstyle.com/en/help/section.html/hsi.2843',
+    startsAt: '2026-08-14',
+    expiresAt: '2026-08-17',
+    verifiedAt: '2026-08-14',
+    // Termos oficiais (help hsi.2844, item 7178): promoção de 14/08/2026 00:00 GMT a 17/08/2026 23:59 GMT.
+    officialSourceUrl: 'https://www.yesstyle.com/en/help/section.html/hsi.2844',
     affiliateUrl: 'https://ystyle.co/rQYQv',
     eligibility: [
       '8% OFF em pedidos a partir de US$ 79',
@@ -70,8 +70,8 @@ export const YESSTYLE_COUPONS_FACTUAL: YesStyleOffer[] = [
       '15% OFF em pedidos a partir de US$ 199',
     ],
     restrictions: [
-      'Válido até 13/08/2026 às 23:59 GMT para produtos elegíveis.',
-      'Use no campo Coupon Code; CECILIA010 continua no campo Reward Code.',
+      'Válido até 17/08/2026 às 23:59 GMT para membros YesStyle e produtos elegíveis.',
+      'Use no campo Coupon Code; pode ser combinado com CECILIA010 no campo Reward Code e com YS Points.',
     ],
     status: 'active',
     regions: ['GLOBAL'],

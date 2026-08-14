@@ -20,7 +20,7 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 |---|---|---|---|
 | `damie` | DAMIE | `CECILIA12` | `lastVerified`, `metaDescription` |
 | `dolce-gusto` | Nescafé Dolce Gusto | `CECI` | `lastVerified` |
-| `yesstyle` | YesStyle | `CECILIA010` (recompensa) + `BTSHAUL26` (promocional até 13/08) | `lastVerified`; conferir `verifiedAt`, `expiresAt` e `status` em `src/lib/yesstyleCoupons.ts` |
+| `yesstyle` | YesStyle | `CECILIA010` (recompensa) + `CAMPUS26` (promocional até 17/08) | `lastVerified`; conferir `verifiedAt`, `expiresAt` e `status` em `src/lib/yesstyleCoupons.ts` |
 | `nutren` | Nutren / Nestlé Nutri | `CECI` | `lastVerified` |
 | `i-wanna-sleep` | I Wanna Sleep | `CECIEMCASA` | `lastVerified` |
 | `magalu` | Magalu (Magazine Você da Cecília) | `100EMCASACOMCECILIA` (+ 9 faixas em `tiers`) | `lastVerified`, `metaTitle`, `metaDescription`, FAQ "Cupom Magalu hoje" |
