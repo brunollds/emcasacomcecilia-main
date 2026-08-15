@@ -34110,6 +34110,7 @@ export const reviewsData: unknown[] = [
     "slug": "nestle-nutre-produtos-para-que-servem",
     "title": "Nestlé Nutre: produtos, para que servem e como comprar",
     "type": "Editorial",
+    "category": "guias-praticos-utilidade",
     "reviewKind": "editorial",
     "author": {
       "name": "Cecília Mauad",
@@ -34217,7 +34218,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.nestlenutre.com.br/"
     },
     "coupon": "CECI",
-    "affiliate": "nestle-nutre",
+    "affiliate": "nutren",
     "editorialNote": "Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.",
     "relatedArticles": [
       {
@@ -34237,6 +34238,7 @@ export const reviewsData: unknown[] = [
     "slug": "nutren-senior-zero-lactose-ficha-tecnica",
     "title": "Nutren Senior Zero Lactose: ficha técnica e como comprar",
     "type": "Editorial",
+    "category": "guias-praticos-utilidade",
     "reviewKind": "editorial",
     "author": {
       "name": "Cecília Mauad",
@@ -34333,7 +34335,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.nestlenutre.com.br/"
     },
     "coupon": "CECI",
-    "affiliate": "nestle-nutre",
+    "affiliate": "nutren",
     "editorialNote": "Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.",
     "relatedArticles": [
       {
