@@ -99,19 +99,23 @@
     {
       "heading": "A Ferrari das donas de casa e o batismo da Dona Amélia",
       "paragraphs": [
-        "Eu falei no vídeo e repito aqui com toda a empolgação: realizei o sonho de ter a Ferrari das donas de casa! Uma lava e seca. A escolhida foi a Samsung de 13 kg (modelo WD13FG6B34BEAZ), e este relato que você está lendo é a transcrição fiel do nosso primeiro contato prático, gravado em casa sem qualquer filtro comercial.",
-        "Eu nunca tinha tido uma lava e seca na vida. Nunca tinha lavado roupa com água aquecida a 60 °C, nunca tinha secado peças diretamente no tambor e evitei assistir a reviews de outros influenciadores de propósito. Eu queria viver a experiência exata de quem recebe o eletrodoméstico na porta, tira a embalagem e se pergunta: “E agora, como funciona?”.",
+        "Eu falei no vídeo e repito aqui com toda a empolgação: realizei o sonho de ter a Ferrari das donas de casa! Uma lava e seca. A escolhida foi a Samsung de 13 kg (modelo WD13FG6B34BEAZ), e este é o meu review do nosso primeiro contato prático, gravado em casa sem qualquer filtro comercial.",
+        "Eu nunca tinha tido uma lava e seca na vida. Nunca tinha lavado roupa com água aquecida a 60 °C, nunca tinha secado peças diretamente no tambor e evitei assistir a reviews de outros influenciadores de propósito. Eu queria viver a experiência exata de quem recebe o eletrodoméstico na porta, tira a embalagem e se pergunta: “E agora, cadê o manual? Como funciona?”.",
         "A nossa máquina de lavar anterior se chama Dona Consuelo — porque é uma Consul clássica de abertura superior. A nova moradora da lavanderia não podia ficar sem identidade: foi batizada na hora de Dona Amélia. “Amélia que não tinha a menor vaidade, era mulher de verdade”. Dona Amélia, com todo o respeito. Foram três dias inteiros de gravação para lavar quatro toalhas e registrar cada detalhe, do desembale à dobra final."
       ],
-      "image": "/images/reviews/samsung/minha-primeira-lava-e-seca-capa.webp",
-      "imageAlt": "Capa do vídeo Minha primeira lava e seca com Cecília e a Samsung 13 kg",
-      "imageCaption": "A capa do nosso vídeo: 3 dias de gravação para mostrar tudo tintim por tintim."
+      "video": {
+        "mp4": "/videos/reviews/samsung/lava-e-seca-loop.mp4",
+        "webm": "/videos/reviews/samsung/lava-e-seca-loop.webm",
+        "poster": "/images/reviews/samsung/lava-e-seca-loop-poster.webp",
+        "alt": "Loop da lava e seca Samsung 13 kg em funcionamento na lavanderia",
+        "aspect": "square"
+      }
     },
     {
       "heading": "Embalagem no tatame, piso antiderrapante e a porta de 80 cm",
       "paragraphs": [
         "A máquina chega sem aquela caixa tradicional de papelão: vem protegida por uma camada reforçada de plástico bolha, calços densos de isopor e uma placa superior rígida parecida com um tatame de academia. Essa proteção superior explica por que o transporte é tão firme mesmo sem a caixa externa.",
-        "Na hora de empurrar para dentro de casa, o porcelanato da lavanderia ajudou muito e a base deslizou com facilidade. O sufoco real aconteceu na garagem, onde o piso é antiderrapante e travou o isopor — tivemos que puxar no braço com cuidado até alcançar a área interna.",
+        "Na hora de transportar a máquina para dentro, o sufoco real começou logo na garagem: como o piso ali é antiderrapante, o isopor travou e tivemos que puxar no braço com cuidado até vencer esse primeiro trecho. Já na parte interna da casa, o porcelanato ajudou demais e a base deslizou com facilidade, atravessando o caminho pelo quintal até a lavanderia.",
         "O grande suspense da tarde foi a porta da lavanderia, que tem 80 cm de vão livre. Como a esquadria e a folha de vidro comem alguns centímetros úteis de passagem, deu aquele frio na barriga. No fim, passou com margem de segurança. Se você tem portas estreitas em casa, vale medir com trena antes de receber a entrega."
       ],
       "image": "/images/reviews/samsung/amelia-chegou-embalada.webp",
@@ -154,13 +158,9 @@
         "Coloquei as toalhas ocupando apenas cerca de **metade do tambor**. Essa é a regra de ouro das máquinas frontais: a roupa precisa de espaço aéreo livre para subir com a rotação e tombar, fazendo com que o impacto abra as fibras do tecido e expila a sujeira. Se encher o cesto até o topo, a roupa apenas gira em bloco e não lava.",
         "A porta travou com trava de segurança, a máquina fez o sensoriamento inteligente de peso (AI sensing) e estimou inicialmente 2h26, recalculando logo depois para **2h04**. O molhamento é gradual e inteligente: a água entra aos poucos em jatos enquanto a máquina gira, molhando o contorno externo antes de ensopar o miolo."
       ],
-      "video": {
-        "mp4": "/videos/reviews/samsung/lava-e-seca-loop.mp4",
-        "webm": "/videos/reviews/samsung/lava-e-seca-loop.webm",
-        "poster": "/images/reviews/samsung/lava-e-seca-loop-poster.webp",
-        "alt": "Loop da lava e seca Samsung 13 kg em funcionamento na lavanderia",
-        "aspect": "square"
-      }
+      "image": "/images/reviews/samsung/minha-primeira-lava-e-seca-capa.webp",
+      "imageAlt": "Capa do vídeo Minha primeira lava e seca com Cecília e a Samsung 13 kg",
+      "imageCaption": "A capa do nosso vídeo: 3 dias de gravação para mostrar tudo tintim por tintim."
     },
     {
       "heading": "Centrifugação, secagem de 2h45 e o veredito das toalhas",
