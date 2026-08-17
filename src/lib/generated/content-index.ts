@@ -39844,10 +39844,10 @@ export const reviewsData: unknown[] = [
         "imageCaption": "Dona Amélia instalada no canto. Ao lado, a antiga Dona Consuelo de testemunha."
       },
       {
-        "heading": "App SmartThings, calibração do motor e a gaveta de sabão",
+        "heading": "App SmartThings, calibração do tambor e a gaveta de sabão",
         "paragraphs": [
           "Ligamos a máquina na tomada e fizemos o pareamento pelo QR code com o aplicativo **Samsung SmartThings** no smartphone. Enquanto o aplicativo conectava, a máquina realizou a calibração automática do tambor vazio, ajustando os sensores inteligentes de detecção de peso da carga antes da primeira lavagem.",
-          "Pelo aplicativo dá para acompanhar o tempo restante do ciclo, checar diagnósticos de funcionamento, ver o aviso de autolimpeza do tambor (que deve ser feita a cada 40 ciclos) e monitorar o consumo exato de energia elétrica (em kWh) e água (em litros).",
+          "Pelo aplicativo dá para acompanhar o tempo restante do ciclo, checar diagnósticos de funcionamento, ver o aviso de autolimpeza do tambor (que deve ser feita a cada 40 ciclos) e consultar as estimativas e valores de consumo de energia elétrica (em kWh) e água (em litros) registrados pelo SmartThings.",
           "A gaveta de sabão é dividida em três compartimentos claros: **1** para pré-lavagem, **2** para a lavagem principal (que conta com uma pecinha plástica dosadora azul que você encaixa para o sabão líquido não escorrer imediatamente) e o compartimento do meio com o ícone de florzinha para o amaciante.",
           "Uma grande surpresa de quem vem de lavadoras de abertura superior: a lava e seca consome muito menos insumo! Como a lavagem frontal funciona por tombamento da roupa (e não enchendo 100 litros de água no tanque), uma única tampinha de sabão líquido foi mais que suficiente. Já o amaciante concentrado pede diluição prévia em um pouco de água para não grudar no dispenser."
         ]
@@ -39871,7 +39871,7 @@ export const reviewsData: unknown[] = [
           "Decidi ativar o ciclo de **Secagem** na mesma carga. O visor estimou **2h45 minutos** de secagem térmica. O ciclo terminou tarde da noite, então deixei a máquina fechada e só fui abrir no dia seguinte pela manhã para o veredito final.",
           "Ao abrir o tambor pela manhã: toalhas **100% secas, macias, fofas e quentinhas**, prontas para dobrar e guardar ou usar direto no banho! O cheiro característico é de lavanderia profissional. Com a temperatura alta da secagem, o aroma forte do amaciante deu uma leve amenizada, ficando um perfume muito agradável e limpo.",
           "Analisando o resultado de cada toalha na bancada:",
-          "1. **As toalhas brancas:** que entraram limpas permaneceram super brancas, macias e impecáveis.",
+          "2. **A toalha encardida:** ao olhar de perto na luz natural, percebi que ela havia mofado no cesto por ter sido guardada molhada. Mancha de bolor e mofo antigo é profunda e não sai em lavagem comum — exige pré-tratamento com tira-manchas ou percarbonato de sódio antes de bater (sempre conferindo as instruções da embalagem e se a etiqueta do tecido/cor aceita esse tratamento).",
           "2. **A toalha encardida:** ao olhar de perto na luz natural, percebi que ela havia mofado no cesto por ter sido guardada molhada. Mancha de bolor e mofo antigo é profunda e não sai em lavagem comum — exige pré-tratamento com percarbonato de sódio ou tira-manchas específico antes de bater.",
           "3. **Aspecto amarelado:** notei que duas toalhas pareciam ligeiramente amareladas na dobra, o que me fez pensar em testar receitas de clareamento nos próximos ciclos.",
           "A grande conclusão: em dias de chuva ou tempo úmido, ter uma secadora em casa é uma verdadeira glória. Elimina de vez o perigo de roupas ficarem dias no varal pegando cheiro de umidade ou mofando no cesto por falta de sol."
@@ -39882,15 +39882,15 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Depois desse primeiro teste completo, resumimos as nossas principais impressões práticas:",
           "**Pontos Fortes Observados:**",
-          "• **Secagem real e eficiente:** toalhas e roupas saem 100% secas, macias e prontas para guardar ou usar no mesmo dia.",
-          "• **Grande alívio em dias de chuva:** elimina a dependência de varal e o risco de roupas pegarem cheiro de umidade ou mofarem no cesto.",
+          "• **Secagem real e eficiente:** no nosso teste com quatro toalhas, as peças saíram 100% secas, macias e prontas para guardar ou usar no mesmo dia.",
+          "• **Grande alívio em dias de chuva:** reduz a dependência de varal e ajuda a evitar que peças peguem cheiro de umidade ou mofem no cesto por falta de sol.",
           "• **Economia notável de produtos:** a lavagem por tombamento exige muito menos sabão e amaciante que máquinas convencionais.",
           "• **Conectividade SmartThings:** monitoramento prático pelo celular de tempo de ciclo, água e energia elétrica.",
           "• **Design compacto:** passou com facilidade na porta de 80 cm da lavanderia (máquina tem 60 cm de largura).",
           "**Pontos de Atenção:**",
           "• **Manual impresso mínimo:** manual físico de apenas uma folha com QR code, exigindo o celular para ler detalhes.",
           "• **Duração dos ciclos combinados:** o programa completo de toalhas com lavagem a 60 °C e secagem térmica soma cerca de 4h50 no total.",
-          "• **Parafusos traseiros de transporte:** remoção obrigatória antes de ligar para evitar vibrações no tambor.",
+          "• **Manchas severas de mofo:** exigem pré-tratamento com tira-manchas ou percarbonato antes de ir para a máquina (sempre respeitando as instruções do produto e a etiqueta da peça).",
           "• **Manchas severas de mofo:** exigem pré-tratamento com percarbonato ou tira-manchas antes de colocar na máquina.",
           "Como este é o nosso relato de primeiro uso e unboxing, daqui a um mês publicarei o review de acompanhamento contando a experiência contínua e aplicando as dicas deixadas nos comentários!",
           "**Divulgação de Afiliados:** Como associado da Amazon, eu ganho com compras qualificadas. Os links para Amazon e Mercado Livre são links afiliados/comerciais que ajudam a apoiar o canal Em Casa com Cecília sem custo adicional para o comprador."
@@ -39928,7 +39928,7 @@ export const reviewsData: unknown[] = [
           "O que é a tecnologia Ecobubble e VRT Plus? O Ecobubble transforma o sabão em bolhas ativas para penetrar mais rápido nas fibras, enquanto o VRT Plus (VRT+) é o sistema de sensores que reduz ruídos e vibrações durante a centrifugação.",
           "Ela esteriliza a seco? Sim, o modelo é 3 em 1 (lava, seca e esteriliza a seco através da tecnologia Air Wash, que elimina odores e bactérias com ar quente sem usar água).",
           "O motor é econômico? Sim, ela conta com motor Digital Inverter da Samsung, que oferece alta eficiência energética, baixo ruído e durabilidade superior.",
-          "A lava e seca passa em portas padrão de 80 cm? Sim, no nosso teste passou na porta de 80 cm da lavanderia (a máquina tem 60 cm de largura), mas meça o vão livre e a moldura antes da entrega.",
+          "Ela tira mancha pesada e mofo sem pré-lavagem? Não. Manchas profundas de mofo (de toalha guardada úmida no cesto) exigem pré-tratamento com tira-manchas ou percarbonato de sódio (conforme a etiqueta do tecido) antes de ir para a máquina.",
           "É obrigatório retirar os parafusos de transporte? Sim! São 4 parafusos compridos na parte traseira que travam o tambor durante o frete. Eles devem ser retirados com a chave inclusa antes da primeira ligação.",
           "Quanto tempo demorou o primeiro ciclo completo? O ciclo de lavagem de toalhas a 60 °C levou 2h04 minutos (recalculado pelo sensor de peso), e a secagem térmica da mesma carga levou 2h45 minutos.",
           "A secagem realmente entrega a toalha seca? Sim, as toalhas saíram completamente secas, quentinhas e prontas para uso imediato.",
