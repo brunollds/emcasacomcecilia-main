@@ -45,9 +45,24 @@
       "image": "/images/reviews/samsung/amelia-no-lugar.webp",
       "alt": "Lava e seca Samsung 13 kg branca instalada na lavanderia com acabamento moderno",
       "caption": "Instalada no canto da lavanderia após o suspense da porta de 80 cm e do encanamento."
+    },
+    {
+      "image": "/images/reviews/samsung/samsung-wd13fg-frontal-oficial.webp",
+      "alt": "Vista frontal oficial da Lava e Seca Smart Samsung 13 kg WD13FG com AI Control",
+      "caption": "Visão frontal oficial da Samsung WD13FG: acabamento branco com porta em vidro temperado escuro."
+    },
+    {
+      "image": "/images/reviews/samsung/samsung-wd13fg-perspectiva-oficial.webp",
+      "alt": "Visão em perspectiva da Lava e Seca Samsung WD13FG AI Control",
+      "caption": "Perspectiva lateral da máquina mostrando o alinhamento da gaveta de sabão e o painel inteligente."
+    },
+    {
+      "image": "/images/reviews/samsung/samsung-wd13fg-dimensoes-oficial.webp",
+      "alt": "Esquema técnico com as dimensões oficiais da Samsung WD13FG: 600 x 850 x 600 mm",
+      "caption": "Medidas oficiais do modelo: 60 cm de largura, 85 cm de altura e 60 cm de profundidade (peso líquido de 74 kg)."
     }
   ],
-  "productName": "Lava e Seca Smart Samsung 13 kg WD13FG",
+  "productName": "Lava e Seca Smart WD13FG com AI Control Branca 127V 13kg + 8kg",
   "brand": "Samsung",
   "productSpec": [
     {
@@ -55,12 +70,8 @@
       "value": "Samsung"
     },
     {
-      "key": "Linha",
-      "value": "AI Control / SmartThings"
-    },
-    {
-      "key": "Modelo",
-      "value": "WD13FG6B34BEAZ"
+      "key": "Modelo Oficial",
+      "value": "Lava e Seca Smart WD13FG com AI Control (WD13FG6B34BEAZ)"
     },
     {
       "key": "Cor / Acabamento",
@@ -68,19 +79,43 @@
     },
     {
       "key": "Capacidade de Lavagem",
-      "value": "13 kg"
+      "value": "13,0 kg"
     },
     {
       "key": "Capacidade de Secagem",
-      "value": "8 kg"
+      "value": "8,0 kg"
     },
     {
-      "key": "Abertura / Tipo",
-      "value": "Front Load (abertura frontal por tombamento)"
+      "key": "Funções 3 em 1",
+      "value": "Lava, seca e esteriliza a seco (Air Wash)"
+    },
+    {
+      "key": "Tecnologia de Lavagem",
+      "value": "Ecobubble (bolhas ativas que penetram nas fibras)"
+    },
+    {
+      "key": "Sistema Antirruído",
+      "value": "VRT Plus (VRT+) para redução de vibração e ruído"
+    },
+    {
+      "key": "Motor",
+      "value": "Digital Inverter da Samsung (alta durabilidade e economia)"
     },
     {
       "key": "Conectividade",
-      "value": "Wi-Fi e aplicativo Samsung SmartThings"
+      "value": "Wi-Fi integrado com aplicativo SmartThings e AI Control"
+    },
+    {
+      "key": "Dimensões Físicas (LxAxP)",
+      "value": "600 x 850 x 600 mm (60 x 85 x 60 cm)"
+    },
+    {
+      "key": "Peso Líquido",
+      "value": "74 kg"
+    },
+    {
+      "key": "Voltagem da Unidade",
+      "value": "127V"
     }
   ],
   "pros": [
@@ -133,7 +168,7 @@
     {
       "heading": "O sufoco do encanamento e a instalação na lavanderia",
       "paragraphs": [
-        "A mangueira de drenagem (que expele a água usada) já vem com uma curva plástica rígida, pensada para quem precisa pendurar a saída na borda de um tanque convencional. Na nossa lavanderia nós temos uma saída embutida na parede, mas a obra da casa pregou uma peça: o encanador deixou apenas um cano liso cortado rente ao porcelanato onde havia um tampão, sem nenhuma rosca ou joelho fêmea para fixação rosqueada.",
+        "A mangueira de drenagem (que expele a água usada) já vem com uma curva plástica rígida de direcionamento — acessório que serve tanto para encaixar em instalações de saída padrão preparadas na parede quanto para apoiar com segurança na borda de um tanque convencional. Na nossa lavanderia nós temos o ponto de esgoto embutido, mas a obra da casa pregou uma peça: o encanador deixou apenas um cano liso cortado rente ao porcelanato onde havia um tampão, sem nenhuma rosca ou joelho fêmea para fixação rosqueada.",
         "O Bruno precisou forçar o encaixe da mangueira no cano da parede com bastante pressão. Na teoria ficou preso, mas ficamos com aquele medo se o primeiro jato de água da bomba de drenagem iria soltar tudo ou causar vazamento no chão. Fica a dica de ouro: verifique a rosca e a tubulação da sua parede *antes* da instalação.",
         "Com a máquina no lugar e nivelada pelos pezinhos reguláveis, veio a melhor parte de todo o processo: puxar a película adesiva dos plásticos brilhantes da carcaça e do painel digital."
       ],
@@ -196,8 +231,12 @@
     {
       "heading": "Perguntas frequentes sobre a Samsung 13 kg",
       "bullets": [
-        "Qual é o modelo exato da lava e seca? Samsung WD13FG6B34BEAZ, da linha AI Control com capacidade para 13 kg de lavagem e 8 kg de secagem na cor branca.",
-        "A lava e seca passa em portas padrão de 80 cm? Sim, no nosso teste passou na porta de 80 cm da lavanderia, mas meça o vão livre da sua porta com a moldura antes da entrega.",
+        "Qual é o modelo exato da lava e seca? Samsung WD13FG6B34BEAZ, da linha Lava e Seca Smart WD13FG com AI Control Branca 127V, com capacidade para 13,0 kg de lavagem e 8,0 kg de secagem.",
+        "Quais são as dimensões e o peso da máquina? O modelo mede exatamente 600 x 850 x 600 mm (60 cm de largura x 85 cm de altura x 60 cm de profundidade) e possui peso líquido de 74 kg.",
+        "O que é a tecnologia Ecobubble e VRT Plus? O Ecobubble transforma o sabão em bolhas ativas para penetrar mais rápido nas fibras, enquanto o VRT Plus (VRT+) é o sistema de sensores que reduz ruídos e vibrações durante a centrifugação.",
+        "Ela esteriliza a seco? Sim, o modelo é 3 em 1 (lava, seca e esteriliza a seco através da tecnologia Air Wash, que elimina odores e bactérias com ar quente sem usar água).",
+        "O motor é econômico? Sim, ela conta com motor Digital Inverter da Samsung, que oferece alta eficiência energética, baixo ruído e durabilidade superior.",
+        "A lava e seca passa em portas padrão de 80 cm? Sim, no nosso teste passou na porta de 80 cm da lavanderia (a máquina tem 60 cm de largura), mas meça o vão livre e a moldura antes da entrega.",
         "É obrigatório retirar os parafusos de transporte? Sim! São 4 parafusos compridos na parte traseira que travam o tambor durante o frete. Eles devem ser retirados com a chave inclusa antes da primeira ligação.",
         "Quanto tempo demorou o primeiro ciclo completo? O ciclo de lavagem de toalhas a 60 °C levou 2h04 minutos (recalculado pelo sensor de peso), e a secagem térmica da mesma carga levou 2h45 minutos.",
         "A secagem realmente entrega a toalha seca? Sim, as toalhas saíram completamente secas, quentinhas e prontas para uso imediato.",
