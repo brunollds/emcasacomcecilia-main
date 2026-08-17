@@ -39892,6 +39892,14 @@ export const reviewsData: unknown[] = [
           {
             "label": "Vídeo Completo: Unboxing e primeiro uso da Samsung 13 kg no canal",
             "href": "/videos/minha-primeira-lava-e-seca-samsung-13kg-video"
+          },
+          {
+            "label": "Ver opções e preços da Samsung WD13FG 13 kg na Amazon",
+            "href": "https://link.amazon/B07YTVmpB"
+          },
+          {
+            "label": "Ver opções e preços da Samsung WD13FG 13 kg no Mercado Livre",
+            "href": "https://meli.la/135UA2m"
           }
         ]
       },
@@ -39908,11 +39916,16 @@ export const reviewsData: unknown[] = [
           "Quanto tempo demorou o primeiro ciclo completo? O ciclo de lavagem de toalhas a 60 °C levou 2h04 minutos (recalculado pelo sensor de peso), e a secagem térmica da mesma carga levou 2h45 minutos.",
           "A secagem realmente entrega a toalha seca? Sim, as toalhas saíram completamente secas, quentinhas e prontas para uso imediato.",
           "Ela tira mancha pesada e mofo sem pré-lavagem? Não. Manchas profundas de mofo (de toalha guardada úmida no cesto) exigem pré-tratamento com tira-manchas ou percarbonato de sódio antes de ir para a máquina.",
-          "Onde consultar o produto e ofertas? Quando a página oficial do produto e opções de compra estiverem ativas, você encontrará os links e recomendações atualizados neste artigo."
+          "Onde consultar o produto e ofertas? Você pode conferir os preços atualizados e a disponibilidade da Samsung WD13FG de 13 kg na Amazon ou no Mercado Livre através dos links indicados neste artigo."
         ]
       }
     ],
     "editorialNote": "Primeiras impressões de uso real e unboxing gravados na lavanderia de casa por Cecília Mauad. Conteúdo independente baseado na transcrição autêntica da gravação em vídeo. Não é uma avaliação de longo prazo.",
-    "youtubeUrl": "https://youtu.be/xpXX_N002jo"
+    "youtubeUrl": "https://youtu.be/xpXX_N002jo",
+    "cta": {
+      "text": "Confira a Lava e Seca Smart Samsung 13 kg WD13FG e consulte opções de compra",
+      "label": "Ver na Amazon",
+      "url": "https://link.amazon/B07YTVmpB"
+    }
   }
 ];
