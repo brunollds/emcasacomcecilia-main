@@ -92,6 +92,13 @@ const videoPageDefinitions = [
     sourcePath: '/reviews/dolce-gusto-genio-s-touch-vale-a-pena',
     sourceTitle: 'Dolce Gusto Genio S Touch vale a pena?',
   },
+  {
+    slug: 'minha-primeira-lava-e-seca-samsung-13kg-video',
+    kind: 'youtube',
+    videoId: 'xpXX_N002jo',
+    sourcePath: '/reviews/samsung-lava-seca-13kg-primeiro-uso',
+    sourceTitle: 'Minha primeira lava e seca: Samsung 13 kg, unboxing e primeiro uso',
+  },
 ];
 
 function buildVideoPage(definition) {

@@ -77,6 +77,13 @@ export const videoMetadata = {
     description:
       'A nova Mine Me 2.0 da Nescafé Dolce Gusto chegou como presente de Dia dos Pais! ☕🎁Neste unboxing ASMR, você acompanha todos os sons da abertura, da máquina sendo preparada e do primeiro café Leite Moça Pistache. Salva para lembrar do cupom CECI!\n\n\n#DolceGusto #MineMe20 #UnboxingASMR #CafeEmCasa #DiaDosPais #CupomCECI',
   },
+  xpXX_N002jo: {
+    uploadDate: '2026-08-17',
+    duration: 'PT18M17S',
+    title: 'Minha primeira lava e seca: Samsung 13 kg, unboxing e primeiro uso',
+    description:
+      'Unboxing, instalação e primeiro teste prático da lava e seca Samsung 13 kg (WD13FG) na lavanderia com Cecília Mauad: lavagem de toalhas a 60 °C e secagem completa.',
+  },
 };
 
 /**
