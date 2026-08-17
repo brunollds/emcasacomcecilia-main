@@ -129,6 +129,11 @@ export const localVideoMetadata = {
     reviewSlug: 'dolce-gusto-mini-me-2-0-vale-a-pena',
     reason: 'Demonstração complementar da máquina em operação; o YouTube é o vídeo editorial principal.',
   },
+  '/videos/reviews/samsung/lava-e-seca-loop.mp4': {
+    classification: 'decorative',
+    reviewSlug: 'samsung-lava-seca-13kg-primeiro-uso',
+    reason: 'Loop mudo de ambientação no corpo do artigo; o vídeo editorial principal será o YouTube.',
+  },
 };
 
 export function getPrimaryLocalVideoMeta(reviewSlug) {
