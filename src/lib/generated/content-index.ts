@@ -39439,10 +39439,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços, kits promocionais e garantia de 30 dias",
         "paragraphs": [
-          "No e-commerce oficial da I Wanna Sleep (valores de referência consultados em agosto de 2026), a Melatonina Líquida IWS 30ml possui preço unitário de R$ 87,00. Para quem busca melhor custo por dose, a marca comercializa kits com desconto progressivo:",
-          "• **Kit com 3 unidades (compre 2, leve 3):** sai por R$ 174,00 (unidade a R$ 58,00).",
-          "• **Kit com 5 unidades (compre 3, leve 5):** sai por R$ 261,00 (unidade a R$ 52,20).",
-          "Além disso, o produto é coberto pelo programa de **30 dias de satisfação** da I Wanna Sleep: caso o cliente adquira pelo site oficial e sinta que não se adaptou ao suplemento, pode solicitar a troca por outro produto do catálogo dentro desse período de 30 dias (conforme os termos do Sleeptest da marca)."
+          "No e-commerce oficial da I Wanna Sleep (valores de referência consultados em agosto de 2026), a Melatonina Líquida IWS 30ml possui preço de tabela de R$ 87,00 na unidade individual. Para quem busca um melhor custo por dose diária, a marca comercializa kits com desconto progressivo, que podem ficar ainda mais vantajosos com o cupom de parceria:",
+          "• **Unidade individual (30ml):** de R$ 87,00 por **R$ 78,30** com o cupom CECIEMCASA (10% de desconto).",
+          "• **Kit com 3 unidades (compre 2, leve 3):** de R$ 174,00 por **R$ 156,60** com o cupom CECIEMCASA (o valor por frasco cai para apenas **R$ 52,20**).",
+          "• **Kit com 5 unidades (compre 3, leve 5):** de R$ 261,00 por **R$ 234,90** com o cupom CECIEMCASA (o custo por frasco atinge a melhor faixa, a **R$ 46,98** por unidade).",
+          "Além da economia nos kits, o produto é coberto pelo programa de **30 dias de satisfação** da I Wanna Sleep: caso você compre pelo site oficial e sinta que não se adaptou ao uso, é possível solicitar a troca por outro produto do catálogo dentro desse período de 30 dias (segundo os termos de teste e adaptação do Sleeptest da marca)."
         ]
       },
       {
