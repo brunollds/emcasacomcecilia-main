@@ -34102,7 +34102,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "publishedAtISO": "2026-08-05",
-    "isNew": true,
+    "isNew": false,
     "updatedAt": "2026-08-05"
   },
   {
@@ -34258,7 +34258,7 @@ export const reviewsData: unknown[] = [
         "text": "Ficha conferida nas páginas oficiais da Nestlé Health Science e publicada com as duas latas de 740 g."
       }
     ],
-    "draft": true,
+    "draft": false,
     "isNew": true,
     "image": "/images/reviews/nutren/nutren-senior-hero.webp",
     "imageAlt": "Lata de Nutren Senior Zero Lactose Sem Sabor 740 g, composto lácteo da Nestlé Nutre",
@@ -37000,7 +37000,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2 de agosto de 2026",
     "publishedAtISO": "2026-08-02",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "pros": [],
     "cons": [],
     "contentSections": [
@@ -37197,7 +37197,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2 de agosto de 2026",
     "publishedAtISO": "2026-08-02",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "imageFit": "cover",
     "imageAspect": "square",
     "pros": [],
@@ -38244,7 +38244,7 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "isNew": true,
+    "isNew": false,
     "imageAspect": "landscape",
     "imageFit": "cover"
   },
@@ -39060,7 +39060,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "4 de agosto de 2026",
     "publishedAtISO": "2026-08-04",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "image": "/images/reviews/iwannasleep/aliv-head-gel-iws-hero.jpg",
     "imageAlt": "Pessoa usando a máscara térmica Aliv Head Gel IWS sobre os olhos",
     "imageFit": "cover",
@@ -39385,14 +39385,14 @@ export const reviewsData: unknown[] = [
           "Quem nunca passou pela experiência de deitar na cama com o corpo exausto, mas com a mente a mil por hora, rolando de um lado para o outro sem conseguir engatar no sono? A dificuldade para adormecer ou a sensação de acordar cansado é uma das queixas mais frequentes da rotina moderna, e é exatamente nesse cenário que a melatonina ganha destaque.",
           "A melatonina é uma substância produzida naturalmente pelo nosso próprio organismo, especificamente pela glândula pineal no cérebro. Conhecida popularmente como o “hormônio do sono”, sua função biológica primária é regular o ciclo circadiano — o nosso relógio biológico interno que informa ao corpo quando é dia (hora de ficar alerta) e quando é noite (hora de desacelerar).",
           "Em condições ideais, quando o ambiente escurece, o cérebro aumenta a liberação de melatonina na corrente sanguínea. Isso reduz a temperatura corporal, diminui o ritmo cardíaco e sinaliza aos órgãos que chegou o momento de descansar. No entanto, a superexposição a telas de celular, computadores, luzes artificiais de LED e o estresse diário bloqueiam essa produção natural, enganando o cérebro e dificultando o início do sono.",
-          "A suplementação de melatonina serve justamente como um suporte exógeno: ela não atua como um sonífero químico pesado que 'apaga' a pessoa à força, mas sim como um indutor fisiológico suave que reestabelece a sinalização da noite para o organismo, facilitando o relaxamento e o início do ciclo do sono."
+          "A suplementação de melatonina serve como um suporte exógeno a esse mecanismo: diferente de um sonífero químico, ela reforça o mesmo sinal químico que o corpo já produz sozinho para marcar a chegada da noite. Vale reforçar: a Anvisa não aprova alegações de benefício no rótulo desses suplementos — o efeito percebido varia de pessoa para pessoa e não substitui avaliação médica em casos de insônia persistente."
         ]
       },
       {
         "heading": "A proposta da Melatonina Líquida IWS (gotas sabor maracujá)",
         "paragraphs": [
           "Dentro do ecossistema de soluções para o sono da marca brasileira I Wanna Sleep (que inclui colchões tecnológicos, travesseiros e cobertores térmicos), a linha de nutrição do sono traz a **Melatonina Líquida IWS 30ml** como produto de entrada.",
-          "Diferente de comprimidos rígidos ou cápsulas que precisam ser digeridos pelo estômago, o formato em gotas líquidas com sabor natural de maracujá foi desenvolvido para proporcionar absorção oral rápida e facilidade de dosagem, além de ser uma alternativa muito mais prática para quem tem desconforto para engolir pílulas antes de deitar.",
+          "Diferente de comprimidos ou cápsulas, o formato em gotas líquidas com sabor natural de maracujá facilita o ajuste fino da dose (gota a gota) e costuma ser mais prático para quem tem desconforto para engolir pílulas antes de deitar.",
           "No site oficial da marca, o produto acumula nota média de 4,9 de 5 estrelas em mais de 770 avaliações de consumidores (dados consultados em agosto de 2026). As seções a seguir reúnem a ficha técnica pública, a regulamentação oficial da Anvisa, os cuidados de uso e as opções de compra."
         ],
         "image": "/images/reviews/iwannasleep/melatonina-liquida-maracuja.webp",
@@ -39408,10 +39408,10 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/iwannasleep/melatonina-liquida-splash.webp",
         "imageAlt": "Frasco conta-gotas da Melatonina Líquida IWS 30ml, sabor maracujá",
         "imageCaption": "Frasco conta-gotas de 30ml: rendimento de cerca de 750 gotas por frasco.",
-        "imageFit": "contain",
+        "imageFit": "square",
         "bullets": [
           "**Concentração:** 0,21 mg de melatonina pura por gota.",
-          "**Modo de uso recomendado:** Ingerir 1 gota por via oral cerca de 30 a 60 minutos antes de dormir, ou conforme orientação médica/nutricional.",
+          "**Modo de uso recomendado:** 1 gota por via oral antes de dormir, ou conforme orientação médica/nutricional (é o modo de uso que consta na página oficial — a marca não especifica uma janela de minutos antes de deitar).",
           "**Composição / Ingredientes:** Água purificada, melatonina, agente de massa glicerina vegetal, aromatizante natural de maracujá e acidulante ácido cítrico.",
           "**Perfil nutricional:** Sem glúten, sem lactose, zero adição de açúcares e formulação 100% vegana."
         ]
@@ -39420,7 +39420,7 @@ export const reviewsData: unknown[] = [
         "heading": "Por que exatamente 0,21 mg? A regra oficial da Anvisa",
         "paragraphs": [
           "A concentração de **0,21 mg por gota** não é uma escolha aleatória da marca. Em 2021, a Agência Nacional de Vigilância Sanitária (Anvisa) autorizou a comercialização da melatonina como suplemento alimentar no Brasil, estabelecendo o limite máximo de consumo diário de **0,21 mg/dia** para adultos saudáveis a partir de 19 anos.",
-          "Essa dosagem fisiológica foi definida para oferecer suporte seguro ao ciclo circadiano sem riscos de desregulação hormonal em uso contínuo. Por conta dessa legislação, todos os suplementos alimentares regulares de melatonina no país são padronizados nessa faixa de 0,21 mg por porção.",
+          "Esse valor é o teto autorizado pela Anvisa para o consumo diário — não uma garantia de segurança individual em qualquer regime de uso, inclusive contínuo, que deve ser avaliado com um médico. Por conta dessa legislação, os suplementos alimentares regulares de melatonina vendidos no país não podem ultrapassar essa faixa de 0,21 mg por porção.",
           "A Anvisa permite a venda livre sem necessidade de receita médica, mas exige que a rotulagem contenha avisos de segurança claros e não autoriza alegações de cura ou tratamentos de doenças no rótulo."
         ]
       },
@@ -39443,7 +39443,7 @@ export const reviewsData: unknown[] = [
           "• **Unidade individual (30ml):** de R$ 87,00 por **R$ 78,30** com o cupom CECIEMCASA (10% de desconto).",
           "• **Kit com 3 unidades (compre 2, leve 3):** de R$ 174,00 por **R$ 156,60** com o cupom CECIEMCASA (o valor por frasco cai para apenas **R$ 52,20**).",
           "• **Kit com 5 unidades (compre 3, leve 5):** de R$ 261,00 por **R$ 234,90** com o cupom CECIEMCASA (o custo por frasco atinge a melhor faixa, a **R$ 46,98** por unidade).",
-          "Além da economia nos kits, o produto é coberto pelo programa de **30 dias de satisfação** da I Wanna Sleep: caso você compre pelo site oficial e sinta que não se adaptou ao uso, é possível solicitar a troca por outro produto do catálogo dentro desse período de 30 dias (segundo os termos de teste e adaptação do Sleeptest da marca)."
+          "Além da economia nos kits, o produto é coberto pelo programa **Sleeptest** da I Wanna Sleep: são 30 dias, contados a partir do recebimento, para testar o produto. A marca exige um uso mínimo de 15 dias antes de aceitar a solicitação de troca, e o que você recebe é um crédito de troca por outro item do catálogo — não reembolso do valor pago. Confira as condições completas na [política oficial do Sleeptest](https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest)."
         ]
       },
       {
@@ -39467,13 +39467,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Para que serve a Melatonina Líquida IWS? Ela atua como um suplemento indutor natural que ajuda a sinalizar o início da noite para o corpo, auxiliando na regulação do ciclo do sono e no relaxamento para adormecer.",
+          "Para que serve a Melatonina Líquida IWS? É um suplemento alimentar de melatonina, o mesmo hormônio que o corpo produz à noite para sinalizar o ciclo circadiano. A Anvisa não aprova alegações de benefício para esse tipo de produto — não é um indutor de sono garantido, e casos de insônia persistente merecem avaliação médica.",
           "Qual é a dose de melatonina por gota? A Melatonina Líquida IWS contém 0,21 mg por gota, exatamente o limite máximo diário estabelecido pela Anvisa para suplementos alimentares adultos.",
           "Quantas gotas vêm no frasco de 30ml? O frasco conta com aproximadamente 750 gotas, o que confere alto rendimento para uso diário individual.",
           "Melatonina é remédio tarja preta? Não. A melatonina é um suplemento alimentar de venda livre, regulamentado pela Anvisa desde 2021, sem necessidade de prescrição médica.",
           "Quem não deve tomar melatonina? Gestantes, lactantes, crianças e pessoas que irão exercer atividades de alta atenção logo em seguida. Quem possui doenças crônicas ou toma medicamentos deve consultar um médico.",
           "O cupom CECIEMCASA funciona para a Melatonina Líquida? Sim, o cupom CECIEMCASA pode ser aplicado no checkout do site oficial para buscar 10% de desconto em produtos elegíveis da marca.",
-          "Como funciona a garantia de 30 dias? A I Wanna Sleep oferece 30 dias de teste de satisfação em compras feitas no site oficial, permitindo solicitar a troca por outro item do catálogo caso não haja adaptação."
+          "Como funciona a garantia de 30 dias? É o programa Sleeptest: 30 dias a partir do recebimento, com uso mínimo de 15 dias antes de pedir a troca, para trocar por outro item do catálogo (crédito de troca, não reembolso). Só vale para compras feitas no site oficial — confira as condições completas na política oficial."
         ]
       }
     ],
@@ -39494,10 +39494,6 @@ export const reviewsData: unknown[] = [
       {
         "slug": "i-wanna-sleep-e-confiavel",
         "title": "I Wanna Sleep é confiável? O que observar antes de comprar"
-      },
-      {
-        "slug": "sleeptest-i-wanna-sleep-como-funciona",
-        "title": "Sleeptest da I Wanna Sleep: como funciona na prática (100 noites, 30 dias e as regras que ninguém lê)"
       }
     ]
   },
@@ -39690,7 +39686,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "youtubeUrl": "https://www.youtube.com/shorts/RGM_61Heclo",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": 262,
