@@ -34236,7 +34236,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 225,
     "slug": "nutren-senior-zero-lactose-ficha-tecnica",
-    "title": "Nutren Senior Zero Lactose: ficha técnica e preparo",
+    "title": "Nutren Senior Zero Lactose: o que saber antes de comprar",
     "type": "Guia",
     "category": "guias-praticos-utilidade",
     "reviewKind": "editorial",
@@ -34248,6 +34248,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Este guia reúne os dados públicos das latas de 740 g do Nutren Senior Zero Lactose: rendimento, preparo, diferenças entre as versões sem sabor e baunilha e as regras do cupom CECI no checkout.",
+    "seoTitle": "Nutren Senior Zero Lactose: o que saber antes de comprar",
     "metaDescription": "Nutren Senior Zero Lactose: veja a ficha da lata de 740 g, o preparo de 180 ml e as diferenças entre as versões sem sabor e baunilha.",
     "publishedAt": "17 de agosto de 2026",
     "publishedAtISO": "2026-08-17",
@@ -37296,7 +37297,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 245,
     "slug": "assinatura-dolce-gusto-como-funciona",
-    "title": "Assinatura Dolce Gusto (NDG): como funciona e vale a pena?",
+    "title": "Assinatura NESCAFÉ Dolce Gusto: como funciona e vale a pena?",
     "type": "Guia",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -37308,6 +37309,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Guia prático e independente da Assinatura NESCAFÉ Dolce Gusto: como funciona o desconto de 25%, frete grátis, bônus no Club, frequências de entrega e cancelamento sem taxa.",
+    "seoTitle": "Assinatura NESCAFÉ Dolce Gusto: como funciona e vale a pena?",
     "metaDescription": "Assinatura Dolce Gusto: veja como funciona, 25% OFF, frete grátis conforme regulamento, bônus no Club, frequências de entrega e cancelamento sem taxa.",
     "publishedAt": "3 de agosto de 2026",
     "publishedAtISO": "2026-08-03",
@@ -38040,13 +38042,13 @@ export const reviewsData: unknown[] = [
   {
     "id": 249,
     "slug": "sofa-na-caixa-crise-reclamacoes-procon-sp",
-    "title": "O que Aconteceu com a Sofá na Caixa? Reclamações, Procon-SP e Reputação Atual",
+    "title": "O que aconteceu com a Sofá na Caixa?",
     "type": "Investigação",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
     "draft": false,
     "description": "Entenda o histórico de reclamações da Sofá na Caixa, a fiscalização do Procon-SP e a reputação atualizada da marca no Reclame Aqui.",
-    "seoTitle": "O que Aconteceu com a Sofá na Caixa? Reclamações, Procon-SP e Reputação Atual",
+    "seoTitle": "O que aconteceu com a Sofá na Caixa?",
     "metaDescription": "Sofá na Caixa: veja o histórico de reclamações, a checagem no Procon-SP (fora da lista 'Evite Estes Sites') e a nota atual 6.0/10 no Reclame Aqui.",
     "publishedAt": "10 de agosto de 2026",
     "publishedAtISO": "2026-08-10",
@@ -39354,7 +39356,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 260,
     "slug": "melatonina-liquida-iws-ficha-tecnica",
-    "title": "Melatonina Líquida IWS: para que serve, ficha técnica, dose e regras da Anvisa",
+    "title": "Melatonina Líquida IWS: o que saber antes de comprar",
     "type": "Guia",
     "category": "guias-praticos-utilidade",
     "reviewKind": "editorial",
@@ -39366,7 +39368,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Dificuldade para dormir? Entenda o que é a melatonina, para que serve a suplementação e confira a ficha técnica completa da Melatonina Líquida IWS (30ml, sabor maracujá), dose por gota e regras da Anvisa.",
-    "seoTitle": "Melatonina Líquida IWS: Para que Serve, Dose e Ficha Técnica",
+    "seoTitle": "Melatonina Líquida IWS: o que saber antes de comprar",
     "metaDescription": "Dificuldade para dormir? Entenda o que é melatonina, como funciona a versão líquida da I Wanna Sleep (sabor maracujá), dose por gota e regras da Anvisa.",
     "publishedAt": "20 de agosto de 2026",
     "publishedAtISO": "2026-08-20",
