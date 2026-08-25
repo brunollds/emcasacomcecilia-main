@@ -16,6 +16,7 @@ export interface ReviewHeroImageProps {
   hasProductRating?: boolean;
   rating?: number;
   objectContain?: boolean;
+  compact?: boolean;
   slug?: string;
   video?: {
     mp4: string;
@@ -48,6 +49,7 @@ export function ReviewHeroImage({
   hasProductRating = false,
   rating,
   objectContain = false,
+  compact = false,
   slug,
   video,
 }: ReviewHeroImageProps): React.ReactElement {
@@ -122,7 +124,9 @@ export function ReviewHeroImage({
             ? 'mx-auto max-w-[500px]'
             : effectiveObjectContain
               ? 'mx-auto max-w-[420px] md:max-w-[480px]'
-              : ''
+              : mediaLandscape && compact
+                ? 'mx-auto max-w-4xl'
+                : ''
       }`}
       style={slug ? { viewTransitionName: `review-hero-${sanitizeViewTransitionName(slug)}` } : undefined}
     >

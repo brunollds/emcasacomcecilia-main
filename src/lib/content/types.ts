@@ -333,6 +333,7 @@ export interface Review {
   image?: string;
   imageAlt?: string;
   imageAspect?: 'landscape' | 'portrait' | 'square';
+  heroCompact?: boolean;
   video?: {
     mp4: string;
     webm?: string;

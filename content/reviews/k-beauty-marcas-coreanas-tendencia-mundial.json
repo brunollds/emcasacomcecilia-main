@@ -36,7 +36,11 @@
         "En términos de ingredientes, el K-Beauty es conocido por explorar activos que no siempre son comunes en otras partes: centella asiática (calmante, asociada a pieles sensibles), niacinamida (usada para controlar oleosidad y uniformizar el tono), mucina de caracol o snail mucin (hidratante, uno de los ingredientes más asociados a la categoría, aunque también es controvertido para quienes prefieren fórmulas veganas), PDRN (un activo más reciente, vinculado a rutinas de renovación de la piel), própolis e ingredientes fermentados, que la industria coreana popularizó como forma de hacer las fórmulas más suaves para la piel. El K-Beauty también popularizó formatos como el cushion compact (una esponja embebida en base o BB cream dentro de un estuche con espejo), las mascarillas de tela con suero concentrado, y las ampollas serológicas.",
         "Un término muy asociado a esta categoría es \"glass skin\" — la idea de una piel tan uniforme, hidratada y con tanto brillo saludable que parece vidrio. Es un ideal estético, no una promesa literal, pero resume bien lo que buena parte de las rutinas de K-Beauty persigue: una piel con barrera cutánea saludable, textura uniforme y ese brillo que normalmente asociamos a una piel bien cuidada."
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
+      "imageAlt": "Visitantes y vendedores en la K-Beauty Expo Korea, una feria con cientos de marcas coreanas de skincare",
+      "imageCaption": "El tamaño del mercado detrás de la tendencia: ferias como la K-Beauty Expo Korea reúnen cientos de marcas cada año.",
+      "imageFit": "cover"
     },
     {
       "heading": "Por Qué el K-Beauty Se Convirtió en una Tendencia Mundial",
@@ -48,14 +52,6 @@
         "Al final, la narrativa es simple de entender y por eso se propagó tan rápido: existe una industria completa, al otro lado del mundo, obsesionada con la innovación en cuidados de la piel — y hoy es posible tener acceso a todo esto en línea."
       ],
       "bullets": []
-    },
-    {
-      "paragraphs": [],
-      "bullets": [],
-      "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
-      "imageAlt": "Visitantes y vendedores en la K-Beauty Expo Korea, una feria con cientos de marcas coreanas de skincare",
-      "imageCaption": "El tamaño del mercado detrás de la tendencia: ferias como la K-Beauty Expo Korea reúnen cientos de marcas cada año.",
-      "imageFit": "cover"
     },
     {
       "paragraphs": [],
@@ -77,6 +73,13 @@
     },
     {
       "heading": "Dónde Entra YesStyle en Todo Esto",
+      "paragraphs": [],
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-logo-purple.webp",
+      "imageAlt": "Logotipo de YesStyle",
+      "imageFit": "wide"
+    },
+    {
       "paragraphs": [
         "Es aquí donde plataformas como YesStyle resuelven el problema.",
         "YesStyle funciona como un marketplace centralizado: en lugar de ir de marca en marca, compras varias marcas coreanas — y también japonesas y de otras partes de Asia — en un carrito único, con un envío y un plazo de entrega únicos. La empresa declara en su información corporativa ser distribuidora autorizada de más de 400 marcas de belleza coreana, entre ellas nombres como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree — una muestra del tipo de marca disponible, no una lista cerrada, ya que el catálogo cambia con el tiempo.",
@@ -137,5 +140,6 @@
       "title": "Cómo Encontrar Cupones YesStyle Válidos y Usar con el Código CECILIA010"
     }
   ],
-  "imageAspect": "landscape"
+  "imageAspect": "landscape",
+  "heroCompact": true
 }

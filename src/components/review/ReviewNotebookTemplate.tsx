@@ -438,6 +438,7 @@ export function ReviewNotebookTemplate({
                 imageFit={review.imageFit}
                 hasProductRating={hasProductRating}
                 objectContain={kind === 'editorial'}
+                compact={Boolean(review.heroCompact)}
                 rating={typeof review.rating === 'number' ? review.rating : undefined}
                 slug={review.slug}
                 video={review.video}

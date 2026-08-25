@@ -36,7 +36,11 @@
         "談到成分時，K-Beauty 以運用在其他地區並不常見的活性成分著稱：積雪草（舒緩成分，常與敏感肌膚相關）、菸鹼醯胺（用於控制油脂和均勻膚色）、蝸牛黏液（保濕成分，也是最常被與 K-Beauty 關聯的成分之一，儘管對偏好純素配方的人來說也最具爭議性）、PDRN（一種相對較新的活性成分，與肌膚更新療程相關）、蜂膠和發酵成分（韓國美妝產業用這些來普及更溫和的配方）。K-Beauty 也普及了許多新型產品格式：氣墊粉餅（內含濃縮精華液的絨墊，裝在附鏡子的盒內）、面膜片（浸有濃縮精華液的面膜紙）和安瓶精華（高濃度的小容量精華液）。",
         "與 K-Beauty 密切相關的一個詞彙是「玻璃肌」(glass skin)──一種肌膚如此均勻、飽滿保濕且擁有健康光澤，看起來彷彿玻璃一樣反光的理想狀態。這是一種美學理想，而非字面上的承諾，但它恰當地總結了許多 K-Beauty 療程所追求的目標：健康的肌膚屏障、均勻的膚質，以及那種我們通常會在充分照護的肌膚上看到的健康光澤。"
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
+      "imageAlt": "K-Beauty Expo Korea 展覽會現場，眾多美妝攤位密集排列",
+      "imageCaption": "龐大市場的規模：K-Beauty Expo Korea 等展覽每年吸引數百個品牌參展。",
+      "imageFit": "cover"
     },
     {
       "heading": "K-Beauty 為何成為全球潮流",
@@ -48,14 +52,6 @@
         "說到底，敘事簡潔易懂，正因如此才能如此迅速傳播：世界的另一端有一整個產業沉迷於護膚創新──如今，任何人都可以在線上取得這些產品。"
       ],
       "bullets": []
-    },
-    {
-      "paragraphs": [],
-      "bullets": [],
-      "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
-      "imageAlt": "K-Beauty Expo Korea 展覽會現場，眾多美妝攤位密集排列",
-      "imageCaption": "龐大市場的規模：K-Beauty Expo Korea 等展覽每年吸引數百個品牌參展。",
-      "imageFit": "cover"
     },
     {
       "paragraphs": [],
@@ -77,6 +73,13 @@
     },
     {
       "heading": "YesStyle 在其中扮演的角色",
+      "paragraphs": [],
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-logo-purple.webp",
+      "imageAlt": "YesStyle 標誌",
+      "imageFit": "wide"
+    },
+    {
       "paragraphs": [
         "這正是像 YesStyle 這樣的平臺發揮作用的地方。",
         "YesStyle 是一個中央市場：與其逐個品牌購物，你可以在一個購物車中購買多個韓國品牌──以及日本和亞洲其他地區的品牌──享有單一的運費和單一的交貨時間。該公司在其企業資訊中聲稱是超過 400 個韓國美妝品牌的授權經銷商，包括 COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige 和 Isntree 等知名品牌──這只是可用品牌類型的樣本，不是完整清單，因為商品目錄會隨時間變化。",
@@ -137,5 +140,6 @@
       "title": "如何找到有效的 YesStyle 優惠碼並與 CECILIA010 疊加使用"
     }
   ],
-  "imageAspect": "landscape"
+  "imageAspect": "landscape",
+  "heroCompact": true
 }

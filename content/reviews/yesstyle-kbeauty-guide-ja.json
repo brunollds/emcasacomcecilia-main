@@ -36,7 +36,11 @@
         "K-Beautyが使う成分も、他の地域では一般的ではないものが多くあります。ツボクサ（敏感肌に適した鎮静成分）、ナイアシンアミド（皮脂バランスとトーンの均一化に使用）、スネイルムチン（カタツムリ分泌物。保湿力が高く、K-Beautyの代表成分ですが、ビーガンフォーミュラを好む人には物議があります）、PDRN（肌の再生を促すより新しい成分）、プロポリス、発酵成分（韓国メーカーが肌への優しさをウリに普及させた）などが特に有名です。K-Beautyはまた、クッションコンパクト（ケースに浸み込ませたBBクリームやクッションファンデ）、シートマスク（セラムに浸した布製マスク）、セロゲル状のアンプール（濃厚な美容液）といったフォーマットも世界に広めました。",
         "このカテゴリーと切り離せない概念が「グラススキン」です。これは、肌が完全に均一で、潤いに満ち、ガラスのような輝きを放っている状態を指します。これは製品の謳う効果というより、スキンケアの美的理想を表現した言葉です。実は、多くのK-Beautyルーティンが目指しているのは、まさにこの理想——健康的なバリア機能、滑らかなテクスチャ、そして本当によくケアされた肌特有の自然な輝き——なのです。"
       ],
-      "bullets": []
+      "bullets": [],
+      "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
+      "imageAlt": "K-Beauty Expo Koreaの会場で、多数の韓国美容ブランドのブースが密集している展示風景",
+      "imageCaption": "トレンドの背景にある市場規模：K-Beauty Expo Koreaのような見本市には、毎年何百ものブランドが出展しています。",
+      "imageFit": "cover"
     },
     {
       "heading": "K-Beautyが世界的なトレンドになった理由",
@@ -48,14 +52,6 @@
         "結局のところ、ストーリーはシンプルです。世界の反対側に、スキンケアのイノベーションに執着した産業全体がある。そして今、それにオンラインでアクセスできる。このシンプルさが、これほどまでに急速に広がった理由なのです。"
       ],
       "bullets": []
-    },
-    {
-      "paragraphs": [],
-      "bullets": [],
-      "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
-      "imageAlt": "K-Beauty Expo Koreaの会場で、多数の韓国美容ブランドのブースが密集している展示風景",
-      "imageCaption": "トレンドの背景にある市場規模：K-Beauty Expo Koreaのような見本市には、毎年何百ものブランドが出展しています。",
-      "imageFit": "cover"
     },
     {
       "paragraphs": [],
@@ -77,6 +73,13 @@
     },
     {
       "heading": "YesStyleがこうした課題を解決する理由",
+      "paragraphs": [],
+      "bullets": [],
+      "image": "/images/reviews/cupons/yesstyle-logo-purple.webp",
+      "imageAlt": "YesStyleのロゴ",
+      "imageFit": "wide"
+    },
+    {
       "paragraphs": [
         "こうした問題を解決するプラットフォームが、YesStyleのようなサービスです。",
         "YesStyleはマーケットプレイスとして機能します。ブランドからブランドへと回る代わりに、韓国コスメ、そして日本やアジア各地のブランドを一つのカートで複数購入でき、送料と配送期日は1回です。YesStyleは企業情報において、400以上の韓国美容ブランドの正規販売代理店であることを明かしており、COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige、Isntreeといったブランド名が代表例として挙げられます（カタログは時間とともに変わるため、これはあくまで見本です）。",
@@ -137,5 +140,6 @@
       "title": "有効なYesStyleクーポンコードの見つけ方とCECILIA010の併用方法"
     }
   ],
-  "imageAspect": "landscape"
+  "imageAspect": "landscape",
+  "heroCompact": true
 }
