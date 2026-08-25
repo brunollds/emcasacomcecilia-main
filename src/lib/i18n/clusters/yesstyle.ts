@@ -15,7 +15,7 @@ import {
   type ClusterLocaleConfig,
 } from './types';
 
-export type YesStyleArticleKey = 'reward' | 'guide' | 'trust';
+export type YesStyleArticleKey = 'reward' | 'guide' | 'trust' | 'kbeauty';
 
 const yesStyleCluster = {
   id: 'yesstyle',
@@ -26,6 +26,7 @@ const yesStyleCluster = {
         { key: 'reward', slug: 'codigo-cecilia010-yesstyle-como-usar', path: '/reviews/codigo-cecilia010-yesstyle-como-usar' },
         { key: 'guide', slug: 'como-encontrar-cupons-yesstyle-validos', path: '/reviews/como-encontrar-cupons-yesstyle-validos' },
         { key: 'trust', slug: 'yesstyle-e-confiavel', path: '/reviews/yesstyle-e-confiavel' },
+        { key: 'kbeauty', slug: 'k-beauty-o-que-e-onde-comprar', path: '/reviews/k-beauty-o-que-e-onde-comprar' },
       ],
     },
     en: {
@@ -34,6 +35,7 @@ const yesStyleCluster = {
         { key: 'reward', slug: 'yesstyle-reward-code-coupon-cecilia010', path: '/reviews/yesstyle-reward-code-coupon-cecilia010' },
         { key: 'guide', slug: 'how-to-find-valid-yesstyle-coupon-codes', path: '/reviews/how-to-find-valid-yesstyle-coupon-codes' },
         { key: 'trust', slug: 'is-yesstyle-legit-and-safe-review', path: '/reviews/is-yesstyle-legit-and-safe-review' },
+        { key: 'kbeauty', slug: 'k-beauty-trend-explained-where-to-buy', path: '/reviews/k-beauty-trend-explained-where-to-buy' },
       ],
     },
     es: {
@@ -42,6 +44,7 @@ const yesStyleCluster = {
         { key: 'reward', slug: 'codigo-de-recompensa-yesstyle-cupon-cecilia010', path: '/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010' },
         { key: 'guide', slug: 'como-encontrar-cupones-yesstyle-validos', path: '/reviews/como-encontrar-cupones-yesstyle-validos' },
         { key: 'trust', slug: 'es-yesstyle-de-fiar-y-seguro', path: '/reviews/es-yesstyle-de-fiar-y-seguro' },
+        { key: 'kbeauty', slug: 'k-beauty-marcas-coreanas-tendencia-mundial', path: '/reviews/k-beauty-marcas-coreanas-tendencia-mundial' },
       ],
     },
     fr: {
@@ -50,6 +53,7 @@ const yesStyleCluster = {
         { key: 'reward', slug: 'code-recompense-yesstyle-cecilia010', path: '/reviews/code-recompense-yesstyle-cecilia010' },
         { key: 'guide', slug: 'comment-trouver-des-codes-promo-yesstyle-valides', path: '/reviews/comment-trouver-des-codes-promo-yesstyle-valides' },
         { key: 'trust', slug: 'yesstyle-est-il-fiable-et-sur', path: '/reviews/yesstyle-est-il-fiable-et-sur' },
+        { key: 'kbeauty', slug: 'k-beauty-tendance-beaute-coreenne', path: '/reviews/k-beauty-tendance-beaute-coreenne' },
       ],
     },
     de: {
@@ -58,6 +62,7 @@ const yesStyleCluster = {
         { key: 'reward', slug: 'yesstyle-reward-code-rabatt-cecilia010', path: '/reviews/yesstyle-reward-code-rabatt-cecilia010' },
         { key: 'guide', slug: 'gueltige-yesstyle-gutscheincodes-finden', path: '/reviews/gueltige-yesstyle-gutscheincodes-finden' },
         { key: 'trust', slug: 'ist-yesstyle-serioes-und-sicher', path: '/reviews/ist-yesstyle-serioes-und-sicher' },
+        { key: 'kbeauty', slug: 'k-beauty-trend-koreanische-marken-kaufen', path: '/reviews/k-beauty-trend-koreanische-marken-kaufen' },
       ],
     },
     ko: {
@@ -66,6 +71,7 @@ const yesStyleCluster = {
         { key: 'reward', slug: 'yesstyle-reward-code-cecilia010-ko', path: '/reviews/yesstyle-reward-code-cecilia010-ko' },
         { key: 'guide', slug: 'yesstyle-valid-coupon-guide-ko', path: '/reviews/yesstyle-valid-coupon-guide-ko' },
         { key: 'trust', slug: 'yesstyle-trust-guide-ko', path: '/reviews/yesstyle-trust-guide-ko' },
+        { key: 'kbeauty', slug: 'yesstyle-kbeauty-guide-ko', path: '/reviews/yesstyle-kbeauty-guide-ko' },
       ],
     },
     ja: {
@@ -74,6 +80,7 @@ const yesStyleCluster = {
         { key: 'reward', slug: 'yesstyle-reward-code-cecilia010-ja', path: '/reviews/yesstyle-reward-code-cecilia010-ja' },
         { key: 'guide', slug: 'yesstyle-valid-coupon-guide-ja', path: '/reviews/yesstyle-valid-coupon-guide-ja' },
         { key: 'trust', slug: 'yesstyle-trust-guide-ja', path: '/reviews/yesstyle-trust-guide-ja' },
+        { key: 'kbeauty', slug: 'yesstyle-kbeauty-guide-ja', path: '/reviews/yesstyle-kbeauty-guide-ja' },
       ],
     },
     'zh-hant': {
@@ -82,6 +89,7 @@ const yesStyleCluster = {
         { key: 'reward', slug: 'yesstyle-reward-code-cecilia010-zh-hant', path: '/reviews/yesstyle-reward-code-cecilia010-zh-hant' },
         { key: 'guide', slug: 'yesstyle-valid-coupon-guide-zh-hant', path: '/reviews/yesstyle-valid-coupon-guide-zh-hant' },
         { key: 'trust', slug: 'yesstyle-trust-guide-zh-hant', path: '/reviews/yesstyle-trust-guide-zh-hant' },
+        { key: 'kbeauty', slug: 'yesstyle-kbeauty-guide-zh-hant', path: '/reviews/yesstyle-kbeauty-guide-zh-hant' },
       ],
     },
     'zh-hans': {
@@ -90,6 +98,7 @@ const yesStyleCluster = {
         { key: 'reward', slug: 'yesstyle-reward-code-cecilia010-zh-hans', path: '/reviews/yesstyle-reward-code-cecilia010-zh-hans' },
         { key: 'guide', slug: 'yesstyle-valid-coupon-guide-zh-hans', path: '/reviews/yesstyle-valid-coupon-guide-zh-hans' },
         { key: 'trust', slug: 'yesstyle-trust-guide-zh-hans', path: '/reviews/yesstyle-trust-guide-zh-hans' },
+        { key: 'kbeauty', slug: 'yesstyle-kbeauty-guide-zh-hans', path: '/reviews/yesstyle-kbeauty-guide-zh-hans' },
       ],
     },
   },
@@ -166,6 +175,10 @@ export function getGuideArticleLanguageLinks(): Record<Locale, string> {
 
 export function getTrustArticleLanguageLinks(): Record<Locale, string> {
   return getYesStyleArticleLanguageLinks('trust');
+}
+
+export function getKBeautyArticleLanguageLinks(): Record<Locale, string> {
+  return getYesStyleArticleLanguageLinks('kbeauty');
 }
 
 export function getHubLanguageLinks(): Record<Locale, string> {

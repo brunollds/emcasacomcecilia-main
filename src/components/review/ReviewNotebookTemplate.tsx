@@ -19,6 +19,7 @@ import { getCouponCopyLocale, isStepHeading, type CouponCopyLocale } from './cou
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 import {
   getGuideArticleLanguageLinks,
+  getKBeautyArticleLanguageLinks,
   getRewardArticleLanguageLinks,
   getTrustArticleLanguageLinks,
   getYesStyleLocaleConfig,
@@ -383,6 +384,13 @@ export function ReviewNotebookTemplate({
               <LanguageSwitcher
                 currentLocale={couponCopyLocale}
                 links={getTrustArticleLanguageLinks()}
+              />
+            )}
+
+            {isYesStyleArticle(review.slug, 'kbeauty') && (
+              <LanguageSwitcher
+                currentLocale={couponCopyLocale}
+                links={getKBeautyArticleLanguageLinks()}
               />
             )}
 

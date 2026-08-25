@@ -55,9 +55,17 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
     (config) => `https://emcasacomcecilia.com${config.hubPath}`
   );
 
+  // Contagem esperada é derivada do próprio registro (não hardcoded), pois o
+  // número de tipos de artigo por locale pode crescer (ex.: onboarding da
+  // Shein ou de um 4º tipo de artigo como o kbeauty).
+  const articleKeysPerLocale = Object.values(YESSTYLE_LOCALES).map((c) => c.articles.length);
+  const expectedArticleCount = articleKeysPerLocale.reduce((a, b) => a + b, 0);
+  const expectedHubCount = Object.keys(YESSTYLE_LOCALES).length;
+  const expectedGrandTotal = expectedArticleCount + expectedHubCount;
+
   const expectedTotalUrls = new Set([...expectedArticleUrls, ...expectedHubUrls]);
-  if (expectedTotalUrls.size !== 36) {
-    errors.push(`Regra interna de teste: conjunto estrito de URLs calculou ${expectedTotalUrls.size} em vez de 36`);
+  if (expectedTotalUrls.size !== expectedGrandTotal) {
+    errors.push(`Regra interna de teste: conjunto estrito de URLs calculou ${expectedTotalUrls.size} em vez de ${expectedGrandTotal}`);
   }
 
   const allSitemapEntries = sitemap();
@@ -76,8 +84,8 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
     errors.push('Sitemap viola baseline: rota duplicada indevida "/pt/coupons/yesstyle" presente!');
   }
 
-  if (yesstyleSitemapUrls.length !== 36) {
-    errors.push(`Sitemap B2 esperado exatamente 36 URLs YesStyle, obteve ${yesstyleSitemapUrls.length}`);
+  if (yesstyleSitemapUrls.length !== expectedGrandTotal) {
+    errors.push(`Sitemap B2 esperado exatamente ${expectedGrandTotal} URLs YesStyle, obteve ${yesstyleSitemapUrls.length}`);
   }
 
   for (const expectedUrl of expectedTotalUrls) {
@@ -306,7 +314,7 @@ if (require.main === module) {
     console.log('   - Datas iniciais validadas dinamicamente via getLatestYesStyleVerifiedAtISO()!');
     console.log('   - Canonicals auto-referenciados nos 9 hubs confirmados!');
     console.log('   - Hreflangs: 10 chaves validadas por igualdade total em TODOS os 9 locales!');
-    console.log('   - Sitemap: exatamente 27 URLs de YESSTYLE_LOCALES (sem heurísticas de slugs)!');
+    console.log('   - Sitemap: exatamente as URLs de YESSTYLE_LOCALES, contadas dinamicamente (sem heurísticas de slugs)!');
     console.log('   - Breadcrumbs: 3 níveis em PT e 2 níveis nos hubs internacionais sem vazamento para /cupons!');
     process.exit(0);
   } else {

@@ -422,6 +422,7 @@ import {
   getYesStyleLocaleFromSlugOrPath,
   findYesStyleLocaleFromSlugOrPath,
   isYesStyleArticle,
+  type YesStyleArticleKey,
 } from '@/lib/i18n/clusters/yesstyle';
 import { LOCALE_KEYS } from '@/lib/i18n/locales';
 import { YESSTYLE_COUPONS_FACTUAL } from '@/lib/yesstyleCoupons';
@@ -498,62 +499,54 @@ for (const coupon of YESSTYLE_COUPONS_FACTUAL) {
   }
 }
 
-// 3. Validação de paridade e isolamento dos 27 artigos nos 3 clusters
-const rewardLocalesFound = new Set<string>();
-const guideLocalesFound = new Set<string>();
-const trustLocalesFound = new Set<string>();
-
-for (const review of reviews) {
-  const isReward = isYesStyleArticle(review.slug, 'reward');
-  const isGuide = isYesStyleArticle(review.slug, 'guide');
-  const isTrust = isYesStyleArticle(review.slug, 'trust');
-
-  if (isReward || isGuide || isTrust) {
-    if (!review.locale) {
-      reportError({ type: 'review', id: review.id, slug: review.slug, message: 'Artigo YesStyle sem campo "locale" explícito no JSON' });
-    } else {
-      const expectedLocale = findYesStyleLocaleFromSlugOrPath(review.slug);
-      if (review.locale !== expectedLocale) {
-        reportError({ type: 'review', id: review.id, slug: review.slug, message: `Campo "locale" ("${review.locale}") não coincide com o registro central ("${expectedLocale}")` });
-      }
-      if (review.locale !== 'pt' && review.hideFromPortugueseListings !== true) {
-        reportError({ type: 'review', id: review.id, slug: review.slug, message: `Artigo internacional YesStyle (${review.locale}) deve conter "hideFromPortugueseListings: true"` });
-      }
-    }
-
-    if (isReward) {
-      if (rewardLocalesFound.has(review.locale || '')) {
-        reportError({ type: 'review', id: review.id, slug: review.slug, message: `Locale "${review.locale}" duplicado no cluster de Reward Code` });
-      }
-      if (review.locale) rewardLocalesFound.add(review.locale);
-    }
-
-    if (isGuide) {
-      if (guideLocalesFound.has(review.locale || '')) {
-        reportError({ type: 'review', id: review.id, slug: review.slug, message: `Locale "${review.locale}" duplicado no cluster de Guia` });
-      }
-      if (review.locale) guideLocalesFound.add(review.locale);
-    }
-
-    if (isTrust) {
-      if (trustLocalesFound.has(review.locale || '')) {
-        reportError({ type: 'review', id: review.id, slug: review.slug, message: `Locale "${review.locale}" duplicado no cluster de Confiança` });
-      }
-      if (review.locale) trustLocalesFound.add(review.locale);
-    }
+// 3. Validação de paridade e isolamento dos artigos em cada tipo do cluster
+// (genérico: descobre os tipos de artigo diretamente do registro central,
+// em vez de assumir um número fixo de "slots" — o mesmo padrão que permitiu
+// o onboarding da Shein sem quebrar o cluster da YesStyle deve valer aqui.)
+const articleKeysInRegistry = new Set<string>();
+for (const config of Object.values(YESSTYLE_LOCALES)) {
+  for (const article of config.articles) {
+    articleKeysInRegistry.add(article.key);
   }
 }
 
-if (rewardLocalesFound.size !== LOCALE_KEYS.length) {
-  reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: `Cluster de Reward Code possui ${rewardLocalesFound.size} de ${LOCALE_KEYS.length} idiomas` });
+const localesFoundByKey = new Map<string, Set<string>>();
+for (const key of articleKeysInRegistry) {
+  localesFoundByKey.set(key, new Set());
 }
 
-if (guideLocalesFound.size !== LOCALE_KEYS.length) {
-  reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: `Cluster de Guia possui ${guideLocalesFound.size} de ${LOCALE_KEYS.length} idiomas` });
+for (const review of reviews) {
+  const matchedKeys = [...articleKeysInRegistry].filter((key) =>
+    isYesStyleArticle(review.slug, key as YesStyleArticleKey)
+  );
+
+  if (matchedKeys.length === 0) continue;
+
+  if (!review.locale) {
+    reportError({ type: 'review', id: review.id, slug: review.slug, message: 'Artigo YesStyle sem campo "locale" explícito no JSON' });
+  } else {
+    const expectedLocale = findYesStyleLocaleFromSlugOrPath(review.slug);
+    if (review.locale !== expectedLocale) {
+      reportError({ type: 'review', id: review.id, slug: review.slug, message: `Campo "locale" ("${review.locale}") não coincide com o registro central ("${expectedLocale}")` });
+    }
+    if (review.locale !== 'pt' && review.hideFromPortugueseListings !== true) {
+      reportError({ type: 'review', id: review.id, slug: review.slug, message: `Artigo internacional YesStyle (${review.locale}) deve conter "hideFromPortugueseListings: true"` });
+    }
+  }
+
+  for (const key of matchedKeys) {
+    const foundSet = localesFoundByKey.get(key)!;
+    if (foundSet.has(review.locale || '')) {
+      reportError({ type: 'review', id: review.id, slug: review.slug, message: `Locale "${review.locale}" duplicado no cluster de tipo "${key}"` });
+    }
+    if (review.locale) foundSet.add(review.locale);
+  }
 }
 
-if (trustLocalesFound.size !== LOCALE_KEYS.length) {
-  reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: `Cluster de Confiança possui ${trustLocalesFound.size} de ${LOCALE_KEYS.length} idiomas` });
+for (const [key, foundSet] of localesFoundByKey) {
+  if (foundSet.size !== LOCALE_KEYS.length) {
+    reportError({ type: 'review', id: -1, slug: '__yesstyle_cluster__', message: `Cluster de tipo "${key}" possui ${foundSet.size} de ${LOCALE_KEYS.length} idiomas` });
+  }
 }
 
 // 4. Validação do resolvedor estrito fail-loud
