@@ -84,3 +84,8 @@ scripts/content/artifacts/
 tmp/
 
 release-meta.json
+
+# Obsidian local workspace & cache (seletivo)
+docs/Memoria de Artigos/memreview/.obsidian/workspace.json
+docs/Memoria de Artigos/memreview/.obsidian/workspace-mobile.json
+docs/Memoria de Artigos/memreview/.obsidian/graph.json

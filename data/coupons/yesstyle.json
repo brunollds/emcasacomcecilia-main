@@ -33,6 +33,31 @@
       "Válido de 21/08/2026 a 24/08/2026 às 23:59 GMT para membros YesStyle e produtos elegíveis.",
       "Use no campo Coupon Code; pode ser combinado com CECILIA010 no campo Reward Code e com YS Points."
     ],
+    "status": "expired",
+    "regions": ["GLOBAL"]
+  },
+  {
+    "id": "last26-promo",
+    "code": "LAST26",
+    "type": "coupon",
+    "discount": {
+      "kind": "text",
+      "label": "8–15% OFF"
+    },
+    "startsAt": "2026-08-25",
+    "expiresAt": "2026-08-27",
+    "verifiedAt": "2026-08-24",
+    "officialSourceUrl": "https://www.yesstyle.com/en/last-call-back-to-school-beauty-edition-up-to-extra-15-off-with-coupon/help/section.html/hsi.2857",
+    "affiliateUrl": "https://ystyle.co/rQYQv",
+    "eligibility": [
+      "8% OFF em pedidos a partir de US$ 79",
+      "10% OFF em pedidos a partir de US$ 149",
+      "15% OFF em pedidos a partir de US$ 199"
+    ],
+    "restrictions": [
+      "Válido de 25/08/2026 a 27/08/2026 às 23:59 GMT para membros YesStyle e produtos elegíveis.",
+      "Use no campo Coupon Code; pode ser combinado com CECILIA010 no campo Reward Code e com YS Points."
+    ],
     "status": "active",
     "regions": ["GLOBAL"]
   }

@@ -3,8 +3,26 @@
 import Image from 'next/image';
 import { createPortal } from 'react-dom';
 import { useState, useCallback, useEffect, useRef } from 'react';
-import { Maximize2, X } from 'lucide-react';
+import { Maximize2, X, ChevronLeft, ChevronRight } from 'lucide-react';
 import { useReviewMediaBlur } from '@/components/review/useReviewMediaBlur';
+
+function useInlineCarouselScroll() {
+  const trackRef = useRef(null);
+  const gapRef = useRef(null);
+
+  const scrollByCard = useCallback((direction) => {
+    const track = trackRef.current;
+    if (!track) return;
+    const firstCard = track.querySelector('[data-inline-card]');
+    if (gapRef.current === null) {
+      gapRef.current = parseInt(getComputedStyle(track).gap || '16', 10);
+    }
+    const cardWidth = firstCard?.offsetWidth || 280;
+    track.scrollBy({ left: direction * (cardWidth + gapRef.current), behavior: 'smooth' });
+  }, []);
+
+  return { trackRef, scrollByCard };
+}
 
 function normalizeImages(section, reviewTitle) {
   const images = [];
@@ -35,7 +53,7 @@ function normalizeImages(section, reviewTitle) {
   return images;
 }
 
-function InlineImageThumbnail({ image, index, onOpen, sizes }) {
+function InlineImageThumbnail({ image, index, onOpen, sizes, normalizeCarousel = false }) {
   const [pendingReveal, setPendingReveal] = useState(true);
   const isPortrait = image.fit === 'portrait';
   const isContain = image.fit === 'contain';
@@ -116,14 +134,14 @@ function InlineImageThumbnail({ image, index, onOpen, sizes }) {
       >
         <div
           className={`relative w-full ${
-            isPortrait ? 'aspect-[9/16] max-w-md mx-auto bg-slate-900/5' : isPanoramic ? 'aspect-[6/1]' : isWide ? 'aspect-[4/1]' : isSquare ? 'aspect-square' : 'aspect-video'
+            normalizeCarousel ? 'aspect-square bg-slate-900/5' : isPortrait ? 'aspect-[9/16] max-w-md mx-auto bg-slate-900/5' : isPanoramic ? 'aspect-[6/1]' : isWide ? 'aspect-[4/1]' : isSquare ? 'aspect-square' : 'aspect-video'
           }`}
         >
           <Image
             src={image.src}
             alt={image.alt}
             fill
-            className={isPortrait ? 'object-contain p-1.5' : isSquare ? 'object-cover' : (isContain || isWide || isPanoramic) ? 'object-contain' : 'object-cover'}
+            className={normalizeCarousel ? 'object-contain p-1.5' : isPortrait ? 'object-contain p-1.5' : isSquare ? 'object-cover' : (isContain || isWide || isPanoramic) ? 'object-contain' : 'object-cover'}
             sizes={sizes}
           />
         </div>
@@ -292,6 +310,7 @@ export default function ReviewInlineImage({ section, reviewTitle }) {
   const images = normalizeImages(section, reviewTitle);
   const [openIndex, setOpenIndex] = useState(null);
   const lastTriggerRef = useRef(null);
+  const { trackRef, scrollByCard } = useInlineCarouselScroll();
 
   const handleOpen = useCallback((index, trigger) => {
     lastTriggerRef.current = trigger;
@@ -314,12 +333,13 @@ export default function ReviewInlineImage({ section, reviewTitle }) {
   if (images.length === 0) return null;
 
   const isMulti = images.length > 1;
+  const normalizeMixedCarousel = isMulti && new Set(images.map((image) => image.fit)).size > 1;
   const isSinglePortrait = images.length === 1 && images[0].fit === 'portrait';
   const isSingleSquare = images.length === 1 && images[0].fit === 'square';
   const isSingleContain = images.length === 1 && images[0].fit === 'contain';
   const isSingleWide = images.length === 1 && images[0].fit === 'wide';
   const thumbnailSizes = isMulti
-    ? '(max-width: 640px) calc(100vw - 2rem), (max-width: 1024px) calc((100vw - 4rem) / 2), 336px'
+    ? '(max-width: 640px) 78vw, 320px'
     : isSingleSquare
       ? '(max-width: 768px) min(calc(100vw - 2rem), 448px), 512px'
       : isSinglePortrait
@@ -328,17 +348,66 @@ export default function ReviewInlineImage({ section, reviewTitle }) {
 
   return (
     <>
-      <div className={`mt-6 grid w-full gap-4 ${isMulti ? 'grid-cols-1 sm:grid-cols-2' : 'grid-cols-1'} ${isSinglePortrait ? 'mx-auto max-w-[320px]' : isSingleSquare ? 'mx-auto max-w-md md:max-w-lg' : isSingleWide ? 'mx-auto max-w-3xl' : isSingleContain ? 'mx-auto max-w-2xl' : ''}`}>
-        {images.map((image, index) => (
-          <InlineImageThumbnail
-            key={`${image.src}-${index}`}
-            image={image}
-            index={index}
-            onOpen={handleOpen}
-            sizes={thumbnailSizes}
-          />
-        ))}
-      </div>
+      {isMulti ? (
+        <div className="relative mt-6">
+          <div className="pointer-events-none absolute inset-y-0 left-0 z-[1] hidden w-10 bg-gradient-to-r from-white to-transparent sm:block" />
+          <div className="pointer-events-none absolute inset-y-0 right-0 z-[1] hidden w-10 bg-gradient-to-l from-white to-transparent sm:block" />
+
+          <div
+            ref={trackRef}
+            className="hide-scrollbar flex items-start snap-x snap-mandatory gap-4 overflow-x-auto overflow-y-hidden py-1 sm:px-6"
+            aria-label="Carrossel de imagens"
+          >
+            {images.map((image, index) => (
+              <div key={`${image.src}-${index}`} data-inline-card className="w-[78%] max-w-[320px] flex-shrink-0 snap-start">
+                <InlineImageThumbnail
+                  image={image}
+                  index={index}
+                  onOpen={handleOpen}
+                  sizes={thumbnailSizes}
+                  normalizeCarousel={normalizeMixedCarousel}
+                />
+              </div>
+            ))}
+          </div>
+
+          {images.length > 1 && (
+            <>
+              <button
+                type="button"
+                onClick={() => scrollByCard(-1)}
+                className="absolute left-0 top-[38%] z-10 hidden h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:text-[#ff6b35] sm:inline-flex"
+                aria-label="Imagem anterior"
+              >
+                <ChevronLeft size={16} />
+              </button>
+              <button
+                type="button"
+                onClick={() => scrollByCard(1)}
+                className="absolute right-0 top-[38%] z-10 hidden h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:text-[#ff6b35] sm:inline-flex"
+                aria-label="Próxima imagem"
+              >
+                <ChevronRight size={16} />
+              </button>
+              <p className="mt-2 text-center text-xs text-gray-500 sm:hidden">
+                Arraste para ver mais · {images.length} fotos
+              </p>
+            </>
+          )}
+        </div>
+      ) : (
+        <div className={`mt-6 grid w-full grid-cols-1 gap-4 ${isSinglePortrait ? 'mx-auto max-w-[320px]' : isSingleSquare ? 'mx-auto max-w-md md:max-w-lg' : isSingleWide ? 'mx-auto max-w-3xl' : isSingleContain ? 'mx-auto max-w-2xl' : ''}`}>
+          {images.map((image, index) => (
+            <InlineImageThumbnail
+              key={`${image.src}-${index}`}
+              image={image}
+              index={index}
+              onOpen={handleOpen}
+              sizes={thumbnailSizes}
+            />
+          ))}
+        </div>
+      )}
 
       {openIndex !== null && (
         <Lightbox
