@@ -3,6 +3,7 @@
 docs/** export-ignore
 *.md export-ignore
 src/lib/generated/content-index.ts export-ignore
+public/search-index.json export-ignore
 
 # Ferramentas locais que não participam do `npm run build` gerenciado.
 scripts/deploy/** export-ignore
