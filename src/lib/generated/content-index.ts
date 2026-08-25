@@ -40385,7 +40385,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 265,
     "slug": "k-beauty-o-que-e-onde-comprar",
-    "title": "K-Beauty: o que é, por que virou tendência global e onde encontrar as marcas coreanas",
+    "title": "K-Beauty: descubra por que virou febre mundial e onde comprar as marcas coreanas",
     "seoTitle": "K-Beauty: o que é e onde comprar marcas coreanas",
     "type": "Editorial",
     "category": "guias-praticos-utilidade",
@@ -40403,8 +40403,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-08-25",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
-    "imageAlt": "Produtos de K-beauty e skincare coreano dispostos sobre uma mesa clara",
+    "image": "/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
+    "imageAlt": "Mulher com pele iluminada e hidratada, ilustrando o conceito de \"glass skin\" da K-Beauty",
     "imageFit": "cover",
     "pros": [],
     "cons": [],
@@ -40493,7 +40493,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Este é um artigo editorial sobre a tendência K-Beauty, sem experiência própria de uso de produtos específicos declarada. A menção à YesStyle e ao código CECILIA010 decorre de uma parceria comercial entre o Em Casa com Cecília e a YesStyle, que pode gerar comissão para o blog sem custo adicional para você.",
+    "editorialNote": "A menção à YesStyle e ao código CECILIA010 decorre de uma parceria comercial entre o Em Casa com Cecília e a YesStyle, que pode gerar comissão para o blog sem custo adicional para você.",
     "relatedArticles": [
       {
         "slug": "codigo-cecilia010-yesstyle-como-usar",
