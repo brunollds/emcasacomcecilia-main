@@ -18,12 +18,9 @@ import { InlineCouponCopy } from './InlineCouponCopy';
 import { getCouponCopyLocale, isStepHeading, type CouponCopyLocale } from './couponCopyLocale';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 import {
-  getGuideArticleLanguageLinks,
-  getKBeautyArticleLanguageLinks,
-  getRewardArticleLanguageLinks,
-  getTrustArticleLanguageLinks,
+  findYesStyleArticleKey,
+  getYesStyleArticleLanguageLinks,
   getYesStyleLocaleConfig,
-  isYesStyleArticle,
 } from '@/lib/i18n/clusters/yesstyle';
 import { getShellCopy } from '@/lib/i18n/shellDictionary';
 import { GuideTimeline } from './GuideTimeline';
@@ -206,6 +203,7 @@ export function ReviewNotebookTemplate({
 }: ReviewNotebookTemplateProps): React.ReactElement {
   const couponCopyLocale = getCouponCopyLocale(review.slug);
   const ui = templateUiLabels[couponCopyLocale] || templateUiLabels.pt;
+  const yesStyleArticleKey = findYesStyleArticleKey(review.slug);
 
   const { kind, plainTextBody } = viewModel;
   const kindLabel = getKindLabel(kind);
@@ -365,32 +363,12 @@ export function ReviewNotebookTemplate({
               </EditorialReveal>
             )}
 
-            {/* Seletor reutilizável para versões localizadas */}
-            {isYesStyleArticle(review.slug, 'reward') && (
+            {/* Seletor reutilizável para versões localizadas — genérico por tipo de
+                artigo do cluster, não exige um bloco novo a cada tipo adicionado. */}
+            {yesStyleArticleKey && (
               <LanguageSwitcher
                 currentLocale={couponCopyLocale}
-                links={getRewardArticleLanguageLinks()}
-              />
-            )}
-
-            {isYesStyleArticle(review.slug, 'guide') && (
-              <LanguageSwitcher
-                currentLocale={couponCopyLocale}
-                links={getGuideArticleLanguageLinks()}
-              />
-            )}
-
-            {isYesStyleArticle(review.slug, 'trust') && (
-              <LanguageSwitcher
-                currentLocale={couponCopyLocale}
-                links={getTrustArticleLanguageLinks()}
-              />
-            )}
-
-            {isYesStyleArticle(review.slug, 'kbeauty') && (
-              <LanguageSwitcher
-                currentLocale={couponCopyLocale}
-                links={getKBeautyArticleLanguageLinks()}
+                links={getYesStyleArticleLanguageLinks(yesStyleArticleKey)}
               />
             )}
 

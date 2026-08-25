@@ -5,6 +5,7 @@
   "seoTitle": "K-뷰티 열풍의 비결과 구매 가이드 | YesStyle",
   "type": "Editorial",
   "reviewKind": "editorial",
+  "category": "guias-praticos-utilidade",
   "author": {
     "name": "Cecília Mauad",
     "slug": "cecilia-mauad",
@@ -46,21 +47,23 @@
         "세 번째 요인은 순전히 인터넷의 영향입니다. 스킨케어 열성팬 커뮤니티가 TikTok, YouTube, Reddit 같은 플랫폼에서 성장했습니다. 인플루언서들이 한국 제품의 언박싱 영상을 진심 어린 열정으로 공유하고, 리뷰가 쏟아져 나오고, 바이럴 역학이 K-뷰티를 틈새 관심사에서 주류 현상으로 변모시켰습니다.",
         "결국 그 이야기는 간단하고 빠르게 퍼지기 쉽습니다. 세계 반대편에는 스킨케어 혁신에 집착하는 전체 산업이 존재합니다. 그리고 지금은 온라인으로 그것에 접근할 수 있습니다."
       ],
+      "bullets": []
+    },
+    {
+      "paragraphs": [],
       "bullets": [],
-      "images": [
-        {
-          "src": "/images/reviews/cupons/k-beauty-expo-korea.webp",
-          "alt": "K-뷰티 엑스포 코리아 행사장에서 수백 개의 뷰티 부스가 줄지어 서 있는 모습",
-          "caption": "트렌드 뒤에 있는 시장의 규모: K-뷰티 엑스포 코리아 같은 박람회는 해마다 수백 개 브랜드를 한데 모읍니다.",
-          "objectFit": "wide"
-        },
-        {
-          "src": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
-          "alt": "한국의 상점 진열대에 놓인 뷰티 제품들 위에 'Find the Latest K-Beauty Hype'라는 네온 사인이 켜져 있는 사진",
-          "caption": "한국의 거리에서는 K-뷰티 신제품 출시가 곧 윈도우 디스플레이가 됩니다. 한국을 방문하는 사람들이 끌리는 이유 중 하나입니다.",
-          "objectFit": "wide"
-        }
-      ]
+      "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
+      "imageAlt": "K-뷰티 엑스포 코리아 행사장에서 수백 개의 뷰티 부스가 줄지어 서 있는 모습",
+      "imageCaption": "트렌드 뒤에 있는 시장의 규모: K-뷰티 엑스포 코리아 같은 박람회는 해마다 수백 개 브랜드를 한데 모읍니다.",
+      "imageFit": "cover"
+    },
+    {
+      "paragraphs": [],
+      "bullets": [],
+      "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
+      "imageAlt": "한국의 상점 진열대에 놓인 뷰티 제품들 위에 'Find the Latest K-Beauty Hype'라는 네온 사인이 켜져 있는 사진",
+      "imageCaption": "한국의 거리에서는 K-뷰티 신제품 출시가 곧 윈도우 디스플레이가 됩니다. 한국을 방문하는 사람들이 끌리는 이유 중 하나입니다.",
+      "imageFit": "cover"
     },
     {
       "heading": "한국 밖에서 K-뷰티를 구매할 때의 난제",
@@ -83,9 +86,18 @@
       ],
       "bullets": [],
       "links": [
-        { "label": "YesStyle 리워드 코드 CECILIA010 사용법 (단계별)", "href": "/reviews/yesstyle-reward-code-cecilia010-ko" },
-        { "label": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보", "href": "/reviews/yesstyle-trust-guide-ko" },
-        { "label": "YesStyle 공식 페이지에서 CECILIA010 코드 확인", "href": "/ko/coupons/yesstyle" }
+        {
+          "label": "YesStyle 리워드 코드 CECILIA010 사용법 (단계별)",
+          "href": "/reviews/yesstyle-reward-code-cecilia010-ko"
+        },
+        {
+          "label": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보",
+          "href": "/reviews/yesstyle-trust-guide-ko"
+        },
+        {
+          "label": "YesStyle 공식 페이지에서 CECILIA010 코드 확인",
+          "href": "/ko/coupons/yesstyle"
+        }
       ],
       "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
       "imageAlt": "YesStyle의 공식 K-뷰티 및 J-뷰티 브랜드 (COSRX, Anua, Beauty of Joseon)",
@@ -105,15 +117,25 @@
   "cta": {
     "text": "YesStyle의 K-뷰티 카탈로그를 확인하고 결제 시 CECILIA010 코드를 사용하세요",
     "label": "YesStyle에서 한국 브랜드 보기",
-    "url": "https://www.yesstyle.com/",
+    "url": "https://ystyle.co/rQYQv",
     "sponsored": true
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
   "editorialNote": "YesStyle과 CECILIA010 코드에 대한 언급은 Em Casa com Cecília와 YesStyle 간의 상업적 파트너십에 따른 것이며, 이는 여러분에게 추가 비용 없이 블로그에 수수료를 발생시킬 수 있습니다.",
   "relatedArticles": [
-    { "slug": "yesstyle-reward-code-cecilia010-ko", "title": "YesStyle 리워드 코드 CECILIA010: 최대 5% 할인 (첫 구매 5% / 재구매 2%)" },
-    { "slug": "yesstyle-trust-guide-ko", "title": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보" },
-    { "slug": "yesstyle-valid-coupon-guide-ko", "title": "유효한 YesStyle 쿠폰 코드 찾는 법 및 CECILIA010 중복 할인 가이드" }
-  ]
+    {
+      "slug": "yesstyle-reward-code-cecilia010-ko",
+      "title": "YesStyle 리워드 코드 CECILIA010: 최대 5% 할인 (첫 구매 5% / 재구매 2%)"
+    },
+    {
+      "slug": "yesstyle-trust-guide-ko",
+      "title": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보"
+    },
+    {
+      "slug": "yesstyle-valid-coupon-guide-ko",
+      "title": "유효한 YesStyle 쿠폰 코드 찾는 법 및 CECILIA010 중복 할인 가이드"
+    }
+  ],
+  "imageAspect": "landscape"
 }

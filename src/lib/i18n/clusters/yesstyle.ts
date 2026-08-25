@@ -169,18 +169,6 @@ export function getRewardArticleLanguageLinks(): Record<Locale, string> {
   return getYesStyleArticleLanguageLinks('reward');
 }
 
-export function getGuideArticleLanguageLinks(): Record<Locale, string> {
-  return getYesStyleArticleLanguageLinks('guide');
-}
-
-export function getTrustArticleLanguageLinks(): Record<Locale, string> {
-  return getYesStyleArticleLanguageLinks('trust');
-}
-
-export function getKBeautyArticleLanguageLinks(): Record<Locale, string> {
-  return getYesStyleArticleLanguageLinks('kbeauty');
-}
-
 export function getHubLanguageLinks(): Record<Locale, string> {
   return getClusterHubLanguageLinks(YESSTYLE_CLUSTER) as Record<Locale, string>;
 }

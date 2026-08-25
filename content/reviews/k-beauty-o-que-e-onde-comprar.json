@@ -46,21 +46,23 @@
         "O terceiro fator é puramente de internet: comunidades de entusiastas de skincare cresceram em plataformas como TikTok, YouTube e Reddit, influenciadores passaram a mostrar unboxings de produtos coreanos com entusiasmo genuíno, resenhas se multiplicaram, e a dinâmica viral transformou K-Beauty de um interesse de nicho em um fenômeno mainstream.",
         "No fim, a narrativa é simples de entender e por isso se espalhou tão rápido: existe uma indústria inteira, do outro lado do mundo, obcecada por inovação em cuidados com a pele — e hoje é possível ter acesso a isso online."
       ],
+      "bullets": []
+    },
+    {
+      "paragraphs": [],
       "bullets": [],
-      "images": [
-        {
-          "src": "/images/reviews/cupons/k-beauty-expo-korea.webp",
-          "alt": "Feira K-Beauty Expo Korea lotada de expositores e visitantes testando produtos coreanos",
-          "caption": "O tamanho do mercado por trás da tendência: feiras como a K-Beauty Expo Korea reúnem centenas de marcas todos os anos.",
-          "objectFit": "wide"
-        },
-        {
-          "src": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
-          "alt": "Prateleira de loja de beleza coreana com letreiro \"Find the Latest K-Beauty Hype\"",
-          "caption": "Nas ruas da Coreia, lançamentos de K-Beauty viram vitrine — e parte da atração de quem visita o país.",
-          "objectFit": "wide"
-        }
-      ]
+      "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
+      "imageAlt": "Feira K-Beauty Expo Korea lotada de expositores e visitantes testando produtos coreanos",
+      "imageCaption": "O tamanho do mercado por trás da tendência: feiras como a K-Beauty Expo Korea reúnem centenas de marcas todos os anos.",
+      "imageFit": "cover"
+    },
+    {
+      "paragraphs": [],
+      "bullets": [],
+      "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
+      "imageAlt": "Prateleira de loja de beleza coreana com letreiro \"Find the Latest K-Beauty Hype\"",
+      "imageCaption": "Nas ruas da Coreia, lançamentos de K-Beauty viram vitrine — e parte da atração de quem visita o país.",
+      "imageFit": "cover"
     },
     {
       "heading": "O problema de comprar K-Beauty fora da Coreia",
@@ -115,7 +117,7 @@
   "cta": {
     "text": "Conheça o catálogo de K-Beauty da YesStyle e use o código CECILIA010 no checkout",
     "label": "Ver marcas coreanas na YesStyle",
-    "url": "https://www.yesstyle.com/",
+    "url": "https://ystyle.co/rQYQv",
     "sponsored": true
   },
   "coupon": "CECILIA010",
@@ -134,5 +136,6 @@
       "slug": "como-encontrar-cupons-yesstyle-validos",
       "title": "Como Encontrar Cupons YesStyle Válidos e Usar com o CECILIA010"
     }
-  ]
+  ],
+  "imageAspect": "landscape"
 }

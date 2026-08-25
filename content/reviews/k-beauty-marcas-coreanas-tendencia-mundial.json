@@ -5,6 +5,7 @@
   "seoTitle": "K-Beauty: marcas coreanas de skincare",
   "type": "Editorial",
   "reviewKind": "editorial",
+  "category": "guias-praticos-utilidade",
   "author": {
     "name": "Cecília Mauad",
     "slug": "cecilia-mauad",
@@ -46,21 +47,23 @@
         "El tercer factor es puramente de internet: las comunidades de entusiastas de skincare crecieron en plataformas como TikTok, YouTube y Reddit, influenciadores comenzaron a mostrar unboxings de productos coreanos con entusiasmo genuino, las reseñas se multiplicaron, y la dinámica viral transformó el K-Beauty de un interés de nicho en un fenómeno mainstream.",
         "Al final, la narrativa es simple de entender y por eso se propagó tan rápido: existe una industria completa, al otro lado del mundo, obsesionada con la innovación en cuidados de la piel — y hoy es posible tener acceso a todo esto en línea."
       ],
+      "bullets": []
+    },
+    {
+      "paragraphs": [],
       "bullets": [],
-      "images": [
-        {
-          "src": "/images/reviews/cupons/k-beauty-expo-korea.webp",
-          "alt": "Visitantes y vendedores en la K-Beauty Expo Korea, una feria con cientos de marcas coreanas de skincare",
-          "caption": "El tamaño del mercado detrás de la tendencia: ferias como la K-Beauty Expo Korea reúnen cientos de marcas cada año.",
-          "objectFit": "wide"
-        },
-        {
-          "src": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
-          "alt": "Estante de una tienda coreana con un letrero de neón que dice \"Find the Latest K-Beauty Hype\"",
-          "caption": "En las calles de Corea, los lanzamientos de K-Beauty son escaparate — y parte del atractivo para quienes visitan el país.",
-          "objectFit": "wide"
-        }
-      ]
+      "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
+      "imageAlt": "Visitantes y vendedores en la K-Beauty Expo Korea, una feria con cientos de marcas coreanas de skincare",
+      "imageCaption": "El tamaño del mercado detrás de la tendencia: ferias como la K-Beauty Expo Korea reúnen cientos de marcas cada año.",
+      "imageFit": "cover"
+    },
+    {
+      "paragraphs": [],
+      "bullets": [],
+      "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
+      "imageAlt": "Estante de una tienda coreana con un letrero de neón que dice \"Find the Latest K-Beauty Hype\"",
+      "imageCaption": "En las calles de Corea, los lanzamientos de K-Beauty son escaparate — y parte del atractivo para quienes visitan el país.",
+      "imageFit": "cover"
     },
     {
       "heading": "El Problema de Comprar K-Beauty Fuera de Corea",
@@ -83,9 +86,18 @@
       ],
       "bullets": [],
       "links": [
-        { "label": "YesStyle CECILIA010: código de recompensa (paso a paso)", "href": "/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010" },
-        { "label": "¿Es YesStyle de Fiar y Seguro? Lo que Debes Saber Antes de Comprar", "href": "/reviews/es-yesstyle-de-fiar-y-seguro" },
-        { "label": "Ver la tienda oficial y el código CECILIA010 en la página de cupón", "href": "/es/coupons/yesstyle" }
+        {
+          "label": "YesStyle CECILIA010: código de recompensa (paso a paso)",
+          "href": "/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010"
+        },
+        {
+          "label": "¿Es YesStyle de Fiar y Seguro? Lo que Debes Saber Antes de Comprar",
+          "href": "/reviews/es-yesstyle-de-fiar-y-seguro"
+        },
+        {
+          "label": "Ver la tienda oficial y el código CECILIA010 en la página de cupón",
+          "href": "/es/coupons/yesstyle"
+        }
       ],
       "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
       "imageAlt": "Marcas autorizadas de K-Beauty y J-Beauty en YesStyle (COSRX, Anua, Beauty of Joseon)",
@@ -105,15 +117,25 @@
   "cta": {
     "text": "Conoce el catálogo de K-Beauty en YesStyle y usa el código CECILIA010 en el checkout",
     "label": "Ver marcas coreanas en YesStyle",
-    "url": "https://www.yesstyle.com/",
+    "url": "https://ystyle.co/rQYQv",
     "sponsored": true
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
   "editorialNote": "La mención a YesStyle y al código CECILIA010 proviene de una alianza comercial entre Em Casa com Cecília y YesStyle, que puede generar una comisión para el blog sin costo adicional para ti.",
   "relatedArticles": [
-    { "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010", "title": "YesStyle CECILIA010: código de recompensa" },
-    { "slug": "es-yesstyle-de-fiar-y-seguro", "title": "¿Es YesStyle de Fiar y Seguro? Lo que Debes Saber Antes de Comprar" },
-    { "slug": "como-encontrar-cupones-yesstyle-validos", "title": "Cómo Encontrar Cupones YesStyle Válidos y Usar con el Código CECILIA010" }
-  ]
+    {
+      "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
+      "title": "YesStyle CECILIA010: código de recompensa"
+    },
+    {
+      "slug": "es-yesstyle-de-fiar-y-seguro",
+      "title": "¿Es YesStyle de Fiar y Seguro? Lo que Debes Saber Antes de Comprar"
+    },
+    {
+      "slug": "como-encontrar-cupones-yesstyle-validos",
+      "title": "Cómo Encontrar Cupones YesStyle Válidos y Usar con el Código CECILIA010"
+    }
+  ],
+  "imageAspect": "landscape"
 }

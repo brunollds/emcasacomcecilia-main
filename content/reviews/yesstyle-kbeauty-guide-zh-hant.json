@@ -5,6 +5,7 @@
   "seoTitle": "K-Beauty 韓妝：全球趨勢與 YesStyle 購買指南",
   "type": "Editorial",
   "reviewKind": "editorial",
+  "category": "guias-praticos-utilidade",
   "author": {
     "name": "Cecília Mauad",
     "slug": "cecilia-mauad",
@@ -46,21 +47,23 @@
         "第三個因素純粹源自網際網路：護膚愛好者社群在 TikTok、YouTube 和 Reddit 等平臺上快速成長，網紅開始熱情洋溢地展示韓國美妝產品的開箱，評論影片大幅增加，病毒式傳播動力將 K-Beauty 從利基興趣轉變為主流現象。",
         "說到底，敘事簡潔易懂，正因如此才能如此迅速傳播：世界的另一端有一整個產業沉迷於護膚創新──如今，任何人都可以在線上取得這些產品。"
       ],
+      "bullets": []
+    },
+    {
+      "paragraphs": [],
       "bullets": [],
-      "images": [
-        {
-          "src": "/images/reviews/cupons/k-beauty-expo-korea.webp",
-          "alt": "K-Beauty Expo Korea 展覽會現場，眾多美妝攤位密集排列",
-          "caption": "龐大市場的規模：K-Beauty Expo Korea 等展覽每年吸引數百個品牌參展。",
-          "objectFit": "wide"
-        },
-        {
-          "src": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
-          "alt": "韓國商店貨架展示多種 K-Beauty 產品，上方有霓虹招牌寫著「Find the Latest K-Beauty Hype」",
-          "caption": "在韓國街頭，K-Beauty 新品發布成為城市風景的一部分──也是訪韓遊客的部分吸引力。",
-          "objectFit": "wide"
-        }
-      ]
+      "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
+      "imageAlt": "K-Beauty Expo Korea 展覽會現場，眾多美妝攤位密集排列",
+      "imageCaption": "龐大市場的規模：K-Beauty Expo Korea 等展覽每年吸引數百個品牌參展。",
+      "imageFit": "cover"
+    },
+    {
+      "paragraphs": [],
+      "bullets": [],
+      "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
+      "imageAlt": "韓國商店貨架展示多種 K-Beauty 產品，上方有霓虹招牌寫著「Find the Latest K-Beauty Hype」",
+      "imageCaption": "在韓國街頭，K-Beauty 新品發布成為城市風景的一部分──也是訪韓遊客的部分吸引力。",
+      "imageFit": "cover"
     },
     {
       "heading": "在韓國以外購買 K-Beauty 的問題",
@@ -83,9 +86,18 @@
       ],
       "bullets": [],
       "links": [
-        { "label": "如何在 YesStyle 使用 CECILIA010 Reward Code（詳細步驟教學）", "href": "/reviews/yesstyle-reward-code-cecilia010-zh-hant" },
-        { "label": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南", "href": "/reviews/yesstyle-trust-guide-zh-hant" },
-        { "label": "優惠碼頁面查看官方商店與 CECILIA010 代碼詳情", "href": "/zh-hant/coupons/yesstyle" }
+        {
+          "label": "如何在 YesStyle 使用 CECILIA010 Reward Code（詳細步驟教學）",
+          "href": "/reviews/yesstyle-reward-code-cecilia010-zh-hant"
+        },
+        {
+          "label": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南",
+          "href": "/reviews/yesstyle-trust-guide-zh-hant"
+        },
+        {
+          "label": "優惠碼頁面查看官方商店與 CECILIA010 代碼詳情",
+          "href": "/zh-hant/coupons/yesstyle"
+        }
       ],
       "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
       "imageAlt": "YesStyle 上的授權 K-Beauty 與 J-Beauty 品牌（COSRX、Anua、Beauty of Joseon）",
@@ -105,15 +117,25 @@
   "cta": {
     "text": "探索 YesStyle 的 K-Beauty 目錄，結帳時使用 CECILIA010 代碼",
     "label": "在 YesStyle 查看韓國品牌",
-    "url": "https://www.yesstyle.com/",
+    "url": "https://ystyle.co/rQYQv",
     "sponsored": true
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
   "editorialNote": "提及 YesStyle 與 CECILIA010 代碼，是因為 Em Casa com Cecília 與 YesStyle 之間存在商業合作關係，這可能為部落格帶來佣金，且不會為你增加任何額外費用。",
   "relatedArticles": [
-    { "slug": "yesstyle-reward-code-cecilia010-zh-hant", "title": "YesStyle 獎勵碼 CECILIA010：高達 5% 優惠 (首購 5% / 回購 2%)" },
-    { "slug": "yesstyle-trust-guide-zh-hant", "title": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南" },
-    { "slug": "yesstyle-valid-coupon-guide-zh-hant", "title": "如何找到有效的 YesStyle 優惠碼並與 CECILIA010 疊加使用" }
-  ]
+    {
+      "slug": "yesstyle-reward-code-cecilia010-zh-hant",
+      "title": "YesStyle 獎勵碼 CECILIA010：高達 5% 優惠 (首購 5% / 回購 2%)"
+    },
+    {
+      "slug": "yesstyle-trust-guide-zh-hant",
+      "title": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南"
+    },
+    {
+      "slug": "yesstyle-valid-coupon-guide-zh-hant",
+      "title": "如何找到有效的 YesStyle 優惠碼並與 CECILIA010 疊加使用"
+    }
+  ],
+  "imageAspect": "landscape"
 }
