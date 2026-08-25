@@ -10,8 +10,6 @@ const checks = [
 ];
 
 for (const config of Object.values(YESSTYLE_LOCALES)) {
-  const rewardArticle = config.articles.find((article) => article.key === 'reward');
-  const guideArticle = config.articles.find((article) => article.key === 'guide');
   const hubFilePath = config.locale === 'pt'
     ? '.next/server/app/cupons/yesstyle.html'
     : `.next/server/app/${config.locale}/coupons/yesstyle.html`;
@@ -22,17 +20,13 @@ for (const config of Object.values(YESSTYLE_LOCALES)) {
     expectedLang: config.htmlLang,
   });
 
-  checks.push({
-    url: rewardArticle.path,
-    file: `.next/server/app${rewardArticle.path}.html`,
-    expectedLang: config.htmlLang,
-  });
-
-  checks.push({
-    url: guideArticle.path,
-    file: `.next/server/app${guideArticle.path}.html`,
-    expectedLang: config.htmlLang,
-  });
+  for (const article of config.articles) {
+    checks.push({
+      url: article.path,
+      file: `.next/server/app${article.path}.html`,
+      expectedLang: config.htmlLang,
+    });
+  }
 }
 
 let failed = 0;
