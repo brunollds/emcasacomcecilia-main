@@ -40430,10 +40430,20 @@ export const reviewsData: unknown[] = [
           "No fim, a narrativa é simples de entender e por isso se espalhou tão rápido: existe uma indústria inteira, do outro lado do mundo, obcecada por inovação em cuidados com a pele — e hoje é possível ter acesso a isso online."
         ],
         "bullets": [],
-        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-        "imageAlt": "Seção de regiões da YesStyle com categorias de beleza coreana, japonesa e do sudeste asiático",
-        "imageCaption": "K-Beauty é a mais conhecida, mas convive com outras tendências de beleza asiática organizadas lado a lado.",
-        "imageFit": "wide"
+        "images": [
+          {
+            "src": "/images/reviews/cupons/k-beauty-expo-korea.webp",
+            "alt": "Feira K-Beauty Expo Korea lotada de expositores e visitantes testando produtos coreanos",
+            "caption": "O tamanho do mercado por trás da tendência: feiras como a K-Beauty Expo Korea reúnem centenas de marcas todos os anos.",
+            "objectFit": "wide"
+          },
+          {
+            "src": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
+            "alt": "Prateleira de loja de beleza coreana com letreiro \"Find the Latest K-Beauty Hype\"",
+            "caption": "Nas ruas da Coreia, lançamentos de K-Beauty viram vitrine — e parte da atração de quem visita o país.",
+            "objectFit": "wide"
+          }
+        ]
       },
       {
         "heading": "O problema de comprar K-Beauty fora da Coreia",
