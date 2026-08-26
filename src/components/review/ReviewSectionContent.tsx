@@ -170,6 +170,44 @@ export function ReviewSectionContent({
         <ReviewInlineImage section={section} reviewTitle={reviewTitle} />
       )}
 
+      {section.comparisonTable && (
+        <div className="mt-6 overflow-x-auto rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft">
+          <table className="w-full min-w-[640px] border-collapse text-left text-sm">
+            <caption className="sr-only">
+              {section.comparisonTable.caption || section.heading || `Tabela comparativa de ${reviewTitle}`}
+            </caption>
+            <thead>
+              <tr className="bg-[#fef9f3]">
+                {section.comparisonTable.headers.map((header) => (
+                  <th
+                    key={header}
+                    scope="col"
+                    className="px-4 py-3 font-heading text-xs font-black uppercase tracking-[0.12em] text-[#0f1419]/70"
+                  >
+                    {header}
+                  </th>
+                ))}
+              </tr>
+            </thead>
+            <tbody className="divide-y divide-black/8">
+              {section.comparisonTable.rows.map((row, rowIndex) => (
+                <tr key={`${row[0]}-${rowIndex}`} className={rowIndex % 2 === 0 ? 'bg-white' : 'bg-[#faf8f3]'}>
+                  {row.map((cell, cellIndex) => cellIndex === 0 ? (
+                    <th key={`${cell}-${cellIndex}`} scope="row" className="px-4 py-3 font-semibold text-[#1a4d2e]">
+                      <HighlightCoupon text={cell} />
+                    </th>
+                  ) : (
+                    <td key={`${cell}-${cellIndex}`} className="px-4 py-3 leading-6 text-[#24313d]">
+                      <HighlightCoupon text={cell} />
+                    </td>
+                  ))}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+
       {section.video && (
         <div className={`my-6 overflow-hidden rounded-[1.25rem] bg-[#f4f4f5] shadow-soft mx-auto ${
           section.video.aspect === 'portrait'

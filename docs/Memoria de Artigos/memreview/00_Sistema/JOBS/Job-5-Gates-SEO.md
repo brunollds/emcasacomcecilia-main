@@ -18,6 +18,11 @@ npm run test:review-discovery
 npm run build
 ```
 
+Para trabalho multilíngue, rodar também os gates específicos da arquitetura
+indicados na nota do cluster (por exemplo, `npm run test:html-lang` e a prova de
+mutação do YesStyle). Confirmar no HTML gerado locale, canonical, hreflang e
+sitemap antes de atualizar a matriz para `completo`.
+
 ---
 
 ## 3. Submissão ao IndexNow

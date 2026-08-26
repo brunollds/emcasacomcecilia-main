@@ -255,6 +255,11 @@ export interface ContentSection {
   imageCaption?: string;
   imageFit?: 'cover' | 'contain' | 'portrait' | 'wide' | 'panoramic' | 'square';
   images?: ContentSectionImage[];
+  comparisonTable?: {
+    caption?: string;
+    headers: string[];
+    rows: string[][];
+  };
   links?: ContentSectionLink[];
   couponTiers?: { code: string; discount: string; minPurchase: string }[];
   widget?: string;

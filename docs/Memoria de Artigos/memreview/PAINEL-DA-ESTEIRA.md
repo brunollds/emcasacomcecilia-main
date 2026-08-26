@@ -33,9 +33,25 @@
 
 ## 5. Publicados / Prontos para Deploy (`status: pronto-para-deploy`)
 *Validados nos gates, gerados no build e aguardando deploy.*
-- [x] [[dolce-gusto-genio-s-basic-vs-plus-vs-touch]] — Dolce Gusto (Build OK: 298 páginas geradas) 🚀
+- [x] [[sofa-modular-ou-retratil-qual-escolher]] — DAMIE (Build OK: 308 páginas geradas) 🚀
+- [x] [[dolce-gusto-genio-s-basic-vs-plus-vs-touch]] — Dolce Gusto (Build OK: 308 páginas geradas) 🚀
 - [x] [[nutren-just-protein-para-que-serve]] — Nestlé Nutre (Build OK: 297 páginas geradas) 🚀
 - [[tabela-medidas-dolce-gusto-ml-por-nivel]] ✅
 - [[dolce-gusto-mini-me-2-0-vale-a-pena]] ✅
 - [[aliv-head-gel-iws-mascara-termica-enxaqueca]] ✅
 - [[melatonina-liquida-iws-ficha-tecnica]] ✅
+
+---
+
+## 6. Clusters Multilíngues
+
+*Acompanhar o artigo-fonte e a completude por idioma aqui; não criar uma linha da
+esteira para cada tradução.*
+
+| Parceiro | Cluster | Fonte PT | Idiomas | Estado |
+|---|---|---|---:|---|
+| YesStyle | [[03_Memoria/Clusters-Multilingues/YesStyle]] | reward, guide, trust, kbeauty | 9/9 por tipo | operação e monitoramento |
+| SHEIN | [[03_Memoria/Clusters-Multilingues/SHEIN]] | estrutura PT-first | sob gate de conversão | aguardando primeiro conteúdo elegível |
+
+> A matriz editorial detalhada e o critério de liberação estão em
+> [[03_Memoria/Clusters-Multilingues/Modelo-Operacional]].

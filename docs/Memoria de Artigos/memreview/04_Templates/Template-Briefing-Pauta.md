@@ -14,6 +14,12 @@ score_autoridade: 0 # 0 a 100
 score_conversao: 0 # 0 a 100
 score_ponderado_total: 0 # 0 a 100
 data_criacao: "2026-08-23"
+i18n_cluster: null # ex.: yesstyle | shein; null quando a pauta é somente PT
+i18n_article_key: null # chave estável dentro do cluster, ex.: kbeauty
+modo_i18n: "somente-pt" # somente-pt | paridade-completa | liberar-por-conversao
+idioma_fonte: "pt"
+idiomas_alvo: []
+status_i18n: "nao-aplicavel" # nao-aplicavel | estrutura-pt | aguardando-gate | em-localizacao | completo
 ---
 
 # Briefing de Pauta: {{titulo_provisorio}}
@@ -90,3 +96,16 @@ data_criacao: "2026-08-23"
 - **Cupom:**
 - **Links internos para `/cupons/<marca>` (máx 3):**
 - **CTA comissionado da loja (`rel="sponsored"`):**
+
+---
+
+## 8. Decisão Multilíngue (quando aplicável)
+
+- **Cluster e chave estável:**
+- **Modo i18n:** [ ] Paridade completa | [ ] Liberar por conversão | [ ] Somente PT
+- **Justificativa de mercado e idiomas-alvo:**
+- **Fonte PT será a peça canônica?** [ ] Sim
+- **Fatos universais que podem ser localizados:**
+- **Fatos dependentes de país, entrega, preço, moeda ou campanha:**
+- **Gate para liberar traduções (quando `liberar-por-conversao`):**
+- **Nota do cluster relacionada:** `[[03_Memoria/Clusters-Multilingues/<Parceiro>]]`

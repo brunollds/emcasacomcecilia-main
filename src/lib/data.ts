@@ -257,6 +257,11 @@ export interface Review {
     imageCaption?: string;
     imageFit?: 'cover' | 'contain' | 'portrait' | 'wide' | 'panoramic' | 'square';
     images?: ContentSectionImage[];
+    comparisonTable?: {
+      caption?: string;
+      headers: string[];
+      rows: string[][];
+    };
     links?: ContentSectionLink[];
     widget?: string;
     postParagraphs?: string[];

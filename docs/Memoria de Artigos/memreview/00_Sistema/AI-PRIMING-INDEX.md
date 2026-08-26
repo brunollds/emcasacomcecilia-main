@@ -15,6 +15,8 @@
   4. `01_Parceiros/[[Nome-do-Parceiro]].md` (apenas o parceiro da pauta)
   5. `03_Memoria/Dores-Mapeadas-Consumidor.md`
   6. `03_Memoria/Descartadas.md` (para checar se a ideia já foi rejeitada)
+  7. `03_Memoria/Clusters-Multilingues/Modelo-Operacional.md` e a nota do
+     parceiro, **se** a pauta tiver `i18n_cluster`
 - **Template de Saída:** `04_Templates/Template-Briefing-Pauta.md`
 - **Destino do Arquivo:** `02_Artigos/<slug>.md` (com `status: pauta-aprovada`)
 
@@ -27,6 +29,7 @@
   2. `00_Sistema/JOBS/Job-2-Redacao.md`
   3. `01_Parceiros/[[Nome-do-Parceiro]].md`
   4. O briefing da pauta em `02_Artigos/<slug>.md`
+  5. A nota do cluster, **se** `modo_i18n` não for `somente-pt`
 - **Template de Referência:** `04_Templates/Template-Artigo-Draft.md`
 - **Destino do Arquivo:** Atualiza `02_Artigos/<slug>.md` (com `status: em-revisao`)
 
@@ -39,6 +42,7 @@
   2. `00_Sistema/JOBS/Job-3-Revisao-Editorial.md`
   3. `01_Parceiros/[[Nome-do-Parceiro]].md` (conferir dados voláteis e cupons ativos)
   4. O rascunho em `02_Artigos/<slug>.md`
+  5. A nota do cluster, **se** `modo_i18n` não for `somente-pt`
 - **Destino do Arquivo:** Atualiza `02_Artigos/<slug>.md` (com `status: em-conformacao-json`)
 
 ---
@@ -49,6 +53,8 @@
   1. `00_Sistema/CONTRATOS-DE-CONTEUDO.md`
   2. `00_Sistema/JOBS/Job-4-Conformacao-JSON.md`
   3. O artigo aprovado em `02_Artigos/<slug>.md`
+  4. A nota do cluster e o plano/handoff técnico referenciado nela, **se**
+     `modo_i18n` não for `somente-pt`
 - **Destinos dos Arquivos:**
   - `content/reviews/<slug>.json` (no repositório)
   - `content/reviews/_manifest.json` (no repositório)
@@ -68,4 +74,6 @@
   npm run test:review-discovery
   npm run build
   ```
+- **Adicional para cluster multilíngue:** executar os gates específicos indicados
+  na nota do cluster e atualizar sua matriz depois da validação.
 - **Destino do Arquivo:** Atualiza `02_Artigos/<slug>.md` (com `status: publicado`) e registra lições em `03_Memoria/Licoes-Editoriais.md`.

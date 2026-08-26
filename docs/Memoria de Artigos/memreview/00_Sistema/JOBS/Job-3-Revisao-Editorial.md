@@ -15,3 +15,7 @@ Auditar rigorosamente o rascunho antes da conversão técnica, garantindo integr
   - Os links internos para cupom usam caminhos relativos (ex: `/cupons/dolce-gusto`)?
   - Não há repetição mecânica de âncoras genéricas como "clique aqui"?
 - [ ] **5. Tom de Voz:** O texto soa natural, honesto e focado na vida real em casa?
+- [ ] **6. Escopo por Locale:** Claims universais estão separados dos fatos de
+  país, moeda, entrega, catálogo ou campanha que precisam de rechecagem/localização?
+- [ ] **7. Gate i18n:** A decisão de traduzir respeita o modo do cluster e está
+  registrada na matriz da nota-fonte?

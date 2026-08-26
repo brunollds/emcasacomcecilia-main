@@ -18,3 +18,10 @@ Transformar o Briefing aprovado em um rascunho completo de artigo, no tom "Vida 
 
 ## 3. Matriz de Claims
 O redator deve preencher a matriz de claims no rodapé da nota para facilitar a auditoria do Job 3.
+
+## 4. Fonte canônica e localização
+
+Quando `modo_i18n` não for `somente-pt`, o texto PT é a fonte canônica do
+cluster. Marcar no briefing quais claims são universais e quais dependem de país,
+preço, frete, moeda, disponibilidade ou campanha. Não escrever uma versão
+internacional como tradução literal antes da liberação prevista na nota do cluster.

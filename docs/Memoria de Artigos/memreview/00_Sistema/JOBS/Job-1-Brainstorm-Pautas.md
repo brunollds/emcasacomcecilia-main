@@ -16,6 +16,8 @@ Antes de calcular qualquer pontuação, a pauta DEVE passar por todos os 6 port�
 - [ ] **4. Anti-Canibalização & Não Duplicação:** Não divide intenção com `/cupons/<marca>` nem duplica artigo existente?
 - [ ] **5. Classe Editorial Válida:** Enquadra-se com clareza em uma das 4 classes (`category`)?
 - [ ] **6. Fontes Acessíveis & Atuais:** As fontes foram consultadas recentemente e são estáveis?
+- [ ] **7. Decisão i18n Registrada:** A pauta foi marcada como `somente-pt`,
+  `paridade-completa` ou `liberar-por-conversao`, sem assumir tradução automática?
 
 ---
 
@@ -50,3 +52,8 @@ Registrar no briefing:
 
 ## 6. Output Esperado
 Criar o arquivo `02_Artigos/<slug>.md` utilizando o `04_Templates/Template-Briefing-Pauta.md`.
+
+Quando a pauta pertence a um parceiro multilíngue, registrar também a chave estável
+do artigo e ligar a pauta à nota em `03_Memoria/Clusters-Multilingues/`. Para a
+SHEIN, estrutura pronta não autoriza tradução: o gate de conversão do PT continua
+obrigatório.

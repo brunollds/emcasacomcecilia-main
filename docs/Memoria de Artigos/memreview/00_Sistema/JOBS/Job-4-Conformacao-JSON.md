@@ -25,3 +25,18 @@ Converter o texto revisado em Markdown para o arquivo JSON estruturado em `conte
    - Links para `/cupons/<marca>` devem ser relativos.
    - Links externos de loja devem ter `"sponsored": true`.
 5. **Manifesto:** Inserir o `<slug>` na posição correta de `content/reviews/_manifest.json`.
+
+---
+
+## 3. Clusters multilíngues (quando aplicável)
+
+1. Ler a nota do cluster e o plano/handoff técnico referenciado nela; o vault não
+   substitui o registro de rotas nem os validadores do repositório.
+2. Em `paridade-completa`, só marcar a nota-fonte como pronta quando todos os
+   idiomas da matriz tiverem JSON, `locale`, categoria, manifesto, rota e registro
+   de cluster correspondentes.
+3. Em `liberar-por-conversao`, publicar a fonte PT na estrutura do cluster e
+   manter os demais idiomas como `aguardando-gate`; não preencher traduções de
+   fachada para completar uma matriz.
+4. Atualizar a matriz da nota do cluster com slugs, estado e data da última
+   verificação técnica.

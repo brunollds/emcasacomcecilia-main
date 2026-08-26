@@ -23,9 +23,16 @@ revisao_geral_ate: "2026-09-01"
 
 | Produto / Linha | Tecidos Disponíveis | Mecanismo | Garantia |
 |---|---|---|---|
-| **Sofá Modular DAMIE** | Linho, Bouclé, Suede, Couro | Encaixe modular por módulos | Estrutura de madeira maciça e espuma D28/D30 |
+| **Sofá Modular DAMIE** | Linho, Bouclé, Suede, Couro | Encaixe modular por módulos | 1 ano de garantia geral; depois, suporte vitalício e peças de reposição a preço de custo |
 | **Poltronas Reclináveis (Levita, Moon, etc.)** | Linho, Couro, Bouclé | Reclínio elétrico motorizado (bivolt) ou manual | 1 ano garantia oficial |
 | **Poltrona de Amamentação** | Tecidos impermeabilizados ou fáceis de limpar | Giro + balanço suave | Especial para maternidade e rotina de bebês |
+
+Fonte e data da condição do sofá modular: [coleção oficial da Damie](https://www.damie.com.br/collections/sofa-modular/), consultada em 26/08/2026. Os termos devem ser reconfirmados antes de publicar ou atualizar conteúdo comercial.
+
+### Opcionais integrados aos braços
+
+- Catálogo observado: entrada USB, luminária, porta-taça, mesa lateral, suporte para smartphone/tablet com carregamento por indução e case 3 em 1.
+- Diretriz editorial: no recorte de concorrentes modulares analisado para a pauta `sofa-modular-ou-retratil-qual-escolher`, o conjunto apareceu apenas na Damie. Publicar como diferencial observado, não como exclusividade absoluta ou permanente de mercado.
 
 ---
 

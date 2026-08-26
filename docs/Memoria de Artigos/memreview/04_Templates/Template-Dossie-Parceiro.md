@@ -43,3 +43,13 @@ revisao_geral_ate: "2026-09-01"
 ## 5. Artigos do Cluster Já Publicados
 - [[slug-artigo-1]]
 - [[slug-artigo-2]]
+
+---
+
+## 6. Perfil Multilíngue (quando aplicável)
+
+- **Nota operacional do cluster:** `[[03_Memoria/Clusters-Multilingues/<Parceiro>]]`
+- **Modo:** `paridade-completa` | `liberar-por-conversao` | `somente-pt`
+- **Idiomas / mercados autorizados:**
+- **Regra de publicação:**
+- **Fonte técnica de rotas, hreflang e validação:** `docs/<handoff-ou-plano>.md`
