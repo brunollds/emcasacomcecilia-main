@@ -8,6 +8,7 @@ import {
   type ReviewCategory,
   type ReviewDiscoveryItem,
 } from '@/lib/reviewDiscovery';
+import { publishedReviews } from '@/lib/data';
 import {
   resolveActiveHomeCuration,
   type HomeCurationSelection,
@@ -57,12 +58,32 @@ function config(overrides: Record<string, unknown> = {}): Record<string, unknown
 
 const configPath = resolve(process.cwd(), 'content', 'home-curation.json');
 const homeCurationConfigRaw = JSON.parse(readFileSync(configPath, 'utf-8')) as unknown;
-assert.deepEqual(homeCurationConfigRaw, { selection: null });
-assert.equal(
-  resolveActiveHomeCuration(homeCurationConfigRaw, [], published),
-  null,
-  'selection:null deve desativar curadoria'
-);
+const homeCurationSelection = (
+  homeCurationConfigRaw as { selection?: { articleSlug?: string; startsAt?: string } }
+).selection;
+
+if (homeCurationSelection === null) {
+  assert.equal(
+    resolveActiveHomeCuration(homeCurationConfigRaw, [], published),
+    null,
+    'selection:null deve desativar curadoria'
+  );
+} else {
+  assert.equal(typeof homeCurationSelection?.articleSlug, 'string');
+  assert.equal(typeof homeCurationSelection?.startsAt, 'string');
+  const activeAtStarts = new Date(homeCurationSelection.startsAt!);
+  const activeConfigResolution = resolveActiveHomeCuration(
+    homeCurationConfigRaw,
+    publishedReviews,
+    activeAtStarts
+  );
+  assert.ok(activeConfigResolution);
+  assert.equal(
+    activeConfigResolution.article.slug,
+    homeCurationSelection.articleSlug,
+    'arquivo real deve resolver o slug configurado no startsAt'
+  );
+}
 
 const eligibleArticle = fixture('artigo-curado', { id: 101 });
 const baseReviews = [
