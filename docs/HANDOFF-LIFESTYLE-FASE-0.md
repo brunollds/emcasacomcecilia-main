@@ -7,6 +7,9 @@
 **Status:** arquitetura da Fase 0 aprovada em mockup; runtime executado em 14/08/2026 (ver nota
 na Seção 12)
 
+**Nota de atualização (26/08/2026):** a regra de "uma vaga fixa por categoria" para os quatro destaques da home foi supersedida pelo contrato de seleção cronológica com teto de 2 por categoria definido em
+`docs/superpowers/plans/2026-08-26-home-destaques-curadoria.md`.
+
 **Sequência estratégica:** Cupons → SHEIN → Lifestyle
 
 **Escopo desta etapa:** posicionamento, arquitetura de informação, papel da home e critérios para os primeiros pilotos

@@ -111,28 +111,38 @@ internacional recebe classe somente depois de decisão e backfill por locale.
 
 `category` não é só taxonomia de navegação: desde os commits `7f12c94`, `0b6fb29`,
 `c67d9df`/`134815b` e `9870a86` (plano técnico em
-`docs/superpowers/plans/2026-08-13-lifestyle-home-guides-implementation.md`), ela também decide
-sozinha o que aparece nos quatro cards de destaque da home. Ninguém edita esses cards à mão.
+`docs/superpowers/plans/2026-08-13-lifestyle-home-guides-implementation.md`), ela também limita a
+diversidade dos quatro cards de destaque da home. A recência escolhe os candidatos; ninguém edita
+esses cards à mão.
+
+**Nota de atualização (26/08/2026):** no contrato atual de curadoria, a seleção é **cronológica
+com teto de 2 por `category`**, ordenada por `publishedAtISO` desc com desempate por `id` desc, em vez de
+uma vaga fixa por categoria.
 
 Regra implementada em `selectHomeReviewDiscovery`
 ([reviewDiscovery.ts:154](../src/lib/reviewDiscovery.ts:154)):
 
-- existe exatamente uma vaga para cada `category`;
-- o artigo com `publishedAtISO` mais recente daquela categoria ocupa a vaga;
+- percorre a lista de elegíveis em ordem cronológica (`publishedAtISO` desc, `id` desc);
+- preenche quatro destaques com no máximo 2 por `category`;
+- falha com erro nomeado se não conseguir 4 destaques elegíveis;
+- um artigo novo pode entrar e deslocar outro independentemente da categoria;
 - empate de data é resolvido pelo maior `id`;
-- um artigo novo altera somente a vaga da própria categoria;
 - `type`, `reviewKind`, `isNew`, marca e parceria comercial não entram nessa seleção.
 
-Quando um artigo novo substitui o destaque de sua categoria:
+Quando um artigo novo entra (semântica da biblioteca):
 
-1. o novo assume o card principal da categoria (`FeaturedReviewGuides`);
-2. o antigo sai dos quatro destaques;
-3. o antigo entra automaticamente na grade cronológica de baixo — 2×4, até 8 artigos
+1. o novo ocupa a próxima vaga disponível conforme ordem cronológica e teto por categoria;
+2. o artigo deslocado sai dos quatro destaques;
+3. o artigo deslocado entra automaticamente na grade cronológica de baixo — 2×4, até 8 artigos
    ([ReviewsShowcase.tsx:31](../src/components/sections/ReviewsShowcase.tsx:31));
-4. filtrando por `?categoria=...` em `/reviews`, ele aparece como o primeiro artigo restante
-   daquela categoria, porque a lista já vem ordenada por data;
+4. filtros e ordenação por categoria em `/reviews` continuam baseados em `category`, com lista já
+   ordenada por data;
 5. na grade geral de 8 (sem filtro), só aparece se estiver entre os 8 mais recentes do acervo
    listado combinado.
+
+A biblioteca já aceita exclusões por `excludedIds`: esses artigos não aparecem nem nos 4 destaques
+nem na grade recente, enquanto `counts` permanece global sobre a vitrine PT inteira. Essa é uma
+capacidade para a futura curadoria; não significa que uma seleção editorial já esteja ativa na home.
 
 Contrato para todo artigo PT novo, reforçando a Seção 1: `category` válida, `publishedAtISO` em
 `YYYY-MM-DD`, `id` único, sem `draft: true`, sem `hideFromListings`/`hideFromPortugueseListings`,

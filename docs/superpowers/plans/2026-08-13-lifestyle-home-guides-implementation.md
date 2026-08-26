@@ -7,6 +7,10 @@ mapeamento de commit real e o resumo vivo em
 `docs/GUIA-EDITORIAL-GUIAS-ANALISES.md` (Seção 9), que é a referência que agentes de conteúdo
 devem ler. Este documento passa a ser registro histórico do plano, não uma pendência.
 
+**Nota histórica (26/08/2026):** a regra de seleção de quatro destaques por vaga fixa de
+`category` foi supersedida pelo `Commit 1` do plano `2026-08-26-home-destaques-curadoria.md`:
+seleção cronológica com teto de 2 por categoria e falha nomeada se não preencher quatro cards.
+
 **Spec de produto:** `docs/HANDOFF-LIFESTYLE-FASE-0.md`
 
 **Objetivo:** substituir os dois blocos de atalhos de receitas no topo da home por descoberta real de Guias & Análises, criar quatro categorias controladas em `/reviews` e tornar o carrossel inferior cronológico, sem mudar Hero, ticker, URLs canônicas ou o restante da home.

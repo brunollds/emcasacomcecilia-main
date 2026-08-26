@@ -51,6 +51,9 @@ export interface HomeReviewCard {
   readingMinutes: number;
 }
 
+const HOME_FEATURED_LIMIT = 4;
+const HOME_FEATURED_MAX_PER_CATEGORY = 2;
+
 const REVIEW_CATEGORY_VALUES = new Set<string>(
   REVIEW_CATEGORIES.map(({ value }) => value)
 );
@@ -151,23 +154,60 @@ export function getReviewCategoryCounts<T extends ReviewDiscoveryItem>(
   return counts;
 }
 
+export interface SelectHomeReviewDiscoveryOptions {
+  recentLimit?: number;
+  excludedIds?: readonly number[];
+}
+
 export function selectHomeReviewDiscovery<T extends ReviewDiscoveryItem>(
   reviews: readonly T[],
-  recentLimit = 8
+  recentLimitOrOptions: number | SelectHomeReviewDiscoveryOptions = 8
 ): {
   featured: Array<T & { category: ReviewCategory; publishedAtISO: string }>;
   recent: Array<T & { category: ReviewCategory; publishedAtISO: string }>;
   counts: Record<ReviewCategory, number>;
 } {
   const listed = sortReviewsByPublishedAt(getListedPortugueseReviews(reviews));
-  const featured = REVIEW_CATEGORIES.map(({ value }) => {
-    const review = listed.find((candidate) => candidate.category === value);
-    if (!review) {
-      throw new Error(`[reviewDiscovery] categoria sem artigo listado: ${value}`);
+  const options =
+    typeof recentLimitOrOptions === 'number'
+      ? { recentLimit: recentLimitOrOptions }
+      : recentLimitOrOptions;
+  const recentLimit = options.recentLimit ?? 8;
+  const excludedIds = new Set(options.excludedIds ?? []);
+  const categoryCounts: Record<ReviewCategory, number> = Object.fromEntries(
+    REVIEW_CATEGORIES.map(({ value }) => [value, 0])
+  ) as Record<ReviewCategory, number>;
+  const featured: Array<
+    T & { category: ReviewCategory; publishedAtISO: string }
+  > = [];
+
+  for (const review of listed) {
+    if (featured.length >= HOME_FEATURED_LIMIT) {
+      break;
     }
-    return review;
-  });
+
+    if (excludedIds.has(review.id)) {
+      continue;
+    }
+
+    if (categoryCounts[review.category] >= HOME_FEATURED_MAX_PER_CATEGORY) {
+      continue;
+    }
+
+    featured.push(review);
+    categoryCounts[review.category] += 1;
+  }
+
+  if (featured.length < HOME_FEATURED_LIMIT) {
+    throw new Error(
+      '[reviewDiscovery] home_featured_selection_failed: unable to fill 4 highlights'
+    );
+  }
+
   const featuredIds = new Set(featured.map(({ id }) => id));
+  for (const excludedId of excludedIds) {
+    featuredIds.add(excludedId);
+  }
 
   return {
     featured,

@@ -58,33 +58,24 @@ for (const value of categoryValues) {
 const discovery = selectHomeReviewDiscovery(reviews);
 assert.equal(discovery.featured.length, 4);
 assert.equal(new Set(discovery.featured.map(({ id }) => id)).size, 4);
-assert.deepEqual(
-  discovery.featured.map(({ category }) => category),
-  categoryValues,
-  'destaques devem seguir a ordem canônica das categorias'
-);
-
 for (const featured of discovery.featured) {
-  const newest = listed
-    .filter(({ category }) => category === featured.category)
-    .sort(
-      (left, right) =>
-        right.publishedAtISO.localeCompare(left.publishedAtISO) ||
-        right.id - left.id
-    )[0];
-  assert.equal(featured.id, newest.id, `${featured.category}: destaque incorreto`);
+  assert.ok(
+    discovery.featured.filter((item) => item.category === featured.category).length <=
+      2,
+    'limite de dois destaques por categoria'
+  );
 }
 
 const featuredIds = new Set(discovery.featured.map(({ id }) => id));
-const firstCard = toHomeReviewCard(discovery.featured[0]);
-assert.equal(firstCard.category, discovery.featured[0].category);
-assert.equal(firstCard.slug, discovery.featured[0].slug);
-assert.ok(firstCard.readingMinutes >= 2);
-assert.equal(discovery.recent.length, Math.min(8, listed.length - featuredIds.size));
+assert.equal(discovery.featured.length, 4);
 assert.equal(
   discovery.recent.some(({ id }) => featuredIds.has(id)),
   false,
   'recentes não podem repetir destaques'
+);
+assert.equal(
+  discovery.recent.length,
+  Math.min(8, listed.length - featuredIds.size)
 );
 for (let index = 1; index < discovery.recent.length; index += 1) {
   const previous = discovery.recent[index - 1];
@@ -94,6 +85,11 @@ for (let index = 1; index < discovery.recent.length; index += 1) {
     previous.id - current.id;
   assert.ok(order >= 0, 'recentes devem estar em ordem cronológica decrescente');
 }
+
+const firstCard = toHomeReviewCard(discovery.featured[0]);
+assert.equal(firstCard.category, discovery.featured[0].category);
+assert.equal(firstCard.slug, discovery.featured[0].slug);
+assert.ok(firstCard.readingMinutes >= 2);
 
 function fixture(
   id: number,
@@ -116,32 +112,114 @@ function fixture(
   };
 }
 
-const synthetic = categoryValues.flatMap((category, index) => [
-  fixture(index * 10 + 1, category, '2026-08-01'),
-  fixture(index * 10 + 2, category, '2026-08-01'),
-]);
-const tieDiscovery = selectHomeReviewDiscovery(synthetic, 20);
+const fourDominance = [
+  fixture(40, 'guias-praticos-utilidade', '2026-08-12'),
+  fixture(39, 'guias-praticos-utilidade', '2026-08-11'),
+  fixture(38, 'guias-praticos-utilidade', '2026-08-10'),
+  fixture(37, 'guias-praticos-utilidade', '2026-08-09'),
+  fixture(36, 'produtos-experiencias', '2026-08-08'),
+  fixture(35, 'cupons-como-usar', '2026-08-07'),
+  fixture(34, 'confianca-reputacao', '2026-08-06'),
+];
+
+const dominanceDiscovery = selectHomeReviewDiscovery(fourDominance);
 assert.deepEqual(
-  tieDiscovery.featured.map(({ id }) => id),
-  [2, 12, 22, 32],
-  'empate de data deve favorecer maior id'
+  dominanceDiscovery.featured.map(({ id }) => id),
+  [40, 39, 36, 35],
+  'quatro mais recentes da mesma categoria não ocupam as quatro vagas'
+);
+assert.equal(
+  dominanceDiscovery.featured.filter(({ category }) => category === 'guias-praticos-utilidade')
+    .length,
+  2,
+  'máximo de 2 destaques por categoria'
+);
+assert.deepEqual(
+  dominanceDiscovery.featured.map(({ category }) => category),
+  [
+    'guias-praticos-utilidade',
+    'guias-praticos-utilidade',
+    'produtos-experiencias',
+    'cupons-como-usar',
+  ],
+  'preenchimento deve seguir ordem cronológica com teto por categoria'
+);
+
+const tieInput = [
+  fixture(20, 'guias-praticos-utilidade', '2026-08-10'),
+  fixture(19, 'guias-praticos-utilidade', '2026-08-10'),
+  fixture(18, 'produtos-experiencias', '2026-08-09'),
+  fixture(17, 'cupons-como-usar', '2026-08-08'),
+  fixture(16, 'confianca-reputacao', '2026-08-07'),
+  fixture(15, 'cupons-como-usar', '2026-08-06'),
+];
+const tieDiscovery = selectHomeReviewDiscovery(tieInput, {
+  recentLimit: 20,
+});
+assert.deepEqual(
+  tieDiscovery.featured.slice(0, 2).map(({ id }) => id),
+  [20, 19],
+  'empate por data favorece maior id na mesma categoria'
 );
 
 const rotated = selectHomeReviewDiscovery([
-  ...synthetic,
-  fixture(99, 'guias-praticos-utilidade', '2026-08-02'),
-]);
-assert.equal(rotated.featured[0].id, 99, 'artigo mais novo deve rotacionar sua vaga');
+  ...fourDominance,
+  fixture(99, 'guias-praticos-utilidade', '2026-08-13'),
+], {
+  recentLimit: 10,
+});
+assert.equal(rotated.featured[0].id, 99, 'artigo mais novo deve entrar no destaque');
+assert.equal(rotated.featured.length, 4, 'preenchimento sempre com 4 cards');
 assert.deepEqual(
   rotated.featured.slice(1).map(({ id }) => id),
-  [12, 22, 32],
-  'rotação de uma categoria não pode alterar as demais'
+  [40, 36, 35],
+  'a entrada de novo artigo altera apenas o necessário'
+);
+
+const excludedDiscovery = selectHomeReviewDiscovery(fourDominance, {
+  recentLimit: 10,
+  excludedIds: [40],
+});
+assert.ok(
+  excludedDiscovery.featured.every(({ id }) => id !== 40),
+  'featured não pode conter excludedIds'
+);
+assert.equal(
+  excludedDiscovery.recent.some(({ id }) => id === 40),
+  false,
+  'recent não pode conter excludedIds'
+);
+assert.deepEqual(
+  excludedDiscovery.featured.map(({ id }) => id),
+  [39, 38, 36, 35],
+  'exclusão deve puxar o próximo candidato cronológico'
+);
+
+const limitedRecentDiscovery = selectHomeReviewDiscovery(fourDominance, {
+  recentLimit: 2,
+});
+assert.equal(limitedRecentDiscovery.recent.length, 2, 'recentLimit preservado no objeto');
+
+const backwardCompatibleRecentLimitDiscovery = selectHomeReviewDiscovery(
+  fourDominance,
+  2
+);
+assert.equal(backwardCompatibleRecentLimitDiscovery.recent.length, 2);
+
+const countsWithExclusions = selectHomeReviewDiscovery(fourDominance, {
+  recentLimit: 8,
+  excludedIds: [40, 36],
+}).counts;
+assert.deepEqual(
+  countsWithExclusions,
+  getReviewCategoryCounts(fourDominance),
+  'counts não devem mudar por exclusões'
 );
 
 assert.throws(
   () =>
     selectHomeReviewDiscovery([
-      ...synthetic,
+      ...fourDominance,
       fixture(100, undefined, '2026-08-03', {
         pros: ['pros não classificam'],
         cons: ['cons não classificam'],
@@ -154,11 +232,25 @@ assert.throws(
 assert.throws(
   () =>
     selectHomeReviewDiscovery([
-      ...synthetic,
       fixture(101, 'guias-praticos-utilidade', '2026-02-30'),
+      fixture(102, 'produtos-experiencias', '2026-02-29'),
+      fixture(103, 'cupons-como-usar', '2026-02-28'),
+      fixture(104, 'confianca-reputacao', '2026-02-27'),
     ]),
   /publishedAtISO ausente ou inválida/,
   'data impossível deve falhar antes da seleção'
+);
+
+assert.throws(
+  () =>
+    selectHomeReviewDiscovery([
+      fixture(200, 'guias-praticos-utilidade', '2026-08-01'),
+      fixture(199, 'guias-praticos-utilidade', '2026-08-02'),
+      fixture(198, 'guias-praticos-utilidade', '2026-08-03'),
+      fixture(197, 'guias-praticos-utilidade', '2026-08-04'),
+    ]),
+  /home_featured_selection_failed: unable to fill 4 highlights/,
+  'deve falhar com mensagem nomeada quando teto impede quatro destaques'
 );
 
 console.log(
