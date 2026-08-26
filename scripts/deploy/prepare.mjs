@@ -8,7 +8,7 @@ import os from 'node:os';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-import { checkArchiveSize } from './check-archive-size.mjs';
+import { checkArchiveSize, DEFAULT_MAX_BYTES, DEFAULT_WARNING_BYTES } from './check-archive-size.mjs';
 import { assertDeployPreflight, assertProductionSha } from './preflight.mjs';
 import { parseReleaseIdentity } from '../content/release-identity.mjs';
 
@@ -128,7 +128,10 @@ async function main() {
   assertDeployPreflight(after);
   if (after.headSha !== before.headSha) throw new Error('HEAD mudou durante a preparação');
 
-  console.log('[4/4] criando archive atestado e aplicando guarda de 45 MB…');
+  console.log(
+    `[4/4] criando archive atestado (aviso em ${DEFAULT_WARNING_BYTES} bytes; ` +
+      `bloqueio em ${DEFAULT_MAX_BYTES} bytes)…`,
+  );
   const deployUuid = randomUUID();
   const { archive, size, sha256 } = createAttestedArchive({
     targetSha: after.headSha,
@@ -139,6 +142,12 @@ async function main() {
   console.log(`TARGET_SHA=${after.headSha}`);
   console.log(`DEPLOY_UUID=${deployUuid}`);
   console.log(`ARCHIVE_BYTES=${size.bytes}`);
+  if (size.warning) {
+    console.warn(
+      `ARCHIVE_WARNING=archive acima de ${size.warningBytes} bytes; ` +
+        `${size.remainingBytes} bytes restantes até a guarda interna`,
+    );
+  }
   console.log(`ARCHIVE_SHA256=${sha256}`);
   console.log('\nPRÓXIMO PASSO (sessão Codex com MCP Hostinger):');
   console.log(`  hosting_deployJsApplication domain=emcasacomcecilia.com archivePath=${archive}`);

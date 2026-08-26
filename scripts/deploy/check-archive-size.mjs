@@ -3,7 +3,8 @@ import { statSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-export const DEFAULT_MAX_BYTES = 45_000_000;
+export const DEFAULT_WARNING_BYTES = 47_000_000;
+export const DEFAULT_MAX_BYTES = 49_000_000;
 
 function trackedFilesBySize(rootDir, limit = 10) {
   const output = execFileSync('git', ['ls-files', '-z'], {
@@ -22,14 +23,28 @@ function trackedFilesBySize(rootDir, limit = 10) {
     .slice(0, limit);
 }
 
-export function checkArchiveSize({ archivePath, maxBytes = DEFAULT_MAX_BYTES, rootDir = process.cwd() }) {
+export function checkArchiveSize({
+  archivePath,
+  maxBytes = DEFAULT_MAX_BYTES,
+  warningBytes = Math.min(DEFAULT_WARNING_BYTES, maxBytes),
+  rootDir = process.cwd(),
+}) {
   if (!Number.isSafeInteger(maxBytes) || maxBytes <= 0) {
     throw new Error(`limite inválido: ${maxBytes}`);
+  }
+  if (!Number.isSafeInteger(warningBytes) || warningBytes <= 0 || warningBytes > maxBytes) {
+    throw new Error(`limite de aviso inválido: ${warningBytes}`);
   }
 
   const bytes = statSync(archivePath).size;
   if (bytes < maxBytes) {
-    return { bytes, maxBytes, remainingBytes: maxBytes - bytes };
+    return {
+      bytes,
+      maxBytes,
+      warningBytes,
+      warning: bytes >= warningBytes,
+      remainingBytes: maxBytes - bytes,
+    };
   }
 
   const largest = trackedFilesBySize(rootDir)
@@ -55,11 +70,12 @@ if (isCli()) {
       const maxBytes = process.env.ARCHIVE_MAX_BYTES
         ? Number(process.env.ARCHIVE_MAX_BYTES)
         : DEFAULT_MAX_BYTES;
-      const result = checkArchiveSize({ archivePath, maxBytes });
-      console.log(
-        `archive dentro da guarda: ${result.bytes} bytes; ` +
-          `${result.remainingBytes} bytes até ${result.maxBytes}`,
-      );
+      const warningBytes = process.env.ARCHIVE_WARNING_BYTES
+        ? Number(process.env.ARCHIVE_WARNING_BYTES)
+        : Math.min(DEFAULT_WARNING_BYTES, maxBytes);
+      const result = checkArchiveSize({ archivePath, maxBytes, warningBytes });
+      const prefix = result.warning ? 'aviso: archive próximo do limite' : 'archive dentro da guarda';
+      console.log(`${prefix}: ${result.bytes} bytes; ${result.remainingBytes} bytes até ${result.maxBytes}`);
     } catch (error) {
       console.error(error instanceof Error ? error.message : String(error));
       process.exitCode = 1;

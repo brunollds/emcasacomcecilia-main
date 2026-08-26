@@ -31,8 +31,6 @@ jobs:
 
       - name: Assemble and guard the committed source archive
         shell: bash
-        env:
-          ARCHIVE_MAX_BYTES: '45000000'
         run: |
           set -euo pipefail
           mkdir -p .archive-check

@@ -47,7 +47,9 @@ attestation pública. O G1 futuro só poderá declarar sucesso quando exigir sim
 2. `/api/release` com SHA e UUID exatos;
 3. `/_next/static/<sha>/_buildManifest.js` acessível.
 
-O Gate 1 mede cedo uma reconstrução da árvore commitada e falha a partir de **45.000.000 bytes**.
+O Gate 1 mede cedo uma reconstrução da árvore commitada, avisa a partir de
+**47.000.000 bytes** e falha a partir de **49.000.000 bytes**. O teto documentado do provider
+continua em 50 MB; a guarda interna preserva 1 MB de margem.
 Como ele não usa o mesmo empacotamento de `deploy:prepare`, os tamanhos são estimativas preventivas e
 não são comparáveis byte a byte. A guarda autoritativa roda no **archive final exato**, depois de
 inserir sua identidade e imediatamente antes do upload. O `deploy:prepare` imprime também
@@ -83,7 +85,7 @@ npm run deploy:prepare
 O preflight atualiza `origin/main` e bloqueia antes do build quando a branch não é `main`, quando
 `HEAD != origin/main` ou quando existe qualquer mudança local que ficaria fora do archive. Ele também
 mostra o delta completo entre o SHA atestado em produção e o candidato, incorpora
-`release-meta.json` e aplica a guarda de 45 MB sobre o archive final exato. Não substituir erro por
+`release-meta.json` e aplica a mesma política de 47/49 MB sobre o archive final exato. Não substituir erro por
 aviso e não montar pacote manualmente.
 
 Depois que o MCP informar `completed`, registrar o build UUID e verificar as três identidades:

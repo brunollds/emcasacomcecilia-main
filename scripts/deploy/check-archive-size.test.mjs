@@ -24,8 +24,18 @@ test('aceita archive abaixo da guarda e informa a margem', () => {
   assert.deepEqual(checkArchiveSize({ archivePath, maxBytes: 30, rootDir }), {
     bytes: 20,
     maxBytes: 30,
+    warningBytes: 30,
+    warning: false,
     remainingBytes: 10,
   });
+});
+
+test('avisa quando o archive entra na margem preventiva', () => {
+  const { rootDir, archivePath } = fixture();
+  assert.equal(
+    checkArchiveSize({ archivePath, maxBytes: 30, warningBytes: 15, rootDir }).warning,
+    true,
+  );
 });
 
 test('falha no limite e aponta o maior arquivo versionado', () => {
@@ -45,5 +55,13 @@ test('rejeita limite inválido', () => {
   assert.throws(
     () => checkArchiveSize({ archivePath, maxBytes: Number.NaN, rootDir }),
     /limite inválido/,
+  );
+});
+
+test('rejeita limite de aviso acima da guarda', () => {
+  const { rootDir, archivePath } = fixture();
+  assert.throws(
+    () => checkArchiveSize({ archivePath, maxBytes: 30, warningBytes: 31, rootDir }),
+    /limite de aviso inválido/,
   );
 });
