@@ -25,6 +25,11 @@ const cases: Array<{
     placement: 'home_reviews_carousel',
     linkLabel: 'Review de exemplo',
   },
+  {
+    href: '/reviews/artigo-curado',
+    placement: 'home_editor_pick',
+    linkLabel: 'Artigo curado de exemplo',
+  },
 ];
 
 for (const input of cases) {

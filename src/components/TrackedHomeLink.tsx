@@ -7,7 +7,8 @@ import { trackEvent } from '@/lib/analytics';
 export type HomeRoutePlacement =
   | 'home_featured_guides'
   | 'home_review_categories'
-  | 'home_reviews_carousel';
+  | 'home_reviews_carousel'
+  | 'home_editor_pick';
 
 type HomeRouteClickInput = {
   href: string;
