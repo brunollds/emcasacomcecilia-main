@@ -1,5 +1,7 @@
 import type { Review } from './types';
-import { type Locale, LOCALES } from '@/lib/i18n/locales';
+import { LOCALE_KEYS, type Locale, LOCALES } from '@/lib/i18n/locales';
+import { getReviewCanonicalPathname as getReviewCanonicalPathnameFromLocale } from './review-pathname.mjs';
+export { detectDuplicateReviewPathnames } from './review-pathname.mjs';
 
 export type ReviewTranslationKey = string;
 export type ReviewLocaleGroup = Pick<Review, 'slug' | 'translationKey' | 'locale'>;
@@ -25,6 +27,15 @@ export function resolveReviewLocale(locale?: string): Locale {
 export function isValidTranslationKey(value: unknown): boolean {
   if (typeof value !== 'string') return false;
   return TRANSLATION_KEY_PATTERN.test(value);
+}
+
+type ReviewPathSource = Pick<Review, 'slug' | 'locale'> | { slug: string; locale?: string };
+
+export function getReviewCanonicalPathname(review: ReviewPathSource): string {
+  return getReviewCanonicalPathnameFromLocale({
+    slug: review.slug,
+    locale: resolveReviewLocale(review.locale),
+  });
 }
 
 export function groupReviewsByTranslationKey(
@@ -59,6 +70,33 @@ export function getReviewTranslationsByLocale(
   translationKey: string
 ): ReviewLocaleMap {
   return groups[translationKey] ?? {};
+}
+
+export function getReviewTranslationPathnames(
+  review: Pick<Review, 'slug' | 'translationKey' | 'locale'>,
+  reviews: Iterable<Pick<Review, 'slug' | 'translationKey' | 'locale'> | { slug: string; translationKey?: string; locale?: string }>
+): Partial<Record<Locale, string>> {
+  if (review.translationKey === undefined) return {};
+
+  const translations = getReviewTranslationsByLocale(
+    groupReviewsByTranslationKey(reviews),
+    review.translationKey
+  );
+
+  return Object.fromEntries(
+    listGroupLocales(translations).flatMap((locale) => {
+      const [translatedReview] = translations[locale] ?? [];
+      return translatedReview ? [[locale, getReviewCanonicalPathname(translatedReview)]] : [];
+    })
+  ) as Partial<Record<Locale, string>>;
+}
+
+export function getReviewDefaultTranslationPathname(
+  translationPathnames: Partial<Record<Locale, string>>
+): string | undefined {
+  return translationPathnames.en
+    ?? translationPathnames.pt
+    ?? LOCALE_KEYS.map((locale) => translationPathnames[locale]).find(Boolean);
 }
 
 export function listGroupLocales(group: ReviewLocaleMap): Locale[] {

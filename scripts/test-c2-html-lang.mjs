@@ -2,7 +2,13 @@ import fs from 'fs';
 import path from 'path';
 
 const clusterModule = await import('../src/lib/i18n/clusters/yesstyle.ts');
+const dataModule = await import('../src/lib/data.ts');
+const reviewI18nModule = await import('../src/lib/content/review-i18n.ts');
+const localesModule = await import('../src/lib/i18n/locales.ts');
 const YESSTYLE_LOCALES = clusterModule.YESSTYLE_LOCALES;
+const { publishedReviews, getReviewSlug } = dataModule;
+const { getReviewCanonicalPathname, resolveReviewLocale } = reviewI18nModule;
+const { LOCALES } = localesModule;
 
 const checks = [
   { url: '/', file: '.next/server/app/index.html', expectedLang: 'pt-BR' },
@@ -20,13 +26,15 @@ for (const config of Object.values(YESSTYLE_LOCALES)) {
     expectedLang: config.htmlLang,
   });
 
-  for (const article of config.articles) {
-    checks.push({
-      url: article.path,
-      file: `.next/server/app${article.path}.html`,
-      expectedLang: config.htmlLang,
-    });
-  }
+}
+
+for (const review of publishedReviews) {
+  const pathname = getReviewCanonicalPathname(review);
+  checks.push({
+    url: pathname,
+    file: `.next/server/app${pathname}.html`,
+    expectedLang: LOCALES[resolveReviewLocale(review.locale)].htmlLang,
+  });
 }
 
 let failed = 0;

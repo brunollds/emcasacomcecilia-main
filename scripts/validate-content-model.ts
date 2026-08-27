@@ -13,6 +13,7 @@ import {
   inferReviewKind,
   resolveReviewLocale,
   isValidTranslationKey,
+  detectDuplicateReviewPathnames,
   groupReviewsByTranslationKey,
   detectDuplicateTranslationLocalePairs,
   normalizeRecipe,
@@ -40,7 +41,6 @@ const warnings: ValidationWarning[] = [];
 const recipeIds = new Set<number>();
 const recipeSlugs = new Set<string>();
 const reviewIds = new Set<number>();
-const reviewSlugs = new Set<string>();
 
 function reportError(error: ValidationError): void {
   errors.push(error);
@@ -244,11 +244,6 @@ for (const review of reviews) {
   }
   reviewIds.add(review.id);
 
-  if (reviewSlugs.has(review.slug)) {
-    reportError({ type: 'review', id: review.id, slug: review.slug, message: 'slug duplicado' });
-  }
-  reviewSlugs.add(review.slug);
-
   if (!review.title) {
     reportError({ type: 'review', id: review.id, slug: review.slug, message: 'title ausente' });
   }
@@ -397,6 +392,15 @@ const reviewsWithTranslations = reviews.filter(
 );
 const reviewGroups = groupReviewsByTranslationKey(reviewsWithTranslations);
 const duplicateTranslationLocales = detectDuplicateTranslationLocalePairs(reviewGroups);
+
+for (const duplicate of detectDuplicateReviewPathnames(reviews)) {
+  reportError({
+    type: 'review',
+    id: -1,
+    slug: duplicate.slugs.join(', '),
+    message: `pathname canônico duplicado: ${duplicate.pathname}`,
+  });
+}
 
 for (const duplicate of duplicateTranslationLocales) {
   reportError({

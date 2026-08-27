@@ -4,20 +4,25 @@ import { getReviewSlug, publishedReviews, reviews } from '@/lib/data';
 import { ReviewNotebookTemplate } from '@/components/review';
 import { buildReviewTemplateProps } from '@/lib/review-template-props';
 import { LOCALES, type Locale } from '@/lib/i18n/locales';
-import {
-  findYesStyleArticleKey,
-  findYesStyleLocaleFromSlugOrPath,
-  getYesStyleArticleLanguageLinks,
-  getYesStyleLocaleConfig,
-} from '@/lib/i18n/clusters/yesstyle';
+import { getReviewCanonicalPathname, getReviewDefaultTranslationPathname, getReviewTranslationPathnames, resolveReviewLocale } from '@/lib/content/review-i18n';
 
-export function findReviewBySlug(slug: string) {
-  const list = process.env.NODE_ENV === 'development' ? reviews : publishedReviews;
-  return list.find((review) => getReviewSlug(review) === slug);
+function getReviewList() {
+  return process.env.NODE_ENV === 'development' ? reviews : publishedReviews;
 }
 
-export async function generateReviewMetadataBySlug(slug: string) {
-  const review = findReviewBySlug(slug);
+export function findReviewBySlug(slug: string, locale?: Locale) {
+  return getReviewList().find((review) => (
+    getReviewSlug(review) === slug
+    && (locale === undefined || resolveReviewLocale(review.locale) === locale)
+  ));
+}
+
+export async function generateReviewMetadataBySlug(slug: string, locale?: Locale) {
+  const list = getReviewList();
+  const review = list.find((item) => (
+    getReviewSlug(item) === slug
+    && (locale === undefined || resolveReviewLocale(item.locale) === locale)
+  ));
 
   if (!review) {
     return {
@@ -25,20 +30,16 @@ export async function generateReviewMetadataBySlug(slug: string) {
     };
   }
 
-  const url = `https://emcasacomcecilia.com/reviews/${getReviewSlug(review)}`;
-  const currentLocaleKey = review.locale || findYesStyleLocaleFromSlugOrPath(slug) || 'pt';
-  const localeConfig = getYesStyleLocaleConfig(currentLocaleKey);
-
-  const languages: Record<string, string> = {};
-  const articleKey = findYesStyleArticleKey(slug);
-
-  if (articleKey) {
-    const articleLinks = getYesStyleArticleLanguageLinks(articleKey);
-    for (const [locale, path] of Object.entries(articleLinks)) {
-      languages[LOCALES[locale as Locale].hreflang] = `https://emcasacomcecilia.com${path}`;
-    }
-    languages['x-default'] = `https://emcasacomcecilia.com${articleLinks.en}`;
-  }
+  const url = `https://emcasacomcecilia.com${getReviewCanonicalPathname(review)}`;
+  const translationPaths = getReviewTranslationPathnames(review, list);
+  const languages: Record<string, string> = Object.fromEntries(
+    Object.entries(translationPaths).map(([translationLocale, path]) => [
+      LOCALES[translationLocale as Locale].hreflang,
+      `https://emcasacomcecilia.com${path}`,
+    ])
+  );
+  const defaultTranslationPath = getReviewDefaultTranslationPathname(translationPaths);
+  if (defaultTranslationPath) languages['x-default'] = `https://emcasacomcecilia.com${defaultTranslationPath}`;
 
   const seoDescription = review.metaDescription || review.description;
   const seoTitle = review.seoTitle || review.title;
@@ -61,7 +62,7 @@ export async function generateReviewMetadataBySlug(slug: string) {
       description: seoDescription,
       url,
       type: 'article',
-      locale: localeConfig.openGraphLocale,
+      locale: LOCALES[resolveReviewLocale(review.locale)].openGraphLocale,
       publishedTime: review.publishedAtISO,
       modifiedTime: review.updatedAt,
       authors: review.authors?.map((author) => author.name),
@@ -76,10 +77,14 @@ export async function generateReviewMetadataBySlug(slug: string) {
   };
 }
 
-export function renderReviewPageBySlug(slug: string) {
-  const review = findReviewBySlug(slug);
+export function renderReviewPageBySlug(slug: string, locale?: Locale) {
+  const list = getReviewList();
+  const review = list.find((item) => (
+    getReviewSlug(item) === slug
+    && (locale === undefined || resolveReviewLocale(item.locale) === locale)
+  ));
   if (!review) {
     notFound();
   }
-  return <ReviewNotebookTemplate {...buildReviewTemplateProps(review)} />;
+  return <ReviewNotebookTemplate {...buildReviewTemplateProps(review, list)} languageLinks={getReviewTranslationPathnames(review, list)} />;
 }

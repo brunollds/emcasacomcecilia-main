@@ -1,7 +1,8 @@
 import Link from 'next/link';
 import { Globe } from 'lucide-react';
+import type { Locale } from '@/lib/i18n/locales';
 
-export type ContentLocale = 'pt' | 'en' | 'es' | 'fr' | 'de' | 'ko' | 'ja' | 'zh-hant' | 'zh-hans';
+export type ContentLocale = Locale;
 
 type LanguageSwitcherProps = {
   currentLocale: ContentLocale;

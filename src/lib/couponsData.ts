@@ -402,7 +402,7 @@ export const COUPONS: Coupon[] = [
         },
         {
           title: `YesStyle Reward Code ${r.code} (English)`,
-          url: '/reviews/yesstyle-reward-code-coupon-cecilia010',
+          url: '/en/reviews/yesstyle-reward-code-coupon-cecilia010',
           type: 'review' as const,
           publishedAt: '2026-07-11',
         },

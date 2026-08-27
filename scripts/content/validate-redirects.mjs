@@ -1,4 +1,12 @@
-const SLUG = /^\/(receitas|reviews)\/[a-z0-9]+(?:-[a-z0-9]+)*$/;
+import { readdirSync, readFileSync } from 'node:fs';
+import { getReviewCanonicalPathname } from '../../src/lib/content/review-pathname.mjs';
+
+const PT_SLUG = /^\/(receitas|reviews)\/[a-z0-9]+(?:-[a-z0-9]+)*$/;
+const LOCALIZED_REVIEW = /^\/[a-z]+(?:-[a-z]+)?\/reviews\/[a-z0-9]+(?:-[a-z0-9]+)*$/;
+
+function isContentPath(value) {
+  return PT_SLUG.test(value) || LOCALIZED_REVIEW.test(value);
+}
 
 /**
  * Valida redirects. Lança Error na 1ª violação (fail-loud).
@@ -23,10 +31,10 @@ export function validateRedirects(redirects, activeSlugs = new Set()) {
       );
     }
     const { source, destination, permanent } = entry;
-    if (typeof source !== 'string' || !SLUG.test(source)) {
+    if (typeof source !== 'string' || !isContentPath(source)) {
       throw new Error(`redirects[${i}].source inválido: ${JSON.stringify(source)}`);
     }
-    if (typeof destination !== 'string' || !SLUG.test(destination)) {
+    if (typeof destination !== 'string' || !isContentPath(destination)) {
       throw new Error(`redirects[${i}].destination inválido: ${JSON.stringify(destination)}`);
     }
     if (permanent !== true) {
@@ -58,21 +66,29 @@ export function validateRedirects(redirects, activeSlugs = new Set()) {
   }
 }
 
-import { readFileSync } from 'node:fs';
 import path from 'node:path';
 
 /**
- * Lê redirects.json + manifestos do disco, monta activeSlugs e valida.
+ * Lê redirects.json + conteúdo do disco, monta activeSlugs e valida.
  * @param {string} redirectsPath  caminho do redirects.json
- * @param {string} contentDir     dir 'content' (contém receitas/reviews/_manifest.json)
+ * @param {string} contentDir     dir 'content' (contém receitas/reviews)
  * @returns {Array} o array de redirects validado
  */
 export function validateRedirectsFromDisk(redirectsPath, contentDir) {
   const redirects = JSON.parse(readFileSync(redirectsPath, 'utf-8'));
   const activeSlugs = new Set();
-  for (const tipo of ['receitas', 'reviews']) {
-    const manifest = JSON.parse(readFileSync(path.join(contentDir, tipo, '_manifest.json'), 'utf-8'));
-    for (const slug of manifest) activeSlugs.add(`/${tipo}/${slug}`);
+  const recipeManifest = JSON.parse(readFileSync(path.join(contentDir, 'receitas', '_manifest.json'), 'utf-8'));
+  for (const slug of recipeManifest) activeSlugs.add(`/receitas/${slug}`);
+
+  for (const entry of readdirSync(path.join(contentDir, 'reviews'), { withFileTypes: true })) {
+    if (!entry.isFile() || entry.name === '_manifest.json' || !entry.name.endsWith('.json')) continue;
+    const review = JSON.parse(readFileSync(path.join(contentDir, 'reviews', entry.name), 'utf-8'));
+    const reviewPathname = getReviewCanonicalPathname(review);
+    if (!isContentPath(reviewPathname)) {
+      const locale = review.locale === undefined ? 'pt' : review.locale;
+      throw new Error(`reviews/${entry.name}: locale inválido para redirect: ${JSON.stringify(locale)}`);
+    }
+    activeSlugs.add(reviewPathname);
   }
   validateRedirects(redirects, activeSlugs);
   return redirects;

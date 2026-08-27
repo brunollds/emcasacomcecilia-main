@@ -12,17 +12,14 @@ import { ReadingProgressBar } from './ReadingProgressBar';
 import { ReviewContentSections } from './ReviewContentSections';
 import { ReviewHeroImage } from './ReviewHeroImage';
 import { ReviewVerdictCard } from './ReviewVerdictCard';
-import { ReviewSidebar } from './ReviewSidebar';
+import { ReviewSidebar, type ResolvedRelatedArticle } from './ReviewSidebar';
 import { ReviewMobileBottomBar } from './ReviewMobileBottomBar';
 import { InlineCouponCopy } from './InlineCouponCopy';
-import { getCouponCopyLocale, isStepHeading, type CouponCopyLocale } from './couponCopyLocale';
+import { isStepHeading, type CouponCopyLocale } from './couponCopyLocale';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
-import {
-  findYesStyleArticleKey,
-  getYesStyleArticleLanguageLinks,
-  getYesStyleLocaleConfig,
-} from '@/lib/i18n/clusters/yesstyle';
-import { getShellCopy } from '@/lib/i18n/shellDictionary';
+import { getReviewCanonicalPathname, resolveReviewLocale } from '@/lib/content/review-i18n';
+import type { Locale } from '@/lib/i18n/locales';
+import { getInternationalReviewShell, getShellCopy } from '@/lib/i18n/shellDictionary';
 import { GuideTimeline } from './GuideTimeline';
 import { PullQuote } from './PullQuote';
 import { ReviewHighlightChips } from './ReviewHighlightChips';
@@ -38,6 +35,8 @@ export interface ReviewNotebookTemplateProps {
   jsonLd: Record<string, unknown>;
   faqJsonLd?: Record<string, unknown> | null;
   relatedReviews: Review[];
+  relatedArticleLinks: ResolvedRelatedArticle[];
+  languageLinks: Partial<Record<Locale, string>>;
 }
 
 function getKindLabel(kind: ReviewViewModel['kind']) {
@@ -200,10 +199,12 @@ export function ReviewNotebookTemplate({
   jsonLd,
   faqJsonLd = null,
   relatedReviews,
+  relatedArticleLinks,
+  languageLinks,
 }: ReviewNotebookTemplateProps): React.ReactElement {
-  const couponCopyLocale = getCouponCopyLocale(review.slug);
+  const couponCopyLocale = resolveReviewLocale(review.locale);
+  const internationalReviewShell = getInternationalReviewShell(couponCopyLocale);
   const ui = templateUiLabels[couponCopyLocale] || templateUiLabels.pt;
-  const yesStyleArticleKey = findYesStyleArticleKey(review.slug);
 
   const { kind, plainTextBody } = viewModel;
   const kindLabel = getKindLabel(kind);
@@ -310,8 +311,8 @@ export function ReviewNotebookTemplate({
                   ) : (
                     <>
                       <li>
-                        <Link href={getYesStyleLocaleConfig(couponCopyLocale).hubPath} className="transition-colors hover:text-[#1a4d2e]">
-                          {getShellCopy(couponCopyLocale).hubLabel}
+                        <Link href={internationalReviewShell.href} className="transition-colors hover:text-[#1a4d2e]">
+                          {internationalReviewShell.label}
                         </Link>
                       </li>
                       <li aria-hidden="true"><ChevronRight size={14} /></li>
@@ -363,12 +364,10 @@ export function ReviewNotebookTemplate({
               </EditorialReveal>
             )}
 
-            {/* Seletor reutilizável para versões localizadas — genérico por tipo de
-                artigo do cluster, não exige um bloco novo a cada tipo adicionado. */}
-            {yesStyleArticleKey && (
+            {Object.keys(languageLinks).length > 1 && (
               <LanguageSwitcher
                 currentLocale={couponCopyLocale}
-                links={getYesStyleArticleLanguageLinks(yesStyleArticleKey)}
+                links={languageLinks}
               />
             )}
 
@@ -684,7 +683,7 @@ export function ReviewNotebookTemplate({
               {/* Share */}
               <EditorialReveal as="section" className="mb-10">
                 <ShareBar
-                  url={`https://emcasacomcecilia.com/reviews/${review.slug}`}
+                  url={`https://emcasacomcecilia.com${getReviewCanonicalPathname(review)}`}
                   title={review.title}
                   contentType="review"
                   imageUrl={
@@ -703,6 +702,7 @@ export function ReviewNotebookTemplate({
                 kind={kind}
                 tocItems={tocItems}
                 effectiveCta={effectiveCta}
+                relatedArticleLinks={relatedArticleLinks}
               />
             </aside>
           </div>
@@ -728,7 +728,7 @@ export function ReviewNotebookTemplate({
                   {ui.relatedArticles}
                 </SectionHeadingReveal>
                 <Link
-                  href={couponCopyLocale === 'pt' ? '/reviews' : getYesStyleLocaleConfig(couponCopyLocale).hubPath}
+                  href={couponCopyLocale === 'pt' ? '/reviews' : internationalReviewShell.href}
                   className="hidden items-center gap-2 text-sm font-bold text-[#1a4d2e] transition-colors hover:text-[#ff6b35] md:inline-flex"
                 >
                   {ui.viewAll}
@@ -739,7 +739,7 @@ export function ReviewNotebookTemplate({
                 {relatedReviews.map((item) => (
                   <Link
                     key={item.id}
-                    href={`/reviews/${item.slug}`}
+                    href={getReviewCanonicalPathname(item)}
                     className="group relative min-h-[220px] overflow-hidden rounded-[1.5rem] border border-[#0f1419]/8 bg-[#0f1d3a] p-4 transition-all hover:-translate-y-1 hover:border-[#ff6b35]/30 hover:shadow-md"
                   >
                     {item.image ? (
@@ -780,6 +780,7 @@ export function ReviewNotebookTemplate({
         kind={kind}
         tocItems={tocItems}
         effectiveCta={effectiveCta}
+        relatedArticleLinks={relatedArticleLinks}
       />
     </>
   );

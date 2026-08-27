@@ -4,7 +4,8 @@
 // Uso: npx tsx scripts/content/list-routes.ts
 import { mkdirSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
-import { recipes, reviews, getReviewSlug } from '@/lib/data';
+import { recipes, reviews } from '@/lib/data';
+import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 
 // Páginas estáticas que consomem data.ts (verificado por grep na spec §7)
 // + rotas de texto (sitemap/llms) que iteram os arrays.
@@ -26,7 +27,7 @@ const routes = [
   // Inclui DRAFTS de propósito: a captura registra o status HTTP por rota e
   // exige o MESMO status before/after (draft 404 continua 404; 200 continua 200).
   ...recipes.map((r) => ({ route: `/receitas/${r.slug}`, marker: r.slug, minBytes: 5000 })),
-  ...reviews.map((r) => ({ route: `/reviews/${getReviewSlug(r)}`, marker: getReviewSlug(r), minBytes: 5000 })),
+  ...reviews.map((r) => ({ route: getReviewCanonicalPathname(r), marker: r.slug, minBytes: 5000 })),
 ];
 
 const seen = new Set<string>();

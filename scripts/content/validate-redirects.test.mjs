@@ -7,6 +7,9 @@ const ok = (source, destination) => ({ source, destination, permanent: true });
 test('array válido passa', () => {
   assert.doesNotThrow(() => validateRedirects([ok('/reviews/a', '/reviews/b')], new Set()));
 });
+test('destination internacional prefixado passa', () => {
+  assert.doesNotThrow(() => validateRedirects([ok('/reviews/a', '/en/reviews/a')], new Set()));
+});
 test('raiz não-array lança', () => {
   assert.throws(() => validateRedirects({}, new Set()), /array/);
 });

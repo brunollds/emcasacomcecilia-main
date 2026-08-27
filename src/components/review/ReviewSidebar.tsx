@@ -6,7 +6,7 @@ import { useEffect, useRef, useState } from 'react';
 import { copyTextWithFallback } from '@/lib/clipboardUtils';
 import { trackEvent } from '@/lib/analytics';
 import { CouponStoreLink } from '@/components/CouponComponents';
-import { getCouponCopyLocale } from './couponCopyLocale';
+import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import type { TocItem } from './ReviewTableOfContents';
 import type { Review, ReviewKind } from '@/lib/content';
 
@@ -27,9 +27,11 @@ export interface ReviewSidebarProps {
   kind: ReviewKind;
   tocItems: TocItem[];
   effectiveCta?: { url: string; label: string; text?: string; sponsored?: boolean } | null;
+  relatedArticleLinks?: ResolvedRelatedArticle[];
 }
 
 type ReviewConversionPlacement = 'review_sidebar' | 'review_mobile_drawer';
+export type ResolvedRelatedArticle = NonNullable<Review['relatedArticles']>[number] & { href: string };
 
 function StarRating({ rating }: { rating: number }): React.ReactElement {
   const fullStars = Math.floor(rating);
@@ -63,6 +65,7 @@ export function SidebarConversionCards({
 }: {
   coupon?: string;
   effectiveCta?: { url: string; label: string; text?: string; sponsored?: boolean } | null;
+  relatedArticleLinks?: ResolvedRelatedArticle[];
   reviewSlug: string;
   affiliate?: string;
   placement?: ReviewConversionPlacement;
@@ -153,6 +156,7 @@ export interface ReviewSidebarContentProps {
   kind: ReviewKind;
   tocItems: TocItem[];
   effectiveCta?: { url: string; label: string; text?: string; sponsored?: boolean } | null;
+  relatedArticleLinks?: ResolvedRelatedArticle[];
   onTocLinkClick?: () => void;
   conversionPlacement?: ReviewConversionPlacement;
 }
@@ -162,6 +166,7 @@ export function ReviewSidebarContent({
   kind,
   tocItems,
   effectiveCta,
+  relatedArticleLinks = [],
   onTocLinkClick,
   conversionPlacement = 'review_sidebar',
 }: ReviewSidebarContentProps): React.ReactElement | null {
@@ -170,7 +175,7 @@ export function ReviewSidebarContent({
   const recommendation = kind === 'produto' ? review.verdict?.recommendation : undefined;
   const hasConversionContent = Boolean(review.coupon || effectiveCta?.url);
   const hasToc = tocItems.length > 0;
-  const hasRelated = Boolean(review.relatedArticles && review.relatedArticles.length > 0);
+  const hasRelated = relatedArticleLinks.length > 0;
 
   if (typeof stars !== 'number' && !hasConversionContent && !hasToc && !hasRelated) {
     return null;
@@ -182,7 +187,7 @@ export function ReviewSidebarContent({
       {hasToc && (
         <nav aria-label="Navegação por capítulos" className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
           <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">
-            {tocTitlesByLocale[getCouponCopyLocale(review.slug)] || 'Nesta análise'}
+            {tocTitlesByLocale[resolveReviewLocale(review.locale)] || 'Nesta análise'}
           </p>
           <ul className="space-y-1">
             {tocItems.map((item) => (
@@ -232,10 +237,10 @@ export function ReviewSidebarContent({
         <div className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
           <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">Leia também</p>
           <ul className="space-y-2">
-            {review.relatedArticles!.map((article) => (
+            {relatedArticleLinks.map((article) => (
               <li key={article.slug}>
                 <Link
-                  href={`/reviews/${article.slug}`}
+                  href={article.href}
                   className="group flex items-start gap-2 text-sm text-[#4a5568] transition-colors hover:text-[#1a4d2e]"
                 >
                   <ArrowRight size={14} className="mt-0.5 flex-shrink-0 text-[#ff6b35] transition-transform group-hover:translate-x-0.5" />
@@ -255,6 +260,7 @@ export function ReviewSidebar({
   kind,
   tocItems,
   effectiveCta,
+  relatedArticleLinks,
 }: ReviewSidebarProps): React.ReactElement | null {
   return (
     <ReviewSidebarContent
@@ -262,6 +268,7 @@ export function ReviewSidebar({
       kind={kind}
       tocItems={tocItems}
       effectiveCta={effectiveCta}
+      relatedArticleLinks={relatedArticleLinks}
     />
   );
 }

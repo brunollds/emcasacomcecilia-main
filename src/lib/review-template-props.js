@@ -1,7 +1,7 @@
 import { getReviewSlug, publishedReviews } from '@/lib/data';
 import { buildSchemaAuthors, normalizeReview } from '@/lib/content';
-import { getYesStyleLocaleConfig, findYesStyleLocaleFromSlugOrPath } from '@/lib/i18n/clusters/yesstyle';
-import { getShellCopy } from '@/lib/i18n/shellDictionary';
+import { getReviewCanonicalPathname, resolveReviewLocale } from '@/lib/content/review-i18n';
+import { getInternationalReviewShell, getShellCopy } from '@/lib/i18n/shellDictionary';
 import {
   getPrimaryLocalVideoMeta,
   getYoutubeEmbedUrl,
@@ -18,9 +18,10 @@ import {
 
 export { getYoutubeEmbedUrl };
 
-export function getRelatedReviews(review) {
-  return publishedReviews
-    .filter((item) => item.id !== review.id)
+export function getRelatedReviews(review, reviewCorpus = publishedReviews) {
+  const locale = resolveReviewLocale(review.locale);
+  return reviewCorpus
+    .filter((item) => item.id !== review.id && resolveReviewLocale(item.locale) === locale)
     .sort((a, b) => {
       const typeScore = Number(b.type === review.type) - Number(a.type === review.type);
       const productScore = Number(Boolean(b.rating) === Boolean(review.rating)) - Number(Boolean(a.rating) === Boolean(review.rating));
@@ -30,21 +31,51 @@ export function getRelatedReviews(review) {
     .slice(0, 3);
 }
 
-export function buildReviewTemplateProps(review) {
+/**
+ * @param {{ slug: string; locale?: string; relatedArticles?: Array<{ slug: string; title: string; category?: string }> }} review
+ * @param {Array<{ slug: string; locale?: string }>} reviewCorpus
+ */
+export function resolveRelatedArticleLinks(review, reviewCorpus = publishedReviews) {
+  const sourceLocale = resolveReviewLocale(review.locale);
+  return (review.relatedArticles || []).map((article) => {
+    const candidates = reviewCorpus.filter((item) => item.slug === article.slug);
+    if (candidates.length === 0) {
+      return {
+        ...article,
+        href: getReviewCanonicalPathname({ slug: article.slug, locale: sourceLocale }),
+      };
+    }
+
+    if (candidates.length === 1) {
+      return { ...article, href: getReviewCanonicalPathname(candidates[0]) };
+    }
+
+    const sameLocaleCandidates = candidates.filter((item) => resolveReviewLocale(item.locale) === sourceLocale);
+    if (sameLocaleCandidates.length !== 1) {
+      throw new Error(`relatedArticles ambíguo para "${article.slug}" em "${review.slug}"`);
+    }
+
+    return { ...article, href: getReviewCanonicalPathname(sameLocaleCandidates[0]) };
+  });
+}
+
+export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews) {
   const canonicalRating = review.rating ?? review.verdict?.stars;
   const isProductReview = review.reviewKind === 'produto' || typeof canonicalRating === 'number';
   const youtubeEmbedUrl = getYoutubeEmbedUrl(review.youtubeUrl);
-  const relatedReviews = getRelatedReviews(review);
+  const relatedReviews = getRelatedReviews(review, reviewCorpus);
+  const relatedArticleLinks = resolveRelatedArticleLinks(review, reviewCorpus);
   const viewModel = normalizeReview(review);
 
   const currentSlug = getReviewSlug(review);
-  const localeKey = review.locale || findYesStyleLocaleFromSlugOrPath(currentSlug) || 'pt';
+  const localeKey = resolveReviewLocale(review.locale);
   const isPt = localeKey === 'pt';
-  const config = getYesStyleLocaleConfig(localeKey);
+  const internationalReviewShell = getInternationalReviewShell(localeKey);
   const copy = getShellCopy(localeKey);
 
   const baseUrl = 'https://emcasacomcecilia.com';
-  const reviewUrl = `${baseUrl}/reviews/${currentSlug}`;
+  const reviewPathname = getReviewCanonicalPathname(review);
+  const reviewUrl = `${baseUrl}${reviewPathname}`;
   const youtubeVideoJsonLd = buildYoutubeVideoObject({
     url: review.youtubeUrl,
     baseUrl,
@@ -58,7 +89,7 @@ export function buildReviewTemplateProps(review) {
     : null;
   const videoJsonLd = youtubeVideoJsonLd || localVideoJsonLd;
   const videoPage = getVideoPageForYoutubeUrl(review.youtubeUrl)
-    || getVideoPageForSourcePath(`/reviews/${currentSlug}`);
+    || getVideoPageForSourcePath(reviewPathname);
   const videoPageUrl = getVideoPageUrl(videoPage);
   const productBrand = review.brand || (Array.isArray(review.productSpec) ? review.productSpec.find(
     (spec) => spec.key?.toLowerCase() === 'marca'
@@ -78,7 +109,7 @@ export function buildReviewTemplateProps(review) {
         '@context': 'https://schema.org',
         '@type': 'BreadcrumbList',
         itemListElement: [
-          { '@type': 'ListItem', position: 1, name: copy.hubLabel, item: `${baseUrl}${config.hubPath}` },
+          { '@type': 'ListItem', position: 1, name: internationalReviewShell.label, item: `${baseUrl}${internationalReviewShell.href}` },
           { '@type': 'ListItem', position: 2, name: review.title, item: reviewUrl },
         ],
       };
@@ -186,6 +217,7 @@ export function buildReviewTemplateProps(review) {
     jsonLd,
     faqJsonLd,
     relatedReviews,
+    relatedArticleLinks,
     localeKey,
   };
 }

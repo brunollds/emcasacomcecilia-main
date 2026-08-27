@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { List } from 'lucide-react';
 import { BottomSheet } from '@/components/editorial';
-import { ReviewSidebarContent } from './ReviewSidebar';
+import { ReviewSidebarContent, type ResolvedRelatedArticle } from './ReviewSidebar';
 import type { Review, ReviewKind } from '@/lib/content';
 import type { TocItem } from './ReviewTableOfContents';
 import { getCouponCopyLocale } from './couponCopyLocale';
@@ -25,6 +25,7 @@ export interface ReviewMobileBottomBarProps {
   kind?: ReviewKind;
   tocItems?: TocItem[];
   effectiveCta?: { url: string; label: string; text?: string; sponsored?: boolean } | null;
+  relatedArticleLinks?: ResolvedRelatedArticle[];
 }
 
 export function ReviewMobileBottomBar({
@@ -32,6 +33,7 @@ export function ReviewMobileBottomBar({
   kind,
   tocItems = [],
   effectiveCta,
+  relatedArticleLinks,
 }: ReviewMobileBottomBarProps): React.ReactElement | null {
   const [visible, setVisible] = useState(false);
   const [drawerOpen, setDrawerOpen] = useState(false);
@@ -86,6 +88,7 @@ export function ReviewMobileBottomBar({
             kind={kind}
             tocItems={tocItems}
             effectiveCta={effectiveCta}
+            relatedArticleLinks={relatedArticleLinks}
             onTocLinkClick={() => setDrawerOpen(false)}
             conversionPlacement="review_mobile_drawer"
           />

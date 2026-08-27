@@ -11,7 +11,10 @@ function scaffold(redirects, receitas = [], reviews = []) {
   mkdirSync(path.join(content, 'receitas'), { recursive: true });
   mkdirSync(path.join(content, 'reviews'), { recursive: true });
   writeFileSync(path.join(content, 'receitas', '_manifest.json'), JSON.stringify(receitas));
-  writeFileSync(path.join(content, 'reviews', '_manifest.json'), JSON.stringify(reviews));
+  writeFileSync(path.join(content, 'reviews', '_manifest.json'), JSON.stringify([]));
+  reviews.forEach((review, index) => {
+    writeFileSync(path.join(content, 'reviews', `${review.slug || index}.json`), JSON.stringify(review));
+  });
   const rp = path.join(root, 'redirects.json');
   writeFileSync(rp, JSON.stringify(redirects));
   return { root, rp, content };
@@ -44,6 +47,32 @@ test('source que está no manifesto ativo lança', () => {
   );
   try {
     assert.throws(() => validateRedirectsFromDisk(rp, content), /conteúdo ativo/);
+  } finally {
+    rmSync(root, { recursive: true, force: true });
+  }
+});
+
+test('review internacional ativo usa o pathname prefixado', () => {
+  const { root, rp, content } = scaffold(
+    [{ source: '/reviews/a', destination: '/en/reviews/a', permanent: true }],
+    [],
+    [{ slug: 'a', locale: 'en' }]
+  );
+  try {
+    assert.doesNotThrow(() => validateRedirectsFromDisk(rp, content));
+  } finally {
+    rmSync(root, { recursive: true, force: true });
+  }
+});
+
+test('review com locale inválido falha antes de validar redirects', () => {
+  const { root, rp, content } = scaffold(
+    [{ source: '/reviews/bad', destination: '/en/reviews/bad', permanent: true }],
+    [],
+    [{ slug: 'bad', locale: 'xx' }]
+  );
+  try {
+    assert.throws(() => validateRedirectsFromDisk(rp, content), /locale inválido para review: "xx"/);
   } finally {
     rmSync(root, { recursive: true, force: true });
   }

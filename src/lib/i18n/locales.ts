@@ -21,17 +21,7 @@ export const LOCALES: Record<Locale, LocaleConfig> = {
   'zh-hans': { locale: 'zh-hans', htmlLang: 'zh-Hans', hreflang: 'zh-Hans', openGraphLocale: 'zh_CN', label: '简体中文', flag: '🇨🇳' },
 };
 
-export const LOCALE_KEYS: Locale[] = [
-  'pt',
-  'en',
-  'es',
-  'fr',
-  'de',
-  'ko',
-  'ja',
-  'zh-hant',
-  'zh-hans',
-];
+export const LOCALE_KEYS: Locale[] = [...RUNTIME_LOCALE_KEYS] as Locale[];
 
 export function getLocaleConfig(localeStr: string): LocaleConfig {
   const config = LOCALES[localeStr as Locale];
@@ -44,3 +34,4 @@ export function getLocaleConfig(localeStr: string): LocaleConfig {
 export function findLocaleByHtmlLang(htmlLang: string): Locale | null {
   return Object.values(LOCALES).find((config) => config.htmlLang === htmlLang)?.locale ?? null;
 }
+import { LOCALE_KEYS as RUNTIME_LOCALE_KEYS } from './locale-keys.mjs';

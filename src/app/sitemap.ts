@@ -1,5 +1,6 @@
 import type { MetadataRoute } from 'next';
-import { recipes, publishedReviews, getReviewSlug } from '@/lib/data';
+import { recipes, publishedReviews } from '@/lib/data';
+import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { getActiveCoupons } from '@/lib/couponsData';
 import { YESSTYLE_LOCALES } from '@/lib/i18n/clusters/yesstyle';
 import { getLatestYesStyleVerifiedAtISO } from '@/lib/yesstyleCoupons';
@@ -30,7 +31,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const reviewRoutes: MetadataRoute.Sitemap = publishedReviews
     .filter((review) => !review.hideFromListings)
     .map((review) => ({
-      url: `${BASE_URL}/reviews/${getReviewSlug(review)}`,
+      url: `${BASE_URL}${getReviewCanonicalPathname(review)}`,
       priority: 0.6,
       changeFrequency: 'monthly' as const,
       lastModified: review.publishedAtISO,

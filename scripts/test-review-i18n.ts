@@ -2,8 +2,9 @@ import assert from 'node:assert/strict';
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
 
-import { groupReviewsByTranslationKey, detectDuplicateTranslationLocalePairs, getReviewTranslationsByLocale, isValidTranslationKey, resolveReviewLocale } from '@/lib/content';
+import { detectDuplicateReviewPathnames, getReviewDefaultTranslationPathname, groupReviewsByTranslationKey, detectDuplicateTranslationLocalePairs, getReviewTranslationsByLocale, isValidTranslationKey, resolveReviewLocale } from '@/lib/content';
 import { LOCALE_KEYS } from '@/lib/i18n/locales';
+import { resolveRelatedArticleLinks } from '@/lib/review-template-props';
 
 interface ReviewSource {
   slug: string;
@@ -91,6 +92,67 @@ async function loadReviewCorpus(): Promise<ReviewSource[]> {
   const legacyPtReview = reviews.find((review) => !review.locale && !review.translationKey);
   assert.ok(legacyPtReview, 'pelo menos um review legado deve continuar sem locale');
   assert.equal(resolveReviewLocale(legacyPtReview.locale), 'pt');
+
+  assert.equal(
+    getReviewDefaultTranslationPathname({ pt: '/reviews/a', es: '/es/reviews/a' }),
+    '/reviews/a',
+    'x-default usa pt quando en está ausente'
+  );
+  assert.equal(
+    getReviewDefaultTranslationPathname({ fr: '/fr/reviews/a', ja: '/ja/reviews/a' }),
+    '/fr/reviews/a',
+    'x-default usa o primeiro locale configurado quando en e pt estão ausentes'
+  );
+
+  assert.deepEqual(
+    detectDuplicateReviewPathnames([
+      { slug: 'shared', locale: 'en' },
+      { slug: 'shared', locale: 'es' },
+    ]),
+    [],
+    'mesmo slug em en/es é aceito por ter pathnames distintos'
+  );
+  assert.deepEqual(
+    detectDuplicateReviewPathnames([
+      { slug: 'shared', locale: 'en' },
+      { slug: 'shared', locale: 'en' },
+    ]),
+    [{ pathname: '/en/reviews/shared', slugs: ['shared', 'shared'] }],
+    'mesmo slug no mesmo locale é rejeitado com pathname canônico nomeado'
+  );
+
+  assert.deepEqual(
+    resolveRelatedArticleLinks(
+      { slug: 'source-pt', relatedArticles: [{ slug: 'future-review', title: 'Futuro' }] },
+      []
+    ),
+    [{ slug: 'future-review', title: 'Futuro', href: '/reviews/future-review' }],
+    'referência futura PT preserva pathname previsto'
+  );
+  assert.deepEqual(
+    resolveRelatedArticleLinks(
+      { slug: 'source-en', locale: 'en', relatedArticles: [{ slug: 'existing', title: 'Existente' }] },
+      [{ slug: 'existing', locale: 'es' }]
+    ),
+    [{ slug: 'existing', title: 'Existente', href: '/es/reviews/existing' }],
+    'candidato único usa o pathname canônico real'
+  );
+  assert.deepEqual(
+    resolveRelatedArticleLinks(
+      { slug: 'source-en', locale: 'en', relatedArticles: [{ slug: 'shared', title: 'Compartilhado' }] },
+      [{ slug: 'shared', locale: 'es' }, { slug: 'shared', locale: 'en' }]
+    ),
+    [{ slug: 'shared', title: 'Compartilhado', href: '/en/reviews/shared' }],
+    'múltiplos candidatos preferem o locale de origem'
+  );
+  assert.throws(
+    () => resolveRelatedArticleLinks(
+      { slug: 'source-en', locale: 'en', relatedArticles: [{ slug: 'ambiguous', title: 'Ambíguo' }] },
+      [{ slug: 'ambiguous', locale: 'es' }, { slug: 'ambiguous', locale: 'fr' }]
+    ),
+    /relatedArticles ambíguo/,
+    'múltiplos candidatos sem locale de origem falham'
+  );
 
   for (const review of reviews) {
     assert.doesNotThrow(

@@ -1,4 +1,5 @@
-import { recipes, publishedReviews, getReviewSlug } from '@/lib/data';
+import { recipes, publishedReviews } from '@/lib/data';
+import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { getActiveCoupons } from '@/lib/couponsData';
 import { yesStyleLocales } from '@/components/YesStyleCouponPage';
 import { videoPages } from '@/lib/video-pages';
@@ -80,7 +81,7 @@ function buildLlmsText(): string {
     ...recentReviews.map((review) =>
       formatLink(
         review.title,
-        `${BASE_URL}/reviews/${getReviewSlug(review)}`,
+        `${BASE_URL}${getReviewCanonicalPathname(review)}`,
         review.description
       )
     ),
