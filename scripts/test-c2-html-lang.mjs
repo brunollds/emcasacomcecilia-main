@@ -8,7 +8,7 @@ const localesModule = await import('../src/lib/i18n/locales.ts');
 const YESSTYLE_LOCALES = clusterModule.YESSTYLE_LOCALES;
 const { publishedReviews, getReviewSlug } = dataModule;
 const { getReviewCanonicalPathname, resolveReviewLocale } = reviewI18nModule;
-const { LOCALES } = localesModule;
+const { LOCALES, LOCALE_KEYS } = localesModule;
 
 const checks = [
   { url: '/', file: '.next/server/app/index.html', expectedLang: 'pt-BR' },
@@ -26,6 +26,16 @@ for (const config of Object.values(YESSTYLE_LOCALES)) {
     expectedLang: config.htmlLang,
   });
 
+}
+
+for (const locale of LOCALE_KEYS) {
+  if (locale === 'pt') continue;
+
+  checks.push({
+    url: `/${locale}/reviews`,
+    file: `.next/server/app/${locale}/reviews.html`,
+    expectedLang: LOCALES[locale].htmlLang,
+  });
 }
 
 for (const review of publishedReviews) {

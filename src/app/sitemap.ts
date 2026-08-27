@@ -3,6 +3,7 @@ import { recipes, publishedReviews } from '@/lib/data';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { getActiveCoupons } from '@/lib/couponsData';
 import { YESSTYLE_LOCALES } from '@/lib/i18n/clusters/yesstyle';
+import { REVIEW_HUB_LOCALES, getReviewHubPath } from '@/lib/review-hubs';
 import { getLatestYesStyleVerifiedAtISO } from '@/lib/yesstyleCoupons';
 import { isoDurationToSeconds, videoPages } from '@/lib/video-pages';
 
@@ -83,6 +84,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: latestYesStyleDate,
     }));
 
+  const internationalReviewHubs: MetadataRoute.Sitemap = REVIEW_HUB_LOCALES.map((locale) => ({
+    url: `${BASE_URL}${getReviewHubPath(locale)}`,
+    priority: 0.7,
+    changeFrequency: 'weekly' as const,
+  }));
+
   return [
     ...staticRoutes,
     ...recipeRoutes,
@@ -90,5 +97,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...videoRoutes,
     ...couponRoutes,
     ...internationalYesStyleHubs,
+    ...internationalReviewHubs,
   ];
 }

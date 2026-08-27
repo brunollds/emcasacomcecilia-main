@@ -19,7 +19,8 @@ import { isStepHeading, type CouponCopyLocale } from './couponCopyLocale';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 import { getReviewCanonicalPathname, resolveReviewLocale } from '@/lib/content/review-i18n';
 import type { Locale } from '@/lib/i18n/locales';
-import { getInternationalReviewShell, getShellCopy } from '@/lib/i18n/shellDictionary';
+import { getShellCopy } from '@/lib/i18n/shellDictionary';
+import { getInternationalReviewHub } from '@/lib/review-hubs';
 import { GuideTimeline } from './GuideTimeline';
 import { PullQuote } from './PullQuote';
 import { ReviewHighlightChips } from './ReviewHighlightChips';
@@ -203,7 +204,9 @@ export function ReviewNotebookTemplate({
   languageLinks,
 }: ReviewNotebookTemplateProps): React.ReactElement {
   const couponCopyLocale = resolveReviewLocale(review.locale);
-  const internationalReviewShell = getInternationalReviewShell(couponCopyLocale);
+  const internationalReviewHub = couponCopyLocale === 'pt'
+    ? null
+    : getInternationalReviewHub(couponCopyLocale);
   const ui = templateUiLabels[couponCopyLocale] || templateUiLabels.pt;
 
   const { kind, plainTextBody } = viewModel;
@@ -311,8 +314,8 @@ export function ReviewNotebookTemplate({
                   ) : (
                     <>
                       <li>
-                        <Link href={internationalReviewShell.href} className="transition-colors hover:text-[#1a4d2e]">
-                          {internationalReviewShell.label}
+                        <Link href={internationalReviewHub?.href ?? '/reviews'} className="transition-colors hover:text-[#1a4d2e]">
+                          {internationalReviewHub?.label}
                         </Link>
                       </li>
                       <li aria-hidden="true"><ChevronRight size={14} /></li>
@@ -728,7 +731,7 @@ export function ReviewNotebookTemplate({
                   {ui.relatedArticles}
                 </SectionHeadingReveal>
                 <Link
-                  href={couponCopyLocale === 'pt' ? '/reviews' : internationalReviewShell.href}
+                  href={internationalReviewHub?.href ?? '/reviews'}
                   className="hidden items-center gap-2 text-sm font-bold text-[#1a4d2e] transition-colors hover:text-[#ff6b35] md:inline-flex"
                 >
                   {ui.viewAll}

@@ -170,12 +170,6 @@ export function getShellCopy(localeStr: string): ShellCopy {
   return SHELL_DICTIONARY[loc];
 }
 
-export function getInternationalReviewShell(localeStr: string) {
-  const loc = (localeStr in SHELL_DICTIONARY ? localeStr : 'pt') as Locale;
-  const config = getYesStyleLocaleConfig(loc);
-  return { href: config.hubPath, label: SHELL_DICTIONARY[loc].hubLabel };
-}
-
 export function getShellNavLinks(localeStr: string) {
   const loc = (localeStr in SHELL_DICTIONARY ? localeStr : 'pt') as Locale;
   const config = getYesStyleLocaleConfig(loc);

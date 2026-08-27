@@ -1,7 +1,8 @@
 import { getReviewSlug, publishedReviews } from '@/lib/data';
 import { buildSchemaAuthors, normalizeReview } from '@/lib/content';
 import { getReviewCanonicalPathname, resolveReviewLocale } from '@/lib/content/review-i18n';
-import { getInternationalReviewShell, getShellCopy } from '@/lib/i18n/shellDictionary';
+import { getShellCopy } from '@/lib/i18n/shellDictionary';
+import { getInternationalReviewHub } from '@/lib/review-hubs';
 import {
   getPrimaryLocalVideoMeta,
   getYoutubeEmbedUrl,
@@ -70,7 +71,7 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
   const currentSlug = getReviewSlug(review);
   const localeKey = resolveReviewLocale(review.locale);
   const isPt = localeKey === 'pt';
-  const internationalReviewShell = getInternationalReviewShell(localeKey);
+  const internationalReviewHub = isPt ? null : getInternationalReviewHub(localeKey);
   const copy = getShellCopy(localeKey);
 
   const baseUrl = 'https://emcasacomcecilia.com';
@@ -109,7 +110,7 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
         '@context': 'https://schema.org',
         '@type': 'BreadcrumbList',
         itemListElement: [
-          { '@type': 'ListItem', position: 1, name: internationalReviewShell.label, item: `${baseUrl}${internationalReviewShell.href}` },
+          { '@type': 'ListItem', position: 1, name: internationalReviewHub.label, item: `${baseUrl}${internationalReviewHub.href}` },
           { '@type': 'ListItem', position: 2, name: review.title, item: reviewUrl },
         ],
       };
