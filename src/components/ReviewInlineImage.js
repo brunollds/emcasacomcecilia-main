@@ -122,6 +122,8 @@ function InlineImageThumbnail({ image, index, onOpen, sizes, normalizeCarousel =
     <figure
       ref={ref}
       className={`w-full overflow-hidden rounded-[1.25rem] bg-white shadow-sm ${
+        isSquare && !normalizeCarousel ? 'mx-auto max-w-[520px] ' : ''
+      }${
         pendingReveal ? 'inline-image-reveal-pending' : 'inline-image-reveal-ready'
       }`}
     >

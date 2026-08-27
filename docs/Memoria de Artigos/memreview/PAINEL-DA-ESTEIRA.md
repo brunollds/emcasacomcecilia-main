@@ -33,6 +33,7 @@
 
 ## 5. Publicados / Prontos para Deploy (`status: pronto-para-deploy`)
 *Validados nos gates, gerados no build e aguardando deploy.*
+- [x] [[melatonina-gummy-iws-para-que-serve-como-tomar]] — IWS (Build OK: 309 páginas geradas) 🚀
 - [x] [[sofa-modular-ou-retratil-qual-escolher]] — DAMIE (Build OK: 308 páginas geradas) 🚀
 - [x] [[dolce-gusto-genio-s-basic-vs-plus-vs-touch]] — Dolce Gusto (Build OK: 308 páginas geradas) 🚀
 - [x] [[nutren-just-protein-para-que-serve]] — Nestlé Nutre (Build OK: 297 páginas geradas) 🚀
