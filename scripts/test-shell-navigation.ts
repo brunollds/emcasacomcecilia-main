@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import { LOCALE_KEYS } from '@/lib/i18n/locales';
+import { LOCALES, LOCALE_KEYS } from '@/lib/i18n/locales';
 import { getReviewHubPath } from '@/lib/review-hubs';
 import {
   getShellCommercialLinks,
@@ -7,6 +7,11 @@ import {
   getShellLanguageHubHref,
   getShellNavLinks,
 } from '@/lib/i18n/shellDictionary';
+assert.deepEqual(
+  LOCALE_KEYS.map((locale) => LOCALES[locale].shortLabel),
+  ['BR', 'US', 'ES', 'FR', 'DE', 'KR', 'JP', 'HK', 'CN'],
+);
+assert.equal(new Set(LOCALE_KEYS.map((locale) => LOCALES[locale].shortLabel)).size, LOCALE_KEYS.length);
 
 for (const locale of LOCALE_KEYS) {
   const navLinks = getShellNavLinks(locale);
