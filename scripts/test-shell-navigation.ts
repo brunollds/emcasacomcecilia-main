@@ -27,12 +27,11 @@ for (const locale of LOCALE_KEYS) {
   assert.equal(getShellLanguageHubHref(locale), hubPath);
 
   const yesStyle = commercialLinks.find((link) => link.id === 'yesstyle');
-  assert.ok(yesStyle?.available);
   assert.ok(yesStyle.href);
 
   const shein = commercialLinks.find((link) => link.id === 'shein');
-  assert.equal(shein?.available, false);
-  assert.equal('href' in (shein ?? {}), false);
+  assert.equal(shein.href, '/cupons/shein');
+  assert.equal(shein.hrefLang, 'pt-BR');
 }
 
 console.log(`✅ shell navigation: ${LOCALE_KEYS.length} locales passaram`);

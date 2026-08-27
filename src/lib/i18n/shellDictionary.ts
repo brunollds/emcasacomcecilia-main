@@ -14,13 +14,13 @@ export type ShellCommercialLink =
       id: 'yesstyle';
       href: string;
       label: string;
-      available: true;
+      hrefLang?: never;
     }
   | {
       id: 'shein';
+      href: string;
+      hrefLang: 'pt-BR';
       label: string;
-      available: false;
-      href?: never;
     };
 
 export interface ShellCopy {
@@ -243,13 +243,13 @@ export function getShellCommercialLinks(localeStr: string): ShellCommercialLink[
       id: 'yesstyle',
       href: getYesStyleLocaleConfig(loc).hubPath,
       label: copy.hubLabel,
-      available: true,
     },
     {
       id: 'shein',
+      href: '/cupons/shein',
+      hrefLang: 'pt-BR',
       label: copy.sheinCouponsLabel,
-      // Não há hub SHEIN localizado publicado ainda; manter fora da renderização evita um link 404.
-      available: false,
+      // A campanha SHEIN está disponível apenas em PT-BR; o atributo declara o fallback ao leitor.
     },
   ];
 }

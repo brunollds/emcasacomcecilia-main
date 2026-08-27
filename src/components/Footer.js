@@ -93,8 +93,8 @@ export default function Footer({ lang = 'pt-BR' }) {
                 {link.label}
               </Link>
             ))}
-            {commercialLinks.filter((link) => link.available).map((link) => (
-              <Link key={link.id} href={link.href} className="transition-colors hover:text-[#ff6b35]">
+            {commercialLinks.map((link) => (
+              <Link key={link.id} href={link.href} hrefLang={link.hrefLang} className="transition-colors hover:text-[#ff6b35]">
                 {link.label}
               </Link>
             ))}
