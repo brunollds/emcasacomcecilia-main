@@ -6,6 +6,7 @@
 // Uso: node scripts/content/build-index.mjs
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
+import { createSearchIndex } from '../../src/lib/siteSearch.mjs';
 
 function loadOrdered(dir) {
   const manifest = JSON.parse(readFileSync(path.join(dir, '_manifest.json'), 'utf8'));
@@ -36,34 +37,10 @@ console.log(`ok content-index.ts (${recipes.length} receitas, ${reviews.length} 
 
 // Índice slim de busca para o header (carregado sob demanda no cliente).
 // `terms` já vem em minúsculas e concatenado para o filtro ser um includes() barato.
-const searchIndex = recipes.map((r) => {
-  const categorias = [
-    ...(r.categories || []),
-    r.primaryCategory,
-    ...(r.subCategory || []),
-    ...(r.mealTime || []),
-    ...(r.cuisine || []),
-    ...(r.method || []),
-    ...(r.collections || []),
-  ].filter(Boolean);
-
-  const terms = [r.title, r.description, ...categorias, ...(r.searchTerms || []), ...(r.tags || []), r.difficulty]
-    .filter(Boolean)
-    .join(' ')
-    .toLowerCase();
-
-  return {
-    id: r.id,
-    slug: r.slug,
-    title: r.title,
-    description: r.description,
-    category: r.primaryCategory || r.categories?.[0] || 'Geral',
-    difficulty: r.difficulty,
-    totalTime: r.totalTime,
-    terms,
-  };
-});
+const searchIndex = createSearchIndex({ recipes, reviews });
+const recipeCount = searchIndex.filter(({ contentType }) => contentType === 'recipe').length;
+const reviewCount = searchIndex.length - recipeCount;
 
 mkdirSync('public', { recursive: true });
 writeFileSync(path.join('public', 'search-index.json'), JSON.stringify(searchIndex));
-console.log(`ok public/search-index.json (${searchIndex.length} receitas)`);
+console.log(`ok public/search-index.json (${recipeCount} receitas, ${reviewCount} guias e análises)`);

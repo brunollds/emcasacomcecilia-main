@@ -6,6 +6,7 @@ import Footer from '@/components/Footer';
 import Analytics from '@/components/Analytics';
 import { getShellCopy } from '@/lib/i18n/shellDictionary';
 import { LOCALES, findLocaleByHtmlLang, type Locale } from '@/lib/i18n/locales';
+import { SEARCH_ACTION_URL_TEMPLATE } from '@/lib/siteSearch.mjs';
 
 const montserrat = Montserrat({
   variable: '--font-montserrat',
@@ -128,7 +129,7 @@ export function RootLayoutShell({
           '@type': 'SearchAction',
           target: {
             '@type': 'EntryPoint',
-            urlTemplate: 'https://emcasacomcecilia.com/receitas?q={search_term_string}',
+            urlTemplate: SEARCH_ACTION_URL_TEMPLATE,
           },
           'query-input': 'required name=search_term_string',
         }

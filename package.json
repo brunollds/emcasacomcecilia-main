@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "node scripts/content/build-index.mjs && node scripts/content/validate-yesstyle-coupons.mjs && tsx scripts/test-review-discovery.ts && tsx scripts/test-review-i18n.ts && tsx scripts/test-review-hubs.ts && tsx scripts/test-home-curation.ts && tsx scripts/validate-video-schema.ts && tsx scripts/test-internal-links.ts && tsx scripts/test-coupon-offer-modes.ts && tsx scripts/test-analytics-gate.ts && node scripts/test-image-hosts.mjs && tsx scripts/test-home-route-tracking.ts && tsx scripts/test-shell-navigation.ts && next build && tsx scripts/test-c2-html-lang.mjs",
+    "build": "node scripts/content/build-index.mjs && node scripts/test-site-search.mjs && node scripts/content/validate-yesstyle-coupons.mjs && tsx scripts/test-review-discovery.ts && tsx scripts/test-review-i18n.ts && tsx scripts/test-review-hubs.ts && tsx scripts/test-home-curation.ts && tsx scripts/validate-video-schema.ts && tsx scripts/test-internal-links.ts && tsx scripts/test-coupon-offer-modes.ts && tsx scripts/test-analytics-gate.ts && node scripts/test-image-hosts.mjs && tsx scripts/test-home-route-tracking.ts && tsx scripts/test-shell-navigation.ts && next build && tsx scripts/test-c2-html-lang.mjs",
     "start": "next start -p ${PORT:-3000}",
     "lint": "eslint",
     "typecheck": "tsc --noEmit",
@@ -32,6 +32,7 @@
     "test:image-hosts": "node scripts/test-image-hosts.mjs",
     "test:home-route-tracking": "tsx scripts/test-home-route-tracking.ts",
     "test:shell-navigation": "tsx scripts/test-shell-navigation.ts",
+    "test:site-search": "node scripts/test-site-search.mjs",
     "test:review-i18n": "tsx scripts/test-review-i18n.ts",
     "test:review-hubs": "tsx scripts/test-review-hubs.ts",
     "test:review-discovery": "tsx scripts/test-review-discovery.ts",

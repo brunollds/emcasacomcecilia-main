@@ -1,3 +1,7 @@
+import { isListedInPortuguese } from './reviewVisibility.mjs';
+
+export { isListedInPortuguese };
+
 export const REVIEW_CATEGORIES = [
   { value: 'guias-praticos-utilidade', label: 'Guias práticos & utilidade' },
   { value: 'produtos-experiencias', label: 'Produtos & experiências' },
@@ -66,19 +70,6 @@ export function parseReviewCategory(
   value: string | null | undefined
 ): ReviewCategory | null {
   return isReviewCategory(value) ? value : null;
-}
-
-export function isListedInPortuguese(
-  review: Pick<
-    ReviewDiscoveryItem,
-    'draft' | 'hideFromListings' | 'hideFromPortugueseListings'
-  >
-): boolean {
-  return (
-    !review.draft &&
-    !review.hideFromListings &&
-    !review.hideFromPortugueseListings
-  );
 }
 
 export function isValidReviewPublishedAtISO(value: unknown): value is string {

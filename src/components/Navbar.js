@@ -213,7 +213,7 @@ export default function Navbar({ lang = 'pt-BR' }) {
             )}
             {isPt && (
               <div className="pt-4">
-                <OmniSearch placeholder="Buscar receitas" />
+                <OmniSearch placeholder="Buscar receitas e guias" />
               </div>
             )}
             <div className="pt-4">

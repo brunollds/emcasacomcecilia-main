@@ -3,6 +3,11 @@
 import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { Search, X, ArrowRight } from 'lucide-react';
+import {
+  SITE_SEARCH_PATH,
+  getRankedSearchResults,
+  getSearchContentTypeLabel,
+} from '@/lib/siteSearch.mjs';
 
 // Índice slim gerado no build (scripts/content/build-index.mjs -> public/search-index.json).
 // Carregado sob demanda no 1º foco; a promise fica em cache no módulo para que as
@@ -38,20 +43,7 @@ function escapeRegExp(value) {
   return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
-function getRankedResults(index, lowerQuery) {
-  if (!lowerQuery || !index?.length) return [];
-
-  const filtered = index.filter((receita) => receita.terms.includes(lowerQuery));
-  return [...filtered].sort((a, b) => {
-    const aTitle = a.title.toLowerCase().includes(lowerQuery);
-    const bTitle = b.title.toLowerCase().includes(lowerQuery);
-    if (aTitle && !bTitle) return -1;
-    if (!aTitle && bTitle) return 1;
-    return 0;
-  });
-}
-
-export default function OmniSearch({ placeholder = 'Buscar receitas...' }) {
+export default function OmniSearch({ placeholder = 'Buscar receitas e guias...' }) {
   const [query, setQuery] = useState('');
   const [index, setIndex] = useState(null);
   const [results, setResults] = useState([]);
@@ -79,8 +71,7 @@ export default function OmniSearch({ placeholder = 'Buscar receitas...' }) {
     if (!lowerQuery || !index) return undefined; // vazio ou índice ainda carregando
 
     const timer = setTimeout(() => {
-      const sorted = getRankedResults(index, lowerQuery);
-      setResults(sorted.slice(0, 8));
+      setResults(getRankedSearchResults(index, lowerQuery, 8));
       setIsOpen(true);
       setSelectedIndex(-1);
     }, 200);
@@ -112,20 +103,20 @@ export default function OmniSearch({ placeholder = 'Buscar receitas...' }) {
       case 'Enter':
         e.preventDefault();
         if (selectedIndex >= 0 && results[selectedIndex] && isOpen) {
-          window.location.href = `/receitas/${results[selectedIndex].slug}`;
+          window.location.href = results[selectedIndex].href;
           break;
         }
 
         if (query.trim() && index?.length) {
-          const immediateResults = getRankedResults(index, query.trim().toLowerCase());
+          const immediateResults = getRankedSearchResults(index, query);
           if (immediateResults.length > 0) {
-            window.location.href = `/receitas/${immediateResults[0].slug}`;
+            window.location.href = immediateResults[0].href;
             break;
           }
         }
 
         if (query.trim()) {
-          window.location.href = `/receitas?q=${encodeURIComponent(query.trim())}`;
+          window.location.href = `${SITE_SEARCH_PATH}?q=${encodeURIComponent(query.trim())}`;
         }
         break;
       case 'Escape':
@@ -179,7 +170,7 @@ export default function OmniSearch({ placeholder = 'Buscar receitas...' }) {
           onKeyDown={handleKeyDown}
           onFocus={handleFocus}
           placeholder={placeholder}
-          aria-label="Buscar receitas"
+          aria-label="Buscar no site"
           className="w-full rounded-full border border-white/20 bg-white/10 py-2.5 pl-10 pr-9 text-sm text-white placeholder-white/50 transition-all focus:border-white/40 focus:bg-white/20 focus:outline-none"
         />
         {query && (
@@ -197,13 +188,13 @@ export default function OmniSearch({ placeholder = 'Buscar receitas...' }) {
       {isOpen && results.length > 0 && (
         <div className="absolute z-[60] mt-2 w-full overflow-hidden rounded-2xl border border-gray-200 bg-white text-left shadow-2xl">
           <p className="border-b border-gray-100 bg-gray-50 px-4 py-2 text-xs font-semibold text-gray-500">
-            {results.length} {results.length === 1 ? 'receita encontrada' : 'receitas encontradas'}
+            {results.length} {results.length === 1 ? 'resultado encontrado' : 'resultados encontrados'}
           </p>
           <ul className="max-h-[70vh] overflow-y-auto">
-            {results.map((receita, i) => (
-              <li key={receita.id ?? receita.slug}>
+            {results.map((result, i) => (
+              <li key={`${result.contentType}:${result.id}`}>
                 <Link
-                  href={`/receitas/${receita.slug}`}
+                  href={result.href}
                   onClick={clearQuery}
                   className={`flex items-center gap-3 border-b border-gray-100 px-4 py-2.5 transition-colors last:border-0 hover:bg-[#fef9f3] ${
                     i === selectedIndex ? 'bg-[#ffd700]/15' : ''
@@ -211,10 +202,15 @@ export default function OmniSearch({ placeholder = 'Buscar receitas...' }) {
                 >
                   <div className="min-w-0 flex-1">
                     <p className="truncate text-sm font-semibold text-[#1a4d2e]">
-                      {highlightMatch(receita.title, query)}
+                      {highlightMatch(result.title, query)}
                     </p>
                     <p className="truncate text-xs text-gray-500">
-                      {[receita.category, receita.totalTime, receita.difficulty].filter(Boolean).join(' · ')}
+                      {[
+                        getSearchContentTypeLabel(result.contentType),
+                        result.category,
+                        result.totalTime,
+                        result.difficulty,
+                      ].filter(Boolean).join(' · ')}
                     </p>
                   </div>
                   <ArrowRight className="h-4 w-4 flex-shrink-0 text-gray-300" />
@@ -223,24 +219,20 @@ export default function OmniSearch({ placeholder = 'Buscar receitas...' }) {
             ))}
           </ul>
           <Link
-            href={`/receitas?q=${encodeURIComponent(query.trim())}`}
+            href={`${SITE_SEARCH_PATH}?q=${encodeURIComponent(query.trim())}`}
             onClick={clearQuery}
             className="block bg-[#1a4d2e] px-4 py-2.5 text-center text-sm font-semibold text-white transition-colors hover:bg-[#ff6b35]"
           >
-            Ver todas as receitas
+            Ver todos os resultados
           </Link>
         </div>
       )}
 
       {isOpen && query.trim() && index && results.length === 0 && (
         <div className="absolute z-[60] mt-2 w-full rounded-2xl border border-gray-200 bg-white p-5 text-center shadow-2xl">
-          <p className="text-sm font-semibold text-[#1a4d2e]">Nenhuma receita encontrada</p>
+          <p className="text-sm font-semibold text-[#1a4d2e]">Nenhum resultado encontrado</p>
           <p className="mt-1 text-xs text-gray-500">
-            Nada para &quot;{query.trim()}&quot;. Tente outro termo ou{' '}
-            <Link href="/contato" onClick={clearQuery} className="font-semibold text-[#ff6b35] hover:underline">
-              sugira esta receita
-            </Link>
-            .
+            Nada para &quot;{query.trim()}&quot;. Tente outro termo.
           </p>
         </div>
       )}
