@@ -29489,7 +29489,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "editorialNote": "Este artigo contém links de afiliado. Ao acessar a YesStyle pelos nossos links ou usar o código de influenciadora CECILIA010, podemos receber uma comissão, sem custo adicional para você.",
-    "locale": "pt"
+    "locale": "pt",
+    "translationKey": "yesstyle-reward-code"
   },
   {
     "id": 234,
@@ -29707,7 +29708,8 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "locale": "pt"
+    "locale": "pt",
+    "translationKey": "yesstyle-coupon-guide"
   },
   {
     "id": 21,
@@ -29953,7 +29955,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "editorialNote": "This article contains affiliate links. If you visit YesStyle through our links or use the influencer code CECILIA010, we may earn a commission at no extra cost to you.",
-    "locale": "en"
+    "locale": "en",
+    "translationKey": "yesstyle-reward-code"
   },
   {
     "id": 22,
@@ -30199,7 +30202,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "editorialNote": "Este artículo contiene enlaces de afiliado. Si accedes a YesStyle mediante nuestros enlaces o usas el código de influencer CECILIA010, podemos recibir una comisión sin coste adicional para ti.",
-    "locale": "es"
+    "locale": "es",
+    "translationKey": "yesstyle-reward-code"
   },
   {
     "id": 23,
@@ -30446,7 +30450,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "editorialNote": "Cet article contient des liens affiliés. Si vous accédez à YesStyle via nos liens ou utilisez le code influenceur CECILIA010, nous pouvons recevoir une commission sans frais supplémentaires pour vous.",
-    "locale": "fr"
+    "locale": "fr",
+    "translationKey": "yesstyle-reward-code"
   },
   {
     "id": 24,
@@ -30692,7 +30697,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "editorialNote": "Dieser Artikel enthält Affiliate-Links. Wenn du YesStyle über unsere Links besuchst oder den Influencer-Code CECILIA010 verwendest, können wir eine Provision erhalten, ohne dass dir zusätzliche Kosten entstehen.",
-    "locale": "de"
+    "locale": "de",
+    "translationKey": "yesstyle-reward-code"
   },
   {
     "id": 40,
@@ -30774,7 +30780,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "hideFromPortugueseListings": true,
-    "locale": "ko"
+    "locale": "ko",
+    "translationKey": "yesstyle-reward-code"
   },
   {
     "id": 41,
@@ -30855,7 +30862,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "hideFromPortugueseListings": true,
-    "locale": "ja"
+    "locale": "ja",
+    "translationKey": "yesstyle-reward-code"
   },
   {
     "id": 42,
@@ -30936,7 +30944,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "hideFromPortugueseListings": true,
-    "locale": "zh-hant"
+    "locale": "zh-hant",
+    "translationKey": "yesstyle-reward-code"
   },
   {
     "id": 43,
@@ -31017,7 +31026,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "hideFromPortugueseListings": true,
-    "locale": "zh-hans"
+    "locale": "zh-hans",
+    "translationKey": "yesstyle-reward-code"
   },
   {
     "id": 19,
@@ -35503,7 +35513,8 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "locale": "en"
+    "locale": "en",
+    "translationKey": "yesstyle-coupon-guide"
   },
   {
     "id": 236,
@@ -35714,7 +35725,8 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "locale": "es"
+    "locale": "es",
+    "translationKey": "yesstyle-coupon-guide"
   },
   {
     "id": 237,
@@ -35925,7 +35937,8 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "locale": "fr"
+    "locale": "fr",
+    "translationKey": "yesstyle-coupon-guide"
   },
   {
     "id": 238,
@@ -36136,7 +36149,8 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "locale": "de"
+    "locale": "de",
+    "translationKey": "yesstyle-coupon-guide"
   },
   {
     "id": 239,
@@ -36347,7 +36361,8 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "locale": "ko"
+    "locale": "ko",
+    "translationKey": "yesstyle-coupon-guide"
   },
   {
     "id": 240,
@@ -36558,7 +36573,8 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "locale": "ja"
+    "locale": "ja",
+    "translationKey": "yesstyle-coupon-guide"
   },
   {
     "id": 241,
@@ -36769,7 +36785,8 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "locale": "zh-hant"
+    "locale": "zh-hant",
+    "translationKey": "yesstyle-coupon-guide"
   },
   {
     "id": 242,
@@ -36980,7 +36997,8 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "locale": "zh-hans"
+    "locale": "zh-hans",
+    "translationKey": "yesstyle-coupon-guide"
   },
   {
     "id": 243,
@@ -37292,7 +37310,8 @@ export const reviewsData: unknown[] = [
     ],
     "locale": "pt",
     "image": "/images/reviews/cupons/yesstyle-logo-purple-hero.webp",
-    "imageAlt": "Produtos de K-Beauty e promoções na plataforma YesStyle"
+    "imageAlt": "Produtos de K-Beauty e promoções na plataforma YesStyle",
+    "translationKey": "yesstyle-trust"
   },
   {
     "id": 245,
@@ -38357,7 +38376,8 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-coupon-cecilia010",
         "title": "How to Use YesStyle Reward Code CECILIA010: Step-by-Step Checkout Guide"
       }
-    ]
+    ],
+    "translationKey": "yesstyle-trust"
   },
   {
     "id": 251,
@@ -38462,7 +38482,8 @@ export const reviewsData: unknown[] = [
         "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
         "title": "Cómo usar el código de recompensa CECILIA010 en YesStyle"
       }
-    ]
+    ],
+    "translationKey": "yesstyle-trust"
   },
   {
     "id": 252,
@@ -38566,7 +38587,8 @@ export const reviewsData: unknown[] = [
         "slug": "code-recompense-yesstyle-cecilia010",
         "title": "Comment utiliser le code de récompense CECILIA010 sur YesStyle"
       }
-    ]
+    ],
+    "translationKey": "yesstyle-trust"
   },
   {
     "id": 253,
@@ -38670,7 +38692,8 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-rabatt-cecilia010",
         "title": "YesStyle Reward Code CECILIA010 einlösen: Anleitung"
       }
-    ]
+    ],
+    "translationKey": "yesstyle-trust"
   },
   {
     "id": 254,
@@ -38759,7 +38782,8 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-cecilia010-ko",
         "title": "YesStyle 리워드 코드 CECILIA010 사용 방법 안내"
       }
-    ]
+    ],
+    "translationKey": "yesstyle-trust"
   },
   {
     "id": 255,
@@ -38863,7 +38887,8 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-cecilia010-ja",
         "title": "YesStyleリワードコード CECILIA010 の使い方・入力手順"
       }
-    ]
+    ],
+    "translationKey": "yesstyle-trust"
   },
   {
     "id": 256,
@@ -38952,7 +38977,8 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-cecilia010-zh-hant",
         "title": "YesStyle 獎勵代碼 CECILIA010 使用指南"
       }
-    ]
+    ],
+    "translationKey": "yesstyle-trust"
   },
   {
     "id": 257,
@@ -39041,7 +39067,8 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-cecilia010-zh-hans",
         "title": "YesStyle 奖励代码 CECILIA010 使用指南"
       }
-    ]
+    ],
+    "translationKey": "yesstyle-trust"
   },
   {
     "id": 258,
@@ -40525,7 +40552,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "imageAspect": "landscape",
-    "heroCompact": true
+    "heroCompact": true,
+    "translationKey": "yesstyle-kbeauty"
   },
   {
     "id": 266,
@@ -40620,11 +40648,11 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "How to Use YesStyle Reward Code CECILIA010: Step-by-Step Checkout Guide",
-            "href": "/reviews/yesstyle-reward-code-coupon-cecilia010"
+            "href": "/en/reviews/yesstyle-reward-code-coupon-cecilia010"
           },
           {
             "label": "Is YesStyle Legit and Safe? What to Know Before Shopping",
-            "href": "/reviews/is-yesstyle-legit-and-safe-review"
+            "href": "/en/reviews/is-yesstyle-legit-and-safe-review"
           },
           {
             "label": "View the official store and the CECILIA010 code on the coupon page",
@@ -40670,7 +40698,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "imageAspect": "landscape",
-    "heroCompact": true
+    "heroCompact": true,
+    "translationKey": "yesstyle-kbeauty"
   },
   {
     "id": 267,
@@ -40765,11 +40794,11 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "YesStyle CECILIA010: código de recompensa (paso a paso)",
-            "href": "/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010"
+            "href": "/es/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010"
           },
           {
             "label": "¿Es YesStyle de Fiar y Seguro? Lo que Debes Saber Antes de Comprar",
-            "href": "/reviews/es-yesstyle-de-fiar-y-seguro"
+            "href": "/es/reviews/es-yesstyle-de-fiar-y-seguro"
           },
           {
             "label": "Ver la tienda oficial y el código CECILIA010 en la página de cupón",
@@ -40815,7 +40844,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "imageAspect": "landscape",
-    "heroCompact": true
+    "heroCompact": true,
+    "translationKey": "yesstyle-kbeauty"
   },
   {
     "id": 268,
@@ -40910,11 +40940,11 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "YesStyle CECILIA010 : code de récompense (étape par étape)",
-            "href": "/reviews/code-recompense-yesstyle-cecilia010"
+            "href": "/fr/reviews/code-recompense-yesstyle-cecilia010"
           },
           {
             "label": "YesStyle est-il Fiable et Sûr ? Ce qu'il Faut Savoir Avant d'Acheter",
-            "href": "/reviews/yesstyle-est-il-fiable-et-sur"
+            "href": "/fr/reviews/yesstyle-est-il-fiable-et-sur"
           },
           {
             "label": "Voir la boutique officielle et le code CECILIA010 sur la page coupon",
@@ -40960,7 +40990,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "imageAspect": "landscape",
-    "heroCompact": true
+    "heroCompact": true,
+    "translationKey": "yesstyle-kbeauty"
   },
   {
     "id": 269,
@@ -41055,11 +41086,11 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "YesStyle CECILIA010: Reward Code nutzen (Schritt für Schritt)",
-            "href": "/reviews/yesstyle-reward-code-rabatt-cecilia010"
+            "href": "/de/reviews/yesstyle-reward-code-rabatt-cecilia010"
           },
           {
             "label": "Ist YesStyle Seriös und Sicher? Was Sie Vor Dem Kauf Wissen Müssen",
-            "href": "/reviews/ist-yesstyle-serioes-und-sicher"
+            "href": "/de/reviews/ist-yesstyle-serioes-und-sicher"
           },
           {
             "label": "Offiziellen Shop und den CECILIA010-Code auf der Gutscheinseite ansehen",
@@ -41105,7 +41136,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "imageAspect": "landscape",
-    "heroCompact": true
+    "heroCompact": true,
+    "translationKey": "yesstyle-kbeauty"
   },
   {
     "id": 270,
@@ -41200,11 +41232,11 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "YesStyle 리워드 코드 CECILIA010 사용법 (단계별)",
-            "href": "/reviews/yesstyle-reward-code-cecilia010-ko"
+            "href": "/ko/reviews/yesstyle-reward-code-cecilia010-ko"
           },
           {
             "label": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보",
-            "href": "/reviews/yesstyle-trust-guide-ko"
+            "href": "/ko/reviews/yesstyle-trust-guide-ko"
           },
           {
             "label": "YesStyle 공식 페이지에서 CECILIA010 코드 확인",
@@ -41250,7 +41282,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "imageAspect": "landscape",
-    "heroCompact": true
+    "heroCompact": true,
+    "translationKey": "yesstyle-kbeauty"
   },
   {
     "id": 271,
@@ -41345,11 +41378,11 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "YesStyleでCECILIA010リワードコードを使う方法（ステップバイステップ）",
-            "href": "/reviews/yesstyle-reward-code-cecilia010-ja"
+            "href": "/ja/reviews/yesstyle-reward-code-cecilia010-ja"
           },
           {
             "label": "YesStyleは安全？購入前に知っておくべき信頼性と評判",
-            "href": "/reviews/yesstyle-trust-guide-ja"
+            "href": "/ja/reviews/yesstyle-trust-guide-ja"
           },
           {
             "label": "公式ストアとクーポンページのCECILIA010コードを見る",
@@ -41395,7 +41428,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "imageAspect": "landscape",
-    "heroCompact": true
+    "heroCompact": true,
+    "translationKey": "yesstyle-kbeauty"
   },
   {
     "id": 272,
@@ -41490,11 +41524,11 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "如何在 YesStyle 使用 CECILIA010 Reward Code（詳細步驟教學）",
-            "href": "/reviews/yesstyle-reward-code-cecilia010-zh-hant"
+            "href": "/zh-hant/reviews/yesstyle-reward-code-cecilia010-zh-hant"
           },
           {
             "label": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南",
-            "href": "/reviews/yesstyle-trust-guide-zh-hant"
+            "href": "/zh-hant/reviews/yesstyle-trust-guide-zh-hant"
           },
           {
             "label": "優惠碼頁面查看官方商店與 CECILIA010 代碼詳情",
@@ -41540,7 +41574,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "imageAspect": "landscape",
-    "heroCompact": true
+    "heroCompact": true,
+    "translationKey": "yesstyle-kbeauty"
   },
   {
     "id": 273,
@@ -41635,11 +41670,11 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "如何在 YesStyle 使用 CECILIA010 奖励码：分步教程",
-            "href": "/reviews/yesstyle-reward-code-cecilia010-zh-hans"
+            "href": "/zh-hans/reviews/yesstyle-reward-code-cecilia010-zh-hans"
           },
           {
             "label": "YesStyle 值得信赖吗？购买前必看安全评价与购物指南",
-            "href": "/reviews/yesstyle-trust-guide-zh-hans"
+            "href": "/zh-hans/reviews/yesstyle-trust-guide-zh-hans"
           },
           {
             "label": "在优惠码页面查看官方商店与 CECILIA010 代码",
@@ -41685,7 +41720,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "imageAspect": "landscape",
-    "heroCompact": true
+    "heroCompact": true,
+    "translationKey": "yesstyle-kbeauty"
   },
   {
     "id": 274,
