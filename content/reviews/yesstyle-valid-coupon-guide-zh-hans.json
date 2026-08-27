@@ -207,5 +207,6 @@
       ]
     }
   ],
-  "locale": "zh-hans"
+  "locale": "zh-hans",
+  "translationKey": "yesstyle-coupon-guide"
 }

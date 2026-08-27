@@ -141,5 +141,6 @@
     }
   ],
   "imageAspect": "landscape",
-  "heroCompact": true
+  "heroCompact": true,
+  "translationKey": "yesstyle-kbeauty"
 }

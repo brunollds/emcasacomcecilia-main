@@ -207,5 +207,6 @@
       ]
     }
   ],
-  "locale": "es"
+  "locale": "es",
+  "translationKey": "yesstyle-coupon-guide"
 }

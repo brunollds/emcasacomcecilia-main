@@ -78,5 +78,6 @@
     }
   ],
   "hideFromPortugueseListings": true,
-  "locale": "ko"
+  "locale": "ko",
+  "translationKey": "yesstyle-reward-code"
 }

@@ -1,5 +1,6 @@
 import { recipesData, reviewsData } from './generated/content-index';
 import type { ReviewCategory } from './reviewDiscovery';
+import type { Locale } from '@/lib/i18n/locales';
 
 // 📊 Dados Unificados - Em Casa com Cecília
 
@@ -179,7 +180,8 @@ export interface AudioClip {
 export interface Review {
   id: number;
   slug: string;
-  locale?: string;
+  locale?: Locale;
+  translationKey?: string;
   title: string;
   type: string;
   reviewKind?: 'produto' | 'guia' | 'editorial';

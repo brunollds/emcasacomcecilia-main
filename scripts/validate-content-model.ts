@@ -11,6 +11,10 @@ import {
 import {
   formatQuantity,
   inferReviewKind,
+  resolveReviewLocale,
+  isValidTranslationKey,
+  groupReviewsByTranslationKey,
+  detectDuplicateTranslationLocalePairs,
   normalizeRecipe,
   normalizeReview,
   resolveTotalMinutes,
@@ -257,6 +261,27 @@ for (const review of reviews) {
     reportError({ type: 'review', id: review.id, slug: review.slug, message: 'type ausente' });
   }
 
+  try {
+    resolveReviewLocale(review.locale);
+  } catch (error) {
+    const message = error instanceof Error ? error.message : String(error);
+    reportError({
+      type: 'review',
+      id: review.id,
+      slug: review.slug,
+      message: `locale inválido: ${message}`,
+    });
+  }
+
+  if (review.translationKey !== undefined && !isValidTranslationKey(review.translationKey)) {
+    reportError({
+      type: 'review',
+      id: review.id,
+      slug: review.slug,
+      message: `translationKey malformada: "${review.translationKey}"`,
+    });
+  }
+
   const listedInPortuguese = isListedInPortuguese(review);
 
   if (review.category !== undefined && !isReviewCategory(review.category)) {
@@ -361,6 +386,25 @@ for (const review of reviews) {
   } catch (err) {
     reportError({ type: 'review', id: review.id, slug: review.slug, message: `normalizeReview falhou: ${err instanceof Error ? err.message : String(err)}` });
   }
+}
+
+// ---------------------------------------------------------------------------
+// Validar regras de internacionalização genéricas (locale + translationKey)
+// ---------------------------------------------------------------------------
+
+const reviewsWithTranslations = reviews.filter(
+  (review) => review.translationKey !== undefined
+);
+const reviewGroups = groupReviewsByTranslationKey(reviewsWithTranslations);
+const duplicateTranslationLocales = detectDuplicateTranslationLocalePairs(reviewGroups);
+
+for (const duplicate of duplicateTranslationLocales) {
+  reportError({
+    type: 'review',
+    id: -1,
+    slug: duplicate.translationKey,
+    message: `translationKey duplicada no locale "${duplicate.locale}": ${duplicate.slugs.join(', ')}`,
+  });
 }
 
 // ---------------------------------------------------------------------------

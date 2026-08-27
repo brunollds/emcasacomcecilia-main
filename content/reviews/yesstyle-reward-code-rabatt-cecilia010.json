@@ -242,5 +242,6 @@
     }
   ],
   "editorialNote": "Dieser Artikel enthält Affiliate-Links. Wenn du YesStyle über unsere Links besuchst oder den Influencer-Code CECILIA010 verwendest, können wir eine Provision erhalten, ohne dass dir zusätzliche Kosten entstehen.",
-  "locale": "de"
+  "locale": "de",
+  "translationKey": "yesstyle-reward-code"
 }

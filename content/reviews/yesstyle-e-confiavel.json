@@ -111,5 +111,6 @@
   ],
   "locale": "pt",
   "image": "/images/reviews/cupons/yesstyle-logo-purple-hero.webp",
-  "imageAlt": "Produtos de K-Beauty e promoções na plataforma YesStyle"
+  "imageAlt": "Produtos de K-Beauty e promoções na plataforma YesStyle",
+  "translationKey": "yesstyle-trust"
 }

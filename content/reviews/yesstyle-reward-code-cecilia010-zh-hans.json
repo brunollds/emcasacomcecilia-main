@@ -77,5 +77,6 @@
     }
   ],
   "hideFromPortugueseListings": true,
-  "locale": "zh-hans"
+  "locale": "zh-hans",
+  "translationKey": "yesstyle-reward-code"
 }

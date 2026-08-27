@@ -214,5 +214,6 @@
       ]
     }
   ],
-  "locale": "pt"
+  "locale": "pt",
+  "translationKey": "yesstyle-coupon-guide"
 }

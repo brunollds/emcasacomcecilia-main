@@ -2,6 +2,7 @@
 // Compatível com src/lib/data.ts legado e com os contratos v1.1 de destino.
 
 import type { ReviewCategory } from '../reviewDiscovery';
+import type { Locale } from '../i18n/locales';
 
 // ---------------------------------------------------------------------------
 // Primitivos compartilhados
@@ -317,7 +318,8 @@ export interface Review {
   // Identificação
   id: number;
   slug: string;
-  locale?: string;
+  locale?: Locale;
+  translationKey?: string;
 
   // Tipo editorial legado (preservar — não substituir)
   type: string;
