@@ -5,9 +5,14 @@ import { useState, useEffect } from 'react';
 import { Menu, X, ArrowRight } from 'lucide-react';
 import { brandLinks } from '@/lib/data';
 import OmniSearch from '@/components/OmniSearch';
-import { getShellCopy, getShellNavLinks } from '@/lib/i18n/shellDictionary';
-import { findLocaleByHtmlLang } from '@/lib/i18n/locales';
-import { getYesStyleLocaleConfig } from '@/lib/i18n/clusters/yesstyle';
+import {
+  getShellCommercialLinks,
+  getShellCopy,
+  getShellHomeHref,
+  getShellLanguageHubHref,
+  getShellNavLinks,
+} from '@/lib/i18n/shellDictionary';
+import { LOCALES, LOCALE_KEYS, findLocaleByHtmlLang } from '@/lib/i18n/locales';
 
 export default function Navbar({ lang = 'pt-BR' }) {
   const [isOpen, setIsOpen] = useState(false);
@@ -19,7 +24,12 @@ export default function Navbar({ lang = 'pt-BR' }) {
   const isPt = localeKey === 'pt';
   const copy = getShellCopy(localeKey);
   const navLinks = getShellNavLinks(localeKey);
-  const homeHref = isPt ? '/' : getYesStyleLocaleConfig(localeKey).hubPath;
+  const commercialLinks = getShellCommercialLinks(localeKey);
+  const homeHref = getShellHomeHref(localeKey);
+
+  const handleLocaleChange = (event) => {
+    window.location.assign(getShellLanguageHubHref(event.target.value));
+  };
 
   useEffect(() => {
     const handleScroll = () => {
@@ -73,7 +83,7 @@ export default function Navbar({ lang = 'pt-BR' }) {
 
           {/* Busca Desktop (Apenas PT) */}
           {isPt ? (
-            <div className="hidden max-w-md flex-1 lg:block">
+            <div className="hidden max-w-xl flex-1 lg:block">
               <OmniSearch />
             </div>
           ) : (
@@ -81,8 +91,8 @@ export default function Navbar({ lang = 'pt-BR' }) {
           )}
 
           {/* Links Desktop */}
-          <nav className="hidden lg:flex items-center gap-5">
-            {navLinks.map((link) => (
+          <nav className="hidden lg:flex items-center gap-4">
+            {navLinks.filter((link) => link.desktop !== false).map((link) => (
               <Link
                 key={link.href}
                 href={link.href}
@@ -95,14 +105,25 @@ export default function Navbar({ lang = 'pt-BR' }) {
                 {link.label}
               </Link>
             ))}
-            <Link
-              href={brandLinks.damie}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="rounded-full border border-[#ffd700]/35 bg-[#ffd700]/10 px-3.5 py-1.5 text-sm font-bold text-[#ffd700] transition-all hover:border-[#ffd700]/70 hover:bg-[#ffd700]/18"
-            >
-              {copy.damieLabel}
-            </Link>
+            {commercialLinks.filter((link) => link.available).map((link) => (
+              <Link
+                key={link.id}
+                href={link.href}
+                className="text-sm font-medium text-white/78 transition-colors hover:text-white"
+              >
+                {link.label}
+              </Link>
+            ))}
+            {isPt && (
+              <Link
+                href={brandLinks.damie}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="rounded-full border border-[#ffd700]/35 bg-[#ffd700]/10 px-3.5 py-1.5 text-sm font-bold text-[#ffd700] transition-all hover:border-[#ffd700]/70 hover:bg-[#ffd700]/18"
+              >
+                {copy.damieLabel}
+              </Link>
+            )}
             {isPt && (
               <Link
                 href={brandLinks.dicas}
@@ -114,6 +135,20 @@ export default function Navbar({ lang = 'pt-BR' }) {
                 <ArrowRight className="w-3.5 h-3.5" />
               </Link>
             )}
+            <label className="sr-only" htmlFor="header-language-desktop">{copy.languageLabel}</label>
+            <select
+              id="header-language-desktop"
+              value={localeKey}
+              onChange={handleLocaleChange}
+              className="cursor-pointer rounded-full border border-white/20 bg-transparent px-2.5 py-1.5 text-sm font-semibold text-white/85 transition-colors hover:border-white/50"
+              aria-label={copy.languageLabel}
+            >
+              {LOCALE_KEYS.map((locale) => (
+                <option key={locale} value={locale} className="text-slate-900">
+                  {LOCALES[locale].flag} {LOCALES[locale].label}
+                </option>
+              ))}
+            </select>
           </nav>
 
           {/* Mobile menu button */}
@@ -144,6 +179,16 @@ export default function Navbar({ lang = 'pt-BR' }) {
                 {link.label}
               </Link>
             ))}
+            {commercialLinks.filter((link) => link.available).map((link) => (
+              <Link
+                key={link.id}
+                href={link.href}
+                className="block border-b border-white/10 px-2 py-3 text-sm font-semibold uppercase tracking-[0.12em] text-white/82 transition-colors hover:text-white"
+                onClick={() => setIsOpen(false)}
+              >
+                {link.label}
+              </Link>
+            ))}
             {isPt && (
               <Link
                 href={brandLinks.dicas}
@@ -155,20 +200,39 @@ export default function Navbar({ lang = 'pt-BR' }) {
                 Dicas & Ofertas
               </Link>
             )}
-            <Link
-              href={brandLinks.damie}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="block border-b border-white/10 px-2 py-3 text-sm font-bold uppercase tracking-[0.12em] text-[#ffd700] transition-colors hover:text-white"
-              onClick={() => setIsOpen(false)}
-            >
-              {copy.damieLabel}
-            </Link>
+            {isPt && (
+              <Link
+                href={brandLinks.damie}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block border-b border-white/10 px-2 py-3 text-sm font-bold uppercase tracking-[0.12em] text-[#ffd700] transition-colors hover:text-white"
+                onClick={() => setIsOpen(false)}
+              >
+                {copy.damieLabel}
+              </Link>
+            )}
             {isPt && (
               <div className="pt-4">
                 <OmniSearch placeholder="Buscar receitas" />
               </div>
             )}
+            <div className="pt-4">
+              <label className="mb-2 block px-2 text-xs font-bold uppercase tracking-[0.12em] text-white/60" htmlFor="header-language-mobile">
+                {copy.languageLabel}
+              </label>
+              <select
+                id="header-language-mobile"
+                value={localeKey}
+                onChange={handleLocaleChange}
+                className="w-full rounded-lg border border-white/20 bg-white/10 px-3 py-2.5 text-sm font-semibold text-white"
+              >
+                {LOCALE_KEYS.map((locale) => (
+                  <option key={locale} value={locale} className="text-slate-900">
+                    {LOCALES[locale].flag} {LOCALES[locale].label}
+                  </option>
+                ))}
+              </select>
+            </div>
           </div>
         </div>
       )}

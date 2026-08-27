@@ -1,14 +1,37 @@
 import { type Locale } from './locales';
-import { getYesStyleArticle, getYesStyleLocaleConfig } from './clusters/yesstyle';
+import { getYesStyleLocaleConfig } from './clusters/yesstyle';
+import { getReviewHubPath } from '@/lib/review-hubs';
+
+export interface ShellNavLink {
+  href: string;
+  label: string;
+  primary?: boolean;
+  desktop?: boolean;
+}
+
+export type ShellCommercialLink =
+  | {
+      id: 'yesstyle';
+      href: string;
+      label: string;
+      available: true;
+    }
+  | {
+      id: 'shein';
+      label: string;
+      available: false;
+      href?: never;
+    };
 
 export interface ShellCopy {
   locale: Locale;
   tagline: string;
   menuLabel: string;
+  languageLabel: string;
   homeLabel: string;
   hubLabel: string;
-  rewardArticleLabel: string;
-  guideLabel: string;
+  reviewHubLabel: string;
+  sheinCouponsLabel: string;
   damieLabel: string;
   footerRights: string;
   contactLabel: string;
@@ -23,10 +46,11 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     locale: 'pt',
     tagline: 'Receitas que dão certo',
     menuLabel: 'Menu & Busca',
+    languageLabel: 'Idioma',
     homeLabel: 'Início',
     hubLabel: 'Cupons',
-    rewardArticleLabel: 'Guia do Código',
-    guideLabel: 'Como Encontrar Cupons',
+    reviewHubLabel: 'Guias & Análises',
+    sheinCouponsLabel: 'Cupons SHEIN',
     damieLabel: 'DAMIE',
     footerRights: 'Todos os direitos reservados.',
     contactLabel: 'Contato',
@@ -39,10 +63,11 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     locale: 'en',
     tagline: 'Home recipes & honest reviews',
     menuLabel: 'Menu',
+    languageLabel: 'Language',
     homeLabel: 'Home',
     hubLabel: 'YesStyle Coupons',
-    rewardArticleLabel: 'Reward Code Guide',
-    guideLabel: 'Coupon Stacking Guide',
+    reviewHubLabel: 'Guides & Reviews',
+    sheinCouponsLabel: 'SHEIN Coupons',
     damieLabel: 'DAMIE',
     footerRights: 'All rights reserved.',
     contactLabel: 'Contact',
@@ -55,10 +80,11 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     locale: 'es',
     tagline: 'Recetas caseras y opiniones sinceras',
     menuLabel: 'Menú',
+    languageLabel: 'Idioma',
     homeLabel: 'Inicio',
     hubLabel: 'Cupones YesStyle',
-    rewardArticleLabel: 'Guía del Código',
-    guideLabel: 'Guía de Cupones',
+    reviewHubLabel: 'Guías y reseñas',
+    sheinCouponsLabel: 'Cupones SHEIN',
     damieLabel: 'DAMIE',
     footerRights: 'Todos los derechos reservados.',
     contactLabel: 'Contacto',
@@ -71,10 +97,11 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     locale: 'fr',
     tagline: 'Recettes maison et avis sincères',
     menuLabel: 'Menu',
+    languageLabel: 'Langue',
     homeLabel: 'Accueil',
     hubLabel: 'Coupons YesStyle',
-    rewardArticleLabel: 'Guide du Code',
-    guideLabel: 'Guide des Coupons',
+    reviewHubLabel: 'Guides et avis',
+    sheinCouponsLabel: 'Coupons SHEIN',
     damieLabel: 'DAMIE',
     footerRights: 'Tous droits réservés.',
     contactLabel: 'Contact',
@@ -87,10 +114,11 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     locale: 'de',
     tagline: 'Erprobte Rezepte & ehrliche Reviews',
     menuLabel: 'Menü',
+    languageLabel: 'Sprache',
     homeLabel: 'Startseite',
     hubLabel: 'YesStyle Gutscheine',
-    rewardArticleLabel: 'Code-Ratgeber',
-    guideLabel: 'Gutschein-Ratgeber',
+    reviewHubLabel: 'Ratgeber und Tests',
+    sheinCouponsLabel: 'SHEIN Gutscheine',
     damieLabel: 'DAMIE',
     footerRights: 'Alle Rechte vorbehalten.',
     contactLabel: 'Kontakt',
@@ -103,10 +131,11 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     locale: 'ko',
     tagline: '홈 레시피 & 솔직한 리뷰',
     menuLabel: '메뉴',
+    languageLabel: '언어',
     homeLabel: '홈',
     hubLabel: 'YesStyle 쿠폰',
-    rewardArticleLabel: '코드 사용 가이드',
-    guideLabel: '쿠폰 찾기 가이드',
+    reviewHubLabel: '가이드와 리뷰',
+    sheinCouponsLabel: 'SHEIN 쿠폰',
     damieLabel: 'DAMIE',
     footerRights: '모든 권리 보유.',
     contactLabel: '문의하기',
@@ -119,10 +148,11 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     locale: 'ja',
     tagline: 'レシピと誠実なレビュー',
     menuLabel: 'メニュー',
+    languageLabel: '言語',
     homeLabel: 'ホーム',
     hubLabel: 'YesStyle クーポン',
-    rewardArticleLabel: 'コード使い方ガイド',
-    guideLabel: 'クーポン探しガイド',
+    reviewHubLabel: 'ガイドとレビュー',
+    sheinCouponsLabel: 'SHEIN クーポン',
     damieLabel: 'DAMIE',
     footerRights: '全著作権所有。',
     contactLabel: 'お問い合わせ',
@@ -135,10 +165,11 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     locale: 'zh-hant',
     tagline: '家常食譜與真實評測',
     menuLabel: '選單',
+    languageLabel: '語言',
     homeLabel: '首頁',
     hubLabel: 'YesStyle 優惠碼',
-    rewardArticleLabel: '代碼使用指南',
-    guideLabel: '優惠碼尋找指南',
+    reviewHubLabel: '指南與評測',
+    sheinCouponsLabel: 'SHEIN 優惠碼',
     damieLabel: 'DAMIE',
     footerRights: '版權所有，保留一切權利。',
     contactLabel: '聯絡我們',
@@ -151,10 +182,11 @@ export const SHELL_DICTIONARY: Record<Locale, ShellCopy> = {
     locale: 'zh-hans',
     tagline: '家常食谱与真实测评',
     menuLabel: '菜单',
+    languageLabel: '语言',
     homeLabel: '首页',
     hubLabel: 'YesStyle 优惠码',
-    rewardArticleLabel: '代码使用指南',
-    guideLabel: '优惠码寻找指南',
+    reviewHubLabel: '指南与评测',
+    sheinCouponsLabel: 'SHEIN 优惠码',
     damieLabel: 'DAMIE',
     footerRights: '版权所有，保留一切权利。',
     contactLabel: '联系我们',
@@ -170,9 +202,17 @@ export function getShellCopy(localeStr: string): ShellCopy {
   return SHELL_DICTIONARY[loc];
 }
 
-export function getShellNavLinks(localeStr: string) {
+export function getShellHomeHref(localeStr: string): string {
   const loc = (localeStr in SHELL_DICTIONARY ? localeStr : 'pt') as Locale;
-  const config = getYesStyleLocaleConfig(loc);
+  return loc === 'pt' ? '/' : getReviewHubPath(loc);
+}
+
+export function getShellLanguageHubHref(locale: Locale): string {
+  return locale === 'pt' ? '/reviews' : getReviewHubPath(locale);
+}
+
+export function getShellNavLinks(localeStr: string): ShellNavLink[] {
+  const loc = (localeStr in SHELL_DICTIONARY ? localeStr : 'pt') as Locale;
   const copy = SHELL_DICTIONARY[loc];
 
   if (loc === 'pt') {
@@ -182,14 +222,34 @@ export function getShellNavLinks(localeStr: string) {
       { href: '/videos', label: 'Vídeos' },
       { href: '/cupons', label: 'Cupons' },
       { href: '/sobre', label: 'Sobre' },
-      { href: '/contato', label: 'Contato' },
-      { href: '/faqs', label: 'FAQs' },
+      { href: '/contato', label: 'Contato', desktop: false },
+      { href: '/faqs', label: 'FAQs', desktop: false },
     ];
   }
 
   return [
-    { href: config.hubPath, label: copy.hubLabel, primary: true },
-    { href: getYesStyleArticle(loc, 'reward').path, label: copy.rewardArticleLabel },
-    { href: getYesStyleArticle(loc, 'guide').path, label: copy.guideLabel },
+    { href: getReviewHubPath(loc), label: copy.reviewHubLabel, primary: true },
+  ];
+}
+
+export function getShellCommercialLinks(localeStr: string): ShellCommercialLink[] {
+  const loc = (localeStr in SHELL_DICTIONARY ? localeStr : 'pt') as Locale;
+  const copy = SHELL_DICTIONARY[loc];
+
+  if (loc === 'pt') return [];
+
+  return [
+    {
+      id: 'yesstyle',
+      href: getYesStyleLocaleConfig(loc).hubPath,
+      label: copy.hubLabel,
+      available: true,
+    },
+    {
+      id: 'shein',
+      label: copy.sheinCouponsLabel,
+      // Não há hub SHEIN localizado publicado ainda; manter fora da renderização evita um link 404.
+      available: false,
+    },
   ];
 }

@@ -2,9 +2,13 @@
 
 import Link from 'next/link';
 import { brandLinks, socialMedias } from '@/lib/data';
-import { getShellCopy, getShellNavLinks } from '@/lib/i18n/shellDictionary';
+import {
+  getShellCommercialLinks,
+  getShellCopy,
+  getShellHomeHref,
+  getShellNavLinks,
+} from '@/lib/i18n/shellDictionary';
 import { findLocaleByHtmlLang } from '@/lib/i18n/locales';
-import { getYesStyleLocaleConfig } from '@/lib/i18n/clusters/yesstyle';
 
 // Ícones SVG para redes sociais
 const SocialIcons = {
@@ -51,7 +55,8 @@ export default function Footer({ lang = 'pt-BR' }) {
   const isPt = localeKey === 'pt';
   const copy = getShellCopy(localeKey);
   const navLinks = getShellNavLinks(localeKey);
-  const homeHref = isPt ? '/' : getYesStyleLocaleConfig(localeKey).hubPath;
+  const commercialLinks = getShellCommercialLinks(localeKey);
+  const homeHref = getShellHomeHref(localeKey);
 
   return (
     <footer className="bg-[#0f1d3a] px-6 pb-10 pt-12 print:hidden">
@@ -88,14 +93,21 @@ export default function Footer({ lang = 'pt-BR' }) {
                 {link.label}
               </Link>
             ))}
+            {commercialLinks.filter((link) => link.available).map((link) => (
+              <Link key={link.id} href={link.href} className="transition-colors hover:text-[#ff6b35]">
+                {link.label}
+              </Link>
+            ))}
             {isPt && (
               <a href={brandLinks.dicas} target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-[#ff6b35]">
                 Dicas
               </a>
             )}
-            <a href={brandLinks.damie} target="_blank" rel="noopener noreferrer" className="font-bold text-[#ffd700] transition-colors hover:text-white">
-              {copy.damieLabel}
-            </a>
+            {isPt && (
+              <a href={brandLinks.damie} target="_blank" rel="noopener noreferrer" className="font-bold text-[#ffd700] transition-colors hover:text-white">
+                {copy.damieLabel}
+              </a>
+            )}
           </nav>
 
           <div className="flex items-center justify-center gap-2">
