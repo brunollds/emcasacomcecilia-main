@@ -58,6 +58,30 @@
       "Válido de 25/08/2026 a 27/08/2026 às 23:59 GMT para membros YesStyle e produtos elegíveis.",
       "Use no campo Coupon Code; pode ser combinado com CECILIA010 no campo Reward Code e com YS Points."
     ],
+    "status": "expired",
+    "regions": ["GLOBAL"]
+  },
+  {
+    "id": "btslast15-promo",
+    "code": "BTSLAST15",
+    "type": "coupon",
+    "discount": {
+      "kind": "percentage",
+      "value": 15
+    },
+    "startsAt": "2026-08-27",
+    "expiresAt": "2026-09-01",
+    "verifiedAt": "2026-08-27",
+    "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.1893",
+    "affiliateUrl": "https://ystyle.co/rQYQv",
+    "eligibility": [
+      "15% OFF em qualquer pedido, sem valor mínimo",
+      "Disponível para membros YesStyle; não se aplica a compras como visitante"
+    ],
+    "restrictions": [
+      "Válido de 28/08/2026 às 02:00 GMT a 01/09/2026 às 01:59 GMT para pedidos elegíveis.",
+      "Use no campo Coupon Code; não pode ser combinado com outro cupom promocional, mas funciona com preços de promoção existentes."
+    ],
     "status": "active",
     "regions": ["GLOBAL"]
   }
