@@ -43,7 +43,11 @@ function escapeRegExp(value) {
   return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
-export default function OmniSearch({ placeholder = 'Buscar receitas e guias...' }) {
+export default function OmniSearch({
+  placeholder = 'Buscar Receitas e Artigos',
+  autoFocus = false,
+  emphasis = false,
+}) {
   const [query, setQuery] = useState('');
   const [index, setIndex] = useState(null);
   const [results, setResults] = useState([]);
@@ -157,6 +161,7 @@ export default function OmniSearch({ placeholder = 'Buscar receitas e guias...' 
         <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-white/60" />
         <input
           type="text"
+          autoFocus={autoFocus}
           value={query}
           onChange={(e) => {
             const value = e.target.value;
@@ -171,7 +176,11 @@ export default function OmniSearch({ placeholder = 'Buscar receitas e guias...' 
           onFocus={handleFocus}
           placeholder={placeholder}
           aria-label="Buscar no site"
-          className="w-full rounded-full border border-white/20 bg-white/10 py-2.5 pl-10 pr-9 text-sm text-white placeholder-white/50 transition-all focus:border-white/40 focus:bg-white/20 focus:outline-none"
+          className={`w-full rounded-full py-2.5 pl-10 pr-9 text-sm text-white placeholder-white/50 transition-all focus:outline-none ${
+            emphasis
+              ? 'border-2 border-[#ff6b35]/70 bg-white/15 shadow-lg shadow-black/15 focus:border-[#ff8a5c] focus:bg-white/20'
+              : 'border border-white/20 bg-white/10 focus:border-white/40 focus:bg-white/20'
+          }`}
         />
         {query && (
           <button
