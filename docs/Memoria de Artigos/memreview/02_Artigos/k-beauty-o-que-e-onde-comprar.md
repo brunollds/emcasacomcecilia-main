@@ -18,7 +18,7 @@ score_autoridade: null
 score_conversao: null
 score_ponderado_total: null
 i18n_cluster: "yesstyle"
-i18n_article_key: "kbeauty"
+translationKey: "yesstyle-kbeauty"
 modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, ko, ja, zh-hant, zh-hans]

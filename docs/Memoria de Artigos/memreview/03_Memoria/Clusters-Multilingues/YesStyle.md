@@ -11,19 +11,21 @@ fonte_tecnica: "docs/PLANO-YESSTYLE-I18N-ABC.md"
 
 ## Regra operacional
 
-YesStyle opera em paridade completa: cada tipo registrado no cluster deve existir
-nos nove idiomas antes de ser marcado como completo. A fonte técnica de rotas,
-hreflang, hubs e dados comerciais é `docs/PLANO-YESSTYLE-I18N-ABC.md` e o registro
-em `src/lib/i18n/clusters/yesstyle.ts`.
+As quatro famílias atuais já têm paridade completa. Para uma família futura, a
+decisão editorial de paridade continua possível, mas o contrato técnico aceita
+grupos parciais: a equivalência é definida por `translationKey`, não por uma
+chave fixa do cluster YesStyle. A fonte de URLs e hreflang é
+`docs/HANDOFF-I18N-SUBPAGINAS-FASE-4.md`; o registro YesStyle permanece dono dos
+hubs e links comerciais.
 
 ## Matriz atual
 
 | Chave | Fonte PT | Idiomas | Estado |
 |---|---|---:|---|
-| `reward` | `codigo-cecilia010-yesstyle-como-usar` | 9/9 | publicado |
-| `guide` | `como-encontrar-cupons-yesstyle-validos` | 9/9 | publicado |
-| `trust` | `yesstyle-e-confiavel` | 9/9 | publicado |
-| `kbeauty` | [[02_Artigos/k-beauty-o-que-e-onde-comprar]] | 9/9 | commitado local; aguardando deploy |
+| `yesstyle-reward-code` | `codigo-cecilia010-yesstyle-como-usar` | 9/9 | publicado |
+| `yesstyle-coupon-guide` | `como-encontrar-cupons-yesstyle-validos` | 9/9 | publicado |
+| `yesstyle-trust` | `yesstyle-e-confiavel` | 9/9 | publicado |
+| `yesstyle-kbeauty` | [[02_Artigos/k-beauty-o-que-e-onde-comprar]] | 9/9 | publicado |
 
 ## Regras específicas
 
@@ -33,6 +35,9 @@ em `src/lib/i18n/clusters/yesstyle.ts`.
 - O link comercial atual é o `affiliateUrl` da fonte factual.
 - Conteúdo internacional fica fora das listagens em português, mas deve estar no
   sitemap e nas relações hreflang do respectivo tipo.
+- Um artigo internacional novo usa `locale` + `translationKey`, gera a URL
+  `/<locale>/reviews/<slug>` e não exige pasta `page.tsx`, rota manual ou edição
+  do cluster YesStyle apenas para ser descoberto.
 - Não localizar frete, impostos ou disponibilidade de país sem fonte específica.
 
 ## Gates adicionais

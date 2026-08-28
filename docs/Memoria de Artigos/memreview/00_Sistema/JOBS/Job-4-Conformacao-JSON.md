@@ -30,13 +30,21 @@ Converter o texto revisado em Markdown para o arquivo JSON estruturado em `conte
 
 ## 3. Clusters multilíngues (quando aplicável)
 
-1. Ler a nota do cluster e o plano/handoff técnico referenciado nela; o vault não
-   substitui o registro de rotas nem os validadores do repositório.
-2. Em `paridade-completa`, só marcar a nota-fonte como pronta quando todos os
-   idiomas da matriz tiverem JSON, `locale`, categoria, manifesto, rota e registro
-   de cluster correspondentes.
-3. Em `liberar-por-conversao`, publicar a fonte PT na estrutura do cluster e
+1. Ler a nota do cluster e `docs/HANDOFF-I18N-SUBPAGINAS-FASE-4.md`; o vault não
+   substitui o contrato de `locale`, `translationKey`, pathname ou os validadores.
+2. Para uma família traduzida, incluir `translationKey` em cada JSON e `locale`
+   explícito em toda versão não-PT (preferir também `locale: "pt"` na fonte nova).
+   A URL é derivada automaticamente: `/reviews/<slug>` para PT e
+   `/<locale>/reviews/<slug>` para os demais idiomas.
+3. Não criar `page.tsx` por artigo, hreflang manual, seletor manual ou entrada no
+   cluster YesStyle para descobrir uma tradução; manifesto + corpus alimentam o
+   runtime. Redirects só são necessários ao migrar URL já publicada.
+4. Em `paridade-completa`, só marcar a nota-fonte como pronta quando todos os
+   idiomas da matriz tiverem JSON, `locale`, `translationKey`, categoria e
+   manifesto correspondentes. O runtime aceita grupos parciais quando o modo for
+   `liberar-por-conversao`.
+5. Em `liberar-por-conversao`, publicar a fonte PT na estrutura do cluster e
    manter os demais idiomas como `aguardando-gate`; não preencher traduções de
    fachada para completar uma matriz.
-4. Atualizar a matriz da nota do cluster com slugs, estado e data da última
+6. Atualizar a matriz da nota do cluster com slugs, estado e data da última
    verificação técnica.

@@ -21,15 +21,17 @@ Não criar nove notas de artigo para nove traduções. Uma nota-fonte em
 
 ```yaml
 i18n_cluster: "yesstyle"
-i18n_article_key: "kbeauty"
+translationKey: "yesstyle-kbeauty"
 modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, ko, ja, zh-hant, zh-hans]
 status_i18n: "completo"
 ```
 
-`i18n_article_key` é uma chave estável de arquitetura, não o título nem o slug
-traduzido. Cada locale pode ter slug próprio.
+`translationKey` é a chave estável de equivalência editorial do JSON. Não é o
+título, o slug, a categoria, o `reviewKind` nem a marca; cada locale pode ter
+slug próprio. `i18n_cluster` continua opcional e serve apenas para apontar o
+contexto comercial/editorial do vault — não substitui `translationKey`.
 
 ## Fluxo
 
@@ -60,6 +62,7 @@ traduzido. Cada locale pode ter slug próprio.
 
 ## Fontes técnicas
 
+- Contrato genérico de artigos e URLs: `docs/HANDOFF-I18N-SUBPAGINAS-FASE-4.md`.
 - YesStyle: `docs/PLANO-YESSTYLE-I18N-ABC.md`.
 - SHEIN: `docs/HANDOFF-SHEIN-I18N.md`.
 - Registro implementado: `src/lib/i18n/` e validadores em `scripts/`.

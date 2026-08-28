@@ -17,7 +17,8 @@ Antes de calcular qualquer pontuação, a pauta DEVE passar por todos os 6 port�
 - [ ] **5. Classe Editorial Válida:** Enquadra-se com clareza em uma das 4 classes (`category`)?
 - [ ] **6. Fontes Acessíveis & Atuais:** As fontes foram consultadas recentemente e são estáveis?
 - [ ] **7. Decisão i18n Registrada:** A pauta foi marcada como `somente-pt`,
-  `paridade-completa` ou `liberar-por-conversao`, sem assumir tradução automática?
+  `paridade-completa` ou `liberar-por-conversao`, com `translationKey` prevista
+  quando fizer parte de uma família, sem assumir tradução automática?
 
 ---
 
@@ -56,4 +57,5 @@ Criar o arquivo `02_Artigos/<slug>.md` utilizando o `04_Templates/Template-Brief
 Quando a pauta pertence a um parceiro multilíngue, registrar também a chave estável
 do artigo e ligar a pauta à nota em `03_Memoria/Clusters-Multilingues/`. Para a
 SHEIN, estrutura pronta não autoriza tradução: o gate de conversão do PT continua
-obrigatório.
+obrigatório. `i18n_cluster` documenta o contexto; `translationKey` será a chave
+que o JSON usa para conectar as versões.

@@ -25,3 +25,5 @@ Quando `modo_i18n` não for `somente-pt`, o texto PT é a fonte canônica do
 cluster. Marcar no briefing quais claims são universais e quais dependem de país,
 preço, frete, moeda, disponibilidade ou campanha. Não escrever uma versão
 internacional como tradução literal antes da liberação prevista na nota do cluster.
+A eventual versão localizada será ligada ao PT por `translationKey`, não pelo
+título, slug ou marca.

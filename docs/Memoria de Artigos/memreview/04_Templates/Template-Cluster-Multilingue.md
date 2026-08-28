@@ -20,7 +20,7 @@ ultima_revisao: "YYYY-MM-DD"
 
 | Chave | Fonte PT | Idiomas | Estado | Próxima ação |
 |---|---|---:|---|---|
-| `article-key` | [[slug-fonte]] | 1/9 | aguardando-gate | medir PT |
+| `translation-key` | [[slug-fonte]] | 1/9 | aguardando-gate | medir PT |
 
 ## Regras de mercado e fatos comerciais
 

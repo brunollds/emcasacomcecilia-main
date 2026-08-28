@@ -13,15 +13,20 @@ Execute no terminal:
 ```powershell
 npm run typecheck
 npm run validate:content
+npm run test:review-i18n
 npm run test:internal-links
 npm run test:review-discovery
+npm run test:home-curation
+npm run test:home-route-tracking
+npm run test:shell-navigation
+npm run test:site-search
 npm run build
 ```
 
-Para trabalho multilíngue, rodar também os gates específicos da arquitetura
-indicados na nota do cluster (por exemplo, `npm run test:html-lang` e a prova de
-mutação do YesStyle). Confirmar no HTML gerado locale, canonical, hreflang e
-sitemap antes de atualizar a matriz para `completo`.
+Para trabalho multilíngue, rodar também `npm run test:html-lang` e os gates
+específicos indicados na nota do cluster (por exemplo, a prova de mutação do
+YesStyle). Confirmar no HTML gerado locale, canonical, hreflang e sitemap antes
+de atualizar a matriz para `completo`.
 
 ---
 
@@ -29,5 +34,7 @@ sitemap antes de atualizar a matriz para `completo`.
 Após a publicação/deploy bem-sucedido, envie as URLs que sofreram alteração:
 
 ```powershell
-npm run indexnow:submit -- https://emcasacomcecilia.com/reviews/<slug> https://emcasacomcecilia.com/sitemap.xml https://emcasacomcecilia.com/llms.txt
+npm run indexnow:submit -- https://emcasacomcecilia.com/<pathname-canonico-do-review> https://emcasacomcecilia.com/sitemap.xml https://emcasacomcecilia.com/llms.txt
 ```
+
+Use `/reviews/<slug>` para PT e `/<locale>/reviews/<slug>` para versão não-PT.

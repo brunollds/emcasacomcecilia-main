@@ -15,7 +15,7 @@ score_conversao: 0 # 0 a 100
 score_ponderado_total: 0 # 0 a 100
 data_criacao: "2026-08-23"
 i18n_cluster: null # ex.: yesstyle | shein; null quando a pauta é somente PT
-i18n_article_key: null # chave estável dentro do cluster, ex.: kbeauty
+translationKey: null # chave do JSON que une versões, ex.: yesstyle-kbeauty
 modo_i18n: "somente-pt" # somente-pt | paridade-completa | liberar-por-conversao
 idioma_fonte: "pt"
 idiomas_alvo: []
@@ -101,7 +101,8 @@ status_i18n: "nao-aplicavel" # nao-aplicavel | estrutura-pt | aguardando-gate | 
 
 ## 8. Decisão Multilíngue (quando aplicável)
 
-- **Cluster e chave estável:**
+- **Cluster editorial (se houver) e `translationKey`:**
+- **URL canônica prevista:** `/reviews/<slug>` (PT) ou `/<locale>/reviews/<slug>`
 - **Modo i18n:** [ ] Paridade completa | [ ] Liberar por conversão | [ ] Somente PT
 - **Justificativa de mercado e idiomas-alvo:**
 - **Fonte PT será a peça canônica?** [ ] Sim

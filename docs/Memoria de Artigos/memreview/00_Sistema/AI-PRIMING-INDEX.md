@@ -17,6 +17,8 @@
   6. `03_Memoria/Descartadas.md` (para checar se a ideia já foi rejeitada)
   7. `03_Memoria/Clusters-Multilingues/Modelo-Operacional.md` e a nota do
      parceiro, **se** a pauta tiver `i18n_cluster`
+  8. `docs/HANDOFF-I18N-SUBPAGINAS-FASE-4.md`, **se** a pauta for nascer ou
+     receber versão fora de PT
 - **Template de Saída:** `04_Templates/Template-Briefing-Pauta.md`
 - **Destino do Arquivo:** `02_Artigos/<slug>.md` (com `status: pauta-aprovada`)
 
