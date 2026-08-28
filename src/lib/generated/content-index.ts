@@ -42214,5 +42214,276 @@ export const reviewsData: unknown[] = [
         "caption": "A marca informa sabor maracujá doce, zero açúcar, ausência de glúten e lactose."
       }
     ]
+  },
+  {
+    "id": 276,
+    "slug": "nutren-creatina-e-boa-comparativo-growth-ftw-cimed",
+    "title": "Nutren Creatina é Boa? Comparativo com Growth, FTW e Cimed (Lavitan)",
+    "seoTitle": "Nutren Creatina é Boa? Comparativo vs Growth, FTW e Cimed",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Nutren Creatina traz creatina monohidratada, porção de 3 g e 100 porções. Comparamos rótulo, preço oficial e disponibilidade com Growth, FTW e Lavitan.",
+    "metaDescription": "Nutren Creatina é boa? Confira rótulo, preparo, preço por 100 g e um comparativo auditável com Growth, FTW e Lavitan, sem promessas médicas.",
+    "publishedAt": "26 de agosto de 2026",
+    "publishedAtISO": "2026-08-26",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nutren/nutren-creatina-preco-2026-08-27.png",
+    "imageAlt": "Campanha de lançamento da Nutren Creatina 300 g com embalagem, rendimento de 100 doses e preço consultado em agosto de 2026",
+    "imageFit": "cover",
+    "imageAspect": "wide",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "O que é creatina e para que serve?",
+        "paragraphs": [
+          "Se você começou a pesquisar creatina, é fácil ter a impressão de que todos os potes entregam exatamente a mesma coisa. O pó costuma ser branco, o sabor é discreto e quase todas as marcas falam em desempenho. A diferença começa a aparecer quando olhamos a composição, a porção, o rendimento e o preço por grama.",
+          "A creatina é um composto que o próprio organismo produz a partir de aminoácidos e que também está presente em alimentos. A maior parte fica armazenada nos músculos, onde participa do sistema de energia rápida usado principalmente em esforços curtos e intensos. A forma monohidratada é a apresentação mais comum nos suplementos comparados neste guia.",
+          "Para o consumidor, o ponto mais seguro é a alegação autorizada pela Anvisa: a creatina auxilia no aumento do desempenho físico durante exercícios repetidos de curta duração e alta intensidade. Isso inclui, por exemplo, séries de musculação e outros esforços explosivos; não transforma o suplemento em medicamento nem autoriza promessas de tratamento.",
+          "É nesse contexto que a Nutren entra: não como uma creatina “mais forte” por carregar a marca Nestlé, mas como uma nova apresentação de creatina monohidratada que precisa ser comparada com Growth, FTW e Lavitan pelos dados que realmente mudam a compra."
+        ],
+        "bullets": [],
+        "image": "/images/reviews/nutren/nutren-creatina-300g-composicao.webp",
+        "imageAlt": "Embalagem de 300 g da Nutren Creatina ao lado da identificação visual Creatina",
+        "imageCaption": "A embalagem destaca creatina 100% monohidratada, 300 g e sabor neutro.",
+        "imageFit": "contain",
+        "links": [
+          {
+            "label": "Consultar a alegação autorizada para creatina na Anvisa",
+            "href": "https://www.gov.br/anvisa/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria/votos/2025/rop-8.2025/2-5.pdf"
+          },
+          {
+            "label": "Ler a revisão científica sobre creatina e exercício",
+            "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5469049/"
+          }
+        ]
+      },
+      {
+        "heading": "Nutren Creatina é boa? Resposta direta",
+        "paragraphs": [
+          "Sim, a composição declarada é coerente com quem procura uma creatina monohidratada sem mistura: o rótulo informa um único ingrediente, porção de 3 g, embalagem de 300 g e rendimento de 100 porções. Acompanha colher-medida e tem sabor neutro.",
+          "O que não dá para concluir apenas pelo nome da marca é que ela seja mais eficaz ou mais pura do que as concorrentes. Sem laudos comparáveis dos mesmos lotes, a resposta mais útil é esta: a Nutren oferece a formulação esperada, e sua vantagem ou desvantagem depende do preço final, do tamanho da porção, da embalagem e do canal em que você prefere comprar."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "O que o rótulo da Nutren Creatina confirma",
+        "paragraphs": [
+          "A frente e o verso da embalagem fornecem os dados necessários para avaliar esta apresentação sem extrapolar o que a marca declarou."
+        ],
+        "bullets": [
+          "Ingrediente: creatina monohidratada;",
+          "Porção: 3 g, equivalente a uma colher-medida;",
+          "Quantidade de creatina por porção: 3.000 mg;",
+          "Embalagem: 300 g, com 100 porções e colher-medida;",
+          "Preparo do rótulo: adicionar 200 ml de água a um copo, juntar uma colher-medida de 3 g e mexer até a completa dissolução;",
+          "Declarações da embalagem: zero açúcares e não contém glúten;",
+          "Público indicado: adultos a partir de 19 anos."
+        ],
+        "image": "/images/reviews/nutren/nutren-creatina-300g-rotulo.avif",
+        "imageAlt": "Verso da embalagem da Nutren Creatina com ingredientes, tabela nutricional e modo de preparo",
+        "imageCaption": "O verso da embalagem informa porção de 3 g, 100 porções, preparo em 200 ml de água e as advertências do produto.",
+        "imageFit": "contain"
+      },
+      {
+        "heading": "Comparativo auditável: Nutren, Growth, FTW e Lavitan",
+        "paragraphs": [
+          "Os valores abaixo foram consultados em páginas oficiais em 27 de agosto de 2026. Em vez de misturar embalagens e promoções de marketplace, colocamos as quatro marcas na mesma tabela e normalizamos o preço por 100 g quando havia oferta oficial ativa.",
+          "Não atribuímos superioridade de pureza, eficácia ou controle de qualidade sem laudo comparável dos mesmos lotes. A expressão “100% monohidratada” descreve a composição declarada; não substitui ensaio laboratorial independente."
+        ],
+        "comparisonTable": {
+          "caption": "Comparação entre Nutren, Growth, FTW e Lavitan por composição, embalagem, porção, rendimento, preço e custo por 100 gramas",
+          "headers": [
+            "Critério",
+            "Nutren",
+            "Growth",
+            "FTW",
+            "Lavitan"
+          ],
+          "rows": [
+            [
+              "Composição declarada",
+              "Creatina monohidratada",
+              "Creatina monohidratada",
+              "Creatina monohidratada micronizada",
+              "Creatina; conferir a lista do rótulo do lote"
+            ],
+            [
+              "Apresentação",
+              "Sachê de 300 g com colher-medida",
+              "Embalagem de 250 g; scoop conforme disponibilidade",
+              "Pote de 300 g com dosador",
+              "Pote de 300 g com scoop"
+            ],
+            [
+              "Porção e preparo",
+              "3 g em 200 ml de água",
+              "5 g em líquido de preferência",
+              "3 g em 200 ml de água ou outra bebida",
+              "3 g em 200 ml de água"
+            ],
+            [
+              "Rendimento declarado",
+              "100 porções",
+              "50 porções",
+              "Cerca de 100 porções",
+              "Cerca de 100 porções pelo peso e pela porção"
+            ],
+            [
+              "Preço oficial consultado",
+              "R$ 56,91 com o cupom CECI aplicado sobre R$ 59,90",
+              "R$ 49,90 no Pix ou boleto; R$ 55,44 no cartão",
+              "R$ 59,90; R$ 56,91 à vista",
+              "Sem preço; produto esgotado"
+            ],
+            [
+              "Custo por 100 g",
+              "R$ 18,97 com o cupom CECI",
+              "R$ 19,96 no Pix/boleto; R$ 22,18 no cartão",
+              "R$ 19,97 no preço cheio; R$ 18,97 à vista",
+              "Não calculado"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Ver o preço da Nutren Creatina no catálogo oficial",
+            "href": "https://www.nestlenutre.com.br/catalog/category/view/id/9"
+          },
+          {
+            "label": "Ver a Creatina Monohidratada 250 g no site oficial da Growth",
+            "href": "https://www.gsuplementos.com.br/creatina-monohidratada-250gr-growth-supplements-p985931"
+          },
+          {
+            "label": "Ver a Creatina Monohidratada 300 g no site oficial da FTW",
+            "href": "https://www.ftw.com.br/aminoacidos/creatina/creatina-300g"
+          },
+          {
+            "label": "Ver a Creatina em Pó 300 g no site oficial da Lavitan",
+            "href": "https://lavitan.com.br/products/creatina-em-po-lavitan-300g"
+          }
+        ]
+      },
+      {
+        "heading": "Qual delas faz mais sentido para você?",
+        "paragraphs": [
+          "Com os dados que conseguimos confirmar, não existe uma campeã universal. Com o cupom CECI aplicado, Nutren e FTW empatam em R$ 18,97 por 100 g nas condições à vista observadas; frete, disponibilidade e aceitação do desconto no checkout podem mudar o total pago.",
+          "A Nutren faz sentido para quem quer o sachê de 300 g e já compra na loja Nestlé Nutre. A Growth fica em R$ 19,96 por 100 g no Pix, mas usa porção declarada de 5 g e embalagem de 250 g. A FTW oferece pote de 300 g e chega ao mesmo custo por 100 g da Nutren com CECI. A Lavitan pode ser conveniente para quem a encontra em farmácias, mas estava esgotada e sem preço oficial na consulta.",
+          "Em qualquer marca, confirme no rótulo o ingrediente, a porção, o lacre, o lote, a validade e as advertências. Compare o preço final depois de frete e desconto, não apenas o número em destaque na vitrine."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Como preparar e quais cuidados observar",
+        "paragraphs": [
+          "Para a Nutren Creatina, siga a porção declarada na própria embalagem: uma colher-medida de 3 g dissolvida em 200 ml de água, uma vez ao dia. Não use a faixa genérica de 3 a 5 g encontrada em outros conteúdos como substituta da orientação deste rótulo.",
+          "A embalagem informa que o produto é destinado a adultos a partir de 19 anos, não deve ser consumido por gestantes, lactantes e crianças, não é medicamento e não deve ter a recomendação diária excedida. Pessoas com enfermidades ou que usam medicamentos devem discutir a suplementação com médico ou nutricionista antes de começar.",
+          "O rótulo não exige fase de saturação, horário específico, refeição com carboidrato nem meta de água calculada por quilo corporal. Para a pergunta “qual o melhor horário para tomar creatina?”, a resposta prática é seguir a porção do produto e escolher um horário que facilite a regularidade; este guia não transforma sugestões comerciais de uma marca em prescrição para todas."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Creatina engorda, incha ou serve para idosos?",
+        "paragraphs": [
+          "A tabela nutricional informa que a porção não contém quantidades significativas de valor energético. Isso, isoladamente, não permite prometer ausência de mudança no peso corporal nem afirmar que qualquer retenção será exclusivamente dentro do músculo; respostas individuais e o restante da rotina também importam.",
+          "Para pessoas idosas, a resposta não deve começar por “sim”. A embalagem indica uso adulto, mas idade, doenças, função renal, alimentação e medicamentos podem mudar a decisão. A avaliação deve ser individualizada por um profissional de saúde.",
+          "Também não usamos a Nutren Creatina para prometer tratamento de sarcopenia, melhora cognitiva ou saúde óssea. Essas seriam alegações médicas que vão além da finalidade autorizada para o suplemento."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Preço oficial e cupom CECI",
+        "paragraphs": [
+          "Na consulta de 27 de agosto de 2026, o catálogo oficial Nestlé Nutre mostrava a embalagem de 300 g por R$ 59,90. A imagem abaixo registra esse momento; preço, estoque e condições podem mudar.",
+          "Aplicando 5% sobre R$ 59,90, o valor fica em R$ 56,91, equivalente a R$ 18,97 por 100 g. Como a elegibilidade é confirmada no checkout, verifique se o código CECI foi aceito e compare o total com frete antes de pagar."
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "Consultar regras e validade do cupom CECI na página Nestlé Nutre",
+            "href": "/cupons/nutren"
+          },
+          {
+            "label": "Ver a Nutren Creatina na loja oficial Nestlé Nutre",
+            "href": "https://www.nestlenutre.com.br/nutren-creatina-sachet-300g",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o guia do Nutren Just Protein sem sabor",
+            "href": "/reviews/nutren-just-protein-para-que-serve"
+          },
+          {
+            "label": "Ver a análise do Nutren Senior Zero Lactose",
+            "href": "/reviews/nutren-senior-zero-lactose-ficha-tecnica"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes sobre a Nutren Creatina",
+        "bullets": [
+          "A Nutren Creatina é 100% creatina monohidratada? A frente usa a expressão “100% monohidratada” e a lista de ingredientes declara somente creatina monohidratada. Isso descreve o rótulo; não fizemos teste laboratorial independente do lote.",
+          "Quantas porções vêm na embalagem? O sachê de 300 g declara 100 porções de 3 g.",
+          "Qual foi a mais barata no comparativo? Nas condições observadas em 27/08/2026, Nutren com CECI e FTW à vista empataram em R$ 18,97 por 100 g. Growth ficou em R$ 19,96 no Pix ou boleto. Frete, estoque e aceitação do desconto no checkout podem mudar o resultado.",
+          "Qual é o melhor horário para tomar creatina? Os rótulos consultados orientam uma porção diária, mas não condicionam o uso a pré ou pós-treino. Escolha um horário que ajude a seguir a recomendação do seu produto e peça orientação individual se necessário.",
+          "Idosos podem usar? O produto é destinado a adultos, mas a decisão para uma pessoa idosa deve considerar saúde, alimentação e medicamentos com orientação profissional.",
+          "É preciso fazer fase de saturação? O rótulo da Nutren orienta uma porção de 3 g ao dia e não pede fase de saturação. Não exceda a recomendação da embalagem sem orientação profissional.",
+          "A creatina trata sarcopenia ou problemas cognitivos? Este suplemento não é medicamento. A alegação funcional autorizada refere-se ao auxílio no desempenho físico em exercícios repetidos, curtos e de alta intensidade."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Consulte a Nutren Creatina na loja oficial e confira se o cupom CECI se aplica ao carrinho",
+      "label": "Ver creatina na loja oficial",
+      "url": "https://www.nestlenutre.com.br/nutren-creatina-sachet-300g",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nutren",
+    "editorialNote": "Este guia usa o rótulo fotografado da Nutren Creatina, páginas oficiais consultadas em 27/08/2026 e a alegação funcional autorizada pela Anvisa. O Em Casa com Cecília mantém parceria comercial com a Nestlé Nutre por meio do cupom CECI.",
+    "relatedArticles": [
+      {
+        "slug": "nutren-just-protein-para-que-serve",
+        "title": "Nutren Just Protein: tudo o que você precisa saber"
+      },
+      {
+        "slug": "nutren-senior-zero-lactose-ficha-tecnica",
+        "title": "Nutren Senior Zero Lactose: Ficha Técnica e Modo de Uso"
+      },
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar",
+        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 5%"
+      }
+    ],
+    "gallery": [
+      {
+        "image": "/images/reviews/nutren/nutren-creatina-300g-frente.avif",
+        "alt": "Frente da embalagem da Nutren Creatina 300 g",
+        "caption": "Frente da embalagem: creatina 100% monohidratada, sabor neutro e 300 g."
+      },
+      {
+        "image": "/images/reviews/nutren/nutren-creatina-300g-rotulo.avif",
+        "alt": "Verso da embalagem da Nutren Creatina 300 g",
+        "caption": "Verso do sachê com ingredientes, porção, preparo e advertências."
+      },
+      {
+        "image": "/images/reviews/nutren/nutren-creatina-300g-composicao.webp",
+        "alt": "Apresentação visual da embalagem de Nutren Creatina 300 g",
+        "caption": "Apresentação de 300 g com 100 porções declaradas de 3 g."
+      },
+      {
+        "image": "/images/reviews/nutren/nutren-creatina-preco-2026-08-27.png",
+        "alt": "Registro da oferta oficial da Nutren Creatina em agosto de 2026",
+        "caption": "Preço observado na loja oficial em 27 de agosto de 2026."
+      }
+    ]
   }
 ];

@@ -69,18 +69,19 @@
       "kind": "percentage",
       "value": 15
     },
-    "startsAt": "2026-08-27",
+    "startsAt": "2026-08-28",
     "expiresAt": "2026-09-01",
-    "verifiedAt": "2026-08-27",
-    "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.1893",
+    "verifiedAt": "2026-08-28",
+    "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.1893##5232",
     "affiliateUrl": "https://ystyle.co/rQYQv",
     "eligibility": [
-      "15% OFF em qualquer pedido, sem valor mínimo",
-      "Disponível para membros YesStyle; não se aplica a compras como visitante"
+      "15% OFF em qualquer pedido, sem valor mínimo, para membros YesStyle",
+      "Não se aplica a compras como visitante"
     ],
     "restrictions": [
       "Válido de 28/08/2026 às 02:00 GMT a 01/09/2026 às 01:59 GMT para pedidos elegíveis.",
-      "Use no campo Coupon Code; não pode ser combinado com outro cupom promocional, mas funciona com preços de promoção existentes."
+      "Use no campo Coupon Code; não pode ser combinado com outro cupom promocional, mas funciona com preços promocionais existentes.",
+      "Aplicável aos preços dos produtos, não ao frete ou reenvio; itens inelegíveis são informados na página do produto ou no checkout."
     ],
     "status": "active",
     "regions": ["GLOBAL"]
