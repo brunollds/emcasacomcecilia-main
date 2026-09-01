@@ -83,7 +83,32 @@
       "Use no campo Coupon Code; não pode ser combinado com outro cupom promocional, mas funciona com preços promocionais existentes.",
       "Aplicável aos preços dos produtos, não ao frete ou reenvio; itens inelegíveis são informados na página do produto ou no checkout."
     ],
-    "status": "active",
+    "status": "expired",
     "regions": ["GLOBAL"]
+  },
+  {
+    "id": "labor15-promo",
+    "code": "LABOR15",
+    "type": "coupon",
+    "discount": {
+      "kind": "percentage",
+      "value": 15
+    },
+    "startsAt": "2026-09-01",
+    "expiresAt": "2026-09-07",
+    "verifiedAt": "2026-09-01",
+    "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2854",
+    "affiliateUrl": "https://ystyle.co/rQYQv",
+    "eligibility": [
+      "15% OFF sem valor mínimo para membros YesStyle",
+      "Somente para pedidos enviados a endereços nos Estados Unidos"
+    ],
+    "restrictions": [
+      "Válido de 01/09/2026 às 00:00 GMT a 07/09/2026 às 23:59 GMT para membros YesStyle e produtos elegíveis.",
+      "Use no campo Coupon Code; pode ser combinado com CECILIA010 no campo Reward Code, preços promocionais e YS Points.",
+      "Não pode ser combinado com outro cupom promocional e não se aplica a frete, reenvio ou taxas adicionais."
+    ],
+    "status": "active",
+    "regions": ["US"]
   }
 ]

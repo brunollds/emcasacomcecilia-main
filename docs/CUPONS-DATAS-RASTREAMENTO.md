@@ -1,7 +1,11 @@
 # Rastreamento de datas mensais dos cupons
 
 > Documento de referência para facilitar a atualização mensal das referências de cupons no projeto.
-> Última atualização: agosto/2026.
+> Última atualização: setembro/2026.
+>
+> A data só deve avançar após verificação real ou confirmação direta da parceria, conforme
+> `docs/MANUTENCAO-MENSAL.md`. Este arquivo é o inventário dos locais; a rotina de verificação
+> é governada pelo documento de manutenção.
 
 ## Arquivos que precisam de revisão mensal
 
@@ -24,6 +28,7 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 | `nutren` | Nutren / Nestlé Nutri | `CECI` | `lastVerified` |
 | `i-wanna-sleep` | I Wanna Sleep | `CECIEMCASA` | `lastVerified` |
 | `magalu` | Magalu (Magazine Você da Cecília) | `100EMCASACOMCECILIA` (+ 9 faixas em `tiers`) | `lastVerified`, `metaTitle`, `metaDescription`, FAQ "Cupom Magalu hoje" |
+| `shein` | SHEIN | Oferta por link, `referral` e `campaigns` | `lastVerified`, destinos, códigos, público e `verifiedAt` de cada campanha |
 
 #### Cupons inativos (não aparecem no site, mas mantêm histórico)
 
@@ -111,7 +116,7 @@ grep -n -E "(Jan|Fev|Mar|Abr|Mai|Jun|Jul|Ago|Set|Out|Nov|Dez)\s+2026" content/re
 
 ## Checklist de atualização mensal
 
-- [ ] Atualizar `lastVerified` em `src/lib/couponsData.ts` para todos os cupons ativos
+- [ ] Atualizar `lastVerified` em `src/lib/couponsData.ts` somente nas ofertas reconfirmadas
 - [ ] Atualizar `metaDescription` de cupons que mencionam "atualizado mês ano"
 - [ ] Preservar `publishedAt` e `publishedAtISO` dos artigos já publicados, salvo republicação editorial real
 - [ ] Atualizar títulos de artigos de cupom que incluem mês/ano
@@ -125,7 +130,7 @@ grep -n -E "(Jan|Fev|Mar|Abr|Mai|Jun|Jul|Ago|Set|Out|Nov|Dez)\s+2026" content/re
 
 ## Notas
 
-- **Importante sobre `lastVerified`**: na atualização mensal (dia 01 do mês), o campo `lastVerified` deve ser definido para o dia 01 do mês vigente (ex: 2026-07-01 em julho, 2026-08-01 em agosto). Nunca deve conter uma data futura — datas futuras publicadas em `dateModified` e sitemap.xml são sinal negativo para o Google.
+- **Importante sobre `lastVerified`**: registrar a data real da verificação ou da confirmação direta da parceria. Nunca avançar mecanicamente todas as ofertas nem publicar data futura — isso contamina `dateModified` e `sitemap.xml`.
 - Não alterar datas editoriais de conteúdos já publicados apenas para refletir a verificação mensal do cupom.
 - Não alterar datas de conteúdos que não têm relação com cupons (ex: receitas, reviews de produtos sem cupom ativo, histórico curioso).
 - Artigos marcados como `draft: true` não geram páginas nem entram no sitemap, mas devem manter consistência se forem publicados no futuro.

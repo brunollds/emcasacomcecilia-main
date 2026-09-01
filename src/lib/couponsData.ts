@@ -116,14 +116,14 @@ export const COUPONS: Coupon[] = [
       'Código exclusivo da Cecília para economizar em compras no site da DAMIE.',
     metaTitle: 'Cupom DAMIE 12% OFF • CECILIA12 ativo • Em Casa com Cecília',
     metaDescription:
-      'Cupom DAMIE atualizado agosto 2026: use CECILIA12 para 12% OFF em todo o site.',
+      'Cupom DAMIE atualizado setembro 2026: use CECILIA12 para 12% OFF em todo o site.',
     eligibleCategories:
       'Todo o site DAMIE',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
     reusable: 'Sim, sem limite de usos por CPF',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Não cumulativo com outros cupons ou promoções especiais',
-    lastVerified: '2026-08-01',
+    lastVerified: '2026-09-01',
     aboutBrand:
       'A DAMIE é uma marca brasileira de móveis estofados premium, com foco em poltronas reclináveis, sofás, camas e soluções de conforto para a casa. A Cecília usa produtos da marca no dia a dia e produziu reviews mostrando montagem, acabamento, conforto e uso real em casa. O cupom CECILIA12 foi criado para quem acompanha o Em Casa com Cecília e quer comprar com desconto direto no checkout. A proposta da parceria é simples: indicar produtos que fazem sentido para uma casa mais confortável, sem esconder que existe relação comercial e comissão de afiliado quando uma compra é feita pelo link ou cupom.',
     faqs: [
@@ -210,29 +210,29 @@ export const COUPONS: Coupon[] = [
     brandLogoAlt: 'Marca Nescafé Dolce Gusto',
     brandColor: '#7E2A1A',
     code: 'CECI',
-    discount: '5% OFF',
-    discountNumber: 5,
+    discount: '10% OFF',
+    discountNumber: 10,
     category: 'Café e bebidas',
     shortDescription: 'cápsulas, máquinas e acessórios da loja oficial',
     longDescription:
       'Código da Cecília para economizar em compras na loja oficial Nescafé Dolce Gusto Brasil.',
-    metaTitle: 'Cupom Dolce Gusto Agosto 2026: CECI — 5% OFF na Loja Oficial',
+    metaTitle: 'Cupom Dolce Gusto Setembro 2026: CECI — 10% OFF na Loja Oficial',
     metaDescription:
-      'Cupom Dolce Gusto testado em agosto de 2026: use CECI no checkout da loja oficial Nescafé Dolce Gusto e ganhe 5% OFF em compras a partir de R$ 100.',
+      'Cupom Dolce Gusto testado em setembro de 2026: use CECI no checkout da loja oficial Nescafé Dolce Gusto e ganhe 10% OFF em compras a partir de R$ 100.',
     eligibleCategories:
       'Todo o site oficial Dolce Gusto, em compras a partir de R$ 100',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
     reusable: 'Sim, até 3 usos por CPF',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Pode variar conforme campanha ativa da loja oficial',
-    lastVerified: '2026-08-01',
+    lastVerified: '2026-09-01',
     aboutBrand:
       'A Nescafé Dolce Gusto é uma linha de cafés e bebidas em cápsulas da Nestlé, com máquinas e sabores pensados para preparo rápido em casa. A marca combina praticidade com variedade: cafés intensos, bebidas com leite, cappuccinos, chocolates e opções geladas aparecem no catálogo da loja oficial. O cupom CECI entra como benefício para quem acompanha a Cecília e quer economizar em compras na loja oficial. Como em toda parceria comercial, a recomendação deve ser conferida no checkout: o desconto aparece antes da finalização quando a regra da campanha permite.',
     faqs: [
       {
         question: 'O cupom CECI vale para todas as cápsulas Dolce Gusto?',
         answer:
-          'Sim: o CECI dá 5% OFF em todo o catálogo da loja oficial Dolce Gusto — cápsulas, máquinas e acessórios — em compras a partir de R$ 100. Confirme o desconto no resumo do carrinho antes de finalizar.',
+          'Sim: o CECI dá 10% OFF em todo o catálogo da loja oficial Dolce Gusto — cápsulas, máquinas e acessórios — em compras a partir de R$ 100. Confirme o desconto no resumo do carrinho antes de finalizar.',
       },
       {
         question: 'O cupom CECI funciona em máquinas Dolce Gusto?',
@@ -433,15 +433,15 @@ export const COUPONS: Coupon[] = [
     shortDescription: 'produtos Nestlé Nutre, exceto Alfamino e Alfaré',
     longDescription:
       'Código da Cecília para economizar em produtos Nestlé Nutre na loja oficial, exceto Alfamino e Alfaré.',
-    metaTitle: 'Cupom Nestlé Nutre Agosto 2026: CECI — 5% OFF na Loja Oficial',
+    metaTitle: 'Cupom Nestlé Nutre Setembro 2026: CECI — 5% OFF na Loja Oficial',
     metaDescription:
-      'Cupom Nestlé Nutre testado em agosto de 2026: use CECI no checkout da loja oficial e ganhe 5% OFF. Válido para produtos Nestlé Nutre, exceto Alfamino e Alfaré.',
+      'Cupom Nestlé Nutre testado em setembro de 2026: use CECI no checkout da loja oficial e ganhe 5% OFF. Válido para produtos Nestlé Nutre, exceto Alfamino e Alfaré.',
     eligibleCategories: 'Produtos Nestlé Nutre, exceto Alfamino e Alfaré',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Pode variar conforme campanha ativa da loja oficial',
-    lastVerified: '2026-08-01',
+    lastVerified: '2026-09-01',
     aboutBrand:
       'A Nestlé Nutre é uma loja oficial da Nestlé voltada a produtos de nutrição e suplementação, com opções para diferentes rotinas e necessidades alimentares. Os produtos disponíveis podem fazer parte do dia a dia de quem busca praticidade na alimentação, sempre conforme as indicações do rótulo e, quando necessário, com orientação de um profissional de saúde. O cupom CECI foi criado para quem acompanha o Em Casa com Cecília e quer economizar na loja oficial, com exceção de Alfamino e Alfaré. Como em toda parceria comercial, a recomendação é conferir o desconto aplicado no checkout antes de finalizar a compra.',
     faqs: [
@@ -513,16 +513,16 @@ export const COUPONS: Coupon[] = [
     shortDescription: 'todo o site I Wanna Sleep',
     longDescription:
       'Código da Cecília para economizar em compras no site da I Wanna Sleep.',
-    metaTitle: 'Cupom I Wanna Sleep Agosto 2026: CECIEMCASA — 10% OFF',
+    metaTitle: 'Cupom I Wanna Sleep Setembro 2026: CECIEMCASA — 10% OFF',
     metaDescription:
-      'Cupom I Wanna Sleep atualizado em agosto de 2026: use CECIEMCASA no checkout e ganhe 10% OFF em todo o site oficial.',
+      'Cupom I Wanna Sleep atualizado em setembro de 2026: use CECIEMCASA no checkout e ganhe 10% OFF em todo o site oficial.',
     eligibleCategories:
       'Todo o site I Wanna Sleep',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Pode variar conforme campanha ativa da loja oficial',
-    lastVerified: '2026-08-01',
+    lastVerified: '2026-09-01',
     aboutBrand:
       'A I Wanna Sleep é uma marca focada em produtos para sono, conforto e bem-estar do quarto, como colchões, travesseiros, lençóis e acessórios pensados para rotinas de descanso. O cupom CECIEMCASA entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar no site oficial. Como regras de desconto, frete e aplicação podem variar por campanha e produto, a recomendação é sempre conferir o desconto no checkout antes de finalizar a compra.',
     faqs: [
@@ -593,9 +593,9 @@ export const COUPONS: Coupon[] = [
     shortDescription: 'produtos vendidos e entregues pelo Magalu na loja Magazine Você da Cecília',
     longDescription:
       'Códigos exclusivos da parceria da Cecília com o Magalu, em 10 faixas de R$ 10 a R$ 100 OFF conforme o valor do carrinho. Válidos apenas na loja Magazine Você da Cecília, em produtos vendidos e entregues pelo Magalu.',
-    metaTitle: 'Cupom Magalu Agosto 2026: 100EMCASACOMCECILIA até R$ 100 OFF',
+    metaTitle: 'Cupom Magalu Setembro 2026: 100EMCASACOMCECILIA até R$ 100 OFF',
     metaDescription:
-      'Cupom Magalu em agosto 2026: use 100EMCASACOMCECILIA e ganhe até R$ 100 OFF na loja Magazine Você da Cecília. Válido só no navegador — veja todas as faixas.',
+      'Cupom Magalu em setembro 2026: use 100EMCASACOMCECILIA e ganhe até R$ 100 OFF na loja Magazine Você da Cecília. Válido só no navegador — veja todas as faixas.',
     eligibleCategories:
       'Produtos vendidos e entregues pelo Magalu, conforme a faixa de valor mínimo de cada cupom',
     validity: 'Cupons ativos enquanto a parceria estiver vigente',
@@ -603,7 +603,7 @@ export const COUPONS: Coupon[] = [
     shipping: 'Calculado separadamente, conforme política do Magalu',
     combinable:
       'Em regra, cupons não acumulam com outras promoções; confirme no checkout',
-    lastVerified: '2026-08-01',
+    lastVerified: '2026-09-01',
     aboutBrand:
       'A loja Magazine Você da Cecília faz parte do programa oficial Influenciador Magalu (antigo Magazine Você), mantido pela Magazine Luiza S/A (CNPJ 47.960.950/0001-21). O domínio magazinevoce.com.br pertence à própria Magalu desde 2011, o que significa que quem vende, cobra, entrega e faz o pós-venda é o Magalu — e o login usado na loja é a conta Magalu que você já tem no site e no app. Os códigos desta campanha são criados pela Cecília para a própria loja: estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília — não no app do Magalu nem no site principal. Comprar por essa loja pode gerar comissão para o Em Casa com Cecília, sem custo extra para você: o preço e o desconto exibidos no checkout são exatamente os da sua faixa.',
     faqs: [
@@ -655,7 +655,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'Cupom Magalu hoje: está funcionando?',
         answer:
-          'A última verificação dos 10 códigos foi em 1º de agosto de 2026. Todos estavam ativos. Esta página é atualizada sempre que algo muda na campanha — se um código deixar de funcionar, o aviso aparece aqui.',
+          'A última confirmação dos 10 códigos foi em 1º de setembro de 2026. Todos estavam ativos. Esta página é atualizada sempre que algo muda na campanha — se um código deixar de funcionar, o aviso aparece aqui.',
       },
       {
         question: 'O cupom funciona no celular?',
