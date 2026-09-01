@@ -5,7 +5,7 @@
 **Atualizado em:** 14/08/2026
 
 **Status:** vocabulário editorial aprovado; backfill, validação técnica e rotação automática na
-home implementados (Commits 3A–3D, ver Seção 9)
+home implementados (Commits 3A–3D, ver Seção 10)
 
 ## 1. A decisão obrigatória de pauta
 
@@ -91,7 +91,17 @@ Esses campos dependem do conteúdo e das capacidades de render necessárias.
 A mudança efetiva em `central-editorial/packages/content-model` e no formulário da Central
 pertence ao repositório da Central e exige tarefa própria.
 
-## 7. Checklist antes de publicar
+## 7. Extensão do texto
+
+Não existe teto ou meta fixa de caracteres, parágrafos ou linhas para artigos de Guias &
+Análises. A extensão é determinada pela complexidade da pergunta e pela evidência necessária
+para respondê-la bem.
+
+Revisar por densidade, não por tamanho: cortar repetição, desvio de intenção, frase sem sentido
+ou afirmação que não acrescenta evidência. Não remover contexto útil, experiência própria,
+metodologia, ressalva ou comparação apenas para encurtar o artigo.
+
+## 8. Checklist antes de publicar
 
 - [ ] A pauta escolheu exatamente uma classe.
 - [ ] A classe corresponde à pergunta principal, não ao nome da marca.
@@ -101,13 +111,13 @@ pertence ao repositório da Central e exige tarefa própria.
 - [ ] Se houver parceria, o artigo também cumpre `CONTRATO-ARTIGO-AFILIADO.md`.
 - [ ] Se houver vídeo, cumpre `GUIA-EDITORIAL-VIDEOS.md` sem duplicar `category` no vídeo.
 
-## 8. Escopo atual
+## 9. Escopo atual
 
 O vocabulário foi aprovado para os 32 artigos listados em português, com distribuição inicial
 10/10/7/5. Esses números são retrato do acervo, não metas nem asserções permanentes. Conteúdo
 internacional recebe classe somente depois de decisão e backfill por locale.
 
-## 9. Rotação automática dos quatro destaques da home
+## 10. Rotação automática dos quatro destaques da home
 
 `category` não é só taxonomia de navegação: desde os commits `7f12c94`, `0b6fb29`,
 `c67d9df`/`134815b` e `9870a86` (plano técnico em
