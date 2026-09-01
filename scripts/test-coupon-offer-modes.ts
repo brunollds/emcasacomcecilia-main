@@ -12,7 +12,7 @@ assert.equal('code' in shein, false, 'SHEIN não pode expor referral como coupon
 assert.equal('discountNumber' in shein, false, 'SHEIN não pode contaminar a média de descontos');
 assert.equal(shein.affiliateAccountId, '6177013015');
 assert.equal(shein.referral?.code, '4CW5Y');
-assert.equal(shein.referral?.verifiedAt, '2026-08-11');
+assert.equal(shein.referral?.verifiedAt, '2026-09-01');
 const sheinOfferUrl = new URL(shein.offerUrl);
 assert.equal(sheinOfferUrl.hostname, 'br.shein.com');
 assert.equal(sheinOfferUrl.searchParams.get('koc_id'), '6177013015');
