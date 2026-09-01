@@ -32425,12 +32425,12 @@ export const reviewsData: unknown[] = [
   {
     "id": 18,
     "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-    "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 10% (SETEMBRO 2026)",
+    "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5% (SETEMBRO 2026)",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "description": "Guia completo para aplicar o cupom CECI no site oficial da NESCAFÉ Dolce Gusto e obter 10% de desconto em compras acima de R$ 100.",
-    "metaDescription": "Cupom CECI NESCAFÉ Dolce Gusto: use CECI no site oficial e obtenha 10% OFF em cápsulas, cafeteiras e acessórios a partir de R$ 100. Ativo em setembro de 2026.",
+    "description": "Guia completo para aplicar o cupom CECI no site oficial da NESCAFÉ Dolce Gusto e obter 5% de desconto em compras acima de R$ 100.",
+    "metaDescription": "Cupom CECI NESCAFÉ Dolce Gusto: use CECI no site oficial e obtenha 5% OFF em cápsulas, cafeteiras e acessórios a partir de R$ 100. Ativo em setembro de 2026.",
     "publishedAt": "19 Jun 2026",
     "publishedAtISO": "2026-06-19",
     "image": "/images/reviews/cupons/nescafe-dolce-gusto-hero.webp",
@@ -32465,7 +32465,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [
-      "Desconto de 10% confirmado no site oficial em setembro de 2026",
+      "Desconto de 5% confirmado no site oficial em setembro de 2026",
       "Válido para todo o catálogo: cápsulas, máquinas e acessórios",
       "Código verificado e atualizado mensalmente",
       "Sem limite global de utilizações da parceria",
@@ -32484,23 +32484,23 @@ export const reviewsData: unknown[] = [
       "label": "Acessar NESCAFÉ Dolce Gusto",
       "url": "https://www.nescafe-dolcegusto.com.br/"
     },
-    "editorialNote": "Este artigo é parte de uma parceria entre o blog Em Casa com Cecília e a NESCAFÉ DOLCE GUSTO. O cupom CECI é um código oficial fornecido pela marca. Ao utilizá-lo, você pode receber 10% de desconto em compras elegíveis conforme as regras vigentes, e o blog pode receber uma comissão pela indicação — sem nenhum custo adicional para você. Confira sempre a aplicação no checkout.",
+    "editorialNote": "Este artigo é parte de uma parceria entre o blog Em Casa com Cecília e a NESCAFÉ DOLCE GUSTO. O cupom CECI é um código oficial fornecido pela marca. Ao utilizá-lo, você pode receber 5% de desconto em compras elegíveis conforme as regras vigentes, e o blog pode receber uma comissão pela indicação — sem nenhum custo adicional para você. Confira sempre a aplicação no checkout.",
     "contentSections": [
       {
         "heading": "Resposta rápida: cupom CECI NESCAFÉ Dolce Gusto",
         "paragraphs": [
-          "O cupom CECI é um cupom de desconto válido e ativo para compras no site oficial da NESCAFÉ Dolce Gusto no Brasil. Ao aplicar o código CECI no checkout, você pode obter 10% de desconto em produtos elegíveis para compras a partir de R$ 100 (limitado a 3 usos por CPF).",
+          "O cupom CECI é um cupom de desconto válido e ativo para compras no site oficial da NESCAFÉ Dolce Gusto no Brasil. Ao aplicar o código CECI no checkout, você pode obter 5% de desconto em produtos elegíveis para compras a partir de R$ 100 (limitado a 3 usos por CPF).",
           "Este cupom NESCAFÉ é exclusivo da parceria entre a NESCAFÉ DOLCE GUSTO e o blog Em Casa com Cecília, ideal para quem busca economizar sem abrir mão da qualidade do café em casa."
         ],
         "bullets": [
           "Código: CECI",
-          "Desconto: 10% OFF em produtos elegíveis",
+          "Desconto: 5% OFF em produtos elegíveis",
           "Compra Mínima: A partir de R$ 100 em produtos",
           "Limites: Até 3 utilizações por CPF",
           "Onde usar: Site oficial NESCAFÉ Dolce Gusto Brasil",
           "Válido em: SETEMBRO 2026 (cupom verificado e ativo)"
         ],
-        "emphasis": "Use o código CECI no checkout da NESCAFÉ DOLCE GUSTO e confira a aplicação de 10% OFF nos produtos elegíveis.",
+        "emphasis": "Use o código CECI no checkout da NESCAFÉ DOLCE GUSTO e confira a aplicação de 5% OFF nos produtos elegíveis.",
         "links": [
           {
             "label": "Cupom Dolce Gusto atualizado",
@@ -32511,7 +32511,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Dolce Gusto hoje: está ativo?",
         "paragraphs": [
-          "Sim, o cupom CECI está ativo para compras na loja oficial da NESCAFÉ Dolce Gusto. Nossa última verificação foi em 1º de setembro de 2026. O cupom oferece 10% de desconto em produtos elegíveis, em compras acima de R$ 100, limitado a 3 usos por CPF. Confirme a aplicação no checkout.",
+          "Sim, o cupom CECI está ativo para compras na loja oficial da NESCAFÉ Dolce Gusto. Nossa última verificação foi em 1º de setembro de 2026. O cupom oferece 5% de desconto em produtos elegíveis, em compras acima de R$ 100, limitado a 3 usos por CPF. Confirme a aplicação no checkout.",
           "Para estar sempre segura sobre as condições mais recentes, confira a página dedicada ao cupom Dolce Gusto aqui do blog. Ela é atualizada regularmente com novas informações sobre o código, mudanças nas regras e promoções pontuais que possam estar ativas no site oficial."
         ],
         "links": [
@@ -32524,7 +32524,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o cupom CECI da NESCAFÉ Dolce Gusto?",
         "paragraphs": [
-          "O cupom CECI é um código promocional que oferece 10% de desconto em produtos elegíveis em compras realizadas diretamente no site oficial da DOLCE GUSTO no Brasil. Como regras comerciais podem mudar, o código é reconfirmado mensalmente e o valor exibido no checkout é sempre a referência final.",
+          "O cupom CECI é um código promocional que oferece 5% de desconto em produtos elegíveis em compras realizadas diretamente no site oficial da DOLCE GUSTO no Brasil. Como regras comerciais podem mudar, o código é reconfirmado mensalmente e o valor exibido no checkout é sempre a referência final.",
           "O código funciona em praticamente todos os produtos disponíveis no site: cápsulas de café, máquinas e cafeteiras DOLCE GUSTO, acessórios e peças de reposição, além de kits e combos promocionais."
         ],
         "bullets": [
@@ -32570,7 +32570,7 @@ export const reviewsData: unknown[] = [
         "imageCaption": "Digite CECI no campo \"Código do voucher\" e clique em aplicar.",
         "imageFit": "contain",
         "paragraphs": [
-          "Com o campo aberto, digite exatamente **CECI** no espaço escrito **\"Código do voucher\"** (sem espaços ou caracteres extras). Clique em aplicar. O sistema calculará o desconto de 10% sobre os produtos elegíveis de forma automática."
+          "Com o campo aberto, digite exatamente **CECI** no espaço escrito **\"Código do voucher\"** (sem espaços ou caracteres extras). Clique em aplicar. O sistema calculará o desconto de 5% sobre os produtos elegíveis de forma automática."
         ]
       },
       {
@@ -32580,7 +32580,7 @@ export const reviewsData: unknown[] = [
         "imageCaption": "Confirme o desconto no resumo do pedido antes de finalizar.",
         "imageFit": "contain",
         "paragraphs": [
-          "Confirme se o desconto de 10% apareceu detalhado no resumo do pedido antes de realizar o pagamento. Lembre-se de que o cupom é limitado a 3 utilizações por CPF, exige compra mínima de R$ 100 e o desconto não incide sobre o frete."
+          "Confirme se o desconto de 5% apareceu detalhado no resumo do pedido antes de realizar o pagamento. Lembre-se de que o cupom é limitado a 3 utilizações por CPF, exige compra mínima de R$ 100 e o desconto não incide sobre o frete."
         ]
       },
       {
@@ -32605,7 +32605,7 @@ export const reviewsData: unknown[] = [
           "Antes de usar o cupom CECI, fique atento às regras e condições para garantir que seu desconto seja aplicado corretamente."
         ],
         "bullets": [
-          "Desconto: 10% sobre o valor dos produtos elegíveis.",
+          "Desconto: 5% sobre o valor dos produtos elegíveis.",
           "Compra mínima: Válido para pedidos a partir de R$ 100 em produtos.",
           "Limite de uso: Cada CPF pode utilizar o cupom no máximo 3 vezes.",
           "Validade: Verificado e ativo para SETEMBRO 2026 — atualizado todo mês.",
@@ -32623,7 +32623,7 @@ export const reviewsData: unknown[] = [
           "Cápsulas de café: A alma do sistema DOLCE GUSTO. Desde os clássicos espresso e ristretto até opções indulgentes como cappuccino, latte macchiato, chocolate quente e chá.",
           "Máquinas e cafeteiras: Desde os modelos mais compactos para cozinhas pequenas até os modelos automáticos com tecnologia de extração de alta pressão.",
           "Acessórios: Porta-cápsulas, xícaras, kits de manutenção e outros itens que complementam a experiência do café em casa.",
-          "Combos e kits promocionais: a NESCAFÉ DOLCE GUSTO frequentemente monta kits com máquina + cápsulas. Teste o cupom CECI para verificar se os 10% OFF se aplicam ao kit escolhido."
+          "Combos e kits promocionais: a NESCAFÉ DOLCE GUSTO frequentemente monta kits com máquina + cápsulas. Teste o cupom CECI para verificar se os 5% OFF se aplicam ao kit escolhido."
         ]
       },
       {
@@ -32632,7 +32632,7 @@ export const reviewsData: unknown[] = [
           "Usar o cupom CECI traz benefícios reais para o seu bolso e apoia o blog Em Casa com Cecília. Veja por que vale a pena:"
         ],
         "bullets": [
-          "Economia real: 10% de desconto pode fazer diferença em compras recorrentes de cápsulas ou na aquisição de uma máquina, desde que os itens sejam elegíveis.",
+          "Economia real: 5% de desconto pode fazer diferença em compras recorrentes de cápsulas ou na aquisição de uma máquina, desde que os itens sejam elegíveis.",
           "Código verificado: testamos e confirmamos que o cupom CECI está ativo e válido para SETEMBRO 2026.",
           "Sem burocracia: Basta digitar o código no checkout — sem cadastros extras, sem programas de fidelidade obrigatórios.",
           "Ajuda o blog: Ao usar nosso cupom, você apoia o Em Casa com Cecília sem pagar nada a mais por isso. O desconto é integralmente seu!"
@@ -32646,20 +32646,20 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "O cupom CECI funciona no app da NESCAFÉ Dolce Gusto? Atualmente, este guia foca no uso do cupom no site oficial. Estamos verificando se o código também é válido no aplicativo móvel e atualizaremos este artigo assim que confirmarmos.",
           "O cupom CECI tem data de validade? O código é atualizado e verificado mensalmente. Para SETEMBRO 2026, o cupom CECI está válido e ativo. Sempre volte aqui para confirmar o código do mês atual antes de comprar.",
-          "Posso usar o cupom CECI mais de uma vez? Sim! O cupom CECI pode ser usado em até 3 compras por CPF. Não há limite global de utilizações por cliente fora dessa regra do CPF, desde que seja aplicado no site oficial da NESCAFÉ DOLCE GUSTO.",
-          "O desconto de 10% é sobre o frete também? Não. O cupom CECI aplica 10% OFF apenas sobre o valor dos produtos elegíveis. O frete é calculado separadamente e não entra na base de cálculo do desconto.",
+          "Posso usar o cupom CECI mais de uma vez? Em nossa verificação, o cupom permitia até 3 compras por CPF. Como essa regra pode mudar, confirme a aceitação no checkout de cada pedido.",
+          "O desconto de 5% é sobre o frete também? Não. O cupom CECI aplica 5% OFF apenas sobre o valor dos produtos elegíveis. O frete é calculado separadamente e não entra na base de cálculo do desconto.",
           "O que acontece se o cupom não der certo? Se o código não for aplicado, verifique se: digitou corretamente como CECI; sua compra somou pelo menos R$ 100; você já não atingiu o limite de 3 usos no seu CPF; o produto não está em uma promoção exclusiva que bloqueie cupons.",
-          "O cupom CECI é confiável? Sim. O cupom CECI é fruto de uma parceria oficial entre o blog Em Casa com Cecília e a NESCAFÉ DOLCE GUSTO. O código é legítimo e o desconto é garantido pelo site oficial da marca.",
-          "Qual o valor mínimo de compra para usar o cupom CECI? O cupom CECI exige uma compra mínima de R$ 100 em produtos para ser ativado. O desconto de 10% é aplicado sobre o valor dos produtos elegíveis, não sobre o frete. Recomendamos verificar o valor final no checkout antes de confirmar o pagamento.",
+          "O cupom CECI é confiável? Sim. O cupom CECI faz parte da parceria entre o blog Em Casa com Cecília e a NESCAFÉ DOLCE GUSTO. O código é legítimo, mas percentual, elegibilidade e valor mínimo devem ser confirmados no checkout.",
+          "Qual o valor mínimo de compra para usar o cupom CECI? O cupom CECI exige uma compra mínima de R$ 100 em produtos para ser ativado. O desconto de 5% é aplicado sobre o valor dos produtos elegíveis, não sobre o frete. Recomendamos verificar o valor final no checkout antes de confirmar o pagamento.",
           "O cupom CECI acumula com pontos do Clube Dolce Gusto? Sim, o cupom CECI é aplicado no carrinho de compras e não interfere no programa de fidelidade. Você pode usar o cupom CECI para comprar cápsulas e, ao receber as caixas, cadastrar os códigos no Clube Dolce Gusto para acumular pontos normalmente.",
-          "O cupom CECI funciona para máquinas ou só para cápsulas? O cupom CECI é válido para todo o catálogo do site oficial: cápsulas de todos os sabores, cafeteiras automáticas e acessórios. A única regra é que o valor total dos produtos deve somar pelo menos R$ 100 para ativar o desconto.",
+          "O cupom CECI funciona para máquinas ou só para cápsulas? Em nossa verificação, o código foi oferecido para compras elegíveis no site oficial, incluindo cápsulas, cafeteiras e acessórios, a partir de R$ 100. Confirme a aplicação para o item escolhido no checkout.",
           "Posso usar o cupom CECI em compras parceladas? Sim, o cupom CECI reduz o valor total dos produtos e o valor final pode ser parcelado no cartão de crédito conforme as condições disponíveis no checkout. O desconto incide sobre o valor base, reduzindo proporcionalmente o valor de cada parcela.",
           "O que acontece se eu devolver um produto comprado com o cupom CECI? Se houver devolução ou cancelamento, o reembolso segue a política vigente da loja e considera o valor efetivamente pago após o desconto. Consulte o atendimento oficial para saber se o uso do cupom é restituído.",
-          "Cupom Dolce Gusto primeira compra: o CECI funciona? Sim, o cupom CECI funciona para primeira compra e demais compras no site oficial, desde que respeitado o limite de 3 usos por CPF e o valor mínimo de R$ 100 em produtos.",
-          "Cupom Dolce Gusto brinde: o CECI dá brinde? Não. O cupom CECI concede 10% de desconto em produtos elegíveis; brindes são campanhas pontuais da marca e não dependem desse código.",
-          "Cupom frete grátis Dolce Gusto: o CECI inclui frete grátis? Não. O cupom CECI aplica 10% de desconto apenas sobre o valor dos produtos elegíveis. O frete é calculado separadamente e pode haver campanhas específicas de frete grátis.",
+          "Cupom Dolce Gusto primeira compra: o CECI funciona? Em nossa verificação, o código podia ser usado na primeira compra e em até 3 pedidos por CPF, com valor mínimo de R$ 100 em produtos. Confirme as regras vigentes no checkout.",
+          "Cupom Dolce Gusto brinde: o CECI dá brinde? Não. O cupom CECI concede 5% de desconto em produtos elegíveis; brindes são campanhas pontuais da marca e não dependem desse código.",
+          "Cupom frete grátis Dolce Gusto: o CECI inclui frete grátis? Não. O cupom CECI aplica 5% de desconto apenas sobre o valor dos produtos elegíveis. O frete é calculado separadamente e pode haver campanhas específicas de frete grátis.",
           "Cupom Dolce Gusto cápsulas: o CECI vale para cápsulas? Sim, o cupom CECI é válido para todo o catálogo, incluindo cápsulas de todos os sabores, máquinas e acessórios, desde que o valor mínimo de R$ 100 em produtos seja atingido.",
-          "Cupom Dolce Gusto Instagram: existe cupom no Instagram? O cupom CECI é o código oficial de parceria do blog Em Casa com Cecília e é válido no site oficial da NESCAFÉ Dolce Gusto. Cupons de outros influenciadores no Instagram variam de 5% a 10% e podem exigir valor mínimo; o CECI é garantido e funciona 24/7."
+          "Cupom Dolce Gusto Instagram: existe cupom no Instagram? O cupom CECI é o código oficial de parceria do blog Em Casa com Cecília e pode ser usado no site oficial da NESCAFÉ Dolce Gusto quando as regras vigentes são atendidas. Outros códigos podem ter percentuais e condições diferentes; confira sempre o desconto no checkout."
         ]
       }
     ]
@@ -42489,8 +42489,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 277,
     "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes",
-    "title": "Dolce Gusto vs Nespresso vs 3 Corações: Qual Cafeteira de Cápsula Escolher em 2026?",
-    "seoTitle": "Dolce Gusto vs Nespresso vs 3 Corações: Qual Escolher? [2026]",
+    "title": "Dolce Gusto vs Nespresso vs 3 Corações: qual cafeteira de cápsula escolher em 2026?",
+    "seoTitle": "Dolce Gusto, Nespresso ou 3 Corações: qual escolher?",
     "type": "Comparativo",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -42501,26 +42501,26 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Comparativo completo entre Dolce Gusto, Nespresso e 3 Corações. Veja as diferenças de cápsulas, custo por xícara e por 100ml, pressão, multibebidas e qual escolher.",
-    "metaDescription": "Dolce Gusto, Nespresso ou 3 Corações: qual cafeteira de cápsula escolher? Veja preços reais, custo por 100ml, cápsulas compatíveis e guia decisório.",
-    "publishedAt": "29 de agosto de 2026",
-    "publishedAtISO": "2026-08-29",
+    "description": "Comparativo completo entre Dolce Gusto, Nespresso e 3 Corações. Veja as diferenças de cápsulas, custo por xícara e por 100 ml, pressão, multibebidas e qual escolher.",
+    "metaDescription": "Dolce Gusto, Nespresso ou 3 Corações: qual cafeteira de cápsula escolher? Veja preços, custo por 100 ml, cápsulas compatíveis e guia decisório.",
+    "publishedAt": "1º de setembro de 2026",
+    "publishedAtISO": "2026-09-01",
     "updatedAt": "2026-09-01",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-vs-3-coracoes-hero.jpg",
-    "imageAlt": "Cafeteiras TRES, Nespresso Vertuo Pop e Dolce Gusto Genio S Plus lado a lado",
+    "imageAlt": "Ilustração editorial dos sistemas TRES, Nespresso e Dolce Gusto lado a lado",
     "imageFit": "cover",
     "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
       {
-        "heading": "O Dilema das Cápsulas: Por que é tão difícil decidir?",
+        "heading": "O dilema das cápsulas: por que é tão difícil decidir?",
         "paragraphs": [
           "Comprar uma cafeteira de cápsulas não é apenas adquirir um eletroportátil para a bancada: é escolher um ecossistema de consumo para os próximos anos.",
           "No Brasil, três marcas concentram a preferência do público: NESCAFÉ Dolce Gusto, Nespresso e 3 Corações (sistema TRES). Cada uma foi concebida para perfis de paladar e hábitos distintos, e compreender essas diferenças evita deixar a máquina parada sem uso.",
-          "O aspecto crucial antes de avaliar o design dos modelos é a incompatibilidade mecânica: as cápsulas desses três sistemas não são intercambiáveis entre si — e, como você vai ver adiante, a Dolce Gusto e a Nespresso nem sequer têm uma única cápsula dentro da própria marca."
+          "O aspecto crucial antes de avaliar o design dos modelos é a incompatibilidade mecânica: as cápsulas desses três sistemas não são intercambiáveis. Além disso, Dolce Gusto e Nespresso têm dois formatos próprios dentro de suas marcas — Clássica e NEO na primeira; Original e Vertuo na segunda — que também não se cruzam."
         ],
         "bullets": [],
         "image": "/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp",
@@ -42534,7 +42534,7 @@ export const reviewsData: unknown[] = [
           "Comparar ficha técnica e preço é importante, mas a nossa escolha em casa também passa pela experiência de uso. Usamos tanto a Dolce Gusto NEO quanto a Genio S Touch e já utilizamos bastante a Nespresso Vertuo.",
           "Hoje priorizamos as Dolce Gusto por uma decisão pessoal de custo-benefício e conveniência. A parceria comercial com a marca também pesa nessa escolha, e preferimos deixar isso explícito em vez de apresentar nossa preferência como se fosse uma conclusão neutra ou universal.",
           "A experiência com a Vertuo é real e há um ponto em que a Nespresso se destaca: para quem busca uma experiência premium de café em cápsula, suas coleções limitadas e sazonais oferecem perfis que dificilmente encontramos de forma semelhante nos outros sistemas. Essa exclusividade, porém, também aparece no preço das cápsulas.",
-          "A Dolce Gusto segue por outro caminho e ganha na variedade de bebidas e combinações. Mochaccino Canela é um sucesso de venda, Caramelo Salgado está entre os sabores de que mais gostamos e Moça® Pistachio Latte é uma aposta diferente da marca. Entre os três sistemas comparados, também é a única com cafés NESCAFÉ Gold nas versões Espresso e Lungo.",
+          "A Dolce Gusto segue por outro caminho e ganha na variedade de bebidas e combinações. Mochaccino Canela faz parte do catálogo, Caramelo Salgado está entre os sabores de que mais gostamos e Moça® Pistachio Latte é uma aposta diferente da marca. Entre os três sistemas comparados, também é a única com cafés NESCAFÉ Gold nas versões Espresso e Lungo.",
           "Em resumo: consideramos a Vertuo mais interessante para explorar cafés especiais e edições de temporada; para a rotina da casa, o custo e a variedade da Dolce Gusto fazem mais sentido para nós."
         ],
         "links": [
@@ -42636,6 +42636,20 @@ export const reviewsData: unknown[] = [
           "NESCAFÉ Farmers Origins merece uma distinção: não é uma linha da Nespresso. É uma alternativa oficial da NESCAFÉ — marca que também pertence ao grupo Nestlé — produzida para máquinas Nespresso Original. Brasil, Índia, Colômbia, México e Andes ampliam a escolha e costumam custar menos que as cápsulas Nespresso. Não servem na Vertuo.",
           "Dolce Gusto: a linha clássica é multibebidas e usa o formato das máquinas Genio S. A NEO tem cápsula própria, compostável e reconhecida automaticamente; é voltada a café e ainda oferece menos blends puros que a Nespresso.",
           "3 Corações (TRES): mantém um único formato de cápsula entre suas máquinas. O sistema alterna a extração para espresso, filtrado e chá, além de preparar bebidas cremosas em cápsula única."
+        ],
+        "links": [
+          {
+            "label": "Nespresso: especificações oficiais da Vertuo Pop e diferenças do sistema Original",
+            "href": "https://www.nespresso.com/br/pt/vertuo-pop"
+          },
+          {
+            "label": "TRES: explicação oficial da multipressão de 15 e 2 bar",
+            "href": "https://www.escolhatres.com.br/perguntas/qual-e-a-diferenca-entre-as-maquinas-tres/"
+          },
+          {
+            "label": "Manual oficial da cafeteira Dolce Gusto NEO",
+            "href": "https://www.nescafe-dolcegusto.com.br/media/wysiwyg/neo-machine/machine-manuals/NDG_Neo-N1_UM_BR_220V_2021-12-15_print.pdf"
+          }
         ]
       },
       {
@@ -42657,7 +42671,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Guia Decisório: Qual Cafeteira Escolher para a Sua Casa?",
+        "heading": "Guia decisório: qual cafeteira escolher para sua casa?",
         "paragraphs": [
           "Para acertar na escolha da cafeteira ideal:"
         ],
@@ -42666,11 +42680,11 @@ export const reviewsData: unknown[] = [
           "Escolha Nespresso Vertuo se: você quer canecas maiores (150 a 535 ml) sem perder qualidade de extração — o custo por 100 ml só compensa de fato nos formatos grandes (Gran Lungo, Coffee, Carafe), não no Espresso de 40 ml;",
           "Escolha Dolce Gusto (linha clássica) se: a máquina será compartilhada pela família toda — inclui chás quentes e gelados, chocolates, bebidas licenciadas (Kit Kat, Kopenhagen, Nesquik) e cappuccinos prontos em segundos; o Mochaccino com Canela é hoje um dos sabores mais vendidos da casa;",
           "Escolha Dolce Gusto NEO se: você bebe só café e quer iniciar o preparo, ajustar temperatura e alterar o volume pelo app. Essas seleções ficam no aplicativo; na máquina, o comando físico é simplificado. O catálogo 100% café da NEO ainda é mais enxuto que o da Nespresso;",
-          "Escolha 3 Corações (TRES) se: café filtrado longo faz parte da rotina, você prefere comprar cápsula na padaria ou mercadinho de bairro, e valoriza ter um único formato de cápsula universal entre todas as máquinas da linha."
+          "Escolha 3 Corações (TRES) se: café filtrado longo faz parte da rotina, você prefere comprar cápsula na padaria ou mercadinho de bairro, e valoriza ter um único formato de cápsula compartilhado pelas máquinas da linha."
         ]
       },
       {
-        "heading": "Onde Comprar Cada Cafeteira",
+        "heading": "Onde comprar cada cafeteira",
         "paragraphs": [
           "Encontrou o sistema ideal para sua casa? Veja onde conferir preços e condições de cada marca.",
           "Dolce Gusto é parceira do site pelo cupom CECI; os links de Nespresso e TRES são afiliados Amazon."
@@ -42716,11 +42730,11 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Perguntas Frequentes sobre Cafeteiras de Cápsula",
+        "heading": "Perguntas frequentes sobre cafeteiras de cápsula",
         "bullets": [
           "Qual é a melhor cafeteira de cápsulas? Não existe uma vencedora universal. A Dolce Gusto faz mais sentido para quem quer variedade de bebidas e custo cotidiano mais controlado; a Nespresso atende melhor quem prioriza cafés premium e edições sazonais; a TRES é forte para quem também toma café filtrado e quer um único formato de cápsula em toda a linha.",
-          "Dá para usar cápsula Nespresso na Dolce Gusto? Não diretamente. O tamanho e formato são totalmente incompatíveis. Adaptadores plásticos de terceiros existem no mercado, mas nem sempre garantem vedação ideal sob pressão.",
-          "A Nespresso faz cappuccino e chocolate quente? As máquinas da Linha Original extraem apenas cafés pretos. Bebidas com leite requerem espumadores elétricos separados (Aeroccino) ou modelos com compartimento de leite líquido.",
+          "Dá para usar cápsula Nespresso na Dolce Gusto? Não. Os formatos são incompatíveis e as marcas não homologam essa combinação. Existem adaptadores de terceiros, mas eles podem afetar a vedação ou o funcionamento; siga sempre o manual da cafeteira.",
+          "A Nespresso faz cappuccino e chocolate quente? As cápsulas dos sistemas Original e Vertuo são de café. Para bebidas com leite, é necessário usar um espumador, como o Aeroccino, ou escolher uma máquina com sistema de leite integrado. Chocolate quente não faz parte do catálogo regular de cápsulas Nespresso.",
           "Qual sistema tem a cápsula mais barata? Olhando só o preço por cápsula, a 3 Corações e a Dolce Gusto (linha clássica) ficam na faixa de R$ 1,64 a R$ 2,10, bem abaixo da Nespresso (R$ 3,70 a R$ 6,30, variando com o tamanho da xícara). Mas em custo por 100 ml a conta muda: os formatos grandes da Nespresso Vertuo (Gran Lungo, Coffee, Carafe) ficam entre os mais baratos de toda a comparação.",
           "O que é o sistema multipressão da 3 Corações? É a capacidade da máquina alternar automaticamente entre 15 bar (alta pressão para espressos) e 2 bar (baixa pressão suave para café filtrado e chás).",
           "Qual a diferença entre Nespresso Original e Vertuo? A Original usa cápsulas clássicas de alumínio a 19 bar com compatíveis no mercado. A Vertuo usa cápsulas semiesféricas lidas por código de barras com rotação centrífuga, em formatos maiores e sem marcas compatíveis de terceiros.",
@@ -42729,7 +42743,7 @@ export const reviewsData: unknown[] = [
           "A Dolce Gusto NEO e a Nespresso Vertuo Pop têm aplicativo? Sim, mas com funções diferentes. Na NEO, usamos o app para iniciar o café e ajustar temperatura e volume; a máquina reconhece a cápsula e não oferece essas seleções no próprio corpo. Na Vertuo Pop, Bluetooth e Wi-Fi servem para atualizações, tutoriais e assistência no app Nespresso.",
           "Qual sistema prepara chá? Dolce Gusto e TRES têm cápsulas de chá e outras multibebidas. A linha Nespresso é concentrada em cafés.",
           "Como descalcificar uma cafeteira de cápsulas? O procedimento e a frequência variam conforme a máquina, a água e o uso. Siga o ciclo indicado no manual e use a solução recomendada para o modelo; não improvise com vinagre ou produtos domésticos sem autorização expressa do fabricante.",
-          "Qual o cupom de desconto para cafeteiras Dolce Gusto? O cupom CECI garante 5% de desconto no site oficial da NESCAFÉ Dolce Gusto Brasil."
+          "Qual o cupom de desconto para cafeteiras Dolce Gusto? Em nossa verificação de 1º de setembro de 2026, o cupom CECI aplicou 5% de desconto no site oficial da NESCAFÉ Dolce Gusto Brasil. As condições podem mudar; confirme o valor no checkout."
         ]
       }
     ],
@@ -42741,7 +42755,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este artigo contém links de afiliados. Se você usar o cupom CECI na Dolce Gusto ou comprar Nespresso e TRES pelos links da Amazon, podemos receber comissão, sem custo adicional para você.",
+    "editorialNote": "Este artigo contém links de afiliados. Se você usar o cupom CECI na Dolce Gusto ou comprar Nespresso e TRES pelos links da Amazon, podemos receber comissão, sem custo adicional para você. Como associado da Amazon, eu ganho com compras qualificadas.",
     "relatedArticles": [
       {
         "slug": "dolce-gusto-maquinas-qual-escolher",
@@ -42759,8 +42773,8 @@ export const reviewsData: unknown[] = [
     "gallery": [
       {
         "image": "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-vs-3-coracoes-hero.jpg",
-        "alt": "Cafeteiras TRES, Nespresso Vertuo Pop e Dolce Gusto Genio S Plus lado a lado",
-        "caption": "Comparativo de cafeteiras: Dolce Gusto, Nespresso e 3 Corações para cada perfil de rotina."
+        "alt": "Ilustração editorial dos sistemas TRES, Nespresso e Dolce Gusto lado a lado",
+        "caption": "Ilustração editorial dos três ecossistemas comparados; modelos, embalagens e detalhes visuais podem variar."
       },
       {
         "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-1.webp",

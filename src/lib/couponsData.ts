@@ -210,15 +210,15 @@ export const COUPONS: Coupon[] = [
     brandLogoAlt: 'Marca Nescafé Dolce Gusto',
     brandColor: '#7E2A1A',
     code: 'CECI',
-    discount: '10% OFF',
-    discountNumber: 10,
+    discount: '5% OFF',
+    discountNumber: 5,
     category: 'Café e bebidas',
     shortDescription: 'cápsulas, máquinas e acessórios da loja oficial',
     longDescription:
       'Código da Cecília para economizar em compras na loja oficial Nescafé Dolce Gusto Brasil.',
-    metaTitle: 'Cupom Dolce Gusto Setembro 2026: CECI — 10% OFF na Loja Oficial',
+    metaTitle: 'Cupom Dolce Gusto Setembro 2026: CECI — 5% OFF na Loja Oficial',
     metaDescription:
-      'Cupom Dolce Gusto testado em setembro de 2026: use CECI no checkout da loja oficial Nescafé Dolce Gusto e ganhe 10% OFF em compras a partir de R$ 100.',
+      'Cupom Dolce Gusto testado em setembro de 2026: use CECI no checkout da loja oficial Nescafé Dolce Gusto e ganhe 5% OFF em compras a partir de R$ 100.',
     eligibleCategories:
       'Todo o site oficial Dolce Gusto, em compras a partir de R$ 100',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
@@ -232,7 +232,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom CECI vale para todas as cápsulas Dolce Gusto?',
         answer:
-          'Sim: o CECI dá 10% OFF em todo o catálogo da loja oficial Dolce Gusto — cápsulas, máquinas e acessórios — em compras a partir de R$ 100. Confirme o desconto no resumo do carrinho antes de finalizar.',
+          'Em nossa verificação de 1º de setembro de 2026, o CECI aplicou 5% OFF no site oficial Dolce Gusto em compras a partir de R$ 100. A elegibilidade pode variar; confirme o desconto no resumo do carrinho antes de finalizar.',
       },
       {
         question: 'O cupom CECI funciona em máquinas Dolce Gusto?',
@@ -264,7 +264,7 @@ export const COUPONS: Coupon[] = [
     featured: true,
     relatedContent: [
       {
-        title: 'Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5% (AGOSTO 2026)',
+        title: 'Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5% (SETEMBRO 2026)',
         url: '/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar',
         type: 'review',
         publishedAt: '2026-06-19',

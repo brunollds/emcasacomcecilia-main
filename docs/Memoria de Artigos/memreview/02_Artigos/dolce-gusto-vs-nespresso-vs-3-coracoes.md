@@ -1,14 +1,14 @@
 ---
 slug: "dolce-gusto-vs-nespresso-vs-3-coracoes"
-title: "Dolce Gusto vs Nespresso vs 3 Corações: Qual Cafeteira de Cápsula Escolher em 2026?"
-seo_title: "Dolce Gusto vs Nespresso vs 3 Corações: Qual Escolher? [2026]"
-description: "Comparativo completo entre Dolce Gusto, Nespresso e 3 Corações. Veja as diferenças de cápsulas, custo por xícara e por 100ml, pressão, multibebidas e qual escolher."
+title: "Dolce Gusto vs Nespresso vs 3 Corações: qual cafeteira de cápsula escolher em 2026?"
+seo_title: "Dolce Gusto, Nespresso ou 3 Corações: qual escolher?"
+description: "Comparativo completo entre Dolce Gusto, Nespresso e 3 Corações. Veja as diferenças de cápsulas, custo por xícara e por 100 ml, pressão, multibebidas e qual escolher."
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
 author: "Cecília Mauad"
-publishedAtISO: "2026-08-29"
-publishedAt: "29 de agosto de 2026"
+publishedAtISO: "2026-09-01"
+publishedAt: "1º de setembro de 2026"
 affiliate: "dolce-gusto"
 coupon: "CECI"
 status: "publicado"
@@ -112,3 +112,16 @@ Correção feita a partir dos preços e volumes fornecidos pelo Bruno para torna
 - a opinião pessoal deixou o fim do capítulo de custos e passou a ser o capítulo 2, antes das comparações técnicas. O novo bloco explicita o uso real de NEO, Genio S Touch e Vertuo; diferencia a força premium/sazonal da Nespresso da variedade e do custo-benefício da Dolce Gusto; e concentra ali os links para os reviews próprios.
 - FAQ ampliado a partir das planilhas Top e Rising do Google Trends com três intenções pertinentes ao comparativo: melhor cafeteira de cápsulas, Essenza Mini vs. Vertuo Pop e descalcificação. Consultas de loja, login, assinatura e acessórios foram descartadas por desvio de intenção.
 - a foto de uso real da Genio S Touch passou de `contain` para `square`, eliminando a largura vazia ao redor de uma imagem originalmente quadrada sem alterar o arquivo-fonte.
+
+---
+
+## 4ª Rodada de Revisão Editorial e Técnica (2026-09-01)
+
+- publicação alinhada ao primeiro deploy real em 1º de setembro de 2026;
+- título da SERP reduzido para 52 caracteres, evitando alerta de título longo;
+- frase incorreta sobre “uma única cápsula” substituída pela distinção entre os formatos Clássica/NEO e Original/Vertuo;
+- fontes oficiais adicionadas para Vertuo Pop/Original, multipressão TRES e manual da Dolce Gusto NEO;
+- FAQ ajustada para não afirmar que toda máquina Nespresso extrai apenas café preto e para desaconselhar combinações não homologadas com adaptadores;
+- cupom CECI descrito como 5% na verificação de 1º de setembro, sempre sujeito à confirmação no checkout;
+- divulgação obrigatória da Amazon adicionada ao aviso de afiliados;
+- hero identificado como ilustração editorial e recomprimido de 2,19 MB para cerca de 167 KB, preservando 1920 px de largura.
