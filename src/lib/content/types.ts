@@ -241,6 +241,7 @@ export interface ContentSectionImage {
   alt: string;
   caption?: string;
   objectFit?: 'cover' | 'contain' | 'portrait' | 'wide' | 'panoramic' | 'square';
+  aspectRatio?: number;
 }
 
 /** Modelo legado real de contentSections em src/lib/data.ts. */
@@ -255,6 +256,7 @@ export interface ContentSection {
   imageAlt?: string;
   imageCaption?: string;
   imageFit?: 'cover' | 'contain' | 'portrait' | 'wide' | 'panoramic' | 'square';
+  imageAspectRatio?: number;
   images?: ContentSectionImage[];
   comparisonTable?: {
     caption?: string;

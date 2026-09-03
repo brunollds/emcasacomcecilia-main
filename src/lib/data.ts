@@ -79,6 +79,7 @@ export interface ContentSectionImage {
   alt: string;
   caption?: string;
   objectFit?: 'cover' | 'contain' | 'portrait';
+  aspectRatio?: number;
 }
 
 export interface RecipeRating {
@@ -258,6 +259,7 @@ export interface Review {
     imageAlt?: string;
     imageCaption?: string;
     imageFit?: 'cover' | 'contain' | 'portrait' | 'wide' | 'panoramic' | 'square';
+    imageAspectRatio?: number;
     images?: ContentSectionImage[];
     comparisonTable?: {
       caption?: string;

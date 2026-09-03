@@ -31,10 +31,13 @@ function normalizeImages(section, reviewTitle) {
   if (singleSrc) {
     const fit = typeof section.image === 'string' ? section.imageFit : section.image?.objectFit;
     const caption = typeof section.image === 'string' ? section.imageCaption : section.image?.caption;
+    const rawAspectRatio = typeof section.image === 'string' ? section.imageAspectRatio : section.image?.aspectRatio;
+    const aspectRatio = Number.isFinite(rawAspectRatio) && rawAspectRatio > 0 ? rawAspectRatio : undefined;
     images.push({
       src: singleSrc,
       alt: (typeof section.image === 'string' ? section.imageAlt : section.image?.alt) || section.heading || reviewTitle,
       caption,
+      aspectRatio,
       fit: fit === 'portrait' ? 'portrait' : fit === 'wide' ? 'wide' : fit === 'panoramic' ? 'panoramic' : fit === 'square' ? 'square' : fit === 'contain' ? 'contain' : 'cover',
     });
   }
@@ -45,6 +48,7 @@ function normalizeImages(section, reviewTitle) {
         src: item.src,
         alt: item.alt || section.heading || reviewTitle,
         caption: item.caption,
+        aspectRatio: Number.isFinite(item.aspectRatio) && item.aspectRatio > 0 ? item.aspectRatio : undefined,
         fit: item.objectFit === 'portrait' ? 'portrait' : item.objectFit === 'wide' ? 'wide' : item.objectFit === 'panoramic' ? 'panoramic' : item.objectFit === 'square' ? 'square' : item.objectFit === 'contain' ? 'contain' : 'cover',
       });
     }
@@ -136,8 +140,9 @@ function InlineImageThumbnail({ image, index, onOpen, sizes, normalizeCarousel =
       >
         <div
           className={`relative w-full ${
-            normalizeCarousel ? 'aspect-square bg-slate-900/5' : isPortrait ? 'aspect-[9/16] max-w-md mx-auto bg-slate-900/5' : isPanoramic ? 'aspect-[6/1]' : isWide ? 'aspect-[4/1]' : isSquare ? 'aspect-square' : 'aspect-video'
+            image.aspectRatio ? '' : normalizeCarousel ? 'aspect-square bg-slate-900/5' : isPortrait ? 'aspect-[9/16] max-w-md mx-auto bg-slate-900/5' : isPanoramic ? 'aspect-[6/1]' : isWide ? 'aspect-[4/1]' : isSquare ? 'aspect-square' : 'aspect-video'
           }`}
+          style={image.aspectRatio ? { aspectRatio: image.aspectRatio } : undefined}
         >
           <Image
             src={image.src}

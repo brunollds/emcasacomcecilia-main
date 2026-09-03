@@ -32,6 +32,7 @@
 
 ## 5. Publicados / Prontos para Deploy (`status: pronto-para-deploy`)
 *Validados nos gates, gerados no build e no ar.*
+- [x] [[poltrona-charles-eames-design-iconico-e-alternativas]] — DAMIE / Poltrona decorativa; FAQ e revisão aprovados, build de 321 páginas validado em 02/09/2026. Aguardando push e deploy.
 - [x] [[nutren-creatina-e-boa-comparativo-growth-ftw-cimed]] — Nestlé Nutre (Build OK: 310 páginas geradas) 🚀
 - [x] [[melatonina-gummy-iws-para-que-serve-como-tomar]] — IWS (No ar) 🚀
 - [x] [[sofa-modular-ou-retratil-qual-escolher]] — DAMIE (No ar) 🚀

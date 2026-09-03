@@ -459,7 +459,7 @@ export function ReviewNotebookTemplate({
           {/* Layout principal + sidebar */}
           <div className="grid gap-8 lg:grid-cols-12 lg:gap-12">
             {/* Conteúdo */}
-            <div className="lg:col-span-8">
+            <div className="min-w-0 lg:col-span-8">
               {/* Pull quote editorial */}
               {review.pullQuote && (
                 <div className="mb-10">
