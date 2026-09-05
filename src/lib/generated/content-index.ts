@@ -43102,5 +43102,416 @@ export const reviewsData: unknown[] = [
         "caption": "Foto própria da minha experiência com a Levita elétrica."
       }
     ]
+  },
+  {
+    "id": 279,
+    "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
+    "title": "Qual Travesseiro Escolher? O Guia das Linhas I Wanna Sleep",
+    "seoTitle": "Qual Travesseiro Escolher? Guia das Linhas IWS [2026]",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Descubra qual o melhor travesseiro para o seu sono. Compare as linhas Cervical, Memory Foam, Antialérgica e Látex da I Wanna Sleep e veja como escolher.",
+    "metaDescription": "Qual travesseiro escolher? Compare linhas Cervical, Memory Foam, Antialérgica e Látex da I Wanna Sleep por posição, material e altura.",
+    "publishedAt": "4 de setembro de 2026",
+    "publishedAtISO": "2026-09-04",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/iwannasleep/iws-catalogo-travesseiros.webp",
+    "imageAlt": "Comparativo das linhas de travesseiro da I Wanna Sleep sobre a cama",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Por que a escolha do travesseiro transforma o seu dia?",
+        "paragraphs": [
+          "Passamos um terço da vida deitados sobre um travesseiro. Mesmo assim, a maioria das pessoas só se dá conta da importância desse acessório quando começa a acordar com torcicolo, dores de cabeça tensionais ou a sensação de noite mal dormida.",
+          "Um travesseiro adequado pode ajudar a manter a cabeça e o pescoço em posição neutra em relação ao restante da coluna. Modelos muito altos ou baixos podem deixar o pescoço inclinado e contribuir para desconforto durante o sono. Para quem dorme de lado, a altura deve preencher o espaço entre o ombro e a cabeça sem forçar a inclinação cervical.",
+          "Por isso a pergunta \"qual o melhor travesseiro\" não tem uma resposta única — e nem deveria ter. Um modelo confortável para quem dorme de bruços pode não oferecer a altura adequada para quem dorme de lado; a melhor marca de travesseiro não é necessariamente a que mais vende, mas aquela que oferece material e altura compatíveis com o seu jeito de dormir.",
+          "A I Wanna Sleep (IWS) organiza seu catálogo em famílias de produtos com diferentes formatos, materiais e alturas — da linha Cervical/Ergonômica ao Memory Foam, passando por Antialérgico, Látex, Fibra, Pluma Natural, Anti-rugas e Viagem. É esse mapa que este guia percorre a seguir.",
+          "Um adiantamento antes de começar: o cupom CECIEMCASA está divulgado com 10% de desconto no site oficial da I Wanna Sleep, não apenas nos travesseiros. Como condições comerciais podem mudar, confirme o percentual e a elegibilidade no carrinho; voltamos ao cupom com mais detalhes no capítulo final."
+        ],
+        "bullets": [],
+        "image": "/images/reviews/iwannasleep/iws-missao-dormir-melhor.webp",
+        "imageAlt": "Ambiente calmo e aconchegante para sono reparador",
+        "imageCaption": "Ergonomia do sono: altura e apoio influenciam a posição da cabeça e do pescoço durante o repouso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 2.96
+      },
+      {
+        "heading": "Dor no Pescoço e Tensão Cervical: A Linha Ergonômica",
+        "paragraphs": [
+          "O uso prolongado de telas e computadores pode contribuir para desconforto na nuca. Durante o repouso, um travesseiro com altura e formato adequados pode ajudar a sustentar a cabeça e o pescoço em posição neutra, mas não trata sozinho as causas de dor cervical.",
+          "Quem procura por travesseiro ortopédico ou travesseiro para dor no pescoço pode ter dificuldade para encontrar uma combinação confortável de formato e altura. Como a posição muda ao longo da noite, vale observar se o modelo oferece apoio adequado nas posições em que você costuma dormir, sem tratar o travesseiro como solução isolada para dor cervical."
+        ],
+        "bullets": [
+          "Cervical Coluna Relax®: modelo de destaque com formato côncavo central e curvas onduladas projetadas para apoiar a curvatura cervical de quem dorme de costas ou de lado;",
+          "Cervical Original Neck Plus Gel™: une o contorno anatômico a partículas de gel. A fabricante divulga uma sensação térmica até 5°C mais fresca, voltada a quem muda de posição e sente calor durante a noite;",
+          "Neck Plus Charcoal™: mantém o contorno anatômico e incorpora carvão ativado à espuma. Segundo a ficha da fabricante, a estrutura microporosa foi desenvolvida para capturar alérgenos e ácaros e reduzir odores; é a opção da linha voltada também a pessoas sensíveis a agentes alergênicos."
+        ],
+        "links": [
+          {
+            "label": "Ver a coleção de travesseiros cervicais da I Wanna Sleep",
+            "href": "https://www.iwannasleep.com.br/collections/travesseiro-cervical",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/iwannasleep/iws-categoria-cervicais-ergonomicos.webp",
+        "imageAlt": "Coleção completa da linha Cervicais e Ergonômicos da I Wanna Sleep: Coluna Relax, Neck Plus Charcoal, Neck Plus Gel e Ergoblu",
+        "imageCaption": "A linha Cervicais/Ergonômicos completa: Coluna Relax®, Neck Plus Charcoal™, Neck Plus Gel™ e Ergoblu™.",
+        "imageFit": "contain",
+        "imageAspectRatio": 3.14
+      },
+      {
+        "image": "/images/reviews/iwannasleep/travesseiro-cervical-coluna-relax-oficial.webp",
+        "imageAlt": "Travesseiro Cervical Coluna Relax da I Wanna Sleep, foto oficial do produto",
+        "imageCaption": "Cervical Coluna Relax®: o modelo mais buscado da linha ergonômica IWS.",
+        "imageFit": "square"
+      },
+      {
+        "heading": "A Linha Memory Foam: O que é o Travesseiro NASA?",
+        "paragraphs": [
+          "O termo popular travesseiro da NASA refere-se à espuma viscoelástica (Memory Foam), originalmente desenvolvida na década de 1960 para absorver o impacto da aceleração nos astronautas.",
+          "No sono, o viscoelástico molda-se ao contorno da cabeça e distribui a pressão pelos pontos de contato.",
+          "Quem pesquisa por travesseiro viscoelástico ou qual o melhor travesseiro nasa está, na prática, comparando variações de densidade e capa térmica dentro dessa mesma família de produto — a IWS tem quatro:"
+        ],
+        "bullets": [
+          "Snow®: viscoelástico de alta densidade com capa de toque frio que, segundo a fabricante, ajuda na troca térmica — uma alternativa para quem dorme de lado ou de costas e sente calor à noite;",
+          "Ergoblu™: perfil baixo com capa FrostyCover e núcleo TitanPro Gel. Segundo a ficha da fabricante, o formato pode reduzir pontos de pressão em até 60% e foi desenvolvido para quem sente calor durante a noite;",
+          "Bubble Gel®: reúne bolhas de gel na superfície, carvão ativado no núcleo e cavidade ergonômica central. A fabricante apresenta esses recursos como auxiliares no conforto térmico, no controle de odores e no apoio em diferentes posições de sono;",
+          "Skin®: linha Anti-rugas que usa tecnologia Airgelly® na capa para reduzir o atrito e distribuir a pressão do rosto. A fabricante apresenta esse efeito como auxílio para suavizar as marcas verticais de sono conhecidas como \"sleep lines\"."
+        ],
+        "links": [
+          {
+            "label": "Ver a coleção Memory Foam da I Wanna Sleep",
+            "href": "https://www.iwannasleep.com.br/collections/travesseiros-de-memory-foam",
+            "sponsored": true
+          },
+          {
+            "label": "Conhecer a coleção de travesseiros Anti-rugas da I Wanna Sleep",
+            "href": "https://www.iwannasleep.com.br/collections/anti-rugas",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/iwannasleep/iws-categoria-memory-foam.webp",
+        "imageAlt": "Coleção completa da linha Memory Foam da I Wanna Sleep: Snow, Neck Plus Gel, Ergoblu e Bubble Gel",
+        "imageCaption": "A linha Memory Foam completa: Snow®, Neck Plus Gel™, Ergoblu™ e Bubble Gel®.",
+        "imageFit": "contain",
+        "imageAspectRatio": 3.23
+      },
+      {
+        "image": "/images/reviews/iwannasleep/travesseiro-snow-hero.webp",
+        "imageAlt": "Travesseiro Snow IWS com tecnologia de toque frio para dissipação térmica",
+        "imageCaption": "Travesseiro Snow®: espuma de memória de alta densidade com sensação térmica refrescante.",
+        "imageFit": "square"
+      },
+      {
+        "heading": "Alergia e Rinite: A Linha Antialérgica",
+        "paragraphs": [
+          "Espirro, coceira no nariz e congestão ao acordar podem ter diferentes causas; ácaros e poeira presentes nas roupas de cama estão entre os possíveis desencadeadores. Um travesseiro lavável e o uso de capas protetoras podem facilitar a higiene, mas não substituem avaliação e tratamento de alergias.",
+          "Travesseiros acumulam suor, poeira e resíduos ao longo do uso, enquanto as instruções de lavagem variam conforme o material. A linha antialérgica da IWS procura facilitar essa rotina de higiene com modelos e materiais apresentados pela marca como adequados a pessoas sensíveis a agentes alergênicos."
+        ],
+        "bullets": [
+          "Airgelly® 2.0: apresentado pela fabricante como o único travesseiro 100% lavável do catálogo, hipoalergênico e desenvolvido para combater ácaros e bactérias. A marca oferece 30 dias de teste em casa e direciona o modelo a quem convive com rinite ou outra alergia respiratória;",
+          "Neck Plus Charcoal™: para quem também busca apoio cervical, combina o contorno anatômico da linha Cervical ao carvão ativado, cuja ação contra alérgenos, ácaros e odores é uma alegação da ficha da fabricante."
+        ],
+        "links": [
+          {
+            "label": "Ver a coleção para alergia da I Wanna Sleep",
+            "href": "https://www.iwannasleep.com.br/collections/alergia",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/iwannasleep/travesseiro-airgelly-render-3d.webp",
+        "imageAlt": "Render 3D do travesseiro Airgelly 2.0 da I Wanna Sleep, mostrando a estrutura vazada",
+        "imageCaption": "Airgelly® 2.0: estrutura vazada que, segundo a fabricante, permite lavar o travesseiro inteiro.",
+        "imageFit": "square",
+        "images": [
+          {
+            "src": "/images/reviews/iwannasleep/travesseiro-airgelly-2-antialergico-lavavel.webp",
+            "alt": "Travesseiro Airgelly 2.0 da I Wanna Sleep, foto oficial destacando a estrutura lavável e antiácaros",
+            "caption": "Airgelly® 2.0: apresentado pela fabricante como o único travesseiro 100% lavável do catálogo IWS.",
+            "objectFit": "square"
+          }
+        ]
+      },
+      {
+        "heading": "Para Quem Dorme de Lado: Regulagem de Altura",
+        "paragraphs": [
+          "Para quem dorme de lado, a altura do travesseiro deve preencher o espaço entre o ombro e a lateral da cabeça, ajudando a manter o pescoço em posição neutra.",
+          "Se o travesseiro for muito baixo, a cabeça pode tombar em direção ao colchão; se for alto demais, o pescoço pode ficar inclinado para cima e causar desconforto.",
+          "A procura por travesseiro para dormir de lado costuma envolver justamente essa dúvida de altura. A solução nem sempre é comprar um modelo mais alto: um travesseiro regulável permite testar ajustes até encontrar uma posição confortável."
+        ],
+        "bullets": [
+          "Snow®: chega em casa na altura máxima (18cm) e você mesmo retira porções do enchimento de memory foam flakes até achar o ponto certo para o seu biotipo e posição. É o principal modelo de cama da família Snow com ajuste por retirada de enchimento e vem em dois tamanhos de base (Regular 50x70cm e Plus 50x90cm, para camas King/Super King);",
+          "Original Látex®: para quem prefere não precisar ajustar nada, a linha vem pronta em três alturas fixas — P (11cm), M (13cm) e G (15cm) — a resposta mais direta para quem já sabe qual altura precisa;",
+          "Outros modelos de perfil estruturado que também funcionam bem de lado: Cervical Coluna Relax® e Bubble Gel® (cuja cavidade central alivia a pressão na orelha);",
+          "Apoio de Joelhos Coluna Relax®: posicionado entre os joelhos, ajuda a evitar que a perna cruze à frente e pode favorecer uma posição mais neutra para quadril e lombar."
+        ],
+        "links": [
+          {
+            "label": "Ver travesseiros com regulagem de altura da I Wanna Sleep",
+            "href": "https://www.iwannasleep.com.br/collections/%E2%86%95%EF%B8%8F-regulagem-de-altura",
+            "sponsored": true
+          },
+          {
+            "label": "Conhecer a coleção infantil da I Wanna Sleep",
+            "href": "https://www.iwannasleep.com.br/collections/kids",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/iwannasleep/iws-categoria-regulagem-altura-snow.webp",
+        "imageAlt": "Linha Regulagem de Altura da I Wanna Sleep: Snow, Snow Kids, Snow Body e Snow Mini",
+        "imageCaption": "A família Snow®, a mesma tecnologia de altura ajustável em quatro formatos: padrão, infantil, corpo e viagem.",
+        "imageFit": "contain",
+        "imageAspectRatio": 3.13
+      },
+      {
+        "image": "/images/reviews/iwannasleep/travesseiro-original-latex-detalhe.webp",
+        "imageAlt": "Detalhe do látex natural do Travesseiro Original Látex da I Wanna Sleep",
+        "imageCaption": "Original Látex®: três alturas fixas (P, M e G), sem precisar ajustar.",
+        "imageFit": "square"
+      },
+      {
+        "heading": "Látex, Fibra e Pluma Natural: Conforto Sem Memory Foam",
+        "paragraphs": [
+          "Nem todo mundo gosta da sensação de afundamento do viscoelástico — algumas pessoas sentem que a espuma de memória \"prende\" os movimentos quando querem se virar na cama. Para esse perfil, a IWS mantém três famílias mais tradicionais, cada uma com uma resposta diferente ao toque:"
+        ],
+        "bullets": [
+          "Linha Látex (Original Látex® e Blue Látex): látex natural tailandês com retorno elástico instantâneo e sustentação firme, naturalmente resistente à poeira e aos ácaros — sem o afundamento lento do memory foam;",
+          "Linha Fibra (Magnum Pluma AirFiber): enchimento sintético de toque macio, semelhante à pluma, com capa 100% algodão e acabamento com corda dourada na costura — a maciez de travesseiro de hotel 5 estrelas sem usar pena animal;",
+          "Linha Pluma Natural: tem duas versões no catálogo, a Pena e Pluma Natural (entrada) e a Pluma Natural Premium (linha de luxo). É a família mais tradicional do catálogo, mas também a que menos cresce em busca nos últimos 12 meses — vale mais para quem já conhece e gosta do toque clássico do que como primeira escolha."
+        ],
+        "links": [
+          {
+            "label": "Ver a coleção de travesseiros de látex da I Wanna Sleep",
+            "href": "https://www.iwannasleep.com.br/collections/travesseiros-de-latex",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a coleção de travesseiros de pluma da I Wanna Sleep",
+            "href": "https://www.iwannasleep.com.br/collections/travesseiros-de-pluma",
+            "sponsored": true
+          },
+          {
+            "label": "Conhecer a coleção de Pluma Natural da I Wanna Sleep",
+            "href": "https://www.iwannasleep.com.br/collections/pluma-natural",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/iwannasleep/iws-categoria-latex.webp",
+        "imageAlt": "Linha de travesseiros de látex da I Wanna Sleep: Original Látex e Blue Látex",
+        "imageCaption": "Linha Látex: Original Látex® e Blue Látex.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.61,
+        "images": [
+          {
+            "src": "/images/reviews/iwannasleep/iws-categoria-plumas-magnum-skin.webp",
+            "alt": "Linha Fibra da I Wanna Sleep: Magnum Pluma AirFiber e Skin",
+            "caption": "Linha Fibra: Magnum Pluma AirFiber, o toque de pluma sintético e hipoalergênico.",
+            "objectFit": "contain",
+            "aspectRatio": 1.58
+          },
+          {
+            "src": "/images/reviews/iwannasleep/iws-categoria-pluma-natural.webp",
+            "alt": "Linha Pluma Natural da I Wanna Sleep: Pluma Natural Premium e Pena e Pluma Natural",
+            "caption": "Linha Pluma Natural: Pluma Natural Premium e Pena e Pluma Natural.",
+            "objectFit": "contain",
+            "aspectRatio": 1.8
+          }
+        ]
+      },
+      {
+        "heading": "Fora de Casa e Formatos Especiais: Viagem e Corpo Inteiro",
+        "paragraphs": [
+          "Além dos modelos de cama, o catálogo da IWS cobre duas situações específicas: dormir fora de casa e dar suporte ao corpo inteiro, não só à cabeça."
+        ],
+        "bullets": [
+          "Travel Pillow U (Off Night e Flow Cinza): travesseiro de pescoço em formato de ferradura, desenvolvido para dar apoio à cabeça durante deslocamentos sentado em carros e aviões — diferente do travesseiro cervical de cama, usado deitado;",
+          "Snow® Mini: a mesma tecnologia de toque frio do Snow®, em tamanho compacto para levar na mala;",
+          "Snow® Body: travesseiro de corpo inteiro para abraçar na cama, apresentado pela fabricante como apoio para a lombar, a barriga e a perna de cima ao dormir de lado; gestantes devem considerar também a orientação do profissional que acompanha a gravidez."
+        ],
+        "image": "/images/reviews/iwannasleep/iws-categoria-viagem.webp",
+        "imageAlt": "Linha de travesseiros para viagem da I Wanna Sleep: Snow Mini e Travel Pillow U",
+        "imageCaption": "Linha Viagem: Snow® Mini e as duas versões do Travel Pillow U.",
+        "imageFit": "contain",
+        "imageAspectRatio": 2.41
+      },
+      {
+        "heading": "Cuidados e Durabilidade: A Linha Capas e Protetores",
+        "paragraphs": [
+          "A durabilidade de um travesseiro depende do material, da frequência de uso e dos cuidados com sujeira, suor e oleosidade no dia a dia."
+        ],
+        "bullets": [
+          "Nos modelos de viscoelástico citados neste guia, a fabricante orienta não lavar o enchimento; lave somente as capas removíveis conforme a etiqueta. Produtos de látex e outros materiais podem ter instruções diferentes, por isso consulte sempre a ficha do modelo;",
+          "Protex Bamboo™: capa protetora respirável apresentada pela fabricante como barreira física contra suor, oleosidade e ácaros, preservando a ventilação do travesseiro;",
+          "Momento de reavaliar a troca: quando o travesseiro perder sustentação, mantiver deformações, apresentar danos ou deixar de oferecer conforto e higiene adequados, em vez de depender apenas de um prazo fixo."
+        ]
+      },
+      {
+        "heading": "Resumo Decisório: Qual Linha Escolher",
+        "paragraphs": [
+          "Identifique a melhor escolha para a sua rotina:"
+        ],
+        "bullets": [
+          "Acorda com desconforto na nuca ou pescoço: considere a linha Cervical (Cervical Coluna Relax®) e procure avaliação profissional se a dor persistir;",
+          "Convive com alergia ou rinite: considere o Airgelly® 2.0 (100% lavável) ou o Neck Plus Charcoal™, sem substituir o tratamento indicado por profissional de saúde;",
+          "Sente calor na cabeça durante a noite: considere o Travesseiro Snow® ou o Ergoblu™;",
+          "Quer ajustar a altura você mesmo até achar o ponto certo: escolha o Snow® (retire o enchimento até a altura ideal);",
+          "Já sabe a altura certa e prefere não ajustar nada: escolha o Original Látex® (P, M ou G);",
+          "Dorme de lado e busca firmeza elástica: escolha o Original Látex®;",
+          "Gosta de travesseiro fofo e moldável: escolha o Magnum Pluma AirFiber;",
+          "Viaja com frequência e quer levar seu travesseiro: escolha o Snow® Mini ou o Travel Pillow U."
+        ]
+      },
+      {
+        "heading": "Onde Comprar com Desconto e Cupom CECIEMCASA",
+        "paragraphs": [
+          "A linha de travesseiros e acessórios ergonômicos está disponível na loja online oficial da I Wanna Sleep, com entrega sujeita à cobertura do CEP e às condições exibidas no checkout.",
+          "No carrinho da loja oficial, você pode aplicar o cupom CECIEMCASA e conferir o desconto de 10% antes de concluir a compra. A condição é divulgada para o site da I Wanna Sleep, mas elegibilidade, validade e eventuais exceções devem ser confirmadas no checkout."
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "Consultar regras e validade do cupom CECIEMCASA para a I Wanna Sleep",
+            "href": "/cupons/i-wanna-sleep"
+          },
+          {
+            "label": "Acessar a coleção completa de travesseiros na loja oficial IWS",
+            "href": "https://www.iwannasleep.com.br/collections/todos-os-travesseiros?utm_source=emcasacomcecilia&utm_medium=blog&utm_campaign=hub-travesseiros",
+            "sponsored": true
+          },
+          {
+            "label": "Ficha técnica e fotos reais do Travesseiro Snow IWS",
+            "href": "/reviews/i-wanna-sleep-travesseiro-snow-ficha-tecnica"
+          },
+          {
+            "label": "Conhecer o Cobertor Igloo frio e quente da IWS",
+            "href": "/reviews/i-wanna-sleep-cobertor-igloo-ficha-tecnica"
+          },
+          {
+            "label": "Ficha da Melatonina Gummy IWS sabor maracujá doce",
+            "href": "/reviews/melatonina-gummy-iws-para-que-serve-como-tomar"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas Frequentes sobre Travesseiros",
+        "bullets": [
+          "Qual a diferença entre travesseiro cervical e de pescoço de viagem? O travesseiro cervical é usado na cama e pode ter formato ondulado para apoiar a região do pescoço. O travesseiro de viagem em U dá suporte lateral à cabeça durante deslocamentos sentado em carros ou aviões.",
+          "Travesseiro de viscoelástico ou látex: qual escolher? O viscoelástico molda-se ao contorno da cabeça e distribui a pressão nos pontos de contato. O látex oferece resposta mais elástica e firme, sem o afundamento lento característico do viscoelástico.",
+          "Como medir a altura certa para quem dorme de lado? Use como referência o espaço entre o ombro e a lateral da cabeça: o objetivo é apoiar cabeça e pescoço sem inclinação acentuada. Conforto e necessidades individuais também devem ser considerados.",
+          "O travesseiro Cervical Coluna Relax® serve para quem dorme de bruços? Dormir de bruços mantém o pescoço girado por parte da noite. Para essa posição, modelos mais baixos e planos tendem a produzir menos inclinação do que formatos com curvas cervicais altas; se houver dor persistente, procure orientação profissional.",
+          "Qual travesseiro da I Wanna Sleep é indicado para quem tem alergia? A fabricante apresenta o Airgelly® 2.0 como o único 100% lavável do catálogo e desenvolvido para combater ácaros e bactérias. O Neck Plus Charcoal™ combina carvão ativado e contorno anatômico. Esses produtos podem facilitar a higiene, mas não substituem avaliação ou tratamento de alergias.",
+          "Qual é a melhor marca de travesseiro? Não existe uma marca universalmente melhor. A escolha depende da posição de dormir, da altura, do material, do conforto percebido e de necessidades individuais. A IWS organiza o catálogo em linhas para facilitar essa comparação.",
+          "Qual a diferença entre a linha Fibra e a linha Pluma Natural? A linha Fibra (Magnum Pluma AirFiber) usa enchimento sintético que imita o toque da pluma, é mais em conta e não usa material de origem animal. A linha Pluma Natural usa penas e plumas reais, com toque mais macio e clássico, em duas versões de preço.",
+          "Como aplicar o cupom CECIEMCASA na I Wanna Sleep? Basta inserir o código CECIEMCASA no campo de cupom no carrinho do e-commerce oficial da marca."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Explore a coleção de travesseiros na loja oficial IWS e use o cupom CECIEMCASA",
+      "label": "Ver travesseiros na loja oficial",
+      "url": "https://www.iwannasleep.com.br/collections/todos-os-travesseiros?utm_source=emcasacomcecilia&utm_medium=blog&utm_campaign=hub-travesseiros",
+      "sponsored": true
+    },
+    "coupon": "CECIEMCASA",
+    "affiliate": "i-wanna-sleep",
+    "editorialNote": "Este guia reúne especificações de catálogo da I Wanna Sleep e orientações gerais para comparar materiais, formatos e alturas. Ele não substitui avaliação médica ou fisioterapêutica. O site Em Casa com Cecília mantém parceria comercial com a marca por meio do cupom CECIEMCASA.",
+    "relatedArticles": [
+      {
+        "slug": "i-wanna-sleep-travesseiro-snow-ficha-tecnica",
+        "title": "Travesseiro Snow IWS: Ficha Técnica e Review"
+      },
+      {
+        "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
+        "title": "Cobertor Igloo IWS: Ficha Técnica Completa"
+      },
+      {
+        "slug": "aliv-head-gel-iws-mascara-termica-enxaqueca",
+        "title": "Aliv Head Gel IWS: Máscara Térmica para Dor de Cabeça e Enxaqueca"
+      }
+    ],
+    "gallery": [
+      {
+        "image": "/images/reviews/iwannasleep/iws-catalogo-travesseiros.webp",
+        "alt": "Coleção de travesseiros I Wanna Sleep",
+        "caption": "Coleção IWS: linhas ergonômicas, viscoelásticas, látex e fibras para cada perfil de sono."
+      },
+      {
+        "image": "/images/reviews/iwannasleep/travesseiro-snow-hero.webp",
+        "alt": "Travesseiro Snow com tecido de toque frio",
+        "caption": "Travesseiro Snow: enchimento regulável e capa de toque frio, segundo a ficha da fabricante."
+      },
+      {
+        "image": "/images/reviews/iwannasleep/iws-missao-dormir-melhor.webp",
+        "alt": "Ambiente de repouso aconchegante",
+        "caption": "Altura e apoio do travesseiro influenciam a posição da cabeça e do pescoço durante o repouso."
+      },
+      {
+        "image": "/images/reviews/iwannasleep/travesseiro-cervical-coluna-relax-oficial.webp",
+        "alt": "Travesseiro Cervical Coluna Relax da I Wanna Sleep",
+        "caption": "Cervical Coluna Relax®: o modelo mais buscado da linha ergonômica."
+      },
+      {
+        "image": "/images/reviews/iwannasleep/travesseiro-airgelly-2-antialergico-lavavel.webp",
+        "alt": "Travesseiro Airgelly 2.0 da I Wanna Sleep",
+        "caption": "Airgelly® 2.0: apresentado pela fabricante como o único travesseiro 100% lavável do catálogo IWS."
+      },
+      {
+        "image": "/images/reviews/iwannasleep/travesseiro-original-latex-detalhe.webp",
+        "alt": "Detalhe do látex natural do Travesseiro Original Látex",
+        "caption": "Original Látex®: disponível em três alturas (P, M e G)."
+      },
+      {
+        "image": "/images/reviews/iwannasleep/iws-categoria-cervicais-ergonomicos.webp",
+        "alt": "Linha Cervicais e Ergonômicos completa da I Wanna Sleep",
+        "caption": "Linha Cervicais/Ergonômicos: Coluna Relax®, Neck Plus Charcoal™, Neck Plus Gel™ e Ergoblu™."
+      },
+      {
+        "image": "/images/reviews/iwannasleep/iws-categoria-memory-foam.webp",
+        "alt": "Linha Memory Foam completa da I Wanna Sleep",
+        "caption": "Linha Memory Foam: Snow®, Neck Plus Gel™, Ergoblu™ e Bubble Gel®."
+      },
+      {
+        "image": "/images/reviews/iwannasleep/travesseiro-airgelly-render-3d.webp",
+        "alt": "Render 3D do travesseiro Airgelly 2.0",
+        "caption": "Airgelly® 2.0: estrutura vazada que, segundo a fabricante, permite lavar o travesseiro inteiro."
+      },
+      {
+        "image": "/images/reviews/iwannasleep/iws-categoria-regulagem-altura-snow.webp",
+        "alt": "Família Snow da I Wanna Sleep: Snow, Snow Kids, Snow Body e Snow Mini",
+        "caption": "Família Snow®: mesma tecnologia de altura ajustável em quatro formatos."
+      },
+      {
+        "image": "/images/reviews/iwannasleep/iws-categoria-latex.webp",
+        "alt": "Linha Látex da I Wanna Sleep",
+        "caption": "Linha Látex: Original Látex® e Blue Látex."
+      },
+      {
+        "image": "/images/reviews/iwannasleep/iws-categoria-plumas-magnum-skin.webp",
+        "alt": "Linha Fibra da I Wanna Sleep: Magnum Pluma AirFiber e Skin",
+        "caption": "Linha Fibra: Magnum Pluma AirFiber."
+      },
+      {
+        "image": "/images/reviews/iwannasleep/iws-categoria-pluma-natural.webp",
+        "alt": "Linha Pluma Natural da I Wanna Sleep",
+        "caption": "Linha Pluma Natural: Pluma Natural Premium e Pena e Pluma Natural."
+      },
+      {
+        "image": "/images/reviews/iwannasleep/iws-categoria-viagem.webp",
+        "alt": "Linha de travesseiros para viagem da I Wanna Sleep",
+        "caption": "Linha Viagem: Snow® Mini e Travel Pillow U."
+      }
+    ]
   }
 ];
