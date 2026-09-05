@@ -6,10 +6,18 @@ import { validateYesStyleCoupons } from './validate-yesstyle-coupons.mjs';
 
 const source = JSON.parse(readFileSync('data/coupons/yesstyle.json', 'utf8'));
 const fixture = () => structuredClone(source);
-const promoIndex = source.findIndex((item) => item.type === 'coupon' && item.status === 'active');
-assert.notEqual(promoIndex, -1, 'a fonte deve conter um cupom promocional ativo');
-const validToday = source[promoIndex].startsAt;
-const expiredToday = new Date(`${source[promoIndex].expiresAt}T00:00:00Z`);
+const activePromos = source.filter((item) => item.type === 'coupon' && item.status === 'active');
+assert.notEqual(activePromos.length, 0, 'a fonte deve conter um cupom promocional ativo');
+const promoIndex = source.indexOf(activePromos[0]);
+const validToday = activePromos.reduce(
+  (latest, promo) => (promo.startsAt > latest ? promo.startsAt : latest),
+  activePromos[0].startsAt,
+);
+const lastExpiration = activePromos.reduce(
+  (latest, promo) => (promo.expiresAt > latest ? promo.expiresAt : latest),
+  activePromos[0].expiresAt,
+);
+const expiredToday = new Date(`${lastExpiration}T00:00:00Z`);
 expiredToday.setUTCDate(expiredToday.getUTCDate() + 1);
 const dayAfterExpiration = expiredToday.toISOString().slice(0, 10);
 
