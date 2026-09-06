@@ -35,7 +35,7 @@ type EmbeddedLocalVideo = {
 
 type LocalVideoMetadata = {
   classification: 'primary' | 'secondary' | 'decorative';
-  reviewSlug: string;
+  reviewSlug: string | string[];
   reason?: string;
   title?: string;
   description?: string;
@@ -222,7 +222,15 @@ for (const review of reviews) {
       report('review', review.slug, `MP4 sem classificação editorial: ${sourceUrl}`);
       continue;
     }
-    if (metadata.reviewSlug !== review.slug) {
+
+    // Check ownership: for secondary/decorative, reviewSlug can be an array.
+    // For primary, it must be a single string.
+    const reviewSlugs = Array.isArray(metadata.reviewSlug)
+      ? metadata.reviewSlug
+      : [metadata.reviewSlug];
+    const isOwner = reviewSlugs.includes(review.slug);
+
+    if (!isOwner) {
       report('review', review.slug, `MP4 classificado para outro review: ${sourceUrl}`);
     }
     if (metadata.classification !== 'primary') continue;

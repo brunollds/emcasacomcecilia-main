@@ -91,6 +91,10 @@ export const videoMetadata = {
  *
  * Apenas registros `primary` podem gerar VideoObject. Os demais permanecem
  * visíveis na página, mas não competem com o vídeo principal no schema.
+ *
+ * Campo `reviewSlug`:
+ * - Para `primary`: sempre uma string (single owner, used for schema/sitemap/display page)
+ * - Para `secondary`/`decorative`: pode ser string ou array (múltiplos reviews podem reutilizar o mesmo MP4)
  */
 export const localVideoMetadata = {
   '/images/reviews/iwannasleep/i-wanna-sleep-site-1.mp4': {
@@ -133,8 +137,8 @@ export const localVideoMetadata = {
   },
   '/videos/reviews/dolcegusto/mini-me-2-0-loop.mp4': {
     classification: 'secondary',
-    reviewSlug: 'dolce-gusto-mini-me-2-0-vale-a-pena',
-    reason: 'Demonstração complementar da máquina em operação; o YouTube é o vídeo editorial principal.',
+    reviewSlug: ['dolce-gusto-mini-me-2-0-vale-a-pena', 'dolce-gusto-vs-nespresso-qual-escolher'],
+    reason: 'Demonstração complementar da máquina em operação; o YouTube é o vídeo editorial principal. Reutilizado em artigo de comparação.',
   },
   '/videos/reviews/samsung/lava-e-seca-loop.mp4': {
     classification: 'decorative',
