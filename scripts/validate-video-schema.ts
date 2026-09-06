@@ -235,6 +235,11 @@ for (const review of reviews) {
     }
     if (metadata.classification !== 'primary') continue;
 
+    if (Array.isArray(metadata.reviewSlug)) {
+      report('review', review.slug, 'MP4 principal deve possuir exatamente um reviewSlug');
+      continue;
+    }
+
     primaryLocalVideos += 1;
     if (review.youtubeUrl && getYoutubeEmbedUrl(review.youtubeUrl)) {
       report('review', review.slug, 'MP4 principal compete com vídeo principal do YouTube');
