@@ -74,6 +74,7 @@ status_i18n: "nao-aplicavel" # nao-aplicavel | estrutura-pt | aguardando-gate | 
 
 ## 5. Mídia & Planejamento Visual (Imagens & Vídeos)
 - **Imagem Principal (Hero):** *(Descrever o que a imagem deve mostrar)*
+- **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md). Planejar compressão, origem/licença, paths locais, upload verificado e `--append`; não confundir upload com publicação nem excluir originais.
 - **Imagens Inline / Seções:** *(Tabelas, fotos do modo de uso, infográficos)*
 - **Galeria de Detalhes:** *(Fotos secundárias com legendas ricas)*
 - **Vídeo (se houver):** [ ] Primário (YouTube/MP4) | [ ] Secundário | [ ] Loop decorativo | [ ] Nenhum

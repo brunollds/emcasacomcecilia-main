@@ -29,12 +29,13 @@ imutáveis e GET de integridade antes de qualquer referência. Não alterar o de
 `export-ignore` massivo e não tratar a allowlist como prova de CDN concluída; `media` permanece a
 superfície de mídia existente do VPS coletor.
 
-**Candidato Fase 5 de 07/09/2026:** 304 referencias de imagens/videos usam mapa
+**Fase 5 publicada em 07/09/2026 (`132571e`):** 304 referencias de imagens/videos usam mapa
 exato na entrega; os originais continuam no Git e no disco, mas a allowlist
 explicita de `export-ignore` os retira do source archive. Bruno autorizou essa
 excecao antes do backup nativo; Claude nao dispensou o gate. Recuperacao local
 dos 304 originais pelo Git foi testada. Backup/restore nativo permanece pendente.
-Isso nao autoriza apagar originais, nem equivale a deploy concluido.
+O archive atestado desse release ficou em 4.778.762 bytes e a compatibilidade
+legada foi validada em producao. Isso nao autoriza apagar originais.
 Para novas midias, seguir a rotina incremental do guia: inventario com preservacao
 de provas, upload FTPS, verificacao HTTPS e append ao mapa antes dos gates do site.
 Antes de preparar um release com essas referencias, executar tambem:

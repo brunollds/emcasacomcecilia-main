@@ -7,9 +7,11 @@ Root: /home/u150185510/domains/cdn.emcasacomcecilia.com/public_html.
 Nao usar public_html/cdn-media do site principal nem alterar media.emcasacomcecilia.com,
 que pertence ao coletor na VPS.
 
-Em 06/09/2026: 333 objetos enviados/verificados; 304 referencias integradas no
-codigo local. Isso nao comprova que essa integracao ja foi implantada. Evidencias:
-docs/plans/2026-09-06-cdn-*.md e data/media-*.json.
+Fase 5 publicada em 07/09/2026 no commit
+`132571e449883e31600d2dfa88f90bdfd7c29d65`: 333 objetos enviados/verificados,
+304 referencias ativas e excluidas apenas do archive por lista exata. Originais
+preservados no Git e no disco. Pacote atestado: 4.778.762 bytes. Backup nativo
+pos-upload e restore continuam sem comprovacao; nao declarar essa pendencia fechada.
 
 Upload por FTPS explicito, TLS validado e PROT P, com conta restrita ao addon.
 O script configura o hostname TLS comprovado do servico. Nao usar FTP simples,
@@ -101,7 +103,8 @@ node scripts/media/test-review-delivery-html.mjs
 
 Conferir artigo, hero, inline, ampliacao, cards e mobile. Listagens cliente
 precisam de verificacao apos hidratacao. Validadores continuam usando arquivos
-locais, intencionalmente.
+locais na verificacao pre-release. No build do pacote, o validador de video
+aceita ausencia local somente com prova verificada coerente com manifesto/mapa.
 
 Antes de commitar: reconciliar arvore compartilhada e fazer staging por caminhos
 explicitos, nunca git add . ou git add -A. Incluir somente o escopo revisado,
@@ -127,10 +130,16 @@ Manter originais inclusive para artigos novos ate confirmar backup recuperavel.
 CDN nao equivale a backup historico independente. Copia na mesma maquina nao
 comprova recuperacao remota.
 
-Nenhuma exclusao do archive foi implementada. Antes de excluir, comprovar backup
-com os objetos, restore seletivo com hashes, cobertura dos consumidores/URLs
-legadas e compatibilidade dos validadores/build sem os arquivos no pacote.
-Nao aplicar export-ignore massivo para forcar tamanho.
+As 304 exclusoes exatas foram publicadas sob decisao de Bruno de nao esperar o
+backup nativo; Claude nao dispensou esse gate. Recuperacao dos originais pelo
+Git e build/URLs sem os arquivos no pacote foram testados. Isso nao autoriza
+git rm nem exclusoes por diretorio.
+
+O gate `node scripts/media/phase5-export.mjs --check` esta congelado em 304
+entradas. Uma nova referencia via --append NAO atualiza export-ignore e faz esse
+gate exigir revisao do contrato (contagens e bytes), da lista exata e novo ensaio
+de pacote. Nao reduzir validacoes para passar nem prometer exclusao automatica.
+Reverter somente export-ignore tambem nao desativa o mapa de entrega CDN.
 
 Deploy gerenciado e archive atestado permanecem inalterados: aviso em
 47.000.000 bytes, bloqueio em 49.000.000 bytes. Medir o archive final, nao deduzir

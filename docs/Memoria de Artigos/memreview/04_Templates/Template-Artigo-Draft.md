@@ -50,7 +50,9 @@ proxima_acao: "revisao-editorial"
 ---
 
 ## Planejamento de Mídia & Imagens
-- **Hero Image:** `public/images/reviews/...`
+- **Hero Image:** original otimizado em `public/images/reviews/...`; campo `image` do JSON em `/images/reviews/...`. Seguir [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md).
+- **Entrega CDN:** comprimir antes, inventariar com `--merge`, fazer upload e verificar HTTPS/SHA-256 antes de acrescentar ao mapa com `--append`. Não inserir URL CDN diretamente no JSON.
+- **Memória da mídia:** registrar origem, licença/autoria, caminho local e evidência de verificação. Preservar originais; upload não publica o artigo nem exclui arquivos do archive.
 - **Image Alt:** `[Texto alternativo descritivo e acessível]`
 - **Imagens de Seção:** `[Lista de imagens inline com legenda]`
 

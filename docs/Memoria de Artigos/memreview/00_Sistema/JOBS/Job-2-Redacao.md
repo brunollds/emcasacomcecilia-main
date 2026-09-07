@@ -1,5 +1,7 @@
 # Job 2: Redação Editorial
 
+**Mídia obrigatória:** seguir [Guia de mídia editorial](../../../../GUIA-MIDIA-EDITORIAL.md): comprimir, preservar originais e paths locais no JSON, inventariar com `--merge`, verificar HTTPS antes de `--append` e registrar origem/licença na memória. Upload, entrega CDN e deploy são etapas distintas.
+
 ---
 
 ## 1. Missão

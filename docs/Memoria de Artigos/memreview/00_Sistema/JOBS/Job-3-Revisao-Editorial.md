@@ -1,5 +1,7 @@
 # Job 3: Revisão Factual, Voz & Claims
 
+**Revisão de mídia:** aplicar [Guia de mídia editorial](../../../../GUIA-MIDIA-EDITORIAL.md). Conferir compressão, proporção, alt/legenda, origem/licença, prova HTTPS e preservação de paths locais no JSON. Não aprovar URL remota apenas pelo recibo de upload; conferir hero, inline, ampliação e cards.
+
 ---
 
 ## 1. Missão

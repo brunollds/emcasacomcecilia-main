@@ -111,7 +111,9 @@ report filename: existing identical objects are read and skipped; divergent obje
 Do not run two upload processes or remove a live upload lock. The public verifier uses query-free
 URLs and checkpoints results; `--write` only marks the manifest after the entire selection passes.
 Neither command edits article references, removes originals, excludes archive contents, or deploys
-the Node app. Backup/restore evidence remains required before archive exclusions.
+the Node app. The separate Phase 5 export allowlist was deployed in 132571e
+under Bruno's exception to waiting for native backup/restore. That exception
+does not authorize deleting originals. Native backup proof remains pending.
 
 ## Delivery pilot
 
