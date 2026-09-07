@@ -3,6 +3,8 @@ import path from 'node:path';
 import { validateRedirectsFromDisk } from './scripts/content/validate-redirects.mjs';
 import { readReleaseIdentity } from './scripts/content/release-identity.mjs';
 import { IMAGE_REMOTE_PATTERNS } from './src/lib/imageHosts.mjs';
+import mediaDeliveryMap from './src/lib/generated/media-delivery-map.json' with { type: 'json' };
+import { buildMediaDeliveryRules } from './scripts/media/media-redirects.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -18,6 +20,8 @@ const releaseIdentity = readReleaseIdentity({
   required: process.env.RELEASE_META_REQUIRED === '1',
 });
 
+const mediaDeliveryRules = buildMediaDeliveryRules(mediaDeliveryMap, redirects);
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'standalone',
@@ -29,7 +33,10 @@ const nextConfig = {
     EMCASA_RELEASE_DEPLOY_UUID: releaseIdentity.deploy_uuid ?? '',
   },
   async redirects() {
-    return redirects;
+    return [...redirects, ...mediaDeliveryRules.redirects];
+  },
+  async rewrites() {
+    return { beforeFiles: mediaDeliveryRules.rewrites };
   },
   reactStrictMode: true,
   experimental: {
