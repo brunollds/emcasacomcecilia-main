@@ -10,6 +10,7 @@ import {
   type HomeReviewCard,
   type ReviewCategory,
 } from '@/lib/reviewDiscovery';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const accentByType: Record<string, string> = {
   Eletrodoméstico: '#ff6b35',
@@ -101,7 +102,7 @@ export function ReviewsShowcase({ items }: { items: HomeReviewCard[] }) {
                   <div className="relative mb-4 aspect-[4/3] overflow-hidden rounded-[1.35rem] shadow-soft transition-shadow duration-500 group-hover:shadow-large md:rounded-[1.6rem] lg:rounded-[2rem]">
                     {item.image ? (
                       <Image
-                        src={item.image}
+                        src={resolveMediaUrl(item.image)}
                         alt={item.imageAlt || item.title}
                         fill
                         className={`transition-transform duration-700 ease-out group-hover:scale-105 ${imageClassName}`}

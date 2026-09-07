@@ -1,0 +1,31 @@
+Options -Indexes
+
+<IfModule mod_mime.c>
+  AddType image/png .png
+  AddType image/jpeg .jpg .jpeg
+  AddType image/webp .webp
+  AddType image/gif .gif
+  AddType image/avif .avif
+  AddType image/svg+xml .svg
+  AddType image/bmp .bmp
+  AddType image/tiff .tif .tiff
+  AddType image/x-icon .ico
+
+  AddType video/mp4 .mp4
+  AddType video/webm .webm
+  AddType video/quicktime .mov
+  AddType video/x-m4v .m4v
+
+  AddType audio/mpeg .mp3
+  AddType audio/wav .wav
+  AddType audio/ogg .ogg .oga
+  AddType audio/mp4 .m4a
+  AddType audio/aac .aac
+  AddType audio/flac .flac
+  AddType audio/opus .opus
+</IfModule>
+
+<IfModule mod_headers.c>
+  Header onsuccess unset Cache-Control
+  Header always set Cache-Control "no-store, no-transform"
+</IfModule>

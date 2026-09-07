@@ -1,0 +1,556 @@
+{
+  "batch": "published-review-images",
+  "preserved": [
+    "/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-1.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-cecilia-1.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-loop-1-poster.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-loop-2-poster.webp",
+    "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-2.webp",
+    "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-hero.webp",
+    "/images/reviews/iwannasleep/i-wanna-sleep-site-1-poster.jpg",
+    "/images/reviews/iwannasleep/i-wanna-sleep-site-1.mp4",
+    "/images/reviews/iwannasleep/i-wanna-sleep-site-1.webm",
+    "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada.webp",
+    "/images/reviews/samsung/lava-e-seca-loop-poster.webp",
+    "/videos/reviews/damie/poltrona-reclinavel-damie-2-0-hero-loop.mp4",
+    "/videos/reviews/damie/poltrona-reclinavel-damie-2-0-loop.mp4",
+    "/videos/reviews/dolcegusto/genio-s-touch-loop-1.mp4",
+    "/videos/reviews/dolcegusto/genio-s-touch-loop-2.mp4",
+    "/videos/reviews/dolcegusto/mini-me-2-0-loop.mp4",
+    "/videos/reviews/dolcegusto/tabela-manual-dolce-gusto-loop.mp4",
+    "/videos/reviews/samsung/lava-e-seca-loop.mp4",
+    "/videos/reviews/samsung/lava-e-seca-loop.webm"
+  ],
+  "review_images": [
+    "/images/reviews/airfryer-10-fatos-surpreendentes.jpg",
+    "/images/reviews/airfryer-uma-breve-historia.jpg",
+    "/images/reviews/conhecendo-mais-rabanada.avif",
+    "/images/reviews/cupom-cecilia12/1-escolha-produto.png",
+    "/images/reviews/cupom-cecilia12/2-adicione-carrinho-2.png",
+    "/images/reviews/cupom-cecilia12/2-adicione-carrinho.png",
+    "/images/reviews/cupom-cecilia12/3-aplique-cupom.png",
+    "/images/reviews/cupom-cecilia12/4-confirme-desconto.png",
+    "/images/reviews/cupom-damie-cecilia-poltrona-reclinavel.webp",
+    "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
+    "/images/reviews/cupons/k-beauty-expo-korea.webp",
+    "/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
+    "/images/reviews/cupons/k-beauty-loja-varejo.webp",
+    "/images/reviews/cupons/nescafe-dolce-gusto-galeria-1.webp",
+    "/images/reviews/cupons/nescafe-dolce-gusto-galeria-2.webp",
+    "/images/reviews/cupons/nescafe-dolce-gusto-galeria-3.webp",
+    "/images/reviews/cupons/nescafe-dolce-gusto-galeria-4.webp",
+    "/images/reviews/cupons/nescafe-dolce-gusto-galeria-5.webp",
+    "/images/reviews/cupons/nescafe-dolce-gusto-hero.webp",
+    "/images/reviews/cupons/nescafe-dolce-gusto-passo-1.webp",
+    "/images/reviews/cupons/nescafe-dolce-gusto-passo-2.webp",
+    "/images/reviews/cupons/nescafe-dolce-gusto-passo-3.webp",
+    "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
+    "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
+    "/images/reviews/cupons/yesstyle-carrinho-checkout.webp",
+    "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
+    "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
+    "/images/reviews/cupons/yesstyle-home-promocoes.webp",
+    "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
+    "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
+    "/images/reviews/cupons/yesstyle-logo-purple-hero.webp",
+    "/images/reviews/cupons/yesstyle-logo-purple.webp",
+    "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
+    "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
+    "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
+    "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
+    "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
+    "/images/reviews/damie-reclame-aqui-hero.webp",
+    "/images/reviews/damie-reclame-aqui-local.webp",
+    "/images/reviews/damie-reclame-aqui-reputacao.webp",
+    "/images/reviews/damie/poltrona-aurora-areia-ambientada.webp",
+    "/images/reviews/damie/poltrona-aurora-castanho-ambientada.webp",
+    "/images/reviews/damie/poltrona-aurora-castanho-frontal.webp",
+    "/images/reviews/damie/poltrona-aurora-castanho-lateral-deitada.webp",
+    "/images/reviews/damie/poltrona-aurora-castanho-pufe-perspectiva.webp",
+    "/images/reviews/damie/poltrona-damie-2-0-almofada-regulavel.webp",
+    "/images/reviews/damie/poltrona-damie-2-0-apoio-pes.webp",
+    "/images/reviews/damie/poltrona-damie-2-0-bolso-lateral.webp",
+    "/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp",
+    "/images/reviews/damie/poltrona-damie-2-0-estrutura.webp",
+    "/images/reviews/damie/poltrona-levita-cecilia-selfie.jpg",
+    "/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-1.webp",
+    "/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-2.webp",
+    "/images/reviews/dolcegusto/adaptador-neo-start-combo-maquina.webp",
+    "/images/reviews/dolcegusto/adaptador-neo-start-encaixe.webp",
+    "/images/reviews/dolcegusto/adaptador-neo-start-hero-oficial.webp",
+    "/images/reviews/dolcegusto/adaptador-neo-start-passo-a-passo.webp",
+    "/images/reviews/dolcegusto/adaptador-neo-start-produto.webp",
+    "/images/reviews/dolcegusto/assinatura-dolce-gusto-beneficios-25off.webp",
+    "/images/reviews/dolcegusto/assinatura-dolce-gusto-freq-caixas.webp",
+    "/images/reviews/dolcegusto/assinatura-dolce-gusto-painel-oficial.webp",
+    "/images/reviews/dolcegusto/assinatura-dolce-gusto-passo-a-passo.webp",
+    "/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp",
+    "/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp",
+    "/images/reviews/dolcegusto/clube-dolce-gusto-como-funciona-hero-v2.webp",
+    "/images/reviews/dolcegusto/clube-dolce-gusto-resgate-pontos.webp",
+    "/images/reviews/dolcegusto/clube-dolce-gusto-tutorial-cadastro.webp",
+    "/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp",
+    "/images/reviews/dolcegusto/dolce-gusto-e-confiavel-hero.webp",
+    "/images/reviews/dolcegusto/dolce-gusto-genio-arno-produto.webp",
+    "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-hero-v2.webp",
+    "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-qual-escolher-hero.webp",
+    "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-vs-3-coracoes-hero.jpg",
+    "/images/reviews/dolcegusto/genio-s-basic-lateral.webp",
+    "/images/reviews/dolcegusto/genio-s-plus-lateral.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-cecilia-1.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-cecilia-2.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-cecilia-capsula.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-cecilia-hero.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-cecilia-servindo.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-dimensoes.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-lateral.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-loop-1-poster.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-loop-2-poster.webp",
+    "/images/reviews/dolcegusto/genio-s-trio-oficial-cores.webp",
+    "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-1.webp",
+    "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-2.webp",
+    "/images/reviews/dolcegusto/nespresso-pixie-produto.webp",
+    "/images/reviews/dolcegusto/promocao-55-caixas-art-1.webp",
+    "/images/reviews/dolcegusto/promocao-55-caixas-art-2.webp",
+    "/images/reviews/dolcegusto/promocao-55-caixas-art-3.webp",
+    "/images/reviews/dolcegusto/promocao-55-caixas-art-4.webp",
+    "/images/reviews/dolcegusto/promocao-55-caixas-art-5.webp",
+    "/images/reviews/dolcegusto/promocao-55-caixas-hero.webp",
+    "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-cafes-lattes.webp",
+    "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-chocolates-chas.webp",
+    "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-hero.webp",
+    "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-1.webp",
+    "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-2.webp",
+    "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-3.webp",
+    "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-4.webp",
+    "/images/reviews/eames-lounge-chair-anuncio-herman-miller-vintage.webp",
+    "/images/reviews/eames-lounge-chair-janela-vintage.jpg",
+    "/images/reviews/eames-lounge-chair-leitura-vintage.png",
+    "/images/reviews/eames-lounge-chair-produto-oficial.webp",
+    "/images/reviews/fred-van-der-weij-airfryer.avif",
+    "/images/reviews/iwannasleep/1-escolha-produto.webp",
+    "/images/reviews/iwannasleep/2-adicione-carrinho.webp",
+    "/images/reviews/iwannasleep/3-aplique-cupom.webp",
+    "/images/reviews/iwannasleep/4-confirme-desconto.webp",
+    "/images/reviews/iwannasleep/aliv-head-gel-iws-cobertura-360.webp",
+    "/images/reviews/iwannasleep/aliv-head-gel-iws-descanso.webp",
+    "/images/reviews/iwannasleep/aliv-head-gel-iws-frio-quente.webp",
+    "/images/reviews/iwannasleep/aliv-head-gel-iws-hero.jpg",
+    "/images/reviews/iwannasleep/aliv-head-gel-iws-uso-quente.webp",
+    "/images/reviews/iwannasleep/cobertor-igloo-galeria-1.webp",
+    "/images/reviews/iwannasleep/cobertor-igloo-galeria-2.webp",
+    "/images/reviews/iwannasleep/cobertor-igloo-hero.webp",
+    "/images/reviews/iwannasleep/confiabilidade-hero.webp",
+    "/images/reviews/iwannasleep/cupom-ceciemcasa-hero.webp",
+    "/images/reviews/iwannasleep/i-wanna-sleep-site-1-poster.jpg",
+    "/images/reviews/iwannasleep/iws-catalogo-travesseiros.webp",
+    "/images/reviews/iwannasleep/iws-categoria-cervicais-ergonomicos.webp",
+    "/images/reviews/iwannasleep/iws-categoria-latex.webp",
+    "/images/reviews/iwannasleep/iws-categoria-memory-foam.webp",
+    "/images/reviews/iwannasleep/iws-categoria-pluma-natural.webp",
+    "/images/reviews/iwannasleep/iws-categoria-plumas-magnum-skin.webp",
+    "/images/reviews/iwannasleep/iws-categoria-regulagem-altura-snow.webp",
+    "/images/reviews/iwannasleep/iws-categoria-viagem.webp",
+    "/images/reviews/iwannasleep/iws-global-lifestyle-sleep-brand.webp",
+    "/images/reviews/iwannasleep/iws-loja-fisica.webp",
+    "/images/reviews/iwannasleep/iws-loja02-fachada.webp",
+    "/images/reviews/iwannasleep/iws-loja04-fachada.webp",
+    "/images/reviews/iwannasleep/iws-missao-dormir-melhor.webp",
+    "/images/reviews/iwannasleep/melatonina-gummy-iws-caracteristicas.png",
+    "/images/reviews/iwannasleep/melatonina-gummy-iws-como-usar.webp",
+    "/images/reviews/iwannasleep/melatonina-gummy-iws-goma.webp",
+    "/images/reviews/iwannasleep/melatonina-gummy-iws-hero.webp",
+    "/images/reviews/iwannasleep/melatonina-gummy-iws-maracuja.webp",
+    "/images/reviews/iwannasleep/melatonina-liquida-hero.webp",
+    "/images/reviews/iwannasleep/melatonina-liquida-maracuja.webp",
+    "/images/reviews/iwannasleep/melatonina-liquida-splash.webp",
+    "/images/reviews/iwannasleep/travesseiro-airgelly-2-antialergico-lavavel.webp",
+    "/images/reviews/iwannasleep/travesseiro-airgelly-render-3d.webp",
+    "/images/reviews/iwannasleep/travesseiro-cervical-coluna-relax-oficial.webp",
+    "/images/reviews/iwannasleep/travesseiro-original-latex-detalhe.webp",
+    "/images/reviews/iwannasleep/travesseiro-snow-hero.webp",
+    "/images/reviews/magalu/magalu-cupom-aplicado.webp",
+    "/images/reviews/magalu/magalu-hero.webp",
+    "/images/reviews/magalu/magalu-loja-navegador.webp",
+    "/images/reviews/manteiga-batida-aerada.jpg",
+    "/images/reviews/nutren/nestle-nutre-hero.webp",
+    "/images/reviews/nutren/nestle-nutre-identidade-institucional.webp",
+    "/images/reviews/nutren/nestle-nutre-linha-senior.webp",
+    "/images/reviews/nutren/nestle-nutre-vitrine-oficial.webp",
+    "/images/reviews/nutren/nutren-creatina-300g-composicao.webp",
+    "/images/reviews/nutren/nutren-creatina-300g-frente.avif",
+    "/images/reviews/nutren/nutren-creatina-300g-rotulo.avif",
+    "/images/reviews/nutren/nutren-creatina-preco-2026-08-27.png",
+    "/images/reviews/nutren/nutren-just-protein-banner.avif",
+    "/images/reviews/nutren/nutren-just-protein-beneficios.png",
+    "/images/reviews/nutren/nutren-just-protein-lata-280g.avif",
+    "/images/reviews/nutren/nutren-just-protein-modo-preparo.avif",
+    "/images/reviews/nutren/nutren-senior-hero.webp",
+    "/images/reviews/nutren/nutren-senior-linha-banner.avif",
+    "/images/reviews/nutren/nutren-senior-linha-hero.webp",
+    "/images/reviews/nutren/nutren-senior-zero-lactose-beneficios.webp",
+    "/images/reviews/nutren/passo-1-lista-produtos.webp",
+    "/images/reviews/nutren/passo-2-carrinho.webp",
+    "/images/reviews/nutren/passo-3-digite-ceci.webp",
+    "/images/reviews/nutren/passo-4-cupom-aplicado.webp",
+    "/images/reviews/poltrona-amamentacao-rotina-hero.webp",
+    "/images/reviews/poltrona-levita-cecilia-flores.webp",
+    "/images/reviews/poltrona-levita-cecilia-lateral.webp",
+    "/images/reviews/poltrona-levita-cecilia-sala.webp",
+    "/images/reviews/poltrona-levita-destaques.webp",
+    "/images/reviews/poltrona-levita-especificacoes.webp",
+    "/images/reviews/poltrona-levita.webp",
+    "/images/reviews/poltrona-moon-cecilia-design.webp",
+    "/images/reviews/poltrona-moon-cecilia-hero.webp",
+    "/images/reviews/poltrona-moon-cecilia-materiais.webp",
+    "/images/reviews/poltrona-moon-cecilia-quem.webp",
+    "/images/reviews/poltrona-moon-destaques.webp",
+    "/images/reviews/poltrona-moon-especificacoes.webp",
+    "/images/reviews/poltrona-moon-fundo-casa.webp",
+    "/images/reviews/poltrona-moon.webp",
+    "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada.webp",
+    "/images/reviews/poltrona-reclinavel-cecilia-botao-reclinacao.webp",
+    "/images/reviews/poltrona-reclinavel-cecilia-ian.webp",
+    "/images/reviews/poltrona-reclinavel-cecilia.webp",
+    "/images/reviews/samsung/amelia-chegou-embalada.webp",
+    "/images/reviews/samsung/amelia-no-lugar.webp",
+    "/images/reviews/samsung/cecilia-amelia-instalada.webp",
+    "/images/reviews/samsung/lava-e-seca-loop-poster.webp",
+    "/images/reviews/samsung/minha-primeira-lava-e-seca-capa.webp",
+    "/images/reviews/samsung/samsung-wd13fg-dimensoes-oficial.webp",
+    "/images/reviews/samsung/samsung-wd13fg-frontal-oficial.webp",
+    "/images/reviews/samsung/samsung-wd13fg-perspectiva-oficial.webp",
+    "/images/reviews/sofa-damie-modular-hero.webp",
+    "/images/reviews/sofa-damie-modular-puff.webp",
+    "/images/reviews/sofa-damie-modular-vale-a-pena-sq.webp",
+    "/images/reviews/sofa-damie-na-caixa-cecilia-conceito.webp",
+    "/images/reviews/sofa-damie-na-caixa-cecilia-conforto.webp",
+    "/images/reviews/sofa-damie-na-caixa-cecilia-hero.webp",
+    "/images/reviews/sofa-damie-na-caixa-cecilia-montagem.webp",
+    "/images/reviews/sofa-damie-na-caixa.jpg",
+    "/images/reviews/sofa-modular-5-lugares-em-l.webp",
+    "/images/reviews/sofa-modular-6-lugares-ilha.webp",
+    "/images/reviews/sofa-modular-itens.webp",
+    "/images/reviews/sofa-modular-ou-retratil-hero.webp",
+    "/images/reviews/sofa-na-caixa/bbc-news-sofa-na-caixa-manchete.png",
+    "/images/reviews/sofa-na-caixa/procon-sp-damie-pesquisa.webp",
+    "/images/reviews/sofa-na-caixa/procon-sp-pesquisa-evite-sites.webp",
+    "/images/reviews/sofa-na-caixa/reclame-aqui-damie-painel.webp",
+    "/images/reviews/sofa-na-caixa/reclame-aqui-sofa-na-caixa-painel.webp",
+    "/images/reviews/sofa-na-caixa/sofa-modular-entrega-editorial-neutra.png"
+  ],
+  "source_reviews": [
+    {
+      "file": "content/reviews/10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia.json",
+      "sha256": "2acda25ae5bdf2c4b851cd802900cb059eea3ea17f3000ed65bcde5453ddf9a6"
+    },
+    {
+      "file": "content/reviews/adaptador-neo-start-o-que-e.json",
+      "sha256": "087ae5f972c9b331ef0f860616369a1221d133ab07075763173436928965d8a4"
+    },
+    {
+      "file": "content/reviews/airfryer-uma-breve-historia.json",
+      "sha256": "e730625298b21e4543de72521573e49d2b3cb5901eb3f83d0cfdbc7ee76eba1d"
+    },
+    {
+      "file": "content/reviews/aliv-head-gel-iws-mascara-termica-enxaqueca.json",
+      "sha256": "1cab585b0e450691a018f4a74b06ef474e82143874d44d280244657c8b0283d4"
+    },
+    {
+      "file": "content/reviews/assinatura-dolce-gusto-como-funciona.json",
+      "sha256": "d24b74dbb022c9572d9a0a3c8e32e7d65c100cc979ae89f6aaa2c4373a3b9458"
+    },
+    {
+      "file": "content/reviews/clube-dolce-gusto-como-funciona.json",
+      "sha256": "89ed47e71b88cdfda344fc67a340e563e1fb1d3f93adae01fbdc3da892d8227a"
+    },
+    {
+      "file": "content/reviews/code-recompense-yesstyle-cecilia010.json",
+      "sha256": "83fe8194a29a406ce1f829a01dfb275bd5361e157e7c8056743d36e4c10289b7"
+    },
+    {
+      "file": "content/reviews/codigo-cecilia010-yesstyle-como-usar.json",
+      "sha256": "4ddfb5d74da7cbae38033f15c051f2a722c4331680f10d95b8a7e1b4bfcb567b"
+    },
+    {
+      "file": "content/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010.json",
+      "sha256": "549035cfe8a9eeb33e67d312b58f95eebbebec2e887af89cc0c47187cb09c5b6"
+    },
+    {
+      "file": "content/reviews/comment-trouver-des-codes-promo-yesstyle-valides.json",
+      "sha256": "76985f0e8a7af6fac1defb73b93a327d04a082310a4e0163460157c1ba6c3b97"
+    },
+    {
+      "file": "content/reviews/como-encontrar-cupones-yesstyle-validos.json",
+      "sha256": "2db0f0f5a62a3879e08f04d49e9c974325e0f139d2e05f3e1fe6e7d88481ab4f"
+    },
+    {
+      "file": "content/reviews/como-encontrar-cupons-yesstyle-validos.json",
+      "sha256": "b677b42174f87d01f12601d90664381fd4c1aa0e764cddd90ae310a5e29330c2"
+    },
+    {
+      "file": "content/reviews/conhecendo-mais-rabanada.json",
+      "sha256": "0f35f0dc213c034f3c187cf7127f26d84ac408d861bb63cbfb42a3ff6a72f01c"
+    },
+    {
+      "file": "content/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar.json",
+      "sha256": "fe41dba72deed7b5c05552dd5c309368753958097bc512471af0524db595963b"
+    },
+    {
+      "file": "content/reviews/cupom-ceci-nestle-nutre-como-usar.json",
+      "sha256": "c87c4e26d9f462d3d2ad24ecdc199b633edae90faceaa5171b50dd240398a7cb"
+    },
+    {
+      "file": "content/reviews/cupom-ceciemcasa-i-wanna-sleep-como-usar.json",
+      "sha256": "8569e6009f3d72104c7f4da923092e5b56b390c2e2c4dc62e6933bf77904c931"
+    },
+    {
+      "file": "content/reviews/cupom-cecilia12-como-usar.json",
+      "sha256": "60e8c804af69f9e476bfa8267605b5bd955ed94a011a9d640cf5181740a75b7f"
+    },
+    {
+      "file": "content/reviews/cupom-magalu-em-casa-com-cecilia.json",
+      "sha256": "8f3735a862861209de4895f2492c0002eee3f1998cc7fd1ab3c381265213825c"
+    },
+    {
+      "file": "content/reviews/damie-reclame-aqui-o-que-os-dados-mostram.json",
+      "sha256": "eba8a9d251ed17af8f51c3e7de4a06e6c77b699e3ef487532b7e288d2404963e"
+    },
+    {
+      "file": "content/reviews/dolce-gusto-e-confiavel.json",
+      "sha256": "414701e336622afe69c9065f44dc7c0bc38d0aa5a61a2620cf9f29eac7a8d5f6"
+    },
+    {
+      "file": "content/reviews/dolce-gusto-genio-s-basic-vs-plus-vs-touch.json",
+      "sha256": "9580ea931c58748590c11b790cdae15c8c440470e9dc53c9a665b4ec88649a6b"
+    },
+    {
+      "file": "content/reviews/dolce-gusto-genio-s-touch-vale-a-pena.json",
+      "sha256": "f98eda1e3dc4b8716c5c62e8d5d06a1dca964a8fda30da9520a31a291a830cbe"
+    },
+    {
+      "file": "content/reviews/dolce-gusto-mini-me-2-0-vale-a-pena.json",
+      "sha256": "62dc02fff3c4fd2deb9c164435576bc9d335ce63e6b9fc80fb4b1c7d8fbc65e3"
+    },
+    {
+      "file": "content/reviews/dolce-gusto-vs-nespresso-qual-escolher.json",
+      "sha256": "e89114c7f46e981caba4ba29c66aa33169ac499ddb0dba509495066f048f00ef"
+    },
+    {
+      "file": "content/reviews/dolce-gusto-vs-nespresso-vs-3-coracoes.json",
+      "sha256": "afa397f26a0225499090644c0badfd98607d4e85cebeca8092f8069ae56ab665"
+    },
+    {
+      "file": "content/reviews/es-yesstyle-de-fiar-y-seguro.json",
+      "sha256": "00e5d1c96a7f0165d630d706e45df10f98b62edf2ef1f47d0b6220cc74d4a4c5"
+    },
+    {
+      "file": "content/reviews/gueltige-yesstyle-gutscheincodes-finden.json",
+      "sha256": "3602d01acebd12089eca2050fa82995a5e75b07391211df09202fe7cf104c0cf"
+    },
+    {
+      "file": "content/reviews/how-to-find-valid-yesstyle-coupon-codes.json",
+      "sha256": "ba901aae0173f10d6caf1636cbbd7a23f04467f4cb620485acb06040b3435539"
+    },
+    {
+      "file": "content/reviews/i-wanna-sleep-cobertor-igloo-ficha-tecnica.json",
+      "sha256": "12a5c0bb6ae355246af9bbcf5cf964aab70962584ce881d8c9322414fb1825a9"
+    },
+    {
+      "file": "content/reviews/i-wanna-sleep-e-confiavel.json",
+      "sha256": "659193dc184a5c2440a91efca34227ebcc85ef727a947601a81b9d25144c49e5"
+    },
+    {
+      "file": "content/reviews/is-yesstyle-legit-and-safe-review.json",
+      "sha256": "eac7ef7658faafbd2d75e46dad4f1ebd0f019054d7cba570a7ed3f42a8f3e9c3"
+    },
+    {
+      "file": "content/reviews/ist-yesstyle-serioes-und-sicher.json",
+      "sha256": "c61b6d2694bd582b1f95c50864b8f0040711fcc3613134ad91fde5722db571d2"
+    },
+    {
+      "file": "content/reviews/k-beauty-marcas-coreanas-tendencia-mundial.json",
+      "sha256": "abda4a4b0102192173a330e3b7f72a63b1f39a85fcc8e805f1ae1145311b8456"
+    },
+    {
+      "file": "content/reviews/k-beauty-o-que-e-onde-comprar.json",
+      "sha256": "307cc1b497f4d7933baed8d34e67097a59633a9c63fbe076c885cca24ab9c33d"
+    },
+    {
+      "file": "content/reviews/k-beauty-tendance-beaute-coreenne.json",
+      "sha256": "ed97b2d8cd790e661c03575020244c7226b518a3e6d7b0dae782258eaaf89f83"
+    },
+    {
+      "file": "content/reviews/k-beauty-trend-explained-where-to-buy.json",
+      "sha256": "5ecd988f3e490eaccd8d3c004bbc8fb507dc1816855ebd6e7475901c46f9ab78"
+    },
+    {
+      "file": "content/reviews/k-beauty-trend-koreanische-marken-kaufen.json",
+      "sha256": "cd1ad0ebc1bc0293c6d5fe43fe6a257246772618fed68096f4fddcf5721ee07f"
+    },
+    {
+      "file": "content/reviews/melatonina-gummy-iws-para-que-serve-como-tomar.json",
+      "sha256": "40d27149ac53b125cd2aa46750c76a2c56bd16384bfb3df204e83c4e28fed258"
+    },
+    {
+      "file": "content/reviews/melatonina-liquida-iws-ficha-tecnica.json",
+      "sha256": "42a427771686d11778bde4db849f92c09f8013324ec36e9c2a0e28ecafdb64d1"
+    },
+    {
+      "file": "content/reviews/minha-experiencia-manteiga-batida-aerada.json",
+      "sha256": "24cc5bd634aab41a2dad982a7305aee21a92fed67b7b6a8eb1bb6768014296ad"
+    },
+    {
+      "file": "content/reviews/nestle-nutre-e-confiavel.json",
+      "sha256": "d8ef5df883f2a6b4e5bea9f8a4ea7fd3b52a6f01ac973097ab71506b171b0dbd"
+    },
+    {
+      "file": "content/reviews/nutren-creatina-e-boa-comparativo-growth-ftw-cimed.json",
+      "sha256": "e3cc41d8ed8e3737f7704fe1e37645956eab6bf29107f3bf9545d3423470c2a9"
+    },
+    {
+      "file": "content/reviews/nutren-just-protein-para-que-serve.json",
+      "sha256": "93d8be10b3d0caba03f724f8826d981368b041560678c2ad493e97ce94c08adf"
+    },
+    {
+      "file": "content/reviews/nutren-senior-zero-lactose-ficha-tecnica.json",
+      "sha256": "1c5de8f2f0fd491e2afc1d2f22c6e2607db5002969a4a1afa67773a458fb1010"
+    },
+    {
+      "file": "content/reviews/poltrona-amamentacao-rotina.json",
+      "sha256": "b3b5cccdaa78e0a64f008c7324275ef6b90ae56eb77016d3be9d8d506ee1b461"
+    },
+    {
+      "file": "content/reviews/poltrona-charles-eames-design-iconico-e-alternativas.json",
+      "sha256": "c5aad87d37e11793e4074ec9541390442c9f629e020d9e8cdab22d181d9bac53"
+    },
+    {
+      "file": "content/reviews/poltrona-damie-e-boa.json",
+      "sha256": "cb032ea2f9307b65af07c52938448fb3753742c681aa206900e787a3aa7d5a32"
+    },
+    {
+      "file": "content/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto.json",
+      "sha256": "c89362f596c2626723256d9bddaf1f4784c328382eb917916ab7b83808a8df4d"
+    },
+    {
+      "file": "content/reviews/poltrona-moon-design-que-parece-obra-de-arte.json",
+      "sha256": "b483602b54b4555a045a61b31ea91985993f0066d966db4d1e5e50aa984d3ca3"
+    },
+    {
+      "file": "content/reviews/poltronas-reclinaveis-damie-vale-o-investimento.json",
+      "sha256": "d2d104ec59db8c893dfa248097ffed3f69d67e32bbab0b047762b8c175cd9b07"
+    },
+    {
+      "file": "content/reviews/promocao-dolce-gusto-caixas-mini-me-gratis.json",
+      "sha256": "f5cfbecd12b5021ff219e42a439da82251d64548b46c24785145baec8e8cac70"
+    },
+    {
+      "file": "content/reviews/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep.json",
+      "sha256": "8959f1b0ec74eb23b7d1b3c942cc23c210c91652581da95db56f8821da22be74"
+    },
+    {
+      "file": "content/reviews/samsung-lava-seca-13kg-primeiro-uso.json",
+      "sha256": "106ecf6393a5aec5dc1124248c1ff85ca23b62d6c75bf503b017ee72df49b634"
+    },
+    {
+      "file": "content/reviews/sofa-damie-modular-vale-a-pena.json",
+      "sha256": "380cf454798a08adf789c2d1be8817da5685a74d069bf890da06d358536b9e68"
+    },
+    {
+      "file": "content/reviews/sofa-damie-na-caixa-vale-a-pena-o-modular.json",
+      "sha256": "436dedcc54db6670cc6941f0480819ae81e8b0b748436cda67798dc10ec2739b"
+    },
+    {
+      "file": "content/reviews/sofa-modular-ou-retratil-qual-escolher.json",
+      "sha256": "c951625f858c40bc0d448d48b2974f8b4d6cf69bbd3a80677c99ec9358b1a7d7"
+    },
+    {
+      "file": "content/reviews/sofa-na-caixa-crise-reclamacoes-procon-sp.json",
+      "sha256": "2dbc5b4532dd0b3e7db9c523d6d72076cbe235d6cd456d8a7dc8079cd8d3b61e"
+    },
+    {
+      "file": "content/reviews/tabela-medidas-dolce-gusto-ml-por-nivel.json",
+      "sha256": "20ffefa162c09257acd963cb0b26ccd87f4a135c4e505ce9a3f8bb63a1fdae24"
+    },
+    {
+      "file": "content/reviews/yesstyle-e-confiavel.json",
+      "sha256": "9b1151415acf7e4c1f9c1885153a3ddd7227429f8176e0ffba43fd5ce9e0d2a9"
+    },
+    {
+      "file": "content/reviews/yesstyle-est-il-fiable-et-sur.json",
+      "sha256": "d6bc8dad52ad8fb0c38fb5be03ab3ea2049c3750a4b2a2355a57377453f3b20e"
+    },
+    {
+      "file": "content/reviews/yesstyle-kbeauty-guide-ja.json",
+      "sha256": "64e75130e59a312bf89cd01cf90eb8a0a3a43195edd7149d17b94417c46c9de0"
+    },
+    {
+      "file": "content/reviews/yesstyle-kbeauty-guide-ko.json",
+      "sha256": "106e34c88b8911403b2eef44b33ab51caf2154b2b3d9238a043457a7acebf809"
+    },
+    {
+      "file": "content/reviews/yesstyle-kbeauty-guide-zh-hans.json",
+      "sha256": "6b5b4bc10c3a87ec8b7280962957ec81fe07269263e8cef276c5261297c5a92d"
+    },
+    {
+      "file": "content/reviews/yesstyle-kbeauty-guide-zh-hant.json",
+      "sha256": "e217bdccc51b9902d9d0582cad860acf28ea7bfa85f0b90ff2333941b59acce1"
+    },
+    {
+      "file": "content/reviews/yesstyle-reward-code-cecilia010-ja.json",
+      "sha256": "ca72673bd88ff207b881de283a78a405d2d43a2b23a03c5811297fe74ef00205"
+    },
+    {
+      "file": "content/reviews/yesstyle-reward-code-cecilia010-ko.json",
+      "sha256": "bacacf912dfda9be90125b447e057cee7e115d7f1e463e2934b5446db00df11b"
+    },
+    {
+      "file": "content/reviews/yesstyle-reward-code-cecilia010-zh-hans.json",
+      "sha256": "a3754e18733eeb37f3ed4fe3f933b2e99dda3645d01d782dd03037aee7066bef"
+    },
+    {
+      "file": "content/reviews/yesstyle-reward-code-cecilia010-zh-hant.json",
+      "sha256": "0c07b225d8cb9d21df065a280620b3b80d60220212df4217a8341c954a714a5b"
+    },
+    {
+      "file": "content/reviews/yesstyle-reward-code-coupon-cecilia010.json",
+      "sha256": "4bc71a2aa491bb8b37de07ac9ab53c8273578346be38a73582233030d5bf67eb"
+    },
+    {
+      "file": "content/reviews/yesstyle-reward-code-rabatt-cecilia010.json",
+      "sha256": "cee844a9df0be73ce49c3a2426bb3eb8dca33f2b0f5a885a75b6b9b28eb40300"
+    },
+    {
+      "file": "content/reviews/yesstyle-trust-guide-ja.json",
+      "sha256": "7ff0271028984a9467e93317884a0ca2a4e80b676bffd0c21aadb82cd4cc3992"
+    },
+    {
+      "file": "content/reviews/yesstyle-trust-guide-ko.json",
+      "sha256": "12e1b6c6886513ea7f6d46d5433ea8bbb3fca9f6739b62c49aa652edcd7268ca"
+    },
+    {
+      "file": "content/reviews/yesstyle-trust-guide-zh-hans.json",
+      "sha256": "f30b849f5abd6963b1844d9f84f901c4b97ee917d7848cc4734fd21997ed1f47"
+    },
+    {
+      "file": "content/reviews/yesstyle-trust-guide-zh-hant.json",
+      "sha256": "2c668db2ddbee86a34f1e9c8e613233dfe2cc3ba739e5bf59ed140b70c9ebbd0"
+    },
+    {
+      "file": "content/reviews/yesstyle-valid-coupon-guide-ja.json",
+      "sha256": "7cc820d011eb11d5d667478355ddcf8d2cf15652363af748905c66b82ebd49bd"
+    },
+    {
+      "file": "content/reviews/yesstyle-valid-coupon-guide-ko.json",
+      "sha256": "f3b0145195d557e97a2e901a7b67af030f5ab089ff0f5c0cca1eb29bf14cf5e2"
+    },
+    {
+      "file": "content/reviews/yesstyle-valid-coupon-guide-zh-hans.json",
+      "sha256": "c5f747b6d71da76b78b8eae82b58bc345049353b057af26334bc4b82d5025885"
+    },
+    {
+      "file": "content/reviews/yesstyle-valid-coupon-guide-zh-hant.json",
+      "sha256": "b6fee27e8bae9b892b13dee2a9dd5931149e7e95c83fb519bea9ac0fb4a9d8fb"
+    }
+  ]
+}

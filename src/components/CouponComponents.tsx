@@ -6,6 +6,7 @@ import Link from 'next/link';
 import { ArrowUpRight, Check, ChevronDown, Copy } from 'lucide-react';
 import { trackEvent } from '@/lib/analytics';
 import { getCouponBrandFromHref, getInternalHref, isCouponPageLink, isInternalLink } from '@/lib/internalLinks';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 type CopyButtonProps = {
   code: string;
@@ -195,7 +196,7 @@ export function CouponPillCard(props: CouponPillCardProps) {
       <div className="relative flex h-12 w-12 shrink-0 items-center justify-center overflow-hidden rounded-xl border border-black/8 bg-white text-sm font-black text-[#862f0e] shadow-inner">
         {brandLogo ? (
           <Image
-            src={brandLogo}
+            src={resolveMediaUrl(brandLogo)}
             alt={brandLogoAlt || `Marca ${brand}`}
             fill
             sizes="48px"

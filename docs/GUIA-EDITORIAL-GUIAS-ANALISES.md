@@ -163,5 +163,18 @@ artigo — nunca publica uma home incompleta.
 Publicar na Central sem deploy não move a home: ela só reflete a nova seleção depois do deploy,
 com até ~5 minutos de cache (`revalidate = 300` em `src/app/(pt)/page.js:19`).
 
+### Mídia editorial remota
+
+Para preparar imagens, vídeos e áudios, siga o [Guia de mídia editorial](GUIA-MIDIA-EDITORIAL.md):
+compressão antes do upload, URLs imutáveis, manifesto, verificação GET de integridade antes de
+referenciar e metadados de acessibilidade/licença. `media.emcasacomcecilia.com` continua sendo a
+mídia do coletor; não o use como biblioteca editorial.
+
+No fluxo atual, mantenha caminhos locais nos JSONs. O mapa de entrega aplica a
+URL CDN, sem alterar publicacao, datas ou chips. Midia nova: comprimir, inventariar
+incrementalmente, fazer upload/verificacao e acrescentar ao mapa com `--append`.
+Nao apagar originais nem substituir o mapa completo para adicionar uma imagem.
+Ver comandos e limites no guia de midia; audio ainda exige implementacao propria.
+
 Quem gera ou revisa conteúdo não escolhe nem edita os quatro cards manualmente. A única ação
 editorial é classificar `category` e datar `publishedAtISO` corretamente — o sistema faz o resto.

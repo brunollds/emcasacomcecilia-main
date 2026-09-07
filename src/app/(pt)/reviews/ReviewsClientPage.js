@@ -12,6 +12,7 @@ import {
 } from '@/lib/reviewDiscovery';
 import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 import { ViewTransitionLink } from '@/components/ViewTransitionLink';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const INITIAL_COUNT = 8;
 const LOAD_MORE_COUNT = 4;
@@ -175,7 +176,7 @@ export default function ReviewsClientPage() {
                     >
                       {review.image ? (
                         <Image
-                          src={review.image}
+                          src={resolveMediaUrl(review.image)}
                           alt={review.imageAlt || review.title}
                           fill
                           className={`transition-transform duration-700 ease-out group-hover:scale-110 ${

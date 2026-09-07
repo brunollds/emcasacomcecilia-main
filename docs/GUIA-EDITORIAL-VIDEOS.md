@@ -124,6 +124,18 @@ páginas de exibição válidas. O build deve produzir `sitemap.xml` com namespa
 relatório de **Indexação de vídeo** confirma que o Google reconheceu uma página
 de exibição. São verificações diferentes.
 
+Para qualquer vídeo hospedado na biblioteca editorial, aplique também o [Guia de mídia editorial](GUIA-MIDIA-EDITORIAL.md):
+transcodifique antes do upload, use chave imutável, verifique o GET por SHA-256 antes de trocar a
+referência e mantenha o arquivo local enquanto os gates passam. Isso não altera o host `media` do
+coletor nem declara a infraestrutura CDN concluída.
+
+No fluxo atual, preservar caminhos locais de `mp4`, `webm`, `poster` e as chaves
+de `localVideoMetadata`/`videoPages`. O resolvedor entrega URLs CDN ao player,
+VideoObject e sitemap. Adicionar MP4, WebM e poster explicitamente ao inventario
+e mapa, depois de cada um passar pela verificacao. Nao substituir o lazy loading
+por autoplay fixo nem declarar que o original local e fallback automatico de rede.
+Upload nao publica o artigo; deploy e IndexNow seguem suas etapas separadas.
+
 ## 9. Central e arquivos JSON
 
 Os metadados persistentes de vídeo ficam nos registros de código, não nos JSONs

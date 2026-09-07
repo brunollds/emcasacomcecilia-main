@@ -6,6 +6,7 @@ import Image from 'next/image';
 import { ChevronLeft, ChevronRight, ExternalLink, Tag } from 'lucide-react';
 import { brandLinks, offers, formatPrice, type Offer } from '@/lib/data';
 import { trackEvent } from '@/lib/analytics';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 type OffersProps = {
   items?: Offer[];
@@ -72,7 +73,7 @@ export function Offers({ items = offers }: OffersProps) {
                   <div className="relative mb-4 aspect-[5/6] overflow-hidden rounded-[2rem] bg-white shadow-soft transition-all duration-500 group-hover:shadow-large">
                     {offer.image ? (
                       <Image
-                        src={offer.image}
+                        src={resolveMediaUrl(offer.image)}
                         alt={offer.title}
                         fill
                         className="object-contain p-5 transition-transform duration-700 ease-out group-hover:scale-110"

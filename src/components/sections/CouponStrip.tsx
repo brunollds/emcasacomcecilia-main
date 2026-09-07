@@ -5,6 +5,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { Check, Copy, X } from 'lucide-react';
 import { getActiveCoupons } from '@/lib/couponsData';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const DISMISS_KEY = 'coupon_strip_dismissed_until';
 const DISMISS_HOURS = 24;
@@ -95,7 +96,7 @@ export function CouponStrip() {
           <span className="relative flex h-7 w-7 shrink-0 items-center justify-center overflow-hidden rounded-full border border-white/18 bg-white text-[10px] font-black uppercase text-[#0f1d3a] shadow-inner">
             {coupon.brandLogo ? (
               <Image
-                src={coupon.brandLogo}
+                src={resolveMediaUrl(coupon.brandLogo)}
                 alt={coupon.brandLogoAlt || `Marca ${coupon.brand}`}
                 fill
                 sizes="28px"

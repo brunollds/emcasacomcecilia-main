@@ -2,6 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { ArrowRight, PlayCircle } from 'lucide-react';
 import { videoPages } from '@/lib/video-pages';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 export const metadata = {
   title: 'Vídeos - Em Casa com Cecília',
@@ -42,7 +43,7 @@ export default function VideosPage() {
               <Link href={`/videos/${video.slug}`} className="group block">
                 <div className="relative aspect-video overflow-hidden bg-[#0f1d3a]">
                   <Image
-                    src={video.thumbnailUrl}
+                    src={resolveMediaUrl(video.thumbnailUrl)}
                     alt={`Miniatura: ${video.title}`}
                     fill
                     sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"

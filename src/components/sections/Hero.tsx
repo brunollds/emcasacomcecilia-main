@@ -3,6 +3,7 @@ import Image from 'next/image';
 import { ChefHat, ArrowRight, MessageCircleMore, Coffee, Leaf, UtensilsCrossed } from 'lucide-react';
 import { Button } from '@/components/ui/Button';
 import { brandLinks, socialMedias } from '@/lib/data';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 function formatHeroFollowerCount(value?: string) {
   if (!value) return '—';
@@ -163,7 +164,7 @@ export function Hero() {
               <div className="relative overflow-hidden rounded-[1.75rem] border border-white/10">
                 <div className="relative aspect-[4/4.7]">
                   <Image
-                    src="/images/photos/BRU-1.jpg"
+                    src={resolveMediaUrl('/images/photos/BRU-1.jpg')}
                     alt="Cecília segurando uma xícara de café"
                     fill
                     className="object-cover animate-ken-burns"

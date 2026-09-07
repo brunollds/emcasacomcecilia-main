@@ -4,6 +4,7 @@ import {
   REVIEW_CATEGORIES,
   type HomeReviewCard,
 } from '@/lib/reviewDiscovery';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 function getObjectPosition(position: HomeReviewCard['imagePosition']) {
   if (position === 'top') return '50% 10%';
@@ -37,7 +38,7 @@ export function FeaturedReviewGuides({ items }: { items: HomeReviewCard[] }) {
               >
                 {item.image ? (
                   <Image
-                    src={item.image}
+                    src={resolveMediaUrl(item.image)}
                     alt={item.imageAlt || item.title}
                     fill
                     className={`transition-transform duration-700 ease-out group-hover:scale-105 ${imageClassName}`}

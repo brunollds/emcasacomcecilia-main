@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { Calendar, Clock } from 'lucide-react';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 export interface ArticleBylineAuthor {
   name: string;
@@ -54,7 +55,7 @@ function AuthorAvatar({ author }: { author: ArticleBylineAuthor }) {
   if (author.avatar?.src) {
     return (
       <Image
-        src={author.avatar.src}
+        src={resolveMediaUrl(author.avatar.src)}
         alt={author.avatar.alt || author.name}
         width={40}
         height={40}

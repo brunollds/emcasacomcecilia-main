@@ -6,6 +6,7 @@ import { YESSTYLE_LOCALES } from '@/lib/i18n/clusters/yesstyle';
 import { REVIEW_HUB_LOCALES, getReviewHubPath } from '@/lib/review-hubs';
 import { getLatestYesStyleVerifiedAtISO } from '@/lib/yesstyleCoupons';
 import { isoDurationToSeconds, videoPages } from '@/lib/video-pages';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const BASE_URL = 'https://emcasacomcecilia.com';
 
@@ -53,11 +54,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     videos: [
       {
         title: video.title,
-        thumbnail_loc: new URL(video.thumbnailUrl, BASE_URL).toString(),
+        thumbnail_loc: new URL(resolveMediaUrl(video.thumbnailUrl), BASE_URL).toString(),
         description: video.description,
         ...(video.kind === 'youtube'
           ? { player_loc: video.embedUrl }
-          : { content_loc: new URL(video.contentUrl, BASE_URL).toString() }),
+          : { content_loc: new URL(resolveMediaUrl(video.contentUrl), BASE_URL).toString() }),
         ...(isoDurationToSeconds(video.duration)
           ? { duration: isoDurationToSeconds(video.duration) }
           : {}),

@@ -26,6 +26,7 @@ import RecipeInstructions from './RecipeInstructions';
 import { ServingScaleControl } from './ServingScaleControl';
 import { RecipeJumpNav } from './RecipeJumpNav';
 import { RecipeMetaChips } from './RecipeMetaChips';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 export interface RecipeNotebookTemplateProps {
   recipe: Recipe;
@@ -216,7 +217,7 @@ export function RecipeNotebookTemplate({
               style={{ viewTransitionName: `recipe-hero-${sanitizeViewTransitionName(recipe.slug)}` }}
             >
               <Image
-                src={recipeImage}
+                src={resolveMediaUrl(recipeImage)}
                 alt={recipeImageAlt}
                 fill
                 className="object-cover"

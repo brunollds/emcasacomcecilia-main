@@ -7,6 +7,7 @@ import { getRecipeImage, getRecipeImageAlt, recipes } from '@/lib/data';
 import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 import { ViewTransitionLink } from '@/components/ViewTransitionLink';
 import { RecipeCategoryLinks } from '@/components/sections/RecipeCategoryLinks';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 type PopularRecipesProps = {
   popularSlugs?: string[];
@@ -35,7 +36,7 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
           style={{ viewTransitionName: `recipe-hero-${sanitizeViewTransitionName(recipe.slug)}` }}
         >
           <Image
-            src={getRecipeImage(recipe)}
+            src={resolveMediaUrl(getRecipeImage(recipe))}
             alt={getRecipeImageAlt(recipe)}
             fill
             className="object-cover transition-transform duration-700 ease-out group-hover:scale-110"

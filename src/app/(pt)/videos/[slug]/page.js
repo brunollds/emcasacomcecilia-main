@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import { ArrowLeft, ArrowRight } from 'lucide-react';
 import { buildLocalVideoObject, buildYoutubeVideoObject } from '@/lib/video-schema';
 import { getVideoPageBySlug, videoPages } from '@/lib/video-pages';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 export const dynamicParams = false;
 
@@ -10,6 +11,8 @@ export async function generateMetadata({ params }) {
   const { slug } = await params;
   const video = getVideoPageBySlug(slug);
   if (!video) return { title: 'Vídeo não encontrado' };
+  const thumbnailUrl = video.thumbnailUrl ? resolveMediaUrl(video.thumbnailUrl) : undefined;
+  const contentUrl = video.contentUrl ? resolveMediaUrl(video.contentUrl) : undefined;
 
   return {
     title: `${video.title} - Em Casa com Cecília`,
@@ -22,14 +25,14 @@ export async function generateMetadata({ params }) {
       description: video.description,
       url: video.canonicalUrl,
       type: 'video.other',
-      images: [{ url: video.thumbnailUrl, alt: video.title }],
-      videos: video.kind === 'local' ? [{ url: video.contentUrl }] : undefined,
+      images: thumbnailUrl ? [{ url: thumbnailUrl, alt: video.title }] : undefined,
+      videos: video.kind === 'local' && contentUrl ? [{ url: contentUrl }] : undefined,
     },
     twitter: {
       card: 'summary_large_image',
       title: video.title,
       description: video.description,
-      images: [video.thumbnailUrl],
+      images: thumbnailUrl ? [thumbnailUrl] : undefined,
     },
   };
 }
@@ -38,6 +41,8 @@ export default async function VideoPage({ params }) {
   const { slug } = await params;
   const video = getVideoPageBySlug(slug);
   if (!video) notFound();
+  const thumbnailUrl = video.thumbnailUrl ? resolveMediaUrl(video.thumbnailUrl) : undefined;
+  const contentUrl = video.contentUrl ? resolveMediaUrl(video.contentUrl) : undefined;
 
   const videoObject = video.kind === 'youtube'
     ? buildYoutubeVideoObject({ url: video.youtubeUrl })
@@ -105,10 +110,10 @@ export default async function VideoPage({ params }) {
               <video
                 controls
                 preload="metadata"
-                poster={video.thumbnailUrl}
+                poster={thumbnailUrl}
                 className="h-full w-full object-contain"
               >
-                <source src={video.contentUrl} type="video/mp4" />
+                {contentUrl && <source src={contentUrl} type="video/mp4" />}
                 Seu navegador não suporta a reprodução deste vídeo.
               </video>
             )}

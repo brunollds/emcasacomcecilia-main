@@ -24,6 +24,7 @@ import {
   getRecipePrimaryCategory,
   recipes,
 } from '@/lib/data';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const INITIAL_VISIBLE_RECIPES = 16;
 const LOAD_MORE_RECIPES = 12;
@@ -299,7 +300,7 @@ function RecipeResultsGrid({ items }) {
                 style={{ viewTransitionName: `recipe-hero-${sanitizeViewTransitionName(receita.slug)}` }}
               >
                 <Image
-                  src={getRecipeImage(receita)}
+                  src={resolveMediaUrl(getRecipeImage(receita))}
                   alt={getRecipeImageAlt(receita)}
                   fill
                   className="object-cover transition-transform duration-700 ease-out group-hover:scale-110"

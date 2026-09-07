@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation';
 import { getRecipeImage, recipes } from '@/lib/data';
 import { buildRecipeTemplateProps } from '@/lib/recipe-template-props';
 import { RecipeNotebookTemplate } from '@/components/recipe';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 // SEO Dinâmico
 export async function generateMetadata({ params }) {
@@ -10,6 +11,7 @@ export async function generateMetadata({ params }) {
   if (!recipe) return { title: 'Receita não encontrada' };
 
   const recipeImage = getRecipeImage(recipe);
+  const deliveredRecipeImage = resolveMediaUrl(recipeImage);
   const baseUrl = 'https://emcasacomcecilia.com';
   const url = `${baseUrl}/receitas/${recipe.slug}`;
 
@@ -26,7 +28,7 @@ export async function generateMetadata({ params }) {
       type: 'article',
       images: [
         {
-          url: recipeImage,
+          url: deliveredRecipeImage,
           width: 1200,
           height: 630,
           alt: recipe.title,
@@ -37,7 +39,7 @@ export async function generateMetadata({ params }) {
       card: 'summary_large_image',
       title: recipe.title,
       description: recipe.description,
-      images: [recipeImage],
+      images: [deliveredRecipeImage],
     },
   };
 }

@@ -11,6 +11,10 @@ import {
   Utensils,
 } from 'lucide-react';
 import { brandLinks } from '@/lib/data';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+
+const SITE_BASE_URL = 'https://emcasacomcecilia.com';
+const aboutImageUrl = (path) => new URL(resolveMediaUrl(path), SITE_BASE_URL).toString();
 
 export const metadata = {
   title: 'Sobre a Cecília - Em Casa com Cecília',
@@ -27,7 +31,7 @@ export const metadata = {
     type: 'profile',
     images: [
       {
-        url: '/images/about/cecilia/cecilia-6.jpg',
+        url: aboutImageUrl('/images/about/cecilia/cecilia-6.jpg'),
         alt: 'Cecília Mauad, do Em Casa com Cecília',
       },
     ],
@@ -91,7 +95,7 @@ const personJsonLd = {
   '@type': 'Person',
   name: 'Cecília Mauad',
   url: 'https://emcasacomcecilia.com/sobre',
-  image: 'https://emcasacomcecilia.com/images/photos/BRU-1.jpg',
+  image: aboutImageUrl('/images/photos/BRU-1.jpg'),
   jobTitle: 'Criadora de Conteúdo Culinário',
   description: 'Jornalista, mãe e criadora do Em Casa com Cecília. Especializada em receitas práticas e reviews sinceros de produtos.',
   sameAs: [
@@ -147,7 +151,7 @@ export default function SobrePage() {
           <div className="relative mx-auto w-full max-w-[460px]">
             <div className="relative aspect-[4/5] overflow-hidden rounded-[2rem] border border-white/10 shadow-large">
               <Image
-                src="/images/photos/BRU-1.jpg"
+                src={resolveMediaUrl('/images/photos/BRU-1.jpg')}
                 alt="Cecília Mauad, criadora do Em Casa com Cecília"
                 fill
                 priority
@@ -171,7 +175,7 @@ export default function SobrePage() {
           <div className="relative mx-auto w-full max-w-[500px] lg:max-w-none">
             <div className="relative aspect-[3/4] overflow-hidden rounded-[2rem] shadow-large">
               <Image
-                src="/images/about/cecilia/cecilia-6.jpg"
+                src={resolveMediaUrl('/images/about/cecilia/cecilia-6.jpg')}
                 alt="Cecília Mauad na cozinha"
                 fill
                 className="object-cover"
@@ -283,7 +287,7 @@ export default function SobrePage() {
           <div className="order-1 relative mx-auto w-full max-w-[500px] lg:order-2 lg:max-w-none">
             <div className="relative aspect-[3/4] overflow-hidden rounded-[2rem] shadow-large">
               <Image
-                src="/images/about/cecilia/cecilia-71.jpg"
+                src={resolveMediaUrl('/images/about/cecilia/cecilia-71.jpg')}
                 alt="Cecília Mauad"
                 fill
                 className="object-cover"
@@ -300,7 +304,7 @@ export default function SobrePage() {
         {/* Foto de fundo */}
         <div className="absolute inset-0">
           <Image
-            src="/images/about/cecilia/cecilia-88.jpg"
+            src={resolveMediaUrl('/images/about/cecilia/cecilia-88.jpg')}
             alt=""
             fill
             className="object-cover object-[center_30%]"
@@ -453,7 +457,7 @@ export default function SobrePage() {
               >
                 <div className="relative h-full w-full">
                   <Image
-                    src={partner.src}
+                    src={resolveMediaUrl(partner.src)}
                     alt={partner.name}
                     fill
                     className="object-contain mix-blend-multiply"

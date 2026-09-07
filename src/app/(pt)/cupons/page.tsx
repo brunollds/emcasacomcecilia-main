@@ -3,6 +3,12 @@ import Link from 'next/link';
 import { Ticket } from 'lucide-react';
 import { CouponPillCard, FAQAccordion } from '@/components/CouponComponents';
 import { getActiveCoupons, getCouponStats } from '@/lib/couponsData';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+
+const COUPONS_LOGO_URL = new URL(
+  resolveMediaUrl('/images/logos/logo-em-casa-com-cecilia.png'),
+  'https://emcasacomcecilia.com'
+).toString();
 
 export const metadata: Metadata = {
   title: 'Cupons da Cecília — Códigos de desconto ativos',
@@ -18,7 +24,7 @@ export const metadata: Metadata = {
     type: 'website',
     images: [
       {
-        url: '/images/logos/logo-em-casa-com-cecilia.png',
+        url: COUPONS_LOGO_URL,
         alt: 'Logo Em Casa com Cecília',
       },
     ],

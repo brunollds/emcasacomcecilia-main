@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import { ArrowRight } from 'lucide-react';
 import { TrackedHomeLink } from '@/components/TrackedHomeLink';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 function getObjectPosition(position: HomeEditorialPickArticle['imagePosition']) {
   if (position === 'top') return '50% 10%';
@@ -60,7 +61,7 @@ export function HomeEditorialPick({ item }: HomeEditorialPickProps) {
                     } absolute inset-0`}
                   >
                     <Image
-                      src={item.article.image}
+                      src={resolveMediaUrl(item.article.image)}
                       alt={item.article.imageAlt || item.article.title}
                       width={960}
                       height={540}

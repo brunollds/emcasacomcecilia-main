@@ -18,7 +18,39 @@ builda no runner (Linux, node 20, mesmo SO/glibc do host), monta o standalone e 
 `scp`+`ssh` na porta 65002 (conexão direta ao host, **fora do Cloudflare**), com swap atômico,
 purge de CDN, health-check rico e auto-rollback. Provado no apex em 16/07 (runs 29471822605/29519794282).
 
-O fluxo antigo (build gerenciado da Hostinger via MCP) fica documentado no fim como **fallback**.
+O mecanismo gerenciado da Hostinger e o fluxo operacional atual. As instrucoes SSH
+historicas abaixo nao sao alternativa autorizada nem rollback automatico.
+
+### Biblioteca de mídia editorial
+
+O [Guia de mídia editorial](GUIA-MIDIA-EDITORIAL.md) é complementar a este runbook: o upload de
+objetos em `cdn.emcasacomcecilia.com` ocorre separado do deploy do site e exige manifesto, URLs
+imutáveis e GET de integridade antes de qualquer referência. Não alterar o deploy Node, não usar
+`export-ignore` massivo e não tratar a allowlist como prova de CDN concluída; `media` permanece a
+superfície de mídia existente do VPS coletor.
+
+**Candidato Fase 5 de 07/09/2026:** 304 referencias de imagens/videos usam mapa
+exato na entrega; os originais continuam no Git e no disco, mas a allowlist
+explicita de `export-ignore` os retira do source archive. Bruno autorizou essa
+excecao antes do backup nativo; Claude nao dispensou o gate. Recuperacao local
+dos 304 originais pelo Git foi testada. Backup/restore nativo permanece pendente.
+Isso nao autoriza apagar originais, nem equivale a deploy concluido.
+Para novas midias, seguir a rotina incremental do guia: inventario com preservacao
+de provas, upload FTPS, verificacao HTTPS e append ao mapa antes dos gates do site.
+Antes de preparar um release com essas referencias, executar tambem:
+
+```powershell
+npx tsx scripts/media/test-delivery-integration.ts
+```
+
+Depois do build, conferir `node scripts/media/test-review-delivery-html.mjs` e
+o artigo afetado no navegador. Depois do deploy, verificar midias pela pagina
+publica, sitemap e llms antes do IndexNow. Para a allowlist de 304 arquivos,
+rodar `node scripts/media/phase5-export.mjs --check` antes do preparo. Nao ampliar
+exclusoes por diretorio nem apagar originais. Novas entradas exigem verificacao
+e atualizacao explicita do contrato de exportacao; upload/append nao as exclui
+automaticamente. Ver `plans/2026-09-07-cdn-phase5-authorization.md`. Nao alterar
+`deploy:prepare`, limites 47/49 MB ou o mecanismo gerenciado nesta etapa.
 
 ## ⚠️ Regras absolutas
 

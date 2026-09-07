@@ -5,6 +5,7 @@ import { createPortal } from 'react-dom';
 import { useState, useCallback, useEffect, useRef } from 'react';
 import { Maximize2, X, ChevronLeft, ChevronRight } from 'lucide-react';
 import { useReviewMediaBlur } from '@/components/review/useReviewMediaBlur';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 function useInlineCarouselScroll() {
   const trackRef = useRef(null);
@@ -34,7 +35,7 @@ function normalizeImages(section, reviewTitle) {
     const rawAspectRatio = typeof section.image === 'string' ? section.imageAspectRatio : section.image?.aspectRatio;
     const aspectRatio = Number.isFinite(rawAspectRatio) && rawAspectRatio > 0 ? rawAspectRatio : undefined;
     images.push({
-      src: singleSrc,
+      src: resolveMediaUrl(singleSrc),
       alt: (typeof section.image === 'string' ? section.imageAlt : section.image?.alt) || section.heading || reviewTitle,
       caption,
       aspectRatio,
@@ -45,7 +46,7 @@ function normalizeImages(section, reviewTitle) {
   if (section.images && section.images.length > 0) {
     for (const item of section.images) {
       images.push({
-        src: item.src,
+        src: resolveMediaUrl(item.src),
         alt: item.alt || section.heading || reviewTitle,
         caption: item.caption,
         aspectRatio: Number.isFinite(item.aspectRatio) && item.aspectRatio > 0 ? item.aspectRatio : undefined,
@@ -145,7 +146,7 @@ function InlineImageThumbnail({ image, index, onOpen, sizes, normalizeCarousel =
           style={image.aspectRatio ? { aspectRatio: image.aspectRatio } : undefined}
         >
           <Image
-            src={image.src}
+            src={resolveMediaUrl(image.src)}
             alt={image.alt}
             fill
             className={normalizeCarousel ? 'object-contain p-1.5' : isPortrait ? 'object-contain p-1.5' : isSquare ? 'object-cover' : (isContain || isWide || isPanoramic) ? 'object-contain' : 'object-cover'}
@@ -263,7 +264,7 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev }) {
       >
         <div className="relative h-full w-full">
           <Image
-            src={image.src}
+            src={resolveMediaUrl(image.src)}
             alt={image.alt}
             fill
             className="object-contain"

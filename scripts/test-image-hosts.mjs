@@ -3,6 +3,11 @@ import { isAllowedImageHost } from '../src/lib/imageHosts.mjs';
 
 const cases = [
   ['https://dicas.emcasacomcecilia.com/oferta.jpg', true],
+  ['https://cdn.emcasacomcecilia.com/v1/image/abc123/capa.webp', true],
+  ['https://cdn.emcasacomcecilia.com/', true],
+  ['http://cdn.emcasacomcecilia.com/capa.webp', false],
+  ['https://media.emcasacomcecilia.com/capa.webp', true],
+  ['http://media.emcasacomcecilia.com/capa.webp', false],
   ['https://img.kwcdn.com/oferta.jpg', true],
   ['https://a.b.kwcdn.com/oferta.jpg', true],
   ['https://kwcdn.com/oferta.jpg', false],

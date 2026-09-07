@@ -24,6 +24,7 @@ import { getInternationalReviewHub } from '@/lib/review-hubs';
 import { GuideTimeline } from './GuideTimeline';
 import { PullQuote } from './PullQuote';
 import { ReviewHighlightChips } from './ReviewHighlightChips';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 export interface ReviewNotebookTemplateProps {
   review: Review;
@@ -747,7 +748,7 @@ export function ReviewNotebookTemplate({
                   >
                     {item.image ? (
                       <Image
-                        src={item.image}
+                        src={resolveMediaUrl(item.image)}
                         alt={item.imageAlt || item.title}
                         fill
                         className={`transition-transform duration-700 group-hover:scale-105 ${

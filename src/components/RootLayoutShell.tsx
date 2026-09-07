@@ -7,6 +7,13 @@ import Analytics from '@/components/Analytics';
 import { getShellCopy } from '@/lib/i18n/shellDictionary';
 import { LOCALES, findLocaleByHtmlLang, type Locale } from '@/lib/i18n/locales';
 import { SEARCH_ACTION_URL_TEMPLATE } from '@/lib/siteSearch.mjs';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+
+const SITE_BASE_URL = 'https://emcasacomcecilia.com';
+const SITE_LOGO_URL = new URL(
+  resolveMediaUrl('/images/logos/logo-em-casa-com-cecilia.png'),
+  SITE_BASE_URL
+).toString();
 
 const montserrat = Montserrat({
   variable: '--font-montserrat',
@@ -43,7 +50,7 @@ export function getLocaleMetadata(localeStr: string) {
   const config = LOCALES[loc];
 
   return {
-    metadataBase: new URL('https://emcasacomcecilia.com'),
+    metadataBase: new URL(SITE_BASE_URL),
     title: 'Em Casa com Cecília',
     description: copy.twitterDescription,
     authors: [{ name: 'Cecília Mauad' }],
@@ -64,9 +71,9 @@ export function getLocaleMetadata(localeStr: string) {
       follow: true,
     },
     icons: {
-      icon: '/images/logos/logo-em-casa-com-cecilia.png',
-      apple: '/images/logos/logo-em-casa-com-cecilia.png',
-      shortcut: '/images/logos/logo-em-casa-com-cecilia.png',
+      icon: SITE_LOGO_URL,
+      apple: SITE_LOGO_URL,
+      shortcut: SITE_LOGO_URL,
     },
   };
 }
@@ -103,7 +110,7 @@ export function RootLayoutShell({
     '@type': 'Organization',
     name: 'Em Casa com Cecília',
     url: 'https://emcasacomcecilia.com',
-    logo: 'https://emcasacomcecilia.com/images/logos/logo-em-casa-com-cecilia.png',
+    logo: SITE_LOGO_URL,
     sameAs: [
       'https://instagram.com/emcasacomcecilia',
       'https://youtube.com/@emcasacomcecilia',

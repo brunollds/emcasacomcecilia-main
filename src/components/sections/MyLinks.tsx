@@ -4,6 +4,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { ArrowUpRight, Bell, BookOpen, Handshake, Tag } from 'lucide-react';
 import { brandLinks } from '@/lib/data';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const links = [
   {
@@ -67,7 +68,7 @@ export function MyLinks() {
           >
             {heroLink.image ? (
               <Image
-                src={heroLink.image}
+                src={resolveMediaUrl(heroLink.image)}
                 alt="Cecília debruçada sobre a caixa de entrega da DAMIE"
                 fill
                 className="object-cover transition-transform duration-700 ease-out group-hover:scale-105"
@@ -129,7 +130,7 @@ export function MyLinks() {
                 {link.image && (
                   <>
                     <Image
-                      src={link.image}
+                      src={resolveMediaUrl(link.image)}
                       alt={link.title}
                       fill
                       className="object-cover opacity-70 transition-transform duration-700 ease-out group-hover:scale-105"

@@ -35,7 +35,7 @@ for (const local of imageSamples) {
   const direct = await request(local);
   assert.equal(direct.status, 200);
   assert.equal(createHash('sha256').update(Buffer.from(await direct.arrayBuffer())).digest('hex'),
-    createHash('sha256').update(await readFile(`public${local}`)).digest('hex'));
+    new URL(mappings[local]).pathname.split('/')[3]);
   const optimized = await request(`/_next/image?url=${encodeURIComponent(local)}&w=750&q=75`);
   assert.equal(optimized.status, 200, `legacy optimizer: ${local}`);
   assert.match(optimized.headers.get('content-type') || '', /^image\//);
@@ -49,6 +49,12 @@ const range = await request(video, { headers: { Range: 'bytes=0-15' } });
 assert.equal(range.status, 307);
 assert.equal(range.headers.get('location'), mappings[video]);
 await range.body?.cancel();
+const partial = await fetch(mappings[video], {
+  headers: { Range: 'bytes=0-15' }, signal: AbortSignal.timeout(15000),
+});
+assert.equal(partial.status, 206);
+assert.match(partial.headers.get('content-range') || '', /^bytes 0-15\/\d+$/);
+assert.equal((await partial.arrayBuffer()).byteLength, 16);
 
 const untouched = '/file.svg';
 assert.equal(mappings[untouched], undefined);

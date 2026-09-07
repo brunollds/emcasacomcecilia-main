@@ -5,6 +5,7 @@ import { ReviewNotebookTemplate } from '@/components/review';
 import { buildReviewTemplateProps } from '@/lib/review-template-props';
 import { LOCALES, type Locale } from '@/lib/i18n/locales';
 import { getReviewCanonicalPathname, getReviewDefaultTranslationPathname, getReviewTranslationPathnames, resolveReviewLocale } from '@/lib/content/review-i18n';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 function getReviewList() {
   return process.env.NODE_ENV === 'development' ? reviews : publishedReviews;
@@ -47,7 +48,7 @@ export async function generateReviewMetadataBySlug(slug: string, locale?: Locale
     ? `${seoTitle} - Em Casa com Cecília`
     : seoTitle;
   const socialImage = review.image
-    ? [{ url: review.image, alt: review.imageAlt || review.title }]
+    ? [{ url: new URL(resolveMediaUrl(review.image), 'https://emcasacomcecilia.com').toString(), alt: review.imageAlt || review.title }]
     : undefined;
 
   return {
@@ -72,7 +73,9 @@ export async function generateReviewMetadataBySlug(slug: string, locale?: Locale
       card: 'summary_large_image',
       title: seoTitle,
       description: seoDescription,
-      images: review.image ? [review.image] : undefined,
+      images: review.image
+        ? [new URL(resolveMediaUrl(review.image), 'https://emcasacomcecilia.com').toString()]
+        : undefined,
     },
   };
 }

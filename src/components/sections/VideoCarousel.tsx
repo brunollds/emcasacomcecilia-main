@@ -4,6 +4,7 @@ import { useRef } from 'react';
 import Link from 'next/link';
 import { ChevronLeft, ChevronRight, Play } from 'lucide-react';
 import type { SocialHighlight } from '@/lib/data';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 type VideoCarouselProps = {
   items: SocialHighlight[];
@@ -65,7 +66,7 @@ export function VideoCarousel({ items }: VideoCarouselProps) {
                   style={
                     item.thumbnailUrl
                       ? {
-                          backgroundImage: `linear-gradient(180deg, rgba(255,255,255,0.08) 0%, rgba(15,29,58,0.18) 35%, rgba(15,29,58,0.72) 100%), url('${item.thumbnailUrl}')${item.fallbackThumbnailUrl ? `, url('${item.fallbackThumbnailUrl}')` : ''}`,
+                          backgroundImage: `linear-gradient(180deg, rgba(255,255,255,0.08) 0%, rgba(15,29,58,0.18) 35%, rgba(15,29,58,0.72) 100%), url('${resolveMediaUrl(item.thumbnailUrl)}')${item.fallbackThumbnailUrl ? `, url('${resolveMediaUrl(item.fallbackThumbnailUrl)}')` : ''}`,
                           backgroundPosition: 'center center',
                           backgroundSize: `cover${item.fallbackThumbnailUrl ? ', cover' : ''}`,
                           backgroundRepeat: 'no-repeat',

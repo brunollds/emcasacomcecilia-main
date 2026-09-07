@@ -4,9 +4,11 @@ import Image from 'next/image';
 import { createPortal } from 'react-dom';
 import { useState, useRef, useCallback, useEffect } from 'react';
 import { ChevronLeft, ChevronRight, Maximize2, Play, ImageIcon, X } from 'lucide-react';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 export interface ReviewGalleryImage {
-  image: string;
+  image?: string;
+  url?: string;
   alt?: string;
   caption?: string;
   label?: string;
@@ -22,6 +24,17 @@ export interface ReviewGallerySectionProps {
   images: ReviewGalleryImage[];
   videos?: ReviewGalleryVideo[];
   title?: string;
+}
+
+export function normalizeReviewGalleryImages(
+  images: ReviewGalleryImage[] | null | undefined
+): Array<ReviewGalleryImage & { image: string }> {
+  if (!Array.isArray(images)) return [];
+
+  return images.flatMap((item) => {
+    const image = typeof item.image === 'string' && item.image ? item.image : item.url;
+    return typeof image === 'string' && image ? [{ ...item, image }] : [];
+  });
 }
 
 function extractYouTubeId(url: string): string | null {
@@ -165,7 +178,7 @@ function PhotoLightbox({
       >
         <div className="relative h-full w-full">
           <Image
-            src={current.image}
+            src={resolveMediaUrl(current.image)}
             alt={current.alt || current.caption || 'Imagem da galeria'}
             fill
             className="object-contain"
@@ -217,7 +230,7 @@ function PhotoCarousel({
           >
             <div className="relative aspect-[4/3]">
               <Image
-                src={img.image}
+                src={resolveMediaUrl(img.image)}
                 alt={img.alt || img.caption || title || 'Foto da galeria'}
                 fill
                 className="object-cover transition-transform duration-700 ease-out group-hover:scale-105"
@@ -313,7 +326,7 @@ function VideoCarousel({ videos }: { videos: ReviewGalleryVideo[] }) {
               <div className="relative aspect-[9/16] overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-[#0f1419] transition-all hover:border-[#ff6b35]/30 hover:shadow-md">
                 {thumbnailUrl ? (
                   <Image
-                    src={thumbnailUrl}
+                    src={resolveMediaUrl(thumbnailUrl)}
                     alt={title}
                     fill
                     className="object-cover transition-transform duration-700 ease-out group-hover:scale-105"
@@ -393,13 +406,14 @@ function VideoCarousel({ videos }: { videos: ReviewGalleryVideo[] }) {
 }
 
 export function ReviewGallerySection({ images, videos = [], title }: ReviewGallerySectionProps): React.ReactElement | null {
-  const hasPhotos = images.length > 0;
+  const normalizedImages = normalizeReviewGalleryImages(images);
+  const hasPhotos = normalizedImages.length > 0;
   const hasVideos = videos.length > 0;
 
   const [activeTab, setActiveTab] = useState<'photos' | 'videos'>(hasPhotos ? 'photos' : 'videos');
   const [lightboxIndex, setLightboxIndex] = useState<number | null>(null);
 
-  const imageCount = images.length;
+  const imageCount = normalizedImages.length;
   const openLightbox = useCallback((index: number) => setLightboxIndex(index), []);
   const closeLightbox = useCallback(() => setLightboxIndex(null), []);
   const previousImage = useCallback(
@@ -456,7 +470,7 @@ export function ReviewGallerySection({ images, videos = [], title }: ReviewGalle
 
         <div className="min-h-[320px]">
           {activeTab === 'photos' && hasPhotos && (
-            <PhotoCarousel images={images} title={title} onOpen={openLightbox} />
+            <PhotoCarousel images={normalizedImages} title={title} onOpen={openLightbox} />
           )}
           {activeTab === 'videos' && hasVideos && (
             <VideoCarousel videos={videos} />
@@ -466,7 +480,7 @@ export function ReviewGallerySection({ images, videos = [], title }: ReviewGalle
 
       {lightboxIndex !== null && (
         <PhotoLightbox
-          images={images}
+          images={normalizedImages}
           active={lightboxIndex}
           onClose={closeLightbox}
           onPrevious={previousImage}

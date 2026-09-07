@@ -1,5 +1,7 @@
-import { existsSync } from 'node:fs';
+import { readFileSync } from 'node:fs';
+import { resolveMediaUrl } from '../src/lib/resolve-media.mjs';
 import { join } from 'node:path';
+import { validateMediaAssetAvailability } from './media/video-asset-proof.mjs';
 import { recipes, reviews } from '@/lib/data';
 import sitemap from '@/app/sitemap';
 import { buildRecipeTemplateProps } from '@/lib/recipe-template-props';
@@ -48,6 +50,13 @@ type LocalVideoMetadata = {
 // registrada. Remover o slug daqui quando a receita ganhar vídeo próprio ou
 // perder o campo youtubeUrl.
 const KNOWN_INVALID_YOUTUBE_URLS = new Set(['bolo-de-cenoura-com-cobertura-de-chocolate']);
+
+const mediaManifest = JSON.parse(
+  readFileSync(join(process.cwd(), 'data', 'media-manifest.json'), 'utf8')
+);
+const mediaDeliveryMap = JSON.parse(
+  readFileSync(join(process.cwd(), 'src', 'lib', 'generated', 'media-delivery-map.json'), 'utf8')
+);
 
 const errors: string[] = [];
 let validatedPages = 0;
@@ -113,9 +122,14 @@ function validatePublicAsset(kind: ContentKind, slug: string, assetUrl: string |
     return;
   }
 
-  const filePath = join(process.cwd(), 'public', assetUrl.replace(/^\/+/, ''));
-  if (!existsSync(filePath)) {
-    report(kind, slug, `asset local não encontrado: ${assetUrl}`);
+  const proof = validateMediaAssetAvailability({
+    assetUrl,
+    repoRoot: process.cwd(),
+    manifest: mediaManifest,
+    map: mediaDeliveryMap,
+  });
+  if (!proof.ok) {
+    report(kind, slug, proof.reason);
   }
 }
 
@@ -135,7 +149,7 @@ function validateLocalVideoObject(
   metadata: LocalVideoMetadata,
   video: VideoSchema | undefined
 ): void {
-  const expectedContentUrl = new URL(sourceUrl, 'https://emcasacomcecilia.com').toString();
+  const expectedContentUrl = new URL(resolveMediaUrl(sourceUrl), 'https://emcasacomcecilia.com').toString();
 
   if (!video || video['@type'] !== 'VideoObject') {
     report('review', slug, 'MP4 editorial principal não gerou VideoObject');
@@ -329,7 +343,7 @@ for (const videoPage of videoPages) {
     if (
       sitemapVideo.title !== videoPage.title ||
       sitemapVideo.description !== videoPage.description ||
-      sitemapVideo.thumbnail_loc !== new URL(videoPage.thumbnailUrl, 'https://emcasacomcecilia.com').toString()
+      sitemapVideo.thumbnail_loc !== new URL(resolveMediaUrl(videoPage.thumbnailUrl), 'https://emcasacomcecilia.com').toString()
     ) {
       report('página de vídeo', videoPage.slug, 'metadados do sitemap divergem do registro editorial');
     }
@@ -338,7 +352,7 @@ for (const videoPage of videoPages) {
     }
     if (
       videoPage.kind === 'local' &&
-      sitemapVideo.content_loc !== new URL(videoPage.contentUrl, 'https://emcasacomcecilia.com').toString()
+      sitemapVideo.content_loc !== new URL(resolveMediaUrl(videoPage.contentUrl), 'https://emcasacomcecilia.com').toString()
     ) {
       report('página de vídeo', videoPage.slug, 'content_loc do sitemap não corresponde ao MP4');
     }

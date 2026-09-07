@@ -8,6 +8,7 @@ export const IMAGE_REMOTE_PATTERNS = [
   { protocol: 'https', hostname: 'dicas.emcasacomcecilia.com' },
   { protocol: 'https', hostname: 'central.emcasacomcecilia.com' },
   { protocol: 'https', hostname: 'media.emcasacomcecilia.com' },
+  { protocol: 'https', hostname: 'cdn.emcasacomcecilia.com' },
   { protocol: 'https', hostname: 'http2.mlstatic.com' },
   { protocol: 'https', hostname: 'm.media-amazon.com' },
   { protocol: 'https', hostname: 'images-na.ssl-images-amazon.com' },

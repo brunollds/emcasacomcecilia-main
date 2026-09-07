@@ -2,6 +2,7 @@
 
 import { Pause, Play } from 'lucide-react';
 import { useEffect, useRef, useState, useSyncExternalStore } from 'react';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 export interface ReviewLoopVideoProps {
   mp4: string;
@@ -36,6 +37,9 @@ export function ReviewLoopVideo({
   className = '',
   preload = 'metadata',
 }: ReviewLoopVideoProps): React.ReactElement {
+  const deliveredMp4 = resolveMediaUrl(mp4);
+  const deliveredWebm = webm ? resolveMediaUrl(webm) : undefined;
+  const deliveredPoster = poster ? resolveMediaUrl(poster) : undefined;
   const videoRef = useRef<HTMLVideoElement>(null);
   const [isPlaying, setIsPlaying] = useState(false);
   const [shouldLoadMedia, setShouldLoadMedia] = useState(false);
@@ -130,15 +134,15 @@ export function ReviewLoopVideo({
         muted
         loop
         playsInline
-        poster={poster}
+        poster={deliveredPoster}
         preload={shouldLoadMedia ? preload : 'none'}
         aria-label={ariaLabel}
         onPlay={() => setIsPlaying(true)}
         onPause={() => setIsPlaying(false)}
         className={className}
       >
-        {shouldLoadMedia && webm && <source src={webm} type="video/webm" />}
-        {shouldLoadMedia && <source src={mp4} type="video/mp4" />}
+        {shouldLoadMedia && deliveredWebm && <source src={deliveredWebm} type="video/webm" />}
+        {shouldLoadMedia && <source src={deliveredMp4} type="video/mp4" />}
         Seu navegador não suporta vídeos.
       </video>
 

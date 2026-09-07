@@ -4,6 +4,7 @@ import type { Review } from '@/lib/content/types';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { type ReviewHubLocale, getReviewHubCopy } from '@/lib/review-hubs';
 import { LOCALES } from '@/lib/i18n/locales';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 type LocalizedReviewHubProps = {
   locale: ReviewHubLocale;
@@ -46,7 +47,7 @@ export function LocalizedReviewHub({ locale, reviews }: LocalizedReviewHubProps)
               <div className="relative aspect-[4/3] overflow-hidden bg-[#0f1d3a]">
                 {review.image ? (
                   <Image
-                    src={review.image}
+                    src={resolveMediaUrl(review.image)}
                     alt={review.imageAlt || review.title}
                     fill
                     sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"

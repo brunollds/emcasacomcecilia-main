@@ -4,6 +4,7 @@ import {
   getYoutubeThumbnailUrl,
   getYoutubeWatchUrl,
 } from '@/lib/video-metadata';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 function getAbsoluteUrl(url, baseUrl) {
   if (!url) return null;
@@ -84,8 +85,8 @@ export function buildLocalVideoObject({
   duration,
   baseUrl = 'https://emcasacomcecilia.com',
 }) {
-  const resolvedContentUrl = getAbsoluteUrl(contentUrl, baseUrl);
-  const resolvedThumbnailUrl = getAbsoluteUrl(thumbnailUrl, baseUrl);
+  const resolvedContentUrl = getAbsoluteUrl(contentUrl ? resolveMediaUrl(contentUrl) : contentUrl, baseUrl);
+  const resolvedThumbnailUrl = getAbsoluteUrl(thumbnailUrl ? resolveMediaUrl(thumbnailUrl) : thumbnailUrl, baseUrl);
 
   if (
     !title ||

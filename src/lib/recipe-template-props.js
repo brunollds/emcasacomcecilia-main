@@ -6,6 +6,7 @@ import { buildSchemaAuthors, minutesToIsoDuration, normalizeRecipe } from '@/lib
 import { getYoutubeEmbedUrl } from '@/lib/video-metadata';
 import { buildYoutubeVideoObject } from '@/lib/video-schema';
 import { getVideoPageForYoutubeUrl, getVideoPageUrl } from '@/lib/video-pages';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 // Função auxiliar para converter tempo legível (ex: '15 min', '1h 20 min') para ISO 8601 (ex: 'PT15M', 'PT1H20M')
 function convertToISO8601(timeStr) {
@@ -123,7 +124,7 @@ export function buildRecipeTemplateProps(recipe) {
     '@context': 'https://schema.org/',
     '@type': 'Recipe',
     name: recipe.title,
-    image: [`${baseUrl}${recipeImage}`],
+    image: [new URL(resolveMediaUrl(recipeImage), baseUrl).toString()],
     mainEntityOfPage: {
       '@type': 'WebPage',
       '@id': `${baseUrl}/receitas/${recipe.slug}`,

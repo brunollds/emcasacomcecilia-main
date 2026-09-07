@@ -16,6 +16,7 @@ import {
   getVideoPageForYoutubeUrl,
   getVideoPageUrl,
 } from '@/lib/video-pages';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 export { getYoutubeEmbedUrl };
 
@@ -75,6 +76,10 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
   const copy = getShellCopy(localeKey);
 
   const baseUrl = 'https://emcasacomcecilia.com';
+  const publisherLogoUrl = new URL(
+    resolveMediaUrl('/images/logos/logo-em-casa-com-cecilia.png'),
+    baseUrl
+  ).toString();
   const reviewPathname = getReviewCanonicalPathname(review);
   const reviewUrl = `${baseUrl}${reviewPathname}`;
   const youtubeVideoJsonLd = buildYoutubeVideoObject({
@@ -132,10 +137,10 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
       url: baseUrl,
       logo: {
         '@type': 'ImageObject',
-        url: `${baseUrl}/images/logos/logo-em-casa-com-cecilia.png`,
+        url: publisherLogoUrl,
       },
     },
-    image: review.image ? `https://emcasacomcecilia.com${review.image}` : undefined,
+    image: review.image ? new URL(resolveMediaUrl(review.image), baseUrl).toString() : undefined,
     ...(videoJsonLd && { video: videoJsonLd }),
     ...(isProductReview && typeof canonicalRating === 'number'
       ? {
@@ -156,7 +161,7 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
                   },
                 }
               : {}),
-            image: review.image ? `https://emcasacomcecilia.com${review.image}` : undefined,
+            image: review.image ? new URL(resolveMediaUrl(review.image), baseUrl).toString() : undefined,
           },
         }
       : {}),
@@ -212,7 +217,7 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
     viewModel,
     youtubeEmbedUrl,
     videoPageUrl,
-    reviewImage: review.image,
+    reviewImage: review.image ? resolveMediaUrl(review.image) : review.image,
     reviewImageAlt: review.imageAlt || review.title,
     breadcrumbJsonLd,
     jsonLd,

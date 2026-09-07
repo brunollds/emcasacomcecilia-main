@@ -1,0 +1,1081 @@
+{
+  "batch": "recipes-and-site",
+  "preserved": [
+    "/images/reviews/airfryer-10-fatos-surpreendentes.jpg",
+    "/images/reviews/airfryer-uma-breve-historia.jpg",
+    "/images/reviews/conhecendo-mais-rabanada.avif",
+    "/images/reviews/cupom-cecilia12/1-escolha-produto.png",
+    "/images/reviews/cupom-cecilia12/2-adicione-carrinho-2.png",
+    "/images/reviews/cupom-cecilia12/2-adicione-carrinho.png",
+    "/images/reviews/cupom-cecilia12/3-aplique-cupom.png",
+    "/images/reviews/cupom-cecilia12/4-confirme-desconto.png",
+    "/images/reviews/cupom-damie-cecilia-poltrona-reclinavel.webp",
+    "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
+    "/images/reviews/cupons/k-beauty-expo-korea.webp",
+    "/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
+    "/images/reviews/cupons/k-beauty-loja-varejo.webp",
+    "/images/reviews/cupons/nescafe-dolce-gusto-galeria-1.webp",
+    "/images/reviews/cupons/nescafe-dolce-gusto-galeria-2.webp",
+    "/images/reviews/cupons/nescafe-dolce-gusto-galeria-3.webp",
+    "/images/reviews/cupons/nescafe-dolce-gusto-galeria-4.webp",
+    "/images/reviews/cupons/nescafe-dolce-gusto-galeria-5.webp",
+    "/images/reviews/cupons/nescafe-dolce-gusto-hero.webp",
+    "/images/reviews/cupons/nescafe-dolce-gusto-passo-1.webp",
+    "/images/reviews/cupons/nescafe-dolce-gusto-passo-2.webp",
+    "/images/reviews/cupons/nescafe-dolce-gusto-passo-3.webp",
+    "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
+    "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
+    "/images/reviews/cupons/yesstyle-carrinho-checkout.webp",
+    "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
+    "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
+    "/images/reviews/cupons/yesstyle-home-promocoes.webp",
+    "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
+    "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
+    "/images/reviews/cupons/yesstyle-logo-purple-hero.webp",
+    "/images/reviews/cupons/yesstyle-logo-purple.webp",
+    "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
+    "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
+    "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
+    "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
+    "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
+    "/images/reviews/damie-reclame-aqui-hero.webp",
+    "/images/reviews/damie-reclame-aqui-local.webp",
+    "/images/reviews/damie-reclame-aqui-reputacao.webp",
+    "/images/reviews/damie/poltrona-aurora-areia-ambientada.webp",
+    "/images/reviews/damie/poltrona-aurora-castanho-ambientada.webp",
+    "/images/reviews/damie/poltrona-aurora-castanho-frontal.webp",
+    "/images/reviews/damie/poltrona-aurora-castanho-lateral-deitada.webp",
+    "/images/reviews/damie/poltrona-aurora-castanho-pufe-perspectiva.webp",
+    "/images/reviews/damie/poltrona-damie-2-0-almofada-regulavel.webp",
+    "/images/reviews/damie/poltrona-damie-2-0-apoio-pes.webp",
+    "/images/reviews/damie/poltrona-damie-2-0-bolso-lateral.webp",
+    "/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp",
+    "/images/reviews/damie/poltrona-damie-2-0-estrutura.webp",
+    "/images/reviews/damie/poltrona-levita-cecilia-selfie.jpg",
+    "/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-1.webp",
+    "/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-2.webp",
+    "/images/reviews/dolcegusto/adaptador-neo-start-combo-maquina.webp",
+    "/images/reviews/dolcegusto/adaptador-neo-start-encaixe.webp",
+    "/images/reviews/dolcegusto/adaptador-neo-start-hero-oficial.webp",
+    "/images/reviews/dolcegusto/adaptador-neo-start-passo-a-passo.webp",
+    "/images/reviews/dolcegusto/adaptador-neo-start-produto.webp",
+    "/images/reviews/dolcegusto/assinatura-dolce-gusto-beneficios-25off.webp",
+    "/images/reviews/dolcegusto/assinatura-dolce-gusto-freq-caixas.webp",
+    "/images/reviews/dolcegusto/assinatura-dolce-gusto-painel-oficial.webp",
+    "/images/reviews/dolcegusto/assinatura-dolce-gusto-passo-a-passo.webp",
+    "/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp",
+    "/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp",
+    "/images/reviews/dolcegusto/clube-dolce-gusto-como-funciona-hero-v2.webp",
+    "/images/reviews/dolcegusto/clube-dolce-gusto-resgate-pontos.webp",
+    "/images/reviews/dolcegusto/clube-dolce-gusto-tutorial-cadastro.webp",
+    "/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp",
+    "/images/reviews/dolcegusto/dolce-gusto-e-confiavel-hero.webp",
+    "/images/reviews/dolcegusto/dolce-gusto-genio-arno-produto.webp",
+    "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-hero-v2.webp",
+    "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-qual-escolher-hero.webp",
+    "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-vs-3-coracoes-hero.jpg",
+    "/images/reviews/dolcegusto/genio-s-basic-lateral.webp",
+    "/images/reviews/dolcegusto/genio-s-plus-lateral.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-cecilia-1.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-cecilia-2.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-cecilia-capsula.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-cecilia-hero.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-cecilia-servindo.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-dimensoes.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-lateral.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-loop-1-poster.webp",
+    "/images/reviews/dolcegusto/genio-s-touch-loop-2-poster.webp",
+    "/images/reviews/dolcegusto/genio-s-trio-oficial-cores.webp",
+    "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-1.webp",
+    "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-2.webp",
+    "/images/reviews/dolcegusto/nespresso-pixie-produto.webp",
+    "/images/reviews/dolcegusto/promocao-55-caixas-art-1.webp",
+    "/images/reviews/dolcegusto/promocao-55-caixas-art-2.webp",
+    "/images/reviews/dolcegusto/promocao-55-caixas-art-3.webp",
+    "/images/reviews/dolcegusto/promocao-55-caixas-art-4.webp",
+    "/images/reviews/dolcegusto/promocao-55-caixas-art-5.webp",
+    "/images/reviews/dolcegusto/promocao-55-caixas-hero.webp",
+    "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-cafes-lattes.webp",
+    "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-chocolates-chas.webp",
+    "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-hero.webp",
+    "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-1.webp",
+    "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-2.webp",
+    "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-3.webp",
+    "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-4.webp",
+    "/images/reviews/eames-lounge-chair-anuncio-herman-miller-vintage.webp",
+    "/images/reviews/eames-lounge-chair-janela-vintage.jpg",
+    "/images/reviews/eames-lounge-chair-leitura-vintage.png",
+    "/images/reviews/eames-lounge-chair-produto-oficial.webp",
+    "/images/reviews/fred-van-der-weij-airfryer.avif",
+    "/images/reviews/iwannasleep/1-escolha-produto.webp",
+    "/images/reviews/iwannasleep/2-adicione-carrinho.webp",
+    "/images/reviews/iwannasleep/3-aplique-cupom.webp",
+    "/images/reviews/iwannasleep/4-confirme-desconto.webp",
+    "/images/reviews/iwannasleep/aliv-head-gel-iws-cobertura-360.webp",
+    "/images/reviews/iwannasleep/aliv-head-gel-iws-descanso.webp",
+    "/images/reviews/iwannasleep/aliv-head-gel-iws-frio-quente.webp",
+    "/images/reviews/iwannasleep/aliv-head-gel-iws-hero.jpg",
+    "/images/reviews/iwannasleep/aliv-head-gel-iws-uso-quente.webp",
+    "/images/reviews/iwannasleep/cobertor-igloo-galeria-1.webp",
+    "/images/reviews/iwannasleep/cobertor-igloo-galeria-2.webp",
+    "/images/reviews/iwannasleep/cobertor-igloo-hero.webp",
+    "/images/reviews/iwannasleep/confiabilidade-hero.webp",
+    "/images/reviews/iwannasleep/cupom-ceciemcasa-hero.webp",
+    "/images/reviews/iwannasleep/i-wanna-sleep-site-1-poster.jpg",
+    "/images/reviews/iwannasleep/i-wanna-sleep-site-1.mp4",
+    "/images/reviews/iwannasleep/i-wanna-sleep-site-1.webm",
+    "/images/reviews/iwannasleep/iws-catalogo-travesseiros.webp",
+    "/images/reviews/iwannasleep/iws-categoria-cervicais-ergonomicos.webp",
+    "/images/reviews/iwannasleep/iws-categoria-latex.webp",
+    "/images/reviews/iwannasleep/iws-categoria-memory-foam.webp",
+    "/images/reviews/iwannasleep/iws-categoria-pluma-natural.webp",
+    "/images/reviews/iwannasleep/iws-categoria-plumas-magnum-skin.webp",
+    "/images/reviews/iwannasleep/iws-categoria-regulagem-altura-snow.webp",
+    "/images/reviews/iwannasleep/iws-categoria-viagem.webp",
+    "/images/reviews/iwannasleep/iws-global-lifestyle-sleep-brand.webp",
+    "/images/reviews/iwannasleep/iws-loja-fisica.webp",
+    "/images/reviews/iwannasleep/iws-loja02-fachada.webp",
+    "/images/reviews/iwannasleep/iws-loja04-fachada.webp",
+    "/images/reviews/iwannasleep/iws-missao-dormir-melhor.webp",
+    "/images/reviews/iwannasleep/melatonina-gummy-iws-caracteristicas.png",
+    "/images/reviews/iwannasleep/melatonina-gummy-iws-como-usar.webp",
+    "/images/reviews/iwannasleep/melatonina-gummy-iws-goma.webp",
+    "/images/reviews/iwannasleep/melatonina-gummy-iws-hero.webp",
+    "/images/reviews/iwannasleep/melatonina-gummy-iws-maracuja.webp",
+    "/images/reviews/iwannasleep/melatonina-liquida-hero.webp",
+    "/images/reviews/iwannasleep/melatonina-liquida-maracuja.webp",
+    "/images/reviews/iwannasleep/melatonina-liquida-splash.webp",
+    "/images/reviews/iwannasleep/travesseiro-airgelly-2-antialergico-lavavel.webp",
+    "/images/reviews/iwannasleep/travesseiro-airgelly-render-3d.webp",
+    "/images/reviews/iwannasleep/travesseiro-cervical-coluna-relax-oficial.webp",
+    "/images/reviews/iwannasleep/travesseiro-original-latex-detalhe.webp",
+    "/images/reviews/iwannasleep/travesseiro-snow-hero.webp",
+    "/images/reviews/magalu/magalu-cupom-aplicado.webp",
+    "/images/reviews/magalu/magalu-hero.webp",
+    "/images/reviews/magalu/magalu-loja-navegador.webp",
+    "/images/reviews/manteiga-batida-aerada.jpg",
+    "/images/reviews/nutren/nestle-nutre-hero.webp",
+    "/images/reviews/nutren/nestle-nutre-identidade-institucional.webp",
+    "/images/reviews/nutren/nestle-nutre-linha-senior.webp",
+    "/images/reviews/nutren/nestle-nutre-vitrine-oficial.webp",
+    "/images/reviews/nutren/nutren-creatina-300g-composicao.webp",
+    "/images/reviews/nutren/nutren-creatina-300g-frente.avif",
+    "/images/reviews/nutren/nutren-creatina-300g-rotulo.avif",
+    "/images/reviews/nutren/nutren-creatina-preco-2026-08-27.png",
+    "/images/reviews/nutren/nutren-just-protein-banner.avif",
+    "/images/reviews/nutren/nutren-just-protein-beneficios.png",
+    "/images/reviews/nutren/nutren-just-protein-lata-280g.avif",
+    "/images/reviews/nutren/nutren-just-protein-modo-preparo.avif",
+    "/images/reviews/nutren/nutren-senior-hero.webp",
+    "/images/reviews/nutren/nutren-senior-linha-banner.avif",
+    "/images/reviews/nutren/nutren-senior-linha-hero.webp",
+    "/images/reviews/nutren/nutren-senior-zero-lactose-beneficios.webp",
+    "/images/reviews/nutren/passo-1-lista-produtos.webp",
+    "/images/reviews/nutren/passo-2-carrinho.webp",
+    "/images/reviews/nutren/passo-3-digite-ceci.webp",
+    "/images/reviews/nutren/passo-4-cupom-aplicado.webp",
+    "/images/reviews/poltrona-amamentacao-rotina-hero.webp",
+    "/images/reviews/poltrona-levita-cecilia-flores.webp",
+    "/images/reviews/poltrona-levita-cecilia-lateral.webp",
+    "/images/reviews/poltrona-levita-cecilia-sala.webp",
+    "/images/reviews/poltrona-levita-destaques.webp",
+    "/images/reviews/poltrona-levita-especificacoes.webp",
+    "/images/reviews/poltrona-levita.webp",
+    "/images/reviews/poltrona-moon-cecilia-design.webp",
+    "/images/reviews/poltrona-moon-cecilia-hero.webp",
+    "/images/reviews/poltrona-moon-cecilia-materiais.webp",
+    "/images/reviews/poltrona-moon-cecilia-quem.webp",
+    "/images/reviews/poltrona-moon-destaques.webp",
+    "/images/reviews/poltrona-moon-especificacoes.webp",
+    "/images/reviews/poltrona-moon-fundo-casa.webp",
+    "/images/reviews/poltrona-moon.webp",
+    "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada.webp",
+    "/images/reviews/poltrona-reclinavel-cecilia-botao-reclinacao.webp",
+    "/images/reviews/poltrona-reclinavel-cecilia-ian.webp",
+    "/images/reviews/poltrona-reclinavel-cecilia.webp",
+    "/images/reviews/samsung/amelia-chegou-embalada.webp",
+    "/images/reviews/samsung/amelia-no-lugar.webp",
+    "/images/reviews/samsung/cecilia-amelia-instalada.webp",
+    "/images/reviews/samsung/lava-e-seca-loop-poster.webp",
+    "/images/reviews/samsung/minha-primeira-lava-e-seca-capa.webp",
+    "/images/reviews/samsung/samsung-wd13fg-dimensoes-oficial.webp",
+    "/images/reviews/samsung/samsung-wd13fg-frontal-oficial.webp",
+    "/images/reviews/samsung/samsung-wd13fg-perspectiva-oficial.webp",
+    "/images/reviews/sofa-damie-modular-hero.webp",
+    "/images/reviews/sofa-damie-modular-puff.webp",
+    "/images/reviews/sofa-damie-modular-vale-a-pena-sq.webp",
+    "/images/reviews/sofa-damie-na-caixa-cecilia-conceito.webp",
+    "/images/reviews/sofa-damie-na-caixa-cecilia-conforto.webp",
+    "/images/reviews/sofa-damie-na-caixa-cecilia-hero.webp",
+    "/images/reviews/sofa-damie-na-caixa-cecilia-montagem.webp",
+    "/images/reviews/sofa-damie-na-caixa.jpg",
+    "/images/reviews/sofa-modular-5-lugares-em-l.webp",
+    "/images/reviews/sofa-modular-6-lugares-ilha.webp",
+    "/images/reviews/sofa-modular-itens.webp",
+    "/images/reviews/sofa-modular-ou-retratil-hero.webp",
+    "/images/reviews/sofa-na-caixa/bbc-news-sofa-na-caixa-manchete.png",
+    "/images/reviews/sofa-na-caixa/procon-sp-damie-pesquisa.webp",
+    "/images/reviews/sofa-na-caixa/procon-sp-pesquisa-evite-sites.webp",
+    "/images/reviews/sofa-na-caixa/reclame-aqui-damie-painel.webp",
+    "/images/reviews/sofa-na-caixa/reclame-aqui-sofa-na-caixa-painel.webp",
+    "/images/reviews/sofa-na-caixa/sofa-modular-entrega-editorial-neutra.png",
+    "/videos/reviews/damie/poltrona-reclinavel-damie-2-0-hero-loop.mp4",
+    "/videos/reviews/damie/poltrona-reclinavel-damie-2-0-loop.mp4",
+    "/videos/reviews/dolcegusto/genio-s-touch-loop-1.mp4",
+    "/videos/reviews/dolcegusto/genio-s-touch-loop-2.mp4",
+    "/videos/reviews/dolcegusto/mini-me-2-0-loop.mp4",
+    "/videos/reviews/dolcegusto/tabela-manual-dolce-gusto-loop.mp4",
+    "/videos/reviews/samsung/lava-e-seca-loop.mp4",
+    "/videos/reviews/samsung/lava-e-seca-loop.webm"
+  ],
+  "site_images": [
+    "/images/about/cecilia/cecilia-6.jpg",
+    "/images/about/cecilia/cecilia-71.jpg",
+    "/images/about/cecilia/cecilia-88.jpg",
+    "/images/about/partners/a3-home-design.jpg",
+    "/images/about/partners/abc-da-construcao.png",
+    "/images/about/partners/belle-house.png",
+    "/images/about/partners/carolina-baby.webp",
+    "/images/about/partners/damie.jpg",
+    "/images/about/partners/dolce-gusto.avif",
+    "/images/about/partners/eos.jpg",
+    "/images/about/partners/i-wanna-sleep.avif",
+    "/images/about/partners/itatiaia.webp",
+    "/images/about/partners/kopenhagen.jpg",
+    "/images/about/partners/laticinios-ubari.jpg",
+    "/images/about/partners/magalu.webp",
+    "/images/about/partners/mollycook.jpg",
+    "/images/about/partners/nutren.png",
+    "/images/about/partners/okoshi.webp",
+    "/images/about/partners/polishop.jpg",
+    "/images/about/partners/promobit.jpg",
+    "/images/about/partners/santos-simoes.webp",
+    "/images/about/partners/shein.webp",
+    "/images/about/partners/shopee.png",
+    "/images/about/partners/tempero-do-anjo.webp",
+    "/images/about/partners/wap.png",
+    "/images/logos/logo-em-casa-com-cecilia.png",
+    "/images/logos/yesstyle.jpg",
+    "/images/photos/BRU-1.jpg",
+    "/images/recipes/air-fryer/batatas-rusticas-crocantes-na-air-fryer.jpg",
+    "/images/recipes/air-fryer/bolo-de-caneca-na-air-fryer.jpg",
+    "/images/recipes/air-fryer/chips-de-batata-doce-na-air-fryer.jpg",
+    "/images/recipes/bolos/bolo-de-banana-caramelizada-com-nozes.jpg",
+    "/images/recipes/bolos/bolo-de-cenoura-com-cobertura-de-chocolate.jpg",
+    "/images/recipes/bolos/bolo-de-chocolate-com-recheio-de-brigadeiro.jpg",
+    "/images/recipes/bolos/bolo-de-fuba-com-erva-doce.jpg",
+    "/images/recipes/bolos/bolo-de-milho-cremoso-com-queijo-minas.jpg",
+    "/images/recipes/carnes/carne.jpg",
+    "/images/recipes/carnes/feijoada.jpg",
+    "/images/recipes/carnes/tacos-de-carne-mexicanos-com-guacamole.jpg",
+    "/images/recipes/doces/brigadeiro-tradicional-brasileiro.jpg",
+    "/images/recipes/frango/frango.jpg",
+    "/images/recipes/massas/macarrao-carbonara-cremoso.jpg",
+    "/images/recipes/massas/macarrao-com-molho-pesto-de-manjericao.jpg",
+    "/images/recipes/massas/pizza-de-calabresa-caseira.jpg",
+    "/images/recipes/massas/talharim-caseiro-com-molho-de-tomate-fresco.jpg",
+    "/images/recipes/paes/pao-naan-indiano-caseiro.jpg",
+    "/images/recipes/paes/pao.jpg",
+    "/images/recipes/pascoa/cheesecake-de-frutas-vermelhas.jpg",
+    "/images/recipes/peixes/moqueca-capixaba-tradicional.jpg",
+    "/images/recipes/peixes/peixe.jpg",
+    "/images/recipes/peixes/salmao-assado-com-batatas-e-vegetais.jpg",
+    "/images/recipes/peixes/temaki-de-salmao-com-cream-cheese.jpg",
+    "/images/recipes/pizzas/pizza.jpg",
+    "/images/recipes/placeholder/air-fryer-placeholder.jpg",
+    "/images/recipes/placeholder/bebidas-placeholder.jpg",
+    "/images/recipes/placeholder/bolos-placeholder.jpg",
+    "/images/recipes/placeholder/doces-placeholder.jpg",
+    "/images/recipes/placeholder/massas-placeholder.jpg",
+    "/images/recipes/placeholder/pascoa-placeholder.jpg",
+    "/images/recipes/placeholder/salgados-placeholder.jpg",
+    "/images/recipes/placeholder/saudaveis-placeholder.jpg",
+    "/images/recipes/pudins/pudim-de-leite-condensado-tradicional.jpg",
+    "/images/recipes/pudins/pudim.jpg",
+    "/images/recipes/saladas/salada.jpg",
+    "/images/recipes/salgados/bolinha-de-queijo-com-massa-leve.jpg",
+    "/images/recipes/salgados/coxinha-de-frango-com-massa-de-batata.jpg",
+    "/images/recipes/salgados/coxinha-de-frango-cremosa.jpg",
+    "/images/recipes/saudaveis/pote-da-felicidade-proteico.jpg",
+    "/images/recipes/sobremesas/mousse.jpg",
+    "/images/recipes/sobremesas/pave-raffaello.jpg",
+    "/images/recipes/sobremesas/rabanada-com-doce-de-leite.avif",
+    "/images/recipes/sobremesas/torta-de-chocolate-com-morango.jpg",
+    "/images/recipes/sobremesas/torta-de-limao-com-merengue.jpg",
+    "/images/recipes/sopas/sopa.jpg",
+    "/images/recipes/tortas/torta.jpg",
+    "/images/reviews/poltronas-reclinaveis-damie.webp",
+    "/images/universe/damie-hero-cecilia.webp",
+    "/images/universe/dicas-hero-promos.webp"
+  ],
+  "source_recipes": [
+    {
+      "file": "content/receitas/_manifest.json",
+      "sha256": "e3e9d2a70bbac61b6ca649b4a3c28cf69741a9b6504ca8c80bbec7c018adf2a4"
+    },
+    {
+      "file": "content/receitas/arroz-branco-soltinho.json",
+      "sha256": "330853c2af58f8e6548bf7a38a5c30947fb2a837266a877d0a1950cb8a04a9c7"
+    },
+    {
+      "file": "content/receitas/arroz-doce-com-doce-de-leite.json",
+      "sha256": "d95c47153e526b2b6d22cc71ef1b2375a64484bd3551bb658172f00fe1ff6fe9"
+    },
+    {
+      "file": "content/receitas/arroz-integral-com-legumes.json",
+      "sha256": "e94bca04df89ffe97b3e92ed2d834e22b0308b38c7fd12902d06bece1be6b71a"
+    },
+    {
+      "file": "content/receitas/batata-assada-com-alecrim-e-alho.json",
+      "sha256": "91c2f9986be134f3fbe835a5de1cae752585525bb4e598840c8b6cdb0c8f6f88"
+    },
+    {
+      "file": "content/receitas/batata-frita-crocante.json",
+      "sha256": "589fb9bb3f4e1d9b99bafcac4ac3a0f736be466f629007e974ebdbd76a577a5e"
+    },
+    {
+      "file": "content/receitas/batatas-rusticas-crocantes-na-air-fryer.json",
+      "sha256": "39d7ce15dfae4cea89052979b4846afe667a858e94eda86f5b335ed53be159b9"
+    },
+    {
+      "file": "content/receitas/beijinho-de-coco-tradicional.json",
+      "sha256": "411cda87750c2b8fe03df98933d8717c1cb2ed669ce858db4e77b80304a0bd68"
+    },
+    {
+      "file": "content/receitas/bife-de-hamburguer-assado-no-forno.json",
+      "sha256": "d8edfd8f493934e2afab43249e578259203b98d735b6a412ee20545f5ed3f945"
+    },
+    {
+      "file": "content/receitas/biscoitos-amanteigados-decorados.json",
+      "sha256": "065109911b2c1227422575c8c7120fa2e8765357fd0e91605b2337d592aaffe0"
+    },
+    {
+      "file": "content/receitas/biscoitos-de-coelhinho.json",
+      "sha256": "b35daf944b4f15f100baea4e8fe256c91efa5455fe0dec4c782b8feb34eca765"
+    },
+    {
+      "file": "content/receitas/biscoitos-de-queijo-com-ervas-finas.json",
+      "sha256": "70d32f376d41c1569134517a055acee7b39cb9cc7acf24cc260c9b05d3dd9e2a"
+    },
+    {
+      "file": "content/receitas/biscoitos-integrais-com-aveia-e-mel.json",
+      "sha256": "1fcc7a63047f7fa5148736c93dfc3d22b51e7275bd14ff599845f7f0e29262d1"
+    },
+    {
+      "file": "content/receitas/bolinha-de-queijo-com-massa-leve.json",
+      "sha256": "a0b7151c3cd9a0bf1c0e7afefbbbd3af032fe26b095c25b2ff0a8a8c2e507f9c"
+    },
+    {
+      "file": "content/receitas/bolinho-de-arroz-recheado-com-queijo.json",
+      "sha256": "9f2f2884cff929ba5c8e202abec5839321e790929934fd817dab223d5a2cb3ef"
+    },
+    {
+      "file": "content/receitas/bolinho-de-bacalhau-com-batata-e-tempero-verde.json",
+      "sha256": "be1dcc75d4fe2bd71df277dfa022b20157c53f83f6a8e00338b9226505f57fd0"
+    },
+    {
+      "file": "content/receitas/bolo-de-aipim-com-coco-ralado.json",
+      "sha256": "17a51ace87bb6c386df46d229c0d25190b76cde6ca226ced5dd997c889ca61ba"
+    },
+    {
+      "file": "content/receitas/bolo-de-banana-caramelizada-com-nozes.json",
+      "sha256": "f5c3e202f5c1240acef316a64bb5e91be2ee95ab650c5466ab3f01668f77a07d"
+    },
+    {
+      "file": "content/receitas/bolo-de-caneca-na-air-fryer.json",
+      "sha256": "d7a4fe39e7355808181fc56b5705a747fcdc9668b66628052c38faa497a28dc0"
+    },
+    {
+      "file": "content/receitas/bolo-de-cenoura-com-cobertura-de-chocolate-vegana.json",
+      "sha256": "8771a64480a41967423b42f45aed71d8f95b98881405d4ffe022dbf19347d073"
+    },
+    {
+      "file": "content/receitas/bolo-de-cenoura-com-cobertura-de-chocolate.json",
+      "sha256": "3fd9f19d09db279d643de23b7d49cf15a8e62cc1455be754d5d9803fa05775f5"
+    },
+    {
+      "file": "content/receitas/bolo-de-chocolate-com-recheio-de-brigadeiro.json",
+      "sha256": "69b6bba4c5ad69f4d38c513b0dd31445a967af05dc4de329de34d6b32073889a"
+    },
+    {
+      "file": "content/receitas/bolo-de-chocolate-de-caneca-no-micro-ondas.json",
+      "sha256": "d22c7c9079f6f7268c5d4dd7df9d4d869063e77149261ff396c448dd4e1da974"
+    },
+    {
+      "file": "content/receitas/bolo-de-coco-gelado-com-cobertura-de-coco.json",
+      "sha256": "63eb6161f199a3e3388cd89897dc9881c6906fe97fdd0f7303a9508c029e43c2"
+    },
+    {
+      "file": "content/receitas/bolo-de-fuba-com-erva-doce.json",
+      "sha256": "21e14db99ec3265e955296c2f72c0a35ea2c2c67b9c219919bae413c1ff1fb75"
+    },
+    {
+      "file": "content/receitas/bolo-de-laranja-com-calda-de-laranja.json",
+      "sha256": "f701491d479fdf4f709754f396262abae094ee7d6c432d437391e3d687d7373e"
+    },
+    {
+      "file": "content/receitas/bolo-de-limao-com-glace-de-limao.json",
+      "sha256": "68a4b8fdc57ead8ddd66122ea098d729bc200abaa0ef7450133037d42a1568ee"
+    },
+    {
+      "file": "content/receitas/bolo-de-milho-cremoso-com-queijo-minas.json",
+      "sha256": "7540bbdc41adca616fdd080f7dad8a2949bcc47f0aa60cf74ddd4f244c7831dd"
+    },
+    {
+      "file": "content/receitas/bolo-de-pascoa-com-decoracao-de-jardim.json",
+      "sha256": "f4e85b21026dc18a1eb41870a0953c895f586b67dcd69d1f137fcb875ecc20dd"
+    },
+    {
+      "file": "content/receitas/bolo-gelado-de-coco-com-recheio-de-doce-de-leite.json",
+      "sha256": "f75836e8ad859fb8ad92cc52935f370d031ee297c01069d76471f278b295e2f3"
+    },
+    {
+      "file": "content/receitas/bolo-naked-cake-de-pascoa.json",
+      "sha256": "ec5ca69705775a8fa616255a1ef4d061fc988697579289b84f8c89c76fd7d61d"
+    },
+    {
+      "file": "content/receitas/brigadeiro-branco-com-granulado-colorido.json",
+      "sha256": "7195022acf270e8dd60627c29e54e1f3be7833db74d4a224b97cbdb88565691d"
+    },
+    {
+      "file": "content/receitas/brigadeiro-de-leite-ninho-com-nutella.json",
+      "sha256": "6b711f1250ec9224430513816f878476269efeb42610f7393b4a878f1a4845dd"
+    },
+    {
+      "file": "content/receitas/brigadeiro-gourmet-de-pistache.json",
+      "sha256": "9ab373208f3170afe42296a1e37de3fa53a4a86a8b7ff8f2c64f2811eb894537"
+    },
+    {
+      "file": "content/receitas/brigadeiro-tradicional-brasileiro.json",
+      "sha256": "250ddbe308faddaddf0cdfdddb52ad961ae825fde23b1f72aefc6773e717533d"
+    },
+    {
+      "file": "content/receitas/brownie-de-colher-na-casquinha.json",
+      "sha256": "1065686d229c49e062acec81c2b2ebbf6adcffb455b7f3ad970df41b344ef4ff"
+    },
+    {
+      "file": "content/receitas/brownie-de-ovolmatine.json",
+      "sha256": "7e6148abac1e7a25307e95e229231459f5b1e9fcaa05a02fb314bd83f8ffda52"
+    },
+    {
+      "file": "content/receitas/brownies-com-nozes-e-ganache-de-caramelo-salgado.json",
+      "sha256": "ebfc153a1f29a6c1ea97c94ca622d83a5002e90f585c9c9d8db8a6c323329959"
+    },
+    {
+      "file": "content/receitas/burritos-de-frango-com-feijao-e-queijo.json",
+      "sha256": "a6703eb266fbd1095905b73b6678b6d4c6b36aa17c1e2f27507998e8a0c65de7"
+    },
+    {
+      "file": "content/receitas/cafe-com-ovolmatine.json",
+      "sha256": "a5c178f345511efbb15ffcb76524d234bdeff45ef9d831ea59aedb0888aebd9e"
+    },
+    {
+      "file": "content/receitas/cajuzinho-nordestino.json",
+      "sha256": "49edb4f4ff638e2dbcad2083ddff76028f195e2aec15e5075b532731e4437f9c"
+    },
+    {
+      "file": "content/receitas/caldo-verde-com-bacon-crocante.json",
+      "sha256": "3309fcf30623a3a4fd21da3d1dd589749739b74a0c514950d1bb37dc5f0c92ff"
+    },
+    {
+      "file": "content/receitas/cenourinhas-de-marshmallow.json",
+      "sha256": "1cdf499d759bea056027f99c6cdf50d5cddf56f17b0aaaba0b7e5d2dff5458f7"
+    },
+    {
+      "file": "content/receitas/cheesecake-de-caju-sem-lactose.json",
+      "sha256": "ce7fe630a3fecc85aef3db6d32b17b68fc684d15ec63f9573697c04bb06e882f"
+    },
+    {
+      "file": "content/receitas/cheesecake-de-frutas-vermelhas.json",
+      "sha256": "e05d5e27c42a0394b853ff142a6d2caca9dbe32fefd65272316e7a1b9d6f7d4f"
+    },
+    {
+      "file": "content/receitas/cheesecake-de-limao-siciliano-com-decoracao-de-pascoa.json",
+      "sha256": "de61362320bf616ca3196de284534e763866ea46e51db4d2ba528b1a39c0580f"
+    },
+    {
+      "file": "content/receitas/cheesecake-de-morango-com-decoracao-de-pascoa.json",
+      "sha256": "b93593d3850a200675c4c40197a015bf9cd2ce7fd53a2ea13e4dfcadcf279ff0"
+    },
+    {
+      "file": "content/receitas/chips-de-batata-doce-na-air-fryer.json",
+      "sha256": "a6d253a6fde8f7e43fc109d2e44aaa1e0b7aa2e3e00d0b2d55e3d7d0b722cc87"
+    },
+    {
+      "file": "content/receitas/chutney-de-manga.json",
+      "sha256": "f2a8cec296b8f2b27adb85bf83a0cdc4390f7f7812f66d920af55b73c1c8e757"
+    },
+    {
+      "file": "content/receitas/cookies-com-gotas-de-chocolate.json",
+      "sha256": "13eaee9ec46b31382874570c375e6ecdd4246e64688ded9bd830fdfadf4099c8"
+    },
+    {
+      "file": "content/receitas/copo-da-felicidade-kinder-bueno.json",
+      "sha256": "70b9961087bda5a8a3e9296e44f5676020080c3609082c7ccac33ad9defa5084"
+    },
+    {
+      "file": "content/receitas/copo-da-felicidade-raffaello.json",
+      "sha256": "26862fbbe9aa835b2e69b55df157905cceb0185015f6dee903d022b0224396fb"
+    },
+    {
+      "file": "content/receitas/cordeirinho-de-bolo-de-cenoura.json",
+      "sha256": "4c80e859d542de920d5fda11b48c8cbe7d536f23d82c6fdc1ab0e8ff1bf1b7d5"
+    },
+    {
+      "file": "content/receitas/coxinha-de-frango-com-massa-de-batata.json",
+      "sha256": "dc69081cce38cf14aa5dbd65a75697876fba4071a6dd0f35df43c05aa0533453"
+    },
+    {
+      "file": "content/receitas/coxinha-de-frango-cremosa.json",
+      "sha256": "70c1a7d86b114bca453a0f5f9b730f24f30af7531a4d5f2761588d202af3c514"
+    },
+    {
+      "file": "content/receitas/creme-brulee-classico.json",
+      "sha256": "8fde185200b4a6e5a90925b0d9395b6b387128e44140013f680f42217d76c5ce"
+    },
+    {
+      "file": "content/receitas/croquete-de-carne-com-recheio-cremoso.json",
+      "sha256": "3c5f78e4483b7a71f1e6862d04ee1e909ce810a1322fb25cffb261858312bf06"
+    },
+    {
+      "file": "content/receitas/cubinhos-de-frango-crocantes.json",
+      "sha256": "06f6f88c22d57b33142d68182e148b671e08a8154b78e1c51130a6206da30fb3"
+    },
+    {
+      "file": "content/receitas/cuscuz-marroquino-com-legumes-e-frutas-secas.json",
+      "sha256": "a4fbec1f23c83f130b44ebd13ca54def4528373e4bb0fde2e6a46d3719cbf2bb"
+    },
+    {
+      "file": "content/receitas/dadinho-de-tapioca-com-coco-ralado.json",
+      "sha256": "e5c05e3b989e5175eae05d40466342a28dd31e1bef562855bca03bed413e3cf7"
+    },
+    {
+      "file": "content/receitas/dal-makhani.json",
+      "sha256": "8c74cfe0a9b8a0aff763ede2959fd89d034ac02e71c049efba0c91df3e607f14"
+    },
+    {
+      "file": "content/receitas/doce-de-leite-caseiro-cremoso.json",
+      "sha256": "fd0649d96c84c800418ec0d1c599f2022c718940e80e86474273ab4b8e4c37df"
+    },
+    {
+      "file": "content/receitas/donuts-de-chocolate-com-glace-de-framboesa.json",
+      "sha256": "bbca9b2a0dd130a5fcebdfbaef7f70ad2c5aab957490b4d1c9cdf389f24f6063"
+    },
+    {
+      "file": "content/receitas/eclairs-de-pascoa-recheados-com-creme-de-avela-e-ganache.json",
+      "sha256": "c74ad820a80d75441f4752a6358f5d21988955d7c6b30a9c8197b01297a00712"
+    },
+    {
+      "file": "content/receitas/empadao-de-frango-com-recheio-cremoso.json",
+      "sha256": "ebe7125724c0b7cfb31dddae7f1982894d40849cf5a8cee9fea8ff85ce1cb6e7"
+    },
+    {
+      "file": "content/receitas/enroladinho-de-salsicha-com-massa-folhada.json",
+      "sha256": "87a4cd7f6e610a0d88d16302d4119b5b6f17cae597e6b860842ce07d2b9c3b00"
+    },
+    {
+      "file": "content/receitas/espaguete-a-puttanesca-com-azeitonas-e-alcaparras.json",
+      "sha256": "807a68262078d5bcfa0665a7d3dc04df068f959205eeb6872088b9142e7eaa6e"
+    },
+    {
+      "file": "content/receitas/farofa-de-bacon-com-cebola-e-temperos.json",
+      "sha256": "609493d54251789e020b658cb8ab1e0b449953e9d697808627e90445d1d6e81b"
+    },
+    {
+      "file": "content/receitas/frango-tikka-masala-com-arroz-basmati.json",
+      "sha256": "ab51d5c3fbe033d84804de9272ae023d572c95ea533c32d71598a613b0029d79"
+    },
+    {
+      "file": "content/receitas/gaspacho.json",
+      "sha256": "f890a0c76bb3670cd32aaa0b1a178f319a0690556e7067bec7ca3dad860a58a6"
+    },
+    {
+      "file": "content/receitas/gelatina-de-vinho-com-frutas-frescas.json",
+      "sha256": "9229a2e3ae38b4fa70d33c18ee144bd41d1c152d0b4304ed107751e922b696e7"
+    },
+    {
+      "file": "content/receitas/guacamole.json",
+      "sha256": "67d473b55dc3d8e70d74c90646924dee236d9c0c5061b1ba81179823e4063df2"
+    },
+    {
+      "file": "content/receitas/hot-cross-buns.json",
+      "sha256": "8a92438ee71ee96029771f093cd6524f3487af572679fe9a6e8017329347797e"
+    },
+    {
+      "file": "content/receitas/kibe-frito-tradicional.json",
+      "sha256": "a9c81780c9cd4fc1b9250897b300b23291afedd6d25cf4a709b62b013e1b0bed"
+    },
+    {
+      "file": "content/receitas/lasanha-a-bolonhesa.json",
+      "sha256": "eca89a2513fd324f51fbdacecdc4e886d0ba7a343d71b8cc7fdcb6b7605cf1a7"
+    },
+    {
+      "file": "content/receitas/lasanha-de-queijo-cottage-com-vegetais.json",
+      "sha256": "3db19b99443b9a2c4ed07a2534460db715f6fa40377d9c2a7c531cccaa0b1c9a"
+    },
+    {
+      "file": "content/receitas/lasanha-vegetariana-com-abobrinha-e-berinjela.json",
+      "sha256": "a597896e10eca03cc9692dd92e5602a62f664d5ffefc4a2530f5c6a2031390a3"
+    },
+    {
+      "file": "content/receitas/macarons-de-pascoa.json",
+      "sha256": "377ae2e66ded3eabea1350688148d4703b379e4000e019cdf88e58f8f7504aa1"
+    },
+    {
+      "file": "content/receitas/macarrao-ao-molho-alfredo-com-limao-siciliano.json",
+      "sha256": "2d44c5701b748ab3102ddc0ccc0eeca131b6dcb24eda2a06266f842780098485"
+    },
+    {
+      "file": "content/receitas/macarrao-carbonara-cremoso.json",
+      "sha256": "102f19ae02d23778a012b2a66e2a253488922536211102b27e867e02859a0fa1"
+    },
+    {
+      "file": "content/receitas/macarrao-com-molho-pesto-de-manjericao.json",
+      "sha256": "9ff5f24530f770671631389782edc2a22af976c583763322306ef12213ccea8f"
+    },
+    {
+      "file": "content/receitas/macas-do-amor-de-coelho.json",
+      "sha256": "fee06c1fe070a0ccb0fbed2e8af36bdb8ae6ea56f09cd124a4cb239c2c74a857"
+    },
+    {
+      "file": "content/receitas/manjar-de-coco-com-calda-de-ameixa.json",
+      "sha256": "9093e444a6a2d85c52296945d4c558e59a6dd374cfd0b059a181709b555cf172"
+    },
+    {
+      "file": "content/receitas/manteiga-temperada-turbinada-da-cecilia.json",
+      "sha256": "b85540d8c43969881946a9eac8b5ca5df4a18a61cc953135f7d71848cc2ea21e"
+    },
+    {
+      "file": "content/receitas/milkshake-de-ovolmatine.json",
+      "sha256": "12cd4a8b23869b82b37fd608e080450faea49fc2b6c7890f72eec46bc5dd38d6"
+    },
+    {
+      "file": "content/receitas/mini-paves-de-chocolate-e-morango.json",
+      "sha256": "0d7d106a3a045667561c62b725386c2b14d28afc761ffe3ffadcabff4a3a5f70"
+    },
+    {
+      "file": "content/receitas/mini-pizza-de-calabresa-com-massa-caseira.json",
+      "sha256": "882e57d95393740aca8bd3ea7c3c291386a3cf7d25a772a2d2ade3b2e18099ad"
+    },
+    {
+      "file": "content/receitas/mini-quiche-lorraine-com-bacon-e-queijo.json",
+      "sha256": "151b2db217ad5c819bb56b29a4c72c8a372b75ab03094dc47ef76fd9f7a7f05e"
+    },
+    {
+      "file": "content/receitas/mini-quiches-de-legumes.json",
+      "sha256": "2a5c3d342dbc95ba67704fcf473554c6f7d77b19930f8f8ab22831ee8e4ac036"
+    },
+    {
+      "file": "content/receitas/moqueca-capixaba-tradicional.json",
+      "sha256": "6dba12b79e8de14ce2df37ec6023723cf328915c29d21c8c230d03959a1e91a7"
+    },
+    {
+      "file": "content/receitas/mousse-de-chocolate-com-pimenta-rosa.json",
+      "sha256": "7f6e3f1350de050c1d7e767e800b9044c14bfcca50bfccf72b579ead9fa4221e"
+    },
+    {
+      "file": "content/receitas/mousse-de-chocolate-cremosa.json",
+      "sha256": "5ead0a043adae8ec9ea899f74affee3ae906fd99661a3a2c8e0e23b40139fb44"
+    },
+    {
+      "file": "content/receitas/mousse-de-frutas-vermelhas-com-chantilly.json",
+      "sha256": "65b51ccacfe0fc9af664c1eb2acad623a31c93e868273d768069dd1432503407"
+    },
+    {
+      "file": "content/receitas/mousse-de-limao-com-raspas-de-limao.json",
+      "sha256": "c53ef45935ab58f91d915a032b13468c5d0480a0f927b399c5c3027002d1d03a"
+    },
+    {
+      "file": "content/receitas/mousse-de-maracuja-com-calda-de-chocolate.json",
+      "sha256": "449f6f836893e4aef08257576be18da00f45c6abc13d5431cda02da46856714b"
+    },
+    {
+      "file": "content/receitas/mousse-de-ovolmatine-com-chantilly.json",
+      "sha256": "4f6c6c43768e11408adf4d73cf6bc642793a650af4a0f46a55e2c1fa95c863ba"
+    },
+    {
+      "file": "content/receitas/mousse-vegano-de-chocolate-com-frutas.json",
+      "sha256": "9ea454d56bdbff3726549e54558c0509535cfb0f6e53b61e4f559ba0e626a8a0"
+    },
+    {
+      "file": "content/receitas/nachos-com-chilli-e-queijo-derretido.json",
+      "sha256": "f721db1e01d09fcf8b372f06b9b659b243a09dcfe5b71e06debd1e0b23f26b0c"
+    },
+    {
+      "file": "content/receitas/nhoque-de-batata-com-molho-de-tomate.json",
+      "sha256": "3fe1cfcb5014ed747482616679448efbdef7fa7a9958f06b6201972d700822e2"
+    },
+    {
+      "file": "content/receitas/nhoque-de-ricota-com-molho-de-espinafre.json",
+      "sha256": "3e46058c0be9693ceb37cc5607d64596e56829434f0d9bb4829df26a86792dac"
+    },
+    {
+      "file": "content/receitas/ninho-de-chocolate-com-ovinhos-de-colher.json",
+      "sha256": "d706d44f96f42d353539a4ad72026f885766d324e033096fe99342d6732af446"
+    },
+    {
+      "file": "content/receitas/nozes-crocantes-com-mel-e-especiarias-na-air-fryer.json",
+      "sha256": "91b9f7de6ea5bafa4535791e10f1523164f85299a48ca7ddc47c388581de475f"
+    },
+    {
+      "file": "content/receitas/ovo-de-colher-com-recheio-de-pacoca.json",
+      "sha256": "ee5fa5bfad9c096cce214d4704a1b4246f484453717e3e37f4386a194dc566f9"
+    },
+    {
+      "file": "content/receitas/ovo-de-pascoa-com-recheio-de-sorvete-artesanal.json",
+      "sha256": "398cae2bde39b4b006e14a4fc17d574c6f67cd880d61b50b22b3c69835b4ddc2"
+    },
+    {
+      "file": "content/receitas/ovo-de-pascoa-funcional.json",
+      "sha256": "ff7823db300dd0b0aba24abb2f35d951361c4b5755af3db802bf45309bff653b"
+    },
+    {
+      "file": "content/receitas/ovo-de-pascoa-recheado-com-brigadeiro-de-churros.json",
+      "sha256": "09194a08ed70010baa9b842d82ff986cfae344809ba9bb79c2bfe97e41861f03"
+    },
+    {
+      "file": "content/receitas/palha-italiana-de-cafe.json",
+      "sha256": "d6b66ac719a82ab96453d53f296db75767da9be7623bc6c74e686e4526ceef99"
+    },
+    {
+      "file": "content/receitas/pao-de-acucar-recheado-com-doce-de-leite.json",
+      "sha256": "f27194c73365981e7d37c59ced62cba5cd8d0ebe4932ac22df5cc4751e448ce7"
+    },
+    {
+      "file": "content/receitas/pao-de-mel-com-especiarias-e-glace-real.json",
+      "sha256": "5ee9ca26621916ea9a23b142bfa47a8985e70e9474fa20517a5ed2da9ad1eb1e"
+    },
+    {
+      "file": "content/receitas/pao-naan-indiano-caseiro.json",
+      "sha256": "c337e248bb81a64f7debdb17144095749f4320b00b08d9cd1405bad44f4ebe67"
+    },
+    {
+      "file": "content/receitas/pastel-de-carne-com-tempero-caseiro.json",
+      "sha256": "c60fd8b1954c79491f7eaf8886ed890fa742dfa19c0f5f9719997af869908b48"
+    },
+    {
+      "file": "content/receitas/pave-de-chocolate-com-biscoito-e-chantilly.json",
+      "sha256": "1734a3d861b091e257879b188b8529de78c57bef8a6b5822ec0c6edb3a123e1f"
+    },
+    {
+      "file": "content/receitas/pave-de-limao-com-biscoito-champanhe.json",
+      "sha256": "3d19de7d1f513c1a496d27fa802638860839ed5148981704b6d6dd2ca1e8f89e"
+    },
+    {
+      "file": "content/receitas/pave-de-maracuja-com-camadas-de-chocolate.json",
+      "sha256": "39a970d61223d3eec5f8b4b2312862fa369334addea092833caf74c04c0b0748"
+    },
+    {
+      "file": "content/receitas/pave-de-maracuja-com-chocolate-branco.json",
+      "sha256": "d4c43157c4adabdb9461c4653fe0e0b6c8200b4ccb512da9b50908b83fa51464"
+    },
+    {
+      "file": "content/receitas/pave-de-morango-com-creme-branco.json",
+      "sha256": "69b83cf411d4ae24380cfe02ace344daa2b9529e51a04d0acdfd818fade97a02"
+    },
+    {
+      "file": "content/receitas/pave-de-ovolmatine.json",
+      "sha256": "9f7f65d4e57be51a2b60aca9966331457bb81a817d3edba227e0d62be7533914"
+    },
+    {
+      "file": "content/receitas/pave-de-ricota-com-limao-e-hortela.json",
+      "sha256": "bd1ae61f8bc3cafc9f7cf87bd0269cf94d52020b26d53cbeb1709db276fa045e"
+    },
+    {
+      "file": "content/receitas/pave-raffaello-cremoso-com-amendoas.json",
+      "sha256": "795b0388987cd88312d352123b885fe09b70e27bc20829adea799c93d1bc95b0"
+    },
+    {
+      "file": "content/receitas/pavlova-ninho-com-frutas-tropicais.json",
+      "sha256": "0d69b9d04074c669f0ce671aad642fab28a0fe88d7284ade4367c24994644c51"
+    },
+    {
+      "file": "content/receitas/petit-gateau-de-chocolate-com-sorvete.json",
+      "sha256": "682912f1af0cc331a3de2178a84fa232de9ebd05b73a7b16c3c2ed65ea555c7d"
+    },
+    {
+      "file": "content/receitas/picole-surpresa-de-pascoa.json",
+      "sha256": "d095134d7ca8b767c617c23653c885bb3577baaaf445f1f59b6a27c9a91d0e08"
+    },
+    {
+      "file": "content/receitas/pipoca-doce-no-micro-ondas.json",
+      "sha256": "d40e49128f80e08377f8b2ef2e1478514420ad5243c14251efde479acfc1441b"
+    },
+    {
+      "file": "content/receitas/pizza-de-calabresa-caseira.json",
+      "sha256": "43cd45455f8321f7c01922d830446de031db902c85fe6e5621f01dbf94f9fdcb"
+    },
+    {
+      "file": "content/receitas/pizza-de-frango-com-catupiry.json",
+      "sha256": "1dc98749503732c27206f1f1504a6a79915fd63f95a3f8220cc471eb83c2f9e2"
+    },
+    {
+      "file": "content/receitas/pizza-doce-com-chocolate-e-morango.json",
+      "sha256": "c3bfb9b1704e3b2442717ca1e542f02a7066112e3e80a6832eabaa39be8f5777"
+    },
+    {
+      "file": "content/receitas/pizza-portuguesa.json",
+      "sha256": "4d75fe684417cb32445ccd599a8fe4a3ff6ca9983f9e12a4553f9bbdd54d059e"
+    },
+    {
+      "file": "content/receitas/pizza-vegetariana-com-abobrinha-berinjela-e-pimentao.json",
+      "sha256": "aacefaca26003e60475f98b1560ef2a68c4e90b0cd2711ad515b7cc5d4427e8f"
+    },
+    {
+      "file": "content/receitas/polenta-cremosa-com-queijo-parmesao.json",
+      "sha256": "da79097664abd36d5920e053e9e7829f04f31f7f86c727ce033e472491252ad2"
+    },
+    {
+      "file": "content/receitas/pote-da-felicidade-proteico.json",
+      "sha256": "4167475993858d9d9b6755fc536135200acfd244b465a02bf6cd9266de5a2b6b"
+    },
+    {
+      "file": "content/receitas/pudim-de-chocolate-com-calda-de-chocolate.json",
+      "sha256": "18c5aa7385d4578703c690527a944f8c95985ac080f5a4b1bb335a06c82c6440"
+    },
+    {
+      "file": "content/receitas/pudim-de-coco-queimado.json",
+      "sha256": "d2d97cb493f2e309bb9bb462787884770375ad6f9bc7c64d238c8a8e753d6946"
+    },
+    {
+      "file": "content/receitas/pudim-de-leite-condensado-tradicional.json",
+      "sha256": "f40a771a25707acf553b95a5c35723d1821a73fdf828559d2aa774538843fc2c"
+    },
+    {
+      "file": "content/receitas/pudim-de-maria-mole.json",
+      "sha256": "299f13bfb1866376355df71cac9c3d5ccbc1485d28cdb8cb255f112851581acf"
+    },
+    {
+      "file": "content/receitas/pudim-de-pao-com-passas.json",
+      "sha256": "c3b37d26d758e1f34511eef22b5cf29a31684705dc275a5eaab379ddc7242a76"
+    },
+    {
+      "file": "content/receitas/pure-de-batata-cremoso-com-manteiga-e-leite.json",
+      "sha256": "cf6521f542ff64ca8d60dde13173bcb437e73b0637afdd67879883635dda1661"
+    },
+    {
+      "file": "content/receitas/quesadillas-de-queijo-com-molho-picante.json",
+      "sha256": "87024eba1f03669282062c21130e1e84f8f0750ccf72a74dc7ebffee8cfd64f0"
+    },
+    {
+      "file": "content/receitas/quiche-de-espinafre-com-ricota-integral.json",
+      "sha256": "dd7f669fa73812b525cc877d71d344594d311239bd258d98968241e4ab49a3c1"
+    },
+    {
+      "file": "content/receitas/quiche-integral-de-frango-com-legumes.json",
+      "sha256": "0ae0b96443a769e490aaf356579783149994ebd10b04d6258a2c55eb6241c410"
+    },
+    {
+      "file": "content/receitas/quiche-lorraine-tradicional.json",
+      "sha256": "cfc5284e9b84560bfb83acc99d75001f54941597c7757f42821f359ea4b9fc71"
+    },
+    {
+      "file": "content/receitas/quiche-sem-gluten-de-queijo-com-brocolis.json",
+      "sha256": "4370a25fd4a6f8cc63cdf370a69ffb5c5b89f9c951d0531112f071ee22666566"
+    },
+    {
+      "file": "content/receitas/quindim-tradicional-brasileiro.json",
+      "sha256": "5e3d46cd1544055d3b322a401d9792449b1ec74b625b0e7e113047264190f9ad"
+    },
+    {
+      "file": "content/receitas/rabanada-com-doce-de-leite.json",
+      "sha256": "bb467f79ddd2ed0bbd9478dee089ca13e3f4ecace93fa1d1c0b999f923a2c6c5"
+    },
+    {
+      "file": "content/receitas/rabanadas-gourmet-com-sorvete-de-canela.json",
+      "sha256": "1b886992bcb3726d0096a7a9a66bc53998c4cb86bcfb87cca11c677820591a9b"
+    },
+    {
+      "file": "content/receitas/ravioli-de-carne-com-molho-branco.json",
+      "sha256": "bd2b03c8c4efcba08d202c5671303e83485d8e24a3d0b0f69412087a49bab5d7"
+    },
+    {
+      "file": "content/receitas/ravioli-de-queijo-com-molho-de-tomate-fresco.json",
+      "sha256": "6b279ebd7ea2de1bbc2470133aec4047620c9f64bcacde5169779285423e5efd"
+    },
+    {
+      "file": "content/receitas/rosquinha-de-maca-com-massa-folhada.json",
+      "sha256": "1f927376489b195bb65210ba8f8d0b0fd54394f38eb8b4fa0cc08e5073bde541"
+    },
+    {
+      "file": "content/receitas/salada-caesar-com-frango-grelhado.json",
+      "sha256": "f7fea42d4631bd8a421fac2e5888c1df72f88c4ed914d9cec55c1180ba616f2e"
+    },
+    {
+      "file": "content/receitas/salada-caprese-com-molho-pesto.json",
+      "sha256": "bbb30bbd023e23e3827537b2d4bf3480cf32f735bbfae6fcdf250c3a56d264fb"
+    },
+    {
+      "file": "content/receitas/salada-de-batata-com-maionese-caseira-e-ervas.json",
+      "sha256": "44b14da956bfbf50b99fb1e63f9790bea8244e43e357f462fea33254042c5638"
+    },
+    {
+      "file": "content/receitas/salada-de-quinoa-com-frutas-secas-e-legumes.json",
+      "sha256": "e93d64f9d4168e45254ff50f756b820f9d13867788b2f331da84e40b327921fc"
+    },
+    {
+      "file": "content/receitas/salada-grega-com-queijo-feta.json",
+      "sha256": "5783a28ae2ca81a39507826cd9730e6724feb122700e737718c70b620a956d1a"
+    },
+    {
+      "file": "content/receitas/salada-tropical-com-folhas-verdes-manga-abacaxi-e-camarao.json",
+      "sha256": "d9809d8f7208b538fe99afc508eceb2ad5ddf97864bccf95390aff0a0a549ad7"
+    },
+    {
+      "file": "content/receitas/salmao-assado-com-batatas-e-vegetais.json",
+      "sha256": "b571b6639b42d6c7d4ff5a694ba0a34bcfa4fb196fb1bb5f34c6660063a35d86"
+    },
+    {
+      "file": "content/receitas/samosa-pastelzinho-indiano.json",
+      "sha256": "b5aa9c04688102171f7e1949483fb727404478b65a32677d9633e456460418a3"
+    },
+    {
+      "file": "content/receitas/sanduiches-doces-de-pascoa.json",
+      "sha256": "f58fc0165a28916b8f5ced528b1125fd111cf50e5c185a78b72f0ea89dc58798"
+    },
+    {
+      "file": "content/receitas/smoothie-de-banana-e-ovolmatine.json",
+      "sha256": "788824267eb71f76b442f25155f1e598b7dba82c8503db1dcc21f0a1c018c871"
+    },
+    {
+      "file": "content/receitas/sopa-cremosa-de-mandioquinha-com-croutons.json",
+      "sha256": "1eae82ad4473ccdd17c11288e80b185cea10eaad5ddd4eac0987858166f0082b"
+    },
+    {
+      "file": "content/receitas/sopa-detox-de-legumes-com-gengibre.json",
+      "sha256": "09c99125d16d97e0bd70c1e0d93204d9dffd2e29061b2958828521aa117aa672"
+    },
+    {
+      "file": "content/receitas/sopa-tom-yum-tom-yam-goong.json",
+      "sha256": "150b6fb924bda64697f810de9a222267e904cb4dc9a9945fad946c4ba0129d10"
+    },
+    {
+      "file": "content/receitas/sorbet-de-limao.json",
+      "sha256": "66b9338e4dd2972519ee67bfee7a2cea1024bd0278926df4240d0f14f074a86c"
+    },
+    {
+      "file": "content/receitas/sorvete-caseiro-de-morango.json",
+      "sha256": "1ce5d5d956a10311b70c55e5866666617ea58d4cf2d93352c6d14f2f84c7ee4d"
+    },
+    {
+      "file": "content/receitas/sorvete-de-chocolate-cremoso.json",
+      "sha256": "47e0ffc8d39f5ce9d987c1010d75670d08de041c17a3cedc99278fd15ae19ff1"
+    },
+    {
+      "file": "content/receitas/sorvete-de-creme-com-calda-de-caramelo.json",
+      "sha256": "4c57a30838f87a5f057eefd092277460e123c62d5c72840feca1f3af1bd4294a"
+    },
+    {
+      "file": "content/receitas/sushi-caseiro-com-salmao-e-atum.json",
+      "sha256": "aed497c2692c55881f80537d5c1e3a209284dce8f1fb6c5a48d560e50288b7a4"
+    },
+    {
+      "file": "content/receitas/tacos-de-carne-mexicanos-com-guacamole.json",
+      "sha256": "ca2e0aa6d8def3703fc75fd173e53c9fdc9fc89666bf137e24e5e3eabd515d31"
+    },
+    {
+      "file": "content/receitas/talharim-caseiro-com-molho-de-tomate-fresco.json",
+      "sha256": "78925102ec193035537efa012becd62c4b7bf6b6bb79f3d5c49ee9b35e5aa930"
+    },
+    {
+      "file": "content/receitas/tarteletes-de-limao-siciliano-com-merengue-torrado.json",
+      "sha256": "af594ff9f1bcc73a5c72d89ff06e414e9a692c40c65d3f29d6e524f15015daa3"
+    },
+    {
+      "file": "content/receitas/temaki-de-salmao-com-cream-cheese.json",
+      "sha256": "cc3e5c389069879f5e37f1d6b3ff5259f27f039335b80844bd94095d3a83ca4d"
+    },
+    {
+      "file": "content/receitas/tiramisu-de-pascoa.json",
+      "sha256": "30a5bb27326f6efb1afb20a41afc0d2ed2d49b4d98396401bb8525fab316a7a6"
+    },
+    {
+      "file": "content/receitas/tiramisu-italiano-autentico.json",
+      "sha256": "c5710c4a782bd1d2cbcb6280a5ab2bbec80d4cca3ce556f7ef6da7a6ec4160e5"
+    },
+    {
+      "file": "content/receitas/tomates-confitados.json",
+      "sha256": "1d10bdcae1cb830778b72e72b70f5796fb46c1bc7508790d5ab827401d126153"
+    },
+    {
+      "file": "content/receitas/torta-de-abacaxi-com-coco-e-chantilly.json",
+      "sha256": "732be2bafc4429510ff779eac5e7f995c587a57f53ec3b5c56d4eb83f89dbfd5"
+    },
+    {
+      "file": "content/receitas/torta-de-banana-com-doce-de-leite-e-merengue.json",
+      "sha256": "756304b6acc6607196d507805025d1d9b137c622b3d6795e36e11ecbd106b019"
+    },
+    {
+      "file": "content/receitas/torta-de-chocolate-com-morango.json",
+      "sha256": "516986adc5bb06ad9e54a38899e6d62d5f414eb2f66ebb67c19862c116594f31"
+    },
+    {
+      "file": "content/receitas/torta-de-frango-com-requeijao.json",
+      "sha256": "5d0ffbf3404bbb18427f1e947055e6c0e0ed222e1ca2667aa4bd87fbf27019ef"
+    },
+    {
+      "file": "content/receitas/torta-de-frutas-vermelhas-com-chantilly.json",
+      "sha256": "45d7684574062548a3255c738e6a246747a4e29d715238b1e11272bb98ba8eb1"
+    },
+    {
+      "file": "content/receitas/torta-de-legumes-com-massa-integral.json",
+      "sha256": "54ed847a186196477bd0c2091183d76b6ff9a4fcf69cb700293cb4e16893468a"
+    },
+    {
+      "file": "content/receitas/torta-de-limao-com-merengue.json",
+      "sha256": "4dd7c130007b86b642cb3d7e74df6955d55cd45adca7420c8e547c073ebf02e1"
+    },
+    {
+      "file": "content/receitas/torta-de-maca-com-canela.json",
+      "sha256": "1fecdc8fd45f3c921e1a53415fcf3bb2c4e8ff3af5de6900ed5e5f308eab20f4"
+    },
+    {
+      "file": "content/receitas/torta-de-ricota-com-frutas-vermelhas.json",
+      "sha256": "e669b893360edd030a8290ebe1f998323ba228f128320ff1d06c8c6639ab1336"
+    },
+    {
+      "file": "content/receitas/torta-holandesa-com-creme-e-chocolate.json",
+      "sha256": "30838a6473d39699e33a79ac9d94e3f75983f008b1790d12180a8b4ae95fe044"
+    },
+    {
+      "file": "content/receitas/torta-mosaico-de-pascoa.json",
+      "sha256": "c10a5b8a41484121bdc06290b62aba8f8e3026a3b74cfb8cf88b8bf3a779cbb8"
+    },
+    {
+      "file": "content/receitas/torta-mousse-de-chocolate-com-base-de-oreo.json",
+      "sha256": "14a06a26daedaff94b6f25151b70da885d8ba96681e932167ea8436c2e0f5343"
+    },
+    {
+      "file": "content/receitas/torta-mousse-de-maracuja-com-biscoito-champagne.json",
+      "sha256": "5ea22806bb6462300d274c91955905681d4ec7b5e641aae5d2af1dad51dbc360"
+    },
+    {
+      "file": "content/receitas/torta-salgada-de-atum-com-massa-folhada.json",
+      "sha256": "6060223fa708c21c1d729bdf4b4447e17cc3c7c57c3a23cd1dbb07bc72a72e61"
+    },
+    {
+      "file": "content/receitas/torta-sorvete-de-doce-de-leite.json",
+      "sha256": "b4a81c9557df7574236f45b7a2f0cb4623576b69b43e39a7b933735b3de06e68"
+    },
+    {
+      "file": "content/receitas/tortillas-de-trigo-caseiras.json",
+      "sha256": "e5c3e6fa5be8ee4a8cf644c0a925d8dfcbbf5cb10944018dd96ada599ae017e9"
+    },
+    {
+      "file": "content/receitas/trouxinha-de-cheddar-na-air-fryer.json",
+      "sha256": "e1752c7bb4df175697bf975860be5419e6cd76ef751a1003425beed21394c98d"
+    },
+    {
+      "file": "content/receitas/trufas-de-chocolate-com-ovolmatine.json",
+      "sha256": "253f1a18e8a5ad10d8255661a56d93da3ef877402c0862caec2d63a003b24d0e"
+    },
+    {
+      "file": "content/receitas/trufas-de-chocolate-com-pistache-e-framboesa.json",
+      "sha256": "791246c8e295344620bdc4661547a6d46016464754b87e9e073305e09b37e6c4"
+    },
+    {
+      "file": "content/receitas/trufas-de-maracuja-e-coco.json",
+      "sha256": "bb8c9679b3f6fbf0f6da1020b964666dcd7e7fb9634438c0fd5c81d10ad8f39e"
+    }
+  ]
+}

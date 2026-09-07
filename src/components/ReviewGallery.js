@@ -3,6 +3,7 @@
 import Image from 'next/image';
 import { useState } from 'react';
 import { ChevronLeft, ChevronRight, Maximize2, X } from 'lucide-react';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 export default function ReviewGallery({ images = [], title }) {
   const [active, setActive] = useState(0);
@@ -44,7 +45,7 @@ export default function ReviewGallery({ images = [], title }) {
           aria-label="Ampliar imagem da galeria"
         >
           <Image
-            src={current.image}
+            src={resolveMediaUrl(current.image)}
             alt={current.alt || title}
             fill
             className="object-contain"
@@ -96,7 +97,7 @@ export default function ReviewGallery({ images = [], title }) {
               }`}
               aria-label={`Abrir imagem ${index + 1}`}
             >
-              <Image src={item.image} alt={item.alt || title} fill className="object-cover" sizes="96px" />
+              <Image src={resolveMediaUrl(item.image)} alt={item.alt || title} fill className="object-cover" sizes="96px" />
             </button>
           ))}
         </div>
@@ -113,7 +114,7 @@ export default function ReviewGallery({ images = [], title }) {
             <X className="h-5 w-5" />
           </button>
           <div className="relative h-[86vh] w-full max-w-6xl">
-            <Image src={current.image} alt={current.alt || title} fill className="object-contain" sizes="100vw" />
+            <Image src={resolveMediaUrl(current.image)} alt={current.alt || title} fill className="object-contain" sizes="100vw" />
           </div>
         </div>
       )}

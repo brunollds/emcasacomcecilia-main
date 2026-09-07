@@ -10,6 +10,7 @@ import {
   getCouponBySlug,
   getOtherActiveCoupons,
 } from '@/lib/couponsData';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 export function generateStaticParams() {
   return getAllActiveCouponSlugs().map((brand) => ({ brand }));
@@ -30,6 +31,10 @@ export async function generateMetadata({ params }: CouponBrandPageProps): Promis
       : undefined);
   if (!coupon) return {};
   const socialImage = coupon.socialImage || coupon.brandLogo || '/images/logos/logo-em-casa-com-cecilia.png';
+  const deliveredSocialImage = new URL(
+    resolveMediaUrl(socialImage),
+    'https://emcasacomcecilia.com'
+  ).toString();
   const socialImageAlt = coupon.socialImageAlt || coupon.brandLogoAlt || 'Em Casa com Cecília';
 
   return {
@@ -45,7 +50,7 @@ export async function generateMetadata({ params }: CouponBrandPageProps): Promis
       type: 'article',
       images: [
         {
-          url: socialImage,
+          url: deliveredSocialImage,
           alt: socialImageAlt,
         },
       ],
@@ -54,7 +59,7 @@ export async function generateMetadata({ params }: CouponBrandPageProps): Promis
       card: 'summary_large_image',
       title: coupon.metaTitle,
       description: coupon.metaDescription,
-      images: [socialImage],
+      images: [deliveredSocialImage],
     },
   };
 }
@@ -210,7 +215,7 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
             {coupon.brandLogo && (
               <div className="relative flex h-20 w-20 shrink-0 items-center justify-center overflow-hidden rounded-2xl border border-white/14 bg-white p-2 shadow-xl shadow-black/15">
                 <Image
-                  src={coupon.brandLogo}
+                  src={resolveMediaUrl(coupon.brandLogo)}
                   alt={coupon.brandLogoAlt || `Marca ${coupon.brand}`}
                   fill
                   sizes="80px"
@@ -265,7 +270,7 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
                 {coupon.brandLogo && (
                   <div className="relative h-12 w-12 overflow-hidden rounded-xl border border-white/20 bg-white shadow-lg shadow-black/10">
                     <Image
-                      src={coupon.brandLogo}
+                      src={resolveMediaUrl(coupon.brandLogo)}
                       alt={coupon.brandLogoAlt || `Marca ${coupon.brand}`}
                       fill
                       sizes="48px"

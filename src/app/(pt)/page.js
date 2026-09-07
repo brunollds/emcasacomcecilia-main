@@ -18,6 +18,12 @@ import {
   toHomeReviewCard,
 } from '@/lib/reviewDiscovery';
 import { resolveActiveHomeCuration } from '@/lib/homeCuration';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+
+const HOME_LOGO_URL = new URL(
+  resolveMediaUrl('/images/logos/logo-em-casa-com-cecilia.png'),
+  'https://emcasacomcecilia.com'
+).toString();
 
 export const revalidate = 300;
 
@@ -34,7 +40,7 @@ export const metadata = {
     type: 'website',
     images: [
       {
-        url: '/images/logos/logo-em-casa-com-cecilia.png',
+        url: HOME_LOGO_URL,
         alt: 'Logo Em Casa com Cecília',
       },
     ],

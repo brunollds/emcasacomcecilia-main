@@ -9,6 +9,7 @@ import {
   getHubLanguageLinks,
   YESSTYLE_LOCALES,
 } from '@/lib/i18n/clusters/yesstyle';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import type { Locale as SiteLocale } from '@/lib/i18n/locales';
 import {
   getPrimaryRewardCode,
@@ -1045,7 +1046,7 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
           </nav>
           <div className="flex gap-5 md:items-center">
             <div className="relative h-20 w-20 shrink-0 overflow-hidden rounded-2xl bg-white p-2">
-              <Image src="/images/logos/yesstyle.jpg" alt="YesStyle" fill sizes="80px" className="object-contain p-2" priority />
+              <Image src={resolveMediaUrl('/images/logos/yesstyle.jpg')} alt="YesStyle" fill sizes="80px" className="object-contain p-2" priority />
             </div>
             <div>
               <p className="text-xs font-bold uppercase tracking-[.16em] text-[#ffd23f]">{resolved.eyebrow}</p>
