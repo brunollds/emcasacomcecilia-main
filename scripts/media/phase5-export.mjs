@@ -69,6 +69,10 @@ function replaceManagedBlock(existing, block) {
   return `${existing.slice(0, start).trimEnd()}\n\n${block}\n${existing.slice(afterEnd).replace(/^\s*/, '')}`;
 }
 
+function normalizeLineEndings(value) {
+  return value.replaceAll('\r\n', '\n');
+}
+
 async function readJson(repoRoot, relativePath) {
   return JSON.parse(await readFile(path.join(repoRoot, relativePath), 'utf8'));
 }
@@ -231,7 +235,16 @@ export async function validatePhase5({ repoRoot = DEFAULT_REPO_ROOT, manifestPat
   const block = managedBlock(checked.map((entry) => entry.localUrl));
   const expectedAttributes = replaceManagedBlock(existing, block);
   if (attributesPath === '.gitattributes' && expectedAttributes.includes('public/** export-ignore')) fail('wildcard public export is forbidden');
-  return { manifest, map, checked, counts, block, existingAttributes: existing, expectedAttributes, attributesChanged: existing !== expectedAttributes };
+  return {
+    manifest,
+    map,
+    checked,
+    counts,
+    block,
+    existingAttributes: existing,
+    expectedAttributes,
+    attributesChanged: normalizeLineEndings(existing) !== normalizeLineEndings(expectedAttributes),
+  };
 }
 
 function assertNoBroadPublicRules(attributes) {

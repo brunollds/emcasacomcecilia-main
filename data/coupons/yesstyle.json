@@ -108,7 +108,7 @@
       "Use no campo Coupon Code; pode ser combinado com CECILIA010 no campo Reward Code, preços promocionais e YS Points.",
       "Não pode ser combinado com outro cupom promocional e não se aplica a frete, reenvio ou taxas adicionais."
     ],
-    "status": "active",
+    "status": "expired",
     "regions": ["US"]
   },
   {
@@ -131,6 +131,32 @@
     ],
     "restrictions": [
       "Válido de 04/09/2026 às 00:00 GMT a 07/09/2026 às 23:59 GMT para membros YesStyle e produtos elegíveis.",
+      "Use no campo Coupon Code; pode ser combinado com CECILIA010 no campo Reward Code, preços promocionais e YS Points.",
+      "Não pode ser combinado com outro cupom promocional e não se aplica a frete, reenvio ou taxas adicionais."
+    ],
+    "status": "expired",
+    "regions": ["GLOBAL"]
+  },
+  {
+    "id": "cozy26-promo",
+    "code": "COZY26",
+    "type": "coupon",
+    "discount": {
+      "kind": "text",
+      "label": "8–15% OFF"
+    },
+    "startsAt": "2026-09-08",
+    "expiresAt": "2026-09-10",
+    "verifiedAt": "2026-09-08",
+    "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2864",
+    "affiliateUrl": "https://ystyle.co/rQYQv",
+    "eligibility": [
+      "8% OFF em pedidos a partir de US$ 79",
+      "10% OFF em pedidos a partir de US$ 149",
+      "15% OFF em pedidos a partir de US$ 199"
+    ],
+    "restrictions": [
+      "Válido de 08/09/2026 às 00:00 GMT a 10/09/2026 às 23:59 GMT para membros YesStyle e produtos elegíveis.",
       "Use no campo Coupon Code; pode ser combinado com CECILIA010 no campo Reward Code, preços promocionais e YS Points.",
       "Não pode ser combinado com outro cupom promocional e não se aplica a frete, reenvio ou taxas adicionais."
     ],

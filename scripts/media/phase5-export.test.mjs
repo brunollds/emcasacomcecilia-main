@@ -25,6 +25,11 @@ test('check mode has no write effect and the managed block is exact', async () =
   const before = await readFile(`${repoRoot}/.gitattributes`, 'utf8');
   const result = await validatePhase5({ repoRoot });
   assert.equal(result.attributesChanged, false);
+  const crlfResult = await validatePhase5({
+    repoRoot,
+    attributesValue: before.replaceAll('\r\n', '\n').replaceAll('\n', '\r\n'),
+  });
+  assert.equal(crlfResult.attributesChanged, false, 'Line-ending conversion must not change the allowlist semantics');
   assert.equal(await readFile(`${repoRoot}/.gitattributes`, 'utf8'), before);
   assert.match(result.block, /public\/images\/about\/cecilia\/cecilia-6\.jpg -text export-ignore/);
   assert.doesNotMatch(result.block, /public\/(?:\*|images\/\*|videos\/\*)/);
