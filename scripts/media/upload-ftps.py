@@ -78,7 +78,26 @@ def _asset_id(asset):
     return asset.get('source_path', '')
 
 
-def _check_asset(asset):
+def _validated_staging_root(staging_root):
+    if staging_root is None:
+        return None
+    root = Path(staging_root)
+    if not root.is_absolute():
+        _fail('staging root must be absolute')
+    if root.is_symlink() or not root.is_dir():
+        _fail('staging root must be a non-symlink directory')
+    try:
+        repo_real = Path(os.path.realpath(ROOT))
+        root_real = Path(os.path.realpath(root))
+        root_real.relative_to(repo_real)
+    except ValueError:
+        pass
+    else:
+        _fail('staging root must be outside the repository')
+    return root
+
+
+def _check_asset(asset, staging_root=None):
     source = asset.get('source_path')
     kind = asset.get('media_kind')
     key = asset.get('remote_key')
@@ -109,14 +128,23 @@ def _check_asset(asset):
         _fail('storage_filename required for extension mismatch')
     if asset.get('remote_url') != CDN + '/' + key:
         _fail('remote_url mismatch')
-    lexical = ROOT.joinpath(*source_parts)
-    cursor = ROOT
-    for part in source_parts:
+    use_staging = asset.get('staged') and staging_root is not None
+    if use_staging:
+        staging_root = _validated_staging_root(staging_root)
+        relative_parts = source_parts[1:]
+        lexical = staging_root.joinpath(*relative_parts)
+        cursor = staging_root
+        path_scope = staging_root
+    else:
+        lexical = ROOT.joinpath(*source_parts)
+        cursor = ROOT
+        path_scope = ROOT / 'public' / source_parts[1]
+    for part in (source_parts[1:] if use_staging else source_parts):
         cursor = cursor / part
         if cursor.is_symlink():
             _fail('source contains symlink')
     path = lexical.resolve(strict=False)
-    scope = (ROOT / 'public' / source_parts[1]).resolve()
+    scope = path_scope.resolve()
     if path != scope and scope not in path.parents:
         _fail('source traversal')
     if lexical.is_symlink() or not path.is_file():
@@ -133,7 +161,7 @@ def _check_asset(asset):
             'kind': kind, 'name': storage_name}
 
 
-def select_assets(manifest, assets, requested, scopes):
+def select_assets(manifest, assets, requested, scopes, staging_root=None):
     if not requested and not scopes:
         _fail('selection required; use --asset or --all')
     chosen = []
@@ -145,7 +173,7 @@ def select_assets(manifest, assets, requested, scopes):
     found = {asset.get('source_path') for asset in chosen} | {asset.get('remote_key') for asset in chosen}
     if not wanted.issubset(found):
         _fail('asset selector matched no manifest asset')
-    return [_check_asset(asset) for asset in chosen]
+    return [_check_asset(asset, staging_root=staging_root) for asset in chosen]
 
 
 def _mlsd(ftp, parent='.'):
@@ -273,6 +301,7 @@ def upload(items, on_result=None):
 def main(argv=None):
     parser = argparse.ArgumentParser()
     parser.add_argument('--manifest', type=Path, default=MANIFEST)
+    parser.add_argument('--staging-root', type=Path)
     parser.add_argument('--asset', action='append', default=[])
     parser.add_argument('--all', action='store_true')
     parser.add_argument('--execute', action='store_true')
@@ -284,7 +313,7 @@ def main(argv=None):
     manifest = json.loads(args.manifest.read_text(encoding='utf-8'))
     if manifest.get('manifest_version') != 1 or manifest.get('origin') != CDN:
         _fail('unsupported manifest')
-    items = select_assets(manifest, manifest.get('assets', []), args.asset, args.all)
+    items = select_assets(manifest, manifest.get('assets', []), args.asset, args.all, staging_root=args.staging_root)
     records = []
     if args.report:
         _write_report(args.report, records)

@@ -19,7 +19,7 @@ function headerMime(response) {
   return response.headers.get('content-type')?.split(';', 1)[0].trim().toLowerCase() ?? null;
 }
 
-async function digestResponse(response, maxBytes) {
+async function digestResponse(response, maxBytes, collectBytes = false) {
   if (!response.body) throw new Error('Remote response has no body');
   const declaredLength = Number(response.headers.get('content-length'));
   if (Number.isFinite(declaredLength) && declaredLength > maxBytes) throw new Error(`Remote response exceeds max bytes (${declaredLength} > ${maxBytes})`);
@@ -27,6 +27,7 @@ async function digestResponse(response, maxBytes) {
   const hash = createHash('sha256');
   let bytes = 0;
   const prefixChunks = [];
+  const fullChunks = collectBytes ? [] : null;
   let prefixBytes = 0;
   try {
     while (true) {
@@ -39,13 +40,14 @@ async function digestResponse(response, maxBytes) {
         await reader.cancel();
         throw new Error(`Remote response exceeds max bytes (${bytes} > ${maxBytes})`);
       }
+      fullChunks?.push(chunk);
       if (prefixBytes < 65536) {
         const prefix = chunk.subarray(0, 65536 - prefixBytes);
         prefixChunks.push(prefix);
         prefixBytes += prefix.length;
       }
     }
-    return { bytes, sha256: hash.digest('hex'), sniffedMime: detectMimeFromBuffer(Buffer.concat(prefixChunks)) };
+    return { bytes, sha256: hash.digest('hex'), sniffedMime: detectMimeFromBuffer(Buffer.concat(prefixChunks)), fullBytes: fullChunks ? Buffer.concat(fullChunks) : null };
   } catch (error) {
     try { await reader.cancel(); } catch { /* response is already aborted */ }
     throw error;
@@ -144,8 +146,11 @@ export async function verifyAsset(asset, { repoRoot = process.cwd(), fetchImpl =
     checks.local = { bytes: localBytes.length, sha256: localHash, ok: localBytes.length === asset.bytes && localHash === asset.sha256 };
     if (!checks.local.ok) errors.push('local-manifest-mismatch');
   } catch (error) {
-    errors.push(`local-read:${error.message}`);
-    return { source_path: asset.source_path, remote_url: asset.remote_url, ok: false, checks, errors };
+    if (error.code !== 'ENOENT') {
+      errors.push(`local-read:${error.message}`);
+      return { source_path: asset.source_path, remote_url: asset.remote_url, ok: false, checks, errors };
+    }
+    checks.local = { present: false, mode: 'manifest-digest' };
   }
   let remoteUrl;
   try {
@@ -171,18 +176,21 @@ export async function verifyAsset(asset, { repoRoot = process.cwd(), fetchImpl =
       await response.body?.cancel();
       errors.push(`get-status:${response.status}`);
     }
-    const body = response.status === 200 ? await digestResponse(response, maxBytes) : null;
+    const needsRangeBytes = !localBytes && ['video', 'audio'].includes(asset.media_kind);
+    const body = response.status === 200 ? await digestResponse(response, maxBytes, needsRangeBytes) : null;
     if (body) {
       checks.get.bytes = body.bytes;
       checks.get.sha256 = body.sha256;
       checks.get.sniffed_mime = body.sniffedMime;
       checks.get.ok = body.bytes === asset.bytes && body.sha256 === asset.sha256 && checks.get.mime === asset.mime && body.sniffedMime === asset.mime;
       if (!checks.get.ok) errors.push('get-integrity-or-mime-mismatch');
+      // Without local bytes, compare ranges against the independently hash-verified GET.
+      if (checks.get.ok && needsRangeBytes) localBytes = body.fullBytes;
     }
   } catch (error) {
     errors.push(`get-error:${error.message}`);
   }
-  if (asset.media_kind === 'video' || asset.media_kind === 'audio') {
+  if (localBytes && (asset.media_kind === 'video' || asset.media_kind === 'audio')) {
     try {
       checks.ranges = await verifyRanges(asset, localBytes, fetchImpl, timeoutMs);
       if (!checks.ranges.every((check) => check.ok)) errors.push('range-verification-failed');

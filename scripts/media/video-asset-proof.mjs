@@ -6,7 +6,7 @@ function fail(message) {
   return { ok: false, reason: message };
 }
 
-export function validateMediaAssetAvailability({ assetUrl, repoRoot, manifest, map }) {
+export function validateMediaAssetAvailability({ assetUrl, repoRoot, manifest, map, requireRemote = false }) {
   if (typeof assetUrl !== 'string' || !assetUrl.startsWith('/')) return fail(`asset local inválido: ${assetUrl || '(ausente)'}`);
   const relativeUrl = assetUrl.slice(1);
   if (/[\\?#]/.test(assetUrl) || /%2f|%5c/i.test(assetUrl)) return fail(`asset local não canônico: ${assetUrl}`);
@@ -18,7 +18,7 @@ export function validateMediaAssetAvailability({ assetUrl, repoRoot, manifest, m
   }
 
   const localPath = readLocalAssetPath(repoRoot, `public/${relativeUrl}`);
-  if (existsSync(localPath)) return { ok: true, mode: 'local', path: localPath };
+  if (!requireRemote && existsSync(localPath)) return { ok: true, mode: 'local', path: localPath };
 
   const remoteUrl = map?.[assetUrl];
   const matchingAssets = Array.isArray(manifest?.assets)
@@ -28,6 +28,9 @@ export function validateMediaAssetAvailability({ assetUrl, repoRoot, manifest, m
   const asset = matchingAssets[0];
   if (!remoteUrl || !asset) return fail(`asset local ausente sem prova CDN: ${assetUrl}`);
   if (asset.source_path !== `public/${relativeUrl}`) return fail(`source_path divergente: ${assetUrl}`);
+  if (!['image', 'video'].includes(asset.media_kind) || !asset.mime?.startsWith(`${asset.media_kind}/`)) {
+    return fail(`MIME e tipo de midia divergentes: ${assetUrl}`);
+  }
   if (!Number.isSafeInteger(asset.bytes) || asset.bytes <= 0) return fail(`bytes inválidos: ${assetUrl}`);
   if (typeof asset.original_filename !== 'string'
     || asset.original_filename !== asset.source_path.split('/').at(-1)) {

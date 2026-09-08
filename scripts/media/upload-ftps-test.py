@@ -214,6 +214,59 @@ class UploadTests(unittest.TestCase):
             self.assertEqual(ftp.files['v1/image/' + checked['sha256'] + '/' + checked['name']], b'\x89PNG\r\n\x1a\npayload')
             self.assertFalse(any(name.startswith('.upload-') for name in ftp.files))
 
+    def test_staged_asset_resolves_only_from_external_root(self):
+        with tempfile.TemporaryDirectory() as directory, tempfile.TemporaryDirectory() as staging_directory:
+            repo = Path(directory)
+            staging = Path(staging_directory)
+            path = staging / 'images' / 'optimized' / 'x.png'
+            path.parent.mkdir(parents=True)
+            data = b'\x89PNG\r\n\x1a\npayload'
+            path.write_bytes(data)
+            digest = hashlib.sha256(data).hexdigest()
+            asset = {'source_path': 'public/images/optimized/x.png', 'staged': True,
+                     'media_kind': 'image', 'mime': 'image/png', 'mime_extension_match': True,
+                     'bytes': len(data), 'sha256': digest,
+                     'remote_key': 'v1/image/' + digest + '/x.png',
+                     'remote_url': upload.CDN + '/v1/image/' + digest + '/x.png'}
+            previous_root = upload.ROOT
+            upload.ROOT = repo
+            try:
+                checked = upload._check_asset(asset, staging_root=staging)
+                self.assertEqual(checked['path'], path)
+                with self.assertRaises(ValueError):
+                    upload._check_asset(asset)
+                with self.assertRaises(ValueError):
+                    upload._check_asset(asset, staging_root=repo / 'nested')
+            finally:
+                upload.ROOT = previous_root
+
+    def test_staged_asset_rejects_symlink_escape(self):
+        with tempfile.TemporaryDirectory() as directory, tempfile.TemporaryDirectory() as staging_directory:
+            repo = Path(directory)
+            staging = Path(staging_directory)
+            outside = repo / 'outside.png'
+            outside.write_bytes(b'\x89PNG\r\n\x1a\nsecret')
+            path = staging / 'images' / 'escape.png'
+            path.parent.mkdir(parents=True)
+            try:
+                path.symlink_to(outside)
+            except (OSError, NotImplementedError) as error:
+                self.skipTest('symlink unavailable: ' + str(error))
+            data = outside.read_bytes()
+            digest = hashlib.sha256(data).hexdigest()
+            asset = {'source_path': 'public/images/escape.png', 'staged': True,
+                     'media_kind': 'image', 'mime': 'image/png', 'mime_extension_match': True,
+                     'bytes': len(data), 'sha256': digest,
+                     'remote_key': 'v1/image/' + digest + '/escape.png',
+                     'remote_url': upload.CDN + '/v1/image/' + digest + '/escape.png'}
+            previous_root = upload.ROOT
+            upload.ROOT = repo
+            try:
+                with self.assertRaises(ValueError):
+                    upload._check_asset(asset, staging_root=staging)
+            finally:
+                upload.ROOT = previous_root
+
 
 if __name__ == '__main__':
     unittest.main()

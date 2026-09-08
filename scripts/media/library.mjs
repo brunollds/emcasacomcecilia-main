@@ -1,5 +1,5 @@
 import { createHash } from 'node:crypto';
-import { readFile, readdir, writeFile } from 'node:fs/promises';
+import { lstat, readFile, readdir, realpath, writeFile } from 'node:fs/promises';
 import { spawn } from 'node:child_process';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -352,12 +352,15 @@ async function readMetadata(filePath, buffer, mediaKind, mime) {
   };
 }
 
-async function walkFiles(root, { skipDirectories = new Set() } = {}) {
+async function walkFiles(root, { skipDirectories = new Set(), rejectSymlinks = false } = {}) {
   const result = [];
   async function visit(directory) {
     const entries = (await readdir(directory, { withFileTypes: true })).sort((a, b) => a.name.localeCompare(b.name, 'en'));
     for (const entry of entries) {
       const absolute = path.join(directory, entry.name);
+      if (rejectSymlinks && entry.isSymbolicLink()) {
+        throw new Error(`Staging path must not contain symlinks: ${absolute}`);
+      }
       if (entry.isDirectory()) {
         if (skipDirectories.has(entry.name)) continue;
         await visit(absolute);
@@ -367,6 +370,74 @@ async function walkFiles(root, { skipDirectories = new Set() } = {}) {
   }
   await visit(root);
   return result;
+}
+
+export async function assertExternalStagingRoot(stagingRoot, repoRoot) {
+  if (!path.isAbsolute(stagingRoot)) {
+    throw new Error(`Staging root must be absolute: ${stagingRoot}`);
+  }
+  const root = path.resolve(stagingRoot);
+  const repo = await realpath(repoRoot);
+  const rootStat = await lstat(root).catch((error) => {
+    throw new Error(`Invalid staging root: ${error.message}`);
+  });
+  if (!rootStat.isDirectory() || rootStat.isSymbolicLink()) {
+    throw new Error(`Staging root must be a non-symlink directory: ${root}`);
+  }
+  const resolved = await realpath(root);
+  const relative = path.relative(repo, resolved);
+  if (relative === '' || (!relative.startsWith('..' + path.sep) && relative !== '..' && !path.isAbsolute(relative))) {
+    throw new Error(`Staging root must be outside the repository: ${root}`);
+  }
+  return root;
+}
+
+async function collectAsset(filePath, sourcePath, localUrl, {
+  repoRoot, referenceIndex, origin, staged = false,
+} = {}) {
+  const extension = path.extname(filePath).toLowerCase();
+  const buffer = await readFile(filePath);
+  const mime = detectMimeFromBuffer(buffer);
+  const mimeExtensionMatch = mimeMatchesExtension(extension, mime);
+  const mediaKind = mime.startsWith('image/') ? 'image' : mime.startsWith('video/') ? 'video' : mime.startsWith('audio/') ? 'audio' : null;
+  if (!mediaKind) throw new Error(`Unsupported media MIME ${mime}: ${filePath}`);
+  const references = findReferences({ repoRoot, publicRoot: path.join(repoRoot, 'public'), sourcePath, referenceIndex });
+  const hash = createHash('sha256').update(buffer).digest('hex');
+  const metadata = await readMetadata(filePath, buffer, mediaKind, mime);
+  const originalFilename = path.basename(filePath);
+  const storageFilename = storageFilenameFor(originalFilename, mime);
+  const remoteKey = buildRemoteKey({ mediaKind, sha256: hash, originalFilename: storageFilename });
+  return {
+    source_path: sourcePath,
+    local_url: localUrl,
+    ...(staged ? { staged: true } : {}),
+    media_kind: mediaKind,
+    mime,
+    mime_extension_match: mimeExtensionMatch,
+    ...(mimeExtensionMatch ? {} : { validation_issues: [`mime-extension-mismatch:${extension}:${mime}`] }),
+    bytes: buffer.length,
+    sha256: hash,
+    width: metadata.width,
+    height: metadata.height,
+    duration_seconds: metadata.durationSeconds,
+    codec: metadata.codec,
+    metadata_tool: metadata.metadataTool,
+    ...(metadata.metadataWarning ? { metadata_warning: metadata.metadataWarning } : {}),
+    metadata_pending: metadata.metadataPending,
+    original_filename: originalFilename,
+    storage_filename: storageFilename,
+    status: 'candidate',
+    reference_status: references.length > 0 ? 'referenced' : 'unknown',
+    draft_owners: [...new Set(references.filter((reference) => reference.file.endsWith('.json') && reference.authority === 'source' && referenceIndex.find((entry) => entry.file === reference.file)?.draftOwner).map((reference) => reference.file))].sort((a, b) => a.localeCompare(b, 'en')),
+    owners: [...new Set(references.map((reference) => reference.file))].sort((a, b) => a.localeCompare(b, 'en')),
+    references,
+    remote_key: remoteKey,
+    remote_url: buildRemoteUrl(origin, remoteKey),
+    uploaded_at: null,
+    verified_at: null,
+    verification_etag_or_digest: null,
+    verification_status: 'unverified',
+  };
 }
 
 async function buildReferenceIndex({ repoRoot, excludedPaths = [] }) {
@@ -418,7 +489,7 @@ function findReferences({ repoRoot, publicRoot, sourcePath, referenceIndex }) {
   return references.sort((a, b) => a.file.localeCompare(b.file, 'en') || a.line - b.line || a.column - b.column || a.literal.localeCompare(b.literal, 'en'));
 }
 
-export async function collectInventory({ publicRoot, repoRoot, origin = DEFAULT_ORIGIN, manifestPath } = {}) {
+export async function collectInventory({ publicRoot, repoRoot, origin = DEFAULT_ORIGIN, manifestPath, stagingRoot } = {}) {
   const resolvedPublicRoot = path.resolve(publicRoot ?? path.join(process.cwd(), 'public'));
   const resolvedRepoRoot = path.resolve(repoRoot ?? process.cwd());
   const relativePublicRoot = toPosix(path.relative(resolvedRepoRoot, resolvedPublicRoot));
@@ -430,50 +501,31 @@ export async function collectInventory({ publicRoot, repoRoot, origin = DEFAULT_
   for (const filePath of await walkFiles(resolvedPublicRoot)) {
     const extension = path.extname(filePath).toLowerCase();
     if (!MEDIA_EXTENSIONS.has(extension)) continue;
-    const buffer = await readFile(filePath);
-    const mime = detectMimeFromBuffer(buffer);
-    const mimeExtensionMatch = mimeMatchesExtension(extension, mime);
-    const mediaKind = mime.startsWith('image/') ? 'image' : mime.startsWith('video/') ? 'video' : mime.startsWith('audio/') ? 'audio' : null;
-    if (!mediaKind) throw new Error(`Unsupported media MIME ${mime}: ${filePath}`);
     const sourcePath = toPosix(path.relative(resolvedRepoRoot, filePath));
-    const references = findReferences({ repoRoot: resolvedRepoRoot, publicRoot: resolvedPublicRoot, sourcePath, referenceIndex });
-    const hash = createHash('sha256').update(buffer).digest('hex');
-    const metadata = await readMetadata(filePath, buffer, mediaKind, mime);
-    const originalFilename = path.basename(filePath);
-    const storageFilename = storageFilenameFor(originalFilename, mime);
-    const remoteKey = buildRemoteKey({ mediaKind, sha256: hash, originalFilename: storageFilename });
-    assets.push({
-      source_path: sourcePath,
-      local_url: `/${toPosix(path.relative(resolvedPublicRoot, filePath))}`,
-      media_kind: mediaKind,
-      mime,
-      mime_extension_match: mimeExtensionMatch,
-      ...(mimeExtensionMatch ? {} : { validation_issues: [`mime-extension-mismatch:${extension}:${mime}`] }),
-      bytes: buffer.length,
-      sha256: hash,
-      width: metadata.width,
-      height: metadata.height,
-      duration_seconds: metadata.durationSeconds,
-      codec: metadata.codec,
-      metadata_tool: metadata.metadataTool,
-      ...(metadata.metadataWarning ? { metadata_warning: metadata.metadataWarning } : {}),
-      metadata_pending: metadata.metadataPending,
-      original_filename: originalFilename,
-      storage_filename: storageFilename,
-      status: 'candidate',
-      reference_status: references.length > 0 ? 'referenced' : 'unknown',
-      draft_owners: [...new Set(references.filter((reference) => reference.file.endsWith('.json') && reference.authority === 'source' && referenceIndex.find((entry) => entry.file === reference.file)?.draftOwner).map((reference) => reference.file))].sort((a, b) => a.localeCompare(b, 'en')),
-      owners: [...new Set(references.map((reference) => reference.file))].sort((a, b) => a.localeCompare(b, 'en')),
-      references,
-      remote_key: remoteKey,
-      remote_url: buildRemoteUrl(normalizedOrigin, remoteKey),
-      uploaded_at: null,
-      verified_at: null,
-      verification_etag_or_digest: null,
-      verification_status: 'unverified',
-    });
+    assets.push(await collectAsset(filePath, sourcePath, `/${toPosix(path.relative(resolvedPublicRoot, filePath))}`, { repoRoot: resolvedRepoRoot, referenceIndex, origin: normalizedOrigin }));
+  }
+  if (stagingRoot != null) {
+    const resolvedStagingRoot = await assertExternalStagingRoot(stagingRoot, resolvedRepoRoot);
+    for (const filePath of await walkFiles(resolvedStagingRoot, { rejectSymlinks: true })) {
+      const relative = toPosix(path.relative(resolvedStagingRoot, filePath));
+      if (!/^(images|videos)\//.test(relative)) continue;
+      const sourcePath = `public/${relative}`;
+      const staged = await collectAsset(filePath, sourcePath, `/${relative}`, { repoRoot: resolvedRepoRoot, referenceIndex, origin: normalizedOrigin, staged: true });
+      const retained = assets.find((asset) => asset.source_path === sourcePath);
+      if (retained) {
+        if (retained.sha256 !== staged.sha256 || retained.bytes !== staged.bytes || retained.mime !== staged.mime) {
+          throw new Error(`Staging/retained original mismatch: ${sourcePath}`);
+        }
+        retained.staged = true;
+      } else assets.push(staged);
+    }
   }
   assets.sort((a, b) => a.source_path.localeCompare(b.source_path, 'en'));
+  const sourcePaths = new Set();
+  for (const asset of assets) {
+    if (sourcePaths.has(asset.source_path)) throw new Error(`Duplicate logical source_path: ${asset.source_path}`);
+    sourcePaths.add(asset.source_path);
+  }
   assertManifestNoCollisions(assets);
   return {
     manifest_version: MANIFEST_VERSION,
@@ -504,6 +556,7 @@ const INVENTORY_IDENTITY_FIELDS = [
   'mime',
   'remote_key',
   'remote_url',
+  'staged',
 ];
 const INVENTORY_EVIDENCE_FIELDS = [
   'uploaded_at',
@@ -529,18 +582,29 @@ export function mergeInventory(previous, current) {
     previousBySource.set(asset.source_path, asset);
   }
 
+  const mergedAssets = current.assets.map((asset) => {
+      const old = previousBySource.get(asset.source_path);
+      // staged records keep provenance after their verified bytes are retained in Git.
+      if (old?.staged && !asset.staged) asset = { ...asset, staged: true };
+    if (old?.staged && (!asset.staged || !INVENTORY_IDENTITY_FIELDS.every((field) => old[field] === asset[field]))) {
+      throw new Error(`Cannot merge: staged asset identity changed; use a new filename: ${asset.source_path}`);
+    }
+    if (!old || !INVENTORY_IDENTITY_FIELDS.every((field) => old[field] === asset[field])) return asset;
+    return {
+      ...asset,
+      ...Object.fromEntries(INVENTORY_EVIDENCE_FIELDS
+        .filter((field) => Object.prototype.hasOwnProperty.call(old, field))
+        .map((field) => [field, old[field]])),
+    };
+  });
+  const currentSources = new Set(current.assets.map((asset) => asset.source_path));
+  for (const asset of previous.assets) {
+    if (!currentSources.has(asset.source_path)) mergedAssets.push(asset);
+  }
+  mergedAssets.sort((a, b) => a.source_path.localeCompare(b.source_path, 'en'));
   return {
     ...current,
-    assets: current.assets.map((asset) => {
-      const old = previousBySource.get(asset.source_path);
-      if (!old || !INVENTORY_IDENTITY_FIELDS.every((field) => old[field] === asset[field])) return asset;
-      return {
-        ...asset,
-        ...Object.fromEntries(INVENTORY_EVIDENCE_FIELDS
-          .filter((field) => Object.prototype.hasOwnProperty.call(old, field))
-          .map((field) => [field, old[field]])),
-      };
-    }),
+    assets: mergedAssets,
   };
 }
 

@@ -23,8 +23,11 @@ nao reintroduzir immutable sem testar 200, 206 e 416 no servidor real.
 
 1. Comprimir antes de inventariar, preservando proporcao, alpha e legibilidade.
    Extensao deve corresponder ao MIME real; renomear JPEG nao o converte em WebP.
-2. Guardar a midia otimizada em public/images ou public/videos. Para revisar
-   uma midia ja ativada, usar novo nome versionado.
+2. Midia NOVA pode começar em staging externo ao repositorio, organizado em images/
+   ou videos/, mas seus bytes verificados devem ser retidos no caminho canonico de
+   public/ e versionados no Git. `staged: true` registra a proveniencia do fluxo;
+   nao significa ausencia do original. Para revisar uma midia ja ativada, usar
+   novo nome versionado.
 3. Manter caminhos locais nos JSONs, como /images/reviews/marca/hero-v2.webp.
    Nao reescrever artigos com URLs CDN nem alterar chaves de localVideoMetadata
    ou videoPages. O resolvedor aplica o mapa exato somente na entrega.
@@ -41,27 +44,35 @@ por arquivo, nao apenas na pagina que motivou o upload.
 ## Rotina de nova imagem ou video
 
 Um operador por vez no worktree compartilhado. Nao alterar manifesto/mapa em
-paralelo. Substituir o caminho de exemplo abaixo pelo arquivo real.
+paralelo. Substituir os exemplos abaixo pelo diretorio e arquivo reais. O staging
+fica fora do repositorio; nele, o arquivo e images/reviews/marca/hero-v2.webp.
+   public/images/reviews/marca/hero-v2.webp e o caminho canonico que sera retido no Git;
+   staging e somente a origem operacional opcional.
+Nao registrar caminhos absolutos da maquina nos documentos ou manifestos versionados.
 
 ### 1. Inventario incremental
 
 ```powershell
-node scripts/media/inventory.mjs --merge --stdout
-node scripts/media/inventory.mjs --merge --out data/media-manifest.json
+$staging = 'C:\Users\Bruno\Downloads\Midias-Editorial'
+node scripts/media/inventory.mjs --merge --staging-root "$staging" --stdout
+node scripts/media/inventory.mjs --merge --staging-root "$staging" --out data/media-manifest.json
 ```
 
 Preservar provas apenas para identidades intactas. Novos/alterados exigem nova
-verificacao. Sem --merge, o inventario reinicia estados; nao usar essa forma na
+verificacao. Se o original staged ja foi retido em public/, o merge por scan
+publico preserva `staged: true` e as provas quando a identidade permanece intacta.
+Sem --merge, o inventario reinicia estados; nao usar essa forma na
 rotina editorial. Nunca editar verification_status manualmente.
 
 ### 2. Preflight e upload
 
 ```powershell
-python scripts/media/upload-ftps.py --asset public/images/reviews/marca/hero-v2.webp
-python scripts/media/upload-ftps.py --asset public/images/reviews/marca/hero-v2.webp --execute --report data/media-upload-hero-v2.json
+python scripts/media/upload-ftps.py --staging-root "$staging" --asset public/images/reviews/marca/hero-v2.webp
+python scripts/media/upload-ftps.py --staging-root "$staging" --asset public/images/reviews/marca/hero-v2.webp --execute --report "$staging/upload-hero-v2.json"
 ```
 
-O primeiro comando nao envia. O segundo escreve somente no addon. Repetir
+Se a midia ja estiver em public/, omitir --staging-root; o uploader usa a copia
+publica. O primeiro comando nao envia. O segundo escreve somente no addon. Repetir
 --asset para um lote pequeno. Chaves usam SHA-256; bytes divergentes nao podem
 sobrescrever a mesma chave. Em falha, inspecionar recibo e lock: nao repetir
 cegamente nem remover lock automaticamente.
@@ -79,15 +90,28 @@ essa verificacao HTTPS.
 ### 4. Acrescentar ao mapa
 
 ```powershell
+node scripts/media/retain-original.mjs --staging-root "$staging" --asset public/images/reviews/marca/hero-v2.webp
+node scripts/media/retain-original.mjs --staging-root "$staging" --asset public/images/reviews/marca/hero-v2.webp --write
 node scripts/media/prepare-delivery.mjs --append --asset public/images/reviews/marca/hero-v2.webp
 node scripts/media/prepare-delivery.mjs --append --asset public/images/reviews/marca/hero-v2.webp --write
+node scripts/media/phase5-export.mjs --write
+node scripts/media/phase5-export.mjs --check
 ```
 
-Primeiro dry-run, depois escrita em src/lib/generated/media-delivery-map.json.
+Depois da verificacao HTTPS, retain-original faz dry-run por padrao; com --write
+copia os bytes exatos verificados do staging para o caminho canonico em public/,
+somente se o destino nao existir. Nunca sobrescreve. Se a midia ja estiver em
+public/, essa etapa pode ser omitida. Em seguida, executar primeiro o dry-run do
+prepare-delivery e so depois escrever em src/lib/generated/media-delivery-map.json.
 Append exige mapa anterior valido, preserva entradas e rejeita remapeamento
 conflitante. Nao usar substituicao de mapa para adicionar uma midia.
 Candidatos nao selecionados nao devem bloquear um artigo independente.
 Nao adivinhar URLs por prefixo nem ativar pastas inteiras automaticamente.
+O export e incremental: preserva identidades ja versionadas e valida cada adicao,
+sem editar contagens no codigo. Antes do commit, cada asset mapeado precisa ter o
+original local exato. Depois do commit, o preparo do deploy exige que o blob no
+SHA alvo corresponda ao manifesto. A allowlist export-ignore exclui esses bytes
+somente do archive; nao substitui a retencao no Git.
 
 ### 5. Gates e release
 
@@ -102,13 +126,28 @@ node scripts/media/test-review-delivery-html.mjs
 ```
 
 Conferir artigo, hero, inline, ampliacao, cards e mobile. Listagens cliente
-precisam de verificacao apos hidratacao. Validadores continuam usando arquivos
-locais na verificacao pre-release. No build do pacote, o validador de video
-aceita ausencia local somente com prova verificada coerente com manifesto/mapa.
+precisam de verificacao apos hidratacao. Cada asset mapeado exige prova verificada
+e original local; ausencia bloqueia export. O preparo do deploy inspeciona o
+archive extraido e exige tambem que o blob do SHA alvo corresponda ao manifesto.
+Bytes novos fora do mapa tambem bloqueiam: scripts/media/legacy-archive-media.json
+preserva apenas caminhos/hashes legados anteriores a este fluxo. Nao ampliar essa
+excecao para artigos novos.
 
 Antes de commitar: reconciliar arvore compartilhada e fazer staging por caminhos
-explicitos, nunca git add . ou git add -A. Incluir somente o escopo revisado,
-manifesto/mapa e evidencias pertinentes, sem credenciais.
+explicitos, nunca git add . ou git add -A. Incluir o original retido junto com
+manifesto/mapa, .gitattributes, allowlist e evidencias pertinentes, sem credenciais.
+Exemplo: `git add -- public/images/... data/media-manifest.json src/lib/generated/media-delivery-map.json .gitattributes`.
+Depois do staging explicito, executar `node scripts/media/candidate-proof.mjs`. Esse gate
+valida a arvore exata do indice Git, nao o working tree: bloqueia original sem
+manifesto/mapa, allowlist ausente, bytes novos nao mapeados e blob divergente.
+O clone precisa ter o hook versionado ativo; conferir com
+`git config --local --get core.hooksPath` e executar `node scripts/git/install-hooks.mjs` se o
+resultado nao for `.githooks`. O hook chama o mesmo gate automaticamente quando o
+staging toca no contrato de midia. Com dependencias limpas, os validadores sao
+importados da propria arvore staged extraida, nunca do working tree. Se esses
+validadores tiverem mudancas locais fora do staging, o hook avisa e restringe a
+checagem ao delta staged; a consistencia global roda no CI sobre uma arvore unica.
+Nao executar commit, upload ou build automaticamente.
 Publicar apenas com autorizacao do Bruno, seguindo DEPLOY-GUIDE.md.
 
 Depois do deploy real, conferir identidade do release, conteudo e midias publicas,
@@ -126,19 +165,20 @@ primeiro audio; nao prometer suporte pronto nem improvisar uma URL.
 
 ## Backup e exclusao
 
-Manter originais inclusive para artigos novos ate confirmar backup recuperavel.
-CDN nao equivale a backup historico independente. Copia na mesma maquina nao
-comprova recuperacao remota.
+Manter os arquivos novos no staging externo como copia de recuperacao ate confirmar
+backup recuperavel. A copia canonica retida em public/ e Git-backed; o staging
+externo e uma copia operacional adicional. CDN nao equivale a backup historico independente;
+manifesto/hash nao recupera bytes e copia na mesma maquina nao comprova recuperacao remota.
 
 As 304 exclusoes exatas foram publicadas sob decisao de Bruno de nao esperar o
 backup nativo; Claude nao dispensou esse gate. Recuperacao dos originais pelo
 Git e build/URLs sem os arquivos no pacote foram testados. Isso nao autoriza
 git rm nem exclusoes por diretorio.
 
-O gate `node scripts/media/phase5-export.mjs --check` esta congelado em 304
-entradas. Uma nova referencia via --append NAO atualiza export-ignore e faz esse
-gate exigir revisao do contrato (contagens e bytes), da lista exata e novo ensaio
-de pacote. Nao reduzir validacoes para passar nem prometer exclusao automatica.
+O gate `node scripts/media/phase5-export.mjs --check` nao tem teto de contagem:
+valida um superconjunto das identidades versionadas e as provas de cada arquivo.
+Rodar --write no mesmo lote do --append, antes do commit, e --check em seguida.
+Nao remover entradas anteriores nem mudar seu hash; revisoes usam novo nome.
 Reverter somente export-ignore tambem nao desativa o mapa de entrega CDN.
 
 Deploy gerenciado e archive atestado permanecem inalterados: aviso em

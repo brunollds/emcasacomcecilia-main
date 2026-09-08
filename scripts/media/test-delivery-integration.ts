@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import { readFileSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { resolveMediaUrl } from '../../src/lib/resolve-media.mjs';
 import { buildReviewTemplateProps } from '../../src/lib/review-template-props';
@@ -7,6 +7,7 @@ import { buildRecipeTemplateProps } from '../../src/lib/recipe-template-props';
 import { localVideoMetadata, getPrimaryLocalVideoMeta } from '../../src/lib/video-metadata';
 import { buildLocalVideoObject } from '../../src/lib/video-schema';
 import sitemap from '../../src/app/sitemap';
+import { validateMediaAssetAvailability } from './video-asset-proof.mjs';
 
 const map = JSON.parse(readFileSync('src/lib/generated/media-delivery-map.json', 'utf8'));
 const manifest = JSON.parse(readFileSync('data/media-manifest.json', 'utf8'));
@@ -51,7 +52,11 @@ for (const [local, remote] of Object.entries(map)) {
   const asset = manifest.assets.find((entry: { local_url: string }) => entry.local_url === local);
   assert.equal(asset?.verification_status, 'verified');
   assert.equal(asset.remote_url, remote);
-  assert.equal(createHash('sha256').update(readFileSync(asset.source_path)).digest('hex'), asset.sha256);
+  const proof = validateMediaAssetAvailability({ assetUrl: local, repoRoot: process.cwd(), manifest, map, requireRemote: true });
+  assert.ok(proof.ok, proof.reason);
+  if (existsSync(asset.source_path)) {
+    assert.equal(createHash('sha256').update(readFileSync(asset.source_path)).digest('hex'), asset.sha256);
+  }
   assert.equal(resolveMediaUrl(local), remote);
 }
 

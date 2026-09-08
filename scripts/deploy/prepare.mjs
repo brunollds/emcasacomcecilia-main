@@ -11,6 +11,7 @@ import { fileURLToPath } from 'node:url';
 import { checkArchiveSize, DEFAULT_MAX_BYTES, DEFAULT_WARNING_BYTES } from './check-archive-size.mjs';
 import { assertDeployPreflight, assertProductionSha } from './preflight.mjs';
 import { parseReleaseIdentity } from '../content/release-identity.mjs';
+import { assertArchiveMedia, assertGitMediaRecovery, assertGitMediaTransition } from '../media/archive-proof.mjs';
 
 const args = new Set(process.argv.slice(2));
 
@@ -49,6 +50,7 @@ export function createAttestedArchive({
   deployUuid,
   archivePath,
   maxBytes,
+  baselineSha,
   repoDir = process.cwd(),
 }) {
   const identity = parseReleaseIdentity(JSON.stringify({
@@ -66,6 +68,7 @@ export function createAttestedArchive({
   mkdirSync(staging);
 
   try {
+    if (baselineSha) assertGitMediaTransition(repoDir, baselineSha, targetSha);
     execFileSync('git', [
       'archive',
       '--format=tar',
@@ -74,6 +77,8 @@ export function createAttestedArchive({
       targetSha,
     ], { cwd: repoDir, stdio: 'inherit' });
     execFileSync('tar', ['-xf', sourceTar, '-C', staging], { stdio: 'inherit' });
+    assertArchiveMedia(path.join(staging, 'emcasacomcecilia'));
+    assertGitMediaRecovery(path.join(staging, 'emcasacomcecilia'), repoDir, targetSha);
     writeFileSync(
       path.join(staging, 'emcasacomcecilia', 'release-meta.json'),
       `${JSON.stringify(identity)}\n`,
@@ -135,6 +140,7 @@ async function main() {
   const deployUuid = randomUUID();
   const { archive, size, sha256 } = createAttestedArchive({
     targetSha: after.headSha,
+    baselineSha: deployedSha,
     deployUuid,
   });
 

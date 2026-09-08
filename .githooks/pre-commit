@@ -1,0 +1,12 @@
+#!/bin/sh
+set -eu
+
+if git diff --cached --name-only | grep -Eq '^(public/(images|videos)/|data/media-manifest\.json$|src/lib/generated/media-delivery-map\.json$|scripts/media/(legacy-archive-media|local-fallback-media)\.json$|\.gitattributes$)'; then
+  dirty_dependencies="$({ git diff --name-only -- scripts/media .gitattributes data/media-manifest.json src/lib/generated/media-delivery-map.json; git ls-files --others --exclude-standard -- scripts/media .gitattributes data/media-manifest.json src/lib/generated/media-delivery-map.json; } | sed '/^$/d')"
+  if [ -n "$dirty_dependencies" ]; then
+    echo "WARNING: media validators have unstaged/untracked changes; running staged delta proof only." >&2
+    node scripts/media/candidate-proof.mjs --delta
+  else
+    node scripts/media/candidate-proof.mjs
+  fi
+fi

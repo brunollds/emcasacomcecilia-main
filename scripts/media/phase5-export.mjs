@@ -1,16 +1,15 @@
 import { createHash } from 'node:crypto';
-import { mkdtemp, readFile, rmdir } from 'node:fs/promises';
-import os from 'node:os';
+import { readFile } from 'node:fs/promises';
+import { execFile } from 'node:child_process';
+import { promisify } from 'node:util';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { validateMediaAssetAvailability } from './video-asset-proof.mjs';
+import { createMediaResolver } from '../../src/lib/media-delivery.mjs';
 
 const SCRIPT_DIR = path.dirname(fileURLToPath(import.meta.url));
 const DEFAULT_REPO_ROOT = path.resolve(SCRIPT_DIR, '../..');
-const EXPECTED_ASSETS = 304;
-const EXPECTED_IMAGES = 294;
-const EXPECTED_VIDEOS = 10;
-const EXPECTED_BYTES = 44729059;
+const execFileAsync = promisify(execFile);
 const START_MARKER = '# BEGIN MANAGED PHASE5 CDN EXPORT ALLOWLIST';
 const END_MARKER = '# END MANAGED PHASE5 CDN EXPORT ALLOWLIST';
 
@@ -52,13 +51,16 @@ function managedBlock(localUrls) {
     START_MARKER,
     '# Exact CDN-verified paths only. Originals stay in the repository and on disk.',
     '# Buildproof files (data/media-manifest.json and scripts/media/*) remain included.',
-    ...localUrls.map((localUrl) => `${escapeGitAttributesPath(`public${localUrl}`)} export-ignore`),
+    ...localUrls.map((localUrl) => `${escapeGitAttributesPath(`public${localUrl}`)} -text export-ignore`),
     END_MARKER,
   ];
   return lines.join('\n');
 }
 
 function replaceManagedBlock(existing, block) {
+  const starts = existing.match(new RegExp(START_MARKER, 'g')) ?? [];
+  const ends = existing.match(new RegExp(END_MARKER, 'g')) ?? [];
+  if (starts.length > 1 || ends.length > 1) fail('Duplicate Phase 5 managed markers in .gitattributes');
   const start = existing.indexOf(START_MARKER);
   const end = existing.indexOf(END_MARKER);
   if (start < 0 && end < 0) return `${existing.trimEnd()}\n\n${block}\n`;
@@ -69,6 +71,39 @@ function replaceManagedBlock(existing, block) {
 
 async function readJson(repoRoot, relativePath) {
   return JSON.parse(await readFile(path.join(repoRoot, relativePath), 'utf8'));
+}
+
+function gitPath(relativePath) {
+  if (typeof relativePath !== 'string' || path.isAbsolute(relativePath) || relativePath.includes('\\')
+    || relativePath.split('/').some((part) => part === '..' || part === '.')) {
+    fail(`unsafe Git path: ${relativePath}`);
+  }
+  return relativePath;
+}
+
+async function gitHeadSha(repoRoot) {
+  try {
+    const { stdout } = await execFileAsync('git', ['rev-parse', '--verify', 'HEAD^{commit}'], {
+      cwd: repoRoot,
+      encoding: 'utf8',
+    });
+    return stdout.trim();
+  } catch (error) {
+    fail(`cannot resolve Git HEAD: ${error.message}`);
+  }
+}
+
+async function readHeadJson(repoRoot, headSha, relativePath) {
+  try {
+    const { stdout } = await execFileAsync('git', ['show', `${headSha}:${gitPath(relativePath)}`], {
+      cwd: repoRoot,
+      encoding: 'utf8',
+      maxBuffer: 64 * 1024 * 1024,
+    });
+    return JSON.parse(stdout);
+  } catch (error) {
+    fail(`cannot read Git HEAD baseline ${relativePath}: ${error.message}`);
+  }
 }
 
 async function hashFile(filePath) {
@@ -88,12 +123,75 @@ function assertAssetIdentity(asset, localUrl, remoteUrl) {
   if (!/^[a-f0-9]{64}$/.test(asset.sha256)) fail(`invalid manifest SHA-256: ${localUrl}`);
 }
 
-export async function validatePhase5({ repoRoot = DEFAULT_REPO_ROOT, manifestPath = 'data/media-manifest.json', mapPath = 'src/lib/generated/media-delivery-map.json', attributesPath = '.gitattributes', manifestValue, mapValue } = {}) {
+function assertMapShape(map) {
+  if (!map || Array.isArray(map) || typeof map !== 'object') fail('delivery map must be an object');
+  for (const [localUrl, remoteUrl] of Object.entries(map)) {
+    if (typeof localUrl !== 'string' || typeof remoteUrl !== 'string') fail('delivery map contains a non-string entry');
+    if (!/^\/(?:images|videos)\//.test(localUrl) || /[\\?#]|%2f|%5c/i.test(localUrl)) {
+      fail(`unsafe mapped local path: ${localUrl}`);
+    }
+  }
+}
+
+function assertManifestShape(manifest) {
+  if (!manifest || manifest.manifest_version !== 1 || !Array.isArray(manifest.assets)) {
+    fail('manifest must be version 1 with an assets array');
+  }
+  const seen = new Set();
+  for (const asset of manifest.assets) {
+    if (!asset || typeof asset.local_url !== 'string') fail('manifest contains an invalid asset');
+    if (seen.has(asset.local_url)) fail(`manifest contains duplicate local_url: ${asset.local_url}`);
+    seen.add(asset.local_url);
+  }
+}
+
+function assertMonotonicBaseline(currentMap, currentManifest, baselineMap, baselineManifest, fallback) {
+  const baselineAssets = new Map((baselineManifest.assets ?? []).map((asset) => [asset.local_url, asset]));
+  const currentAssets = new Map((currentManifest.assets ?? []).map((asset) => [asset.local_url, asset]));
+  for (const [localUrl, baselineRemoteUrl] of Object.entries(baselineMap)) {
+    const baselineAsset = baselineAssets.get(localUrl);
+    const currentAsset = currentAssets.get(localUrl);
+    if (!baselineAsset || !currentAsset) fail(`previously exported manifest entry removed: ${localUrl}`);
+    if (!(localUrl in currentMap)) {
+      if (baselineAsset.sha256 === currentAsset.sha256 && fallback[currentAsset.source_path] === currentAsset.sha256) continue;
+      fail(`previously exported entry removed: ${localUrl}`);
+    }
+    if (currentMap[localUrl] !== baselineRemoteUrl) fail(`previously exported mapping changed: ${localUrl}`);
+    if (currentAsset.sha256 !== baselineAsset.sha256) fail(`previously exported hash changed: ${localUrl}`);
+    if (currentAsset.remote_url !== baselineAsset.remote_url) fail(`previously exported identity changed: ${localUrl}`);
+    if (currentAsset.bytes !== baselineAsset.bytes) fail(`previously exported byte count changed: ${localUrl}`);
+    if (currentAsset.mime !== baselineAsset.mime) fail(`previously exported MIME changed: ${localUrl}`);
+    if (currentAsset.media_kind !== baselineAsset.media_kind) fail(`previously exported media kind changed: ${localUrl}`);
+  }
+}
+
+export async function validatePhase5({ repoRoot = DEFAULT_REPO_ROOT, manifestPath = 'data/media-manifest.json', mapPath = 'src/lib/generated/media-delivery-map.json', attributesPath = '.gitattributes', fallbackPath = 'scripts/media/local-fallback-media.json', manifestValue, mapValue, attributesValue, fallbackValue } = {}) {
   const resolvedRoot = path.resolve(repoRoot);
   const manifest = manifestValue ?? await readJson(resolvedRoot, manifestPath);
   const map = mapValue ?? await readJson(resolvedRoot, mapPath);
+  const headSha = await gitHeadSha(resolvedRoot);
+  const baselineManifest = await readHeadJson(resolvedRoot, headSha, manifestPath);
+  const baselineMap = await readHeadJson(resolvedRoot, headSha, mapPath);
+  let fallback = fallbackValue;
+  if (fallback === undefined) {
+    try {
+      fallback = JSON.parse(await readFile(path.join(resolvedRoot, fallbackPath), 'utf8'));
+    } catch (error) {
+      if (error.code !== 'ENOENT') fail(`cannot read local fallback policy: ${error.message}`);
+      fallback = {};
+    }
+  }
+  assertManifestShape(manifest);
+  assertManifestShape(baselineManifest);
+  assertMapShape(map);
+  assertMapShape(baselineMap);
+  try {
+    createMediaResolver(map);
+  } catch (error) {
+    fail(`delivery map is invalid: ${error.message}`);
+  }
+  assertMonotonicBaseline(map, manifest, baselineMap, baselineManifest, fallback);
   const mapEntries = Object.entries(map);
-  if (mapEntries.length !== EXPECTED_ASSETS) fail(`expected ${EXPECTED_ASSETS} mapped assets, got ${mapEntries.length}`);
   if (new Set(mapEntries.map(([localUrl]) => localUrl)).size !== mapEntries.length) fail('delivery map contains duplicate local URLs');
 
   const manifestByLocal = new Map();
@@ -102,23 +200,24 @@ export async function validatePhase5({ repoRoot = DEFAULT_REPO_ROOT, manifestPat
     manifestByLocal.set(asset.local_url, asset);
   }
 
-  const missingRoot = await createMissingRoot();
   const checked = [];
-  try {
-    for (const [localUrl, remoteUrl] of mapEntries.sort(([a], [b]) => a.localeCompare(b, 'en'))) {
+  for (const [localUrl, remoteUrl] of mapEntries.sort(([a], [b]) => a.localeCompare(b, 'en'))) {
       if (!/^\/(images|videos)\//.test(localUrl)) fail(`mapped asset outside public media scope: ${localUrl}`);
       const asset = manifestByLocal.get(localUrl);
       assertAssetIdentity(asset, localUrl, remoteUrl);
-      const proof = validateMediaAssetAvailability({ assetUrl: localUrl, repoRoot: missingRoot, manifest, map });
+      const proof = validateMediaAssetAvailability({ assetUrl: localUrl, repoRoot: resolvedRoot, manifest, map, requireRemote: true });
       if (!proof.ok || proof.mode !== 'cdn') fail(`CDN proof failed: ${localUrl}${proof.reason ? ` (${proof.reason})` : ''}`);
       const localPath = path.join(resolvedRoot, asset.source_path);
-      const local = await hashFile(localPath).catch((error) => fail(`local asset unreadable: ${localUrl} (${error.message})`));
-      if (local.bytes !== asset.bytes) fail(`local byte count mismatch: ${localUrl}`);
-      if (local.sha256 !== asset.sha256) fail(`local SHA-256 mismatch: ${localUrl}`);
-      checked.push({ localUrl, sourcePath: asset.source_path, mediaKind: asset.media_kind, bytes: local.bytes, sha256: local.sha256, remoteUrl });
-    }
-  } finally {
-    await removeMissingRoot(missingRoot);
+      let local = null;
+      try {
+        local = await hashFile(localPath);
+      } catch (error) {
+        if (error.code !== 'ENOENT') fail(`local asset unreadable: ${localUrl} (${error.message})`);
+      }
+      if (!local) fail(`Git recovery original missing: ${localUrl}; retain the verified bytes before export`);
+      if (local && local.bytes !== asset.bytes) fail(`local byte count mismatch: ${localUrl}`);
+      if (local && local.sha256 !== asset.sha256) fail(`local SHA-256 mismatch: ${localUrl}`);
+      checked.push({ localUrl, sourcePath: asset.source_path, mediaKind: asset.media_kind, bytes: asset.bytes, sha256: asset.sha256, remoteUrl, localPresent: Boolean(local) });
   }
 
   const counts = {
@@ -127,24 +226,12 @@ export async function validatePhase5({ repoRoot = DEFAULT_REPO_ROOT, manifestPat
     videos: checked.filter((entry) => entry.mediaKind === 'video').length,
     rawBytes: checked.reduce((total, entry) => total + entry.bytes, 0),
   };
-  if (counts.images !== EXPECTED_IMAGES || counts.videos !== EXPECTED_VIDEOS || counts.rawBytes !== EXPECTED_BYTES) {
-    fail(`allowlist totals changed: ${JSON.stringify(counts)}`);
-  }
-
-  const existing = await readFile(path.join(resolvedRoot, attributesPath), 'utf8');
+  const existing = attributesValue ?? await readFile(path.join(resolvedRoot, attributesPath), 'utf8');
   assertNoBroadPublicRules(existing);
   const block = managedBlock(checked.map((entry) => entry.localUrl));
   const expectedAttributes = replaceManagedBlock(existing, block);
   if (attributesPath === '.gitattributes' && expectedAttributes.includes('public/** export-ignore')) fail('wildcard public export is forbidden');
   return { manifest, map, checked, counts, block, existingAttributes: existing, expectedAttributes, attributesChanged: existing !== expectedAttributes };
-}
-
-async function createMissingRoot() {
-  return mkdtemp(path.join(os.tmpdir(), 'phase5-cdn-proof-'));
-}
-
-async function removeMissingRoot(root) {
-  await rmdir(root);
 }
 
 function assertNoBroadPublicRules(attributes) {
@@ -160,7 +247,7 @@ function assertNoBroadPublicRules(attributes) {
 export function formatReport(result) {
   return {
     ok: true,
-    mode: 'local-cdn-export',
+    mode: 'incremental-cdn-export',
     allowlist: result.counts,
     attributesChanged: result.attributesChanged,
     managedBlockLines: result.checked.length,

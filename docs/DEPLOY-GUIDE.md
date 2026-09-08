@@ -36,22 +36,37 @@ excecao antes do backup nativo; Claude nao dispensou o gate. Recuperacao local
 dos 304 originais pelo Git foi testada. Backup/restore nativo permanece pendente.
 O archive atestado desse release ficou em 4.778.762 bytes e a compatibilidade
 legada foi validada em producao. Isso nao autoriza apagar originais.
-Para novas midias, seguir a rotina incremental do guia: inventario com preservacao
-de provas, upload FTPS, verificacao HTTPS e append ao mapa antes dos gates do site.
+Para novas midias, staging externo e opcional: inventario, upload FTPS, verificacao
+HTTPS e `node scripts/media/retain-original.mjs --staging-root ABS --asset public/images/... --write`
+retêm os bytes exatos no caminho canonico de `public/`. Se a copia ja estiver em
+`public/`, o uploader pode rodar sem `--staging-root`. `staged: true` permanece
+como proveniencia mesmo depois da retencao. Versionar o original junto com
+manifesto/mapa e regras exatas; nao tratar `staged` como ausencia do arquivo.
 Antes de preparar um release com essas referencias, executar tambem:
 
 ```powershell
 npx tsx scripts/media/test-delivery-integration.ts
+node scripts/media/phase5-export.mjs --write
+node scripts/media/phase5-export.mjs --check
 ```
 
 Depois do build, conferir `node scripts/media/test-review-delivery-html.mjs` e
 o artigo afetado no navegador. Depois do deploy, verificar midias pela pagina
-publica, sitemap e llms antes do IndexNow. Para a allowlist de 304 arquivos,
-rodar `node scripts/media/phase5-export.mjs --check` antes do preparo. Nao ampliar
-exclusoes por diretorio nem apagar originais. Novas entradas exigem verificacao
-e atualizacao explicita do contrato de exportacao; upload/append nao as exclui
-automaticamente. Ver `plans/2026-09-07-cdn-phase5-authorization.md`. Nao alterar
-`deploy:prepare`, limites 47/49 MB ou o mecanismo gerenciado nesta etapa.
+publica, sitemap e llms antes do IndexNow. A allowlist agora cresce sem contagens
+fixas: --write valida as identidades anteriores e cada adicao; --check exige lista
+exata atualizada. Rodar ambos antes do commit, nunca dentro de um release ja limpo.
+Nao ampliar exclusoes por diretorio nem apagar originais legados. `phase5-export`
+exige original local para todos os assets mapeados; antes do commit, fazer staging
+por caminhos explicitos do original, manifesto/mapa, allowlist e metadados. O
+`deploy:prepare` tambem verifica o conteudo extraido do SHA alvo e exige que cada
+blob Git do target SHA corresponda a bytes/hash do manifesto; blob ausente ou
+divergente bloqueia. Arquivo mapeado incluido no archive ou prova CDN incoerente
+tambem impede gerar o pacote. Limites 47/49 MB e mecanismo gerenciado
+permanecem os mesmos; bytes novos sem mapeamento tambem reprovam. A excecao de
+arquivos legados fica em scripts/media/legacy-archive-media.json (paths/hashes
+anteriores a este fluxo), e nao deve ser ampliada para novas midias.
+Ver `plans/2026-09-07-cdn-phase5-authorization.md` para
+a decisao historica sobre os originais legados e o backup nativo ainda pendente.
 
 ## ⚠️ Regras absolutas
 

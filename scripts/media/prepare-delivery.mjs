@@ -15,6 +15,7 @@ import {
   writeJsonAtomically,
 } from './library.mjs';
 import { createMediaResolver } from '../../src/lib/media-delivery.mjs';
+import { validateMediaAssetAvailability } from './video-asset-proof.mjs';
 
 const DEFAULT_MANIFEST = 'data/media-manifest.json';
 const DEFAULT_OUTPUT = 'src/lib/generated/media-delivery-map.json';
@@ -79,7 +80,17 @@ async function validateAssetLocal(asset, repoRoot) {
     if (asset.remote_key !== remoteKey || asset.remote_url !== remoteUrl) {
       fail(`Remote identity mismatch: ${asset.source_path}`);
     }
-    const bytes = await readFile(readLocalAssetPath(repoRoot, asset.source_path));
+    const proof = validateMediaAssetAvailability({
+      assetUrl: asset.local_url, repoRoot, manifest: { assets: [asset] },
+      map: { [asset.local_url]: asset.remote_url }, requireRemote: true,
+    });
+    if (!proof.ok) fail(`CDN proof failed: ${proof.reason}`);
+    // Remote verification can precede retention of the recovery original in Git.
+    const bytes = await readFile(readLocalAssetPath(repoRoot, asset.source_path)).catch((error) => {
+      if (error.code === 'ENOENT') return null;
+      throw error;
+    });
+    if (!bytes) return asset.remote_url;
     if (detectMimeFromBuffer(bytes) !== asset.mime) {
       fail(`Local MIME mismatch: ${asset.source_path}`);
     }
@@ -132,6 +143,10 @@ async function readAppendMap(outputPath, manifest, repoRoot) {
 export async function prepareDelivery({ manifest, repoRoot = process.cwd(), assetPaths, outputPath = path.join(repoRoot, DEFAULT_OUTPUT), write = false, append = false }) {
   if (manifest.manifest_version !== 1 || manifest.origin !== DEFAULT_ORIGIN || !Array.isArray(manifest.assets)) {
     fail(`Manifest must be version 1 and use ${DEFAULT_ORIGIN}`);
+  }
+  if (new Set(manifest.assets.map((asset) => asset.local_url)).size !== manifest.assets.length
+    || new Set(manifest.assets.map((asset) => asset.source_path)).size !== manifest.assets.length) {
+    fail('Manifest contains duplicate media identities');
   }
   const scopedCount = append ? null : validateVerifiedScope(manifest);
   const assets = selectedAssets(manifest, assetPaths);

@@ -27,308 +27,317 @@ public/images/reviews/damie-reclame-aqui-hero.jpg export-ignore
 # BEGIN MANAGED PHASE5 CDN EXPORT ALLOWLIST
 # Exact CDN-verified paths only. Originals stay in the repository and on disk.
 # Buildproof files (data/media-manifest.json and scripts/media/*) remain included.
-public/images/about/cecilia/cecilia-6.jpg export-ignore
-public/images/about/cecilia/cecilia-71.jpg export-ignore
-public/images/about/cecilia/cecilia-88.jpg export-ignore
-public/images/about/partners/a3-home-design.jpg export-ignore
-public/images/about/partners/abc-da-construcao.png export-ignore
-public/images/about/partners/belle-house.png export-ignore
-public/images/about/partners/carolina-baby.webp export-ignore
-public/images/about/partners/damie.jpg export-ignore
-public/images/about/partners/dolce-gusto.avif export-ignore
-public/images/about/partners/eos.jpg export-ignore
-public/images/about/partners/i-wanna-sleep.avif export-ignore
-public/images/about/partners/itatiaia.webp export-ignore
-public/images/about/partners/kopenhagen.jpg export-ignore
-public/images/about/partners/laticinios-ubari.jpg export-ignore
-public/images/about/partners/magalu.webp export-ignore
-public/images/about/partners/mollycook.jpg export-ignore
-public/images/about/partners/nutren.png export-ignore
-public/images/about/partners/okoshi.webp export-ignore
-public/images/about/partners/polishop.jpg export-ignore
-public/images/about/partners/promobit.jpg export-ignore
-public/images/about/partners/santos-simoes.webp export-ignore
-public/images/about/partners/shein.webp export-ignore
-public/images/about/partners/shopee.png export-ignore
-public/images/about/partners/tempero-do-anjo.webp export-ignore
-public/images/about/partners/wap.png export-ignore
-public/images/logos/logo-em-casa-com-cecilia.png export-ignore
-public/images/logos/yesstyle.jpg export-ignore
-public/images/photos/BRU-1.jpg export-ignore
-public/images/recipes/air-fryer/batatas-rusticas-crocantes-na-air-fryer.jpg export-ignore
-public/images/recipes/air-fryer/bolo-de-caneca-na-air-fryer.jpg export-ignore
-public/images/recipes/air-fryer/chips-de-batata-doce-na-air-fryer.jpg export-ignore
-public/images/recipes/bolos/bolo-de-banana-caramelizada-com-nozes.jpg export-ignore
-public/images/recipes/bolos/bolo-de-cenoura-com-cobertura-de-chocolate.jpg export-ignore
-public/images/recipes/bolos/bolo-de-chocolate-com-recheio-de-brigadeiro.jpg export-ignore
-public/images/recipes/bolos/bolo-de-fuba-com-erva-doce.jpg export-ignore
-public/images/recipes/bolos/bolo-de-milho-cremoso-com-queijo-minas.jpg export-ignore
-public/images/recipes/carnes/carne.jpg export-ignore
-public/images/recipes/carnes/feijoada.jpg export-ignore
-public/images/recipes/carnes/tacos-de-carne-mexicanos-com-guacamole.jpg export-ignore
-public/images/recipes/doces/brigadeiro-tradicional-brasileiro.jpg export-ignore
-public/images/recipes/frango/frango.jpg export-ignore
-public/images/recipes/massas/macarrao-carbonara-cremoso.jpg export-ignore
-public/images/recipes/massas/macarrao-com-molho-pesto-de-manjericao.jpg export-ignore
-public/images/recipes/massas/pizza-de-calabresa-caseira.jpg export-ignore
-public/images/recipes/massas/talharim-caseiro-com-molho-de-tomate-fresco.jpg export-ignore
-public/images/recipes/paes/pao-naan-indiano-caseiro.jpg export-ignore
-public/images/recipes/paes/pao.jpg export-ignore
-public/images/recipes/pascoa/cheesecake-de-frutas-vermelhas.jpg export-ignore
-public/images/recipes/peixes/moqueca-capixaba-tradicional.jpg export-ignore
-public/images/recipes/peixes/peixe.jpg export-ignore
-public/images/recipes/peixes/salmao-assado-com-batatas-e-vegetais.jpg export-ignore
-public/images/recipes/peixes/temaki-de-salmao-com-cream-cheese.jpg export-ignore
-public/images/recipes/pizzas/pizza.jpg export-ignore
-public/images/recipes/placeholder/air-fryer-placeholder.jpg export-ignore
-public/images/recipes/placeholder/bebidas-placeholder.jpg export-ignore
-public/images/recipes/placeholder/bolos-placeholder.jpg export-ignore
-public/images/recipes/placeholder/doces-placeholder.jpg export-ignore
-public/images/recipes/placeholder/massas-placeholder.jpg export-ignore
-public/images/recipes/placeholder/pascoa-placeholder.jpg export-ignore
-public/images/recipes/placeholder/salgados-placeholder.jpg export-ignore
-public/images/recipes/placeholder/saudaveis-placeholder.jpg export-ignore
-public/images/recipes/pudins/pudim-de-leite-condensado-tradicional.jpg export-ignore
-public/images/recipes/pudins/pudim.jpg export-ignore
-public/images/recipes/saladas/salada.jpg export-ignore
-public/images/recipes/salgados/bolinha-de-queijo-com-massa-leve.jpg export-ignore
-public/images/recipes/salgados/coxinha-de-frango-com-massa-de-batata.jpg export-ignore
-public/images/recipes/salgados/coxinha-de-frango-cremosa.jpg export-ignore
-public/images/recipes/saudaveis/pote-da-felicidade-proteico.jpg export-ignore
-public/images/recipes/sobremesas/mousse.jpg export-ignore
-public/images/recipes/sobremesas/pave-raffaello.jpg export-ignore
-public/images/recipes/sobremesas/rabanada-com-doce-de-leite.avif export-ignore
-public/images/recipes/sobremesas/torta-de-chocolate-com-morango.jpg export-ignore
-public/images/recipes/sobremesas/torta-de-limao-com-merengue.jpg export-ignore
-public/images/recipes/sopas/sopa.jpg export-ignore
-public/images/recipes/tortas/torta.jpg export-ignore
-public/images/reviews/airfryer-10-fatos-surpreendentes.jpg export-ignore
-public/images/reviews/airfryer-uma-breve-historia.jpg export-ignore
-public/images/reviews/conhecendo-mais-rabanada.avif export-ignore
-public/images/reviews/cupom-cecilia12/1-escolha-produto.png export-ignore
-public/images/reviews/cupom-cecilia12/2-adicione-carrinho-2.png export-ignore
-public/images/reviews/cupom-cecilia12/2-adicione-carrinho.png export-ignore
-public/images/reviews/cupom-cecilia12/3-aplique-cupom.png export-ignore
-public/images/reviews/cupom-cecilia12/4-confirme-desconto.png export-ignore
-public/images/reviews/cupom-damie-cecilia-poltrona-reclinavel.webp export-ignore
-public/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp export-ignore
-public/images/reviews/cupons/k-beauty-expo-korea.webp export-ignore
-public/images/reviews/cupons/k-beauty-glass-skin-hero.webp export-ignore
-public/images/reviews/cupons/k-beauty-loja-varejo.webp export-ignore
-public/images/reviews/cupons/nescafe-dolce-gusto-galeria-1.webp export-ignore
-public/images/reviews/cupons/nescafe-dolce-gusto-galeria-2.webp export-ignore
-public/images/reviews/cupons/nescafe-dolce-gusto-galeria-3.webp export-ignore
-public/images/reviews/cupons/nescafe-dolce-gusto-galeria-4.webp export-ignore
-public/images/reviews/cupons/nescafe-dolce-gusto-galeria-5.webp export-ignore
-public/images/reviews/cupons/nescafe-dolce-gusto-hero.webp export-ignore
-public/images/reviews/cupons/nescafe-dolce-gusto-passo-1.webp export-ignore
-public/images/reviews/cupons/nescafe-dolce-gusto-passo-2.webp export-ignore
-public/images/reviews/cupons/nescafe-dolce-gusto-passo-3.webp export-ignore
-public/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp export-ignore
-public/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp export-ignore
-public/images/reviews/cupons/yesstyle-carrinho-checkout.webp export-ignore
-public/images/reviews/cupons/yesstyle-checkout-carrinho.webp export-ignore
-public/images/reviews/cupons/yesstyle-checkout-final-desconto.webp export-ignore
-public/images/reviews/cupons/yesstyle-home-promocoes.webp export-ignore
-public/images/reviews/cupons/yesstyle-inserir-codigo.webp export-ignore
-public/images/reviews/cupons/yesstyle-kbeauty-hero.webp export-ignore
-public/images/reviews/cupons/yesstyle-logo-purple-hero.webp export-ignore
-public/images/reviews/cupons/yesstyle-logo-purple.webp export-ignore
-public/images/reviews/cupons/yesstyle-loja-oficial-banner.webp export-ignore
-public/images/reviews/cupons/yesstyle-most-wanted-brands.webp export-ignore
-public/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp export-ignore
-public/images/reviews/cupons/yesstyle-regioes-kbeauty.webp export-ignore
-public/images/reviews/cupons/yesstyle-resumo-descontos.webp export-ignore
-public/images/reviews/damie-reclame-aqui-hero.webp export-ignore
-public/images/reviews/damie-reclame-aqui-local.webp export-ignore
-public/images/reviews/damie-reclame-aqui-reputacao.webp export-ignore
-public/images/reviews/damie/poltrona-aurora-areia-ambientada.webp export-ignore
-public/images/reviews/damie/poltrona-aurora-castanho-ambientada.webp export-ignore
-public/images/reviews/damie/poltrona-aurora-castanho-frontal.webp export-ignore
-public/images/reviews/damie/poltrona-aurora-castanho-lateral-deitada.webp export-ignore
-public/images/reviews/damie/poltrona-aurora-castanho-pufe-perspectiva.webp export-ignore
-public/images/reviews/damie/poltrona-damie-2-0-almofada-regulavel.webp export-ignore
-public/images/reviews/damie/poltrona-damie-2-0-apoio-pes.webp export-ignore
-public/images/reviews/damie/poltrona-damie-2-0-bolso-lateral.webp export-ignore
-public/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp export-ignore
-public/images/reviews/damie/poltrona-damie-2-0-estrutura.webp export-ignore
-public/images/reviews/damie/poltrona-levita-cecilia-selfie.jpg export-ignore
-public/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-1.webp export-ignore
-public/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-2.webp export-ignore
-public/images/reviews/dolcegusto/adaptador-neo-start-combo-maquina.webp export-ignore
-public/images/reviews/dolcegusto/adaptador-neo-start-encaixe.webp export-ignore
-public/images/reviews/dolcegusto/adaptador-neo-start-hero-oficial.webp export-ignore
-public/images/reviews/dolcegusto/adaptador-neo-start-passo-a-passo.webp export-ignore
-public/images/reviews/dolcegusto/adaptador-neo-start-produto.webp export-ignore
-public/images/reviews/dolcegusto/assinatura-dolce-gusto-beneficios-25off.webp export-ignore
-public/images/reviews/dolcegusto/assinatura-dolce-gusto-freq-caixas.webp export-ignore
-public/images/reviews/dolcegusto/assinatura-dolce-gusto-painel-oficial.webp export-ignore
-public/images/reviews/dolcegusto/assinatura-dolce-gusto-passo-a-passo.webp export-ignore
-public/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp export-ignore
-public/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp export-ignore
-public/images/reviews/dolcegusto/clube-dolce-gusto-como-funciona-hero-v2.webp export-ignore
-public/images/reviews/dolcegusto/clube-dolce-gusto-resgate-pontos.webp export-ignore
-public/images/reviews/dolcegusto/clube-dolce-gusto-tutorial-cadastro.webp export-ignore
-public/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp export-ignore
-public/images/reviews/dolcegusto/dolce-gusto-e-confiavel-hero.webp export-ignore
-public/images/reviews/dolcegusto/dolce-gusto-genio-arno-produto.webp export-ignore
-public/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-hero-v2.webp export-ignore
-public/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-qual-escolher-hero.webp export-ignore
-public/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-vs-3-coracoes-hero.jpg export-ignore
-public/images/reviews/dolcegusto/genio-s-basic-lateral.webp export-ignore
-public/images/reviews/dolcegusto/genio-s-plus-lateral.webp export-ignore
-public/images/reviews/dolcegusto/genio-s-touch-cecilia-1.webp export-ignore
-public/images/reviews/dolcegusto/genio-s-touch-cecilia-2.webp export-ignore
-public/images/reviews/dolcegusto/genio-s-touch-cecilia-capsula.webp export-ignore
-public/images/reviews/dolcegusto/genio-s-touch-cecilia-hero.webp export-ignore
-public/images/reviews/dolcegusto/genio-s-touch-cecilia-servindo.webp export-ignore
-public/images/reviews/dolcegusto/genio-s-touch-dimensoes.webp export-ignore
-public/images/reviews/dolcegusto/genio-s-touch-lateral.webp export-ignore
-public/images/reviews/dolcegusto/genio-s-touch-loop-1-poster.webp export-ignore
-public/images/reviews/dolcegusto/genio-s-touch-loop-2-poster.webp export-ignore
-public/images/reviews/dolcegusto/genio-s-trio-oficial-cores.webp export-ignore
-public/images/reviews/dolcegusto/mini-me-2-0-bruno-video-1.webp export-ignore
-public/images/reviews/dolcegusto/mini-me-2-0-bruno-video-2.webp export-ignore
-public/images/reviews/dolcegusto/nespresso-pixie-produto.webp export-ignore
-public/images/reviews/dolcegusto/promocao-55-caixas-art-1.webp export-ignore
-public/images/reviews/dolcegusto/promocao-55-caixas-art-2.webp export-ignore
-public/images/reviews/dolcegusto/promocao-55-caixas-art-3.webp export-ignore
-public/images/reviews/dolcegusto/promocao-55-caixas-art-4.webp export-ignore
-public/images/reviews/dolcegusto/promocao-55-caixas-art-5.webp export-ignore
-public/images/reviews/dolcegusto/promocao-55-caixas-hero.webp export-ignore
-public/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-cafes-lattes.webp export-ignore
-public/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-chocolates-chas.webp export-ignore
-public/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-hero.webp export-ignore
-public/images/reviews/dolcegusto/tabela-manual-dolce-gusto-1.webp export-ignore
-public/images/reviews/dolcegusto/tabela-manual-dolce-gusto-2.webp export-ignore
-public/images/reviews/dolcegusto/tabela-manual-dolce-gusto-3.webp export-ignore
-public/images/reviews/dolcegusto/tabela-manual-dolce-gusto-4.webp export-ignore
-public/images/reviews/eames-lounge-chair-anuncio-herman-miller-vintage.webp export-ignore
-public/images/reviews/eames-lounge-chair-janela-vintage.jpg export-ignore
-public/images/reviews/eames-lounge-chair-leitura-vintage.png export-ignore
-public/images/reviews/eames-lounge-chair-produto-oficial.webp export-ignore
-public/images/reviews/fred-van-der-weij-airfryer.avif export-ignore
-public/images/reviews/iwannasleep/1-escolha-produto.webp export-ignore
-public/images/reviews/iwannasleep/2-adicione-carrinho.webp export-ignore
-public/images/reviews/iwannasleep/3-aplique-cupom.webp export-ignore
-public/images/reviews/iwannasleep/4-confirme-desconto.webp export-ignore
-public/images/reviews/iwannasleep/aliv-head-gel-iws-cobertura-360.webp export-ignore
-public/images/reviews/iwannasleep/aliv-head-gel-iws-descanso.webp export-ignore
-public/images/reviews/iwannasleep/aliv-head-gel-iws-frio-quente.webp export-ignore
-public/images/reviews/iwannasleep/aliv-head-gel-iws-hero.jpg export-ignore
-public/images/reviews/iwannasleep/aliv-head-gel-iws-uso-quente.webp export-ignore
-public/images/reviews/iwannasleep/cobertor-igloo-galeria-1.webp export-ignore
-public/images/reviews/iwannasleep/cobertor-igloo-galeria-2.webp export-ignore
-public/images/reviews/iwannasleep/cobertor-igloo-hero.webp export-ignore
-public/images/reviews/iwannasleep/confiabilidade-hero.webp export-ignore
-public/images/reviews/iwannasleep/cupom-ceciemcasa-hero.webp export-ignore
-public/images/reviews/iwannasleep/i-wanna-sleep-site-1-poster.jpg export-ignore
-public/images/reviews/iwannasleep/i-wanna-sleep-site-1.mp4 export-ignore
-public/images/reviews/iwannasleep/i-wanna-sleep-site-1.webm export-ignore
-public/images/reviews/iwannasleep/iws-catalogo-travesseiros.webp export-ignore
-public/images/reviews/iwannasleep/iws-categoria-cervicais-ergonomicos.webp export-ignore
-public/images/reviews/iwannasleep/iws-categoria-latex.webp export-ignore
-public/images/reviews/iwannasleep/iws-categoria-memory-foam.webp export-ignore
-public/images/reviews/iwannasleep/iws-categoria-pluma-natural.webp export-ignore
-public/images/reviews/iwannasleep/iws-categoria-plumas-magnum-skin.webp export-ignore
-public/images/reviews/iwannasleep/iws-categoria-regulagem-altura-snow.webp export-ignore
-public/images/reviews/iwannasleep/iws-categoria-viagem.webp export-ignore
-public/images/reviews/iwannasleep/iws-global-lifestyle-sleep-brand.webp export-ignore
-public/images/reviews/iwannasleep/iws-loja-fisica.webp export-ignore
-public/images/reviews/iwannasleep/iws-loja02-fachada.webp export-ignore
-public/images/reviews/iwannasleep/iws-loja04-fachada.webp export-ignore
-public/images/reviews/iwannasleep/iws-missao-dormir-melhor.webp export-ignore
-public/images/reviews/iwannasleep/melatonina-gummy-iws-caracteristicas.png export-ignore
-public/images/reviews/iwannasleep/melatonina-gummy-iws-como-usar.webp export-ignore
-public/images/reviews/iwannasleep/melatonina-gummy-iws-goma.webp export-ignore
-public/images/reviews/iwannasleep/melatonina-gummy-iws-hero.webp export-ignore
-public/images/reviews/iwannasleep/melatonina-gummy-iws-maracuja.webp export-ignore
-public/images/reviews/iwannasleep/melatonina-liquida-hero.webp export-ignore
-public/images/reviews/iwannasleep/melatonina-liquida-maracuja.webp export-ignore
-public/images/reviews/iwannasleep/melatonina-liquida-splash.webp export-ignore
-public/images/reviews/iwannasleep/travesseiro-airgelly-2-antialergico-lavavel.webp export-ignore
-public/images/reviews/iwannasleep/travesseiro-airgelly-render-3d.webp export-ignore
-public/images/reviews/iwannasleep/travesseiro-cervical-coluna-relax-oficial.webp export-ignore
-public/images/reviews/iwannasleep/travesseiro-original-latex-detalhe.webp export-ignore
-public/images/reviews/iwannasleep/travesseiro-snow-hero.webp export-ignore
-public/images/reviews/magalu/magalu-cupom-aplicado.webp export-ignore
-public/images/reviews/magalu/magalu-hero.webp export-ignore
-public/images/reviews/magalu/magalu-loja-navegador.webp export-ignore
-public/images/reviews/manteiga-batida-aerada.jpg export-ignore
-public/images/reviews/nutren/nestle-nutre-hero.webp export-ignore
-public/images/reviews/nutren/nestle-nutre-identidade-institucional.webp export-ignore
-public/images/reviews/nutren/nestle-nutre-linha-senior.webp export-ignore
-public/images/reviews/nutren/nestle-nutre-vitrine-oficial.webp export-ignore
-public/images/reviews/nutren/nutren-creatina-300g-composicao.webp export-ignore
-public/images/reviews/nutren/nutren-creatina-300g-frente.avif export-ignore
-public/images/reviews/nutren/nutren-creatina-300g-rotulo.avif export-ignore
-public/images/reviews/nutren/nutren-creatina-preco-2026-08-27.png export-ignore
-public/images/reviews/nutren/nutren-just-protein-banner.avif export-ignore
-public/images/reviews/nutren/nutren-just-protein-beneficios.png export-ignore
-public/images/reviews/nutren/nutren-just-protein-lata-280g.avif export-ignore
-public/images/reviews/nutren/nutren-just-protein-modo-preparo.avif export-ignore
-public/images/reviews/nutren/nutren-senior-hero.webp export-ignore
-public/images/reviews/nutren/nutren-senior-linha-banner.avif export-ignore
-public/images/reviews/nutren/nutren-senior-linha-hero.webp export-ignore
-public/images/reviews/nutren/nutren-senior-zero-lactose-beneficios.webp export-ignore
-public/images/reviews/nutren/passo-1-lista-produtos.webp export-ignore
-public/images/reviews/nutren/passo-2-carrinho.webp export-ignore
-public/images/reviews/nutren/passo-3-digite-ceci.webp export-ignore
-public/images/reviews/nutren/passo-4-cupom-aplicado.webp export-ignore
-public/images/reviews/poltrona-amamentacao-rotina-hero.webp export-ignore
-public/images/reviews/poltrona-levita-cecilia-flores.webp export-ignore
-public/images/reviews/poltrona-levita-cecilia-lateral.webp export-ignore
-public/images/reviews/poltrona-levita-cecilia-sala.webp export-ignore
-public/images/reviews/poltrona-levita-destaques.webp export-ignore
-public/images/reviews/poltrona-levita-especificacoes.webp export-ignore
-public/images/reviews/poltrona-levita.webp export-ignore
-public/images/reviews/poltrona-moon-cecilia-design.webp export-ignore
-public/images/reviews/poltrona-moon-cecilia-hero.webp export-ignore
-public/images/reviews/poltrona-moon-cecilia-materiais.webp export-ignore
-public/images/reviews/poltrona-moon-cecilia-quem.webp export-ignore
-public/images/reviews/poltrona-moon-destaques.webp export-ignore
-public/images/reviews/poltrona-moon-especificacoes.webp export-ignore
-public/images/reviews/poltrona-moon-fundo-casa.webp export-ignore
-public/images/reviews/poltrona-moon.webp export-ignore
-public/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada.webp export-ignore
-public/images/reviews/poltrona-reclinavel-cecilia-botao-reclinacao.webp export-ignore
-public/images/reviews/poltrona-reclinavel-cecilia-ian.webp export-ignore
-public/images/reviews/poltrona-reclinavel-cecilia.webp export-ignore
-public/images/reviews/poltronas-reclinaveis-damie.webp export-ignore
-public/images/reviews/samsung/amelia-chegou-embalada.webp export-ignore
-public/images/reviews/samsung/amelia-no-lugar.webp export-ignore
-public/images/reviews/samsung/cecilia-amelia-instalada.webp export-ignore
-public/images/reviews/samsung/lava-e-seca-loop-poster.webp export-ignore
-public/images/reviews/samsung/minha-primeira-lava-e-seca-capa.webp export-ignore
-public/images/reviews/samsung/samsung-wd13fg-dimensoes-oficial.webp export-ignore
-public/images/reviews/samsung/samsung-wd13fg-frontal-oficial.webp export-ignore
-public/images/reviews/samsung/samsung-wd13fg-perspectiva-oficial.webp export-ignore
-public/images/reviews/sofa-damie-modular-hero.webp export-ignore
-public/images/reviews/sofa-damie-modular-puff.webp export-ignore
-public/images/reviews/sofa-damie-modular-vale-a-pena-sq.webp export-ignore
-public/images/reviews/sofa-damie-na-caixa-cecilia-conceito.webp export-ignore
-public/images/reviews/sofa-damie-na-caixa-cecilia-conforto.webp export-ignore
-public/images/reviews/sofa-damie-na-caixa-cecilia-hero.webp export-ignore
-public/images/reviews/sofa-damie-na-caixa-cecilia-montagem.webp export-ignore
-public/images/reviews/sofa-damie-na-caixa.jpg export-ignore
-public/images/reviews/sofa-modular-5-lugares-em-l.webp export-ignore
-public/images/reviews/sofa-modular-6-lugares-ilha.webp export-ignore
-public/images/reviews/sofa-modular-itens.webp export-ignore
-public/images/reviews/sofa-modular-ou-retratil-hero.webp export-ignore
-public/images/reviews/sofa-na-caixa/bbc-news-sofa-na-caixa-manchete.png export-ignore
-public/images/reviews/sofa-na-caixa/procon-sp-damie-pesquisa.webp export-ignore
-public/images/reviews/sofa-na-caixa/procon-sp-pesquisa-evite-sites.webp export-ignore
-public/images/reviews/sofa-na-caixa/reclame-aqui-damie-painel.webp export-ignore
-public/images/reviews/sofa-na-caixa/reclame-aqui-sofa-na-caixa-painel.webp export-ignore
-public/images/reviews/sofa-na-caixa/sofa-modular-entrega-editorial-neutra.png export-ignore
-public/images/universe/damie-hero-cecilia.webp export-ignore
-public/images/universe/dicas-hero-promos.webp export-ignore
-public/videos/reviews/damie/poltrona-reclinavel-damie-2-0-hero-loop.mp4 export-ignore
-public/videos/reviews/damie/poltrona-reclinavel-damie-2-0-loop.mp4 export-ignore
-public/videos/reviews/dolcegusto/genio-s-touch-loop-1.mp4 export-ignore
-public/videos/reviews/dolcegusto/genio-s-touch-loop-2.mp4 export-ignore
-public/videos/reviews/dolcegusto/mini-me-2-0-loop.mp4 export-ignore
-public/videos/reviews/dolcegusto/tabela-manual-dolce-gusto-loop.mp4 export-ignore
-public/videos/reviews/samsung/lava-e-seca-loop.mp4 export-ignore
-public/videos/reviews/samsung/lava-e-seca-loop.webm export-ignore
+public/images/about/cecilia/cecilia-6.jpg -text export-ignore
+public/images/about/cecilia/cecilia-71.jpg -text export-ignore
+public/images/about/cecilia/cecilia-88.jpg -text export-ignore
+public/images/about/partners/a3-home-design.jpg -text export-ignore
+public/images/about/partners/abc-da-construcao.png -text export-ignore
+public/images/about/partners/belle-house.png -text export-ignore
+public/images/about/partners/carolina-baby.webp -text export-ignore
+public/images/about/partners/damie.jpg -text export-ignore
+public/images/about/partners/dolce-gusto.avif -text export-ignore
+public/images/about/partners/eos.jpg -text export-ignore
+public/images/about/partners/i-wanna-sleep.avif -text export-ignore
+public/images/about/partners/itatiaia.webp -text export-ignore
+public/images/about/partners/kopenhagen.jpg -text export-ignore
+public/images/about/partners/laticinios-ubari.jpg -text export-ignore
+public/images/about/partners/magalu.webp -text export-ignore
+public/images/about/partners/mollycook.jpg -text export-ignore
+public/images/about/partners/nutren.png -text export-ignore
+public/images/about/partners/okoshi.webp -text export-ignore
+public/images/about/partners/polishop.jpg -text export-ignore
+public/images/about/partners/promobit.jpg -text export-ignore
+public/images/about/partners/santos-simoes.webp -text export-ignore
+public/images/about/partners/shein.webp -text export-ignore
+public/images/about/partners/shopee.png -text export-ignore
+public/images/about/partners/tempero-do-anjo.webp -text export-ignore
+public/images/about/partners/wap.png -text export-ignore
+public/images/logos/logo-em-casa-com-cecilia.png -text export-ignore
+public/images/logos/yesstyle.jpg -text export-ignore
+public/images/photos/BRU-1.jpg -text export-ignore
+public/images/recipes/air-fryer/batatas-rusticas-crocantes-na-air-fryer.jpg -text export-ignore
+public/images/recipes/air-fryer/bolo-de-caneca-na-air-fryer.jpg -text export-ignore
+public/images/recipes/air-fryer/chips-de-batata-doce-na-air-fryer.jpg -text export-ignore
+public/images/recipes/bolos/bolo-de-banana-caramelizada-com-nozes.jpg -text export-ignore
+public/images/recipes/bolos/bolo-de-cenoura-com-cobertura-de-chocolate.jpg -text export-ignore
+public/images/recipes/bolos/bolo-de-chocolate-com-recheio-de-brigadeiro.jpg -text export-ignore
+public/images/recipes/bolos/bolo-de-fuba-com-erva-doce.jpg -text export-ignore
+public/images/recipes/bolos/bolo-de-milho-cremoso-com-queijo-minas.jpg -text export-ignore
+public/images/recipes/carnes/carne.jpg -text export-ignore
+public/images/recipes/carnes/feijoada.jpg -text export-ignore
+public/images/recipes/carnes/tacos-de-carne-mexicanos-com-guacamole.jpg -text export-ignore
+public/images/recipes/doces/brigadeiro-tradicional-brasileiro.jpg -text export-ignore
+public/images/recipes/frango/frango.jpg -text export-ignore
+public/images/recipes/massas/macarrao-carbonara-cremoso.jpg -text export-ignore
+public/images/recipes/massas/macarrao-com-molho-pesto-de-manjericao.jpg -text export-ignore
+public/images/recipes/massas/pizza-de-calabresa-caseira.jpg -text export-ignore
+public/images/recipes/massas/talharim-caseiro-com-molho-de-tomate-fresco.jpg -text export-ignore
+public/images/recipes/paes/pao-naan-indiano-caseiro.jpg -text export-ignore
+public/images/recipes/paes/pao.jpg -text export-ignore
+public/images/recipes/pascoa/cheesecake-de-frutas-vermelhas.jpg -text export-ignore
+public/images/recipes/peixes/moqueca-capixaba-tradicional.jpg -text export-ignore
+public/images/recipes/peixes/peixe.jpg -text export-ignore
+public/images/recipes/peixes/salmao-assado-com-batatas-e-vegetais.jpg -text export-ignore
+public/images/recipes/peixes/temaki-de-salmao-com-cream-cheese.jpg -text export-ignore
+public/images/recipes/pizzas/pizza.jpg -text export-ignore
+public/images/recipes/placeholder/air-fryer-placeholder.jpg -text export-ignore
+public/images/recipes/placeholder/bebidas-placeholder.jpg -text export-ignore
+public/images/recipes/placeholder/bolos-placeholder.jpg -text export-ignore
+public/images/recipes/placeholder/doces-placeholder.jpg -text export-ignore
+public/images/recipes/placeholder/massas-placeholder.jpg -text export-ignore
+public/images/recipes/placeholder/pascoa-placeholder.jpg -text export-ignore
+public/images/recipes/placeholder/salgados-placeholder.jpg -text export-ignore
+public/images/recipes/placeholder/saudaveis-placeholder.jpg -text export-ignore
+public/images/recipes/pudins/pudim-de-leite-condensado-tradicional.jpg -text export-ignore
+public/images/recipes/pudins/pudim.jpg -text export-ignore
+public/images/recipes/saladas/salada.jpg -text export-ignore
+public/images/recipes/salgados/bolinha-de-queijo-com-massa-leve.jpg -text export-ignore
+public/images/recipes/salgados/coxinha-de-frango-com-massa-de-batata.jpg -text export-ignore
+public/images/recipes/salgados/coxinha-de-frango-cremosa.jpg -text export-ignore
+public/images/recipes/saudaveis/pote-da-felicidade-proteico.jpg -text export-ignore
+public/images/recipes/sobremesas/mousse.jpg -text export-ignore
+public/images/recipes/sobremesas/pave-raffaello.jpg -text export-ignore
+public/images/recipes/sobremesas/rabanada-com-doce-de-leite.avif -text export-ignore
+public/images/recipes/sobremesas/torta-de-chocolate-com-morango.jpg -text export-ignore
+public/images/recipes/sobremesas/torta-de-limao-com-merengue.jpg -text export-ignore
+public/images/recipes/sopas/sopa.jpg -text export-ignore
+public/images/recipes/tortas/torta.jpg -text export-ignore
+public/images/reviews/airfryer-10-fatos-surpreendentes.jpg -text export-ignore
+public/images/reviews/airfryer-uma-breve-historia.jpg -text export-ignore
+public/images/reviews/conhecendo-mais-rabanada.avif -text export-ignore
+public/images/reviews/cupom-cecilia12/1-escolha-produto.png -text export-ignore
+public/images/reviews/cupom-cecilia12/2-adicione-carrinho-2.png -text export-ignore
+public/images/reviews/cupom-cecilia12/2-adicione-carrinho.png -text export-ignore
+public/images/reviews/cupom-cecilia12/3-aplique-cupom.png -text export-ignore
+public/images/reviews/cupom-cecilia12/4-confirme-desconto.png -text export-ignore
+public/images/reviews/cupom-damie-cecilia-poltrona-reclinavel.webp -text export-ignore
+public/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp -text export-ignore
+public/images/reviews/cupons/k-beauty-expo-korea.webp -text export-ignore
+public/images/reviews/cupons/k-beauty-glass-skin-hero.webp -text export-ignore
+public/images/reviews/cupons/k-beauty-loja-varejo.webp -text export-ignore
+public/images/reviews/cupons/nescafe-dolce-gusto-galeria-1.webp -text export-ignore
+public/images/reviews/cupons/nescafe-dolce-gusto-galeria-2.webp -text export-ignore
+public/images/reviews/cupons/nescafe-dolce-gusto-galeria-3.webp -text export-ignore
+public/images/reviews/cupons/nescafe-dolce-gusto-galeria-4.webp -text export-ignore
+public/images/reviews/cupons/nescafe-dolce-gusto-galeria-5.webp -text export-ignore
+public/images/reviews/cupons/nescafe-dolce-gusto-hero.webp -text export-ignore
+public/images/reviews/cupons/nescafe-dolce-gusto-passo-1.webp -text export-ignore
+public/images/reviews/cupons/nescafe-dolce-gusto-passo-2.webp -text export-ignore
+public/images/reviews/cupons/nescafe-dolce-gusto-passo-3.webp -text export-ignore
+public/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp -text export-ignore
+public/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp -text export-ignore
+public/images/reviews/cupons/yesstyle-carrinho-checkout.webp -text export-ignore
+public/images/reviews/cupons/yesstyle-checkout-carrinho.webp -text export-ignore
+public/images/reviews/cupons/yesstyle-checkout-final-desconto.webp -text export-ignore
+public/images/reviews/cupons/yesstyle-home-promocoes.webp -text export-ignore
+public/images/reviews/cupons/yesstyle-inserir-codigo.webp -text export-ignore
+public/images/reviews/cupons/yesstyle-kbeauty-hero.webp -text export-ignore
+public/images/reviews/cupons/yesstyle-logo-purple-hero.webp -text export-ignore
+public/images/reviews/cupons/yesstyle-logo-purple.webp -text export-ignore
+public/images/reviews/cupons/yesstyle-loja-oficial-banner.webp -text export-ignore
+public/images/reviews/cupons/yesstyle-most-wanted-brands.webp -text export-ignore
+public/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp -text export-ignore
+public/images/reviews/cupons/yesstyle-regioes-kbeauty.webp -text export-ignore
+public/images/reviews/cupons/yesstyle-resumo-descontos.webp -text export-ignore
+public/images/reviews/damie-reclame-aqui-hero.webp -text export-ignore
+public/images/reviews/damie-reclame-aqui-local.webp -text export-ignore
+public/images/reviews/damie-reclame-aqui-reputacao.webp -text export-ignore
+public/images/reviews/damie/poltrona-aurora-areia-ambientada.webp -text export-ignore
+public/images/reviews/damie/poltrona-aurora-castanho-ambientada.webp -text export-ignore
+public/images/reviews/damie/poltrona-aurora-castanho-frontal.webp -text export-ignore
+public/images/reviews/damie/poltrona-aurora-castanho-lateral-deitada.webp -text export-ignore
+public/images/reviews/damie/poltrona-aurora-castanho-pufe-perspectiva.webp -text export-ignore
+public/images/reviews/damie/poltrona-damie-2-0-almofada-regulavel.webp -text export-ignore
+public/images/reviews/damie/poltrona-damie-2-0-apoio-pes.webp -text export-ignore
+public/images/reviews/damie/poltrona-damie-2-0-bolso-lateral.webp -text export-ignore
+public/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp -text export-ignore
+public/images/reviews/damie/poltrona-damie-2-0-estrutura.webp -text export-ignore
+public/images/reviews/damie/poltrona-levita-cecilia-selfie.jpg -text export-ignore
+public/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-1.webp -text export-ignore
+public/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-2.webp -text export-ignore
+public/images/reviews/dolcegusto/adaptador-neo-start-combo-maquina.webp -text export-ignore
+public/images/reviews/dolcegusto/adaptador-neo-start-encaixe.webp -text export-ignore
+public/images/reviews/dolcegusto/adaptador-neo-start-hero-oficial.webp -text export-ignore
+public/images/reviews/dolcegusto/adaptador-neo-start-passo-a-passo.webp -text export-ignore
+public/images/reviews/dolcegusto/adaptador-neo-start-produto.webp -text export-ignore
+public/images/reviews/dolcegusto/assinatura-dolce-gusto-beneficios-25off.webp -text export-ignore
+public/images/reviews/dolcegusto/assinatura-dolce-gusto-freq-caixas.webp -text export-ignore
+public/images/reviews/dolcegusto/assinatura-dolce-gusto-painel-oficial.webp -text export-ignore
+public/images/reviews/dolcegusto/assinatura-dolce-gusto-passo-a-passo.webp -text export-ignore
+public/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp -text export-ignore
+public/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp -text export-ignore
+public/images/reviews/dolcegusto/clube-dolce-gusto-como-funciona-hero-v2.webp -text export-ignore
+public/images/reviews/dolcegusto/clube-dolce-gusto-resgate-pontos.webp -text export-ignore
+public/images/reviews/dolcegusto/clube-dolce-gusto-tutorial-cadastro.webp -text export-ignore
+public/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp -text export-ignore
+public/images/reviews/dolcegusto/dolce-gusto-e-confiavel-hero.webp -text export-ignore
+public/images/reviews/dolcegusto/dolce-gusto-genio-arno-produto.webp -text export-ignore
+public/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-hero-v2.webp -text export-ignore
+public/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-qual-escolher-hero.webp -text export-ignore
+public/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-vs-3-coracoes-hero.jpg -text export-ignore
+public/images/reviews/dolcegusto/genio-s-basic-lateral.webp -text export-ignore
+public/images/reviews/dolcegusto/genio-s-plus-lateral.webp -text export-ignore
+public/images/reviews/dolcegusto/genio-s-touch-cecilia-1.webp -text export-ignore
+public/images/reviews/dolcegusto/genio-s-touch-cecilia-2.webp -text export-ignore
+public/images/reviews/dolcegusto/genio-s-touch-cecilia-capsula.webp -text export-ignore
+public/images/reviews/dolcegusto/genio-s-touch-cecilia-hero.webp -text export-ignore
+public/images/reviews/dolcegusto/genio-s-touch-cecilia-servindo.webp -text export-ignore
+public/images/reviews/dolcegusto/genio-s-touch-dimensoes.webp -text export-ignore
+public/images/reviews/dolcegusto/genio-s-touch-lateral.webp -text export-ignore
+public/images/reviews/dolcegusto/genio-s-touch-loop-1-poster.webp -text export-ignore
+public/images/reviews/dolcegusto/genio-s-touch-loop-2-poster.webp -text export-ignore
+public/images/reviews/dolcegusto/genio-s-trio-oficial-cores.webp -text export-ignore
+public/images/reviews/dolcegusto/mini-me-2-0-bruno-video-1.webp -text export-ignore
+public/images/reviews/dolcegusto/mini-me-2-0-bruno-video-2.webp -text export-ignore
+public/images/reviews/dolcegusto/nespresso-pixie-produto.webp -text export-ignore
+public/images/reviews/dolcegusto/promocao-55-caixas-art-1.webp -text export-ignore
+public/images/reviews/dolcegusto/promocao-55-caixas-art-2.webp -text export-ignore
+public/images/reviews/dolcegusto/promocao-55-caixas-art-3.webp -text export-ignore
+public/images/reviews/dolcegusto/promocao-55-caixas-art-4.webp -text export-ignore
+public/images/reviews/dolcegusto/promocao-55-caixas-art-5.webp -text export-ignore
+public/images/reviews/dolcegusto/promocao-55-caixas-hero.webp -text export-ignore
+public/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-cafes-lattes.webp -text export-ignore
+public/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-chocolates-chas.webp -text export-ignore
+public/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-hero.webp -text export-ignore
+public/images/reviews/dolcegusto/tabela-manual-dolce-gusto-1.webp -text export-ignore
+public/images/reviews/dolcegusto/tabela-manual-dolce-gusto-2.webp -text export-ignore
+public/images/reviews/dolcegusto/tabela-manual-dolce-gusto-3.webp -text export-ignore
+public/images/reviews/dolcegusto/tabela-manual-dolce-gusto-4.webp -text export-ignore
+public/images/reviews/eames-lounge-chair-anuncio-herman-miller-vintage.webp -text export-ignore
+public/images/reviews/eames-lounge-chair-janela-vintage.jpg -text export-ignore
+public/images/reviews/eames-lounge-chair-leitura-vintage.png -text export-ignore
+public/images/reviews/eames-lounge-chair-produto-oficial.webp -text export-ignore
+public/images/reviews/fred-van-der-weij-airfryer.avif -text export-ignore
+public/images/reviews/iwannasleep/1-escolha-produto.webp -text export-ignore
+public/images/reviews/iwannasleep/2-adicione-carrinho.webp -text export-ignore
+public/images/reviews/iwannasleep/3-aplique-cupom.webp -text export-ignore
+public/images/reviews/iwannasleep/4-confirme-desconto.webp -text export-ignore
+public/images/reviews/iwannasleep/aliv-head-gel-iws-cobertura-360.webp -text export-ignore
+public/images/reviews/iwannasleep/aliv-head-gel-iws-descanso.webp -text export-ignore
+public/images/reviews/iwannasleep/aliv-head-gel-iws-frio-quente.webp -text export-ignore
+public/images/reviews/iwannasleep/aliv-head-gel-iws-hero.jpg -text export-ignore
+public/images/reviews/iwannasleep/aliv-head-gel-iws-uso-quente.webp -text export-ignore
+public/images/reviews/iwannasleep/cobertor-cozy-ambiente.webp -text export-ignore
+public/images/reviews/iwannasleep/cobertor-cozy-oficial-uso.webp -text export-ignore
+public/images/reviews/iwannasleep/cobertor-huggy-oficial-uso.webp -text export-ignore
+public/images/reviews/iwannasleep/cobertor-huggy-textura-detalhe.webp -text export-ignore
+public/images/reviews/iwannasleep/cobertor-igloo-embalagem-cuidados.webp -text export-ignore
+public/images/reviews/iwannasleep/cobertor-igloo-galeria-1.webp -text export-ignore
+public/images/reviews/iwannasleep/cobertor-igloo-galeria-2.webp -text export-ignore
+public/images/reviews/iwannasleep/cobertor-igloo-hero.webp -text export-ignore
+public/images/reviews/iwannasleep/cobertor-igloo-oficial-uso.webp -text export-ignore
+public/images/reviews/iwannasleep/cobertor-puffer-oficial-uso.webp -text export-ignore
+public/images/reviews/iwannasleep/cobertor-puffer-travesseiro-viagem.webp -text export-ignore
+public/images/reviews/iwannasleep/confiabilidade-hero.webp -text export-ignore
+public/images/reviews/iwannasleep/cupom-ceciemcasa-hero.webp -text export-ignore
+public/images/reviews/iwannasleep/i-wanna-sleep-site-1-poster.jpg -text export-ignore
+public/images/reviews/iwannasleep/i-wanna-sleep-site-1.mp4 -text export-ignore
+public/images/reviews/iwannasleep/i-wanna-sleep-site-1.webm -text export-ignore
+public/images/reviews/iwannasleep/iws-catalogo-travesseiros.webp -text export-ignore
+public/images/reviews/iwannasleep/iws-categoria-cervicais-ergonomicos.webp -text export-ignore
+public/images/reviews/iwannasleep/iws-categoria-latex.webp -text export-ignore
+public/images/reviews/iwannasleep/iws-categoria-memory-foam.webp -text export-ignore
+public/images/reviews/iwannasleep/iws-categoria-pluma-natural.webp -text export-ignore
+public/images/reviews/iwannasleep/iws-categoria-plumas-magnum-skin.webp -text export-ignore
+public/images/reviews/iwannasleep/iws-categoria-regulagem-altura-snow.webp -text export-ignore
+public/images/reviews/iwannasleep/iws-categoria-viagem.webp -text export-ignore
+public/images/reviews/iwannasleep/iws-global-lifestyle-sleep-brand.webp -text export-ignore
+public/images/reviews/iwannasleep/iws-loja-fisica.webp -text export-ignore
+public/images/reviews/iwannasleep/iws-loja02-fachada.webp -text export-ignore
+public/images/reviews/iwannasleep/iws-loja04-fachada.webp -text export-ignore
+public/images/reviews/iwannasleep/iws-missao-dormir-melhor.webp -text export-ignore
+public/images/reviews/iwannasleep/melatonina-gummy-iws-caracteristicas.png -text export-ignore
+public/images/reviews/iwannasleep/melatonina-gummy-iws-como-usar.webp -text export-ignore
+public/images/reviews/iwannasleep/melatonina-gummy-iws-goma.webp -text export-ignore
+public/images/reviews/iwannasleep/melatonina-gummy-iws-hero.webp -text export-ignore
+public/images/reviews/iwannasleep/melatonina-gummy-iws-maracuja.webp -text export-ignore
+public/images/reviews/iwannasleep/melatonina-liquida-hero.webp -text export-ignore
+public/images/reviews/iwannasleep/melatonina-liquida-maracuja.webp -text export-ignore
+public/images/reviews/iwannasleep/melatonina-liquida-splash.webp -text export-ignore
+public/images/reviews/iwannasleep/qual-cobertor-escolher-hero-grid.webp -text export-ignore
+public/images/reviews/iwannasleep/travesseiro-airgelly-2-antialergico-lavavel.webp -text export-ignore
+public/images/reviews/iwannasleep/travesseiro-airgelly-render-3d.webp -text export-ignore
+public/images/reviews/iwannasleep/travesseiro-cervical-coluna-relax-oficial.webp -text export-ignore
+public/images/reviews/iwannasleep/travesseiro-original-latex-detalhe.webp -text export-ignore
+public/images/reviews/iwannasleep/travesseiro-snow-hero.webp -text export-ignore
+public/images/reviews/magalu/magalu-cupom-aplicado.webp -text export-ignore
+public/images/reviews/magalu/magalu-hero.webp -text export-ignore
+public/images/reviews/magalu/magalu-loja-navegador.webp -text export-ignore
+public/images/reviews/manteiga-batida-aerada.jpg -text export-ignore
+public/images/reviews/nutren/nestle-nutre-hero.webp -text export-ignore
+public/images/reviews/nutren/nestle-nutre-identidade-institucional.webp -text export-ignore
+public/images/reviews/nutren/nestle-nutre-linha-senior.webp -text export-ignore
+public/images/reviews/nutren/nestle-nutre-vitrine-oficial.webp -text export-ignore
+public/images/reviews/nutren/nutren-creatina-300g-composicao.webp -text export-ignore
+public/images/reviews/nutren/nutren-creatina-300g-frente.avif -text export-ignore
+public/images/reviews/nutren/nutren-creatina-300g-rotulo.avif -text export-ignore
+public/images/reviews/nutren/nutren-creatina-preco-2026-08-27.png -text export-ignore
+public/images/reviews/nutren/nutren-just-protein-banner.avif -text export-ignore
+public/images/reviews/nutren/nutren-just-protein-beneficios.png -text export-ignore
+public/images/reviews/nutren/nutren-just-protein-lata-280g.avif -text export-ignore
+public/images/reviews/nutren/nutren-just-protein-modo-preparo.avif -text export-ignore
+public/images/reviews/nutren/nutren-senior-hero.webp -text export-ignore
+public/images/reviews/nutren/nutren-senior-linha-banner.avif -text export-ignore
+public/images/reviews/nutren/nutren-senior-linha-hero.webp -text export-ignore
+public/images/reviews/nutren/nutren-senior-zero-lactose-beneficios.webp -text export-ignore
+public/images/reviews/nutren/passo-1-lista-produtos.webp -text export-ignore
+public/images/reviews/nutren/passo-2-carrinho.webp -text export-ignore
+public/images/reviews/nutren/passo-3-digite-ceci.webp -text export-ignore
+public/images/reviews/nutren/passo-4-cupom-aplicado.webp -text export-ignore
+public/images/reviews/poltrona-amamentacao-rotina-hero.webp -text export-ignore
+public/images/reviews/poltrona-levita-cecilia-flores.webp -text export-ignore
+public/images/reviews/poltrona-levita-cecilia-lateral.webp -text export-ignore
+public/images/reviews/poltrona-levita-cecilia-sala.webp -text export-ignore
+public/images/reviews/poltrona-levita-destaques.webp -text export-ignore
+public/images/reviews/poltrona-levita-especificacoes.webp -text export-ignore
+public/images/reviews/poltrona-levita.webp -text export-ignore
+public/images/reviews/poltrona-moon-cecilia-design.webp -text export-ignore
+public/images/reviews/poltrona-moon-cecilia-hero.webp -text export-ignore
+public/images/reviews/poltrona-moon-cecilia-materiais.webp -text export-ignore
+public/images/reviews/poltrona-moon-cecilia-quem.webp -text export-ignore
+public/images/reviews/poltrona-moon-destaques.webp -text export-ignore
+public/images/reviews/poltrona-moon-especificacoes.webp -text export-ignore
+public/images/reviews/poltrona-moon-fundo-casa.webp -text export-ignore
+public/images/reviews/poltrona-moon.webp -text export-ignore
+public/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada.webp -text export-ignore
+public/images/reviews/poltrona-reclinavel-cecilia-botao-reclinacao.webp -text export-ignore
+public/images/reviews/poltrona-reclinavel-cecilia-ian.webp -text export-ignore
+public/images/reviews/poltrona-reclinavel-cecilia.webp -text export-ignore
+public/images/reviews/poltronas-reclinaveis-damie.webp -text export-ignore
+public/images/reviews/samsung/amelia-chegou-embalada.webp -text export-ignore
+public/images/reviews/samsung/amelia-no-lugar.webp -text export-ignore
+public/images/reviews/samsung/cecilia-amelia-instalada.webp -text export-ignore
+public/images/reviews/samsung/lava-e-seca-loop-poster.webp -text export-ignore
+public/images/reviews/samsung/minha-primeira-lava-e-seca-capa.webp -text export-ignore
+public/images/reviews/samsung/samsung-wd13fg-dimensoes-oficial.webp -text export-ignore
+public/images/reviews/samsung/samsung-wd13fg-frontal-oficial.webp -text export-ignore
+public/images/reviews/samsung/samsung-wd13fg-perspectiva-oficial.webp -text export-ignore
+public/images/reviews/sofa-damie-modular-hero.webp -text export-ignore
+public/images/reviews/sofa-damie-modular-puff.webp -text export-ignore
+public/images/reviews/sofa-damie-modular-vale-a-pena-sq.webp -text export-ignore
+public/images/reviews/sofa-damie-na-caixa-cecilia-conceito.webp -text export-ignore
+public/images/reviews/sofa-damie-na-caixa-cecilia-conforto.webp -text export-ignore
+public/images/reviews/sofa-damie-na-caixa-cecilia-hero.webp -text export-ignore
+public/images/reviews/sofa-damie-na-caixa-cecilia-montagem.webp -text export-ignore
+public/images/reviews/sofa-damie-na-caixa.jpg -text export-ignore
+public/images/reviews/sofa-modular-5-lugares-em-l.webp -text export-ignore
+public/images/reviews/sofa-modular-6-lugares-ilha.webp -text export-ignore
+public/images/reviews/sofa-modular-itens.webp -text export-ignore
+public/images/reviews/sofa-modular-ou-retratil-hero.webp -text export-ignore
+public/images/reviews/sofa-na-caixa/bbc-news-sofa-na-caixa-manchete.png -text export-ignore
+public/images/reviews/sofa-na-caixa/procon-sp-damie-pesquisa.webp -text export-ignore
+public/images/reviews/sofa-na-caixa/procon-sp-pesquisa-evite-sites.webp -text export-ignore
+public/images/reviews/sofa-na-caixa/reclame-aqui-damie-painel.webp -text export-ignore
+public/images/reviews/sofa-na-caixa/reclame-aqui-sofa-na-caixa-painel.webp -text export-ignore
+public/images/reviews/sofa-na-caixa/sofa-modular-entrega-editorial-neutra.png -text export-ignore
+public/images/universe/damie-hero-cecilia.webp -text export-ignore
+public/images/universe/dicas-hero-promos.webp -text export-ignore
+public/videos/reviews/damie/poltrona-reclinavel-damie-2-0-hero-loop.mp4 -text export-ignore
+public/videos/reviews/damie/poltrona-reclinavel-damie-2-0-loop.mp4 -text export-ignore
+public/videos/reviews/dolcegusto/genio-s-touch-loop-1.mp4 -text export-ignore
+public/videos/reviews/dolcegusto/genio-s-touch-loop-2.mp4 -text export-ignore
+public/videos/reviews/dolcegusto/mini-me-2-0-loop.mp4 -text export-ignore
+public/videos/reviews/dolcegusto/tabela-manual-dolce-gusto-loop.mp4 -text export-ignore
+public/videos/reviews/samsung/lava-e-seca-loop.mp4 -text export-ignore
+public/videos/reviews/samsung/lava-e-seca-loop.webm -text export-ignore
 # END MANAGED PHASE5 CDN EXPORT ALLOWLIST

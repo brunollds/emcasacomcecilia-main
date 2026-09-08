@@ -13,6 +13,24 @@ const execFileAsync = promisify(execFile);
 
 const PNG = Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]);
 
+test('remote-proof append works before Git retention and rejects invalid proof', async () => {
+  const { repoRoot, manifest } = await fixture();
+  try {
+    const asset = manifest.assets[0];
+    await rm(path.join(repoRoot, asset.source_path));
+    const outputPath = path.join(repoRoot, 'map.json');
+    await writeFile(outputPath, '{}');
+    const options = { manifest, repoRoot, assetPaths: [asset.source_path], outputPath, append: true, write: true };
+    await prepareDelivery(options);
+    const second = await prepareDelivery(options);
+    assert.deepEqual(second.map, { [asset.local_url]: asset.remote_url });
+    asset.verified_at = 'not-a-date';
+    await assert.rejects(prepareDelivery(options), /proof failed/);
+  } finally {
+    await rm(repoRoot, { recursive: true, force: true });
+  }
+});
+
 async function fixture({ verified = true } = {}) {
   const repoRoot = await mkdtemp(path.join(os.tmpdir(), 'prepare-delivery-'));
   const sourcePath = 'public/images/pilot.png';

@@ -2,14 +2,19 @@
 
 ## Current delivery batches
 
-The current opt-in delivery map contains 304 exact references, not all 333 uploaded
-objects. The frozen selections are `data/media-delivery-review-batch.json` and
-`data/media-delivery-site-batch.json`; the latter preserves all prior entries.
-They are audit inputs, not automatic content scanners in the build. Original media
-and editorial paths remain local. Phase 5 adds an exact 304-file export-ignore
-allowlist, without deleting originals. Run `node scripts/media/phase5-export.mjs
---check` before release preparation. This frozen gate does not automatically
-expand when new media are uploaded or appended to the delivery map.
+The initial opt-in migration activated 304 exact references, not all uploaded
+objects. The delivery map grows only through explicit, verified appends. The frozen
+selections are `data/media-delivery-review-batch.json` and
+`data/media-delivery-site-batch.json`; the latter preserves all prior migration
+entries. They are historical audit inputs, not automatic content scanners in the
+build or a fixed limit for future media.
+Existing and newly retained original media stay in Git. External staging is
+optional for NEW media; after verified upload, retain the exact bytes in the
+canonical `public/` path before append. Editorial paths remain logical local URLs.
+After append, run `node scripts/media/phase5-export.mjs --write`, then `--check`
+before committing. `staged: true` is provenance, not permission to omit the file.
+The gate allows growth, verifies each identity, and protects the Git HEAD baseline
+against removal/remapping. It no longer requires fixed counts or total bytes.
 
 Run `npx tsx scripts/media/test-delivery-integration.ts` for the combined map,
 source-byte and schema checks. After a production build, run
@@ -29,26 +34,43 @@ gates are outside this directory.
 
 ## Upload and verify one new asset
 
-Keep the original under `public/images` or `public/videos`. Never remove it before
-backup coverage and an isolated restore have been verified. Python requires the
+Place new optimized media in an absolute external staging directory, with paths
+such as `images/reviews/brand/hero-v2.webp`. Keep that external recovery copy until
+backup coverage is verified; never delete legacy Git originals. Python requires the
 existing `python-dotenv` package; credentials stay in ignored `.env.local` under
 `FTP_CDNUPLOAD`, never in commands or reports.
 
-```text
-node scripts/media/inventory.mjs --merge --out data/media-manifest.json
-python scripts/media/upload-ftps.py --asset public/images/YOUR-FILE.webp
-python scripts/media/upload-ftps.py --asset public/images/YOUR-FILE.webp --execute --report data/media-upload-result.json
+```powershell
+$staging = 'C:\Users\Bruno\Downloads\Midias-Editorial'
+node scripts/media/inventory.mjs --merge --staging-root "$staging" --out data/media-manifest.json
+python scripts/media/upload-ftps.py --staging-root "$staging" --asset public/images/YOUR-FILE.webp
+python scripts/media/upload-ftps.py --staging-root "$staging" --asset public/images/YOUR-FILE.webp --execute --report "$staging/upload-result.json"
 node scripts/media/verify-remote.mjs --asset public/images/YOUR-FILE.webp --write
+node scripts/media/retain-original.mjs --staging-root "$staging" --asset public/images/YOUR-FILE.webp
+node scripts/media/retain-original.mjs --staging-root "$staging" --asset public/images/YOUR-FILE.webp --write
 node scripts/media/prepare-delivery.mjs --append --asset public/images/YOUR-FILE.webp
 node scripts/media/prepare-delivery.mjs --append --asset public/images/YOUR-FILE.webp --write
+node scripts/media/phase5-export.mjs --write
+node scripts/media/phase5-export.mjs --check
 ```
+
+`public/images/YOUR-FILE.webp` is the canonical file path. Staging files are
+marked `staged: true` in the manifest without recording machine paths. `retain-original`
+copies verified exact bytes only to a missing canonical destination and never
+overwrites. If the original is already in `public/`, omit `--staging-root` from
+the uploader and omit retention. Commit the original plus metadata/map and exact
+allowlist paths; no automatic upload, cleanup, build, commit or deploy occurs.
+`phase5-export` requires every mapped original locally and the deploy guard checks
+the target-SHA Git blob before excluding it from the archive. Unmapped new bytes
+still fail archive preparation; `legacy-archive-media.json` is not expandable.
 
 Replace the example path with the actual file. `--asset` is repeatable; `--all`
 selects only images/videos directories and rejects the batch if any selected asset
 fails preflight. Merge preserves evidence only for unchanged identities. Reverify new
 or changed objects before activation. Append validates existing and selected entries,
 preserves the map, and rejects remapping conflicts; use a new versioned local filename.
-Append requires an existing valid map. Plain preparation is replacement, not append.
+Append requires an existing valid map and local originals. Plain preparation is
+replacement, not append. Stage originals and metadata by explicit paths only.
 Run only one local operator at a time: atomic file writes are not a multi-writer lock.
 Existing identical remote objects
 are skipped after digest comparison; different bytes abort without overwrite.
@@ -82,7 +104,8 @@ owners, and literal references from JSON strings, Markdown, components, CSS, gen
 and `localVideoMetadata` keys.
 
 Fresh inventory (without `--merge`, reserved for initial setup) resets verification evidence.
-Merge preserves only upload/verification fields for unchanged identities; editorial status
+Merge preserves `staged: true` provenance and upload/verification fields for unchanged identities;
+editorial status
 remains candidate. A missing reference is
 `reference_status: "unknown"`, not an orphan decision. Draft ownership is recorded only when a
 referencing owner JSON explicitly has `draft: true`; a `drafts` directory name does not change
@@ -123,7 +146,7 @@ The selection is the complete desired map, not an append operation. Local source
 keys and original bytes remain intact; only delivery consumers resolve selected URLs remotely.
 An empty map restores local delivery, but that is not a production rollback until deployed.
 
-The current delivery map has 19 entries: the three Genio S Touch pilot assets plus batch A's 16
+The historical batch A delivery map had 19 entries: the three Genio S Touch pilot assets plus batch A's 16
 local-video/poster references. Batch A covers the Damie loops and posters, Dolce Gusto loop-2,
 Mini Me and table loops/posters, I Wanna Sleep MP4/WebM/poster, Poltrona and Samsung loop assets.
 Run `npx tsx scripts/media/test-delivery-integration.ts` for the contract; `node
@@ -171,3 +194,10 @@ transports for success, expiring certificates, divergent hashes, timeout, redire
 and oversized bodies. It is not an active monitor, does not schedule jobs, and does not send email
 or create alerts; Bruno and `brunollds@icloud.com` remain the designated owner/contact for a future
 operational integration.
+Antes de commitar um lote de midia ja staged por allowlist explicita, execute
+`node scripts/media/candidate-proof.mjs`. O comando monta a arvore exata do indice Git e
+prova mapa, manifesto, atributos, archive e blobs; nao valida apenas o working tree.
+Ative o hook versionado uma vez por clone com `node scripts/git/install-hooks.mjs`.
+O hook usa os validadores contidos na propria arvore staged. Durante desenvolvimento
+local desses validadores, faz apenas a prova do delta staged e emite aviso; o CI
+repete `phase5-export --check` global numa arvore commitada sem skew de versao.

@@ -5,6 +5,7 @@ import { readFile } from 'node:fs/promises';
 import { collectInventory, DEFAULT_ORIGIN, mergeInventory, parseCliArgs, writeJsonAtomically } from './library.mjs';
 
 function printHelp() {
+  process.stdout.write('Staging: --staging-root ABSOLUTE_EXTERNAL_ROOT (contains images/ and videos/)\n');
   process.stdout.write(`Usage: node scripts/media/inventory.mjs [options]\n\nOptions:\n  --out PATH          Write the manifest (default: data/media-manifest.json)\n  --public-root PATH  Public root relative to repo (default: public)\n  --repo-root PATH    Repository root (default: current directory)\n  --origin URL        HTTPS origin for generated URLs (default: ${DEFAULT_ORIGIN})\n  --stdout            Print JSON instead of writing a file\n  --merge             Preserve evidence when asset identity is unchanged\n  --help              Show this help\n`);
 }
 
@@ -18,6 +19,7 @@ async function main() {
     repoRoot,
     origin: options.origin ?? DEFAULT_ORIGIN,
     manifestPath,
+    stagingRoot: options.staging_root,
   });
   if (options.merge) {
     let previous;

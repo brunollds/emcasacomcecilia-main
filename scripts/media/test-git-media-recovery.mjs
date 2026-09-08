@@ -1,6 +1,6 @@
-import { execFileSync } from 'node:child_process';
+import { execFileSync, spawnSync } from 'node:child_process';
 import { createHash } from 'node:crypto';
-import { mkdirSync, mkdtempSync, readFileSync, writeFileSync } from 'node:fs';
+import { closeSync, mkdirSync, mkdtempSync, openSync, readFileSync, statSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
 
@@ -20,14 +20,19 @@ for (const url of Object.keys(map)) {
   const asset = matches[0];
   const source = `public${url}`;
   if (asset.source_path !== source) throw new Error(`Source mismatch: ${url}`);
-  // Read Git objects directly: export-ignore must not hide recovery sources.
-  const bytes = execFileSync('git', ['show', `${revision}:${source}`], { cwd: root, maxBuffer: 64 * 1024 * 1024 });
-  if (bytes.length !== asset.bytes || digest(bytes) !== asset.sha256) throw new Error(`Git recovery mismatch: ${url}`);
   const target = path.resolve(destination, source);
   if (!target.startsWith(`${destination}${path.sep}`)) throw new Error('Recovery escaped destination');
   mkdirSync(path.dirname(target), { recursive: true });
-  writeFileSync(target, bytes, { flag: 'wx' });
+  const fd = openSync(target, 'wx');
+  let result;
+  try {
+    result = spawnSync('git', ['show', `${revision}:${source}`], { cwd: root, stdio: ['ignore', fd, 'pipe'] });
+  } finally {
+    closeSync(fd);
+  }
+  if (result.error || result.status !== 0) throw new Error(`Git recovery source missing: ${url}`);
+  if (statSync(target).size !== asset.bytes || digest(readFileSync(target)) !== asset.sha256) throw new Error(`Git recovery mismatch: ${url}`);
   if (digest(readFileSync(target)) !== asset.sha256) throw new Error(`Restored bytes mismatch: ${url}`);
-  totalBytes += bytes.length;
+  totalBytes += asset.bytes;
 }
 console.log(JSON.stringify({ revision, destination, files: Object.keys(map).length, totalBytes, status: 'verified', limitation: 'Local Git recovery, not independent Hostinger backup or remote CDN restore' }, null, 2));

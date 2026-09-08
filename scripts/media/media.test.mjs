@@ -173,6 +173,22 @@ describe('media inventory contract', () => {
 });
 
 describe('remote verification contract', () => {
+  it('verifies image and video without repository bytes using GET digest and exact ranges', async () => {
+    const manifest = await collectInventory({ publicRoot: path.join(temporaryRoot, 'public'), repoRoot: temporaryRoot });
+    for (const kind of ['image', 'video']) {
+      const asset = manifest.assets.find((candidate) => candidate.media_kind === kind);
+      const result = await verifyAsset(asset, {
+        repoRoot: path.join(temporaryRoot, 'no-local-assets'),
+        fetchImpl: (url, options) => kind === 'image'
+          ? Promise.resolve(new Response(png1x1, { status: 200, headers: { 'Content-Type': 'image/png', 'Content-Length': String(png1x1.length) } }))
+          : fetch(`${serverOrigin}${new URL(url).pathname}`, options),
+      });
+      assert.equal(result.ok, true, JSON.stringify(result.errors));
+      assert.equal(result.checks.local.present, false);
+      assert.equal(result.checks.get.sha256, asset.sha256);
+      if (kind === 'video') assert.ok(result.checks.ranges.every((range) => range.ok));
+    }
+  });
   it('rejects immutable caching on a 416 even with correct range metadata', async () => {
     const manifest = await collectInventory({ publicRoot: path.join(temporaryRoot, 'public'), repoRoot: temporaryRoot });
     const asset = manifest.assets.find((candidate) => candidate.source_path === 'public/videos/loop.mp4');
