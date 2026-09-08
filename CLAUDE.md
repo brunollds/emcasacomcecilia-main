@@ -26,6 +26,11 @@ npm run test:html-lang
 
 `npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
 
+⚠️ **Editou `content/reviews/*.json` ou `content/receitas/*.json` à mão?** O app não lê esses
+arquivos direto em dev — ele lê `src/lib/generated/content-index.ts`, um índice gerado. Rode
+`node scripts/content/build-index.mjs` antes de conferir a mudança no `localhost:3000` (o
+`npm run build` já roda isso sozinho; só o `npm run dev` não regenera automaticamente).
+
 ## Architecture
 
 **Next.js 16.1.4 App Router + SSR** — do NOT add `output: 'export'` to `next.config.mjs`; Hostinger Node.js Web App requires SSR.
@@ -54,6 +59,17 @@ aconteceu:
 
 `src/lib/data.ts` ainda existe para categorias, redes sociais e links, com `formatPrice()` e
 `totalFollowers()`. Não acrescentar conteúdo editorial ali.
+
+### Mídia (imagens e vídeos) — biblioteca CDN em migração
+
+Existe uma frente em andamento (`docs/GUIA-MIDIA-EDITORIAL.md` e
+`docs/plans/2026-09-06-biblioteca-midia-deploy.md`) migrando `public/images` e `public/videos`
+para `https://cdn.emcasacomcecilia.com`, resolvido só na entrega. **Regra que não muda para
+quem escreve conteúdo:** continue usando caminhos locais nos JSONs (`/images/reviews/marca/...`).
+Não reescrever artigos com URL de CDN nem alterar chaves de `localVideoMetadata`/`video-pages` —
+o resolvedor aplica o mapa exato (`src/lib/generated/media-delivery-map.json`) só na entrega, sem
+tocar no conteúdo. Upload, verificação e deploy de mídia são scripts próprios em `scripts/media/`
+(ver o guia) e não devem ser executados a partir de uma tarefa editorial comum.
 
 ### Classificação de Guias & Análises
 

@@ -178,11 +178,13 @@ export function ReviewSectionContent({
             </caption>
             <thead>
               <tr className="bg-[#fef9f3]">
-                {section.comparisonTable.headers.map((header) => (
+                {section.comparisonTable.headers.map((header, headerIndex) => (
                   <th
                     key={header}
                     scope="col"
-                    className="px-4 py-3 font-heading text-xs font-black uppercase tracking-[0.12em] text-[#0f1419]/70"
+                    className={`px-4 py-3 font-heading text-xs font-black uppercase tracking-[0.12em] text-[#0f1419]/70 ${
+                      headerIndex === 0 ? 'border-r border-[#1a4d2e]/10' : ''
+                    }`}
                   >
                     {header}
                   </th>
@@ -193,7 +195,7 @@ export function ReviewSectionContent({
               {section.comparisonTable.rows.map((row, rowIndex) => (
                 <tr key={`${row[0]}-${rowIndex}`} className={rowIndex % 2 === 0 ? 'bg-white' : 'bg-[#faf8f3]'}>
                   {row.map((cell, cellIndex) => cellIndex === 0 ? (
-                    <th key={`${cell}-${cellIndex}`} scope="row" className="px-4 py-3 font-semibold text-[#1a4d2e]">
+                    <th key={`${cell}-${cellIndex}`} scope="row" className="border-r border-[#1a4d2e]/10 px-4 py-3 font-semibold text-[#1a4d2e]">
                       <HighlightCoupon text={cell} />
                     </th>
                   ) : (
