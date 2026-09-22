@@ -122,7 +122,7 @@ export const COUPONS: Coupon[] = [
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
     reusable: 'Sim, sem limite de usos por CPF',
     shipping: 'Calculado separadamente, conforme política da loja',
-    combinable: 'Não cumulativo com outros cupons ou promoções especiais',
+    combinable: 'Cumulativo com promoções e brindes vigentes; não cumulativo com outros cupons',
     lastVerified: '2026-10-01',
     aboutBrand:
       'A DAMIE é uma marca brasileira de móveis estofados premium, com foco em poltronas reclináveis, sofás, camas e soluções de conforto para a casa. A Cecília usa produtos da marca no dia a dia e produziu reviews mostrando montagem, acabamento, conforto e uso real em casa. O cupom CECILIA12 foi criado para quem acompanha o Em Casa com Cecília e quer comprar com desconto direto no checkout. A proposta da parceria é simples: indicar produtos que fazem sentido para uma casa mais confortável, sem esconder que existe relação comercial e comissão de afiliado quando uma compra é feita pelo link ou cupom.',
@@ -135,7 +135,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom CECILIA12 é cumulativo com outras promoções?',
         answer:
-          'Normalmente não. Cupons promocionais costumam substituir outras condições de desconto. Se a DAMIE estiver com uma promoção sazonal, compare o valor final no checkout.',
+          'Sim. O CECILIA12 pode ser usado junto com as promoções e os brindes vigentes no site da DAMIE. A restrição é apenas à combinação com outro cupom: não é possível aplicar dois códigos no mesmo pedido. Confira o resumo do checkout antes de finalizar.',
       },
       {
         question: 'O cupom inclui frete grátis?',
