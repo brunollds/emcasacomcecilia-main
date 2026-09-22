@@ -212,6 +212,33 @@
       "Use no campo Coupon Code; pode ser combinado com CECILIA010 no campo Reward Code, preços promocionais e YS Points.",
       "Não pode ser combinado com outro cupom promocional e não se aplica a frete, reenvio ou taxas adicionais."
     ],
+    "status": "expired",
+    "regions": ["GLOBAL"]
+  },
+  {
+    "id": "care26-promo",
+    "code": "CARE26",
+    "type": "coupon",
+    "discount": {
+      "kind": "text",
+      "label": "8–15% OFF"
+    },
+    "startsAt": "2026-09-22",
+    "expiresAt": "2026-09-24",
+    "verifiedAt": "2026-09-22",
+    "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2876",
+    "affiliateUrl": "https://ystyle.co/rQYQv",
+    "eligibility": [
+      "8% OFF em pedidos a partir de US$ 79",
+      "10% OFF em pedidos a partir de US$ 149",
+      "15% OFF em pedidos a partir de US$ 199"
+    ],
+    "restrictions": [
+      "Válido de 22/09/2026 às 00:00 GMT a 24/09/2026 às 23:59 GMT para membros YesStyle e produtos elegíveis.",
+      "Use no campo Coupon Code; pode ser combinado com CECILIA010 no campo Reward Code, preços promocionais e YS Points.",
+      "Não pode ser combinado com outro cupom promocional e não se aplica a frete, reenvio ou taxas adicionais.",
+      "Pode ser usado sem limite de vezes durante o período da promoção, com apenas um cupom promocional por pedido."
+    ],
     "status": "active",
     "regions": ["GLOBAL"]
   }
