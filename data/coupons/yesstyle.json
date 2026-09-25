@@ -239,6 +239,29 @@
       "Não pode ser combinado com outro cupom promocional e não se aplica a frete, reenvio ou taxas adicionais.",
       "Pode ser usado sem limite de vezes durante o período da promoção, com apenas um cupom promocional por pedido."
     ],
+    "status": "expired",
+    "regions": ["GLOBAL"]
+  },
+  {
+    "id": "glow15-promo",
+    "code": "GLOW15",
+    "type": "coupon",
+    "discount": {
+      "kind": "percentage",
+      "value": 15
+    },
+    "startsAt": "2026-09-25",
+    "expiresAt": "2026-09-29",
+    "verifiedAt": "2026-09-25",
+    "officialSourceUrl": "https://www.yesstyle.com/en/beauty-beauty/list.html/bcc.15478_bpt.46",
+    "affiliateUrl": "https://ystyle.co/rQYQv",
+    "eligibility": [
+      "15% OFF em qualquer pedido, sem valor mínimo, para membros YesStyle"
+    ],
+    "restrictions": [
+      "Use no campo Coupon Code; não pode ser combinado com outro cupom promocional.",
+      "O site oficial exibe a promoção GLOW15 como válida por tempo limitado; confirme a contagem regressiva e a elegibilidade no checkout."
+    ],
     "status": "active",
     "regions": ["GLOBAL"]
   }
