@@ -99,6 +99,7 @@ export function RootLayoutShell({
     es: 'Spanish',
     fr: 'French',
     de: 'German',
+    it: 'Italian',
     ko: 'Korean',
     ja: 'Japanese',
     'zh-hant': 'Traditional Chinese',

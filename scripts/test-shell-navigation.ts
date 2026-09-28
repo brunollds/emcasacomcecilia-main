@@ -9,7 +9,7 @@ import {
 } from '@/lib/i18n/shellDictionary';
 assert.deepEqual(
   LOCALE_KEYS.map((locale) => LOCALES[locale].shortLabel),
-  ['BR', 'US', 'ES', 'FR', 'DE', 'KR', 'JP', 'HK', 'CN'],
+  ['BR', 'US', 'ES', 'FR', 'DE', 'IT', 'KR', 'JP', 'HK', 'CN'],
 );
 assert.equal(new Set(LOCALE_KEYS.map((locale) => LOCALES[locale].shortLabel)).size, LOCALE_KEYS.length);
 

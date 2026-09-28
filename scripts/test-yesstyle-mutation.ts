@@ -94,7 +94,7 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
     }
   }
 
-  // Verificar lastModified do sitemap para os 9 hubs (deve coincidir com initialLatestVerifiedAt)
+  // Verificar lastModified do sitemap para os hubs de todos os idiomas (deve coincidir com initialLatestVerifiedAt)
   const hubSitemapEntries = allSitemapEntries.filter((item) =>
     Object.values(YESSTYLE_LOCALES).some((c) => `https://emcasacomcecilia.com${c.hubPath}` === item.url)
   );
@@ -145,7 +145,8 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
       if (ptHub.offerUrl !== 'https://ystyle.co/mutation-test') errors.push(`Hub PT offerUrl dinâmico esperado "https://ystyle.co/mutation-test", obteve "${ptHub.offerUrl}"`);
     }
 
-    // 6. Testar resolvedor, metadata, hreflangs com igualdade total e breadcrumbs estritos para TODOS OS 9 LOCALES
+    // 6. Testar resolvedor, metadata, hreflangs com igualdade total e breadcrumbs estritos para TODOS OS LOCALES
+    const expectedHreflangCount = yesStyleLocales.length + 1;
     for (const locale of yesStyleLocales) {
       const resolved = resolveYesStylePage(locale);
       const meta = getYesStyleMetadata(locale);
@@ -163,11 +164,11 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
         errors.push(`Canonical B2 para locale "${locale}" esperado "${expectedCanonical}", obteve "${actualCanonical}"`);
       }
 
-      // [P2 Fix]: Teste de igualdade completa do dicionário de hreflangs (comparação exata de todas as 10 chaves)
+      // [P2 Fix]: Teste de igualdade completa do dicionário de hreflangs (um por idioma + x-default)
       const langs = meta.alternates?.languages || {};
       const actualKeys = Object.keys(langs);
-      if (actualKeys.length !== 10) {
-        errors.push(`Quantidade de chaves hreflang esperada 10 em "${locale}", obteve ${actualKeys.length}`);
+      if (actualKeys.length !== expectedHreflangCount) {
+        errors.push(`Quantidade de chaves hreflang esperada ${expectedHreflangCount} em "${locale}", obteve ${actualKeys.length}`);
       }
 
       for (const locConfig of Object.values(YESSTYLE_LOCALES)) {
@@ -312,8 +313,8 @@ if (require.main === module) {
     console.log('✅ TESTE DE MUTAÇÃO B2 RIGOROSO PASSOU COM SUCESSO!');
     console.log('   - Restauração factual exata no finally (origPromoVerified preservado)!');
     console.log('   - Datas iniciais validadas dinamicamente via getLatestYesStyleVerifiedAtISO()!');
-    console.log('   - Canonicals auto-referenciados nos 9 hubs confirmados!');
-    console.log('   - Hreflangs: 10 chaves validadas por igualdade total em TODOS os 9 locales!');
+    console.log(`   - Canonicals auto-referenciados nos ${yesStyleLocales.length} hubs confirmados!`);
+    console.log(`   - Hreflangs: ${yesStyleLocales.length + 1} chaves validadas por igualdade total em TODOS os ${yesStyleLocales.length} locales!`);
     console.log('   - Sitemap: exatamente as URLs de YESSTYLE_LOCALES, contadas dinamicamente (sem heurísticas de slugs)!');
     console.log('   - Breadcrumbs: 3 níveis em PT e 2 níveis nos hubs internacionais sem vazamento para /cupons!');
     process.exit(0);

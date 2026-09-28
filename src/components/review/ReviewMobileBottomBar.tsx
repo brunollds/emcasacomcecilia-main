@@ -6,14 +6,16 @@ import { BottomSheet } from '@/components/editorial';
 import { ReviewSidebarContent, type ResolvedRelatedArticle } from './ReviewSidebar';
 import type { Review, ReviewKind } from '@/lib/content';
 import type { TocItem } from './ReviewTableOfContents';
-import { getCouponCopyLocale } from './couponCopyLocale';
+import { resolveReviewLocale } from '@/lib/content/review-i18n';
+import type { Locale } from '@/lib/i18n/locales';
 
-const mobileAriaLabels: Record<string, string> = {
+const mobileAriaLabels: Record<Locale, string> = {
   pt: 'Abrir sumário',
   en: 'Open table of contents',
   es: 'Abrir tabla de contenidos',
   fr: 'Ouvrir le sommaire',
   de: 'Inhaltsverzeichnis öffnen',
+  it: 'Apri l’indice',
   ko: '목차 열기',
   ja: '目次を開く',
   'zh-hant': '開啟目錄',
@@ -60,6 +62,8 @@ export function ReviewMobileBottomBar({
 
   if (!hasSidebar) return null;
 
+  const tocAriaLabel = mobileAriaLabels[resolveReviewLocale(review?.locale)];
+
   return (
     <>
       {/* Floating drawer trigger (persistent, appears after scroll) */}
@@ -69,7 +73,7 @@ export function ReviewMobileBottomBar({
           type="button"
           onClick={() => setDrawerOpen(true)}
           className="fixed bottom-4 left-4 z-40 inline-flex h-11 w-11 items-center justify-center rounded-full bg-white text-[#4a5568] border border-[#1a4d2e]/15 shadow-[0_2px_8px_rgba(0,0,0,0.1)] transition-all motion-safe:hover:-translate-y-0.5 hover:text-[#1a4d2e] motion-safe:hover:shadow-[0_4px_12px_rgba(0,0,0,0.14)] lg:hidden print:hidden"
-          aria-label={review ? (mobileAriaLabels[getCouponCopyLocale(review.slug)] || 'Abrir sumário') : 'Abrir sumário'}
+          aria-label={tocAriaLabel}
         >
           <List size={18} />
         </button>
@@ -80,7 +84,7 @@ export function ReviewMobileBottomBar({
         <BottomSheet
           open={drawerOpen}
           onClose={() => setDrawerOpen(false)}
-          ariaLabel={review ? (mobileAriaLabels[getCouponCopyLocale(review.slug)] || 'Nesta análise') : 'Nesta análise'}
+          ariaLabel={tocAriaLabel}
           returnFocusRef={floatingDrawerTriggerRef}
         >
           <ReviewSidebarContent

@@ -1,5 +1,4 @@
 import { type Locale } from '@/lib/i18n/locales';
-import { findYesStyleLocaleFromSlugOrPath } from '@/lib/i18n/clusters/yesstyle';
 
 export type CouponCopyLocale = Locale;
 
@@ -59,6 +58,15 @@ const couponCopyLabels: Record<CouponCopyLocale, CouponCopyLabels> = {
     inlineSuffix: 'an der Kasse verwenden',
     shortStoreCta: 'Im Shop nutzen',
   },
+  it: {
+    copy: 'Copia',
+    copied: 'Copiato',
+    copyCoupon: (coupon) => `Copia il codice ${coupon}`,
+    closeBar: 'Chiudi la barra del codice',
+    inlinePrefix: 'Usa il codice',
+    inlineSuffix: 'al checkout',
+    shortStoreCta: 'Vai al negozio',
+  },
   ko: { copy: '복사', copied: '복사됨', copyCoupon: (coupon) => `코드 ${coupon} 복사`, closeBar: '쿠폰 바 닫기', inlinePrefix: '코드', inlineSuffix: '결제 시 사용', shortStoreCta: '스토어에서 사용' },
   ja: { copy: 'コピー', copied: 'コピー済み', copyCoupon: (coupon) => `コード ${coupon} をコピー`, closeBar: 'クーポンバーを閉じる', inlinePrefix: 'コード', inlineSuffix: 'をチェックアウトで使う', shortStoreCta: 'ショップで使う' },
   'zh-hant': { copy: '複製', copied: '已複製', copyCoupon: (coupon) => `複製優惠碼 ${coupon}`, closeBar: '關閉優惠碼列', inlinePrefix: '使用優惠碼', inlineSuffix: '於結帳時輸入', shortStoreCta: '前往商店使用' },
@@ -69,10 +77,6 @@ export function getCouponCopyLabels(locale: CouponCopyLocale = 'pt'): CouponCopy
   return couponCopyLabels[locale];
 }
 
-
-export function getCouponCopyLocale(slugOrLocale: string): CouponCopyLocale {
-  return findYesStyleLocaleFromSlugOrPath(slugOrLocale) || 'pt';
-}
 
 export function isStepHeading(heading?: string): boolean {
   if (!heading) return false;

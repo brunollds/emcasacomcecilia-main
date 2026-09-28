@@ -4,6 +4,7 @@ export const LOCALE_KEYS = [
   'es',
   'fr',
   'de',
+  'it',
   'ko',
   'ja',
   'zh-hant',

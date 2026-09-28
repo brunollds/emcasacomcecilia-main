@@ -1,4 +1,4 @@
-export type Locale = 'pt' | 'en' | 'es' | 'fr' | 'de' | 'ko' | 'ja' | 'zh-hant' | 'zh-hans';
+export type Locale = 'pt' | 'en' | 'es' | 'fr' | 'de' | 'it' | 'ko' | 'ja' | 'zh-hant' | 'zh-hans';
 
 export interface LocaleConfig {
   locale: Locale;
@@ -16,6 +16,7 @@ export const LOCALES: Record<Locale, LocaleConfig> = {
   es: { locale: 'es', htmlLang: 'es', hreflang: 'es', openGraphLocale: 'es_ES', label: 'Español', shortLabel: 'ES', flag: '🇪🇸' },
   fr: { locale: 'fr', htmlLang: 'fr', hreflang: 'fr', openGraphLocale: 'fr_FR', label: 'Français', shortLabel: 'FR', flag: '🇫🇷' },
   de: { locale: 'de', htmlLang: 'de', hreflang: 'de', openGraphLocale: 'de_DE', label: 'Deutsch', shortLabel: 'DE', flag: '🇩🇪' },
+  it: { locale: 'it', htmlLang: 'it', hreflang: 'it', openGraphLocale: 'it_IT', label: 'Italiano', shortLabel: 'IT', flag: '🇮🇹' },
   ko: { locale: 'ko', htmlLang: 'ko', hreflang: 'ko', openGraphLocale: 'ko_KR', label: '한국어', shortLabel: 'KR', flag: '🇰🇷' },
   ja: { locale: 'ja', htmlLang: 'ja', hreflang: 'ja', openGraphLocale: 'ja_JP', label: '日本語', shortLabel: 'JP', flag: '🇯🇵' },
   'zh-hant': { locale: 'zh-hant', htmlLang: 'zh-Hant', hreflang: 'zh-Hant', openGraphLocale: 'zh_TW', label: '繁體中文', shortLabel: 'HK', flag: '🇭🇰' },

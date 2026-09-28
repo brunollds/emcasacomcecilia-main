@@ -15,6 +15,7 @@ const labels: Record<ContentLocale, string> = {
   es: 'Lee este contenido en otros idiomas:',
   fr: 'Lire ce contenu dans une autre langue :',
   de: 'Diesen Inhalt in anderen Sprachen lesen:',
+  it: 'Leggi questo contenuto in altre lingue:',
   ko: '다른 언어로 보기:',
   ja: 'ほかの言語で読む:',
   'zh-hant': '以其他語言閱讀此內容：',
@@ -23,6 +24,7 @@ const labels: Record<ContentLocale, string> = {
 
 const languageNames: Record<ContentLocale, string> = {
   pt: 'Português', en: 'English', es: 'Español', fr: 'Français', de: 'Deutsch',
+  it: 'Italiano',
   ko: '한국어', ja: '日本語', 'zh-hant': '繁體中文', 'zh-hans': '简体中文',
 };
 

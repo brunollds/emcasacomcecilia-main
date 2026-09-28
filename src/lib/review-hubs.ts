@@ -31,6 +31,10 @@ const REVIEW_HUB_COPY: Record<ReviewHubLocale, ReviewHubCopy> = {
     title: 'Ratgeber und Tests',
     description: 'Praktische Ratgeber und unabhängige Tests für Sie ausgewählt.',
   },
+  it: {
+    title: 'Guide e recensioni',
+    description: 'Guide pratiche e recensioni indipendenti selezionate per te.',
+  },
   ko: {
     title: '가이드와 리뷰',
     description: '실용적인 가이드와 독립적인 리뷰를 모았습니다.',

@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-// 1. Matriz de Expressões Proibidas Absolutas (Permanência Falsa e Stacking Irrestrito em Todos os 9 Idiomas)
+// 1. Matriz de Expressões Proibidas Absolutas (Permanência Falsa e Stacking Irrestrito em Todos os Idiomas)
 const forbiddenPhrases = [
   /n['’]importe\s+quel/i,
   /any\s+active\s+(coupon|promo\s+code)/i,
@@ -29,13 +29,16 @@ const forbiddenPhrases = [
   /gültigkeit\s*:\s*dauerhaft/i,
   /immer\s+aktiv/i,
   /dauerhafter\s+partner-code/i,
+  /qualsiasi\s+coupon/i,
+  /validità\s*:\s*permanente/i,
+  /sempre\s+attivo/i,
 ];
 
 // 2. Validador de Elegibilidade Obrigatória por Idioma
-const eligibilityTermsRegex = /(elegív|eligible|elegibl|éligibl|berechtigt|적격|対象|合資格|合资格|符合條件|符合条件|符合資格|符合资格)/i;
+const eligibilityTermsRegex = /(elegív|eligible|elegibl|éligibl|berechtigt|idone|적격|対象|合資格|合资格|符合條件|符合条件|符合資格|符合资格)/i;
 
 // 3. Validador Semântico de Desconto 5%
-const qualifiersRegex = /(até|up\s+to|hasta|jusqu['’]à|bis\s+zu|최대|最大|最高|高達|高达|primeira\s+compra|1ª\s+compra|1st\s+order|first\s+order|1st\s+purchase|first\s+purchase|1ère\s+commande|première\s+commande|primera\s+compra|erstbestellung|erste\s+bestellung|1\.\s+bestellung|1ª\s+compras|첫\s+구매|初回|首購|首购|首次|2%|Bronze|Elite\s+Club|10%|15%|50%)/i;
+const qualifiersRegex = /(até|up\s+to|hasta|jusqu['’]à|bis\s+zu|최대|最大|最高|高達|高达|primeira\s+compra|1ª\s+compra|1st\s+order|first\s+order|1st\s+purchase|first\s+purchase|1ère\s+commande|première\s+commande|primera\s+compra|erstbestellung|erste\s+bestellung|fino\s+al|primo\s+ordine|1º\s+ordine|1\.\s+bestellung|1ª\s+compras|첫\s+구매|初回|首購|首购|首次|2%|Bronze|Elite\s+Club|10%|15%|50%)/i;
 
 // Artigos de Reward Code que OBRIGATORIAMENTE devem conter 5% E 2%
 const rewardCodeArticles = [
@@ -44,6 +47,7 @@ const rewardCodeArticles = [
   'codigo-de-recompensa-yesstyle-cupon-cecilia010.json',
   'code-recompense-yesstyle-cecilia010.json',
   'yesstyle-reward-code-rabatt-cecilia010.json',
+  'codice-ricompensa-yesstyle-cecilia010.json',
   'yesstyle-reward-code-cecilia010-ko.json',
   'yesstyle-reward-code-cecilia010-ja.json',
   'yesstyle-reward-code-cecilia010-zh-hant.json',
@@ -129,7 +133,7 @@ function runNegativeRegressionTests() {
 
 runNegativeRegressionTests();
 
-// 6. Auditoria nos 18 Artigos da YesStyle
+// 6. Auditoria nos artigos de cupom da YesStyle (Reward Code + guia, todos os idiomas)
 const targetFiles = [
   'codigo-cecilia010-yesstyle-como-usar.json',
   'como-encontrar-cupons-yesstyle-validos.json',
@@ -141,6 +145,8 @@ const targetFiles = [
   'comment-trouver-des-codes-promo-yesstyle-valides.json',
   'yesstyle-reward-code-rabatt-cecilia010.json',
   'gueltige-yesstyle-gutscheincodes-finden.json',
+  'codice-ricompensa-yesstyle-cecilia010.json',
+  'come-trovare-codici-sconto-yesstyle-validi.json',
   'yesstyle-reward-code-cecilia010-ko.json',
   'yesstyle-valid-coupon-guide-ko.json',
   'yesstyle-reward-code-cecilia010-ja.json',
@@ -179,7 +185,7 @@ for (const fileName of targetFiles) {
 }
 
 if (totalErrorsCount === 0) {
-  console.log('\n🎉 TODOS OS 18 ARTIGOS YESSTYLE PASSARAM NA VALIDAÇÃO SEMÂNTICA EDITORIAL COM 100% DE SUCESSO!');
+  console.log(`\n🎉 TODOS OS ${targetFiles.length} ARTIGOS YESSTYLE PASSARAM NA VALIDAÇÃO SEMÂNTICA EDITORIAL COM 100% DE SUCESSO!`);
   process.exit(0);
 } else {
   console.error(`\n❌ ${totalErrorsCount} violação(ões) semântica(s) encontrada(s)!`);

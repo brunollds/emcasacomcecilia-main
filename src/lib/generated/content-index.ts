@@ -35378,7 +35378,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "This article contains affiliate links. When you visit YesStyle through our links or use the influencer code CECILIA010, we may earn a commission at no extra cost to you.",
     "relatedArticles": [
       {
-        "slug": "como-encontrar-cupons-yesstyle-validos",
+        "slug": "yesstyle-reward-code-coupon-cecilia010",
         "title": "YesStyle Reward Code CECILIA010 (Guide)"
       }
     ],
@@ -35590,7 +35590,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Este artículo contiene enlaces de afiliado. Al acceder a YesStyle mediante nuestros enlaces o usar el código CECILIA010, podemos recibir una comisión sin coste adicional para ti.",
     "relatedArticles": [
       {
-        "slug": "como-encontrar-cupons-yesstyle-validos",
+        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
         "title": "Código de recompensa YesStyle CECILIA010 (Guía)"
       }
     ],
@@ -35802,7 +35802,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cet article contient des liens d'affiliation. Lorsque vous achetez via nos liens ou utilisez le code CECILIA010, nous pouvons recevoir une commission sans coût supplémentaire pour vous.",
     "relatedArticles": [
       {
-        "slug": "como-encontrar-cupons-yesstyle-validos",
+        "slug": "code-recompense-yesstyle-cecilia010",
         "title": "Code de récompense YesStyle CECILIA010 (Guide)"
       }
     ],
@@ -36014,7 +36014,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dieser Artikel enthält Affiliate-Links. Wenn du über unsere Links einkaufst oder den Code CECILIA010 nutzt, erhalten wir möglicherweise eine Provision ohne Aufpreis für dich.",
     "relatedArticles": [
       {
-        "slug": "como-encontrar-cupons-yesstyle-validos",
+        "slug": "yesstyle-reward-code-rabatt-cecilia010",
         "title": "YesStyle Belohnungscode CECILIA010 (Ratgeber)"
       }
     ],
@@ -36226,7 +36226,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "본 문서에는 제휴 링크가 포함되어 있습니다. 링크를 통해 구매하거나 CECILIA010 코드를 사용하실 경우 소정의 수수료를 지급받을 수 있습니다.",
     "relatedArticles": [
       {
-        "slug": "como-encontrar-cupons-yesstyle-validos",
+        "slug": "yesstyle-reward-code-cecilia010-ko",
         "title": "YesStyle 리워드 코드 CECILIA010 (가이드)"
       }
     ],
@@ -36438,7 +36438,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "本記事にはアフィリエイトリンクが含まれています。リンク経由でのご購入やCECILIA010コードのご利用により、当サイトが報酬を得る場合があります。",
     "relatedArticles": [
       {
-        "slug": "como-encontrar-cupons-yesstyle-validos",
+        "slug": "yesstyle-reward-code-cecilia010-ja",
         "title": "YesStyle リワードコード CECILIA010（ガイド）"
       }
     ],
@@ -36650,7 +36650,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "本文包含贊助聯盟連結。如果您通過我們的連結購買或使用 CECILIA010 代碼，我們可能會獲得佣金，對您無需支付額外費用。",
     "relatedArticles": [
       {
-        "slug": "como-encontrar-cupons-yesstyle-validos",
+        "slug": "yesstyle-reward-code-cecilia010-zh-hant",
         "title": "YesStyle 獎勵代碼 CECILIA010（指南）"
       }
     ],
@@ -36862,7 +36862,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "本文包含赞助联盟链接。如果您通过我们的链接购买或使用 CECILIA010 代码，我们可能会获得佣金，对您无需支付额外费用。",
     "relatedArticles": [
       {
-        "slug": "como-encontrar-cupons-yesstyle-validos",
+        "slug": "yesstyle-reward-code-cecilia010-zh-hans",
         "title": "YesStyle 奖励代码 CECILIA010（指南）"
       }
     ],
@@ -44313,6 +44313,7 @@ export const reviewsData: unknown[] = [
     "id": 283,
     "slug": "skincare-coreano-30-anos-rotina-iniciante-yesstyle",
     "locale": "pt",
+    "translationKey": "yesstyle-skincare-30",
     "title": "Skincare Coreano aos 30 Anos: Testei uma Rotina de Iniciante com a Abib da YesStyle",
     "seoTitle": "Skincare Coreano aos 30: Rotina Iniciante com Abib (Testei)",
     "type": "Primeiras Impressões",
@@ -44564,5 +44565,3041 @@ export const reviewsData: unknown[] = [
         "title": "Como encontrar cupons YesStyle válidos e economizar"
       }
     ]
+  },
+  {
+    "id": 300,
+    "slug": "korean-skincare-at-30-beginner-routine-abib-yesstyle",
+    "locale": "en",
+    "translationKey": "yesstyle-skincare-30",
+    "hideFromPortugueseListings": true,
+    "title": "Korean Skincare at 30: I Tried a Beginner Routine with Abib from YesStyle",
+    "seoTitle": "Korean Skincare at 30: Beginner Routine with Abib",
+    "type": "First Impressions",
+    "category": "produtos-experiencias",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "I had never even used sunscreen, and at 30 I tried a Korean skincare routine with three Abib products YesStyle sent me: a hydrogel eye patch, a booster crème with PDRN and retinal, and a jelly lip mask.",
+    "metaDescription": "Korean skincare at 30 for beginners: I tried Abib's eye patch, PDRN crème and lip mask. Texture, scent, how to use them and the CECILIA010 code at YesStyle.",
+    "publishedAt": "September 28, 2026",
+    "publishedAtISO": "2026-09-28",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
+    "imageAlt": "Cecília Mauad holding the boxes of the Abib PDRN booster crème, hydrogel eye patch and lip mask",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
+    "pros": [
+      "A short routine: three products and about 15 minutes, most of it just waiting while the eye patch does its thing",
+      "Cool hydrogel eye patch with a textured surface that helps it stay put",
+      "A crème with a balm-like texture that spreads easily and leaves a velvety finish",
+      "A lip mask that comes with a spatula and a sweet, candy-like scent that didn't get sickly for me",
+      "Original Korean products sold by YesStyle itself, and CECILIA010 adds a discount in the Reward Code field"
+    ],
+    "cons": [
+      "PDRN and retinal work slowly: don't expect a visible difference in the first week",
+      "Retinal calls for sunscreen during the day — if you're like me and never wore it, you'll have to start",
+      "The first time, I wasn't sure which side of the eye patch goes on the skin",
+      "It's an international order: delivery takes longer than from a local store, and how long depends on your country"
+    ],
+    "contentSections": [
+      {
+        "heading": "Thirty: The Age of Success and the Age of Paying Your Beauty Dues",
+        "paragraphs": [
+          "Up until now, we got by on good looks for free. I had never even used sunscreen, and then I turned 30 and decided to take this seriously: I put together my first Korean skincare routine.",
+          "I received three Abib products sent by YesStyle, an online store that sells imported cosmetics. And it's the real deal from Korea, okay? Not “Korean-style,” not “Korean-inspired.”",
+          "This article is my first encounter with all three, recorded in the video (in Portuguese): what it's like to put them on, the texture, the scent and how I felt when I took the eye patch off. I can't promise skin results on day one — I'll keep using them over the next few weeks and come back to tell you what changed."
+        ]
+      },
+      {
+        "heading": "The three Abib products I received",
+        "paragraphs": [
+          "The routine has one product for each area: eyes, face and lips. The details below come from each product's official page on YesStyle; the impressions are mine."
+        ],
+        "comparisonTable": {
+          "caption": "The Abib routine I tested: size, key ingredients and the brand's directions for use",
+          "headers": [
+            "Product",
+            "What it's for",
+            "Size",
+            "Key ingredients",
+            "How the brand says to use it"
+          ],
+          "rows": [
+            [
+              "Abib Hydrogel Eye Patch PDRN & Retinal",
+              "Dark circles and a tired look",
+              "60 patches (84 g)",
+              "PDRN, retinal, caffeine, niacinamide, collagen",
+              "Apply under the eyes and remove after 10 to 15 minutes"
+            ],
+            [
+              "Abib PDRN Volume Fill-it Booster Crème 2.5 Tube",
+              "Firmness and fine lines",
+              "30 ml",
+              "PDRN (15,000 ppm), Volufiline (10,000 ppm), retinal, peptides",
+              "Apply to face and neck, patting gently"
+            ],
+            [
+              "Abib PDRN Collagen Lip Mask Glazed Jelly",
+              "Lip hydration",
+              "11 g",
+              "Centella and ginkgo PDRN, collagen, hyaluronic acid",
+              "A thin layer by day or a generous layer before bed, using the spatula"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Hydrogel eye patch: cool to the touch (and I put mine on backwards)",
+        "paragraphs": [
+          "The first contact is the best part: the patch is nice and cool. It comes in a jar with 60 patches, and the brand says the textured surface helps keep it from slipping.",
+          "I'll confess I put the first one on wrong. I flipped it, flipped it back, tried it the other way and decided that looked better — but honestly, I couldn't feel any difference between the sides. If you've never used these either, don't worry: what matters is that it sits snugly under the eyes without touching the eye itself.",
+          "Over time the patch gets thinner, as if it were disappearing. That doesn't mean your skin absorbed the whole hydrogel; it's the gel delivering what's inside while it sits there, sealed against your skin, without evaporating.",
+          "The packaging says to remove it after 10 to 15 minutes. In the video I left mine on for about 20, because I was busy with the rest of the routine — follow the label. And don't sleep with it on."
+        ],
+        "bullets": [
+          "When I took it off: everything had soaked in, my skin wasn’t left damp, and I could clearly see the shape of where the patch had been;",
+          "Feeling: cool the moment it touches your skin;",
+          "What the brand promises: to brighten the area and soften the tired look, with PDRN, retinal and caffeine. I can only judge that with continued use."
+        ],
+        "links": [
+          {
+            "label": "See the Abib Hydrogel Eye Patch PDRN & Retinal on YesStyle",
+            "href": "https://ystyle.co/cn2Z5",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+        "imageAlt": "Cecília holding a pink Abib hydrogel eye patch with the open jar in her other hand",
+        "imageCaption": "The Abib hydrogel eye patch comes in a jar of 60 and feels cool the moment it touches your skin.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "Booster Crème 2.5: a balm-like texture that turns velvety",
+        "paragraphs": [
+          "While the eye patch did its work, I applied the crème. It comes out of the tube with a balm-like texture: you smooth it on and feel it glide across your skin.",
+          "Then comes the part I liked most: once it's spread, the skin has a velvety finish, as if it turned to velvet on the spot. And it spreads really well.",
+          "In the formula, Abib highlights PDRN and Volufiline (an ingredient used for a plumping feel), plus retinal, peptides, niacinamide and caffeine. It's a crème designed for firmness and fine lines — in other words, a long-term job."
+        ],
+        "bullets": [
+          "Where to apply: face and neck, patting gently to help absorption, as the brand directs;"
+        ],
+        "links": [
+          {
+            "label": "See the Abib PDRN Volume Fill-it Booster Crème 2.5 on YesStyle",
+            "href": "https://ystyle.co/q5SUZ",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+        "imageAlt": "Cecília holding the tube of Abib PDRN Volume Fill-it Booster Crème 2.5",
+        "imageCaption": "The 30 ml tube of Booster Crème 2.5: it comes out like a balm and leaves skin with a velvety finish.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "Lip Mask Glazed Jelly: a sweet scent that doesn't get sickly",
+        "paragraphs": [
+          "Last, the lip mask. It comes with a tiny spatula, and the texture is a gel — similar to the eye patch.",
+          "It smells sweet, like candy, but it's not sickly. Anyone who follows me knows I have a problem with strong scents, and this one didn't bother me.",
+          "The brand says to use a thin layer during the day for shine and hydration, or a generous layer before bed as an overnight mask."
+        ],
+        "links": [
+          {
+            "label": "See the Abib PDRN Collagen Lip Mask Glazed Jelly on YesStyle",
+            "href": "https://ystyle.co/TS7jZ",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+        "imageAlt": "Cecília pouting and holding the jar of the Abib Glazed Jelly lip mask",
+        "imageCaption": "The 11 g Lip Mask Glazed Jelly has a gel texture and a sweet, candy-like scent.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "PDRN and retinal, demystified: why the effect is gentle",
+        "paragraphs": [
+          "The big thing about Korean skincare is that the products are designed for long-term use. Girl, you just turned 30: this is only the beginning. For the rest of your life, you're going to need a skincare routine.",
+          "In the video (in Portuguese) I said retinoic acid, but the correct name of the ingredient in the eye patch and the crème is retinal (also called retinaldehyde). It's a vitamin A derivative, in the same family as retinol, and the skin converts it into retinoic acid. The action is more gradual — which is why I'm not about to start peeling just because I started using it.",
+          "PDRN is an ingredient made from DNA fragments that has become a craze in Korean cosmetics tied to regeneration and firmness. For the lip mask, Abib states that the PDRN comes from centella asiatica and ginkgo biloba."
+        ],
+        "bullets": [
+          "A gentle effect: don't expect a change on day one or in the first week; the benefit comes with consistency;",
+          "Sunscreen by day: if you use retinal at night, you need sunscreen during the day. For someone like me who never used it, that's the first habit to build;",
+          "Pregnancy and breastfeeding: vitamin A derivatives call for medical advice before use;",
+          "Sensitive skin: if it stings or turns red, use it less often and see a dermatologist."
+        ]
+      },
+      {
+        "heading": "My beginner's night routine, step by step",
+        "paragraphs": [
+          "The order I followed in the video fits into an ordinary night, without the ten-step marathon the internet associates with Korean skincare:"
+        ],
+        "bullets": [
+          "Step 1 — Eyes: with a clean face, I put the hydrogel patch under my eyes;",
+          "Step 2 — Face and neck: while the patch works, I pat on the Booster Crème;",
+          "Step 3 — Lips: one layer of the lip mask with the spatula;",
+          "Step 4 — Remove the patch: after 10 to 15 minutes, as the packaging says;",
+          "Total time: about 15 minutes, most of it just waiting with the patch on."
+        ]
+      },
+      {
+        "heading": "Where to buy and how to save with CECILIA010",
+        "paragraphs": [
+          "All three products are sold by YesStyle, which ships internationally. Delivery time and shipping cost depend on your country, so check the estimate in your cart before you pay.",
+          "At checkout, enter CECILIA010 in the Reward Code field: it gives you 5% off your first order and 2% off later ones. Promotional coupons go in the other field, Coupon Code — and they stack with CECILIA010, including those special coupons that are sent only to your account.",
+          "About customs: YesStyle refunds customs duties and fees, as YesStyle Credit, on orders under US$ 1,000 (the value before coupons, excluding shipping). If you're charged when the package arrives, pay it, keep the receipt and send it to YesStyle customer service within 30 days. Taxes charged at checkout in some regions — such as EU VAT, UK VAT, US sales tax or Australian GST — are not covered by this refund."
+        ],
+        "links": [
+          {
+            "label": "This week's coupon and the CECILIA010 rules at YesStyle",
+            "href": "/en/coupons/yesstyle"
+          },
+          {
+            "label": "Go to YesStyle with the CECILIA010 code",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          },
+          {
+            "label": "Is YesStyle legit and safe? What to know before shopping",
+            "href": "/en/reviews/is-yesstyle-legit-and-safe-review"
+          },
+          {
+            "label": "K-Beauty explained: why it became a global trend and where to shop",
+            "href": "/en/reviews/k-beauty-trend-explained-where-to-buy"
+          }
+        ]
+      },
+      {
+        "heading": "What I'll be tracking over the next few weeks",
+        "paragraphs": [
+          "This is a record of my first use. I'll keep up the routine and come back to tell you what really changed — and what didn't."
+        ],
+        "bullets": [
+          "Dark circles and the tired look under the eyes;",
+          "Texture and glow of the skin on my face and neck;",
+          "Whether the retinal causes any irritation with continued use;",
+          "Whether the lip mask keeps my lips hydrated overnight."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "How long should I leave the Abib hydrogel eye patch on? The packaging says to remove it after 10 to 15 minutes. Don't sleep with it on.",
+          "What is PDRN? It's an ingredient made from DNA fragments, widely used in Korean cosmetics aimed at regeneration and firmness. In Abib's lip mask, the brand says it comes from plants (centella asiatica and ginkgo biloba).",
+          "Is retinal the same as retinoic acid? No. Retinal is a vitamin A derivative that the skin converts into retinoic acid. That's why its action is more gradual, and why it calls for sunscreen during the day.",
+          "Does the Abib lip mask have a strong scent? It smells sweet, like candy. I'm sensitive to strong scents, and this one didn't bother me.",
+          "Does YesStyle ship to my country, and who pays customs? YesStyle ships internationally, and delivery time and shipping cost depend on your country — the estimate appears in your cart. For customs duties and fees charged on arrival, YesStyle refunds them as YesStyle Credit on orders under US$ 1,000, if you send the payment receipt within 30 days. Taxes charged at checkout in some regions (EU VAT, UK VAT, US sales tax, Australian GST) are not covered.",
+          "Where do I use the CECILIA010 code? In the Reward Code field at checkout. It gives 5% off your first order and 2% off later ones, and it stacks with any coupon you enter in the Coupon Code field."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "See the three Abib products on YesStyle and use CECILIA010 in the Reward Code field",
+      "label": "See Abib products on YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "YesStyle sent all three products to Em Casa com Cecília. This article records Cecília Mauad's first impressions from the first use, shown in the video (in Portuguese); size, ingredient and directions-for-use details come from the official product pages on YesStyle. The site earns a commission through the affiliate links and the CECILIA010 Reward Code.",
+    "relatedArticles": [
+      {
+        "slug": "k-beauty-trend-explained-where-to-buy",
+        "title": "K-Beauty Explained: Why It Became a Global Trend and Where to Shop"
+      },
+      {
+        "slug": "is-yesstyle-legit-and-safe-review",
+        "title": "Is YesStyle Legit and Safe? What to Know Before Shopping"
+      },
+      {
+        "slug": "how-to-find-valid-yesstyle-coupon-codes",
+        "title": "How to Find Valid YesStyle Coupon Codes and Combine with CECILIA010"
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "slug": "skincare-coreano-a-los-30-rutina-principiante-abib-yesstyle",
+    "locale": "es",
+    "translationKey": "yesstyle-skincare-30",
+    "hideFromPortugueseListings": true,
+    "title": "Skincare Coreano a los 30: Probé una Rutina de Principiante con Abib de YesStyle",
+    "seoTitle": "Skincare coreano a los 30: rutina principiante con Abib",
+    "type": "Primeras Impresiones",
+    "category": "produtos-experiencias",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Ni siquiera usaba protector solar y, a los 30, probé una rutina de skincare coreano con tres productos de Abib que me envió YesStyle: parches de hidrogel para los ojos, crema booster con PDRN y retinal y mascarilla labial en gel.",
+    "metaDescription": "Skincare coreano a los 30 para principiantes: probé los parches de ojos, la crema con PDRN y la mascarilla labial de Abib. Textura, olor, uso y CECILIA010.",
+    "publishedAt": "28 de septiembre de 2026",
+    "publishedAtISO": "2026-09-28",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
+    "imageAlt": "Cecília Mauad sosteniendo las cajas de la crema booster con PDRN, los parches de hidrogel para los ojos y la mascarilla labial de Abib",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
+    "pros": [
+      "Rutina corta: tres productos y unos 15 minutos, casi todos de espera con el parche puesto",
+      "Parche de hidrogel fresquito, con una superficie texturizada que ayuda a que no resbale",
+      "Crema con textura de bálsamo que se extiende fácil y deja un acabado aterciopelado",
+      "Mascarilla labial con espátula y un olorcito dulce que, para mí, no resultó empalagoso",
+      "Productos coreanos originales vendidos por la propia YesStyle, con el CECILIA010 sumando descuento en el campo Reward Code"
+    ],
+    "cons": [
+      "El PDRN y el retinal actúan despacio: no esperes una diferencia visible en la primera semana",
+      "El retinal pide protector solar de día — si, como yo, nunca lo usaste, tendrás que empezar",
+      "La primera vez dudé de cuál era el lado correcto del parche",
+      "Es una compra internacional: el plazo de entrega es más largo que el de una tienda local y depende de tu país"
+    ],
+    "contentSections": [
+      {
+        "heading": "Treinta: la edad del éxito y la edad de pasar por caja en belleza",
+        "paragraphs": [
+          "Hasta aquí, ser guapas nos salió gratis. Yo, que ni siquiera usaba protector solar, cumplí 30 años y decidí tomármelo en serio: armé mi primera rutina de skincare coreano.",
+          "Recibí tres productos de Abib enviados por YesStyle, una tienda online que vende cosméticos importados. Y es coreano de Corea, ¿eh? No es “estilo coreano”, no es “inspirado en Corea”.",
+          "Este artículo es mi primer contacto con los tres, registrado en el vídeo (en portugués): cómo es ponérselos, la textura, el olor y lo que sentí al quitarme el parche. Un resultado en la piel no se puede prometer el primer día — voy a usarlos en las próximas semanas y vuelvo aquí para contarte qué cambió."
+        ]
+      },
+      {
+        "heading": "Los tres productos de Abib que recibí",
+        "paragraphs": [
+          "La rutina tiene un producto para cada zona: ojos, rostro y labios. Los datos de abajo son de la página oficial de cada producto en YesStyle; las impresiones son mías."
+        ],
+        "comparisonTable": {
+          "caption": "Rutina Abib probada: tamaño, activos principales y modo de uso indicado por la marca",
+          "headers": [
+            "Producto",
+            "Para qué sirve",
+            "Tamaño",
+            "Activos destacados",
+            "Cómo indica usarlo la marca"
+          ],
+          "rows": [
+            [
+              "Abib Hydrogel Eye Patch PDRN & Retinal",
+              "Ojeras y aspecto cansado",
+              "60 parches (84 g)",
+              "PDRN, retinal, cafeína, niacinamida, colágeno",
+              "Aplicar bajo los ojos y retirar después de 10 a 15 minutos"
+            ],
+            [
+              "Abib PDRN Volume Fill-it Booster Crème 2.5 Tube",
+              "Firmeza y líneas finas",
+              "30 ml",
+              "PDRN (15.000 ppm), Volufiline (10.000 ppm), retinal, péptidos",
+              "Aplicar en rostro y cuello con toquecitos suaves"
+            ],
+            [
+              "Abib PDRN Collagen Lip Mask Glazed Jelly",
+              "Hidratación de los labios",
+              "11 g",
+              "PDRN de centella y ginkgo, colágeno, ácido hialurónico",
+              "Capa fina de día o generosa antes de dormir, con la espátula"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Parches de hidrogel para los ojos: fresquitos (y yo me puse el primero al revés)",
+        "paragraphs": [
+          "El primer contacto es lo mejor: el parche está fresquito. Viene en un tarro con 60 unidades, y la marca dice que la superficie texturizada ayuda a que no resbale.",
+          "Confieso que me puse el primero mal. Lo giré, lo volví a girar, lo probé del otro lado y me pareció que así quedaba mejor — pero, sinceramente, no noté diferencia entre los lados. Si tú tampoco los has usado nunca, no te preocupes: lo importante es que quede bien asentado bajo los ojos, sin tocar el ojo.",
+          "Con el tiempo, el parche se va volviendo más fino, como si desapareciera. No significa que la piel haya absorbido todo el hidrogel; es el gel entregando lo que lleva dentro mientras está ahí, bien pegadito, sin evaporarse.",
+          "El envase indica quitarlo después de 10 a 15 minutos. En el vídeo lo dejé unos 20, porque estaba haciendo el resto de la rutina — sigue la etiqueta. Y no es para dormir con él."
+        ],
+        "bullets": [
+          "Al quitarlo: todo se había absorbido, la piel no quedó húmeda y se veía perfectamente la forma de donde estuvo el parche;",
+          "Sensación: fresquito en cuanto toca la piel;",
+          "Lo que promete la marca: iluminar la zona y disimular el aspecto cansado, con PDRN, retinal y cafeína. Eso solo puedo evaluarlo con el uso continuado."
+        ],
+        "links": [
+          {
+            "label": "Ver el Abib Hydrogel Eye Patch PDRN & Retinal en YesStyle",
+            "href": "https://ystyle.co/cn2Z5",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+        "imageAlt": "Cecília sosteniendo un parche de hidrogel rosado de Abib con el tarro abierto en la otra mano",
+        "imageCaption": "El parche de hidrogel de Abib viene en un tarro con 60 unidades y está fresquito al tocar la piel.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "Booster Crème 2.5: textura de bálsamo que se vuelve terciopelo",
+        "paragraphs": [
+          "Mientras el parche actuaba, me apliqué la crema. Sale del tubo con textura de bálsamo: la pasas y sientes cómo se desliza por la piel.",
+          "Y ahí llega la parte que más me gustó: después de extenderla, la piel queda con un acabado aterciopelado, como si se volviera terciopelo al instante. Y se extiende muy bien.",
+          "En la fórmula, Abib destaca PDRN y Volufiline (un ingrediente usado para dar sensación de relleno), además de retinal, péptidos, niacinamida y cafeína. Es una crema pensada para la firmeza y las líneas finas — es decir, un trabajo a largo plazo."
+        ],
+        "bullets": [
+          "Dónde aplicarla: rostro y cuello, con toquecitos suaves para ayudar a la absorción, como indica la marca;"
+        ],
+        "links": [
+          {
+            "label": "Ver la Abib PDRN Volume Fill-it Booster Crème 2.5 en YesStyle",
+            "href": "https://ystyle.co/q5SUZ",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+        "imageAlt": "Cecília sosteniendo el tubo de Abib PDRN Volume Fill-it Booster Crème 2.5",
+        "imageCaption": "El tubo de 30 ml del Booster Crème 2.5: sale como un bálsamo y deja la piel con un acabado aterciopelado.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "Lip Mask Glazed Jelly: un olorcito dulce que no empalaga",
+        "paragraphs": [
+          "Por último, la mascarilla labial. Viene con una espatulita, y la textura es de gel — parecida a la de los parches para los ojos.",
+          "Tiene un olorcito dulce, pero no empalaga. Quien me sigue sabe que tengo problemas con los olores fuertes, y este no me molestó.",
+          "La marca indica usar una capa fina durante el día, para dar brillo e hidratación, o una capa generosa antes de dormir, como mascarilla de noche."
+        ],
+        "links": [
+          {
+            "label": "Ver la Abib PDRN Collagen Lip Mask Glazed Jelly en YesStyle",
+            "href": "https://ystyle.co/TS7jZ",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+        "imageAlt": "Cecília haciendo un besito y sosteniendo el tarro de la mascarilla labial Abib Glazed Jelly",
+        "imageCaption": "La Lip Mask Glazed Jelly, de 11 g, tiene textura de gel y un olorcito dulce.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "PDRN y retinal sin misterio: por qué el efecto es suave",
+        "paragraphs": [
+          "Lo importante del skincare coreano es que los productos están pensados para el uso a largo plazo. Amiga, acabas de cumplir 30: esto es solo el comienzo. Para el resto de la vida vas a necesitar una rutina de cuidado de la piel.",
+          "En el vídeo (en portugués) hablé de ácido retinoico, pero el nombre correcto del ingrediente del parche y de la crema es retinal (o retinaldehído). Es un derivado de la vitamina A, de la misma familia que el retinol, y la piel lo transforma en ácido retinoico. La acción es más gradual — por eso no voy a salir descamándome solo porque empecé a usarlo.",
+          "El PDRN es un ingrediente hecho de fragmentos de ADN que se puso de moda en la cosmética coreana ligado a la regeneración y la firmeza. En la mascarilla labial, Abib informa que el PDRN proviene de la centella asiática y del ginkgo biloba."
+        ],
+        "bullets": [
+          "Efecto suave: no esperes cambios el primer día ni la primera semana; el beneficio llega con constancia;",
+          "Protector solar de día: quien usa retinal por la noche necesita protector durante el día. Para quien, como yo, nunca lo usó, este es el primer hábito que crear;",
+          "Embarazo y lactancia: los derivados de la vitamina A requieren consejo médico antes de usarlos;",
+          "Piel sensible: si pica o se enrojece, reduce la frecuencia y consulta a un dermatólogo."
+        ]
+      },
+      {
+        "heading": "Mi rutina nocturna de principiante, paso a paso",
+        "paragraphs": [
+          "El orden que seguí en el vídeo cabe en una noche cualquiera, sin ese maratón de diez pasos que internet asocia con el skincare coreano:"
+        ],
+        "bullets": [
+          "Paso 1 — Ojos: con el rostro limpio, me pongo el parche de hidrogel bajo los ojos;",
+          "Paso 2 — Rostro y cuello: mientras el parche actúa, me aplico el Booster Crème con toquecitos;",
+          "Paso 3 — Labios: una capa de la mascarilla labial con la espátula;",
+          "Paso 4 — Quitar el parche: después de 10 a 15 minutos, como indica el envase;",
+          "Tiempo total: unos 15 minutos, casi todos de espera con el parche puesto."
+        ]
+      },
+      {
+        "heading": "Dónde comprar y cómo ahorrar con CECILIA010",
+        "paragraphs": [
+          "Los tres productos los vende YesStyle, que envía a todo el mundo. El plazo de entrega y el coste del envío dependen de tu país, así que mira la estimación en el carrito antes de pagar.",
+          "En el pago, introduce el código CECILIA010 en el campo Reward Code: te da un 5% de descuento en el primer pedido y un 2% en los siguientes. Los cupones promocionales van en el otro campo, Coupon Code — y se suman al CECILIA010, incluidos esos cupones especiales que llegan solo a tu cuenta.",
+          "Sobre los impuestos: YesStyle reembolsa las tasas y aranceles de aduana de los pedidos de menos de 1.000 USD (valor antes de los cupones, sin el envío), en forma de crédito de YesStyle. Si te cobran algo cuando llega el paquete, págalo, guarda el comprobante y envíalo al servicio de atención de la tienda en un plazo de 30 días. Los impuestos que se cobran en el pago en algunas regiones — como el IVA de la UE, el IVA del Reino Unido, el sales tax de EE. UU. o el GST de Australia — no están cubiertos por este reembolso."
+        ],
+        "links": [
+          {
+            "label": "Cupón de la semana y reglas del CECILIA010 en YesStyle",
+            "href": "/es/coupons/yesstyle"
+          },
+          {
+            "label": "Acceder a YesStyle con el código CECILIA010",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          },
+          {
+            "label": "¿Es YesStyle de fiar y seguro? Lo que debes saber antes de comprar",
+            "href": "/es/reviews/es-yesstyle-de-fiar-y-seguro"
+          },
+          {
+            "label": "K-Beauty: por qué se convirtió en tendencia mundial y dónde comprar las marcas coreanas",
+            "href": "/es/reviews/k-beauty-marcas-coreanas-tendencia-mundial"
+          }
+        ]
+      },
+      {
+        "heading": "Qué voy a seguir en las próximas semanas",
+        "paragraphs": [
+          "Este es el registro del primer uso. Voy a seguir con la rutina y volveré aquí para contarte qué cambió de verdad — y qué no cambió."
+        ],
+        "bullets": [
+          "Ojeras y aspecto cansado bajo los ojos;",
+          "Textura y luminosidad de la piel del rostro y del cuello;",
+          "Si el retinal me provoca alguna irritación con el uso continuado;",
+          "Si la mascarilla labial mantiene la hidratación de los labios durante la noche."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Cuánto tiempo dejar el parche de hidrogel de Abib? El envase indica retirarlo después de 10 a 15 minutos. No es para dormir con él.",
+          "¿Qué es el PDRN? Es un ingrediente hecho de fragmentos de ADN, muy usado en cosméticos coreanos orientados a la regeneración y la firmeza. En la mascarilla labial de Abib, la marca informa origen vegetal (centella asiática y ginkgo biloba).",
+          "¿El retinal es lo mismo que el ácido retinoico? No. El retinal es un derivado de la vitamina A que la piel convierte en ácido retinoico. Por eso la acción es más gradual, y por eso pide protector solar durante el día.",
+          "¿La mascarilla labial de Abib huele fuerte? Tiene un olorcito dulce. Soy sensible a los olores fuertes, y este no me molestó.",
+          "¿YesStyle envía a mi país y quién paga la aduana? YesStyle envía a todo el mundo, y el plazo de entrega y el coste del envío dependen de tu país: la estimación aparece en el carrito. Las tasas y aranceles de aduana cobrados a la llegada los reembolsa YesStyle en forma de crédito en pedidos de menos de 1.000 USD, si envías el comprobante de pago en un plazo de 30 días. Los impuestos cobrados en el pago en algunas regiones (IVA de la UE, IVA del Reino Unido, sales tax de EE. UU., GST de Australia) no están cubiertos.",
+          "¿Dónde uso el código CECILIA010? En el campo Reward Code del pago. Da un 5% en el primer pedido y un 2% en los siguientes, y se suma al cupón que pongas en el campo Coupon Code."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Mira los tres productos de Abib en YesStyle y usa el CECILIA010 en el campo Reward Code",
+      "label": "Ver productos Abib en YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "YesStyle envió los tres productos a Em Casa com Cecília. Este artículo recoge las primeras impresiones de Cecília Mauad en el primer uso, mostradas en el vídeo (en portugués); los datos de tamaño, ingredientes y modo de uso proceden de las páginas oficiales de los productos en YesStyle. El sitio recibe comisión por los enlaces de afiliado y por el Reward Code CECILIA010.",
+    "relatedArticles": [
+      {
+        "slug": "k-beauty-marcas-coreanas-tendencia-mundial",
+        "title": "K-Beauty: Por Qué Se Convirtió en Tendencia Mundial y Dónde Comprar las Marcas Coreanas"
+      },
+      {
+        "slug": "es-yesstyle-de-fiar-y-seguro",
+        "title": "¿Es YesStyle de Fiar y Seguro? Lo que Debes Saber Antes de Comprar"
+      },
+      {
+        "slug": "como-encontrar-cupones-yesstyle-validos",
+        "title": "Cómo Encontrar Cupones YesStyle Válidos y Usar con el Código CECILIA010"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "slug": "skincare-coreen-a-30-ans-routine-debutante-abib-yesstyle",
+    "locale": "fr",
+    "title": "Skincare Coréen à 30 Ans : J'ai Testé une Routine Débutante avec Abib de YesStyle",
+    "seoTitle": "Skincare coréen à 30 ans : routine débutante Abib (test)",
+    "type": "Premières impressions",
+    "category": "produtos-experiencias",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Je n'avais jamais utilisé, pas même une crème solaire, et à 30 ans j'ai testé une routine de skincare coréen avec trois produits Abib reçus de YesStyle : patchs hydrogel pour les yeux, crème booster au PDRN et au rétinal, et masque lèvres en gel.",
+    "metaDescription": "Skincare coréen à 30 ans pour débutantes : patchs yeux, crème PDRN et lip mask Abib testés. Texture, odeur, mode d'emploi et code CECILIA010 sur YesStyle.",
+    "publishedAt": "28 septembre 2026",
+    "publishedAtISO": "2026-09-28",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
+    "imageAlt": "Cecília Mauad tenant les boîtes de la crème booster PDRN, des patchs hydrogel pour les yeux et du masque lèvres Abib",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
+    "pros": [
+      "Routine courte : trois produits et environ 15 minutes, presque toutes passées à attendre avec le patch sur le visage",
+      "Patch hydrogel bien frais, avec une surface texturée qui aide à ne pas glisser",
+      "Crème à la texture de baume, facile à étaler, qui laisse un toucher velouté",
+      "Masque lèvres avec spatule et petite odeur sucrée qui, pour moi, n'a rien d'écœurant",
+      "Produits coréens originaux vendus par YesStyle lui-même, avec CECILIA010 qui se cumule dans le champ Reward Code"
+    ],
+    "cons": [
+      "Le PDRN et le rétinal agissent doucement : n'attendez pas de différence visible dès la première semaine",
+      "Le rétinal demande une protection solaire le jour — si comme moi vous n'en avez jamais mis, il faudra s'y mettre",
+      "La première fois, j'ai hésité sur le bon côté du patch",
+      "Achat international : le délai de livraison est plus long que dans une boutique de votre pays"
+    ],
+    "contentSections": [
+      {
+        "heading": "Trente ans : l'âge de la réussite et celui où l'on paie la facture de la beauté",
+        "paragraphs": [
+          "Jusqu'ici, on a été jolie sans rien faire. Moi, qui n'avais jamais mis de crème solaire, j'ai eu 30 ans et j'ai décidé de prendre le sujet au sérieux : j'ai monté ma première routine de skincare coréen.",
+          "J'ai reçu trois produits Abib envoyés par YesStyle, une boutique en ligne spécialisée dans les cosmétiques importés. Et c'est de la Corée, la vraie, hein ! Pas « façon coréenne », pas « inspiration Corée ».",
+          "Cet article, c'est mon premier contact avec ces trois produits, filmé dans la vidéo de l'article (en portugais) : ce que ça fait de les poser, la texture, l'odeur et ce que j'ai ressenti en retirant le patch. Des résultats sur la peau, on ne peut pas les promettre dès le premier jour — je vais les utiliser ces prochaines semaines et je reviendrai raconter ce qui a changé."
+        ]
+      },
+      {
+        "heading": "Les trois produits Abib que j'ai reçus",
+        "paragraphs": [
+          "La routine comprend un produit pour chaque zone : les yeux, le visage et les lèvres. Les données ci-dessous viennent de la page officielle de chaque produit sur YesStyle ; les impressions, ce sont les miennes."
+        ],
+        "comparisonTable": {
+          "caption": "Routine Abib testée : contenance, actifs principaux et mode d'emploi indiqué par la marque",
+          "headers": [
+            "Produit",
+            "À quoi ça sert",
+            "Contenance",
+            "Actifs mis en avant",
+            "Mode d'emploi selon la marque"
+          ],
+          "rows": [
+            [
+              "Abib Hydrogel Eye Patch PDRN & Retinal",
+              "Cernes et mine fatiguée",
+              "60 patchs (84 g)",
+              "PDRN, rétinal, caféine, niacinamide, collagène",
+              "À appliquer sous les yeux et à retirer après 10 à 15 minutes"
+            ],
+            [
+              "Abib PDRN Volume Fill-it Booster Crème 2.5 Tube",
+              "Fermeté et ridules",
+              "30 ml",
+              "PDRN (15 000 ppm), Volufiline (10 000 ppm), rétinal, peptides",
+              "À appliquer sur le visage et le cou en tapotant doucement"
+            ],
+            [
+              "Abib PDRN Collagen Lip Mask Glazed Jelly",
+              "Hydratation des lèvres",
+              "11 g",
+              "PDRN issu de centella et de ginkgo, collagène, acide hyaluronique",
+              "Une fine couche le jour ou une couche généreuse avant de dormir, à la spatule"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Patch hydrogel pour les yeux : bien frais (et je l'ai posé à l'envers)",
+        "paragraphs": [
+          "Le premier contact est le meilleur : le patch est bien frais. Il se présente dans un pot de 60 unités, et la marque indique que la surface texturée aide à ne pas glisser.",
+          "Je l'avoue, j'ai mal posé le premier. Je l'ai retourné, remis dans l'autre sens, en pensant que c'était mieux comme ça — mais, honnêtement, je n'ai senti aucune différence entre les deux faces. Si vous n'en avez jamais utilisé non plus, pas de panique : l'important, c'est qu'il soit bien posé sous les yeux, sans toucher l'œil.",
+          "Avec le temps, le patch devient plus fin, comme s'il disparaissait. Cela ne veut pas dire que la peau a absorbé tout l'hydrogel ; c'est le gel qui livre ce qu'il contient tant qu'il reste là, bien fermé, sans s'évaporer.",
+          "L'emballage indique de le retirer après 10 à 15 minutes. Dans la vidéo, je l'ai gardé environ 20 minutes, parce que je faisais le reste de la routine — suivez l'étiquette. Et il ne faut pas dormir avec."
+        ],
+        "bullets": [
+          "Au retrait : tout avait pénétré, la peau n’était pas humide, et on voyait parfaitement la forme de l'endroit où se trouvait le patch ;",
+          "Sensation : bien frais dès le contact avec la peau ;",
+          "Ce que promet la marque : illuminer la zone et atténuer la mine fatiguée, avec du PDRN, du rétinal et de la caféine. Ça, je ne pourrai le juger qu'avec une utilisation régulière."
+        ],
+        "links": [
+          {
+            "label": "Voir l'Abib Hydrogel Eye Patch PDRN & Retinal sur YesStyle",
+            "href": "https://ystyle.co/cn2Z5",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+        "imageAlt": "Cecília tenant un patch hydrogel rosé d'Abib, le pot ouvert dans l'autre main",
+        "imageCaption": "Le patch hydrogel d'Abib se présente dans un pot de 60 unités et est bien frais au contact de la peau.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "Booster Crème 2.5 : une texture de baume qui devient velours",
+        "paragraphs": [
+          "Pendant que le patch agissait, j'ai appliqué la crème. Elle sort du tube avec une texture de baume : on l'étale et on la sent glisser sur la peau.",
+          "Et là vient la partie que j'ai préférée : une fois étalée, la peau a un toucher velouté, comme si elle se transformait en velours sur-le-champ. Et ça s'étale vraiment très bien.",
+          "Dans la formule, Abib met en avant le PDRN et la Volufiline (un ingrédient utilisé pour donner une sensation de repulpage), ainsi que le rétinal, des peptides, de la niacinamide et de la caféine. C'est une crème pensée pour la fermeté et les ridules — autrement dit, un travail de longue haleine."
+        ],
+        "bullets": [
+          "Où l'appliquer : visage et cou, en tapotant doucement pour aider l'absorption, comme l'indique la marque ;"
+        ],
+        "links": [
+          {
+            "label": "Voir l'Abib PDRN Volume Fill-it Booster Crème 2.5 sur YesStyle",
+            "href": "https://ystyle.co/q5SUZ",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+        "imageAlt": "Cecília tenant le tube de l'Abib PDRN Volume Fill-it Booster Crème 2.5",
+        "imageCaption": "Le tube de 30 ml du Booster Crème 2.5 : il sort comme un baume et laisse la peau au toucher velouté.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "Lip Mask Glazed Jelly : une odeur sucrée qui n'écœure pas",
+        "paragraphs": [
+          "Enfin, le masque lèvres. Il est fourni avec une petite spatule, et sa texture est celle d'un gel — proche de celle du patch pour les yeux.",
+          "Il a une petite odeur sucrée, mais pas écœurante. Celles et ceux qui me suivent savent que j'ai du mal avec les odeurs fortes, et celle-ci ne m'a pas dérangée.",
+          "La marque indique d'en appliquer une fine couche en journée, pour le brillant et l'hydratation, ou une couche généreuse avant de dormir, comme masque de nuit."
+        ],
+        "links": [
+          {
+            "label": "Voir l'Abib PDRN Collagen Lip Mask Glazed Jelly sur YesStyle",
+            "href": "https://ystyle.co/TS7jZ",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+        "imageAlt": "Cecília faisant une petite moue en tenant le pot du masque lèvres Abib Glazed Jelly",
+        "imageCaption": "La Lip Mask Glazed Jelly, 11 g, a une texture de gel et une petite odeur sucrée.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "PDRN et rétinal sans mystère : pourquoi l'effet est discret",
+        "paragraphs": [
+          "Le grand principe du skincare coréen, c'est que les produits sont pensés pour un usage sur la durée. Ma belle, tu viens d'avoir 30 ans : ce n'est que le début. Pour le reste de ta vie, il te faudra une routine de soins pour ta peau.",
+          "Dans la vidéo, j'ai parlé d'acide rétinoïque, mais le bon nom de l'ingrédient du patch et de la crème, c'est le rétinal (ou rétinaldéhyde). C'est un dérivé de la vitamine A, de la même famille que le rétinol, que la peau transforme en acide rétinoïque. L'action est plus progressive — c'est pour ça que je ne vais pas me mettre à peler juste parce que j'ai commencé à l'utiliser.",
+          "Le PDRN est un ingrédient fabriqué à partir de fragments d'ADN, devenu une vraie folie dans les cosmétiques coréens liés à la régénération et à la fermeté. Pour le masque lèvres, Abib précise que le PDRN provient de la centella asiatica et du ginkgo biloba."
+        ],
+        "bullets": [
+          "Effet discret : n'attendez pas de changement le premier jour ni la première semaine ; le bénéfice vient avec la régularité ;",
+          "Protection solaire en journée : quand on utilise du rétinal le soir, il faut une protection solaire le jour. Pour celles qui, comme moi, n'en ont jamais mis, c'est la première habitude à prendre ;",
+          "Grossesse et allaitement : les dérivés de la vitamine A demandent l'avis d'un médecin avant utilisation ;",
+          "Peau sensible : en cas de picotements ou de rougeurs, espacez les applications et consultez un dermatologue."
+        ]
+      },
+      {
+        "heading": "Ma routine du soir pour débutante, pas à pas",
+        "paragraphs": [
+          "L'ordre que j'ai suivi dans la vidéo tient dans une soirée ordinaire, sans le marathon en dix étapes qu'internet associe au skincare coréen :"
+        ],
+        "bullets": [
+          "Étape 1 — Yeux : sur un visage propre, je pose le patch hydrogel sous les yeux ;",
+          "Étape 2 — Visage et cou : pendant que le patch agit, j'applique le Booster Crème en tapotant ;",
+          "Étape 3 — Lèvres : une couche de lip mask à la spatule ;",
+          "Étape 4 — Retirer le patch : après 10 à 15 minutes, comme l'indique l'emballage ;",
+          "Durée totale : environ 15 minutes, presque toutes passées à attendre avec le patch sur le visage."
+        ]
+      },
+      {
+        "heading": "Où acheter et comment économiser avec CECILIA010",
+        "paragraphs": [
+          "Les trois produits sont vendus par YesStyle, qui livre à l'international. Le délai et les frais de livraison dépendent de votre pays : consultez l'estimation dans le panier avant de payer.",
+          "Au moment du paiement, saisissez le code CECILIA010 dans le champ Reward Code : il donne 5 % de réduction sur la première commande et 2 % sur les suivantes. Les coupons promotionnels vont dans l'autre champ, Coupon Code — et ils se cumulent avec CECILIA010, y compris les coupons spéciaux envoyés uniquement à votre compte.",
+          "Côté taxes : YesStyle rembourse les droits de douane et frais associés, sous forme de crédit YesStyle, pour les commandes de moins de 1 000 USD (valeur avant coupons, hors frais de port). Si l'on vous réclame des frais à l'arrivée, payez, gardez le justificatif de paiement et envoyez-le au service client de la boutique dans un délai de 30 jours. Attention, pour les lectrices et lecteurs en Europe : la TVA facturée lors du paiement pour les commandes vers l'UE (tout comme la TVA britannique, la sales tax américaine ou la GST australienne) n'est pas couverte par ce remboursement."
+        ],
+        "links": [
+          {
+            "label": "Coupon de la semaine et règles de CECILIA010 sur YesStyle",
+            "href": "/fr/coupons/yesstyle"
+          },
+          {
+            "label": "Accéder à YesStyle avec le code CECILIA010",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          },
+          {
+            "label": "YesStyle est-il fiable ? Origine, délais et retours",
+            "href": "/fr/reviews/yesstyle-est-il-fiable-et-sur"
+          },
+          {
+            "label": "K-Beauty : ce que c'est et où acheter des cosmétiques coréens",
+            "href": "/fr/reviews/k-beauty-tendance-beaute-coreenne"
+          }
+        ]
+      },
+      {
+        "heading": "Ce que je vais suivre ces prochaines semaines",
+        "paragraphs": [
+          "Ceci est le compte rendu de la première utilisation. Je vais poursuivre la routine et revenir ici raconter ce qui a vraiment changé — et ce qui n'a pas changé."
+        ],
+        "bullets": [
+          "Les cernes et la mine fatiguée sous les yeux ;",
+          "La texture et l'éclat de la peau du visage et du cou ;",
+          "Si le rétinal provoque des irritations avec une utilisation régulière ;",
+          "Si la lip mask maintient l'hydratation des lèvres pendant la nuit."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Combien de temps garder le patch hydrogel d'Abib ? L'emballage indique de le retirer après 10 à 15 minutes. Il ne faut pas dormir avec.",
+          "Qu'est-ce que le PDRN ? C'est un ingrédient fabriqué à partir de fragments d'ADN, très présent dans les cosmétiques coréens axés sur la régénération et la fermeté. Pour la lip mask d'Abib, la marque indique une origine végétale (centella asiatica et ginkgo biloba).",
+          "Le rétinal, c'est la même chose que l'acide rétinoïque ? Non. Le rétinal est un dérivé de la vitamine A que la peau convertit en acide rétinoïque. C'est pourquoi son action est plus progressive, et il demande une protection solaire en journée.",
+          "La lip mask d'Abib a-t-elle une odeur forte ? Elle a une petite odeur sucrée. Je suis sensible aux odeurs fortes, et celle-ci ne m'a pas dérangée.",
+          "YesStyle livre-t-il dans mon pays, et qu'en est-il des droits de douane ? YesStyle livre à l'international ; le délai et les frais dépendent du pays, et l'estimation s'affiche dans le panier. Pour les droits de douane et frais associés, la boutique les rembourse en crédit YesStyle pour les commandes de moins de 1 000 USD, sur présentation du justificatif de paiement dans les 30 jours. La TVA facturée lors du paiement pour les commandes vers l'UE (ainsi que la TVA britannique, la sales tax américaine et la GST australienne) n'est pas remboursée.",
+          "Où utiliser le code CECILIA010 ? Dans le champ Reward Code au moment du paiement. Il donne 5 % sur la première commande et 2 % sur les suivantes, et se cumule avec le coupon saisi dans le champ Coupon Code."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Découvrez les trois produits Abib sur YesStyle et utilisez CECILIA010 dans le champ Reward Code",
+      "label": "Voir les produits Abib sur YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Les trois produits ont été envoyés par YesStyle à Em Casa com Cecília. Cet article rapporte les premières impressions de Cecília Mauad lors de la première utilisation, montrées dans la vidéo ; les données de contenance, d'ingrédients et de mode d'emploi proviennent des pages officielles des produits sur YesStyle. Le site perçoit une commission via les liens d'affiliation et le Reward Code CECILIA010.",
+    "relatedArticles": [
+      {
+        "slug": "k-beauty-tendance-beaute-coreenne",
+        "title": "K-Beauty : Pourquoi Cette Tendance Beauté Coréenne Conquiert le Monde et Où L'Acheter"
+      },
+      {
+        "slug": "yesstyle-est-il-fiable-et-sur",
+        "title": "YesStyle est-il Fiable et Sûr ? Ce qu'il Faut Savoir Avant d'Acheter"
+      },
+      {
+        "slug": "comment-trouver-des-codes-promo-yesstyle-valides",
+        "title": "Comment Trouver des Codes Promo YesStyle Valides et Utiliser CECILIA010"
+      }
+    ],
+    "translationKey": "yesstyle-skincare-30",
+    "hideFromPortugueseListings": true
+  },
+  {
+    "id": 303,
+    "slug": "koreanische-hautpflege-mit-30-anfaenger-routine-abib-yesstyle",
+    "locale": "de",
+    "title": "Koreanische Hautpflege mit 30: Ich habe eine Anfänger-Routine mit Abib von YesStyle getestet",
+    "seoTitle": "Koreanische Hautpflege mit 30: Anfänger-Routine mit Abib",
+    "type": "Erste Eindrücke",
+    "category": "produtos-experiencias",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Ich hatte nie auch nur Sonnencreme benutzt und habe mit 30 eine koreanische Hautpflege-Routine mit drei Abib-Produkten getestet, die ich von YesStyle bekommen habe: Hydrogel-Augenpatches, Boostercreme mit PDRN und Retinal und eine Lippenmaske im Gel.",
+    "metaDescription": "Koreanische Hautpflege mit 30 für Einsteiger: Augenpatches, PDRN-Creme und Lip Mask von Abib getestet. Textur, Duft, Anwendung und CECILIA010 bei YesStyle.",
+    "publishedAt": "28. September 2026",
+    "publishedAtISO": "2026-09-28",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
+    "imageAlt": "Cecília Mauad hält die Verpackungen der PDRN-Boostercreme, der Hydrogel-Augenpatches und der Lippenmaske von Abib in den Händen",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
+    "pros": [
+      "Kurze Routine: drei Produkte und etwa 15 Minuten, die meiste Zeit davon wartet man mit dem Patch im Gesicht",
+      "Angenehm kühler Hydrogel-Patch mit strukturierter Oberfläche, die gegen das Verrutschen helfen soll",
+      "Creme mit balsamartiger Textur, die sich leicht verteilt und ein samtiges Hautgefühl hinterlässt",
+      "Lippenmaske mit Spatel und süßlichem Duft, der mir nicht zu viel wurde",
+      "Original koreanische Produkte, direkt bei YesStyle verkauft, mit CECILIA010 als zusätzlichem Rabatt im Feld Reward Code"
+    ],
+    "cons": [
+      "PDRN und Retinal wirken langsam: Erwarten Sie in der ersten Woche keinen sichtbaren Unterschied",
+      "Retinal verlangt tagsüber Sonnenschutz – wer wie ich noch nie welchen benutzt hat, muss damit anfangen",
+      "Beim ersten Mal war ich unsicher, welche Seite des Patches die richtige ist",
+      "Internationale Bestellung: Die Lieferzeit ist länger als bei einem Shop im eigenen Land"
+    ],
+    "contentSections": [
+      {
+        "heading": "Dreißig: das Alter des Erfolgs und das Alter, in dem man den Schönheitszoll zahlt",
+        "paragraphs": [
+          "Bis hierhin waren wir einfach so hübsch, ganz ohne Aufwand. Ich, die noch nie Sonnencreme benutzt hatte, bin 30 geworden und habe beschlossen, die Sache ernst zu nehmen: Ich habe meine erste koreanische Hautpflege-Routine zusammengestellt.",
+          "Ich habe drei Produkte von Abib bekommen, die YesStyle mir geschickt hat, ein Onlineshop für importierte Kosmetik. Und das ist echtes Korea, ja? Nicht „nach koreanischer Art“, nicht „Korea-Style“.",
+          "Dieser Artikel ist mein erster Kontakt mit den drei Produkten, festgehalten im Video zu diesem Artikel (auf Portugiesisch): wie sich das Auftragen anfühlt, die Textur, der Duft und was ich gespürt habe, als ich den Patch abgenommen habe. Ein Ergebnis auf der Haut kann man am ersten Tag nicht versprechen – ich werde die Produkte in den nächsten Wochen benutzen und komme wieder, um zu erzählen, was sich verändert hat."
+        ]
+      },
+      {
+        "heading": "Die drei Abib-Produkte, die ich bekommen habe",
+        "paragraphs": [
+          "Die Routine hat für jede Region ein Produkt: Augen, Gesicht und Lippen. Die Angaben unten stammen von der offiziellen Produktseite bei YesStyle; die Eindrücke sind meine."
+        ],
+        "comparisonTable": {
+          "caption": "Getestete Abib-Routine: Größe, wichtigste Wirkstoffe und Anwendung laut Hersteller",
+          "headers": [
+            "Produkt",
+            "Wofür",
+            "Größe",
+            "Wirkstoffe im Fokus",
+            "Anwendung laut Marke"
+          ],
+          "rows": [
+            [
+              "Abib Hydrogel Eye Patch PDRN & Retinal",
+              "Augenringe und müder Blick",
+              "60 Patches (84 g)",
+              "PDRN, Retinal, Koffein, Niacinamid, Kollagen",
+              "Unter den Augen auftragen und nach 10 bis 15 Minuten entfernen"
+            ],
+            [
+              "Abib PDRN Volume Fill-it Booster Crème 2.5 Tube",
+              "Festigkeit und feine Linien",
+              "30 ml",
+              "PDRN (15.000 ppm), Volufiline (10.000 ppm), Retinal, Peptide",
+              "Mit leichten Klopfbewegungen auf Gesicht und Hals auftragen"
+            ],
+            [
+              "Abib PDRN Collagen Lip Mask Glazed Jelly",
+              "Feuchtigkeit für die Lippen",
+              "11 g",
+              "PDRN aus Centella und Ginkgo, Kollagen, Hyaluronsäure",
+              "Tagsüber dünn oder vor dem Schlafen dick mit dem Spatel auftragen"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Hydrogel-Augenpatch: angenehm kühl (und ich habe ihn verkehrt herum aufgelegt)",
+        "paragraphs": [
+          "Der erste Kontakt ist der beste: Der Patch ist angenehm kühl. Er kommt in einem Tiegel mit 60 Stück, und laut Marke hilft die strukturierte Oberfläche, dass er nicht verrutscht.",
+          "Ich gebe zu, den ersten habe ich falsch aufgelegt. Ich habe ihn gedreht, wieder zurückgedreht, es andersherum probiert und dachte, so sitzt er besser – aber ehrlich gesagt habe ich zwischen den Seiten keinen Unterschied gespürt. Wenn Sie auch noch nie welche benutzt haben, keine Sorge: Wichtig ist, dass er gut unter dem Auge anliegt, ohne das Auge zu berühren.",
+          "Mit der Zeit wird der Patch dünner, als würde er verschwinden. Das heißt nicht, dass die Haut das ganze Hydrogel aufgenommen hat; das Gel gibt einfach ab, was drinsteckt, solange es dort schön abgedeckt liegt und nicht verdunstet.",
+          "Auf der Verpackung steht, dass man ihn nach 10 bis 15 Minuten abnehmen soll. Im Video habe ich ihn etwa 20 Minuten dran gelassen, weil ich nebenbei den Rest der Routine gemacht habe – halten Sie sich an das Etikett. Und man soll nicht damit schlafen."
+        ],
+        "bullets": [
+          "Nach dem Abnehmen: Alles war eingezogen, die Haut war nicht feucht, und man sah genau die Form der Stelle, an der der Patch gelegen hatte;",
+          "Gefühl: angenehm kühl, gleich beim Auflegen auf die Haut;",
+          "Was die Marke verspricht: die Partie aufhellen und den müden Eindruck kaschieren, mit PDRN, Retinal und Koffein. Das kann ich erst bei regelmäßiger Anwendung beurteilen."
+        ],
+        "links": [
+          {
+            "label": "Abib Hydrogel Eye Patch PDRN & Retinal bei YesStyle ansehen",
+            "href": "https://ystyle.co/cn2Z5",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+        "imageAlt": "Cecília hält einen rosafarbenen Hydrogel-Patch von Abib in der Hand, in der anderen Hand den geöffneten Tiegel",
+        "imageCaption": "Der Hydrogel-Patch von Abib kommt in einem Tiegel mit 60 Stück und fühlt sich auf der Haut angenehm kühl an.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "Booster Crème 2.5: Balsam-Textur, die zu Samt wird",
+        "paragraphs": [
+          "Während der Patch wirkte, habe ich die Creme aufgetragen. Sie kommt mit einer balsamartigen Textur aus der Tube: Man trägt sie auf und spürt, wie sie über die Haut gleitet.",
+          "Dann kommt der Teil, der mir am besten gefallen hat: Nach dem Verteilen fühlt sich die Haut samtig an, als würde sie sofort zu Samt. Und sie lässt sich sehr gut verteilen.",
+          "In der Formel hebt Abib PDRN und Volufiline hervor (ein Inhaltsstoff, der ein Gefühl von Fülle vermitteln soll), dazu Retinal, Peptide, Niacinamid und Koffein. Es ist eine Creme für Festigkeit und feine Linien – also eine Arbeit auf lange Sicht."
+        ],
+        "bullets": [
+          "Wo auftragen: Gesicht und Hals, mit leichten Klopfbewegungen, damit sie besser einzieht, wie von der Marke empfohlen;"
+        ],
+        "links": [
+          {
+            "label": "Abib PDRN Volume Fill-it Booster Crème 2.5 bei YesStyle ansehen",
+            "href": "https://ystyle.co/q5SUZ",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+        "imageAlt": "Cecília hält die Tube der Abib PDRN Volume Fill-it Booster Crème 2.5",
+        "imageCaption": "Die 30-ml-Tube der Booster Crème 2.5: Sie kommt wie ein Balsam heraus und hinterlässt ein samtiges Hautgefühl.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "Lip Mask Glazed Jelly: süßer Duft, der nicht aufdringlich ist",
+        "paragraphs": [
+          "Zum Schluss die Lippenmaske. Sie kommt mit einem kleinen Spatel, und die Textur ist die eines Gels – ähnlich wie beim Augenpatch.",
+          "Sie hat einen süßlichen Duft, aber er ist nicht aufdringlich. Wer mir folgt, weiß, dass ich mit starken Gerüchen Probleme habe, und dieser hat mich nicht gestört.",
+          "Die Marke empfiehlt, tagsüber eine dünne Schicht für Glanz und Feuchtigkeit aufzutragen oder vor dem Schlafen eine dicke Schicht als Nachtmaske."
+        ],
+        "links": [
+          {
+            "label": "Abib PDRN Collagen Lip Mask Glazed Jelly bei YesStyle ansehen",
+            "href": "https://ystyle.co/TS7jZ",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+        "imageAlt": "Cecília spitzt die Lippen und hält den Tiegel der Abib Glazed Jelly Lippenmaske",
+        "imageCaption": "Die Lip Mask Glazed Jelly mit 11 g hat eine Gel-Textur und einen süßlichen Duft.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "PDRN und Retinal ohne Geheimnis: warum die Wirkung dezent ist",
+        "paragraphs": [
+          "Der Knackpunkt bei koreanischer Hautpflege ist, dass die Produkte auf langfristige Anwendung ausgelegt sind. Ich sage mir: Du bist gerade 30 geworden, das ist erst der Anfang. Für den Rest deines Lebens brauchst du eine Pflegeroutine für deine Haut.",
+          "Im Video habe ich von Retinsäure gesprochen, aber der richtige Name des Inhaltsstoffs in Patch und Creme ist Retinal (oder Retinaldehyd). Er ist ein Vitamin-A-Derivat aus derselben Familie wie Retinol, und die Haut wandelt ihn in Retinsäure um. Die Wirkung ist eher schrittweise – deshalb werde ich nicht gleich anfangen zu schuppen, nur weil ich damit begonnen habe.",
+          "PDRN ist ein Inhaltsstoff aus DNA-Fragmenten, der in koreanischer Kosmetik rund um Regeneration und Festigkeit zum Hype geworden ist. Bei der Lippenmaske gibt Abib an, dass das PDRN aus Centella asiatica und Ginkgo biloba stammt."
+        ],
+        "bullets": [
+          "Dezente Wirkung: Erwarten Sie keine Veränderung am ersten Tag und auch nicht in der ersten Woche; der Nutzen kommt mit Regelmäßigkeit;",
+          "Sonnenschutz tagsüber: Wer abends Retinal verwendet, braucht tagsüber Sonnenschutz. Für alle, die wie ich noch nie welchen benutzt haben, ist das die erste Gewohnheit, die man sich zulegen muss;",
+          "Schwangerschaft und Stillzeit: Vitamin-A-Derivate erfordern vor der Anwendung ärztlichen Rat;",
+          "Empfindliche Haut: Wenn es brennt oder die Haut rot wird, verwenden Sie die Produkte seltener und suchen Sie eine Dermatologin oder einen Dermatologen auf."
+        ]
+      },
+      {
+        "heading": "Meine abendliche Anfänger-Routine, Schritt für Schritt",
+        "paragraphs": [
+          "Die Reihenfolge aus dem Video passt in einen ganz normalen Abend, ohne den Zehn-Schritte-Marathon, den man im Internet mit koreanischer Hautpflege verbindet:"
+        ],
+        "bullets": [
+          "Schritt 1 – Augen: Bei gereinigtem Gesicht lege ich den Hydrogel-Patch unter die Augen;",
+          "Schritt 2 – Gesicht und Hals: Während der Patch wirkt, trage ich die Booster Crème mit leichten Klopfbewegungen auf;",
+          "Schritt 3 – Lippen: eine Schicht Lip Mask mit dem Spatel;",
+          "Schritt 4 – Patch abnehmen: nach 10 bis 15 Minuten, wie auf der Verpackung angegeben;",
+          "Gesamtdauer: etwa 15 Minuten, die meiste Zeit davon wartet man mit dem Patch im Gesicht."
+        ]
+      },
+      {
+        "heading": "Wo kaufen und wie sparen mit CECILIA010",
+        "paragraphs": [
+          "Die drei Produkte werden bei YesStyle verkauft, das international liefert. Lieferzeit und Versandkosten hängen von Ihrem Land ab: Schauen Sie sich die Schätzung im Warenkorb an, bevor Sie bezahlen.",
+          "Geben Sie an der Kasse den Code CECILIA010 im Feld Reward Code ein: Er bringt 5 % Rabatt auf die erste Bestellung und 2 % auf alle weiteren. Aktionsgutscheine gehören in das andere Feld, Coupon Code – und sie lassen sich mit CECILIA010 kombinieren, auch die Sondergutscheine, die nur an Ihr Konto geschickt werden.",
+          "Zu den Abgaben: YesStyle erstattet Zölle und Gebühren bei Bestellungen unter 1.000 US-Dollar (Wert vor Gutscheinen, ohne Versand) als YesStyle-Guthaben. Wenn bei der Ankunft etwas fällig wird, zahlen Sie, bewahren Sie den Zahlungsbeleg auf und schicken Sie ihn innerhalb von 30 Tagen an den Kundenservice des Shops. Wichtig für Leserinnen und Leser in Europa: Die beim Bezahlen berechnete Mehrwertsteuer bei Bestellungen in die EU (ebenso die britische Mehrwertsteuer, die US-Sales-Tax und die australische GST) ist von dieser Erstattung nicht abgedeckt."
+        ],
+        "links": [
+          {
+            "label": "Gutschein der Woche und Regeln zu CECILIA010 bei YesStyle",
+            "href": "/de/coupons/yesstyle"
+          },
+          {
+            "label": "YesStyle mit dem Code CECILIA010 besuchen",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          },
+          {
+            "label": "Ist YesStyle seriös? Herkunft, Lieferzeiten und Rückgabe",
+            "href": "/de/reviews/ist-yesstyle-serioes-und-sicher"
+          },
+          {
+            "label": "K-Beauty: was es ist und wo Sie koreanische Kosmetik kaufen",
+            "href": "/de/reviews/k-beauty-trend-koreanische-marken-kaufen"
+          }
+        ]
+      },
+      {
+        "heading": "Was ich in den nächsten Wochen beobachten werde",
+        "paragraphs": [
+          "Dies ist die Dokumentation der ersten Anwendung. Ich werde die Routine weiterführen und hier berichten, was sich wirklich verändert hat – und was nicht."
+        ],
+        "bullets": [
+          "Augenringe und müder Eindruck unter den Augen;",
+          "Textur und Frische der Haut an Gesicht und Hals;",
+          "Ob das Retinal bei regelmäßiger Anwendung Reizungen verursacht;",
+          "Ob die Lip Mask die Feuchtigkeit der Lippen über Nacht hält."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Wie lange lässt man den Hydrogel-Patch von Abib drauf? Auf der Verpackung steht, dass man ihn nach 10 bis 15 Minuten abnehmen soll. Man soll nicht damit schlafen.",
+          "Was ist PDRN? Ein Inhaltsstoff aus DNA-Fragmenten, der in koreanischer Kosmetik für Regeneration und Festigkeit weit verbreitet ist. Bei der Lip Mask von Abib gibt die Marke einen pflanzlichen Ursprung an (Centella asiatica und Ginkgo biloba).",
+          "Ist Retinal dasselbe wie Retinsäure? Nein. Retinal ist ein Vitamin-A-Derivat, das die Haut in Retinsäure umwandelt. Deshalb wirkt es schrittweise, und tagsüber ist Sonnenschutz nötig.",
+          "Riecht die Lip Mask von Abib stark? Sie hat einen süßlichen Duft. Ich reagiere empfindlich auf starke Gerüche, und dieser hat mich nicht gestört.",
+          "Liefert YesStyle in mein Land, und wie ist es mit Zoll? YesStyle liefert international; Lieferzeit und Versandkosten hängen vom Land ab, die Schätzung sehen Sie im Warenkorb. Zölle und Gebühren erstattet der Shop bei Bestellungen unter 1.000 US-Dollar als YesStyle-Guthaben, wenn Sie den Zahlungsbeleg innerhalb von 30 Tagen einreichen. Die beim Bezahlen berechnete Mehrwertsteuer bei Bestellungen in die EU (ebenso die britische Mehrwertsteuer, die US-Sales-Tax und die australische GST) wird nicht erstattet.",
+          "Wo verwende ich den Code CECILIA010? Im Feld Reward Code an der Kasse. Er bringt 5 % auf die erste Bestellung und 2 % auf die folgenden und lässt sich mit dem Gutschein aus dem Feld Coupon Code kombinieren."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Sehen Sie sich die drei Abib-Produkte bei YesStyle an und nutzen Sie CECILIA010 im Feld Reward Code",
+      "label": "Abib-Produkte bei YesStyle ansehen",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Die drei Produkte wurden von YesStyle an Em Casa com Cecília geschickt. Dieser Artikel dokumentiert die ersten Eindrücke von Cecília Mauad bei der ersten Anwendung, wie im Video gezeigt; Angaben zu Größe, Inhaltsstoffen und Anwendung stammen von den offiziellen Produktseiten bei YesStyle. Die Website erhält eine Provision über die Affiliate-Links und den Reward Code CECILIA010.",
+    "relatedArticles": [
+      {
+        "slug": "k-beauty-trend-koreanische-marken-kaufen",
+        "title": "K-Beauty: Das Koreanische Beauty-Geheimnis – Und Wo Sie Authentische Produkte Kaufen"
+      },
+      {
+        "slug": "ist-yesstyle-serioes-und-sicher",
+        "title": "Ist YesStyle Seriös und Sicher? Was Sie Vor Dem Kauf Wissen Müssen"
+      },
+      {
+        "slug": "gueltige-yesstyle-gutscheincodes-finden",
+        "title": "Gültige YesStyle Gutscheincodes Finden und mit CECILIA010 Kombinieren"
+      }
+    ],
+    "translationKey": "yesstyle-skincare-30",
+    "hideFromPortugueseListings": true
+  },
+  {
+    "id": 308,
+    "slug": "skincare-coreana-a-30-anni-routine-principiante-abib-yesstyle",
+    "locale": "it",
+    "title": "Skincare coreana a 30 anni: ho provato una routine da principiante con Abib di YesStyle",
+    "seoTitle": "Skincare coreana a 30 anni: routine da principiante Abib",
+    "type": "Prime impressioni",
+    "category": "produtos-experiencias",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Non avevo mai usato nemmeno la protezione solare e, a 30 anni, ho provato una routine di skincare coreana con tre prodotti Abib ricevuti da YesStyle: patch in idrogel per gli occhi, crema booster con PDRN e retinal e maschera labbra in gel.",
+    "metaDescription": "Skincare coreana a 30 anni per principianti: ho provato patch occhi, crema PDRN e lip mask Abib. Texture, profumo, uso e il codice CECILIA010 su YesStyle.",
+    "publishedAt": "28 settembre 2026",
+    "publishedAtISO": "2026-09-28",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
+    "imageAlt": "Cecília Mauad con in mano le confezioni della crema booster PDRN, dei patch in idrogel per gli occhi e della maschera labbra di Abib",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
+    "pros": [
+      "Routine breve: tre prodotti e circa 15 minuti, quasi tutti di attesa con i patch sul viso",
+      "Patch in idrogel freschissimi, con superficie texturizzata che aiuta a non farli scivolare",
+      "Crema con texture da pomata che si stende facilmente e lascia un tocco vellutato",
+      "Maschera labbra con spatolina e un profumino dolce che, per me, non stanca",
+      "Prodotti coreani originali venduti direttamente da YesStyle, con CECILIA010 che aggiunge sconto nel campo Reward Code"
+    ],
+    "cons": [
+      "PDRN e retinal agiscono con calma: non aspettarti differenze visibili nella prima settimana",
+      "Il retinal richiede la protezione solare di giorno: chi, come me, non l'ha mai usata dovrà cominciare",
+      "La prima volta ho avuto il dubbio su quale fosse il lato giusto del patch",
+      "Acquisto internazionale: i tempi di consegna sono più lunghi rispetto a un negozio locale"
+    ],
+    "contentSections": [
+      {
+        "heading": "Trent'anni: l'età del successo e l'età in cui si paga il pedaggio della bellezza",
+        "paragraphs": [
+          "Fin qui siamo state belle gratis. Io, che non avevo mai usato nemmeno la protezione solare, ho compiuto 30 anni e ho deciso di prendere la cosa sul serio: ho messo insieme la mia prima routine di skincare coreana.",
+          "Ho ricevuto tre prodotti Abib inviati da YesStyle, un negozio online che vende cosmetici d'importazione. E parliamo di coreano vero, eh? Non “tipo coreano”, non “gusto coreano”.",
+          "Questo articolo è il mio primo contatto con i tre prodotti, registrato nel video di questo articolo (è in portoghese): com'è applicarli, la texture, il profumo e cosa ho sentito quando ho tolto i patch. I risultati sulla pelle non si possono promettere il primo giorno: li userò nelle prossime settimane e tornerò qui a raccontarti cosa è cambiato."
+        ]
+      },
+      {
+        "heading": "I tre prodotti Abib che ho ricevuto",
+        "paragraphs": [
+          "La routine ha un prodotto per ogni zona: occhi, viso e labbra. I dati qui sotto vengono dalla pagina ufficiale di ciascun prodotto su YesStyle; le impressioni sono mie."
+        ],
+        "comparisonTable": {
+          "caption": "Routine Abib provata: formato, attivi principali e modo d'uso indicato dal marchio",
+          "headers": [
+            "Prodotto",
+            "A cosa serve",
+            "Formato",
+            "Attivi in evidenza",
+            "Come lo indica il marchio"
+          ],
+          "rows": [
+            [
+              "Abib Hydrogel Eye Patch PDRN & Retinal",
+              "Occhiaie e aspetto stanco",
+              "60 patch (84 g)",
+              "PDRN, retinal, caffeina, niacinamide, collagene",
+              "Applicare sotto gli occhi e rimuovere dopo 10-15 minuti"
+            ],
+            [
+              "Abib PDRN Volume Fill-it Booster Crème 2.5 Tube",
+              "Tonicità e linee sottili",
+              "30 ml",
+              "PDRN (15.000 ppm), Volufiline (10.000 ppm), retinal, peptidi",
+              "Applicare su viso e collo picchiettando delicatamente"
+            ],
+            [
+              "Abib PDRN Collagen Lip Mask Glazed Jelly",
+              "Idratazione delle labbra",
+              "11 g",
+              "PDRN di centella e ginkgo, collagene, acido ialuronico",
+              "Strato sottile di giorno o generoso prima di dormire, con la spatolina"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Patch in idrogel per gli occhi: freschissimi (e io li ho messi al contrario)",
+        "paragraphs": [
+          "Il primo impatto è il migliore: i patch sono freschissimi. Arrivano in un barattolo da 60 pezzi, e il marchio dice che la superficie texturizzata aiuta a non farli scivolare.",
+          "Confesso che il primo l'ho messo sbagliato. L'ho girato, rigirato, ho provato dall'altra parte e mi è sembrato che stesse meglio così, ma sinceramente non ho sentito differenza tra i due lati. Se anche tu non li hai mai usati, niente panico: l'importante è che aderiscano bene sotto gli occhi, senza toccare l'occhio.",
+          "Col passare del tempo il patch diventa più sottile, come se stesse sparendo. Non significa che la pelle abbia assorbito tutto l'idrogel: è il gel che rilascia quello che ha dentro mentre resta lì, ben chiuso, senza evaporare.",
+          "La confezione dice di toglierli dopo 10-15 minuti. Nel video li ho tenuti circa 20, perché intanto facevo il resto della routine: tu segui l'etichetta. E non è fatto per dormirci."
+        ],
+        "bullets": [
+          "Quando li ho tolti: la pelle era asciutta e si vedeva benissimo la forma di dove stava il patch;",
+          "Sensazione: freschissimi appena toccano la pelle;",
+          "Cosa promette il marchio: illuminare la zona e attenuare l'aspetto stanco, con PDRN, retinal e caffeina. Questo posso valutarlo solo con un uso continuativo."
+        ],
+        "links": [
+          {
+            "label": "Vedi l'Abib Hydrogel Eye Patch PDRN & Retinal su YesStyle",
+            "href": "https://ystyle.co/cn2Z5",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+        "imageAlt": "Cecília con in mano un patch in idrogel rosato di Abib e il barattolo aperto nell'altra mano",
+        "imageCaption": "I patch in idrogel di Abib arrivano in un barattolo da 60 pezzi e sono freschissimi a contatto con la pelle.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "Booster Crème 2.5: texture da pomata che diventa velluto",
+        "paragraphs": [
+          "Mentre i patch facevano il loro lavoro, ho messo la crema. Esce dal tubo con una texture da pomata: la passi e senti che scivola sulla pelle.",
+          "Poi arriva la parte che mi è piaciuta di più: dopo averla stesa, la pelle ha un tocco vellutato, come se diventasse velluto all'istante. E si stende benissimo.",
+          "Nella formula Abib mette in evidenza PDRN e Volufiline (un ingrediente usato per dare una sensazione di rimpolpamento), oltre a retinal, peptidi, niacinamide e caffeina. È una crema pensata per tonicità e linee sottili: in altre parole, un lavoro a lungo termine."
+        ],
+        "bullets": [
+          "Dove applicarla: viso e collo, picchiettando delicatamente per favorire l'assorbimento, come indica il marchio;"
+        ],
+        "links": [
+          {
+            "label": "Vedi l'Abib PDRN Volume Fill-it Booster Crème 2.5 su YesStyle",
+            "href": "https://ystyle.co/q5SUZ",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+        "imageAlt": "Cecília con in mano il tubo dell'Abib PDRN Volume Fill-it Booster Crème 2.5",
+        "imageCaption": "Il tubo da 30 ml della Booster Crème 2.5: esce come una pomata e lascia la pelle con un tocco vellutato.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "Lip Mask Glazed Jelly: un profumino dolce che non stanca",
+        "paragraphs": [
+          "Per ultima, la maschera labbra. Arriva con una spatolina e la texture è in gel, simile a quella dei patch per gli occhi.",
+          "Ha un profumino dolce, ma non stucchevole. Chi mi segue lo sa: con i profumi forti ho un problema, e questo non mi ha dato fastidio.",
+          "Il marchio indica di usare uno strato sottile durante il giorno, per luminosità e idratazione, oppure uno strato generoso prima di dormire, come maschera notturna."
+        ],
+        "links": [
+          {
+            "label": "Vedi la Abib PDRN Collagen Lip Mask Glazed Jelly su YesStyle",
+            "href": "https://ystyle.co/TS7jZ",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+        "imageAlt": "Cecília che fa il labbruccio tenendo in mano il barattolo della maschera labbra Abib Glazed Jelly",
+        "imageCaption": "La Lip Mask Glazed Jelly, da 11 g, ha una texture in gel e un profumino dolce.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "PDRN e retinal senza misteri: perché l'effetto è graduale",
+        "paragraphs": [
+          "Il punto della skincare coreana è che i prodotti sono pensati per un uso a lungo termine. Ragazza mia, hai appena compiuto 30 anni: questo è solo l'inizio. Per il resto della vita dovrai avere una routine di cura della pelle.",
+          "Nel video ho parlato di acido retinoico, ma il nome giusto dell'ingrediente dei patch e della crema è retinal (o retinaldeide). È un derivato della vitamina A, della stessa famiglia del retinolo, e la pelle lo trasforma in acido retinoico. L'azione è più graduale: per questo non mi metterò a squamarmi solo perché ho iniziato a usarlo.",
+          "Il PDRN è un ingrediente ricavato da frammenti di DNA, diventato una vera mania nei cosmetici coreani legati a rigenerazione e tonicità. Per la maschera labbra, Abib indica che il PDRN proviene da centella asiatica e ginkgo biloba."
+        ],
+        "bullets": [
+          "Effetto graduale: non aspettarti cambiamenti il primo giorno né la prima settimana; il beneficio arriva con la costanza;",
+          "Protezione solare di giorno: chi usa il retinal la sera ha bisogno della protezione solare durante il giorno. Per chi, come me, non l'ha mai usata, è la prima abitudine da creare;",
+          "Gravidanza e allattamento: i derivati della vitamina A richiedono un parere medico prima dell'uso;",
+          "Pelle sensibile: se brucia o si arrossa, riduci la frequenza e rivolgiti a un dermatologo."
+        ]
+      },
+      {
+        "heading": "La mia routine serale da principiante, passo dopo passo",
+        "paragraphs": [
+          "L'ordine che ho seguito nel video sta in una sera qualsiasi, senza quella maratona di dieci passaggi che internet associa alla skincare coreana:"
+        ],
+        "bullets": [
+          "Passo 1 — Occhi: a viso pulito, metto i patch in idrogel sotto gli occhi;",
+          "Passo 2 — Viso e collo: mentre i patch agiscono, applico la Booster Crème picchiettando;",
+          "Passo 3 — Labbra: uno strato di lip mask con la spatolina;",
+          "Passo 4 — Togliere i patch: dopo 10-15 minuti, come indica la confezione;",
+          "Tempo totale: circa 15 minuti, quasi tutti di attesa con i patch sul viso."
+        ]
+      },
+      {
+        "heading": "Dove comprare e come risparmiare con CECILIA010",
+        "paragraphs": [
+          "I tre prodotti sono venduti da YesStyle, che spedisce a livello internazionale. Tempi e costi di spedizione dipendono dal tuo paese: controlla la stima nel carrello prima di pagare.",
+          "Al checkout, inserisci il codice CECILIA010 nel campo Reward Code: dà il 5% di sconto sul primo ordine e il 2% su quelli successivi. I coupon promozionali vanno nell'altro campo, Coupon Code, e si sommano a CECILIA010, compresi i coupon speciali che arrivano solo al tuo account.",
+          "Sul fronte tasse: YesStyle rimborsa dazi doganali e spese collegate, sotto forma di credito YesStyle, per gli ordini sotto i 1.000 USD (importo prima dei coupon, spedizione esclusa). Se all'arrivo ti chiedono dei costi, paga, conserva la ricevuta e inviala al servizio clienti del negozio entro 30 giorni. Attenzione: l'IVA addebitata al checkout sugli ordini verso l'UE non è coperta da questo rimborso."
+        ],
+        "links": [
+          {
+            "label": "Coupon della settimana e regole di CECILIA010 su YesStyle",
+            "href": "/it/coupons/yesstyle"
+          },
+          {
+            "label": "Vai su YesStyle con il codice CECILIA010",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          },
+          {
+            "label": "YesStyle è affidabile? Provenienza, tempi e resi",
+            "href": "/it/reviews/yesstyle-e-affidabile-e-sicuro"
+          },
+          {
+            "label": "K-Beauty: cos'è e dove comprare cosmetici coreani",
+            "href": "/it/reviews/k-beauty-tendenza-bellezza-coreana"
+          }
+        ]
+      },
+      {
+        "heading": "Cosa terrò d'occhio nelle prossime settimane",
+        "paragraphs": [
+          "Questo è il racconto del primo utilizzo. Continuerò la routine e tornerò qui a dirti cosa è cambiato davvero, e cosa no."
+        ],
+        "bullets": [
+          "Occhiaie e aspetto stanco sotto gli occhi;",
+          "Texture e luminosità della pelle di viso e collo;",
+          "Se il retinal darà qualche irritazione con l'uso continuativo;",
+          "Se la lip mask mantiene le labbra idratate durante la notte."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Per quanto tempo tenere i patch in idrogel di Abib? La confezione indica di rimuoverli dopo 10-15 minuti. Non sono fatti per dormirci.",
+          "Cos'è il PDRN? È un ingrediente ricavato da frammenti di DNA, molto usato nei cosmetici coreani orientati a rigenerazione e tonicità. Per la lip mask di Abib, il marchio indica un'origine vegetale (centella asiatica e ginkgo biloba).",
+          "Il retinal è la stessa cosa dell'acido retinoico? No. Il retinal è un derivato della vitamina A che la pelle converte in acido retinoico. Per questo l'azione è più graduale e richiede la protezione solare durante il giorno.",
+          "La lip mask di Abib ha un profumo forte? Ha un profumino dolce. Io sono sensibile ai profumi forti e questo non mi ha dato fastidio.",
+          "YesStyle spedisce nel mio paese e cosa succede con i dazi doganali? YesStyle spedisce a livello internazionale; tempi e costi dipendono dal paese e la stima compare nel carrello. Per dazi e spese collegate, il negozio li rimborsa in credito YesStyle per gli ordini sotto i 1.000 USD, con la ricevuta di pagamento presentata entro 30 giorni. L'IVA addebitata al checkout sugli ordini verso l'UE non viene rimborsata.",
+          "Dove uso il codice CECILIA010? Nel campo Reward Code del checkout. Dà il 5% sul primo ordine e il 2% sui successivi, e si somma al coupon che inserisci nel campo Coupon Code."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Guarda i tre prodotti Abib su YesStyle e usa CECILIA010 nel campo Reward Code",
+      "label": "Vedi i prodotti Abib su YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "I tre prodotti sono stati inviati da YesStyle a Em Casa com Cecília. Questo articolo raccoglie le prime impressioni di Cecília Mauad al primo utilizzo, mostrate nel video (in portoghese); i dati su formato, ingredienti e modo d'uso provengono dalle pagine ufficiali dei prodotti su YesStyle. Il sito riceve una commissione tramite i link di affiliazione e il Reward Code CECILIA010.",
+    "relatedArticles": [
+      {
+        "slug": "k-beauty-tendenza-bellezza-coreana",
+        "title": "K-Beauty spiegata: perché la bellezza coreana è diventata una tendenza globale e dove comprarla"
+      },
+      {
+        "slug": "yesstyle-e-affidabile-e-sicuro",
+        "title": "YesStyle è affidabile e sicuro? Cosa sapere prima di comprare"
+      },
+      {
+        "slug": "come-trovare-codici-sconto-yesstyle-validi",
+        "title": "Come trovare codici sconto YesStyle validi e combinarli con CECILIA010"
+      }
+    ],
+    "translationKey": "yesstyle-skincare-30",
+    "hideFromPortugueseListings": true
+  },
+  {
+    "id": 304,
+    "slug": "abib-skincare-routine-30-ko",
+    "locale": "ko",
+    "translationKey": "yesstyle-skincare-30",
+    "title": "서른, 한국 스킨케어 입문기: YesStyle에서 받은 아비브(Abib)로 첫 루틴을 만들어 봤어요",
+    "seoTitle": "30대 스킨케어 루틴: 아비브 입문 세트 첫인상 리뷰",
+    "type": "첫인상 리뷰",
+    "category": "produtos-experiencias",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "선크림조차 써 본 적 없던 제가 서른에 YesStyle에서 받은 아비브 3종으로 한국 스킨케어 루틴을 시작해 봤어요. 하이드로겔 아이패치, PDRN·레티날 부스터 크림, 젤 립 마스크입니다.",
+    "metaDescription": "30대에 처음 시작한 스킨케어 루틴. 아비브 아이패치, PDRN 크림, 립 마스크의 텍스처와 향, 사용법, YesStyle CECILIA010 코드까지 솔직하게 정리했어요.",
+    "publishedAt": "2026년 9월 28일",
+    "publishedAtISO": "2026-09-28",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
+    "imageAlt": "아비브 PDRN 부스터 크림, 하이드로겔 아이패치, 립 마스크 박스를 들고 있는 세실리아 마우아드",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
+    "pros": [
+      "짧은 루틴: 제품 3가지에 15분 정도, 대부분은 아이패치를 붙이고 기다리는 시간이에요",
+      "시원한 하이드로겔 아이패치, 표면에 질감이 있어서 미끄러지지 않도록 도와줘요",
+      "연고 같은 텍스처의 크림이 잘 펴 발리고 바른 뒤엔 보송한 벨벳 같은 촉감이 남아요",
+      "스패츌러가 들어 있고 달콤한 향이 나는 립 마스크, 제겐 느끼하지 않았어요",
+      "YesStyle이 직접 판매하는 한국 정품이고, CECILIA010 코드를 Reward Code 칸에 넣으면 다른 할인과 함께 적용돼요"
+    ],
+    "cons": [
+      "PDRN과 레티날은 천천히 작용해요. 첫 주부터 눈에 띄는 차이를 기대하진 마세요",
+      "레티날을 쓰면 낮에 선크림이 필수예요. 저처럼 한 번도 안 써 본 사람은 이제부터 시작해야 해요",
+      "처음엔 아이패치의 앞뒤가 헷갈렸어요",
+      "해외 주문이라 현지 쇼핑몰보다 배송에 시간이 더 걸릴 수 있어요"
+    ],
+    "contentSections": [
+      {
+        "heading": "서른, 성공의 나이이자 ‘뷰티 세금’을 내기 시작하는 나이",
+        "paragraphs": [
+          "지금까지는 아무것도 안 하고도 그냥 예뻤잖아요. 선크림조차 안 바르던 저는 서른이 되자 이제 진지하게 해 보자고 마음먹었고, 생애 첫 한국 스킨케어 루틴을 짰어요.",
+          "YesStyle(수입 화장품을 파는 온라인 스토어)에서 아비브(Abib) 제품 3가지를 보내 줬어요. 그리고 이건 진짜 한국에서 만든 한국 제품이에요. ‘한국풍’이 아니고요. K-뷰티를 잘 아는 분들께는 당연한 이야기겠지만, 브라질 사람인 저한테는 이 점이 꽤 중요했어요.",
+          "이 글은 세 제품을 처음 써 본 기록이에요. 이 글에 있는 영상(포르투갈어예요)에서 붙이는 모습, 텍스처, 향, 아이패치를 뗄 때 느낌까지 담았어요. 피부 결과는 첫날부터 장담할 수 없으니, 앞으로 몇 주 동안 써 보고 무엇이 달라졌는지 다시 와서 알려 드릴게요."
+        ]
+      },
+      {
+        "heading": "제가 받은 아비브 제품 3가지",
+        "paragraphs": [
+          "루틴은 부위별로 하나씩이에요. 눈가, 얼굴, 입술이요. 아래 정보는 YesStyle의 각 제품 공식 페이지에 나온 내용이고, 사용 느낌은 제 개인적인 인상이에요."
+        ],
+        "comparisonTable": {
+          "caption": "테스트한 아비브 루틴: 용량, 주요 성분, 브랜드가 안내하는 사용법",
+          "headers": [
+            "제품",
+            "용도",
+            "용량",
+            "주요 성분",
+            "브랜드 안내 사용법"
+          ],
+          "rows": [
+            [
+              "아비브 하이드로겔 아이패치 PDRN & 레티날 (Abib Hydrogel Eye Patch PDRN & Retinal)",
+              "다크서클과 피곤해 보이는 인상",
+              "패치 60매 (84 g)",
+              "PDRN, 레티날, 카페인, 나이아신아마이드, 콜라겐",
+              "눈 밑에 붙이고 10~15분 뒤에 떼기"
+            ],
+            [
+              "아비브 PDRN 볼륨 필잇 부스터 크림 2.5 튜브 (Abib PDRN Volume Fill-it Booster Crème 2.5 Tube)",
+              "탄력과 잔주름",
+              "30 ml",
+              "PDRN(15,000ppm), 볼루필린(10,000ppm), 레티날, 펩타이드",
+              "얼굴과 목에 가볍게 두드려 바르기"
+            ],
+            [
+              "아비브 PDRN 콜라겐 립 마스크 글레이즈드 젤리 (Abib PDRN Collagen Lip Mask Glazed Jelly)",
+              "입술 보습",
+              "11 g",
+              "센텔라·은행나무 유래 PDRN, 콜라겐, 히알루론산",
+              "낮에는 얇게, 자기 전에는 듬뿍, 스패츌러로 바르기"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "하이드로겔 아이패치: 시원해서 좋았어요 (그런데 저는 거꾸로 붙였어요)",
+        "paragraphs": [
+          "첫 느낌이 제일 좋아요. 아이패치가 시원해요. 용기 하나에 60매가 들어 있고, 브랜드 설명에 따르면 표면에 질감이 있어서 미끄러지지 않도록 도와준대요.",
+          "고백하자면 첫 장은 잘못 붙였어요. 뒤집었다 다시 뒤집었다 하다가 이쪽이 낫다 싶었는데, 솔직히 양면 차이는 못 느꼈어요. 저처럼 처음이라면 걱정 마세요. 중요한 건 눈 밑에 잘 밀착시키되 눈에 닿지 않게 하는 거예요.",
+          "시간이 지나면 패치가 점점 얇아져서 사라지는 것처럼 보여요. 하이드로겔을 피부가 통째로 흡수했다는 뜻은 아니에요. 젤이 증발하지 않게 꼭 붙어 있는 동안 안에 든 것을 내보내는 거예요.",
+          "제품에는 10~15분 뒤에 떼라고 적혀 있어요. 영상에서는 나머지 루틴을 하느라 20분 정도 붙여 뒀는데, 여러분은 라벨대로 하세요. 그리고 붙인 채로 자면 안 돼요."
+        ],
+        "bullets": [
+          "뗀 뒤: 피부가 보송했고, 패치가 붙어 있던 자리 모양이 뚜렷하게 보였어요;",
+          "느낌: 피부에 닿는 순간 시원해요;",
+          "브랜드가 내세우는 점: PDRN, 레티날, 카페인으로 눈가를 환하게 하고 피곤해 보이는 인상을 커버하는 것. 이건 계속 써 봐야 평가할 수 있어요."
+        ],
+        "links": [
+          {
+            "label": "YesStyle에서 아비브 하이드로겔 아이패치 PDRN & 레티날(Abib Hydrogel Eye Patch PDRN & Retinal) 보기",
+            "href": "https://ystyle.co/cn2Z5",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+        "imageAlt": "한 손에는 뚜껑을 연 용기, 다른 손에는 분홍빛 아비브 하이드로겔 아이패치를 들고 있는 세실리아",
+        "imageCaption": "아비브 하이드로겔 아이패치는 용기 하나에 60매가 들어 있고, 피부에 닿으면 시원해요.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "부스터 크림 2.5: 연고 같은 텍스처가 벨벳이 돼요",
+        "paragraphs": [
+          "아이패치가 작용하는 동안 크림을 발랐어요. 튜브에서 연고 같은 텍스처로 나오고, 바르면 피부 위로 스르륵 미끄러지는 게 느껴져요.",
+          "제가 제일 좋아한 건 그다음이에요. 펴 바르고 나면 피부가 순식간에 벨벳으로 변한 것처럼 보송한 촉감이 남아요. 게다가 아주 잘 펴 발려요.",
+          "아비브는 이 제품의 포뮬러에서 PDRN과 볼루필린(볼륨감을 주는 용도로 쓰이는 성분)을 내세우고, 여기에 레티날, 펩타이드, 나이아신아마이드, 카페인이 들어 있어요. 탄력과 잔주름을 위한 크림이니 장기전으로 봐야 해요."
+        ],
+        "bullets": [
+          "바르는 곳: 얼굴과 목. 브랜드 안내대로 가볍게 두드리면 흡수를 도와줘요;"
+        ],
+        "links": [
+          {
+            "label": "YesStyle에서 아비브 PDRN 볼륨 필잇 부스터 크림 2.5(Abib PDRN Volume Fill-it Booster Crème 2.5 Tube) 보기",
+            "href": "https://ystyle.co/q5SUZ",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+        "imageAlt": "아비브 PDRN 볼륨 필잇 부스터 크림 2.5 튜브를 들고 있는 세실리아",
+        "imageCaption": "30 ml 부스터 크림 2.5 튜브: 연고처럼 나와서 피부를 벨벳 같은 촉감으로 만들어 줘요.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "립 마스크 글레이즈드 젤리: 달콤하지만 느끼하지 않은 향",
+        "paragraphs": [
+          "마지막은 립 마스크예요. 작은 스패츌러가 들어 있고, 텍스처는 아이패치와 비슷한 젤 타입이에요.",
+          "달콤한 향이 나는데 느끼하진 않아요. 저를 아시는 분들은 제가 진한 향에 약하다는 걸 아실 텐데, 이 향은 거슬리지 않았어요.",
+          "브랜드는 낮에는 얇게 발라 윤기와 보습을, 자기 전에는 듬뿍 발라 수면 마스크처럼 쓰라고 안내해요."
+        ],
+        "links": [
+          {
+            "label": "YesStyle에서 아비브 PDRN 콜라겐 립 마스크 글레이즈드 젤리(Abib PDRN Collagen Lip Mask Glazed Jelly) 보기",
+            "href": "https://ystyle.co/TS7jZ",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+        "imageAlt": "입술을 쭉 내밀고 아비브 글레이즈드 젤리 립 마스크 용기를 들고 있는 세실리아",
+        "imageCaption": "11 g 립 마스크 글레이즈드 젤리는 젤 텍스처에 달콤한 향이 나요.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "PDRN과 레티날, 어려울 것 없어요: 효과가 은은한 이유",
+        "paragraphs": [
+          "한국 스킨케어의 핵심은 제품이 장기간 쓰는 것을 전제로 만들어졌다는 점이에요. 자, 이제 막 서른이 됐잖아요. 이건 시작일 뿐이고, 앞으로 평생 피부 관리 루틴이 필요할 거예요.",
+          "영상에서 저는 레티노산이라고 말했는데, 아이패치와 크림에 들어 있는 성분의 정확한 이름은 레티날(레티날데하이드)이에요. 비타민 A 유도체로 레티놀과 같은 계열이고, 피부에서 레티노산으로 바뀌어요. 작용이 더 점진적이라서 쓰자마자 각질이 일어나는 일은 없을 거예요.",
+          "PDRN은 DNA 조각으로 만든 성분으로, 재생과 탄력을 내세우는 한국 화장품에서 크게 유행하고 있어요. 립 마스크의 PDRN은 병풀(센텔라 아시아티카)과 은행나무에서 얻은 것이라고 아비브가 밝히고 있어요."
+        ],
+        "bullets": [
+          "은은한 효과: 첫날이나 첫 주에 변화를 기대하지 마세요. 꾸준함이 있어야 효과가 나타나요;",
+          "낮에는 선크림: 밤에 레티날을 쓴다면 낮에 선크림이 꼭 필요해요. 저처럼 한 번도 안 써 본 사람에게는 이게 가장 먼저 들여야 할 습관이에요;",
+          "임신·수유 중: 비타민 A 유도체는 사용 전에 의사와 상담이 필요해요;",
+          "민감한 피부: 따갑거나 붉어지면 횟수를 줄이고 피부과 전문의와 상담하세요."
+        ]
+      },
+      {
+        "heading": "초보자의 밤 루틴, 단계별로",
+        "paragraphs": [
+          "영상에서 한 순서는 평범한 하루 밤에 충분히 들어가요. 한국 스킨케어 하면 인터넷에서 떠올리는 10단계 마라톤 같은 건 없어요."
+        ],
+        "bullets": [
+          "1단계, 눈가: 세안한 얼굴에 하이드로겔 아이패치를 눈 밑에 붙여요;",
+          "2단계, 얼굴과 목: 아이패치가 작용하는 동안 부스터 크림을 두드려 발라요;",
+          "3단계, 입술: 스패츌러로 립 마스크를 한 겹 발라요;",
+          "4단계, 아이패치 떼기: 포장에 안내된 대로 10~15분 뒤에 떼요;",
+          "총 소요 시간: 15분 정도, 대부분은 아이패치를 붙이고 기다리는 시간이에요."
+        ]
+      },
+      {
+        "heading": "구매처와 CECILIA010으로 절약하는 법",
+        "paragraphs": [
+          "세 제품 모두 YesStyle에서 판매해요. YesStyle은 해외 배송을 하는데, 배송 기간과 배송비는 국가마다 달라요. 장바구니에서 예상 배송 정보를 확인해 보세요.",
+          "결제할 때 Reward Code 칸에 CECILIA010 코드를 입력하면 첫 주문은 5%, 이후 주문은 2% 할인돼요. 프로모션 쿠폰은 다른 칸인 Coupon Code에 입력하고, CECILIA010과 중복 적용돼요. 내 계정으로만 오는 특별 쿠폰도 마찬가지예요.",
+          "관세에 대해서는, YesStyle이 US$ 1,000 미만 주문(쿠폰 적용 전 금액, 배송비 제외)에 대해 관세와 수수료를 환불해 줘요. 도착했을 때 부과된 게 있으면 납부하고 영수증을 보관했다가, 30일 이내에 결제 영수증과 함께 YesStyle 고객센터에 보내세요. 환불은 YesStyle Credit으로 들어와요. 다만 지역에 따라 결제 시점에 부과되는 세금(EU 부가세, 영국 부가세, 미국 판매세, 호주 GST, 싱가포르 GST 등)은 환불 대상이 아니에요."
+        ],
+        "links": [
+          {
+            "label": "이번 주 쿠폰과 YesStyle CECILIA010 이용 규칙",
+            "href": "/ko/coupons/yesstyle"
+          },
+          {
+            "label": "CECILIA010 코드로 YesStyle 방문하기",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          },
+          {
+            "label": "YesStyle 믿을 수 있을까? 정품 여부, 배송, 반품 정리",
+            "href": "/ko/reviews/yesstyle-trust-guide-ko"
+          },
+          {
+            "label": "K-뷰티란? 한국 화장품 구매처 가이드",
+            "href": "/ko/reviews/yesstyle-kbeauty-guide-ko"
+          }
+        ]
+      },
+      {
+        "heading": "앞으로 몇 주 동안 지켜볼 것",
+        "paragraphs": [
+          "이 글은 첫 사용 기록이에요. 루틴을 이어 가다가 무엇이 진짜 달라졌는지, 그리고 무엇이 그대로인지 다시 와서 알려 드릴게요."
+        ],
+        "bullets": [
+          "다크서클과 눈 밑의 피곤해 보이는 인상;",
+          "얼굴과 목 피부의 결과 생기;",
+          "레티날을 계속 쓰면 자극이 생기는지;",
+          "립 마스크가 밤새 입술 보습을 유지해 주는지."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "아비브 하이드로겔 아이패치는 얼마나 붙이나요? 포장에는 10~15분 뒤에 떼라고 안내되어 있어요. 붙인 채로 자면 안 돼요.",
+          "PDRN이 뭔가요? DNA 조각으로 만든 성분으로, 재생과 탄력을 내세우는 한국 화장품에 많이 쓰여요. 아비브 립 마스크의 경우 브랜드는 식물 유래(병풀과 은행나무)라고 밝히고 있어요.",
+          "레티날과 레티노산은 같은 건가요? 아니에요. 레티날은 피부에서 레티노산으로 바뀌는 비타민 A 유도체예요. 그래서 작용이 더 점진적이고, 낮에는 선크림이 필요해요.",
+          "아비브 립 마스크는 향이 강한가요? 달콤한 향이 나요. 저는 진한 향에 민감한데 이 제품은 거슬리지 않았어요.",
+          "YesStyle은 해외로 배송하나요? 관세는 어떻게 되나요? 네, 국제 배송을 해요. 배송 기간과 배송비는 국가마다 다르니 장바구니에서 예상 배송을 확인하세요. 관세와 수수료가 부과되면 US$ 1,000 미만 주문(쿠폰 적용 전 금액, 배송비 제외)에 한해 YesStyle Credit으로 환불받을 수 있고, 결제 영수증과 함께 30일 이내에 신청해야 해요. 지역에 따라 결제 시 부과되는 세금(EU·영국 부가세, 미국 판매세, 호주·싱가포르 GST 등)은 환불 대상이 아니에요.",
+          "CECILIA010 코드는 어디에 입력하나요? 결제 화면의 Reward Code 칸에 입력하세요. 첫 주문은 5%, 이후 주문은 2% 할인되고, Coupon Code 칸에 넣는 쿠폰과 중복 적용돼요."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "YesStyle에서 아비브 3종을 확인하고 Reward Code 칸에 CECILIA010을 입력하세요",
+      "label": "YesStyle에서 아비브 제품 보기",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "세 제품은 YesStyle이 Em Casa com Cecília에 보내 준 것이에요. 이 글은 세실리아 마우아드가 처음 사용했을 때의 첫인상을 영상에 담아 기록한 것이며, 용량, 성분, 사용법 정보는 YesStyle의 각 제품 공식 페이지를 참고했어요. 사이트는 제휴 링크와 Reward Code CECILIA010를 통해 수수료를 받아요.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-kbeauty-guide-ko",
+        "title": "K-뷰티가 세계를 사로잡은 이유와 한국 브랜드 구매처 찾기"
+      },
+      {
+        "slug": "yesstyle-trust-guide-ko",
+        "title": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보"
+      },
+      {
+        "slug": "yesstyle-valid-coupon-guide-ko",
+        "title": "유효한 YesStyle 쿠폰 코드 찾는 법 및 CECILIA010 중복 할인 가이드"
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "slug": "abib-skincare-routine-30-ja",
+    "locale": "ja",
+    "translationKey": "yesstyle-skincare-30",
+    "title": "30歳で始めた韓国スキンケア：YesStyleで届いたアビブ（Abib）で初めてのルーティンを試してみました",
+    "seoTitle": "30代 韓国スキンケア入門｜アビブ3点を使ってみた初印象",
+    "type": "ファーストインプレッション",
+    "category": "produtos-experiencias",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "日焼け止めすら使ったことがなかった私が、30歳でYesStyleから届いたアビブの3点で韓国スキンケアを始めてみました。ハイドロゲルアイパッチ、PDRN・レチナール配合のブースタークリーム、ジェルタイプのリップマスクです。",
+    "metaDescription": "30代で初めてのスキンケアルーティン。アビブのアイパッチ、PDRNクリーム、リップマスクの質感や香り、使い方、YesStyleのCECILIA010コードまで正直にまとめました。",
+    "publishedAt": "2026年9月28日",
+    "publishedAtISO": "2026-09-28",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
+    "imageAlt": "アビブのPDRNブースタークリーム、ハイドロゲルアイパッチ、リップマスクの箱を持つセシリア・マウアド",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
+    "pros": [
+      "短いルーティン：アイテムは3つで約15分、ほとんどはアイパッチを付けて待つ時間です",
+      "ひんやり冷たいハイドロゲルパッチ。表面に凹凸があり、ずれにくいようになっています",
+      "軟膏のようなテクスチャーのクリームで、伸びが良く、塗ったあとはベルベットのようなさらさらの肌触りになります",
+      "スパチュラ付きで、甘い香りのリップマスク。私にはくどく感じませんでした",
+      "YesStyleが直接販売する韓国の正規品で、CECILIA010をRewardコード欄に入力すると他の割引と併用できます"
+    ],
+    "cons": [
+      "PDRNとレチナールはゆっくり働きます。最初の1週間で目に見える違いを期待しないでください",
+      "レチナールを使うなら日中の日焼け止めが必須です。私のように使ったことがない人は、そこから習慣にする必要があります",
+      "初めてのときは、アイパッチの表裏がわからず迷いました",
+      "海外からの注文なので、国内のショップより届くまでに時間がかかることがあります"
+    ],
+    "contentSections": [
+      {
+        "heading": "30歳、成功の年齢であり、「美容の通行料」を払い始める年齢",
+        "paragraphs": [
+          "これまでは何もしなくても、なんとなくきれいでいられました。日焼け止めすら塗ったことがなかった私も30歳になり、そろそろ真剣に向き合おうと決めて、人生初の韓国スキンケアのルーティンを組んでみました。",
+          "YesStyle（輸入コスメを扱うオンラインストア）から、アビブ（Abib）の商品を3つ送っていただきました。そしてこれは、正真正銘、韓国で作られた韓国の製品です。「韓国風」ではありませんよ。K-Beautyに詳しい方には当たり前のことかもしれませんが、ブラジル人の私にとっては、そこが大事なポイントでした。",
+          "この記事は、3つを初めて使ったときの記録です。この記事の動画（ポルトガル語です）では、付け方、テクスチャー、香り、アイパッチを外したときの感覚まで見せています。肌の結果は初日から約束できるものではないので、これから数週間使ってみて、何が変わったかをまたご報告しますね。"
+        ]
+      },
+      {
+        "heading": "私が受け取ったアビブの3アイテム",
+        "paragraphs": [
+          "ルーティンは、目元、顔、唇と、部位ごとに1つずつです。以下の情報はYesStyleの各商品の公式ページに掲載されているもので、使用感は私個人の感想です。"
+        ],
+        "comparisonTable": {
+          "caption": "試したアビブのルーティン：容量、主な成分、ブランドが案内する使い方",
+          "headers": [
+            "商品",
+            "目的",
+            "容量",
+            "注目成分",
+            "ブランドが案内する使い方"
+          ],
+          "rows": [
+            [
+              "アビブ ハイドロゲルアイパッチ PDRN＆レチナール（Abib Hydrogel Eye Patch PDRN & Retinal）",
+              "クマと疲れた印象",
+              "60枚入り（84 g）",
+              "PDRN、レチナール、カフェイン、ナイアシンアミド、コラーゲン",
+              "目の下に貼り、10〜15分後にはがす"
+            ],
+            [
+              "アビブ PDRN ボリューム フィルイット ブースタークリーム 2.5 チューブ（Abib PDRN Volume Fill-it Booster Crème 2.5 Tube）",
+              "ハリと小ジワ",
+              "30 ml",
+              "PDRN（15,000ppm）、ボルフィリン（10,000ppm）、レチナール、ペプチド",
+              "顔と首に軽くたたき込むようにつける"
+            ],
+            [
+              "アビブ PDRN コラーゲン リップマスク グレイズドジェリー（Abib PDRN Collagen Lip Mask Glazed Jelly）",
+              "唇の保湿",
+              "11 g",
+              "ツボクサとイチョウ由来のPDRN、コラーゲン、ヒアルロン酸",
+              "日中は薄く、就寝前はたっぷりと、スパチュラで塗る"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "ハイドロゲルアイパッチ：ひんやり気持ちいい（でも私は裏表を間違えました）",
+        "paragraphs": [
+          "最初の印象がいちばん良かったです。アイパッチは、ひんやりしています。1つのケースに60枚入っていて、ブランドの説明によると、表面に凹凸があってずれにくくなっているそうです。",
+          "正直に言うと、最初の1枚は間違った向きで貼りました。裏返したり戻したりして、こっちのほうがいいかなと思ったのですが、正直なところ、表裏の違いは感じませんでした。私のように初めての方も、心配しなくて大丈夫です。大事なのは、目に触れないように、目の下にしっかり密着させることです。",
+          "時間がたつと、パッチはだんだん薄くなって、消えていくように見えます。ハイドロゲルを肌がまるごと吸収したという意味ではありません。ゲルが蒸発しないようにぴったり貼りついている間に、中身を届けてくれているのです。",
+          "パッケージには10〜15分後にはがすよう書かれています。動画ではほかのルーティンをしていたので20分ほど付けたままにしましたが、皆さんはラベルどおりにしてください。そして、付けたまま寝ないでくださいね。"
+        ],
+        "bullets": [
+          "はがしたあと：肌がさらっとしていて、パッチを貼っていた場所の形がはっきりわかりました；",
+          "感触：肌にのせた瞬間、ひんやりします；",
+          "ブランドがうたっていること：PDRN、レチナール、カフェインで目元を明るく見せ、疲れた印象をカバーすること。これは続けて使わないと評価できません。"
+        ],
+        "links": [
+          {
+            "label": "YesStyleでアビブ ハイドロゲルアイパッチ PDRN＆レチナール（Abib Hydrogel Eye Patch PDRN & Retinal）を見る",
+            "href": "https://ystyle.co/cn2Z5",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+        "imageAlt": "片手にピンク色のアビブ ハイドロゲルアイパッチ、もう片方の手にふたを開けたケースを持つセシリア",
+        "imageCaption": "アビブのハイドロゲルアイパッチは1ケースに60枚入りで、肌にのせるとひんやりします。",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "ブースタークリーム 2.5：軟膏のような質感がベルベットに変わります",
+        "paragraphs": [
+          "アイパッチが働いている間に、クリームを塗りました。チューブから軟膏のようなテクスチャーで出てきて、塗ると肌の上をするりと滑るのがわかります。",
+          "私がいちばん気に入ったのはそのあとです。伸ばし終わると、肌がその場でベルベットになったような、さらさらの手触りになります。しかも、とてもよく伸びます。",
+          "アビブは処方の特長として、PDRNとボルフィリン（ふっくらした感触を与える目的で使われる成分）を挙げていて、そのほかにレチナール、ペプチド、ナイアシンアミド、カフェインが入っています。ハリと小ジワのためのクリームなので、長期戦で考えるものです。"
+        ],
+        "bullets": [
+          "塗る場所：顔と首。ブランドの案内どおり、軽くたたき込むようにすると浸透を助けてくれます；"
+        ],
+        "links": [
+          {
+            "label": "YesStyleでアビブ PDRN ボリューム フィルイット ブースタークリーム 2.5（Abib PDRN Volume Fill-it Booster Crème 2.5 Tube）を見る",
+            "href": "https://ystyle.co/q5SUZ",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+        "imageAlt": "アビブ PDRN ボリューム フィルイット ブースタークリーム 2.5 のチューブを持つセシリア",
+        "imageCaption": "30 mlのブースタークリーム 2.5のチューブ：軟膏のように出てきて、肌をベルベットのような手触りにしてくれます。",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "リップマスク グレイズドジェリー：甘いのにくどくない香り",
+        "paragraphs": [
+          "最後はリップマスクです。小さなスパチュラが付いていて、テクスチャーはアイパッチに似たジェルタイプです。",
+          "甘い香りがしますが、くどくはありません。私のことをご存じの方は、私が強い香りが苦手なのをご存じだと思いますが、この香りは気になりませんでした。",
+          "ブランドは、日中は薄く塗ってツヤと保湿に、就寝前はたっぷり塗ってナイトマスクとして使うよう案内しています。"
+        ],
+        "links": [
+          {
+            "label": "YesStyleでアビブ PDRN コラーゲン リップマスク グレイズドジェリー（Abib PDRN Collagen Lip Mask Glazed Jelly）を見る",
+            "href": "https://ystyle.co/TS7jZ",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+        "imageAlt": "唇をとがらせて、アビブ グレイズドジェリー リップマスクのケースを持つセシリア",
+        "imageCaption": "11 gのリップマスク グレイズドジェリーは、ジェルのテクスチャーで甘い香りがします。",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "PDRNとレチナールの基本：効果がゆるやかな理由",
+        "paragraphs": [
+          "韓国スキンケアの大きなポイントは、製品が長く使うことを前提に作られていることです。ねえ、30歳になったばかりですよ。これはまだ始まりにすぎなくて、これから一生、肌のお手入れのルーティンが必要になります。",
+          "動画では私は「レチノイン酸」と言ってしまいましたが、アイパッチとクリームに入っている成分の正しい名前はレチナール（レチンアルデヒド）です。ビタミンA誘導体でレチノールと同じ仲間で、肌の中でレチノイン酸に変わります。作用はよりゆるやかなので、使い始めたからといって、皮がむけてしまうようなことはありません。",
+          "PDRNはDNAの断片から作られた成分で、再生やハリをうたう韓国コスメで大ブームになっています。リップマスクのPDRNは、ツボクサ（センテラ・アジアティカ）とイチョウ由来だと、アビブは説明しています。"
+        ],
+        "bullets": [
+          "ゆるやかな効果：初日や最初の1週間で変化を期待しないでください。続けることで効果が出てきます；",
+          "日中は日焼け止め：夜にレチナールを使うなら、日中の日焼け止めが必要です。私のように使ったことがない人にとって、それが最初に身につける習慣です；",
+          "妊娠中・授乳中：ビタミンA誘導体は、使う前に医師に相談してください；",
+          "敏感肌：ヒリヒリしたり赤くなったりしたら、頻度を減らして皮膚科医に相談してください。"
+        ]
+      },
+      {
+        "heading": "初心者の夜のルーティンをステップごとに",
+        "paragraphs": [
+          "動画でやった順番は、ごく普通の夜に十分収まります。ネットで韓国スキンケアといえば連想される、10ステップのマラソンのようなものではありません。"
+        ],
+        "bullets": [
+          "ステップ1、目元：洗顔した顔の、目の下にハイドロゲルアイパッチを貼ります；",
+          "ステップ2、顔と首：アイパッチが働いている間に、ブースタークリームを軽くたたきながら塗ります；",
+          "ステップ3、唇：スパチュラでリップマスクを一層塗ります；",
+          "ステップ4、アイパッチをはがす：パッケージの案内どおり、10〜15分後にはがします；",
+          "所要時間の合計：約15分、ほとんどはアイパッチを付けて待つ時間です。"
+        ]
+      },
+      {
+        "heading": "購入先とCECILIA010でお得にする方法",
+        "paragraphs": [
+          "3つとも、YesStyleで販売されています。YesStyleは海外にも発送していて、届くまでの日数や送料は国によって異なります。カートで、配送の目安を確認してみてください。",
+          "チェックアウトでは、Rewardコード欄にCECILIA010を入力すると、初回の注文は5%オフ、以降の注文は2%オフになります。プロモーションクーポンは別の欄、Coupon Codeに入力し、CECILIA010と併用できます。アカウントにだけ届く特別クーポンも同じです。",
+          "関税については、YesStyleはUS$ 1,000未満の注文（クーポン適用前の金額、送料を除く）について、関税と手数料を返金してくれます。到着時に請求があったら、支払って、その領収書を保管し、30日以内に支払いの領収書を添えてYesStyleのカスタマーサポートに送ってください。返金はYesStyle Creditで行われます。ただし、地域によってチェックアウト時に課される税金（EUのVAT、英国のVAT、米国のセールスタックス、オーストラリアのGST、シンガポールのGSTなど）は対象外です。"
+        ],
+        "links": [
+          {
+            "label": "今週のクーポンとYesStyleのCECILIA010の利用ルール",
+            "href": "/ja/coupons/yesstyle"
+          },
+          {
+            "label": "CECILIA010コードでYesStyleにアクセスする",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          },
+          {
+            "label": "YesStyleは安全？購入前に知っておくべき信頼性と評判",
+            "href": "/ja/reviews/yesstyle-trust-guide-ja"
+          },
+          {
+            "label": "K-Beautyとは？韓国コスメの特徴と購入方法",
+            "href": "/ja/reviews/yesstyle-kbeauty-guide-ja"
+          }
+        ]
+      },
+      {
+        "heading": "これから数週間、見ていくこと",
+        "paragraphs": [
+          "これは初めて使ったときの記録です。ルーティンを続けて、本当に何が変わったのか、そして何が変わらなかったのかを、またここでお伝えします。"
+        ],
+        "bullets": [
+          "クマと、目の下の疲れた印象；",
+          "顔と首の肌のキメとツヤ；",
+          "レチナールを続けて使うと、刺激が出るかどうか；",
+          "リップマスクが夜の間、唇の潤いを保ってくれるかどうか。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "アビブのハイドロゲルアイパッチは、どのくらい貼っておけばいいですか？ パッケージには10〜15分後にはがすよう書かれています。付けたまま寝ないでください。",
+          "PDRNとは何ですか？ DNAの断片から作られた成分で、再生やハリをうたう韓国コスメに多く使われています。アビブのリップマスクについては、ブランドが植物由来（ツボクサとイチョウ）だと説明しています。",
+          "レチナールとレチノイン酸は同じものですか？ いいえ。レチナールは、肌の中でレチノイン酸に変わるビタミンA誘導体です。そのため作用がよりゆるやかで、日中は日焼け止めが必要です。",
+          "アビブのリップマスクは香りが強いですか？ 甘い香りがします。私は強い香りが苦手ですが、これは気になりませんでした。",
+          "YesStyleは海外に発送してくれますか？ 関税はどうなりますか？ はい、国際配送を行っています。届くまでの日数や送料は国によって異なるので、カートで配送の目安を確認してください。関税や手数料が請求された場合は、US$ 1,000未満の注文（クーポン適用前の金額、送料を除く）に限り、YesStyle Creditで返金を受けられます。支払いの領収書を添えて30日以内に申請する必要があります。地域によってチェックアウト時に課される税金（EU・英国のVAT、米国のセールスタックス、オーストラリア・シンガポールのGSTなど）は対象外です。",
+          "CECILIA010コードはどこで使いますか？ チェックアウト画面のRewardコード欄です。初回の注文は5%オフ、以降は2%オフで、Coupon Code欄に入れたクーポンと併用できます。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "YesStyleでアビブの3アイテムをチェックして、Rewardコード欄にCECILIA010を入力しましょう",
+      "label": "YesStyleでアビブの商品を見る",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "3つの商品は、YesStyleからEm Casa com Cecíliaに提供されたものです。この記事は、セシリア・マウアドが初めて使ったときのファーストインプレッションを、動画で見せた内容に基づいて記録したものです。容量、成分、使い方の情報は、YesStyleの各商品の公式ページによります。当サイトは、アフィリエイトリンクとRewardコードCECILIA010を通じて報酬を受け取ります。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-kbeauty-guide-ja",
+        "title": "K-Beautyがなぜ世界中で流行？韓国コスメの特徴と購入方法"
+      },
+      {
+        "slug": "yesstyle-trust-guide-ja",
+        "title": "YesStyleは安全？購入前に知っておくべき信頼性と評判"
+      },
+      {
+        "slug": "yesstyle-valid-coupon-guide-ja",
+        "title": "有効なYesStyleクーポンコードの見つけ方とCECILIA010の併用方法"
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "slug": "abib-skincare-routine-30-zh-hant",
+    "locale": "zh-hant",
+    "title": "30 歲開始韓國護膚：我用 YesStyle 的 Abib 試了一套新手保養流程",
+    "seoTitle": "30歲韓國護膚新手流程：Abib 實測初體驗",
+    "type": "初次使用心得",
+    "category": "produtos-experiencias",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "我連防曬都沒擦過，30 歲這年試了一套韓國護膚流程：YesStyle 寄來的三款 Abib 產品——水凝膠眼膜貼、含 PDRN 與視黃醛的精華面霜，以及凝膠護唇膜。",
+    "metaDescription": "30歲韓國護膚新手入門：實測 Abib 眼膜貼、PDRN 面霜與護唇膜的質地、香味與用法，並附 YesStyle 折扣碼 CECILIA010 使用方式。",
+    "publishedAt": "2026年9月28日",
+    "publishedAtISO": "2026-09-28",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
+    "imageAlt": "Cecília Mauad 手持 Abib PDRN 精華面霜、水凝膠眼膜貼與護唇膜的包裝盒",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
+    "pros": [
+      "流程很短：三款產品，大約 15 分鐘，而且大部分時間只是貼著眼膜貼在等",
+      "水凝膠眼膜貼冰冰涼涼，表面帶紋路，有助於不滑落",
+      "面霜是軟膏般的質地，好推開，抹完摸起來像絲絨",
+      "護唇膜附小刮棒，甜甜的香味對我來說並不膩",
+      "韓國原裝產品，由 YesStyle 直接販售；在 Reward Code 欄位輸入 CECILIA010 還能再折扣"
+    ],
+    "cons": [
+      "PDRN 與視黃醛作用溫和緩慢：第一週別期待看得到明顯差別",
+      "視黃醛白天需要搭配防曬——像我這種從來沒擦過防曬的人，得從頭養成習慣",
+      "第一次使用時，我搞不清楚眼膜貼到底哪一面朝上",
+      "屬於跨境購物，到貨時間比本地商店來得長"
+    ],
+    "contentSections": [
+      {
+        "heading": "三十歲：而立之年，也是該為美麗買單的年紀",
+        "paragraphs": [
+          "到目前為止，我們都是靠老天爺賞飯吃，白白漂亮了這麼多年。而我，連防曬都沒擦過，一轉眼就滿 30 歲了，決定認真面對這件事：建立我人生第一套韓國護膚流程。",
+          "YesStyle 寄了三款 Abib 產品給我。YesStyle 是一家販售進口美妝的網購平台。而且是真正來自韓國的喔，不是「韓系風格」，也不是「韓國口味」。",
+          "這篇文章記錄的是我第一次接觸這三款產品的過程，影片（葡萄牙語）裡也拍下來了：怎麼貼、質地如何、香味怎樣，還有撕下眼膜貼時的感覺。護膚成果不可能第一天就打包票——接下來幾週我會持續使用，再回來跟大家報告有什麼變化。"
+        ]
+      },
+      {
+        "heading": "我收到的三款 Abib 產品",
+        "paragraphs": [
+          "這套流程每個部位各有一款產品：眼周、臉部和嘴唇。以下資料取自 YesStyle 各產品的官方頁面，使用感受則是我自己的。"
+        ],
+        "comparisonTable": {
+          "caption": "實測的 Abib 護膚組合：容量、主要成分與品牌建議用法",
+          "headers": [
+            "產品",
+            "針對什麼",
+            "容量",
+            "主打成分",
+            "品牌建議用法"
+          ],
+          "rows": [
+            [
+              "Abib Hydrogel Eye Patch PDRN & Retinal（水凝膠亮采眼膜貼）",
+              "黑眼圈與一臉倦容",
+              "60 片（84 g）",
+              "PDRN、視黃醛、咖啡因、菸鹼醯胺、膠原蛋白",
+              "貼在眼下，10 至 15 分鐘後取下"
+            ],
+            [
+              "Abib PDRN Volume Fill-it Booster Crème 2.5 Tube",
+              "緊緻與細紋",
+              "30 ml",
+              "PDRN（15,000 ppm）、Volufiline（10,000 ppm）、視黃醛、胜肽",
+              "以輕拍方式塗抹於臉部與頸部"
+            ],
+            [
+              "Abib PDRN Collagen Lip Mask Glazed Jelly",
+              "嘴唇保濕",
+              "11 g",
+              "來自積雪草與銀杏的 PDRN、膠原蛋白、玻尿酸",
+              "白天薄薄一層，或睡前厚敷一層，用附贈的刮棒取用"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "水凝膠眼膜貼：冰冰涼涼的（而且我貼反了）",
+        "paragraphs": [
+          "第一次接觸的感覺最棒：眼膜貼是冰涼的。它裝在一個罐子裡，一罐 60 片，品牌表示表面的紋路有助於防止滑落。",
+          "老實說，我第一片就貼錯了。翻過來、翻回去，換個方向覺得好像比較服貼——但坦白講，我感覺不出兩面有什麼差別。如果你也是第一次用，別擔心：重點是要貼得平整服貼，位置在眼睛下方，不要碰到眼睛。",
+          "隨著時間過去，眼膜貼會越來越薄，彷彿慢慢消失。這並不代表皮膚把整片水凝膠都吸收掉了；而是凝膠貼在那裡、密封著、不會蒸發，同時把裡面的成分釋放出來。",
+          "包裝上寫著要在 10 至 15 分鐘後取下。影片裡我貼了大約 20 分鐘，因為當時正在做其他保養步驟——你還是照標示的時間來。另外，不要戴著它睡覺。"
+        ],
+        "bullets": [
+          "取下後：皮膚摸起來很清爽，還清楚看得出眼膜貼原本貼過的形狀；",
+          "使用感受：一貼上皮膚就是冰冰涼涼的；",
+          "品牌的宣稱：含 PDRN、視黃醛與咖啡因，主打提亮眼周、修飾倦容。這一點我只有持續使用才能評價。"
+        ],
+        "links": [
+          {
+            "label": "在 YesStyle 查看 Abib Hydrogel Eye Patch PDRN & Retinal 水凝膠眼膜貼",
+            "href": "https://ystyle.co/cn2Z5",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+        "imageAlt": "Cecília 手拿一片粉色的 Abib 水凝膠眼膜貼，另一手拿著打開的罐子",
+        "imageCaption": "Abib 水凝膠眼膜貼裝在一罐 60 片的罐子裡，貼上皮膚時冰冰涼涼。",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "Booster Crème 2.5：軟膏般的質地，抹開變絲絨",
+        "paragraphs": [
+          "眼膜貼在發揮作用的同時，我塗上了面霜。它從軟管擠出來是軟膏般的質地：一抹上去，就感覺它在皮膚上滑開。",
+          "接下來是我最喜歡的部分：推開之後，皮膚摸起來有種絲絨般的觸感，好像瞬間變成天鵝絨。而且真的非常好推開。",
+          "在配方方面，Abib 主打 PDRN 與 Volufiline（一種用來營造豐盈感的成分），另外還有視黃醛、胜肽、菸鹼醯胺與咖啡因。這款面霜是針對緊緻與細紋設計的——也就是說，是一場長期抗戰。"
+        ],
+        "bullets": [
+          "塗抹位置：臉部與頸部，依品牌建議以輕拍方式幫助吸收；"
+        ],
+        "links": [
+          {
+            "label": "在 YesStyle 查看 Abib PDRN Volume Fill-it Booster Crème 2.5 Tube",
+            "href": "https://ystyle.co/q5SUZ",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+        "imageAlt": "Cecília 手拿 Abib PDRN Volume Fill-it Booster Crème 2.5 軟管",
+        "imageCaption": "Booster Crème 2.5 的 30 ml 軟管：擠出來像軟膏，抹開後皮膚有絲絨般的觸感。",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "Lip Mask Glazed Jelly：甜甜的香味，一點也不膩",
+        "paragraphs": [
+          "最後是護唇膜。它附了一支小刮棒，質地是凝膠狀，跟眼膜貼有點像。",
+          "它帶著甜甜的香味，但不會膩。常看我影片的朋友都知道我對濃烈的味道很敏感，而這款完全沒有困擾到我。",
+          "品牌建議白天薄薄塗一層，增添光澤與保濕；或是睡前厚敷一層，當作夜間唇膜。"
+        ],
+        "links": [
+          {
+            "label": "在 YesStyle 查看 Abib PDRN Collagen Lip Mask Glazed Jelly 護唇膜",
+            "href": "https://ystyle.co/TS7jZ",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+        "imageAlt": "Cecília 嘟著嘴，手拿 Abib Glazed Jelly 護唇膜罐子",
+        "imageCaption": "11 g 的 Lip Mask Glazed Jelly 是凝膠質地，帶著甜甜的香味。",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "PDRN 與視黃醛不神秘：為什麼效果是溫和的",
+        "paragraphs": [
+          "韓國護膚的重點在於，這些產品都是為了長期使用而設計的。我說親愛的，你才剛滿 30 歲：這只是個開始。往後的人生，你都得好好照顧自己的皮膚了。",
+          "影片裡我說成了視黃酸，但眼膜貼與面霜裡正確的成分名稱是視黃醛（retinal，又稱 retinaldehyde）。它是維他命 A 的衍生物，跟視黃醇同屬一個家族，皮膚會把它轉化成視黃酸。它的作用比較循序漸進——所以我不會才剛開始用就脫皮。",
+          "PDRN 是一種由 DNA 片段製成的成分，在韓國化妝品中因與修護和緊緻相關而大為流行。至於護唇膜，Abib 表示其中的 PDRN 來自積雪草和銀杏。"
+        ],
+        "bullets": [
+          "效果溫和：別期待第一天、甚至第一週就有變化；好處來自持之以恆；",
+          "白天要防曬：晚上使用視黃醛的人，白天需要擦防曬。對像我這種從沒用過防曬的人來說，這是第一個要養成的習慣；",
+          "懷孕與哺乳期：維他命 A 衍生物在使用前需要先諮詢醫生；",
+          "敏感肌：如果出現刺痛或泛紅，請減少使用頻率並諮詢皮膚科醫生。"
+        ]
+      },
+      {
+        "heading": "我的新手夜間護膚流程，一步一步來",
+        "paragraphs": [
+          "我在影片裡的順序，一個普通的夜晚就做得完，完全不用經歷網路上常把韓國護膚跟十道步驟畫上等號的那種馬拉松："
+        ],
+        "bullets": [
+          "步驟 1——眼周：臉洗乾淨後，把水凝膠眼膜貼貼在眼睛下方；",
+          "步驟 2——臉部與頸部：趁眼膜貼發揮作用的時候，用輕拍的方式塗上 Booster Crème；",
+          "步驟 3——嘴唇：用刮棒取一層護唇膜塗上；",
+          "步驟 4——取下眼膜貼：依包裝指示，10 至 15 分鐘後取下；",
+          "總時間：大約 15 分鐘，大部分時間只是貼著眼膜貼在等。"
+        ]
+      },
+      {
+        "heading": "哪裡買，以及怎麼用 CECILIA010 省錢",
+        "paragraphs": [
+          "這三款產品都在 YesStyle 販售。YesStyle 提供國際配送，送達時間與運費會依你所在的國家或地區而定，請在購物車中查看預估。",
+          "結帳時，請在「Reward Code」欄位輸入 CECILIA010：首次購買可享 5% 折扣，之後每次購買可享 2%。促銷優惠券則要填在另一個欄位「Coupon Code」——而且可以和 CECILIA010 疊加使用，連只寄給你帳戶的專屬優惠券也一樣。",
+          "關於稅費：YesStyle 會以 YesStyle Credit 的形式，退還海關關稅及費用，適用於金額低於 US$1,000 的訂單（以優惠券折扣前的金額計算，不含運費）。如果收貨時被收取相關費用，請先繳付、保留付款收據，並在 30 天內連同收據向 YesStyle 提出申請。結帳時已收取的稅項（例如歐盟 VAT、英國 VAT、美國銷售稅、澳洲 GST、新加坡 GST）則不在退款範圍內。"
+        ],
+        "links": [
+          {
+            "label": "本週優惠與 YesStyle CECILIA010 使用規則",
+            "href": "/zh-hant/coupons/yesstyle"
+          },
+          {
+            "label": "使用 CECILIA010 代碼前往 YesStyle",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          },
+          {
+            "label": "YesStyle 值得信賴嗎？產地來源、運送時間與退換貨",
+            "href": "/zh-hant/reviews/yesstyle-trust-guide-zh-hant"
+          },
+          {
+            "label": "K-Beauty 是什麼？到哪裡買韓國護膚品",
+            "href": "/zh-hant/reviews/yesstyle-kbeauty-guide-zh-hant"
+          }
+        ]
+      },
+      {
+        "heading": "接下來幾週我會持續觀察的事",
+        "paragraphs": [
+          "這是第一次使用的記錄。我會繼續這套流程，之後再回來告訴大家到底有什麼真正的改變——還有什麼沒有改變。"
+        ],
+        "bullets": [
+          "黑眼圈與眼下的倦容；",
+          "臉部與頸部皮膚的質地與光澤；",
+          "持續使用下來，視黃醛會不會造成刺激；",
+          "護唇膜能不能讓嘴唇整夜保持滋潤。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "Abib 水凝膠眼膜貼要貼多久？ 包裝建議 10 至 15 分鐘後取下。不要戴著它睡覺。",
+          "PDRN 是什麼？ 是一種由 DNA 片段製成的成分，常見於主打修護與緊緻的韓國化妝品。在 Abib 護唇膜中，品牌標示其來源為植物（積雪草與銀杏）。",
+          "視黃醛跟視黃酸是同一種東西嗎？ 不是。視黃醛是維他命 A 的衍生物，皮膚會將它轉化成視黃酸。因此它的作用比較循序漸進，而且白天需要擦防曬。",
+          "Abib 護唇膜的味道很重嗎？ 帶有甜甜的香味。我對濃烈的味道很敏感，而這款並沒有困擾到我。",
+          "YesStyle 可以寄到我所在的地區嗎？海關稅費怎麼算？ YesStyle 提供國際配送，送達時間與運費依國家或地區而異，請在購物車中查看預估。至於海關關稅及費用，金額低於 US$1,000（優惠券折扣前、不含運費）的訂單可申請以 YesStyle Credit 退款，需在 30 天內附上付款收據提出申請；結帳時已收取的稅項（例如歐盟 VAT、英國 VAT、美國銷售稅、澳洲 GST、新加坡 GST）不在此列。",
+          "CECILIA010 代碼要填在哪裡？ 填在結帳頁的「Reward Code」欄位。首次購買享 5% 折扣，之後每次購買享 2%，並且可與你填在「Coupon Code」欄位的優惠券疊加。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "到 YesStyle 查看這三款 Abib 產品，並在「Reward Code」欄位輸入 CECILIA010",
+      "label": "在 YesStyle 查看 Abib 產品",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "這三款產品由 YesStyle 寄送給 Em Casa com Cecília。本文記錄的是 Cecília Mauad 第一次使用時的初步印象，並已呈現在影片中；容量、成分與使用方式等資料取自各產品在 YesStyle 的官方頁面。本站透過聯盟連結與 Reward Code CECILIA010 獲得佣金。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-kbeauty-guide-zh-hant",
+        "title": "K-Beauty 韓妝熱潮全解析：為何全球為之瘋狂，到哪裡買才放心"
+      },
+      {
+        "slug": "yesstyle-trust-guide-zh-hant",
+        "title": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南"
+      },
+      {
+        "slug": "yesstyle-valid-coupon-guide-zh-hant",
+        "title": "如何找到有效的 YesStyle 優惠碼並與 CECILIA010 疊加使用"
+      }
+    ],
+    "translationKey": "yesstyle-skincare-30"
+  },
+  {
+    "id": 307,
+    "slug": "abib-skincare-routine-30-zh-hans",
+    "locale": "zh-hans",
+    "title": "30 岁开始韩国护肤：我用 YesStyle 的 Abib 试了一套新手护肤流程",
+    "seoTitle": "30岁韩国护肤新手流程：Abib 实测首次体验",
+    "type": "首次使用体验",
+    "category": "produtos-experiencias",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "我连防晒都没涂过，30 岁这年试了一套韩国护肤流程：YesStyle 寄来的三款 Abib 产品——水凝胶眼膜贴、含 PDRN 与视黄醛的精华面霜，以及凝胶唇膜。",
+    "metaDescription": "30岁韩国护肤新手入门：实测 Abib 眼膜贴、PDRN 面霜和唇膜的质地、气味与用法，并附 YesStyle 折扣码 CECILIA010 使用方式。",
+    "publishedAt": "2026年9月28日",
+    "publishedAtISO": "2026-09-28",
+    "draft": false,
+    "isNew": true,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
+    "imageAlt": "Cecília Mauad 手持 Abib PDRN 精华面霜、水凝胶眼膜贴和唇膜的包装盒",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
+    "pros": [
+      "流程很短：三款产品，大约 15 分钟，而且大部分时间只是贴着眼膜贴在等",
+      "水凝胶眼膜贴冰冰凉凉的，表面带纹路，有助于防止滑落",
+      "面霜是软膏般的质地，好推开，抹完摸起来像丝绒",
+      "唇膜附小刮棒，甜甜的香味对我来说并不腻",
+      "韩国原装产品，由 YesStyle 直接销售；在 Reward Code 栏位输入 CECILIA010 还能再享折扣"
+    ],
+    "cons": [
+      "PDRN 和视黄醛作用温和缓慢：第一周别指望看到明显差别",
+      "视黄醛白天需要搭配防晒——像我这种从来没涂过防晒的人，得从头养成习惯",
+      "第一次使用时，我搞不清楚眼膜贴到底哪一面朝上",
+      "属于跨境购物，到货时间比本地商店要长"
+    ],
+    "contentSections": [
+      {
+        "heading": "三十岁：而立之年，也是该为美丽买单的年纪",
+        "paragraphs": [
+          "到目前为止，我们都是靠老天爷赏饭吃，白白漂亮了这么多年。而我，连防晒都没涂过，一转眼就满 30 岁了，决定认真对待这件事：建立我人生第一套韩国护肤流程。",
+          "YesStyle 寄了三款 Abib 产品给我。YesStyle 是一家销售进口美妆的网购平台。而且是真正来自韩国的哦，不是“韩系风格”，也不是“韩国口味”。",
+          "这篇文章记录的是我第一次接触这三款产品的过程，视频（葡萄牙语）里也拍下来了：怎么贴、质地如何、气味怎样，还有撕下眼膜贴时的感觉。护肤效果不可能第一天就打包票——接下来几周我会持续使用，再回来跟大家汇报有什么变化。"
+        ]
+      },
+      {
+        "heading": "我收到的三款 Abib 产品",
+        "paragraphs": [
+          "这套流程每个部位各有一款产品：眼周、脸部和嘴唇。以下数据取自 YesStyle 各产品的官方页面，使用感受则是我自己的。"
+        ],
+        "comparisonTable": {
+          "caption": "实测的 Abib 护肤组合：容量、主要成分与品牌建议用法",
+          "headers": [
+            "产品",
+            "针对什么",
+            "容量",
+            "主打成分",
+            "品牌建议用法"
+          ],
+          "rows": [
+            [
+              "Abib Hydrogel Eye Patch PDRN & Retinal（水凝胶亮采眼膜贴）",
+              "黑眼圈和一脸倦容",
+              "60 片（84 g）",
+              "PDRN、视黄醛、咖啡因、烟酰胺、胶原蛋白",
+              "贴在眼下，10 至 15 分钟后取下"
+            ],
+            [
+              "Abib PDRN Volume Fill-it Booster Crème 2.5 Tube",
+              "紧致与细纹",
+              "30 ml",
+              "PDRN（15,000 ppm）、Volufiline（10,000 ppm）、视黄醛、肽类",
+              "以轻拍方式涂抹于脸部和颈部"
+            ],
+            [
+              "Abib PDRN Collagen Lip Mask Glazed Jelly",
+              "嘴唇保湿",
+              "11 g",
+              "来自积雪草和银杏的 PDRN、胶原蛋白、透明质酸",
+              "白天薄薄一层，或睡前厚敷一层，用附赠的刮棒取用"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "水凝胶眼膜贴：冰冰凉凉的（而且我贴反了）",
+        "paragraphs": [
+          "第一次接触的感觉最棒：眼膜贴是冰凉的。它装在一个罐子里，一罐 60 片，品牌表示表面的纹路有助于防止滑落。",
+          "老实说，我第一片就贴错了。翻过来、翻回去，换个方向觉得好像更服帖——但坦白讲，我感觉不出两面有什么差别。如果你也是第一次用，别担心：重点是要贴得平整服帖，位置在眼睛下方，不要碰到眼睛。",
+          "随着时间推移，眼膜贴会越来越薄，仿佛慢慢消失。这并不代表皮肤把整片水凝胶都吸收掉了；而是凝胶贴在那里、密封着、不会蒸发，同时把里面的成分释放出来。",
+          "包装上写着要在 10 至 15 分钟后取下。视频里我贴了大约 20 分钟，因为当时正在做其他护肤步骤——你还是按标示的时间来。另外，不要戴着它睡觉。"
+        ],
+        "bullets": [
+          "取下后：皮肤摸起来很清爽，还能清楚看出眼膜贴原本贴过的形状；",
+          "使用感受：一贴上皮肤就是冰冰凉凉的；",
+          "品牌的宣称：含 PDRN、视黄醛和咖啡因，主打提亮眼周、修饰倦容。这一点我只有持续使用才能评价。"
+        ],
+        "links": [
+          {
+            "label": "在 YesStyle 查看 Abib Hydrogel Eye Patch PDRN & Retinal 水凝胶眼膜贴",
+            "href": "https://ystyle.co/cn2Z5",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+        "imageAlt": "Cecília 手拿一片粉色的 Abib 水凝胶眼膜贴，另一只手拿着打开的罐子",
+        "imageCaption": "Abib 水凝胶眼膜贴装在一罐 60 片的罐子里，贴上皮肤时冰冰凉凉。",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "Booster Crème 2.5：软膏般的质地，抹开变丝绒",
+        "paragraphs": [
+          "眼膜贴在发挥作用的同时，我涂上了面霜。它从软管挤出来是软膏般的质地：一抹上去，就感觉它在皮肤上滑开。",
+          "接下来是我最喜欢的部分：推开之后，皮肤摸起来有种丝绒般的触感，好像瞬间变成天鹅绒。而且真的非常好推开。",
+          "在配方方面，Abib 主打 PDRN 和 Volufiline（一种用来营造丰盈感的成分），另外还有视黄醛、肽类、烟酰胺和咖啡因。这款面霜是针对紧致和细纹设计的——也就是说，是一场长期抗战。"
+        ],
+        "bullets": [
+          "涂抹位置：脸部和颈部，按品牌建议以轻拍方式帮助吸收；"
+        ],
+        "links": [
+          {
+            "label": "在 YesStyle 查看 Abib PDRN Volume Fill-it Booster Crème 2.5 Tube",
+            "href": "https://ystyle.co/q5SUZ",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+        "imageAlt": "Cecília 手拿 Abib PDRN Volume Fill-it Booster Crème 2.5 软管",
+        "imageCaption": "Booster Crème 2.5 的 30 ml 软管：挤出来像软膏，抹开后皮肤有丝绒般的触感。",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "Lip Mask Glazed Jelly：甜甜的香味，一点也不腻",
+        "paragraphs": [
+          "最后是唇膜。它附了一支小刮棒，质地是凝胶状，跟眼膜贴有点像。",
+          "它带着甜甜的香味，但不会腻。常看我视频的朋友都知道我对浓烈的味道很敏感，而这款完全没有困扰到我。",
+          "品牌建议白天薄薄涂一层，增添光泽和保湿；或是睡前厚敷一层，当作夜间唇膜。"
+        ],
+        "links": [
+          {
+            "label": "在 YesStyle 查看 Abib PDRN Collagen Lip Mask Glazed Jelly 唇膜",
+            "href": "https://ystyle.co/TS7jZ",
+            "sponsored": true
+          }
+        ],
+        "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+        "imageAlt": "Cecília 嘟着嘴，手拿 Abib Glazed Jelly 唇膜罐子",
+        "imageCaption": "11 g 的 Lip Mask Glazed Jelly 是凝胶质地，带着甜甜的香味。",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "PDRN 和视黄醛不神秘：为什么效果是温和的",
+        "paragraphs": [
+          "韩国护肤的重点在于，这些产品都是为长期使用而设计的。我说姐妹，你才刚满 30 岁：这只是个开始。往后的人生，你都得好好照顾自己的皮肤了。",
+          "视频里我说成了视黄酸，但眼膜贴和面霜里正确的成分名称是视黄醛（retinal，又称 retinaldehyde）。它是维生素 A 的衍生物，跟视黄醇同属一个家族，皮肤会把它转化成视黄酸。它的作用比较循序渐进——所以我不会刚开始用就脱皮。",
+          "PDRN 是一种由 DNA 片段制成的成分，在韩国化妆品中因与修护和紧致相关而大为流行。至于唇膜，Abib 表示其中的 PDRN 来自积雪草和银杏。"
+        ],
+        "bullets": [
+          "效果温和：别指望第一天、甚至第一周就有变化；好处来自持之以恒；",
+          "白天要防晒：晚上使用视黄醛的人，白天需要涂防晒。对像我这种从没用过防晒的人来说，这是第一个要养成的习惯；",
+          "怀孕和哺乳期：维生素 A 衍生物在使用前需要先咨询医生；",
+          "敏感肌：如果出现刺痛或泛红，请减少使用频率并咨询皮肤科医生。"
+        ]
+      },
+      {
+        "heading": "我的新手夜间护肤流程，一步一步来",
+        "paragraphs": [
+          "我在视频里的顺序，一个普通的夜晚就做得完，完全不用经历网上常把韩国护肤跟十道步骤画上等号的那种马拉松："
+        ],
+        "bullets": [
+          "步骤 1——眼周：脸洗干净后，把水凝胶眼膜贴贴在眼睛下方；",
+          "步骤 2——脸部和颈部：趁眼膜贴发挥作用的时候，用轻拍的方式涂上 Booster Crème；",
+          "步骤 3——嘴唇：用刮棒取一层唇膜涂上；",
+          "步骤 4——取下眼膜贴：按包装说明，10 至 15 分钟后取下；",
+          "总时间：大约 15 分钟，大部分时间只是贴着眼膜贴在等。"
+        ]
+      },
+      {
+        "heading": "哪里买，以及怎么用 CECILIA010 省钱",
+        "paragraphs": [
+          "这三款产品都在 YesStyle 销售。YesStyle 提供国际配送，送达时间和运费会因你所在的国家或地区而不同，请在购物车中查看预估。",
+          "结账时，请在“Reward Code”栏位输入 CECILIA010：首次购买可享 5% 折扣，之后每次购买可享 2%。促销优惠券则要填在另一个栏位“Coupon Code”——而且可以和 CECILIA010 叠加使用，连只发给你账户的专属优惠券也一样。",
+          "关于税费：YesStyle 会以 YesStyle Credit 的形式，退还海关关税及费用，适用于金额低于 US$1,000 的订单（以优惠券折扣前的金额计算，不含运费）。如果收货时被收取相关费用，请先缴付、保留付款收据，并在 30 天内连同收据向 YesStyle 提出申请。结账时已收取的税项（例如欧盟 VAT、英国 VAT、美国销售税、澳大利亚 GST、新加坡 GST）则不在退款范围内。"
+        ],
+        "links": [
+          {
+            "label": "本周优惠和 YesStyle CECILIA010 使用规则",
+            "href": "/zh-hans/coupons/yesstyle"
+          },
+          {
+            "label": "使用 CECILIA010 代码前往 YesStyle",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          },
+          {
+            "label": "YesStyle 值得信赖吗？产地来源、配送时间与退换货",
+            "href": "/zh-hans/reviews/yesstyle-trust-guide-zh-hans"
+          },
+          {
+            "label": "K-Beauty 是什么？去哪里买韩国护肤品",
+            "href": "/zh-hans/reviews/yesstyle-kbeauty-guide-zh-hans"
+          }
+        ]
+      },
+      {
+        "heading": "接下来几周我会持续观察的事",
+        "paragraphs": [
+          "这是第一次使用的记录。我会继续这套流程，之后再回来告诉大家到底有什么真正的改变——还有什么没有改变。"
+        ],
+        "bullets": [
+          "黑眼圈和眼下的倦容；",
+          "脸部和颈部皮肤的质地与光泽；",
+          "持续使用下来，视黄醛会不会造成刺激；",
+          "唇膜能不能让嘴唇整夜保持滋润。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "Abib 水凝胶眼膜贴要贴多久？ 包装建议 10 至 15 分钟后取下。不要戴着它睡觉。",
+          "PDRN 是什么？ 是一种由 DNA 片段制成的成分，常见于主打修护和紧致的韩国化妆品。在 Abib 唇膜中，品牌标示其来源为植物（积雪草和银杏）。",
+          "视黄醛跟视黄酸是同一种东西吗？ 不是。视黄醛是维生素 A 的衍生物，皮肤会将它转化成视黄酸。因此它的作用比较循序渐进，而且白天需要涂防晒。",
+          "Abib 唇膜的味道很重吗？ 带有甜甜的香味。我对浓烈的味道很敏感，而这款并没有困扰到我。",
+          "YesStyle 可以寄到我所在的地区吗？海关税费怎么算？ YesStyle 提供国际配送，送达时间和运费因国家或地区而异，请在购物车中查看预估。至于海关关税及费用，金额低于 US$1,000（优惠券折扣前、不含运费）的订单可申请以 YesStyle Credit 退款，需在 30 天内附上付款收据提出申请；结账时已收取的税项（例如欧盟 VAT、英国 VAT、美国销售税、澳大利亚 GST、新加坡 GST）不在此列。",
+          "CECILIA010 代码要填在哪里？ 填在结账页的“Reward Code”栏位。首次购买享 5% 折扣，之后每次购买享 2%，并且可与你填在“Coupon Code”栏位的优惠券叠加。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "到 YesStyle 查看这三款 Abib 产品，并在“Reward Code”栏位输入 CECILIA010",
+      "label": "在 YesStyle 查看 Abib 产品",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "这三款产品由 YesStyle 寄送给 Em Casa com Cecília。本文记录的是 Cecília Mauad 第一次使用时的初步印象，并已呈现在视频中；容量、成分和使用方式等数据取自各产品在 YesStyle 的官方页面。本站通过联盟链接和 Reward Code CECILIA010 获得佣金。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-kbeauty-guide-zh-hans",
+        "title": "K-Beauty 全球热潮解读：为什么韩国护肤品风靡世界，如何购买正品"
+      },
+      {
+        "slug": "yesstyle-trust-guide-zh-hans",
+        "title": "YesStyle 值得信赖吗？购买前必看安全评价与购物指南"
+      },
+      {
+        "slug": "yesstyle-valid-coupon-guide-zh-hans",
+        "title": "如何找到有效的 YesStyle 优惠码并与 CECILIA010 叠加使用"
+      }
+    ],
+    "translationKey": "yesstyle-skincare-30"
+  },
+  {
+    "id": 309,
+    "slug": "codice-ricompensa-yesstyle-cecilia010",
+    "title": "Codice ricompensa YesStyle CECILIA010: come usarlo al checkout",
+    "seoTitle": "Codice ricompensa YesStyle CECILIA010: come usarlo",
+    "type": "Guida e coupon",
+    "reviewKind": "guia",
+    "description": "Guida pratica per usare il codice influencer CECILIA010 su YesStyle. Scopri in cosa si differenzia dai coupon classici, come sommare gli sconti e qualche consiglio su K-beauty e dogana.",
+    "metaDescription": "Usa CECILIA010 su YesStyle per avere fino al 5% in più (5% sul 1º ordine / 2% sui successivi) insieme ai coupon: K-beauty, skincare coreana e moda.",
+    "publishedAt": "28 settembre 2026",
+    "publishedAtISO": "2026-09-28",
+    "draft": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
+    "imageAlt": "Prodotti di K-beauty e skincare coreana di YesStyle disposti su un tavolo chiaro.",
+    "imageFit": "cover",
+    "pros": [
+      "Codice influencer che aggiunge fino al 5% extra (5% sul 1º ordine / 2% sui successivi) ai coupon idonei",
+      "Si somma ai coupon promozionali idonei del sito",
+      "Spedizione internazionale gratuita per ordini superiori a US$ 59",
+      "Enorme catalogo di prodotti K-Beauty, make-up e moda coreana",
+      "Prodotti 100% autentici provenienti da distributori autorizzati",
+      "Sito disponibile anche in italiano per rendere l'acquisto più semplice"
+    ],
+    "cons": [
+      "Non sostituisce i coupon standard (si applica in un campo separato)",
+      "Gli ordini internazionali possono essere soggetti a spese doganali, a seconda del tuo paese",
+      "Tempi di consegna internazionali (15-30 giorni lavorativi con spedizione standard)",
+      "Addebito finale in dollari statunitensi (soggetto al tasso di cambio della tua banca)"
+    ],
+    "contentSections": [
+      {
+        "heading": "Come funziona il codice CECILIA010",
+        "paragraphs": [
+          "A differenza dei classici codici coupon, che applicano uno sconto diretto in modo esclusivo, il codice CECILIA010 su YesStyle funziona come un “Reward Code” (codice ricompensa).",
+          "Il vantaggio principale è che ha un campo dedicato e separato al momento del pagamento. CECILIA010 aggiunge fino al 5% extra (5% sul 1º ordine / 2% sui successivi) quando lo inserisci nel campo Reward Code / Codice ricompensa. Questo significa che si somma ai coupon promozionali idonei del sito."
+        ],
+        "bullets": [
+          "Codice: CECILIA010",
+          "Sconto: fino al 5% extra (5% sul 1º ordine / 2% sui successivi)",
+          "Tipo: codice influencer / codice ricompensa (Reward Code)",
+          "Dove usarlo: campo “Reward Code” o “Codice ricompensa” al checkout",
+          "Effetto: offre fino al 5% extra (5% sul 1º ordine / 2% sui successivi) se applicato nella casella giusta",
+          "Cumulabile: SÌ! Puoi abbinare CECILIA010 e i coupon promozionali idonei nello stesso carrello",
+          "Validità: codice attivo del programma influencer (verificato regolarmente)"
+        ],
+        "emphasis": "Il parere di Cecilia: il codice CECILIA010 non cancella i coupon promozionali idonei di YesStyle: aggiunge fino al 5% extra (5% sul 1º ordine / 2% sui successivi) ai coupon idonei!"
+      },
+      {
+        "heading": "Cos'è YesStyle?",
+        "paragraphs": [
+          "YesStyle è uno dei più grandi negozi online specializzati in moda asiatica, cosmetici coreani (K-Beauty), bellezza giapponese (J-Beauty) e accessori. Fondato nel 2006 e con sede a Hong Kong, si è affermato come punto di riferimento per l'acquisto di prodotti autentici di origine asiatica.",
+          "YesStyle spedisce in più di 80 paesi e offre la conversione delle valute per semplificarti gli acquisti. Il catalogo è impressionante: migliaia di referenze di skincare coreana, make-up, abbigliamento di tendenza e articoli per il benessere."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
+        "imageAlt": "Home page di YesStyle con banner dedicato alla skincare K-beauty.",
+        "imageCaption": "YesStyle riunisce offerte promozionali, K-beauty autentica e spedizioni internazionali.",
+        "bullets": [
+          "K-Beauty: sieri effetto glass skin, essenze, lozioni e trattamenti per la celebre routine di bellezza asiatica",
+          "Moda asiatica: abbigliamento, scarpe, borse e accessori ispirati allo streetwear di Seoul e Tokyo",
+          "J-Beauty e benessere: marchi giapponesi affermati (come Hada Labo) e integratori alimentari"
+        ]
+      },
+      {
+        "heading": "La K-Beauty: il fenomeno globale della cura della pelle",
+        "paragraphs": [
+          "I cosmetici coreani (K-beauty) hanno trasformato l'industria cosmetica internazionale. Quella che era partita come una tendenza di nicchia oggi fa parte delle routine quotidiane in tutto il mondo.",
+          "L'obiettivo è la “glass skin” (un incarnato luminoso, idratato e senza imperfezioni). Ingredienti di punta come Centella Asiatica, Niacinamide e Bava di lumaca (Snail Mucin) hanno un ruolo da protagonisti. YesStyle è uno dei canali più affidabili per procurarsi questi prodotti direttamente da fonti ufficiali."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
+        "imageAlt": "Categorie regionali di bellezza sul sito YesStyle.",
+        "imageCaption": "Oltre alla K-beauty, YesStyle offre prodotti J-beauty e di bellezza asiatica in generale.",
+        "bullets": [
+          "Glass skin: una pelle idratata in profondità, luminosa e uniforme",
+          "Routine coreana: incentrata su doppia detersione, tonici idratanti ed essenze nutrienti",
+          "Ingredienti di punta: centella asiatica, bava di lumaca, propoli e acido ialuronico"
+        ],
+        "emphasis": "Il parere di Cecilia: passare da YesStyle è un'ottima opzione per comprare cosmetici coreani originali, perché si riforniscono direttamente dai marchi e hanno una scelta enorme."
+      },
+      {
+        "heading": "Codice ricompensa e codice coupon: la differenza fondamentale",
+        "paragraphs": [
+          "Per evitare errori quando fai acquisti, tieni presente che YesStyle usa due tipi di codici promozionali diversi, cumulabili nello stesso carrello:"
+        ],
+        "bullets": [
+          "Codice ricompensa (Reward Code - CECILIA010): è il codice influencer di Cecilia. Va inserito nella casella “Reward Code” e aggiunge fino al 5% extra (5% sul 1º ordine / 2% sui successivi). Qualsiasi altro vantaggio dipende dalle regole in vigore su YesStyle.",
+          "Codice coupon (Coupon Code): cambiano a seconda del mese e delle operazioni speciali. Se c'è un coupon disponibile, inseriscilo nella casella “Coupon Code”."
+        ]
+      },
+      {
+        "heading": "Come usare il codice CECILIA010 su YesStyle: passo dopo passo",
+        "paragraphs": [
+          "Segui questi semplici passaggi per applicare entrambi i codici al momento del pagamento. Ricordati di controllare il codice CECILIA010 e di cercare i coupon promozionali attivi."
+        ]
+      },
+      {
+        "heading": "1. Vai sul sito ufficiale di YesStyle",
+        "paragraphs": [
+          "Collegati a yesstyle.com e accedi al tuo account, così potrai accumulare i punti fedeltà dell'Elite Club."
+        ]
+      },
+      {
+        "heading": "2. Scegli i prodotti e aggiungili al carrello",
+        "paragraphs": [
+          "Trova la tua skincare coreana, il make-up o i vestiti preferiti e aggiungili al carrello. Cerca di raggiungere l'importo minimo richiesto per la spedizione internazionale gratuita (di solito US$ 59)."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-carrinho-checkout.webp",
+        "imageAlt": "Carrello di YesStyle con i prodotti e le opzioni di spedizione.",
+        "imageCaption": "Controlla il contenuto del carrello e il metodo di spedizione prima di passare al pagamento.",
+        "imageFit": "contain"
+      },
+      {
+        "heading": "3. Inserisci il codice ricompensa CECILIA010",
+        "paragraphs": [
+          "Al momento del pagamento, cerca il campo “Codice ricompensa” (o “Reward Code”), scrivi esattamente CECILIA010 e conferma con il pulsante “Applica” per attivare lo sconto fino al 5% extra (5% sul 1º ordine / 2% sui successivi)."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
+        "imageAlt": "Schermata di pagamento di YesStyle con il codice ricompensa inserito nell'apposita casella.",
+        "imageCaption": "Inserisci CECILIA010 nella casella “Reward Code”, diversa da quella del coupon.",
+        "imageFit": "contain"
+      },
+      {
+        "heading": "4. Inserisci il codice coupon attivo",
+        "paragraphs": [
+          "Cerca il campo “Codice coupon” (o “Coupon Code”), inserisci il coupon attivo del momento e clicca su “Applica” per combinare gli sconti."
+        ]
+      },
+      {
+        "heading": "5. Controlla gli sconti e conferma l'ordine",
+        "paragraphs": [
+          "Assicurati che i due sconti distinti (codice ricompensa + coupon) compaiano davvero detratti nel riepilogo dell'ordine. Completa i dati di spedizione, scegli il metodo di pagamento e concludi l'acquisto."
+        ],
+        "emphasis": "Attenzione: metti il codice CECILIA010 e il coupon attivo nelle rispettive caselle. Se provi a inserire il codice influencer nel campo riservato ai coupon, il sito mostrerà un messaggio di errore."
+      },
+      {
+        "heading": "Come sommare il codice ai coupon",
+        "paragraphs": [
+          "Sommare gli sconti (stacking) significa compilare le due zone principali della schermata di pagamento: il campo del codice ricompensa e il campo del coupon. Per sicurezza, applica sempre CECILIA010 nel campo del codice ricompensa e il coupon promozionale nel campo del coupon."
+        ],
+        "bullets": [
+          "Passo 1 — Codice ricompensa: applica CECILIA010 nella casella Reward Code per attivare lo sconto fino al 5% extra (5% sul 1º ordine / 2% sui successivi).",
+          "Passo 2 — Coupon attivo: applica i coupon promozionali idonei del sito nella casella Coupon Code.",
+          "Passo 3 — Verifica finale: prima di procedere al pagamento, controlla che lo sconto fino al 5% extra di CECILIA010 e la riduzione del coupon idoneo compaiano separatamente nel riepilogo."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
+        "imageAlt": "Riepilogo degli sconti nella schermata di pagamento di YesStyle.",
+        "imageCaption": "Nel riepilogo finale, le due riduzioni (coupon e CECILIA010) devono comparire su righe separate.",
+        "imageFit": "contain",
+        "emphasis": "Il parere di Cecilia: non confermare l'ordine solo perché il codice è stato accettato. Prenditi sempre il tempo di controllare il riepilogo finale, per accertarti che lo sconto sia applicato all'importo da pagare prima di concludere."
+      },
+      {
+        "heading": "Come trovare coupon YesStyle attivi",
+        "paragraphs": [
+          "YesStyle propone con regolarità coupon che cambiano (coupon di benvenuto, coupon di ritorno, sconti stagionali, offerte con spedizione gratuita).",
+          "Visto che questi coupon cambiano di continuo, il modo più sicuro è consultare la pagina delle offerte sul sito di YesStyle prima di ordinare. Applica il coupon attivo nel campo coupon e tieni CECILIA010 nella casella della ricompensa."
+        ],
+        "bullets": [
+          "Flash Sales: offerte lampo con sconti immediati fino al 50%",
+          "Lucky Bundles: set di prodotti selezionati venduti a prezzo scontato",
+          "Daily Free: regali e campioni con un acquisto minimo",
+          "Elite Club: club fedeltà con privilegi e sconti",
+          "Friend Rewards: invita gli amici per accumulare crediti d'acquisto",
+          "Student Program: offerte dedicate agli studenti"
+        ]
+      },
+      {
+        "heading": "Cosa comprare su YesStyle: guida per categoria",
+        "paragraphs": [
+          "YesStyle ha un catalogo vastissimo. Ecco le rubriche principali:"
+        ],
+        "bullets": [
+          "K-Beauty e skincare coreana: prodotti di marchi come COSRX, Beauty of Joseon, Anua, Laneige, Isntree, TIRTIR, medicube, AXIS-Y.",
+          "Make-up coreano: cosmetici ETUDE, CLIO, Peripera, Judydoll, fwee, nuse.",
+          "Moda coreana: capi dallo stile minimalista, tinte neutre, tagli oversize e accessori.",
+          "J-Beauty e cosmesi giapponese: prodotti di marchi come Hada Labo, DHC, Kose, Shiseido.",
+          "Chinese Beauty (C-Beauty): make-up e skincare di marchi cinesi accessibili, con formule tradizionali.",
+          "Integratori e benessere: integratori alimentari e cura dei capelli.",
+          "Accessori e lifestyle: piccola oggettistica, borse e cancelleria."
+        ]
+      },
+      {
+        "heading": "Spedizione e tempi di consegna",
+        "paragraphs": [
+          "La spedizione gratuita è di solito disponibile per gli ordini superiori a US$ 59. YesStyle fornisce un numero di tracciamento internazionale per tutti i metodi di spedizione standard.",
+          "I tempi di consegna variano da paese a paese: in genere calcola da 10 a 25 giorni lavorativi per una spedizione standard, a seconda del trattamento doganale della tua zona."
+        ],
+        "bullets": [
+          "Tracciamento: numero di tracking consultabile via e-mail o nell'area cliente di YesStyle",
+          "Consegna: gestita dalle poste nazionali o da un corriere partner",
+          "Dogana: è normale che il pacco resti qualche giorno in controllo doganale"
+        ]
+      },
+      {
+        "heading": "Dogana e tasse d'importazione",
+        "paragraphs": [
+          "Per gli ordini idonei sotto i 150 €, l'IVA può essere gestita tramite IOSS, ove applicabile. Controlla sempre il riepilogo finale e le regole locali.",
+          "Gli acquisti internazionali possono essere soggetti a controlli doganali nel tuo paese e comportare tasse, dazi doganali o altri costi accessori. Tieni conto di questi possibili costi quando ordini.",
+          "Secondo le condizioni indicate da YesStyle, gli ordini sotto i US$ 1.000 possono beneficiare del rimborso di tasse e dazi doganali addebitati all'importazione. Per ottenerlo devi pagare le spese, conservare la ricevuta e inviare una richiesta al loro servizio clienti entro 30 giorni. Se viene approvata, l'importo viene rimborsato sotto forma di credito nel negozio YesStyle."
+        ],
+        "bullets": [
+          "Conserva la ricevuta di tutte le spese doganali pagate nel tuo paese",
+          "Invia la richiesta di rimborso all'assistenza di YesStyle entro 30 giorni",
+          "I rimborsi non sono automatici e dipendono dalla politica del negozio",
+          "Gli ordini di US$ 1.000 o più non sono coperti da questa offerta di rimborso",
+          "Il rimborso viene erogato in credito YesStyle, non sulla tua carta di pagamento"
+        ],
+        "emphasis": "Il parere di Cecilia: consulta le pagine di aiuto di YesStyle su dogana e tasse prima di ordinare, perché le normative doganali e le condizioni del negozio possono cambiare."
+      },
+      {
+        "heading": "FAQ — Domande frequenti sul codice CECILIA010 e su YesStyle",
+        "paragraphs": [
+          "Domande frequenti e relative risposte per i clienti internazionali:"
+        ],
+        "bullets": [
+          "Il codice CECILIA010 è un coupon? No. Funziona come codice ricompensa influencer e aggiunge fino al 5% extra (5% sul 1º ordine / 2% sui successivi) al momento del pagamento. Il bello è che si somma ai coupon promozionali idonei.",
+          "Posso usare il codice e un coupon insieme? Sì. Inserisci il codice CECILIA010 nella casella Reward Code e il tuo coupon promozionale nella casella Coupon Code per sommare fino al 5% extra (5% sul 1º ordine / 2% sui successivi) ai coupon idonei confermati al checkout.",
+          "Quanto dura la validità del codice CECILIA010? Resta attivo in modo continuativo finché il programma influencer di YesStyle viene mantenuto.",
+          "È sicuro comprare su YesStyle? Sì, è un sito di e-commerce affidabile, attivo dal 2006 e dotato di sistemi di pagamento sicuri.",
+          "Devo pagare spese doganali? Per gli ordini idonei sotto i 150 €, l'IVA può essere gestita tramite IOSS, ove applicabile. Controlla sempre il riepilogo finale e le regole locali. Inoltre YesStyle prevede una politica di rimborso delle spese doganali in credito nel negozio per gli ordini sotto i US$ 1.000.",
+          "I prodotti sono autentici? Sì, tutto proviene direttamente dai marchi e da distributori ufficiali.",
+          "Quali sono i metodi di pagamento? Puoi pagare con carta internazionale o PayPal. La conversione della valuta è automatica.",
+          "Cos'è l'Elite Club? È il programma fedeltà di YesStyle. Con i tuoi acquisti accumuli punti e ottieni sconti esclusivi.",
+          "Come tracciare il mio ordine YesStyle dopo la spedizione? Quando l'ordine viene spedito, YesStyle ti invia un numero di tracking internazionale via e-mail e lo mostra anche nello storico dei tuoi ordini. Puoi seguire il pacco su 17track o sul sito del corriere. La consegna standard richiede di solito da 15 a 30 giorni lavorativi, a seconda del paese e di eventuali ritardi doganali.",
+          "Cosa fare se il mio pacco YesStyle è bloccato in dogana? Se il pacco viene trattenuto dalla dogana del tuo paese, potresti dover pagare dazi doganali o IVA. Secondo la politica di YesStyle, gli ordini idonei sotto i US$ 1.000 possono essere rimborsati come credito nel negozio per le spese doganali, se presenti una ricevuta valida e una richiesta al servizio clienti entro 30 giorni. Controlla sempre la soglia d'importazione del tuo paese prima di ordinare.",
+          "I vestiti di YesStyle vestono piccoli? Come scegliere la taglia asiatica giusta? Sì, la maggior parte dei capi di YesStyle segue la vestibilità asiatica, che tende a essere più piccola delle taglie europee o americane. Ogni scheda prodotto include una tabella delle misure in centimetri. Ti consigliamo di prendere le tue misure e confrontarle con la tabella, scegliendo una o due taglie in più per una vestibilità comoda, soprattutto per i modelli aderenti.",
+          "Quali marchi K-beauty sono i più venduti su YesStyle? YesStyle è distributore autorizzato di marchi K-beauty popolari come COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul e Haruharu. Il sito organizza i prodotti per categorie (essenze, tonici, sieri, protezioni solari), il che rende più facile costruire una routine di skincare coreana.",
+          "Posso annullare o modificare il mio ordine YesStyle dopo averlo confermato? Puoi annullare gli ordini ancora in stato “Processing” direttamente dallo storico ordini. Una volta spedito, l'annullamento non è più possibile, ma puoi rifiutare la consegna all'arrivo. Le modifiche all'indirizzo o ai prodotti sono possibili solo prima della spedizione, contattando rapidamente il servizio clienti.",
+          "Il codice CECILIA010 funziona per il primo ordine su YesStyle? Sì, CECILIA010 funziona su tutti gli ordini, offrendo fino al 5% extra (5% sul 1º ordine e 2% sui successivi), cumulabile con i coupon promozionali idonei confermati al checkout.",
+          "CECILIA010 è un coupon influencer di YesStyle? CECILIA010 è un codice ricompensa influencer registrato. Offre fino al 5% extra (5% sul 1º ordine e 2% sui successivi) al checkout e si somma ai coupon promozionali idonei, a differenza dei codici per il primo ordine, che di solito non sono cumulabili."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Usa il codice influencer ufficiale CECILIA010 al pagamento su YesStyle.",
+      "label": "Vai su YesStyle e usa il codice CECILIA010",
+      "url": "https://ystyle.co/rQYQv"
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "notes": [
+      {
+        "label": "Il consiglio di Cecília",
+        "body": "Il campo del codice si trova al momento del pagamento, sotto “Reward Code”. Copia CECILIA010 prima di aprire il negozio: ti basterà incollarlo quando concludi l'ordine."
+      }
+    ],
+    "editorialNote": "Questo articolo contiene link di affiliazione. Se accedi a YesStyle tramite i nostri link o usi il codice influencer CECILIA010, potremmo ricevere una commissione senza alcun costo aggiuntivo per te.",
+    "locale": "it",
+    "translationKey": "yesstyle-reward-code"
+  },
+  {
+    "id": 310,
+    "slug": "come-trovare-codici-sconto-yesstyle-validi",
+    "title": "Come trovare codici sconto YesStyle validi e combinarli con CECILIA010",
+    "seoTitle": "Codici sconto YesStyle validi: come trovarli + CECILIA010",
+    "type": "Guida e coupon",
+    "reviewKind": "guia",
+    "description": "Guida pratica per trovare codici sconto YesStyle validi, capire la differenza tra Coupon Code e Reward Code e sommarli per risparmiare fino al 5% in più con CECILIA010.",
+    "metaDescription": "Scopri come trovare codici sconto YesStyle validi, evita quelli scaduti e sommali al codice ricompensa CECILIA010 per fino al 5% di sconto in più.",
+    "publishedAt": "28 settembre 2026",
+    "publishedAtISO": "2026-09-28",
+    "hideFromPortugueseListings": true,
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redazione e analisi",
+        "initials": "BL"
+      }
+    ],
+    "image": "/images/reviews/cupons/como-encontrar-cupons-yesstyle-hero.webp",
+    "imageAlt": "Selezione di cosmetici e prodotti di skincare K-beauty in promozione su YesStyle.",
+    "imageFit": "cover",
+    "pros": [
+      "Insegna a distinguere Coupon Code e Reward Code per evitare errori al pagamento",
+      "Spiega come sommare gli sconti (stacking) per combinare i coupon del mese con CECILIA010",
+      "Mostra come risparmiare fino al 5% in più con il codice influencer ufficiale",
+      "Elenca le fonti ufficiali dei coupon YesStyle per evitare codici scaduti",
+      "Rimanda alla pagina aggiornata di Em Casa com Cecília con coupon verificati regolarmente"
+    ],
+    "cons": [
+      "I coupon promozionali mensili hanno durate brevi (in genere da 72 ore a 30 giorni)",
+      "Lo sconto di CECILIA010 va dal 5% sul primo ordine al 2% sugli ordini successivi",
+      "Prezzi finali mostrati in USD (soggetti al tasso di cambio)"
+    ],
+    "pullQuote": "La chiave per risparmiare al massimo su YesStyle è sommare gli sconti: inserisci il coupon promozionale nel campo Coupon Code e CECILIA010 nel campo Reward Code per avere fino al 5% in più.",
+    "productSpec": [
+      {
+        "key": "Negozio",
+        "value": "YesStyle (ufficiale)"
+      },
+      {
+        "key": "Codice ricompensa",
+        "value": "CECILIA010 (fino al 5% in più)",
+        "highlight": true
+      },
+      {
+        "key": "Campo al checkout",
+        "value": "Reward Code"
+      },
+      {
+        "key": "Cumulabile",
+        "value": "Si può combinare con i coupon promozionali idonei; verifica al pagamento"
+      }
+    ],
+    "cta": {
+      "text": "Consulta la nostra pagina dedicata con i codici sconto YesStyle verificati e attivi oggi.",
+      "label": "Vedi i coupon YesStyle attivi",
+      "url": "/it/coupons/yesstyle",
+      "sponsored": false
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Questo articolo contiene link di affiliazione. Quando acquisti tramite i nostri link o usi il codice CECILIA010, potremmo ricevere una commissione senza alcun costo aggiuntivo per te.",
+    "relatedArticles": [
+      {
+        "slug": "codice-ricompensa-yesstyle-cecilia010",
+        "title": "Codice ricompensa YesStyle CECILIA010: come usarlo al checkout"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Perché la maggior parte dei coupon YesStyle trovati online non funziona?",
+        "paragraphs": [
+          "Se compri spesso cosmetici K-Beauty o skincare coreana su YesStyle, probabilmente hai già provato questa frustrazione: cerchi “codice sconto YesStyle” su Google, apri decine di siti aggregatori, copi vari codici e, al momento del pagamento, il sito mostra un errore che dice che il codice non è valido o è scaduto.",
+          "Le ragioni sono tre: YesStyle propone coupon promozionali di breve durata (come i saldi lampo da 72 o 96 ore), gli aggregatori automatici tengono in archivio codici scaduti da anni e alcuni codici sono riservati a regioni specifiche.",
+          "Per non perdere tempo, il segreto è capire come sono strutturati gli sconti di YesStyle e consultare le fonti ufficiali."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
+        "imageAlt": "Selezione di cosmetici e prodotti di skincare K-beauty in promozione su YesStyle.",
+        "imageCaption": "Esempio di coupon promozionale registrato il 24 luglio 2026 (coupon BTSVIP15). I coupon promozionali cambiano spesso: consulta la nostra pagina dedicata prima di acquistare.",
+        "imageFit": "wide",
+        "bullets": [
+          "Coupon promozionali mensili: hanno una data di scadenza e offrono dal 10% al 15% di sconto (es. il coupon BTSVIP15 mostrato su YesStyle al momento dello screenshot).",
+          "Codice ricompensa (Reward Code): codice influencer come CECILIA010, che aggiunge fino al 5% di sconto extra.",
+          "Fonti ufficiali: controlla il banner del sito, la newsletter o la nostra pagina coupon dedicata."
+        ]
+      },
+      {
+        "heading": "Capire i 2 campi sconto al checkout (Coupon Code e Reward Code)",
+        "paragraphs": [
+          "La particolarità di YesStyle che molti ignorano è che la pagina di pagamento ha due campi sconto del tutto indipendenti. Capire la differenza tra i due è la chiave per risparmiare il più possibile:"
+        ],
+        "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
+        "imageAlt": "Selezione di cosmetici e prodotti di skincare K-beauty in promozione su YesStyle.",
+        "imageCaption": "I due campi separati al checkout: Coupon Code (per i coupon promozionali) e Reward Code (per CECILIA010).",
+        "imageFit": "cover",
+        "bullets": [
+          "1. Campo “Coupon Code”: è qui che inserisci i coupon promozionali di YesStyle (come gli sconti dal 10% al 15%).",
+          "2. Campo “Reward Code” / “Influencer Code”: è qui che inserisci il codice influencer ufficiale CECILIA010, che garantisce fino al 5% in più."
+        ],
+        "emphasis": "Poiché la pagina di pagamento ha campi distinti per Coupon Code e Reward Code, gli sconti idonei possono essere combinati secondo le regole della campagna. Conferma entrambi nel riepilogo."
+      },
+      {
+        "heading": "Come funziona il codice CECILIA010: fino al 5% in più",
+        "paragraphs": [
+          "Il codice CECILIA010 è il codice ricompensa ufficiale di Cecília nel programma influencer di YesStyle. A differenza dei coupon temporanei, che cambiano con regolarità, CECILIA010 è un codice partner verificato regolarmente.",
+          "L'applicazione dello sconto CECILIA010 nel carrello segue le regole ufficiali:",
+          "• Nuovi clienti (1º ordine): concede il 5% di sconto extra.",
+          "• Clienti abituali (ordini successivi): concede il 2% di sconto extra.",
+          "Per questo scriviamo con trasparenza “fino al 5% in più”: lo sconto esatto viene calcolato automaticamente da YesStyle al momento del pagamento."
+        ],
+        "bullets": [
+          "Primo ordine sul sito: 5% di sconto extra.",
+          "Ordini successivi: 2% di sconto extra.",
+          "Valido sui prodotti idonei di K-Beauty, skincare, make-up e moda."
+        ]
+      },
+      {
+        "heading": "Passo 1 — Accedi al negozio tramite il link ufficiale",
+        "paragraphs": [
+          "Apri YesStyle tramite il link ufficiale di Cecília. In questo modo l'attribuzione del referral viene registrata correttamente prima di inserire i codici al pagamento."
+        ],
+        "links": [
+          {
+            "label": "Apri YesStyle tramite il link di Cecília",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Passo 2 — Prepara il carrello",
+        "paragraphs": [
+          "Scegli i cosmetici coreani o i prodotti di skincare che preferisci e aggiungili al carrello."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
+        "imageAlt": "Selezione di cosmetici e prodotti di skincare K-beauty in promozione su YesStyle.",
+        "imageCaption": "Schermata di riepilogo del carrello su YesStyle prima dell'applicazione dei codici sconto.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "Passo 3 — Applica il coupon promozionale nel campo Coupon Code",
+        "paragraphs": [
+          "Nella schermata di pagamento, cerca la casella “Coupon Code”. Se su YesStyle c'è un coupon promozionale attivo, inseriscilo e clicca su “Applica”."
+        ]
+      },
+      {
+        "heading": "Passo 4 — Incolla il codice CECILIA010 nel campo Reward Code",
+        "paragraphs": [
+          "Nella stessa pagina di pagamento, vai alla casella “Reward Code / Influencer Code”. Inserisci CECILIA010 e clicca su “Applica”."
+        ]
+      },
+      {
+        "heading": "Passo 5 — Conferma che gli sconti si sommano e concludi l'ordine",
+        "paragraphs": [
+          "Controlla il riepilogo finale dell'ordine e verifica che compaiano entrambi gli sconti prima di pagare (il coupon promozionale e il codice CECILIA010)."
+        ],
+        "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
+        "imageAlt": "Selezione di cosmetici e prodotti di skincare K-beauty in promozione su YesStyle.",
+        "imageCaption": "Riepilogo finale del pagamento che conferma gli sconti sommati: coupon promozionale + codice CECILIA010 applicati con successo.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "Fonti ufficiali per trovare coupon YesStyle validi",
+        "paragraphs": [
+          "Per seguire i coupon promozionali in corso senza imbatterti in codici scaduti, ti consigliamo queste fonti ufficiali:",
+          "1. La nostra pagina coupon centralizzata: manteniamo una pagina dedicata in cui verifichiamo i codici YesStyle.",
+          "2. Banner principale di YesStyle: la home page mette spesso in evidenza il coupon attivo del mese.",
+          "3. Newsletter ufficiale: iscrivendoti alla newsletter ricevi gli avvisi sui saldi lampo da 72 o 96 ore."
+        ],
+        "links": [
+          {
+            "label": "Vai alla nostra pagina aggiornata dei coupon YesStyle",
+            "href": "/it/coupons/yesstyle"
+          },
+          {
+            "label": "Vai su YesStyle tramite il link ufficiale di Cecília",
+            "href": "https://ystyle.co/rQYQv",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "FAQ — Domande frequenti sui coupon YesStyle",
+        "bullets": [
+          "Qual è la differenza tra Coupon Code e Reward Code su YesStyle? Il Coupon Code è un coupon promozionale temporaneo di YesStyle, da applicare nel campo “Coupon Code”. CECILIA010 è un Reward Code influencer da inserire nel campo “Reward Code”, che offre fino al 5% in più (5% sul 1º ordine / 2% sui successivi). Quando la campagna lo consente, i due si sommano al pagamento.",
+          "I coupon YesStyle hanno una scadenza? Sì. I coupon promozionali hanno una data di scadenza. Controlla l'importo minimo d'acquisto e i prodotti idonei prima di confermare.",
+          "Dove trovo le condizioni ufficiali dei coupon YesStyle? Le condizioni generali si trovano sotto “General Terms and Conditions for Coupons” nel centro assistenza di YesStyle. Per una campagna specifica, consulta la sezione “Promotions”.",
+          "Posso usare più di un coupon promozionale per ordine? No. È consentito un solo Coupon Code per ordine. CECILIA010, invece, è un Reward Code e può essere abbinato a un Coupon Code idoneo."
+        ],
+        "links": [
+          {
+            "label": "Leggi le condizioni generali dei coupon YesStyle",
+            "href": "https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888"
+          },
+          {
+            "label": "Apri il servizio clienti di YesStyle",
+            "href": "https://www.yesstyle.com/en/help/main.html"
+          }
+        ]
+      }
+    ],
+    "locale": "it",
+    "translationKey": "yesstyle-coupon-guide"
+  },
+  {
+    "id": 311,
+    "slug": "yesstyle-e-affidabile-e-sicuro",
+    "title": "YesStyle è affidabile e sicuro? Cosa sapere prima di comprare",
+    "seoTitle": "YesStyle è affidabile e sicuro? Cosa sapere prima",
+    "type": "Editorial",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Analisi dei dati pubblici di YesStyle: sede a Hong Kong, rivenditore autorizzato di oltre 400 marchi di bellezza coreana, spedizioni internazionali e tutele per chi acquista.",
+    "metaDescription": "YesStyle è affidabile e sicuro? Dati aziendali, partnership ufficiali con i marchi K-Beauty, spedizioni, dogana e consigli prima di ordinare.",
+    "publishedAt": "28 settembre 2026",
+    "publishedAtISO": "2026-09-28",
+    "draft": false,
+    "locale": "it",
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/cupons/yesstyle-logo-purple-hero.webp",
+    "imageAlt": "Prodotti K-Beauty e offerte sulla piattaforma YesStyle",
+    "imageFit": "cover",
+    "imageAspect": "square",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Dati pubblici sull'azienda",
+        "paragraphs": [
+          "YesStyle Limited è una piattaforma di e-commerce con sede a Hong Kong, fondata nel 2006. È una controllata di YesAsia Holdings Limited, società quotata alla Borsa di Hong Kong con il codice 2209.HK. Questo significa gestione trasparente e bilanci sottoposti a revisione.",
+          "Il sito serve più di 80 paesi e mostra i prezzi in diverse valute. Gli ordini vengono gestiti secondo gli standard del commercio elettronico internazionale."
+        ],
+        "bullets": [],
+        "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
+        "imageAlt": "Interfaccia ufficiale e banner promozionale del sito YesStyle",
+        "imageFit": "square"
+      },
+      {
+        "heading": "Catalogo e partnership ufficiali",
+        "paragraphs": [
+          "YesStyle dichiara di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana (K-Beauty), e propone anche prodotti di bellezza giapponese e moda asiatica. Il catalogo comprende skincare (sieri, essenze, tonici, protezioni solari), make-up e accessori.",
+          "Nelle proprie informazioni ufficiali l'azienda indica di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana, tra cui nomi affermati come COSRX, Etude House, Hada Labo e Rohto, e di rifornirsi direttamente dai produttori o da distributori partner certificati. L'appartenenza al gruppo quotato YesAsia Holdings è una garanzia in più di trasparenza finanziaria."
+        ],
+        "bullets": [],
+        "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
+        "imageAlt": "Marchi di bellezza coreana partner ufficiali su YesStyle",
+        "imageFit": "wide"
+      },
+      {
+        "heading": "Spedizioni internazionali e resi",
+        "paragraphs": [
+          "YesStyle offre la spedizione internazionale gratuita per gli ordini che superano l'importo minimo richiesto (ad esempio 48 € o 59 USD).",
+          "Tempi di consegna, costi e condizioni per la spedizione gratuita variano in base al paese di destinazione, al metodo di spedizione e alla disponibilità degli articoli. Le stime precise vengono calcolate al momento del checkout. I resi degli articoli idonei, nella confezione originale, si gestiscono con una richiesta di Autorizzazione al Reso (RMA) al servizio clienti."
+        ],
+        "bullets": [],
+        "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
+        "imageAlt": "Griglia di prodotti con sconti e recensioni verificate su YesStyle",
+        "imageFit": "square"
+      },
+      {
+        "heading": "Consigli prima di ordinare",
+        "paragraphs": [
+          "Ecco qualche consiglio pratico prima di confermare il carrello:"
+        ],
+        "bullets": [
+          "Controlla di trovarti sul dominio ufficiale (yesstyle.com), con connessione HTTPS.",
+          "Informati sulle regole doganali del tuo paese per IVA e dazi d'importazione. YesStyle rimborsa dazi e spese doganali sotto forma di YesStyle Credit per gli ordini inferiori a 1.000 USD (prima dei coupon e escluse le spese di spedizione): la richiesta va fatta con la ricevuta entro 30 giorni. L'IVA addebitata al checkout sugli ordini UE non è coperta dal rimborso.",
+          "Leggi con attenzione le schede prodotto e le guide alle taglie."
+        ]
+      },
+      {
+        "heading": "Codice ricompensa e sconto extra",
+        "paragraphs": [
+          "Em Casa com Cecília è partner di YesStyle. Inserendo il codice ricompensa CECILIA010 nel campo \"Reward Code\" al checkout ottieni il 5% di sconto extra sul primo ordine e il 2% su quelli successivi. I coupon promozionali vanno nel campo separato \"Coupon Code\" e si cumulano con CECILIA010.",
+          "Il codice CECILIA010 è permanente e non ha alcun costo per chi acquista."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "YesStyle è un sito affidabile? Sì, YesStyle è un'azienda legittima, fondata nel 2006 e controllata del gruppo quotato in borsa YesAsia Holdings (2209.HK).",
+          "I prodotti sono originali? YesStyle dichiara di essere rivenditore ufficiale autorizzato di oltre 400 marchi di bellezza coreana, con acquisti diretti dai produttori o da partner certificati.",
+          "Quanto tempo ci mette la spedizione? La spedizione internazionale standard richiede in media da 7 a 14 giorni lavorativi.",
+          "Come si usa il codice CECILIA010? Inserisci CECILIA010 nel campo \"Reward Code\" al momento del checkout."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Ordina i tuoi prodotti K-Beauty su YesStyle con il codice CECILIA010",
+      "label": "Visita YesStyle",
+      "url": "https://ystyle.co/rQYQv"
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Recensione editoriale indipendente. L'uso del codice CECILIA010 rientra in una partnership di affiliazione.",
+    "relatedArticles": [
+      {
+        "slug": "codice-ricompensa-yesstyle-cecilia010",
+        "title": "Codice ricompensa YesStyle CECILIA010: come usarlo al checkout"
+      }
+    ],
+    "translationKey": "yesstyle-trust"
+  },
+  {
+    "id": 312,
+    "slug": "k-beauty-tendenza-bellezza-coreana",
+    "title": "K-Beauty spiegata: perché la bellezza coreana è diventata una tendenza globale e dove comprarla",
+    "seoTitle": "K-Beauty: cos'è e dove comprare la bellezza coreana",
+    "type": "Editorial",
+    "reviewKind": "editorial",
+    "category": "guias-praticos-utilidade",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Cos'è la K-Beauty, perché la bellezza coreana è diventata una tendenza globale della skincare e dove trovare marchi come COSRX, Beauty of Joseon e Anua tutti in un posto solo.",
+    "metaDescription": "K-Beauty: cos'è, perché è diventata una tendenza globale e come comprare i marchi coreani su YesStyle con il codice CECILIA010.",
+    "publishedAt": "28 settembre 2026",
+    "publishedAtISO": "2026-09-28",
+    "draft": false,
+    "isNew": true,
+    "locale": "it",
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/cupons/k-beauty-glass-skin-hero.webp",
+    "imageAlt": "Donna dalla pelle luminosa e idratata, a rappresentare il concetto di \"glass skin\" della K-Beauty",
+    "imageFit": "cover",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Cos'è la K-Beauty",
+        "paragraphs": [
+          "La K-Beauty non è una semplice etichetta di provenienza: è una filosofia completa di cura della pelle nata in Corea del Sud, diventata sinonimo di innovazione, di cicli di lancio velocissimi e di un approccio radicalmente diverso da quello a cui molti di noi si sono abituati con la propria skincare.",
+          "Alla base c'è una convinzione precisa: una routine per la pelle non deve per forza essere semplice e lineare. Mentre in molte parti del mondo resiste la logica dei \"tre passaggi\" (detergere, tonificare, idratare), l'approccio coreano ruota attorno al concetto di layering: applicare più strati successivi di prodotti complementari, ciascuno con una funzione specifica. Una routine completa può includere una doppia detersione (un olio struccante seguito da un detergente in schiuma o in gel), un tonico, un'essenza, un siero, una fiala e una crema, con ogni passaggio pensato per preparare la pelle a quello successivo.",
+          "Questa filosofia affonda le radici in una profonda convinzione culturale: prendersi cura della pelle è un gesto di cura di sé irrinunciabile, non una questione di vanità. Per questo l'industria della bellezza coreana è uno dei motori più dinamici del settore a livello mondiale, con un flusso di nuovi lanci e di formule innovative che sorprende chi è abituato al ritmo più misurato di altre regioni.",
+          "Quanto agli ingredienti, la K-Beauty si è fatta conoscere per l'uso di attivi non sempre comuni altrove: la centella asiatica (lenitiva, nota per calmare le pelli sensibili), la niacinamide (per regolare il sebo e uniformare l'incarnato), la bava di lumaca o snail mucin (idratante, uno degli ingredienti più emblematici, anche se controverso per chi preferisce formule vegane), il PDRN (un attivo più recente associato alla rigenerazione cutanea), la propoli e gli ingredienti fermentati: innovazioni con cui l'industria coreana ha reso popolari formule più delicate sulla pelle. La K-Beauty ha inoltre diffuso formati distintivi come il cushion compact (una spugnetta imbevuta di fondotinta o BB cream in una confezione con specchio), le sheet mask (maschere in tessuto imbevute di sieri concentrati) e le fiale al siero.",
+          "Un termine molto legato a questa categoria è la ricerca della \"glass skin\": l'idea di una pelle così uniforme, idratata e naturalmente luminosa da sembrare di vetro. È un ideale estetico più che una promessa letterale, ma riassume bene ciò a cui puntano la maggior parte delle routine K-Beauty: una pelle con una barriera cutanea sana, una texture levigata e quella luminosità che associamo spontaneamente a una pelle ben curata."
+        ],
+        "bullets": [],
+        "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
+        "imageAlt": "Folla di visitatori ed espositori in una grande fiera professionale dedicata alla bellezza coreana, con stand di marchi colorati",
+        "imageCaption": "Le dimensioni del mercato dietro la tendenza: fiere come la K-Beauty Expo Korea riuniscono ogni anno centinaia di marchi.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "Perché la K-Beauty è diventata una tendenza globale",
+        "paragraphs": [
+          "L'esplosione della K-Beauty fuori dall'Asia negli ultimi due decenni non è casuale. Diversi fattori si sono combinati e hanno creato quest'ondata di curiosità e di adozione di massa.",
+          "Il primo è l'influenza culturale dei k-drama e del k-pop. Entrambi hanno conquistato pubblici globali enormi e funzionano come una vetrina vivente della cultura della bellezza coreana. Quando le scene di una serie mostrano i personaggi alle prese con la skincare di casa, o quando gli artisti del k-pop appaiono con una pelle impeccabile sul palco, concerto dopo concerto, la domanda che nasce spontanea è \"come fanno?\". E la risposta porta quasi sempre ai prodotti che usano.",
+          "Il secondo fattore è la cultura stessa dei marchi coreani di bellezza. A differenza di settori che si stabilizzano per anni attorno a un catalogo costante, i marchi coreani di skincare mantengono un ritmo di lanci e di innovazione negli ingredienti che attira l'attenzione internazionale: ogni mese spuntano nuovi sieri, nuovi attivi, nuovi formati di maschera. Se a questo si aggiungono prezzi in genere più competitivi rispetto ai marchi di lusso occidentali che propongono prodotti simili, si è creata la percezione che la tecnologia più all'avanguardia nella skincare arrivi dalla Corea.",
+          "Il terzo fattore è puramente internet: le community di appassionati di skincare sono cresciute su piattaforme come TikTok, YouTube e Reddit. Gli influencer hanno iniziato a mostrare unboxing di prodotti coreani con entusiasmo genuino, le recensioni si sono moltiplicate e la dinamica virale ha trasformato la K-Beauty da interesse di nicchia a fenomeno mainstream.",
+          "In fondo, la storia è semplice, ed è per questo che si è diffusa così in fretta: esiste un'intera industria, dall'altra parte del mondo, ossessionata dall'innovazione nella cura della pelle, e oggi è possibile accedervi online."
+        ],
+        "bullets": []
+      },
+      {
+        "paragraphs": [],
+        "bullets": [],
+        "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
+        "imageAlt": "Scaffale di un negozio coreano con prodotti di skincare, insegna al neon con la scritta \"Find the Latest K-Beauty Hype\"",
+        "imageCaption": "Per le strade della Corea, i lanci K-Beauty sono una vetrina e una grande attrazione per chi visita il paese.",
+        "imageFit": "cover"
+      },
+      {
+        "heading": "Il problema di comprare K-Beauty fuori dalla Corea",
+        "paragraphs": [
+          "Se la K-Beauty è così rilevante, perché non è semplice trovarla in un centro commerciale o in una farmacia sotto casa? La risposta sta nella distribuzione.",
+          "La maggior parte dei marchi coreani di skincare non ha punti vendita ufficiali in gran parte del mondo. Un marchio di fama internazionale può vendere ufficialmente solo tramite il proprio e-commerce coreano o attraverso pochi distributori autorizzati in mercati specifici. Questo crea un ostacolo concreto per chi vuole comporre una routine completa, per esempio un detergente, un tonico, un siero e una crema, ciascuno di un marchio diverso.",
+          "Se ogni marchio vende solo sul proprio sito (o non vende ufficialmente all'estero), l'alternativa diventa: fare più acquisti separati, pagare ogni volta le spese di spedizione internazionale, aspettare consegne in date diverse e gestire il cambio ed eventuali tasse d'importazione secondo le norme della tua area, che variano molto e cambiano con regolarità. È sempre consigliabile verificare la regola in vigore dove vivi prima di acquistare.",
+          "Per molte persone questo attrito logistico, molto più del prezzo o della qualità dei prodotti, è ciò che scoraggia dall'esplorare la K-Beauty. Navigare tra più siti in lingue diverse, pagare ripetutamente spese di spedizione internazionali e non avere un unico posto dove seguire l'ordine è estenuante. Inoltre non tutti i marchi coreani vendono all'estero: alcuni vendono esclusivamente in Corea, e le uniche opzioni restano rivenditori terzi, non sempre affidabili, o servizi postali di reindirizzamento internazionale, che aggiungono costi e tempi."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Dove entra in gioco YesStyle",
+        "paragraphs": [],
+        "bullets": [],
+        "image": "/images/reviews/cupons/yesstyle-logo-purple.webp",
+        "imageAlt": "Logo di YesStyle",
+        "imageFit": "wide"
+      },
+      {
+        "paragraphs": [
+          "È qui che piattaforme come YesStyle risolvono il problema.",
+          "YesStyle funziona come un marketplace centralizzato: invece di visitare un marchio alla volta, puoi acquistare più marchi coreani (e anche giapponesi e di altre zone dell'Asia) in un unico carrello, con un'unica spedizione e un unico tempo di consegna. Nelle proprie informazioni aziendali l'azienda dichiara di essere distributore autorizzato di oltre 400 marchi di bellezza coreana, tra cui nomi come COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: un assaggio del tipo di marchi disponibili, non un elenco esaustivo, perché il catalogo cambia di continuo.",
+          "La piattaforma va anche oltre la skincare: propone moda asiatica, make-up, accessori e altre categorie lifestyle, quindi puoi completare l'acquisto di un siero con altri articoli nella stessa transazione.",
+          "Per avere uno sconto sul primo ordine, il codice ricompensa CECILIA010 offre una riduzione diretta al momento del pagamento (maggiore sul primo ordine, minore sui successivi) quando viene applicato nel campo giusto del carrello. Più sotto trovi una guida passo dopo passo su come applicarlo.",
+          "È proprio questa centralizzazione ad aver fatto passare la K-Beauty da interesse per collezionisti appassionati a qualcosa di accessibile per chi vuole solo verificare se la fama è meritata."
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "YesStyle CECILIA010: codice ricompensa (passo dopo passo)",
+            "href": "/it/reviews/codice-ricompensa-yesstyle-cecilia010"
+          },
+          {
+            "label": "YesStyle è affidabile e sicuro? Cosa sapere prima di comprare",
+            "href": "/it/reviews/yesstyle-e-affidabile-e-sicuro"
+          },
+          {
+            "label": "Vedi il negozio ufficiale e il codice CECILIA010 nella pagina coupon",
+            "href": "/it/coupons/yesstyle"
+          }
+        ],
+        "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
+        "imageAlt": "Marchi K-Beauty e J-Beauty autorizzati su YesStyle (COSRX, Anua, Beauty of Joseon)",
+        "imageFit": "wide"
+      },
+      {
+        "heading": "FAQ: le tue domande sulla K-Beauty",
+        "bullets": [
+          "La K-Beauty è la stessa cosa della J-Beauty (bellezza giapponese)? No, anche se i due termini compaiono spesso insieme. K-Beauty e J-Beauty condividono una forte attenzione alla cura della pelle, ma le filosofie tendono a essere diverse: la J-Beauty di solito è associata a un minimalismo più funzionale e alla protezione solare come base di tutto, mentre la K-Beauty è nota soprattutto per il layering a più strati e per la costante innovazione negli ingredienti. In pratica puoi combinarle: la stessa YesStyle riunisce marchi giapponesi affermati come Hada Labo e Rohto accanto a quelli coreani.",
+          "YesStyle vende prodotti autentici? L'azienda dichiara nelle proprie informazioni aziendali di essere distributore autorizzato (acquista direttamente dai produttori o da partner ufficiali) ed è controllata da una società quotata in borsa (YesAsia Holdings), il che garantisce un livello di trasparenza aziendale superiore a quello di un semplice rivenditore indipendente. Detto questo, è sempre bene verificare la politica su autenticità e garanzia direttamente sul sito ufficiale prima di acquistare. Se vuoi approfondire, più sotto trovi la nostra analisi completa sull'affidabilità del negozio.",
+          "Il codice CECILIA010 funziona anche sui prodotti K-Beauty? Sì, è un codice ricompensa generale della piattaforma, non limitato a una categoria specifica: si applica sia alla skincare coreana sia alla moda e agli altri articoli del catalogo. È comunque buona norma controllare nel carrello che lo sconto sia stato applicato correttamente prima di concludere l'acquisto.",
+          "Da dove comincio se non ho mai usato K-Beauty? I marchi molto diffusi a livello internazionale, come COSRX, Innisfree, Beauty of Joseon, Anua, Etude House e Some By Mi, di solito sono un buon punto di partenza. Una strategia comune per iniziare è provare un prodotto alla volta (un detergente delicato, un tonico, un'essenza) invece di rivoluzionare tutta la routine in un colpo solo, così puoi osservare come la pelle reagisce a ogni novità.",
+          "Tutti gli ingredienti K-Beauty vanno bene per ogni tipo di pelle? Non necessariamente, ed è vero per qualsiasi prodotto di skincare, non solo per la K-Beauty. Ingredienti popolari come la niacinamide e la centella asiatica sono in genere ben tollerati dalla maggior parte delle persone, ma \"la maggior parte\" non significa \"tutti\". Chi ha la pelle sensibile o reattiva fa bene a leggere l'elenco degli ingredienti, a evitare ciò che ha già causato una reazione, a provare un nuovo prodotto su una piccola area prima di applicarlo su tutto il viso e, nel dubbio, a consultare un dermatologo prima di iniziare una nuova routine."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Scopri il catalogo K-Beauty di YesStyle e usa il codice CECILIA010 al pagamento",
+      "label": "Vedi i marchi coreani su YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "La menzione di YesStyle e del codice CECILIA010 deriva da una partnership commerciale tra Em Casa com Cecília e YesStyle, che può generare una commissione per il blog senza costi aggiuntivi per te.",
+    "relatedArticles": [
+      {
+        "slug": "codice-ricompensa-yesstyle-cecilia010",
+        "title": "Codice ricompensa YesStyle CECILIA010: come usarlo al checkout"
+      },
+      {
+        "slug": "yesstyle-e-affidabile-e-sicuro",
+        "title": "YesStyle è affidabile e sicuro? Cosa sapere prima di comprare"
+      },
+      {
+        "slug": "come-trovare-codici-sconto-yesstyle-validi",
+        "title": "Come trovare codici sconto YesStyle validi e combinarli con CECILIA010"
+      }
+    ],
+    "imageAspect": "landscape",
+    "heroCompact": true,
+    "translationKey": "yesstyle-kbeauty"
   }
 ];

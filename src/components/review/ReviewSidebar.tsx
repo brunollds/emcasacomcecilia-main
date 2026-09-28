@@ -7,15 +7,17 @@ import { copyTextWithFallback } from '@/lib/clipboardUtils';
 import { trackEvent } from '@/lib/analytics';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
+import type { Locale } from '@/lib/i18n/locales';
 import type { TocItem } from './ReviewTableOfContents';
 import type { Review, ReviewKind } from '@/lib/content';
 
-const tocTitlesByLocale: Record<string, string> = {
+const tocTitlesByLocale: Record<Locale, string> = {
   pt: 'Nesta análise',
   en: 'In this guide',
   es: 'En esta guía',
   fr: 'Dans ce guide',
   de: 'In diesem Ratgeber',
+  it: 'In questa guida',
   ko: '목차',
   ja: '目次',
   'zh-hant': '目錄',
@@ -187,7 +189,7 @@ export function ReviewSidebarContent({
       {hasToc && (
         <nav aria-label="Navegação por capítulos" className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
           <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">
-            {tocTitlesByLocale[resolveReviewLocale(review.locale)] || 'Nesta análise'}
+            {tocTitlesByLocale[resolveReviewLocale(review.locale)]}
           </p>
           <ul className="space-y-1">
             {tocItems.map((item) => (

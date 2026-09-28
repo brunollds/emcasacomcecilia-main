@@ -65,6 +65,15 @@ const yesStyleCluster = {
         { key: 'kbeauty', slug: 'k-beauty-trend-koreanische-marken-kaufen', path: '/de/reviews/k-beauty-trend-koreanische-marken-kaufen' },
       ],
     },
+    it: {
+      hubPath: '/it/coupons/yesstyle',
+      articles: [
+        { key: 'reward', slug: 'codice-ricompensa-yesstyle-cecilia010', path: '/it/reviews/codice-ricompensa-yesstyle-cecilia010' },
+        { key: 'guide', slug: 'come-trovare-codici-sconto-yesstyle-validi', path: '/it/reviews/come-trovare-codici-sconto-yesstyle-validi' },
+        { key: 'trust', slug: 'yesstyle-e-affidabile-e-sicuro', path: '/it/reviews/yesstyle-e-affidabile-e-sicuro' },
+        { key: 'kbeauty', slug: 'k-beauty-tendenza-bellezza-coreana', path: '/it/reviews/k-beauty-tendenza-bellezza-coreana' },
+      ],
+    },
     ko: {
       hubPath: '/ko/coupons/yesstyle',
       articles: [
