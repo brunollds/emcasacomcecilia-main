@@ -50836,6 +50836,190 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+      "local_url": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46400,
+      "sha256": "104e5604c6a779bff5cef62a06dc5e3e8f8a9d75b164faba3bcd6799236cb704",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "abib-adesivo-olhos-hidrogel-pdrn.webp",
+      "storage_filename": "abib-adesivo-olhos-hidrogel-pdrn.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skincare-coreano-30-anos-rotina-iniciante-yesstyle.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skincare-coreano-30-anos-rotina-iniciante-yesstyle.json",
+          "line": 109,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 44420,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/104e5604c6a779bff5cef62a06dc5e3e8f8a9d75b164faba3bcd6799236cb704/abib-adesivo-olhos-hidrogel-pdrn.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/104e5604c6a779bff5cef62a06dc5e3e8f8a9d75b164faba3bcd6799236cb704/abib-adesivo-olhos-hidrogel-pdrn.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-09-28T18:40:28.133Z",
+      "verification_etag_or_digest": "104e5604c6a779bff5cef62a06dc5e3e8f8a9d75b164faba3bcd6799236cb704",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+      "local_url": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64796,
+      "sha256": "e5cb78e990964fb103c0d712bb4bdbab1a350c7dc80f184e624385a2cb4d9db3",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "abib-booster-creme-pdrn-bisnaga.webp",
+      "storage_filename": "abib-booster-creme-pdrn-bisnaga.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skincare-coreano-30-anos-rotina-iniciante-yesstyle.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skincare-coreano-30-anos-rotina-iniciante-yesstyle.json",
+          "line": 131,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 44442,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e5cb78e990964fb103c0d712bb4bdbab1a350c7dc80f184e624385a2cb4d9db3/abib-booster-creme-pdrn-bisnaga.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e5cb78e990964fb103c0d712bb4bdbab1a350c7dc80f184e624385a2cb4d9db3/abib-booster-creme-pdrn-bisnaga.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-09-28T18:40:28.134Z",
+      "verification_etag_or_digest": "e5cb78e990964fb103c0d712bb4bdbab1a350c7dc80f184e624385a2cb4d9db3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+      "local_url": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 70950,
+      "sha256": "621969e753ca566829a737ccd3518ef22701fca87738399ce97d59d16ee8e18c",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "abib-lip-mask-glazed-jelly.webp",
+      "storage_filename": "abib-lip-mask-glazed-jelly.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skincare-coreano-30-anos-rotina-iniciante-yesstyle.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skincare-coreano-30-anos-rotina-iniciante-yesstyle.json",
+          "line": 150,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 44461,
+          "column": 19,
+          "literal": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/621969e753ca566829a737ccd3518ef22701fca87738399ce97d59d16ee8e18c/abib-lip-mask-glazed-jelly.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/621969e753ca566829a737ccd3518ef22701fca87738399ce97d59d16ee8e18c/abib-lip-mask-glazed-jelly.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-09-28T18:40:28.134Z",
+      "verification_etag_or_digest": "621969e753ca566829a737ccd3518ef22701fca87738399ce97d59d16ee8e18c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
+      "local_url": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 111558,
+      "sha256": "b88ecc0db2fcfe57f50fa9622bde683d07d1695a7da134b0e785b3d1016a0758",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "abib-rotina-skincare-cecilia-hero.webp",
+      "storage_filename": "abib-rotina-skincare-cecilia-hero.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/skincare-coreano-30-anos-rotina-iniciante-yesstyle.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/skincare-coreano-30-anos-rotina-iniciante-yesstyle.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 44334,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/abib-rotina-skincare-cecilia-hero.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b88ecc0db2fcfe57f50fa9622bde683d07d1695a7da134b0e785b3d1016a0758/abib-rotina-skincare-cecilia-hero.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b88ecc0db2fcfe57f50fa9622bde683d07d1695a7da134b0e785b3d1016a0758/abib-rotina-skincare-cecilia-hero.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-09-28T18:40:28.134Z",
+      "verification_etag_or_digest": "b88ecc0db2fcfe57f50fa9622bde683d07d1695a7da134b0e785b3d1016a0758",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/universe/damie-hero-cecilia.webp",
       "local_url": "/images/universe/damie-hero-cecilia.webp",
       "media_kind": "image",

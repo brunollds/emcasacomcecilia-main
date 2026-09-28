@@ -99,6 +99,13 @@ const videoPageDefinitions = [
     sourcePath: '/reviews/samsung-lava-seca-13kg-primeiro-uso',
     sourceTitle: 'Minha primeira lava e seca: Samsung 13 kg, unboxing e primeiro uso',
   },
+  {
+    slug: 'rotina-skincare-coreano-30-anos-abib-video',
+    kind: 'youtube',
+    videoId: 'agfG-x5lq1s',
+    sourcePath: '/reviews/skincare-coreano-30-anos-rotina-iniciante-yesstyle',
+    sourceTitle: 'Skincare Coreano aos 30 Anos: Testei uma Rotina de Iniciante com a Abib da YesStyle',
+  },
 ];
 
 function buildVideoPage(definition) {

@@ -84,6 +84,13 @@ export const videoMetadata = {
     description:
       'Unboxing, instalação e primeiro teste prático da lava e seca Samsung 13 kg (WD13FG) na lavanderia com Cecília Mauad: lavagem de toalhas a 60 °C e secagem completa.',
   },
+  'agfG-x5lq1s': {
+    uploadDate: '2026-09-27T18:35:34-07:00',
+    duration: 'PT3M27S',
+    title: 'Testei a Rotina de Skin Care COREANO da YesStyle aos 30 Anos',
+    description:
+      'Primeiro uso de uma rotina de skincare coreano da Abib aos 30 anos: adesivo de hidrogel geladinho para os olhos, creme com retinal de textura aveludada e máscara labial em gel com cheirinho de doce.',
+  },
 };
 
 /**
