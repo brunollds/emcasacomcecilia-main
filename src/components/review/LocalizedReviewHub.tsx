@@ -16,6 +16,7 @@ function formatPublishedAt(review: Review, locale: ReviewHubLocale): string {
 
   return new Intl.DateTimeFormat(LOCALES[locale].htmlLang, {
     dateStyle: 'medium',
+    timeZone: 'UTC',
   }).format(new Date(review.publishedAtISO));
 }
 

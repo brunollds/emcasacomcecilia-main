@@ -8,6 +8,7 @@ import type {
   StructuredIngredientItem,
   StructuredIngredientSection,
 } from './types';
+import { LOCALES, type Locale } from '@/lib/i18n/locales';
 
 /**
  * Converte um ingrediente estruturado em texto legível.
@@ -274,12 +275,12 @@ export function buildSchemaAuthors(
 }
 
 /**
- * Formata uma data ISO 8601 (YYYY-MM-DD) para exibição editorial em pt-BR.
- * Exemplo: "2026-06-11" → "11 de junho de 2026"
+ * Formata uma data ISO 8601 (YYYY-MM-DD) para exibição editorial no idioma do conteúdo.
+ * Exemplo: ("2026-06-11", "pt") → "11 de junho de 2026"; ("2026-06-11", "en") → "June 11, 2026"
  * Retorna a própria string se não for uma data válida.
- * A data é interpretada como local, sem conversão de fuso horário.
+ * A data é tratada como dia civil em UTC, então o fuso do servidor não muda o dia exibido.
  */
-export function formatDate(isoDate: string, locale: string = 'pt-BR'): string {
+export function formatDate(isoDate: string, locale: Locale = 'pt'): string {
   const parts = isoDate.match(/^(\d{4})-(\d{2})-(\d{2})$/);
   if (!parts) return isoDate;
 
@@ -287,20 +288,19 @@ export function formatDate(isoDate: string, locale: string = 'pt-BR'): string {
   const month = Number(parts[2]) - 1;
   const day = Number(parts[3]);
 
-  const date = new Date(year, month, day);
+  const date = new Date(Date.UTC(year, month, day));
   if (
-    Number.isNaN(date.getTime()) ||
-    date.getFullYear() !== year ||
-    date.getMonth() !== month ||
-    date.getDate() !== day
+    date.getUTCFullYear() !== year ||
+    date.getUTCMonth() !== month ||
+    date.getUTCDate() !== day
   ) {
     return isoDate;
   }
 
-  const months = [
-    'janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho',
-    'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro',
-  ];
-
-  return `${day} de ${months[month]} de ${year}`;
+  return date.toLocaleDateString(LOCALES[locale].htmlLang, {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+    timeZone: 'UTC',
+  });
 }

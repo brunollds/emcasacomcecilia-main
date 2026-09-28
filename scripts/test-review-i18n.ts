@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
 
-import { detectDuplicateReviewPathnames, getReviewDefaultTranslationPathname, groupReviewsByTranslationKey, detectDuplicateTranslationLocalePairs, getReviewTranslationsByLocale, isValidTranslationKey, resolveReviewLocale } from '@/lib/content';
+import { detectDuplicateReviewPathnames, formatDate, getReviewDefaultTranslationPathname, groupReviewsByTranslationKey, detectDuplicateTranslationLocalePairs, getReviewTranslationsByLocale, isValidTranslationKey, resolveReviewLocale } from '@/lib/content';
 import { LOCALE_KEYS } from '@/lib/i18n/locales';
 import { resolveRelatedArticleLinks } from '@/lib/review-template-props';
 
@@ -186,6 +186,12 @@ async function loadReviewCorpus(): Promise<ReviewSource[]> {
       );
     }
   }
+
+  // A data do cabeçalho segue o idioma do artigo; antes os artigos EN saíam "2 de agosto de 2026".
+  assert.equal(formatDate('2026-08-02'), '2 de agosto de 2026');
+  assert.equal(formatDate('2026-08-02', 'en'), 'August 2, 2026');
+  assert.equal(formatDate('2026-08-02', 'de'), '2. August 2026');
+  assert.equal(formatDate('2026-02-30', 'en'), '2026-02-30', 'data impossível volta crua');
 
   console.log(
     `✅ test-review-i18n: ${translatedReviews.length} versões traduzidas em ${Object.keys(translatedGroups).length} translationKeys (baseline 4 famílias com ${LOCALE_KEYS.length} locales)`
