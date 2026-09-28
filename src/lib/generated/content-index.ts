@@ -37217,6 +37217,13 @@ export const reviewsData: unknown[] = [
     "metaDescription": "A YesStyle é confiável? Veja dados públicos da empresa, autorização de marcas coreanas, política de envios, impostos e o que observar antes de comprar.",
     "publishedAt": "2 de agosto de 2026",
     "publishedAtISO": "2026-08-02",
+    "updatedAt": "2026-09-28",
+    "changelog": [
+      {
+        "date": "2026-09-28",
+        "text": "Envios ao Brasil retomados; incluída a política de reembolso de taxas alfandegárias da YesStyle e retirada a menção ao Remessa Conforme."
+      }
+    ],
     "draft": false,
     "isNew": false,
     "imageFit": "cover",
@@ -37249,7 +37256,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
-          "O site da YesStyle oferece navegação em português e checkout em múltiplas formas de pagamento (cartão de crédito, PayPal). Historicamente, o frete grátis para o Brasil vale em compras acima de US$ 59 pelo método padrão de entrega internacional — mas, em 2 de agosto de 2026, os envios ao Brasil continuavam suspensos (veja a seção 'O que observar antes de comprar').",
+          "O site da YesStyle oferece navegação em português e checkout em múltiplas formas de pagamento (cartão de crédito, PayPal). Os envios ao Brasil, que ficaram suspensos em agosto de 2026, voltaram (situação confirmada em setembro de 2026). Historicamente, o frete grátis para o Brasil vale em compras acima de US$ 59 pelo método padrão de entrega internacional — confira no carrinho o valor mínimo atual.",
           "O prazo de entrega e o valor do frete variam conforme o país de destino, o método de envio escolhido e a disponibilidade dos produtos no momento da expedição — consulte a estimativa exata no carrinho antes de finalizar. Para devoluções de itens elegíveis na embalagem original, a solicitação pode ser feita via formulário de autorização (RMA) no atendimento oficial. O suporte ao cliente pode ser contatado via chat e e-mail no site oficial."
         ],
         "bullets": [],
@@ -37264,7 +37271,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Confirme se está no domínio oficial (yesstyle.com) antes de inserir dados de pagamento. O checkout seguro deve iniciar com 'https://'.",
-          "A YesStyle não participa do programa Remessa Conforme (informação verificada em julho de 2026). Em 2 de agosto de 2026, os envios para o Brasil continuavam suspensos. Isso pode mudar a qualquer momento, então, antes de montar o carrinho, confira no próprio site se o envio ao Brasil está disponível para o seu CEP. Fora do Remessa Conforme, os impostos de importação e o ICMS não vêm calculados no checkout — a cobrança pode chegar depois, via Correios ou transportadora, na liberação do pacote.",
+          "Os envios para o Brasil ficaram suspensos em agosto de 2026 e voltaram (situação confirmada em setembro de 2026). Antes de montar o carrinho, confira no próprio site se o envio está disponível para o seu CEP. Se houver cobrança de impostos de importação, ela pode chegar na liberação do pacote, via Correios ou transportadora. A YesStyle reembolsa essas taxas alfandegárias em pedidos abaixo de US$ 1.000 (valor antes dos cupons, sem o frete): pague a cobrança, guarde o comprovante e envie ao atendimento da loja em até 30 dias. O reembolso vem em crédito na YesStyle.",
           "Leia atentamente as descrições dos produtos, incluindo dimensões, materiais, e instruções de cuidado — padrões de beleza asiáticos podem diferir dos locais (ex: tamanho de embalagem, concentração de princípios ativos).",
           "Verifique o prazo de entrega estimado no carrinho para seu CEP. Regiões mais distantes podem ter prazos estendidos.",
           "Mantenha o comprovante de pagamento, o número de pedido e o código de rastreamento para acompanhamento e eventual recurso em caso de problemas.",
@@ -37284,14 +37291,14 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A YesStyle é confiável ou é um site falso? A YesStyle é legítima. É uma empresa fundada em 2006 com sede em Hong Kong, subsidiária da YesAsia Holdings Limited, listada na bolsa de Hong Kong (2209.HK), e se apresenta como distribuidora autorizada das marcas que vende.",
           "YesStyle vende produtos autênticos? A YesStyle declara ser distribuidora autorizada de mais de 400 marcas de beleza coreana, comprando diretamente das fabricantes ou de distribuidores parceiros oficiais.",
-          "Qual o prazo de entrega da YesStyle para o Brasil? Quando os envios ao Brasil estão ativos, o prazo padrão é de 10 a 25 dias úteis, dependendo do método e da localização. Atenção: em 2 de agosto de 2026 os envios para o Brasil continuavam suspensos — confira no site se já voltaram antes de planejar a compra.",
-          "YesStyle cobra impostos de importação para o Brasil? A YesStyle não participa do Remessa Conforme (verificado em julho de 2026), então os impostos de importação e o ICMS não vêm calculados no checkout — quando há cobrança, ela acontece na chegada do pacote, via Correios ou transportadora. As alíquotas dependem do valor do pedido e do estado e mudam com o tempo.",
+          "Qual o prazo de entrega da YesStyle para o Brasil? O prazo padrão é de 10 a 25 dias úteis, dependendo do método e da localização. Os envios ao Brasil voltaram (situação confirmada em setembro de 2026); confira no carrinho a estimativa para o seu CEP.",
+          "YesStyle cobra impostos de importação para o Brasil? Pode haver cobrança de impostos na chegada do pacote, via Correios ou transportadora; as alíquotas dependem do valor do pedido e do estado e mudam com o tempo. A YesStyle reembolsa essas taxas alfandegárias em pedidos abaixo de US$ 1.000 (valor antes dos cupons, sem o frete): pague a cobrança, guarde o comprovante e envie ao atendimento da loja em até 30 dias. O reembolso vem em crédito na YesStyle.",
           "O código CECILIA010 muda o preço final do produto? Não. O código CECILIA010 oferece até 5% extra (5% 1ª compra, 2% recorrente) como benefício da parceria, sem custo adicional para o leitor.",
           "Como funciona a devolução na YesStyle? A solicitação de devolução é feita via formulário de autorização (RMA) no atendimento ao cliente. Produtos elegíveis não violados podem ser devolvidos para reembolso em crédito na loja ou estorno conforme a política vigente do produto.",
           "A YesStyle aceita qual forma de pagamento? Cartão de crédito internacional, PayPal e, em alguns países, localWallets. Todos os pedidos são processados em USD.",
           "YesStyle é seguro para inserir dados de cartão? Sim, o site utiliza conexão HTTPS segura e processa pagamentos via gateways certificados internacionais. Nunca insira dados sensíveis fora do checkout oficial.",
           "Qual é o domínio oficial da YesStyle? O domínio oficial é yesstyle.com (com idioma português disponível selecionando no site). Cuidado com sites falsos ou revendedores não autorizados.",
-          "YesStyle oferece frete grátis para o Brasil? Historicamente sim, em compras acima de US$ 59 pelo método padrão — mas isso só vale quando os envios ao Brasil estão ativos (ainda suspensos em 2 de agosto de 2026; confira o status atual no site).",
+          "YesStyle oferece frete grátis para o Brasil? Historicamente sim, em compras acima de US$ 59 pelo método padrão. Com os envios ao Brasil de volta (situação confirmada em setembro de 2026), confira no carrinho o valor mínimo atual.",
           "Como usar o código CECILIA010 na YesStyle? Digite CECILIA010 no campo 'Código de Recompensa' (Reward Code) durante o checkout. Este campo é separado do campo de cupom, e ambos podem ser usados simultaneamente."
         ]
       }
