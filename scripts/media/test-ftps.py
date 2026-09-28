@@ -12,7 +12,8 @@ from pathlib import Path
 from dotenv import dotenv_values
 
 IP = '46.202.145.2'
-TLS_NAME = 'hostinger.com'
+# Nome validado no certificado do IP fixo; a Hostinger trocou para *.hstgr.io em 13/08/2026.
+TLS_NAME = 'hstgr.io'
 USER = 'u150185510.cdnupload'
 PARENT = '/home/u150185510/domains/cdn.emcasacomcecilia.com'
 

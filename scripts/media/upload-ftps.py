@@ -19,7 +19,8 @@ MANIFEST = ROOT / 'data' / 'media-manifest.json'
 CDN = 'https://cdn.emcasacomcecilia.com'
 PARENT = '/home/u150185510/domains/cdn.emcasacomcecilia.com'
 IP = '46.202.145.2'
-TLS_NAME = 'hostinger.com'
+# Nome validado no certificado do IP fixo; a Hostinger trocou para *.hstgr.io em 13/08/2026.
+TLS_NAME = 'hstgr.io'
 USER = 'u150185510.cdnupload'
 LOCK = '.editorial-upload-lock'
 HEX = re.compile(r'^[0-9a-f]{64}$')
