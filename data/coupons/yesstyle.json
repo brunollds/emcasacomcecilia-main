@@ -262,6 +262,32 @@
       "Use no campo Coupon Code; não pode ser combinado com outro cupom promocional.",
       "O site oficial exibe a promoção GLOW15 como válida por tempo limitado; confirme a contagem regressiva e a elegibilidade no checkout."
     ],
+    "status": "expired",
+    "regions": ["GLOBAL"]
+  },
+  {
+    "id": "save26-promo",
+    "code": "SAVE26",
+    "type": "coupon",
+    "discount": {
+      "kind": "text",
+      "label": "8–15% OFF"
+    },
+    "startsAt": "2026-09-29",
+    "expiresAt": "2026-10-01",
+    "verifiedAt": "2026-09-29",
+    "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2879",
+    "affiliateUrl": "https://ystyle.co/rQYQv",
+    "eligibility": [
+      "8% OFF em pedidos a partir de US$ 79",
+      "10% OFF em pedidos a partir de US$ 149",
+      "15% OFF em pedidos a partir de US$ 199"
+    ],
+    "restrictions": [
+      "Válido de 29/09/2026 às 00:00 GMT a 01/10/2026 às 23:59 GMT para membros YesStyle.",
+      "Use no campo Coupon Code; pode ser combinado com preços promocionais existentes, Reward Code e YS Points, mas apenas um cupom por pedido.",
+      "O desconto é aplicado aos preços dos produtos; alguns produtos podem não ser elegíveis."
+    ],
     "status": "active",
     "regions": ["GLOBAL"]
   }
