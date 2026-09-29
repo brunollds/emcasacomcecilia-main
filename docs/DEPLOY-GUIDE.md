@@ -136,6 +136,20 @@ mostra o delta completo entre o SHA atestado em produção e o candidato, incorp
 `release-meta.json` e aplica a mesma política de 47/49 MB sobre o archive final exato. Não substituir erro por
 aviso e não montar pacote manualmente.
 
+Rodar o `deploy:prepare` num clone limpo da `main` e pelo PowerShell. No Git Bash o `tar` do Git
+lê `C:\...` como `host:caminho` e o passo 4 (archive) falha com `Cannot connect to C: resolve
+failed`; o PowerShell usa o `tar.exe` do Windows, que aceita o caminho.
+
+**Compilador: Webpack.** O script `build` usa `next build --webpack` desde `7097f8a` (29/09/2026).
+Duas tentativas de build na Hostinger terminaram em panic do Turbopack ao processar `globals.css`
+(`Failed to write app endpoint /sitemap/route`) no `05d9cc7`, que só mudava o JSON de cupons; com
+o mesmo conteúdo e `--webpack` (`7097f8a`) o build passou. O build gerenciado
+só roda o script `build` (a Hostinger resolve `build_script: build` sozinha), então não existe
+comando separado para ela: local e remoto usam o mesmo compilador, e o build testado aqui é o que vai
+ao ar. Na véspera o Turbopack tinha passado na Hostinger (`374dfac`), então a falha é intermitente e
+sem causa conhecida. Não voltar ao Turbopack sem investigar o panic: não há build remoto de teste,
+todo build da Hostinger publica em produção.
+
 Depois que o MCP informar `completed`, registrar o build UUID e verificar as três identidades:
 
 ```bash
