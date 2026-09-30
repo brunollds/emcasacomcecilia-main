@@ -52019,6 +52019,236 @@
       "verified_at": "2026-09-30T03:56:42.555Z",
       "verification_etag_or_digest": "3354aeb34baf192a10b7a22e7ca7f216fb082a597d3ce177a02dc456bf108549",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/sleepspray-kidz-aplicacao-travesseiro.webp",
+      "local_url": "/images/reviews/iwannasleep/sleepspray-kidz-aplicacao-travesseiro.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 228930,
+      "sha256": "c921fbd0837bd1f96240cb1bdcecbf5ddf1da8368fac117655ee49cc6f7e649c",
+      "width": 1600,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sleepspray-kidz-aplicacao-travesseiro.webp",
+      "storage_filename": "sleepspray-kidz-aplicacao-travesseiro.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sleepspray-kidz-iws-como-funciona-ritual-do-sono.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sleepspray-kidz-iws-como-funciona-ritual-do-sono.json",
+          "line": 106,
+          "column": 17,
+          "literal": "/images/reviews/iwannasleep/sleepspray-kidz-aplicacao-travesseiro.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 48311,
+          "column": 19,
+          "literal": "/images/reviews/iwannasleep/sleepspray-kidz-aplicacao-travesseiro.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c921fbd0837bd1f96240cb1bdcecbf5ddf1da8368fac117655ee49cc6f7e649c/sleepspray-kidz-aplicacao-travesseiro.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c921fbd0837bd1f96240cb1bdcecbf5ddf1da8368fac117655ee49cc6f7e649c/sleepspray-kidz-aplicacao-travesseiro.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-09-30T20:15:30.026Z",
+      "verification_etag_or_digest": "c921fbd0837bd1f96240cb1bdcecbf5ddf1da8368fac117655ee49cc6f7e649c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/sleepspray-kidz-crianca-dormindo-sono-tranquilo.webp",
+      "local_url": "/images/reviews/iwannasleep/sleepspray-kidz-crianca-dormindo-sono-tranquilo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 185430,
+      "sha256": "d1f090ef9e159420fb2a7a439f47951707b645e00de90413c249531cf88564fb",
+      "width": 1600,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sleepspray-kidz-crianca-dormindo-sono-tranquilo.webp",
+      "storage_filename": "sleepspray-kidz-crianca-dormindo-sono-tranquilo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sleepspray-kidz-iws-como-funciona-ritual-do-sono.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sleepspray-kidz-iws-como-funciona-ritual-do-sono.json",
+          "line": 49,
+          "column": 17,
+          "literal": "/images/reviews/iwannasleep/sleepspray-kidz-crianca-dormindo-sono-tranquilo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 48254,
+          "column": 19,
+          "literal": "/images/reviews/iwannasleep/sleepspray-kidz-crianca-dormindo-sono-tranquilo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d1f090ef9e159420fb2a7a439f47951707b645e00de90413c249531cf88564fb/sleepspray-kidz-crianca-dormindo-sono-tranquilo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d1f090ef9e159420fb2a7a439f47951707b645e00de90413c249531cf88564fb/sleepspray-kidz-crianca-dormindo-sono-tranquilo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-09-30T20:15:30.026Z",
+      "verification_etag_or_digest": "d1f090ef9e159420fb2a7a439f47951707b645e00de90413c249531cf88564fb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/sleepspray-kidz-hero.webp",
+      "local_url": "/images/reviews/iwannasleep/sleepspray-kidz-hero.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 122436,
+      "sha256": "54c0f1dc5091e077b4890be1a1f6beb946f052358dbc6e76d17f51fce31120da",
+      "width": 1600,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sleepspray-kidz-hero.webp",
+      "storage_filename": "sleepspray-kidz-hero.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sleepspray-kidz-iws-como-funciona-ritual-do-sono.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sleepspray-kidz-iws-como-funciona-ritual-do-sono.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/sleepspray-kidz-hero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 48227,
+          "column": 15,
+          "literal": "/images/reviews/iwannasleep/sleepspray-kidz-hero.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/54c0f1dc5091e077b4890be1a1f6beb946f052358dbc6e76d17f51fce31120da/sleepspray-kidz-hero.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/54c0f1dc5091e077b4890be1a1f6beb946f052358dbc6e76d17f51fce31120da/sleepspray-kidz-hero.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-09-30T20:15:30.026Z",
+      "verification_etag_or_digest": "54c0f1dc5091e077b4890be1a1f6beb946f052358dbc6e76d17f51fce31120da",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/sleepspray-kidz-historia-antes-de-dormir.webp",
+      "local_url": "/images/reviews/iwannasleep/sleepspray-kidz-historia-antes-de-dormir.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 120190,
+      "sha256": "f4752bc411cab994450914134a36aec2246313c4be038d918b300dd35c5a1181",
+      "width": 1600,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sleepspray-kidz-historia-antes-de-dormir.webp",
+      "storage_filename": "sleepspray-kidz-historia-antes-de-dormir.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sleepspray-kidz-iws-como-funciona-ritual-do-sono.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sleepspray-kidz-iws-como-funciona-ritual-do-sono.json",
+          "line": 122,
+          "column": 17,
+          "literal": "/images/reviews/iwannasleep/sleepspray-kidz-historia-antes-de-dormir.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 48327,
+          "column": 19,
+          "literal": "/images/reviews/iwannasleep/sleepspray-kidz-historia-antes-de-dormir.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f4752bc411cab994450914134a36aec2246313c4be038d918b300dd35c5a1181/sleepspray-kidz-historia-antes-de-dormir.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f4752bc411cab994450914134a36aec2246313c4be038d918b300dd35c5a1181/sleepspray-kidz-historia-antes-de-dormir.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-09-30T20:15:30.026Z",
+      "verification_etag_or_digest": "f4752bc411cab994450914134a36aec2246313c4be038d918b300dd35c5a1181",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/sleepspray-kidz-ingredientes-naturais.webp",
+      "local_url": "/images/reviews/iwannasleep/sleepspray-kidz-ingredientes-naturais.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 148832,
+      "sha256": "c5ff92458f325e75a68deb3792c49fde0791578959fa5e5e00b15b90e4d2ca31",
+      "width": 1600,
+      "height": 1600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "sleepspray-kidz-ingredientes-naturais.webp",
+      "storage_filename": "sleepspray-kidz-ingredientes-naturais.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/sleepspray-kidz-iws-como-funciona-ritual-do-sono.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/sleepspray-kidz-iws-como-funciona-ritual-do-sono.json",
+          "line": 67,
+          "column": 17,
+          "literal": "/images/reviews/iwannasleep/sleepspray-kidz-ingredientes-naturais.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 48272,
+          "column": 19,
+          "literal": "/images/reviews/iwannasleep/sleepspray-kidz-ingredientes-naturais.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c5ff92458f325e75a68deb3792c49fde0791578959fa5e5e00b15b90e4d2ca31/sleepspray-kidz-ingredientes-naturais.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c5ff92458f325e75a68deb3792c49fde0791578959fa5e5e00b15b90e4d2ca31/sleepspray-kidz-ingredientes-naturais.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-09-30T20:15:30.026Z",
+      "verification_etag_or_digest": "c5ff92458f325e75a68deb3792c49fde0791578959fa5e5e00b15b90e4d2ca31",
+      "verification_status": "verified"
     }
   ]
 }
