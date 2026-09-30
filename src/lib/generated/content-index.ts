@@ -47874,5 +47874,253 @@ export const reviewsData: unknown[] = [
         "title": "Dolce Gusto Genio S Basic vs Plus vs Touch: Qual a Diferença?"
       }
     ]
+  },
+  {
+    "id": 314,
+    "slug": "sleepspray-kidz-iws-como-funciona-ritual-do-sono",
+    "title": "SleepSpray Kidz IWS: Como Funciona o Spray para Travesseiro e o Ritual do Sono Infantil",
+    "seoTitle": "SleepSpray Kidz IWS: Como Funciona e Ritual do Sono Infantil",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que o SleepSpray Kidz da IWS é de fato: composição do rótulo, sem melatonina, indicado a partir de 2 anos, como usar (1 a 3 borrifadas), um ritual do sono em 4 passos e o que a ciência sustenta e o que não.",
+    "metaDescription": "SleepSpray Kidz IWS: spray de travesseiro com lavanda, camomila e laranja doce, sem melatonina, para crianças a partir de 2 anos. Como usar, ritual do sono em 4 passos, diferença para o adulto e cupom.",
+    "publishedAt": "29 de setembro de 2026",
+    "publishedAtISO": "2026-09-29",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/iwannasleep/sleepspray-kidz-hero.webp",
+    "imageAlt": "Frasco e caixa do SleepSpray Kidz da I Wanna Sleep sobre fundo rosa, com nuvem, lua e blocos de brinquedo",
+    "imageFit": "cover",
+    "imageAspect": "square",
+    "pros": [
+      "Sem álcool, melatonina e parabenos, segundo o rótulo e a página oficial; a marca também informa que é dermatologicamente testado e vegano",
+      "Indicado pela marca para crianças a partir de 2 anos, para uso em tecido e ambiente (não na pele)",
+      "Aroma suave que pode virar um marcador do ritual de dormir, sem depender de remédio",
+      "Uso simples: 1 a 3 borrifadas alguns minutos antes de deitar",
+      "Teste de 30 dias com crédito para troca (compras no site oficial) e 10% OFF com o cupom CECIEMCASA"
+    ],
+    "cons": [
+      "É um cosmético: a própria marca diz que não é medicamento e não tem efeito farmacológico, então o efeito depende do ritual",
+      "A evidência de que aroma de lavanda melhore o sono de crianças é limitada",
+      "A fórmula tem fragrância e componentes alergênicos (linalol, limoneno, geraniol, cânfora e mentol na lista de ingredientes); atenção a criança com asma, rinite ou pele sensível",
+      "R$ 117,00 por 60 ml, e a marca não informa quantas noites um frasco rende"
+    ],
+    "contentSections": [
+      {
+        "heading": "Por que a criança não \"desliga\" na hora de dormir",
+        "paragraphs": [
+          "São nove da noite, a louça ainda está na pia e o seu filho parece ter acabado de tomar uma dose dupla de energia. Ele corre pelo corredor, pede um copo d'água, lembra de uma história da escola e inventa uma brincadeira nova justamente quando tudo o que você queria era silêncio. É a famosa \"batalha do sono\", e quase toda família com criança pequena conhece.",
+          "Criança não funciona como interruptor. O sono pede uma transição: baixar a luz, o barulho e o ritmo aos poucos. Sem essa rampa, é comum a criança passar do ponto de cansaço e ficar mais agitada, não mais calma. Pediatras e especialistas em sono descrevem isso como o cansaço que vira hiperatividade (o \"overtired\").",
+          "Duas coisas ajudam a explicar. A primeira é a luz: luz forte e telas à noite atrasam a liberação de melatonina, o hormônio que sinaliza a noite ao corpo, e há estudos indicando que crianças são mais sensíveis a esse efeito do que adultos. A segunda é a previsibilidade: repetir na mesma ordem os passos de antes de dormir (luz baixa, banho, pijama, história) ensina o cérebro a reconhecer o que vem depois, e rotina consistente é uma das recomendações mais repetidas para o sono infantil.",
+          "É nesse ponto que entra o cheiro. O olfato tem ligação direta com áreas do cérebro ligadas à emoção e à memória, e um aroma que aparece sempre no mesmo momento pode virar um marcador da rotina, como uma canção de ninar. Vale ser honesta: isso é associação por repetição, não um efeito sedativo comprovado do produto. A página da IWS não cita estudos clínicos sobre o SleepSpray Kidz."
+        ],
+        "bullets": [],
+        "image": "/images/reviews/iwannasleep/sleepspray-kidz-crianca-dormindo-sono-tranquilo.webp",
+        "imageAlt": "Criança dormindo de lado em um travesseiro I Wanna Sleep, abraçada a um panda e a uma ovelha de pelúcia",
+        "imageCaption": "Imagem de divulgação da I Wanna Sleep. Ilustra o ambiente de sono e não mostra um resultado comprovado do spray.",
+        "imageFit": "square"
+      },
+      {
+        "heading": "O que é o SleepSpray Kidz: a ficha do rótulo e da página oficial",
+        "paragraphs": [
+          "Na embalagem, o produto se apresenta como \"água funcional perfumada para travesseiros\", em frasco de 60 ml com válvula spray. Na página oficial, a IWS o descreve como um spray aromático com camomila, lavanda e laranja doce para ajudar a criança a desacelerar, e o FAQ da loja diz que ele não é medicamento e não tem efeito farmacológico.",
+          "Em outras palavras: é um perfume de cama pensado para criança, não um remédio para dormir. Estas são as informações que a marca publica:"
+        ],
+        "bullets": [
+          "Formato: 60 ml, em spray, para travesseiro, lençol e ambiente (não é para a pele);",
+          "Indicação: crianças a partir de 2 anos;",
+          "Alegações da marca: 100% livre de álcool, melatonina e parabenos; dermatologicamente testado; vegano;",
+          "Validade: 36 meses a partir da fabricação;",
+          "Preço na loja oficial: R$ 117,00 (consultado em 29/09/2026)."
+        ],
+        "image": "/images/reviews/iwannasleep/sleepspray-kidz-ingredientes-naturais.webp",
+        "imageAlt": "Frasco do SleepSpray Kidz cercado por lavanda, camomila e laranja doce sobre fundo rosa",
+        "imageCaption": "Imagem de divulgação da I Wanna Sleep, com o frasco de 60 ml e as três notas do aroma.",
+        "imageFit": "square"
+      },
+      {
+        "heading": "Lavanda, camomila e laranja doce: o que a ciência sustenta e o que é aroma",
+        "paragraphs": [
+          "A lista de ingredientes (INCI) do site traz água, propanodiol, glicerina, extrato de flor de camomila, óleo de flor de lavanda-inglesa, extrato de lavanda, óleo da casca de laranja doce, conservantes (benzoato de sódio, sorbato de potássio e ácido benzoico), um tensoativo (cocamidopropil betaína) e perfume. Ou seja: a camomila entra como extrato, os óleos são de lavanda e de laranja doce, e há fragrância na fórmula.",
+          "O que cada nota costuma prometer, e o quanto isso se sustenta:",
+          "Na prática, o valor do produto está mais na combinação de aroma agradável com repetição do que em um efeito químico de cada planta.",
+          "Atenção à fragrância: a lista inclui componentes como linalol, limoneno, geraniol, cânfora e mentol, comuns em óleos essenciais e perfumes e que podem irritar as vias aéreas ou causar reação em pessoas sensíveis. Se a criança tem asma, rinite alérgica ou dermatite atópica, converse com o pediatra antes de usar e comece com uma única borrifada."
+        ],
+        "bullets": [
+          "Lavanda: é o aroma mais estudado para relaxamento. As pesquisas com lavanda aromática costumam ser pequenas, em sua maioria com adultos, e apontam efeito modesto na qualidade do sono. Para crianças a evidência é limitada, e não há base para prometer que o spray encurta o tempo de adormecer;",
+          "Camomila: associada ao acolhimento e ao chá de antes de dormir. Aqui ela vem como extrato num spray de tecido, e não há estudo que sustente alívio de cólica ou de dentição por aroma. Quem tem alergia a plantas da família da margarida (Asteraceae) deve ter atenção;",
+          "Laranja doce: um cítrico macio e adocicado, agradável e familiar para muitas crianças. É um aroma de conforto; não há evidência de que ele reduza medo do escuro ou angústia de separação."
+        ]
+      },
+      {
+        "heading": "\"Melatonin free\": o que o selo significa e o que não significa",
+        "paragraphs": [
+          "O selo \"melatonin free\" quer dizer que o produto não tem melatonina. O SleepSpray adulto da IWS, por outro lado, lista melatonina na composição. A diferença importa porque melatonina é um hormônio, e o uso em crianças deve passar por orientação médica.",
+          "O selo não faz do Kidz um produto \"melhor\" nem \"inofensivo\": significa apenas que ele não atua por hormônio e depende do aroma e da rotina. Também não é motivo para borrifar o spray adulto no quarto da criança."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Como usar: 1 a 3 borrifadas, alguns minutos antes de deitar",
+        "paragraphs": [
+          "A orientação da marca é borrifar de 1 a 3 vezes no travesseiro, no lençol ou no ambiente do quarto, alguns minutos antes de a criança se deitar. A embalagem não especifica distância nem tempo exato; os itens marcados como \"nossa sugestão\" são bom senso para não molhar o tecido."
+        ],
+        "bullets": [
+          "Quantidade: comece com 1 borrifada e vá até 3, no máximo, como a marca indica. Mais borrifadas não deixam a criança mais calma, só deixam o cheiro mais forte;",
+          "Onde: no travesseiro (na parte de cima, longe do rosto), no lençol ou no ar do quarto. Nossa sugestão: borrifar a uns 20 a 30 cm para a névoa se espalhar sem encharcar o tecido;",
+          "Quando: alguns minutos antes de deitar, com a criança fora da cama. Nossa sugestão: 10 a 15 minutos, enquanto ela escova os dentes, para o tecido secar;",
+          "Cuidados da marca: não usar em pele irritada ou lesionada, não ingerir, evitar contato com olhos, boca e mucosas, e guardar em local fresco, ao abrigo de luz intensa e fora do alcance de crianças;",
+          "Naninha e pelúcia: a marca fala em travesseiro, lençol e ambiente. Se quiser borrifar o objeto de apego, faça longe da criança, deixe secar por completo e evite as partes que ela põe na boca."
+        ],
+        "image": "/images/reviews/iwannasleep/sleepspray-kidz-aplicacao-travesseiro.webp",
+        "imageAlt": "Mão borrifando o SleepSpray Kidz sobre um travesseiro infantil, com uma pelúcia de panda e uma de ovelha ao lado",
+        "imageCaption": "Imagem de divulgação da I Wanna Sleep. A distância mostrada é ilustrativa; siga a orientação do rótulo.",
+        "imageFit": "square"
+      },
+      {
+        "heading": "Roteiro prático de 20 minutos para a hora de dormir",
+        "paragraphs": [
+          "O spray é só uma peça. O que costuma funcionar é a sequência repetida, sempre na mesma ordem. O roteiro abaixo é uma sugestão editorial baseada em recomendações gerais de higiene do sono infantil, não um protocolo da marca; ajuste aos horários da sua casa."
+        ],
+        "bullets": [
+          "Passo 1, luz e telas (30 a 40 minutos antes): desligue TV, tablets e celulares e troque a luz branca do teto por uma iluminação indireta e amarelada;",
+          "Passo 2, banho e pijama (cerca de 10 minutos): banho morno, pijama confortável e dentes escovados;",
+          "Passo 3, preparo da cama (2 minutos): 1 a 3 borrifadas no travesseiro e no lençol e um convite calmo para deitar;",
+          "Passo 4, aconchego (8 a 10 minutos): uma história curta em voz baixa, uma canção de ninar ou um cafuné até a respiração desacelerar."
+        ],
+        "image": "/images/reviews/iwannasleep/sleepspray-kidz-historia-antes-de-dormir.webp",
+        "imageAlt": "Pai e mãe lendo um livro de histórias para o filho na cama, com luz de abajur acesa e o frasco do SleepSpray Kidz na mesa de cabeceira",
+        "imageCaption": "Imagem de divulgação da I Wanna Sleep: luz baixa e uma história calma fazem parte do ritual.",
+        "imageFit": "square"
+      },
+      {
+        "heading": "SleepSpray Kidz x SleepSpray adulto: o que muda",
+        "paragraphs": [
+          "Dá para borrifar o SleepSpray adulto no travesseiro do seu filho? Pelas páginas oficiais, não é o indicado: o adulto tem melatonina na composição e a página dele não traz faixa etária nem orientação para crianças. O Kidz foi feito e é indicado para crianças a partir de 2 anos.",
+          "A comparação abaixo usa só o que as páginas oficiais da IWS informam (consultadas em 29/09/2026)."
+        ],
+        "bullets": [],
+        "comparisonTable": {
+          "caption": "SleepSpray Kidz x SleepSpray adulto, segundo as páginas oficiais da IWS",
+          "headers": [
+            "Critério",
+            "SleepSpray Kidz",
+            "SleepSpray adulto (IWS)"
+          ],
+          "rows": [
+            [
+              "Público",
+              "Crianças a partir de 2 anos (indicação da marca)",
+              "Adultos; a página não informa faixa etária"
+            ],
+            [
+              "Melatonina",
+              "Não (100% livre)",
+              "Sim (a página não informa a concentração)"
+            ],
+            [
+              "Ingredientes principais",
+              "Camomila (extrato), lavanda (óleo e extrato) e óleo de laranja doce",
+              "Óleo essencial de lavanda, óleos botânicos e melatonina"
+            ],
+            [
+              "Uso indicado",
+              "1 a 3 borrifadas no travesseiro, lençol ou ambiente, minutos antes de deitar",
+              "Em roupa de cama ou ambiente até 15 minutos antes de deitar, com dosagem ao gosto"
+            ],
+            [
+              "Preço (60 ml)",
+              "R$ 117,00",
+              "R$ 127,00"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Preço, kits e garantia de 30 dias",
+        "paragraphs": [
+          "O frasco de 60 ml custa R$ 117,00 no site oficial (consultado em 29/09/2026). Há kits: 3 frascos por R$ 234,00 (compre 2, leve 3) e 5 frascos por R$ 351,00 (compre 3, leve 5). O frete é grátis acima de R$ 150,00.",
+          "Quanto rende? A marca não informa quantas borrifadas ou noites um frasco entrega, então não dá para prometer um custo por noite. Só como referência: se você usar 2 borrifadas por noite e o frasco durasse 2 meses (hipótese nossa, não dado da marca), o gasto ficaria perto de R$ 2 por noite. Anote a data em que abrir o frasco para medir na sua casa.",
+          "A garantia funciona assim: a IWS oferece o \"Teste de 30 dias\". Se a criança não se adaptar, você recebe um crédito para trocar por outro produto do site, e a condição vale para compras feitas na loja oficial. É crédito de troca, não reembolso em dinheiro.",
+          "O código CECIEMCASA dá 10% OFF em compras no site da IWS. A loja pode mudar as regras por campanha, então confirme o valor final no carrinho antes de pagar, inclusive se o desconto soma com kits ou promoções."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Vale a pena? Nosso veredito",
+        "paragraphs": [
+          "Não testamos o SleepSpray Kidz. Este guia se baseia no rótulo, na página oficial e em recomendações gerais de sono infantil, por isso não dizemos que ele \"funciona\": dizemos em que situação ele faz sentido.",
+          "Faz sentido se você já tem (ou quer montar) uma rotina de dormir, gosta da ideia de um marcador de cheiro suave, aceita gastar R$ 117,00 com um item de conforto e a criança não tem alergia respiratória. É um jeito simples de repetir um sinal sensorial no fim do dia.",
+          "Não faz sentido se a expectativa é um produto que faça a criança dormir sozinha com as telas ligadas e o horário desorganizado, nem como tratamento para insônia. Para despertares frequentes, ronco, respiração pela boca, terror noturno ou sonolência excessiva de dia, procure o pediatra: o problema pode não ser de rotina.",
+          "O que há de mais sólido neste guia não está no frasco: luz baixa, sem telas, horários regulares, banho e um momento calmo com um adulto. O spray é o marcador; o ritual é o que faz o trabalho."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Onde comprar e usar o cupom CECIEMCASA",
+        "paragraphs": [
+          "O SleepSpray Kidz é vendido na loja online oficial da I Wanna Sleep. No carrinho, aplique o código CECIEMCASA para 10% OFF e confira o valor final antes de pagar."
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "Guia de cupons e regras do cupom CECIEMCASA na I Wanna Sleep",
+            "href": "/cupons/i-wanna-sleep"
+          },
+          {
+            "label": "Ver SleepSpray Kidz na loja oficial I Wanna Sleep",
+            "href": "https://www.iwannasleep.com.br/products/sleepspray-kidz",
+            "sponsored": true
+          },
+          {
+            "label": "Qual travesseiro escolher? O guia das linhas da I Wanna Sleep",
+            "href": "/reviews/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep"
+          },
+          {
+            "label": "Qual cobertor escolher? Guia das linhas Igloo, Huggy, Puffer e Cozy",
+            "href": "/reviews/qual-cobertor-escolher-guia-linhas-i-wanna-sleep"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas Frequentes sobre o SleepSpray Kidz",
+        "bullets": [
+          "A partir de que idade posso usar o SleepSpray Kidz? A IWS indica o produto para crianças a partir de 2 anos. Para menores de 2 anos a página não traz orientação, então converse com o pediatra antes de usar qualquer aroma no quarto de um bebê.",
+          "O SleepSpray Kidz é remédio ou tem melatonina? Não. A própria IWS informa que ele é um cosmético, sem efeito farmacológico, e livre de melatonina. O SleepSpray adulto é que traz melatonina na composição.",
+          "Quantas borrifadas por noite? A marca orienta de 1 a 3 no travesseiro, no lençol ou no ambiente, alguns minutos antes de a criança deitar. Passar disso não traz benefício e deixa o aroma mais forte.",
+          "Posso borrifar na pele, no rosto ou na naninha? Na pele não: a marca pede para evitar contato com olhos, boca e mucosas, não usar em pele irritada e não ingerir. Na naninha, borrife longe da criança, deixe secar e evite a parte que ela morde ou chupa; se ela leva o objeto à boca com frequência, prefira o travesseiro ou o ambiente.",
+          "O spray mancha a fronha? A página da IWS não fala sobre manchas. A base é aquosa; por segurança, teste em um canto discreto do tecido e deixe secar antes de deitar a criança.",
+          "O cheirinho perde o efeito se eu usar todas as noites? A IWS indica o produto para uso diário e apresenta a repetição como parte do ritual. Não encontramos estudo sobre perda de efeito; o que mais pesa no resultado é a consistência da rotina inteira, não só do aroma.",
+          "Adulto pode usar o SleepSpray Kidz? Pode usar como perfume de cama se gostar do aroma, lembrando que é um produto de tecido, sem função farmacológica. Gestantes e pessoas com asma ou rinite devem consultar o médico antes de usar óleos essenciais em casa."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Conheça o SleepSpray Kidz na loja oficial IWS e use o cupom CECIEMCASA (10% OFF)",
+      "label": "Ver SleepSpray Kidz na IWS",
+      "url": "https://www.iwannasleep.com.br/products/sleepspray-kidz",
+      "sponsored": true
+    },
+    "coupon": "CECIEMCASA",
+    "affiliate": "i-wanna-sleep",
+    "editorialNote": "Guia feito a partir do rótulo e da página oficial da I Wanna Sleep (consultada em 29/09/2026); o produto não foi testado por nós. Parceria comercial: podemos receber comissão pelo cupom CECIEMCASA. Imagens de divulgação da IWS.",
+    "relatedArticles": [
+      {
+        "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
+        "title": "Qual Travesseiro Escolher? O Guia das Linhas I Wanna Sleep"
+      },
+      {
+        "slug": "qual-cobertor-escolher-guia-linhas-i-wanna-sleep",
+        "title": "Qual Cobertor Escolher? Guia das Linhas I Wanna Sleep"
+      }
+    ]
   }
 ];
