@@ -47601,5 +47601,278 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "heroCompact": true,
     "translationKey": "yesstyle-kbeauty"
+  },
+  {
+    "id": 313,
+    "slug": "dolce-gusto-descalcificacao-passo-a-passo",
+    "title": "Como Descalcificar a Dolce Gusto: Passo a Passo por Modelo e o que Fazer com a Luz Laranja",
+    "seoTitle": "Descalcificação Dolce Gusto: Passo a Passo por Modelo [2026]",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Entenda por que a Dolce Gusto acende a luz laranja, como o calcário se forma em qualquer cafeteira e veja o passo a passo de descalcificação da Mini Me, Genio S e NEO, sem usar vinagre.",
+    "metaDescription": "Luz laranja na Dolce Gusto? Veja por que o calcário se forma, quando descalcificar e o passo a passo por modelo (Mini Me, Genio S, NEO), sem vinagre.",
+    "publishedAt": "29 de setembro de 2026",
+    "publishedAtISO": "2026-09-29",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dolcegusto/descalcificacao-calcario-hero.webp",
+    "imageAlt": "Ilustração de uma cafeteira de cápsulas com a luz laranja acesa e uma lupa mostrando o calcário estreitando o duto de água por dentro",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Explica o que causa o calcário em qualquer cafeteira, não só na Dolce Gusto",
+      "Passo a passo separado por modelo (Mini Me, Genio S Plus/Touch e NEO), com fotos do manual da Genio S Touch",
+      "Mostra o que fazer quando a luz laranja não apaga depois da limpeza",
+      "Aponta o que o fabricante recomenda e o que evitar, como o vinagre",
+      "Reúne a frequência de manutenção sugerida no manual e sinais de que a máquina já está pedindo limpeza"
+    ],
+    "cons": [
+      "O gesto para ativar o modo de descalcificação muda de modelo para modelo: confirme sempre no manual da sua máquina",
+      "O descalcificante líquido não é vendido na loja oficial online (conferido em 29/09/2026), mas dá para usar o da marca pedido pelo SAC ou um de outra marca própria para cafeteiras"
+    ],
+    "contentSections": [
+      {
+        "heading": "O que significa a luz laranja da Dolce Gusto",
+        "paragraphs": [
+          "A luz laranja no botão da Dolce Gusto não quer dizer que a máquina quebrou. É um aviso de manutenção: a cafeteira conta as extrações e, no manual da Genio S, o fabricante indica descalcificar depois de cerca de 300 preparos.",
+          "Na prática, isso costuma cair entre alguns meses e um ano, dependendo de quantas bebidas você faz por dia e de quão dura é a água da sua casa. Ela pede uma limpeza interna, e a boa notícia é que dá para fazer em casa em poucos minutos.",
+          "Vale saber que a luz acompanha um contador, não um sensor de sujeira: por isso ela não some sozinha nem depois de desligar da tomada. Ela só apaga quando a máquina registra o ciclo de descalcificação concluído."
+        ],
+        "bullets": [
+          "Quando descalcificar: quando a luz laranja aparecer ou, no máximo, a cada 3 a 4 meses, segundo o manual da Genio S (com água dura, o intervalo tende a ser menor);",
+          "Pode continuar usando enquanto isso? Em geral a máquina segue funcionando por um tempo, mas quanto mais você adia, mais crosta se acumula por dentro."
+        ]
+      },
+      {
+        "heading": "Por que o calcário se forma em qualquer cafeteira",
+        "paragraphs": [
+          "A água que sai da torneira, do filtro ou do galão mineral não é água pura: ela carrega minerais dissolvidos, principalmente cálcio e magnésio. Quando essa água esquenta, parte desses minerais deixa de se manter dissolvida e se deposita como uma crosta esbranquiçada, o calcário, no fundo da chaleira, na resistência da cafeteira elétrica e nos dutos de uma espresso.",
+          "Ou seja, isso acontece em qualquer aparelho que aquece água, seja de cápsula, de filtro ou uma simples chaleira. A Dolce Gusto só avisa com luz porque o sistema interno é fino e sofre mais com o acúmulo.",
+          "E o filtro de casa não resolve? Filtros comuns de carvão ativado melhoram gosto e cheiro, mas não tiram o cálcio e o magnésio da água. Água mineral engarrafada também tem minerais, então ela não impede a formação do calcário. O que muda é a dureza: quanto mais mineral a água, mais rápido a crosta aparece."
+        ],
+        "bullets": [
+          "Café mais morno: a crosta atrapalha a transferência de calor para a água;",
+          "Fluxo mais fraco e barulho: os dutos ficam mais estreitos e a bomba trabalha com mais esforço;",
+          "Risco de entupimento: pedaços de crosta podem se soltar e travar a saída com o tempo."
+        ],
+        "image": "/images/reviews/dolcegusto/descalcificacao-como-o-calcario-se-forma.webp",
+        "imageAlt": "Infográfico em três etapas mostrando cálcio e magnésio dissolvidos na água, o aquecimento e a crosta de calcário estreitando um duto",
+        "imageCaption": "O calcário é um processo físico comum a chaleiras, cafeteiras elétricas e máquinas espresso. Ilustração esquemática.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.3333333333
+      },
+      {
+        "heading": "Vinagre, bicarbonato e outros truques: o que o fabricante diz",
+        "paragraphs": [
+          "Na internet circula muita receita caseira, e o vinagre é a mais famosa. O próprio guia de descalcificação da Nescafé Dolce Gusto Brasil traz a recomendação em destaque: não usar vinagre, e sim uma solução descalcificante própria para cafeteiras. O manual da Genio S Touch repete o alerta logo na primeira linha de avisos.",
+          "O motivo geral é que ácidos fortes, misturados com calor e pressão, podem ressecar as borrachas de vedação e deixar cheiro e gosto no circuito. Como o reparo costuma custar mais do que a economia, o mais seguro é usar um produto feito para esse fim.",
+          "Sobre o bicarbonato: ele é básico, e o calcário é um sal que se dissolve em meio ácido, então não é um bom candidato para essa função. Em vez de arriscar, use o produto certo."
+        ],
+        "bullets": [
+          "Use: descalcificante líquido próprio para cafeteiras espresso e de cápsula. Pode ser o da Dolce Gusto ou de outra marca, desde que a embalagem indique esse uso;",
+          "Evite: vinagre, bicarbonato, limão e outras misturas caseiras dentro do reservatório."
+        ]
+      },
+      {
+        "heading": "Antes de começar: o que separar e qual descalcificante usar",
+        "paragraphs": [
+          "Separe um recipiente grande para coletar o líquido (o guia da NEO pede 0,7 litro, e outros manuais indicam 1 litro ou mais), o acessório de enxágue que veio com a máquina, se ela tiver, e o descalcificante líquido.",
+          "O descalcificante não precisa ser da Dolce Gusto: produtos de outras marcas, feitos para cafeteiras espresso e de cápsula, resolvem o problema do calcário do mesmo jeito. Leia o rótulo, confira que ele se destina a esse tipo de máquina e siga a diluição indicada na embalagem, que pode variar entre marcas.",
+          "Se preferir o da marca, o manual da Genio S Touch orienta pedir pelo telefone da assistência NESCAFÉ Dolce Gusto (o SAC, no guia oficial da NEO, é 0800 776 2233). Conferimos em 29/09/2026 que ele não aparece na loja online oficial, então a compra costuma ser em varejistas, marketplaces ou pelo SAC."
+        ],
+        "bullets": [
+          "Recipiente coletor de 1 litro ou mais, colocado sob a saída;",
+          "Água limpa: os guias oficiais pedem 0,5 litro misturado com o descalcificante (nos de outras marcas, siga a proporção do rótulo);",
+          "Um pano para respingos e cerca de 20 a 30 minutos livres, incluindo o enxágue."
+        ]
+      },
+      {
+        "heading": "Passo a passo da descalcificação por modelo",
+        "paragraphs": [
+          "A lógica é a mesma em todas as máquinas: misturar a água com o descalcificante no reservatório (os manuais da Dolce Gusto pedem 0,5 litro), ativar o modo de descalcificação, deixar a máquina rodar com pausas para a solução agir e, no fim, enxaguar bem. O que muda de um modelo para o outro é o gesto para ativar esse modo. Resumimos abaixo com base nos manuais e guias oficiais; confirme sempre o do seu modelo."
+        ],
+        "bullets": [
+          "1. Esvazie a bandeja, retire cápsulas usadas, encaixe o acessório de enxágue (se houver) e posicione o recipiente grande sob a saída;",
+          "2. Coloque 0,5 litro de água fresca e o descalcificante no reservatório (siga a proporção do rótulo, se o produto for de outra marca) e encaixe-o na máquina;",
+          "3. Ative o modo de descalcificação conforme o seu modelo (tabela abaixo);",
+          "4. Deixe o ciclo rodar. A máquina alterna fluxo e pausa, com uma espera de cerca de 2 minutos para a solução agir; não desligue no meio do processo;",
+          "5. Quando o reservatório esvaziar, lave-o, encha com água fresca e rode o enxágue até o tanque esvaziar de novo;",
+          "6. Descarte o líquido coletado, recoloque a bandeja e confirme se a luz laranja apagou."
+        ],
+        "comparisonTable": {
+          "caption": "Como ativar o modo de descalcificação em cada modelo (resumo dos manuais e guias oficiais)",
+          "headers": [
+            "Modelo",
+            "Como ativar o modo",
+            "Observação"
+          ],
+          "rows": [
+            [
+              "Mini Me",
+              "Com a máquina desligada, segure o botão de ligar por 5 segundos até a luz começar a piscar",
+              "Sequência com quente, pausa de cerca de 2 min e enxágue conforme o manual"
+            ],
+            [
+              "Genio S Plus (e linha com anel seletor)",
+              "Selecione XL e gire o anel quatro vezes no sentido horário até o indicador de descalcificação piscar; depois aperte iniciar/parar",
+              "Alterna fluxo e pausa até esvaziar o reservatório"
+            ],
+            [
+              "Genio S Touch",
+              "Toque no ícone de descalcificação por cerca de 5 segundos até o LED piscar",
+              "Confirmado no manual da Genio S Touch (fotos logo abaixo); a máquina para sozinha quando o reservatório esvazia"
+            ],
+            [
+              "NEO",
+              "Com a barra deslizante fechada, pressione Iniciar por 15 segundos até o botão piscar duas vezes rapidamente em laranja",
+              "Quando o botão ficar azul, aguarde 2 minutos e faça o enxágue (guia oficial da Nescafé Dolce Gusto Brasil)"
+            ]
+          ]
+        },
+        "image": "/images/reviews/dolcegusto/descalcificacao-4-etapas.webp",
+        "imageAlt": "Infográfico com as quatro etapas da descalcificação: preparar a solução, ativar o modo, rodar o ciclo e esperar, e enxaguar",
+        "imageCaption": "As quatro etapas são as mesmas para todas as máquinas; o que muda é como ativar o modo de descalcificação.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.3333333333
+      },
+      {
+        "heading": "O manual da Genio S Touch, em fotos",
+        "paragraphs": [
+          "Como o gesto para ativar o modo muda de modelo, deixamos aqui as páginas de descalcificação do manual da Genio S Touch, para você comparar com a sua máquina. Elas mostram, em ordem, o aviso de manutenção, o preparo da solução, a ativação do modo, a pausa de cerca de 2 minutos e o enxágue.",
+          "As fotos são do manual que temos em casa, tiradas com o celular e comprimidas para carregar rápido: toque em Ampliar para ler os textos. O conteúdo é do fabricante, então o manual da sua máquina continua sendo a referência final."
+        ],
+        "bullets": [
+          "O que o manual pede: descalcificar no mínimo a cada 3 a 4 meses, ou quando o indicador laranja acender, a bebida sair mais lenta ou mais fria que o normal;",
+          "Mistura: 0,5 litro de água potável fresca com o descalcificante em um copo medidor, colocado no reservatório;",
+          "Cuidados em destaque: não usar vinagre, evitar contato do descalcificante com as partes da máquina e não tirar o cabo da tomada durante a descalcificação;",
+          "Ao final: o indicador de descalcificação apaga e a seleção de temperatura acende quando a máquina está pronta; depois é só limpar com um pano macio úmido e secar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dolcegusto/descalcificacao-manual-genio-s-touch-1-avisos-e-preparo.webp",
+            "alt": "Página do manual da Genio S Touch com os avisos de descalcificação (sem vinagre, sem contato do produto com a máquina, sem tirar da tomada) e os primeiros passos de preparo",
+            "caption": "Avisos e preparo. Fonte: manual da Genio S Touch (NESCAFÉ Dolce Gusto), foto do exemplar da Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7758
+          },
+          {
+            "src": "/images/reviews/dolcegusto/descalcificacao-manual-genio-s-touch-2-passos-1-a-6.webp",
+            "alt": "Página do manual da Genio S Touch com os passos 1 a 6: indicador laranja, mistura de 0,5 litro, ferramenta de enxágue, ícone de descalcificação por 5 segundos, início do ciclo e pausa de 2 minutos",
+            "caption": "Passos 1 a 6: do indicador laranja à pausa de cerca de 2 minutos. Fonte: manual da Genio S Touch.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7758
+          },
+          {
+            "src": "/images/reviews/dolcegusto/descalcificacao-manual-genio-s-touch-3-passos-7-a-12.webp",
+            "alt": "Página do manual da Genio S Touch com os passos 7 a 12: fim do ciclo, lavagem do reservatório, enxágue com água quente, indicador apagado e limpeza da máquina",
+            "caption": "Passos 7 a 12: enxágue e finalização. Fonte: manual da Genio S Touch.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7758
+          }
+        ]
+      },
+      {
+        "heading": "A luz laranja não apagou: o que verificar",
+        "paragraphs": [
+          "Se você terminou e a luz continua laranja, o mais comum é que a máquina não tenha registrado o ciclo como concluído. Antes de qualquer coisa, respire: isso raramente é defeito."
+        ],
+        "bullets": [
+          "Confira se realmente entrou no modo: a luz ou o indicador precisa piscar depois do gesto de ativação; se ficou fixa, o comando não foi aceito;",
+          "Não interrompa o ciclo: os guias oficiais pedem para não desligar a máquina, nem tirar o cabo da tomada, durante a descalcificação;",
+          "Na Genio S Touch, o fim do processo é sinalizado quando o indicador de descalcificação apaga e a seleção de temperatura acende: se isso não aconteceu, o ciclo provavelmente não terminou;",
+          "Refaça com calma seguindo o manual do seu modelo, com reservatório bem encaixado e água suficiente;",
+          "Ainda não apagou? Chame o SAC da marca (0800 776 2233) ou uma assistência autorizada, em vez de tentar truques de tomada ou reset de internet."
+        ]
+      },
+      {
+        "heading": "Quando repetir a limpeza e como o calcário demora mais a voltar",
+        "paragraphs": [
+          "A regra do manual da Genio S é descalcificar pelo menos a cada 3 a 4 meses, mais cedo se a água for muito dura. Se a máquina ficar parada por muitos dias, esvazie o reservatório para não deixar água velha parada."
+        ],
+        "bullets": [
+          "Água muito dura, ou consumo alto (várias bebidas por dia): antecipe a manutenção e observe se o café sai mais morno ou mais devagar;",
+          "Use água fresca a cada uso e evite completar por cima do que sobrou de ontem;",
+          "Lave o reservatório com frequência e mantenha as saídas e o porta-cápsulas limpos."
+        ]
+      },
+      {
+        "heading": "Aproveite a manutenção para reabastecer sem pagar caro",
+        "paragraphs": [
+          "Manutenção em dia é um bom momento para conferir o estoque de cápsulas. Na loja oficial da NESCAFÉ Dolce Gusto Brasil, o cupom CECI aplica 5% OFF em compras a partir de R$ 100, conforme conferimos na última verificação do cupom; confirme o desconto no resumo do carrinho antes de finalizar.",
+          "Se a sua máquina é antiga e vem exigindo limpeza cada vez mais seguida, vale conhecer também as gerações atuais: veja o comparativo da Genio S e a nossa análise da Mini Me antes de decidir trocar."
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "Regras e benefícios do cupom CECI na página oficial Dolce Gusto",
+            "href": "/cupons/dolce-gusto"
+          },
+          {
+            "label": "Ir para a loja oficial NESCAFÉ Dolce Gusto",
+            "href": "https://www.nescafe-dolcegusto.com.br/",
+            "sponsored": true
+          },
+          {
+            "label": "Cupom CECI Dolce Gusto: como usar o desconto de 5%",
+            "href": "/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar"
+          },
+          {
+            "label": "Dolce Gusto Genio S Basic vs Plus vs Touch: comparativo",
+            "href": "/reviews/dolce-gusto-genio-s-basic-vs-plus-vs-touch"
+          },
+          {
+            "label": "Dolce Gusto Mini Me: vale a pena? Review completa",
+            "href": "/reviews/dolce-gusto-mini-me-2-0-vale-a-pena"
+          },
+          {
+            "label": "Tabela de medidas Dolce Gusto: quantos ml saem por nível",
+            "href": "/reviews/tabela-medidas-dolce-gusto-ml-por-nivel"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes sobre descalcificação Dolce Gusto",
+        "bullets": [
+          "A luz laranja da Dolce Gusto significa que a máquina quebrou? Não. É um aviso de manutenção baseado na contagem de extrações, indicando que é hora de descalcificar.",
+          "De quanto em quanto tempo devo descalcificar a Dolce Gusto? O manual da Genio S indica descalcificar pelo menos a cada 3 a 4 meses, ou quando a luz laranja acender; com água muito dura, o intervalo tende a ser menor.",
+          "Posso usar vinagre para descalcificar a Dolce Gusto? Não. O guia oficial da Nescafé Dolce Gusto Brasil e o manual da Genio S Touch pedem para não usar vinagre; use um descalcificante próprio para cafeteiras.",
+          "Preciso usar o descalcificante da própria Dolce Gusto? Não necessariamente. Pode ser um descalcificante líquido de outra marca, desde que seja próprio para cafeteiras espresso ou de cápsula e você siga a diluição do rótulo. O da marca pode ser pedido pelo SAC (0800 776 2233) e, em 29/09/2026, não aparecia na loja online oficial.",
+          "Onde comprar descalcificante para cafeteira? Em varejistas de eletrodomésticos e marketplaces, na versão da Dolce Gusto ou de outras marcas; a loja online oficial não listava o produto em 29/09/2026.",
+          "A água mineral ou o filtro de casa evitam o calcário? Não totalmente. Filtros comuns não removem cálcio e magnésio, e a água mineral também tem minerais; o que muda é a dureza da água, que define a velocidade com que o calcário se forma.",
+          "O calcário acontece só na Dolce Gusto? Não. Ele se forma em qualquer aparelho que aquece água, como chaleiras, cafeteiras elétricas e máquinas espresso."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Reabasteça suas cápsulas na loja oficial com o cupom CECI (5% OFF a partir de R$ 100)",
+      "label": "Ver loja oficial Dolce Gusto",
+      "url": "https://www.nescafe-dolcegusto.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "dolce-gusto",
+    "editorialNote": "Este guia foi elaborado de forma editorial e independente, com base nos manuais e guias públicos de descalcificação da Nescafé Dolce Gusto e da Krups; as fotos do manual da Genio S Touch são do exemplar da autora. O passo a passo varia por modelo, então confirme sempre no manual da sua máquina. O site mantém parceria comercial com a loja oficial NESCAFÉ Dolce Gusto por meio do cupom CECI.",
+    "relatedArticles": [
+      {
+        "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
+        "title": "Tabela de medidas Dolce Gusto: quantos ml saem em cada nível?"
+      },
+      {
+        "slug": "dolce-gusto-mini-me-2-0-vale-a-pena",
+        "title": "Dolce Gusto Mini Me Vale a Pena? Análise Real"
+      },
+      {
+        "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch",
+        "title": "Dolce Gusto Genio S Basic vs Plus vs Touch: Qual a Diferença?"
+      }
+    ]
   }
 ];
