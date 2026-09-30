@@ -51743,6 +51743,282 @@
       "verified_at": null,
       "verification_etag_or_digest": null,
       "verification_status": "unverified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/descalcificacao-4-etapas.webp",
+      "local_url": "/images/reviews/dolcegusto/descalcificacao-4-etapas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64790,
+      "sha256": "5ac275f08a515fc411248097ad0b3138e518970040692dc689e432281f68e066",
+      "width": 1200,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "descalcificacao-4-etapas.webp",
+      "storage_filename": "descalcificacao-4-etapas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-descalcificacao-passo-a-passo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-descalcificacao-passo-a-passo.json",
+          "line": 136,
+          "column": 17,
+          "literal": "/images/reviews/dolcegusto/descalcificacao-4-etapas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 48068,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/descalcificacao-4-etapas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5ac275f08a515fc411248097ad0b3138e518970040692dc689e432281f68e066/descalcificacao-4-etapas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5ac275f08a515fc411248097ad0b3138e518970040692dc689e432281f68e066/descalcificacao-4-etapas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-09-30T03:56:41.602Z",
+      "verification_etag_or_digest": "5ac275f08a515fc411248097ad0b3138e518970040692dc689e432281f68e066",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/descalcificacao-calcario-hero.webp",
+      "local_url": "/images/reviews/dolcegusto/descalcificacao-calcario-hero.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25672,
+      "sha256": "fb1a0e1d3adfe7e902fb5e38ccc911ed23120758b9f89a8c5b88537ce3a6bb88",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "descalcificacao-calcario-hero.webp",
+      "storage_filename": "descalcificacao-calcario-hero.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-descalcificacao-passo-a-passo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-descalcificacao-passo-a-passo.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/descalcificacao-calcario-hero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 47954,
+          "column": 15,
+          "literal": "/images/reviews/dolcegusto/descalcificacao-calcario-hero.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fb1a0e1d3adfe7e902fb5e38ccc911ed23120758b9f89a8c5b88537ce3a6bb88/descalcificacao-calcario-hero.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fb1a0e1d3adfe7e902fb5e38ccc911ed23120758b9f89a8c5b88537ce3a6bb88/descalcificacao-calcario-hero.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-09-30T03:56:40.993Z",
+      "verification_etag_or_digest": "fb1a0e1d3adfe7e902fb5e38ccc911ed23120758b9f89a8c5b88537ce3a6bb88",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/descalcificacao-como-o-calcario-se-forma.webp",
+      "local_url": "/images/reviews/dolcegusto/descalcificacao-como-o-calcario-se-forma.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 63228,
+      "sha256": "5749ca29dafda8e08a9aa4681ff24c291c8f5c0cd59bebbbb92d9d4c043d2c00",
+      "width": 1200,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "descalcificacao-como-o-calcario-se-forma.webp",
+      "storage_filename": "descalcificacao-como-o-calcario-se-forma.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-descalcificacao-passo-a-passo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-descalcificacao-passo-a-passo.json",
+          "line": 62,
+          "column": 17,
+          "literal": "/images/reviews/dolcegusto/descalcificacao-como-o-calcario-se-forma.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 47994,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/descalcificacao-como-o-calcario-se-forma.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5749ca29dafda8e08a9aa4681ff24c291c8f5c0cd59bebbbb92d9d4c043d2c00/descalcificacao-como-o-calcario-se-forma.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5749ca29dafda8e08a9aa4681ff24c291c8f5c0cd59bebbbb92d9d4c043d2c00/descalcificacao-como-o-calcario-se-forma.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-09-30T03:56:41.298Z",
+      "verification_etag_or_digest": "5749ca29dafda8e08a9aa4681ff24c291c8f5c0cd59bebbbb92d9d4c043d2c00",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/descalcificacao-manual-genio-s-touch-1-avisos-e-preparo.webp",
+      "local_url": "/images/reviews/dolcegusto/descalcificacao-manual-genio-s-touch-1-avisos-e-preparo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 201268,
+      "sha256": "5e01e6cdb7e9fd3487a1f0eb15781291af11a5527c5a9f77b24066ef29d3c50e",
+      "width": 1600,
+      "height": 901,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "descalcificacao-manual-genio-s-touch-1-avisos-e-preparo.webp",
+      "storage_filename": "descalcificacao-manual-genio-s-touch-1-avisos-e-preparo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-descalcificacao-passo-a-passo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-descalcificacao-passo-a-passo.json",
+          "line": 156,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/descalcificacao-manual-genio-s-touch-1-avisos-e-preparo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 48088,
+          "column": 21,
+          "literal": "/images/reviews/dolcegusto/descalcificacao-manual-genio-s-touch-1-avisos-e-preparo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5e01e6cdb7e9fd3487a1f0eb15781291af11a5527c5a9f77b24066ef29d3c50e/descalcificacao-manual-genio-s-touch-1-avisos-e-preparo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5e01e6cdb7e9fd3487a1f0eb15781291af11a5527c5a9f77b24066ef29d3c50e/descalcificacao-manual-genio-s-touch-1-avisos-e-preparo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-09-30T03:56:41.927Z",
+      "verification_etag_or_digest": "5e01e6cdb7e9fd3487a1f0eb15781291af11a5527c5a9f77b24066ef29d3c50e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/descalcificacao-manual-genio-s-touch-2-passos-1-a-6.webp",
+      "local_url": "/images/reviews/dolcegusto/descalcificacao-manual-genio-s-touch-2-passos-1-a-6.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 191030,
+      "sha256": "4b2278140ab55d2ec1ea713272e13e49d2782d94d049b8d3d4f168560282b30e",
+      "width": 1600,
+      "height": 901,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "descalcificacao-manual-genio-s-touch-2-passos-1-a-6.webp",
+      "storage_filename": "descalcificacao-manual-genio-s-touch-2-passos-1-a-6.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-descalcificacao-passo-a-passo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-descalcificacao-passo-a-passo.json",
+          "line": 163,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/descalcificacao-manual-genio-s-touch-2-passos-1-a-6.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 48095,
+          "column": 21,
+          "literal": "/images/reviews/dolcegusto/descalcificacao-manual-genio-s-touch-2-passos-1-a-6.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4b2278140ab55d2ec1ea713272e13e49d2782d94d049b8d3d4f168560282b30e/descalcificacao-manual-genio-s-touch-2-passos-1-a-6.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4b2278140ab55d2ec1ea713272e13e49d2782d94d049b8d3d4f168560282b30e/descalcificacao-manual-genio-s-touch-2-passos-1-a-6.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-09-30T03:56:42.270Z",
+      "verification_etag_or_digest": "4b2278140ab55d2ec1ea713272e13e49d2782d94d049b8d3d4f168560282b30e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/descalcificacao-manual-genio-s-touch-3-passos-7-a-12.webp",
+      "local_url": "/images/reviews/dolcegusto/descalcificacao-manual-genio-s-touch-3-passos-7-a-12.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 156938,
+      "sha256": "3354aeb34baf192a10b7a22e7ca7f216fb082a597d3ce177a02dc456bf108549",
+      "width": 1600,
+      "height": 901,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "descalcificacao-manual-genio-s-touch-3-passos-7-a-12.webp",
+      "storage_filename": "descalcificacao-manual-genio-s-touch-3-passos-7-a-12.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-descalcificacao-passo-a-passo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-descalcificacao-passo-a-passo.json",
+          "line": 170,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/descalcificacao-manual-genio-s-touch-3-passos-7-a-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 48102,
+          "column": 21,
+          "literal": "/images/reviews/dolcegusto/descalcificacao-manual-genio-s-touch-3-passos-7-a-12.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3354aeb34baf192a10b7a22e7ca7f216fb082a597d3ce177a02dc456bf108549/descalcificacao-manual-genio-s-touch-3-passos-7-a-12.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3354aeb34baf192a10b7a22e7ca7f216fb082a597d3ce177a02dc456bf108549/descalcificacao-manual-genio-s-touch-3-passos-7-a-12.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-09-30T03:56:42.555Z",
+      "verification_etag_or_digest": "3354aeb34baf192a10b7a22e7ca7f216fb082a597d3ce177a02dc456bf108549",
+      "verification_status": "verified"
     }
   ]
 }

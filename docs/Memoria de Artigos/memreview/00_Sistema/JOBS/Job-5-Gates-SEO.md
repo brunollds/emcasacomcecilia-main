@@ -23,6 +23,16 @@ npm run test:site-search
 npm run build
 ```
 
+Se o artigo tem **imagem ou vídeo novo** (fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`), rodar antes do commit:
+
+```powershell
+npx tsx scripts/media/test-delivery-integration.ts
+node scripts/media/phase5-export.mjs --check
+node scripts/media/candidate-proof.mjs   # depois do staging por caminhos explícitos
+```
+
+Depois do `npm run build`: `node scripts/media/test-review-delivery-html.mjs` e conferir hero, imagens inline, ampliação e carrosséis no navegador (as URLs saem do CDN). Verificar `git config --local --get core.hooksPath` = `.githooks`. Só marcar `pronto-para-deploy` com todos os assets do artigo com `verification_status=verified` e no mapa; upload e deploy exigem GO do Bruno.
+
 Para trabalho multilíngue, rodar também `npm run test:html-lang` e os gates
 específicos indicados na nota do cluster (por exemplo, a prova de mutação do
 YesStyle). Confirmar no HTML gerado locale, canonical, hreflang e sitemap antes

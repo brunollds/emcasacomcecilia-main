@@ -21,6 +21,11 @@ Converter o texto revisado em Markdown para o arquivo JSON estruturado em `conte
    - Imagens inline nas `contentSections` quando houver fotos explicativas ou tabelas.
    - `gallery`: Array de fotos com legenda (`caption`) rica quando houver múltiplos ângulos/detalhes.
    - `video` (MP4/loop) ou `youtubeUrl` (registrado em `video-metadata.js` se for primário).
+   - **Caminhos sempre locais:** `image`, `imageAlt`, `images[].src` e `gallery[].image` usam `/images/reviews/<marca>/<arquivo>.webp`. Nunca escrever URL `cdn.emcasacomcecilia.com` no JSON nem alterar chaves de `localVideoMetadata`/`video-pages`: o mapa de entrega troca pela URL do CDN só na renderização.
+   - **Toda imagem NOVA precisa entrar na biblioteca de mídia** (seguir `docs/GUIA-MIDIA-EDITORIAL.md`): arquivo comprimido em `public/images/...`, inventário `--merge`, upload FTPS + verificação HTTPS, `prepare-delivery --append` e `phase5-export --write/--check`. Imagem em `public/` fora do manifesto/mapa reprova o `candidate-proof`/`deploy:prepare` (bytes novos não mapeados). Upload é escrita em produção e depende de GO do Bruno.
+   - **Proporção antes do `imageFit`:** conferir largura×altura reais. `"contain"` sem `imageAspectRatio` cai numa caixa 16:9 e gera barras brancas em foto quadrada/quase quadrada. Foto quadrada: `"square"`; outras: declarar `imageAspectRatio` (ex.: `1.3333` para 4:3, `1.7758` para 16:9). Hero: `imageAspect` coerente com a foto (`landscape`/`portrait`/`square`).
+   - **Carrossel:** várias fotos na mesma seção via `images[]` (cada item com `src`, `alt`, `caption`, `objectFit`, `aspectRatio`). Não repetir no `gallery` as fotos já usadas no corpo.
+   - **Origem e licença:** registrar na nota do vault a origem de cada foto (própria, foto de manual, marca) e a autoria; crédito também na `caption` quando a imagem não for da autora.
 4. **Links nas Seções:**
    - Links para `/cupons/<marca>` devem ser relativos.
    - Links externos de loja devem ter `"sponsored": true`.
