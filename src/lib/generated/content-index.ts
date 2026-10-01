@@ -33829,32 +33829,32 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Aprenda a usar o cupom CECI no site oficial da Nestlé Nutre. Passo a passo completo para garantir 5% de desconto em todo o site, com a exceção dos produtos Alfamino e Alfaré.",
-    "metaDescription": "Use o cupom CECI na Nestlé Nutre e ganhe 5% OFF em todo o site da loja oficial. Veja o passo a passo, a exceção de Alfamino e Alfaré e como validar o desconto no checkout.",
+    "description": "Aprenda a usar o cupom CECI no site oficial da Nestlé Nutre. Passo a passo para aplicar o código, conferir os 5% de desconto no carrinho e saber a exceção: produtos Alfamino e Alfaré.",
+    "metaDescription": "Use o cupom CECI na Nestlé Nutre e confira 5% OFF no checkout da loja oficial. Veja o passo a passo, a exceção de Alfamino e Alfaré e como validar o desconto antes de pagar.",
     "publishedAt": "10 Jul 2026",
     "publishedAtISO": "2026-07-10",
+    "updatedAt": "2026-09-30",
     "draft": false,
     "image": "/images/reviews/nutren/nutren-senior-linha-hero.webp",
     "imageAlt": "Linha Nutren Senior: cápsulas A-Z, lata 740g, lata 370g Premium 6.1 e versão pronta para beber, produtos oficiais da Nestlé Nutre",
     "imageFit": "cover",
     "pros": [
-      "Garante 5% de desconto real no site oficial da Nestlé Nutre",
-      "Válido para praticamente todo o catálogo (Nutren Senior, Control, 2.0, Ultra, Fortify, Mulher)",
-      "Cupom verificado e ativo para a parceria oficial",
-      "Sem valor mínimo de compra para ativar o desconto",
-      "Sem necessidade de cadastro em programa de fidelidade"
+      "5% de desconto sobre o valor dos produtos no site oficial da Nestlé Nutre",
+      "Vale para os produtos da loja, exceto Alfamino e Alfaré",
+      "Código de parceria do blog com a Nestlé Nutre, aplicado direto no checkout",
+      "Basta digitar CECI no campo de cupom do checkout"
     ],
     "cons": [
-      "Não é válido para Alfamino e Alfaré",
-      "O desconto não é aplicável sobre o valor do frete",
-      "Não cumulativo com outras promoções ativas no site"
+      "Não vale para Alfamino e Alfaré",
+      "O desconto não incide sobre o valor do frete",
+      "A soma com outras campanhas da loja pode variar; vale o valor final do carrinho"
     ],
     "contentSections": [
       {
         "heading": "Introdução",
         "paragraphs": [
           "Muita gente que acompanha as receitas aqui em casa também me pergunta sobre suplementação alimentar — principalmente pensando nos pais ou nos avós, naquela fase em que só a comida do dia a dia não cobre tudo que o corpo precisa. Foi conversando sobre isso que a parceria com a Nestlé Nutre apareceu: uma marca que muita família já usa no dia a dia, com produtos fáceis de achar em mercado e farmácia.",
-          "Ainda não testei os produtos da linha pessoalmente, então este guia é só sobre o cupom: onde aplicar o código CECI, quais produtos entram na promoção e a única exceção que você precisa saber antes de fechar a compra. Se você está buscando a página oficial com todos os cupons e promoções ativas da loja, confira nosso cupom Nestlé Nutre atualizado."
+          "Ainda não testei os produtos da linha pessoalmente, então este guia é só sobre o cupom: onde aplicar o código CECI, quais produtos entram na promoção e a única exceção que você precisa saber antes de fechar a compra. Se você procura a ficha atualizada do cupom CECI, com regras e validade, confira nossa página de cupons da Nestlé Nutre."
         ],
         "links": [
           {
@@ -33876,15 +33876,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Nestlé Nutre CECI: o que você precisa saber",
         "paragraphs": [
-          "O cupom Nestlé Nutre CECI oferece 5% de desconto real no site oficial — nenhuma pegadinha, sem valor mínimo de compra. É um código que funciona em praticamente toda a linha de produtos, com uma única exceção clara: Alfamino e Alfaré ficam de fora.",
-          "Diferente de outros cupons que mudam todo mês ou expiram em datas específicas, o cupom Nestlé Nutre CECI é mantido ativo como parte de uma parceria verificada. Isso quer dizer que você pode contar com ele para suas compras regulares de suplementação, sem perder tempo procurando novos códigos a cada semana.",
-          "A regra mais importante: o cupom Nestlé Nutre funciona sobre o valor dos produtos, não sobre o frete. Então se sua compra der R$ 100, você ganha R$ 5 de desconto — o frete é calculado à parte."
+          "O cupom Nestlé Nutre CECI oferece 5% de desconto sobre o valor dos produtos na loja oficial. Ele foi cadastrado para produtos Nestlé Nutre, com uma exceção: Alfamino e Alfaré ficam de fora.",
+          "Diferente de cupons que mudam todo mês, o CECI segue ativo enquanto a parceria entre o blog e a Nestlé Nutre estiver vigente. As regras da loja e das campanhas podem mudar, então o valor mostrado no carrinho é sempre a referência.",
+          "A regra mais importante: o cupom funciona sobre o valor dos produtos, não sobre o frete. Se a compra for de R$ 100 em produtos, o desconto é de R$ 5; o frete é calculado à parte, conforme a política da loja."
         ]
       },
       {
         "heading": "1. Escolha o produto no site oficial",
         "paragraphs": [
-          "O cupom CECI é válido para compras feitas diretamente no site oficial da Nestlé Nutre ([nestlenutre.com.br](https://www.nestlenutre.com.br/)). Funciona para praticamente toda a linha — Nutren Senior, Nutren Control, Nutren 2.0, Nutren Ultra, Nutren Fortify, Nutren Mulher — tanto na versão em pó quanto na versão pronta para beber (RTD), com exceção de Alfamino e Alfaré. Escolha o produto e a versão (sabor, tamanho da embalagem) com calma antes de ir para o carrinho."
+          "O cupom CECI vale para compras feitas diretamente no site oficial da Nestlé Nutre ([nestlenutre.com.br](https://www.nestlenutre.com.br/)). Ele foi cadastrado para produtos Nestlé Nutre, exceto Alfamino e Alfaré; na loja há, por exemplo, as linhas Nutren Senior, Nutren Control, Nutren Protein e Nutren Fortify. Escolha o produto e a versão (sabor, tamanho da embalagem) com calma antes de ir para o carrinho."
         ],
         "image": "/images/reviews/nutren/passo-1-lista-produtos.webp",
         "imageAlt": "Página de produtos e promoções do site oficial da Nestlé Nutre.",
@@ -33897,7 +33897,7 @@ export const reviewsData: unknown[] = [
           "Antes de seguir para o pagamento, confira se os itens do carrinho são realmente os que você quer."
         ],
         "bullets": [
-          "Confira o sabor e o tamanho da embalagem (370g, 740g ou a versão pronta para beber).",
+          "Confira o sabor e o tamanho da embalagem.",
           "Se o carrinho tiver mais de um produto, verifique se nenhum deles é Alfamino ou Alfaré — esses dois não entram na promoção."
         ],
         "image": "/images/reviews/nutren/passo-2-carrinho.webp",
@@ -33918,7 +33918,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Confirme o desconto antes de pagar",
         "paragraphs": [
-          "Esse é o passo mais importante: confira se o desconto realmente apareceu no valor total antes de finalizar a compra. Se o cupom não funcionar, verifique se o código foi digitado corretamente, se algum item do carrinho é Alfamino ou Alfaré (que ficam de fora da promoção) e se a compra não está combinando o cupom com outra promoção ativa no site."
+          "Esse é o passo mais importante: confira se o desconto realmente apareceu no valor total antes de finalizar a compra. Se o cupom não funcionar, verifique se o código foi digitado corretamente, se algum item do carrinho é Alfamino ou Alfaré (que ficam de fora da promoção) e se há outra campanha ativa na loja que possa interferir no desconto. Se nada disso explicar, avise pelo contato do Em Casa com Cecília para que a informação seja revisada."
         ],
         "image": "/images/reviews/nutren/passo-4-cupom-aplicado.webp",
         "imageAlt": "Carrinho da Nestlé Nutre mostrando o cupom CECI aplicado com sucesso e o desconto de 5% no resumo do pedido.",
@@ -33928,7 +33928,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Produtos excluídos: Alfamino e Alfaré",
         "paragraphs": [
-          "Vale repetir esse ponto separadamente porque é a principal pegadinha do cupom CECI: os produtos Alfamino e Alfaré não participam da promoção. Ao tentar aplicar o código para esses itens, o sistema não reconhece o desconto. Essa exclusão existe porque essas fórmulas atendem a necessidades nutricionais bem específicas e costumam ter regras comerciais próprias. Antes de finalizar a compra, vale conferir se todos os itens do carrinho são elegíveis ao benefício."
+          "Vale repetir esse ponto separadamente porque é a principal exceção do cupom CECI: Alfamino e Alfaré não fazem parte do benefício cadastrado, então não conte com os 5% de desconto nesses itens. O motivo da exclusão não é detalhado, e as regras comerciais da loja podem mudar. Antes de finalizar a compra, confira se todos os itens do carrinho são elegíveis e se o desconto aparece no resumo do pedido."
         ]
       },
       {
@@ -33946,7 +33946,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde a Nestlé Nutre entra nessa história",
         "paragraphs": [
-          "A parceria com a Nestlé Nutre nasceu justamente dessas conversas sobre alimentação da família toda — não só das crianças, mas dos adultos e dos mais velhos também. Ainda não testei os produtos pessoalmente, e sou transparente sobre isso: por enquanto, o que posso garantir é que o cupom CECI é real e funciona no site oficial. Assim que tiver experiência de uso para compartilhar, este espaço será atualizado.",
+          "A parceria com a Nestlé Nutre nasceu justamente dessas conversas sobre alimentação da família toda — não só das crianças, mas dos adultos e dos mais velhos também. Ainda não testei os produtos pessoalmente, e sou transparente sobre isso: por enquanto, posso dizer que o CECI é o código da nossa parceria com a loja oficial, e que o desconto de cada compra aparece no carrinho. Assim que tiver experiência de uso para compartilhar, este espaço será atualizado.",
           "Se você já pesquisou e sabe qual produto da linha quer comprar, o cupom ajuda a economizar 5% nessa decisão."
         ]
       },
@@ -33966,22 +33966,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O cupom CECI funciona para Nutren Senior? Sim, o cupom é válido para Nutren Senior, Nutren Control, Nutren 2.0, Nutren Ultra, Nutren Fortify, Nutren Mulher e demais produtos da linha, exceto Alfamino e Alfaré.",
-          "O cupom pode ser usado mais de uma vez? A política de uso pode variar conforme as regras da loja no momento da compra. Recomenda-se verificar os termos no checkout.",
-          "É necessário receita médica para comprar? Não é necessário receita médica para adquirir os produtos no site oficial, mas itens de nutrição clínica devem ser usados conforme indicação do rótulo e, quando necessário, com orientação de profissional de saúde.",
-          "O desconto inclui o frete? Não. O frete é calculado à parte e não entra na base de cálculo do desconto de 5%.",
-          "O cupom CECI funciona em produtos que já estão com desconto ou em combo? Sim. Em teste real no checkout, o CECI aplicou os 5% de desconto por cima do preço de um combo que já tinha 20% OFF automático, reduzindo ainda mais o valor final. A soma com outro cupom digitado separadamente não é garantida — nesses casos, o checkout costuma aplicar apenas o maior desconto disponível.",
-          "Qual o valor mínimo de compra para usar o cupom CECI? Não há valor mínimo de compra para aplicar o cupom CECI. O desconto de 5% é válido sobre o valor dos produtos elegíveis no carrinho, independentemente do total da compra. O frete, no entanto, é calculado separadamente conforme a localização de entrega.",
-          "O cupom CECI dá frete grátis? Não. O cupom CECI concede 5% de desconto sobre o valor dos produtos, mas o frete é calculado de forma independente e não entra no cálculo do desconto. Recomenda-se verificar o valor do frete no checkout antes de finalizar o pedido.",
-          "Como saber se o cupom CECI foi aplicado corretamente? Após inserir o código CECI no campo de cupom no checkout, o sistema exibe o valor do desconto no resumo do pedido. Se o desconto de 5% não aparecer, verifique se o produto é elegível (Alfamino e Alfaré estão excluídos) e se não há outro cupom ativo, pois o CECI não é cumulativo com outros códigos.",
-          "O cupom CECI tem data de validade? O cupom CECI é mantido ativo por meio de uma parceria comercial revisada periodicamente. As regras e a validade podem ser ajustadas sem aviso prévio. Por isso, recomenda-se sempre conferir o valor final no checkout no momento da compra para garantir que o desconto ainda está vigente.",
-          "Posso usar o cupom CECI em compras recorrentes ou assinatura? O cupom CECI não é cumulativo com outros códigos de desconto ativos no site. Recomenda-se verificar, no momento da compra, se a função de assinatura ou compra recorrente permite o uso de cupons de parceiros, pois as regras podem variar conforme a política vigente da loja.",
-          "Onde encontro o cupom Nestlé Nutren? O cupom CECI é o código oficial de parceria do blog Em Casa com Cecília com a Nestlé Nutre. Ele garante 5% de desconto na maioria dos produtos da loja oficial e pode ser aplicado diretamente no campo de cupom no checkout.",
-          "Existe desconto de laboratório para produtos Nutren? Não há desconto específico para laboratórios no site oficial da Nestlé Nutre. O cupom CECI é válido para compras de pessoa física e pode ser usado por profissionais de saúde em compras pessoais, mas não substitui contratos corporativos ou vendas diretas para instituições.",
-          "Existe o programa \"Nestlé meu desconto nutrição\"? Não existe um programa com esse nome exato, mas a Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, que oferece um cupom de 10% renovado todo mês e atendimento nutricional gratuito por chat. É um benefício separado da nossa parceria: o cupom CECI garante 5% de desconto sem necessidade de cadastro em nenhum programa.",
-          "Como funciona o programa de desconto Nutren? A Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com conteúdo de saúde, atendimento nutricional gratuito e um cupom de 10% renovado todo mês — não é um clube de pontos. Já o cupom CECI é aplicado direto no checkout, sem necessidade de cadastro em nenhum programa.",
-          "O cupom Nestlé CECI vale para outros produtos da marca? Não. O cupom CECI é válido exclusivamente para produtos vendidos no site oficial da Nestlé Nutre (Nutren Senior, Control, 2.0, Ultra, Fortify, Mulher). Não funciona para produtos de outras marcas Nestlé como Nescafé, Kit Kat, Purina ou outros e-commerces.",
-          "Existe alguma promoção de desconto específica para Nutren Senior? O cupom CECI garante 5% de desconto em Nutren Senior e demais produtos da linha (exceto Alfamino e Alfaré). Promoções pontuais podem aparecer no site oficial, mas o CECI é garantido e funciona independentemente de campanhas sazonais."
+          "O cupom CECI funciona para Nutren Senior? O cupom foi cadastrado para produtos Nestlé Nutre, exceto Alfamino e Alfaré, o que inclui o Nutren Senior. Confirme se o desconto de 5% aparece no resumo do carrinho antes de pagar.",
+          "O cupom pode ser usado mais de uma vez? A regra de reutilização depende da política da loja e da campanha vigente. Se houver limite por conta, CPF ou pedido, o checkout informa.",
+          "É necessário receita médica para comprar? Confira na página do produto se há alguma exigência; as regras de venda são da loja. De forma geral, itens de nutrição clínica devem ser usados conforme o rótulo e, quando necessário, com orientação de médico ou nutricionista.",
+          "O desconto inclui o frete? Não. O desconto de 5% incide sobre o valor dos produtos; o frete é calculado à parte, conforme a política da loja.",
+          "O cupom CECI funciona em produtos que já estão com desconto ou em combo? Pode variar conforme a campanha ativa da loja oficial. O valor final exibido no carrinho é a referência para saber se o cupom foi somado a outra condição ou se a substituiu; confira antes de pagar.",
+          "Qual o valor mínimo de compra para usar o cupom CECI? A ficha do cupom Nestlé Nutre no Em Casa com Cecília não informa valor mínimo. Se a loja exigir algum para a sua compra, o checkout avisa. O frete é calculado separadamente.",
+          "O cupom CECI dá frete grátis? O cupom em si, não: ele aplica 5% sobre o valor dos produtos; frete, prazo e condições de entrega seguem a política da loja. Em 30/09/2026, a página inicial da loja informava frete grátis para todo o Brasil acima de R$ 400 e parcelamento em até 6x sem juros, condições que podem mudar; confira no carrinho.",
+          "Como saber se o cupom CECI foi aplicado corretamente? Depois de inserir o código CECI no campo de cupom do checkout, o desconto aparece no resumo do pedido. Se não aparecer, verifique se nenhum item é Alfamino ou Alfaré, se o código foi digitado corretamente e se há outra campanha ou cupom ativo que possa interferir.",
+          "O cupom CECI tem data de validade? Ele segue ativo enquanto a parceria entre o blog e a Nestlé Nutre estiver vigente. As condições podem ser ajustadas pela loja, então confira o desconto no carrinho no momento da compra.",
+          "Posso usar o cupom CECI em compras recorrentes ou assinatura? A loja tem o Programa de Assinaturas e, em 30/09/2026, a página do Nutren Senior indicava 10% OFF na primeira compra e 15% OFF a partir da terceira recorrência, sujeitos às condições indicadas na página. Não confirmamos se o CECI pode ser somado a esses descontos; confira o valor final no carrinho antes de assinar.",
+          "Onde encontro o cupom Nestlé Nutren? O cupom CECI é o código de parceria do blog Em Casa com Cecília com a Nestlé Nutre: 5% OFF em produtos da loja oficial, exceto Alfamino e Alfaré. A ficha atualizada fica na página de cupons do Em Casa com Cecília, e o código é aplicado no campo de cupom do checkout.",
+          "Existe desconto de laboratório para produtos Nutren? O cupom CECI é um código de parceria para compras no site da loja. Condições para laboratórios, clínicas ou compras corporativas, se existirem, devem ser consultadas diretamente com a Nestlé Nutre; o atendimento da loja é 0800 770 2461, de segunda a sexta, das 8h às 17h, segundo o site da loja.",
+          "Existe o programa \"Nestlé meu desconto nutrição\"? Não encontramos um programa com esse nome. A Nestlé Nutre tem o Programa Nestlé Nutre, voltado a pacientes e cuidadores, que, segundo a página do programa (consultada em 30/09/2026), oferece conteúdos e serviços gratuitos e um cupom de 10% todo mês para usar na loja. É um benefício separado, com cadastro; o CECI é aplicado no campo de cupom do checkout. Não confirmamos se os dois cupons podem ser somados.",
+          "Como funciona o programa de desconto Nutren? A Nestlé Nutre tem o Programa Nestlé Nutre, com cadastro, que inclui um cupom de 10% por mês, e o Programa de Assinaturas, com desconto na recorrência. O cupom CECI é diferente: é aplicado no campo de cupom do checkout.",
+          "O cupom Nestlé CECI vale para outros produtos da marca? O CECI foi cadastrado para a loja Nestlé Nutre (nestlenutre.com.br), exceto Alfamino e Alfaré. Produtos Nestlé vendidos em outros sites, mercados ou farmácias não fazem parte da parceria.",
+          "Existe alguma promoção de desconto específica para Nutren Senior? O cupom CECI dá 5% OFF em Nutren Senior e nos demais produtos elegíveis. Promoções pontuais podem aparecer no site oficial, e a combinação com o cupom varia conforme a campanha; o valor final do carrinho é a referência."
         ]
       }
     ],
@@ -33992,7 +33992,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
-    "editorialNote": "Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.",
+    "editorialNote": "Feito a partir das páginas públicas da Nestlé Nutre (consultadas em 30/09/2026); os produtos não foram testados por nós. Parceria comercial: podemos receber comissão pelo cupom CECI.",
     "relatedArticles": []
   },
   {
@@ -37594,6 +37594,12 @@ export const reviewsData: unknown[] = [
           "Cápsulas NEO: papel compostável e encaixe diferente",
           "Máquinas NEO: preparadas nativamente para cápsulas NEO",
           "Máquinas ORIGINAL: precisam do adaptador para usar cápsulas NEO"
+        ],
+        "links": [
+          {
+            "label": "Cápsulas compatíveis com Dolce Gusto: o que serve em cada máquina",
+            "href": "/reviews/dolce-gusto-capsulas-compativeis-guia"
+          }
         ]
       },
       {
@@ -42654,6 +42660,10 @@ export const reviewsData: unknown[] = [
           {
             "label": "Manual oficial da cafeteira Dolce Gusto NEO",
             "href": "https://www.nescafe-dolcegusto.com.br/media/wysiwyg/neo-machine/machine-manuals/NDG_Neo-N1_UM_BR_220V_2021-12-15_print.pdf"
+          },
+          {
+            "label": "Cápsulas compatíveis com Dolce Gusto: o que serve em cada máquina",
+            "href": "/reviews/dolce-gusto-capsulas-compativeis-guia"
           }
         ]
       },
@@ -48126,7 +48136,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 315,
     "slug": "nutren-senior-como-tomar-sem-empelotar",
-    "title": "Como Tomar Nutren Senior Sem Empelotar: Método da Pasta, Água ou Leite e Calor",
+    "title": "Como Tomar Nutren Senior Sem Empelotar",
     "seoTitle": "Como Tomar Nutren Senior Sem Empelotar: Guia Passo a Passo",
     "type": "Guia Prático",
     "category": "guias-praticos-utilidade",
@@ -48364,7 +48374,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e usar o cupom CECI",
         "paragraphs": [
-          "O Nutren Senior é vendido na loja oficial Nestlé Nutre (nestlenutre.com.br). Em 30/09/2026, a loja informava frete grátis acima de R$ 200 e assinatura com 10% OFF na primeira compra e 15% OFF a partir da terceira recorrência; confira as condições no carrinho.",
+          "O Nutren Senior é vendido na loja oficial Nestlé Nutre (nestlenutre.com.br). Em 30/09/2026, a página inicial da loja informava frete grátis para todo o Brasil acima de R$ 400; já na assinatura, a página do produto indicava frete grátis acima de R$ 200, 10% OFF na primeira compra e 15% OFF a partir da terceira recorrência. As condições podem mudar, então confira no carrinho.",
           "O código CECI dá 5% OFF em produtos Nestlé Nutre, exceto Alfamino e Alfaré, sobre o valor dos produtos (o frete não entra na conta). As regras podem variar por campanha, inclusive a soma com outras promoções, então confira o valor final no carrinho antes de pagar."
         ],
         "bullets": [],
@@ -48412,7 +48422,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "nutren",
-    "editorialNote": "Guia feito a partir da página oficial do Nutren Senior na loja Nestlé Nutre (consultada em 30/09/2026); o produto não foi testado por nós e o conteúdo não substitui nutricionista ou médico. Parceria comercial: podemos receber comissão pelo cupom CECI. Imagens de divulgação da Nestlé e ilustração própria.",
+    "editorialNote": "Feito a partir da página oficial do Nutren Senior na loja Nestlé Nutre; o conteúdo não substitui nutricionista ou médico. Parceria comercial: podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
         "slug": "nutren-senior-zero-lactose-ficha-tecnica",
@@ -48425,6 +48435,281 @@ export const reviewsData: unknown[] = [
       {
         "slug": "cupom-ceci-nestle-nutre-como-usar",
         "title": "Cupom Nestlé Nutre CECI: Como Usar o Desconto de 5%"
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "slug": "dolce-gusto-capsulas-compativeis-guia",
+    "title": "Cápsulas Compatíveis com Dolce Gusto: O Que Serve na Sua Máquina",
+    "seoTitle": "Cápsulas compatíveis Dolce Gusto: Original, NEO e outras marcas",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Descubra quais cápsulas servem na sua Dolce Gusto (Original ou NEO), o que faz o Adaptador NEO Start, que marcas vendem compatíveis e como usar o cupom CECI.",
+    "metaDescription": "Que cápsula serve na sua Dolce Gusto, Original ou NEO? Veja o Adaptador NEO Start, marcas compatíveis e preço por cápsula. Inclui o cupom CECI.",
+    "publishedAt": "30 de setembro de 2026",
+    "publishedAtISO": "2026-09-30",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-capsula.webp",
+    "imageAlt": "Cecília segurando o porta-cápsulas da Genio S Touch com uma cápsula NESCAFÉ Gold encaixada",
+    "imageFit": "cover",
+    "imageAspect": "square",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: qual cápsula serve em cada máquina",
+        "paragraphs": [
+          "A Nescafé Dolce Gusto tem hoje dois sistemas de cápsulas, o Original (que a marca chama de Geração 1 e que é diferente do sistema Nespresso Original) e o NEO. Segundo a marca, a máquina NEO só aceita cápsulas NEO. Nas máquinas Original, a cápsula NEO entra pelo Adaptador NEO Start, uma exceção oficial e num sentido só. Em resumo, segundo as páginas oficiais da Nescafé Dolce Gusto e o que as marcas citadas publicam, consultados em 30/09/2026:"
+        ],
+        "bullets": [
+          "Não sabe qual é a sua? A máquina do sistema NEO se chama NEO; Mini Me, Genio S, Infinissima e Piccolo são do sistema Original.",
+          "Máquinas Original usam as cápsulas Original, que a loja oficial lista como \"cápsulas para máquinas ORIGINAL\". Nos modelos que a marca lista como compatíveis (Genio S, Genio S Touch, Genio S Plus, Infinissima, Infinissima Touch, Piccolo, Piccolo XS e Mini Me), o Adaptador NEO Start, vendido à parte, também prepara uma seleção de cafés NEO (espressos e lungos).",
+          "Máquina NEO: segundo a página oficial, \"é compatível apenas com cápsulas NEO compostáveis\". Cápsulas Original não servem nela.",
+          "Cápsulas de outras marcas vendidas como \"para Dolce Gusto\" existem (Baggio e Gimoka, por exemplo). São produtos de outras empresas, e este guia não os testou. Se a sua máquina é NEO, vale a regra da página oficial: ela aceita apenas cápsulas NEO.",
+          "L'OR e Pilão: as páginas dessas marcas no Brasil descrevem cápsulas compatíveis com Nespresso Original e não citam Dolce Gusto.",
+          "Preço: em 30/09/2026, a Baggio saía a R$ 2,59 por cápsula (cerca de R$ 2,20 na assinatura), e as caixas de café Original da loja oficial, em promoção, de R$ 1,79 a R$ 2,20 por cápsula. Compatível nem sempre sai mais barato."
+        ]
+      },
+      {
+        "heading": "Como saber qual cápsula comprar",
+        "paragraphs": [
+          "Na dúvida, a regra é combinar a cápsula com o sistema da sua máquina. Alguns pontos ajudam a não errar:"
+        ],
+        "bullets": [
+          "Máquina Original sem adaptador: na loja oficial, as cápsulas que servem são as da linha Original. Máquina NEO: só cápsulas NEO, segundo a página oficial.",
+          "Em dúvida sobre o modelo, a página \"Conheça os sistemas\" da loja oficial compara os dois sistemas.",
+          "As cápsulas NEO trazem NEO no nome do produto, como em \"NEO Espresso Sul de Minas Orgânico\".",
+          "Na loja oficial, a página de cafés traz o subtítulo \"Cápsulas para máquinas ORIGINAL\" e um filtro \"Compatíveis NEO Start\"."
+        ]
+      },
+      {
+        "heading": "Original (Geração 1) e NEO: o que muda",
+        "paragraphs": [
+          "Os dois sistemas usam cápsulas diferentes: o Original faz cafés e também bebidas com leite, chocolate e chá, quentes ou frias; o NEO é focado em cafés pretos. A tabela resume o que as páginas oficiais da marca (\"Conheça os sistemas\", máquina NEO, Adaptador NEO Start e perguntas frequentes) informavam em 30/09/2026.",
+          "Um aviso de vocabulário: neste guia, \"Original\" é o nome que a loja oficial dá ao sistema das máquinas Geração 1. Não quer dizer \"cápsula da marca\" em oposição a \"compatível\"."
+        ],
+        "comparisonTable": {
+          "caption": "Sistema Original (Geração 1) e sistema NEO, segundo as páginas oficiais da Nescafé Dolce Gusto",
+          "headers": [
+            "Característica",
+            "Sistema Original (Geração 1)",
+            "Sistema NEO"
+          ],
+          "rows": [
+            [
+              "Bebidas",
+              "Mais de 30 variedades, quentes ou frias: cafés, lattes, cappuccinos, chocolates e chás",
+              "Cafés pretos: ristretto, espresso, lungo, caseiro e americano"
+            ],
+            [
+              "Extração",
+              "Alta pressão, 15 bar",
+              "Até 15 bar; a máquina identifica a cápsula e ajusta o preparo sozinha"
+            ],
+            [
+              "Cápsula",
+              "Original; algumas bebidas usam duas",
+              "NEO, de papel compostável"
+            ],
+            [
+              "O que aceita",
+              "Cápsulas Original; nos modelos que a marca lista, com o Adaptador NEO Start, alguns cafés NEO",
+              "Apenas cápsulas NEO"
+            ],
+            [
+              "Máquinas",
+              "Mini Me, Genio S, Genio S Plus, Genio S Touch, Infinissima, Piccolo, entre outras",
+              "NEO, a partir de R$ 799,00 (loja oficial, 30/09/2026)"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Conheça os sistemas Original e NEO (loja oficial)",
+            "href": "https://www.nescafe-dolcegusto.com.br/sistema-ndg/"
+          },
+          {
+            "label": "Máquina NEO (loja oficial)",
+            "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe-neo"
+          }
+        ]
+      },
+      {
+        "heading": "Cápsula NEO na máquina Original: só com o Adaptador NEO Start",
+        "paragraphs": [
+          "Vale acertar o sentido: o Adaptador NEO Start é um acessório para máquinas Original (Geração 1). Segundo a página oficial, consultada em 30/09/2026, ele permite usar uma seleção de cápsulas NEO na máquina que você já tem. Ele não é um acessório para a máquina NEO.",
+          "O adaptador não libera todas as cápsulas NEO: a seleção é de espressos e lungos. A página oficial listava cinco como compatíveis: NEO Espresso Sul de Minas Orgânico, NEO Espresso Delicate, NEO Espresso Serras do Alto Paranaíba, NEO Lungo Chapada Diamantina e NEO Lungo Cerrado Orgânico."
+        ],
+        "bullets": [
+          "Máquinas compatíveis, segundo a página oficial: Genio S, Genio S Touch, Genio S Plus, Infinissima, Infinissima Touch, Piccolo, Piccolo XS e Mini Me.",
+          "Como usar, segundo a página oficial: remova o suporte de cápsula regular, insira o adaptador e coloque a cápsula NEO; para espresso, use 1 \"tracinho\" de água e, para lungo, 4 \"tracinhos\". Tracinho é como a marca chama cada nível de volume; o nosso guia do adaptador explica o preparo por tipo de máquina.",
+          "Preço em 30/09/2026: R$ 69,90 (de R$ 89,90) na loja oficial."
+        ],
+        "image": "/images/reviews/dolcegusto/adaptador-neo-start-encaixe.webp",
+        "imageAlt": "Adaptador NEO Start aberto com uma cápsula NEO de espresso posicionada para o encaixe",
+        "imageCaption": "O NEO Start é usado em máquinas Original compatíveis para preparar cápsulas NEO selecionadas.",
+        "imageFit": "square",
+        "links": [
+          {
+            "label": "Guia do Adaptador NEO Start",
+            "href": "/reviews/adaptador-neo-start-o-que-e"
+          },
+          {
+            "label": "Quantos ml saem em cada nível da Dolce Gusto",
+            "href": "/reviews/tabela-medidas-dolce-gusto-ml-por-nivel"
+          },
+          {
+            "label": "Página oficial do Adaptador NEO Start",
+            "href": "https://www.nescafe-dolcegusto.com.br/adaptador-neo-start"
+          }
+        ]
+      },
+      {
+        "heading": "Cápsulas de outras marcas para Dolce Gusto: o que existe",
+        "paragraphs": [
+          "Fora da loja oficial, há marcas que vendem cápsulas anunciadas \"para Dolce Gusto\". Se a sua máquina é NEO, lembre que a página oficial dela diz que ela é compatível apenas com cápsulas NEO. Em 30/09/2026, encontramos a Baggio e a Gimoka; conferimos também a L'OR e a Pilão:"
+        ],
+        "bullets": [
+          "Baggio Café: o site da marca tem a linha \"Cápsulas para Dolce Gusto\", com sabores como Chocolate com Avelã, Chocolate Trufado, Caramelo e Clássico, em caixas de 10 cápsulas a R$ 25,90 (R$ 22,02 na assinatura). A própria página avisa que Nespresso e Dolce Gusto são marcas de terceiro, não relacionadas à Baggio Café.",
+          "Gimoka: os resultados de buscadores para o site da marca no Brasil mostram produtos \"para Dolce Gusto\" em embalagens de 16 unidades, com sabores como Cappuccino e Cioccolata. Não conseguimos abrir o site em 30/09/2026, então essa informação vem dos títulos das páginas. Varejistas online também anunciam cápsulas Gimoka compatíveis com Dolce Gusto.",
+          "L'OR e Pilão: não confunda, elas não entram nessa lista. As páginas dessas marcas no Brasil descrevem cápsulas compatíveis com Nespresso Original, não com Dolce Gusto: a L'OR diz que as cápsulas foram projetadas para máquinas Nespresso Original, e a Pilão informa que suas cápsulas são \"compatíveis com máquinas de café NESPRESSO®* ORIGINAL\"."
+        ],
+        "links": [
+          {
+            "label": "Cápsulas para Dolce Gusto no site da Baggio Café",
+            "href": "https://baggiocafe.com.br/collections/capsulas-para-dolce-gusto"
+          },
+          {
+            "label": "Compatibilidade das cápsulas L'OR",
+            "href": "https://www.cafelor.com.br/institucional/compatibilidade"
+          },
+          {
+            "label": "Cápsulas Pilão",
+            "href": "https://www.pilao.com.br/nossos-cafes/capsulas"
+          }
+        ]
+      },
+      {
+        "heading": "Compatível compensa no preço?",
+        "paragraphs": [
+          "Nem sempre. Em 30/09/2026, a caixa Baggio de 10 cápsulas custava R$ 25,90, ou R$ 2,59 por cápsula (R$ 22,02 na assinatura, cerca de R$ 2,20 por cápsula). Na loja oficial, as caixas de café Original de 10 cápsulas tinham preço de lista de R$ 25,90 a R$ 28,90 e estavam em promoção de R$ 17,90 a R$ 21,99, o que dá de R$ 1,79 a R$ 2,20 por cápsula. As caixas NEO de 10 saíam de R$ 2,19 a R$ 2,39 por cápsula em promoção.",
+          "Ou seja: em promoção, a cápsula Original da loja oficial saía mais barata que a da Baggio avulsa (R$ 1,79 a R$ 2,20 contra R$ 2,59) e, no máximo, empatava com a Baggio na assinatura (cerca de R$ 2,20). No preço de lista, ficava no mesmo valor da Baggio avulsa ou até R$ 0,30 mais cara por cápsula (R$ 2,59 a R$ 2,89 contra R$ 2,59), e de R$ 0,39 a R$ 0,69 mais cara que a Baggio na assinatura (cerca de R$ 2,20).",
+          "Atenção também às bebidas de duas cápsulas: no verso de uma caixa Original (foto nesta seção), bebidas como Cappuccino, Latte Macchiato, Chococino, Mocha e Chai Tea Latte aparecem com duas cápsulas, então o custo por xícara soma as duas. Os preços mudam o tempo todo, por isso compare sempre o valor por cápsula do dia (e, nas bebidas de duas cápsulas, por xícara), não só o da caixa: as caixas das marcas compatíveis trazem quantidades diferentes (a Gimoka vende caixas de 16)."
+        ],
+        "image": "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-hero.webp",
+        "imageAlt": "Verso de caixa de cápsulas Dolce Gusto com a tabela \"Como preparar sua bebida\", dividida em cafés, lattes, chocolates e chás",
+        "imageCaption": "Verso de uma caixa de cápsulas Original: a tabela mostra o volume de cada bebida e quais usam duas cápsulas.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.0067
+      },
+      {
+        "heading": "Se for experimentar uma compatível: cuidados",
+        "paragraphs": [
+          "Este guia não testou nenhuma cápsula de outra marca. Por isso, não afirmamos que funcionam bem, que vazam ou que preservam a máquina: são produtos de outras empresas, não da Nescafé Dolce Gusto. Alguns cuidados de bom senso, que são nossos e não um aviso do fabricante:"
+        ],
+        "bullets": [
+          "Procure na embalagem a indicação explícita \"para Dolce Gusto\" e confira se a cápsula não é do sistema Nespresso. Se a sua máquina é NEO, lembre que ela só aceita cápsulas NEO.",
+          "Guarde a nota fiscal e veja a política de troca do vendedor.",
+          "Se a alavanca não fechar com facilidade ou a cápsula vazar, pare de usar aquela cápsula."
+        ]
+      },
+      {
+        "heading": "E a garantia da máquina?",
+        "paragraphs": [
+          "Segundo os Termos e Condições da loja oficial, atualizados em 03/09/2020, as máquinas vendidas no site são garantidas pela Arno de acordo com os termos da documentação original do produto. Nas páginas oficiais que consultamos, não encontramos uma regra específica sobre cápsulas de outras marcas.",
+          "Para saber como a garantia da sua máquina trata o uso de cápsulas de outras marcas ou de acessórios de terceiros, leia o manual ou pergunte antes à assistência técnica da Arno, pelo telefone (11) 2060-9777, que a Dolce Gusto indica para defeitos em máquinas Geração 1. Guarde o número de protocolo do atendimento."
+        ]
+      },
+      {
+        "heading": "Adaptadores para Nespresso e cápsulas reutilizáveis: o que sabemos",
+        "paragraphs": [
+          "Também existem acessórios de terceiros que prometem usar outros sistemas na Dolce Gusto. Há adaptadores para cápsulas Nespresso à venda em varejistas, como o Nexcap na Amazon.com.br, e cápsulas reutilizáveis para Dolce Gusto também à venda na Amazon.com.br. Não são produtos da Nestlé nem da Arno, e não os testamos.",
+          "No nosso comparativo entre Dolce Gusto, Nespresso e 3 Corações, já avisamos: os formatos de cápsula são diferentes, adaptadores de terceiros podem afetar a vedação ou o funcionamento da máquina, e o certo é seguir sempre o manual.",
+          "Sobre as cápsulas reutilizáveis, os relatos que lemos num fórum de café (Clube do Café, mensagens de 2020 e 2021) são mistos: um usuário contou que \"tem saído um café bem gostoso e com crema\", e outro disse que não conseguiu nada parecido com espresso. Não prometemos resultado nem economia. A máquina trabalha com água quente sob pressão (a Arno informa até 15 bar na Genio S Touch), então vale seguir as instruções do manual."
+        ],
+        "links": [
+          {
+            "label": "Dolce Gusto vs Nespresso vs 3 Corações: qual escolher",
+            "href": "/reviews/dolce-gusto-vs-nespresso-vs-3-coracoes"
+          }
+        ]
+      },
+      {
+        "heading": "Onde comprar cápsulas Dolce Gusto e usar o cupom CECI",
+        "paragraphs": [
+          "A loja oficial (nescafe-dolcegusto.com.br) vende as cápsulas Original e NEO. A opção \"Monte sua caixa\", com 50 ou 100 cápsulas escolhidas por você, era anunciada com frete grátis. Em 30/09/2026, a loja exibia duas faixas de frete grátis, válidas só para pedidos de bebidas (não para máquinas): uma sem valor mínimo, na página do adaptador, e outra para pedidos acima de R$ 100, na página de sabores. As condições mudam, então confira no carrinho.",
+          "O cupom CECI dá 5% OFF na loja oficial em compras a partir de R$ 100 e aceita até 3 usos por CPF, segundo a ficha do cupom aqui no site. Confira no carrinho se o desconto entrou antes de pagar: a soma com combos e outras campanhas pode variar."
+        ],
+        "links": [
+          {
+            "label": "Como usar o cupom CECI na Dolce Gusto",
+            "href": "/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar"
+          },
+          {
+            "label": "Ver o cupom Dolce Gusto atualizado",
+            "href": "/cupons/dolce-gusto"
+          },
+          {
+            "label": "Ver cápsulas na loja oficial Dolce Gusto",
+            "href": "https://www.nescafe-dolcegusto.com.br",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes sobre cápsulas Dolce Gusto",
+        "bullets": [
+          "Como saber se a minha Dolce Gusto é Original ou NEO? Pelo nome do modelo: a máquina do sistema NEO se chama NEO; Mini Me, Genio S, Infinissima e Piccolo são do sistema Original (Geração 1).",
+          "Cápsula NEO funciona na Dolce Gusto Original? Só com o Adaptador NEO Start, e só nos modelos que a marca lista como compatíveis (Genio S, Genio S Touch, Genio S Plus, Infinissima, Infinissima Touch, Piccolo, Piccolo XS e Mini Me), com uma seleção de cafés NEO (espressos e lungos). Sem o adaptador, não: a página oficial manda trocar o suporte de cápsula regular pelo adaptador para usar a cápsula NEO.",
+          "A máquina NEO aceita cápsulas Original? Não. A página oficial da máquina diz que ela é compatível apenas com cápsulas NEO e que outras cápsulas Nescafé Dolce Gusto não são compatíveis.",
+          "Cápsula compatível de outra marca serve na máquina NEO? Pela página oficial, não: a máquina NEO é compatível apenas com cápsulas NEO compostáveis. As marcas que encontramos (Baggio e Gimoka) anunciam suas cápsulas como \"para Dolce Gusto\", e não as testamos.",
+          "O Adaptador NEO Start serve para usar cápsulas comuns na máquina NEO? Não. Ele é para máquinas Original (Genio S, Genio S Touch, Genio S Plus, Infinissima, Infinissima Touch, Piccolo, Piccolo XS e Mini Me) prepararem cápsulas NEO selecionadas.",
+          "Cápsula L'OR ou Pilão serve na Dolce Gusto? As cápsulas descritas nas páginas dessas marcas no Brasil são para Nespresso Original, e essas páginas não citam Dolce Gusto; os formatos Nespresso e Dolce Gusto são diferentes.",
+          "Existe cápsula de outra marca compatível com Dolce Gusto? Há marcas que vendem cápsulas \"para Dolce Gusto\", como Baggio e Gimoka; não as testamos. A máquina NEO, porém, é compatível apenas com cápsulas NEO, segundo a página oficial.",
+          "Cápsula Nespresso serve na Dolce Gusto? Não diretamente: os formatos são diferentes. Existem adaptadores de terceiros, como o Nexcap, que não são da Nestlé e que não testamos; eles podem afetar a vedação ou o funcionamento da máquina, então siga o manual.",
+          "Usar cápsula compatível anula a garantia? Não encontramos regra específica nas páginas oficiais consultadas. Segundo os Termos da loja oficial, as máquinas vendidas no site são garantidas pela Arno conforme a documentação do produto; confirme no manual ou com a assistência técnica da Arno, que a loja indica para máquinas Geração 1, no (11) 2060-9777.",
+          "Dá para fazer cappuccino ou latte com cápsula compatível? Algumas marcas têm sabores desse tipo, como o Cappuccino da Gimoka, mas não os avaliamos. Na linha oficial, o Cappuccino e o Latte Macchiato usam duas cápsulas (a primeira de leite e a segunda de café), enquanto outras bebidas com leite, como o Café au Lait, usam uma, segundo o verso de uma caixa Original.",
+          "Qual é mais barata, a cápsula da loja oficial ou a compatível? Depende da promoção do dia. Em 30/09/2026, a Baggio custava R$ 2,59 por cápsula avulsa (cerca de R$ 2,20 na assinatura), e as caixas de café Original da loja oficial saíam entre R$ 1,79 e R$ 2,20 por cápsula em promoção e entre R$ 2,59 e R$ 2,89 no preço de lista.",
+          "Como falar com a Nestlé sobre uma cápsula Nescafé Dolce Gusto? O Serviço de Atendimento ao Consumidor da Nestlé, 0800 776 2233, consta na caixa das cápsulas e na página de perguntas frequentes da loja. Se a cápsula for de outra marca, procure essa marca ou o vendedor, com a nota fiscal em mãos.",
+          "Qual o código de desconto do Dolce Gusto? É o CECI: 5% OFF na loja oficial em compras a partir de R$ 100, com até 3 usos por CPF, segundo a página de cupons do Em Casa com Cecília; confira o desconto no carrinho."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Veja as cápsulas Original e NEO na loja oficial Dolce Gusto e confira o cupom CECI",
+      "label": "Ver cápsulas na loja oficial",
+      "url": "https://www.nescafe-dolcegusto.com.br",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "dolce-gusto",
+    "editorialNote": "Feito a partir de páginas públicas da Nescafé Dolce Gusto, da Arno e das marcas citadas, de anúncios, de um fórum e da foto de uma caixa, consultados em 30/09/2026; não testamos cápsulas de outras marcas. Parceria comercial: podemos receber comissão pelo cupom CECI.",
+    "relatedArticles": [
+      {
+        "slug": "adaptador-neo-start-o-que-e",
+        "title": "Adaptador NEO Start: o que é e quando você precisa dele"
+      },
+      {
+        "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes",
+        "title": "Dolce Gusto vs Nespresso vs 3 Corações: qual cafeteira de cápsula escolher em 2026?"
+      },
+      {
+        "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
+        "title": "Tabela de medidas Dolce Gusto: quantos ml saem em cada nível?"
+      },
+      {
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
+        "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5% (OUTUBRO 2026)"
       }
     ]
   }
