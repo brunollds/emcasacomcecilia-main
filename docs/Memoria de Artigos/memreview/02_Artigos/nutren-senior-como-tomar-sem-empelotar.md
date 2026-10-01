@@ -6,10 +6,10 @@ parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Job-5"
-proxima_acao: "upload-do-infografico-go-bruno-e-deploy"
-bloqueado_por: "1 imagem nova (nutren-senior-metodo-da-pasta-3-passos.webp) ainda sem upload no CDN (GO do Bruno)"
+proxima_acao: "nenhuma"
+bloqueado_por: null
 score_autoridade: 92
 score_conversao: 70
 score_ponderado_total: 88
@@ -53,11 +53,13 @@ status_i18n: "nao-aplicavel"
 - `relatedArticles`: entrou a ficha do Zero Lactose; saiu o comparativo de creatina.
 - H1 encurtado (78 caracteres); seoTitle mantido (58).
 
-### Pendências
-- **Upload** do infográfico novo no CDN (manifesto, verify, mapa, `candidate-proof`): precisa de GO do Bruno.
+### Publicação e ajustes posteriores
+- **No ar em 30/09/2026** (commits `37b3237` e `f2ea27c`; infográfico no CDN; IndexNow enviado).
+- Ajustes feitos depois do primeiro deploy, publicados em 30/09/2026 junto com o guia de cápsulas compatíveis (SHA no `git log`): título encurtado para "Como Tomar Nutren Senior Sem Empelotar" (pedido do Bruno), `editorialNote` reduzida e correção do frete na seção "Onde comprar".
+- **Erro corrigido no frete:** o texto publicado dizia "frete grátis acima de R$ 200" como se fosse da loja toda. Em 30/09/2026 a página inicial da loja dizia frete grátis acima de **R$ 400**; os **R$ 200** são da **assinatura** (página do produto), junto com 10% OFF na primeira compra e 15% OFF a partir da 3ª recorrência.
 - O módulo "Nutren Senior Premium" e o pronto para beber ficaram fora do guia por escolha.
-- Revalidar no dia do deploy: frete grátis acima de R$ 200 e assinatura 10%/15% (loja, 30/09/2026) e o cupom CECI.
-- O guia `cupom-ceci-nestle-nutre-como-usar` diz que, em "teste real" (julho), o CECI somou aos 20% de um combo, e ao mesmo tempo que a soma não é garantida; vale o Bruno decidir se isso fica ou se alinha ao `couponsData.ts`.
+- O guia `cupom-ceci-nestle-nutre-como-usar` foi alinhado ao `couponsData.ts` em 30/09/2026 (removidos o "teste real" do combo, o "sem valor mínimo" e o "garantido"); publicado no mesmo deploy.
+- Evidência literal de 30/09/2026 (navegador, nestlenutre.com.br) que sustenta os números do guia do cupom e do frete deste guia: home "Frete grátis acima de R$ 400" e "até 6X sem juros"; rodapé "0800 7702461 de seg a sex das 8h às 17h"; página do Nutren Senior (banner da assinatura) "10% OFF na primeira compra e 15% OFF a partir da 3ª recorrência*" e "Frete grátis para todo o Brasil acima de R$200"; programanestlenutre.com.br "Um cupom de 10% todo mês" e "Cadastre-se agora". O WebFetch/curl recebem 403 nessas páginas; só o navegador embutido lê.
 
 ---
 
