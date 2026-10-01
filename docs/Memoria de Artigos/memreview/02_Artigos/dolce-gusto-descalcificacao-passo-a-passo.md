@@ -6,9 +6,9 @@ parceiro: "[[Dolce-Gusto]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Job-5"
-proxima_acao: "deploy-e-indexnow"
+proxima_acao: null
 bloqueado_por: null
 score_autoridade: 92
 score_conversao: 65

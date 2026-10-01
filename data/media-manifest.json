@@ -52249,6 +52249,52 @@
       "verified_at": "2026-09-30T20:15:30.026Z",
       "verification_etag_or_digest": "c5ff92458f325e75a68deb3792c49fde0791578959fa5e5e00b15b90e4d2ca31",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-senior-metodo-da-pasta-3-passos.webp",
+      "local_url": "/images/reviews/nutren/nutren-senior-metodo-da-pasta-3-passos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 61022,
+      "sha256": "2ad135fcd940c27e9319da164c016f92b8fead552af44901ae3c34fdf1660bdf",
+      "width": 1200,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-senior-metodo-da-pasta-3-passos.webp",
+      "storage_filename": "nutren-senior-metodo-da-pasta-3-passos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-senior-como-tomar-sem-empelotar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-senior-como-tomar-sem-empelotar.json",
+          "line": 59,
+          "column": 17,
+          "literal": "/images/reviews/nutren/nutren-senior-metodo-da-pasta-3-passos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 48512,
+          "column": 19,
+          "literal": "/images/reviews/nutren/nutren-senior-metodo-da-pasta-3-passos.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2ad135fcd940c27e9319da164c016f92b8fead552af44901ae3c34fdf1660bdf/nutren-senior-metodo-da-pasta-3-passos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2ad135fcd940c27e9319da164c016f92b8fead552af44901ae3c34fdf1660bdf/nutren-senior-metodo-da-pasta-3-passos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-01T00:08:39.677Z",
+      "verification_etag_or_digest": "2ad135fcd940c27e9319da164c016f92b8fead552af44901ae3c34fdf1660bdf",
+      "verification_status": "verified"
     }
   ]
 }

@@ -6,10 +6,10 @@ parceiro: "[[I-Wanna-Sleep]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Job-5"
-proxima_acao: "upload-de-midia-go-bruno-e-deploy"
-bloqueado_por: "upload das 4 imagens no CDN (GO do Bruno) e confirmação da origem/licença das imagens"
+proxima_acao: null
+bloqueado_por: null
 score_autoridade: 90
 score_conversao: 75
 score_ponderado_total: 86
