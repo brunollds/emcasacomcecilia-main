@@ -28,6 +28,7 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 | `nutren` | Nutren / Nestlé Nutri | `CECI` | `lastVerified` |
 | `i-wanna-sleep` | I Wanna Sleep | `CECIEMCASA` | `lastVerified` |
 | `magalu` | Magalu (Magazine Você da Cecília) | `100EMCASACOMCECILIA` (+ 9 faixas em `tiers`) | `lastVerified`, `metaTitle`, `metaDescription`, FAQ "Cupom Magalu hoje" |
+| `letseatit` | Let's Eat It | `MAUAD` | `lastVerified`, `metaTitle`, `metaDescription`; preservar os 4 UTMs da Inbazz em `offerUrl` |
 | `shein` | SHEIN | Oferta por link, `referral` e `campaigns` | `lastVerified`, destinos, códigos, público e `verifiedAt` de cada campanha |
 
 #### Cupons inativos (não aparecem no site, mas mantêm histórico)

@@ -158,6 +158,7 @@ acervo, não regra para linkar em massa.
 | Nutren | comercial ganhável | menor cluster; posição 11 |
 | Magalu | sem evidência | 123 impr., posição 18 |
 | Shein | não medido | cluster ainda não existe |
+| Let's Eat It | não medido | parceria nova (out/2026); só `/cupons/letseatit`, sem artigo |
 
 Detalhamento, números por página e a fila de execução: `HANDOFF-CUPONS-FASE-1A.md`.
 
