@@ -88,6 +88,7 @@ const partners = [
   { name: 'ABC da Construção', src: '/images/about/partners/abc-da-construcao.png', href: 'https://abcdaconstrucao.com.br' },
   { name: 'Promobit', src: '/images/about/partners/promobit.jpg', href: 'https://promobit.com.br' },
   { name: 'Shein', src: '/images/about/partners/shein.webp', href: 'https://shein.com' },
+  { name: "Let's Eat It", src: '/images/about/partners/letseatit.png', href: 'https://letseatit.com.br' },
 ];
 
 const personJsonLd = {

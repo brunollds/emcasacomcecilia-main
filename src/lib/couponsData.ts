@@ -708,6 +708,8 @@ export const COUPONS: Coupon[] = [
     offerUrl:
       'https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico',
     brandIcon: 'LEI',
+    brandLogo: '/images/about/partners/letseatit-icon.png',
+    brandLogoAlt: "Marca Let's Eat It",
     brandColor: '#56624B',
     code: 'MAUAD',
     discount: '5% OFF',

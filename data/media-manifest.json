@@ -684,6 +684,82 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/about/partners/letseatit-icon.png",
+      "local_url": "/images/about/partners/letseatit-icon.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 950,
+      "sha256": "6a4f21cbdb57b345c544ca9b15c5ab798e4f1df7de7defbc2b22ab71041d8add",
+      "width": 256,
+      "height": 256,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "letseatit-icon.png",
+      "storage_filename": "letseatit-icon.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 711,
+          "column": 17,
+          "literal": "/images/about/partners/letseatit-icon.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6a4f21cbdb57b345c544ca9b15c5ab798e4f1df7de7defbc2b22ab71041d8add/letseatit-icon.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6a4f21cbdb57b345c544ca9b15c5ab798e4f1df7de7defbc2b22ab71041d8add/letseatit-icon.png",
+      "uploaded_at": null,
+      "verified_at": "2026-10-02T22:58:45.478Z",
+      "verification_etag_or_digest": "6a4f21cbdb57b345c544ca9b15c5ab798e4f1df7de7defbc2b22ab71041d8add",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/about/partners/letseatit.png",
+      "local_url": "/images/about/partners/letseatit.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 3569,
+      "sha256": "f009d72ef8e85b0a02fef2ad56b1769d5a37b90ceabd0b4526ef0c33cf1bf152",
+      "width": 600,
+      "height": 113,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "letseatit.png",
+      "storage_filename": "letseatit.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/app/(pt)/sobre/page.js"
+      ],
+      "references": [
+        {
+          "file": "src/app/(pt)/sobre/page.js",
+          "line": 91,
+          "column": 33,
+          "literal": "/images/about/partners/letseatit.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f009d72ef8e85b0a02fef2ad56b1769d5a37b90ceabd0b4526ef0c33cf1bf152/letseatit.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f009d72ef8e85b0a02fef2ad56b1769d5a37b90ceabd0b4526ef0c33cf1bf152/letseatit.png",
+      "uploaded_at": null,
+      "verified_at": "2026-10-02T22:58:45.693Z",
+      "verification_etag_or_digest": "f009d72ef8e85b0a02fef2ad56b1769d5a37b90ceabd0b4526ef0c33cf1bf152",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/about/partners/magalu.webp",
       "local_url": "/images/about/partners/magalu.webp",
       "media_kind": "image",
