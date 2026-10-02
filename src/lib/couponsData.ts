@@ -701,6 +701,77 @@ export const COUPONS: Coupon[] = [
     ],
   },
   {
+    offerMode: 'discount-code',
+    slug: 'letseatit',
+    brand: "Let's Eat It",
+    officialUrl: 'https://letseatit.com.br/',
+    offerUrl:
+      'https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico',
+    brandIcon: 'LEI',
+    brandColor: '#56624B',
+    code: 'MAUAD',
+    discount: '5% OFF',
+    discountNumber: 5,
+    category: 'Casa, cozinha e presentes',
+    shortDescription: "todo o site Let's Eat It",
+    longDescription:
+      "Código da Cecília para economizar em compras de cozinha, mesa posta, decoração e presentes no site da Let's Eat It.",
+    metaTitle: "Cupom Let's Eat It Outubro 2026: MAUAD — 5% OFF no Site",
+    metaDescription:
+      "Cupom Let's Eat It confirmado para outubro de 2026: use MAUAD no checkout e ganhe 5% OFF no site oficial de casa, cozinha, mesa posta e presentes.",
+    eligibleCategories: "Todo o site Let's Eat It, conforme regras da loja",
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja',
+    shipping: 'Calculado separadamente, conforme política da loja',
+    combinable: 'Pode variar conforme campanha ativa da loja',
+    lastVerified: '2026-10-02',
+    aboutBrand:
+      "A Let's Eat It é uma loja online brasileira de casa e presentes, com curadoria de marcas como Le Creuset, KitchenAid, Porto Brasil e Bohemia Crystal. O catálogo cobre mesa posta, cozinha, bar, café e chá, decoração, outdoor e eletrodomésticos — itens que conversam com a rotina de quem cozinha e recebe em casa. O cupom MAUAD, com o sobrenome da Cecília, entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar no site oficial. Como regras de desconto, frete e aplicação podem variar por campanha e produto, a recomendação é sempre conferir o desconto no checkout antes de finalizar a compra.",
+    faqs: [
+      {
+        question: "O cupom MAUAD vale para todos os produtos da Let's Eat It?",
+        answer:
+          "O cupom MAUAD dá 5% OFF em compras no site da Let's Eat It. Se algum item ou campanha tiver regra própria, o checkout informa; confirme o desconto no resumo do pedido antes de finalizar.",
+      },
+      {
+        question: 'Por que o cupom se chama MAUAD?',
+        answer:
+          'MAUAD é o sobrenome da Cecília Mauad, criadora do Em Casa com Cecília. É o código oficial da parceria com a loja.',
+      },
+      {
+        question: 'Posso usar o cupom MAUAD mais de uma vez?',
+        answer:
+          'A regra de reutilização depende da política da loja e da campanha vigente. Se houver limite por conta, CPF ou pedido, o checkout informa.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja oficial.',
+      },
+      {
+        question: 'O cupom MAUAD é cumulativo?',
+        answer:
+          'Pode variar conforme campanha ativa da loja. O valor final exibido no carrinho é a referência para saber se o cupom acumulou ou substituiu outra condição.',
+      },
+      {
+        question: 'O link leva para a loja oficial?',
+        answer:
+          "Sim. O botão de compra aponta para o site oficial da Let's Eat It, com a identificação da parceria da Cecília.",
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'no site oficial',
+      note: "Válido para compras no site oficial da Let's Eat It",
+    },
+    status: 'ativo',
+    featured: true,
+  },
+  {
     offerMode: 'affiliate-link',
     slug: 'shein',
     brand: 'SHEIN',
@@ -789,77 +860,6 @@ export const COUPONS: Coupon[] = [
         verifiedAt: '2026-09-01',
       },
     ],
-    status: 'ativo',
-    featured: true,
-  },
-  {
-    offerMode: 'discount-code',
-    slug: 'letseatit',
-    brand: "Let's Eat It",
-    officialUrl: 'https://letseatit.com.br/',
-    offerUrl:
-      'https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico',
-    brandIcon: 'LEI',
-    brandColor: '#56624B',
-    code: 'MAUAD',
-    discount: '5% OFF',
-    discountNumber: 5,
-    category: 'Casa, cozinha e presentes',
-    shortDescription: "todo o site Let's Eat It",
-    longDescription:
-      "Código da Cecília para economizar em compras de cozinha, mesa posta, decoração e presentes no site da Let's Eat It.",
-    metaTitle: "Cupom Let's Eat It Outubro 2026: MAUAD — 5% OFF no Site",
-    metaDescription:
-      "Cupom Let's Eat It confirmado para outubro de 2026: use MAUAD no checkout e ganhe 5% OFF no site oficial de casa, cozinha, mesa posta e presentes.",
-    eligibleCategories: "Todo o site Let's Eat It, conforme regras da loja",
-    validity: 'Cupom ativo enquanto a parceria estiver vigente',
-    reusable: 'Conforme regras da loja',
-    shipping: 'Calculado separadamente, conforme política da loja',
-    combinable: 'Pode variar conforme campanha ativa da loja',
-    lastVerified: '2026-10-02',
-    aboutBrand:
-      "A Let's Eat It é uma loja online brasileira de casa e presentes, com curadoria de marcas como Le Creuset, KitchenAid, Porto Brasil e Bohemia Crystal. O catálogo cobre mesa posta, cozinha, bar, café e chá, decoração, outdoor e eletrodomésticos — itens que conversam com a rotina de quem cozinha e recebe em casa. O cupom MAUAD, com o sobrenome da Cecília, entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar no site oficial. Como regras de desconto, frete e aplicação podem variar por campanha e produto, a recomendação é sempre conferir o desconto no checkout antes de finalizar a compra.",
-    faqs: [
-      {
-        question: "O cupom MAUAD vale para todos os produtos da Let's Eat It?",
-        answer:
-          "O cupom MAUAD dá 5% OFF em compras no site da Let's Eat It. Se algum item ou campanha tiver regra própria, o checkout informa; confirme o desconto no resumo do pedido antes de finalizar.",
-      },
-      {
-        question: 'Por que o cupom se chama MAUAD?',
-        answer:
-          'MAUAD é o sobrenome da Cecília Mauad, criadora do Em Casa com Cecília. É o código oficial da parceria com a loja.',
-      },
-      {
-        question: 'Posso usar o cupom MAUAD mais de uma vez?',
-        answer:
-          'A regra de reutilização depende da política da loja e da campanha vigente. Se houver limite por conta, CPF ou pedido, o checkout informa.',
-      },
-      {
-        question: 'O cupom dá frete grátis?',
-        answer:
-          'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja oficial.',
-      },
-      {
-        question: 'O cupom MAUAD é cumulativo?',
-        answer:
-          'Pode variar conforme campanha ativa da loja. O valor final exibido no carrinho é a referência para saber se o cupom acumulou ou substituiu outra condição.',
-      },
-      {
-        question: 'O link leva para a loja oficial?',
-        answer:
-          "Sim. O botão de compra aponta para o site oficial da Let's Eat It, com a identificação da parceria da Cecília.",
-      },
-      {
-        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
-        answer:
-          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
-      },
-    ],
-    monthlyHighlight: {
-      scope: 'no site oficial',
-      note: "Válido para compras no site oficial da Let's Eat It",
-    },
     status: 'ativo',
     featured: true,
   },
