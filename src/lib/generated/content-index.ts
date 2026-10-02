@@ -48712,5 +48712,300 @@ export const reviewsData: unknown[] = [
         "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5% (OUTUBRO 2026)"
       }
     ]
+  },
+  {
+    "id": 317,
+    "slug": "melatonina-quantas-gotas-tomar-horario-certo",
+    "title": "Melatonina líquida: quantas gotas tomar e em qual horário?",
+    "seoTitle": "Melatonina: quantas gotas tomar e em qual horário?",
+    "type": "Guia de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Entenda como conferir a quantidade de gotas no rótulo, o limite de 0,21 mg da Anvisa e as instruções de horário da melatonina líquida e gummy da IWS.",
+    "metaDescription": "Quantas gotas de melatonina tomar e em qual horário? Veja como ler o rótulo, o limite de 0,21 mg da Anvisa e as instruções da I Wanna Sleep antes de usar.",
+    "publishedAt": "30 de setembro de 2026",
+    "publishedAtISO": "2026-09-30",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/iwannasleep/melatonina-quantas-gotas-tomar-hero-v2.webp",
+    "imageAlt": "Ilustração editorial da Melatonina Líquida IWS no criado-mudo ao lado da cama, com iluminação quente de abajur",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Explicação da diferença entre quantidade de gotas, concentração e limite regulatório",
+      "Exemplo documentado da IWS, sem generalizar a porção para outras marcas",
+      "Instruções de horário separadas para as versões líquida e gummy",
+      "Comparação de formatos baseada nas informações do fabricante",
+      "Cupom CECIEMCASA e condições do Sleeptest com links para consulta"
+    ],
+    "cons": [
+      "O guia não define dose individual nem substitui avaliação de dificuldades persistentes para dormir",
+      "Suplementos de melatonina têm restrições de uso; atender ao limite regulatório não elimina possíveis riscos"
+    ],
+    "contentSections": [
+      {
+        "heading": "0,21 mg: o que o limite da Anvisa significa",
+        "paragraphs": [
+          "Quantas gotas de melatonina tomar? Não existe uma resposta única para todos os frascos: a quantidade depende da concentração e da porção indicada no rótulo do produto. O número de gotas usado por outra pessoa, ou em uma fórmula anterior, não deve servir de referência para um frasco diferente.",
+          "A melatonina é um hormônio produzido naturalmente pelo organismo e associado ao ciclo de sono e vigília. Essa função biológica não significa que qualquer suplemento seja um tratamento para dificuldades para dormir.",
+          "No Brasil, a autorização da Anvisa para suplementos alimentares de melatonina estabelece consumo diário máximo de 0,21 mg, equivalente a 210 microgramas, para adultos com 19 anos ou mais. Esse valor é um teto regulatório para a categoria, não uma dose ideal prescrita para cada pessoa nem uma garantia de segurança individual.",
+          "A Anvisa não aprovou alegações de benefícios para esses suplementos. Também é preciso distinguir a autorização do constituinte da regularização de um produto específico: informar 0,21 mg no rótulo não basta para chamá-lo de '100% aprovado pela Anvisa'.",
+          "Embalagens com porções de 3 mg, 5 mg ou 10 mg não seguem esse limite de consumo para suplementos brasileiros. Não copie essas quantidades de vídeos, relatos ou produtos vendidos em outros países. Se houver uma prescrição individual, as dúvidas sobre a formulação devem ser resolvidas com o profissional responsável."
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "Anvisa: autorização da melatonina em suplementos alimentares",
+            "href": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2021/anvisa-autoriza-a-melatonina-na-forma-de-suplemento-alimentar"
+          },
+          {
+            "label": "Ministério da Saúde: enquadramento e cuidados com a melatonina",
+            "href": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/m/melatonina/melatonina"
+          }
+        ]
+      },
+      {
+        "heading": "Quantas gotas? Confira a porção e a concentração do frasco",
+        "paragraphs": [
+          "O volume de 30 ml informa quanto líquido há na embalagem, mas não revela sozinho a quantidade de melatonina em cada gota. Para comparar fórmulas, procure a porção na tabela nutricional, a quantidade da substância por porção e o modo de uso. Não há um número padrão de gotas que possa ser transferido entre marcas.",
+          "No exemplo da Melatonina Líquida IWS, o fabricante informa 0,21 mg em uma gota. A apresentação consultada tem 30 ml e é anunciada pela loja como contendo 750 gotas. Esses dados descrevem esse produto; não são uma regra para toda melatonina líquida.",
+          "Para entender a conta, divida a quantidade de melatonina da porção pelo número de gotas da mesma porção. Se o rótulo informa 0,21 mg em uma gota, dez gotas correspondem a 2,1 mg. É uma conversão matemática, não uma recomendação para aumentar o consumo ou calcular uma dose por conta própria.",
+          "Leia o rótulo sempre que trocar de produto, mesmo que o frasco pareça semelhante. Confira também o conta-gotas e as instruções de manuseio da embalagem. Para a IWS, a indicação consultada é por via oral, sem instrução de retenção sob a língua ou de diluição. Não adapte o modo de uso a partir de orientações de outra formulação.",
+          "O total anunciado de gotas não é uma promessa de anos de uso contínuo. A validade, a conservação e eventuais orientações após a abertura limitam o aproveitamento do frasco e precisam ser conferidas na embalagem."
+        ],
+        "bullets": [],
+        "image": "/images/reviews/iwannasleep/melatonina-liquida-hero.webp",
+        "imageAlt": "Frasco e embalagem oficial da Melatonina Líquida I Wanna Sleep 30 ml",
+        "imageCaption": "Segundo o fabricante, a porção da Melatonina Líquida IWS é de uma gota, com 0,21 mg. Confira o rótulo da sua embalagem.",
+        "imageFit": "square",
+        "comparisonTable": {
+          "caption": "Como ler o rótulo sem confundir gotas, miligramas e volume",
+          "headers": [
+            "Informação",
+            "O que conferir"
+          ],
+          "rows": [
+            [
+              "Porção",
+              "Quantidade de gotas indicada para aquele produto"
+            ],
+            [
+              "Melatonina por porção",
+              "Quantidade em mg ou microgramas, não o volume em ml"
+            ],
+            [
+              "Conversão de unidades",
+              "210 microgramas equivalem a 0,21 mg"
+            ],
+            [
+              "Modo de uso",
+              "Instruções do fabricante para a formulação específica"
+            ],
+            [
+              "Validade e conservação",
+              "Prazo e cuidados informados na embalagem, inclusive após abertura"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Em qual horário tomar? Líquida e gummy têm instruções diferentes",
+        "paragraphs": [
+          "Não há um horário único que este guia possa indicar para todas as formulações ou situações de saúde. Na página da Melatonina Líquida IWS, a orientação é ingerir uma gota por via oral antes de dormir. O fabricante não fixa ali um intervalo de minutos ou horas para essa versão.",
+          "Já a página da Melatonina Gummy IWS orienta uma unidade ao dia, de uma a duas horas antes de dormir. Esse intervalo pertence à instrução desse produto e não deve ser apresentado como uma regra universal para a versão líquida ou para outras marcas.",
+          "Por isso, a resposta prática é conferir o rótulo do produto que você tem, em vez de escolher um horário por uma promessa de absorção rápida. Se o texto da embalagem deixar dúvidas, procure o fabricante ou um profissional de saúde. O artigo não fornece um protocolo de ajuste de horário nem substitui uma prescrição.",
+          "Os hábitos de sono merecem atenção independentemente do uso de suplementos. As orientações gerais do NHLBI, instituto dos NIH nos Estados Unidos, incluem horários regulares, um período tranquilo antes de deitar e menos luz intensa nesse momento. Essas medidas de rotina não são uma promessa de efeito da melatonina."
+        ],
+        "bullets": [
+          "Mantenha horários de dormir e acordar tão regulares quanto possível.",
+          "Reserve um período tranquilo antes de deitar e reduza a exposição a luz intensa de telas.",
+          "Observe a cafeína ao longo do dia; seus efeitos podem continuar pela noite.",
+          "Cuide do ambiente do quarto, com menos ruído e luz na hora de dormir."
+        ],
+        "image": "/images/reviews/iwannasleep/melatonina-liquida-maracuja-voando.webp",
+        "imageAlt": "Imagem promocional da Melatonina Líquida IWS sabor maracujá, com frasco conta-gotas e frutas",
+        "imageCaption": "Melatonina Líquida IWS sabor maracujá. Confira as instruções da sua embalagem; a versão gummy tem uma orientação de horário própria.",
+        "imageFit": "portrait",
+        "imageAspectRatio": 0.8241758241758241,
+        "links": [
+          {
+            "label": "NHLBI: orientações gerais para hábitos de sono",
+            "href": "https://www.nhlbi.nih.gov/health/sleep-deprivation/healthy-sleep-habits"
+          },
+          {
+            "label": "Consultar instruções da Melatonina Gummy IWS",
+            "href": "https://www.iwannasleep.com.br/products/melatonina-gummy-iws-maracuja-doce",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Gotas ou gomas: compare o formato, não uma promessa de efeito",
+        "paragraphs": [
+          "O conta-gotas exige conferir a quantidade dispensada. A goma é uma unidade mastigável, mas também requer atenção à porção. A escolha pode considerar manuseio, ingredientes, conservação e preferência de formato, sem transformar conveniência em superioridade clínica.",
+          "A comparação abaixo reúne informações das páginas do fabricante consultadas em outubro de 2026. Ela não é um teste de absorção, eficácia ou segurança entre os dois produtos.",
+          "Para comparar custo, use o preço vigente e as porções declaradas, sem ignorar a validade e a conservação após abrir. Um frasco com mais porções pode não ser a escolha mais conveniente para quem não consegue aproveitá-lo dentro dessas condições."
+        ],
+        "bullets": [],
+        "image": "/images/reviews/iwannasleep/melatonina-gummy-iws-goma.webp",
+        "imageAlt": "Melatonina Gummy da I Wanna Sleep em formato de goma mastigável zero açúcar",
+        "imageCaption": "A apresentação mastigável muda o formato de consumo; não comprova maior eficácia ou menor risco que as gotas.",
+        "imageFit": "square",
+        "comparisonTable": {
+          "caption": "Informações declaradas pela IWS para as apresentações líquida e gummy",
+          "headers": [
+            "Informação",
+            "Melatonina Líquida IWS",
+            "Melatonina Gummy IWS"
+          ],
+          "rows": [
+            [
+              "Porção e melatonina",
+              "1 gota: 0,21 mg",
+              "1 goma: 0,21 mg"
+            ],
+            [
+              "Apresentação",
+              "30 ml; 750 gotas anunciadas",
+              "Pote com 30 gomas"
+            ],
+            [
+              "Instrução de horário",
+              "Antes de dormir",
+              "De 1 a 2 horas antes de dormir"
+            ],
+            [
+              "Informações nutricionais",
+              "Sem açúcar, segundo o fabricante; conferir tabela no rótulo",
+              "Sem açúcar e 8 kcal por unidade, segundo o fabricante"
+            ],
+            [
+              "Escolha de formato",
+              "Frasco com conta-gotas",
+              "Unidade mastigável"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Cuidados de uso e quando procurar orientação",
+        "paragraphs": [
+          "O Ministério da Saúde relaciona relatos de sonolência, dor de cabeça, tontura, náusea e pesadelos, entre outros eventos adversos. Isso não significa que toda pessoa terá esses sintomas, mas impede classificar uma apresentação como praticamente sem risco.",
+          "O NCCIH, instituto dos NIH, informa que faltam dados para esclarecer a segurança do uso prolongado. Não há base neste guia para estabelecer um período fixo de uso, prometer ausência de efeitos ou orientar aumento da quantidade quando a dificuldade para dormir continua.",
+          "Dificuldades persistentes para dormir merecem avaliação, em vez de sucessivas trocas de suplemento. Quem já recebeu orientação individual deve esclarecer com o profissional as dúvidas sobre continuidade, horário e eventuais reações."
+        ],
+        "bullets": [
+          "A autorização de melatonina em suplementos se restringe a adultos com 19 anos ou mais; esses produtos não devem ser usados por crianças ou adolescentes.",
+          "Gestantes, lactantes e pessoas envolvidas em atividades que exigem atenção constante devem observar a advertência de não consumo.",
+          "Quem tem enfermidades ou usa medicamentos precisa consultar um profissional antes de consumir, inclusive por possíveis interações.",
+          "Não associe diferentes produtos com melatonina nem aumente a porção por conta própria; mantenha-os fora do alcance das crianças."
+        ],
+        "links": [
+          {
+            "label": "NCCIH: evidências e segurança da melatonina",
+            "href": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know"
+          }
+        ]
+      },
+      {
+        "heading": "Onde consultar a IWS, o cupom CECIEMCASA e o Sleeptest",
+        "paragraphs": [
+          "A loja oficial é a referência usada aqui para conferir apresentação e instruções da IWS. Antes de comprar, verifique disponibilidade, preço e as informações da embalagem. Confira a validade do produto recebido e os cuidados de conservação, especialmente após abrir o frasco.",
+          "O cupom CECIEMCASA oferece 10% OFF no site da I Wanna Sleep, conforme o cadastro da parceria. Confira as regras atualizadas no nosso hub de cupons e a aplicação no checkout, inclusive durante campanhas. O desconto é um benefício comercial, não um critério para decidir se um suplemento é adequado para você.",
+          "Na categoria Nutrição, o Sleeptest prevê troca após no mínimo 15 dias de utilização e dentro de 30 dias do recebimento, conforme os critérios do regulamento. A política cita ausência de resultados como condição e exige nota fiscal, contato com o atendimento e envio do produto. O benefício é crédito para troca, não reembolso.",
+          "Não se trata de troca automática apenas por dificuldade de manuseio. Consulte a política oficial antes da compra e, para solicitar o benefício, confirme o procedimento com a IWS. A descrição comercial do programa não comprova eficácia do suplemento."
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "Guia de cupons e regras do cupom CECIEMCASA na I Wanna Sleep",
+            "href": "/cupons/i-wanna-sleep"
+          },
+          {
+            "label": "Ficha técnica e análise detalhada da Melatonina Gummy IWS",
+            "href": "/reviews/melatonina-gummy-iws-para-que-serve-como-tomar"
+          },
+          {
+            "label": "Ficha técnica pública da Melatonina Líquida IWS 30ml",
+            "href": "/reviews/melatonina-liquida-iws-ficha-tecnica"
+          },
+          {
+            "label": "Consultar a Melatonina Líquida e as instruções da IWS",
+            "href": "https://www.iwannasleep.com.br/products/melatonina-liquida-iws-30ml-maracuja",
+            "sponsored": true
+          },
+          {
+            "label": "Política Sleeptest: regras para produtos de Nutrição",
+            "href": "https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas Frequentes sobre Melatonina em Gotas",
+        "bullets": [
+          "Quantas gotas de melatonina tomar? Confira a porção do seu produto. Na Líquida IWS, o fabricante indica uma gota, com 0,21 mg, antes de dormir por via oral ou conforme prescrição médica. Para definir o uso individual, consulte seu médico; essa quantidade não é uma regra para outros frascos.",
+          "Qual é o horário de uso da Melatonina Líquida IWS? A página do fabricante orienta uso por via oral antes de dormir, sem fixar um intervalo de minutos ou horas. O horário da versão gummy não deve ser transferido automaticamente para a líquida.",
+          "O limite de 0,21 mg da Anvisa é uma recomendação individual? Não. É o consumo diário máximo autorizado para suplementos de melatonina destinados a adultos com 19 anos ou mais, não uma prescrição nem uma garantia de segurança para cada pessoa.",
+          "Posso aumentar as gotas se não perceber resultado? Não aumente a porção por conta própria. Dificuldades persistentes para dormir precisam de avaliação, não de ajuste de quantidade orientado por este artigo.",
+          "A melatonina líquida deve ser usada sob a língua? A instrução verificada para a IWS é por via oral. Não identificamos uma orientação do fabricante para reter o líquido sob a língua ou prometer absorção mais rápida.",
+          "Crianças podem usar suplementos de melatonina? Esses suplementos não são autorizados para crianças e adolescentes no Brasil. Dúvidas sobre o sono infantil devem ser levadas ao pediatra; este guia não recomenda um suplemento ou spray como substituto da avaliação.",
+          "Posso tomar melatonina todas as noites indefinidamente? O NCCIH informa que a segurança de longo prazo ainda não está esclarecida. Não use este guia para definir duração de consumo; procure orientação individual para essa decisão.",
+          "Melatonina quebra jejum ou interfere na glicemia? Não é possível garantir uma resposta única por formato ou marca. Consulte a composição e a tabela nutricional. A gummy IWS declara 8 kcal por unidade; ser sem açúcar não permite concluir ausência de resposta glicêmica. Jejum para exame ou procedimento deve seguir as instruções do serviço de saúde.",
+          "A Melatonina Líquida IWS contém açúcar, glúten ou lactose? Segundo a FAQ do fabricante, não contém açúcar, glúten nem lactose. Confira também o rótulo do produto recebido.",
+          "A Melatonina Líquida IWS é vegana? Sim, de acordo com a informação do fabricante.",
+          "Qual é a composição da Melatonina Líquida IWS? O fabricante informa água, melatonina, agente de massa glicerina, aromatizante natural e acidulante ácido cítrico.",
+          "Quais são as contraindicações da Melatonina Líquida IWS? O fabricante orienta não consumir durante a gestação ou amamentação, na infância ou em atividades que exigem atenção constante. Pessoas com enfermidades ou que usam medicamentos devem consultar o médico. O produto não é medicamento; não exceda a recomendação da embalagem e mantenha fora do alcance de crianças.",
+          "Como funciona a garantia de 30 dias da IWS? Para a melatonina comprada no site oficial, o Sleeptest prevê crédito para troca, não reembolso. O regulamento da categoria Nutrição exige ao menos 15 dias de uso e solicitação dentro de 30 dias do recebimento, além dos demais critérios. Consulte a política e contate o atendimento antes de enviar o produto.",
+          "Qual é o cupom da I Wanna Sleep? O código da parceria é CECIEMCASA, com 10% OFF no site oficial. Consulte as regras atualizadas no hub de cupons e confira sua aplicação no checkout."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Confira as informações da Melatonina Líquida na I Wanna Sleep e as condições do cupom CECIEMCASA, com 10% OFF no site oficial.",
+      "label": "Conferir no site oficial da IWS",
+      "url": "https://www.iwannasleep.com.br/products/melatonina-liquida-iws-30ml-maracuja",
+      "sponsored": true
+    },
+    "coupon": "CECIEMCASA",
+    "affiliate": "i-wanna-sleep",
+    "editorialNote": "Guia independente baseado em orientações públicas das autoridades, nas informações da IWS e na política Sleeptest. Não é um teste clínico nem uma prescrição e não substitui avaliação profissional. Parceria comissionada via cupom CECIEMCASA.",
+    "relatedArticles": [
+      {
+        "slug": "melatonina-gummy-iws-para-que-serve-como-tomar",
+        "title": "Melatonina Gummy IWS: Para Que Serve e Como Tomar"
+      },
+      {
+        "slug": "melatonina-liquida-iws-ficha-tecnica",
+        "title": "Melatonina Líquida IWS: Ficha Técnica e O Que Saber Antes de Comprar"
+      },
+      {
+        "slug": "sleepspray-kidz-iws-como-funciona-ritual-do-sono",
+        "title": "SleepSpray Kidz IWS: Como Funciona e o Ritual do Sono Infantil"
+      }
+    ],
+    "gallery": [
+      {
+        "image": "/images/reviews/iwannasleep/melatonina-quantas-gotas-tomar-hero-v2.webp",
+        "alt": "Ilustração editorial da Melatonina Líquida IWS no criado-mudo ao lado da cama",
+        "caption": "Cena ilustrativa gerada por IA com a embalagem da IWS como referência; não é fotografia de teste do produto."
+      },
+      {
+        "image": "/images/reviews/iwannasleep/melatonina-liquida-hero.webp",
+        "alt": "Frasco de Melatonina Líquida IWS sabor maracujá",
+        "caption": "Apresentação líquida da IWS: consulte a porção e as instruções na embalagem, sem generalizar para outras marcas."
+      },
+      {
+        "image": "/images/reviews/iwannasleep/melatonina-gummy-iws-goma.webp",
+        "alt": "Melatonina Gummy da IWS em formato de goma de maracujá",
+        "caption": "A gummy é uma apresentação mastigável com instruções próprias; formato não é garantia de eficácia."
+      }
+    ]
   }
 ];

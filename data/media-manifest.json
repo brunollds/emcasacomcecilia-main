@@ -45966,8 +45966,12 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/melatonina-gummy-iws-para-que-serve-como-tomar.json",
+        "content/reviews/melatonina-quantas-gotas-tomar-horario-certo.json",
+        "data/media-delivery-review-batch.json",
+        "data/media-delivery-site-batch.json",
         "docs/Memoria de Artigos/memreview/02_Artigos/melatonina-gummy-iws-para-que-serve-como-tomar.md",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -45985,6 +45989,34 @@
           "authority": "source"
         },
         {
+          "file": "content/reviews/melatonina-quantas-gotas-tomar-horario-certo.json",
+          "line": 124,
+          "column": 17,
+          "literal": "/images/reviews/iwannasleep/melatonina-gummy-iws-goma.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/melatonina-quantas-gotas-tomar-horario-certo.json",
+          "line": 248,
+          "column": 17,
+          "literal": "/images/reviews/iwannasleep/melatonina-gummy-iws-goma.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-delivery-review-batch.json",
+          "line": 161,
+          "column": 6,
+          "literal": "/images/reviews/iwannasleep/melatonina-gummy-iws-goma.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-delivery-site-batch.json",
+          "line": 142,
+          "column": 6,
+          "literal": "/images/reviews/iwannasleep/melatonina-gummy-iws-goma.webp",
+          "authority": "source"
+        },
+        {
           "file": "docs/Memoria de Artigos/memreview/02_Artigos/melatonina-gummy-iws-para-que-serve-como-tomar.md",
           "line": 87,
           "column": 19,
@@ -45993,15 +46025,22 @@
         },
         {
           "file": "src/lib/generated/content-index.ts",
-          "line": 42007,
+          "line": 42021,
           "column": 19,
           "literal": "/images/reviews/iwannasleep/melatonina-gummy-iws-goma.webp",
           "authority": "generated"
         },
         {
           "file": "src/lib/generated/content-index.ts",
-          "line": 42204,
+          "line": 42218,
           "column": 19,
+          "literal": "/images/reviews/iwannasleep/melatonina-gummy-iws-goma.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 215,
+          "column": 4,
           "literal": "/images/reviews/iwannasleep/melatonina-gummy-iws-goma.webp",
           "authority": "generated"
         }
@@ -46009,7 +46048,7 @@
       "remote_key": "v1/image/b4914d9629508c6cef8134da0aa403600148184bad76a9e89a7aed2d471a4b74/melatonina-gummy-iws-goma.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b4914d9629508c6cef8134da0aa403600148184bad76a9e89a7aed2d471a4b74/melatonina-gummy-iws-goma.webp",
       "uploaded_at": null,
-      "verified_at": "2026-09-06T23:47:43.366Z",
+      "verified_at": "2026-10-02T01:49:44.770Z",
       "verification_etag_or_digest": "b4914d9629508c6cef8134da0aa403600148184bad76a9e89a7aed2d471a4b74",
       "verification_status": "verified"
     },
@@ -46170,7 +46209,11 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/melatonina-liquida-iws-ficha-tecnica.json",
-        "src/lib/generated/content-index.ts"
+        "content/reviews/melatonina-quantas-gotas-tomar-horario-certo.json",
+        "data/media-delivery-review-batch.json",
+        "data/media-delivery-site-batch.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -46181,9 +46224,44 @@
           "authority": "source"
         },
         {
+          "file": "content/reviews/melatonina-quantas-gotas-tomar-horario-certo.json",
+          "line": 69,
+          "column": 17,
+          "literal": "/images/reviews/iwannasleep/melatonina-liquida-hero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/melatonina-quantas-gotas-tomar-horario-certo.json",
+          "line": 243,
+          "column": 17,
+          "literal": "/images/reviews/iwannasleep/melatonina-liquida-hero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-delivery-review-batch.json",
+          "line": 164,
+          "column": 6,
+          "literal": "/images/reviews/iwannasleep/melatonina-liquida-hero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "data/media-delivery-site-batch.json",
+          "line": 145,
+          "column": 6,
+          "literal": "/images/reviews/iwannasleep/melatonina-liquida-hero.webp",
+          "authority": "source"
+        },
+        {
           "file": "src/lib/generated/content-index.ts",
-          "line": 39404,
+          "line": 39419,
           "column": 15,
+          "literal": "/images/reviews/iwannasleep/melatonina-liquida-hero.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 218,
+          "column": 4,
           "literal": "/images/reviews/iwannasleep/melatonina-liquida-hero.webp",
           "authority": "generated"
         }
@@ -46191,7 +46269,7 @@
       "remote_key": "v1/image/a854da32d5b78382b6f7b3947e0a90132beaaabb80ea6b50de66e2c64b8cd1cb/melatonina-liquida-hero.webp",
       "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a854da32d5b78382b6f7b3947e0a90132beaaabb80ea6b50de66e2c64b8cd1cb/melatonina-liquida-hero.webp",
       "uploaded_at": null,
-      "verified_at": "2026-09-06T23:47:43.366Z",
+      "verified_at": "2026-10-02T01:49:44.772Z",
       "verification_etag_or_digest": "a854da32d5b78382b6f7b3947e0a90132beaaabb80ea6b50de66e2c64b8cd1cb",
       "verification_status": "verified"
     },
@@ -52294,6 +52372,89 @@
       "uploaded_at": null,
       "verified_at": "2026-10-01T00:08:39.677Z",
       "verification_etag_or_digest": "2ad135fcd940c27e9319da164c016f92b8fead552af44901ae3c34fdf1660bdf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/melatonina-liquida-maracuja-voando.webp",
+      "local_url": "/images/reviews/iwannasleep/melatonina-liquida-maracuja-voando.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 135250,
+      "sha256": "313e310b60615d02a3fdd03947b7b488ed3933dcb97490793505852cb8739a1d",
+      "width": 750,
+      "height": 910,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "melatonina-liquida-maracuja-voando.webp",
+      "storage_filename": "melatonina-liquida-maracuja-voando.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/melatonina-quantas-gotas-tomar-horario-certo.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/melatonina-quantas-gotas-tomar-horario-certo.json",
+          "line": 99,
+          "column": 17,
+          "literal": "/images/reviews/iwannasleep/melatonina-liquida-maracuja-voando.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/313e310b60615d02a3fdd03947b7b488ed3933dcb97490793505852cb8739a1d/melatonina-liquida-maracuja-voando.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/313e310b60615d02a3fdd03947b7b488ed3933dcb97490793505852cb8739a1d/melatonina-liquida-maracuja-voando.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-02T01:49:44.772Z",
+      "verification_etag_or_digest": "313e310b60615d02a3fdd03947b7b488ed3933dcb97490793505852cb8739a1d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/melatonina-quantas-gotas-tomar-hero-v2.webp",
+      "local_url": "/images/reviews/iwannasleep/melatonina-quantas-gotas-tomar-hero-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 100506,
+      "sha256": "78ec599aafb09a220f7466c825b4ee4ba15b0a3c2793e07c93d18a686a64306e",
+      "width": 1672,
+      "height": 941,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melatonina-quantas-gotas-tomar-hero-v2.webp",
+      "storage_filename": "melatonina-quantas-gotas-tomar-hero-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/melatonina-quantas-gotas-tomar-horario-certo.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/melatonina-quantas-gotas-tomar-horario-certo.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/melatonina-quantas-gotas-tomar-hero-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/melatonina-quantas-gotas-tomar-horario-certo.json",
+          "line": 238,
+          "column": 17,
+          "literal": "/images/reviews/iwannasleep/melatonina-quantas-gotas-tomar-hero-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/78ec599aafb09a220f7466c825b4ee4ba15b0a3c2793e07c93d18a686a64306e/melatonina-quantas-gotas-tomar-hero-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/78ec599aafb09a220f7466c825b4ee4ba15b0a3c2793e07c93d18a686a64306e/melatonina-quantas-gotas-tomar-hero-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-02T01:49:44.772Z",
+      "verification_etag_or_digest": "78ec599aafb09a220f7466c825b4ee4ba15b0a3c2793e07c93d18a686a64306e",
       "verification_status": "verified"
     }
   ]
