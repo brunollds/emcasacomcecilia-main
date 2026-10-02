@@ -121,7 +121,7 @@ export default function CuponsPage() {
   const stats = getCouponStats();
   const jsonLd = getJsonLd();
   const lastUpdate = stats.lastUpdate
-    ? new Date(stats.lastUpdate).toLocaleDateString('pt-BR', {
+    ? new Date(`${stats.lastUpdate}T12:00:00`).toLocaleDateString('pt-BR', {
         day: 'numeric',
         month: 'long',
         year: 'numeric',

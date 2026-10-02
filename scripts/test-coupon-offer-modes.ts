@@ -27,6 +27,19 @@ assert.deepEqual(
 assert.ok(getAllActiveCouponSlugs().includes('shein'), 'SHEIN ativa deve gerar página de cupom');
 assert.ok(!getAllActiveCouponSlugs().includes('kopenhagen'), 'Kopenhagen pausada não deve gerar página');
 
+const letsEatIt = COUPONS.find((coupon) => coupon.slug === 'letseatit');
+assert.ok(letsEatIt && letsEatIt.offerMode === 'discount-code', "Let's Eat It deve existir como discount-code");
+assert.equal(letsEatIt.code, 'MAUAD');
+assert.equal(letsEatIt.discountNumber, 5);
+// A comissão da parceria é atribuída pelos UTMs da Inbazz; perder um deles quebra o rastreio.
+const letsEatItOfferUrl = new URL(letsEatIt.offerUrl);
+assert.equal(letsEatItOfferUrl.hostname, 'letseatit.com.br');
+assert.equal(letsEatItOfferUrl.searchParams.get('utm_source'), 'embaixador');
+assert.equal(letsEatItOfferUrl.searchParams.get('utm_medium'), 'emcasacomcecilia');
+assert.equal(letsEatItOfferUrl.searchParams.get('utm_campaign'), 'inbazz');
+assert.equal(letsEatItOfferUrl.searchParams.get('utm_content'), 'organico');
+assert.ok(getAllActiveCouponSlugs().includes('letseatit'), "Let's Eat It ativa deve gerar página de cupom");
+
 const source = COUPONS.find((coupon) => coupon.offerMode === 'discount-code');
 assert.ok(source, 'É necessário ao menos um discount-code para montar o teste');
 
