@@ -57,12 +57,24 @@ Ao criar o primeiro artigo, usar `affiliate: "letseatit"` (o slug do cupom) e li
 
 ---
 
-## 5. Dores Mapeadas
+## 5. Mídia da Marca
+
+| Arquivo | Origem | Uso | Licença |
+|---|---|---|---|
+| `/images/about/partners/letseatit.png` | Logotipo do cabeçalho de letseatit.com.br, baixado em 2026-10-02 | Parceiros comerciais no `/sobre` | Identificação da marca parceira, no contexto da parceria |
+| `/images/about/partners/letseatit-icon.png` | Favicon oficial (monograma "L") de letseatit.com.br, baixado em 2026-10-02, achatado sobre branco | Chip do hero, página de cupom e imagem de compartilhamento | Identificação da marca parceira, no contexto da parceria |
+
+Os dois estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
+conforme `docs/GUIA-MIDIA-EDITORIAL.md`.
+
+---
+
+## 6. Dores Mapeadas
 
 Nenhuma mapeada ainda.
 
 ---
 
-## 6. Artigos Já Publicados no Cluster
+## 7. Artigos Já Publicados no Cluster
 
 Nenhum.
