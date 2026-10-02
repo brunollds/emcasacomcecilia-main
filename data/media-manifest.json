@@ -52456,6 +52456,168 @@
       "verified_at": "2026-10-02T01:49:44.772Z",
       "verification_etag_or_digest": "78ec599aafb09a220f7466c825b4ee4ba15b0a3c2793e07c93d18a686a64306e",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/fibermais-linha-preparo-oficial.webp",
+      "local_url": "/images/reviews/nutren/fibermais-linha-preparo-oficial.webp",
+      "staged": true,
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 59338,
+      "sha256": "43a36db44cc391d257b298d5fb777f6cea213cb1a56b3be91d486fc26c70aba6",
+      "width": 1156,
+      "height": 300,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "fibermais-linha-preparo-oficial.webp",
+      "storage_filename": "fibermais-linha-preparo-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/fibermais-como-usar-em-receitas-e-bebidas.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/fibermais-como-usar-em-receitas-e-bebidas.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/fibermais-como-usar-em-receitas-e-bebidas.json",
+          "line": 92,
+          "column": 17,
+          "literal": "/images/reviews/nutren/fibermais-linha-preparo-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/fibermais-como-usar-em-receitas-e-bebidas.json",
+          "line": 310,
+          "column": 17,
+          "literal": "/images/reviews/nutren/fibermais-linha-preparo-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/fibermais-como-usar-em-receitas-e-bebidas.md",
+          "line": 182,
+          "column": 4,
+          "literal": "/images/reviews/nutren/fibermais-linha-preparo-oficial.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/43a36db44cc391d257b298d5fb777f6cea213cb1a56b3be91d486fc26c70aba6/fibermais-linha-preparo-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/43a36db44cc391d257b298d5fb777f6cea213cb1a56b3be91d486fc26c70aba6/fibermais-linha-preparo-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-02T15:56:29.100Z",
+      "verification_etag_or_digest": "43a36db44cc391d257b298d5fb777f6cea213cb1a56b3be91d486fc26c70aba6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/fibermais-sem-sabor-beneficios-oficial.webp",
+      "local_url": "/images/reviews/nutren/fibermais-sem-sabor-beneficios-oficial.webp",
+      "staged": true,
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 62840,
+      "sha256": "b3a7f7a45f8c974496fca5d59b40a0c0ac7e0dafa7b601f27cd0aa2741d6a250",
+      "width": 1440,
+      "height": 876,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "fibermais-sem-sabor-beneficios-oficial.webp",
+      "storage_filename": "fibermais-sem-sabor-beneficios-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/fibermais-como-usar-em-receitas-e-bebidas.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/fibermais-como-usar-em-receitas-e-bebidas.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/fibermais-como-usar-em-receitas-e-bebidas.json",
+          "line": 42,
+          "column": 17,
+          "literal": "/images/reviews/nutren/fibermais-sem-sabor-beneficios-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/fibermais-como-usar-em-receitas-e-bebidas.json",
+          "line": 303,
+          "column": 17,
+          "literal": "/images/reviews/nutren/fibermais-sem-sabor-beneficios-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/fibermais-como-usar-em-receitas-e-bebidas.md",
+          "line": 181,
+          "column": 4,
+          "literal": "/images/reviews/nutren/fibermais-sem-sabor-beneficios-oficial.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b3a7f7a45f8c974496fca5d59b40a0c0ac7e0dafa7b601f27cd0aa2741d6a250/fibermais-sem-sabor-beneficios-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b3a7f7a45f8c974496fca5d59b40a0c0ac7e0dafa7b601f27cd0aa2741d6a250/fibermais-sem-sabor-beneficios-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-02T15:56:29.100Z",
+      "verification_etag_or_digest": "b3a7f7a45f8c974496fca5d59b40a0c0ac7e0dafa7b601f27cd0aa2741d6a250",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/fibermais-sem-sabor-lata-oficial-v2.webp",
+      "local_url": "/images/reviews/nutren/fibermais-sem-sabor-lata-oficial-v2.webp",
+      "staged": true,
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35706,
+      "sha256": "fbb683b4745b0df61e3229dcb607bfd878774c77aa842452eed1b152f3d5938f",
+      "width": 700,
+      "height": 700,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "fibermais-sem-sabor-lata-oficial-v2.webp",
+      "storage_filename": "fibermais-sem-sabor-lata-oficial-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/fibermais-como-usar-em-receitas-e-bebidas.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/fibermais-como-usar-em-receitas-e-bebidas.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/fibermais-como-usar-em-receitas-e-bebidas.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/fibermais-sem-sabor-lata-oficial-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/fibermais-como-usar-em-receitas-e-bebidas.json",
+          "line": 296,
+          "column": 17,
+          "literal": "/images/reviews/nutren/fibermais-sem-sabor-lata-oficial-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/fibermais-como-usar-em-receitas-e-bebidas.md",
+          "line": 180,
+          "column": 4,
+          "literal": "/images/reviews/nutren/fibermais-sem-sabor-lata-oficial-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/fbb683b4745b0df61e3229dcb607bfd878774c77aa842452eed1b152f3d5938f/fibermais-sem-sabor-lata-oficial-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fbb683b4745b0df61e3229dcb607bfd878774c77aa842452eed1b152f3d5938f/fibermais-sem-sabor-lata-oficial-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-02T15:56:29.100Z",
+      "verification_etag_or_digest": "fbb683b4745b0df61e3229dcb607bfd878774c77aa842452eed1b152f3d5938f",
+      "verification_status": "verified"
     }
   ]
 }

@@ -12,6 +12,8 @@ export interface ReviewGalleryImage {
   alt?: string;
   caption?: string;
   label?: string;
+  objectFit?: 'cover' | 'contain';
+  aspectRatio?: number;
 }
 
 export interface ReviewGalleryVideo {
@@ -35,6 +37,16 @@ export function normalizeReviewGalleryImages(
     const image = typeof item.image === 'string' && item.image ? item.image : item.url;
     return typeof image === 'string' && image ? [{ ...item, image }] : [];
   });
+}
+
+export function getReviewGalleryImagePresentation(image: ReviewGalleryImage) {
+  return {
+    aspectRatio: typeof image.aspectRatio === 'number'
+      && Number.isFinite(image.aspectRatio) && image.aspectRatio > 0
+      ? image.aspectRatio
+      : 4 / 3,
+    objectFit: image.objectFit === 'contain' ? 'contain' : 'cover',
+  };
 }
 
 function extractYouTubeId(url: string): string | null {
@@ -219,36 +231,55 @@ function PhotoCarousel({
         className="hide-scrollbar flex snap-x snap-mandatory gap-4 overflow-x-auto overflow-y-hidden py-2 lg:px-6"
         aria-label="Galeria de fotos"
       >
-        {images.map((img, index) => (
-          <button
-            key={`${img.image}-${index}`}
-            type="button"
-            data-gallery-card
-            onClick={() => onOpen(index)}
-            className="group relative w-[260px] flex-shrink-0 snap-start overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-[#f9f9f9] text-left transition-all hover:border-[#ff6b35]/30 hover:shadow-md sm:w-[300px] lg:w-[340px]"
-            aria-label={`Ampliar imagem ${index + 1}`}
-          >
-            <div className="relative aspect-[4/3]">
-              <Image
-                src={resolveMediaUrl(img.image)}
-                alt={img.alt || img.caption || title || 'Foto da galeria'}
-                fill
-                className="object-cover transition-transform duration-700 ease-out group-hover:scale-105"
-                sizes="(max-width: 640px) 260px, (max-width: 1024px) 300px, 340px"
-              />
-              <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#0f1419]/5 to-[#0f1419]/30" />
-              <span className="absolute bottom-3 right-3 inline-flex items-center gap-1.5 rounded-full bg-black/70 px-3 py-1.5 text-xs font-bold uppercase tracking-[0.12em] text-white opacity-90 transition-opacity group-hover:opacity-100">
-                <Maximize2 className="h-3.5 w-3.5" />
-                Ampliar
-              </span>
-            </div>
-            {(img.caption || img.alt) && (
-              <p className="line-clamp-2 px-4 py-3 text-sm font-semibold text-[#24313d]">
-                {img.caption || img.alt}
-              </p>
-            )}
-          </button>
-        ))}
+        {images.map((img, index) => {
+          const presentation = getReviewGalleryImagePresentation(img);
+          return (
+            <button
+              key={`${img.image}-${index}`}
+              type="button"
+              data-gallery-card
+              onClick={() => onOpen(index)}
+              className={`group relative w-[260px] flex-shrink-0 snap-start overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-[#f9f9f9] text-left transition-all hover:border-[#ff6b35]/30 hover:shadow-md sm:w-[300px] lg:w-[340px] ${
+                presentation.objectFit === 'contain' ? 'self-start' : ''
+              }`}
+              aria-label={`Ampliar imagem ${index + 1}`}
+            >
+              <div className="relative" style={{ aspectRatio: presentation.aspectRatio }}>
+                <Image
+                  src={resolveMediaUrl(img.image)}
+                  alt={img.alt || img.caption || title || 'Foto da galeria'}
+                  fill
+                  className={`transition-transform duration-700 ease-out ${
+                    presentation.objectFit === 'contain'
+                      ? 'object-contain'
+                      : 'object-cover group-hover:scale-105'
+                  }`}
+                  sizes="(max-width: 640px) 260px, (max-width: 1024px) 300px, 340px"
+                />
+                {presentation.objectFit === 'cover' && (
+                  <>
+                    <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#0f1419]/5 to-[#0f1419]/30" />
+                    <span className="absolute bottom-3 right-3 inline-flex items-center gap-1.5 rounded-full bg-black/70 px-3 py-1.5 text-xs font-bold uppercase tracking-[0.12em] text-white opacity-90 transition-opacity group-hover:opacity-100">
+                      <Maximize2 className="h-3.5 w-3.5" />
+                      Ampliar
+                    </span>
+                  </>
+                )}
+              </div>
+              {presentation.objectFit === 'contain' && (
+                <span className="mx-4 mt-3 inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-[0.12em] text-[#24313d]">
+                  <Maximize2 className="h-3.5 w-3.5" />
+                  Ampliar
+                </span>
+              )}
+              {(img.caption || img.alt) && (
+                <p className="line-clamp-2 px-4 py-3 text-sm font-semibold text-[#24313d]">
+                  {img.caption || img.alt}
+                </p>
+              )}
+            </button>
+          );
+        })}
       </div>
 
       <button

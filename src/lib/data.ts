@@ -220,6 +220,8 @@ export interface Review {
     image: string;
     alt: string;
     caption?: string;
+    objectFit?: 'cover' | 'contain';
+    aspectRatio?: number;
   }[];
   pros: string[];
   cons: string[];

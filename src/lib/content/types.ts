@@ -283,6 +283,8 @@ export interface GalleryImage {
   image: string;
   alt: string;
   caption?: string;
+  objectFit?: 'cover' | 'contain';
+  aspectRatio?: number;
 }
 
 export interface AudioClip {
