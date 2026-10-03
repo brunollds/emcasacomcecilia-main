@@ -41,6 +41,10 @@ acúmulo com o desconto do Pix seguem "conforme regras da loja" até haver confi
 | Reembolso e trocas: 30 dias da entrega, reembolso integral ou crédito imediato sem validade, frete grátis na devolução*, promoção pode ser devolvida, defeito até 90 dias, prazos Pix 3 / cartão 5–10 / boleto 7–15 dias úteis | fato_oficial | letseatit.com.br/pages/politica-de-reembolso ("Atualizado em abril de 2026") | 2026-10-02 | 2027-01-02 | `/policies/refund-policy` (padrão Shopify) contradiz esta página; tratar a dedicada como vigente |
 | Frete: SP capital 3–5, interior e Grande SP 4–7, Sul/Sudeste 5–8, Centro-Oeste 6–9, Norte/Nordeste 7–12 dias úteis; separação no dia ou dia útil seguinte; até 3 tentativas; reposição gratuita de avaria com fotos | fato_oficial | letseatit.com.br/pages/politica-de-frete (abril de 2026) | 2026-10-02 | 2027-01-02 | Frete por CEP e peso; sem faixa de frete grátis publicada |
 | Atendimento seg–sex 9h–18h, WhatsApp (11) 96570-0375, suporte@letseatit.com.br; Casa Let's, Av. Pacaembu 1105, São Paulo, seg–sex 9h–18h e sáb 10h–14h | fato_oficial | Site oficial | 2026-10-02 | 2027-01-02 | Troca presencial possível na Casa Let's |
+| Casa Let's: ambientes decorados e mesa posta montada com a equipe, visita sem agendamento, 15% de desconto nas compras presenciais exceto Le Creuset e Trussardi; não faz retirada de pedidos do site | fato_oficial | letseatit.com.br/pages/casa-lets e FAQ da política de frete | 2026-10-03 | 2027-01-03 | "Cupom presencial" é da loja física, não do site |
+| Cashback: cupom de 30% do valor da compra enviado por WhatsApp, válido 30 dias, um ativo por vez; próxima compra mínima de 7× o valor do cupom (um trecho do FAQ diz 5×) | condicao_comercial_volatil | letseatit.com.br/pages/cashback-lets-eat-it | 2026-10-03 | 2026-11-03 | Efeito prático: até ~14% na compra seguinte; combinação com outros cupons "conforme condições vigentes" |
+| Pix com 5% de desconto em muitos produtos; sem frete grátis na compra; sem entrega expressa | condicao_comercial_volatil | Páginas de produto e política de frete | 2026-10-03 | 2026-11-03 | Não testado se o Pix soma com o MAUAD |
+| Cupom de primeira compra: nenhum divulgado no site oficial | fato_oficial | Home, busca e páginas institucionais | 2026-10-03 | 2026-11-03 | Nos artigos, responder buscas de primeira compra com o MAUAD; não citar códigos de terceiros |
 
 Os banners promocionais da home (cashback, descontos por marca) mudam com frequência e não
 devem ser repetidos em conteúdo sem nova consulta.
@@ -85,7 +89,12 @@ Nos artigos deste parceiro, usar `affiliate: "letseatit"` (o slug do cupom) e li
 | `/images/reviews/letseatit/passo-1-produto-loja.webp`, `politica-reembolso-trocas.webp` | Prints de letseatit.com.br, 2026-10-02 | Guia do cupom e artigo de confiança | Captura de tela para fins informativos |
 | `/images/reviews/letseatit/reclame-aqui-reputacao-6-meses-2026-09.webp`, `reclame-aqui-principais-problemas.webp` | Prints do perfil no Reclame Aqui, 2026-10-02 | Artigo de Reclame Aqui | Captura de tela para fins informativos |
 | `/images/reviews/letseatit/le-creuset-localizador-lets-eat-it.webp` | Print do localizador da Le Creuset Brasil, 2026-10-02 (widget lateral coberto) | Artigo de confiança | Captura de tela para fins informativos |
-| `/images/reviews/letseatit/lets-eat-it-confiavel-hero.webp` | Ilustração gerada por IA (Gemini), sem texto nem marca | Capa do artigo de confiança | Própria; alt e editorialNote declaram que é ilustrativa |
+| `/images/reviews/letseatit/lets-eat-it-confiavel-hero.webp` | Ilustração gerada por IA (Gemini), sem texto nem marca | Fora de uso desde 2026-10-03 (substituída pela capa da loja) | Própria |
+| `/images/reviews/letseatit/lets-eat-it-confiavel-hero-loja.webp`, `cupom-mauad-hero-loja.webp` | Prints da home de letseatit.com.br enviados pelo Bruno, 2026-10-03, ajustados para 16:9 | Capas dos artigos de confiança e do cupom | Captura de tela para fins informativos |
+| `/images/reviews/letseatit/reclame-aqui-hero-perfil.webp` | Print do cabeçalho do perfil no Reclame Aqui enviado pelo Bruno, 2026-10-03 | Capa do artigo de Reclame Aqui | Captura de tela para fins informativos |
+| `/images/reviews/letseatit/lets-eat-it-marcas-linhas.webp` | Faixa de logos do site da loja enviada pelo Bruno, rearranjada em grade 4+3 | Seção de marcas e linhas | Identificação das marcas revendidas |
+| `/images/reviews/letseatit/casa-lets-fachada.webp` | Print de letseatit.com.br/pages/casa-lets, 2026-10-03 | Seção da Casa Let's | Captura de tela para fins informativos |
+| `passo-1-produto-loja-v2.webp`, `politica-reembolso-trocas-v2.webp`, `reclame-aqui-principais-problemas-v2.webp` | Recortes 9:16 e quadrados dos prints de 2026-10-02 | Substituem as versões v1, que ficam fora de uso | Mesma origem das v1 |
 
 Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
 conforme `docs/GUIA-MIDIA-EDITORIAL.md`.
@@ -98,6 +107,7 @@ conforme `docs/GUIA-MIDIA-EDITORIAL.md`.
 - **Peças frágeis no transporte:** cristal e porcelana; "Taças" e "Produto não recebido" lideram as reclamações.
 - **Pós-venda lento:** 16 dias de resposta média e reembolso no lugar do produto em alguns relatos.
 - **Dúvidas sobre o MAUAD:** onde aplicar, se vale em promoção, mínimo e por que tem esse nome.
+- **Buscas do Google (autocomplete, 2026-10-03):** cupom primeira compra, loja, loja física, Casa Let's fotos, frete grátis, cashback, Reclame Aqui, é confiável; muita gente escreve "lets eat it" sem apóstrofo.
 
 ---
 
