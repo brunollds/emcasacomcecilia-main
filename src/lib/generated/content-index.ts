@@ -49324,5 +49324,749 @@ export const reviewsData: unknown[] = [
         "aspectRatio": 3.8533333333333335
       }
     ]
+  },
+  {
+    "id": 319,
+    "slug": "lets-eat-it-e-confiavel",
+    "title": "Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar",
+    "seoTitle": "Let's Eat It é confiável? O que checamos antes de comprar",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que conferimos sobre a Let's Eat It antes de indicar a loja: empresa ativa desde 2020 com quatro CNPJs, presença no localizador oficial da Le Creuset, política de 30 dias para devolução, entrega de peças frágeis e o ponto de atenção no pós-venda.",
+    "metaDescription": "A Let's Eat It é confiável? Veja CNPJ, presença no localizador da Le Creuset, política de troca de 30 dias, prazos de entrega, loja física em SP e o que observar antes de comprar.",
+    "publishedAt": "3 de outubro de 2026",
+    "publishedAtISO": "2026-10-03",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/lets-eat-it-confiavel-hero.webp",
+    "imageAlt": "Imagem ilustrativa de uma cozinha com mesa posta, panela de ferro esmaltado vermelha, pratos brancos e taças de vinho tinto",
+    "imageFit": "cover",
+    "pros": [
+      "Empresa com CNPJ ativo desde 2020, matriz no Rio de Janeiro e filiais em São Paulo, no Espírito Santo e em Santa Catarina",
+      "Aparece no localizador de lojas oficial da Le Creuset Brasil",
+      "Política de 30 dias para devolução, com etiqueta de envio enviada pela loja e reembolso integral",
+      "Reposição gratuita de produto danificado no transporte, mediante fotos",
+      "Reputação Boa no Reclame Aqui, com 99,1% das reclamações respondidas nos últimos 6 meses",
+      "Showroom em São Paulo, a Casa Let's, onde também é possível fazer trocas"
+    ],
+    "cons": [
+      "Só 54% dos consumidores que avaliaram no Reclame Aqui dizem que voltariam a comprar",
+      "Tempo médio de resposta de 16 dias no Reclame Aqui",
+      "\"Produto não recebido\" é o problema mais citado nas reclamações",
+      "O site mantém, além da política oficial, um texto genérico de reembolso com regras diferentes",
+      "Frete calculado por CEP e peso, sem faixa de frete grátis publicada"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Sim, a Let's Eat It é uma empresa real e estabelecida: tem CNPJ ativo desde 2020, quatro unidades registradas e um showroom em São Paulo.",
+          "A Le Creuset Brasil lista a loja no seu localizador oficial de pontos de venda.",
+          "As políticas são claras e generosas: 30 dias para devolução, reembolso integral e reposição de peça danificada no transporte.",
+          "No Reclame Aqui, a reputação é Boa e quase todas as reclamações são respondidas e resolvidas.",
+          "O ponto de atenção é o pós-venda: quando algo dá errado, a solução vem, mas pode demorar e nem sempre agrada."
+        ]
+      },
+      {
+        "heading": "Por que fui checar antes de indicar",
+        "paragraphs": [
+          "A Let's Eat It vende exatamente o tipo de coisa que eu gosto de ter na cozinha: panela de ferro esmaltado, aparelho de jantar, taças, xícaras de cristal. É também o tipo de compra em que a gente pensa duas vezes antes de passar o cartão numa loja que ainda não conhece — uma panela Le Creuset passa de R$ 2 mil.",
+          "Como a loja passou a ser parceira do Em Casa com Cecília, achei justo mostrar o que conferi antes de começar a indicar: quem é a empresa, se as marcas reconhecem a loja, o que as políticas prometem e o que dizem os clientes. A parceria não muda nada disso — os dados abaixo são públicos e estão com as fontes."
+        ]
+      },
+      {
+        "heading": "Quem está por trás da Let's Eat It",
+        "paragraphs": [
+          "A matriz da Let's Eat It tem o CNPJ 37.882.316/0001-64, o mesmo que aparece no perfil da loja no Reclame Aqui. Na consulta aos dados públicos desse CNPJ, encontrei a matriz e três filiais, todas com situação ativa:"
+        ],
+        "comparisonTable": {
+          "caption": "Dados públicos de CNPJ consultados em 02/10/2026.",
+          "headers": [
+            "Unidade",
+            "CNPJ",
+            "Cidade",
+            "Aberta em",
+            "Situação"
+          ],
+          "rows": [
+            [
+              "Matriz",
+              "37.882.316/0001-64",
+              "Rio de Janeiro (RJ)",
+              "28/07/2020",
+              "Ativa"
+            ],
+            [
+              "Filial",
+              "37.882.316/0002-45",
+              "São Paulo (SP)",
+              "10/03/2021",
+              "Ativa"
+            ],
+            [
+              "Filial",
+              "37.882.316/0003-26",
+              "Serra (ES)",
+              "30/04/2021",
+              "Ativa"
+            ],
+            [
+              "Filial",
+              "37.882.316/0004-07",
+              "Itajaí (SC)",
+              "30/08/2023",
+              "Ativa"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No Reclame Aqui, a loja se apresenta como atuante desde 2015. O CNPJ atual é de 2020; pode ter havido uma operação anterior com outra estrutura, mas isso não consegui confirmar. De todo modo, são pelo menos seis anos de perfil no Reclame Aqui e uma empresa que foi abrindo filiais com o tempo — o oposto do padrão de loja que aparece e some."
+        ]
+      },
+      {
+        "heading": "A Le Creuset reconhece a loja?",
+        "paragraphs": [
+          "Esse foi o dado que mais me tranquilizou. O site oficial da Le Creuset Brasil tem um localizador de lojas, e a Let's Eat It aparece lá, com endereço na Avenida Setecentos, em Serra (ES) — o mesmo endereço da filial capixaba registrada no CNPJ.",
+          "Num catálogo em que a marca mais cara é justamente a Le Creuset, isso pesa. O limite do que dá para afirmar: não encontrei listas equivalentes publicadas pelas outras marcas do catálogo, como Porto Brasil ou Bohemia. Isso não quer dizer que não haja relação comercial com elas, só que não consegui confirmar por uma fonte da própria marca."
+        ],
+        "image": "/images/reviews/letseatit/le-creuset-localizador-lets-eat-it.webp",
+        "imageAlt": "Página do localizador de lojas da Le Creuset Brasil mostrando Let's Eat It na Avenida Setecentos, Quadra 17, Galpão 1, 2, 3 e 4, Sala 26, Serra, ES, 29161-414",
+        "imageCaption": "A Let's Eat It no localizador de lojas oficial da Le Creuset Brasil (consulta em 02/10/2026).",
+        "imageFit": "contain",
+        "links": [
+          {
+            "label": "Ver a Let's Eat It no localizador da Le Creuset →",
+            "href": "https://www.lecreuset.com.br/on/demandware.store/Sites-LeCreuset_BR-Site/pt_BR/Stores-Detail?sid=BR-36019"
+          }
+        ]
+      },
+      {
+        "heading": "O que a loja vende e quanto custa",
+        "paragraphs": [
+          "A Let's Eat It é uma loja multimarcas de casa, mesa posta e presentes, e não fabricante. No menu aparecem marcas como Le Creuset, Porto Brasil, Trussardi e Toque de Ouro, e no catálogo há também cristais Bohemia e Wolff, utensílios KitchenAid e eletroportáteis Ariete.",
+          "Para ter uma ideia de faixa de preço, no dia da consulta: a panela Le Creuset Redonda Signature de 24 cm saía por R$ 2.359,20, o aparelho de jantar Bio Oceano de 30 peças da Porto Brasil por R$ 839,00, o jogo de 6 taças Crex Optic da Bohemia por R$ 169,90 e o jogo de 4 xícaras de cristal Pérola da Wolff, em promoção, por R$ 62,90. Os preços mudam com campanhas e estoque."
+        ]
+      },
+      {
+        "heading": "Trocas, devoluções e reembolso",
+        "paragraphs": [
+          "A política de reembolso e trocas da Let's Eat It, atualizada em abril de 2026, vai além do mínimo do Código de Defesa do Consumidor, que prevê 7 dias de arrependimento em compras online:"
+        ],
+        "bullets": [
+          "30 dias para devolução, contados a partir do recebimento.",
+          "Reembolso integral no meio de pagamento original ou crédito na loja, que é liberado na hora e não expira.",
+          "Frete grátis na devolução, com a etiqueta de envio enviada pela loja (a página marca esse item com asterisco, então vale ler as condições).",
+          "Troca por outro produto de valor equivalente.",
+          "Itens em promoção também podem ser devolvidos.",
+          "Prazo do reembolso depois da aprovação: até 3 dias úteis no Pix, 5 a 10 dias úteis no cartão e 7 a 15 dias úteis no boleto.",
+          "Defeito de fabricação: até 90 dias.",
+          "Ficam de fora itens personalizados, produtos de higiene e beleza abertos, vales-presente e danos por mau uso."
+        ],
+        "image": "/images/reviews/letseatit/politica-reembolso-trocas.webp",
+        "imageAlt": "Página Política de Reembolso e Trocas da Let's Eat It com os destaques 30 dias para troca, Reembolso garantido e Frete grátis na devolução, atualizada em abril de 2026",
+        "imageCaption": "Topo da política de reembolso e trocas da Let's Eat It (consulta em 02/10/2026).",
+        "imageFit": "contain",
+        "postParagraphs": [
+          "Um cuidado: o site também mantém, num endereço padrão da plataforma da loja, um texto genérico de reembolso com regras diferentes — por exemplo, dizendo que itens em promoção não podem ser devolvidos. Considerei como vigente a página dedicada, que é a mais recente e a mais detalhada. Se alguma regra for decisiva para a sua compra, peça a confirmação ao atendimento por escrito antes de fechar o pedido."
+        ],
+        "links": [
+          {
+            "label": "Política de reembolso e trocas da Let's Eat It →",
+            "href": "https://letseatit.com.br/pages/politica-de-reembolso"
+          }
+        ]
+      },
+      {
+        "heading": "Entrega e peças frágeis",
+        "paragraphs": [
+          "Pela política de frete da loja, os pedidos são separados no mesmo dia ou no dia útil seguinte e embalados com plástico bolha, espuma e caixas reforçadas. O rastreio chega por WhatsApp e e-mail, e a transportadora faz até três tentativas de entrega. Os prazos, contados depois da confirmação do pagamento, são estes:"
+        ],
+        "bullets": [
+          "São Paulo capital: 3 a 5 dias úteis.",
+          "Interior de São Paulo e Grande São Paulo: 4 a 7 dias úteis.",
+          "Sul e Sudeste: 5 a 8 dias úteis.",
+          "Centro-Oeste: 6 a 9 dias úteis.",
+          "Norte e Nordeste: 7 a 12 dias úteis."
+        ],
+        "postParagraphs": [
+          "Os prazos podem mudar em períodos promocionais, e o frete é calculado pelo CEP e pelo peso do pedido. Se uma peça chegar danificada, a loja faz a reposição sem custo: basta enviar fotos do produto e da embalagem pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br. A política não informa um prazo para esse aviso, então o melhor é avisar logo depois de abrir a caixa."
+        ],
+        "links": [
+          {
+            "label": "Política de frete da Let's Eat It →",
+            "href": "https://letseatit.com.br/pages/politica-de-frete"
+          }
+        ]
+      },
+      {
+        "heading": "Atendimento e loja física",
+        "paragraphs": [
+          "O atendimento funciona de segunda a sexta, das 9h às 18h, pelo WhatsApp e pelo e-mail de suporte. Além do site, a loja mantém um showroom em São Paulo, a Casa Let's, na Avenida Pacaembu, 1105, no bairro do Pacaembu, aberta de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h.",
+          "Para quem mora em São Paulo, a Casa Let's é um bom recurso: dá para ver as peças pessoalmente e, segundo a política da loja, fazer trocas presencialmente."
+        ]
+      },
+      {
+        "heading": "E a reputação no Reclame Aqui?",
+        "paragraphs": [
+          "Nos últimos 6 meses, a Let's Eat It tem reputação Boa no Reclame Aqui, com nota 7,6/10, 99,1% das reclamações respondidas e 94% resolvidas. O lado mais fraco é a satisfação de quem reclamou: 54% dizem que voltariam a comprar, a nota média do consumidor é 5,6 e o tempo médio de resposta é de 16 dias.",
+          "Em resumo, a loja resolve quase tudo, mas nem sempre do jeito ou no tempo que o cliente esperava. Detalhei os números, os temas das reclamações e o que fazer se o seu pedido der problema num artigo separado."
+        ],
+        "links": [
+          {
+            "label": "Let's Eat It no Reclame Aqui: os números em detalhe",
+            "href": "/reviews/lets-eat-it-reclame-aqui-nota-reputacao"
+          }
+        ]
+      },
+      {
+        "heading": "O que eu observaria antes de comprar",
+        "bullets": [
+          "Compre pelo site oficial, letseatit.com.br, e confira o endereço antes de digitar seus dados.",
+          "Em peças de alto valor, guarde a nota fiscal e confira o produto assim que receber.",
+          "Calcule o frete e veja o prazo para o seu CEP antes de fechar o pedido, principalmente se for presente com data marcada.",
+          "Em itens de pré-venda, leia o prazo de envio na página do produto.",
+          "Abra a caixa com calma e fotografe produto e embalagem se algo chegar quebrado ou faltando.",
+          "Se tiver um problema, diga desde o primeiro contato se prefere reposição, troca ou reembolso."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem uma parceria comercial com a Let's Eat It. Com o cupom MAUAD, você tem 5% de desconto no site, e podemos receber comissão pelas compras feitas com o código ou pelo nosso link, sem custo extra para você."
+        ],
+        "links": [
+          {
+            "label": "Ver o cupom MAUAD da Let's Eat It",
+            "href": "/cupons/letseatit"
+          }
+        ]
+      },
+      {
+        "heading": "Veredito",
+        "paragraphs": [
+          "Pelo que conferi, a Let's Eat It é uma loja confiável: empresa registrada e em crescimento, reconhecida pela Le Creuset como ponto de venda, com políticas de troca e de entrega mais generosas do que o mínimo da lei e uma reputação Boa e estável no Reclame Aqui.",
+          "O que eu levaria comigo para a compra é a expectativa certa sobre o pós-venda: se algo der errado, a loja responde e resolve, mas o caso pode levar alguns dias. Com nota fiscal guardada, fotos na hora de abrir a caixa e um pedido claro ao atendimento, as chances de a experiência terminar bem aumentam bastante."
+        ],
+        "links": [
+          {
+            "label": "Conhecer a Let's Eat It",
+            "href": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Let's Eat It é confiável? Sim. É uma empresa com CNPJ ativo desde 2020, filiais em três estados, presença no localizador oficial da Le Creuset Brasil e reputação Boa no Reclame Aqui. O ponto de atenção é a demora em alguns casos de pós-venda.",
+          "A Let's Eat It é uma loja de verdade? Sim. Tem CNPJ ativo, matriz no Rio de Janeiro, filiais em São Paulo, Serra (ES) e Itajaí (SC) e um showroom em São Paulo, a Casa Let's.",
+          "Qual é o CNPJ da Let's Eat It? O CNPJ da matriz é 37.882.316/0001-64, no Rio de Janeiro, com situação ativa na consulta de 02/10/2026. A loja também tem filiais registradas em São Paulo, Serra (ES) e Itajaí (SC).",
+          "A Let's Eat It vende Le Creuset original? A Let's Eat It aparece no localizador de lojas oficial da Le Creuset Brasil, o que indica que a marca a reconhece como ponto de venda. Guarde a nota fiscal da compra.",
+          "A Let's Eat It tem loja física? Sim, a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo, aberta de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h.",
+          "Quanto tempo demora a entrega da Let's Eat It? De 3 a 5 dias úteis na capital paulista até 7 a 12 dias úteis no Norte e no Nordeste, contados depois da confirmação do pagamento.",
+          "Como trocar ou devolver um produto da Let's Eat It? A loja aceita devolução em até 30 dias após o recebimento, envia a etiqueta de envio e devolve o valor integral ou em crédito na loja. O contato é pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br.",
+          "O que acontece se o produto chegar quebrado? A loja informa reposição gratuita da peça, mediante fotos do produto e da embalagem enviadas ao atendimento.",
+          "Qual é o cupom da Let's Eat It? É MAUAD, com 5% de desconto no site oficial, da parceria com o Em Casa com Cecília."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Conheça a Let's Eat It e use o cupom MAUAD para ter 5% de desconto no checkout.",
+      "label": "Visitar a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Feito a partir de fontes públicas consultadas em 02/10/2026: dados de CNPJ, localizador de lojas da Le Creuset Brasil, páginas de política de reembolso e de frete da Let's Eat It (atualizadas em abril de 2026) e perfil da loja no Reclame Aqui. Não declaramos experiência própria com produtos da loja neste artigo, e a imagem de capa é ilustrativa. Parceria comercial: o Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom MAUAD ou pelos links da loja, sem custo adicional para você.",
+    "relatedArticles": [
+      {
+        "slug": "lets-eat-it-reclame-aqui-nota-reputacao",
+        "title": "Let's Eat It no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "cupom-mauad-lets-eat-it-como-usar",
+        "title": "Cupom Let's Eat It MAUAD: como usar o desconto de 5%"
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "slug": "lets-eat-it-reclame-aqui-nota-reputacao",
+    "title": "Let's Eat It no Reclame Aqui: nota, reclamações e o que os dados mostram",
+    "seoTitle": "Let's Eat It no Reclame Aqui: nota, reclamações e pós-venda",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os números da Let's Eat It no Reclame Aqui nos últimos 6 meses: reputação Boa, 99,1% das reclamações respondidas e 94% resolvidas — e por que só 54% dizem que voltariam a comprar.",
+    "metaDescription": "Let's Eat It no Reclame Aqui: reputação Boa, nota 7,6, 99,1% respondidas e 94% resolvidas. Veja o que mais gera reclamação e o que fazer se seu pedido der problema.",
+    "publishedAt": "3 de outubro de 2026",
+    "publishedAtISO": "2026-10-03",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/reclame-aqui-reputacao-6-meses-2026-09.webp",
+    "imageAlt": "Painel do Reclame Aqui da Let's Eat It nos últimos 6 meses: reputação Boa, nota 7,6/10, 115 reclamações, 99,1% respondidas, 94% resolvidas, 54% voltariam a fazer negócio e nota do consumidor 5,6, com dados de 01/04/2026 a 30/09/2026",
+    "imageFit": "contain",
+    "imageAspect": "portrait",
+    "pros": [
+      "99,1% das reclamações dos últimos 6 meses foram respondidas — só 1 aguardava resposta na consulta",
+      "94% das reclamações avaliadas foram consideradas resolvidas pelos próprios consumidores",
+      "Reputação Boa em todos os meses de abril a setembro de 2026",
+      "13ª colocada no ranking de melhores empresas da categoria lojas de decoração do Reclame Aqui",
+      "Perfil ativo no Reclame Aqui há 6 anos, com CNPJ e telefone informados"
+    ],
+    "cons": [
+      "Só 54% dos consumidores que avaliaram dizem que voltariam a fazer negócio",
+      "A nota média dada pelos consumidores é 5,6, bem abaixo da nota geral de 7,6",
+      "Tempo médio de resposta de 16 dias e 7 horas no período",
+      "\"Produto não recebido\" é o problema mais citado no histórico de até 3 anos",
+      "Há reclamações com alegação de produto falsificado, que são relatos de consumidores e não foram comprovadas"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Reputação no Reclame Aqui: Boa, com nota 7,6/10 nos últimos 6 meses (dados de 01/04/2026 a 30/09/2026, consultados em 02/10/2026).",
+          "A loja responde quase tudo: 99,1% das 115 reclamações do período foram respondidas.",
+          "E resolve quase tudo: 94% das reclamações avaliadas foram marcadas como resolvidas pelo consumidor.",
+          "O ponto de atenção é a satisfação: 54% voltariam a fazer negócio e a nota média do consumidor é 5,6.",
+          "Leitura do quadro: a Let's Eat It resolve, mas nem sempre do jeito ou no tempo que o cliente esperava."
+        ]
+      },
+      {
+        "heading": "Por que olhar o Reclame Aqui antes de comprar panela e cristal",
+        "paragraphs": [
+          "Uma panela de ferro esmaltado ou um aparelho de jantar completo não é compra de impulso, e cristal e porcelana viajam mal quando a embalagem não ajuda. Por isso, antes de começar a indicar a Let's Eat It por aqui, fui ver como ela se comporta quando algo dá errado. O Reclame Aqui não mostra se uma loja é perfeita — nenhuma é —, mas mostra o padrão dos problemas e se a empresa aparece para resolver."
+        ]
+      },
+      {
+        "heading": "Os números da Let's Eat It no Reclame Aqui",
+        "paragraphs": [
+          "Estes são os indicadores do perfil da Let's Eat It na aba de 6 meses, que é a janela usada para a reputação exibida no topo da página:"
+        ],
+        "comparisonTable": {
+          "caption": "Perfil da Let's Eat It no Reclame Aqui, aba de 6 meses (dados de 01/04/2026 a 30/09/2026), consultado em 02/10/2026.",
+          "headers": [
+            "Indicador",
+            "Resultado",
+            "De onde sai o número"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Boa — nota 7,6/10",
+              "Combinação dos quatro índices abaixo, com pesos definidos pelo Reclame Aqui"
+            ],
+            [
+              "Reclamações recebidas",
+              "115",
+              "Todas as reclamações abertas no período"
+            ],
+            [
+              "Reclamações respondidas",
+              "99,1% (1 aguardando)",
+              "Reclamações com resposta pública da empresa"
+            ],
+            [
+              "Reclamações resolvidas",
+              "94%",
+              "Entre as 50 avaliadas, as que o consumidor marcou como resolvidas"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "54%",
+              "Entre as 50 avaliadas, quem disse que compraria de novo"
+            ],
+            [
+              "Nota média do consumidor",
+              "5,6",
+              "Média das notas de 0 a 10 dadas nas 50 avaliações"
+            ],
+            [
+              "Tempo médio de resposta",
+              "16 dias e 7 horas",
+              "Tempo médio que a empresa levou para responder no período"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A nota 7,6 bate com a fórmula pública do Reclame Aqui, que dá mais peso à solução e à nota do consumidor. É também uma janela móvel: os números mudam conforme novas reclamações entram e antigas saem do período, então vale abrir o perfil no dia da sua compra."
+        ],
+        "links": [
+          {
+            "label": "Perfil da Let's Eat It no Reclame Aqui →",
+            "href": "https://www.reclameaqui.com.br/empresa/let-s-eat-it/"
+          },
+          {
+            "label": "Como o Reclame Aqui calcula a reputação →",
+            "href": "https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui"
+          }
+        ]
+      },
+      {
+        "heading": "O lado forte: quase tudo é respondido e resolvido",
+        "paragraphs": [
+          "O dado que mais pesa a favor da Let's Eat It é a constância. Das 115 reclamações do período, só uma ainda esperava resposta quando consultei o perfil. E, entre as reclamações que os consumidores voltaram para avaliar, 94% foram marcadas como resolvidas — quem marca é o próprio cliente, não a empresa.",
+          "O histórico mensal ajuda a ler isso como padrão, e não como um bom mês isolado: a reputação ficou em Boa em todos os meses de abril a setembro de 2026. A loja também aparece em 13º lugar no ranking de melhores empresas da categoria lojas de decoração e está no Reclame Aqui há 6 anos, com CNPJ e telefone de contato no perfil.",
+          "Na prática, isso diz o mais importante para quem tem receio de comprar numa loja online que ainda não conhece: quando o pedido dá problema, a Let's Eat It aparece e costuma encerrar o caso."
+        ]
+      },
+      {
+        "heading": "O lado que pede atenção: resolvido nem sempre é satisfeito",
+        "paragraphs": [
+          "Os três índices de satisfação saem do mesmo grupo de 50 reclamações avaliadas. Fazendo a conta aproximada, cerca de 47 consumidores disseram que o problema foi resolvido, mas só uns 27 disseram que voltariam a comprar. Ou seja, um grupo relevante teve o caso encerrado e, ainda assim, saiu insatisfeito — o que puxa a nota média do consumidor para 5,6.",
+          "Os números não dizem o motivo, mas os relatos recentes dão pistas. Aparecem pedidos com item faltando, peças que chegaram quebradas e pedidos de estorno que demoraram a cair. A minha leitura, e é uma hipótese, não um dado: em parte desses casos, o cliente queria o produto e recebeu o reembolso no lugar, ou recebeu a solução depois de muita espera. O próprio tempo médio de resposta, de 16 dias e 7 horas, é longo para quem está esperando uma encomenda.",
+          "Isso não muda a conclusão de que a loja resolve, mas muda a expectativa: vale comprar sabendo que, se algo der errado, pode levar alguns dias para o caso andar."
+        ]
+      },
+      {
+        "heading": "O que mais aparece nas reclamações",
+        "paragraphs": [
+          "O próprio Reclame Aqui resume os temas mais citados, considerando as reclamações de até 3 anos registradas na aba geral:"
+        ],
+        "bullets": [
+          "Produto não recebido: 39,38% das reclamações classificadas por problema. É o tema que mais pesa, e combina com os relatos recentes de pedidos que chegaram incompletos.",
+          "Utilidades domésticas: 56,68% das reclamações classificadas por categoria — o que é esperado, já que é o grosso do catálogo.",
+          "Taças: 20,11% das reclamações classificadas por produto. Cristal é frágil, e entre os relatos recentes há peças que chegaram quebradas."
+        ],
+        "image": "/images/reviews/letseatit/reclame-aqui-principais-problemas.webp",
+        "imageAlt": "Quadro Principais problemas comentados da Let's Eat It no Reclame Aqui: Utilidades domésticas 56,68%, Produto não recebido 39,38% e Taças 20,11%",
+        "imageCaption": "Principais problemas comentados no perfil da Let's Eat It, com reclamações de até 3 anos (consulta em 02/10/2026).",
+        "imageFit": "contain"
+      },
+      {
+        "heading": "E as reclamações sobre produto falsificado?",
+        "paragraphs": [
+          "Procurando no perfil, aparecem algumas reclamações com títulos como \"produtos falsificados\" ou \"produto falso\", incluindo uma de dezembro de 2023 sobre peças de marcas conhecidas, que ficou marcada como não resolvida. São alegações de consumidores: não encontrei nenhuma decisão ou apuração oficial que confirme falsificação, e também não consigo descartá-la só pelos relatos.",
+          "O que encontrei a favor da loja é que a Let's Eat It aparece no localizador de lojas oficial da Le Creuset Brasil, a marca de panelas mais cara do catálogo. Detalhei isso, junto com CNPJ e políticas, no artigo sobre se a loja é confiável. Para quem vai comprar uma peça de alto valor, a orientação é a mesma de qualquer loja: guarde a nota fiscal e confira a peça assim que receber."
+        ],
+        "links": [
+          {
+            "label": "Let's Eat It é confiável? CNPJ, Le Creuset e políticas",
+            "href": "/reviews/lets-eat-it-e-confiavel"
+          }
+        ]
+      },
+      {
+        "heading": "O que a loja promete quando algo dá errado",
+        "paragraphs": [
+          "Ajuda comparar as reclamações com o que a própria Let's Eat It publica nas políticas de frete e de trocas (ambas atualizadas em abril de 2026):"
+        ],
+        "bullets": [
+          "Produto danificado no transporte: reposição gratuita, mediante contato pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br com fotos do produto e da embalagem.",
+          "Devolução: 30 dias a partir do recebimento, com reembolso integral no meio de pagamento original ou crédito na loja, e etiqueta de envio enviada pela loja.",
+          "Prazo do reembolso, depois da aprovação: até 3 dias úteis no Pix, 5 a 10 dias úteis no cartão e 7 a 15 dias úteis no boleto.",
+          "Defeito de fabricação: até 90 dias, como prevê o Código de Defesa do Consumidor."
+        ],
+        "postParagraphs": [
+          "Repare que a política prevê tanto reposição quanto reembolso. Se você faz questão do produto, deixe isso claro desde o primeiro contato."
+        ],
+        "links": [
+          {
+            "label": "Política de frete da Let's Eat It →",
+            "href": "https://letseatit.com.br/pages/politica-de-frete"
+          },
+          {
+            "label": "Política de reembolso e trocas da Let's Eat It →",
+            "href": "https://letseatit.com.br/pages/politica-de-reembolso"
+          }
+        ]
+      },
+      {
+        "heading": "Se o seu pedido der problema: o que fazer",
+        "paragraphs": [
+          "Com base no padrão das reclamações, este é o caminho que eu seguiria:"
+        ],
+        "bullets": [
+          "Abra a caixa com calma e, se algo estiver quebrado ou faltando, fotografe o produto, a embalagem e a etiqueta antes de descartar qualquer coisa.",
+          "Fale primeiro com o atendimento da loja, de segunda a sexta, das 9h às 18h, pelo WhatsApp ou pelo e-mail de suporte, e anote o número do pedido e a data do contato.",
+          "Diga com clareza o que você quer — reposição, troca ou reembolso. Se preferir receber a peça, peça isso por escrito.",
+          "Se o reembolso foi aprovado, acompanhe o prazo do seu meio de pagamento antes de cobrar de novo.",
+          "Se não houver retorno, registre a reclamação no Reclame Aqui e, se precisar, no consumidor.gov.br ou no Procon da sua cidade."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem uma parceria comercial com a Let's Eat It: quem compra pelo nosso link ou com o cupom MAUAD ganha 5% de desconto, e podemos receber comissão sem custo extra para você. A parceria não muda os números deste artigo, que vêm do perfil público da loja no Reclame Aqui."
+        ],
+        "links": [
+          {
+            "label": "Cupom MAUAD: regras e validade",
+            "href": "/cupons/letseatit"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Let's Eat It é confiável segundo o Reclame Aqui? A reputação é Boa, com nota 7,6/10 nos últimos 6 meses, 99,1% das reclamações respondidas e 94% resolvidas. O ponto fraco é a satisfação: 54% voltariam a fazer negócio.",
+          "Qual a nota da Let's Eat It no Reclame Aqui? 7,6 de 10, com reputação Boa, considerando o período de 01/04/2026 a 30/09/2026 (consulta em 02/10/2026). A nota média dada pelos consumidores nas avaliações é 5,6.",
+          "A Let's Eat It responde as reclamações? Sim. Respondeu 99,1% das 115 reclamações do período; na consulta, só uma aguardava resposta.",
+          "Por que 94% foram resolvidas, mas só 54% voltariam a comprar? Os dois índices vêm das mesmas 50 avaliações. Muitos consumidores consideraram o problema resolvido, mas não ficaram satisfeitos com a forma ou o tempo da solução.",
+          "Quanto tempo a Let's Eat It demora para responder no Reclame Aqui? O tempo médio de resposta no período foi de 16 dias e 7 horas.",
+          "O que mais gera reclamação na Let's Eat It? Produto não recebido é o problema mais citado (39,38% no histórico de até 3 anos), seguido de relatos com taças e peças frágeis.",
+          "A Let's Eat It vende produto falsificado? Há reclamações com essa alegação, mas são relatos de consumidores sem confirmação oficial. A loja aparece no localizador oficial da Le Creuset Brasil.",
+          "Qual é o cupom da Let's Eat It? É MAUAD, com 5% de desconto no site oficial, da parceria com o Em Casa com Cecília."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Conheça a Let's Eat It e use o cupom MAUAD para ter 5% de desconto no checkout.",
+      "label": "Visitar a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Análise feita com os dados públicos do perfil da Let's Eat It no Reclame Aqui (aba de 6 meses, período de 01/04/2026 a 30/09/2026) e com as políticas de frete e de trocas do site da loja, consultados em 02/10/2026. A reputação do Reclame Aqui é calculada em janela móvel e muda com o tempo; os relatos citados são de consumidores e não foram verificados de forma independente. Parceria comercial: o Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom MAUAD ou pelos links da loja, sem custo adicional para você.",
+    "relatedArticles": [
+      {
+        "slug": "lets-eat-it-e-confiavel",
+        "title": "Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar"
+      },
+      {
+        "slug": "cupom-mauad-lets-eat-it-como-usar",
+        "title": "Cupom Let's Eat It MAUAD: como usar o desconto de 5%"
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "slug": "cupom-mauad-lets-eat-it-como-usar",
+    "title": "Cupom Let's Eat It MAUAD: como usar o desconto de 5%",
+    "seoTitle": "Como usar o código MAUAD na Let's Eat It: passo a passo",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Passo a passo para aplicar o cupom MAUAD no checkout da Let's Eat It, com o teste que fizemos no site: o desconto de 5% entrou em item de pré-venda e em produto com preço promocional.",
+    "metaDescription": "Use o cupom MAUAD na Let's Eat It e veja os 5% OFF no checkout. Passo a passo com prints, teste em produto em promoção e exemplos de economia com preços reais.",
+    "publishedAt": "3 de outubro de 2026",
+    "publishedAtISO": "2026-10-03",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/cupom-mauad-checkout-aplicado.webp",
+    "imageAlt": "Checkout da Let's Eat It com o cupom MAUAD aplicado: desconto de R$ 179,10 sobre um subtotal de R$ 3.582,10, total de R$ 3.403,00",
+    "imageFit": "contain",
+    "imageAspect": "square",
+    "pros": [
+      "5% de desconto sobre o subtotal dos produtos no site oficial da Let's Eat It",
+      "No nosso teste, o cupom foi aceito em item de pré-venda e em produto que já estava com preço promocional",
+      "Funcionou também num pedido com um único item de R$ 62,90",
+      "O desconto aparece no resumo do pedido antes do pagamento, como \"Desconto no pedido · MAUAD\""
+    ],
+    "cons": [
+      "O frete é calculado à parte, na etapa seguinte do checkout",
+      "A loja não publica regra sobre uso repetido por CPF ou soma com outros cupons",
+      "Não testamos se o MAUAD se soma ao desconto anunciado para pagamento no Pix"
+    ],
+    "contentSections": [
+      {
+        "heading": "Introdução",
+        "paragraphs": [
+          "A Let's Eat It entrou para as parcerias do Em Casa com Cecília com uma proposta que tem tudo a ver com a nossa cozinha: panelas de ferro esmaltado, aparelhos de jantar, taças, xícaras e aquelas peças de mesa posta que fazem um almoço de domingo parecer ocasião especial. O código da parceria é MAUAD — o meu sobrenome — e dá 5% de desconto no site da loja.",
+          "Antes de escrever este guia, testamos o cupom no checkout da Let's Eat It em 2 de outubro de 2026. Os prints abaixo são desse teste, e o que não conseguimos confirmar está dito com todas as letras. A ficha resumida, com regras e validade, fica na página de cupons."
+        ],
+        "links": [
+          {
+            "label": "Regras e validade do cupom MAUAD",
+            "href": "/cupons/letseatit"
+          }
+        ]
+      },
+      {
+        "heading": "Resposta rápida: como usar o cupom MAUAD",
+        "bullets": [
+          "Entre no site oficial da Let's Eat It (letseatit.com.br) e coloque os produtos no carrinho.",
+          "Siga para o checkout e procure o campo \"Código de desconto\".",
+          "Digite MAUAD, em letras maiúsculas e sem espaços, e clique em \"Aplicar\".",
+          "Confira se a linha \"Desconto no pedido · MAUAD\" apareceu no resumo antes de pagar.",
+          "O desconto é de 5% sobre o subtotal dos produtos; o frete entra depois, calculado pelo CEP."
+        ]
+      },
+      {
+        "heading": "O que o nosso teste confirmou",
+        "paragraphs": [
+          "Montamos um carrinho com dois itens bem diferentes de propósito: uma panela Le Creuset em pré-venda e um jogo de xícaras de cristal da Wolff que já estava com preço promocional no site. O MAUAD foi aceito e descontou 5% do subtotal inteiro — R$ 179,10 sobre R$ 3.582,10.",
+          "Depois repetimos o teste com um único item, o jogo de xícaras de R$ 62,90, e o cupom também funcionou. Ou seja: pelo menos nessa faixa de valor, não esbarramos em pedido mínimo, e o fato de o produto já estar em promoção não bloqueou o desconto.",
+          "O que não conseguimos confirmar, porque a loja não publica uma política específica do cupom: se existe limite de uso por CPF ou por conta, se ele se soma a outro cupom e se acumula com o desconto que a loja anuncia para pagamento no Pix. Nesses casos, vale o que o checkout mostrar."
+        ]
+      },
+      {
+        "heading": "1. Escolha os produtos no site oficial",
+        "paragraphs": [
+          "O cupom vale para compras feitas no site da Let's Eat It. Na página de cada produto aparecem o preço, o desconto do Pix quando houver e o botão \"Adicionar ao carrinho\". Produtos com preço promocional também entraram no nosso teste, então não precisa fugir das ofertas da vitrine."
+        ],
+        "image": "/images/reviews/letseatit/passo-1-produto-loja.webp",
+        "imageAlt": "Página do Jogo 4 Xícaras para Café com Pires Cristal Pérola 80ml Wolff no site da Let's Eat It, com preço promocional e botão Adicionar ao carrinho",
+        "imageCaption": "Página de produto da Let's Eat It: preço, condição do Pix e botão para adicionar ao carrinho.",
+        "imageFit": "contain"
+      },
+      {
+        "heading": "2. Revise o carrinho e vá para o checkout",
+        "paragraphs": [
+          "Com tudo no carrinho, siga para a finalização da compra. É no checkout, e não no carrinho, que fica o campo do cupom."
+        ],
+        "bullets": [
+          "Confira modelo, cor, tamanho e quantidade de cada item — em panela e aparelho de jantar, a versão muda bastante o preço.",
+          "Se algum item estiver marcado como pré-venda, leia o prazo de envio informado na página do produto.",
+          "No celular, o resumo do pedido pode aparecer recolhido; abra o resumo se não encontrar o campo do cupom."
+        ]
+      },
+      {
+        "heading": "3. Digite MAUAD e clique em Aplicar",
+        "paragraphs": [
+          "No resumo do pedido há um campo chamado \"Código de desconto\". Digite MAUAD, sem espaços antes ou depois, e clique em \"Aplicar\". Se você copiou o código de outro lugar, confira se não veio um espaço junto."
+        ],
+        "image": "/images/reviews/letseatit/passo-3-digite-mauad.webp",
+        "imageAlt": "Campo Código de desconto no checkout da Let's Eat It com MAUAD digitado e o botão Aplicar",
+        "imageCaption": "Campo \"Código de desconto\" com MAUAD digitado, antes de clicar em Aplicar.",
+        "imageFit": "contain"
+      },
+      {
+        "heading": "4. Confira o desconto antes de pagar",
+        "paragraphs": [
+          "Quando o código é aceito, o resumo ganha a linha \"Desconto no pedido\" com o MAUAD e o valor descontado, e o total já aparece recalculado. No nosso teste, o subtotal de R$ 3.582,10 caiu para R$ 3.403,00, com economia de R$ 179,10. O frete aparece como \"Calculado na próxima etapa\".",
+          "Se o desconto não aparecer, apague o campo, digite o código de novo e aplique outra vez. Se ainda assim não funcionar, fale com o atendimento da loja e avise pelo contato do Em Casa com Cecília, para revisarmos a informação."
+        ],
+        "image": "/images/reviews/letseatit/passo-4-desconto-mauad-resumo.webp",
+        "imageAlt": "Resumo do pedido na Let's Eat It: subtotal de R$ 3.582,10, desconto MAUAD de R$ 179,10, frete calculado na próxima etapa e total de R$ 3.403,00",
+        "imageCaption": "Resumo com o MAUAD aplicado: o desconto aparece antes do pagamento.",
+        "imageFit": "contain"
+      },
+      {
+        "heading": "Quanto o MAUAD economiza na prática",
+        "paragraphs": [
+          "Em loja de cozinha, 5% pode parecer pouco num jogo de xícaras e virar dinheiro de verdade numa panela de ferro esmaltado. Para dar uma ideia, separei alguns produtos do catálogo com o preço que aparecia no site no dia da consulta."
+        ],
+        "comparisonTable": {
+          "caption": "Preços consultados no site da Let's Eat It em 02/10/2026. Os valores mudam com campanhas e estoque, e o arredondamento do checkout pode variar alguns centavos.",
+          "headers": [
+            "Produto",
+            "Preço no site",
+            "Desconto de 5%",
+            "Fica por"
+          ],
+          "rows": [
+            [
+              "4 xícaras de café Pérola, Wolff",
+              "R$ 62,90",
+              "R$ 3,14",
+              "R$ 59,76"
+            ],
+            [
+              "6 taças Crex Optic, Bohemia",
+              "R$ 169,90",
+              "R$ 8,50",
+              "R$ 161,40"
+            ],
+            [
+              "Aparelho de jantar Bio Oceano (30 peças), Porto Brasil",
+              "R$ 839,00",
+              "R$ 41,95",
+              "R$ 797,05"
+            ],
+            [
+              "Panela Le Creuset Signature 24 cm",
+              "R$ 2.359,20",
+              "R$ 117,96",
+              "R$ 2.241,24"
+            ],
+            [
+              "Nosso carrinho de teste (passo 4)",
+              "R$ 3.582,10",
+              "R$ 179,10",
+              "R$ 3.403,00"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A última linha é o carrinho do print do passo 4: a panela Le Creuset de 34 cm em pré-venda e o jogo de xícaras Wolff. As outras são uma conta simples sobre o preço exibido na vitrine; o frete, calculado pelo CEP, entra depois em todos os casos."
+        ]
+      },
+      {
+        "heading": "O que eu observaria antes de comprar",
+        "paragraphs": [
+          "O cupom resolve uma parte da conta. Para a compra sair redonda, eu ainda conferiria:"
+        ],
+        "bullets": [
+          "O frete e o prazo para o seu CEP: pela política de frete da loja, a entrega leva de 3 a 5 dias úteis na capital paulista e pode chegar a 7 a 12 dias úteis no Norte e no Nordeste, contados depois da confirmação do pagamento.",
+          "O prazo de envio de itens em pré-venda, que é diferente do prazo de produtos a pronta entrega.",
+          "Se vale mais a pena pagar no Pix: a loja anuncia desconto no Pix em alguns produtos, e não testamos se ele se soma ao MAUAD. O total da etapa de pagamento é a referência.",
+          "As regras de troca: a Let's Eat It informa 30 dias para devolução a partir do recebimento. Guarde a embalagem até ter certeza de que vai ficar com a peça.",
+          "Ao receber peças frágeis, como cristal e porcelana, abra a caixa com calma e fotografe produto e embalagem se algo chegar danificado — a loja pede essas fotos para fazer a reposição."
+        ]
+      },
+      {
+        "heading": "Veredito",
+        "paragraphs": [
+          "Usar o MAUAD é simples: no checkout da Let's Eat It, digite o código no campo \"Código de desconto\", clique em Aplicar e confira a linha do desconto antes de pagar. No nosso teste, os 5% entraram até em produto já promocional e em item de pré-venda, o que faz o cupom valer a pena principalmente nas peças de maior valor.",
+          "Se ainda está decidindo se compra na loja, separamos também o que encontramos sobre a empresa e sobre a reputação dela no Reclame Aqui — os links estão logo abaixo."
+        ],
+        "links": [
+          {
+            "label": "Abrir a Let's Eat It e usar o MAUAD",
+            "href": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Let's Eat It? O cupom da Let's Eat It do Em Casa com Cecília é MAUAD, com 5% de desconto no site oficial (testado em 2 de outubro de 2026).",
+          "Onde coloco o cupom MAUAD? No checkout, no campo \"Código de desconto\" do resumo do pedido. Depois de digitar, clique em \"Aplicar\".",
+          "O cupom MAUAD vale para produtos em promoção? No nosso teste, sim: ele foi aceito num jogo de xícaras que já estava com preço promocional e numa panela em pré-venda.",
+          "O cupom MAUAD tem valor mínimo de compra? A loja não publica um valor mínimo, e o cupom funcionou num pedido com um único item de R$ 62,90.",
+          "O MAUAD dá desconto no frete? O desconto apareceu sobre o subtotal dos produtos. O frete é calculado na etapa seguinte do checkout, pelo CEP e pelo peso do pedido.",
+          "Posso usar o cupom MAUAD mais de uma vez? A loja não publica regra de uso por CPF ou por conta. Se houver limite, o checkout informa ao aplicar o código.",
+          "O MAUAD se soma ao desconto do Pix? Não testamos essa combinação. Confira o total na etapa de pagamento antes de concluir o pedido.",
+          "Por que o cupom se chama MAUAD? MAUAD é o sobrenome da Cecília Mauad, criadora do Em Casa com Cecília. É o código oficial da parceria com a Let's Eat It.",
+          "O cupom não funcionou. O que fazer? Confira se não há espaço antes ou depois do código, aplique de novo e, se o problema continuar, fale com o atendimento da loja e avise o Em Casa com Cecília para revisarmos a informação.",
+          "Usar o cupom deixa a compra mais cara? Não. O desconto sai do preço da loja, e a compra pode gerar comissão para o Em Casa com Cecília sem custo adicional para você."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Use o cupom MAUAD no checkout da Let's Eat It e confira os 5% de desconto no resumo do pedido antes de pagar.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Guia feito a partir de um teste do cupom MAUAD no checkout da Let's Eat It e das páginas públicas de frete e de trocas da loja, todos consultados em 02/10/2026. Os preços da tabela são os exibidos no site nesse dia e mudam com campanhas e estoque; o valor do checkout é sempre a referência. Parceria comercial: o Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom MAUAD ou pelos links da loja, sem custo adicional para você.",
+    "relatedArticles": [
+      {
+        "slug": "lets-eat-it-e-confiavel",
+        "title": "Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar"
+      },
+      {
+        "slug": "lets-eat-it-reclame-aqui-nota-reputacao",
+        "title": "Let's Eat It no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      }
+    ]
   }
 ];
