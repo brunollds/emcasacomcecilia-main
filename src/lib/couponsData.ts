@@ -725,7 +725,8 @@ export const COUPONS: Coupon[] = [
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
-    combinable: 'Pode variar conforme campanha ativa da loja',
+    combinable:
+      'Aceito em produtos com preço promocional e em pré-venda (teste de 02/10/2026); soma com outros cupons conforme regras da loja',
     lastVerified: '2026-10-02',
     aboutBrand:
       "A Let's Eat It é uma loja online brasileira de casa e presentes, com curadoria de marcas como Le Creuset, KitchenAid, Porto Brasil e Bohemia Crystal. O catálogo cobre mesa posta, cozinha, bar, café e chá, decoração, outdoor e eletrodomésticos — itens que conversam com a rotina de quem cozinha e recebe em casa. O cupom MAUAD, com o sobrenome da Cecília, entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar no site oficial. Como regras de desconto, frete e aplicação podem variar por campanha e produto, a recomendação é sempre conferir o desconto no checkout antes de finalizar a compra.",
@@ -753,7 +754,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom MAUAD é cumulativo?',
         answer:
-          'Pode variar conforme campanha ativa da loja. O valor final exibido no carrinho é a referência para saber se o cupom acumulou ou substituiu outra condição.',
+          'No teste de 02/10/2026, o MAUAD foi aceito em produto que já estava com preço promocional e em item de pré-venda. A soma com outros cupons segue as regras da loja; o valor final do checkout é a referência.',
       },
       {
         question: 'O link leva para a loja oficial?',
