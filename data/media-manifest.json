@@ -47261,6 +47261,406 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/casa-lets-fachada.webp",
+      "local_url": "/images/reviews/letseatit/casa-lets-fachada.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 127446,
+      "sha256": "13cb10dd1d3c077034dcd161d7f4cd69c236154190da241331026bcce054a149",
+      "width": 737,
+      "height": 560,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "casa-lets-fachada.webp",
+      "storage_filename": "casa-lets-fachada.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lets-eat-it-e-confiavel.json",
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Lets-Eat-It.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lets-eat-it-e-confiavel.json",
+          "line": 196,
+          "column": 17,
+          "literal": "/images/reviews/letseatit/casa-lets-fachada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Lets-Eat-It.md",
+          "line": 96,
+          "column": 4,
+          "literal": "/images/reviews/letseatit/casa-lets-fachada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 49523,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/casa-lets-fachada.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/13cb10dd1d3c077034dcd161d7f4cd69c236154190da241331026bcce054a149/casa-lets-fachada.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/13cb10dd1d3c077034dcd161d7f4cd69c236154190da241331026bcce054a149/casa-lets-fachada.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-03T03:57:26.664Z",
+      "verification_etag_or_digest": "13cb10dd1d3c077034dcd161d7f4cd69c236154190da241331026bcce054a149",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/cupom-mauad-hero-loja.webp",
+      "local_url": "/images/reviews/letseatit/cupom-mauad-hero-loja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58006,
+      "sha256": "3ee25fefec5f3c342617c26e7a5a4710275b603814cb49fb859d0a94dbe74806",
+      "width": 1687,
+      "height": 949,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-mauad-hero-loja.webp",
+      "storage_filename": "cupom-mauad-hero-loja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-mauad-lets-eat-it-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-mauad-lets-eat-it-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/cupom-mauad-hero-loja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 49893,
+          "column": 15,
+          "literal": "/images/reviews/letseatit/cupom-mauad-hero-loja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3ee25fefec5f3c342617c26e7a5a4710275b603814cb49fb859d0a94dbe74806/cupom-mauad-hero-loja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3ee25fefec5f3c342617c26e7a5a4710275b603814cb49fb859d0a94dbe74806/cupom-mauad-hero-loja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-03T03:57:26.665Z",
+      "verification_etag_or_digest": "3ee25fefec5f3c342617c26e7a5a4710275b603814cb49fb859d0a94dbe74806",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/lets-eat-it-confiavel-hero-loja.webp",
+      "local_url": "/images/reviews/letseatit/lets-eat-it-confiavel-hero-loja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57634,
+      "sha256": "da8dbb65db7d483609c3fad41bdca08464c835b0dc19cf038ec1f68caf3e5414",
+      "width": 1300,
+      "height": 731,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lets-eat-it-confiavel-hero-loja.webp",
+      "storage_filename": "lets-eat-it-confiavel-hero-loja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lets-eat-it-e-confiavel.json",
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Lets-Eat-It.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lets-eat-it-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/lets-eat-it-confiavel-hero-loja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Lets-Eat-It.md",
+          "line": 93,
+          "column": 4,
+          "literal": "/images/reviews/letseatit/lets-eat-it-confiavel-hero-loja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 49349,
+          "column": 15,
+          "literal": "/images/reviews/letseatit/lets-eat-it-confiavel-hero-loja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/da8dbb65db7d483609c3fad41bdca08464c835b0dc19cf038ec1f68caf3e5414/lets-eat-it-confiavel-hero-loja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/da8dbb65db7d483609c3fad41bdca08464c835b0dc19cf038ec1f68caf3e5414/lets-eat-it-confiavel-hero-loja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-03T03:57:26.665Z",
+      "verification_etag_or_digest": "da8dbb65db7d483609c3fad41bdca08464c835b0dc19cf038ec1f68caf3e5414",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/lets-eat-it-marcas-linhas.webp",
+      "local_url": "/images/reviews/letseatit/lets-eat-it-marcas-linhas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 7582,
+      "sha256": "dcbc264a48807fa65af3a57c3455da323d48b8823291232a288cfbd679a32fe8",
+      "width": 840,
+      "height": 256,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lets-eat-it-marcas-linhas.webp",
+      "storage_filename": "lets-eat-it-marcas-linhas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lets-eat-it-e-confiavel.json",
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Lets-Eat-It.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lets-eat-it-e-confiavel.json",
+          "line": 132,
+          "column": 17,
+          "literal": "/images/reviews/letseatit/lets-eat-it-marcas-linhas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Lets-Eat-It.md",
+          "line": 95,
+          "column": 4,
+          "literal": "/images/reviews/letseatit/lets-eat-it-marcas-linhas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 49459,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/lets-eat-it-marcas-linhas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/dcbc264a48807fa65af3a57c3455da323d48b8823291232a288cfbd679a32fe8/lets-eat-it-marcas-linhas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dcbc264a48807fa65af3a57c3455da323d48b8823291232a288cfbd679a32fe8/lets-eat-it-marcas-linhas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-03T03:57:26.665Z",
+      "verification_etag_or_digest": "dcbc264a48807fa65af3a57c3455da323d48b8823291232a288cfbd679a32fe8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/passo-1-produto-loja-v2.webp",
+      "local_url": "/images/reviews/letseatit/passo-1-produto-loja-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44892,
+      "sha256": "77ffea69e80ceeefd2d7c3507e211731bec6ab5be6950483efa2022a984f0f8a",
+      "width": 430,
+      "height": 764,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "passo-1-produto-loja-v2.webp",
+      "storage_filename": "passo-1-produto-loja-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-mauad-lets-eat-it-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-mauad-lets-eat-it-como-usar.json",
+          "line": 74,
+          "column": 17,
+          "literal": "/images/reviews/letseatit/passo-1-produto-loja-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 49945,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/passo-1-produto-loja-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/77ffea69e80ceeefd2d7c3507e211731bec6ab5be6950483efa2022a984f0f8a/passo-1-produto-loja-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/77ffea69e80ceeefd2d7c3507e211731bec6ab5be6950483efa2022a984f0f8a/passo-1-produto-loja-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-03T03:57:26.665Z",
+      "verification_etag_or_digest": "77ffea69e80ceeefd2d7c3507e211731bec6ab5be6950483efa2022a984f0f8a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/politica-reembolso-trocas-v2.webp",
+      "local_url": "/images/reviews/letseatit/politica-reembolso-trocas-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34144,
+      "sha256": "ba7a74f5ecd4b859392daeb5d052676457b6d31df3915b7c36cea6b352778b5b",
+      "width": 905,
+      "height": 905,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "politica-reembolso-trocas-v2.webp",
+      "storage_filename": "politica-reembolso-trocas-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lets-eat-it-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lets-eat-it-e-confiavel.json",
+          "line": 153,
+          "column": 17,
+          "literal": "/images/reviews/letseatit/politica-reembolso-trocas-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 49480,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/politica-reembolso-trocas-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ba7a74f5ecd4b859392daeb5d052676457b6d31df3915b7c36cea6b352778b5b/politica-reembolso-trocas-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ba7a74f5ecd4b859392daeb5d052676457b6d31df3915b7c36cea6b352778b5b/politica-reembolso-trocas-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-03T03:57:26.665Z",
+      "verification_etag_or_digest": "ba7a74f5ecd4b859392daeb5d052676457b6d31df3915b7c36cea6b352778b5b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/reclame-aqui-hero-perfil.webp",
+      "local_url": "/images/reviews/letseatit/reclame-aqui-hero-perfil.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16356,
+      "sha256": "1e9400b711849c510e61331bcbf541ad161926880efc54afa4f78bceba4456c5",
+      "width": 757,
+      "height": 426,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "reclame-aqui-hero-perfil.webp",
+      "storage_filename": "reclame-aqui-hero-perfil.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lets-eat-it-reclame-aqui-nota-reputacao.json",
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Lets-Eat-It.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lets-eat-it-reclame-aqui-nota-reputacao.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/reclame-aqui-hero-perfil.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Lets-Eat-It.md",
+          "line": 94,
+          "column": 4,
+          "literal": "/images/reviews/letseatit/reclame-aqui-hero-perfil.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 49638,
+          "column": 15,
+          "literal": "/images/reviews/letseatit/reclame-aqui-hero-perfil.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1e9400b711849c510e61331bcbf541ad161926880efc54afa4f78bceba4456c5/reclame-aqui-hero-perfil.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1e9400b711849c510e61331bcbf541ad161926880efc54afa4f78bceba4456c5/reclame-aqui-hero-perfil.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-03T03:57:26.665Z",
+      "verification_etag_or_digest": "1e9400b711849c510e61331bcbf541ad161926880efc54afa4f78bceba4456c5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/reclame-aqui-principais-problemas-v2.webp",
+      "local_url": "/images/reviews/letseatit/reclame-aqui-principais-problemas-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28528,
+      "sha256": "d52773217d7f894eea084500faf4143c5f3e3c303d1f2dd18a34ea08346614f9",
+      "width": 860,
+      "height": 860,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "reclame-aqui-principais-problemas-v2.webp",
+      "storage_filename": "reclame-aqui-principais-problemas-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/lets-eat-it-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/lets-eat-it-reclame-aqui-nota-reputacao.json",
+          "line": 152,
+          "column": 17,
+          "literal": "/images/reviews/letseatit/reclame-aqui-principais-problemas-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 49768,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/reclame-aqui-principais-problemas-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d52773217d7f894eea084500faf4143c5f3e3c303d1f2dd18a34ea08346614f9/reclame-aqui-principais-problemas-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d52773217d7f894eea084500faf4143c5f3e3c303d1f2dd18a34ea08346614f9/reclame-aqui-principais-problemas-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-03T03:57:26.665Z",
+      "verification_etag_or_digest": "d52773217d7f894eea084500faf4143c5f3e3c303d1f2dd18a34ea08346614f9",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/magalu/magalu-cupom-aplicado.webp",
       "local_url": "/images/reviews/magalu/magalu-cupom-aplicado.webp",
       "media_kind": "image",

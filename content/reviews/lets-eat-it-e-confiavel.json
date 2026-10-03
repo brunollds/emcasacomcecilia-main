@@ -14,13 +14,13 @@
     "url": "/sobre"
   },
   "description": "O que conferimos sobre a Let's Eat It antes de indicar a loja: empresa ativa desde 2020 com quatro CNPJs, presença no localizador oficial da Le Creuset, política de 30 dias para devolução, entrega de peças frágeis e o ponto de atenção no pós-venda.",
-  "metaDescription": "A Let's Eat It é confiável? Veja CNPJ, presença no localizador da Le Creuset, política de troca de 30 dias, prazos de entrega, loja física em SP e o que observar antes de comprar.",
+  "metaDescription": "A loja Let's Eat It é confiável? Veja CNPJ, Le Creuset, troca em 30 dias, frete, Reclame Aqui e fotos da Casa Let's, a loja física em São Paulo.",
   "publishedAt": "3 de outubro de 2026",
   "publishedAtISO": "2026-10-03",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/letseatit/lets-eat-it-confiavel-hero.webp",
-  "imageAlt": "Imagem ilustrativa de uma cozinha com mesa posta, panela de ferro esmaltado vermelha, pratos brancos e taças de vinho tinto",
+  "image": "/images/reviews/letseatit/lets-eat-it-confiavel-hero-loja.webp",
+  "imageAlt": "Página inicial da loja Let's Eat It com o menu de marcas e linhas, o banner de cashback e uma vitrine de panelas",
   "imageFit": "cover",
   "pros": [
     "Empresa com CNPJ ativo desde 2020, matriz no Rio de Janeiro e filiais em São Paulo, no Espírito Santo e em Santa Catarina",
@@ -28,14 +28,15 @@
     "Política de 30 dias para devolução, com etiqueta de envio enviada pela loja e reembolso integral",
     "Reposição gratuita de produto danificado no transporte, mediante fotos",
     "Reputação Boa no Reclame Aqui, com 99,1% das reclamações respondidas nos últimos 6 meses",
-    "Showroom em São Paulo, a Casa Let's, onde também é possível fazer trocas"
+    "Loja física em São Paulo, a Casa Let's, com 15% de desconto nas compras presenciais (exceto Le Creuset e Trussardi)"
   ],
   "cons": [
     "Só 54% dos consumidores que avaliaram no Reclame Aqui dizem que voltariam a comprar",
     "Tempo médio de resposta de 16 dias no Reclame Aqui",
     "\"Produto não recebido\" é o problema mais citado nas reclamações",
     "O site mantém, além da política oficial, um texto genérico de reembolso com regras diferentes",
-    "Frete calculado por CEP e peso, sem faixa de frete grátis publicada"
+    "Não há frete grátis: o frete é calculado pelo CEP e pelo peso do pedido",
+    "Não é possível retirar na Casa Let's um pedido feito no site"
   ],
   "contentSections": [
     {
@@ -101,7 +102,7 @@
         ]
       },
       "postParagraphs": [
-        "No Reclame Aqui, a loja se apresenta como atuante desde 2015. O CNPJ atual é de 2020; pode ter havido uma operação anterior com outra estrutura, mas isso não consegui confirmar. De todo modo, são pelo menos seis anos de perfil no Reclame Aqui e uma empresa que foi abrindo filiais com o tempo — o oposto do padrão de loja que aparece e some."
+        "No Reclame Aqui, a loja se apresenta como atuante desde 2015. O CNPJ atual é de 2020; pode ter havido uma operação anterior com outra estrutura, mas isso não consegui confirmar. De todo modo, são pelo menos seis anos de perfil no Reclame Aqui e uma empresa que foi abrindo filiais com o tempo — **o oposto do padrão de loja que aparece e some.**"
       ]
     },
     {
@@ -119,14 +120,20 @@
           "label": "Ver a Let's Eat It no localizador da Le Creuset →",
           "href": "https://www.lecreuset.com.br/on/demandware.store/Sites-LeCreuset_BR-Site/pt_BR/Stores-Detail?sid=BR-36019"
         }
-      ]
+      ],
+      "imageAspectRatio": 1.6
     },
     {
-      "heading": "O que a loja vende e quanto custa",
+      "heading": "Marcas, linhas e preços da Let's Eat It",
       "paragraphs": [
-        "A Let's Eat It é uma loja multimarcas de casa, mesa posta e presentes, e não fabricante. No menu aparecem marcas como Le Creuset, Porto Brasil, Trussardi e Toque de Ouro, e no catálogo há também cristais Bohemia e Wolff, utensílios KitchenAid e eletroportáteis Ariete.",
+        "A Let's Eat It é uma loja multimarcas de casa, mesa posta e presentes, e não fabricante. O site organiza o catálogo por marcas e por linhas, e entre as marcas em destaque estão Trussardi, Le Creuset, St. James, Porto Brasil, Wolff, Zwilling e Artevino. No catálogo aparecem também cristais Bohemia, utensílios KitchenAid e eletroportáteis Ariete.",
         "Para ter uma ideia de faixa de preço, no dia da consulta: a panela Le Creuset Redonda Signature de 24 cm saía por R$ 2.359,20, o aparelho de jantar Bio Oceano de 30 peças da Porto Brasil por R$ 839,00, o jogo de 6 taças Crex Optic da Bohemia por R$ 169,90 e o jogo de 4 xícaras de cristal Pérola da Wolff, em promoção, por R$ 62,90. Os preços mudam com campanhas e estoque."
-      ]
+      ],
+      "image": "/images/reviews/letseatit/lets-eat-it-marcas-linhas.webp",
+      "imageAlt": "Logos de marcas em destaque na Let's Eat It: Trussardi, Le Creuset, St. James, Porto Brasil, Wolff, Zwilling e Artevino",
+      "imageCaption": "Algumas das marcas em destaque no site da Let's Eat It (consulta em 03/10/2026).",
+      "imageFit": "contain",
+      "imageAspectRatio": 3.2813
     },
     {
       "heading": "Trocas, devoluções e reembolso",
@@ -143,10 +150,10 @@
         "Defeito de fabricação: até 90 dias.",
         "Ficam de fora itens personalizados, produtos de higiene e beleza abertos, vales-presente e danos por mau uso."
       ],
-      "image": "/images/reviews/letseatit/politica-reembolso-trocas.webp",
+      "image": "/images/reviews/letseatit/politica-reembolso-trocas-v2.webp",
       "imageAlt": "Página Política de Reembolso e Trocas da Let's Eat It com os destaques 30 dias para troca, Reembolso garantido e Frete grátis na devolução, atualizada em abril de 2026",
       "imageCaption": "Topo da política de reembolso e trocas da Let's Eat It (consulta em 02/10/2026).",
-      "imageFit": "contain",
+      "imageFit": "square",
       "postParagraphs": [
         "Um cuidado: o site também mantém, num endereço padrão da plataforma da loja, um texto genérico de reembolso com regras diferentes — por exemplo, dizendo que itens em promoção não podem ser devolvidos. Considerei como vigente a página dedicada, que é a mais recente e a mais detalhada. Se alguma regra for decisiva para a sua compra, peça a confirmação ao atendimento por escrito antes de fechar o pedido."
       ],
@@ -170,7 +177,7 @@
         "Norte e Nordeste: 7 a 12 dias úteis."
       ],
       "postParagraphs": [
-        "Os prazos podem mudar em períodos promocionais, e o frete é calculado pelo CEP e pelo peso do pedido. Se uma peça chegar danificada, a loja faz a reposição sem custo: basta enviar fotos do produto e da embalagem pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br. A política não informa um prazo para esse aviso, então o melhor é avisar logo depois de abrir a caixa."
+        "A loja não oferece frete grátis: o valor é calculado pelo CEP e pelo peso do pedido, e dá para simular na página do produto. Os prazos podem mudar em períodos promocionais. Se uma peça chegar danificada, a loja faz a reposição sem custo: basta enviar fotos do produto e da embalagem pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br. A política não informa um prazo para esse aviso, então o melhor é avisar logo depois de abrir a caixa."
       ],
       "links": [
         {
@@ -180,11 +187,17 @@
       ]
     },
     {
-      "heading": "Atendimento e loja física",
+      "heading": "Casa Let's: a loja física da Let's Eat It em São Paulo",
       "paragraphs": [
-        "O atendimento funciona de segunda a sexta, das 9h às 18h, pelo WhatsApp e pelo e-mail de suporte. Além do site, a loja mantém um showroom em São Paulo, a Casa Let's, na Avenida Pacaembu, 1105, no bairro do Pacaembu, aberta de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h.",
-        "Para quem mora em São Paulo, a Casa Let's é um bom recurso: dá para ver as peças pessoalmente e, segundo a política da loja, fazer trocas presencialmente."
-      ]
+        "A Let's Eat It tem uma loja física em São Paulo, a Casa Let's, na Avenida Pacaembu, 1105, no bairro do Pacaembu. Ela abre de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h, e não precisa de agendamento.",
+        "Pela página oficial, a proposta é mais de casa decorada do que de loja: os ambientes mostram as peças em uso, e dá para montar a mesa posta com a equipe antes de levar. As compras presenciais têm 15% de desconto, exceto Le Creuset e Trussardi. Um detalhe prático: não é possível retirar na Casa Let's um pedido feito pelo site, que sempre vai para o endereço de entrega.",
+        "Para quem compra online, o atendimento funciona de segunda a sexta, das 9h às 18h, pelo WhatsApp e pelo e-mail de suporte. Quem mora em São Paulo também pode, segundo a política da loja, fazer trocas presencialmente na Casa Let's."
+      ],
+      "image": "/images/reviews/letseatit/casa-lets-fachada.webp",
+      "imageAlt": "Fachada da Casa Let's, a loja física da Let's Eat It na Avenida Pacaembu, em São Paulo, com o aviso de 15% de desconto nas compras presenciais",
+      "imageCaption": "A Casa Let's na página oficial da loja (consulta em 03/10/2026).",
+      "imageFit": "contain",
+      "imageAspectRatio": 1.3161
     },
     {
       "heading": "E a reputação no Reclame Aqui?",
@@ -243,8 +256,10 @@
         "A Let's Eat It é uma loja de verdade? Sim. Tem CNPJ ativo, matriz no Rio de Janeiro, filiais em São Paulo, Serra (ES) e Itajaí (SC) e um showroom em São Paulo, a Casa Let's.",
         "Qual é o CNPJ da Let's Eat It? O CNPJ da matriz é 37.882.316/0001-64, no Rio de Janeiro, com situação ativa na consulta de 02/10/2026. A loja também tem filiais registradas em São Paulo, Serra (ES) e Itajaí (SC).",
         "A Let's Eat It vende Le Creuset original? A Let's Eat It aparece no localizador de lojas oficial da Le Creuset Brasil, o que indica que a marca a reconhece como ponto de venda. Guarde a nota fiscal da compra.",
-        "A Let's Eat It tem loja física? Sim, a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo, aberta de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h.",
+        "A Let's Eat It tem loja física? Sim, a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo, aberta de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h. As compras presenciais têm 15% de desconto, exceto Le Creuset e Trussardi.",
+        "Dá para retirar o pedido na Casa Let's? Não. Segundo a política de frete, os pedidos feitos no site são sempre enviados para o endereço informado na compra.",
         "Quanto tempo demora a entrega da Let's Eat It? De 3 a 5 dias úteis na capital paulista até 7 a 12 dias úteis no Norte e no Nordeste, contados depois da confirmação do pagamento.",
+        "A Let's Eat It tem frete grátis? Não na compra: o frete é calculado pelo CEP e pelo peso do pedido. O que é gratuito é o envio na devolução, com a etiqueta enviada pela loja.",
         "Como trocar ou devolver um produto da Let's Eat It? A loja aceita devolução em até 30 dias após o recebimento, envia a etiqueta de envio e devolve o valor integral ou em crédito na loja. O contato é pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br.",
         "O que acontece se o produto chegar quebrado? A loja informa reposição gratuita da peça, mediante fotos do produto e da embalagem enviadas ao atendimento.",
         "Qual é o cupom da Let's Eat It? É MAUAD, com 5% de desconto no site oficial, da parceria com o Em Casa com Cecília."
@@ -259,7 +274,7 @@
   },
   "coupon": "MAUAD",
   "affiliate": "letseatit",
-  "editorialNote": "Feito a partir de fontes públicas consultadas em 02/10/2026: dados de CNPJ, localizador de lojas da Le Creuset Brasil, páginas de política de reembolso e de frete da Let's Eat It (atualizadas em abril de 2026) e perfil da loja no Reclame Aqui. Não declaramos experiência própria com produtos da loja neste artigo, e a imagem de capa é ilustrativa. Parceria comercial: o Em Casa com Cecília pode receber comissão pelas compras feitas com o cupom MAUAD ou pelos links da loja, sem custo adicional para você.",
+  "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelas compras com o cupom MAUAD.",
   "relatedArticles": [
     {
       "slug": "lets-eat-it-reclame-aqui-nota-reputacao",
@@ -269,5 +284,6 @@
       "slug": "cupom-mauad-lets-eat-it-como-usar",
       "title": "Cupom Let's Eat It MAUAD: como usar o desconto de 5%"
     }
-  ]
+  ],
+  "imageAspect": "landscape"
 }
