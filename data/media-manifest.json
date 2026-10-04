@@ -53388,6 +53388,190 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/iwannasleep/pillow-top-magnum-oficial-altura.webp",
+      "local_url": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-altura.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 108658,
+      "sha256": "4909bd31023361631e1b832ffd88d6294ab2578d2baa1c7a502e2214b774a8a3",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pillow-top-magnum-oficial-altura.webp",
+      "storage_filename": "pillow-top-magnum-oficial-altura.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas.json",
+          "line": 70,
+          "column": 17,
+          "literal": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-altura.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 50182,
+          "column": 19,
+          "literal": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-altura.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4909bd31023361631e1b832ffd88d6294ab2578d2baa1c7a502e2214b774a8a3/pillow-top-magnum-oficial-altura.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4909bd31023361631e1b832ffd88d6294ab2578d2baa1c7a502e2214b774a8a3/pillow-top-magnum-oficial-altura.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-04T02:31:27.871Z",
+      "verification_etag_or_digest": "4909bd31023361631e1b832ffd88d6294ab2578d2baa1c7a502e2214b774a8a3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/pillow-top-magnum-oficial-elastico.webp",
+      "local_url": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-elastico.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 41334,
+      "sha256": "494750df92c5eacd7df19b753d07f28e6d3b86e265e4fb1bd7289b3e0b4e1eb9",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pillow-top-magnum-oficial-elastico.webp",
+      "storage_filename": "pillow-top-magnum-oficial-elastico.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas.json",
+          "line": 121,
+          "column": 17,
+          "literal": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-elastico.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 50233,
+          "column": 19,
+          "literal": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-elastico.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/494750df92c5eacd7df19b753d07f28e6d3b86e265e4fb1bd7289b3e0b4e1eb9/pillow-top-magnum-oficial-elastico.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/494750df92c5eacd7df19b753d07f28e6d3b86e265e4fb1bd7289b3e0b4e1eb9/pillow-top-magnum-oficial-elastico.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-04T02:31:27.872Z",
+      "verification_etag_or_digest": "494750df92c5eacd7df19b753d07f28e6d3b86e265e4fb1bd7289b3e0b4e1eb9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/pillow-top-magnum-oficial-hero.webp",
+      "local_url": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-hero.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 171556,
+      "sha256": "51d4356468c0463ffe7ec3e2d6ee4d6d2dfe7c5a05fe56e0c85c1d115c51b0ca",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pillow-top-magnum-oficial-hero.webp",
+      "storage_filename": "pillow-top-magnum-oficial-hero.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-hero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 50134,
+          "column": 15,
+          "literal": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-hero.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/51d4356468c0463ffe7ec3e2d6ee4d6d2dfe7c5a05fe56e0c85c1d115c51b0ca/pillow-top-magnum-oficial-hero.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/51d4356468c0463ffe7ec3e2d6ee4d6d2dfe7c5a05fe56e0c85c1d115c51b0ca/pillow-top-magnum-oficial-hero.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-04T02:31:27.872Z",
+      "verification_etag_or_digest": "51d4356468c0463ffe7ec3e2d6ee4d6d2dfe7c5a05fe56e0c85c1d115c51b0ca",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/pillow-top-magnum-oficial-tecido.webp",
+      "local_url": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-tecido.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64864,
+      "sha256": "02beaa4f840c4949ff5257067f9a86dcf375ddef36eeb833396cd39b33097905",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pillow-top-magnum-oficial-tecido.webp",
+      "storage_filename": "pillow-top-magnum-oficial-tecido.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas.json",
+          "line": 81,
+          "column": 17,
+          "literal": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-tecido.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 50193,
+          "column": 19,
+          "literal": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-tecido.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/02beaa4f840c4949ff5257067f9a86dcf375ddef36eeb833396cd39b33097905/pillow-top-magnum-oficial-tecido.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/02beaa4f840c4949ff5257067f9a86dcf375ddef36eeb833396cd39b33097905/pillow-top-magnum-oficial-tecido.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-04T02:31:27.872Z",
+      "verification_etag_or_digest": "02beaa4f840c4949ff5257067f9a86dcf375ddef36eeb833396cd39b33097905",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/fibermais-linha-preparo-oficial.webp",
       "local_url": "/images/reviews/nutren/fibermais-linha-preparo-oficial.webp",
       "staged": true,
