@@ -210,6 +210,16 @@ export function ReviewSectionContent({
         </div>
       )}
 
+      {/* Sem EditorialReveal: advertência legal precisa estar visível desde o primeiro render. */}
+      {section.notice && (
+        <p
+          role="note"
+          className="mt-6 rounded-xl border-2 border-[#1a4d2e] bg-white px-5 py-4 font-heading text-sm font-bold uppercase leading-6 tracking-wide text-[#1a4d2e]"
+        >
+          {section.notice}
+        </p>
+      )}
+
       {section.video && (
         <div className={`my-6 overflow-hidden rounded-[1.25rem] bg-[#f4f4f5] shadow-soft mx-auto ${
           section.video.aspect === 'portrait'
