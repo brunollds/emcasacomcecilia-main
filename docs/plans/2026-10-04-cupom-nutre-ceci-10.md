@@ -29,16 +29,26 @@ Depois de reverter:
 
 - `lastVerified` do `nutren` em `src/lib/couponsData.ts` recebe a data real da nova verificação;
 - o `updatedAt` do artigo do cupom só muda se houver revisão editorial de fato;
-- a legenda e o `imageAlt` do passo 4 (print de quando era 5%) voltam ao texto original, já incluso
-  na tabela;
+- o passo 4 do artigo volta para o print de 5% (`passo-4-cupom-aplicado.webp`, `imageFit`
+  `contain`) com o `imageAlt` e a legenda originais; a troca já está na tabela;
 - atualizar o dossiê da Nestlé Nutre, a linha `nutren` em `docs/MANUTENCAO-MENSAL.md` e em
   `docs/CUPONS-DATAS-RASTREAMENTO.md`.
 
+## Prints do checkout (passo 4 do artigo)
+
+| Arquivo | Conteúdo | Situação |
+|---|---|---|
+| `public/images/reviews/nutren/passo-4-cupom-aplicado-10.webp` | resumo do pedido de 04/10/2026: R$ 112,18 (10%) sobre R$ 1.121,84 | em uso |
+| `public/images/reviews/nutren/passo-4-cupom-aplicado.webp` | print antigo com 5% | fora do artigo, mantido no CDN e no Git para a reversão |
+
+O print novo mostra só o painel de resumo, sem a lista de produtos, para não exibir desconto
+aplicado a itens infantis. Não remover o print de 5% do CDN nem do mapa de entrega
+(`src/lib/generated/media-delivery-map.json`) enquanto o percentual não for confirmado: reverter
+é só trocar o caminho no JSON.
+
 ## Se os 10% forem fixos
 
-- Trocar o print `public/images/reviews/nutren/passo-4-cupom-aplicado.webp` por um novo com 10%
-  (nome de arquivo novo, pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`) e remover da legenda e do
-  `imageAlt` a ressalva "quando o desconto era de 5%". O print antigo fica até essa confirmação.
+- O print de 5% pode sair do repositório e do CDN pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`.
 - O comparativo da creatina continua datado: a tabela mostra a consulta de 27/08/2026 com o CECI
   de 5% e o texto traz a conta com 10% sobre o mesmo preço. Um comparativo novo pede nova consulta
   de preços das quatro marcas.
@@ -65,6 +75,8 @@ Depois de reverter:
 
 ## Mapa de reversão (10% → 5%)
 
+## Mapa de reversão (10% → 5%)
+
 #### `src/lib/couponsData.ts`
 
 | Texto atual (10%) | Reverter para (5%) | Ocorrências |
@@ -86,8 +98,7 @@ Depois de reverter:
 | `O cupom Nestlé Nutre CECI oferece 10% de desconto` | `O cupom Nestlé Nutre CECI oferece 5% de desconto` | 1 |
 | `o desconto é de R$ 10;` | `o desconto é de R$ 5;` | 1 |
 | `o desconto de 10% deve aparecer automaticamente` | `o desconto de 5% deve aparecer automaticamente` | 1 |
-| `aplicado com sucesso no resumo do pedido, em print feito quando o desconto era de 5%.` | `aplicado com sucesso e o desconto de 5% no resumo do pedido.` | 1 |
-| ` O print é de quando o cupom dava 5%; hoje o desconto é de 10%.` | _(remover o trecho)_ | 1 |
+| `      "image": "/images/reviews/nutren/passo-4-cupom-aplicado-10.webp", ⏎ "imageAlt": "Resumo do pedido na loja da Nestlé Nutre com o cupom CECI aplicado: subtotal de R$ 1.121,84, desconto de R$ 112,18 (10%) e total de R$ 1.009,66.", ⏎ "imageCaption": "O resumo do pedido mostra o cupom CECI aplicado e os 10% já descontados do total.", ⏎ "imageFit": "portrait"` | `      "image": "/images/reviews/nutren/passo-4-cupom-aplicado.webp", ⏎ "imageAlt": "Carrinho da Nestlé Nutre mostrando o cupom CECI aplicado com sucesso e o desconto de 5% no resumo do pedido.", ⏎ "imageCaption": "O resumo do pedido mostra o desconto do cupom CECI já aplicado.", ⏎ "imageFit": "contain"` | 1 |
 | `não conte com os 10% de desconto nesses itens` | `não conte com os 5% de desconto nesses itens` | 1 |
 | `o cupom ajuda a economizar 10% nessa decisão` | `o cupom ajuda a economizar 5% nessa decisão` | 1 |
 | `Confirme se o desconto de 10% aparece no resumo do carrinho` | `Confirme se o desconto de 5% aparece no resumo do carrinho` | 1 |

@@ -104,10 +104,10 @@
       "paragraphs": [
         "Esse é o passo mais importante: confira se o desconto realmente apareceu no valor total antes de finalizar a compra. Se o cupom não funcionar, verifique se o código foi digitado corretamente, se algum item do carrinho é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses (que ficam de fora da promoção) e se há outra campanha ativa na loja que possa interferir no desconto. Se nada disso explicar, avise pelo contato do Em Casa com Cecília para que a informação seja revisada."
       ],
-      "image": "/images/reviews/nutren/passo-4-cupom-aplicado.webp",
-      "imageAlt": "Carrinho da Nestlé Nutre mostrando o cupom CECI aplicado com sucesso no resumo do pedido, em print feito quando o desconto era de 5%.",
-      "imageCaption": "O resumo do pedido mostra o desconto do cupom CECI já aplicado. O print é de quando o cupom dava 5%; hoje o desconto é de 10%.",
-      "imageFit": "contain"
+      "image": "/images/reviews/nutren/passo-4-cupom-aplicado-10.webp",
+      "imageAlt": "Resumo do pedido na loja da Nestlé Nutre com o cupom CECI aplicado: subtotal de R$ 1.121,84, desconto de R$ 112,18 (10%) e total de R$ 1.009,66.",
+      "imageCaption": "O resumo do pedido mostra o cupom CECI aplicado e os 10% já descontados do total.",
+      "imageFit": "portrait"
     },
     {
       "heading": "Produtos excluídos: Alfamino, Alfaré e fórmulas infantis NAN",

@@ -49088,6 +49088,67 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/passo-4-cupom-aplicado-10.webp",
+      "local_url": "/images/reviews/nutren/passo-4-cupom-aplicado-10.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17678,
+      "sha256": "5dbcdf35d85cabdf27d8dc863afbde68452038a6aeffe11b5b28369294ca1c2b",
+      "width": 308,
+      "height": 548,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "passo-4-cupom-aplicado-10.webp",
+      "storage_filename": "passo-4-cupom-aplicado-10.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-ceci-nestle-nutre-como-usar.json",
+        "docs/plans/2026-10-04-cupom-nutre-ceci-10.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-ceci-nestle-nutre-como-usar.json",
+          "line": 107,
+          "column": 17,
+          "literal": "/images/reviews/nutren/passo-4-cupom-aplicado-10.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/plans/2026-10-04-cupom-nutre-ceci-10.md",
+          "line": 41,
+          "column": 4,
+          "literal": "public/images/reviews/nutren/passo-4-cupom-aplicado-10.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/plans/2026-10-04-cupom-nutre-ceci-10.md",
+          "line": 41,
+          "column": 10,
+          "literal": "/images/reviews/nutren/passo-4-cupom-aplicado-10.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/plans/2026-10-04-cupom-nutre-ceci-10.md",
+          "line": 101,
+          "column": 20,
+          "literal": "/images/reviews/nutren/passo-4-cupom-aplicado-10.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5dbcdf35d85cabdf27d8dc863afbde68452038a6aeffe11b5b28369294ca1c2b/passo-4-cupom-aplicado-10.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5dbcdf35d85cabdf27d8dc863afbde68452038a6aeffe11b5b28369294ca1c2b/passo-4-cupom-aplicado-10.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-04T04:11:24.809Z",
+      "verification_etag_or_digest": "5dbcdf35d85cabdf27d8dc863afbde68452038a6aeffe11b5b28369294ca1c2b",
+      "verification_status": "verified",
+      "staged": true
+    },
+    {
       "source_path": "public/images/reviews/nutren/passo-4-cupom-aplicado.webp",
       "local_url": "/images/reviews/nutren/passo-4-cupom-aplicado.webp",
       "media_kind": "image",
