@@ -14,7 +14,25 @@ revisao_geral_ate: "2026-09-01"
 
 | Fato / Condição Comercial | Tipo | Fonte | Consultado Em | Rever Até | Escopo / Regras | Confiança |
 |---|---|---|---|---|---|---|
-| Cupom `CECI` oferece 5% de desconto na loja oficial Nestlé Nutre | condicao_comercial_volatil | `src/lib/couponsData.ts` | 2026-08-11 | 2026-09-01 | Loja oficial Nestlé Nutre; conferir no checkout | Alta |
+| Cupom `CECI` oferece 10% de desconto na loja oficial Nestlé Nutre | condicao_comercial_volatil | `src/lib/couponsData.ts` + print do checkout | 2026-10-04 | 2026-11-01 | Era 5% até 03/10/2026; ainda não se sabe se os 10% são fixos ou temporários. Reversão: `docs/plans/2026-10-04-cupom-nutre-ceci-10.md` | Alta |
+| Cupom `CECI` não vale para Alfamino e Alfaré | condicao_comercial_volatil | `src/lib/couponsData.ts` | 2026-10-04 | 2026-11-01 | Exclusão comercial da loja, sem motivo divulgado | Alta |
+
+---
+
+## 1.1 Alertas Regulatórios
+
+> [!CAUTION]
+> **Fórmulas infantis para bebês de 0 a 12 meses (ex.: NAN dessa faixa) nunca recebem o CECI.**
+> O art. 5º do Decreto 9.579/2018 proíbe a promoção comercial de fórmulas infantis para lactentes
+> e de seguimento para lactentes (art. 3º, IV), e o parágrafo único cita "descontos de preço" e
+> "cupons de descontos", inclusive em meios eletrônicos. Lactente é a criança de até 11 meses e
+> 29 dias (art. 4º). Conferido no texto do Planalto em 04/10/2026.
+>
+> - Não escrever, em página ou artigo, frase que sugira o CECI nessas fórmulas. Toda menção às
+>   exceções do cupom inclui "fórmulas infantis de 0 a 12 meses".
+> - Alfamino e Alfaré (necessidades dietoterápicas, art. 3º, V) ficam de fora por regra da loja,
+>   não por essa proibição. NAN para 1 a 3 anos (art. 3º, III) também não está na proibição.
+> - A mesma vedação alcança mamadeiras, bicos e chupetas (art. 3º, VII).
 
 ---
 

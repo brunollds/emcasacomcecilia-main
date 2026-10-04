@@ -427,33 +427,39 @@ export const COUPONS: Coupon[] = [
     brandLogoAlt: 'Marca Nestlé Nutre',
     brandColor: '#0056A4',
     code: 'CECI',
-    discount: '5% OFF',
-    discountNumber: 5,
+    discount: '10% OFF',
+    discountNumber: 10,
     category: 'Nutrição e bem-estar',
-    shortDescription: 'produtos Nestlé Nutre, exceto Alfamino e Alfaré',
+    shortDescription: 'produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses',
     longDescription:
-      'Código da Cecília para economizar em produtos Nestlé Nutre na loja oficial, exceto Alfamino e Alfaré.',
-    metaTitle: 'Cupom Nestlé Nutre Outubro 2026: CECI — 5% OFF na Loja Oficial',
+      'Código da Cecília para economizar em produtos Nestlé Nutre na loja oficial, exceto Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses, como NAN.',
+    metaTitle: 'Cupom Nestlé Nutre Outubro 2026: CECI — 10% OFF na Loja Oficial',
     metaDescription:
-      'Cupom Nestlé Nutre confirmado para outubro de 2026: use CECI no checkout da loja oficial e ganhe 5% OFF. Válido para produtos Nestlé Nutre, exceto Alfamino e Alfaré.',
-    eligibleCategories: 'Produtos Nestlé Nutre, exceto Alfamino e Alfaré',
+      'Cupom Nestlé Nutre confirmado para outubro de 2026: use CECI no checkout da loja oficial e ganhe 10% OFF. Não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses, como NAN.',
+    eligibleCategories:
+      'Produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses (como NAN)',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Pode variar conforme campanha ativa da loja oficial',
-    lastVerified: '2026-10-01',
+    lastVerified: '2026-10-04',
     aboutBrand:
-      'A Nestlé Nutre é uma loja oficial da Nestlé voltada a produtos de nutrição e suplementação, com opções para diferentes rotinas e necessidades alimentares. Os produtos disponíveis podem fazer parte do dia a dia de quem busca praticidade na alimentação, sempre conforme as indicações do rótulo e, quando necessário, com orientação de um profissional de saúde. O cupom CECI foi criado para quem acompanha o Em Casa com Cecília e quer economizar na loja oficial, com exceção de Alfamino e Alfaré. Como em toda parceria comercial, a recomendação é conferir o desconto aplicado no checkout antes de finalizar a compra.',
+      'A Nestlé Nutre é uma loja oficial da Nestlé voltada a produtos de nutrição e suplementação, com opções para diferentes rotinas e necessidades alimentares. Os produtos disponíveis podem fazer parte do dia a dia de quem busca praticidade na alimentação, sempre conforme as indicações do rótulo e, quando necessário, com orientação de um profissional de saúde. O cupom CECI foi criado para quem acompanha o Em Casa com Cecília e quer economizar na loja oficial, com exceção de Alfamino e Alfaré. A loja também vende fórmulas infantis NAN para bebês de 0 a 12 meses; nesses produtos o cupom não deve ser usado, porque o art. 5º do Decreto 9.579/2018 proíbe cupons e descontos promocionais em fórmulas para lactentes, inclusive na internet. Como em toda parceria comercial, a recomendação é conferir o desconto aplicado no checkout antes de finalizar a compra.',
     faqs: [
       {
         question: 'O cupom CECI vale para todos os produtos Nestlé Nutre?',
         answer:
-          'O cupom vale para produtos Nestlé Nutre, com exceção de Alfamino e Alfaré. Confirme se o desconto aparece no checkout antes de finalizar.',
+          'Não para todos. O cupom vale para produtos Nestlé Nutre, com exceção de Alfamino, Alfaré e das fórmulas infantis para bebês de 0 a 12 meses, como NAN. Confirme se o desconto aparece no checkout antes de finalizar.',
+      },
+      {
+        question: 'O cupom CECI vale para fórmulas infantis NAN?',
+        answer:
+          'Não use o CECI em fórmulas infantis para bebês de 0 a 12 meses, como NAN. O art. 5º do Decreto 9.579/2018 proíbe a promoção comercial dessas fórmulas, incluindo cupons e descontos de preço, também na internet. O cupom é indicado para os demais produtos elegíveis da loja.',
       },
       {
         question: 'O cupom CECI funciona nos produtos Nestlé Nutre?',
         answer:
-          'Sim, o cupom foi cadastrado para produtos Nestlé Nutre, exceto Alfamino e Alfaré. Valide no carrinho antes de concluir a compra.',
+          'Sim, o cupom foi cadastrado para produtos Nestlé Nutre, exceto Alfamino e Alfaré, e não deve ser usado em fórmulas infantis de 0 a 12 meses. Valide no carrinho antes de concluir a compra.',
       },
       {
         question: 'Posso usar o cupom CECI mais de uma vez?',
@@ -478,14 +484,14 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O que fazer se o cupom CECI não funcionar?',
         answer:
-          'Verifique se o produto não é Alfamino ou Alfaré, se o código foi digitado corretamente e se a campanha ainda está ativa. Se ainda assim não funcionar, avise pelo contato do site para que a informação seja revisada.',
+          'Verifique se o produto não é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses, se o código foi digitado corretamente e se a campanha ainda está ativa. Se ainda assim não funcionar, avise pelo contato do site para que a informação seja revisada.',
       },
     ],
     status: 'ativo',
     featured: true,
     relatedContent: [
       {
-        title: 'Cupom Nestlé Nutre CECI: como usar o desconto de 5%',
+        title: 'Cupom Nestlé Nutre CECI: como usar o desconto de 10%',
         url: '/reviews/cupom-ceci-nestle-nutre-como-usar',
         type: 'review',
         publishedAt: '2026-07-10',
@@ -493,7 +499,7 @@ export const COUPONS: Coupon[] = [
     ],
     monthlyHighlight: {
       scope: 'em produtos Nestlé Nutre, exceto Alfamino e Alfaré',
-      note: 'Válido para a loja Nestlé Nutre, com exceção de Alfamino e Alfaré',
+      note: 'Atenção: não use o CECI em fórmulas infantis para bebês de 0 a 12 meses, como NAN. O art. 5º do Decreto 9.579/2018 proíbe cupons e descontos promocionais nesses produtos, inclusive na internet',
     },
   },
   {

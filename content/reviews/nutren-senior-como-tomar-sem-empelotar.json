@@ -27,7 +27,7 @@
     "O método da pasta é o mesmo que a Nestlé indica: pouco líquido primeiro e o restante depois",
     "Números oficiais por porção: cerca de 130 kcal e 11 g de proteína nos sabores; 113 kcal e 10 g no Sem Sabor Zero Lactose",
     "O Sem Sabor entra em receitas doces e salgadas, segundo a marca, sempre adicionado no final do preparo",
-    "Cupom CECI de 5% OFF em produtos Nestlé Nutre, exceto Alfamino e Alfaré"
+    "Cupom CECI de 10% OFF em produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis"
   ],
   "cons": [
     "Não pode ferver e deve ser consumido logo após o preparo; a marca não informa uma temperatura máxima",
@@ -240,12 +240,12 @@
       "heading": "Onde comprar e usar o cupom CECI",
       "paragraphs": [
         "O Nutren Senior é vendido na loja oficial Nestlé Nutre (nestlenutre.com.br). Em 30/09/2026, a página inicial da loja informava frete grátis para todo o Brasil acima de R$ 400; já na assinatura, a página do produto indicava frete grátis acima de R$ 200, 10% OFF na primeira compra e 15% OFF a partir da terceira recorrência. As condições podem mudar, então confira no carrinho.",
-        "O código CECI dá 5% OFF em produtos Nestlé Nutre, exceto Alfamino e Alfaré, sobre o valor dos produtos (o frete não entra na conta). As regras podem variar por campanha, inclusive a soma com outras promoções, então confira o valor final no carrinho antes de pagar."
+        "O código CECI dá 10% OFF em produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses, sobre o valor dos produtos (o frete não entra na conta). As regras podem variar por campanha, inclusive a soma com outras promoções, então confira o valor final no carrinho antes de pagar."
       ],
       "bullets": [],
       "links": [
         {
-          "label": "Guia do cupom Nestlé Nutre CECI e regras de 5% OFF",
+          "label": "Guia do cupom Nestlé Nutre CECI e regras de 10% OFF",
           "href": "/reviews/cupom-ceci-nestle-nutre-como-usar"
         },
         {
@@ -280,7 +280,7 @@
     }
   ],
   "cta": {
-    "text": "Veja o Nutren Senior na loja oficial Nestlé Nutre e use o cupom CECI (5% OFF)",
+    "text": "Veja o Nutren Senior na loja oficial Nestlé Nutre e use o cupom CECI (10% OFF)",
     "label": "Ver Nutren Senior na Nestlé Nutre",
     "url": "https://www.nestlenutre.com.br/nutren-senior",
     "sponsored": true
@@ -299,7 +299,7 @@
     },
     {
       "slug": "cupom-ceci-nestle-nutre-como-usar",
-      "title": "Cupom Nestlé Nutre CECI: Como Usar o Desconto de 5%"
+      "title": "Cupom Nestlé Nutre CECI: Como Usar o Desconto de 10%"
     }
   ]
 }
