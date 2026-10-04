@@ -180,7 +180,7 @@ export function parseMinutesFromText(timeText: string): number | null {
  * Extrai apenas o texto de uma seção de review para TTS ou medição.
  */
 export function contentSectionsToPlainText(
-  sections: { heading?: string; paragraphs?: string[]; bullets?: string[]; emphasis?: string }[]
+  sections: { heading?: string; paragraphs?: string[]; bullets?: string[]; emphasis?: string; notice?: string }[]
 ): string {
   return sections
     .flatMap((section) => [
@@ -188,6 +188,7 @@ export function contentSectionsToPlainText(
       ...(section.paragraphs || []),
       ...(section.bullets || []),
       section.emphasis,
+      section.notice,
     ])
     .filter(Boolean)
     .join(' ');
