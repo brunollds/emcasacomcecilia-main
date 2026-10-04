@@ -264,6 +264,8 @@ export interface ContentSection {
     rows: string[][];
   };
   links?: ContentSectionLink[];
+  /** Advertência legal obrigatória (ex.: NBCAL), exibida em moldura, caixa alta e negrito. */
+  notice?: string;
   couponTiers?: { code: string; discount: string; minPurchase: string }[];
   widget?: string;
   accordionBlock?: {

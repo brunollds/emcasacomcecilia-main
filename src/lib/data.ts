@@ -269,6 +269,7 @@ export interface Review {
       rows: string[][];
     };
     links?: ContentSectionLink[];
+    notice?: string;
     widget?: string;
     postParagraphs?: string[];
     accordionBlock?: {

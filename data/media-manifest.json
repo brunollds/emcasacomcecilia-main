@@ -53793,6 +53793,282 @@
       "verified_at": "2026-10-02T15:56:29.100Z",
       "verification_etag_or_digest": "fbb683b4745b0df61e3229dcb607bfd878774c77aa842452eed1b152f3d5938f",
       "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/mucilon-mucininho-oficial.webp",
+      "local_url": "/images/reviews/nutren/mucilon-mucininho-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 88548,
+      "sha256": "62508be6bb093a996f9df102f88dedabcdaae108ec5a41b4155871e77c0670a9",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mucilon-mucininho-oficial.webp",
+      "storage_filename": "mucilon-mucininho-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo.json",
+          "line": 93,
+          "column": 17,
+          "literal": "/images/reviews/nutren/mucilon-mucininho-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 50456,
+          "column": 19,
+          "literal": "/images/reviews/nutren/mucilon-mucininho-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/62508be6bb093a996f9df102f88dedabcdaae108ec5a41b4155871e77c0670a9/mucilon-mucininho-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/62508be6bb093a996f9df102f88dedabcdaae108ec5a41b4155871e77c0670a9/mucilon-mucininho-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-04T03:48:21.473Z",
+      "verification_etag_or_digest": "62508be6bb093a996f9df102f88dedabcdaae108ec5a41b4155871e77c0670a9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/ninho-bolo-receitas-nestle-oficial.webp",
+      "local_url": "/images/reviews/nutren/ninho-bolo-receitas-nestle-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 82094,
+      "sha256": "57e3f6edd4903d6164896a075d4e9e39c7aa65b61044437b4f9d1465b6fc5194",
+      "width": 479,
+      "height": 479,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "ninho-bolo-receitas-nestle-oficial.webp",
+      "storage_filename": "ninho-bolo-receitas-nestle-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo.json",
+          "line": 106,
+          "column": 17,
+          "literal": "/images/reviews/nutren/ninho-bolo-receitas-nestle-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 50469,
+          "column": 19,
+          "literal": "/images/reviews/nutren/ninho-bolo-receitas-nestle-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/57e3f6edd4903d6164896a075d4e9e39c7aa65b61044437b4f9d1465b6fc5194/ninho-bolo-receitas-nestle-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/57e3f6edd4903d6164896a075d4e9e39c7aa65b61044437b4f9d1465b6fc5194/ninho-bolo-receitas-nestle-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-04T03:48:21.474Z",
+      "verification_etag_or_digest": "57e3f6edd4903d6164896a075d4e9e39c7aa65b61044437b4f9d1465b6fc5194",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/ninho-fases-1-e-3-oficial.webp",
+      "local_url": "/images/reviews/nutren/ninho-fases-1-e-3-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 82794,
+      "sha256": "2bfeff563aa4acd38d792b34c8224c0a70b7f0a49cabec9d7bc0b659f1a8282e",
+      "width": 1200,
+      "height": 600,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "ninho-fases-1-e-3-oficial.webp",
+      "storage_filename": "ninho-fases-1-e-3-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo.json",
+          "line": 68,
+          "column": 17,
+          "literal": "/images/reviews/nutren/ninho-fases-1-e-3-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 50431,
+          "column": 19,
+          "literal": "/images/reviews/nutren/ninho-fases-1-e-3-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2bfeff563aa4acd38d792b34c8224c0a70b7f0a49cabec9d7bc0b659f1a8282e/ninho-fases-1-e-3-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2bfeff563aa4acd38d792b34c8224c0a70b7f0a49cabec9d7bc0b659f1a8282e/ninho-fases-1-e-3-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-04T03:48:21.474Z",
+      "verification_etag_or_digest": "2bfeff563aa4acd38d792b34c8224c0a70b7f0a49cabec9d7bc0b659f1a8282e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/ninho-forti-fibras-oficial.webp",
+      "local_url": "/images/reviews/nutren/ninho-forti-fibras-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 69256,
+      "sha256": "457fb63e8d23f3189da3eebda5c00a7cc54a5db735b698caf544796cf2c47b68",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "ninho-forti-fibras-oficial.webp",
+      "storage_filename": "ninho-forti-fibras-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo.json",
+          "line": 82,
+          "column": 17,
+          "literal": "/images/reviews/nutren/ninho-forti-fibras-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 50445,
+          "column": 19,
+          "literal": "/images/reviews/nutren/ninho-forti-fibras-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/457fb63e8d23f3189da3eebda5c00a7cc54a5db735b698caf544796cf2c47b68/ninho-forti-fibras-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/457fb63e8d23f3189da3eebda5c00a7cc54a5db735b698caf544796cf2c47b68/ninho-forti-fibras-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-04T03:48:21.474Z",
+      "verification_etag_or_digest": "457fb63e8d23f3189da3eebda5c00a7cc54a5db735b698caf544796cf2c47b68",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/ninho-integral-instantaneo-oficial.webp",
+      "local_url": "/images/reviews/nutren/ninho-integral-instantaneo-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 72708,
+      "sha256": "709c3534c3d0cb008d38f394c80b546422dc6e87e7ebcee6bbc25a0ee1de69f6",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "ninho-integral-instantaneo-oficial.webp",
+      "storage_filename": "ninho-integral-instantaneo-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo.json",
+          "line": 56,
+          "column": 17,
+          "literal": "/images/reviews/nutren/ninho-integral-instantaneo-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 50419,
+          "column": 19,
+          "literal": "/images/reviews/nutren/ninho-integral-instantaneo-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/709c3534c3d0cb008d38f394c80b546422dc6e87e7ebcee6bbc25a0ee1de69f6/ninho-integral-instantaneo-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/709c3534c3d0cb008d38f394c80b546422dc6e87e7ebcee6bbc25a0ee1de69f6/ninho-integral-instantaneo-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-04T03:48:21.474Z",
+      "verification_etag_or_digest": "709c3534c3d0cb008d38f394c80b546422dc6e87e7ebcee6bbc25a0ee1de69f6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/ninho-linha-oficial-hero.webp",
+      "local_url": "/images/reviews/nutren/ninho-linha-oficial-hero.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 120340,
+      "sha256": "25b7e094fb37d5026422924d85202ac8d9575969519d98ba6426bdcb44913308",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "ninho-linha-oficial-hero.webp",
+      "storage_filename": "ninho-linha-oficial-hero.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/ninho-linha-oficial-hero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 50385,
+          "column": 15,
+          "literal": "/images/reviews/nutren/ninho-linha-oficial-hero.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/25b7e094fb37d5026422924d85202ac8d9575969519d98ba6426bdcb44913308/ninho-linha-oficial-hero.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/25b7e094fb37d5026422924d85202ac8d9575969519d98ba6426bdcb44913308/ninho-linha-oficial-hero.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-04T03:48:21.474Z",
+      "verification_etag_or_digest": "25b7e094fb37d5026422924d85202ac8d9575969519d98ba6426bdcb44913308",
+      "verification_status": "verified"
     }
   ]
 }

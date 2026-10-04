@@ -102,6 +102,25 @@ Uma seção cujos bullets seguem `Pergunta? Resposta` é renderizada como FAQ pe
 Produto recebido em parceria e link comissionado são obrigações distintas. Declarar as duas
 quando as duas existirem. `editorialNote` é o campo.
 
+### Advertência legal de nutrição infantil (`notice`)
+
+Leite, composto lácteo, fórmula de primeira infância e cereal infantil estão sob a NBCAL
+(Lei 11.265/2006, regulamentada pelo Decreto 9.579/2018, arts. 3º a 6º). Divulgar esses
+produtos com preço, link ou cupom é promoção comercial e exige o destaque do Ministério da
+Saúde **em moldura, em caixa alta e negrito, perto dos produtos**. O campo da seção é
+`notice`: o template o renderiza logo depois de imagem e tabela, sem animação, com borda.
+
+| Produto | Texto do `notice` |
+|---|---|
+| fórmula de seguimento para crianças de 1 a 3 anos; leite em pó, fluido ou modificado | O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais. |
+| alimento de transição ou à base de cereais (ex.: Mucilon) | O Ministério da Saúde informa: após os 6 (seis) meses de idade, continue amamentando seu filho e ofereça novos alimentos. |
+
+Colocar o `notice` na seção que apresenta o produto e na seção da tabela de preços. Fórmula
+para menores de 1 ano (linha NAN de 0 a 12 meses), fórmula para recém-nascido de alto risco,
+mamadeira, bico e chupeta **não podem ter promoção comercial nenhuma** — nada de preço, cupom
+ou link de afiliado para eles (Decreto 9.579/2018, art. 5º). Exemplo em uso:
+`content/reviews/guia-linha-ninho-nestle-leite-vs-composto-lacteo.json`.
+
 ## 6. O que nunca fazer
 
 - esconder o código atrás de "revelar cupom" — piora a experiência para inflar cópia, que
