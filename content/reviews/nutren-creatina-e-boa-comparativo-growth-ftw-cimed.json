@@ -123,14 +123,14 @@
           ],
           [
             "Preço oficial consultado",
-            "R$ 56,91 com o cupom CECI aplicado sobre R$ 59,90",
+            "R$ 56,91 com o CECI de 5% vigente em 27/08/2026, sobre R$ 59,90",
             "R$ 49,90 no Pix ou boleto; R$ 55,44 no cartão",
             "R$ 59,90; R$ 56,91 à vista",
             "Sem preço; produto esgotado"
           ],
           [
             "Custo por 100 g",
-            "R$ 18,97 com o cupom CECI",
+            "R$ 18,97 com o CECI de 5% vigente em 27/08/2026",
             "R$ 19,96 no Pix/boleto; R$ 22,18 no cartão",
             "R$ 19,97 no preço cheio; R$ 18,97 à vista",
             "Não calculado"
@@ -159,7 +159,7 @@
     {
       "heading": "Qual delas faz mais sentido para você?",
       "paragraphs": [
-        "Com os dados que conseguimos confirmar, não existe uma campeã universal. Com o cupom CECI aplicado, Nutren e FTW empatam em R$ 18,97 por 100 g nas condições à vista observadas; frete, disponibilidade e aceitação do desconto no checkout podem mudar o total pago.",
+        "Com os dados que conseguimos confirmar, não existe uma campeã universal. Com o cupom CECI de 5% vigente em 27/08/2026, Nutren e FTW empatavam em R$ 18,97 por 100 g nas condições à vista observadas; com o CECI atual de 10%, a Nutren ficaria em R$ 17,97 se o preço de R$ 59,90 se mantiver; frete, disponibilidade e aceitação do desconto no checkout podem mudar o total pago.",
         "A Nutren faz sentido para quem quer o sachê de 300 g e já compra na loja Nestlé Nutre. A Growth fica em R$ 19,96 por 100 g no Pix, mas usa porção declarada de 5 g e embalagem de 250 g. A FTW oferece pote de 300 g e chega ao mesmo custo por 100 g da Nutren com CECI. A Lavitan pode ser conveniente para quem a encontra em farmácias, mas estava esgotada e sem preço oficial na consulta.",
         "Em qualquer marca, confirme no rótulo o ingrediente, a porção, o lacre, o lote, a validade e as advertências. Compare o preço final depois de frete e desconto, não apenas o número em destaque na vitrine."
       ],
@@ -187,7 +187,7 @@
       "heading": "Preço oficial e cupom CECI",
       "paragraphs": [
         "Na consulta de 27 de agosto de 2026, o catálogo oficial Nestlé Nutre mostrava a embalagem de 300 g por R$ 59,90. A imagem abaixo registra esse momento; preço, estoque e condições podem mudar.",
-        "Aplicando 5% sobre R$ 59,90, o valor fica em R$ 56,91, equivalente a R$ 18,97 por 100 g. Como a elegibilidade é confirmada no checkout, verifique se o código CECI foi aceito e compare o total com frete antes de pagar."
+        "Na data da consulta, o CECI dava 5%: sobre R$ 59,90, o valor ficava em R$ 56,91, equivalente a R$ 18,97 por 100 g. Com o desconto atual de 10%, o mesmo preço cai para R$ 53,91, ou R$ 17,97 por 100 g. Como a elegibilidade é confirmada no checkout, verifique se o código CECI foi aceito e compare o total com frete antes de pagar."
       ],
       "bullets": [],
       "links": [
@@ -215,7 +215,7 @@
       "bullets": [
         "A Nutren Creatina é 100% creatina monohidratada? A frente usa a expressão “100% monohidratada” e a lista de ingredientes declara somente creatina monohidratada. Isso descreve o rótulo; não fizemos teste laboratorial independente do lote.",
         "Quantas porções vêm na embalagem? O sachê de 300 g declara 100 porções de 3 g.",
-        "Qual foi a mais barata no comparativo? Nas condições observadas em 27/08/2026, Nutren com CECI e FTW à vista empataram em R$ 18,97 por 100 g. Growth ficou em R$ 19,96 no Pix ou boleto. Frete, estoque e aceitação do desconto no checkout podem mudar o resultado.",
+        "Qual foi a mais barata no comparativo? Nas condições observadas em 27/08/2026, Nutren com o CECI de 5% da época e FTW à vista empataram em R$ 18,97 por 100 g. Com o CECI atual de 10% sobre o mesmo preço, a Nutren ficaria em R$ 17,97 por 100 g. Growth ficou em R$ 19,96 no Pix ou boleto. Frete, estoque e aceitação do desconto no checkout podem mudar o resultado.",
         "Qual é o melhor horário para tomar creatina? Os rótulos consultados orientam uma porção diária, mas não condicionam o uso a pré ou pós-treino. Escolha um horário que ajude a seguir a recomendação do seu produto e peça orientação individual se necessário.",
         "Idosos podem usar? O produto é destinado a adultos, mas a decisão para uma pessoa idosa deve considerar saúde, alimentação e medicamentos com orientação profissional.",
         "É preciso fazer fase de saturação? O rótulo da Nutren orienta uma porção de 3 g ao dia e não pede fase de saturação. Não exceda a recomendação da embalagem sem orientação profissional.",
@@ -243,7 +243,7 @@
     },
     {
       "slug": "cupom-ceci-nestle-nutre-como-usar",
-      "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 5%"
+      "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
     }
   ],
   "gallery": [

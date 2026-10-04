@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Como incluir FiberMais Sem Sabor no café, em bebidas frias e nas refeições: cuidados com o calor, diferenças entre lata e sachês, informações do rótulo e cupom CECI de 5% na Nestlé Nutre.",
-  "metaDescription": "Veja como usar FiberMais Sem Sabor em café, sucos e refeições, com cuidados de preparo, medidas da lata e dos sachês e cupom CECI de 5% na Nestlé Nutre.",
+  "description": "Como incluir FiberMais Sem Sabor no café, em bebidas frias e nas refeições: cuidados com o calor, diferenças entre lata e sachês, informações do rótulo e cupom CECI de 10% na Nestlé Nutre.",
+  "metaDescription": "Veja como usar FiberMais Sem Sabor em café, sucos e refeições, com cuidados de preparo, medidas da lata e dos sachês e cupom CECI de 10% na Nestlé Nutre.",
   "publishedAt": "2 de outubro de 2026",
   "publishedAtISO": "2026-10-02",
   "draft": false,
@@ -28,7 +28,7 @@
     "A fabricante apresenta a versão Sem Sabor como uma opção que não altera sabor, cheiro ou textura dos alimentos",
     "Pode ser incluído em bebidas quentes ou frias e em alimentos, respeitando as instruções de preparo",
     "Lata e sachês permitem escolher a apresentação mais conveniente para a rotina",
-    "Cupom CECI de 5% na Nestlé Nutre para produtos elegíveis, conforme as condições da loja"
+    "Cupom CECI de 10% na Nestlé Nutre para produtos elegíveis, conforme as condições da loja"
   ],
   "cons": [
     "A recomendação de uso da lata não é igual à dos sachês; confira a apresentação e o rótulo",
@@ -161,7 +161,7 @@
         "A ingestão de líquidos também precisa ser adequada à sua situação. Idade, condições de saúde, atividade e eventuais restrições de líquidos devem ser consideradas na orientação individual; um mesmo volume não serve como regra obrigatória para todas as pessoas. Manter a hidratação faz parte dos cuidados de uso, sem substituir a avaliação de sintomas persistentes.",
         "A tabela abaixo reproduz os valores informados nas páginas oficiais em 2 de outubro de 2026, usando a porção declarada de cada apresentação. Não são valores da receita pronta: leite, café adoçado, suco, iogurte e outros ingredientes acrescentam suas próprias informações nutricionais.",
         "Para comparar embalagens, olhe a quantidade total, o preço por grama e quanto será utilizado antes do prazo indicado após a abertura. Preços e promoções podem mudar qual apresentação é mais econômica; a presença de uma colher dosadora deve ser conferida na embalagem. Na lata consultada, a fabricante orienta manter bem fechada em local fresco, seco e sem odores, consumir em até 60 dias após iniciar o uso e consumir o preparo imediatamente.",
-        "Na compra pela Nestlé Nutre, o código CECI oferece 5% de desconto em produtos elegíveis, com exceção de Alfamino e Alfaré. A acumulação depende da campanha vigente. Para FiberMais, confira o desconto no carrinho e não confunda a compra no canal oficial com uma promessa de lote recém-fabricado ou validade específica."
+        "Na compra pela Nestlé Nutre, o código CECI oferece 10% de desconto em produtos elegíveis, com exceção de Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses. A acumulação depende da campanha vigente. Para FiberMais, confira o desconto no carrinho e não confunda a compra no canal oficial com uma promessa de lote recém-fabricado ou validade específica."
       ],
       "bullets": [],
       "comparisonTable": {
@@ -221,11 +221,11 @@
       },
       "links": [
         {
-          "label": "Guia do cupom Nestlé Nutre CECI e regras de 5% OFF",
+          "label": "Guia do cupom Nestlé Nutre CECI e regras de 10% OFF",
           "href": "/reviews/cupom-ceci-nestle-nutre-como-usar"
         },
         {
-          "label": "Conferir produtos elegíveis e condições do cupom CECI de 5%",
+          "label": "Conferir produtos elegíveis e condições do cupom CECI de 10%",
           "href": "/cupons/nutren"
         },
         {
@@ -256,7 +256,7 @@
         "Gestantes podem usar FiberMais? A gestação exige avaliação individual. Converse com o obstetra ou nutricionista antes de iniciar a suplementação. A natureza das fibras não é, por si só, uma garantia de segurança para todas as gestantes.",
         "FiberMais engorda? O efeito de uma alimentação sobre o peso não pode ser atribuído de forma absoluta a um ingrediente. A tabela da lata Sem Sabor informa 16 kcal por 7,6 g, e a dos sachês informa 21 kcal por 10 g. Considere também os demais ingredientes da bebida ou refeição.",
         "FiberMais substitui laxantes ou causa dependência? É um suplemento de fibras, não um substituto automático de um laxante prescrito. Os objetivos e cuidados de uso são diferentes, e a escolha depende da causa dos sintomas. Se a constipação persiste, exige uso recorrente de medicamentos ou há desconforto com o suplemento, procure avaliação profissional antes de alterar o tratamento.",
-        "Qual é o cupom da Nestlé Nutre? O código é CECI, com 5% de desconto em produtos elegíveis, exceto Alfamino e Alfaré; confira as condições vigentes e o desconto aplicado no checkout."
+        "Qual é o cupom da Nestlé Nutre? O código é CECI, com 10% de desconto em produtos elegíveis, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses; confira as condições vigentes e o desconto aplicado no checkout."
       ]
     },
     {
@@ -269,7 +269,7 @@
     }
   ],
   "cta": {
-    "text": "Confira FiberMais na Nestlé Nutre e use CECI para 5% de desconto em produtos elegíveis, conforme as condições vigentes no checkout.",
+    "text": "Confira FiberMais na Nestlé Nutre e use CECI para 10% de desconto em produtos elegíveis, conforme as condições vigentes no checkout.",
     "label": "Conferir FiberMais na loja oficial Nestlé Nutre",
     "url": "https://www.nestlenutre.com.br/fibermais",
     "sponsored": true
@@ -288,7 +288,7 @@
     },
     {
       "slug": "cupom-ceci-nestle-nutre-como-usar",
-      "title": "Cupom Nestlé Nutre CECI: Como Usar o Desconto de 5%"
+      "title": "Cupom Nestlé Nutre CECI: Como Usar o Desconto de 10%"
     }
   ],
   "gallery": [

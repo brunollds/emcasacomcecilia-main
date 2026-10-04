@@ -44,6 +44,10 @@ depende do tipo:
   regra padrão vale sem atalho: só publicar a condição do próximo ciclo quando a marca ou a
   responsável pela parceria confirmar. Sem confirmação, manter a última data verdadeira e
   reduzir a promessa (ver seção 12).
+  O mesmo código `CECI` tem percentuais diferentes por loja: desde 04/10/2026, 10% na Nestlé
+  Nutre e 5% na Dolce Gusto. Nunca trocar o percentual de uma loja pela busca de "CECI" sem
+  separar as duas. Os 10% da Nestlé Nutre ainda não foram confirmados como fixos; o mapa para
+  voltar a 5% está em `docs/plans/2026-10-04-cupom-nutre-ceci-10.md`.
 
 ### No último dia útil ou no dia 1
 
@@ -86,7 +90,7 @@ Para cada oferta ativa, reconferir:
 | `damie` | DAMIE | `CECILIA12` | subdomínio Damie | Verificar a oferta, mas não criar campanha de linkagem: o subdomínio é dono da intenção comercial. |
 | `dolce-gusto` | Nescafé Dolce Gusto | `CECI` | artigos do cluster | Testar percentual, mínimo, limite por CPF e acúmulo. |
 | `yesstyle` | YesStyle | `CECILIA010` | `data/coupons/yesstyle.json` | A fonte factual é separada; `src/lib/yesstyleCoupons.ts` faz a leitura tipada e alimenta os getters em `couponsData.ts`. |
-| `nutren` | Nestlé Nutre | `CECI` | artigos do cluster | Confirmar exceções de produtos e valor do desconto. |
+| `nutren` | Nestlé Nutre | `CECI` | artigos do cluster | Confirmar exceções de produtos e valor do desconto (10% desde 04/10/2026). Fórmulas infantis de 0 a 12 meses, como NAN, ficam fora por lei (Decreto 9.579/2018, art. 5º): nenhum texto pode sugerir o CECI nelas. |
 | `i-wanna-sleep` | I Wanna Sleep | `CECIEMCASA` | artigos do cluster | Confirmar percentual, abrangência e acúmulo. |
 | `magalu` | Magazine Você | 10 faixas | `tiers` no próprio cupom | Testar as dez faixas, mínimos, navegador e elegibilidade “vendido e entregue pelo Magalu”. |
 | `letseatit` | Let's Eat It | `MAUAD` | UTMs da Inbazz em `offerUrl` | Testar os 5% no checkout. A comissão é atribuída pelos quatro UTMs do link; `test:coupon-offer-modes` falha se algum sumir. |
