@@ -50558,7 +50558,7 @@ export const reviewsData: unknown[] = [
         "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais.",
         "postParagraphs": [
           "Estavam sem estoque no mesmo dia: Ninho Integral lata 380 g, os sachês de 975 g do Integral e do Integral Instantâneo, Zero Lactose (380 g e 700 g), Fases 3+ 400 g, Ninho Adulto, NutriAdvance e a Fórmula Infantil de Primeira Infância 400 g. Na página de cada um, o botão \"Avise-me\" manda um alerta quando o produto volta.",
-          "O CECI não vale para Alfamino e Alfaré, e o percentual pode mudar durante a campanha. Se ele não somar com uma promoção ou com a assinatura, o checkout mostra: confira o valor final antes de pagar."
+          "O CECI não vale para Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses, como NAN, e o percentual pode mudar durante a campanha. Se ele não somar com uma promoção ou com a assinatura, o checkout mostra: confira o valor final antes de pagar."
         ],
         "links": [
           {

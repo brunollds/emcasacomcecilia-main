@@ -32,7 +32,11 @@ Depois de reverter:
 - o passo 4 do artigo volta para o print de 5% (`passo-4-cupom-aplicado.webp`, `imageFit`
   `contain`) com o `imageAlt` e a legenda originais; a troca já está na tabela;
 - atualizar o dossiê da Nestlé Nutre, a linha `nutren` em `docs/MANUTENCAO-MENSAL.md` e em
-  `docs/CUPONS-DATAS-RASTREAMENTO.md`.
+  `docs/CUPONS-DATAS-RASTREAMENTO.md`;
+- revisar à mão o guia `guia-linha-ninho-nestle-leite-vs-composto-lacteo`, publicado depois deste
+  mapa já com 10%: além das menções ao percentual, a tabela de preços tem a coluna "Com CECI (10%)"
+  calculada sobre os preços de 04/10/2026, que precisa ser refeita (ou trocada por nova consulta).
+  Ele não está na tabela abaixo.
 
 ## Prints do checkout (passo 4 do artigo)
 
