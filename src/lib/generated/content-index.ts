@@ -33817,7 +33817,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 223,
     "slug": "cupom-ceci-nestle-nutre-como-usar",
-    "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 5%",
+    "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%",
     "seoTitle": "Como usar o código CECI na Nestlé Nutre: passo a passo",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
@@ -33829,23 +33829,23 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Aprenda a usar o cupom CECI no site oficial da Nestlé Nutre. Passo a passo para aplicar o código, conferir os 5% de desconto no carrinho e saber a exceção: produtos Alfamino e Alfaré.",
-    "metaDescription": "Use o cupom CECI na Nestlé Nutre e confira 5% OFF no checkout da loja oficial. Veja o passo a passo, a exceção de Alfamino e Alfaré e como validar o desconto antes de pagar.",
+    "description": "Aprenda a usar o cupom CECI no site oficial da Nestlé Nutre. Passo a passo para aplicar o código, conferir os 10% de desconto no carrinho e saber as exceções: Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses, como NAN.",
+    "metaDescription": "Use o cupom CECI na Nestlé Nutre e confira 10% OFF no checkout da loja oficial. Veja o passo a passo, as exceções (Alfamino, Alfaré e fórmulas infantis NAN de 0 a 12 meses) e como validar o desconto antes de pagar.",
     "publishedAt": "10 Jul 2026",
     "publishedAtISO": "2026-07-10",
-    "updatedAt": "2026-09-30",
+    "updatedAt": "2026-10-04",
     "draft": false,
     "image": "/images/reviews/nutren/nutren-senior-linha-hero.webp",
     "imageAlt": "Linha Nutren Senior: cápsulas A-Z, lata 740g, lata 370g Premium 6.1 e versão pronta para beber, produtos oficiais da Nestlé Nutre",
     "imageFit": "cover",
     "pros": [
-      "5% de desconto sobre o valor dos produtos no site oficial da Nestlé Nutre",
-      "Vale para os produtos da loja, exceto Alfamino e Alfaré",
+      "10% de desconto sobre o valor dos produtos no site oficial da Nestlé Nutre",
+      "Vale para os produtos da loja, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses",
       "Código de parceria do blog com a Nestlé Nutre, aplicado direto no checkout",
       "Basta digitar CECI no campo de cupom do checkout"
     ],
     "cons": [
-      "Não vale para Alfamino e Alfaré",
+      "Não vale para Alfamino, Alfaré nem fórmulas infantis para bebês de 0 a 12 meses, como NAN",
       "O desconto não incide sobre o valor do frete",
       "A soma com outras campanhas da loja pode variar; vale o valor final do carrinho"
     ],
@@ -33854,7 +33854,7 @@ export const reviewsData: unknown[] = [
         "heading": "Introdução",
         "paragraphs": [
           "Muita gente que acompanha as receitas aqui em casa também me pergunta sobre suplementação alimentar — principalmente pensando nos pais ou nos avós, naquela fase em que só a comida do dia a dia não cobre tudo que o corpo precisa. Foi conversando sobre isso que a parceria com a Nestlé Nutre apareceu: uma marca que muita família já usa no dia a dia, com produtos fáceis de achar em mercado e farmácia.",
-          "Ainda não testei os produtos da linha pessoalmente, então este guia é só sobre o cupom: onde aplicar o código CECI, quais produtos entram na promoção e a única exceção que você precisa saber antes de fechar a compra. Se você procura a ficha atualizada do cupom CECI, com regras e validade, confira nossa página de cupons da Nestlé Nutre."
+          "Ainda não testei os produtos da linha pessoalmente, então este guia é só sobre o cupom: onde aplicar o código CECI, quais produtos entram na promoção e as exceções que você precisa saber antes de fechar a compra. Se você procura a ficha atualizada do cupom CECI, com regras e validade, confira nossa página de cupons da Nestlé Nutre."
         ],
         "links": [
           {
@@ -33869,22 +33869,22 @@ export const reviewsData: unknown[] = [
           "Acesse o site oficial da Nestlé Nutre e escolha o produto desejado.",
           "Adicione ao carrinho e vá para o checkout.",
           "No campo de cupom ou código promocional, digite CECI exatamente como está escrito.",
-          "Clique em aplicar e confirme se o desconto de 5% apareceu no valor total antes de pagar.",
-          "O cupom não vale para Alfamino e Alfaré — confira se algum desses itens está no carrinho."
+          "Clique em aplicar e confirme se o desconto de 10% apareceu no valor total antes de pagar.",
+          "O cupom não vale para Alfamino, Alfaré nem fórmulas infantis para bebês de 0 a 12 meses, como NAN — confira se algum desses itens está no carrinho."
         ]
       },
       {
         "heading": "Cupom Nestlé Nutre CECI: o que você precisa saber",
         "paragraphs": [
-          "O cupom Nestlé Nutre CECI oferece 5% de desconto sobre o valor dos produtos na loja oficial. Ele foi cadastrado para produtos Nestlé Nutre, com uma exceção: Alfamino e Alfaré ficam de fora.",
+          "O cupom Nestlé Nutre CECI oferece 10% de desconto sobre o valor dos produtos na loja oficial. Ele foi cadastrado para produtos Nestlé Nutre, com exceções: Alfamino e Alfaré ficam de fora, e o código não deve ser usado em fórmulas infantis para bebês de 0 a 12 meses, como NAN.",
           "Diferente de cupons que mudam todo mês, o CECI segue ativo enquanto a parceria entre o blog e a Nestlé Nutre estiver vigente. As regras da loja e das campanhas podem mudar, então o valor mostrado no carrinho é sempre a referência.",
-          "A regra mais importante: o cupom funciona sobre o valor dos produtos, não sobre o frete. Se a compra for de R$ 100 em produtos, o desconto é de R$ 5; o frete é calculado à parte, conforme a política da loja."
+          "A regra mais importante: o cupom funciona sobre o valor dos produtos, não sobre o frete. Se a compra for de R$ 100 em produtos, o desconto é de R$ 10; o frete é calculado à parte, conforme a política da loja."
         ]
       },
       {
         "heading": "1. Escolha o produto no site oficial",
         "paragraphs": [
-          "O cupom CECI vale para compras feitas diretamente no site oficial da Nestlé Nutre ([nestlenutre.com.br](https://www.nestlenutre.com.br/)). Ele foi cadastrado para produtos Nestlé Nutre, exceto Alfamino e Alfaré; na loja há, por exemplo, as linhas Nutren Senior, Nutren Control, Nutren Protein e Nutren Fortify. Escolha o produto e a versão (sabor, tamanho da embalagem) com calma antes de ir para o carrinho."
+          "O cupom CECI vale para compras feitas diretamente no site oficial da Nestlé Nutre ([nestlenutre.com.br](https://www.nestlenutre.com.br/)). Ele foi cadastrado para produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses; na loja há, por exemplo, as linhas Nutren Senior, Nutren Control, Nutren Protein e Nutren Fortify. Escolha o produto e a versão (sabor, tamanho da embalagem) com calma antes de ir para o carrinho."
         ],
         "image": "/images/reviews/nutren/passo-1-lista-produtos.webp",
         "imageAlt": "Página de produtos e promoções do site oficial da Nestlé Nutre.",
@@ -33898,7 +33898,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Confira o sabor e o tamanho da embalagem.",
-          "Se o carrinho tiver mais de um produto, verifique se nenhum deles é Alfamino ou Alfaré — esses dois não entram na promoção."
+          "Se o carrinho tiver mais de um produto, verifique se nenhum deles é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses — esses itens não entram na promoção."
         ],
         "image": "/images/reviews/nutren/passo-2-carrinho.webp",
         "imageAlt": "Carrinho de compras da Nestlé Nutre com um item adicionado antes do checkout.",
@@ -33908,7 +33908,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "3. Digite o cupom CECI no checkout",
         "paragraphs": [
-          "No momento do pagamento, procure o campo indicado como \"Cupom de desconto\", \"Código promocional\" ou similar. Digite CECI sem espaços e sem alterar as letras, e clique em aplicar. Se o código for aceito, o desconto de 5% deve aparecer automaticamente no resumo do pedido."
+          "No momento do pagamento, procure o campo indicado como \"Cupom de desconto\", \"Código promocional\" ou similar. Digite CECI sem espaços e sem alterar as letras, e clique em aplicar. Se o código for aceito, o desconto de 10% deve aparecer automaticamente no resumo do pedido."
         ],
         "image": "/images/reviews/nutren/passo-3-digite-ceci.webp",
         "imageAlt": "Campo \"Cupom de Desconto\" no checkout da Nestlé Nutre com o código CECI digitado.",
@@ -33918,17 +33918,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Confirme o desconto antes de pagar",
         "paragraphs": [
-          "Esse é o passo mais importante: confira se o desconto realmente apareceu no valor total antes de finalizar a compra. Se o cupom não funcionar, verifique se o código foi digitado corretamente, se algum item do carrinho é Alfamino ou Alfaré (que ficam de fora da promoção) e se há outra campanha ativa na loja que possa interferir no desconto. Se nada disso explicar, avise pelo contato do Em Casa com Cecília para que a informação seja revisada."
+          "Esse é o passo mais importante: confira se o desconto realmente apareceu no valor total antes de finalizar a compra. Se o cupom não funcionar, verifique se o código foi digitado corretamente, se algum item do carrinho é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses (que ficam de fora da promoção) e se há outra campanha ativa na loja que possa interferir no desconto. Se nada disso explicar, avise pelo contato do Em Casa com Cecília para que a informação seja revisada."
         ],
         "image": "/images/reviews/nutren/passo-4-cupom-aplicado.webp",
-        "imageAlt": "Carrinho da Nestlé Nutre mostrando o cupom CECI aplicado com sucesso e o desconto de 5% no resumo do pedido.",
-        "imageCaption": "O resumo do pedido mostra o desconto do cupom CECI já aplicado.",
+        "imageAlt": "Carrinho da Nestlé Nutre mostrando o cupom CECI aplicado com sucesso no resumo do pedido, em print feito quando o desconto era de 5%.",
+        "imageCaption": "O resumo do pedido mostra o desconto do cupom CECI já aplicado. O print é de quando o cupom dava 5%; hoje o desconto é de 10%.",
         "imageFit": "contain"
       },
       {
-        "heading": "Produtos excluídos: Alfamino e Alfaré",
+        "heading": "Produtos excluídos: Alfamino, Alfaré e fórmulas infantis NAN",
         "paragraphs": [
-          "Vale repetir esse ponto separadamente porque é a principal exceção do cupom CECI: Alfamino e Alfaré não fazem parte do benefício cadastrado, então não conte com os 5% de desconto nesses itens. O motivo da exclusão não é detalhado, e as regras comerciais da loja podem mudar. Antes de finalizar a compra, confira se todos os itens do carrinho são elegíveis e se o desconto aparece no resumo do pedido."
+          "Vale repetir esse ponto separadamente porque são as exceções do cupom CECI. Alfamino e Alfaré não fazem parte do benefício cadastrado, então não conte com os 10% de desconto nesses itens; o motivo dessa exclusão não é detalhado, e as regras comerciais da loja podem mudar. Já as fórmulas infantis para bebês de 0 a 12 meses, como as da linha NAN vendidas na loja, ficam de fora por lei: o art. 5º do Decreto 9.579/2018 proíbe cupons e descontos promocionais em fórmulas para lactentes, inclusive na internet. Antes de finalizar a compra, confira se todos os itens do carrinho são elegíveis e se o desconto aparece no resumo do pedido."
         ]
       },
       {
@@ -33940,20 +33940,20 @@ export const reviewsData: unknown[] = [
           "Se o produto tem indicação de uso no rótulo compatível com quem vai consumir — alguns itens da linha são voltados a necessidades nutricionais específicas.",
           "Se vale a pena consultar um profissional de saúde antes de começar, principalmente em itens de nutrição clínica ou para quem já tem alguma condição de saúde.",
           "O prazo de validade do lote na hora da compra, já que são produtos de consumo contínuo.",
-          "Se o produto do carrinho não é Alfamino nem Alfaré, para não ter surpresa na hora de aplicar o cupom."
+          "Se o produto do carrinho não é Alfamino, Alfaré nem fórmula infantil de 0 a 12 meses, para não ter surpresa na hora de aplicar o cupom."
         ]
       },
       {
         "heading": "Onde a Nestlé Nutre entra nessa história",
         "paragraphs": [
           "A parceria com a Nestlé Nutre nasceu justamente dessas conversas sobre alimentação da família toda — não só das crianças, mas dos adultos e dos mais velhos também. Ainda não testei os produtos pessoalmente, e sou transparente sobre isso: por enquanto, posso dizer que o CECI é o código da nossa parceria com a loja oficial, e que o desconto de cada compra aparece no carrinho. Assim que tiver experiência de uso para compartilhar, este espaço será atualizado.",
-          "Se você já pesquisou e sabe qual produto da linha quer comprar, o cupom ajuda a economizar 5% nessa decisão."
+          "Se você já pesquisou e sabe qual produto da linha quer comprar, o cupom ajuda a economizar 10% nessa decisão."
         ]
       },
       {
         "heading": "Veredito",
         "paragraphs": [
-          "Se você já escolheu o produto, o passo final é simples: no checkout do site da Nestlé Nutre, digite CECI, clique em aplicar e confira se o desconto de 5% apareceu no valor total antes de pagar. Só fique atento se o item não é Alfamino ou Alfaré, já que esses dois ficam de fora da promoção.",
+          "Se você já escolheu o produto, o passo final é simples: no checkout do site da Nestlé Nutre, digite CECI, clique em aplicar e confira se o desconto de 10% apareceu no valor total antes de pagar. Só confira se nenhum item é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses, já que eles ficam de fora da promoção.",
           "E se ainda está pesquisando qual produto da linha faz sentido para sua casa, não tem pressa — o cupom está ali para quando você estiver pronta para comprar."
         ],
         "links": [
@@ -33966,22 +33966,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O cupom CECI funciona para Nutren Senior? O cupom foi cadastrado para produtos Nestlé Nutre, exceto Alfamino e Alfaré, o que inclui o Nutren Senior. Confirme se o desconto de 5% aparece no resumo do carrinho antes de pagar.",
+          "O cupom CECI funciona para Nutren Senior? O cupom foi cadastrado para produtos Nestlé Nutre, exceto Alfamino e Alfaré, o que inclui o Nutren Senior. Confirme se o desconto de 10% aparece no resumo do carrinho antes de pagar.",
+          "O cupom CECI vale para fórmulas infantis NAN? Não. O CECI não deve ser usado em fórmulas infantis para bebês de 0 a 12 meses, como NAN: o art. 5º do Decreto 9.579/2018 proíbe cupons e descontos promocionais nesses produtos, inclusive na internet. O cupom é indicado para os demais produtos elegíveis da loja.",
           "O cupom pode ser usado mais de uma vez? A regra de reutilização depende da política da loja e da campanha vigente. Se houver limite por conta, CPF ou pedido, o checkout informa.",
           "É necessário receita médica para comprar? Confira na página do produto se há alguma exigência; as regras de venda são da loja. De forma geral, itens de nutrição clínica devem ser usados conforme o rótulo e, quando necessário, com orientação de médico ou nutricionista.",
-          "O desconto inclui o frete? Não. O desconto de 5% incide sobre o valor dos produtos; o frete é calculado à parte, conforme a política da loja.",
+          "O desconto inclui o frete? Não. O desconto de 10% incide sobre o valor dos produtos; o frete é calculado à parte, conforme a política da loja.",
           "O cupom CECI funciona em produtos que já estão com desconto ou em combo? Pode variar conforme a campanha ativa da loja oficial. O valor final exibido no carrinho é a referência para saber se o cupom foi somado a outra condição ou se a substituiu; confira antes de pagar.",
           "Qual o valor mínimo de compra para usar o cupom CECI? A ficha do cupom Nestlé Nutre no Em Casa com Cecília não informa valor mínimo. Se a loja exigir algum para a sua compra, o checkout avisa. O frete é calculado separadamente.",
-          "O cupom CECI dá frete grátis? O cupom em si, não: ele aplica 5% sobre o valor dos produtos; frete, prazo e condições de entrega seguem a política da loja. Em 30/09/2026, a página inicial da loja informava frete grátis para todo o Brasil acima de R$ 400 e parcelamento em até 6x sem juros, condições que podem mudar; confira no carrinho.",
-          "Como saber se o cupom CECI foi aplicado corretamente? Depois de inserir o código CECI no campo de cupom do checkout, o desconto aparece no resumo do pedido. Se não aparecer, verifique se nenhum item é Alfamino ou Alfaré, se o código foi digitado corretamente e se há outra campanha ou cupom ativo que possa interferir.",
+          "O cupom CECI dá frete grátis? O cupom em si, não: ele aplica 10% sobre o valor dos produtos; frete, prazo e condições de entrega seguem a política da loja. Em 30/09/2026, a página inicial da loja informava frete grátis para todo o Brasil acima de R$ 400 e parcelamento em até 6x sem juros, condições que podem mudar; confira no carrinho.",
+          "Como saber se o cupom CECI foi aplicado corretamente? Depois de inserir o código CECI no campo de cupom do checkout, o desconto aparece no resumo do pedido. Se não aparecer, verifique se nenhum item é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses, se o código foi digitado corretamente e se há outra campanha ou cupom ativo que possa interferir.",
           "O cupom CECI tem data de validade? Ele segue ativo enquanto a parceria entre o blog e a Nestlé Nutre estiver vigente. As condições podem ser ajustadas pela loja, então confira o desconto no carrinho no momento da compra.",
           "Posso usar o cupom CECI em compras recorrentes ou assinatura? A loja tem o Programa de Assinaturas e, em 30/09/2026, a página do Nutren Senior indicava 10% OFF na primeira compra e 15% OFF a partir da terceira recorrência, sujeitos às condições indicadas na página. Não confirmamos se o CECI pode ser somado a esses descontos; confira o valor final no carrinho antes de assinar.",
-          "Onde encontro o cupom Nestlé Nutren? O cupom CECI é o código de parceria do blog Em Casa com Cecília com a Nestlé Nutre: 5% OFF em produtos da loja oficial, exceto Alfamino e Alfaré. A ficha atualizada fica na página de cupons do Em Casa com Cecília, e o código é aplicado no campo de cupom do checkout.",
+          "Onde encontro o cupom Nestlé Nutren? O cupom CECI é o código de parceria do blog Em Casa com Cecília com a Nestlé Nutre: 10% OFF em produtos da loja oficial, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. A ficha atualizada fica na página de cupons do Em Casa com Cecília, e o código é aplicado no campo de cupom do checkout.",
           "Existe desconto de laboratório para produtos Nutren? O cupom CECI é um código de parceria para compras no site da loja. Condições para laboratórios, clínicas ou compras corporativas, se existirem, devem ser consultadas diretamente com a Nestlé Nutre; o atendimento da loja é 0800 770 2461, de segunda a sexta, das 8h às 17h, segundo o site da loja.",
           "Existe o programa \"Nestlé meu desconto nutrição\"? Não encontramos um programa com esse nome. A Nestlé Nutre tem o Programa Nestlé Nutre, voltado a pacientes e cuidadores, que, segundo a página do programa (consultada em 30/09/2026), oferece conteúdos e serviços gratuitos e um cupom de 10% todo mês para usar na loja. É um benefício separado, com cadastro; o CECI é aplicado no campo de cupom do checkout. Não confirmamos se os dois cupons podem ser somados.",
           "Como funciona o programa de desconto Nutren? A Nestlé Nutre tem o Programa Nestlé Nutre, com cadastro, que inclui um cupom de 10% por mês, e o Programa de Assinaturas, com desconto na recorrência. O cupom CECI é diferente: é aplicado no campo de cupom do checkout.",
-          "O cupom Nestlé CECI vale para outros produtos da marca? O CECI foi cadastrado para a loja Nestlé Nutre (nestlenutre.com.br), exceto Alfamino e Alfaré. Produtos Nestlé vendidos em outros sites, mercados ou farmácias não fazem parte da parceria.",
-          "Existe alguma promoção de desconto específica para Nutren Senior? O cupom CECI dá 5% OFF em Nutren Senior e nos demais produtos elegíveis. Promoções pontuais podem aparecer no site oficial, e a combinação com o cupom varia conforme a campanha; o valor final do carrinho é a referência."
+          "O cupom Nestlé CECI vale para outros produtos da marca? O CECI foi cadastrado para a loja Nestlé Nutre (nestlenutre.com.br), exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Produtos Nestlé vendidos em outros sites, mercados ou farmácias não fazem parte da parceria.",
+          "Existe alguma promoção de desconto específica para Nutren Senior? O cupom CECI dá 10% OFF em Nutren Senior e nos demais produtos elegíveis. Promoções pontuais podem aparecer no site oficial, e a combinação com o cupom varia conforme a campanha; o valor final do carrinho é a referência."
         ]
       }
     ],
@@ -34072,7 +34073,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e cupom de desconto",
         "paragraphs": [
-          "O Em Casa com Cecília possui parceria comercial com a Nestlé Nutre. Através dessa parceria, o cupom CECI pode conceder 5% de desconto no carrinho em produtos elegíveis do site oficial (exceto fórmulas infantis especiais como Alfamino e Alfaré, conforme regulamento da marca). As condições de desconto, validade e frete dependem das regras vigentes no checkout."
+          "O Em Casa com Cecília possui parceria comercial com a Nestlé Nutre. Através dessa parceria, o cupom CECI pode conceder 10% de desconto no carrinho em produtos elegíveis do site oficial (exceto Alfamino e Alfaré, conforme regulamento da marca). O código também não deve ser usado em fórmulas infantis para bebês de 0 a 12 meses, como NAN: o art. 5º do Decreto 9.579/2018 proíbe cupons e descontos promocionais nesses produtos. As condições de desconto, validade e frete dependem das regras vigentes no checkout."
         ],
         "bullets": [],
         "links": [
@@ -34090,7 +34091,7 @@ export const reviewsData: unknown[] = [
           "A Nestlé Nutre entrega para todo o Brasil? Sim, as entregas cobrem todo o território nacional, com prazo calculado no checkout conforme o CEP.",
           "Como funciona a devolução na Nestlé Nutre? Segue o CDC: até 7 dias corridos após o recebimento, com o produto na embalagem original e nota fiscal, e frete de retorno custeado pela empresa.",
           "O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde, atendimento nutricional gratuito e um cupom de 10% renovado mensalmente — separado da parceria do cupom CECI com este blog.",
-          "O cupom CECI garante desconto na Nestlé Nutre? O cupom CECI aplica 5% OFF em produtos elegíveis do site oficial no momento da compra, respeitando as exceções e condições vigentes no checkout."
+          "O cupom CECI garante desconto na Nestlé Nutre? O cupom CECI aplica 10% OFF em produtos elegíveis do site oficial no momento da compra, respeitando as exceções e condições vigentes no checkout."
         ]
       }
     ],
@@ -34105,7 +34106,7 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 5%"
+        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
       },
       {
         "slug": "nestle-nutre-produtos-para-que-servem",
@@ -34193,7 +34194,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como comprar e uso responsável",
         "paragraphs": [
           "Os produtos da linha Nestlé Nutre podem ser adquiridos no site oficial da marca. Os preços informados neste guia são referenciais (consultados em agosto de 2026) e podem oscilar conforme campanhas promocionais e frete.",
-          "No checkout, o consumidor pode testar o cupom CECI para obter 5% de desconto em produtos elegíveis (com exceção de Alfamino e Alfaré, conforme o regulamento da marca). Recomenda-se ler o rótulo completo de cada produto antes de iniciar o uso."
+          "No checkout, o consumidor pode testar o cupom CECI para obter 10% de desconto em produtos elegíveis (com exceção de Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses, como NAN). Recomenda-se ler o rótulo completo de cada produto antes de iniciar o uso."
         ],
         "bullets": [],
         "links": [
@@ -34208,18 +34209,18 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual produto da linha Nutren é indicado para idosos? O Nutren Senior é voltado para adultos com 50 anos ou mais, com vitaminas, minerais e fibras.",
           "Preciso de receita médica para comprar Nutren? Não, mas itens de nutrição clínica devem ser usados conforme o rótulo e, quando necessário, com orientação de profissional de saúde.",
-          "O cupom CECI pode ser testado para toda a linha Nutren? Funciona para praticamente todos os produtos, exceto Alfamino e Alfaré, que ficam de fora da promoção.",
+          "O cupom CECI pode ser testado para toda a linha Nutren? Funciona para a maior parte dos produtos. Alfamino e Alfaré ficam de fora da promoção, e o cupom não deve ser usado em fórmulas infantis para bebês de 0 a 12 meses, em que a lei proíbe cupons e descontos.",
           "Qual a diferença entre Nutren 2.0 e Nutren Ultra? O Nutren 2.0 é hipercalórico (2,0 kcal/mL) e indicado para nutrição clínica; o Nutren Ultra é uma bebida pronta rica em proteínas (20g por porção) para consumo do dia a dia.",
           "Nutren 2.0 é para engordar? O Nutren 2.0 é uma fórmula hipercalórica (2,0 kcal/mL) indicada para situações que exigem alta oferta calórica em volumes restritos. Ele não é um 'engordante', mas um suplemento de nutrição clínica para reposição energética intensa, e deve ser usado sob orientação de profissional de saúde.",
           "Nutren Ultra pode substituir uma refeição? O Nutren Ultra é uma fórmula pronta para consumo, rica em proteínas (20g por porção) e 17 vitaminas e minerais. Ele complementa a alimentação, mas não substitui refeições completas. É ideal para quem precisa de praticidade e um boost proteico no dia a dia.",
           "Nutren Mulher melhora a pele e o cabelo? O Nutren Mulher contém colágeno em sua formulação, nutriente associado à saúde da pele, unhas e cabelos. No entanto, ele é um complemento alimentar e não um medicamento cosmético. Os resultados variam de pessoa para pessoa e dependem da consistência de uso e da alimentação geral.",
-          "Cupom Nestlé Nutren: onde encontrar? O cupom CECI é o código de parceria que pode aplicar 5% OFF no checkout em produtos elegíveis do blog Em Casa com Cecília com a Nestlé Nutre. Ele pode conceder 5% de desconto na maioria dos produtos da loja oficial e pode ser aplicado diretamente no campo de cupom no checkout.",
+          "Cupom Nestlé Nutren: onde encontrar? O cupom CECI é o código de parceria que pode aplicar 10% OFF no checkout em produtos elegíveis do blog Em Casa com Cecília com a Nestlé Nutre. Ele pode conceder 10% de desconto na maioria dos produtos da loja oficial e pode ser aplicado diretamente no campo de cupom no checkout.",
           "Nutren desconto laboratório: há desconto para laboratórios? Não há desconto específico para laboratórios no site oficial da Nestlé Nutre. O cupom CECI é válido para compras de pessoa física e pode ser usado por profissionais de saúde em compras pessoais, mas não substitui contratos corporativos ou vendas diretas para instituições.",
-          "Promo desconto Nutren Senior: existe promoção específica? O cupom CECI pode ser testado no checkout para tentar obter 5% de desconto em Nutren Senior e demais produtos elegíveis da linha, conforme as regras ativas na loja oficial.",
-          "Nestlé meu desconto nutrição: existe programa de desconto? Não existe um programa com esse nome exato, mas a Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês. É um benefício separado da nossa parceria: o cupom CECI pode conceder 5% de desconto sem necessidade de cadastro em nenhum programa.",
-          "Programa de desconto Nutren: como funciona? A Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês. O cupom CECI pode ser testado direto no checkout para tentar obter 5% de desconto em itens elegíveis.",
+          "Promo desconto Nutren Senior: existe promoção específica? O cupom CECI pode ser testado no checkout para tentar obter 10% de desconto em Nutren Senior e demais produtos elegíveis da linha, conforme as regras ativas na loja oficial.",
+          "Nestlé meu desconto nutrição: existe programa de desconto? Não existe um programa com esse nome exato, mas a Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês. É um benefício separado da nossa parceria: o cupom CECI pode conceder 10% de desconto sem necessidade de cadastro em nenhum programa.",
+          "Programa de desconto Nutren: como funciona? A Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês. O cupom CECI pode ser testado direto no checkout para tentar obter 10% de desconto em itens elegíveis.",
           "Cupom Nestlé: o CECI vale para outros produtos Nestlé? Não. O cupom CECI é válido exclusivamente para produtos vendidos no site oficial da Nestlé Nutre. Não pode ser testado para produtos de outras marcas Nestlé como Nescafé, Kit Kat, Purina ou outros e-commerces.",
-          "Onde comprar Nestlé Nutre com desconto? Os produtos Nestlé Nutre são vendidos exclusivamente no site oficial da marca. É possível testar o cupom CECI no checkout para tentar obter 5% de desconto em produtos elegíveis (exceto Alfamino e Alfaré, conforme as condições vigentes na loja oficial). Não há necessidade de receita médica para a compra."
+          "Onde comprar Nestlé Nutre com desconto? Os produtos Nestlé Nutre são vendidos exclusivamente no site oficial da marca. É possível testar o cupom CECI no checkout para tentar obter 10% de desconto em produtos elegíveis (exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses, conforme as condições vigentes na loja oficial). Não há necessidade de receita médica para a compra."
         ]
       }
     ],
@@ -34238,7 +34239,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 5%"
+        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
       }
     ],
     "publishedAtISO": "2026-08-11",
@@ -34325,7 +34326,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Essa lata costuma entrar no carrinho para alguém da família: um pai, uma mãe, ou a própria pessoa com mais de 50 anos buscando um complemento sem lactose. O Nutren Senior Zero Lactose é o composto lácteo em pó da Nestlé Health Science para esse recorte. A lata de 740 g rende cerca de 27 porções de 27,5 g; cada uma é preparada com 180 ml de água, em duas etapas, para facilitar a dissolução.",
           "Existem duas versões oficiais. A sem sabor vai sem aromatizante e sem sucralose. A de baunilha leva os dois. Este texto traduz a ficha que a marca publica — não é prova de copo tomado em casa, nem substitui o rótulo ou a conversa com um profissional de saúde.",
-          "Se a decisão de compra já estiver tomada, o código de parceria do Em Casa com Cecília na Nestlé Nutre é CECI e pode aplicar 5% nos itens elegíveis. Alfamino e Alfaré ficam de fora. Só feche o pedido se o desconto aparecer no resumo."
+          "Se a decisão de compra já estiver tomada, o código de parceria do Em Casa com Cecília na Nestlé Nutre é CECI e pode aplicar 10% nos itens elegíveis. Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses ficam de fora. Só feche o pedido se o desconto aparecer no resumo."
         ],
         "links": [
           {
@@ -34418,8 +34419,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e o que o cupom altera",
         "paragraphs": [
-          "A loja oficial pratica preço de lista, desconto de vitrine e kits. Na data da publicação deste artigo (17/08/2026), o preço de referência no site oficial é R$ 211,79. O que permanece é o teste no checkout: o item entra no carrinho pelo preço vigente; o CECI, quando aceito, tira 5% dos produtos elegíveis; o frete é outra linha e não entra nessa base.",
-          "Em teste já registrado no passo a passo do cupom, o CECI chegou a aplicar os 5% por cima de um combo que já tinha desconto de vitrine. Somar com outro código digitado no mesmo pedido não é garantido: o checkout costuma ficar com um cupom só. Alfamino e Alfaré não entram."
+          "A loja oficial pratica preço de lista, desconto de vitrine e kits. Na data da publicação deste artigo (17/08/2026), o preço de referência no site oficial é R$ 211,79. O que permanece é o teste no checkout: o item entra no carrinho pelo preço vigente; o CECI, quando aceito, tira 10% dos produtos elegíveis; o frete é outra linha e não entra nessa base.",
+          "Em teste já registrado no passo a passo do cupom, o CECI chegou a aplicar o desconto, então de 5%, por cima de um combo que já tinha desconto de vitrine. Somar com outro código digitado no mesmo pedido não é garantido: o checkout costuma ficar com um cupom só. Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses não entram."
         ],
         "links": [
           {
@@ -34431,7 +34432,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comprar com o cupom CECI",
         "paragraphs": [
-          "A compra pode ser feita no site oficial da Nestlé Nutre. Escolha a lata — sem sabor ou baunilha — e, no pagamento, digite CECI. Se o código não aplicar, confira a grafia, se algum item é Alfamino ou Alfaré e se outro cupom já está ativo."
+          "A compra pode ser feita no site oficial da Nestlé Nutre. Escolha a lata — sem sabor ou baunilha — e, no pagamento, digite CECI. Se o código não aplicar, confira a grafia, se algum item é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses e se outro cupom já está ativo."
         ],
         "links": [
           {
@@ -34448,8 +34449,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Nestlé Nutre? O código de parceria do Em Casa com Cecília é CECI e pode aplicar 5% em produtos elegíveis no checkout da loja oficial.",
-          "Qual o cupom do Nutren Senior Zero Lactose? O mesmo CECI. Vale para a lata Zero Lactose e para os demais itens elegíveis da loja; não vale para Alfamino e Alfaré.",
+          "Qual é o cupom da Nestlé Nutre? O código de parceria do Em Casa com Cecília é CECI e pode aplicar 10% em produtos elegíveis no checkout da loja oficial.",
+          "Qual o cupom do Nutren Senior Zero Lactose? O mesmo CECI. Vale para a lata Zero Lactose e para os demais itens elegíveis da loja; não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses.",
           "Como preparar o Nutren Senior Zero Lactose em pó? Coloque 3 colheres de sopa rasas (27,5 g) no copo, misture com cerca de 50 ml de água até virar pasta e complete com 130 ml. A porção pronta é 180 ml.",
           "O Nutren Senior Zero Lactose tem lactose? A variante é vendida como zero lactose. A lista oficial inclui enzima lactase. Quem tem alergia à proteína do leite ainda precisa ler o rótulo: a base continua láctea.",
           "Qual a diferença entre a lata sem sabor e a de baunilha? O preparo e a porção são iguais. A baunilha adiciona aromatizante e sucralose; a sem sabor não.",
@@ -34473,7 +34474,7 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 5%"
+        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
       },
       {
         "slug": "nestle-nutre-e-confiavel",
@@ -40114,7 +40115,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Nutren Just Protein em lata de 280g é comercializado no e-commerce oficial da Nestlé Nutre no Brasil. Preço, estoque, prazo de entrega e condições comerciais devem ser confirmados no momento da compra.",
           "A embalagem informa cerca de 19 porções de 15g. O rendimento real depende da quantidade utilizada e da orientação definida para cada pessoa.",
-          "No carrinho da loja oficial, você pode testar o cupom CECI para verificar a aplicação de 5% de desconto em produtos elegíveis, conforme as regras vigentes no checkout."
+          "No carrinho da loja oficial, você pode testar o cupom CECI para verificar a aplicação de 10% de desconto em produtos elegíveis, conforme as regras vigentes no checkout."
         ],
         "bullets": [],
         "links": [
@@ -40145,7 +40146,7 @@ export const reviewsData: unknown[] = [
           "Pode misturar Nutren Just Protein em comida quente? O preparo oficial é 15g em 120ml de água. Em receitas quentes, uma possibilidade editorial é acrescentar o pó gradualmente depois de retirar o alimento do fogo; textura e dissolução podem variar.",
           "Nutren Just Protein tem lactose? Sim. A página oficial informa que contém lactose e derivados de leite e soja. Pessoas com alergia à proteína do leite ou à soja não devem consumir; em caso de intolerância ou outra restrição, consulte o rótulo e um profissional de saúde.",
           "Nutren Just Protein substitui uma refeição? Não. A fabricante informa que o produto não é adequado para uso como única fonte de nutrição.",
-          "Qual o cupom de desconto para a loja oficial Nestlé Nutre? O cupom CECI pode ser testado no checkout para verificar a aplicação de 5% de desconto em itens elegíveis, conforme as condições vigentes da loja oficial."
+          "Qual o cupom de desconto para a loja oficial Nestlé Nutre? O cupom CECI pode ser testado no checkout para verificar a aplicação de 10% de desconto em itens elegíveis, conforme as condições vigentes da loja oficial."
         ]
       }
     ],
@@ -40161,7 +40162,7 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 5%"
+        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
       },
       {
         "slug": "nestle-nutre-e-confiavel",
@@ -42351,14 +42352,14 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Preço oficial consultado",
-              "R$ 56,91 com o cupom CECI aplicado sobre R$ 59,90",
+              "R$ 56,91 com o CECI de 5% vigente em 27/08/2026, sobre R$ 59,90",
               "R$ 49,90 no Pix ou boleto; R$ 55,44 no cartão",
               "R$ 59,90; R$ 56,91 à vista",
               "Sem preço; produto esgotado"
             ],
             [
               "Custo por 100 g",
-              "R$ 18,97 com o cupom CECI",
+              "R$ 18,97 com o CECI de 5% vigente em 27/08/2026",
               "R$ 19,96 no Pix/boleto; R$ 22,18 no cartão",
               "R$ 19,97 no preço cheio; R$ 18,97 à vista",
               "Não calculado"
@@ -42387,7 +42388,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual delas faz mais sentido para você?",
         "paragraphs": [
-          "Com os dados que conseguimos confirmar, não existe uma campeã universal. Com o cupom CECI aplicado, Nutren e FTW empatam em R$ 18,97 por 100 g nas condições à vista observadas; frete, disponibilidade e aceitação do desconto no checkout podem mudar o total pago.",
+          "Com os dados que conseguimos confirmar, não existe uma campeã universal. Com o cupom CECI de 5% vigente em 27/08/2026, Nutren e FTW empatavam em R$ 18,97 por 100 g nas condições à vista observadas; com o CECI atual de 10%, a Nutren ficaria em R$ 17,97 se o preço de R$ 59,90 se mantiver; frete, disponibilidade e aceitação do desconto no checkout podem mudar o total pago.",
           "A Nutren faz sentido para quem quer o sachê de 300 g e já compra na loja Nestlé Nutre. A Growth fica em R$ 19,96 por 100 g no Pix, mas usa porção declarada de 5 g e embalagem de 250 g. A FTW oferece pote de 300 g e chega ao mesmo custo por 100 g da Nutren com CECI. A Lavitan pode ser conveniente para quem a encontra em farmácias, mas estava esgotada e sem preço oficial na consulta.",
           "Em qualquer marca, confirme no rótulo o ingrediente, a porção, o lacre, o lote, a validade e as advertências. Compare o preço final depois de frete e desconto, não apenas o número em destaque na vitrine."
         ],
@@ -42415,7 +42416,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preço oficial e cupom CECI",
         "paragraphs": [
           "Na consulta de 27 de agosto de 2026, o catálogo oficial Nestlé Nutre mostrava a embalagem de 300 g por R$ 59,90. A imagem abaixo registra esse momento; preço, estoque e condições podem mudar.",
-          "Aplicando 5% sobre R$ 59,90, o valor fica em R$ 56,91, equivalente a R$ 18,97 por 100 g. Como a elegibilidade é confirmada no checkout, verifique se o código CECI foi aceito e compare o total com frete antes de pagar."
+          "Na data da consulta, o CECI dava 5%: sobre R$ 59,90, o valor ficava em R$ 56,91, equivalente a R$ 18,97 por 100 g. Com o desconto atual de 10%, o mesmo preço cai para R$ 53,91, ou R$ 17,97 por 100 g. Como a elegibilidade é confirmada no checkout, verifique se o código CECI foi aceito e compare o total com frete antes de pagar."
         ],
         "bullets": [],
         "links": [
@@ -42443,7 +42444,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Nutren Creatina é 100% creatina monohidratada? A frente usa a expressão “100% monohidratada” e a lista de ingredientes declara somente creatina monohidratada. Isso descreve o rótulo; não fizemos teste laboratorial independente do lote.",
           "Quantas porções vêm na embalagem? O sachê de 300 g declara 100 porções de 3 g.",
-          "Qual foi a mais barata no comparativo? Nas condições observadas em 27/08/2026, Nutren com CECI e FTW à vista empataram em R$ 18,97 por 100 g. Growth ficou em R$ 19,96 no Pix ou boleto. Frete, estoque e aceitação do desconto no checkout podem mudar o resultado.",
+          "Qual foi a mais barata no comparativo? Nas condições observadas em 27/08/2026, Nutren com o CECI de 5% da época e FTW à vista empataram em R$ 18,97 por 100 g. Com o CECI atual de 10% sobre o mesmo preço, a Nutren ficaria em R$ 17,97 por 100 g. Growth ficou em R$ 19,96 no Pix ou boleto. Frete, estoque e aceitação do desconto no checkout podem mudar o resultado.",
           "Qual é o melhor horário para tomar creatina? Os rótulos consultados orientam uma porção diária, mas não condicionam o uso a pré ou pós-treino. Escolha um horário que ajude a seguir a recomendação do seu produto e peça orientação individual se necessário.",
           "Idosos podem usar? O produto é destinado a adultos, mas a decisão para uma pessoa idosa deve considerar saúde, alimentação e medicamentos com orientação profissional.",
           "É preciso fazer fase de saturação? O rótulo da Nutren orienta uma porção de 3 g ao dia e não pede fase de saturação. Não exceda a recomendação da embalagem sem orientação profissional.",
@@ -42471,7 +42472,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 5%"
+        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
       }
     ],
     "gallery": [
@@ -48162,7 +48163,7 @@ export const reviewsData: unknown[] = [
       "O método da pasta é o mesmo que a Nestlé indica: pouco líquido primeiro e o restante depois",
       "Números oficiais por porção: cerca de 130 kcal e 11 g de proteína nos sabores; 113 kcal e 10 g no Sem Sabor Zero Lactose",
       "O Sem Sabor entra em receitas doces e salgadas, segundo a marca, sempre adicionado no final do preparo",
-      "Cupom CECI de 5% OFF em produtos Nestlé Nutre, exceto Alfamino e Alfaré"
+      "Cupom CECI de 10% OFF em produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis"
     ],
     "cons": [
       "Não pode ferver e deve ser consumido logo após o preparo; a marca não informa uma temperatura máxima",
@@ -48375,12 +48376,12 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar e usar o cupom CECI",
         "paragraphs": [
           "O Nutren Senior é vendido na loja oficial Nestlé Nutre (nestlenutre.com.br). Em 30/09/2026, a página inicial da loja informava frete grátis para todo o Brasil acima de R$ 400; já na assinatura, a página do produto indicava frete grátis acima de R$ 200, 10% OFF na primeira compra e 15% OFF a partir da terceira recorrência. As condições podem mudar, então confira no carrinho.",
-          "O código CECI dá 5% OFF em produtos Nestlé Nutre, exceto Alfamino e Alfaré, sobre o valor dos produtos (o frete não entra na conta). As regras podem variar por campanha, inclusive a soma com outras promoções, então confira o valor final no carrinho antes de pagar."
+          "O código CECI dá 10% OFF em produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses, sobre o valor dos produtos (o frete não entra na conta). As regras podem variar por campanha, inclusive a soma com outras promoções, então confira o valor final no carrinho antes de pagar."
         ],
         "bullets": [],
         "links": [
           {
-            "label": "Guia do cupom Nestlé Nutre CECI e regras de 5% OFF",
+            "label": "Guia do cupom Nestlé Nutre CECI e regras de 10% OFF",
             "href": "/reviews/cupom-ceci-nestle-nutre-como-usar"
           },
           {
@@ -48415,7 +48416,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Veja o Nutren Senior na loja oficial Nestlé Nutre e use o cupom CECI (5% OFF)",
+      "text": "Veja o Nutren Senior na loja oficial Nestlé Nutre e use o cupom CECI (10% OFF)",
       "label": "Ver Nutren Senior na Nestlé Nutre",
       "url": "https://www.nestlenutre.com.br/nutren-senior",
       "sponsored": true
@@ -48434,7 +48435,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: Como Usar o Desconto de 5%"
+        "title": "Cupom Nestlé Nutre CECI: Como Usar o Desconto de 10%"
       }
     ]
   },
@@ -49023,8 +49024,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Como incluir FiberMais Sem Sabor no café, em bebidas frias e nas refeições: cuidados com o calor, diferenças entre lata e sachês, informações do rótulo e cupom CECI de 5% na Nestlé Nutre.",
-    "metaDescription": "Veja como usar FiberMais Sem Sabor em café, sucos e refeições, com cuidados de preparo, medidas da lata e dos sachês e cupom CECI de 5% na Nestlé Nutre.",
+    "description": "Como incluir FiberMais Sem Sabor no café, em bebidas frias e nas refeições: cuidados com o calor, diferenças entre lata e sachês, informações do rótulo e cupom CECI de 10% na Nestlé Nutre.",
+    "metaDescription": "Veja como usar FiberMais Sem Sabor em café, sucos e refeições, com cuidados de preparo, medidas da lata e dos sachês e cupom CECI de 10% na Nestlé Nutre.",
     "publishedAt": "2 de outubro de 2026",
     "publishedAtISO": "2026-10-02",
     "draft": false,
@@ -49038,7 +49039,7 @@ export const reviewsData: unknown[] = [
       "A fabricante apresenta a versão Sem Sabor como uma opção que não altera sabor, cheiro ou textura dos alimentos",
       "Pode ser incluído em bebidas quentes ou frias e em alimentos, respeitando as instruções de preparo",
       "Lata e sachês permitem escolher a apresentação mais conveniente para a rotina",
-      "Cupom CECI de 5% na Nestlé Nutre para produtos elegíveis, conforme as condições da loja"
+      "Cupom CECI de 10% na Nestlé Nutre para produtos elegíveis, conforme as condições da loja"
     ],
     "cons": [
       "A recomendação de uso da lata não é igual à dos sachês; confira a apresentação e o rótulo",
@@ -49171,7 +49172,7 @@ export const reviewsData: unknown[] = [
           "A ingestão de líquidos também precisa ser adequada à sua situação. Idade, condições de saúde, atividade e eventuais restrições de líquidos devem ser consideradas na orientação individual; um mesmo volume não serve como regra obrigatória para todas as pessoas. Manter a hidratação faz parte dos cuidados de uso, sem substituir a avaliação de sintomas persistentes.",
           "A tabela abaixo reproduz os valores informados nas páginas oficiais em 2 de outubro de 2026, usando a porção declarada de cada apresentação. Não são valores da receita pronta: leite, café adoçado, suco, iogurte e outros ingredientes acrescentam suas próprias informações nutricionais.",
           "Para comparar embalagens, olhe a quantidade total, o preço por grama e quanto será utilizado antes do prazo indicado após a abertura. Preços e promoções podem mudar qual apresentação é mais econômica; a presença de uma colher dosadora deve ser conferida na embalagem. Na lata consultada, a fabricante orienta manter bem fechada em local fresco, seco e sem odores, consumir em até 60 dias após iniciar o uso e consumir o preparo imediatamente.",
-          "Na compra pela Nestlé Nutre, o código CECI oferece 5% de desconto em produtos elegíveis, com exceção de Alfamino e Alfaré. A acumulação depende da campanha vigente. Para FiberMais, confira o desconto no carrinho e não confunda a compra no canal oficial com uma promessa de lote recém-fabricado ou validade específica."
+          "Na compra pela Nestlé Nutre, o código CECI oferece 10% de desconto em produtos elegíveis, com exceção de Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses. A acumulação depende da campanha vigente. Para FiberMais, confira o desconto no carrinho e não confunda a compra no canal oficial com uma promessa de lote recém-fabricado ou validade específica."
         ],
         "bullets": [],
         "comparisonTable": {
@@ -49231,11 +49232,11 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Guia do cupom Nestlé Nutre CECI e regras de 5% OFF",
+            "label": "Guia do cupom Nestlé Nutre CECI e regras de 10% OFF",
             "href": "/reviews/cupom-ceci-nestle-nutre-como-usar"
           },
           {
-            "label": "Conferir produtos elegíveis e condições do cupom CECI de 5%",
+            "label": "Conferir produtos elegíveis e condições do cupom CECI de 10%",
             "href": "/cupons/nutren"
           },
           {
@@ -49266,7 +49267,7 @@ export const reviewsData: unknown[] = [
           "Gestantes podem usar FiberMais? A gestação exige avaliação individual. Converse com o obstetra ou nutricionista antes de iniciar a suplementação. A natureza das fibras não é, por si só, uma garantia de segurança para todas as gestantes.",
           "FiberMais engorda? O efeito de uma alimentação sobre o peso não pode ser atribuído de forma absoluta a um ingrediente. A tabela da lata Sem Sabor informa 16 kcal por 7,6 g, e a dos sachês informa 21 kcal por 10 g. Considere também os demais ingredientes da bebida ou refeição.",
           "FiberMais substitui laxantes ou causa dependência? É um suplemento de fibras, não um substituto automático de um laxante prescrito. Os objetivos e cuidados de uso são diferentes, e a escolha depende da causa dos sintomas. Se a constipação persiste, exige uso recorrente de medicamentos ou há desconforto com o suplemento, procure avaliação profissional antes de alterar o tratamento.",
-          "Qual é o cupom da Nestlé Nutre? O código é CECI, com 5% de desconto em produtos elegíveis, exceto Alfamino e Alfaré; confira as condições vigentes e o desconto aplicado no checkout."
+          "Qual é o cupom da Nestlé Nutre? O código é CECI, com 10% de desconto em produtos elegíveis, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses; confira as condições vigentes e o desconto aplicado no checkout."
         ]
       },
       {
@@ -49279,7 +49280,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Confira FiberMais na Nestlé Nutre e use CECI para 5% de desconto em produtos elegíveis, conforme as condições vigentes no checkout.",
+      "text": "Confira FiberMais na Nestlé Nutre e use CECI para 10% de desconto em produtos elegíveis, conforme as condições vigentes no checkout.",
       "label": "Conferir FiberMais na loja oficial Nestlé Nutre",
       "url": "https://www.nestlenutre.com.br/fibermais",
       "sponsored": true
@@ -49298,7 +49299,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: Como Usar o Desconto de 5%"
+        "title": "Cupom Nestlé Nutre CECI: Como Usar o Desconto de 10%"
       }
     ],
     "gallery": [
