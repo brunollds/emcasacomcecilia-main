@@ -1,7 +1,8 @@
 import type { MetadataRoute } from 'next';
 import { recipes, publishedReviews } from '@/lib/data';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
-import { getActiveCoupons } from '@/lib/couponsData';
+import { getActiveCoupons, getCouponBySlug } from '@/lib/couponsData';
+import { getCouponStorePath, getTranslatedCouponRoutes } from '@/lib/couponTranslations';
 import { YESSTYLE_LOCALES } from '@/lib/i18n/clusters/yesstyle';
 import { REVIEW_HUB_LOCALES, getReviewHubPath } from '@/lib/review-hubs';
 import { getLatestYesStyleVerifiedAtISO } from '@/lib/yesstyleCoupons';
@@ -44,6 +45,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.75,
     changeFrequency: 'weekly' as const,
     lastModified: coupon.lastVerified,
+  }));
+
+  // Lojas com página em outros idiomas (hoje só a SHEIN); a versão em PT já está em couponRoutes.
+  const translatedCouponRoutes: MetadataRoute.Sitemap = getTranslatedCouponRoutes().map(({ locale, slug }) => ({
+    url: `${BASE_URL}${getCouponStorePath(slug, locale)}`,
+    priority: 0.75,
+    changeFrequency: 'weekly' as const,
+    lastModified: getCouponBySlug(slug)?.lastVerified,
   }));
 
   const videoRoutes: MetadataRoute.Sitemap = videoPages.map((video) => ({
@@ -97,6 +106,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...reviewRoutes,
     ...videoRoutes,
     ...couponRoutes,
+    ...translatedCouponRoutes,
     ...internationalYesStyleHubs,
     ...internationalReviewHubs,
   ];

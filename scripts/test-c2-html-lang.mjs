@@ -5,10 +5,12 @@ const clusterModule = await import('../src/lib/i18n/clusters/yesstyle.ts');
 const dataModule = await import('../src/lib/data.ts');
 const reviewI18nModule = await import('../src/lib/content/review-i18n.ts');
 const localesModule = await import('../src/lib/i18n/locales.ts');
+const couponTranslationsModule = await import('../src/lib/couponTranslations.ts');
 const YESSTYLE_LOCALES = clusterModule.YESSTYLE_LOCALES;
 const { publishedReviews, getReviewSlug } = dataModule;
 const { getReviewCanonicalPathname, resolveReviewLocale } = reviewI18nModule;
 const { LOCALES, LOCALE_KEYS } = localesModule;
+const { getCouponLanguageLinks, getTranslatedCouponRoutes } = couponTranslationsModule;
 
 const checks = [
   { url: '/', file: '.next/server/app/index.html', expectedLang: 'pt-BR' },
@@ -36,6 +38,17 @@ for (const locale of LOCALE_KEYS) {
     file: `.next/server/app/${locale}/reviews.html`,
     expectedLang: LOCALES[locale].htmlLang,
   });
+}
+
+// Lojas traduzidas (hoje só a SHEIN): a página de PT e as dos outros idiomas.
+for (const slug of new Set(getTranslatedCouponRoutes().map((route) => route.slug))) {
+  for (const [locale, url] of Object.entries(getCouponLanguageLinks(slug))) {
+    checks.push({
+      url,
+      file: `.next/server/app${url}.html`,
+      expectedLang: LOCALES[locale].htmlLang,
+    });
+  }
 }
 
 for (const review of publishedReviews) {
