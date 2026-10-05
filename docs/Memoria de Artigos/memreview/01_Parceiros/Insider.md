@@ -93,12 +93,27 @@ primeiro artigo, conferindo que `100EMCASACOMCECILIA` (Magalu) não seja destaca
 
 ---
 
-## 5. Dores Mapeadas
+## 5. Mídia da Marca
+
+| Arquivo | Origem | Uso | Licença |
+|---|---|---|---|
+| `/images/about/partners/insider.png` | Logotipo SVG do cabeçalho de insiderstore.com.br (`newlogo.svg`), baixado em 2026-10-05 e exportado em PNG transparente 600×90 | Parceiros comerciais no `/sobre` | Identificação da marca parceira, no contexto da parceria |
+| `/images/about/partners/insider-icon.png` | Favicon oficial (símbolo "I" sobre cinza-claro) de insiderstore.com.br, baixado em 2026-10-05, achatado sobre branco e com margem até 256×256 | Chip do hero, página de cupom e imagem de compartilhamento | Identificação da marca parceira, no contexto da parceria |
+
+O `Logo-Mark_BlackWhite.png` do site não é o símbolo da Insider: é um "e" em círculo, provavelmente
+do selo eureciclo que aparece no rodapé. Não usar como marca.
+
+Os logos estão no CDN e no mapa de entrega. Para trocar um logo, criar arquivo com nome novo,
+conforme `docs/GUIA-MIDIA-EDITORIAL.md`.
+
+---
+
+## 6. Dores Mapeadas
 
 Nenhuma mapeada ainda.
 
 ---
 
-## 6. Artigos Já Publicados no Cluster
+## 7. Artigos Já Publicados no Cluster
 
 Nenhum.
