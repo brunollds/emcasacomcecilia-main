@@ -50925,5 +50925,828 @@ export const reviewsData: unknown[] = [
         "title": "Melhores cápsulas Dolce Gusto em 2026: guia de sabores"
       }
     ]
+  },
+  {
+    "id": 325,
+    "slug": "insider-store-e-confiavel",
+    "title": "Insider Store é confiável? CNPJ, loja física, trocas e reputação",
+    "seoTitle": "Insider Store é confiável? O que checamos antes de comprar",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que conferimos sobre a Insider Store antes de indicar a loja: CNPJ ativo desde 2016, loja física no MorumbiShopping, troca e devolução gratuitas, garantia contra desbotamento da Tech T-Shirt, reputação RA1000 no Reclame Aqui e os pontos de atenção no pós-venda.",
+    "metaDescription": "A Insider Store é confiável? Veja CNPJ, loja física em São Paulo, prazos de troca, garantia, frete, atendimento e a reputação da loja no Reclame Aqui.",
+    "publishedAt": "5 de outubro de 2026",
+    "publishedAtISO": "2026-10-05",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/insider/insider-confiavel-hero-oficial.webp",
+    "imageAlt": "Fotos oficiais da Insider: homem com Tech T-Shirt azul-marinho, mulher com Tech T-Shirt Feminina e homem com Undershirt Antissuor por baixo de camisa social branca",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "CNPJ ativo desde novembro de 2016, o mesmo informado no rodapé do site e no Reclame Aqui",
+      "Reputação RA1000 e selo de empresa verificada no Reclame Aqui",
+      "Troca e devolução gratuitas, com 21 dias para troca por insatisfação",
+      "180 dias para acionar defeito e garantia de 2 anos contra desbotamento da Tech T-Shirt",
+      "Políticas de troca, frete e pagamento publicadas e atualizadas no site",
+      "Loja própria no MorumbiShopping, em São Paulo, para provar as peças"
+    ],
+    "cons": [
+      "Atendimento só por WhatsApp, de segunda a sexta, das 9h às 18h",
+      "Produto não recebido é o problema mais citado no Reclame Aqui",
+      "Underwear e beachwear só têm troca em caso de defeito",
+      "A troca direta é só pelo mesmo modelo, mudando cor ou tamanho",
+      "Cupons e cashback valem só no site, não na loja física",
+      "Preço acima do de camisetas básicas de algodão"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Sim, a Insider Store é uma empresa real e regular: o CNPJ 26.520.188/0001-92, da Insider Comércio e Confecção de Peças do Vestuário Ltda., está ativo desde novembro de 2016, com sede em São Paulo.",
+          "O site oficial é **insiderstore.com.br**. O atendimento oficial é só pelo WhatsApp, em dias úteis, das 9h às 18h.",
+          "Troca e devolução são gratuitas: 7 dias úteis para arrependimento, 21 dias corridos para insatisfação e 180 dias para defeito. Underwear e beachwear só têm troca por defeito.",
+          "No Reclame Aqui, a Insider tem reputação RA1000, a mais alta da plataforma, com nota 9,0 nos últimos seis meses. O ponto de atenção é a entrega: produto não recebido é o problema mais citado.",
+          "A marca tem loja física no MorumbiShopping, em São Paulo. A nova Concept Store abre em 9 de outubro de 2026.",
+          "Com o cupom EMCASACOMCECILIA, o desconto vale nas compras do site, exceto lançamentos."
+        ],
+        "links": [
+          {
+            "label": "Regras do cupom Insider",
+            "href": "/cupons/insider"
+          }
+        ]
+      },
+      {
+        "heading": "Por que checamos a Insider antes de indicar",
+        "paragraphs": [
+          "A Insider vende quase tudo pela internet e aparece muito em anúncios e em vídeos de criadores de conteúdo, com a promessa de camisetas que não amassam, não desbotam e seguram o cheiro do suor. As peças custam mais que uma camiseta básica de algodão, então a dúvida é justa: a loja é séria e, se algo der errado, a troca funciona?",
+          "Para responder, consultamos o CNPJ nos dados públicos da Receita Federal, lemos a política de trocas, a política de frete e os termos de uso do site, percorremos a central de ajuda da marca e conferimos a página da empresa no Reclame Aqui. Também testamos o cupom da parceria no checkout oficial, sem finalizar compra. Este artigo não traz avaliação de uso das roupas: o que está aqui é o que dá para verificar antes de comprar."
+        ]
+      },
+      {
+        "heading": "Quem está por trás da Insider Store",
+        "paragraphs": [
+          "A Insider é uma marca brasileira de roupas com tecnologia têxtil, que vende pelo próprio site e, agora, também em loja própria. O CNPJ aparece no rodapé de todas as páginas do site, e é o mesmo cadastrado na página da empresa no Reclame Aqui."
+        ],
+        "comparisonTable": {
+          "caption": "Dados públicos do CNPJ da Insider Store",
+          "headers": [
+            "Dado",
+            "O que consta"
+          ],
+          "rows": [
+            [
+              "Razão social",
+              "Insider Comércio e Confecção de Peças do Vestuário Ltda."
+            ],
+            [
+              "CNPJ",
+              "26.520.188/0001-92 (matriz)"
+            ],
+            [
+              "Situação cadastral",
+              "Ativa"
+            ],
+            [
+              "Início das atividades",
+              "10 de novembro de 2016"
+            ],
+            [
+              "Sede",
+              "São Paulo (SP), bairro Bela Vista"
+            ],
+            [
+              "Atividade principal",
+              "Comércio varejista de artigos do vestuário e acessórios"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Segundo a própria marca, a operação começou em 2017, a empresa já passou de 800 mil clientes e cita no seu histórico o Shark Tank, a Y Combinator e a Forbes. A Insider também afirma que as peças são criadas e desenvolvidas em São Paulo e que entrega em todo o Brasil e no exterior. São informações institucionais da empresa; o que conferimos de forma independente foram os dados do CNPJ acima.",
+          "Além da loja para o consumidor, a marca tem a Insider Business, uma frente de vendas para empresas, com uniformes, kits de boas-vindas para funcionários e brindes corporativos."
+        ]
+      },
+      {
+        "heading": "Como saber se você está no site oficial",
+        "paragraphs": [
+          "Marcas conhecidas viram alvo de páginas falsas, e a Insider não é exceção. O endereço oficial é **insiderstore.com.br**. Antes de pagar, confira se é exatamente esse o domínio na barra do navegador, principalmente quando você chegou por um anúncio.",
+          "No rodapé do site oficial aparecem o CNPJ 26.520.188/0001-92 e a razão social da empresa, além dos links para a política de trocas, os termos de uso e a central de ajuda, que fica em suporte.insiderstore.com.br. Se uma página promete preços muito abaixo dos praticados no site e não mostra esses dados, desconfie.",
+          "Vale lembrar também que, segundo a central de ajuda, o canal oficial de atendimento é exclusivamente o WhatsApp, de segunda a sexta, das 9h às 18h. Por isso, mensagens em outros canais pedindo pagamento ou dados pessoais em nome da Insider merecem cuidado redobrado."
+        ]
+      },
+      {
+        "heading": "O que a Insider vende",
+        "paragraphs": [
+          "O produto mais conhecido é a **Tech T-Shirt**, que a marca apresenta como \"a original desde 2019\", com versões masculina e feminina. Segundo a Insider, o tecido tem tratamento antiodor e desamassa com o calor do corpo. No dia da nossa checagem, a peça avulsa custava R$ 129 no site, e várias camisetas também são vendidas em kits de 2, 3 ou 5 unidades.",
+          "A loja vai além das camisetas. Há a **Undershirt Antissuor**, feita para usar por baixo da camisa social, nas versões Leve, Moderado e Block (para quem sua mais), cuecas das linhas Comfort e Performance, roupas esportivas, como a Performance T-Shirt 2.0, que a marca diz usar a tecnologia Outlast de regulação térmica, e uma linha feminina com tops, leggings e saias.",
+          "Na página de sustentabilidade, a Insider diz que a produção é 100% nacional, que usa modal e liocel de origem vegetal certificada e que a Tech T-Shirt é carbono negativa. São afirmações da marca, que não conseguimos verificar de forma independente."
+        ],
+        "image": "/images/reviews/insider/insider-tech-t-shirt-vinho-oficial.webp",
+        "imageAlt": "Foto oficial da Insider de um homem vestindo a Tech T-Shirt em tom vinho, de frente, com fundo cinza-claro",
+        "imageCaption": "Tech T-Shirt, o produto mais conhecido da Insider, com versões masculina e feminina.",
+        "imageFit": "square"
+      },
+      {
+        "heading": "Trocas, devoluções e garantia",
+        "paragraphs": [
+          "Este é o ponto em que a Insider se sai melhor do que o mínimo exigido por lei. Pela política de troca e devolução e pela central de ajuda, atualizada em setembro de 2026, os prazos dependem do motivo:"
+        ],
+        "bullets": [
+          "Arrependimento: até 7 dias úteis após o recebimento, com o produto sem uso e etiqueta intacta.",
+          "Insatisfação com tamanho, cor ou modelo: até 21 dias corridos após o recebimento, sem uso, com etiqueta e sem sinais de lavagem.",
+          "Defeito: até 180 dias corridos após o recebimento, com fotos que mostrem o problema.",
+          "Underwear e beachwear: troca ou devolução só em caso de defeito de fabricação, por questão de higiene.",
+          "Brindes: não são trocados nem devolvidos separadamente, e voltam junto se o pedido inteiro for devolvido."
+        ],
+        "postParagraphs": [
+          "O pedido é aberto pelo Portal de Trocas, com o número do pedido (no formato IN-XXXXX) e pelo menos duas fotos do produto, e precisa ser feito pelo titular da compra. A Insider informa que **a troca e a devolução são gratuitas**: você recebe um código de postagem nos Correios, pode deixar o pacote num armário inteligente ou pedir coleta em casa.",
+          "Há duas limitações que convém saber antes. A troca direta só vale para o mesmo modelo, mudando cor ou tamanho conforme o estoque; para levar outro produto, é preciso devolver e comprar de novo. E o reembolso, depois que o pacote chega e é conferido, pode levar até 12 dias úteis. Em alguns casos a loja oferece um cupom no lugar do estorno: ele vale por 6 meses, é de uso único e, depois de escolhido, não pode ser convertido em dinheiro.",
+          "A Tech T-Shirt tem ainda uma garantia própria contra desbotamento, de 2 anos, para compras feitas desde 6 de setembro de 2024. A condição é seguir a etiqueta: lavar no ciclo delicado em até 30 °C, com sabão neutro, sem deixar de molho, sem torcer, sem alvejante e sem amaciante, secar à sombra e sem secadora, não usar pregadores e passar abaixo de 110 °C."
+        ]
+      },
+      {
+        "heading": "Frete, prazos e formas de pagamento",
+        "paragraphs": [
+          "Pela política de frete do site, a entrega é grátis em compras acima de R$ 399, valor conferido depois dos descontos. O carrinho mostra quanto falta para chegar lá, o que ajuda a decidir se vale incluir mais uma peça ou se o frete compensa.",
+          "Os termos de uso listam como formas de pagamento o Pix à vista, o Pix parcelado em até 4 vezes sem juros (pela Pagaleve), o cartão de crédito em até 3 vezes sem juros ou de 4 a 10 vezes com juros, e o boleto à vista. Alguns produtos aparecem como compra antecipada, com envio a partir de uma data futura indicada no carrinho; nesse caso, o prazo de entrega é maior que o normal."
+        ]
+      },
+      {
+        "heading": "A Insider tem loja física?",
+        "paragraphs": [
+          "Tem. A loja fica no **MorumbiShopping**, em São Paulo (Av. Roque Petroni Júnior, 1089, lojas 108/109-S, piso superior). Segundo a central de ajuda, a operação provisória que funcionava ali encerrou em 17 de setembro, e a nova Concept Store Insider abre ao público em 9 de outubro de 2026, de segunda a sábado, das 10h às 22h, e aos domingos e feriados, das 14h às 20h.",
+          "É uma boa opção para quem quer provar antes de comprar, principalmente as peças de underwear, que não têm troca por tamanho. A loja aceita Pix, dinheiro e cartão de débito ou crédito, com parcelamento em até 3 vezes sem juros, e emite nota fiscal na hora.",
+          "Alguns detalhes funcionam de outro jeito na loja física. Os cupons de desconto e o cashback são exclusivos do site, então o EMCASACOMCECILIA não vale lá; as compras presenciais acumulam pontos no programa de fidelidade da marca, mas o resgate é feito pelo site. Não dá para retirar na loja um pedido feito online, e a troca precisa ser feita no mesmo canal da compra. Para quem compra na loja, a central informa 7 dias para devolução por arrependimento e 30 dias para troca por insatisfação."
+        ]
+      },
+      {
+        "heading": "E a reputação no Reclame Aqui?",
+        "paragraphs": [
+          "Na página da Insider Store no Reclame Aqui, a empresa tem a reputação **RA1000**, a mais alta da plataforma, e o selo de empresa verificada. Nos seis meses de 1º de abril a 30 de setembro de 2026, foram 1.593 reclamações, com 99,4% respondidas e 92,6% resolvidas, e tempo médio de resposta de 2 dias e 3 horas. A nota geral da empresa no período é 9,0; a nota média dada pelos consumidores que avaliaram o atendimento ficou em 8,27, e 86% deles disseram que voltariam a fazer negócio com a loja.",
+          "Os números não significam ausência de problemas. Nos registros dos últimos três anos, **produto não recebido** é o problema mais citado, e camisetas são o produto com mais reclamações. Entre as queixas mais recentes há relatos de peças que rasgaram nas primeiras lavagens e de pedidos cancelados depois da compra, todas já respondidas pela empresa. O que a reputação mostra é que, quando algo dá errado, a Insider costuma responder e resolver."
+        ],
+        "links": [
+          {
+            "label": "Insider Store no Reclame Aqui: nota, reclamações e como reclamar",
+            "href": "/reviews/insider-store-reclame-aqui-nota-reputacao"
+          }
+        ]
+      },
+      {
+        "heading": "O que eu observaria antes de comprar",
+        "bullets": [
+          "Confira se está em insiderstore.com.br antes de digitar qualquer dado de pagamento.",
+          "Use o Guia de medidas da página do produto, principalmente em cuecas, calcinhas e moda praia, que não têm troca por tamanho.",
+          "Experimente a peça sem tirar a etiqueta. Sem ela, a troca por insatisfação não é aceita.",
+          "Acompanhe o rastreio e, se o pedido atrasar, chame o atendimento pelo WhatsApp logo, sem esperar o prazo de troca acabar.",
+          "Na Tech T-Shirt, siga a etiqueta de lavagem: é a condição da garantia de 2 anos contra desbotamento.",
+          "Se tiver mais de um cupom, teste cada um no carrinho, porque só um entra por pedido."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Insider e pode receber comissão pelas compras feitas com o cupom **EMCASACOMCECILIA**. O cupom vale nas compras do site oficial, inclusive no Outlet, mas não vale em lançamentos nem na loja física, e não se soma a outros cupons.",
+          "A forma mais simples de usar é entrar pelo link da parceria, que abre a loja com o cupom já aplicado no carrinho. No checkout, cada produto mostra se o desconto entrou, então dá para conferir item por item antes de pagar."
+        ],
+        "links": [
+          {
+            "label": "Abrir a Insider com o cupom aplicado",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "sponsored": true
+          },
+          {
+            "label": "Passo a passo do cupom EMCASACOMCECILIA no checkout",
+            "href": "/reviews/cupom-emcasacomcecilia-insider-store-como-usar"
+          }
+        ]
+      },
+      {
+        "heading": "Vale a pena comprar na Insider Store?",
+        "paragraphs": [
+          "Do ponto de vista da confiança, sim. A empresa existe há quase dez anos com o mesmo CNPJ, publica suas regras com clareza, faz troca e devolução sem custo e mantém a reputação máxima no Reclame Aqui, respondendo a praticamente todas as reclamações. Agora, com a loja no MorumbiShopping, também dá para ver e provar as peças antes de decidir.",
+          "Os cuidados ficam por conta da entrega, que concentra boa parte das reclamações, e das regras de higiene, que impedem a troca de underwear por tamanho. Também vale ter em mente que a proposta da marca é pagar mais por peças básicas que durem e exijam menos cuidado; se o que você procura é a camiseta mais barata possível, a Insider não é a loja para isso."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Insider Store é confiável? Sim. A empresa tem CNPJ ativo desde 2016, publica suas políticas no site, oferece troca e devolução gratuitas e tem reputação RA1000 no Reclame Aqui, a mais alta da plataforma.",
+          "Qual é o CNPJ da Insider Store? É 26.520.188/0001-92, da Insider Comércio e Confecção de Peças do Vestuário Ltda., com sede em São Paulo.",
+          "Qual é o site oficial da Insider? É insiderstore.com.br. A central de ajuda fica em suporte.insiderstore.com.br.",
+          "A Insider tem loja física? Sim, no MorumbiShopping, em São Paulo. A nova Concept Store abre em 9 de outubro de 2026, de segunda a sábado, das 10h às 22h, e aos domingos e feriados, das 14h às 20h.",
+          "Como falar com a Insider? Pelo WhatsApp, que é o canal oficial de atendimento, de segunda a sexta, das 9h às 18h. O link fica na central de ajuda do site.",
+          "A troca na Insider é grátis? Sim. Segundo a central de ajuda, a troca e a devolução são gratuitas, com código de postagem nos Correios, armário inteligente ou coleta em casa.",
+          "Quanto tempo tenho para trocar na Insider? São 7 dias úteis para arrependimento, 21 dias corridos para insatisfação com tamanho, cor ou modelo, e 180 dias para defeito, sempre contados a partir do recebimento.",
+          "Posso trocar cueca ou calcinha da Insider? Só em caso de defeito de fabricação. Por higiene, underwear e beachwear não têm troca por tamanho ou arrependimento.",
+          "Como lavar a Tech T-Shirt? No ciclo delicado em até 30 °C, com sabão neutro, sem alvejante nem amaciante, secando à sombra e sem secadora. Seguir a etiqueta é condição da garantia de 2 anos contra desbotamento.",
+          "A Insider tem vagas de emprego? Sim. A marca divulga as vagas abertas na plataforma InHire (insiderstore.inhire.app) e no LinkedIn, e conta como é trabalhar na empresa em jobs.insiderstore.com.br.",
+          "O que é a Insider Business? É a frente de vendas da Insider para empresas, com uniformes, kits para funcionários e brindes corporativos. O contato é feito por um formulário no site.",
+          "O cupom EMCASACOMCECILIA vale na loja física? Não. O cupom vale só nas compras do site oficial, exceto lançamentos, e não se soma a outros cupons."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Se a Insider faz sentido para você, entre pelo link da parceria: o cupom EMCASACOMCECILIA já vai aplicado no carrinho.",
+      "label": "Ir para a Insider com o cupom",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo cupom EMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
+        "title": "Cupom Insider Store: como usar o EMCASACOMCECILIA no checkout"
+      },
+      {
+        "slug": "insider-store-reclame-aqui-nota-reputacao",
+        "title": "Insider Store no Reclame Aqui: nota, reclamações e pós-venda"
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "slug": "insider-store-reclame-aqui-nota-reputacao",
+    "title": "Insider Store no Reclame Aqui: nota, reclamações e o que os dados mostram",
+    "seoTitle": "Insider Store no Reclame Aqui: nota, reclamações e pós-venda",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os números da Insider Store no Reclame Aqui: reputação RA1000, nota 9,0 nos últimos 6 meses, 99,4% das reclamações respondidas e 92,6% resolvidas. Veja o que mais gera queixa, como a loja responde e os dois alertas recentes.",
+    "metaDescription": "Insider Store no Reclame Aqui: reputação RA1000, nota 9,0 e 92,6% de solução. Veja as queixas mais comuns, como a loja responde e como reclamar.",
+    "publishedAt": "5 de outubro de 2026",
+    "publishedAtISO": "2026-10-05",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/insider/insider-reclame-aqui-hero-perfil.webp",
+    "imageAlt": "Perfil da Insider Store no Reclame Aqui, na categoria Moda - E-commerce - Moda, com selo de empresa verificada e reputação RA 1000",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "heroCompact": true,
+    "pros": [
+      "Reputação RA1000 em todos os períodos do perfil: 6 meses, 12 meses, 2025, 2024 e geral",
+      "99,4% das reclamações respondidas nos últimos 6 meses",
+      "92,6% das reclamações avaliadas foram consideradas resolvidas",
+      "Tempo médio de resposta de 2 dias e 3 horas nos últimos 6 meses",
+      "86% de quem avaliou o atendimento voltaria a fazer negócio",
+      "9º lugar no ranking de melhores empresas de e-commerce de moda do Reclame Aqui"
+    ],
+    "cons": [
+      "Produto não recebido e atraso na entrega somam mais de 4.600 reclamações em três anos",
+      "Má qualidade e defeito aparecem em quase 2.500 reclamações no mesmo período",
+      "O semestre de Black Friday e Natal concentrou mais de dois terços das queixas do último ano",
+      "Respostas sobre peças rasgadas citam os 90 dias do CDC, prazo menor que o da política da loja",
+      "Pedidos feitos com um cupom vazado em sites de cupons foram cancelados",
+      "Fora do Reclame Aqui, o atendimento é só por WhatsApp, em dias úteis"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "A Insider Store tem reputação **RA1000**, a mais alta do Reclame Aqui, com nota 9,0 nos últimos seis meses (1º de abril a 30 de setembro de 2026). A empresa está verificada pela plataforma e aparece no perfil há 9 anos.",
+          "No período, foram 1.593 reclamações: 99,4% respondidas e 92,6% resolvidas, segundo quem avaliou. A resposta média saiu em 2 dias e 3 horas, e 86% disseram que voltariam a comprar.",
+          "O que mais gera queixa é a entrega. Em três anos, \"produto não recebido\" e \"atraso na entrega\" somam mais de 4.600 reclamações. Depois vêm má qualidade, troca e devolução e defeito.",
+          "Dois alertas recentes: pedidos feitos com um cupom pessoal que vazou em sites de cupons foram cancelados, e há relatos de mensagens de golpe em nome da marca.",
+          "Se algo der errado, o primeiro caminho é o WhatsApp da Insider. O Reclame Aqui é a segunda instância, quando o atendimento direto não resolve."
+        ]
+      },
+      {
+        "heading": "Por que olhar o Reclame Aqui antes de comprar na Insider",
+        "paragraphs": [
+          "A Insider vende quase tudo pela internet, em todo o país, e trabalha com peças mais caras que a média das camisetas básicas. Para quem vai comprar pela primeira vez, a dúvida é menos sobre a roupa e mais sobre o que acontece se o pacote atrasar, se a peça vier com defeito ou se o tamanho não servir.",
+          "Uma loja desse tamanho sempre vai ter reclamações. O que o Reclame Aqui ajuda a medir é outra coisa: se a empresa responde, se resolve, quanto tempo leva e quais problemas se repetem. Para este artigo, consultamos em 5 de outubro de 2026 todas as abas de desempenho do perfil da Insider Store, a lista de principais problemas dos últimos três anos e as respostas da empresa às reclamações mais recentes. Os números do Reclame Aqui mudam todos os dias, então vale abrir o perfil de novo no dia da sua compra."
+        ]
+      },
+      {
+        "heading": "Os números da Insider Store no Reclame Aqui",
+        "paragraphs": [
+          "Estes são os indicadores da aba de 6 meses, que é a janela usada para a reputação exibida no topo do perfil:"
+        ],
+        "comparisonTable": {
+          "caption": "Perfil da Insider Store no Reclame Aqui, aba de 6 meses (dados de 01/04/2026 a 30/09/2026), consultado em 05/10/2026.",
+          "headers": [
+            "Indicador",
+            "Resultado",
+            "De onde sai o número"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "RA1000 — nota 9,0/10",
+              "Combinação dos quatro índices abaixo, com pesos definidos pelo Reclame Aqui"
+            ],
+            [
+              "Reclamações recebidas",
+              "1.593",
+              "Todas as reclamações abertas no período"
+            ],
+            [
+              "Reclamações respondidas",
+              "99,4% (10 aguardando)",
+              "Reclamações com resposta pública da empresa"
+            ],
+            [
+              "Reclamações resolvidas",
+              "92,6%",
+              "Entre as 994 avaliadas, as que o consumidor marcou como resolvidas"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "86%",
+              "Entre as 994 avaliadas, quem disse que compraria de novo"
+            ],
+            [
+              "Nota média do consumidor",
+              "8,27",
+              "Média das notas de 0 a 10 dadas nas avaliações"
+            ],
+            [
+              "Tempo médio de resposta",
+              "2 dias e 3 horas",
+              "Tempo médio que a empresa levou para responder no período"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A nota 9,0 bate com a fórmula pública do Reclame Aqui, que dá peso 2 ao índice de resposta e à intenção de voltar a fazer negócio, e peso 3 ao índice de solução e à nota do consumidor. Ou seja, o que mais pesa é se o problema foi resolvido e como o cliente avaliou o atendimento, não só se a empresa respondeu.",
+          "Também vale entender que as porcentagens de solução e de recompra saem só das reclamações avaliadas, que foram 994 das 1.593. Quem não volta ao site para avaliar não entra nessa conta."
+        ],
+        "links": [
+          {
+            "label": "Perfil da Insider Store no Reclame Aqui",
+            "href": "https://www.reclameaqui.com.br/empresa/insider-store/"
+          },
+          {
+            "label": "Como o Reclame Aqui calcula a reputação",
+            "href": "https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui"
+          }
+        ],
+        "image": "/images/reviews/insider/insider-reclame-aqui-reputacao-6-meses-2026-09.webp",
+        "imageAlt": "Painel do Reclame Aqui da Insider Store nos últimos 6 meses: reputação RA1000, nota 9.0/10, 1.593 reclamações recebidas, 99,4% respondidas, 10 aguardando resposta, 92,6% resolvidas, 86% voltariam a fazer negócio, 994 avaliadas, nota do consumidor 8,27 e tempo médio de resposta de 2 dias e 3 horas, com dados de 01/04/2026 a 30/09/2026",
+        "imageCaption": "Painel de reputação da aba de 6 meses (dados de 01/04/2026 a 30/09/2026).",
+        "imageFit": "portrait",
+        "imageAspectRatio": 0.7354
+      },
+      {
+        "heading": "Como a reputação evoluiu de 2024 para cá",
+        "paragraphs": [
+          "Olhar só os últimos seis meses pode esconder a sazonalidade. Por isso, comparamos todas as abas do perfil:"
+        ],
+        "comparisonTable": {
+          "caption": "Abas de desempenho da Insider Store no Reclame Aqui, consultadas em 05/10/2026. A aba de 12 meses cobre de 01/10/2025 a 30/09/2026.",
+          "headers": [
+            "Período",
+            "Nota",
+            "Reclamações",
+            "Resolvidas",
+            "Voltariam",
+            "Nota do consumidor"
+          ],
+          "rows": [
+            [
+              "Últimos 6 meses",
+              "9,0",
+              "1.593",
+              "92,6%",
+              "86%",
+              "8,27"
+            ],
+            [
+              "Últimos 12 meses",
+              "8,7",
+              "5.013",
+              "91,4%",
+              "82,4%",
+              "7,87"
+            ],
+            [
+              "2025",
+              "9,0",
+              "5.637",
+              "94,3%",
+              "86,1%",
+              "8,2"
+            ],
+            [
+              "2024",
+              "9,0",
+              "3.826",
+              "94,1%",
+              "85,4%",
+              "8,19"
+            ],
+            [
+              "Geral",
+              "8,9",
+              "13.388",
+              "93,2%",
+              "84,6%",
+              "8,1"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A reputação ficou no nível máximo em todos os períodos, mas a tabela mostra duas coisas. A primeira é o volume: as reclamações passaram de 3.826 em 2024 para 5.637 em 2025, sem queda nos índices de solução, que ficaram acima de 94% nos dois anos. O atendimento também ficou mais rápido: o tempo médio de resposta caiu de 4 dias e 10 horas em 2024 para 2 dias e 3 horas no último semestre.",
+          "A segunda é a sazonalidade. Das 5.013 reclamações dos últimos 12 meses, só 1.593 são do semestre mais recente; as outras cerca de 3.400, mais de dois terços, vieram de outubro de 2025 a março de 2026, o período que inclui Black Friday e Natal. Fazendo a conta com os números do perfil, a nota média dada pelos consumidores nesse semestre de pico ficou em torno de 7,7, abaixo dos 8,27 do semestre seguinte. Na prática, quem compra nas grandes datas tem mais chance de enfrentar atraso e uma fila maior no atendimento."
+        ]
+      },
+      {
+        "heading": "O que mais aparece nas reclamações",
+        "paragraphs": [
+          "O Reclame Aqui agrupa as reclamações dos últimos três anos por tipo de problema e por produto. Na Insider Store, a lista de problemas é liderada, com folga, pela entrega:"
+        ],
+        "bullets": [
+          "Produto não recebido: 2.745 reclamações, o problema mais citado.",
+          "Atraso na entrega: 1.933.",
+          "Má qualidade: 1.649.",
+          "Troca ou devolução de produto: 1.307.",
+          "Propaganda enganosa: 888.",
+          "Produto com defeito: 812.",
+          "Estorno do valor pago: 799.",
+          "Mau atendimento: 438."
+        ],
+        "postParagraphs": [
+          "Somados, produto não recebido e atraso respondem por mais de 4.600 reclamações, bem mais que qualquer queixa sobre as roupas em si. Má qualidade e defeito, juntos, passam de 2.400. Entre os produtos, as camisetas lideram com 4.866 reclamações, seguidas por blusas (1.116) e cuecas (718).",
+          "Há também um dado curioso para quem pesquisa a Insider por causa da promessa de não desbotar: a categoria \"desbotou\" tem só 9 reclamações em três anos. Já entre as queixas mais recentes aparecem relatos de peças que rasgaram nas primeiras semanas de uso, como cuecas Boxer Comfort e a camiseta Performance 2.0, e de camisetas com bolinhas depois de alguns meses."
+        ],
+        "image": "/images/reviews/insider/insider-reclame-aqui-principais-problemas.webp",
+        "imageAlt": "Principais problemas comentados no perfil da Insider Store no Reclame Aqui: Moda Masculina com 34,2% na categoria, Produto não recebido com 20,5% nos problemas e Camisetas com 36,34% nos produtos",
+        "imageCaption": "Principais problemas no perfil da Insider Store, com reclamações de até 3 anos (consulta em 05/10/2026).",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.7561
+      },
+      {
+        "heading": "Como a Insider responde às reclamações",
+        "paragraphs": [
+          "Nas reclamações mais recentes que lemos, as respostas chegaram em menos de dois dias, assinadas por uma pessoa da equipe de atendimento, a Customer Happiness Team, e não por uma mensagem genérica. O padrão é parecido: a empresa diz que analisou o caso, que enviou a solução para o e-mail de cadastro do cliente e pede para conferir também a caixa de spam. Por isso, quem reclama precisa acompanhar o e-mail, não só a página do Reclame Aqui.",
+          "Em um caso de camiseta com a costura aberta, a resposta informou que o cliente não precisaria devolver a peça. Nas reclamações sobre peças rasgadas, porém, a equipe citou o prazo de garantia legal do Código de Defesa do Consumidor, de 90 dias para vícios aparentes. A política de trocas publicada no site da Insider é mais generosa e fala em até 180 dias corridos para defeito. Se o seu problema aparecer depois de 90 dias, vale citar a política da própria loja ao pedir a solução.",
+          "A página da empresa no Reclame Aqui informa um tempo de resposta de até 3 dias úteis, em linha com a média de 2 dias e 3 horas registrada nos últimos seis meses."
+        ]
+      },
+      {
+        "heading": "Alerta 1: cupons vazados e pedidos cancelados",
+        "paragraphs": [
+          "Entre as reclamações mais recentes há clientes que fizeram pedidos em setembro de 2026 e tiveram a compra cancelada dias depois. Na resposta pública, a Insider explicou que esses pedidos usaram um cupom de R$ 250 de uso pessoal, criado para um grupo específico de clientes, que acabou divulgado em sites de cupons sem autorização da marca. Segundo a empresa, todos os pedidos feitos com esse código foram cancelados e o valor pago foi estornado.",
+          "A Insider afirmou ainda que as promoções oficiais são divulgadas nos próprios canais da marca: site, e-mails da Insider e redes sociais verificadas. A lição é simples: desconfie de cupons com desconto alto demais encontrados em sites de cupons, porque o pedido pode ser cancelado depois de pago. O EMCASACOMCECILIA é um cupom de criador do programa oficial de parceria da Insider, feito para ser divulgado."
+        ]
+      },
+      {
+        "heading": "Alerta 2: mensagens de golpe em nome da Insider",
+        "paragraphs": [
+          "Também há reclamações recentes de clientes que dizem ter recebido mensagens suspeitas pelo WhatsApp, com dados pessoais, depois de comprar ou tentar comprar na loja. Na resposta, a Insider disse que a segurança dos dados é prioridade, que os comunicados oficiais saem só dos domínios verificados da marca e que a empresa não pede pagamentos inesperados.",
+          "Se receber uma cobrança ou um link em nome da Insider fora do esperado, não pague e não clique. Confira o status do pedido entrando você mesmo em insiderstore.com.br e, em caso de dúvida, fale com o atendimento oficial."
+        ]
+      },
+      {
+        "heading": "Se o seu pedido der problema: o que fazer",
+        "paragraphs": [
+          "Pelo que os dados mostram, a maior parte dos problemas é resolvida. Seguir a ordem certa costuma encurtar o caminho:"
+        ],
+        "bullets": [
+          "Fale primeiro com a Insider pelo WhatsApp, o canal oficial de atendimento, de segunda a sexta, das 9h às 18h. Tenha em mãos o número do pedido, no formato IN-XXXXX.",
+          "Para troca ou devolução, use o Portal de Trocas dentro dos prazos: 7 dias úteis para arrependimento, 21 dias corridos para insatisfação e 180 dias para defeito. Underwear e beachwear só têm troca por defeito.",
+          "Em caso de defeito, fotografe a peça e a etiqueta. O portal pede pelo menos duas imagens.",
+          "Se o pedido não chegar, acompanhe o rastreio e acione o atendimento assim que o prazo vencer, sem esperar semanas.",
+          "Se o atendimento direto não resolver, abra uma reclamação no Reclame Aqui, que exige cadastro na plataforma. Depois da resposta, avalie a solução: é essa avaliação que alimenta os índices de solução e de recompra."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Insider e pode receber comissão pelas compras feitas com o cupom **EMCASACOMCECILIA**. Isso não muda os números deste artigo, que são todos do perfil público da empresa no Reclame Aqui.",
+          "O cupom vale nas compras do site oficial, inclusive no Outlet, mas não vale em lançamentos nem na loja física, e não se soma a outros cupons. Pelo link da parceria, ele já entra aplicado no carrinho, e cada produto mostra no checkout se o desconto foi aceito."
+        ],
+        "links": [
+          {
+            "label": "Ver as regras do cupom da Insider",
+            "href": "/cupons/insider"
+          },
+          {
+            "label": "Abrir a Insider pelo link da parceria",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "sponsored": true
+          },
+          {
+            "label": "A Insider Store é confiável? CNPJ, loja física e trocas",
+            "href": "/reviews/insider-store-e-confiavel"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é a nota da Insider Store no Reclame Aqui? A Insider Store tem reputação RA1000, com nota 9,0 nos últimos seis meses (abril a setembro de 2026) e 8,7 nos últimos 12 meses.",
+          "A Insider Store é confiável segundo o Reclame Aqui? Os dados indicam que sim: a empresa respondeu 99,4% das reclamações dos últimos seis meses, resolveu 92,6% das avaliadas e mantém a reputação máxima em todos os períodos do perfil.",
+          "Qual é a reclamação mais comum contra a Insider? Produto não recebido, com 2.745 reclamações em três anos, seguido de atraso na entrega, com 1.933.",
+          "Quanto tempo a Insider demora para responder no Reclame Aqui? A média dos últimos seis meses foi de 2 dias e 3 horas. A própria empresa informa um prazo de até 3 dias úteis.",
+          "Por que a Insider cancelou meu pedido feito com cupom? No fim de setembro de 2026, a Insider cancelou e estornou pedidos feitos com um cupom pessoal de R$ 250 que vazou em sites de cupons. Segundo a empresa, as promoções oficiais saem só nos canais da marca.",
+          "A Insider vende roupa que desbota? A categoria \"desbotou\" tem apenas 9 reclamações em três anos no Reclame Aqui. A Tech T-Shirt tem garantia de 2 anos contra desbotamento, desde que a etiqueta de lavagem seja seguida.",
+          "Como reclamar da Insider? Comece pelo WhatsApp oficial da loja, em dias úteis, das 9h às 18h. Se não resolver, abra uma reclamação no Reclame Aqui, que exige cadastro, e acompanhe a resposta também pelo e-mail.",
+          "Qual é o prazo de garantia para defeito na Insider? A política de trocas da loja dá até 180 dias corridos após o recebimento para defeito, com envio de fotos. Em algumas respostas, a equipe citou o prazo legal de 90 dias do CDC.",
+          "O cupom EMCASACOMCECILIA pode ser cancelado como os cupons vazados? Não há motivo para isso: o EMCASACOMCECILIA é um cupom de criador do programa oficial de parceria da Insider, feito para ser divulgado. Ele vale no site, exceto em lançamentos, e só um cupom entra por pedido."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Se os números te deram segurança para comprar, entre pelo link da parceria: o cupom EMCASACOMCECILIA já vai aplicado no carrinho.",
+      "label": "Ir para a Insider com o cupom",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo EMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "insider-store-e-confiavel",
+        "title": "Insider Store é confiável? CNPJ, loja física, trocas e reputação"
+      },
+      {
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
+        "title": "Cupom Insider Store: como usar o EMCASACOMCECILIA no checkout"
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
+    "title": "Cupom Insider Store: como usar o EMCASACOMCECILIA no checkout",
+    "seoTitle": "Como Usar o Cupom Insider Store EMCASACOMCECILIA no Checkout",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Como usar o cupom EMCASACOMCECILIA na Insider Store: passo a passo com o link que já aplica o código, onde o cupom vale, lançamentos, Outlet, frete grátis, primeira compra e o que comprar.",
+    "metaDescription": "Cupom Insider Store EMCASACOMCECILIA: veja como aplicar no checkout, onde vale (Outlet e kits), as exceções, o frete grátis e o cupom de primeira compra.",
+    "publishedAt": "5 de outubro de 2026",
+    "publishedAtISO": "2026-10-05",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/insider/insider-cupom-hero-oficial.webp",
+    "imageAlt": "Fotos oficiais da Insider: Tech T-Shirt masculina preta, Tech T-Shirt feminina, Undershirt branca sob camisa e kit com três Tech T-Shirts femininas",
+    "imageFit": "cover",
+    "imageAspect": "square",
+    "pros": [
+      "No nosso teste, o desconto entrou em camiseta, undershirt, kit e até numa meia de R$ 25",
+      "Funcionou em peças do Outlet e em kits que já estavam com preço promocional",
+      "O link da parceria já leva o cupom para o carrinho",
+      "O checkout mostra o desconto em cada item antes do pagamento"
+    ],
+    "cons": [
+      "Não vale para lançamentos nem nas lojas físicas",
+      "A loja aceita um cupom por pedido",
+      "O frete grátis depende do valor do pedido depois do desconto",
+      "Underwear e beachwear só têm troca em caso de defeito"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: como usar o cupom da Insider",
+        "bullets": [
+          "O cupom da parceria do Em Casa com Cecília na Insider Store é **EMCASACOMCECILIA**.",
+          "Entre pelo link da parceria (o cupom já vai para o carrinho) ou digite o código no campo **Cupom de desconto ou Gift Card** do checkout.",
+          "O cupom vale nas compras da loja online, inclusive no Outlet e em kits. Não vale para lançamentos nem nas lojas físicas.",
+          "A loja aceita **um cupom por pedido**: ele não soma com outro código.",
+          "O valor do desconto aparece em cada item do resumo do pedido. Por regra do programa da Insider, não divulgamos o percentual.",
+          "O frete é grátis acima de R$ 399, e esse valor é calculado depois do desconto do cupom."
+        ]
+      },
+      {
+        "heading": "O que é o cupom EMCASACOMCECILIA",
+        "paragraphs": [
+          "A Insider é uma marca brasileira de roupas com tecnologia têxtil, conhecida pela Tech T-Shirt, a camiseta de modal que a própria marca chama de \"a original desde 2019\". Ela vende camisetas, underwear, roupas esportivas, peças femininas e acessórios principalmente pelo site, o insiderstore.com.br.",
+          "O **EMCASACOMCECILIA** é o cupom de creator do Em Casa com Cecília dentro do Insider Creators Club, o programa de parcerias da marca, administrado pela plataforma Inbazz. Na prática, é um código exclusivo, ligado ao nosso perfil: quando você compra com ele, a Insider identifica que a venda veio daqui e o blog recebe uma comissão, sem nenhum custo extra para você.",
+          "Uma pergunta frequente é por que este artigo não diz de quanto é o desconto. A resposta está nas regras do programa: o FAQ oficial do Insider Creators Club proíbe os parceiros de divulgar o percentual do cupom, em qualquer canal. O combinado é orientar você a usar o código no momento da compra e conferir o valor no carrinho. E o checkout da Insider mostra isso com clareza: cada produto ganha uma linha **Código de desconto** com o valor abatido em reais, e o rodapé do resumo mostra a **economia total** do pedido.",
+          "Isso também ajuda a separar o cupom verdadeiro dos que aparecem em sites agregadores. Quem pesquisa \"cupom insider\" encontra códigos com números no nome e promessas de desconto que nem sempre funcionam. O EMCASACOMCECILIA é o código entregue pela própria Insider para esta parceria, e o teste mais simples é o do carrinho: se ele for aceito, a linha do desconto aparece em cada item."
+        ],
+        "links": [
+          {
+            "label": "Ver regras e validade do cupom Insider",
+            "href": "/cupons/insider"
+          }
+        ]
+      },
+      {
+        "heading": "1. Entre na loja pelo link da parceria",
+        "paragraphs": [
+          "O caminho mais fácil começa pelo link da parceria, nos botões deste artigo. Ele abre a loja da Insider já com o EMCASACOMCECILIA carregado no carrinho e cai direto na seção de Outlet, onde ficam as peças com preço remarcado.",
+          "Você não precisa ficar no Outlet: dá para navegar por todas as categorias, como camisetas, underwear, roupas esportivas e a linha feminina, e o cupom continua na sessão. Use sempre o link completo, como ele está aqui: a Insider pede que o link da parceria não seja editado nem encurtado, porque é ele que identifica a origem da compra."
+        ],
+        "links": [
+          {
+            "label": "Abrir a Insider com o cupom no carrinho",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "2. Escolha as peças e confira o tamanho",
+        "paragraphs": [
+          "Monte o carrinho com calma. Nas páginas de produto, a Insider tem um **Guia de medidas** para comparar as medidas do corpo com a tabela de cada modelo, o que ajuda bastante quando é a primeira compra na marca. A Tech T-Shirt, por exemplo, tem versão masculina e feminina, com modelagens diferentes, e várias peças são vendidas também em kits de 2, 3 ou 5 unidades.",
+          "Vale prestar atenção ao tipo de peça antes de fechar o pedido. Pela política de trocas da Insider, peças das linhas underwear e beachwear só podem ser trocadas ou devolvidas em caso de defeito comprovado, por questão de higiene. Então, se você está em dúvida entre dois tamanhos de cueca ou calcinha, confira o guia de medidas antes de comprar.",
+          "Com o carrinho pronto, siga para o checkout. Ele é dividido em quatro etapas (Carrinho, Informações, Frete e Pagamento) e, no computador, o resumo do pedido fica à direita, com os produtos, as variações escolhidas e o campo do cupom logo abaixo da lista."
+        ],
+        "image": "/images/reviews/insider/insider-passo-2-checkout.webp",
+        "imageAlt": "Checkout da Insider no computador, na etapa Informações, com o campo de e-mail à esquerda e, à direita, o resumo do pedido com Tech T-Shirt Feminina, Casaco Feminino Wingsuit e Core T-Shirt, seguido do campo Cupom de desconto ou Gift Card",
+        "imageCaption": "Checkout da Insider: resumo do pedido à direita e o campo do cupom logo abaixo dos produtos.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.6095
+      },
+      {
+        "heading": "3. Digite EMCASACOMCECILIA e clique em Aplicar",
+        "paragraphs": [
+          "No resumo do pedido, procure o campo **Cupom de desconto ou Gift Card**. Se você entrou pelo link da parceria, o EMCASACOMCECILIA já chega aplicado e você pode ir direto para o próximo passo.",
+          "Se o código não estiver ali, digite EMCASACOMCECILIA no campo e clique em **Aplicar**. Ao colar o código, confira se não ficou nenhum espaço antes ou depois, porque isso pode fazer o sistema recusar o cupom.",
+          "No celular, o resumo do pedido fica recolhido no topo da tela. Toque em **Resumo do pedido** para abrir a lista de produtos, o campo do cupom e os valores."
+        ],
+        "image": "/images/reviews/insider/insider-passo-3-digite-cupom.webp",
+        "imageAlt": "Resumo do pedido no checkout da Insider com o código EMCASACOMCECILIA digitado no campo Cupom de desconto ou Gift Card e o botão Aplicar",
+        "imageCaption": "Campo Cupom de desconto ou Gift Card com o EMCASACOMCECILIA digitado, antes de clicar em Aplicar.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.0346
+      },
+      {
+        "heading": "4. Confira o desconto em cada item antes de pagar",
+        "paragraphs": [
+          "Quando o cupom é aceito, aparece a mensagem **Melhor desconto ativado**, avisando que o cupom está ativo e com o melhor desconto disponível. O código fica numa etiqueta logo abaixo do campo; o **×** ao lado dela remove o cupom, caso você queira usar outro no lugar, já que a Insider aceita só um por pedido.",
+          "Em seguida, cada produto do resumo mostra a linha **Código de desconto — EMCASACOMCECILIA**, com o valor abatido, o preço original e o preço com desconto. No fim do resumo aparece a **economia total** do pedido. Se algum item ficar sem essa linha, é porque ele não entra no cupom, como acontece com os lançamentos.",
+          "Depois disso, é só preencher os dados de entrega e escolher o pagamento. Pelos termos de uso da loja, as opções são Pix à vista, Pix parcelado em até 4 vezes sem juros, cartão de crédito em até 3 vezes sem juros (ou de 4 a 10 vezes com juros) e boleto à vista."
+        ],
+        "image": "/images/reviews/insider/insider-passo-4-desconto-ativado.webp",
+        "imageAlt": "Mensagem Melhor desconto ativado no checkout da Insider, com a etiqueta do cupom EMCASACOMCECILIA abaixo do campo Cupom de desconto ou Gift Card",
+        "imageCaption": "Cupom aceito: mensagem Melhor desconto ativado e a etiqueta do EMCASACOMCECILIA abaixo do campo.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.3427
+      },
+      {
+        "heading": "Onde o cupom vale: o que o nosso teste mostrou",
+        "paragraphs": [
+          "As regras oficiais do programa são curtas: o cupom vale nas compras da loja online, não vale para **produtos de lançamento**, não vale nas **lojas físicas** da Insider e não é cumulativo com outro cupom, porque a loja aceita só um por pedido.",
+          "Para saber como isso funciona no dia a dia, testamos o cupom no checkout oficial em 5 de outubro de 2026, sem finalizar a compra. O desconto entrou numa Tech T-Shirt, numa Undershirt Antissuor, num kit com três Tech T-Shirts femininas que já estava com preço promocional e numa peça do Outlet. Também testamos uma meia de R$ 25 sozinha no carrinho, e o desconto entrou: não encontramos valor mínimo de pedido para usar o cupom.",
+          "Num vestido marcado como lançamento, o cupom não deu desconto, como diz a regra. Um detalhe: a etiqueta de lançamento que aparece no site não é um guia confiável, porque produtos com essa marcação, como a própria Tech T-Shirt, receberam o desconto normalmente. O jeito seguro de saber é o resumo do pedido, que mostra item por item o que entrou no cupom."
+        ],
+        "bullets": [
+          "**Vale:** loja online da Insider, inclusive Outlet, kits e peças com preço promocional.",
+          "**Não vale:** produtos de lançamento e compras nas lojas físicas.",
+          "**Não soma:** com outro cupom no mesmo pedido.",
+          "**Marketplaces:** o EMCASACOMCECILIA é usado no checkout do site da Insider; em outras lojas e marketplaces o código não se aplica."
+        ]
+      },
+      {
+        "heading": "Frete grátis, primeira compra e outros cupons",
+        "paragraphs": [
+          "O cupom dá desconto nos produtos, não no frete. Pela política de frete da Insider, a entrega é grátis em compras **acima de R$ 399**, e esse valor é conferido **depois** do desconto do cupom. Se o desconto deixar o pedido abaixo de R$ 399, o frete passa a ser cobrado. O carrinho mostra quanto falta para o frete grátis, então vale olhar esse aviso antes de finalizar.",
+          "Quem procura **cupom Insider para primeira compra** pode usar o EMCASACOMCECILIA normalmente: ele não exige cadastro anterior nem conta na loja, e funcionou no nosso teste sem login. A própria Insider também oferece um **cupom de boas-vindas** para a primeira compra online: o código chega depois que você cadastra o e-mail no pop-up que aparece ao entrar no site. Segundo a central de ajuda da loja, se o pop-up não aparecer, vale conferir se ele não está bloqueado no navegador ou abrir o site numa aba anônima.",
+          "Há ainda o programa de indicação, o Member Get Member: a cada compra, o cliente recebe um cupom de R$ 150 para passar a alguém que nunca comprou na loja. Esse cupom vale em compras acima de R$ 399.",
+          "Como a loja aceita só um cupom por pedido, nenhum deles se soma ao outro. Se você tiver mais de um, a conta é simples: aplique um, veja o total, troque pelo outro e fique com o que deixar o pedido mais barato. Lembre que o cupom de indicação só entra em pedidos acima de R$ 399, e que o cupom de boas-vindas vale apenas na primeira compra."
+        ]
+      },
+      {
+        "heading": "O que comprar com o cupom",
+        "paragraphs": [
+          "Como o cupom entra em quase todo o catálogo online, a escolha depende mais da necessidade da casa do que da regra. Estas são as linhas mais procuradas da marca, com o que a própria Insider informa sobre cada uma:"
+        ],
+        "comparisonTable": {
+          "caption": "Linhas da Insider e o que a marca informa (site oficial, consultado em 5 de outubro de 2026)",
+          "headers": [
+            "Linha",
+            "Para quê",
+            "O que a Insider informa",
+            "Antes de comprar"
+          ],
+          "rows": [
+            [
+              "Tech T-Shirt (masculina e feminina)",
+              "Camiseta básica do dia a dia, trabalho e viagem",
+              "Tecido de modal com tecnologia antiodor, desamassa no corpo e tem garantia de 2 anos contra desbotamento",
+              "A garantia exige seguir a etiqueta: ciclo delicado, sem amaciante e secagem à sombra"
+            ],
+            [
+              "Kits de Tech T-Shirt",
+              "Renovar várias camisetas de uma vez",
+              "Kits de 3 e 5 peças, muitas vezes com preço de kit menor que o avulso",
+              "No teste, o cupom entrou também no kit promocional"
+            ],
+            [
+              "Undershirt Antissuor",
+              "Usar por baixo de camisa social",
+              "Camada dupla nas axilas, em versões Leve, Moderado e Block, conforme o nível de transpiração",
+              "Escolha a versão pelo quanto você transpira"
+            ],
+            [
+              "Underwear (cuecas e calcinhas)",
+              "Peças do dia a dia",
+              "Modelos Comfort e Performance, vendidos avulsos ou em kits",
+              "Só tem troca em caso de defeito: confira o guia de medidas"
+            ],
+            [
+              "Linha feminina",
+              "Camisetas, tops, leggings, saias e vestidos",
+              "Inclui Tech T-Shirt feminina, The Perfect Top e peças de alfaiataria tecnológica",
+              "Muitos lançamentos ficam de fora do cupom"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Tech T-Shirt é o produto mais conhecido da marca, e a garantia contra desbotamento é o argumento mais concreto da Insider: segundo os termos da loja, ela vale por 2 anos para peças compradas a partir de setembro de 2024, desde que a lavagem siga a etiqueta, com ciclo delicado em até 30 °C, sem deixar de molho, sem alvejante, sem amaciante e com secagem à sombra.",
+          "Os kits costumam ser a forma mais econômica de comprar várias peças, porque o preço por unidade já é menor. Com o cupom por cima e o pedido acima de R$ 399, o frete também sai grátis."
+        ],
+        "image": "/images/reviews/insider/insider-kit-cuecas-oficial.webp",
+        "imageAlt": "Foto oficial da Insider do kit com três cuecas boxer Comfort em azul-marinho e preto",
+        "imageCaption": "Kit de cuecas Boxer Comfort. Peças de underwear só têm troca em caso de defeito.",
+        "imageFit": "square"
+      },
+      {
+        "heading": "Se precisar trocar uma peça comprada com cupom",
+        "paragraphs": [
+          "Comprar com cupom não muda os seus direitos de troca. A política da Insider prevê troca por arrependimento em até 7 dias úteis, troca por insatisfação em até 21 dias corridos e troca por defeito em até 180 dias corridos, sempre contados do recebimento. Nas duas primeiras, a peça precisa estar nova, sem marcas de uso e com a etiqueta. A solicitação é feita pelo titular da compra, no portal de trocas da loja.",
+          "Na devolução, a Insider pode oferecer um cupom no lugar do estorno. Se você aceitar essa opção, ela não pode ser desfeita depois: o cupom vale por 6 meses, é de uso único e não se soma a outros descontos. Se preferir o dinheiro de volta, escolha o estorno no fluxo da devolução."
+        ],
+        "links": [
+          {
+            "label": "Como funcionam a troca e a garantia na Insider",
+            "href": "/reviews/insider-store-e-confiavel"
+          }
+        ]
+      },
+      {
+        "heading": "Vale a pena usar o cupom?",
+        "paragraphs": [
+          "Para quem já decidiu comprar na Insider, sim. O EMCASACOMCECILIA entra em quase todo o catálogo online, inclusive no Outlet e em kits que já têm preço promocional, não exige valor mínimo e mostra o desconto item por item antes do pagamento. As exceções são poucas e claras: lançamentos, lojas físicas e a soma com outro cupom.",
+          "O que eu observaria é o conjunto do pedido. Se o carrinho estiver perto de R$ 399, veja se o desconto não faz o pedido cair abaixo do frete grátis. E, se você tiver outro cupom da própria loja, como o de boas-vindas ou o de indicação, compare os dois antes de pagar, porque só um entra no pedido."
+        ],
+        "links": [
+          {
+            "label": "Ir para a Insider com o cupom EMCASACOMCECILIA",
+            "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+            "sponsored": true
+          },
+          {
+            "label": "A Insider Store no Reclame Aqui",
+            "href": "/reviews/insider-store-reclame-aqui-nota-reputacao"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Insider Store? O cupom da parceria do Em Casa com Cecília é EMCASACOMCECILIA, válido nas compras da loja online da Insider.",
+          "Quanto de desconto dá o cupom EMCASACOMCECILIA? O valor aparece em cada item do resumo do pedido assim que o cupom é aceito. Pelas regras do programa da Insider, o percentual não é divulgado.",
+          "Onde digito o cupom na Insider? No campo Cupom de desconto ou Gift Card do checkout, clicando em Aplicar. Pelo link da parceria, o cupom já vem aplicado.",
+          "O cupom Insider vale no Outlet? Sim. No nosso teste, o desconto entrou em peça do Outlet e em kit com preço promocional.",
+          "O cupom vale para lançamentos? Não. Produtos de lançamento ficam fora do cupom, e o resumo do pedido mostra quais itens receberam o desconto.",
+          "O cupom Insider é cumulativo? Não. A loja aceita um cupom por pedido, e descontos de cupons diferentes não se somam.",
+          "Tem cupom Insider para primeira compra? Sim. O EMCASACOMCECILIA vale também na primeira compra, e a própria Insider envia um cupom de boas-vindas a quem cadastra o e-mail no pop-up do site. Quem foi indicado por um cliente pode ter ainda um cupom de R$ 150 em compras acima de R$ 399. Só um cupom entra no pedido, então compare os valores no carrinho.",
+          "O cupom tem valor mínimo? Não encontramos valor mínimo: no nosso teste, o desconto entrou até numa meia de R$ 25.",
+          "O cupom da Insider dá frete grátis? Não. O frete é grátis em compras acima de R$ 399, calculadas depois do desconto do cupom.",
+          "O cupom vale nas lojas físicas da Insider? Não. O EMCASACOMCECILIA é para compras na loja online.",
+          "O cupom Insider vale no Mercado Livre ou na Shopee? Não. O EMCASACOMCECILIA é usado no checkout do site da Insider.",
+          "Comprar com o cupom ajuda o Em Casa com Cecília? Sim. A compra pode gerar comissão para o blog, sem custo extra para você."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Entre na Insider pelo link da parceria: o cupom EMCASACOMCECILIA já vai para o carrinho. Confira o desconto em cada item antes de pagar.",
+      "label": "Ir para a Insider com o cupom",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Cupom testado no checkout oficial da Insider. Podemos receber comissão.",
+    "relatedArticles": [
+      {
+        "slug": "insider-store-e-confiavel",
+        "title": "Insider Store é confiável?"
+      },
+      {
+        "slug": "insider-store-reclame-aqui-nota-reputacao",
+        "title": "Insider Store no Reclame Aqui: nota e reclamações"
+      }
+    ]
   }
 ];
