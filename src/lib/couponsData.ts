@@ -795,13 +795,13 @@ export const COUPONS: Coupon[] = [
     discount: 'Desconto exclusivo',
     offerActionLabel: 'ir para a loja',
     category: 'Moda e roupas tecnológicas',
-    shortDescription: 'compras online na Insider, exceto lançamentos',
+    shortDescription: 'produtos participantes da loja online, exceto lançamentos',
     longDescription:
-      'Código da Cecília para economizar em camisetas, underwear, roupas esportivas e acessórios com tecnologia têxtil na loja online da Insider. Não vale para lançamentos.',
+      'Código da Cecília para economizar em camisetas, underwear, roupas esportivas e acessórios com tecnologia têxtil na loja online da Insider. Vale para os produtos participantes, exceto lançamentos.',
     metaTitle: 'Cupom Insider Outubro 2026: EMCASACOMCECILIA na Loja Online',
     metaDescription:
       'Cupom Insider confirmado para outubro de 2026: use EMCASACOMCECILIA no checkout da loja online e confira o desconto no carrinho. Não vale para lançamentos nem nas lojas físicas.',
-    eligibleCategories: 'Produtos da loja online da Insider, exceto lançamentos',
+    eligibleCategories: 'Produtos participantes da loja online da Insider, exceto lançamentos',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
@@ -816,12 +816,12 @@ export const COUPONS: Coupon[] = [
       'Confira o desconto no resumo do pedido antes de pagar.',
     ],
     aboutBrand:
-      'A Insider é uma marca brasileira de roupas com tecnologia têxtil, que cria peças funcionais e com proposta sustentável: camisetas, underwear, roupas esportivas e acessórios para usar no dia a dia. O cupom EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e vale nas compras da loja online, com exceção dos lançamentos. Ele não vale nas lojas físicas e não acumula com outro cupom no mesmo pedido. O desconto aparece no carrinho quando o código é aceito, então a recomendação é conferir o resumo do pedido antes de finalizar.',
+      'A Insider é uma marca brasileira de roupas com tecnologia têxtil, que cria peças funcionais e com proposta sustentável: camisetas, underwear, roupas esportivas e acessórios para usar no dia a dia. O cupom EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e vale para os produtos participantes da loja online, com exceção dos lançamentos. Ele não vale nas lojas físicas e não acumula com outro cupom no mesmo pedido. O desconto aparece no carrinho quando o código é aceito, então a recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
       {
         question: 'O cupom EMCASACOMCECILIA vale para todos os produtos da Insider?',
         answer:
-          'Não para todos. O cupom vale nas compras da loja online, exceto produtos de lançamento. Se um item não receber o desconto, o carrinho mostra; confira o resumo do pedido antes de finalizar.',
+          'Não para todos. O cupom vale para os produtos participantes da loja online, e lançamentos ficam de fora. Se um item não receber o desconto, o carrinho mostra; confira o resumo do pedido antes de finalizar.',
       },
       {
         question: 'Quanto de desconto o cupom EMCASACOMCECILIA dá?',
@@ -855,7 +855,7 @@ export const COUPONS: Coupon[] = [
     ],
     monthlyHighlight: {
       scope: 'na loja online',
-      note: 'Válido nas compras online da Insider, exceto lançamentos e lojas físicas',
+      note: 'Válido para produtos participantes da loja online da Insider, exceto lançamentos e lojas físicas',
     },
     status: 'ativo',
     featured: true,
