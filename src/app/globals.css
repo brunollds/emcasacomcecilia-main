@@ -68,6 +68,19 @@ body {
   font-family: var(--font-montserrat), sans-serif;
 }
 
+/* Coreano quebra nos espaços, como no impresso; o padrão do navegador parte a palavra ao meio
+   ("캠 / 페인"). O overflow-wrap só age quando uma palavra sozinha não cabe na linha. */
+html:lang(ko) {
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+
+/* Japonês: kana pequeno e pontuação de fechamento não abrem linha, e o Chrome quebra por frase. */
+html:lang(ja) {
+  line-break: strict;
+  word-break: auto-phrase;
+}
+
 /* 🎬 Animações */
 @keyframes fade-in {
   from { opacity: 0; }

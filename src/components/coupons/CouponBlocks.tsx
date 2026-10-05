@@ -48,7 +48,10 @@ const FIGURE_SIZES = {
     unitColumn: 'pt-2.5 md:pt-3.5',
     unit: 'text-[64px] leading-[0.88] md:text-[86px]',
     off: 'text-[44px] leading-[0.9] md:text-[58px]',
-    words: 'text-[64px] leading-[0.92] tracking-[-0.01em] md:text-[96px]',
+    // Em japonês e chinês cada caractere ocupa a largura cheia: a 64px só cabem 5 no celular e
+    // "活动" se partia. A 48px cabem 6 até numa tela de 320px.
+    words:
+      'text-[64px] leading-[0.92] tracking-[-0.01em] md:text-[96px] max-md:[&:lang(ja)]:text-[48px] max-md:[&:lang(zh)]:text-[48px]',
   },
   // Primeiro card dos Destaques no hub; cresce no desktop, onde o card passa de 550px.
   lead: {
