@@ -43801,6 +43801,466 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/insider-confiavel-hero-oficial.webp",
+      "local_url": "/images/reviews/insider/insider-confiavel-hero-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 42788,
+      "sha256": "38ff8e5d47cc1a7c7279114d7ba00ccfb6f742cc71bdbad53ae585dd39159f04",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-confiavel-hero-oficial.webp",
+      "storage_filename": "insider-confiavel-hero-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-store-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-store-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/insider/insider-confiavel-hero-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 50950,
+          "column": 15,
+          "literal": "/images/reviews/insider/insider-confiavel-hero-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/38ff8e5d47cc1a7c7279114d7ba00ccfb6f742cc71bdbad53ae585dd39159f04/insider-confiavel-hero-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/38ff8e5d47cc1a7c7279114d7ba00ccfb6f742cc71bdbad53ae585dd39159f04/insider-confiavel-hero-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T18:52:29.882Z",
+      "verification_etag_or_digest": "38ff8e5d47cc1a7c7279114d7ba00ccfb6f742cc71bdbad53ae585dd39159f04",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-cupom-hero-oficial.webp",
+      "local_url": "/images/reviews/insider/insider-cupom-hero-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60992,
+      "sha256": "9c621de5429082023f8ba635978015c31229c54c2e799e7de470f35f272fe0b9",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-cupom-hero-oficial.webp",
+      "storage_filename": "insider-cupom-hero-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-emcasacomcecilia-insider-store-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-emcasacomcecilia-insider-store-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/insider/insider-cupom-hero-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 51509,
+          "column": 15,
+          "literal": "/images/reviews/insider/insider-cupom-hero-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9c621de5429082023f8ba635978015c31229c54c2e799e7de470f35f272fe0b9/insider-cupom-hero-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9c621de5429082023f8ba635978015c31229c54c2e799e7de470f35f272fe0b9/insider-cupom-hero-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T18:52:29.883Z",
+      "verification_etag_or_digest": "9c621de5429082023f8ba635978015c31229c54c2e799e7de470f35f272fe0b9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-kit-cuecas-oficial.webp",
+      "local_url": "/images/reviews/insider/insider-kit-cuecas-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 11140,
+      "sha256": "bc9ffd72bcfccf1726d7986cb08d3a35f66adaa903e58a4b4a4f4ef63065c569",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-kit-cuecas-oficial.webp",
+      "storage_filename": "insider-kit-cuecas-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-emcasacomcecilia-insider-store-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-emcasacomcecilia-insider-store-como-usar.json",
+          "line": 161,
+          "column": 17,
+          "literal": "/images/reviews/insider/insider-kit-cuecas-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 51678,
+          "column": 19,
+          "literal": "/images/reviews/insider/insider-kit-cuecas-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bc9ffd72bcfccf1726d7986cb08d3a35f66adaa903e58a4b4a4f4ef63065c569/insider-kit-cuecas-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bc9ffd72bcfccf1726d7986cb08d3a35f66adaa903e58a4b4a4f4ef63065c569/insider-kit-cuecas-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T18:52:29.883Z",
+      "verification_etag_or_digest": "bc9ffd72bcfccf1726d7986cb08d3a35f66adaa903e58a4b4a4f4ef63065c569",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-passo-2-checkout.webp",
+      "local_url": "/images/reviews/insider/insider-passo-2-checkout.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47968,
+      "sha256": "dcac472fa308ec7719fd9b6e30cbefd517873e03fb124088e1b98bb88543882f",
+      "width": 1014,
+      "height": 630,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-passo-2-checkout.webp",
+      "storage_filename": "insider-passo-2-checkout.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-emcasacomcecilia-insider-store-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-emcasacomcecilia-insider-store-como-usar.json",
+          "line": 86,
+          "column": 17,
+          "literal": "/images/reviews/insider/insider-passo-2-checkout.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 51573,
+          "column": 19,
+          "literal": "/images/reviews/insider/insider-passo-2-checkout.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/dcac472fa308ec7719fd9b6e30cbefd517873e03fb124088e1b98bb88543882f/insider-passo-2-checkout.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dcac472fa308ec7719fd9b6e30cbefd517873e03fb124088e1b98bb88543882f/insider-passo-2-checkout.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T18:52:29.883Z",
+      "verification_etag_or_digest": "dcac472fa308ec7719fd9b6e30cbefd517873e03fb124088e1b98bb88543882f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-passo-3-digite-cupom.webp",
+      "local_url": "/images/reviews/insider/insider-passo-3-digite-cupom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15324,
+      "sha256": "7647643ae413c246d93b3c731809ec6def9c5c06ad615d97f6747a7e0147a5a9",
+      "width": 449,
+      "height": 434,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-passo-3-digite-cupom.webp",
+      "storage_filename": "insider-passo-3-digite-cupom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-emcasacomcecilia-insider-store-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-emcasacomcecilia-insider-store-como-usar.json",
+          "line": 99,
+          "column": 17,
+          "literal": "/images/reviews/insider/insider-passo-3-digite-cupom.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 51586,
+          "column": 19,
+          "literal": "/images/reviews/insider/insider-passo-3-digite-cupom.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7647643ae413c246d93b3c731809ec6def9c5c06ad615d97f6747a7e0147a5a9/insider-passo-3-digite-cupom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7647643ae413c246d93b3c731809ec6def9c5c06ad615d97f6747a7e0147a5a9/insider-passo-3-digite-cupom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T18:52:29.883Z",
+      "verification_etag_or_digest": "7647643ae413c246d93b3c731809ec6def9c5c06ad615d97f6747a7e0147a5a9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-passo-4-desconto-ativado.webp",
+      "local_url": "/images/reviews/insider/insider-passo-4-desconto-ativado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 9000,
+      "sha256": "ed67c0d479d810036f5aa6ca01711d5a36059990c64a6a6ccfcaee356ed3529f",
+      "width": 431,
+      "height": 321,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-passo-4-desconto-ativado.webp",
+      "storage_filename": "insider-passo-4-desconto-ativado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-emcasacomcecilia-insider-store-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-emcasacomcecilia-insider-store-como-usar.json",
+          "line": 112,
+          "column": 17,
+          "literal": "/images/reviews/insider/insider-passo-4-desconto-ativado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 51599,
+          "column": 19,
+          "literal": "/images/reviews/insider/insider-passo-4-desconto-ativado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ed67c0d479d810036f5aa6ca01711d5a36059990c64a6a6ccfcaee356ed3529f/insider-passo-4-desconto-ativado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ed67c0d479d810036f5aa6ca01711d5a36059990c64a6a6ccfcaee356ed3529f/insider-passo-4-desconto-ativado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T18:52:29.883Z",
+      "verification_etag_or_digest": "ed67c0d479d810036f5aa6ca01711d5a36059990c64a6a6ccfcaee356ed3529f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-reclame-aqui-hero-perfil.webp",
+      "local_url": "/images/reviews/insider/insider-reclame-aqui-hero-perfil.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 14868,
+      "sha256": "547785c393d13f7a65479b2392f78cbee0f7ce9c32a661794cc756eef3aea915",
+      "width": 760,
+      "height": 428,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-reclame-aqui-hero-perfil.webp",
+      "storage_filename": "insider-reclame-aqui-hero-perfil.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-store-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-store-reclame-aqui-nota-reputacao.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/insider/insider-reclame-aqui-hero-perfil.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 51199,
+          "column": 15,
+          "literal": "/images/reviews/insider/insider-reclame-aqui-hero-perfil.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/547785c393d13f7a65479b2392f78cbee0f7ce9c32a661794cc756eef3aea915/insider-reclame-aqui-hero-perfil.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/547785c393d13f7a65479b2392f78cbee0f7ce9c32a661794cc756eef3aea915/insider-reclame-aqui-hero-perfil.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T18:52:29.883Z",
+      "verification_etag_or_digest": "547785c393d13f7a65479b2392f78cbee0f7ce9c32a661794cc756eef3aea915",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-reclame-aqui-principais-problemas.webp",
+      "local_url": "/images/reviews/insider/insider-reclame-aqui-principais-problemas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16268,
+      "sha256": "ade9ce263ef5fb051f343b1fa4993162fae78569b9267a1d7e1f424be11eef18",
+      "width": 720,
+      "height": 410,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-reclame-aqui-principais-problemas.webp",
+      "storage_filename": "insider-reclame-aqui-principais-problemas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-store-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-store-reclame-aqui-nota-reputacao.json",
+          "line": 213,
+          "column": 17,
+          "literal": "/images/reviews/insider/insider-reclame-aqui-principais-problemas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 51390,
+          "column": 19,
+          "literal": "/images/reviews/insider/insider-reclame-aqui-principais-problemas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ade9ce263ef5fb051f343b1fa4993162fae78569b9267a1d7e1f424be11eef18/insider-reclame-aqui-principais-problemas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ade9ce263ef5fb051f343b1fa4993162fae78569b9267a1d7e1f424be11eef18/insider-reclame-aqui-principais-problemas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T18:52:29.883Z",
+      "verification_etag_or_digest": "ade9ce263ef5fb051f343b1fa4993162fae78569b9267a1d7e1f424be11eef18",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-reclame-aqui-reputacao-6-meses-2026-09.webp",
+      "local_url": "/images/reviews/insider/insider-reclame-aqui-reputacao-6-meses-2026-09.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38292,
+      "sha256": "6b07c9898c2bd0f5bbf80628c300d10545620ac9382da86797600285aa09b420",
+      "width": 720,
+      "height": 979,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-reclame-aqui-reputacao-6-meses-2026-09.webp",
+      "storage_filename": "insider-reclame-aqui-reputacao-6-meses-2026-09.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-store-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-store-reclame-aqui-nota-reputacao.json",
+          "line": 125,
+          "column": 17,
+          "literal": "/images/reviews/insider/insider-reclame-aqui-reputacao-6-meses-2026-09.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 51302,
+          "column": 19,
+          "literal": "/images/reviews/insider/insider-reclame-aqui-reputacao-6-meses-2026-09.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6b07c9898c2bd0f5bbf80628c300d10545620ac9382da86797600285aa09b420/insider-reclame-aqui-reputacao-6-meses-2026-09.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6b07c9898c2bd0f5bbf80628c300d10545620ac9382da86797600285aa09b420/insider-reclame-aqui-reputacao-6-meses-2026-09.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T18:52:29.883Z",
+      "verification_etag_or_digest": "6b07c9898c2bd0f5bbf80628c300d10545620ac9382da86797600285aa09b420",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-tech-t-shirt-vinho-oficial.webp",
+      "local_url": "/images/reviews/insider/insider-tech-t-shirt-vinho-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39358,
+      "sha256": "b5754d797fc360ff412713245d1f97aaba2fc495cb0b9940d72fd8c364a04c1c",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-tech-t-shirt-vinho-oficial.webp",
+      "storage_filename": "insider-tech-t-shirt-vinho-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-store-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-store-e-confiavel.json",
+          "line": 125,
+          "column": 17,
+          "literal": "/images/reviews/insider/insider-tech-t-shirt-vinho-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 51053,
+          "column": 19,
+          "literal": "/images/reviews/insider/insider-tech-t-shirt-vinho-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b5754d797fc360ff412713245d1f97aaba2fc495cb0b9940d72fd8c364a04c1c/insider-tech-t-shirt-vinho-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b5754d797fc360ff412713245d1f97aaba2fc495cb0b9940d72fd8c364a04c1c/insider-tech-t-shirt-vinho-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T18:52:29.883Z",
+      "verification_etag_or_digest": "b5754d797fc360ff412713245d1f97aaba2fc495cb0b9940d72fd8c364a04c1c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/iwannasleep/1-escolha-produto.webp",
       "local_url": "/images/reviews/iwannasleep/1-escolha-produto.webp",
       "media_kind": "image",
