@@ -100,7 +100,11 @@ function HighlightedText({
   keyPrefix: string;
 }): React.ReactElement {
   if (activeTerms.length === 0) return <>{text}</>;
-  const pattern = new RegExp(`(${activeTerms.map(escapeRegExp).join('|')})`, 'g');
+  // Só a palavra inteira: CECI não deve acender dentro de EMCASACOMCECILIA.
+  const pattern = new RegExp(
+    `(?<![\\p{L}\\p{N}])(${activeTerms.map(escapeRegExp).join('|')})(?![\\p{L}\\p{N}])`,
+    'gu'
+  );
   const parts = text.split(pattern).filter((part) => part.length > 0);
   if (parts.length === 1) return <>{text}</>;
 
