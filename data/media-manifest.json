@@ -53090,6 +53090,190 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dolcegusto/assinatura-dolce-gusto-beneficios-oficial.webp",
+      "local_url": "/images/reviews/dolcegusto/assinatura-dolce-gusto-beneficios-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33920,
+      "sha256": "a337796197df506869920188b532cc13ba872463bf42ed93d2de0ec38ffe9105",
+      "width": 977,
+      "height": 287,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "assinatura-dolce-gusto-beneficios-oficial.webp",
+      "storage_filename": "assinatura-dolce-gusto-beneficios-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/assinatura-dolce-gusto-como-funciona.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/assinatura-dolce-gusto-como-funciona.json",
+          "line": 102,
+          "column": 17,
+          "literal": "/images/reviews/dolcegusto/assinatura-dolce-gusto-beneficios-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 37427,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/assinatura-dolce-gusto-beneficios-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a337796197df506869920188b532cc13ba872463bf42ed93d2de0ec38ffe9105/assinatura-dolce-gusto-beneficios-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a337796197df506869920188b532cc13ba872463bf42ed93d2de0ec38ffe9105/assinatura-dolce-gusto-beneficios-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T04:08:25.099Z",
+      "verification_etag_or_digest": "a337796197df506869920188b532cc13ba872463bf42ed93d2de0ec38ffe9105",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/assinatura-dolce-gusto-como-assinar-hero.webp",
+      "local_url": "/images/reviews/dolcegusto/assinatura-dolce-gusto-como-assinar-hero.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39530,
+      "sha256": "a0e4bfa010bdffdb49e587918a0b42a306fd7020c6c9df2daf076a6d2a84421c",
+      "width": 1280,
+      "height": 720,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "assinatura-dolce-gusto-como-assinar-hero.webp",
+      "storage_filename": "assinatura-dolce-gusto-como-assinar-hero.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/assinatura-dolce-gusto-como-funciona.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/assinatura-dolce-gusto-como-funciona.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/assinatura-dolce-gusto-como-assinar-hero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 37348,
+          "column": 15,
+          "literal": "/images/reviews/dolcegusto/assinatura-dolce-gusto-como-assinar-hero.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a0e4bfa010bdffdb49e587918a0b42a306fd7020c6c9df2daf076a6d2a84421c/assinatura-dolce-gusto-como-assinar-hero.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a0e4bfa010bdffdb49e587918a0b42a306fd7020c6c9df2daf076a6d2a84421c/assinatura-dolce-gusto-como-assinar-hero.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T04:08:25.100Z",
+      "verification_etag_or_digest": "a0e4bfa010bdffdb49e587918a0b42a306fd7020c6c9df2daf076a6d2a84421c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/assinatura-dolce-gusto-precos-caixa-oficial.webp",
+      "local_url": "/images/reviews/dolcegusto/assinatura-dolce-gusto-precos-caixa-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58472,
+      "sha256": "c121a43ae01d0dae5f7d80e47199b3dab8df0e5f63ede285b406f12b06b385d8",
+      "width": 1298,
+      "height": 509,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "assinatura-dolce-gusto-precos-caixa-oficial.webp",
+      "storage_filename": "assinatura-dolce-gusto-precos-caixa-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/assinatura-dolce-gusto-como-funciona.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/assinatura-dolce-gusto-como-funciona.json",
+          "line": 78,
+          "column": 17,
+          "literal": "/images/reviews/dolcegusto/assinatura-dolce-gusto-precos-caixa-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 37403,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/assinatura-dolce-gusto-precos-caixa-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c121a43ae01d0dae5f7d80e47199b3dab8df0e5f63ede285b406f12b06b385d8/assinatura-dolce-gusto-precos-caixa-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c121a43ae01d0dae5f7d80e47199b3dab8df0e5f63ede285b406f12b06b385d8/assinatura-dolce-gusto-precos-caixa-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T04:08:25.100Z",
+      "verification_etag_or_digest": "c121a43ae01d0dae5f7d80e47199b3dab8df0e5f63ede285b406f12b06b385d8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/assinatura-dolce-gusto-valor-hero.webp",
+      "local_url": "/images/reviews/dolcegusto/assinatura-dolce-gusto-valor-hero.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 72618,
+      "sha256": "8fc7628427ba418c00b1e4e8e56f49eef09f973f6c748463d4f5fdb89b11a1f8",
+      "width": 1280,
+      "height": 720,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "assinatura-dolce-gusto-valor-hero.webp",
+      "storage_filename": "assinatura-dolce-gusto-valor-hero.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/assinatura-dolce-gusto-vale-a-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/assinatura-dolce-gusto-vale-a-pena.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/assinatura-dolce-gusto-valor-hero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 50640,
+          "column": 15,
+          "literal": "/images/reviews/dolcegusto/assinatura-dolce-gusto-valor-hero.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8fc7628427ba418c00b1e4e8e56f49eef09f973f6c748463d4f5fdb89b11a1f8/assinatura-dolce-gusto-valor-hero.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8fc7628427ba418c00b1e4e8e56f49eef09f973f6c748463d4f5fdb89b11a1f8/assinatura-dolce-gusto-valor-hero.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T04:08:25.100Z",
+      "verification_etag_or_digest": "8fc7628427ba418c00b1e4e8e56f49eef09f973f6c748463d4f5fdb89b11a1f8",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/iwannasleep/sleepspray-kidz-aplicacao-travesseiro.webp",
       "local_url": "/images/reviews/iwannasleep/sleepspray-kidz-aplicacao-travesseiro.webp",
       "media_kind": "image",
