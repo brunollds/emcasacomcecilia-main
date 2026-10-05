@@ -94,6 +94,7 @@ Para cada oferta ativa, reconferir:
 | `i-wanna-sleep` | I Wanna Sleep | `CECIEMCASA` | artigos do cluster | Confirmar percentual, abrangência e acúmulo. |
 | `magalu` | Magazine Você | 10 faixas | `tiers` no próprio cupom | Testar as dez faixas, mínimos, navegador e elegibilidade “vendido e entregue pelo Magalu”. |
 | `letseatit` | Let's Eat It | `MAUAD` | UTMs da Inbazz em `offerUrl` | Testar os 5% no checkout. A comissão é atribuída pelos quatro UTMs do link; `test:coupon-offer-modes` falha se algum sumir. |
+| `insider` | Insider | `EMCASACOMCECILIA` | FAQ do Insider Creators Club e link da Inbazz em `offerUrl` | Testar o cupom no carrinho com um item comum e um lançamento (este fica sem desconto). **Nunca escrever o percentual** em texto algum: a Insider proíbe, e `test:coupon-offer-modes` falha se aparecer "%". Não editar o link. |
 | `shein` | SHEIN | oferta por link | `referral` e `campaigns` | Revalidar links, códigos de busca, público e prazo de cada campanha. |
 | `kopenhagen` | Kopenhagen | `CECILIA10` | — | Está pausada: não linkar nem reativar sem confirmação da parceria. |
 
@@ -197,6 +198,10 @@ Não incluir `MAUAD` (Let's Eat It) nos termos de `HighlightCoupon` nem de
 `ReviewSectionContent`: é o sobrenome da Cecília. O destaque diferencia maiúsculas, então
 "Mauad" não seria afetado, mas qualquer assinatura ou título com o nome em caixa alta passaria
 a ser marcado como cupom.
+
+Artigo da Insider não pode citar o percentual do cupom, nem em FAQ, tabela de preços ou conta de
+economia: orientar a usar `EMCASACOMCECILIA` no checkout e conferir o desconto no carrinho. As
+regras do programa estão no dossiê `01_Parceiros/Insider.md`.
 
 Há uma divergência histórica conhecida: conteúdos Nutren ainda podem usar
 `affiliate: "nestle-nutre"`, embora o slug do cupom seja `nutren`. Não repetir em artigos novos;
