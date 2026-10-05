@@ -40,6 +40,34 @@ assert.equal(letsEatItOfferUrl.searchParams.get('utm_campaign'), 'inbazz');
 assert.equal(letsEatItOfferUrl.searchParams.get('utm_content'), 'organico');
 assert.ok(getAllActiveCouponSlugs().includes('letseatit'), "Let's Eat It ativa deve gerar página de cupom");
 
+const insider = COUPONS.find((coupon) => coupon.slug === 'insider');
+assert.ok(insider && insider.offerMode === 'discount-code', 'Insider deve existir como discount-code');
+assert.equal(insider.code, 'EMCASACOMCECILIA');
+// A Insider proíbe divulgar o percentual: nada de discountNumber (média, schema) nem "%" em texto algum.
+assert.equal('discountNumber' in insider, false, 'Insider não pode expor o percentual do cupom');
+assert.doesNotMatch(JSON.stringify(insider), /%|por cento/i, 'Insider não pode citar percentual');
+// Link da Influ como veio: o parâmetro cupom= aplica o código no carrinho e os UTMs atribuem a comissão.
+assert.equal(
+  insider.offerUrl,
+  'https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA'
+);
+assert.equal(
+  COUPONS.findIndex((coupon) => coupon.slug === 'insider'),
+  COUPONS.findIndex((coupon) => coupon.slug === 'letseatit') + 1,
+  "Insider vem logo depois da Let's Eat It"
+);
+assert.ok(getAllActiveCouponSlugs().includes('insider'), 'Insider ativa deve gerar página de cupom');
+const disclosed = COUPONS.flatMap((coupon) =>
+  coupon.status === 'ativo' && coupon.offerMode === 'discount-code' && coupon.discountNumber !== undefined
+    ? [coupon.discountNumber]
+    : []
+);
+assert.equal(
+  getCouponStats().averageDiscount,
+  Math.round(disclosed.reduce((total, discount) => total + discount, 0) / disclosed.length),
+  'Cupom sem percentual divulgado fica fora da média'
+);
+
 const source = COUPONS.find((coupon) => coupon.offerMode === 'discount-code');
 assert.ok(source, 'É necessário ao menos um discount-code para montar o teste');
 

@@ -76,7 +76,8 @@ interface CouponBase {
 export type CouponCodeOffer = CouponBase & {
   offerMode: 'discount-code';
   code: string;
-  discountNumber: number;
+  // Omitido quando a parceria proíbe divulgar o percentual (ex.: Insider).
+  discountNumber?: number;
   codeFieldLabel?: string;
   codeInstructions?: string[];
   history?: CouponHistory[];
@@ -781,6 +782,85 @@ export const COUPONS: Coupon[] = [
     featured: true,
   },
   {
+    // A Insider proíbe divulgar o percentual do cupom: sem discountNumber e sem número em nenhum texto.
+    offerMode: 'discount-code',
+    slug: 'insider',
+    brand: 'Insider',
+    officialUrl: 'https://www.insiderstore.com.br/',
+    offerUrl:
+      'https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA',
+    brandIcon: 'INS',
+    brandColor: '#1A1A1A',
+    code: 'EMCASACOMCECILIA',
+    discount: 'Desconto exclusivo',
+    offerActionLabel: 'ir para a loja',
+    category: 'Moda e roupas tecnológicas',
+    shortDescription: 'compras online na Insider, exceto lançamentos',
+    longDescription:
+      'Código da Cecília para economizar em camisetas, underwear, roupas esportivas e acessórios com tecnologia têxtil na loja online da Insider. Não vale para lançamentos.',
+    metaTitle: 'Cupom Insider Outubro 2026: EMCASACOMCECILIA na Loja Online',
+    metaDescription:
+      'Cupom Insider confirmado para outubro de 2026: use EMCASACOMCECILIA no checkout da loja online e confira o desconto no carrinho. Não vale para lançamentos nem nas lojas físicas.',
+    eligibleCategories: 'Produtos da loja online da Insider, exceto lançamentos',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja',
+    shipping: 'Calculado separadamente, conforme política da loja',
+    combinable:
+      'Não acumula com outro cupom: a loja aceita um cupom por pedido. No teste de 05/10/2026 valeu em peça do Outlet e em kit com preço promocional',
+    lastVerified: '2026-10-05',
+    codeInstructions: [
+      'Copie o código EMCASACOMCECILIA no card acima.',
+      'Acesse a loja online da Insider pelo botão indicado: o link já leva o cupom para o carrinho.',
+      'Adicione os produtos desejados ao carrinho. Lançamentos não entram no desconto.',
+      'Se o cupom não aparecer aplicado, cole o código no campo de cupom antes de finalizar.',
+      'Confira o desconto no resumo do pedido antes de pagar.',
+    ],
+    aboutBrand:
+      'A Insider é uma marca brasileira de roupas com tecnologia têxtil, que cria peças funcionais e com proposta sustentável: camisetas, underwear, roupas esportivas e acessórios para usar no dia a dia. O cupom EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e vale nas compras da loja online, com exceção dos lançamentos. Ele não vale nas lojas físicas e não acumula com outro cupom no mesmo pedido. O desconto aparece no carrinho quando o código é aceito, então a recomendação é conferir o resumo do pedido antes de finalizar.',
+    faqs: [
+      {
+        question: 'O cupom EMCASACOMCECILIA vale para todos os produtos da Insider?',
+        answer:
+          'Não para todos. O cupom vale nas compras da loja online, exceto produtos de lançamento. Se um item não receber o desconto, o carrinho mostra; confira o resumo do pedido antes de finalizar.',
+      },
+      {
+        question: 'Quanto de desconto o cupom EMCASACOMCECILIA dá?',
+        answer:
+          'O desconto aparece no carrinho assim que o código é aplicado aos produtos elegíveis. Use o cupom no momento da compra e confira o valor no resumo do pedido.',
+      },
+      {
+        question: 'Posso usar o cupom junto com outro cupom?',
+        answer:
+          'Não. A Insider aceita um cupom por pedido, e descontos de cupons diferentes não se somam.',
+      },
+      {
+        question: 'O cupom vale nas lojas físicas da Insider?',
+        answer: 'Não. O cupom EMCASACOMCECILIA é para compras na loja online.',
+      },
+      {
+        question: 'O link já aplica o cupom?',
+        answer:
+          'Sim. O botão leva à loja online com o cupom EMCASACOMCECILIA já carregado no carrinho. Se ele não aparecer aplicado, digite o código no campo de cupom antes de pagar.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'na loja online',
+      note: 'Válido nas compras online da Insider, exceto lançamentos e lojas físicas',
+    },
+    status: 'ativo',
+    featured: true,
+  },
+  {
     offerMode: 'affiliate-link',
     slug: 'shein',
     brand: 'SHEIN',
@@ -956,11 +1036,11 @@ export function getAllActiveCouponSlugs(): string[] {
 
 export function getCouponStats() {
   const activeCoupons = getActiveCoupons();
-  const couponCodeOffers = activeCoupons.filter(
-    (coupon): coupon is CouponCodeOffer => coupon.offerMode === 'discount-code'
+  const disclosedDiscounts = activeCoupons.flatMap((coupon) =>
+    coupon.offerMode === 'discount-code' && coupon.discountNumber !== undefined ? [coupon.discountNumber] : []
   );
-  const averageDiscount = couponCodeOffers.length
-    ? couponCodeOffers.reduce((total, coupon) => total + coupon.discountNumber, 0) / couponCodeOffers.length
+  const averageDiscount = disclosedDiscounts.length
+    ? disclosedDiscounts.reduce((total, discount) => total + discount, 0) / disclosedDiscounts.length
     : 0;
   const lastUpdate = activeCoupons
     .map((coupon) => coupon.lastVerified)
