@@ -790,6 +790,8 @@ export const COUPONS: Coupon[] = [
     offerUrl:
       'https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA',
     brandIcon: 'INS',
+    brandLogo: '/images/about/partners/insider-icon.png',
+    brandLogoAlt: 'Marca Insider',
     brandColor: '#1A1A1A',
     code: 'EMCASACOMCECILIA',
     discount: 'Desconto exclusivo',
