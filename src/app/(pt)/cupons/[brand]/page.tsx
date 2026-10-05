@@ -78,7 +78,7 @@ function getJsonLd(coupon: NonNullable<ReturnType<typeof getCouponBySlug>>) {
     category: coupon.category,
     priceCurrency: 'BRL',
     ...(coupon.offerMode === 'discount-code' ? {
-      discount: `${coupon.discountNumber}`,
+      ...(coupon.discountNumber !== undefined ? { discount: `${coupon.discountNumber}` } : {}),
       couponCode: coupon.code,
     } : {}),
     offeredBy: {
