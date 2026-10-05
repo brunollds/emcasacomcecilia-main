@@ -36,6 +36,8 @@ interface CouponBase {
   brandIcon: string;
   brandLogo?: string;
   brandLogoAlt?: string;
+  // Silhueta do logo com fundo transparente, usada como marca-d'água nos cards de cupom.
+  brandWatermark?: string;
   socialImage?: string;
   socialImageAlt?: string;
   brandColor: string;
@@ -105,6 +107,7 @@ export const COUPONS: Coupon[] = [
     brandIcon: 'D',
     brandLogo: '/images/about/partners/damie.jpg',
     brandLogoAlt: 'Marca DAMIE',
+    brandWatermark: '/images/logos/watermarks/damie.webp',
     socialImage: '/images/reviews/poltronas-reclinaveis-damie.webp',
     socialImageAlt: 'Poltronas reclináveis DAMIE',
     brandColor: '#C24B1F',
@@ -209,6 +212,7 @@ export const COUPONS: Coupon[] = [
     brandIcon: 'DG',
     brandLogo: '/images/about/partners/dolce-gusto.avif',
     brandLogoAlt: 'Marca Nescafé Dolce Gusto',
+    brandWatermark: '/images/logos/watermarks/dolce-gusto.webp',
     brandColor: '#7E2A1A',
     code: 'CECI',
     discount: '5% OFF',
@@ -297,6 +301,7 @@ export const COUPONS: Coupon[] = [
     brandIcon: 'YS',
     brandLogo: '/images/logos/yesstyle.jpg',
     brandLogoAlt: 'Marca YesStyle',
+    brandWatermark: '/images/logos/watermarks/yesstyle.webp',
     brandColor: '#111827',
     get code() { return getPrimaryRewardCode().code; },
     get discount() { return `Até ${getPrimaryRewardCode().newCustomerDiscount}% OFF`; },
@@ -426,6 +431,7 @@ export const COUPONS: Coupon[] = [
     brandIcon: 'N',
     brandLogo: '/images/about/partners/nutren.png',
     brandLogoAlt: 'Marca Nestlé Nutre',
+    brandWatermark: '/images/logos/watermarks/nutren.webp',
     brandColor: '#0056A4',
     code: 'CECI',
     discount: '10% OFF',
@@ -512,6 +518,7 @@ export const COUPONS: Coupon[] = [
     brandIcon: 'IWS',
     brandLogo: '/images/about/partners/i-wanna-sleep.avif',
     brandLogoAlt: 'Marca I Wanna Sleep',
+    brandWatermark: '/images/logos/watermarks/i-wanna-sleep.webp',
     brandColor: '#2D1B4E',
     code: 'CECIEMCASA',
     discount: '10% OFF',
@@ -585,6 +592,7 @@ export const COUPONS: Coupon[] = [
     brandIcon: 'M',
     brandLogo: '/images/about/partners/magalu.webp',
     brandLogoAlt: 'Marca Magalu (Magazine Luiza)',
+    brandWatermark: '/images/logos/watermarks/magalu.webp',
     brandColor: '#0086FF',
     code: '100EMCASACOMCECILIA',
     discount: 'R$ 10 a R$ 100 OFF',
@@ -717,6 +725,7 @@ export const COUPONS: Coupon[] = [
     brandIcon: 'LEI',
     brandLogo: '/images/about/partners/letseatit-icon.png',
     brandLogoAlt: "Marca Let's Eat It",
+    brandWatermark: '/images/logos/watermarks/letseatit.webp',
     brandColor: '#56624B',
     code: 'MAUAD',
     discount: '5% OFF',
@@ -792,10 +801,10 @@ export const COUPONS: Coupon[] = [
     brandIcon: 'INS',
     brandLogo: '/images/about/partners/insider-icon.png',
     brandLogoAlt: 'Marca Insider',
+    brandWatermark: '/images/logos/watermarks/insider.webp',
     brandColor: '#1A1A1A',
     code: 'EMCASACOMCECILIA',
     discount: 'Desconto exclusivo',
-    offerActionLabel: 'ir para a loja',
     category: 'Moda e roupas tecnológicas',
     shortDescription: 'compras online na Insider, exceto lançamentos',
     longDescription:
@@ -871,6 +880,7 @@ export const COUPONS: Coupon[] = [
     brandIcon: 'S',
     brandLogo: '/images/about/partners/shein.webp',
     brandLogoAlt: 'Marca SHEIN',
+    brandWatermark: '/images/logos/watermarks/shein.webp',
     brandColor: '#111111',
     discount: 'Campanhas vigentes',
     offerTypeLabel: 'oferta',

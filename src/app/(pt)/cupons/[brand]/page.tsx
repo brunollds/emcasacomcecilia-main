@@ -1,9 +1,29 @@
 import type { Metadata } from 'next';
-import Image from 'next/image';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { CopyButton, CouponPillCard, FAQAccordion, CouponStoreLink } from '@/components/CouponComponents';
-import { CouponBottomBar } from '@/components/CouponBottomBar';
+import {
+  CalendarDays,
+  Check,
+  ChevronRight,
+  CircleCheck,
+  Copy,
+  ExternalLink,
+  Layers,
+  Repeat,
+  Scissors,
+  ShoppingBag,
+  Truck,
+} from 'lucide-react';
+import { CouponStoreLink } from '@/components/CouponComponents';
+import { CopyAndOpenStoreLink, CopyCodeButton, CouponDock } from '@/components/coupons/CouponActions';
+import {
+  BrandWatermark,
+  CouponFaq,
+  DiscountFigure,
+  OtherCouponCard,
+  SectionHeading,
+  couponFontVariables,
+} from '@/components/coupons/CouponBlocks';
 import {
   COUPONS,
   getAllActiveCouponSlugs,
@@ -148,6 +168,35 @@ function getJsonLd(coupon: NonNullable<ReturnType<typeof getCouponBySlug>>) {
   return [webPage, offer, faq, breadcrumb];
 }
 
+const formatLongDate = (isoDate: string) =>
+  new Date(`${isoDate}T12:00:00`).toLocaleDateString('pt-BR', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  });
+
+const formatShortDate = (isoDate: string) =>
+  new Date(`${isoDate}T12:00:00`).toLocaleDateString('pt-BR');
+
+// Evita "R$" no fim de uma linha e o valor no começo da seguinte.
+const keepCurrencyTogether = (text: string) => text.replace(/R\$ /g, 'R$\u00a0');
+
+// Códigos longos (EMCASACOMCECILIA) não cabem a 34px num celular de 360px.
+const cutoutCodeSize = (code: string) =>
+  code.length <= 10
+    ? 'text-[34px] leading-[42px] tracking-[0.06em]'
+    : code.length <= 13
+      ? 'text-[28px] leading-9 tracking-[0.04em]'
+      : 'text-[22px] leading-8 tracking-[0.02em]';
+
+const FOCUS_RING = 'focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-marinho';
+
+const PRIMARY_ACTION = `flex min-h-[52px] items-center justify-center gap-2.5 rounded-[10px] border-2 border-marinho bg-laranja px-4 text-center text-base font-extrabold text-marinho transition-colors hover:bg-laranja/85 data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-escuro data-[copied=true]:text-white ${FOCUS_RING}`;
+
+const SECONDARY_ACTION = `flex min-h-12 w-full items-center justify-center gap-2 rounded-[10px] border-2 border-marinho bg-white px-4 text-center text-[15px] font-extrabold text-marinho transition-colors hover:bg-creme data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-claro data-[copied=true]:text-verde-escuro ${FOCUS_RING}`;
+
+const BODY_TEXT = 'max-w-[68ch] text-[15px] font-medium leading-6 text-marinho-suave md:text-base md:leading-7';
+
 export default async function CouponBrandPage({ params }: CouponBrandPageProps) {
   const { brand } = await params;
   const coupon =
@@ -161,11 +210,11 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
   const jsonLd = getJsonLd(coupon);
   const couponCodeOffer = coupon.offerMode === 'discount-code' ? coupon : null;
   const affiliateLinkOffer = coupon.offerMode === 'affiliate-link' ? coupon : null;
+  const tiers = couponCodeOffer?.tiers?.length ? couponCodeOffer.tiers : null;
   const offerType = coupon.offerTypeLabel || (couponCodeOffer ? 'cupom' : 'oferta');
+  const offerTypeTitle = offerType.charAt(0).toUpperCase() + offerType.slice(1);
   const offerTypePlural = coupon.offerTypeLabelPlural || (couponCodeOffer ? 'cupons' : 'ofertas');
-  const offerAction = coupon.offerActionLabel || (couponCodeOffer
-    ? `economizar ${coupon.discount}`
-    : 'Ver oferta');
+  const storeLabel = couponCodeOffer ? 'Ir para a loja' : coupon.offerActionLabel || 'Ver oferta';
   const codeFieldLabel = couponCodeOffer?.codeFieldLabel || 'campo de cupom/desconto';
   const offerInstructions = couponCodeOffer
     ? couponCodeOffer.codeInstructions || [
@@ -180,19 +229,23 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
         'Confira os produtos e condições disponíveis na página da loja.',
         'Verifique o valor final antes de concluir a compra.',
       ];
-  const lastVerified = new Date(`${coupon.lastVerified}T12:00:00`).toLocaleDateString('pt-BR', {
-    day: 'numeric',
-    month: 'long',
-    year: 'numeric',
-  });
+  const lastVerified = formatLongDate(coupon.lastVerified);
   const highlightDate = new Date(`${coupon.lastVerified}T12:00:00`);
   const highlightMonthYear = `${highlightDate.toLocaleDateString('pt-BR', {
     month: 'long',
   })} ${highlightDate.getFullYear()}`;
-  const heroGradient = `linear-gradient(135deg, ${coupon.brandColor} 0%, #862f0e 100%)`;
+  const firstTier = tiers?.[0];
+  const lastTier = tiers?.[tiers.length - 1];
+  const rules = [
+    { icon: ShoppingBag, label: 'Vale para', value: coupon.eligibleCategories },
+    { icon: Layers, label: 'Junta com outras promoções?', value: coupon.combinable },
+    { icon: CalendarDays, label: 'Validade', value: coupon.validity },
+    { icon: Repeat, label: 'Mais de um uso', value: coupon.reusable },
+    { icon: Truck, label: 'Frete', value: coupon.shipping },
+  ];
 
   return (
-    <main className="min-h-screen bg-[#fef9f3] pb-24 lg:pb-0">
+    <main className={`${couponFontVariables} min-h-screen bg-white text-marinho`}>
       {jsonLd.map((schema, index) => (
         <script
           key={index}
@@ -201,164 +254,198 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
         />
       ))}
 
-      <section className="bg-[#0f1d3a] px-4 py-12 text-white md:py-16">
-        <div className="mx-auto max-w-5xl">
-          <nav aria-label="Breadcrumb" className="mb-6 text-xs text-white/55">
-            <Link href="/" className="hover:text-white">Início</Link>
-            <span className="mx-2 opacity-40">/</span>
-            <Link href="/cupons" className="hover:text-white">Cupons</Link>
-            <span className="mx-2 opacity-40">/</span>
-            <span className="text-white">{coupon.brand}</span>
-          </nav>
+      <section className="relative isolate overflow-hidden border-b-2 border-marinho bg-amarelo-cupom">
+        <div className="relative mx-auto max-w-6xl px-4 pt-3 pb-16 md:px-8 lg:grid lg:grid-cols-[minmax(0,1fr)_340px] lg:gap-x-16 lg:pt-6 lg:pb-14">
+          <BrandWatermark
+            src={coupon.brandWatermark}
+            aboveTheFold
+            className="-right-12 top-[108px] h-[150px] w-[300px] lg:top-10 lg:right-8 lg:h-[170px] lg:w-[340px]"
+          />
+          <div className="relative z-10">
+            <nav aria-label="Você está em">
+              <ol className="flex flex-wrap items-center gap-1 text-[13px] font-bold leading-[18px]">
+                <li>
+                  <Link href="/" className={`flex min-h-11 items-center underline underline-offset-[3px] ${FOCUS_RING}`}>
+                    Início
+                  </Link>
+                </li>
+                <li aria-hidden="true" className="flex">
+                  <ChevronRight className="h-3.5 w-3.5" />
+                </li>
+                <li>
+                  <Link href="/cupons" className={`flex min-h-11 items-center underline underline-offset-[3px] ${FOCUS_RING}`}>
+                    Cupons
+                  </Link>
+                </li>
+                <li aria-hidden="true" className="flex">
+                  <ChevronRight className="h-3.5 w-3.5" />
+                </li>
+                <li aria-current="page">{coupon.brand}</li>
+              </ol>
+            </nav>
 
-          <div className="flex flex-col gap-5 md:flex-row md:items-center">
-            {coupon.brandLogo && (
-              <div className="relative flex h-20 w-20 shrink-0 items-center justify-center overflow-hidden rounded-2xl border border-white/14 bg-white p-2 shadow-xl shadow-black/15">
-                <Image
-                  src={resolveMediaUrl(coupon.brandLogo)}
-                  alt={coupon.brandLogoAlt || `Marca ${coupon.brand}`}
-                  fill
-                  sizes="80px"
-                  className="object-contain p-2"
-                  priority
-                />
-              </div>
-            )}
-            <div>
-              <h1 className="font-heading text-3xl font-black leading-tight tracking-[-0.03em] md:text-5xl">
-                {couponCodeOffer
-                  ? `${offerType.charAt(0).toUpperCase() + offerType.slice(1)} ${coupon.brand}: ${coupon.discount} com ${couponCodeOffer.code}`
-                  : `${offerType.charAt(0).toUpperCase() + offerType.slice(1)} ${coupon.brand}: ${coupon.discount}`}
-              </h1>
-              <p className="mt-4 max-w-2xl text-base leading-relaxed text-white/78">
-                {coupon.longDescription}
-              </p>
-              <p className="mt-4 text-xs text-white/55">
-                Atualizado em {lastVerified}. Confira as condições e o valor final antes de finalizar.
-              </p>
-            </div>
-          </div>
-        </div>
-      </section>
-
-
-
-      {coupon.monthlyHighlight && (
-        <section className="px-4 pt-8">
-          <div className="mx-auto max-w-5xl rounded-2xl border border-[#ff6b35]/30 bg-white px-5 py-4 shadow-soft">
-            <p className="font-heading text-lg font-black text-[#0f1419]">
-              {couponCodeOffer
-                ? `${offerType.charAt(0).toUpperCase() + offerType.slice(1)} ${coupon.brand} atualizado: ${couponCodeOffer.code} — ${coupon.discount} ${coupon.monthlyHighlight.scope} (${highlightMonthYear}).`
-                : `Atualização da oferta ${coupon.brand}: ${coupon.discount} ${coupon.monthlyHighlight.scope} (${highlightMonthYear}).`}
+            <p className="mt-2 flex flex-col">
+              <span className="text-base font-extrabold leading-[22px]">{coupon.brand}</span>
+              <span className="text-[13px] font-semibold leading-[18px]">{coupon.category}</span>
             </p>
-            <p className="mt-2 text-sm leading-relaxed text-[#0f1419]/70">
-              {coupon.monthlyHighlight.note}. Confirme as condições e o valor final antes de finalizar.
-            </p>
-          </div>
-        </section>
-      )}
 
-      <section className="px-4 py-12">
-        <div className="mx-auto max-w-5xl">
-          <div
-            className="relative overflow-hidden rounded-[2rem] p-7 text-white shadow-large md:p-10"
-            style={{ background: heroGradient }}
-          >
-            <div className="absolute -right-14 -top-14 h-48 w-48 rounded-full bg-white/16 blur-3xl" />
-            <div className="relative z-10">
-              <div className="flex flex-wrap items-center gap-3">
-                {coupon.brandLogo && (
-                  <div className="relative h-12 w-12 overflow-hidden rounded-xl border border-white/20 bg-white shadow-lg shadow-black/10">
-                    <Image
-                      src={resolveMediaUrl(coupon.brandLogo)}
-                      alt={coupon.brandLogoAlt || `Marca ${coupon.brand}`}
-                      fill
-                      sizes="48px"
-                      className="object-contain p-1.5"
-                    />
-                  </div>
-                )}
-                <div className="flex flex-wrap items-center gap-3">
-                  <span className="rounded-full bg-white px-3 py-1 text-[10px] font-black uppercase tracking-[0.18em] text-[#862f0e]">
-                    {coupon.brand} · {offerType} disponível
+            <h1 className="mt-3.5 flex flex-col gap-0.5">
+              <span className="font-condensada text-[30px] font-extrabold leading-8 font-stretch-condensed md:text-[40px] md:leading-[44px]">
+                {offerTypeTitle} {coupon.brand}:
+              </span>{' '}
+              <DiscountFigure discount={coupon.discount} size="hero" />
+              {couponCodeOffer && (
+                <>
+                  {' '}
+                  <span className="mt-1 text-[17px] font-extrabold leading-6 md:text-[22px] md:leading-8">
+                    com {couponCodeOffer.code}
                   </span>
-                  <span className="rounded-full bg-[#ffd23f] px-3 py-1 text-[10px] font-black uppercase tracking-[0.18em] text-[#4a2400]">
-                    {coupon.discount}
-                  </span>
-                </div>
-              </div>
-
-              {couponCodeOffer?.tiers && couponCodeOffer.tiers.length > 0 ? (
-                <p className="mt-6 font-heading text-4xl font-black leading-tight tracking-[-0.02em] md:text-6xl">
-                  {coupon.discount}
-                </p>
-              ) : couponCodeOffer ? (
-                <p className="mt-6 font-mono text-4xl font-black tracking-[0.08em] md:text-6xl">
-                  {couponCodeOffer.code}
-                </p>
-              ) : (
-                <p className="mt-6 font-heading text-4xl font-black leading-tight tracking-[-0.02em] md:text-6xl">
-                  {coupon.discount}
-                </p>
+                </>
               )}
-              <h2 className="mt-4 font-heading text-2xl font-black leading-tight">
-                {coupon.shortDescription}
-              </h2>
-              <p className="mt-3 max-w-2xl text-sm leading-relaxed text-white/86 md:text-base">
-                {coupon.longDescription}
-              </p>
+            </h1>
 
-              <div className="mt-7 flex flex-col gap-3 sm:flex-row">
-                {couponCodeOffer?.tiers && couponCodeOffer.tiers.length > 0 ? (
-                  <a
-                    href="#faixas-de-desconto"
-                    className="inline-flex items-center justify-center gap-2 rounded-lg bg-white px-4 py-2.5 text-sm font-semibold text-[#862f0e] transition-colors hover:bg-white/90 focus:outline-none focus-visible:ring-2 focus-visible:ring-white"
-                  >
-                    Ver as faixas e copiar o código
-                  </a>
-                ) : couponCodeOffer ? (
-                  <CopyButton
-                    code={couponCodeOffer.code}
-                    label={`Copiar e ${offerAction}`}
-                    brand={coupon.brand}
-                  />
-                ) : null}
-                <CouponStoreLink
-                  href={coupon.offerUrl}
-                  label={couponCodeOffer ? 'Ir para a loja' : offerAction}
-                  couponCode={couponCodeOffer?.code}
-                  brand={coupon.brand}
-                  placement="coupon_page"
-                  className="inline-flex items-center justify-center rounded-lg border border-white/30 bg-white/15 px-4 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-white/25 focus:outline-none focus-visible:ring-2 focus-visible:ring-white"
-                />
-              </div>
-            </div>
+            <p className="mt-3 max-w-[54ch] text-[15px] font-semibold leading-[22px] md:text-[17px] md:leading-[26px]">
+              {coupon.longDescription}
+            </p>
           </div>
         </div>
       </section>
 
-      <article className="bg-white px-4 py-14">
-        <div className="mx-auto max-w-3xl">
-          {couponCodeOffer?.tiers && couponCodeOffer.tiers.length > 0 && (
+      <div className="mx-auto max-w-6xl px-4 md:px-8 lg:grid lg:grid-cols-[minmax(0,1fr)_340px] lg:gap-x-16">
+        {/* No desktop o recorte gruda logo abaixo do menu, que tem 129px até o xl e 85px depois. */}
+        <section
+          id="cupom"
+          aria-label={couponCodeOffer ? `Código do ${offerType} ${coupon.brand}` : `Como acessar a ${offerType} ${coupon.brand}`}
+          className="relative z-10 -mt-11 rounded-2xl border-[2.5px] border-dashed border-marinho bg-white px-[18px] pt-6 pb-[18px] lg:sticky lg:top-38 lg:col-start-2 lg:row-start-1 lg:-mt-48 lg:self-start xl:top-28"
+        >
+          <span
+            aria-hidden="true"
+            className="absolute -top-[15px] left-4 flex h-7 w-7 items-center justify-center rounded-full bg-amarelo-cupom"
+          >
+            <Scissors className="h-5 w-5" />
+          </span>
+
+          {couponCodeOffer && !tiers && (
             <>
-              <h2 id="faixas-de-desconto" className="scroll-mt-24 font-heading text-2xl font-black text-[#0f1419]">
-                Faixas de desconto do {coupon.brand}
-              </h2>
-              <div className="mt-4 space-y-3">
-                <p className="rounded-2xl border border-[#ff6b35]/25 bg-[#fff7ed] px-4 py-3 text-sm leading-relaxed text-[#7c2d12]">
+              <code className={`block break-all text-center font-codigo font-extrabold ${cutoutCodeSize(couponCodeOffer.code)}`}>
+                {couponCodeOffer.code}
+              </code>
+              <CopyAndOpenStoreLink
+                code={couponCodeOffer.code}
+                brand={coupon.brand}
+                href={coupon.offerUrl}
+                className={`mt-3.5 ${PRIMARY_ACTION}`}
+                copiedChildren={
+                  <>
+                    <Check aria-hidden="true" className="h-5 w-5 shrink-0" />
+                    Código copiado
+                  </>
+                }
+              >
+                Copiar e ir para a loja
+                <ExternalLink aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
+              </CopyAndOpenStoreLink>
+              <CopyCodeButton
+                code={couponCodeOffer.code}
+                brand={coupon.brand}
+                placement="coupon_page"
+                className={`mt-2.5 ${SECONDARY_ACTION}`}
+                copiedChildren={
+                  <>
+                    <Check aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
+                    Copiado
+                  </>
+                }
+              >
+                <Copy aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
+                Só copiar o código
+              </CopyCodeButton>
+            </>
+          )}
+
+          {couponCodeOffer && firstTier && lastTier && (
+            <>
+              <p className="text-[15px] font-semibold leading-[22px]">
+                {keepCurrencyTogether(
+                  `${tiers?.length} códigos: de ${firstTier.discount} em compras a partir de ${firstTier.minPurchase} até ${lastTier.discount} a partir de ${lastTier.minPurchase}.`,
+                )}
+              </p>
+              <a href="#faixas-de-desconto" className={`mt-3.5 ${PRIMARY_ACTION}`}>
+                Escolher minha faixa
+              </a>
+              <CouponStoreLink
+                href={coupon.offerUrl}
+                couponCode={couponCodeOffer.code}
+                brand={coupon.brand}
+                placement="coupon_page"
+                className={`mt-2.5 ${SECONDARY_ACTION}`}
+              >
+                Ir para a loja
+                <ExternalLink aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
+              </CouponStoreLink>
+            </>
+          )}
+
+          {affiliateLinkOffer && (
+            <>
+              <p className="text-center text-[15px] font-bold leading-[22px]">
+                Sem cupom para copiar: a oferta abre pelo link da Cecília.
+              </p>
+              <CouponStoreLink
+                href={coupon.offerUrl}
+                brand={coupon.brand}
+                placement="coupon_page"
+                className={`mt-3.5 ${PRIMARY_ACTION}`}
+              >
+                {storeLabel}
+                <ExternalLink aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
+              </CouponStoreLink>
+              {affiliateLinkOffer.referral && (
+                <a href="#indicacao" className={`mt-2.5 ${SECONDARY_ACTION}`}>
+                  Ver o código de indicação
+                </a>
+              )}
+            </>
+          )}
+
+          <p className="mt-3.5 flex items-center justify-center gap-2 text-center text-[13px] font-bold leading-[18px] text-verde-escuro">
+            <CircleCheck aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
+            Conferido em {lastVerified}
+          </p>
+        </section>
+
+        <div className="mt-10 flex flex-col gap-12 lg:col-start-1 lg:row-start-1 lg:mt-14 lg:gap-14">
+          {coupon.monthlyHighlight && (
+            <div className="rounded-xl border-2 border-marinho p-4 md:p-5">
+              <p className="text-base font-extrabold leading-[22px]">
+                {couponCodeOffer
+                  ? `${offerTypeTitle} ${coupon.brand} atualizado: ${couponCodeOffer.code} — ${coupon.discount} ${coupon.monthlyHighlight.scope} (${highlightMonthYear}).`
+                  : `Atualização da oferta ${coupon.brand}: ${coupon.discount} ${coupon.monthlyHighlight.scope} (${highlightMonthYear}).`}
+              </p>
+              <p className="mt-2 text-sm font-medium leading-[21px] text-marinho-suave">
+                {coupon.monthlyHighlight.note}. Confirme as condições e o valor final antes de finalizar.
+              </p>
+            </div>
+          )}
+
+          {tiers && (
+            <section aria-labelledby="faixas-de-desconto">
+              <SectionHeading id="faixas-de-desconto">Faixas de desconto do {coupon.brand}</SectionHeading>
+              <div className="mt-5 flex flex-col gap-3">
+                <p className="rounded-xl border-2 border-laranja bg-laranja/10 px-4 py-3 text-sm leading-[21px]">
                   <strong>Atenção:</strong> estes códigos da Cecília funcionam{' '}
                   <strong>somente pelo navegador</strong>, na loja{' '}
                   <a
                     href={coupon.offerUrl}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="font-semibold underline underline-offset-2"
+                    className={`font-bold underline underline-offset-2 wrap-anywhere ${FOCUS_RING}`}
                   >
                     {coupon.offerUrl.replace(/^https?:\/\/(www\.)?/, '').replace(/\/$/, '')}
                   </a>{' '}
                   — não funcionam no app do Magalu nem em magazineluiza.com.br.
                 </p>
-                <p className="rounded-2xl border border-black/8 bg-white px-4 py-3 text-sm leading-relaxed text-[#0f1419]/78">
+                <p className="rounded-xl border-2 border-marinho px-4 py-3 text-sm leading-[21px]">
                   <strong>Por que o endereço é diferente?</strong> O Magazine Você é a loja de
                   influenciadores do próprio Magalu: mesmo catálogo, mesmos preços e a mesma conta.
                   Você entra com o login Magalu de sempre, e quem vende, cobra, entrega e cuida do
@@ -366,270 +453,275 @@ export default async function CouponBrandPage({ params }: CouponBrandPageProps) 
                   cupons exclusivos da Cecília.
                 </p>
               </div>
-              <p className="mt-4 text-base leading-relaxed text-[#0f1419]/78">
+              <p className={`mt-4 ${BODY_TEXT}`}>
                 Escolha o código conforme o valor total do seu carrinho — quanto maior a faixa
                 alcançada, maior o desconto em reais. Clique no código para copiá-lo.
               </p>
-              <div className="mt-4 overflow-x-auto rounded-2xl border border-black/8">
-                <table className="w-full min-w-[480px] border-collapse text-left text-sm">
+              {/* O código fica inteiro numa coluna própria; a rolagem só entra abaixo de ~330px. */}
+              <div className="mt-4 overflow-x-auto rounded-xl border-2 border-marinho">
+                <table className="w-full border-collapse text-left">
                   <caption className="sr-only">
-                    Faixas de cupom {coupon.brand}: código, desconto e compra mínima
+                    Faixas de cupom {coupon.brand}: desconto, compra mínima e código
                   </caption>
-                  <thead>
-                    <tr className="bg-[#fef9f3]">
-                      <th scope="col" className="px-4 py-3 font-heading text-xs font-black uppercase tracking-[0.14em] text-[#0f1419]/70">
-                        Cupom (clique para copiar)
-                      </th>
-                      <th scope="col" className="px-4 py-3 font-heading text-xs font-black uppercase tracking-[0.14em] text-[#0f1419]/70">
+                  <thead className="bg-amarelo-cupom">
+                    <tr className="border-b-2 border-marinho">
+                      <th scope="col" className="px-3 py-2.5 text-[13px] font-extrabold leading-[18px]">
                         Desconto
                       </th>
-                      <th scope="col" className="px-4 py-3 font-heading text-xs font-black uppercase tracking-[0.14em] text-[#0f1419]/70">
-                        Compra mínima
+                      <th scope="col" className="px-3 py-2.5 text-[13px] font-extrabold leading-[18px]">
+                        Código
                       </th>
                     </tr>
                   </thead>
-                  <tbody className="divide-y divide-black/8">
-                    {couponCodeOffer.tiers.map((tier) => (
-                      <tr key={tier.code} className="bg-white">
-                        <td className="px-4 py-3">
-                          <CopyButton
+                  <tbody>
+                    {tiers.map((tier, index) => (
+                      <tr key={tier.code} className={index > 0 ? 'border-t-2 border-marinho/15' : undefined}>
+                        <td className="px-3 py-3 align-top">
+                          <span className="block font-condensada text-[26px] font-black leading-none font-stretch-extra-condensed">
+                            {keepCurrencyTogether(tier.discount)}
+                          </span>
+                          <span className="mt-1 block text-[13px] font-bold leading-[18px] text-marinho-suave">
+                            a partir de {keepCurrencyTogether(tier.minPurchase)}
+                          </span>
+                        </td>
+                        <td className="w-px px-3 py-3 align-top">
+                          <CopyCodeButton
                             code={tier.code}
-                            label={tier.code}
-                            copiedLabel="Copiado!"
-                            variant="outline"
                             brand={coupon.brand}
                             placement="coupon_page_tiers"
-                            className="font-mono text-xs font-black"
-                          />
+                            ariaLabel={`Copiar o código ${tier.code}`}
+                            className={`inline-flex min-h-11 items-center gap-2 whitespace-nowrap rounded-lg border-2 border-dashed border-marinho bg-white px-2.5 font-codigo text-xs font-extrabold text-marinho data-[copied=true]:border-solid data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-claro data-[copied=true]:text-verde-escuro ${FOCUS_RING}`}
+                            copiedChildren={
+                              <>
+                                {tier.code}
+                                <Check aria-hidden="true" className="h-4 w-4 shrink-0" />
+                              </>
+                            }
+                          >
+                            {tier.code}
+                            <Copy aria-hidden="true" className="h-4 w-4 shrink-0" />
+                          </CopyCodeButton>
                         </td>
-                        <td className="px-4 py-3 font-semibold text-[#0f1419]">{tier.discount}</td>
-                        <td className="px-4 py-3 text-[#0f1419]/78">{tier.minPurchase}</td>
                       </tr>
                     ))}
                   </tbody>
                 </table>
               </div>
-            </>
+            </section>
           )}
 
-          <h2 className={`font-heading text-2xl font-black text-[#0f1419]${couponCodeOffer?.tiers && couponCodeOffer.tiers.length > 0 ? ' mt-12' : ''}`}>
-            {couponCodeOffer
-              ? `Detalhes do ${offerType} ${couponCodeOffer.code}`
-              : `Detalhes da oferta ${coupon.brand}`}
-          </h2>
-          <dl className="mt-6 divide-y divide-black/8 rounded-2xl border border-black/8">
-            {couponCodeOffer && <DetailRow label="Código" value={couponCodeOffer.code} mono />}
-            <DetailRow label={couponCodeOffer ? 'Desconto' : 'Benefício'} value={coupon.discount} />
-            <DetailRow label="Loja" value={coupon.brand} />
-            <DetailRow label="Abrangência" value={coupon.eligibleCategories} />
-            <DetailRow label="Validade" value={coupon.validity} />
-            <DetailRow label="Reusável" value={coupon.reusable} />
-            <DetailRow label="Cumulativo" value={coupon.combinable} />
-            <DetailRow label="Frete" value={coupon.shipping} />
-            <DetailRow label="Última verificação" value={lastVerified} />
-          </dl>
+          <section aria-labelledby="regras">
+            <SectionHeading id="regras">Regras sem letra miúda</SectionHeading>
+            <dl className="mt-5 flex flex-col gap-3.5">
+              {rules.map(({ icon: Icon, label, value }) => (
+                <div key={label} className="relative min-h-10 pl-[52px]">
+                  <dt className="text-[13px] font-bold leading-[18px] text-marinho-suave">
+                    <span
+                      aria-hidden="true"
+                      className="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-full border-2 border-marinho bg-amarelo-cupom"
+                    >
+                      <Icon className="h-5 w-5" />
+                    </span>
+                    {label}
+                  </dt>
+                  <dd className="text-[15px] font-bold leading-[22px]">{value}</dd>
+                </div>
+              ))}
+            </dl>
+          </section>
 
           {coupon.referral && (
-            <>
-              <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">
-                {coupon.referral.label}
-              </h2>
-              <div className="mt-4 rounded-2xl border border-black/8 bg-[#fef9f3] p-5">
-                <code className="font-mono text-2xl font-black tracking-[0.08em] text-[#0f1419]">
-                  {coupon.referral.code}
-                </code>
-                <p className="mt-3 text-sm leading-relaxed text-[#0f1419]/72">
-                  {coupon.referral.instructions}
-                </p>
-                <p className="mt-3 text-xs text-[#0f1419]/52">
-                  Verificado em{' '}
-                  {new Date(`${coupon.referral.verifiedAt}T12:00:00`).toLocaleDateString('pt-BR')}.
+            <section aria-labelledby="indicacao">
+              <SectionHeading id="indicacao">{coupon.referral.label}</SectionHeading>
+              <div className="mt-5 rounded-xl border-2 border-dashed border-marinho p-4">
+                <div className="flex flex-wrap items-center gap-3">
+                  <code className="font-codigo text-[26px] font-extrabold tracking-[0.06em]">{coupon.referral.code}</code>
+                  <CopyCodeButton
+                    code={coupon.referral.code}
+                    brand={coupon.brand}
+                    placement="coupon_page"
+                    ariaLabel={`Copiar o código ${coupon.referral.code}`}
+                    className={`ml-auto flex min-h-11 items-center gap-2 rounded-lg border-2 border-marinho bg-laranja px-3.5 text-sm font-extrabold text-marinho data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-escuro data-[copied=true]:text-white ${FOCUS_RING}`}
+                    copiedChildren={
+                      <>
+                        <Check aria-hidden="true" className="h-[18px] w-[18px]" />
+                        Copiado
+                      </>
+                    }
+                  >
+                    <Copy aria-hidden="true" className="h-[18px] w-[18px]" />
+                    Copiar
+                  </CopyCodeButton>
+                </div>
+                <p className="mt-3 text-sm font-medium leading-[21px] text-marinho-suave">{coupon.referral.instructions}</p>
+                <p className="mt-2 text-xs font-semibold leading-4 text-marinho-suave">
+                  Verificado em {formatShortDate(coupon.referral.verifiedAt)}.
                 </p>
               </div>
-            </>
+            </section>
           )}
 
           {coupon.campaigns && coupon.campaigns.length > 0 && (
-            <>
-              <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">
-                Campanhas ativas da {coupon.brand}
-              </h2>
-              <div className="mt-4 grid gap-4 md:grid-cols-2">
+            <section aria-labelledby="campanhas">
+              <SectionHeading id="campanhas">Campanhas ativas da {coupon.brand}</SectionHeading>
+              <div className="mt-5 grid gap-3 md:grid-cols-2">
                 {coupon.campaigns.map((campaign) => (
-                  <article key={`${campaign.code}-${campaign.offerUrl}`} className="rounded-2xl border border-black/8 bg-white p-5 shadow-soft">
-                    <h3 className="font-heading text-lg font-black text-[#0f1419]">{campaign.title}</h3>
-                    <code className="mt-3 inline-block rounded-lg bg-[#fef9f3] px-3 py-2 font-mono text-sm font-black tracking-[0.08em] text-[#0f1419]">
+                  <article key={`${campaign.code}-${campaign.offerUrl}`} className="flex flex-col rounded-xl border-2 border-marinho p-4">
+                    <h3 className="text-lg font-extrabold leading-6">{campaign.title}</h3>
+                    <code className="mt-3 self-start rounded-lg border-2 border-dashed border-marinho bg-amarelo-cupom px-3 py-1.5 font-codigo text-sm font-extrabold tracking-[0.06em]">
                       {campaign.code}
                     </code>
-                    <p className="mt-3 text-sm leading-relaxed text-[#0f1419]/72">{campaign.description}</p>
-                    <p className="mt-2 text-xs leading-relaxed text-[#0f1419]/56">{campaign.eligibility}</p>
+                    <p className="mt-3 text-sm font-medium leading-[21px] text-marinho-suave">{campaign.description}</p>
+                    <p className="mt-2 text-xs font-medium leading-[18px] text-marinho-suave">{campaign.eligibility}</p>
                     <CouponStoreLink
                       href={campaign.offerUrl}
-                      label="Abrir campanha na SHEIN"
                       brand={coupon.brand}
                       placement="coupon_page"
-                      className="mt-4 inline-flex items-center justify-center rounded-lg bg-[#0f1419] px-4 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-[#0f1419]/85 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#ff6b35]"
-                    />
-                    <p className="mt-3 text-[11px] text-[#0f1419]/48">
-                      Verificada em{' '}
-                      {new Date(`${campaign.verifiedAt}T12:00:00`).toLocaleDateString('pt-BR')}.
+                      className={`mt-4 ${PRIMARY_ACTION}`}
+                    >
+                      Abrir campanha na {coupon.brand}
+                      <ExternalLink aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
+                    </CouponStoreLink>
+                    <p className="mt-3 text-[11px] font-semibold leading-4 text-marinho-suave">
+                      Verificada em {formatShortDate(campaign.verifiedAt)}.
                     </p>
                   </article>
                 ))}
               </div>
-            </>
+            </section>
           )}
 
-          <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">
-            {couponCodeOffer
-              ? `Como aplicar o ${offerType} ${couponCodeOffer.code} na ${coupon.brand}`
-              : `Como acessar a oferta da ${coupon.brand}`}
-          </h2>
-          <ol className="mt-4 list-decimal space-y-3 pl-6 text-base leading-relaxed text-[#0f1419]/78">
-            {offerInstructions.map((instruction) => (
-              <li key={instruction}>{instruction}</li>
-            ))}
-          </ol>
-          <p className="mt-4 rounded-2xl border border-[#ff6b35]/25 bg-[#fff7ed] px-4 py-3 text-sm leading-relaxed text-[#7c2d12]">
-            {couponCodeOffer ? (
-              <>Campo correto: <strong>{codeFieldLabel}</strong>. Confirme sempre o resumo do pedido antes de pagar.</>
-            ) : coupon.referral ? (
-              <>O link principal abre a SHEIN; códigos de indicação e de campanha são pesquisados no aplicativo. Confirme as condições exibidas para a sua conta antes de pagar.</>
-            ) : (
-              <>Esta oferta é acessada pelo link indicado e não exige código para copiar. Confirme as condições na loja antes de pagar.</>
-            )}
-          </p>
+          <section aria-labelledby="como-usar">
+            <SectionHeading id="como-usar">
+              {couponCodeOffer
+                ? `Como usar o ${offerType} ${couponCodeOffer.code}`
+                : `Como acessar a oferta da ${coupon.brand}`}
+            </SectionHeading>
+            <ol className="mt-5 flex flex-col gap-3">
+              {offerInstructions.map((instruction, index) => (
+                <li key={instruction} className="flex items-start gap-3">
+                  <span
+                    aria-hidden="true"
+                    className="min-w-7 shrink-0 font-condensada text-[44px] font-black leading-10 font-stretch-extra-condensed"
+                  >
+                    {index + 1}
+                  </span>
+                  <span className="pt-2 text-[15px] font-semibold leading-[22px] md:text-base md:leading-6">{instruction}</span>
+                </li>
+              ))}
+            </ol>
+            <p className="mt-5 rounded-xl bg-verde-claro px-4 py-3 text-sm font-semibold leading-[21px] text-verde-escuro">
+              {couponCodeOffer ? (
+                <>Campo correto: <strong>{codeFieldLabel}</strong>. Confirme sempre o resumo do pedido antes de pagar.</>
+              ) : coupon.referral ? (
+                <>O link principal abre a SHEIN; códigos de indicação e de campanha são pesquisados no aplicativo. Confirme as condições exibidas para a sua conta antes de pagar.</>
+              ) : (
+                <>Esta oferta é acessada pelo link indicado e não exige código para copiar. Confirme as condições na loja antes de pagar.</>
+              )}
+            </p>
+          </section>
 
-          <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">
-            Sobre a {coupon.brand}
-          </h2>
-          <p className="mt-4 text-base leading-relaxed text-[#0f1419]/78">
-            {coupon.aboutBrand}
-          </p>
+          <section aria-labelledby="sobre">
+            <SectionHeading id="sobre">Sobre a {coupon.brand}</SectionHeading>
+            <p className={`mt-4 ${BODY_TEXT}`}>{coupon.aboutBrand}</p>
+          </section>
 
-          <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">
-            {couponCodeOffer
-              ? `Perguntas frequentes sobre ${offerTypePlural} ${coupon.brand}`
-              : `Perguntas frequentes sobre ${offerTypePlural} da ${coupon.brand}`}
-          </h2>
-          <div className="mt-4">
-            <FAQAccordion items={coupon.faqs} />
-          </div>
+          {coupon.relatedContent && coupon.relatedContent.length > 0 && (
+            <section aria-labelledby="leia-antes">
+              <SectionHeading id="leia-antes">Leia antes de comprar</SectionHeading>
+              <div className="mt-5 grid gap-2.5 md:grid-cols-2">
+                {coupon.relatedContent.map((item) => (
+                  <Link
+                    key={item.url}
+                    href={item.url}
+                    className={`flex items-center gap-3 rounded-xl border-2 border-marinho px-3.5 py-3 transition-colors hover:bg-creme ${FOCUS_RING}`}
+                  >
+                    <span className="flex min-w-0 flex-1 flex-col gap-1">
+                      <span className="text-xs font-extrabold leading-4 text-marinho-suave">
+                        {item.type === 'review' ? 'Review' : 'Post'} · {formatShortDate(item.publishedAt)}
+                      </span>
+                      <span className="text-[15px] font-bold leading-[21px]">{item.title}</span>
+                    </span>
+                    <ChevronRight aria-hidden="true" className="h-5 w-5 shrink-0" />
+                  </Link>
+                ))}
+              </div>
+            </section>
+          )}
+
+          <section aria-labelledby="perguntas">
+            <SectionHeading id="perguntas">
+              {couponCodeOffer
+                ? `Perguntas frequentes sobre ${offerTypePlural} ${coupon.brand}`
+                : `Perguntas frequentes sobre ${offerTypePlural} da ${coupon.brand}`}
+            </SectionHeading>
+            <div className="mt-5">
+              <CouponFaq items={coupon.faqs} />
+            </div>
+          </section>
 
           {couponCodeOffer?.history && couponCodeOffer.history.length > 0 && (
-            <>
-              <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">
-                Histórico de cupons da {coupon.brand}
-              </h2>
-              <p className="mt-4 text-base leading-relaxed text-[#0f1419]/78">
+            <section aria-labelledby="historico">
+              <SectionHeading id="historico">Histórico de cupons da {coupon.brand}</SectionHeading>
+              <p className={`mt-4 ${BODY_TEXT}`}>
                 Cupons anteriores já usados nessa parceria. O cupom ativo atual é{' '}
-                <strong>{couponCodeOffer.code}</strong>.
+                <strong className="text-marinho">{couponCodeOffer.code}</strong>.
               </p>
-              <ul className="mt-4 space-y-3">
+              <ul className="mt-4 flex flex-col gap-2.5">
                 {couponCodeOffer.history.map((item) => (
                   <li
                     key={`${item.date}-${item.code}`}
-                    className="flex flex-wrap items-center gap-3 rounded-xl bg-[#fef9f3] px-4 py-3 text-sm"
+                    className="flex flex-wrap items-center gap-x-3 gap-y-1 rounded-xl border-2 border-marinho/15 px-4 py-3 text-sm"
                   >
-                    <span className="text-xs font-semibold text-[#0f1419]/54">{item.date}</span>
-                    <code className="rounded bg-white px-2 py-0.5 font-mono text-xs font-black text-[#0f1419]">
-                      {item.code}
-                    </code>
-                    <span className="font-bold text-[#0f1419]">{item.discount}</span>
-                    {item.note && <span className="text-[#0f1419]/62">{item.note}</span>}
+                    <span className="text-xs font-bold text-marinho-suave">{item.date}</span>
+                    <code className="font-codigo text-[13px] font-extrabold">{item.code}</code>
+                    <span className="font-extrabold">{item.discount}</span>
+                    {item.note && <span className="text-marinho-suave">{item.note}</span>}
                   </li>
                 ))}
               </ul>
-            </>
+            </section>
           )}
-
-          {coupon.relatedContent && coupon.relatedContent.length > 0 && (
-            <>
-              <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">
-                Conteúdo relacionado da {coupon.brand}
-              </h2>
-              <div className="mt-4 grid gap-3 md:grid-cols-2">
-                {coupon.relatedContent.map((item) => (
-                  <a
-                    key={item.url}
-                    href={item.url}
-                    className="rounded-2xl border border-black/8 bg-white p-4 shadow-soft transition-all hover:-translate-y-0.5 hover:border-[#ff6b35]/35 hover:shadow-md"
-                  >
-                    <p className="text-sm font-bold text-[#0f1419]">{item.title}</p>
-                    <p className="mt-1 text-xs text-[#0f1419]/55">
-                      {item.type === 'review' ? 'Review' : 'Post'} ·{' '}
-                      {new Date(item.publishedAt).toLocaleDateString('pt-BR')}
-                    </p>
-                  </a>
-                ))}
-              </div>
-            </>
-          )}
-
-          {otherCoupons.length > 0 && (
-            <>
-              <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">
-                Outros benefícios ativos
-              </h2>
-              <div className="mt-4 grid gap-3 md:grid-cols-2">
-                {otherCoupons.map((otherCoupon) => (
-                  <CouponPillCard
-                    key={otherCoupon.slug}
-                    {...(otherCoupon.offerMode === 'discount-code'
-                      ? { offerMode: otherCoupon.offerMode, code: otherCoupon.code }
-                      : { offerMode: otherCoupon.offerMode })}
-                    brand={otherCoupon.brand}
-                    brandIcon={otherCoupon.brandIcon}
-                    brandLogo={otherCoupon.brandLogo}
-                    brandLogoAlt={otherCoupon.brandLogoAlt}
-                    shortDescription={otherCoupon.shortDescription}
-                    discount={otherCoupon.discount}
-                    href={`/cupons/${otherCoupon.slug}`}
-                  />
-                ))}
-              </div>
-            </>
-          )}
-
-          <div className="mt-14 rounded-2xl bg-[#fef9f3] p-6">
-            <h2 className="font-heading text-xl font-black text-[#0f1419]">Transparência</h2>
-            <p className="mt-3 text-sm leading-relaxed text-[#0f1419]/68">
-              {couponCodeOffer ? (
-                <>Esta página pode conter links de afiliado. Quando você compra usando o {offerType}{' '}
-                  <strong>{couponCodeOffer.code}</strong> ou acessa a loja pelo link indicado, o Em Casa com Cecília
-                  pode receber comissão da marca, sem custo extra para você.</>
-              ) : (
-                <>Esta página contém um link de afiliado. Quando você acessa a oferta e compra pelo link indicado,
-                  o Em Casa com Cecília pode receber comissão da marca, sem custo extra para você.</>
-              )}
-            </p>
-          </div>
         </div>
-      </article>
+      </div>
 
-      {coupon.offerMode === 'discount-code' ? (
-        <CouponBottomBar
-          offerMode={coupon.offerMode}
-          coupon={coupon.code}
-          cta={{ url: coupon.offerUrl, label: 'Usar na loja' }}
-        />
-      ) : (
-        <CouponBottomBar
-          offerMode={coupon.offerMode}
-          cta={{ url: coupon.offerUrl, label: offerAction }}
-        />
+      {otherCoupons.length > 0 && (
+        <section aria-labelledby="outros-cupons" className="mx-auto mt-14 max-w-6xl md:px-8">
+          <div className="px-4 md:px-0">
+            <SectionHeading id="outros-cupons">Outros cupons</SectionHeading>
+          </div>
+          <div className="hide-scrollbar mt-5 flex snap-x snap-mandatory scroll-px-4 gap-3 overflow-x-auto px-4 pb-2 md:grid md:grid-cols-3 md:overflow-visible md:px-0 lg:grid-cols-4">
+            {otherCoupons.map((otherCoupon) => (
+              <OtherCouponCard key={otherCoupon.slug} coupon={otherCoupon} />
+            ))}
+          </div>
+        </section>
       )}
-    </main>
-  );
-}
 
-function DetailRow({ label, value, mono }: { label: string; value: string; mono?: boolean }) {
-  return (
-    <div className="flex flex-col gap-1 px-4 py-3 md:flex-row md:gap-6">
-      <dt className="w-44 shrink-0 text-sm text-[#0f1419]/58">{label}</dt>
-      <dd className={`text-sm font-semibold text-[#0f1419] ${mono ? 'font-mono tracking-wide' : ''}`}>
-        {value}
-      </dd>
-    </div>
+      <section aria-labelledby="transparencia" className="mx-auto max-w-6xl px-4 pt-12 pb-10 md:px-8">
+        <h2 id="transparencia" className="text-[15px] font-extrabold leading-[22px]">
+          Transparência
+        </h2>
+        <p className="mt-1.5 max-w-[68ch] text-[13px] font-medium leading-5 text-marinho-suave">
+          {couponCodeOffer ? (
+            <>Esta página pode conter links de afiliado. Quando você compra usando o {offerType}{' '}
+              <strong className="text-marinho">{couponCodeOffer.code}</strong> ou acessa a loja pelo link indicado, o Em Casa com Cecília
+              pode receber comissão da marca, sem custo extra para você.</>
+          ) : (
+            <>Esta página contém um link de afiliado. Quando você acessa a oferta e compra pelo link indicado,
+              o Em Casa com Cecília pode receber comissão da marca, sem custo extra para você.</>
+          )}
+        </p>
+      </section>
+
+      <CouponDock
+        targetId="cupom"
+        brand={coupon.brand}
+        storeUrl={coupon.offerUrl}
+        storeLabel={storeLabel}
+        code={couponCodeOffer?.code}
+        tiersHref={tiers ? '#faixas-de-desconto' : undefined}
+      />
+    </main>
   );
 }
