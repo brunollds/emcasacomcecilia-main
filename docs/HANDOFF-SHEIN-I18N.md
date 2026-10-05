@@ -9,6 +9,9 @@ retrofitar i18n num artigo já indexado significa mudar URL, refazer canonical e
 backfillar hreflang. Nasce na estrutura, publica PT, os locales entram depois sem
 mexer em URL.
 
+> **Atualização de 05/10/2026:** a página da loja (`/cupons/shein`) já está nos 10 idiomas,
+> por decisão do Bruno. Ver "Página da loja em 10 idiomas", no fim.
+
 Caminhos relativos a `emcasacomcecilia/`. Estado verificado em 10/08/2026, com
 1a (`5b0c0d3`), 1b-A (`1e876e7`) e 1b-B (`cc9a198`) commitados.
 
@@ -138,7 +141,7 @@ O modelo YesStyle mapeia bem para conteúdo evergreen e mal para haul.
 
 | Camada | Multi-idioma? | Quando |
 |---|---|---|
-| `/cupons/shein` + explicação link afiliado × código de indicação × código de campanha | sim — é o núcleo do cluster | estrutura no Commit 2; locales conforme conversão |
+| `/cupons/shein` + explicação link afiliado × código de indicação × código de campanha | sim — é o núcleo do cluster | estrutura no Commit 2; os 10 idiomas entraram em 05/10/2026 (ver no fim) |
 | Tabela de medidas comentada | sim, mas com numeração local (BR ≠ EU ≠ US) — adaptação, não tradução | depois de PT validado |
 | Haul de peças recebidas | **não** — PT-first | outros mercados só com peças locais |
 
@@ -254,6 +257,61 @@ marca parceira prevista. Artigos de bebida vivem em `content/reviews/` e já usa
 `contentSections[].links[]`. A especificação de `couponCallout` permanece arquivada em
 `HANDOFF-CUPONS-FASE-1A.md` para o dia em que surgir um consumidor real.
 
+## Página da loja em 10 idiomas (05/10/2026)
+
+Decisão do Bruno em 05/10/2026: a página da loja da SHEIN ganha os mesmos 10 idiomas da
+YesStyle, sem esperar o gate de conversão do início deste documento. Vale só para a página da
+loja; haul continua PT-first. Feito de `56b1793` a `075f59c`; os testes vieram no commit
+seguinte.
+
+| O quê | Onde |
+|---|---|
+| Rota `/<locale>/coupons/shein` | `src/app/[locale]/coupons/[brand]/page.tsx`, com `dynamicParams = false`; as rotas estáticas da YesStyle vencem a dinâmica |
+| Textos da SHEIN nos 9 idiomas | `SHEIN_TRANSLATIONS` em `src/lib/couponTranslations.ts` |
+| Textos da interface da página de loja | `src/components/coupons/couponStoreCopy.tsx` |
+| canonical, hreflang, `og:locale` e JSON-LD | `src/components/coupons/CouponStorePage.tsx` |
+| Link da SHEIN no menu e no rodapé fora do PT | `src/lib/i18n/shellDictionary.ts` |
+| sitemap e llms.txt | `src/app/sitemap.ts` e `src/app/(pt)/llms.txt/route.ts` |
+
+A tradução só traz texto. Códigos, datas, status e links das campanhas vêm do cupom em PT
+(`couponsData.ts`): reconferir a oferta lá vale para os 10 idiomas. Fora do PT:
+
+- o hreflang lista os 10 idiomas, com `x-default` no inglês (vale também em `/cupons/shein`);
+- a trilha vai da home do idioma direto para a loja, porque não há hub de cupons, e "Outros
+  cupons" não aparece;
+- os 50% de novos usuários ficam fora do título e da descrição de busca.
+
+### Dois links principais
+
+| Páginas | Link principal | Onde fica |
+|---|---|---|
+| `/cupons/shein` | o link brasileiro do código `4CW5Y` (tabela de 11/08) | `offerUrl` do cupom em `couponsData.ts` |
+| as 9 fora do PT | `https://onelink.shein.com/55/6463grgxf6ru` | `COUPON_TRANSLATIONS.shein.offerUrl` em `couponTranslations.ts` |
+
+**Correção de premissa, 05/10/2026:** além do link do código, o painel da SHEIN gera um link
+sem `br.`. O Bruno gerou o da tabela em 05/10/2026; como o outro, é dado comercial que se
+reconfere. Ele não substitui o do PT, que continua ligado ao código `4CW5Y`. O código de
+indicação e as duas campanhas seguem sendo da SHEIN Brasil, e cada idioma avisa isso em
+`longDescription` e `linkNote`. Também não conferir esse link clicando.
+
+### Quebra de linha em coreano, japonês e chinês
+
+`globals.css` aplica `word-break: keep-all` em `html:lang(ko)`, porque o padrão do navegador
+partia palavras ao meio, e `line-break: strict` com `word-break: auto-phrase` em `html:lang(ja)`.
+As duas regras valem para o site todo, YesStyle inclusive. No celular, o número do hero cai
+para 48px em japonês e chinês (`CouponBlocks.tsx`). O `zh-hant` usa `og:locale` `zh_HK`.
+
+### Testes
+
+| Teste | O que pega | Quando roda |
+|---|---|---|
+| `npm run test:coupon-translations` | texto em PT sobrando; código, data ou campanha diferente do PT; FAQ do PT com mais ou menos perguntas que a tradução; link neutro trocado; aviso da SHEIN Brasil faltando; 50% na busca | antes do `next build` |
+| `npm run test:shell-navigation` | link SHEIN do menu diferente de `getCouponStorePath` | antes do `next build` |
+| `npm run test:html-lang` | `<html lang>` das 10 páginas | depois do `next build` |
+| `npm run test:build-output` | regras de CJK no CSS final; URL do sitemap.xml ou do llms.txt sem página; canonical, hreflang, `og:locale`, `inLanguage` e link principal das 10 páginas | depois do `next build` |
+
+Os quatro rodam dentro do `npm run build`.
+
 ## Verificação
 
 ```bash
@@ -262,6 +320,7 @@ npm run lint
 npm run validate:content
 npm run test:internal-links
 npm run test:coupon-offer-modes
+npm run test:coupon-translations
 npm run build
 npx tsx scripts/test-yesstyle-mutation.ts
 ```
