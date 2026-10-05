@@ -109,6 +109,8 @@ export type CouponCodeOffer = CouponBase & {
 export type AffiliateLinkOffer = CouponBase & {
   offerMode: 'affiliate-link';
   linkInstructions?: string[];
+  // Aviso no fim de "Como acessar a oferta"; sem ele a página usa o aviso padrão de link.
+  linkNote?: string;
 };
 
 export type Coupon = CouponCodeOffer | AffiliateLinkOffer;
@@ -962,6 +964,8 @@ export const COUPONS: Coupon[] = [
       'Confira elegibilidade, produtos e prazo diretamente na SHEIN.',
       'Verifique o valor final antes de concluir a compra.',
     ],
+    linkNote:
+      'O link principal abre a SHEIN; códigos de indicação e de campanha são pesquisados no aplicativo. Confirme as condições exibidas para a sua conta antes de pagar.',
     affiliateAccountId: '6177013015',
     referral: {
       code: '4CW5Y',

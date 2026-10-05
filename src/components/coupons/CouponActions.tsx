@@ -40,6 +40,8 @@ type CopyCodeButtonProps = {
   copiedChildren: ReactNode;
   // Para quando o texto visível não diz a ação (só ícone ou só o código); precisa conter esse texto.
   ariaLabel?: string;
+  // O que o leitor de tela anuncia ao copiar; sem ele, a frase em português.
+  copiedStatus?: string;
 };
 
 // O estado "copiado" sai em data-copied para o estilo trocar via data-[copied=true]:.
@@ -51,6 +53,7 @@ export function CopyCodeButton({
   children,
   copiedChildren,
   ariaLabel,
+  copiedStatus,
 }: CopyCodeButtonProps) {
   const { copied, copy } = useCopyCode(code, brand, placement);
 
@@ -60,7 +63,7 @@ export function CopyCodeButton({
         {copied ? copiedChildren : children}
       </button>
       <span role="status" className="sr-only">
-        {copied ? `Código ${code} copiado.` : ''}
+        {copied ? copiedStatus ?? `Código ${code} copiado.` : ''}
       </span>
     </>
   );
@@ -73,6 +76,7 @@ type CopyAndOpenStoreLinkProps = {
   className: string;
   children: ReactNode;
   copiedChildren: ReactNode;
+  copiedStatus: string;
 };
 
 // Copia e deixa o link abrir a loja em outra aba; a escrita na área de transferência começa
@@ -84,6 +88,7 @@ export function CopyAndOpenStoreLink({
   className,
   children,
   copiedChildren,
+  copiedStatus,
 }: CopyAndOpenStoreLinkProps) {
   const { copied, copy } = useCopyCode(code, brand, 'coupon_page');
 
@@ -105,7 +110,7 @@ export function CopyAndOpenStoreLink({
         {copied ? copiedChildren : children}
       </a>
       <span role="status" className="sr-only">
-        {copied ? `Código ${code} copiado. A loja abriu em outra aba.` : ''}
+        {copied ? copiedStatus : ''}
       </span>
     </>
   );
@@ -116,9 +121,12 @@ type CouponDockProps = {
   brand: string;
   storeUrl: string;
   storeLabel: string;
-  code?: string;
-  // Com faixas (Magalu) o dock leva à tabela em vez de copiar um código; o código segue no rastreio.
-  tiersHref?: string;
+  // Vai no rastreio do clique na loja, inclusive quando o dock mostra as faixas.
+  trackingCode?: string;
+  // Os textos chegam prontos, no idioma da página.
+  copyAction?: { code: string; ariaLabel: string; copiedLabel: string; copiedStatus: string };
+  // Com faixas (Magalu) o dock leva à tabela em vez de copiar um código.
+  tiersAction?: { href: string; label: string };
 };
 
 const dockCodeSize = (code: string) =>
@@ -126,7 +134,15 @@ const dockCodeSize = (code: string) =>
 
 // Aparece só depois que o recorte com o código sai da tela. Fica sticky no fim do <main>,
 // então reserva o próprio espaço e nunca cobre o rodapé.
-export function CouponDock({ targetId, brand, storeUrl, storeLabel, code, tiersHref }: CouponDockProps) {
+export function CouponDock({
+  targetId,
+  brand,
+  storeUrl,
+  storeLabel,
+  trackingCode,
+  copyAction,
+  tiersAction,
+}: CouponDockProps) {
   const [visible, setVisible] = useState(false);
 
   useEffect(() => {
@@ -144,7 +160,7 @@ export function CouponDock({ targetId, brand, storeUrl, storeLabel, code, tiersH
     return () => observer.disconnect();
   }, [targetId]);
 
-  const hasSecondaryAction = Boolean(code || tiersHref);
+  const hasSecondaryAction = Boolean(copyAction || tiersAction);
 
   return (
     <div
@@ -154,35 +170,36 @@ export function CouponDock({ targetId, brand, storeUrl, storeLabel, code, tiersH
       }`}
     >
       <div className="mx-auto flex max-w-lg items-center gap-2.5">
-        {tiersHref ? (
+        {tiersAction ? (
           <a
-            href={tiersHref}
+            href={tiersAction.href}
             className="flex min-h-12 min-w-0 flex-1 items-center justify-center rounded-[10px] border-2 border-dashed border-marinho bg-amarelo-cupom px-3 text-[15px] font-extrabold text-marinho focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-marinho"
           >
-            Escolher faixa
+            {tiersAction.label}
           </a>
-        ) : code ? (
+        ) : copyAction ? (
           <CopyCodeButton
-            code={code}
+            code={copyAction.code}
             brand={brand}
             placement="bottom_bar"
-            ariaLabel={`Copiar o código ${code}`}
+            ariaLabel={copyAction.ariaLabel}
+            copiedStatus={copyAction.copiedStatus}
             className="flex min-h-12 min-w-0 flex-1 items-center justify-between gap-2 rounded-[10px] border-2 border-dashed border-marinho bg-amarelo-cupom px-3 font-codigo font-extrabold text-marinho focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-marinho data-[copied=true]:border-solid data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-claro data-[copied=true]:text-verde-escuro"
             copiedChildren={
               <span className="flex flex-1 items-center justify-center gap-2 font-sans text-[15px]">
                 <Check aria-hidden="true" className="h-[18px] w-[18px]" />
-                Copiado
+                {copyAction.copiedLabel}
               </span>
             }
           >
             <Scissors aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
-            <span className={`min-w-0 break-all leading-5 ${dockCodeSize(code)}`}>{code}</span>
+            <span className={`min-w-0 break-all leading-5 ${dockCodeSize(copyAction.code)}`}>{copyAction.code}</span>
             <Copy aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
           </CopyCodeButton>
         ) : null}
         <CouponStoreLink
           href={storeUrl}
-          couponCode={code}
+          couponCode={trackingCode}
           brand={brand}
           placement="bottom_bar"
           className={`flex min-h-12 items-center justify-center gap-2 rounded-[10px] border-2 border-marinho bg-laranja px-3.5 text-[15px] font-extrabold text-marinho focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-marinho ${
