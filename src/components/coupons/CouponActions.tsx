@@ -6,7 +6,13 @@ import { CouponStoreLink } from '@/components/CouponComponents';
 import { copyTextWithFallback } from '@/lib/clipboardUtils';
 import { trackEvent } from '@/lib/analytics';
 
-type CopyPlacement = 'coupon_page' | 'coupon_page_tiers' | 'coupon_page_others' | 'bottom_bar';
+type CopyPlacement =
+  | 'coupon_page'
+  | 'coupon_page_tiers'
+  | 'coupon_page_others'
+  | 'coupon_hub'
+  | 'coupon_hub_featured'
+  | 'bottom_bar';
 
 function useCopyCode(code: string, brand: string, placement: CopyPlacement) {
   const [copied, setCopied] = useState(false);

@@ -28,6 +28,17 @@ export interface CouponCampaign {
   verifiedAt: string;
 }
 
+// Prateleiras do hub /cupons, na ordem em que aparecem na página.
+export const COUPON_HUB_CATEGORIES = [
+  { id: 'moda', label: 'Moda' },
+  { id: 'beleza', label: 'Beleza' },
+  { id: 'alimentacao', label: 'Alimentação' },
+  { id: 'casa', label: 'Casa' },
+  { id: 'diversos', label: 'Diversos' },
+] as const;
+
+export type CouponHubCategory = (typeof COUPON_HUB_CATEGORIES)[number]['id'];
+
 interface CouponBase {
   slug: string;
   brand: string;
@@ -46,6 +57,8 @@ interface CouponBase {
   offerTypeLabelPlural?: string;
   offerActionLabel?: string;
   category: string;
+  // Prateleira do hub /cupons; ordem e rótulo vêm de COUPON_HUB_CATEGORIES.
+  hubCategory: CouponHubCategory;
   shortDescription: string;
   longDescription: string;
   metaTitle: string;
@@ -59,7 +72,10 @@ interface CouponBase {
   aboutBrand: string;
   faqs: CouponFAQ[];
   status: 'ativo' | 'pausado' | 'expirado';
+  // Entra em "Destaques" no topo do hub, na ordem deste array; o primeiro ganha o card maior.
   featured: boolean;
+  // Frase de vitrine que só o card maior dos Destaques mostra.
+  featuredPitch?: string;
   relatedContent?: {
     title: string;
     url: string;
@@ -115,6 +131,7 @@ export const COUPONS: Coupon[] = [
     discount: '12% OFF',
     discountNumber: 12,
     category: 'Móveis e decoração',
+    hubCategory: 'casa',
     shortDescription: 'todo o site DAMIE',
     longDescription:
       'Código exclusivo da Cecília para economizar em compras no site da DAMIE.',
@@ -172,6 +189,7 @@ export const COUPONS: Coupon[] = [
     ],
     status: 'ativo',
     featured: true,
+    featuredPitch: 'Poltronas reclináveis, sofás e camas.',
     relatedContent: [
       {
         title: 'Minha experiência: Poltronas Reclináveis DAMIE',
@@ -218,6 +236,7 @@ export const COUPONS: Coupon[] = [
     discount: '5% OFF',
     discountNumber: 5,
     category: 'Café e bebidas',
+    hubCategory: 'alimentacao',
     shortDescription: 'cápsulas, máquinas e acessórios da loja oficial',
     longDescription:
       'Código da Cecília para economizar em compras na loja oficial Nescafé Dolce Gusto Brasil.',
@@ -321,6 +340,7 @@ export const COUPONS: Coupon[] = [
       ];
     },
     category: 'Beleza, moda e lifestyle',
+    hubCategory: 'beleza',
     get shortDescription() {
       const r = getPrimaryRewardCode();
       return `até ${r.newCustomerDiscount}% OFF extra (${r.newCustomerDiscount}% 1ª compra / ${r.returningCustomerDiscount}% recorrente)`;
@@ -390,7 +410,7 @@ export const COUPONS: Coupon[] = [
       ];
     },
     status: 'ativo',
-    featured: true,
+    featured: false,
     get relatedContent() {
       const r = getPrimaryRewardCode();
       return [
@@ -437,6 +457,7 @@ export const COUPONS: Coupon[] = [
     discount: '10% OFF',
     discountNumber: 10,
     category: 'Nutrição e bem-estar',
+    hubCategory: 'alimentacao',
     shortDescription: 'produtos Nestlé Nutre, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses',
     longDescription:
       'Código da Cecília para economizar em produtos Nestlé Nutre na loja oficial, exceto Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses, como NAN.',
@@ -495,7 +516,7 @@ export const COUPONS: Coupon[] = [
       },
     ],
     status: 'ativo',
-    featured: true,
+    featured: false,
     relatedContent: [
       {
         title: 'Cupom Nestlé Nutre CECI: como usar o desconto de 10%',
@@ -524,6 +545,7 @@ export const COUPONS: Coupon[] = [
     discount: '10% OFF',
     discountNumber: 10,
     category: 'Sono e conforto',
+    hubCategory: 'casa',
     shortDescription: 'todo o site I Wanna Sleep',
     longDescription:
       'Código da Cecília para economizar em compras no site da I Wanna Sleep.',
@@ -581,7 +603,7 @@ export const COUPONS: Coupon[] = [
       note: 'Válido para compras no site oficial da I Wanna Sleep',
     },
     status: 'ativo',
-    featured: true,
+    featured: false,
   },
   {
     offerMode: 'discount-code',
@@ -605,6 +627,7 @@ export const COUPONS: Coupon[] = [
       'Confira se o desconto apareceu no resumo do pedido antes de finalizar.',
     ],
     category: 'Eletrônicos, eletrodomésticos, móveis e mais',
+    hubCategory: 'diversos',
     shortDescription: 'produtos vendidos e entregues pelo Magalu na loja Magazine Você da Cecília',
     longDescription:
       'Códigos exclusivos da parceria da Cecília com o Magalu, em 10 faixas de R$ 10 a R$ 100 OFF conforme o valor do carrinho. Válidos apenas na loja Magazine Você da Cecília, em produtos vendidos e entregues pelo Magalu.',
@@ -689,7 +712,7 @@ export const COUPONS: Coupon[] = [
       },
     ],
     status: 'ativo',
-    featured: true,
+    featured: false,
     relatedContent: [
       {
         title: 'Como usar o cupom Magalu da Cecília',
@@ -731,6 +754,7 @@ export const COUPONS: Coupon[] = [
     discount: '5% OFF',
     discountNumber: 5,
     category: 'Casa, cozinha e presentes',
+    hubCategory: 'casa',
     shortDescription: "todo o site Let's Eat It",
     longDescription:
       "Código da Cecília para economizar em compras de cozinha, mesa posta, decoração e presentes no site da Let's Eat It.",
@@ -788,7 +812,7 @@ export const COUPONS: Coupon[] = [
       note: "Válido para compras no site oficial da Let's Eat It",
     },
     status: 'ativo',
-    featured: true,
+    featured: false,
   },
   {
     // A Insider proíbe divulgar o percentual do cupom: sem discountNumber e sem número em nenhum texto.
@@ -806,6 +830,7 @@ export const COUPONS: Coupon[] = [
     code: 'EMCASACOMCECILIA',
     discount: 'Desconto exclusivo',
     category: 'Moda e roupas tecnológicas',
+    hubCategory: 'moda',
     shortDescription: 'compras online na Insider, exceto lançamentos',
     longDescription:
       'Código da Cecília para economizar em camisetas, underwear, roupas esportivas e acessórios com tecnologia têxtil na loja online da Insider. Não vale para lançamentos.',
@@ -869,7 +894,7 @@ export const COUPONS: Coupon[] = [
       note: 'Válido nas compras online da Insider, exceto lançamentos e lojas físicas',
     },
     status: 'ativo',
-    featured: true,
+    featured: false,
   },
   {
     offerMode: 'affiliate-link',
@@ -887,6 +912,7 @@ export const COUPONS: Coupon[] = [
     offerTypeLabelPlural: 'ofertas',
     offerActionLabel: 'Ver ofertas na SHEIN',
     category: 'Moda, acessórios, beleza e casa',
+    hubCategory: 'moda',
     shortDescription: 'link principal, código de indicação e campanhas vigentes',
     longDescription:
       'Acesse a SHEIN pelo link principal da Cecília, consulte o código de indicação 4CW5Y e veja as campanhas confirmadas para produtos selecionados e novos usuários.',
@@ -962,7 +988,7 @@ export const COUPONS: Coupon[] = [
       },
     ],
     status: 'ativo',
-    featured: true,
+    featured: false,
   },
   {
     offerMode: 'discount-code',
@@ -978,6 +1004,7 @@ export const COUPONS: Coupon[] = [
     discount: '10% OFF',
     discountNumber: 10,
     category: 'Chocolates e presentes',
+    hubCategory: 'alimentacao',
     shortDescription: 'chocolates, presentes e produtos da loja',
     longDescription:
       'Código da Cecília para economizar em compras de chocolates, presentes e produtos da Kopenhagen.',
@@ -1026,7 +1053,7 @@ export const COUPONS: Coupon[] = [
       },
     ],
     status: 'pausado',
-    featured: true,
+    featured: false,
   },
 ];
 
@@ -1046,22 +1073,16 @@ export function getAllActiveCouponSlugs(): string[] {
   return getActiveCoupons().map((coupon) => coupon.slug);
 }
 
-export function getCouponStats() {
+export function getCouponHubSections() {
   const activeCoupons = getActiveCoupons();
-  const disclosedDiscounts = activeCoupons.flatMap((coupon) =>
-    coupon.offerMode === 'discount-code' && coupon.discountNumber !== undefined ? [coupon.discountNumber] : []
-  );
-  const averageDiscount = disclosedDiscounts.length
-    ? disclosedDiscounts.reduce((total, discount) => total + discount, 0) / disclosedDiscounts.length
-    : 0;
-  const lastUpdate = activeCoupons
-    .map((coupon) => coupon.lastVerified)
-    .sort()
-    .reverse()[0];
 
   return {
-    activeCount: activeCoupons.length,
-    averageDiscount: Math.round(averageDiscount),
-    lastUpdate,
+    featured: activeCoupons.filter((coupon) => coupon.featured),
+    categories: COUPON_HUB_CATEGORIES.map((category) => ({
+      ...category,
+      coupons: activeCoupons.filter((coupon) => coupon.hubCategory === category.id),
+    })).filter((category) => category.coupons.length > 0),
+    // Conferência mais recente entre os cupons ativos; datas ISO ordenam como texto.
+    lastVerified: activeCoupons.map((coupon) => coupon.lastVerified).sort().pop(),
   };
 }
