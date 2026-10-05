@@ -23,7 +23,7 @@ function findCoupon(slug: string) {
 
 export async function generateMetadata({ params }: CouponBrandPageProps): Promise<Metadata> {
   const coupon = findCoupon((await params).brand);
-  return coupon ? getCouponStoreMetadata(coupon) : {};
+  return coupon ? getCouponStoreMetadata(coupon, 'pt') : {};
 }
 
 export default async function CouponBrandPage({ params }: CouponBrandPageProps) {

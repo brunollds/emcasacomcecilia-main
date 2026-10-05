@@ -8,6 +8,7 @@ import {
   CircleCheck,
   Copy,
   ExternalLink,
+  Globe,
   Layers,
   Repeat,
   Scissors,
@@ -15,7 +16,10 @@ import {
   Truck,
 } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
+import { getCouponLanguageLinks, getCouponStorePath } from '@/lib/couponTranslations';
 import { getOtherActiveCoupons, type Coupon } from '@/lib/couponsData';
+import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
+import { getShellHomeHref } from '@/lib/i18n/shellDictionary';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { CopyAndOpenStoreLink, CopyCodeButton, CouponDock } from './CouponActions';
 import {
@@ -26,25 +30,40 @@ import {
   SectionHeading,
   couponFontVariables,
 } from './CouponBlocks';
-import { COUPON_STORE_COPY, type CouponStoreCopy, type CouponStoreLocale } from './couponStoreCopy';
+import { COUPON_STORE_COPY, type CouponStoreCopy } from './couponStoreCopy';
 
 const SITE_URL = 'https://emcasacomcecilia.com';
 
 const absoluteUrl = (path: string) => (path === '/' ? SITE_URL : `${SITE_URL}${path}`);
 
-function getBreadcrumb(coupon: Coupon, copy: CouponStoreCopy) {
-  return [
-    { name: copy.homeLabel, path: '/' },
-    { name: copy.couponsLabel, path: '/cupons' },
-    { name: coupon.brand, path: `/cupons/${coupon.slug}` },
-  ];
+// Fora do PT não existe hub de cupons: a trilha vai da home do idioma direto para a loja.
+function getBreadcrumb(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {
+  const store = { name: coupon.brand, path: getCouponStorePath(coupon.slug, locale) };
+  if (locale !== 'pt') return [{ name: copy.homeLabel, path: getShellHomeHref(locale) }, store];
+
+  return [{ name: copy.homeLabel, path: '/' }, { name: copy.couponsLabel, path: '/cupons' }, store];
+}
+
+// hreflang usa o código BCP 47 (pt-BR, zh-Hant), não a chave interna do locale.
+function getHreflangAlternates(slug: string) {
+  const links = getCouponLanguageLinks(slug);
+  if (!links.en) return undefined;
+
+  const languages: Record<string, string> = {};
+  for (const locale of LOCALE_KEYS) {
+    const path = links[locale];
+    if (path) languages[LOCALES[locale].hreflang] = absoluteUrl(path);
+  }
+  // Como na YesStyle, quem não fala nenhum dos idiomas cai na versão em inglês.
+  languages['x-default'] = absoluteUrl(links.en);
+  return languages;
 }
 
 const getOfferType = (coupon: Coupon, copy: CouponStoreCopy) =>
   coupon.offerTypeLabel || (coupon.offerMode === 'discount-code' ? copy.offerType.code : copy.offerType.link);
 
-export function getCouponStoreMetadata(coupon: Coupon): Metadata {
-  const path = `/cupons/${coupon.slug}`;
+export function getCouponStoreMetadata(coupon: Coupon, locale: Locale): Metadata {
+  const path = getCouponStorePath(coupon.slug, locale);
   const socialImage = coupon.socialImage || coupon.brandLogo || '/images/logos/logo-em-casa-com-cecilia.png';
   const deliveredSocialImage = new URL(resolveMediaUrl(socialImage), SITE_URL).toString();
   const socialImageAlt = coupon.socialImageAlt || coupon.brandLogoAlt || 'Em Casa com Cecília';
@@ -54,11 +73,13 @@ export function getCouponStoreMetadata(coupon: Coupon): Metadata {
     description: coupon.metaDescription,
     alternates: {
       canonical: path,
+      languages: getHreflangAlternates(coupon.slug),
     },
     openGraph: {
       title: coupon.metaTitle,
       description: coupon.metaDescription,
       url: path,
+      locale: LOCALES[locale].openGraphLocale,
       type: 'article',
       images: [
         {
@@ -76,8 +97,8 @@ export function getCouponStoreMetadata(coupon: Coupon): Metadata {
   };
 }
 
-function getJsonLd(coupon: Coupon, copy: CouponStoreCopy) {
-  const url = absoluteUrl(`/cupons/${coupon.slug}`);
+function getJsonLd(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {
+  const url = absoluteUrl(getCouponStorePath(coupon.slug, locale));
   const offerType = getOfferType(coupon, copy);
 
   const offer = {
@@ -113,6 +134,7 @@ function getJsonLd(coupon: Coupon, copy: CouponStoreCopy) {
     name: coupon.metaTitle,
     description: coupon.metaDescription,
     url,
+    inLanguage: LOCALES[locale].htmlLang,
     dateModified: coupon.lastVerified,
     primaryImageOfPage: coupon.socialImage
       ? `${SITE_URL}${coupon.socialImage}`
@@ -135,7 +157,7 @@ function getJsonLd(coupon: Coupon, copy: CouponStoreCopy) {
   const breadcrumb = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
-    itemListElement: getBreadcrumb(coupon, copy).map((item, index) => ({
+    itemListElement: getBreadcrumb(coupon, locale, copy).map((item, index) => ({
       '@type': 'ListItem',
       position: index + 1,
       name: item.name,
@@ -193,8 +215,44 @@ function MagazineVoceNotice({ storeUrl }: { storeUrl: string }) {
   );
 }
 
-export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: CouponStoreLocale }) {
-  const copy: CouponStoreCopy = COUPON_STORE_COPY[locale];
+// A mesma loja nos outros idiomas. Fica logo depois do recorte para não empurrar o código para baixo.
+function LanguageLinks({ slug, current, label }: { slug: string; current: Locale; label: string }) {
+  const links = getCouponLanguageLinks(slug);
+  const alternatives = LOCALE_KEYS.flatMap((locale) => {
+    const href = links[locale];
+    return href && locale !== current ? [{ locale, href }] : [];
+  });
+  if (alternatives.length === 0) return null;
+
+  return (
+    <nav
+      aria-label={label}
+      className="flex flex-wrap items-center gap-x-3 border-y-2 border-marinho/15 py-1 text-[13px] font-bold leading-[18px]"
+    >
+      <span className="flex items-center gap-1.5 text-marinho-suave">
+        <Globe aria-hidden="true" className="h-4 w-4 shrink-0" />
+        {label}
+      </span>
+      <ul className="flex flex-wrap items-center gap-x-3">
+        {alternatives.map(({ locale, href }) => (
+          <li key={locale}>
+            <Link
+              href={href}
+              hrefLang={LOCALES[locale].hreflang}
+              lang={LOCALES[locale].htmlLang}
+              className={`flex min-h-11 items-center underline underline-offset-[3px] ${FOCUS_RING}`}
+            >
+              {LOCALES[locale].label}
+            </Link>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  );
+}
+
+export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Locale }) {
+  const copy = COUPON_STORE_COPY[locale];
   const formatLongDate = (isoDate: string) =>
     new Date(`${isoDate}T12:00:00`).toLocaleDateString(copy.dateLocale, {
       day: 'numeric',
@@ -202,11 +260,12 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Co
       year: 'numeric',
     });
   const formatShortDate = (isoDate: string) =>
-    new Date(`${isoDate}T12:00:00`).toLocaleDateString(copy.dateLocale);
+    new Date(`${isoDate}T12:00:00`).toLocaleDateString(copy.dateLocale, copy.shortDate);
 
-  const otherCoupons = getOtherActiveCoupons(coupon.slug);
-  const jsonLd = getJsonLd(coupon, copy);
-  const breadcrumb = getBreadcrumb(coupon, copy);
+  // As outras lojas só têm página em PT; fora dele a seção sairia com links e textos em português.
+  const otherCoupons = locale === 'pt' ? getOtherActiveCoupons(coupon.slug) : [];
+  const jsonLd = getJsonLd(coupon, locale, copy);
+  const breadcrumb = getBreadcrumb(coupon, locale, copy);
   const couponCodeOffer = coupon.offerMode === 'discount-code' ? coupon : null;
   const affiliateLinkOffer = coupon.offerMode === 'affiliate-link' ? coupon : null;
   const tiers = couponCodeOffer?.tiers?.length ? couponCodeOffer.tiers : null;
@@ -404,6 +463,8 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Co
         </section>
 
         <div className="mt-10 flex flex-col gap-12 lg:col-start-1 lg:row-start-1 lg:mt-14 lg:gap-14">
+          <LanguageLinks slug={coupon.slug} current={locale} label={copy.otherLanguagesLabel} />
+
           {coupon.monthlyHighlight && (
             <div className="rounded-xl border-2 border-marinho p-4 md:p-5">
               <p className="text-base font-extrabold leading-[22px]">
