@@ -32,6 +32,9 @@
 
 ## 5. Publicados / Prontos para Deploy (`status: pronto-para-deploy`)
 *Validados nos gates, gerados no build e no ar.*
+- [x] [[insider-store-e-confiavel]] — Insider Store / É confiável? CNPJ, loja física, trocas, garantia e reputação (No ar em 05/10/2026, `2887c4c`; reescrito com fatos verificados na central de ajuda, termos e BrasilAPI, sem Lenzing, fotos oficiais no CDN, IndexNow enviado) 🚀
+- [x] [[insider-store-reclame-aqui-nota-reputacao]] — Insider Store / Reclame Aqui: nota, abas de 6 e 12 meses, principais problemas e alertas (No ar em 05/10/2026, `2887c4c`; números conferidos no perfil em 05/10, cupom vazado e golpe, prints no CDN, IndexNow enviado) 🚀
+- [x] [[cupom-emcasacomcecilia-insider-store-como-usar]] — Insider Store / Como usar o cupom EMCASACOMCECILIA, onde vale, frete e boas-vindas (No ar em 05/10/2026, `2887c4c`; testado no checkout, prints dos passos, sem percentual, IndexNow enviado) 🚀
 - [x] [[poltrona-charles-eames-design-iconico-e-alternativas]] — DAMIE / Poltrona decorativa; FAQ e revisão aprovados, build de 321 páginas validado em 02/09/2026. Aguardando push e deploy.
 - [x] [[nutren-creatina-e-boa-comparativo-growth-ftw-cimed]] — Nestlé Nutre (Build OK: 310 páginas geradas) 🚀
 - [x] [[melatonina-gummy-iws-para-que-serve-como-tomar]] — IWS (No ar) 🚀
