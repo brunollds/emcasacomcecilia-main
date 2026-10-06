@@ -1,6 +1,6 @@
 import { Fragment, type ReactNode } from 'react';
 import Link from 'next/link';
-import { Check, ChevronRight, CircleCheck, Copy, ExternalLink, Globe, Scissors } from 'lucide-react';
+import { Check, ChevronRight, CircleCheck, Copy, ExternalLink, Globe, Scissors, type LucideIcon } from 'lucide-react';
 import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
 import { CopyAndOpenStoreLink, CopyCodeButton } from './CouponActions';
 import { BrandWatermark, FOCUS_RING, PRIMARY_ACTION, SECONDARY_ACTION } from './CouponBlocks';
@@ -252,6 +252,28 @@ export function StepList({ steps, note }: { steps: string[]; note: ReactNode }) 
         {note}
       </p>
     </>
+  );
+}
+
+// Regras da oferta em pares de rótulo e resposta, cada um com o ícone num círculo amarelo.
+export function RuleList({ rules }: { rules: { icon: LucideIcon; label: string; value: string }[] }) {
+  return (
+    <dl className="mt-5 flex flex-col gap-3.5">
+      {rules.map(({ icon: Icon, label, value }) => (
+        <div key={label} className="relative min-h-10 pl-[52px]">
+          <dt className="text-[13px] font-bold leading-[18px] text-marinho-suave">
+            <span
+              aria-hidden="true"
+              className="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-full border-2 border-marinho bg-amarelo-cupom"
+            >
+              <Icon className="h-5 w-5" />
+            </span>
+            {label}
+          </dt>
+          <dd className="text-[15px] font-bold leading-[22px]">{value}</dd>
+        </div>
+      ))}
+    </dl>
   );
 }
 

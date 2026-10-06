@@ -25,6 +25,7 @@ import {
   CutoutCodeActions,
   LanguageLinks,
   RelatedLink,
+  RuleList,
   STORE_CUTOUT_ID,
   StepList,
   StoreBody,
@@ -406,22 +407,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
 
           <section aria-labelledby="regras">
             <SectionHeading id="regras">{copy.rulesTitle}</SectionHeading>
-            <dl className="mt-5 flex flex-col gap-3.5">
-              {rules.map(({ icon: Icon, label, value }) => (
-                <div key={label} className="relative min-h-10 pl-[52px]">
-                  <dt className="text-[13px] font-bold leading-[18px] text-marinho-suave">
-                    <span
-                      aria-hidden="true"
-                      className="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-full border-2 border-marinho bg-amarelo-cupom"
-                    >
-                      <Icon className="h-5 w-5" />
-                    </span>
-                    {label}
-                  </dt>
-                  <dd className="text-[15px] font-bold leading-[22px]">{value}</dd>
-                </div>
-              ))}
-            </dl>
+            <RuleList rules={rules} />
           </section>
 
           {coupon.referral && (
