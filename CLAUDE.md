@@ -59,14 +59,16 @@ aconteceu:
 | Links da marca e redes sociais | `src/lib/brandLinks.ts` |
 
 `src/lib/data.ts` ainda existe como adaptador legado: expõe `recipes`, `reviews` e
-`publishedReviews` a partir do índice gerado, os tipos legados e `formatPrice()`. Não acrescentar
-conteúdo editorial ali.
+`publishedReviews` a partir do índice gerado, os tipos legados e helpers de receita e review.
+Não acrescentar conteúdo editorial ali.
 
 ⚠️ **Arquivo `'use client'` não importa valores de `@/lib/data`** (`import type` é apagado na
 compilação e não conta). O módulo carrega `src/lib/generated/content-index.ts` — todas as receitas
 e reviews, ~2 MB minificado — e o webpack não separa o índice dos helpers: um único import
-num componente cliente põe o índice inteiro no bundle de toda página que usa o componente. Até
-05/10/2026 o Navbar e o Footer faziam isso e cada página baixava ~2,8 MB de JS. O cliente recebe
+num componente cliente põe o índice inteiro no bundle de toda página que usa o componente (até
+05/10/2026 o Navbar e o Footer faziam isso e cada página baixava ~2,8 MB de JS). O prefetch dos
+`<Link>` espalha o efeito: ele baixa os chunks cliente da rota de destino, então o índice também
+vai, em segundo plano, para toda página com link visível para uma página afetada. O cliente recebe
 dados por props de um componente servidor ou de módulos sem o índice, como `src/lib/brandLinks.ts`.
 
 ### Mídia (imagens e vídeos) — biblioteca CDN em migração

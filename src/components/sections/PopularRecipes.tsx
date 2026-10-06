@@ -1,5 +1,3 @@
-'use client';
-
 import Link from 'next/link';
 import Image from 'next/image';
 import { Clock, ChefHat, ArrowRight, Heart } from 'lucide-react';
