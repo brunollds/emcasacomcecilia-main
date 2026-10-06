@@ -6,7 +6,8 @@ export type YesStyleDiscountSpec =
   | { kind: 'percentage'; value: number }
   | { kind: 'fixed'; value: number; currency: string }
   | { kind: 'shipping' }
-  | { kind: 'text'; label: string };
+  // Desconto que cresce com o valor da compra, em faixas na ordem crescente.
+  | { kind: 'tiers'; currency: string; tiers: { minSpend: number; percent: number }[] };
 
 export interface YesStyleOfferBase {
   id: string;
@@ -19,9 +20,6 @@ export interface YesStyleOfferBase {
   regions: string[];
   officialSourceUrl: string;
   affiliateUrl?: string;
-  evidenceImage?: string;
-  eligibility?: string[];
-  restrictions?: string[];
 }
 
 export interface YesStyleRewardOffer extends YesStyleOfferBase {
@@ -34,12 +32,11 @@ export interface YesStyleRewardOffer extends YesStyleOfferBase {
 export interface YesStylePromoOffer extends YesStyleOfferBase {
   type: 'coupon';
   discount: YesStyleDiscountSpec;
+  // Só vale com login na conta da YesStyle, não na compra como visitante.
+  membersOnly: boolean;
 }
 
 export type YesStyleOffer = YesStyleRewardOffer | YesStylePromoOffer;
-
-// Manter alias para compatibilidade estrita com validadores e componentes
-export type YesStyleCouponItem = YesStyleOffer;
 
 // O JSON é validado antes do TypeScript/Next em todo `npm run build`.
 export const YESSTYLE_COUPONS_FACTUAL = yesstyleCouponsData as YesStyleOffer[];

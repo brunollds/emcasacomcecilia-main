@@ -167,7 +167,10 @@ export function resolveYesStylePage(
     } else if (promo.discount.kind === 'shipping') {
       discountStr = page.freeShippingLabel;
     } else {
-      discountStr = promo.discount.label;
+      const percents = promo.discount.tiers.map((tier) => tier.percent);
+      const lowest = Math.min(...percents);
+      const highest = Math.max(...percents);
+      discountStr = lowest === highest ? `${highest}% OFF` : `${lowest}–${highest}% OFF`;
     }
 
     const validityLabel = promo.expiresAt

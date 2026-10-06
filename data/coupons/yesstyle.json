@@ -16,23 +16,20 @@
     "code": "BTSGLOW26",
     "type": "coupon",
     "discount": {
-      "kind": "text",
-      "label": "8–15% OFF"
+      "kind": "tiers",
+      "currency": "USD",
+      "tiers": [
+        { "minSpend": 79, "percent": 8 },
+        { "minSpend": 149, "percent": 10 },
+        { "minSpend": 199, "percent": 15 }
+      ]
     },
     "startsAt": "2026-08-21",
     "expiresAt": "2026-08-24",
     "verifiedAt": "2026-08-20",
     "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2846",
     "affiliateUrl": "https://ystyle.co/rQYQv",
-    "eligibility": [
-      "8% OFF em pedidos a partir de US$ 79",
-      "10% OFF em pedidos a partir de US$ 149",
-      "15% OFF em pedidos a partir de US$ 199"
-    ],
-    "restrictions": [
-      "Válido de 21/08/2026 a 24/08/2026 às 23:59 GMT para membros YesStyle e produtos elegíveis.",
-      "Use no campo Coupon Code; pode ser combinado com CECILIA010 no campo Reward Code e com YS Points."
-    ],
+    "membersOnly": true,
     "status": "expired",
     "regions": ["GLOBAL"]
   },
@@ -41,23 +38,20 @@
     "code": "LAST26",
     "type": "coupon",
     "discount": {
-      "kind": "text",
-      "label": "8–15% OFF"
+      "kind": "tiers",
+      "currency": "USD",
+      "tiers": [
+        { "minSpend": 79, "percent": 8 },
+        { "minSpend": 149, "percent": 10 },
+        { "minSpend": 199, "percent": 15 }
+      ]
     },
     "startsAt": "2026-08-25",
     "expiresAt": "2026-08-27",
     "verifiedAt": "2026-08-24",
     "officialSourceUrl": "https://www.yesstyle.com/en/last-call-back-to-school-beauty-edition-up-to-extra-15-off-with-coupon/help/section.html/hsi.2857",
     "affiliateUrl": "https://ystyle.co/rQYQv",
-    "eligibility": [
-      "8% OFF em pedidos a partir de US$ 79",
-      "10% OFF em pedidos a partir de US$ 149",
-      "15% OFF em pedidos a partir de US$ 199"
-    ],
-    "restrictions": [
-      "Válido de 25/08/2026 a 27/08/2026 às 23:59 GMT para membros YesStyle e produtos elegíveis.",
-      "Use no campo Coupon Code; pode ser combinado com CECILIA010 no campo Reward Code e com YS Points."
-    ],
+    "membersOnly": true,
     "status": "expired",
     "regions": ["GLOBAL"]
   },
@@ -74,15 +68,7 @@
     "verifiedAt": "2026-08-28",
     "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.1893##5232",
     "affiliateUrl": "https://ystyle.co/rQYQv",
-    "eligibility": [
-      "15% OFF em qualquer pedido, sem valor mínimo, para membros YesStyle",
-      "Não se aplica a compras como visitante"
-    ],
-    "restrictions": [
-      "Válido de 28/08/2026 às 02:00 GMT a 01/09/2026 às 01:59 GMT para pedidos elegíveis.",
-      "Use no campo Coupon Code; não pode ser combinado com outro cupom promocional, mas funciona com preços promocionais existentes.",
-      "Aplicável aos preços dos produtos, não ao frete ou reenvio; itens inelegíveis são informados na página do produto ou no checkout."
-    ],
+    "membersOnly": true,
     "status": "expired",
     "regions": ["GLOBAL"]
   },
@@ -99,15 +85,7 @@
     "verifiedAt": "2026-09-01",
     "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2854",
     "affiliateUrl": "https://ystyle.co/rQYQv",
-    "eligibility": [
-      "15% OFF sem valor mínimo para membros YesStyle",
-      "Somente para pedidos enviados a endereços nos Estados Unidos"
-    ],
-    "restrictions": [
-      "Válido de 01/09/2026 às 00:00 GMT a 07/09/2026 às 23:59 GMT para membros YesStyle e produtos elegíveis.",
-      "Use no campo Coupon Code; pode ser combinado com CECILIA010 no campo Reward Code, preços promocionais e YS Points.",
-      "Não pode ser combinado com outro cupom promocional e não se aplica a frete, reenvio ou taxas adicionais."
-    ],
+    "membersOnly": true,
     "status": "expired",
     "regions": ["US"]
   },
@@ -116,24 +94,20 @@
     "code": "HEAT26",
     "type": "coupon",
     "discount": {
-      "kind": "text",
-      "label": "8–15% OFF"
+      "kind": "tiers",
+      "currency": "USD",
+      "tiers": [
+        { "minSpend": 79, "percent": 8 },
+        { "minSpend": 149, "percent": 10 },
+        { "minSpend": 199, "percent": 15 }
+      ]
     },
     "startsAt": "2026-09-04",
     "expiresAt": "2026-09-07",
     "verifiedAt": "2026-09-05",
     "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2862",
     "affiliateUrl": "https://ystyle.co/rQYQv",
-    "eligibility": [
-      "8% OFF em pedidos a partir de US$ 79",
-      "10% OFF em pedidos a partir de US$ 149",
-      "15% OFF em pedidos a partir de US$ 199"
-    ],
-    "restrictions": [
-      "Válido de 04/09/2026 às 00:00 GMT a 07/09/2026 às 23:59 GMT para membros YesStyle e produtos elegíveis.",
-      "Use no campo Coupon Code; pode ser combinado com CECILIA010 no campo Reward Code, preços promocionais e YS Points.",
-      "Não pode ser combinado com outro cupom promocional e não se aplica a frete, reenvio ou taxas adicionais."
-    ],
+    "membersOnly": true,
     "status": "expired",
     "regions": ["GLOBAL"]
   },
@@ -142,24 +116,20 @@
     "code": "COZY26",
     "type": "coupon",
     "discount": {
-      "kind": "text",
-      "label": "8–15% OFF"
+      "kind": "tiers",
+      "currency": "USD",
+      "tiers": [
+        { "minSpend": 79, "percent": 8 },
+        { "minSpend": 149, "percent": 10 },
+        { "minSpend": 199, "percent": 15 }
+      ]
     },
     "startsAt": "2026-09-08",
     "expiresAt": "2026-09-10",
     "verifiedAt": "2026-09-08",
     "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2864",
     "affiliateUrl": "https://ystyle.co/rQYQv",
-    "eligibility": [
-      "8% OFF em pedidos a partir de US$ 79",
-      "10% OFF em pedidos a partir de US$ 149",
-      "15% OFF em pedidos a partir de US$ 199"
-    ],
-    "restrictions": [
-      "Válido de 08/09/2026 às 00:00 GMT a 10/09/2026 às 23:59 GMT para membros YesStyle e produtos elegíveis.",
-      "Use no campo Coupon Code; pode ser combinado com CECILIA010 no campo Reward Code, preços promocionais e YS Points.",
-      "Não pode ser combinado com outro cupom promocional e não se aplica a frete, reenvio ou taxas adicionais."
-    ],
+    "membersOnly": true,
     "status": "expired",
     "regions": ["GLOBAL"]
   },
@@ -168,24 +138,20 @@
     "code": "WIND26",
     "type": "coupon",
     "discount": {
-      "kind": "text",
-      "label": "8–15% OFF"
+      "kind": "tiers",
+      "currency": "USD",
+      "tiers": [
+        { "minSpend": 79, "percent": 8 },
+        { "minSpend": 149, "percent": 10 },
+        { "minSpend": 199, "percent": 15 }
+      ]
     },
     "startsAt": "2026-09-11",
     "expiresAt": "2026-09-14",
     "verifiedAt": "2026-09-11",
     "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2865",
     "affiliateUrl": "https://ystyle.co/rQYQv",
-    "eligibility": [
-      "8% OFF em pedidos a partir de US$ 79",
-      "10% OFF em pedidos a partir de US$ 149",
-      "15% OFF em pedidos a partir de US$ 199"
-    ],
-    "restrictions": [
-      "Válido de 11/09/2026 às 00:00 GMT a 14/09/2026 às 23:59 GMT para membros YesStyle e produtos elegíveis.",
-      "Use no campo Coupon Code; pode ser combinado com CECILIA010 no campo Reward Code, preços promocionais e YS Points.",
-      "Não pode ser combinado com outro cupom promocional e não se aplica a frete, reenvio ou taxas adicionais."
-    ],
+    "membersOnly": true,
     "status": "expired",
     "regions": ["GLOBAL"]
   },
@@ -194,24 +160,20 @@
     "code": "SEOUL26",
     "type": "coupon",
     "discount": {
-      "kind": "text",
-      "label": "8–15% OFF"
+      "kind": "tiers",
+      "currency": "USD",
+      "tiers": [
+        { "minSpend": 79, "percent": 8 },
+        { "minSpend": 149, "percent": 10 },
+        { "minSpend": 199, "percent": 15 }
+      ]
     },
     "startsAt": "2026-09-18",
     "expiresAt": "2026-09-21",
     "verifiedAt": "2026-09-18",
     "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2870",
     "affiliateUrl": "https://ystyle.co/rQYQv",
-    "eligibility": [
-      "8% OFF em pedidos a partir de US$ 79",
-      "10% OFF em pedidos a partir de US$ 149",
-      "15% OFF em pedidos a partir de US$ 199"
-    ],
-    "restrictions": [
-      "Válido de 18/09/2026 às 00:00 GMT a 21/09/2026 às 23:59 GMT para membros YesStyle e produtos elegíveis.",
-      "Use no campo Coupon Code; pode ser combinado com CECILIA010 no campo Reward Code, preços promocionais e YS Points.",
-      "Não pode ser combinado com outro cupom promocional e não se aplica a frete, reenvio ou taxas adicionais."
-    ],
+    "membersOnly": true,
     "status": "expired",
     "regions": ["GLOBAL"]
   },
@@ -220,25 +182,20 @@
     "code": "CARE26",
     "type": "coupon",
     "discount": {
-      "kind": "text",
-      "label": "8–15% OFF"
+      "kind": "tiers",
+      "currency": "USD",
+      "tiers": [
+        { "minSpend": 79, "percent": 8 },
+        { "minSpend": 149, "percent": 10 },
+        { "minSpend": 199, "percent": 15 }
+      ]
     },
     "startsAt": "2026-09-22",
     "expiresAt": "2026-09-24",
     "verifiedAt": "2026-09-22",
     "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2876",
     "affiliateUrl": "https://ystyle.co/rQYQv",
-    "eligibility": [
-      "8% OFF em pedidos a partir de US$ 79",
-      "10% OFF em pedidos a partir de US$ 149",
-      "15% OFF em pedidos a partir de US$ 199"
-    ],
-    "restrictions": [
-      "Válido de 22/09/2026 às 00:00 GMT a 24/09/2026 às 23:59 GMT para membros YesStyle e produtos elegíveis.",
-      "Use no campo Coupon Code; pode ser combinado com CECILIA010 no campo Reward Code, preços promocionais e YS Points.",
-      "Não pode ser combinado com outro cupom promocional e não se aplica a frete, reenvio ou taxas adicionais.",
-      "Pode ser usado sem limite de vezes durante o período da promoção, com apenas um cupom promocional por pedido."
-    ],
+    "membersOnly": true,
     "status": "expired",
     "regions": ["GLOBAL"]
   },
@@ -255,13 +212,7 @@
     "verifiedAt": "2026-09-25",
     "officialSourceUrl": "https://www.yesstyle.com/en/beauty-beauty/list.html/bcc.15478_bpt.46",
     "affiliateUrl": "https://ystyle.co/rQYQv",
-    "eligibility": [
-      "15% OFF em qualquer pedido, sem valor mínimo, para membros YesStyle"
-    ],
-    "restrictions": [
-      "Use no campo Coupon Code; não pode ser combinado com outro cupom promocional.",
-      "O site oficial exibe a promoção GLOW15 como válida por tempo limitado; confirme a contagem regressiva e a elegibilidade no checkout."
-    ],
+    "membersOnly": true,
     "status": "expired",
     "regions": ["GLOBAL"]
   },
@@ -270,24 +221,20 @@
     "code": "SAVE26",
     "type": "coupon",
     "discount": {
-      "kind": "text",
-      "label": "8–15% OFF"
+      "kind": "tiers",
+      "currency": "USD",
+      "tiers": [
+        { "minSpend": 79, "percent": 8 },
+        { "minSpend": 149, "percent": 10 },
+        { "minSpend": 199, "percent": 15 }
+      ]
     },
     "startsAt": "2026-09-29",
     "expiresAt": "2026-10-01",
     "verifiedAt": "2026-09-29",
     "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2879",
     "affiliateUrl": "https://ystyle.co/rQYQv",
-    "eligibility": [
-      "8% OFF em pedidos a partir de US$ 79",
-      "10% OFF em pedidos a partir de US$ 149",
-      "15% OFF em pedidos a partir de US$ 199"
-    ],
-    "restrictions": [
-      "Válido de 29/09/2026 às 00:00 GMT a 01/10/2026 às 23:59 GMT para membros YesStyle.",
-      "Use no campo Coupon Code; pode ser combinado com preços promocionais existentes, Reward Code e YS Points, mas apenas um cupom por pedido.",
-      "O desconto é aplicado aos preços dos produtos; alguns produtos podem não ser elegíveis."
-    ],
+    "membersOnly": true,
     "status": "expired",
     "regions": ["GLOBAL"]
   },
@@ -296,24 +243,20 @@
     "code": "FINDS26",
     "type": "coupon",
     "discount": {
-      "kind": "text",
-      "label": "8–15% OFF"
+      "kind": "tiers",
+      "currency": "USD",
+      "tiers": [
+        { "minSpend": 79, "percent": 8 },
+        { "minSpend": 149, "percent": 10 },
+        { "minSpend": 199, "percent": 15 }
+      ]
     },
     "startsAt": "2026-10-02",
     "expiresAt": "2026-10-05",
     "verifiedAt": "2026-10-02",
     "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2880",
     "affiliateUrl": "https://ystyle.co/rQYQv",
-    "eligibility": [
-      "8% OFF em pedidos a partir de US$ 79",
-      "10% OFF em pedidos a partir de US$ 149",
-      "15% OFF em pedidos a partir de US$ 199"
-    ],
-    "restrictions": [
-      "Válido de 02/10/2026 às 00:00 GMT a 05/10/2026 às 23:59 GMT para membros YesStyle e produtos elegíveis.",
-      "Use no campo Coupon Code; pode ser combinado com preços promocionais existentes, CECILIA010 no campo Reward Code e YS Points, mas apenas um cupom promocional por pedido.",
-      "O desconto é aplicado aos preços dos produtos, não ao frete, reenvio ou outras taxas; itens inelegíveis são informados na página do produto ou no checkout."
-    ],
+    "membersOnly": true,
     "status": "expired",
     "regions": ["GLOBAL"]
   },
@@ -322,23 +265,20 @@
     "code": "MIDS26",
     "type": "coupon",
     "discount": {
-      "kind": "text",
-      "label": "8–15% OFF"
+      "kind": "tiers",
+      "currency": "USD",
+      "tiers": [
+        { "minSpend": 79, "percent": 8 },
+        { "minSpend": 149, "percent": 10 },
+        { "minSpend": 199, "percent": 15 }
+      ]
     },
     "startsAt": "2026-10-05",
     "expiresAt": "2026-10-08",
     "verifiedAt": "2026-10-05",
     "officialSourceUrl": "https://www.yesstyle.com/en/",
     "affiliateUrl": "https://ystyle.co/rQYQv",
-    "eligibility": [
-      "8% OFF em pedidos a partir de US$ 79",
-      "10% OFF em pedidos a partir de US$ 149",
-      "15% OFF em pedidos a partir de US$ 199"
-    ],
-    "restrictions": [
-      "Válido para membros YesStyle até 08/10/2026; o contador exibido na verificação indicava término em 2 dias, 21 horas e 56 minutos.",
-      "Use MIDS26 no campo Coupon Code; confirme a elegibilidade e o encerramento no checkout oficial."
-    ],
+    "membersOnly": true,
     "status": "active",
     "regions": ["GLOBAL"]
   }
