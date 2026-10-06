@@ -4,8 +4,6 @@ import type { Locale } from '@/lib/i18n/locales';
 
 // 📊 Dados Unificados - Em Casa com Cecília
 
-import { BRUNO_AUTHOR, CECILIA_AUTHOR } from '@/lib/content/authors';
-
 export interface SocialMedia {
   name: string;
   handle: string;
@@ -13,25 +11,6 @@ export interface SocialMedia {
   url: string;
   icon: string;
   color: string;
-}
-
-export interface LinkItem {
-  id: string;
-  title: string;
-  description: string;
-  url: string;
-  icon: string;
-  color: string;
-  badge?: string;
-}
-
-export interface Category {
-  id: string;
-  name: string;
-  slug: string;
-  icon: string;
-  color: string;
-  count: number;
 }
 
 export interface IngredientSection {
@@ -390,16 +369,6 @@ export const socialMedias: SocialMedia[] = [
   },
 ];
 
-// 📂 Categorias Unificadas
-export const categories: Category[] = [
-  { id: '1', name: 'Bolos', slug: 'bolos', icon: 'Cake', color: 'from-orange-400 to-orange-600', count: 42 },
-  { id: '2', name: 'Massas', slug: 'massas', icon: 'Utensils', color: 'from-yellow-400 to-yellow-600', count: 35 },
-  { id: '3', name: 'Doces', slug: 'doces', icon: 'Cookie', color: 'from-pink-400 to-pink-600', count: 24 },
-  { id: '4', name: 'Salgados', slug: 'salgados', icon: 'Pizza', color: 'from-red-400 to-red-600', count: 28 },
-  { id: '5', name: 'Saudáveis', slug: 'saudaveis', icon: 'Leaf', color: 'from-green-400 to-green-600', count: 31 },
-  { id: '6', name: 'Air Fryer', slug: 'air-fryer', icon: 'Zap', color: 'from-purple-400 to-purple-600', count: 22 },
-];
-
 // 🍳 Receitas
 // Conteúdo migrado para content/ (Fase 2b) — o índice é gerado no build.
 export const recipes: Recipe[] = recipesData as unknown as Recipe[];
@@ -595,23 +564,8 @@ export const offers: Offer[] = [
   },
 ];
 
-export const linkItems: LinkItem[] = [
-  { id: 'dicas', title: 'Dicas & Ofertas', description: 'Promoções', url: brandLinks.dicas, icon: 'Tag', color: 'from-green-500 to-emerald-600' }
-];
-
 export const youtubeShorts: any[] = [];
 
 export function formatPrice(value: number): string {
   return value.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
-}
-
-export function totalFollowers(): string {
-  const total = socialMedias.reduce((acc, social) => {
-    const num = parseFloat(social.followers.replace('K', '').replace('+', ''));
-    return acc + (social.followers.includes('K') ? num * 1000 : num);
-  }, 0);
-  
-  if (total >= 1000000) return (total / 1000000).toFixed(1) + 'M';
-  if (total >= 1000) return (total / 1000).toFixed(1) + 'K';
-  return total.toString();
 }

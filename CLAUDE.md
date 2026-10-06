@@ -57,8 +57,8 @@ aconteceu:
 | Locales e clusters i18n | `src/lib/i18n/locales.ts` e `src/lib/i18n/clusters/` |
 | Vídeos | `src/lib/video-metadata.js` e `src/lib/video-pages.js` |
 
-`src/lib/data.ts` ainda existe para categorias, redes sociais e links, com `formatPrice()` e
-`totalFollowers()`. Não acrescentar conteúdo editorial ali.
+`src/lib/data.ts` ainda existe para redes sociais e links, com `formatPrice()`. Não acrescentar
+conteúdo editorial ali.
 
 ### Mídia (imagens e vídeos) — biblioteca CDN em migração
 
