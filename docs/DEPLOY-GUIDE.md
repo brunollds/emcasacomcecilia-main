@@ -215,6 +215,10 @@ npm run indexnow:submit -- \
   https://emcasacomcecilia.com/<paginas-que-mudaram>
 ```
 
+Para conferir a lista antes de enviar, ponha `--dry-run` logo depois do `--`: o script mostra
+`host`, `keyLocation` e `urlList` e não chama o IndexNow. Fora o `--dry-run`, qualquer argumento
+que comece com `-` faz o script parar sem enviar nada.
+
 ---
 
 ## Secrets do repo GitHub (Settings → Secrets → Actions)
