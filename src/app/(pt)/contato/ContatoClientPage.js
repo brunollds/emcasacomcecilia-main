@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { Mail, Video, Camera, MessageCircle, HeartHandshake, CheckCircle2, HelpCircle } from 'lucide-react';
-import { brandLinks } from '@/lib/data';
+import { brandLinks } from '@/lib/brandLinks';
 
 export default function ContatoPage() {
   const [formData, setFormData] = useState({

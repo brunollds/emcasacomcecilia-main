@@ -41,7 +41,7 @@ arquivos direto em dev — ele lê `src/lib/generated/content-index.ts`, um índ
 - `src/app/**` — JavaScript (`.js`) in the older routes; newer ones such as `cupons/` and `[locale]/` are TypeScript (`.tsx`/`.ts`)
 - `src/components/sections/**` — TypeScript (`.tsx`)
 - `src/components/ui/**` — TypeScript (`.tsx`)
-- `src/lib/data.ts` — TypeScript (source of truth for all data/interfaces)
+- `src/lib/data.ts` — TypeScript (adaptador legado do conteúdo; ver Data layer)
 
 ### Path alias
 `@/*` resolves to `src/*` (configured in `jsconfig.json`).
@@ -59,9 +59,29 @@ aconteceu:
 | Cupons em outros idiomas (hoje só a SHEIN) | `src/lib/couponTranslations.ts`: só texto; códigos, datas e campanhas vêm do cupom em PT. Textos da interface da página de loja em `src/components/coupons/couponStoreCopy.tsx` |
 | Locales e clusters i18n | `src/lib/i18n/locales.ts` e `src/lib/i18n/clusters/` |
 | Vídeos | `src/lib/video-metadata.js` e `src/lib/video-pages.js` |
+| Links da marca e redes sociais | `src/lib/brandLinks.ts` |
 
-`src/lib/data.ts` ainda existe para categorias, redes sociais e links, com `formatPrice()` e
-`totalFollowers()`. Não acrescentar conteúdo editorial ali.
+`src/lib/data.ts` ainda existe como adaptador legado: expõe `recipes`, `reviews` e
+`publishedReviews` a partir do índice gerado, os tipos legados e helpers de receita e review.
+Não acrescentar conteúdo editorial ali.
+
+⚠️ **Arquivo `'use client'` não importa valores de `@/lib/data`** (`import type` é apagado na
+compilação e não conta). O módulo carrega `src/lib/generated/content-index.ts` — todas as receitas
+e reviews, ~2 MB minificado — e o webpack não separa o índice dos helpers: um único import
+num componente cliente põe o índice inteiro no bundle de toda página que usa o componente (até
+05/10/2026 o Navbar e o Footer faziam isso e cada página baixava ~2,8 MB de JS). O prefetch dos
+`<Link>` espalha o efeito: ele baixa os chunks cliente da rota de destino, então o índice também
+vai, em segundo plano, para toda página com link visível para uma página afetada. O cliente recebe
+dados por props de um componente servidor ou de módulos sem o índice, como `src/lib/brandLinks.ts`.
+Logo depois do `next build`, o `npm run build` roda `scripts/test-client-bundle.mjs`
+(`npm run test:client-bundle`), que falha se algum chunk do navegador trouxer o índice.
+
+Filtro que só muda a query string da mesma página (ex.: `/receitas`, `/reviews`) não usa
+`router.replace`/`push`: o router baixa de novo o payload RSC da página — com todos os cards — a
+cada clique. `/receitas` usa `window.history.replaceState`, que o Next sincroniza com o
+`useSearchParams` sem ida ao servidor. `/reviews` usa `pushState` e lê a categoria da URL com
+`useSyncExternalStore`; o `useSearchParams` fica num componente vazio com Suspense próprio, só para
+avisar das mudanças, e assim o prerender não para no Suspense e o HTML estático traz os cards.
 
 ### Mídia (imagens e vídeos) — biblioteca CDN em migração
 

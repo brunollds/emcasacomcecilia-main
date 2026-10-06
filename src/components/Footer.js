@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { brandLinks, socialMedias } from '@/lib/data';
+import { brandLinks, socialMedias } from '@/lib/brandLinks';
 import {
   getShellCommercialLinks,
   getShellCopy,

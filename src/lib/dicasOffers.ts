@@ -1,4 +1,5 @@
-import { brandLinks, offers, type Offer } from '@/lib/data';
+import { brandLinks } from '@/lib/brandLinks';
+import { offers, type Offer } from '@/lib/data';
 import { isAllowedImageHost } from '@/lib/imageHosts.mjs';
 
 type DicasPost = {

@@ -1,4 +1,11 @@
 import { Suspense } from 'react';
+import {
+  getRecipeAllCategoryLabels,
+  getRecipeImage,
+  getRecipeImageAlt,
+  getRecipePrimaryCategory,
+  recipes,
+} from '@/lib/data';
 import ReceitasClientPage from './ReceitasClientPage';
 
 export const metadata = {
@@ -15,10 +22,34 @@ export const metadata = {
   },
 };
 
+// Só o que a listagem usa de cada receita: o card e os campos dos filtros.
+function toListedRecipe(recipe) {
+  return {
+    id: recipe.id,
+    slug: recipe.slug,
+    title: recipe.title,
+    image: getRecipeImage(recipe),
+    imageAlt: getRecipeImageAlt(recipe),
+    displayCategory: getRecipePrimaryCategory(recipe),
+    totalTime: recipe.totalTime,
+    difficulty: recipe.difficulty,
+    isPopular: recipe.isPopular,
+    primaryCategory: recipe.primaryCategory,
+    subCategory: recipe.subCategory,
+    cuisine: recipe.cuisine,
+    method: recipe.method,
+    diet: recipe.diet,
+    keyIngredients: recipe.keyIngredients,
+    collections: recipe.collections,
+    mealTime: recipe.mealTime,
+    categoryLabels: getRecipeAllCategoryLabels(recipe),
+  };
+}
+
 export default function ReceitasPage() {
   return (
     <Suspense fallback={<div className="min-h-screen bg-[#fef9f3]" />}>
-      <ReceitasClientPage />
+      <ReceitasClientPage recipes={recipes.map(toListedRecipe)} />
     </Suspense>
   );
 }

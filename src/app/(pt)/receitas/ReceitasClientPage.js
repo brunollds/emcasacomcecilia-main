@@ -1,9 +1,8 @@
 'use client';
 
-import Link from 'next/link';
 import Image from 'next/image';
-import { useState } from 'react';
-import { usePathname, useRouter, useSearchParams } from 'next/navigation';
+import { useMemo, useState } from 'react';
+import { usePathname, useSearchParams } from 'next/navigation';
 import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 import { ViewTransitionLink } from '@/components/ViewTransitionLink';
 import { ArrowRight, ChefHat, ChevronDown, Clock, Leaf, SlidersHorizontal, X } from 'lucide-react';
@@ -17,13 +16,6 @@ import {
   PRIMARY_CATEGORIES,
   SUBCATEGORY_MAP,
 } from '@/constants/taxonomia';
-import {
-  getRecipeAllCategoryLabels,
-  getRecipeImage,
-  getRecipeImageAlt,
-  getRecipePrimaryCategory,
-  recipes,
-} from '@/lib/data';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const INITIAL_VISIBLE_RECIPES = 16;
@@ -69,33 +61,44 @@ const tempoOptions = [
 
 const dificuldadeOptions = ['Todas', 'Fácil', 'Médio', 'Difícil'];
 
-const getAvailableLabels = (labels, extractor) => labels
+const getAvailableLabels = (recipes, labels, extractor) => labels
   .filter((label) => recipes.some((recipe) => extractor(recipe)?.includes?.(label) || extractor(recipe) === label))
   .map((label) => ({ label, slug: slugify(label) }))
   .sort((a, b) => a.label.localeCompare(b.label, 'pt-BR'));
 
-const typeOptions = getAvailableLabels(PRIMARY_CATEGORIES, (recipe) => recipe.primaryCategory);
-const cuisineOptions = getAvailableLabels(CUISINES, (recipe) => recipe.cuisine || []);
-const methodOptions = getAvailableLabels(METHODS, (recipe) => recipe.method || []);
-const dietOptions = getAvailableLabels(DIETS, (recipe) => recipe.diet || []);
-const ingredientOptions = getAvailableLabels(KEY_INGREDIENTS, (recipe) => recipe.keyIngredients || []);
-const collectionOptions = getAvailableLabels(COLLECTIONS, (recipe) => recipe.collections || []);
-const mealTimeOptions = getAvailableLabels(MEAL_TIMES, (recipe) => recipe.mealTime || []);
-const allSubcategoryOptions = Array.from(new Set(Object.values(SUBCATEGORY_MAP).flat()))
-  .map((label) => ({ label, slug: slugify(label) }))
-  .filter((option) => recipes.some((recipe) => recipe.subCategory?.includes(option.label)))
-  .sort((a, b) => a.label.localeCompare(b.label, 'pt-BR'));
+function buildFacetOptions(recipes) {
+  const typeOptions = getAvailableLabels(recipes, PRIMARY_CATEGORIES, (recipe) => recipe.primaryCategory);
+  const cuisineOptions = getAvailableLabels(recipes, CUISINES, (recipe) => recipe.cuisine || []);
+  const methodOptions = getAvailableLabels(recipes, METHODS, (recipe) => recipe.method || []);
+  const dietOptions = getAvailableLabels(recipes, DIETS, (recipe) => recipe.diet || []);
+  const ingredientOptions = getAvailableLabels(recipes, KEY_INGREDIENTS, (recipe) => recipe.keyIngredients || []);
+  const collectionOptions = getAvailableLabels(recipes, COLLECTIONS, (recipe) => recipe.collections || []);
+  const mealTimeOptions = getAvailableLabels(recipes, MEAL_TIMES, (recipe) => recipe.mealTime || []);
+  const allSubcategoryOptions = Array.from(new Set(Object.values(SUBCATEGORY_MAP).flat()))
+    .map((label) => ({ label, slug: slugify(label) }))
+    .filter((option) => recipes.some((recipe) => recipe.subCategory?.includes(option.label)))
+    .sort((a, b) => a.label.localeCompare(b.label, 'pt-BR'));
 
-const optionMaps = {
-  tipo: new Map(typeOptions.map((option) => [option.slug, option.label])),
-  sub: new Map(allSubcategoryOptions.map((option) => [option.slug, option.label])),
-  cozinha: new Map(cuisineOptions.map((option) => [option.slug, option.label])),
-  metodo: new Map(methodOptions.map((option) => [option.slug, option.label])),
-  dieta: new Map(dietOptions.map((option) => [option.slug, option.label])),
-  ingrediente: new Map(ingredientOptions.map((option) => [option.slug, option.label])),
-  colecao: new Map(collectionOptions.map((option) => [option.slug, option.label])),
-  momento: new Map(mealTimeOptions.map((option) => [option.slug, option.label])),
-};
+  return {
+    typeOptions,
+    cuisineOptions,
+    methodOptions,
+    dietOptions,
+    ingredientOptions,
+    collectionOptions,
+    mealTimeOptions,
+    optionMaps: {
+      tipo: new Map(typeOptions.map((option) => [option.slug, option.label])),
+      sub: new Map(allSubcategoryOptions.map((option) => [option.slug, option.label])),
+      cozinha: new Map(cuisineOptions.map((option) => [option.slug, option.label])),
+      metodo: new Map(methodOptions.map((option) => [option.slug, option.label])),
+      dieta: new Map(dietOptions.map((option) => [option.slug, option.label])),
+      ingrediente: new Map(ingredientOptions.map((option) => [option.slug, option.label])),
+      colecao: new Map(collectionOptions.map((option) => [option.slug, option.label])),
+      momento: new Map(mealTimeOptions.map((option) => [option.slug, option.label])),
+    },
+  };
+}
 
 function decodeSelectedLabels(values, map) {
   return values.map((value) => map.get(value)).filter(Boolean);
@@ -300,8 +303,8 @@ function RecipeResultsGrid({ items }) {
                 style={{ viewTransitionName: `recipe-hero-${sanitizeViewTransitionName(receita.slug)}` }}
               >
                 <Image
-                  src={resolveMediaUrl(getRecipeImage(receita))}
-                  alt={getRecipeImageAlt(receita)}
+                  src={resolveMediaUrl(receita.image)}
+                  alt={receita.imageAlt}
                   fill
                   className="object-cover transition-transform duration-700 ease-out group-hover:scale-110"
                   sizes="(max-width: 768px) 50vw, (max-width: 1280px) 33vw, 25vw"
@@ -312,7 +315,7 @@ function RecipeResultsGrid({ items }) {
 
                 <div className="absolute left-4 top-4">
                   <span className="inline-flex rounded-full bg-white/95 px-3 py-1 text-[10px] font-bold uppercase tracking-widest text-[#1a4d2e] shadow-md">
-                    {getRecipePrimaryCategory(receita)}
+                    {receita.displayCategory}
                   </span>
                 </div>
 
@@ -356,11 +359,20 @@ function RecipeResultsGrid({ items }) {
   );
 }
 
-export default function ReceitasClientPage() {
-  const router = useRouter();
+export default function ReceitasClientPage({ recipes }) {
   const pathname = usePathname();
   const searchParams = useSearchParams();
   const [showMobileFilters, setShowMobileFilters] = useState(false);
+  const {
+    typeOptions,
+    cuisineOptions,
+    methodOptions,
+    dietOptions,
+    ingredientOptions,
+    collectionOptions,
+    mealTimeOptions,
+    optionMaps,
+  } = useMemo(() => buildFacetOptions(recipes), [recipes]);
 
   const categoriaAtiva = searchParams.get('categoria') || '';
   const tipoAtivo = parseMultiValue(searchParams.get('tipo'));
@@ -374,7 +386,6 @@ export default function ReceitasClientPage() {
   const dificuldadeAtiva = searchParams.get('dificuldade') || 'Todas';
   const tempoAtivo = searchParams.get('tempo') || 'todos';
   const ordemAtiva = searchParams.get('ordem') || 'populares';
-  const queryAtiva = (searchParams.get('q') || '').trim();
 
   const selectedTypeLabels = decodeSelectedLabels(tipoAtivo, optionMaps.tipo);
   const selectedSubLabels = decodeSelectedLabels(subAtiva, optionMaps.sub);
@@ -416,28 +427,14 @@ export default function ReceitasClientPage() {
     selectedMealTimeLabels,
     dificuldadeAtiva,
     tempoAtivo,
-    queryAtiva,
   };
 
   const matchesRecipe = (recipe, excludeFacet = null) => {
-    const recipeCategoryLabels = getRecipeAllCategoryLabels(recipe);
     const totalMinutes = getTimeInMinutes(recipe.totalTime);
-    const normalizedQuery = filtersState.queryAtiva.toLowerCase();
-
-    const searchableText = [
-      recipe.title,
-      recipe.description,
-      ...recipeCategoryLabels,
-      ...(recipe.searchTerms || []),
-      ...(recipe.tags || []),
-      ...recipe.ingredients.flatMap((section) => section.items),
-    ]
-      .join(' ')
-      .toLowerCase();
 
     const checks = {
       categoria: !filtersState.categoriaAtiva
-        || recipeCategoryLabels.some((category) => slugify(category) === filtersState.categoriaAtiva),
+        || recipe.categoryLabels.some((category) => slugify(category) === filtersState.categoriaAtiva),
       tipo: !filtersState.selectedTypeLabels.length
         || filtersState.selectedTypeLabels.includes(recipe.primaryCategory),
       sub: !filtersState.selectedSubLabels.length
@@ -460,7 +457,6 @@ export default function ReceitasClientPage() {
         || (filtersState.tempoAtivo === 'ate-30' && totalMinutes <= 30)
         || (filtersState.tempoAtivo === '31-60' && totalMinutes > 30 && totalMinutes <= 60)
         || (filtersState.tempoAtivo === 'mais-60' && totalMinutes > 60),
-      query: !normalizedQuery || searchableText.includes(normalizedQuery),
     };
 
     return Object.entries(checks).every(([key, value]) => key === excludeFacet || value);
@@ -512,7 +508,9 @@ export default function ReceitasClientPage() {
     });
 
     const queryString = params.toString();
-    router.replace(queryString ? `${pathname}?${queryString}` : pathname, { scroll: false });
+    // replaceState atualiza o useSearchParams sem buscar de novo o payload da página, que traz
+    // todas as receitas; router.replace refazia esse download a cada filtro.
+    window.history.replaceState(null, '', queryString ? `${pathname}?${queryString}` : pathname);
   };
 
   const toggleMultiValue = (key, activeValues, value) => {
@@ -524,14 +522,13 @@ export default function ReceitasClientPage() {
   };
 
   const clearAllFilters = () => {
-    router.replace(queryAtiva ? `${pathname}?q=${encodeURIComponent(queryAtiva)}` : pathname, { scroll: false });
+    window.history.replaceState(null, '', pathname);
   };
 
   const activeChips = [
-    queryAtiva ? { key: 'q', label: `Busca: ${queryAtiva}`, onRemove: () => updateParams({ q: null }) } : null,
     categoriaAtiva ? {
       key: 'categoria',
-      label: `Atalho: ${Array.from(new Set(recipes.flatMap((recipe) => getRecipeAllCategoryLabels(recipe)))).find((label) => slugify(label) === categoriaAtiva) || categoriaAtiva}`,
+      label: `Atalho: ${recipes.flatMap((recipe) => recipe.categoryLabels).find((label) => slugify(label) === categoriaAtiva) || categoriaAtiva}`,
       onRemove: () => updateParams({ categoria: null }),
     } : null,
     ...tipoAtivo.map((value) => ({ key: `tipo-${value}`, label: optionMaps.tipo.get(value), onRemove: () => toggleMultiValue('tipo', tipoAtivo, value) })),

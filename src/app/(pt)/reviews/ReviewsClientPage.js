@@ -1,22 +1,16 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { Suspense, useEffect, useState, useSyncExternalStore } from 'react';
 import Image from 'next/image';
-import { useRouter, useSearchParams } from 'next/navigation';
+import { useSearchParams } from 'next/navigation';
 import { ArrowRight, Leaf } from 'lucide-react';
-import { getReviewSlug, publishedReviews } from '@/lib/data';
-import {
-  REVIEW_CATEGORIES,
-  isListedInPortuguese,
-  parseReviewCategory,
-} from '@/lib/reviewDiscovery';
+import { REVIEW_CATEGORIES, parseReviewCategory } from '@/lib/reviewDiscovery';
 import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 import { ViewTransitionLink } from '@/components/ViewTransitionLink';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const INITIAL_COUNT = 8;
 const LOAD_MORE_COUNT = 4;
-const listedReviews = publishedReviews.filter(isListedInPortuguese);
 
 const accentByType = {
   'Eletrodoméstico': '#ff6b35',
@@ -34,43 +28,39 @@ const iconByType = {
   'Teste de Cozinha': '🧪',
 };
 
-const estimateReadingTime = (review) => {
-  const words = [
-    review.title,
-    review.description,
-    ...(review.pros || []),
-    ...(review.cons || []),
-    ...(review.contentSections || []).flatMap((s) => [
-      s.heading,
-      ...(s.paragraphs || []),
-      ...(s.bullets || []),
-    ]),
-  ]
-    .join(' ')
-    .trim()
-    .split(/\s+/)
-    .filter(Boolean).length;
-
-  return Math.max(2, Math.ceil(words / 180));
-};
-
 const categoryFilters = [
   { value: null, label: 'Todos' },
   ...REVIEW_CATEGORIES,
 ];
 
-const sortReviewsByDateDesc = (items) =>
-  [...items].sort((a, b) => {
-    const newnessOrder = Number(Boolean(b.isNew)) - Number(Boolean(a.isNew));
-    const dateA = a.publishedAtISO ? Date.parse(a.publishedAtISO) : 0;
-    const dateB = b.publishedAtISO ? Date.parse(b.publishedAtISO) : 0;
-    return newnessOrder || dateB - dateA || b.id - a.id;
-  });
+// A categoria sai da URL só no navegador. Com useSearchParams na página inteira, o prerender
+// parava no Suspense e o HTML estático ia sem nenhum card; agora o servidor (e a hidratação)
+// renderiza "Todos", e o useSearchParams fica isolado no CategoryUrlListener, que só avisa quando
+// a categoria da URL muda: filtro, voltar/avançar ou link para /reviews.
+const CATEGORY_CHANGE_EVENT = 'reviews-category-change';
 
-export default function ReviewsClientPage() {
-  const router = useRouter();
-  const searchParams = useSearchParams();
-  const activeCategory = parseReviewCategory(searchParams.get('categoria'));
+function subscribeToCategory(onChange) {
+  window.addEventListener(CATEGORY_CHANGE_EVENT, onChange);
+  return () => window.removeEventListener(CATEGORY_CHANGE_EVENT, onChange);
+}
+
+const getUrlCategory = () => new URLSearchParams(window.location.search).get('categoria');
+const getServerCategory = () => null;
+
+function CategoryUrlListener() {
+  const category = useSearchParams().get('categoria');
+
+  useEffect(() => {
+    window.dispatchEvent(new Event(CATEGORY_CHANGE_EVENT));
+  }, [category]);
+
+  return null;
+}
+
+export default function ReviewsClientPage({ reviews }) {
+  const activeCategory = parseReviewCategory(
+    useSyncExternalStore(subscribeToCategory, getUrlCategory, getServerCategory)
+  );
   const [pagination, setPagination] = useState({
     category: activeCategory,
     visible: INITIAL_COUNT,
@@ -80,21 +70,15 @@ export default function ReviewsClientPage() {
       ? pagination.visible
       : INITIAL_COUNT;
 
-  const filtered = useMemo(
-    () =>
-      sortReviewsByDateDesc(
-        activeCategory
-          ? listedReviews.filter((review) => review.category === activeCategory)
-          : listedReviews
-      ),
-    [activeCategory]
-  );
+  const filtered = activeCategory
+    ? reviews.filter((review) => review.category === activeCategory)
+    : reviews;
 
   const visibleReviews = filtered.slice(0, visible);
   const hasMore = filtered.length > visible;
 
   const handleCategoryChange = (category) => {
-    const params = new URLSearchParams(searchParams.toString());
+    const params = new URLSearchParams(window.location.search);
 
     if (category) {
       params.set('categoria', category);
@@ -103,12 +87,17 @@ export default function ReviewsClientPage() {
     }
 
     const query = params.toString();
-    router.push(query ? `/reviews?${query}` : '/reviews', { scroll: false });
+    // pushState atualiza o useSearchParams sem buscar de novo o payload com todos os cards.
+    window.history.pushState(null, '', query ? `/reviews?${query}` : '/reviews');
     setPagination({ category, visible: INITIAL_COUNT });
   };
 
   return (
     <main className="min-h-screen bg-[#fef9f3]">
+      <Suspense fallback={null}>
+        <CategoryUrlListener />
+      </Suspense>
+
       {/* Hero */}
       <section className="relative overflow-hidden border-b border-black/5 bg-[#0f1d3a] px-6 py-14 text-white md:py-16">
         <div className="pointer-events-none absolute inset-0 select-none overflow-hidden">
@@ -159,20 +148,19 @@ export default function ReviewsClientPage() {
             {visibleReviews.map((review, index) => {
               const accent = accentByType[review.type] ?? '#ff6b35';
               const icon = iconByType[review.type] ?? '📝';
-              const readingTime = estimateReadingTime(review);
               const isProductReview = Boolean(review.rating);
 
               return (
                 <ViewTransitionLink
                   key={review.id}
-                  href={`/reviews/${getReviewSlug(review)}`}
+                  href={`/reviews/${review.slug}`}
                   className="group block animate-slide-up"
                   style={{ animationDelay: `${(index % 8) * 0.05}s` }}
                 >
                   <article className="transition-all duration-500 group-hover:-translate-y-2">
                     <div
                       className="relative mb-4 aspect-[5/6] overflow-hidden rounded-[2rem] shadow-soft transition-all duration-500 group-hover:shadow-large"
-                      style={{ viewTransitionName: `review-hero-${sanitizeViewTransitionName(getReviewSlug(review))}` }}
+                      style={{ viewTransitionName: `review-hero-${sanitizeViewTransitionName(review.slug)}` }}
                     >
                       {review.image ? (
                         <Image
@@ -240,7 +228,7 @@ export default function ReviewsClientPage() {
                       )}
 
                       <div className="absolute bottom-5 left-5 right-5 text-xs font-bold uppercase tracking-widest text-white/78">
-                        {review.publishedAt} · {readingTime} min de leitura
+                        {review.publishedAt} · {review.readingMinutes} min de leitura
                       </div>
                     </div>
 

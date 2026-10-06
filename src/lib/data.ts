@@ -1,38 +1,9 @@
 import { recipesData, reviewsData } from './generated/content-index';
+import { brandLinks } from './brandLinks';
 import type { ReviewCategory } from './reviewDiscovery';
 import type { Locale } from '@/lib/i18n/locales';
 
 // 📊 Dados Unificados - Em Casa com Cecília
-
-import { BRUNO_AUTHOR, CECILIA_AUTHOR } from '@/lib/content/authors';
-
-export interface SocialMedia {
-  name: string;
-  handle: string;
-  followers: string;
-  url: string;
-  icon: string;
-  color: string;
-}
-
-export interface LinkItem {
-  id: string;
-  title: string;
-  description: string;
-  url: string;
-  icon: string;
-  color: string;
-  badge?: string;
-}
-
-export interface Category {
-  id: string;
-  name: string;
-  slug: string;
-  icon: string;
-  color: string;
-  count: number;
-}
 
 export interface IngredientSection {
   section: string;
@@ -299,24 +270,6 @@ export interface Offer {
   image?: string;
 }
 
-export interface BrandLinks {
-  contactEmail: string;
-  contactMailto: string;
-  mediaKit: string;
-  whatsappGroup: string;
-  whatsapp: string;
-  instagram: string;
-  youtube: string;
-  tiktok: string;
-  facebook: string;
-  kwai: string;
-  dicas: string;
-  damie: string;
-  dolceGusto: string;
-  parcerias: string;
-  airFryerEbook: string;
-}
-
 export interface SocialHighlight {
   id: string;
   platform: 'YouTube' | 'Instagram';
@@ -327,78 +280,6 @@ export interface SocialHighlight {
   thumbnailUrl?: string;
   fallbackThumbnailUrl?: string;
 }
-
-export const brandLinks: BrandLinks = {
-  contactEmail: 'contato@emcasacomcecilia.com',
-  contactMailto: 'mailto:contato@emcasacomcecilia.com',
-  mediaKit: 'https://mk.emcasacomcecilia.com',
-  whatsappGroup: 'https://chat.whatsapp.com/GwouQfaZMrj32j7pKOIZbQ',
-  whatsapp: 'https://wa.me/5511999999999',
-  instagram: 'https://instagram.com/emcasacomcecilia',
-  youtube: 'https://youtube.com/@emcasacomcecilia',
-  tiktok: 'https://tiktok.com/@emcasacomcecilia',
-  facebook: 'https://facebook.com/emcasacomcecilia',
-  kwai: 'https://kwai.com/@emcasacomcecilia',
-  dicas: 'https://dicas.emcasacomcecilia.com',
-  damie: 'https://damie.emcasacomcecilia.com',
-  dolceGusto: 'https://www.nescafe-dolcegusto.com.br/',
-  parcerias: 'mailto:contato@emcasacomcecilia.com',
-  airFryerEbook: 'mailto:contato@emcasacomcecilia.com?subject=Quero%20saber%20sobre%20o%20E-book%20Air%20Fryer',
-};
-
-// 📱 Redes Sociais da Cecília
-export const socialMedias: SocialMedia[] = [
-  {
-    name: 'YouTube',
-    handle: '@emcasacomcecilia',
-    followers: '13.3K',
-    url: brandLinks.youtube,
-    icon: 'Youtube',
-    color: 'bg-red-600',
-  },
-  {
-    name: 'Instagram',
-    handle: '@emcasacomcecilia',
-    followers: '443.5K',
-    url: brandLinks.instagram,
-    icon: 'Instagram',
-    color: 'bg-gradient-to-br from-purple-600 to-pink-600',
-  },
-  {
-    name: 'TikTok',
-    handle: '@emcasacomcecilia',
-    followers: '85.5K',
-    url: brandLinks.tiktok,
-    icon: 'TikTok',
-    color: 'bg-black',
-  },
-  {
-    name: 'Facebook',
-    handle: 'Em Casa com Cecília',
-    followers: '8.5K',
-    url: brandLinks.facebook,
-    icon: 'Facebook',
-    color: 'bg-blue-600',
-  },
-  {
-    name: 'Kwai',
-    handle: '@emcasacomcecilia',
-    followers: '6.4K',
-    url: brandLinks.kwai,
-    icon: 'Kwai',
-    color: 'bg-orange-500',
-  },
-];
-
-// 📂 Categorias Unificadas
-export const categories: Category[] = [
-  { id: '1', name: 'Bolos', slug: 'bolos', icon: 'Cake', color: 'from-orange-400 to-orange-600', count: 42 },
-  { id: '2', name: 'Massas', slug: 'massas', icon: 'Utensils', color: 'from-yellow-400 to-yellow-600', count: 35 },
-  { id: '3', name: 'Doces', slug: 'doces', icon: 'Cookie', color: 'from-pink-400 to-pink-600', count: 24 },
-  { id: '4', name: 'Salgados', slug: 'salgados', icon: 'Pizza', color: 'from-red-400 to-red-600', count: 28 },
-  { id: '5', name: 'Saudáveis', slug: 'saudaveis', icon: 'Leaf', color: 'from-green-400 to-green-600', count: 31 },
-  { id: '6', name: 'Air Fryer', slug: 'air-fryer', icon: 'Zap', color: 'from-purple-400 to-purple-600', count: 22 },
-];
 
 // 🍳 Receitas
 // Conteúdo migrado para content/ (Fase 2b) — o índice é gerado no build.
@@ -595,23 +476,4 @@ export const offers: Offer[] = [
   },
 ];
 
-export const linkItems: LinkItem[] = [
-  { id: 'dicas', title: 'Dicas & Ofertas', description: 'Promoções', url: brandLinks.dicas, icon: 'Tag', color: 'from-green-500 to-emerald-600' }
-];
-
 export const youtubeShorts: any[] = [];
-
-export function formatPrice(value: number): string {
-  return value.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
-}
-
-export function totalFollowers(): string {
-  const total = socialMedias.reduce((acc, social) => {
-    const num = parseFloat(social.followers.replace('K', '').replace('+', ''));
-    return acc + (social.followers.includes('K') ? num * 1000 : num);
-  }, 0);
-  
-  if (total >= 1000000) return (total / 1000000).toFixed(1) + 'M';
-  if (total >= 1000) return (total / 1000).toFixed(1) + 'K';
-  return total.toString();
-}

@@ -1,3 +1,5 @@
+import { PRIMARY_CATEGORIES } from '@/constants/taxonomia';
+import { getRecipeAllCategoryLabels, recipes } from '@/lib/data';
 import CategoriasClientPage from './CategoriasClientPage';
 
 export const metadata = {
@@ -15,5 +17,16 @@ export const metadata = {
 };
 
 export default function CategoriasPage() {
-  return <CategoriasClientPage />;
+  // Quantas receitas têm cada rótulo em qualquer campo da taxonomia.
+  const recipeCounts = {};
+  for (const recipe of recipes) {
+    for (const label of getRecipeAllCategoryLabels(recipe)) {
+      recipeCounts[label] = (recipeCounts[label] ?? 0) + 1;
+    }
+  }
+  const primaryCategories = PRIMARY_CATEGORIES.filter((label) =>
+    recipes.some((recipe) => recipe.primaryCategory === label)
+  );
+
+  return <CategoriasClientPage recipeCounts={recipeCounts} primaryCategories={primaryCategories} />;
 }

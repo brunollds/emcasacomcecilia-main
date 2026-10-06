@@ -1,9 +1,7 @@
-'use client';
-
 import Link from 'next/link';
 import Image from 'next/image';
 import { ArrowUpRight, Bell, BookOpen, Handshake, Tag } from 'lucide-react';
-import { brandLinks } from '@/lib/data';
+import { brandLinks } from '@/lib/brandLinks';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const links = [

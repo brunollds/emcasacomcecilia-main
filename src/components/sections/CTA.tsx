@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
 import { getYoutubeHighlights } from '@/lib/youtube';
 import { VideoCarousel } from '@/components/sections/VideoCarousel';
-import { brandLinks } from '@/lib/data';
+import { brandLinks } from '@/lib/brandLinks';
 
 export async function CTA() {
   const youtubeShorts = await getYoutubeHighlights();
