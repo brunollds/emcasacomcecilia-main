@@ -21,6 +21,8 @@ export interface ResolvedPromoOffer {
   id: string;
   code: string;
   discountLabel: string;
+  // Valor mínimo de compra, por faixa quando houver, e quem pode usar, já no idioma da página.
+  conditions: string[];
   validityLabel: string;
   regionLabel: string;
   formattedVerifiedDate: string;
@@ -58,6 +60,8 @@ export interface ResolvedYesStylePage {
   promoLabels: PageCopy['promoLabels'];
   proofLabel: string;
   activePromoOffers: ResolvedPromoOffer[];
+  policyTitle: string;
+  policyRules: PageCopy['policyRules'];
   instructionsTitle: string;
   instructions: string[];
   note: string;
@@ -152,6 +156,17 @@ export function resolveYesStylePage(
   const formattedDate = formatIsoDateUTC(latestVerifiedAtISO, page.language);
   const formatPercent = (value: number) =>
     new Intl.NumberFormat(page.language, { style: 'percent' }).format(value / 100);
+  // O valor leva o código da moeda (USD 79): com o "$" sozinho, quem está no Canadá ou na Austrália
+  // pode ler como a moeda local.
+  const formatMoney = (value: number, currency: string) =>
+    new Intl.NumberFormat(page.language, {
+      style: 'currency',
+      currency,
+      currencyDisplay: 'code',
+      trailingZeroDisplay: 'stripIfInteger',
+    }).format(value);
+  const regionNames = new Intl.DisplayNames([page.language], { type: 'region' });
+  const formatList = new Intl.ListFormat(page.language, { type: 'conjunction' });
 
   const canonicalUrl =
     page.locale === 'pt'
@@ -160,31 +175,45 @@ export function resolveYesStylePage(
 
   const activePromoOffers: ResolvedPromoOffer[] = promos.map((promo) => {
     let discountStr = '';
+    const conditions: string[] = [];
     if (promo.discount.kind === 'percentage') {
       discountStr = `${promo.discount.value}% OFF`;
+      conditions.push(page.noMinimumLabel);
     } else if (promo.discount.kind === 'fixed') {
       discountStr = `${promo.discount.currency} ${promo.discount.value} OFF`;
     } else if (promo.discount.kind === 'shipping') {
       discountStr = page.freeShippingLabel;
     } else {
-      const percents = promo.discount.tiers.map((tier) => tier.percent);
+      const { currency, tiers } = promo.discount;
+      const percents = tiers.map((tier) => tier.percent);
       const lowest = Math.min(...percents);
       const highest = Math.max(...percents);
       discountStr = lowest === highest ? `${highest}% OFF` : `${lowest}–${highest}% OFF`;
+      conditions.push(
+        ...tiers.map((tier) =>
+          page.tierTemplate
+            .replace('{percent}', formatPercent(tier.percent))
+            .replace('{amount}', formatMoney(tier.minSpend, currency))
+        )
+      );
     }
+    if (promo.membersOnly) conditions.push(page.membersOnlyLabel);
 
     const validityLabel = promo.expiresAt
       ? formatIsoDateUTC(promo.expiresAt, page.language)
       : page.validityUnconfirmed;
 
     const regionLabel = promo.regions && promo.regions.length > 0
-      ? promo.regions.join(', ')
+      ? formatList.format(
+          promo.regions.map((region) => (region === 'GLOBAL' ? page.allRegionsLabel : regionNames.of(region) ?? region))
+        )
       : page.regionUnconfirmed;
 
     return {
       id: promo.id,
       code: promo.code,
       discountLabel: discountStr,
+      conditions,
       validityLabel,
       regionLabel,
       formattedVerifiedDate: formatIsoDateUTC(promo.verifiedAt, page.language),
@@ -232,6 +261,13 @@ export function resolveYesStylePage(
     promoLabels: page.promoLabels,
     proofLabel: page.proofLabel,
     activePromoOffers,
+    policyTitle: page.policyTitle,
+    policyRules: {
+      eligible: fillPlaceholders(page.policyRules.eligible, reward, firstPromoCode),
+      combinable: fillPlaceholders(page.policyRules.combinable, reward, firstPromoCode),
+      validity: fillPlaceholders(page.policyRules.validity, reward, firstPromoCode),
+      shipping: fillPlaceholders(page.policyRules.shipping, reward, firstPromoCode),
+    },
     instructionsTitle: fillPlaceholders(page.instructionsTitleTemplate, reward, firstPromoCode),
     instructions: instructionsTemplatesToUse.map((item) => fillPlaceholders(item, reward, firstPromoCode)),
     note: fillPlaceholders(page.noteTemplate, reward, firstPromoCode),

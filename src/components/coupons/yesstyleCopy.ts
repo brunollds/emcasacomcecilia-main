@@ -1,5 +1,8 @@
 import type { Locale } from '@/lib/i18n/locales';
 
+// O francês pede espaço antes de : ; ? e %, e ele não pode quebrar a linha.
+const NBSP = '\u00a0';
+
 // Textos da página de cupons da YesStyle nos 10 idiomas. {code}, {newDiscount}, {returningDiscount}
 // e {promoCode} são preenchidos com os dados de data/coupons/yesstyle.json.
 export type PageCopy = {
@@ -26,6 +29,14 @@ export type PageCopy = {
   regionUnconfirmed: string;
   freeShippingLabel: string;
   promoLabels: { validity: string; region: string };
+  tierTemplate: string;
+  noMinimumLabel: string;
+  membersOnlyLabel: string;
+  allRegionsLabel: string;
+  policyTitle: string;
+  // Respostas aos rótulos das regras da página de loja: Vale para, Junta com outras promoções?,
+  // Validade e Frete.
+  policyRules: { eligible: string; combinable: string; validity: string; shipping: string };
   instructionsTitleTemplate: string;
   instructionsTemplates: string[];
   emptyPromoInstructionsTemplates: string[];
@@ -65,6 +76,17 @@ const pages: Record<Locale, PageCopy> = {
     regionUnconfirmed: 'Região não informada',
     freeShippingLabel: 'Frete grátis',
     promoLabels: { validity: 'Validade', region: 'Região' },
+    tierTemplate: '{percent} em compras a partir de {amount}',
+    noMinimumLabel: 'Sem valor mínimo',
+    membersOnlyLabel: 'Só para membros, com login na YesStyle',
+    allRegionsLabel: 'Todos os países',
+    policyTitle: 'Como funcionam os cupons da YesStyle',
+    policyRules: {
+      eligible: 'Produtos que participam da promoção. Quando um item fica de fora, a YesStyle avisa na página dele ou no checkout.',
+      combinable: 'Sim, com preços em promoção, com o {code} no campo Reward Code e com os YS Points. Com outro cupom, não: é um por pedido.',
+      validity: 'Cada cupom tem o seu prazo, no horário GMT, 3 horas à frente de Brasília.',
+      shipping: 'O desconto vale só para o preço dos produtos. Frete, reenvio e outras taxas ficam de fora.',
+    },
     instructionsTitleTemplate: 'Como aplicar cupons e o código {code} no checkout',
     instructionsTemplates: [
       'Copie o cupom promocional ativo (ex: {promoCode}).',
@@ -118,6 +140,17 @@ const pages: Record<Locale, PageCopy> = {
     regionUnconfirmed: 'Region unstated',
     freeShippingLabel: 'Free shipping',
     promoLabels: { validity: 'Validity', region: 'Region' },
+    tierTemplate: '{percent} off orders of {amount} or more',
+    noMinimumLabel: 'No minimum spend',
+    membersOnlyLabel: 'Members only: sign in to YesStyle',
+    allRegionsLabel: 'All countries',
+    policyTitle: 'How YesStyle coupons work',
+    policyRules: {
+      eligible: 'Products in the promotion. When an item is excluded, YesStyle says so on its page or at checkout.',
+      combinable: 'Yes, with sale prices, with {code} in the Reward Code field and with YS Points. Not with another coupon: one per order.',
+      validity: 'Each coupon has its own deadline, in GMT.',
+      shipping: 'The discount applies to product prices only. Shipping, reshipping and other fees are excluded.',
+    },
     instructionsTitleTemplate: 'How to combine coupons and code {code}',
     instructionsTemplates: [
       'Copy any active promo coupon (e.g. {promoCode}).',
@@ -171,6 +204,17 @@ const pages: Record<Locale, PageCopy> = {
     regionUnconfirmed: 'Región no informada',
     freeShippingLabel: 'Envío gratis',
     promoLabels: { validity: 'Validez', region: 'Región' },
+    tierTemplate: '{percent} en pedidos desde {amount}',
+    noMinimumLabel: 'Sin compra mínima',
+    membersOnlyLabel: 'Solo para miembros, con sesión iniciada en YesStyle',
+    allRegionsLabel: 'Todos los países',
+    policyTitle: 'Cómo funcionan los cupones de YesStyle',
+    policyRules: {
+      eligible: 'Productos de la promoción. Si un artículo queda fuera, YesStyle lo indica en su página o al pagar.',
+      combinable: 'Sí, con precios rebajados, con {code} en el campo Reward Code y con los YS Points. Con otro cupón, no: uno por pedido.',
+      validity: 'Cada cupón tiene su propio plazo, en horario GMT.',
+      shipping: 'El descuento se aplica solo al precio de los productos. Envío, reenvío y otras tarifas quedan fuera.',
+    },
     instructionsTitleTemplate: 'Cómo usar {code} y cupones',
     instructionsTemplates: [
       'Copia el cupón promocional activo (ej: {promoCode}).',
@@ -205,8 +249,8 @@ const pages: Record<Locale, PageCopy> = {
     homeLabel: 'Em Casa com Cecília',
     couponsLabel: 'Coupons',
     category: 'Beauté, mode et lifestyle',
-    titleTemplate: 'Code récompense YesStyle {code} : Jusqu’à {newDiscount} % en plus',
-    descriptionTemplate: 'Code récompense officiel {code} sur YesStyle. Ajoutez jusqu’à {newDiscount} % de réduction sous réserve d’éligibilité des coupons promo.',
+    titleTemplate: `Code récompense YesStyle {code}${NBSP}: Jusqu’à {newDiscount}${NBSP}% en plus`,
+    descriptionTemplate: `Code récompense officiel {code} sur YesStyle. Ajoutez jusqu’à {newDiscount}${NBSP}% de réduction sous réserve d’éligibilité des coupons promo.`,
     introTemplate: '{code} est le code récompense officiel de YesStyle et se cumule avec les coupons promo éligibles de la boutique.',
     copyAriaPromoTemplate: 'Copier le coupon promo {promoCode}',
     visit: 'Aller sur YesStyle',
@@ -215,7 +259,7 @@ const pages: Record<Locale, PageCopy> = {
     firstOrderLabel: 'Première commande',
     nextOrdersLabel: 'Commandes suivantes',
     promosSectionTitle: 'Coupons promo YesStyle',
-    promosIntroTemplate: 'Ces coupons viennent de YesStyle : ils expirent, se saisissent dans le champ Coupon Code et peuvent se cumuler avec {code}.',
+    promosIntroTemplate: `Ces coupons viennent de YesStyle${NBSP}: ils expirent, se saisissent dans le champ Coupon Code et peuvent se cumuler avec {code}.`,
     emptyPromosNoticeTemplate: 'Aucun coupon promotionnel vérifié pour le moment.',
     emptyPromosSubtextTemplate: 'Le code récompense {code} reste actif dans le champ Reward Code.',
     proofLabel: 'Voir la preuve officielle',
@@ -223,6 +267,17 @@ const pages: Record<Locale, PageCopy> = {
     regionUnconfirmed: 'Région non précisée',
     freeShippingLabel: 'Livraison gratuite',
     promoLabels: { validity: 'Validité', region: 'Région' },
+    tierTemplate: '{percent} dès {amount} d’achat',
+    noMinimumLabel: 'Sans minimum d’achat',
+    membersOnlyLabel: 'Réservé aux membres connectés à YesStyle',
+    allRegionsLabel: 'Tous les pays',
+    policyTitle: 'Comment fonctionnent les coupons YesStyle',
+    policyRules: {
+      eligible: 'Les produits de la promotion. Si un article est exclu, YesStyle l’indique sur sa page ou au paiement.',
+      combinable: `Oui, avec les prix soldés, avec {code} dans le champ Reward Code et avec les YS Points. Pas avec un autre coupon${NBSP}: un seul par commande.`,
+      validity: 'Chaque coupon a sa propre date limite, à l’heure GMT.',
+      shipping: 'La réduction porte uniquement sur le prix des produits. Livraison, réexpédition et autres frais sont exclus.',
+    },
     instructionsTitleTemplate: 'Comment utiliser {code} et les coupons',
     instructionsTemplates: [
       'Copiez le coupon promo actif (ex: {promoCode}).',
@@ -239,7 +294,7 @@ const pages: Record<Locale, PageCopy> = {
       'Si un coupon promo de la boutique est disponible, essayez de l’appliquer dans Coupon Code.',
       'Vérifiez le montant final avant de payer.',
     ],
-    noteTemplate: 'Important : {code} va dans Reward Code, pas dans Coupon Code.',
+    noteTemplate: `Important${NBSP}: {code} va dans Reward Code, pas dans Coupon Code.`,
     relatedContentTitle: 'Guides YesStyle',
     rewardArticleCardTitleTemplate: 'Guide du code {code}',
     rewardArticleCardSubtext: 'Pas à pas avec captures et conseils',
@@ -247,7 +302,7 @@ const pages: Record<Locale, PageCopy> = {
     guideCardSubtext: 'Règles de cumul et livraison',
     faqTitle: 'Questions fréquentes',
     faqs: [
-      { question: 'Puis-je utiliser {code} avec un coupon ?', answer: 'Le code {code} dans le champ Reward Code peut être cumulé avec les coupons promo éligibles dans Coupon Code, sous réserve de confirmation au moment du paiement.' },
+      { question: `Puis-je utiliser {code} avec un coupon${NBSP}?`, answer: 'Le code {code} dans le champ Reward Code peut être cumulé avec les coupons promo éligibles dans Coupon Code, sous réserve de confirmation au moment du paiement.' },
     ],
     transparencyTemplate: 'Cette page contient des liens affiliés. Si vous achetez via {code}, nous pouvons recevoir une commission sans frais supplémentaires.',
   },
@@ -275,6 +330,17 @@ const pages: Record<Locale, PageCopy> = {
     regionUnconfirmed: 'Region nicht angegeben',
     freeShippingLabel: 'Kostenloser Versand',
     promoLabels: { validity: 'Gültigkeit', region: 'Region' },
+    tierTemplate: '{percent} ab {amount} Bestellwert',
+    noMinimumLabel: 'Kein Mindestbestellwert',
+    membersOnlyLabel: 'Nur für angemeldete YesStyle-Mitglieder',
+    allRegionsLabel: 'Alle Länder',
+    policyTitle: 'So funktionieren YesStyle-Gutscheine',
+    policyRules: {
+      eligible: 'Produkte aus der Aktion. Ist ein Artikel ausgeschlossen, zeigt YesStyle das auf der Produktseite oder an der Kasse an.',
+      combinable: 'Ja, mit reduzierten Preisen, mit {code} im Feld Reward Code und mit YS Points. Nicht mit einem weiteren Gutschein: einer pro Bestellung.',
+      validity: 'Jeder Gutschein hat eine eigene Frist, nach GMT.',
+      shipping: 'Der Rabatt gilt nur für den Warenpreis. Versand, erneuter Versand und andere Gebühren sind ausgenommen.',
+    },
     instructionsTitleTemplate: 'So verwendest du {code} & Gutscheine',
     instructionsTemplates: [
       'Kopiere den aktiven Aktionsgutschein (z. B. {promoCode}).',
@@ -327,6 +393,17 @@ const pages: Record<Locale, PageCopy> = {
     regionUnconfirmed: 'Regione non indicata',
     freeShippingLabel: 'Spedizione gratuita',
     promoLabels: { validity: 'Validità', region: 'Regione' },
+    tierTemplate: '{percent} sugli ordini da {amount}',
+    noMinimumLabel: 'Nessuna spesa minima',
+    membersOnlyLabel: 'Solo per i membri che hanno effettuato l’accesso a YesStyle',
+    allRegionsLabel: 'Tutti i paesi',
+    policyTitle: 'Come funzionano i coupon YesStyle',
+    policyRules: {
+      eligible: 'I prodotti in promozione. Se un articolo è escluso, YesStyle lo indica nella sua pagina o al checkout.',
+      combinable: 'Sì, con i prezzi scontati, con {code} nel campo Reward Code e con gli YS Points. Non con un altro coupon: uno per ordine.',
+      validity: 'Ogni coupon ha la sua scadenza, in orario GMT.',
+      shipping: 'Lo sconto vale solo sul prezzo dei prodotti. Spedizione, rispedizione e altre tariffe sono escluse.',
+    },
     instructionsTitleTemplate: 'Come usare {code} e i coupon al checkout',
     instructionsTemplates: [
       'Copia il coupon promozionale attivo (es. {promoCode}).',
@@ -379,6 +456,17 @@ const pages: Record<Locale, PageCopy> = {
     regionUnconfirmed: '지역 미기재',
     freeShippingLabel: '무료 배송',
     promoLabels: { validity: '유효기간', region: '적용지역' },
+    tierTemplate: '{amount} 이상 구매 시 {percent} 할인',
+    noMinimumLabel: '최소 구매 금액 없음',
+    membersOnlyLabel: 'YesStyle 회원 전용(로그인 필요)',
+    allRegionsLabel: '전 세계',
+    policyTitle: 'YesStyle 쿠폰 이용 규칙',
+    policyRules: {
+      eligible: '프로모션 대상 상품입니다. 제외되는 상품은 YesStyle이 상품 페이지나 결제 단계에서 알려 줍니다.',
+      combinable: '네. 할인가, Reward Code 칸의 {code}, YS Points와 함께 쓸 수 있습니다. 다른 쿠폰과는 함께 쓸 수 없으며 주문당 하나만 적용됩니다.',
+      validity: '쿠폰마다 기한이 다르며 GMT 기준입니다.',
+      shipping: '할인은 상품 가격에만 적용되며 배송비, 재발송 비용, 기타 수수료는 제외됩니다.',
+    },
     instructionsTitleTemplate: '{code} 및 쿠폰 사용 방법',
     instructionsTemplates: [
       '활성 프로모션 쿠폰(예: {promoCode})을 복사하세요.',
@@ -431,6 +519,17 @@ const pages: Record<Locale, PageCopy> = {
     regionUnconfirmed: '地域未記載',
     freeShippingLabel: '送料無料',
     promoLabels: { validity: '有効期限', region: '対象地域' },
+    tierTemplate: '{amount}以上の購入で{percent}オフ',
+    noMinimumLabel: '最低購入金額なし',
+    membersOnlyLabel: 'YesStyle会員限定（ログインが必要）',
+    allRegionsLabel: '全世界',
+    policyTitle: 'YesStyleクーポンのルール',
+    policyRules: {
+      eligible: 'キャンペーン対象の商品です。対象外の商品は、商品ページかチェックアウトでYesStyleが表示します。',
+      combinable: 'はい。セール価格、Reward Code 欄の{code}、YS Pointsと併用できます。ほかのクーポンとは併用できず、1回の注文に1枚までです。',
+      validity: 'クーポンごとに期限があり、時刻はGMT基準です。',
+      shipping: '割引は商品価格のみが対象です。送料、再発送料、その他の手数料は対象外です。',
+    },
     instructionsTitleTemplate: '{code} とクーポンの使い方',
     instructionsTemplates: [
       '有効なプロモーションクーポン（例：{promoCode}）をコピーします。',
@@ -483,6 +582,17 @@ const pages: Record<Locale, PageCopy> = {
     regionUnconfirmed: '未註明地區',
     freeShippingLabel: '免運費',
     promoLabels: { validity: '有效期限', region: '適用地區' },
+    tierTemplate: '滿 {amount} 享 {percent} 折扣',
+    noMinimumLabel: '沒有最低消費',
+    membersOnlyLabel: '只限已登入的 YesStyle 會員',
+    allRegionsLabel: '全球',
+    policyTitle: 'YesStyle 優惠碼規則',
+    policyRules: {
+      eligible: '參加活動的商品。如有商品不適用，YesStyle 會在商品頁面或結帳時註明。',
+      combinable: '可以，特價、Reward Code 欄位的 {code} 及 YS Points 都可同時使用。但不可與其他優惠碼同時使用，每張訂單只限一個。',
+      validity: '每個優惠碼都有各自的期限，以 GMT 時間計算。',
+      shipping: '折扣只適用於商品價格，運費、重新寄送費用及其他收費除外。',
+    },
     instructionsTitleTemplate: '如何組合使用 {code} 與優惠碼',
     instructionsTemplates: [
       '複製有效的促銷優惠碼（例如 {promoCode}）。',
@@ -535,6 +645,17 @@ const pages: Record<Locale, PageCopy> = {
     regionUnconfirmed: '未注明地区',
     freeShippingLabel: '免运费',
     promoLabels: { validity: '有效期限', region: '适用地区' },
+    tierTemplate: '满 {amount} 享 {percent} 折扣',
+    noMinimumLabel: '无最低消费',
+    membersOnlyLabel: '仅限已登录的 YesStyle 会员',
+    allRegionsLabel: '全球',
+    policyTitle: 'YesStyle 优惠码规则',
+    policyRules: {
+      eligible: '参加活动的商品。如有商品不适用，YesStyle 会在商品页面或结账时注明。',
+      combinable: '可以，特价、Reward Code 栏位的 {code} 和 YS Points 都能叠加使用。但不能与其他优惠码叠加，每笔订单只限一个。',
+      validity: '每个优惠码都有各自的期限，按 GMT 时间计算。',
+      shipping: '折扣仅适用于商品价格，运费、重新寄送费用和其他费用除外。',
+    },
     instructionsTitleTemplate: '如何组合使用 {code} 与优惠码',
     instructionsTemplates: [
       '复制有效的促销优惠码（例如 {promoCode}）。',

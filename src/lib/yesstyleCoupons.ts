@@ -3,6 +3,7 @@
 import yesstyleCouponsData from '../../data/coupons/yesstyle.json';
 
 export type YesStyleDiscountSpec =
+  // Sem valor mínimo de compra. Cupom com mínimo vai em `tiers`, mesmo com uma faixa só.
   | { kind: 'percentage'; value: number }
   | { kind: 'fixed'; value: number; currency: string }
   | { kind: 'shipping' }

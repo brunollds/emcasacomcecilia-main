@@ -1,4 +1,4 @@
-import { ExternalLink } from 'lucide-react';
+import { CalendarDays, ExternalLink, Layers, ShoppingBag, Truck } from 'lucide-react';
 import { CouponBottomBar } from '@/components/CouponBottomBar';
 import { AmountFigure, BODY_TEXT, CouponFaq, FOCUS_RING, SectionHeading, couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
@@ -8,6 +8,7 @@ import {
   CutoutCodeActions,
   LanguageLinks,
   RelatedLink,
+  RuleList,
   StepList,
   StoreBody,
   StoreContent,
@@ -107,14 +108,23 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
         <StoreContent>
           <LanguageLinks links={getHubLanguageLinks()} current={resolved.locale} label={ui.otherLanguagesLabel} />
 
-          <section aria-labelledby="cupons-da-loja">
+          <section aria-labelledby="cupons-da-loja" className="@container">
             <SectionHeading id="cupons-da-loja">{resolved.promosSectionTitle}</SectionHeading>
             <p className={`mt-4 ${BODY_TEXT}`}>{resolved.promosIntro}</p>
             {resolved.activePromoOffers.length > 0 ? (
-              <div className="mt-5 grid gap-3 md:grid-cols-2">
+              // Duas colunas só quando cada cartão fica com uns 330px; com menos, cada faixa de desconto
+              // quebra em duas linhas. Entre 1024 e 1140px, com o recorte do lado, fica uma coluna só.
+              <div className="mt-5 grid gap-3 @2xl:grid-cols-2">
                 {resolved.activePromoOffers.map((promo) => (
                   <article key={promo.id} className="flex flex-col rounded-xl border-2 border-dashed border-marinho p-4">
                     <p className="font-condensada text-[40px] font-black leading-none font-stretch-extra-condensed">{promo.discountLabel}</p>
+                    {promo.conditions.length > 0 && (
+                      <ul className="mt-2 list-disc space-y-0.5 pl-[18px] text-sm font-semibold leading-5 text-pretty">
+                        {promo.conditions.map((condition) => (
+                          <li key={condition}>{condition}</li>
+                        ))}
+                      </ul>
+                    )}
                     <div className="mt-3 flex flex-wrap items-center gap-3">
                       <code className="font-codigo text-[26px] font-extrabold tracking-[0.06em]">{promo.code}</code>
                       <CompactCopyButton code={promo.code} brand="YesStyle" ariaLabel={promo.copyAria} copy={ui} />
@@ -150,6 +160,18 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
                 <p className="mt-1.5 text-sm font-medium leading-[21px] text-marinho-suave">{resolved.emptyPromosSubtext}</p>
               </div>
             )}
+          </section>
+
+          <section aria-labelledby="como-funcionam">
+            <SectionHeading id="como-funcionam">{resolved.policyTitle}</SectionHeading>
+            <RuleList
+              rules={[
+                { icon: ShoppingBag, label: ui.rules.eligible, value: resolved.policyRules.eligible },
+                { icon: Layers, label: ui.rules.combinable, value: resolved.policyRules.combinable },
+                { icon: CalendarDays, label: ui.rules.validity, value: resolved.policyRules.validity },
+                { icon: Truck, label: ui.rules.shipping, value: resolved.policyRules.shipping },
+              ]}
+            />
           </section>
 
           <section aria-labelledby="como-usar">
