@@ -135,7 +135,7 @@ export function CouponStrip({ coupons }: { coupons: CouponStripItem[] }) {
                 type="button"
                 onClick={handleCopy}
                 className="inline-flex items-center gap-1 rounded-full bg-white/10 px-2.5 py-1 text-[11px] font-bold text-white transition-colors hover:bg-white/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#ff6b35]"
-                aria-label={`Copiar cupom ${coupon.code}`}
+                aria-label={`Copiar o código ${coupon.code} da ${coupon.brand}`}
               >
                 {copiedIndex === activeIndex ? (
                   <><Check className="h-3 w-3" /><span className="hidden xs:inline sm:inline">Copiado</span></>

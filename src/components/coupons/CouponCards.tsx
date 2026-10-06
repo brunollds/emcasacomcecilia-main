@@ -10,6 +10,14 @@ import { BrandWatermark, DiscountFigure, asSentence, parseDiscount } from './Cou
 const otherCodeSize = (code: string) =>
   code.length <= 10 ? 'text-sm' : code.length <= 13 ? 'text-[13px]' : 'text-xs';
 
+// Nome do card para leitor de tela; a ItemList de /cupons usa o mesmo nome nas lojas com código.
+// O offerTypeLabel diz o que é o código: o CECILIA010 da YesStyle é código de recompensa.
+export function couponCardName(coupon: Coupon) {
+  if (coupon.offerMode === 'affiliate-link') return `Ofertas ${coupon.brand}`;
+  const type = coupon.offerTypeLabel ?? 'cupom';
+  return `${type.charAt(0).toUpperCase()}${type.slice(1)} ${coupon.brand}`;
+}
+
 // O card inteiro leva à página da loja; só o recorte com o código fica fora do link.
 export function OtherCouponCard({ coupon }: { coupon: Coupon }) {
   const tiers = coupon.offerMode === 'discount-code' ? coupon.tiers : undefined;
@@ -22,7 +30,7 @@ export function OtherCouponCard({ coupon }: { coupon: Coupon }) {
 
   return (
     <article
-      aria-label={`${coupon.offerMode === 'affiliate-link' ? 'Ofertas' : 'Cupom'} ${coupon.brand}`}
+      aria-label={couponCardName(coupon)}
       className="relative isolate flex w-[200px] shrink-0 snap-start flex-col overflow-hidden rounded-xl border-2 border-marinho bg-white md:w-auto"
     >
       <BrandWatermark src={coupon.brandWatermark} align="center" className="-left-[10%] top-1 h-24 w-[120%]" />
@@ -176,7 +184,7 @@ export function HubCouponCard({
 
   return (
     <article
-      aria-label={`${coupon.offerMode === 'affiliate-link' ? 'Ofertas' : 'Cupom'} ${coupon.brand}`}
+      aria-label={couponCardName(coupon)}
       className={`relative isolate flex flex-col overflow-hidden border-marinho bg-white ${v.article} ${className}`}
     >
       <BrandWatermark
