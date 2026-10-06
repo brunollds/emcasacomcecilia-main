@@ -24,8 +24,9 @@ export function SectionHeadingReveal({
   underlineHeight = 3,
   delay = 0,
 }: SectionHeadingRevealProps): React.ReactElement {
+  // Uma palavra mais longa que a coluna, como um código de cupom, quebra em vez de alargar o título.
   return (
-    <EditorialReveal as={Heading} delay={delay} className={`relative inline-block ${className}`}>
+    <EditorialReveal as={Heading} delay={delay} className={`relative inline-block wrap-anywhere ${className}`}>
       <span className="relative z-10">{children}</span>
       <span
         className="editorial-underline"
