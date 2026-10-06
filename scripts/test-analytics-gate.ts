@@ -41,4 +41,7 @@ const clarityLoaders = readdirSync('src', { recursive: true, encoding: 'utf8' })
   .map((file) => file.split(path.sep).join('/'));
 assert.deepEqual(clarityLoaders, ['components/Clarity.js']);
 
+// id "clarity" faz o <script> virar window.clarity (named access) e a tag lança "a[c] is not a function".
+assert.doesNotMatch(readFileSync(path.join('src', 'components', 'Clarity.js'), 'utf8'), /\bid="clarity"/);
+
 console.log('✅ analytics: allowlist de produção (GA4 e Clarity) e debug explícito preservados.');
