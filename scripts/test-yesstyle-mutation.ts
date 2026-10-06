@@ -6,10 +6,10 @@ import {
 import {
   resolveYesStylePage,
   getYesStyleMetadata,
-  yesStyleLocales,
   YesStyleCouponPage,
   getYesStyleBreadcrumbItems,
 } from '../src/components/YesStyleCouponPage';
+import { yesStyleLocales } from '../src/components/coupons/yesstyleCopy';
 import { COUPONS } from '../src/lib/couponsData';
 import {
   getRewardArticleLanguageLinks,
