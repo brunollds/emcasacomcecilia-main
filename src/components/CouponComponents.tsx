@@ -1,12 +1,10 @@
 'use client';
 
 import { useState } from 'react';
-import Image from 'next/image';
 import Link from 'next/link';
-import { ArrowUpRight, Check, ChevronDown, Copy } from 'lucide-react';
+import { Check, ChevronDown, Copy } from 'lucide-react';
 import { trackEvent } from '@/lib/analytics';
 import { getCouponBrandFromHref, getInternalHref, isCouponPageLink, isInternalLink } from '@/lib/internalLinks';
-import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 type CopyButtonProps = {
   code: string;
@@ -107,7 +105,7 @@ type CouponStoreLinkProps = {
   contentSlug?: string;
   linkLabel?: string;
   sponsored?: boolean;
-  placement?: 'coupon_page' | 'bottom_bar' | 'review_inline' | 'review_verdict' | 'review_sidebar' | 'review_mobile_drawer' | 'review_final_cta';
+  placement?: 'coupon_page' | 'coupon_hub' | 'coupon_hub_featured' | 'bottom_bar' | 'review_inline' | 'review_verdict' | 'review_sidebar' | 'review_mobile_drawer' | 'review_final_cta';
   className?: string;
 };
 
@@ -157,75 +155,5 @@ export function CouponStoreLink({
     >
       {children ?? label}
     </a>
-  );
-}
-
-type CouponPillCardBaseProps = {
-  brand: string;
-  brandIcon: string;
-  brandLogo?: string;
-  brandLogoAlt?: string;
-  shortDescription: string;
-  discount: string;
-  href: string;
-  className?: string;
-};
-
-type CouponPillCardProps = CouponPillCardBaseProps & (
-  | { offerMode: 'discount-code'; code: string }
-  | { offerMode: 'affiliate-link' }
-);
-
-export function CouponPillCard(props: CouponPillCardProps) {
-  const {
-    brand,
-    brandIcon,
-    brandLogo,
-    brandLogoAlt,
-    shortDescription,
-    discount,
-    href,
-    className = '',
-  } = props;
-
-  return (
-    <Link
-      href={href}
-      className={`group flex min-w-0 max-w-full items-center gap-2 rounded-2xl border border-black/8 bg-white p-3 shadow-soft transition-all hover:-translate-y-0.5 hover:border-[#ff6b35]/35 hover:shadow-md sm:gap-3 sm:p-4 ${className}`}
-    >
-      <div className="relative flex h-12 w-12 shrink-0 items-center justify-center overflow-hidden rounded-xl border border-black/8 bg-white text-sm font-black text-[#862f0e] shadow-inner">
-        {brandLogo ? (
-          <Image
-            src={resolveMediaUrl(brandLogo)}
-            alt={brandLogoAlt || `Marca ${brand}`}
-            fill
-            sizes="48px"
-            className="object-contain p-1.5"
-          />
-        ) : (
-          <span className="flex h-full w-full items-center justify-center bg-gradient-to-br from-[#faece7] to-[#f5c4b3]">
-            {brandIcon}
-          </span>
-        )}
-      </div>
-      <div className="min-w-0 flex-1">
-        <div className="flex min-w-0 items-center gap-2">
-          <span className="truncate text-sm font-black text-[#0f1419]">{brand}</span>
-          <ArrowUpRight className="h-3.5 w-3.5 text-[#0f1419]/38 transition-colors group-hover:text-[#ff6b35]" />
-        </div>
-        <p className="mt-0.5 truncate text-xs text-[#0f1419]/58">
-          {props.offerMode === 'discount-code' && (
-            <>
-              <code className="font-mono font-black text-[#0f1419]">{props.code}</code>
-              {' · '}
-            </>
-          )}
-          {shortDescription}
-        </p>
-      </div>
-      <span className="max-w-[38%] shrink-0 truncate rounded-full bg-[#ffd23f] px-2.5 py-1 text-xs font-black text-[#4a2400] sm:px-3">
-        {discount}
-      </span>
-    </Link>
   );
 }

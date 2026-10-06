@@ -20,8 +20,10 @@ npm run validate:content     # modelo de conteúdo
 npm run validate:video       # metadados e páginas de exibição de vídeo
 npm run test:internal-links  # domínio, normalização e derivação de marca
 npm run test:coupon-offer-modes
+npm run test:coupon-translations  # lojas em outros idiomas: texto traduzido, códigos e links do PT
 npm run test:analytics-gate  # allowlist de hosts do GA4
-npm run test:html-lang
+npm run test:html-lang       # depois do build: <html lang> de cada rota
+npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dock dos artigos
 ```
 
 `npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
@@ -36,7 +38,7 @@ arquivos direto em dev — ele lê `src/lib/generated/content-index.ts`, um índ
 **Next.js 16.1.4 App Router + SSR** — do NOT add `output: 'export'` to `next.config.mjs`; Hostinger Node.js Web App requires SSR.
 
 ### File mix: JS vs TSX
-- `src/app/**` — JavaScript (`.js`)
+- `src/app/**` — JavaScript (`.js`) in the older routes; newer ones such as `cupons/` and `[locale]/` are TypeScript (`.tsx`/`.ts`)
 - `src/components/sections/**` — TypeScript (`.tsx`)
 - `src/components/ui/**` — TypeScript (`.tsx`)
 - `src/lib/data.ts` — TypeScript (adaptador legado do conteúdo; ver Data layer)
@@ -54,6 +56,7 @@ aconteceu:
 | Receitas e reviews | `content/receitas/*.json`, `content/reviews/*.json` + `_manifest.json` |
 | Tipos do conteúdo | `src/lib/content/types.ts` |
 | Cupons | `src/lib/couponsData.ts` (união `discount-code \| affiliate-link`) |
+| Cupons em outros idiomas (hoje só a SHEIN) | `src/lib/couponTranslations.ts`: só texto; códigos, datas e campanhas vêm do cupom em PT. Textos da interface da página de loja em `src/components/coupons/couponStoreCopy.tsx` |
 | Locales e clusters i18n | `src/lib/i18n/locales.ts` e `src/lib/i18n/clusters/` |
 | Vídeos | `src/lib/video-metadata.js` e `src/lib/video-pages.js` |
 | Links da marca e redes sociais | `src/lib/brandLinks.ts` |
@@ -109,8 +112,20 @@ vídeo, primeiras impressões e uso noturno.
 
 ### Component layers
 - `src/components/ui/` — Primitive building blocks (`Card`, `Button`, `Badge`). Use `clsx` for className merging here.
-- `src/components/sections/` — Page sections (`TopBar`, `Navbar` is at `src/components/Navbar.js`, `Hero`, `MainCategories`, `Categories`, `PopularRecipes`, `MyLinks`, `Offers`, `CTA`).
-- Layout order in `src/app/layout.js`: `TopBar → Navbar → {children} → Footer`.
+- `src/components/sections/` — Page sections (`Hero`, `PopularRecipes`, `CouponStrip`, `ReviewsShowcase`, `CTA`…). `Navbar` and `Footer` live in `src/components/`.
+- Each route group has its own root layout (`src/app/(pt)/layout.js`, `src/app/(en)/layout.tsx`… and `src/app/[locale]/layout.tsx`). All of them render `RootLayoutShell` (`src/components/RootLayoutShell.tsx`): `Navbar → {children} → Footer`.
+
+### Artigos: sumário no celular
+
+- `ReviewNotebookTemplate` monta o artigo. A seção atual e o progresso de leitura vêm de
+  `useReadingPosition`, que alimenta o `ReviewSidebar` (desktop) e o `ReviewMobileBottomBar`
+  (celular: dock `sticky` e gaveta do sumário num `<dialog>` aberto com `showModal()`).
+- O dock e a gaveta ficam direto no `<body>`: dentro do fundo editorial, `.editorial-ambient-bg > *`
+  troca o `sticky` por `relative`. `npm run test:build-output` confere isso em todos os artigos.
+- Com a gaveta aberta, o resto da página fica inerte. O que precisa de foco nesse momento vai
+  dentro do `<dialog>`, como o fallback de cópia de `clipboardUtils.ts`.
+- Texto que é item flex (bullets, prós e contras) precisa de `min-w-0` para quebrar endereços
+  longos; o contêiner do artigo já tem `wrap-break-word`.
 
 ### Styling
 Tailwind CSS v4 via `@import "tailwindcss"` in `globals.css`. Custom tokens defined in `@theme inline {}` block — use these instead of arbitrary values:
@@ -123,18 +138,24 @@ Tailwind CSS v4 via `@import "tailwindcss"` in `globals.css`. Custom tokens defi
 | `creme` | `#fef9f3` | Light backgrounds |
 | `shadow-soft/medium/large` | — | Card shadows |
 
-Font is Montserrat loaded via `next/font/google` in `layout.js` as `--font-montserrat`. Use `font-sans` or `font-heading` Tailwind utilities.
+Font is Montserrat loaded via `next/font/google` in `RootLayoutShell.tsx` as `--font-montserrat`. Use `font-sans` or `font-heading` Tailwind utilities.
+
+Código de cupom que pode quebrar linha usa `break-all text-balance`: as linhas saem do mesmo
+tamanho, sem sobrar uma ou duas letras sozinhas. O `text-balance` não age sobre `wrap-anywhere`.
 
 ### Pages
 | Route | File |
 |-------|------|
-| `/` | `src/app/page.js` |
-| `/receitas` | `src/app/receitas/page.js` |
-| `/receitas/[id]` | `src/app/receitas/[id]/page.js` |
-| `/reviews` | `src/app/reviews/page.js` |
-| `/sobre` | `src/app/sobre/page.js` |
-| `/contato` | `src/app/contato/page.js` |
-| `/faqs` | `src/app/faqs/page.js` |
+| `/` | `src/app/(pt)/page.js` |
+| `/receitas` | `src/app/(pt)/receitas/page.js` |
+| `/receitas/[slug]` | `src/app/(pt)/receitas/[slug]/page.js` |
+| `/reviews` | `src/app/(pt)/reviews/page.js` |
+| `/cupons` | `src/app/(pt)/cupons/page.tsx` |
+| `/cupons/[brand]` | `src/app/(pt)/cupons/[brand]/page.tsx` (YesStyle has its own page in `cupons/yesstyle/`) |
+| `/<locale>/coupons/[brand]` | `src/app/[locale]/coupons/[brand]/page.tsx`, only for stores in `couponTranslations.ts`; the static YesStyle routes win |
+| `/sobre` | `src/app/(pt)/sobre/page.js` |
+| `/contato` | `src/app/(pt)/contato/page.js` |
+| `/faqs` | `src/app/(pt)/faqs/page.js` |
 
 ## Deploy (Hostinger)
 

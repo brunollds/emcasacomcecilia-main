@@ -1,7 +1,7 @@
 # Editorial Portability — Em Casa com Cecília ↔ multi-blog
 
 **Data:** 13 de julho de 2026  
-**Atualizado em:** 13 de agosto de 2026
+**Atualizado em:** 5 de outubro de 2026
 **Status:** Wave 0 (contrato + mapa) — base para CMS (`central-editorial`) e pack de leitura compartilhado  
 **Relacionado:** `PROXIMOS-PASSOS.md`, Dicas `blog/ROADMAP.md` / `blog/WRITING-GUIDE.md`, Central `docs/CONTINUIDADE.md`
 
@@ -43,7 +43,7 @@ Trazer melhorias de leitura / Pretext / publicação testadas no blog **Dicas** 
 | Editorial shared | `src/components/editorial/*` (Reveal, Byline, PullQuote, Shrinkwrap, Inline…) |
 | Pretext tokens / support | `src/lib/pretext/*` |
 | Veredito | `ReviewVerdictCard` |
-| TOC / progress / TTS | `ReviewTableOfContents`, `ReadingProgressBar`, `TextToSpeechButton` |
+| TOC / progress / TTS | `useReadingPosition` (seção atual e progresso) para o `ReviewSidebar` no desktop e o `ReviewMobileBottomBar` (dock + gaveta do sumário) no celular; `ReadingProgressBar` só no desktop; `TextToSpeechButton` |
 | Conteúdo JSON + adapters | `content/`, `src/lib/content/*` |
 | Deploy Node Hostinger | `DEPLOY-HOSTINGER-NODEJS.md`, scripts deploy |
 

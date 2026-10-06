@@ -20911,6 +20911,348 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/logos/watermarks/damie.webp",
+      "local_url": "/images/logos/watermarks/damie.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 11146,
+      "sha256": "9f92f745d29ed37b2a6be76d476e802bcf55496c22ba2a027c18c3880c3386e4",
+      "width": 480,
+      "height": 97,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "damie.webp",
+      "storage_filename": "damie.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 110,
+          "column": 22,
+          "literal": "/images/logos/watermarks/damie.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/9f92f745d29ed37b2a6be76d476e802bcf55496c22ba2a027c18c3880c3386e4/damie.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9f92f745d29ed37b2a6be76d476e802bcf55496c22ba2a027c18c3880c3386e4/damie.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T19:55:06.187Z",
+      "verification_etag_or_digest": "9f92f745d29ed37b2a6be76d476e802bcf55496c22ba2a027c18c3880c3386e4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/watermarks/dolce-gusto.webp",
+      "local_url": "/images/logos/watermarks/dolce-gusto.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26176,
+      "sha256": "28d6f2ca1c6548f8538435717513d059d382d923b4f6bc3acac12fafb46d2c84",
+      "width": 479,
+      "height": 480,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto.webp",
+      "storage_filename": "dolce-gusto.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 215,
+          "column": 22,
+          "literal": "/images/logos/watermarks/dolce-gusto.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/28d6f2ca1c6548f8538435717513d059d382d923b4f6bc3acac12fafb46d2c84/dolce-gusto.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/28d6f2ca1c6548f8538435717513d059d382d923b4f6bc3acac12fafb46d2c84/dolce-gusto.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T19:55:06.188Z",
+      "verification_etag_or_digest": "28d6f2ca1c6548f8538435717513d059d382d923b4f6bc3acac12fafb46d2c84",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/watermarks/i-wanna-sleep.webp",
+      "local_url": "/images/logos/watermarks/i-wanna-sleep.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19420,
+      "sha256": "3569d642c4ced13fbfdb883c06df11a7a39301ede18cc826265c4120f1943277",
+      "width": 480,
+      "height": 206,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "i-wanna-sleep.webp",
+      "storage_filename": "i-wanna-sleep.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 521,
+          "column": 22,
+          "literal": "/images/logos/watermarks/i-wanna-sleep.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3569d642c4ced13fbfdb883c06df11a7a39301ede18cc826265c4120f1943277/i-wanna-sleep.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3569d642c4ced13fbfdb883c06df11a7a39301ede18cc826265c4120f1943277/i-wanna-sleep.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T19:55:06.188Z",
+      "verification_etag_or_digest": "3569d642c4ced13fbfdb883c06df11a7a39301ede18cc826265c4120f1943277",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/watermarks/insider.webp",
+      "local_url": "/images/logos/watermarks/insider.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 2946,
+      "sha256": "003b7121e83b2ecb27bf3d80f806cfa2270fba28b1b5ca5a29a46880b3abb2f9",
+      "width": 480,
+      "height": 77,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "insider.webp",
+      "storage_filename": "insider.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 804,
+          "column": 22,
+          "literal": "/images/logos/watermarks/insider.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/003b7121e83b2ecb27bf3d80f806cfa2270fba28b1b5ca5a29a46880b3abb2f9/insider.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/003b7121e83b2ecb27bf3d80f806cfa2270fba28b1b5ca5a29a46880b3abb2f9/insider.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T19:55:06.188Z",
+      "verification_etag_or_digest": "003b7121e83b2ecb27bf3d80f806cfa2270fba28b1b5ca5a29a46880b3abb2f9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/watermarks/letseatit.webp",
+      "local_url": "/images/logos/watermarks/letseatit.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 2816,
+      "sha256": "3c0ed9533e58e57770072a90e26c3fc1e9a68cfe471a546101cfda3836313cf5",
+      "width": 413,
+      "height": 480,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "letseatit.webp",
+      "storage_filename": "letseatit.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 728,
+          "column": 22,
+          "literal": "/images/logos/watermarks/letseatit.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3c0ed9533e58e57770072a90e26c3fc1e9a68cfe471a546101cfda3836313cf5/letseatit.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3c0ed9533e58e57770072a90e26c3fc1e9a68cfe471a546101cfda3836313cf5/letseatit.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T19:55:06.188Z",
+      "verification_etag_or_digest": "3c0ed9533e58e57770072a90e26c3fc1e9a68cfe471a546101cfda3836313cf5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/watermarks/magalu.webp",
+      "local_url": "/images/logos/watermarks/magalu.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 7324,
+      "sha256": "d980627f09b6513cadfedd17e10c4760f3c6467ad7cce14a960c2e3b80f64db0",
+      "width": 480,
+      "height": 109,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "magalu.webp",
+      "storage_filename": "magalu.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 595,
+          "column": 22,
+          "literal": "/images/logos/watermarks/magalu.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d980627f09b6513cadfedd17e10c4760f3c6467ad7cce14a960c2e3b80f64db0/magalu.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d980627f09b6513cadfedd17e10c4760f3c6467ad7cce14a960c2e3b80f64db0/magalu.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T19:55:06.188Z",
+      "verification_etag_or_digest": "d980627f09b6513cadfedd17e10c4760f3c6467ad7cce14a960c2e3b80f64db0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/watermarks/nutren.webp",
+      "local_url": "/images/logos/watermarks/nutren.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 14594,
+      "sha256": "b4bac3300c08475a7a665acb1488f67fe97d6daaae915d5bde77bd66c61d5d7f",
+      "width": 480,
+      "height": 181,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "nutren.webp",
+      "storage_filename": "nutren.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 434,
+          "column": 22,
+          "literal": "/images/logos/watermarks/nutren.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b4bac3300c08475a7a665acb1488f67fe97d6daaae915d5bde77bd66c61d5d7f/nutren.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b4bac3300c08475a7a665acb1488f67fe97d6daaae915d5bde77bd66c61d5d7f/nutren.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T19:55:06.188Z",
+      "verification_etag_or_digest": "b4bac3300c08475a7a665acb1488f67fe97d6daaae915d5bde77bd66c61d5d7f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/watermarks/shein.webp",
+      "local_url": "/images/logos/watermarks/shein.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 4836,
+      "sha256": "29b3968cba6b6496b9d44272333b1054537fefb872bf85f0400edeaf68d84c83",
+      "width": 480,
+      "height": 103,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "shein.webp",
+      "storage_filename": "shein.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 883,
+          "column": 22,
+          "literal": "/images/logos/watermarks/shein.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/29b3968cba6b6496b9d44272333b1054537fefb872bf85f0400edeaf68d84c83/shein.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/29b3968cba6b6496b9d44272333b1054537fefb872bf85f0400edeaf68d84c83/shein.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T19:55:06.188Z",
+      "verification_etag_or_digest": "29b3968cba6b6496b9d44272333b1054537fefb872bf85f0400edeaf68d84c83",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/watermarks/yesstyle.webp",
+      "local_url": "/images/logos/watermarks/yesstyle.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 12544,
+      "sha256": "b13c785b206cf7c51fd4a8b256413f8e7cb7d362be93b653531797a8b687134d",
+      "width": 388,
+      "height": 480,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "yesstyle.webp",
+      "storage_filename": "yesstyle.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 304,
+          "column": 22,
+          "literal": "/images/logos/watermarks/yesstyle.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/b13c785b206cf7c51fd4a8b256413f8e7cb7d362be93b653531797a8b687134d/yesstyle.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b13c785b206cf7c51fd4a8b256413f8e7cb7d362be93b653531797a8b687134d/yesstyle.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-05T19:55:06.188Z",
+      "verification_etag_or_digest": "b13c785b206cf7c51fd4a8b256413f8e7cb7d362be93b653531797a8b687134d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/logos/yesstyle.jpg",
       "local_url": "/images/logos/yesstyle.jpg",
       "media_kind": "image",

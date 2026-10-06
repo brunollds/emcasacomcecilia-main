@@ -94,7 +94,7 @@ export default function Footer({ lang = 'pt-BR' }) {
               </Link>
             ))}
             {commercialLinks.map((link) => (
-              <Link key={link.id} href={link.href} hrefLang={link.hrefLang} className="transition-colors hover:text-[#ff6b35]">
+              <Link key={link.id} href={link.href} className="transition-colors hover:text-[#ff6b35]">
                 {link.label}
               </Link>
             ))}

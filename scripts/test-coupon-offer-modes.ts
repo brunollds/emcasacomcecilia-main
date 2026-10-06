@@ -2,14 +2,14 @@ import assert from 'node:assert/strict';
 import {
   COUPONS,
   getAllActiveCouponSlugs,
-  getCouponStats,
+  getCouponHubSections,
   type AffiliateLinkOffer,
 } from '../src/lib/couponsData';
 
 const shein = COUPONS.find((coupon) => coupon.slug === 'shein');
 assert.ok(shein && shein.offerMode === 'affiliate-link', 'SHEIN deve existir como affiliate-link');
 assert.equal('code' in shein, false, 'SHEIN não pode expor referral como coupon.code');
-assert.equal('discountNumber' in shein, false, 'SHEIN não pode contaminar a média de descontos');
+assert.equal('discountNumber' in shein, false, 'SHEIN não tem percentual fixo para o schema da oferta');
 assert.equal(shein.affiliateAccountId, '6177013015');
 assert.equal(shein.referral?.code, '4CW5Y');
 assert.equal(shein.referral?.verifiedAt, '2026-09-01');
@@ -43,7 +43,7 @@ assert.ok(getAllActiveCouponSlugs().includes('letseatit'), "Let's Eat It ativa d
 const insider = COUPONS.find((coupon) => coupon.slug === 'insider');
 assert.ok(insider && insider.offerMode === 'discount-code', 'Insider deve existir como discount-code');
 assert.equal(insider.code, 'EMCASACOMCECILIA');
-// A Insider proíbe divulgar o percentual: nada de discountNumber (média, schema) nem "%" em texto algum.
+// A Insider proíbe divulgar o percentual: nada de discountNumber (schema) nem "%" em texto algum.
 assert.equal('discountNumber' in insider, false, 'Insider não pode expor o percentual do cupom');
 assert.doesNotMatch(JSON.stringify(insider), /%|por cento/i, 'Insider não pode citar percentual');
 // Link da Influ como veio: o parâmetro cupom= aplica o código no carrinho e os UTMs atribuem a comissão.
@@ -57,15 +57,27 @@ assert.equal(
   "Insider vem logo depois da Let's Eat It"
 );
 assert.ok(getAllActiveCouponSlugs().includes('insider'), 'Insider ativa deve gerar página de cupom');
-const disclosed = COUPONS.flatMap((coupon) =>
-  coupon.status === 'ativo' && coupon.offerMode === 'discount-code' && coupon.discountNumber !== undefined
-    ? [coupon.discountNumber]
-    : []
+
+// Hub /cupons: a DAMIE abre os Destaques por ser a maior receita, e a Dolce Gusto vem logo depois.
+const hub = getCouponHubSections();
+assert.deepEqual(
+  hub.featured.map((coupon) => coupon.slug),
+  ['damie', 'dolce-gusto'],
+  'Destaques: DAMIE primeiro, Dolce Gusto em seguida'
 );
-assert.equal(
-  getCouponStats().averageDiscount,
-  Math.round(disclosed.reduce((total, discount) => total + discount, 0) / disclosed.length),
-  'Cupom sem percentual divulgado fica fora da média'
+const shelved = hub.categories.flatMap((category) => category.coupons.map((coupon) => coupon.slug));
+assert.deepEqual(
+  [...shelved].sort(),
+  [...getAllActiveCouponSlugs()].sort(),
+  'Todo cupom ativo aparece em exatamente uma prateleira do hub'
+);
+const shelfOf = (slug: string) =>
+  hub.categories.find((category) => category.coupons.some((coupon) => coupon.slug === slug))?.id;
+assert.equal(shelfOf('damie'), 'casa', 'Destaque continua também na prateleira dele');
+assert.equal(shelfOf('shein'), 'moda', 'Oferta por link entra numa prateleira como os códigos');
+assert.ok(
+  hub.categories.every((category) => category.coupons.length > 0),
+  'Prateleira sem cupom ativo não aparece'
 );
 
 const source = COUPONS.find((coupon) => coupon.offerMode === 'discount-code');
@@ -89,15 +101,23 @@ const affiliateLinkOffer: AffiliateLinkOffer = {
   brand: 'Oferta por link de teste',
   discount: 'Benefício disponível pelo link',
   status: 'ativo',
+  featured: false,
+  hubCategory: 'diversos',
 };
 
-const baseline = getCouponStats();
 COUPONS.push(affiliateLinkOffer);
 
 try {
-  const withAffiliateLink = getCouponStats();
-  assert.equal(withAffiliateLink.activeCount, baseline.activeCount + 1);
-  assert.equal(withAffiliateLink.averageDiscount, baseline.averageDiscount);
+  const withAffiliateLink = getCouponHubSections();
+  const diversos = withAffiliateLink.categories.find((category) => category.id === 'diversos');
+  assert.ok(
+    diversos?.coupons.some((coupon) => coupon.slug === affiliateLinkOffer.slug),
+    'Oferta por link nova entra na prateleira indicada'
+  );
+  assert.ok(
+    !withAffiliateLink.featured.some((coupon) => coupon.slug === affiliateLinkOffer.slug),
+    'Só entra nos Destaques quem tem featured'
+  );
   assert.equal('code' in affiliateLinkOffer, false);
   assert.equal('discountNumber' in affiliateLinkOffer, false);
 } finally {
@@ -105,4 +125,4 @@ try {
   if (testIndex !== -1) COUPONS.splice(testIndex, 1);
 }
 
-console.log('✅ coupon offer modes: affiliate-link não contamina a média de descontos.');
+console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider e prateleiras do hub conferidos.");

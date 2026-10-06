@@ -135,7 +135,7 @@ export function ReviewVerdictCard({
                   className="flex items-start gap-2 px-5 py-4 font-editorial text-base leading-7 text-[#24313d]"
                 >
                   <span className="font-bold text-[#1a4d2e]">+</span>
-                  <span>{item}</span>
+                  <span className="min-w-0">{item}</span>
                 </EditorialReveal>
               ))}
             </div>
@@ -151,7 +151,7 @@ export function ReviewVerdictCard({
                   className="flex items-start gap-2 px-5 py-4 font-editorial text-base leading-7 text-[#24313d]"
                 >
                   <span className="font-bold text-[#ff6b35]">−</span>
-                  <span>{item}</span>
+                  <span className="min-w-0">{item}</span>
                 </EditorialReveal>
               ))}
             </div>
@@ -177,7 +177,7 @@ export function ReviewVerdictCard({
                     {row.pro ? (
                       <>
                         <span className="font-bold text-[#1a4d2e]">+</span>
-                        <span>{row.pro}</span>
+                        <span className="min-w-0">{row.pro}</span>
                       </>
                     ) : (
                       <span className="text-[#24313d]/35">—</span>
@@ -187,7 +187,7 @@ export function ReviewVerdictCard({
                     {row.con ? (
                       <>
                         <span className="font-bold text-[#ff6b35]">−</span>
-                        <span>{row.con}</span>
+                        <span className="min-w-0">{row.con}</span>
                       </>
                     ) : (
                       <span className="text-[#24313d]/35">—</span>
