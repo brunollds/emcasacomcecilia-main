@@ -4,7 +4,7 @@ import React from 'react';
 import { ArrowUpRight } from 'lucide-react';
 import ReviewInlineImage from '@/components/ReviewInlineImage';
 import { DropCapParagraph, EditorialReveal, PretextShrinkwrap, TopTenList } from '@/components/editorial';
-import { HighlightCoupon } from './HighlightCoupon';
+import { COUPON_HIGHLIGHT_TERMS, HighlightCoupon } from './HighlightCoupon';
 import { CopyButton, CouponStoreLink } from '@/components/CouponComponents';
 import type { ContentSection } from '@/lib/content';
 import { isCouponPageLink, isInternalLink } from '@/lib/internalLinks';
@@ -142,7 +142,7 @@ export function ReviewSectionContent({
                 delay={0}
                 distance={14}
               >
-                <DropCapParagraph text={paragraph} highlightTerms={['CECILIA010', 'CECILIA12', 'CECIEMCASA', 'CECI']} />
+                <DropCapParagraph text={paragraph} highlightTerms={COUPON_HIGHLIGHT_TERMS} />
               </EditorialReveal>
               {shouldRenderEmphasisAfter && section.emphasis && renderEmphasisBlock(false)}
             </React.Fragment>
