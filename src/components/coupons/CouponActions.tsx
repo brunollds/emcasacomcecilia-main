@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useRef, useState, type ReactNode } from 'react';
+import { useEffect, useRef, useState, type MouseEvent, type ReactNode } from 'react';
 import { Check, Copy, ExternalLink, Scissors } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { copyTextWithFallback } from '@/lib/clipboardUtils';
@@ -25,8 +25,8 @@ function useCopyCode(code: string, { placement, brand, contentSlug }: CopyTracki
 
   useEffect(() => () => window.clearTimeout(timeoutRef.current), []);
 
-  const copy = async () => {
-    if (!(await copyTextWithFallback(code))) return;
+  const copy = async (event: MouseEvent<HTMLElement>) => {
+    if (!(await copyTextWithFallback(code, event.currentTarget))) return;
     trackEvent('coupon_copy', {
       coupon_code: code,
       ...(brand && { brand }),
@@ -101,8 +101,8 @@ export function CopyAndOpenStoreLink({
 }: CopyAndOpenStoreLinkProps) {
   const { copied, copy } = useCopyCode(code, { placement: 'coupon_page', brand });
 
-  const handleClick = () => {
-    void copy();
+  const handleClick = (event: MouseEvent<HTMLAnchorElement>) => {
+    void copy(event);
     trackEvent('coupon_store_click', { coupon_code: code, brand, placement: 'coupon_page', url: href });
   };
 

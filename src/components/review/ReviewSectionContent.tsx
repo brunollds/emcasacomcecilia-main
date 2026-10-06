@@ -253,7 +253,7 @@ export function ReviewSectionContent({
                   className="flex items-start gap-2 px-5 py-4 font-editorial text-base leading-7 text-[#24313d]"
                 >
                   <span className="font-bold text-[#1a4d2e]">+</span>
-                  <span><HighlightCoupon text={item.text} /></span>
+                  <span className="min-w-0"><HighlightCoupon text={item.text} /></span>
                 </EditorialReveal>
               ))}
             </div>
@@ -268,7 +268,7 @@ export function ReviewSectionContent({
                   className="flex items-start gap-2 px-5 py-4 font-editorial text-base leading-7 text-[#24313d]"
                 >
                   <span className="font-bold text-[#ff6b35]">−</span>
-                  <span><HighlightCoupon text={item.text} /></span>
+                  <span className="min-w-0"><HighlightCoupon text={item.text} /></span>
                 </EditorialReveal>
               ))}
             </div>
@@ -294,7 +294,7 @@ export function ReviewSectionContent({
                     {row.pro ? (
                       <>
                         <span className="font-bold text-[#1a4d2e]">+</span>
-                        <span><HighlightCoupon text={row.pro} /></span>
+                        <span className="min-w-0"><HighlightCoupon text={row.pro} /></span>
                       </>
                     ) : (
                       <span className="text-[#24313d]/35">—</span>
@@ -304,7 +304,7 @@ export function ReviewSectionContent({
                     {row.con ? (
                       <>
                         <span className="font-bold text-[#ff6b35]">−</span>
-                        <span><HighlightCoupon text={row.con} /></span>
+                        <span className="min-w-0"><HighlightCoupon text={row.con} /></span>
                       </>
                     ) : (
                       <span className="text-[#24313d]/35">—</span>
@@ -330,7 +330,7 @@ export function ReviewSectionContent({
                 >
                   <details className="group rounded-[1.5rem] border border-[#1a4d2e]/10 bg-white px-6 py-5 shadow-soft transition-all duration-300 hover:-translate-y-0.5 hover:border-[#ff6b35]/30 hover:shadow-md open:border-[#ff6b35]/40 open:bg-[#fef9f3]">
                     <summary className="flex cursor-pointer list-none items-center justify-between gap-4 font-semibold text-[#0f1419] outline-none transition-colors group-open:text-[#1a4d2e] focus-visible:ring-2 focus-visible:ring-[#ff6b35]/35">
-                      <span><HighlightCoupon text={faq.question} /></span>
+                      <span className="min-w-0"><HighlightCoupon text={faq.question} /></span>
                       <span className="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-full bg-[#fef9f3] text-xl font-semibold text-[#ff6b35] shadow-[inset_0_0_0_1px_rgba(255,107,53,0.10)] transition-all duration-300 group-hover:bg-[#ff6b35]/10 group-open:rotate-45 group-open:bg-[#ff6b35] group-open:text-white">
                         +
                       </span>
@@ -356,7 +356,7 @@ export function ReviewSectionContent({
                 className="flex items-start gap-3 rounded-xl border border-[#1a4d2e]/10 bg-white p-4 font-editorial text-[#24313d]"
               >
                 <span className="mt-1.5 h-2 w-2 flex-shrink-0 rounded-full bg-[#ff6b35]" />
-                <span>
+                <span className="min-w-0">
                   <HighlightCoupon text={item} />
                 </span>
               </EditorialReveal>
@@ -411,7 +411,7 @@ export function ReviewSectionContent({
           {section.links.map((link) => {
             const internal = isInternalLink(link.href);
             const couponPage = internal && isCouponPageLink(link.href);
-            const className = 'inline-flex items-center gap-1.5 rounded-full bg-[#0f1d3a] px-5 py-2.5 text-sm font-bold text-white transition-all hover:-translate-y-0.5 hover:bg-[#ff6b35] hover:shadow-md';
+            const className = 'inline-flex items-center gap-1.5 rounded-full bg-[#0f1d3a] px-5 py-2.5 text-sm font-bold text-white wrap-anywhere transition-all hover:-translate-y-0.5 hover:bg-[#ff6b35] hover:shadow-md';
 
             if (couponPage) {
               return (
@@ -478,7 +478,7 @@ export function ReviewSectionContent({
         <div className="mt-6">
           <details className="group rounded-[1.5rem] border border-[#1a4d2e]/20 bg-[#f1f1ee] px-6 py-5 shadow-soft transition-all duration-300 hover:border-[#1a4d2e]/30 open:bg-[#e6e6e2]">
             <summary className="flex cursor-pointer list-none items-center justify-between gap-4 font-semibold text-[#0f1419] outline-none transition-colors group-open:text-[#1a4d2e] focus-visible:ring-2 focus-visible:ring-[#ff6b35]/35">
-              <span>{section.accordionBlock.heading}</span>
+              <span className="min-w-0">{section.accordionBlock.heading}</span>
               <span className="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-full bg-white text-xl font-semibold text-[#1a4d2e] shadow-[inset_0_0_0_1px_rgba(26,77,46,0.10)] transition-all duration-300 group-hover:bg-[#1a4d2e]/10 group-open:rotate-45 group-open:bg-[#1a4d2e] group-open:text-white">
                 +
               </span>

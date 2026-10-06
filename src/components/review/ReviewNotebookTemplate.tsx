@@ -315,7 +315,8 @@ export function ReviewNotebookTemplate({
           <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
         )}
 
-        <div className="mx-auto max-w-6xl px-4 py-6 md:py-10">
+        {/* Endereços e e-mails longos no texto quebram em vez de alargar a página no celular. */}
+        <div className="mx-auto max-w-6xl px-4 py-6 wrap-break-word md:py-10">
           {/* Header editorial */}
           <header className="mb-10">
             {/* Fila do topo: categoria + breadcrumb */}
@@ -610,7 +611,7 @@ export function ReviewNotebookTemplate({
                           linkLabel={link.label}
                           sponsored={link.sponsored ?? hasCommercialRelationship}
                           placement="review_verdict"
-                          className="inline-flex items-center gap-1.5 rounded-full bg-[#0f1d3a] px-5 py-2.5 text-sm font-bold text-white transition-all hover:-translate-y-0.5 hover:bg-[#ff6b35] hover:shadow-md"
+                          className="inline-flex items-center gap-1.5 rounded-full bg-[#0f1d3a] px-5 py-2.5 text-sm font-bold text-white wrap-anywhere transition-all hover:-translate-y-0.5 hover:bg-[#ff6b35] hover:shadow-md"
                         >
                           {link.label}
                           <ArrowRight size={16} />
