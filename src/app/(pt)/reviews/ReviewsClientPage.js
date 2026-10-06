@@ -1,22 +1,16 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useState } from 'react';
 import Image from 'next/image';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { ArrowRight, Leaf } from 'lucide-react';
-import { getReviewSlug, publishedReviews } from '@/lib/data';
-import {
-  REVIEW_CATEGORIES,
-  isListedInPortuguese,
-  parseReviewCategory,
-} from '@/lib/reviewDiscovery';
+import { REVIEW_CATEGORIES, parseReviewCategory } from '@/lib/reviewDiscovery';
 import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 import { ViewTransitionLink } from '@/components/ViewTransitionLink';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const INITIAL_COUNT = 8;
 const LOAD_MORE_COUNT = 4;
-const listedReviews = publishedReviews.filter(isListedInPortuguese);
 
 const accentByType = {
   'Eletrodoméstico': '#ff6b35',
@@ -34,40 +28,12 @@ const iconByType = {
   'Teste de Cozinha': '🧪',
 };
 
-const estimateReadingTime = (review) => {
-  const words = [
-    review.title,
-    review.description,
-    ...(review.pros || []),
-    ...(review.cons || []),
-    ...(review.contentSections || []).flatMap((s) => [
-      s.heading,
-      ...(s.paragraphs || []),
-      ...(s.bullets || []),
-    ]),
-  ]
-    .join(' ')
-    .trim()
-    .split(/\s+/)
-    .filter(Boolean).length;
-
-  return Math.max(2, Math.ceil(words / 180));
-};
-
 const categoryFilters = [
   { value: null, label: 'Todos' },
   ...REVIEW_CATEGORIES,
 ];
 
-const sortReviewsByDateDesc = (items) =>
-  [...items].sort((a, b) => {
-    const newnessOrder = Number(Boolean(b.isNew)) - Number(Boolean(a.isNew));
-    const dateA = a.publishedAtISO ? Date.parse(a.publishedAtISO) : 0;
-    const dateB = b.publishedAtISO ? Date.parse(b.publishedAtISO) : 0;
-    return newnessOrder || dateB - dateA || b.id - a.id;
-  });
-
-export default function ReviewsClientPage() {
+export default function ReviewsClientPage({ reviews }) {
   const router = useRouter();
   const searchParams = useSearchParams();
   const activeCategory = parseReviewCategory(searchParams.get('categoria'));
@@ -80,15 +46,9 @@ export default function ReviewsClientPage() {
       ? pagination.visible
       : INITIAL_COUNT;
 
-  const filtered = useMemo(
-    () =>
-      sortReviewsByDateDesc(
-        activeCategory
-          ? listedReviews.filter((review) => review.category === activeCategory)
-          : listedReviews
-      ),
-    [activeCategory]
-  );
+  const filtered = activeCategory
+    ? reviews.filter((review) => review.category === activeCategory)
+    : reviews;
 
   const visibleReviews = filtered.slice(0, visible);
   const hasMore = filtered.length > visible;
@@ -159,20 +119,19 @@ export default function ReviewsClientPage() {
             {visibleReviews.map((review, index) => {
               const accent = accentByType[review.type] ?? '#ff6b35';
               const icon = iconByType[review.type] ?? '📝';
-              const readingTime = estimateReadingTime(review);
               const isProductReview = Boolean(review.rating);
 
               return (
                 <ViewTransitionLink
                   key={review.id}
-                  href={`/reviews/${getReviewSlug(review)}`}
+                  href={`/reviews/${review.slug}`}
                   className="group block animate-slide-up"
                   style={{ animationDelay: `${(index % 8) * 0.05}s` }}
                 >
                   <article className="transition-all duration-500 group-hover:-translate-y-2">
                     <div
                       className="relative mb-4 aspect-[5/6] overflow-hidden rounded-[2rem] shadow-soft transition-all duration-500 group-hover:shadow-large"
-                      style={{ viewTransitionName: `review-hero-${sanitizeViewTransitionName(getReviewSlug(review))}` }}
+                      style={{ viewTransitionName: `review-hero-${sanitizeViewTransitionName(review.slug)}` }}
                     >
                       {review.image ? (
                         <Image
@@ -240,7 +199,7 @@ export default function ReviewsClientPage() {
                       )}
 
                       <div className="absolute bottom-5 left-5 right-5 text-xs font-bold uppercase tracking-widest text-white/78">
-                        {review.publishedAt} · {readingTime} min de leitura
+                        {review.publishedAt} · {review.readingMinutes} min de leitura
                       </div>
                     </div>
 
