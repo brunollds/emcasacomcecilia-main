@@ -1,5 +1,24 @@
 # Plano YesStyle — i18n, cupons dinâmicos e hubs indexáveis
 
+> ⚠️ **ATUALIZAÇÃO 06/10/2026 — as páginas de cupom mudaram depois da Seção 0.**
+> Os 10 hubs (PT e os nove idiomas: en, es, fr, de, it, ko, ja, zh-hant e zh-hans) passaram
+> para o design Encarte das outras páginas de loja. Hoje:
+>
+> - a página é `src/components/YesStyleCouponPage.tsx`, com a moldura de
+>   `src/components/coupons/StoreLayout.tsx`. Os textos dos 10 idiomas estão em
+>   `src/components/coupons/yesstyleCopy.ts`, e `src/components/coupons/yesstylePage.ts` junta
+>   textos e dados. As rotas são `src/app/(pt)/cupons/yesstyle/page.tsx` e
+>   `src/app/(<idioma>)/<idioma>/coupons/yesstyle/page.tsx`; os route groups não têm mais o
+>   prefixo `yesstyle-`;
+> - a tabela do B1 (Tipo/Código/Benefício/Validade/Região/Verificado) virou um cartão por cupom;
+> - os cupons guardam as condições em `discount`, `membersOnly` e `regions`, no lugar dos textos
+>   `eligibility` e `restrictions`. Cupom com valor mínimo usa `discount.kind: "tiers"`, que é
+>   da própria YesStyle (`src/lib/yesstyleCoupons.ts`), não o `tiers` do Magalu;
+> - a barra fixa antiga (`CouponBottomBar`) deu lugar ao dock do Encarte (`CouponDock`).
+>
+> A manutenção mensal está na seção 3 de `docs/MANUTENCAO-MENSAL.md`. Onde este plano e a
+> Seção 0 divergirem do código nesses pontos, vale o código.
+
 > ⚠️ **ATUALIZAÇÃO 25/07/2026 — LEIA ISTO ANTES DE QUALQUER COISA ABAIXO.**
 > O corpo deste documento (seções 1–11) é o **plano original**, escrito antes da
 > execução. Ele descreve B2 e C como pendentes e descreve a arquitetura de C

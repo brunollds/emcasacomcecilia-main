@@ -106,23 +106,78 @@ testes acontecerem em dias diferentes.
 ## 3. YesStyle: fonte factual e campanhas curtas
 
 Fonte factual: `data/coupons/yesstyle.json`  
-Adapter tipado e getters: `src/lib/yesstyleCoupons.ts`
+Adapter tipado e getters: `src/lib/yesstyleCoupons.ts`  
+Textos das 10 páginas: `src/components/coupons/yesstyleCopy.ts`
+
+O CECILIA010 é **código de recompensa**, não cupom: vai no campo Reward Code e soma com os
+cupons da própria YesStyle (MIDS26 e afins), que vão no campo Coupon Code, vencem e seguem a
+política da loja. Nenhum texto pode chamá-lo de cupom nem falar em usá-lo "com outros cupons";
+o `npm run test:build-output` falha se isso aparecer numa das páginas da YesStyle.
 
 O código de recompensa e os cupons promocionais têm ciclos diferentes. Em cada item, revisar:
 
 - `status`: `active`, `scheduled` ou `expired`;
 - `startsAt`, `expiresAt` e `recheckBy`, quando existirem;
 - `verifiedAt` com a data real;
-- `officialSourceUrl`, `affiliateUrl`, regiões, elegibilidade e restrições;
-- percentuais para cliente novo e recorrente.
+- `officialSourceUrl`, `affiliateUrl` e `regions`;
+- no código de recompensa, os percentuais para cliente novo e recorrente;
+- nos cupons, `discount` e `membersOnly`.
 
-Depois do prazo, uma promoção não pode continuar `active`. O reward code permanente não deve
-herdar a data de uma promoção curta só para aparentar nova verificação; o helper usa a maior
-data das ofertas ativas, portanto o status incorreto também contamina metadata e sitemap dos
-hubs YesStyle.
+Os cupons guardam as condições em campos, e cada página as escreve no próprio idioma:
 
-Ao alterar essa fonte, conferir a página PT e os oito hubs internacionais. Traduções não podem
-inventar regras diferentes da fonte factual.
+| Campo | Valores |
+|---|---|
+| `regions` | `["GLOBAL"]` ou códigos de país de 2 letras, como `["US"]`; `GLOBAL` não se mistura com países |
+| `discount` | `percentage` (sem valor mínimo), `tiers` (valor mínimo por faixa), `fixed` ou `shipping` |
+| `membersOnly` | `true` quando o cupom só vale com login na conta, não na compra como visitante |
+
+Cupom com valor mínimo vai em `tiers`, mesmo com uma faixa só: moeda e faixas em ordem
+crescente de valor e de desconto. Modelo, com o MIDS26 de outubro de 2026:
+
+```json
+{
+  "id": "mids26-promo",
+  "code": "MIDS26",
+  "type": "coupon",
+  "discount": {
+    "kind": "tiers",
+    "currency": "USD",
+    "tiers": [
+      { "minSpend": 79, "percent": 8 },
+      { "minSpend": 149, "percent": 10 },
+      { "minSpend": 199, "percent": 15 }
+    ]
+  },
+  "startsAt": "2026-10-05",
+  "expiresAt": "2026-10-08",
+  "verifiedAt": "2026-10-05",
+  "officialSourceUrl": "https://www.yesstyle.com/en/",
+  "affiliateUrl": "https://ystyle.co/rQYQv",
+  "membersOnly": true,
+  "status": "active",
+  "regions": ["GLOBAL"]
+}
+```
+
+As regras que valem para todos os cupons (quem pode usar, combinação, prazo e frete) não ficam
+no JSON: estão em `policyRules`, nos 10 idiomas de `yesstyleCopy.ts`. Se a política da YesStyle
+mudar, atualize os 10.
+
+O `npm run validate:yesstyle` confere o JSON e roda em todo `npm run build`; o
+`npm run test:yesstyle-data` testa o próprio validador. O validador recusa campo desconhecido,
+faixa fora de ordem e cupom ativo sem `startsAt` e `expiresAt`, e exige exatamente um código de
+recompensa ativo.
+
+Depois do prazo, uma promoção não pode continuar `active`, e o validador para a build quando
+isso acontece. A YesStyle conta o prazo no horário GMT, e o validador compara com a data em UTC:
+no dia do `expiresAt`, a build passa a falhar às 21h de Brasília. O reward code permanente não
+deve herdar a data de uma promoção curta só para aparentar nova verificação; o helper usa a
+maior data das ofertas ativas, portanto o status incorreto também contamina metadata e sitemap
+dos hubs YesStyle.
+
+Ao alterar essa fonte, conferir a página PT e os nove hubs internacionais (`/en`, `/es`, `/fr`,
+`/de`, `/it`, `/ko`, `/ja`, `/zh-hant` e `/zh-hans`). Traduções não podem inventar regras
+diferentes da fonte factual.
 
 ---
 

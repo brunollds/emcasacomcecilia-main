@@ -3,10 +3,13 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { getCouponBySlug } from '../src/lib/couponsData';
 import { getCouponLanguageLinks, getLocalizedCoupon, getTranslatedCouponRoutes } from '../src/lib/couponTranslations';
+import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
 import { LOCALES, LOCALE_KEYS } from '../src/lib/i18n/locales';
+import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
-// das lojas traduzidas e o dock do sumário dos artigos. O <html lang> fica com test-c2-html-lang.
+// das lojas traduzidas, as páginas da YesStyle e o dock do sumário dos artigos. O <html lang> fica
+// com test-c2-html-lang.
 const SITE_URL = 'https://emcasacomcecilia.com';
 const APP_DIR = path.resolve('.next/server/app');
 const CSS_DIR = path.resolve('.next/static/css');
@@ -24,6 +27,23 @@ function builtFile(url: string) {
   return ['.html', '.body'].map((ext) => path.join(APP_DIR, `${base}${ext}`)).find((file) => fs.existsSync(file));
 }
 const withoutPage = (urls: string[]) => urls.filter((url) => !builtFile(url));
+
+const headOf = (html: string) => html.match(/<head>([\s\S]*?)<\/head>/)?.[1] ?? '';
+const jsonLdOf = (html: string) =>
+  [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].map(([, json]) => JSON.parse(json));
+
+// Canonical, hreflang e og:locale de uma página que existe em vários idiomas.
+function assertLocalizedHead(pagePath: string, head: string, alternates: string[], openGraphLocale: string) {
+  assert.equal(head.match(/<link rel="canonical" href="([^"]+)"/)?.[1], `${SITE_URL}${pagePath}`, `${pagePath}: canonical`);
+  assert.deepEqual(
+    [...head.matchAll(/<link rel="alternate" hrefLang="([^"]+)" href="([^"]+)"/g)]
+      .map(([, hreflang, href]) => `${hreflang} ${href}`)
+      .sort(),
+    alternates,
+    `${pagePath}: hreflang`
+  );
+  assert.equal(head.match(/<meta property="og:locale" content="([^"]+)"/)?.[1], openGraphLocale, `${pagePath}: og:locale`);
+}
 
 const translatedSlugs = [...new Set(getTranslatedCouponRoutes().map((route) => route.slug))];
 const translatedUrls = translatedSlugs.flatMap((slug) =>
@@ -93,24 +113,8 @@ for (const slug of translatedSlugs) {
     const file = builtFile(`${SITE_URL}${pagePath}`);
     assert.ok(file, `${pagePath}: página não gerada no build`);
     const html = read(file);
-    const head = html.match(/<head>([\s\S]*?)<\/head>/)?.[1] ?? '';
-
-    assert.equal(head.match(/<link rel="canonical" href="([^"]+)"/)?.[1], `${SITE_URL}${pagePath}`, `${pagePath}: canonical`);
-    assert.deepEqual(
-      [...head.matchAll(/<link rel="alternate" hrefLang="([^"]+)" href="([^"]+)"/g)]
-        .map(([, hreflang, href]) => `${hreflang} ${href}`)
-        .sort(),
-      expectedAlternates,
-      `${pagePath}: hreflang`
-    );
-    assert.equal(
-      head.match(/<meta property="og:locale" content="([^"]+)"/)?.[1],
-      LOCALES[locale].openGraphLocale,
-      `${pagePath}: og:locale`
-    );
-    const webPage = [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)]
-      .map(([, json]) => JSON.parse(json))
-      .find((schema) => schema['@type'] === 'WebPage');
+    assertLocalizedHead(pagePath, headOf(html), expectedAlternates, LOCALES[locale].openGraphLocale);
+    const webPage = jsonLdOf(html).find((schema) => schema['@type'] === 'WebPage');
     assert.equal(webPage?.inLanguage, LOCALES[locale].htmlLang, `${pagePath}: inLanguage do JSON-LD`);
 
     // Cada idioma leva o seu link principal, e o de outro idioma não aparece na página.
@@ -120,6 +124,100 @@ for (const slug of translatedSlugs) {
       if (offerUrl !== offerUrls[locale]) assert.ok(!hrefs.has(offerUrl), `${pagePath}: link principal de outro idioma`);
     }
   }
+}
+
+// Texto como aparece na tela: sem as tags e com as entidades que o React escreve desfeitas.
+const decodeHtml = (html: string) =>
+  html.replace(/&#x27;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
+const textOf = (html: string) => decodeHtml(html.replace(/<[^>]+>/g, '')).trim();
+
+// O CECILIA010 é código de recompensa, não cupom: vai no campo Reward Code e soma com os cupons da
+// loja. Nenhum texto das páginas da YesStyle pode chamá-lo de cupom ("cupom CECILIA010", "CECILIA010
+// coupon") nem falar em usá-lo com outros cupons, o que faria dele um cupom também. A terceira regra
+// para no fim da frase: "Com outro cupom, não" logo depois do código fala do cupom da loja.
+const rewardCode = getPrimaryRewardCode().code;
+const COUPON_WORDS = 'cupom|cupons|cupón|cupones|coupons?|gutscheine?|쿠폰|クーポン|優惠碼|优惠码';
+const OTHER_COUPONS =
+  'outros? cupo|other coupon|otros? cup|autres? coupon|(?:anderen|weiteren) gutschein|altr[io] coupon|다른 쿠폰|(?:ほか|他)のクーポン|其他優惠碼|其他优惠码';
+const REWARD_CODE_AS_COUPON = new RegExp(
+  [
+    `(?:${COUPON_WORDS})(?: de \\S+)?[:：]? ?${rewardCode}`,
+    `${rewardCode}[ -]?(?:${COUPON_WORDS})`,
+    `${rewardCode}[^.。?？!！;；]{0,60}(?:${OTHER_COUPONS})`,
+  ].join('|'),
+  'iu'
+);
+
+const yesStyleHubs = LOCALE_KEYS.map((locale) => YESSTYLE_LOCALES[locale]);
+const yesStyleAlternates = [
+  ...yesStyleHubs.map(({ hreflang, hubPath }) => `${hreflang} ${SITE_URL}${hubPath}`),
+  `x-default ${SITE_URL}${YESSTYLE_LOCALES.en.hubPath}`,
+].sort();
+
+for (const { locale, hubPath, htmlLang, openGraphLocale } of yesStyleHubs) {
+  const file = builtFile(`${SITE_URL}${hubPath}`);
+  assert.ok(file, `${hubPath}: página não gerada no build`);
+  const html = read(file);
+  const head = headOf(html);
+  const main = html.match(/<main\b[\s\S]*<\/main>/)?.[0] ?? '';
+  const rawTitle = head.match(/<title>([^<]*)<\/title>/)?.[1] ?? '';
+
+  assertLocalizedHead(hubPath, head, yesStyleAlternates, openGraphLocale);
+  assert.equal(main.match(/^<main lang="([^"]+)"/)?.[1], htmlLang, `${hubPath}: lang do <main>`);
+
+  // O H1 é montado em partes (texto, número e sufixo); juntas, elas repetem o <title>.
+  const h1s = [...html.matchAll(/<h1\b[^>]*>([\s\S]*?)<\/h1>/g)].map(([, h1]) => textOf(h1));
+  assert.equal(h1s.length, 1, `${hubPath}: ${h1s.length} H1`);
+  assert.equal(h1s[0].replace(/\s/g, ''), decodeHtml(rawTitle).replace(/\s/g, ''), `${hubPath}: H1 diferente do <title>`);
+
+  // O JSON-LD da página fica no <main>; o layout acrescenta Organization e WebSite fora dele. Sem
+  // Offer: o das outras lojas leva couponCode, e o CECILIA010 não é cupom.
+  const schemas = jsonLdOf(main);
+  assert.deepEqual(
+    schemas.map((schema) => schema['@type']).sort(),
+    ['BreadcrumbList', 'FAQPage', 'WebPage'],
+    `${hubPath}: tipos do JSON-LD`
+  );
+  const schemaOf = (type: string) => schemas.find((schema) => schema['@type'] === type);
+  assert.equal(schemaOf('WebPage').inLanguage, htmlLang, `${hubPath}: inLanguage do JSON-LD`);
+
+  // A trilha e as perguntas do JSON-LD são as que aparecem na página, na mesma ordem. Em português
+  // a trilha passa por /cupons; os outros idiomas não têm página de cupons e vão da home à loja.
+  const trail = main.match(/<nav\b[^>]*><ol\b[\s\S]*?<\/ol><\/nav>/)?.[0] ?? '';
+  const visibleCrumbs = [...trail.matchAll(/<li\b([^>]*)>([\s\S]*?)<\/li>/g)]
+    .filter(([, attributes]) => !attributes.includes('aria-hidden'))
+    .map(([, , item]) => ({
+      name: textOf(item),
+      url: new URL(item.match(/href="([^"]+)"/)?.[1] ?? hubPath, SITE_URL).href,
+    }));
+  assert.equal(visibleCrumbs.length, locale === 'pt' ? 3 : 2, `${hubPath}: ${visibleCrumbs.length} níveis na trilha`);
+  assert.deepEqual(
+    schemaOf('BreadcrumbList').itemListElement.map(({ name, item }) => ({ name, url: new URL(item).href })),
+    visibleCrumbs,
+    `${hubPath}: trilha do JSON-LD diferente da trilha na página`
+  );
+  const visibleFaq = [...main.matchAll(/<details\b[^>]*><summary\b[^>]*>([\s\S]*?)<\/summary>([\s\S]*?)<\/details>/g)].map(
+    ([, question, answer]) => ({ question: textOf(question), answer: textOf(answer) })
+  );
+  assert.ok(visibleFaq.length > 0, `${hubPath}: sem perguntas frequentes`);
+  assert.deepEqual(
+    schemaOf('FAQPage').mainEntity.map(({ name, acceptedAnswer }) => ({ question: name, answer: acceptedAnswer.text })),
+    visibleFaq,
+    `${hubPath}: FAQPage diferente das perguntas na página`
+  );
+
+  // Cada trecho de texto conta sozinho, para o código não "encostar" no título da seção seguinte.
+  const texts = [
+    ...main.replace(/<(script|style)\b[\s\S]*?<\/\1>/g, '').split(/<[^>]+>/),
+    ...[...main.matchAll(/aria-label="([^"]*)"/g)].map(([, label]) => label),
+    rawTitle,
+    ...[...head.matchAll(/<meta [^>]*content="([^"]*)"/g)].map(([, content]) => content),
+  ].map((text) => decodeHtml(text).replace(/\s+/g, ' ').trim());
+  assert.deepEqual(
+    texts.filter((text) => REWARD_CODE_AS_COUPON.test(text)),
+    [],
+    `${hubPath}: texto que chama o ${rewardCode} de cupom`
+  );
 }
 
 const VOID_TAGS = new Set(['area', 'base', 'br', 'col', 'embed', 'hr', 'img', 'input', 'link', 'meta', 'source', 'track', 'wbr']);
@@ -173,5 +271,5 @@ for (const url of articleUrls) {
 }
 
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida e o dock de ${articleUrls.length} artigos conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle e o dock de ${articleUrls.length} artigos conferidos.`
 );
