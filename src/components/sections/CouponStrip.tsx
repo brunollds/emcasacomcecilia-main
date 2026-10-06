@@ -4,14 +4,13 @@ import { useEffect, useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { Check, Copy, X } from 'lucide-react';
-import { getActiveCoupons } from '@/lib/couponsData';
+import type { CouponStripItem } from '@/lib/couponsData';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const DISMISS_KEY = 'coupon_strip_dismissed_until';
 const DISMISS_HOURS = 24;
-const activeCoupons = getActiveCoupons();
 
-export function CouponStrip() {
+export function CouponStrip({ coupons }: { coupons: CouponStripItem[] }) {
   const [mounted, setMounted] = useState(false);
   const [dismissed, setDismissed] = useState(false);
   const [activeIndex, setActiveIndex] = useState(0);
@@ -42,19 +41,19 @@ export function CouponStrip() {
   }, []);
 
   useEffect(() => {
-    if (paused || !mounted || activeCoupons.length < 2) return undefined;
+    if (paused || !mounted || coupons.length < 2) return undefined;
 
     const interval = window.setInterval(() => {
-      setActiveIndex((current) => (current + 1) % activeCoupons.length);
+      setActiveIndex((current) => (current + 1) % coupons.length);
     }, 6000);
 
     return () => window.clearInterval(interval);
-  }, [mounted, paused]);
+  }, [coupons.length, mounted, paused]);
 
   // Renderiza null no server e na hidratação inicial — evita mismatch
-  if (!mounted || dismissed || activeCoupons.length === 0) return null;
+  if (!mounted || dismissed || coupons.length === 0) return null;
 
-  const coupon = activeCoupons[activeIndex];
+  const coupon = coupons[activeIndex];
 
   const handleCopy = async () => {
     if (coupon.offerMode !== 'discount-code') return;
@@ -161,19 +160,19 @@ export function CouponStrip() {
             </Link>
 
             {/* Paginação por pontos — só desktop */}
-            {activeCoupons.length > 1 && (
+            {coupons.length > 1 && (
               <div
                 className="ml-1 hidden items-center gap-1 sm:flex"
                 role="tablist"
                 aria-label="Selecionar benefício"
               >
-                {activeCoupons.map((item, index) => (
+                {coupons.map((item, index) => (
                   <button
                     key={item.slug}
                     type="button"
                     role="tab"
                     aria-selected={index === activeIndex}
-                    aria-label={`Benefício ${index + 1} de ${activeCoupons.length}`}
+                    aria-label={`Benefício ${index + 1} de ${coupons.length}`}
                     onClick={() => setActiveIndex(index)}
                     className={`h-1.5 rounded-full transition-all focus:outline-none focus-visible:ring-2 focus-visible:ring-[#ff6b35] ${
                       index === activeIndex

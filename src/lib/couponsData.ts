@@ -1024,6 +1024,32 @@ export function getActiveCoupons(): Coupon[] {
   return COUPONS.filter((coupon) => coupon.status === 'ativo');
 }
 
+// O que a faixa de cupons da home mostra. Ela é componente cliente: recebe só isto por props,
+// sem levar o COUPONS inteiro para o navegador.
+export type CouponStripItem = Pick<
+  CouponBase,
+  'slug' | 'brand' | 'brandIcon' | 'brandLogo' | 'brandLogoAlt' | 'discount' | 'offerTypeLabel' | 'shortDescription'
+> &
+  ({ offerMode: 'discount-code'; code: string } | { offerMode: 'affiliate-link' });
+
+export function getCouponStripItems(): CouponStripItem[] {
+  return getActiveCoupons().map((coupon) => {
+    const item = {
+      slug: coupon.slug,
+      brand: coupon.brand,
+      brandIcon: coupon.brandIcon,
+      brandLogo: coupon.brandLogo,
+      brandLogoAlt: coupon.brandLogoAlt,
+      discount: coupon.discount,
+      offerTypeLabel: coupon.offerTypeLabel,
+      shortDescription: coupon.shortDescription,
+    };
+    return coupon.offerMode === 'discount-code'
+      ? { ...item, offerMode: 'discount-code', code: coupon.code }
+      : { ...item, offerMode: 'affiliate-link' };
+  });
+}
+
 export function getCouponBySlug(slug: string): Coupon | undefined {
   return COUPONS.find((coupon) => coupon.slug === slug && coupon.status === 'ativo');
 }
