@@ -1,4 +1,5 @@
 import assert from 'node:assert/strict';
+import { getCouponStorePath } from '@/lib/couponTranslations';
 import { LOCALES, LOCALE_KEYS } from '@/lib/i18n/locales';
 import { getReviewHubPath } from '@/lib/review-hubs';
 import {
@@ -35,8 +36,7 @@ for (const locale of LOCALE_KEYS) {
   assert.ok(yesStyle.href);
 
   const shein = commercialLinks.find((link) => link.id === 'shein');
-  assert.equal(shein.href, '/cupons/shein');
-  assert.equal(shein.hrefLang, 'pt-BR');
+  assert.equal(shein.href, getCouponStorePath('shein', locale));
 }
 
 console.log(`✅ shell navigation: ${LOCALE_KEYS.length} locales passaram`);

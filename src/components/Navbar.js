@@ -261,7 +261,6 @@ export default function Navbar({ lang = 'pt-BR' }) {
                 <Link
                   key={link.id}
                   href={link.href}
-                  hrefLang={link.hrefLang}
                   className="whitespace-nowrap text-sm font-medium text-white/78 transition-colors hover:text-white"
                 >
                   {link.label}
@@ -329,7 +328,6 @@ export default function Navbar({ lang = 'pt-BR' }) {
               <Link
                 key={link.id}
                 href={link.href}
-                hrefLang={link.hrefLang}
                 className="block border-b border-white/10 px-2 py-3 text-sm font-semibold uppercase tracking-[0.12em] text-white/82 transition-colors hover:text-white"
                 onClick={() => setIsOpen(false)}
               >

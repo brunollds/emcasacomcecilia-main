@@ -9,19 +9,11 @@ export interface ShellNavLink {
   desktop?: boolean;
 }
 
-export type ShellCommercialLink =
-  | {
-      id: 'yesstyle';
-      href: string;
-      label: string;
-      hrefLang?: never;
-    }
-  | {
-      id: 'shein';
-      href: string;
-      hrefLang: 'pt-BR';
-      label: string;
-    };
+export interface ShellCommercialLink {
+  id: 'yesstyle' | 'shein';
+  href: string;
+  label: string;
+}
 
 export interface ShellCopy {
   locale: Locale;
@@ -263,10 +255,10 @@ export function getShellCommercialLinks(localeStr: string): ShellCommercialLink[
     },
     {
       id: 'shein',
-      href: '/cupons/shein',
-      hrefLang: 'pt-BR',
+      // Mesmo caminho de getCouponStorePath (o teste do shell confere). Não importamos de
+      // couponTranslations porque o shell roda no cliente e levaria junto os textos dos cupons.
+      href: `/${loc}/coupons/shein`,
       label: copy.sheinCouponsLabel,
-      // A campanha SHEIN está disponível apenas em PT-BR; o atributo declara o fallback ao leitor.
     },
   ];
 }

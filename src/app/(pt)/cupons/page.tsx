@@ -1,8 +1,13 @@
 import type { Metadata } from 'next';
-import Link from 'next/link';
-import { Ticket } from 'lucide-react';
-import { CouponPillCard, FAQAccordion } from '@/components/CouponComponents';
-import { getActiveCoupons, getCouponStats } from '@/lib/couponsData';
+import { CircleCheck } from 'lucide-react';
+import {
+  CouponFaq,
+  HubCouponCard,
+  SectionHeading,
+  couponFontVariables,
+  layoutShelf,
+} from '@/components/coupons/CouponBlocks';
+import { getActiveCoupons, getCouponHubSections } from '@/lib/couponsData';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const COUPONS_LOGO_URL = new URL(
@@ -116,12 +121,25 @@ function getJsonLd() {
   return [breadcrumb, itemList, faq];
 }
 
+function ShelfHeading({ id, children }: { id: string; children: React.ReactNode }) {
+  return (
+    <div className="flex items-center gap-2.5">
+      <h2
+        id={id}
+        className="font-condensada text-[28px] font-black leading-7 font-stretch-extra-condensed md:text-[32px] md:leading-8"
+      >
+        {children}
+      </h2>
+      <span aria-hidden="true" className="h-0.5 flex-1 bg-marinho" />
+    </div>
+  );
+}
+
 export default function CuponsPage() {
-  const activeCoupons = getActiveCoupons();
-  const stats = getCouponStats();
+  const { featured, categories, lastVerified } = getCouponHubSections();
   const jsonLd = getJsonLd();
-  const lastUpdate = stats.lastUpdate
-    ? new Date(`${stats.lastUpdate}T12:00:00`).toLocaleDateString('pt-BR', {
+  const lastVerifiedLabel = lastVerified
+    ? new Date(`${lastVerified}T12:00:00`).toLocaleDateString('pt-BR', {
         day: 'numeric',
         month: 'long',
         year: 'numeric',
@@ -129,7 +147,7 @@ export default function CuponsPage() {
     : null;
 
   return (
-    <main className="min-h-screen bg-[#fef9f3]">
+    <main className={`${couponFontVariables} min-h-screen bg-white text-marinho`}>
       {jsonLd.map((schema, index) => (
         <script
           key={index}
@@ -138,117 +156,82 @@ export default function CuponsPage() {
         />
       ))}
 
-      <section className="relative overflow-hidden bg-[#0f1d3a] px-4 py-16 text-white md:py-20">
-        <div className="absolute left-[8%] top-[18%] h-28 w-28 rounded-full bg-[#ff6b35]/20 blur-3xl" />
-        <div className="absolute bottom-[10%] right-[10%] h-36 w-36 rounded-full bg-[#ffd700]/18 blur-3xl" />
-
-        <div className="relative z-10 mx-auto max-w-5xl">
-          <nav aria-label="Breadcrumb" className="mb-6 text-xs text-white/55">
-            <Link href="/" className="hover:text-white">Início</Link>
-            <span className="mx-2 opacity-40">/</span>
-            <span className="text-white">Cupons</span>
-          </nav>
-
-          <div className="flex flex-col gap-6 md:flex-row md:items-start">
-            <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-2xl bg-[#ff6b35] text-white shadow-xl shadow-[#ff6b35]/20">
-              <Ticket className="h-8 w-8" />
-            </div>
-            <div>
-              <h1 className="font-heading text-4xl font-black leading-tight tracking-[-0.04em] md:text-6xl">
-                Cupons da Cecília
-              </h1>
-              <p className="mt-5 max-w-2xl text-base leading-relaxed text-white/76 md:text-lg">
-                Códigos e ofertas para economizar em marcas parceiras que aparecem no Em Casa com Cecília.
-                Cada benefício tem uma página própria com regras, validade e instruções de uso.
-              </p>
-            </div>
-          </div>
-
-          <dl className="mt-8 grid grid-cols-2 gap-3 rounded-2xl border border-white/10 bg-white/5 p-4 md:grid-cols-4">
-            <div>
-              <dt className="text-[10px] font-black uppercase tracking-[0.18em] text-white/58">Benefícios ativos</dt>
-              <dd className="mt-1 text-2xl font-black text-[#ff9158]">{stats.activeCount}</dd>
-            </div>
-            <div>
-              <dt className="text-[10px] font-black uppercase tracking-[0.18em] text-white/58">Desconto médio</dt>
-              <dd className="mt-1 text-2xl font-black text-[#ff9158]">{stats.averageDiscount}%</dd>
-            </div>
-            <div>
-              <dt className="text-[10px] font-black uppercase tracking-[0.18em] text-white/58">Formatos</dt>
-              <dd className="mt-1 text-lg font-black text-[#ff9158]">Código + link</dd>
-            </div>
-            <div>
-              <dt className="text-[10px] font-black uppercase tracking-[0.18em] text-white/58">Atualização</dt>
-              <dd className="mt-1 text-lg font-black text-[#ff9158]">{lastUpdate ? 'Hoje' : 'Manual'}</dd>
-            </div>
-          </dl>
-
-          {lastUpdate && (
-            <p className="mt-4 text-xs text-white/55">
-              Última revisão dos benefícios ativos: {lastUpdate}.
+      <section className="border-b-2 border-marinho bg-amarelo-cupom">
+        <div className="mx-auto max-w-6xl px-4 pt-5 pb-6 md:px-8 md:pt-10 md:pb-9">
+          <h1 className="font-condensada text-[64px] font-black leading-[0.92] tracking-[-0.01em] font-stretch-extra-condensed md:text-[96px]">
+            Cupons da Cecília
+          </h1>
+          <p className="mt-3 max-w-[54ch] text-[15px] font-semibold leading-[22px] md:text-[17px] md:leading-[26px]">
+            Copie o código aqui e cole no checkout da loja parceira.
+          </p>
+          {lastVerified && lastVerifiedLabel && (
+            <p className="mt-3.5 flex items-center gap-2 text-[13px] font-bold leading-[18px] text-verde-escuro">
+              <CircleCheck aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
+              <span>
+                Última conferência: <time dateTime={lastVerified}>{lastVerifiedLabel}</time>
+              </span>
             </p>
           )}
-
-          <div className="mt-10 rounded-[2rem] border border-white/10 bg-white/[0.055] p-5 shadow-[0_18px_60px_rgba(0,0,0,0.18)] backdrop-blur-md">
-            <h2 className="font-heading text-2xl font-black text-white">
-              Cupons e ofertas ativos
-            </h2>
-            <p className="mt-2 max-w-2xl text-sm leading-relaxed text-white/68">
-              Escolha uma marca para ver detalhes completos, regras de uso e conteúdo relacionado.
-            </p>
-
-            <div className="mt-6 grid min-w-0 gap-3 md:grid-cols-2">
-              {activeCoupons.map((coupon) => (
-                <CouponPillCard
-                  key={coupon.slug}
-                  {...(coupon.offerMode === 'discount-code'
-                    ? { offerMode: coupon.offerMode, code: coupon.code }
-                    : { offerMode: coupon.offerMode })}
-                  brand={coupon.brand}
-                  brandIcon={coupon.brandIcon}
-                  brandLogo={coupon.brandLogo}
-                  brandLogoAlt={coupon.brandLogoAlt}
-                  shortDescription={coupon.shortDescription}
-                  discount={coupon.discount}
-                  href={`/cupons/${coupon.slug}`}
-                />
-              ))}
-            </div>
-          </div>
         </div>
       </section>
 
-      <section className="bg-white px-4 py-14">
-        <div className="mx-auto max-w-3xl">
-          <h2 className="font-heading text-2xl font-black text-[#0f1419]">
-            Como funcionam os cupons e ofertas da Cecília
-          </h2>
-          <p className="mt-4 text-base leading-relaxed text-[#0f1419]/78">
-            Esta página reúne códigos e ofertas por link em uma central de benefícios. Quando houver um
-            código, você poderá copiá-lo e aplicar no checkout; nas ofertas por link, basta acessar a loja
-            pelo botão indicado. As páginas específicas explicam os produtos elegíveis e as regras de uso.
-          </p>
-          <p className="mt-4 text-base leading-relaxed text-[#0f1419]/78">
-            Alguns links podem gerar comissão para o Em Casa com Cecília, sem custo extra para você.
-            Esse modelo ajuda a manter receitas, reviews e guias gratuitos, com transparência sobre as marcas parceiras.
-          </p>
+      <div className="mx-auto flex max-w-6xl flex-col gap-7 px-4 pt-6 md:gap-10 md:px-8 md:pt-10">
+        {featured.length > 0 && (
+          <section aria-labelledby="destaques" className="flex flex-col gap-3">
+            <ShelfHeading id="destaques">Destaques</ShelfHeading>
+            {/* Pensado para dois destaques: o primeiro fica com 3/5 da linha no desktop. */}
+            <div className={`grid gap-3 md:gap-4 ${featured.length > 1 ? 'md:grid-cols-[3fr_2fr]' : ''}`}>
+              {featured.map((coupon, index) => (
+                <HubCouponCard key={coupon.slug} coupon={coupon} variant={index === 0 ? 'lead' : 'featured'} />
+              ))}
+            </div>
+          </section>
+        )}
 
-          <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">
-            Como usar em 3 passos
-          </h2>
-          <ol className="mt-4 list-decimal space-y-3 pl-6 text-base leading-relaxed text-[#0f1419]/78">
-            <li>Abra a página da marca parceira e confira se o benefício usa código ou link.</li>
-            <li>Copie o código quando houver ou acesse diretamente a loja pelo botão indicado.</li>
-            <li>Confira as condições e o valor final antes de concluir a compra.</li>
-          </ol>
+        {/* No desktop, prateleiras de até dois cards dividem a linha; as maiores ocupam a largura toda. */}
+        <div className="grid gap-7 md:grid-cols-2 md:gap-x-6 md:gap-y-10">
+          {categories.map((category) => {
+            const shelf = layoutShelf(category.coupons);
+            const fullRow = shelf.reduce((slots, item) => slots + (item.wide ? 2 : 1), 0) > 2;
 
-          <h2 className="mt-12 font-heading text-2xl font-black text-[#0f1419]">
-            Perguntas frequentes
-          </h2>
-          <div className="mt-4">
-            <FAQAccordion items={HUB_FAQS} />
-          </div>
+            return (
+              <section
+                key={category.id}
+                aria-labelledby={`prateleira-${category.id}`}
+                className={`flex flex-col gap-3 ${fullRow ? 'md:col-span-2' : ''}`}
+              >
+                <ShelfHeading id={`prateleira-${category.id}`}>{category.label}</ShelfHeading>
+                <div className={`grid flex-1 grid-cols-2 gap-3 ${fullRow ? 'md:grid-cols-4' : ''}`}>
+                  {shelf.map(({ coupon, wide }) => (
+                    <HubCouponCard
+                      key={coupon.slug}
+                      coupon={coupon}
+                      variant={wide ? 'wide' : 'narrow'}
+                      className={wide ? 'col-span-2' : ''}
+                    />
+                  ))}
+                </div>
+              </section>
+            );
+          })}
         </div>
+      </div>
+
+      <section aria-labelledby="perguntas" className="mx-auto max-w-6xl px-4 pt-12 md:px-8 md:pt-16">
+        <SectionHeading id="perguntas">Perguntas frequentes</SectionHeading>
+        <div className="mt-4 max-w-3xl">
+          <CouponFaq items={HUB_FAQS} />
+        </div>
+      </section>
+
+      <section aria-labelledby="transparencia" className="mx-auto max-w-6xl px-4 pt-12 pb-10 md:px-8">
+        <h2 id="transparencia" className="text-[15px] font-extrabold leading-[22px]">
+          Transparência
+        </h2>
+        <p className="mt-1.5 max-w-[68ch] text-[13px] font-medium leading-5 text-marinho-suave">
+          Alguns links podem gerar comissão para o Em Casa com Cecília, sem custo extra para você. Esse modelo ajuda
+          a manter receitas, reviews e guias gratuitos, com transparência sobre as marcas parceiras.
+        </p>
       </section>
     </main>
   );

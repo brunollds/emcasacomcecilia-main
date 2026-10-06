@@ -1,7 +1,8 @@
 import { recipes, publishedReviews } from '@/lib/data';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
-import { getActiveCoupons } from '@/lib/couponsData';
-import { yesStyleLocales } from '@/components/YesStyleCouponPage';
+import { getActiveCoupons, getCouponBySlug } from '@/lib/couponsData';
+import { getCouponLanguageLinks, getTranslatedCouponRoutes } from '@/lib/couponTranslations';
+import { YESSTYLE_LOCALES } from '@/lib/i18n/clusters/yesstyle';
 import { videoPages } from '@/lib/video-pages';
 
 const BASE_URL = 'https://emcasacomcecilia.com';
@@ -42,13 +43,27 @@ function buildLlmsText(): string {
     .slice(0, 12);
   const activeCoupons = getActiveCoupons()
     .sort((a, b) => b.lastVerified.localeCompare(a.lastVerified));
-  const yesStyleLocalizedCoupons = yesStyleLocales.map((locale) =>
-    formatLink(
-      `YesStyle reward code (${locale})`,
-      `${BASE_URL}/${locale}/coupons/yesstyle`,
-      'pagina local do codigo de recompensa CECILIA010'
-    )
-  );
+  // A página em PT já entra como "YesStyle em portugues"; /pt/coupons/yesstyle não existe.
+  const yesStyleLocalizedCoupons = Object.values(YESSTYLE_LOCALES)
+    .filter((config) => config.locale !== 'pt')
+    .map((config) =>
+      formatLink(
+        `YesStyle reward code (${config.locale})`,
+        `${BASE_URL}${config.hubPath}`,
+        'pagina local do codigo de recompensa CECILIA010'
+      )
+    );
+  // Lojas com página em outros idiomas (hoje só a SHEIN): a de PT e as traduzidas.
+  const translatedCouponLinks = [...new Set(getTranslatedCouponRoutes().map((route) => route.slug))].flatMap((slug) => {
+    const brand = getCouponBySlug(slug)?.brand ?? slug;
+    return Object.entries(getCouponLanguageLinks(slug)).map(([locale, path]) =>
+      formatLink(
+        `${brand} (${locale})`,
+        `${BASE_URL}${path}`,
+        locale === 'pt' ? 'pagina em pt-BR da loja' : 'pagina local da loja'
+      )
+    );
+  });
 
   const lines = [
     '# Em Casa com Cecilia',
@@ -122,6 +137,7 @@ function buildLlmsText(): string {
       'pagina canonica em pt-BR do codigo de recompensa CECILIA010'
     ),
     ...yesStyleLocalizedCoupons,
+    ...translatedCouponLinks,
     '',
     '## Uso recomendado por LLMs',
     '',
