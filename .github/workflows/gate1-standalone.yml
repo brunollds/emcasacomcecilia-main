@@ -2,21 +2,16 @@ name: Gate 1 - Standalone proof
 
 on:
   workflow_dispatch:
+  # Sem filtro de caminhos: o job é check obrigatório para o merge no main, e um PR que não
+  # disparasse o workflow ficaria bloqueado esperando um check que nunca chega.
   pull_request:
-    paths:
-      - 'next.config.mjs'
-      - 'package.json'
-      - 'package-lock.json'
-      - 'scripts/**'
-      - 'src/**'
-      - 'content/**'
-      - 'public/**'
 
 permissions:
   contents: read
 
 jobs:
   prove-standalone:
+    # A proteção do main exige um check com este nome exato; renomear o job pede atualizar a proteção.
     name: Build and inspect Linux standalone
     runs-on: ubuntu-22.04
     timeout-minutes: 15

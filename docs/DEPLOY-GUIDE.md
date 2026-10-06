@@ -95,6 +95,10 @@ attestation pública. O G1 futuro só poderá declarar sucesso quando exigir sim
 2. `/api/release` com SHA e UUID exatos;
 3. `/_next/static/<sha>/_buildManifest.js` acessível.
 
+Todo PR roda o Gate 1 (`.github/workflows/gate1-standalone.yml`), e desde 06/10/2026 o job
+`Build and inspect Linux standalone` é check obrigatório para o merge no `main`. Admin ainda pode
+dar push direto no `main`; o GitHub registra o bypass.
+
 O Gate 1 mede cedo uma reconstrução da árvore commitada, avisa a partir de
 **47.000.000 bytes** e falha a partir de **49.000.000 bytes**. O teto documentado do provider
 continua em 50 MB; a guarda interna preserva 1 MB de margem.
