@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { HelpCircle, ChevronDown, MessageCircle, Video, Mail } from 'lucide-react';
-import { brandLinks } from '@/lib/data';
+import { brandLinks } from '@/lib/brandLinks';
 import { faqData } from '@/lib/faqData';
 
 
