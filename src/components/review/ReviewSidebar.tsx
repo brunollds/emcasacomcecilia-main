@@ -8,7 +8,7 @@ import { trackEvent } from '@/lib/analytics';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import type { Locale } from '@/lib/i18n/locales';
-import type { TocItem } from './ReviewTableOfContents';
+import { useReadingPosition, type TocItem } from './useReadingPosition';
 import type { Review, ReviewKind } from '@/lib/content';
 
 const tocTitlesByLocale: Record<Locale, string> = {
@@ -58,7 +58,7 @@ function StarRating({ rating }: { rating: number }): React.ReactElement {
   );
 }
 
-export function SidebarConversionCards({
+function SidebarConversionCards({
   coupon,
   effectiveCta,
   reviewSlug,
@@ -67,7 +67,6 @@ export function SidebarConversionCards({
 }: {
   coupon?: string;
   effectiveCta?: { url: string; label: string; text?: string; sponsored?: boolean } | null;
-  relatedArticleLinks?: ResolvedRelatedArticle[];
   reviewSlug: string;
   affiliate?: string;
   placement?: ReviewConversionPlacement;
@@ -178,6 +177,7 @@ export function ReviewSidebarContent({
   const hasConversionContent = Boolean(review.coupon || effectiveCta?.url);
   const hasToc = tocItems.length > 0;
   const hasRelated = relatedArticleLinks.length > 0;
+  const { activeIndex } = useReadingPosition(tocItems.map((item) => item.id));
 
   if (typeof stars !== 'number' && !hasConversionContent && !hasToc && !hasRelated) {
     return null;
@@ -192,12 +192,17 @@ export function ReviewSidebarContent({
             {tocTitlesByLocale[resolveReviewLocale(review.locale)]}
           </p>
           <ul className="space-y-1">
-            {tocItems.map((item) => (
+            {tocItems.map((item, index) => (
               <li key={item.id}>
                 <a
                   href={`#${item.id}`}
                   onClick={onTocLinkClick}
-                  className="block rounded-lg px-3 py-2 text-sm text-[#4a5568] transition-colors hover:bg-[#1a4d2e]/5 hover:text-[#1a4d2e]"
+                  aria-current={index === activeIndex ? 'location' : undefined}
+                  className={
+                    index === activeIndex
+                      ? 'block rounded-lg bg-[#1a4d2e] px-3 py-2 text-sm font-semibold text-white transition-colors'
+                      : 'block rounded-lg px-3 py-2 text-sm text-[#4a5568] transition-colors hover:bg-[#1a4d2e]/5 hover:text-[#1a4d2e]'
+                  }
                 >
                   {item.heading}
                 </a>

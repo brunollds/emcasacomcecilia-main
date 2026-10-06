@@ -5,7 +5,7 @@ import { List } from 'lucide-react';
 import { BottomSheet } from '@/components/editorial';
 import { ReviewSidebarContent, type ResolvedRelatedArticle } from './ReviewSidebar';
 import type { Review, ReviewKind } from '@/lib/content';
-import type { TocItem } from './ReviewTableOfContents';
+import type { TocItem } from './useReadingPosition';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import type { Locale } from '@/lib/i18n/locales';
 
