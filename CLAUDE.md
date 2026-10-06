@@ -70,6 +70,8 @@ num componente cliente põe o índice inteiro no bundle de toda página que usa 
 `<Link>` espalha o efeito: ele baixa os chunks cliente da rota de destino, então o índice também
 vai, em segundo plano, para toda página com link visível para uma página afetada. O cliente recebe
 dados por props de um componente servidor ou de módulos sem o índice, como `src/lib/brandLinks.ts`.
+Logo depois do `next build`, o `npm run build` roda `scripts/test-client-bundle.mjs`
+(`npm run test:client-bundle`), que falha se algum chunk do navegador trouxer o índice.
 
 ### Mídia (imagens e vídeos) — biblioteca CDN em migração
 
