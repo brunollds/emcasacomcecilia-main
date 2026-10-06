@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import { Check, ChevronDown, Copy } from 'lucide-react';
+import { Check, Copy } from 'lucide-react';
 import { trackEvent } from '@/lib/analytics';
 import { getCouponBrandFromHref, getInternalHref, isCouponPageLink, isInternalLink } from '@/lib/internalLinks';
 
@@ -70,29 +70,6 @@ export function CopyButton({
         </>
       )}
     </button>
-  );
-}
-
-type FAQItem = {
-  question: string;
-  answer: string;
-};
-
-export function FAQAccordion({ items }: { items: FAQItem[] }) {
-  return (
-    <div className="divide-y divide-black/8">
-      {items.map((item) => (
-        <details key={item.question} className="group py-4">
-          <summary className="flex cursor-pointer list-none items-center justify-between gap-4 text-base font-semibold text-[#0f1419] transition-colors hover:text-[#ff6b35]">
-            <span>{item.question}</span>
-            <ChevronDown className="h-4 w-4 shrink-0 text-[#0f1419]/45 transition-transform group-open:rotate-180" />
-          </summary>
-          <p className="mt-3 text-sm leading-relaxed text-[#0f1419]/68">
-            {item.answer}
-          </p>
-        </details>
-      ))}
-    </div>
   );
 }
 

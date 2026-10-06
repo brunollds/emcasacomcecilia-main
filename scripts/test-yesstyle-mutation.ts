@@ -6,9 +6,8 @@ import {
 import {
   resolveYesStylePage,
   getYesStyleMetadata,
-  YesStyleCouponPage,
   getYesStyleBreadcrumbItems,
-} from '../src/components/YesStyleCouponPage';
+} from '../src/components/coupons/yesstylePage';
 import { yesStyleLocales } from '../src/components/coupons/yesstyleCopy';
 import { COUPONS } from '../src/lib/couponsData';
 import {
@@ -207,9 +206,15 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
         errors.push(`resolved.verifiedAtISO esperado "${expectedMutatedLatest}" (data mutada mais recente), obteve "${resolved.verifiedAtISO}"`);
       }
 
-      // Check Japanese copy button text
-      if (locale === 'ja' && resolved.copy !== 'コードをコピー') {
-        errors.push(`Botão japonês de cópia com partícula incorreta: esperado "コードをコピー", obteve "${resolved.copy}"`);
+      // O H1 é montado em partes em volta do número grande e precisa dizer o mesmo que o título.
+      const { lead, prefix, suffix } = resolved.heroTitle;
+      const heroText = `${lead}${prefix}${resolved.newCustomerDiscount}%${suffix}`.replace(/\s/g, '');
+      if (heroText !== resolved.title.replace(/\s/g, '')) {
+        errors.push(`H1 diferente do título em locale "${locale}": "${lead} | ${prefix} | ${resolved.newCustomerDiscount}% | ${suffix}" x "${resolved.title}"`);
+      }
+
+      if (!resolved.firstOrder.discount.includes('99') || !resolved.nextOrders.discount.includes('44')) {
+        errors.push(`Descontos da 1ª compra e das seguintes não propagaram a mutação em locale "${locale}": "${resolved.firstOrder.discount}" / "${resolved.nextOrders.discount}"`);
       }
 
       // Check Promo offer mutation propagation in activePromoOffers
@@ -236,14 +241,18 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
       // Varrer todos os campos do resolved para verificar vazamentos
       const stringsToAudit: string[] = [
         resolved.title,
+        lead,
+        prefix,
+        suffix,
         resolved.description,
+        resolved.category,
         resolved.intro,
-        resolved.copyAria,
-        resolved.rewardDiscountValue,
+        resolved.rewardCodeLabel,
+        resolved.rewardFieldNote,
         resolved.promosSectionTitle,
+        resolved.promosIntro,
         resolved.emptyPromosNotice,
         resolved.emptyPromosSubtext,
-        resolved.discountValue,
         resolved.instructionsTitle,
         ...resolved.instructions,
         resolved.note,
