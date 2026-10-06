@@ -1,12 +1,7 @@
 import type { Metadata } from 'next';
 import { CircleCheck } from 'lucide-react';
-import {
-  CouponFaq,
-  HubCouponCard,
-  SectionHeading,
-  couponFontVariables,
-  layoutShelf,
-} from '@/components/coupons/CouponBlocks';
+import { CouponFaq, SectionHeading, couponFontVariables } from '@/components/coupons/CouponBlocks';
+import { HubCouponCard, layoutShelf } from '@/components/coupons/CouponCards';
 import { getActiveCoupons, getCouponHubSections } from '@/lib/couponsData';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 

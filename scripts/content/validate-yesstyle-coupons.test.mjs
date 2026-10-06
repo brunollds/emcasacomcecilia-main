@@ -58,3 +58,43 @@ test('rejeita campo desconhecido para capturar erros de digitação', () => {
   typo[promoIndex].expireAt = typo[promoIndex].expiresAt;
   assert.throws(() => validateYesStyleCoupons(typo, { today: validToday }), /campo desconhecido/);
 });
+
+test('rejeita faixas fora de ordem, vazias ou com campo desconhecido', () => {
+  const tiers = (list) => ({ kind: 'tiers', currency: 'USD', tiers: list });
+
+  const unordered = fixture();
+  unordered[promoIndex].discount = tiers([{ minSpend: 149, percent: 10 }, { minSpend: 79, percent: 8 }]);
+  assert.throws(() => validateYesStyleCoupons(unordered, { today: validToday }), /faixa anterior/);
+
+  const empty = fixture();
+  empty[promoIndex].discount = tiers([]);
+  assert.throws(() => validateYesStyleCoupons(empty, { today: validToday }), /lista não vazia/);
+
+  const typo = fixture();
+  typo[promoIndex].discount = tiers([{ minSpend: 79, percentage: 8 }]);
+  assert.throws(() => validateYesStyleCoupons(typo, { today: validToday }), /percentage: campo desconhecido/);
+});
+
+test('exige membersOnly nos cupons e regiões como GLOBAL ou código de país', () => {
+  const withoutMembers = fixture();
+  delete withoutMembers[promoIndex].membersOnly;
+  assert.throws(() => validateYesStyleCoupons(withoutMembers, { today: validToday }), /membersOnly/);
+
+  const countryName = fixture();
+  countryName[promoIndex].regions = ['Estados Unidos'];
+  assert.throws(() => validateYesStyleCoupons(countryName, { today: validToday }), /código de 2 letras/);
+
+  const mixed = fixture();
+  mixed[promoIndex].regions = ['GLOBAL', 'US'];
+  assert.throws(() => validateYesStyleCoupons(mixed, { today: validToday }), /não se mistura/);
+});
+
+test('rejeita o texto livre do formato antigo', () => {
+  const freeText = fixture();
+  freeText[promoIndex].restrictions = ['Use no campo Coupon Code.'];
+  assert.throws(() => validateYesStyleCoupons(freeText, { today: validToday }), /restrictions: campo desconhecido/);
+
+  const textDiscount = fixture();
+  textDiscount[promoIndex].discount = { kind: 'text', label: '8–15% OFF' };
+  assert.throws(() => validateYesStyleCoupons(textDiscount, { today: validToday }), /tipo de desconto inválido/);
+});

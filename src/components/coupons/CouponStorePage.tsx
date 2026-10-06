@@ -1,36 +1,39 @@
-import { Fragment } from 'react';
 import type { Metadata } from 'next';
-import Link from 'next/link';
-import {
-  CalendarDays,
-  Check,
-  ChevronRight,
-  CircleCheck,
-  Copy,
-  ExternalLink,
-  Globe,
-  Layers,
-  Repeat,
-  Scissors,
-  ShoppingBag,
-  Truck,
-} from 'lucide-react';
+import { CalendarDays, Check, Copy, ExternalLink, Layers, Repeat, ShoppingBag, Truck } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { getCouponLanguageLinks, getCouponStorePath } from '@/lib/couponTranslations';
 import { getOtherActiveCoupons, type Coupon } from '@/lib/couponsData';
 import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
 import { getShellHomeHref } from '@/lib/i18n/shellDictionary';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
-import { CopyAndOpenStoreLink, CopyCodeButton, CouponDock } from './CouponActions';
+import { CopyCodeButton, CouponDock } from './CouponActions';
 import {
-  BrandWatermark,
+  BODY_TEXT,
   CouponFaq,
   DiscountFigure,
-  OtherCouponCard,
+  FOCUS_RING,
+  PRIMARY_ACTION,
+  SECONDARY_ACTION,
   SectionHeading,
   couponFontVariables,
 } from './CouponBlocks';
+import { OtherCouponCard } from './CouponCards';
 import { COUPON_STORE_COPY, type CouponStoreCopy } from './couponStoreCopy';
+import {
+  CompactCopyButton,
+  CutoutCode,
+  CutoutCodeActions,
+  LanguageLinks,
+  RelatedLink,
+  RuleList,
+  STORE_CUTOUT_ID,
+  StepList,
+  StoreBody,
+  StoreContent,
+  StoreCutout,
+  StoreHero,
+  StoreTransparency,
+} from './StoreLayout';
 
 const SITE_URL = 'https://emcasacomcecilia.com';
 
@@ -171,22 +174,6 @@ function getJsonLd(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {
 // Evita "R$" no fim de uma linha e o valor no começo da seguinte.
 const keepCurrencyTogether = (text: string) => text.replace(/R\$ /g, 'R$\u00a0');
 
-// Códigos longos (EMCASACOMCECILIA) não cabem a 34px num celular de 360px.
-const cutoutCodeSize = (code: string) =>
-  code.length <= 10
-    ? 'text-[34px] leading-[42px] tracking-[0.06em]'
-    : code.length <= 13
-      ? 'text-[28px] leading-9 tracking-[0.04em]'
-      : 'text-[22px] leading-8 tracking-[0.02em]';
-
-const FOCUS_RING = 'focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-marinho';
-
-const PRIMARY_ACTION = `flex min-h-[52px] items-center justify-center gap-2.5 rounded-[10px] border-2 border-marinho bg-laranja px-4 text-center text-base font-extrabold text-marinho transition-colors hover:bg-laranja/85 data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-escuro data-[copied=true]:text-white ${FOCUS_RING}`;
-
-const SECONDARY_ACTION = `flex min-h-12 w-full items-center justify-center gap-2 rounded-[10px] border-2 border-marinho bg-white px-4 text-center text-[15px] font-extrabold text-marinho transition-colors hover:bg-creme data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-claro data-[copied=true]:text-verde-escuro ${FOCUS_RING}`;
-
-const BODY_TEXT = 'max-w-[68ch] text-[15px] font-medium leading-6 text-marinho-suave md:text-base md:leading-7';
-
 // Só o Magalu tem faixas, e ele só existe em PT; o aviso explica a loja Magazine Você.
 function MagazineVoceNotice({ storeUrl }: { storeUrl: string }) {
   return (
@@ -212,42 +199,6 @@ function MagazineVoceNotice({ storeUrl }: { storeUrl: string }) {
         cupons exclusivos da Cecília.
       </p>
     </div>
-  );
-}
-
-// A mesma loja nos outros idiomas. Fica logo depois do recorte para não empurrar o código para baixo.
-function LanguageLinks({ slug, current, label }: { slug: string; current: Locale; label: string }) {
-  const links = getCouponLanguageLinks(slug);
-  const alternatives = LOCALE_KEYS.flatMap((locale) => {
-    const href = links[locale];
-    return href && locale !== current ? [{ locale, href }] : [];
-  });
-  if (alternatives.length === 0) return null;
-
-  return (
-    <nav
-      aria-label={label}
-      className="flex flex-wrap items-center gap-x-3 border-y-2 border-marinho/15 py-1 text-[13px] font-bold leading-[18px]"
-    >
-      <span className="flex items-center gap-1.5 text-marinho-suave">
-        <Globe aria-hidden="true" className="h-4 w-4 shrink-0" />
-        {label}
-      </span>
-      <ul className="flex flex-wrap items-center gap-x-3">
-        {alternatives.map(({ locale, href }) => (
-          <li key={locale}>
-            <Link
-              href={href}
-              hrefLang={LOCALES[locale].hreflang}
-              lang={LOCALES[locale].htmlLang}
-              className={`flex min-h-11 items-center underline underline-offset-[3px] ${FOCUS_RING}`}
-            >
-              {LOCALES[locale].label}
-            </Link>
-          </li>
-        ))}
-      </ul>
-    </nav>
   );
 }
 
@@ -303,115 +254,27 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
         />
       ))}
 
-      <section className="relative isolate overflow-hidden border-b-2 border-marinho bg-amarelo-cupom">
-        <div className="relative mx-auto max-w-6xl px-4 pt-3 pb-16 md:px-8 lg:grid lg:grid-cols-[minmax(0,1fr)_340px] lg:gap-x-16 lg:pt-6 lg:pb-14">
-          <BrandWatermark
-            src={coupon.brandWatermark}
-            aboveTheFold
-            className="-right-12 top-[108px] h-[150px] w-[300px] lg:top-10 lg:right-8 lg:h-[170px] lg:w-[340px]"
-          />
-          <div className="relative z-10">
-            <nav aria-label={copy.breadcrumbLabel}>
-              <ol className="flex flex-wrap items-center gap-1 text-[13px] font-bold leading-[18px]">
-                {breadcrumb.map((item, index) => (
-                  <Fragment key={item.path}>
-                    {index > 0 && (
-                      <li aria-hidden="true" className="flex">
-                        <ChevronRight className="h-3.5 w-3.5" />
-                      </li>
-                    )}
-                    {index < breadcrumb.length - 1 ? (
-                      <li>
-                        <Link href={item.path} className={`flex min-h-11 items-center underline underline-offset-[3px] ${FOCUS_RING}`}>
-                          {item.name}
-                        </Link>
-                      </li>
-                    ) : (
-                      <li aria-current="page">{item.name}</li>
-                    )}
-                  </Fragment>
-                ))}
-              </ol>
-            </nav>
+      <StoreHero
+        watermark={coupon.brandWatermark}
+        breadcrumb={breadcrumb}
+        breadcrumbLabel={copy.breadcrumbLabel}
+        brand={coupon.brand}
+        category={coupon.category}
+        titleLead={copy.heroTitle(offerType, coupon.brand)}
+        titleFigure={<DiscountFigure discount={coupon.discount} size="hero" />}
+        titleEnd={couponCodeOffer ? copy.heroCode(couponCodeOffer.code) : undefined}
+        intro={coupon.longDescription}
+      />
 
-            <p className="mt-2 flex flex-col">
-              <span className="text-base font-extrabold leading-[22px]">{coupon.brand}</span>
-              <span className="text-[13px] font-semibold leading-[18px]">{coupon.category}</span>
-            </p>
-
-            <h1 className="mt-3.5 flex flex-col gap-0.5">
-              <span className="font-condensada text-[30px] font-extrabold leading-8 font-stretch-condensed md:text-[40px] md:leading-[44px]">
-                {copy.heroTitle(offerType, coupon.brand)}
-              </span>{' '}
-              <DiscountFigure discount={coupon.discount} size="hero" />
-              {couponCodeOffer && (
-                <>
-                  {' '}
-                  <span className="mt-1 text-[17px] font-extrabold leading-6 md:text-[22px] md:leading-8">
-                    {copy.heroCode(couponCodeOffer.code)}
-                  </span>
-                </>
-              )}
-            </h1>
-
-            <p className="mt-3 max-w-[54ch] text-[15px] font-semibold leading-[22px] md:text-[17px] md:leading-[26px]">
-              {coupon.longDescription}
-            </p>
-          </div>
-        </div>
-      </section>
-
-      <div className="mx-auto max-w-6xl px-4 md:px-8 lg:grid lg:grid-cols-[minmax(0,1fr)_340px] lg:gap-x-16">
-        {/* No desktop o recorte gruda logo abaixo do menu, que tem 129px até o xl e 85px depois. */}
-        <section
-          id="cupom"
-          aria-label={couponCodeOffer ? copy.cutoutLabel.code(offerType, coupon.brand) : copy.cutoutLabel.link(offerType, coupon.brand)}
-          className="relative z-10 -mt-11 rounded-2xl border-[2.5px] border-dashed border-marinho bg-white px-[18px] pt-6 pb-[18px] lg:sticky lg:top-38 lg:col-start-2 lg:row-start-1 lg:-mt-48 lg:self-start xl:top-28"
+      <StoreBody>
+        <StoreCutout
+          label={couponCodeOffer ? copy.cutoutLabel.code(offerType, coupon.brand) : copy.cutoutLabel.link(offerType, coupon.brand)}
+          verified={copy.verifiedOn(lastVerified)}
         >
-          <span
-            aria-hidden="true"
-            className="absolute -top-[15px] left-4 flex h-7 w-7 items-center justify-center rounded-full bg-amarelo-cupom"
-          >
-            <Scissors className="h-5 w-5" />
-          </span>
-
           {couponCodeOffer && !tiers && (
             <>
-              <code className={`block break-all text-center font-codigo font-extrabold ${cutoutCodeSize(couponCodeOffer.code)}`}>
-                {couponCodeOffer.code}
-              </code>
-              <CopyAndOpenStoreLink
-                code={couponCodeOffer.code}
-                brand={coupon.brand}
-                href={coupon.offerUrl}
-                copiedStatus={copy.copiedAndOpenedStatus(couponCodeOffer.code)}
-                className={`mt-3.5 ${PRIMARY_ACTION}`}
-                copiedChildren={
-                  <>
-                    <Check aria-hidden="true" className="h-5 w-5 shrink-0" />
-                    {copy.codeCopied}
-                  </>
-                }
-              >
-                {copy.copyAndGo}
-                <ExternalLink aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
-              </CopyAndOpenStoreLink>
-              <CopyCodeButton
-                code={couponCodeOffer.code}
-                brand={coupon.brand}
-                placement="coupon_page"
-                copiedStatus={copy.copiedStatus(couponCodeOffer.code)}
-                className={`mt-2.5 ${SECONDARY_ACTION}`}
-                copiedChildren={
-                  <>
-                    <Check aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
-                    {copy.copied}
-                  </>
-                }
-              >
-                <Copy aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
-                {copy.copyOnly}
-              </CopyCodeButton>
+              <CutoutCode code={couponCodeOffer.code} />
+              <CutoutCodeActions code={couponCodeOffer.code} brand={coupon.brand} href={coupon.offerUrl} copy={copy} />
             </>
           )}
 
@@ -455,15 +318,10 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
               )}
             </>
           )}
+        </StoreCutout>
 
-          <p className="mt-3.5 flex items-center justify-center gap-2 text-center text-[13px] font-bold leading-[18px] text-verde-escuro">
-            <CircleCheck aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
-            {copy.verifiedOn(lastVerified)}
-          </p>
-        </section>
-
-        <div className="mt-10 flex flex-col gap-12 lg:col-start-1 lg:row-start-1 lg:mt-14 lg:gap-14">
-          <LanguageLinks slug={coupon.slug} current={locale} label={copy.otherLanguagesLabel} />
+        <StoreContent>
+          <LanguageLinks links={getCouponLanguageLinks(coupon.slug)} current={locale} label={copy.otherLanguagesLabel} />
 
           {coupon.monthlyHighlight && (
             <div className="rounded-xl border-2 border-marinho p-4 md:p-5">
@@ -549,22 +407,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
 
           <section aria-labelledby="regras">
             <SectionHeading id="regras">{copy.rulesTitle}</SectionHeading>
-            <dl className="mt-5 flex flex-col gap-3.5">
-              {rules.map(({ icon: Icon, label, value }) => (
-                <div key={label} className="relative min-h-10 pl-[52px]">
-                  <dt className="text-[13px] font-bold leading-[18px] text-marinho-suave">
-                    <span
-                      aria-hidden="true"
-                      className="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-full border-2 border-marinho bg-amarelo-cupom"
-                    >
-                      <Icon className="h-5 w-5" />
-                    </span>
-                    {label}
-                  </dt>
-                  <dd className="text-[15px] font-bold leading-[22px]">{value}</dd>
-                </div>
-              ))}
-            </dl>
+            <RuleList rules={rules} />
           </section>
 
           {coupon.referral && (
@@ -573,23 +416,12 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
               <div className="mt-5 rounded-xl border-2 border-dashed border-marinho p-4">
                 <div className="flex flex-wrap items-center gap-3">
                   <code className="font-codigo text-[26px] font-extrabold tracking-[0.06em]">{coupon.referral.code}</code>
-                  <CopyCodeButton
+                  <CompactCopyButton
                     code={coupon.referral.code}
                     brand={coupon.brand}
-                    placement="coupon_page"
                     ariaLabel={copy.copyCodeAria(coupon.referral.code)}
-                    copiedStatus={copy.copiedStatus(coupon.referral.code)}
-                    className={`ml-auto flex min-h-11 items-center gap-2 rounded-lg border-2 border-marinho bg-laranja px-3.5 text-sm font-extrabold text-marinho data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-escuro data-[copied=true]:text-white ${FOCUS_RING}`}
-                    copiedChildren={
-                      <>
-                        <Check aria-hidden="true" className="h-[18px] w-[18px]" />
-                        {copy.copied}
-                      </>
-                    }
-                  >
-                    <Copy aria-hidden="true" className="h-[18px] w-[18px]" />
-                    {copy.copy}
-                  </CopyCodeButton>
+                    copy={copy}
+                  />
                 </div>
                 <p className="mt-3 text-sm font-medium leading-[21px] text-marinho-suave">{coupon.referral.instructions}</p>
                 <p className="mt-2 text-xs font-semibold leading-4 text-marinho-suave">
@@ -635,24 +467,14 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                 ? copy.howToTitle.code(offerType, couponCodeOffer.code)
                 : copy.howToTitle.link(coupon.brand)}
             </SectionHeading>
-            <ol className="mt-5 flex flex-col gap-3">
-              {offerInstructions.map((instruction, index) => (
-                <li key={instruction} className="flex items-start gap-3">
-                  <span
-                    aria-hidden="true"
-                    className="min-w-7 shrink-0 font-condensada text-[44px] font-black leading-10 font-stretch-extra-condensed"
-                  >
-                    {index + 1}
-                  </span>
-                  <span className="pt-2 text-[15px] font-semibold leading-[22px] md:text-base md:leading-6">{instruction}</span>
-                </li>
-              ))}
-            </ol>
-            <p className="mt-5 rounded-xl bg-verde-claro px-4 py-3 text-sm font-semibold leading-[21px] text-verde-escuro">
-              {couponCodeOffer
-                ? copy.codeFieldNote(<strong>{codeFieldLabel}</strong>)
-                : affiliateLinkOffer?.linkNote || copy.defaultLinkNote}
-            </p>
+            <StepList
+              steps={offerInstructions}
+              note={
+                couponCodeOffer
+                  ? copy.codeFieldNote(<strong>{codeFieldLabel}</strong>)
+                  : affiliateLinkOffer?.linkNote || copy.defaultLinkNote
+              }
+            />
           </section>
 
           <section aria-labelledby="sobre">
@@ -665,19 +487,12 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
               <SectionHeading id="leia-antes">{copy.relatedTitle}</SectionHeading>
               <div className="mt-5 grid gap-2.5 md:grid-cols-2">
                 {coupon.relatedContent.map((item) => (
-                  <Link
-                    key={item.url}
-                    href={item.url}
-                    className={`flex items-center gap-3 rounded-xl border-2 border-marinho px-3.5 py-3 transition-colors hover:bg-creme ${FOCUS_RING}`}
-                  >
-                    <span className="flex min-w-0 flex-1 flex-col gap-1">
-                      <span className="text-xs font-extrabold leading-4 text-marinho-suave">
-                        {copy.relatedType[item.type]} · {formatShortDate(item.publishedAt)}
-                      </span>
-                      <span className="text-[15px] font-bold leading-[21px]">{item.title}</span>
+                  <RelatedLink key={item.url} href={item.url}>
+                    <span className="text-xs font-extrabold leading-4 text-marinho-suave">
+                      {copy.relatedType[item.type]} · {formatShortDate(item.publishedAt)}
                     </span>
-                    <ChevronRight aria-hidden="true" className="h-5 w-5 shrink-0" />
-                  </Link>
+                    <span className="text-[15px] font-bold leading-[21px]">{item.title}</span>
+                  </RelatedLink>
                 ))}
               </div>
             </section>
@@ -715,8 +530,8 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
               </ul>
             </section>
           )}
-        </div>
-      </div>
+        </StoreContent>
+      </StoreBody>
 
       {otherCoupons.length > 0 && (
         <section aria-labelledby="outros-cupons" className="mx-auto mt-14 max-w-6xl md:px-8">
@@ -731,19 +546,14 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
         </section>
       )}
 
-      <section aria-labelledby="transparencia" className="mx-auto max-w-6xl px-4 pt-12 pb-10 md:px-8">
-        <h2 id="transparencia" className="text-[15px] font-extrabold leading-[22px]">
-          {copy.transparencyTitle}
-        </h2>
-        <p className="mt-1.5 max-w-[68ch] text-[13px] font-medium leading-5 text-marinho-suave">
-          {couponCodeOffer
-            ? copy.transparency.code(offerType, <strong className="text-marinho">{couponCodeOffer.code}</strong>)
-            : copy.transparency.link}
-        </p>
-      </section>
+      <StoreTransparency title={copy.transparencyTitle}>
+        {couponCodeOffer
+          ? copy.transparency.code(offerType, <strong className="text-marinho">{couponCodeOffer.code}</strong>)
+          : copy.transparency.link}
+      </StoreTransparency>
 
       <CouponDock
-        targetId="cupom"
+        targetId={STORE_CUTOUT_ID}
         brand={coupon.brand}
         storeUrl={coupon.offerUrl}
         storeLabel={storeLabel}

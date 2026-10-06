@@ -2,14 +2,14 @@ import {
   getPrimaryRewardCode,
   getActivePromoCoupons,
   getLatestYesStyleVerifiedAtISO,
+  type YesStylePromoOffer,
 } from '../src/lib/yesstyleCoupons';
 import {
   resolveYesStylePage,
   getYesStyleMetadata,
-  yesStyleLocales,
-  YesStyleCouponPage,
   getYesStyleBreadcrumbItems,
-} from '../src/components/YesStyleCouponPage';
+} from '../src/components/coupons/yesstylePage';
+import { getYesStylePage, yesStyleLocales } from '../src/components/coupons/yesstyleCopy';
 import { COUPONS } from '../src/lib/couponsData';
 import {
   getRewardArticleLanguageLinks,
@@ -207,9 +207,15 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
         errors.push(`resolved.verifiedAtISO esperado "${expectedMutatedLatest}" (data mutada mais recente), obteve "${resolved.verifiedAtISO}"`);
       }
 
-      // Check Japanese copy button text
-      if (locale === 'ja' && resolved.copy !== 'コードをコピー') {
-        errors.push(`Botão japonês de cópia com partícula incorreta: esperado "コードをコピー", obteve "${resolved.copy}"`);
+      // O H1 é montado em partes em volta do número grande e precisa dizer o mesmo que o título.
+      const { lead, prefix, suffix } = resolved.heroTitle;
+      const heroText = `${lead}${prefix}${resolved.newCustomerDiscount}%${suffix}`.replace(/\s/g, '');
+      if (heroText !== resolved.title.replace(/\s/g, '')) {
+        errors.push(`H1 diferente do título em locale "${locale}": "${lead} | ${prefix} | ${resolved.newCustomerDiscount}% | ${suffix}" x "${resolved.title}"`);
+      }
+
+      if (!resolved.firstOrder.discount.includes('99') || !resolved.nextOrders.discount.includes('44')) {
+        errors.push(`Descontos da 1ª compra e das seguintes não propagaram a mutação em locale "${locale}": "${resolved.firstOrder.discount}" / "${resolved.nextOrders.discount}"`);
       }
 
       // Check Promo offer mutation propagation in activePromoOffers
@@ -224,6 +230,9 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
           if (!foundPromo.copyAria.includes('PROMOTEST88') || foundPromo.copyAria.includes('MUTATIONTEST99')) {
             errors.push(`copyAria do cupom promocional contém código incorreto em locale "${locale}": "${foundPromo.copyAria}"`);
           }
+          if (foundPromo.conditions[0] !== getYesStylePage(locale)?.noMinimumLabel) {
+            errors.push(`Cupom de porcentagem sem a condição "sem valor mínimo" em locale "${locale}": "${foundPromo.conditions.join(' | ')}"`);
+          }
         }
       }
 
@@ -236,14 +245,21 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
       // Varrer todos os campos do resolved para verificar vazamentos
       const stringsToAudit: string[] = [
         resolved.title,
+        lead,
+        prefix,
+        suffix,
         resolved.description,
+        resolved.category,
         resolved.intro,
-        resolved.copyAria,
-        resolved.rewardDiscountValue,
+        resolved.rewardCodeLabel,
+        resolved.rewardFieldNote,
         resolved.promosSectionTitle,
+        resolved.promosIntro,
         resolved.emptyPromosNotice,
         resolved.emptyPromosSubtext,
-        resolved.discountValue,
+        ...resolved.activePromoOffers.flatMap((promo) => [...promo.conditions, promo.regionLabel]),
+        resolved.policyTitle,
+        ...Object.values(resolved.policyRules),
         resolved.instructionsTitle,
         ...resolved.instructions,
         resolved.note,
@@ -285,6 +301,54 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
         }
       }
     }
+
+    // 8. Condições e país de cupons que o JSON de hoje não tem: um em faixas, só para membros e só
+    // nos EUA, e um sem valor mínimo para todos os países.
+    const tieredPromo: YesStylePromoOffer = {
+      id: 'tiers-test',
+      code: 'TIERSTEST',
+      type: 'coupon',
+      status: 'active',
+      discount: { kind: 'tiers', currency: 'USD', tiers: [{ minSpend: 79, percent: 8 }, { minSpend: 199, percent: 15 }] },
+      verifiedAt: '2026-11-20',
+      regions: ['US'],
+      officialSourceUrl: 'https://www.yesstyle.com/en/',
+      membersOnly: true,
+    };
+    const openPromo: YesStylePromoOffer = {
+      ...tieredPromo,
+      id: 'open-test',
+      code: 'OPENTEST',
+      discount: { kind: 'percentage', value: 5 },
+      regions: ['GLOBAL'],
+      membersOnly: false,
+    };
+    for (const locale of yesStyleLocales) {
+      const page = getYesStylePage(locale);
+      const [tiered, open] = resolveYesStylePage(locale, primaryReward, [tieredPromo, openPromo])?.activePromoOffers ?? [];
+      if (!page || !tiered || !open) {
+        errors.push(`Cupons de teste de faixas não resolvidos em locale "${locale}"`);
+        continue;
+      }
+      if (tiered.discountLabel !== '8–15% OFF') {
+        errors.push(`Desconto em faixas esperado "8–15% OFF" em locale "${locale}", obteve "${tiered.discountLabel}"`);
+      }
+      const [firstTier = '', secondTier = '', members] = tiered.conditions;
+      const tierLineOk = (line: string, amount: string, percent: string) =>
+        line.includes('USD') && line.includes(amount) && line.replace(/\s/g, '').includes(percent) && !/\{\w+\}/.test(line);
+      if (tiered.conditions.length !== 3 || !tierLineOk(firstTier, '79', '8%') || !tierLineOk(secondTier, '199', '15%') || members !== page.membersOnlyLabel) {
+        errors.push(`Condições do cupom em faixas erradas em locale "${locale}": "${tiered.conditions.join(' | ')}"`);
+      }
+      if (!tiered.regionLabel || tiered.regionLabel === 'US' || tiered.regionLabel === page.regionUnconfirmed) {
+        errors.push(`País do cupom em faixas não traduzido em locale "${locale}": "${tiered.regionLabel}"`);
+      }
+      if (open.conditions.length !== 1 || open.conditions[0] !== page.noMinimumLabel) {
+        errors.push(`Cupom sem mínimo e sem login com condições erradas em locale "${locale}": "${open.conditions.join(' | ')}"`);
+      }
+      if (open.regionLabel !== page.allRegionsLabel) {
+        errors.push(`GLOBAL esperado como "${page.allRegionsLabel}" em locale "${locale}", obteve "${open.regionLabel}"`);
+      }
+    }
   } finally {
     // [P1 Fix]: Restaurar estado factual original de forma ESTRITA sem sobrescrever datas factuais
     primaryReward.code = origRewardCode;
@@ -317,6 +381,7 @@ if (require.main === module) {
     console.log(`   - Hreflangs: ${yesStyleLocales.length + 1} chaves validadas por igualdade total em TODOS os ${yesStyleLocales.length} locales!`);
     console.log('   - Sitemap: exatamente as URLs de YESSTYLE_LOCALES, contadas dinamicamente (sem heurísticas de slugs)!');
     console.log('   - Breadcrumbs: 3 níveis em PT e 2 níveis nos hubs internacionais sem vazamento para /cupons!');
+    console.log(`   - Cupons em faixas: valor mínimo em USD, login e país traduzidos nos ${yesStyleLocales.length} idiomas!`);
     process.exit(0);
   } else {
     console.error('❌ FALHA NO TESTE DE MUTAÇÃO B2 RIGOROSO:');

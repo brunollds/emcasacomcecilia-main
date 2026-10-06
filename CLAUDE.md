@@ -21,9 +21,10 @@ npm run validate:video       # metadados e páginas de exibição de vídeo
 npm run test:internal-links  # domínio, normalização e derivação de marca
 npm run test:coupon-offer-modes
 npm run test:coupon-translations  # lojas em outros idiomas: texto traduzido, códigos e links do PT
+npm run validate:yesstyle    # data/coupons/yesstyle.json; falha com oferta ativa vencida (data em UTC)
 npm run test:analytics-gate  # allowlist de hosts do GA4
 npm run test:html-lang       # depois do build: <html lang> de cada rota
-npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dock dos artigos
+npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas, SEO e textos das 10 páginas da YesStyle e dock dos artigos
 ```
 
 `npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
@@ -57,6 +58,7 @@ aconteceu:
 | Tipos do conteúdo | `src/lib/content/types.ts` |
 | Cupons | `src/lib/couponsData.ts` (união `discount-code \| affiliate-link`) |
 | Cupons em outros idiomas (hoje só a SHEIN) | `src/lib/couponTranslations.ts`: só texto; códigos, datas e campanhas vêm do cupom em PT. Textos da interface da página de loja em `src/components/coupons/couponStoreCopy.tsx` |
+| YesStyle: código de recompensa e cupons da loja | `data/coupons/yesstyle.json`, lido por `src/lib/yesstyleCoupons.ts`. Textos dos 10 idiomas em `src/components/coupons/yesstyleCopy.ts`, juntados aos dados em `yesstylePage.ts`. Manutenção na seção 3 de `docs/MANUTENCAO-MENSAL.md` |
 | Locales e clusters i18n | `src/lib/i18n/locales.ts` e `src/lib/i18n/clusters/` |
 | Vídeos | `src/lib/video-metadata.js` e `src/lib/video-pages.js` |
 | Links da marca e redes sociais | `src/lib/brandLinks.ts` |
@@ -127,6 +129,19 @@ vídeo, primeiras impressões e uso noturno.
 - Texto que é item flex (bullets, prós e contras) precisa de `min-w-0` para quebrar endereços
   longos; o contêiner do artigo já tem `wrap-break-word`.
 
+### Páginas de loja (cupons)
+
+- `src/components/coupons/CouponStorePage.tsx` (lojas de `couponsData.ts`) e
+  `src/components/YesStyleCouponPage.tsx` usam a mesma moldura,
+  `src/components/coupons/StoreLayout.tsx`, e o `CouponDock` de `CouponActions.tsx`: no celular,
+  o dock aparece depois que o recorte `#cupom` sobe e sai da tela.
+- O CECILIA010 é código de recompensa, não cupom: vai no campo Reward Code e soma com os cupons
+  da própria YesStyle. Nenhum texto ou `aria-label` pode chamá-lo de cupom nem falar em usá-lo
+  "com outros cupons"; `npm run test:build-output` confere as 10 páginas da YesStyle. Fora delas
+  ainda há rótulos compartilhados que dizem "cupom": o botão da faixa de benefícios da home
+  (`CouponStrip`), o `copyCoupon` do dock dos artigos (`couponCopyLocale.ts`) e o nome da
+  YesStyle na ItemList de `/cupons`.
+
 ### Styling
 Tailwind CSS v4 via `@import "tailwindcss"` in `globals.css`. Custom tokens defined in `@theme inline {}` block — use these instead of arbitrary values:
 
@@ -153,6 +168,7 @@ tamanho, sem sobrar uma ou duas letras sozinhas. O `text-balance` não age sobre
 | `/cupons` | `src/app/(pt)/cupons/page.tsx` |
 | `/cupons/[brand]` | `src/app/(pt)/cupons/[brand]/page.tsx` (YesStyle has its own page in `cupons/yesstyle/`) |
 | `/<locale>/coupons/[brand]` | `src/app/[locale]/coupons/[brand]/page.tsx`, only for stores in `couponTranslations.ts`; the static YesStyle routes win |
+| `/cupons/yesstyle`, `/<locale>/coupons/yesstyle` | `src/app/(pt)/cupons/yesstyle/page.tsx` and one static route per language in `src/app/(<locale>)/<locale>/coupons/yesstyle/page.tsx`; all render `src/components/YesStyleCouponPage.tsx` |
 | `/sobre` | `src/app/(pt)/sobre/page.js` |
 | `/contato` | `src/app/(pt)/contato/page.js` |
 | `/faqs` | `src/app/(pt)/faqs/page.js` |

@@ -6,9 +6,11 @@ import { CouponStoreLink } from '@/components/CouponComponents';
 import { copyTextWithFallback } from '@/lib/clipboardUtils';
 import { trackEvent } from '@/lib/analytics';
 
-type CopyPlacement =
+export type CopyPlacement =
   | 'coupon_page'
   | 'coupon_page_tiers'
+  // Cupons da própria loja num cartão abaixo do recorte, como os da YesStyle.
+  | 'coupon_page_promo'
   | 'coupon_page_others'
   | 'coupon_hub'
   | 'coupon_hub_featured'
