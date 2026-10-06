@@ -202,8 +202,9 @@ export function CouponDock({
             }
           >
             <Scissors aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
-            <span className={`min-w-0 break-all leading-5 ${dockCodeSize(copyAction.code)}`}>{copyAction.code}</span>
-            <Copy aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
+            <span className={`min-w-0 flex-1 break-all text-balance leading-5 ${dockCodeSize(copyAction.code)}`}>{copyAction.code}</span>
+            {/* Abaixo de 360px o ícone sai para o código caber em duas linhas; a tesoura já indica a cópia. */}
+            <Copy aria-hidden="true" className="h-[18px] w-[18px] shrink-0 max-[360px]:hidden" />
           </CopyCodeButton>
         ) : null}
         <CouponStoreLink

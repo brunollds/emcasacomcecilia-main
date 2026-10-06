@@ -268,12 +268,12 @@ export function ReviewMobileBottomBar({
               copiedChildren={
                 <>
                   <Check aria-hidden="true" className="h-4 w-4 shrink-0" />
-                  <span className={`min-w-0 break-all leading-5 ${dockCodeSize(coupon.code)}`}>{coupon.code}</span>
+                  <span className={`min-w-0 break-all text-balance leading-5 ${dockCodeSize(coupon.code)}`}>{coupon.code}</span>
                 </>
               }
             >
               <Scissors aria-hidden="true" className="h-4 w-4 shrink-0" />
-              <span className={`min-w-0 break-all leading-5 ${dockCodeSize(coupon.code)}`}>{coupon.code}</span>
+              <span className={`min-w-0 break-all text-balance leading-5 ${dockCodeSize(coupon.code)}`}>{coupon.code}</span>
             </CopyCodeButton>
           )}
         </div>
@@ -371,7 +371,7 @@ export function ReviewMobileBottomBar({
                 </h3>
               )}
               <div className="relative z-10 flex items-center gap-2.5 border-t-2 border-dashed border-marinho bg-white py-2 pr-2 pl-3.5 has-[[data-copied=true]]:border-solid has-[[data-copied=true]]:border-verde-escuro has-[[data-copied=true]]:bg-verde-claro">
-                <code className="min-w-0 flex-1 font-codigo text-xl leading-7 font-extrabold tracking-[0.04em] wrap-anywhere">
+                <code className="min-w-0 flex-1 font-codigo text-xl leading-7 font-extrabold tracking-[0.04em] break-all text-balance">
                   {coupon.code}
                 </code>
                 <CopyCodeButton

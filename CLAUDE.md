@@ -120,6 +120,9 @@ Tailwind CSS v4 via `@import "tailwindcss"` in `globals.css`. Custom tokens defi
 
 Font is Montserrat loaded via `next/font/google` in `RootLayoutShell.tsx` as `--font-montserrat`. Use `font-sans` or `font-heading` Tailwind utilities.
 
+Código de cupom que pode quebrar linha usa `break-all text-balance`: as linhas saem do mesmo
+tamanho, sem sobrar uma ou duas letras sozinhas. O `text-balance` não age sobre `wrap-anywhere`.
+
 ### Pages
 | Route | File |
 |-------|------|
