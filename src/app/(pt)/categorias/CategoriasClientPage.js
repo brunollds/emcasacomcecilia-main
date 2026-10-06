@@ -14,7 +14,6 @@ import {
   SUBCATEGORY_MAP,
 } from '@/constants/taxonomia';
 import CategoryIcon from '@/components/ui/CategoryIcon';
-import { getRecipeAllCategoryLabels, recipes } from '@/lib/data';
 
 const slugify = (value) => value
   .normalize('NFD')
@@ -23,12 +22,6 @@ const slugify = (value) => value
   .replace(/&/g, 'e')
   .replace(/[^a-z0-9]+/g, '-')
   .replace(/^-|-$/g, '');
-
-const getRecipeLabelSet = (recipe) => new Set(getRecipeAllCategoryLabels(recipe));
-
-const countRecipesByLabel = (label) => (
-  recipes.filter((recipe) => getRecipeLabelSet(recipe).has(label)).length
-);
 
 function getCategoryTheme(name) {
   if (PRIMARY_CATEGORIES.includes(name)) {
@@ -94,10 +87,10 @@ function getCategoryTheme(name) {
   };
 }
 
-const createItems = (labels, sortMode = 'count') => Array.from(new Set(labels))
+const createItems = (labels, recipeCounts, sortMode = 'count') => Array.from(new Set(labels))
   .map((label) => ({
     name: label,
-    count: countRecipesByLabel(label),
+    count: recipeCounts[label] ?? 0,
     slug: slugify(label),
   }))
   .filter((item) => item.count > 0)
@@ -107,45 +100,40 @@ const createItems = (labels, sortMode = 'count') => Array.from(new Set(labels))
       : b.count - a.count || a.name.localeCompare(b.name, 'pt-BR')
   ));
 
-const popularCategories = createItems([
-  ...PRIMARY_CATEGORIES,
-  ...CUISINES,
-  ...METHODS,
-  ...COLLECTIONS,
-]).slice(0, 8);
+const POPULAR_LABELS = [...PRIMARY_CATEGORIES, ...CUISINES, ...METHODS, ...COLLECTIONS];
 
-const staticSections = [
+const SECTIONS = [
   {
     title: 'Momento do dia',
     description: 'Descubra receitas para café da manhã, almoço, jantar, lanche da tarde e happy hour.',
-    items: createItems(MEAL_TIMES, 'alpha'),
+    labels: MEAL_TIMES,
   },
   {
     title: 'Por cozinha',
     description: 'Receitas brasileiras, italianas, mexicanas, indianas e outras origens culinárias.',
-    items: createItems(CUISINES, 'alpha'),
+    labels: CUISINES,
   },
   {
     title: 'Por método',
     description: 'Filtre por air fryer, forno, fogão, micro-ondas, fritura e outros modos de preparo.',
-    items: createItems(METHODS, 'alpha'),
+    labels: METHODS,
   },
   {
     title: 'Estilo alimentar',
     description: 'Uma forma rápida de encontrar receitas vegetarianas, veganas, sem glúten e afins.',
-    items: createItems(DIETS, 'alpha'),
+    labels: DIETS,
   },
   {
     title: 'Ingrediente-chave',
     description: 'Atalhos por ingrediente principal para quem já sabe o que quer cozinhar hoje.',
-    items: createItems(KEY_INGREDIENTS, 'alpha'),
+    labels: KEY_INGREDIENTS,
   },
   {
     title: 'Coleções',
     description: 'Seleções especiais para datas, ocasiões e receitas que combinam com cada momento.',
-    items: createItems(COLLECTIONS, 'alpha'),
+    labels: COLLECTIONS,
   },
-].filter((section) => section.items.length > 0);
+];
 
 function CategoryCard({ item, large = false, compact = false }) {
   const theme = getCategoryTheme(item.name);
@@ -232,17 +220,23 @@ function SectionShell({ children, subtle = false }) {
   );
 }
 
-export default function CategoriasClientPage() {
-  const availablePrimaryCategories = useMemo(
-    () => PRIMARY_CATEGORIES.filter((label) => recipes.some((recipe) => recipe.primaryCategory === label)),
-    [],
+export default function CategoriasClientPage({ recipeCounts, primaryCategories }) {
+  const popularCategories = useMemo(
+    () => createItems(POPULAR_LABELS, recipeCounts).slice(0, 8),
+    [recipeCounts],
   );
-  const [selectedPrimaryCategory, setSelectedPrimaryCategory] = useState(availablePrimaryCategories[0] || null);
+  const staticSections = useMemo(
+    () => SECTIONS
+      .map(({ title, description, labels }) => ({ title, description, items: createItems(labels, recipeCounts, 'alpha') }))
+      .filter((section) => section.items.length > 0),
+    [recipeCounts],
+  );
+  const [selectedPrimaryCategory, setSelectedPrimaryCategory] = useState(primaryCategories[0] || null);
 
   const selectedSubcategories = useMemo(() => {
     if (!selectedPrimaryCategory) return [];
-    return createItems(SUBCATEGORY_MAP[selectedPrimaryCategory] || []);
-  }, [selectedPrimaryCategory]);
+    return createItems(SUBCATEGORY_MAP[selectedPrimaryCategory] || [], recipeCounts);
+  }, [selectedPrimaryCategory, recipeCounts]);
 
   return (
     <main className="min-h-screen bg-[#fef9f3]">
@@ -321,13 +315,13 @@ export default function CategoriasClientPage() {
             </div>
 
             <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 xl:grid-cols-5">
-              {availablePrimaryCategories.map((category) => {
+              {primaryCategories.map((category) => {
                 const isActive = category === selectedPrimaryCategory;
                 return (
                   <PrimaryCategorySelectorCard
                     key={category}
                     category={category}
-                    count={countRecipesByLabel(category)}
+                    count={recipeCounts[category] ?? 0}
                     isActive={isActive}
                     onClick={() => setSelectedPrimaryCategory(category)}
                   />
