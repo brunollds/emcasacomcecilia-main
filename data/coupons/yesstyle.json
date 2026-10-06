@@ -314,6 +314,31 @@
       "Use no campo Coupon Code; pode ser combinado com preços promocionais existentes, CECILIA010 no campo Reward Code e YS Points, mas apenas um cupom promocional por pedido.",
       "O desconto é aplicado aos preços dos produtos, não ao frete, reenvio ou outras taxas; itens inelegíveis são informados na página do produto ou no checkout."
     ],
+    "status": "expired",
+    "regions": ["GLOBAL"]
+  },
+  {
+    "id": "mids26-promo",
+    "code": "MIDS26",
+    "type": "coupon",
+    "discount": {
+      "kind": "text",
+      "label": "8–15% OFF"
+    },
+    "startsAt": "2026-10-05",
+    "expiresAt": "2026-10-08",
+    "verifiedAt": "2026-10-05",
+    "officialSourceUrl": "https://www.yesstyle.com/en/",
+    "affiliateUrl": "https://ystyle.co/rQYQv",
+    "eligibility": [
+      "8% OFF em pedidos a partir de US$ 79",
+      "10% OFF em pedidos a partir de US$ 149",
+      "15% OFF em pedidos a partir de US$ 199"
+    ],
+    "restrictions": [
+      "Válido para membros YesStyle até 08/10/2026; o contador exibido na verificação indicava término em 2 dias, 21 horas e 56 minutos.",
+      "Use MIDS26 no campo Coupon Code; confirme a elegibilidade e o encerramento no checkout oficial."
+    ],
     "status": "active",
     "regions": ["GLOBAL"]
   }
