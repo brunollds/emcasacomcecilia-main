@@ -3,10 +3,12 @@ import Link from 'next/link';
 import { ArrowRight, ChevronRight, PlayCircle, ShieldCheck } from 'lucide-react';
 import TextToSpeechButton from '@/components/TextToSpeechButton';
 import { CouponStoreLink } from '@/components/CouponComponents';
+import { asSentence } from '@/components/coupons/CouponBlocks';
 import { ShareBar } from '@/components/shared/ShareBar';
 import { ReviewGallerySection } from './ReviewGallerySection';
 import { ArticleByline, ChangelogDetails, EditorialAmbientBackground, EditorialReveal, SectionHeadingReveal, SectionLinkButton, EditorialNotePill } from '@/components/editorial';
 import { contentSectionsToPlainText, formatDate, generateSectionIds, type Review, type ReviewViewModel } from '@/lib/content';
+import { getCouponBySlug } from '@/lib/couponsData';
 import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 import { ReadingProgressBar } from './ReadingProgressBar';
 import { ReviewContentSections } from './ReviewContentSections';
@@ -252,7 +254,7 @@ export function ReviewNotebookTemplate({
   const hasProsOrCons = (review.pros?.length ?? 0) > 0 || (review.cons?.length ?? 0) > 0;
   const shouldRenderVerdict = kind === 'produto' && (hasVerdictStars || hasRating || hasProsOrCons);
   if (shouldRenderVerdict) {
-    tocItems.push({ id: 'veredito', heading: 'Veredito final' });
+    tocItems.push({ id: 'veredito', heading: ui.verdictToc });
   }
 
   const hasProductSpec = review.productSpec && review.productSpec.length > 0;
@@ -276,6 +278,14 @@ export function ReviewNotebookTemplate({
   const hasCta = Boolean(effectiveCta?.url && effectiveCta?.label);
   const isPortraitHero = review.imageAspect === 'portrait';
 
+  // A gaveta do celular repete o desconto e a regra da loja em /cupons quando o artigo usa o
+  // mesmo código. Esses textos estão em português; nos outros idiomas o card mostra só o código.
+  const store = review.affiliate ? getCouponBySlug(review.affiliate) : undefined;
+  const storeOffer =
+    couponCopyLocale === 'pt' && store?.offerMode === 'discount-code' && !store.tiers?.length && store.code === review.coupon
+      ? { discount: store.discount, note: asSentence(store.shortDescription), watermark: store.brandWatermark }
+      : undefined;
+
   const stepSections = (review.contentSections || []).filter((s) => isStepHeading(s.heading));
   const firstStepIndex = (review.contentSections || []).findIndex((s) => isStepHeading(s.heading));
 
@@ -294,7 +304,10 @@ export function ReviewNotebookTemplate({
 
   return (
     <>
-      <ReadingProgressBar />
+      {/* No celular o progresso de leitura fica no dock do sumário. */}
+      <div className="hidden lg:block">
+        <ReadingProgressBar />
+      </div>
       <EditorialAmbientBackground variant="review" className="review-page-bg min-h-screen pb-20">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
@@ -302,7 +315,7 @@ export function ReviewNotebookTemplate({
           <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
         )}
 
-        <div className="mx-auto max-w-6xl px-4 py-6 pb-28 md:py-10 lg:pb-10">
+        <div className="mx-auto max-w-6xl px-4 py-6 md:py-10">
           {/* Header editorial */}
           <header className="mb-10">
             {/* Fila do topo: categoria + breadcrumb */}
@@ -791,12 +804,15 @@ export function ReviewNotebookTemplate({
         </div>
       </EditorialAmbientBackground>
 
+      {/* Filho direto do <body>: dentro do fundo editorial o sticky viraria relative. */}
       <ReviewMobileBottomBar
-        review={review}
-        kind={kind}
+        locale={couponCopyLocale}
+        reviewSlug={review.slug}
         tocItems={tocItems}
-        effectiveCta={effectiveCta}
-        relatedArticleLinks={relatedArticleLinks}
+        affiliate={review.affiliate}
+        coupon={review.coupon ? { code: review.coupon, brand: store?.brand, offer: storeOffer } : undefined}
+        cta={effectiveCta && hasCta ? { url: effectiveCta.url, label: effectiveCta.label, sponsored: effectiveCta.sponsored } : undefined}
+        related={relatedArticleLinks}
       />
     </>
   );

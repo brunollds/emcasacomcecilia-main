@@ -24,7 +24,7 @@ const tocTitlesByLocale: Record<Locale, string> = {
   'zh-hans': '目录',
 };
 
-export interface ReviewSidebarProps {
+interface ReviewSidebarProps {
   review: Review;
   kind: ReviewKind;
   tocItems: TocItem[];
@@ -32,7 +32,6 @@ export interface ReviewSidebarProps {
   relatedArticleLinks?: ResolvedRelatedArticle[];
 }
 
-type ReviewConversionPlacement = 'review_sidebar' | 'review_mobile_drawer';
 export type ResolvedRelatedArticle = NonNullable<Review['relatedArticles']>[number] & { href: string };
 
 function StarRating({ rating }: { rating: number }): React.ReactElement {
@@ -63,13 +62,11 @@ function SidebarConversionCards({
   effectiveCta,
   reviewSlug,
   affiliate,
-  placement = 'review_sidebar',
 }: {
   coupon?: string;
   effectiveCta?: { url: string; label: string; text?: string; sponsored?: boolean } | null;
   reviewSlug: string;
   affiliate?: string;
-  placement?: ReviewConversionPlacement;
 }): React.ReactElement | null {
   const [copied, setCopied] = useState(false);
   const timeoutRef = useRef<NodeJS.Timeout | null>(null);
@@ -84,7 +81,7 @@ function SidebarConversionCards({
       coupon_code: coupon,
       ...(affiliate && { brand: affiliate }),
       content_slug: reviewSlug,
-      placement,
+      placement: 'review_sidebar',
     });
 
     setCopied(true);
@@ -141,7 +138,7 @@ function SidebarConversionCards({
           contentSlug={reviewSlug}
           linkLabel={effectiveCta.label}
           sponsored={effectiveCta.sponsored}
-          placement={placement}
+          placement="review_sidebar"
           className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-[#ff6b35] px-5 py-2.5 text-sm font-bold text-white transition-all hover:-translate-y-0.5 hover:bg-[#e55a26] hover:shadow-md"
         >
           {effectiveCta.label}
@@ -152,25 +149,13 @@ function SidebarConversionCards({
   );
 }
 
-export interface ReviewSidebarContentProps {
-  review: Review;
-  kind: ReviewKind;
-  tocItems: TocItem[];
-  effectiveCta?: { url: string; label: string; text?: string; sponsored?: boolean } | null;
-  relatedArticleLinks?: ResolvedRelatedArticle[];
-  onTocLinkClick?: () => void;
-  conversionPlacement?: ReviewConversionPlacement;
-}
-
-export function ReviewSidebarContent({
+export function ReviewSidebar({
   review,
   kind,
   tocItems,
   effectiveCta,
   relatedArticleLinks = [],
-  onTocLinkClick,
-  conversionPlacement = 'review_sidebar',
-}: ReviewSidebarContentProps): React.ReactElement | null {
+}: ReviewSidebarProps): React.ReactElement | null {
   // Unified order for all kinds
   const stars = kind === 'produto' ? review.verdict?.stars ?? review.rating : undefined;
   const recommendation = kind === 'produto' ? review.verdict?.recommendation : undefined;
@@ -196,7 +181,6 @@ export function ReviewSidebarContent({
               <li key={item.id}>
                 <a
                   href={`#${item.id}`}
-                  onClick={onTocLinkClick}
                   aria-current={index === activeIndex ? 'location' : undefined}
                   className={
                     index === activeIndex
@@ -219,7 +203,6 @@ export function ReviewSidebarContent({
           effectiveCta={effectiveCta}
           reviewSlug={review.slug}
           affiliate={review.affiliate}
-          placement={conversionPlacement}
         />
       )}
 
@@ -259,23 +242,5 @@ export function ReviewSidebarContent({
         </div>
       )}
     </div>
-  );
-}
-
-export function ReviewSidebar({
-  review,
-  kind,
-  tocItems,
-  effectiveCta,
-  relatedArticleLinks,
-}: ReviewSidebarProps): React.ReactElement | null {
-  return (
-    <ReviewSidebarContent
-      review={review}
-      kind={kind}
-      tocItems={tocItems}
-      effectiveCta={effectiveCta}
-      relatedArticleLinks={relatedArticleLinks}
-    />
   );
 }

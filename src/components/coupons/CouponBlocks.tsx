@@ -91,6 +91,16 @@ const FIGURE_SIZES = {
     off: 'text-[14px] leading-none',
     words: 'text-[26px] leading-[0.95]',
   },
+  // Canhoto do cupom na gaveta do sumário dos artigos, com 92px de largura.
+  stub: {
+    prefix: 'text-xs leading-4',
+    currency: 'pt-1 text-[22px] leading-none',
+    value: 'text-[52px] leading-[0.88] tracking-[-0.02em]',
+    unitColumn: 'pt-1',
+    unit: 'text-[22px] leading-[0.9]',
+    off: 'text-[15px] leading-none',
+    words: 'text-[24px] leading-[0.95]',
+  },
 } as const;
 
 export function DiscountFigure({ discount, size }: { discount: string; size: keyof typeof FIGURE_SIZES }) {
@@ -285,7 +295,7 @@ export function layoutShelf(coupons: Coupon[]) {
   });
 }
 
-const asSentence = (text: string) => {
+export const asSentence = (text: string) => {
   const trimmed = text.trim();
   return `${trimmed.charAt(0).toUpperCase()}${trimmed.slice(1)}${/[.!?]$/.test(trimmed) ? '' : '.'}`;
 };

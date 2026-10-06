@@ -12,9 +12,14 @@ type CopyPlacement =
   | 'coupon_page_others'
   | 'coupon_hub'
   | 'coupon_hub_featured'
-  | 'bottom_bar';
+  | 'bottom_bar'
+  | 'review_mobile_dock'
+  | 'review_mobile_drawer';
 
-function useCopyCode(code: string, brand: string, placement: CopyPlacement) {
+// Nos artigos a marca é o afiliado, que pode faltar, e o slug do artigo vai junto.
+type CopyTracking = { placement: CopyPlacement; brand?: string; contentSlug?: string };
+
+function useCopyCode(code: string, { placement, brand, contentSlug }: CopyTracking) {
   const [copied, setCopied] = useState(false);
   const timeoutRef = useRef<number | undefined>(undefined);
 
@@ -22,7 +27,12 @@ function useCopyCode(code: string, brand: string, placement: CopyPlacement) {
 
   const copy = async () => {
     if (!(await copyTextWithFallback(code))) return;
-    trackEvent('coupon_copy', { coupon_code: code, brand, placement });
+    trackEvent('coupon_copy', {
+      coupon_code: code,
+      ...(brand && { brand }),
+      ...(contentSlug && { content_slug: contentSlug }),
+      placement,
+    });
     setCopied(true);
     window.clearTimeout(timeoutRef.current);
     timeoutRef.current = window.setTimeout(() => setCopied(false), 2200);
@@ -31,10 +41,8 @@ function useCopyCode(code: string, brand: string, placement: CopyPlacement) {
   return { copied, copy };
 }
 
-type CopyCodeButtonProps = {
+type CopyCodeButtonProps = CopyTracking & {
   code: string;
-  brand: string;
-  placement: CopyPlacement;
   className: string;
   children: ReactNode;
   copiedChildren: ReactNode;
@@ -49,13 +57,14 @@ export function CopyCodeButton({
   code,
   brand,
   placement,
+  contentSlug,
   className,
   children,
   copiedChildren,
   ariaLabel,
   copiedStatus,
 }: CopyCodeButtonProps) {
-  const { copied, copy } = useCopyCode(code, brand, placement);
+  const { copied, copy } = useCopyCode(code, { placement, brand, contentSlug });
 
   return (
     <>
@@ -90,7 +99,7 @@ export function CopyAndOpenStoreLink({
   copiedChildren,
   copiedStatus,
 }: CopyAndOpenStoreLinkProps) {
-  const { copied, copy } = useCopyCode(code, brand, 'coupon_page');
+  const { copied, copy } = useCopyCode(code, { placement: 'coupon_page', brand });
 
   const handleClick = () => {
     void copy();
@@ -129,7 +138,7 @@ type CouponDockProps = {
   tiersAction?: { href: string; label: string };
 };
 
-const dockCodeSize = (code: string) =>
+export const dockCodeSize = (code: string) =>
   code.length <= 10 ? 'text-[17px]' : code.length <= 13 ? 'text-[15px]' : 'text-[13px]';
 
 // Aparece só depois que o recorte com o código sai da tela. Fica sticky no fim do <main>,
