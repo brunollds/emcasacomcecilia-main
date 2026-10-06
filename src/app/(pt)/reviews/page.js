@@ -1,4 +1,3 @@
-import { Suspense } from 'react';
 import { publishedReviews } from '@/lib/data';
 import {
   getListedPortugueseReviews,
@@ -31,9 +30,5 @@ export default function ReviewsPage() {
     ...listed.filter((review) => !review.isNew),
   ];
 
-  return (
-    <Suspense fallback={<div className="min-h-screen bg-[#fef9f3]" />}>
-      <ReviewsClientPage reviews={reviews} />
-    </Suspense>
-  );
+  return <ReviewsClientPage reviews={reviews} />;
 }

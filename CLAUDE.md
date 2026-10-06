@@ -73,6 +73,13 @@ dados por props de um componente servidor ou de módulos sem o índice, como `sr
 Logo depois do `next build`, o `npm run build` roda `scripts/test-client-bundle.mjs`
 (`npm run test:client-bundle`), que falha se algum chunk do navegador trouxer o índice.
 
+Filtro que só muda a query string da mesma página (ex.: `/receitas`, `/reviews`) não usa
+`router.replace`/`push`: o router baixa de novo o payload RSC da página — com todos os cards — a
+cada clique. `/receitas` usa `window.history.replaceState`, que o Next sincroniza com o
+`useSearchParams` sem ida ao servidor. `/reviews` usa `pushState` e lê a categoria da URL com
+`useSyncExternalStore`; o `useSearchParams` fica num componente vazio com Suspense próprio, só para
+avisar das mudanças, e assim o prerender não para no Suspense e o HTML estático traz os cards.
+
 ### Mídia (imagens e vídeos) — biblioteca CDN em migração
 
 Existe uma frente em andamento (`docs/GUIA-MIDIA-EDITORIAL.md` e

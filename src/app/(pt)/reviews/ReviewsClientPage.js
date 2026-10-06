@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { Suspense, useEffect, useState, useSyncExternalStore } from 'react';
 import Image from 'next/image';
 import { useSearchParams } from 'next/navigation';
 import { ArrowRight, Leaf } from 'lucide-react';
@@ -33,9 +33,34 @@ const categoryFilters = [
   ...REVIEW_CATEGORIES,
 ];
 
+// A categoria sai da URL só no navegador. Com useSearchParams na página inteira, o prerender
+// parava no Suspense e o HTML estático ia sem nenhum card; agora o servidor (e a hidratação)
+// renderiza "Todos", e o useSearchParams fica isolado no CategoryUrlListener, que só avisa quando
+// a categoria da URL muda: filtro, voltar/avançar ou link para /reviews.
+const CATEGORY_CHANGE_EVENT = 'reviews-category-change';
+
+function subscribeToCategory(onChange) {
+  window.addEventListener(CATEGORY_CHANGE_EVENT, onChange);
+  return () => window.removeEventListener(CATEGORY_CHANGE_EVENT, onChange);
+}
+
+const getUrlCategory = () => new URLSearchParams(window.location.search).get('categoria');
+const getServerCategory = () => null;
+
+function CategoryUrlListener() {
+  const category = useSearchParams().get('categoria');
+
+  useEffect(() => {
+    window.dispatchEvent(new Event(CATEGORY_CHANGE_EVENT));
+  }, [category]);
+
+  return null;
+}
+
 export default function ReviewsClientPage({ reviews }) {
-  const searchParams = useSearchParams();
-  const activeCategory = parseReviewCategory(searchParams.get('categoria'));
+  const activeCategory = parseReviewCategory(
+    useSyncExternalStore(subscribeToCategory, getUrlCategory, getServerCategory)
+  );
   const [pagination, setPagination] = useState({
     category: activeCategory,
     visible: INITIAL_COUNT,
@@ -53,7 +78,7 @@ export default function ReviewsClientPage({ reviews }) {
   const hasMore = filtered.length > visible;
 
   const handleCategoryChange = (category) => {
-    const params = new URLSearchParams(searchParams.toString());
+    const params = new URLSearchParams(window.location.search);
 
     if (category) {
       params.set('categoria', category);
@@ -69,6 +94,10 @@ export default function ReviewsClientPage({ reviews }) {
 
   return (
     <main className="min-h-screen bg-[#fef9f3]">
+      <Suspense fallback={null}>
+        <CategoryUrlListener />
+      </Suspense>
+
       {/* Hero */}
       <section className="relative overflow-hidden border-b border-black/5 bg-[#0f1d3a] px-6 py-14 text-white md:py-16">
         <div className="pointer-events-none absolute inset-0 select-none overflow-hidden">
