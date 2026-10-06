@@ -10,25 +10,27 @@ export type CouponCopyLabels = {
   inlineSuffix: string;
 };
 
+// Dizem "código", não "cupom": valem também para o CECILIA010 da YesStyle, que é código de
+// recompensa. O rótulo de cópia é o mesmo copyCodeAria das páginas de loja.
 const couponCopyLabels: Record<CouponCopyLocale, CouponCopyLabels> = {
   pt: {
     copy: 'Copiar',
     copied: 'Copiado',
-    copyCoupon: (coupon) => `Copiar cupom ${coupon}`,
+    copyCoupon: (coupon) => `Copiar o código ${coupon}`,
     inlinePrefix: 'Use o código',
     inlineSuffix: 'no checkout',
   },
   en: {
     copy: 'Copy',
     copied: 'Copied',
-    copyCoupon: (coupon) => `Copy coupon ${coupon}`,
+    copyCoupon: (coupon) => `Copy the code ${coupon}`,
     inlinePrefix: 'Use code',
     inlineSuffix: 'at checkout',
   },
   es: {
     copy: 'Copiar',
     copied: 'Copiado',
-    copyCoupon: (coupon) => `Copiar cupón ${coupon}`,
+    copyCoupon: (coupon) => `Copiar el código ${coupon}`,
     inlinePrefix: 'Usa el código',
     inlineSuffix: 'al finalizar la compra',
   },
@@ -55,8 +57,8 @@ const couponCopyLabels: Record<CouponCopyLocale, CouponCopyLabels> = {
   },
   ko: { copy: '복사', copied: '복사됨', copyCoupon: (coupon) => `코드 ${coupon} 복사`, inlinePrefix: '코드', inlineSuffix: '결제 시 사용' },
   ja: { copy: 'コピー', copied: 'コピー済み', copyCoupon: (coupon) => `コード ${coupon} をコピー`, inlinePrefix: 'コード', inlineSuffix: 'をチェックアウトで使う' },
-  'zh-hant': { copy: '複製', copied: '已複製', copyCoupon: (coupon) => `複製優惠碼 ${coupon}`, inlinePrefix: '使用優惠碼', inlineSuffix: '於結帳時輸入' },
-  'zh-hans': { copy: '复制', copied: '已复制', copyCoupon: (coupon) => `复制优惠码 ${coupon}`, inlinePrefix: '使用优惠码', inlineSuffix: '在结账时输入' },
+  'zh-hant': { copy: '複製', copied: '已複製', copyCoupon: (coupon) => `複製代碼 ${coupon}`, inlinePrefix: '使用代碼', inlineSuffix: '於結帳時輸入' },
+  'zh-hans': { copy: '复制', copied: '已复制', copyCoupon: (coupon) => `复制代码 ${coupon}`, inlinePrefix: '使用代码', inlineSuffix: '在结账时输入' },
 };
 
 export function getCouponCopyLabels(locale: CouponCopyLocale = 'pt'): CouponCopyLabels {

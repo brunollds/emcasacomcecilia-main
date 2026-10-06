@@ -20,6 +20,8 @@ type DockCopy = {
   sectionsNav: string;
   readingProgress: string;
   couponLabel: (brand?: string) => string;
+  // O CECILIA010 da YesStyle não é cupom; o termo é o mesmo da página da YesStyle.
+  rewardCodeLabel: (brand?: string) => string;
   copiedStatus: (code: string) => string;
   relatedTitle: string;
 };
@@ -35,6 +37,7 @@ const dockCopy: Record<Locale, DockCopy> = {
     sectionsNav: 'Seções do artigo',
     readingProgress: 'Progresso de leitura',
     couponLabel: (brand) => (brand ? `Cupom ${brand}` : 'Cupom de desconto'),
+    rewardCodeLabel: (brand) => (brand ? `Código de recompensa ${brand}` : 'Código de recompensa'),
     copiedStatus: (code) => `Código ${code} copiado.`,
     relatedTitle: 'Leia também',
   },
@@ -46,6 +49,7 @@ const dockCopy: Record<Locale, DockCopy> = {
     sectionsNav: 'Article sections',
     readingProgress: 'Reading progress',
     couponLabel: (brand) => (brand ? `${brand} code` : 'Discount code'),
+    rewardCodeLabel: (brand) => (brand ? `${brand} Reward Code` : 'Reward Code'),
     copiedStatus: (code) => `Code ${code} copied.`,
     relatedTitle: 'Read next',
   },
@@ -57,6 +61,7 @@ const dockCopy: Record<Locale, DockCopy> = {
     sectionsNav: 'Secciones del artículo',
     readingProgress: 'Progreso de lectura',
     couponLabel: (brand) => (brand ? `Código ${brand}` : 'Código de descuento'),
+    rewardCodeLabel: (brand) => (brand ? `Código de recompensa ${brand}` : 'Código de recompensa'),
     copiedStatus: (code) => `Código ${code} copiado.`,
     relatedTitle: 'Lee también',
   },
@@ -68,6 +73,7 @@ const dockCopy: Record<Locale, DockCopy> = {
     sectionsNav: 'Sections de l’article',
     readingProgress: 'Progression de la lecture',
     couponLabel: (brand) => (brand ? `Code ${brand}` : 'Code promo'),
+    rewardCodeLabel: (brand) => (brand ? `Code récompense ${brand}` : 'Code récompense'),
     copiedStatus: (code) => `Code ${code} copié.`,
     relatedTitle: 'À lire aussi',
   },
@@ -79,6 +85,7 @@ const dockCopy: Record<Locale, DockCopy> = {
     sectionsNav: 'Abschnitte des Artikels',
     readingProgress: 'Lesefortschritt',
     couponLabel: (brand) => (brand ? `${brand}-Code` : 'Rabattcode'),
+    rewardCodeLabel: (brand) => (brand ? `${brand} Reward Code` : 'Reward Code'),
     copiedStatus: (code) => `Code ${code} kopiert.`,
     relatedTitle: 'Weiterlesen',
   },
@@ -90,6 +97,7 @@ const dockCopy: Record<Locale, DockCopy> = {
     sectionsNav: 'Sezioni dell’articolo',
     readingProgress: 'Avanzamento della lettura',
     couponLabel: (brand) => (brand ? `Codice ${brand}` : 'Codice sconto'),
+    rewardCodeLabel: (brand) => (brand ? `Codice ricompensa ${brand}` : 'Codice ricompensa'),
     copiedStatus: (code) => `Codice ${code} copiato.`,
     relatedTitle: 'Leggi anche',
   },
@@ -101,6 +109,7 @@ const dockCopy: Record<Locale, DockCopy> = {
     sectionsNav: '본문 섹션',
     readingProgress: '읽기 진행률',
     couponLabel: (brand) => (brand ? `${brand} 코드` : '할인 코드'),
+    rewardCodeLabel: (brand) => (brand ? `${brand} 리워드 코드` : '리워드 코드'),
     copiedStatus: (code) => `코드 ${code} 복사 완료.`,
     relatedTitle: '함께 읽어 보세요',
   },
@@ -112,6 +121,7 @@ const dockCopy: Record<Locale, DockCopy> = {
     sectionsNav: '記事のセクション',
     readingProgress: '読み進めた割合',
     couponLabel: (brand) => (brand ? `${brand}のコード` : '割引コード'),
+    rewardCodeLabel: (brand) => (brand ? `${brand}のリワードコード` : 'リワードコード'),
     copiedStatus: (code) => `コード ${code} をコピーしました。`,
     relatedTitle: 'あわせて読みたい',
   },
@@ -123,6 +133,7 @@ const dockCopy: Record<Locale, DockCopy> = {
     sectionsNav: '文章段落',
     readingProgress: '閱讀進度',
     couponLabel: (brand) => (brand ? `${brand} 優惠碼` : '優惠碼'),
+    rewardCodeLabel: (brand) => (brand ? `${brand} 獎勵碼` : '獎勵碼'),
     copiedStatus: (code) => `已複製代碼 ${code}。`,
     relatedTitle: '延伸閱讀',
   },
@@ -134,6 +145,7 @@ const dockCopy: Record<Locale, DockCopy> = {
     sectionsNav: '文章段落',
     readingProgress: '阅读进度',
     couponLabel: (brand) => (brand ? `${brand} 优惠码` : '优惠码'),
+    rewardCodeLabel: (brand) => (brand ? `${brand} 奖励码` : '奖励码'),
     copiedStatus: (code) => `已复制代码 ${code}。`,
     relatedTitle: '延伸阅读',
   },
@@ -150,6 +162,8 @@ export interface ReviewMobileBottomBarProps {
   coupon?: {
     code: string;
     brand?: string;
+    // Código de recompensa, como o CECILIA010 da YesStyle: o card não o chama de cupom.
+    kind?: 'reward';
     // Desconto e regra da loja em /cupons, quando ela usa o mesmo código.
     offer?: { discount: string; note: string; watermark?: string };
   };
@@ -186,6 +200,7 @@ export function ReviewMobileBottomBar({
 
   const copy = dockCopy[locale];
   const couponCopy = getCouponCopyLabels(locale);
+  const couponTitle = coupon?.kind === 'reward' ? copy.rewardCodeLabel(coupon.brand) : copy.couponLabel(coupon?.brand);
   const visible = activeIndex >= 0;
   const current = Math.max(activeIndex, 0);
   const total = tocItems.length;
@@ -359,7 +374,7 @@ export function ReviewMobileBottomBar({
                     </div>
                     <div className="relative z-10 flex min-w-0 flex-1 flex-col gap-1 px-3 py-2.5">
                       <h3 id={couponTitleId} className="text-[15px] leading-5 font-extrabold">
-                        {copy.couponLabel(coupon.brand)}
+                        {couponTitle}
                       </h3>
                       <p className="text-[12.5px] leading-[17px] font-medium text-marinho-suave">{coupon.offer.note}</p>
                     </div>
@@ -367,7 +382,7 @@ export function ReviewMobileBottomBar({
                 </>
               ) : (
                 <h3 id={couponTitleId} className="px-3.5 pt-2.5 pb-2 text-[15px] leading-5 font-extrabold">
-                  {copy.couponLabel(coupon.brand)}
+                  {couponTitle}
                 </h3>
               )}
               <div className="relative z-10 flex items-center gap-2.5 border-t-2 border-dashed border-marinho bg-white py-2 pr-2 pl-3.5 has-[[data-copied=true]]:border-solid has-[[data-copied=true]]:border-verde-escuro has-[[data-copied=true]]:bg-verde-claro">

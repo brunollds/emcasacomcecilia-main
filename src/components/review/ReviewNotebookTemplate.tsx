@@ -278,12 +278,14 @@ export function ReviewNotebookTemplate({
   const hasCta = Boolean(effectiveCta?.url && effectiveCta?.label);
   const isPortraitHero = review.imageAspect === 'portrait';
 
-  // A gaveta do celular repete o desconto e a regra da loja em /cupons quando o artigo usa o
-  // mesmo código. Esses textos estão em português; nos outros idiomas o card mostra só o código.
+  // Quando o artigo usa o código da loja em /cupons, a gaveta do celular diz, em qualquer idioma,
+  // se ele é de recompensa. Em português ela também repete o desconto e a regra da loja, textos que
+  // só existem nessa língua.
   const store = review.affiliate ? getCouponBySlug(review.affiliate) : undefined;
+  const sameCodeStore = store?.offerMode === 'discount-code' && store.code === review.coupon ? store : undefined;
   const storeOffer =
-    couponCopyLocale === 'pt' && store?.offerMode === 'discount-code' && !store.tiers?.length && store.code === review.coupon
-      ? { discount: store.discount, note: asSentence(store.shortDescription), watermark: store.brandWatermark }
+    couponCopyLocale === 'pt' && sameCodeStore && !sameCodeStore.tiers?.length
+      ? { discount: sameCodeStore.discount, note: asSentence(sameCodeStore.shortDescription), watermark: sameCodeStore.brandWatermark }
       : undefined;
 
   const stepSections = (review.contentSections || []).filter((s) => isStepHeading(s.heading));
@@ -811,7 +813,7 @@ export function ReviewNotebookTemplate({
         reviewSlug={review.slug}
         tocItems={tocItems}
         affiliate={review.affiliate}
-        coupon={review.coupon ? { code: review.coupon, brand: store?.brand, offer: storeOffer } : undefined}
+        coupon={review.coupon ? { code: review.coupon, brand: store?.brand, kind: sameCodeStore?.codeKind, offer: storeOffer } : undefined}
         cta={effectiveCta && hasCta ? { url: effectiveCta.url, label: effectiveCta.label, sponsored: effectiveCta.sponsored } : undefined}
         related={relatedArticleLinks}
       />
