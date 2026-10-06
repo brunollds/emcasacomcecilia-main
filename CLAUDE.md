@@ -39,7 +39,7 @@ arquivos direto em dev — ele lê `src/lib/generated/content-index.ts`, um índ
 - `src/app/**` — JavaScript (`.js`)
 - `src/components/sections/**` — TypeScript (`.tsx`)
 - `src/components/ui/**` — TypeScript (`.tsx`)
-- `src/lib/data.ts` — TypeScript (source of truth for all data/interfaces)
+- `src/lib/data.ts` — TypeScript (adaptador legado do conteúdo; ver Data layer)
 
 ### Path alias
 `@/*` resolves to `src/*` (configured in `jsconfig.json`).
@@ -56,9 +56,18 @@ aconteceu:
 | Cupons | `src/lib/couponsData.ts` (união `discount-code \| affiliate-link`) |
 | Locales e clusters i18n | `src/lib/i18n/locales.ts` e `src/lib/i18n/clusters/` |
 | Vídeos | `src/lib/video-metadata.js` e `src/lib/video-pages.js` |
+| Links da marca e redes sociais | `src/lib/brandLinks.ts` |
 
-`src/lib/data.ts` ainda existe para redes sociais e links, com `formatPrice()`. Não acrescentar
+`src/lib/data.ts` ainda existe como adaptador legado: expõe `recipes`, `reviews` e
+`publishedReviews` a partir do índice gerado, os tipos legados e `formatPrice()`. Não acrescentar
 conteúdo editorial ali.
+
+⚠️ **Arquivo `'use client'` não importa valores de `@/lib/data`** (`import type` é apagado na
+compilação e não conta). O módulo carrega `src/lib/generated/content-index.ts` — todas as receitas
+e reviews, ~2 MB minificado — e o webpack não separa o índice dos helpers: um único import
+num componente cliente põe o índice inteiro no bundle de toda página que usa o componente. Até
+05/10/2026 o Navbar e o Footer faziam isso e cada página baixava ~2,8 MB de JS. O cliente recebe
+dados por props de um componente servidor ou de módulos sem o índice, como `src/lib/brandLinks.ts`.
 
 ### Mídia (imagens e vídeos) — biblioteca CDN em migração
 

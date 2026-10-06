@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { useEffect, useRef, useState } from 'react';
 import { Menu, X, ArrowRight, ChevronDown, Search } from 'lucide-react';
-import { brandLinks } from '@/lib/data';
+import { brandLinks } from '@/lib/brandLinks';
 import OmniSearch from '@/components/OmniSearch';
 import {
   getShellCommercialLinks,
