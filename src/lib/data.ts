@@ -3,9 +3,6 @@ import { brandLinks } from './brandLinks';
 import type { ReviewCategory } from './reviewDiscovery';
 import type { Locale } from '@/lib/i18n/locales';
 
-// Componente cliente importa de '@/lib/brandLinks': este módulo arrasta o índice de conteúdo.
-export { brandLinks, socialMedias } from './brandLinks';
-
 // 📊 Dados Unificados - Em Casa com Cecília
 
 export interface IngredientSection {

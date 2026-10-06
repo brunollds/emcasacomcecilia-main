@@ -2,7 +2,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { ChefHat, ArrowRight, MessageCircleMore, Coffee, Leaf, UtensilsCrossed } from 'lucide-react';
 import { Button } from '@/components/ui/Button';
-import { brandLinks, socialMedias } from '@/lib/data';
+import { brandLinks, socialMedias } from '@/lib/brandLinks';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 function formatHeroFollowerCount(value?: string) {
