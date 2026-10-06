@@ -5,8 +5,8 @@ import { getCouponBySlug } from '../src/lib/couponsData';
 import { getCouponLanguageLinks, getLocalizedCoupon, getTranslatedCouponRoutes } from '../src/lib/couponTranslations';
 import { LOCALES, LOCALE_KEYS } from '../src/lib/i18n/locales';
 
-// Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt e o <head>
-// das lojas traduzidas. O <html lang> fica com test-c2-html-lang.
+// Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
+// das lojas traduzidas e o dock do sumário dos artigos. O <html lang> fica com test-c2-html-lang.
 const SITE_URL = 'https://emcasacomcecilia.com';
 const APP_DIR = path.resolve('.next/server/app');
 const CSS_DIR = path.resolve('.next/static/css');
@@ -42,6 +42,12 @@ assert.match(css, /html:lang\(ja\)\{[^}]*line-break:strict/, 'CSS sem o line-bre
 assert.match(css, /html:lang\(ja\)\{[^}]*word-break:auto-phrase/, 'CSS sem a quebra por frase do japonês');
 assert.match(css, /:lang\(ja\)[^{}]*\{font-size:/, 'CSS sem o hero menor em japonês');
 assert.match(css, /:lang\(zh\)[^{}]*\{font-size:/, 'CSS sem o hero menor em chinês');
+
+// A gaveta do sumário dos artigos (<dialog>) abre e anima com estas regras do Tailwind 4.
+assert.match(css, /\.open\\:flex:[^{]*\{display:flex/, 'CSS sem o open:flex da gaveta do sumário');
+assert.match(css, /@starting-style\{\.starting\\:open\\:translate-y-full/, 'CSS sem a entrada da gaveta (@starting-style)');
+assert.match(css, /\.backdrop\\:bg-marinho\\\/55::backdrop\{/, 'CSS sem o fundo da gaveta (::backdrop)');
+assert.match(css, /\.transition-discrete\{transition-behavior:allow-discrete/, 'CSS sem o transition-discrete da gaveta');
 
 const sitemapUrls = [...read(path.join(APP_DIR, 'sitemap.xml.body')).matchAll(/<loc>([^<]+)<\/loc>/g)].map(
   ([, url]) => url
@@ -116,6 +122,56 @@ for (const slug of translatedSlugs) {
   }
 }
 
+const VOID_TAGS = new Set(['area', 'base', 'br', 'col', 'embed', 'hr', 'img', 'input', 'link', 'meta', 'source', 'track', 'wbr']);
+const PT_DOCK_TEXT = ['Sumário', 'Abrir o sumário', 'Fechar o sumário', 'Seções do artigo', 'Progresso de leitura', 'Leia também'];
+
+// Elementos ainda abertos neste ponto do <body>; 0 quer dizer filho direto do <body>.
+function openElementsAt(body: string, index: number) {
+  let open = 0;
+  for (const [, closing, name, selfClosing] of body.slice(0, index).matchAll(/<(\/?)([a-zA-Z][\w-]*)[^>]*?(\/?)>/g)) {
+    if (closing) open--;
+    else if (!selfClosing && !VOID_TAGS.has(name.toLowerCase())) open++;
+  }
+  return open;
+}
+
+// Todo artigo tem o dock do sumário no celular (ReviewMobileBottomBar). Um artigo sem nenhuma seção
+// com título fica sem dock; se um dia isso for de propósito, tire-o desta conferência.
+const articleUrls = sitemapUrls.filter((url) => /\/reviews\/[^/]+$/.test(new URL(url).pathname));
+assert.ok(articleUrls.length > 0, 'sitemap.xml sem artigos');
+for (const url of articleUrls) {
+  const pagePath = new URL(url).pathname;
+  const file = builtFile(url);
+  assert.ok(file, `${pagePath}: página não gerada no build`);
+  const html = read(file);
+  const body = (html.match(/<body[^>]*>([\s\S]*)<\/body>/)?.[1] ?? '')
+    .replace(/<(script|style)\b[\s\S]*?<\/\1>/g, '')
+    .replace(/<!--[\s\S]*?-->/g, '');
+  assert.equal(openElementsAt(body, body.length), 0, `${pagePath}: as tags do <body> não fecham`);
+
+  const dialogs = body.match(/<dialog\b[\s\S]*?<\/dialog>/g) ?? [];
+  assert.equal(dialogs.length, 1, `${pagePath}: ${dialogs.length} gavetas de sumário em vez de uma`);
+  const [dialog] = dialogs;
+  const dialogStart = body.indexOf('<dialog');
+  const progressbar = body.lastIndexOf('role="progressbar"', dialogStart);
+  assert.ok(progressbar >= 0, `${pagePath}: dock sem a barra de progresso antes da gaveta`);
+  // Dentro do fundo editorial, `.editorial-ambient-bg > *` troca o sticky do dock por relative.
+  assert.equal(openElementsAt(body, dialogStart), 0, `${pagePath}: a gaveta do sumário não é filha direta do <body>`);
+  assert.equal(openElementsAt(body, progressbar), 1, `${pagePath}: o dock do sumário não é filho direto do <body>`);
+
+  const ids = new Set([...body.matchAll(/\sid="([^"]+)"/g)].map(([, id]) => id));
+  const targets = [...dialog.matchAll(/href="#([^"]+)"/g)].map(([, id]) => id);
+  assert.ok(targets.length > 0, `${pagePath}: gaveta sem links do sumário`);
+  assert.deepEqual(targets.filter((id) => !ids.has(id)), [], `${pagePath}: link do sumário sem seção na página`);
+
+  if (html.match(/<html lang="([^"]+)"/)?.[1] !== 'pt-BR') {
+    const dockAndSheet = body.slice(body.lastIndexOf('<div', progressbar), dialogStart + dialog.length);
+    assert.deepEqual(PT_DOCK_TEXT.filter((text) => dockAndSheet.includes(text)), [], `${pagePath}: dock ou gaveta em português`);
+    // O card com desconto e regra (canhoto de 92px) usa os textos de /cupons, que só existem em português.
+    assert.ok(!dialog.includes('w-[92px]'), `${pagePath}: card completo do cupom fora do português`);
+  }
+}
+
 console.log(
-  `✅ build output: CSS de CJK, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs) e ${translatedUrls.length} páginas de loja traduzida conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida e o dock de ${articleUrls.length} artigos conferidos.`
 );

@@ -23,7 +23,7 @@ npm run test:coupon-offer-modes
 npm run test:coupon-translations  # lojas em outros idiomas: texto traduzido, códigos e links do PT
 npm run test:analytics-gate  # allowlist de hosts do GA4
 npm run test:html-lang       # depois do build: <html lang> de cada rota
-npm run test:build-output    # depois do build: CSS de CJK, sitemap, llms.txt e <head> das lojas traduzidas
+npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dock dos artigos
 ```
 
 `npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
@@ -94,6 +94,18 @@ vídeo, primeiras impressões e uso noturno.
 - `src/components/ui/` — Primitive building blocks (`Card`, `Button`, `Badge`). Use `clsx` for className merging here.
 - `src/components/sections/` — Page sections (`Hero`, `PopularRecipes`, `CouponStrip`, `ReviewsShowcase`, `CTA`…). `Navbar` and `Footer` live in `src/components/`.
 - Each route group has its own root layout (`src/app/(pt)/layout.js`, `src/app/(en)/layout.tsx`… and `src/app/[locale]/layout.tsx`). All of them render `RootLayoutShell` (`src/components/RootLayoutShell.tsx`): `Navbar → {children} → Footer`.
+
+### Artigos: sumário no celular
+
+- `ReviewNotebookTemplate` monta o artigo. A seção atual e o progresso de leitura vêm de
+  `useReadingPosition`, que alimenta o `ReviewSidebar` (desktop) e o `ReviewMobileBottomBar`
+  (celular: dock `sticky` e gaveta do sumário num `<dialog>` aberto com `showModal()`).
+- O dock e a gaveta ficam direto no `<body>`: dentro do fundo editorial, `.editorial-ambient-bg > *`
+  troca o `sticky` por `relative`. `npm run test:build-output` confere isso em todos os artigos.
+- Com a gaveta aberta, o resto da página fica inerte. O que precisa de foco nesse momento vai
+  dentro do `<dialog>`, como o fallback de cópia de `clipboardUtils.ts`.
+- Texto que é item flex (bullets, prós e contras) precisa de `min-w-0` para quebrar endereços
+  longos; o contêiner do artigo já tem `wrap-break-word`.
 
 ### Styling
 Tailwind CSS v4 via `@import "tailwindcss"` in `globals.css`. Custom tokens defined in `@theme inline {}` block — use these instead of arbitrary values:
