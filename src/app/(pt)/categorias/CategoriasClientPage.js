@@ -15,7 +15,6 @@ import {
 } from '@/constants/taxonomia';
 import CategoryIcon from '@/components/ui/CategoryIcon';
 import { getRecipeAllCategoryLabels, recipes } from '@/lib/data';
-import { getCategoryIconSpec } from '@/lib/categoryIcons';
 
 const slugify = (value) => value
   .normalize('NFD')
@@ -100,7 +99,6 @@ const createItems = (labels, sortMode = 'count') => Array.from(new Set(labels))
     name: label,
     count: countRecipesByLabel(label),
     slug: slugify(label),
-    iconSpec: getCategoryIconSpec(label),
   }))
   .filter((item) => item.count > 0)
   .sort((a, b) => (
