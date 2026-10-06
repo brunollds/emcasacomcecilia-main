@@ -386,7 +386,6 @@ export default function ReceitasClientPage({ recipes }) {
   const dificuldadeAtiva = searchParams.get('dificuldade') || 'Todas';
   const tempoAtivo = searchParams.get('tempo') || 'todos';
   const ordemAtiva = searchParams.get('ordem') || 'populares';
-  const queryAtiva = (searchParams.get('q') || '').trim();
 
   const selectedTypeLabels = decodeSelectedLabels(tipoAtivo, optionMaps.tipo);
   const selectedSubLabels = decodeSelectedLabels(subAtiva, optionMaps.sub);
@@ -428,12 +427,10 @@ export default function ReceitasClientPage({ recipes }) {
     selectedMealTimeLabels,
     dificuldadeAtiva,
     tempoAtivo,
-    queryAtiva,
   };
 
   const matchesRecipe = (recipe, excludeFacet = null) => {
     const totalMinutes = getTimeInMinutes(recipe.totalTime);
-    const normalizedQuery = filtersState.queryAtiva.toLowerCase();
 
     const checks = {
       categoria: !filtersState.categoriaAtiva
@@ -460,7 +457,6 @@ export default function ReceitasClientPage({ recipes }) {
         || (filtersState.tempoAtivo === 'ate-30' && totalMinutes <= 30)
         || (filtersState.tempoAtivo === '31-60' && totalMinutes > 30 && totalMinutes <= 60)
         || (filtersState.tempoAtivo === 'mais-60' && totalMinutes > 60),
-      query: !normalizedQuery || recipe.searchText.includes(normalizedQuery),
     };
 
     return Object.entries(checks).every(([key, value]) => key === excludeFacet || value);
@@ -526,11 +522,10 @@ export default function ReceitasClientPage({ recipes }) {
   };
 
   const clearAllFilters = () => {
-    window.history.replaceState(null, '', queryAtiva ? `${pathname}?q=${encodeURIComponent(queryAtiva)}` : pathname);
+    window.history.replaceState(null, '', pathname);
   };
 
   const activeChips = [
-    queryAtiva ? { key: 'q', label: `Busca: ${queryAtiva}`, onRemove: () => updateParams({ q: null }) } : null,
     categoriaAtiva ? {
       key: 'categoria',
       label: `Atalho: ${recipes.flatMap((recipe) => recipe.categoryLabels).find((label) => slugify(label) === categoriaAtiva) || categoriaAtiva}`,

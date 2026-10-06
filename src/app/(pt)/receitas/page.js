@@ -22,10 +22,8 @@ export const metadata = {
   },
 };
 
-// Só o que a listagem usa de cada receita: o card, os campos dos filtros e o texto da busca `q`.
+// Só o que a listagem usa de cada receita: o card e os campos dos filtros.
 function toListedRecipe(recipe) {
-  const categoryLabels = getRecipeAllCategoryLabels(recipe);
-
   return {
     id: recipe.id,
     slug: recipe.slug,
@@ -44,17 +42,7 @@ function toListedRecipe(recipe) {
     keyIngredients: recipe.keyIngredients,
     collections: recipe.collections,
     mealTime: recipe.mealTime,
-    categoryLabels,
-    searchText: [
-      recipe.title,
-      recipe.description,
-      ...categoryLabels,
-      ...(recipe.searchTerms || []),
-      ...(recipe.tags || []),
-      ...recipe.ingredients.flatMap((section) => section.items),
-    ]
-      .join(' ')
-      .toLowerCase(),
+    categoryLabels: getRecipeAllCategoryLabels(recipe),
   };
 }
 
