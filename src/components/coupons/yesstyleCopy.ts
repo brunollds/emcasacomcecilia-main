@@ -15,7 +15,6 @@ export type PageCopy = {
   descriptionTemplate: string;
   introTemplate: string;
   copyAriaPromoTemplate: string;
-  visit: string;
   rewardCodeLabel: string;
   rewardFieldNote: string;
   firstOrderLabel: string;
@@ -62,7 +61,6 @@ const pages: Record<Locale, PageCopy> = {
     descriptionTemplate: 'Código de recompensa {code} oficial da YesStyle: use no campo Reward Code para até {newDiscount}% extra, combinável com cupons promocionais elegíveis no checkout.',
     introTemplate: '{code} é o código de recompensa oficial da YesStyle e soma com os cupons promocionais elegíveis da própria loja.',
     copyAriaPromoTemplate: 'Copiar cupom promocional {promoCode}',
-    visit: 'Ir para a YesStyle',
     rewardCodeLabel: 'Código de recompensa',
     rewardFieldNote: 'Cole no campo Reward Code do checkout.',
     firstOrderLabel: '1ª compra',
@@ -126,7 +124,6 @@ const pages: Record<Locale, PageCopy> = {
     descriptionTemplate: 'Official YesStyle reward code {code}. Add up to {newDiscount}% extra at checkout on top of eligible promo coupons.',
     introTemplate: '{code} is YesStyle’s official Reward Code, and it stacks with the store’s own eligible promo coupons.',
     copyAriaPromoTemplate: 'Copy promo coupon {promoCode}',
-    visit: 'Visit YesStyle',
     rewardCodeLabel: 'Reward Code',
     rewardFieldNote: 'Paste it in the Reward Code field at checkout.',
     firstOrderLabel: 'First order',
@@ -190,7 +187,6 @@ const pages: Record<Locale, PageCopy> = {
     descriptionTemplate: 'Código de recompensa oficial {code} en YesStyle. Suma hasta un {newDiscount}% extra junto con cupones promocionales elegibles al pagar.',
     introTemplate: '{code} es el código de recompensa oficial de YesStyle y se suma a los cupones promocionales elegibles de la propia tienda.',
     copyAriaPromoTemplate: 'Copiar cupón promocional {promoCode}',
-    visit: 'Ir a YesStyle',
     rewardCodeLabel: 'Código de recompensa',
     rewardFieldNote: 'Pégalo en el campo Reward Code al pagar.',
     firstOrderLabel: 'Primera compra',
@@ -253,7 +249,6 @@ const pages: Record<Locale, PageCopy> = {
     descriptionTemplate: `Code récompense officiel {code} sur YesStyle. Ajoutez jusqu’à {newDiscount}${NBSP}% de réduction sous réserve d’éligibilité des coupons promo.`,
     introTemplate: '{code} est le code récompense officiel de YesStyle et se cumule avec les coupons promo éligibles de la boutique.',
     copyAriaPromoTemplate: 'Copier le coupon promo {promoCode}',
-    visit: 'Aller sur YesStyle',
     rewardCodeLabel: 'Code récompense',
     rewardFieldNote: 'Collez-le dans le champ Reward Code au paiement.',
     firstOrderLabel: 'Première commande',
@@ -316,7 +311,6 @@ const pages: Record<Locale, PageCopy> = {
     descriptionTemplate: 'Offizieller YesStyle Reward Code {code}. Erhalte bis zu {newDiscount} % extra neben berechtigten Aktionsgutscheinen an der Kasse.',
     introTemplate: '{code} ist der offizielle Reward Code von YesStyle und lässt sich mit berechtigten Aktionsgutscheinen des Shops kombinieren.',
     copyAriaPromoTemplate: 'Aktionsgutschein {promoCode} kopieren',
-    visit: 'Zu YesStyle',
     rewardCodeLabel: 'Reward Code',
     rewardFieldNote: 'An der Kasse ins Feld Reward Code einfügen.',
     firstOrderLabel: 'Erstbestellung',
@@ -379,7 +373,6 @@ const pages: Record<Locale, PageCopy> = {
     descriptionTemplate: 'Codice ricompensa ufficiale {code} su YesStyle: inseriscilo nel campo Reward Code per uno sconto extra fino al {newDiscount}%, cumulabile con i coupon promozionali idonei.',
     introTemplate: '{code} è il codice ricompensa ufficiale di YesStyle e si somma ai coupon promozionali idonei del negozio.',
     copyAriaPromoTemplate: 'Copia il coupon promozionale {promoCode}',
-    visit: 'Vai su YesStyle',
     rewardCodeLabel: 'Codice ricompensa',
     rewardFieldNote: 'Incollalo nel campo Reward Code al checkout.',
     firstOrderLabel: 'Primo ordine',
@@ -442,7 +435,6 @@ const pages: Record<Locale, PageCopy> = {
     descriptionTemplate: '공식 YesStyle 리워드 코드 {code}. 결제 시 대상 프로모션 쿠폰과 함께 최대 추가 {newDiscount}% 혜택을 받으세요.',
     introTemplate: '{code}은 공식 YesStyle 리워드 코드로, 스토어의 대상 프로모션 쿠폰과 함께 쓸 수 있습니다.',
     copyAriaPromoTemplate: '프로모션 쿠폰 {promoCode} 복사',
-    visit: 'YesStyle 방문',
     rewardCodeLabel: '리워드 코드',
     rewardFieldNote: '결제할 때 Reward Code 칸에 붙여 넣으세요.',
     firstOrderLabel: '첫 구매',
@@ -505,7 +497,6 @@ const pages: Record<Locale, PageCopy> = {
     descriptionTemplate: 'YesStyle公式リワードコード{code}。チェックアウト時に対象のプロモーションクーポンと併用して最大{newDiscount}%追加オフ。',
     introTemplate: '{code}はYesStyle公式のリワードコードで、ストアの対象プロモーションクーポンと併用できます。',
     copyAriaPromoTemplate: 'クーポンコード {promoCode} をコピー',
-    visit: 'YesStyleへ',
     rewardCodeLabel: 'リワードコード',
     rewardFieldNote: 'チェックアウトで Reward Code 欄に貼り付けます。',
     firstOrderLabel: '初回',
@@ -568,7 +559,6 @@ const pages: Record<Locale, PageCopy> = {
     descriptionTemplate: 'YesStyle 官方獎勵碼 {code}。在結帳時可與適用促銷優惠碼組合使用，額外享有最高 {newDiscount}% 優惠。',
     introTemplate: '{code} 是 YesStyle 官方獎勵碼，可與商店的適用促銷優惠碼疊加使用。',
     copyAriaPromoTemplate: '複製促銷優惠碼 {promoCode}',
-    visit: '前往 YesStyle',
     rewardCodeLabel: '獎勵碼',
     rewardFieldNote: '結帳時貼到 Reward Code 欄位。',
     firstOrderLabel: '首購',
@@ -631,7 +621,6 @@ const pages: Record<Locale, PageCopy> = {
     descriptionTemplate: 'YesStyle 官方奖励码 {code}。在结账时可与适用促销优惠码组合使用，额外享受最高 {newDiscount}% 优惠。',
     introTemplate: '{code} 是 YesStyle 官方奖励码，可与商店的适用促销优惠码叠加使用。',
     copyAriaPromoTemplate: '复制促销优惠码 {promoCode}',
-    visit: '前往 YesStyle',
     rewardCodeLabel: '奖励码',
     rewardFieldNote: '结账时粘贴到 Reward Code 栏位。',
     firstOrderLabel: '首购',

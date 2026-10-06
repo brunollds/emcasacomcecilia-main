@@ -1,5 +1,5 @@
 import { CalendarDays, ExternalLink, Layers, ShoppingBag, Truck } from 'lucide-react';
-import { CouponBottomBar } from '@/components/CouponBottomBar';
+import { CouponDock } from '@/components/coupons/CouponActions';
 import { AmountFigure, BODY_TEXT, CouponFaq, FOCUS_RING, SectionHeading, couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import {
@@ -9,6 +9,7 @@ import {
   LanguageLinks,
   RelatedLink,
   RuleList,
+  STORE_CUTOUT_ID,
   StepList,
   StoreBody,
   StoreContent,
@@ -64,7 +65,7 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
   };
 
   return (
-    <main lang={resolved.htmlLang} className={`${couponFontVariables} min-h-screen bg-white pb-24 text-marinho lg:pb-0`}>
+    <main lang={resolved.htmlLang} className={`${couponFontVariables} min-h-screen bg-white text-marinho`}>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
@@ -205,7 +206,21 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
 
       <StoreTransparency title={ui.transparencyTitle}>{resolved.transparency}</StoreTransparency>
 
-      <CouponBottomBar coupon={resolved.rewardCode} cta={{ url: resolved.affiliateUrl, label: resolved.visit }} locale={resolved.locale} />
+      {/* O botão da loja leva só a marca: com "Ir para a YesStyle" e afins, o CECILIA010 quebrava
+          em duas ou três linhas a 360px. */}
+      <CouponDock
+        targetId={STORE_CUTOUT_ID}
+        brand="YesStyle"
+        storeUrl={resolved.affiliateUrl}
+        storeLabel="YesStyle"
+        trackingCode={resolved.rewardCode}
+        copyAction={{
+          code: resolved.rewardCode,
+          ariaLabel: ui.copyCodeAria(resolved.rewardCode),
+          copiedLabel: ui.copied,
+          copiedStatus: ui.copiedStatus(resolved.rewardCode),
+        }}
+      />
     </main>
   );
 }

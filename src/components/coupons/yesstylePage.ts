@@ -45,7 +45,6 @@ export interface ResolvedYesStylePage {
   heroTitle: { lead: string; prefix: string; suffix: string };
   description: string;
   intro: string;
-  visit: string;
   rewardCode: string;
   affiliateUrl: string;
   rewardCodeLabel: string;
@@ -246,7 +245,6 @@ export function resolveYesStylePage(
     heroTitle: { lead: titleLead, prefix: titlePrefix, suffix: titleSuffix },
     description: fillPlaceholders(page.descriptionTemplate, reward, firstPromoCode),
     intro: fillPlaceholders(page.introTemplate, reward, firstPromoCode),
-    visit: page.visit,
     rewardCode: reward.code,
     affiliateUrl: reward.affiliateUrl,
     rewardCodeLabel: page.rewardCodeLabel,
