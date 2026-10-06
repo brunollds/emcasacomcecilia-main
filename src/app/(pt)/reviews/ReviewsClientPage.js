@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import Image from 'next/image';
-import { useRouter, useSearchParams } from 'next/navigation';
+import { useSearchParams } from 'next/navigation';
 import { ArrowRight, Leaf } from 'lucide-react';
 import { REVIEW_CATEGORIES, parseReviewCategory } from '@/lib/reviewDiscovery';
 import { sanitizeViewTransitionName } from '@/lib/viewTransition';
@@ -34,7 +34,6 @@ const categoryFilters = [
 ];
 
 export default function ReviewsClientPage({ reviews }) {
-  const router = useRouter();
   const searchParams = useSearchParams();
   const activeCategory = parseReviewCategory(searchParams.get('categoria'));
   const [pagination, setPagination] = useState({
@@ -63,7 +62,8 @@ export default function ReviewsClientPage({ reviews }) {
     }
 
     const query = params.toString();
-    router.push(query ? `/reviews?${query}` : '/reviews', { scroll: false });
+    // pushState atualiza o useSearchParams sem buscar de novo o payload com todos os cards.
+    window.history.pushState(null, '', query ? `/reviews?${query}` : '/reviews');
     setPagination({ category, visible: INITIAL_COUNT });
   };
 
