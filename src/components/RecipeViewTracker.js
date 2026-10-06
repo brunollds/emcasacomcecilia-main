@@ -2,20 +2,19 @@
 
 import { useEffect } from "react";
 import { trackEvent } from "@/lib/analytics";
-import { getRecipePrimaryCategory } from "@/lib/data";
 
-export default function RecipeViewTracker({ recipe }) {
+export default function RecipeViewTracker({ slug, title, category }) {
   useEffect(() => {
-    if (!recipe) {
+    if (!slug) {
       return;
     }
 
     trackEvent("view_recipe", {
-      recipe_slug: recipe.slug,
-      recipe_title: recipe.title,
-      recipe_category: getRecipePrimaryCategory(recipe),
+      recipe_slug: slug,
+      recipe_title: title,
+      recipe_category: category,
     });
-  }, [recipe]);
+  }, [slug, title, category]);
 
   return null;
 }

@@ -97,6 +97,7 @@ export function buildRecipeTemplateProps(recipe) {
 
   const recipeImage = getRecipeImage(recipe);
   const recipeImageAlt = getRecipeImageAlt(recipe);
+  const recipeCategory = getRecipePrimaryCategory(recipe);
   const baseUrl = 'https://emcasacomcecilia.com';
   const taxonomyChips = getRecipeTaxonomyChips(recipe);
   const youtubeEmbedUrl = getYoutubeEmbedUrl(recipe.youtubeUrl);
@@ -135,7 +136,7 @@ export function buildRecipeTemplateProps(recipe) {
     cookTime: minutesToIsoDuration(canonical.cookMinutes) ?? convertToISO8601(recipe.cookTime),
     totalTime: schemaIsoDuration ?? convertToISO8601(recipe.totalTime),
     recipeYield: recipe.yield,
-    recipeCategory: getRecipePrimaryCategory(recipe),
+    recipeCategory,
     recipeCuisine: getRecipeCuisine(recipe) || 'Brasileira',
     keywords: recipe.searchTerms?.join(', '),
     recipeIngredient: schemaIngredients,
@@ -171,6 +172,7 @@ export function buildRecipeTemplateProps(recipe) {
     videoPageUrl,
     recipeImage,
     recipeImageAlt,
+    recipeCategory,
     breadcrumbJsonLd,
     jsonLd,
   };

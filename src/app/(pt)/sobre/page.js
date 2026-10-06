@@ -10,7 +10,7 @@ import {
   Tv2,
   Utensils,
 } from 'lucide-react';
-import { brandLinks } from '@/lib/data';
+import { brandLinks } from '@/lib/brandLinks';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const SITE_BASE_URL = 'https://emcasacomcecilia.com';

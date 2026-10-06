@@ -41,6 +41,7 @@ export interface RecipeNotebookTemplateProps {
   videoPageUrl: string | null;
   recipeImage: string;
   recipeImageAlt: string;
+  recipeCategory: string;
   breadcrumbJsonLd: Record<string, unknown>;
   jsonLd: Record<string, unknown>;
 }
@@ -53,6 +54,7 @@ export function RecipeNotebookTemplate({
   videoPageUrl,
   recipeImage,
   recipeImageAlt,
+  recipeCategory,
   breadcrumbJsonLd,
   jsonLd,
 }: RecipeNotebookTemplateProps): React.ReactElement {
@@ -87,7 +89,7 @@ export function RecipeNotebookTemplate({
 
   return (
     <EditorialAmbientBackground variant="recipe" className="notebook-paper min-h-screen pb-20">
-      <RecipeViewTracker recipe={recipe} />
+      <RecipeViewTracker slug={recipe.slug} title={recipe.title} category={recipeCategory} />
 
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />

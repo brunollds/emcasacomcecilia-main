@@ -22,6 +22,15 @@ const releaseIdentity = readReleaseIdentity({
 
 const mediaDeliveryRules = buildMediaDeliveryRules(mediaDeliveryMap, redirects);
 
+// /receitas?q= é da busca antiga (abr–ago/2026); a busca do site mora em /buscar desde então.
+const legacyRecipeSearchRedirect = {
+  source: '/receitas',
+  // Como a busca antiga, ignora q vazio ou só com espaços.
+  has: [{ type: 'query', key: 'q', value: '(?<q>.*\\S.*)' }],
+  destination: '/buscar?q=:q',
+  permanent: true,
+};
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'standalone',
@@ -33,7 +42,7 @@ const nextConfig = {
     EMCASA_RELEASE_DEPLOY_UUID: releaseIdentity.deploy_uuid ?? '',
   },
   async redirects() {
-    return [...redirects, ...mediaDeliveryRules.redirects];
+    return [...redirects, legacyRecipeSearchRedirect, ...mediaDeliveryRules.redirects];
   },
   async rewrites() {
     return { beforeFiles: mediaDeliveryRules.rewrites };

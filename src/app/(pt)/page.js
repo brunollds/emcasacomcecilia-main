@@ -8,6 +8,7 @@ import { ReviewsShowcase } from '@/components/sections/ReviewsShowcase';
 import { Offers } from '@/components/sections/Offers';
 import { CTA } from '@/components/sections/CTA';
 import homeCurationConfig from '@/../content/home-curation.json';
+import { getCouponStripItems } from '@/lib/couponsData';
 import { getFeaturedOffers } from '@/lib/dicasOffers';
 import { getPopularRecipeSlugs } from '@/lib/popularRecipeStats';
 import { publishedReviews } from '@/lib/data';
@@ -93,7 +94,7 @@ export default async function Home() {
     <div className="min-h-screen bg-[#fef9f3]">
       <div className="bg-[#0f1d3a]">
         {/* 1. Cupons ativos em faixa compacta */}
-        <CouponStrip />
+        <CouponStrip coupons={getCouponStripItems()} />
 
         {/* 2. Hero - Apresentação principal */}
         <Hero />

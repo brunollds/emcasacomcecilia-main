@@ -4,15 +4,20 @@ import { useRef } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { ChevronLeft, ChevronRight, ExternalLink, Tag } from 'lucide-react';
-import { brandLinks, offers, formatPrice, type Offer } from '@/lib/data';
+import { brandLinks } from '@/lib/brandLinks';
+import type { Offer } from '@/lib/data';
 import { trackEvent } from '@/lib/analytics';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 type OffersProps = {
-  items?: Offer[];
+  items: Offer[];
 };
 
-export function Offers({ items = offers }: OffersProps) {
+function formatPrice(value: number): string {
+  return value.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
+}
+
+export function Offers({ items }: OffersProps) {
   const trackRef = useRef<HTMLDivElement>(null);
 
   const scrollTrack = (direction: 'left' | 'right') => {

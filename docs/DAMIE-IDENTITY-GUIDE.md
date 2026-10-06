@@ -90,7 +90,7 @@ Para o site DAMIE, o header pode ser simplificado (sem busca de receitas) mas ma
 - O mesmo esquema de cores nos links (branco / laranja `#ff6b35` / amarelo `#ffd700`)
 - Mesmo comportamento sticky
 
-**Links relevantes no Navbar:** vêm de `src/lib/data.ts` → `export const brandLinks`
+**Links relevantes no Navbar:** vêm de `src/lib/brandLinks.ts` → `export const brandLinks`
 (ver Seção 7 abaixo).
 
 ---
@@ -105,7 +105,7 @@ O footer é `'use client'` com:
 - Nav de links institucionais
 - Ícones de redes sociais (SVG inline) em `#ff6b35` com hover
 
-Os dados das redes sociais vêm de `src/lib/data.ts` → `export const socialMedias`.
+Os dados das redes sociais vêm de `src/lib/brandLinks.ts` → `export const socialMedias`.
 Os SVGs dos ícones estão inline no próprio `Footer.js` (Youtube, Instagram, Facebook, TikTok, Kwai).
 
 ---
@@ -127,7 +127,11 @@ Todos usam `clsx` + `tailwind-merge` para className merging.
 
 ## 7. Links e URLs da Marca
 
-**Arquivo:** `src/lib/data.ts` → `export const brandLinks`
+**Arquivo:** `src/lib/brandLinks.ts` → `export const brandLinks`
+
+Não importar de `src/lib/data.ts`: ele carrega o índice com todas as receitas e reviews, que
+vai junto para o navegador quando o import está num componente `'use client'` (Navbar e Footer
+são).
 
 Contém todas as URLs canônicas da marca:
 - `brandLinks.damie` → URL do próprio site DAMIE
