@@ -2,7 +2,7 @@ import { Fragment, type ReactNode } from 'react';
 import Link from 'next/link';
 import { Check, ChevronRight, CircleCheck, Copy, ExternalLink, Globe, Scissors, type LucideIcon } from 'lucide-react';
 import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
-import { CopyAndOpenStoreLink, CopyCodeButton } from './CouponActions';
+import { CopyAndOpenStoreLink, CopyCodeButton, type CopyPlacement } from './CouponActions';
 import { BrandWatermark, FOCUS_RING, PRIMARY_ACTION, SECONDARY_ACTION } from './CouponBlocks';
 import type { CouponStoreCopy } from './couponStoreCopy';
 
@@ -198,23 +198,26 @@ export function CutoutCodeActions({
   );
 }
 
-// "Copiar" ao lado de um código que não é o do recorte, como o de indicação.
+// "Copiar" ao lado de um código que não é o do recorte, como o de indicação. A origem separa no
+// Analytics a cópia dos cupons da loja da cópia do código principal.
 export function CompactCopyButton({
   code,
   brand,
   ariaLabel,
   copy,
+  placement = 'coupon_page',
 }: {
   code: string;
   brand: string;
   ariaLabel: string;
   copy: CouponStoreCopy;
+  placement?: CopyPlacement;
 }) {
   return (
     <CopyCodeButton
       code={code}
       brand={brand}
-      placement="coupon_page"
+      placement={placement}
       ariaLabel={ariaLabel}
       copiedStatus={copy.copiedStatus(code)}
       className={`ml-auto flex min-h-11 items-center gap-2 rounded-lg border-2 border-marinho bg-laranja px-3.5 text-sm font-extrabold text-marinho data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-escuro data-[copied=true]:text-white ${FOCUS_RING}`}

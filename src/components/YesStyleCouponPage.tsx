@@ -128,7 +128,13 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
                     )}
                     <div className="mt-3 flex flex-wrap items-center gap-3">
                       <code className="font-codigo text-[26px] font-extrabold tracking-[0.06em]">{promo.code}</code>
-                      <CompactCopyButton code={promo.code} brand="YesStyle" ariaLabel={promo.copyAria} copy={ui} />
+                      <CompactCopyButton
+                        code={promo.code}
+                        brand="YesStyle"
+                        ariaLabel={promo.copyAria}
+                        copy={ui}
+                        placement="coupon_page_promo"
+                      />
                     </div>
                     <dl className="mt-3 grid grid-cols-2 gap-3 border-t-2 border-marinho/15 pt-3">
                       <div>
