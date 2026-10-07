@@ -76,14 +76,22 @@ export function createAttestedArchive({
       '--prefix=emcasacomcecilia/',
       targetSha,
     ], { cwd: repoDir, stdio: 'inherit' });
-    execFileSync('tar', ['-xf', sourceTar, '-C', staging], { stdio: 'inherit' });
+    // Nomes relativos com cwd: o GNU tar do Git Bash lê um -f `C:\...` como host:caminho.
+    execFileSync('tar', ['-xf', path.basename(sourceTar), '-C', path.basename(staging)], {
+      cwd: temp,
+      stdio: 'inherit',
+    });
     assertArchiveMedia(path.join(staging, 'emcasacomcecilia'));
     assertGitMediaRecovery(path.join(staging, 'emcasacomcecilia'), repoDir, targetSha);
     writeFileSync(
       path.join(staging, 'emcasacomcecilia', 'release-meta.json'),
       `${JSON.stringify(identity)}\n`,
     );
-    execFileSync('tar', ['-czf', archive, '-C', staging, 'emcasacomcecilia'], { stdio: 'inherit' });
+    // O archive pode ficar em outra unidade: só o -f precisa ser relativo, o -C aceita `C:\...`.
+    execFileSync('tar', ['-czf', path.basename(archive), '-C', staging, 'emcasacomcecilia'], {
+      cwd: path.dirname(archive),
+      stdio: 'inherit',
+    });
     const size = checkArchiveSize({ archivePath: archive, maxBytes, rootDir: repoDir });
     const sha256 = createHash('sha256').update(readFileSync(archive)).digest('hex');
     return { archive, size, sha256 };
