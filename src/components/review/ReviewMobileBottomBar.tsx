@@ -10,134 +10,8 @@ import { acquireScrollLock, releaseScrollLock } from '@/components/editorial';
 import { isInternalLink } from '@/lib/internalLinks';
 import type { Locale } from '@/lib/i18n/locales';
 import { getCouponCopyLabels } from './couponCopyLocale';
+import { getSidebarCopy } from './sidebarCopy';
 import { useReadingPosition, type TocItem } from './useReadingPosition';
-
-type DockCopy = {
-  contents: string;
-  openContents: (current: number, total: number, heading: string) => string;
-  position: (current: number, total: number) => string;
-  closeContents: string;
-  sectionsNav: string;
-  readingProgress: string;
-  couponLabel: (brand?: string) => string;
-  copiedStatus: (code: string) => string;
-  relatedTitle: string;
-};
-
-// O rótulo do botão do dock contém o texto visível dele ("Sumário" e a seção), para quem o
-// aciona por voz.
-const dockCopy: Record<Locale, DockCopy> = {
-  pt: {
-    contents: 'Sumário',
-    openContents: (current, total, heading) => `Abrir o sumário. Seção ${current} de ${total}: ${heading}`,
-    position: (current, total) => `${current} de ${total}`,
-    closeContents: 'Fechar o sumário',
-    sectionsNav: 'Seções do artigo',
-    readingProgress: 'Progresso de leitura',
-    couponLabel: (brand) => (brand ? `Cupom ${brand}` : 'Cupom de desconto'),
-    copiedStatus: (code) => `Código ${code} copiado.`,
-    relatedTitle: 'Leia também',
-  },
-  en: {
-    contents: 'Contents',
-    openContents: (current, total, heading) => `Open contents. Section ${current} of ${total}: ${heading}`,
-    position: (current, total) => `${current} of ${total}`,
-    closeContents: 'Close contents',
-    sectionsNav: 'Article sections',
-    readingProgress: 'Reading progress',
-    couponLabel: (brand) => (brand ? `${brand} code` : 'Discount code'),
-    copiedStatus: (code) => `Code ${code} copied.`,
-    relatedTitle: 'Read next',
-  },
-  es: {
-    contents: 'Índice',
-    openContents: (current, total, heading) => `Abrir el índice. Sección ${current} de ${total}: ${heading}`,
-    position: (current, total) => `${current} de ${total}`,
-    closeContents: 'Cerrar el índice',
-    sectionsNav: 'Secciones del artículo',
-    readingProgress: 'Progreso de lectura',
-    couponLabel: (brand) => (brand ? `Código ${brand}` : 'Código de descuento'),
-    copiedStatus: (code) => `Código ${code} copiado.`,
-    relatedTitle: 'Lee también',
-  },
-  fr: {
-    contents: 'Sommaire',
-    openContents: (current, total, heading) => `Ouvrir le sommaire. Section ${current} sur ${total} : ${heading}`,
-    position: (current, total) => `${current} sur ${total}`,
-    closeContents: 'Fermer le sommaire',
-    sectionsNav: 'Sections de l’article',
-    readingProgress: 'Progression de la lecture',
-    couponLabel: (brand) => (brand ? `Code ${brand}` : 'Code promo'),
-    copiedStatus: (code) => `Code ${code} copié.`,
-    relatedTitle: 'À lire aussi',
-  },
-  de: {
-    contents: 'Inhalt',
-    openContents: (current, total, heading) => `Inhalt öffnen. Abschnitt ${current} von ${total}: ${heading}`,
-    position: (current, total) => `${current} von ${total}`,
-    closeContents: 'Inhalt schließen',
-    sectionsNav: 'Abschnitte des Artikels',
-    readingProgress: 'Lesefortschritt',
-    couponLabel: (brand) => (brand ? `${brand}-Code` : 'Rabattcode'),
-    copiedStatus: (code) => `Code ${code} kopiert.`,
-    relatedTitle: 'Weiterlesen',
-  },
-  it: {
-    contents: 'Indice',
-    openContents: (current, total, heading) => `Apri l’indice. Sezione ${current} di ${total}: ${heading}`,
-    position: (current, total) => `${current} di ${total}`,
-    closeContents: 'Chiudi l’indice',
-    sectionsNav: 'Sezioni dell’articolo',
-    readingProgress: 'Avanzamento della lettura',
-    couponLabel: (brand) => (brand ? `Codice ${brand}` : 'Codice sconto'),
-    copiedStatus: (code) => `Codice ${code} copiato.`,
-    relatedTitle: 'Leggi anche',
-  },
-  ko: {
-    contents: '목차',
-    openContents: (current, total, heading) => `목차 열기. ${total}개 중 ${current}번째 섹션: ${heading}`,
-    position: (current, total) => `${current} / ${total}`,
-    closeContents: '목차 닫기',
-    sectionsNav: '본문 섹션',
-    readingProgress: '읽기 진행률',
-    couponLabel: (brand) => (brand ? `${brand} 코드` : '할인 코드'),
-    copiedStatus: (code) => `코드 ${code} 복사 완료.`,
-    relatedTitle: '함께 읽어 보세요',
-  },
-  ja: {
-    contents: '目次',
-    openContents: (current, total, heading) => `目次を開く。${total}セクション中${current}番目：${heading}`,
-    position: (current, total) => `${current} / ${total}`,
-    closeContents: '目次を閉じる',
-    sectionsNav: '記事のセクション',
-    readingProgress: '読み進めた割合',
-    couponLabel: (brand) => (brand ? `${brand}のコード` : '割引コード'),
-    copiedStatus: (code) => `コード ${code} をコピーしました。`,
-    relatedTitle: 'あわせて読みたい',
-  },
-  'zh-hant': {
-    contents: '目錄',
-    openContents: (current, total, heading) => `開啟目錄。第 ${current} 節，共 ${total} 節：${heading}`,
-    position: (current, total) => `${current} / ${total}`,
-    closeContents: '關閉目錄',
-    sectionsNav: '文章段落',
-    readingProgress: '閱讀進度',
-    couponLabel: (brand) => (brand ? `${brand} 優惠碼` : '優惠碼'),
-    copiedStatus: (code) => `已複製代碼 ${code}。`,
-    relatedTitle: '延伸閱讀',
-  },
-  'zh-hans': {
-    contents: '目录',
-    openContents: (current, total, heading) => `打开目录。第 ${current} 节，共 ${total} 节：${heading}`,
-    position: (current, total) => `${current} / ${total}`,
-    closeContents: '关闭目录',
-    sectionsNav: '文章段落',
-    readingProgress: '阅读进度',
-    couponLabel: (brand) => (brand ? `${brand} 优惠码` : '优惠码'),
-    copiedStatus: (code) => `已复制代码 ${code}。`,
-    relatedTitle: '延伸阅读',
-  },
-};
 
 const FOCUS_RING = 'focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-marinho';
 
@@ -150,6 +24,8 @@ export interface ReviewMobileBottomBarProps {
   coupon?: {
     code: string;
     brand?: string;
+    // Código de recompensa, como o CECILIA010 da YesStyle: o card não o chama de cupom.
+    kind?: 'reward';
     // Desconto e regra da loja em /cupons, quando ela usa o mesmo código.
     offer?: { discount: string; note: string; watermark?: string };
   };
@@ -184,8 +60,9 @@ export function ReviewMobileBottomBar({
 
   if (tocItems.length === 0) return null;
 
-  const copy = dockCopy[locale];
+  const copy = getSidebarCopy(locale);
   const couponCopy = getCouponCopyLabels(locale);
+  const couponTitle = coupon?.kind === 'reward' ? copy.rewardCodeLabel(coupon.brand) : copy.couponLabel(coupon?.brand);
   const visible = activeIndex >= 0;
   const current = Math.max(activeIndex, 0);
   const total = tocItems.length;
@@ -359,7 +236,7 @@ export function ReviewMobileBottomBar({
                     </div>
                     <div className="relative z-10 flex min-w-0 flex-1 flex-col gap-1 px-3 py-2.5">
                       <h3 id={couponTitleId} className="text-[15px] leading-5 font-extrabold">
-                        {copy.couponLabel(coupon.brand)}
+                        {couponTitle}
                       </h3>
                       <p className="text-[12.5px] leading-[17px] font-medium text-marinho-suave">{coupon.offer.note}</p>
                     </div>
@@ -367,7 +244,7 @@ export function ReviewMobileBottomBar({
                 </>
               ) : (
                 <h3 id={couponTitleId} className="px-3.5 pt-2.5 pb-2 text-[15px] leading-5 font-extrabold">
-                  {copy.couponLabel(coupon.brand)}
+                  {couponTitle}
                 </h3>
               )}
               <div className="relative z-10 flex items-center gap-2.5 border-t-2 border-dashed border-marinho bg-white py-2 pr-2 pl-3.5 has-[[data-copied=true]]:border-solid has-[[data-copied=true]]:border-verde-escuro has-[[data-copied=true]]:bg-verde-claro">

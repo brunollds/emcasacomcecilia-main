@@ -96,6 +96,8 @@ export type CouponCodeOffer = CouponBase & {
   code: string;
   // Omitido quando a parceria proíbe divulgar o percentual (ex.: Insider).
   discountNumber?: number;
+  // O código vai num campo próprio do checkout e não é cupom (o CECILIA010 da YesStyle).
+  codeKind?: 'reward';
   codeFieldLabel?: string;
   codeInstructions?: string[];
   history?: CouponHistory[];
@@ -330,6 +332,7 @@ export const COUPONS: Coupon[] = [
     offerTypeLabel: 'código de recompensa',
     offerTypeLabelPlural: 'códigos de recompensa',
     get offerActionLabel() { return `somar até ${getPrimaryRewardCode().newCustomerDiscount}% extras`; },
+    codeKind: 'reward',
     codeFieldLabel: 'Reward Code / Código de Recompensa',
     get codeInstructions() {
       const r = getPrimaryRewardCode();

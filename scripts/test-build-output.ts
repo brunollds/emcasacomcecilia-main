@@ -1,15 +1,17 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
+import { getCouponCopyLabels } from '../src/components/review/couponCopyLocale';
+import { getSidebarCopy } from '../src/components/review/sidebarCopy';
 import { getCouponBySlug } from '../src/lib/couponsData';
 import { getCouponLanguageLinks, getLocalizedCoupon, getTranslatedCouponRoutes } from '../src/lib/couponTranslations';
 import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
-import { LOCALES, LOCALE_KEYS } from '../src/lib/i18n/locales';
+import { LOCALES, LOCALE_KEYS, type Locale } from '../src/lib/i18n/locales';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
-// das lojas traduzidas, as páginas da YesStyle e o dock do sumário dos artigos. O <html lang> fica
-// com test-c2-html-lang.
+// das lojas traduzidas, as páginas da YesStyle, o dock e a sidebar dos artigos e os textos que citam
+// o CECILIA010. O <html lang> fica com test-c2-html-lang.
 const SITE_URL = 'https://emcasacomcecilia.com';
 const APP_DIR = path.resolve('.next/server/app');
 const CSS_DIR = path.resolve('.next/static/css');
@@ -29,6 +31,9 @@ function builtFile(url: string) {
 const withoutPage = (urls: string[]) => urls.filter((url) => !builtFile(url));
 
 const headOf = (html: string) => html.match(/<head>([\s\S]*?)<\/head>/)?.[1] ?? '';
+// O <body> sem scripts e sem os comentários que o React põe entre expressões de texto.
+const bodyOf = (html: string) =>
+  (html.match(/<body[^>]*>([\s\S]*)<\/body>/)?.[1] ?? '').replace(/<(script|style)\b[\s\S]*?<\/\1>/g, '').replace(/<!--[\s\S]*?-->/g, '');
 const jsonLdOf = (html: string) =>
   [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].map(([, json]) => JSON.parse(json));
 
@@ -132,9 +137,9 @@ const decodeHtml = (html: string) =>
 const textOf = (html: string) => decodeHtml(html.replace(/<[^>]+>/g, '')).trim();
 
 // O CECILIA010 é código de recompensa, não cupom: vai no campo Reward Code e soma com os cupons da
-// loja. Nenhum texto das páginas da YesStyle pode chamá-lo de cupom ("cupom CECILIA010", "CECILIA010
-// coupon") nem falar em usá-lo com outros cupons, o que faria dele um cupom também. A terceira regra
-// para no fim da frase: "Com outro cupom, não" logo depois do código fala do cupom da loja.
+// loja. Nenhum texto do site pode chamá-lo de cupom ("cupom CECILIA010", "CECILIA010 coupon") nem
+// falar em usá-lo com outros cupons, o que faria dele um cupom também. A terceira regra para no fim
+// da frase: "Com outro cupom, não" logo depois do código fala do cupom da loja.
 const rewardCode = getPrimaryRewardCode().code;
 const COUPON_WORDS = 'cupom|cupons|cupón|cupones|coupons?|gutscheine?|쿠폰|クーポン|優惠碼|优惠码';
 const OTHER_COUPONS =
@@ -205,19 +210,6 @@ for (const { locale, hubPath, htmlLang, openGraphLocale } of yesStyleHubs) {
     visibleFaq,
     `${hubPath}: FAQPage diferente das perguntas na página`
   );
-
-  // Cada trecho de texto conta sozinho, para o código não "encostar" no título da seção seguinte.
-  const texts = [
-    ...main.replace(/<(script|style)\b[\s\S]*?<\/\1>/g, '').split(/<[^>]+>/),
-    ...[...main.matchAll(/aria-label="([^"]*)"/g)].map(([, label]) => label),
-    rawTitle,
-    ...[...head.matchAll(/<meta [^>]*content="([^"]*)"/g)].map(([, content]) => content),
-  ].map((text) => decodeHtml(text).replace(/\s+/g, ' ').trim());
-  assert.deepEqual(
-    texts.filter((text) => REWARD_CODE_AS_COUPON.test(text)),
-    [],
-    `${hubPath}: texto que chama o ${rewardCode} de cupom`
-  );
 }
 
 const VOID_TAGS = new Set(['area', 'base', 'br', 'col', 'embed', 'hr', 'img', 'input', 'link', 'meta', 'source', 'track', 'wbr']);
@@ -233,8 +225,18 @@ function openElementsAt(body: string, index: number) {
   return open;
 }
 
-// Todo artigo tem o dock do sumário no celular (ReviewMobileBottomBar). Um artigo sem nenhuma seção
-// com título fica sem dock; se um dia isso for de propósito, tire-o desta conferência.
+// Textos da sidebar do desktop em todos os idiomas, menos os do idioma da página.
+const SIDEBAR_TEXT_KEYS = ['sectionsNav', 'tocTitle', 'copyHint', 'copiedHint', 'relatedTitle'] as const;
+function foreignSidebarText(locale: Locale) {
+  const own = new Set(SIDEBAR_TEXT_KEYS.map((key) => getSidebarCopy(locale)[key]));
+  return new Set(
+    LOCALE_KEYS.flatMap((other) => SIDEBAR_TEXT_KEYS.map((key) => getSidebarCopy(other)[key])).filter((text) => !own.has(text))
+  );
+}
+
+// Todo artigo tem o dock do sumário no celular (ReviewMobileBottomBar) e a sidebar no desktop
+// (ReviewSidebar). Um artigo sem nenhuma seção com título fica sem dock e sem o sumário da sidebar;
+// se um dia isso for de propósito, tire-o desta conferência.
 const articleUrls = sitemapUrls.filter((url) => /\/reviews\/[^/]+$/.test(new URL(url).pathname));
 assert.ok(articleUrls.length > 0, 'sitemap.xml sem artigos');
 for (const url of articleUrls) {
@@ -242,9 +244,7 @@ for (const url of articleUrls) {
   const file = builtFile(url);
   assert.ok(file, `${pagePath}: página não gerada no build`);
   const html = read(file);
-  const body = (html.match(/<body[^>]*>([\s\S]*)<\/body>/)?.[1] ?? '')
-    .replace(/<(script|style)\b[\s\S]*?<\/\1>/g, '')
-    .replace(/<!--[\s\S]*?-->/g, '');
+  const body = bodyOf(html);
   assert.equal(openElementsAt(body, body.length), 0, `${pagePath}: as tags do <body> não fecham`);
 
   const dialogs = body.match(/<dialog\b[\s\S]*?<\/dialog>/g) ?? [];
@@ -268,8 +268,102 @@ for (const url of articleUrls) {
     // O card com desconto e regra (canhoto de 92px) usa os textos de /cupons, que só existem em português.
     assert.ok(!dialog.includes('w-[92px]'), `${pagePath}: card completo do cupom fora do português`);
   }
+
+  // A sidebar segue o idioma do artigo, com os textos de sidebarCopy.ts. A outra <aside> dos artigos
+  // é a nota editorial, sem <nav>.
+  const locale = LOCALE_KEYS.find((key) => key === pagePath.split('/')[1]) ?? 'pt';
+  const copy = getSidebarCopy(locale);
+  const sidebars = [...body.matchAll(/<aside\b[\s\S]*?<\/aside>/g)].map(([aside]) => aside).filter((aside) => aside.includes('<nav '));
+  assert.equal(sidebars.length, 1, `${pagePath}: ${sidebars.length} sidebars em vez de uma`);
+  const [sidebar] = sidebars;
+  const sidebarTexts = [
+    ...[...sidebar.matchAll(/aria-label="([^"]*)"/g)].map(([, label]) => decodeHtml(label)),
+    ...sidebar.split(/<[^>]+>/).map((text) => decodeHtml(text).trim()).filter(Boolean),
+  ];
+  const code = sidebar.match(/data-copied="false"[^>]*>([^<]+)</)?.[1];
+  const expectedTexts = [
+    copy.sectionsNav,
+    copy.tocTitle,
+    ...(code ? [getCouponCopyLabels(locale).copyCoupon(code), copy.copyHint, copy.copiedHint] : []),
+  ];
+  assert.deepEqual(expectedTexts.filter((text) => !sidebarTexts.includes(text)), [], `${pagePath}: sidebar sem os textos do idioma`);
+  const foreign = foreignSidebarText(locale);
+  assert.deepEqual(sidebarTexts.filter((text) => foreign.has(text)), [], `${pagePath}: sidebar com texto de outro idioma`);
 }
 
+// Toda página que cita o CECILIA010 segue a regra: as 10 da YesStyle, os artigos, /cupons e as lojas
+// com o card da YesStyle em "Outros cupons". Cada bloco de texto conta sozinho, para o código não
+// "encostar" no título da seção seguinte; tags inline não cortam o trecho, senão o destaque do
+// código nos artigos (um <span>) separaria "cupom" do código.
+const INLINE_TAGS = /<\/?(?:a|abbr|b|code|em|i|mark|small|span|strong|sub|sup|time|u)\b[^>]*>/g;
+const COUPON_WORD = new RegExp(`(?:${COUPON_WORDS})`, 'iu');
+const stringsOf = (value: unknown): string[] =>
+  typeof value === 'string' ? [value] : value && typeof value === 'object' ? Object.values(value).flatMap(stringsOf) : [];
+const builtPages = (dir: string): string[] =>
+  fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
+    const full = path.join(dir, entry.name);
+    return entry.isDirectory() ? builtPages(full) : entry.name.endsWith('.html') ? [full] : [];
+  });
+
+// Os <article> sem outro <article> dentro, com o conteúdo até o </article> que os fecha.
+function innermostArticles(body: string) {
+  const articles: { attributes: string; inner: string }[] = [];
+  const open: { attributes: string; start: number }[] = [];
+  for (const match of body.matchAll(/<(\/?)article\b([^>]*)>/g)) {
+    if (!match[1]) {
+      open.push({ attributes: match[2], start: match.index + match[0].length });
+      continue;
+    }
+    const article = open.pop();
+    const inner = article ? body.slice(article.start, match.index) : '';
+    if (article && !inner.includes('<article')) articles.push({ attributes: article.attributes, inner });
+  }
+  return articles;
+}
+
+let rewardCodePages = 0;
+for (const file of builtPages(APP_DIR)) {
+  const html = read(file);
+  if (!html.includes(rewardCode)) continue;
+  rewardCodePages++;
+  const pagePath = `/${path.relative(APP_DIR, file).replace(/\\/g, '/').replace(/\.html$/, '').replace(/^index$/, '')}`;
+  const head = headOf(html);
+  const body = bodyOf(html);
+  const texts = [
+    ...body.replace(INLINE_TAGS, '').split(/<[^>]+>/).map(decodeHtml),
+    ...[...body.matchAll(/aria-label="([^"]*)"/g)].map(([, label]) => decodeHtml(label)),
+    decodeHtml(head.match(/<title>([^<]*)<\/title>/)?.[1] ?? ''),
+    ...[...head.matchAll(/<meta [^>]*content="([^"]*)"/g)].map(([, content]) => decodeHtml(content)),
+    ...jsonLdOf(html).flatMap(stringsOf),
+  ].map((text) => text.replace(/\s+/g, ' ').trim());
+  assert.deepEqual(
+    texts.filter((text) => REWARD_CODE_AS_COUPON.test(text)),
+    [],
+    `${pagePath}: texto que chama o ${rewardCode} de cupom`
+  );
+
+  // O nome do card que mostra o código (gaveta do dock, /cupons e "Outros cupons") fica longe dele,
+  // fora do alcance das regras acima.
+  for (const { attributes, inner } of innermostArticles(body)) {
+    if (!inner.includes(`>${rewardCode}</code>`)) continue;
+    const labelledBy = attributes.match(/aria-labelledby="([^"]+)"/)?.[1];
+    const name =
+      attributes.match(/aria-label="([^"]*)"/)?.[1] ?? body.split(`id="${labelledBy}"`)[1]?.match(/>([^<]*)</)?.[1];
+    assert.ok(name, `${pagePath}: card do ${rewardCode} sem nome`);
+    assert.doesNotMatch(decodeHtml(name), COUPON_WORD, `${pagePath}: card do ${rewardCode} com nome de cupom`);
+  }
+}
+assert.ok(rewardCodePages > yesStyleHubs.length, `só ${rewardCodePages} páginas citam o ${rewardCode}`);
+
+// A ItemList de /cupons dá a cada loja o nome do card.
+const couponsHubFile = builtFile(`${SITE_URL}/cupons`);
+assert.ok(couponsHubFile, '/cupons: página não gerada no build');
+const yesStyleListItem = jsonLdOf(read(couponsHubFile))
+  .find((schema) => schema['@type'] === 'ItemList')
+  ?.itemListElement.find(({ url }) => url === `${SITE_URL}${YESSTYLE_LOCALES.pt.hubPath}`);
+assert.ok(yesStyleListItem?.name.includes(rewardCode), `/cupons: YesStyle fora da ItemList ou sem o ${rewardCode}`);
+assert.doesNotMatch(yesStyleListItem.name, COUPON_WORD, `/cupons: a ItemList chama o ${rewardCode} de cupom`);
+
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle e o dock de ${articleUrls.length} artigos conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock e a sidebar de ${articleUrls.length} artigos e o ${rewardCode} em ${rewardCodePages} páginas conferidos.`
 );

@@ -24,7 +24,7 @@ npm run test:coupon-translations  # lojas em outros idiomas: texto traduzido, c�
 npm run validate:yesstyle    # data/coupons/yesstyle.json; falha com oferta ativa vencida (data em UTC)
 npm run test:analytics-gate  # allowlist de hosts do GA4
 npm run test:html-lang       # depois do build: <html lang> de cada rota
-npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas, SEO e textos das 10 páginas da YesStyle e dock dos artigos
+npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas, SEO das 10 páginas da YesStyle, dock e sidebar dos artigos e textos que citam o CECILIA010
 ```
 
 `npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
@@ -122,6 +122,10 @@ vídeo, primeiras impressões e uso noturno.
 - `ReviewNotebookTemplate` monta o artigo. A seção atual e o progresso de leitura vêm de
   `useReadingPosition`, que alimenta o `ReviewSidebar` (desktop) e o `ReviewMobileBottomBar`
   (celular: dock `sticky` e gaveta do sumário num `<dialog>` aberto com `showModal()`).
+- Os textos dos dois, nos 10 idiomas, ficam em `src/components/review/sidebarCopy.ts`; o rótulo de
+  cópia do código vem de `couponCopyLocale.ts`, e o botão de copiar é o `CopyCodeButton` de
+  `CouponActions.tsx` nos dois. `npm run test:build-output` confere a sidebar de cada artigo no
+  idioma dele.
 - O dock e a gaveta ficam direto no `<body>`: dentro do fundo editorial, `.editorial-ambient-bg > *`
   troca o `sticky` por `relative`. `npm run test:build-output` confere isso em todos os artigos.
 - Com a gaveta aberta, o resto da página fica inerte. O que precisa de foco nesse momento vai
@@ -137,10 +141,11 @@ vídeo, primeiras impressões e uso noturno.
   o dock aparece depois que o recorte `#cupom` sobe e sai da tela.
 - O CECILIA010 é código de recompensa, não cupom: vai no campo Reward Code e soma com os cupons
   da própria YesStyle. Nenhum texto ou `aria-label` pode chamá-lo de cupom nem falar em usá-lo
-  "com outros cupons"; `npm run test:build-output` confere as 10 páginas da YesStyle. Fora delas
-  ainda há rótulos compartilhados que dizem "cupom": o botão da faixa de benefícios da home
-  (`CouponStrip`), o `copyCoupon` do dock dos artigos (`couponCopyLocale.ts`) e o nome da
-  YesStyle na ItemList de `/cupons`.
+  "com outros cupons". Os rótulos de cópia compartilhados dizem "código" (`couponCopyLocale.ts`,
+  `CouponStrip`); o que nomeia o tipo do código lê da loja em `couponsData.ts`: o
+  `codeKind: 'reward'` no dock dos artigos, nos 10 idiomas, e o `offerTypeLabel` nos cards e na
+  ItemList de `/cupons`. `npm run test:build-output` confere toda página que cita o código,
+  inclusive o nome dos cards que o mostram; a faixa da home só existe no navegador e fica de fora.
 
 ### Styling
 Tailwind CSS v4 via `@import "tailwindcss"` in `globals.css`. Custom tokens defined in `@theme inline {}` block — use these instead of arbitrary values:
