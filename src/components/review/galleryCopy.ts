@@ -1,5 +1,8 @@
 import type { Locale } from '@/lib/i18n/locales';
 
+// O francês pede espaço antes de : ; ? ! e %, e ele não pode quebrar a linha.
+const NBSP = ' ';
+
 // Textos da galeria de fotos e vídeos do fim do artigo (ReviewGallerySection). O título de vídeo
 // sem nome vem de articleCopy.ts.
 export type GalleryCopy = {
@@ -126,7 +129,7 @@ const galleryCopy: Record<Locale, GalleryCopy> = {
     previousImage: 'Image précédente',
     nextImage: 'Image suivante',
     imageAlt: 'Image de la galerie',
-    enlargeNamed: (alt) => `Agrandir l’image : ${alt}`,
+    enlargeNamed: (alt) => `Agrandir l’image${NBSP}: ${alt}`,
     enlargedImage: (position, total) => `Image agrandie ${position} sur ${total}`,
     imageCarousel: 'Carrousel d’images',
   },

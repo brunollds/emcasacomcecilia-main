@@ -1,5 +1,8 @@
 import type { Locale } from '@/lib/i18n/locales';
 
+// O francês pede espaço antes de : ; ? ! e %, e ele não pode quebrar a linha.
+const NBSP = ' ';
+
 // Textos da barra de compartilhar (ShareBar). Os nomes das redes não mudam de idioma.
 export type ShareCopy = {
   share: string;
@@ -32,11 +35,11 @@ const shareCopy: Record<Locale, ShareCopy> = {
     copied: '¡Copiado!',
   },
   fr: {
-    share: 'Partager :',
+    share: `Partager${NBSP}:`,
     shareOn: (network) => `Partager sur ${network}`,
     shareByEmail: 'Partager par e-mail',
     copyLink: 'Copier le lien',
-    copied: 'Copié !',
+    copied: `Copié${NBSP}!`,
   },
   de: {
     share: 'Teilen:',

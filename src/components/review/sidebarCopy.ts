@@ -1,6 +1,9 @@
 import type { CouponCodeKind } from '@/lib/couponsData';
 import type { Locale } from '@/lib/i18n/locales';
 
+// O francês pede espaço antes de : ; ? ! e %, e ele não pode quebrar a linha.
+const NBSP = ' ';
+
 // Textos do sidebar do artigo: o ReviewSidebar no desktop e o equivalente dele no celular, o dock
 // e a gaveta do ReviewMobileBottomBar. O rótulo de cópia do código vem de couponCopyLocale.ts.
 export type SidebarCopy = {
@@ -86,7 +89,7 @@ const sidebarCopy: Record<Locale, SidebarCopy> = {
   },
   fr: {
     contents: 'Sommaire',
-    openContents: (current, total, heading) => `Ouvrir le sommaire. Section ${current} sur ${total} : ${heading}`,
+    openContents: (current, total, heading) => `Ouvrir le sommaire. Section ${current} sur ${total}${NBSP}: ${heading}`,
     position: (current, total) => `${current} sur ${total}`,
     closeContents: 'Fermer le sommaire',
     sectionsNav: 'Sections de l’article',
