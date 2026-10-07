@@ -1,14 +1,16 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
+import { getCouponCopyLabels } from '../src/components/review/couponCopyLocale';
+import { getSidebarCopy } from '../src/components/review/sidebarCopy';
 import { getCouponBySlug } from '../src/lib/couponsData';
 import { getCouponLanguageLinks, getLocalizedCoupon, getTranslatedCouponRoutes } from '../src/lib/couponTranslations';
 import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
-import { LOCALES, LOCALE_KEYS } from '../src/lib/i18n/locales';
+import { LOCALES, LOCALE_KEYS, type Locale } from '../src/lib/i18n/locales';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
-// das lojas traduzidas, as páginas da YesStyle, o dock do sumário dos artigos e os textos que citam
+// das lojas traduzidas, as páginas da YesStyle, o dock e a sidebar dos artigos e os textos que citam
 // o CECILIA010. O <html lang> fica com test-c2-html-lang.
 const SITE_URL = 'https://emcasacomcecilia.com';
 const APP_DIR = path.resolve('.next/server/app');
@@ -223,8 +225,18 @@ function openElementsAt(body: string, index: number) {
   return open;
 }
 
-// Todo artigo tem o dock do sumário no celular (ReviewMobileBottomBar). Um artigo sem nenhuma seção
-// com título fica sem dock; se um dia isso for de propósito, tire-o desta conferência.
+// Textos da sidebar do desktop em todos os idiomas, menos os do idioma da página.
+const SIDEBAR_TEXT_KEYS = ['sectionsNav', 'tocTitle', 'copyHint', 'copiedHint', 'relatedTitle'] as const;
+function foreignSidebarText(locale: Locale) {
+  const own = new Set(SIDEBAR_TEXT_KEYS.map((key) => getSidebarCopy(locale)[key]));
+  return new Set(
+    LOCALE_KEYS.flatMap((other) => SIDEBAR_TEXT_KEYS.map((key) => getSidebarCopy(other)[key])).filter((text) => !own.has(text))
+  );
+}
+
+// Todo artigo tem o dock do sumário no celular (ReviewMobileBottomBar) e a sidebar no desktop
+// (ReviewSidebar). Um artigo sem nenhuma seção com título fica sem dock e sem o sumário da sidebar;
+// se um dia isso for de propósito, tire-o desta conferência.
 const articleUrls = sitemapUrls.filter((url) => /\/reviews\/[^/]+$/.test(new URL(url).pathname));
 assert.ok(articleUrls.length > 0, 'sitemap.xml sem artigos');
 for (const url of articleUrls) {
@@ -256,6 +268,27 @@ for (const url of articleUrls) {
     // O card com desconto e regra (canhoto de 92px) usa os textos de /cupons, que só existem em português.
     assert.ok(!dialog.includes('w-[92px]'), `${pagePath}: card completo do cupom fora do português`);
   }
+
+  // A sidebar segue o idioma do artigo, com os textos de sidebarCopy.ts. A outra <aside> dos artigos
+  // é a nota editorial, sem <nav>.
+  const locale = LOCALE_KEYS.find((key) => key === pagePath.split('/')[1]) ?? 'pt';
+  const copy = getSidebarCopy(locale);
+  const sidebars = [...body.matchAll(/<aside\b[\s\S]*?<\/aside>/g)].map(([aside]) => aside).filter((aside) => aside.includes('<nav '));
+  assert.equal(sidebars.length, 1, `${pagePath}: ${sidebars.length} sidebars em vez de uma`);
+  const [sidebar] = sidebars;
+  const sidebarTexts = [
+    ...[...sidebar.matchAll(/aria-label="([^"]*)"/g)].map(([, label]) => decodeHtml(label)),
+    ...sidebar.split(/<[^>]+>/).map((text) => decodeHtml(text).trim()).filter(Boolean),
+  ];
+  const code = sidebar.match(/data-copied="false"[^>]*>([^<]+)</)?.[1];
+  const expectedTexts = [
+    copy.sectionsNav,
+    copy.tocTitle,
+    ...(code ? [getCouponCopyLabels(locale).copyCoupon(code), copy.copyHint, copy.copiedHint] : []),
+  ];
+  assert.deepEqual(expectedTexts.filter((text) => !sidebarTexts.includes(text)), [], `${pagePath}: sidebar sem os textos do idioma`);
+  const foreign = foreignSidebarText(locale);
+  assert.deepEqual(sidebarTexts.filter((text) => foreign.has(text)), [], `${pagePath}: sidebar com texto de outro idioma`);
 }
 
 // Toda página que cita o CECILIA010 segue a regra: as 10 da YesStyle, os artigos, /cupons e as lojas
@@ -332,5 +365,5 @@ assert.ok(yesStyleListItem?.name.includes(rewardCode), `/cupons: YesStyle fora d
 assert.doesNotMatch(yesStyleListItem.name, COUPON_WORD, `/cupons: a ItemList chama o ${rewardCode} de cupom`);
 
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock de ${articleUrls.length} artigos e o ${rewardCode} em ${rewardCodePages} páginas conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock e a sidebar de ${articleUrls.length} artigos e o ${rewardCode} em ${rewardCodePages} páginas conferidos.`
 );
