@@ -8,17 +8,18 @@ Identificar dores reais, dúvidas técnicas de pós-compra e lacunas de informa�
 ---
 
 ## 2. Portões Obrigatórios (Hard Gates — Eliminatórios)
-Antes de calcular qualquer pontuação, a pauta DEVE passar por todos os 6 portões. Se qualquer resposta for "NÃO", a pauta é descartada ou arquivada em `03_Memoria/Descartadas.md`.
+Antes de calcular qualquer pontuação, a pauta DEVE passar por todos os 7 portões. Se qualquer resposta for "NÃO", a pauta é descartada ou arquivada em `03_Memoria/Descartadas.md`.
 
 - [ ] **1. Evidência Factual Suficiente:** Temos prova verificável (manual físico, dosagem oficial da Anvisa, dados públicos, medidas, foto de tecido)?
-- [ ] **2. Segurança Regulatória & Éthica:** Os claims propostos são 100% seguros (sem falsas alegações médicas ou promessas milagrosas)?
+- [ ] **2. Segurança Regulatória & Ética:** Os claims propostos são 100% seguros (sem falsas alegações médicas ou promessas milagrosas)?
 - [ ] **3. Fronteira Factual vs Experiência Própria:** A pauta respeita a evidência disponível (sem simular teste pessoal se não houver prova)?
 - [ ] **4. Anti-Canibalização & Não Duplicação:** Não divide intenção com `/cupons/<marca>` nem duplica artigo existente?
 - [ ] **5. Classe Editorial Válida:** Enquadra-se com clareza em uma das 4 classes (`category`)?
 - [ ] **6. Fontes Acessíveis & Atuais:** As fontes foram consultadas recentemente e são estáveis?
-- [ ] **7. Decisão i18n Registrada:** A pauta foi marcada como `somente-pt`,
-  `paridade-completa` ou `liberar-por-conversao`, com `translationKey` prevista
-  quando fizer parte de uma família, sem assumir tradução automática?
+- [ ] **7. Decisão i18n Registrada:** A pauta foi marcada como `somente-pt` ou
+  `paridade-completa` (YesStyle e SHEIN saem nos 10 idiomas), com `translationKey`
+  prevista quando abrir uma família? As traduções são localização editorial, não
+  tradução automática.
 
 ---
 
@@ -54,8 +55,8 @@ Registrar no briefing:
 ## 6. Output Esperado
 Criar o arquivo `02_Artigos/<slug>.md` utilizando o `04_Templates/Template-Briefing-Pauta.md`.
 
-Quando a pauta pertence a um parceiro multilíngue, registrar também a chave estável
-do artigo e ligar a pauta à nota em `03_Memoria/Clusters-Multilingues/`. Para a
-SHEIN, estrutura pronta não autoriza tradução: o gate de conversão do PT continua
-obrigatório. `i18n_cluster` documenta o contexto; `translationKey` será a chave
-que o JSON usa para conectar as versões.
+Quando a pauta pertence a um parceiro multilíngue (hoje YesStyle e SHEIN), ela sai
+nos 10 idiomas: registrar a chave estável do artigo e ligar a pauta à nota em
+`03_Memoria/Clusters-Multilingues/`. `i18n_cluster` documenta o contexto;
+`translationKey` é a chave que o JSON usa para conectar as versões. Os modos estão
+em `03_Memoria/Clusters-Multilingues/Modelo-Operacional.md`.

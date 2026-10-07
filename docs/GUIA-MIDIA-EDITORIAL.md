@@ -54,9 +54,15 @@ Nao registrar caminhos absolutos da maquina nos documentos ou manifestos version
 
 ```powershell
 $staging = 'C:\Users\Bruno\Downloads\Midias-Editorial'
-node scripts/media/inventory.mjs --merge --staging-root "$staging" --stdout
-node scripts/media/inventory.mjs --merge --staging-root "$staging" --out data/media-manifest.json
+node scripts/media/inventory.mjs --merge --staging-root "$staging" --stdout > "$env:TEMP\media-manifest-merge.json"
 ```
+
+Nao gravar a saida inteira em data/media-manifest.json. O merge reordena todos os assets
+por source_path e, num worktree, reescreve as references de centenas deles: em 05/10/2026,
+9 imagens novas deram um diff de mais de 4.000 linhas. Copiar da saida so as entradas novas
+e inseri-las no manifesto onde a ordem de source_path as colocaria, sem reordenar o resto.
+`git diff --stat -- data/media-manifest.json` deve mostrar so insercoes, cerca de 40 linhas
+por asset (precedentes: 7b206d8 e 6c63232).
 
 Preservar provas apenas para identidades intactas. Novos/alterados exigem nova
 verificacao. Se o original staged ja foi retido em public/, o merge por scan
