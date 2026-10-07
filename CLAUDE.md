@@ -123,6 +123,10 @@ vídeo, primeiras impressões e uso noturno.
 - A vitrine em português (`/reviews`, home e busca) só mostra artigos em português, pelo `locale`.
   As versões em outros idiomas seguem com `hideFromPortugueseListings: true`, que o
   `validate:content` cobra nas famílias registradas em `clusters/yesstyle.ts`.
+- A seção de FAQ vira o `FAQPage` do schema pelo título, que precisa estar em `isFaqHeading`
+  (`src/lib/review-template-props.js`); o Job 4 do vault traz o título de cada idioma. O
+  `test:review-i18n` confere o formato "pergunta? resposta" de cada item e exige a seção em todas
+  as versões quando a família tem FAQ.
 - O processo editorial (pauta, redação, revisão, JSON e gates) está no vault
   `docs/Memoria de Artigos/memreview`, a partir de `00_Sistema/AI-PRIMING-INDEX.md`.
 

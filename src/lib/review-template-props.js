@@ -20,6 +20,37 @@ import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 export { getYoutubeEmbedUrl };
 
+// Títulos que fazem uma seção virar o FAQPage do schema. O Job 4 do vault diz qual usar em cada idioma.
+const FAQ_HEADINGS = [
+  'perguntas frequentes',
+  'faq',
+  'frequently asked',
+  'preguntas frecuentes',
+  'questions fréquentes',
+  'foire aux questions',
+  'häufige fragen',
+  'häufig gestellte',
+  'domande frequenti',
+  '자주 묻는',
+  'よくある',
+  '常見問題',
+  '常见问题',
+];
+
+/** @param {string | undefined} heading */
+export function isFaqHeading(heading) {
+  if (!heading) return false;
+  const h = heading.toLowerCase();
+  return FAQ_HEADINGS.some((fragment) => h.includes(fragment));
+}
+
+// Item do FAQ: a pergunta até o "?" ("？" em chinês e japonês) e a resposta logo depois.
+/** @param {string} bullet */
+export function parseFaqBullet(bullet) {
+  const match = bullet.match(/^([^\?\uFF1F]+[\?\uFF1F])\s*(.+)$/);
+  return match ? { question: match[1].trim(), answer: match[2].trim() } : null;
+}
+
 export function getRelatedReviews(review, reviewCorpus = publishedReviews) {
   const locale = resolveReviewLocale(review.locale);
   return reviewCorpus
@@ -167,41 +198,21 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
       : {}),
   };
 
-  const isFaqHeading = (heading) => {
-    if (!heading) return false;
-    const h = heading.toLowerCase();
-    return (
-      h.includes('perguntas frequentes') ||
-      h.includes('faq') ||
-      h.includes('frequently asked') ||
-      h.includes('preguntas frecuentes') ||
-      h.includes('foire aux questions') ||
-      h.includes('häufig gestellte') ||
-      h.includes('자주 묻는') ||
-      h.includes('よくある') ||
-      h.includes('常見問題') ||
-      h.includes('常见问题')
-    );
-  };
-
   const faqSection = review.contentSections?.find((s) => isFaqHeading(s.heading));
 
   let faqJsonLd = null;
   if (faqSection && faqSection.bullets) {
-    const mainEntity = faqSection.bullets.map((bullet) => {
-      const qMatch = bullet.match(/^([^\?\uFF1F]+[\?\uFF1F])\s*(.+)$/);
-      if (qMatch) {
-        return {
-          '@type': 'Question',
-          name: qMatch[1].trim(),
-          acceptedAnswer: {
-            '@type': 'Answer',
-            text: qMatch[2].trim(),
-          },
-        };
-      }
-      return null;
-    }).filter(Boolean);
+    const mainEntity = faqSection.bullets
+      .map(parseFaqBullet)
+      .filter(Boolean)
+      .map(({ question, answer }) => ({
+        '@type': 'Question',
+        name: question,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: answer,
+        },
+      }));
 
     if (mainEntity.length > 0) {
       faqJsonLd = {

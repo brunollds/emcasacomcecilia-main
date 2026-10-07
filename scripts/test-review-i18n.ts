@@ -6,7 +6,7 @@ import { detectDuplicateReviewPathnames, formatDate, getReviewDefaultTranslation
 import { getCouponStorePath } from '@/lib/couponTranslations';
 import { LOCALE_KEYS } from '@/lib/i18n/locales';
 import { getCouponBrandFromHref, getInternalHref, isCouponPageLink } from '@/lib/internalLinks';
-import { resolveRelatedArticleLinks } from '@/lib/review-template-props';
+import { isFaqHeading, parseFaqBullet, resolveRelatedArticleLinks } from '@/lib/review-template-props';
 
 interface ReviewSource {
   slug: string;
@@ -14,6 +14,7 @@ interface ReviewSource {
   locale?: string;
   affiliate?: string;
   coupon?: string;
+  contentSections?: Array<{ heading?: string; bullets?: string[] }>;
 }
 
 const contentReviewsDir = path.join(process.cwd(), 'content', 'reviews');
@@ -196,6 +197,11 @@ function collectLinks(value: unknown): string[] {
       const values = [...new Set(family.map((review) => review[field] ?? '(vazio)'))];
       assert.equal(values.length, 1, `${key}: ${field} diferente entre as versões: ${values.join(', ')}`);
     }
+    const withoutFaq = family.filter((review) => !review.contentSections?.some((section) => isFaqHeading(section.heading)));
+    assert.ok(
+      withoutFaq.length === 0 || withoutFaq.length === family.length,
+      `${key}: seção de FAQ não reconhecida em ${withoutFaq.map((review) => review.locale).join(', ')}`
+    );
   }
 
   // O link da página da loja segue o idioma do artigo: /cupons/<marca> em português e
@@ -210,6 +216,20 @@ function collectLinks(value: unknown): string[] {
         brand && pathname === getCouponStorePath(brand, locale),
         `${review.slug}: link de loja fora do idioma do artigo: ${href}`
       );
+    }
+  }
+
+  // A seção de FAQ vira o FAQPage do schema: o título precisa estar na lista do template e cada
+  // item precisa trazer a pergunta e a resposta. Estes são os títulos que o Job 4 do vault indica.
+  for (const heading of ['Perguntas frequentes', 'Frequently asked questions', 'Preguntas frecuentes', 'Questions fréquentes', 'Häufige Fragen', 'Domande frequenti', '자주 묻는 질문', 'よくある質問', '常見問題', '常见问题']) {
+    assert.equal(isFaqHeading(heading), true, `título de FAQ do Job 4 não reconhecido: ${heading}`);
+  }
+  for (const review of reviews) {
+    const faq = review.contentSections?.find((section) => isFaqHeading(section.heading));
+    if (!faq) continue;
+    assert.ok(faq.bullets?.length, `${review.slug}: seção de FAQ sem bullets`);
+    for (const bullet of faq.bullets ?? []) {
+      assert.ok(parseFaqBullet(bullet), `${review.slug}: item do FAQ sem pergunta e resposta: ${bullet.slice(0, 80)}`);
     }
   }
 
