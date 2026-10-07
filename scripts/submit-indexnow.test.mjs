@@ -51,6 +51,20 @@ test('recusa argumento com "-" na frente antes de qualquer chamada de rede', () 
   }
 });
 
+test('recusa caminho do Windows (o Git Bash converte /caminho) antes de qualquer chamada de rede', () => {
+  const cases = [
+    [[`${BASE_URL}/`, 'C:/Program Files/Git/sitemap.xml'], 'C:/Program Files/Git/sitemap.xml'],
+    [['--dry-run', 'A:/'], 'A:/'],
+    [['c:\\Users\\Bruno\\llms.txt'], 'c:\\Users\\Bruno\\llms.txt'],
+  ];
+  for (const [args, path] of cases) {
+    const result = run(args);
+    assert.equal(result.status, 1, `${args.join(' ')}\n${result.stdout}`);
+    assert.ok(result.stderr.includes(`Caminho do Windows: ${path}\n`), result.stderr);
+    assert.deepEqual(result.fetches, [], args.join(' '));
+  }
+});
+
 test('--dry-run mostra host, keyLocation e urlList sem chamar o IndexNow', () => {
   const result = run(['--dry-run', `${BASE_URL}/reviews/exemplo`, '/receitas']);
   assert.equal(result.status, 0, result.stderr);
