@@ -3,16 +3,23 @@
 import { useState } from 'react';
 import { Check, Copy } from 'lucide-react';
 import { getCouponCopyLabels, type CouponCopyLocale } from './couponCopyLocale';
+import type { CouponCodeKind } from '@/lib/couponsData';
 import { trackEvent } from '@/lib/analytics';
 
 export interface InlineCouponCopyProps {
   coupon: string;
   locale?: CouponCopyLocale;
+  // O código de indicação (SHEIN) é pesquisado no aplicativo da loja, não usado no checkout.
+  kind?: CouponCodeKind;
+  brand?: string;
 }
 
-export function InlineCouponCopy({ coupon, locale = 'pt' }: InlineCouponCopyProps): React.ReactElement {
+export function InlineCouponCopy({ coupon, locale = 'pt', kind, brand }: InlineCouponCopyProps): React.ReactElement {
   const [copied, setCopied] = useState(false);
   const labels = getCouponCopyLabels(locale);
+  const { prefix, suffix } = kind === 'referral' && brand
+    ? labels.inlineReferral(brand)
+    : { prefix: labels.inlinePrefix, suffix: labels.inlineSuffix };
 
   const handleCopy = async () => {
     try {
@@ -31,13 +38,13 @@ export function InlineCouponCopy({ coupon, locale = 'pt' }: InlineCouponCopyProp
   return (
     <div className="mb-6 inline-flex flex-wrap items-center gap-3 rounded-xl border border-[#1a4d2e]/10 bg-[#faf8f3] px-4 py-2.5 print:hidden">
       <span className="text-sm text-[#4a5568]">
-        {labels.inlinePrefix}
+        {prefix}
       </span>
       <span className="font-mono text-base font-black tracking-[0.04em] text-[#1a4d2e]">
         {coupon}
       </span>
       <span className="text-sm text-[#4a5568]">
-        {labels.inlineSuffix}
+        {suffix}
       </span>
       <button
         type="button"

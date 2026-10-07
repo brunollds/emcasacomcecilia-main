@@ -8,7 +8,7 @@ import { ShareBar } from '@/components/shared/ShareBar';
 import { ReviewGallerySection } from './ReviewGallerySection';
 import { ArticleByline, ChangelogDetails, EditorialAmbientBackground, EditorialReveal, SectionHeadingReveal, SectionLinkButton, EditorialNotePill } from '@/components/editorial';
 import { contentSectionsToPlainText, formatDate, generateSectionIds, type Review, type ReviewViewModel } from '@/lib/content';
-import { getCouponBySlug } from '@/lib/couponsData';
+import { getCouponBySlug, getStoreCodeKind } from '@/lib/couponsData';
 import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 import { ReadingProgressBar } from './ReadingProgressBar';
 import { ReviewContentSections } from './ReviewContentSections';
@@ -256,10 +256,12 @@ export function ReviewNotebookTemplate({
   const hasCta = Boolean(effectiveCta?.url && effectiveCta?.label);
   const isPortraitHero = review.imageAspect === 'portrait';
 
-  // Quando o artigo usa o código da loja em /cupons, a gaveta do celular diz, em qualquer idioma,
-  // se ele é de recompensa. Em português ela também repete o desconto e a regra da loja, textos que
-  // só existem nessa língua.
+  // Quando o artigo usa o código da loja em /cupons, o dock e a sidebar dizem, em qualquer idioma,
+  // se ele é de recompensa (CECILIA010) ou de indicação (4CW5Y da SHEIN). Em português a gaveta do
+  // celular também repete o desconto e a regra da loja, textos que só existem nessa língua.
   const store = review.affiliate ? getCouponBySlug(review.affiliate) : undefined;
+  const codeKind = getStoreCodeKind(store, review.coupon);
+  const codeBrand = codeKind ? store?.brand : undefined;
   const sameCodeStore = store?.offerMode === 'discount-code' && store.code === review.coupon ? store : undefined;
   const storeOffer =
     couponCopyLocale === 'pt' && sameCodeStore && !sameCodeStore.tiers?.length
@@ -370,7 +372,7 @@ export function ReviewNotebookTemplate({
                 (s) => s.couponTiers && s.couponTiers.length > 0
               ) && (
               <EditorialReveal delay={0.17}>
-                <InlineCouponCopy coupon={review.coupon} locale={couponCopyLocale} />
+                <InlineCouponCopy coupon={review.coupon} locale={couponCopyLocale} kind={codeKind} brand={codeBrand} />
               </EditorialReveal>
             )}
 
@@ -713,6 +715,8 @@ export function ReviewNotebookTemplate({
                 tocItems={tocItems}
                 effectiveCta={effectiveCta}
                 relatedArticleLinks={relatedArticleLinks}
+                codeKind={codeKind}
+                codeBrand={codeBrand}
               />
             </aside>
           </div>
@@ -791,7 +795,7 @@ export function ReviewNotebookTemplate({
         reviewSlug={review.slug}
         tocItems={tocItems}
         affiliate={review.affiliate}
-        coupon={review.coupon ? { code: review.coupon, brand: store?.brand, kind: sameCodeStore?.codeKind, offer: storeOffer } : undefined}
+        coupon={review.coupon ? { code: review.coupon, brand: store?.brand, kind: codeKind, offer: storeOffer } : undefined}
         cta={effectiveCta && hasCta ? { url: effectiveCta.url, label: effectiveCta.label, sponsored: effectiveCta.sponsored } : undefined}
         related={relatedArticleLinks}
       />

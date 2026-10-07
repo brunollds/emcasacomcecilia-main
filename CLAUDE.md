@@ -120,6 +120,9 @@ vídeo, primeiras impressões e uso noturno.
 - `npm run test:review-i18n`, que roda na build, exige as 10 versões de toda família, com o mesmo
   `affiliate` e o mesmo `coupon`, e o link da página da loja no idioma do artigo: `/cupons/<marca>`
   em português e `/<locale>/coupons/<marca>` nos outros.
+- Versão fora do PT não leva link da SHEIN Brasil (`br.shein.com` nem os links de oferta e
+  campanha do cupom em PT): o `test:review-i18n` barra, e no artigo da SHEIN o `cta.url` tem de ser
+  o link principal neutro da página da loja (`getLocalizedCoupon('shein', locale).offerUrl`).
 - A vitrine em português (`/reviews`, home e busca) só mostra artigos em português, pelo `locale`.
   As versões em outros idiomas seguem com `hideFromPortugueseListings: true`, que o
   `validate:content` cobra nas famílias registradas em `clusters/yesstyle.ts`.
@@ -164,6 +167,13 @@ vídeo, primeiras impressões e uso noturno.
   `codeKind: 'reward'` no dock dos artigos, nos 10 idiomas, e o `offerTypeLabel` nos cards e na
   ItemList de `/cupons`. `npm run test:build-output` confere toda página que cita o código,
   inclusive o nome dos cards que o mostram; a faixa da home só existe no navegador e fica de fora.
+- O 4CW5Y da SHEIN é código de indicação da SHEIN Brasil: pesquisa-se no aplicativo, não se cola no
+  checkout, e também não é cupom. `getStoreCodeKind` (`couponsData.ts`) dá o tipo do código de um
+  artigo (`reward`, `referral` ou nenhum); o dock, a sidebar e o resumo dos guias o usam por
+  `getCodeTitle` e `getCodeHints` (`sidebarCopy.ts`) e `inlineReferral` (`couponCopyLocale.ts`),
+  com o termo que a página da loja já usa em cada idioma e, fora do PT, o aviso de que o código é
+  da SHEIN Brasil. O `test:review-i18n` confere os rótulos nos 10 idiomas e o `test:build-output`,
+  em toda página, o tipo no dock e na sidebar.
 
 ### Styling
 Tailwind CSS v4 via `@import "tailwindcss"` in `globals.css`. Custom tokens defined in `@theme inline {}` block — use these instead of arbitrary values:

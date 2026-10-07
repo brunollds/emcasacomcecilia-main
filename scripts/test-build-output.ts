@@ -2,9 +2,11 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
 import { getCouponCopyLabels } from '../src/components/review/couponCopyLocale';
-import { getSidebarCopy } from '../src/components/review/sidebarCopy';
-import { getCouponBySlug } from '../src/lib/couponsData';
+import { getCodeHints, getCodeTitle, getSidebarCopy } from '../src/components/review/sidebarCopy';
+import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
+import { getCouponBySlug, getStoreCodeKind } from '../src/lib/couponsData';
 import { getCouponLanguageLinks, getLocalizedCoupon, getTranslatedCouponRoutes } from '../src/lib/couponTranslations';
+import { publishedReviews } from '../src/lib/data';
 import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
 import { LOCALES, LOCALE_KEYS, type Locale } from '../src/lib/i18n/locales';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
@@ -225,14 +227,25 @@ function openElementsAt(body: string, index: number) {
   return open;
 }
 
-// Textos da sidebar do desktop em todos os idiomas, menos os do idioma da página.
+// Textos da sidebar do desktop em todos os idiomas, menos os do idioma da página. O código de
+// indicação da SHEIN tem rótulo e dicas próprios.
 const SIDEBAR_TEXT_KEYS = ['sectionsNav', 'tocTitle', 'copyHint', 'copiedHint', 'relatedTitle'] as const;
-function foreignSidebarText(locale: Locale) {
-  const own = new Set(SIDEBAR_TEXT_KEYS.map((key) => getSidebarCopy(locale)[key]));
-  return new Set(
-    LOCALE_KEYS.flatMap((other) => SIDEBAR_TEXT_KEYS.map((key) => getSidebarCopy(other)[key])).filter((text) => !own.has(text))
-  );
+function sidebarTexts(locale: Locale) {
+  const copy = getSidebarCopy(locale);
+  const referralHints = getCodeHints(copy, 'referral', 'SHEIN');
+  return [
+    ...SIDEBAR_TEXT_KEYS.map((key) => copy[key]),
+    getCodeTitle(copy, 'referral', 'SHEIN'),
+    referralHints.copy,
+    referralHints.copied,
+  ];
 }
+function foreignSidebarText(locale: Locale) {
+  const own = new Set(sidebarTexts(locale));
+  return new Set(LOCALE_KEYS.flatMap(sidebarTexts).filter((text) => !own.has(text)));
+}
+
+const reviewByPathname = new Map(publishedReviews.map((review) => [getReviewCanonicalPathname(review), review]));
 
 // Todo artigo tem o dock do sumário no celular (ReviewMobileBottomBar) e a sidebar no desktop
 // (ReviewSidebar). Um artigo sem nenhuma seção com título fica sem dock e sem o sumário da sidebar;
@@ -257,6 +270,9 @@ for (const url of articleUrls) {
   assert.equal(openElementsAt(body, dialogStart), 0, `${pagePath}: a gaveta do sumário não é filha direta do <body>`);
   assert.equal(openElementsAt(body, progressbar), 1, `${pagePath}: o dock do sumário não é filho direto do <body>`);
 
+  const review = reviewByPathname.get(pagePath);
+  assert.ok(review, `${pagePath}: artigo do sitemap sem review publicada`);
+
   const ids = new Set([...body.matchAll(/\sid="([^"]+)"/g)].map(([, id]) => id));
   const targets = [...dialog.matchAll(/href="#([^"]+)"/g)].map(([, id]) => id);
   assert.ok(targets.length > 0, `${pagePath}: gaveta sem links do sumário`);
@@ -276,19 +292,33 @@ for (const url of articleUrls) {
   const sidebars = [...body.matchAll(/<aside\b[\s\S]*?<\/aside>/g)].map(([aside]) => aside).filter((aside) => aside.includes('<nav '));
   assert.equal(sidebars.length, 1, `${pagePath}: ${sidebars.length} sidebars em vez de uma`);
   const [sidebar] = sidebars;
-  const sidebarTexts = [
+  const shownTexts = [
     ...[...sidebar.matchAll(/aria-label="([^"]*)"/g)].map(([, label]) => decodeHtml(label)),
     ...sidebar.split(/<[^>]+>/).map((text) => decodeHtml(text).trim()).filter(Boolean),
   ];
+  // O código e o tipo dele (cupom, recompensa ou indicação) saem da review, como no template.
   const code = sidebar.match(/data-copied="false"[^>]*>([^<]+)</)?.[1];
+  assert.equal(code, review.coupon, `${pagePath}: código da sidebar diferente do da review`);
+  const store = review.affiliate ? getCouponBySlug(review.affiliate) : undefined;
+  const codeKind = getStoreCodeKind(store, review.coupon);
+  const hints = getCodeHints(copy, codeKind, store?.brand);
   const expectedTexts = [
     copy.sectionsNav,
     copy.tocTitle,
-    ...(code ? [getCouponCopyLabels(locale).copyCoupon(code), copy.copyHint, copy.copiedHint] : []),
+    ...(code ? [getCouponCopyLabels(locale).copyCoupon(code), hints.copy, hints.copied] : []),
+    ...(codeKind === 'referral' ? [getCodeTitle(copy, codeKind, store?.brand)] : []),
   ];
-  assert.deepEqual(expectedTexts.filter((text) => !sidebarTexts.includes(text)), [], `${pagePath}: sidebar sem os textos do idioma`);
+  assert.deepEqual(expectedTexts.filter((text) => !shownTexts.includes(text)), [], `${pagePath}: sidebar sem os textos do idioma`);
   const foreign = foreignSidebarText(locale);
-  assert.deepEqual(sidebarTexts.filter((text) => foreign.has(text)), [], `${pagePath}: sidebar com texto de outro idioma`);
+  assert.deepEqual(shownTexts.filter((text) => foreign.has(text)), [], `${pagePath}: sidebar com texto de outro idioma`);
+  // A gaveta do celular dá ao código o mesmo tipo.
+  if (code) {
+    const drawerTitle = getCodeTitle(copy, codeKind, store?.brand);
+    assert.ok(
+      dialog.split(/<[^>]+>/).some((text) => decodeHtml(text).trim() === drawerTitle),
+      `${pagePath}: gaveta sem o título "${drawerTitle}" no card do código`
+    );
+  }
 }
 
 // Toda página que cita o CECILIA010 segue a regra: as 10 da YesStyle, os artigos, /cupons e as lojas

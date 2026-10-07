@@ -5,9 +5,10 @@ import Link from 'next/link';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { CopyCodeButton } from '@/components/coupons/CouponActions';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
+import type { CouponCodeKind } from '@/lib/couponsData';
 import type { Locale } from '@/lib/i18n/locales';
 import { getCouponCopyLabels } from './couponCopyLocale';
-import { getSidebarCopy } from './sidebarCopy';
+import { getCodeHints, getCodeTitle, getSidebarCopy } from './sidebarCopy';
 import { useReadingPosition, type TocItem } from './useReadingPosition';
 import type { Review, ReviewKind } from '@/lib/content';
 
@@ -17,6 +18,9 @@ interface ReviewSidebarProps {
   tocItems: TocItem[];
   effectiveCta?: { url: string; label: string; text?: string; sponsored?: boolean } | null;
   relatedArticleLinks?: ResolvedRelatedArticle[];
+  // Tipo e loja do código do artigo, quando ele é o da loja em /cupons.
+  codeKind?: CouponCodeKind;
+  codeBrand?: string;
 }
 
 export type ResolvedRelatedArticle = NonNullable<Review['relatedArticles']>[number] & { href: string };
@@ -50,22 +54,32 @@ function SidebarConversionCards({
   reviewSlug,
   affiliate,
   locale,
+  codeKind,
+  codeBrand,
 }: {
   coupon?: string;
   effectiveCta?: { url: string; label: string; text?: string; sponsored?: boolean } | null;
   reviewSlug: string;
   affiliate?: string;
   locale: Locale;
+  codeKind?: CouponCodeKind;
+  codeBrand?: string;
 }): React.ReactElement | null {
   if (!coupon && !effectiveCta?.url) return null;
 
   const copy = getSidebarCopy(locale);
+  const hints = getCodeHints(copy, codeKind, codeBrand);
 
   return (
     <div className="space-y-3">
       {/* A frase de baixo troca junto com o botão, que marca a cópia em data-copied. */}
       {coupon && (
         <div className="group/codigo space-y-2">
+          {codeKind === 'referral' && (
+            <p className="text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">
+              {getCodeTitle(copy, codeKind, codeBrand)}
+            </p>
+          )}
           <CopyCodeButton
             code={coupon}
             brand={affiliate}
@@ -85,8 +99,8 @@ function SidebarConversionCards({
             <Copy size={18} />
           </CopyCodeButton>
           <p className="text-xs leading-relaxed text-[#4a5568]">
-            <span className="group-has-[[data-copied=true]]/codigo:hidden">{copy.copyHint}</span>
-            <span className="hidden group-has-[[data-copied=true]]/codigo:inline">{copy.copiedHint}</span>
+            <span className="group-has-[[data-copied=true]]/codigo:hidden">{hints.copy}</span>
+            <span className="hidden group-has-[[data-copied=true]]/codigo:inline">{hints.copied}</span>
           </p>
         </div>
       )}
@@ -116,6 +130,8 @@ export function ReviewSidebar({
   tocItems,
   effectiveCta,
   relatedArticleLinks = [],
+  codeKind,
+  codeBrand,
 }: ReviewSidebarProps): React.ReactElement | null {
   // Unified order for all kinds
   const stars = kind === 'produto' ? review.verdict?.stars ?? review.rating : undefined;
@@ -167,6 +183,8 @@ export function ReviewSidebar({
           reviewSlug={review.slug}
           affiliate={review.affiliate}
           locale={locale}
+          codeKind={codeKind}
+          codeBrand={codeBrand}
         />
       )}
 
