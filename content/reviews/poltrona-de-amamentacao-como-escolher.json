@@ -184,6 +184,58 @@
           "href": "https://meli.la/1VBBH4Y",
           "sponsored": true
         }
+      ],
+      "images": [
+        {
+          "src": "https://m.media-amazon.com/images/I/51w-91cpCIL._AC_SL1000_.jpg",
+          "alt": "Poltrona de amamentação fixa com puff, em suede bege, sem ninguém",
+          "caption": "Fixa com puff (Amazon): R$ 469 em 6/10/2026, sem balanço. Foto do anúncio na Amazon.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/damie/poltrona-amamentacao-aquila-mercado-livre.webp",
+          "alt": "Poltrona de amamentação Áquila com base de balanço e puff, em um quarto de bebê, sem ninguém",
+          "caption": "Áquila com balanço e puff (Mercado Livre): R$ 862 em 6/10/2026. Foto do anúncio.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/damie/poltrona-reclinavel-damie-1-0-giro-balanco-bege.webp",
+          "alt": "Poltrona reclinável DAMIE 1.0 elétrica com base de giro e balanço, em suede bege, vazia",
+          "caption": "DAMIE 1.0 elétrica com giro e balanço: encosto capitonê. Foto oficial da DAMIE.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
+          "alt": "Poltrona reclinável DAMIE 2.0 elétrica com base de giro e balanço, em suede bege, vazia",
+          "caption": "DAMIE 2.0 elétrica com giro e balanço: almofada de cabeça regulável e bolso lateral maior. Foto oficial da DAMIE.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ]
+    },
+    {
+      "heading": "Nota: uma poltrona com puff mais luxuosa, a Aurora da DAMIE",
+      "paragraphs": [
+        "Se você gosta do formato de poltrona com puff, mas quer algo mais premium, a DAMIE tem a Aurora. Ela é uma poltrona reclinável manual, acionada por uma alavanca lateral, com base giratória de 360° e puff separado incluso. O revestimento é couro bovino ou linho italiano, e a marca informa suporte para até 130 kg.",
+        "Para amamentar, ela atende ao básico: braços, encosto alto e apoio para os pés. A página da marca não cita balanço, e a reclinação é manual, então ela não tem o embalo nem o ajuste por botão das reclináveis com giro e balanço. É uma escolha para quem prioriza o design e quer uma poltrona que pareça peça de sala desde o primeiro dia. Em 7 de outubro de 2026, custava de R$ 5.400 a R$ 6.400, e o cupom CECILIA12 também vale para ela."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/damie/poltrona-aurora-damie-puff-off-white.webp",
+          "alt": "Poltrona Aurora da DAMIE em couro off white, com base giratória preta e puff separado, vazia",
+          "caption": "Aurora com puff, em couro off white. Foto oficial da DAMIE.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ],
+      "links": [
+        {
+          "label": "Guia da Aurora no Damie por Cecília",
+          "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-aurora-damie?utm_source=site-principal&utm_medium=blog&utm_content=como-escolher-amamentacao-aurora"
+        }
       ]
     },
     {

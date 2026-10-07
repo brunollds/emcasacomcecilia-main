@@ -39972,6 +39972,67 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/poltrona-amamentacao-aquila-mercado-livre.webp",
+      "local_url": "/images/reviews/damie/poltrona-amamentacao-aquila-mercado-livre.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 77756,
+      "sha256": "3e474db49004327b30890b9003f833aca7c5b45c676ab459dfb6e29d1e8c9a0b",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-amamentacao-aquila-mercado-livre.webp",
+      "storage_filename": "poltrona-amamentacao-aquila-mercado-livre.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-de-amamentacao-como-escolher.json",
+        "content/reviews/poltrona-de-amamentacao-vs-poltrona-reclinavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-de-amamentacao-como-escolher.json",
+          "line": 197,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltrona-amamentacao-aquila-mercado-livre.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/poltrona-de-amamentacao-vs-poltrona-reclinavel.json",
+          "line": 223,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltrona-amamentacao-aquila-mercado-livre.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 51948,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltrona-amamentacao-aquila-mercado-livre.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 52308,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltrona-amamentacao-aquila-mercado-livre.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3e474db49004327b30890b9003f833aca7c5b45c676ab459dfb6e29d1e8c9a0b/poltrona-amamentacao-aquila-mercado-livre.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3e474db49004327b30890b9003f833aca7c5b45c676ab459dfb6e29d1e8c9a0b/poltrona-amamentacao-aquila-mercado-livre.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-07T04:20:28.831Z",
+      "verification_etag_or_digest": "3e474db49004327b30890b9003f833aca7c5b45c676ab459dfb6e29d1e8c9a0b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/poltrona-amamentacao-como-escolher-hero.webp",
       "local_url": "/images/reviews/damie/poltrona-amamentacao-como-escolher-hero.webp",
       "media_kind": "image",
@@ -40336,6 +40397,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/poltrona-aurora-damie-puff-off-white.webp",
+      "local_url": "/images/reviews/damie/poltrona-aurora-damie-puff-off-white.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18812,
+      "sha256": "576d543d3b00b5b638db35eddce62df7bbe1b83b61054d749dd99d1e0aaecdf1",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-aurora-damie-puff-off-white.webp",
+      "storage_filename": "poltrona-aurora-damie-puff-off-white.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-de-amamentacao-como-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-de-amamentacao-como-escolher.json",
+          "line": 227,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltrona-aurora-damie-puff-off-white.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 51978,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltrona-aurora-damie-puff-off-white.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/576d543d3b00b5b638db35eddce62df7bbe1b83b61054d749dd99d1e0aaecdf1/poltrona-aurora-damie-puff-off-white.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/576d543d3b00b5b638db35eddce62df7bbe1b83b61054d749dd99d1e0aaecdf1/poltrona-aurora-damie-puff-off-white.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-07T04:20:28.832Z",
+      "verification_etag_or_digest": "576d543d3b00b5b638db35eddce62df7bbe1b83b61054d749dd99d1e0aaecdf1",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/poltrona-damie-2-0-almofada-regulavel.webp",
       "local_url": "/images/reviews/damie/poltrona-damie-2-0-almofada-regulavel.webp",
       "media_kind": "image",
@@ -40626,6 +40733,67 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/poltrona-reclinavel-damie-1-0-giro-balanco-bege.webp",
+      "local_url": "/images/reviews/damie/poltrona-reclinavel-damie-1-0-giro-balanco-bege.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31916,
+      "sha256": "28fbd0138c84a6f8401fce461b75782b1ba56c8e1bad984b5629820bf80a14fe",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-reclinavel-damie-1-0-giro-balanco-bege.webp",
+      "storage_filename": "poltrona-reclinavel-damie-1-0-giro-balanco-bege.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-de-amamentacao-como-escolher.json",
+        "content/reviews/poltrona-de-amamentacao-vs-poltrona-reclinavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-de-amamentacao-como-escolher.json",
+          "line": 204,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltrona-reclinavel-damie-1-0-giro-balanco-bege.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/poltrona-de-amamentacao-vs-poltrona-reclinavel.json",
+          "line": 176,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltrona-reclinavel-damie-1-0-giro-balanco-bege.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 51955,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltrona-reclinavel-damie-1-0-giro-balanco-bege.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 52261,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltrona-reclinavel-damie-1-0-giro-balanco-bege.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/28fbd0138c84a6f8401fce461b75782b1ba56c8e1bad984b5629820bf80a14fe/poltrona-reclinavel-damie-1-0-giro-balanco-bege.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/28fbd0138c84a6f8401fce461b75782b1ba56c8e1bad984b5629820bf80a14fe/poltrona-reclinavel-damie-1-0-giro-balanco-bege.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-07T04:20:28.832Z",
+      "verification_etag_or_digest": "28fbd0138c84a6f8401fce461b75782b1ba56c8e1bad984b5629820bf80a14fe",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-1.webp",
       "local_url": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-1.webp",
       "media_kind": "image",
@@ -40732,6 +40900,67 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
+      "local_url": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39840,
+      "sha256": "82001ec831942f429277c123e523a15883b266814441019d3f60b8e7741e21ff",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
+      "storage_filename": "poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-de-amamentacao-como-escolher.json",
+        "content/reviews/poltrona-de-amamentacao-vs-poltrona-reclinavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-de-amamentacao-como-escolher.json",
+          "line": 211,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/poltrona-de-amamentacao-vs-poltrona-reclinavel.json",
+          "line": 183,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 51962,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 52268,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/82001ec831942f429277c123e523a15883b266814441019d3f60b8e7741e21ff/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/82001ec831942f429277c123e523a15883b266814441019d3f60b8e7741e21ff/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-07T04:20:28.832Z",
+      "verification_etag_or_digest": "82001ec831942f429277c123e523a15883b266814441019d3f60b8e7741e21ff",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/poltrona-reclinavel-damie-2-0-hero.webp",
       "local_url": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-hero.webp",
       "media_kind": "image",
@@ -40777,6 +41006,52 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.365Z",
       "verification_etag_or_digest": "0433abc734750f7e9eab07ff62a6414490ff6a411aead7ce8bca3b1416523709",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
+      "local_url": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17296,
+      "sha256": "a1c1c511d0733970d879350384dab8dd1ac76490d512f703de2c92a436b6a894",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
+      "storage_filename": "poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-de-amamentacao-vs-poltrona-reclinavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-de-amamentacao-vs-poltrona-reclinavel.json",
+          "line": 190,
+          "column": 19,
+          "literal": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 52275,
+          "column": 21,
+          "literal": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a1c1c511d0733970d879350384dab8dd1ac76490d512f703de2c92a436b6a894/poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a1c1c511d0733970d879350384dab8dd1ac76490d512f703de2c92a436b6a894/poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-07T04:20:28.832Z",
+      "verification_etag_or_digest": "a1c1c511d0733970d879350384dab8dd1ac76490d512f703de2c92a436b6a894",
       "verification_status": "verified"
     },
     {
