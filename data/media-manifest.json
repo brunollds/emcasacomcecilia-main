@@ -39972,6 +39972,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/poltrona-amamentacao-como-escolher-hero.webp",
+      "local_url": "/images/reviews/damie/poltrona-amamentacao-como-escolher-hero.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46706,
+      "sha256": "01405c5c4ad10597eead0b09cc9394ce8a5ada0382dcd26d840bc13d00ec9c41",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-amamentacao-como-escolher-hero.webp",
+      "storage_filename": "poltrona-amamentacao-como-escolher-hero.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-de-amamentacao-como-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-de-amamentacao-como-escolher.json",
+          "line": 21,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltrona-amamentacao-como-escolher-hero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 51772,
+          "column": 15,
+          "literal": "/images/reviews/damie/poltrona-amamentacao-como-escolher-hero.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/01405c5c4ad10597eead0b09cc9394ce8a5ada0382dcd26d840bc13d00ec9c41/poltrona-amamentacao-como-escolher-hero.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/01405c5c4ad10597eead0b09cc9394ce8a5ada0382dcd26d840bc13d00ec9c41/poltrona-amamentacao-como-escolher-hero.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-07T03:23:29.994Z",
+      "verification_etag_or_digest": "01405c5c4ad10597eead0b09cc9394ce8a5ada0382dcd26d840bc13d00ec9c41",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/damie/poltrona-amamentacao-vs-reclinavel-hero.webp",
+      "local_url": "/images/reviews/damie/poltrona-amamentacao-vs-reclinavel-hero.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56688,
+      "sha256": "0574feb1414f3a434d178f82bd5b9a738af0cf322101582e45e7761dc43dcecc",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "poltrona-amamentacao-vs-reclinavel-hero.webp",
+      "storage_filename": "poltrona-amamentacao-vs-reclinavel-hero.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/poltrona-de-amamentacao-vs-poltrona-reclinavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/poltrona-de-amamentacao-vs-poltrona-reclinavel.json",
+          "line": 21,
+          "column": 13,
+          "literal": "/images/reviews/damie/poltrona-amamentacao-vs-reclinavel-hero.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 52054,
+          "column": 15,
+          "literal": "/images/reviews/damie/poltrona-amamentacao-vs-reclinavel-hero.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0574feb1414f3a434d178f82bd5b9a738af0cf322101582e45e7761dc43dcecc/poltrona-amamentacao-vs-reclinavel-hero.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0574feb1414f3a434d178f82bd5b9a738af0cf322101582e45e7761dc43dcecc/poltrona-amamentacao-vs-reclinavel-hero.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-07T03:23:29.994Z",
+      "verification_etag_or_digest": "0574feb1414f3a434d178f82bd5b9a738af0cf322101582e45e7761dc43dcecc",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/poltrona-aurora-areia-ambientada.webp",
       "local_url": "/images/reviews/damie/poltrona-aurora-areia-ambientada.webp",
       "media_kind": "image",
