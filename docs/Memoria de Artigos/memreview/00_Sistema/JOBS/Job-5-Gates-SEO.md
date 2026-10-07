@@ -30,10 +30,10 @@ node scripts/media/candidate-proof.mjs   # depois do staging por caminhos explí
 Depois do `npm run build`: `node scripts/media/test-review-delivery-html.mjs` e conferir hero, imagens inline, ampliação e carrosséis no navegador (as URLs saem do CDN). Verificar `git config --local --get core.hooksPath` = `.githooks`. Só marcar `pronto-para-deploy` com todos os assets do artigo com `verification_status=verified` e no mapa; upload e deploy exigem GO do Bruno.
 
 Para uma família nos 10 idiomas, rodar também os gates da nota do cluster (por
-exemplo, a prova de mutação da YesStyle). Nenhum teste confere o `<head>` dos
-artigos: no HTML gerado de uma versão, conferir o canonical, o hreflang dos 10
-idiomas com o `x-default` e o seletor de idioma antes de atualizar a matriz para
-`completo`.
+exemplo, a prova de mutação da YesStyle). O `test:build-output`, que roda no build,
+confere o `<head>` de todo artigo de família: o canonical da própria página e o
+hreflang dos 10 idiomas com o `x-default` no inglês. À mão, no HTML gerado de uma
+versão, falta só o seletor de idioma antes de atualizar a matriz para `completo`.
 
 Com os gates verdes, a nota vai para `status: pronto-para-deploy`. O deploy é
 decisão do Bruno; depois dele e do IndexNow, `status: publicado`.

@@ -57,5 +57,6 @@ npx tsx scripts/test-yesstyle-mutation.ts
 
 Os testes de idioma (`test:review-i18n`, `test:html-lang` e `test:build-output`)
 já rodam no `npm run build`. O `validate:content` não roda lá, por isso entra aqui.
-Nenhum teste confere o `<head>` dos artigos: no build gerado, abrir uma versão da
-família e conferir o canonical, o hreflang dos 10 idiomas e o seletor de idioma.
+O `test:build-output` confere o `<head>` de todo artigo de família (canonical e
+hreflang dos 10 idiomas, x-default no inglês). À mão, no build gerado, falta só o
+seletor de idioma de uma versão da família.

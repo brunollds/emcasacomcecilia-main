@@ -98,8 +98,9 @@ Os testes de idioma (`test:review-i18n`, `test:html-lang` e `test:build-output`)
 
 À mão, antes de dar a família por pronta:
 
-- No `<head>`: nenhum teste confere o dos artigos. No build gerado, abrir uma versão
-  da família e conferir o canonical, o hreflang dos 10 idiomas e o seletor de idioma.
+- Seletor de idioma: no build gerado, abrir uma versão da família e conferir. O
+  canonical e o hreflang dos 10 idiomas o `test:build-output` já confere em todo
+  artigo de família.
 - Nos JSONs, sem abrir os links: o `cta` de cada versão é o do idioma (regra acima), e
   toda versão fora do português tem `hideFromPortugueseListings: true` (o
   `validate:content` só cobra a flag nas famílias da YesStyle).

@@ -50,5 +50,6 @@ DD/MM/AAAA` quando a família inteira está no ar. Na nota-fonte do artigo, o
 - **Gates específicos:** `npm run validate:content`, que não roda no `npm run build`,
   e a releitura das traduções (item 10 da seção 3 do Job 4). Os testes de idioma já
   rodam no build.
-- **Última verificação de hreflang/canonical/sitemap:** de uma versão da família no
-  build gerado; nenhum teste confere o `<head>` dos artigos.
+- **Última verificação do seletor de idioma:** de uma versão da família no build
+  gerado. O canonical e o hreflang de todo artigo de família o `test:build-output` já
+  confere.

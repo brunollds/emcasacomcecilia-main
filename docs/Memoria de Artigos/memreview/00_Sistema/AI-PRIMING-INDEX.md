@@ -78,6 +78,7 @@
   npm run build
   ```
 - **Adicional para cluster multilíngue:** executar os gates específicos indicados
-  na nota do cluster, conferir o `<head>` de uma versão (canonical, hreflang e
-  seletor de idioma) e atualizar a matriz depois da validação.
+  na nota do cluster, conferir à mão o seletor de idioma de uma versão (o
+  `test:build-output` já confere o canonical e o hreflang de todo artigo de família) e
+  atualizar a matriz depois da validação.
 - **Destino do Arquivo:** Atualiza `02_Artigos/<slug>.md` com `status: pronto-para-deploy` quando os gates passam, e com `status: publicado` só depois do deploy (decisão do Bruno) e do IndexNow. Registra lições em `03_Memoria/Licoes-Editoriais.md`.
