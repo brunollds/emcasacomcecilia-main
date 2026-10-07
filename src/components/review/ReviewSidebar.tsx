@@ -2,27 +2,14 @@
 
 import { ArrowRight, Check, Copy, ExternalLink, Star } from 'lucide-react';
 import Link from 'next/link';
-import { useEffect, useRef, useState } from 'react';
-import { copyTextWithFallback } from '@/lib/clipboardUtils';
-import { trackEvent } from '@/lib/analytics';
 import { CouponStoreLink } from '@/components/CouponComponents';
+import { CopyCodeButton } from '@/components/coupons/CouponActions';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import type { Locale } from '@/lib/i18n/locales';
+import { getCouponCopyLabels } from './couponCopyLocale';
+import { getSidebarCopy } from './sidebarCopy';
 import { useReadingPosition, type TocItem } from './useReadingPosition';
 import type { Review, ReviewKind } from '@/lib/content';
-
-const tocTitlesByLocale: Record<Locale, string> = {
-  pt: 'Nesta análise',
-  en: 'In this guide',
-  es: 'En esta guía',
-  fr: 'Dans ce guide',
-  de: 'In diesem Ratgeber',
-  it: 'In questa guida',
-  ko: '목차',
-  ja: '目次',
-  'zh-hant': '目錄',
-  'zh-hans': '目录',
-};
 
 interface ReviewSidebarProps {
   review: Review;
@@ -62,70 +49,44 @@ function SidebarConversionCards({
   effectiveCta,
   reviewSlug,
   affiliate,
+  locale,
 }: {
   coupon?: string;
   effectiveCta?: { url: string; label: string; text?: string; sponsored?: boolean } | null;
   reviewSlug: string;
   affiliate?: string;
+  locale: Locale;
 }): React.ReactElement | null {
-  const [copied, setCopied] = useState(false);
-  const timeoutRef = useRef<NodeJS.Timeout | null>(null);
-
-  const handleCopy = async () => {
-    if (!coupon) return;
-
-    const success = await copyTextWithFallback(coupon);
-    if (!success) return;
-
-    trackEvent('coupon_copy', {
-      coupon_code: coupon,
-      ...(affiliate && { brand: affiliate }),
-      content_slug: reviewSlug,
-      placement: 'review_sidebar',
-    });
-
-    setCopied(true);
-
-    if (timeoutRef.current) {
-      clearTimeout(timeoutRef.current);
-    }
-
-    timeoutRef.current = setTimeout(() => {
-      setCopied(false);
-    }, 2200);
-  };
-
-  // Cleanup on unmount
-  useEffect(() => {
-    return () => {
-      if (timeoutRef.current) {
-        clearTimeout(timeoutRef.current);
-      }
-    };
-  }, []);
-
   if (!coupon && !effectiveCta?.url) return null;
+
+  const copy = getSidebarCopy(locale);
 
   return (
     <div className="space-y-3">
+      {/* A frase de baixo troca junto com o botão, que marca a cópia em data-copied. */}
       {coupon && (
-        <div className="space-y-2">
-          <button
-            type="button"
-            onClick={handleCopy}
-            className={`flex w-full items-center justify-center gap-2 rounded-full border-2 px-4 py-2 font-mono text-base font-black tracking-[0.08em] transition-all motion-safe:hover:-translate-y-px motion-safe:hover:shadow-md ${
-              copied
-                ? 'border-[#1a7f37] bg-[#f0fdf4] text-[#1a7f37]'
-                : 'border-dashed border-[#ff6b35]/60 bg-gradient-to-b from-[#fef9f3] to-[#fff4bf] text-[#1a4d2e] hover:shadow-md'
-            }`}
-            style={{ minHeight: '2.75rem' }}
-            aria-label={copied ? 'Código copiado' : `Copiar código ${coupon}`}
+        <div className="group/codigo space-y-2">
+          <CopyCodeButton
+            code={coupon}
+            brand={affiliate}
+            contentSlug={reviewSlug}
+            placement="review_sidebar"
+            ariaLabel={getCouponCopyLabels(locale).copyCoupon(coupon)}
+            copiedStatus={copy.copiedStatus(coupon)}
+            className="flex min-h-11 w-full items-center justify-center gap-2 rounded-full border-2 border-dashed border-[#ff6b35]/60 bg-gradient-to-b from-[#fef9f3] to-[#fff4bf] px-4 py-2 font-mono text-base font-black tracking-[0.08em] text-[#1a4d2e] transition-all hover:shadow-md motion-safe:hover:-translate-y-px motion-safe:hover:shadow-md data-[copied=true]:border-solid data-[copied=true]:border-[#1a7f37] data-[copied=true]:bg-[#f0fdf4] data-[copied=true]:bg-none data-[copied=true]:text-[#1a7f37]"
+            copiedChildren={
+              <>
+                {coupon}
+                <Check size={18} />
+              </>
+            }
           >
             {coupon}
-            {copied ? <Check size={18} /> : <Copy size={18} />}
-          </button>
+            <Copy size={18} />
+          </CopyCodeButton>
           <p className="text-xs leading-relaxed text-[#4a5568]">
-            {copied ? 'Código copiado. Cole no campo correto do checkout.' : 'Copie antes de ir para a loja.'}
+            <span className="group-has-[[data-copied=true]]/codigo:hidden">{copy.copyHint}</span>
+            <span className="hidden group-has-[[data-copied=true]]/codigo:inline">{copy.copiedHint}</span>
           </p>
         </div>
       )}
@@ -163,6 +124,8 @@ export function ReviewSidebar({
   const hasToc = tocItems.length > 0;
   const hasRelated = relatedArticleLinks.length > 0;
   const { activeIndex } = useReadingPosition(tocItems.map((item) => item.id));
+  const locale = resolveReviewLocale(review.locale);
+  const copy = getSidebarCopy(locale);
 
   if (typeof stars !== 'number' && !hasConversionContent && !hasToc && !hasRelated) {
     return null;
@@ -172,9 +135,9 @@ export function ReviewSidebar({
     <div className="space-y-6">
       {/* 1. Table of Contents (TOC first) */}
       {hasToc && (
-        <nav aria-label="Navegação por capítulos" className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
+        <nav aria-label={copy.sectionsNav} className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
           <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">
-            {tocTitlesByLocale[resolveReviewLocale(review.locale)]}
+            {copy.tocTitle}
           </p>
           <ul className="space-y-1">
             {tocItems.map((item, index) => (
@@ -203,6 +166,7 @@ export function ReviewSidebar({
           effectiveCta={effectiveCta}
           reviewSlug={review.slug}
           affiliate={review.affiliate}
+          locale={locale}
         />
       )}
 
@@ -225,7 +189,7 @@ export function ReviewSidebar({
       {/* 4. Related articles block */}
       {hasRelated && (
         <div className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
-          <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">Leia também</p>
+          <p className="mb-3 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">{copy.relatedTitle}</p>
           <ul className="space-y-2">
             {relatedArticleLinks.map((article) => (
               <li key={article.slug}>

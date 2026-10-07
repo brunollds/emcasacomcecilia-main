@@ -15,6 +15,7 @@ export type CopyPlacement =
   | 'coupon_hub'
   | 'coupon_hub_featured'
   | 'bottom_bar'
+  | 'review_sidebar'
   | 'review_mobile_dock'
   | 'review_mobile_drawer';
 
