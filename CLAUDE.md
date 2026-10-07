@@ -180,9 +180,17 @@ tamanho, sem sobrar uma ou duas letras sozinhas. O `text-balance` não age sobre
 
 ## Deploy (Hostinger)
 
-1. `npm run build` locally
-2. `git push origin main`
-3. On Hostinger SSH: `npm install && npm run build`
-4. Serve via Node.js Web App (not static hosting)
+A fonte de verdade é o `docs/DEPLOY-GUIDE.md`, que deve ser relido antes de cada deploy. Desde
+13/08/2026 o único fluxo é o build gerenciado da Hostinger, supervisionado:
 
-Full details in `DEPLOY-HOSTINGER-NODEJS.md`.
+1. Deploy só com decisão explícita do Bruno, um por vez.
+2. Num clone limpo da `main`, pelo PowerShell: `npm run deploy:prepare`. Ele confere o `tar` (tem
+   de ser o bsdtar do Windows), a branch e o worktree, faz um build local de verificação e gera o
+   archive atestado.
+3. Recalcular o SHA-256 do archive, enviá-lo pelo MCP da Hostinger e esperar o build `completed`.
+4. `npm run deploy:finish -- --target-sha … --deploy-uuid … --build-uuid …`; depois a captura
+   `CAPTURE_ONLY` (`hostinger-wire-probe.yml`), o smoke e o IndexNow.
+
+O site roda como Node.js Web App com SSR, não como hospedagem estática. O build que vai ao ar é
+sempre o da Hostinger: nunca subir build feito no Windows. O `DEPLOY-HOSTINGER-NODEJS.md` (Git
+Deploy e build por SSH) e o fluxo SSH por CI estão suspensos e só valem como histórico.

@@ -361,14 +361,13 @@ stale é normal. A attestation do deploy não depende desse cache. Persistiu: pu
 
 ---
 
-## Fallback legado — deploy via MCP (build gerenciado da Hostinger)
+## Mecanismo gerenciado — notas de referência
 
-Só se o CI estiver indisponível. `npm run deploy:prepare` (archive atestado com prefixo
-`emcasacomcecilia/`) → MCP `hosting_deployJsApplication` (poll `hosting_listJsDeployments` até
-`completed`) → `npm run deploy:finish -- --target-sha ... --deploy-uuid ... --build-uuid ...`
-(attestation + manifesto + smoke + workers gerenciados). Detalhes/pegadinhas: histórico
-do git deste guia (versão de 15/07). Pontos que continuam valendo: `state: completed` não é validação
-suficiente; painel = node 18 (não usar); env vive no painel.
+Desde 13/08/2026 este é o único fluxo de deploy, descrito passo a passo em "Deploy temporário —
+mecanismo gerenciado supervisionado", no começo deste guia. Antes ele era o fallback do deploy por
+CI, hoje suspenso, e as pegadinhas daquela época estão no histórico do git deste guia (versão de
+15/07). Pontos que continuam valendo: `state: completed` não é validação suficiente; painel = node 18
+(não usar); env vive no painel.
 
 ### Retenção e recuperação do wire gerenciado
 

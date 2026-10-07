@@ -1,5 +1,9 @@
 # 🚀 Deploy DEFINITIVO - Hostinger Node.js Web App
 
+> ⚠️ **Histórico — não usar.** Este guia é de janeiro de 2026 e descreve Git Deploy com build por
+> SSH, um fluxo que não é mais usado. O deploy atual é o build gerenciado da Hostinger, descrito em
+> [docs/DEPLOY-GUIDE.md](docs/DEPLOY-GUIDE.md).
+
 **Guia completo e correto para deploy de Next.js na Hostinger usando Node.js Web Apps**
 
 ---

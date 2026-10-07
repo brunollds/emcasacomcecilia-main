@@ -87,4 +87,4 @@ The repository has versioned validators and focused regression scripts. Run the 
 Git history currently starts with a single initial commit, so adopt a simple conventional format going forward: `feat:`, `fix:`, `docs:`, `refactor:`. Keep commits focused and deployable. Pull requests should include a short description, impacted routes or components, manual verification steps, and screenshots for UI changes.
 
 ## Deployment & Content Notes
-Deployments target Hostinger Node.js hosting; read `DEPLOY-HOSTINGER-NODEJS.md` before changing build or runtime behavior. Avoid committing secrets, `.next/`, or local environment files. Follower counts in `src/lib/brandLinks.ts` are mock values unless explicitly updated from approved source material.
+Deployments use Hostinger's managed Node.js build, supervised by Bruno; read `docs/DEPLOY-GUIDE.md` before changing build, runtime, or deploy behavior (`DEPLOY-HOSTINGER-NODEJS.md` describes an obsolete flow and is kept only as history). Avoid committing secrets, `.next/`, or local environment files. Follower counts in `src/lib/brandLinks.ts` are mock values unless explicitly updated from approved source material.
