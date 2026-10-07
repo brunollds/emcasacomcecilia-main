@@ -64,3 +64,13 @@ A build confere estas regras; o resumo técnico também está no `CLAUDE.md`, em
 7. `relatedArticles` aponta para artigos do mesmo idioma.
 8. Modelo de família: `yesstyle-skincare-30` (publicada em 28/09/2026), a mais recente e a mais uniforme. As famílias mais antigas têm campos só em alguns idiomas; não copiar essa diferença.
 9. Atualizar a matriz da nota do cluster com a chave, o slug da fonte em português e a data.
+10. **Releitura das traduções, antes do `pronto-para-gates`.** A build confere a estrutura, não o texto. Reler cada uma das 9 versões ao lado do PT aprovado no Job 3, um idioma por vez, de preferência com outro agente (não o que traduziu), e conferir:
+    - o sentido é o do PT: os mesmos claims, nada acrescentado sem fonte, nada cortado;
+    - preço, moeda, frete, disponibilidade e campanha aparecem como fatos do mercado de origem, sem conversão;
+    - o código tem o nome do idioma (tabela em `CONTRATOS-DE-CONTEUDO.md`), e a SHEIN leva o aviso de que o código é da SHEIN Brasil;
+    - o link do `cta` é o do idioma (item 3 desta seção): na SHEIN, nenhum link brasileiro fora do português;
+    - a escrita está certa: caracteres tradicionais em `zh-hant`, simplificados em `zh-hans`, e nenhuma palavra ou frase ficou em português;
+    - o FAQ segue o item 5 da seção 2, o `publishedAt` está no formato do idioma e o `editorialNote` tem até 3 linhas;
+    - o texto soa natural no idioma, sem tradução literal.
+
+    Corrigir no JSON e registrar na nota do vault, por idioma, a data da releitura e o que mudou.
