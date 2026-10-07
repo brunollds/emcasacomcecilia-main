@@ -10,9 +10,9 @@ publishedAtISO: "2026-08-25"
 publishedAt: "25 de agosto de 2026"
 affiliate: "yesstyle"
 coupon: "CECILIA010"
-status: "commitado-local-aguardando-deploy"
+status: "publicado"
 responsavel: null
-proxima_acao: "Bruno revisa manualmente no servidor local; deploy/push só depois disso"
+proxima_acao: "nenhuma"
 bloqueado_por: null
 score_autoridade: null
 score_conversao: null
@@ -21,7 +21,7 @@ i18n_cluster: "yesstyle"
 translationKey: "yesstyle-kbeauty"
 modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
-idiomas_alvo: [pt, en, es, fr, de, ko, ja, zh-hant, zh-hans]
+idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
 status_i18n: "completo"
 ---
 

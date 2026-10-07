@@ -8,9 +8,9 @@ type: "Guia de Suplemento"
 publishedAtISO: "2026-08-26"
 affiliate: "i-wanna-sleep"
 coupon: "CECIEMCASA"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Job-5"
-proxima_acao: "deploy-e-indexnow"
+proxima_acao: "nenhuma"
 bloqueado_por: null
 ---
 

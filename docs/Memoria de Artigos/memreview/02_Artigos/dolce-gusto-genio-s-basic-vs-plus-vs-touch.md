@@ -11,9 +11,9 @@ publishedAtISO: "2026-08-24"
 publishedAt: "24 de agosto de 2026"
 affiliate: "dolce-gusto"
 coupon: "CECI"
-status: "revisao-manual-imagens-concluida"
+status: "publicado"
 responsavel: null
-proxima_acao: "confirmar-nomes-niveis-2-a-4-no-manual-fisico-depois-deploy"
+proxima_acao: "confirmar-nomes-niveis-2-a-4-no-manual-fisico"
 bloqueado_por: "nomes-oficiais-dos-niveis-2-3-4-de-temperatura-ainda-nao-confirmados"
 score_autoridade: 92
 score_conversao: 90

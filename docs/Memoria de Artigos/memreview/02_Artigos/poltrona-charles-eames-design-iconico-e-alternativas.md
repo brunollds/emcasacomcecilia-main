@@ -10,9 +10,9 @@ author: "Cecília Mauad"
 publishedAtISO: "2026-09-02"
 affiliate: "damie"
 coupon: "CECILIA12"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Codex"
-proxima_acao: "publicação depende de autorização de push e deploy; commit local autorizado por Bruno"
+proxima_acao: "nenhuma"
 bloqueado_por: null
 ---
 

@@ -11,10 +11,10 @@ publishedAtISO: "2026-08-26"
 publishedAt: "26 de agosto de 2026"
 affiliate: "nutren"
 coupon: "CECI"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "editorial"
-proxima_acao: "integrar-na-main-e-deploy"
-bloqueado_por: "branch local 8 commits atrás de origin/main; sincronizar antes do push"
+proxima_acao: "nenhuma"
+bloqueado_por: null
 ---
 
 # Nutren Creatina é Boa? Comparativo com Growth, FTW e Cimed (Lavitan)
