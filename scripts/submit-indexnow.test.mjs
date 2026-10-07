@@ -65,6 +65,30 @@ test('recusa caminho do Windows (o Git Bash converte /caminho) antes de qualquer
   }
 });
 
+test('recusa URL de outro host antes de qualquer chamada de rede', () => {
+  const cases = [
+    'https://www.emcasacomcecilia.com/reviews/exemplo',
+    'https://cdn.emcasacomcecilia.com/images/exemplo.jpg',
+    'http://emcasacomcecilia.com/sitemap.xml',
+    'https://emcasacomcecilia.com.exemplo.com/',
+    'https://example.com/',
+    'ftp://emcasacomcecilia.com/llms.txt',
+  ];
+  for (const url of cases) {
+    const result = run([`${BASE_URL}/`, url]);
+    assert.equal(result.status, 1, `${url}\n${result.stdout}`);
+    assert.ok(result.stderr.includes(`URL fora do site: ${url}\n`), result.stderr);
+    assert.deepEqual(result.fetches, [], url);
+  }
+});
+
+test('aceita URL do site sem barra no fim e com esquema ou host em maiúsculas', () => {
+  const urls = [BASE_URL, 'HTTPS://EMCASACOMCECILIA.COM/receitas'];
+  const result = run(['--dry-run', ...urls]);
+  assert.equal(result.status, 0, result.stderr);
+  assert.deepEqual(dryRunPayload(result.stdout).urlList, urls);
+});
+
 test('--dry-run mostra host, keyLocation e urlList sem chamar o IndexNow', () => {
   const result = run(['--dry-run', `${BASE_URL}/reviews/exemplo`, '/receitas']);
   assert.equal(result.status, 0, result.stderr);

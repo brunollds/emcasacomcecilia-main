@@ -4,10 +4,17 @@ const BASE_URL = `https://${HOST}`;
 const INDEXNOW_KEY = '126de38625a040d1a5e45c6a08aabe46';
 const INDEXNOW_ENDPOINT = 'https://api.indexnow.org/indexnow';
 
+// Esquema e host valem em maiúsculas ou minúsculas. Depois do host só pode vir /, ? ou #, o que
+// barra emcasacomcecilia.com.exemplo.com e porta explícita.
+function isSiteUrl(input) {
+  const rest = input.slice(BASE_URL.length);
+  return input.toLowerCase().startsWith(BASE_URL) && (rest === '' || /^[/?#]/.test(rest));
+}
+
 function normalizeUrl(input) {
   if (!input) return null;
 
-  if (/^https?:\/\//i.test(input)) {
+  if (isSiteUrl(input)) {
     return input;
   }
 
@@ -32,6 +39,16 @@ const windowsPath = args.find((arg) => /^[a-z]:/i.test(arg));
 if (windowsPath) {
   console.error(`Caminho do Windows: ${windowsPath}`);
   console.error('Use a URL completa: o Git Bash converte /caminho em caminho do Windows.');
+  console.error('Nada foi enviado ao IndexNow.');
+  process.exit(1);
+}
+
+// Argumento com esquema (https:, http:, ftp:...) é URL completa e só passa se for do próprio site:
+// o IndexNow responde 422 a URL de outro host (www. e cdn. incluídos), e a http:// só redireciona.
+const foreignUrl = args.find((arg) => /^[a-z][a-z\d+.-]*:/i.test(arg) && !isSiteUrl(arg));
+if (foreignUrl) {
+  console.error(`URL fora do site: ${foreignUrl}`);
+  console.error(`Só valem URLs ${BASE_URL}/... e caminhos do site, como /reviews/...`);
   console.error('Nada foi enviado ao IndexNow.');
   process.exit(1);
 }
