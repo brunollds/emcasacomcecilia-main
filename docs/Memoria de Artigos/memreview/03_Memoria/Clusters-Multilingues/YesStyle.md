@@ -38,6 +38,11 @@ cupons, confiança e K-beauty). Família nova não entra nele; a
   idioma, pode chamá-lo de cupom nem falar em usá-lo "com outros cupons"; o
   `npm run test:build-output` reprova a página. O nome em cada idioma e as
   palavras proibidas estão em `00_Sistema/CONTRATOS-DE-CONTEUDO.md`.
+- O `type` da família `yesstyle-reward-code` é "Guia & Cupons" e o equivalente de
+  cada idioma (tabela no Job 4, seção 3, item 4), como no guia de cupons. O
+  rótulo fala dos cupons da YesStyle que o artigo ensina a somar, não do
+  CECILIA010; decisão do Bruno em 07/10/2026, quando as versões en, es, de, ko,
+  ja e chinês deixaram de sair em português ou inglês.
 - Nas 10 versões: `affiliate: "yesstyle"` e `coupon: "CECILIA010"`. O link do `cta`
   é o `affiliateUrl` de `data/coupons/yesstyle.json`, o mesmo em todos os idiomas.
 - O link para a página da loja segue o idioma do artigo: `/cupons/yesstyle` em

@@ -59,6 +59,21 @@ A build confere estas regras; o resumo técnico também está no `CLAUDE.md`, em
 2. A URL sai sozinha: `/reviews/<slug>` em português e `/<locale>/reviews/<slug>` nos outros idiomas. Não criar `page.tsx`, hreflang, seletor de idioma nem entrada em `src/lib/i18n/clusters/` para a tradução aparecer. Redirect só ao mudar a URL de um artigo já publicado.
 3. Iguais nas 10 versões: `translationKey`, `category`, `reviewKind`, `author`, `affiliate`, `coupon`, `image`, `imageFit`, `imageAspect`, o vídeo e `draft`, e também `publishedAtISO` quando as versões saem juntas (o `isNew` vai só no português; item 1 da seção 2). A build reprova `affiliate` ou `coupon` diferentes. O link do `cta` é o mesmo nos 10 idiomas na YesStyle; na SHEIN, o português usa o link brasileiro do código e os outros idiomas usam o link neutro (nota do cluster SHEIN).
 4. Escritos em cada idioma: `title`, `seoTitle`, `description`, `metaDescription`, `type`, `imageAlt`, `pros`, `cons`, `contentSections`, `editorialNote`, o `text` e o `label` do `cta`, e `publishedAt` no formato de data do idioma (`28 de setembro de 2026`, `September 28, 2026`, `28. September 2026`, `2026년 9월 28일`, `2026年9月28日`).
+
+   O `type` aparece no cabeçalho do artigo, nos cards da vitrine do idioma e nos relacionados, então vai no idioma da versão, com o sentido do PT e o termo que as famílias já usam (tabela abaixo). Igual ao PT só "Editorial" em `en` e `es`; em `ko`, `ja`, `zh-hant` e `zh-hans`, nunca em letras latinas. O `npm run test:review-i18n` reprova os dois casos. "Editorial" segue o selo do mesmo cabeçalho (`kindLabel.editorial` em `src/components/review/articleCopy.ts`), para os dois rótulos baterem. Rótulo novo: traduzir o sentido e acrescentar a coluna aqui.
+
+   | Idioma | Guia & Cupons | Editorial | Primeiras Impressões |
+   |---|---|---|---|
+   | en | Guide & Coupons | Editorial | First Impressions |
+   | es | Guía & Cupones | Editorial | Primeras Impresiones |
+   | fr | Guide & Coupons | Éditorial | Premières impressions |
+   | de | Ratgeber & Gutscheine | Redaktionell | Erste Eindrücke |
+   | it | Guida e coupon | Editoriale | Prime impressioni |
+   | ko | 가이드 & 쿠폰 | 에디토리얼 | 첫인상 리뷰 |
+   | ja | ガイド＆クーポン | エディトリアル | ファーストインプレッション |
+   | zh-hant | 指南與優惠碼 | 編輯專題 | 初次使用心得 |
+   | zh-hans | 指南与优惠码 | 编辑专题 | 首次使用体验 |
+
 5. `slug` no idioma da versão em `en`, `es`, `fr`, `de` e `it`. Em `ko`, `ja`, `zh-hant` e `zh-hans`, slug em ASCII terminado no código do idioma (ex.: `abib-skincare-routine-30-ja`).
 6. Toda versão fora do português leva `hideFromPortugueseListings: true`. A vitrine em português também filtra pelo `locale`, mas a flag é o padrão das traduções e o `validate:content` a exige nas famílias registradas em `clusters/yesstyle.ts`.
 7. `relatedArticles` aponta para artigos do mesmo idioma.
@@ -69,7 +84,7 @@ A build confere estas regras; o resumo técnico também está no `CLAUDE.md`, em
     - preço, moeda, frete, disponibilidade e campanha aparecem como fatos do mercado de origem, sem conversão;
     - o código tem o nome do idioma (tabela em `CONTRATOS-DE-CONTEUDO.md`), e a SHEIN leva o aviso de que o código é da SHEIN Brasil;
     - o link do `cta` é o do idioma (item 3 desta seção): na SHEIN, nenhum link brasileiro fora do português;
-    - a escrita está certa: caracteres tradicionais em `zh-hant`, simplificados em `zh-hans`, e nenhuma palavra ou frase ficou em português;
+    - a escrita está certa: caracteres tradicionais em `zh-hant`, simplificados em `zh-hans`, nenhuma palavra ou frase ficou em português, e o `type` é o da tabela do item 4;
     - o FAQ segue o item 5 da seção 2, o `publishedAt` está no formato do idioma e o `editorialNote` tem até 3 linhas;
     - o texto soa natural no idioma, sem tradução literal.
 

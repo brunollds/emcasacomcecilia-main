@@ -133,7 +133,8 @@ vídeo, primeiras impressões e uso noturno.
   todo artigo de família. O `type` da review (rótulo do tipo no cabeçalho, na vitrine por idioma e
   nos relacionados) é conteúdo, mas sai no idioma da versão: o `test:review-i18n` barra `type`
   igual ao do PT, salvo "Editorial" em en e es (`TYPE_SAME_AS_PORTUGUESE`), e, em ja, ko e zh,
-  `type` só em letras latinas. Os cards de artigos relacionados seguem fora dessa conferência.
+  `type` só em letras latinas. Os termos de cada idioma estão na tabela do Job 4 do vault (seção 3,
+  item 4). Os cards de artigos relacionados seguem fora dessa conferência.
 - A vitrine em português (`/reviews`, home e busca) só mostra artigos em português, pelo `locale`.
   As versões em outros idiomas seguem com `hideFromPortugueseListings: true`, que o
   `validate:content` cobra nas famílias registradas em `clusters/yesstyle.ts`.
