@@ -119,7 +119,7 @@ function SidebarConversionCards({
                 : 'border-dashed border-[#ff6b35]/60 bg-gradient-to-b from-[#fef9f3] to-[#fff4bf] text-[#1a4d2e] hover:shadow-md'
             }`}
             style={{ minHeight: '2.75rem' }}
-            aria-label={copied ? 'Cupom copiado' : `Copiar código ${coupon}`}
+            aria-label={copied ? 'Código copiado' : `Copiar código ${coupon}`}
           >
             {coupon}
             {copied ? <Check size={18} /> : <Copy size={18} />}

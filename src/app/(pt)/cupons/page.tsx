@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { CircleCheck } from 'lucide-react';
 import { CouponFaq, SectionHeading, couponFontVariables } from '@/components/coupons/CouponBlocks';
-import { HubCouponCard, layoutShelf } from '@/components/coupons/CouponCards';
+import { HubCouponCard, couponCardName, layoutShelf } from '@/components/coupons/CouponCards';
 import { getActiveCoupons, getCouponHubSections } from '@/lib/couponsData';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
@@ -94,7 +94,7 @@ function getJsonLd() {
       '@type': 'ListItem',
       position: index + 1,
       name: coupon.offerMode === 'discount-code'
-        ? `Cupom ${coupon.brand} — ${coupon.discount} com ${coupon.code}`
+        ? `${couponCardName(coupon)} — ${coupon.discount} com ${coupon.code}`
         : `Oferta ${coupon.brand} — ${coupon.discount} pelo link indicado`,
       url: `https://emcasacomcecilia.com/cupons/${coupon.slug}`,
     })),
