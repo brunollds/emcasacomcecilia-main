@@ -29715,7 +29715,7 @@ export const reviewsData: unknown[] = [
     "id": 21,
     "slug": "yesstyle-reward-code-coupon-cecilia010",
     "title": "YesStyle CECILIA010: Reward Code",
-    "type": "Guia & Cupons",
+    "type": "Guide & Coupons",
     "reviewKind": "guia",
     "description": "Practical guide to using the YesStyle influencer reward code CECILIA010. Discover how it differs from regular coupons, learn how to stack discounts, and check K-beauty and customs tips.",
     "metaDescription": "Use CECILIA010 on YesStyle for up to 5% extra (5% 1st order / 2% returning) and stack it with eligible promo coupons on K-beauty, Korean skincare and fashion.",
@@ -29962,10 +29962,10 @@ export const reviewsData: unknown[] = [
     "id": 22,
     "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
     "title": "YesStyle CECILIA010: código de recompensa",
-    "type": "Guia & Cupons",
+    "type": "Guía & Cupones",
     "reviewKind": "guia",
-    "description": "Guía práctica para usar el código de influenciador CECILIA010 en YesStyle. Descubre la diferencia con otros cupones, aprende a acumular descuentos (stacking) y consulta consejos de K-beauty y aduanas.",
-    "metaDescription": "Usa CECILIA010 en YesStyle para ganar Hasta 5% extra (5% 1ª compra / 2% recorrente) y combinarlo con cupones en K-beauty, cosmética coreana y moda.",
+    "description": "Guía práctica para usar el código de influenciador CECILIA010 en YesStyle. Descubre en qué se diferencia de los cupones, aprende a acumular descuentos (stacking) y consulta consejos de K-beauty y aduanas.",
+    "metaDescription": "Usa CECILIA010 en YesStyle para ganar Hasta 5% extra (5% en 1ª compra / 2% en recurrentes) y combinarlo con cupones en K-beauty, cosmética coreana y moda.",
     "publishedAt": "22 Jun 2026",
     "publishedAtISO": "2026-06-22",
     "draft": false,
@@ -29974,7 +29974,7 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Productos de cosmética y skincare coreano de YesStyle ordenados en una mesa iluminada.",
     "imageFit": "cover",
     "pros": [
-      "Código de influenciador que suma un Hasta 5% extra (5% 1ª compra / 2% recorrente) a los cupones activos",
+      "Código de influenciador que suma un Hasta 5% extra (5% en 1ª compra / 2% en recurrentes) a los cupones activos",
       "Se puede usar junto con cupones promocionales elegibles en el sitio",
       "Envío internacional gratuito en pedidos superiores a US$ 59",
       "Catálogo extenso de K-Beauty, moda coreana y J-Beauty",
@@ -30042,7 +30042,7 @@ export const reviewsData: unknown[] = [
           "Para evitar errores en tu compra, debes tener claro que YesStyle trabaja con dos tipos de códigos que se pueden combinar en el mismo checkout:"
         ],
         "bullets": [
-          "Código de Recompensa (Reward Code - CECILIA010): Es el código de influenciador de Cecilia. Se introduce en el campo \"Código de Recompensa\" (o \"Reward Code\") y añade un Hasta 5% extra (5% 1ª compra / 2% recorrente). Cualquier beneficio adicional depende de las políticas de YesStyle.",
+          "Código de Recompensa (Reward Code - CECILIA010): Es el código de influenciador de Cecilia. Se introduce en el campo \"Código de Recompensa\" (o \"Reward Code\") y añade un Hasta 5% extra (5% en 1ª compra / 2% en recurrentes). Cualquier beneficio adicional depende de las políticas de YesStyle.",
           "Cupón de Descuento (Coupon Code activo): Cambian de forma temporal según campañas y promociones del sitio. Se introducen en el campo \"Código de Cupón\" (o \"Coupon Code\")."
         ]
       },
@@ -30071,7 +30071,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "3. Introduce el Código de Recompensa CECILIA010",
         "paragraphs": [
-          "En la pantalla de pago, busca el campo llamado \"Código de Recompensa\" (o \"Reward Code\"), escribe exactamente CECILIA010 y pulsa en \"Aplicar\" para añadir el Hasta 5% extra (5% 1ª compra / 2% recorrente)."
+          "En la pantalla de pago, busca el campo llamado \"Código de Recompensa\" (o \"Reward Code\"), escribe exactamente CECILIA010 y pulsa en \"Aplicar\" para añadir el Hasta 5% extra (5% en 1ª compra / 2% en recurrentes)."
         ],
         "image": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
         "imageAlt": "Campos de descuento en el checkout de YesStyle con la casilla de Reward Code completada.",
@@ -30097,7 +30097,7 @@ export const reviewsData: unknown[] = [
           "La acumulación de descuentos (stacking) consiste en rellenar los dos campos principales: Reward Code y Coupon Code. Para una compra segura, aplica CECILIA010 en el campo de código de recompensa y el cupón promocional en el campo de cupón."
         ],
         "bullets": [
-          "Paso 1 — Código de Recompensa: introduce CECILIA010 en el campo Reward Code para activar el Hasta 5% extra (5% 1ª compra / 2% recorrente).",
+          "Paso 1 — Código de Recompensa: introduce CECILIA010 en el campo Reward Code para activar el Hasta 5% extra (5% en 1ª compra / 2% en recurrentes).",
           "Paso 2 — Cupón activo: introduce cupones promocionales elegibles del sitio en el campo Coupon Code.",
           "Paso 3 — Revisión final: antes de pagar, confirma que el descuento extra de CECILIA010 y el cupón promocional elegible se muestren correctamente."
         ],
@@ -30170,7 +30170,7 @@ export const reviewsData: unknown[] = [
           "Preguntas recurrentes y sus respuestas para compradores internacionales:"
         ],
         "bullets": [
-          "¿CECILIA010 es un cupón? No. Funciona como un código de recompensa de influenciador y añade un Hasta 5% extra (5% 1ª compra / 2% recorrente) en el checkout. La ventaja es que se puede combinar con un cupón activo.",
+          "¿CECILIA010 es un cupón? No. Funciona como un código de recompensa de influenciador y añade un Hasta 5% extra (5% en 1ª compra / 2% en recurrentes) en el checkout. La ventaja es que se puede combinar con un cupón activo.",
           "¿Puedo usar el código y un cupón juntos? Sí. Introduce el código CECILIA010 en el campo de Reward Code y tu cupón promocional en el campo de Coupon Code para acumular el ahorro.",
           "¿El código CECILIA010 tiene caducidad? Está activo de forma continuada mientras siga vigente el programa de influenciadores de YesStyle.",
           "¿Es seguro comprar en YesStyle? Sí, es una tienda internacional segura fundada en 2006 y que cuenta con sistemas de pago protegidos.",
@@ -30183,8 +30183,8 @@ export const reviewsData: unknown[] = [
           "¿La ropa de YesStyle es pequeña? ¿Cómo elegir la talla asiática correcta? Sí, la mayoría de la ropa de YesStyle sigue el tallaje asiático, que suele ser más pequeño que el tallaje europeo o americano. Cada página de producto incluye una tabla de medidas en centímetros. Te recomendamos tomarte las medidas y compararlas con la tabla, y pedir una o dos tallas más para un ajuste cómodo, especialmente en prendas ajustadas.",
           "¿Cuáles son las marcas de K-beauty más vendidas en YesStyle? YesStyle es distribuidor autorizado de marcas populares de K-beauty como COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul y Haruharu. El sitio organiza los productos por categorías como esencias, tónicos, séruns y protectores solares, lo que facilita armar una rutina coreana de skincare.",
           "¿Puedo cancelar o modificar mi pedido de YesStyle después de confirmarlo? Puedes cancelar pedidos que aún estén en estado 'Processing' directamente desde tu historial de pedidos. Una vez enviado, no es posible cancelar, pero puedes rechazar la entrega cuando llegue. Los cambios de dirección o productos solo son posibles antes del envío, contactando rápidamente al servicio de atención al cliente.",
-          "¿Funciona el código CECILIA010 en la primera compra en YesStyle? Sí, el código CECILIA010 funciona independientemente de si es tu primera compra. Introdúcelo en el campo Reward Code en el checkout para obtener un Hasta 5% extra (5% 1ª compra / 2% recorrente) de descuento, acumulable con cupones activos del sitio.",
-          "¿Es CECILIA010 un cupón de influencer de YesStyle? CECILIA010 es un código de recompensa de influencer registrado. Otorga un Hasta 5% extra (5% 1ª compra / 2% recorrente) de descuento en el checkout y se acumula con cupones promocionales activos, a diferencia de los códigos de primera compra que generalmente no son acumulables."
+          "¿Funciona el código CECILIA010 en la primera compra en YesStyle? Sí, el código CECILIA010 funciona independientemente de si es tu primera compra. Introdúcelo en el campo Reward Code en el checkout para obtener un Hasta 5% extra (5% en 1ª compra / 2% en recurrentes) de descuento, acumulable con cupones activos del sitio.",
+          "¿Es CECILIA010 un cupón de influencer de YesStyle? CECILIA010 es un código de recompensa de influencer registrado. Otorga un Hasta 5% extra (5% en 1ª compra / 2% en recurrentes) de descuento en el checkout y se acumula con cupones promocionales activos, a diferencia de los códigos de primera compra que generalmente no son acumulables."
         ]
       }
     ],
@@ -30457,7 +30457,7 @@ export const reviewsData: unknown[] = [
     "id": 24,
     "slug": "yesstyle-reward-code-rabatt-cecilia010",
     "title": "YesStyle CECILIA010: Reward Code nutzen",
-    "type": "Guide & Gutscheine",
+    "type": "Ratgeber & Gutscheine",
     "reviewKind": "guia",
     "description": "Praktische Anleitung zur Nutzung des YesStyle Influencer-Codes CECILIA010. Erfahre den Unterschied zu normalen Gutscheinen, wie du Rabatte kombinierst (Stacking) und erhalte Tipps zu K-Beauty und Zoll.",
     "metaDescription": "Nutze CECILIA010 bei YesStyle fur Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) und kombiniere ihn mit Gutscheinen fur K-Beauty, Pflege und Mode.",
@@ -30704,7 +30704,7 @@ export const reviewsData: unknown[] = [
     "id": 40,
     "slug": "yesstyle-reward-code-cecilia010-ko",
     "title": "YesStyle 리워드 코드 CECILIA010: 최대 5% 할인 (첫 구매 5% / 재구매 2%)",
-    "type": "Guide & Coupons",
+    "type": "가이드 & 쿠폰",
     "reviewKind": "guia",
     "description": "YesStyle 리워드 코드 CECILIA010을 올바른 칸에 입력해 적격 프로모션 쿠폰과 함께 최대 5% 혜택(첫 구매 5% / 재구매 2%)을 받는 방법을 안내합니다.",
     "publishedAt": "11 Jul 2026",
@@ -30787,7 +30787,7 @@ export const reviewsData: unknown[] = [
     "id": 41,
     "slug": "yesstyle-reward-code-cecilia010-ja",
     "title": "YesStyle リワードコード CECILIA010：最大5%オフ（初回購入 5% / リピーター 2%）",
-    "type": "Guide & Coupons",
+    "type": "ガイド＆クーポン",
     "reviewKind": "guia",
     "description": "YesStyleのリワードコードCECILIA010を正しい欄に入力し、対象プロモーションクーポンと併用して最大5%オフ（初回購入 5% / リピーター 2%）を受ける方法を解説します。",
     "publishedAt": "11 Jul 2026",
@@ -30869,7 +30869,7 @@ export const reviewsData: unknown[] = [
     "id": 42,
     "slug": "yesstyle-reward-code-cecilia010-zh-hant",
     "title": "YesStyle 獎勵碼 CECILIA010：高達 5% 優惠 (首購 5% / 回購 2%)",
-    "type": "Guide & Coupons",
+    "type": "指南與優惠碼",
     "reviewKind": "guia",
     "description": "了解如何在 YesStyle 正確輸入獎勵碼 CECILIA010，並與合資格促銷優惠券同時使用，享受高達 5% 優惠（首購 5% / 回購 2%）。",
     "publishedAt": "11 Jul 2026",
@@ -30951,7 +30951,7 @@ export const reviewsData: unknown[] = [
     "id": 43,
     "slug": "yesstyle-reward-code-cecilia010-zh-hans",
     "title": "YesStyle 奖励码 CECILIA010：高达 5% 优惠 (首购 5% / 回购 2%)",
-    "type": "Guide & Coupons",
+    "type": "指南与优惠码",
     "reviewKind": "guia",
     "description": "了解如何在 YesStyle 正确输入奖励码 CECILIA010，并与合资格促销优惠券同时使用，享受高达 5% 优惠（首购 5% / 回购 2%）。",
     "publishedAt": "11 Jul 2026",
@@ -38498,7 +38498,7 @@ export const reviewsData: unknown[] = [
     "id": 252,
     "slug": "yesstyle-est-il-fiable-et-sur",
     "title": "YesStyle est-il Fiable et Sûr ? Ce qu'il Faut Savoir Avant d'Acheter",
-    "type": "Editorial",
+    "type": "Éditorial",
     "reviewKind": "editorial",
     "author": {
       "name": "Cecília Mauad",
@@ -38603,7 +38603,7 @@ export const reviewsData: unknown[] = [
     "id": 253,
     "slug": "ist-yesstyle-serioes-und-sicher",
     "title": "Ist YesStyle Seriös und Sicher? Was Sie Vor Dem Kauf Wissen Müssen",
-    "type": "Editorial",
+    "type": "Redaktionell",
     "reviewKind": "editorial",
     "author": {
       "name": "Cecília Mauad",
@@ -38708,7 +38708,7 @@ export const reviewsData: unknown[] = [
     "id": 254,
     "slug": "yesstyle-trust-guide-ko",
     "title": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보",
-    "type": "Editorial",
+    "type": "에디토리얼",
     "reviewKind": "editorial",
     "author": {
       "name": "Cecília Mauad",
@@ -38798,7 +38798,7 @@ export const reviewsData: unknown[] = [
     "id": 255,
     "slug": "yesstyle-trust-guide-ja",
     "title": "YesStyleは安全？購入前に知っておくべき信頼性と評判",
-    "type": "Editorial",
+    "type": "エディトリアル",
     "reviewKind": "editorial",
     "author": {
       "name": "Cecília Mauad",
@@ -38903,7 +38903,7 @@ export const reviewsData: unknown[] = [
     "id": 256,
     "slug": "yesstyle-trust-guide-zh-hant",
     "title": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南",
-    "type": "Editorial",
+    "type": "編輯專題",
     "reviewKind": "editorial",
     "author": {
       "name": "Cecília Mauad",
@@ -38993,7 +38993,7 @@ export const reviewsData: unknown[] = [
     "id": 257,
     "slug": "yesstyle-trust-guide-zh-hans",
     "title": "YesStyle 值得信赖吗？购买前必看安全评价与购物指南",
-    "type": "Editorial",
+    "type": "编辑专题",
     "reviewKind": "editorial",
     "author": {
       "name": "Cecília Mauad",
@@ -40857,7 +40857,7 @@ export const reviewsData: unknown[] = [
     "slug": "k-beauty-tendance-beaute-coreenne",
     "title": "K-Beauty : Pourquoi Cette Tendance Beauté Coréenne Conquiert le Monde et Où L'Acheter",
     "seoTitle": "K-Beauty : Tendance Beauté Coréenne et Où l'Acheter",
-    "type": "Editorial",
+    "type": "Éditorial",
     "reviewKind": "editorial",
     "category": "guias-praticos-utilidade",
     "author": {
@@ -41003,7 +41003,7 @@ export const reviewsData: unknown[] = [
     "slug": "k-beauty-trend-koreanische-marken-kaufen",
     "title": "K-Beauty: Das Koreanische Beauty-Geheimnis – Und Wo Sie Authentische Produkte Kaufen",
     "seoTitle": "K-Beauty kaufen: Marken, Trend & YesStyle",
-    "type": "Editorial",
+    "type": "Redaktionell",
     "reviewKind": "editorial",
     "category": "guias-praticos-utilidade",
     "author": {
@@ -41149,7 +41149,7 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-kbeauty-guide-ko",
     "title": "K-뷰티가 세계를 사로잡은 이유와 한국 브랜드 구매처 찾기",
     "seoTitle": "K-뷰티 열풍의 비결과 구매 가이드 | YesStyle",
-    "type": "Editorial",
+    "type": "에디토리얼",
     "reviewKind": "editorial",
     "category": "guias-praticos-utilidade",
     "author": {
@@ -41295,7 +41295,7 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-kbeauty-guide-ja",
     "title": "K-Beautyがなぜ世界中で流行？韓国コスメの特徴と購入方法",
     "seoTitle": "K-Beauty：世界で流行する韓国コスメの魅力と購入方法",
-    "type": "Editorial",
+    "type": "エディトリアル",
     "reviewKind": "editorial",
     "category": "guias-praticos-utilidade",
     "author": {
@@ -41441,7 +41441,7 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-kbeauty-guide-zh-hant",
     "title": "K-Beauty 韓妝熱潮全解析：為何全球為之瘋狂，到哪裡買才放心",
     "seoTitle": "K-Beauty 韓妝：全球趨勢與 YesStyle 購買指南",
-    "type": "Editorial",
+    "type": "編輯專題",
     "reviewKind": "editorial",
     "category": "guias-praticos-utilidade",
     "author": {
@@ -41587,7 +41587,7 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-kbeauty-guide-zh-hans",
     "title": "K-Beauty 全球热潮解读：为什么韩国护肤品风靡世界，如何购买正品",
     "seoTitle": "K-Beauty 热潮全解：韩国护肤品风靡全球的原因与购买指南",
-    "type": "Editorial",
+    "type": "编辑专题",
     "reviewKind": "editorial",
     "category": "guias-praticos-utilidade",
     "author": {
@@ -47359,7 +47359,7 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-e-affidabile-e-sicuro",
     "title": "YesStyle è affidabile e sicuro? Cosa sapere prima di comprare",
     "seoTitle": "YesStyle è affidabile e sicuro? Cosa sapere prima",
-    "type": "Editorial",
+    "type": "Editoriale",
     "reviewKind": "editorial",
     "author": {
       "name": "Cecília Mauad",
@@ -47465,7 +47465,7 @@ export const reviewsData: unknown[] = [
     "slug": "k-beauty-tendenza-bellezza-coreana",
     "title": "K-Beauty spiegata: perché la bellezza coreana è diventata una tendenza globale e dove comprarla",
     "seoTitle": "K-Beauty: cos'è e dove comprare la bellezza coreana",
-    "type": "Editorial",
+    "type": "Editoriale",
     "reviewKind": "editorial",
     "category": "guias-praticos-utilidade",
     "author": {

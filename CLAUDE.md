@@ -130,8 +130,11 @@ vídeo, primeiras impressões e uso noturno.
   `test:review-i18n` barra campo igual ao português (salvo a lista de palavras iguais nas duas
   línguas) e o `test:build-output` barra texto em português nas páginas fora do PT e confere o
   veredito da sidebar e o `<head>` (canonical e hreflang dos 10 idiomas, x-default no inglês) de
-  todo artigo de família. O `type` da review e os cards de artigos relacionados são conteúdo e
-  ficam fora dessa conferência: um `type: "Editorial"` num JSON em francês aparece como está.
+  todo artigo de família. O `type` da review (rótulo do tipo no cabeçalho, na vitrine por idioma e
+  nos relacionados) é conteúdo, mas sai no idioma da versão: o `test:review-i18n` barra `type`
+  igual ao do PT, salvo "Editorial" em en e es (`TYPE_SAME_AS_PORTUGUESE`), e, em ja, ko e zh,
+  `type` só em letras latinas. Os termos de cada idioma estão na tabela do Job 4 do vault (seção 3,
+  item 4). Os cards de artigos relacionados seguem fora dessa conferência.
 - A vitrine em português (`/reviews`, home e busca) só mostra artigos em português, pelo `locale`.
   As versões em outros idiomas seguem com `hideFromPortugueseListings: true`, que o
   `validate:content` cobra nas famílias registradas em `clusters/yesstyle.ts`.

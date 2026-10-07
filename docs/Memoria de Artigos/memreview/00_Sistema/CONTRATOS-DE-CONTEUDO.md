@@ -8,7 +8,7 @@
 |---|---|---|---|
 | `category` | Classe editorial, navegação, filtros e 4 cards da home | `guias-praticos-utilidade`, `produtos-experiencias`, `cupons-como-usar`, `confianca-reputacao` | **Obrigatório e único.** Fonte da verdade para a rotação automática da home. |
 | `reviewKind` | Capacidades estruturais do template | `produto`, `guia`, `editorial` | `produto` exige veredito completo (estrelas + recomendação + prós/contras). `guia` e `editorial` não exigem. |
-| `type` | Rótulo público/granular no card | Texto livre (ex: "Guia Prático", "Móveis de Luxo") | Rótulo descritivo; não governa filtros. |
+| `type` | Rótulo público/granular no card | Texto livre (ex: "Guia Prático", "Móveis de Luxo") | Rótulo descritivo; não governa filtros. Vai no idioma da versão (termos por idioma no Job 4, seção 3, item 4). |
 
 ---
 
