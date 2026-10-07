@@ -7,6 +7,7 @@ import { CopyCodeButton } from '@/components/coupons/CouponActions';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import type { CouponCodeKind } from '@/lib/couponsData';
 import type { Locale } from '@/lib/i18n/locales';
+import { getArticleCopy } from './articleCopy';
 import { getCouponCopyLabels } from './couponCopyLocale';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from './sidebarCopy';
 import { useReadingPosition, type TocItem } from './useReadingPosition';
@@ -25,12 +26,12 @@ interface ReviewSidebarProps {
 
 export type ResolvedRelatedArticle = NonNullable<Review['relatedArticles']>[number] & { href: string };
 
-function StarRating({ rating }: { rating: number }): React.ReactElement {
+function StarRating({ rating, label }: { rating: number; label: string }): React.ReactElement {
   const fullStars = Math.floor(rating);
   const hasHalf = rating % 1 >= 0.5;
 
   return (
-    <div className="flex items-center gap-0.5" aria-label={`Avaliação ${rating.toFixed(1)} de 5 estrelas`} role="img">
+    <div className="flex items-center gap-0.5" aria-label={label} role="img">
       {Array.from({ length: 5 }).map((_, index) => {
         const starNum = index + 1;
         const isFilled = starNum <= fullStars;
@@ -142,6 +143,7 @@ export function ReviewSidebar({
   const { activeIndex } = useReadingPosition(tocItems.map((item) => item.id));
   const locale = resolveReviewLocale(review.locale);
   const copy = getSidebarCopy(locale);
+  const article = getArticleCopy(locale);
 
   if (typeof stars !== 'number' && !hasConversionContent && !hasToc && !hasRelated) {
     return null;
@@ -191,14 +193,14 @@ export function ReviewSidebar({
       {/* 3. Verdict card (only produto with stars) */}
       {typeof stars === 'number' && (
         <div className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
-          <p className="mb-2 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">Veredito da Cecília</p>
+          <p className="mb-2 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">{article.verdictTitle}</p>
           <div className="mb-2 flex items-center gap-2">
-            <StarRating rating={stars} />
+            <StarRating rating={stars} label={article.ratingLabel(stars.toFixed(1))} />
             <span className="text-sm font-bold text-[#1a4d2e]">{stars.toFixed(1)}</span>
           </div>
           {recommendation && (
             <p className="text-sm font-bold text-[#1a4d2e]">
-              {recommendation === 'recomendo' ? '✓ Recomendo' : recommendation === 'com ressalvas' ? 'Com ressalvas' : 'Não recomendo'}
+              {article.recommendation[recommendation]}
             </p>
           )}
         </div>

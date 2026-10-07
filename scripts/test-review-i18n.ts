@@ -3,8 +3,11 @@ import { promises as fs } from 'node:fs';
 import path from 'node:path';
 
 import { detectDuplicateReviewPathnames, formatDate, getReviewDefaultTranslationPathname, groupReviewsByTranslationKey, detectDuplicateTranslationLocalePairs, getReviewTranslationsByLocale, isValidTranslationKey, resolveReviewLocale } from '@/lib/content';
+import { getArticleCopy } from '@/components/review/articleCopy';
 import { getCouponCopyLabels } from '@/components/review/couponCopyLocale';
+import { getGalleryCopy } from '@/components/review/galleryCopy';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '@/components/review/sidebarCopy';
+import { getShareCopy } from '@/components/shared/shareCopy';
 import { getCouponBySlug } from '@/lib/couponsData';
 import { getCouponStorePath, getLocalizedCoupon, isTranslatedLocale } from '@/lib/couponTranslations';
 import { LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
@@ -106,6 +109,40 @@ const SHEIN_BRAZIL: Record<Locale, string> = {
   'zh-hant': 'SHEIN 巴西站',
   'zh-hans': 'SHEIN 巴西站',
 };
+// Os textos da interface do artigo (selo, veredito, ficha, vídeo, galeria, compartilhar) não ficam em
+// português: cada campo difere do PT, salvo as palavras que são as mesmas nas duas línguas. A lista
+// precisa bater, para uma exceção que deixou de valer não ficar esquecida.
+const uiLeaves = (value: unknown, prefix: string): [string, string][] =>
+  typeof value === 'string'
+    ? [[prefix, value]]
+    : typeof value === 'function'
+      ? [[prefix, String(value('ARG1', 'ARG2'))]]
+      : value && typeof value === 'object'
+        ? Object.entries(value).flatMap(([key, child]) => uiLeaves(child, `${prefix}.${key}`))
+        : [];
+const articleUiLeaves = (locale: Locale) => [
+  ...uiLeaves(getArticleCopy(locale), 'article'),
+  ...uiLeaves(getGalleryCopy(locale), 'gallery'),
+  ...uiLeaves(getShareCopy(locale), 'share'),
+];
+const SAME_AS_PORTUGUESE: Partial<Record<Locale, string[]>> = {
+  en: ['article.kindLabel.editorial'],
+  es: [
+    'article.kindLabel.editorial',
+    'article.editorialNoteTitle',
+    'article.codeChip.reward',
+    'article.productSheetOpen',
+    'article.relatedVideo',
+    'gallery.tabPhotos',
+    'gallery.tabVideos',
+    'gallery.enlarge',
+    'gallery.previousPhotos',
+    'gallery.video',
+    'gallery.previousVideos',
+  ],
+  de: ['gallery.tabPhotos'],
+};
+
 const storeReferralLabel = (locale: Locale) =>
   (isTranslatedLocale(locale) ? getLocalizedCoupon('shein', locale)?.referral : sheinStore.referral)?.label ?? '';
 
@@ -366,6 +403,17 @@ const storeReferralLabel = (locale: Locale) =>
     assert.notEqual(inline.prefix, getCouponCopyLabels(locale).inlinePrefix, `${locale}: resumo do código de indicação igual ao do cupom`);
   }
 
+  const portugueseUi = new Map(articleUiLeaves('pt'));
+  for (const locale of LOCALE_KEYS.filter((key) => key !== 'pt')) {
+    const leaves = articleUiLeaves(locale);
+    assert.equal(leaves.length, portugueseUi.size, `${locale}: campos da interface do artigo diferentes do PT`);
+    assert.deepEqual(
+      leaves.filter(([field, text]) => portugueseUi.get(field) === text).map(([field]) => field),
+      SAME_AS_PORTUGUESE[locale] ?? [],
+      `${locale}: texto da interface do artigo igual ao português (ou exceção que não vale mais)`
+    );
+  }
+
   // A data do cabeçalho segue o idioma do artigo; antes os artigos EN saíam "2 de agosto de 2026".
   assert.equal(formatDate('2026-08-02'), '2 de agosto de 2026');
   assert.equal(formatDate('2026-08-02', 'en'), 'August 2, 2026');
@@ -373,7 +421,7 @@ const storeReferralLabel = (locale: Locale) =>
   assert.equal(formatDate('2026-02-30', 'en'), '2026-02-30', 'data impossível volta crua');
 
   console.log(
-    `✅ test-review-i18n: ${translatedReviews.length} versões traduzidas em ${Object.keys(translatedGroups).length} famílias, todas com os ${LOCALE_KEYS.length} idiomas; sem link da SHEIN Brasil fora do PT; códigos de recompensa e de indicação rotulados`
+    `✅ test-review-i18n: ${translatedReviews.length} versões traduzidas em ${Object.keys(translatedGroups).length} famílias, todas com os ${LOCALE_KEYS.length} idiomas; sem link da SHEIN Brasil fora do PT; códigos de recompensa e de indicação rotulados; interface do artigo sem português`
   );
 
 })();

@@ -24,7 +24,7 @@ npm run test:coupon-translations  # lojas em outros idiomas: texto traduzido, c�
 npm run validate:yesstyle    # data/coupons/yesstyle.json; falha com oferta ativa vencida (data em UTC)
 npm run test:analytics-gate  # allowlist de hosts do GA4
 npm run test:html-lang       # depois do build: <html lang> de cada rota
-npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas, SEO das 10 páginas da YesStyle, dock e sidebar dos artigos e textos que citam o CECILIA010
+npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um e textos que citam o CECILIA010
 ```
 
 `npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
@@ -123,6 +123,15 @@ vídeo, primeiras impressões e uso noturno.
 - Versão fora do PT não leva link da SHEIN Brasil (`br.shein.com` nem os links de oferta e
   campanha do cupom em PT): o `test:review-i18n` barra, e no artigo da SHEIN o `cta.url` tem de ser
   o link principal neutro da página da loja (`getLocalizedCoupon('shein', locale).offerUrl`).
+- A interface do artigo que não é conteúdo (selo do tipo, veredito e nota, ficha do produto, bloco de
+  vídeo, galeria, barra de compartilhar) tem o texto nos 10 idiomas em `articleCopy.ts`,
+  `galleryCopy.ts` (ambos em `src/components/review/`) e `shared/shareCopy.ts`; o dock e a sidebar
+  seguem em `sidebarCopy.ts`. Texto novo no artigo vai nesses arquivos, nunca solto no JSX. O
+  `test:review-i18n` barra campo igual ao português (salvo a lista de palavras iguais nas duas
+  línguas) e o `test:build-output` barra texto em português nas páginas fora do PT e confere o
+  veredito da sidebar e o `<head>` (canonical e hreflang dos 10 idiomas, x-default no inglês) de
+  todo artigo de família. O `type` da review e os cards de artigos relacionados são conteúdo e
+  ficam fora dessa conferência: um `type: "Editorial"` num JSON em francês aparece como está.
 - A vitrine em português (`/reviews`, home e busca) só mostra artigos em português, pelo `locale`.
   As versões em outros idiomas seguem com `hideFromPortugueseListings: true`, que o
   `validate:content` cobra nas famílias registradas em `clusters/yesstyle.ts`.

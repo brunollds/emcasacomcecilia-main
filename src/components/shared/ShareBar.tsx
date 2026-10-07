@@ -2,6 +2,8 @@
 
 import { useState } from 'react';
 import { Check, Link as LinkIcon, Mail } from 'lucide-react';
+import type { Locale } from '@/lib/i18n/locales';
+import { getShareCopy } from './shareCopy';
 
 export type ShareContentType = 'receita' | 'review';
 
@@ -10,6 +12,7 @@ export interface ShareBarProps {
   title: string;
   contentType: ShareContentType;
   imageUrl?: string;
+  locale?: Locale;
 }
 
 // Ícones de marca como SVG inline — lucide-react não inclui logos de marca.
@@ -103,9 +106,10 @@ function getNetworks(contentType: ShareContentType): ShareNetwork[] {
   return [WHATSAPP, FACEBOOK, TELEGRAM, fourth];
 }
 
-export function ShareBar({ url, title, contentType, imageUrl }: ShareBarProps): React.ReactElement {
+export function ShareBar({ url, title, contentType, imageUrl, locale = 'pt' }: ShareBarProps): React.ReactElement {
   const [copied, setCopied] = useState(false);
   const networks = getNetworks(contentType);
+  const copy = getShareCopy(locale);
 
   const handleCopy = async () => {
     try {
@@ -127,14 +131,14 @@ export function ShareBar({ url, title, contentType, imageUrl }: ShareBarProps): 
 
   return (
     <div className="flex flex-wrap items-center gap-2 rounded-2xl bg-[#f4f1ea] p-3.5 print:hidden">
-      <span className="mr-0.5 text-sm text-[#4a5568]">Compartilhar:</span>
+      <span className="mr-0.5 text-sm text-[#4a5568]">{copy.share}</span>
 
       {networks.map(({ key, label, Icon, ...rest }) => (
         <button
           key={key}
           type="button"
           onClick={() => handleNetworkClick({ key, label, Icon, ...rest } as ShareNetwork)}
-          aria-label={`Compartilhar no ${label}`}
+          aria-label={copy.shareOn(label)}
           className="flex h-9 w-9 items-center justify-center rounded-full border border-[#0f1419]/12 bg-white transition-transform hover:-translate-y-0.5"
         >
           <Icon />
@@ -149,7 +153,7 @@ export function ShareBar({ url, title, contentType, imageUrl }: ShareBarProps): 
             '_self'
           )
         }
-        aria-label="Compartilhar por e-mail"
+        aria-label={copy.shareByEmail}
         className="flex h-9 w-9 items-center justify-center rounded-full border border-[#0f1419]/12 bg-white transition-transform hover:-translate-y-0.5"
       >
         <Mail size={18} className="text-[#4a5568]" />
@@ -161,12 +165,12 @@ export function ShareBar({ url, title, contentType, imageUrl }: ShareBarProps): 
         className="ml-auto flex items-center gap-1.5 rounded-lg border border-[#0f1419]/12 bg-white px-3.5 py-2 text-sm font-medium text-[#0f1419]"
       >
         <LinkIcon size={16} className="text-[#4a5568]" />
-        Copiar link
+        {copy.copyLink}
       </button>
 
       {copied && (
         <span className="flex items-center gap-1 text-xs text-[#1a4d2e]" role="status">
-          <Check size={14} /> Copiado!
+          <Check size={14} /> {copy.copied}
         </span>
       )}
     </div>
