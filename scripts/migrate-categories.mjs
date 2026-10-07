@@ -524,8 +524,18 @@ function migrateRecipe(recipe, report) {
 
 async function main() {
   const args = process.argv.slice(2);
+
+  // Opção desconhecida para o script: um --dryrun era descartado em silêncio e a migração gravava
+  // a saída de verdade, e um "-n" virava caminho de arquivo.
+  const unknownOption = args.find((a) => a.startsWith('-') && a !== '--dry-run');
+  if (unknownOption) {
+    console.error(`Opção desconhecida: ${unknownOption}`);
+    console.error('A única opção aceita é --dry-run. Nenhum arquivo foi escrito.');
+    process.exit(1);
+  }
+
   const dryRun = args.includes('--dry-run');
-  const positional = args.filter((a) => !a.startsWith('--'));
+  const positional = args.filter((a) => a !== '--dry-run');
   const [input, output] = positional;
 
   if (!input || !output) {
@@ -534,6 +544,16 @@ async function main() {
     );
     process.exit(1);
   }
+
+  // O relatório fica ao lado da saída, com .report.json no lugar do .json. Sem o .json no fim, o
+  // caminho do relatório era o da própria saída, e até o --dry-run escrevia por cima dela.
+  if (!output.endsWith('.json')) {
+    console.error(`A saída precisa terminar em .json: ${output}`);
+    console.error('O relatório vai ao lado, em <saida>.report.json. Nenhum arquivo foi escrito.');
+    process.exit(1);
+  }
+  const outputAbs = path.resolve(output);
+  const reportPath = outputAbs.replace(/\.json$/, '.report.json');
 
   const raw = await fs.readFile(input, 'utf-8');
   const recipes = JSON.parse(raw);
@@ -582,16 +602,11 @@ async function main() {
   }
 
   if (dryRun) {
-    const outputAbs = path.resolve(output);
-    const reportPath = outputAbs.replace(/\.json$/, '.report.json');
     await fs.writeFile(reportPath, JSON.stringify(report, null, 2), 'utf-8');
     console.log(`\n[dry-run] JSON migrado não foi escrito.`);
     console.log(`✓ ${reportPath}`);
     return;
   }
-
-  const outputAbs = path.resolve(output);
-  const reportPath = outputAbs.replace(/\.json$/, '.report.json');
 
   await fs.writeFile(outputAbs, JSON.stringify(migrated, null, 2), 'utf-8');
   await fs.writeFile(reportPath, JSON.stringify(report, null, 2), 'utf-8');

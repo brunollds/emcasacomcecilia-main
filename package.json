@@ -16,6 +16,7 @@
     "test:release-meta": "node scripts/content/release-identity.mjs --self-test",
     "indexnow:submit": "node scripts/submit-indexnow.mjs",
     "test:indexnow": "node --test scripts/submit-indexnow.test.mjs",
+    "test:migrate-categories": "node --test scripts/migrate-categories.test.mjs",
     "update:popular-recipes": "node scripts/update-popular-recipes.mjs",
     "youtube:inventory": "tsx data/youtube/youtube-inventory.ts",
     "youtube:match": "tsx data/youtube/youtube-recipe-matching.ts",
