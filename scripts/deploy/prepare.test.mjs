@@ -6,6 +6,7 @@ import {
   mkdirSync,
   mkdtempSync,
   readFileSync,
+  rmSync,
   statSync,
   writeFileSync,
 } from 'node:fs';
@@ -17,8 +18,9 @@ import { createAttestedArchive } from './prepare.mjs';
 
 const DEPLOY_UUID = '00000000-0000-4000-8000-000000000001';
 
-function fixture() {
+function fixture(t) {
   const root = mkdtempSync(path.join(os.tmpdir(), 'prepare-archive-test-'));
+  t.after(() => rmSync(root, { recursive: true, force: true }));
   const repoDir = path.join(root, 'repo');
   mkdirSync(repoDir);
   execFileSync('git', ['init', '--quiet'], { cwd: repoDir });
@@ -37,8 +39,8 @@ function fixture() {
   return { root, repoDir, targetSha };
 }
 
-test('cria o archive atestado, mede os mesmos bytes e retorna SHA-256 verificável', () => {
-  const { root, repoDir, targetSha } = fixture();
+test('cria o archive atestado, mede os mesmos bytes e retorna SHA-256 verificável', (t) => {
+  const { root, repoDir, targetSha } = fixture(t);
   const archivePath = path.join(root, 'candidate.tar.gz');
   const result = createAttestedArchive({ targetSha, deployUuid: DEPLOY_UUID, archivePath, repoDir });
 
@@ -62,8 +64,8 @@ test('cria o archive atestado, mede os mesmos bytes e retorna SHA-256 verificáv
   );
 });
 
-test('rejeita identidade inválida antes de criar o archive', () => {
-  const { root, repoDir, targetSha } = fixture();
+test('rejeita identidade inválida antes de criar o archive', (t) => {
+  const { root, repoDir, targetSha } = fixture(t);
   const archivePath = path.join(root, 'invalid.tar.gz');
 
   assert.throws(
@@ -77,8 +79,8 @@ test('rejeita identidade inválida antes de criar o archive', () => {
   assert.equal(existsSync(archivePath), false);
 });
 
-test('caminho padrão é ancorado no repositório informado', () => {
-  const { root, repoDir, targetSha } = fixture();
+test('caminho padrão é ancorado no repositório informado', (t) => {
+  const { root, repoDir, targetSha } = fixture(t);
   const result = createAttestedArchive({ targetSha, deployUuid: DEPLOY_UUID, repoDir });
 
   assert.equal(
@@ -88,8 +90,8 @@ test('caminho padrão é ancorado no repositório informado', () => {
   assert.equal(existsSync(result.archive), true);
 });
 
-test('archive acima da guarda falha e é removido', () => {
-  const { root, repoDir, targetSha } = fixture();
+test('archive acima da guarda falha e é removido', (t) => {
+  const { root, repoDir, targetSha } = fixture(t);
   const archivePath = path.join(root, 'oversized.tar.gz');
 
   assert.throws(
@@ -105,8 +107,8 @@ test('archive acima da guarda falha e é removido', () => {
   assert.equal(existsSync(archivePath), false);
 });
 
-test('falha de cleanup não mascara a causa original da montagem', () => {
-  const { root, repoDir, targetSha } = fixture();
+test('falha de cleanup não mascara a causa original da montagem', (t) => {
+  const { root, repoDir, targetSha } = fixture(t);
   const archivePath = path.join(root, 'archive-as-directory');
   mkdirSync(archivePath);
 
