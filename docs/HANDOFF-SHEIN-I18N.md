@@ -1,13 +1,55 @@
 # Handoff — Shein no modelo multi-idioma (pré-requisito do Commit 2)
 
+> **ATUALIZAÇÃO 07/10/2026 — o modelo mudou. Leia isto antes do resto.**
+>
+> Decisão do Bruno em 07/10/2026: a SHEIN usa `paridade-completa`. Guias **e** hauls saem
+> nos 10 idiomas ao mesmo tempo (pt, en, es, fr, de, it, ko, ja, zh-hant e zh-hans), como uma
+> família de JSONs com a mesma `translationKey`. O modo `liberar-por-conversao` (português
+> primeiro, traduções só depois de conversão comprovada) foi aposentado: não há mais gate de
+> conversão, e o haul deixou de ser PT-first.
+>
+> O que vale hoje para quem escreve um artigo da SHEIN:
+>
+> - **Código:** `4CW5Y` é código de indicação da SHEIN Brasil, pesquisado no aplicativo da
+>   SHEIN. Fora do português, o artigo mostra `4CW5Y` com o aviso de que o código e as
+>   campanhas são da SHEIN Brasil.
+> - **CTA do artigo:** em português, o link brasileiro do código (`offerUrl` do cupom `shein`
+>   em `couponsData.ts`). Nos outros 9 idiomas, exatamente o link neutro
+>   `https://onelink.shein.com/55/6463grgxf6ru` (`COUPON_TRANSLATIONS.shein.offerUrl` em
+>   `couponTranslations.ts`). Nunca editar link de parceiro; nunca abrir nem clicar.
+> - **Link da página da loja dentro do artigo:** `/cupons/shein` em português e
+>   `/<locale>/coupons/shein` nos outros idiomas.
+> - **URL do artigo:** `/reviews/<slug>` em português e `/<locale>/reviews/<slug>` nos outros
+>   idiomas, derivada do `locale` do JSON. Não há `page.tsx`, hreflang nem entrada em
+>   `src/lib/i18n/clusters/` para a tradução aparecer. A recomendação deste documento de manter
+>   `/reviews/<slug-no-idioma>` nas traduções caiu.
+> - **Hauls traduzidos:** preço em reais, tamanhos e disponibilidade são fatos da SHEIN
+>   Brasil. A tradução diz isso de forma explícita e não converte moeda nem tamanho.
+> - **Links de produto por peça num haul:** decisão do Bruno em 07/10/2026. Nas 9 traduções,
+>   o haul leva o link de cada peça, o mesmo deep link convertido do haul em português,
+>   copiado do arquivo. Nunca editar o link, nunca abrir nem clicar (o clique registra
+>   atribuição). O CTA continua no link neutro. **Ressalva:** o `test:review-i18n` barra, fora
+>   do português, links do host `br.shein.com` e os links de oferta e de campanha do cupom em
+>   PT. Se o deep link de uma peça for desse host, a versão traduzida falha no build; nesse
+>   caso, levar ao Bruno antes de publicar, sem mexer no teste.
+>
+> O procedimento está na nota do cluster, `03_Memoria/Clusters-Multilingues/SHEIN.md` do vault
+> `docs/Memoria de Artigos/memreview`, e no contrato do JSON, seção 3 do
+> `00_Sistema/JOBS/Job-4-Conformacao-JSON.md`.
+>
+> O resto deste documento é o registro das decisões de 10/08 a 05/10/2026 e fica como
+> histórico. Onde ele divergir desta nota, vale esta nota. Os trechos superados levam a
+> marca "Histórico".
+
 Decisão do Bruno em 10/08/2026: os artigos da Shein devem seguir o mesmo modelo
 multi-idioma da YesStyle.
 
-Isso **não** antecipa tradução. O gate do Guia Mestre continua valendo — só se traduz
-depois de conversão provada em PT-BR. O que se antecipa é a **estrutura**, porque
-retrofitar i18n num artigo já indexado significa mudar URL, refazer canonical e
-backfillar hreflang. Nasce na estrutura, publica PT, os locales entram depois sem
-mexer em URL.
+> **Histórico (10/08/2026), superado em 07/10/2026:** na época, isso **não** antecipava
+> tradução. O gate do Guia Mestre continuava valendo — só se traduziria depois de conversão
+> provada em PT-BR — e o que se antecipava era a **estrutura**, porque retrofitar i18n num
+> artigo já indexado significa mudar URL, refazer canonical e backfillar hreflang. Nascia na
+> estrutura, publicava PT, os locales entrariam depois sem mexer em URL. Sem o gate, a razão
+> da estrutura continua: a URL certa desde o primeiro dia.
 
 > **Atualização de 05/10/2026:** a página da loja (`/cupons/shein`) já está nos 10 idiomas,
 > por decisão do Bruno. Ver "Página da loja em 10 idiomas", no fim.
@@ -18,6 +60,12 @@ Caminhos relativos a `emcasacomcecilia/`. Estado verificado em 10/08/2026, com
 ---
 
 ## Como o modelo YesStyle está montado hoje
+
+> **Histórico (10/08/2026).** Esta seção e os Achados 1 a 3 descrevem o código de 10/08,
+> antes do i18n-A e do i18n-B. Hoje os route groups são `(en)`, `(de)` e os demais idiomas, o
+> registro de locales está em `src/lib/i18n/locales.ts` e o da YesStyle em
+> `src/lib/i18n/clusters/yesstyle.ts`. As recomendações sobre URL de artigo e sobre cluster
+> PT-only da SHEIN foram superadas (ver a atualização de 07/10/2026, no topo).
 
 ```
 src/app/(yesstyle-en)/            5 arquivos  → 1 layout + 1 hub + 3 reviews
@@ -34,6 +82,10 @@ serve `/en/coupons/yesstyle`. Renomear o grupo não muda URL nenhuma.
 **2. Os artigos i18n não são prefixados por locale.** Só o hub de cupom é
 (`/en/coupons/yesstyle`). Os reviews vivem em `/reviews/<slug-no-idioma>`, na mesma
 namespace dos artigos PT, distinguidos apenas pelo idioma do slug.
+
+> **Histórico, superado:** era assim em 10/08/2026. Hoje os artigos traduzidos ficam em
+> `/<locale>/reviews/<slug>`, derivado do `locale` do JSON; não manter `/reviews/<slug-no-idioma>`
+> para traduções (SHEIN ou YesStyle).
 
 **3. Cada `layout.tsx` de grupo tem 11 linhas** e a única coisa que tira do módulo
 YesStyle é o `htmlLang` — que é dado de locale, não de marca.
@@ -79,6 +131,11 @@ type Cluster = { id: string; locales: Partial<Record<Locale, ClusterLocaleConfig
 
 `Partial` é proposital: a Shein vai nascer só com `pt`, e os outros locales entram um a um
 conforme o gate de conversão liberar. O tipo tem que admitir cluster incompleto.
+
+> **Histórico, superado em 07/10/2026:** não existe `clusters/shein.ts`, e a SHEIN não precisa
+> de um. Sem gate de conversão, ela não é cluster parcial, e as famílias de artigo não entram em
+> `clusters/` (Job 4, seção 3, item 2). A loja da SHEIN nos 10 idiomas vem de
+> `couponTranslations.ts` e da rota dinâmica `[locale]/coupons/[brand]`.
 
 **Blast radius: 20 arquivos.** Por isso essa refatoração deve ser um commit próprio,
 **antes** do Commit 2 e separado dele — o Commit 2 (dados comerciais da Shein) precisa
@@ -128,6 +185,10 @@ que o hreflang está resolvido.
 de locale) ou migrar para `/en/reviews/...`? Recomendação: **manter**. Mudar significaria
 migrar a YesStyle junto, com redirects, sem ganho claro.
 
+> **Histórico, superado:** esta recomendação caiu. Hoje a URL é `/reviews/<slug>` em português
+> e `/<locale>/reviews/<slug>` nos outros idiomas (`CLAUDE.md`, "Artigos em outros idiomas", e
+> Job 4, seção 3). Não manter `/reviews/<slug-no-idioma>` para as traduções da SHEIN.
+
 **Onde a Shein começa.** `/cupons/shein` no template `[brand]` (modo `affiliate-link`,
 já pronto desde `cc9a198`) ou componente dedicado como a YesStyle? Recomendação:
 **template `[brand]`**. O `YesStyleCouponPage` tem ~1.100 linhas e existe por razões
@@ -137,7 +198,21 @@ históricas; não é um modelo a replicar.
 
 ## Camadas editoriais: o que replica e o que não replica
 
-O modelo YesStyle mapeia bem para conteúdo evergreen e mal para haul.
+> **Atualizada em 07/10/2026.** A versão de 10/08, mantida abaixo como histórico, dizia que o
+> modelo YesStyle "mapeia bem para conteúdo evergreen e mal para haul" e deixava o haul
+> PT-first. Isso caiu: com `paridade-completa`, toda camada sai nos 10 idiomas.
+>
+> | Camada | Hoje |
+> |---|---|
+> | `/cupons/shein` e a explicação de link de afiliada × código de indicação × código de campanha | nos 10 idiomas desde 05/10/2026 |
+> | Guia e tabela de medidas | nos 10 idiomas; medidas e numeração são as da SHEIN Brasil, ditas como tais, sem converter |
+> | Haul de peças recebidas | família de 10 versões, com as mesmas peças e fotos do PT; preço em reais, tamanho comprado e disponibilidade são da SHEIN Brasil, ditos como tais, sem converter moeda nem tamanho |
+>
+> O risco que a versão de 10/08 apontava (um artigo brasileiro em alemão) não some: ele é
+> tratado dizendo de qual mercado cada fato é, não deixando o haul de fora.
+
+**Histórico (10/08/2026, superado):** o modelo YesStyle mapeia bem para conteúdo evergreen e
+mal para haul.
 
 | Camada | Multi-idioma? | Quando |
 |---|---|---|
@@ -152,6 +227,13 @@ para calibrar o tom nos mercados DE/FR por causa do escrutínio regulatório da 
 ---
 
 ## Correção: a Shein NÃO copia o wrapper da YesStyle
+
+> **Histórico (10/08/2026), superado em 07/10/2026:** esta seção e a seguinte partiam de uma
+> SHEIN que nasceria PT-only, com `clusters/shein.ts` e um gerador de rotas por cluster. Nada
+> disso foi criado: a SHEIN não tem entrada em `clusters/`, o `scripts/generate-c0b-clusters.mjs`
+> continua só da YesStyle e a página da loja da SHEIN usa a rota dinâmica
+> `[locale]/coupons/[brand]` (ver "Página da loja em 10 idiomas"). Fica como registro da
+> sugestão `assertCompleteCluster` para a YesStyle.
 
 Escrito antes do i18n-A e corrigido depois de revisá-lo. Onde este documento dizia
 "`clusters/shein.ts` — mesma forma", leia-se: **mesma forma do cluster (o literal de
@@ -212,6 +294,9 @@ rota vazios com layout. **O gerador tem que iterar as chaves do próprio cluster
    status por SKU, deep links, link para `/cupons/shein`, recorte YouTube +
    entrada em `video-pages.js` + `VideoObject`.
 
+> **Histórico, superado em 07/10/2026:** o item 4 previa o primeiro haul só em PT. Hoje o
+> primeiro haul sai como família de 10 versões (ver a atualização no topo).
+
 Passos 1 e 2 estão concluídos. O passo 3 foi **desbloqueado em 11/08/2026** com a confirmação
 do link principal e de duas campanhas vigentes.
 
@@ -237,7 +322,10 @@ Consequências para o modelo de dados:
 - `campaigns[]` continua sendo lista, para as campanhas datadas que entrarem e saírem por cima.
 - **Artigos de haul carregam deep links convertidos por produto**, no próprio artigo, além do
   link principal. Não centralizar isso em `couponsData` — ver a correção sobre deep links no
-  handoff da Fase 1A.
+  handoff da Fase 1A. Essa regra é de 11/08, do haul em português. Para as 9 traduções, o
+  Bruno decidiu em 07/10/2026 que o haul leva o mesmo deep link de cada peça, copiado do
+  arquivo do português, com a ressalva do `br.shein.com` (ver "Links de produto por peça num
+  haul", na atualização de 07/10/2026).
 
 Os registros anteriores `5yheojvlnivm` e `5yh44ijap5yi`, ambos associados ao `37S3442` em
 fontes diferentes, ficam apenas como histórico. Não usar nenhum deles no código: a campanha
@@ -260,9 +348,10 @@ marca parceira prevista. Artigos de bebida vivem em `content/reviews/` e já usa
 ## Página da loja em 10 idiomas (05/10/2026)
 
 Decisão do Bruno em 05/10/2026: a página da loja da SHEIN ganha os mesmos 10 idiomas da
-YesStyle, sem esperar o gate de conversão do início deste documento. Vale só para a página da
-loja; haul continua PT-first. Feito de `56b1793` a `075f59c`; os testes vieram no commit
-seguinte.
+YesStyle, sem esperar o gate de conversão do início deste documento. Na época valia só para a
+página da loja, e o haul seguia PT-first; em 07/10/2026 os artigos, hauls inclusive, também
+passaram para os 10 idiomas (ver a atualização no topo). Feito de `56b1793` a `075f59c`; os
+testes vieram no commit seguinte.
 
 | O quê | Onde |
 |---|---|
@@ -287,6 +376,9 @@ A tradução só traz texto. Códigos, datas, status e links das campanhas vêm 
 |---|---|---|
 | `/cupons/shein` | o link brasileiro do código `4CW5Y` (tabela de 11/08) | `offerUrl` do cupom em `couponsData.ts` |
 | as 9 fora do PT | `https://onelink.shein.com/55/6463grgxf6ru` | `COUPON_TRANSLATIONS.shein.offerUrl` em `couponTranslations.ts` |
+
+Os artigos seguem a mesma divisão: o CTA em português é o link brasileiro, e o das 9
+traduções é o neutro.
 
 **Correção de premissa, 05/10/2026:** além do link do código, o painel da SHEIN gera um link
 sem `br.`. O Bruno gerou o da tabela em 05/10/2026; como o outro, é dado comercial que se
@@ -324,6 +416,9 @@ npm run test:coupon-translations
 npm run build
 npx tsx scripts/test-yesstyle-mutation.ts
 ```
+
+Para um artigo da SHEIN, os gates específicos (`validate:content`, conferência do `<head>`,
+links do `cta` e releitura das traduções) estão na nota do cluster do vault.
 
 Para os passos 1 e 2, o gate específico é: **mesma contagem de rotas antes e depois**, e
 os hreflang das páginas YesStyle inalterados no HTML gerado. Comparar
