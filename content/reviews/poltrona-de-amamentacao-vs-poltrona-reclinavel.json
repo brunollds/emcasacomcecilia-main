@@ -170,6 +170,29 @@
           "label": "Minha experiência com a DAMIE 2.0 com giro e balanço",
           "href": "/reviews/poltrona-damie-e-boa"
         }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/damie/poltrona-reclinavel-damie-1-0-giro-balanco-bege.webp",
+          "alt": "Poltrona reclinável DAMIE 1.0 elétrica com base de giro e balanço, em suede bege, vazia",
+          "caption": "DAMIE 1.0 elétrica com giro e balanço: encosto capitonê. Foto oficial da DAMIE.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
+          "alt": "Poltrona reclinável DAMIE 2.0 elétrica com base de giro e balanço, em suede bege, vazia",
+          "caption": "DAMIE 2.0 elétrica com giro e balanço: almofada de cabeça regulável e bolso lateral maior. Foto oficial da DAMIE.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
+          "alt": "Poltrona reclinável DAMIE 2.0 totalmente reclinada, com o apoio de pés aberto, vazia",
+          "caption": "DAMIE 2.0 totalmente reclinada: chega a 174 cm de comprimento. Foto oficial da DAMIE.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
       ]
     },
     {
@@ -193,6 +216,22 @@
         {
           "label": "Como escolher poltrona de amamentação: medidas, tecidos e preços",
           "href": "/reviews/poltrona-de-amamentacao-como-escolher"
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/damie/poltrona-amamentacao-aquila-mercado-livre.webp",
+          "alt": "Poltrona de amamentação Áquila com base de balanço e puff, em um quarto de bebê, sem ninguém",
+          "caption": "Áquila com balanço e puff (Mercado Livre): R$ 862 em 6/10/2026. Foto do anúncio.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "https://m.media-amazon.com/images/I/51w-91cpCIL._AC_SL1000_.jpg",
+          "alt": "Poltrona de amamentação fixa com puff, em suede bege, sem ninguém",
+          "caption": "Fixa com puff (Amazon): R$ 469 em 6/10/2026, sem balanço. Foto do anúncio na Amazon.",
+          "objectFit": "contain",
+          "aspectRatio": 1
         }
       ]
     },
