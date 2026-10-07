@@ -112,6 +112,20 @@ paralelo `editorialClass`. O Aliv Head Gel IWS é guia porque usa fontes públic
 própria declarada; o Cobertor IWS Igloo é produto/experiência porque registra produto recebido,
 vídeo, primeiras impressões e uso noturno.
 
+### Artigos em outros idiomas
+
+- Uma família é o conjunto de JSONs com a mesma `translationKey`, um por idioma, cada um com
+  `locale` explícito. A URL sai sozinha: `/reviews/<slug>` em português e `/<locale>/reviews/<slug>`
+  nos outros idiomas. Não se cria rota, hreflang nem entrada em `src/lib/i18n/clusters/` para isso.
+- `npm run test:review-i18n`, que roda na build, exige as 10 versões de toda família, com o mesmo
+  `affiliate` e o mesmo `coupon`, e o link da página da loja no idioma do artigo: `/cupons/<marca>`
+  em português e `/<locale>/coupons/<marca>` nos outros.
+- A vitrine em português (`/reviews`, home e busca) só mostra artigos em português, pelo `locale`.
+  As versões em outros idiomas seguem com `hideFromPortugueseListings: true`, que o
+  `validate:content` cobra nas famílias registradas em `clusters/yesstyle.ts`.
+- O processo editorial (pauta, redação, revisão, JSON e gates) está no vault
+  `docs/Memoria de Artigos/memreview`, a partir de `00_Sistema/AI-PRIMING-INDEX.md`.
+
 ### Component layers
 - `src/components/ui/` — Primitive building blocks (`Card`, `Button`, `Badge`). Use `clsx` for className merging here.
 - `src/components/sections/` — Page sections (`Hero`, `PopularRecipes`, `CouponStrip`, `ReviewsShowcase`, `CTA`…). `Navbar` and `Footer` live in `src/components/`.

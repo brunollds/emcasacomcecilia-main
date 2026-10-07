@@ -3,13 +3,17 @@ import { promises as fs } from 'node:fs';
 import path from 'node:path';
 
 import { detectDuplicateReviewPathnames, formatDate, getReviewDefaultTranslationPathname, groupReviewsByTranslationKey, detectDuplicateTranslationLocalePairs, getReviewTranslationsByLocale, isValidTranslationKey, resolveReviewLocale } from '@/lib/content';
+import { getCouponStorePath } from '@/lib/couponTranslations';
 import { LOCALE_KEYS } from '@/lib/i18n/locales';
+import { getCouponBrandFromHref, getInternalHref, isCouponPageLink } from '@/lib/internalLinks';
 import { resolveRelatedArticleLinks } from '@/lib/review-template-props';
 
 interface ReviewSource {
   slug: string;
   translationKey?: string;
   locale?: string;
+  affiliate?: string;
+  coupon?: string;
 }
 
 const contentReviewsDir = path.join(process.cwd(), 'content', 'reviews');
@@ -29,6 +33,15 @@ async function loadReviewCorpus(): Promise<ReviewSource[]> {
   );
 
   return rows;
+}
+
+// href e url em qualquer nível do JSON: links das seções, blocos, CTA e autor.
+function collectLinks(value: unknown): string[] {
+  if (Array.isArray(value)) return value.flatMap(collectLinks);
+  if (!value || typeof value !== 'object') return [];
+  return Object.entries(value).flatMap(([field, child]) =>
+    (field === 'href' || field === 'url') && typeof child === 'string' ? [child] : collectLinks(child)
+  );
 }
 
 (async () => {
@@ -168,21 +181,34 @@ async function loadReviewCorpus(): Promise<ReviewSource[]> {
     }
   }
 
-  const baselineTranslationKeys = [
-    'yesstyle-reward-code',
-    'yesstyle-coupon-guide',
-    'yesstyle-trust',
-    'yesstyle-kbeauty',
-  ];
-  for (const key of baselineTranslationKeys) {
-    const translationGroup = getReviewTranslationsByLocale(translatedGroups, key);
-    assert.ok(Object.prototype.hasOwnProperty.call(translatedGroups, key), `baseline key presente: ${key}`);
+  // Toda família sai em todos os idiomas do site, com a mesma loja e o mesmo código em todas as
+  // versões. Antes só as 4 primeiras famílias da YesStyle eram conferidas, numa lista fixa.
+  for (const [key, translationGroup] of Object.entries(translatedGroups)) {
     for (const locale of LOCALE_KEYS) {
-      const entries = translationGroup[locale] ?? [];
       assert.equal(
-        entries.length,
+        translationGroup[locale]?.length ?? 0,
         1,
         `${key}: exatamente uma versão para locale ${locale}`
+      );
+    }
+    const family = translatedReviews.filter((review) => review.translationKey === key);
+    for (const field of ['affiliate', 'coupon'] as const) {
+      const values = [...new Set(family.map((review) => review[field] ?? '(vazio)'))];
+      assert.equal(values.length, 1, `${key}: ${field} diferente entre as versões: ${values.join(', ')}`);
+    }
+  }
+
+  // O link da página da loja segue o idioma do artigo: /cupons/<marca> em português e
+  // /<locale>/coupons/<marca> nos outros idiomas, que não têm hub de cupons.
+  for (const review of reviews) {
+    const locale = resolveReviewLocale(review.locale);
+    for (const href of collectLinks(review).filter(isCouponPageLink)) {
+      const pathname = getInternalHref(href).split(/[?#]/, 1)[0];
+      if (locale === 'pt' && pathname === '/cupons') continue;
+      const brand = getCouponBrandFromHref(href);
+      assert.ok(
+        brand && pathname === getCouponStorePath(brand, locale),
+        `${review.slug}: link de loja fora do idioma do artigo: ${href}`
       );
     }
   }
@@ -194,7 +220,7 @@ async function loadReviewCorpus(): Promise<ReviewSource[]> {
   assert.equal(formatDate('2026-02-30', 'en'), '2026-02-30', 'data impossível volta crua');
 
   console.log(
-    `✅ test-review-i18n: ${translatedReviews.length} versões traduzidas em ${Object.keys(translatedGroups).length} translationKeys (baseline 4 famílias com ${LOCALE_KEYS.length} locales)`
+    `✅ test-review-i18n: ${translatedReviews.length} versões traduzidas em ${Object.keys(translatedGroups).length} famílias, todas com os ${LOCALE_KEYS.length} idiomas`
   );
 
 })();

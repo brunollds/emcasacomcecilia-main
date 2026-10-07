@@ -54,10 +54,6 @@ function buildRecipeSearchItem(recipe) {
   };
 }
 
-function isPortugueseReview(review) {
-  return (!review.locale || review.locale === 'pt') && isListedInPortuguese(review);
-}
-
 function buildReviewSearchItem(review) {
   return {
     id: review.id,
@@ -85,7 +81,7 @@ function buildReviewSearchItem(review) {
 export function createSearchIndex({ recipes, reviews }) {
   return [
     ...recipes.map(buildRecipeSearchItem),
-    ...reviews.filter(isPortugueseReview).map(buildReviewSearchItem),
+    ...reviews.filter(isListedInPortuguese).map(buildReviewSearchItem),
   ];
 }
 
