@@ -6,9 +6,9 @@ parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "em-revisao"
+status: "publicado"
 responsavel: "Job-5"
-proxima_acao: "revisao-manual-e-deploy-autorizado"
+proxima_acao: "nenhuma"
 bloqueado_por: null
 score_autoridade: 94
 score_conversao: 72

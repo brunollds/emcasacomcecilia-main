@@ -54,7 +54,11 @@ depende do tipo:
 - testar cada código no checkout ou reconfirmar a condição por fonte oficial;
 - registrar a **data real** do teste;
 - atualizar mês de title, description e texto visível somente nas ofertas reconferidas;
-- expirar ou pausar campanhas encerradas antes de publicar a nova versão.
+- expirar ou pausar campanhas encerradas antes de publicar a nova versão;
+- tirar o chip “novo” dos artigos do mês que acabou: só os artigos do mês corrente ficam com
+  `"isNew": true`. Trocar só essa linha em cada JSON, sem reformatar, e rodar
+  `node scripts/content/build-index.mjs`. O `isNew` também põe o artigo no topo de `/reviews`;
+  conferir a lista depois de “carregar mais”. Traduções já saem com `isNew: false`.
 
 ### Depois da publicação
 
@@ -220,8 +224,9 @@ No ciclo mensal:
 - preservar `publishedAt` e `publishedAtISO` como datas originais;
 - alterar `updatedAt` apenas quando houver revisão editorial real do artigo;
 - preservar a divulgação de parceria em `editorialNote`;
-- manter links para `/cupons/<marca>` relativos, para que passem por
-  `TrackedCouponPageLink`;
+- manter relativos os links para a página da loja, para que passem por
+  `TrackedCouponPageLink`: `/cupons/<marca>` em português e `/<locale>/coupons/<marca>` nas
+  traduções;
 - não editar `src/lib/generated/content-index.ts`: ele é gerado pelo processo de conteúdo.
 
 Os JSONs e `_manifest.json` são a fonte editorial do site. Se a revisão passar pela Central,
@@ -247,7 +252,11 @@ Confirmar no JSON:
 - `affiliate` com o **slug do cupom**;
 - `editorialNote` com a relação comercial;
 - FAQ com a pergunta literal sobre o código, quando pertinente;
-- link interno relativo e editorialmente justificado para `/cupons/<marca>`.
+- link interno relativo e editorialmente justificado para a página da loja no idioma do
+  artigo;
+- `isNew: true` só na versão em português;
+- artigo da YesStyle ou da SHEIN: as 10 versões da família, pelo contrato da seção 3 do Job 4
+  do vault (`docs/Memoria de Artigos/memreview/00_Sistema/JOBS/Job-4-Conformacao-JSON.md`).
 
 Não incluir `MAUAD` (Let's Eat It) nos termos de `HighlightCoupon` nem de
 `ReviewSectionContent`: é o sobrenome da Cecília. O destaque diferencia maiúsculas, então
@@ -402,8 +411,8 @@ npm run validate:video
 npm run test:internal-links
 npm run test:coupon-offer-modes
 npm run test:analytics-gate
-npm run test:html-lang
 npm run build
+npm run test:html-lang
 ```
 
 O `build` repete parte dos validadores, mas não substitui o gate completo acima.
@@ -471,6 +480,7 @@ para forçar o clique.
 - [ ] Datas originais de publicação e vídeo foram preservadas.
 - [ ] Dados externos antigos mantêm a data antiga quando não foram reconsultados.
 - [ ] Artigos novos obedecem ao contrato de afiliado e à forma da marca.
+- [ ] Só os artigos do mês corrente têm o chip “novo” (`isNew: true`).
 - [ ] Kopenhagen continua sem links enquanto pausada.
 - [ ] Damie continua fora da campanha comercial do domínio principal.
 - [ ] Validações e build passaram.

@@ -2,7 +2,9 @@
 
 import Image from 'next/image';
 import { useEffect, useRef } from 'react';
+import type { Locale } from '@/lib/i18n/locales';
 import { sanitizeViewTransitionName } from '@/lib/viewTransition';
+import { getArticleCopy } from './articleCopy';
 import { ReviewLoopVideo } from './ReviewLoopVideo';
 import { useReviewMediaBlur } from './useReviewMediaBlur';
 
@@ -18,6 +20,7 @@ export interface ReviewHeroImageProps {
   objectContain?: boolean;
   compact?: boolean;
   slug?: string;
+  locale?: Locale;
   video?: {
     mp4: string;
     webm?: string;
@@ -51,6 +54,7 @@ export function ReviewHeroImage({
   objectContain = false,
   compact = false,
   slug,
+  locale = 'pt',
   video,
 }: ReviewHeroImageProps): React.ReactElement {
   const effectivePortrait = imageAspect === 'portrait' || (!imageAspect && isPortrait);
@@ -191,7 +195,7 @@ export function ReviewHeroImage({
       </div>
       {hasProductRating && typeof rating === 'number' && (
         <figcaption className="sr-only">
-          Imagem do produto avaliado com nota {rating.toFixed(1)} de 5.
+          {getArticleCopy(locale).heroCaption(rating.toFixed(1))}
         </figcaption>
       )}
     </div>

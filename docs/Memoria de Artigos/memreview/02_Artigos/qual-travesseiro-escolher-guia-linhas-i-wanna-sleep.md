@@ -11,9 +11,9 @@ publishedAtISO: "2026-09-04"
 publishedAt: "4 de setembro de 2026"
 affiliate: "i-wanna-sleep"
 coupon: "CECIEMCASA"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Job-5"
-proxima_acao: "deploy-e-indexnow"
+proxima_acao: "nenhuma"
 bloqueado_por: null
 score_autoridade: 96
 score_conversao: 95

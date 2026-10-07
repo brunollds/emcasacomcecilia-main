@@ -6,9 +6,9 @@ parceiro: "[[I-Wanna-Sleep]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Job-5"
-proxima_acao: "deploy-e-indexnow"
+proxima_acao: "nenhuma"
 bloqueado_por: null
 score_autoridade: 95
 score_conversao: 94

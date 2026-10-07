@@ -63,7 +63,7 @@ Eventos de produção posteriores a **11/08/2026, 22:02:52 BRT** pertencem à li
 
 - A sequência estratégica continua Cupons → SHEIN → Lifestyle.
 - Cupons 1a/1b e a entrada comercial da SHEIN já foram implementados.
-- O próximo conteúdo da SHEIN é o primeiro haul em português; tradução depende de conversão em PT-BR.
+- O próximo conteúdo da SHEIN é o primeiro haul. Desde 07/10/2026 ele sai nos 10 idiomas ao mesmo tempo (`paridade-completa`), por decisão do Bruno; a regra anterior, de traduzir só depois de conversão em PT-BR, caiu (ver a atualização no topo de `docs/HANDOFF-SHEIN-I18N.md`).
 - Reviews já foram movidos para a primeira seção de conteúdo da home na reorganização de julho.
 - O rebranding do topo para “Lifestyle & Receitas” foi deliberadamente adiado para esta conversa.
 - `/cupons/<marca>` tem intenção transacional; artigos têm intenção de instrução, avaliação, reputação ou utilidade.

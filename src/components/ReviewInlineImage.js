@@ -5,6 +5,7 @@ import { createPortal } from 'react-dom';
 import { useState, useCallback, useEffect, useRef } from 'react';
 import { Maximize2, X, ChevronLeft, ChevronRight } from 'lucide-react';
 import { useReviewMediaBlur } from '@/components/review/useReviewMediaBlur';
+import { getGalleryCopy } from '@/components/review/galleryCopy';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 function useInlineCarouselScroll() {
@@ -58,7 +59,7 @@ function normalizeImages(section, reviewTitle) {
   return images;
 }
 
-function InlineImageThumbnail({ image, index, onOpen, sizes, normalizeCarousel = false }) {
+function InlineImageThumbnail({ image, index, onOpen, sizes, copy, normalizeCarousel = false }) {
   const [pendingReveal, setPendingReveal] = useState(true);
   const isPortrait = image.fit === 'portrait';
   const isContain = image.fit === 'contain';
@@ -137,7 +138,7 @@ function InlineImageThumbnail({ image, index, onOpen, sizes, normalizeCarousel =
         type="button"
         onClick={(event) => onOpen(index, event.currentTarget)}
         className="group relative block w-full overflow-hidden rounded-[1.25rem] bg-white transition-[filter,opacity] duration-150"
-        aria-label={`Ampliar imagem: ${image.alt}`}
+        aria-label={copy.enlargeNamed(image.alt)}
       >
         <div
           className={`relative w-full ${
@@ -155,7 +156,7 @@ function InlineImageThumbnail({ image, index, onOpen, sizes, normalizeCarousel =
         </div>
         <span className="absolute bottom-3 right-3 inline-flex items-center gap-1.5 rounded-full bg-black/70 px-3 py-1.5 text-xs font-bold uppercase tracking-[0.12em] text-white opacity-90 transition-opacity group-hover:opacity-100">
           <Maximize2 className="h-3.5 w-3.5" />
-          Ampliar
+          {copy.enlarge}
         </span>
       </button>
       {image.caption && (
@@ -167,7 +168,7 @@ function InlineImageThumbnail({ image, index, onOpen, sizes, normalizeCarousel =
   );
 }
 
-function Lightbox({ images, currentIndex, onClose, onNext, onPrev }) {
+function Lightbox({ images, currentIndex, onClose, onNext, onPrev, copy }) {
   const image = images[currentIndex];
   const dialogRef = useRef(null);
   const closeButtonRef = useRef(null);
@@ -240,7 +241,7 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev }) {
       className="fixed inset-0 z-[100] flex min-h-[100dvh] flex-col items-center justify-center overscroll-contain bg-black/90 px-3 pb-[max(0.75rem,env(safe-area-inset-bottom))] pt-[max(0.75rem,env(safe-area-inset-top))]"
       role="dialog"
       aria-modal="true"
-      aria-label={`Imagem ampliada ${currentIndex + 1} de ${images.length}`}
+      aria-label={copy.enlargedImage(currentIndex + 1, images.length)}
       aria-describedby={captionId}
       tabIndex={-1}
       onClick={handleBackdropClick}
@@ -253,7 +254,7 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev }) {
           onClose();
         }}
         className="absolute right-[max(0.75rem,env(safe-area-inset-right))] top-[max(0.75rem,env(safe-area-inset-top))] z-50 flex h-11 w-11 items-center justify-center rounded-full bg-white/95 text-[#0f1419] shadow-lg transition-transform hover:scale-110 active:scale-95"
-        aria-label="Fechar imagem ampliada"
+        aria-label={copy.closeImage}
       >
         <X className="h-6 w-6" />
       </button>
@@ -283,7 +284,7 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev }) {
               onPrev();
             }}
             className="rounded-full bg-white/10 px-4 py-2 text-sm font-bold hover:bg-white/20"
-            aria-label="Imagem anterior"
+            aria-label={copy.previousImage}
           >
             ←
           </button>
@@ -297,7 +298,7 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev }) {
               onNext();
             }}
             className="rounded-full bg-white/10 px-4 py-2 text-sm font-bold hover:bg-white/20"
-            aria-label="Próxima imagem"
+            aria-label={copy.nextImage}
           >
             →
           </button>
@@ -314,7 +315,8 @@ function Lightbox({ images, currentIndex, onClose, onNext, onPrev }) {
   );
 }
 
-export default function ReviewInlineImage({ section, reviewTitle }) {
+export default function ReviewInlineImage({ section, reviewTitle, locale = 'pt' }) {
+  const copy = getGalleryCopy(locale);
   const images = normalizeImages(section, reviewTitle);
   const [openIndex, setOpenIndex] = useState(null);
   const lastTriggerRef = useRef(null);
@@ -364,7 +366,7 @@ export default function ReviewInlineImage({ section, reviewTitle }) {
           <div
             ref={trackRef}
             className="hide-scrollbar flex items-start snap-x snap-mandatory gap-4 overflow-x-auto overflow-y-hidden py-1 sm:px-6"
-            aria-label="Carrossel de imagens"
+            aria-label={copy.imageCarousel}
           >
             {images.map((image, index) => (
               <div key={`${image.src}-${index}`} data-inline-card className="w-[78%] max-w-[320px] flex-shrink-0 snap-start">
@@ -373,6 +375,7 @@ export default function ReviewInlineImage({ section, reviewTitle }) {
                   index={index}
                   onOpen={handleOpen}
                   sizes={thumbnailSizes}
+                  copy={copy}
                   normalizeCarousel={normalizeMixedCarousel}
                 />
               </div>
@@ -385,7 +388,7 @@ export default function ReviewInlineImage({ section, reviewTitle }) {
                 type="button"
                 onClick={() => scrollByCard(-1)}
                 className="absolute left-0 top-[38%] z-10 hidden h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:text-[#ff6b35] sm:inline-flex"
-                aria-label="Imagem anterior"
+                aria-label={copy.previousImage}
               >
                 <ChevronLeft size={16} />
               </button>
@@ -393,12 +396,12 @@ export default function ReviewInlineImage({ section, reviewTitle }) {
                 type="button"
                 onClick={() => scrollByCard(1)}
                 className="absolute right-0 top-[38%] z-10 hidden h-9 w-9 -translate-y-1/2 items-center justify-center rounded-full border border-black/10 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:text-[#ff6b35] sm:inline-flex"
-                aria-label="Próxima imagem"
+                aria-label={copy.nextImage}
               >
                 <ChevronRight size={16} />
               </button>
               <p className="mt-2 text-center text-xs text-gray-500 sm:hidden">
-                Arraste para ver mais · {images.length} fotos
+                {copy.swipePhotos(images.length)}
               </p>
             </>
           )}
@@ -412,6 +415,7 @@ export default function ReviewInlineImage({ section, reviewTitle }) {
               index={index}
               onOpen={handleOpen}
               sizes={thumbnailSizes}
+              copy={copy}
             />
           ))}
         </div>
@@ -424,6 +428,7 @@ export default function ReviewInlineImage({ section, reviewTitle }) {
           onClose={handleClose}
           onNext={handleNext}
           onPrev={handlePrev}
+          copy={copy}
         />
       )}
     </>

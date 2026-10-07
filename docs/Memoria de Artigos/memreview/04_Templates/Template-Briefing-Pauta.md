@@ -6,7 +6,7 @@ parceiro: "" # Ex: "[[Dolce-Gusto]]", "[[I-Wanna-Sleep]]", "[[Nestle-Nutre]]", "
 category: "" # guias-praticos-utilidade | produtos-experiencias | cupons-como-usar | confianca-reputacao
 reviewKind: "" # guia | produto | editorial
 type: "" # Ex: "Guia Prático", "Móveis de Luxo", etc.
-status: "pauta-aprovada" # pauta-aprovada | em-redacao | em-revisao | em-conformacao-json | pronto-para-deploy
+status: "pauta-aprovada" # pauta-aprovada | em-redacao | em-revisao | em-conformacao-json | pronto-para-gates | pronto-para-deploy | publicado
 responsavel: "Job-1"
 proxima_acao: "redigir-artigo"
 bloqueado_por: null
@@ -16,10 +16,10 @@ score_ponderado_total: 0 # 0 a 100
 data_criacao: "2026-08-23"
 i18n_cluster: null # ex.: yesstyle | shein; null quando a pauta é somente PT
 translationKey: null # chave do JSON que une versões, ex.: yesstyle-kbeauty
-modo_i18n: "somente-pt" # somente-pt | paridade-completa | liberar-por-conversao
+modo_i18n: "somente-pt" # somente-pt | paridade-completa (YesStyle e SHEIN)
 idioma_fonte: "pt"
-idiomas_alvo: []
-status_i18n: "nao-aplicavel" # nao-aplicavel | estrutura-pt | aguardando-gate | em-localizacao | completo
+idiomas_alvo: [] # paridade-completa: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
+status_i18n: "nao-aplicavel" # nao-aplicavel | em-localizacao | completo
 ---
 
 # Briefing de Pauta: {{titulo_provisorio}}
@@ -34,6 +34,7 @@ status_i18n: "nao-aplicavel" # nao-aplicavel | estrutura-pt | aguardando-gate | 
 - [ ] **4. Anti-Canibalização:** Não divide intenção com `/cupons/<marca>` nem duplica artigo existente.
 - [ ] **5. Classe Canônica Válida:** Enquadrada estritamente em uma das 4 classes de `category`.
 - [ ] **6. Fontes Acessíveis, Exatas & Atuais:** Fontes documentadas com localização precisa.
+- [ ] **7. Decisão i18n Registrada:** `somente-pt` ou `paridade-completa` (YesStyle e SHEIN), com `translationKey` quando a pauta abre uma família.
 
 ---
 
@@ -94,20 +95,19 @@ status_i18n: "nao-aplicavel" # nao-aplicavel | estrutura-pt | aguardando-gate | 
 
 ## 7. Estratégia de Links Contextuais
 - **Afiliado (`affiliate`):**
-- **Cupom:**
-- **Links internos para `/cupons/<marca>` (máx 3):**
-- **CTA comissionado da loja (`rel="sponsored"`):**
+- **Código (`coupon`) e o nome que a loja dá a ele:** *(cupom, código de recompensa ou código de indicação; regras em `00_Sistema/CONTRATOS-DE-CONTEUDO.md`)*
+- **Links internos para a página da loja (máx 3):** `/cupons/<marca>` em PT, `/<locale>/coupons/<marca>` nas traduções
+- **CTA comissionado da loja (`rel="sponsored"`):** *(o link de cada idioma está na seção 3 do `00_Sistema/JOBS/Job-4-Conformacao-JSON.md`)*
 
 ---
 
 ## 8. Decisão Multilíngue (quando aplicável)
 
 - **Cluster editorial (se houver) e `translationKey`:**
-- **URL canônica prevista:** `/reviews/<slug>` (PT) ou `/<locale>/reviews/<slug>`
-- **Modo i18n:** [ ] Paridade completa | [ ] Liberar por conversão | [ ] Somente PT
-- **Justificativa de mercado e idiomas-alvo:**
+- **URLs previstas:** `/reviews/<slug>` em PT e `/<locale>/reviews/<slug>` nas 9 traduções
+- **Modo i18n:** [ ] Paridade completa (10 idiomas) | [ ] Somente PT
+- **Justificativa de mercado:**
 - **Fonte PT será a peça canônica?** [ ] Sim
 - **Fatos universais que podem ser localizados:**
-- **Fatos dependentes de país, entrega, preço, moeda ou campanha:**
-- **Gate para liberar traduções (quando `liberar-por-conversao`):**
+- **Fatos dependentes de país, entrega, preço, moeda ou campanha, e de qual mercado eles são:**
 - **Nota do cluster relacionada:** `[[03_Memoria/Clusters-Multilingues/<Parceiro>]]`

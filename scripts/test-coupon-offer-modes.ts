@@ -2,7 +2,9 @@ import assert from 'node:assert/strict';
 import {
   COUPONS,
   getAllActiveCouponSlugs,
+  getCouponBySlug,
   getCouponHubSections,
+  getStoreCodeKind,
   type AffiliateLinkOffer,
 } from '../src/lib/couponsData';
 
@@ -26,6 +28,21 @@ assert.deepEqual(
 );
 assert.ok(getAllActiveCouponSlugs().includes('shein'), 'SHEIN ativa deve gerar página de cupom');
 assert.ok(!getAllActiveCouponSlugs().includes('kopenhagen'), 'Kopenhagen pausada não deve gerar página');
+
+// O tipo do código nos artigos: o 4CW5Y da SHEIN é de indicação e o CECILIA010 da YesStyle é de recompensa;
+// qualquer outro código, ou um código de outra loja, é cupom comum e fica sem tipo.
+const sheinStore = getCouponBySlug('shein');
+const yesStyleStore = getCouponBySlug('yesstyle');
+const damieStore = getCouponBySlug('damie');
+assert.ok(yesStyleStore?.offerMode === 'discount-code' && damieStore?.offerMode === 'discount-code');
+assert.equal(getStoreCodeKind(sheinStore, '4CW5Y'), 'referral');
+assert.equal(getStoreCodeKind(sheinStore, shein.campaigns?.[0].code), undefined, 'código de campanha da SHEIN não é o de indicação');
+assert.equal(getStoreCodeKind(sheinStore, 'CECILIA010'), undefined, 'código de outra loja na SHEIN');
+assert.equal(getStoreCodeKind(yesStyleStore, yesStyleStore.code), 'reward');
+assert.equal(getStoreCodeKind(damieStore, damieStore.code), undefined, 'cupom comum não tem tipo');
+assert.equal(getStoreCodeKind(damieStore, '4CW5Y'), undefined, 'código de indicação numa loja que não é a SHEIN');
+assert.equal(getStoreCodeKind(undefined, '4CW5Y'), undefined, 'artigo sem loja');
+assert.equal(getStoreCodeKind(sheinStore, undefined), undefined, 'artigo sem código');
 
 const letsEatIt = COUPONS.find((coupon) => coupon.slug === 'letseatit');
 assert.ok(letsEatIt && letsEatIt.offerMode === 'discount-code', "Let's Eat It deve existir como discount-code");

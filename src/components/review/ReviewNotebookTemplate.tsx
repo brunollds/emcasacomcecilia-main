@@ -8,7 +8,7 @@ import { ShareBar } from '@/components/shared/ShareBar';
 import { ReviewGallerySection } from './ReviewGallerySection';
 import { ArticleByline, ChangelogDetails, EditorialAmbientBackground, EditorialReveal, SectionHeadingReveal, SectionLinkButton, EditorialNotePill } from '@/components/editorial';
 import { contentSectionsToPlainText, formatDate, generateSectionIds, type Review, type ReviewViewModel } from '@/lib/content';
-import { getCouponBySlug } from '@/lib/couponsData';
+import { getCouponBySlug, getStoreCodeKind } from '@/lib/couponsData';
 import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 import { ReadingProgressBar } from './ReadingProgressBar';
 import { ReviewContentSections } from './ReviewContentSections';
@@ -16,6 +16,7 @@ import { ReviewHeroImage } from './ReviewHeroImage';
 import { ReviewVerdictCard } from './ReviewVerdictCard';
 import { ReviewSidebar, type ResolvedRelatedArticle } from './ReviewSidebar';
 import { ReviewMobileBottomBar } from './ReviewMobileBottomBar';
+import { getArticleCopy } from './articleCopy';
 import { InlineCouponCopy } from './InlineCouponCopy';
 import { isStepHeading, type CouponCopyLocale } from './couponCopyLocale';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
@@ -41,12 +42,6 @@ export interface ReviewNotebookTemplateProps {
   relatedReviews: Review[];
   relatedArticleLinks: ResolvedRelatedArticle[];
   languageLinks: Partial<Record<Locale, string>>;
-}
-
-function getKindLabel(kind: ReviewViewModel['kind']) {
-  if (kind === 'produto') return 'Review de produto';
-  if (kind === 'guia') return 'Guia';
-  return 'Editorial';
 }
 
 function getBadgeColor(kind: ReviewViewModel['kind']) {
@@ -203,7 +198,9 @@ export function ReviewNotebookTemplate({
   const ui = templateUiLabels[couponCopyLocale] || templateUiLabels.pt;
 
   const { kind, plainTextBody } = viewModel;
-  const kindLabel = getKindLabel(kind);
+  const copy = getArticleCopy(couponCopyLocale);
+  // Um `reviewKind` fora do enum (a Mini Me 2.0 tem "product") sempre caiu no selo de editorial.
+  const kindLabel = copy.kindLabel[kind] ?? copy.kindLabel.editorial;
   const badgeColor = getBadgeColor(kind);
   const speechText = [review.title, review.description, plainTextBody].filter(Boolean).join(' ');
   const readTime = estimateReadTimeMinutes(plainTextBody);
@@ -256,10 +253,12 @@ export function ReviewNotebookTemplate({
   const hasCta = Boolean(effectiveCta?.url && effectiveCta?.label);
   const isPortraitHero = review.imageAspect === 'portrait';
 
-  // Quando o artigo usa o código da loja em /cupons, a gaveta do celular diz, em qualquer idioma,
-  // se ele é de recompensa. Em português ela também repete o desconto e a regra da loja, textos que
-  // só existem nessa língua.
+  // Quando o artigo usa o código da loja em /cupons, o dock e a sidebar dizem, em qualquer idioma,
+  // se ele é de recompensa (CECILIA010) ou de indicação (4CW5Y da SHEIN). Em português a gaveta do
+  // celular também repete o desconto e a regra da loja, textos que só existem nessa língua.
   const store = review.affiliate ? getCouponBySlug(review.affiliate) : undefined;
+  const codeKind = getStoreCodeKind(store, review.coupon);
+  const codeBrand = codeKind ? store?.brand : undefined;
   const sameCodeStore = store?.offerMode === 'discount-code' && store.code === review.coupon ? store : undefined;
   const storeOffer =
     couponCopyLocale === 'pt' && sameCodeStore && !sameCodeStore.tiers?.length
@@ -370,7 +369,7 @@ export function ReviewNotebookTemplate({
                 (s) => s.couponTiers && s.couponTiers.length > 0
               ) && (
               <EditorialReveal delay={0.17}>
-                <InlineCouponCopy coupon={review.coupon} locale={couponCopyLocale} />
+                <InlineCouponCopy coupon={review.coupon} locale={couponCopyLocale} kind={codeKind} brand={codeBrand} />
               </EditorialReveal>
             )}
 
@@ -434,7 +433,7 @@ export function ReviewNotebookTemplate({
               </EditorialReveal>
             )}
 
-            <ReviewHighlightChips review={review} kind={kind} />
+            <ReviewHighlightChips review={review} kind={kind} codeKind={codeKind} codeBrand={codeBrand} />
 
             {/* Hero image */}
             <EditorialReveal as="figure" delay={0.25}>
@@ -451,6 +450,7 @@ export function ReviewNotebookTemplate({
                 rating={typeof review.rating === 'number' ? review.rating : undefined}
                 slug={review.slug}
                 video={review.video}
+                locale={couponCopyLocale}
               />
             </EditorialReveal>
             {videoPageUrl && !youtubeEmbedUrl && (
@@ -458,7 +458,7 @@ export function ReviewNotebookTemplate({
                 href={videoPageUrl}
                 className="mt-4 inline-flex items-center gap-2 text-sm font-bold text-[#ff6b35] hover:text-[#1a4d2e]"
               >
-                <PlayCircle size={17} aria-hidden="true" /> Abrir a página dedicada ao vídeo
+                <PlayCircle size={17} aria-hidden="true" /> {copy.openVideoPage}
               </Link>
             )}
           </header>
@@ -480,18 +480,18 @@ export function ReviewNotebookTemplate({
                   <div className="flex items-start gap-2">
                     <details className="group flex-1 overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft" open>
                       <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-6 py-4 font-editorial text-xl font-bold text-[#1a4d2e] transition-colors hover:bg-[#faf8f3] md:px-8">
-                        <span>Ficha do produto</span>
+                        <span>{copy.productSheet}</span>
                         <span className="text-sm font-sans font-bold uppercase tracking-[0.14em] text-[#ff6b35] group-open:hidden">
-                          Abrir
+                          {copy.productSheetOpen}
                         </span>
                         <span className="hidden text-sm font-sans font-bold uppercase tracking-[0.14em] text-[#ff6b35] group-open:inline">
-                          Fechar
+                          {copy.productSheetClose}
                         </span>
                       </summary>
                       <div className="border-t border-[#1a4d2e]/10 px-6 pb-6 md:px-8 md:pb-8">
                         <div className="mt-5 overflow-hidden rounded-xl border border-[#1a4d2e]/10">
                           <table className="w-full text-sm">
-                            <caption className="sr-only">Ficha técnica do produto avaliado</caption>
+                            <caption className="sr-only">{copy.productSheetCaption}</caption>
                             <tbody>
                               {review.productSpec.map((spec, index) => (
                                 <tr key={index} className={index % 2 === 0 ? 'bg-[#faf8f3]' : 'bg-white'}>
@@ -509,7 +509,7 @@ export function ReviewNotebookTemplate({
                       </div>
                     </details>
                     <div className="pt-4">
-                      <SectionLinkButton anchorId="especificacoes" label="Copiar link da ficha do produto" />
+                      <SectionLinkButton anchorId="especificacoes" label={copy.productSheetLink} />
                     </div>
                   </div>
                 </EditorialReveal>
@@ -528,10 +528,16 @@ export function ReviewNotebookTemplate({
                     reviewSlug={review.slug}
                     coupon={review.coupon}
                     affiliate={review.affiliate}
+                    locale={couponCopyLocale}
                   />
                   {stepSections.length > 0 && (
                     <div className="mt-12">
-                      <GuideTimeline steps={stepSections} sectionIds={sectionIds} reviewTitle={review.title} />
+                      <GuideTimeline
+                        steps={stepSections}
+                        sectionIds={sectionIds}
+                        reviewTitle={review.title}
+                        locale={couponCopyLocale}
+                      />
                     </div>
                   )}
                   {postStepSections.length > 0 && (
@@ -546,6 +552,7 @@ export function ReviewNotebookTemplate({
                         reviewSlug={review.slug}
                         coupon={review.coupon}
                         affiliate={review.affiliate}
+                        locale={couponCopyLocale}
                       />
                     </div>
                   )}
@@ -561,6 +568,7 @@ export function ReviewNotebookTemplate({
                   reviewSlug={review.slug}
                   coupon={review.coupon}
                   affiliate={review.affiliate}
+                  locale={couponCopyLocale}
                 />
               )}
 
@@ -572,7 +580,7 @@ export function ReviewNotebookTemplate({
                     underlineColor="#ff6b35"
                     className="mb-5 font-editorial text-2xl font-bold text-[#1a4d2e]"
                   >
-                    {kind === 'produto' ? 'Veredito da Cecília' : 'Nota editorial'}
+                    {kind === 'produto' ? copy.verdictTitle : copy.editorialNoteTitle}
                   </SectionHeadingReveal>
                   {verdictSection.paragraphs?.map((paragraph, index) => (
                     <p key={index} className="mb-4 font-editorial text-lg leading-8 text-[#24313d] last:mb-0">
@@ -610,7 +618,7 @@ export function ReviewNotebookTemplate({
                     underlineColor="#ff6b35"
                     className="mb-5 font-editorial text-2xl font-bold text-[#1a4d2e]"
                   >
-                    Vídeo relacionado
+                    {copy.relatedVideo}
                   </SectionHeadingReveal>
                   <div className="aspect-video overflow-hidden rounded-xl bg-[#1a4d2e]/5">
                     <iframe
@@ -625,14 +633,14 @@ export function ReviewNotebookTemplate({
                   </div>
                   <p className="mt-3 flex items-center gap-2 text-sm text-[#1a4d2e]/70">
                     <PlayCircle size={16} className="text-[#ff6b35]" />
-                    Assista ao vídeo completo no YouTube
+                    {copy.watchOnYoutube}
                   </p>
                   {videoPageUrl && (
                     <Link
                       href={videoPageUrl}
                       className="mt-3 inline-flex items-center gap-2 text-sm font-bold text-[#ff6b35] hover:text-[#1a4d2e]"
                     >
-                      Abrir a página dedicada ao vídeo <ArrowRight size={16} aria-hidden="true" />
+                      {copy.openVideoPage} <ArrowRight size={16} aria-hidden="true" />
                     </Link>
                   )}
                 </section>
@@ -680,9 +688,9 @@ export function ReviewNotebookTemplate({
                       underlineColor="#ff6b35"
                       className="font-editorial text-2xl font-bold text-[#1a4d2e]"
                     >
-                      Veredito final
+                      {ui.verdictToc}
                     </SectionHeadingReveal>
-                    <SectionLinkButton anchorId="veredito" label="Copiar link do veredito final" />
+                    <SectionLinkButton anchorId="veredito" label={copy.finalVerdictLink} />
                   </div>
                   <div className="space-y-6">
                     <ReviewVerdictCard review={review} kind={kind} />
@@ -696,6 +704,7 @@ export function ReviewNotebookTemplate({
                   url={`https://emcasacomcecilia.com${getReviewCanonicalPathname(review)}`}
                   title={review.title}
                   contentType="review"
+                  locale={couponCopyLocale}
                   imageUrl={
                     reviewImage.startsWith('http')
                       ? reviewImage
@@ -713,6 +722,8 @@ export function ReviewNotebookTemplate({
                 tocItems={tocItems}
                 effectiveCta={effectiveCta}
                 relatedArticleLinks={relatedArticleLinks}
+                codeKind={codeKind}
+                codeBrand={codeBrand}
               />
             </aside>
           </div>
@@ -723,6 +734,7 @@ export function ReviewNotebookTemplate({
               images={review.gallery || []}
               videos={review.youtubeUrl ? [{ url: review.youtubeUrl, title: review.title }] : []}
               title={review.title}
+              locale={couponCopyLocale}
             />
           ) : null}
 
@@ -791,7 +803,7 @@ export function ReviewNotebookTemplate({
         reviewSlug={review.slug}
         tocItems={tocItems}
         affiliate={review.affiliate}
-        coupon={review.coupon ? { code: review.coupon, brand: store?.brand, kind: sameCodeStore?.codeKind, offer: storeOffer } : undefined}
+        coupon={review.coupon ? { code: review.coupon, brand: store?.brand, kind: codeKind, offer: storeOffer } : undefined}
         cta={effectiveCta && hasCta ? { url: effectiveCta.url, label: effectiveCta.label, sponsored: effectiveCta.sponsored } : undefined}
         related={relatedArticleLinks}
       />

@@ -6,9 +6,9 @@ parceiro: "[[DAMIE]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Job-5"
-proxima_acao: "deploy-e-indexnow"
+proxima_acao: "nenhuma"
 bloqueado_por: null
 score_autoridade: 94
 score_conversao: 88

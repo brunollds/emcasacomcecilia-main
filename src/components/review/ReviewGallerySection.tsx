@@ -4,7 +4,10 @@ import Image from 'next/image';
 import { createPortal } from 'react-dom';
 import { useState, useRef, useCallback, useEffect } from 'react';
 import { ChevronLeft, ChevronRight, Maximize2, Play, ImageIcon, X } from 'lucide-react';
+import type { Locale } from '@/lib/i18n/locales';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import { getArticleCopy } from './articleCopy';
+import { getGalleryCopy } from './galleryCopy';
 
 export interface ReviewGalleryImage {
   image?: string;
@@ -26,6 +29,7 @@ export interface ReviewGallerySectionProps {
   images: ReviewGalleryImage[];
   videos?: ReviewGalleryVideo[];
   title?: string;
+  locale?: Locale;
 }
 
 export function normalizeReviewGalleryImages(
@@ -85,14 +89,17 @@ function PhotoLightbox({
   onClose,
   onPrevious,
   onNext,
+  locale,
 }: {
   images: ReviewGalleryImage[];
   active: number;
   onClose: () => void;
   onPrevious: () => void;
   onNext: () => void;
+  locale: Locale;
 }) {
   const current = images[active];
+  const copy = getGalleryCopy(locale);
   const closeButtonRef = useRef<HTMLButtonElement>(null);
 
   useEffect(() => {
@@ -153,7 +160,7 @@ function PhotoLightbox({
         onClick={onClose}
         data-lightbox-control
         className="absolute right-[max(0.75rem,env(safe-area-inset-right))] top-[max(0.75rem,env(safe-area-inset-top))] z-50 flex h-11 w-11 items-center justify-center rounded-full bg-white/95 text-[#0f1419] shadow-lg transition-transform hover:scale-110 active:scale-95"
-        aria-label="Fechar imagem ampliada"
+        aria-label={copy.closeImage}
       >
         <X className="h-6 w-6" />
       </button>
@@ -166,7 +173,7 @@ function PhotoLightbox({
         }}
         data-lightbox-control
         className="absolute left-4 top-1/2 z-50 hidden h-11 w-11 -translate-y-1/2 items-center justify-center rounded-full bg-white/95 text-[#0f1419] shadow-lg transition-transform hover:scale-110 active:scale-95 md:flex"
-        aria-label="Imagem anterior"
+        aria-label={copy.previousImage}
       >
         <ChevronLeft className="h-6 w-6" />
       </button>
@@ -179,7 +186,7 @@ function PhotoLightbox({
         }}
         data-lightbox-control
         className="absolute right-4 top-1/2 z-50 hidden h-11 w-11 -translate-y-1/2 items-center justify-center rounded-full bg-white/95 text-[#0f1419] shadow-lg transition-transform hover:scale-110 active:scale-95 md:flex"
-        aria-label="Próxima imagem"
+        aria-label={copy.nextImage}
       >
         <ChevronRight className="h-6 w-6" />
       </button>
@@ -191,7 +198,7 @@ function PhotoLightbox({
         <div className="relative h-full w-full">
           <Image
             src={resolveMediaUrl(current.image)}
-            alt={current.alt || current.caption || 'Imagem da galeria'}
+            alt={current.alt || current.caption || copy.imageAlt}
             fill
             className="object-contain"
             sizes="100vw"
@@ -214,12 +221,15 @@ function PhotoCarousel({
   images,
   title,
   onOpen,
+  locale,
 }: {
   images: ReviewGalleryImage[];
   title?: string;
   onOpen: (index: number) => void;
+  locale: Locale;
 }) {
   const { trackRef, scrollByCard } = useCarousel();
+  const copy = getGalleryCopy(locale);
 
   return (
     <div className="relative">
@@ -229,7 +239,7 @@ function PhotoCarousel({
       <div
         ref={trackRef}
         className="hide-scrollbar flex snap-x snap-mandatory gap-4 overflow-x-auto overflow-y-hidden py-2 lg:px-6"
-        aria-label="Galeria de fotos"
+        aria-label={copy.photoGallery}
       >
         {images.map((img, index) => {
           const presentation = getReviewGalleryImagePresentation(img);
@@ -242,12 +252,12 @@ function PhotoCarousel({
               className={`group relative w-[260px] flex-shrink-0 snap-start overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-[#f9f9f9] text-left transition-all hover:border-[#ff6b35]/30 hover:shadow-md sm:w-[300px] lg:w-[340px] ${
                 presentation.objectFit === 'contain' ? 'self-start' : ''
               }`}
-              aria-label={`Ampliar imagem ${index + 1}`}
+              aria-label={copy.enlargeImage(index + 1)}
             >
               <div className="relative" style={{ aspectRatio: presentation.aspectRatio }}>
                 <Image
                   src={resolveMediaUrl(img.image)}
-                  alt={img.alt || img.caption || title || 'Foto da galeria'}
+                  alt={img.alt || img.caption || title || copy.photoAlt}
                   fill
                   className={`transition-transform duration-700 ease-out ${
                     presentation.objectFit === 'contain'
@@ -261,7 +271,7 @@ function PhotoCarousel({
                     <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#0f1419]/5 to-[#0f1419]/30" />
                     <span className="absolute bottom-3 right-3 inline-flex items-center gap-1.5 rounded-full bg-black/70 px-3 py-1.5 text-xs font-bold uppercase tracking-[0.12em] text-white opacity-90 transition-opacity group-hover:opacity-100">
                       <Maximize2 className="h-3.5 w-3.5" />
-                      Ampliar
+                      {copy.enlarge}
                     </span>
                   </>
                 )}
@@ -269,7 +279,7 @@ function PhotoCarousel({
               {presentation.objectFit === 'contain' && (
                 <span className="mx-4 mt-3 inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-[0.12em] text-[#24313d]">
                   <Maximize2 className="h-3.5 w-3.5" />
-                  Ampliar
+                  {copy.enlarge}
                 </span>
               )}
               {(img.caption || img.alt) && (
@@ -286,7 +296,7 @@ function PhotoCarousel({
         type="button"
         onClick={() => scrollByCard(-1)}
         className="absolute left-0 top-1/2 z-10 hidden h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full border border-[#1a4d2e]/12 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:border-[#ff6b35]/45 hover:text-[#ff6b35] lg:inline-flex"
-        aria-label="Fotos anteriores"
+        aria-label={copy.previousPhotos}
       >
         <ChevronLeft size={18} />
       </button>
@@ -294,7 +304,7 @@ function PhotoCarousel({
         type="button"
         onClick={() => scrollByCard(1)}
         className="absolute right-0 top-1/2 z-10 hidden h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full border border-[#1a4d2e]/12 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:border-[#ff6b35]/45 hover:text-[#ff6b35] lg:inline-flex"
-        aria-label="Próximas fotos"
+        aria-label={copy.nextPhotos}
       >
         <ChevronRight size={18} />
       </button>
@@ -304,7 +314,7 @@ function PhotoCarousel({
           type="button"
           onClick={() => scrollByCard(-1)}
           className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-[#1a4d2e]/20 text-[#1a4d2e] transition-colors hover:bg-[#1a4d2e] hover:text-white"
-          aria-label="Fotos anteriores"
+          aria-label={copy.previousPhotos}
         >
           <ChevronLeft size={18} />
         </button>
@@ -312,7 +322,7 @@ function PhotoCarousel({
           type="button"
           onClick={() => scrollByCard(1)}
           className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-[#1a4d2e]/20 text-[#1a4d2e] transition-colors hover:bg-[#1a4d2e] hover:text-white"
-          aria-label="Próximas fotos"
+          aria-label={copy.nextPhotos}
         >
           <ChevronRight size={18} />
         </button>
@@ -320,15 +330,17 @@ function PhotoCarousel({
 
       {images.length > 1 && (
         <p className="mt-2 text-center text-xs text-[#24313d]/50 lg:hidden">
-          Arraste para ver mais · {images.length} fotos
+          {copy.swipePhotos(images.length)}
         </p>
       )}
     </div>
   );
 }
 
-function VideoCarousel({ videos }: { videos: ReviewGalleryVideo[] }) {
+function VideoCarousel({ videos, locale }: { videos: ReviewGalleryVideo[]; locale: Locale }) {
   const { trackRef, scrollByCard } = useCarousel();
+  const copy = getGalleryCopy(locale);
+  const fallbackTitle = getArticleCopy(locale).relatedVideo;
 
   return (
     <div className="relative">
@@ -338,12 +350,12 @@ function VideoCarousel({ videos }: { videos: ReviewGalleryVideo[] }) {
       <div
         ref={trackRef}
         className="hide-scrollbar flex snap-x snap-mandatory gap-4 overflow-x-auto overflow-y-hidden py-2 lg:px-6"
-        aria-label="Carrossel de vídeos"
+        aria-label={copy.videoCarousel}
       >
         {videos.map((video) => {
           const url = video.url;
           const thumbnailUrl = video.thumbnailUrl || getYouTubeThumbnail(url);
-          const title = video.title || 'Vídeo relacionado';
+          const title = video.title || fallbackTitle;
 
           return (
             <a
@@ -376,7 +388,7 @@ function VideoCarousel({ videos }: { videos: ReviewGalleryVideo[] }) {
                 </div>
                 <div className="absolute bottom-3 left-3 right-3 flex items-center justify-between">
                   <span className="rounded-full bg-[#ff6b35] px-2.5 py-1 text-[10px] font-bold uppercase tracking-[0.14em] text-white">
-                    Vídeo
+                    {copy.video}
                   </span>
                   <span className="text-[10px] font-semibold uppercase tracking-[0.14em] text-white/80">
                     YouTube
@@ -395,7 +407,7 @@ function VideoCarousel({ videos }: { videos: ReviewGalleryVideo[] }) {
         type="button"
         onClick={() => scrollByCard(-1)}
         className="absolute left-0 top-1/2 z-10 hidden h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full border border-[#1a4d2e]/12 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:border-[#ff6b35]/45 hover:text-[#ff6b35] lg:inline-flex"
-        aria-label="Vídeos anteriores"
+        aria-label={copy.previousVideos}
       >
         <ChevronLeft size={18} />
       </button>
@@ -403,7 +415,7 @@ function VideoCarousel({ videos }: { videos: ReviewGalleryVideo[] }) {
         type="button"
         onClick={() => scrollByCard(1)}
         className="absolute right-0 top-1/2 z-10 hidden h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full border border-[#1a4d2e]/12 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:border-[#ff6b35]/45 hover:text-[#ff6b35] lg:inline-flex"
-        aria-label="Próximos vídeos"
+        aria-label={copy.nextVideos}
       >
         <ChevronRight size={18} />
       </button>
@@ -413,7 +425,7 @@ function VideoCarousel({ videos }: { videos: ReviewGalleryVideo[] }) {
           type="button"
           onClick={() => scrollByCard(-1)}
           className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-[#1a4d2e]/20 text-[#1a4d2e] transition-colors hover:bg-[#1a4d2e] hover:text-white"
-          aria-label="Vídeos anteriores"
+          aria-label={copy.previousVideos}
         >
           <ChevronLeft size={18} />
         </button>
@@ -421,7 +433,7 @@ function VideoCarousel({ videos }: { videos: ReviewGalleryVideo[] }) {
           type="button"
           onClick={() => scrollByCard(1)}
           className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-[#1a4d2e]/20 text-[#1a4d2e] transition-colors hover:bg-[#1a4d2e] hover:text-white"
-          aria-label="Próximos vídeos"
+          aria-label={copy.nextVideos}
         >
           <ChevronRight size={18} />
         </button>
@@ -429,14 +441,15 @@ function VideoCarousel({ videos }: { videos: ReviewGalleryVideo[] }) {
 
       {videos.length > 1 && (
         <p className="mt-2 text-center text-xs text-[#24313d]/50 lg:hidden">
-          Arraste para ver mais · {videos.length} vídeos
+          {copy.swipeVideos(videos.length)}
         </p>
       )}
     </div>
   );
 }
 
-export function ReviewGallerySection({ images, videos = [], title }: ReviewGallerySectionProps): React.ReactElement | null {
+export function ReviewGallerySection({ images, videos = [], title, locale = 'pt' }: ReviewGallerySectionProps): React.ReactElement | null {
+  const copy = getGalleryCopy(locale);
   const normalizedImages = normalizeReviewGalleryImages(images);
   const hasPhotos = normalizedImages.length > 0;
   const hasVideos = videos.length > 0;
@@ -463,8 +476,8 @@ export function ReviewGallerySection({ images, videos = [], title }: ReviewGalle
       <div className="rounded-2xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft md:p-8">
         <div className="mb-6 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
           <div>
-            <p className="text-xs font-bold uppercase tracking-[0.18em] text-[#ff6b35]">Galeria</p>
-            <h2 className="mt-1 font-heading text-2xl font-bold text-[#0f1419]">Fotos e vídeos</h2>
+            <p className="text-xs font-bold uppercase tracking-[0.18em] text-[#ff6b35]">{copy.eyebrow}</p>
+            <h2 className="mt-1 font-heading text-2xl font-bold text-[#0f1419]">{copy.heading}</h2>
           </div>
 
           {hasPhotos && hasVideos && (
@@ -477,7 +490,7 @@ export function ReviewGallerySection({ images, videos = [], title }: ReviewGalle
                 }`}
               >
                 <ImageIcon size={14} />
-                Fotos
+                {copy.tabPhotos}
                 {activeTab === 'photos' && (
                   <span className="absolute bottom-0 left-2 right-2 h-0.5 rounded-full bg-[#ff6b35]" />
                 )}
@@ -490,7 +503,7 @@ export function ReviewGallerySection({ images, videos = [], title }: ReviewGalle
                 }`}
               >
                 <Play size={14} />
-                Vídeos
+                {copy.tabVideos}
                 {activeTab === 'videos' && (
                   <span className="absolute bottom-0 left-2 right-2 h-0.5 rounded-full bg-[#ff6b35]" />
                 )}
@@ -501,10 +514,10 @@ export function ReviewGallerySection({ images, videos = [], title }: ReviewGalle
 
         <div className="min-h-[320px]">
           {activeTab === 'photos' && hasPhotos && (
-            <PhotoCarousel images={normalizedImages} title={title} onOpen={openLightbox} />
+            <PhotoCarousel images={normalizedImages} title={title} onOpen={openLightbox} locale={locale} />
           )}
           {activeTab === 'videos' && hasVideos && (
-            <VideoCarousel videos={videos} />
+            <VideoCarousel videos={videos} locale={locale} />
           )}
         </div>
       </div>
@@ -516,6 +529,7 @@ export function ReviewGallerySection({ images, videos = [], title }: ReviewGalle
           onClose={closeLightbox}
           onPrevious={previousImage}
           onNext={nextImage}
+          locale={locale}
         />
       )}
     </section>

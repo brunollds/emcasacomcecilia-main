@@ -7,6 +7,7 @@ import { DropCapParagraph, EditorialReveal, PretextShrinkwrap, TopTenList } from
 import { COUPON_HIGHLIGHT_TERMS, HighlightCoupon } from './HighlightCoupon';
 import { CopyButton, CouponStoreLink } from '@/components/CouponComponents';
 import type { ContentSection } from '@/lib/content';
+import type { Locale } from '@/lib/i18n/locales';
 import { isCouponPageLink, isInternalLink } from '@/lib/internalLinks';
 import { ReputacaoMetricas, PadroesReclamacao } from './ReputacaoMetricas';
 import { ReviewLoopVideo } from './ReviewLoopVideo';
@@ -20,6 +21,7 @@ export interface ReviewSectionContentProps {
   reviewSlug?: string;
   coupon?: string;
   affiliate?: string;
+  locale?: Locale;
 }
 
 function parseProsConsBullet(item: string): { type: 'pro' | 'con'; text: string } | null {
@@ -69,6 +71,7 @@ export function ReviewSectionContent({
   reviewSlug,
   coupon,
   affiliate,
+  locale = 'pt',
 }: ReviewSectionContentProps): React.ReactElement {
   const showDropCap = isFirst && Boolean(kind);
   const prosConsItems = section.bullets
@@ -123,6 +126,7 @@ export function ReviewSectionContent({
           <ReviewInlineImage
             section={{ image: section.image, imageFit: section.imageFit || 'portrait', imageAlt: section.imageAlt || reviewTitle }}
             reviewTitle={reviewTitle}
+            locale={locale}
           />
         </div>
       )}
@@ -167,7 +171,7 @@ export function ReviewSectionContent({
       {section.emphasis && !section.emphasisAfterParagraph && renderEmphasisBlock(true)}
 
       {(section.image || (section.images && section.images.length > 0)) && (!section.emphasis || section.emphasisAfterParagraph != null) && (
-        <ReviewInlineImage section={section} reviewTitle={reviewTitle} />
+        <ReviewInlineImage section={section} reviewTitle={reviewTitle} locale={locale} />
       )}
 
       {section.comparisonTable && (

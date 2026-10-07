@@ -4,11 +4,13 @@ import { useEffect, useRef, useState } from 'react';
 import { ReviewSectionContent } from './ReviewSectionContent';
 import { SectionHeadingReveal } from '@/components/editorial';
 import type { ContentSection } from '@/lib/content';
+import type { Locale } from '@/lib/i18n/locales';
 
 export interface GuideTimelineProps {
   steps: ContentSection[];
   sectionIds: Map<string, string>;
   reviewTitle: string;
+  locale?: Locale;
 }
 
 function getStepNumber(heading?: string, fallbackIndex: number = 0): string {
@@ -37,7 +39,7 @@ function getStepTitle(heading?: string): string {
     .trim();
 }
 
-export function GuideTimeline({ steps, sectionIds, reviewTitle }: GuideTimelineProps): React.ReactElement | null {
+export function GuideTimeline({ steps, sectionIds, reviewTitle, locale = 'pt' }: GuideTimelineProps): React.ReactElement | null {
   const [activeIndex, setActiveIndex] = useState<number>(0);
   const itemRefs = useRef<(HTMLElement | null)[]>([]);
   const intersectingMap = useRef<Record<number, boolean>>({});
@@ -147,7 +149,7 @@ export function GuideTimeline({ steps, sectionIds, reviewTitle }: GuideTimelineP
                 </SectionHeadingReveal>
               )}
 
-              <ReviewSectionContent section={step} reviewTitle={reviewTitle} />
+              <ReviewSectionContent section={step} reviewTitle={reviewTitle} locale={locale} />
             </section>
           );
         })}

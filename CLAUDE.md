@@ -24,7 +24,7 @@ npm run test:coupon-translations  # lojas em outros idiomas: texto traduzido, c�
 npm run validate:yesstyle    # data/coupons/yesstyle.json; falha com oferta ativa vencida (data em UTC)
 npm run test:analytics-gate  # allowlist de hosts do GA4
 npm run test:html-lang       # depois do build: <html lang> de cada rota
-npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas, SEO das 10 páginas da YesStyle, dock e sidebar dos artigos e textos que citam o CECILIA010
+npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um e textos que citam o CECILIA010
 ```
 
 `npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
@@ -112,6 +112,36 @@ paralelo `editorialClass`. O Aliv Head Gel IWS é guia porque usa fontes públic
 própria declarada; o Cobertor IWS Igloo é produto/experiência porque registra produto recebido,
 vídeo, primeiras impressões e uso noturno.
 
+### Artigos em outros idiomas
+
+- Uma família é o conjunto de JSONs com a mesma `translationKey`, um por idioma, cada um com
+  `locale` explícito. A URL sai sozinha: `/reviews/<slug>` em português e `/<locale>/reviews/<slug>`
+  nos outros idiomas. Não se cria rota, hreflang nem entrada em `src/lib/i18n/clusters/` para isso.
+- `npm run test:review-i18n`, que roda na build, exige as 10 versões de toda família, com o mesmo
+  `affiliate` e o mesmo `coupon`, e o link da página da loja no idioma do artigo: `/cupons/<marca>`
+  em português e `/<locale>/coupons/<marca>` nos outros.
+- Versão fora do PT não leva link da SHEIN Brasil (`br.shein.com` nem os links de oferta e
+  campanha do cupom em PT): o `test:review-i18n` barra, e no artigo da SHEIN o `cta.url` tem de ser
+  o link principal neutro da página da loja (`getLocalizedCoupon('shein', locale).offerUrl`).
+- A interface do artigo que não é conteúdo (selo do tipo, veredito e nota, ficha do produto, bloco de
+  vídeo, galeria, barra de compartilhar) tem o texto nos 10 idiomas em `articleCopy.ts`,
+  `galleryCopy.ts` (ambos em `src/components/review/`) e `shared/shareCopy.ts`; o dock e a sidebar
+  seguem em `sidebarCopy.ts`. Texto novo no artigo vai nesses arquivos, nunca solto no JSX. O
+  `test:review-i18n` barra campo igual ao português (salvo a lista de palavras iguais nas duas
+  línguas) e o `test:build-output` barra texto em português nas páginas fora do PT e confere o
+  veredito da sidebar e o `<head>` (canonical e hreflang dos 10 idiomas, x-default no inglês) de
+  todo artigo de família. O `type` da review e os cards de artigos relacionados são conteúdo e
+  ficam fora dessa conferência: um `type: "Editorial"` num JSON em francês aparece como está.
+- A vitrine em português (`/reviews`, home e busca) só mostra artigos em português, pelo `locale`.
+  As versões em outros idiomas seguem com `hideFromPortugueseListings: true`, que o
+  `validate:content` cobra nas famílias registradas em `clusters/yesstyle.ts`.
+- A seção de FAQ vira o `FAQPage` do schema pelo título, que precisa estar em `isFaqHeading`
+  (`src/lib/review-template-props.js`); o Job 4 do vault traz o título de cada idioma. O
+  `test:review-i18n` confere o formato "pergunta? resposta" de cada item e exige a seção em todas
+  as versões quando a família tem FAQ.
+- O processo editorial (pauta, redação, revisão, JSON e gates) está no vault
+  `docs/Memoria de Artigos/memreview`, a partir de `00_Sistema/AI-PRIMING-INDEX.md`.
+
 ### Component layers
 - `src/components/ui/` — Primitive building blocks (`Card`, `Button`, `Badge`). Use `clsx` for className merging here.
 - `src/components/sections/` — Page sections (`Hero`, `PopularRecipes`, `CouponStrip`, `ReviewsShowcase`, `CTA`…). `Navbar` and `Footer` live in `src/components/`.
@@ -146,6 +176,13 @@ vídeo, primeiras impressões e uso noturno.
   `codeKind: 'reward'` no dock dos artigos, nos 10 idiomas, e o `offerTypeLabel` nos cards e na
   ItemList de `/cupons`. `npm run test:build-output` confere toda página que cita o código,
   inclusive o nome dos cards que o mostram; a faixa da home só existe no navegador e fica de fora.
+- O 4CW5Y da SHEIN é código de indicação da SHEIN Brasil: pesquisa-se no aplicativo, não se cola no
+  checkout, e também não é cupom. `getStoreCodeKind` (`couponsData.ts`) dá o tipo do código de um
+  artigo (`reward`, `referral` ou nenhum); o dock, a sidebar e o resumo dos guias o usam por
+  `getCodeTitle` e `getCodeHints` (`sidebarCopy.ts`) e `inlineReferral` (`couponCopyLocale.ts`),
+  com o termo que a página da loja já usa em cada idioma e, fora do PT, o aviso de que o código é
+  da SHEIN Brasil. O `test:review-i18n` confere os rótulos nos 10 idiomas e o `test:build-output`,
+  em toda página, o tipo no dock e na sidebar.
 
 ### Styling
 Tailwind CSS v4 via `@import "tailwindcss"` in `globals.css`. Custom tokens defined in `@theme inline {}` block — use these instead of arbitrary values:

@@ -7,10 +7,11 @@ import { CouponStoreLink } from '@/components/CouponComponents';
 import { CopyCodeButton, dockCodeSize } from '@/components/coupons/CouponActions';
 import { BrandWatermark, DiscountFigure, couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { acquireScrollLock, releaseScrollLock } from '@/components/editorial';
+import type { CouponCodeKind } from '@/lib/couponsData';
 import { isInternalLink } from '@/lib/internalLinks';
 import type { Locale } from '@/lib/i18n/locales';
 import { getCouponCopyLabels } from './couponCopyLocale';
-import { getSidebarCopy } from './sidebarCopy';
+import { getCodeHints, getCodeTitle, getSidebarCopy } from './sidebarCopy';
 import { useReadingPosition, type TocItem } from './useReadingPosition';
 
 const FOCUS_RING = 'focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-marinho';
@@ -24,8 +25,9 @@ export interface ReviewMobileBottomBarProps {
   coupon?: {
     code: string;
     brand?: string;
-    // Código de recompensa, como o CECILIA010 da YesStyle: o card não o chama de cupom.
-    kind?: 'reward';
+    // Código de recompensa (CECILIA010 da YesStyle) ou de indicação (4CW5Y da SHEIN): o card não o
+    // chama de cupom.
+    kind?: CouponCodeKind;
     // Desconto e regra da loja em /cupons, quando ela usa o mesmo código.
     offer?: { discount: string; note: string; watermark?: string };
   };
@@ -62,7 +64,9 @@ export function ReviewMobileBottomBar({
 
   const copy = getSidebarCopy(locale);
   const couponCopy = getCouponCopyLabels(locale);
-  const couponTitle = coupon?.kind === 'reward' ? copy.rewardCodeLabel(coupon.brand) : copy.couponLabel(coupon?.brand);
+  const couponTitle = getCodeTitle(copy, coupon?.kind, coupon?.brand);
+  // O código de indicação não vale no checkout; o card diz onde pesquisá-lo.
+  const couponHint = coupon?.kind === 'referral' ? getCodeHints(copy, coupon.kind, coupon.brand).copy : undefined;
   const visible = activeIndex >= 0;
   const current = Math.max(activeIndex, 0);
   const total = tocItems.length;
@@ -243,9 +247,14 @@ export function ReviewMobileBottomBar({
                   </div>
                 </>
               ) : (
-                <h3 id={couponTitleId} className="px-3.5 pt-2.5 pb-2 text-[15px] leading-5 font-extrabold">
-                  {couponTitle}
-                </h3>
+                <>
+                  <h3 id={couponTitleId} className="px-3.5 pt-2.5 pb-2 text-[15px] leading-5 font-extrabold">
+                    {couponTitle}
+                  </h3>
+                  {couponHint && (
+                    <p className="-mt-1 px-3.5 pb-2 text-[12.5px] leading-[17px] font-medium text-marinho-suave">{couponHint}</p>
+                  )}
+                </>
               )}
               <div className="relative z-10 flex items-center gap-2.5 border-t-2 border-dashed border-marinho bg-white py-2 pr-2 pl-3.5 has-[[data-copied=true]]:border-solid has-[[data-copied=true]]:border-verde-escuro has-[[data-copied=true]]:bg-verde-claro">
                 <code className="min-w-0 flex-1 font-codigo text-xl leading-7 font-extrabold tracking-[0.04em] break-all text-balance">

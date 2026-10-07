@@ -4,6 +4,7 @@ import { EditorialReveal, SectionHeadingReveal, EditorialNotePill, MarginNoteRai
 import { ReviewSectionContent } from './ReviewSectionContent';
 import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 import type { ContentSection, ReviewKind, EditorialNoteData } from '@/lib/content';
+import type { Locale } from '@/lib/i18n/locales';
 
 export interface ReviewContentSectionsProps {
   sections: ContentSection[];
@@ -15,6 +16,7 @@ export interface ReviewContentSectionsProps {
   reviewSlug?: string;
   coupon?: string;
   affiliate?: string;
+  locale?: Locale;
 }
 
 function getStepNumber(heading?: string): string | null {
@@ -46,6 +48,7 @@ export function ReviewContentSections({
   reviewSlug,
   coupon,
   affiliate,
+  locale = 'pt',
 }: ReviewContentSectionsProps): React.ReactElement | null {
   const visibleSections = sections.filter((section) => !filterHeadings.includes(section.heading || ''));
 
@@ -106,6 +109,7 @@ export function ReviewContentSections({
                 reviewSlug={reviewSlug}
                 coupon={coupon}
                 affiliate={affiliate}
+                locale={locale}
               />
             </MarginNoteRail>
           </EditorialReveal>

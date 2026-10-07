@@ -1,17 +1,24 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
+import { getArticleCopy } from '../src/components/review/articleCopy';
 import { getCouponCopyLabels } from '../src/components/review/couponCopyLocale';
-import { getSidebarCopy } from '../src/components/review/sidebarCopy';
-import { getCouponBySlug } from '../src/lib/couponsData';
+import { getGalleryCopy } from '../src/components/review/galleryCopy';
+import { getCodeHints, getCodeTitle, getSidebarCopy } from '../src/components/review/sidebarCopy';
+import { getShareCopy } from '../src/components/shared/shareCopy';
+import type { Recommendation } from '../src/lib/content';
+import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
+import { getCouponBySlug, getStoreCodeKind } from '../src/lib/couponsData';
 import { getCouponLanguageLinks, getLocalizedCoupon, getTranslatedCouponRoutes } from '../src/lib/couponTranslations';
+import { publishedReviews } from '../src/lib/data';
 import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
 import { LOCALES, LOCALE_KEYS, type Locale } from '../src/lib/i18n/locales';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
-// das lojas traduzidas, as páginas da YesStyle, o dock e a sidebar dos artigos e os textos que citam
-// o CECILIA010. O <html lang> fica com test-c2-html-lang.
+// das lojas traduzidas e dos artigos de cada família, as páginas da YesStyle, o dock, a sidebar e a
+// interface dos artigos no idioma de cada um e os textos que citam o CECILIA010. O <html lang> fica
+// com test-c2-html-lang.
 const SITE_URL = 'https://emcasacomcecilia.com';
 const APP_DIR = path.resolve('.next/server/app');
 const CSS_DIR = path.resolve('.next/static/css');
@@ -48,6 +55,20 @@ function assertLocalizedHead(pagePath: string, head: string, alternates: string[
     `${pagePath}: hreflang`
   );
   assert.equal(head.match(/<meta property="og:locale" content="([^"]+)"/)?.[1], openGraphLocale, `${pagePath}: og:locale`);
+}
+
+// O guarda acima falha no canonical de outra página, no hreflang que falta (inclusive o x-default) e
+// no og:locale de outro idioma, e passa no <head> certo.
+{
+  const page = '/en/reviews/fixture';
+  const alternates = ['en https://emcasacomcecilia.com/en/reviews/fixture', 'pt-BR https://emcasacomcecilia.com/reviews/fixture', 'x-default https://emcasacomcecilia.com/en/reviews/fixture'].sort();
+  const linksOf = (list: string[]) => list.map((item) => item.split(' ')).map(([hreflang, href]) => `<link rel="alternate" hrefLang="${hreflang}" href="${href}"/>`).join('');
+  const headOfFixture = (canonical: string, list: string[], ogLocale: string) =>
+    `<link rel="canonical" href="${canonical}"/>${linksOf(list)}<meta property="og:locale" content="${ogLocale}"/>`;
+  assertLocalizedHead(page, headOfFixture(`${SITE_URL}${page}`, alternates, 'en_US'), alternates, 'en_US');
+  assert.throws(() => assertLocalizedHead(page, headOfFixture(`${SITE_URL}/reviews/fixture`, alternates, 'en_US'), alternates, 'en_US'), /canonical/, 'canonical de outra página passa');
+  assert.throws(() => assertLocalizedHead(page, headOfFixture(`${SITE_URL}${page}`, alternates.slice(0, 2), 'en_US'), alternates, 'en_US'), /hreflang/, 'x-default ausente passa');
+  assert.throws(() => assertLocalizedHead(page, headOfFixture(`${SITE_URL}${page}`, alternates, 'pt_BR'), alternates, 'en_US'), /og:locale/, 'og:locale de outro idioma passa');
 }
 
 const translatedSlugs = [...new Set(getTranslatedCouponRoutes().map((route) => route.slug))];
@@ -225,13 +246,82 @@ function openElementsAt(body: string, index: number) {
   return open;
 }
 
-// Textos da sidebar do desktop em todos os idiomas, menos os do idioma da página.
+// Textos da sidebar do desktop em todos os idiomas, menos os do idioma da página. O código de
+// indicação da SHEIN tem rótulo e dicas próprios.
 const SIDEBAR_TEXT_KEYS = ['sectionsNav', 'tocTitle', 'copyHint', 'copiedHint', 'relatedTitle'] as const;
+function sidebarTexts(locale: Locale) {
+  const copy = getSidebarCopy(locale);
+  const referralHints = getCodeHints(copy, 'referral', 'SHEIN');
+  return [
+    ...SIDEBAR_TEXT_KEYS.map((key) => copy[key]),
+    getCodeTitle(copy, 'referral', 'SHEIN'),
+    referralHints.copy,
+    referralHints.copied,
+  ];
+}
 function foreignSidebarText(locale: Locale) {
-  const own = new Set(SIDEBAR_TEXT_KEYS.map((key) => getSidebarCopy(locale)[key]));
-  return new Set(
-    LOCALE_KEYS.flatMap((other) => SIDEBAR_TEXT_KEYS.map((key) => getSidebarCopy(other)[key])).filter((text) => !own.has(text))
-  );
+  const own = new Set(sidebarTexts(locale));
+  return new Set(LOCALE_KEYS.flatMap(sidebarTexts).filter((text) => !own.has(text)));
+}
+
+const reviewByPathname = new Map(publishedReviews.map((review) => [getReviewCanonicalPathname(review), review]));
+
+// Cada família de tradução: o caminho de cada idioma, para o <head> dos artigos.
+const familyPaths = new Map<string, Partial<Record<Locale, string>>>();
+for (const review of publishedReviews) {
+  if (!review.translationKey) continue;
+  const paths = familyPaths.get(review.translationKey) ?? {};
+  paths[review.locale ?? 'pt'] = getReviewCanonicalPathname(review);
+  familyPaths.set(review.translationKey, paths);
+}
+
+// Textos fixos da interface do artigo num idioma: selo do tipo, veredito, ficha do produto, bloco de
+// vídeo, galeria e barra de compartilhar. Os que dependem de número ou código ficam de fora, menos o
+// "Compartilhar no …" de cada rede.
+const fixedTexts = (copy: object): string[] =>
+  Object.values(copy).flatMap((value) => (typeof value === 'string' ? [value] : value && typeof value === 'object' ? fixedTexts(value) : []));
+const articleUiTexts = (locale: Locale) => [
+  ...fixedTexts(getArticleCopy(locale)),
+  ...fixedTexts(getGalleryCopy(locale)),
+  ...fixedTexts(getShareCopy(locale)),
+  ...['WhatsApp', 'Facebook', 'Telegram', 'X'].map((network) => getShareCopy(locale).shareOn(network)),
+];
+
+// Veredito da sidebar: título, recomendação e a nota que o leitor de tela anuncia.
+const verdictTexts = (locale: Locale, stars: number) => {
+  const copy = getArticleCopy(locale);
+  return [copy.verdictTitle, copy.ratingLabel(stars.toFixed(1)), ...Object.values(copy.recommendation)];
+};
+// O que falta do veredito no idioma do artigo e o que sobrou de outro idioma.
+function verdictProblems(locale: Locale, shown: string[], hasVerdict: boolean, stars: number, recommendation?: Recommendation) {
+  const copy = getArticleCopy(locale);
+  const own = verdictTexts(locale, stars);
+  const expected = hasVerdict ? [copy.verdictTitle, copy.ratingLabel(stars.toFixed(1)), ...(recommendation ? [copy.recommendation[recommendation]] : [])] : [];
+  const foreign = new Set(LOCALE_KEYS.flatMap((other) => verdictTexts(other, stars)).filter((text) => !own.includes(text)));
+  return [
+    ...expected.filter((text) => !shown.includes(text)).map((text) => `falta "${text}"`),
+    ...shown.filter((text) => foreign.has(text)).map((text) => `"${text}" é de outro idioma`),
+  ];
+}
+// O guarda acima falha no veredito em português numa página em inglês, em outro idioma e sem o veredito, e
+// passa no certo.
+{
+  const shownIn = (locale: Locale) => verdictTexts(locale, 4.5).slice(0, 2).concat(getArticleCopy(locale).recommendation.recomendo);
+  assert.deepEqual(verdictProblems('en', shownIn('en'), true, 4.5, 'recomendo'), []);
+  assert.deepEqual(verdictProblems('zh-hant', [], false, 4.5), []);
+  assert.notDeepEqual(verdictProblems('en', shownIn('pt'), true, 4.5, 'recomendo'), []);
+  assert.notDeepEqual(verdictProblems('de', shownIn('en'), true, 4.5, 'recomendo'), []);
+  assert.notDeepEqual(verdictProblems('ja', [], true, 4.5, 'recomendo'), []);
+  assert.notDeepEqual(verdictProblems('es', [...shownIn('es'), getArticleCopy('pt').verdictTitle], true, 4.5, 'recomendo'), []);
+}
+
+// Os cards de artigos relacionados mostram o título, a descrição e o `type` de outra review: é conteúdo
+// dela (o `type` é rótulo livre e vários JSONs de fora do PT trazem "Editorial"), não texto da interface.
+const withoutRelatedCards = (body: string) => body.replace(/<a\b[^>]*min-h-\[220px\][^>]*>[\s\S]*?<\/a>/g, '');
+{
+  const card = (type: string) => `<a class="group relative min-h-[220px] p-4" href="/fr/reviews/x"><p>${type}</p><h3>Titre</h3></a>`;
+  assert.equal(withoutRelatedCards(`<p>Guide</p>${card('Editorial')}<p>Fin</p>`), '<p>Guide</p><p>Fin</p>', 'card relacionado fica na conferência');
+  assert.equal(withoutRelatedCards('<a class="p-4" href="/fr">Editorial</a>'), '<a class="p-4" href="/fr">Editorial</a>', 'link comum some da conferência');
 }
 
 // Todo artigo tem o dock do sumário no celular (ReviewMobileBottomBar) e a sidebar no desktop
@@ -239,6 +329,7 @@ function foreignSidebarText(locale: Locale) {
 // se um dia isso for de propósito, tire-o desta conferência.
 const articleUrls = sitemapUrls.filter((url) => /\/reviews\/[^/]+$/.test(new URL(url).pathname));
 assert.ok(articleUrls.length > 0, 'sitemap.xml sem artigos');
+let familyHeads = 0;
 for (const url of articleUrls) {
   const pagePath = new URL(url).pathname;
   const file = builtFile(url);
@@ -256,6 +347,9 @@ for (const url of articleUrls) {
   // Dentro do fundo editorial, `.editorial-ambient-bg > *` troca o sticky do dock por relative.
   assert.equal(openElementsAt(body, dialogStart), 0, `${pagePath}: a gaveta do sumário não é filha direta do <body>`);
   assert.equal(openElementsAt(body, progressbar), 1, `${pagePath}: o dock do sumário não é filho direto do <body>`);
+
+  const review = reviewByPathname.get(pagePath);
+  assert.ok(review, `${pagePath}: artigo do sitemap sem review publicada`);
 
   const ids = new Set([...body.matchAll(/\sid="([^"]+)"/g)].map(([, id]) => id));
   const targets = [...dialog.matchAll(/href="#([^"]+)"/g)].map(([, id]) => id);
@@ -276,19 +370,72 @@ for (const url of articleUrls) {
   const sidebars = [...body.matchAll(/<aside\b[\s\S]*?<\/aside>/g)].map(([aside]) => aside).filter((aside) => aside.includes('<nav '));
   assert.equal(sidebars.length, 1, `${pagePath}: ${sidebars.length} sidebars em vez de uma`);
   const [sidebar] = sidebars;
-  const sidebarTexts = [
+  const shownTexts = [
     ...[...sidebar.matchAll(/aria-label="([^"]*)"/g)].map(([, label]) => decodeHtml(label)),
     ...sidebar.split(/<[^>]+>/).map((text) => decodeHtml(text).trim()).filter(Boolean),
   ];
+  // O código e o tipo dele (cupom, recompensa ou indicação) saem da review, como no template.
+  // O veredito só existe em artigo de produto com nota; título, recomendação e nota seguem o idioma.
+  // Uma review antiga guarda `rating` como objeto ({ score, max, stars }); a sidebar só mostra nota numérica.
+  const rawStars = review.verdict?.stars ?? review.rating;
+  const verdictStars = typeof rawStars === 'number' ? rawStars : undefined;
+  const hasVerdict = sidebar.includes('role="img"');
+  if (hasVerdict) assert.equal(typeof verdictStars, 'number', `${pagePath}: sidebar com nota, mas a review não tem`);
+  assert.deepEqual(
+    verdictProblems(locale, shownTexts, hasVerdict, verdictStars ?? 0, review.verdict?.recommendation),
+    [],
+    `${pagePath}: veredito da sidebar fora do idioma do artigo`
+  );
+
+  // Fora do PT, nenhum texto fixo da interface do artigo (selo, ficha, vídeo, galeria, compartilhar) sobra em português.
+  if (locale !== 'pt') {
+    const own = new Set(articleUiTexts(locale));
+    const portuguese = new Set(articleUiTexts('pt').filter((text) => !own.has(text)));
+    const ownBody = withoutRelatedCards(body);
+    const pageTexts = [
+      ...[...ownBody.matchAll(/aria-label="([^"]*)"/g)].map(([, label]) => decodeHtml(label)),
+      ...ownBody.split(/<[^>]+>/).map((text) => decodeHtml(text).trim()),
+    ];
+    // O `type` da própria review, rótulo livre do conteúdo, aparece uma vez no cabeçalho.
+    const typeAt = pageTexts.indexOf(review.type);
+    if (typeAt >= 0) pageTexts.splice(typeAt, 1);
+    assert.deepEqual([...new Set(pageTexts.filter((text) => portuguese.has(text)))], [], `${pagePath}: interface do artigo em português`);
+  }
+
+  // O <head> de um artigo de família: canonical da própria página e hreflang dos 10 idiomas, com x-default no inglês.
+  if (review.translationKey) {
+    const family = familyPaths.get(review.translationKey) ?? {};
+    assert.deepEqual(LOCALE_KEYS.filter((key) => !family[key]), [], `${pagePath}: família ${review.translationKey} sem todos os idiomas`);
+    const alternates = [
+      ...LOCALE_KEYS.map((key) => `${LOCALES[key].hreflang} ${SITE_URL}${family[key]}`),
+      `x-default ${SITE_URL}${family.en}`,
+    ].sort();
+    assertLocalizedHead(pagePath, headOf(html), alternates, LOCALES[locale].openGraphLocale);
+    familyHeads++;
+  }
+
   const code = sidebar.match(/data-copied="false"[^>]*>([^<]+)</)?.[1];
+  assert.equal(code, review.coupon, `${pagePath}: código da sidebar diferente do da review`);
+  const store = review.affiliate ? getCouponBySlug(review.affiliate) : undefined;
+  const codeKind = getStoreCodeKind(store, review.coupon);
+  const hints = getCodeHints(copy, codeKind, store?.brand);
   const expectedTexts = [
     copy.sectionsNav,
     copy.tocTitle,
-    ...(code ? [getCouponCopyLabels(locale).copyCoupon(code), copy.copyHint, copy.copiedHint] : []),
+    ...(code ? [getCouponCopyLabels(locale).copyCoupon(code), hints.copy, hints.copied] : []),
+    ...(codeKind === 'referral' ? [getCodeTitle(copy, codeKind, store?.brand)] : []),
   ];
-  assert.deepEqual(expectedTexts.filter((text) => !sidebarTexts.includes(text)), [], `${pagePath}: sidebar sem os textos do idioma`);
+  assert.deepEqual(expectedTexts.filter((text) => !shownTexts.includes(text)), [], `${pagePath}: sidebar sem os textos do idioma`);
   const foreign = foreignSidebarText(locale);
-  assert.deepEqual(sidebarTexts.filter((text) => foreign.has(text)), [], `${pagePath}: sidebar com texto de outro idioma`);
+  assert.deepEqual(shownTexts.filter((text) => foreign.has(text)), [], `${pagePath}: sidebar com texto de outro idioma`);
+  // A gaveta do celular dá ao código o mesmo tipo.
+  if (code) {
+    const drawerTitle = getCodeTitle(copy, codeKind, store?.brand);
+    assert.ok(
+      dialog.split(/<[^>]+>/).some((text) => decodeHtml(text).trim() === drawerTitle),
+      `${pagePath}: gaveta sem o título "${drawerTitle}" no card do código`
+    );
+  }
 }
 
 // Toda página que cita o CECILIA010 segue a regra: as 10 da YesStyle, os artigos, /cupons e as lojas
@@ -365,5 +512,5 @@ assert.ok(yesStyleListItem?.name.includes(rewardCode), `/cupons: YesStyle fora d
 assert.doesNotMatch(yesStyleListItem.name, COUPON_WORD, `/cupons: a ItemList chama o ${rewardCode} de cupom`);
 
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock e a sidebar de ${articleUrls.length} artigos e o ${rewardCode} em ${rewardCodePages} páginas conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar e a interface de ${articleUrls.length} artigos, o <head> de ${familyHeads} artigos de família e o ${rewardCode} em ${rewardCodePages} páginas conferidos.`
 );

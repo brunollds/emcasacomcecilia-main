@@ -12,6 +12,10 @@ export interface CouponHistory {
   note?: string;
 }
 
+// Código que não é cupom comum: o de recompensa (CECILIA010) vai num campo próprio do checkout e o
+// de indicação (4CW5Y da SHEIN) é pesquisado no aplicativo da loja.
+export type CouponCodeKind = 'reward' | 'referral';
+
 export interface CouponReferral {
   code: string;
   label: string;
@@ -1096,6 +1100,15 @@ export function getCouponStripItems(): CouponStripItem[] {
 
 export function getCouponBySlug(slug: string): Coupon | undefined {
   return COUPONS.find((coupon) => coupon.slug === slug && coupon.status === 'ativo');
+}
+
+// O tipo do código que um artigo mostra quando ele é o da loja em /cupons: o de recompensa da
+// loja (YesStyle), o de indicação (SHEIN) ou nenhum, que é cupom comum. Outro código, ou outra
+// loja, também não tem tipo.
+export function getStoreCodeKind(store: Coupon | undefined, code: string | undefined): CouponCodeKind | undefined {
+  if (!store || !code) return undefined;
+  if (store.offerMode === 'discount-code') return store.code === code ? store.codeKind : undefined;
+  return store.referral?.code === code ? 'referral' : undefined;
 }
 
 export function getOtherActiveCoupons(currentSlug: string): Coupon[] {

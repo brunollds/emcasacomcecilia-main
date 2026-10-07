@@ -33,6 +33,8 @@ assert.equal(isListedInPortuguese({}), true);
 assert.equal(isListedInPortuguese({ draft: true }), false);
 assert.equal(isListedInPortuguese({ hideFromListings: true }), false);
 assert.equal(isListedInPortuguese({ hideFromPortugueseListings: true }), false);
+assert.equal(isListedInPortuguese({ locale: 'pt' }), true);
+assert.equal(isListedInPortuguese({ locale: 'en' }), false, 'versão em inglês fica fora da vitrine PT mesmo sem a flag');
 
 const listed = getListedPortugueseReviews(reviews);
 assert.ok(listed.length > 0, 'vitrine PT não pode estar vazia');

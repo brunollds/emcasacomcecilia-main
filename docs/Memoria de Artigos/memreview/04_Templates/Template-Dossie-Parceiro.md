@@ -1,20 +1,23 @@
 ---
 parceiro: ""
 slug_cupom: "" # Slug em src/lib/couponsData.ts
-codigo_cupom: ""
+fonte_dados_comerciais: "src/lib/couponsData.ts" # ou o arquivo próprio da loja, como data/coupons/yesstyle.json
 status_parceria: "ativo" # ativo | pausado
-revisao_geral_ate: "2026-09-01"
+revisao_geral_ate: "" # YYYY-MM-DD: até quando o dossiê vale sem revisão geral
 ---
 
 # Dossiê Factual: {{parceiro}}
 
 ---
 
-## 1. Dados Comerciais & Cupons (Voláteis)
+## 1. Dados Comerciais & Códigos (Voláteis)
+
+Chamar o código pelo nome que a loja dá a ele (cupom, código de recompensa, código de
+indicação); as regras estão em `00_Sistema/CONTRATOS-DE-CONTEUDO.md`.
 
 | Fato / Condição Comercial | Tipo | Fonte | Consultado Em | Rever Até | Escopo / Regras | Confiança |
 |---|---|---|---|---|---|---|
-| Cupom `{{codigo_cupom}}` dá X% | condicao_comercial_volatil | Loja oficial | YYYY-MM-DD | YYYY-MM-DD | Válido em itens selecionados | Alta |
+| Cupom `CODIGO` dá X% | condicao_comercial_volatil | Loja oficial | YYYY-MM-DD | YYYY-MM-DD | Válido em itens selecionados | Alta |
 
 ---
 
@@ -49,7 +52,8 @@ revisao_geral_ate: "2026-09-01"
 ## 6. Perfil Multilíngue (quando aplicável)
 
 - **Nota operacional do cluster:** `[[03_Memoria/Clusters-Multilingues/<Parceiro>]]`
-- **Modo:** `paridade-completa` | `liberar-por-conversao` | `somente-pt`
-- **Idiomas / mercados autorizados:**
-- **Regra de publicação:**
-- **Fonte técnica de rotas, hreflang e validação:** `docs/<handoff-ou-plano>.md`
+- **Modo:** `paridade-completa` (todo artigo sai nos 10 idiomas) | `somente-pt`
+- **Mercado dos fatos comerciais:** *(ex.: preço em reais na loja brasileira; as traduções dizem de qual mercado é o fato, sem converter)*
+- **Link do CTA em cada idioma:**
+- **Contrato do JSON da família:** seção 3 do `00_Sistema/JOBS/Job-4-Conformacao-JSON.md`
+- **Fonte técnica das páginas da loja nos idiomas:** `docs/<handoff-ou-plano>.md`

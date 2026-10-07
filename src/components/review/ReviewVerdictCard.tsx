@@ -2,7 +2,9 @@
 
 import { CheckCircle2, Star, XCircle } from 'lucide-react';
 import { EditorialReveal } from '@/components/editorial';
+import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import type { Review, ReviewKind } from '@/lib/content';
+import { getArticleCopy } from './articleCopy';
 
 export interface ReviewVerdictCardProps {
   review: Review;
@@ -11,9 +13,11 @@ export interface ReviewVerdictCardProps {
 
 function StarRating({
   rating,
+  label,
   interactive = false,
 }: {
   rating: number;
+  label: string;
   interactive?: boolean;
 }): React.ReactElement {
   const fullStars = Math.floor(rating);
@@ -22,7 +26,7 @@ function StarRating({
   return (
     <div
       className="flex items-center gap-1"
-      aria-label={`Avaliação ${rating.toFixed(1)} de 5 estrelas`}
+      aria-label={label}
       role="img"
     >
       {Array.from({ length: 5 }).map((_, index) => {
@@ -56,10 +60,19 @@ export function ReviewVerdictCard({
     return null;
   }
 
+  const locale = resolveReviewLocale(review.locale);
+  const copy = getArticleCopy(locale);
   const hasVerdict = Boolean(review.verdict?.stars);
   const hasRating = typeof review.rating === 'number';
   const stars = review.verdict?.stars ?? review.rating ?? 0;
   const summary = review.verdict?.summary || review.description;
+  // Em português o card sempre mostrou o valor do JSON como está ("com ressalvas" em minúsculas).
+  const recommendation = review.verdict?.recommendation;
+  const recommendationLabel = !recommendation
+    ? copy.rated
+    : locale === 'pt' && recommendation !== 'recomendo'
+      ? recommendation
+      : copy.recommendation[recommendation];
   const showSeal = review.verdict?.recommendation === 'recomendo' || (!review.verdict && hasRating && stars >= 4);
 
   if (!hasVerdict && !hasRating && review.pros.length === 0 && review.cons.length === 0) {
@@ -83,28 +96,26 @@ export function ReviewVerdictCard({
           {showSeal && (
             <div className="absolute right-3 top-3 z-10 max-w-[150px] rotate-[-6deg] text-center print:hidden sm:right-4 sm:top-4 sm:max-w-none">
               <span className="inline-block rounded-full border-2 border-[#ff6b35]/30 bg-[#fff8f0] px-3 py-1.5 font-hand-title text-xs font-bold leading-tight text-[#d94b21] shadow-sm sm:px-4 sm:py-2 sm:text-sm">
-                Aprovado pela Cecília
+                {copy.approvedSeal}
               </span>
             </div>
           )}
 
           <div className="grid md:grid-cols-[190px_1fr]">
             <div className="flex flex-col justify-center bg-[#1a4d2e] p-6 text-white">
-              <StarRating rating={stars} interactive />
+              <StarRating rating={stars} label={copy.ratingLabel(stars.toFixed(1))} interactive />
               <p className="mt-3 text-[11px] font-bold uppercase tracking-[0.16em] text-white/65">
-                Nota da Cecília
+                {copy.scoreTitle}
               </p>
               <span className="mt-3 w-fit rounded-md bg-white/10 px-3 py-1.5 text-xs font-bold text-white">
-                {review.verdict?.recommendation === 'recomendo'
-                  ? '✓ Recomendo'
-                  : review.verdict?.recommendation || 'Avaliado'}
+                {recommendationLabel}
               </span>
             </div>
 
             <div className="p-6 md:p-8">
               <div className="mb-3 flex items-center gap-2">
                 <p className="text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/55">
-                  Veredito
+                  {copy.verdictHeading}
                 </p>
               </div>
               <p className="font-editorial text-lg italic leading-relaxed text-[#24313d]">
@@ -125,7 +136,7 @@ export function ReviewVerdictCard({
           <div className="grid gap-0 md:hidden">
             <div className="border-b border-[#1a4d2e]/10 bg-[#eef7f1] px-5 py-4 text-xs font-bold uppercase tracking-[0.14em] text-[#1a4d2e]">
               <CheckCircle2 className="mb-1 h-4 w-4" />
-              Pontos fortes
+              {copy.strengths}
             </div>
             <div className="divide-y divide-[#1a4d2e]/10">
               {prosItems.map((item, itemIndex) => (
@@ -141,7 +152,7 @@ export function ReviewVerdictCard({
             </div>
             <div className="border-y border-[#ff6b35]/15 bg-[#fff3ee] px-5 py-4 text-xs font-bold uppercase tracking-[0.14em] text-[#d94b21]">
               <XCircle className="mb-1 h-4 w-4" />
-              Pontos de atenção
+              {copy.cautions}
             </div>
             <div className="divide-y divide-[#ff6b35]/10 bg-[#fffaf7]">
               {consItems.map((item, itemIndex) => (
@@ -160,10 +171,10 @@ export function ReviewVerdictCard({
           <div className="hidden md:block">
             <div className="grid grid-cols-2">
               <div className="border-b border-r border-[#1a4d2e]/10 bg-[#eef7f1] px-5 py-4 text-xs font-bold uppercase tracking-[0.14em] text-[#1a4d2e]">
-                <CheckCircle2 className="mb-1 inline h-4 w-4" /> Pontos fortes
+                <CheckCircle2 className="mb-1 inline h-4 w-4" /> {copy.strengths}
               </div>
               <div className="border-b border-[#ff6b35]/15 bg-[#fff3ee] px-5 py-4 text-xs font-bold uppercase tracking-[0.14em] text-[#d94b21]">
-                <XCircle className="mb-1 inline h-4 w-4" /> Pontos de atenção
+                <XCircle className="mb-1 inline h-4 w-4" /> {copy.cautions}
               </div>
             </div>
             <div className="divide-y divide-[#1a4d2e]/10">

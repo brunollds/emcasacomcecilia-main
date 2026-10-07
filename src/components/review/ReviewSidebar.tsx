@@ -5,9 +5,11 @@ import Link from 'next/link';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { CopyCodeButton } from '@/components/coupons/CouponActions';
 import { resolveReviewLocale } from '@/lib/content/review-i18n';
+import type { CouponCodeKind } from '@/lib/couponsData';
 import type { Locale } from '@/lib/i18n/locales';
+import { getArticleCopy } from './articleCopy';
 import { getCouponCopyLabels } from './couponCopyLocale';
-import { getSidebarCopy } from './sidebarCopy';
+import { getCodeHints, getCodeTitle, getSidebarCopy } from './sidebarCopy';
 import { useReadingPosition, type TocItem } from './useReadingPosition';
 import type { Review, ReviewKind } from '@/lib/content';
 
@@ -17,16 +19,19 @@ interface ReviewSidebarProps {
   tocItems: TocItem[];
   effectiveCta?: { url: string; label: string; text?: string; sponsored?: boolean } | null;
   relatedArticleLinks?: ResolvedRelatedArticle[];
+  // Tipo e loja do código do artigo, quando ele é o da loja em /cupons.
+  codeKind?: CouponCodeKind;
+  codeBrand?: string;
 }
 
 export type ResolvedRelatedArticle = NonNullable<Review['relatedArticles']>[number] & { href: string };
 
-function StarRating({ rating }: { rating: number }): React.ReactElement {
+function StarRating({ rating, label }: { rating: number; label: string }): React.ReactElement {
   const fullStars = Math.floor(rating);
   const hasHalf = rating % 1 >= 0.5;
 
   return (
-    <div className="flex items-center gap-0.5" aria-label={`Avaliação ${rating.toFixed(1)} de 5 estrelas`} role="img">
+    <div className="flex items-center gap-0.5" aria-label={label} role="img">
       {Array.from({ length: 5 }).map((_, index) => {
         const starNum = index + 1;
         const isFilled = starNum <= fullStars;
@@ -50,22 +55,32 @@ function SidebarConversionCards({
   reviewSlug,
   affiliate,
   locale,
+  codeKind,
+  codeBrand,
 }: {
   coupon?: string;
   effectiveCta?: { url: string; label: string; text?: string; sponsored?: boolean } | null;
   reviewSlug: string;
   affiliate?: string;
   locale: Locale;
+  codeKind?: CouponCodeKind;
+  codeBrand?: string;
 }): React.ReactElement | null {
   if (!coupon && !effectiveCta?.url) return null;
 
   const copy = getSidebarCopy(locale);
+  const hints = getCodeHints(copy, codeKind, codeBrand);
 
   return (
     <div className="space-y-3">
       {/* A frase de baixo troca junto com o botão, que marca a cópia em data-copied. */}
       {coupon && (
         <div className="group/codigo space-y-2">
+          {codeKind === 'referral' && (
+            <p className="text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">
+              {getCodeTitle(copy, codeKind, codeBrand)}
+            </p>
+          )}
           <CopyCodeButton
             code={coupon}
             brand={affiliate}
@@ -85,8 +100,8 @@ function SidebarConversionCards({
             <Copy size={18} />
           </CopyCodeButton>
           <p className="text-xs leading-relaxed text-[#4a5568]">
-            <span className="group-has-[[data-copied=true]]/codigo:hidden">{copy.copyHint}</span>
-            <span className="hidden group-has-[[data-copied=true]]/codigo:inline">{copy.copiedHint}</span>
+            <span className="group-has-[[data-copied=true]]/codigo:hidden">{hints.copy}</span>
+            <span className="hidden group-has-[[data-copied=true]]/codigo:inline">{hints.copied}</span>
           </p>
         </div>
       )}
@@ -116,6 +131,8 @@ export function ReviewSidebar({
   tocItems,
   effectiveCta,
   relatedArticleLinks = [],
+  codeKind,
+  codeBrand,
 }: ReviewSidebarProps): React.ReactElement | null {
   // Unified order for all kinds
   const stars = kind === 'produto' ? review.verdict?.stars ?? review.rating : undefined;
@@ -126,6 +143,7 @@ export function ReviewSidebar({
   const { activeIndex } = useReadingPosition(tocItems.map((item) => item.id));
   const locale = resolveReviewLocale(review.locale);
   const copy = getSidebarCopy(locale);
+  const article = getArticleCopy(locale);
 
   if (typeof stars !== 'number' && !hasConversionContent && !hasToc && !hasRelated) {
     return null;
@@ -167,20 +185,22 @@ export function ReviewSidebar({
           reviewSlug={review.slug}
           affiliate={review.affiliate}
           locale={locale}
+          codeKind={codeKind}
+          codeBrand={codeBrand}
         />
       )}
 
       {/* 3. Verdict card (only produto with stars) */}
       {typeof stars === 'number' && (
         <div className="rounded-xl border border-[#1a4d2e]/10 bg-white p-5 shadow-soft">
-          <p className="mb-2 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">Veredito da Cecília</p>
+          <p className="mb-2 text-[11px] font-bold uppercase tracking-[0.16em] text-[#1a4d2e]/60">{article.verdictTitle}</p>
           <div className="mb-2 flex items-center gap-2">
-            <StarRating rating={stars} />
+            <StarRating rating={stars} label={article.ratingLabel(stars.toFixed(1))} />
             <span className="text-sm font-bold text-[#1a4d2e]">{stars.toFixed(1)}</span>
           </div>
           {recommendation && (
             <p className="text-sm font-bold text-[#1a4d2e]">
-              {recommendation === 'recomendo' ? '✓ Recomendo' : recommendation === 'com ressalvas' ? 'Com ressalvas' : 'Não recomendo'}
+              {article.recommendation[recommendation]}
             </p>
           )}
         </div>
