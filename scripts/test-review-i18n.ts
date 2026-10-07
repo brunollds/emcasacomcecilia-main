@@ -18,6 +18,7 @@ interface ReviewSource {
   slug: string;
   translationKey?: string;
   locale?: string;
+  type?: string;
   affiliate?: string;
   coupon?: string;
   cta?: { url?: string };
@@ -142,6 +143,41 @@ const SAME_AS_PORTUGUESE: Partial<Record<Locale, string[]>> = {
   ],
   de: ['gallery.tabPhotos'],
 };
+
+// O `type` é o rótulo público do tipo de artigo (selo do cabeçalho, cards da vitrine e dos
+// relacionados) e sai no idioma da versão. Igual ao do PT só nas palavras que são as mesmas nas
+// duas línguas; em japonês, coreano e chinês, nunca só em letras latinas, que foi como quatro
+// "Guide & Coupons" passaram por traduzidos.
+const TYPE_SAME_AS_PORTUGUESE: Partial<Record<Locale, string[]>> = {
+  en: ['Editorial'],
+  es: ['Editorial'],
+};
+const TYPE_SCRIPT: Partial<Record<Locale, RegExp>> = {
+  ja: /[\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Han}]/u,
+  ko: /\p{Script=Hangul}/u,
+  'zh-hans': /\p{Script=Han}/u,
+  'zh-hant': /\p{Script=Han}/u,
+};
+
+function typeProblems(review: ReviewSource, portugueseType: string | undefined): string[] {
+  const locale = resolveReviewLocale(review.locale);
+  if (locale === 'pt') return [];
+  if (!review.type) return ['type ausente'];
+  const problems: string[] = [];
+  if (review.type === portugueseType && !TYPE_SAME_AS_PORTUGUESE[locale]?.includes(review.type)) {
+    problems.push(`type igual ao português: "${review.type}"`);
+  }
+  if (TYPE_SCRIPT[locale] && !TYPE_SCRIPT[locale].test(review.type)) {
+    problems.push(`type sem a escrita do idioma: "${review.type}"`);
+  }
+  return problems;
+}
+
+// A lista de exceções precisa bater, para uma exceção que deixou de valer não ficar esquecida.
+const unusedTypeExceptions = (used: Set<string>) =>
+  Object.entries(TYPE_SAME_AS_PORTUGUESE)
+    .flatMap(([locale, types]) => types.map((type) => `${locale}: ${type}`))
+    .filter((entry) => !used.has(entry));
 
 const storeReferralLabel = (locale: Locale) =>
   (isTranslatedLocale(locale) ? getLocalizedCoupon('shein', locale)?.referral : sheinStore.referral)?.label ?? '';
@@ -285,6 +321,7 @@ const storeReferralLabel = (locale: Locale) =>
 
   // Toda família sai em todos os idiomas do site, com a mesma loja e o mesmo código em todas as
   // versões. Antes só as 4 primeiras famílias da YesStyle eram conferidas, numa lista fixa.
+  const usedTypeExceptions = new Set<string>();
   for (const [key, translationGroup] of Object.entries(translatedGroups)) {
     for (const locale of LOCALE_KEYS) {
       assert.equal(
@@ -303,7 +340,26 @@ const storeReferralLabel = (locale: Locale) =>
       withoutFaq.length === 0 || withoutFaq.length === family.length,
       `${key}: seção de FAQ não reconhecida em ${withoutFaq.map((review) => review.locale).join(', ')}`
     );
+    const portugueseType = family.find((review) => resolveReviewLocale(review.locale) === 'pt')?.type;
+    for (const review of family) {
+      assert.deepEqual(typeProblems(review, portugueseType), [], `${review.slug}: type fora do idioma do artigo`);
+      if (resolveReviewLocale(review.locale) !== 'pt' && review.type === portugueseType) usedTypeExceptions.add(`${review.locale}: ${review.type}`);
+    }
   }
+  assert.deepEqual(unusedTypeExceptions(usedTypeExceptions), [], 'exceção de type igual ao português que não vale mais');
+
+  // O guarda do type, provado em versões que falham e que passam.
+  assert.deepEqual(typeProblems({ slug: 'f', locale: 'es', type: 'Guia & Cupons' }, 'Guia & Cupons'), ['type igual ao português: "Guia & Cupons"']);
+  assert.equal(typeProblems({ slug: 'f', locale: 'fr', type: 'Editorial' }, 'Editorial').length, 1, '"Editorial" em francês falha (é "Éditorial")');
+  assert.deepEqual(typeProblems({ slug: 'f', locale: 'ja', type: 'Guide & Coupons' }, 'Guia & Cupons'), ['type sem a escrita do idioma: "Guide & Coupons"']);
+  assert.equal(typeProblems({ slug: 'f', locale: 'zh-hant', type: 'Editorial' }, 'Editorial').length, 2, 'em chinês, "Editorial" falha nas duas regras');
+  assert.equal(typeProblems({ slug: 'f', locale: 'ko', type: 'Guide' }, 'Guia').length, 1, 'em coreano, rótulo em inglês falha');
+  assert.deepEqual(typeProblems({ slug: 'f', locale: 'de' }, 'Guia'), ['type ausente']);
+  assert.deepEqual(typeProblems({ slug: 'f', locale: 'en', type: 'Editorial' }, 'Editorial'), [], '"Editorial" em inglês passa');
+  assert.deepEqual(typeProblems({ slug: 'f', locale: 'ja', type: 'ガイド＆クーポン' }, 'Guia & Cupons'), [], 'japonês passa');
+  assert.deepEqual(typeProblems({ slug: 'f', locale: 'ko', type: '가이드 & 쿠폰' }, 'Guia & Cupons'), [], 'coreano passa');
+  assert.deepEqual(typeProblems({ slug: 'f', type: 'Guia & Cupons' }, 'Guia & Cupons'), [], 'a versão em português não é conferida');
+  assert.deepEqual(unusedTypeExceptions(new Set(['en: Editorial'])), ['es: Editorial'], 'exceção sem uso aparece');
 
   // O link da página da loja segue o idioma do artigo: /cupons/<marca> em português e
   // /<locale>/coupons/<marca> nos outros idiomas, que não têm hub de cupons.
@@ -421,7 +477,7 @@ const storeReferralLabel = (locale: Locale) =>
   assert.equal(formatDate('2026-02-30', 'en'), '2026-02-30', 'data impossível volta crua');
 
   console.log(
-    `✅ test-review-i18n: ${translatedReviews.length} versões traduzidas em ${Object.keys(translatedGroups).length} famílias, todas com os ${LOCALE_KEYS.length} idiomas; sem link da SHEIN Brasil fora do PT; códigos de recompensa e de indicação rotulados; interface do artigo sem português`
+    `✅ test-review-i18n: ${translatedReviews.length} versões traduzidas em ${Object.keys(translatedGroups).length} famílias, todas com os ${LOCALE_KEYS.length} idiomas e o type de cada uma no idioma dela; sem link da SHEIN Brasil fora do PT; códigos de recompensa e de indicação rotulados; interface do artigo sem português`
   );
 
 })();
