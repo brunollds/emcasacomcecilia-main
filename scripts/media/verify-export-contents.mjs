@@ -2,11 +2,13 @@ import assert from 'node:assert/strict';
 import { execFileSync } from 'node:child_process';
 import { readFileSync, statSync } from 'node:fs';
 import { createHash } from 'node:crypto';
+import path from 'node:path';
 
 const archive = process.argv[2];
 assert.ok(archive, 'Pass the rehearsal tar.gz path');
 const map = JSON.parse(readFileSync('src/lib/generated/media-delivery-map.json', 'utf8'));
-const entries = new Set(execFileSync('tar', ['-tzf', archive], { encoding: 'utf8', maxBuffer: 16 * 1024 * 1024 }).trim().split(/\r?\n/));
+// Relative name with cwd: Git Bash's GNU tar parses a `C:\...` -f argument as host:path.
+const entries = new Set(execFileSync('tar', ['-tzf', path.basename(archive)], { cwd: path.dirname(archive), encoding: 'utf8', maxBuffer: 16 * 1024 * 1024 }).trim().split(/\r?\n/));
 for (const local of Object.keys(map)) assert.ok(!entries.has(`public${local}`), `Mapped media still packaged: ${local}`);
 const sources = execFileSync('git', ['ls-files', '-z', '--', 'public'], { encoding: 'utf8' }).split('\0').filter(Boolean);
 let retained = 0;

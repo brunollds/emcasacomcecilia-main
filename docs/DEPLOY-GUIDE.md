@@ -140,9 +140,11 @@ mostra o delta completo entre o SHA atestado em produção e o candidato, incorp
 `release-meta.json` e aplica a mesma política de 47/49 MB sobre o archive final exato. Não substituir erro por
 aviso e não montar pacote manualmente.
 
-Rodar o `deploy:prepare` num clone limpo da `main` e pelo PowerShell. No Git Bash o `tar` do Git
-lê `C:\...` como `host:caminho` e o passo 4 (archive) falha com `Cannot connect to C: resolve
-failed`; o PowerShell usa o `tar.exe` do Windows, que aceita o caminho.
+Rodar o `deploy:prepare` num clone limpo da `main`. Funciona no PowerShell e no Git Bash. O Git
+Bash põe antes no `PATH` o GNU tar do Git, que lê um `-f` com `C:\...` como `host:caminho`
+(`Cannot connect to C: resolve failed`); o PowerShell usa o `tar.exe` do Windows (bsdtar). Por
+isso o script passa ao `tar` só o nome do archive e roda no diretório dele. Os dois `tar`
+empacotam o mesmo conteúdo, mas não os mesmos bytes: formato, modos e dono mudam.
 
 **Compilador: Webpack.** O script `build` usa `next build --webpack` desde `7097f8a` (29/09/2026).
 Duas tentativas de build na Hostinger terminaram em panic do Turbopack ao processar `globals.css`

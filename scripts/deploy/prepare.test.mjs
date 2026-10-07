@@ -51,7 +51,7 @@ test('cria o archive atestado, mede os mesmos bytes e retorna SHA-256 verificáv
 
   const extracted = path.join(root, 'extracted');
   mkdirSync(extracted);
-  execFileSync('tar', ['-xzf', archivePath, '-C', extracted]);
+  execFileSync('tar', ['-xzf', path.basename(archivePath), '-C', path.basename(extracted)], { cwd: root });
   const meta = readFileSync(
     path.join(extracted, 'emcasacomcecilia', 'release-meta.json'),
     'utf8',

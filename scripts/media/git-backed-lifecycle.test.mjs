@@ -69,7 +69,7 @@ test('staging -> CDN proof -> Git original -> archive without media -> Git recov
     await assert.rejects(retainOriginals({ ...retention, write: true }), /Refusing to overwrite/);
     await writeFile(path.join(repoRoot, asset.source_path), png);
     const archive = createAttestedArchive({ repoDir: repoRoot, targetSha: git('rev-parse', 'HEAD'), deployUuid: '00000000-0000-4000-8000-000000000001' });
-    const listing = execFileSync('tar', ['-tzf', archive.archive], { encoding: 'utf8' });
+    const listing = execFileSync('tar', ['-tzf', path.basename(archive.archive)], { cwd: path.dirname(archive.archive), encoding: 'utf8' });
     assert.ok(listing.includes('data/media-manifest.json'));
     assert.ok(!listing.includes('public/images/hero.png'));
     const nextInventory = mergeInventory(manifest, await collectInventory({ repoRoot, publicRoot: path.join(repoRoot, 'public') }));
