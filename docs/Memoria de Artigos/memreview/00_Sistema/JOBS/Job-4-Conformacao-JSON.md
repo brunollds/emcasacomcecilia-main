@@ -3,17 +3,19 @@
 ---
 
 ## 1. Missão
-Converter o texto revisado em Markdown para o arquivo JSON estruturado em `content/reviews/<slug>.json` e registrá-lo no `content/reviews/_manifest.json`.
+Converter o texto revisado em Markdown para o arquivo JSON estruturado em `content/reviews/<slug>.json` e registrá-lo no `content/reviews/_manifest.json`. Artigo que sai em outros idiomas vira uma família de 10 JSONs (seção 3).
 
 ---
 
 ## 2. Regras Estritas do JSON
 1. **Campos Obrigatórios:** `id`, `slug`, `title`, `description`, `publishedAt`, `publishedAtISO`, `category`, `reviewKind`, `type`, `author`, `contentSections`.
    *(Nota: `readingTime` NÃO é campo do JSON; o tempo de leitura é calculado automaticamente em tempo de execução pelo template).*
+   - `id`: número inteiro que nenhum outro JSON usa. Numa família, cada versão tem o seu.
+   - `isNew: true` só no artigo em português e só no mês em que ele sai. As traduções levam `isNew: false`.
 2. **Afiliados (quando aplicável):**
-   - `coupon`: Código do cupom (ex: `"CECI"`).
+   - `coupon`: o código que o leitor copia no dock e na sidebar (ex: `"CECI"`). O campo se chama `coupon`, mas o texto chama o código pelo nome que ele tem na loja: o `CECILIA010` da YesStyle é código de recompensa, nunca cupom (regras em `CONTRATOS-DE-CONTEUDO.md`).
    - `affiliate`: Slug do cupom correspondente em `src/lib/couponsData.ts`.
-   - `editorialNote`: Texto de divulgação.
+   - `editorialNote`: Texto de divulgação, com no máximo 3 linhas no celular e sem data.
 3. **Mídia, Imagens & Vídeos (Sub-etapa de Assets):**
    - `image`: Caminho da imagem principal (Hero).
    - `imageAlt`: Texto alternativo descritivo e acessível (sem clickbait).
@@ -22,34 +24,43 @@ Converter o texto revisado em Markdown para o arquivo JSON estruturado em `conte
    - `gallery`: Array de fotos com legenda (`caption`) rica quando houver múltiplos ângulos/detalhes.
    - `video` (MP4/loop) ou `youtubeUrl` (registrado em `video-metadata.js` se for primário).
    - **Caminhos sempre locais:** `image`, `imageAlt`, `images[].src` e `gallery[].image` usam `/images/reviews/<marca>/<arquivo>.webp`. Nunca escrever URL `cdn.emcasacomcecilia.com` no JSON nem alterar chaves de `localVideoMetadata`/`video-pages`: o mapa de entrega troca pela URL do CDN só na renderização.
-   - **Toda imagem NOVA precisa entrar na biblioteca de mídia** (seguir `docs/GUIA-MIDIA-EDITORIAL.md`): arquivo comprimido em `public/images/...`, inventário `--merge`, upload FTPS + verificação HTTPS, `prepare-delivery --append` e `phase5-export --write/--check`. Imagem em `public/` fora do manifesto/mapa reprova o `candidate-proof`/`deploy:prepare` (bytes novos não mapeados). Upload é escrita em produção e depende de GO do Bruno.
+   - **Toda imagem NOVA precisa entrar na biblioteca de mídia** (seguir `docs/GUIA-MIDIA-EDITORIAL.md`): arquivo comprimido em `public/images/...`, inventário gerado com `--merge --stdout`, upload FTPS + verificação HTTPS, `prepare-delivery --append` e `phase5-export --write/--check`. No `data/media-manifest.json`, inserir **só as entradas novas**, onde a ordem alfabética as põe, sem reordenar o resto: gravar o `--merge` inteiro reordena blocos antigos e reescreve centenas de referências. Imagem em `public/` fora do manifesto/mapa reprova o `candidate-proof`/`deploy:prepare` (bytes novos não mapeados). Upload é escrita em produção e depende de GO do Bruno.
    - **Proporção antes do `imageFit`:** conferir largura×altura reais. `"contain"` sem `imageAspectRatio` cai numa caixa 16:9 e gera barras brancas em foto quadrada/quase quadrada. Foto quadrada: `"square"`; outras: declarar `imageAspectRatio` (ex.: `1.3333` para 4:3, `1.7758` para 16:9). Hero: `imageAspect` coerente com a foto (`landscape`/`portrait`/`square`).
    - **Carrossel:** várias fotos na mesma seção via `images[]` (cada item com `src`, `alt`, `caption`, `objectFit`, `aspectRatio`). Não repetir no `gallery` as fotos já usadas no corpo.
    - **Origem e licença:** registrar na nota do vault a origem de cada foto (própria, foto de manual, marca) e a autoria; crédito também na `caption` quando a imagem não for da autora.
 4. **Links nas Seções:**
-   - Links para `/cupons/<marca>` devem ser relativos.
+   - Link para a página da loja é relativo e fica no idioma do artigo: `/cupons/<marca>` em português e `/<locale>/coupons/<marca>` nos outros idiomas (ex.: `/en/coupons/yesstyle`). O `npm run test:review-i18n` reprova link de loja em outro idioma.
    - Links externos de loja devem ter `"sponsored": true`.
-5. **Manifesto:** Inserir o `<slug>` na posição correta de `content/reviews/_manifest.json`.
+5. **FAQ:** uma seção de `contentSections` com o título de FAQ do idioma e `bullets`, um por pergunta: a pergunta terminando em `?` (`？` em chinês e japonês) e a resposta logo depois, no mesmo item. É essa seção que vira o `FAQPage` no schema da página.
+
+   | Idioma | Título da seção |
+   |---|---|
+   | pt | Perguntas frequentes |
+   | en | Frequently asked questions |
+   | es | Preguntas frecuentes |
+   | fr | Questions fréquentes |
+   | de | Häufige Fragen |
+   | it | Domande frequenti |
+   | ko | 자주 묻는 질문 |
+   | ja | よくある質問 |
+   | zh-hant | 常見問題 |
+   | zh-hans | 常见问题 |
+
+6. **Manifesto:** acrescentar o `<slug>` no fim de `content/reviews/_manifest.json`, que segue a ordem de publicação. Uma família entra junta, na ordem dos idiomas da tabela acima.
+7. **Índice gerado:** depois de criar ou editar JSON, rodar `node scripts/content/build-index.mjs` e commitar `src/lib/generated/content-index.ts` junto com os JSONs. O `npm run dev` lê só esse índice.
 
 ---
 
-## 3. Clusters multilíngues (quando aplicável)
+## 3. Artigos em outros idiomas
 
-1. Ler a nota do cluster e `docs/HANDOFF-I18N-SUBPAGINAS-FASE-4.md`; o vault não
-   substitui o contrato de `locale`, `translationKey`, pathname ou os validadores.
-2. Para uma família traduzida, incluir `translationKey` em cada JSON e `locale`
-   explícito em toda versão não-PT (preferir também `locale: "pt"` na fonte nova).
-   A URL é derivada automaticamente: `/reviews/<slug>` para PT e
-   `/<locale>/reviews/<slug>` para os demais idiomas.
-3. Não criar `page.tsx` por artigo, hreflang manual, seletor manual ou entrada no
-   cluster YesStyle para descobrir uma tradução; manifesto + corpus alimentam o
-   runtime. Redirects só são necessários ao migrar URL já publicada.
-4. Em `paridade-completa`, só marcar a nota-fonte como pronta quando todos os
-   idiomas da matriz tiverem JSON, `locale`, `translationKey`, categoria e
-   manifesto correspondentes. O runtime aceita grupos parciais quando o modo for
-   `liberar-por-conversao`.
-5. Em `liberar-por-conversao`, publicar a fonte PT na estrutura do cluster e
-   manter os demais idiomas como `aguardando-gate`; não preencher traduções de
-   fachada para completar uma matriz.
-6. Atualizar a matriz da nota do cluster com slugs, estado e data da última
-   verificação técnica.
+A build confere estas regras; o resumo técnico também está no `CLAUDE.md`, em "Artigos em outros idiomas".
+
+1. Uma família é o conjunto de JSONs com a mesma `translationKey`: uma versão em cada um dos 10 idiomas (`pt`, `en`, `es`, `fr`, `de`, `it`, `ko`, `ja`, `zh-hant`, `zh-hans`), cada uma com `locale` explícito, inclusive o `locale: "pt"` da fonte. O `npm run test:review-i18n` reprova família com idioma faltando.
+2. A URL sai sozinha: `/reviews/<slug>` em português e `/<locale>/reviews/<slug>` nos outros idiomas. Não criar `page.tsx`, hreflang, seletor de idioma nem entrada em `src/lib/i18n/clusters/` para a tradução aparecer. Redirect só ao mudar a URL de um artigo já publicado.
+3. Iguais nas 10 versões: `translationKey`, `category`, `reviewKind`, `author`, `affiliate`, `coupon`, `image`, `imageFit`, `imageAspect`, o vídeo e `draft`, e também `publishedAtISO` quando as versões saem juntas (o `isNew` vai só no português; item 1 da seção 2). A build reprova `affiliate` ou `coupon` diferentes. O link do `cta` é o mesmo nos 10 idiomas na YesStyle; na SHEIN, o português usa o link brasileiro do código e os outros idiomas usam o link neutro (nota do cluster SHEIN).
+4. Escritos em cada idioma: `title`, `seoTitle`, `description`, `metaDescription`, `type`, `imageAlt`, `pros`, `cons`, `contentSections`, `editorialNote`, o `text` e o `label` do `cta`, e `publishedAt` no formato de data do idioma (`28 de setembro de 2026`, `September 28, 2026`, `28. September 2026`, `2026년 9월 28일`, `2026年9月28日`).
+5. `slug` no idioma da versão em `en`, `es`, `fr`, `de` e `it`. Em `ko`, `ja`, `zh-hant` e `zh-hans`, slug em ASCII terminado no código do idioma (ex.: `abib-skincare-routine-30-ja`).
+6. Toda versão fora do português leva `hideFromPortugueseListings: true`. A vitrine em português também filtra pelo `locale`, mas a flag é o padrão das traduções e o `validate:content` a exige nas famílias registradas em `clusters/yesstyle.ts`.
+7. `relatedArticles` aponta para artigos do mesmo idioma.
+8. Modelo de família: `yesstyle-skincare-30` (publicada em 28/09/2026), a mais recente e a mais uniforme. As famílias mais antigas têm campos só em alguns idiomas; não copiar essa diferença.
+9. Atualizar a matriz da nota do cluster com a chave, o slug da fonte em português e a data.

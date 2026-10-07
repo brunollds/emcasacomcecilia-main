@@ -11,6 +11,7 @@ publishedAtISO: "2026-08-23"
 publishedAt: "23 de agosto de 2026"
 affiliate: "" # slug do cupom
 coupon: ""
+translationKey: "" # família nos 10 idiomas (ex.: yesstyle-skincare-30); vazio se o artigo sai só em português
 status: "em-redacao"
 responsavel: "Job-2"
 proxima_acao: "revisao-editorial"
@@ -32,14 +33,14 @@ proxima_acao: "revisao-editorial"
 
 ---
 
-## Regras de Desconto e Onde Comprar
-- Cupom disponível: `{{coupon}}`
-- Link interno: [Ver regras do cupom {{coupon}}](/cupons/{{affiliate}})
+## Código e Onde Comprar
+- Código: `{{coupon}}`, chamado pelo nome que tem na loja: cupom, código de recompensa (o `CECILIA010` da YesStyle, nunca "cupom") ou código de indicação (o `4CW5Y` da SHEIN)
+- Link interno: [Ver as regras na página da loja](/cupons/{{affiliate}}) (nas traduções: `/<locale>/coupons/{{affiliate}}`)
 - Link da loja: [Ir para a loja oficial](https://...) (sponsored)
 
 ---
 
-## Perguntas Frequentes (FAQ)
+## Perguntas frequentes
 
 ### [Pergunta literal 1]?
 [Resposta curta e factual].
@@ -51,7 +52,7 @@ proxima_acao: "revisao-editorial"
 
 ## Planejamento de Mídia & Imagens
 - **Hero Image:** midia nova otimizada pode começar em staging externo (`images/reviews/...`), ser enviada ao CDN e retida como original exato em `public/images/reviews/...`; campo `image` do JSON continua `/images/reviews/...` como identidade logica. Seguir [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md).
-- **Entrega CDN:** comprimir antes, inventariar com `--merge`, fazer upload e verificar HTTPS/SHA-256 antes de acrescentar ao mapa com `--append`. Não inserir URL CDN diretamente no JSON.
+- **Entrega CDN:** comprimir antes, gerar o inventário com `--merge --stdout` e inserir no manifesto só as entradas novas, fazer upload e verificar HTTPS/SHA-256 antes de acrescentar ao mapa com `--append`. Não inserir URL CDN diretamente no JSON.
 - **Memória da mídia:** registrar origem, licença/autoria, path logico e evidencia de verificacao. Versionar o original Git-backed junto com manifesto/mapa e allowlist incremental. `staged: true` preserva proveniencia; manter copia externa ate backup recuperavel. Upload nao publica o artigo. Nunca apagar originais legados do Git.
 - **Image Alt:** `[Texto alternativo descritivo e acessível]`
 - **Imagens de Seção:** `[Lista de imagens inline com legenda]`
