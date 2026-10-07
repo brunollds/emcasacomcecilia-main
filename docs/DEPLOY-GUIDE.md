@@ -221,7 +221,8 @@ npm run indexnow:submit -- \
 
 Para conferir a lista antes de enviar, ponha `--dry-run` logo depois do `--`: o script mostra
 `host`, `keyLocation` e `urlList` e não chama o IndexNow. Fora o `--dry-run`, qualquer argumento
-que comece com `-` faz o script parar sem enviar nada.
+que comece com `-` faz o script parar sem enviar nada, e o mesmo vale para caminho que o Git Bash
+já converteu em caminho do Windows (`/sitemap.xml` chega como `C:/Program Files/Git/sitemap.xml`).
 
 ---
 

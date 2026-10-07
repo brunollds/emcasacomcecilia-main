@@ -26,6 +26,16 @@ if (unknownOption) {
   process.exit(1);
 }
 
+// O Git Bash (MSYS) converte /caminho antes de o script recebê-lo: /sitemap.xml chega como
+// C:/Program Files/Git/sitemap.xml e /a como A:/, e o normalizeUrl os mandaria ao IndexNow.
+const windowsPath = args.find((arg) => /^[a-z]:/i.test(arg));
+if (windowsPath) {
+  console.error(`Caminho do Windows: ${windowsPath}`);
+  console.error('Use a URL completa: o Git Bash converte /caminho em caminho do Windows.');
+  console.error('Nada foi enviado ao IndexNow.');
+  process.exit(1);
+}
+
 // Sem o `--` (npm run indexnow:submit --dry-run), o npm fica com a opção, deixa só
 // npm_config_dry_run=true no ambiente e roda o script assim mesmo; o ensaio vale igual.
 const dryRun = args.includes('--dry-run') || process.env.npm_config_dry_run === 'true';
