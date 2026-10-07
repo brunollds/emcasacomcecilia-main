@@ -71,20 +71,17 @@ emcasacomcecilia/
 
 ## Deploy na Hostinger
 
-⚠️ **IMPORTANTE:** Use **Node.js Web App** (não apenas Git Deploy)
-
-Consulte o guia completo em: **[DEPLOY-HOSTINGER-NODEJS.md](./DEPLOY-HOSTINGER-NODEJS.md)**
+O site roda como **Node.js Web App** com SSR, e o deploy usa o build gerenciado da Hostinger,
+sempre com decisão do Bruno. O passo a passo está em **[docs/DEPLOY-GUIDE.md](./docs/DEPLOY-GUIDE.md)**.
 
 ### Resumo Rápido
 
-1. Build local: `npm run build` (teste primeiro!)
-2. Push para GitHub: `git push origin main`
-3. Git Deploy → `apps/emcasacomcecilia`
-4. SSH: `npm install && npm run build`
-5. Criar Node.js Web App no hPanel
-6. Configurar domínio e SSL
+1. Num clone limpo da `main`, pelo PowerShell: `npm run deploy:prepare`
+2. Envio do archive pelo MCP da Hostinger, até o build ficar `completed`
+3. `npm run deploy:finish` com o SHA, o deploy UUID e o build UUID
 
-**Next.js precisa de Node.js rodando!** A Hostinger oferece 5 Node.js Web Apps incluídos no plano.
+O antigo [DEPLOY-HOSTINGER-NODEJS.md](./DEPLOY-HOSTINGER-NODEJS.md), com Git Deploy e build por SSH,
+fica só como histórico.
 
 ## Páginas Criadas ✅
 

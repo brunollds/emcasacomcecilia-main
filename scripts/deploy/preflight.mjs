@@ -25,3 +25,15 @@ export function assertProductionSha(value) {
   }
   return value;
 }
+
+export function assertProductionTar(versionOutput) {
+  const tar = versionOutput.split('\n')[0].trim();
+  if (!tar.startsWith('bsdtar ')) {
+    throw new Error(
+      'DEPLOY BLOQUEADO\n\n' +
+      `o archive de produção sai do bsdtar (tar.exe do Windows), mas o tar do PATH é: ${tar || '(sem versão)'}\n` +
+      'rode o deploy:prepare pelo PowerShell: o GNU tar do Git Bash grava outro formato, com outros modos e outro dono',
+    );
+  }
+  return tar;
+}

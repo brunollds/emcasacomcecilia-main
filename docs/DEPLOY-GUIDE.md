@@ -143,10 +143,11 @@ aviso e não montar pacote manualmente.
 Rodar o `deploy:prepare` num clone limpo da `main` e pelo PowerShell: é o caminho oficial do
 archive de produção. O PowerShell usa o `tar.exe` do Windows (bsdtar), e a Hostinger só recebeu
 archives dele. No Git Bash vem antes no `PATH` o GNU tar do Git, que empacota o mesmo conteúdo em
-outro formato, com outros modos e outro dono. O Git Bash serve para rodar os testes, como o
-`npm run test:deploy-guard`: o script passa ao `tar` só o nome do archive e roda no diretório dele,
-porque o GNU tar lê um `-f` com `C:\...` como `host:caminho` (`Cannot connect to C: resolve
-failed`).
+outro formato, com outros modos e outro dono. Por isso o `deploy:prepare` confere o `tar` antes do
+fetch e do build: se não for o bsdtar, para com `DEPLOY BLOQUEADO`, e o passo 1 mostra a versão
+usada. O Git Bash serve para rodar os testes, como o `npm run test:deploy-guard`: o script passa ao
+`tar` só o nome do archive e roda no diretório dele, porque o GNU tar lê um `-f` com `C:\...` como
+`host:caminho` (`Cannot connect to C: resolve failed`).
 
 **Compilador: Webpack.** O script `build` usa `next build --webpack` desde `7097f8a` (29/09/2026).
 Duas tentativas de build na Hostinger terminaram em panic do Turbopack ao processar `globals.css`
@@ -360,14 +361,13 @@ stale é normal. A attestation do deploy não depende desse cache. Persistiu: pu
 
 ---
 
-## Fallback legado — deploy via MCP (build gerenciado da Hostinger)
+## Mecanismo gerenciado — notas de referência
 
-Só se o CI estiver indisponível. `npm run deploy:prepare` (archive atestado com prefixo
-`emcasacomcecilia/`) → MCP `hosting_deployJsApplication` (poll `hosting_listJsDeployments` até
-`completed`) → `npm run deploy:finish -- --target-sha ... --deploy-uuid ... --build-uuid ...`
-(attestation + manifesto + smoke + workers gerenciados). Detalhes/pegadinhas: histórico
-do git deste guia (versão de 15/07). Pontos que continuam valendo: `state: completed` não é validação
-suficiente; painel = node 18 (não usar); env vive no painel.
+Desde 13/08/2026 este é o único fluxo de deploy, descrito passo a passo em "Deploy temporário —
+mecanismo gerenciado supervisionado", no começo deste guia. Antes ele era o fallback do deploy por
+CI, hoje suspenso, e as pegadinhas daquela época estão no histórico do git deste guia (versão de
+15/07). Pontos que continuam valendo: `state: completed` não é validação suficiente; painel = node 18
+(não usar); env vive no painel.
 
 ### Retenção e recuperação do wire gerenciado
 
