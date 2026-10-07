@@ -140,11 +140,13 @@ mostra o delta completo entre o SHA atestado em produção e o candidato, incorp
 `release-meta.json` e aplica a mesma política de 47/49 MB sobre o archive final exato. Não substituir erro por
 aviso e não montar pacote manualmente.
 
-Rodar o `deploy:prepare` num clone limpo da `main`. Funciona no PowerShell e no Git Bash. O Git
-Bash põe antes no `PATH` o GNU tar do Git, que lê um `-f` com `C:\...` como `host:caminho`
-(`Cannot connect to C: resolve failed`); o PowerShell usa o `tar.exe` do Windows (bsdtar). Por
-isso o script passa ao `tar` só o nome do archive e roda no diretório dele. Os dois `tar`
-empacotam o mesmo conteúdo, mas não os mesmos bytes: formato, modos e dono mudam.
+Rodar o `deploy:prepare` num clone limpo da `main` e pelo PowerShell: é o caminho oficial do
+archive de produção. O PowerShell usa o `tar.exe` do Windows (bsdtar), e a Hostinger só recebeu
+archives dele. No Git Bash vem antes no `PATH` o GNU tar do Git, que empacota o mesmo conteúdo em
+outro formato, com outros modos e outro dono. O Git Bash serve para rodar os testes, como o
+`npm run test:deploy-guard`: o script passa ao `tar` só o nome do archive e roda no diretório dele,
+porque o GNU tar lê um `-f` com `C:\...` como `host:caminho` (`Cannot connect to C: resolve
+failed`).
 
 **Compilador: Webpack.** O script `build` usa `next build --webpack` desde `7097f8a` (29/09/2026).
 Duas tentativas de build na Hostinger terminaram em panic do Turbopack ao processar `globals.css`
