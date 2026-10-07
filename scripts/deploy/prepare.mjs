@@ -9,7 +9,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 import { checkArchiveSize, DEFAULT_MAX_BYTES, DEFAULT_WARNING_BYTES } from './check-archive-size.mjs';
-import { assertDeployPreflight, assertProductionSha } from './preflight.mjs';
+import { assertDeployPreflight, assertProductionSha, assertProductionTar } from './preflight.mjs';
 import { parseReleaseIdentity } from '../content/release-identity.mjs';
 import { assertArchiveMedia, assertGitMediaRecovery, assertGitMediaTransition } from '../media/archive-proof.mjs';
 
@@ -116,7 +116,9 @@ export function createAttestedArchive({
 }
 
 async function main() {
-  console.log('[1/4] conferindo main, origin/main e worktree…');
+  console.log('[1/4] conferindo tar, main, origin/main e worktree…');
+  const tar = assertProductionTar(execFileSync('tar', ['--version'], { encoding: 'utf8' }));
+  console.log(`  tar: ${tar}`);
   execFileSync('git', ['fetch', '--quiet', 'origin'], { stdio: 'inherit' });
   const before = currentState();
   assertDeployPreflight(before);
