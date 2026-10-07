@@ -30900,7 +30900,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "在 YesStyle 結帳時使用 CECILIA010 優惠碼。",
+      "text": "在 YesStyle 結帳時使用 CECILIA010 獎勵碼。",
       "label": "前往 YesStyle 使用代碼",
       "url": "https://ystyle.co/rQYQv"
     },
@@ -30982,7 +30982,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "在 YesStyle 结账时使用 CECILIA010 优惠码。",
+      "text": "在 YesStyle 结账时使用 CECILIA010 奖励码。",
       "label": "前往 YesStyle 使用代码",
       "url": "https://ystyle.co/rQYQv"
     },
