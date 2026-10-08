@@ -24,12 +24,17 @@ export const CECILIA_PHOTO = resolveMediaUrl('/images/photos/BRU-1.jpg');
 // O site escreve "do Magalu" e "da" para as outras lojas.
 const MASCULINE_STORES = new Set(['magalu']);
 
-function ofStore(store: Pick<Coupon, 'slug' | 'brand'>): string {
+export function ofStore(store: Pick<Coupon, 'slug' | 'brand'>): string {
   return `${MASCULINE_STORES.has(store.slug) ? 'do' : 'da'} ${store.brand}`;
 }
 
 function theStore(store: Pick<Coupon, 'slug' | 'brand'>): string {
   return `${MASCULINE_STORES.has(store.slug) ? 'o' : 'a'} ${store.brand}`;
+}
+
+// O código que a vitrine mostra: o de desconto ou, na loja de link, o de indicação.
+export function getStoreCode(store: Coupon): string | undefined {
+  return store.offerMode === 'discount-code' ? store.code : store.referral?.code;
 }
 
 function listedNewestFirst<T extends StoreReview>(reviews: readonly T[]) {
@@ -58,7 +63,7 @@ export function getHomeStoreTabs(
   const copy = getSidebarCopy('pt');
 
   return stores.map((store) => {
-    const code = store.offerMode === 'discount-code' ? store.code : store.referral?.code;
+    const code = getStoreCode(store);
     const kind = getStoreCodeKind(store, code);
     const articles = articlesOfStore(listed, store.slug);
 
