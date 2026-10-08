@@ -74,6 +74,13 @@ assert.equal(
 );
 assert.ok(getAllActiveCouponSlugs().includes('insider'), 'Insider ativa deve gerar página de cupom');
 
+// "Cupom testado em" só vale com o teste registrado: toda loja com código precisa do testNote. A
+// YesStyle fica de fora porque o código é de recompensa e a página dela é outra.
+const untested = COUPONS.filter(
+  (coupon) => coupon.status === 'ativo' && coupon.offerMode === 'discount-code' && !coupon.codeKind && !coupon.testNote?.trim()
+).map((coupon) => coupon.slug);
+assert.deepEqual(untested, [], `Lojas com código sem testNote: ${untested.join(', ')}`);
+
 // Hub /cupons: a DAMIE abre os Destaques por ser a maior receita, e a Dolce Gusto vem logo depois.
 const hub = getCouponHubSections();
 assert.deepEqual(

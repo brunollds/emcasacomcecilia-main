@@ -82,7 +82,10 @@ Para cada oferta ativa, reconferir:
 - `discount`, valor mínimo e categorias elegíveis;
 - `validity`, `reusable`, `combinable` e restrições;
 - `offerUrl` e links de campanhas;
-- `lastVerified` com a data real (`YYYY-MM-DD`);
+- `lastVerified` com a data real (`YYYY-MM-DD`). Nas lojas com código ela aparece como "Cupom testado
+  em" e no `lastReviewed` do schema, então só avança com teste de checkout feito;
+- `testNote`: o que a equipe viu nesse teste. Se o percentual, o mínimo ou o exemplo de carrinho
+  mudarem, reescrever; `test:coupon-offer-modes` falha se uma loja com código ficar sem ele;
 - `metaTitle` e `metaDescription` quando contiverem mês, ano, código ou percentual;
 - `monthlyHighlight`, FAQs e instruções quando repetirem uma regra alterada;
 - `status`: `ativo`, `pausado` ou `expirado` conforme a condição real.
