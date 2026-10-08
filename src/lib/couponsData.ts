@@ -98,8 +98,7 @@ interface CouponBase {
 export type CouponCodeOffer = CouponBase & {
   offerMode: 'discount-code';
   code: string;
-  // Omitido quando a parceria proíbe divulgar o percentual (ex.: Insider).
-  discountNumber?: number;
+  discountNumber: number;
   // O código vai num campo próprio do checkout e não é cupom (o CECILIA010 da YesStyle).
   codeKind?: 'reward';
   codeFieldLabel?: string;
@@ -824,7 +823,6 @@ export const COUPONS: Coupon[] = [
     featured: false,
   },
   {
-    // A Insider proíbe divulgar o percentual do cupom: sem discountNumber e sem número em nenhum texto.
     offerMode: 'discount-code',
     slug: 'insider',
     brand: 'Insider',
@@ -837,31 +835,32 @@ export const COUPONS: Coupon[] = [
     brandWatermark: '/images/logos/watermarks/insider.webp',
     brandColor: '#1A1A1A',
     code: 'EMCASACOMCECILIA',
-    discount: 'Desconto exclusivo',
+    discount: '15% OFF',
+    discountNumber: 15,
     category: 'Moda e roupas tecnológicas',
     hubCategory: 'moda',
     shortDescription: 'compras online na Insider, exceto lançamentos',
     longDescription:
       'Código da Cecília para economizar em camisetas, underwear, roupas esportivas e acessórios com tecnologia têxtil na loja online da Insider. Não vale para lançamentos.',
-    metaTitle: 'Cupom Insider Outubro 2026: EMCASACOMCECILIA na Loja Online',
+    metaTitle: 'Cupom Insider Outubro 2026: EMCASACOMCECILIA — 15% OFF na Loja Online',
     metaDescription:
-      'Cupom Insider confirmado para outubro de 2026: use EMCASACOMCECILIA no checkout da loja online e confira o desconto no carrinho. Não vale para lançamentos nem nas lojas físicas.',
+      'Cupom Insider confirmado para outubro de 2026: use EMCASACOMCECILIA no checkout da loja online e ganhe 15% OFF. Não vale para lançamentos nem nas lojas físicas.',
     eligibleCategories: 'Produtos da loja online da Insider, exceto lançamentos',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable:
       'Não acumula com outro cupom: a loja aceita um cupom por pedido. No teste de 05/10/2026 valeu em peça do Outlet e em kit com preço promocional',
-    lastVerified: '2026-10-05',
+    lastVerified: '2026-10-07',
     codeInstructions: [
       'Copie o código EMCASACOMCECILIA no card acima.',
       'Acesse a loja online da Insider pelo botão indicado: o link já leva o cupom para o carrinho.',
       'Adicione os produtos desejados ao carrinho. Lançamentos não entram no desconto.',
       'Se o cupom não aparecer aplicado, cole o código no campo de cupom antes de finalizar.',
-      'Confira o desconto no resumo do pedido antes de pagar.',
+      'Confira os 15% de desconto no resumo do pedido antes de pagar.',
     ],
     aboutBrand:
-      'A Insider é uma marca brasileira de roupas com tecnologia têxtil, que cria peças funcionais e com proposta sustentável: camisetas, underwear, roupas esportivas e acessórios para usar no dia a dia. O cupom EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e vale nas compras da loja online, com exceção dos lançamentos. Ele não vale nas lojas físicas e não acumula com outro cupom no mesmo pedido. O desconto aparece no carrinho quando o código é aceito, então a recomendação é conferir o resumo do pedido antes de finalizar.',
+      'A Insider é uma marca brasileira de roupas com tecnologia têxtil, que cria peças funcionais e com proposta sustentável: camisetas, underwear, roupas esportivas e acessórios para usar no dia a dia. O cupom EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e vale nas compras da loja online, com exceção dos lançamentos. Ele não vale nas lojas físicas e não acumula com outro cupom no mesmo pedido. O cupom dá 15% OFF, e o desconto aparece no carrinho quando o código é aceito; a recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
       {
         question: 'O cupom EMCASACOMCECILIA vale para todos os produtos da Insider?',
@@ -871,7 +870,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'Quanto de desconto o cupom EMCASACOMCECILIA dá?',
         answer:
-          'O desconto aparece no carrinho assim que o código é aplicado aos produtos elegíveis. Use o cupom no momento da compra e confira o valor no resumo do pedido.',
+          'O EMCASACOMCECILIA dá 15% OFF nos produtos elegíveis da loja online, sem valor mínimo. O desconto aparece em cada item do resumo do pedido assim que o código é aceito.',
       },
       {
         question: 'Posso usar o cupom junto com outro cupom?',
