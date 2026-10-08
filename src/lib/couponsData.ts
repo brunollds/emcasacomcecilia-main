@@ -48,6 +48,9 @@ interface CouponBase {
   brand: string;
   officialUrl: string;
   offerUrl: string;
+  // Página do código fora de /cupons, já com a UTM da parceria; o lugar do link entra no
+  // utm_content (homeStores.ts). Só a DAMIE usa: o dossiê de 07/10 proíbe linkar /cupons/damie.
+  storePageUrl?: string;
   brandIcon: string;
   brandLogo?: string;
   brandLogoAlt?: string;
@@ -128,6 +131,8 @@ export const COUPONS: Coupon[] = [
     brand: 'DAMIE',
     officialUrl: 'https://damie.com.br',
     offerUrl: 'https://damie.com.br',
+    storePageUrl:
+      'https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12',
     brandIcon: 'D',
     brandLogo: '/images/about/partners/damie.jpg',
     brandLogoAlt: 'Marca DAMIE',
