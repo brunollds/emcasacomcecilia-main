@@ -220,6 +220,17 @@ assert.deepEqual(
   'tipos errados no feed'
 );
 
+// Preço com ponto decimal e sem vírgula, milhar sem centavos, e só link http(s) completo.
+assert.deepEqual(
+  parseDicasOffers([
+    { produto: 'Panela', preco: '199.90', precoAntigo: 'R$ 1.394', url: 'https://example.com/panela' },
+    { produto: 'Caminho relativo', url: '/receitas' },
+    { produto: 'Protocolo errado', url: 'javascript:alert(1)' },
+  ]).map(({ title, discountPrice, originalPrice }) => ({ title, discountPrice, originalPrice })),
+  [{ title: 'Panela', discountPrice: 199.9, originalPrice: 1394 }],
+  'preço com ponto decimal e link fora de http(s)'
+);
+
 // Últimos vídeos.
 // Como o youtube.ts entrega: a hqdefault.jpg como miniatura e a maxresdefault.jpg como reserva.
 const video = (

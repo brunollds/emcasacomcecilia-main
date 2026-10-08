@@ -34,10 +34,13 @@ function parsePrice(value: unknown): number {
     return 0;
   }
 
-  const normalized = value
-    .replace(/[^\d,.-]/g, '')
-    .replace(/\./g, '')
-    .replace(',', '.');
+  const cleaned = value.replace(/[^\d,.-]/g, '');
+  // O feed manda "1.394,90": ponto de milhar e vírgula decimal. Sem vírgula, um ponto com um ou
+  // dois dígitos no fim é decimal ("199.90").
+  const normalized =
+    cleaned.includes(',') || !/^-?\d+\.\d{1,2}$/.test(cleaned)
+      ? cleaned.replace(/\./g, '').replace(',', '.')
+      : cleaned;
 
   const parsed = Number.parseFloat(normalized);
   return Number.isFinite(parsed) ? parsed : 0;
@@ -48,11 +51,22 @@ function feedText(value: unknown): string {
   return typeof value === 'string' ? value.trim() : '';
 }
 
+// Link do feed: só endereço http(s) completo. Caminho relativo viraria link interno do site.
+function feedUrl(value: unknown): string {
+  const text = feedText(value);
+  try {
+    const { protocol } = new URL(text);
+    return protocol === 'https:' || protocol === 'http:' ? text : '';
+  } catch {
+    return '';
+  }
+}
+
 function normalizeDicasPost(value: unknown, index: number): Offer | null {
   if (typeof value !== 'object' || value === null) return null;
   const post = value as DicasPost;
   const title = feedText(post.produto);
-  const url = feedText(post.url);
+  const url = feedUrl(post.url);
   if (!title || !url) return null;
   const discountPrice = parsePrice(post.preco);
 
