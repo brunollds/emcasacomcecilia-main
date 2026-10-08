@@ -521,6 +521,30 @@ Decisão E). O resto da D2 vai junto, depois da Fase 6c. O `validate:yesstyle` b
 oferta da YesStyle vencida, pela data em UTC: antes do deploy final, a oferta vigente precisa estar
 em dia.
 
+### Pendências da revisão final da vitrine (08/10)
+
+A revisão das Fases 1, 2a e 2b deixou para depois o que não bloqueava. Cada plano de fase confere
+esta lista:
+
+- **Fase 3:** uma constante para a foto da Cecília (`/images/photos/BRU-1.jpg`), hoje repetida em
+  `page.js` e `HomeCeciliaPanel.tsx`, e usada também pela faixa "Sobre a Cecília".
+- **Na próxima mudança de `homeStoreTabs.ts`:** o prefixo `loja-` numa constante; a conta das
+  setas, Home e End sai de `HomeStoreStories.tsx` para lá, com teste; o teste ganha a ida e volta
+  `parseTabHash('#' + getTabAnchor(id))`, o hash sem `#` e `getTabOrder([])`.
+- **Analytics:** o `home_store_select` dispara a cada seta do teclado. Ou mede só o clique, ou o
+  relatório avisa que inclui a navegação por teclado.
+- **Loja nova:** `MASCULINE_STORES` ("do Magalu") vira um campo da loja em `couponsData.ts`.
+- **`test:home-stores`:** o UTM da Let's Eat It, o CECILIA010 também na descrição e no desconto da
+  YesStyle, artigo sem imagem, logo e iniciais, dicas de loja sem código, e o `getHomeLatest` com
+  imagem e com menos de 5 artigos.
+- **Revisão do `/reviews` e da subpágina:** etiquetas de 10 px e `h1` → `h3` sem `h2` no
+  `ReviewHubCard`; animações do card fora do `motion-safe:`; Open Graph e Twitter completos na
+  subpágina (`siteName`, `locale`, imagem, `twitter.title`); `lastModified` das subpáginas no
+  sitemap; JSON-LD (`CollectionPage` e `BreadcrumbList`), se o Bruno quiser.
+- **Fase 6:** medir no Lighthouse o HTML da vitrine (336 KB, 25 KB gzip: 72 `next/image` e a
+  miniatura de cada artigo duas vezes por painel); `ReviewMobileBottomBar.tsx` passa a importar o
+  `FOCUS_RING` de `src/components/ui/focusRing.ts` em vez da cópia local.
+
 ## Decisões tomadas em 07/10
 
 1. Loja aberta ao entrar: DAMIE.
