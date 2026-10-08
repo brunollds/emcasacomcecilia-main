@@ -1,10 +1,9 @@
 import Image from 'next/image';
-import { ArrowRight, Coffee, Leaf, UtensilsCrossed } from 'lucide-react';
+import { ArrowRight, Coffee, Leaf, MessageCircle, UtensilsCrossed } from 'lucide-react';
 import { TrackedHomeLink } from '@/components/TrackedHomeLink';
 import { FOCUS_RING, FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
 import { brandLinks } from '@/lib/brandLinks';
-import { getCeciliaSocialStats } from '@/lib/homeStores';
-import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import { CECILIA_PHOTO, getCeciliaSocialStats } from '@/lib/homeStores';
 
 // Os mesmos desenhos dos ícones do Hero de hoje.
 const SOCIAL_ICON_PATHS = {
@@ -51,7 +50,7 @@ function PhotoCard({ instagramFollowers }: { instagramFollowers?: string }) {
       />
       <div className="relative aspect-[4/4.7] overflow-hidden rounded bg-marinho/15">
         <Image
-          src={resolveMediaUrl('/images/photos/BRU-1.jpg')}
+          src={CECILIA_PHOTO}
           alt="Cecília segurando uma xícara de café na cozinha"
           fill
           sizes="(min-width: 1024px) 316px, 276px"
@@ -93,7 +92,7 @@ function PhotoCard({ instagramFollowers }: { instagramFollowers?: string }) {
 }
 
 // Aba da Cecília na vitrine: a apresentação dela, sem código e sem artigos. A ordem do DOM é a do
-// celular (título, foto, texto, links, números e a orientação), que é também a do foco e a da leitura;
+// celular (título, foto, texto, links, grupo de WhatsApp, números e a orientação), que é também a do foco e a da leitura;
 // no desktop a grade põe título e texto à esquerda e a foto à direita, nas duas linhas.
 export function HomeCeciliaPanel() {
   const stats = getCeciliaSocialStats();
@@ -157,6 +156,24 @@ export function HomeCeciliaPanel() {
             ))}
           </div>
         </div>
+        <TrackedHomeLink
+          href={brandLinks.whatsappGroup}
+          target="_blank"
+          rel="noopener noreferrer"
+          placement="home_cecilia"
+          linkLabel="Entre no grupo de promoções"
+          className={`flex max-w-fit items-center gap-3 rounded-xl border-[1.5px] border-white/25 bg-white/5 py-2.5 pr-4 pl-2.5 hover:border-laranja motion-safe:animate-[pulse-subtle_3s_ease-in-out_2s_4] motion-safe:transition motion-safe:duration-200 motion-safe:hover:-translate-y-0.5 ${FOCUS_RING_ON_DARK}`}
+        >
+          <span aria-hidden="true" className="flex size-10 shrink-0 items-center justify-center rounded-full bg-[#25d366] text-marinho">
+            <MessageCircle className="size-5" />
+          </span>
+          <span className="flex min-w-0 flex-col gap-0.5">
+            <span className="text-sm font-extrabold text-white">Entre no grupo de promoções</span>
+            <span className="text-[13px] leading-[1.4] font-medium text-white/70">
+              Receba cupons e avisos rápidos direto no WhatsApp.
+            </span>
+          </span>
+        </TrackedHomeLink>
         <dl className="grid max-w-[460px] grid-cols-4">
           {stats.map(({ name, followers }, index) => (
             <div

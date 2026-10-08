@@ -8,7 +8,7 @@ import { HomeEditorialPick } from '@/components/sections/HomeEditorialPick';
 import { Offers } from '@/components/sections/Offers';
 import { CTA } from '@/components/sections/CTA';
 import homeCurationConfig from '@/../content/home-curation.json';
-import { getHomeLatest, getHomeStoreTabs } from '@/lib/homeStores';
+import { CECILIA_PHOTO, getHomeLatest, getHomeStoreTabs } from '@/lib/homeStores';
 import { getFeaturedOffers } from '@/lib/dicasOffers';
 import { getPopularRecipeSlugs } from '@/lib/popularRecipeStats';
 import { publishedReviews } from '@/lib/data';
@@ -78,7 +78,7 @@ export default async function Home() {
         <HomeStoreStories
           tabs={getHomeStoreTabs(publishedReviews)}
           ceciliaPanel={<HomeCeciliaPanel />}
-          ceciliaPhoto={resolveMediaUrl('/images/photos/BRU-1.jpg')}
+          ceciliaPhoto={CECILIA_PHOTO}
         />
       </div>
 

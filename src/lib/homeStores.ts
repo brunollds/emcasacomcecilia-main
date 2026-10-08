@@ -18,6 +18,8 @@ export type StoreReview = ReviewDiscoveryItem & { affiliate?: string };
 const VISIBLE_ARTICLES = 3;
 const LATEST_LIMIT = 5;
 const CECILIA_STAT_NETWORKS = ['Instagram', 'TikTok', 'YouTube', 'Facebook'] as const;
+// Foto da Cecília: bolinha e painel da vitrine.
+export const CECILIA_PHOTO = resolveMediaUrl('/images/photos/BRU-1.jpg');
 
 // O site escreve "do Magalu" e "da" para as outras lojas.
 const MASCULINE_STORES = new Set(['magalu']);
