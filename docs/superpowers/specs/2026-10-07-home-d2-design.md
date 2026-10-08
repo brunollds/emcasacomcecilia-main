@@ -549,6 +549,8 @@ esta lista:
       pessoa mexer nas bolinhas;
     - a bolinha da Cecília fica presa à esquerda enquanto a fila rola;
     - as setas aparecem no desktop só quando as bolinhas não couberem.
+  - Confirmado pelo Bruno depois da Fase 3a (decisão K): temporizador, com a DAMIE como loja de
+    abertura; o início aleatório fica de fora.
   - Por que não aleatório: com o cache de 5 minutos da home, todo mundo veria a mesma loja; e se o
     sorteio fosse no navegador, a loja trocaria depois de a página aparecer.
   - A troca automática precisa:
@@ -601,3 +603,6 @@ Respondidas depois da revisão do código:
   apresentação dela já é o painel que abre na bolinha dela, logo abaixo do header. O botão do grupo
   de WhatsApp vai para esse painel, medido com `home_route_click` e `home_cecilia`, como os outros
   links dele.
+- **K.** (08/10, depois da Fase 3a) Na fase do carrossel das bolinhas, a vitrine abre sempre na
+  DAMIE e troca de loja sozinha, para a direita, até a pessoa mexer nas bolinhas. Não há início
+  aleatório.
