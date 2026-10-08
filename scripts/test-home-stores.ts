@@ -66,6 +66,10 @@ assert.equal(getTabAnchor('yesstyle'), 'loja-yesstyle');
 assert.equal(getTabAnchor(CECILIA_TAB_ID), 'cecilia');
 assert.equal(parseTabHash('#loja-yesstyle', slugs), 'yesstyle');
 assert.equal(parseTabHash('#cecilia', slugs), CECILIA_TAB_ID);
+assert.equal(parseTabHash('loja-yesstyle', slugs), 'yesstyle', 'hash sem o #');
+for (const id of [CECILIA_TAB_ID, 'yesstyle']) {
+  assert.equal(parseTabHash(`#${getTabAnchor(id)}`, slugs), id, `${id}: o âncora volta para a mesma aba`);
+}
 assert.equal(parseTabHash('#loja-kopenhagen', slugs), null, 'loja fora da vitrine');
 assert.equal(parseTabHash('#yesstyle', slugs), null, 'sem o prefixo loja-');
 assert.equal(parseTabHash('#loja-', slugs), null);
@@ -74,6 +78,7 @@ assert.equal(getDefaultTabId(['dolce-gusto', 'damie']), 'damie');
 assert.equal(getDefaultTabId(['dolce-gusto']), 'dolce-gusto', 'sem a DAMIE, a primeira loja');
 assert.equal(getDefaultTabId([]), CECILIA_TAB_ID);
 assert.deepEqual(getTabOrder(slugs), ['cecilia', 'damie', 'yesstyle'], 'a Cecília vem primeiro');
+assert.deepEqual(getTabOrder([]), ['cecilia'], 'sem loja, só a Cecília');
 assert.deepEqual(getHomeStoreSelectParameters('yesstyle'), { store: 'yesstyle', placement: 'home_store_tabs' });
 assert.deepEqual(getHomeStoreSelectParameters(CECILIA_TAB_ID), { store: 'cecilia', placement: 'home_store_tabs' });
 
@@ -98,6 +103,17 @@ assert.equal(sheinTab.total, 0);
 assert.deepEqual(sheinTab.articles, []);
 assert.equal(sheinTab.allArticles, undefined);
 assert.equal(sheinTab.emptyText, 'Ainda não há artigo da SHEIN por aqui. As campanhas vigentes ficam na página da loja.');
+assert.equal(
+  getHomeStoreTabs([], [store('magalu')])[0].emptyText,
+  'Ainda não há artigo do Magalu por aqui. As campanhas vigentes ficam na página da loja.',
+  'loja no masculino'
+);
+
+// Loja com um artigo só: a lista mostra o artigo e não há "Ver os N artigos".
+const [damieTab] = getHomeStoreTabs(fixtureReviews, [store('damie')]);
+assert.equal(damieTab.total, 1);
+assert.deepEqual(damieTab.articles.map(({ slug }) => slug), ['da-damie']);
+assert.equal(damieTab.allArticles, undefined);
 
 // Loja de link sem código de indicação: sem código e sem rótulo de cupom.
 const semCodigo = { ...store('shein'), referral: undefined } as Coupon;

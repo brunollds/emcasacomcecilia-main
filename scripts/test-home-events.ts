@@ -7,8 +7,9 @@ import { renderToStaticMarkup } from 'react-dom/server';
 
 import sitemap from '@/app/sitemap';
 
-import { EventCard, HomeEvent } from '@/components/sections/HomeEvent';
-import { COUPONS } from '@/lib/couponsData';
+import { EventHubView } from '@/components/sections/EventHubView';
+import { EVENT_THEME_CLASSES, EventCard, HomeEvent } from '@/components/sections/HomeEvent';
+import { COUPONS, type Coupon } from '@/lib/couponsData';
 import { publishedReviews } from '@/lib/data';
 import {
   formatEventDay,
@@ -196,6 +197,16 @@ assert.equal(kopenhagen.store, undefined, 'loja pausada não tem faixa');
 assert.equal(kopenhagen.codeLink, undefined, 'loja pausada não tem aba na vitrine');
 for (const card of active.cards) assert.ok(!('code' in card), 'card sem código');
 
+// Loja ativa sem código (a SHEIN sem o código de indicação): o card traz a loja, mas não o "Ver o código".
+const sheinSemCodigo = { ...store('shein'), referral: undefined } as Coupon;
+const sheinConfig = { events: [event({ articleSlugs: ['bf-shein'] })] };
+const sheinReviews = [...reviews, review(10, 'bf-shein', 'shein')];
+const sheinEvent = resolveActiveHomeEvent(sheinConfig, sheinReviews, at('2026-11-07T10:00:00-03:00'), [sheinSemCodigo]);
+assert.ok(sheinEvent);
+assert.equal(sheinEvent.cards.length, 1);
+assert.equal(sheinEvent.cards[0].store, 'SHEIN', 'a loja ativa aparece no card');
+assert.equal(sheinEvent.cards[0].codeLink, undefined, 'sem código, sem "Ver o código"');
+
 // A faixa renderizada: o HTML que a home serve durante a campanha.
 const bandHtml = renderToStaticMarkup(createElement(HomeEvent, { event: active }));
 const bandText = bandHtml.replace(/<[^>]+>/g, ' ');
@@ -213,6 +224,20 @@ assert.equal(
   active.cards.length + 1,
   'no tema noite, o link de cada card e o "Ver tudo" têm o anel amarelo'
 );
+
+// Os temas claros: a banda e a pílula do tema; o anel amarelo é só do fundo escuro, nos outros é marinho.
+for (const themeName of ['laranja', 'amarelo'] as const) {
+  const theme = EVENT_THEME_CLASSES[themeName];
+  const themedHtml = renderToStaticMarkup(createElement(HomeEvent, { event: { ...active, theme: themeName } }));
+  assert.ok(themedHtml.includes(theme.band), `${themeName}: banda do tema`);
+  assert.ok(themedHtml.includes(theme.pill), `${themeName}: pílula do tema`);
+  assert.ok(!themedHtml.includes('outline-amarelo-cupom'), `${themeName}: sem anel amarelo no fundo claro`);
+  assert.equal(
+    themedHtml.match(/focus-visible:outline-marinho/g)?.length,
+    active.cards.length + 1 + 2,
+    `${themeName}: anel marinho nos 4 cards, no "Ver tudo" e nos 2 "Ver o código"`
+  );
+}
 
 // Na página da data (fundo creme), o card usa o anel marinho.
 const hubCardHtml = renderToStaticMarkup(createElement(EventCard, { card: damie, placement: 'event_hub' }));
@@ -258,6 +283,27 @@ assert.deepEqual(
   ['bf-damie', 'bf-magalu', 'bf-sem-loja', 'bf-kopenhagen', 'bf-dolce'],
   'a página mostra todos os artigos'
 );
+
+// A página renderizada: o EventHubView recebe a edição pronta, sem ler o JSON nem a data de hoje.
+assert.ok(during);
+const hubHtml = renderToStaticMarkup(createElement(EventHubView, { page: during }));
+const hubText = hubHtml.replace(/<[^>]+>/g, ' ');
+assert.match(hubHtml, /<h1[^>]*>Black Friday<\/h1>/);
+assert.match(hubHtml, /<time datetime="2026-11-27">Sexta, 27 de novembro de 2026<\/time>/i);
+assert.ok(hubText.includes('faltam 20 dias'));
+assert.match(hubHtml, /<h2 id="titulo-guias-da-data" class="sr-only">Guias da Black Friday<\/h2>/);
+assert.equal(hubHtml.match(/<li\b/g)?.length, 5, 'um item por card');
+// Na página entram os 5 artigos: além da DAMIE e do Magalu, o da Dolce Gusto (a loja ativa com código no 5º card).
+for (const slug of ['damie', 'magalu', 'dolce-gusto']) assert.ok(hubHtml.includes(`href="/#loja-${slug}"`), `"Ver o código" de ${slug}`);
+assert.equal(hubHtml.match(/href="\/#loja-/g)?.length, 3, 'loja pausada e card sem loja ficam sem "Ver o código"');
+assert.match(hubHtml, /href="\/reviews"[^>]*>Ver todos os guias e análises/);
+assert.ok(hubHtml.match(/<section[^>]*>/)?.[0].includes(EVENT_THEME_CLASSES.noite.band), 'a banda do tema noite abre a página');
+assert.ok(!hubHtml.includes('<code') && !/cupom|copiar/i.test(hubText), 'a página não mostra código nem fala em cupom');
+
+assert.ok(before2026);
+const closedHtml = renderToStaticMarkup(createElement(EventHubView, { page: before2026 }));
+assert.ok(closedHtml.includes('Sexta, 28 de novembro de 2025'));
+assert.ok(!/faltam/.test(closedHtml) && !closedHtml.includes(EVENT_THEME_CLASSES.noite.pill), 'edição encerrada sem pílula de contagem');
 
 const afterCampaign = getEventHubPage(hubConfig, reviews, 'black-friday', at('2027-03-01T12:00:00-03:00'), stores);
 assert.equal(afterCampaign?.dayLabel, 'Sexta, 27 de novembro de 2026', 'fora da campanha, a última edição');

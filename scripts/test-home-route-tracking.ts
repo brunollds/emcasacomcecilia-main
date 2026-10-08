@@ -1,5 +1,10 @@
 import assert from 'node:assert/strict';
-import { getHomeRouteClickParameters, type HomeRoutePlacement } from '../src/components/TrackedHomeLink';
+import type { MouseEvent } from 'react';
+import {
+  getHomeRouteClickParameters,
+  TrackedHomeTabLink,
+  type HomeRoutePlacement,
+} from '../src/components/TrackedHomeLink';
 
 // Um exemplo por placement. O Record obriga a lista a ter todos os valores do tipo e só eles: um
 // placement novo, ou um que saiu do tipo, quebra o typecheck aqui.
@@ -29,4 +34,26 @@ for (const placement of Object.keys(examples) as HomeRoutePlacement[]) {
   });
 }
 
-console.log(`✅ homeRouteTracking: ${Object.keys(examples).length} placements passaram.`);
+// Link para a aba da vitrine: um <a> comum (com next/link o hash não dispara hashchange e o clique
+// não trocaria a aba), que mede o clique e não mede o que outro handler já cancelou.
+const tabLink = { href: '/#loja-damie', placement: 'event_hub', linkLabel: 'Ver o código da DAMIE' } as const;
+const element = TrackedHomeTabLink({ ...tabLink, children: 'Ver o código' });
+assert.equal(element.type, 'a');
+assert.equal(element.props.href, tabLink.href);
+
+const calls: unknown[][] = [];
+Object.assign(globalThis, { window: { gtag: (...args: unknown[]) => calls.push(args) } });
+const click = (defaultPrevented: boolean) =>
+  element.props.onClick?.({ defaultPrevented } as MouseEvent<HTMLAnchorElement>);
+try {
+  click(false);
+  assert.deepEqual(calls, [
+    ['event', 'home_route_click', { destination: '/#loja-damie', placement: 'event_hub', link_label: 'Ver o código da DAMIE' }],
+  ]);
+  click(true);
+  assert.equal(calls.length, 1, 'clique cancelado não é medido');
+} finally {
+  Reflect.deleteProperty(globalThis, 'window');
+}
+
+console.log(`✅ homeRouteTracking: ${Object.keys(examples).length} placements e o link das abas (<a> comum, clique medido, cancelado não) passaram.`);
