@@ -89,6 +89,7 @@ interface CouponBase {
   monthlyHighlight?: {
     scope: string;
     note: string;
+    showCheckoutReminder?: boolean;
   };
   affiliateAccountId?: string;
   referral?: CouponReferral;
@@ -142,18 +143,19 @@ export const COUPONS: Coupon[] = [
     discountNumber: 12,
     category: 'Móveis e decoração',
     hubCategory: 'casa',
-    shortDescription: 'todo o site DAMIE',
+    shortDescription: 'todos os produtos, com todas as formas de pagamento',
     longDescription:
-      'Código exclusivo da Cecília para economizar em compras no site da DAMIE.',
-    metaTitle: 'Cupom DAMIE 12% OFF • CECILIA12 ativo • Em Casa com Cecília',
+      'Use CECILIA12 para ganhar 12% OFF em todos os produtos do site da DAMIE, com qualquer forma de pagamento disponível no checkout.',
+    metaTitle: 'Cupom DAMIE CECILIA12: 12% OFF em todo o site',
     metaDescription:
-      'Cupom DAMIE confirmado para outubro de 2026: use CECILIA12 para 12% OFF em todo o site.',
+      'Cupom DAMIE CECILIA12: 12% OFF em todos os produtos do site e em todas as formas de pagamento disponíveis, inclusive Pix e cartão.',
     eligibleCategories:
-      'Todo o site DAMIE',
+      'Todos os produtos do site DAMIE',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
     reusable: 'Sim, sem limite de usos por CPF',
     shipping: 'Calculado separadamente, conforme política da loja',
-    combinable: 'Cumulativo com promoções e brindes vigentes; não cumulativo com outros cupons',
+    combinable:
+      'Soma com todas as promoções e descontos do site, inclusive os 10% do Pix e o desconto por quantidade dos consultores no WhatsApp; não soma com outro cupom nem com o giftback de 15%',
     lastVerified: '2026-10-01',
     testNote:
       'Aplicamos o CECILIA12 no checkout do site da DAMIE, e os 12% de desconto apareceram no resumo do pedido.',
@@ -163,12 +165,22 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom CECILIA12 funciona em todos os produtos da DAMIE?',
         answer:
-          'O cupom vale para compras no site da DAMIE. Se algum item tiver uma campanha especial com regra própria, o checkout informa antes da finalização.',
+          'Sim. O CECILIA12 dá 12% OFF em todos os produtos disponíveis no site da DAMIE, sem restrição de categoria ou modelo.',
+      },
+      {
+        question: 'O cupom CECILIA12 vale para Pix, cartão e outras formas de pagamento?',
+        answer:
+          'Sim. O CECILIA12 vale com todas as formas de pagamento disponíveis no checkout da DAMIE, incluindo Pix e cartão. O desconto de 12% não depende do meio de pagamento escolhido.',
+      },
+      {
+        question: 'O CECILIA12 soma com o desconto do Pix?',
+        answer:
+          'Sim. A DAMIE dá 10% de desconto no Pix, e o CECILIA12 soma com ele.',
       },
       {
         question: 'O cupom CECILIA12 é cumulativo com outras promoções?',
         answer:
-          'Sim. O CECILIA12 pode ser usado junto com as promoções e os brindes vigentes no site da DAMIE. A restrição é apenas à combinação com outro cupom: não é possível aplicar dois códigos no mesmo pedido. Confira o resumo do checkout antes de finalizar.',
+          'Sim. O CECILIA12 soma com todas as promoções e descontos do site da DAMIE, inclusive o desconto de 10% no Pix e o desconto por quantidade que os consultores dão pelo WhatsApp. Ele não soma com outro cupom nem com o giftback de 15%. Confira o resumo do checkout antes de finalizar.',
       },
       {
         question: 'O cupom inclui frete grátis?',
@@ -229,8 +241,9 @@ export const COUPONS: Coupon[] = [
       },
     ],
     monthlyHighlight: {
-      scope: 'em todo o site',
-      note: 'Funciona com Pix e cartão',
+      scope: 'em todos os produtos do site',
+      note: 'Válido com todas as formas de pagamento disponíveis na DAMIE, inclusive Pix e cartão',
+      showCheckoutReminder: false,
     },
   },
   {
@@ -787,7 +800,7 @@ export const COUPONS: Coupon[] = [
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable:
-      'Aceito em produtos com preço promocional e em pré-venda (teste de 02/10/2026); soma com outros cupons conforme regras da loja',
+      'Vale com todas as formas de pagamento e soma com o desconto de 5% do Pix; aceito em produtos com preço promocional e em pré-venda (teste de 02/10/2026); soma com outros cupons conforme regras da loja',
     lastVerified: '2026-10-02',
     testNote:
       'O MAUAD foi aceito num carrinho com um item em pré-venda e outro com preço promocional, com R$ 179,10 de desconto sobre R$ 3.582,10, e também num pedido de um único item de R$ 62,90.',
@@ -798,6 +811,11 @@ export const COUPONS: Coupon[] = [
         question: "O cupom MAUAD vale para todos os produtos da Let's Eat It?",
         answer:
           "O cupom MAUAD dá 5% OFF em compras no site da Let's Eat It. Se algum item ou campanha tiver regra própria, o checkout informa; confirme o desconto no resumo do pedido antes de finalizar.",
+      },
+      {
+        question: 'O cupom MAUAD vale no Pix e em outras formas de pagamento?',
+        answer:
+          "Sim. O MAUAD vale com todas as formas de pagamento da Let's Eat It e soma com o desconto de 5% que muitos produtos têm no Pix.",
       },
       {
         question: 'Por que o cupom se chama MAUAD?',
@@ -817,7 +835,7 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom MAUAD é cumulativo?',
         answer:
-          'No teste de 02/10/2026, o MAUAD foi aceito em produto que já estava com preço promocional e em item de pré-venda. A soma com outros cupons segue as regras da loja; o valor final do checkout é a referência.',
+          'O MAUAD soma com o desconto do Pix e, no teste de 02/10/2026, foi aceito em produto que já estava com preço promocional e em item de pré-venda. A soma com outros cupons segue as regras da loja; o valor final do checkout é a referência.',
       },
       {
         question: 'O link leva para a loja oficial?',
@@ -832,7 +850,7 @@ export const COUPONS: Coupon[] = [
     ],
     monthlyHighlight: {
       scope: 'no site oficial',
-      note: "Válido para compras no site oficial da Let's Eat It",
+      note: "Vale com todas as formas de pagamento no site oficial da Let's Eat It e soma com o desconto do Pix",
     },
     status: 'ativo',
     featured: false,

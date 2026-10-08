@@ -14,7 +14,7 @@ revisao_geral_ate: "2027-01-07"
 
 | Fato / Condição Comercial | Tipo | Fonte Canônica | Consultado Em | Rever Até | Escopo / Regras | Confiança |
 |---|---|---|---|---|---|---|
-| Cupom `CECILIA12`: 12% OFF em todo o site | condicao_comercial_volatil | `src/lib/couponsData.ts` (slug: `damie`) | 2026-10-07 | 2026-11-07 | Soma com promoções e brindes vigentes; não soma com outro cupom; sem limite de usos por CPF | Alta |
+| Cupom `CECILIA12`: 12% OFF em todo o site | condicao_comercial_volatil | `src/lib/couponsData.ts` (slug: `damie`) | 2026-10-08 | 2026-11-08 | Vale com todas as formas de pagamento. Soma com todas as promoções e descontos do site, inclusive os 10% do Pix e o desconto por quantidade dos consultores no WhatsApp; não soma com outro cupom nem com o giftback de 15% (Bruno, 2026-10-08); sem limite de usos por CPF | Alta |
 | Subdomínio DAMIE é dono da intenção | diretriz_arquitetura | `HANDOFF-LIFESTYLE-FASE-0.md` | 2026-08-13 | 2027-01-01 | Não criar campanhas massivas de linkagem comercial no domínio principal | Alta |
 | Links de cupom no site principal vão ao subdomínio | diretriz_arquitetura | `docs/CONTRATO-ARTIGO-AFILIADO.md`, seção 6 | 2026-10-07 | 2027-01-01 | Nunca linkar `/cupons/damie`; usar `https://damie.emcasacomcecilia.com/cupom-cecilia12` com UTM (`utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=<artigo>`) no texto e no CTA | Alta |
 | Brinde: carregador USB (tipo A e C) e porta-copos pretos nas poltronas reclináveis | condicao_comercial_volatil | Configurador de damie.com.br | 2026-10-07 | 2026-11-07 | Adicionado automaticamente ao carrinho | Média |
