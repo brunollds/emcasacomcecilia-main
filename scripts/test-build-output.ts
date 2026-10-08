@@ -532,6 +532,7 @@ const LATEST_SECTION = 'aria-labelledby="titulo-acabou-de-sair"';
 const LOWER_SECTIONS = ['titulo-receitas', 'titulo-explore-a-casa', 'titulo-ofertas-do-dia', 'titulo-ultimos-videos'];
 const WHATSAPP_LINK = /<a [^>]*href="https:\/\/chat\.whatsapp\.com\/[^"]+"[^>]*>/;
 const hrefOf = (url: string) => `href="${url.replace(/&/g, '&amp;')}"`;
+const COPY_LABELS = getCouponCopyLabels('pt');
 
 // O trecho do HTML de `start` até o primeiro dos `ends` que vem depois dele (ou até o fim).
 function between(html: string, start: string, ends: string[]) {
@@ -541,12 +542,17 @@ function between(html: string, start: string, ends: string[]) {
   return html.slice(from, Number.isFinite(to) ? to : undefined);
 }
 
+// Um painel da vitrine (`cecilia` ou `loja-<slug>`): vai até o próximo painel ou até o "Acabou de sair".
+const panelIn = (html: string, id: string) => between(html, `id="painel-${id}"`, ['id="painel-loja-', LATEST_SECTION]);
+// Os textos de cada <span> sem filhos, para conferir código, oferta e dica sem pegar o título de um artigo.
+const spanTexts = (html: string) => [...html.matchAll(/<span\b[^>]*>([^<]*)<\/span>/g)].map(([, text]) => decodeHtml(text));
+
 function homeProblems(body: string, expected: HomeExpectations): string[] {
   const problems: string[] = [];
   const check = (ok: boolean, message: string) => {
     if (!ok) problems.push(message);
   };
-  const panelOf = (id: string) => between(body, `id="painel-${id}"`, ['id="painel-loja-', LATEST_SECTION]);
+  const panelOf = (id: string) => panelIn(body, id);
 
   // Painel da Cecília: "Mais sobre mim", o grupo de WhatsApp em outra aba e os números, nessa ordem.
   const cecilia = panelOf('cecilia');
@@ -563,12 +569,34 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
     'painel da Cecília: o grupo de WhatsApp fora do lugar (depois de "Mais sobre mim", antes dos números)'
   );
 
-  // Um painel por loja ativa, com o título do código e o link da página da loja.
+  // Um painel por loja ativa, inteiro: título, código com a dica e o rótulo exato do botão de copiar,
+  // oferta, os dois links e a lista de artigos (ou o aviso de loja sem artigo).
   for (const tab of expected.tabs) {
     const panel = panelOf(`loja-${tab.slug}`);
+    const spans = spanTexts(panel);
     const title = panel.match(new RegExp(`<h2 id="titulo-loja-${tab.slug}"[^>]*>([^<]*)</h2>`))?.[1];
     check(title !== undefined && decodeHtml(title) === tab.label, `painel ${tab.slug}: título diferente de "${tab.label}"`);
     check(panel.includes(hrefOf(tab.storePageUrl)), `painel ${tab.slug}: sem o link de ${tab.storePageUrl}`);
+    if (tab.code) {
+      check(spans.includes(tab.code), `painel ${tab.slug}: sem o código`);
+      check(spans.includes(tab.hints.copy), `painel ${tab.slug}: sem a dica de copiar`);
+      const copyLabel = COPY_LABELS.copyCoupon(tab.code);
+      check(panel.includes(`aria-label="${copyLabel}"`), `painel ${tab.slug}: botão de copiar sem o rótulo "${copyLabel}"`);
+    }
+    check(spans.includes(tab.discount), `painel ${tab.slug}: sem a oferta "${tab.discount}"`);
+    check(panel.includes(hrefOf(tab.storeUrl)), `painel ${tab.slug}: sem o link da loja`);
+    for (const article of tab.articles) {
+      check(panel.includes(hrefOf(article.href)), `painel ${tab.slug}: sem o artigo ${article.href}`);
+    }
+    if (tab.articles.length === 0) {
+      check(textOf(panel).includes(tab.emptyText), `painel ${tab.slug}: loja sem artigo e sem o aviso`);
+    }
+    if (tab.allArticles) {
+      check(panel.includes(hrefOf(tab.allArticles.href)), `painel ${tab.slug}: sem o link ${tab.allArticles.href}`);
+      check(textOf(panel).includes(tab.allArticles.label), `painel ${tab.slug}: sem "${tab.allArticles.label}"`);
+    } else {
+      check(!panel.includes('href="/reviews/loja/'), `painel ${tab.slug}: link para os artigos de uma loja que não tem a subpágina`);
+    }
   }
   check(
     (body.match(/id="painel-loja-/g) ?? []).length === expected.tabs.length,
@@ -576,7 +604,8 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
   );
   const yesStyle = textOf(panelOf('loja-yesstyle'));
   check(yesStyle.includes('Código de recompensa') && !yesStyle.includes('Cupom YesStyle'), 'painel da YesStyle: o CECILIA010 sem o rótulo de recompensa');
-  check(textOf(panelOf('loja-shein')).includes('Código de indicação'), 'painel da SHEIN: sem "Código de indicação"');
+  const shein = textOf(panelOf('loja-shein'));
+  check(shein.includes('Código de indicação') && !shein.includes('Cupom SHEIN'), 'painel da SHEIN: o 4CW5Y sem o rótulo de indicação');
   check(textOf(panelOf('loja-nestle-nutre')).includes('fórmulas infantis de 0 a 12 meses'), 'painel da Nestlé Nutre: sem a exclusão das fórmulas infantis');
 
   // "Acabou de sair": os 5 mais novos e o link para /reviews, sem código e sem botão de copiar.
@@ -585,10 +614,13 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
   for (const article of expected.latest) {
     check(latest.includes(hrefOf(article.href)), `Acabou de sair: sem ${article.href}`);
   }
-  // Cada artigo aparece em dois desenhos (celular e tela larga): conta os links distintos.
+  // Cada artigo aparece em dois desenhos, a lista do celular e depois a grade da tela larga, os dois na
+  // ordem dos dados: os links, sem contar o mesmo duas vezes seguidas, são a lista esperada duas vezes.
+  const latestLinks = (latest.match(/href="\/reviews\/[^"]+"/g) ?? []).filter((link, index, all) => link !== all[index - 1]);
+  const latestHrefs = expected.latest.map((article) => hrefOf(article.href));
   check(
-    new Set(latest.match(/href="\/reviews\/[^"]+"/g) ?? []).size === expected.latest.length,
-    `Acabou de sair: artigos diferentes dos ${expected.latest.length} mais novos`
+    latestLinks.join(' ') === [...latestHrefs, ...latestHrefs].join(' '),
+    `Acabou de sair: artigos ou ordem diferentes dos ${expected.latest.length} mais novos, no celular ou na tela larga`
   );
   check(latest.includes('href="/reviews"'), 'Acabou de sair: sem o link para /reviews');
   check(!/<button\b|font-codigo/.test(latest), 'Acabou de sair: com código ou botão de copiar');
@@ -631,7 +663,8 @@ const homeBody = bodyOf(read(homeFile));
 const homeExpected: HomeExpectations = {
   tabs: getHomeStoreTabs(publishedReviews),
   latest: getHomeLatest(publishedReviews),
-  hasEvent: resolveActiveHomeEvent(homeEventsConfig, publishedReviews, new Date()) !== null,
+  // A faixa da data vale pela hora em que a página foi gerada, não pela de agora.
+  hasEvent: resolveActiveHomeEvent(homeEventsConfig, publishedReviews, fs.statSync(homeFile).mtime) !== null,
   recipeCount: recipes.length,
 };
 assert.equal(
@@ -641,10 +674,30 @@ assert.equal(
 );
 assert.deepEqual(homeProblems(homeBody, homeExpected), [], '/: home');
 
+type HomeTab = HomeExpectations['tabs'][number];
+
+// Muda só o painel de uma loja: o "Acabou de sair" repete os links de artigo e a mutação não pode pegá-lo.
+// A loja vem dos dados de hoje; sem nenhuma que sirva (como uma loja sem artigo), não há o que mutar.
+function mutateStorePanel(find: (tab: HomeTab) => boolean, change: (panel: string, tab: HomeTab) => string): string[] {
+  const tab = homeExpected.tabs.find(find);
+  if (!tab) return [];
+  const panel = panelIn(homeBody, `loja-${tab.slug}`);
+  return [homeBody.replace(panel, () => change(panel, tab))];
+}
+
+// Os links de artigo do "Acabou de sair" na ordem do HTML: primeiro a lista do celular, depois a grade.
+const latestStart = homeBody.indexOf(LATEST_SECTION);
+const articleLinks = [...homeBody.matchAll(/href="\/reviews\/[^"]+"/g)].filter((link) => link.index > latestStart);
+const latestCount = homeExpected.latest.length;
+const replaceLink = (link: RegExpMatchArray, text: string) =>
+  homeBody.slice(0, link.index) + text + homeBody.slice(link.index + link[0].length);
+const swapLinks = (first: RegExpMatchArray, second: RegExpMatchArray) =>
+  homeBody.slice(0, first.index) + second[0] + homeBody.slice(first.index + first[0].length, second.index) + first[0] + homeBody.slice(second.index + second[0].length);
+
 // O guarda acima recusa a home errada: cada mutação abaixo precisa achar o trecho e dar problema.
 const brokenHomes = [
   homeBody.replace('>Código de recompensa YesStyle<', '>Cupom YesStyle<'),
-  homeBody.replace(/<a target="_blank" rel="noopener noreferrer"([^>]*href="https:\/\/chat\.whatsapp\.com)/, '<a$1'),
+  homeBody.replace(WHATSAPP_LINK, (tag) => tag.replace(' target="_blank"', '').replace(' rel="noopener noreferrer"', '')),
   homeBody.split(hrefOf(homeExpected.latest[0].href)).join('href="/outra"'),
   homeBody.replace(LATEST_SECTION, `${LATEST_SECTION}><button>Copiar</button`),
   homeBody.replace('aria-labelledby="titulo-receitas"', 'aria-labelledby="titulo-outra"'),
@@ -664,6 +717,32 @@ const brokenHomes = [
   })(),
   homeBody.replace(LATEST_SECTION, `id="painel-loja-inativa" ${LATEST_SECTION}`),
   homeBody.replace(LATEST_SECTION, `${LATEST_SECTION}><a href="/reviews/artigo-a-mais"></a`),
+  homeBody.replace('id="painel-loja-shein"', 'id="painel-loja-shein"><span>Cupom SHEIN</span'),
+  // Fora de ordem ou sem um artigo em só um dos desenhos: a lista do celular e a grade da tela larga.
+  swapLinks(articleLinks[0], articleLinks[1]),
+  swapLinks(articleLinks[latestCount], articleLinks[latestCount + 1]),
+  replaceLink(articleLinks[2 * latestCount - 1], 'href="/outra"'),
+  // O painel de uma loja por inteiro, uma mutação por trava: o rótulo do botão de copiar (a YesStyle
+  // não tem cupom), o código, a dica, a oferta, os dois links, o aviso de loja sem artigo e o "Ver os N artigos".
+  ...mutateStorePanel(
+    (tab) => tab.slug === 'yesstyle',
+    (panel) => panel.replace(`aria-label="${COPY_LABELS.copyCoupon(rewardCode)}"`, `aria-label="Copiar o cupom ${rewardCode}"`)
+  ),
+  ...mutateStorePanel((tab) => !!tab.code, (panel, tab) => panel.replace(`>${tab.code}</span>`, '>OUTRO</span>')),
+  ...mutateStorePanel((tab) => !!tab.code, (panel, tab) => panel.replace(`>${tab.hints.copy}</span>`, '>Outra dica.</span>')),
+  ...mutateStorePanel(() => true, (panel, tab) => panel.replace(`>${tab.discount}</span>`, '>Outra oferta</span>')),
+  ...mutateStorePanel(() => true, (panel, tab) => panel.replace(hrefOf(tab.storeUrl), 'href="/outra"')),
+  ...mutateStorePanel(
+    (tab) => tab.articles.length > 0,
+    (panel, tab) => panel.split(hrefOf(tab.articles[0].href)).join('href="/outra"')
+  ),
+  ...mutateStorePanel((tab) => tab.articles.length === 0, (panel, tab) => panel.replace(tab.emptyText, '')),
+  ...mutateStorePanel((tab) => !!tab.allArticles, (panel, tab) => panel.replace(tab.allArticles.label, 'Ver os artigos')),
+  ...mutateStorePanel((tab) => !!tab.allArticles, (panel, tab) => panel.replace(hrefOf(tab.allArticles.href), 'href="/outra"')),
+  ...mutateStorePanel(
+    (tab) => !tab.allArticles,
+    (panel, tab) => panel.replace(`id="painel-loja-${tab.slug}"`, `id="painel-loja-${tab.slug}"><a href="/reviews/loja/x"></a`)
+  ),
 ];
 for (const broken of brokenHomes) {
   assert.notEqual(broken, homeBody, 'a mutação do autoteste da home não achou o trecho');
@@ -692,10 +771,11 @@ for (const slug of storeArticleSlugs) {
 // "Ver o código" levando à aba da loja na vitrine.
 const eventHubPaths = getEventHubPaths(homeEventsConfig, publishedReviews);
 for (const hubPath of eventHubPaths) {
-  const page = getEventHubPage(homeEventsConfig, publishedReviews, hubPath.slice(1), new Date());
-  assert.ok(page, `${hubPath}: sem edição`);
   const file = builtFile(`${SITE_URL}${hubPath}`);
   assert.ok(file, `${hubPath}: página não gerada no build`);
+  // Como na home: a data vale pela hora em que a página foi gerada.
+  const page = getEventHubPage(homeEventsConfig, publishedReviews, hubPath.slice(1), fs.statSync(file).mtime);
+  assert.ok(page, `${hubPath}: sem edição`);
   const html = read(file);
   const body = bodyOf(html);
   assert.equal(headOf(html).match(/<link rel="canonical" href="([^"]+)"/)?.[1], `${SITE_URL}${hubPath}`, `${hubPath}: canonical`);
