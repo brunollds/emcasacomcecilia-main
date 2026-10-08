@@ -71,10 +71,12 @@ assert.match(recipesHtml, /href="\/receitas"[^>]*>Ver todas as receitas</);
 for (const item of fallback) {
   assert.ok(recipesHtml.includes(`href="/receitas/${item.slug}"`));
   assert.ok(recipesText.includes(getRecipePrimaryCategory(item)), `categoria de ${item.slug}`);
+  assert.ok(recipesText.includes(item.title), `título de ${item.slug}`);
 }
 assert.equal(count(recipesHtml, /view-transition-name:recipe-hero-/g), 4, 'a foto do card vai até o topo da receita');
 assert.equal(count(recipesHtml, /<img[^>]* alt=""/g), 4, 'a foto é decorativa: o título está no link');
-assert.ok(!/[\s"]animate-slide-up/.test(recipesHtml), 'a entrada só anima com motion-safe');
+assert.ok(recipesHtml.includes('motion-safe:animate-[slide-up_0.5s_ease-out_backwards]'), 'a entrada dos cards fica, com motion-safe');
+assert.ok(!recipesHtml.includes('animate-slide-up'), 'sem a classe que ignora o movimento reduzido');
 assert.ok(!recipesText.includes('Receitas Favoritas') && !recipesText.includes('Mais Amadas'), 'o visual antigo saiu');
 
 const notPopular = recipes.find(({ isPopular }) => !isPopular);
