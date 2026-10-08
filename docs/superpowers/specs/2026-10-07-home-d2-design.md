@@ -49,8 +49,8 @@ Pedidos dele que a especificação segue à risca:
     mostrar o percentual (15%), e a página da loja muda em outra sessão;
   - a Nestlé Nutre mantém a exclusão de Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses;
   - MAUAD não ganha destaque fora do próprio código;
-  - o site principal não linka `/cupons/damie`: o link do código da DAMIE vai ao subdomínio
-    (dossiê `01_Parceiros/DAMIE.md`).
+  - "Ver a página da loja" leva a `/cupons/{slug}` em toda loja, a DAMIE inclusive: o menu já
+    linka o subdomínio da DAMIE, e a vitrine traz tráfego para `/cupons/damie` (decisão F).
 
 ## Ordem das seções
 
@@ -114,7 +114,7 @@ O grupo de WhatsApp não entra aqui: a aba da Cecília não abre sozinha, e o gr
 | `discount`, `description` | `discount` e `shortDescription`, em duas linhas, como nos cards de `/cupons` (`CouponCards.tsx`, que passa a descrição por `asSentence`). Magalu, Insider e Nutre já trazem o texto certo nesses campos |
 | `hints` | `getCodeHints(...)`: "Copie antes de ir para a loja." e, depois de copiar, "Cole no campo correto do checkout."; para a SHEIN, "Copie e pesquise no aplicativo SHEIN." |
 | `storeUrl` | `offerUrl` da loja, com os UTMs que já estão nos dados (Let's Eat It/Inbazz) |
-| `storePageUrl` | `/cupons/{slug}`. Na DAMIE, a página do código no subdomínio: o dossiê `01_Parceiros/DAMIE.md` (07/10) proíbe linkar `/cupons/damie` do site principal. O campo novo `storePageUrl` de `couponsData.ts`, que só a DAMIE usa, guarda o endereço com a UTM do dossiê (`https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12`), e a montagem acrescenta o `utm_content` do lugar do link: `home` na vitrine e `reviews-loja` na subpágina |
+| `storePageUrl` | `/cupons/{slug}` em toda loja (`getCouponStorePath`), a DAMIE inclusive (decisão F) |
 | `articles` | até 3 artigos da loja, sem código: título, `type`, imagem e link (o canvas não mostra data na lista da loja) |
 | `total`, `allArticlesPath` | o total de artigos da loja e `/reviews/loja/{slug}` (ver "Todos os artigos de uma loja") |
 
@@ -229,7 +229,7 @@ então a subpágina usa o card de hoje e muda junto com ela.
   mais novo para o mais antigo), numa função de `homeStores.ts` que a vitrine e a subpágina usam.
   Tudo no servidor; nenhum componente cliente novo.
 - **Tela:** o título "Artigos da DAMIE" (`h1`), o total, o link "Ver o código da DAMIE" para
-  a página da loja (`storePageUrl`, que na DAMIE é o subdomínio com `utm_content=reviews-loja`; o código continua lá e na vitrine), os cards e "Ver todos os guias
+  a página da loja (`storePageUrl`, `/cupons/{slug}`; o código continua lá e na vitrine), os cards e "Ver todos os guias
   e análises" para `/reviews`. O card de hoje sai de `ReviewsClientPage.js` para um componente
   próprio, `ReviewHubCard.tsx`, usado pelas duas páginas.
 - **Busca:** título "DAMIE: guias e análises - Em Casa com Cecília", descrição com a loja e o
@@ -453,7 +453,7 @@ placements das seções que saem (`home_featured_guides`, `home_review_categorie
   - Nutre com a exclusão no detalhe;
   - SHEIN sem artigo;
   - no máximo 3 artigos por loja, sem campo de código, e o `total` e o `allArticlesPath` certos;
-  - a página da loja da DAMIE é o subdomínio, nunca `/cupons/damie`;
+  - a página da loja de toda aba é `/cupons/{slug}`, a da DAMIE inclusive;
   - os 5 do "Acabou de sair".
 - **`test:home-stores`** (Fase 2b, ampliado): as lojas da subpágina são as ativas com artigo, a
   SHEIN fica de fora enquanto não tiver, e nenhuma review tem o slug `loja`.
@@ -466,7 +466,7 @@ placements das seções que saem (`home_featured_guides`, `home_review_categorie
   - no painel da YesStyle, "Código de recompensa" e nenhum "Cupom YesStyle";
   - no da SHEIN, "Código de indicação";
   - no da Nutre, a exclusão das fórmulas infantis;
-  - nenhum link para `/cupons/damie`, na home e nas subpáginas.
+  - o painel da DAMIE e a subpágina da DAMIE linkam `/cupons/damie`.
 
   A conferência que já existe para toda página que cita o CECILIA010 passa a cobrir a home sozinha.
 - **`test:client-bundle`**: nem o componente da vitrine nem o card extraído de `/reviews` podem
@@ -533,3 +533,8 @@ Respondidas depois da revisão do código:
 - **D.** A curadoria "Escolha da Cecília" sai na Fase 6b, com o `HomeEditorialPick` e o teste.
 - **E.** A Fase 0 vai ao ar sozinha. Foi em 07/10 (PR #37). A oferta da YesStyle não precisava mudar
   antes: o build só para a partir de 08/10 às 21h.
+- **F.** (08/10, depois da Fase 1) A vitrine leva a `/cupons/damie`, como as outras lojas. O menu
+  já linka o subdomínio da DAMIE, e o `/cupons/damie` tem tráfego e é usado pelo Google nas
+  respostas de IA. Os links `/cupons/damie` dos artigos `damie-reclame-aqui-o-que-os-dados-mostram`
+  e `sofa-damie-modular-vale-a-pena` também ficam. Para a vitrine, isso substitui a regra do dossiê
+  `01_Parceiros/DAMIE.md` de 07/10.

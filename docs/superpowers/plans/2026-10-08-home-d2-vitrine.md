@@ -39,9 +39,9 @@ ganham planos próprios quando chegarmos nelas, escritos sobre o código que exi
   - a Insider mostra o desconto que estiver em `couponsData.ts`: desde 07/10 o Bruno decidiu
     mostrar o percentual (15%), e a página da loja muda em outra sessão;
   - a Nestlé Nutre mantém a exclusão das fórmulas infantis de 0 a 12 meses;
-  - o site principal nunca linka `/cupons/damie`: o link da página do código da DAMIE vai a
-    `https://damie.emcasacomcecilia.com/cupom-cecilia12` com a UTM do dossiê
-    (`utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=<lugar>`).
+  - "Ver a página da loja" leva a `/cupons/<slug>` em toda loja, a DAMIE inclusive: o menu já
+    linka o subdomínio da DAMIE, e a vitrine traz tráfego para `/cupons/damie` (decisão do Bruno
+    em 08/10, que para a vitrine substitui a regra do dossiê de 07/10).
 - Os rótulos de código vêm de `getCodeTitle` e `getCodeHints` (`src/components/review/sidebarCopy.ts`),
   e o botão de copiar é o `CopyCodeButton` de `CouponActions.tsx`, com os rótulos de
   `getCouponCopyLabels('pt')`. Nenhum texto de código solto no JSX.
@@ -67,7 +67,7 @@ ganham planos próprios quando chegarmos nelas, escritos sobre o código que exi
 |---|---|---|
 | `src/lib/homeStoreTabs.ts` (novo) | 1 | Tipos da vitrine e as regras que o navegador usa: âncora e hash de cada aba, aba padrão, ordem das abas, parâmetros do evento `home_store_select`. Sem dados |
 | `src/lib/homeStores.ts` (novo) | 1 | Servidor: abas das lojas, artigos por loja, link da página do código, dados da subpágina, "Acabou de sair" e números das redes |
-| `src/lib/couponsData.ts` | 1 | Campo `storePageUrl` (só a DAMIE) |
+| `src/lib/couponsData.ts` | 1 | Campo `storePageUrl`, posto na Task 2 e tirado na 4b: sem mudança líquida |
 | `scripts/test-home-stores.ts` (novo) | 1, 2b | Teste da Fase 1, ampliado na 2b |
 | `package.json` | 1 | Script `test:home-stores` e entrada na cadeia do `build` |
 | `src/components/coupons/CouponActions.tsx` | 2a | `CopyPlacement` ganha `home_store_banner` |
@@ -247,6 +247,8 @@ Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
 
 ### Task 2: link da página do código (`storePageUrl` e `getStorePageUrl`)
 
+> Desfeita pela Task 4b (decisão do Bruno em 08/10): a vitrine leva a `/cupons/damie`.
+
 **Files:**
 - Modify: `src/lib/couponsData.ts` (interface `CouponBase` e a entrada da DAMIE, perto da linha 130)
 - Create: `src/lib/homeStores.ts`
@@ -353,6 +355,8 @@ Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
 ```
 
 ### Task 3: abas das lojas e artigos por loja
+
+> A Task 4b troca `getStorePageUrl` por `getCouponStorePath(store.slug, 'pt')` nas duas montagens.
 
 **Files:**
 - Modify: `src/lib/homeStores.ts`
@@ -825,6 +829,107 @@ Expected: tudo verde (o campo novo é opcional e só a DAMIE o usa).
 ```bash
 git add src/lib/homeStores.ts scripts/test-home-stores.ts
 git commit -m "feat: dados do Acabou de sair e dos números das redes da Cecília
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
+```
+
+- [ ] **Step 7:** seguir para a Task 4b.
+
+### Task 4b: a vitrine leva a `/cupons/damie`, como as outras lojas
+
+Decisão do Bruno em 08/10, depois da Fase 1: o menu já linka o subdomínio da DAMIE, então a
+vitrine traz tráfego para `/cupons/damie`. O campo `storePageUrl` de `couponsData.ts` (Task 2)
+perde o único uso e sai; a página de cada loja vem de `getCouponStorePath(slug, 'pt')`
+(`src/lib/couponTranslations.ts`), que já dá `/cupons/<slug>`.
+
+**Files:**
+- Modify: `src/lib/couponsData.ts` (tira o campo e o valor da DAMIE que a Task 2 pôs)
+- Modify: `src/lib/homeStores.ts`
+- Test: `scripts/test-home-stores.ts`
+
+**Interfaces:**
+- Consumes: `getCouponStorePath(slug: string, locale: Locale)` de `couponTranslations.ts`.
+- Removes: `StorePagePlacement` e `getStorePageUrl` (`homeStores.ts`); `storePageUrl?` da
+  `CouponBase`. O campo `storePageUrl` de `HomeStoreTab` e do retorno de `getStoreArticlesPage`
+  fica, agora sempre `/cupons/<slug>`; as Tasks 7 e 9 seguem lendo `tab.storePageUrl` e
+  `page.storePageUrl`.
+
+- [ ] **Step 1: trocar as travas do teste**
+
+Em `scripts/test-home-stores.ts`:
+
+1. Tirar `getStorePageUrl,` do import de `@/lib/homeStores`.
+2. Apagar o bloco que começa em `// A DAMIE leva à página do código no subdomínio` (o comentário,
+   a constante `DAMIE_CODE_PAGE` e as quatro asserções de `getStorePageUrl`).
+3. Logo depois de `assert.equal(tab('damie').code, 'CECILIA12');`, acrescentar:
+
+```ts
+// O menu já linka o subdomínio da DAMIE; a vitrine traz tráfego para /cupons/damie (Bruno, 08/10).
+assert.equal(tab('damie').storePageUrl, '/cupons/damie');
+```
+
+4. No laço das abas, trocar a linha
+   ``assert.ok(!current.storePageUrl.includes('/cupons/damie'), `${current.slug}: nunca /cupons/damie`);``
+   por:
+
+```ts
+  assert.equal(current.storePageUrl, `/cupons/${current.slug}`, `${current.slug}: página da loja em /cupons`);
+```
+
+5. Na subpágina, trocar
+   `assert.equal(damiePage.storePageUrl, getStorePageUrl(store('damie'), 'reviews-loja'));` por:
+
+```ts
+assert.equal(damiePage.storePageUrl, '/cupons/damie');
+```
+
+- [ ] **Step 2: rodar e ver falhar**
+
+Run: `npm run test:home-stores`
+Expected: FAIL na asserção `tab('damie').storePageUrl` (hoje é o subdomínio com UTM).
+
+- [ ] **Step 3: implementar**
+
+Em `src/lib/homeStores.ts`:
+- acrescentar `import { getCouponStorePath } from '@/lib/couponTranslations';` junto dos outros
+  imports de `@/lib`;
+- apagar `export type StorePagePlacement = 'home' | 'reviews-loja';` e a função
+  `getStorePageUrl` inteira;
+- em `getHomeStoreTabs`, `storePageUrl: getStorePageUrl(store, 'home'),` vira
+  `storePageUrl: getCouponStorePath(store.slug, 'pt'),`;
+- em `getStoreArticlesPage`, `storePageUrl: getStorePageUrl(store, 'reviews-loja'),` vira
+  `storePageUrl: getCouponStorePath(store.slug, 'pt'),`.
+
+Em `src/lib/couponsData.ts`:
+- na `CouponBase`, apagar as três linhas do campo (o comentário de duas linhas que começa em
+  `// Página do código fora de /cupons` e `storePageUrl?: string;`);
+- na entrada da DAMIE, apagar `storePageUrl:` e a linha do endereço do subdomínio logo abaixo.
+
+Depois disso, `couponsData.ts` volta a ser igual ao da `main`:
+`git diff 58d175d -- src/lib/couponsData.ts` não mostra nada.
+
+- [ ] **Step 4: rodar e ver passar**
+
+Run: `npm run test:home-stores && npm run typecheck && npx eslint --quiet src/lib/homeStores.ts src/lib/couponsData.ts scripts/test-home-stores.ts`
+Expected: ✅, `tsc` e ESLint sem erro.
+
+Run: `git grep -n "getStorePageUrl\|StorePagePlacement\|storePageUrl?\|damie.emcasacomcecilia.com/cupom-cecilia12" -- src/lib/couponsData.ts src/lib/homeStores.ts scripts/test-home-stores.ts`
+Expected: nada (os artigos seguem com os próprios links do subdomínio no `content-index.ts`, que esta tarefa não toca).
+
+- [ ] **Step 5: conferir que nada mais mudou**
+
+Run: `npm run validate:content && npm run test:coupon-offer-modes && npm run test:internal-links`
+Expected: tudo verde.
+
+- [ ] **Step 6: commit**
+
+```bash
+git add src/lib/couponsData.ts src/lib/homeStores.ts scripts/test-home-stores.ts
+git commit -m "fix: vitrine leva a /cupons/damie, como as outras lojas
+
+O menu já linka o subdomínio da DAMIE; o Bruno decidiu em 08/10 que a vitrine
+traz tráfego para /cupons/damie. Sai o campo storePageUrl de couponsData.ts e a
+página de cada loja vem de getCouponStorePath.
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
 ```
@@ -1639,8 +1744,8 @@ grep -c 'Código de recompensa YesStyle' $f
 grep -c 'Cupom YesStyle' $f                   # 0
 grep -c 'Código de indicação SHEIN' $f
 grep -c 'exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses' $f
-grep -o 'href="[^"]*cupons/damie"' $f | wc -l  # 0
-grep -o 'cupom-cecilia12?utm_source=site-principal&amp;utm_medium=blog&amp;utm_campaign=cecilia12&amp;utm_content=home' $f | wc -l   # 1
+grep -o 'href="[^"]*cupons/damie"' $f | wc -l  # 1 (o "Ver a página da loja" do painel da DAMIE)
+grep -c 'utm_content=home' $f                # 0 (a vitrine não leva mais a UTM ao subdomínio)
 ```
 
 Expected: os números dos comentários. O painel da DAMIE é o único sem `hidden`.
@@ -2016,7 +2121,7 @@ Expected: uma linha por loja com artigo (hoje 8, sem a SHEIN):
 - `h1` "Artigos da …" ("do Magalu");
 - `cards` igual ao total da loja (DAMIE 14, Dolce Gusto 15…);
 - canonical `https://emcasacomcecilia.com/reviews/loja/<slug>`;
-- `cupons_damie=0`.
+- `cupons_damie=1` na DAMIE (o "Ver o código da DAMIE") e 0 nas outras.
 
 `.next/server/app/reviews/loja/shein.html` não existe.
 
@@ -2024,7 +2129,7 @@ Expected: uma linha por loja com artigo (hoje 8, sem a SHEIN):
 
 No preview:
 - `/reviews/loja/damie` mostra "Artigos da DAMIE" e 14 cards, e o link "Ver o código da DAMIE"
-  aponta para o subdomínio com `utm_content=reviews-loja`;
+  aponta para `/cupons/damie`;
 - `/reviews/loja/shein` e `/reviews/loja` dão 404;
 - na home, "Ver os 14 artigos da DAMIE" abre a subpágina;
 - `/reviews` segue igual, com filtro e "Carregar mais".
@@ -2055,7 +2160,7 @@ Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
 | Até 3 artigos, sem código; `total`; "Ver os N artigos" acima de 3 | Task 3, Task 7 |
 | 0 artigo (SHEIN): aviso no lugar da lista; 1 artigo: sem segmentos, setas e contador | Task 3, Task 7 |
 | DAMIE abre ao entrar; `/#loja-…` e `/#cecilia`; hash desconhecido ignorado | Task 1, Task 7 |
-| Página do código da DAMIE no subdomínio, nunca `/cupons/damie` | Task 2, Task 3, Task 7 (passo 5), Task 9 (passo 7) |
+| Página da loja de cada aba em `/cupons/<slug>`, a DAMIE inclusive (Bruno, 08/10) | Task 4b, Task 7 (passo 5), Task 9 (passo 7) |
 | Padrão de abas (setas, Home, End), alvos de 44 px, foco visível | Task 7 |
 | Painéis no HTML do servidor, escondidos com `hidden`; imagens dos escondidos sem carregar | Task 7 |
 | Movimento (entrada, brilho ao copiar, hovers) e os efeitos do hero de hoje, com `motion-safe` | Task 6, Task 7 |
