@@ -7,7 +7,6 @@
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
-- [ ] [[black-friday-letseatit]] — Let's Eat It / Black Friday 2026, mesma faixa; publicar até 31/10 (Score Aut: 55 / Conv: 75)
 
 ---
 
@@ -21,6 +20,7 @@
 *Em auditoria pelo Job-3.*
 - [ ] [[black-friday-dolce-gusto]] — Dolce Gusto / Black Friday 2026, para a faixa da home D2 e a `/black-friday` (JSON em 08/10/2026, `dfa0e40`; revisão do Bruno no localhost; preços e status reconferidos antes de publicar, até 31/10)
 - [ ] [[black-friday-damie]] — DAMIE / Black Friday 2026, mesma faixa (JSON em 08/10/2026; revisão do Bruno no localhost; preços, brindes e status reconferidos antes de publicar, até 31/10)
+- [ ] [[black-friday-letseatit]] — Let's Eat It / Black Friday 2026, mesma faixa (JSON em 08/10/2026; revisão do Bruno no localhost; preços, banners e status reconferidos antes de publicar, até 31/10)
 
 ---
 

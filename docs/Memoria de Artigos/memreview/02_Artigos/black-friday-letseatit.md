@@ -6,9 +6,9 @@ parceiro: "[[Lets-Eat-It]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "em-revisao"
+responsavel: "Bruno"
+proxima_acao: "revisar no localhost; antes de publicar, reconferir preços, banners e o status da campanha no site"
 bloqueado_por: null
 score_autoridade: 55
 score_conversao: 75
@@ -81,7 +81,7 @@ presentes de Natal, sempre pela Let's Eat It.
 ---
 
 ## 5. Mídia & Planejamento Visual
-- **Imagem Principal (Hero):** print da home ou da vitrine da Let's Eat It em 16:9, como as capas atuais da loja (decisão do Bruno em 08/10). Capturar no fim de outubro, ou com o banner de Black Friday quando a loja publicar. Nome novo em `public/images/reviews/letseatit/`.
+- **Imagem Principal (Hero):** print da home da Let's Eat It em 16:9, como as capas atuais da loja (decisão do Bruno em 08/10). Feito em 08/10/2026 (Edge headless, 1600×900): banner Natal Let's e as faixas de cashback e Porto Brasil. Refazer, com nome novo, se a loja publicar banner de Black Friday antes da publicação.
 - **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md).
 - **Imagens Inline:** opcional, a grade de marcas já publicada (`lets-eat-it-marcas-linhas.webp`).
 - **Vídeo:** Nenhum.
@@ -94,7 +94,12 @@ presentes de Natal, sempre pela Let's Eat It.
 |---|---|---|---|---|---|
 | A Black Friday é em 27/11/2026 e a Cyber Monday em 30/11 | Calendário | Última sexta de novembro | — | 2026-10-08 | [x] Sim |
 | Não há anúncio oficial de Black Friday da Let's Eat It nos anos anteriores | Ausência verificada | Busca de 08/10/2026 (só sites de cupom) | — | 2026-10-08 | [x] Sim, como "não encontramos" |
-| Banners de 08/10: cashback de 30%, Porto Brasil com até 60% OFF, 5% no Pix, outlet | Condição comercial | Home de letseatit.com.br | Banners | 2026-10-08 | [x] Sim, com a data; reconsultar no fim de outubro |
+| Banners de 08/10: Natal Let's, cashback de 30%, Porto Brasil com até 60% OFF, nova cor Le Creuset; 5% no Pix na página do produto | Condição comercial | Home e página de produto de letseatit.com.br | Banners | 2026-10-08 | [x] Sim, com a data; reconsultar no fim de outubro |
+| Le Creuset quase toda pelo preço cheio (só 62 de 1.396 variantes com preço riscado); promoções de 15% a 33% numa seleção de peças e cores; preços cheios: Redonda Signature 20 cm R$ 2.329, 24 cm R$ 2.949, 26 cm R$ 3.089, Oval 31 cm R$ 3.399, Molheira 18 cm R$ 2.299, Skillet 26 cm R$ 1.739, caneca 400 ml R$ 189, Mini Cocotte R$ 239 | Preço volátil | Catálogo da loja (`/collections/le-creuset/products.json` e `/collections/promocao-le-creuset/products.json`) | — | 2026-10-08 | [x] Sim, com a data |
+| Porto Brasil: 150 de 174 peças com 40% OFF e 21 com 60%; aparelho Stoneware Orgânico 30 peças R$ 868 (riscado R$ 1.446,67), Bio Oceano R$ 839, linha Gold R$ 2.049,90 | Preço volátil | `/collections/porto-brasil/products.json` | — | 2026-10-08 | [x] Sim, com a data. O artigo compara pelo preço do dia de outubro, não pela porcentagem (decisão do Bruno em 08/10) |
+| Natal Let's: 181 de 195 peças com desconto, quase todas 40%; Outlet's: cerca de 750 produtos, a maioria entre 40% e 60% | Condição comercial | `/collections/natal-lets` e `/collections/outlet` | — | 2026-10-08 | [x] Sim, com a data |
+| Data limite para chegar até 24/12: prazo máximo da região + 1 dia útil de folga (SP capital 16/12, interior e Grande SP 14/12, Sul e Sudeste 11/12, Centro-Oeste 10/12, Norte e Nordeste 7/12) | Cálculo | Política de frete | — | 2026-10-08 | [x] Sim, como estimativa nossa; a loja avisa que os prazos mudam em períodos promocionais |
+| Cashback gerado a partir de 28/10 ainda vale em 27/11 | Cálculo | Validade de 30 dias a partir da compra (página do cashback, atualizada em junho de 2026) | — | 2026-10-08 | [x] Sim, como conta nossa |
 | Cashback: cupom de 30% do valor da compra, por WhatsApp, válido 30 dias, um ativo por vez, compra seguinte mínima de 7× o valor do cupom (um trecho do FAQ diz 5×) | Regra comercial | letseatit.com.br/pages/cashback-lets-eat-it | — | 2026-10-03 | [x] Sim, citando a divergência; reconsultar |
 | Prazos de entrega por região (SP capital 3–5 dias úteis até Norte/Nordeste 7–12) | Fato oficial | Política de frete (abril de 2026) | — | 2026-10-02 | [x] Sim; a data limite para o Natal é cálculo nosso, apresentado como estimativa |
 | Trocas e devoluções em 30 dias da entrega, inclusive em promoção | Fato oficial | Política de reembolso (abril de 2026) | — | 2026-10-02 | [x] Sim |
@@ -115,6 +120,17 @@ presentes de Natal, sempre pela Let's Eat It.
 
 ## 8. Decisão Multilíngue
 - **Modo i18n:** Somente PT.
+
+---
+
+## Redação (08/10/2026)
+
+- JSON em `content/reviews/black-friday-letseatit.json` (id 332), no fim do `_manifest.json`. É a fonte da verdade do texto.
+- Capa: `/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp`, 1600×900. Fica fora do commit até a subida ao CDN.
+- Preços tirados do catálogo da loja em 08/10/2026 e conferidos na página de produto (5% no Pix, até 6x). Antes de publicar, reconsultar o catálogo e os banners e trocar as datas; `publishedAt` vai para o dia do deploy.
+- Fora do texto: percentuais de sites de cupom, o Pix somado ao MAUAD e o cupom do cashback somado ao MAUAD (não testados).
+- MAUAD sem negrito e fora do título. Links: `/cupons/letseatit` uma vez (seção do Pix, cashback e cupom); CTA com o `offerUrl` e os UTMs da Inbazz.
+- A política de frete diz, no FAQ, que a troca é pedida em até 7 dias; a política de reembolso, mais detalhada e da mesma data, diz 30 dias. O artigo segue a de reembolso, como os outros artigos da loja.
 
 ---
 
