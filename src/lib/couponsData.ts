@@ -873,9 +873,24 @@ export const COUPONS: Coupon[] = [
           'O EMCASACOMCECILIA dá 15% OFF nos produtos elegíveis da loja online, sem valor mínimo. O desconto aparece em cada item do resumo do pedido assim que o código é aceito.',
       },
       {
+        question: 'O cupom EMCASACOMCECILIA está funcionando hoje?',
+        answer:
+          'Sim. No último teste de checkout, em 07/10/2026, o EMCASACOMCECILIA aplicou os 15% em cada item elegível. A data do teste mais recente aparece no topo desta página.',
+      },
+      {
+        question: 'O cupom vale na primeira compra na Insider?',
+        answer:
+          'Sim. O EMCASACOMCECILIA vale para clientes novos e antigos, sem cadastro prévio. Como a loja aceita um cupom por pedido, ele não soma com o cupom de boas-vindas da própria Insider.',
+      },
+      {
         question: 'Posso usar o cupom junto com outro cupom?',
         answer:
           'Não. A Insider aceita um cupom por pedido, e descontos de cupons diferentes não se somam.',
+      },
+      {
+        question: 'O cupom acumula com produtos em promoção?',
+        answer:
+          'Sim. Nos testes de 05/10/2026, o EMCASACOMCECILIA deu desconto em peças do Outlet e em kits que já estavam com preço promocional. Lançamentos podem ficar de fora.',
       },
       {
         question: 'O cupom vale nas lojas físicas da Insider?',
@@ -895,6 +910,26 @@ export const COUPONS: Coupon[] = [
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
         answer:
           'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    relatedContent: [
+      {
+        title: 'Como usar o cupom EMCASACOMCECILIA na Insider Store',
+        url: '/reviews/cupom-emcasacomcecilia-insider-store-como-usar',
+        type: 'review',
+        publishedAt: '2026-10-05',
+      },
+      {
+        title: 'Insider Store é confiável? CNPJ, loja física e trocas',
+        url: '/reviews/insider-store-e-confiavel',
+        type: 'review',
+        publishedAt: '2026-10-05',
+      },
+      {
+        title: 'Insider Store no Reclame Aqui: nota e reclamações',
+        url: '/reviews/insider-store-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-10-05',
       },
     ],
     monthlyHighlight: {
