@@ -308,6 +308,7 @@ Arquivo novo `content/home-events.json`, no mesmo molde do `home-curation.json` 
       "id": "black-friday-2026",
       "hub": "black-friday",
       "title": "Black Friday",
+      "titleOf": "da Black Friday",
       "theme": "noite",
       "dayAt": "2026-11-27T00:00:00-03:00",
       "startsAt": "2026-11-01T00:00:00-03:00",
@@ -319,6 +320,7 @@ Arquivo novo `content/home-events.json`, no mesmo molde do `home-curation.json` 
       "id": "natal-2026",
       "hub": "natal",
       "title": "Natal",
+      "titleOf": "do Natal",
       "theme": "laranja",
       "dayAt": "2026-12-25T00:00:00-03:00",
       "startsAt": "2026-12-01T00:00:00-03:00",
@@ -330,9 +332,12 @@ Arquivo novo `content/home-events.json`, no mesmo molde do `home-curation.json` 
 }
 ```
 
-- **`startsAt` e `endsAt`:** a janela em que a seção aparece. Antes do dia, é o "esquenta".
-- **`dayAt`:** o dia da data. Com ele a seção mostra "faltam 12 dias", "é hoje" ou "últimos dias"
-  (depois do dia, até o fim da janela).
+- **`startsAt` e `endsAt`:** a janela em que a seção aparece, de `startsAt` até antes de `endsAt`
+  (duas datas seguidas podem encostar). Antes do dia, é o "esquenta".
+- **`dayAt`:** o dia da data. Com ele a seção mostra "faltam 12 dias", "é amanhã", "é hoje" ou
+  "últimos dias" (depois do dia, até o fim da janela), contando dias do calendário de São Paulo.
+- **`titleOf`:** o título com o artigo, "da Black Friday" ou "do Natal", para o "Ver tudo
+  {titleOf}". Precisa ser `da {title}` ou `do {title}` (plano da Fase 4).
 - **`hub`:** a página fixa da data (`/black-friday`, `/natal`, `/dia-das-maes`, `/11-11`…), que
   junta todos os artigos dela. Pode faltar.
 - **`theme`:** uma das três combinações da paleta do Encarte:
@@ -385,7 +390,8 @@ A página tem:
 
 Fora da campanha ela continua no ar com a última edição: o endereço vale de um ano para o outro, como
 o da concorrente. Ela não entra no menu (o "oculto" do pedido) e está no sitemap, para o Google
-achar. Um campo `noindex` na configuração a esconde também da busca, se um dia for preciso. Um item
+achar. Um campo `noindex` na configuração a esconderia também da busca; fica de fora até ser preciso
+(plano da Fase 4). Um item
 no menu, como o da concorrente, mudaria o header de todas as páginas: fica como decisão à parte, e
 pode ler o mesmo `home-events.json`.
 
@@ -405,6 +411,11 @@ Próximas datas para a pauta, a confirmar pelo Bruno:
 
 **Prazo:** a seção vai ao ar com a D2 inteira. Para a Black Friday, a D2 e os artigos da data
 precisam estar no ar no começo de novembro.
+
+O `home-events.json` sai vazio na Fase 4a: a validação pede artigos publicados, e os da Black Friday
+ainda não existem. A edição de 2026 entra num commit de conteúdo quando eles estiverem no ar (o
+bloco pronto está no fim do plano da Fase 4). Até lá a home não mostra a seção, e a `/black-friday`
+dá 404 e fica fora do sitemap.
 
 ## Seções de baixo
 
@@ -437,6 +448,7 @@ Ficam como na D: mudam o visual (paleta e tipografia do Encarte: `marinho`, `ama
 | links do painel da Cecília ("Mais sobre mim", redes, grupo de WhatsApp) | `home_route_click` | `home_cecilia` |
 | card do "Acabou de sair" e "Ver todos" | `home_route_click` | `home_latest` |
 | card da data, "Ver o código da {loja}" e "Ver tudo da {data}" | `home_route_click` | `home_event` |
+| card e "Ver o código da {loja}" na página da data (`/black-friday`) | `home_route_click` | `event_hub` |
 | oferta | `click_offer` (como hoje) | — |
 
 `HomeRoutePlacement` (em `TrackedHomeLink.tsx`) ganha os novos valores, e o
@@ -473,7 +485,10 @@ placements das seções que saem (`home_featured_guides`, `home_review_categorie
   - o "Acabou de sair" com os 5 artigos mais novos e o link para `/reviews`, sem código, sem botão
     de copiar e sem rótulo de cupom (Fase 3a);
   - no painel da Cecília, o link do grupo de WhatsApp com `target="_blank"` e
-    `rel="noopener noreferrer"`, depois de "Mais sobre mim" e antes dos números (Fase 3b).
+    `rel="noopener noreferrer"`, depois de "Mais sobre mim" e antes dos números (Fase 3b);
+  - sem data em campanha, nenhuma seção de data na home (Fase 4b);
+  - em cada página de data com edição, o `h1`, o canonical e um card por artigo, com o "Ver o
+    código" levando a `/#loja-{slug}` (Fase 4c).
 
   A conferência que já existe para toda página que cita o CECILIA010 passa a cobrir a home sozinha.
 - **`test:client-bundle`**: nem o componente da vitrine nem o card extraído de `/reviews` podem
@@ -497,7 +512,7 @@ commits de conteúdo, como nos commits anteriores, e não entram na conta.
 | 2a | Vitrine na home | `HomeStoreStories.tsx`, `HomeCeciliaPanel.tsx`, `CouponActions.tsx`, `TrackedHomeLink.tsx`, `page.js` |
 | 2b | Subpágina de cada loja | `src/app/(pt)/reviews/loja/[brand]/page.tsx`, `ReviewHubCard.tsx`, `ReviewsClientPage.js`, `src/app/sitemap.ts`, `scripts/test-home-stores.ts` |
 | 3 | Acabou de sair, o grupo de WhatsApp no painel da Cecília e o teste dos placements da vitrine | 3a: `HomeLatest.tsx`, `TrackedHomeLink.tsx`, `test-home-route-tracking.ts`, `test-home-stores.ts`, `page.js`; 3b: `HomeCeciliaPanel.tsx`, `homeStores.ts`, `page.js` |
-| 4a | Datas comerciais: configuração e regra do evento ativo | `content/home-events.json`, `src/lib/homeEvents.ts`, `scripts/test-home-events.ts`, `package.json` |
+| 4a | Datas comerciais: configuração e regra do evento ativo | `content/home-events.json`, `src/lib/homeEvents.ts`, `scripts/test-home-events.ts`, `package.json`, `src/lib/homeStores.ts` (exporta `ofStore` e `getStoreCode`) |
 | 4b | Datas comerciais na home | `HomeEvent.tsx`, `TrackedHomeLink.tsx`, `test-home-route-tracking.ts`, `page.js` |
 | 4c | Página da data | `EventHubPage.tsx`, `src/app/(pt)/black-friday/page.tsx` (a primeira data), `src/app/sitemap.ts`, `scripts/test-home-events.ts` |
 | 5 | Visual das seções de baixo | `PopularRecipes.tsx`, `MyLinks.tsx`, `Offers.tsx`, `CTA.tsx`, `VideoCarousel.tsx` |
