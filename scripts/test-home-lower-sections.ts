@@ -6,11 +6,12 @@ import { AppRouterContext } from 'next/dist/shared/lib/app-router-context.shared
 import { imageConfigDefault, type ImageConfigComplete, type RemotePattern } from 'next/dist/shared/lib/image-config';
 import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.shared-runtime';
 
+import { LatestVideos } from '@/components/sections/CTA';
 import { MyLinks } from '@/components/sections/MyLinks';
 import { Offers } from '@/components/sections/Offers';
 import { PopularRecipes, selectPopularRecipes } from '@/components/sections/PopularRecipes';
 import { brandLinks } from '@/lib/brandLinks';
-import { getRecipePrimaryCategory, recipes, type Offer, type Recipe } from '@/lib/data';
+import { getRecipePrimaryCategory, recipes, type Offer, type Recipe, type SocialHighlight } from '@/lib/data';
 import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 
 // Seções de baixo da home (Receitas, Explore a casa, Ofertas do dia e Últimos vídeos), renderizadas
@@ -151,5 +152,31 @@ for (const id of ['1', '2', '3']) {
 assert.equal(count(offersHtml, /<img[^>]* alt=""/g), 1, 'a foto é decorativa e só sai quando existe');
 assert.ok(offersHtml.includes('aria-label="Ver ofertas anteriores"') && offersHtml.includes('aria-label="Ver próximas ofertas"'));
 assert.ok(offersHtml.includes(`${linkTo(offersHtml, brandLinks.dicas)}Acessar Dicas &amp; Ofertas</a>`));
+
+// Últimos vídeos.
+const video = (id: string): SocialHighlight => ({
+  id,
+  platform: 'YouTube',
+  title: `Vídeo ${id}`,
+  description: '',
+  url: `https://www.youtube.com/watch?v=${id}`,
+  thumbnailUrl: `https://i.ytimg.com/vi/${id}/oar2.jpg`,
+  fallbackThumbnailUrl: `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
+});
+const videosHtml = render(
+  createElement(LatestVideos, { videos: ['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7'].map(video) })
+);
+const videosText = textOf(videosHtml);
+assert.match(videosHtml, /<h2 id="titulo-ultimos-videos"[^>]*>Últimos vídeos<\/h2>/);
+assert.equal(count(videosHtml, /<li/g), 6, 'no máximo 6, uma linha no desktop');
+assert.ok(!videosText.includes('Vídeo v7'));
+assert.ok(opensNewTab(linkTo(videosHtml, 'https://www.youtube.com/watch?v=v1')));
+assert.ok(
+  videosHtml.includes("url(&#x27;https://i.ytimg.com/vi/v1/oar2.jpg&#x27;), url(&#x27;https://i.ytimg.com/vi/v1/hqdefault.jpg&#x27;)"),
+  'a miniatura do short, com a do vídeo por baixo'
+);
+assert.ok(videosText.includes('Vídeo v1'));
+assert.ok(videosHtml.includes(`${linkTo(videosHtml, brandLinks.youtube)}Ver canal do YouTube</a>`));
+assert.equal(render(createElement(LatestVideos, { videos: [] })), '', 'sem vídeo, sem seção');
 
 console.log('test:home-lower-sections ok');
