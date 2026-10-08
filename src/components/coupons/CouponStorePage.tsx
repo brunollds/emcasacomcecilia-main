@@ -350,7 +350,9 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                     })}
               </p>
               <p className="mt-2 text-sm font-medium leading-[21px] text-marinho-suave">
-                {copy.highlight.note(coupon.monthlyHighlight.note)}
+                {coupon.monthlyHighlight.showCheckoutReminder === false
+                  ? `${coupon.monthlyHighlight.note}.`
+                  : copy.highlight.note(coupon.monthlyHighlight.note)}
               </p>
             </div>
           )}
