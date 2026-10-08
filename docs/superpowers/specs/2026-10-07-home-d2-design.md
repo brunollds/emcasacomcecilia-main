@@ -438,13 +438,15 @@ Ficam como na D: mudam o visual (paleta e tipografia do Encarte: `marinho`, `ama
   - Dicas & Ofertas;
   - E-book Air Fryer, que continua "Em preparação" como hoje. A D mantém o card; na G2 ele tinha
     saído.
-- **Ofertas do dia:** `getFeaturedOffers` (feed do dicas, com o fallback de hoje) e o evento
-  `click_offer`. O link "Acessar Dicas & Ofertas" aparece no celular e no desktop; o canvas do
-  desktop não tinha esse link.
+- **Ofertas do dia:** `getFeaturedOffers` (feed do dicas) e o evento `click_offer`. O link
+  "Acessar Dicas & Ofertas" aparece no celular e no desktop; o canvas do desktop não tinha esse
+  link.
   - O feed traz até 10 ofertas, então a fila rola na horizontal em toda largura, com setas a partir
-    de 1024 px.
+    de 768 px (revisão final da Fase 5).
   - O preço diz "de R$ X por R$ Y". Sai o selo "-X%".
-  - "com cupom" aparece sem o código.
+  - Sem o feed, a seção não aparece, como a de vídeos. As três ofertas reserva de `data.ts`
+    (produto, preço, link e código inventados) saem na Fase 6f (decisão do Bruno, 08/10).
+  - O feed não traz cupom: o card mostra só a loja, e o "com cupom" da Fase 5 sai na 6f.
 - **Últimos vídeos:** `getYoutubeHighlights` (com o fallback de hoje) e "Ver canal".
   - No máximo 6, numa linha a partir de 1024 px.
   - Sem vídeo, a seção não aparece; hoje ela aparece vazia.
@@ -473,7 +475,7 @@ Ficam como na D: mudam o visual (paleta e tipografia do Encarte: `marinho`, `ama
 `HomeRoutePlacement` (em `TrackedHomeLink.tsx`) ganha os novos valores, e o
 `test:home-route-tracking` passa a exigi-los, junto com os parâmetros de `home_store_select`. Os
 placements das seções que saem (`home_featured_guides`, `home_review_categories`,
-`home_reviews_carousel`, `home_editor_pick`) saem do tipo e do teste na Fase 6.
+`home_reviews_carousel`, `home_editor_pick`) saem do tipo e do teste na Fase 6b.
 
 ## Testes
 
@@ -498,11 +500,12 @@ placements das seções que saem (`home_featured_guides`, `home_review_categorie
   - a escolha das 4 receitas;
   - o total de receitas;
   - os links e os textos do Explore a casa;
-  - o preço "de … por …" e o "com cupom" sem código das ofertas;
+  - o preço "de … por …" das ofertas; na Fase 6f, a leitura do feed (`parseDicasOffers`) e a
+    seção ausente sem oferta;
   - o limite de 6 vídeos;
   - a seção de vídeos ausente sem vídeo.
-- **`test:build-output`** (Fase 6), em cada `/reviews/loja/{slug}`: o `h1`, o canonical e o total
-  de cards igual ao de artigos da loja. No HTML da home:
+- **`test:build-output`** (Fase 6g): o sitemap sem `/categorias`. Em cada `/reviews/loja/{slug}`:
+  o `h1`, o canonical e o total de cards igual ao de artigos da loja. No HTML da home:
   - o painel da Cecília e um painel por loja ativa, com o rótulo de `getCodeTitle`;
   - no painel da YesStyle, "Código de recompensa" e nenhum "Cupom YesStyle";
   - no da SHEIN, "Código de indicação";
@@ -546,9 +549,16 @@ commits de conteúdo, como nos commits anteriores, e não entram na conta.
 | 4c | Página da data | `EventHubPage.tsx`, `src/app/(pt)/black-friday/page.tsx` (a primeira data), `src/app/sitemap.ts`, `scripts/test-home-events.ts` |
 | 5a | Receitas e Explore a casa | `PopularRecipes.tsx`, a remoção de `RecipeCategoryLinks.tsx`, `MyLinks.tsx`, `scripts/test-home-lower-sections.ts`, `package.json` |
 | 5b | Ofertas do dia e Últimos vídeos | `Offers.tsx`, `CTA.tsx`, a remoção de `VideoCarousel.tsx`, `scripts/test-home-lower-sections.ts` |
-| 6a | Tira da home o que saiu | `page.js` (com os comentários antigos das seções de baixo e o fundo creme da raiz) e a remoção de `Hero.tsx`, `CouponStrip.tsx`, `FeaturedReviewGuides.tsx`, `ReviewsShowcase.tsx`, `ReviewCategoryLinks.tsx` (só o `ReviewsShowcase` o importa), e de `getCouponStripItems`/`CouponStripItem` em `couponsData.ts` (cada remoção só depois do grep) |
-| 6b | Restos e placements antigos | `HomeEditorialPick.tsx`, `homeCuration.ts`, `home-curation.json`, `test-home-curation.ts` e o script do `package.json` (Decisão D); `selectHomeReviewDiscovery` e o teste dele, se o grep provar que só a home usava; `TrackedHomeLink.tsx` (inclusive o `getHomeCategoryFilterParameters`, sem uso desde a 3a) e `test-home-route-tracking.ts` (com o caso do filtro). Mais de 5 arquivos: divide em 6b-1 e 6b-2 |
-| 6c | Travas e documentação | `test-build-output.ts`, `CLAUDE.md` |
+| 6a | Apaga as seções antigas | `Hero.tsx`, `CouponStrip.tsx`, `FeaturedReviewGuides.tsx`, `ReviewsShowcase.tsx`, `ReviewCategoryLinks.tsx` (cada remoção só depois do grep) |
+| 6b | A home sem a curadoria; placements antigos | `page.js` (curadoria, comentários antigos e a raiz branca), `HomeEditorialPick.tsx` (apagado), `couponsData.ts` (sai o `CouponStripItem`), `TrackedHomeLink.tsx` (com o `getHomeCategoryFilterParameters`) e `test-home-route-tracking.ts` |
+| 6c | A curadoria sai do código; `/categorias` sai do sitemap | `homeCuration.ts`, `home-curation.json`, `test-home-curation.ts` (apagados), `package.json`, `sitemap.ts` |
+| 6d | A seleção dos quatro destaques sai | `reviewDiscovery.ts`, `test-review-discovery.ts`, `docs/GUIA-EDITORIAL-GUIAS-ANALISES.md` (seção 10), `AGENTS.md` |
+| 6e | Invólucro comum e filas com foco | `HomeSection.tsx` e `ScrollRow.tsx` (novos), `MyLinks.tsx`, `CTA.tsx`, `HomeEvent.tsx` |
+| 6f | Ofertas sem reserva | `data.ts`, `dicasOffers.ts`, `Offers.tsx`, `test-home-lower-sections.ts` |
+| 6g | Travas, restos e documentação | `test-build-output.ts`, `globals.css`, `ReviewMobileBottomBar.tsx`, `PopularRecipes.tsx`, `CLAUDE.md` |
+
+O plano da Fase 6 (`docs/superpowers/plans/2026-10-08-home-d2-fase-6.md`) dividiu as três partes
+previstas (6a, 6b e 6c) em sete, pelo limite de 5 arquivos e com as decisões do Bruno de 08/10.
 
 As Fases 0a a 0c são uma mudança só, dividida pelo limite de arquivos: entre elas, 7 artigos ainda
 apontam para o slug antigo, e a árvore só fica coerente no fim da 0c. Nada vai ao ar no meio.
@@ -556,12 +566,12 @@ apontam para o slug antigo, e a árvore só fica coerente no fim da 0c. Nada vai
 Cada fase roda `npm run typecheck`, `npm run lint` e os testes que tocam o que mudou. A Fase 0 roda
 também `validate:content`, `test:review-i18n` e `test:internal-links`; as Fases 2a e 2b,
 `npm run test:client-bundle`; as Fases 5a e 5b, `test:home-lower-sections` e `npm run build`. A
-Fase 6c roda `npm run build` completo, `test:build-output`, `test:html-lang` e `test:client-bundle`.
+Fase 6g roda `npm run build` completo, `test:build-output`, `test:html-lang` e `test:client-bundle`.
 A verificação visual compara com o canvas no preview (390, 768 e 1280 px) e testa teclado e
 movimento reduzido.
 
 Deploy só com decisão do Bruno. A Fase 0 foi ao ar sozinha em 07/10, às 22h10 (PR #37, `58d175d`;
-Decisão E). O resto da D2 vai junto, depois da Fase 6c. O `validate:yesstyle` barra o build com
+Decisão E). O resto da D2 vai junto, depois da Fase 6g. O `validate:yesstyle` barra o build com
 oferta da YesStyle vencida, pela data em UTC: antes do deploy final, a oferta vigente precisa estar
 em dia.
 
@@ -577,23 +587,27 @@ esta lista:
   flutuando não param. O WCAG 2.2.2 pede pausa para movimento automático de mais de 5 s. O
   `motion-safe:` atende quem pediu menos movimento, mas não é a técnica do 2.2.2. Uma regra só para
   a home, junto com o temporizador do carrossel (decisão K).
-- **Fase 6c:** o Tailwind v4 lê `docs/` e põe no CSS de produção as classes dos blocos de código
+- **Fase 6g:** o Tailwind v4 lê `docs/` e põe no CSS de produção as classes dos blocos de código
   dos planos (o `auto-fit` da Task 2 da Fase 3, sem uso). Um `@source not "../../docs";` no
   `globals.css` resolve.
-- **Antes do merge da D2 (revisão final da Fase 5, decisão do Bruno):** `/categorias` está sem
-  link interno desde a Fase 5a, porque o "Todas categorias" era do `RecipeCategoryLinks`, e segue
-  no `sitemap.ts`. Ou ganha um link (na faixa de receitas, no cabeçalho de `/receitas` ou no
-  rodapé), ou sai do sitemap.
+- **`/categorias` (revisão final da Fase 5):** está sem link interno desde a Fase 5a, porque o
+  "Todas categorias" era do `RecipeCategoryLinks`. **Decisão do Bruno (08/10):** sai do sitemap na
+  Fase 6c e continua no ar para quem tem o endereço.
 - **Filas que rolam na horizontal (revisão da Fase 5):** o Chrome só rola a fila quando o card
   focado pelo teclado está todo escondido; o card meio visível fica cortado. Passa o WCAG 2.4.11 e
-  não o 2.4.12. Uma ajuda comum a todas as filas da home (`onFocus` →
-  `scrollIntoView({ block: 'nearest', inline: 'nearest' })`) resolve.
+  não o 2.4.12. **Decisão do Bruno (08/10): corrigir.** O `ScrollRow` da Fase 6e cuida das filas
+  de ofertas, vídeos e data comercial.
+  - Card que não cabe inteiro vai para o começo da fila (`inline: 'start'`, o ponto de encaixe do
+    snap). O `nearest` desta nota, testado no navegador, era puxado pelo snap de volta ao encaixe
+    anterior.
+  - As bolinhas da vitrine já centralizam a loja escolhida.
 - **Ofertas do dia (revisão final da Fase 5):** o "com cupom" só aparece nas ofertas reserva de
   `data.ts`, que têm códigos de exemplo e não têm foto; o feed do Dicas & Ofertas não traz cupom.
-  As setas aparecem mesmo quando a fila não rola.
-- **Fase 6a (recomendação da revisão final da Fase 5):** as seções de baixo repetem o mesmo
-  invólucro (`section` com `aria-labelledby`, contêiner de 1200 px e `h2` condensado). Um
-  componente comum, junto com a limpeza do `page.js`.
+  **Decisão do Bruno (08/10): revisar.** As ofertas reserva e o "com cupom" saem na Fase 6f. As
+  setas aparecem mesmo quando a fila não rola (fica assim).
+- **Invólucro comum (recomendação da revisão final da Fase 5):** as seções de baixo repetem o mesmo
+  invólucro (`section` com `aria-labelledby`, contêiner de 1200 px e `h2` condensado). O
+  `HomeSection` da Fase 6e serve a Explore a casa, Ofertas do dia e Últimos vídeos.
 - **Na próxima mudança de `homeStoreTabs.ts`:** o prefixo `loja-` numa constante; a conta das
   setas, Home e End sai de `HomeStoreStories.tsx` para lá, com teste; o teste ganha a ida e volta
   `parseTabHash('#' + getTabAnchor(id))`, o hash sem `#` e `getTabOrder([])`.
@@ -607,9 +621,10 @@ esta lista:
   `ReviewHubCard`; animações do card fora do `motion-safe:`; Open Graph e Twitter completos na
   subpágina (`siteName`, `locale`, imagem, `twitter.title`); `lastModified` das subpáginas no
   sitemap; JSON-LD (`CollectionPage` e `BreadcrumbList`), se o Bruno quiser.
-- **Fase 6:** medir no Lighthouse o HTML da vitrine (336 KB, 25 KB gzip: 72 `next/image` e a
-  miniatura de cada artigo duas vezes por painel); `ReviewMobileBottomBar.tsx` passa a importar o
-  `FOCUS_RING` de `src/components/ui/focusRing.ts` em vez da cópia local.
+- **Fase 6g:** medir o HTML da vitrine (336 KB, 25 KB gzip: 72 `next/image` e a miniatura de cada
+  artigo duas vezes por painel); o Lighthouse fica para o Bruno, pelo DevTools. O
+  `ReviewMobileBottomBar.tsx` passa a importar o `FOCUS_RING` de `src/components/ui/focusRing.ts`
+  em vez da cópia local.
 - **Pedido do Bruno (08/10), numa fase a combinar:** as bolinhas viram um carrossel e as lojas
   entram na ordem do artigo mais novo de cada uma. A Cecília fica sempre em primeiro. Loja sem
   artigo fica no fim, na ordem de `couponsData.ts`. A ordem sai dos dados, então muda sozinha a
