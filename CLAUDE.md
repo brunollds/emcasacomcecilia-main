@@ -179,12 +179,14 @@ vídeo, primeiras impressões e uso noturno.
   - a data comercial (`HomeEvent`, só em campanha);
   - receitas, Explore a casa, ofertas e vídeos.
 
-  O `page.js` dá o espaço de baixo das seções de cima; as de baixo trazem o delas (`HomeSection`).
+  O `page.js` dá o espaço de baixo das seções de cima; as de baixo trazem o delas: a faixa de
+  receitas no próprio `<section>`, as outras pelo `HomeSection`.
 - Os dados saem do servidor:
   - `src/lib/homeStores.ts`: abas, artigos da loja pelo `affiliate`, "Acabou de sair" e as
     subpáginas `/reviews/loja/<slug>` das lojas com mais de 3 artigos;
   - `src/lib/homeEvents.ts` com `content/home-events.json`: as datas comerciais. Como pôr uma data
-    no ar está no fim de `docs/superpowers/plans/2026-10-08-home-d2-fase-4.md`;
+    no ar está em "Para pôr a Black Friday no ar", no fim de
+    `docs/superpowers/plans/2026-10-08-home-d2-fase-4.md`;
   - `dicasOffers.ts` e `youtube.ts`: sem o feed ou sem vídeo, a seção some. Não há ofertas reserva.
 - Fila que rola na horizontal usa o `ScrollRow` (`src/components/ui/ScrollRow.tsx`): com o foco do
   teclado, o card meio escondido entra inteiro na tela.
