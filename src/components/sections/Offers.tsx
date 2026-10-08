@@ -3,148 +3,126 @@
 import { useRef } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import { ChevronLeft, ChevronRight, ExternalLink, Tag } from 'lucide-react';
+import { ChevronLeft, ChevronRight } from 'lucide-react';
+import { FOCUS_RING } from '@/components/ui/focusRing';
 import { brandLinks } from '@/lib/brandLinks';
 import type { Offer } from '@/lib/data';
 import { trackEvent } from '@/lib/analytics';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
+// "Ofertas do dia": o feed do Dicas & Ofertas (até 10 ofertas) numa fila que rola na horizontal.
+// No desktop, as setas ao lado do título passam a fila.
+
 type OffersProps = {
   items: Offer[];
 };
+
+const ARROW = `flex size-11 items-center justify-center rounded-full border-2 border-marinho bg-white text-marinho hover:bg-amarelo-cupom motion-safe:transition-colors ${FOCUS_RING}`;
 
 function formatPrice(value: number): string {
   return value.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
 }
 
 export function Offers({ items }: OffersProps) {
-  const trackRef = useRef<HTMLDivElement>(null);
+  const trackRef = useRef<HTMLUListElement>(null);
 
   const scrollTrack = (direction: 'left' | 'right') => {
     const track = trackRef.current;
     if (!track) return;
 
     const amount = Math.max(track.clientWidth * 0.8, 280);
+    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     track.scrollBy({
       left: direction === 'right' ? amount : -amount,
-      behavior: 'smooth',
+      behavior: reduceMotion ? 'auto' : 'smooth',
     });
   };
 
   return (
-    <section className="bg-[#fef9f3] pb-10 pt-0 md:pb-16">
-      <div className="mx-auto max-w-7xl border-t border-[#1a4d2e]/10 px-4 pt-6 sm:px-6 md:pt-16 lg:px-8">
-        <div className="relative">
-          <div className="pointer-events-none absolute inset-y-0 left-0 hidden w-14 bg-gradient-to-r from-[#fef9f3] to-transparent lg:block" />
-          <div className="pointer-events-none absolute inset-y-0 right-0 hidden w-14 bg-gradient-to-l from-[#fef9f3] to-transparent lg:block" />
-
-          <button
-            type="button"
-            onClick={() => scrollTrack('left')}
-            className="absolute left-0 top-1/2 z-10 hidden h-11 w-11 -translate-y-1/2 items-center justify-center rounded-full border border-black/8 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:border-[#ff6b35]/35 hover:text-[#ff6b35] lg:inline-flex"
-            aria-label="Ver ofertas anteriores"
+    <section aria-labelledby="titulo-ofertas-do-dia" className="bg-white pb-8 md:pb-10">
+      <div className="mx-auto flex w-full max-w-[1200px] flex-col gap-3 px-4 md:gap-6 md:px-10">
+        <div className="flex items-end justify-between gap-4">
+          <h2
+            id="titulo-ofertas-do-dia"
+            className="font-condensada text-[32px] leading-none font-black text-marinho font-stretch-extra-condensed md:text-5xl"
           >
-            <ChevronLeft className="h-5 w-5" />
-          </button>
-
-          <button
-            type="button"
-            onClick={() => scrollTrack('right')}
-            className="absolute right-0 top-1/2 z-10 hidden h-11 w-11 -translate-y-1/2 items-center justify-center rounded-full border border-black/8 bg-white/95 text-[#0f1419] shadow-lg transition-all hover:border-[#ff6b35]/35 hover:text-[#ff6b35] lg:inline-flex"
-            aria-label="Ver próximas ofertas"
-          >
-            <ChevronRight className="h-5 w-5" />
-          </button>
-
-          <div
-            ref={trackRef}
-            className="hide-scrollbar flex snap-x snap-mandatory gap-4 overflow-x-auto overflow-y-hidden py-1 lg:px-8"
-          >
-            {items.map((offer, index) => (
-              <Link
-                key={offer.id}
-                href={offer.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                onClick={() => trackEvent('click_offer', {
-                  offer_id: offer.id,
-                  offer_title: offer.title,
-                  offer_store: offer.store,
-                })}
-                className="group block w-[230px] flex-shrink-0 snap-start animate-slide-up sm:w-[250px] lg:w-[270px]"
-                style={{ animationDelay: `${index * 0.06}s` }}
-              >
-                <article className="transition-all duration-500 group-hover:-translate-y-2">
-                  <div className="relative mb-4 aspect-[5/6] overflow-hidden rounded-[2rem] bg-white shadow-soft transition-all duration-500 group-hover:shadow-large">
-                    {offer.image ? (
-                      <Image
-                        src={resolveMediaUrl(offer.image)}
-                        alt={offer.title}
-                        fill
-                        className="object-contain p-5 transition-transform duration-700 ease-out group-hover:scale-110"
-                        sizes="270px"
-                      />
-                    ) : (
-                      <div className="absolute inset-0 flex items-center justify-center text-6xl opacity-20 transition-transform duration-700 group-hover:scale-110">
-                        🛍️
-                      </div>
-                    )}
-
-                    <div className="absolute inset-0 bg-black/0 transition-colors duration-300 group-hover:bg-black/5" />
-                    <div className="absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-[#0f2236]/90 via-[#0f2236]/35 to-transparent" />
-
-                    {offer.discount > 0 && (
-                      <div className="absolute left-4 top-4">
-                        <span className="inline-flex rounded-full bg-[#ff6b35] px-3 py-1.5 text-[10px] font-black uppercase tracking-[0.18em] text-white shadow-lg">
-                          -{offer.discount}%
-                        </span>
-                      </div>
-                    )}
-
-                    {offer.coupon && (
-                      <div className="absolute right-4 top-4">
-                        <span className="inline-flex items-center gap-1.5 rounded-full bg-white/95 px-3 py-1.5 text-[10px] font-black uppercase tracking-[0.16em] text-[#1a4d2e] shadow-lg backdrop-blur-md">
-                          <Tag className="h-3 w-3" />
-                          Cupom
-                        </span>
-                      </div>
-                    )}
-
-                    <div className="absolute bottom-5 left-5 right-5 flex items-center gap-3 text-xs font-bold uppercase tracking-widest text-white">
-                      <span className="text-[#ffd700]">
-                        {formatPrice(offer.discountPrice)}
-                      </span>
-                      <div className="h-3 w-px bg-white/30" />
-                      <span className="truncate">{offer.store}</span>
-                    </div>
-                  </div>
-
-                  <div className="px-2">
-                    <h3 className="font-heading text-lg font-bold leading-tight text-[#0f1419] transition-colors duration-300 group-hover:text-[#1a4d2e] md:text-xl line-clamp-2">
-                      {offer.title}
-                    </h3>
-                    <div className="mt-2 h-0.5 w-0 bg-[#ff6b35] transition-all duration-500 group-hover:w-12" />
-                  </div>
-                </article>
-              </Link>
-            ))}
+            Ofertas do dia
+          </h2>
+          <div className="hidden gap-2 lg:flex">
+            <button type="button" onClick={() => scrollTrack('left')} className={ARROW} aria-label="Ver ofertas anteriores">
+              <ChevronLeft aria-hidden="true" className="size-5" />
+            </button>
+            <button type="button" onClick={() => scrollTrack('right')} className={ARROW} aria-label="Ver próximas ofertas">
+              <ChevronRight aria-hidden="true" className="size-5" />
+            </button>
           </div>
         </div>
 
-        <div className="mt-8 flex flex-col items-center gap-3 text-center md:mt-10">
-          <Link
-            href={brandLinks.dicas}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-3 rounded-full bg-[#ff6b35] px-8 py-3.5 font-bold text-white shadow-lg shadow-[#ff6b35]/25 transition-all hover:scale-105 hover:bg-[#ff5722] active:scale-95 md:px-10 md:py-4"
-          >
-            Acessar Ofertas & Cupons
-            <ExternalLink className="w-5 h-5" />
-          </Link>
-          <p className="text-sm font-medium text-gray-500">
-            Quer ver mais? Acesse nosso site de promos & cupons.
-          </p>
-        </div>
+        {/* O py-1.5 e o recuo de 1,5 nas laterais dão espaço ao anel de foco, que fica fora do card. */}
+        <ul
+          ref={trackRef}
+          className="hide-scrollbar -mx-4 flex snap-x snap-mandatory scroll-px-4 gap-3 overflow-x-auto px-4 py-1.5 md:-mx-1.5 md:scroll-px-1.5 md:gap-4 md:px-1.5"
+        >
+          {items.map((offer, index) => (
+            <li
+              key={offer.id}
+              className="flex w-[220px] shrink-0 snap-start motion-safe:animate-[slide-up_0.5s_ease-out_backwards] md:w-60"
+              style={{ animationDelay: `${index * 0.06}s` }}
+            >
+              <Link
+                href={offer.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={() =>
+                  trackEvent('click_offer', {
+                    offer_id: offer.id,
+                    offer_title: offer.title,
+                    offer_store: offer.store,
+                  })
+                }
+                className={`group flex flex-1 flex-col overflow-hidden rounded-xl border-2 border-marinho bg-white text-marinho motion-safe:transition-transform motion-safe:duration-300 motion-safe:hover:-translate-y-1 ${FOCUS_RING}`}
+              >
+                <span className="relative block h-[130px] overflow-hidden border-b-2 border-marinho bg-white md:h-[150px]">
+                  {offer.image ? (
+                    <Image
+                      src={resolveMediaUrl(offer.image)}
+                      alt=""
+                      fill
+                      sizes="240px"
+                      className="object-contain p-3 motion-safe:transition-transform motion-safe:duration-700 motion-safe:group-hover:scale-105"
+                    />
+                  ) : null}
+                </span>
+                <span className="line-clamp-2 px-3 pt-3 text-[13px] leading-[19px] font-extrabold">{offer.title}</span>
+                <span className="flex-1 px-3 pt-1 pb-3 text-xs text-marinho-suave">
+                  {offer.discountPrice > 0 ? (
+                    <>
+                      {offer.originalPrice > offer.discountPrice ? (
+                        <>
+                          de <s>{formatPrice(offer.originalPrice)}</s> por{' '}
+                        </>
+                      ) : null}
+                      <strong className="font-extrabold text-marinho">{formatPrice(offer.discountPrice)}</strong>
+                    </>
+                  ) : null}
+                </span>
+                <span className="flex items-center justify-between gap-2 border-t-2 border-dashed border-marinho bg-creme px-3 py-2 text-xs font-bold">
+                  <span className="truncate">{offer.store}</span>
+                  {offer.coupon ? <span className="shrink-0">com cupom</span> : null}
+                </span>
+              </Link>
+            </li>
+          ))}
+        </ul>
+
+        <Link
+          href={brandLinks.dicas}
+          target="_blank"
+          rel="noopener noreferrer"
+          className={`flex min-h-11 items-center self-start text-[13px] font-extrabold text-marinho underline underline-offset-[3px] md:text-[15px] ${FOCUS_RING}`}
+        >
+          Acessar Dicas & Ofertas
+        </Link>
       </div>
     </section>
   );
