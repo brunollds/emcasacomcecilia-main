@@ -200,6 +200,26 @@ assert.deepEqual(
   'sem preço antigo, o preço; foto de host fora da lista não entra'
 );
 
+// Campo com tipo errado no feed não derruba a home: vira o valor padrão ou some.
+assert.deepEqual(
+  parseDicasOffers([
+    { slug: 7, produto: 'Mixer', preco: true, precoAntigo: {}, loja: ['Amazon'], url: 'https://example.com/mixer', imagem: 42 },
+    { produto: 'Sem link de texto', url: { href: 'https://example.com' } },
+  ]),
+  [
+    {
+      id: 'dicas-0',
+      title: 'Mixer',
+      store: 'Dicas da Cecília',
+      url: 'https://example.com/mixer',
+      originalPrice: 0,
+      discountPrice: 0,
+      image: undefined,
+    },
+  ],
+  'tipos errados no feed'
+);
+
 // Últimos vídeos.
 // Como o youtube.ts entrega: a hqdefault.jpg como miniatura e a maxresdefault.jpg como reserva.
 const video = (

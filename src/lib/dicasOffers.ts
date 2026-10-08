@@ -13,24 +13,24 @@ export type Offer = {
 };
 
 type DicasPost = {
-  slug?: string;
-  produto?: string;
-  preco?: string | number;
-  precoAntigo?: string | number;
-  imagem?: string;
-  loja?: string;
-  url?: string;
+  slug?: unknown;
+  produto?: unknown;
+  preco?: unknown;
+  precoAntigo?: unknown;
+  imagem?: unknown;
+  loja?: unknown;
+  url?: unknown;
 };
 
 const DICAS_OFFERS_URL = `${brandLinks.dicas}/ultimos-posts-dicas.json`;
 const OFFER_LIMIT = 10;
 
-function parsePrice(value: string | number | undefined): number {
+function parsePrice(value: unknown): number {
   if (typeof value === 'number') {
-    return value;
+    return Number.isFinite(value) ? value : 0;
   }
 
-  if (!value) {
+  if (typeof value !== 'string' || !value) {
     return 0;
   }
 
@@ -43,21 +43,27 @@ function parsePrice(value: string | number | undefined): number {
   return Number.isFinite(parsed) ? parsed : 0;
 }
 
+// Texto do feed: só string conta; o resto vira vazio.
+function feedText(value: unknown): string {
+  return typeof value === 'string' ? value.trim() : '';
+}
+
 function normalizeDicasPost(value: unknown, index: number): Offer | null {
   if (typeof value !== 'object' || value === null) return null;
   const post = value as DicasPost;
-  const title = typeof post.produto === 'string' ? post.produto.trim() : '';
-  if (!title || typeof post.url !== 'string' || !post.url) return null;
+  const title = feedText(post.produto);
+  const url = feedText(post.url);
+  if (!title || !url) return null;
   const discountPrice = parsePrice(post.preco);
 
   return {
-    id: post.slug || `dicas-${index}`,
+    id: feedText(post.slug) || `dicas-${index}`,
     title,
-    store: post.loja || 'Dicas da Cecília',
-    url: post.url,
+    store: feedText(post.loja) || 'Dicas da Cecília',
+    url,
     originalPrice: parsePrice(post.precoAntigo) || discountPrice,
     discountPrice,
-    image: isAllowedImageHost(post.imagem) ? post.imagem : undefined,
+    image: typeof post.imagem === 'string' && isAllowedImageHost(post.imagem) ? post.imagem : undefined,
   };
 }
 
