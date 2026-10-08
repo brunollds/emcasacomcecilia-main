@@ -46,7 +46,9 @@ Pedidos dele que a especificação segue à risca:
   - 4CW5Y é código de indicação da SHEIN, pesquisado no aplicativo;
   - a Insider nunca mostra percentual;
   - a Nestlé Nutre mantém a exclusão de Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses;
-  - MAUAD não ganha destaque fora do próprio código.
+  - MAUAD não ganha destaque fora do próprio código;
+  - o site principal não linka `/cupons/damie`: o link do código da DAMIE vai ao subdomínio
+    (dossiê `01_Parceiros/DAMIE.md`).
 
 ## Ordem das seções
 
@@ -110,7 +112,7 @@ O grupo de WhatsApp não entra aqui: a aba da Cecília não abre sozinha, e o gr
 | `detail` | `discount` + `shortDescription`, como nos cards de `/cupons` (`CouponCards.tsx`). Magalu, Insider e Nutre já trazem o texto certo nesses campos |
 | `hints` | `getCodeHints(...)`: "Copie antes de ir para a loja." e, depois de copiar, "Cole no campo correto do checkout."; para a SHEIN, "Copie e pesquise no aplicativo SHEIN." |
 | `storeUrl` | `offerUrl` da loja, com os UTMs que já estão nos dados (Let's Eat It/Inbazz) |
-| `storePagePath` | `/cupons/{slug}` |
+| `storePagePath` | `/cupons/{slug}`. Na DAMIE, a página do código no subdomínio, `https://damie.emcasacomcecilia.com/cupom-cecilia12`, com a UTM do dossiê (`utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=home`): o dossiê `01_Parceiros/DAMIE.md` (07/10) proíbe linkar `/cupons/damie` do site principal. Vem de um campo novo em `couponsData.ts`, `storePageUrl`, que só a DAMIE usa |
 | `articles` | até 3 artigos da loja, sem código: título, `type`, imagem e link (o canvas não mostra data na lista da loja) |
 | `total`, `allArticlesPath` | o total de artigos da loja e `/reviews/loja/{slug}` (ver "Todos os artigos de uma loja") |
 
@@ -130,14 +132,15 @@ não repete o desconto nem a regra da loja, com a exclusão das fórmulas infant
 apontou, o nome certo é Nestlé Nutre (Decisão A, aprovada):
 
 - o `slug` da loja passa a `nestle-nutre`, e a página a `/cupons/nestle-nutre`;
-- `content/redirects.json` ganha o redirect permanente de `/cupons/nutren` para
-  `/cupons/nestle-nutre` (o mesmo mecanismo dos redirects de reviews que já existem);
+- o `next.config.mjs` ganha o redirect permanente de `/cupons/nutren` para `/cupons/nestle-nutre`,
+  ao lado do da busca antiga (o `content/redirects.json` só aceita caminhos de receitas e reviews);
 - os 9 artigos da loja passam a `affiliate: "nestle-nutre"` e trocam o link `/cupons/nutren` por
   `/cupons/nestle-nutre`;
 - o fixture de `scripts/media/test-review-delivery-html.mjs` e a documentação que cita o slug
-  (`AGENTS.md`, `docs/CONTRATO-ARTIGO-AFILIADO.md`, `docs/MANUTENCAO-MENSAL.md` e, no vault,
-  `00_Sistema/CONTRATOS-DE-CONTEUDO.md` e `01_Parceiros/Nestle-Nutre.md`) acompanham. As notas de
-  cada artigo no vault ficam como registro do que foi feito;
+  (`AGENTS.md`, `docs/CONTRATO-ARTIGO-AFILIADO.md`, `docs/MANUTENCAO-MENSAL.md`,
+  `docs/CUPONS-DATAS-RASTREAMENTO.md` e, no vault, os contratos, o dossiê e o frontmatter e as
+  instruções de link das notas de cada artigo) acompanham. Planos, handoffs e tabelas de checagem
+  datados ficam como registro do que foi feito;
 - as imagens não mudam de lugar: `/images/reviews/nutren/`, o logo e a marca-d'água seguem com os
   caminhos de hoje, que não dependem do slug. Mover mídia é tarefa dos scripts de mídia, com
   aprovação à parte;
@@ -217,13 +220,13 @@ então a subpágina usa o card de hoje e muda junto com ela.
   mais novo para o mais antigo), numa função de `homeStores.ts` que a vitrine e a subpágina usam.
   Tudo no servidor; nenhum componente cliente novo.
 - **Tela:** o título "Artigos da DAMIE" (`h1`), o total, o link "Ver o código da DAMIE" para
-  `/cupons/damie` (o código continua na página da loja e na vitrine), os cards e "Ver todos os guias
+  a página da loja (`storePagePath`, que na DAMIE é o subdomínio; o código continua lá e na vitrine), os cards e "Ver todos os guias
   e análises" para `/reviews`. O card de hoje sai de `ReviewsClientPage.js` para um componente
   próprio, `ReviewHubCard.tsx`, usado pelas duas páginas.
 - **Busca:** título "DAMIE: guias e análises - Em Casa com Cecília", descrição com a loja e o
   total, canonical `/reviews/loja/damie`, Open Graph e entrada no sitemap. Só em português, sem
   hreflang.
-- **Diferença para `/cupons/damie`:** a página da loja responde "qual é o código e como usar"; a
+- **Diferença para a página da loja:** a página da loja responde "qual é o código e como usar"; a
   subpágina lista tudo o que a Cecília escreveu sobre a loja.
 
 ### Acessibilidade
@@ -440,6 +443,7 @@ placements das seções que saem (`home_featured_guides`, `home_review_categorie
   - Nutre com a exclusão no detalhe;
   - SHEIN sem artigo;
   - no máximo 3 artigos por loja, sem campo de código, e o `total` e o `allArticlesPath` certos;
+  - a página da loja da DAMIE é o subdomínio, nunca `/cupons/damie`;
   - os 5 do "Acabou de sair".
 - **`test:home-stores`** (Fase 2b, ampliado): as lojas da subpágina são as ativas com artigo, a
   SHEIN fica de fora enquanto não tiver, e nenhuma review tem o slug `loja`.
@@ -452,7 +456,8 @@ placements das seções que saem (`home_featured_guides`, `home_review_categorie
   - no painel da YesStyle, "Código de recompensa" e nenhum "Cupom YesStyle";
   - no da SHEIN, "Código de indicação";
   - no da Insider, nenhum percentual;
-  - no da Nutre, a exclusão das fórmulas infantis.
+  - no da Nutre, a exclusão das fórmulas infantis;
+  - nenhum link para `/cupons/damie`, na home e nas subpáginas.
 
   A conferência que já existe para toda página que cita o CECILIA010 passa a cobrir a home sozinha.
 - **`test:client-bundle`**: nem o componente da vitrine nem o card extraído de `/reviews` podem
@@ -466,12 +471,13 @@ commits de conteúdo, como nos commits anteriores, e não entram na conta.
 
 | Fase | O que faz | Arquivos |
 |---|---|---|
-| 0a | Loja Nestlé Nutre com o slug `nestle-nutre` e o redirect | `src/lib/couponsData.ts`, `content/redirects.json`, `scripts/media/test-review-delivery-html.mjs` |
+| 0a | Loja Nestlé Nutre com o slug `nestle-nutre` e o redirect | `src/lib/couponsData.ts`, `next.config.mjs`, `scripts/media/test-review-delivery-html.mjs` |
 | 0b | Artigos da Nutre, parte 1: `affiliate` e link da página da loja | 5 JSONs da Nutre |
 | 0c | Artigos da Nutre, parte 2 | os outros 4 JSONs da Nutre |
 | 0d | Marcação da DAMIE e trava do `affiliate` | 3 JSONs da DAMIE, `scripts/validate-content-model.ts` |
 | 0e | Documentação do slug | `AGENTS.md`, `docs/CONTRATO-ARTIGO-AFILIADO.md`, `docs/MANUTENCAO-MENSAL.md`, `CONTRATOS-DE-CONTEUDO.md` e `Nestle-Nutre.md` do vault |
-| 1 | Montagem dos dados da vitrine, dos artigos por loja e do "Acabou de sair" | `src/lib/homeStores.ts`, `scripts/test-home-stores.ts`, `package.json` |
+| 0f | Restos que a revisão achou | `docs/CUPONS-DATAS-RASTREAMENTO.md` e as notas de 4 artigos da Nutre no vault |
+| 1 | Montagem dos dados da vitrine, dos artigos por loja e do "Acabou de sair" | `src/lib/homeStores.ts`, `scripts/test-home-stores.ts`, `package.json`, `src/lib/couponsData.ts` (`storePageUrl` da DAMIE) |
 | 2a | Vitrine na home | `HomeStoreStories.tsx`, `HomeCeciliaPanel.tsx`, `CouponActions.tsx`, `TrackedHomeLink.tsx`, `page.js` |
 | 2b | Subpágina de cada loja | `src/app/(pt)/reviews/loja/[brand]/page.tsx`, `ReviewHubCard.tsx`, `ReviewsClientPage.js`, `src/app/sitemap.ts`, `scripts/test-home-stores.ts` |
 | 3 | Acabou de sair, faixa Sobre a Cecília e o teste dos placements da vitrine | `HomeLatest.tsx`, `HomeAboutStrip.tsx`, `TrackedHomeLink.tsx`, `test-home-route-tracking.ts`, `page.js` |
