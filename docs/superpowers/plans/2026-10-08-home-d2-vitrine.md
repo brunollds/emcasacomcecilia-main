@@ -1975,6 +1975,10 @@ aparecer diferença de classe ou de `style`, o card não ficou idêntico: corrig
 > `CouponPageLinkPlacement` (`src/components/review/TrackedCouponPageLink.tsx`): link interno para
 > página de cupom é medido (AGENTS.md). A página usa os tokens `bg-creme`, `bg-marinho` e
 > `verde-escuro` no lugar dos hex, e a transição do "Ver todos" é `motion-safe:`.
+>
+> Revisão final (08/10): o "Ver a página da loja" da vitrine também passou ao
+> `TrackedCouponPageLink` (decisão H da spec), e a subpágina e o sitemap ficaram só para loja com
+> mais de 3 artigos (decisão I).
 
 **Files:**
 - Create: `src/app/(pt)/reviews/loja/[brand]/page.tsx`

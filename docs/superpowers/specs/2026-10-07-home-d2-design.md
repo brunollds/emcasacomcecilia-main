@@ -116,7 +116,7 @@ O grupo de WhatsApp não entra aqui: a aba da Cecília não abre sozinha, e o gr
 | `storeUrl` | `offerUrl` da loja, com os UTMs que já estão nos dados (Let's Eat It/Inbazz) |
 | `storePageUrl` | `/cupons/{slug}` em toda loja (`getCouponStorePath`), a DAMIE inclusive (decisão F) |
 | `articles` | até 3 artigos da loja, sem código: título, `type`, imagem e link (o canvas não mostra data na lista da loja) |
-| `total`, `allArticlesPath` | o total de artigos da loja e `/reviews/loja/{slug}` (ver "Todos os artigos de uma loja") |
+| `total`, `allArticlesPath` | o total de artigos da loja e, acima de 3, `/reviews/loja/{slug}` (decisão I; ver "Todos os artigos de uma loja") |
 
 **Artigos da loja:** reviews listadas em português (`getListedPortugueseReviews`) cujo `affiliate` é
 o `slug` da loja, ordenadas por `sortReviewsByPublishedAt`. Contagem depois da Fase 0 (07/10, 65
@@ -179,7 +179,9 @@ idioma e também nos rascunhos, use o `slug` de uma loja de `COUPONS` (ativa ou 
   atualiza o hash com `history.replaceState`, sem ida ao servidor. Um hash desconhecido é ignorado.
   Cada bolinha tem o id do hash dela (`loja-yesstyle`, `cecilia`), então o navegador rola até a
   vitrine sozinho; o painel tem o id `painel-loja-yesstyle`. O hash é a única fonte da aba aberta,
-  lida com `useSyncExternalStore`, como a categoria em `/reviews`.
+  lida com `useSyncExternalStore`, como a categoria em `/reviews`. Por isso a home não ganha outra
+  âncora interna (`#receitas`, link de pular conteúdo): qualquer hash que não seja de aba volta a
+  vitrine à DAMIE.
 - **Desktop (a partir de 1024 px):**
   - fila de bolinhas;
   - na loja, o recorte do código: parte laranja com logo, rótulo e detalhe; parte creme com o
@@ -222,9 +224,11 @@ então a subpágina usa o card de hoje e muda junto com ela.
 - **Rota:** `src/app/(pt)/reviews/loja/[brand]/page.tsx`. O segmento `loja` é fixo e não colide com
   `/reviews/[slug]`, que tem um segmento só. `/reviews/loja` sozinho cai em `/reviews/[slug]` e dá
   404, como qualquer slug que não existe; o teste barra review com o slug `loja`.
-- **Quais lojas:** `generateStaticParams` com as lojas ativas que têm pelo menos 1 artigo listado
-  em português, e `dynamicParams = false` (outra loja dá 404). A SHEIN entra quando tiver artigo; a
-  Kopenhagen, pausada, fica de fora.
+- **Quais lojas:** `generateStaticParams` com as lojas ativas que têm mais de 3 artigos listados
+  em português, a mesma regra do "Ver os N artigos" da vitrine (decisão I), e
+  `dynamicParams = false` (outra loja dá 404). Com até 3, a vitrine já mostra todos e nada linkaria
+  a subpágina. Em 08/10: DAMIE, Dolce Gusto, I Wanna Sleep, Nestlé Nutre e YesStyle. Insider,
+  Let's Eat It, Magalu e SHEIN entram quando passarem de 3; a Kopenhagen, pausada, fica de fora.
 - **Artigos:** a mesma regra da vitrine (`affiliate` = `slug` da loja, listados em português, do
   mais novo para o mais antigo), numa função de `homeStores.ts` que a vitrine e a subpágina usam.
   Tudo no servidor; nenhum componente cliente novo.
@@ -360,6 +364,10 @@ Arquivo novo `content/home-events.json`, no mesmo molde do `home-curation.json` 
   a loja), sem código.
 - **Link para o código:** cada card de artigo com loja traz "Ver o código da {loja}", que leva a
   `#loja-{slug}`: a página sobe até a vitrine com a loja aberta. O código continua num lugar só.
+  O link não pode ser um `next/link` (nem o `TrackedHomeLink`): ele navega por `pushState`, que
+  não dispara `hashchange`, e a página rola sem trocar a aba (revisão final da Fase 2, 08/10). Usar
+  um `<a>` comum com o `trackEvent` no `onClick`, ou uma função de `homeStoreTabs.ts` que troca a
+  aba, e conferir no navegador o clique na própria home e a ida de `/black-friday` a `/#loja-x`.
 - **Página da data:** "Ver tudo da {data}" leva ao `hub`, quando houver.
 - **Celular:** os cards rolam na horizontal.
 
@@ -429,7 +437,7 @@ Ficam como na D: mudam o visual (paleta e tipografia do Encarte: `marinho`, `ama
 | escolher uma aba | `home_store_select` (com `store`; `cecilia` na aba dela) | `home_store_tabs` |
 | copiar o código | evento de cópia do `CopyCodeButton` | `home_store_banner` |
 | "Ir para a {loja}" | `coupon_store_click`, pelo `CouponStoreLink` (decisão G) | `home_store_banner` |
-| "Ver a página da loja" | `home_route_click` | `home_store_page` |
+| "Ver a página da loja" | `coupon_page_click`, pelo `TrackedCouponPageLink` (decisão H) | `home_store_page` |
 | artigo da aba (story ou lista) e "Ver os {total} artigos" | `home_route_click` | `home_store_articles` |
 | links do painel da Cecília ("Mais sobre mim", redes) | `home_route_click` | `home_cecilia` |
 | card do "Acabou de sair" e "Ver todos" | `home_route_click` | `home_latest` |
@@ -455,8 +463,9 @@ placements das seções que saem (`home_featured_guides`, `home_review_categorie
   - no máximo 3 artigos por loja, sem campo de código, e o `total` e o `allArticlesPath` certos;
   - a página da loja de toda aba é `/cupons/{slug}`, a da DAMIE inclusive;
   - os 5 do "Acabou de sair".
-- **`test:home-stores`** (Fase 2b, ampliado): as lojas da subpágina são as ativas com artigo, a
-  SHEIN fica de fora enquanto não tiver, e nenhuma review tem o slug `loja`.
+- **`test:home-stores`** (Fase 2b, ampliado): as lojas da subpágina são as ativas com mais de 3
+  artigos, as mesmas do "Ver os N artigos" da vitrine; o sitemap traz essas e nenhuma outra
+  `/reviews/loja/`; nenhuma review tem o slug `loja`.
 - **`test:home-events`** (novo, Fase 4a): a validação de `home-events.json` e a escolha do evento
   ativo, que recebe a data por parâmetro. Na Fase 4c, ele também confere que todo `hub` tem a
   rota criada e entra no sitemap.
@@ -494,7 +503,7 @@ commits de conteúdo, como nos commits anteriores, e não entram na conta.
 | 4b | Datas comerciais na home | `HomeEvent.tsx`, `TrackedHomeLink.tsx`, `test-home-route-tracking.ts`, `page.js` |
 | 4c | Página da data | `EventHubPage.tsx`, `src/app/(pt)/black-friday/page.tsx` (a primeira data), `src/app/sitemap.ts`, `scripts/test-home-events.ts` |
 | 5 | Visual das seções de baixo | `PopularRecipes.tsx`, `MyLinks.tsx`, `Offers.tsx`, `CTA.tsx`, `VideoCarousel.tsx` |
-| 6a | Tira da home o que saiu | `page.js` e a remoção de `Hero.tsx`, `CouponStrip.tsx`, `FeaturedReviewGuides.tsx`, `ReviewsShowcase.tsx` (cada remoção só depois do grep) |
+| 6a | Tira da home o que saiu | `page.js` e a remoção de `Hero.tsx`, `CouponStrip.tsx`, `FeaturedReviewGuides.tsx`, `ReviewsShowcase.tsx`, e de `getCouponStripItems`/`CouponStripItem` em `couponsData.ts` (cada remoção só depois do grep) |
 | 6b | Restos e placements antigos | `HomeEditorialPick.tsx`, `homeCuration.ts`, `home-curation.json`, `test-home-curation.ts` e o script do `package.json` (Decisão D); `selectHomeReviewDiscovery` e o teste dele, se o grep provar que só a home usava; `TrackedHomeLink.tsx` e `test-home-route-tracking.ts`. Mais de 5 arquivos: divide em 6b-1 e 6b-2 |
 | 6c | Travas e documentação | `test-build-output.ts`, `CLAUDE.md` |
 
@@ -543,3 +552,10 @@ Respondidas depois da revisão do código:
   artigos e as páginas `/cupons`, para os cliques nas lojas vindos da home caírem no mesmo relatório.
   O link sai pelo `CouponStoreLink`, o renderizador que o site já usa, e `home_store_banner` deixa
   de ser um `HomeRoutePlacement`; a cópia do código segue com o mesmo `placement`.
+- **H.** (08/10, revisão final da Fase 2) O "Ver a página da loja" da vitrine dispara
+  `coupon_page_click`, pelo `TrackedCouponPageLink`, como o AGENTS.md manda para link interno de
+  cupom e como a subpágina já fazia: todo clique para `/cupons` cai no mesmo relatório.
+  `home_store_page` sai de `HomeRoutePlacement` e entra em `CouponPageLinkPlacement`.
+- **I.** (08/10, revisão final da Fase 2) Loja só tem subpágina e entrada no sitemap quando passa
+  de 3 artigos, a regra do "Ver os N artigos". Com até 3, nada no site linkaria a subpágina
+  (Insider e Let's Eat It com 3, Magalu com um card só).
