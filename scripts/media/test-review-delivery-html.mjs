@@ -11,7 +11,7 @@ const pages = [
   'sobre',
   'cupons',
   'cupons/yesstyle',
-  'cupons/nutren',
+  'cupons/nestle-nutre',
   'receitas/bolo-de-cenoura-com-cobertura-de-chocolate',
 ];
 

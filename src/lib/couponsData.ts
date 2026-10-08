@@ -453,7 +453,7 @@ export const COUPONS: Coupon[] = [
   },
   {
     offerMode: 'discount-code',
-    slug: 'nutren',
+    slug: 'nestle-nutre',
     brand: 'Nestlé Nutre',
     officialUrl: 'https://www.nestlenutre.com.br/',
     offerUrl: 'https://www.nestlenutre.com.br/',
