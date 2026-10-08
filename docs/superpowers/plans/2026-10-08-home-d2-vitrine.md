@@ -942,6 +942,10 @@ Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
 
 ### Task 5: placements novos
 
+> Ajuste da rodada 2 da Fase 2a (decisão G da spec, 08/10): o "Ir para a {loja}" passa ao
+> `CouponStoreLink` com `coupon_store_click`; `home_store_banner` sai de `HomeRoutePlacement` e
+> entra no `placement` do `CouponStoreLink` (`src/components/CouponComponents.tsx`).
+
 **Files:**
 - Modify: `src/components/coupons/CouponActions.tsx:9-19` (`CopyPlacement`)
 - Modify: `src/components/TrackedHomeLink.tsx:7-11` (`HomeRoutePlacement`)
@@ -1206,6 +1210,11 @@ Run: `npm run typecheck`
 Expected: sem erro.
 
 ### Task 7: vitrine (`HomeStoreStories.tsx`) e a home
+
+> Ajustes das rodadas de correção da Fase 2a (08/10): o "Ir para a {loja}" é um `CouponStoreLink`
+> (decisão G); a bolinha usa `scroll-mt-40`; a dica troca para `hints.copied` depois de copiar; o
+> zoom da bolinha é `motion-safe:`; a imagem do story usa `loading`/`fetchPriority` no lugar de
+> `priority`; o painel da Cecília tem o DOM na ordem do celular e grade de 2 linhas no desktop.
 
 **Files:**
 - Create: `src/components/sections/HomeStoreStories.tsx`

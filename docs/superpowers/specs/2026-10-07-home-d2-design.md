@@ -428,7 +428,7 @@ Ficam como na D: mudam o visual (paleta e tipografia do Encarte: `marinho`, `ama
 |---|---|---|
 | escolher uma aba | `home_store_select` (com `store`; `cecilia` na aba dela) | `home_store_tabs` |
 | copiar o código | evento de cópia do `CopyCodeButton` | `home_store_banner` |
-| "Ir para a {loja}" | `home_route_click` | `home_store_banner` |
+| "Ir para a {loja}" | `coupon_store_click`, pelo `CouponStoreLink` (decisão G) | `home_store_banner` |
 | "Ver a página da loja" | `home_route_click` | `home_store_page` |
 | artigo da aba (story ou lista) e "Ver os {total} artigos" | `home_route_click` | `home_store_articles` |
 | links do painel da Cecília ("Mais sobre mim", redes) | `home_route_click` | `home_cecilia` |
@@ -539,3 +539,7 @@ Respondidas depois da revisão do código:
   e `sofa-damie-modular-vale-a-pena` também ficam, e artigos novos podem linkar `/cupons/damie`.
   Isso substitui a regra do dossiê `01_Parceiros/DAMIE.md` de 07/10; `AGENTS.md`, o contrato de
   artigo de afiliado e a manutenção mensal foram atualizados no mesmo dia.
+- **G.** (08/10, na Fase 2a) O "Ir para a {loja}" da vitrine dispara `coupon_store_click`, como os
+  artigos e as páginas `/cupons`, para os cliques nas lojas vindos da home caírem no mesmo relatório.
+  O link sai pelo `CouponStoreLink`, o renderizador que o site já usa, e `home_store_banner` deixa
+  de ser um `HomeRoutePlacement`; a cópia do código segue com o mesmo `placement`.
