@@ -99,14 +99,14 @@ para ela e é revisto para as duas páginas não disputarem a mesma busca.
 | Preços da 1.0 no Pix: elétrica base fixa R$ 3.374,10 (cheio R$ 4.749); com elevação R$ 4.472,10 (R$ 5.969); manual R$ 2.672,10 (R$ 3.969) | Preço volátil | Produtos relacionados da mesma página | — | 2026-10-08 | [x] Sim, com a data |
 | Desconto por quantidade pelo WhatsApp: R$ 500 em 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4, R$ 2.000 em 5 | Condição comercial | Mesma página | "Poltronas reclináveis na compra de 2…" | 2026-10-08 | [x] Sim |
 | CECILIA12: 12% OFF em todo o site, sem limite por CPF, soma com promoções e brindes, não soma com outro cupom | Condição comercial | `src/lib/couponsData.ts` (slug `damie`) | — | 2026-10-08 | [x] Sim; a data do teste fica na página da loja |
-| A ordem dos descontos no checkout (cupom antes ou depois do Pix) e o preço final com tudo | Cálculo | Checkout | — | A conferir | [ ] Só com print do checkout; sem ele, o artigo diz "confira o total no checkout" |
+| O CECILIA12 soma com todas as promoções e descontos do site (página, Pix, quantidade); não soma com outro cupom nem com o giftback. No Pix: R$ 4.299 × 0,88 × 0,90 = R$ 3.404,81 | Condição comercial + cálculo | Bruno, 08/10/2026 | — | 2026-10-08 | [x] Sim; o valor é conta nossa (um desconto sobre o outro), e o artigo manda conferir o resumo do checkout |
 | Bases, giros e reclinação (giro de 180° na base com balanço) | Fato oficial | Dossiê DAMIE, seção 2 | — | 2026-10-07 | [x] Sim |
 | Levita: linho R$ 7.900 → R$ 6.400, couro R$ 9.400 → R$ 7.400; Aurora com puff: linho R$ 7.400 → R$ 5.400, couro R$ 8.400 → R$ 6.400; Sofá Modular 2 lugares R$ 5.150 → R$ 3.850, 3 lugares R$ 6.100 → R$ 5.100; Poltrona Cinema 2.0, 2 lugares R$ 5.938 → R$ 5.438, 3 lugares R$ 9.457 → R$ 8.457 (suede, bouclé ou linho) | Preço volátil | Catálogo do site (`products.json`) | — | 2026-10-08 | [x] Sim, com a data. A Moon não está mais no site (só no Mercado Livre) |
 | Frete grátis em poltronas e sofás no Sul e no Sudeste; Centro-Oeste pelo CEP; Norte e Nordeste só pelos anúncios oficiais no Mercado Livre; prazo no cálculo do frete, contado da confirmação do pagamento; entrega até o hall em prédio; montagem por encaixe, sem ferramentas; recusar se houver avaria | Regra oficial | damie.com.br/pages/fretes-e-entregas | — | 2026-10-08 | [x] Sim. A página diz "Centro-Oeste e capitais" sem dizer quais capitais: o artigo cita só o Centro-Oeste |
 | Pix à vista com 10% OFF (a página do produto mostra o preço no Pix já com a promoção); 12x sem juros, parcela mínima de R$ 100; boleto compensa em até 2 dias úteis; Pix libera o pedido mais rápido | Regra oficial | damie.com.br/pages/formas-de-pagamento | — | 2026-10-08 | [x] Sim |
 | Giftback de 15% em 45 dias | Condição comercial | Faixa do site | — | 2026-10-08 | [x] Só como "a faixa promete"; as regras não estão publicadas no site |
 | Brinde de carregador USB (A e C) e porta-copos pretos, adicionados sozinhos ao carrinho de qualquer reclinável ou cinema | Condição comercial | Faixa do topo da página de produto | — | 2026-10-08 | [x] Sim, com a data |
-| CECILIA12 no cartão: 12% sobre R$ 4.299 = R$ 515,88, total R$ 3.783,12 | Cálculo | Regra do cupom (soma com promoções) aplicada ao preço do dia | — | 2026-10-08 | [x] Sim. O CECILIA12 vale com todas as formas de pagamento (Bruno, 08/10): o artigo diz isso sem restringir a "Pix e cartão". O total no Pix com os dois descontos só com print do checkout |
+| CECILIA12 no cartão: 12% sobre R$ 4.299 = R$ 515,88, total R$ 3.783,12 | Cálculo | Regra do cupom (soma com promoções) aplicada ao preço do dia | — | 2026-10-08 | [x] Sim. O CECILIA12 vale com todas as formas de pagamento (Bruno, 08/10): o artigo diz isso sem restringir a "Pix e cartão". No Pix, ver a linha da soma dos descontos |
 
 ---
 
@@ -129,7 +129,7 @@ para ela e é revisto para as duas páginas não disputarem a mesma busca.
 - JSON em `content/reviews/black-friday-damie.json` (id 331), no fim do `_manifest.json`. É a fonte da verdade do texto.
 - Capa: `/images/reviews/damie/black-friday-damie-cecilia-poltrona-reclinavel.webp`, 1600×900, recorte 16:9 de "Poltrona Reclinavel - Cecilia com Ian sentada na poltrona.jpg" (pasta `Damie/`), com a Cecília, o Ian e os porta-copos. Fica fora do commit até a subida ao CDN.
 - Preços tirados do catálogo do site em 08/10/2026 e conferidos na página de produto. Antes de publicar, reconsultar o catálogo e a faixa do site e trocar as datas; `publishedAt` vai para o dia do deploy.
-- Fora do texto: percentuais de sites de cupom, a Moon (fora do site), o total no Pix com o cupom (sem print do checkout) e qualquer condição de campanha que a DAMIE ainda não tenha publicado.
+- Fora do texto: percentuais de sites de cupom, a Moon (fora do site), o giftback somado ao cupom (não soma) e qualquer condição de campanha que a DAMIE ainda não tenha publicado.
 - Links: `/cupons/damie` uma vez (seção dos descontos) e o subdomínio no CTA (`utm_content=black-friday-damie-cta`).
 
 ---
