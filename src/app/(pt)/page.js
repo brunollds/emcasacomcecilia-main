@@ -73,7 +73,7 @@ export default async function Home() {
     <div className={`${couponFontVariables} min-h-screen bg-[#fef9f3]`}>
       <h1 className="sr-only">Em Casa com Cecília: guias, códigos de desconto e receitas</h1>
 
-      {/* 1. Vitrine: a Cecília e as lojas parceiras */}
+      {/* Vitrine: a Cecília e as lojas parceiras */}
       <div className="bg-white pb-8 md:pb-10">
         <HomeStoreStories
           tabs={getHomeStoreTabs(publishedReviews)}
@@ -82,7 +82,7 @@ export default async function Home() {
         />
       </div>
 
-      {/* 2. Acabou de sair: os 5 artigos mais novos, no lugar dos destaques e do carrossel de Guias & Análises */}
+      {/* Acabou de sair: os 5 artigos mais novos, no lugar dos destaques e do carrossel de Guias & Análises */}
       <div className="bg-white pb-8 md:pb-10">
         <HomeLatest articles={getHomeLatest(publishedReviews)} />
       </div>
@@ -92,16 +92,16 @@ export default async function Home() {
         <HomeEditorialPick item={activeHomePick} />
       ) : null}
 
-      {/* 3. Receitas Populares */}
+      {/* Receitas Populares */}
       <PopularRecipes popularSlugs={popularRecipeSlugs} />
 
-      {/* 4. Universo da Cecília */}
+      {/* Universo da Cecília */}
       <MyLinks />
 
-      {/* 5. Ofertas */}
+      {/* Ofertas */}
       <Offers items={featuredOffers} />
 
-      {/* 6. CTA YouTube */}
+      {/* CTA YouTube */}
       <CTA />
     </div>
   );

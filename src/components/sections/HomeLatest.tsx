@@ -12,7 +12,7 @@ type CardDecor = { magnet: string | null; tilt: string };
 const CARD_DECOR: CardDecor[] = [
   { magnet: '-top-3 -right-3 bg-amarelo-cupom', tilt: '-rotate-1' },
   { magnet: null, tilt: '' },
-  { magnet: '-bottom-3 -right-3 bg-laranja', tilt: 'rotate-[0.5deg]' },
+  { magnet: '-top-3 -left-3 bg-laranja', tilt: 'rotate-[0.5deg]' },
   { magnet: null, tilt: '' },
   { magnet: '-top-3 -right-3 bg-marinho', tilt: 'rotate-[-0.6deg]' },
 ];

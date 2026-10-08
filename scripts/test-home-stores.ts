@@ -208,6 +208,7 @@ assert.equal(latestFixture[0].store, undefined);
 assert.equal(latestFixture[1].store, 'DAMIE');
 assert.equal(latestFixture[2].dateLabel, '01/10');
 assert.equal(latestFixture[2].href, '/reviews/novo');
+assert.equal(latestFixture[2].image, resolveMediaUrl('/images/reviews/teste/novo.webp'));
 
 const latest = getHomeLatest(publishedReviews);
 assert.deepEqual(latest.map(({ slug }) => slug), listed.slice(0, 5).map(({ slug }) => slug));
