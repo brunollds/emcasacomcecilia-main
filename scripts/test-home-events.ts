@@ -2,8 +2,12 @@ import assert from 'node:assert/strict';
 import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 
+import { createElement } from 'react';
+import { renderToStaticMarkup } from 'react-dom/server';
+
 import sitemap from '@/app/sitemap';
 
+import { EventCard, HomeEvent } from '@/components/sections/HomeEvent';
 import { COUPONS } from '@/lib/couponsData';
 import { publishedReviews } from '@/lib/data';
 import {
@@ -151,7 +155,7 @@ assert.equal(resolveActiveHomeEvent({ events: [] }, reviews, at('2026-11-10T12:0
 assert.equal(formatEventDay('2026-11-27T00:00:00-03:00'), 'Sexta, 27 de novembro');
 assert.equal(formatEventDay('2026-11-27T00:00:00-03:00', true), 'Sexta, 27 de novembro de 2026');
 assert.equal(formatEventDay('2026-11-11T00:00:00-03:00'), 'Quarta, 11 de novembro');
-assert.equal(formatEventDay('2026-03-01T00:00:00-03:00'), 'Domingo, 1 de março');
+assert.equal(formatEventDay('2026-03-01T00:00:00-03:00'), 'Domingo, 1º de março');
 const BF_DAY = '2026-11-27T00:00:00-03:00';
 assert.equal(getCountdownLabel(BF_DAY, at('2026-11-07T10:00:00-03:00')), 'faltam 20 dias');
 assert.equal(getCountdownLabel(BF_DAY, at('2026-11-25T23:59:00-03:00')), 'faltam 2 dias');
@@ -191,6 +195,29 @@ assert.equal(semLoja.codeLink, undefined);
 assert.equal(kopenhagen.store, undefined, 'loja pausada não tem faixa');
 assert.equal(kopenhagen.codeLink, undefined, 'loja pausada não tem aba na vitrine');
 for (const card of active.cards) assert.ok(!('code' in card), 'card sem código');
+
+// A faixa renderizada: o HTML que a home serve durante a campanha.
+const bandHtml = renderToStaticMarkup(createElement(HomeEvent, { event: active }));
+const bandText = bandHtml.replace(/<[^>]+>/g, ' ');
+assert.match(bandHtml, /<h2 id="titulo-data-comercial"[^>]*>Black Friday<\/h2>/);
+assert.match(bandHtml, /<time datetime="2026-11-27">Sexta, 27 de novembro<\/time>/i);
+assert.ok(bandText.includes('faltam 20 dias'));
+assert.equal(bandHtml.match(/href="\/reviews\//g)?.length, 4, 'um link por card');
+assert.ok(bandHtml.includes('href="/#loja-damie"') && bandHtml.includes('href="/#loja-magalu"'));
+assert.equal(bandHtml.match(/href="\/#loja-/g)?.length, 2, 'loja pausada e card sem loja ficam sem "Ver o código"');
+assert.ok(bandText.includes('Ver o código da DAMIE') && bandText.includes('Ver o código do Magalu'));
+assert.match(bandHtml, /href="\/black-friday"[^>]*>Ver tudo da Black Friday</);
+assert.ok(!bandHtml.includes('<code') && !/cupom|copiar/i.test(bandText), 'a faixa não mostra código nem fala em cupom');
+assert.equal(
+  bandHtml.match(/focus-visible:outline-amarelo-cupom/g)?.length,
+  active.cards.length + 1,
+  'no tema noite, o link de cada card e o "Ver tudo" têm o anel amarelo'
+);
+
+// Na página da data (fundo creme), o card usa o anel marinho.
+const hubCardHtml = renderToStaticMarkup(createElement(EventCard, { card: damie, placement: 'event_hub' }));
+assert.ok(hubCardHtml.includes('href="/reviews/bf-damie"') && hubCardHtml.includes('href="/#loja-damie"'));
+assert.ok(!hubCardHtml.includes('outline-amarelo-cupom'), 'anel marinho no fundo claro');
 
 const christmas = resolveActiveHomeEvent(config, reviews, at('2026-12-10T12:00:00-03:00'), stores);
 assert.equal(christmas?.theme, 'laranja');
@@ -253,6 +280,9 @@ assert.ok(hubRoutes.includes('black-friday'), 'a rota /black-friday existe');
 for (const name of hubRoutes) {
   const source = readFileSync(resolve(appDir, name, 'page.tsx'), 'utf8');
   assert.ok(source.includes(`const HUB = '${name}';`), `/${name} declara o hub dela`);
+  assert.ok(source.includes('<EventHubPage hub={HUB} />'), `/${name} passa o próprio hub à página`);
+  assert.ok(source.includes('getEventHubMetadata(HUB)'), `/${name} usa o próprio hub nos metadados`);
+  assert.ok(source.includes('export const revalidate = 300;'), `/${name} se renova a cada 5 minutos`);
 }
 const realHubPaths = getEventHubPaths(realConfig, publishedReviews);
 for (const path of realHubPaths) {
@@ -265,4 +295,4 @@ for (const name of hubRoutes) {
   assert.equal(sitemapPaths.has(`/${name}`), realHubPaths.includes(`/${name}`), `/${name} no sitemap só com edição`);
 }
 
-console.log(`✅ homeEvents: validação (${invalid.length} casos), janela, contagem, home, página da data, rotas e sitemap passaram.`);
+console.log(`✅ homeEvents: validação (${invalid.length} casos), janela, contagem, home (dados e HTML), página da data, rotas e sitemap passaram.`);

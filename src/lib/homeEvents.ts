@@ -197,7 +197,7 @@ function saoPauloDay(date: Date) {
 
 export function formatEventDay(iso: string, withYear = false): string {
   const { year, month, day, weekday } = saoPauloDay(new Date(iso));
-  return `${WEEKDAYS[weekday]}, ${day} de ${MONTHS[month - 1]}${withYear ? ` de ${year}` : ''}`;
+  return `${WEEKDAYS[weekday]}, ${day === 1 ? '1º' : day} de ${MONTHS[month - 1]}${withYear ? ` de ${year}` : ''}`;
 }
 
 // O mesmo dia do rótulo, como AAAA-MM-DD, para o <time dateTime>.

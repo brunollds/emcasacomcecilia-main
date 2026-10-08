@@ -60,8 +60,11 @@ export function EventHubPage({ hub }: { hub: string }) {
         </div>
       </section>
 
-      <section aria-label={`Guias ${page.titleOf}`} className="px-4 py-8 md:px-10 md:py-10">
+      <section aria-labelledby="titulo-guias-da-data" className="px-4 py-8 md:px-10 md:py-10">
         <div className="mx-auto max-w-[1200px]">
+          <h2 id="titulo-guias-da-data" className="sr-only">
+            Guias {page.titleOf}
+          </h2>
           <ul className="grid gap-[18px] sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             {page.cards.map((card) => (
               <li key={card.slug} className="flex">
@@ -72,7 +75,7 @@ export function EventHubPage({ hub }: { hub: string }) {
           <div className="mt-10 flex justify-center">
             <Link
               href="/reviews"
-              className={`inline-flex min-h-11 items-center gap-2 rounded-full border-2 border-marinho px-8 font-extrabold text-marinho ${FOCUS_RING}`}
+              className={`inline-flex min-h-11 items-center gap-2 rounded-full border-2 border-marinho px-8 font-extrabold text-marinho hover:bg-marinho hover:text-white motion-safe:transition-colors ${FOCUS_RING}`}
             >
               Ver todos os guias e análises
               <ArrowRight aria-hidden="true" className="size-4" />
