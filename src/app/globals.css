@@ -111,11 +111,6 @@ html:lang(ja) {
   }
 }
 
-@keyframes shimmer {
-  0% { background-position: -1000px 0; }
-  100% { background-position: 1000px 0; }
-}
-
 /* ken-burns e pulse-subtle: o HomeCeciliaPanel usa por animate-[…]. */
 @keyframes ken-burns {
   0% { transform: scale(1); }
@@ -170,48 +165,6 @@ html:lang(ja) {
 
 .animate-slide-down {
   animation: slide-down 0.3s ease-out;
-}
-
-.animate-shimmer {
-  animation: shimmer 2s linear infinite;
-  background: linear-gradient(to right, #f0f0f0 0%, #e0e0e0 50%, #f0f0f0 100%);
-  background-size: 1000px 100%;
-}
-
-/* Hover effects */
-.hover-lift {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.hover-lift:hover {
-  transform: translateY(-4px);
-  box-shadow: var(--shadow-large);
-}
-
-.card-hover {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.card-hover:hover {
-  transform: translateY(-2px);
-  box-shadow: var(--shadow-medium);
-}
-
-.img-zoom {
-  overflow: hidden;
-}
-
-.img-zoom img {
-  transition: transform 0.5s ease;
-}
-
-.img-zoom:hover img {
-  transform: scale(1.1);
-}
-
-/* Gradient overlays */
-.category-overlay {
-  background: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,0.6) 100%);
 }
 
 /* Scrollbar customizada */
@@ -730,7 +683,6 @@ html:lang(ja) {
   }
 
   /* Remove gradients and complex backgrounds */
-  .category-overlay,
   .gradient,
   .bg-gradient {
     background: white !important;

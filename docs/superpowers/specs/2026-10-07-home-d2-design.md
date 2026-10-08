@@ -636,11 +636,11 @@ esta lista:
 
   O Lighthouse fica para o Bruno, pelo DevTools. O `ReviewMobileBottomBar.tsx` importa o
   `FOCUS_RING` de `src/components/ui/focusRing.ts` (`db287aa`).
-- **Limpeza anterior à D2 (revisão final da Fase 6), a combinar com o Bruno:** `Badge.tsx` e
-  `Card.tsx` em `src/components/ui/` não têm uso; com eles, `clsx` e `tailwind-merge` saem do
-  `package.json` (mexe no lockfile), e o CSS sem uso de `globals.css` (`.animate-shimmer`,
-  `@keyframes shimmer`, `.hover-lift`, `.card-hover`, `.img-zoom`, `.category-overlay`). O
-  `Button.tsx` e as classes que só o Hero usava já saíram (`add2f29`).
+- **Limpeza anterior à D2 (feita em 08/10, com o Bruno):** o `Button.tsx` e as classes que só o
+  Hero usava saíram em `add2f29`. O `Badge.tsx` e o `Card.tsx`, sem uso, saíram em `9a01b99`, com
+  o `clsx`, o `tailwind-merge` e o `class-variance-authority`, que só eles usavam. Depois saiu o
+  CSS sem uso de `globals.css`: `.animate-shimmer`, `@keyframes shimmer`, `.hover-lift`,
+  `.card-hover`, `.img-zoom` e `.category-overlay`.
 - **Pedido do Bruno (08/10), numa fase a combinar:** as bolinhas viram um carrossel e as lojas
   entram na ordem do artigo mais novo de cada uma. A Cecília fica sempre em primeiro. Loja sem
   artigo fica no fim, na ordem de `couponsData.ts`. A ordem sai dos dados, então muda sozinha a

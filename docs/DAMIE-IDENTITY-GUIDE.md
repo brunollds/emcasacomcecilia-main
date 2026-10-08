@@ -119,9 +119,8 @@ Os SVGs dos ícones estão inline no próprio `Footer.js` (Youtube, Instagram, F
 | `focusRing.ts` | Anel de foco comum (`FOCUS_RING` e `FOCUS_RING_ON_DARK`) |
 | `ScrollRow.tsx` | Fila de cards que rola na horizontal e traz o card focado pelo teclado |
 | `CategoryIcon.tsx` | Ícone de categoria (usa Phosphor icons) |
-| `Card.tsx`, `Badge.tsx` | Sem uso hoje; a limpeza está nas pendências da spec da home D2 |
 
-Todos usam `clsx` + `tailwind-merge` para className merging.
+As classes se juntam com template string; o site não usa `clsx` nem `tailwind-merge`.
 
 ---
 
