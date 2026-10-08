@@ -97,7 +97,7 @@ esconde). Sem código, sem link de loja e sem artigos. O painel tem:
 - os links de Instagram, TikTok e YouTube (`brandLinks`);
 - os números das redes, de `socialMedias` em `src/lib/brandLinks.ts`, com a formatação que o
   `Hero.tsx` já usa (`formatHeroFollowerCount`);
-- o cartão de foto (`/images/photos/BRU-1.jpg` via `resolveMediaUrl`), com @emcasacomcecilia, o
+- o cartão de foto (`CECILIA_PHOTO`, de `src/lib/homeStores.ts`), com @emcasacomcecilia, o
   total de seguidores do Instagram e "Bastidores, rotina e receitas da Cecília";
 - o botão do grupo de WhatsApp ("Entre no grupo de promoções", `brandLinks.whatsappGroup`), logo
   depois dos links, como no Hero de hoje e com o mesmo pulso (decisão J);
@@ -247,8 +247,8 @@ então a subpágina usa o card de hoje e muda junto com ela.
   `role="tab"` com `aria-selected` e `aria-controls`, `role="tabpanel"`, setas, Home e End.
   O canvas usou `aria-current`, mas o padrão de abas é o mais preciso para o código real.
 - Alvos de toque de 44 px no mínimo e fonte de 12 px no mínimo.
-- Foco visível: `FOCUS_RING` de `CouponBlocks.tsx`, amarelo nas áreas escuras (o painel da Cecília
-  é marinho).
+- Foco visível: `FOCUS_RING` de `src/components/ui/focusRing.ts`, e o `FOCUS_RING_ON_DARK`, amarelo,
+  nas áreas escuras (o painel da Cecília é marinho).
 - O texto dos botões do story ("Artigo anterior", "Próximo artigo") fica em `aria-label`.
 
 ### HTML do servidor e imagens
@@ -469,7 +469,11 @@ placements das seções que saem (`home_featured_guides`, `home_review_categorie
   - no painel da YesStyle, "Código de recompensa" e nenhum "Cupom YesStyle";
   - no da SHEIN, "Código de indicação";
   - no da Nutre, a exclusão das fórmulas infantis;
-  - o painel da DAMIE e a subpágina da DAMIE linkam `/cupons/damie`.
+  - o painel da DAMIE e a subpágina da DAMIE linkam `/cupons/damie`;
+  - o "Acabou de sair" com os 5 artigos mais novos e o link para `/reviews`, sem código, sem botão
+    de copiar e sem rótulo de cupom (Fase 3a);
+  - no painel da Cecília, o link do grupo de WhatsApp com `target="_blank"` e
+    `rel="noopener noreferrer"`, depois de "Mais sobre mim" e antes dos números (Fase 3b).
 
   A conferência que já existe para toda página que cita o CECILIA010 passa a cobrir a home sozinha.
 - **`test:client-bundle`**: nem o componente da vitrine nem o card extraído de `/reviews` podem
@@ -497,8 +501,8 @@ commits de conteúdo, como nos commits anteriores, e não entram na conta.
 | 4b | Datas comerciais na home | `HomeEvent.tsx`, `TrackedHomeLink.tsx`, `test-home-route-tracking.ts`, `page.js` |
 | 4c | Página da data | `EventHubPage.tsx`, `src/app/(pt)/black-friday/page.tsx` (a primeira data), `src/app/sitemap.ts`, `scripts/test-home-events.ts` |
 | 5 | Visual das seções de baixo | `PopularRecipes.tsx`, `MyLinks.tsx`, `Offers.tsx`, `CTA.tsx`, `VideoCarousel.tsx` |
-| 6a | Tira da home o que saiu | `page.js` e a remoção de `Hero.tsx`, `CouponStrip.tsx`, `FeaturedReviewGuides.tsx`, `ReviewsShowcase.tsx`, e de `getCouponStripItems`/`CouponStripItem` em `couponsData.ts` (cada remoção só depois do grep) |
-| 6b | Restos e placements antigos | `HomeEditorialPick.tsx`, `homeCuration.ts`, `home-curation.json`, `test-home-curation.ts` e o script do `package.json` (Decisão D); `selectHomeReviewDiscovery` e o teste dele, se o grep provar que só a home usava; `TrackedHomeLink.tsx` e `test-home-route-tracking.ts`. Mais de 5 arquivos: divide em 6b-1 e 6b-2 |
+| 6a | Tira da home o que saiu | `page.js` e a remoção de `Hero.tsx`, `CouponStrip.tsx`, `FeaturedReviewGuides.tsx`, `ReviewsShowcase.tsx`, `ReviewCategoryLinks.tsx` (só o `ReviewsShowcase` o importa), e de `getCouponStripItems`/`CouponStripItem` em `couponsData.ts` (cada remoção só depois do grep) |
+| 6b | Restos e placements antigos | `HomeEditorialPick.tsx`, `homeCuration.ts`, `home-curation.json`, `test-home-curation.ts` e o script do `package.json` (Decisão D); `selectHomeReviewDiscovery` e o teste dele, se o grep provar que só a home usava; `TrackedHomeLink.tsx` (inclusive o `getHomeCategoryFilterParameters`, sem uso desde a 3a) e `test-home-route-tracking.ts` (com o caso do filtro). Mais de 5 arquivos: divide em 6b-1 e 6b-2 |
 | 6c | Travas e documentação | `test-build-output.ts`, `CLAUDE.md` |
 
 As Fases 0a a 0c são uma mudança só, dividida pelo limite de arquivos: entre elas, 7 artigos ainda
@@ -520,8 +524,16 @@ em dia.
 A revisão das Fases 1, 2a e 2b deixou para depois o que não bloqueava. Cada plano de fase confere
 esta lista:
 
-- **Fase 3:** uma constante para a foto da Cecília (`/images/photos/BRU-1.jpg`), hoje repetida em
-  `page.js` e `HomeCeciliaPanel.tsx`.
+- **Fase 3 (feito em `0d5d620`):** uma constante para a foto da Cecília, `CECILIA_PHOTO` em
+  `src/lib/homeStores.ts`, usada pelo `page.js` e pelo `HomeCeciliaPanel.tsx`.
+- **Movimento automático no painel da Cecília (revisão final da Fase 3, decisão do Bruno):** o
+  pulso do WhatsApp se mexe por 12 s (4 × 3 s, depois de 2 s), e o zoom da foto e os ícones
+  flutuando não param. O WCAG 2.2.2 pede pausa para movimento automático de mais de 5 s. O
+  `motion-safe:` atende quem pediu menos movimento, mas não é a técnica do 2.2.2. Uma regra só para
+  a home, junto com o temporizador do carrossel (decisão K).
+- **Fase 6c:** o Tailwind v4 lê `docs/` e põe no CSS de produção as classes dos blocos de código
+  dos planos (o `auto-fit` da Task 2 da Fase 3, sem uso). Um `@source not "../../docs";` no
+  `globals.css` resolve.
 - **Na próxima mudança de `homeStoreTabs.ts`:** o prefixo `loja-` numa constante; a conta das
   setas, Home e End sai de `HomeStoreStories.tsx` para lá, com teste; o teste ganha a ida e volta
   `parseTabHash('#' + getTabAnchor(id))`, o hash sem `#` e `getTabOrder([])`.
