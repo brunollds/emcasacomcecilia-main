@@ -52968,7 +52968,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "Em outubro de 2026, quase toda a Porto Brasil já estava com 40% OFF",
-      "5% de desconto no Pix",
+      "5% de desconto no Pix, que soma com o cupom MAUAD",
       "Cashback de 30% em cupom para a compra seguinte",
       "30 dias para trocar ou devolver, com etiqueta paga pela loja"
     ],
@@ -52986,7 +52986,7 @@ export const reviewsData: unknown[] = [
           "Até 8 de outubro de 2026, a Let's Eat It ainda não tinha anunciado campanha de Black Friday. A página inicial já abria com a coleção Natal Let's. Este guia é atualizado quando a loja anunciar.",
           "Em 8 de outubro, quase todo o catálogo da Porto Brasil estava com **40% OFF**, e algumas peças com 60%. A Le Creuset estava, na maior parte, pelo **preço cheio**: só uma seleção de peças tinha de 15% a 33% de desconto.",
           "A loja dá 5% de desconto no Pix e um cashback de 30% em cupom para a compra seguinte, que só vale numa compra de pelo menos 7 vezes o valor do cupom.",
-          "O cupom MAUAD dá 5% OFF em todo o site. No nosso teste, ele foi aceito em item com preço promocional e em pré-venda.",
+          "O cupom MAUAD dá 5% OFF em todo o site, vale com todas as formas de pagamento e soma com o desconto do Pix. No nosso teste, ele foi aceito em item com preço promocional e em pré-venda.",
           "Para o presente chegar até 24 de dezembro, pela nossa conta com o prazo mais longo da loja, pague até 16 de dezembro em São Paulo capital e até 7 de dezembro no Norte e no Nordeste."
         ]
       },
@@ -53114,8 +53114,9 @@ export const reviewsData: unknown[] = [
           "**Pix:** 5% de desconto nas compras por Pix, segundo a página do produto.",
           "**Cashback de 30%:** depois da compra, a loja manda pelo WhatsApp um cupom de 30% do valor, válido por 30 dias. Ele só entra numa compra de pelo menos 7 vezes o valor do cupom, sem contar o frete (um trecho da mesma página fala em 5 vezes). Na prática, um cashback de R$ 300 pede uma compra de R$ 2.100 e vira cerca de 14% de desconto nela.",
           "**Cashback na Black Friday:** como o cupom vale 30 dias a partir da compra, uma compra feita a partir de 28 de outubro gera um cashback que ainda vale em 27 de novembro.",
-          "**Cupom MAUAD:** 5% OFF em todo o site. No nosso teste de 2 de outubro, ele foi aceito num carrinho com item em promoção e item em pré-venda, e o desconto saiu do subtotal, antes do frete.",
-          "**O que não confirmamos:** se o Pix soma com o MAUAD e se o cupom do cashback e o MAUAD entram no mesmo pedido. A página do cashback manda consultar as condições do dia, e o checkout mostra o total antes de pagar.",
+          "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. No nosso teste de 2 de outubro, ele foi aceito num carrinho com item em promoção e item em pré-venda, e o desconto saiu do subtotal, antes do frete.",
+          "**Pix com o cupom:** os dois somam. Na panela Redonda Signature de 20 cm, a R$ 2.329, o MAUAD tira R$ 116,45, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 2.101,92, sem o frete. O resumo do checkout mostra o valor exato antes de pagar.",
+          "**O que não confirmamos:** se o cupom do cashback e o MAUAD entram no mesmo pedido. A página do cashback manda consultar as condições do dia, e o checkout mostra o total antes de pagar.",
           "**Frete:** não há frete grátis na compra. Ele é calculado pelo CEP e pelo peso do pedido."
         ],
         "links": [
@@ -53197,6 +53198,7 @@ export const reviewsData: unknown[] = [
           "Panelas Le Creuset em promoção valem a pena? Compare o preço do dia com o preço cheio da tabela deste guia. Em outubro, as promoções da Let's Eat It eram de 15% a 33% e ficavam numa seleção de peças e cores.",
           "A Let's Eat It tem frete grátis? Não na compra: o frete é calculado pelo CEP e pelo peso do pedido. O envio da devolução é que sai por conta da loja.",
           "Tem cupom de primeira compra na Let's Eat It? Use o MAUAD, que dá 5% OFF em todo o site. A loja não divulga outro cupom de boas-vindas.",
+          "O cupom MAUAD soma com o desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% da loja: pela nossa conta, a panela Redonda Signature de 20 cm, de R$ 2.329 em outubro de 2026, sai por R$ 2.101,92, sem o frete.",
           "O cashback da Let's Eat It vale na Black Friday? Vale se estiver dentro dos 30 dias: uma compra feita a partir de 28 de outubro gera um cupom que ainda vale em 27 de novembro, desde que a nova compra seja de pelo menos 7 vezes o valor do cupom.",
           "A Let's Eat It tem loja física? Tem a Casa Let's, na Av. Pacaembu, 1105, em São Paulo, com 15% de desconto nas compras presenciais, exceto Le Creuset e Trussardi. Ela não faz retirada de pedidos do site.",
           "Até quando comprar para chegar antes do Natal? Pela nossa conta com o prazo mais longo da loja e um dia útil de folga, até 16 de dezembro em São Paulo capital e até 7 de dezembro no Norte e no Nordeste."

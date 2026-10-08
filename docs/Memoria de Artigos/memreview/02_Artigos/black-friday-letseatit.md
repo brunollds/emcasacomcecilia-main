@@ -104,6 +104,7 @@ presentes de Natal, sempre pela Let's Eat It.
 | Prazos de entrega por região (SP capital 3–5 dias úteis até Norte/Nordeste 7–12) | Fato oficial | Política de frete (abril de 2026) | — | 2026-10-02 | [x] Sim; a data limite para o Natal é cálculo nosso, apresentado como estimativa |
 | Trocas e devoluções em 30 dias da entrega, inclusive em promoção | Fato oficial | Política de reembolso (abril de 2026) | — | 2026-10-02 | [x] Sim |
 | MAUAD: 5% OFF em todo o site; aceito em promoção e pré-venda no teste de 02/10 | Condição comercial | `src/lib/couponsData.ts` (slug `letseatit`) | — | 2026-10-08 | [x] Sim; a data do teste fica na página da loja |
+| O MAUAD vale com todas as formas de pagamento e soma com o desconto do Pix. Redonda Signature 20 cm no Pix com o cupom: R$ 2.329 × 0,95 × 0,95 = R$ 2.101,92 | Condição comercial + cálculo | Bruno, 08/10/2026 | — | 2026-10-08 | [x] Sim; o valor é conta nossa (um desconto sobre o outro, sem o frete), e o artigo manda conferir o checkout |
 | Casa Let's: 15% nas compras presenciais, exceto Le Creuset e Trussardi | Fato oficial | letseatit.com.br/pages/casa-lets | — | 2026-10-03 | [x] Sim, separado do código do site |
 | "Produto não recebido" é o problema mais citado no Reclame Aqui | Dado externo | Dossiê, seção 3 | — | 2026-10-02 | [x] Sim, com link para o artigo do Reclame Aqui |
 
@@ -128,7 +129,7 @@ presentes de Natal, sempre pela Let's Eat It.
 - JSON em `content/reviews/black-friday-letseatit.json` (id 332), no fim do `_manifest.json`. É a fonte da verdade do texto.
 - Capa: `/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp`, 1600×900. No CDN desde 08/10/2026 (`f24289e`).
 - Preços tirados do catálogo da loja em 08/10/2026 e conferidos na página de produto (5% no Pix, até 6x). Antes de publicar, reconsultar o catálogo e os banners e trocar as datas; `publishedAt` vai para o dia do deploy.
-- Fora do texto: percentuais de sites de cupom, o Pix somado ao MAUAD e o cupom do cashback somado ao MAUAD (não testados).
+- Fora do texto: percentuais de sites de cupom e o cupom do cashback somado ao MAUAD (não testado). O Pix somado ao MAUAD entrou em 08/10, confirmado pelo Bruno.
 - MAUAD sem negrito e fora do título. Links: `/cupons/letseatit` uma vez (seção do Pix, cashback e cupom); CTA com o `offerUrl` e os UTMs da Inbazz.
 - A política de frete diz, no FAQ, que a troca é pedida em até 7 dias; a política de reembolso, mais detalhada e da mesma data, diz 30 dias. O artigo segue a de reembolso, como os outros artigos da loja.
 
