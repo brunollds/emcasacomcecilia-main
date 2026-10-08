@@ -27,7 +27,8 @@ Pedidos dele que a especificação segue à risca:
   desktop e a lista do G/G2 no celular;
 - no celular, ao escolher uma loja, o código aparece primeiro e a lista de artigos vem embaixo;
 - as seções de baixo ficam como na D, com 4 receitas na faixa de receitas;
-- o grupo de WhatsApp vai para a faixa "Sobre a Cecília", antes do footer;
+- o grupo de WhatsApp vai para o painel da Cecília, na vitrine (decisão J; a faixa "Sobre a
+  Cecília" antes do footer, que o canvas ainda mostra, não entra);
 - um espaço entre "Acabou de sair" e "Receitas" para as datas comerciais, com artigos destacados,
   que sirva para qualquer data (Black Friday, Natal, Prime Day, datas duplas, datas comemorativas);
   a página de cada data existe fora do menu, como `/black-friday`;
@@ -64,7 +65,6 @@ Pedidos dele que a especificação segue à risca:
 | 6 | Explore a casa (DAMIE, Dicas & Ofertas, E-book Air Fryer) | `MyLinks`, com outro visual |
 | 7 | Ofertas do dia | `Offers` + `getFeaturedOffers`, com outro visual |
 | 8 | Últimos vídeos | `CTA` + `VideoCarousel`, com outro visual |
-| 9 | Faixa "Sobre a Cecília", com o grupo de WhatsApp, antes do footer | novo (`HomeAboutStrip`) |
 
 Os títulos seguem o canvas: a seção 6 se chama "Explore a casa" na D (no site de hoje, "Explore o
 universo").
@@ -99,10 +99,9 @@ esconde). Sem código, sem link de loja e sem artigos. O painel tem:
   `Hero.tsx` já usa (`formatHeroFollowerCount`);
 - o cartão de foto (`/images/photos/BRU-1.jpg` via `resolveMediaUrl`), com @emcasacomcecilia, o
   total de seguidores do Instagram e "Bastidores, rotina e receitas da Cecília";
+- o botão do grupo de WhatsApp ("Entre no grupo de promoções", `brandLinks.whatsappGroup`), logo
+  depois dos links, como no Hero de hoje e com o mesmo pulso (decisão J);
 - uma linha de orientação: "Escolha uma loja nas bolinhas para ver o código e os artigos dela."
-
-O grupo de WhatsApp não entra aqui: a aba da Cecília não abre sozinha, e o grupo fica na faixa
-"Sobre a Cecília", que todo mundo vê.
 
 **Aba de loja** (`kind: 'store'`):
 
@@ -425,10 +424,6 @@ Ficam como na D: mudam o visual (paleta e tipografia do Encarte: `marinho`, `ama
   `click_offer`. O link "Acessar Dicas & Ofertas" aparece no celular e no desktop; o canvas do
   desktop não tinha esse link.
 - **Últimos vídeos:** `getYoutubeHighlights` (com o fallback de hoje) e "Ver canal".
-- **Faixa "Sobre a Cecília":** foto, uma frase, o link `/sobre` e o grupo de WhatsApp ("Entre no
-  grupo de promoções", `brandLinks.whatsappGroup`), antes do footer. Componente novo e pequeno, do
-  servidor. É diferente do painel da Cecília na vitrine: a faixa aparece sempre; o painel só quando
-  a aba é escolhida. Os números das redes ficam no painel e na página `/sobre`.
 
 ## Analytics
 
@@ -439,10 +434,9 @@ Ficam como na D: mudam o visual (paleta e tipografia do Encarte: `marinho`, `ama
 | "Ir para a {loja}" | `coupon_store_click`, pelo `CouponStoreLink` (decisão G) | `home_store_banner` |
 | "Ver a página da loja" | `coupon_page_click`, pelo `TrackedCouponPageLink` (decisão H) | `home_store_page` |
 | artigo da aba (story ou lista) e "Ver os {total} artigos" | `home_route_click` | `home_store_articles` |
-| links do painel da Cecília ("Mais sobre mim", redes) | `home_route_click` | `home_cecilia` |
+| links do painel da Cecília ("Mais sobre mim", redes, grupo de WhatsApp) | `home_route_click` | `home_cecilia` |
 | card do "Acabou de sair" e "Ver todos" | `home_route_click` | `home_latest` |
 | card da data, "Ver o código da {loja}" e "Ver tudo da {data}" | `home_route_click` | `home_event` |
-| "Sobre mim" e WhatsApp na faixa de baixo | `home_route_click` | `home_about` |
 | oferta | `click_offer` (como hoje) | — |
 
 `HomeRoutePlacement` (em `TrackedHomeLink.tsx`) ganha os novos valores, e o
@@ -498,7 +492,7 @@ commits de conteúdo, como nos commits anteriores, e não entram na conta.
 | 1 | Montagem dos dados da vitrine, dos artigos por loja e do "Acabou de sair" | `src/lib/homeStores.ts` (servidor), `src/lib/homeStoreTabs.ts` (tipos e regras do hash, que o navegador também usa), `scripts/test-home-stores.ts`, `package.json`, `src/lib/couponsData.ts` (`storePageUrl` da DAMIE) |
 | 2a | Vitrine na home | `HomeStoreStories.tsx`, `HomeCeciliaPanel.tsx`, `CouponActions.tsx`, `TrackedHomeLink.tsx`, `page.js` |
 | 2b | Subpágina de cada loja | `src/app/(pt)/reviews/loja/[brand]/page.tsx`, `ReviewHubCard.tsx`, `ReviewsClientPage.js`, `src/app/sitemap.ts`, `scripts/test-home-stores.ts` |
-| 3 | Acabou de sair, faixa Sobre a Cecília e o teste dos placements da vitrine | `HomeLatest.tsx`, `HomeAboutStrip.tsx`, `TrackedHomeLink.tsx`, `test-home-route-tracking.ts`, `page.js` |
+| 3 | Acabou de sair, o grupo de WhatsApp no painel da Cecília e o teste dos placements da vitrine | 3a: `HomeLatest.tsx`, `TrackedHomeLink.tsx`, `test-home-route-tracking.ts`, `test-home-stores.ts`, `page.js`; 3b: `HomeCeciliaPanel.tsx`, `homeStores.ts`, `page.js` |
 | 4a | Datas comerciais: configuração e regra do evento ativo | `content/home-events.json`, `src/lib/homeEvents.ts`, `scripts/test-home-events.ts`, `package.json` |
 | 4b | Datas comerciais na home | `HomeEvent.tsx`, `TrackedHomeLink.tsx`, `test-home-route-tracking.ts`, `page.js` |
 | 4c | Página da data | `EventHubPage.tsx`, `src/app/(pt)/black-friday/page.tsx` (a primeira data), `src/app/sitemap.ts`, `scripts/test-home-events.ts` |
@@ -527,7 +521,7 @@ A revisão das Fases 1, 2a e 2b deixou para depois o que não bloqueava. Cada pl
 esta lista:
 
 - **Fase 3:** uma constante para a foto da Cecília (`/images/photos/BRU-1.jpg`), hoje repetida em
-  `page.js` e `HomeCeciliaPanel.tsx`, e usada também pela faixa "Sobre a Cecília".
+  `page.js` e `HomeCeciliaPanel.tsx`.
 - **Na próxima mudança de `homeStoreTabs.ts`:** o prefixo `loja-` numa constante; a conta das
   setas, Home e End sai de `HomeStoreStories.tsx` para lá, com teste; o teste ganha a ida e volta
   `parseTabHash('#' + getTabAnchor(id))`, o hash sem `#` e `getTabOrder([])`.
@@ -544,6 +538,15 @@ esta lista:
 - **Fase 6:** medir no Lighthouse o HTML da vitrine (336 KB, 25 KB gzip: 72 `next/image` e a
   miniatura de cada artigo duas vezes por painel); `ReviewMobileBottomBar.tsx` passa a importar o
   `FOCUS_RING` de `src/components/ui/focusRing.ts` em vez da cópia local.
+- **Pedido do Bruno (08/10), numa fase a combinar:** as bolinhas viram um carrossel e as lojas
+  entram na ordem do artigo mais novo de cada uma. A Cecília fica sempre em primeiro. Loja sem
+  artigo fica no fim, na ordem de `couponsData.ts`. A ordem sai dos dados, então muda sozinha a
+  cada artigo publicado.
+  - Ordem com os artigos de 08/10: DAMIE, Insider, Dolce Gusto, Nestlé Nutre, I Wanna Sleep,
+    Let's Eat It, YesStyle, Magalu, SHEIN.
+  - A combinar: se a DAMIE continua abrindo ao entrar (decisão 1) quando não estiver em primeiro;
+    se a bolinha da Cecília fica presa à esquerda enquanto a fila rola; e as setas no desktop, só
+    quando as bolinhas não couberem.
 
 ## Decisões tomadas em 07/10
 
@@ -551,7 +554,7 @@ esta lista:
 2. "Ver os N artigos da loja" fica, com destino na subpágina da loja.
 3. Artigos sobre uma loja levam o `affiliate` dela (Fase 0).
 4. A aba da Cecília é o hero dela, para apresentá-la, sem artigos.
-5. O grupo de WhatsApp vai para a faixa "Sobre a Cecília".
+5. O grupo de WhatsApp vai para a faixa "Sobre a Cecília" (substituída pela decisão J).
 6. Receitas: a faixa amarela da D com 4 receitas.
 7. As datas comerciais vão ao ar junto com a D2 inteira.
 8. Página de cada data com endereço fixo, fora do menu e no sitemap.
@@ -583,3 +586,7 @@ Respondidas depois da revisão do código:
 - **I.** (08/10, revisão final da Fase 2) Loja só tem subpágina e entrada no sitemap quando passa
   de 3 artigos, a regra do "Ver os N artigos". Com até 3, nada no site linkaria a subpágina
   (Insider e Let's Eat It com 3, Magalu com um card só).
+- **J.** (08/10, no plano da Fase 3) Não há faixa "Sobre a Cecília" antes do footer: a
+  apresentação dela já é o painel que abre na bolinha dela, logo abaixo do header. O botão do grupo
+  de WhatsApp vai para esse painel, medido com `home_route_click` e `home_cecilia`, como os outros
+  links dele.
