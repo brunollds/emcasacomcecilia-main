@@ -12,7 +12,7 @@ type CardDecor = { magnet: string | null; tilt: string };
 const CARD_DECOR: CardDecor[] = [
   { magnet: '-top-3 -right-3 bg-amarelo-cupom', tilt: '-rotate-1' },
   { magnet: null, tilt: '' },
-  { magnet: '-bottom-3 -left-3 bg-laranja', tilt: 'rotate-[0.5deg]' },
+  { magnet: '-bottom-3 -right-3 bg-laranja', tilt: 'rotate-[0.5deg]' },
   { magnet: null, tilt: '' },
   { magnet: '-top-3 -right-3 bg-marinho', tilt: 'rotate-[-0.6deg]' },
 ];
@@ -61,7 +61,7 @@ export function HomeLatest({ articles }: { articles: HomeLatestArticle[] }) {
           ))}
         </ul>
 
-        <ul className="hidden grid-cols-[repeat(auto-fit,minmax(min(196px,100%),1fr))] gap-[18px] md:grid">
+        <ul className="hidden gap-[18px] md:grid min-[768px]:grid-cols-3 min-[1200px]:grid-cols-5">
           {articles.map((article, index) => (
             <li key={article.slug} className="flex">
               <LatestCard article={article} decor={CARD_DECOR[index % CARD_DECOR.length]} />
