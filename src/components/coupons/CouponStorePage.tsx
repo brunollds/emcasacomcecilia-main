@@ -114,7 +114,7 @@ function getJsonLd(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {
     category: coupon.category,
     priceCurrency: 'BRL',
     ...(coupon.offerMode === 'discount-code' ? {
-      ...(coupon.discountNumber !== undefined ? { discount: `${coupon.discountNumber}` } : {}),
+      discount: `${coupon.discountNumber}`,
       couponCode: coupon.code,
     } : {}),
     offeredBy: {
@@ -139,6 +139,13 @@ function getJsonLd(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {
     url,
     inLanguage: LOCALES[locale].htmlLang,
     dateModified: coupon.lastVerified,
+    // O teste de checkout é da equipe, por isso a revisão vai em nome do site, não de uma pessoa.
+    ...(coupon.offerMode === 'discount-code' && coupon.testNote
+      ? {
+          lastReviewed: coupon.lastVerified,
+          reviewedBy: { '@type': 'Organization', name: 'Em Casa com Cecília', url: SITE_URL },
+        }
+      : {}),
     primaryImageOfPage: coupon.socialImage
       ? `${SITE_URL}${coupon.socialImage}`
       : undefined,
@@ -269,7 +276,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
       <StoreBody>
         <StoreCutout
           label={couponCodeOffer ? copy.cutoutLabel.code(offerType, coupon.brand) : copy.cutoutLabel.link(offerType, coupon.brand)}
-          verified={copy.verifiedOn(lastVerified)}
+          verified={couponCodeOffer?.testNote ? copy.testedOn(lastVerified) : copy.verifiedOn(lastVerified)}
         >
           {couponCodeOffer && !tiers && (
             <>
@@ -476,6 +483,15 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
               }
             />
           </section>
+
+          {couponCodeOffer?.testNote && (
+            <section aria-labelledby="como-testamos">
+              <SectionHeading id="como-testamos">{copy.testTitle}</SectionHeading>
+              <p className={`mt-4 ${BODY_TEXT}`}>
+                <strong>{copy.testedBy(lastVerified)}</strong> {couponCodeOffer.testNote}
+              </p>
+            </section>
+          )}
 
           <section aria-labelledby="sobre">
             <SectionHeading id="sobre">{copy.aboutTitle(coupon.brand)}</SectionHeading>

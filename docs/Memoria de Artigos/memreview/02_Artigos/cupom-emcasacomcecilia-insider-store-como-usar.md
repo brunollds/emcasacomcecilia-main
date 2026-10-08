@@ -1,6 +1,6 @@
 ---
 slug: "cupom-emcasacomcecilia-insider-store-como-usar"
-titulo: "Cupom Insider Store: como usar o EMCASACOMCECILIA no checkout"
+titulo: "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%"
 parceiro: "Insider"
 slug_cupom: "insider"
 status: "publicado"
@@ -8,9 +8,9 @@ responsavel: "-"
 proxima_acao: "nenhuma"
 publicado_em: "2026-10-05"
 commit: "2887c4c"
-nota_publicacao: "Versão publicada reescrita em content/reviews/cupom-emcasacomcecilia-insider-store-como-usar.json (fonte da verdade). Passo a passo com prints reais do checkout (campo Cupom de desconto ou Gift Card, botão Aplicar, Melhor desconto ativado); onde o cupom vale pelo teste no carrinho (a tag lançamento não é confiável: conferir a linha de desconto de cada item); sem mínimo; frete grátis acima de R$ 399 depois do desconto; cupom de boas-vindas da loja e indicação de R$ 150, um cupom por pedido. Sem percentual e sem valores do desconto em reais. Capa e kit com fotos oficiais no CDN."
+nota_publicacao: "Versão publicada reescrita em content/reviews/cupom-emcasacomcecilia-insider-store-como-usar.json (fonte da verdade). Passo a passo com prints reais do checkout (campo Cupom de desconto ou Gift Card, botão Aplicar, Melhor desconto ativado); onde o cupom vale pelo teste no carrinho (a tag lançamento não é confiável: conferir a linha de desconto de cada item); sem mínimo; frete grátis acima de R$ 399 depois do desconto; cupom de boas-vindas da loja e indicação de R$ 150, um cupom por pedido. Capa e kit com fotos oficiais no CDN. Revisão de 07/10/2026: o percentual passa a ser publicado por decisão do Bruno. Título, description e metas com 15% OFF; a seção e a FAQ que explicavam por que o percentual não era divulgado agora dizem 15% OFF sem valor mínimo; o passo 4 mostra o preço 15% menor em cada item, com a Core T-Shirt de R$ 189,00 por R$ 160,65; o frete grátis ganhou a conta dos 15% (carrinho entre R$ 399 e R$ 469 perde o frete grátis). updatedAt 2026-10-07; imagens mantidas."
 data_criacao: "2026-10-05"
-data_revisao: "2026-10-05"
+data_revisao: "2026-10-07"
 affiliate: "insider"
 ---
 

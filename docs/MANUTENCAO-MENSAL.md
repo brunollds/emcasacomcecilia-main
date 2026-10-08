@@ -82,7 +82,10 @@ Para cada oferta ativa, reconferir:
 - `discount`, valor mínimo e categorias elegíveis;
 - `validity`, `reusable`, `combinable` e restrições;
 - `offerUrl` e links de campanhas;
-- `lastVerified` com a data real (`YYYY-MM-DD`);
+- `lastVerified` com a data real (`YYYY-MM-DD`). Nas lojas com código ela aparece como "Cupom testado
+  em" e no `lastReviewed` do schema, então só avança com teste de checkout feito;
+- `testNote`: o que a equipe viu nesse teste. Se o percentual, o mínimo ou o exemplo de carrinho
+  mudarem, reescrever; `test:coupon-offer-modes` falha se uma loja com código ficar sem ele;
 - `metaTitle` e `metaDescription` quando contiverem mês, ano, código ou percentual;
 - `monthlyHighlight`, FAQs e instruções quando repetirem uma regra alterada;
 - `status`: `ativo`, `pausado` ou `expirado` conforme a condição real.
@@ -98,7 +101,7 @@ Para cada oferta ativa, reconferir:
 | `i-wanna-sleep` | I Wanna Sleep | `CECIEMCASA` | artigos do cluster | Confirmar percentual, abrangência e acúmulo. |
 | `magalu` | Magazine Você | 10 faixas | `tiers` no próprio cupom | Testar as dez faixas, mínimos, navegador e elegibilidade “vendido e entregue pelo Magalu”. |
 | `letseatit` | Let's Eat It | `MAUAD` | UTMs da Inbazz em `offerUrl` | Testar os 5% no checkout. A comissão é atribuída pelos quatro UTMs do link; `test:coupon-offer-modes` falha se algum sumir. |
-| `insider` | Insider | `EMCASACOMCECILIA` | FAQ do Insider Creators Club e link da Inbazz em `offerUrl` | Testar o cupom no carrinho com um item comum e um lançamento (este fica sem desconto). **Nunca escrever o percentual** em texto algum: a Insider proíbe, e `test:coupon-offer-modes` falha se aparecer "%". Não editar o link. |
+| `insider` | Insider | `EMCASACOMCECILIA` | FAQ do Insider Creators Club e link da Inbazz em `offerUrl` | Testar os 15% no carrinho com um item comum. Lançamentos podem ficar sem desconto, e a tag `lançamento` não é critério confiável. O site publica o percentual desde 07/10/2026, contra a orientação do FAQ do programa (ver alerta no dossiê). Não editar o link. |
 | `shein` | SHEIN | oferta por link | `referral` e `campaigns` | Revalidar links, códigos de busca, público e prazo de cada campanha. |
 | `kopenhagen` | Kopenhagen | `CECILIA10` | — | Está pausada: não linkar nem reativar sem confirmação da parceria. |
 
@@ -263,9 +266,9 @@ Não incluir `MAUAD` (Let's Eat It) nos termos de `HighlightCoupon` nem de
 "Mauad" não seria afetado, mas qualquer assinatura ou título com o nome em caixa alta passaria
 a ser marcado como cupom.
 
-Artigo da Insider não pode citar o percentual do cupom, nem em FAQ, tabela de preços ou conta de
-economia: orientar a usar `EMCASACOMCECILIA` no checkout e conferir o desconto no carrinho. As
-regras do programa estão no dossiê `01_Parceiros/Insider.md`.
+Desde 07/10/2026 os artigos da Insider citam os 15% do `EMCASACOMCECILIA`, por decisão do
+Bruno, embora o FAQ do programa peça o contrário. Se a parceria acabar, trocar o cupom pelos links
+de afiliado de marketplace. As regras do programa estão no dossiê `01_Parceiros/Insider.md`.
 
 Até 10/2026 a loja Nestlé Nutre tinha o slug `nutren`, e dois artigos usavam
 `affiliate: "nestle-nutre"`. A loja passou a `nestle-nutre` (`/cupons/nutren` redireciona), os

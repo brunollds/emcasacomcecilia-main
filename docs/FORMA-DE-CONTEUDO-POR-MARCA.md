@@ -159,7 +159,7 @@ acervo, não regra para linkar em massa.
 | Magalu | sem evidência | 123 impr., posição 18 |
 | Shein | não medido | cluster ainda não existe |
 | Let's Eat It | não medido | parceria nova (out/2026); só `/cupons/letseatit`, sem artigo |
-| Insider | não medido | parceria nova (out/2026); só `/cupons/insider`, sem artigo; percentual do cupom não pode ser divulgado |
+| Insider | não medido | parceria nova (out/2026); `/cupons/insider` e 3 artigos (05/10); 15% OFF publicado desde 07/10 |
 
 Detalhamento, números por página e a fila de execução: `HANDOFF-CUPONS-FASE-1A.md`.
 

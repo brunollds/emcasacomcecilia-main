@@ -60,9 +60,8 @@ assert.ok(getAllActiveCouponSlugs().includes('letseatit'), "Let's Eat It ativa d
 const insider = COUPONS.find((coupon) => coupon.slug === 'insider');
 assert.ok(insider && insider.offerMode === 'discount-code', 'Insider deve existir como discount-code');
 assert.equal(insider.code, 'EMCASACOMCECILIA');
-// A Insider proíbe divulgar o percentual: nada de discountNumber (schema) nem "%" em texto algum.
-assert.equal('discountNumber' in insider, false, 'Insider não pode expor o percentual do cupom');
-assert.doesNotMatch(JSON.stringify(insider), /%|por cento/i, 'Insider não pode citar percentual');
+assert.equal(insider.discountNumber, 15);
+assert.equal(insider.discount, '15% OFF');
 // Link da Influ como veio: o parâmetro cupom= aplica o código no carrinho e os UTMs atribuem a comissão.
 assert.equal(
   insider.offerUrl,
@@ -74,6 +73,13 @@ assert.equal(
   "Insider vem logo depois da Let's Eat It"
 );
 assert.ok(getAllActiveCouponSlugs().includes('insider'), 'Insider ativa deve gerar página de cupom');
+
+// "Cupom testado em" só vale com o teste registrado: toda loja com código precisa do testNote. A
+// YesStyle fica de fora porque o código é de recompensa e a página dela é outra.
+const untested = COUPONS.filter(
+  (coupon) => coupon.status === 'ativo' && coupon.offerMode === 'discount-code' && !coupon.codeKind && !coupon.testNote?.trim()
+).map((coupon) => coupon.slug);
+assert.deepEqual(untested, [], `Lojas com código sem testNote: ${untested.join(', ')}`);
 
 // Hub /cupons: a DAMIE abre os Destaques por ser a maior receita, e a Dolce Gusto vem logo depois.
 const hub = getCouponHubSections();

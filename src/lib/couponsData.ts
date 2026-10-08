@@ -98,8 +98,10 @@ interface CouponBase {
 export type CouponCodeOffer = CouponBase & {
   offerMode: 'discount-code';
   code: string;
-  // Omitido quando a parceria proíbe divulgar o percentual (ex.: Insider).
-  discountNumber?: number;
+  discountNumber: number;
+  // O que a equipe viu no teste de checkout mais recente; a data é o lastVerified. Com ele, a página
+  // diz "Cupom testado em" e ganha a seção "Como testamos o cupom".
+  testNote?: string;
   // O código vai num campo próprio do checkout e não é cupom (o CECILIA010 da YesStyle).
   codeKind?: 'reward';
   codeFieldLabel?: string;
@@ -153,6 +155,8 @@ export const COUPONS: Coupon[] = [
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Cumulativo com promoções e brindes vigentes; não cumulativo com outros cupons',
     lastVerified: '2026-10-01',
+    testNote:
+      'Aplicamos o CECILIA12 no checkout do site da DAMIE, e os 12% de desconto apareceram no resumo do pedido.',
     aboutBrand:
       'A DAMIE é uma marca brasileira de móveis estofados premium, com foco em poltronas reclináveis, sofás, camas e soluções de conforto para a casa. A Cecília usa produtos da marca no dia a dia e produziu reviews mostrando montagem, acabamento, conforto e uso real em casa. O cupom CECILIA12 foi criado para quem acompanha o Em Casa com Cecília e quer comprar com desconto direto no checkout. A proposta da parceria é simples: indicar produtos que fazem sentido para uma casa mais confortável, sem esconder que existe relação comercial e comissão de afiliado quando uma compra é feita pelo link ou cupom.',
     faqs: [
@@ -258,6 +262,8 @@ export const COUPONS: Coupon[] = [
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Pode variar conforme campanha ativa da loja oficial',
     lastVerified: '2026-10-01',
+    testNote:
+      'Aplicamos o CECI no checkout da loja oficial Dolce Gusto, num carrinho acima de R$ 100, e os 5% de desconto apareceram no resumo do pedido.',
     aboutBrand:
       'A Nescafé Dolce Gusto é uma linha de cafés e bebidas em cápsulas da Nestlé, com máquinas e sabores pensados para preparo rápido em casa. A marca combina praticidade com variedade: cafés intensos, bebidas com leite, cappuccinos, chocolates e opções geladas aparecem no catálogo da loja oficial. O cupom CECI entra como benefício para quem acompanha a Cecília e quer economizar em compras na loja oficial. Como em toda parceria comercial, a recomendação deve ser conferida no checkout: o desconto aparece antes da finalização quando a regra da campanha permite.',
     faqs: [
@@ -480,6 +486,8 @@ export const COUPONS: Coupon[] = [
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Pode variar conforme campanha ativa da loja oficial',
     lastVerified: '2026-10-04',
+    testNote:
+      'Num carrinho de R$ 1.121,84, o CECI aplicou R$ 112,18 de desconto, os 10%, e o total caiu para R$ 1.009,66.',
     aboutBrand:
       'A Nestlé Nutre é uma loja oficial da Nestlé voltada a produtos de nutrição e suplementação, com opções para diferentes rotinas e necessidades alimentares. Os produtos disponíveis podem fazer parte do dia a dia de quem busca praticidade na alimentação, sempre conforme as indicações do rótulo e, quando necessário, com orientação de um profissional de saúde. O cupom CECI foi criado para quem acompanha o Em Casa com Cecília e quer economizar na loja oficial, com exceção de Alfamino e Alfaré. A loja também vende fórmulas infantis NAN para bebês de 0 a 12 meses; nesses produtos o cupom não deve ser usado, porque o art. 5º do Decreto 9.579/2018 proíbe cupons e descontos promocionais em fórmulas para lactentes, inclusive na internet. Como em toda parceria comercial, a recomendação é conferir o desconto aplicado no checkout antes de finalizar a compra.',
     faqs: [
@@ -568,6 +576,8 @@ export const COUPONS: Coupon[] = [
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Pode variar conforme campanha ativa da loja oficial',
     lastVerified: '2026-10-01',
+    testNote:
+      'Aplicamos o CECIEMCASA no checkout do site da I Wanna Sleep, e os 10% de desconto apareceram no resumo do pedido.',
     aboutBrand:
       'A I Wanna Sleep é uma marca focada em produtos para sono, conforto e bem-estar do quarto, como colchões, travesseiros, lençóis e acessórios pensados para rotinas de descanso. O cupom CECIEMCASA entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar no site oficial. Como regras de desconto, frete e aplicação podem variar por campanha e produto, a recomendação é sempre conferir o desconto no checkout antes de finalizar a compra.',
     faqs: [
@@ -651,6 +661,8 @@ export const COUPONS: Coupon[] = [
     combinable:
       'Em regra, cupons não acumulam com outras promoções; confirme no checkout',
     lastVerified: '2026-10-01',
+    testNote:
+      'Aplicamos os códigos no checkout da loja Magazine Você da Cecília, pelo navegador, em produtos vendidos e entregues pelo Magalu, e o desconto em reais da faixa alcançada apareceu no resumo do pedido.',
     aboutBrand:
       'A loja Magazine Você da Cecília faz parte do programa oficial Influenciador Magalu (antigo Magazine Você), mantido pela Magazine Luiza S/A (CNPJ 47.960.950/0001-21). O domínio magazinevoce.com.br pertence à própria Magalu desde 2011, o que significa que quem vende, cobra, entrega e faz o pós-venda é o Magalu — e o login usado na loja é a conta Magalu que você já tem no site e no app. Os códigos desta campanha são criados pela Cecília para a própria loja: estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília — não no app do Magalu nem no site principal. Comprar por essa loja pode gerar comissão para o Em Casa com Cecília, sem custo extra para você: o preço e o desconto exibidos no checkout são exatamente os da sua faixa.',
     faqs: [
@@ -777,6 +789,8 @@ export const COUPONS: Coupon[] = [
     combinable:
       'Aceito em produtos com preço promocional e em pré-venda (teste de 02/10/2026); soma com outros cupons conforme regras da loja',
     lastVerified: '2026-10-02',
+    testNote:
+      'O MAUAD foi aceito num carrinho com um item em pré-venda e outro com preço promocional, com R$ 179,10 de desconto sobre R$ 3.582,10, e também num pedido de um único item de R$ 62,90.',
     aboutBrand:
       "A Let's Eat It é uma loja online brasileira de casa e presentes, com curadoria de marcas como Le Creuset, KitchenAid, Porto Brasil e Bohemia Crystal. O catálogo cobre mesa posta, cozinha, bar, café e chá, decoração, outdoor e eletrodomésticos — itens que conversam com a rotina de quem cozinha e recebe em casa. O cupom MAUAD, com o sobrenome da Cecília, entra como benefício para quem acompanha o Em Casa com Cecília e quer economizar no site oficial. Como regras de desconto, frete e aplicação podem variar por campanha e produto, a recomendação é sempre conferir o desconto no checkout antes de finalizar a compra.",
     faqs: [
@@ -824,7 +838,6 @@ export const COUPONS: Coupon[] = [
     featured: false,
   },
   {
-    // A Insider proíbe divulgar o percentual do cupom: sem discountNumber e sem número em nenhum texto.
     offerMode: 'discount-code',
     slug: 'insider',
     brand: 'Insider',
@@ -837,31 +850,34 @@ export const COUPONS: Coupon[] = [
     brandWatermark: '/images/logos/watermarks/insider.webp',
     brandColor: '#1A1A1A',
     code: 'EMCASACOMCECILIA',
-    discount: 'Desconto exclusivo',
+    discount: '15% OFF',
+    discountNumber: 15,
     category: 'Moda e roupas tecnológicas',
     hubCategory: 'moda',
     shortDescription: 'compras online na Insider, exceto lançamentos',
     longDescription:
       'Código da Cecília para economizar em camisetas, underwear, roupas esportivas e acessórios com tecnologia têxtil na loja online da Insider. Não vale para lançamentos.',
-    metaTitle: 'Cupom Insider Outubro 2026: EMCASACOMCECILIA na Loja Online',
+    metaTitle: 'Cupom Insider Outubro 2026: EMCASACOMCECILIA — 15% OFF na Loja Online',
     metaDescription:
-      'Cupom Insider confirmado para outubro de 2026: use EMCASACOMCECILIA no checkout da loja online e confira o desconto no carrinho. Não vale para lançamentos nem nas lojas físicas.',
+      'Cupom Insider confirmado para outubro de 2026: use EMCASACOMCECILIA no checkout da loja online e ganhe 15% OFF. Não vale para lançamentos nem nas lojas físicas.',
     eligibleCategories: 'Produtos da loja online da Insider, exceto lançamentos',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable:
       'Não acumula com outro cupom: a loja aceita um cupom por pedido. No teste de 05/10/2026 valeu em peça do Outlet e em kit com preço promocional',
-    lastVerified: '2026-10-05',
+    lastVerified: '2026-10-07',
+    testNote:
+      'Nos testes de 5 e 7 de outubro, uma Core T-Shirt de R$ 189,00 saiu por R$ 160,65 com o EMCASACOMCECILIA. O cupom também valeu em peças do Outlet, em kits com preço promocional e numa meia sozinha no carrinho, sem valor mínimo.',
     codeInstructions: [
       'Copie o código EMCASACOMCECILIA no card acima.',
       'Acesse a loja online da Insider pelo botão indicado: o link já leva o cupom para o carrinho.',
       'Adicione os produtos desejados ao carrinho. Lançamentos não entram no desconto.',
       'Se o cupom não aparecer aplicado, cole o código no campo de cupom antes de finalizar.',
-      'Confira o desconto no resumo do pedido antes de pagar.',
+      'Confira os 15% de desconto no resumo do pedido antes de pagar.',
     ],
     aboutBrand:
-      'A Insider é uma marca brasileira de roupas com tecnologia têxtil, que cria peças funcionais e com proposta sustentável: camisetas, underwear, roupas esportivas e acessórios para usar no dia a dia. O cupom EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e vale nas compras da loja online, com exceção dos lançamentos. Ele não vale nas lojas físicas e não acumula com outro cupom no mesmo pedido. O desconto aparece no carrinho quando o código é aceito, então a recomendação é conferir o resumo do pedido antes de finalizar.',
+      'A Insider é uma marca brasileira de roupas com tecnologia têxtil, que cria peças funcionais e com proposta sustentável: camisetas, underwear, roupas esportivas e acessórios para usar no dia a dia. O cupom EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e vale nas compras da loja online, com exceção dos lançamentos. Ele não vale nas lojas físicas e não acumula com outro cupom no mesmo pedido. O cupom dá 15% OFF, e o desconto aparece no carrinho quando o código é aceito; a recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
       {
         question: 'O cupom EMCASACOMCECILIA vale para todos os produtos da Insider?',
@@ -871,12 +887,27 @@ export const COUPONS: Coupon[] = [
       {
         question: 'Quanto de desconto o cupom EMCASACOMCECILIA dá?',
         answer:
-          'O desconto aparece no carrinho assim que o código é aplicado aos produtos elegíveis. Use o cupom no momento da compra e confira o valor no resumo do pedido.',
+          'O EMCASACOMCECILIA dá 15% OFF nos produtos elegíveis da loja online, sem valor mínimo. O desconto aparece em cada item do resumo do pedido assim que o código é aceito.',
+      },
+      {
+        question: 'O cupom EMCASACOMCECILIA está funcionando hoje?',
+        answer:
+          'Sim. No último teste de checkout, em 07/10/2026, o EMCASACOMCECILIA aplicou os 15% em cada item elegível. A data do teste mais recente aparece no topo desta página.',
+      },
+      {
+        question: 'O cupom vale na primeira compra na Insider?',
+        answer:
+          'Sim. O EMCASACOMCECILIA vale para clientes novos e antigos, sem cadastro prévio. Como a loja aceita um cupom por pedido, ele não soma com o cupom de boas-vindas da própria Insider.',
       },
       {
         question: 'Posso usar o cupom junto com outro cupom?',
         answer:
           'Não. A Insider aceita um cupom por pedido, e descontos de cupons diferentes não se somam.',
+      },
+      {
+        question: 'O cupom acumula com produtos em promoção?',
+        answer:
+          'Sim. Nos testes de 05/10/2026, o EMCASACOMCECILIA deu desconto em peças do Outlet e em kits que já estavam com preço promocional. Lançamentos podem ficar de fora.',
       },
       {
         question: 'O cupom vale nas lojas físicas da Insider?',
@@ -896,6 +927,26 @@ export const COUPONS: Coupon[] = [
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
         answer:
           'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    relatedContent: [
+      {
+        title: 'Como usar o cupom EMCASACOMCECILIA na Insider Store',
+        url: '/reviews/cupom-emcasacomcecilia-insider-store-como-usar',
+        type: 'review',
+        publishedAt: '2026-10-05',
+      },
+      {
+        title: 'Insider Store é confiável? CNPJ, loja física e trocas',
+        url: '/reviews/insider-store-e-confiavel',
+        type: 'review',
+        publishedAt: '2026-10-05',
+      },
+      {
+        title: 'Insider Store no Reclame Aqui: nota e reclamações',
+        url: '/reviews/insider-store-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-10-05',
       },
     ],
     monthlyHighlight: {
