@@ -64,7 +64,7 @@ Pedidos dele que a especificação segue à risca:
 | 5 | Receitas, com 4 receitas | `PopularRecipes`, com outro visual |
 | 6 | Explore a casa (DAMIE, Dicas & Ofertas, E-book Air Fryer) | `MyLinks`, com outro visual |
 | 7 | Ofertas do dia | `Offers` + `getFeaturedOffers`, com outro visual |
-| 8 | Últimos vídeos | `CTA` + `VideoCarousel`, com outro visual |
+| 8 | Últimos vídeos | `CTA`, com outro visual (o `VideoCarousel` sai na Fase 5b) |
 
 Os títulos seguem o canvas: a seção 6 se chama "Explore a casa" na D (no site de hoje, "Explore o
 universo").
@@ -426,15 +426,31 @@ Ficam como na D: mudam o visual (paleta e tipografia do Encarte: `marinho`, `ama
   escrito no texto), 4 receitas e "Ver todas as receitas". As 4 são as de hoje: as mais vistas pelo
   GA (`getPopularRecipeSlugs`) e, sem dado do GA, as marcadas com `isPopular`. No celular as 4 ficam
   em grade de 2 por 2.
+  - Se o GA trouxer menos de 4, as `isPopular` completam, sem repetir (plano da Fase 5).
+  - O card mostra a foto, a categoria e o título; saem o tempo e a dificuldade.
+  - A fila de atalhos de categoria (`RecipeCategoryLinks`) sai. Era ela que fazia a página rolar
+    56 px para os lados em 1024 px.
 - **Explore a casa:** os 3 cards de `MyLinks`:
-  - DAMIE;
+  - DAMIE, com a foto da Cecília e a legenda "móveis, poltronas e sofás com cupom CECILIA12";
   - Dicas & Ofertas;
   - E-book Air Fryer, que continua "Em preparação" como hoje. A D mantém o card; na G2 ele tinha
     saído.
 - **Ofertas do dia:** `getFeaturedOffers` (feed do dicas, com o fallback de hoje) e o evento
   `click_offer`. O link "Acessar Dicas & Ofertas" aparece no celular e no desktop; o canvas do
   desktop não tinha esse link.
+  - O feed traz até 10 ofertas, então a fila rola na horizontal em toda largura, com setas a partir
+    de 1024 px.
+  - O preço diz "de R$ X por R$ Y". Sai o selo "-X%".
+  - "com cupom" aparece sem o código.
 - **Últimos vídeos:** `getYoutubeHighlights` (com o fallback de hoje) e "Ver canal".
+  - No máximo 6, numa linha a partir de 1024 px.
+  - Sem vídeo, a seção não aparece; hoje ela aparece vazia.
+- **Animações:** as de hoje que cabem no visual novo ficam, com `motion-safe:` (pedido do Bruno de
+  08/10):
+  - a entrada dos cards;
+  - o card que sobe no hover;
+  - o zoom da foto;
+  - a rolagem das setas.
 
 ## Analytics
 
@@ -475,6 +491,13 @@ placements das seções que saem (`home_featured_guides`, `home_review_categorie
 - **`test:home-events`** (novo, Fase 4a): a validação de `home-events.json` e a escolha do evento
   ativo, que recebe a data por parâmetro. Na Fase 4c, ele também confere que todo `hub` tem a
   rota criada e entra no sitemap.
+- **`test:home-lower-sections`** (novo, Fase 5): renderiza as quatro seções de baixo. Confere:
+  - a escolha das 4 receitas;
+  - o total de receitas;
+  - os links e os textos do Explore a casa;
+  - o preço "de … por …" e o "com cupom" sem código das ofertas;
+  - o limite de 6 vídeos;
+  - a seção de vídeos ausente sem vídeo.
 - **`test:build-output`** (Fase 6), em cada `/reviews/loja/{slug}`: o `h1`, o canonical e o total
   de cards igual ao de artigos da loja. No HTML da home:
   - o painel da Cecília e um painel por loja ativa, com o rótulo de `getCodeTitle`;
@@ -488,7 +511,10 @@ placements das seções que saem (`home_featured_guides`, `home_review_categorie
     `rel="noopener noreferrer"`, depois de "Mais sobre mim" e antes dos números (Fase 3b);
   - sem data em campanha, nenhuma seção de data na home (Fase 4b);
   - em cada página de data com edição, o `h1`, o canonical e um card por artigo, com o "Ver o
-    código" levando a `/#loja-{slug}` (Fase 4c).
+    código" levando a `/#loja-{slug}` (Fase 4c);
+  - as seções de baixo, na ordem: "Receitas da Cecília" com o total de receitas e 4 links de
+    receita, "Explore a casa" com os links da DAMIE e do Dicas & Ofertas, "Ofertas do dia" com o
+    "Acessar Dicas & Ofertas", e nenhum atalho de categoria de receita (Fase 5).
 
   A conferência que já existe para toda página que cita o CECILIA010 passa a cobrir a home sozinha.
 - **`test:client-bundle`**: nem o componente da vitrine nem o card extraído de `/reviews` podem
@@ -515,8 +541,9 @@ commits de conteúdo, como nos commits anteriores, e não entram na conta.
 | 4a | Datas comerciais: configuração e regra do evento ativo | `content/home-events.json`, `src/lib/homeEvents.ts`, `scripts/test-home-events.ts`, `package.json`, `src/lib/homeStores.ts` (exporta `ofStore` e `getStoreCode`) |
 | 4b | Datas comerciais na home | `HomeEvent.tsx`, `TrackedHomeLink.tsx`, `test-home-route-tracking.ts`, `page.js` |
 | 4c | Página da data | `EventHubPage.tsx`, `src/app/(pt)/black-friday/page.tsx` (a primeira data), `src/app/sitemap.ts`, `scripts/test-home-events.ts` |
-| 5 | Visual das seções de baixo | `PopularRecipes.tsx`, `MyLinks.tsx`, `Offers.tsx`, `CTA.tsx`, `VideoCarousel.tsx` |
-| 6a | Tira da home o que saiu | `page.js` e a remoção de `Hero.tsx`, `CouponStrip.tsx`, `FeaturedReviewGuides.tsx`, `ReviewsShowcase.tsx`, `ReviewCategoryLinks.tsx` (só o `ReviewsShowcase` o importa), e de `getCouponStripItems`/`CouponStripItem` em `couponsData.ts` (cada remoção só depois do grep) |
+| 5a | Receitas e Explore a casa | `PopularRecipes.tsx`, a remoção de `RecipeCategoryLinks.tsx`, `MyLinks.tsx`, `scripts/test-home-lower-sections.ts`, `package.json` |
+| 5b | Ofertas do dia e Últimos vídeos | `Offers.tsx`, `CTA.tsx`, a remoção de `VideoCarousel.tsx`, `scripts/test-home-lower-sections.ts` |
+| 6a | Tira da home o que saiu | `page.js` (com os comentários antigos das seções de baixo e o fundo creme da raiz) e a remoção de `Hero.tsx`, `CouponStrip.tsx`, `FeaturedReviewGuides.tsx`, `ReviewsShowcase.tsx`, `ReviewCategoryLinks.tsx` (só o `ReviewsShowcase` o importa), e de `getCouponStripItems`/`CouponStripItem` em `couponsData.ts` (cada remoção só depois do grep) |
 | 6b | Restos e placements antigos | `HomeEditorialPick.tsx`, `homeCuration.ts`, `home-curation.json`, `test-home-curation.ts` e o script do `package.json` (Decisão D); `selectHomeReviewDiscovery` e o teste dele, se o grep provar que só a home usava; `TrackedHomeLink.tsx` (inclusive o `getHomeCategoryFilterParameters`, sem uso desde a 3a) e `test-home-route-tracking.ts` (com o caso do filtro). Mais de 5 arquivos: divide em 6b-1 e 6b-2 |
 | 6c | Travas e documentação | `test-build-output.ts`, `CLAUDE.md` |
 
@@ -525,9 +552,10 @@ apontam para o slug antigo, e a árvore só fica coerente no fim da 0c. Nada vai
 
 Cada fase roda `npm run typecheck`, `npm run lint` e os testes que tocam o que mudou. A Fase 0 roda
 também `validate:content`, `test:review-i18n` e `test:internal-links`; as Fases 2a e 2b,
-`npm run test:client-bundle`. A Fase 6c roda `npm run build` completo, `test:build-output`,
-`test:html-lang` e `test:client-bundle`. A verificação visual compara com o canvas no preview (390,
-768 e 1280 px) e testa teclado e movimento reduzido.
+`npm run test:client-bundle`; as Fases 5a e 5b, `test:home-lower-sections` e `npm run build`. A
+Fase 6c roda `npm run build` completo, `test:build-output`, `test:html-lang` e `test:client-bundle`.
+A verificação visual compara com o canvas no preview (390, 768 e 1280 px) e testa teclado e
+movimento reduzido.
 
 Deploy só com decisão do Bruno. A Fase 0 foi ao ar sozinha em 07/10, às 22h10 (PR #37, `58d175d`;
 Decisão E). O resto da D2 vai junto, depois da Fase 6c. O `validate:yesstyle` barra o build com
