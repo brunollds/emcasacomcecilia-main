@@ -23,8 +23,12 @@ npm run test:coupon-offer-modes
 npm run test:coupon-translations  # lojas em outros idiomas: texto traduzido, códigos e links do PT
 npm run validate:yesstyle    # data/coupons/yesstyle.json; falha com oferta ativa vencida (data em UTC)
 npm run test:analytics-gate  # allowlist de hosts do GA4
+npm run test:home-stores     # vitrine da home, "Acabou de sair" e subpáginas /reviews/loja/<slug>
+npm run test:home-events     # datas comerciais: content/home-events.json, a faixa e a página da data
+npm run test:home-lower-sections  # receitas, Explore a casa, ofertas (e o feed) e vídeos da home
+npm run test:home-route-tracking  # placements do home_route_click
 npm run test:html-lang       # depois do build: <html lang> de cada rota
-npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um e textos que citam o CECILIA010
+npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, textos que citam o CECILIA010, a home, as subpáginas de loja e as páginas de data
 ```
 
 `npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
@@ -147,7 +151,7 @@ vídeo, primeiras impressões e uso noturno.
 
 ### Component layers
 - `src/components/ui/` — Primitive building blocks (`Card`, `Button`, `Badge`). Use `clsx` for className merging here.
-- `src/components/sections/` — Page sections (`Hero`, `PopularRecipes`, `CouponStrip`, `ReviewsShowcase`, `CTA`…). `Navbar` and `Footer` live in `src/components/`.
+- `src/components/sections/` — Page sections: the D2 home (`HomeStoreStories`, `HomeCeciliaPanel`, `HomeLatest`, `HomeEvent`, `PopularRecipes`, `MyLinks`, `Offers`, `CTA`, the last three wrapped in `HomeSection`) and `EventHubPage`. `Navbar` and `Footer` live in `src/components/`.
 - Each route group has its own root layout (`src/app/(pt)/layout.js`, `src/app/(en)/layout.tsx`… and `src/app/[locale]/layout.tsx`). All of them render `RootLayoutShell` (`src/components/RootLayoutShell.tsx`): `Navbar → {children} → Footer`.
 
 ### Artigos: sumário no celular
@@ -166,6 +170,26 @@ vídeo, primeiras impressões e uso noturno.
 - Texto que é item flex (bullets, prós e contras) precisa de `min-w-0` para quebrar endereços
   longos; o contêiner do artigo já tem `wrap-break-word`.
 
+### Home (D2)
+
+- `src/app/(pt)/page.js` monta, nesta ordem:
+  - a vitrine (`HomeStoreStories`, com o painel da Cecília e uma aba por loja ativa de
+    `couponsData.ts`);
+  - o "Acabou de sair" (`HomeLatest`);
+  - a data comercial (`HomeEvent`, só em campanha);
+  - receitas, Explore a casa, ofertas e vídeos.
+
+  O `page.js` dá o espaço de baixo das seções de cima; as de baixo trazem o delas (`HomeSection`).
+- Os dados saem do servidor:
+  - `src/lib/homeStores.ts`: abas, artigos da loja pelo `affiliate`, "Acabou de sair" e as
+    subpáginas `/reviews/loja/<slug>` das lojas com mais de 3 artigos;
+  - `src/lib/homeEvents.ts` com `content/home-events.json`: as datas comerciais. Como pôr uma data
+    no ar está no fim de `docs/superpowers/plans/2026-10-08-home-d2-fase-4.md`;
+  - `dicasOffers.ts` e `youtube.ts`: sem o feed ou sem vídeo, a seção some. Não há ofertas reserva.
+- Fila que rola na horizontal usa o `ScrollRow` (`src/components/ui/ScrollRow.tsx`): com o foco do
+  teclado, o card meio escondido entra inteiro na tela.
+- Onde um artigo aparece na home está na seção 10 do `docs/GUIA-EDITORIAL-GUIAS-ANALISES.md`.
+
 ### Páginas de loja (cupons)
 
 - Loja com código tem `testNote` em `couponsData.ts`: o recorte diz "Cupom testado em" com o
@@ -178,11 +202,11 @@ vídeo, primeiras impressões e uso noturno.
   o dock aparece depois que o recorte `#cupom` sobe e sai da tela.
 - O CECILIA010 é código de recompensa, não cupom: vai no campo Reward Code e soma com os cupons
   da própria YesStyle. Nenhum texto ou `aria-label` pode chamá-lo de cupom nem falar em usá-lo
-  "com outros cupons". Os rótulos de cópia compartilhados dizem "código" (`couponCopyLocale.ts`,
-  `CouponStrip`); o que nomeia o tipo do código lê da loja em `couponsData.ts`: o
-  `codeKind: 'reward'` no dock dos artigos, nos 10 idiomas, e o `offerTypeLabel` nos cards e na
-  ItemList de `/cupons`. `npm run test:build-output` confere toda página que cita o código,
-  inclusive o nome dos cards que o mostram; a faixa da home só existe no navegador e fica de fora.
+  "com outros cupons". Os rótulos de cópia compartilhados dizem "código" (`couponCopyLocale.ts`); o
+  que nomeia o tipo do código lê da loja em `couponsData.ts`: o `codeKind: 'reward'` no dock dos
+  artigos, nos 10 idiomas, e o `offerTypeLabel` nos cards e na ItemList de `/cupons`.
+  `npm run test:build-output` confere toda página que cita o código, inclusive o nome dos cards que
+  o mostram e a home, que mostra o código no painel da YesStyle.
 - O 4CW5Y da SHEIN é código de indicação da SHEIN Brasil: pesquisa-se no aplicativo, não se cola no
   checkout, e também não é cupom. `getStoreCodeKind` (`couponsData.ts`) dá o tipo do código de um
   artigo (`reward`, `referral` ou nenhum); o dock, a sidebar e o resumo dos guias o usam por
@@ -214,6 +238,8 @@ tamanho, sem sobrar uma ou duas letras sozinhas. O `text-balance` não age sobre
 | `/receitas` | `src/app/(pt)/receitas/page.js` |
 | `/receitas/[slug]` | `src/app/(pt)/receitas/[slug]/page.js` |
 | `/reviews` | `src/app/(pt)/reviews/page.js` |
+| `/reviews/loja/[brand]` | `src/app/(pt)/reviews/loja/[brand]/page.tsx` (só lojas ativas com mais de 3 artigos) |
+| `/black-friday` | `src/app/(pt)/black-friday/page.tsx` (`EventHubPage`; 404 enquanto não houver edição em `content/home-events.json`) |
 | `/cupons` | `src/app/(pt)/cupons/page.tsx` |
 | `/cupons/[brand]` | `src/app/(pt)/cupons/[brand]/page.tsx` (YesStyle has its own page in `cupons/yesstyle/`) |
 | `/<locale>/coupons/[brand]` | `src/app/[locale]/coupons/[brand]/page.tsx`, only for stores in `couponTranslations.ts`; the static YesStyle routes win |
