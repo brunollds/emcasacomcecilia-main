@@ -21,7 +21,7 @@ consultado em 2026-10-05.
 
 | Fato / Condição Comercial | Tipo | Fonte Canônica | Consultado Em | Rever Até | Escopo / Regras | Confiança |
 |---|---|---|---|---|---|---|
-| Cupom de creator `EMCASACOMCECILIA` | condicao_comercial_volatil | `src/lib/couponsData.ts` (slug: `insider`) | 2026-10-05 | 2026-11-05 | Loja online, exceto lançamentos e lojas físicas; um cupom por pedido, sem somar com outro cupom; sem valor mínimo | Alta |
+| Cupom de creator `EMCASACOMCECILIA`: 15% OFF | condicao_comercial_volatil | `src/lib/couponsData.ts` (slug: `insider`) | 2026-10-07 | 2026-11-07 | Loja online, exceto lançamentos e lojas físicas; um cupom por pedido, sem somar com outro cupom; sem valor mínimo | Alta |
 | Link de parceria | condicao_comercial_volatil | `offerUrl` em `src/lib/couponsData.ts` | 2026-10-05 | 2026-11-05 | Leva ao Outlet com o cupom aplicado (cookie `discount_code` e parâmetro `cupom=`); usar exatamente como veio | Alta |
 | Comissão a partir de 10% das vendas atribuídas ao cupom ou ao link | condicao_comercial_volatil | FAQ oficial, seção 5 | 2026-10-05 | 2026-11-05 | Pode subir em ações e períodos promocionais; acompanhamento pela Inbazz | Alta |
 | Frete grátis acima de R$ 399, calculado depois do desconto | condicao_comercial_volatil | Política de frete do site e aviso "Faltam R$ X pra ganhar Frete Grátis" no carrinho | 2026-10-05 | 2026-11-05 | Os termos de uso ainda dizem R$ 349; valem a política e o carrinho | Alta |
@@ -43,7 +43,8 @@ Testes de carrinho em 2026-10-05:
   "Melhor desconto ativado" e uma etiqueta com o código e um ×; cada item mostra preço original,
   preço com desconto e a linha do código, e o resumo mostra "ECONOMIA TOTAL".
 
-O valor do desconto foi conferido no carrinho e não é registrado neste repositório (ver seção 4).
+O desconto é de 15% sobre o preço de cada item, confirmado nos testes de 05/10 e 07/10/2026. Exemplo
+do teste do Bruno: Core T-Shirt de R$ 189,00 por R$ 160,65 (R$ 28,35 de economia).
 
 O FAQ prevê outro tipo de cupom, o de afiliado, válido só para a lista "Promo Afiliados". O
 cupom da Cecília é de creator e não tem essa restrição.
@@ -99,23 +100,23 @@ nova consulta.
 
 ## 4. Alertas Editoriais
 
-> [!CAUTION]
-> **Nunca divulgar o percentual do cupom**, em nenhum texto: página, artigo, legenda, roteiro,
-> post ou documento publicado. A regra é do FAQ oficial, seções 4 e 11, e o descumprimento pode
-> tirar o perfil do programa. Orientar a usar o cupom no checkout e conferir o desconto no
-> carrinho. No código, a Insider não tem `discountNumber`, e `test:coupon-offer-modes` falha se
-> algum texto dela tiver "%".
+> [!WARNING]
+> **Desde 07/10/2026 o site publica os 15% OFF**, por decisão do Bruno. O FAQ oficial (seções 4
+> e 11) pede que os participantes não divulguem o percentual e prevê a saída do programa para
+> quem descumprir; outras criadoras do programa publicam o percentual em sites próprios. Se a
+> Insider cobrar ou tirar o perfil, a saída é trocar o cupom pelos links de afiliado de
+> marketplace (Amazon, Mercado Livre, Shopee), onde a marca também vende.
 
-Nos artigos, "%" aparece só nos índices do Reclame Aqui e em "produção 100% nacional", nunca
-para desconto. Também não publicar o desconto em reais (com o preço do item, ele revela o
-percentual) nem o percentual do cupom de boas-vindas da loja.
+Com o percentual liberado, o desconto em reais também pode aparecer (preço original, preço com
+cupom e economia). Continua valendo não citar o percentual do cupom de boas-vindas da loja nem
+códigos de terceiros.
 
 Outras regras do programa que valem para o site e para as redes:
 
 - divulgar cupom e link só nos canais próprios, nunca em comentários de posts da Insider ou de
   outros criadores;
 - usar cupom e link juntos, sem editar o link nem usar encurtador;
-- sinalizar a publicidade (#publi ou equivalente), o que é diferente de divulgar o percentual;
+- sinalizar a publicidade (#publi ou equivalente);
 - testar cupom e link antes de publicar e conferir se a condição citada continua ativa;
 - em conteúdo de redes, mostrar a peça em uso, sem filtro que mude a cor e sem logo aparente de
   outra marca.
