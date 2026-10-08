@@ -22,7 +22,7 @@ npm run test:internal-links  # domínio, normalização e derivação de marca
 npm run test:coupon-offer-modes
 npm run test:coupon-translations  # lojas em outros idiomas: texto traduzido, códigos e links do PT
 npm run validate:yesstyle    # data/coupons/yesstyle.json; falha com oferta ativa vencida (data em UTC)
-npm run test:analytics-gate  # allowlist de hosts do GA4
+npm run test:analytics-gate  # allowlist de hosts do GA4 e do Clarity; loader do Clarity só em Clarity.js, sem id="clarity"
 npm run test:html-lang       # depois do build: <html lang> de cada rota
 npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um e textos que citam o CECILIA010
 ```
