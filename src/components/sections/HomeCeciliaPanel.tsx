@@ -92,8 +92,9 @@ function PhotoCard({ instagramFollowers }: { instagramFollowers?: string }) {
 }
 
 // Aba da Cecília na vitrine: a apresentação dela, sem código e sem artigos. A ordem do DOM é a do
-// celular (título, foto, texto, links, grupo de WhatsApp, números e a orientação), que é também a do foco e a da leitura;
-// no desktop a grade põe título e texto à esquerda e a foto à direita, nas duas linhas.
+// celular (título, foto, texto, links, grupo de WhatsApp, números e a orientação), que é também a
+// do foco e a da leitura; no desktop a grade põe título e texto à esquerda e a foto à direita, nas
+// duas linhas.
 export function HomeCeciliaPanel() {
   const stats = getCeciliaSocialStats();
   const instagramFollowers = stats.find(({ name }) => name === 'Instagram')?.followers;
