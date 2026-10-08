@@ -1,3 +1,4 @@
+import { socialMedias } from '@/lib/brandLinks';
 import { getActiveCoupons, getStoreCodeKind, type Coupon } from '@/lib/couponsData';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '@/components/review/sidebarCopy';
 import type { HomeStoreTab } from '@/lib/homeStoreTabs';
@@ -121,4 +122,54 @@ export function getStoreArticlePageSlugs<T extends StoreReview>(
   return stores
     .filter((store) => listed.some((review) => review.affiliate === store.slug))
     .map((store) => store.slug);
+}
+
+const LATEST_LIMIT = 5;
+
+export type HomeLatestArticle = {
+  slug: string;
+  href: string;
+  title: string;
+  type: string;
+  dateLabel: string;
+  image?: string;
+  store?: string;
+};
+
+// publishedAtISO começa por AAAA-MM-DD; o card mostra DD/MM.
+function formatDayMonth(publishedAtISO: string): string {
+  const [, month, day] = publishedAtISO.slice(0, 10).split('-');
+  return `${day}/${month}`;
+}
+
+export function getHomeLatest<T extends StoreReview>(
+  reviews: readonly T[],
+  stores: readonly Coupon[] = getActiveCoupons()
+): HomeLatestArticle[] {
+  return listedNewestFirst(reviews)
+    .slice(0, LATEST_LIMIT)
+    .map((review) => ({
+      slug: review.slug,
+      href: `/reviews/${review.slug}`,
+      title: review.title,
+      type: review.type,
+      dateLabel: formatDayMonth(review.publishedAtISO),
+      image: review.image ? resolveMediaUrl(review.image) : undefined,
+      store: stores.find((store) => store.slug === review.affiliate)?.brand,
+    }));
+}
+
+const CECILIA_STAT_NETWORKS = ['Instagram', 'TikTok', 'YouTube', 'Facebook'] as const;
+
+// Seguidores em milhares, como o topo da home sempre mostrou: "443.5K" vira "444k".
+export function formatFollowerCount(value?: string): string | undefined {
+  const thousands = Number.parseFloat(value ?? '');
+  return Number.isFinite(thousands) ? `${Math.round(thousands)}k` : undefined;
+}
+
+export function getCeciliaSocialStats() {
+  return CECILIA_STAT_NETWORKS.map((name) => ({
+    name,
+    followers: formatFollowerCount(socialMedias.find((social) => social.name === name)?.followers),
+  }));
 }

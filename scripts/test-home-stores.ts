@@ -3,6 +3,9 @@ import assert from 'node:assert/strict';
 import { COUPONS, getActiveCoupons, type Coupon } from '@/lib/couponsData';
 import { publishedReviews } from '@/lib/data';
 import {
+  formatFollowerCount,
+  getCeciliaSocialStats,
+  getHomeLatest,
   getHomeStoreTabs,
   getStoreArticlePageSlugs,
   getStoreArticlesPage,
@@ -136,7 +139,12 @@ assert.ok(
 assert.equal(tab('shein').label, 'Código de indicação SHEIN');
 assert.equal(tab('shein').code, '4CW5Y');
 assert.equal(tab('shein').hints.copy, 'Copie e pesquise no aplicativo SHEIN.');
-assert.ok(!JSON.stringify(tab('insider')).includes('%'), 'a Insider nunca mostra percentual');
+
+// Desconto e descrição saem dos dados da loja, sem texto próprio da vitrine.
+for (const current of tabs) {
+  assert.equal(current.discount, store(current.slug).discount, `${current.slug}: desconto dos dados`);
+  assert.equal(current.description, store(current.slug).shortDescription, `${current.slug}: descrição dos dados`);
+}
 assert.match(tab('nestle-nutre').description, /fórmulas infantis de 0 a 12 meses/);
 assert.equal(tab('letseatit').storeUrl, store('letseatit').offerUrl, 'o link da loja leva os UTMs dos dados');
 
@@ -185,4 +193,27 @@ assert.deepEqual(
   'subpágina para toda loja ativa com artigo'
 );
 
-console.log('✅ homeStores: regras das abas passaram.');
+// "Acabou de sair": as 5 listadas mais novas, com a loja de cada uma e sem código.
+const latestFixture = getHomeLatest(fixtureReviews, [store('magalu'), store('damie')]);
+assert.deepEqual(latestFixture.map(({ slug }) => slug), ['sem-loja', 'da-damie', 'novo', 'meio', 'mais-um']);
+assert.equal(latestFixture[0].store, undefined);
+assert.equal(latestFixture[1].store, 'DAMIE');
+assert.equal(latestFixture[2].dateLabel, '01/10');
+assert.equal(latestFixture[2].href, '/reviews/novo');
+
+const latest = getHomeLatest(publishedReviews);
+assert.deepEqual(latest.map(({ slug }) => slug), listed.slice(0, 5).map(({ slug }) => slug));
+for (const item of latest) {
+  assert.match(item.dateLabel, /^\d{2}\/\d{2}$/);
+  assert.ok(!Object.keys(item).some((key) => /code|coupon/i.test(key)), `${item.slug}: sem código`);
+}
+
+// Números das redes no painel da Cecília: a mesma conta do Hero de hoje.
+assert.equal(formatFollowerCount('443.5K'), '444k');
+assert.equal(formatFollowerCount('85.5K'), '86k');
+assert.equal(formatFollowerCount(undefined), undefined);
+assert.equal(formatFollowerCount('sem número'), undefined);
+assert.deepEqual(getCeciliaSocialStats().map(({ name }) => name), ['Instagram', 'TikTok', 'YouTube', 'Facebook']);
+assert.ok(getCeciliaSocialStats().every(({ followers }) => followers && /^\d+k$/.test(followers)));
+
+console.log(`✅ homeStores: abas, ${tabs.length} lojas, subpáginas, "Acabou de sair" e redes passaram.`);
