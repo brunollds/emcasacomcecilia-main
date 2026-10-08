@@ -1,13 +1,14 @@
 import Image from 'next/image';
-import { TrackedHomeLink, TrackedHomeTabLink } from '@/components/TrackedHomeLink';
+import { TrackedHomeLink, TrackedHomeTabLink, type HomeRoutePlacement } from '@/components/TrackedHomeLink';
 import { FOCUS_RING, FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
+import { ScrollRow } from '@/components/ui/ScrollRow';
 import type { EventTheme, HomeEventCard, ResolvedHomeEvent } from '@/lib/homeEvents';
 
 // Data comercial na home, entre "Acabou de sair" e "Receitas": só aparece com uma data em campanha
 // (content/home-events.json). Os cards não mostram código; "Ver o código" leva à aba da loja na
 // vitrine, onde o código fica. A página da data (/black-friday) reusa o EventCard.
 
-type EventPlacement = 'home_event' | 'event_hub';
+type EventPlacement = Extract<HomeRoutePlacement, 'home_event' | 'event_hub'>;
 
 // As três combinações do Encarte; nunca branco sobre laranja.
 export const EVENT_THEME_CLASSES: Record<
@@ -70,7 +71,7 @@ export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
           </div>
         </div>
 
-        <ul
+        <ScrollRow
           className={`flex snap-x gap-3 overflow-x-auto scroll-px-4 px-4 pt-1 pb-1.5 md:grid md:snap-none md:grid-cols-2 md:gap-[18px] md:overflow-visible md:p-0 ${DESKTOP_COLUMNS[event.cards.length]}`}
         >
           {event.cards.map((card) => (
@@ -78,7 +79,7 @@ export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
               <EventCard card={card} placement="home_event" focusRing={theme.focus} />
             </li>
           ))}
-        </ul>
+        </ScrollRow>
 
         {event.hubLink ? (
           <TrackedHomeLink
