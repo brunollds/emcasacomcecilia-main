@@ -226,6 +226,7 @@ assert.deepEqual(
     { produto: 'Panela', preco: '199.90', precoAntigo: 'R$ 1.394', url: 'https://example.com/panela' },
     { produto: 'Caminho relativo', url: '/receitas' },
     { produto: 'Protocolo errado', url: 'javascript:alert(1)' },
+    { produto: 'Sem as barras', url: 'https:example.com' },
   ]).map(({ title, discountPrice, originalPrice }) => ({ title, discountPrice, originalPrice })),
   [{ title: 'Panela', discountPrice: 199.9, originalPrice: 1394 }],
   'preço com ponto decimal e link fora de http(s)'

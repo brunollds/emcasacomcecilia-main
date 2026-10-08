@@ -51,9 +51,11 @@ function feedText(value: unknown): string {
   return typeof value === 'string' ? value.trim() : '';
 }
 
-// Link do feed: só endereço http(s) completo. Caminho relativo viraria link interno do site.
+// Link do feed: só endereço http(s) completo. Caminho relativo viraria link interno do site, e
+// "https:exemplo.com" (sem as barras) passa no new URL, mas o navegador o lê como caminho do site.
 function feedUrl(value: unknown): string {
   const text = feedText(value);
+  if (!/^https?:\/\//i.test(text)) return '';
   try {
     const { protocol } = new URL(text);
     return protocol === 'https:' || protocol === 'http:' ? text : '';
