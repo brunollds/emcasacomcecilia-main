@@ -1,5 +1,4 @@
 import assert from 'node:assert/strict';
-import type { MouseEvent } from 'react';
 import {
   getHomeRouteClickParameters,
   TrackedHomeTabLink,
@@ -43,8 +42,7 @@ assert.equal(element.props.href, tabLink.href);
 
 const calls: unknown[][] = [];
 Object.assign(globalThis, { window: { gtag: (...args: unknown[]) => calls.push(args) } });
-const click = (defaultPrevented: boolean) =>
-  element.props.onClick?.({ defaultPrevented } as MouseEvent<HTMLAnchorElement>);
+const click = (defaultPrevented: boolean) => element.props.onClick?.({ defaultPrevented });
 try {
   click(false);
   assert.deepEqual(calls, [

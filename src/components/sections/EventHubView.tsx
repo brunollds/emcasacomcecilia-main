@@ -4,7 +4,8 @@ import { EVENT_THEME_CLASSES, EventCard } from '@/components/sections/HomeEvent'
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import type { EventHubPageData } from '@/lib/homeEvents';
 
-// A página da data sem a leitura dos dados: o teste renderiza com uma edição de exemplo.
+// A página da data sem a leitura dos dados: o teste renderiza com uma edição de exemplo. O <main> com
+// as fontes fica na EventHubPage: o next/font do CouponBlocks não roda no tsx.
 export function EventHubView({ page }: { page: EventHubPageData }) {
   const theme = EVENT_THEME_CLASSES[page.theme];
 

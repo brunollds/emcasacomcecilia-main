@@ -67,8 +67,9 @@ assert.equal(getTabAnchor(CECILIA_TAB_ID), 'cecilia');
 assert.equal(parseTabHash('#loja-yesstyle', slugs), 'yesstyle');
 assert.equal(parseTabHash('#cecilia', slugs), CECILIA_TAB_ID);
 assert.equal(parseTabHash('loja-yesstyle', slugs), 'yesstyle', 'hash sem o #');
-for (const id of [CECILIA_TAB_ID, 'yesstyle']) {
-  assert.equal(parseTabHash(`#${getTabAnchor(id)}`, slugs), id, `${id}: o âncora volta para a mesma aba`);
+const todas = [...slugs, 'dolce-gusto'];
+for (const id of getTabOrder(todas)) {
+  assert.equal(parseTabHash(`#${getTabAnchor(id)}`, todas), id, `${id}: a âncora volta para a mesma aba`);
 }
 assert.equal(parseTabHash('#loja-kopenhagen', slugs), null, 'loja fora da vitrine');
 assert.equal(parseTabHash('#yesstyle', slugs), null, 'sem o prefixo loja-');

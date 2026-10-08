@@ -207,6 +207,10 @@ assert.equal(sheinEvent.cards.length, 1);
 assert.equal(sheinEvent.cards[0].store, 'SHEIN', 'a loja ativa aparece no card');
 assert.equal(sheinEvent.cards[0].codeLink, undefined, 'sem código, sem "Ver o código"');
 
+// Controle: com o código de indicação de volta, o mesmo card ganha o "Ver o código".
+const sheinComCodigo = resolveActiveHomeEvent(sheinConfig, sheinReviews, at('2026-11-07T10:00:00-03:00'), [store('shein')]);
+assert.deepEqual(sheinComCodigo?.cards[0].codeLink, { href: '/#loja-shein', label: 'Ver o código da SHEIN' });
+
 // A faixa renderizada: o HTML que a home serve durante a campanha.
 const bandHtml = renderToStaticMarkup(createElement(HomeEvent, { event: active }));
 const bandText = bandHtml.replace(/<[^>]+>/g, ' ');
@@ -230,6 +234,7 @@ for (const themeName of ['laranja', 'amarelo'] as const) {
   const theme = EVENT_THEME_CLASSES[themeName];
   const themedHtml = renderToStaticMarkup(createElement(HomeEvent, { event: { ...active, theme: themeName } }));
   assert.ok(themedHtml.includes(theme.band), `${themeName}: banda do tema`);
+  assert.ok(!theme.band.includes('text-white'), `${themeName}: nunca branco sobre laranja ou amarelo`);
   assert.ok(themedHtml.includes(theme.pill), `${themeName}: pílula do tema`);
   assert.ok(!themedHtml.includes('outline-amarelo-cupom'), `${themeName}: sem anel amarelo no fundo claro`);
   assert.equal(
@@ -238,6 +243,7 @@ for (const themeName of ['laranja', 'amarelo'] as const) {
     `${themeName}: anel marinho nos 4 cards, no "Ver tudo" e nos 2 "Ver o código"`
   );
 }
+assert.equal(new Set(Object.values(EVENT_THEME_CLASSES).map(({ band }) => band)).size, 3, 'cada tema tem a própria banda');
 
 // Na página da data (fundo creme), o card usa o anel marinho.
 const hubCardHtml = renderToStaticMarkup(createElement(EventCard, { card: damie, placement: 'event_hub' }));
@@ -291,6 +297,7 @@ const hubText = hubHtml.replace(/<[^>]+>/g, ' ');
 assert.match(hubHtml, /<h1[^>]*>Black Friday<\/h1>/);
 assert.match(hubHtml, /<time datetime="2026-11-27">Sexta, 27 de novembro de 2026<\/time>/i);
 assert.ok(hubText.includes('faltam 20 dias'));
+assert.ok(hubHtml.includes(EVENT_THEME_CLASSES.noite.pill), 'a contagem vai na pílula do tema');
 assert.match(hubHtml, /<h2 id="titulo-guias-da-data" class="sr-only">Guias da Black Friday<\/h2>/);
 assert.equal(hubHtml.match(/<li\b/g)?.length, 5, 'um item por card');
 // Na página entram os 5 artigos: além da DAMIE e do Magalu, o da Dolce Gusto (a loja ativa com código no 5º card).
