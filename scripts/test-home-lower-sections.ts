@@ -12,7 +12,8 @@ import { Offers } from '@/components/sections/Offers';
 import { PopularRecipes, selectPopularRecipes } from '@/components/sections/PopularRecipes';
 import { brandLinks } from '@/lib/brandLinks';
 import { getCouponBySlug } from '@/lib/couponsData';
-import { getRecipePrimaryCategory, recipes, type Offer, type Recipe, type SocialHighlight } from '@/lib/data';
+import { getRecipePrimaryCategory, recipes, type Recipe, type SocialHighlight } from '@/lib/data';
+import { parseDicasOffers, type Offer } from '@/lib/dicasOffers';
 import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 
 // Seções de baixo da home (Receitas, Explore a casa, Ofertas do dia e Últimos vídeos), renderizadas
@@ -127,18 +128,16 @@ assert.ok(exploreText.includes('Em preparação') && exploreText.includes('Avise
 const offer = (id: string, fields: Partial<Offer>): Offer => ({
   id,
   title: `Oferta ${id}`,
-  description: '',
-  originalPrice: 0,
-  discountPrice: 0,
-  discount: 0,
   store: 'Amazon',
   url: `https://example.com/oferta-${id}`,
+  originalPrice: 0,
+  discountPrice: 0,
   ...fields,
 });
 const offersHtml = render(
   createElement(Offers, {
     items: [
-      offer('1', { originalPrice: 100, discountPrice: 79.9, discount: 20, coupon: 'CODIGO', image: '/images/oferta.webp' }),
+      offer('1', { originalPrice: 100, discountPrice: 79.9, image: '/images/oferta.webp' }),
       offer('2', { originalPrice: 50, discountPrice: 50, store: 'Mercado Livre' }),
       offer('3', {}),
     ],
@@ -151,14 +150,55 @@ assert.ok(offersText.includes('de R$ 100,00 por R$ 79,90'), 'com desconto: de �
 assert.match(offersHtml, /de <s>R\$\s100,00<\/s> por/, 'o preço antigo vai riscado');
 assert.ok(offersText.includes('Oferta 2 R$ 50,00') && !offersText.includes('de R$ 50,00'), 'sem desconto, só o preço');
 assert.ok(offersText.includes('Oferta 3 Amazon'), 'sem preço, nada de R$');
-assert.equal(count(offersText, /com cupom/g), 1, 'só a oferta com cupom avisa');
-assert.ok(!offersText.includes('CODIGO') && !offersText.includes('-20%'), 'sem o código e sem o selo de porcentagem');
+assert.ok(!/cupom|%/i.test(offersText), 'o card não fala de cupom nem de porcentagem');
 for (const id of ['1', '2', '3']) {
   assert.ok(opensNewTab(linkTo(offersHtml, `https://example.com/oferta-${id}`)));
 }
 assert.equal(count(offersHtml, /<img[^>]* alt=""/g), 1, 'a foto é decorativa e só sai quando existe');
 assert.ok(offersHtml.includes('aria-label="Ver ofertas anteriores"') && offersHtml.includes('aria-label="Ver próximas ofertas"'));
 assert.ok(offersHtml.includes(`${linkTo(offersHtml, brandLinks.dicas)}Acessar Dicas &amp; Ofertas</a>`));
+assert.equal(render(createElement(Offers, { items: [] })), '', 'sem oferta, sem seção');
+
+// O feed do Dicas & Ofertas: até 10 ofertas válidas, sem as que não têm nome ou link.
+assert.deepEqual(parseDicasOffers({ erro: 'fora do ar' }), [], 'resposta que não é lista');
+const feed = parseDicasOffers([
+  {
+    slug: 'gabinete',
+    produto: ' Gabinete Gamer ',
+    preco: 'R$ 1.394,90',
+    precoAntigo: 'R$ 1.599,00',
+    loja: 'Amazon',
+    url: 'https://example.com/gabinete',
+    imagem: 'https://m.media-amazon.com/images/gabinete.jpg',
+  },
+  { produto: 'Sem link' },
+  null,
+  { produto: 'Aspirador', preco: 199, url: 'https://example.com/aspirador', imagem: 'https://example.com/foto.jpg' },
+  ...Array.from({ length: 12 }, (_, index) => ({ produto: `Extra ${index}`, url: `https://example.com/extra-${index}` })),
+]);
+assert.equal(feed.length, 10, 'no máximo 10, contadas depois de tirar as inválidas');
+assert.deepEqual(feed[0], {
+  id: 'gabinete',
+  title: 'Gabinete Gamer',
+  store: 'Amazon',
+  url: 'https://example.com/gabinete',
+  originalPrice: 1599,
+  discountPrice: 1394.9,
+  image: 'https://m.media-amazon.com/images/gabinete.jpg',
+});
+assert.deepEqual(
+  feed[1],
+  {
+    id: 'dicas-3',
+    title: 'Aspirador',
+    store: 'Dicas da Cecília',
+    url: 'https://example.com/aspirador',
+    originalPrice: 199,
+    discountPrice: 199,
+    image: undefined,
+  },
+  'sem preço antigo, o preço; foto de host fora da lista não entra'
+);
 
 // Últimos vídeos.
 // Como o youtube.ts entrega: a hqdefault.jpg como miniatura e a maxresdefault.jpg como reserva.

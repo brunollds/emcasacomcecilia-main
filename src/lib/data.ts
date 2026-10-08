@@ -1,5 +1,4 @@
 import { recipesData, reviewsData } from './generated/content-index';
-import { brandLinks } from './brandLinks';
 import type { ReviewCategory } from './reviewDiscovery';
 import type { Locale } from '@/lib/i18n/locales';
 
@@ -257,19 +256,6 @@ export interface Review {
   }[];
 }
 
-export interface Offer {
-  id: string;
-  title: string;
-  description: string;
-  originalPrice: number;
-  discountPrice: number;
-  discount: number;
-  store: string;
-  coupon?: string;
-  url: string;
-  image?: string;
-}
-
 export interface SocialHighlight {
   id: string;
   platform: 'YouTube' | 'Instagram';
@@ -440,40 +426,5 @@ export function getRecipeCuisine(recipe: Recipe): string | null {
 export const reviews: Review[] = reviewsData as unknown as Review[];
 
 export const publishedReviews: Review[] = reviews.filter((review) => !review.draft);
-
-export const offers: Offer[] = [
-  {
-    id: '1',
-    title: 'Batedeira Planetária KitchenAid',
-    description: 'Batedeira profissional com 10 velocidades',
-    originalPrice: 2499.90,
-    discountPrice: 1899.90,
-    discount: 24,
-    store: 'Amazon',
-    coupon: 'CECILIA10',
-    url: `${brandLinks.dicas}/batedeira-kitchenaid`,
-  },
-  {
-    id: '2',
-    title: 'Air Fryer Philips Walita',
-    description: 'Fritadeira sem óleo 4.1L para a família',
-    originalPrice: 899.90,
-    discountPrice: 649.90,
-    discount: 28,
-    store: 'Magazine Luiza',
-    coupon: 'CECILIA12',
-    url: `${brandLinks.dicas}/air-fryer-philips`,
-  },
-  {
-    id: '3',
-    title: 'Kit Panelas Antiaderentes',
-    description: 'Jogo com 5 panelas com revestimento cerâmico',
-    originalPrice: 599.90,
-    discountPrice: 399.90,
-    discount: 33,
-    store: 'Shopee',
-    url: `${brandLinks.dicas}/kit-panelas`,
-  },
-];
 
 export const youtubeShorts: any[] = [];
