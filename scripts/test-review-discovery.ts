@@ -84,12 +84,13 @@ function fixture(
 assert.deepEqual(
   sortReviewsByPublishedAt(
     getListedPortugueseReviews([
+      fixture(21, 'confianca-reputacao', '2026-08-01'),
       fixture(18, 'produtos-experiencias', '2026-08-09'),
       fixture(19, 'guias-praticos-utilidade', '2026-08-10'),
       fixture(20, 'guias-praticos-utilidade', '2026-08-10'),
     ])
   ).map(({ id }) => id),
-  [20, 19, 18]
+  [20, 19, 18, 21]
 );
 
 // Artigo sem category ou com data impossível derruba o build com o slug dele.
