@@ -39,7 +39,7 @@ depende do tipo:
   real do teste) e ajuda a competir em frescor de SERP/AI Overview contra afiliados
   concorrentes (ex.: Mainabelli, PatBadaro na Damie) que atualizam suas páginas antes do fim
   do mês.
-- **De ciclo (têm data de término real):** `dolce-gusto` e `nutren` (ambos `CECI`). Em
+- **De ciclo (têm data de término real):** `dolce-gusto` e `nestle-nutre` (ambos `CECI`). Em
   01/10/2026, as condições atuais foram reconfirmadas para outubro de 2026. Aqui a
   regra padrão vale sem atalho: só publicar a condição do próximo ciclo quando a marca ou a
   responsável pela parceria confirmar. Sem confirmação, manter a última data verdadeira e
@@ -94,7 +94,7 @@ Para cada oferta ativa, reconferir:
 | `damie` | DAMIE | `CECILIA12` | subdomínio Damie | Verificar a oferta, mas não criar campanha de linkagem: o subdomínio é dono da intenção comercial. |
 | `dolce-gusto` | Nescafé Dolce Gusto | `CECI` | artigos do cluster | Testar percentual, mínimo, limite por CPF e acúmulo. |
 | `yesstyle` | YesStyle | `CECILIA010` | `data/coupons/yesstyle.json` | A fonte factual é separada; `src/lib/yesstyleCoupons.ts` faz a leitura tipada e alimenta os getters em `couponsData.ts`. |
-| `nutren` | Nestlé Nutre | `CECI` | artigos do cluster | Confirmar exceções de produtos e valor do desconto (10% desde 04/10/2026). Fórmulas infantis de 0 a 12 meses, como NAN, ficam fora por lei (Decreto 9.579/2018, art. 5º): nenhum texto pode sugerir o CECI nelas. |
+| `nestle-nutre` | Nestlé Nutre | `CECI` | artigos do cluster | Confirmar exceções de produtos e valor do desconto (10% desde 04/10/2026). Fórmulas infantis de 0 a 12 meses, como NAN, ficam fora por lei (Decreto 9.579/2018, art. 5º): nenhum texto pode sugerir o CECI nelas. |
 | `i-wanna-sleep` | I Wanna Sleep | `CECIEMCASA` | artigos do cluster | Confirmar percentual, abrangência e acúmulo. |
 | `magalu` | Magazine Você | 10 faixas | `tiers` no próprio cupom | Testar as dez faixas, mínimos, navegador e elegibilidade “vendido e entregue pelo Magalu”. |
 | `letseatit` | Let's Eat It | `MAUAD` | UTMs da Inbazz em `offerUrl` | Testar os 5% no checkout. A comissão é atribuída pelos quatro UTMs do link; `test:coupon-offer-modes` falha se algum sumir. |
@@ -267,9 +267,9 @@ Artigo da Insider não pode citar o percentual do cupom, nem em FAQ, tabela de p
 economia: orientar a usar `EMCASACOMCECILIA` no checkout e conferir o desconto no carrinho. As
 regras do programa estão no dossiê `01_Parceiros/Insider.md`.
 
-Há uma divergência histórica conhecida: conteúdos Nutren ainda podem usar
-`affiliate: "nestle-nutre"`, embora o slug do cupom seja `nutren`. Não repetir em artigos novos;
-tratar a migração existente como tarefa separada, com validação.
+Até 10/2026 a loja Nestlé Nutre tinha o slug `nutren`, e dois artigos usavam
+`affiliate: "nestle-nutre"`. A loja passou a `nestle-nutre` (`/cupons/nutren` redireciona), os
+artigos acompanharam, e o `validate:content` barra `affiliate` que não seja o slug de uma loja.
 
 ---
 

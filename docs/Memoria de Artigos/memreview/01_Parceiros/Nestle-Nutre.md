@@ -1,6 +1,6 @@
 ---
 parceiro: "Nestlé Nutre"
-slug_cupom: "nutren"
+slug_cupom: "nestle-nutre"
 codigo_cupom: "CECI"
 status_parceria: "ativo"
 revisao_geral_ate: "2026-09-01"
