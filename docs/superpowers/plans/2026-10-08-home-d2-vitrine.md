@@ -1970,6 +1970,12 @@ aparecer diferença de classe ou de `style`, o card não ficou idêntico: corrig
 
 ### Task 9: rota `/reviews/loja/[brand]` e sitemap
 
+> Ajustes de 08/10, na execução: o "Ver o código da {loja}" vai a `/cupons/{slug}` (decisão F) e
+> sai pelo `TrackedCouponPageLink` com o `placement` `reviews_store_page`, que entra em
+> `CouponPageLinkPlacement` (`src/components/review/TrackedCouponPageLink.tsx`): link interno para
+> página de cupom é medido (AGENTS.md). A página usa os tokens `bg-creme`, `bg-marinho` e
+> `verde-escuro` no lugar dos hex, e a transição do "Ver todos" é `motion-safe:`.
+
 **Files:**
 - Create: `src/app/(pt)/reviews/loja/[brand]/page.tsx`
 - Modify: `src/app/sitemap.ts`
