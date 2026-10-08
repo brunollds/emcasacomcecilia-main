@@ -107,7 +107,7 @@
       "links": [
         {
           "label": "Consultar validade e regras do cupom CECI para Nestlé Nutre",
-          "href": "/cupons/nutren"
+          "href": "/cupons/nestle-nutre"
         },
         {
           "label": "Consultar o Nutren Just Protein na loja oficial",
@@ -143,7 +143,7 @@
     "sponsored": true
   },
   "coupon": "CECI",
-  "affiliate": "nutren",
+  "affiliate": "nestle-nutre",
   "editorialNote": "Este artigo reúne informações do rótulo e das páginas oficiais da Nestlé, além de sugestões editoriais de uso culinário. Não substitui orientação médica ou nutricional. O site Em Casa com Cecília mantém parceria comercial com a Nestlé Nutre por meio do cupom CECI.",
   "relatedArticles": [
     {

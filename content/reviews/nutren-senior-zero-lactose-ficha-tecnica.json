@@ -84,7 +84,7 @@
       "links": [
         {
           "label": "Ver regras e validade do cupom CECI na Nestlé Nutre",
-          "href": "/cupons/nutren"
+          "href": "/cupons/nestle-nutre"
         }
       ]
     },
@@ -190,7 +190,7 @@
       "links": [
         {
           "label": "Abrir a página do cupom CECI da Nestlé Nutre",
-          "href": "/cupons/nutren"
+          "href": "/cupons/nestle-nutre"
         },
         {
           "label": "Abrir a loja oficial da Nestlé Nutre",
@@ -222,7 +222,7 @@
     "sponsored": true
   },
   "coupon": "CECI",
-  "affiliate": "nutren",
+  "affiliate": "nestle-nutre",
   "editorialNote": "Este artigo usa a ficha pública da Nestlé Health Science e menciona o cupom CECI por parceria comercial com a Nestlé Nutre. Não há experiência própria de uso do produto. Confira o rótulo e o desconto no checkout.",
   "relatedArticles": [
     {

@@ -193,7 +193,7 @@
       "links": [
         {
           "label": "Consultar regras e validade do cupom CECI na página Nestlé Nutre",
-          "href": "/cupons/nutren"
+          "href": "/cupons/nestle-nutre"
         },
         {
           "label": "Ver a Nutren Creatina na loja oficial Nestlé Nutre",
@@ -230,7 +230,7 @@
     "sponsored": true
   },
   "coupon": "CECI",
-  "affiliate": "nutren",
+  "affiliate": "nestle-nutre",
   "editorialNote": "Este guia usa o rótulo fotografado da Nutren Creatina, páginas oficiais consultadas em 27/08/2026 e a alegação funcional autorizada pela Anvisa. O Em Casa com Cecília mantém parceria comercial com a Nestlé Nutre por meio do cupom CECI.",
   "relatedArticles": [
     {
