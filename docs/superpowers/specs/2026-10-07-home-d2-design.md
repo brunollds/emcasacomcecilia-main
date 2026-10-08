@@ -544,9 +544,20 @@ esta lista:
   cada artigo publicado.
   - Ordem com os artigos de 08/10: DAMIE, Insider, Dolce Gusto, Nestlé Nutre, I Wanna Sleep,
     Let's Eat It, YesStyle, Magalu, SHEIN.
-  - A combinar: se a DAMIE continua abrindo ao entrar (decisão 1) quando não estiver em primeiro;
-    se a bolinha da Cecília fica presa à esquerda enquanto a fila rola; e as setas no desktop, só
-    quando as bolinhas não couberem.
+  - Respostas do Bruno (08/10):
+    - a DAMIE abre ao entrar, e a vitrine vai trocando de loja sozinha, para a direita, até a
+      pessoa mexer nas bolinhas;
+    - a bolinha da Cecília fica presa à esquerda enquanto a fila rola;
+    - as setas aparecem no desktop só quando as bolinhas não couberem.
+  - Por que não aleatório: com o cache de 5 minutos da home, todo mundo veria a mesma loja; e se o
+    sorteio fosse no navegador, a loja trocaria depois de a página aparecer.
+  - A troca automática precisa:
+    - de um botão de pausar (WCAG 2.2.2);
+    - não rodar com `prefers-reduced-motion`;
+    - parar no primeiro clique, toque ou tecla nas bolinhas;
+    - ficar em pausa com a vitrine fora da tela ou a aba do navegador escondida;
+    - não mexer no hash da URL;
+    - não empurrar o que está embaixo: altura do painel estável entre as lojas.
 
 ## Decisões tomadas em 07/10
 
