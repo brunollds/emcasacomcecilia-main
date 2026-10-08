@@ -1,6 +1,8 @@
 import assert from 'node:assert/strict';
-import { readFileSync } from 'node:fs';
+import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
+
+import sitemap from '@/app/sitemap';
 
 import { COUPONS } from '@/lib/couponsData';
 import { publishedReviews } from '@/lib/data';
@@ -241,4 +243,26 @@ assert.equal(getEventHubPage(hubConfig, reviews, 'dia-das-maes', at('2026-11-07T
 assert.deepEqual(getEventHubPaths(hubConfig, reviews), ['/black-friday', '/natal']);
 assert.deepEqual(getEventHubPaths({ events: [without('hub')] }, reviews), []);
 
-console.log(`✅ homeEvents: validação (${invalid.length} casos), janela, contagem, home e página da data passaram.`);
+// Cada data do arquivo tem a sua rota, e toda rota de data declara o próprio hub.
+const appDir = resolve(process.cwd(), 'src', 'app', '(pt)');
+const hubRoutes = readdirSync(appDir, { withFileTypes: true })
+  .filter((entry) => entry.isDirectory() && existsSync(resolve(appDir, entry.name, 'page.tsx')))
+  .filter((entry) => readFileSync(resolve(appDir, entry.name, 'page.tsx'), 'utf8').includes('<EventHubPage'))
+  .map((entry) => entry.name);
+assert.ok(hubRoutes.includes('black-friday'), 'a rota /black-friday existe');
+for (const name of hubRoutes) {
+  const source = readFileSync(resolve(appDir, name, 'page.tsx'), 'utf8');
+  assert.ok(source.includes(`const HUB = '${name}';`), `/${name} declara o hub dela`);
+}
+const realHubPaths = getEventHubPaths(realConfig, publishedReviews);
+for (const path of realHubPaths) {
+  assert.ok(hubRoutes.includes(path.slice(1)), `${path} precisa de src/app/(pt)${path}/page.tsx`);
+}
+
+// O sitemap traz a página de cada data com edição, e nenhuma rota de data sem edição.
+const sitemapPaths = new Set(sitemap().map(({ url }) => new URL(url).pathname));
+for (const name of hubRoutes) {
+  assert.equal(sitemapPaths.has(`/${name}`), realHubPaths.includes(`/${name}`), `/${name} no sitemap só com edição`);
+}
+
+console.log(`✅ homeEvents: validação (${invalid.length} casos), janela, contagem, home, página da data, rotas e sitemap passaram.`);

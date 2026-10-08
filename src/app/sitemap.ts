@@ -1,9 +1,11 @@
 import type { MetadataRoute } from 'next';
+import homeEventsConfig from '@/../content/home-events.json';
 import { recipes, publishedReviews } from '@/lib/data';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { getActiveCoupons, getCouponBySlug } from '@/lib/couponsData';
 import { getCouponStorePath, getTranslatedCouponRoutes } from '@/lib/couponTranslations';
 import { getStoreArticlePageSlugs } from '@/lib/homeStores';
+import { getEventHubPaths } from '@/lib/homeEvents';
 import { YESSTYLE_LOCALES } from '@/lib/i18n/clusters/yesstyle';
 import { REVIEW_HUB_LOCALES, getReviewHubPath } from '@/lib/review-hubs';
 import { getLatestYesStyleVerifiedAtISO } from '@/lib/yesstyleCoupons';
@@ -45,6 +47,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const storeArticleRoutes: MetadataRoute.Sitemap = getStoreArticlePageSlugs(publishedReviews).map((slug) => ({
     url: `${BASE_URL}/reviews/loja/${slug}`,
     priority: 0.6,
+    changeFrequency: 'weekly' as const,
+  }));
+
+  // Página fixa de cada data comercial com edição em content/home-events.json (fora do menu).
+  const eventHubRoutes: MetadataRoute.Sitemap = getEventHubPaths(homeEventsConfig, publishedReviews).map((path) => ({
+    url: `${BASE_URL}${path}`,
+    priority: 0.7,
     changeFrequency: 'weekly' as const,
   }));
 
@@ -113,6 +122,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...recipeRoutes,
     ...reviewRoutes,
     ...storeArticleRoutes,
+    ...eventHubRoutes,
     ...videoRoutes,
     ...couponRoutes,
     ...translatedCouponRoutes,
