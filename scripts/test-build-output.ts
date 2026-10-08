@@ -21,8 +21,8 @@ import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
 // das lojas traduzidas e dos artigos de cada família, as páginas da YesStyle, o dock, a sidebar e a
-// interface dos artigos no idioma de cada um e os textos que citam o CECILIA010. O <html lang> fica
-// com test-c2-html-lang.
+// interface dos artigos no idioma de cada um, os textos que citam o CECILIA010, a home, as
+// subpáginas de loja e as páginas de data. O <html lang> fica com test-c2-html-lang.
 const SITE_URL = 'https://emcasacomcecilia.com';
 const APP_DIR = path.resolve('.next/server/app');
 const CSS_DIR = path.resolve('.next/static/css');
@@ -595,8 +595,12 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
   const positions = LOWER_SECTIONS.map(at).filter((index) => index >= 0);
   check(at('titulo-receitas') > body.indexOf(LATEST_SECTION) && at('titulo-explore-a-casa') >= 0, 'sem a faixa de receitas ou o Explore a casa');
   check(positions.every((index, order) => order === 0 || index > positions[order - 1]), 'seções de baixo fora de ordem');
+  // A última seção de baixo acaba no rodapé, que também linka a DAMIE e o Dicas & Ofertas.
   const sectionOf = (id: string) =>
-    between(body, `aria-labelledby="${id}"`, LOWER_SECTIONS.filter((other) => other !== id).map((other) => `aria-labelledby="${other}"`));
+    between(body, `aria-labelledby="${id}"`, [
+      ...LOWER_SECTIONS.filter((other) => other !== id).map((other) => `aria-labelledby="${other}"`),
+      '<footer',
+    ]);
 
   const recipesSection = sectionOf('titulo-receitas');
   check(textOf(recipesSection).includes(`${expected.recipeCount} receitas prontas para fazer`), 'Receitas: sem o total de receitas');
@@ -637,6 +641,18 @@ const brokenHomes = [
   homeBody.replace('aria-labelledby="titulo-receitas"', 'aria-labelledby="titulo-outra"'),
   // O menu também linka a DAMIE: troca todos, senão a mutação pegaria só o do menu.
   homeBody.split(hrefOf(brandLinks.damie)).join('href="/outra"'),
+  homeBody.split('Código de indicação').join('Cupom'),
+  homeBody.split('fórmulas infantis de 0 a 12 meses').join('fórmulas infantis'),
+  // Sem ofertas e sem vídeos (o feed e a API fora do ar no build), o Explore a casa acaba no rodapé,
+  // que também linka o Dicas & Ofertas: o link que some do Explore precisa dar problema.
+  (() => {
+    const offersAt = homeBody.indexOf('aria-labelledby="titulo-ofertas-do-dia"');
+    const trimmed = offersAt < 0 ? homeBody : homeBody.slice(0, offersAt) + homeBody.slice(homeBody.indexOf('<footer'));
+    const exploreAt = trimmed.indexOf('aria-labelledby="titulo-explore-a-casa"');
+    const footerAt = trimmed.indexOf('<footer');
+    const explore = trimmed.slice(exploreAt, footerAt).split(hrefOf(brandLinks.dicas)).join('href="/outra"');
+    return trimmed.slice(0, exploreAt) + explore + trimmed.slice(footerAt);
+  })(),
 ];
 for (const broken of brokenHomes) {
   assert.notEqual(broken, homeBody, 'a mutação do autoteste da home não achou o trecho');
