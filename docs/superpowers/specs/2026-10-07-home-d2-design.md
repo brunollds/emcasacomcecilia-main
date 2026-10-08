@@ -587,16 +587,19 @@ esta lista:
   flutuando não param. O WCAG 2.2.2 pede pausa para movimento automático de mais de 5 s. O
   `motion-safe:` atende quem pediu menos movimento, mas não é a técnica do 2.2.2. Uma regra só para
   a home, junto com o temporizador do carrossel (decisão K).
-- **Fase 6g:** o Tailwind v4 lê `docs/` e põe no CSS de produção as classes dos blocos de código
-  dos planos (o `auto-fit` da Task 2 da Fase 3, sem uso). Um `@source not "../../docs";` no
-  `globals.css` resolve.
+- **Fase 6g (feito em `db287aa`):** o Tailwind v4 lia `docs/` e punha no CSS das builds locais e
+  da CI as classes dos blocos de código dos planos (o `auto-fit` da Task 2 da Fase 3, sem uso). O
+  `@source not "../../docs";` no `globals.css` tirou. O archive da Hostinger já não leva `docs/`.
 - **`/categorias` (revisão final da Fase 5):** está sem link interno desde a Fase 5a, porque o
   "Todas categorias" era do `RecipeCategoryLinks`. **Decisão do Bruno (08/10):** sai do sitemap na
-  Fase 6c e continua no ar para quem tem o endereço.
+  Fase 6c e continua no ar para quem tem o endereço. Feito em `dc0785c`; o `test:build-output`
+  barra a volta dela ao sitemap.
 - **Filas que rolam na horizontal (revisão da Fase 5):** o Chrome só rola a fila quando o card
   focado pelo teclado está todo escondido; o card meio visível fica cortado. Passa o WCAG 2.4.11 e
-  não o 2.4.12. **Decisão do Bruno (08/10): corrigir.** O `ScrollRow` da Fase 6e cuida das filas
-  de ofertas, vídeos e data comercial.
+  não o 2.4.12. **Decisão do Bruno (08/10): corrigir.** O `ScrollRow` da Fase 6e (`087c40e`)
+  cuida das filas de ofertas, vídeos e data comercial. Conferido no Chrome com Tab e Shift+Tab de
+  verdade em 390, 768 e 1280 px, com e sem movimento reduzido; Firefox e Safari ficam para o smoke
+  do deploy, e o pior caso neles é o da Fase 5 (card meio cortado).
   - Card que não cabe inteiro vai para o começo da fila (`inline: 'start'`, o ponto de encaixe do
     snap). O `nearest` desta nota, testado no navegador, era puxado pelo snap de volta ao encaixe
     anterior.
@@ -604,10 +607,14 @@ esta lista:
 - **Ofertas do dia (revisão final da Fase 5):** o "com cupom" só aparece nas ofertas reserva de
   `data.ts`, que têm códigos de exemplo e não têm foto; o feed do Dicas & Ofertas não traz cupom.
   **Decisão do Bruno (08/10): revisar.** As ofertas reserva e o "com cupom" saem na Fase 6f. As
-  setas aparecem mesmo quando a fila não rola (fica assim).
+  setas aparecem mesmo quando a fila não rola (fica assim). Feito em `d0089bb`, `5d27854` e
+  `5d89583`: sem o feed, ou com resposta errada, a seção some sem derrubar a home; só entra link
+  http(s) completo. Uma resposta 200 vazia fica até 1 h no cache do fetch (`revalidate: 3600`):
+  o log do build diz quantas ofertas a home teve ("a home (ofertas: N, vídeos: N)"), e o smoke do
+  deploy confere a seção na home.
 - **Invólucro comum (recomendação da revisão final da Fase 5):** as seções de baixo repetem o mesmo
   invólucro (`section` com `aria-labelledby`, contêiner de 1200 px e `h2` condensado). O
-  `HomeSection` da Fase 6e serve a Explore a casa, Ofertas do dia e Últimos vídeos.
+  `HomeSection` da Fase 6e (`087c40e`) serve a Explore a casa, Ofertas do dia e Últimos vídeos.
 - **Na próxima mudança de `homeStoreTabs.ts`:** o prefixo `loja-` numa constante; a conta das
   setas, Home e End sai de `HomeStoreStories.tsx` para lá, com teste; o teste ganha a ida e volta
   `parseTabHash('#' + getTabAnchor(id))`, o hash sem `#` e `getTabOrder([])`.
@@ -621,10 +628,19 @@ esta lista:
   `ReviewHubCard`; animações do card fora do `motion-safe:`; Open Graph e Twitter completos na
   subpágina (`siteName`, `locale`, imagem, `twitter.title`); `lastModified` das subpáginas no
   sitemap; JSON-LD (`CollectionPage` e `BreadcrumbList`), se o Bruno quiser.
-- **Fase 6g:** medir o HTML da vitrine (336 KB, 25 KB gzip: 72 `next/image` e a miniatura de cada
-  artigo duas vezes por painel); o Lighthouse fica para o Bruno, pelo DevTools. O
-  `ReviewMobileBottomBar.tsx` passa a importar o `FOCUS_RING` de `src/components/ui/focusRing.ts`
-  em vez da cópia local.
+- **Fase 6g (feito em 08/10):** medir o HTML da vitrine (336 KB, 25 KB gzip: 72 `next/image` e a
+  miniatura de cada artigo duas vezes por painel). Medido no build de `16cfd5f`:
+  - a home inteira: 493 KB, 50,7 KB gzip e 23,6 KB brotli, com 85 `<img`;
+  - a vitrine (os painéis): 300 KB e 23,7 KB gzip, com 62 `<img`, dos quais 181 KB são `srcSet`;
+  - o payload RSC: 77 KB e 15,3 KB gzip; o `<head>`, 6,7 KB.
+
+  O Lighthouse fica para o Bruno, pelo DevTools. O `ReviewMobileBottomBar.tsx` importa o
+  `FOCUS_RING` de `src/components/ui/focusRing.ts` (`db287aa`).
+- **Limpeza anterior à D2 (revisão final da Fase 6), a combinar com o Bruno:** `Badge.tsx` e
+  `Card.tsx` em `src/components/ui/` não têm uso; com eles, `clsx` e `tailwind-merge` saem do
+  `package.json` (mexe no lockfile), e o CSS sem uso de `globals.css` (`.animate-shimmer`,
+  `@keyframes shimmer`, `.hover-lift`, `.card-hover`, `.img-zoom`, `.category-overlay`). O
+  `Button.tsx` e as classes que só o Hero usava já saíram (`add2f29`).
 - **Pedido do Bruno (08/10), numa fase a combinar:** as bolinhas viram um carrossel e as lojas
   entram na ordem do artigo mais novo de cada uma. A Cecília fica sempre em primeiro. Loja sem
   artigo fica no fim, na ordem de `couponsData.ts`. A ordem sai dos dados, então muda sozinha a
