@@ -8,7 +8,12 @@ export type HomeRoutePlacement =
   | 'home_featured_guides'
   | 'home_review_categories'
   | 'home_reviews_carousel'
-  | 'home_editor_pick';
+  | 'home_editor_pick'
+  // Vitrine da D2: recorte do código, página da loja, artigos da loja e painel da Cecília.
+  | 'home_store_banner'
+  | 'home_store_page'
+  | 'home_store_articles'
+  | 'home_cecilia';
 
 type HomeRouteClickInput = {
   href: string;

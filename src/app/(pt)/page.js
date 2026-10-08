@@ -1,5 +1,6 @@
-import { Hero } from '@/components/sections/Hero';
-import { CouponStrip } from '@/components/sections/CouponStrip';
+import { HomeStoreStories } from '@/components/sections/HomeStoreStories';
+import { HomeCeciliaPanel } from '@/components/sections/HomeCeciliaPanel';
+import { couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { FeaturedReviewGuides } from '@/components/sections/FeaturedReviewGuides';
 import { PopularRecipes } from '@/components/sections/PopularRecipes';
 import { MyLinks } from '@/components/sections/MyLinks';
@@ -8,7 +9,7 @@ import { ReviewsShowcase } from '@/components/sections/ReviewsShowcase';
 import { Offers } from '@/components/sections/Offers';
 import { CTA } from '@/components/sections/CTA';
 import homeCurationConfig from '@/../content/home-curation.json';
-import { getCouponStripItems } from '@/lib/couponsData';
+import { getHomeStoreTabs } from '@/lib/homeStores';
 import { getFeaturedOffers } from '@/lib/dicasOffers';
 import { getPopularRecipeSlugs } from '@/lib/popularRecipeStats';
 import { publishedReviews } from '@/lib/data';
@@ -91,15 +92,20 @@ export default async function Home() {
     : null;
 
   return (
-    <div className="min-h-screen bg-[#fef9f3]">
+    <div className={`${couponFontVariables} min-h-screen bg-[#fef9f3]`}>
+      <h1 className="sr-only">Em Casa com Cecília: guias, códigos de desconto e receitas</h1>
+
+      {/* 1. Vitrine: a Cecília e as lojas parceiras */}
+      <div className="bg-white pb-8 md:pb-10">
+        <HomeStoreStories
+          tabs={getHomeStoreTabs(publishedReviews)}
+          ceciliaPanel={<HomeCeciliaPanel />}
+          ceciliaPhoto={resolveMediaUrl('/images/photos/BRU-1.jpg')}
+        />
+      </div>
+
       <div className="bg-[#0f1d3a]">
-        {/* 1. Cupons ativos em faixa compacta */}
-        <CouponStrip coupons={getCouponStripItems()} />
-
-        {/* 2. Hero - Apresentação principal */}
-        <Hero />
-
-        {/* 3. Destaques de Guias & Análises */}
+        {/* 2. Destaques de Guias & Análises (sai na Fase 3, com o Acabou de sair) */}
         <FeaturedReviewGuides items={featuredReviewGuides} />
       </div>
 
