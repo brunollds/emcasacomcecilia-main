@@ -82,7 +82,7 @@ type CouponStoreLinkProps = {
   contentSlug?: string;
   linkLabel?: string;
   sponsored?: boolean;
-  placement?: 'coupon_page' | 'coupon_hub' | 'coupon_hub_featured' | 'bottom_bar' | 'review_inline' | 'review_verdict' | 'review_sidebar' | 'review_mobile_drawer' | 'review_final_cta';
+  placement?: 'coupon_page' | 'coupon_hub' | 'coupon_hub_featured' | 'bottom_bar' | 'review_inline' | 'review_verdict' | 'review_sidebar' | 'review_mobile_drawer' | 'review_final_cta' | 'home_store_banner';
   className?: string;
 };
 

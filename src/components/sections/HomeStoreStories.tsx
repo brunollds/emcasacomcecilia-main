@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState, useSyncExternalStore, type KeyboardEvent, type ReactNode } from 'react';
 import Image from 'next/image';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
+import { CouponStoreLink } from '@/components/CouponComponents';
 import { CopyCodeButton } from '@/components/coupons/CouponActions';
 import { FOCUS_RING, asSentence } from '@/components/coupons/CouponBlocks';
 import { getCouponCopyLabels } from '@/components/review/couponCopyLocale';
@@ -272,16 +273,15 @@ function CodeBanner({ tab }: { tab: HomeStoreTab }) {
           </div>
         ) : null}
         <div className="flex flex-wrap gap-x-5">
-          <TrackedHomeLink
+          <CouponStoreLink
             href={tab.storeUrl}
-            target="_blank"
-            rel="sponsored noopener noreferrer"
+            brand={tab.slug}
+            couponCode={tab.code}
             placement="home_store_banner"
-            linkLabel={tab.storeLinkLabel}
             className={`${TEXT_LINK} font-extrabold`}
           >
             {tab.storeLinkLabel}
-          </TrackedHomeLink>
+          </CouponStoreLink>
           <TrackedHomeLink
             href={tab.storePageUrl}
             placement="home_store_page"
