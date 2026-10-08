@@ -1,7 +1,16 @@
 import assert from 'node:assert/strict';
 
-import { COUPONS } from '@/lib/couponsData';
-import { getStorePageUrl } from '@/lib/homeStores';
+import { COUPONS, getActiveCoupons, type Coupon } from '@/lib/couponsData';
+import { publishedReviews } from '@/lib/data';
+import {
+  getHomeStoreTabs,
+  getStoreArticlePageSlugs,
+  getStoreArticlesPage,
+  getStorePageUrl,
+  type StoreReview,
+} from '@/lib/homeStores';
+import { getListedPortugueseReviews, sortReviewsByPublishedAt } from '@/lib/reviewDiscovery';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import {
   CECILIA_TAB_ID,
   getDefaultTabId,
@@ -16,6 +25,37 @@ function store(slug: string) {
   assert.ok(found, `loja ${slug} existe em couponsData.ts`);
   return found;
 }
+
+type ReviewFixture = StoreReview & { locale?: string };
+
+function review(id: number, slug: string, affiliate: string | undefined, publishedAtISO: string): ReviewFixture {
+  return {
+    id,
+    slug,
+    title: `Título ${slug}`,
+    type: 'Guia',
+    description: `Descrição ${slug}`,
+    publishedAt: publishedAtISO,
+    publishedAtISO,
+    category: 'guias-praticos-utilidade',
+    image: `/images/reviews/teste/${slug}.webp`,
+    imageAlt: `Imagem ${slug}`,
+    affiliate,
+  };
+}
+
+// Magalu com 4 artigos listados (fora o rascunho, o em inglês e o escondido) e 1 da DAMIE.
+const fixtureReviews: ReviewFixture[] = [
+  review(1, 'antigo', 'magalu', '2026-09-01'),
+  review(2, 'novo', 'magalu', '2026-10-01'),
+  review(3, 'meio', 'magalu', '2026-09-15'),
+  review(4, 'mais-um', 'magalu', '2026-09-10'),
+  review(5, 'da-damie', 'damie', '2026-10-02'),
+  { ...review(6, 'rascunho', 'magalu', '2026-10-05'), draft: true },
+  { ...review(7, 'em-ingles', 'magalu', '2026-10-06'), locale: 'en' },
+  { ...review(8, 'escondido', 'magalu', '2026-10-07'), hideFromPortugueseListings: true },
+  review(9, 'sem-loja', undefined, '2026-10-03'),
+];
 
 // Abas: o hash é a única fonte da aba aberta, e o id da bolinha é o próprio hash.
 const slugs = ['damie', 'yesstyle'];
@@ -41,5 +81,108 @@ assert.equal(getStorePageUrl(store('damie'), 'home'), `${DAMIE_CODE_PAGE}&utm_co
 assert.equal(getStorePageUrl(store('damie'), 'reviews-loja'), `${DAMIE_CODE_PAGE}&utm_content=reviews-loja`);
 assert.equal(getStorePageUrl(store('yesstyle'), 'home'), '/cupons/yesstyle');
 assert.equal(getStorePageUrl(store('nestle-nutre'), 'reviews-loja'), '/cupons/nestle-nutre');
+
+// Abas com fixture: ordem, limite de 3, total, "do Magalu" e o link para todos os artigos.
+const [magaluTab] = getHomeStoreTabs(fixtureReviews, [store('magalu')]);
+assert.deepEqual(magaluTab.articles.map(({ slug }) => slug), ['novo', 'meio', 'mais-um']);
+assert.equal(magaluTab.total, 4);
+assert.equal(magaluTab.listTitle, 'Artigos do Magalu');
+assert.equal(magaluTab.storeLinkLabel, 'Ir para o Magalu');
+assert.deepEqual(magaluTab.allArticles, { href: '/reviews/loja/magalu', label: 'Ver os 4 artigos do Magalu' });
+assert.deepEqual(magaluTab.articles[0], {
+  slug: 'novo',
+  href: '/reviews/novo',
+  title: 'Título novo',
+  type: 'Guia',
+  image: resolveMediaUrl('/images/reviews/teste/novo.webp'),
+});
+
+// Loja sem artigo (a SHEIN hoje): sem story, sem lista e com o aviso no lugar.
+const [sheinTab] = getHomeStoreTabs(fixtureReviews, [store('shein')]);
+assert.equal(sheinTab.total, 0);
+assert.deepEqual(sheinTab.articles, []);
+assert.equal(sheinTab.allArticles, undefined);
+assert.equal(sheinTab.emptyText, 'Ainda não há artigo da SHEIN por aqui. As campanhas vigentes ficam na página da loja.');
+
+// Loja de link sem código de indicação: sem código e sem rótulo de cupom.
+const semCodigo = { ...store('shein'), referral: undefined } as Coupon;
+const [semCodigoTab] = getHomeStoreTabs([], [semCodigo]);
+assert.equal(semCodigoTab.code, undefined);
+assert.equal(semCodigoTab.label, 'SHEIN');
+
+// Abas com os dados de hoje.
+const tabs = getHomeStoreTabs(publishedReviews);
+const bySlug = new Map(tabs.map((tab) => [tab.slug, tab]));
+const tab = (slug: string) => {
+  const found = bySlug.get(slug);
+  assert.ok(found, `aba ${slug}`);
+  return found;
+};
+assert.deepEqual(
+  tabs.map(({ slug }) => slug),
+  getActiveCoupons().map(({ slug }) => slug),
+  'uma aba por loja ativa, na ordem de couponsData.ts'
+);
+assert.ok(!bySlug.has('cecilia'), 'a aba da Cecília é o painel dela, não uma loja');
+assert.ok(!bySlug.has('kopenhagen'), 'loja pausada fica de fora');
+
+assert.equal(tab('damie').label, 'Cupom DAMIE');
+assert.equal(tab('damie').code, 'CECILIA12');
+assert.equal(tab('yesstyle').label, 'Código de recompensa YesStyle');
+assert.ok(
+  ![tab('yesstyle').label, tab('yesstyle').hints.copy, tab('yesstyle').hints.copied].some((text) => /cupom/i.test(text)),
+  'o CECILIA010 nunca é chamado de cupom'
+);
+assert.equal(tab('shein').label, 'Código de indicação SHEIN');
+assert.equal(tab('shein').code, '4CW5Y');
+assert.equal(tab('shein').hints.copy, 'Copie e pesquise no aplicativo SHEIN.');
+assert.ok(!JSON.stringify(tab('insider')).includes('%'), 'a Insider nunca mostra percentual');
+assert.match(tab('nestle-nutre').description, /fórmulas infantis de 0 a 12 meses/);
+assert.equal(tab('letseatit').storeUrl, store('letseatit').offerUrl, 'o link da loja leva os UTMs dos dados');
+
+const listed = sortReviewsByPublishedAt(getListedPortugueseReviews(publishedReviews));
+for (const current of tabs) {
+  const expected = listed.filter((item) => item.affiliate === current.slug);
+  assert.equal(current.total, expected.length, `${current.slug}: total`);
+  assert.deepEqual(
+    current.articles.map(({ slug }) => slug),
+    expected.slice(0, 3).map(({ slug }) => slug),
+    `${current.slug}: os 3 mais novos`
+  );
+  for (const article of current.articles) {
+    assert.equal(article.href, `/reviews/${article.slug}`);
+    assert.ok(!Object.keys(article).some((key) => /code|coupon/i.test(key)), `${article.slug}: artigo sem código`);
+  }
+  assert.equal(current.allArticles === undefined, expected.length <= 3, `${current.slug}: "Ver os N artigos" só acima de 3`);
+  assert.ok(!current.storePageUrl.includes('/cupons/damie'), `${current.slug}: nunca /cupons/damie`);
+}
+
+// Subpágina: dados e lojas com página.
+const damiePage = getStoreArticlesPage(publishedReviews, 'damie');
+assert.ok(damiePage);
+assert.equal(damiePage.title, 'Artigos da DAMIE');
+assert.equal(damiePage.metaTitle, 'DAMIE: guias e análises - Em Casa com Cecília');
+assert.equal(damiePage.codeLinkLabel, 'Ver o código da DAMIE');
+assert.equal(damiePage.storePageUrl, getStorePageUrl(store('damie'), 'reviews-loja'));
+assert.equal(damiePage.articles.length, tab('damie').total);
+assert.equal(getStoreArticlesPage(publishedReviews, 'loja-que-nao-existe'), null);
+assert.equal(getStoreArticlesPage(publishedReviews, 'kopenhagen'), null, 'pausada');
+assert.equal(getStoreArticlesPage(fixtureReviews, 'shein', [store('shein')]), null, 'sem artigo, sem página');
+
+const magaluPage = getStoreArticlesPage(fixtureReviews, 'magalu', [store('magalu')]);
+assert.ok(magaluPage);
+assert.equal(magaluPage.countLabel, '4 artigos da Cecília sobre o Magalu');
+assert.equal(magaluPage.description, '4 artigos da Cecília sobre o Magalu: guias e análises, do mais novo para o mais antigo.');
+const umArtigo = getStoreArticlesPage([review(1, 'so-um', 'magalu', '2026-10-01')], 'magalu', [store('magalu')]);
+assert.equal(umArtigo?.countLabel, '1 artigo da Cecília sobre o Magalu');
+
+assert.deepEqual(getStoreArticlePageSlugs(fixtureReviews, [store('damie'), store('magalu'), store('shein')]), ['damie', 'magalu']);
+assert.deepEqual(
+  getStoreArticlePageSlugs(publishedReviews),
+  getActiveCoupons()
+    .filter((coupon) => listed.some((item) => item.affiliate === coupon.slug))
+    .map(({ slug }) => slug),
+  'subpágina para toda loja ativa com artigo'
+);
 
 console.log('✅ homeStores: regras das abas passaram.');
