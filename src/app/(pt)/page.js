@@ -109,23 +109,23 @@ export default async function Home() {
         <FeaturedReviewGuides items={featuredReviewGuides} />
       </div>
 
-      {/* 4. Atalhos por categoria e publicações recentes */}
+      {/* 3. Atalhos por categoria e publicações recentes */}
       <ReviewsShowcase items={carouselReviewGuides} />
 
       {activeHomePick ? (
         <HomeEditorialPick item={activeHomePick} />
       ) : null}
 
-      {/* 5. Receitas Populares */}
+      {/* 4. Receitas Populares */}
       <PopularRecipes popularSlugs={popularRecipeSlugs} />
 
-      {/* 6. Universo da Cecília */}
+      {/* 5. Universo da Cecília */}
       <MyLinks />
 
-      {/* 7. Ofertas */}
+      {/* 6. Ofertas */}
       <Offers items={featuredOffers} />
 
-      {/* 8. CTA YouTube */}
+      {/* 7. CTA YouTube */}
       <CTA />
     </div>
   );

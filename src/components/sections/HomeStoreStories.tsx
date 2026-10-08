@@ -139,7 +139,7 @@ export function HomeStoreStories({ tabs, ceciliaPanel, ceciliaPhoto }: HomeStore
           hidden={selected !== tab.slug}
           className={panelClass}
         >
-          <StorePanel tab={tab} priority={tab.slug === defaultTab} />
+          <StorePanel tab={tab} eager={tab.slug === defaultTab} />
         </div>
       ))}
     </section>
@@ -171,10 +171,10 @@ function StoreBubble({ tabId, name, selected, dark, onSelect, onKeyDown, registe
       tabIndex={selected ? 0 : -1}
       onClick={() => onSelect(tabId)}
       onKeyDown={onKeyDown}
-      className={`group flex w-20 shrink-0 scroll-mt-4 flex-col items-center gap-2 rounded-lg pt-1.5 text-marinho md:w-[92px] ${FOCUS_RING}`}
+      className={`group flex w-20 shrink-0 scroll-mt-40 flex-col items-center gap-2 rounded-lg pt-1.5 text-marinho md:w-[92px] ${FOCUS_RING}`}
     >
       <span
-        className={`relative flex size-[68px] items-center justify-center overflow-hidden rounded-full group-hover:scale-106 motion-safe:transition-transform motion-safe:duration-250 md:size-20 ${
+        className={`relative flex size-[68px] items-center justify-center overflow-hidden rounded-full motion-safe:group-hover:scale-106 motion-safe:transition-transform motion-safe:duration-250 md:size-20 ${
           dark ? 'bg-marinho' : 'bg-creme'
         } ${
           selected
@@ -202,7 +202,7 @@ function StoreMark({ tab, imageClassName, sizes }: { tab: HomeStoreTab; imageCla
   );
 }
 
-function StorePanel({ tab, priority }: { tab: HomeStoreTab; priority: boolean }) {
+function StorePanel({ tab, eager }: { tab: HomeStoreTab; eager: boolean }) {
   const [current, setCurrent] = useState(0);
   const count = tab.articles.length;
   const move = (step: number) => setCurrent((index) => (index + step + count) % count);
@@ -212,7 +212,7 @@ function StorePanel({ tab, priority }: { tab: HomeStoreTab; priority: boolean })
       <CodeBanner tab={tab} />
       <div className="flex flex-col gap-5 lg:flex-row lg:items-start">
         {count > 0 ? (
-          <ArticleStory article={tab.articles[current]} index={current} count={count} onMove={move} priority={priority} />
+          <ArticleStory article={tab.articles[current]} index={current} count={count} onMove={move} eager={eager} />
         ) : null}
         <ArticleList tab={tab} current={current} onPick={setCurrent} />
       </div>
@@ -248,8 +248,8 @@ function CodeBanner({ tab }: { tab: HomeStoreTab }) {
       </div>
       <div className="flex flex-col justify-center gap-2 bg-creme px-4 pt-3.5 pb-3 md:gap-3 md:px-7 md:py-6">
         {tab.code ? (
-          <>
-            <div className="group/codigo flex flex-wrap items-center justify-between gap-3">
+          <div className="group/codigo flex flex-col gap-2 md:gap-3">
+            <div className="flex flex-wrap items-center justify-between gap-3">
               <span className="-ml-1 rounded px-1 py-0.5 font-codigo text-2xl font-extrabold tracking-[0.04em] break-all text-balance text-marinho group-has-[[data-copied=true]]/codigo:bg-amarelo-cupom motion-safe:transition-colors motion-safe:duration-700 motion-safe:group-has-[[data-copied=true]]/codigo:duration-0 md:text-[38px]">
                 {tab.code}
               </span>
@@ -265,8 +265,11 @@ function CodeBanner({ tab }: { tab: HomeStoreTab }) {
                 {COPY_LABELS.copy}
               </CopyCodeButton>
             </div>
-            <p className="text-[13px] font-medium text-marinho-suave">{tab.hints.copy}</p>
-          </>
+            <p className="text-[13px] font-medium text-marinho-suave">
+              <span className="group-has-[[data-copied=true]]/codigo:hidden">{tab.hints.copy}</span>
+              <span className="hidden group-has-[[data-copied=true]]/codigo:inline">{tab.hints.copied}</span>
+            </p>
+          </div>
         ) : null}
         <div className="flex flex-wrap gap-x-5">
           <TrackedHomeLink
@@ -298,23 +301,26 @@ type ArticleStoryProps = {
   index: number;
   count: number;
   onMove: (step: number) => void;
-  priority: boolean;
+  eager: boolean;
 };
 
 // Só no desktop: o artigo atual em destaque, com cores alternadas como no canvas.
-function ArticleStory({ article, index, count, onMove, priority }: ArticleStoryProps) {
+function ArticleStory({ article, index, count, onMove, eager }: ArticleStoryProps) {
   const dark = index % 2 === 1;
+  // A primeira imagem da aba que abre com a página é a do LCP no desktop: carrega já e com prioridade.
+  const eagerImage = eager && index === 0;
 
   return (
     <article className="hidden min-w-0 flex-[1_1_420px] flex-col overflow-hidden rounded-[14px] border-2 border-marinho bg-white lg:flex">
       <div className="relative h-[300px] bg-creme">
         {article.image ? (
-          // Abaixo de 1024 px o story fica escondido; o sizes de 1px faz o preload baixar a menor versão.
+          // Abaixo de 1024 px o story fica escondido; o sizes de 1px faz o navegador baixar a menor versão.
           <Image
             src={article.image}
             alt=""
             fill
-            priority={priority && index === 0}
+            loading={eagerImage ? 'eager' : 'lazy'}
+            fetchPriority={eagerImage ? 'high' : 'auto'}
             sizes="(min-width: 1024px) 560px, 1px"
             className="object-cover"
           />

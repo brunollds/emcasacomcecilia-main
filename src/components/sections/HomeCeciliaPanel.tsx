@@ -27,7 +27,9 @@ const SOCIAL_LINKS: Array<{ name: SocialName; href: string }> = [
   { name: 'YouTube', href: brandLinks.youtube },
 ];
 
-const STAT_COLOR: Record<string, string> = {
+type StatName = ReturnType<typeof getCeciliaSocialStats>[number]['name'];
+
+const STAT_COLOR: Record<StatName, string> = {
   Instagram: 'text-amarelo-cupom',
   TikTok: 'text-white',
   YouTube: 'text-laranja',
@@ -92,8 +94,9 @@ function PhotoCard({ instagramFollowers }: { instagramFollowers?: string }) {
   );
 }
 
-// Aba da Cecília na vitrine: a apresentação dela, sem código e sem artigos. No celular a ordem é
-// título, foto, texto, links, números e a orientação; no desktop, texto à esquerda e foto à direita.
+// Aba da Cecília na vitrine: a apresentação dela, sem código e sem artigos. A ordem do DOM é a do
+// celular (título, foto, texto, links, números e a orientação), que é também a do foco e a da leitura;
+// no desktop a grade põe título e texto à esquerda e a foto à direita, nas duas linhas.
 export function HomeCeciliaPanel() {
   const stats = getCeciliaSocialStats();
   const instagramFollowers = stats.find(({ name }) => name === 'Instagram')?.followers;
@@ -101,7 +104,7 @@ export function HomeCeciliaPanel() {
   return (
     <section
       aria-labelledby="titulo-cecilia"
-      className="relative isolate flex flex-col gap-[18px] overflow-hidden rounded-[14px] border-2 border-marinho bg-marinho px-4 pt-6 pb-[22px] text-white shadow-[0_4px_0_var(--color-marinho)] lg:grid lg:grid-cols-[minmax(0,1.2fr)_minmax(0,0.8fr)] lg:items-center lg:gap-10 lg:px-11 lg:py-10 lg:shadow-[0_6px_0_var(--color-marinho)]"
+      className="relative isolate flex flex-col gap-[18px] overflow-hidden rounded-[14px] border-2 border-marinho bg-marinho px-4 pt-6 pb-[22px] text-white shadow-[0_4px_0_var(--color-marinho)] lg:grid lg:grid-cols-[minmax(0,1.2fr)_minmax(0,0.8fr)] lg:gap-x-10 lg:gap-y-[22px] lg:px-11 lg:py-10 lg:shadow-[0_6px_0_var(--color-marinho)]"
     >
       {/* Os ícones que flutuavam no Hero de hoje, atrás do conteúdo. */}
       <div aria-hidden="true" className="pointer-events-none absolute inset-0 -z-10 overflow-hidden text-white/5 select-none">
@@ -111,20 +114,25 @@ export function HomeCeciliaPanel() {
         <Leaf size={140} strokeWidth={0.5} className="absolute right-[5%] bottom-[10%] rotate-45 motion-safe:animate-[float_8s_ease-in-out_infinite]" />
       </div>
 
-      <div className="contents lg:flex lg:flex-col lg:gap-[22px]">
-        <h2
-          id="titulo-cecilia"
-          className="order-1 font-condensada text-5xl leading-[0.9] font-black tracking-[-0.005em] font-stretch-extra-condensed lg:text-7xl"
-        >
-          Da minha casa
-          <br />
-          para a sua.
-        </h2>
-        <p className="order-3 max-w-[34em] text-[15px] leading-[1.55] font-medium text-white/80 lg:text-[17px]">
+      <h2
+        id="titulo-cecilia"
+        className="font-condensada text-5xl leading-[0.9] font-black tracking-[-0.005em] font-stretch-extra-condensed lg:col-start-1 lg:row-start-1 lg:self-end lg:text-7xl"
+      >
+        Da minha casa
+        <br />
+        para a sua.
+      </h2>
+
+      <div className="px-3.5 pt-2.5 pb-1.5 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:self-center lg:px-2 lg:pt-[18px] lg:pb-2">
+        <PhotoCard instagramFollowers={instagramFollowers} />
+      </div>
+
+      <div className="flex flex-col gap-[18px] lg:col-start-1 lg:row-start-2 lg:gap-[22px] lg:self-start">
+        <p className="max-w-[34em] text-[15px] leading-[1.55] font-medium text-white/80 lg:text-[17px]">
           Olá! Sou a Cecília. Conto o que testei em casa, divido as receitas da minha cozinha e reúno os
           códigos de desconto das marcas parceiras.
         </p>
-        <div className="order-3 flex flex-wrap items-center gap-3">
+        <div className="flex flex-wrap items-center gap-3">
           <TrackedHomeLink
             href="/sobre"
             placement="home_cecilia"
@@ -151,7 +159,7 @@ export function HomeCeciliaPanel() {
             ))}
           </div>
         </div>
-        <dl className="order-3 grid max-w-[460px] grid-cols-4">
+        <dl className="grid max-w-[460px] grid-cols-4">
           {stats.map(({ name, followers }, index) => (
             <div
               key={name}
@@ -164,13 +172,9 @@ export function HomeCeciliaPanel() {
             </div>
           ))}
         </dl>
-        <p className="order-3 text-[13px] leading-[1.45] font-semibold text-white/70">
+        <p className="text-[13px] leading-[1.45] font-semibold text-white/70">
           Escolha uma loja nas bolinhas para ver o código e os artigos dela.
         </p>
-      </div>
-
-      <div className="order-2 px-3.5 pt-2.5 pb-1.5 lg:px-2 lg:pt-[18px] lg:pb-2">
-        <PhotoCard instagramFollowers={instagramFollowers} />
       </div>
     </section>
   );
