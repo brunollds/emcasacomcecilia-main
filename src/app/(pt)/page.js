@@ -1,24 +1,17 @@
 import { HomeStoreStories } from '@/components/sections/HomeStoreStories';
 import { HomeCeciliaPanel } from '@/components/sections/HomeCeciliaPanel';
+import { HomeLatest } from '@/components/sections/HomeLatest';
 import { couponFontVariables } from '@/components/coupons/CouponBlocks';
-import { FeaturedReviewGuides } from '@/components/sections/FeaturedReviewGuides';
 import { PopularRecipes } from '@/components/sections/PopularRecipes';
 import { MyLinks } from '@/components/sections/MyLinks';
 import { HomeEditorialPick } from '@/components/sections/HomeEditorialPick';
-import { ReviewsShowcase } from '@/components/sections/ReviewsShowcase';
 import { Offers } from '@/components/sections/Offers';
 import { CTA } from '@/components/sections/CTA';
 import homeCurationConfig from '@/../content/home-curation.json';
-import { getHomeStoreTabs } from '@/lib/homeStores';
+import { getHomeLatest, getHomeStoreTabs } from '@/lib/homeStores';
 import { getFeaturedOffers } from '@/lib/dicasOffers';
 import { getPopularRecipeSlugs } from '@/lib/popularRecipeStats';
 import { publishedReviews } from '@/lib/data';
-import {
-  getListedPortugueseReviews,
-  selectHomeReviewDiscovery,
-  sortReviewsByPublishedAt,
-  toHomeReviewCard,
-} from '@/lib/reviewDiscovery';
 import { resolveActiveHomeCuration } from '@/lib/homeCuration';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
@@ -55,21 +48,6 @@ export default async function Home() {
     publishedReviews,
     new Date()
   );
-  const discovery = activeCuration
-    ? selectHomeReviewDiscovery(publishedReviews, {
-        excludedIds: [activeCuration.article.id],
-      })
-    : selectHomeReviewDiscovery(publishedReviews);
-  const featuredReviewGuides = discovery.featured.map(toHomeReviewCard);
-  const featuredIds = new Set(discovery.featured.map(({ id }) => id));
-  if (activeCuration) {
-    featuredIds.add(activeCuration.article.id);
-  }
-  const carouselReviewGuides = sortReviewsByPublishedAt(
-    getListedPortugueseReviews(publishedReviews)
-  )
-    .filter(({ id }) => !featuredIds.has(id))
-    .map(toHomeReviewCard);
   const [featuredOffers, popularRecipeSlugs] = await Promise.all([
     getFeaturedOffers(),
     getPopularRecipeSlugs(),
@@ -104,28 +82,26 @@ export default async function Home() {
         />
       </div>
 
-      <div className="bg-[#0f1d3a]">
-        {/* 2. Destaques de Guias & Análises (sai na Fase 3, com o Acabou de sair) */}
-        <FeaturedReviewGuides items={featuredReviewGuides} />
+      {/* 2. Acabou de sair: os 5 artigos mais novos, no lugar dos destaques e do carrossel de Guias & Análises */}
+      <div className="bg-white pb-8 md:pb-10">
+        <HomeLatest articles={getHomeLatest(publishedReviews)} />
       </div>
 
-      {/* 3. Atalhos por categoria e publicações recentes */}
-      <ReviewsShowcase items={carouselReviewGuides} />
-
+      {/* Escolha da Cecília: sai na Fase 6b, com a curadoria (Decisão D) */}
       {activeHomePick ? (
         <HomeEditorialPick item={activeHomePick} />
       ) : null}
 
-      {/* 4. Receitas Populares */}
+      {/* 3. Receitas Populares */}
       <PopularRecipes popularSlugs={popularRecipeSlugs} />
 
-      {/* 5. Universo da Cecília */}
+      {/* 4. Universo da Cecília */}
       <MyLinks />
 
-      {/* 6. Ofertas */}
+      {/* 5. Ofertas */}
       <Offers items={featuredOffers} />
 
-      {/* 7. CTA YouTube */}
+      {/* 6. CTA YouTube */}
       <CTA />
     </div>
   );
