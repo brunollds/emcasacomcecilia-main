@@ -1,16 +1,20 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
+import homeEventsConfig from '../content/home-events.json';
 import { getArticleCopy } from '../src/components/review/articleCopy';
 import { getCouponCopyLabels } from '../src/components/review/couponCopyLocale';
 import { getGalleryCopy } from '../src/components/review/galleryCopy';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '../src/components/review/sidebarCopy';
 import { getShareCopy } from '../src/components/shared/shareCopy';
+import { brandLinks } from '../src/lib/brandLinks';
 import type { Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
 import { getCouponBySlug, getStoreCodeKind } from '../src/lib/couponsData';
 import { getCouponLanguageLinks, getLocalizedCoupon, getTranslatedCouponRoutes } from '../src/lib/couponTranslations';
-import { publishedReviews } from '../src/lib/data';
+import { publishedReviews, recipes } from '../src/lib/data';
+import { getEventHubPage, getEventHubPaths, resolveActiveHomeEvent } from '../src/lib/homeEvents';
+import { getHomeLatest, getHomeStoreTabs, getStoreArticlePageSlugs, getStoreArticlesPage } from '../src/lib/homeStores';
 import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
 import { LOCALES, LOCALE_KEYS, type Locale } from '../src/lib/i18n/locales';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
@@ -511,6 +515,173 @@ const yesStyleListItem = jsonLdOf(read(couponsHubFile))
 assert.ok(yesStyleListItem?.name.includes(rewardCode), `/cupons: YesStyle fora da ItemList ou sem o ${rewardCode}`);
 assert.doesNotMatch(yesStyleListItem.name, COUPON_WORD, `/cupons: a ItemList chama o ${rewardCode} de cupom`);
 
+// /categorias ficou sem link no site e saiu do sitemap (decisão do Bruno, 08/10).
+assert.ok(!sitemapUrls.includes(`${SITE_URL}/categorias`), 'sitemap.xml com /categorias');
+
+// A home (D2) como o build a gerou, contra os mesmos dados que a montam: a vitrine, o "Acabou de
+// sair", a data comercial e as seções de baixo. Ofertas e vídeos dependem do feed do Dicas & Ofertas
+// e da API do YouTube na hora do build: só são conferidos quando aparecem.
+type HomeExpectations = {
+  tabs: ReturnType<typeof getHomeStoreTabs>;
+  latest: ReturnType<typeof getHomeLatest>;
+  hasEvent: boolean;
+  recipeCount: number;
+};
+
+const LATEST_SECTION = 'aria-labelledby="titulo-acabou-de-sair"';
+const LOWER_SECTIONS = ['titulo-receitas', 'titulo-explore-a-casa', 'titulo-ofertas-do-dia', 'titulo-ultimos-videos'];
+const WHATSAPP_LINK = /<a [^>]*href="https:\/\/chat\.whatsapp\.com\/[^"]+"[^>]*>/;
+const hrefOf = (url: string) => `href="${url.replace(/&/g, '&amp;')}"`;
+
+// O trecho do HTML de `start` até o primeiro dos `ends` que vem depois dele (ou até o fim).
+function between(html: string, start: string, ends: string[]) {
+  const from = html.indexOf(start);
+  if (from < 0) return '';
+  const to = Math.min(...ends.map((end) => html.indexOf(end, from + start.length)).filter((index) => index >= 0));
+  return html.slice(from, Number.isFinite(to) ? to : undefined);
+}
+
+function homeProblems(body: string, expected: HomeExpectations): string[] {
+  const problems: string[] = [];
+  const check = (ok: boolean, message: string) => {
+    if (!ok) problems.push(message);
+  };
+  const panelOf = (id: string) => between(body, `id="painel-${id}"`, ['id="painel-loja-', LATEST_SECTION]);
+
+  // Painel da Cecília: "Mais sobre mim", o grupo de WhatsApp em outra aba e os números, nessa ordem.
+  const cecilia = panelOf('cecilia');
+  const whatsapp = cecilia.match(WHATSAPP_LINK);
+  const whatsappTag = whatsapp?.[0] ?? '';
+  const whatsappAt = whatsapp?.index ?? -1;
+  const about = cecilia.indexOf('>Mais sobre mim<');
+  check(
+    whatsappTag.includes('target="_blank"') && whatsappTag.includes('rel="noopener noreferrer"'),
+    'painel da Cecília: o grupo de WhatsApp não abre em outra aba'
+  );
+  check(
+    about >= 0 && whatsappAt > about && cecilia.indexOf('<dl', whatsappAt) > whatsappAt,
+    'painel da Cecília: o grupo de WhatsApp fora do lugar (depois de "Mais sobre mim", antes dos números)'
+  );
+
+  // Um painel por loja ativa, com o título do código e o link da página da loja.
+  for (const tab of expected.tabs) {
+    const panel = panelOf(`loja-${tab.slug}`);
+    const title = panel.match(new RegExp(`<h2 id="titulo-loja-${tab.slug}"[^>]*>([^<]*)</h2>`))?.[1];
+    check(title !== undefined && decodeHtml(title) === tab.label, `painel ${tab.slug}: título diferente de "${tab.label}"`);
+    check(panel.includes(hrefOf(tab.storePageUrl)), `painel ${tab.slug}: sem o link de ${tab.storePageUrl}`);
+  }
+  const yesStyle = textOf(panelOf('loja-yesstyle'));
+  check(yesStyle.includes('Código de recompensa') && !yesStyle.includes('Cupom YesStyle'), 'painel da YesStyle: o CECILIA010 sem o rótulo de recompensa');
+  check(textOf(panelOf('loja-shein')).includes('Código de indicação'), 'painel da SHEIN: sem "Código de indicação"');
+  check(textOf(panelOf('loja-nestle-nutre')).includes('fórmulas infantis de 0 a 12 meses'), 'painel da Nestlé Nutre: sem a exclusão das fórmulas infantis');
+
+  // "Acabou de sair": os 5 mais novos e o link para /reviews, sem código e sem botão de copiar.
+  const latest = between(body, LATEST_SECTION, ['aria-labelledby="titulo-data-comercial"', ...LOWER_SECTIONS.map((id) => `aria-labelledby="${id}"`)]);
+  check(latest !== '', 'sem o "Acabou de sair"');
+  for (const article of expected.latest) {
+    check(latest.includes(hrefOf(article.href)), `Acabou de sair: sem ${article.href}`);
+  }
+  check(latest.includes('href="/reviews"'), 'Acabou de sair: sem o link para /reviews');
+  check(!/<button\b|font-codigo/.test(latest), 'Acabou de sair: com código ou botão de copiar');
+
+  // Data comercial: a faixa só existe com uma data em campanha.
+  check(
+    body.includes('aria-labelledby="titulo-data-comercial"') === expected.hasEvent,
+    expected.hasEvent ? 'sem a faixa da data em campanha' : 'faixa de data comercial sem campanha'
+  );
+
+  // Seções de baixo, na ordem, depois do "Acabou de sair".
+  const at = (id: string) => body.indexOf(`aria-labelledby="${id}"`);
+  const positions = LOWER_SECTIONS.map(at).filter((index) => index >= 0);
+  check(at('titulo-receitas') > body.indexOf(LATEST_SECTION) && at('titulo-explore-a-casa') >= 0, 'sem a faixa de receitas ou o Explore a casa');
+  check(positions.every((index, order) => order === 0 || index > positions[order - 1]), 'seções de baixo fora de ordem');
+  const sectionOf = (id: string) =>
+    between(body, `aria-labelledby="${id}"`, LOWER_SECTIONS.filter((other) => other !== id).map((other) => `aria-labelledby="${other}"`));
+
+  const recipesSection = sectionOf('titulo-receitas');
+  check(textOf(recipesSection).includes(`${expected.recipeCount} receitas prontas para fazer`), 'Receitas: sem o total de receitas');
+  check((recipesSection.match(/href="\/receitas\/[^"]+"/g) ?? []).length === 4, 'Receitas: sem 4 links de receita');
+  check(!/href="\/receitas\?categoria=|href="\/categorias"/.test(body), 'home com atalho de categoria de receita');
+
+  const explore = sectionOf('titulo-explore-a-casa');
+  check(explore.includes(hrefOf(brandLinks.damie)) && explore.includes(hrefOf(brandLinks.dicas)), 'Explore a casa: sem o link da DAMIE ou do Dicas & Ofertas');
+  if (at('titulo-ofertas-do-dia') >= 0) {
+    check(sectionOf('titulo-ofertas-do-dia').includes('>Acessar Dicas &amp; Ofertas</a>'), 'Ofertas do dia: sem o "Acessar Dicas & Ofertas"');
+  }
+
+  return problems;
+}
+
+const homeFile = builtFile(`${SITE_URL}/`);
+assert.ok(homeFile, '/: página não gerada no build');
+const homeBody = bodyOf(read(homeFile));
+const homeExpected: HomeExpectations = {
+  tabs: getHomeStoreTabs(publishedReviews),
+  latest: getHomeLatest(publishedReviews),
+  hasEvent: resolveActiveHomeEvent(homeEventsConfig, publishedReviews, new Date()) !== null,
+  recipeCount: recipes.length,
+};
+assert.equal(
+  homeExpected.tabs.find(({ slug }) => slug === 'damie')?.storePageUrl,
+  '/cupons/damie',
+  'a aba da DAMIE leva a /cupons/damie'
+);
+assert.deepEqual(homeProblems(homeBody, homeExpected), [], '/: home');
+
+// O guarda acima recusa a home errada: cada mutação abaixo precisa achar o trecho e dar problema.
+const brokenHomes = [
+  homeBody.replace('>Código de recompensa YesStyle<', '>Cupom YesStyle<'),
+  homeBody.replace(/<a target="_blank" rel="noopener noreferrer"([^>]*href="https:\/\/chat\.whatsapp\.com)/, '<a$1'),
+  homeBody.split(hrefOf(homeExpected.latest[0].href)).join('href="/outra"'),
+  homeBody.replace(LATEST_SECTION, `${LATEST_SECTION}><button>Copiar</button`),
+  homeBody.replace('aria-labelledby="titulo-receitas"', 'aria-labelledby="titulo-outra"'),
+  // O menu também linka a DAMIE: troca todos, senão a mutação pegaria só o do menu.
+  homeBody.split(hrefOf(brandLinks.damie)).join('href="/outra"'),
+];
+for (const broken of brokenHomes) {
+  assert.notEqual(broken, homeBody, 'a mutação do autoteste da home não achou o trecho');
+  assert.ok(homeProblems(broken, homeExpected).length > 0, 'o guarda da home deixou passar uma home errada');
+}
+
+// Subpágina de cada loja com mais de 3 artigos: o h1, o canonical, um card por artigo e o link da
+// página da loja.
+const storeArticleSlugs = getStoreArticlePageSlugs(publishedReviews);
+for (const slug of storeArticleSlugs) {
+  const page = getStoreArticlesPage(publishedReviews, slug);
+  assert.ok(page, `/reviews/loja/${slug}: sem dados`);
+  const pagePath = `/reviews/loja/${slug}`;
+  const file = builtFile(`${SITE_URL}${pagePath}`);
+  assert.ok(file, `${pagePath}: página não gerada no build`);
+  const html = read(file);
+  const body = bodyOf(html);
+  assert.equal(headOf(html).match(/<link rel="canonical" href="([^"]+)"/)?.[1], `${SITE_URL}${pagePath}`, `${pagePath}: canonical`);
+  assert.equal(textOf(body.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1] ?? ''), page.title, `${pagePath}: h1`);
+  const cardSlugs = new Set([...body.matchAll(/href="\/reviews\/([^"/]+)"/g)].map(([, cardSlug]) => cardSlug));
+  assert.deepEqual([...cardSlugs].sort(), page.articles.map((article) => article.slug).sort(), `${pagePath}: um card por artigo da loja`);
+  assert.ok(body.includes(hrefOf(page.storePageUrl)), `${pagePath}: sem o link de ${page.storePageUrl}`);
+}
+
+// Página de cada data com edição no home-events.json: o h1, o canonical e um card por artigo, com o
+// "Ver o código" levando à aba da loja na vitrine.
+const eventHubPaths = getEventHubPaths(homeEventsConfig, publishedReviews);
+for (const hubPath of eventHubPaths) {
+  const page = getEventHubPage(homeEventsConfig, publishedReviews, hubPath.slice(1), new Date());
+  assert.ok(page, `${hubPath}: sem edição`);
+  const file = builtFile(`${SITE_URL}${hubPath}`);
+  assert.ok(file, `${hubPath}: página não gerada no build`);
+  const html = read(file);
+  const body = bodyOf(html);
+  assert.equal(headOf(html).match(/<link rel="canonical" href="([^"]+)"/)?.[1], `${SITE_URL}${hubPath}`, `${hubPath}: canonical`);
+  assert.equal(textOf(body.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1] ?? ''), page.title, `${hubPath}: h1`);
+  for (const card of page.cards) {
+    assert.ok(body.includes(hrefOf(card.href)), `${hubPath}: sem o card de ${card.slug}`);
+    if (card.codeLink) {
+      assert.match(card.codeLink.href, /^\/#loja-[a-z0-9-]+$/, `${hubPath}: "Ver o código" fora da vitrine`);
+      assert.ok(body.includes(hrefOf(card.codeLink.href)), `${hubPath}: sem o "Ver o código" de ${card.slug}`);
+    }
+  }
+}
+
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar e a interface de ${articleUrls.length} artigos, o <head> de ${familyHeads} artigos de família e o ${rewardCode} em ${rewardCodePages} páginas conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar e a interface de ${articleUrls.length} artigos, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home, ${storeArticleSlugs.length} subpáginas de loja e ${eventHubPaths.length} páginas de data conferidos.`
 );
