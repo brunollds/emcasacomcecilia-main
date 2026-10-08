@@ -52688,7 +52688,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "Em outubro de 2026, todas as reclináveis já estavam R$ 1.000 abaixo do preço cheio",
-      "O cupom CECILIA12 soma com as promoções e os brindes do site",
+      "O cupom CECILIA12 vale com todas as formas de pagamento e soma com as promoções e os brindes do site",
       "10% de desconto no Pix à vista e até 12x sem juros no cartão",
       "30 dias para trocar ou devolver"
     ],
@@ -52705,7 +52705,7 @@ export const reviewsData: unknown[] = [
           "A Black Friday de 2026 é em **27 de novembro**, e a Cyber Monday, em **30 de novembro**.",
           "Até 8 de outubro de 2026, a DAMIE ainda não tinha anunciado no site a campanha deste ano. Este guia é atualizado quando a loja anunciar.",
           "Em 8 de outubro, todas as poltronas reclináveis do site estavam **R$ 1.000 abaixo do preço cheio**, com 10% de desconto no Pix à vista e carregador USB e porta-copos de brinde. A elétrica com giro e balanço saía por R$ 4.299, ou R$ 3.869,10 no Pix.",
-          "O cupom **CECILIA12** dá 12% OFF em todo o site da DAMIE, sem limite de usos por CPF. Ele soma com as promoções e os brindes do momento, mas não com outro cupom.",
+          "O cupom **CECILIA12** dá 12% OFF em todos os produtos do site da DAMIE, com todas as formas de pagamento e sem limite de usos por CPF. Ele soma com as promoções e os brindes do momento, mas não com outro cupom.",
           "Antes de comprar em novembro, compare o preço com a tabela de outubro deste guia. O preço riscado no site é o cheio, e em outubro o desconto das reclináveis já era de R$ 1.000."
         ]
       },
@@ -52833,7 +52833,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Desconto da página:** já vem no preço do produto. Em 8 de outubro, era de R$ 1.000 em todas as reclináveis.",
           "**Pix à vista:** 10% de desconto. A página do produto já mostra o preço no Pix com o desconto da página aplicado: R$ 3.869,10 na elétrica com giro e balanço em suede, por exemplo.",
-          "**Cupom CECILIA12:** 12% OFF, aplicado no carrinho, e soma com as promoções e os brindes do momento. No cartão, os 12% sobre os R$ 4.299 da giro e balanço em suede tiram R$ 515,88, e a poltrona sai por R$ 3.783,12, em até 12x sem juros. Se o Pix também soma com o cupom, o total aparece no checkout antes de pagar.",
+          "**Cupom CECILIA12:** 12% OFF em todos os produtos, com todas as formas de pagamento. Ele é aplicado no carrinho e soma com as promoções e os brindes do momento. No cartão, os 12% sobre os R$ 4.299 da giro e balanço em suede tiram R$ 515,88, e a poltrona sai por R$ 3.783,12, em até 12x sem juros. No Pix, o resumo do checkout mostra o valor final antes de pagar.",
           "**Desconto por quantidade:** R$ 500 na compra de 2 poltronas reclináveis, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5. Ele é dado pelos consultores no WhatsApp, não pelo carrinho, então pergunte se vale junto com o cupom.",
           "**Giftback:** a faixa do site promete 15% de giftback em 45 dias. As regras não aparecem no site; confirme com o atendimento antes de contar com ele.",
           "**Brinde:** carregador USB (tipo A e C) e porta-copos pretos, que entram sozinhos no carrinho de qualquer poltrona reclinável ou cinema."
@@ -52910,7 +52910,7 @@ export const reviewsData: unknown[] = [
           "A DAMIE tem Black Friday? Não encontramos anúncio oficial da DAMIE sobre Black Friday em anos anteriores. Em outubro de 2026, as poltronas reclináveis já estavam R$ 1.000 abaixo do preço cheio.",
           "Poltrona reclinável fica mais barata na Black Friday? Compare antes de comprar. Em 8 de outubro de 2026, a reclinável elétrica com giro e balanço da DAMIE saía por R$ 4.299, ou R$ 3.869,10 no Pix, contra R$ 5.299 do preço cheio.",
           "Qual o preço da poltrona DAMIE? Em 8 de outubro de 2026, a reclinável ia de R$ 2.969 (manual, em suede, bouclé ou linho) a R$ 6.149 (elétrica com elevação, em couro), com 10% de desconto no Pix à vista.",
-          "Tem cupom DAMIE para a Black Friday? O CECILIA12 dá 12% OFF em todo o site da DAMIE, sem limite de usos por CPF, e soma com as promoções e os brindes do momento. Só não soma com outro cupom.",
+          "Tem cupom DAMIE para a Black Friday? O CECILIA12 dá 12% OFF em todos os produtos do site da DAMIE, com todas as formas de pagamento e sem limite de usos por CPF, e soma com as promoções e os brindes do momento. Só não soma com outro cupom.",
           "Qual o prazo de entrega da DAMIE? Varia por região e aparece no cálculo do frete, antes de pagar. O prazo começa a contar na confirmação do pagamento, e o frete é grátis no Sul e no Sudeste.",
           "A DAMIE entrega no Nordeste? Sim, pelos anúncios oficiais da marca no Mercado Livre, que é como a DAMIE atende o Norte e o Nordeste. O frete e o prazo aparecem ao simular o CEP no anúncio."
         ]

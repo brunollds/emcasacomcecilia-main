@@ -106,7 +106,7 @@ para ela e é revisto para as duas páginas não disputarem a mesma busca.
 | Pix à vista com 10% OFF (a página do produto mostra o preço no Pix já com a promoção); 12x sem juros, parcela mínima de R$ 100; boleto compensa em até 2 dias úteis; Pix libera o pedido mais rápido | Regra oficial | damie.com.br/pages/formas-de-pagamento | — | 2026-10-08 | [x] Sim |
 | Giftback de 15% em 45 dias | Condição comercial | Faixa do site | — | 2026-10-08 | [x] Só como "a faixa promete"; as regras não estão publicadas no site |
 | Brinde de carregador USB (A e C) e porta-copos pretos, adicionados sozinhos ao carrinho de qualquer reclinável ou cinema | Condição comercial | Faixa do topo da página de produto | — | 2026-10-08 | [x] Sim, com a data |
-| CECILIA12 no cartão: 12% sobre R$ 4.299 = R$ 515,88, total R$ 3.783,12 | Cálculo | Regra do cupom (soma com promoções) aplicada ao preço do dia | — | 2026-10-08 | [x] Sim; o Pix junto com o cupom só com print do checkout |
+| CECILIA12 no cartão: 12% sobre R$ 4.299 = R$ 515,88, total R$ 3.783,12 | Cálculo | Regra do cupom (soma com promoções) aplicada ao preço do dia | — | 2026-10-08 | [x] Sim. O CECILIA12 vale com todas as formas de pagamento (Bruno, 08/10): o artigo diz isso sem restringir a "Pix e cartão". O total no Pix com os dois descontos só com print do checkout |
 
 ---
 
@@ -129,7 +129,7 @@ para ela e é revisto para as duas páginas não disputarem a mesma busca.
 - JSON em `content/reviews/black-friday-damie.json` (id 331), no fim do `_manifest.json`. É a fonte da verdade do texto.
 - Capa: `/images/reviews/damie/black-friday-damie-cecilia-poltrona-reclinavel.webp`, 1600×900, recorte 16:9 de "Poltrona Reclinavel - Cecilia com Ian sentada na poltrona.jpg" (pasta `Damie/`), com a Cecília, o Ian e os porta-copos. Fica fora do commit até a subida ao CDN.
 - Preços tirados do catálogo do site em 08/10/2026 e conferidos na página de produto. Antes de publicar, reconsultar o catálogo e a faixa do site e trocar as datas; `publishedAt` vai para o dia do deploy.
-- Fora do texto: percentuais de sites de cupom, a Moon (fora do site), o Pix somado ao cupom (sem print do checkout) e qualquer condição de campanha que a DAMIE ainda não tenha publicado.
+- Fora do texto: percentuais de sites de cupom, a Moon (fora do site), o total no Pix com o cupom (sem print do checkout) e qualquer condição de campanha que a DAMIE ainda não tenha publicado.
 - Links: `/cupons/damie` uma vez (seção dos descontos) e o subdomínio no CTA (`utm_content=black-friday-damie-cta`).
 
 ---
