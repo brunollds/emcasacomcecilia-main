@@ -126,6 +126,16 @@ for (const [name, value, message] of invalid) {
 }
 assert.equal(parseHomeEvents({ events: [without('hub')] }, reviews)[0].hub, undefined, 'hub pode faltar');
 assert.equal(parseHomeEvents(config, reviews).length, 2, 'Natal começa no instante em que a Black Friday acaba');
+assert.throws(
+  () => parseHomeEvents({ events: [event({ dayAt: '2026-12-01T00:00:00-03:00' })] }, reviews),
+  /dayAt fora da janela/,
+  'dayAt no instante de endsAt'
+);
+assert.equal(
+  parseHomeEvents({ events: [event({ title: 'Black Friday ' })] }, reviews)[0].title,
+  'Black Friday',
+  'título aparado, e o titleOf conferido contra ele'
+);
 
 // Janela [startsAt, endsAt).
 assert.equal(resolveActiveHomeEvent(config, reviews, at('2026-10-31T23:59:59-03:00'), stores), null, 'antes do esquenta');
@@ -148,6 +158,11 @@ assert.equal(getCountdownLabel(BF_DAY, at('2026-11-26T23:30:00-03:00')), 'é ama
 assert.equal(getCountdownLabel(BF_DAY, at('2026-11-27T00:00:00-03:00')), 'é hoje');
 assert.equal(getCountdownLabel(BF_DAY, at('2026-11-27T23:59:59-03:00')), 'é hoje');
 assert.equal(getCountdownLabel(BF_DAY, at('2026-11-28T00:00:00-03:00')), 'últimos dias');
+
+// O dia da data (dateTime) sai do calendário de São Paulo, como o rótulo: dayAt em UTC não muda de dia.
+const utcDay = resolveActiveHomeEvent({ events: [event({ dayAt: '2026-11-27T02:00:00Z' })] }, reviews, at('2026-11-07T10:00:00-03:00'), stores);
+assert.equal(utcDay?.dayDate, '2026-11-26');
+assert.equal(utcDay?.dayLabel, 'Quinta, 26 de novembro');
 
 // Home: até 4 cards, na ordem do arquivo, sem código; "Ver o código" só para loja ativa com código.
 const active = resolveActiveHomeEvent(config, reviews, at('2026-11-07T10:00:00-03:00'), stores);

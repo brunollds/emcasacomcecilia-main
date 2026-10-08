@@ -126,8 +126,9 @@ function parseEntry(candidate: unknown, index: number): HomeEventEntry {
   if (typeof id !== 'string' || !SLUG_RE.test(id)) fail(`${context}.id inválido`);
   if (hub !== undefined && (typeof hub !== 'string' || !SLUG_RE.test(hub))) fail(`${context}.hub inválido`);
   if (!isNonEmptyString(title)) fail(`${context}.title vazio`);
-  if (titleOf !== `da ${title}` && titleOf !== `do ${title}`) {
-    fail(`${context}.titleOf deve ser "da ${title}" ou "do ${title}"`);
+  const name = title.trim();
+  if (titleOf !== `da ${name}` && titleOf !== `do ${name}`) {
+    fail(`${context}.titleOf deve ser "da ${name}" ou "do ${name}"`);
   }
   if (!EVENT_THEMES.includes(theme as EventTheme)) fail(`${context}.theme deve ser ${EVENT_THEMES.join(', ')}`);
   if (!isNonEmptyString(description)) fail(`${context}.description vazia`);
@@ -146,7 +147,7 @@ function parseEntry(candidate: unknown, index: number): HomeEventEntry {
   return {
     id,
     ...(hub === undefined ? {} : { hub: hub as string }),
-    title,
+    title: name,
     titleOf: titleOf as string,
     theme: theme as EventTheme,
     dayAt: entry.dayAt as string,
@@ -199,6 +200,12 @@ export function formatEventDay(iso: string, withYear = false): string {
   return `${WEEKDAYS[weekday]}, ${day} de ${MONTHS[month - 1]}${withYear ? ` de ${year}` : ''}`;
 }
 
+// O mesmo dia do rótulo, como AAAA-MM-DD, para o <time dateTime>.
+function formatIsoDay(iso: string): string {
+  const { year, month, day } = saoPauloDay(new Date(iso));
+  return `${year}-${String(month).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
+}
+
 export function getCountdownLabel(dayAt: string, now: Date): string {
   const days = saoPauloDay(new Date(dayAt)).index - saoPauloDay(now).index;
   if (days > 1) return `faltam ${days} dias`;
@@ -209,6 +216,7 @@ export function getCountdownLabel(dayAt: string, now: Date): string {
 
 function toCards(event: HomeEventEntry, reviews: readonly StoreReview[], stores: readonly Coupon[]): HomeEventCard[] {
   return event.articleSlugs.map((slug) => {
+    // parseHomeEvents já garantiu que cada slug existe e está listado em português.
     const review = reviews.find((item) => item.slug === slug && isListedInPortuguese(item));
     const store = stores.find((item) => item.slug === review.affiliate);
     const code = store ? getStoreCode(store) : undefined;
@@ -244,7 +252,7 @@ export function resolveActiveHomeEvent(
     title: event.title,
     theme: event.theme,
     description: event.description,
-    dayDate: event.dayAt.slice(0, 10),
+    dayDate: formatIsoDay(event.dayAt),
     dayLabel: formatEventDay(event.dayAt),
     countdownLabel: getCountdownLabel(event.dayAt, now),
     hubLink: event.hub ? { href: `/${event.hub}`, label: `Ver tudo ${event.titleOf}` } : undefined,
@@ -276,7 +284,7 @@ export function getEventHubPage(
     theme: event.theme,
     description: event.description,
     metaTitle: `${event.title}: guias das lojas parceiras - Em Casa com Cecília`,
-    dayDate: event.dayAt.slice(0, 10),
+    dayDate: formatIsoDay(event.dayAt),
     dayLabel: formatEventDay(event.dayAt, true),
     countdownLabel: now.getTime() < Date.parse(event.endsAt) ? getCountdownLabel(event.dayAt, now) : undefined,
     cards: toCards(event, reviews, stores),
