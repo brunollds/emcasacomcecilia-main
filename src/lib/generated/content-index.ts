@@ -31051,6 +31051,7 @@ export const reviewsData: unknown[] = [
       "Variações pontuais em revestimentos de couro",
       "Nota pode variar por janela móvel de 6 meses"
     ],
+    "affiliate": "damie",
     "contentSections": [
       {
         "heading": "Resposta rápida",
@@ -31346,6 +31347,7 @@ export const reviewsData: unknown[] = [
     "youtubeUrl": "https://www.youtube.com/shorts/ep2XlSQ_OiM",
     "pros": [],
     "cons": [],
+    "affiliate": "damie",
     "contentSections": [
       {
         "heading": "Introdução",
@@ -38093,6 +38095,7 @@ export const reviewsData: unknown[] = [
       "Índice de solução de 55,2% nos últimos 6 meses, com 48,4% dos clientes afirmando que voltariam a fazer negócio",
       "Histórico de fiscalização e notificações formais por órgãos de defesa do consumidor em 2025"
     ],
+    "affiliate": "damie",
     "contentSections": [
       {
         "heading": "Resumo rápido",
