@@ -16,6 +16,8 @@ import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 export type StoreReview = ReviewDiscoveryItem & { affiliate?: string };
 
 const VISIBLE_ARTICLES = 3;
+const LATEST_LIMIT = 5;
+const CECILIA_STAT_NETWORKS = ['Instagram', 'TikTok', 'YouTube', 'Facebook'] as const;
 
 // O site escreve "do Magalu" e "da" para as outras lojas.
 const MASCULINE_STORES = new Set(['magalu']);
@@ -32,12 +34,22 @@ function listedNewestFirst<T extends StoreReview>(reviews: readonly T[]) {
   return sortReviewsByPublishedAt(getListedPortugueseReviews(reviews));
 }
 
+function articlesOfStore<T extends StoreReview>(listed: readonly T[], slug: string): T[] {
+  return listed.filter((review) => review.affiliate === slug);
+}
+
+// Com até 3 artigos a vitrine já mostra todos: a loja só ganha o "Ver os N artigos" e a
+// subpágina /reviews/loja/{slug} quando passa disso (Bruno, 08/10).
+function hasArticlesPage(articleCount: number): boolean {
+  return articleCount > VISIBLE_ARTICLES;
+}
+
 export function getStoreArticlesPath(slug: string): string {
   return `/reviews/loja/${slug}`;
 }
 
-export function getHomeStoreTabs<T extends StoreReview>(
-  reviews: readonly T[],
+export function getHomeStoreTabs(
+  reviews: readonly StoreReview[],
   stores: readonly Coupon[] = getActiveCoupons()
 ): HomeStoreTab[] {
   const listed = listedNewestFirst(reviews);
@@ -46,7 +58,7 @@ export function getHomeStoreTabs<T extends StoreReview>(
   return stores.map((store) => {
     const code = store.offerMode === 'discount-code' ? store.code : store.referral?.code;
     const kind = getStoreCodeKind(store, code);
-    const articles = listed.filter((review) => review.affiliate === store.slug);
+    const articles = articlesOfStore(listed, store.slug);
 
     return {
       slug: store.slug,
@@ -70,16 +82,15 @@ export function getHomeStoreTabs<T extends StoreReview>(
         image: review.image ? resolveMediaUrl(review.image) : undefined,
       })),
       total: articles.length,
-      allArticles:
-        articles.length > VISIBLE_ARTICLES
-          ? { href: getStoreArticlesPath(store.slug), label: `Ver os ${articles.length} artigos ${ofStore(store)}` }
-          : undefined,
+      allArticles: hasArticlesPage(articles.length)
+        ? { href: getStoreArticlesPath(store.slug), label: `Ver os ${articles.length} artigos ${ofStore(store)}` }
+        : undefined,
       emptyText: `Ainda não há artigo ${ofStore(store)} por aqui. As campanhas vigentes ficam na página da loja.`,
     };
   });
 }
 
-// Tudo o que a Cecília escreveu sobre uma loja ativa; sem artigo, a loja não tem subpágina.
+// Tudo o que a Cecília escreveu sobre uma loja ativa com mais de 3 artigos; as outras não têm subpágina.
 export function getStoreArticlesPage<T extends StoreReview>(
   reviews: readonly T[],
   slug: string,
@@ -87,10 +98,10 @@ export function getStoreArticlesPage<T extends StoreReview>(
 ) {
   const store = stores.find((item) => item.slug === slug);
   if (!store) return null;
-  const articles = listedNewestFirst(reviews).filter((review) => review.affiliate === store.slug);
-  if (articles.length === 0) return null;
+  const articles = articlesOfStore(listedNewestFirst(reviews), store.slug);
+  if (!hasArticlesPage(articles.length)) return null;
 
-  const countLabel = `${articles.length} ${articles.length === 1 ? 'artigo' : 'artigos'} da Cecília sobre ${theStore(store)}`;
+  const countLabel = `${articles.length} artigos da Cecília sobre ${theStore(store)}`;
   return {
     slug: store.slug,
     brand: store.brand,
@@ -104,17 +115,15 @@ export function getStoreArticlesPage<T extends StoreReview>(
   };
 }
 
-export function getStoreArticlePageSlugs<T extends StoreReview>(
-  reviews: readonly T[],
+export function getStoreArticlePageSlugs(
+  reviews: readonly StoreReview[],
   stores: readonly Coupon[] = getActiveCoupons()
 ): string[] {
   const listed = getListedPortugueseReviews(reviews);
   return stores
-    .filter((store) => listed.some((review) => review.affiliate === store.slug))
+    .filter((store) => hasArticlesPage(articlesOfStore(listed, store.slug).length))
     .map((store) => store.slug);
 }
-
-const LATEST_LIMIT = 5;
 
 export type HomeLatestArticle = {
   slug: string;
@@ -148,8 +157,6 @@ export function getHomeLatest<T extends StoreReview>(
       store: stores.find((store) => store.slug === review.affiliate)?.brand,
     }));
 }
-
-const CECILIA_STAT_NETWORKS = ['Instagram', 'TikTok', 'YouTube', 'Facebook'] as const;
 
 // Seguidores em milhares, como o topo da home sempre mostrou: "443.5K" vira "444k".
 export function formatFollowerCount(value?: string): string | undefined {

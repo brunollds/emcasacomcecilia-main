@@ -7,6 +7,7 @@ import { CouponStoreLink } from '@/components/CouponComponents';
 import { CopyCodeButton } from '@/components/coupons/CouponActions';
 import { FOCUS_RING, asSentence } from '@/components/coupons/CouponBlocks';
 import { getCouponCopyLabels } from '@/components/review/couponCopyLocale';
+import { TrackedCouponPageLink } from '@/components/review/TrackedCouponPageLink';
 import { TrackedHomeLink } from '@/components/TrackedHomeLink';
 import { trackEvent } from '@/lib/analytics';
 import {
@@ -282,14 +283,14 @@ function CodeBanner({ tab }: { tab: HomeStoreTab }) {
           >
             {tab.storeLinkLabel}
           </CouponStoreLink>
-          <TrackedHomeLink
+          <TrackedCouponPageLink
             href={tab.storePageUrl}
             placement="home_store_page"
             linkLabel="Ver a página da loja"
             className={`${TEXT_LINK} font-bold`}
           >
             Ver a página da loja
-          </TrackedHomeLink>
+          </TrackedCouponPageLink>
         </div>
       </div>
     </section>

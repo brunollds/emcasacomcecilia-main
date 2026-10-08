@@ -175,16 +175,30 @@ const magaluPage = getStoreArticlesPage(fixtureReviews, 'magalu', [store('magalu
 assert.ok(magaluPage);
 assert.equal(magaluPage.countLabel, '4 artigos da Cecília sobre o Magalu');
 assert.equal(magaluPage.description, '4 artigos da Cecília sobre o Magalu: guias e análises, do mais novo para o mais antigo.');
-const umArtigo = getStoreArticlesPage([review(1, 'so-um', 'magalu', '2026-10-01')], 'magalu', [store('magalu')]);
-assert.equal(umArtigo?.countLabel, '1 artigo da Cecília sobre o Magalu');
+assert.equal(magaluPage.storePageUrl, '/cupons/magalu');
+// Até 3 artigos a vitrine já mostra todos: sem subpágina. Com 4 (o Magalu acima), a página existe.
+const tresArtigos = [1, 2, 3].map((id) => review(id, `artigo-${id}`, 'magalu', `2026-10-0${id}`));
+assert.equal(getStoreArticlesPage(tresArtigos, 'magalu', [store('magalu')]), null, 'com 3 artigos, sem subpágina');
+assert.deepEqual(getStoreArticlePageSlugs(tresArtigos, [store('magalu')]), []);
 
-assert.deepEqual(getStoreArticlePageSlugs(fixtureReviews, [store('damie'), store('magalu'), store('shein')]), ['damie', 'magalu']);
 assert.deepEqual(
-  getStoreArticlePageSlugs(publishedReviews),
+  getStoreArticlePageSlugs(fixtureReviews, [store('damie'), store('magalu'), store('shein')]),
+  ['magalu'],
+  'a DAMIE do fixture tem 1 artigo'
+);
+const pageSlugs = getStoreArticlePageSlugs(publishedReviews);
+assert.ok(pageSlugs.includes('damie'), 'a DAMIE tem subpágina');
+assert.deepEqual(
+  pageSlugs,
   getActiveCoupons()
-    .filter((coupon) => listed.some((item) => item.affiliate === coupon.slug))
+    .filter((coupon) => listed.filter((item) => item.affiliate === coupon.slug).length > 3)
     .map(({ slug }) => slug),
-  'subpágina para toda loja ativa com artigo'
+  'subpágina para toda loja ativa com mais de 3 artigos'
+);
+assert.deepEqual(
+  tabs.filter(({ allArticles }) => allArticles).map(({ slug }) => slug),
+  pageSlugs,
+  'o "Ver os N artigos" da vitrine e a subpágina seguem a mesma regra'
 );
 
 // "Acabou de sair": as 5 listadas mais novas, com a loja de cada uma e sem código.
@@ -213,12 +227,14 @@ assert.ok(getCeciliaSocialStats().every(({ followers }) => followers && /^\d+k$/
 // /reviews/loja sozinho cai em /reviews/[slug]: nenhuma review, nem rascunho, pode ter esse slug.
 assert.ok(!reviews.some(({ slug }) => slug === 'loja'), 'nenhuma review com o slug loja');
 
-// Subpáginas no sitemap: uma por loja ativa com artigo, nenhuma das outras.
-const sitemapUrls = new Set(sitemap().map(({ url }) => url));
-for (const coupon of getActiveCoupons()) {
-  const url = `https://emcasacomcecilia.com/reviews/loja/${coupon.slug}`;
-  const hasPage = getStoreArticlePageSlugs(publishedReviews).includes(coupon.slug);
-  assert.equal(sitemapUrls.has(url), hasPage, `${coupon.slug}: subpágina no sitemap só com artigo`);
-}
+// Subpáginas no sitemap: exatamente as lojas com subpágina, nenhuma outra URL em /reviews/loja/.
+const storeArticleUrls = sitemap()
+  .map(({ url }) => url)
+  .filter((url) => url.startsWith('https://emcasacomcecilia.com/reviews/loja/'));
+assert.deepEqual(
+  storeArticleUrls,
+  pageSlugs.map((slug) => `https://emcasacomcecilia.com/reviews/loja/${slug}`),
+  'sitemap com as subpáginas e só elas'
+);
 
 console.log(`✅ homeStores: abas, ${tabs.length} lojas, subpáginas, "Acabou de sair" e redes passaram.`);
