@@ -1,5 +1,6 @@
 import { socialMedias } from '@/lib/brandLinks';
 import { getActiveCoupons, getStoreCodeKind, type Coupon } from '@/lib/couponsData';
+import { getCouponStorePath } from '@/lib/couponTranslations';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '@/components/review/sidebarCopy';
 import type { HomeStoreTab } from '@/lib/homeStoreTabs';
 import {
@@ -13,7 +14,6 @@ import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 // não importa '@/lib/data': quem chama é o servidor, e o componente cliente recebe só o resultado.
 
 export type StoreReview = ReviewDiscoveryItem & { affiliate?: string };
-export type StorePagePlacement = 'home' | 'reviews-loja';
 
 const VISIBLE_ARTICLES = 3;
 
@@ -30,16 +30,6 @@ function theStore(store: Pick<Coupon, 'slug' | 'brand'>): string {
 
 function listedNewestFirst<T extends StoreReview>(reviews: readonly T[]) {
   return sortReviewsByPublishedAt(getListedPortugueseReviews(reviews));
-}
-
-export function getStorePageUrl(
-  store: Pick<Coupon, 'slug' | 'storePageUrl'>,
-  placement: StorePagePlacement
-): string {
-  if (!store.storePageUrl) return `/cupons/${store.slug}`;
-  const url = new URL(store.storePageUrl);
-  url.searchParams.set('utm_content', placement);
-  return url.toString();
 }
 
 export function getStoreArticlesPath(slug: string): string {
@@ -70,7 +60,7 @@ export function getHomeStoreTabs<T extends StoreReview>(
       hints: getCodeHints(copy, kind, store.brand),
       storeUrl: store.offerUrl,
       storeLinkLabel: `Ir para ${theStore(store)}`,
-      storePageUrl: getStorePageUrl(store, 'home'),
+      storePageUrl: getCouponStorePath(store.slug, 'pt'),
       listTitle: `Artigos ${ofStore(store)}`,
       articles: articles.slice(0, VISIBLE_ARTICLES).map((review) => ({
         slug: review.slug,
@@ -109,7 +99,7 @@ export function getStoreArticlesPage<T extends StoreReview>(
     description: `${countLabel}: guias e análises, do mais novo para o mais antigo.`,
     countLabel,
     codeLinkLabel: `Ver o código ${ofStore(store)}`,
-    storePageUrl: getStorePageUrl(store, 'reviews-loja'),
+    storePageUrl: getCouponStorePath(store.slug, 'pt'),
     articles,
   };
 }

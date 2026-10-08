@@ -9,7 +9,6 @@ import {
   getHomeStoreTabs,
   getStoreArticlePageSlugs,
   getStoreArticlesPage,
-  getStorePageUrl,
   type StoreReview,
 } from '@/lib/homeStores';
 import { getListedPortugueseReviews, sortReviewsByPublishedAt } from '@/lib/reviewDiscovery';
@@ -77,14 +76,6 @@ assert.deepEqual(getTabOrder(slugs), ['cecilia', 'damie', 'yesstyle'], 'a Cecíl
 assert.deepEqual(getHomeStoreSelectParameters('yesstyle'), { store: 'yesstyle', placement: 'home_store_tabs' });
 assert.deepEqual(getHomeStoreSelectParameters(CECILIA_TAB_ID), { store: 'cecilia', placement: 'home_store_tabs' });
 
-// A DAMIE leva à página do código no subdomínio, nunca a /cupons/damie (dossiê de 07/10).
-const DAMIE_CODE_PAGE =
-  'https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12';
-assert.equal(getStorePageUrl(store('damie'), 'home'), `${DAMIE_CODE_PAGE}&utm_content=home`);
-assert.equal(getStorePageUrl(store('damie'), 'reviews-loja'), `${DAMIE_CODE_PAGE}&utm_content=reviews-loja`);
-assert.equal(getStorePageUrl(store('yesstyle'), 'home'), '/cupons/yesstyle');
-assert.equal(getStorePageUrl(store('nestle-nutre'), 'reviews-loja'), '/cupons/nestle-nutre');
-
 // Abas com fixture: ordem, limite de 3, total, "do Magalu" e o link para todos os artigos.
 const [magaluTab] = getHomeStoreTabs(fixtureReviews, [store('magalu')]);
 assert.deepEqual(magaluTab.articles.map(({ slug }) => slug), ['novo', 'meio', 'mais-um']);
@@ -131,6 +122,8 @@ assert.ok(!bySlug.has('kopenhagen'), 'loja pausada fica de fora');
 
 assert.equal(tab('damie').label, 'Cupom DAMIE');
 assert.equal(tab('damie').code, 'CECILIA12');
+// O menu já linka o subdomínio da DAMIE; a vitrine traz tráfego para /cupons/damie (Bruno, 08/10).
+assert.equal(tab('damie').storePageUrl, '/cupons/damie');
 assert.equal(tab('yesstyle').label, 'Código de recompensa YesStyle');
 assert.ok(
   ![tab('yesstyle').label, tab('yesstyle').hints.copy, tab('yesstyle').hints.copied].some((text) => /cupom/i.test(text)),
@@ -162,7 +155,7 @@ for (const current of tabs) {
     assert.ok(!Object.keys(article).some((key) => /code|coupon/i.test(key)), `${article.slug}: artigo sem código`);
   }
   assert.equal(current.allArticles === undefined, expected.length <= 3, `${current.slug}: "Ver os N artigos" só acima de 3`);
-  assert.ok(!current.storePageUrl.includes('/cupons/damie'), `${current.slug}: nunca /cupons/damie`);
+  assert.equal(current.storePageUrl, `/cupons/${current.slug}`, `${current.slug}: página da loja em /cupons`);
 }
 
 // Subpágina: dados e lojas com página.
@@ -171,7 +164,7 @@ assert.ok(damiePage);
 assert.equal(damiePage.title, 'Artigos da DAMIE');
 assert.equal(damiePage.metaTitle, 'DAMIE: guias e análises - Em Casa com Cecília');
 assert.equal(damiePage.codeLinkLabel, 'Ver o código da DAMIE');
-assert.equal(damiePage.storePageUrl, getStorePageUrl(store('damie'), 'reviews-loja'));
+assert.equal(damiePage.storePageUrl, '/cupons/damie');
 assert.equal(damiePage.articles.length, tab('damie').total);
 assert.equal(getStoreArticlesPage(publishedReviews, 'loja-que-nao-existe'), null);
 assert.equal(getStoreArticlesPage(publishedReviews, 'kopenhagen'), null, 'pausada');
