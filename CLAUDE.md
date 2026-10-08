@@ -150,7 +150,7 @@ vídeo, primeiras impressões e uso noturno.
   `docs/Memoria de Artigos/memreview`, a partir de `00_Sistema/AI-PRIMING-INDEX.md`.
 
 ### Component layers
-- `src/components/ui/` — Primitive building blocks (`Card`, `Button`, `Badge`). Use `clsx` for className merging here.
+- `src/components/ui/` — Shared building blocks: `focusRing.ts` (`FOCUS_RING`, `FOCUS_RING_ON_DARK`), `ScrollRow` and `CategoryIcon`.
 - `src/components/sections/` — Page sections: the D2 home (`HomeStoreStories`, `HomeCeciliaPanel`, `HomeLatest`, `HomeEvent`, `PopularRecipes`, `MyLinks`, `Offers`, `CTA`, the last three wrapped in `HomeSection`) and `EventHubPage`. `Navbar` and `Footer` live in `src/components/`.
 - Each route group has its own root layout (`src/app/(pt)/layout.js`, `src/app/(en)/layout.tsx`… and `src/app/[locale]/layout.tsx`). All of them render `RootLayoutShell` (`src/components/RootLayoutShell.tsx`): `Navbar → {children} → Footer`.
 
@@ -188,8 +188,9 @@ vídeo, primeiras impressões e uso noturno.
     no ar está em "Para pôr a Black Friday no ar", no fim de
     `docs/superpowers/plans/2026-10-08-home-d2-fase-4.md`;
   - `dicasOffers.ts` e `youtube.ts`: sem o feed ou sem vídeo, a seção some. Não há ofertas reserva.
-- Fila que rola na horizontal usa o `ScrollRow` (`src/components/ui/ScrollRow.tsx`): com o foco do
-  teclado, o card meio escondido entra inteiro na tela.
+- Fila de cards que rola na horizontal usa o `ScrollRow` (`src/components/ui/ScrollRow.tsx`): com o
+  foco do teclado, o card meio escondido entra inteiro na tela. As bolinhas da vitrine ficam de
+  fora: elas já centralizam a loja escolhida.
 - Onde um artigo aparece na home está na seção 10 do `docs/GUIA-EDITORIAL-GUIAS-ANALISES.md`.
 
 ### Páginas de loja (cupons)

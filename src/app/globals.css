@@ -111,30 +111,16 @@ html:lang(ja) {
   }
 }
 
-@keyframes scale-in {
-  from {
-    opacity: 0;
-    transform: scale(0.95);
-  }
-  to {
-    opacity: 1;
-    transform: scale(1);
-  }
-}
-
 @keyframes shimmer {
   0% { background-position: -1000px 0; }
   100% { background-position: 1000px 0; }
 }
 
+/* ken-burns e pulse-subtle: o HomeCeciliaPanel usa por animate-[…]. */
 @keyframes ken-burns {
   0% { transform: scale(1); }
   50% { transform: scale(1.06); }
   100% { transform: scale(1); }
-}
-
-.animate-ken-burns {
-  animation: ken-burns 24s ease-in-out infinite;
 }
 
 @keyframes pulse-subtle {
@@ -174,10 +160,6 @@ html:lang(ja) {
   animation: float-delayed 12s ease-in-out infinite;
 }
 
-.animate-pulse-subtle {
-  animation: pulse-subtle 3s ease-in-out 4; /* Pulsa 4 vezes ao carregar para chamar atenção */
-}
-
 .animate-fade-in {
   animation: fade-in 0.3s ease-out;
 }
@@ -188,10 +170,6 @@ html:lang(ja) {
 
 .animate-slide-down {
   animation: slide-down 0.3s ease-out;
-}
-
-.animate-scale-in {
-  animation: scale-in 0.4s ease-out;
 }
 
 .animate-shimmer {
