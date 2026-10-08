@@ -1,6 +1,7 @@
 import { HomeStoreStories } from '@/components/sections/HomeStoreStories';
 import { HomeCeciliaPanel } from '@/components/sections/HomeCeciliaPanel';
 import { HomeLatest } from '@/components/sections/HomeLatest';
+import { HomeEvent } from '@/components/sections/HomeEvent';
 import { couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { PopularRecipes } from '@/components/sections/PopularRecipes';
 import { MyLinks } from '@/components/sections/MyLinks';
@@ -8,11 +9,13 @@ import { HomeEditorialPick } from '@/components/sections/HomeEditorialPick';
 import { Offers } from '@/components/sections/Offers';
 import { CTA } from '@/components/sections/CTA';
 import homeCurationConfig from '@/../content/home-curation.json';
+import homeEventsConfig from '@/../content/home-events.json';
 import { CECILIA_PHOTO, getHomeLatest, getHomeStoreTabs } from '@/lib/homeStores';
 import { getFeaturedOffers } from '@/lib/dicasOffers';
 import { getPopularRecipeSlugs } from '@/lib/popularRecipeStats';
 import { publishedReviews } from '@/lib/data';
 import { resolveActiveHomeCuration } from '@/lib/homeCuration';
+import { resolveActiveHomeEvent } from '@/lib/homeEvents';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const HOME_LOGO_URL = new URL(
@@ -48,6 +51,7 @@ export default async function Home() {
     publishedReviews,
     new Date()
   );
+  const activeEvent = resolveActiveHomeEvent(homeEventsConfig, publishedReviews, new Date());
   const [featuredOffers, popularRecipeSlugs] = await Promise.all([
     getFeaturedOffers(),
     getPopularRecipeSlugs(),
@@ -86,6 +90,13 @@ export default async function Home() {
       <div className="bg-white pb-8 md:pb-10">
         <HomeLatest articles={getHomeLatest(publishedReviews)} />
       </div>
+
+      {/* Datas comerciais: só durante uma campanha (content/home-events.json) */}
+      {activeEvent ? (
+        <div className="bg-white pb-8 md:pb-10">
+          <HomeEvent event={activeEvent} />
+        </div>
+      ) : null}
 
       {/* Escolha da Cecília: sai na Fase 6b, com a curadoria (Decisão D) */}
       {activeHomePick ? (
