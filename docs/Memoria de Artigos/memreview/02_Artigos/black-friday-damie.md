@@ -127,7 +127,7 @@ para ela e é revisto para as duas páginas não disputarem a mesma busca.
 ## Redação (08/10/2026)
 
 - JSON em `content/reviews/black-friday-damie.json` (id 331), no fim do `_manifest.json`. É a fonte da verdade do texto.
-- Capa: `/images/reviews/damie/black-friday-damie-cecilia-poltrona-reclinavel.webp`, 1600×900, recorte 16:9 de "Poltrona Reclinavel - Cecilia com Ian sentada na poltrona.jpg" (pasta `Damie/`), com a Cecília, o Ian e os porta-copos. Fica fora do commit até a subida ao CDN.
+- Capa: `/images/reviews/damie/black-friday-damie-cecilia-poltrona-reclinavel.webp`, 1600×900, recorte 16:9 de "Poltrona Reclinavel - Cecilia com Ian sentada na poltrona.jpg" (pasta `Damie/`), com a Cecília, o Ian e os porta-copos. No CDN desde 08/10/2026 (`f24289e`).
 - Preços tirados do catálogo do site em 08/10/2026 e conferidos na página de produto. Antes de publicar, reconsultar o catálogo e a faixa do site e trocar as datas; `publishedAt` vai para o dia do deploy.
 - Fora do texto: percentuais de sites de cupom, a Moon (fora do site), o giftback somado ao cupom (não soma) e qualquer condição de campanha que a DAMIE ainda não tenha publicado.
 - Links: `/cupons/damie` uma vez (seção dos descontos) e o subdomínio no CTA (`utm_content=black-friday-damie-cta`).

@@ -126,7 +126,7 @@ presentes de Natal, sempre pela Let's Eat It.
 ## Redação (08/10/2026)
 
 - JSON em `content/reviews/black-friday-letseatit.json` (id 332), no fim do `_manifest.json`. É a fonte da verdade do texto.
-- Capa: `/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp`, 1600×900. Fica fora do commit até a subida ao CDN.
+- Capa: `/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp`, 1600×900. No CDN desde 08/10/2026 (`f24289e`).
 - Preços tirados do catálogo da loja em 08/10/2026 e conferidos na página de produto (5% no Pix, até 6x). Antes de publicar, reconsultar o catálogo e os banners e trocar as datas; `publishedAt` vai para o dia do deploy.
 - Fora do texto: percentuais de sites de cupom, o Pix somado ao MAUAD e o cupom do cashback somado ao MAUAD (não testados).
 - MAUAD sem negrito e fora do título. Links: `/cupons/letseatit` uma vez (seção do Pix, cashback e cupom); CTA com o `offerUrl` e os UTMs da Inbazz.

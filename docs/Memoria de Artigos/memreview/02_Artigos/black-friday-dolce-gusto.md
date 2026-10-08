@@ -119,7 +119,7 @@ Bruno em 08/10/2026. O artigo alimenta a faixa de data comercial da home D2 (abe
 ## Redação (08/10/2026)
 
 - JSON em `content/reviews/black-friday-dolce-gusto.json` (id 330), no fim do `_manifest.json`. É a fonte da verdade do texto.
-- Capa: `/images/reviews/dolcegusto/black-friday-dolce-gusto-cecilia-cafezal.webp`, 1600×900, recorte 16:9 do `IMG_6839.HEIC` (foto própria, convertida com ffmpeg). Alt sem local nem data da visita.
+- Capa: `/images/reviews/dolcegusto/black-friday-dolce-gusto-cecilia-cafezal.webp`, 1600×900, recorte 16:9 do `IMG_6839.HEIC` (foto própria, convertida com ffmpeg). Alt sem local nem data da visita. No CDN desde 08/10/2026 (`f24289e`).
 - Preços e status com data de 08/10/2026. Antes de publicar, reconsultar a página de máquinas e a de regulamentos e trocar as datas; `publishedAt` vai para o dia do deploy.
 - Fora do texto: a Black Friday de 2025 (só imprensa) e os códigos próprios da loja para primeira compra.
 
