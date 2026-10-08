@@ -31051,6 +31051,7 @@ export const reviewsData: unknown[] = [
       "Variações pontuais em revestimentos de couro",
       "Nota pode variar por janela móvel de 6 meses"
     ],
+    "affiliate": "damie",
     "contentSections": [
       {
         "heading": "Resposta rápida",
@@ -31346,6 +31347,7 @@ export const reviewsData: unknown[] = [
     "youtubeUrl": "https://www.youtube.com/shorts/ep2XlSQ_OiM",
     "pros": [],
     "cons": [],
+    "affiliate": "damie",
     "contentSections": [
       {
         "heading": "Introdução",
@@ -33859,7 +33861,7 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Cupom Nestlé Nutre atualizado",
-            "href": "/cupons/nutren"
+            "href": "/cupons/nestle-nutre"
           }
         ]
       },
@@ -34079,7 +34081,7 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Consultar regras atuais do cupom Nestlé Nutre",
-            "href": "/cupons/nutren"
+            "href": "/cupons/nestle-nutre"
           }
         ]
       },
@@ -34200,7 +34202,7 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Ver o cupom disponível para produtos Nutren",
-            "href": "/cupons/nutren"
+            "href": "/cupons/nestle-nutre"
           }
         ]
       },
@@ -34230,7 +34232,7 @@ export const reviewsData: unknown[] = [
       "url": "https://www.nestlenutre.com.br/"
     },
     "coupon": "CECI",
-    "affiliate": "nutren",
+    "affiliate": "nestle-nutre",
     "editorialNote": "Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.",
     "relatedArticles": [
       {
@@ -34331,7 +34333,7 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Ver regras e validade do cupom CECI na Nestlé Nutre",
-            "href": "/cupons/nutren"
+            "href": "/cupons/nestle-nutre"
           }
         ]
       },
@@ -34437,7 +34439,7 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Abrir a página do cupom CECI da Nestlé Nutre",
-            "href": "/cupons/nutren"
+            "href": "/cupons/nestle-nutre"
           },
           {
             "label": "Abrir a loja oficial da Nestlé Nutre",
@@ -34469,7 +34471,7 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "coupon": "CECI",
-    "affiliate": "nutren",
+    "affiliate": "nestle-nutre",
     "editorialNote": "Este artigo usa a ficha pública da Nestlé Health Science e menciona o cupom CECI por parceria comercial com a Nestlé Nutre. Não há experiência própria de uso do produto. Confira o rótulo e o desconto no checkout.",
     "relatedArticles": [
       {
@@ -38093,6 +38095,7 @@ export const reviewsData: unknown[] = [
       "Índice de solução de 55,2% nos últimos 6 meses, com 48,4% dos clientes afirmando que voltariam a fazer negócio",
       "Histórico de fiscalização e notificações formais por órgãos de defesa do consumidor em 2025"
     ],
+    "affiliate": "damie",
     "contentSections": [
       {
         "heading": "Resumo rápido",
@@ -40114,7 +40117,7 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Consultar validade e regras do cupom CECI para Nestlé Nutre",
-            "href": "/cupons/nutren"
+            "href": "/cupons/nestle-nutre"
           },
           {
             "label": "Consultar o Nutren Just Protein na loja oficial",
@@ -40150,7 +40153,7 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "coupon": "CECI",
-    "affiliate": "nutren",
+    "affiliate": "nestle-nutre",
     "editorialNote": "Este artigo reúne informações do rótulo e das páginas oficiais da Nestlé, além de sugestões editoriais de uso culinário. Não substitui orientação médica ou nutricional. O site Em Casa com Cecília mantém parceria comercial com a Nestlé Nutre por meio do cupom CECI.",
     "relatedArticles": [
       {
@@ -42415,7 +42418,7 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Consultar regras e validade do cupom CECI na página Nestlé Nutre",
-            "href": "/cupons/nutren"
+            "href": "/cupons/nestle-nutre"
           },
           {
             "label": "Ver a Nutren Creatina na loja oficial Nestlé Nutre",
@@ -42452,7 +42455,7 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "coupon": "CECI",
-    "affiliate": "nutren",
+    "affiliate": "nestle-nutre",
     "editorialNote": "Este guia usa o rótulo fotografado da Nutren Creatina, páginas oficiais consultadas em 27/08/2026 e a alegação funcional autorizada pela Anvisa. O Em Casa com Cecília mantém parceria comercial com a Nestlé Nutre por meio do cupom CECI.",
     "relatedArticles": [
       {
@@ -48379,7 +48382,7 @@ export const reviewsData: unknown[] = [
           },
           {
             "label": "Cupom de desconto Nestlé Nutre no Em Casa com Cecília",
-            "href": "/cupons/nutren"
+            "href": "/cupons/nestle-nutre"
           },
           {
             "label": "Nutren Senior Zero Lactose: ficha técnica e o que saber antes de comprar",
@@ -48415,7 +48418,7 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "coupon": "CECI",
-    "affiliate": "nutren",
+    "affiliate": "nestle-nutre",
     "editorialNote": "Feito a partir da página oficial do Nutren Senior na loja Nestlé Nutre; o conteúdo não substitui nutricionista ou médico. Parceria comercial: podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
@@ -49230,7 +49233,7 @@ export const reviewsData: unknown[] = [
           },
           {
             "label": "Conferir produtos elegíveis e condições do cupom CECI de 10%",
-            "href": "/cupons/nutren"
+            "href": "/cupons/nestle-nutre"
           },
           {
             "label": "Como tomar Nutren Senior sem empelotar: método da pasta",
@@ -49279,7 +49282,7 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "coupon": "CECI",
-    "affiliate": "nutren",
+    "affiliate": "nestle-nutre",
     "editorialNote": "Guia independente com fontes oficiais, sem teste de uso próprio. Não substitui avaliação médica ou nutricional. Parceria comissionada com cupom CECI.",
     "relatedArticles": [
       {
@@ -50556,7 +50559,7 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Regras do cupom CECI na Nestlé Nutre",
-            "href": "/cupons/nutren"
+            "href": "/cupons/nestle-nutre"
           },
           {
             "label": "Ver a linha Ninho na Nestlé Nutre",
@@ -50599,7 +50602,7 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "coupon": "CECI",
-    "affiliate": "nutren",
+    "affiliate": "nestle-nutre",
     "editorialNote": "Feito com dados públicos da Nestlé, sem orientação médica. Podemos receber comissão.",
     "relatedArticles": [
       {

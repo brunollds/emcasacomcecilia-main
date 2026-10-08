@@ -30,7 +30,7 @@
 
   - **`4CW5Y` (SHEIN) é código de indicação** da SHEIN Brasil, pesquisado no aplicativo. Fora do português, o texto avisa que o código e as campanhas são da SHEIN Brasil.
   - Os cupons promocionais da YesStyle (como o MIDS26) vencem e não entram no texto do artigo: o artigo manda para a página da loja, que mostra os vigentes.
-- **`affiliate`:** **Slug exato do cupom** em `src/lib/couponsData.ts` (ex: `"dolce-gusto"`, `"i-wanna-sleep"`, `"nutren"`, `"damie"`).
+- **`affiliate`:** **Slug exato do cupom** em `src/lib/couponsData.ts` (ex: `"dolce-gusto"`, `"i-wanna-sleep"`, `"nestle-nutre"`, `"damie"`). O `validate:content` barra slug que não existe.
 - **`editorialNote`:** Disclosure claro de parceria comissionada ("Podemos receber comissão…"), com no máximo 3 linhas no celular (cerca de 90 caracteres; 2 linhas é o ideal) e sem data de consulta: a data do artigo é a referência.
 - **Código de terceiros:** nunca citar código de outra pessoa ou de site de cupons, nem o que aparece na visão geral do Google. A busca por "cupom de primeira compra" é respondida com o nosso código.
 - **Links Internos para a página da loja:**

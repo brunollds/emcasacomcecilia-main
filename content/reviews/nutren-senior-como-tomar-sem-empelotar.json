@@ -250,7 +250,7 @@
         },
         {
           "label": "Cupom de desconto Nestlé Nutre no Em Casa com Cecília",
-          "href": "/cupons/nutren"
+          "href": "/cupons/nestle-nutre"
         },
         {
           "label": "Nutren Senior Zero Lactose: ficha técnica e o que saber antes de comprar",
@@ -286,7 +286,7 @@
     "sponsored": true
   },
   "coupon": "CECI",
-  "affiliate": "nutren",
+  "affiliate": "nestle-nutre",
   "editorialNote": "Feito a partir da página oficial do Nutren Senior na loja Nestlé Nutre; o conteúdo não substitui nutricionista ou médico. Parceria comercial: podemos receber comissão pelo cupom CECI.",
   "relatedArticles": [
     {

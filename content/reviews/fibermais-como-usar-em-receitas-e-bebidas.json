@@ -226,7 +226,7 @@
         },
         {
           "label": "Conferir produtos elegíveis e condições do cupom CECI de 10%",
-          "href": "/cupons/nutren"
+          "href": "/cupons/nestle-nutre"
         },
         {
           "label": "Como tomar Nutren Senior sem empelotar: método da pasta",
@@ -275,7 +275,7 @@
     "sponsored": true
   },
   "coupon": "CECI",
-  "affiliate": "nutren",
+  "affiliate": "nestle-nutre",
   "editorialNote": "Guia independente com fontes oficiais, sem teste de uso próprio. Não substitui avaliação médica ou nutricional. Parceria comissionada com cupom CECI.",
   "relatedArticles": [
     {

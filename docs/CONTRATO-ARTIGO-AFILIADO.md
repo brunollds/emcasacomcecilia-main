@@ -25,8 +25,10 @@ Em `content/reviews/<slug>.json`:
 | `affiliate` | o **slug do cupom**, ex. `"dolce-gusto"` | marca a relação comercial; deve bater com o `slug` em `src/lib/couponsData.ts` |
 | `editorialNote` | frase de divulgação | junto com `coupon`, liga `hasCommercialRelationship` |
 
-⚠️ `affiliate` tem que usar o slug do cupom, não o nome comercial. Há um caso divergente no
-acervo — artigos da Nutren usam `nestle-nutre` enquanto o cupom é `nutren`. Não repetir.
+⚠️ `affiliate` tem que usar o slug do cupom, não o nome comercial, e o `validate:content` barra
+slug que não existe em `couponsData.ts`. Até 10/2026 a loja Nestlé Nutre tinha o slug `nutren` e
+dois artigos usavam `nestle-nutre`; hoje a loja e os artigos usam `nestle-nutre`, e
+`/cupons/nutren` redireciona para `/cupons/nestle-nutre`.
 
 O `brand` dos eventos é derivado do destino do link, não deste campo, então uma divergência
 aqui não quebra a medição — mas quebra a coerência do resto.

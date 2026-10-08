@@ -199,7 +199,7 @@
       "links": [
         {
           "label": "Regras do cupom CECI na Nestlé Nutre",
-          "href": "/cupons/nutren"
+          "href": "/cupons/nestle-nutre"
         },
         {
           "label": "Ver a linha Ninho na Nestlé Nutre",
@@ -242,7 +242,7 @@
     "sponsored": true
   },
   "coupon": "CECI",
-  "affiliate": "nutren",
+  "affiliate": "nestle-nutre",
   "editorialNote": "Feito com dados públicos da Nestlé, sem orientação médica. Podemos receber comissão.",
   "relatedArticles": [
     {

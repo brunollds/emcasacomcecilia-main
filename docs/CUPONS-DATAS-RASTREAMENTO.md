@@ -25,7 +25,7 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 | `damie` | DAMIE | `CECILIA12` | `lastVerified`, `metaDescription` |
 | `dolce-gusto` | Nescafé Dolce Gusto | `CECI` | `lastVerified` |
 | `yesstyle` | YesStyle | Fonte canônica em `data/coupons/yesstyle.json` | `lastVerified` é calculado; atualizar somente o JSON factual |
-| `nutren` | Nutren / Nestlé Nutri | `CECI` (10% desde 04/10/2026) | `lastVerified`; se o percentual mudar, usar `docs/plans/2026-10-04-cupom-nutre-ceci-10.md` |
+| `nestle-nutre` | Nestlé Nutre | `CECI` (10% desde 04/10/2026) | `lastVerified`; se o percentual mudar, usar `docs/plans/2026-10-04-cupom-nutre-ceci-10.md` |
 | `i-wanna-sleep` | I Wanna Sleep | `CECIEMCASA` | `lastVerified` |
 | `magalu` | Magalu (Magazine Você da Cecília) | `100EMCASACOMCECILIA` (+ 9 faixas em `tiers`) | `lastVerified`, `metaTitle`, `metaDescription`, FAQ "Cupom Magalu hoje" |
 | `letseatit` | Let's Eat It | `MAUAD` | `lastVerified`, `metaTitle`, `metaDescription`; preservar os 4 UTMs da Inbazz em `offerUrl` |

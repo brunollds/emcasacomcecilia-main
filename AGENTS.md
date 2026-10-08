@@ -45,7 +45,8 @@ o senso comum de SEO e que um agente erraria por bom senso:
   e reputação. Para recuar o título de um artigo sem mexer em H1 nem slug, use `seoTitle`.
 - Link interno para cupom sempre em **caminho relativo**, para renderizar por
   `TrackedCouponPageLink`. **Nunca criar um segundo renderizador de link** — nasce sem medição.
-- `affiliate` no JSON usa o **slug do cupom** (`nutren`, não `nestle-nutre`).
+- `affiliate` no JSON usa o **slug do cupom** (ex.: `nestle-nutre`, `dolce-gusto`); o
+  `validate:content` barra slug que não existe em `couponsData.ts`.
 - **Damie não se disputa aqui.** O subdomínio `damie.emcasacomcecilia.com` já vence a consulta
   comercial; `/cupons/damie` fica fora de campanha de linkagem.
 - Kopenhagen está pausada — não linkar.

@@ -31,6 +31,13 @@ const legacyRecipeSearchRedirect = {
   permanent: true,
 };
 
+// A loja Nestlé Nutre usava o slug nutren (nome de uma linha de produtos) até 10/2026.
+const renamedCouponRedirect = {
+  source: '/cupons/nutren',
+  destination: '/cupons/nestle-nutre',
+  permanent: true,
+};
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'standalone',
@@ -42,7 +49,12 @@ const nextConfig = {
     EMCASA_RELEASE_DEPLOY_UUID: releaseIdentity.deploy_uuid ?? '',
   },
   async redirects() {
-    return [...redirects, legacyRecipeSearchRedirect, ...mediaDeliveryRules.redirects];
+    return [
+      ...redirects,
+      legacyRecipeSearchRedirect,
+      renamedCouponRedirect,
+      ...mediaDeliveryRules.redirects,
+    ];
   },
   async rewrites() {
     return { beforeFiles: mediaDeliveryRules.rewrites };

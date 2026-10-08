@@ -21,6 +21,7 @@ import {
   resolveTotalMinutes,
   structuredIngredientToText,
 } from '@/lib/content';
+import { COUPONS } from '@/lib/couponsData';
 
 interface ValidationError {
   type: 'recipe' | 'review';
@@ -41,6 +42,7 @@ const warnings: ValidationWarning[] = [];
 const recipeIds = new Set<number>();
 const recipeSlugs = new Set<string>();
 const reviewIds = new Set<number>();
+const couponSlugs = new Set(COUPONS.map((coupon) => coupon.slug));
 
 function reportError(error: ValidationError): void {
   errors.push(error);
@@ -285,6 +287,17 @@ for (const review of reviews) {
       id: review.id,
       slug: review.slug,
       message: `category inválida: "${review.category}"`,
+    });
+  }
+
+  // O affiliate liga o artigo à loja (dock, sidebar, gaveta e vitrine da home). Até 10/2026, dois
+  // artigos usavam "nestle-nutre" com a loja cadastrada como "nutren", e a gaveta perdia a oferta.
+  if (review.affiliate !== undefined && !couponSlugs.has(review.affiliate)) {
+    reportError({
+      type: 'review',
+      id: review.id,
+      slug: review.slug,
+      message: `affiliate "${review.affiliate}" não é o slug de nenhuma loja de couponsData.ts`,
     });
   }
 
