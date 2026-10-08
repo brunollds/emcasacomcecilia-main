@@ -6,7 +6,9 @@ import { AppRouterContext } from 'next/dist/shared/lib/app-router-context.shared
 import { imageConfigDefault, type ImageConfigComplete, type RemotePattern } from 'next/dist/shared/lib/image-config';
 import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.shared-runtime';
 
+import { MyLinks } from '@/components/sections/MyLinks';
 import { PopularRecipes, selectPopularRecipes } from '@/components/sections/PopularRecipes';
+import { brandLinks } from '@/lib/brandLinks';
 import { getRecipePrimaryCategory, recipes, type Recipe } from '@/lib/data';
 import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 
@@ -42,6 +44,17 @@ function textOf(html: string): string {
 
 function count(html: string, pattern: RegExp): number {
   return html.match(pattern)?.length ?? 0;
+}
+
+// A tag de abertura do link para `href`, para conferir os atributos sem depender da ordem deles.
+function linkTo(html: string, href: string): string {
+  const tag = html.match(/<a [^>]*>/g)?.find((candidate) => candidate.includes(`href="${href}"`));
+  assert.ok(tag, `link para ${href}`);
+  return tag;
+}
+
+function opensNewTab(tag: string): boolean {
+  return tag.includes('target="_blank"') && tag.includes('rel="noopener noreferrer"');
 }
 
 // Receitas: escolha das 4.
@@ -88,5 +101,18 @@ assert.equal(
   'a mais vista no GA abre a faixa'
 );
 assert.equal(count(withAnalytics, /href="\/receitas\/[^"]+"/g), 4, 'as populares completam as 4');
+
+// Explore a casa.
+const exploreHtml = render(createElement(MyLinks));
+const exploreText = textOf(exploreHtml);
+assert.match(exploreHtml, /<h2 id="titulo-explore-a-casa"[^>]*>Explore a casa<\/h2>/);
+assert.equal(count(exploreHtml, /<li/g), 3, 'DAMIE, Dicas & Ofertas e E-book');
+assert.ok(opensNewTab(linkTo(exploreHtml, brandLinks.damie)), 'a DAMIE abre o site dela em outra aba');
+assert.ok(exploreText.includes('DAMIE: móveis, poltronas e sofás com cupom CECILIA12'));
+assert.ok(exploreHtml.includes('alt="Cecília debruçada sobre a caixa de entrega da DAMIE"'));
+assert.ok(opensNewTab(linkTo(exploreHtml, brandLinks.dicas)));
+assert.ok(exploreText.includes('Dicas & Ofertas') && exploreText.includes('Ver ofertas'));
+assert.ok(!linkTo(exploreHtml, brandLinks.airFryerEbook).includes('target='), 'o "Avise-me" abre o e-mail, sem aba nova');
+assert.ok(exploreText.includes('Em preparação') && exploreText.includes('Avise-me'));
 
 console.log('test:home-lower-sections ok');
