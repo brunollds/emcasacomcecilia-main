@@ -168,6 +168,10 @@ vídeo, primeiras impressões e uso noturno.
 
 ### Páginas de loja (cupons)
 
+- Loja com código tem `testNote` em `couponsData.ts`: o recorte diz "Cupom testado em" com o
+  `lastVerified`, a página ganha a seção "Como testamos o cupom" e o `WebPage` leva `lastReviewed`
+  e `reviewedBy` (o site, porque o teste é da equipe). SHEIN e YesStyle seguem com "Conferido em".
+  A data só avança com teste real, na revisão mensal feita antes da virada do mês.
 - `src/components/coupons/CouponStorePage.tsx` (lojas de `couponsData.ts`) e
   `src/components/YesStyleCouponPage.tsx` usam a mesma moldura,
   `src/components/coupons/StoreLayout.tsx`, e o `CouponDock` de `CouponActions.tsx`: no celular,

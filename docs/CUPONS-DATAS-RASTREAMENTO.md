@@ -13,7 +13,8 @@
 
 Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 
-- `lastVerified` (ISO 8601: `YYYY-MM-DD`)
+- `lastVerified` (ISO 8601: `YYYY-MM-DD`): vira "Cupom testado em" nas lojas com código
+- `testNote`: o texto do teste de checkout, que precisa continuar verdadeiro com a data nova
 - `metaDescription` (quando mencionar "mês ano", ex: "atualizado julho 2026")
 - `monthlyHighlight.scope` / `monthlyHighlight.note` (quando houver regras específicas do mês)
 - `relatedContent[].publishedAt` somente quando houver republicação/editorial real do conteúdo relacionado
