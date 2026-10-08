@@ -46,6 +46,17 @@ const cases: Array<{
     placement: 'home_latest',
     linkLabel: 'Insider Store é confiável? CNPJ, loja física, trocas e reputação',
   },
+  // Datas comerciais (Fase 4): card e "Ver o código" na home e na página da data.
+  {
+    href: '/reviews/black-friday-damie',
+    placement: 'home_event',
+    linkLabel: 'Black Friday DAMIE: poltronas e sofás para acompanhar',
+  },
+  {
+    href: '/#loja-damie',
+    placement: 'event_hub',
+    linkLabel: 'Ver o código da DAMIE',
+  },
 ];
 
 for (const input of cases) {
