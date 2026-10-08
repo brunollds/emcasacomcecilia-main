@@ -2,7 +2,8 @@
 
 **Data:** 2026-10-07
 **Status:** aprovada pelo Bruno em 07/10, com todas as decisões respondidas (fim do documento).
-A Fase 0 começa num branch próprio; o código da home começa na Fase 1.
+A Fase 0 está no ar desde 07/10 (PR #37, `58d175d`). O código da home começa na Fase 1, e o plano
+da vitrine está em `docs/superpowers/plans/2026-10-08-home-d2-vitrine.md`.
 **Referência visual:** canvas https://claude.ai/artifact/2nTSHg5NcfTWWZV4RgBqZ5, pranchetas
 "D2. Stories da Cecília" (celular e desktop). A G3 continua no canvas como alternativa.
 
@@ -109,10 +110,10 @@ O grupo de WhatsApp não entra aqui: a aba da Cecília não abre sozinha, e o gr
 | `slug`, `brand`, `logo` | `slug`, `brand`, `brandLogo` (ou `brandIcon`) via `resolveMediaUrl` |
 | `label` | `getCodeTitle(getSidebarCopy('pt'), kind, brand)`, o mesmo do dock e da sidebar dos artigos, com `kind = getStoreCodeKind(loja, código)`. Dá "Cupom DAMIE", "Código de recompensa YesStyle" e "Código de indicação SHEIN", sem texto novo solto |
 | `code` | `code` (`discount-code`) ou `referral.code` (SHEIN) |
-| `detail` | `discount` + `shortDescription`, como nos cards de `/cupons` (`CouponCards.tsx`). Magalu, Insider e Nutre já trazem o texto certo nesses campos |
+| `discount`, `description` | `discount` e `shortDescription`, em duas linhas, como nos cards de `/cupons` (`CouponCards.tsx`, que passa a descrição por `asSentence`). Magalu, Insider e Nutre já trazem o texto certo nesses campos |
 | `hints` | `getCodeHints(...)`: "Copie antes de ir para a loja." e, depois de copiar, "Cole no campo correto do checkout."; para a SHEIN, "Copie e pesquise no aplicativo SHEIN." |
 | `storeUrl` | `offerUrl` da loja, com os UTMs que já estão nos dados (Let's Eat It/Inbazz) |
-| `storePagePath` | `/cupons/{slug}`. Na DAMIE, a página do código no subdomínio, `https://damie.emcasacomcecilia.com/cupom-cecilia12`, com a UTM do dossiê (`utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=home`): o dossiê `01_Parceiros/DAMIE.md` (07/10) proíbe linkar `/cupons/damie` do site principal. Vem de um campo novo em `couponsData.ts`, `storePageUrl`, que só a DAMIE usa |
+| `storePageUrl` | `/cupons/{slug}`. Na DAMIE, a página do código no subdomínio: o dossiê `01_Parceiros/DAMIE.md` (07/10) proíbe linkar `/cupons/damie` do site principal. O campo novo `storePageUrl` de `couponsData.ts`, que só a DAMIE usa, guarda o endereço com a UTM do dossiê (`https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12`), e a montagem acrescenta o `utm_content` do lugar do link: `home` na vitrine e `reviews-loja` na subpágina |
 | `articles` | até 3 artigos da loja, sem código: título, `type`, imagem e link (o canvas não mostra data na lista da loja) |
 | `total`, `allArticlesPath` | o total de artigos da loja e `/reviews/loja/{slug}` (ver "Todos os artigos de uma loja") |
 
@@ -160,8 +161,10 @@ marcado"):
 - `sofa-na-caixa-crise-reclamacoes-procon-sp` (investigação sobre a concorrente que usa os números
   da DAMIE no Reclame Aqui como comparação; Decisão B).
 
-Com o `affiliate`, os links do artigo saem com `rel="sponsored"` e o artigo entra na aba e na
-lista da loja. Nenhum dos três tem versão em outro idioma, então o `test:review-i18n` não muda.
+Com o `affiliate`, o artigo entra na aba e na lista da loja, e os links do CTA e do veredito, quando
+existem, saem com `rel="sponsored"`. Os três não têm CTA, e os links deles para a DAMIE vão ao
+subdomínio do próprio site, então seguem sem `sponsored` (conferido no ar em 08/10). Nenhum dos
+três tem versão em outro idioma, então o `test:review-i18n` não muda.
 
 **Trava.** O `validate:content` passa a exigir que todo JSON de review com `affiliate`, em qualquer
 idioma e também nos rascunhos, use o `slug` de uma loja de `COUPONS` (ativa ou pausada). Review sem
@@ -173,6 +176,9 @@ idioma e também nos rascunhos, use o `slug` de uma loja de `COUPONS` (ativa ou 
 - **Link direto:** `/#loja-yesstyle` abre com a YesStyle selecionada, útil para os stories do
   Instagram e para a seção de datas comerciais; `/#cecilia` abre a apresentação. A escolha
   atualiza o hash com `history.replaceState`, sem ida ao servidor. Um hash desconhecido é ignorado.
+  Cada bolinha tem o id do hash dela (`loja-yesstyle`, `cecilia`), então o navegador rola até a
+  vitrine sozinho; o painel tem o id `painel-loja-yesstyle`. O hash é a única fonte da aba aberta,
+  lida com `useSyncExternalStore`, como a categoria em `/reviews`.
 - **Desktop (a partir de 1024 px):**
   - fila de bolinhas;
   - na loja, o recorte do código: parte laranja com logo, rótulo e detalhe; parte creme com o
@@ -199,10 +205,12 @@ idioma e também nos rascunhos, use o `slug` de uma loja de `COUPONS` (ativa ou 
 - **Copiar:** `CopyCodeButton` de `CouponActions.tsx`, que já trata o fallback do clipboard e o
   evento de cópia. O tipo `CopyPlacement` ganha `home_store_banner`. O rótulo segue
   `couponCopyLocale.ts` ("Copiar"/"Copiado").
-- **Movimento:**
+- **Movimento:** o Bruno pediu em 08/10 para manter o que der de animação e efeito, e avaliar depois
+  o que mais entra na D2 antes da versão final.
   - troca de aba com a entrada curta do canvas (0,4 s), o brilho amarelo ao copiar e o hover das
-    bolinhas e do cartão de foto;
-  - tudo desligado com `prefers-reduced-motion`.
+    bolinhas, do cartão de foto e das redes;
+  - do hero de hoje, no painel da Cecília: o zoom lento da foto e os ícones flutuando ao fundo;
+  - tudo com as keyframes que já estão em `globals.css`, desligado com `prefers-reduced-motion`.
 
 ### Todos os artigos de uma loja
 
@@ -220,7 +228,7 @@ então a subpágina usa o card de hoje e muda junto com ela.
   mais novo para o mais antigo), numa função de `homeStores.ts` que a vitrine e a subpágina usam.
   Tudo no servidor; nenhum componente cliente novo.
 - **Tela:** o título "Artigos da DAMIE" (`h1`), o total, o link "Ver o código da DAMIE" para
-  a página da loja (`storePagePath`, que na DAMIE é o subdomínio; o código continua lá e na vitrine), os cards e "Ver todos os guias
+  a página da loja (`storePageUrl`, que na DAMIE é o subdomínio com `utm_content=reviews-loja`; o código continua lá e na vitrine), os cards e "Ver todos os guias
   e análises" para `/reviews`. O card de hoje sai de `ReviewsClientPage.js` para um componente
   próprio, `ReviewHubCard.tsx`, usado pelas duas páginas.
 - **Busca:** título "DAMIE: guias e análises - Em Casa com Cecília", descrição com a loja e o
@@ -477,7 +485,7 @@ commits de conteúdo, como nos commits anteriores, e não entram na conta.
 | 0d | Marcação da DAMIE e trava do `affiliate` | 3 JSONs da DAMIE, `scripts/validate-content-model.ts` |
 | 0e | Documentação do slug | `AGENTS.md`, `docs/CONTRATO-ARTIGO-AFILIADO.md`, `docs/MANUTENCAO-MENSAL.md`, `CONTRATOS-DE-CONTEUDO.md` e `Nestle-Nutre.md` do vault |
 | 0f | Restos que a revisão achou | `docs/CUPONS-DATAS-RASTREAMENTO.md` e as notas de 4 artigos da Nutre no vault |
-| 1 | Montagem dos dados da vitrine, dos artigos por loja e do "Acabou de sair" | `src/lib/homeStores.ts`, `scripts/test-home-stores.ts`, `package.json`, `src/lib/couponsData.ts` (`storePageUrl` da DAMIE) |
+| 1 | Montagem dos dados da vitrine, dos artigos por loja e do "Acabou de sair" | `src/lib/homeStores.ts` (servidor), `src/lib/homeStoreTabs.ts` (tipos e regras do hash, que o navegador também usa), `scripts/test-home-stores.ts`, `package.json`, `src/lib/couponsData.ts` (`storePageUrl` da DAMIE) |
 | 2a | Vitrine na home | `HomeStoreStories.tsx`, `HomeCeciliaPanel.tsx`, `CouponActions.tsx`, `TrackedHomeLink.tsx`, `page.js` |
 | 2b | Subpágina de cada loja | `src/app/(pt)/reviews/loja/[brand]/page.tsx`, `ReviewHubCard.tsx`, `ReviewsClientPage.js`, `src/app/sitemap.ts`, `scripts/test-home-stores.ts` |
 | 3 | Acabou de sair, faixa Sobre a Cecília e o teste dos placements da vitrine | `HomeLatest.tsx`, `HomeAboutStrip.tsx`, `TrackedHomeLink.tsx`, `test-home-route-tracking.ts`, `page.js` |
@@ -498,10 +506,10 @@ também `validate:content`, `test:review-i18n` e `test:internal-links`; as Fases
 `test:html-lang` e `test:client-bundle`. A verificação visual compara com o canvas no preview (390,
 768 e 1280 px) e testa teclado e movimento reduzido.
 
-Deploy só com decisão do Bruno. A Fase 0 vai ao ar sozinha, num branch próprio, assim que a oferta
-da YesStyle for atualizada (Decisão E). O resto da D2 vai junto, depois da Fase 6c. Nenhum build
-passa depois de 08/10 às 21h enquanto a oferta da YesStyle não for atualizada (o
-`validate:yesstyle` barra a MIDS26 vencida).
+Deploy só com decisão do Bruno. A Fase 0 foi ao ar sozinha em 07/10, às 22h10 (PR #37, `58d175d`;
+Decisão E). O resto da D2 vai junto, depois da Fase 6c. O `validate:yesstyle` barra o build com
+oferta da YesStyle vencida, pela data em UTC: antes do deploy final, a oferta vigente precisa estar
+em dia.
 
 ## Decisões tomadas em 07/10
 
@@ -522,4 +530,5 @@ Respondidas depois da revisão do código:
 - **C.** Todos os artigos de uma loja ficam em `/reviews/loja/{slug}`. A página `/reviews` ainda
   vai ser revista.
 - **D.** A curadoria "Escolha da Cecília" sai na Fase 6b, com o `HomeEditorialPick` e o teste.
-- **E.** A Fase 0 vai ao ar sozinha, assim que a oferta da YesStyle for atualizada.
+- **E.** A Fase 0 vai ao ar sozinha. Foi em 07/10 (PR #37). A oferta da YesStyle não precisava mudar
+  antes: o build só para a partir de 08/10 às 21h.
