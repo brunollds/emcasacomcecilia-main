@@ -75,7 +75,7 @@ export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
         >
           {event.cards.map((card) => (
             <li key={card.slug} className="flex w-60 shrink-0 snap-start md:w-auto">
-              <EventCard card={card} placement="home_event" />
+              <EventCard card={card} placement="home_event" focusRing={theme.focus} />
             </li>
           ))}
         </ul>
@@ -95,14 +95,23 @@ export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
   );
 }
 
-export function EventCard({ card, placement }: { card: HomeEventCard; placement: EventPlacement }) {
+export function EventCard({
+  card,
+  placement,
+  focusRing = FOCUS_RING,
+}: {
+  card: HomeEventCard;
+  placement: EventPlacement;
+  // Anel do link do artigo, que fica fora do card: precisa contrastar com o fundo em volta dele.
+  focusRing?: string;
+}) {
   return (
     <div className="flex flex-1 flex-col rounded-[10px] border-2 border-marinho bg-white text-marinho motion-safe:transition-transform motion-safe:duration-300 motion-safe:hover:-translate-y-1">
       <TrackedHomeLink
         href={card.href}
         placement={placement}
         linkLabel={card.title}
-        className={`flex flex-1 flex-col rounded-t-lg ${FOCUS_RING}`}
+        className={`flex flex-1 flex-col rounded-t-lg ${focusRing}`}
       >
         <span className="relative block h-[130px] overflow-hidden rounded-t-lg border-b-2 border-marinho bg-creme md:h-[150px]">
           {card.image ? (
@@ -121,7 +130,7 @@ export function EventCard({ card, placement }: { card: HomeEventCard; placement:
         </span>
       </TrackedHomeLink>
       {card.store ? (
-        <div className="flex flex-wrap items-center justify-between gap-x-2 rounded-b-lg border-t-2 border-marinho bg-creme px-3">
+        <div className="flex flex-wrap items-center justify-between gap-x-2 rounded-b-lg border-t-2 border-marinho bg-creme px-3 py-1.5">
           <span className="py-2 text-xs font-bold">{card.store}</span>
           {card.codeLink ? (
             <TrackedHomeTabLink
