@@ -5,16 +5,13 @@ import { HomeEvent } from '@/components/sections/HomeEvent';
 import { couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { PopularRecipes } from '@/components/sections/PopularRecipes';
 import { MyLinks } from '@/components/sections/MyLinks';
-import { HomeEditorialPick } from '@/components/sections/HomeEditorialPick';
 import { Offers } from '@/components/sections/Offers';
 import { CTA } from '@/components/sections/CTA';
-import homeCurationConfig from '@/../content/home-curation.json';
 import homeEventsConfig from '@/../content/home-events.json';
 import { CECILIA_PHOTO, getHomeLatest, getHomeStoreTabs } from '@/lib/homeStores';
 import { getFeaturedOffers } from '@/lib/dicasOffers';
 import { getPopularRecipeSlugs } from '@/lib/popularRecipeStats';
 import { publishedReviews } from '@/lib/data';
-import { resolveActiveHomeCuration } from '@/lib/homeCuration';
 import { resolveActiveHomeEvent } from '@/lib/homeEvents';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
@@ -46,39 +43,19 @@ export const metadata = {
 };
 
 export default async function Home() {
-  const activeCuration = resolveActiveHomeCuration(
-    homeCurationConfig,
-    publishedReviews,
-    new Date()
-  );
   const activeEvent = resolveActiveHomeEvent(homeEventsConfig, publishedReviews, new Date());
   const [featuredOffers, popularRecipeSlugs] = await Promise.all([
     getFeaturedOffers(),
     getPopularRecipeSlugs(),
   ]);
-  const activeHomePick = activeCuration
-    ? {
-        eyebrow: activeCuration.eyebrow,
-        article: {
-          slug: activeCuration.article.slug,
-          title: activeCuration.article.title,
-          description: activeCuration.article.description,
-          publishedAt: activeCuration.article.publishedAt,
-          type: activeCuration.article.type,
-          image: activeCuration.article.image,
-          imageAlt: activeCuration.article.imageAlt,
-          imageFit: activeCuration.article.imageFit,
-          imagePosition: activeCuration.article.imagePosition,
-        },
-      }
-    : null;
 
+  // As seções de cima ganham aqui o espaço de baixo; as de baixo trazem o delas.
   return (
-    <div className={`${couponFontVariables} min-h-screen bg-[#fef9f3]`}>
+    <div className={`${couponFontVariables} min-h-screen bg-white`}>
       <h1 className="sr-only">Em Casa com Cecília: guias, códigos de desconto e receitas</h1>
 
       {/* Vitrine: a Cecília e as lojas parceiras */}
-      <div className="bg-white pb-8 md:pb-10">
+      <div className="pb-8 md:pb-10">
         <HomeStoreStories
           tabs={getHomeStoreTabs(publishedReviews)}
           ceciliaPanel={<HomeCeciliaPanel />}
@@ -86,33 +63,28 @@ export default async function Home() {
         />
       </div>
 
-      {/* Acabou de sair: os 5 artigos mais novos, no lugar dos destaques e do carrossel de Guias & Análises */}
-      <div className="bg-white pb-8 md:pb-10">
+      {/* Acabou de sair: os 5 artigos mais novos */}
+      <div className="pb-8 md:pb-10">
         <HomeLatest articles={getHomeLatest(publishedReviews)} />
       </div>
 
-      {/* Datas comerciais: só durante uma campanha (content/home-events.json) */}
+      {/* Data comercial: só durante uma campanha (content/home-events.json) */}
       {activeEvent ? (
-        <div className="bg-white pb-8 md:pb-10">
+        <div className="pb-8 md:pb-10">
           <HomeEvent event={activeEvent} />
         </div>
       ) : null}
 
-      {/* Escolha da Cecília: sai na Fase 6b, com a curadoria (Decisão D) */}
-      {activeHomePick ? (
-        <HomeEditorialPick item={activeHomePick} />
-      ) : null}
-
-      {/* Receitas Populares */}
+      {/* Receitas da Cecília */}
       <PopularRecipes popularSlugs={popularRecipeSlugs} />
 
-      {/* Universo da Cecília */}
+      {/* Explore a casa */}
       <MyLinks />
 
-      {/* Ofertas */}
+      {/* Ofertas do dia */}
       <Offers items={featuredOffers} />
 
-      {/* CTA YouTube */}
+      {/* Últimos vídeos: só aparece com vídeo */}
       <CTA />
     </div>
   );
