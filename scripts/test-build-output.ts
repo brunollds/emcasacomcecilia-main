@@ -570,6 +570,10 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
     check(title !== undefined && decodeHtml(title) === tab.label, `painel ${tab.slug}: título diferente de "${tab.label}"`);
     check(panel.includes(hrefOf(tab.storePageUrl)), `painel ${tab.slug}: sem o link de ${tab.storePageUrl}`);
   }
+  check(
+    (body.match(/id="painel-loja-/g) ?? []).length === expected.tabs.length,
+    'vitrine: número de painéis de loja diferente do de lojas ativas'
+  );
   const yesStyle = textOf(panelOf('loja-yesstyle'));
   check(yesStyle.includes('Código de recompensa') && !yesStyle.includes('Cupom YesStyle'), 'painel da YesStyle: o CECILIA010 sem o rótulo de recompensa');
   check(textOf(panelOf('loja-shein')).includes('Código de indicação'), 'painel da SHEIN: sem "Código de indicação"');
@@ -581,6 +585,11 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
   for (const article of expected.latest) {
     check(latest.includes(hrefOf(article.href)), `Acabou de sair: sem ${article.href}`);
   }
+  // Cada artigo aparece em dois desenhos (celular e tela larga): conta os links distintos.
+  check(
+    new Set(latest.match(/href="\/reviews\/[^"]+"/g) ?? []).size === expected.latest.length,
+    `Acabou de sair: artigos diferentes dos ${expected.latest.length} mais novos`
+  );
   check(latest.includes('href="/reviews"'), 'Acabou de sair: sem o link para /reviews');
   check(!/<button\b|font-codigo/.test(latest), 'Acabou de sair: com código ou botão de copiar');
 
@@ -653,6 +662,8 @@ const brokenHomes = [
     const explore = trimmed.slice(exploreAt, footerAt).split(hrefOf(brandLinks.dicas)).join('href="/outra"');
     return trimmed.slice(0, exploreAt) + explore + trimmed.slice(footerAt);
   })(),
+  homeBody.replace(LATEST_SECTION, `id="painel-loja-inativa" ${LATEST_SECTION}`),
+  homeBody.replace(LATEST_SECTION, `${LATEST_SECTION}><a href="/reviews/artigo-a-mais"></a`),
 ];
 for (const broken of brokenHomes) {
   assert.notEqual(broken, homeBody, 'a mutação do autoteste da home não achou o trecho');
@@ -698,6 +709,13 @@ for (const hubPath of eventHubPaths) {
   }
 }
 
+// O feed do Dicas & Ofertas e a API do YouTube decidem na hora do build se ofertas e vídeos
+// aparecem; a linha final diz quantos cards cada seção teve, para o log do build mostrar.
+const lowerCards = (id: string) => {
+  const section = between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']);
+  return section ? String((section.match(/<li[\s>]/g) ?? []).length) : 'ausentes';
+};
+
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar e a interface de ${articleUrls.length} artigos, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home, ${storeArticleSlugs.length} subpáginas de loja e ${eventHubPaths.length} páginas de data conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar e a interface de ${articleUrls.length} artigos, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${lowerCards('titulo-ofertas-do-dia')}, vídeos: ${lowerCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja e ${eventHubPaths.length} páginas de data conferidos.`
 );
