@@ -27,7 +27,7 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
   const popularRecipes = selectPopularRecipes(recipes, popularSlugs);
 
   return (
-    <section aria-labelledby="titulo-receitas" className="bg-white pb-8 md:pb-10">
+    <section aria-labelledby="titulo-receitas" className="pb-8 md:pb-10">
       <div className="mx-auto w-full max-w-[1200px] md:px-10">
         <div className="flex flex-wrap items-end justify-between gap-x-6 gap-y-3.5 border-y-2 border-marinho bg-amarelo-cupom px-4 py-5 text-marinho md:gap-y-5 md:rounded-[14px] md:border-2 md:px-8 md:py-7">
           <div className="flex min-w-0 basis-full flex-col gap-2 md:basis-auto md:flex-1">

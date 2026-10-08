@@ -1,4 +1,6 @@
 @import "tailwindcss";
+/* Os planos em docs/ trazem classes nos blocos de código; não vão para o CSS do site. */
+@source not "../../docs";
 
 /* 🎨 Paleta de Cores - Em Casa com Cecília */
 :root {
