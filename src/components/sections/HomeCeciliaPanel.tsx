@@ -1,13 +1,10 @@
 import Image from 'next/image';
 import { ArrowRight, Coffee, Leaf, UtensilsCrossed } from 'lucide-react';
-import { FOCUS_RING } from '@/components/coupons/CouponBlocks';
 import { TrackedHomeLink } from '@/components/TrackedHomeLink';
+import { FOCUS_RING, FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
 import { brandLinks } from '@/lib/brandLinks';
 import { getCeciliaSocialStats } from '@/lib/homeStores';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
-
-// O painel é marinho: o foco fica amarelo, menos dentro do cartão de foto, que é branco.
-const FOCUS_RING_ON_DARK = 'focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-amarelo-cupom';
 
 // Os mesmos desenhos dos ícones do Hero de hoje.
 const SOCIAL_ICON_PATHS = {
@@ -44,6 +41,7 @@ function SocialIcon({ name, className }: { name: SocialName; className: string }
   );
 }
 
+// O painel é marinho: o foco fica amarelo, menos dentro do cartão de foto, que é branco.
 function PhotoCard({ instagramFollowers }: { instagramFollowers?: string }) {
   return (
     <figure className="relative mx-auto w-full max-w-[300px] rotate-2 rounded-lg bg-white px-3 pt-3 pb-3.5 shadow-[0_18px_40px_rgb(0_0_0/0.35)] motion-safe:transition-transform motion-safe:duration-350 motion-safe:hover:-translate-y-1 motion-safe:hover:rotate-0 lg:max-w-[340px]">

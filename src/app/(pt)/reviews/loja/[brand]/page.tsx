@@ -4,12 +4,13 @@ import { notFound } from 'next/navigation';
 import { ArrowRight } from 'lucide-react';
 import { ReviewHubCard } from '@/components/review/ReviewHubCard';
 import { TrackedCouponPageLink } from '@/components/review/TrackedCouponPageLink';
+import { FOCUS_RING, FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
 import { publishedReviews } from '@/lib/data';
 import { getStoreArticlePageSlugs, getStoreArticlesPage } from '@/lib/homeStores';
 import { toHomeReviewCard } from '@/lib/reviewDiscovery';
 
 // Tudo o que a Cecília escreveu sobre uma loja. A página da loja (/cupons/{slug}) responde qual é o
-// código e como usar; esta lista os artigos. Só em português, e só para loja ativa com artigo.
+// código e como usar; esta lista os artigos. Só em português, e só para loja ativa com mais de 3 artigos.
 
 export const dynamicParams = false;
 
@@ -48,7 +49,7 @@ export default async function StoreArticlesPage({ params }: StoreArticlesPagePro
             href={page.storePageUrl}
             linkLabel={page.codeLinkLabel}
             placement="reviews_store_page"
-            className="mt-2 inline-flex min-h-11 items-center gap-2 rounded-full bg-laranja px-6 text-sm font-extrabold text-marinho focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-amarelo-cupom"
+            className={`mt-2 inline-flex min-h-11 items-center gap-2 rounded-full bg-laranja px-6 text-sm font-extrabold text-marinho ${FOCUS_RING_ON_DARK}`}
           >
             {page.codeLinkLabel}
             <ArrowRight aria-hidden="true" className="size-4" />
@@ -66,7 +67,7 @@ export default async function StoreArticlesPage({ params }: StoreArticlesPagePro
           <div className="mt-10 flex justify-center">
             <Link
               href="/reviews"
-              className="inline-flex items-center gap-2 rounded-full border-2 border-verde-escuro px-8 py-4 font-semibold text-verde-escuro hover:bg-verde-escuro hover:text-white motion-safe:transition-colors"
+              className={`inline-flex items-center gap-2 rounded-full border-2 border-verde-escuro px-8 py-4 font-semibold text-verde-escuro hover:bg-verde-escuro hover:text-white motion-safe:transition-colors ${FOCUS_RING}`}
             >
               Ver todos os guias e análises
               <ArrowRight aria-hidden="true" className="size-4" />

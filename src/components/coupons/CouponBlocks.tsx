@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import { Archivo, JetBrains_Mono } from 'next/font/google';
 import { ChevronDown } from 'lucide-react';
+import { FOCUS_RING } from '@/components/ui/focusRing';
 import type { CouponFAQ } from '@/lib/couponsData';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
@@ -21,7 +22,7 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const couponFontVariables = `${archivo.variable} ${jetbrainsMono.variable}`;
 
-export const FOCUS_RING = 'focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-marinho';
+export { FOCUS_RING };
 
 export const PRIMARY_ACTION = `flex min-h-[52px] items-center justify-center gap-2.5 rounded-[10px] border-2 border-marinho bg-laranja px-4 text-center text-base font-extrabold text-marinho transition-colors hover:bg-laranja/85 data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-escuro data-[copied=true]:text-white ${FOCUS_RING}`;
 

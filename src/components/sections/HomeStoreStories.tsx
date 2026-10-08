@@ -5,10 +5,11 @@ import Image from 'next/image';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { CopyCodeButton } from '@/components/coupons/CouponActions';
-import { FOCUS_RING, asSentence } from '@/components/coupons/CouponBlocks';
+import { asSentence } from '@/components/coupons/CouponBlocks';
 import { getCouponCopyLabels } from '@/components/review/couponCopyLocale';
 import { TrackedCouponPageLink } from '@/components/review/TrackedCouponPageLink';
 import { TrackedHomeLink } from '@/components/TrackedHomeLink';
+import { FOCUS_RING, FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
 import { trackEvent } from '@/lib/analytics';
 import {
   CECILIA_TAB_ID,
@@ -24,7 +25,6 @@ import {
 const COPY_LABELS = getCouponCopyLabels('pt');
 // Foco dentro de caixas com overflow escondido: a borda fica para dentro, senão é cortada.
 const FOCUS_INSET = 'focus-visible:outline-3 focus-visible:-outline-offset-3 focus-visible:outline-marinho';
-const FOCUS_RING_ON_DARK = 'focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-amarelo-cupom';
 const TEXT_LINK = `flex min-h-11 items-center text-sm text-marinho underline underline-offset-[3px] ${FOCUS_RING}`;
 // Entrada da aba, como no canvas: o painel sai do display:none e o @starting-style anima a volta.
 const PANEL_ENTER =
