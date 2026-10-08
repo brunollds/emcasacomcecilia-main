@@ -2,10 +2,10 @@
 
 **Aplicação:** artigos publicados em `content/reviews/` e listados em português
 
-**Atualizado em:** 14/08/2026
+**Atualizado em:** 08/10/2026
 
-**Status:** vocabulário editorial aprovado; backfill, validação técnica e rotação automática na
-home implementados (Commits 3A–3D, ver Seção 10)
+**Status:** vocabulário editorial aprovado; backfill e validação técnica implementados (Commits
+3A–3D). Desde a D2, a home não seleciona artigos por `category` (ver Seção 10)
 
 ## 1. A decisão obrigatória de pauta
 
@@ -19,7 +19,7 @@ Todo artigo novo de **Guias & Análises** escolhe exatamente uma classe editoria
 | `cupons-como-usar` | Cupons & como usar | Qual é o código, como aplicar ou como encontrar uma oferta válida? |
 | `confianca-reputacao` | Confiança & reputação | A marca ou empresa é confiável e o que dizem dados públicos, reclamações e histórico? |
 
-`category` é a fonte de verdade para navegação, filtros de `/reviews` e atalhos da home. Não
+`category` é a fonte de verdade para a navegação e os filtros de `/reviews`. Não
 criar `editorialClass`, `navigationCategory` ou outro campo paralelo.
 
 ## 2. Três campos, três trabalhos
@@ -128,8 +128,9 @@ português ou sem `locale`) aparece:
 - **na aba da loja, na vitrine**, se o `affiliate` for o slug de uma loja ativa de
   `src/lib/couponsData.ts`: a aba mostra os 3 mais novos da loja. Loja com mais de 3 artigos ganha
   a subpágina `/reviews/loja/<slug>`, com todos;
-- **na faixa de uma data comercial**, só se o slug estiver no `articleSlugs` da edição em
-  `content/home-events.json`, durante a campanha.
+- **na faixa de uma data comercial**, durante a campanha, se o slug estiver entre os 4 primeiros
+  do `articleSlugs` da edição em `content/home-events.json`, na ordem do arquivo. A página da
+  data (o `hub` da edição, como `/black-friday`), quando existe, mostra todos.
 
 `category` continua valendo para os filtros de `/reviews`. `type`, `reviewKind`, `isNew`,
 `pros/cons` e a marca citada no texto não mudam o lugar do artigo na home.
