@@ -278,6 +278,9 @@ Imagens:
   todos os guias e análises" → `/reviews` (o nome da página de destino).
 - **Celular:** a lista do G2: data à esquerda e título, uma linha por artigo, com "Ver todos".
 - **Sem código** nos cards e na lista.
+- **Com data comercial no ar** (decisão do Bruno, 08/10): a lista não pula os artigos da data. O
+  "Acabou de sair" é sempre a lista dos últimos artigos, e eles podem aparecer também na faixa
+  logo abaixo.
 
 ## Seção 4: Datas comerciais
 
@@ -577,6 +580,20 @@ esta lista:
 - **Fase 6c:** o Tailwind v4 lê `docs/` e põe no CSS de produção as classes dos blocos de código
   dos planos (o `auto-fit` da Task 2 da Fase 3, sem uso). Um `@source not "../../docs";` no
   `globals.css` resolve.
+- **Antes do merge da D2 (revisão final da Fase 5, decisão do Bruno):** `/categorias` está sem
+  link interno desde a Fase 5a, porque o "Todas categorias" era do `RecipeCategoryLinks`, e segue
+  no `sitemap.ts`. Ou ganha um link (na faixa de receitas, no cabeçalho de `/receitas` ou no
+  rodapé), ou sai do sitemap.
+- **Filas que rolam na horizontal (revisão da Fase 5):** o Chrome só rola a fila quando o card
+  focado pelo teclado está todo escondido; o card meio visível fica cortado. Passa o WCAG 2.4.11 e
+  não o 2.4.12. Uma ajuda comum a todas as filas da home (`onFocus` →
+  `scrollIntoView({ block: 'nearest', inline: 'nearest' })`) resolve.
+- **Ofertas do dia (revisão final da Fase 5):** o "com cupom" só aparece nas ofertas reserva de
+  `data.ts`, que têm códigos de exemplo e não têm foto; o feed do Dicas & Ofertas não traz cupom.
+  As setas aparecem mesmo quando a fila não rola.
+- **Fase 6a (recomendação da revisão final da Fase 5):** as seções de baixo repetem o mesmo
+  invólucro (`section` com `aria-labelledby`, contêiner de 1200 px e `h2` condensado). Um
+  componente comum, junto com a limpeza do `page.js`.
 - **Na próxima mudança de `homeStoreTabs.ts`:** o prefixo `loja-` numa constante; a conta das
   setas, Home e End sai de `HomeStoreStories.tsx` para lá, com teste; o teste ganha a ida e volta
   `parseTabHash('#' + getTabAnchor(id))`, o hash sem `#` e `getTabOrder([])`.
