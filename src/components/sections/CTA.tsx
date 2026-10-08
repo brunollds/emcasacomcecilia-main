@@ -1,5 +1,5 @@
-import type { CSSProperties } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { Play } from 'lucide-react';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { brandLinks } from '@/lib/brandLinks';
@@ -16,11 +16,20 @@ export async function CTA() {
   return <LatestVideos videos={videos} />;
 }
 
-// A miniatura vertical do short e, por baixo, a do vídeo, para quando a primeira não existir.
-function thumbnailStyle(video: SocialHighlight): CSSProperties | undefined {
-  const urls = [video.thumbnailUrl, video.fallbackThumbnailUrl].filter((url): url is string => Boolean(url));
-  if (urls.length === 0) return undefined;
-  return { backgroundImage: urls.map((url) => `url('${resolveMediaUrl(url)}')`).join(', ') };
+// A hqdefault.jpg do YouTube é 4:3, com o quadro vertical do short no meio: o object-cover corta as
+// faixas. A outra miniatura só entra quando falta essa.
+function VideoThumbnail({ video }: { video: SocialHighlight }) {
+  const src = video.thumbnailUrl || video.fallbackThumbnailUrl;
+  if (!src) return null;
+  return (
+    <Image
+      src={resolveMediaUrl(src)}
+      alt=""
+      fill
+      sizes="(min-width: 1200px) 175px, (min-width: 1024px) 15vw, (min-width: 768px) 192px, 160px"
+      className="object-cover"
+    />
+  );
 }
 
 export function LatestVideos({ videos }: { videos: SocialHighlight[] }) {
@@ -44,9 +53,9 @@ export function LatestVideos({ videos }: { videos: SocialHighlight[] }) {
                 href={video.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className={`group relative flex aspect-[9/16] flex-1 items-center justify-center overflow-hidden rounded-xl border-2 border-marinho bg-marinho bg-cover bg-center text-white motion-safe:transition-transform motion-safe:duration-300 motion-safe:hover:-translate-y-1 ${FOCUS_RING}`}
-                style={thumbnailStyle(video)}
+                className={`group relative flex aspect-[9/16] flex-1 items-center justify-center overflow-hidden rounded-xl border-2 border-marinho bg-marinho text-white motion-safe:transition-transform motion-safe:duration-300 motion-safe:hover:-translate-y-1 ${FOCUS_RING}`}
               >
+                <VideoThumbnail video={video} />
                 <span
                   aria-hidden="true"
                   className="absolute inset-x-0 bottom-0 h-1/2 bg-linear-to-t from-marinho via-marinho/70 to-transparent"

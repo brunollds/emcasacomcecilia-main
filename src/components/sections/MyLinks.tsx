@@ -2,6 +2,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { brandLinks } from '@/lib/brandLinks';
+import { getCouponBySlug } from '@/lib/couponsData';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 // "Explore a casa": a DAMIE, o Dicas & Ofertas e o E-book Air Fryer, que segue em preparação (o
@@ -10,6 +11,10 @@ import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 const CARD = `group flex flex-1 flex-col overflow-hidden rounded-xl border-2 border-marinho motion-safe:transition-transform motion-safe:duration-300 motion-safe:hover:-translate-y-1 md:rounded-[14px] ${FOCUS_RING}`;
 
 export function MyLinks() {
+  // O código sai da loja em couponsData.ts; sem cupom ativo, a legenda fica só com a loja.
+  const damie = getCouponBySlug('damie');
+  const damieCode = damie?.offerMode === 'discount-code' ? damie.code : undefined;
+
   return (
     <section aria-labelledby="titulo-explore-a-casa" className="bg-white pb-8 md:pb-10">
       <div className="mx-auto flex w-full max-w-[1200px] flex-col gap-3 px-4 md:gap-6 md:px-10">
@@ -37,7 +42,13 @@ export function MyLinks() {
                 />
               </span>
               <span className="border-t-2 border-marinho bg-creme p-3.5 text-[13px] leading-[19px] font-bold md:px-4 md:text-sm md:leading-5">
-                DAMIE: móveis, poltronas e sofás com cupom <strong className="font-extrabold">CECILIA12</strong>
+                DAMIE: móveis, poltronas e sofás
+                {damieCode ? (
+                  <>
+                    {' '}
+                    com cupom <strong className="font-extrabold">{damieCode}</strong>
+                  </>
+                ) : null}
               </span>
             </Link>
           </li>

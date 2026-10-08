@@ -11,7 +11,7 @@ import { trackEvent } from '@/lib/analytics';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 // "Ofertas do dia": o feed do Dicas & Ofertas (até 10 ofertas) numa fila que rola na horizontal.
-// No desktop, as setas ao lado do título passam a fila.
+// A partir de 768 px, as setas ao lado do título passam a fila.
 
 type OffersProps = {
   items: Offer[];
@@ -48,7 +48,7 @@ export function Offers({ items }: OffersProps) {
           >
             Ofertas do dia
           </h2>
-          <div className="hidden gap-2 lg:flex">
+          <div className="hidden gap-2 md:flex">
             <button type="button" onClick={() => scrollTrack('left')} className={ARROW} aria-label="Ver ofertas anteriores">
               <ChevronLeft aria-hidden="true" className="size-5" />
             </button>
@@ -82,7 +82,9 @@ export function Offers({ items }: OffersProps) {
                 }
                 className={`group flex flex-1 flex-col overflow-hidden rounded-xl border-2 border-marinho bg-white text-marinho motion-safe:transition-transform motion-safe:duration-300 motion-safe:hover:-translate-y-1 ${FOCUS_RING}`}
               >
-                <span className="relative block h-[130px] overflow-hidden border-b-2 border-marinho bg-white md:h-[150px]">
+                <span
+                  className={`relative block h-[130px] overflow-hidden border-b-2 border-marinho md:h-[150px] ${offer.image ? 'bg-white' : 'bg-creme'}`}
+                >
                   {offer.image ? (
                     <Image
                       src={resolveMediaUrl(offer.image)}

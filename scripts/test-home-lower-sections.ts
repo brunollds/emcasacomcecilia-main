@@ -11,6 +11,7 @@ import { MyLinks } from '@/components/sections/MyLinks';
 import { Offers } from '@/components/sections/Offers';
 import { PopularRecipes, selectPopularRecipes } from '@/components/sections/PopularRecipes';
 import { brandLinks } from '@/lib/brandLinks';
+import { getCouponBySlug } from '@/lib/couponsData';
 import { getRecipePrimaryCategory, recipes, type Offer, type Recipe, type SocialHighlight } from '@/lib/data';
 import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 
@@ -108,9 +109,14 @@ assert.equal(count(withAnalytics, /href="\/receitas\/[^"]+"/g), 4, 'as populares
 const exploreHtml = render(createElement(MyLinks));
 const exploreText = textOf(exploreHtml);
 assert.match(exploreHtml, /<h2 id="titulo-explore-a-casa"[^>]*>Explore a casa<\/h2>/);
-assert.equal(count(exploreHtml, /<li/g), 3, 'DAMIE, Dicas & Ofertas e E-book');
+assert.equal(count(exploreHtml, /<li[\s>]/g), 3, 'DAMIE, Dicas & Ofertas e E-book');
 assert.ok(opensNewTab(linkTo(exploreHtml, brandLinks.damie)), 'a DAMIE abre o site dela em outra aba');
-assert.ok(exploreText.includes('DAMIE: móveis, poltronas e sofás com cupom CECILIA12'));
+const damie = getCouponBySlug('damie');
+assert.ok(damie && damie.offerMode === 'discount-code', 'a DAMIE é loja de cupom');
+assert.ok(
+  exploreText.includes(`DAMIE: móveis, poltronas e sofás com cupom ${damie.code}`),
+  'o código da legenda sai da loja'
+);
 assert.ok(exploreHtml.includes('alt="Cecília debruçada sobre a caixa de entrega da DAMIE"'));
 assert.ok(opensNewTab(linkTo(exploreHtml, brandLinks.dicas)));
 assert.ok(exploreText.includes('Dicas & Ofertas') && exploreText.includes('Ver ofertas'));
@@ -140,8 +146,9 @@ const offersHtml = render(
 );
 const offersText = textOf(offersHtml);
 assert.match(offersHtml, /<h2 id="titulo-ofertas-do-dia"[^>]*>Ofertas do dia<\/h2>/);
-assert.equal(count(offersHtml, /<li/g), 3);
+assert.equal(count(offersHtml, /<li[\s>]/g), 3);
 assert.ok(offersText.includes('de R$ 100,00 por R$ 79,90'), 'com desconto: de … por …');
+assert.match(offersHtml, /de <s>R\$\s100,00<\/s> por/, 'o preço antigo vai riscado');
 assert.ok(offersText.includes('Oferta 2 R$ 50,00') && !offersText.includes('de R$ 50,00'), 'sem desconto, só o preço');
 assert.ok(offersText.includes('Oferta 3 Amazon'), 'sem preço, nada de R$');
 assert.equal(count(offersText, /com cupom/g), 1, 'só a oferta com cupom avisa');
@@ -154,29 +161,48 @@ assert.ok(offersHtml.includes('aria-label="Ver ofertas anteriores"') && offersHt
 assert.ok(offersHtml.includes(`${linkTo(offersHtml, brandLinks.dicas)}Acessar Dicas &amp; Ofertas</a>`));
 
 // Últimos vídeos.
-const video = (id: string): SocialHighlight => ({
+// Como o youtube.ts entrega: a hqdefault.jpg como miniatura e a maxresdefault.jpg como reserva.
+const video = (
+  id: string,
+  thumbnails: Pick<SocialHighlight, 'thumbnailUrl' | 'fallbackThumbnailUrl'> = {}
+): SocialHighlight => ({
   id,
   platform: 'YouTube',
   title: `Vídeo ${id}`,
   description: '',
   url: `https://www.youtube.com/watch?v=${id}`,
-  thumbnailUrl: `https://i.ytimg.com/vi/${id}/oar2.jpg`,
-  fallbackThumbnailUrl: `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
+  thumbnailUrl: `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
+  fallbackThumbnailUrl: `https://i.ytimg.com/vi/${id}/maxresdefault.jpg`,
+  ...thumbnails,
 });
 const videosHtml = render(
-  createElement(LatestVideos, { videos: ['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7'].map(video) })
+  createElement(LatestVideos, { videos: ['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7'].map((id) => video(id)) })
 );
 const videosText = textOf(videosHtml);
 assert.match(videosHtml, /<h2 id="titulo-ultimos-videos"[^>]*>Últimos vídeos<\/h2>/);
-assert.equal(count(videosHtml, /<li/g), 6, 'no máximo 6, uma linha no desktop');
+assert.equal(count(videosHtml, /<li[\s>]/g), 6, 'no máximo 6, uma linha no desktop');
 assert.ok(!videosText.includes('Vídeo v7'));
 assert.ok(opensNewTab(linkTo(videosHtml, 'https://www.youtube.com/watch?v=v1')));
-assert.ok(
-  videosHtml.includes("url(&#x27;https://i.ytimg.com/vi/v1/oar2.jpg&#x27;), url(&#x27;https://i.ytimg.com/vi/v1/hqdefault.jpg&#x27;)"),
-  'a miniatura do short, com a do vídeo por baixo'
-);
+assert.equal(count(videosHtml, /<img[^>]* alt=""/g), 6, 'uma miniatura decorativa por vídeo');
+assert.ok(videosHtml.includes(encodeURIComponent('https://i.ytimg.com/vi/v1/hqdefault.jpg')), 'a miniatura do YouTube');
+assert.ok(!videosHtml.includes('maxresdefault'), 'a reserva só entra quando falta a miniatura');
 assert.ok(videosText.includes('Vídeo v1'));
 assert.ok(videosHtml.includes(`${linkTo(videosHtml, brandLinks.youtube)}Ver canal do YouTube</a>`));
+
+const withoutThumbnailHtml = render(
+  createElement(LatestVideos, {
+    videos: [
+      video('r1', { thumbnailUrl: undefined }),
+      video('r2', { thumbnailUrl: undefined, fallbackThumbnailUrl: undefined }),
+    ],
+  })
+);
+assert.ok(
+  withoutThumbnailHtml.includes(encodeURIComponent('https://i.ytimg.com/vi/r1/maxresdefault.jpg')),
+  'sem a miniatura, a reserva'
+);
+assert.equal(count(withoutThumbnailHtml, /<img/g), 1, 'sem miniatura nenhuma, o card fica com o fundo marinho');
+assert.equal(count(withoutThumbnailHtml, /<li[\s>]/g), 2, 'e continua na fila');
 assert.equal(render(createElement(LatestVideos, { videos: [] })), '', 'sem vídeo, sem seção');
 
 console.log('test:home-lower-sections ok');
