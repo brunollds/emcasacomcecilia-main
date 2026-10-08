@@ -1,92 +1,32 @@
 import assert from 'node:assert/strict';
-import {
-  getHomeCategoryFilterParameters,
-  getHomeRouteClickParameters,
-  type HomeRoutePlacement,
-} from '../src/components/TrackedHomeLink';
+import { getHomeRouteClickParameters, type HomeRoutePlacement } from '../src/components/TrackedHomeLink';
 
-const cases: Array<{
-  href: string;
-  placement: HomeRoutePlacement;
-  linkLabel: string;
-}> = [
-  {
-    href: '/reviews/guia-exemplo',
-    placement: 'home_featured_guides',
-    linkLabel: 'Guia de exemplo',
-  },
-  {
-    href: '/reviews',
-    placement: 'home_review_categories',
-    linkLabel: 'Todos os guias',
-  },
-  {
-    href: '/reviews/review-exemplo',
-    placement: 'home_reviews_carousel',
-    linkLabel: 'Review de exemplo',
-  },
-  {
-    href: '/reviews/artigo-curado',
-    placement: 'home_editor_pick',
-    linkLabel: 'Artigo curado de exemplo',
-  },
-  // Vitrine da D2 (Fase 2a) e o "Acabou de sair" (Fase 3).
-  {
+// Um exemplo por placement. O Record obriga a lista a ter todos os valores do tipo e só eles: um
+// placement novo, ou um que saiu do tipo, quebra o typecheck aqui.
+const examples: Record<HomeRoutePlacement, { href: string; linkLabel: string }> = {
+  home_store_articles: {
     href: '/reviews/poltrona-de-amamentacao-como-escolher',
-    placement: 'home_store_articles',
     linkLabel: 'Poltrona de amamentação: como escolher',
   },
-  {
-    href: '/sobre',
-    placement: 'home_cecilia',
-    linkLabel: 'Mais sobre mim',
-  },
-  {
+  home_cecilia: { href: '/sobre', linkLabel: 'Mais sobre mim' },
+  home_latest: {
     href: '/reviews/insider-store-e-confiavel',
-    placement: 'home_latest',
     linkLabel: 'Insider Store é confiável? CNPJ, loja física, trocas e reputação',
   },
-  // Datas comerciais (Fase 4): card e "Ver o código" na home e na página da data.
-  {
+  home_event: {
     href: '/reviews/black-friday-damie',
-    placement: 'home_event',
     linkLabel: 'Black Friday DAMIE: poltronas e sofás para acompanhar',
   },
-  {
-    href: '/#loja-damie',
-    placement: 'event_hub',
-    linkLabel: 'Ver o código da DAMIE',
-  },
-];
+  event_hub: { href: '/#loja-damie', linkLabel: 'Ver o código da DAMIE' },
+};
 
-for (const input of cases) {
-  const parameters = getHomeRouteClickParameters(input);
-
-  assert.deepEqual(parameters, {
-    destination: input.href,
-    placement: input.placement,
-    link_label: input.linkLabel,
+for (const placement of Object.keys(examples) as HomeRoutePlacement[]) {
+  const { href, linkLabel } = examples[placement];
+  assert.deepEqual(getHomeRouteClickParameters({ href, placement, linkLabel }), {
+    destination: href,
+    placement,
+    link_label: linkLabel,
   });
-  assert.deepEqual(Object.keys(parameters).sort(), [
-    'destination',
-    'link_label',
-    'placement',
-  ]);
 }
 
-const filterParameters = getHomeCategoryFilterParameters(
-  'produtos-experiencias',
-  'Produtos & experiências'
-);
-assert.deepEqual(filterParameters, {
-  category: 'produtos-experiencias',
-  placement: 'home_review_categories',
-  link_label: 'Produtos & experiências',
-});
-assert.deepEqual(Object.keys(filterParameters).sort(), [
-  'category',
-  'link_label',
-  'placement',
-]);
-
-console.log(`✅ homeRouteTracking: ${cases.length} placements + filtro passaram.`);
+console.log(`✅ homeRouteTracking: ${Object.keys(examples).length} placements passaram.`);

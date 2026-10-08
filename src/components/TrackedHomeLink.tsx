@@ -4,19 +4,9 @@ import type { ComponentProps, MouseEvent } from 'react';
 import Link from 'next/link';
 import { trackEvent } from '@/lib/analytics';
 
-export type HomeRoutePlacement =
-  | 'home_featured_guides'
-  | 'home_review_categories'
-  | 'home_reviews_carousel'
-  | 'home_editor_pick'
-  // Vitrine da D2: artigos da loja e painel da Cecília.
-  | 'home_store_articles'
-  | 'home_cecilia'
-  // Fase 3 da D2: "Acabou de sair".
-  | 'home_latest'
-  // Fase 4 da D2: datas comerciais na home e na página de cada data.
-  | 'home_event'
-  | 'event_hub';
+// Onde fica o link: os artigos da loja e o painel da Cecília na vitrine, o "Acabou de sair", a faixa
+// da data comercial na home e a página de cada data.
+export type HomeRoutePlacement = 'home_store_articles' | 'home_cecilia' | 'home_latest' | 'home_event' | 'event_hub';
 
 type HomeRouteClickInput = {
   href: string;
@@ -32,17 +22,6 @@ export function getHomeRouteClickParameters({
   return {
     destination: href,
     placement,
-    link_label: linkLabel,
-  };
-}
-
-export function getHomeCategoryFilterParameters(
-  category: string,
-  linkLabel: string
-) {
-  return {
-    category,
-    placement: 'home_review_categories',
     link_label: linkLabel,
   };
 }
