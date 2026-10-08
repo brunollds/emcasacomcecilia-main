@@ -114,7 +114,7 @@ function getJsonLd(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {
     category: coupon.category,
     priceCurrency: 'BRL',
     ...(coupon.offerMode === 'discount-code' ? {
-      ...(coupon.discountNumber !== undefined ? { discount: `${coupon.discountNumber}` } : {}),
+      discount: `${coupon.discountNumber}`,
       couponCode: coupon.code,
     } : {}),
     offeredBy: {
