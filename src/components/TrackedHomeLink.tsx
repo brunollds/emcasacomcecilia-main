@@ -11,7 +11,9 @@ export type HomeRoutePlacement =
   | 'home_editor_pick'
   // Vitrine da D2: artigos da loja e painel da Cecília.
   | 'home_store_articles'
-  | 'home_cecilia';
+  | 'home_cecilia'
+  // Fase 3 da D2: "Acabou de sair".
+  | 'home_latest';
 
 type HomeRouteClickInput = {
   href: string;

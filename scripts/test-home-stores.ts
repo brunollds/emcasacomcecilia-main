@@ -216,6 +216,12 @@ for (const item of latest) {
   assert.ok(!Object.keys(item).some((key) => /code|coupon/i.test(key)), `${item.slug}: sem código`);
 }
 
+// Com menos de 5 artigos a seção mostra os que houver; artigo sem imagem chega sem imagem.
+const semImagem = getHomeLatest([{ ...review(1, 'sem-imagem', 'magalu', '2026-10-01'), image: undefined }], [store('magalu')]);
+assert.equal(semImagem.length, 1);
+assert.equal(semImagem[0].image, undefined);
+assert.equal(semImagem[0].store, 'Magalu');
+
 // Números das redes no painel da Cecília: a mesma conta do Hero de hoje.
 assert.equal(formatFollowerCount('443.5K'), '444k');
 assert.equal(formatFollowerCount('85.5K'), '86k');

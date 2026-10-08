@@ -30,6 +30,22 @@ const cases: Array<{
     placement: 'home_editor_pick',
     linkLabel: 'Artigo curado de exemplo',
   },
+  // Vitrine da D2 (Fase 2a) e o "Acabou de sair" (Fase 3).
+  {
+    href: '/reviews/poltrona-de-amamentacao-como-escolher',
+    placement: 'home_store_articles',
+    linkLabel: 'Poltrona de amamentação: como escolher',
+  },
+  {
+    href: '/sobre',
+    placement: 'home_cecilia',
+    linkLabel: 'Mais sobre mim',
+  },
+  {
+    href: '/reviews/insider-store-e-confiavel',
+    placement: 'home_latest',
+    linkLabel: 'Insider Store é confiável? CNPJ, loja física, trocas e reputação',
+  },
 ];
 
 for (const input of cases) {
