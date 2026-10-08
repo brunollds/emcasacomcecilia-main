@@ -140,7 +140,7 @@ Na compra pela Nestlé Nutre, o código CECI oferece 5% de desconto em produtos 
 **Referências e links:**
 
 - [Guia do cupom Nestlé Nutre CECI e regras de 5% OFF](/reviews/cupom-ceci-nestle-nutre-como-usar)
-- [Conferir produtos elegíveis e condições do cupom CECI de 5%](/cupons/nutren)
+- [Conferir produtos elegíveis e condições do cupom CECI de 5%](/cupons/nestle-nutre)
 - [Como tomar Nutren Senior sem empelotar: método da pasta](/reviews/nutren-senior-como-tomar-sem-empelotar)
 - [Conferir as apresentações de FiberMais na loja oficial Nestlé Nutre](https://www.nestlenutre.com.br/fibermais)
 - [Orientações do NIDDK sobre fibras e ingestão individual de líquidos](https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/eating-diet-nutrition)
@@ -171,9 +171,9 @@ Confira FiberMais na Nestlé Nutre e use CECI para 5% de desconto em produtos el
 [Conferir FiberMais na loja oficial Nestlé Nutre](https://www.nestlenutre.com.br/fibermais)
 
 - Código: `CECI`.
-- Parceiro no JSON: `nutren`.
+- Parceiro no JSON: `nestle-nutre`.
 - Destinos comerciais da loja estão marcados como sponsored no JSON.
-- Link interno rastreado: `/cupons/nutren`.
+- Link interno rastreado: `/cupons/nestle-nutre`.
 
 ## Legendas da galeria
 

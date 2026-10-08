@@ -9,7 +9,7 @@ type: "Comparativo de Suplemento"
 author: "Cecília Mauad"
 publishedAtISO: "2026-08-26"
 publishedAt: "26 de agosto de 2026"
-affiliate: "nutren"
+affiliate: "nestle-nutre"
 coupon: "CECI"
 status: "publicado"
 responsavel: "editorial"
@@ -23,7 +23,7 @@ bloqueado_por: null
 
 - Classe: `guias-praticos-utilidade`.
 - Forma: guia de decisão auditável; não é relato de experiência nem ranking absoluto.
-- Intenção transacional pertence a `/cupons/nutren`; o artigo mantém instrução, avaliação de rótulo e comparação.
+- Intenção transacional pertence a `/cupons/nestle-nutre`; o artigo mantém instrução, avaliação de rótulo e comparação.
 - Link interno para o cupom permanece relativo para usar `TrackedCouponPageLink`.
 - Link da loja oficial permanece patrocinado.
 - Divulgação de parceria aparece na nota editorial.

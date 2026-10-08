@@ -8,7 +8,7 @@ type: "Guia Prático"
 author: "Cecília Mauad"
 publishedAtISO: "2026-08-23"
 publishedAt: "23 de agosto de 2026"
-affiliate: "nutren"
+affiliate: "nestle-nutre"
 coupon: "CECI"
 seoTitle: "Nutren Just Protein: Para Que Serve e Tabela Nutricional"
 status: "publicado"
@@ -98,7 +98,7 @@ O Nutren Just Protein é vendido em latas de 280g na loja oficial **Nestlé Nutr
 * **Benefício:** 5% de desconto no checkout em produtos elegíveis da loja.
 * **Como aplicar:** No carrinho de compras da Nestlé Nutre, insira o código **CECI** no campo de cupom antes de finalizar o pagamento.
 
-Para consultar regras completas de frete, validade e exceções de produtos, confira o nosso [guia de regras do cupom Nestlé Nutre](/cupons/nutren).
+Para consultar regras completas de frete, validade e exceções de produtos, confira o nosso [guia de regras do cupom Nestlé Nutre](/cupons/nestle-nutre).
 
 Você também pode acessar a [loja oficial Nestlé Nutre](https://www.nestlenutre.com.br/) *(link comissionado)* para conferir a disponibilidade do produto.
 
