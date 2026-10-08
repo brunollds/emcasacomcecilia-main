@@ -3,6 +3,7 @@ import { recipes, publishedReviews } from '@/lib/data';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { getActiveCoupons, getCouponBySlug } from '@/lib/couponsData';
 import { getCouponStorePath, getTranslatedCouponRoutes } from '@/lib/couponTranslations';
+import { getStoreArticlePageSlugs } from '@/lib/homeStores';
 import { YESSTYLE_LOCALES } from '@/lib/i18n/clusters/yesstyle';
 import { REVIEW_HUB_LOCALES, getReviewHubPath } from '@/lib/review-hubs';
 import { getLatestYesStyleVerifiedAtISO } from '@/lib/yesstyleCoupons';
@@ -39,6 +40,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly' as const,
       lastModified: review.updatedAt ?? review.publishedAtISO,
     }));
+
+  // Todos os artigos de cada loja (/reviews/loja/{slug}), só em português.
+  const storeArticleRoutes: MetadataRoute.Sitemap = getStoreArticlePageSlugs(publishedReviews).map((slug) => ({
+    url: `${BASE_URL}/reviews/loja/${slug}`,
+    priority: 0.6,
+    changeFrequency: 'weekly' as const,
+  }));
 
   const couponRoutes: MetadataRoute.Sitemap = getActiveCoupons().map((coupon) => ({
     url: `${BASE_URL}/cupons/${coupon.slug}`,
@@ -104,6 +112,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...staticRoutes,
     ...recipeRoutes,
     ...reviewRoutes,
+    ...storeArticleRoutes,
     ...videoRoutes,
     ...couponRoutes,
     ...translatedCouponRoutes,

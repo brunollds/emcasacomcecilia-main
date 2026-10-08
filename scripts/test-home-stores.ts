@@ -1,7 +1,8 @@
 import assert from 'node:assert/strict';
 
+import sitemap from '@/app/sitemap';
 import { COUPONS, getActiveCoupons, type Coupon } from '@/lib/couponsData';
-import { publishedReviews } from '@/lib/data';
+import { publishedReviews, reviews } from '@/lib/data';
 import {
   formatFollowerCount,
   getCeciliaSocialStats,
@@ -208,5 +209,16 @@ assert.equal(formatFollowerCount(undefined), undefined);
 assert.equal(formatFollowerCount('sem número'), undefined);
 assert.deepEqual(getCeciliaSocialStats().map(({ name }) => name), ['Instagram', 'TikTok', 'YouTube', 'Facebook']);
 assert.ok(getCeciliaSocialStats().every(({ followers }) => followers && /^\d+k$/.test(followers)));
+
+// /reviews/loja sozinho cai em /reviews/[slug]: nenhuma review, nem rascunho, pode ter esse slug.
+assert.ok(!reviews.some(({ slug }) => slug === 'loja'), 'nenhuma review com o slug loja');
+
+// Subpáginas no sitemap: uma por loja ativa com artigo, nenhuma das outras.
+const sitemapUrls = new Set(sitemap().map(({ url }) => url));
+for (const coupon of getActiveCoupons()) {
+  const url = `https://emcasacomcecilia.com/reviews/loja/${coupon.slug}`;
+  const hasPage = getStoreArticlePageSlugs(publishedReviews).includes(coupon.slug);
+  assert.equal(sitemapUrls.has(url), hasPage, `${coupon.slug}: subpágina no sitemap só com artigo`);
+}
 
 console.log(`✅ homeStores: abas, ${tabs.length} lojas, subpáginas, "Acabou de sair" e redes passaram.`);
