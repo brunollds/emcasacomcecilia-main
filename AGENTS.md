@@ -47,8 +47,10 @@ o senso comum de SEO e que um agente erraria por bom senso:
   `TrackedCouponPageLink`. **Nunca criar um segundo renderizador de link** — nasce sem medição.
 - `affiliate` no JSON usa o **slug do cupom** (ex.: `nestle-nutre`, `dolce-gusto`); o
   `validate:content` barra slug que não existe em `couponsData.ts`.
-- **Damie não se disputa aqui.** O subdomínio `damie.emcasacomcecilia.com` já vence a consulta
-  comercial; `/cupons/damie` fica fora de campanha de linkagem.
+- **Damie:** o subdomínio `damie.emcasacomcecilia.com` vence a consulta comercial e o menu
+  linka para ele. Desde 08/10/2026 (decisão do Bruno), artigos e a vitrine da home também
+  linkam `/cupons/damie`, que tem tráfego e é usada pelo Google nas respostas de IA, com as
+  mesmas regras das outras lojas.
 - Kopenhagen está pausada — não linkar.
 
 ### Outros documentos

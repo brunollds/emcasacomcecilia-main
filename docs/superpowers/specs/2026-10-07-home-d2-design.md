@@ -536,5 +536,6 @@ Respondidas depois da revisão do código:
 - **F.** (08/10, depois da Fase 1) A vitrine leva a `/cupons/damie`, como as outras lojas. O menu
   já linka o subdomínio da DAMIE, e o `/cupons/damie` tem tráfego e é usado pelo Google nas
   respostas de IA. Os links `/cupons/damie` dos artigos `damie-reclame-aqui-o-que-os-dados-mostram`
-  e `sofa-damie-modular-vale-a-pena` também ficam. Para a vitrine, isso substitui a regra do dossiê
-  `01_Parceiros/DAMIE.md` de 07/10.
+  e `sofa-damie-modular-vale-a-pena` também ficam, e artigos novos podem linkar `/cupons/damie`.
+  Isso substitui a regra do dossiê `01_Parceiros/DAMIE.md` de 07/10; `AGENTS.md`, o contrato de
+  artigo de afiliado e a manutenção mensal foram atualizados no mesmo dia.

@@ -91,7 +91,7 @@ Para cada oferta ativa, reconferir:
 
 | Slug | Marca | Benefício principal | Fonte adicional | Observação mensal |
 |---|---|---|---|---|
-| `damie` | DAMIE | `CECILIA12` | subdomínio Damie | Verificar a oferta, mas não criar campanha de linkagem: o subdomínio é dono da intenção comercial. |
+| `damie` | DAMIE | `CECILIA12` | subdomínio Damie | Verificar a oferta. Desde 08/10/2026, artigos e a vitrine da home linkam `/cupons/damie` como nas outras lojas; o menu linka o subdomínio. |
 | `dolce-gusto` | Nescafé Dolce Gusto | `CECI` | artigos do cluster | Testar percentual, mínimo, limite por CPF e acúmulo. |
 | `yesstyle` | YesStyle | `CECILIA010` | `data/coupons/yesstyle.json` | A fonte factual é separada; `src/lib/yesstyleCoupons.ts` faz a leitura tipada e alimenta os getters em `couponsData.ts`. |
 | `nestle-nutre` | Nestlé Nutre | `CECI` | artigos do cluster | Confirmar exceções de produtos e valor do desconto (10% desde 04/10/2026). Fórmulas infantis de 0 a 12 meses, como NAN, ficam fora por lei (Decreto 9.579/2018, art. 5º): nenhum texto pode sugerir o CECI nelas. |
@@ -240,9 +240,9 @@ comparação, reputação e utilidade. Se um artigo disputar “cupom <marca>”
 recuar apenas o title da SERP quando a página de cupom estiver competitiva, conforme
 `docs/HANDOFF-CUPONS-FASE-1A.md`.
 
-Damie é a exceção de arquitetura: o subdomínio já vence a consulta comercial. A página
-`/cupons/damie` permanece como fonte de código e regras, mas fica fora de campanhas de
-linkagem em massa no domínio principal.
+Damie: o subdomínio vence a consulta comercial e o menu linka para ele. Desde 08/10/2026
+(decisão do Bruno), artigos e a vitrine da home também linkam `/cupons/damie`, como as outras
+lojas: a página tem tráfego e é usada pelo Google nas respostas de IA.
 
 ### Antes de publicar artigo novo
 
