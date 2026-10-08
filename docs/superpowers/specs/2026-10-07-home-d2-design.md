@@ -45,7 +45,8 @@ Pedidos dele que a especificação segue à risca:
 - **Regras dos códigos**, que já estão nos dados e nos textos do site:
   - CECILIA010 é código de recompensa, nunca cupom;
   - 4CW5Y é código de indicação da SHEIN, pesquisado no aplicativo;
-  - a Insider nunca mostra percentual;
+  - a Insider mostra o desconto que estiver em `couponsData.ts`: desde 07/10 o Bruno decidiu
+    mostrar o percentual (15%), e a página da loja muda em outra sessão;
   - a Nestlé Nutre mantém a exclusão de Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses;
   - MAUAD não ganha destaque fora do próprio código;
   - o site principal não linka `/cupons/damie`: o link do código da DAMIE vai ao subdomínio
@@ -447,7 +448,8 @@ placements das seções que saem (`home_featured_guides`, `home_review_categorie
 - **`test:home-stores`** (novo, Fase 1). Confere:
   - a aba da Cecília primeiro, sem artigos e sem código, depois as lojas ativas na ordem;
   - os rótulos de recompensa (YesStyle) e de indicação (SHEIN);
-  - Insider sem "%" em nenhum campo;
+  - desconto e descrição de cada aba iguais aos de `couponsData.ts` (a regra do texto da
+    Insider fica no `test:coupon-offer-modes`);
   - Nutre com a exclusão no detalhe;
   - SHEIN sem artigo;
   - no máximo 3 artigos por loja, sem campo de código, e o `total` e o `allArticlesPath` certos;
@@ -463,7 +465,6 @@ placements das seções que saem (`home_featured_guides`, `home_review_categorie
   - o painel da Cecília e um painel por loja ativa, com o rótulo de `getCodeTitle`;
   - no painel da YesStyle, "Código de recompensa" e nenhum "Cupom YesStyle";
   - no da SHEIN, "Código de indicação";
-  - no da Insider, nenhum percentual;
   - no da Nutre, a exclusão das fórmulas infantis;
   - nenhum link para `/cupons/damie`, na home e nas subpáginas.
 

@@ -36,7 +36,8 @@ ganham planos próprios quando chegarmos nelas, escritos sobre o código que exi
 - Textos dos códigos:
   - CECILIA010 é código de recompensa, nunca "cupom";
   - 4CW5Y é código de indicação da SHEIN, pesquisado no aplicativo;
-  - a Insider nunca mostra percentual;
+  - a Insider mostra o desconto que estiver em `couponsData.ts`: desde 07/10 o Bruno decidiu
+    mostrar o percentual (15%), e a página da loja muda em outra sessão;
   - a Nestlé Nutre mantém a exclusão das fórmulas infantis de 0 a 12 meses;
   - o site principal nunca linka `/cupons/damie`: o link da página do código da DAMIE vai a
     `https://damie.emcasacomcecilia.com/cupom-cecilia12` com a UTM do dossiê
@@ -731,6 +732,20 @@ Trocar a mensagem do `console.log` final por:
 
 ```ts
 console.log(`✅ homeStores: abas, ${tabs.length} lojas, subpáginas, "Acabou de sair" e redes passaram.`);
+```
+
+Trocar a asserção da Insider que a Task 3 escreveu (`a Insider nunca mostra percentual`), no
+mesmo lugar, por esta, que segue os dados de cada loja. Desde 07/10 o Bruno decidiu mostrar o
+percentual da Insider (15%); o texto do desconto é o de `couponsData.ts`, e a regra de conteúdo
+fica no `test:coupon-offer-modes`. Ela passa logo de saída (é troca de trava, não comportamento
+novo):
+
+```ts
+// Desconto e descrição saem dos dados da loja, sem texto próprio da vitrine.
+for (const current of tabs) {
+  assert.equal(current.discount, store(current.slug).discount, `${current.slug}: desconto dos dados`);
+  assert.equal(current.description, store(current.slug).shortDescription, `${current.slug}: descrição dos dados`);
+}
 ```
 
 - [ ] **Step 2: rodar e ver falhar**
@@ -2036,7 +2051,7 @@ Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
 | Aba da Cecília primeiro, sem código e sem artigos | Task 1 (`getTabOrder`), Task 3 (nenhuma aba `cecilia` nos dados), Task 6 |
 | Uma aba por loja ativa, na ordem de `couponsData.ts`; pausada some | Task 3 |
 | Rótulos de recompensa e de indicação, sem "cupom" no CECILIA010 | Task 3 |
-| Insider sem percentual; Nutre com a exclusão | Task 3 |
+| Desconto e descrição das abas vindos dos dados (Insider com o percentual desde 07/10); Nutre com a exclusão | Task 3, Task 4 |
 | Até 3 artigos, sem código; `total`; "Ver os N artigos" acima de 3 | Task 3, Task 7 |
 | 0 artigo (SHEIN): aviso no lugar da lista; 1 artigo: sem segmentos, setas e contador | Task 3, Task 7 |
 | DAMIE abre ao entrar; `/#loja-…` e `/#cecilia`; hash desconhecido ignorado | Task 1, Task 7 |
