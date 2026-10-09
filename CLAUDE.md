@@ -228,8 +228,9 @@ vídeo, primeiras impressões e uso noturno.
   sem mexer em lista nenhuma, e loja pausada sai da conferência com a home. O host de uma loja que não está
   em nenhuma home só entra na base fixa, em `STATIC_STORE_HOSTS`.
 - O certificado de Superstar Influencer da YesStyle vale até `validUntil`. O `test:locale-home` para
-  a build no dia seguinte (data UTC); troque as datas em `src/lib/ceciliaCredentials.ts` pelo certificado
-  novo, ou tire o selo.
+  a build no dia seguinte (data UTC); troque a imagem (pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`) e as
+  datas em `src/lib/ceciliaCredentials.ts` pelo certificado novo, ou tire o selo. O link do selo abre a
+  imagem num `<dialog>` (`CertificateDialog`); sem JavaScript, é um link comum para a imagem.
 - O hreflang da raiz e das 9 homes sai de `getHomeLanguageLinks`, com x-default em inglês.
 
 ### Páginas de loja (cupons)
