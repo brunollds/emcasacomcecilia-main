@@ -153,6 +153,7 @@ vídeo, primeiras impressões e uso noturno.
 ### Component layers
 - `src/components/ui/` — Shared building blocks: `focusRing.ts` (`FOCUS_RING`, `FOCUS_RING_ON_DARK`), `ScrollRow`, `RevealSection` and `CategoryIcon`.
 - `src/components/sections/` — Page sections: the D2 home (`HomeStoreStories`, `HomeStoreStrip` (the store bubbles), `HomeCeciliaPanel`, `HomeLatest`, `HomeEvent`, `PopularRecipes`, `MyLinks` (with `OfferCarousel`), `CTA`, the last two wrapped in `HomeSection`) and `EventHubPage`, which reads the data and wraps `EventHubView` (the date page itself, rendered by `test:home-events`; it must not import `next/font`, which does not run under tsx). `Navbar` and `Footer` live in `src/components/`.
+- `src/components/sections/CeciliaProfile.tsx` (the photo card, the follower numbers and the social icons) is shared by the PT home panel and by the home of every other language, so editing it changes both. The sections of the other-language home are the `LocaleHome*` components.
 - Each route group has its own root layout (`src/app/(pt)/layout.js`, `src/app/(en)/layout.tsx`… and `src/app/[locale]/layout.tsx`). All of them render `RootLayoutShell` (`src/components/RootLayoutShell.tsx`): `Navbar → {children} → Footer`.
 
 ### Artigos: sumário no celular
@@ -221,12 +222,15 @@ vídeo, primeiras impressões e uso noturno.
 - `src/lib/localeHome.ts` monta tudo no servidor. Os textos vêm de
   `src/components/sections/localeHomeCopy.ts`; os fatos da Cecília e o certificado, de
   `src/lib/ceciliaCredentials.ts`. As lojas saem dos dados: a YesStyle e as de `couponTranslations.ts`
-  com loja ativa, e loja nova com página traduzida entra sozinha. A home não tem link de afiliado: o
+  com loja ativa, e loja nova por link (`affiliate-link`) com página traduzida entra sozinha: o
+  `couponTranslations.ts` lança erro para loja de cupom com tradução. A home não tem link de afiliado: o
   cartão leva a `/<locale>/coupons/<slug>`. Os dois testes (`test:locale-home` e `test:build-output`) tiram
   os hosts de loja do dado das lojas que estão nas homes (`scripts/locale-home-guards.ts`), mais uma base
   fixa (`yesstyle.com`, `shein.com`, `ystyle.co`): um link novo de afiliado de uma loja da home é barrado
   sem mexer em lista nenhuma, e loja pausada sai da conferência com a home. O host de uma loja que não está
-  em nenhuma home só entra na base fixa, em `STATIC_STORE_HOSTS`.
+  em nenhuma home só entra na base fixa, em `STATIC_STORE_HOSTS`. Os hosts sentinela (`SENTINEL_HOSTS`, no
+  mesmo arquivo) provam que a derivação achou o link de afiliado da YesStyle e o da SHEIN: se o link de
+  afiliado de uma dessas lojas mudar de host, atualize-os.
 - O certificado de Superstar Influencer da YesStyle vale até `validUntil`. O `test:locale-home` para
   a build no dia seguinte (data UTC); troque a imagem (pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`) e as
   datas em `src/lib/ceciliaCredentials.ts` pelo certificado novo, ou tire o selo. O link do selo abre a
