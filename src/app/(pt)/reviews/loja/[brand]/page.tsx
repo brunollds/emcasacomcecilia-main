@@ -5,8 +5,11 @@ import { ArrowRight } from 'lucide-react';
 import { ReviewHubCard } from '@/components/review/ReviewHubCard';
 import { TrackedCouponPageLink } from '@/components/review/TrackedCouponPageLink';
 import { FOCUS_RING, FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
+import { getCouponBySlug } from '@/lib/couponsData';
 import { publishedReviews } from '@/lib/data';
-import { getStoreArticlePageSlugs, getStoreArticlesPage } from '@/lib/homeStores';
+import { getStoreArticlePageSlugs, getStoreArticlesPage, getStoreArticlesPath } from '@/lib/homeStores';
+import { LOCALES } from '@/lib/i18n/locales';
+import { SITE_NAME, SITE_SOCIAL_IMAGE, getCollectionPageJsonLd, getStoreSocialImage } from '@/lib/pageSeo';
 import { toHomeReviewCard } from '@/lib/reviewDiscovery';
 
 // Tudo o que a Cecília escreveu sobre uma loja. A página da loja (/cupons/{slug}) responde qual é o
@@ -25,13 +28,26 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: StoreArticlesPageProps): Promise<Metadata> {
   const page = getStoreArticlesPage(publishedReviews, (await params).brand);
   if (!page) return {};
-  const path = `/reviews/loja/${page.slug}`;
+  const path = getStoreArticlesPath(page.slug);
+  // A mesma imagem da página de cupom da loja.
+  const store = getCouponBySlug(page.slug);
+  const image = store ? getStoreSocialImage(store) : SITE_SOCIAL_IMAGE;
 
   return {
     title: page.metaTitle,
     description: page.description,
     alternates: { canonical: path },
-    openGraph: { title: page.metaTitle, description: page.description, url: path, type: 'website' },
+    openGraph: {
+      title: page.metaTitle,
+      description: page.description,
+      url: path,
+      siteName: SITE_NAME,
+      locale: LOCALES.pt.openGraphLocale,
+      type: 'website',
+      images: [image],
+    },
+    // O layout já define título e descrição genéricos no twitter, e o Next não os troca pelos do Open Graph.
+    twitter: { card: 'summary_large_image', title: page.metaTitle, description: page.description, images: [image.url] },
   };
 }
 
@@ -39,8 +55,27 @@ export default async function StoreArticlesPage({ params }: StoreArticlesPagePro
   const page = getStoreArticlesPage(publishedReviews, (await params).brand);
   if (!page) notFound();
 
+  const jsonLd = getCollectionPageJsonLd({
+    name: page.title,
+    description: page.description,
+    path: getStoreArticlesPath(page.slug),
+    items: page.articles.map((article) => ({ name: article.title, path: `/reviews/${article.slug}` })),
+    breadcrumb: [
+      { name: 'Início', path: '/' },
+      { name: 'Guias & Análises', path: '/reviews' },
+    ],
+  });
+
   return (
     <main className="min-h-screen bg-creme">
+      {jsonLd.map((schema, index) => (
+        <script
+          key={index}
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+        />
+      ))}
+
       <section className="border-b border-black/5 bg-marinho px-6 py-14 text-white md:py-16">
         <div className="mx-auto flex max-w-7xl flex-col items-center gap-4 text-center">
           <h1 className="font-heading text-4xl font-bold md:text-5xl">{page.title}</h1>

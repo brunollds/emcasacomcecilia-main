@@ -5,7 +5,7 @@ import { getCouponLanguageLinks, getCouponStorePath } from '@/lib/couponTranslat
 import { getOtherActiveCoupons, type Coupon } from '@/lib/couponsData';
 import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
 import { getShellHomeHref } from '@/lib/i18n/shellDictionary';
-import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import { getStoreSocialImage } from '@/lib/pageSeo';
 import { CopyCodeButton, CouponDock } from './CouponActions';
 import {
   BODY_TEXT,
@@ -67,9 +67,7 @@ const getOfferType = (coupon: Coupon, copy: CouponStoreCopy) =>
 
 export function getCouponStoreMetadata(coupon: Coupon, locale: Locale): Metadata {
   const path = getCouponStorePath(coupon.slug, locale);
-  const socialImage = coupon.socialImage || coupon.brandLogo || '/images/logos/logo-em-casa-com-cecilia.png';
-  const deliveredSocialImage = new URL(resolveMediaUrl(socialImage), SITE_URL).toString();
-  const socialImageAlt = coupon.socialImageAlt || coupon.brandLogoAlt || 'Em Casa com Cecília';
+  const image = getStoreSocialImage(coupon);
 
   return {
     title: coupon.metaTitle,
@@ -86,8 +84,8 @@ export function getCouponStoreMetadata(coupon: Coupon, locale: Locale): Metadata
       type: 'article',
       images: [
         {
-          url: deliveredSocialImage,
-          alt: socialImageAlt,
+          url: image.url,
+          alt: image.alt,
         },
       ],
     },
@@ -95,7 +93,7 @@ export function getCouponStoreMetadata(coupon: Coupon, locale: Locale): Metadata
       card: 'summary_large_image',
       title: coupon.metaTitle,
       description: coupon.metaDescription,
-      images: [deliveredSocialImage],
+      images: [image.url],
     },
   };
 }
