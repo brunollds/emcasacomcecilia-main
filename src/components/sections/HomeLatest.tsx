@@ -1,6 +1,6 @@
 import type { CSSProperties } from 'react';
 import Image from 'next/image';
-import { TrackedHomeLink } from '@/components/TrackedHomeLink';
+import { TrackedHomeLink, type HomeRoutePlacement } from '@/components/TrackedHomeLink';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { RevealSection } from '@/components/ui/RevealSection';
 import type { HomeLatestArticle } from '@/lib/homeStores';
@@ -8,10 +8,10 @@ import type { HomeLatestArticle } from '@/lib/homeStores';
 // "Acabou de sair": os 5 artigos mais novos, sem código. No desktop são cartões presos na geladeira;
 // no celular, a lista de data e título. Os dois vão no HTML e o CSS mostra um ou outro.
 
-type CardDecor = { magnet: string | null; tilt: string };
+export type CardDecor = { magnet: string | null; tilt: string };
 
 // Ímã e inclinação de cada posição, como no canvas. Decoração: fora da leitura de tela.
-const CARD_DECOR: CardDecor[] = [
+export const CARD_DECOR: CardDecor[] = [
   { magnet: '-top-3 -right-3 bg-amarelo-cupom', tilt: '-rotate-1' },
   { magnet: null, tilt: '' },
   { magnet: '-top-3 -left-3 bg-laranja', tilt: 'rotate-[0.5deg]' },
@@ -67,7 +67,12 @@ export function HomeLatest({ articles }: { articles: HomeLatestArticle[] }) {
         <ul className="hidden gap-[18px] md:grid min-[768px]:grid-cols-3 min-[1200px]:grid-cols-5">
           {articles.map((article, index) => (
             <li key={article.slug} className="revela flex" style={{ '--i': index } as CSSProperties}>
-              <LatestCard article={article} decor={CARD_DECOR[index % CARD_DECOR.length]} />
+              <LatestCard
+                article={article}
+                decor={CARD_DECOR[index % CARD_DECOR.length]}
+                placement="home_latest"
+                meta={`${article.dateLabel}, ${article.type}`}
+              />
             </li>
           ))}
         </ul>
@@ -76,11 +81,20 @@ export function HomeLatest({ articles }: { articles: HomeLatestArticle[] }) {
   );
 }
 
-function LatestCard({ article, decor }: { article: HomeLatestArticle; decor: CardDecor }) {
+type LatestCardProps = {
+  article: HomeLatestArticle;
+  decor: CardDecor;
+  placement: HomeRoutePlacement;
+  // A linha de cima do cartão: na home em PT, data e tipo; na de cada idioma, só a data.
+  meta: string;
+};
+
+// Também é o cartão dos artigos na home de cada idioma (LocaleHomeArticles).
+export function LatestCard({ article, decor, placement, meta }: LatestCardProps) {
   return (
     <TrackedHomeLink
       href={article.href}
-      placement="home_latest"
+      placement={placement}
       linkLabel={article.title}
       className={`relative flex flex-1 flex-col rounded-[10px] border-2 border-marinho bg-white text-marinho shadow-[0_2px_6px_rgb(15_29_58/0.04)] ${decor.tilt} motion-safe:transition-transform motion-safe:duration-300 motion-safe:hover:-translate-y-1 motion-safe:hover:rotate-0 ${FOCUS_RING}`}
     >
@@ -96,9 +110,7 @@ function LatestCard({ article, decor }: { article: HomeLatestArticle; decor: Car
         ) : null}
       </span>
       <span className="flex flex-1 flex-col gap-1.5 p-3">
-        <span className="text-xs font-bold text-marinho-suave">
-          {article.dateLabel}, {article.type}
-        </span>
+        <span className="text-xs font-bold text-marinho-suave">{meta}</span>
         <span className="text-[15px] leading-5 font-extrabold">{article.title}</span>
       </span>
       {article.store ? (

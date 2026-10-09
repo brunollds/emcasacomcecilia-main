@@ -1,6 +1,21 @@
 import assert from 'node:assert/strict';
 
+import { createElement } from 'react';
+import { renderToStaticMarkup } from 'react-dom/server';
+import { imageConfigDefault, type ImageConfigComplete, type RemotePattern } from 'next/dist/shared/lib/image-config';
+import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.shared-runtime';
+
+import { getYesStylePage } from '@/components/coupons/yesstyleCopy';
 import { getCodeTitle, getSidebarCopy } from '@/components/review/sidebarCopy';
+import { CECILIA_PHOTO_COPY_PT } from '@/components/sections/CeciliaProfile';
+import { LocaleHomeHero } from '@/components/sections/LocaleHomeHero';
+import {
+  LocaleHomeArticles,
+  LocaleHomeFaq,
+  LocaleHomeFollow,
+  LocaleHomeSafety,
+  LocaleHomeStores,
+} from '@/components/sections/LocaleHomeSections';
 import { fillTemplate, getLocaleHomeCopy, type LocaleHomeCopy } from '@/components/sections/localeHomeCopy';
 import {
   CECILIA_FULL_NAME,
@@ -13,6 +28,7 @@ import { getTranslatedCouponRoutes } from '@/lib/couponTranslations';
 import { publishedReviews } from '@/lib/data';
 import { getStoreCode } from '@/lib/homeStores';
 import { LOCALES, LOCALE_KEYS } from '@/lib/i18n/locales';
+import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 import {
   LOCALE_HOME_LOCALES,
   getHomeLanguageLinks,
@@ -139,5 +155,83 @@ for (const locale of LOCALE_HOME_LOCALES) {
   assert.equal(languages[LOCALES[locale].hreflang], `https://emcasacomcecilia.com/${locale}`, `hreflang de ${locale}`);
 }
 assert.equal(languages['x-default'], languages.en);
+
+// As seções desenhadas em cada idioma: nada em português, nenhum link de loja, nenhum código chamado de
+// cupom e nada escondido pela rolagem no HTML do servidor.
+const PT_CODE_TITLES = {
+  reward: getCodeTitle(getSidebarCopy('pt'), 'reward', 'YesStyle'),
+  referral: getCodeTitle(getSidebarCopy('pt'), 'referral', 'SHEIN'),
+};
+const PT_ONLY_TEXTS = [
+  ...Object.values(CECILIA_PHOTO_COPY_PT),
+  'Da minha casa',
+  'Mais sobre mim',
+  'Entre no grupo de promoções',
+  getYesStylePage('pt')?.category,
+  getCouponBySlug('shein')?.category,
+  ...Object.values(PT_CODE_TITLES),
+].filter((text): text is string => Boolean(text));
+const CODES = expectedSlugs.map((slug) => getStoreCode(getCouponBySlug(slug)!)).filter(Boolean).join('|');
+const COUPON_WORD_LIST = 'cupom|cupons|cupón|cupones|coupons?|gutscheine?|쿠폰|クーポン|優惠[碼券]|优惠[码券]';
+const CODE_AS_COUPON = new RegExp(
+  `(?:${COUPON_WORD_LIST})(?: de \\S+)?[:：]? ?(?:${CODES})|(?:${CODES})[ -]?(?:${COUPON_WORD_LIST})`,
+  'iu'
+);
+const decode = (text: string) =>
+  text.replace(/&#x27;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
+// Os textos que aparecem na tela e os que o leitor de tela lê (alt e aria-label).
+const visibleTexts = (html: string) => [
+  ...[...html.matchAll(/>([^<>]+)</g)].map(([, text]) => decode(text).trim()),
+  ...[...html.matchAll(/\s(?:alt|aria-label)="([^"]*)"/g)].map(([, text]) => decode(text).trim()),
+].filter(Boolean);
+// Fora do Next, o next/image não conhece os hosts do next.config.mjs, e a foto da Cecília vem do CDN.
+const imageConfig: ImageConfigComplete = {
+  ...imageConfigDefault,
+  remotePatterns: IMAGE_REMOTE_PATTERNS as RemotePattern[],
+};
+const render = (element: ReturnType<typeof createElement>) =>
+  renderToStaticMarkup(createElement(ImageConfigContext.Provider, { value: imageConfig }, element));
+
+for (const locale of LOCALE_HOME_LOCALES) {
+  const content = getLocaleHomeContent(locale, publishedReviews);
+  const ownTexts = new Set(entries(getLocaleHomeCopy(locale)).map(([, text]) => text));
+  // O rótulo do código que é igual ao do português neste idioma (LABEL_SAME_AS_PORTUGUESE) não é texto em português.
+  const sameAsPortuguese = (Object.keys(PT_CODE_TITLES) as Array<keyof typeof PT_CODE_TITLES>)
+    .filter((kind) => LABEL_SAME_AS_PORTUGUESE.has(`${locale}:${kind}`))
+    .map((kind) => PT_CODE_TITLES[kind]);
+  const ptTexts = PT_ONLY_TEXTS.filter((text) => !ownTexts.has(text) && !sameAsPortuguese.includes(text));
+
+  const hero = render(createElement(LocaleHomeHero, { hero: content.hero }));
+  const stores = render(createElement(LocaleHomeStores, { stores: content.stores }));
+  const articles = render(createElement(LocaleHomeArticles, { articles: content.articles }));
+  const safety = render(createElement(LocaleHomeSafety, { safety: content.safety }));
+  const faq = render(createElement(LocaleHomeFaq, { faq: content.faq }));
+  const follow = render(createElement(LocaleHomeFollow, { follow: content.follow }));
+  const all = [hero, stores, articles, safety, faq, follow].join('');
+  const hrefs = [...all.matchAll(/href="([^"]+)"/g)].map(([, href]) => decode(href));
+
+  assert.equal((hero.match(/<h1\b/g) ?? []).length, 1, `${locale}: hero sem um H1`);
+  assert.ok(hero.includes(CECILIA_FULL_NAME), `${locale}: hero sem o nome completo`);
+  assert.ok(hero.includes(YESSTYLE_CERTIFICATE.title), `${locale}: hero sem o selo`);
+  assert.ok(hrefs.includes(content.hero.mailto), `${locale}: hero sem o e-mail`);
+  for (const { label } of content.hero.social) assert.ok(all.includes(`aria-label="${label}"`), `${locale}: sem ${label}`);
+  for (const id of ['titulo-cecilia', 'titulo-lojas', 'titulo-artigos', 'titulo-seguro', 'titulo-perguntas', 'titulo-redes']) {
+    assert.ok(all.includes(`id="${id}"`), `${locale}: sem a seção ${id}`);
+  }
+  for (const store of content.stores.items) {
+    assert.ok(stores.includes(`href="${store.href}"`), `${locale}: sem o cartão de ${store.brand}`);
+    if (store.code) assert.ok(stores.includes(store.code) && stores.includes(store.codeLabel ?? ''), `${locale}: ${store.brand} sem o código`);
+  }
+  for (const article of content.articles.items) assert.ok(articles.includes(`href="${article.href}"`), `${locale}: sem ${article.href}`);
+  assert.ok(articles.includes(`href="${content.articles.all.href}"`), `${locale}: sem o link para todos os artigos`);
+  assert.equal((safety.match(/<li\b/g) ?? []).length, 5, `${locale}: "É seguro?" sem os 5 itens`);
+  assert.equal((faq.match(/<details\b/g) ?? []).length, 4, `${locale}: perguntas`);
+  for (const network of content.follow.networks) assert.ok(follow.includes(`href="${network.href}"`), `${locale}: sem ${network.name}`);
+
+  assert.deepEqual(hrefs.filter((href) => /yesstyle\.com|shein\.com|onelink\./i.test(href)), [], `${locale}: link de loja`);
+  assert.deepEqual(visibleTexts(all).filter((text) => ptTexts.includes(text)), [], `${locale}: texto em português`);
+  assert.doesNotMatch(visibleTexts(all).join(' '), CODE_AS_COUPON, `${locale}: código chamado de cupom`);
+  assert.ok(!all.includes('data-reveal'), `${locale}: data-reveal no HTML do servidor`);
+}
 
 console.log(`✅ locale home: ${LOCALE_HOME_LOCALES.length} idiomas, ${expectedSlugs.length} lojas e o certificado até ${YESSTYLE_CERTIFICATE.validUntil} passaram.`);
