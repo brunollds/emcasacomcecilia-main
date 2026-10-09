@@ -5,8 +5,19 @@ import Link from 'next/link';
 import { trackEvent } from '@/lib/analytics';
 
 // Onde fica o link: os artigos da loja e o painel da Cecília na vitrine, o "Acabou de sair", a faixa
-// da data comercial na home e a página de cada data.
-export type HomeRoutePlacement = 'home_store_articles' | 'home_cecilia' | 'home_latest' | 'home_event' | 'event_hub';
+// da data comercial na home e a página de cada data; na home de cada idioma (/en, /ja…), o hero, as
+// lojas, os artigos, as perguntas e as redes.
+export type HomeRoutePlacement =
+  | 'home_store_articles'
+  | 'home_cecilia'
+  | 'home_latest'
+  | 'home_event'
+  | 'event_hub'
+  | 'locale_home_hero'
+  | 'locale_home_stores'
+  | 'locale_home_articles'
+  | 'locale_home_faq'
+  | 'locale_home_follow';
 
 type HomeRouteClickInput = {
   href: string;

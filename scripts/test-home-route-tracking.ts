@@ -22,6 +22,11 @@ const examples: Record<HomeRoutePlacement, { href: string; linkLabel: string }> 
     linkLabel: 'Black Friday DAMIE: poltronas e sofás para acompanhar',
   },
   event_hub: { href: '/#loja-damie', linkLabel: 'Ver o código da DAMIE' },
+  locale_home_hero: { href: 'https://instagram.com/emcasacomcecilia', linkLabel: 'Instagram' },
+  locale_home_stores: { href: '/en/coupons/yesstyle', linkLabel: 'YesStyle' },
+  locale_home_articles: { href: '/en/reviews', linkLabel: 'All guides & reviews (5)' },
+  locale_home_faq: { href: '/en/coupons/shein', linkLabel: 'SHEIN' },
+  locale_home_follow: { href: 'https://facebook.com/emcasacomcecilia', linkLabel: 'Facebook' },
 };
 
 for (const placement of Object.keys(examples) as HomeRoutePlacement[]) {
