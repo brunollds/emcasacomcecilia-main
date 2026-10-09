@@ -9,7 +9,6 @@ import {
   getShellCommercialLinks,
   getShellCopy,
   getShellHomeHref,
-  getShellLanguageHubHref,
   getShellNavLinks,
 } from '@/lib/i18n/shellDictionary';
 import { LOCALES, LOCALE_KEYS, findLocaleByHtmlLang } from '@/lib/i18n/locales';
@@ -85,7 +84,7 @@ function LanguageSwitcher({ localeKey, label, mobile = false }) {
             return (
               <Link
                 key={locale}
-                href={getShellLanguageHubHref(locale)}
+                href={getShellHomeHref(locale)}
                 hrefLang={config.hreflang}
                 lang={config.htmlLang}
                 aria-current={isActive ? 'page' : undefined}

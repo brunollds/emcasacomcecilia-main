@@ -195,7 +195,7 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
         if (breadcrumbItems.length !== 2) {
           errors.push(`Breadcrumb internacional "${locale}" esperado 2 níveis, obteve ${breadcrumbItems.length}`);
         }
-        if (breadcrumbItems[0]?.item !== 'https://emcasacomcecilia.com') errors.push(`Breadcrumb "${locale}" nível 1 incorreto`);
+        if (breadcrumbItems[0]?.item !== `https://emcasacomcecilia.com/${locale}`) errors.push(`Breadcrumb "${locale}" nível 1 incorreto`);
         if (breadcrumbItems[1]?.item !== expectedCanonical) errors.push(`Breadcrumb "${locale}" nível 2 incorreto`);
         if (breadcrumbItems.some((b) => b.item.includes('/cupons'))) {
           errors.push(`Breadcrumb internacional "${locale}" contém vazamento indevido para "/cupons" em PT!`);

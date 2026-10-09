@@ -1,11 +1,11 @@
 import assert from 'node:assert/strict';
 import { getCouponStorePath } from '@/lib/couponTranslations';
 import { LOCALES, LOCALE_KEYS } from '@/lib/i18n/locales';
+import { getLocaleHomePath } from '@/lib/localeHome';
 import { getReviewHubPath } from '@/lib/review-hubs';
 import {
   getShellCommercialLinks,
   getShellHomeHref,
-  getShellLanguageHubHref,
   getShellNavLinks,
 } from '@/lib/i18n/shellDictionary';
 assert.deepEqual(
@@ -20,7 +20,6 @@ for (const locale of LOCALE_KEYS) {
 
   if (locale === 'pt') {
     assert.equal(getShellHomeHref(locale), '/');
-    assert.equal(getShellLanguageHubHref(locale), '/reviews');
     assert.equal(navLinks.find((link) => link.href === '/contato')?.desktop, false);
     assert.equal(navLinks.find((link) => link.href === '/faqs')?.desktop, false);
     assert.deepEqual(commercialLinks, []);
@@ -29,8 +28,8 @@ for (const locale of LOCALE_KEYS) {
 
   const hubPath = getReviewHubPath(locale);
   assert.deepEqual(navLinks.map((link) => link.href), [hubPath]);
-  assert.equal(getShellHomeHref(locale), hubPath);
-  assert.equal(getShellLanguageHubHref(locale), hubPath);
+  // O logo e o seletor de idioma levam à home do idioma; a lista de artigos segue no menu.
+  assert.equal(getShellHomeHref(locale), getLocaleHomePath(locale));
 
   const yesStyle = commercialLinks.find((link) => link.id === 'yesstyle');
   assert.ok(yesStyle.href);
