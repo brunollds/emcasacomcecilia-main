@@ -5,7 +5,6 @@ import { renderToStaticMarkup } from 'react-dom/server';
 import { imageConfigDefault, type ImageConfigComplete, type RemotePattern } from 'next/dist/shared/lib/image-config';
 import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.shared-runtime';
 
-import { getYesStylePage } from '@/components/coupons/yesstyleCopy';
 import { getCodeTitle, getSidebarCopy } from '@/components/review/sidebarCopy';
 import { CECILIA_PHOTO_COPY_PT } from '@/components/sections/CeciliaProfile';
 import { LocaleHomeHero } from '@/components/sections/LocaleHomeHero';
@@ -40,7 +39,14 @@ import {
 } from '@/lib/localeHome';
 import { getPublishedReviewsForLocale } from '@/lib/review-hubs';
 
-import { COUPON_WORD_LIST, codeAsCouponRegExp, escapeRegExp, getStoreHostMention, isStoreLink } from './locale-home-guards';
+import {
+  COUPON_WORD_LIST,
+  codeAsCouponRegExp,
+  escapeRegExp,
+  getPtStoreTexts,
+  getStoreHostMention,
+  isStoreLink,
+} from './locale-home-guards';
 
 // Rótulo do código igual ao do PT só onde a palavra é a mesma nas duas línguas: "Código de recompensa"
 // é assim em espanhol e em português. Chave: idioma:tipo do código.
@@ -162,23 +168,20 @@ assert.equal(languages['x-default'], languages.en);
 
 // As seções desenhadas em cada idioma: nada em português, nenhum link de loja, nenhum código chamado de
 // cupom e nada escondido pela rolagem no HTML do servidor.
-const PT_CODE_TITLES = {
-  reward: getCodeTitle(getSidebarCopy('pt'), 'reward', 'YesStyle'),
-  referral: getCodeTitle(getSidebarCopy('pt'), 'referral', 'SHEIN'),
-};
+// A categoria e o título do código de cada loja da home em português, e não só os da YesStyle e da SHEIN.
+const { categories: PT_STORE_CATEGORIES, codeTitles: PT_CODE_TITLES } = getPtStoreTexts();
 const PT_ONLY_TEXTS = [
   ...Object.values(CECILIA_PHOTO_COPY_PT),
   'Da minha casa',
   'Mais sobre mim',
   'Entre no grupo de promoções',
-  getYesStylePage('pt')?.category,
-  getCouponBySlug('shein')?.category,
-  ...Object.values(PT_CODE_TITLES),
-].filter((text): text is string => Boolean(text));
+  ...PT_STORE_CATEGORIES,
+  ...PT_CODE_TITLES.map(({ title }) => title),
+];
+// Loja sem código é legítima: sem código nenhum não há o que conferir.
 const CODE_AS_COUPON = codeAsCouponRegExp(
   expectedSlugs.map((slug) => getStoreCode(getCouponBySlug(slug)!)).filter((code): code is string => Boolean(code))
 );
-assert.ok(CODE_AS_COUPON, 'nenhuma loja da home com código');
 const decode = (text: string) =>
   text.replace(/&#x27;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
 // Os textos que aparecem na tela e os que o leitor de tela lê (alt e aria-label).
@@ -200,9 +203,7 @@ for (const locale of LOCALE_HOME_LOCALES) {
   const content = getLocaleHomeContent(locale, publishedReviews);
   const ownTexts = new Set(entries(getLocaleHomeCopy(locale)).map(([, text]) => text));
   // O rótulo do código que é igual ao do português neste idioma (LABEL_SAME_AS_PORTUGUESE) não é texto em português.
-  const sameAsPortuguese = (Object.keys(PT_CODE_TITLES) as Array<keyof typeof PT_CODE_TITLES>)
-    .filter((kind) => LABEL_SAME_AS_PORTUGUESE.has(`${locale}:${kind}`))
-    .map((kind) => PT_CODE_TITLES[kind]);
+  const sameAsPortuguese = PT_CODE_TITLES.filter(({ kind }) => LABEL_SAME_AS_PORTUGUESE.has(`${locale}:${kind}`)).map(({ title }) => title);
   const ptTexts = PT_ONLY_TEXTS.filter((text) => !ownTexts.has(text) && !sameAsPortuguese.includes(text));
 
   const hero = render(createElement(LocaleHomeHero, { hero: content.hero }));
@@ -248,7 +249,7 @@ for (const locale of LOCALE_HOME_LOCALES) {
 
   assert.deepEqual(hrefs.filter(isStoreLink), [], `${locale}: link de loja`);
   assert.deepEqual(visibleTexts(all).filter((text) => ptTexts.includes(text)), [], `${locale}: texto em português`);
-  assert.doesNotMatch(visibleTexts(all).join(' '), CODE_AS_COUPON, `${locale}: código chamado de cupom`);
+  if (CODE_AS_COUPON) assert.doesNotMatch(visibleTexts(all).join(' '), CODE_AS_COUPON, `${locale}: código chamado de cupom`);
   assert.ok(!all.includes('data-reveal'), `${locale}: data-reveal no HTML do servidor`);
 }
 

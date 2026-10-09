@@ -2,7 +2,6 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
 import homeEventsConfig from '../content/home-events.json';
-import { getYesStylePage } from '../src/components/coupons/yesstyleCopy';
 import { getArticleCopy } from '../src/components/review/articleCopy';
 import { getCouponCopyLabels } from '../src/components/review/couponCopyLocale';
 import { getGalleryCopy } from '../src/components/review/galleryCopy';
@@ -42,7 +41,7 @@ import {
 } from '../src/lib/localeHome';
 import { SITE_NAME, SITE_SOCIAL_IMAGE, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
-import { codeAsCouponRegExp, isStoreLink } from './locale-home-guards';
+import { codeAsCouponRegExp, getPtStoreTexts, isStoreLink } from './locale-home-guards';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
 // das lojas traduzidas e dos artigos de cada família, as páginas da YesStyle, o dock, a sidebar e a
@@ -613,14 +612,7 @@ const shellTexts = (locale: Locale) => {
   ];
 };
 // A categoria e o título do código de cada loja da home em português, e não só os da YesStyle e da SHEIN.
-const homeStores = getLocaleHomeStores('en');
-const PT_STORE_CATEGORIES = [...homeStores.map((store) => getCouponBySlug(store.slug)?.category), getYesStylePage('pt')?.category];
-const PT_CODE_TITLES = homeStores.flatMap((store) => {
-  const pt = getCouponBySlug(store.slug);
-  if (!pt || !store.code) return [];
-  const kind = getStoreCodeKind(pt, store.code);
-  return [{ kind, title: getCodeTitle(getSidebarCopy('pt'), kind, pt.brand) }];
-});
+const { categories: PT_STORE_CATEGORIES, codeTitles: PT_CODE_TITLES } = getPtStoreTexts();
 // "Código de recompensa" se escreve igual em espanhol e em português (mesma exceção do test-locale-home.ts).
 const CODE_TITLE_SAME_AS_PORTUGUESE = new Set(['es:reward']);
 // Todo texto fixo do site em português (menu, rodapé, seletor) mais os da home em português, para a home
@@ -634,7 +626,7 @@ const PT_ONLY_TEXTS = [
   'Entre no grupo de promoções',
   ...PT_STORE_CATEGORIES,
   ...PT_CODE_TITLES.map(({ title }) => title),
-].filter((text): text is string => Boolean(text));
+];
 
 for (const locale of LOCALE_HOME_LOCALES) {
   const pagePath = getLocaleHomePath(locale);

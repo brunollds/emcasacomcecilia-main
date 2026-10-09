@@ -223,8 +223,10 @@ vídeo, primeiras impressões e uso noturno.
   `src/lib/ceciliaCredentials.ts`. As lojas saem dos dados: a YesStyle e as de `couponTranslations.ts`
   com loja ativa, e loja nova com página traduzida entra sozinha. A home não tem link de afiliado: o
   cartão leva a `/<locale>/coupons/<slug>`. Os dois testes (`test:locale-home` e `test:build-output`) tiram
-  os hosts de loja do dado das lojas da home (`scripts/locale-home-guards.ts`), então um link novo de
-  afiliado, como o `ystyle.co`, é barrado sem mexer em lista nenhuma.
+  os hosts de loja do dado das lojas que estão nas homes (`scripts/locale-home-guards.ts`), mais uma base
+  fixa (`yesstyle.com`, `shein.com`, `ystyle.co`): um link novo de afiliado de uma loja da home é barrado
+  sem mexer em lista nenhuma, e loja pausada sai da conferência com a home. O host de uma loja que não está
+  em nenhuma home só entra na base fixa, em `STATIC_STORE_HOSTS`.
 - O certificado de Superstar Influencer da YesStyle vale até `validUntil`. O `test:locale-home` para
   a build no dia seguinte (data UTC); troque as datas em `src/lib/ceciliaCredentials.ts` pelo certificado
   novo, ou tire o selo.

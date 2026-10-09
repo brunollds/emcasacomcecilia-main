@@ -81,7 +81,7 @@ function toHomeStore(store: Coupon, category: string, locale: LocaleHomeLocale):
   };
 }
 
-// A YesStyle primeiro, depois as lojas de couponTranslations.ts com cupom ativo, na ordem de lá. Loja que
+// A YesStyle primeiro, depois as lojas de couponTranslations.ts com loja ativa, na ordem de lá. Loja que
 // ganha página traduzida entra sozinha; loja pausada sai.
 export function getLocaleHomeStores(locale: LocaleHomeLocale): LocaleHomeStore[] {
   const stores: LocaleHomeStore[] = [];
