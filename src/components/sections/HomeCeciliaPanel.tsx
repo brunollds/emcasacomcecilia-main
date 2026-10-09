@@ -43,32 +43,33 @@ function SocialIcon({ name, className }: { name: SocialName; className: string }
 // O painel é marinho: o foco fica amarelo, menos dentro do cartão de foto, que é branco.
 function PhotoCard({ instagramFollowers }: { instagramFollowers?: string }) {
   return (
-    <figure className="relative mx-auto w-full max-w-[300px] rotate-2 rounded-lg bg-white px-3 pt-3 pb-3.5 shadow-[0_18px_40px_rgb(0_0_0/0.35)] motion-safe:transition-transform motion-safe:duration-350 motion-safe:hover:-translate-y-1 motion-safe:hover:rotate-0 lg:max-w-[340px]">
+    <figure className="relative mx-auto w-full rotate-2 rounded-lg bg-white px-1.5 pt-1.5 pb-2 shadow-[0_18px_40px_rgb(0_0_0/0.35)] motion-safe:transition-transform motion-safe:duration-350 motion-safe:hover:-translate-y-1 motion-safe:hover:rotate-0 lg:max-w-[340px] lg:px-3 lg:pt-3 lg:pb-3.5">
       <span
         aria-hidden="true"
-        className="absolute -top-3.5 left-1/2 z-10 size-9 -translate-x-1/2 rounded-full bg-amarelo-cupom shadow-[0_3px_8px_rgb(0_0_0/0.3)]"
+        className="absolute -top-2 left-1/2 z-10 size-5 -translate-x-1/2 rounded-full bg-amarelo-cupom shadow-[0_3px_8px_rgb(0_0_0/0.3)] lg:-top-3.5 lg:size-9"
       />
       <div className="relative aspect-[4/4.7] overflow-hidden rounded bg-marinho/15">
         <Image
           src={CECILIA_PHOTO}
           alt="Cecília segurando uma xícara de café na cozinha"
           fill
-          sizes="(min-width: 1024px) 316px, 276px"
+          sizes="(min-width: 1024px) 316px, (min-width: 768px) 168px, 106px"
           className="object-cover motion-safe:animate-[ken-burns_24s_ease-in-out_infinite]"
         />
-        <span className="absolute top-2.5 left-2.5 flex items-center gap-2 rounded-full bg-white/95 py-[5px] pr-3 pl-[5px] text-marinho shadow-[0_2px_6px_rgb(0_0_0/0.2)]">
+        <span className="absolute top-2.5 left-2.5 hidden items-center gap-2 rounded-full bg-white/95 py-[5px] pr-3 pl-[5px] text-marinho shadow-[0_2px_6px_rgb(0_0_0/0.2)] lg:flex">
           <span aria-hidden="true" className="flex size-7 items-center justify-center rounded-full bg-marinho text-amarelo-cupom">
             <SocialIcon name="Instagram" className="size-[15px]" />
           </span>
           <span className="text-xs font-extrabold">@emcasacomcecilia</span>
         </span>
         {instagramFollowers ? (
-          <span className="absolute right-2.5 bottom-2.5 rounded-full bg-marinho px-2.5 py-1.5 text-xs font-extrabold text-white">
-            {instagramFollowers} seguidores
+          <span className="absolute right-1.5 bottom-1.5 rounded-full bg-marinho px-2 py-1 text-[11px] font-extrabold text-white lg:right-2.5 lg:bottom-2.5 lg:px-2.5 lg:py-1.5 lg:text-xs">
+            {instagramFollowers}
+            <span className="sr-only lg:not-sr-only"> seguidores</span>
           </span>
         ) : null}
       </div>
-      <figcaption className="flex items-center justify-between gap-3 px-0.5 pt-3">
+      <figcaption className="hidden items-center justify-between gap-3 px-0.5 pt-3 lg:flex">
         <span className="flex min-w-0 flex-col gap-[3px]">
           <span className="text-xs font-bold text-marinho-suave">No Instagram</span>
           <span className="font-condensada text-[22px] leading-[1.02] font-black text-marinho font-stretch-extra-condensed lg:text-2xl">
@@ -102,7 +103,7 @@ export function HomeCeciliaPanel() {
   return (
     <section
       aria-labelledby="titulo-cecilia"
-      className="relative isolate flex flex-col gap-[18px] overflow-hidden rounded-[14px] border-2 border-marinho bg-marinho px-4 pt-6 pb-[22px] text-white shadow-[0_4px_0_var(--color-marinho)] lg:grid lg:grid-cols-[minmax(0,1.2fr)_minmax(0,0.8fr)] lg:gap-x-10 lg:gap-y-[22px] lg:px-11 lg:py-10 lg:shadow-[0_6px_0_var(--color-marinho)]"
+      className="relative isolate grid grid-cols-[minmax(0,1fr)_118px] items-center gap-x-4 gap-y-[18px] overflow-hidden rounded-[14px] border-2 border-marinho bg-marinho px-4 pt-6 pb-[22px] text-white shadow-[0_4px_0_var(--color-marinho)] md:grid-cols-[minmax(0,1fr)_180px] lg:grid-cols-[minmax(0,1.2fr)_minmax(0,0.8fr)] lg:items-stretch lg:gap-x-10 lg:gap-y-[22px] lg:px-11 lg:py-10 lg:shadow-[0_6px_0_var(--color-marinho)]"
     >
       {/* Os ícones que flutuavam no Hero de hoje, atrás do conteúdo. */}
       <div aria-hidden="true" className="pointer-events-none absolute inset-0 -z-10 overflow-hidden text-white/5 select-none">
@@ -114,28 +115,28 @@ export function HomeCeciliaPanel() {
 
       <h2
         id="titulo-cecilia"
-        className="font-condensada text-5xl leading-[0.9] font-black tracking-[-0.005em] font-stretch-extra-condensed lg:col-start-1 lg:row-start-1 lg:self-end lg:text-7xl"
+        className="font-condensada text-[34px] leading-[0.9] font-black tracking-[-0.005em] font-stretch-extra-condensed md:text-5xl lg:col-start-1 lg:row-start-1 lg:self-end lg:text-7xl"
       >
         Da minha casa
         <br />
         para a sua.
       </h2>
 
-      <div className="px-3.5 pt-2.5 pb-1.5 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:self-center lg:px-2 lg:pt-[18px] lg:pb-2">
+      <div className="pt-2 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:self-center lg:px-2 lg:pt-[18px] lg:pb-2">
         <PhotoCard instagramFollowers={instagramFollowers} />
       </div>
 
-      <div className="flex flex-col gap-[18px] lg:col-start-1 lg:row-start-2 lg:gap-[22px] lg:self-start">
-        <p className="max-w-[34em] text-[15px] leading-[1.55] font-medium text-white/80 lg:text-[17px]">
+      <div className="col-span-2 flex flex-col gap-[18px] lg:col-span-1 lg:col-start-1 lg:row-start-2 lg:gap-[22px] lg:self-start">
+        <p className="max-w-[34em] text-[13.5px] leading-normal font-medium text-white/80 md:text-[15px] md:leading-[1.55] lg:text-[17px]">
           Olá! Sou a Cecília. Conto o que testei em casa, divido as receitas da minha cozinha e reúno os
           códigos de desconto das marcas parceiras.
         </p>
-        <div className="flex flex-wrap items-center gap-3">
+        <div className="flex flex-wrap items-center gap-2 md:gap-3">
           <TrackedHomeLink
             href="/sobre"
             placement="home_cecilia"
             linkLabel="Mais sobre mim"
-            className={`flex min-h-12 items-center gap-2 rounded-full bg-laranja px-[22px] text-[15px] font-extrabold text-marinho ${FOCUS_RING_ON_DARK}`}
+            className={`flex min-h-11 items-center gap-2 rounded-full bg-laranja px-4 text-sm font-extrabold text-marinho md:min-h-12 md:px-[22px] md:text-[15px] ${FOCUS_RING_ON_DARK}`}
           >
             Mais sobre mim
             <ArrowRight aria-hidden="true" className="size-[18px]" strokeWidth={2.4} />
@@ -163,7 +164,7 @@ export function HomeCeciliaPanel() {
           rel="noopener noreferrer"
           placement="home_cecilia"
           linkLabel="Entre no grupo de promoções"
-          className={`flex max-w-fit items-center gap-3 rounded-xl border-[1.5px] border-white/25 bg-white/5 py-2.5 pr-4 pl-2.5 hover:border-laranja motion-safe:animate-[pulse-subtle_3s_ease-in-out_2s_4] motion-safe:transition motion-safe:duration-200 motion-safe:hover:-translate-y-0.5 ${FOCUS_RING_ON_DARK}`}
+          className={`flex max-w-fit items-center gap-3 rounded-xl border-[1.5px] border-white/25 bg-white/5 py-2.5 pr-4 pl-2.5 hover:border-laranja motion-safe:animate-[pulse-subtle_3s_ease-in-out_2s_1] motion-safe:transition motion-safe:duration-200 motion-safe:hover:-translate-y-0.5 ${FOCUS_RING_ON_DARK}`}
         >
           <span aria-hidden="true" className="flex size-10 shrink-0 items-center justify-center rounded-full bg-[#25d366] text-marinho">
             <MessageCircle className="size-5" />

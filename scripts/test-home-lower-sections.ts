@@ -87,7 +87,14 @@ const recipesText = textOf(recipesHtml);
 assert.match(recipesHtml, /<h2 id="titulo-receitas"[^>]*>Receitas da Cecília<\/h2>/);
 assert.ok(recipesText.includes(`${recipes.length} receitas prontas para fazer`), 'o total sai dos dados');
 assert.equal(count(recipesHtml, /href="\/receitas\/[^"]+"/g), 4, 'um link por receita');
-assert.match(recipesHtml, /href="\/receitas"[^>]*>Ver todas as receitas</);
+// No celular, "Ver todas" ao lado do título; no desktop, o botão. O nome acessível é o mesmo.
+const allRecipesLink = linkTo(recipesHtml, '/receitas');
+assert.ok(allRecipesLink.includes('aria-label="Ver todas as receitas"'), 'o link de todas as receitas com o nome inteiro');
+assert.match(recipesHtml, /<span class="md:hidden">Ver todas<\/span><span class="hidden md:inline">Ver todas as receitas<\/span>/);
+// No celular, a descrição curta: a primeira frase só no desktop.
+assert.match(recipesHtml, /<span class="hidden md:inline">Bolos, doces, air fryer e o almoço de todo dia\. <\/span>/);
+// No celular, 2 receitas: a 3ª e a 4ª ficam no HTML, escondidas abaixo de 768 px.
+assert.equal(count(recipesHtml, /<li class="[^"]*\bmax-md:hidden\b/g), 2, 'a 3ª e a 4ª receitas somem no celular');
 for (const item of fallback) {
   assert.ok(recipesHtml.includes(`href="/receitas/${item.slug}"`));
   assert.ok(recipesText.includes(getRecipePrimaryCategory(item)), `categoria de ${item.slug}`);
