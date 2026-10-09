@@ -205,8 +205,9 @@ vídeo, primeiras impressões e uso noturno.
   - `.painel-entra` e `.carimbo` (troca de loja pelo lado da bolinha, em `--painel-de`, por
     `@starting-style`);
   - `.marca-texto` e `.revela` (rolagem). Seção de baixo nova usa o `HomeSection`, que já monta o
-    `RevealSection` e o título com o marca-texto; só uma seção fora dele usa o `RevealSection` no
-    lugar da `<section>` e põe o título num `<span className="marca-texto">`. Cada card leva
+    `RevealSection` e o título com o marca-texto; seção de baixo que não usa o `HomeSection` (hoje
+    `HomeLatest`, `HomeEvent` e `PopularRecipes`) usa o `RevealSection` no lugar da `<section>` e põe
+    o título num `<span className="marca-texto">`. Cada card leva
     `revela` e `--i`. O `RevealSection` só esconde depois de montar e só abaixo da tela; o
     `test:build-output` barra `data-reveal` no HTML do servidor.
 

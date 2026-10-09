@@ -146,6 +146,23 @@ for (const rule of revealRules) {
   );
 }
 
+// A entrada das bolinhas no celular e a troca de loja pelo lado (D2.1) também só com o movimento
+// liberado: a entrada no @media do celular, o @starting-style da troca dentro do de no-preference.
+const bubbleEntranceAt = css.search(/\.bolinha\{[^}]*bolinha-entra/);
+assert.ok(bubbleEntranceAt >= 0, 'CSS sem a entrada das bolinhas (bolinha-entra)');
+assert.match(
+  enclosingBlockHeader(css, bubbleEntranceAt),
+  /max-width:\s*47\.99rem\)\s*and\s*\(prefers-reduced-motion:\s*no-preference/,
+  'CSS com a entrada das bolinhas fora do @media do celular com movimento liberado'
+);
+const panelStartAt = css.search(/@starting-style\s*\{\s*\.painel-entra\{/);
+assert.ok(panelStartAt >= 0, 'CSS sem o @starting-style da troca de loja (.painel-entra)');
+assert.match(
+  enclosingBlockHeader(css, panelStartAt),
+  /prefers-reduced-motion:\s*no-preference/,
+  'CSS com a troca de loja fora do @media de prefers-reduced-motion: no-preference'
+);
+
 const sitemapBody = read(path.join(APP_DIR, 'sitemap.xml.body'));
 const sitemapUrls = [...sitemapBody.matchAll(/<loc>([^<]+)<\/loc>/g)].map(([, url]) => url);
 assert.ok(sitemapUrls.length > 0, 'sitemap.xml sem URLs');
@@ -685,6 +702,8 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
     about >= 0 && whatsappAt > about && cecilia.indexOf('<dl', whatsappAt) > whatsappAt,
     'painel da Cecília: o grupo de WhatsApp fora do lugar (depois de "Mais sobre mim", antes dos números)'
   );
+  // O pulso do grupo de WhatsApp acontece uma vez (WCAG 2.2.2), e só com o movimento liberado.
+  check(/\bmotion-safe:animate-\[pulse-subtle_[^\]\s]*_1\]/.test(whatsappTag), 'painel da Cecília: o pulso do WhatsApp sem parar depois de uma vez');
 
   // Um painel por loja ativa, inteiro: título, código com a dica e o rótulo exato do botão de copiar,
   // oferta, os dois links e a lista de artigos (ou o aviso de loja sem artigo).
@@ -781,7 +800,8 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
   if (explore.includes('aria-label="Ver próximas ofertas"')) {
     check(explore.includes('>Ver todas as ofertas</a>'), 'Explore a casa: ofertas sem o "Ver todas as ofertas"');
   }
-  check(!/E-book Air Fryer|Avise-me/.test(explore), 'Explore a casa: com o e-book');
+  // O e-book saiu. O carrossel fica de fora da busca: os títulos das ofertas vêm do feed.
+  check(!/E-book Air Fryer|Avise-me/.test(explore.replace(/<ul class="hide-scrollbar[\s\S]*?<\/ul>/, '')), 'Explore a casa: com o e-book');
 
   // O marca-texto em cada título das seções de baixo (e no "Acabou de sair"), e nada escondido pela
   // rolagem no HTML do servidor.
