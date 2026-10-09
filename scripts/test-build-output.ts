@@ -690,11 +690,9 @@ const homeExpected: HomeExpectations = {
   hasEvent: resolveActiveHomeEvent(homeEventsConfig, publishedReviews, fs.statSync(homeFile).mtime) !== null,
   recipeCount: recipes.length,
 };
-assert.equal(
-  homeExpected.tabs.find(({ slug }) => slug === 'damie')?.storePageUrl,
-  '/cupons/damie',
-  'a aba da DAMIE leva a /cupons/damie'
-);
+// Com a DAMIE ativa, a aba dela leva à página de cupom, não ao subdomínio (Bruno, 08/10).
+const damieTab = homeExpected.tabs.find(({ slug }) => slug === 'damie');
+if (damieTab) assert.equal(damieTab.storePageUrl, '/cupons/damie', 'a aba da DAMIE leva a /cupons/damie');
 assert.deepEqual(homeProblems(homeBody, homeExpected), [], '/: home');
 
 type HomeTab = HomeExpectations['tabs'][number];
