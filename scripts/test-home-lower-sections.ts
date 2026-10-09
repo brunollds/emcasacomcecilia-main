@@ -162,6 +162,8 @@ assert.ok(exploreOffersHtml.includes(`${linkTo(exploreOffersHtml, brandLinks.dic
 assert.ok(opensNewTab(linkTo(exploreOffersHtml, brandLinks.dicas)));
 assert.ok(!exploreOffersText.includes('Ver ofertas '), 'o card com ofertas não é mais o link de antes');
 assert.match(exploreOffersHtml, /<h3[^>]*>Dicas &amp; Ofertas<\/h3>/);
+assert.ok(exploreOffersText.includes('R$ 30,00') && !exploreOffersText.includes('de R$ 30,00'), 'preço igual ao antigo: só o preço');
+assert.ok(!/<a\b(?:(?!<\/a>)[\s\S])*<a\b/.test(exploreOffersHtml), 'nenhum link dentro de outro');
 
 // Carrossel do card do Dicas & Ofertas: só ofertas com foto, na ordem do feed; o card mostra a foto e o
 // preço, e o nome vai no alt da foto.
@@ -192,6 +194,8 @@ for (const id of ['c1', 'c3', 'c4']) {
 }
 assert.ok(carouselText.includes('de R$ 100,00 por R$ 79,90'), 'o leitor de tela ouve de … por …');
 assert.match(carouselHtml, /<s>R\$\s100,00<\/s>/, 'o preço antigo vai riscado');
+assert.equal(count(carouselHtml, /<s>/g), 2, 'riscado em c1 e em c3 (4%, sem selo); c4, sem preço, sem risco');
+assert.ok(carouselText.includes('de R$ 100,00 por R$ 96,00'), 'o preço antigo vai riscado mesmo sem selo');
 assert.ok(carouselHtml.includes('>−20%</span>'), 'o selo com o desconto arredondado');
 assert.equal(count(carouselHtml, />−\d+%<\/span>/g), 1, 'selo só acima de 5%');
 assert.match(carouselHtml, /<span aria-hidden="true" class="[^"]*bg-laranja[^"]*">−20%<\/span>/, 'o selo é decorativo');
@@ -333,7 +337,8 @@ assert.equal(count(withoutThumbnailHtml, /<img/g), 1, 'sem miniatura nenhuma, o 
 assert.equal(count(withoutThumbnailHtml, /<li[\s>]/g), 2, 'e continua na fila');
 assert.equal(render(createElement(LatestVideos, { videos: [] })), '', 'sem vídeo, sem seção');
 
-// Ofertas e vídeos somem sem o feed ou sem a API, e o build não os cobra: a home tem de montá-los.
+// Sem o feed, o card do Dicas & Ofertas volta a ser o link; sem a API, os vídeos somem. O build não cobra
+// nenhum dos dois: a home tem de montá-los.
 const homeSource = readFileSync(resolve(process.cwd(), 'src', 'app', '(pt)', 'page.js'), 'utf8');
 // Uma linha só com a tag: dentro de um comentário {/* … */} ela não conta.
 assert.match(homeSource, /^\s*<MyLinks offers=\{featuredOffers\} \/>\s*$/m, 'a home não passa as ofertas ao Explore a casa');
