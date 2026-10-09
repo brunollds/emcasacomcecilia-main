@@ -136,12 +136,12 @@ export function HomeCeciliaPanel() {
             href="/sobre"
             placement="home_cecilia"
             linkLabel="Mais sobre mim"
-            className={`flex min-h-11 items-center gap-2 rounded-full bg-laranja px-4 text-sm font-extrabold text-marinho md:min-h-12 md:px-[22px] md:text-[15px] ${FOCUS_RING_ON_DARK}`}
+            className={`flex min-h-11 items-center gap-2 rounded-full bg-laranja px-4 text-[13px] font-extrabold text-marinho md:min-h-12 md:px-[22px] md:text-[15px] ${FOCUS_RING_ON_DARK}`}
           >
             Mais sobre mim
-            <ArrowRight aria-hidden="true" className="size-[18px]" strokeWidth={2.4} />
+            <ArrowRight aria-hidden="true" className="hidden size-[18px] md:block" strokeWidth={2.4} />
           </TrackedHomeLink>
-          <div className="flex gap-2">
+          <div className="flex gap-1.5 md:gap-2">
             {SOCIAL_LINKS.map(({ name, href }) => (
               <TrackedHomeLink
                 key={name}
@@ -151,7 +151,7 @@ export function HomeCeciliaPanel() {
                 placement="home_cecilia"
                 linkLabel={name}
                 aria-label={`${name} da Cecília`}
-                className={`flex size-11 items-center justify-center rounded-full border-[1.5px] border-white/25 text-laranja hover:border-laranja motion-safe:transition motion-safe:duration-200 motion-safe:hover:-translate-y-0.5 ${FOCUS_RING_ON_DARK}`}
+                className={`flex size-10 md:size-11 items-center justify-center rounded-full border-[1.5px] border-white/25 text-laranja hover:border-laranja motion-safe:transition motion-safe:duration-200 motion-safe:hover:-translate-y-0.5 ${FOCUS_RING_ON_DARK}`}
               >
                 <SocialIcon name={name} className="size-[18px]" />
               </TrackedHomeLink>

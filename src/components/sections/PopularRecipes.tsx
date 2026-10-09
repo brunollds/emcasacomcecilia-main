@@ -48,7 +48,7 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
           <Link
             href="/receitas"
             aria-label="Ver todas as receitas"
-            className={`flex min-h-11 shrink-0 items-center self-start text-[13px] font-extrabold underline underline-offset-[3px] md:min-h-12 md:self-auto md:rounded-[10px] md:border-2 md:border-marinho md:bg-white md:px-7 md:text-[15px] md:no-underline md:hover:bg-marinho md:hover:text-white motion-safe:transition-colors ${FOCUS_RING}`}
+            className={`flex min-h-11 shrink-0 items-center self-start -mt-2 md:mt-0 text-[13px] font-extrabold underline underline-offset-[3px] md:min-h-12 md:self-auto md:rounded-[10px] md:border-2 md:border-marinho md:bg-white md:px-7 md:text-[15px] md:no-underline md:hover:bg-marinho md:hover:text-white motion-safe:transition-colors ${FOCUS_RING}`}
           >
             <span className="md:hidden">Ver todas</span>
             <span className="hidden md:inline">Ver todas as receitas</span>
