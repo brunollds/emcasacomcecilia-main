@@ -1,4 +1,6 @@
 import type { Metadata } from 'next';
+import { getCouponBySlug } from '@/lib/couponsData';
+import { SITE_NAME, SITE_SOCIAL_IMAGE, getStoreSocialImage } from '@/lib/pageSeo';
 import {
   getYesStyleLocaleConfig,
   getYesStyleArticle,
@@ -298,6 +300,11 @@ export function getYesStyleMetadata(locale: string): Metadata {
   }
   languages['x-default'] = 'https://emcasacomcecilia.com/en/coupons/yesstyle';
 
+  // O logo da YesStyle, como nas outras lojas, com o nome da marca de alt, que vale nos 10 idiomas.
+  // Com a loja pausada em couponsData, fica o logo do site.
+  const store = getCouponBySlug('yesstyle');
+  const image = store ? { url: getStoreSocialImage(store).url, alt: 'YesStyle' } : SITE_SOCIAL_IMAGE;
+
   return {
     title: resolved.title,
     description: resolved.description,
@@ -310,7 +317,15 @@ export function getYesStyleMetadata(locale: string): Metadata {
       description: resolved.description,
       url: canonical,
       locale: config.openGraphLocale,
+      siteName: SITE_NAME,
       type: 'website',
+      images: [image],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: resolved.title,
+      description: resolved.description,
+      images: [image.url],
     },
   };
 }

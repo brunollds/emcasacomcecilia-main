@@ -5,7 +5,7 @@ import { getCouponLanguageLinks, getCouponStorePath } from '@/lib/couponTranslat
 import { getOtherActiveCoupons, type Coupon } from '@/lib/couponsData';
 import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
 import { getShellHomeHref } from '@/lib/i18n/shellDictionary';
-import { SITE_URL, absoluteUrl, getStoreSocialImage } from '@/lib/pageSeo';
+import { SITE_NAME, SITE_URL, absoluteUrl, getStoreSocialImage } from '@/lib/pageSeo';
 import { CopyCodeButton, CouponDock } from './CouponActions';
 import {
   BODY_TEXT,
@@ -77,6 +77,7 @@ export function getCouponStoreMetadata(coupon: Coupon, locale: Locale): Metadata
       description: coupon.metaDescription,
       url: path,
       locale: LOCALES[locale].openGraphLocale,
+      siteName: SITE_NAME,
       type: 'article',
       images: [
         {
@@ -140,9 +141,8 @@ function getJsonLd(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {
           reviewedBy: { '@type': 'Organization', name: 'Em Casa com Cecília', url: SITE_URL },
         }
       : {}),
-    primaryImageOfPage: coupon.socialImage
-      ? `${SITE_URL}${coupon.socialImage}`
-      : undefined,
+    // A mesma imagem do compartilhamento, pelo endereço de entrega.
+    primaryImageOfPage: getStoreSocialImage(coupon).url,
   };
 
   const faq = {
