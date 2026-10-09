@@ -1,6 +1,8 @@
+import type { CSSProperties } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { FOCUS_RING } from '@/components/ui/focusRing';
+import { RevealSection } from '@/components/ui/RevealSection';
 import { ViewTransitionLink } from '@/components/ViewTransitionLink';
 import { getRecipeImage, getRecipePrimaryCategory, recipes, type Recipe } from '@/lib/data';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
@@ -29,7 +31,7 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
   const popularRecipes = selectPopularRecipes(recipes, popularSlugs);
 
   return (
-    <section aria-labelledby="titulo-receitas" className="pb-8 md:pb-10">
+    <RevealSection aria-labelledby="titulo-receitas" className="pb-8 md:pb-10">
       <div className="mx-auto w-full max-w-[1200px] md:px-10">
         <div className="flex flex-wrap items-end justify-between gap-x-6 gap-y-3.5 border-y-2 border-marinho bg-amarelo-cupom px-4 py-5 text-marinho md:gap-y-5 md:rounded-[14px] md:border-2 md:px-8 md:py-7">
           <div className="flex min-w-0 flex-1 flex-col gap-2">
@@ -37,7 +39,7 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
               id="titulo-receitas"
               className="font-condensada text-[28px] leading-none font-black font-stretch-extra-condensed md:text-[44px]"
             >
-              Receitas da Cecília
+              <span className="marca-texto [--marca-texto:#fff]">Receitas da Cecília</span>
             </h2>
             <p className="max-w-[60ch] text-sm leading-5 font-medium md:text-[15px] md:leading-[22px]">
               <span className="hidden md:inline">Bolos, doces, air fryer e o almoço de todo dia. </span>
@@ -57,8 +59,8 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
             {popularRecipes.map((recipe, index) => (
               <li
                 key={recipe.id}
-                className={`flex motion-safe:animate-[slide-up_0.5s_ease-out_backwards] ${index >= MOBILE_RECIPE_COUNT ? 'max-md:hidden' : ''}`}
-                style={{ animationDelay: `${index * 0.1}s` }}
+                className={`revela flex${index >= MOBILE_RECIPE_COUNT ? ' max-md:hidden' : ''}`}
+                style={{ '--i': index } as CSSProperties}
               >
                 <RecipeCard recipe={recipe} />
               </li>
@@ -66,7 +68,7 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
           </ul>
         </div>
       </div>
-    </section>
+    </RevealSection>
   );
 }
 

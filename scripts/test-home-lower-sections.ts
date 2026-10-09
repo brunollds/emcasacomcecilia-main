@@ -84,7 +84,7 @@ assert.ok(fallback.every(({ isPopular }) => isPopular));
 // Receitas: a faixa renderizada.
 const recipesHtml = render(createElement(PopularRecipes, {}));
 const recipesText = textOf(recipesHtml);
-assert.match(recipesHtml, /<h2 id="titulo-receitas"[^>]*>Receitas da Cecília<\/h2>/);
+assert.match(recipesHtml, /<h2 id="titulo-receitas"[^>]*><span class="marca-texto \[--marca-texto:#fff\]">Receitas da Cecília<\/span><\/h2>/);
 assert.ok(recipesText.includes(`${recipes.length} receitas prontas para fazer`), 'o total sai dos dados');
 assert.equal(count(recipesHtml, /href="\/receitas\/[^"]+"/g), 4, 'um link por receita');
 // No celular, "Ver todas" ao lado do título; no desktop, o botão. O nome acessível é o mesmo.
@@ -102,8 +102,10 @@ for (const item of fallback) {
 }
 assert.equal(count(recipesHtml, /view-transition-name:recipe-hero-/g), 4, 'a foto do card vai até o topo da receita');
 assert.equal(count(recipesHtml, /<img[^>]* alt=""/g), 4, 'a foto é decorativa: o título está no link');
-assert.ok(recipesHtml.includes('motion-safe:animate-[slide-up_0.5s_ease-out_backwards]'), 'a entrada dos cards fica, com motion-safe');
-assert.ok(!recipesHtml.includes('animate-slide-up'), 'sem a classe que ignora o movimento reduzido');
+// Os cards entram na rolagem (.revela), não mais na carga; nada nasce escondido no HTML do servidor.
+assert.equal(count(recipesHtml, /<li class="[^"]*\brevela\b[^"]*" style="--i:\d"/g), 4, 'os 4 cards com a entrada da rolagem');
+assert.ok(!recipesHtml.includes('slide-up'), 'a entrada na carga saiu');
+assert.ok(!recipesHtml.includes('data-reveal'), 'nada escondido no HTML do servidor');
 assert.ok(!recipesText.includes('Receitas Favoritas') && !recipesText.includes('Mais Amadas'), 'o visual antigo saiu');
 
 const notPopular = recipes.find(({ isPopular }) => !isPopular);
@@ -130,7 +132,7 @@ const offer = (id: string, fields: Partial<Offer>): Offer => ({
 // link de antes.
 const exploreHtml = render(createElement(MyLinks, { offers: [offer('s1', { originalPrice: 30, discountPrice: 20 })] }));
 const exploreText = textOf(exploreHtml);
-assert.match(exploreHtml, /<h2 id="titulo-explore-a-casa"[^>]*>Explore a casa<\/h2>/);
+assert.match(exploreHtml, /<h2 id="titulo-explore-a-casa"[^>]*><span class="marca-texto">Explore a casa<\/span><\/h2>/);
 assert.equal(count(exploreHtml, /<li[\s>]/g), 2, 'DAMIE e Dicas & Ofertas');
 assert.ok(opensNewTab(linkTo(exploreHtml, brandLinks.damie)), 'a DAMIE abre o site dela em outra aba');
 const damie = getCouponBySlug('damie');
@@ -311,7 +313,7 @@ const videosHtml = render(
   createElement(LatestVideos, { videos: ['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7'].map((id) => video(id)) })
 );
 const videosText = textOf(videosHtml);
-assert.match(videosHtml, /<h2 id="titulo-ultimos-videos"[^>]*>Últimos vídeos<\/h2>/);
+assert.match(videosHtml, /<h2 id="titulo-ultimos-videos"[^>]*><span class="marca-texto">Últimos vídeos<\/span><\/h2>/);
 assert.equal(count(videosHtml, /<li[\s>]/g), 6, 'no máximo 6, uma linha no desktop');
 assert.ok(!videosText.includes('Vídeo v7'));
 assert.ok(opensNewTab(linkTo(videosHtml, 'https://www.youtube.com/watch?v=v1')));
