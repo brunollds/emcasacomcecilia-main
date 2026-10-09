@@ -27,7 +27,7 @@ export function LocaleHomeHero({ hero }: { hero: LocaleHomeContent['hero'] }) {
         </h1>
 
         <div className="pt-2 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:self-center lg:px-2 lg:pt-[18px] lg:pb-2">
-          <CeciliaPhotoCard instagramFollowers={instagramFollowers} copy={hero.photo} placement="locale_home_hero" />
+          <CeciliaPhotoCard instagramFollowers={instagramFollowers} copy={hero.photo} placement="locale_home_hero" eager />
         </div>
 
         <div className="col-span-2 flex flex-col gap-[18px] lg:col-span-1 lg:col-start-1 lg:row-start-2 lg:gap-[22px] lg:self-start">

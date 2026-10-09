@@ -58,10 +58,12 @@ type CeciliaPhotoCardProps = {
   instagramFollowers?: string;
   copy: CeciliaPhotoCopy;
   placement: HomeRoutePlacement;
+  // Na home de cada idioma a foto é o LCP no desktop; no PT o LCP é a imagem do story.
+  eager?: boolean;
 };
 
 // O painel é marinho: o foco fica amarelo, menos dentro do cartão de foto, que é branco.
-export function CeciliaPhotoCard({ instagramFollowers, copy, placement }: CeciliaPhotoCardProps) {
+export function CeciliaPhotoCard({ instagramFollowers, copy, placement, eager = false }: CeciliaPhotoCardProps) {
   return (
     <figure className="relative mx-auto w-full rotate-2 rounded-lg bg-white px-1.5 pt-1.5 pb-2 shadow-[0_18px_40px_rgb(0_0_0/0.35)] motion-safe:transition-transform motion-safe:duration-350 motion-safe:hover:-translate-y-1 motion-safe:hover:rotate-0 lg:max-w-[340px] lg:px-3 lg:pt-3 lg:pb-3.5">
       <span
@@ -73,6 +75,8 @@ export function CeciliaPhotoCard({ instagramFollowers, copy, placement }: Cecili
           src={CECILIA_PHOTO}
           alt={copy.alt}
           fill
+          loading={eager ? 'eager' : 'lazy'}
+          fetchPriority={eager ? 'high' : 'auto'}
           sizes="(min-width: 1024px) 316px, (min-width: 768px) 168px, 106px"
           className="object-cover motion-safe:animate-[ken-burns_24s_ease-in-out_infinite]"
         />
