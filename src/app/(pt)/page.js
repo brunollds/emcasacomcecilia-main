@@ -12,6 +12,7 @@ import { getFeaturedOffers } from '@/lib/dicasOffers';
 import { getPopularRecipeSlugs } from '@/lib/popularRecipeStats';
 import { publishedReviews } from '@/lib/data';
 import { resolveActiveHomeEvent } from '@/lib/homeEvents';
+import { getHomeLanguageLinks } from '@/lib/localeHome';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const HOME_LOGO_URL = new URL(
@@ -26,6 +27,8 @@ export const metadata = {
   description: 'Receitas fáceis que dão certo, reviews sinceros, dicas de casa e vídeos da Cecília para deixar a rotina mais prática e gostosa.',
   alternates: {
     canonical: '/',
+    // A raiz e as homes de cada idioma (/en, /ja…) se apontam umas para as outras.
+    languages: getHomeLanguageLinks(),
   },
   openGraph: {
     title: 'Em Casa com Cecília - Receitas Práticas e Deliciosas',
