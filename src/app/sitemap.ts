@@ -4,7 +4,7 @@ import { recipes, publishedReviews } from '@/lib/data';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { getActiveCoupons, getCouponBySlug } from '@/lib/couponsData';
 import { getCouponStorePath, getTranslatedCouponRoutes } from '@/lib/couponTranslations';
-import { getStoreArticlePageSlugs } from '@/lib/homeStores';
+import { getStoreArticlePageSlugs, getStoreArticlesPage } from '@/lib/homeStores';
 import { getEventHubPaths } from '@/lib/homeEvents';
 import { YESSTYLE_LOCALES } from '@/lib/i18n/clusters/yesstyle';
 import { REVIEW_HUB_LOCALES, getReviewHubPath } from '@/lib/review-hubs';
@@ -13,6 +13,15 @@ import { isoDurationToSeconds, videoPages } from '@/lib/video-pages';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const BASE_URL = 'https://emcasacomcecilia.com';
+
+// A data mais nova dos artigos de uma página: a da atualização, ou a da publicação (AAAA-MM-DD).
+function newestDate(articles: readonly { updatedAt?: string; publishedAtISO?: string }[]) {
+  return articles
+    .map((article) => article.updatedAt ?? article.publishedAtISO)
+    .filter((date): date is string => Boolean(date))
+    .sort()
+    .at(-1);
+}
 
 const staticRoutes: MetadataRoute.Sitemap = [
   { url: BASE_URL, priority: 1.0, changeFrequency: 'daily' },
@@ -47,6 +56,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     url: `${BASE_URL}/reviews/loja/${slug}`,
     priority: 0.6,
     changeFrequency: 'weekly' as const,
+    lastModified: newestDate(getStoreArticlesPage(publishedReviews, slug)?.articles ?? []),
   }));
 
   // Página fixa de cada data comercial com edição em content/home-events.json (fora do menu).

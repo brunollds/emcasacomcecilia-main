@@ -99,9 +99,8 @@ assert.match(css, /@starting-style\{\.starting\\:open\\:translate-y-full/, 'CSS 
 assert.match(css, /\.backdrop\\:bg-marinho\\\/55::backdrop\{/, 'CSS sem o fundo da gaveta (::backdrop)');
 assert.match(css, /\.transition-discrete\{transition-behavior:allow-discrete/, 'CSS sem o transition-discrete da gaveta');
 
-const sitemapUrls = [...read(path.join(APP_DIR, 'sitemap.xml.body')).matchAll(/<loc>([^<]+)<\/loc>/g)].map(
-  ([, url]) => url
-);
+const sitemapBody = read(path.join(APP_DIR, 'sitemap.xml.body'));
+const sitemapUrls = [...sitemapBody.matchAll(/<loc>([^<]+)<\/loc>/g)].map(([, url]) => url);
 assert.ok(sitemapUrls.length > 0, 'sitemap.xml sem URLs');
 assert.deepEqual(
   sitemapUrls.filter((url, index) => sitemapUrls.indexOf(url) !== index),
@@ -699,7 +698,7 @@ const articleTab = storeWhere('com artigo', (tab) => tab.articles.length > 0);
 
 // Os links de artigo do "Acabou de sair" na ordem do HTML: primeiro a lista do celular, depois a grade.
 const latestStart = homeBody.indexOf(LATEST_SECTION);
-const articleLinks = [...homeBody.matchAll(/href="\/reviews\/[^"]+"/g)].filter((link) => link.index > latestStart);
+const latestLinks = [...homeBody.matchAll(/href="\/reviews\/[^"]+"/g)].filter((link) => link.index > latestStart);
 const latestCount = homeExpected.latest.length;
 const replaceLink = (link: RegExpMatchArray, text: string) =>
   homeBody.slice(0, link.index) + text + homeBody.slice(link.index + link[0].length);
@@ -733,11 +732,11 @@ const brokenHomes = [
   homeBody.replace(LATEST_SECTION, `${LATEST_SECTION}><a href="/reviews/artigo-a-mais"></a`),
   homeBody.replace('id="painel-loja-shein"', 'id="painel-loja-shein"><span>Cupom SHEIN</span'),
   // Fora de ordem, sem um artigo ou com um artigo repetido em só um dos desenhos: a lista do celular e a grade.
-  swapLinks(articleLinks[0], articleLinks[1]),
-  swapLinks(articleLinks[latestCount], articleLinks[latestCount + 1]),
-  replaceLink(articleLinks[2 * latestCount - 1], 'href="/outra"'),
-  doubleLink(articleLinks[0]),
-  doubleLink(articleLinks[latestCount]),
+  swapLinks(latestLinks[0], latestLinks[1]),
+  swapLinks(latestLinks[latestCount], latestLinks[latestCount + 1]),
+  replaceLink(latestLinks[2 * latestCount - 1], 'href="/outra"'),
+  doubleLink(latestLinks[0]),
+  doubleLink(latestLinks[latestCount]),
   // O painel de uma loja por inteiro, uma mutação por trava: o rótulo do botão de copiar (a YesStyle
   // não tem cupom), o código, a dica, a oferta, o link da loja e os artigos. O texto de dados é escapado
   // como o React o escreve.
@@ -780,8 +779,8 @@ for (const { html, expected } of wrongExpectations) {
   assert.ok(homeProblems(html, expected).length > 0, 'o guarda da home deixou passar uma home errada');
 }
 
-// Subpágina de cada loja com mais de 3 artigos: o h1, o canonical, um card por artigo e o link da
-// página da loja.
+// Subpágina de cada loja com mais de 3 artigos: o h1, o canonical, um card por artigo (com o anel de
+// foco), o link da página da loja, o h2 só para leitor de tela e a data no sitemap.
 const storeArticleSlugs = getStoreArticlePageSlugs(publishedReviews);
 for (const slug of storeArticleSlugs) {
   const page = getStoreArticlesPage(publishedReviews, slug);
@@ -796,6 +795,17 @@ for (const slug of storeArticleSlugs) {
   const cardSlugs = new Set([...body.matchAll(/href="\/reviews\/([^"/]+)"/g)].map(([, cardSlug]) => cardSlug));
   assert.deepEqual([...cardSlugs].sort(), page.articles.map((article) => article.slug).sort(), `${pagePath}: um card por artigo da loja`);
   assert.ok(body.includes(hrefOf(page.storePageUrl)), `${pagePath}: sem o link de ${page.storePageUrl}`);
+  assert.ok(body.includes('<h2 class="sr-only">Lista de artigos</h2>'), `${pagePath}: sem o h2 "Lista de artigos" entre o h1 e os h3 dos cards`);
+  const cardTags = [...body.matchAll(/<a\b[^>]*\bhref="\/reviews\/[^"/]+"[^>]*>/g)].map(([tag]) => tag);
+  assert.equal(cardTags.length, page.articles.length, `${pagePath}: um link por card`);
+  for (const tag of cardTags) {
+    assert.match(tag, /\bclass="[^"]* focus-visible:outline-marinho[ "]/, `${pagePath}: card sem o anel de foco da casa: ${tag}`);
+  }
+  // O lastmod da subpágina é a data do artigo mais novo: a da atualização, ou a da publicação.
+  const newestDate = page.articles.map((article) => article.updatedAt ?? article.publishedAtISO).filter(Boolean).sort().at(-1);
+  assert.ok(newestDate, `${pagePath}: nenhum artigo com data`);
+  const sitemapEntry = sitemapBody.split('<url>').find((chunk) => chunk.includes(`<loc>${SITE_URL}${pagePath}</loc>`));
+  assert.equal(sitemapEntry?.match(/<lastmod>([^<]+)<\/lastmod>/)?.[1], newestDate, `${pagePath}: lastmod no sitemap.xml`);
 }
 
 // Página de cada data com edição no home-events.json: o h1, o canonical e um card por artigo, com o

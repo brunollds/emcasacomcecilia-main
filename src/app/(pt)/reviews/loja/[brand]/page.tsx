@@ -59,6 +59,7 @@ export default async function StoreArticlesPage({ params }: StoreArticlesPagePro
 
       <section className="px-6 py-8 md:py-10">
         <div className="mx-auto max-w-7xl">
+          <h2 className="sr-only">Lista de artigos</h2>
           <div className="grid grid-cols-2 gap-4 md:grid-cols-3 md:gap-6 xl:grid-cols-4">
             {page.articles.map(toHomeReviewCard).map((review, index) => (
               <ReviewHubCard key={review.id} review={review} index={index} />

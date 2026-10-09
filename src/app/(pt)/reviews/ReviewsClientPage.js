@@ -100,6 +100,7 @@ export default function ReviewsClientPage({ reviews }) {
 
       <section className="px-6 py-8 md:py-10">
         <div className="mx-auto max-w-7xl">
+          <h2 className="sr-only">Lista de conteúdos</h2>
           {/* Filtros */}
           <div className="mb-8 flex flex-wrap items-center gap-2">
             {categoryFilters.map(({ value, label }) => (

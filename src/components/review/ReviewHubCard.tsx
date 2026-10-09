@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import { ViewTransitionLink } from '@/components/ViewTransitionLink';
+import { FOCUS_RING } from '@/components/ui/focusRing';
 import type { HomeReviewCard } from '@/lib/reviewDiscovery';
 import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
@@ -44,10 +45,10 @@ export function ReviewHubCard({ review, index }: { review: HomeReviewCard; index
   return (
     <ViewTransitionLink
       href={`/reviews/${review.slug}`}
-      className="group block animate-slide-up"
+      className={`group block motion-safe:animate-[slide-up_0.5s_ease-out] ${FOCUS_RING}`}
       style={{ animationDelay: `${(index % 8) * 0.05}s` }}
     >
-      <article className="transition-all duration-500 group-hover:-translate-y-2">
+      <article className="motion-safe:transition-transform motion-safe:duration-500 motion-safe:group-hover:-translate-y-2">
         <div
           className="relative mb-4 aspect-[5/6] overflow-hidden rounded-[2rem] shadow-soft transition-all duration-500 group-hover:shadow-large"
           style={{ viewTransitionName: `review-hero-${sanitizeViewTransitionName(review.slug)}` }}
@@ -57,13 +58,13 @@ export function ReviewHubCard({ review, index }: { review: HomeReviewCard; index
               src={resolveMediaUrl(review.image)}
               alt={review.imageAlt || review.title}
               fill
-              className={`transition-transform duration-700 ease-out group-hover:scale-110 ${imageFitClass(review)}`}
+              className={`motion-safe:transition-transform motion-safe:duration-700 motion-safe:ease-out motion-safe:group-hover:scale-110 ${imageFitClass(review)}`}
               style={review.imagePosition && usesPosition ? { objectPosition: OBJECT_POSITION[review.imagePosition] } : undefined}
               sizes="(max-width: 768px) 50vw, (max-width: 1280px) 33vw, 25vw"
             />
           ) : (
             <div
-              className="absolute inset-0 transition-transform duration-700 group-hover:scale-110"
+              className="absolute inset-0 motion-safe:transition-transform motion-safe:duration-700 motion-safe:group-hover:scale-110"
               style={{ background: `linear-gradient(160deg, ${accent}18 0%, ${accent}30 42%, #0f1d3a 100%)` }}
             />
           )}
@@ -74,7 +75,7 @@ export function ReviewHubCard({ review, index }: { review: HomeReviewCard; index
           <div className="absolute left-4 top-4">
             <div className="flex flex-wrap gap-2">
               {review.isNew && (
-                <span className="inline-flex items-center rounded-full bg-[#ff6b35] px-3 py-1.5 text-[10px] font-black uppercase tracking-[0.2em] text-white shadow-lg">
+                <span className="inline-flex items-center rounded-full bg-[#ff6b35] px-3 py-1.5 text-[10px] font-black uppercase tracking-[0.2em] text-marinho shadow-lg">
                   Novo
                 </span>
               )}
@@ -85,7 +86,7 @@ export function ReviewHubCard({ review, index }: { review: HomeReviewCard; index
           </div>
 
           {!review.image && (
-            <div className="absolute inset-0 flex items-center justify-center text-5xl transition-transform duration-700 group-hover:scale-110">
+            <div className="absolute inset-0 flex items-center justify-center text-5xl motion-safe:transition-transform motion-safe:duration-700 motion-safe:group-hover:scale-110">
               {icon}
             </div>
           )}
@@ -99,7 +100,7 @@ export function ReviewHubCard({ review, index }: { review: HomeReviewCard; index
           <h3 className="font-heading text-lg font-bold leading-tight text-[#0f1419] transition-colors duration-300 group-hover:text-[#1a4d2e] md:text-xl">
             {review.title}
           </h3>
-          <div className="mt-2 h-0.5 w-0 bg-[#ff6b35] transition-all duration-500 group-hover:w-12" />
+          <div className="mt-2 h-0.5 w-0 bg-[#ff6b35] group-hover:w-12 motion-safe:transition-[width] motion-safe:duration-500" />
         </div>
       </article>
     </ViewTransitionLink>
