@@ -102,7 +102,7 @@ export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect }: HomeS
         strip.scrollBy({ left: NUDGE_PX, behavior: 'smooth' });
         timers.push(
           window.setTimeout(() => {
-            if (!touched.current) strip.scrollBy({ left: -NUDGE_PX, behavior: 'smooth' });
+            if (!touched.current) strip.scrollTo({ left: 0, behavior: 'smooth' });
           }, NUDGE_BACK_MS)
         );
       }, NUDGE_DELAY_MS)
