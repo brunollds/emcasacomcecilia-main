@@ -23,7 +23,7 @@ import {
 } from '../src/lib/homeStores';
 import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
 import { LOCALES, LOCALE_KEYS, type Locale } from '../src/lib/i18n/locales';
-import { SITE_NAME, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
+import { SITE_NAME, SITE_SOCIAL_IMAGE, absoluteMediaUrl, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
@@ -807,11 +807,11 @@ const reviewsFile = builtFile(`${SITE_URL}/reviews`);
 assert.ok(reviewsFile, '/reviews: página não gerada no build');
 assertHubCards('/reviews', bodyOf(read(reviewsFile)), 'Lista de conteúdos');
 
-// O <head> e o JSON-LD de uma página que lista artigos (subpágina de loja e página de data): a mesma
-// imagem no Open Graph e no cartão do X, o nome do site, o idioma, um CollectionPage com um item por
-// artigo e um BreadcrumbList que termina na página. Sem `image`, basta uma imagem https com texto
-// alternativo: na página de data a capa depende das datas dos artigos.
-function assertListPageSeo(pagePath: string, html: string, expected: { items: number; image?: SocialImage }) {
+// O <head> e o JSON-LD de uma página que lista artigos (subpágina de loja e página de data): o
+// og:image é uma das imagens esperadas, com o alt dela, e o cartão do X leva a mesma; depois o nome do
+// site, o idioma, um CollectionPage com um item por artigo e um BreadcrumbList que termina na página.
+// Na página de data a capa depende das datas dos artigos, então ela passa uma imagem por card.
+function assertListPageSeo(pagePath: string, html: string, expected: { items: number; images: SocialImage[] }) {
   const head = headOf(html);
   const metaOf = (key: string) =>
     decodeHtml(head.match(new RegExp(`<meta (?:property|name)="${key}" content="([^"]*)"`))?.[1] ?? '');
@@ -819,13 +819,9 @@ function assertListPageSeo(pagePath: string, html: string, expected: { items: nu
   assert.ok(canonical, `${pagePath}: sem canonical`);
 
   const image = metaOf('og:image');
-  if (expected.image) {
-    assert.equal(image, expected.image.url, `${pagePath}: og:image`);
-    assert.equal(metaOf('og:image:alt'), expected.image.alt, `${pagePath}: og:image:alt`);
-  } else {
-    assert.match(image, /^https:\/\/\S+$/, `${pagePath}: og:image sem endereço absoluto`);
-    assert.notEqual(metaOf('og:image:alt'), '', `${pagePath}: og:image:alt vazio`);
-  }
+  const match = expected.images.find((candidate) => candidate.url === image);
+  assert.ok(match, `${pagePath}: og:image fora das imagens esperadas (${image || 'ausente'})`);
+  assert.equal(metaOf('og:image:alt'), match.alt, `${pagePath}: og:image:alt`);
   assert.equal(metaOf('twitter:image'), image, `${pagePath}: twitter:image diferente do og:image`);
   assert.equal(metaOf('og:site_name'), SITE_NAME, `${pagePath}: og:site_name`);
   assert.equal(metaOf('og:locale'), LOCALES.pt.openGraphLocale, `${pagePath}: og:locale`);
@@ -838,16 +834,20 @@ function assertListPageSeo(pagePath: string, html: string, expected: { items: nu
   assert.equal(breadcrumb?.itemListElement?.at(-1)?.item, canonical, `${pagePath}: último item do BreadcrumbList`);
 }
 
-// O guarda passa no HTML certo (com e sem a imagem esperada) e falha em cada defeito: cartão do X com
-// outra imagem, imagem sem endereço absoluto, página sem nome do site ou com outro idioma, lista de
-// outro tamanho e CollectionPage ou BreadcrumbList que apontam para outra página.
+// O guarda passa no HTML certo (com uma ou várias imagens esperadas, inclusive o logo do site) e falha em
+// cada defeito, com a mensagem do defeito e nenhuma outra: og:image fora das esperadas (sozinho ou junto
+// com o cartão do X), cartão do X com outra imagem, alt trocado, de outra imagem ou vazio, página sem nome
+// do site ou com outro idioma, lista de outro tamanho e CollectionPage ou BreadcrumbList que apontam para
+// outra página.
 {
   const page = '/reviews/loja/fixture';
   const canonical = `${SITE_URL}${page}`;
   const image = { url: 'https://cdn.emcasacomcecilia.com/v1/image/fixture.webp', alt: 'Capa de teste' };
+  const other = 'https://cdn.emcasacomcecilia.com/v1/image/outra.webp';
   const right = {
     ogImage: image.url,
     twitterImage: image.url,
+    alt: image.alt,
     siteName: SITE_NAME,
     locale: 'pt_BR',
     items: 2,
@@ -855,7 +855,7 @@ function assertListPageSeo(pagePath: string, html: string, expected: { items: nu
     lastCrumb: canonical,
   };
   const fixture = (defect: Partial<typeof right> = {}) => {
-    const { ogImage, twitterImage, siteName, locale, items, collectionUrl, lastCrumb } = { ...right, ...defect };
+    const { ogImage, twitterImage, alt, siteName, locale, items, collectionUrl, lastCrumb } = { ...right, ...defect };
     const itemList = Array.from({ length: items }, (_, index) => ({ '@type': 'ListItem', position: index + 1 }));
     const schemas = [
       { '@type': 'CollectionPage', url: collectionUrl, mainEntity: { '@type': 'ItemList', itemListElement: itemList } },
@@ -864,27 +864,40 @@ function assertListPageSeo(pagePath: string, html: string, expected: { items: nu
     return [
       `<head><link rel="canonical" href="${canonical}"/>`,
       `<meta property="og:site_name" content="${siteName}"/><meta property="og:locale" content="${locale}"/>`,
-      `<meta property="og:image" content="${ogImage}"/><meta property="og:image:alt" content="${image.alt}"/>`,
+      `<meta property="og:image" content="${ogImage}"/><meta property="og:image:alt" content="${alt}"/>`,
       `<meta name="twitter:image" content="${twitterImage}"/></head>`,
       `<body>${schemas.map((schema) => `<script type="application/ld+json">${JSON.stringify(schema)}</script>`).join('')}</body>`,
     ].join('');
   };
-  assertListPageSeo(page, fixture(), { items: 2, image });
-  assertListPageSeo(page, fixture(), { items: 2 });
+  const images = [image];
+  assertListPageSeo(page, fixture(), { items: 2, images });
+  // Página de data: várias capas possíveis e o logo do site; cada imagem leva o alt dela.
+  const siteLogo = { url: 'https://cdn.emcasacomcecilia.com/v1/image/logo.png', alt: SITE_NAME };
+  const covers = [{ url: other, alt: 'Outro artigo' }, image, siteLogo];
+  assertListPageSeo(page, fixture(), { items: 2, images: covers });
+  assertListPageSeo(page, fixture({ ogImage: siteLogo.url, twitterImage: siteLogo.url, alt: SITE_NAME }), { items: 2, images: covers });
   const failures: Array<[string, RegExp, string]> = [
-    [fixture({ ogImage: 'https://cdn.emcasacomcecilia.com/outra.webp' }), /og:image/, 'og:image de outra loja passa'],
-    [fixture({ twitterImage: 'https://cdn.emcasacomcecilia.com/outra.webp' }), /twitter:image/, 'twitter:image diferente passa'],
-    [fixture({ siteName: '' }), /og:site_name/, 'og:site_name vazio passa'],
-    [fixture({ locale: 'en_US' }), /og:locale/, 'og:locale de outro idioma passa'],
-    [fixture({ items: 1 }), /itens do CollectionPage/, 'lista de outro tamanho passa'],
-    [fixture({ collectionUrl: `${SITE_URL}/reviews` }), /url do CollectionPage/, 'CollectionPage de outra página passa'],
-    [fixture({ lastCrumb: `${SITE_URL}/reviews` }), /BreadcrumbList/, 'BreadcrumbList de outra página passa'],
+    [fixture({ ogImage: other, twitterImage: other }), /: og:image fora das imagens/, 'og:image e cartão do X de outra imagem passam'],
+    [fixture({ ogImage: other }), /: og:image fora das imagens/, 'og:image de outra imagem, com o cartão do X certo, passa'],
+    [fixture({ twitterImage: other }), /: twitter:image diferente do og:image/, 'cartão do X de outra imagem passa'],
+    [fixture({ ogImage: '/images/capa.webp', twitterImage: '/images/capa.webp' }), /: og:image fora das imagens/, 'og:image relativo passa'],
+    [fixture({ alt: 'Outro alt' }), /: og:image:alt/, 'alt trocado passa'],
+    [fixture({ alt: '' }), /: og:image:alt/, 'alt vazio passa'],
+    [fixture({ siteName: '' }), /: og:site_name/, 'og:site_name vazio passa'],
+    [fixture({ locale: 'en_US' }), /: og:locale/, 'og:locale de outro idioma passa'],
+    [fixture({ items: 1 }), /: itens do CollectionPage/, 'lista de outro tamanho passa'],
+    [fixture({ collectionUrl: `${SITE_URL}/reviews` }), /: url do CollectionPage/, 'CollectionPage de outra página passa'],
+    [fixture({ lastCrumb: `${SITE_URL}/reviews` }), /: último item do BreadcrumbList/, 'BreadcrumbList de outra página passa'],
   ];
   for (const [html, message, why] of failures) {
-    assert.throws(() => assertListPageSeo(page, html, { items: 2, image }), message, why);
+    assert.throws(() => assertListPageSeo(page, html, { items: 2, images }), message, why);
   }
-  const relative = fixture({ ogImage: '/images/capa.webp', twitterImage: '/images/capa.webp' });
-  assert.throws(() => assertListPageSeo(page, relative, { items: 2 }), /endereço absoluto/, 'og:image relativo passa');
+  // A capa com o alt de outra imagem da lista não vale: o alt tem de ser o da imagem que apareceu.
+  assert.throws(
+    () => assertListPageSeo(page, fixture({ alt: SITE_NAME }), { items: 2, images: covers }),
+    /: og:image:alt/,
+    'alt do logo na capa de um artigo passa'
+  );
 }
 
 // Subpágina de cada loja com mais de 3 artigos: o h1, o canonical, um card por artigo (com o anel de
@@ -907,7 +920,7 @@ for (const slug of storeArticleSlugs) {
   assert.equal(assertHubCards(pagePath, body, 'Lista de artigos').length, page.articles.length, `${pagePath}: um link por card`);
   const store = getCouponBySlug(slug);
   assert.ok(store, `${pagePath}: sem a loja ${slug} em couponsData`);
-  assertListPageSeo(pagePath, html, { items: page.articles.length, image: getStoreSocialImage(store) });
+  assertListPageSeo(pagePath, html, { items: page.articles.length, images: [getStoreSocialImage(store)] });
   // O lastmod da subpágina é a data do artigo mais novo: a da atualização, ou a da publicação.
   const newestDate = page.articles.map((article) => article.updatedAt ?? article.publishedAtISO).filter(Boolean).sort().at(-1);
   assert.ok(newestDate, `${pagePath}: nenhum artigo com data`);
@@ -928,7 +941,12 @@ for (const hubPath of eventHubPaths) {
   const body = bodyOf(html);
   assert.equal(headOf(html).match(/<link rel="canonical" href="([^"]+)"/)?.[1], `${SITE_URL}${hubPath}`, `${hubPath}: canonical`);
   assert.equal(textOf(body.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1] ?? ''), page.title, `${hubPath}: h1`);
-  assertListPageSeo(hubPath, html, { items: page.cards.length });
+  // A capa depende das datas dos artigos: vale a de qualquer card da página (com o título dele de alt)
+  // ou o logo do site.
+  const covers = page.cards.flatMap((card) =>
+    card.image ? [{ url: absoluteMediaUrl(card.image), alt: card.title }] : []
+  );
+  assertListPageSeo(hubPath, html, { items: page.cards.length, images: [...covers, SITE_SOCIAL_IMAGE] });
   for (const card of page.cards) {
     assert.ok(body.includes(hrefOf(card.href)), `${hubPath}: sem o card de ${card.slug}`);
     if (card.codeLink) {

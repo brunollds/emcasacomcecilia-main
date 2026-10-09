@@ -5,7 +5,7 @@ import { getCouponLanguageLinks, getCouponStorePath } from '@/lib/couponTranslat
 import { getOtherActiveCoupons, type Coupon } from '@/lib/couponsData';
 import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
 import { getShellHomeHref } from '@/lib/i18n/shellDictionary';
-import { getStoreSocialImage } from '@/lib/pageSeo';
+import { SITE_URL, absoluteUrl, getStoreSocialImage } from '@/lib/pageSeo';
 import { CopyCodeButton, CouponDock } from './CouponActions';
 import {
   BODY_TEXT,
@@ -34,10 +34,6 @@ import {
   StoreHero,
   StoreTransparency,
 } from './StoreLayout';
-
-const SITE_URL = 'https://emcasacomcecilia.com';
-
-const absoluteUrl = (path: string) => (path === '/' ? SITE_URL : `${SITE_URL}${path}`);
 
 // Fora do PT não existe hub de cupons: a trilha vai da home do idioma direto para a loja.
 function getBreadcrumb(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {

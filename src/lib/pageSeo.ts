@@ -2,9 +2,9 @@ import type { Coupon } from '@/lib/couponsData';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 // Imagem de compartilhamento e JSON-LD das páginas que listam artigos (subpágina de loja e página da
-// data) e da página de cupom.
+// data). A página de cupom usa daqui o endereço do site e a imagem da loja.
 
-const SITE_URL = 'https://emcasacomcecilia.com';
+export const SITE_URL = 'https://emcasacomcecilia.com';
 export const SITE_NAME = 'Em Casa com Cecília';
 const SITE_LOGO = '/images/logos/logo-em-casa-com-cecilia.png';
 

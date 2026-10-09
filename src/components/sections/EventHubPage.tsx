@@ -13,7 +13,7 @@ import {
   getCollectionPageJsonLd,
   type SocialImage,
 } from '@/lib/pageSeo';
-import { isListedInPortuguese } from '@/lib/reviewDiscovery';
+import { getListedPortugueseReviews, sortReviewsByPublishedAt } from '@/lib/reviewDiscovery';
 
 // Página fixa de uma data comercial (/black-friday, /natal…): a edição mais recente, com todos os
 // artigos dela. Fica fora do menu e entra no sitemap. Cada data tem uma rota de poucas linhas em
@@ -23,17 +23,17 @@ function getPage(hub: string) {
   return getEventHubPage(homeEventsConfig, publishedReviews, hub, new Date());
 }
 
-// A capa do artigo mais novo da edição (o card traz a capa já resolvida, mas não a data).
+// A capa do artigo mais novo da edição, com o desempate do site (data e depois id). O card traz a
+// capa já resolvida, mas não a data.
 function getEventSocialImage(cards: readonly HomeEventCard[]): SocialImage {
-  let newest: { image: string; alt: string; date: string } | undefined;
-  for (const card of cards) {
-    if (!card.image) continue;
-    const review = publishedReviews.find((item) => item.slug === card.slug && isListedInPortuguese(item));
-    const date = review?.publishedAtISO ?? '';
-    if (!newest || date > newest.date) newest = { image: card.image, alt: card.title, date };
-  }
+  const covered = cards.filter((card) => card.image);
+  const slugs = new Set(covered.map((card) => card.slug));
+  const [newest] = sortReviewsByPublishedAt(
+    getListedPortugueseReviews(publishedReviews.filter((review) => slugs.has(review.slug)))
+  );
+  const card = covered.find((item) => item.slug === newest?.slug);
 
-  return newest ? { url: absoluteMediaUrl(newest.image), alt: newest.alt } : SITE_SOCIAL_IMAGE;
+  return card?.image ? { url: absoluteMediaUrl(card.image), alt: card.title } : SITE_SOCIAL_IMAGE;
 }
 
 export function getEventHubMetadata(hub: string): Metadata {
