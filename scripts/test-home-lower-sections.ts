@@ -10,7 +10,6 @@ import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.sh
 
 import { LatestVideos } from '@/components/sections/CTA';
 import { MyLinks } from '@/components/sections/MyLinks';
-import { Offers } from '@/components/sections/Offers';
 import { OfferCarousel } from '@/components/sections/OfferCarousel';
 import { PopularRecipes, selectPopularRecipes } from '@/components/sections/PopularRecipes';
 import { brandLinks } from '@/lib/brandLinks';
@@ -19,7 +18,7 @@ import { getRecipePrimaryCategory, recipes, type Recipe, type SocialHighlight } 
 import { getCarouselOffers, getOfferDiscountPercent, parseDicasOffers, type Offer } from '@/lib/dicasOffers';
 import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 
-// Seções de baixo da home (Receitas, Explore a casa, Ofertas do dia e Últimos vídeos), renderizadas
+// Seções de baixo da home (Receitas, Explore a casa com as ofertas do dia e Últimos vídeos), renderizadas
 // como o servidor as entrega.
 
 // Fora do Next, o next/image não conhece os hosts de imagem do next.config.mjs (as fotos das receitas
@@ -117,25 +116,6 @@ assert.equal(
 );
 assert.equal(count(withAnalytics, /href="\/receitas\/[^"]+"/g), 4, 'as populares completam as 4');
 
-// Explore a casa.
-const exploreHtml = render(createElement(MyLinks));
-const exploreText = textOf(exploreHtml);
-assert.match(exploreHtml, /<h2 id="titulo-explore-a-casa"[^>]*>Explore a casa<\/h2>/);
-assert.equal(count(exploreHtml, /<li[\s>]/g), 3, 'DAMIE, Dicas & Ofertas e E-book');
-assert.ok(opensNewTab(linkTo(exploreHtml, brandLinks.damie)), 'a DAMIE abre o site dela em outra aba');
-const damie = getCouponBySlug('damie');
-assert.ok(damie && damie.offerMode === 'discount-code', 'a DAMIE é loja de cupom');
-assert.ok(
-  exploreText.includes(`DAMIE: móveis, poltronas e sofás com cupom ${damie.code}`),
-  'o código da legenda sai da loja'
-);
-assert.ok(exploreHtml.includes('alt="Cecília debruçada sobre a caixa de entrega da DAMIE"'));
-assert.ok(opensNewTab(linkTo(exploreHtml, brandLinks.dicas)));
-assert.ok(exploreText.includes('Dicas & Ofertas') && exploreText.includes('Ver ofertas'));
-assert.ok(!linkTo(exploreHtml, brandLinks.airFryerEbook).includes('target='), 'o "Avise-me" abre o e-mail, sem aba nova');
-assert.ok(exploreText.includes('Em preparação') && exploreText.includes('Avise-me'));
-
-// Ofertas do dia.
 const offer = (id: string, fields: Partial<Offer>): Offer => ({
   id,
   title: `Oferta ${id}`,
@@ -145,32 +125,43 @@ const offer = (id: string, fields: Partial<Offer>): Offer => ({
   discountPrice: 0,
   ...fields,
 });
-const offersHtml = render(
-  createElement(Offers, {
-    items: [
-      offer('1', { originalPrice: 100, discountPrice: 79.9, image: '/images/oferta.webp' }),
-      offer('2', { originalPrice: 50, discountPrice: 50, store: 'Mercado Livre' }),
-      offer('3', {}),
+
+// Explore a casa: a DAMIE e o Dicas & Ofertas, sem o e-book. Sem oferta com foto, o card amarelo é o
+// link de antes.
+const exploreHtml = render(createElement(MyLinks, { offers: [offer('s1', { originalPrice: 30, discountPrice: 20 })] }));
+const exploreText = textOf(exploreHtml);
+assert.match(exploreHtml, /<h2 id="titulo-explore-a-casa"[^>]*>Explore a casa<\/h2>/);
+assert.equal(count(exploreHtml, /<li[\s>]/g), 2, 'DAMIE e Dicas & Ofertas');
+assert.ok(opensNewTab(linkTo(exploreHtml, brandLinks.damie)), 'a DAMIE abre o site dela em outra aba');
+const damie = getCouponBySlug('damie');
+assert.ok(damie && damie.offerMode === 'discount-code', 'a DAMIE é loja de cupom');
+assert.ok(
+  exploreText.includes(`DAMIE: móveis, poltronas e sofás com cupom ${damie.code}`),
+  'o código da legenda sai da loja'
+);
+assert.ok(exploreHtml.includes('alt="Cecília debruçada sobre a caixa de entrega da DAMIE"'));
+assert.ok(opensNewTab(linkTo(exploreHtml, brandLinks.dicas)));
+assert.ok(exploreText.includes('Dicas & Ofertas') && exploreText.includes('Ver ofertas'), 'sem oferta com foto, o link de antes');
+assert.ok(!exploreText.includes('E-book') && !exploreText.includes('Avise-me'), 'o e-book saiu');
+
+// Com ofertas com foto: o carrossel dentro do card amarelo e o "Ver todas as ofertas".
+const exploreOffersHtml = render(
+  createElement(MyLinks, {
+    offers: [
+      offer('e1', { originalPrice: 100, discountPrice: 70, image: '/images/oferta-1.webp' }),
+      offer('e2', {}),
+      offer('e3', { discountPrice: 30, originalPrice: 30, image: '/images/oferta-3.webp' }),
     ],
   })
 );
-const offersText = textOf(offersHtml);
-assert.match(offersHtml, /<h2 id="titulo-ofertas-do-dia"[^>]*>Ofertas do dia<\/h2>/);
-assert.equal(count(offersHtml, /<li[\s>]/g), 3);
-assert.ok(offersText.includes('de R$ 100,00 por R$ 79,90'), 'com desconto: de … por …');
-assert.match(offersHtml, /de <s>R\$\s100,00<\/s> por/, 'o preço antigo vai riscado');
-assert.ok(offersText.includes('Oferta 2 R$ 50,00') && !offersText.includes('de R$ 50,00'), 'sem desconto, só o preço');
-assert.ok(offersText.includes('Oferta 3 Amazon'), 'sem preço, nada de R$');
-assert.ok(!/cupom|%/i.test(offersText), 'o card não fala de cupom nem de porcentagem');
-for (const id of ['1', '2', '3']) {
-  assert.ok(opensNewTab(linkTo(offersHtml, `https://example.com/oferta-${id}`)));
-}
-assert.equal(count(offersHtml, /<img[^>]* alt=""/g), 1, 'a foto é decorativa e só sai quando existe');
-assert.ok(offersHtml.includes('aria-label="Ver ofertas anteriores"') && offersHtml.includes('aria-label="Ver próximas ofertas"'));
-assert.ok(offersHtml.includes(`${linkTo(offersHtml, brandLinks.dicas)}Acessar Dicas &amp; Ofertas</a>`));
-assert.equal(render(createElement(Offers, { items: [] })), '', 'sem oferta, sem seção');
-const invertedText = textOf(render(createElement(Offers, { items: [offer('4', { originalPrice: 40, discountPrice: 50 })] })));
-assert.ok(invertedText.includes('R$ 50,00') && !invertedText.includes('R$ 40,00'), 'preço antigo menor que o novo: só o preço');
+const exploreOffersText = textOf(exploreOffersHtml);
+assert.equal(count(exploreOffersHtml, /<li[\s>]/g), 4, 'DAMIE, Dicas & Ofertas e as 2 ofertas com foto');
+assert.ok(opensNewTab(linkTo(exploreOffersHtml, 'https://example.com/oferta-e1')));
+assert.ok(!exploreOffersHtml.includes('https://example.com/oferta-e2'), 'oferta sem foto fica de fora');
+assert.ok(exploreOffersHtml.includes(`${linkTo(exploreOffersHtml, brandLinks.dicas)}Ver todas as ofertas</a>`));
+assert.ok(opensNewTab(linkTo(exploreOffersHtml, brandLinks.dicas)));
+assert.ok(!exploreOffersText.includes('Ver ofertas '), 'o card com ofertas não é mais o link de antes');
+assert.match(exploreOffersHtml, /<h3[^>]*>Dicas &amp; Ofertas<\/h3>/);
 
 // Carrossel do card do Dicas & Ofertas: só ofertas com foto, na ordem do feed; o card mostra a foto e o
 // preço, e o nome vai no alt da foto.
@@ -345,7 +336,8 @@ assert.equal(render(createElement(LatestVideos, { videos: [] })), '', 'sem víde
 // Ofertas e vídeos somem sem o feed ou sem a API, e o build não os cobra: a home tem de montá-los.
 const homeSource = readFileSync(resolve(process.cwd(), 'src', 'app', '(pt)', 'page.js'), 'utf8');
 // Uma linha só com a tag: dentro de um comentário {/* … */} ela não conta.
-assert.match(homeSource, /^\s*<Offers items=\{featuredOffers\} \/>\s*$/m, 'a home não monta as Ofertas do dia');
+assert.match(homeSource, /^\s*<MyLinks offers=\{featuredOffers\} \/>\s*$/m, 'a home não passa as ofertas ao Explore a casa');
+assert.ok(!/<Offers\b/.test(homeSource), 'a seção Ofertas do dia saiu da home');
 assert.match(homeSource, /^\s*<CTA \/>\s*$/m, 'a home não monta os Últimos vídeos');
 
 console.log('test:home-lower-sections ok');

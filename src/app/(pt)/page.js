@@ -5,7 +5,6 @@ import { HomeEvent } from '@/components/sections/HomeEvent';
 import { couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { PopularRecipes } from '@/components/sections/PopularRecipes';
 import { MyLinks } from '@/components/sections/MyLinks';
-import { Offers } from '@/components/sections/Offers';
 import { CTA } from '@/components/sections/CTA';
 import homeEventsConfig from '@/../content/home-events.json';
 import { CECILIA_PHOTO, getHomeLatest, getHomeStoreTabs } from '@/lib/homeStores';
@@ -78,11 +77,8 @@ export default async function Home() {
       {/* Receitas da Cecília */}
       <PopularRecipes popularSlugs={popularRecipeSlugs} />
 
-      {/* Explore a casa */}
-      <MyLinks />
-
-      {/* Ofertas do dia */}
-      <Offers items={featuredOffers} />
+      {/* Explore a casa, com as ofertas do dia no card do Dicas & Ofertas */}
+      <MyLinks offers={featuredOffers} />
 
       {/* Últimos vídeos: só aparece com vídeo */}
       <CTA />
