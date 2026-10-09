@@ -24,7 +24,7 @@ export function HomeCeciliaPanel() {
       aria-labelledby="titulo-cecilia"
       className="relative isolate grid grid-cols-[minmax(0,1fr)_118px] items-center gap-x-4 gap-y-[18px] overflow-hidden rounded-[14px] border-2 border-marinho bg-marinho px-4 pt-6 pb-[22px] text-white shadow-[0_4px_0_var(--color-marinho)] md:grid-cols-[minmax(0,1fr)_180px] lg:grid-cols-[minmax(0,1.2fr)_minmax(0,0.8fr)] lg:items-stretch lg:gap-x-10 lg:gap-y-[22px] lg:px-11 lg:py-10 lg:shadow-[0_6px_0_var(--color-marinho)]"
     >
-      {/* Os ícones que flutuavam no Hero de hoje, atrás do conteúdo. */}
+      {/* Os ícones que flutuavam no antigo Hero, atrás do conteúdo. */}
       <div aria-hidden="true" className="pointer-events-none absolute inset-0 -z-10 overflow-hidden text-white/5 select-none">
         <Leaf size={120} strokeWidth={1} className="absolute top-[15%] left-[5%] motion-safe:animate-[float-delayed_12s_ease-in-out_infinite]" />
         <UtensilsCrossed size={80} strokeWidth={1} className="absolute bottom-[20%] left-[45%] motion-safe:animate-[float_8s_ease-in-out_infinite]" />

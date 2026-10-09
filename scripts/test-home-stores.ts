@@ -249,7 +249,7 @@ assert.equal(semImagem.length, 1);
 assert.equal(semImagem[0].image, undefined);
 assert.equal(semImagem[0].store, 'Magalu');
 
-// Números das redes no painel da Cecília: a mesma conta do Hero de hoje.
+// Números das redes no painel da Cecília: a mesma conta do antigo Hero.
 assert.equal(formatFollowerCount('443.5K'), '444k');
 assert.equal(formatFollowerCount('85.5K'), '86k');
 assert.equal(formatFollowerCount(undefined), undefined);

@@ -231,10 +231,11 @@ vídeo, primeiras impressões e uso noturno.
   em nenhuma home só entra na base fixa, em `STATIC_STORE_HOSTS`. Os hosts sentinela (`SENTINEL_HOSTS`, no
   mesmo arquivo) provam que a derivação achou o link de afiliado da YesStyle e o da SHEIN: se o link de
   afiliado de uma dessas lojas mudar de host, atualize-os.
-- O certificado de Superstar Influencer da YesStyle vale até `validUntil`. O `test:locale-home` para
-  a build no dia seguinte (data UTC); troque a imagem (pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`) e as
-  datas em `src/lib/ceciliaCredentials.ts` pelo certificado novo, ou tire o selo. O link do selo abre a
-  imagem num `<dialog>` (`CertificateDialog`); sem JavaScript, é um link comum para a imagem.
+- O certificado de Superstar Influencer da YesStyle vale de `validFrom` a `validUntil`. O
+  `test:locale-home` para a build fora desse intervalo (data UTC): no dia seguinte ao fim, e também se
+  as datas novas entrarem antes do início. Troque a imagem (pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`)
+  e as datas em `src/lib/ceciliaCredentials.ts` pelo certificado novo, ou tire o selo. O link do selo
+  abre a imagem num `<dialog>` (`CertificateDialog`); sem JavaScript, é um link comum para a imagem.
 - O hreflang da raiz e das 9 homes sai de `getHomeLanguageLinks`, com x-default em inglês.
 
 ### Páginas de loja (cupons)
