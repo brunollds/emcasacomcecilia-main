@@ -10,8 +10,13 @@ import { getShareCopy } from '../src/components/shared/shareCopy';
 import { brandLinks } from '../src/lib/brandLinks';
 import type { Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
-import { getCouponBySlug, getStoreCodeKind } from '../src/lib/couponsData';
-import { getCouponLanguageLinks, getLocalizedCoupon, getTranslatedCouponRoutes } from '../src/lib/couponTranslations';
+import { getAllActiveCouponSlugs, getCouponBySlug, getStoreCodeKind } from '../src/lib/couponsData';
+import {
+  getCouponLanguageLinks,
+  getCouponStorePath,
+  getLocalizedCoupon,
+  getTranslatedCouponRoutes,
+} from '../src/lib/couponTranslations';
 import { publishedReviews, recipes } from '../src/lib/data';
 import { getEventHubPage, getEventHubPaths, resolveActiveHomeEvent } from '../src/lib/homeEvents';
 import {
@@ -23,7 +28,7 @@ import {
 } from '../src/lib/homeStores';
 import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
 import { LOCALES, LOCALE_KEYS, type Locale } from '../src/lib/i18n/locales';
-import { SITE_NAME, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
+import { SITE_NAME, SITE_SOCIAL_IMAGE, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
@@ -170,6 +175,67 @@ const textOf = (html: string) => decodeHtml(html.replace(/<[^>]+>/g, '')).trim()
 // O texto como o React o escreve no HTML, para as mutações acharem o trecho mesmo com & ou apóstrofo.
 const escapeHtml = (text: string) =>
   text.replace(/&/g, '&amp;').replace(/'/g, '&#x27;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+const metaOf = (head: string, key: string) =>
+  decodeHtml(head.match(new RegExp(`<meta (?:property|name)="${key}" content="([^"]*)"`))?.[1] ?? '');
+
+// O cartão do X não mostra AVIF: a imagem de compartilhamento de loja, de subpágina e de data é JPG,
+// PNG, WebP ou GIF. As capas dos artigos ficam de fora desta regra.
+const SHARE_IMAGE_FORMAT = /\.(?:jpe?g|png|webp|gif)$/i;
+
+// A imagem de compartilhamento: og:image e alt exatamente os esperados, num formato que o X mostra, o
+// cartão do X com a mesma imagem e o nome do site.
+function assertShareImage(pagePath: string, head: string, expected: SocialImage) {
+  const image = metaOf(head, 'og:image');
+  assert.equal(image, expected.url, `${pagePath}: og:image diferente da esperada`);
+  assert.match(new URL(image, SITE_URL).pathname, SHARE_IMAGE_FORMAT, `${pagePath}: og:image num formato que o X não mostra`);
+  assert.equal(metaOf(head, 'og:image:alt'), expected.alt, `${pagePath}: og:image:alt`);
+  assert.equal(metaOf(head, 'twitter:image'), image, `${pagePath}: twitter:image diferente do og:image`);
+  assert.equal(metaOf(head, 'og:site_name'), SITE_NAME, `${pagePath}: og:site_name`);
+  return image;
+}
+
+// O guarda falha na imagem AVIF mesmo quando ela é a esperada, e passa em JPG, PNG e WebP, também com
+// query string. Os outros defeitos estão no teste do assertListPageSeo, que passa por ele.
+{
+  const headWith = (url: string) =>
+    `<meta property="og:site_name" content="${SITE_NAME}"/><meta property="og:image" content="${url}"/>` +
+    `<meta property="og:image:alt" content="Logo"/><meta name="twitter:image" content="${url}"/>`;
+  for (const url of [
+    'https://cdn.emcasacomcecilia.com/v1/image/logo.jpg',
+    `${SITE_URL}/images/logos/loja.png`,
+    'https://cdn.emcasacomcecilia.com/v1/image/capa.webp?v=2',
+  ]) {
+    assertShareImage('/fixture', headWith(url), { url, alt: 'Logo' });
+  }
+  const avif = 'https://cdn.emcasacomcecilia.com/v1/image/logo.avif';
+  assert.throws(
+    () => assertShareImage('/fixture', headWith(avif), { url: avif, alt: 'Logo' }),
+    /: og:image num formato que o X não mostra/,
+    'og:image em AVIF passa'
+  );
+}
+
+// Página de cada loja ativa, em português e nos outros idiomas: a imagem de compartilhamento é a da loja
+// (getStoreSocialImage), e o WebPage do JSON-LD aponta para a mesma. A YesStyle tem página própria,
+// conferida mais abaixo.
+const couponStorePages = [
+  ...getAllActiveCouponSlugs()
+    .filter((slug) => slug !== 'yesstyle')
+    .map((slug) => ({ pagePath: getCouponStorePath(slug, 'pt'), store: getCouponBySlug(slug) })),
+  ...getTranslatedCouponRoutes().map(({ locale, slug }) => ({
+    pagePath: getCouponStorePath(slug, locale),
+    store: getLocalizedCoupon(slug, locale),
+  })),
+];
+for (const { pagePath, store } of couponStorePages) {
+  assert.ok(store, `${pagePath}: sem a loja em couponsData`);
+  const file = builtFile(`${SITE_URL}${pagePath}`);
+  assert.ok(file, `${pagePath}: página não gerada no build`);
+  const html = read(file);
+  const image = assertShareImage(pagePath, headOf(html), getStoreSocialImage(store));
+  const webPage = jsonLdOf(html).find((schema) => schema['@type'] === 'WebPage');
+  assert.equal(webPage?.primaryImageOfPage, image, `${pagePath}: primaryImageOfPage diferente do og:image`);
+}
 
 // O CECILIA010 é código de recompensa, não cupom: vai no campo Reward Code e soma com os cupons da
 // loja. Nenhum texto do site pode chamá-lo de cupom ("cupom CECILIA010", "CECILIA010 coupon") nem
@@ -193,6 +259,9 @@ const yesStyleAlternates = [
   ...yesStyleHubs.map(({ hreflang, hubPath }) => `${hreflang} ${SITE_URL}${hubPath}`),
   `x-default ${SITE_URL}${YESSTYLE_LOCALES.en.hubPath}`,
 ].sort();
+// O logo da YesStyle, com o nome da marca de alt nos 10 idiomas; com a loja pausada, o logo do site.
+const yesStyleStore = getCouponBySlug('yesstyle');
+const yesStyleImage = yesStyleStore ? { url: getStoreSocialImage(yesStyleStore).url, alt: 'YesStyle' } : SITE_SOCIAL_IMAGE;
 
 for (const { locale, hubPath, htmlLang, openGraphLocale } of yesStyleHubs) {
   const file = builtFile(`${SITE_URL}${hubPath}`);
@@ -203,6 +272,7 @@ for (const { locale, hubPath, htmlLang, openGraphLocale } of yesStyleHubs) {
   const rawTitle = head.match(/<title>([^<]*)<\/title>/)?.[1] ?? '';
 
   assertLocalizedHead(hubPath, head, yesStyleAlternates, openGraphLocale);
+  assertShareImage(hubPath, head, yesStyleImage);
   assert.equal(main.match(/^<main lang="([^"]+)"/)?.[1], htmlLang, `${hubPath}: lang do <main>`);
 
   // O H1 é montado em partes (texto, número e sufixo); juntas, elas repetem o <title>.
@@ -847,22 +917,16 @@ assertHubCards('/reviews', reviewsBody, 'Lista de conteúdos');
   assert.throws(() => assertHubCards('/reviews', reviewsBody.replace(h2, '') + h2, heading), /sem links de card/, 'h2 depois dos cards passa');
 }
 
-// O <head> e o JSON-LD de uma página que lista artigos (subpágina de loja e página de data): o
-// og:image e o alt são exatamente os da imagem esperada, e o cartão do X leva a mesma; depois o nome do
-// site, o idioma, um CollectionPage com um item por artigo e um BreadcrumbList que termina na página.
+// O <head> e o JSON-LD de uma página que lista artigos (subpágina de loja e página de data): a imagem
+// de compartilhamento (assertShareImage), o idioma, um CollectionPage com um item por artigo e um
+// BreadcrumbList que termina na página.
 function assertListPageSeo(pagePath: string, html: string, expected: { items: number; image: SocialImage }) {
   const head = headOf(html);
-  const metaOf = (key: string) =>
-    decodeHtml(head.match(new RegExp(`<meta (?:property|name)="${key}" content="([^"]*)"`))?.[1] ?? '');
   const canonical = head.match(/<link rel="canonical" href="([^"]+)"/)?.[1];
   assert.ok(canonical, `${pagePath}: sem canonical`);
 
-  const image = metaOf('og:image');
-  assert.equal(image, expected.image.url, `${pagePath}: og:image diferente da esperada`);
-  assert.equal(metaOf('og:image:alt'), expected.image.alt, `${pagePath}: og:image:alt`);
-  assert.equal(metaOf('twitter:image'), image, `${pagePath}: twitter:image diferente do og:image`);
-  assert.equal(metaOf('og:site_name'), SITE_NAME, `${pagePath}: og:site_name`);
-  assert.equal(metaOf('og:locale'), LOCALES.pt.openGraphLocale, `${pagePath}: og:locale`);
+  assertShareImage(pagePath, head, expected.image);
+  assert.equal(metaOf(head, 'og:locale'), LOCALES.pt.openGraphLocale, `${pagePath}: og:locale`);
 
   const schemas = jsonLdOf(html);
   const collection = schemas.find((schema) => schema['@type'] === 'CollectionPage');

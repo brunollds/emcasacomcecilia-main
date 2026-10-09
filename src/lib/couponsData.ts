@@ -243,6 +243,9 @@ export const COUPONS: Coupon[] = [
     brandLogo: '/images/about/partners/dolce-gusto.avif',
     brandLogoAlt: 'Marca Nescafé Dolce Gusto',
     brandWatermark: '/images/logos/watermarks/dolce-gusto.webp',
+    // O logo é AVIF, que o cartão do X não mostra: o compartilhamento usa a capa do guia do cupom.
+    socialImage: '/images/reviews/cupons/nescafe-dolce-gusto-hero.webp',
+    socialImageAlt: 'Cecília com uma xícara de café ao lado da máquina Dolce Gusto e do cupom CECI',
     brandColor: '#7E2A1A',
     code: 'CECI',
     discount: '5% OFF',
@@ -557,6 +560,9 @@ export const COUPONS: Coupon[] = [
     brandLogo: '/images/about/partners/i-wanna-sleep.avif',
     brandLogoAlt: 'Marca I Wanna Sleep',
     brandWatermark: '/images/logos/watermarks/i-wanna-sleep.webp',
+    // O logo é AVIF, que o cartão do X não mostra: o compartilhamento usa a capa do guia do cupom.
+    socialImage: '/images/reviews/iwannasleep/cupom-ceciemcasa-hero.webp',
+    socialImageAlt: 'Mulher de pijama comemorando sobre um travesseiro I Wanna Sleep',
     brandColor: '#2D1B4E',
     code: 'CECIEMCASA',
     discount: '10% OFF',
