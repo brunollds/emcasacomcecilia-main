@@ -533,7 +533,10 @@ placements das seções que saem (`home_featured_guides`, `home_review_categorie
   - o `h2` só para leitor de tela e o anel de foco nos cards da grade de `/reviews` e das subpáginas;
   - nas subpáginas e nas páginas de data, `og:image`, `twitter:image`, `og:site_name`, `og:locale`,
     `CollectionPage` e `BreadcrumbList`; o `<lastmod>` das subpáginas no sitemap;
-  - o `noindex, follow` do `/categorias`.
+  - o `noindex, follow` do `/categorias`;
+  - nas páginas de loja (em português e traduzidas), nas subpáginas, nas páginas de data e nas 10
+    da YesStyle, o `og:image` em JPG, PNG, WebP ou GIF; nas de loja, o `primaryImageOfPage` igual
+    ao `og:image`; nas da YesStyle, o logo da loja (R7).
 - **`test:client-bundle`**: nem o componente da vitrine nem o card extraído de `/reviews` podem
   levar o índice de conteúdo.
 
@@ -683,19 +686,23 @@ esta lista:
   - texto branco sobre `#ff6b35` em receitas, sobre, contato e faqs;
   - `animate-slide-up` sem `motion-safe:` no topo de `/reviews`, em `/categorias` e nas receitas;
   - o JSON-LD sai de `JSON.stringify` sem escapar `<` em cerca de 16 pontos do site. Os textos
-    são do repositório e nenhum tem `<` hoje; um ajudante comum resolveria todos de uma vez;
-  - as 10 páginas da YesStyle não têm `og:image`.
+    são do repositório e nenhum tem `<` hoje; um ajudante comum resolveria todos de uma vez.
 
-  Para o Bruno decidir (da revisão final da rodada):
-  - a Dolce Gusto e a I Wanna Sleep compartilham com o logo em AVIF, que o X não aceita e o
-    WhatsApp não garante, em `/cupons/<marca>` e agora também na subpágina. Uma `socialImage` em
-    JPG ou PNG em `couponsData.ts` resolve as duas páginas; depois, uma trava de formato no
-    `test:build-output`;
-  - o `primaryImageOfPage` do JSON-LD de `/cupons/<marca>` usa o caminho local; o `og:image` da
-    mesma página usa o endereço de entrega (CDN). Trocar por `absoluteMediaUrl` muda o JSON-LD das
-    páginas de cupom;
-  - a página da data entra no sitemap sem `<lastmod>` (as subpáginas têm). Vale fazer quando a
-    regra de data sair do sitemap e do teste para uma função comum.
+  O branco sobre laranja e as animações sem `motion-safe:` ficam para depois da D2 (Bruno, 08/10).
+
+  Decididos pelo Bruno (08/10), da revisão final da rodada (R7):
+  - a Dolce Gusto e a I Wanna Sleep compartilhavam com o logo em AVIF, que o X não aceita. Logo em
+    JPG novo teria de subir ao CDN pelo fluxo de mídia (o hook recusa imagem nova em `public/`), e
+    o AVIF da I Wanna Sleep tem só 100 px. Então as duas compartilham com a capa do guia do cupom,
+    que já está no CDN em WebP: a arte de 1600×900 da Dolce Gusto, com a Cecília e o CECI, e a
+    foto de 640×640 da I Wanna Sleep. O `test:build-output` recusa `og:image` fora de JPG, PNG,
+    WebP ou GIF nas páginas de loja, nas subpáginas, nas páginas de data e nas da YesStyle. As
+    capas dos artigos ficam fora da regra;
+  - o `primaryImageOfPage` do JSON-LD de `/cupons/<marca>` é o mesmo endereço do `og:image`;
+  - as 10 páginas da YesStyle compartilham com o logo da loja (`yesstyle.jpg`), com "YesStyle" de
+    alt nos 10 idiomas;
+  - a página da data entra no sitemap sem `<lastmod>`. Ela ganha o da subpágina junto com a edição
+    de verdade: está em "Para pôr a Black Friday no ar", no plano da Fase 4.
 - **Pedido do Bruno (08/10), numa fase a combinar:** as bolinhas viram um carrossel e as lojas
   entram na ordem do artigo mais novo de cada uma. A Cecília fica sempre em primeiro. Loja sem
   artigo fica no fim, na ordem de `couponsData.ts`. A ordem sai dos dados, então muda sozinha a
