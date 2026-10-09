@@ -1,0 +1,23 @@
+// Quem é a Cecília, para a home de cada idioma (/en, /ja…), e o certificado de Superstar Influencer da
+// YesStyle que o hero mostra. Nome, região e datas não se traduzem.
+export const CECILIA_FULL_NAME = 'Cecília Mauad Contin Linhares';
+export const CECILIA_SINCE = 2018;
+export const CECILIA_REGION = 'Minas Gerais';
+export const CECILIA_COUNTRY = 'BR';
+
+// As datas do certificado. O test:locale-home para a build quando a data UTC passa de validUntil:
+// troque a imagem e as datas pelo certificado novo, ou tire o selo.
+export const YESSTYLE_CERTIFICATE = {
+  title: 'YesStyle Superstar Influencer',
+  validFrom: '2026-08-09',
+  validUntil: '2027-08-31',
+} as const;
+
+// Datas AAAA-MM-DD se comparam como texto.
+export function isCertificateValid(dayIso: string): boolean {
+  return dayIso >= YESSTYLE_CERTIFICATE.validFrom && dayIso <= YESSTYLE_CERTIFICATE.validUntil;
+}
+
+export function getCertificateYears(): string {
+  return `${YESSTYLE_CERTIFICATE.validFrom.slice(0, 4)}–${YESSTYLE_CERTIFICATE.validUntil.slice(0, 4)}`;
+}
