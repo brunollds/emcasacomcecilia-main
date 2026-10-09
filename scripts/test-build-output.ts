@@ -21,8 +21,9 @@ import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
 // das lojas traduzidas e dos artigos de cada família, as páginas da YesStyle, o dock, a sidebar e a
-// interface dos artigos no idioma de cada um, os textos que citam o CECILIA010, a home, as
-// subpáginas de loja e as páginas de data. O <html lang> fica com test-c2-html-lang.
+// interface dos artigos no idioma de cada um, os textos que citam o CECILIA010, a home, os cards de
+// /reviews, as subpáginas de loja (com o lastmod do sitemap) e as páginas de data. O <html lang>
+// fica com test-c2-html-lang.
 const SITE_URL = 'https://emcasacomcecilia.com';
 const APP_DIR = path.resolve('.next/server/app');
 const CSS_DIR = path.resolve('.next/static/css');
@@ -782,7 +783,7 @@ for (const { html, expected } of wrongExpectations) {
 // Os cards de Guias & Análises (ReviewHubCard) de /reviews e das subpáginas de loja: o h2 só para
 // leitor de tela entre o h1 e os h3 dos cards, e o anel de foco da casa em cada link de card.
 // Devolve as tags dos links de card.
-function hubCardLinks(where: string, body: string, heading: string) {
+function assertHubCards(where: string, body: string, heading: string) {
   assert.ok(body.includes(`<h2 class="sr-only">${heading}</h2>`), `${where}: sem o h2 "${heading}" entre o h1 e os h3 dos cards`);
   const tags = [...body.matchAll(/<a\b[^>]*\bhref="\/reviews\/[^"/]+"[^>]*>/g)].map(([tag]) => tag);
   assert.ok(tags.length > 0, `${where}: sem links de card`);
@@ -794,7 +795,7 @@ function hubCardLinks(where: string, body: string, heading: string) {
 
 const reviewsFile = builtFile(`${SITE_URL}/reviews`);
 assert.ok(reviewsFile, '/reviews: página não gerada no build');
-hubCardLinks('/reviews', bodyOf(read(reviewsFile)), 'Lista de conteúdos');
+assertHubCards('/reviews', bodyOf(read(reviewsFile)), 'Lista de conteúdos');
 
 // Subpágina de cada loja com mais de 3 artigos: o h1, o canonical, um card por artigo (com o anel de
 // foco), o link da página da loja, o h2 só para leitor de tela e a data no sitemap.
@@ -812,7 +813,7 @@ for (const slug of storeArticleSlugs) {
   const cardSlugs = new Set([...body.matchAll(/href="\/reviews\/([^"/]+)"/g)].map(([, cardSlug]) => cardSlug));
   assert.deepEqual([...cardSlugs].sort(), page.articles.map((article) => article.slug).sort(), `${pagePath}: um card por artigo da loja`);
   assert.ok(body.includes(hrefOf(page.storePageUrl)), `${pagePath}: sem o link de ${page.storePageUrl}`);
-  assert.equal(hubCardLinks(pagePath, body, 'Lista de artigos').length, page.articles.length, `${pagePath}: um link por card`);
+  assert.equal(assertHubCards(pagePath, body, 'Lista de artigos').length, page.articles.length, `${pagePath}: um link por card`);
   // O lastmod da subpágina é a data do artigo mais novo: a da atualização, ou a da publicação.
   const newestDate = page.articles.map((article) => article.updatedAt ?? article.publishedAtISO).filter(Boolean).sort().at(-1);
   assert.ok(newestDate, `${pagePath}: nenhum artigo com data`);
