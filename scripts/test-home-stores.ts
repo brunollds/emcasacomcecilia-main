@@ -1,6 +1,14 @@
 import assert from 'node:assert/strict';
 
+import { createElement } from 'react';
+import { renderToStaticMarkup } from 'react-dom/server';
+import { imageConfigDefault, type ImageConfigComplete, type RemotePattern } from 'next/dist/shared/lib/image-config';
+import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.shared-runtime';
+
 import sitemap from '@/app/sitemap';
+import { CECILIA_PHOTO_COPY_PT } from '@/components/sections/CeciliaProfile';
+import { HomeCeciliaPanel } from '@/components/sections/HomeCeciliaPanel';
+import { getLocaleHomeCopy } from '@/components/sections/localeHomeCopy';
 import { COUPONS, getActiveCoupons, type Coupon } from '@/lib/couponsData';
 import { publishedReviews, reviews } from '@/lib/data';
 import {
@@ -13,6 +21,7 @@ import {
   type StoreReview,
 } from '@/lib/homeStores';
 import { getListedPortugueseReviews, sortReviewsByPublishedAt } from '@/lib/reviewDiscovery';
+import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import {
   CECILIA_TAB_ID,
@@ -247,6 +256,31 @@ assert.equal(formatFollowerCount(undefined), undefined);
 assert.equal(formatFollowerCount('sem número'), undefined);
 assert.deepEqual(getCeciliaSocialStats().map(({ name }) => name), ['Instagram', 'TikTok', 'YouTube', 'Facebook']);
 assert.ok(getCeciliaSocialStats().every(({ followers }) => followers && /^\d+k$/.test(followers)));
+
+// O painel da Cecília na home em português reaproveita o cartão de foto da home de cada idioma: nada do
+// inglês vaza para ele, e a foto segue lazy, sem fetchpriority (no PT o LCP é a imagem do story).
+// Fora do Next, o next/image não conhece os hosts do next.config.mjs, e a foto da Cecília vem do CDN.
+const imageConfig: ImageConfigComplete = {
+  ...imageConfigDefault,
+  remotePatterns: IMAGE_REMOTE_PATTERNS as RemotePattern[],
+};
+const decodeEntities = (text: string) =>
+  text.replace(/&#x27;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
+const panelHtml = renderToStaticMarkup(
+  createElement(ImageConfigContext.Provider, { value: imageConfig }, createElement(HomeCeciliaPanel))
+);
+const panelText = decodeEntities(panelHtml);
+for (const [key, text] of Object.entries(CECILIA_PHOTO_COPY_PT)) {
+  assert.ok(panelText.includes(text), `painel da Cecília sem o texto em português (${key}): ${text}`);
+}
+const englishCopy = getLocaleHomeCopy('en');
+for (const text of [englishCopy.photoAlt, englishCopy.followers]) {
+  assert.ok(!panelText.includes(text), `painel da Cecília com texto em inglês: ${text}`);
+}
+const panelPhoto = (panelHtml.match(/<img\b[^>]*>/g) ?? []).find((tag) => decodeEntities(tag).includes(CECILIA_PHOTO_COPY_PT.alt));
+assert.ok(panelPhoto, 'painel da Cecília sem a foto');
+assert.match(panelPhoto, /\sloading="lazy"/, 'foto do painel em português tem de ser lazy');
+assert.doesNotMatch(panelPhoto, /fetchpriority/i, 'foto do painel em português sem fetchpriority');
 
 // /reviews/loja sozinho cai em /reviews/[slug]: nenhuma review, nem rascunho, pode ter esse slug.
 assert.ok(!reviews.some(({ slug }) => slug === 'loja'), 'nenhuma review com o slug loja');

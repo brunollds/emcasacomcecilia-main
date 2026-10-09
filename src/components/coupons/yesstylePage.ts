@@ -7,6 +7,7 @@ import {
   YESSTYLE_LOCALES,
 } from '@/lib/i18n/clusters/yesstyle';
 import type { Locale } from '@/lib/i18n/locales';
+import { getShellHomeHref } from '@/lib/i18n/shellDictionary';
 import {
   getPrimaryRewardCode,
   getActivePromoCoupons,
@@ -99,7 +100,7 @@ export function getYesStyleBreadcrumbItems(
     ];
   }
   return [
-    { name: homeLabel, item: `https://emcasacomcecilia.com/${locale}` },
+    { name: homeLabel, item: `https://emcasacomcecilia.com${getShellHomeHref(locale)}` },
     { name: 'YesStyle', item: canonicalUrl },
   ];
 }

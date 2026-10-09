@@ -22,9 +22,9 @@ export function CertificateDialog({ image, title, linkLabel, closeLabel }: Certi
     // Ctrl, Cmd, Shift, Alt e os outros botões seguem o link: nova aba, nova janela, baixar.
     if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
     const dialog = dialogRef.current;
-    if (!dialog || dialog.open || typeof dialog.showModal !== 'function') return;
+    if (!dialog || typeof dialog.showModal !== 'function') return;
     event.preventDefault();
-    dialog.showModal();
+    if (!dialog.open) dialog.showModal();
   };
 
   return (
