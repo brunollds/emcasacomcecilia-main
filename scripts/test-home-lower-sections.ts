@@ -211,6 +211,8 @@ assert.ok(carouselText.includes('Ver oferta'), 'sem preço, "Ver oferta"');
 assert.ok(!carouselText.includes('Oferta c1 ') && !carouselText.includes('Amazon'), 'sem nome nem loja visíveis no card');
 assert.ok(!/cupom/i.test(carouselText), 'o card não fala de cupom');
 assert.ok(carouselHtml.includes('aria-label="Ver ofertas anteriores"') && carouselHtml.includes('aria-label="Ver próximas ofertas"'));
+// As setas só aparecem depois de montar e só quando a fila tem o que rolar: no HTML do servidor, escondidas.
+assert.match(carouselHtml, /<div class="hidden shrink-0 gap-2"><button type="button"/, 'as setas nascem escondidas');
 assert.ok(carouselHtml.includes('<h3>Dicas &amp; Ofertas</h3>'), 'o título do card vem de fora');
 
 // O feed do Dicas & Ofertas: até 10 ofertas válidas, sem as que não têm nome ou link.

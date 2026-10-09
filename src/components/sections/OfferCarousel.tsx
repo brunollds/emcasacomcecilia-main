@@ -1,6 +1,6 @@
 'use client';
 
-import { useRef, type ReactNode } from 'react';
+import { useEffect, useRef, useState, type ReactNode } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
@@ -11,8 +11,8 @@ import { getOfferDiscountPercent, type OfferWithImage } from '@/lib/dicasOffers'
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 // As ofertas do dia dentro do card do Dicas & Ofertas, numa fila que rola na horizontal; a partir de
-// 768 px, as setas ao lado do título passam a fila. O card mostra só a foto e o preço: o nome do
-// produto vai no alt da foto, que dá nome ao link.
+// 768 px, as setas ao lado do título passam a fila, quando ela tem o que rolar. O card mostra só a
+// foto e o preço: o nome do produto vai no alt da foto, que dá nome ao link.
 
 const ARROW = `flex size-11 items-center justify-center rounded-full border-2 border-marinho bg-white text-marinho hover:bg-marinho hover:text-amarelo-cupom motion-safe:transition-colors ${FOCUS_RING}`;
 
@@ -28,6 +28,18 @@ type OfferCarouselProps = {
 
 export function OfferCarousel({ items, heading }: OfferCarouselProps) {
   const trackRef = useRef<HTMLUListElement>(null);
+  const [overflows, setOverflows] = useState(false);
+
+  // Com poucas ofertas numa tela larga cabe tudo, e as setas não teriam o que fazer.
+  useEffect(() => {
+    const track = trackRef.current;
+    if (!track) return;
+    const update = () => setOverflows(track.scrollWidth > track.clientWidth);
+    update();
+    const observer = new ResizeObserver(update);
+    observer.observe(track);
+    return () => observer.disconnect();
+  }, [items]);
 
   const scrollTrack = (direction: 'left' | 'right') => {
     const track = trackRef.current;
@@ -45,7 +57,7 @@ export function OfferCarousel({ items, heading }: OfferCarouselProps) {
     <>
       <div className="flex items-end justify-between gap-4 px-4 md:px-6">
         {heading}
-        <div className="hidden shrink-0 gap-2 md:flex">
+        <div className={`hidden shrink-0 gap-2${overflows ? ' md:flex' : ''}`}>
           <button type="button" onClick={() => scrollTrack('left')} className={ARROW} aria-label="Ver ofertas anteriores">
             <ChevronLeft aria-hidden="true" className="size-5" />
           </button>
