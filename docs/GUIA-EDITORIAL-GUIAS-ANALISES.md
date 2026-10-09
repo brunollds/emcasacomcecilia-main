@@ -136,7 +136,8 @@ português ou sem `locale`) aparece:
 `pros/cons` e a marca citada no texto não mudam o lugar do artigo na home.
 
 Fora do português, o artigo aparece na home do idioma (`/<locale>`, `src/lib/localeHome.ts`): os 6
-mais novos do idioma por `publishedAtISO`, além da lista completa em `/<locale>/reviews`.
+mais novos do idioma por `publishedAtISO`, além da lista completa em `/<locale>/reviews`. Rascunho
+(`draft`) e artigo com `hideFromListings` nunca entram nesses 6.
 
 Contrato para todo artigo PT novo, reforçando a Seção 1: `category` válida, `publishedAtISO` em
 `YYYY-MM-DD`, `id` único, presença no manifest e `npm run build` verde. Sem `category` ou

@@ -29,7 +29,7 @@ npm run test:home-lower-sections  # receitas, Explore a casa (com o carrossel de
 npm run test:locale-home     # home de cada idioma (/en, /ja…): textos dos 9 idiomas, lojas, artigos, validade do certificado da YesStyle e o HTML das seções
 npm run test:home-route-tracking  # placements do home_route_click e o link das abas da vitrine (<a> comum)
 npm run test:html-lang       # depois do build: <html lang> de cada rota
-npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, textos que citam o CECILIA010, a home, os cards de /reviews, as subpáginas de loja e as páginas de data (imagem e JSON-LD), a imagem de compartilhamento das páginas de loja e o noindex do /categorias, o marca-texto dos títulos da home, os cards revelados na rolagem e nada escondido por ela no HTML, e o CSS da rolagem só com o movimento liberado (e sem @media not … and …), e as homes de cada idioma (hreflang, JSON-LD, sem texto em português nem link de loja)
+npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, textos que citam o CECILIA010, a home, os cards de /reviews, as subpáginas de loja e as páginas de data (imagem e JSON-LD), a imagem de compartilhamento das páginas de loja e o noindex do /categorias, o marca-texto dos títulos da home, os cards revelados na rolagem e nada escondido por ela no HTML, o CSS da rolagem só com o movimento liberado (sem @media not … and …) e as homes de cada idioma (hreflang, JSON-LD, sem texto em português nem link de loja, menu e rodapé inclusive)
 ```
 
 `npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
@@ -221,10 +221,13 @@ vídeo, primeiras impressões e uso noturno.
 - `src/lib/localeHome.ts` monta tudo no servidor. Os textos vêm de
   `src/components/sections/localeHomeCopy.ts`; os fatos da Cecília e o certificado, de
   `src/lib/ceciliaCredentials.ts`. As lojas saem dos dados: a YesStyle e as de `couponTranslations.ts`
-  com cupom ativo, e loja nova com página traduzida entra sozinha. A home não tem link de afiliado: o
-  cartão leva a `/<locale>/coupons/<slug>`.
+  com loja ativa, e loja nova com página traduzida entra sozinha. A home não tem link de afiliado: o
+  cartão leva a `/<locale>/coupons/<slug>`. Os dois testes (`test:locale-home` e `test:build-output`) tiram
+  os hosts de loja do dado das lojas da home (`scripts/locale-home-guards.ts`), então um link novo de
+  afiliado, como o `ystyle.co`, é barrado sem mexer em lista nenhuma.
 - O certificado de Superstar Influencer da YesStyle vale até `validUntil`. O `test:locale-home` para
-  a build no dia seguinte (data UTC); troque a imagem e as datas pelo certificado novo, ou tire o selo.
+  a build no dia seguinte (data UTC); troque as datas em `src/lib/ceciliaCredentials.ts` pelo certificado
+  novo, ou tire o selo.
 - O hreflang da raiz e das 9 homes sai de `getHomeLanguageLinks`, com x-default em inglês.
 
 ### Páginas de loja (cupons)

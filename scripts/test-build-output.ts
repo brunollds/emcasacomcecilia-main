@@ -10,7 +10,7 @@ import { getCodeHints, getCodeTitle, getSidebarCopy } from '../src/components/re
 import { CECILIA_PHOTO_COPY_PT } from '../src/components/sections/CeciliaProfile';
 import { getLocaleHomeCopy } from '../src/components/sections/localeHomeCopy';
 import { getShareCopy } from '../src/components/shared/shareCopy';
-import { brandLinks } from '../src/lib/brandLinks';
+import { brandLinks, socialMedias } from '../src/lib/brandLinks';
 import { CECILIA_FULL_NAME } from '../src/lib/ceciliaCredentials';
 import type { Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
@@ -33,9 +33,16 @@ import {
 import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
 import { LOCALES, LOCALE_KEYS, type Locale } from '../src/lib/i18n/locales';
 import { getShellCopy, getShellNavLinks } from '../src/lib/i18n/shellDictionary';
-import { LOCALE_HOME_LOCALES, getHomeLanguageLinks, getLocaleHomePath, getLocaleHomeStores } from '../src/lib/localeHome';
+import {
+  LOCALE_HOME_LOCALES,
+  getHomeLanguageLinks,
+  getLocaleHomeContent,
+  getLocaleHomePath,
+  getLocaleHomeStores,
+} from '../src/lib/localeHome';
 import { SITE_NAME, SITE_SOCIAL_IMAGE, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
+import { codeAsCouponRegExp, isStoreLink } from './locale-home-guards';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
 // das lojas traduzidas e dos artigos de cada família, as páginas da YesStyle, o dock, a sidebar e a
@@ -596,31 +603,38 @@ const homeAlternates = Object.entries(getHomeLanguageLinks()).map(([hreflang, hr
   );
 }
 
-// Todo texto fixo do site em português (menu, rodapé, seletor) mais os da home em português, para a
-// home de cada idioma não deixar nenhum passar. O que o idioma escreve igual ao português sai por locale.
-const PT_CODE_TITLES = {
-  reward: getCodeTitle(getSidebarCopy('pt'), 'reward', 'YesStyle'),
-  referral: getCodeTitle(getSidebarCopy('pt'), 'referral', 'SHEIN'),
+// Os textos fixos do menu, do rodapé e do seletor de um idioma. Ficam de fora o campo `locale`, que não é
+// texto de tela, e o modelo do aria-label das redes (com `{social}`), que o rodapé monta uma vez por rede.
+const shellTexts = (locale: Locale) => {
+  const copy = getShellCopy(locale);
+  return [
+    ...fixedTexts({ ...copy, locale: undefined }).filter((text) => !text.includes('{')),
+    ...socialMedias.map((social) => copy.followAria.replace('{social}', social.name)),
+  ];
 };
+// A categoria e o título do código de cada loja da home em português, e não só os da YesStyle e da SHEIN.
+const homeStores = getLocaleHomeStores('en');
+const PT_STORE_CATEGORIES = [...homeStores.map((store) => getCouponBySlug(store.slug)?.category), getYesStylePage('pt')?.category];
+const PT_CODE_TITLES = homeStores.flatMap((store) => {
+  const pt = getCouponBySlug(store.slug);
+  if (!pt || !store.code) return [];
+  const kind = getStoreCodeKind(pt, store.code);
+  return [{ kind, title: getCodeTitle(getSidebarCopy('pt'), kind, pt.brand) }];
+});
 // "Código de recompensa" se escreve igual em espanhol e em português (mesma exceção do test-locale-home.ts).
 const CODE_TITLE_SAME_AS_PORTUGUESE = new Set(['es:reward']);
+// Todo texto fixo do site em português (menu, rodapé, seletor) mais os da home em português, para a home
+// de cada idioma não deixar nenhum passar. O que o idioma escreve igual ao português sai por locale.
 const PT_ONLY_TEXTS = [
   ...Object.values(CECILIA_PHOTO_COPY_PT),
   ...getShellNavLinks('pt').map((link) => link.label),
-  ...fixedTexts(getShellCopy('pt')),
+  ...shellTexts('pt'),
   'Da minha casa',
   'Mais sobre mim',
   'Entre no grupo de promoções',
-  getYesStylePage('pt')?.category,
-  getCouponBySlug('shein')?.category,
-  ...Object.values(PT_CODE_TITLES),
+  ...PT_STORE_CATEGORIES,
+  ...PT_CODE_TITLES.map(({ title }) => title),
 ].filter((text): text is string => Boolean(text));
-const homeCodes = getLocaleHomeStores('en').map((store) => store.code).filter(Boolean).join('|');
-const HOME_CODE_AS_COUPON = new RegExp(
-  `(?:${COUPON_WORDS})(?: de \\S+)?[:：]? ?(?:${homeCodes})|(?:${homeCodes})[ -]?(?:${COUPON_WORDS})`,
-  'iu'
-);
-const STORE_HOST = /^https?:\/\/(?:[\w-]+\.)*(?:yesstyle|shein)\.com/i;
 
 for (const locale of LOCALE_HOME_LOCALES) {
   const pagePath = getLocaleHomePath(locale);
@@ -638,7 +652,11 @@ for (const locale of LOCALE_HOME_LOCALES) {
   assert.deepEqual(schemas.map((schema) => schema['@type']).sort(), ['FAQPage', 'Person'], `${pagePath}: tipos do JSON-LD`);
   const person = schemas.find((schema) => schema['@type'] === 'Person');
   assert.equal(person.name, CECILIA_FULL_NAME, `${pagePath}: Person sem o nome completo`);
-  assert.ok(person.sameAs.includes(brandLinks.instagram), `${pagePath}: Person sem o Instagram`);
+  assert.deepEqual(
+    person.sameAs,
+    getLocaleHomeContent(locale, publishedReviews).follow.networks.map((network) => network.href),
+    `${pagePath}: Person.sameAs diferente das redes da página`
+  );
   const visibleFaq = [...main.matchAll(/<details\b[^>]*><summary\b[^>]*>([\s\S]*?)<\/summary><div\b[^>]*><p\b[^>]*>([\s\S]*?)<\/p>/g)].map(
     ([, question, answer]) => ({ question: textOf(question), answer: textOf(answer) })
   );
@@ -651,25 +669,34 @@ for (const locale of LOCALE_HOME_LOCALES) {
     `${pagePath}: FAQPage diferente das perguntas na página`
   );
 
-  const hrefs = [...main.matchAll(/href="([^"]+)"/g)].map(([, href]) => decodeHtml(href));
-  assert.deepEqual(hrefs.filter((href) => STORE_HOST.test(href)), [], `${pagePath}: link de loja`);
-  for (const store of getLocaleHomeStores(locale)) assert.ok(hrefs.includes(store.href), `${pagePath}: sem ${store.href}`);
+  // Link de loja em qualquer ponto da página, menu e rodapé inclusive; já os cartões das lojas do idioma
+  // têm de estar no <main>, porque o menu também leva às páginas delas.
+  const hrefsIn = (html: string) => [...html.matchAll(/href="([^"]+)"/g)].map(([, href]) => decodeHtml(href));
+  assert.deepEqual(hrefsIn(body).filter(isStoreLink), [], `${pagePath}: link de loja`);
+  const mainHrefs = hrefsIn(main);
+  const stores = getLocaleHomeStores(locale);
+  for (const store of stores) assert.ok(mainHrefs.includes(store.href), `${pagePath}: sem ${store.href}`);
 
-  const ownTexts = new Set([...fixedTexts(getLocaleHomeCopy(locale)), ...fixedTexts(getShellCopy(locale))]);
-  const sameAsPortuguese = (Object.keys(PT_CODE_TITLES) as Array<keyof typeof PT_CODE_TITLES>)
-    .filter((kind) => CODE_TITLE_SAME_AS_PORTUGUESE.has(`${locale}:${kind}`))
-    .map((kind) => PT_CODE_TITLES[kind]);
+  const ownTexts = new Set([...fixedTexts(getLocaleHomeCopy(locale)), ...shellTexts(locale)]);
+  const sameAsPortuguese = PT_CODE_TITLES.filter(({ kind }) => CODE_TITLE_SAME_AS_PORTUGUESE.has(`${locale}:${kind}`)).map(({ title }) => title);
   const ptTexts = new Set(PT_ONLY_TEXTS.filter((text) => !ownTexts.has(text) && !sameAsPortuguese.includes(text)));
   const shownTexts = [
     ...[...body.matchAll(/>([^<>]+)</g)].map(([, text]) => decodeHtml(text).trim()),
     ...[...body.matchAll(/\s(?:alt|aria-label)="([^"]*)"/g)].map(([, text]) => decodeHtml(text).trim()),
   ].filter(Boolean);
   assert.deepEqual([...new Set(shownTexts.filter((text) => ptTexts.has(text)))], [], `${pagePath}: texto em português`);
-  assert.doesNotMatch(shownTexts.join(' '), HOME_CODE_AS_COUPON, `${pagePath}: código chamado de cupom`);
+  const codeAsCoupon = codeAsCouponRegExp(stores.flatMap((store) => (store.code ? [store.code] : [])));
+  if (codeAsCoupon) assert.doesNotMatch(shownTexts.join(' '), codeAsCoupon, `${pagePath}: código chamado de cupom`);
 
-  // O logo da lista de artigos do idioma leva à home do idioma.
+  // Na lista de artigos do idioma, o logo do cabeçalho e o do rodapé levam à home do idioma. O cabeçalho é
+  // o primeiro <header> da página e o rodapé, o último <footer>.
   const hubFile = builtFile(`${SITE_URL}/${locale}/reviews`);
-  assert.ok(hubFile && read(hubFile).includes(`href="${pagePath}"`), `/${locale}/reviews: logo sem a home do idioma`);
+  assert.ok(hubFile, `/${locale}/reviews: página não gerada no build`);
+  const hubBody = bodyOf(read(hubFile));
+  const header = hubBody.match(/<header\b[\s\S]*?<\/header>/)?.[0] ?? '';
+  const footer = [...hubBody.matchAll(/<footer\b[\s\S]*?<\/footer>/g)].at(-1)?.[0] ?? '';
+  assert.ok(header.includes(`href="${pagePath}"`), `/${locale}/reviews: logo do cabeçalho sem a home do idioma`);
+  assert.ok(footer.includes(`href="${pagePath}"`), `/${locale}/reviews: logo do rodapé sem a home do idioma`);
 
   assert.ok(sitemapUrls.includes(`${SITE_URL}${pagePath}`), `sitemap.xml sem ${pagePath}`);
   assert.ok(llmsUrls.includes(`${SITE_URL}${pagePath}`), `llms.txt sem ${pagePath}`);
@@ -1250,5 +1277,5 @@ const cardsIn = (section: string) => {
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar e a interface de ${articleUrls.length} artigos, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja e ${eventHubPaths.length} páginas de data e ${LOCALE_HOME_LOCALES.length} homes de idioma conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar e a interface de ${articleUrls.length} artigos, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, ${eventHubPaths.length} páginas de data e ${LOCALE_HOME_LOCALES.length} homes de idioma conferidos.`
 );

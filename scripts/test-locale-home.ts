@@ -40,14 +40,11 @@ import {
 } from '@/lib/localeHome';
 import { getPublishedReviewsForLocale } from '@/lib/review-hubs';
 
+import { COUPON_WORD_LIST, codeAsCouponRegExp, escapeRegExp, getStoreHostMention, isStoreLink } from './locale-home-guards';
+
 // Rótulo do código igual ao do PT só onde a palavra é a mesma nas duas línguas: "Código de recompensa"
 // é assim em espanhol e em português. Chave: idioma:tipo do código.
 const LABEL_SAME_AS_PORTUGUESE = new Set(['es:reward']);
-
-// As palavras de cupom, uma lista só: as do sidebarCopy.ts (couponLabel) e os compostos do alemão. As
-// palavras de código em geral (code, código, codice, 코드, コード) ficam de fora: o CECILIA010 é um código.
-const COUPON_WORD_LIST =
-  'cupo[mn]s?|cup[oó]n(?:es)?|coupons?|gutschein\\w*|discount|descuento|desconto|promo|rabatt\\w*|sconto|쿠폰|クーポン|優惠[碼券]|优惠[码券]';
 
 // O certificado da YesStyle vale até validUntil, pela data UTC: depois disso a build para.
 const todayUtc = new Date().toISOString().slice(0, 10);
@@ -148,7 +145,7 @@ for (const locale of LOCALE_HOME_LOCALES) {
     `${locale}: "onde uso" sem as páginas das lojas`
   );
   assert.equal(content.follow.networks.length, 4, `${locale}: 4 redes`);
-  assert.doesNotMatch(JSON.stringify(content), /yesstyle\.com|shein\.com|onelink\./i, `${locale}: link de loja na home`);
+  assert.doesNotMatch(JSON.stringify(content), getStoreHostMention(), `${locale}: link de loja na home`);
 }
 
 // hreflang: a raiz em português e as 9 homes, com o inglês de x-default.
@@ -178,11 +175,10 @@ const PT_ONLY_TEXTS = [
   getCouponBySlug('shein')?.category,
   ...Object.values(PT_CODE_TITLES),
 ].filter((text): text is string => Boolean(text));
-const CODES = expectedSlugs.map((slug) => getStoreCode(getCouponBySlug(slug)!)).filter(Boolean).join('|');
-const CODE_AS_COUPON = new RegExp(
-  `(?:${COUPON_WORD_LIST})(?: de \\S+)?[:：]? ?(?:${CODES})|(?:${CODES})[ -]?(?:${COUPON_WORD_LIST})`,
-  'iu'
+const CODE_AS_COUPON = codeAsCouponRegExp(
+  expectedSlugs.map((slug) => getStoreCode(getCouponBySlug(slug)!)).filter((code): code is string => Boolean(code))
 );
+assert.ok(CODE_AS_COUPON, 'nenhuma loja da home com código');
 const decode = (text: string) =>
   text.replace(/&#x27;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
 // Os textos que aparecem na tela e os que o leitor de tela lê (alt e aria-label).
@@ -199,7 +195,6 @@ const render = (element: ReturnType<typeof createElement>) =>
   renderToStaticMarkup(createElement(ImageConfigContext.Provider, { value: imageConfig }, element));
 const hrefsOf = (html: string) => [...html.matchAll(/href="([^"]+)"/g)].map(([, href]) => decode(href));
 const h1Count = (html: string) => (html.match(/<h1\b/g) ?? []).length;
-const escapeRegExp = (text: string) => text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
 for (const locale of LOCALE_HOME_LOCALES) {
   const content = getLocaleHomeContent(locale, publishedReviews);
@@ -251,7 +246,7 @@ for (const locale of LOCALE_HOME_LOCALES) {
   assert.equal(handles.size, 1, `${locale}: redes com perfis diferentes`);
   assert.equal(visibleTexts(follow).filter((text) => handles.has(text)).length, 1, `${locale}: o @ das redes não aparece uma vez só`);
 
-  assert.deepEqual(hrefs.filter((href) => /yesstyle\.com|shein\.com|onelink\./i.test(href)), [], `${locale}: link de loja`);
+  assert.deepEqual(hrefs.filter(isStoreLink), [], `${locale}: link de loja`);
   assert.deepEqual(visibleTexts(all).filter((text) => ptTexts.includes(text)), [], `${locale}: texto em português`);
   assert.doesNotMatch(visibleTexts(all).join(' '), CODE_AS_COUPON, `${locale}: código chamado de cupom`);
   assert.ok(!all.includes('data-reveal'), `${locale}: data-reveal no HTML do servidor`);
