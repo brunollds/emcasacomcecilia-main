@@ -28,7 +28,7 @@ npm run test:home-events     # datas comerciais: content/home-events.json, a fai
 npm run test:home-lower-sections  # receitas, Explore a casa, ofertas (e o feed) e vídeos da home
 npm run test:home-route-tracking  # placements do home_route_click
 npm run test:html-lang       # depois do build: <html lang> de cada rota
-npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, textos que citam o CECILIA010, a home, as subpáginas de loja e as páginas de data
+npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, textos que citam o CECILIA010, a home, os cards de /reviews, as subpáginas de loja e as páginas de data
 ```
 
 `npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
@@ -151,7 +151,7 @@ vídeo, primeiras impressões e uso noturno.
 
 ### Component layers
 - `src/components/ui/` — Shared building blocks: `focusRing.ts` (`FOCUS_RING`, `FOCUS_RING_ON_DARK`), `ScrollRow` and `CategoryIcon`.
-- `src/components/sections/` — Page sections: the D2 home (`HomeStoreStories`, `HomeCeciliaPanel`, `HomeLatest`, `HomeEvent`, `PopularRecipes`, `MyLinks`, `Offers`, `CTA`, the last three wrapped in `HomeSection`) and `EventHubPage`. `Navbar` and `Footer` live in `src/components/`.
+- `src/components/sections/` — Page sections: the D2 home (`HomeStoreStories`, `HomeCeciliaPanel`, `HomeLatest`, `HomeEvent`, `PopularRecipes`, `MyLinks`, `Offers`, `CTA`, the last three wrapped in `HomeSection`) and `EventHubPage`, which reads the data and wraps `EventHubView` (the date page itself, rendered by `test:home-events`; it must not import `next/font`, which does not run under tsx). `Navbar` and `Footer` live in `src/components/`.
 - Each route group has its own root layout (`src/app/(pt)/layout.js`, `src/app/(en)/layout.tsx`… and `src/app/[locale]/layout.tsx`). All of them render `RootLayoutShell` (`src/components/RootLayoutShell.tsx`): `Navbar → {children} → Footer`.
 
 ### Artigos: sumário no celular
@@ -192,6 +192,9 @@ vídeo, primeiras impressões e uso noturno.
   foco do teclado, o card meio escondido entra inteiro na tela. As bolinhas da vitrine ficam de
   fora: elas já centralizam a loja escolhida.
 - Onde um artigo aparece na home está na seção 10 do `docs/GUIA-EDITORIAL-GUIAS-ANALISES.md`.
+- A subpágina de loja e a página da data compartilham com imagem (a da página de cupom da loja; na
+  data, a capa do artigo mais novo) e levam JSON-LD de lista (`CollectionPage` e `BreadcrumbList`),
+  tudo por `src/lib/pageSeo.ts`, que a página de cupom também usa para a imagem da loja.
 
 ### Páginas de loja (cupons)
 
@@ -233,6 +236,12 @@ Font is Montserrat loaded via `next/font/google` in `RootLayoutShell.tsx` as `--
 
 Código de cupom que pode quebrar linha usa `break-all text-balance`: as linhas saem do mesmo
 tamanho, sem sobrar uma ou duas letras sozinhas. O `text-balance` não age sobre `wrap-anywhere`.
+
+Animação que respeita "reduzir movimento" leva `motion-safe:`. As classes soltas do `globals.css`
+(`.animate-slide-up`, `.animate-float`…) não são utilitários do Tailwind 4 e não aceitam variante:
+`motion-safe:animate-slide-up` não gera CSS. Use o valor arbitrário com o `@keyframes` delas, como
+`motion-safe:animate-[slide-up_0.5s_ease-out_backwards]` (o `backwards` segura o card escondido durante o
+`animation-delay`).
 
 ### Pages
 | Route | File |

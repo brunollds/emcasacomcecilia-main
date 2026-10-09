@@ -593,7 +593,8 @@ esta lista:
 - **`/categorias` (revisão final da Fase 5):** está sem link interno desde a Fase 5a, porque o
   "Todas categorias" era do `RecipeCategoryLinks`. **Decisão do Bruno (08/10):** sai do sitemap na
   Fase 6c e continua no ar para quem tem o endereço. Feito em `dc0785c`; o `test:build-output`
-  barra a volta dela ao sitemap.
+  barra a volta dela ao sitemap. Depois da revisão externa, o Bruno decidiu tirá-la também do
+  Google: `robots: noindex, follow` em `17b0196`, com trava no `test:build-output`.
 - **Filas que rolam na horizontal (revisão da Fase 5):** o Chrome só rola a fila quando o card
   focado pelo teclado está todo escondido; o card meio visível fica cortado. Passa o WCAG 2.4.11 e
   não o 2.4.12. **Decisão do Bruno (08/10): corrigir.** O `ScrollRow` da Fase 6e (`087c40e`)
@@ -616,18 +617,21 @@ esta lista:
   invólucro (`section` com `aria-labelledby`, contêiner de 1200 px e `h2` condensado). O
   `HomeSection` da Fase 6e (`087c40e`) serve a Explore a casa, Ofertas do dia e Últimos vídeos.
 - **Na próxima mudança de `homeStoreTabs.ts`:** o prefixo `loja-` numa constante; a conta das
-  setas, Home e End sai de `HomeStoreStories.tsx` para lá, com teste; o teste ganha a ida e volta
-  `parseTabHash('#' + getTabAnchor(id))`, o hash sem `#` e `getTabOrder([])`.
+  setas, Home e End sai de `HomeStoreStories.tsx` para lá, com teste. A ida e volta
+  `parseTabHash('#' + getTabAnchor(id))`, o hash sem `#` e `getTabOrder([])` já estão no teste
+  (`7d756d5`, `b12cbee`).
 - **Analytics:** o `home_store_select` dispara a cada seta do teclado. Ou mede só o clique, ou o
   relatório avisa que inclui a navegação por teclado.
 - **Loja nova:** `MASCULINE_STORES` ("do Magalu") vira um campo da loja em `couponsData.ts`.
 - **`test:home-stores`:** o UTM da Let's Eat It, o CECILIA010 também na descrição e no desconto da
   YesStyle, artigo sem imagem, logo e iniciais, dicas de loja sem código, e o `getHomeLatest` com
   imagem e com menos de 5 artigos.
-- **Revisão do `/reviews` e da subpágina:** etiquetas de 10 px e `h1` → `h3` sem `h2` no
-  `ReviewHubCard`; animações do card fora do `motion-safe:`; Open Graph e Twitter completos na
-  subpágina (`siteName`, `locale`, imagem, `twitter.title`); `lastModified` das subpáginas no
-  sitemap; JSON-LD (`CollectionPage` e `BreadcrumbList`), se o Bruno quiser.
+- **Revisão do `/reviews` e da subpágina (feita em 08–09/10, na rodada da revisão externa):** o
+  card ganhou o `FOCUS_RING`, as animações só com `motion-safe:` e o selo "Novo" em marinho
+  (`e233ba5`, `f2e1099`); as duas páginas, um `h2` só para leitor de tela entre o `h1` e os `h3`;
+  a subpágina, `lastModified` no sitemap. A subpágina e a página da data compartilham com imagem e
+  levam `CollectionPage` e `BreadcrumbList` (`0ce4f28`, `f3e0096`, decisões 1 e 2 do Bruno). Ficam as
+  etiquetas de 10 px.
 - **Fase 6g (feito em 08/10):** medir o HTML da vitrine (336 KB, 25 KB gzip: 72 `next/image` e a
   miniatura de cada artigo duas vezes por painel). Medido no build de `16cfd5f`:
   - a home inteira: 493 KB, 50,7 KB gzip e 23,6 KB brotli, com 85 `<img`;
@@ -641,6 +645,34 @@ esta lista:
   o `clsx`, o `tailwind-merge` e o `class-variance-authority`, que só eles usavam. Depois saiu o
   CSS sem uso de `globals.css`: `.animate-shimmer`, `@keyframes shimmer`, `.hover-lift`,
   `.card-hover`, `.img-zoom` e `.category-overlay`.
+- **Revisão externa (Meta Muse, 08/10):** 10 achados importantes e 30 menores sobre `ddee7d7`,
+  conferidos um a um no código. Corrigidos em seis fases:
+  - R1: o guarda da home confere cada painel de loja, o rótulo do botão de copiar e a ordem do
+    "Acabou de sair" (`3740e28`, `a6575dd`).
+  - R2: a página da data renderizada em teste pelo `EventHubView`, a faixa nos três temas e o link
+    das abas (`7d756d5`, `b12cbee`).
+  - R3: limite de 3 s no YouTube, oferta repetida descartada e campos de vídeo sem leitor fora
+    (`dfc1451`, `988dcbc`).
+  - R4: o card de Guias & Análises (`e233ba5`, `f2e1099`, `d9928aa`).
+  - R5: imagem de compartilhamento e JSON-LD por `src/lib/pageSeo.ts` (`0ce4f28`, `f3e0096`).
+  - R6: `/categorias` fora do Google e o endereço da subpágina num lugar só (`17b0196`).
+
+  Ficaram de fora:
+  - a miniatura e o logo repetidos na vitrine: são desenhos de celular e desktop, e o navegador
+    não baixa a cópia escondida;
+  - o TTFB e o `priority`: a home é ISR, e a primeira imagem já é `eager` com prioridade alta;
+  - a ordem do foco no painel da Cecília e em "Ver todas as receitas": desvio de boa prática, não
+    falha; o Bruno decidiu deixar;
+  - os ícones sociais repetidos com o Footer e o evento da vitrine parecido com o de `/reviews`:
+    parecidos, não iguais;
+  - o `MASCULINE_STORES`, que espera a próxima loja;
+  - o Hero no `data/media-manifest.json`, que espera o próximo inventário de mídia.
+
+  Pré-existentes na main, para uma passada separada:
+  - texto branco sobre `#ff6b35` em receitas, sobre, contato e faqs;
+  - `animate-slide-up` sem `motion-safe:` no topo de `/reviews`, em `/categorias` e nas receitas;
+  - o JSON-LD sai de `JSON.stringify` sem escapar `<` em cerca de 16 pontos do site. Os textos
+    são do repositório e nenhum tem `<` hoje; um ajudante comum resolveria todos de uma vez.
 - **Pedido do Bruno (08/10), numa fase a combinar:** as bolinhas viram um carrossel e as lojas
   entram na ordem do artigo mais novo de cada uma. A Cecília fica sempre em primeiro. Loja sem
   artigo fica no fim, na ordem de `couponsData.ts`. A ordem sai dos dados, então muda sozinha a
