@@ -1,7 +1,8 @@
 import { getActiveCoupons, type Coupon } from '@/lib/couponsData';
 import { getStoreCode, ofStore, type StoreReview } from '@/lib/homeStores';
 import { getTabAnchor } from '@/lib/homeStoreTabs';
-import { isListedInPortuguese } from '@/lib/reviewDiscovery';
+import { SITE_SOCIAL_IMAGE, absoluteMediaUrl, type SocialImage } from '@/lib/pageSeo';
+import { getListedPortugueseReviews, isListedInPortuguese, sortReviewsByPublishedAt } from '@/lib/reviewDiscovery';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 // Datas comerciais (Black Friday, Natal, 11.11…), configuradas em content/home-events.json. A home
@@ -59,6 +60,7 @@ export type EventHubPageData = {
   dayLabel: string;
   countdownLabel?: string;
   cards: HomeEventCard[];
+  socialImage: SocialImage;
 };
 
 const HOME_CARD_LIMIT = 4;
@@ -233,6 +235,17 @@ function toCards(event: HomeEventEntry, reviews: readonly StoreReview[], stores:
   });
 }
 
+// A capa do artigo mais novo da edição, com o desempate do site (data e depois id). O card traz a
+// capa já resolvida, mas não a data; sem capa em nenhum card, vale o logo do site.
+function getSocialImage(cards: readonly HomeEventCard[], reviews: readonly StoreReview[]): SocialImage {
+  const covered = cards.filter((card) => card.image);
+  const slugs = new Set(covered.map((card) => card.slug));
+  const [newest] = sortReviewsByPublishedAt(getListedPortugueseReviews(reviews.filter(({ slug }) => slugs.has(slug))));
+  const card = covered.find(({ slug }) => slug === newest?.slug);
+
+  return card?.image ? { url: absoluteMediaUrl(card.image), alt: card.title } : SITE_SOCIAL_IMAGE;
+}
+
 function isOpen(event: HomeEventEntry, now: Date): boolean {
   return Date.parse(event.startsAt) <= now.getTime() && now.getTime() < Date.parse(event.endsAt);
 }
@@ -275,6 +288,7 @@ export function getEventHubPage(
   if (editions.length === 0) return null;
   const started = editions.filter((item) => Date.parse(item.startsAt) <= now.getTime());
   const event = started.length > 0 ? started[started.length - 1] : editions[0];
+  const cards = toCards(event, reviews, stores);
 
   return {
     hub,
@@ -287,7 +301,8 @@ export function getEventHubPage(
     dayDate: formatIsoDay(event.dayAt),
     dayLabel: formatEventDay(event.dayAt, true),
     countdownLabel: now.getTime() < Date.parse(event.endsAt) ? getCountdownLabel(event.dayAt, now) : undefined,
-    cards: toCards(event, reviews, stores),
+    cards,
+    socialImage: getSocialImage(cards, reviews),
   };
 }
 

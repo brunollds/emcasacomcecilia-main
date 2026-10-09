@@ -4,16 +4,9 @@ import homeEventsConfig from '@/../content/home-events.json';
 import { couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { EventHubView } from '@/components/sections/EventHubView';
 import { publishedReviews } from '@/lib/data';
-import { getEventHubPage, type HomeEventCard } from '@/lib/homeEvents';
+import { getEventHubPage } from '@/lib/homeEvents';
 import { LOCALES } from '@/lib/i18n/locales';
-import {
-  SITE_NAME,
-  SITE_SOCIAL_IMAGE,
-  absoluteMediaUrl,
-  getCollectionPageJsonLd,
-  type SocialImage,
-} from '@/lib/pageSeo';
-import { getListedPortugueseReviews, sortReviewsByPublishedAt } from '@/lib/reviewDiscovery';
+import { SITE_NAME, getCollectionPageJsonLd } from '@/lib/pageSeo';
 
 // Página fixa de uma data comercial (/black-friday, /natal…): a edição mais recente, com todos os
 // artigos dela. Fica fora do menu e entra no sitemap. Cada data tem uma rota de poucas linhas em
@@ -23,23 +16,9 @@ function getPage(hub: string) {
   return getEventHubPage(homeEventsConfig, publishedReviews, hub, new Date());
 }
 
-// A capa do artigo mais novo da edição, com o desempate do site (data e depois id). O card traz a
-// capa já resolvida, mas não a data.
-function getEventSocialImage(cards: readonly HomeEventCard[]): SocialImage {
-  const covered = cards.filter((card) => card.image);
-  const slugs = new Set(covered.map((card) => card.slug));
-  const [newest] = sortReviewsByPublishedAt(
-    getListedPortugueseReviews(publishedReviews.filter((review) => slugs.has(review.slug)))
-  );
-  const card = covered.find((item) => item.slug === newest?.slug);
-
-  return card?.image ? { url: absoluteMediaUrl(card.image), alt: card.title } : SITE_SOCIAL_IMAGE;
-}
-
 export function getEventHubMetadata(hub: string): Metadata {
   const page = getPage(hub);
   if (!page) return {};
-  const image = getEventSocialImage(page.cards);
 
   return {
     title: page.metaTitle,
@@ -52,10 +31,15 @@ export function getEventHubMetadata(hub: string): Metadata {
       siteName: SITE_NAME,
       locale: LOCALES.pt.openGraphLocale,
       type: 'website',
-      images: [image],
+      images: [page.socialImage],
     },
     // O layout já define título e descrição genéricos no twitter, e o Next não os troca pelos do Open Graph.
-    twitter: { card: 'summary_large_image', title: page.metaTitle, description: page.description, images: [image.url] },
+    twitter: {
+      card: 'summary_large_image',
+      title: page.metaTitle,
+      description: page.description,
+      images: [page.socialImage.url],
+    },
   };
 }
 

@@ -20,6 +20,7 @@ import {
   resolveActiveHomeEvent,
 } from '@/lib/homeEvents';
 import type { StoreReview } from '@/lib/homeStores';
+import { SITE_SOCIAL_IMAGE, absoluteMediaUrl } from '@/lib/pageSeo';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 function store(slug: string) {
@@ -290,6 +291,26 @@ assert.deepEqual(
   'a página mostra todos os artigos'
 );
 
+// A capa de compartilhamento é a do artigo mais novo pela ordem do site (data e depois id), não a do
+// primeiro card. Com as datas iguais do fixture, ganha o id maior, que é o último card.
+const coverOf = (slug: string) => ({ url: absoluteMediaUrl(`/images/reviews/teste/${slug}.webp`), alt: `Título ${slug}` });
+const socialImageOf = (list: ReviewFixture[], overrides: Record<string, unknown> = {}) =>
+  getEventHubPage({ events: [event(overrides)] }, list, 'black-friday', at('2026-11-07T10:00:00-03:00'), stores)?.socialImage;
+const newestOn = (slug: string, publishedAtISO: string) =>
+  reviews.map((item) => (item.slug === slug ? { ...item, publishedAt: publishedAtISO, publishedAtISO } : item));
+assert.deepEqual(during?.socialImage, coverOf('bf-dolce'), 'datas iguais: o id maior, e não o primeiro card');
+assert.deepEqual(
+  socialImageOf(newestOn('bf-magalu', '2026-10-25')),
+  coverOf('bf-magalu'),
+  'o mais novo por data, mesmo no 2º card e com id menor que o do último'
+);
+assert.deepEqual(
+  socialImageOf(newestOn('bf-sem-loja', '2026-10-30')),
+  coverOf('bf-dolce'),
+  'o mais novo sem capa não conta: vale o mais novo que tem capa'
+);
+assert.deepEqual(socialImageOf(reviews, { articleSlugs: ['bf-sem-loja'] }), SITE_SOCIAL_IMAGE, 'sem capa em nenhum card, o logo do site');
+
 // A página renderizada: o EventHubView recebe a edição pronta, sem ler o JSON nem a data de hoje.
 assert.ok(during);
 const hubHtml = renderToStaticMarkup(createElement(EventHubView, { page: during }));
@@ -348,4 +369,4 @@ for (const name of hubRoutes) {
   assert.equal(sitemapPaths.has(`/${name}`), realHubPaths.includes(`/${name}`), `/${name} no sitemap só com edição`);
 }
 
-console.log(`✅ homeEvents: validação (${invalid.length} casos), janela, contagem, home (dados e HTML), página da data, rotas e sitemap passaram.`);
+console.log(`✅ homeEvents: validação (${invalid.length} casos), janela, contagem, home (dados e HTML), página da data e a capa dela, rotas e sitemap passaram.`);

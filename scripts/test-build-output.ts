@@ -23,7 +23,7 @@ import {
 } from '../src/lib/homeStores';
 import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
 import { LOCALES, LOCALE_KEYS, type Locale } from '../src/lib/i18n/locales';
-import { SITE_NAME, SITE_SOCIAL_IMAGE, absoluteMediaUrl, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
+import { SITE_NAME, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
@@ -616,11 +616,20 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
     (body.match(/id="painel-loja-/g) ?? []).length === expected.tabs.length,
     'vitrine: número de painéis de loja diferente do de lojas ativas'
   );
-  const yesStyle = textOf(panelIn(body, 'loja-yesstyle'));
-  check(yesStyle.includes('Código de recompensa') && !yesStyle.includes('Cupom YesStyle'), 'painel da YesStyle: o CECILIA010 sem o rótulo de recompensa');
-  const shein = textOf(panelIn(body, 'loja-shein'));
-  check(shein.includes('Código de indicação') && !shein.includes('Cupom SHEIN'), 'painel da SHEIN: o 4CW5Y sem o rótulo de indicação');
-  check(textOf(panelIn(body, 'loja-nestle-nutre')).includes('fórmulas infantis de 0 a 12 meses'), 'painel da Nestlé Nutre: sem a exclusão das fórmulas infantis');
+  // Os textos que o negócio exige de três lojas só valem enquanto a loja estiver ativa: pausá-la em
+  // couponsData.ts é mudança de conteúdo e tira a aba e o painel dela.
+  const isActive = (slug: string) => expected.tabs.some((tab) => tab.slug === slug);
+  if (isActive('yesstyle')) {
+    const yesStyle = textOf(panelIn(body, 'loja-yesstyle'));
+    check(yesStyle.includes('Código de recompensa') && !yesStyle.includes('Cupom YesStyle'), 'painel da YesStyle: o CECILIA010 sem o rótulo de recompensa');
+  }
+  if (isActive('shein')) {
+    const shein = textOf(panelIn(body, 'loja-shein'));
+    check(shein.includes('Código de indicação') && !shein.includes('Cupom SHEIN'), 'painel da SHEIN: o 4CW5Y sem o rótulo de indicação');
+  }
+  if (isActive('nestle-nutre')) {
+    check(textOf(panelIn(body, 'loja-nestle-nutre')).includes('fórmulas infantis de 0 a 12 meses'), 'painel da Nestlé Nutre: sem a exclusão das fórmulas infantis');
+  }
 
   // "Acabou de sair": os 5 mais novos e o link para /reviews, sem código e sem botão de copiar.
   const latest = between(body, LATEST_SECTION, ['aria-labelledby="titulo-data-comercial"', ...LOWER_SECTIONS.map((id) => `aria-labelledby="${id}"`)]);
@@ -703,9 +712,11 @@ const storeWhere = (what: string, find: (tab: HomeTab) => boolean) => {
   return tab;
 };
 const [firstTab] = homeExpected.tabs;
-const yesStyleTab = storeWhere('da YesStyle', (tab) => tab.slug === 'yesstyle');
 const codeTab = storeWhere('com código', (tab) => !!tab.code);
 const articleTab = storeWhere('com artigo', (tab) => tab.articles.length > 0);
+// As mutações dos textos que o guarda exige de uma loja pelo nome: só existem com a loja ativa, como a trava.
+const forStore = (slug: string, mutations: string[]) =>
+  homeExpected.tabs.some((tab) => tab.slug === slug) ? mutations : [];
 
 // Os links de artigo do "Acabou de sair" na ordem do HTML: primeiro a lista do celular, depois a grade.
 const latestStart = homeBody.indexOf(LATEST_SECTION);
@@ -720,15 +731,15 @@ const openPanel = (tab: HomeTab) => `id="painel-loja-${tab.slug}"`;
 
 // O guarda acima recusa a home errada: cada mutação abaixo precisa achar o trecho e dar problema.
 const brokenHomes = [
-  homeBody.replace('>Código de recompensa YesStyle<', '>Cupom YesStyle<'),
+  ...forStore('yesstyle', [homeBody.replace('>Código de recompensa YesStyle<', '>Cupom YesStyle<')]),
   homeBody.replace(WHATSAPP_LINK, (tag) => tag.replace(' target="_blank"', '').replace(' rel="noopener noreferrer"', '')),
   homeBody.split(hrefOf(homeExpected.latest[0].href)).join('href="/outra"'),
   homeBody.replace(LATEST_SECTION, `${LATEST_SECTION}><button>Copiar</button`),
   homeBody.replace('aria-labelledby="titulo-receitas"', 'aria-labelledby="titulo-outra"'),
   // O menu também linka a DAMIE: troca todos, senão a mutação pegaria só o do menu.
   homeBody.split(hrefOf(brandLinks.damie)).join('href="/outra"'),
-  homeBody.split('Código de indicação').join('Cupom'),
-  homeBody.split('fórmulas infantis de 0 a 12 meses').join('fórmulas infantis'),
+  ...forStore('shein', [homeBody.split('Código de indicação').join('Cupom')]),
+  ...forStore('nestle-nutre', [homeBody.split('fórmulas infantis de 0 a 12 meses').join('fórmulas infantis')]),
   // Sem ofertas e sem vídeos (o feed e a API fora do ar no build), o Explore a casa acaba no rodapé,
   // que também linka o Dicas & Ofertas: o link que some do Explore precisa dar problema.
   (() => {
@@ -741,17 +752,17 @@ const brokenHomes = [
   })(),
   homeBody.replace(LATEST_SECTION, `id="painel-loja-inativa" ${LATEST_SECTION}`),
   homeBody.replace(LATEST_SECTION, `${LATEST_SECTION}><a href="/reviews/artigo-a-mais"></a`),
-  homeBody.replace('id="painel-loja-shein"', 'id="painel-loja-shein"><span>Cupom SHEIN</span'),
+  ...forStore('shein', [homeBody.replace('id="painel-loja-shein"', 'id="painel-loja-shein"><span>Cupom SHEIN</span')]),
   // Fora de ordem, sem um artigo ou com um artigo repetido em só um dos desenhos: a lista do celular e a grade.
   swapLinks(latestMutationLinks[0], latestMutationLinks[1]),
   swapLinks(latestMutationLinks[latestCount], latestMutationLinks[latestCount + 1]),
   replaceLink(latestMutationLinks[2 * latestCount - 1], 'href="/outra"'),
   doubleLink(latestMutationLinks[0]),
   doubleLink(latestMutationLinks[latestCount]),
-  // O painel de uma loja por inteiro, uma mutação por trava: o rótulo do botão de copiar (a YesStyle
-  // não tem cupom), o código, a dica, a oferta, o link da loja e os artigos. O texto de dados é escapado
-  // como o React o escreve.
-  inPanel(yesStyleTab, (panel) => panel.replace(`aria-label="${escapeHtml(COPY_LABELS.copyCoupon(rewardCode))}"`, `aria-label="Copiar o cupom ${rewardCode}"`)),
+  // O painel de uma loja por inteiro, uma mutação por trava: o rótulo do botão de copiar (código nunca
+  // é cupom), o código, a dica, a oferta, o link da loja e os artigos. O texto de dados é escapado como
+  // o React o escreve.
+  inPanel(codeTab, (panel) => panel.replace(`aria-label="${escapeHtml(COPY_LABELS.copyCoupon(codeTab.code))}"`, `aria-label="Copiar o cupom ${codeTab.code}"`)),
   inPanel(codeTab, (panel) => panel.replace(`>${escapeHtml(codeTab.code)}<`, '>OUTRO<')),
   inPanel(codeTab, (panel) => panel.replace(`>${escapeHtml(codeTab.hints.copy)}<`, '>Outra dica.<')),
   inPanel(firstTab, (panel) => panel.replace(`>${escapeHtml(firstTab.discount)}<`, '>Outra oferta<')),
@@ -763,6 +774,20 @@ const brokenHomes = [
 for (const broken of brokenHomes) {
   assert.notEqual(broken, homeBody, 'a mutação do autoteste da home não achou o trecho');
   assert.ok(homeProblems(broken, homeExpected).length > 0, 'o guarda da home deixou passar uma home errada');
+}
+
+// Pausar uma loja em couponsData.ts tira a aba e o painel dela: sem a loja nos dados e no HTML, o guarda
+// não pode acusar nada pelo nome dela.
+for (const slug of ['yesstyle', 'shein', 'nestle-nutre']) {
+  const tab = homeExpected.tabs.find((item) => item.slug === slug);
+  if (!tab) continue;
+  const paused = inPanel(tab, () => '');
+  assert.notEqual(paused, homeBody, `a loja ${slug} pausada: o autoteste não achou o painel`);
+  assert.deepEqual(
+    homeProblems(paused, { ...homeExpected, tabs: homeExpected.tabs.filter((item) => item !== tab) }),
+    [],
+    `/: home sem a loja ${slug}`
+  );
 }
 
 // O que um artigo novo pode criar ou desfazer (loja sem artigo, loja com "Ver os N artigos") não dá para
@@ -791,11 +816,13 @@ for (const { html, expected } of wrongExpectations) {
 }
 
 // Os cards de Guias & Análises (ReviewHubCard) de /reviews e das subpáginas de loja: o h2 só para
-// leitor de tela entre o h1 e os h3 dos cards, e o anel de foco da casa em cada link de card.
-// Devolve as tags dos links de card.
+// leitor de tela entre o h1 e os h3 dos cards, e o anel de foco da casa em cada link de card. Os
+// cards são os links de artigo da grade, do h2 até o fim da <section> dele: um link de artigo fora
+// dela (destaque, rodapé) não é card. Devolve as tags dos links de card.
 function assertHubCards(where: string, body: string, heading: string) {
-  assert.ok(body.includes(`<h2 class="sr-only">${heading}</h2>`), `${where}: sem o h2 "${heading}" entre o h1 e os h3 dos cards`);
-  const tags = [...body.matchAll(/<a\b[^>]*\bhref="\/reviews\/[^"/]+"[^>]*>/g)].map(([tag]) => tag);
+  const grid = between(body, `<h2 class="sr-only">${heading}</h2>`, ['</section>']);
+  assert.ok(grid, `${where}: sem o h2 "${heading}" entre o h1 e os h3 dos cards`);
+  const tags = [...grid.matchAll(/<a\b[^>]*\bhref="\/reviews\/[^"/]+"[^>]*>/g)].map(([tag]) => tag);
   assert.ok(tags.length > 0, `${where}: sem links de card`);
   for (const tag of tags) {
     assert.match(tag, /\bclass="[^"]* focus-visible:outline-marinho[ "]/, `${where}: card sem o anel de foco da casa: ${tag}`);
@@ -805,13 +832,27 @@ function assertHubCards(where: string, body: string, heading: string) {
 
 const reviewsFile = builtFile(`${SITE_URL}/reviews`);
 assert.ok(reviewsFile, '/reviews: página não gerada no build');
-assertHubCards('/reviews', bodyOf(read(reviewsFile)), 'Lista de conteúdos');
+const reviewsBody = bodyOf(read(reviewsFile));
+assertHubCards('/reviews', reviewsBody, 'Lista de conteúdos');
+
+// Só a grade conta. Um link de artigo sem o anel fora dela, antes do h2 ou depois do fim da <section>,
+// não é card e passa; dentro dela o guarda acusa, e sem o h2 ou com o h2 depois dos cards também.
+{
+  const heading = 'Lista de conteúdos';
+  const h2 = `<h2 class="sr-only">${heading}</h2>`;
+  const link = '<a href="/reviews/x">destaque</a>';
+  const gridEnd = reviewsBody.indexOf('</section>', reviewsBody.indexOf(h2)) + '</section>'.length;
+  assertHubCards('/reviews', link + reviewsBody, heading);
+  assertHubCards('/reviews', reviewsBody.slice(0, gridEnd) + link + reviewsBody.slice(gridEnd), heading);
+  assert.throws(() => assertHubCards('/reviews', reviewsBody.replace(h2, h2 + link), heading), /card sem o anel de foco/, 'link sem anel dentro da grade passa');
+  assert.throws(() => assertHubCards('/reviews', reviewsBody.replace(h2, ''), heading), /sem o h2/, 'grade sem o h2 passa');
+  assert.throws(() => assertHubCards('/reviews', reviewsBody.replace(h2, '') + h2, heading), /sem links de card/, 'h2 depois dos cards passa');
+}
 
 // O <head> e o JSON-LD de uma página que lista artigos (subpágina de loja e página de data): o
-// og:image é uma das imagens esperadas, com o alt dela, e o cartão do X leva a mesma; depois o nome do
+// og:image e o alt são exatamente os da imagem esperada, e o cartão do X leva a mesma; depois o nome do
 // site, o idioma, um CollectionPage com um item por artigo e um BreadcrumbList que termina na página.
-// Na página de data a capa depende das datas dos artigos, então ela passa uma imagem por card.
-function assertListPageSeo(pagePath: string, html: string, expected: { items: number; images: SocialImage[] }) {
+function assertListPageSeo(pagePath: string, html: string, expected: { items: number; image: SocialImage }) {
   const head = headOf(html);
   const metaOf = (key: string) =>
     decodeHtml(head.match(new RegExp(`<meta (?:property|name)="${key}" content="([^"]*)"`))?.[1] ?? '');
@@ -819,9 +860,8 @@ function assertListPageSeo(pagePath: string, html: string, expected: { items: nu
   assert.ok(canonical, `${pagePath}: sem canonical`);
 
   const image = metaOf('og:image');
-  const match = expected.images.find((candidate) => candidate.url === image);
-  assert.ok(match, `${pagePath}: og:image fora das imagens esperadas (${image || 'ausente'})`);
-  assert.equal(metaOf('og:image:alt'), match.alt, `${pagePath}: og:image:alt`);
+  assert.equal(image, expected.image.url, `${pagePath}: og:image diferente da esperada`);
+  assert.equal(metaOf('og:image:alt'), expected.image.alt, `${pagePath}: og:image:alt`);
   assert.equal(metaOf('twitter:image'), image, `${pagePath}: twitter:image diferente do og:image`);
   assert.equal(metaOf('og:site_name'), SITE_NAME, `${pagePath}: og:site_name`);
   assert.equal(metaOf('og:locale'), LOCALES.pt.openGraphLocale, `${pagePath}: og:locale`);
@@ -834,11 +874,11 @@ function assertListPageSeo(pagePath: string, html: string, expected: { items: nu
   assert.equal(breadcrumb?.itemListElement?.at(-1)?.item, canonical, `${pagePath}: último item do BreadcrumbList`);
 }
 
-// O guarda passa no HTML certo (com uma ou várias imagens esperadas, inclusive o logo do site) e falha em
-// cada defeito, com a mensagem do defeito e nenhuma outra: og:image fora das esperadas (sozinho ou junto
-// com o cartão do X), cartão do X com outra imagem, alt trocado, de outra imagem ou vazio, página sem nome
-// do site ou com outro idioma, lista de outro tamanho e CollectionPage ou BreadcrumbList que apontam para
-// outra página.
+// O guarda passa no HTML certo (uma capa ou o logo do site) e falha em cada defeito, com a mensagem do
+// defeito e nenhuma outra: og:image de outra imagem (sozinho ou junto com o cartão do X), inclusive o
+// logo no lugar da capa e a capa no lugar do logo, cartão do X com outra imagem, alt trocado ou vazio,
+// página sem nome do site ou com outro idioma, lista de outro tamanho e CollectionPage ou
+// BreadcrumbList que apontam para outra página.
 {
   const page = '/reviews/loja/fixture';
   const canonical = `${SITE_URL}${page}`;
@@ -869,18 +909,17 @@ function assertListPageSeo(pagePath: string, html: string, expected: { items: nu
       `<body>${schemas.map((schema) => `<script type="application/ld+json">${JSON.stringify(schema)}</script>`).join('')}</body>`,
     ].join('');
   };
-  const images = [image];
-  assertListPageSeo(page, fixture(), { items: 2, images });
-  // Página de data: várias capas possíveis e o logo do site; cada imagem leva o alt dela.
+  assertListPageSeo(page, fixture(), { items: 2, image });
+  // Página de data sem capa em nenhum artigo: o logo do site, com o alt dele.
   const siteLogo = { url: 'https://cdn.emcasacomcecilia.com/v1/image/logo.png', alt: SITE_NAME };
-  const covers = [{ url: other, alt: 'Outro artigo' }, image, siteLogo];
-  assertListPageSeo(page, fixture(), { items: 2, images: covers });
-  assertListPageSeo(page, fixture({ ogImage: siteLogo.url, twitterImage: siteLogo.url, alt: SITE_NAME }), { items: 2, images: covers });
+  const logoPage = fixture({ ogImage: siteLogo.url, twitterImage: siteLogo.url, alt: SITE_NAME });
+  assertListPageSeo(page, logoPage, { items: 2, image: siteLogo });
   const failures: Array<[string, RegExp, string]> = [
-    [fixture({ ogImage: other, twitterImage: other }), /: og:image fora das imagens/, 'og:image e cartão do X de outra imagem passam'],
-    [fixture({ ogImage: other }), /: og:image fora das imagens/, 'og:image de outra imagem, com o cartão do X certo, passa'],
+    [fixture({ ogImage: other, twitterImage: other }), /: og:image diferente da esperada/, 'og:image e cartão do X de outra imagem passam'],
+    [fixture({ ogImage: other }), /: og:image diferente da esperada/, 'og:image de outra imagem, com o cartão do X certo, passa'],
     [fixture({ twitterImage: other }), /: twitter:image diferente do og:image/, 'cartão do X de outra imagem passa'],
-    [fixture({ ogImage: '/images/capa.webp', twitterImage: '/images/capa.webp' }), /: og:image fora das imagens/, 'og:image relativo passa'],
+    [fixture({ ogImage: '/images/capa.webp', twitterImage: '/images/capa.webp' }), /: og:image diferente da esperada/, 'og:image relativo passa'],
+    [logoPage, /: og:image diferente da esperada/, 'o logo no lugar da capa esperada passa'],
     [fixture({ alt: 'Outro alt' }), /: og:image:alt/, 'alt trocado passa'],
     [fixture({ alt: '' }), /: og:image:alt/, 'alt vazio passa'],
     [fixture({ siteName: '' }), /: og:site_name/, 'og:site_name vazio passa'],
@@ -890,13 +929,12 @@ function assertListPageSeo(pagePath: string, html: string, expected: { items: nu
     [fixture({ lastCrumb: `${SITE_URL}/reviews` }), /: último item do BreadcrumbList/, 'BreadcrumbList de outra página passa'],
   ];
   for (const [html, message, why] of failures) {
-    assert.throws(() => assertListPageSeo(page, html, { items: 2, images }), message, why);
+    assert.throws(() => assertListPageSeo(page, html, { items: 2, image }), message, why);
   }
-  // A capa com o alt de outra imagem da lista não vale: o alt tem de ser o da imagem que apareceu.
   assert.throws(
-    () => assertListPageSeo(page, fixture({ alt: SITE_NAME }), { items: 2, images: covers }),
-    /: og:image:alt/,
-    'alt do logo na capa de um artigo passa'
+    () => assertListPageSeo(page, fixture(), { items: 2, image: siteLogo }),
+    /: og:image diferente da esperada/,
+    'a capa de um artigo no lugar do logo esperado passa'
   );
 }
 
@@ -914,13 +952,15 @@ for (const slug of storeArticleSlugs) {
   const body = bodyOf(html);
   assert.equal(headOf(html).match(/<link rel="canonical" href="([^"]+)"/)?.[1], `${SITE_URL}${pagePath}`, `${pagePath}: canonical`);
   assert.equal(textOf(body.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1] ?? ''), page.title, `${pagePath}: h1`);
-  const cardSlugs = new Set([...body.matchAll(/href="\/reviews\/([^"/]+)"/g)].map(([, cardSlug]) => cardSlug));
-  assert.deepEqual([...cardSlugs].sort(), page.articles.map((article) => article.slug).sort(), `${pagePath}: um card por artigo da loja`);
   assert.ok(body.includes(hrefOf(page.storePageUrl)), `${pagePath}: sem o link de ${page.storePageUrl}`);
-  assert.equal(assertHubCards(pagePath, body, 'Lista de artigos').length, page.articles.length, `${pagePath}: um link por card`);
+  // Os cards são os links de artigo da grade (assertHubCards): o que está fora dela não conta.
+  const cardTags = assertHubCards(pagePath, body, 'Lista de artigos');
+  const cardSlugs = new Set(cardTags.map((tag) => tag.match(/href="\/reviews\/([^"/]+)"/)?.[1]));
+  assert.deepEqual([...cardSlugs].sort(), page.articles.map((article) => article.slug).sort(), `${pagePath}: um card por artigo da loja`);
+  assert.equal(cardTags.length, page.articles.length, `${pagePath}: um link por card`);
   const store = getCouponBySlug(slug);
   assert.ok(store, `${pagePath}: sem a loja ${slug} em couponsData`);
-  assertListPageSeo(pagePath, html, { items: page.articles.length, images: [getStoreSocialImage(store)] });
+  assertListPageSeo(pagePath, html, { items: page.articles.length, image: getStoreSocialImage(store) });
   // O lastmod da subpágina é a data do artigo mais novo: a da atualização, ou a da publicação.
   const newestDate = page.articles.map((article) => article.updatedAt ?? article.publishedAtISO).filter(Boolean).sort().at(-1);
   assert.ok(newestDate, `${pagePath}: nenhum artigo com data`);
@@ -941,12 +981,9 @@ for (const hubPath of eventHubPaths) {
   const body = bodyOf(html);
   assert.equal(headOf(html).match(/<link rel="canonical" href="([^"]+)"/)?.[1], `${SITE_URL}${hubPath}`, `${hubPath}: canonical`);
   assert.equal(textOf(body.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1] ?? ''), page.title, `${hubPath}: h1`);
-  // A capa depende das datas dos artigos: vale a de qualquer card da página (com o título dele de alt)
-  // ou o logo do site.
-  const covers = page.cards.flatMap((card) =>
-    card.image ? [{ url: absoluteMediaUrl(card.image), alt: card.title }] : []
-  );
-  assertListPageSeo(hubPath, html, { items: page.cards.length, images: [...covers, SITE_SOCIAL_IMAGE] });
+  // A capa é a que os dados escolhem (getEventHubPage, testada no test:home-events): a do artigo mais
+  // novo, ou o logo do site.
+  assertListPageSeo(hubPath, html, { items: page.cards.length, image: page.socialImage });
   for (const card of page.cards) {
     assert.ok(body.includes(hrefOf(card.href)), `${hubPath}: sem o card de ${card.slug}`);
     if (card.codeLink) {
