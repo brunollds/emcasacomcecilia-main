@@ -118,6 +118,7 @@ export function getLocaleHomeContent(locale: LocaleHomeLocale, reviews: HubRevie
   };
   const listed = getPublishedReviewsForLocale(locale, reviews);
   const dateFormat = new Intl.DateTimeFormat(htmlLang, { dateStyle: 'medium', timeZone: 'UTC' });
+  const longDate = new Intl.DateTimeFormat(htmlLang, { dateStyle: 'long', timeZone: 'UTC' });
   const hub = getReviewHubCopy(locale);
   const photo: CeciliaPhotoCopy = {
     alt: copy.photoAlt,
@@ -155,6 +156,18 @@ export function getLocaleHomeContent(locale: LocaleHomeLocale, reviews: HubRevie
       certificate: {
         title: YESSTYLE_CERTIFICATE.title,
         tier: fillTemplate(copy.certificateTier, { years: getCertificateYears() }),
+        linkLabel: copy.certificateLink,
+        closeLabel: copy.certificateClose,
+        image: {
+          src: resolveMediaUrl(YESSTYLE_CERTIFICATE.image.src),
+          width: YESSTYLE_CERTIFICATE.image.width,
+          height: YESSTYLE_CERTIFICATE.image.height,
+          alt: fillTemplate(copy.certificateAlt, {
+            name: CECILIA_FULL_NAME,
+            from: longDate.format(new Date(`${YESSTYLE_CERTIFICATE.validFrom}T00:00:00Z`)),
+            until: longDate.format(new Date(`${YESSTYLE_CERTIFICATE.validUntil}T00:00:00Z`)),
+          }),
+        },
       },
       photo,
       photoUrl: new URL(CECILIA_PHOTO, SITE_URL).href,

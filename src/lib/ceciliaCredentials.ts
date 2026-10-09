@@ -6,11 +6,14 @@ export const CECILIA_REGION = 'Minas Gerais';
 export const CECILIA_COUNTRY = 'BR';
 
 // As datas do certificado. O test:locale-home para a build quando a data UTC passa de validUntil:
-// troque a imagem e as datas pelo certificado novo, ou tire o selo.
+// troque a imagem (pelo fluxo do docs/GUIA-MIDIA-EDITORIAL.md) e as datas pelo certificado novo, ou
+// tire o selo.
 export const YESSTYLE_CERTIFICATE = {
   title: 'YesStyle Superstar Influencer',
   validFrom: '2026-08-09',
   validUntil: '2027-08-31',
+  // O print do certificado, cortado; entra pelo fluxo de mídia do CDN.
+  image: { src: '/images/about/cecilia/certificado-yesstyle-superstar-2026.webp', width: 597, height: 726 },
 } as const;
 
 // Datas AAAA-MM-DD se comparam como texto.

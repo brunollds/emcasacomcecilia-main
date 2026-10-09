@@ -1,5 +1,6 @@
 import { CalendarDays, Mail, MapPin, Star } from 'lucide-react';
 import { TrackedHomeLink } from '@/components/TrackedHomeLink';
+import { CertificateDialog } from '@/components/sections/CertificateDialog';
 import { CeciliaPhotoCard, CeciliaStats, SocialIcon } from '@/components/sections/CeciliaProfile';
 import { FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
 import type { LocaleHomeContent } from '@/lib/localeHome';
@@ -61,6 +62,12 @@ export function LocaleHomeHero({ hero }: { hero: LocaleHomeContent['hero'] }) {
               <span className="text-sm font-extrabold">{hero.certificate.title}</span>
               <span className="text-xs font-semibold">{hero.certificate.tier}</span>
             </p>
+            <CertificateDialog
+              image={hero.certificate.image}
+              title={hero.certificate.title}
+              linkLabel={hero.certificate.linkLabel}
+              closeLabel={hero.certificate.closeLabel}
+            />
           </div>
 
           <CeciliaStats stats={hero.stats} />

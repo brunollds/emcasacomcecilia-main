@@ -224,6 +224,14 @@ for (const locale of LOCALE_HOME_LOCALES) {
   assert.ok(visibleTexts(hero).includes(content.hero.certificate.tier), `${locale}: hero sem o tipo do selo`);
   assert.ok(hrefsOf(hero).includes(content.hero.mailto), `${locale}: hero sem o e-mail`);
   for (const { label } of content.hero.social) assert.ok(all.includes(`aria-label="${label}"`), `${locale}: sem ${label}`);
+  // "See certificate" é um link para a imagem, que funciona sem JavaScript; a janela leva a imagem com
+  // o texto do certificado no alt, no idioma.
+  const certificate = content.hero.certificate;
+  assert.ok(hero.includes(`href="${certificate.image.src}"`), `${locale}: sem o link do certificado`);
+  assert.ok(hero.includes(`>${certificate.linkLabel}<`), `${locale}: sem o rótulo do link do certificado`);
+  assert.ok(hero.includes('<dialog'), `${locale}: sem a janela do certificado`);
+  assert.ok(hero.includes(`aria-label="${certificate.closeLabel}"`), `${locale}: janela sem o botão de fechar`);
+  assert.ok(certificate.image.alt.includes(CECILIA_FULL_NAME) && certificate.image.alt.includes('SUPERSTAR'), `${locale}: alt do certificado`);
   for (const id of ['titulo-cecilia', 'titulo-lojas', 'titulo-artigos', 'titulo-seguro', 'titulo-perguntas', 'titulo-redes']) {
     assert.ok(all.includes(`id="${id}"`), `${locale}: sem a seção ${id}`);
   }
