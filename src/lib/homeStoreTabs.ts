@@ -3,7 +3,7 @@
 
 export const CECILIA_TAB_ID = 'cecilia';
 // Loja aberta ao entrar na home (decisão de 07/10).
-export const DEFAULT_STORE_SLUG = 'damie';
+const DEFAULT_STORE_SLUG = 'damie';
 
 export type HomeStoreArticle = {
   slug: string;

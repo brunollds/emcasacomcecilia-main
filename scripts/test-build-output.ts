@@ -14,7 +14,13 @@ import { getCouponBySlug, getStoreCodeKind } from '../src/lib/couponsData';
 import { getCouponLanguageLinks, getLocalizedCoupon, getTranslatedCouponRoutes } from '../src/lib/couponTranslations';
 import { publishedReviews, recipes } from '../src/lib/data';
 import { getEventHubPage, getEventHubPaths, resolveActiveHomeEvent } from '../src/lib/homeEvents';
-import { getHomeLatest, getHomeStoreTabs, getStoreArticlePageSlugs, getStoreArticlesPage } from '../src/lib/homeStores';
+import {
+  getHomeLatest,
+  getHomeStoreTabs,
+  getStoreArticlePageSlugs,
+  getStoreArticlesPage,
+  getStoreArticlesPath,
+} from '../src/lib/homeStores';
 import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
 import { LOCALES, LOCALE_KEYS, type Locale } from '../src/lib/i18n/locales';
 import { SITE_NAME, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
@@ -519,8 +525,11 @@ const yesStyleListItem = jsonLdOf(read(couponsHubFile))
 assert.ok(yesStyleListItem?.name.includes(rewardCode), `/cupons: YesStyle fora da ItemList ou sem o ${rewardCode}`);
 assert.doesNotMatch(yesStyleListItem.name, COUPON_WORD, `/cupons: a ItemList chama o ${rewardCode} de cupom`);
 
-// /categorias ficou sem link no site e saiu do sitemap (decisão do Bruno, 08/10).
+// /categorias ficou sem link no site, saiu do sitemap e do Google, mas segue no ar (decisão do Bruno, 08/10).
 assert.ok(!sitemapUrls.includes(`${SITE_URL}/categorias`), 'sitemap.xml com /categorias');
+const categoriasFile = builtFile(`${SITE_URL}/categorias`);
+assert.ok(categoriasFile, '/categorias: página não gerada no build');
+assert.ok(headOf(read(categoriasFile)).includes('<meta name="robots" content="noindex, follow"/>'), '/categorias: sem robots noindex, follow no <head>');
 
 // A home (D2) como o build a gerou, contra os mesmos dados que a montam: a vitrine, o "Acabou de
 // sair", a data comercial e as seções de baixo. Ofertas e vídeos dependem do feed do Dicas & Ofertas
@@ -883,9 +892,9 @@ function assertListPageSeo(pagePath: string, html: string, expected: { items: nu
 // o JSON-LD e a data no sitemap.
 const storeArticleSlugs = getStoreArticlePageSlugs(publishedReviews);
 for (const slug of storeArticleSlugs) {
+  const pagePath = getStoreArticlesPath(slug);
   const page = getStoreArticlesPage(publishedReviews, slug);
-  assert.ok(page, `/reviews/loja/${slug}: sem dados`);
-  const pagePath = `/reviews/loja/${slug}`;
+  assert.ok(page, `${pagePath}: sem dados`);
   const file = builtFile(`${SITE_URL}${pagePath}`);
   assert.ok(file, `${pagePath}: página não gerada no build`);
   const html = read(file);

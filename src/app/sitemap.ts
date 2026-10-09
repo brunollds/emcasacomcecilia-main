@@ -4,7 +4,7 @@ import { recipes, publishedReviews } from '@/lib/data';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { getActiveCoupons, getCouponBySlug } from '@/lib/couponsData';
 import { getCouponStorePath, getTranslatedCouponRoutes } from '@/lib/couponTranslations';
-import { getStoreArticlePageSlugs, getStoreArticlesPage } from '@/lib/homeStores';
+import { getStoreArticlePageSlugs, getStoreArticlesPage, getStoreArticlesPath } from '@/lib/homeStores';
 import { getEventHubPaths } from '@/lib/homeEvents';
 import { YESSTYLE_LOCALES } from '@/lib/i18n/clusters/yesstyle';
 import { REVIEW_HUB_LOCALES, getReviewHubPath } from '@/lib/review-hubs';
@@ -53,7 +53,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Todos os artigos de cada loja (/reviews/loja/{slug}), só em português.
   const storeArticleRoutes: MetadataRoute.Sitemap = getStoreArticlePageSlugs(publishedReviews).map((slug) => ({
-    url: `${BASE_URL}/reviews/loja/${slug}`,
+    url: `${BASE_URL}${getStoreArticlesPath(slug)}`,
     priority: 0.6,
     changeFrequency: 'weekly' as const,
     lastModified: newestDate(getStoreArticlesPage(publishedReviews, slug)?.articles ?? []),
