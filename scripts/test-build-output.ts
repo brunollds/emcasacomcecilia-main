@@ -2,12 +2,16 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
 import homeEventsConfig from '../content/home-events.json';
+import { getYesStylePage } from '../src/components/coupons/yesstyleCopy';
 import { getArticleCopy } from '../src/components/review/articleCopy';
 import { getCouponCopyLabels } from '../src/components/review/couponCopyLocale';
 import { getGalleryCopy } from '../src/components/review/galleryCopy';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '../src/components/review/sidebarCopy';
+import { CECILIA_PHOTO_COPY_PT } from '../src/components/sections/CeciliaProfile';
+import { getLocaleHomeCopy } from '../src/components/sections/localeHomeCopy';
 import { getShareCopy } from '../src/components/shared/shareCopy';
 import { brandLinks } from '../src/lib/brandLinks';
+import { CECILIA_FULL_NAME } from '../src/lib/ceciliaCredentials';
 import type { Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
 import { getAllActiveCouponSlugs, getCouponBySlug, getStoreCodeKind } from '../src/lib/couponsData';
@@ -28,14 +32,16 @@ import {
 } from '../src/lib/homeStores';
 import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
 import { LOCALES, LOCALE_KEYS, type Locale } from '../src/lib/i18n/locales';
+import { getShellCopy, getShellNavLinks } from '../src/lib/i18n/shellDictionary';
+import { LOCALE_HOME_LOCALES, getHomeLanguageLinks, getLocaleHomePath, getLocaleHomeStores } from '../src/lib/localeHome';
 import { SITE_NAME, SITE_SOCIAL_IMAGE, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
 // das lojas traduzidas e dos artigos de cada família, as páginas da YesStyle, o dock, a sidebar e a
 // interface dos artigos no idioma de cada um, os textos que citam o CECILIA010, a home, os cards de
-// /reviews, as subpáginas de loja e as páginas de data, ambas com a imagem de compartilhamento, o
-// JSON-LD e o lastmod do sitemap. O <html lang> fica com test-c2-html-lang.
+// /reviews, as subpáginas de loja e as páginas de data, ambas com a imagem de compartilhamento, as
+// homes de cada idioma, o JSON-LD e o lastmod do sitemap. O <html lang> fica com test-c2-html-lang.
 const SITE_URL = 'https://emcasacomcecilia.com';
 const APP_DIR = path.resolve('.next/server/app');
 const CSS_DIR = path.resolve('.next/static/css');
@@ -571,6 +577,102 @@ for (const url of articleUrls) {
       `${pagePath}: gaveta sem o título "${drawerTitle}" no card do código`
     );
   }
+}
+
+// A home de cada idioma (/en, /ja…):
+// - no <head>, canonical, hreflang das 10 homes com x-default em inglês, e o mesmo hreflang na raiz;
+// - no <main>, o Person e o FAQPage, que repete as perguntas da página;
+// - nenhum texto em português, nenhum link de loja (só as páginas das lojas no idioma) e nenhum código
+//   chamado de cupom;
+// - nada escondido pela rolagem no HTML;
+// - o logo das páginas do idioma levando a ela, e a home no sitemap e no llms.txt.
+const homeAlternates = Object.entries(getHomeLanguageLinks()).map(([hreflang, href]) => `${hreflang} ${href}`).sort();
+{
+  const rootHead = headOf(read(path.join(APP_DIR, 'index.html')));
+  assert.deepEqual(
+    [...rootHead.matchAll(/<link rel="alternate" hrefLang="([^"]+)" href="([^"]+)"/g)].map(([, hreflang, href]) => `${hreflang} ${href}`).sort(),
+    homeAlternates,
+    '/: hreflang das homes de cada idioma'
+  );
+}
+
+// Todo texto fixo do site em português (menu, rodapé, seletor) mais os da home em português, para a
+// home de cada idioma não deixar nenhum passar. O que o idioma escreve igual ao português sai por locale.
+const PT_CODE_TITLES = {
+  reward: getCodeTitle(getSidebarCopy('pt'), 'reward', 'YesStyle'),
+  referral: getCodeTitle(getSidebarCopy('pt'), 'referral', 'SHEIN'),
+};
+// "Código de recompensa" se escreve igual em espanhol e em português (mesma exceção do test-locale-home.ts).
+const CODE_TITLE_SAME_AS_PORTUGUESE = new Set(['es:reward']);
+const PT_ONLY_TEXTS = [
+  ...Object.values(CECILIA_PHOTO_COPY_PT),
+  ...getShellNavLinks('pt').map((link) => link.label),
+  ...fixedTexts(getShellCopy('pt')),
+  'Da minha casa',
+  'Mais sobre mim',
+  'Entre no grupo de promoções',
+  getYesStylePage('pt')?.category,
+  getCouponBySlug('shein')?.category,
+  ...Object.values(PT_CODE_TITLES),
+].filter((text): text is string => Boolean(text));
+const homeCodes = getLocaleHomeStores('en').map((store) => store.code).filter(Boolean).join('|');
+const HOME_CODE_AS_COUPON = new RegExp(
+  `(?:${COUPON_WORDS})(?: de \\S+)?[:：]? ?(?:${homeCodes})|(?:${homeCodes})[ -]?(?:${COUPON_WORDS})`,
+  'iu'
+);
+const STORE_HOST = /^https?:\/\/(?:[\w-]+\.)*(?:yesstyle|shein)\.com/i;
+
+for (const locale of LOCALE_HOME_LOCALES) {
+  const pagePath = getLocaleHomePath(locale);
+  const file = builtFile(`${SITE_URL}${pagePath}`);
+  assert.ok(file, `${pagePath}: página não gerada no build`);
+  const html = read(file);
+  assertLocalizedHead(pagePath, headOf(html), homeAlternates, LOCALES[locale].openGraphLocale);
+
+  const main = html.match(/<main\b[\s\S]*<\/main>/)?.[0] ?? '';
+  const body = bodyOf(html);
+  assert.equal((body.match(/<h1\b/g) ?? []).length, 1, `${pagePath}: H1`);
+  assert.ok(!html.includes('data-reveal'), `${pagePath}: data-reveal no HTML`);
+
+  const schemas = jsonLdOf(main);
+  assert.deepEqual(schemas.map((schema) => schema['@type']).sort(), ['FAQPage', 'Person'], `${pagePath}: tipos do JSON-LD`);
+  const person = schemas.find((schema) => schema['@type'] === 'Person');
+  assert.equal(person.name, CECILIA_FULL_NAME, `${pagePath}: Person sem o nome completo`);
+  assert.ok(person.sameAs.includes(brandLinks.instagram), `${pagePath}: Person sem o Instagram`);
+  const visibleFaq = [...main.matchAll(/<details\b[^>]*><summary\b[^>]*>([\s\S]*?)<\/summary><div\b[^>]*><p\b[^>]*>([\s\S]*?)<\/p>/g)].map(
+    ([, question, answer]) => ({ question: textOf(question), answer: textOf(answer) })
+  );
+  assert.equal(visibleFaq.length, 4, `${pagePath}: perguntas`);
+  assert.deepEqual(
+    schemas.find((schema) => schema['@type'] === 'FAQPage').mainEntity.map(
+      ({ name, acceptedAnswer }: { name: string; acceptedAnswer: { text: string } }) => ({ question: name, answer: acceptedAnswer.text })
+    ),
+    visibleFaq,
+    `${pagePath}: FAQPage diferente das perguntas na página`
+  );
+
+  const hrefs = [...main.matchAll(/href="([^"]+)"/g)].map(([, href]) => decodeHtml(href));
+  assert.deepEqual(hrefs.filter((href) => STORE_HOST.test(href)), [], `${pagePath}: link de loja`);
+  for (const store of getLocaleHomeStores(locale)) assert.ok(hrefs.includes(store.href), `${pagePath}: sem ${store.href}`);
+
+  const ownTexts = new Set([...fixedTexts(getLocaleHomeCopy(locale)), ...fixedTexts(getShellCopy(locale))]);
+  const sameAsPortuguese = (Object.keys(PT_CODE_TITLES) as Array<keyof typeof PT_CODE_TITLES>)
+    .filter((kind) => CODE_TITLE_SAME_AS_PORTUGUESE.has(`${locale}:${kind}`))
+    .map((kind) => PT_CODE_TITLES[kind]);
+  const ptTexts = new Set(PT_ONLY_TEXTS.filter((text) => !ownTexts.has(text) && !sameAsPortuguese.includes(text)));
+  const shownTexts = [
+    ...[...body.matchAll(/>([^<>]+)</g)].map(([, text]) => decodeHtml(text).trim()),
+    ...[...body.matchAll(/\s(?:alt|aria-label)="([^"]*)"/g)].map(([, text]) => decodeHtml(text).trim()),
+  ].filter(Boolean);
+  assert.deepEqual([...new Set(shownTexts.filter((text) => ptTexts.has(text)))], [], `${pagePath}: texto em português`);
+  assert.doesNotMatch(shownTexts.join(' '), HOME_CODE_AS_COUPON, `${pagePath}: código chamado de cupom`);
+
+  // O logo da lista de artigos do idioma leva à home do idioma.
+  const hubFile = builtFile(`${SITE_URL}/${locale}/reviews`);
+  assert.ok(hubFile && read(hubFile).includes(`href="${pagePath}"`), `/${locale}/reviews: logo sem a home do idioma`);
+
+  assert.ok(sitemapUrls.includes(`${SITE_URL}${pagePath}`), `sitemap.xml sem ${pagePath}`);
+  assert.ok(llmsUrls.includes(`${SITE_URL}${pagePath}`), `llms.txt sem ${pagePath}`);
 }
 
 // Toda página que cita o CECILIA010 segue a regra: as 10 da YesStyle, os artigos, /cupons e as lojas
@@ -1148,5 +1250,5 @@ const cardsIn = (section: string) => {
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar e a interface de ${articleUrls.length} artigos, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja e ${eventHubPaths.length} páginas de data conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar e a interface de ${articleUrls.length} artigos, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja e ${eventHubPaths.length} páginas de data e ${LOCALE_HOME_LOCALES.length} homes de idioma conferidos.`
 );
