@@ -9,6 +9,7 @@ import { getYesStylePage } from '@/components/coupons/yesstyleCopy';
 import { getCodeTitle, getSidebarCopy } from '@/components/review/sidebarCopy';
 import { CECILIA_PHOTO_COPY_PT } from '@/components/sections/CeciliaProfile';
 import { LocaleHomeHero } from '@/components/sections/LocaleHomeHero';
+import { LocaleHomePage } from '@/components/sections/LocaleHomePage';
 import {
   LocaleHomeArticles,
   LocaleHomeFaq,
@@ -29,6 +30,7 @@ import { publishedReviews } from '@/lib/data';
 import { getStoreCode } from '@/lib/homeStores';
 import { LOCALES, LOCALE_KEYS } from '@/lib/i18n/locales';
 import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
+import { serializeJsonLd } from '@/lib/jsonLd';
 import {
   LOCALE_HOME_LOCALES,
   getHomeLanguageLinks,
@@ -253,6 +255,39 @@ for (const locale of LOCALE_HOME_LOCALES) {
   assert.deepEqual(visibleTexts(all).filter((text) => ptTexts.includes(text)), [], `${locale}: texto em português`);
   assert.doesNotMatch(visibleTexts(all).join(' '), CODE_AS_COUPON, `${locale}: código chamado de cupom`);
   assert.ok(!all.includes('data-reveal'), `${locale}: data-reveal no HTML do servidor`);
+}
+
+// O "<" do JSON-LD sai escapado: um texto com "</script>" não fecha a tag antes da hora.
+assert.equal(serializeJsonLd({ text: '</script>' }), '{"text":"\\u003c/script>"}');
+assert.deepEqual(JSON.parse(serializeJsonLd({ text: '</script>' })), { text: '</script>' });
+
+// A página inteira: um H1, as seções na ordem aprovada e o JSON-LD com o Person e o FAQPage, cujas
+// perguntas e respostas são as que aparecem na página.
+const SECTION_ORDER = ['titulo-cecilia', 'titulo-lojas', 'titulo-artigos', 'titulo-seguro', 'titulo-perguntas', 'titulo-redes'];
+for (const locale of LOCALE_HOME_LOCALES) {
+  const content = getLocaleHomeContent(locale, publishedReviews);
+  const page = render(createElement(LocaleHomePage, { content }));
+  assert.equal(h1Count(page), 1, `${locale}: página sem um H1`);
+  const positions = SECTION_ORDER.map((id) => page.indexOf(`id="${id}"`));
+  assert.ok(positions.every((position) => position >= 0), `${locale}: seção faltando`);
+  assert.deepEqual([...positions].sort((a, b) => a - b), positions, `${locale}: seções fora da ordem`);
+
+  const schemas = [...page.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].map(([, json]) => JSON.parse(json));
+  assert.deepEqual(schemas.map((schema) => schema['@type']).sort(), ['FAQPage', 'Person'], `${locale}: tipos do JSON-LD`);
+  const person = schemas.find((schema) => schema['@type'] === 'Person');
+  assert.equal(person.name, CECILIA_FULL_NAME);
+  assert.equal(person.url, `https://emcasacomcecilia.com/${locale}`);
+  assert.deepEqual(person.sameAs, content.follow.networks.map((network) => network.href));
+  const faqPage = schemas.find((schema) => schema['@type'] === 'FAQPage');
+  assert.equal(faqPage.inLanguage, content.htmlLang);
+  const visibleFaq = [...page.matchAll(/<details\b[^>]*><summary\b[^>]*>([\s\S]*?)<\/summary><div\b[^>]*><p\b[^>]*>([\s\S]*?)<\/p>/g)].map(
+    ([, question, answer]) => ({ question: decode(question.replace(/<[^>]+>/g, '')).trim(), answer: decode(answer).trim() })
+  );
+  assert.deepEqual(
+    faqPage.mainEntity.map(({ name, acceptedAnswer }: { name: string; acceptedAnswer: { text: string } }) => ({ question: name, answer: acceptedAnswer.text })),
+    visibleFaq,
+    `${locale}: FAQPage diferente das perguntas na página`
+  );
 }
 
 console.log(`✅ locale home: ${LOCALE_HOME_LOCALES.length} idiomas, ${expectedSlugs.length} lojas e o certificado até ${YESSTYLE_CERTIFICATE.validUntil} passaram.`);
