@@ -41,7 +41,7 @@ import {
 } from '../src/lib/localeHome';
 import { SITE_NAME, SITE_SOCIAL_IMAGE, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
-import { codeAsCouponRegExp, getPtStoreTexts, isStoreLink } from './locale-home-guards';
+import { LABEL_SAME_AS_PORTUGUESE, codeAsCouponRegExp, getPtStoreTexts, isStoreLink } from './locale-home-guards';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
 // das lojas traduzidas e dos artigos de cada família, as páginas da YesStyle, o dock, a sidebar e a
@@ -613,8 +613,6 @@ const shellTexts = (locale: Locale) => {
 };
 // A categoria e o título do código de cada loja da home em português, e não só os da YesStyle e da SHEIN.
 const { categories: PT_STORE_CATEGORIES, codeTitles: PT_CODE_TITLES } = getPtStoreTexts();
-// "Código de recompensa" se escreve igual em espanhol e em português (mesma exceção do test-locale-home.ts).
-const CODE_TITLE_SAME_AS_PORTUGUESE = new Set(['es:reward']);
 // Todo texto fixo do site em português (menu, rodapé, seletor) mais os da home em português, para a home
 // de cada idioma não deixar nenhum passar. O que o idioma escreve igual ao português sai por locale.
 const PT_ONLY_TEXTS = [
@@ -633,7 +631,10 @@ for (const locale of LOCALE_HOME_LOCALES) {
   const file = builtFile(`${SITE_URL}${pagePath}`);
   assert.ok(file, `${pagePath}: página não gerada no build`);
   const html = read(file);
+  const content = getLocaleHomeContent(locale, publishedReviews);
   assertLocalizedHead(pagePath, headOf(html), homeAlternates, LOCALES[locale].openGraphLocale);
+  // A imagem de compartilhamento é a foto da Cecília, no og:image, no cartão do X e no Person.
+  assertShareImage(pagePath, headOf(html), { url: content.hero.photoUrl, alt: content.hero.photo.alt });
 
   const main = html.match(/<main\b[\s\S]*<\/main>/)?.[0] ?? '';
   const body = bodyOf(html);
@@ -646,9 +647,10 @@ for (const locale of LOCALE_HOME_LOCALES) {
   assert.equal(person.name, CECILIA_FULL_NAME, `${pagePath}: Person sem o nome completo`);
   assert.deepEqual(
     person.sameAs,
-    getLocaleHomeContent(locale, publishedReviews).follow.networks.map((network) => network.href),
+    content.follow.networks.map((network) => network.href),
     `${pagePath}: Person.sameAs diferente das redes da página`
   );
+  assert.equal(person.image, content.hero.photoUrl, `${pagePath}: Person.image diferente da foto do og:image`);
   const visibleFaq = [...main.matchAll(/<details\b[^>]*><summary\b[^>]*>([\s\S]*?)<\/summary><div\b[^>]*><p\b[^>]*>([\s\S]*?)<\/p>/g)].map(
     ([, question, answer]) => ({ question: textOf(question), answer: textOf(answer) })
   );
@@ -670,12 +672,14 @@ for (const locale of LOCALE_HOME_LOCALES) {
   for (const store of stores) assert.ok(mainHrefs.includes(store.href), `${pagePath}: sem ${store.href}`);
 
   const ownTexts = new Set([...fixedTexts(getLocaleHomeCopy(locale)), ...shellTexts(locale)]);
-  const sameAsPortuguese = PT_CODE_TITLES.filter(({ kind }) => CODE_TITLE_SAME_AS_PORTUGUESE.has(`${locale}:${kind}`)).map(({ title }) => title);
+  const sameAsPortuguese = PT_CODE_TITLES.filter(({ kind }) => LABEL_SAME_AS_PORTUGUESE.has(`${locale}:${kind}`)).map(({ title }) => title);
   const ptTexts = new Set(PT_ONLY_TEXTS.filter((text) => !ownTexts.has(text) && !sameAsPortuguese.includes(text)));
   const shownTexts = [
     ...[...body.matchAll(/>([^<>]+)</g)].map(([, text]) => decodeHtml(text).trim()),
     ...[...body.matchAll(/\s(?:alt|aria-label)="([^"]*)"/g)].map(([, text]) => decodeHtml(text).trim()),
   ].filter(Boolean);
+  // Sem este controle, um extrator que devolvesse a lista vazia faria a conferência de português passar à toa.
+  assert.ok(shownTexts.includes(getLocaleHomeCopy(locale).storesTitle), `${pagePath}: o texto extraído da página sem o título das lojas`);
   assert.deepEqual([...new Set(shownTexts.filter((text) => ptTexts.has(text)))], [], `${pagePath}: texto em português`);
   const codeAsCoupon = codeAsCouponRegExp(stores.flatMap((store) => (store.code ? [store.code] : [])));
   if (codeAsCoupon) assert.doesNotMatch(shownTexts.join(' '), codeAsCoupon, `${pagePath}: código chamado de cupom`);

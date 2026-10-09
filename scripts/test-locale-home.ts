@@ -41,22 +41,23 @@ import { getPublishedReviewsForLocale } from '@/lib/review-hubs';
 
 import {
   COUPON_WORD_LIST,
+  LABEL_SAME_AS_PORTUGUESE,
   codeAsCouponRegExp,
+  deriveStoreHosts,
   escapeRegExp,
   getPtStoreTexts,
   getStoreHostMention,
   isStoreLink,
+  urlHostsIn,
 } from './locale-home-guards';
 
-// Rótulo do código igual ao do PT só onde a palavra é a mesma nas duas línguas: "Código de recompensa"
-// é assim em espanhol e em português. Chave: idioma:tipo do código.
-const LABEL_SAME_AS_PORTUGUESE = new Set(['es:reward']);
-
-// O certificado da YesStyle vale até validUntil, pela data UTC: depois disso a build para.
+// O certificado da YesStyle vale de validFrom a validUntil, pela data UTC: fora disso a build para.
 const todayUtc = new Date().toISOString().slice(0, 10);
 assert.ok(
   isCertificateValid(todayUtc),
-  `O certificado da YesStyle venceu em ${YESSTYLE_CERTIFICATE.validUntil}: troque a imagem e as datas em src/lib/ceciliaCredentials.ts pelo certificado novo, ou tire o selo da home de cada idioma.`
+  todayUtc < YESSTYLE_CERTIFICATE.validFrom
+    ? `O certificado da YesStyle ainda não começou a valer (válido a partir de ${YESSTYLE_CERTIFICATE.validFrom}): a renovação foi posta antes da hora. Confira as datas em src/lib/ceciliaCredentials.ts; a build só volta a passar a partir desse dia.`
+    : `O certificado da YesStyle venceu em ${YESSTYLE_CERTIFICATE.validUntil}: troque a imagem e as datas em src/lib/ceciliaCredentials.ts pelo certificado novo, ou tire o selo da home de cada idioma.`
 );
 // As bordas saem das próprias datas, para renovar o certificado não quebrar o teste.
 const shiftDay = (dayIso: string, days: number): string => {
@@ -95,6 +96,31 @@ for (const locale of LOCALE_HOME_LOCALES) {
 }
 assert.equal(fillTemplate('{a} e {b}', { a: 1, b: 'x' }), '1 e x');
 assert.throws(() => fillTemplate('{name} desde {since}', { name: 'x' }), /since/);
+
+// Os casadores das travas de loja e de cupom acham o que têm de achar. Sem isto, um casador que passasse a
+// responder sempre "não" deixaria as travas das homes vazias e a build seguiria verde.
+assert.equal(isStoreLink('https://ystyle.co/x'), true, 'isStoreLink não acha o encurtador da YesStyle');
+assert.equal(isStoreLink('https://br.shein.com/x'), true, 'isStoreLink não acha a SHEIN Brasil');
+assert.equal(isStoreLink('/en/coupons/shein'), false, 'isStoreLink pegou a página da loja no próprio site');
+assert.match('Use o link ystyle.co/abc na compra', getStoreHostMention(), 'getStoreHostMention não acha ystyle.co no texto');
+assert.doesNotMatch('Veja as lojas em emcasacomcecilia.com/en/coupons/shein', getStoreHostMention(), 'getStoreHostMention pegou o próprio site');
+assert.match('cupom CECILIA010', codeAsCouponRegExp(['CECILIA010'])!, 'codeAsCouponRegExp não acha "cupom CECILIA010"');
+assert.match('4CW5Y coupon', codeAsCouponRegExp(['4CW5Y'])!, 'codeAsCouponRegExp não acha "4CW5Y coupon"');
+assert.match('할인 CECILIA010', codeAsCouponRegExp(['CECILIA010'])!, 'codeAsCouponRegExp não acha "할인 CECILIA010"');
+assert.match('割引 CECILIA010', codeAsCouponRegExp(['CECILIA010'])!, 'codeAsCouponRegExp não acha "割引 CECILIA010"');
+assert.doesNotMatch('Código CECILIA010', codeAsCouponRegExp(['CECILIA010'])!, 'codeAsCouponRegExp pegou "código"');
+assert.equal(codeAsCouponRegExp([]), undefined, 'codeAsCouponRegExp sem código nenhum tem de ficar sem casador');
+assert.deepEqual(urlHostsIn({ a: 'see https://ystyle.co/abc.' }), ['ystyle.co'], 'urlHostsIn não tira o host do meio da frase');
+assert.deepEqual(
+  deriveStoreHosts(['yesstyle'], () => [{ link: 'https://ystyle.co/x', site: 'https://emcasacomcecilia.com/en' }]),
+  ['ystyle.co'],
+  'deriveStoreHosts não tira só o host da loja'
+);
+assert.throws(
+  () => deriveStoreHosts(['yesstyle'], () => []),
+  /sem ystyle\.co: ou a derivação quebrou, ou o link de afiliado de yesstyle mudou de host.*SENTINEL_HOSTS/,
+  'deriveStoreHosts sem registros tem de lançar'
+);
 
 // Lojas: a YesStyle e as lojas com página traduzida, cada uma levando à página dela no idioma, com o
 // código do PT e o rótulo do idioma, que nunca chama o código de cupom.

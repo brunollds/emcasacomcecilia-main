@@ -15,10 +15,15 @@ const getHomeStoreSlugs = (): string[] => [
   ...new Set(LOCALE_HOME_LOCALES.flatMap((locale) => getLocaleHomeStores(locale).map((store) => store.slug))),
 ];
 
-// As palavras de cupom, uma lista só: as do sidebarCopy.ts (couponLabel) e os compostos do alemão. As
-// palavras de código em geral (code, código, codice, 코드, コード) ficam de fora: o CECILIA010 é um código.
+// As palavras de cupom, uma lista só: as do sidebarCopy.ts (couponLabel), os termos genéricos de desconto
+// em coreano e japonês ("할인 코드", "割引コード") e os compostos do alemão. As palavras de código em geral
+// (code, código, codice, 코드, コード) ficam de fora: o CECILIA010 é um código.
 export const COUPON_WORD_LIST =
-  'cupo[mn]s?|cup[oó]n(?:es)?|coupons?|gutschein\\w*|discount|descuento|desconto|promo|rabatt\\w*|sconto|쿠폰|クーポン|優惠[碼券]|优惠[码券]';
+  'cupo[mn]s?|cup[oó]n(?:es)?|coupons?|gutschein\\w*|discount|descuento|desconto|promo|rabatt\\w*|sconto|쿠폰|クーポン|할인|割引|優惠[碼券]|优惠[码券]';
+
+// Rótulo do código igual ao do PT só onde a palavra é a mesma nas duas línguas: "Código de recompensa" é
+// assim em espanhol e em português. Chave: idioma:tipo do código.
+export const LABEL_SAME_AS_PORTUGUESE = new Set(['es:reward']);
 
 export const escapeRegExp = (text: string) => text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
@@ -38,8 +43,8 @@ const STATIC_STORE_HOSTS = ['yesstyle.com', 'shein.com', 'ystyle.co'];
 const SITE_HOST = 'emcasacomcecilia.com';
 
 // O encurtador da YesStyle e o onelink da SHEIN são os links de afiliado dessas lojas: com a loja numa home,
-// têm de sair do dado dela, e se a derivação não os achar, ela quebrou. Loja pausada sai da home e, com ela,
-// da conferência.
+// têm de sair do dado dela, e se a derivação não os achar, ou ela quebrou, ou o link de afiliado mudou de
+// host e a lista abaixo é que está velha. Loja pausada sai da home e, com ela, da conferência.
 const SENTINEL_HOSTS = [
   { host: 'ystyle.co', slug: 'yesstyle' },
   { host: 'onelink.shein.com', slug: 'shein' },
@@ -76,7 +81,10 @@ export function deriveStoreHosts(slugs: readonly string[], recordsOf: (slug: str
   const derived = new Set(slugs.flatMap(recordsOf).flatMap(urlHostsIn).filter((host) => !host.endsWith(SITE_HOST)));
   for (const { host, slug } of SENTINEL_HOSTS) {
     if (!slugs.includes(slug)) continue;
-    assert.ok(derived.has(host), `hosts de loja tirados dos dados sem ${host}: a derivação quebrou (${[...derived].join(', ')})`);
+    assert.ok(
+      derived.has(host),
+      `hosts de loja tirados dos dados sem ${host}: ou a derivação quebrou, ou o link de afiliado de ${slug} mudou de host e é preciso atualizar SENTINEL_HOSTS (${[...derived].join(', ')})`
+    );
   }
   return [...derived];
 }
