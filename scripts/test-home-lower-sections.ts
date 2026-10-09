@@ -138,6 +138,7 @@ const offer = (id: string, fields: Partial<Offer>): Offer => ({
 const exploreHtml = render(createElement(MyLinks, { offers: [offer('s1', { originalPrice: 30, discountPrice: 20 })] }));
 const exploreText = textOf(exploreHtml);
 assert.match(exploreHtml, /<h2 id="titulo-explore-a-casa"[^>]*><span class="marca-texto">Explore a casa<\/span><\/h2>/);
+assert.equal(count(exploreHtml, /<li class="[^"]*\brevela\b[^"]*" style="--i:\d"/g), 2, 'os 2 cards do Explore a casa entram na rolagem');
 assert.equal(count(exploreHtml, /<li[\s>]/g), 2, 'DAMIE e Dicas & Ofertas');
 assert.ok(opensNewTab(linkTo(exploreHtml, brandLinks.damie)), 'a DAMIE abre o site dela em outra aba');
 const damie = getCouponBySlug('damie');
@@ -320,6 +321,7 @@ const videosHtml = render(
 const videosText = textOf(videosHtml);
 assert.match(videosHtml, /<h2 id="titulo-ultimos-videos"[^>]*><span class="marca-texto">Últimos vídeos<\/span><\/h2>/);
 assert.equal(count(videosHtml, /<li[\s>]/g), 6, 'no máximo 6, uma linha no desktop');
+assert.equal(count(videosHtml, /<li class="[^"]*\brevela\b[^"]*" style="--i:\d"/g), 6, 'os vídeos entram na rolagem');
 assert.ok(!videosText.includes('Vídeo v7'));
 assert.ok(opensNewTab(linkTo(videosHtml, 'https://www.youtube.com/watch?v=v1')));
 assert.equal(count(videosHtml, /<img[^>]* alt=""/g), 6, 'uma miniatura decorativa por vídeo');

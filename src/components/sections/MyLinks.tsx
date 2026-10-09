@@ -1,3 +1,4 @@
+import type { CSSProperties } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { HomeSection } from '@/components/sections/HomeSection';
@@ -24,7 +25,7 @@ export function MyLinks({ offers }: { offers: Offer[] }) {
   return (
     <HomeSection id="titulo-explore-a-casa" title="Explore a casa">
       <ul className="grid gap-3 md:grid-cols-3 md:gap-5">
-        <li className="flex">
+        <li className="revela flex" style={{ '--i': 0 } as CSSProperties}>
           <Link
             href={brandLinks.damie}
             target="_blank"
@@ -51,7 +52,7 @@ export function MyLinks({ offers }: { offers: Offer[] }) {
             </span>
           </Link>
         </li>
-        <li className="flex min-w-0 md:col-span-2">
+        <li className="revela flex min-w-0 md:col-span-2" style={{ '--i': 1 } as CSSProperties}>
           {carousel.length > 0 ? (
             <div className="flex min-w-0 flex-1 flex-col gap-3 rounded-xl border-2 border-marinho bg-amarelo-cupom py-4 text-marinho md:gap-4 md:rounded-[14px] md:py-6">
               <OfferCarousel

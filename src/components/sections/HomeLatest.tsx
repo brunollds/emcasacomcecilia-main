@@ -1,6 +1,8 @@
+import type { CSSProperties } from 'react';
 import Image from 'next/image';
 import { TrackedHomeLink } from '@/components/TrackedHomeLink';
 import { FOCUS_RING } from '@/components/ui/focusRing';
+import { RevealSection } from '@/components/ui/RevealSection';
 import type { HomeLatestArticle } from '@/lib/homeStores';
 
 // "Acabou de sair": os 5 artigos mais novos, sem código. No desktop são cartões presos na geladeira;
@@ -21,14 +23,14 @@ const ALL_LABEL = 'Ver todos os guias e análises';
 
 export function HomeLatest({ articles }: { articles: HomeLatestArticle[] }) {
   return (
-    <section aria-labelledby="titulo-acabou-de-sair" className="mx-auto w-full max-w-[1200px] px-4 md:px-10">
+    <RevealSection aria-labelledby="titulo-acabou-de-sair" className="mx-auto w-full max-w-[1200px] px-4 md:px-10">
       <div className="flex flex-col gap-2.5 md:gap-6 md:border-y-2 md:border-marinho md:py-8">
         <div className="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1">
           <h2
             id="titulo-acabou-de-sair"
             className="font-condensada text-[32px] leading-none font-black text-marinho font-stretch-extra-condensed md:text-5xl"
           >
-            Acabou de sair
+            <span className="marca-texto">Acabou de sair</span>
           </h2>
           <TrackedHomeLink
             href="/reviews"
@@ -46,7 +48,8 @@ export function HomeLatest({ articles }: { articles: HomeLatestArticle[] }) {
           {articles.map((article, index) => (
             <li
               key={article.slug}
-              className={index < articles.length - 1 ? 'border-b-[1.5px] border-marinho/15' : 'border-b-2 border-marinho'}
+              className={`revela ${index < articles.length - 1 ? 'border-b-[1.5px] border-marinho/15' : 'border-b-2 border-marinho'}`}
+              style={{ '--i': index } as CSSProperties}
             >
               <TrackedHomeLink
                 href={article.href}
@@ -63,13 +66,13 @@ export function HomeLatest({ articles }: { articles: HomeLatestArticle[] }) {
 
         <ul className="hidden gap-[18px] md:grid min-[768px]:grid-cols-3 min-[1200px]:grid-cols-5">
           {articles.map((article, index) => (
-            <li key={article.slug} className="flex">
+            <li key={article.slug} className="revela flex" style={{ '--i': index } as CSSProperties}>
               <LatestCard article={article} decor={CARD_DECOR[index % CARD_DECOR.length]} />
             </li>
           ))}
         </ul>
       </div>
-    </section>
+    </RevealSection>
   );
 }
 

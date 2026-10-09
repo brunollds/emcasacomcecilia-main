@@ -1,6 +1,8 @@
+import type { CSSProperties } from 'react';
 import Image from 'next/image';
 import { TrackedHomeLink, TrackedHomeTabLink, type HomeRoutePlacement } from '@/components/TrackedHomeLink';
 import { FOCUS_RING, FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
+import { RevealSection } from '@/components/ui/RevealSection';
 import { ScrollRow } from '@/components/ui/ScrollRow';
 import type { EventTheme, HomeEventCard, ResolvedHomeEvent } from '@/lib/homeEvents';
 
@@ -45,7 +47,7 @@ export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
   const theme = EVENT_THEME_CLASSES[event.theme];
 
   return (
-    <section aria-labelledby="titulo-data-comercial" className="mx-auto w-full max-w-[1200px] md:px-10">
+    <RevealSection aria-labelledby="titulo-data-comercial" className="mx-auto w-full max-w-[1200px] md:px-10">
       <div
         className={`flex flex-col gap-3.5 border-y-2 border-marinho pt-[22px] pb-[18px] md:gap-[22px] md:rounded-[14px] md:border-2 md:px-8 md:py-7 md:shadow-[0_6px_0_var(--color-marinho)] ${theme.band}`}
       >
@@ -74,8 +76,12 @@ export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
         <ScrollRow
           className={`flex snap-x gap-3 overflow-x-auto scroll-px-4 px-4 pt-1 pb-1.5 md:grid md:snap-none md:grid-cols-2 md:gap-[18px] md:overflow-visible md:p-0 ${DESKTOP_COLUMNS[event.cards.length]}`}
         >
-          {event.cards.map((card) => (
-            <li key={card.slug} className="flex w-60 shrink-0 snap-start md:w-auto">
+          {event.cards.map((card, index) => (
+            <li
+              key={card.slug}
+              className="revela flex w-60 shrink-0 snap-start md:w-auto"
+              style={{ '--i': index } as CSSProperties}
+            >
               <EventCard card={card} placement="home_event" focusRing={theme.focus} />
             </li>
           ))}
@@ -92,7 +98,7 @@ export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
           </TrackedHomeLink>
         ) : null}
       </div>
-    </section>
+    </RevealSection>
   );
 }
 
