@@ -14,7 +14,6 @@ type YouTubeThumbnailMap = {
 type YouTubePlaylistItem = {
   snippet?: {
     title?: string;
-    publishedAt?: string;
     thumbnails?: YouTubeThumbnailMap;
     resourceId?: {
       videoId?: string;

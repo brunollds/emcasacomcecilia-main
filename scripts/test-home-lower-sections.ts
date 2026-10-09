@@ -244,6 +244,14 @@ assert.deepEqual(
   ['Primeira'],
   'slug repetido no feed: fica a primeira oferta'
 );
+assert.equal(
+  parseDicasOffers([
+    ...Array.from({ length: 10 }, () => ({ slug: 'repetida', produto: 'Repetida', url: 'https://example.com/r' })),
+    { slug: 'outra', produto: 'Outra', url: 'https://example.com/o' },
+  ]).length,
+  2,
+  'o limite de 10 conta as ofertas já sem as repetidas'
+);
 
 // Últimos vídeos.
 // Como o youtube.ts entrega: a hqdefault.jpg como miniatura e a maxresdefault.jpg como reserva.
@@ -290,7 +298,8 @@ assert.equal(render(createElement(LatestVideos, { videos: [] })), '', 'sem víde
 
 // Ofertas e vídeos somem sem o feed ou sem a API, e o build não os cobra: a home tem de montá-los.
 const homeSource = readFileSync(resolve(process.cwd(), 'src', 'app', '(pt)', 'page.js'), 'utf8');
-assert.ok(homeSource.includes('<Offers items={featuredOffers} />'), 'a home não monta as Ofertas do dia');
-assert.ok(homeSource.includes('<CTA />'), 'a home não monta os Últimos vídeos');
+// Uma linha só com a tag: dentro de um comentário {/* … */} ela não conta.
+assert.match(homeSource, /^\s*<Offers items=\{featuredOffers\} \/>\s*$/m, 'a home não monta as Ofertas do dia');
+assert.match(homeSource, /^\s*<CTA \/>\s*$/m, 'a home não monta os Últimos vídeos');
 
 console.log('test:home-lower-sections ok');
