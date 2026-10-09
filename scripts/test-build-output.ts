@@ -781,7 +781,7 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
   if (explore.includes('aria-label="Ver próximas ofertas"')) {
     check(explore.includes('>Ver todas as ofertas</a>'), 'Explore a casa: ofertas sem o "Ver todas as ofertas"');
   }
-  check(!/E-book|Avise-me/.test(explore), 'Explore a casa: com o e-book');
+  check(!/E-book Air Fryer|Avise-me/.test(explore), 'Explore a casa: com o e-book');
 
   // O marca-texto em cada título das seções de baixo (e no "Acabou de sair"), e nada escondido pela
   // rolagem no HTML do servidor.

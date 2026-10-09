@@ -197,15 +197,18 @@ vídeo, primeiras impressões e uso noturno.
   data, a capa do artigo mais novo) e levam JSON-LD de lista (`CollectionPage` e `BreadcrumbList`),
   tudo por `src/lib/pageSeo.ts`, que a página de cupom também usa para a imagem da loja.
 - Movimento (D2.1, `docs/superpowers/specs/2026-10-09-home-d2-1-design.md`): as classes ficam no
-  `globals.css`, todas dentro de `prefers-reduced-motion: no-preference`:
+  `globals.css`, e todo movimento (transição, animação e o esconder da rolagem) fica dentro de
+  `prefers-reduced-motion: no-preference`; o marca-texto fica sempre pintado e só a animação
+  depende do movimento liberado:
   - `.bolinha`, `.bolinha-disco` e `.bolinha-logo` (inclinação pelo mouse em `--rx`, `--ry`, `--lx`
     e `--ly`, gravadas pelo `StoreBubble`; entrada pela direita no celular por `--i`);
   - `.painel-entra` e `.carimbo` (troca de loja pelo lado da bolinha, em `--painel-de`, por
     `@starting-style`);
-  - `.marca-texto` e `.revela` (rolagem). Seção de baixo nova usa o `RevealSection` no lugar da
-    `<section>`, o título num `<span className="marca-texto">` e cada card com `revela` e `--i`. O
-    `RevealSection` só esconde depois de montar e só abaixo da tela; o `test:build-output` barra
-    `data-reveal` no HTML do servidor.
+  - `.marca-texto` e `.revela` (rolagem). Seção de baixo nova usa o `HomeSection`, que já monta o
+    `RevealSection` e o título com o marca-texto; só uma seção fora dele usa o `RevealSection` no
+    lugar da `<section>` e põe o título num `<span className="marca-texto">`. Cada card leva
+    `revela` e `--i`. O `RevealSection` só esconde depois de montar e só abaixo da tela; o
+    `test:build-output` barra `data-reveal` no HTML do servidor.
 
 ### Páginas de loja (cupons)
 
