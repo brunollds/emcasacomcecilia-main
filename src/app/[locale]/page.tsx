@@ -48,7 +48,7 @@ export async function generateMetadata({ params }: LocaleHomeRouteProps): Promis
       card: 'summary_large_image',
       title: meta.title,
       description: meta.description,
-      images: [hero.photoUrl],
+      images: [{ url: hero.photoUrl, alt: hero.photo.alt }],
     },
   };
 }

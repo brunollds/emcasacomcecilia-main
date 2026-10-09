@@ -263,6 +263,7 @@ assert.deepEqual(JSON.parse(serializeJsonLd({ text: '</script>' })), { text: '</
 
 // A página inteira: um H1, as seções na ordem aprovada e o JSON-LD com o Person e o FAQPage, cujas
 // perguntas e respostas são as que aparecem na página.
+const jsonLdScripts = (html: string) => [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].map(([, json]) => json);
 const SECTION_ORDER = ['titulo-cecilia', 'titulo-lojas', 'titulo-artigos', 'titulo-seguro', 'titulo-perguntas', 'titulo-redes'];
 for (const locale of LOCALE_HOME_LOCALES) {
   const content = getLocaleHomeContent(locale, publishedReviews);
@@ -272,7 +273,10 @@ for (const locale of LOCALE_HOME_LOCALES) {
   assert.ok(positions.every((position) => position >= 0), `${locale}: seção faltando`);
   assert.deepEqual([...positions].sort((a, b) => a - b), positions, `${locale}: seções fora da ordem`);
 
-  const schemas = [...page.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].map(([, json]) => JSON.parse(json));
+  const scripts = jsonLdScripts(page);
+  // O texto cru de cada script é o que o serializeJsonLd devolve: a página não serializa de outro jeito.
+  for (const raw of scripts) assert.equal(raw, serializeJsonLd(JSON.parse(raw)), `${locale}: JSON-LD que não passa pelo serializeJsonLd`);
+  const schemas = scripts.map((json) => JSON.parse(json));
   assert.deepEqual(schemas.map((schema) => schema['@type']).sort(), ['FAQPage', 'Person'], `${locale}: tipos do JSON-LD`);
   const person = schemas.find((schema) => schema['@type'] === 'Person');
   assert.equal(person.name, CECILIA_FULL_NAME);
@@ -289,5 +293,25 @@ for (const locale of LOCALE_HOME_LOCALES) {
     `${locale}: FAQPage diferente das perguntas na página`
   );
 }
+
+// Com um "<" no texto o escape fica observável: nenhum script da página leva o "<" cru, e o texto volta
+// igual pelo JSON.parse. Sem isso, trocar o serializeJsonLd por JSON.stringify passaria despercebido.
+const englishHome = getLocaleHomeContent('en', publishedReviews);
+const MARKUP_ANSWER = 'Texto com <b>negrito</b> e </script> no meio.';
+const markupPage = render(
+  createElement(LocaleHomePage, {
+    content: {
+      ...englishHome,
+      faq: { ...englishHome.faq, items: englishHome.faq.items.map((item, index) => (index === 0 ? { ...item, answer: MARKUP_ANSWER } : item)) },
+    },
+  })
+);
+const markupScripts = jsonLdScripts(markupPage);
+assert.equal(markupScripts.length, 2, 'a página com "<" no FAQ sem os dois scripts de JSON-LD');
+for (const raw of markupScripts) {
+  assert.ok(!raw.includes('<'), 'JSON-LD com "<" cru dentro do script');
+  assert.equal(raw, serializeJsonLd(JSON.parse(raw)));
+}
+assert.equal(JSON.parse(markupScripts.find((raw) => raw.includes('FAQPage'))!).mainEntity[0].acceptedAnswer.text, MARKUP_ANSWER);
 
 console.log(`✅ locale home: ${LOCALE_HOME_LOCALES.length} idiomas, ${expectedSlugs.length} lojas e o certificado até ${YESSTYLE_CERTIFICATE.validUntil} passaram.`);
