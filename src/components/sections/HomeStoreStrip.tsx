@@ -97,6 +97,8 @@ export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect }: HomeS
     const timers: number[] = [];
     timers.push(
       window.setTimeout(() => {
+        // Aberta numa aba de fundo, ninguém vê: não gasta o empurrãozinho da sessão.
+        if (document.visibilityState !== 'visible') return;
         if (touched.current || strip.scrollLeft > 0 || strip.scrollWidth <= strip.clientWidth) return;
         markNudged();
         strip.scrollBy({ left: NUDGE_PX, behavior: 'smooth' });

@@ -94,8 +94,8 @@ export function parseDicasOffers(data: unknown): Offer[] {
   return [...offers.values()].slice(0, OFFER_LIMIT);
 }
 
-// Sem o feed (fora do ar, lento, resposta errada ou vazio), a home não mostra a seção: não há
-// oferta reserva.
+// Sem o feed (fora do ar, lento, resposta errada ou vazio), o card do Dicas & Ofertas da home volta a
+// ser só o link: não há oferta reserva.
 export async function getFeaturedOffers(): Promise<Offer[]> {
   try {
     const response = await fetch(DICAS_OFFERS_URL, {
