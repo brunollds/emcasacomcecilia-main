@@ -523,6 +523,17 @@ placements das seções que saem (`home_featured_guides`, `home_review_categorie
     "Acessar Dicas & Ofertas", e nenhum atalho de categoria de receita (Fase 5).
 
   A conferência que já existe para toda página que cita o CECILIA010 passa a cobrir a home sozinha.
+
+  Depois da revisão externa (08–09/10):
+  - cada painel de loja por inteiro, por nó de texto: código, rótulo exato do botão de copiar,
+    desconto, dica, link da loja, artigos, texto de loja sem artigo e "Ver os N artigos"; no da
+    SHEIN, nenhum "Cupom SHEIN";
+  - a ordem do "Acabou de sair" nos dois desenhos;
+  - as travas por nome (YesStyle, SHEIN, Nutre) só com a loja ativa;
+  - o `h2` só para leitor de tela e o anel de foco nos cards da grade de `/reviews` e das subpáginas;
+  - nas subpáginas e nas páginas de data, `og:image`, `twitter:image`, `og:site_name`, `og:locale`,
+    `CollectionPage` e `BreadcrumbList`; o `<lastmod>` das subpáginas no sitemap;
+  - o `noindex, follow` do `/categorias`.
 - **`test:client-bundle`**: nem o componente da vitrine nem o card extraído de `/reviews` podem
   levar o índice de conteúdo.
 
@@ -672,7 +683,19 @@ esta lista:
   - texto branco sobre `#ff6b35` em receitas, sobre, contato e faqs;
   - `animate-slide-up` sem `motion-safe:` no topo de `/reviews`, em `/categorias` e nas receitas;
   - o JSON-LD sai de `JSON.stringify` sem escapar `<` em cerca de 16 pontos do site. Os textos
-    são do repositório e nenhum tem `<` hoje; um ajudante comum resolveria todos de uma vez.
+    são do repositório e nenhum tem `<` hoje; um ajudante comum resolveria todos de uma vez;
+  - as 10 páginas da YesStyle não têm `og:image`.
+
+  Para o Bruno decidir (da revisão final da rodada):
+  - a Dolce Gusto e a I Wanna Sleep compartilham com o logo em AVIF, que o X não aceita e o
+    WhatsApp não garante, em `/cupons/<marca>` e agora também na subpágina. Uma `socialImage` em
+    JPG ou PNG em `couponsData.ts` resolve as duas páginas; depois, uma trava de formato no
+    `test:build-output`;
+  - o `primaryImageOfPage` do JSON-LD de `/cupons/<marca>` usa o caminho local; o `og:image` da
+    mesma página usa o endereço de entrega (CDN). Trocar por `absoluteMediaUrl` muda o JSON-LD das
+    páginas de cupom;
+  - a página da data entra no sitemap sem `<lastmod>` (as subpáginas têm). Vale fazer quando a
+    regra de data sair do sitemap e do teste para uma função comum.
 - **Pedido do Bruno (08/10), numa fase a combinar:** as bolinhas viram um carrossel e as lojas
   entram na ordem do artigo mais novo de cada uma. A Cecília fica sempre em primeiro. Loja sem
   artigo fica no fim, na ordem de `couponsData.ts`. A ordem sai dos dados, então muda sozinha a

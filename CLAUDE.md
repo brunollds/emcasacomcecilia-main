@@ -25,10 +25,10 @@ npm run validate:yesstyle    # data/coupons/yesstyle.json; falha com oferta ativ
 npm run test:analytics-gate  # allowlist de hosts do GA4
 npm run test:home-stores     # vitrine da home, "Acabou de sair" e subpáginas /reviews/loja/<slug>
 npm run test:home-events     # datas comerciais: content/home-events.json, a faixa e a página da data
-npm run test:home-lower-sections  # receitas, Explore a casa, ofertas (e o feed) e vídeos da home
-npm run test:home-route-tracking  # placements do home_route_click
+npm run test:home-lower-sections  # receitas, Explore a casa, ofertas (e o feed) e vídeos da home, e que o page.js monta Ofertas e Vídeos
+npm run test:home-route-tracking  # placements do home_route_click e o link das abas da vitrine (<a> comum)
 npm run test:html-lang       # depois do build: <html lang> de cada rota
-npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, textos que citam o CECILIA010, a home, os cards de /reviews, as subpáginas de loja e as páginas de data
+npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, textos que citam o CECILIA010, a home, os cards de /reviews, as subpáginas de loja e as páginas de data (imagem e JSON-LD) e o noindex do /categorias
 ```
 
 `npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
