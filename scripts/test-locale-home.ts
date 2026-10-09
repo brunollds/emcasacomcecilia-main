@@ -227,11 +227,21 @@ for (const locale of LOCALE_HOME_LOCALES) {
   // "See certificate" é um link para a imagem, que funciona sem JavaScript; a janela leva a imagem com
   // o texto do certificado no alt, no idioma.
   const certificate = content.hero.certificate;
+  // Sem a entrada no mapa de entrega, o resolvedor devolve o caminho local e o link ainda passaria.
+  assert.ok(certificate.image.src.startsWith('https://cdn.emcasacomcecilia.com/'), `${locale}: a imagem do certificado não está no CDN`);
   assert.ok(hero.includes(`href="${certificate.image.src}"`), `${locale}: sem o link do certificado`);
   assert.ok(hero.includes(`>${certificate.linkLabel}<`), `${locale}: sem o rótulo do link do certificado`);
-  assert.ok(hero.includes('<dialog'), `${locale}: sem a janela do certificado`);
-  assert.ok(hero.includes(`aria-label="${certificate.closeLabel}"`), `${locale}: janela sem o botão de fechar`);
   assert.ok(certificate.image.alt.includes(CECILIA_FULL_NAME) && certificate.image.alt.includes('SUPERSTAR'), `${locale}: alt do certificado`);
+  // A janela inteira, para o título, o botão de fechar e a imagem estarem dentro dela e não soltos no hero.
+  const dialog = hero.match(/<dialog\b[^>]*>[\s\S]*?<\/dialog>/)?.[0];
+  assert.ok(dialog, `${locale}: sem a janela do certificado`);
+  const attributeOf = (tag: string | undefined, name: string) => {
+    const value = tag?.match(new RegExp(`\\s${name}="([^"]*)"`))?.[1];
+    return value === undefined ? undefined : decode(value);
+  };
+  assert.equal(attributeOf(dialog.match(/^<dialog\b[^>]*>/)?.[0], 'aria-label'), certificate.title, `${locale}: janela sem o nome`);
+  assert.equal(attributeOf(dialog.match(/<button\b[^>]*>/)?.[0], 'aria-label'), certificate.closeLabel, `${locale}: janela sem o botão de fechar`);
+  assert.equal(attributeOf(dialog.match(/<img\b[^>]*>/)?.[0], 'alt'), certificate.image.alt, `${locale}: a imagem da janela sem o alt do certificado`);
   for (const id of ['titulo-cecilia', 'titulo-lojas', 'titulo-artigos', 'titulo-seguro', 'titulo-perguntas', 'titulo-redes']) {
     assert.ok(all.includes(`id="${id}"`), `${locale}: sem a seção ${id}`);
   }

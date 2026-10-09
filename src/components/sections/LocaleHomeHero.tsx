@@ -58,16 +58,18 @@ export function LocaleHomeHero({ hero }: { hero: LocaleHomeContent['hero'] }) {
 
           <div className="flex items-center gap-3 rounded-xl bg-amarelo-cupom px-3 py-2.5 text-marinho">
             <Star aria-hidden="true" className="size-6 shrink-0 fill-marinho" />
-            <p className="flex min-w-0 flex-1 flex-col">
-              <span className="text-sm font-extrabold">{hero.certificate.title}</span>
-              <span className="text-xs font-semibold">{hero.certificate.tier}</span>
-            </p>
-            <CertificateDialog
-              image={hero.certificate.image}
-              title={hero.certificate.title}
-              linkLabel={hero.certificate.linkLabel}
-              closeLabel={hero.certificate.closeLabel}
-            />
+            <div className="flex min-w-0 flex-1 flex-col sm:flex-row sm:items-center sm:justify-between sm:gap-3">
+              <p className="flex min-w-0 flex-1 flex-col">
+                <span className="text-sm font-extrabold">{hero.certificate.title}</span>
+                <span className="text-xs font-semibold">{hero.certificate.tier}</span>
+              </p>
+              <CertificateDialog
+                image={hero.certificate.image}
+                title={hero.certificate.title}
+                linkLabel={hero.certificate.linkLabel}
+                closeLabel={hero.certificate.closeLabel}
+              />
+            </div>
           </div>
 
           <CeciliaStats stats={hero.stats} />
