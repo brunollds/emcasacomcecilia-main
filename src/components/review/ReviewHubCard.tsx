@@ -45,7 +45,7 @@ export function ReviewHubCard({ review, index }: { review: HomeReviewCard; index
   return (
     <ViewTransitionLink
       href={`/reviews/${review.slug}`}
-      className={`group block motion-safe:animate-[slide-up_0.5s_ease-out] ${FOCUS_RING}`}
+      className={`group block motion-safe:animate-[slide-up_0.5s_ease-out_backwards] ${FOCUS_RING}`}
       style={{ animationDelay: `${(index % 8) * 0.05}s` }}
     >
       <article className="motion-safe:transition-transform motion-safe:duration-500 motion-safe:group-hover:-translate-y-2">

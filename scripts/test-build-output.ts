@@ -698,7 +698,7 @@ const articleTab = storeWhere('com artigo', (tab) => tab.articles.length > 0);
 
 // Os links de artigo do "Acabou de sair" na ordem do HTML: primeiro a lista do celular, depois a grade.
 const latestStart = homeBody.indexOf(LATEST_SECTION);
-const latestLinks = [...homeBody.matchAll(/href="\/reviews\/[^"]+"/g)].filter((link) => link.index > latestStart);
+const latestMutationLinks = [...homeBody.matchAll(/href="\/reviews\/[^"]+"/g)].filter((link) => link.index > latestStart);
 const latestCount = homeExpected.latest.length;
 const replaceLink = (link: RegExpMatchArray, text: string) =>
   homeBody.slice(0, link.index) + text + homeBody.slice(link.index + link[0].length);
@@ -732,11 +732,11 @@ const brokenHomes = [
   homeBody.replace(LATEST_SECTION, `${LATEST_SECTION}><a href="/reviews/artigo-a-mais"></a`),
   homeBody.replace('id="painel-loja-shein"', 'id="painel-loja-shein"><span>Cupom SHEIN</span'),
   // Fora de ordem, sem um artigo ou com um artigo repetido em só um dos desenhos: a lista do celular e a grade.
-  swapLinks(latestLinks[0], latestLinks[1]),
-  swapLinks(latestLinks[latestCount], latestLinks[latestCount + 1]),
-  replaceLink(latestLinks[2 * latestCount - 1], 'href="/outra"'),
-  doubleLink(latestLinks[0]),
-  doubleLink(latestLinks[latestCount]),
+  swapLinks(latestMutationLinks[0], latestMutationLinks[1]),
+  swapLinks(latestMutationLinks[latestCount], latestMutationLinks[latestCount + 1]),
+  replaceLink(latestMutationLinks[2 * latestCount - 1], 'href="/outra"'),
+  doubleLink(latestMutationLinks[0]),
+  doubleLink(latestMutationLinks[latestCount]),
   // O painel de uma loja por inteiro, uma mutação por trava: o rótulo do botão de copiar (a YesStyle
   // não tem cupom), o código, a dica, a oferta, o link da loja e os artigos. O texto de dados é escapado
   // como o React o escreve.
@@ -779,6 +779,23 @@ for (const { html, expected } of wrongExpectations) {
   assert.ok(homeProblems(html, expected).length > 0, 'o guarda da home deixou passar uma home errada');
 }
 
+// Os cards de Guias & Análises (ReviewHubCard) de /reviews e das subpáginas de loja: o h2 só para
+// leitor de tela entre o h1 e os h3 dos cards, e o anel de foco da casa em cada link de card.
+// Devolve as tags dos links de card.
+function hubCardLinks(where: string, body: string, heading: string) {
+  assert.ok(body.includes(`<h2 class="sr-only">${heading}</h2>`), `${where}: sem o h2 "${heading}" entre o h1 e os h3 dos cards`);
+  const tags = [...body.matchAll(/<a\b[^>]*\bhref="\/reviews\/[^"/]+"[^>]*>/g)].map(([tag]) => tag);
+  assert.ok(tags.length > 0, `${where}: sem links de card`);
+  for (const tag of tags) {
+    assert.match(tag, /\bclass="[^"]* focus-visible:outline-marinho[ "]/, `${where}: card sem o anel de foco da casa: ${tag}`);
+  }
+  return tags;
+}
+
+const reviewsFile = builtFile(`${SITE_URL}/reviews`);
+assert.ok(reviewsFile, '/reviews: página não gerada no build');
+hubCardLinks('/reviews', bodyOf(read(reviewsFile)), 'Lista de conteúdos');
+
 // Subpágina de cada loja com mais de 3 artigos: o h1, o canonical, um card por artigo (com o anel de
 // foco), o link da página da loja, o h2 só para leitor de tela e a data no sitemap.
 const storeArticleSlugs = getStoreArticlePageSlugs(publishedReviews);
@@ -795,12 +812,7 @@ for (const slug of storeArticleSlugs) {
   const cardSlugs = new Set([...body.matchAll(/href="\/reviews\/([^"/]+)"/g)].map(([, cardSlug]) => cardSlug));
   assert.deepEqual([...cardSlugs].sort(), page.articles.map((article) => article.slug).sort(), `${pagePath}: um card por artigo da loja`);
   assert.ok(body.includes(hrefOf(page.storePageUrl)), `${pagePath}: sem o link de ${page.storePageUrl}`);
-  assert.ok(body.includes('<h2 class="sr-only">Lista de artigos</h2>'), `${pagePath}: sem o h2 "Lista de artigos" entre o h1 e os h3 dos cards`);
-  const cardTags = [...body.matchAll(/<a\b[^>]*\bhref="\/reviews\/[^"/]+"[^>]*>/g)].map(([tag]) => tag);
-  assert.equal(cardTags.length, page.articles.length, `${pagePath}: um link por card`);
-  for (const tag of cardTags) {
-    assert.match(tag, /\bclass="[^"]* focus-visible:outline-marinho[ "]/, `${pagePath}: card sem o anel de foco da casa: ${tag}`);
-  }
+  assert.equal(hubCardLinks(pagePath, body, 'Lista de artigos').length, page.articles.length, `${pagePath}: um link por card`);
   // O lastmod da subpágina é a data do artigo mais novo: a da atualização, ou a da publicação.
   const newestDate = page.articles.map((article) => article.updatedAt ?? article.publishedAtISO).filter(Boolean).sort().at(-1);
   assert.ok(newestDate, `${pagePath}: nenhum artigo com data`);
