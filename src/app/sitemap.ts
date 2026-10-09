@@ -1,8 +1,11 @@
 import type { MetadataRoute } from 'next';
+import homeEventsConfig from '@/../content/home-events.json';
 import { recipes, publishedReviews } from '@/lib/data';
 import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { getActiveCoupons, getCouponBySlug } from '@/lib/couponsData';
 import { getCouponStorePath, getTranslatedCouponRoutes } from '@/lib/couponTranslations';
+import { getStoreArticlePageSlugs, getStoreArticlesPage, getStoreArticlesPath } from '@/lib/homeStores';
+import { getEventHubPaths } from '@/lib/homeEvents';
 import { YESSTYLE_LOCALES } from '@/lib/i18n/clusters/yesstyle';
 import { REVIEW_HUB_LOCALES, getReviewHubPath } from '@/lib/review-hubs';
 import { getLatestYesStyleVerifiedAtISO } from '@/lib/yesstyleCoupons';
@@ -11,13 +14,21 @@ import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const BASE_URL = 'https://emcasacomcecilia.com';
 
+// A data mais nova dos artigos de uma página: a da atualização, ou a da publicação (AAAA-MM-DD).
+function newestDate(articles: readonly { updatedAt?: string; publishedAtISO?: string }[]) {
+  return articles
+    .map((article) => article.updatedAt ?? article.publishedAtISO)
+    .filter((date): date is string => Boolean(date))
+    .sort()
+    .at(-1);
+}
+
 const staticRoutes: MetadataRoute.Sitemap = [
   { url: BASE_URL, priority: 1.0, changeFrequency: 'daily' },
   { url: `${BASE_URL}/receitas`, priority: 0.9, changeFrequency: 'daily' },
   { url: `${BASE_URL}/reviews`, priority: 0.8, changeFrequency: 'weekly' },
   { url: `${BASE_URL}/videos`, priority: 0.8, changeFrequency: 'weekly' },
   { url: `${BASE_URL}/cupons`, priority: 0.8, changeFrequency: 'weekly' },
-  { url: `${BASE_URL}/categorias`, priority: 0.7, changeFrequency: 'weekly' },
   { url: `${BASE_URL}/sobre`, priority: 0.6, changeFrequency: 'monthly' },
   { url: `${BASE_URL}/contato`, priority: 0.5, changeFrequency: 'monthly' },
   { url: `${BASE_URL}/faqs`, priority: 0.5, changeFrequency: 'monthly' },
@@ -39,6 +50,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly' as const,
       lastModified: review.updatedAt ?? review.publishedAtISO,
     }));
+
+  // Todos os artigos de cada loja (/reviews/loja/{slug}), só em português.
+  const storeArticleRoutes: MetadataRoute.Sitemap = getStoreArticlePageSlugs(publishedReviews).map((slug) => ({
+    url: `${BASE_URL}${getStoreArticlesPath(slug)}`,
+    priority: 0.6,
+    changeFrequency: 'weekly' as const,
+    lastModified: newestDate(getStoreArticlesPage(publishedReviews, slug)?.articles ?? []),
+  }));
+
+  // Página fixa de cada data comercial com edição em content/home-events.json (fora do menu).
+  const eventHubRoutes: MetadataRoute.Sitemap = getEventHubPaths(homeEventsConfig, publishedReviews).map((path) => ({
+    url: `${BASE_URL}${path}`,
+    priority: 0.7,
+    changeFrequency: 'weekly' as const,
+  }));
 
   const couponRoutes: MetadataRoute.Sitemap = getActiveCoupons().map((coupon) => ({
     url: `${BASE_URL}/cupons/${coupon.slug}`,
@@ -104,6 +130,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...staticRoutes,
     ...recipeRoutes,
     ...reviewRoutes,
+    ...storeArticleRoutes,
+    ...eventHubRoutes,
     ...videoRoutes,
     ...couponRoutes,
     ...translatedCouponRoutes,

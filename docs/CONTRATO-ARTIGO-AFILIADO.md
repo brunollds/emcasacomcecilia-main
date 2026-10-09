@@ -128,9 +128,12 @@ ou link de afiliado para eles (Decreto 9.579/2018, art. 5º). Exemplo em uso:
 - esconder o código atrás de "revelar cupom" — piora a experiência para inflar cópia, que
   nem é métrica de sucesso;
 - prometer código ativo sem confirmação da validade;
-- linkar para página de cupom pausada (hoje: Kopenhagen; `/cupons/kopenhagen` devolve 404);
-- linkar do site principal para `/cupons/damie` em campanha — o subdomínio já vence aquela
-  consulta, ver o handoff da Fase 1A.
+- linkar para página de cupom pausada (hoje: Kopenhagen; `/cupons/kopenhagen` devolve 404).
+
+A DAMIE seguia uma exceção até 07/10/2026: o artigo não linkava `/cupons/damie`, só o
+subdomínio. Desde 08/10/2026 (decisão do Bruno), `/cupons/damie` entra pelas regras da seção 2,
+como as outras lojas, porque a página tem tráfego e é usada pelo Google nas respostas de IA. O
+link ao subdomínio (`cupom-cecilia12` com a UTM do dossiê) continua valendo.
 
 ## 7. Receitas
 

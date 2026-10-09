@@ -17,6 +17,7 @@
   "metaDescription": "Cupom Let's Eat It MAUAD: 5% OFF testado no checkout, inclusive em promoção. Veja o passo a passo e como ficam Pix, cashback, frete e primeira compra.",
   "publishedAt": "3 de outubro de 2026",
   "publishedAtISO": "2026-10-03",
+  "updatedAt": "2026-10-08",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/letseatit/cupom-mauad-hero-loja.webp",
@@ -25,14 +26,14 @@
   "imageAspect": "landscape",
   "pros": [
     "5% de desconto sobre o subtotal dos produtos no site oficial da Let's Eat It",
+    "Vale com todas as formas de pagamento e soma com o desconto de 5% do Pix",
     "No nosso teste, o cupom foi aceito em item de pré-venda e em produto que já estava com preço promocional",
     "Funcionou também num pedido com um único item de R$ 62,90",
     "O desconto aparece no resumo do pedido antes do pagamento, como \"Desconto no pedido · MAUAD\""
   ],
   "cons": [
     "O frete é calculado à parte, na etapa seguinte do checkout",
-    "A loja não publica regra sobre uso repetido por CPF ou soma com outros cupons",
-    "Não testamos se o MAUAD se soma ao desconto anunciado para pagamento no Pix"
+    "A loja não publica regra sobre uso repetido por CPF ou soma com outros cupons"
   ],
   "contentSections": [
     {
@@ -63,7 +64,7 @@
       "paragraphs": [
         "Montamos um carrinho com dois itens bem diferentes de propósito: uma panela Le Creuset em pré-venda e um jogo de xícaras de cristal da Wolff que já estava com preço promocional no site. O MAUAD foi aceito e descontou 5% do subtotal inteiro — R$ 179,10 sobre R$ 3.582,10.",
         "Depois repetimos o teste com um único item, o jogo de xícaras de R$ 62,90, e o cupom também funcionou. Ou seja: pelo menos nessa faixa de valor, não esbarramos em pedido mínimo, e o fato de o produto já estar em promoção não bloqueou o desconto.",
-        "O que não conseguimos confirmar, porque a loja não publica uma política específica do cupom: se existe limite de uso por CPF ou por conta, se ele se soma a outro cupom e se acumula com o desconto que a loja anuncia para pagamento no Pix. Nesses casos, vale o que o checkout mostrar."
+        "O MAUAD vale com todas as formas de pagamento e soma com o desconto que a loja dá no Pix. O que não conseguimos confirmar, porque a loja não publica uma política específica do cupom: se existe limite de uso por CPF ou por conta e se ele se soma a outro cupom. Nesses casos, vale o que o checkout mostrar."
       ]
     },
     {
@@ -166,7 +167,7 @@
         "Além do MAUAD, a Let's Eat It tem outros mecanismos de desconto. Vale entender cada um antes de fechar o pedido:"
       ],
       "bullets": [
-        "Pix: muitos produtos mostram um preço com 5% de desconto no Pix — o jogo de xícaras do nosso teste saía por R$ 59,76 no Pix. Não testamos se esse desconto se soma ao MAUAD.",
+        "Pix: muitos produtos mostram um preço com 5% de desconto no Pix — o jogo de xícaras do nosso teste saía por R$ 59,76 no Pix. Esse desconto soma com o MAUAD: pela nossa conta, aplicando um desconto sobre o outro, o jogo sairia por R$ 56,77 no Pix com o cupom, sem o frete.",
         "Cashback de 30%: a cada compra, a loja envia por WhatsApp um cupom de 30% do valor, válido por 30 dias. Para usar, a próxima compra precisa ser de pelo menos 7 vezes o valor do cupom, então, na prática, o desconto fica em até cerca de 14% nessa segunda compra. Um trecho do próprio FAQ da loja fala em 5 vezes; confira as condições no dia.",
         "Frete grátis: a loja não oferece frete grátis na compra. O frete é calculado pelo CEP e pelo peso do pedido; o que é gratuito é o envio na devolução.",
         "Cupom de primeira compra: use o MAUAD. Ele dá 5% de desconto no site oficial, e a loja não divulga outro cupom de boas-vindas nem restrição do MAUAD para clientes novos.",
@@ -181,7 +182,7 @@
       "bullets": [
         "O frete e o prazo para o seu CEP: pela política de frete da loja, a entrega leva de 3 a 5 dias úteis na capital paulista e pode chegar a 7 a 12 dias úteis no Norte e no Nordeste, contados depois da confirmação do pagamento.",
         "O prazo de envio de itens em pré-venda, que é diferente do prazo de produtos a pronta entrega.",
-        "Se vale mais a pena pagar no Pix: a loja anuncia desconto no Pix em alguns produtos, e não testamos se ele se soma ao MAUAD. O total da etapa de pagamento é a referência.",
+        "Se vale mais a pena pagar no Pix: o MAUAD vale com todas as formas de pagamento, e nos produtos com desconto no Pix os 5% da loja somam com os 5% do cupom. O total da etapa de pagamento é a referência.",
         "As regras de troca: a Let's Eat It informa 30 dias para devolução a partir do recebimento. Guarde a embalagem até ter certeza de que vai ficar com a peça.",
         "Ao receber peças frágeis, como cristal e porcelana, abra a caixa com calma e fotografe produto e embalagem se algo chegar danificado — a loja pede essas fotos para fazer a reposição."
       ]
@@ -211,7 +212,7 @@
         "O MAUAD dá desconto no frete? O desconto apareceu sobre o subtotal dos produtos. O frete é calculado na etapa seguinte do checkout, pelo CEP e pelo peso do pedido.",
         "A Let's Eat It tem frete grátis? Não na compra. O frete é calculado pelo CEP e pelo peso do pedido, e só a devolução tem envio gratuito.",
         "Posso usar o cupom MAUAD mais de uma vez? A loja não publica regra de uso por CPF ou por conta. Se houver limite, o checkout informa ao aplicar o código.",
-        "O MAUAD se soma ao desconto do Pix? Não testamos essa combinação. Confira o total na etapa de pagamento antes de concluir o pedido.",
+        "O MAUAD se soma ao desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% que a loja dá nos produtos com desconto no Pix. Pela nossa conta, o jogo de xícaras de R$ 62,90 do nosso teste sairia por R$ 56,77, sem o frete.",
         "Como funciona o cashback da Let's Eat It? A cada compra, a loja envia por WhatsApp um cupom de 30% do valor, válido por 30 dias, para usar numa próxima compra de pelo menos 7 vezes o valor do cupom. A combinação com outros cupons segue as condições da loja.",
         "Por que o cupom se chama MAUAD? MAUAD é o sobrenome da Cecília Mauad, criadora do Em Casa com Cecília. É o código oficial da parceria com a Let's Eat It.",
         "O cupom não funcionou. O que fazer? Confira se não há espaço antes ou depois do código, aplique de novo e, se o problema continuar, fale com o atendimento da loja e avise o Em Casa com Cecília para revisarmos a informação.",

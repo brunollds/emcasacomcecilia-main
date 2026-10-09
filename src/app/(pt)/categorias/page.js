@@ -8,6 +8,8 @@ export const metadata = {
   alternates: {
     canonical: '/categorias',
   },
+  // Sem link no site e fora do sitemap (Bruno, 08/10): segue no ar para quem tem o endereço, fora do Google.
+  robots: { index: false, follow: true },
   openGraph: {
     title: 'Categorias de Receitas - Em Casa com Cecília',
     description: 'Descubra receitas por tipo de prato, subcategorias, cozinha, método, dieta, ingrediente e coleções.',

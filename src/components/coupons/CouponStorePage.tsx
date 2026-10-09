@@ -5,7 +5,7 @@ import { getCouponLanguageLinks, getCouponStorePath } from '@/lib/couponTranslat
 import { getOtherActiveCoupons, type Coupon } from '@/lib/couponsData';
 import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
 import { getShellHomeHref } from '@/lib/i18n/shellDictionary';
-import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import { SITE_NAME, SITE_URL, absoluteUrl, getStoreSocialImage } from '@/lib/pageSeo';
 import { CopyCodeButton, CouponDock } from './CouponActions';
 import {
   BODY_TEXT,
@@ -35,10 +35,6 @@ import {
   StoreTransparency,
 } from './StoreLayout';
 
-const SITE_URL = 'https://emcasacomcecilia.com';
-
-const absoluteUrl = (path: string) => (path === '/' ? SITE_URL : `${SITE_URL}${path}`);
-
 // Fora do PT não existe hub de cupons: a trilha vai da home do idioma direto para a loja.
 function getBreadcrumb(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {
   const store = { name: coupon.brand, path: getCouponStorePath(coupon.slug, locale) };
@@ -67,9 +63,7 @@ const getOfferType = (coupon: Coupon, copy: CouponStoreCopy) =>
 
 export function getCouponStoreMetadata(coupon: Coupon, locale: Locale): Metadata {
   const path = getCouponStorePath(coupon.slug, locale);
-  const socialImage = coupon.socialImage || coupon.brandLogo || '/images/logos/logo-em-casa-com-cecilia.png';
-  const deliveredSocialImage = new URL(resolveMediaUrl(socialImage), SITE_URL).toString();
-  const socialImageAlt = coupon.socialImageAlt || coupon.brandLogoAlt || 'Em Casa com Cecília';
+  const image = getStoreSocialImage(coupon);
 
   return {
     title: coupon.metaTitle,
@@ -83,11 +77,12 @@ export function getCouponStoreMetadata(coupon: Coupon, locale: Locale): Metadata
       description: coupon.metaDescription,
       url: path,
       locale: LOCALES[locale].openGraphLocale,
+      siteName: SITE_NAME,
       type: 'article',
       images: [
         {
-          url: deliveredSocialImage,
-          alt: socialImageAlt,
+          url: image.url,
+          alt: image.alt,
         },
       ],
     },
@@ -95,7 +90,7 @@ export function getCouponStoreMetadata(coupon: Coupon, locale: Locale): Metadata
       card: 'summary_large_image',
       title: coupon.metaTitle,
       description: coupon.metaDescription,
-      images: [deliveredSocialImage],
+      images: [image.url],
     },
   };
 }
@@ -146,9 +141,8 @@ function getJsonLd(coupon: Coupon, locale: Locale, copy: CouponStoreCopy) {
           reviewedBy: { '@type': 'Organization', name: 'Em Casa com Cecília', url: SITE_URL },
         }
       : {}),
-    primaryImageOfPage: coupon.socialImage
-      ? `${SITE_URL}${coupon.socialImage}`
-      : undefined,
+    // A mesma imagem do compartilhamento, pelo endereço de entrega.
+    primaryImageOfPage: getStoreSocialImage(coupon).url,
   };
 
   const faq = {
@@ -350,7 +344,9 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                     })}
               </p>
               <p className="mt-2 text-sm font-medium leading-[21px] text-marinho-suave">
-                {copy.highlight.note(coupon.monthlyHighlight.note)}
+                {coupon.monthlyHighlight.showCheckoutReminder === false
+                  ? `${coupon.monthlyHighlight.note}.`
+                  : copy.highlight.note(coupon.monthlyHighlight.note)}
               </p>
             </div>
           )}

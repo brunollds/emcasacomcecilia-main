@@ -1,24 +1,18 @@
-import { Hero } from '@/components/sections/Hero';
-import { CouponStrip } from '@/components/sections/CouponStrip';
-import { FeaturedReviewGuides } from '@/components/sections/FeaturedReviewGuides';
+import { HomeStoreStories } from '@/components/sections/HomeStoreStories';
+import { HomeCeciliaPanel } from '@/components/sections/HomeCeciliaPanel';
+import { HomeLatest } from '@/components/sections/HomeLatest';
+import { HomeEvent } from '@/components/sections/HomeEvent';
+import { couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { PopularRecipes } from '@/components/sections/PopularRecipes';
 import { MyLinks } from '@/components/sections/MyLinks';
-import { HomeEditorialPick } from '@/components/sections/HomeEditorialPick';
-import { ReviewsShowcase } from '@/components/sections/ReviewsShowcase';
 import { Offers } from '@/components/sections/Offers';
 import { CTA } from '@/components/sections/CTA';
-import homeCurationConfig from '@/../content/home-curation.json';
-import { getCouponStripItems } from '@/lib/couponsData';
+import homeEventsConfig from '@/../content/home-events.json';
+import { CECILIA_PHOTO, getHomeLatest, getHomeStoreTabs } from '@/lib/homeStores';
 import { getFeaturedOffers } from '@/lib/dicasOffers';
 import { getPopularRecipeSlugs } from '@/lib/popularRecipeStats';
 import { publishedReviews } from '@/lib/data';
-import {
-  getListedPortugueseReviews,
-  selectHomeReviewDiscovery,
-  sortReviewsByPublishedAt,
-  toHomeReviewCard,
-} from '@/lib/reviewDiscovery';
-import { resolveActiveHomeCuration } from '@/lib/homeCuration';
+import { resolveActiveHomeEvent } from '@/lib/homeEvents';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const HOME_LOGO_URL = new URL(
@@ -49,77 +43,48 @@ export const metadata = {
 };
 
 export default async function Home() {
-  const activeCuration = resolveActiveHomeCuration(
-    homeCurationConfig,
-    publishedReviews,
-    new Date()
-  );
-  const discovery = activeCuration
-    ? selectHomeReviewDiscovery(publishedReviews, {
-        excludedIds: [activeCuration.article.id],
-      })
-    : selectHomeReviewDiscovery(publishedReviews);
-  const featuredReviewGuides = discovery.featured.map(toHomeReviewCard);
-  const featuredIds = new Set(discovery.featured.map(({ id }) => id));
-  if (activeCuration) {
-    featuredIds.add(activeCuration.article.id);
-  }
-  const carouselReviewGuides = sortReviewsByPublishedAt(
-    getListedPortugueseReviews(publishedReviews)
-  )
-    .filter(({ id }) => !featuredIds.has(id))
-    .map(toHomeReviewCard);
+  const activeEvent = resolveActiveHomeEvent(homeEventsConfig, publishedReviews, new Date());
   const [featuredOffers, popularRecipeSlugs] = await Promise.all([
     getFeaturedOffers(),
     getPopularRecipeSlugs(),
   ]);
-  const activeHomePick = activeCuration
-    ? {
-        eyebrow: activeCuration.eyebrow,
-        article: {
-          slug: activeCuration.article.slug,
-          title: activeCuration.article.title,
-          description: activeCuration.article.description,
-          publishedAt: activeCuration.article.publishedAt,
-          type: activeCuration.article.type,
-          image: activeCuration.article.image,
-          imageAlt: activeCuration.article.imageAlt,
-          imageFit: activeCuration.article.imageFit,
-          imagePosition: activeCuration.article.imagePosition,
-        },
-      }
-    : null;
 
+  // As seções de cima ganham aqui o espaço de baixo; as de baixo trazem o delas.
   return (
-    <div className="min-h-screen bg-[#fef9f3]">
-      <div className="bg-[#0f1d3a]">
-        {/* 1. Cupons ativos em faixa compacta */}
-        <CouponStrip coupons={getCouponStripItems()} />
+    <div className={`${couponFontVariables} min-h-screen bg-white`}>
+      <h1 className="sr-only">Em Casa com Cecília: guias, códigos de desconto e receitas</h1>
 
-        {/* 2. Hero - Apresentação principal */}
-        <Hero />
-
-        {/* 3. Destaques de Guias & Análises */}
-        <FeaturedReviewGuides items={featuredReviewGuides} />
+      {/* Vitrine: a Cecília e as lojas parceiras */}
+      <div className="pb-8 md:pb-10">
+        <HomeStoreStories
+          tabs={getHomeStoreTabs(publishedReviews)}
+          ceciliaPanel={<HomeCeciliaPanel />}
+          ceciliaPhoto={CECILIA_PHOTO}
+        />
       </div>
 
-      {/* 4. Atalhos por categoria e publicações recentes */}
-      <ReviewsShowcase items={carouselReviewGuides} />
+      {/* Acabou de sair: os 5 artigos mais novos */}
+      <div className="pb-8 md:pb-10">
+        <HomeLatest articles={getHomeLatest(publishedReviews)} />
+      </div>
 
-      {activeHomePick ? (
-        <HomeEditorialPick item={activeHomePick} />
+      {/* Data comercial: só durante uma campanha (content/home-events.json) */}
+      {activeEvent ? (
+        <div className="pb-8 md:pb-10">
+          <HomeEvent event={activeEvent} />
+        </div>
       ) : null}
 
-      {/* 5. Receitas Populares */}
+      {/* Receitas da Cecília */}
       <PopularRecipes popularSlugs={popularRecipeSlugs} />
 
-      {/* 6. Universo da Cecília */}
+      {/* Explore a casa */}
       <MyLinks />
 
-      {/* 7. Ofertas */}
+      {/* Ofertas do dia */}
       <Offers items={featuredOffers} />
 
-      {/* 8. CTA YouTube */}
+      {/* Últimos vídeos: só aparece com vídeo */}
       <CTA />
     </div>
   );

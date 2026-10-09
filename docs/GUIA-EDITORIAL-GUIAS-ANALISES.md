@@ -2,10 +2,10 @@
 
 **Aplicação:** artigos publicados em `content/reviews/` e listados em português
 
-**Atualizado em:** 14/08/2026
+**Atualizado em:** 08/10/2026
 
-**Status:** vocabulário editorial aprovado; backfill, validação técnica e rotação automática na
-home implementados (Commits 3A–3D, ver Seção 10)
+**Status:** vocabulário editorial aprovado; backfill e validação técnica implementados (Commits
+3A–3D). Desde a D2, a home não seleciona artigos por `category` (ver Seção 10)
 
 ## 1. A decisão obrigatória de pauta
 
@@ -19,7 +19,7 @@ Todo artigo novo de **Guias & Análises** escolhe exatamente uma classe editoria
 | `cupons-como-usar` | Cupons & como usar | Qual é o código, como aplicar ou como encontrar uma oferta válida? |
 | `confianca-reputacao` | Confiança & reputação | A marca ou empresa é confiável e o que dizem dados públicos, reclamações e histórico? |
 
-`category` é a fonte de verdade para navegação, filtros de `/reviews` e atalhos da home. Não
+`category` é a fonte de verdade para a navegação e os filtros de `/reviews`. Não
 criar `editorialClass`, `navigationCategory` ou outro campo paralelo.
 
 ## 2. Três campos, três trabalhos
@@ -117,51 +117,31 @@ O vocabulário foi aprovado para os 32 artigos listados em português, com distr
 10/10/7/5. Esses números são retrato do acervo, não metas nem asserções permanentes. Conteúdo
 internacional recebe classe somente depois de decisão e backfill por locale.
 
-## 10. Rotação automática dos quatro destaques da home
+## 10. Onde o artigo aparece na home
 
-`category` não é só taxonomia de navegação: desde os commits `7f12c94`, `0b6fb29`,
-`c67d9df`/`134815b` e `9870a86` (plano técnico em
-`docs/superpowers/plans/2026-08-13-lifestyle-home-guides-implementation.md`), ela também limita a
-diversidade dos quatro cards de destaque da home. A recência escolhe os candidatos; ninguém edita
-esses cards à mão.
+Desde a D2 (outubro de 2026), a home não escolhe destaques por `category`. Um artigo listado em
+português (sem `draft`, sem `hideFromListings`/`hideFromPortugueseListings` e com `locale`
+português ou sem `locale`) aparece:
 
-**Nota de atualização (26/08/2026):** no contrato atual de curadoria, a seleção é **cronológica
-com teto de 2 por `category`**, ordenada por `publishedAtISO` desc com desempate por `id` desc, em vez de
-uma vaga fixa por categoria.
+- **no "Acabou de sair"**, se estiver entre os 5 mais novos por `publishedAtISO`, com desempate
+  pelo maior `id` (`getHomeLatest`, em `src/lib/homeStores.ts`). Não há teto por categoria;
+- **na aba da loja, na vitrine**, se o `affiliate` for o slug de uma loja ativa de
+  `src/lib/couponsData.ts`: a aba mostra os 3 mais novos da loja. Loja com mais de 3 artigos ganha
+  a subpágina `/reviews/loja/<slug>`, com todos;
+- **na faixa de uma data comercial**, durante a campanha, se o slug estiver entre os 4 primeiros
+  do `articleSlugs` da edição em `content/home-events.json`, na ordem do arquivo. A página da
+  data (o `hub` da edição, como `/black-friday`), quando existe, mostra todos.
 
-Regra implementada em `selectHomeReviewDiscovery`
-([reviewDiscovery.ts:154](../src/lib/reviewDiscovery.ts:154)):
-
-- percorre a lista de elegíveis em ordem cronológica (`publishedAtISO` desc, `id` desc);
-- preenche quatro destaques com no máximo 2 por `category`;
-- falha com erro nomeado se não conseguir 4 destaques elegíveis;
-- um artigo novo pode entrar e deslocar outro independentemente da categoria;
-- empate de data é resolvido pelo maior `id`;
-- `type`, `reviewKind`, `isNew`, marca e parceria comercial não entram nessa seleção.
-
-Quando um artigo novo entra (semântica da biblioteca):
-
-1. o novo ocupa a próxima vaga disponível conforme ordem cronológica e teto por categoria;
-2. o artigo deslocado sai dos quatro destaques;
-3. o artigo deslocado entra automaticamente na grade cronológica de baixo — 2×4, até 8 artigos
-   ([ReviewsShowcase.tsx:31](../src/components/sections/ReviewsShowcase.tsx:31));
-4. filtros e ordenação por categoria em `/reviews` continuam baseados em `category`, com lista já
-   ordenada por data;
-5. na grade geral de 8 (sem filtro), só aparece se estiver entre os 8 mais recentes do acervo
-   listado combinado.
-
-A biblioteca já aceita exclusões por `excludedIds`: esses artigos não aparecem nem nos 4 destaques
-nem na grade recente, enquanto `counts` permanece global sobre a vitrine PT inteira. Essa é uma
-capacidade para a futura curadoria; não significa que uma seleção editorial já esteja ativa na home.
+`category` continua valendo para os filtros de `/reviews`. `type`, `reviewKind`, `isNew`,
+`pros/cons` e a marca citada no texto não mudam o lugar do artigo na home.
 
 Contrato para todo artigo PT novo, reforçando a Seção 1: `category` válida, `publishedAtISO` em
-`YYYY-MM-DD`, `id` único, sem `draft: true`, sem `hideFromListings`/`hideFromPortugueseListings`,
-presente no manifest, e passando por `npm run build`. Sem isso,
-[`assertDiscoverableReview`](../src/lib/reviewDiscovery.ts:96) derruba o build com o slug do
-artigo — nunca publica uma home incompleta.
+`YYYY-MM-DD`, `id` único, presença no manifest e `npm run build` verde. Sem `category` ou
+`publishedAtISO` válidos, `assertDiscoverableReview` (`src/lib/reviewDiscovery.ts`) derruba o build
+com o slug do artigo.
 
-Publicar na Central sem deploy não move a home: ela só reflete a nova seleção depois do deploy,
-com até ~5 minutos de cache (`revalidate = 300` em `src/app/(pt)/page.js:19`).
+Publicar na Central sem deploy não move a home: ela só mostra o artigo novo depois do deploy, com
+até ~5 minutos de cache (`revalidate = 300` em `src/app/(pt)/page.js`).
 
 ### Mídia editorial remota
 
@@ -175,6 +155,3 @@ URL CDN, sem alterar publicacao, datas ou chips. Midia nova: comprimir, inventar
 incrementalmente, fazer upload/verificacao e acrescentar ao mapa com `--append`.
 Nao apagar originais nem substituir o mapa completo para adicionar uma imagem.
 Ver comandos e limites no guia de midia; audio ainda exige implementacao propria.
-
-Quem gera ou revisa conteúdo não escolhe nem edita os quatro cards manualmente. A única ação
-editorial é classificar `category` e datar `publishedAtISO` corretamente — o sistema faz o resto.

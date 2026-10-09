@@ -23,8 +23,9 @@ Além da página `/cupons/letseatit`, o cluster de onboarding tem três artigos 
 Teste de checkout em 2026-10-02 (prints em `public/images/reviews/letseatit/`): o MAUAD foi aceito
 num carrinho com item de pré-venda e item com preço promocional (−R$ 179,10 sobre R$ 3.582,10) e
 num pedido de um único item de R$ 62,90. O desconto incide sobre o subtotal; o frete é calculado
-na etapa seguinte. A loja não publica política do cupom: limite por CPF, soma com outro cupom e
-acúmulo com o desconto do Pix seguem "conforme regras da loja" até haver confirmação.
+na etapa seguinte. O MAUAD vale com todas as formas de pagamento e soma com o desconto do Pix
+(Bruno, 2026-10-08). A loja não publica política do cupom: limite por CPF e soma com outro cupom
+seguem "conforme regras da loja" até haver confirmação.
 
 ---
 
@@ -43,7 +44,7 @@ acúmulo com o desconto do Pix seguem "conforme regras da loja" até haver confi
 | Atendimento seg–sex 9h–18h, WhatsApp (11) 96570-0375, suporte@letseatit.com.br; Casa Let's, Av. Pacaembu 1105, São Paulo, seg–sex 9h–18h e sáb 10h–14h | fato_oficial | Site oficial | 2026-10-02 | 2027-01-02 | Troca presencial possível na Casa Let's |
 | Casa Let's: ambientes decorados e mesa posta montada com a equipe, visita sem agendamento, 15% de desconto nas compras presenciais exceto Le Creuset e Trussardi; não faz retirada de pedidos do site | fato_oficial | letseatit.com.br/pages/casa-lets e FAQ da política de frete | 2026-10-03 | 2027-01-03 | "Cupom presencial" é da loja física, não do site |
 | Cashback: cupom de 30% do valor da compra enviado por WhatsApp, válido 30 dias, um ativo por vez; próxima compra mínima de 7× o valor do cupom (um trecho do FAQ diz 5×) | condicao_comercial_volatil | letseatit.com.br/pages/cashback-lets-eat-it | 2026-10-03 | 2026-11-03 | Efeito prático: até ~14% na compra seguinte; combinação com outros cupons "conforme condições vigentes" |
-| Pix com 5% de desconto em muitos produtos; sem frete grátis na compra; sem entrega expressa | condicao_comercial_volatil | Páginas de produto e política de frete | 2026-10-03 | 2026-11-03 | Não testado se o Pix soma com o MAUAD |
+| Pix com 5% de desconto em muitos produtos; sem frete grátis na compra; sem entrega expressa | condicao_comercial_volatil | Páginas de produto e política de frete | 2026-10-03 | 2026-11-03 | O MAUAD vale com todas as formas de pagamento e soma com o desconto do Pix (Bruno, 2026-10-08) |
 | Cupom de primeira compra: nenhum divulgado no site oficial | fato_oficial | Home, busca e páginas institucionais | 2026-10-03 | 2026-11-03 | Nos artigos, responder buscas de primeira compra com o MAUAD; não citar códigos de terceiros |
 | Catálogo em 08/10: Le Creuset quase toda pelo preço cheio (promoções de 15% a 33% só numa seleção de peças e cores); Porto Brasil com 40% OFF em 150 de 174 peças e 60% em 21; Natal Let's com 40% na maior parte; Outlet's com cerca de 750 produtos | condicao_comercial_volatil | `products.json` das coleções `le-creuset`, `promocao-le-creuset`, `porto-brasil`, `natal-lets` e `outlet` | 2026-10-08 | 2026-11-08 | A loja é Shopify: o `products.json` de cada coleção traz preço e preço riscado de cada variante | Alta |
 | Prazos de entrega "podem sofrer alterações" em períodos promocionais; o FAQ da política de frete fala em 7 dias para troca, contra os 30 dias da política de reembolso | fato_oficial | letseatit.com.br/pages/politica-de-frete | 2026-10-08 | 2027-01-08 | Seguir os 30 dias da política de reembolso | Alta |
