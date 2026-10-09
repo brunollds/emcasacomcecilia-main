@@ -111,6 +111,8 @@ assert.match('割引 CECILIA010', codeAsCouponRegExp(['CECILIA010'])!, 'codeAsCo
 assert.doesNotMatch('Código CECILIA010', codeAsCouponRegExp(['CECILIA010'])!, 'codeAsCouponRegExp pegou "código"');
 assert.equal(codeAsCouponRegExp([]), undefined, 'codeAsCouponRegExp sem código nenhum tem de ficar sem casador');
 assert.deepEqual(urlHostsIn({ a: 'see https://ystyle.co/abc.' }), ['ystyle.co'], 'urlHostsIn não tira o host do meio da frase');
+// Sem caminho, o ponto final da frase gruda no host: só o corte da pontuação devolve ystyle.co.
+assert.deepEqual(urlHostsIn({ a: 'see https://ystyle.co.' }), ['ystyle.co'], 'urlHostsIn não tira a pontuação do fim da URL');
 assert.deepEqual(
   deriveStoreHosts(['yesstyle'], () => [{ link: 'https://ystyle.co/x', site: 'https://emcasacomcecilia.com/en' }]),
   ['ystyle.co'],
