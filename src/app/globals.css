@@ -167,6 +167,89 @@ html:lang(ja) {
   animation: slide-down 0.3s ease-out;
 }
 
+/* Home D2.1: as bolinhas da vitrine. O StoreBubble grava a inclinação do mouse em --rx, --ry, --lx e
+   --ly. O logo fica em 0.86 em repouso, o tamanho de antes, e vai a 1 com o mouse, sem passar do
+   tamanho do arquivo (o sizes da imagem já é o de 1). */
+.bolinha-logo {
+  scale: 0.86;
+}
+
+@keyframes bolinha-entra {
+  from {
+    opacity: 0;
+    translate: 70px 0;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .bolinha {
+    perspective: 420px;
+  }
+
+  .bolinha-disco {
+    transform: rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg));
+    transition:
+      transform 250ms cubic-bezier(0.2, 0.8, 0.2, 1),
+      scale 120ms ease-out,
+      box-shadow 250ms ease-out;
+  }
+
+  .bolinha:active .bolinha-disco {
+    scale: 0.92;
+  }
+
+  .bolinha-logo {
+    translate: var(--lx, 0px) var(--ly, 0px);
+    transition:
+      scale 250ms cubic-bezier(0.2, 0.8, 0.2, 1),
+      translate 250ms cubic-bezier(0.2, 0.8, 0.2, 1);
+  }
+}
+
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  .bolinha:hover .bolinha-logo {
+    scale: 1;
+  }
+}
+
+/* No celular as bolinhas entram da direita, uma depois da outra (--i é a posição na faixa). */
+@media (width < 48rem) and (prefers-reduced-motion: no-preference) {
+  .bolinha {
+    animation: bolinha-entra 450ms cubic-bezier(0.2, 0.8, 0.2, 1) backwards;
+    animation-delay: calc(var(--i, 0) * 70ms);
+  }
+}
+
+/* Troca de loja na vitrine: o painel novo entra pelo lado da bolinha escolhida (--painel-de, que o
+   HomeStoreStories grava) e o recorte do código assenta como um carimbo. */
+@media (prefers-reduced-motion: no-preference) {
+  .painel-entra {
+    transition:
+      opacity 450ms cubic-bezier(0.2, 0.8, 0.2, 1),
+      translate 450ms cubic-bezier(0.2, 0.8, 0.2, 1);
+  }
+
+  .painel-entra .carimbo {
+    transition:
+      opacity 250ms ease-out 100ms,
+      scale 500ms cubic-bezier(0.34, 1.56, 0.64, 1) 100ms,
+      rotate 500ms cubic-bezier(0.34, 1.56, 0.64, 1) 100ms;
+  }
+
+  @starting-style {
+    .painel-entra {
+      opacity: 0;
+      translate: var(--painel-de, 0px) 0;
+    }
+
+    .painel-entra .carimbo {
+      opacity: 0;
+      scale: 1.06;
+      rotate: -1.5deg;
+    }
+  }
+}
+
 /* Scrollbar customizada */
 ::-webkit-scrollbar {
   width: 8px;
