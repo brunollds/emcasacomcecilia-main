@@ -25,10 +25,10 @@ npm run validate:yesstyle    # data/coupons/yesstyle.json; falha com oferta ativ
 npm run test:analytics-gate  # allowlist de hosts do GA4 e do Clarity; loader do Clarity só em Clarity.js, sem id="clarity"
 npm run test:home-stores     # vitrine da home, "Acabou de sair" e subpáginas /reviews/loja/<slug>
 npm run test:home-events     # datas comerciais: content/home-events.json, a faixa e a página da data
-npm run test:home-lower-sections  # receitas, Explore a casa, ofertas (e o feed) e vídeos da home, e que o page.js monta Ofertas e Vídeos
+npm run test:home-lower-sections  # receitas, Explore a casa (com o carrossel de ofertas do feed) e vídeos da home, e que o page.js passa as ofertas ao Explore a casa e monta os Vídeos
 npm run test:home-route-tracking  # placements do home_route_click e o link das abas da vitrine (<a> comum)
 npm run test:html-lang       # depois do build: <html lang> de cada rota
-npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, textos que citam o CECILIA010, a home, os cards de /reviews, as subpáginas de loja e as páginas de data (imagem e JSON-LD), a imagem de compartilhamento das páginas de loja e o noindex do /categorias
+npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, textos que citam o CECILIA010, a home, os cards de /reviews, as subpáginas de loja e as páginas de data (imagem e JSON-LD), a imagem de compartilhamento das páginas de loja e o noindex do /categorias, o marca-texto dos títulos da home, os cards revelados na rolagem e nada escondido por ela no HTML, e o CSS da rolagem só com o movimento liberado (e sem @media not … and …)
 ```
 
 `npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
@@ -150,8 +150,8 @@ vídeo, primeiras impressões e uso noturno.
   `docs/Memoria de Artigos/memreview`, a partir de `00_Sistema/AI-PRIMING-INDEX.md`.
 
 ### Component layers
-- `src/components/ui/` — Shared building blocks: `focusRing.ts` (`FOCUS_RING`, `FOCUS_RING_ON_DARK`), `ScrollRow` and `CategoryIcon`.
-- `src/components/sections/` — Page sections: the D2 home (`HomeStoreStories`, `HomeCeciliaPanel`, `HomeLatest`, `HomeEvent`, `PopularRecipes`, `MyLinks`, `Offers`, `CTA`, the last three wrapped in `HomeSection`) and `EventHubPage`, which reads the data and wraps `EventHubView` (the date page itself, rendered by `test:home-events`; it must not import `next/font`, which does not run under tsx). `Navbar` and `Footer` live in `src/components/`.
+- `src/components/ui/` — Shared building blocks: `focusRing.ts` (`FOCUS_RING`, `FOCUS_RING_ON_DARK`), `ScrollRow`, `RevealSection` and `CategoryIcon`.
+- `src/components/sections/` — Page sections: the D2 home (`HomeStoreStories`, `HomeStoreStrip` (the store bubbles), `HomeCeciliaPanel`, `HomeLatest`, `HomeEvent`, `PopularRecipes`, `MyLinks` (with `OfferCarousel`), `CTA`, the last two wrapped in `HomeSection`) and `EventHubPage`, which reads the data and wraps `EventHubView` (the date page itself, rendered by `test:home-events`; it must not import `next/font`, which does not run under tsx). `Navbar` and `Footer` live in `src/components/`.
 - Each route group has its own root layout (`src/app/(pt)/layout.js`, `src/app/(en)/layout.tsx`… and `src/app/[locale]/layout.tsx`). All of them render `RootLayoutShell` (`src/components/RootLayoutShell.tsx`): `Navbar → {children} → Footer`.
 
 ### Artigos: sumário no celular
@@ -177,7 +177,7 @@ vídeo, primeiras impressões e uso noturno.
     `couponsData.ts`);
   - o "Acabou de sair" (`HomeLatest`);
   - a data comercial (`HomeEvent`, só em campanha);
-  - receitas, Explore a casa, ofertas e vídeos.
+  - receitas, Explore a casa (com as ofertas do dia no card do Dicas & Ofertas) e vídeos.
 
   O `page.js` dá o espaço de baixo das seções de cima; as de baixo trazem o delas: a faixa de
   receitas no próprio `<section>`, as outras pelo `HomeSection`.
@@ -187,7 +187,8 @@ vídeo, primeiras impressões e uso noturno.
   - `src/lib/homeEvents.ts` com `content/home-events.json`: as datas comerciais. Como pôr uma data
     no ar está em "Para pôr a Black Friday no ar", no fim de
     `docs/superpowers/plans/2026-10-08-home-d2-fase-4.md`;
-  - `dicasOffers.ts` e `youtube.ts`: sem o feed ou sem vídeo, a seção some. Não há ofertas reserva.
+  - `dicasOffers.ts` e `youtube.ts`: sem oferta com foto, o card do Dicas & Ofertas volta a ser só o
+    link; sem vídeo, a seção some. Não há ofertas reserva.
 - Fila de cards que rola na horizontal usa o `ScrollRow` (`src/components/ui/ScrollRow.tsx`): com o
   foco do teclado, o card meio escondido entra inteiro na tela. As bolinhas da vitrine ficam de
   fora: elas já centralizam a loja escolhida.
@@ -195,6 +196,16 @@ vídeo, primeiras impressões e uso noturno.
 - A subpágina de loja e a página da data compartilham com imagem (a da página de cupom da loja; na
   data, a capa do artigo mais novo) e levam JSON-LD de lista (`CollectionPage` e `BreadcrumbList`),
   tudo por `src/lib/pageSeo.ts`, que a página de cupom também usa para a imagem da loja.
+- Movimento (D2.1, `docs/superpowers/specs/2026-10-09-home-d2-1-design.md`): as classes ficam no
+  `globals.css`, todas dentro de `prefers-reduced-motion: no-preference`:
+  - `.bolinha`, `.bolinha-disco` e `.bolinha-logo` (inclinação pelo mouse em `--rx`, `--ry`, `--lx`
+    e `--ly`, gravadas pelo `StoreBubble`; entrada pela direita no celular por `--i`);
+  - `.painel-entra` e `.carimbo` (troca de loja pelo lado da bolinha, em `--painel-de`, por
+    `@starting-style`);
+  - `.marca-texto` e `.revela` (rolagem). Seção de baixo nova usa o `RevealSection` no lugar da
+    `<section>`, o título num `<span className="marca-texto">` e cada card com `revela` e `--i`. O
+    `RevealSection` só esconde depois de montar e só abaixo da tela; o `test:build-output` barra
+    `data-reveal` no HTML do servidor.
 
 ### Páginas de loja (cupons)
 
