@@ -42,6 +42,11 @@ import { getPublishedReviewsForLocale } from '@/lib/review-hubs';
 // é assim em espanhol e em português. Chave: idioma:tipo do código.
 const LABEL_SAME_AS_PORTUGUESE = new Set(['es:reward']);
 
+// As palavras de cupom, uma lista só: as do sidebarCopy.ts (couponLabel) e os compostos do alemão. As
+// palavras de código em geral (code, código, codice, 코드, コード) ficam de fora: o CECILIA010 é um código.
+const COUPON_WORD_LIST =
+  'cupo[mn]s?|cup[oó]n(?:es)?|coupons?|gutschein\\w*|discount|descuento|desconto|promo|rabatt\\w*|sconto|쿠폰|クーポン|優惠[碼券]|优惠[码券]';
+
 // O certificado da YesStyle vale até validUntil, pela data UTC: depois disso a build para.
 const todayUtc = new Date().toISOString().slice(0, 10);
 assert.ok(
@@ -92,7 +97,7 @@ assert.throws(() => fillTemplate('{name} desde {since}', { name: 'x' }), /since/
 const translatedSlugs = [...new Set(getTranslatedCouponRoutes().map((route) => route.slug))].filter((slug) => slug !== 'yesstyle');
 const expectedSlugs = [...(getCouponBySlug('yesstyle') ? ['yesstyle'] : []), ...translatedSlugs];
 assert.ok(expectedSlugs.length > 0, 'nenhuma loja parceira ativa com página traduzida');
-const COUPON_WORDS = /coupons?|cupo[mn]s?|cup[oó]n(?:es)?|gutscheine?|쿠폰|クーポン|優惠[碼券]|优惠[码券]/iu;
+const COUPON_WORDS = new RegExp(COUPON_WORD_LIST, 'iu');
 
 for (const locale of LOCALE_HOME_LOCALES) {
   const stores = getLocaleHomeStores(locale);
@@ -172,7 +177,6 @@ const PT_ONLY_TEXTS = [
   ...Object.values(PT_CODE_TITLES),
 ].filter((text): text is string => Boolean(text));
 const CODES = expectedSlugs.map((slug) => getStoreCode(getCouponBySlug(slug)!)).filter(Boolean).join('|');
-const COUPON_WORD_LIST = 'cupom|cupons|cupón|cupones|coupons?|gutscheine?|쿠폰|クーポン|優惠[碼券]|优惠[码券]';
 const CODE_AS_COUPON = new RegExp(
   `(?:${COUPON_WORD_LIST})(?: de \\S+)?[:：]? ?(?:${CODES})|(?:${CODES})[ -]?(?:${COUPON_WORD_LIST})`,
   'iu'
@@ -191,6 +195,9 @@ const imageConfig: ImageConfigComplete = {
 };
 const render = (element: ReturnType<typeof createElement>) =>
   renderToStaticMarkup(createElement(ImageConfigContext.Provider, { value: imageConfig }, element));
+const hrefsOf = (html: string) => [...html.matchAll(/href="([^"]+)"/g)].map(([, href]) => decode(href));
+const h1Count = (html: string) => (html.match(/<h1\b/g) ?? []).length;
+const escapeRegExp = (text: string) => text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
 for (const locale of LOCALE_HOME_LOCALES) {
   const content = getLocaleHomeContent(locale, publishedReviews);
@@ -208,25 +215,39 @@ for (const locale of LOCALE_HOME_LOCALES) {
   const faq = render(createElement(LocaleHomeFaq, { faq: content.faq }));
   const follow = render(createElement(LocaleHomeFollow, { follow: content.follow }));
   const all = [hero, stores, articles, safety, faq, follow].join('');
-  const hrefs = [...all.matchAll(/href="([^"]+)"/g)].map(([, href]) => decode(href));
+  const hrefs = hrefsOf(all);
 
-  assert.equal((hero.match(/<h1\b/g) ?? []).length, 1, `${locale}: hero sem um H1`);
+  assert.equal(h1Count(all), 1, `${locale}: a home sem exatamente um H1`);
+  assert.equal(h1Count(hero), 1, `${locale}: o H1 não está no hero`);
   assert.ok(hero.includes(CECILIA_FULL_NAME), `${locale}: hero sem o nome completo`);
   assert.ok(hero.includes(YESSTYLE_CERTIFICATE.title), `${locale}: hero sem o selo`);
-  assert.ok(hrefs.includes(content.hero.mailto), `${locale}: hero sem o e-mail`);
+  // O tipo do selo (com os anos) pelo texto já sem o escape do HTML, que muda de idioma para idioma (o apóstrofo do francês).
+  assert.ok(content.hero.certificate.tier.includes(getCertificateYears()), `${locale}: o tipo do selo sem os anos`);
+  assert.ok(visibleTexts(hero).includes(content.hero.certificate.tier), `${locale}: hero sem o tipo do selo`);
+  assert.ok(hrefsOf(hero).includes(content.hero.mailto), `${locale}: hero sem o e-mail`);
   for (const { label } of content.hero.social) assert.ok(all.includes(`aria-label="${label}"`), `${locale}: sem ${label}`);
   for (const id of ['titulo-cecilia', 'titulo-lojas', 'titulo-artigos', 'titulo-seguro', 'titulo-perguntas', 'titulo-redes']) {
     assert.ok(all.includes(`id="${id}"`), `${locale}: sem a seção ${id}`);
   }
   for (const store of content.stores.items) {
-    assert.ok(stores.includes(`href="${store.href}"`), `${locale}: sem o cartão de ${store.brand}`);
-    if (store.code) assert.ok(stores.includes(store.code) && stores.includes(store.codeLabel ?? ''), `${locale}: ${store.brand} sem o código`);
+    // O código e o rótulo dentro do cartão da própria loja, o <a> que leva à página dela.
+    const card = stores.match(new RegExp(`<a [^>]*href="${escapeRegExp(store.href)}"[^>]*>.*?</a>`, 's'))?.[0];
+    assert.ok(card, `${locale}: sem o cartão de ${store.brand}`);
+    if (store.code) {
+      assert.ok(store.codeLabel, `${locale}: ${store.brand} com código e sem o rótulo`);
+      const texts = visibleTexts(card);
+      assert.ok(texts.includes(store.code) && texts.includes(store.codeLabel), `${locale}: ${store.brand} sem o código no cartão`);
+    }
   }
   for (const article of content.articles.items) assert.ok(articles.includes(`href="${article.href}"`), `${locale}: sem ${article.href}`);
   assert.ok(articles.includes(`href="${content.articles.all.href}"`), `${locale}: sem o link para todos os artigos`);
   assert.equal((safety.match(/<li\b/g) ?? []).length, 5, `${locale}: "É seguro?" sem os 5 itens`);
   assert.equal((faq.match(/<details\b/g) ?? []).length, 4, `${locale}: perguntas`);
   for (const network of content.follow.networks) assert.ok(follow.includes(`href="${network.href}"`), `${locale}: sem ${network.name}`);
+  // O perfil é o mesmo nas quatro redes: o @ aparece uma vez só, não em cada botão.
+  const handles = new Set(content.follow.networks.map((network) => network.handle));
+  assert.equal(handles.size, 1, `${locale}: redes com perfis diferentes`);
+  assert.equal(visibleTexts(follow).filter((text) => handles.has(text)).length, 1, `${locale}: o @ das redes não aparece uma vez só`);
 
   assert.deepEqual(hrefs.filter((href) => /yesstyle\.com|shein\.com|onelink\./i.test(href)), [], `${locale}: link de loja`);
   assert.deepEqual(visibleTexts(all).filter((text) => ptTexts.includes(text)), [], `${locale}: texto em português`);

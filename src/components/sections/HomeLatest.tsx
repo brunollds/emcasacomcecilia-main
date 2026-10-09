@@ -81,16 +81,21 @@ export function HomeLatest({ articles }: { articles: HomeLatestArticle[] }) {
   );
 }
 
+// A dica de tamanho da home em português, onde o cartão só aparece da largura de tablet para cima.
+const LATEST_IMAGE_SIZES = '(min-width: 1200px) 210px, 30vw';
+
 type LatestCardProps = {
   article: HomeLatestArticle;
   decor: CardDecor;
   placement: HomeRoutePlacement;
   // A linha de cima do cartão: na home em PT, data e tipo; na de cada idioma, só a data.
   meta: string;
+  // Quanto da tela a foto ocupa; quem põe o cartão em outra largura passa o próprio valor.
+  imageSizes?: string;
 };
 
 // Também é o cartão dos artigos na home de cada idioma (LocaleHomeArticles).
-export function LatestCard({ article, decor, placement, meta }: LatestCardProps) {
+export function LatestCard({ article, decor, placement, meta, imageSizes = LATEST_IMAGE_SIZES }: LatestCardProps) {
   return (
     <TrackedHomeLink
       href={article.href}
@@ -106,7 +111,7 @@ export function LatestCard({ article, decor, placement, meta }: LatestCardProps)
       ) : null}
       <span className="relative block h-[140px] overflow-hidden rounded-t-lg border-b-2 border-marinho bg-creme">
         {article.image ? (
-          <Image src={article.image} alt="" fill sizes="(min-width: 1200px) 210px, 30vw" className="object-cover" />
+          <Image src={article.image} alt="" fill sizes={imageSizes} className="object-cover" />
         ) : null}
       </span>
       <span className="flex flex-1 flex-col gap-1.5 p-3">

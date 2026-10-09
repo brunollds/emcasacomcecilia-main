@@ -57,6 +57,10 @@ export function LocaleHomeStores({ stores }: { stores: LocaleHomeContent['stores
   );
 }
 
+// A largura do cartão: 220 px na fila do celular, um terço do contêiner (tela menos 80 de margem e 36 de
+// espaço entre os cartões) de tablet para cima e, no contêiner cheio de 1200 px, 361 px.
+const ARTICLE_IMAGE_SIZES = '(min-width: 1200px) 361px, (min-width: 768px) calc((100vw - 116px) / 3), 220px';
+
 // Os artigos do idioma nos cartões do "Acabou de sair": fila que rola no celular, grade no desktop.
 export function LocaleHomeArticles({ articles }: { articles: LocaleHomeContent['articles'] }) {
   return (
@@ -81,6 +85,7 @@ export function LocaleHomeArticles({ articles }: { articles: LocaleHomeContent['
               decor={CARD_DECOR[index % CARD_DECOR.length]}
               placement="locale_home_articles"
               meta={article.dateLabel}
+              imageSizes={ARTICLE_IMAGE_SIZES}
             />
           </li>
         ))}
@@ -156,12 +161,21 @@ export function LocaleHomeFaq({ faq }: { faq: LocaleHomeContent['faq'] }) {
   );
 }
 
-// Fecha a página: as redes em botões grandes, sem os números, que ficam no hero.
+// Fecha a página: as redes em botões grandes, sem os números, que ficam no hero. O perfil é o mesmo nas
+// quatro redes: o @ aparece uma vez, junto da introdução, e cada botão leva só o ícone e o nome da rede.
 export function LocaleHomeFollow({ follow }: { follow: LocaleHomeContent['follow'] }) {
+  const handle = follow.networks[0]?.handle;
   return (
     <HomeSection id="titulo-redes" title={follow.title} className="pb-12 md:pb-16">
       <div className="flex flex-col gap-4 rounded-[14px] border-2 border-marinho bg-laranja p-4 shadow-[0_4px_0_var(--color-marinho)] md:p-6 lg:flex-row lg:items-center lg:justify-between">
-        <p className="max-w-[40ch] text-[15px] leading-normal font-bold text-marinho md:text-base">{follow.intro}</p>
+        <div className="flex flex-col items-start gap-2.5">
+          <p className="max-w-[40ch] text-[15px] leading-normal font-bold text-marinho md:text-base">{follow.intro}</p>
+          {handle ? (
+            <p className="rounded-full border-2 border-marinho bg-white px-3 py-1 text-[13px] font-black tracking-[0.02em] text-marinho">
+              {handle}
+            </p>
+          ) : null}
+        </div>
         <ul className="grid grid-cols-2 gap-2 md:gap-3">
           {follow.networks.map((network, index) => (
             <li key={network.name} className="revela flex" style={cardIndex(index)}>
@@ -171,13 +185,10 @@ export function LocaleHomeFollow({ follow }: { follow: LocaleHomeContent['follow
                 rel="noopener noreferrer"
                 placement="locale_home_follow"
                 linkLabel={network.name}
-                className={`flex min-h-12 min-w-0 flex-1 items-center gap-2.5 rounded-[10px] border-2 border-marinho bg-white px-3 py-2 text-marinho motion-safe:transition-transform motion-safe:duration-200 motion-safe:hover:-translate-y-0.5 ${FOCUS_RING}`}
+                className={`flex min-h-12 min-w-0 flex-1 items-center gap-1.5 rounded-[10px] border-2 border-marinho bg-white px-2 py-2 text-marinho motion-safe:transition-transform motion-safe:duration-200 motion-safe:hover:-translate-y-0.5 sm:gap-2.5 sm:px-3 ${FOCUS_RING}`}
               >
-                <SocialIcon name={network.name} className="size-5 shrink-0" />
-                <span className="flex min-w-0 flex-col">
-                  <span className="text-sm font-extrabold">{network.name}</span>
-                  <span className="truncate text-xs font-semibold text-marinho-suave">{network.handle}</span>
-                </span>
+                <SocialIcon name={network.name} className="size-[18px] shrink-0 sm:size-5" />
+                <span className="text-sm font-extrabold">{network.name}</span>
               </TrackedHomeLink>
             </li>
           ))}
