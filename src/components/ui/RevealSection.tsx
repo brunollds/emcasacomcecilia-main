@@ -16,8 +16,8 @@ export function RevealSection(props: ComponentPropsWithoutRef<'section'>) {
     section.dataset.reveal = 'pending';
     // Revela quando o topo da seção passa de 85% da altura da tela.
     const observer = new IntersectionObserver(
-      ([entry]) => {
-        if (!entry.isIntersecting) return;
+      (entries) => {
+        if (!entries.some((entry) => entry.isIntersecting)) return;
         section.dataset.reveal = 'done';
         observer.disconnect();
       },

@@ -252,7 +252,8 @@ html:lang(ja) {
 
 /* Home D2.1: o marca-texto dos títulos das seções de baixo e os cards que a rolagem revela. O
    RevealSection grava data-reveal="pending" só depois de montar e só na seção abaixo da tela; --i é
-   a posição do card na cascata. O marca-texto fica sempre no título: a animação só o pinta. */
+   a posição do card na cascata. O marca-texto fica sempre no título: a animação só o pinta. A
+   transição só vale no done: esconder é instantâneo (a seção está fora da tela) e revelar é animado. */
 .marca-texto {
   background-image: linear-gradient(
     var(--marca-texto, var(--color-amarelo-cupom)),
@@ -268,26 +269,26 @@ html:lang(ja) {
 }
 
 @media screen and (prefers-reduced-motion: no-preference) {
-  .marca-texto {
-    transition: background-size 700ms cubic-bezier(0.2, 0.8, 0.2, 1) 100ms;
-  }
-
   [data-reveal='pending'] .marca-texto {
     background-size: 0% 45%;
   }
 
-  .revela {
-    transition:
-      opacity 550ms ease-out,
-      translate 650ms cubic-bezier(0.2, 0.8, 0.2, 1),
-      scale 650ms cubic-bezier(0.2, 0.8, 0.2, 1);
-    transition-delay: calc(80ms + min(var(--i, 0), 5) * 70ms);
+  [data-reveal='done'] .marca-texto {
+    transition: background-size 700ms cubic-bezier(0.2, 0.8, 0.2, 1) 100ms;
   }
 
   [data-reveal='pending'] .revela {
     opacity: 0;
     translate: 0 12px;
     scale: 0.94;
+  }
+
+  [data-reveal='done'] .revela {
+    transition:
+      opacity 550ms ease-out,
+      translate 650ms cubic-bezier(0.2, 0.8, 0.2, 1),
+      scale 650ms cubic-bezier(0.2, 0.8, 0.2, 1);
+    transition-delay: calc(80ms + min(var(--i, 0), 5) * 70ms);
   }
 }
 

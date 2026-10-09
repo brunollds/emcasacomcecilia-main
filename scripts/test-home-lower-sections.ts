@@ -104,6 +104,11 @@ assert.equal(count(recipesHtml, /view-transition-name:recipe-hero-/g), 4, 'a fot
 assert.equal(count(recipesHtml, /<img[^>]* alt=""/g), 4, 'a foto é decorativa: o título está no link');
 // Os cards entram na rolagem (.revela), não mais na carga; nada nasce escondido no HTML do servidor.
 assert.equal(count(recipesHtml, /<li class="[^"]*\brevela\b[^"]*" style="--i:\d"/g), 4, 'os 4 cards com a entrada da rolagem');
+assert.deepEqual(
+  [...recipesHtml.matchAll(/<li class="[^"]*\brevela\b[^"]*" style="--i:(\d)"/g)].map((match) => match[1]),
+  ['0', '1', '2', '3'],
+  'a cascata na ordem dos cards'
+);
 assert.ok(!recipesHtml.includes('slide-up'), 'a entrada na carga saiu');
 assert.ok(!recipesHtml.includes('data-reveal'), 'nada escondido no HTML do servidor');
 assert.ok(!recipesText.includes('Receitas Favoritas') && !recipesText.includes('Mais Amadas'), 'o visual antigo saiu');
