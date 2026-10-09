@@ -279,6 +279,23 @@
     "officialSourceUrl": "https://www.yesstyle.com/en/",
     "affiliateUrl": "https://ystyle.co/rQYQv",
     "membersOnly": true,
+    "status": "expired",
+    "regions": ["GLOBAL"]
+  },
+  {
+    "id": "1010vibes-promo",
+    "code": "1010VIBES",
+    "type": "coupon",
+    "discount": {
+      "kind": "percentage",
+      "value": 15
+    },
+    "startsAt": "2026-10-09",
+    "expiresAt": "2026-10-12",
+    "verifiedAt": "2026-10-09",
+    "officialSourceUrl": "https://www.yesstyle.com/en/",
+    "affiliateUrl": "https://ystyle.co/rQYQv",
+    "membersOnly": true,
     "status": "active",
     "regions": ["GLOBAL"]
   }
