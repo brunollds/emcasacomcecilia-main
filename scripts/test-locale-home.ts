@@ -32,10 +32,18 @@ assert.ok(
   isCertificateValid(todayUtc),
   `O certificado da YesStyle venceu em ${YESSTYLE_CERTIFICATE.validUntil}: troque a imagem e as datas em src/lib/ceciliaCredentials.ts pelo certificado novo, ou tire o selo da home de cada idioma.`
 );
-assert.equal(isCertificateValid(YESSTYLE_CERTIFICATE.validUntil), true, 'o último dia ainda vale');
-assert.equal(isCertificateValid('2027-09-01'), false, 'o dia seguinte ao fim já não vale');
-assert.equal(isCertificateValid('2026-08-08'), false, 'antes do início não vale');
-assert.equal(getCertificateYears(), '2026–2027');
+// As bordas saem das próprias datas, para renovar o certificado não quebrar o teste.
+const shiftDay = (dayIso: string, days: number): string => {
+  const date = new Date(`${dayIso}T00:00:00Z`);
+  date.setUTCDate(date.getUTCDate() + days);
+  return date.toISOString().slice(0, 10);
+};
+const { validFrom, validUntil } = YESSTYLE_CERTIFICATE;
+assert.equal(isCertificateValid(validFrom), true, 'o primeiro dia já vale');
+assert.equal(isCertificateValid(shiftDay(validFrom, -1)), false, 'o dia antes do início não vale');
+assert.equal(isCertificateValid(validUntil), true, 'o último dia ainda vale');
+assert.equal(isCertificateValid(shiftDay(validUntil, 1)), false, 'o dia seguinte ao fim já não vale');
+assert.equal(getCertificateYears(), `${validFrom.slice(0, 4)}–${validUntil.slice(0, 4)}`);
 
 assert.deepEqual(LOCALE_HOME_LOCALES, LOCALE_KEYS.filter((locale) => locale !== 'pt'));
 
@@ -64,10 +72,11 @@ assert.throws(() => fillTemplate('{name} desde {since}', { name: 'x' }), /since/
 
 // Lojas: a YesStyle e as lojas com página traduzida, cada uma levando à página dela no idioma, com o
 // código do PT e o rótulo do idioma, que nunca chama o código de cupom.
-const translatedSlugs = [...new Set(getTranslatedCouponRoutes().map((route) => route.slug))];
+// A YesStyle tem páginas estáticas próprias e já vem primeiro: se entrar em couponTranslations.ts, não repete.
+const translatedSlugs = [...new Set(getTranslatedCouponRoutes().map((route) => route.slug))].filter((slug) => slug !== 'yesstyle');
 const expectedSlugs = [...(getCouponBySlug('yesstyle') ? ['yesstyle'] : []), ...translatedSlugs];
 assert.ok(expectedSlugs.length > 0, 'nenhuma loja parceira ativa com página traduzida');
-const COUPON_WORDS = /coupons?|cup[oó]n|gutschein|쿠폰|クーポン|優惠碼|优惠码/iu;
+const COUPON_WORDS = /coupons?|cupo[mn]s?|cup[oó]n(?:es)?|gutscheine?|쿠폰|クーポン|優惠[碼券]|优惠[码券]/iu;
 
 for (const locale of LOCALE_HOME_LOCALES) {
   const stores = getLocaleHomeStores(locale);
@@ -101,6 +110,11 @@ for (const locale of LOCALE_HOME_LOCALES) {
     listed.slice(0, 6).map((review) => review.slug),
     `${locale}: artigos`
   );
+  // A ordem, conferida pela data de cada artigo e não pela lista de onde ela saiu: do mais novo ao mais antigo.
+  const publishedAt = new Map(listed.map((review) => [review.slug, review.publishedAtISO ?? '']));
+  const dates = content.articles.items.map((article) => publishedAt.get(article.slug) ?? '');
+  assert.ok(content.articles.items.length <= 6, `${locale}: no máximo 6 artigos`);
+  assert.deepEqual(dates, [...dates].sort().reverse(), `${locale}: artigos do mais novo ao mais antigo`);
   assert.ok(content.articles.items.every((article) => article.href.startsWith(`/${locale}/reviews/`)), `${locale}: link de artigo`);
   assert.equal(content.articles.all.href, `/${locale}/reviews`);
   assert.ok(content.articles.all.label.includes(String(listed.length)), `${locale}: total de artigos`);
@@ -121,7 +135,9 @@ assert.deepEqual(
   [...LOCALE_KEYS.map((locale) => LOCALES[locale].hreflang), 'x-default'].sort()
 );
 assert.equal(languages['pt-BR'], 'https://emcasacomcecilia.com');
-assert.equal(languages.en, 'https://emcasacomcecilia.com/en');
+for (const locale of LOCALE_HOME_LOCALES) {
+  assert.equal(languages[LOCALES[locale].hreflang], `https://emcasacomcecilia.com/${locale}`, `hreflang de ${locale}`);
+}
 assert.equal(languages['x-default'], languages.en);
 
 console.log(`✅ locale home: ${LOCALE_HOME_LOCALES.length} idiomas, ${expectedSlugs.length} lojas e o certificado até ${YESSTYLE_CERTIFICATE.validUntil} passaram.`);

@@ -90,6 +90,8 @@ export function getLocaleHomeStores(locale: LocaleHomeLocale): LocaleHomeStore[]
   if (yesStyle && yesStylePage) stores.push(toHomeStore(yesStyle, yesStylePage.category, locale));
 
   for (const slug of new Set(getTranslatedCouponRoutes().map((route) => route.slug))) {
+    // A YesStyle já entrou primeiro, pelas páginas estáticas dela: se um dia constar aqui, não repete.
+    if (slug === 'yesstyle') continue;
     const coupon = getLocalizedCoupon(slug, locale);
     if (coupon) stores.push(toHomeStore(coupon, coupon.category, locale));
   }
@@ -97,6 +99,8 @@ export function getLocaleHomeStores(locale: LocaleHomeLocale): LocaleHomeStore[]
 }
 
 type HubReviews = Parameters<typeof getPublishedReviewsForLocale>[1];
+
+type LocaleHomeFaqItem = { question: string; answer: string; links?: Array<{ label: string; href: string }> };
 
 export function getLocaleHomeContent(locale: LocaleHomeLocale, reviews: HubReviews) {
   const copy = getLocaleHomeCopy(locale);
@@ -122,6 +126,16 @@ export function getLocaleHomeContent(locale: LocaleHomeLocale, reviews: HubRevie
     captionTitle: copy.photoCaptionTitle,
     instagramLabel: fillTemplate(copy.socialAria, { network: 'Instagram' }),
   };
+  const faqItems: LocaleHomeFaqItem[] = [
+    { question: copy.faqWhoQuestion, answer: fillTemplate(copy.faqWhoAnswer, facts) },
+    { question: copy.faqWhyQuestion, answer: fillTemplate(copy.faqWhyAnswer, facts) },
+    {
+      question: copy.faqWhereQuestion,
+      answer: copy.faqWhereAnswer,
+      links: stores.map((store) => ({ label: store.brand, href: store.href })),
+    },
+    { question: copy.faqContactQuestion, answer: fillTemplate(copy.faqContactAnswer, facts) },
+  ];
 
   return {
     locale,
@@ -168,19 +182,7 @@ export function getLocaleHomeContent(locale: LocaleHomeLocale, reviews: HubRevie
       all: { href: getReviewHubPath(locale), label: fillTemplate(copy.allArticles, { count: listed.length }) },
     },
     safety: { title: copy.safetyTitle, items: [...copy.safety] },
-    faq: {
-      title: copy.faqTitle,
-      items: [
-        { question: copy.faqWhoQuestion, answer: fillTemplate(copy.faqWhoAnswer, facts) },
-        { question: copy.faqWhyQuestion, answer: fillTemplate(copy.faqWhyAnswer, facts) },
-        {
-          question: copy.faqWhereQuestion,
-          answer: copy.faqWhereAnswer,
-          links: stores.map((store) => ({ label: store.brand, href: store.href })),
-        },
-        { question: copy.faqContactQuestion, answer: fillTemplate(copy.faqContactAnswer, facts) },
-      ] as Array<{ question: string; answer: string; links?: Array<{ label: string; href: string }> }>,
-    },
+    faq: { title: copy.faqTitle, items: faqItems },
     follow: {
       title: copy.followTitle,
       intro: copy.followIntro,
