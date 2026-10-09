@@ -11,11 +11,12 @@ import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.sh
 import { LatestVideos } from '@/components/sections/CTA';
 import { MyLinks } from '@/components/sections/MyLinks';
 import { Offers } from '@/components/sections/Offers';
+import { OfferCarousel } from '@/components/sections/OfferCarousel';
 import { PopularRecipes, selectPopularRecipes } from '@/components/sections/PopularRecipes';
 import { brandLinks } from '@/lib/brandLinks';
 import { getCouponBySlug } from '@/lib/couponsData';
 import { getRecipePrimaryCategory, recipes, type Recipe, type SocialHighlight } from '@/lib/data';
-import { parseDicasOffers, type Offer } from '@/lib/dicasOffers';
+import { getCarouselOffers, getOfferDiscountPercent, parseDicasOffers, type Offer } from '@/lib/dicasOffers';
 import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 
 // Seções de baixo da home (Receitas, Explore a casa, Ofertas do dia e Últimos vídeos), renderizadas
@@ -170,6 +171,44 @@ assert.ok(offersHtml.includes(`${linkTo(offersHtml, brandLinks.dicas)}Acessar Di
 assert.equal(render(createElement(Offers, { items: [] })), '', 'sem oferta, sem seção');
 const invertedText = textOf(render(createElement(Offers, { items: [offer('4', { originalPrice: 40, discountPrice: 50 })] })));
 assert.ok(invertedText.includes('R$ 50,00') && !invertedText.includes('R$ 40,00'), 'preço antigo menor que o novo: só o preço');
+
+// Carrossel do card do Dicas & Ofertas: só ofertas com foto, na ordem do feed; o card mostra a foto e o
+// preço, e o nome vai no alt da foto.
+const carouselItems = getCarouselOffers([
+  offer('c1', { originalPrice: 100, discountPrice: 79.9, image: '/images/oferta-1.webp' }),
+  offer('c2', { originalPrice: 50, discountPrice: 50 }),
+  offer('c3', { originalPrice: 100, discountPrice: 96, image: '/images/oferta-3.webp' }),
+  offer('c4', { image: '/images/oferta-4.webp' }),
+]);
+assert.deepEqual(carouselItems.map(({ id }) => id), ['c1', 'c3', 'c4'], 'sem foto, fora do carrossel');
+
+assert.equal(getOfferDiscountPercent({ originalPrice: 100, discountPrice: 79.9 }), 20);
+assert.equal(getOfferDiscountPercent({ originalPrice: 100, discountPrice: 94 }), 6);
+assert.equal(getOfferDiscountPercent({ originalPrice: 100, discountPrice: 95 }), 0, '5% não leva selo');
+assert.equal(getOfferDiscountPercent({ originalPrice: 100, discountPrice: 96 }), 0);
+assert.equal(getOfferDiscountPercent({ originalPrice: 50, discountPrice: 50 }), 0);
+assert.equal(getOfferDiscountPercent({ originalPrice: 40, discountPrice: 50 }), 0, 'preço antigo menor que o novo');
+assert.equal(getOfferDiscountPercent({ originalPrice: 100, discountPrice: 0 }), 0, 'sem preço');
+
+const carouselHtml = render(
+  createElement(OfferCarousel, { items: carouselItems, heading: createElement('h3', null, 'Dicas & Ofertas') })
+);
+const carouselText = textOf(carouselHtml);
+assert.equal(count(carouselHtml, /<li[\s>]/g), 3);
+for (const id of ['c1', 'c3', 'c4']) {
+  assert.ok(opensNewTab(linkTo(carouselHtml, `https://example.com/oferta-${id}`)), `a oferta ${id} abre em outra aba`);
+  assert.ok(carouselHtml.includes(`alt="Oferta ${id}"`), `o nome da oferta ${id} no alt da foto`);
+}
+assert.ok(carouselText.includes('de R$ 100,00 por R$ 79,90'), 'o leitor de tela ouve de … por …');
+assert.match(carouselHtml, /<s>R\$\s100,00<\/s>/, 'o preço antigo vai riscado');
+assert.ok(carouselHtml.includes('>−20%</span>'), 'o selo com o desconto arredondado');
+assert.equal(count(carouselHtml, />−\d+%<\/span>/g), 1, 'selo só acima de 5%');
+assert.match(carouselHtml, /<span aria-hidden="true" class="[^"]*bg-laranja[^"]*">−20%<\/span>/, 'o selo é decorativo');
+assert.ok(carouselText.includes('Ver oferta'), 'sem preço, "Ver oferta"');
+assert.ok(!carouselText.includes('Oferta c1 ') && !carouselText.includes('Amazon'), 'sem nome nem loja visíveis no card');
+assert.ok(!/cupom/i.test(carouselText), 'o card não fala de cupom');
+assert.ok(carouselHtml.includes('aria-label="Ver ofertas anteriores"') && carouselHtml.includes('aria-label="Ver próximas ofertas"'));
+assert.ok(carouselHtml.includes('<h3>Dicas &amp; Ofertas</h3>'), 'o título do card vem de fora');
 
 // O feed do Dicas & Ofertas: até 10 ofertas válidas, sem as que não têm nome ou link.
 assert.deepEqual(parseDicasOffers({ erro: 'fora do ar' }), [], 'resposta que não é lista');

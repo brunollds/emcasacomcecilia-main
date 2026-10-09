@@ -107,3 +107,17 @@ export async function getFeaturedOffers(): Promise<Offer[]> {
     return [];
   }
 }
+
+// Oferta com foto: só essas entram no carrossel, que mostra a foto e o preço e mais nada.
+export type OfferWithImage = Offer & { image: string };
+
+export function getCarouselOffers(offers: readonly Offer[]): OfferWithImage[] {
+  return offers.filter((offer): offer is OfferWithImage => Boolean(offer.image));
+}
+
+// O desconto do selo, em pontos inteiros: só com o preço antigo maior que o atual e acima de 5%.
+export function getOfferDiscountPercent({ originalPrice, discountPrice }: Pick<Offer, 'originalPrice' | 'discountPrice'>): number {
+  if (discountPrice <= 0 || originalPrice <= discountPrice) return 0;
+  const percent = Math.round((1 - discountPrice / originalPrice) * 100);
+  return percent > 5 ? percent : 0;
+}
