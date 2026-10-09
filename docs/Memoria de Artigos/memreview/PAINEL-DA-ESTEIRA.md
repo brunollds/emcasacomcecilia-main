@@ -18,9 +18,7 @@
 
 ## 3. Em Revisão Factual & Claims (`status: em-revisao`)
 *Em auditoria pelo Job-3.*
-- [ ] [[black-friday-dolce-gusto]] — Dolce Gusto / Black Friday 2026, para a faixa da home D2 e a `/black-friday` (JSON em 08/10/2026, `dfa0e40`; revisão do Bruno no localhost; preços e status reconferidos antes de publicar, até 31/10)
-- [ ] [[black-friday-damie]] — DAMIE / Black Friday 2026, mesma faixa (JSON em 08/10/2026; revisão do Bruno no localhost; preços, brindes e status reconferidos antes de publicar, até 31/10)
-- [ ] [[black-friday-letseatit]] — Let's Eat It / Black Friday 2026, mesma faixa (JSON em 08/10/2026; revisão do Bruno no localhost; preços, banners e status reconferidos antes de publicar, até 31/10)
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -44,6 +42,9 @@
 
 ## 7. Publicados (`status: publicado`)
 *No ar.*
+- [x] [[black-friday-damie]] — DAMIE / Black Friday DAMIE 2026: poltrona reclinável e sofá com o cupom CECILIA12 (No ar em 09/10/2026, PR #42; preços de 8/10; a seção da campanha da DAMIE entra em ou depois de 15/10, e os preços são reconferidos na última semana de outubro) 🚀
+- [x] [[black-friday-dolce-gusto]] — Dolce Gusto / Black Friday Dolce Gusto 2026: quando começa, preços de máquinas e cápsulas e o cupom CECI (No ar em 09/10/2026, PR #42; preços de 8/10, reconferidos na última semana de outubro) 🚀
+- [x] [[black-friday-letseatit]] — Let's Eat It / Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal (No ar em 09/10/2026, PR #42; preços de 8/10, reconferidos na última semana de outubro) 🚀
 - [x] [[poltrona-de-amamentacao-como-escolher]] — DAMIE / Poltrona de amamentação: como escolher entre com puff, com balanço e reclinável (No ar em 07/10/2026, `4b391c4`; reescrito com fatos verificados, três faixas de preço com links da Amazon e do Mercado Livre, giro de 180°, herói real no CDN, IndexNow enviado) 🚀
 - [x] [[poltrona-de-amamentacao-vs-poltrona-reclinavel]] — DAMIE / Poltrona de amamentação ou reclinável: qual vale mais a pena? (No ar em 07/10/2026, `4b391c4`; as quatro bases da DAMIE com preços, uso depois da amamentação com os opcionais, conta do tempo de uso com preços reais, herói real no CDN, IndexNow enviado) 🚀
 - [x] [[insider-store-e-confiavel]] — Insider Store / É confiável? CNPJ, loja física, trocas, garantia e reputação (No ar em 05/10/2026, `2887c4c`; reescrito com fatos verificados na central de ajuda, termos e BrasilAPI, sem Lenzing, fotos oficiais no CDN, IndexNow enviado; revisto em 07/10/2026 para citar os 15% OFF do cupom, no ar em 08/10/2026, `19ea553`) 🚀

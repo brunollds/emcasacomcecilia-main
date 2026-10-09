@@ -6,9 +6,11 @@ parceiro: "[[Lets-Eat-It]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "em-revisao"
-responsavel: "Bruno"
-proxima_acao: "revisar no localhost; antes de publicar, reconferir preços, banners e o status da campanha no site"
+status: "publicado"
+responsavel: "Claude"
+proxima_acao: "na última semana de outubro, reconsultar os preços, os banners e o status da campanha e trocar as datas de 8/10; se a loja publicar banner de Black Friday, refazer a capa com outro nome"
+publicado_em: "2026-10-09"
+nota_publicacao: "Publicado no PR #42 depois da home D2 (decisão do Bruno em 09/10/2026), com os preços e o status datados de 8/10."
 bloqueado_por: null
 score_autoridade: 55
 score_conversao: 75
