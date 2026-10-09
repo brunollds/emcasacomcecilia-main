@@ -34,8 +34,8 @@ import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
 // das lojas traduzidas e dos artigos de cada família, as páginas da YesStyle, o dock, a sidebar e a
 // interface dos artigos no idioma de cada um, os textos que citam o CECILIA010, a home, os cards de
-// /reviews, as subpáginas de loja (com o lastmod do sitemap) e as páginas de data, ambas com a imagem
-// de compartilhamento e o JSON-LD. O <html lang> fica com test-c2-html-lang.
+// /reviews, as subpáginas de loja e as páginas de data, ambas com a imagem de compartilhamento, o
+// JSON-LD e o lastmod do sitemap. O <html lang> fica com test-c2-html-lang.
 const SITE_URL = 'https://emcasacomcecilia.com';
 const APP_DIR = path.resolve('.next/server/app');
 const CSS_DIR = path.resolve('.next/static/css');
@@ -1000,6 +1000,15 @@ function assertListPageSeo(pagePath: string, html: string, expected: { items: nu
   );
 }
 
+// O lastmod de uma página de lista no sitemap é a data do artigo mais novo dela: a da atualização, ou
+// a da publicação.
+function assertSitemapLastmod(pagePath: string, articles: readonly { updatedAt?: string; publishedAtISO?: string }[]) {
+  const newestDate = articles.map((article) => article.updatedAt ?? article.publishedAtISO).filter(Boolean).sort().at(-1);
+  assert.ok(newestDate, `${pagePath}: nenhum artigo com data`);
+  const sitemapEntry = sitemapBody.split('<url>').find((chunk) => chunk.includes(`<loc>${SITE_URL}${pagePath}</loc>`));
+  assert.equal(sitemapEntry?.match(/<lastmod>([^<]+)<\/lastmod>/)?.[1], newestDate, `${pagePath}: lastmod no sitemap.xml`);
+}
+
 // Subpágina de cada loja com mais de 3 artigos: o h1, o canonical, um card por artigo (com o anel de
 // foco), o link da página da loja, o h2 só para leitor de tela, a imagem de compartilhamento da loja,
 // o JSON-LD e a data no sitemap.
@@ -1023,15 +1032,12 @@ for (const slug of storeArticleSlugs) {
   const store = getCouponBySlug(slug);
   assert.ok(store, `${pagePath}: sem a loja ${slug} em couponsData`);
   assertListPageSeo(pagePath, html, { items: page.articles.length, image: getStoreSocialImage(store) });
-  // O lastmod da subpágina é a data do artigo mais novo: a da atualização, ou a da publicação.
-  const newestDate = page.articles.map((article) => article.updatedAt ?? article.publishedAtISO).filter(Boolean).sort().at(-1);
-  assert.ok(newestDate, `${pagePath}: nenhum artigo com data`);
-  const sitemapEntry = sitemapBody.split('<url>').find((chunk) => chunk.includes(`<loc>${SITE_URL}${pagePath}</loc>`));
-  assert.equal(sitemapEntry?.match(/<lastmod>([^<]+)<\/lastmod>/)?.[1], newestDate, `${pagePath}: lastmod no sitemap.xml`);
+  assertSitemapLastmod(pagePath, page.articles);
 }
 
 // Página de cada data com edição no home-events.json: o h1, o canonical, a imagem de compartilhamento,
-// o JSON-LD e um card por artigo, com o "Ver o código" levando à aba da loja na vitrine.
+// o JSON-LD, a data no sitemap e um card por artigo, com o "Ver o código" levando à aba da loja na
+// vitrine.
 const eventHubPaths = getEventHubPaths(homeEventsConfig, publishedReviews);
 for (const hubPath of eventHubPaths) {
   const file = builtFile(`${SITE_URL}${hubPath}`);
@@ -1046,6 +1052,8 @@ for (const hubPath of eventHubPaths) {
   // A capa é a que os dados escolhem (getEventHubPage, testada no test:home-events): a do artigo mais
   // novo, ou o logo do site.
   assertListPageSeo(hubPath, html, { items: page.cards.length, image: page.socialImage });
+  const cardSlugs = new Set(page.cards.map((card) => card.slug));
+  assertSitemapLastmod(hubPath, publishedReviews.filter((review) => cardSlugs.has(review.slug)));
   for (const card of page.cards) {
     assert.ok(body.includes(hrefOf(card.href)), `${hubPath}: sem o card de ${card.slug}`);
     if (card.codeLink) {
