@@ -14,7 +14,6 @@ type YouTubeThumbnailMap = {
 type YouTubePlaylistItem = {
   snippet?: {
     title?: string;
-    description?: string;
     publishedAt?: string;
     thumbnails?: YouTubeThumbnailMap;
     resourceId?: {
@@ -33,11 +32,6 @@ function getYoutubeConfig() {
   };
 }
 
-function truncate(text: string, maxLength: number) {
-  if (text.length <= maxLength) return text;
-  return `${text.slice(0, maxLength).trimEnd()}...`;
-}
-
 function pickThumbnail(thumbnails?: YouTubeThumbnailMap) {
   return (
     thumbnails?.maxres?.url ||
@@ -54,8 +48,10 @@ function getShortsThumbnail(videoId: string) {
 }
 
 async function fetchJson<T>(url: string): Promise<T> {
+  // Como o feed de ofertas: a API lenta não prende o build nem a renovação da home.
   const response = await fetch(url, {
     next: { revalidate: REVALIDATE_SECONDS },
+    signal: AbortSignal.timeout(3000),
   });
 
   if (!response.ok) {
@@ -102,7 +98,7 @@ async function getLatestUploads(apiKey: string, playlistId: string) {
 
 function mapPlaylistItems(items: YouTubePlaylistItem[]): SocialHighlight[] {
   return items
-    .map((item, index) => {
+    .map((item) => {
       const videoId = item.contentDetails?.videoId || item.snippet?.resourceId?.videoId;
       const title = item.snippet?.title?.trim();
 
@@ -110,21 +106,10 @@ function mapPlaylistItems(items: YouTubePlaylistItem[]): SocialHighlight[] {
         return null;
       }
 
-      const description =
-        truncate(
-          item.snippet?.description?.replace(/\s+/g, ' ').trim() || 'Assista ao vídeo no canal da Cecília.',
-          90
-        );
-
-      const accents = ['#ff6b35', '#ffd700', '#ffffff', '#ffcfb8', '#f8e7a4', '#dfe7ff'];
-
       return {
         id: videoId,
-        platform: 'YouTube',
         title,
-        description,
         url: `https://www.youtube.com/watch?v=${videoId}`,
-        accent: accents[index % accents.length],
         thumbnailUrl: getShortsThumbnail(videoId),
         fallbackThumbnailUrl: pickThumbnail(item.snippet?.thumbnails),
       } satisfies SocialHighlight;

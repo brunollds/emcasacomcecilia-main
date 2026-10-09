@@ -258,11 +258,8 @@ export interface Review {
 
 export interface SocialHighlight {
   id: string;
-  platform: 'YouTube' | 'Instagram';
   title: string;
-  description: string;
   url: string;
-  accent?: string;
   thumbnailUrl?: string;
   fallbackThumbnailUrl?: string;
 }

@@ -83,13 +83,15 @@ function normalizeDicasPost(value: unknown, index: number): Offer | null {
   };
 }
 
-// As ofertas do feed: até 10 válidas. Resposta que não é lista não traz nenhuma.
+// As ofertas do feed: até 10 válidas, cada slug uma vez só (é a key do card e o offer_id do clique).
+// Resposta que não é lista não traz nenhuma.
 export function parseDicasOffers(data: unknown): Offer[] {
   if (!Array.isArray(data)) return [];
-  return data
-    .map(normalizeDicasPost)
-    .filter((offer): offer is Offer => offer !== null)
-    .slice(0, OFFER_LIMIT);
+  const offers = new Map<string, Offer>();
+  for (const offer of data.map(normalizeDicasPost)) {
+    if (offer && !offers.has(offer.id)) offers.set(offer.id, offer);
+  }
+  return [...offers.values()].slice(0, OFFER_LIMIT);
 }
 
 // Sem o feed (fora do ar, lento, resposta errada ou vazio), a home não mostra a seção: não há

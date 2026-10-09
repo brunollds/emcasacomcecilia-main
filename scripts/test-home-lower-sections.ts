@@ -1,4 +1,6 @@
 import assert from 'node:assert/strict';
+import { readFileSync } from 'node:fs';
+import { resolve } from 'node:path';
 
 import { createElement, type ReactElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
@@ -73,6 +75,7 @@ assert.deepEqual(
   'o GA vem primeiro, na ordem dele, sem slug desconhecido nem repetido; as populares completam'
 );
 assert.deepEqual(slugsOf(selectPopularRecipes(pool, ['f', 'e', 'd', 'c', 'b'])), ['f', 'e', 'd', 'c'], 'no máximo 4');
+assert.deepEqual(slugsOf(selectPopularRecipes(pool, ['x', 'y'])), ['a', 'c', 'd', 'e'], 'GA só com slug desconhecido: as populares');
 
 const fallback = selectPopularRecipes(recipes, []);
 assert.equal(fallback.length, 4, 'os dados têm pelo menos 4 receitas populares');
@@ -158,6 +161,8 @@ assert.equal(count(offersHtml, /<img[^>]* alt=""/g), 1, 'a foto é decorativa e 
 assert.ok(offersHtml.includes('aria-label="Ver ofertas anteriores"') && offersHtml.includes('aria-label="Ver próximas ofertas"'));
 assert.ok(offersHtml.includes(`${linkTo(offersHtml, brandLinks.dicas)}Acessar Dicas &amp; Ofertas</a>`));
 assert.equal(render(createElement(Offers, { items: [] })), '', 'sem oferta, sem seção');
+const invertedText = textOf(render(createElement(Offers, { items: [offer('4', { originalPrice: 40, discountPrice: 50 })] })));
+assert.ok(invertedText.includes('R$ 50,00') && !invertedText.includes('R$ 40,00'), 'preço antigo menor que o novo: só o preço');
 
 // O feed do Dicas & Ofertas: até 10 ofertas válidas, sem as que não têm nome ou link.
 assert.deepEqual(parseDicasOffers({ erro: 'fora do ar' }), [], 'resposta que não é lista');
@@ -231,6 +236,14 @@ assert.deepEqual(
   [{ title: 'Panela', discountPrice: 199.9, originalPrice: 1394 }],
   'preço com ponto decimal e link fora de http(s)'
 );
+assert.deepEqual(
+  parseDicasOffers([
+    { slug: 'repetida', produto: 'Primeira', url: 'https://example.com/1' },
+    { slug: 'repetida', produto: 'Segunda', url: 'https://example.com/2' },
+  ]).map(({ title }) => title),
+  ['Primeira'],
+  'slug repetido no feed: fica a primeira oferta'
+);
 
 // Últimos vídeos.
 // Como o youtube.ts entrega: a hqdefault.jpg como miniatura e a maxresdefault.jpg como reserva.
@@ -239,9 +252,7 @@ const video = (
   thumbnails: Pick<SocialHighlight, 'thumbnailUrl' | 'fallbackThumbnailUrl'> = {}
 ): SocialHighlight => ({
   id,
-  platform: 'YouTube',
   title: `Vídeo ${id}`,
-  description: '',
   url: `https://www.youtube.com/watch?v=${id}`,
   thumbnailUrl: `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
   fallbackThumbnailUrl: `https://i.ytimg.com/vi/${id}/maxresdefault.jpg`,
@@ -276,5 +287,10 @@ assert.ok(
 assert.equal(count(withoutThumbnailHtml, /<img/g), 1, 'sem miniatura nenhuma, o card fica com o fundo marinho');
 assert.equal(count(withoutThumbnailHtml, /<li[\s>]/g), 2, 'e continua na fila');
 assert.equal(render(createElement(LatestVideos, { videos: [] })), '', 'sem vídeo, sem seção');
+
+// Ofertas e vídeos somem sem o feed ou sem a API, e o build não os cobra: a home tem de montá-los.
+const homeSource = readFileSync(resolve(process.cwd(), 'src', 'app', '(pt)', 'page.js'), 'utf8');
+assert.ok(homeSource.includes('<Offers items={featuredOffers} />'), 'a home não monta as Ofertas do dia');
+assert.ok(homeSource.includes('<CTA />'), 'a home não monta os Últimos vídeos');
 
 console.log('test:home-lower-sections ok');
