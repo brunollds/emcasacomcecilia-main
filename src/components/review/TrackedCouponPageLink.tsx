@@ -10,7 +10,9 @@ export type CouponPageLinkPlacement =
   | 'review_verdict'
   | 'review_final_cta'
   | 'review_sidebar'
-  | 'review_mobile_drawer';
+  | 'review_mobile_drawer'
+  | 'reviews_store_page'
+  | 'home_store_page';
 
 type TrackedCouponPageLinkProps = {
   href: string;

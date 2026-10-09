@@ -47,8 +47,10 @@ o senso comum de SEO e que um agente erraria por bom senso:
   `TrackedCouponPageLink`. **Nunca criar um segundo renderizador de link** — nasce sem medição.
 - `affiliate` no JSON usa o **slug do cupom** (ex.: `nestle-nutre`, `dolce-gusto`); o
   `validate:content` barra slug que não existe em `couponsData.ts`.
-- **Damie não se disputa aqui.** O subdomínio `damie.emcasacomcecilia.com` já vence a consulta
-  comercial; `/cupons/damie` fica fora de campanha de linkagem.
+- **Damie:** o subdomínio `damie.emcasacomcecilia.com` vence a consulta comercial e o menu
+  linka para ele. Desde 08/10/2026 (decisão do Bruno), artigos e a vitrine da home também
+  linkam `/cupons/damie`, que tem tráfego e é usada pelo Google nas respostas de IA, com as
+  mesmas regras das outras lojas.
 - Kopenhagen está pausada — não linkar.
 
 ### Outros documentos
@@ -79,10 +81,10 @@ Use Node `>=18` and npm `>=9` as declared in `package.json`.
 - `npm run lint`: run ESLint with the Next.js core-web-vitals preset.
 
 ## Coding Style & Naming Conventions
-Follow the existing style: 2-space indentation, semicolons, and single quotes in JavaScript and TypeScript files. Keep route files in lowercase names expected by Next.js, such as `page.js` and `layout.js`. Use PascalCase for React components and UI files, for example `Hero.tsx` and `Button.tsx`. Put shared data types and mock content in `src/lib`. Prefer the `@/` import alias defined by `jsconfig.json` for internal imports.
+Follow the existing style: 2-space indentation, semicolons, and single quotes in JavaScript and TypeScript files. Keep route files in lowercase names expected by Next.js, such as `page.js` and `layout.js`. Use PascalCase for React components and UI files, for example `HomeSection.tsx` and `ScrollRow.tsx`. Put shared data types and mock content in `src/lib`. Prefer the `@/` import alias defined by `jsconfig.json` for internal imports.
 
 ## Testing Guidelines
-The repository has versioned validators and focused regression scripts. Run the gates relevant to the change, with `npm run typecheck` before the slower build. The current suite includes `validate:content`, `test:review-i18n`, `validate:video`, `test:internal-links`, `test:coupon-offer-modes`, `test:analytics-gate`, `test:image-hosts`, `test:html-lang`, `test:review-discovery`, `test:home-curation`, `test:home-route-tracking`, `test:shell-navigation`, `test:site-search`, and `test:client-bundle` (after `next build`: fails if any browser chunk carries the content index). `npm run lint` and `npm run build` remain final integration gates, not substitutes for the focused checks.
+The repository has versioned validators and focused regression scripts. Run the gates relevant to the change, with `npm run typecheck` before the slower build. The current suite includes `validate:content`, `test:review-i18n`, `validate:video`, `test:internal-links`, `test:coupon-offer-modes`, `test:analytics-gate`, `test:image-hosts`, `test:html-lang`, `test:review-discovery`, `test:home-stores`, `test:home-events`, `test:home-lower-sections`, `test:home-route-tracking`, `test:shell-navigation`, `test:site-search`, `test:review-hubs`, `test:coupon-translations`, `validate:yesstyle` (fails while an active YesStyle offer is past its date, in UTC), `test:client-bundle` (after `next build`: fails if any browser chunk carries the content index), and `test:build-output` (after `next build`: checks the built HTML, including the home, `/reviews`, the store subpages and the commercial-date pages). `npm run lint` and `npm run build` remain final integration gates, not substitutes for the focused checks.
 
 ## Commit & Pull Request Guidelines
 Git history currently starts with a single initial commit, so adopt a simple conventional format going forward: `feat:`, `fix:`, `docs:`, `refactor:`. Keep commits focused and deployable. Pull requests should include a short description, impacted routes or components, manual verification steps, and screenshots for UI changes.

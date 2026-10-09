@@ -46,9 +46,9 @@ Cor de fundo do header/navbar/hero/footer:
 #0f1d3a  (azul-marinho escuro — NÃO está como token, usado inline)
 ```
 
-O arquivo `globals.css` também contém todas as animações usadas no site:
-`animate-float`, `animate-float-slow`, `animate-ken-burns`, `animate-pulse-subtle`,
-`animate-slide-up`, `animate-slide-down`, `animate-scale-in`, `animate-fade-in`.
+O arquivo `globals.css` também contém as animações do site:
+`animate-float`, `animate-float-slow`, `animate-slide-up`, `animate-slide-down`, `animate-fade-in`,
+e os keyframes `ken-burns` e `pulse-subtle`, que o painel da Cecília na home usa por `animate-[…]`.
 
 ---
 
@@ -116,12 +116,11 @@ Os SVGs dos ícones estão inline no próprio `Footer.js` (Youtube, Instagram, F
 
 | Arquivo | Descrição |
 |---------|-----------|
-| `Button.tsx` | Botão com `class-variance-authority`, variantes primary/secondary |
-| `Card.tsx` | Card base com `rounded-[2rem]`, `shadow-soft`, `border-gray-100` |
-| `Badge.tsx` | Badge compacto para tags e categorias |
+| `focusRing.ts` | Anel de foco comum (`FOCUS_RING` e `FOCUS_RING_ON_DARK`) |
+| `ScrollRow.tsx` | Fila de cards que rola na horizontal e traz o card focado pelo teclado |
 | `CategoryIcon.tsx` | Ícone de categoria (usa Phosphor icons) |
 
-Todos usam `clsx` + `tailwind-merge` para className merging.
+As classes se juntam com template string; o site não usa `clsx` nem `tailwind-merge`.
 
 ---
 

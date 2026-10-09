@@ -4,11 +4,9 @@ import type { ComponentProps, MouseEvent } from 'react';
 import Link from 'next/link';
 import { trackEvent } from '@/lib/analytics';
 
-export type HomeRoutePlacement =
-  | 'home_featured_guides'
-  | 'home_review_categories'
-  | 'home_reviews_carousel'
-  | 'home_editor_pick';
+// Onde fica o link: os artigos da loja e o painel da Cecília na vitrine, o "Acabou de sair", a faixa
+// da data comercial na home e a página de cada data.
+export type HomeRoutePlacement = 'home_store_articles' | 'home_cecilia' | 'home_latest' | 'home_event' | 'event_hub';
 
 type HomeRouteClickInput = {
   href: string;
@@ -28,15 +26,15 @@ export function getHomeRouteClickParameters({
   };
 }
 
-export function getHomeCategoryFilterParameters(
-  category: string,
-  linkLabel: string
+function handleHomeRouteClick(
+  event: MouseEvent<HTMLAnchorElement>,
+  onClick: ((event: MouseEvent<HTMLAnchorElement>) => void) | undefined,
+  input: HomeRouteClickInput
 ) {
-  return {
-    category,
-    placement: 'home_review_categories',
-    link_label: linkLabel,
-  };
+  onClick?.(event);
+  if (event.defaultPrevented) return;
+
+  trackEvent('home_route_click', getHomeRouteClickParameters(input));
 }
 
 type TrackedHomeLinkProps = Omit<ComponentProps<typeof Link>, 'href' | 'onClick'> &
@@ -51,15 +49,37 @@ export function TrackedHomeLink({
   onClick,
   ...props
 }: TrackedHomeLinkProps) {
-  const handleClick = (event: MouseEvent<HTMLAnchorElement>) => {
-    onClick?.(event);
-    if (event.defaultPrevented) return;
+  return (
+    <Link
+      {...props}
+      href={href}
+      onClick={(event) => handleHomeRouteClick(event, onClick, { href, placement, linkLabel })}
+    />
+  );
+}
 
-    trackEvent(
-      'home_route_click',
-      getHomeRouteClickParameters({ href, placement, linkLabel })
-    );
+// Link para uma aba da vitrine (/#loja-{slug}). É um <a> comum: o next/link navega por pushState,
+// que não dispara hashchange, e a página rolaria sem trocar a aba.
+type TrackedHomeTabLinkProps = Omit<ComponentProps<'a'>, 'href' | 'onClick'> &
+  HomeRouteClickInput & {
+    onClick?: ComponentProps<'a'>['onClick'];
   };
 
-  return <Link {...props} href={href} onClick={handleClick} />;
+export function TrackedHomeTabLink({
+  href,
+  placement,
+  linkLabel,
+  onClick,
+  children,
+  ...props
+}: TrackedHomeTabLinkProps) {
+  return (
+    <a
+      {...props}
+      href={href}
+      onClick={(event) => handleHomeRouteClick(event, onClick, { href, placement, linkLabel })}
+    >
+      {children}
+    </a>
+  );
 }

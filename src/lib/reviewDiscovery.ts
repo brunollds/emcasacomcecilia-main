@@ -55,9 +55,6 @@ export interface HomeReviewCard {
   readingMinutes: number;
 }
 
-const HOME_FEATURED_LIMIT = 4;
-const HOME_FEATURED_MAX_PER_CATEGORY = 2;
-
 const REVIEW_CATEGORY_VALUES = new Set<string>(
   REVIEW_CATEGORIES.map(({ value }) => value)
 );
@@ -129,84 +126,6 @@ export function sortReviewsByPublishedAt<T extends ReviewDiscoveryItem & {
   publishedAtISO: string;
 }>(reviews: readonly T[]): T[] {
   return [...reviews].sort(compareReviewsByDateAndId);
-}
-
-export function getReviewCategoryCounts<T extends ReviewDiscoveryItem>(
-  reviews: readonly T[]
-): Record<ReviewCategory, number> {
-  const counts = Object.fromEntries(
-    REVIEW_CATEGORIES.map(({ value }) => [value, 0])
-  ) as Record<ReviewCategory, number>;
-
-  for (const review of getListedPortugueseReviews(reviews)) {
-    counts[review.category] += 1;
-  }
-
-  return counts;
-}
-
-export interface SelectHomeReviewDiscoveryOptions {
-  recentLimit?: number;
-  excludedIds?: readonly number[];
-}
-
-export function selectHomeReviewDiscovery<T extends ReviewDiscoveryItem>(
-  reviews: readonly T[],
-  recentLimitOrOptions: number | SelectHomeReviewDiscoveryOptions = 8
-): {
-  featured: Array<T & { category: ReviewCategory; publishedAtISO: string }>;
-  recent: Array<T & { category: ReviewCategory; publishedAtISO: string }>;
-  counts: Record<ReviewCategory, number>;
-} {
-  const listed = sortReviewsByPublishedAt(getListedPortugueseReviews(reviews));
-  const options =
-    typeof recentLimitOrOptions === 'number'
-      ? { recentLimit: recentLimitOrOptions }
-      : recentLimitOrOptions;
-  const recentLimit = options.recentLimit ?? 8;
-  const excludedIds = new Set(options.excludedIds ?? []);
-  const categoryCounts: Record<ReviewCategory, number> = Object.fromEntries(
-    REVIEW_CATEGORIES.map(({ value }) => [value, 0])
-  ) as Record<ReviewCategory, number>;
-  const featured: Array<
-    T & { category: ReviewCategory; publishedAtISO: string }
-  > = [];
-
-  for (const review of listed) {
-    if (featured.length >= HOME_FEATURED_LIMIT) {
-      break;
-    }
-
-    if (excludedIds.has(review.id)) {
-      continue;
-    }
-
-    if (categoryCounts[review.category] >= HOME_FEATURED_MAX_PER_CATEGORY) {
-      continue;
-    }
-
-    featured.push(review);
-    categoryCounts[review.category] += 1;
-  }
-
-  if (featured.length < HOME_FEATURED_LIMIT) {
-    throw new Error(
-      '[reviewDiscovery] home_featured_selection_failed: unable to fill 4 highlights'
-    );
-  }
-
-  const featuredIds = new Set(featured.map(({ id }) => id));
-  for (const excludedId of excludedIds) {
-    featuredIds.add(excludedId);
-  }
-
-  return {
-    featured,
-    recent: listed
-      .filter(({ id }) => !featuredIds.has(id))
-      .slice(0, Math.max(0, recentLimit)),
-    counts: getReviewCategoryCounts(listed),
-  };
 }
 
 export function estimateReviewReadingMinutes(

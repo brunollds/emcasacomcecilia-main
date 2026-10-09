@@ -17,7 +17,9 @@ export type CopyPlacement =
   | 'bottom_bar'
   | 'review_sidebar'
   | 'review_mobile_dock'
-  | 'review_mobile_drawer';
+  | 'review_mobile_drawer'
+  // Recorte do código na vitrine da home.
+  | 'home_store_banner';
 
 // Nos artigos a marca é o afiliado, que pode faltar, e o slug do artigo vai junto.
 type CopyTracking = { placement: CopyPlacement; brand?: string; contentSlug?: string };

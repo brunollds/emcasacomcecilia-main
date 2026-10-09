@@ -7,14 +7,13 @@ import { CouponStoreLink } from '@/components/CouponComponents';
 import { CopyCodeButton, dockCodeSize } from '@/components/coupons/CouponActions';
 import { BrandWatermark, DiscountFigure, couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { acquireScrollLock, releaseScrollLock } from '@/components/editorial';
+import { FOCUS_RING } from '@/components/ui/focusRing';
 import type { CouponCodeKind } from '@/lib/couponsData';
 import { isInternalLink } from '@/lib/internalLinks';
 import type { Locale } from '@/lib/i18n/locales';
 import { getCouponCopyLabels } from './couponCopyLocale';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from './sidebarCopy';
 import { useReadingPosition, type TocItem } from './useReadingPosition';
-
-const FOCUS_RING = 'focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-marinho';
 
 export interface ReviewMobileBottomBarProps {
   locale: Locale;

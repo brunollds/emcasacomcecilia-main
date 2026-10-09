@@ -1,185 +1,87 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { ArrowUpRight, Bell, BookOpen, Handshake, Tag } from 'lucide-react';
+import { HomeSection } from '@/components/sections/HomeSection';
+import { FOCUS_RING } from '@/components/ui/focusRing';
 import { brandLinks } from '@/lib/brandLinks';
+import { getCouponBySlug } from '@/lib/couponsData';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
-const links = [
-  {
-    id: 'damie',
-    title: 'DAMIE',
-    description: 'Parceria especial com o cupom CECILIA12 em uma experiência mais premium da marca.',
-    url: brandLinks.damie,
-    label: 'Cupom CECILIA12',
-    eyebrow: 'Parceria da casa',
-    accent: '#ff6b35',
-    cta: 'Pegar cupom',
-    image: '/images/universe/damie-hero-cecilia.webp',
-    Icon: Handshake,
-  },
-  {
-    id: 'dicas',
-    title: 'Dicas & Ofertas',
-    description: 'Cupons, promoções e oportunidades que valem a pena acompanhar no dia a dia.',
-    url: brandLinks.dicas,
-    label: 'Ofertas',
-    eyebrow: 'Economize melhor',
-    accent: '#1a4d2e',
-    cta: 'Ver ofertas',
-    image: '/images/universe/dicas-hero-promos.webp',
-    Icon: Tag,
-  },
-  {
-    id: 'air-fryer',
-    title: 'E-book Air Fryer',
-    description: 'Espaço reservado para o lançamento do guia com receitas práticas para a air fryer.',
-    url: brandLinks.airFryerEbook,
-    label: 'E-book',
-    eyebrow: 'Em preparação',
-    accent: '#0f1419',
-    cta: 'Avise-me',
-    comingSoon: true,
-    Icon: BookOpen,
-  },
-];
+// "Explore a casa": a DAMIE, o Dicas & Ofertas e o E-book Air Fryer, que segue em preparação (o
+// card abre o e-mail do "Avise-me").
+
+const CARD = `group flex flex-1 flex-col overflow-hidden rounded-xl border-2 border-marinho motion-safe:transition-transform motion-safe:duration-300 motion-safe:hover:-translate-y-1 md:rounded-[14px] ${FOCUS_RING}`;
 
 export function MyLinks() {
-  const [heroLink, ...secondaryLinks] = links;
+  // O código sai da loja em couponsData.ts; sem cupom ativo, a legenda fica só com a loja.
+  const damie = getCouponBySlug('damie');
+  const damieCode = damie?.offerMode === 'discount-code' ? damie.code : undefined;
 
   return (
-    <section className="bg-[#fef9f3] px-6 pb-8 pt-0 md:py-12">
-      <div className="mx-auto max-w-7xl border-t border-[#1a4d2e]/10 pt-7 md:border-t-0 md:pt-0">
-        <div className="mb-6 text-left">
-          <div>
-            <h2 className="font-heading text-2xl sm:text-3xl font-bold text-[#0f1419]">
-              Explore o universo da Cecília
-            </h2>
-          </div>
-        </div>
-
-        <div className="-mx-6 flex snap-x snap-mandatory gap-4 overflow-x-auto px-6 pb-2 [scrollbar-width:none] md:mx-0 md:grid md:grid-cols-[1.08fr_0.96fr_0.96fr] md:overflow-visible md:px-0 md:pb-0 [&::-webkit-scrollbar]:hidden">
+    <HomeSection id="titulo-explore-a-casa" title="Explore a casa">
+      <ul className="grid gap-3 md:grid-cols-3 md:gap-5">
+        <li className="flex">
           <Link
-            href={heroLink.url}
+            href={brandLinks.damie}
             target="_blank"
             rel="noopener noreferrer"
-            className="group relative flex min-h-[210px] w-[74vw] min-w-[250px] max-w-[330px] flex-shrink-0 snap-start overflow-hidden rounded-[1.75rem] bg-[#4a1b0c] p-6 text-white shadow-soft transition-all duration-500 hover:-translate-y-1.5 hover:shadow-large md:min-h-[230px] md:w-auto md:min-w-0 md:max-w-none md:p-5 lg:p-7"
+            className={`${CARD} bg-white text-marinho`}
           >
-            {heroLink.image ? (
+            <span className="relative block h-[150px] overflow-hidden bg-creme md:h-auto md:min-h-[160px] md:flex-1">
               <Image
-                src={resolveMediaUrl(heroLink.image)}
+                src={resolveMediaUrl('/images/universe/damie-hero-cecilia.webp')}
                 alt="Cecília debruçada sobre a caixa de entrega da DAMIE"
                 fill
-                className="object-cover transition-transform duration-700 ease-out group-hover:scale-105"
-                sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 34vw"
+                sizes="(min-width: 1200px) 360px, (min-width: 768px) 33vw, 100vw"
+                className="object-cover motion-safe:transition-transform motion-safe:duration-700 motion-safe:group-hover:scale-105"
               />
-            ) : (
-              <div className="absolute inset-0 bg-[linear-gradient(135deg,#4a1b0c_0%,#a6371d_48%,#ff8a4c_100%)]" />
-            )}
-            <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(15,20,25,0.32)_0%,rgba(15,20,25,0.58)_58%,rgba(15,20,25,0.82)_100%)]" />
-            <div className="absolute inset-0 bg-[radial-gradient(circle_at_16%_20%,rgba(255,255,255,0.18),transparent_30%),radial-gradient(circle_at_88%_10%,rgba(255,215,0,0.12),transparent_24%)]" />
-            <div className="absolute -right-16 -top-20 h-48 w-48 rounded-full bg-white/12 blur-3xl transition-transform duration-500 group-hover:scale-125" />
-            <div className="relative flex w-full flex-col justify-between">
-              <div className="flex items-start justify-between gap-5">
-                <div>
-                  <span className="inline-flex rounded-full bg-white/18 px-3 py-1 text-[11px] font-bold uppercase tracking-[0.16em] text-white">
-                    {heroLink.label}
-                  </span>
-                  <p className="mt-3 text-[11px] font-bold uppercase tracking-[0.18em] text-white/72">
-                    {heroLink.eyebrow}
-                  </p>
-                </div>
-                <div className="flex h-12 w-12 items-center justify-center rounded-full bg-white text-[#ff6b35] shadow-sm transition-transform duration-500 group-hover:rotate-6 group-hover:scale-105">
-                  <heroLink.Icon className="h-5 w-5" />
-                </div>
-              </div>
-
-              <div className="max-w-md">
-                <h3 className="font-heading text-3xl font-bold leading-none lg:text-4xl">
-                  {heroLink.title}
-                </h3>
-                <p className="mt-3 max-w-md text-sm leading-6 text-white/84 md:line-clamp-3 lg:line-clamp-none">
-                  {heroLink.description}
-                </p>
-              </div>
-
-              <div className="flex flex-wrap items-center gap-3 border-t border-white/18 pt-4">
-                <span className="rounded-full bg-[#ff6b35] px-4 py-2.5 text-sm font-bold text-white shadow-lg transition-all group-hover:bg-white group-hover:text-[#ff6b35]">
-                  {heroLink.cta}
-                </span>
-                <ArrowUpRight className="h-5 w-5 transition-transform duration-300 group-hover:translate-x-1 group-hover:-translate-y-1" />
-              </div>
-            </div>
+            </span>
+            <span className="border-t-2 border-marinho bg-creme p-3.5 text-[13px] leading-[19px] font-bold md:px-4 md:text-sm md:leading-5">
+              DAMIE: móveis, poltronas e sofás
+              {damieCode ? (
+                <>
+                  {' '}
+                  com cupom <strong className="font-extrabold">{damieCode}</strong>
+                </>
+              ) : null}
+            </span>
           </Link>
-
-          {secondaryLinks.map((link) => {
-            const Icon = link.comingSoon ? Bell : ArrowUpRight;
-
-            return (
-              <Link
-                key={link.id}
-                href={link.url}
-                target={link.url.startsWith('http') ? '_blank' : undefined}
-                rel={link.url.startsWith('http') ? 'noopener noreferrer' : undefined}
-                className={`group relative min-h-[210px] w-[70vw] min-w-[230px] max-w-[310px] flex-shrink-0 snap-start overflow-hidden rounded-[1.5rem] border border-black/5 bg-white p-5 shadow-soft transition-all duration-500 hover:-translate-y-1 hover:shadow-medium md:min-h-[230px] md:w-auto md:min-w-0 md:max-w-none ${
-                  link.comingSoon ? 'opacity-78 hover:opacity-100' : ''
-                }`}
-                style={link.image ? { backgroundColor: `${link.accent}14` } : undefined}
-              >
-                {link.image && (
-                  <>
-                    <Image
-                      src={resolveMediaUrl(link.image)}
-                      alt={link.title}
-                      fill
-                      className="object-cover opacity-70 transition-transform duration-700 ease-out group-hover:scale-105"
-                      sizes="(max-width: 768px) 70vw, (max-width: 1024px) 33vw, 25vw"
-                    />
-                    <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(254,249,243,0.30)_0%,rgba(254,249,243,0.74)_52%,rgba(254,249,243,0.94)_100%)]" />
-                    <div
-                      className="absolute inset-0 opacity-35"
-                      style={{
-                        background: `radial-gradient(circle at 82% 18%, ${link.accent}55, transparent 34%), radial-gradient(circle at 14% 84%, #ff6b3540, transparent 34%)`,
-                      }}
-                    />
-                  </>
-                )}
-                <div className="absolute right-0 top-0 h-24 w-24 rounded-bl-full bg-[#fef9f3]/80" />
-                <div className="relative flex h-full flex-col justify-between gap-5">
-                  <div className="flex items-start justify-between gap-4">
-                    <div>
-                      <span className="inline-flex rounded-full bg-[#f6f1e8] px-3 py-1 text-[10px] font-bold uppercase tracking-[0.16em] text-[#0f1419]">
-                        {link.label}
-                      </span>
-                      <p className="mt-3 text-[11px] font-bold uppercase tracking-[0.18em] text-gray-500">
-                        {link.eyebrow}
-                      </p>
-                    </div>
-                    <div className="flex h-11 w-11 items-center justify-center rounded-full bg-[#fef9f3]" style={{ color: link.accent }}>
-                      <link.Icon className="h-5 w-5" />
-                    </div>
-                  </div>
-
-                  <div>
-                      <h3 className="font-heading text-xl font-bold leading-tight text-[#0f1419] lg:text-2xl">
-                      {link.title}
-                    </h3>
-                      <p className="mt-2 text-sm leading-6 text-gray-600 md:line-clamp-3 lg:line-clamp-none">
-                      {link.description}
-                    </p>
-                  </div>
-
-                  <div className="flex items-center justify-between border-t border-black/8 pt-4">
-                    <span className="text-sm font-bold" style={{ color: link.accent }}>
-                      {link.cta}
-                    </span>
-                    <Icon className="h-4 w-4 text-[#0f1419] transition-transform duration-300 group-hover:translate-x-1" />
-                  </div>
-                </div>
-              </Link>
-            );
-          })}
-        </div>
-      </div>
-    </section>
+        </li>
+        <li className="flex">
+          <Link
+            href={brandLinks.dicas}
+            target="_blank"
+            rel="noopener noreferrer"
+            className={`${CARD} min-h-[120px] justify-center gap-1.5 bg-amarelo-cupom p-4 text-marinho md:min-h-[200px] md:gap-3 md:p-6`}
+          >
+            <h3 className="font-condensada text-2xl leading-none font-black font-stretch-extra-condensed md:text-[32px]">
+              Dicas & Ofertas
+            </h3>
+            <p className="text-[13px] leading-[19px] font-semibold md:text-[15px] md:leading-[22px] md:font-medium">
+              Cupons, promoções e oportunidades que valem acompanhar.
+            </p>
+            <span className="mt-1 hidden min-h-11 items-center self-start rounded-[10px] border-2 border-marinho bg-white px-5 text-sm font-extrabold md:inline-flex">
+              Ver ofertas
+            </span>
+          </Link>
+        </li>
+        <li className="flex">
+          <a
+            href={brandLinks.airFryerEbook}
+            className={`${CARD} min-h-[120px] justify-center gap-2.5 bg-marinho p-4 text-white md:min-h-[200px] md:gap-3 md:p-6`}
+          >
+            <span className="text-xs font-bold text-amarelo-cupom">Em preparação</span>
+            <h3 className="font-condensada text-2xl leading-none font-black text-amarelo-cupom font-stretch-extra-condensed md:text-[32px]">
+              E-book Air Fryer
+            </h3>
+            <p className="text-[13px] leading-[19px] font-semibold md:text-[15px] md:leading-[22px] md:font-medium">
+              Guia com receitas práticas para a air fryer.
+            </p>
+            <span className="flex min-h-11 items-center justify-center rounded-lg border-2 border-amarelo-cupom bg-amarelo-cupom px-5 text-[13px] font-extrabold text-marinho md:self-start md:rounded-[10px] md:text-sm">
+              Avise-me
+            </span>
+          </a>
+        </li>
+      </ul>
+    </HomeSection>
   );
 }
