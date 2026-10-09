@@ -52418,5 +52418,816 @@ export const reviewsData: unknown[] = [
         "title": "Poltronas Reclináveis Damie - Vale o Investimento?"
       }
     ]
+  },
+  {
+    "id": 330,
+    "slug": "black-friday-dolce-gusto",
+    "title": "Black Friday Dolce Gusto 2026: quando começa, preços de máquinas e cápsulas e o cupom CECI",
+    "seoTitle": "Black Friday Dolce Gusto 2026: máquinas, cápsulas e preços",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quando começa a Black Friday da NESCAFÉ Dolce Gusto, o que a Nestlé ofereceu em 2023 e 2024, os preços de outubro de 2026 para comparar, Original ou NEO e como usar o cupom CECI.",
+    "metaDescription": "Black Friday Dolce Gusto 2026: o que a loja oficial ofereceu nos últimos anos, preços de máquinas e cápsulas em outubro para comparar e o cupom CECI.",
+    "publishedAt": "9 de outubro de 2026",
+    "publishedAtISO": "2026-10-09",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dolcegusto/black-friday-dolce-gusto-cecilia-cafezal.webp",
+    "imageAlt": "Cecília Mauad, com chapéu da NESCAFÉ Dolce Gusto, entre pés de café em flor",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Em 2023 e 2024, a campanha da loja oficial durou novembro inteiro, com ofertas diárias",
+      "Em outubro de 2026, as Genio S já custavam menos que na Black Friday de 2024",
+      "O cupom CECI dá 5% OFF a partir de R$ 100, até 3 vezes por CPF",
+      "Máquinas de Outlet têm a mesma garantia das novas"
+    ],
+    "cons": [
+      "Se o CECI soma com a promoção do dia depende da campanha",
+      "As promoções acabam sem aviso, mesmo com o item no carrinho",
+      "Nenhuma promoção soma com o resgate de pontos do Club",
+      "Cápsulas NEO e Original não servem uma na máquina da outra"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Black Friday Dolce Gusto 2026",
+        "bullets": [
+          "A Black Friday de 2026 é em **27 de novembro**, e a Cyber Monday, em **30 de novembro**.",
+          "Até 8 de outubro de 2026, a NESCAFÉ Dolce Gusto ainda não tinha anunciado a campanha deste ano. Este guia é atualizado quando a loja anunciar.",
+          "Em 2023 e 2024, a loja oficial fez Black Friday durante **novembro inteiro**, com uma oferta diferente por dia, segundo a Nestlé.",
+          "Em outubro de 2026, as máquinas Genio S já custavam um pouco menos que os preços anunciados na Black Friday de 2024. Nas cápsulas, os menores preços de 2024 ficaram abaixo dos de outubro.",
+          "O cupom **CECI** dá 5% OFF em compras a partir de R$ 100 na loja oficial, até 3 vezes por CPF. Se ele soma com a promoção do dia depende da campanha: o carrinho mostra antes de pagar."
+        ]
+      },
+      {
+        "heading": "Quando começa a Black Friday da Dolce Gusto",
+        "paragraphs": [
+          "A NESCAFÉ Dolce Gusto costuma anunciar a Black Friday perto da virada para novembro, pela Nestlé Brasil. Em 2023, a campanha valeu o mês inteiro no site oficial, com uma oferta diferente a cada dia. Em 2024, as promoções foram de 1º a 30 de novembro, com \"descontos que vão até 50%\", segundo a Nestlé.",
+          "Para 2026, não havia anúncio até 8 de outubro. Se o padrão se repetir, as ofertas começam em 1º de novembro, mas isso é o que aconteceu nos últimos anos, não uma promessa da loja. Quando a Nestlé anunciar, a data entra aqui.",
+          "Da Black Friday de 2025 não encontramos anúncio oficial da Nestlé, só notícias de sites de compras. Por isso, este guia usa 2023 e 2024 como referência."
+        ],
+        "comparisonTable": {
+          "caption": "Ofertas anunciadas pela Nestlé Brasil nos releases da Black Friday de 2023 e de 2024. Os preços são \"a partir de\" e valiam só no site oficial.",
+          "headers": [
+            "",
+            "Black Friday 2023",
+            "Black Friday 2024"
+          ],
+          "rows": [
+            [
+              "Período",
+              "Novembro inteiro, uma oferta por dia",
+              "1º a 30 de novembro, ofertas diárias"
+            ],
+            [
+              "Caixas de cápsulas",
+              "A partir de R$ 12,90",
+              "Bebidas a partir de R$ 13,90"
+            ],
+            [
+              "DGusta, por cápsula",
+              "A partir de R$ 1,29",
+              "A partir de R$ 1,39"
+            ],
+            [
+              "Máquinas Original",
+              "30 cápsulas grátis na Mini Me, Genio S Basic, Genio S Plus e Infiníssima Touch",
+              "Mini Me a partir de R$ 399,90; Genio S Basic, R$ 499,90; Genio S Plus, R$ 599,90; Genio Touch, R$ 699,90"
+            ],
+            [
+              "Linha NEO",
+              "30 cápsulas grátis na máquina NEO até 17/11 e até 20% OFF em cafés",
+              "Cafés a partir de R$ 19,90; máquinas entre R$ 399 e R$ 449"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Preços de outubro de 2026 para comparar",
+        "paragraphs": [
+          "O jeito mais seguro de saber se a oferta de novembro é boa é ter o preço de antes. Estes são os preços que o site oficial mostrava em 8 de outubro de 2026, ao lado dos anunciados pela Nestlé na Black Friday de 2024:"
+        ],
+        "comparisonTable": {
+          "caption": "Preços do site oficial em 8 de outubro de 2026 e ofertas anunciadas pela Nestlé para a Black Friday de 2024. Os preços mudam quase todo dia.",
+          "headers": [
+            "Produto",
+            "Preço cheio no site",
+            "Em 8/10/2026",
+            "Black Friday 2024"
+          ],
+          "rows": [
+            [
+              "Mini Me 2.0",
+              "R$ 599,90",
+              "R$ 429,90 a R$ 449,90, conforme a cor",
+              "Mini Me a partir de R$ 399,90"
+            ],
+            [
+              "Genio S Basic",
+              "R$ 679,90",
+              "R$ 479,90",
+              "A partir de R$ 499,90"
+            ],
+            [
+              "Genio S Plus",
+              "R$ 779,90",
+              "R$ 589,90",
+              "A partir de R$ 599,90"
+            ],
+            [
+              "Genio S Touch",
+              "R$ 979,90",
+              "R$ 689,90",
+              "Genio Touch a partir de R$ 699,90"
+            ],
+            [
+              "Caixa regular de cápsulas",
+              "—",
+              "A partir de R$ 17,90 (promoção de 5 a 7/10)",
+              "Bebidas a partir de R$ 13,90"
+            ],
+            [
+              "DGusta, por cápsula",
+              "—",
+              "A partir de R$ 1,79 (promoção de 5 a 7/10)",
+              "A partir de R$ 1,39"
+            ],
+            [
+              "Cafés NEO",
+              "—",
+              "A partir de R$ 21,90 (promoção desde 6/10)",
+              "A partir de R$ 19,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A tabela mostra duas coisas. Nas máquinas Genio S, o preço de outubro de 2026 já estava um pouco abaixo do anunciado na Black Friday de 2024: R$ 479,90 contra R$ 499,90 na Basic, por exemplo. Nas cápsulas foi o contrário: a caixa saiu a partir de R$ 13,90 em 2024, e em outubro as promoções partiam de R$ 17,90.",
+          "Se você está de olho numa máquina, compare o preço de novembro com esta tabela antes de concluir que a Black Friday compensa. Se o plano é encher a despensa de cápsulas, os preços de 2024 dão uma boa régua para avaliar a campanha deste ano."
+        ]
+      },
+      {
+        "heading": "Máquina na Black Friday: Original, NEO e Outlet",
+        "paragraphs": [
+          "Antes do preço, escolha o sistema. As máquinas Original, como a Mini Me e a linha Genio S, usam as cápsulas Original: cafés, lattes, chocolates e chás. As máquinas NEO usam as cápsulas NEO, só de cafés. As duas linhas não são compatíveis entre si.",
+          "Para quem já tem uma máquina Original e quer provar os cafés NEO, existe o Adaptador NEO Start, que funciona com cinco cafés da linha. O site oficial tem promoções que dão o adaptador em combos de cafés NEO, limitadas a um adaptador por CPF.",
+          "O site também vende **Máquinas de Outlet**: aparelhos devolvidos que passam por inspeção técnica e higienização e têm a mesma garantia das novas. Em 8 de outubro, a Genio S Basic de Outlet saía por R$ 399,90.",
+          "Outra forma de levar uma máquina é o combo que dá uma Mini Me na compra de muitas caixas de cápsulas Original. A quantidade muda a cada poucos dias: entre 28 de setembro e 8 de outubro de 2026, variou entre 45 e 65 caixas. As regras estão no guia da promoção."
+        ],
+        "links": [
+          {
+            "label": "Promoção Dolce Gusto: caixas de cápsulas + Mini Me grátis",
+            "href": "/reviews/promocao-dolce-gusto-caixas-mini-me-gratis"
+          },
+          {
+            "label": "Genio S Basic, Plus ou Touch: qual vale mais a pena?",
+            "href": "/reviews/dolce-gusto-genio-s-basic-vs-plus-vs-touch"
+          },
+          {
+            "label": "Cápsulas compatíveis: o que serve na sua máquina",
+            "href": "/reviews/dolce-gusto-capsulas-compativeis-guia"
+          }
+        ]
+      },
+      {
+        "heading": "O cupom CECI na Black Friday",
+        "paragraphs": [
+          "O **CECI** é o cupom da parceria do Em Casa com Cecília com a loja oficial. Ele dá 5% OFF em compras a partir de R$ 100 e pode ser usado até 3 vezes por CPF.",
+          "Na Black Friday, quem decide é o carrinho. Algumas campanhas aceitam o cupom junto com o preço promocional, outras não. Monte o pedido, aplique o CECI no campo do cupom e veja se os 5% aparecem no resumo antes de pagar. Se não aparecerem, confira se o pedido passa de R$ 100 e se o item está numa campanha que não soma com cupom.",
+          "Três regras do site valem para qualquer promoção: ela pode acabar sem aviso, o item no carrinho não garante o desconto se a promoção terminar, e nenhuma promoção soma com o resgate de pontos do Club. A data do último teste do CECI fica na página do cupom."
+        ],
+        "links": [
+          {
+            "label": "Ver o cupom CECI e a data do último teste",
+            "href": "/cupons/dolce-gusto"
+          },
+          {
+            "label": "Passo a passo do CECI no checkout",
+            "href": "/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar"
+          }
+        ]
+      },
+      {
+        "heading": "Como não cair em desconto falso",
+        "bullets": [
+          "**Compare com a tabela de outubro.** O preço riscado no site é o cheio, que quase ninguém paga: em 8 de outubro, a Genio S Basic já estava R$ 200 abaixo dele.",
+          "**Some o frete.** Em outubro, as promoções davam frete grátis em bebidas acima de R$ 50 ou de R$ 100, conforme a semana, e algumas deixavam os pedidos com máquina de fora.",
+          "**Confira o sistema.** Cápsula NEO não serve em máquina Original sem o adaptador, e cápsula Original não serve em máquina NEO.",
+          "**Escolha a voltagem com calma.** No combo da Mini Me, ela é escolhida no carrinho e não pode ser trocada depois.",
+          "**Compre no site oficial.** As promoções anunciadas pela Nestlé valem em nescafe-dolcegusto.com.br.",
+          "**Conte o prazo de entrega.** Pelas regras do site, o prazo informado começa a contar quando o pedido chega à transportadora, não no dia da compra."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quando começa a Black Friday da Dolce Gusto? Em 2023 e 2024, as ofertas da loja oficial começaram em 1º de novembro e foram até o fim do mês. Para 2026, a Nestlé ainda não tinha anunciado a campanha até 8 de outubro.",
+          "Quando é a Black Friday de 2026? Na sexta-feira, 27 de novembro. A Cyber Monday é na segunda seguinte, 30 de novembro.",
+          "Vale a pena comprar cafeteira Dolce Gusto na Black Friday? Compare antes: em outubro de 2026, a Genio S Basic já saía por R$ 479,90 no site oficial, menos que os R$ 499,90 anunciados na Black Friday de 2024.",
+          "Tem cupom Dolce Gusto para a Black Friday? O CECI dá 5% OFF em compras a partir de R$ 100 na loja oficial, até 3 vezes por CPF. Se ele soma com a oferta do dia, o carrinho mostra antes de pagar.",
+          "As cápsulas Dolce Gusto ficam mais baratas na Black Friday? Em 2024, a Nestlé anunciou caixas a partir de R$ 13,90 e DGusta a partir de R$ 1,39 a cápsula; em outubro de 2026, as promoções partiam de R$ 17,90 e R$ 1,79.",
+          "Cápsula NEO serve na Mini Me ou na Genio S? Não. NEO e Original são sistemas diferentes; com o Adaptador NEO Start, a máquina Original aceita cinco cafés NEO.",
+          "A Black Friday da Dolce Gusto tem frete grátis? Depende da promoção. Em outubro, o frete era grátis em bebidas acima de R$ 50 ou R$ 100, e algumas ofertas não incluíam pedidos com máquina."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Quando a Black Friday começar, confira as ofertas no site oficial e aplique o cupom CECI no carrinho para ver se os 5% somam com a promoção do dia.",
+      "label": "Ir para a loja oficial Dolce Gusto",
+      "url": "https://www.nescafe-dolcegusto.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "dolce-gusto",
+    "editorialNote": "Preços conferidos no site oficial. Podemos receber comissão pelo cupom CECI.",
+    "relatedArticles": [
+      {
+        "slug": "promocao-dolce-gusto-caixas-mini-me-gratis",
+        "title": "Promoção Dolce Gusto: caixas de cápsulas + Mini Me grátis"
+      },
+      {
+        "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch",
+        "title": "Genio S Basic, Plus ou Touch: qual vale mais a pena?"
+      },
+      {
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
+        "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto de 5%"
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "slug": "black-friday-damie",
+    "title": "Black Friday DAMIE 2026: poltrona reclinável e sofá com o cupom CECILIA12",
+    "seoTitle": "Black Friday DAMIE 2026: poltrona reclinável com desconto",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que a DAMIE oferecia em outubro de 2026, os preços das poltronas reclináveis, da Levita, da Aurora, do sofá modular e da Poltrona Cinema para comparar na Black Friday, como os descontos se somam com o cupom CECILIA12 e o prazo de entrega.",
+    "metaDescription": "Black Friday DAMIE 2026: preços de outubro das poltronas reclináveis e do sofá modular para comparar, desconto no Pix, brindes e o cupom CECILIA12.",
+    "publishedAt": "9 de outubro de 2026",
+    "publishedAtISO": "2026-10-09",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/damie/black-friday-damie-cecilia-poltrona-reclinavel.webp",
+    "imageAlt": "Cecília Mauad com o Ian no colo na poltrona reclinável DAMIE bege, com porta-copos nos braços",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Em outubro de 2026, todas as reclináveis já estavam R$ 1.000 abaixo do preço cheio",
+      "O cupom CECILIA12 vale com todas as formas de pagamento e soma com as promoções, os brindes e o desconto do Pix",
+      "10% de desconto no Pix à vista e até 12x sem juros no cartão",
+      "30 dias para trocar ou devolver"
+    ],
+    "cons": [
+      "Não encontramos Black Friday oficial da DAMIE em anos anteriores para comparar",
+      "O desconto por quantidade só sai pelo WhatsApp",
+      "Frete pago fora do Sul e do Sudeste",
+      "No Norte e no Nordeste, a compra é pelo Mercado Livre"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Black Friday DAMIE 2026",
+        "bullets": [
+          "A Black Friday de 2026 é em **27 de novembro**, e a Cyber Monday, em **30 de novembro**.",
+          "Até 8 de outubro de 2026, a DAMIE ainda não tinha anunciado no site a campanha deste ano. Este guia é atualizado quando a loja anunciar.",
+          "Em 8 de outubro, todas as poltronas reclináveis do site estavam **R$ 1.000 abaixo do preço cheio**, com 10% de desconto no Pix à vista e carregador USB e porta-copos de brinde. A elétrica com giro e balanço saía por R$ 4.299, ou R$ 3.869,10 no Pix.",
+          "O cupom **CECILIA12** dá 12% OFF em todos os produtos do site da DAMIE, com todas as formas de pagamento e sem limite de usos por CPF. Ele soma com as promoções, os brindes e o desconto do Pix, mas não com outro cupom nem com o giftback.",
+          "Antes de comprar em novembro, compare o preço com a tabela de outubro deste guia. O preço riscado no site é o cheio, e em outubro o desconto das reclináveis já era de R$ 1.000."
+        ]
+      },
+      {
+        "heading": "A DAMIE tem Black Friday?",
+        "paragraphs": [
+          "Não encontramos anúncio oficial da DAMIE sobre Black Friday em anos anteriores. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
+          "O que dá para mostrar é o que a DAMIE oferecia antes da campanha. Em 8 de outubro de 2026, a faixa do site prometia 10% de desconto no Pix à vista, até 12x sem juros, 15% de giftback em 45 dias, frete grátis para o Sul e o Sudeste e 30 dias para trocar ou devolver. As reclináveis estavam com R$ 1.000 de desconto e vinham com carregador USB e porta-copos de brinde, que o site põe sozinho no carrinho de qualquer poltrona reclinável ou cinema.",
+          "Quando a DAMIE anunciar a campanha de 2026, a data e as condições entram aqui, com o que mudou em relação a outubro."
+        ]
+      },
+      {
+        "heading": "Preços de outubro de 2026 para comparar",
+        "paragraphs": [
+          "Estes eram os preços das poltronas reclináveis no site da DAMIE em 8 de outubro de 2026. As versões 1.0 e 2.0 tinham o mesmo preço, que muda conforme o revestimento: a tabela mostra o de suede, bouclé e linho, os mais baratos, e o de couro, o mais caro."
+        ],
+        "comparisonTable": {
+          "caption": "Poltronas reclináveis DAMIE 1.0 e 2.0 no site oficial em 8 de outubro de 2026, em suede, bouclé ou linho. O corino custava de R$ 80 a R$ 100 a mais; o couro está na última coluna. Os preços mudam sem aviso.",
+          "headers": [
+            "Base",
+            "Preço cheio",
+            "Em 8/10/2026",
+            "À vista no Pix",
+            "Em couro, em 8/10"
+          ],
+          "rows": [
+            [
+              "Manual base fixa",
+              "R$ 3.969",
+              "R$ 2.969",
+              "R$ 2.672,10",
+              "R$ 4.440"
+            ],
+            [
+              "Elétrica base fixa",
+              "R$ 4.749",
+              "R$ 3.749",
+              "R$ 3.374,10",
+              "R$ 5.199"
+            ],
+            [
+              "Elétrica com giro e balanço",
+              "R$ 5.299",
+              "R$ 4.299",
+              "R$ 3.869,10",
+              "R$ 5.699"
+            ],
+            [
+              "Elétrica com elevação",
+              "R$ 5.969",
+              "R$ 4.969",
+              "R$ 4.472,10",
+              "R$ 6.149"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O desconto de R$ 1.000 valia para as quatro bases, em qualquer revestimento. Na Black Friday, compare o preço do dia com a coluna de 8 de outubro, não com o preço cheio: um desconto que pareça grande pode ser o mesmo de outubro."
+        ]
+      },
+      {
+        "heading": "Levita, Aurora, sofá modular e Poltrona Cinema",
+        "paragraphs": [
+          "Nas outras linhas, o desconto de outubro variava de produto para produto. Estes eram os preços do site em 8 de outubro de 2026:"
+        ],
+        "comparisonTable": {
+          "caption": "Outras linhas da DAMIE no site oficial em 8 de outubro de 2026. No sofá modular e na Poltrona Cinema, os preços são em suede, bouclé ou linho.",
+          "headers": [
+            "Produto",
+            "Preço cheio",
+            "Em 8/10/2026"
+          ],
+          "rows": [
+            [
+              "Levita elétrica, em linho",
+              "R$ 7.900",
+              "R$ 6.400"
+            ],
+            [
+              "Levita elétrica, em couro",
+              "R$ 9.400",
+              "R$ 7.400"
+            ],
+            [
+              "Aurora giratória com puff, em linho",
+              "R$ 7.400",
+              "R$ 5.400"
+            ],
+            [
+              "Aurora giratória com puff, em couro",
+              "R$ 8.400",
+              "R$ 6.400"
+            ],
+            [
+              "Sofá Modular, 2 lugares",
+              "R$ 5.150",
+              "R$ 3.850"
+            ],
+            [
+              "Sofá Modular, 3 lugares",
+              "R$ 6.100",
+              "R$ 5.100"
+            ],
+            [
+              "Poltrona Cinema 2.0, 2 lugares",
+              "R$ 5.938",
+              "R$ 5.438"
+            ],
+            [
+              "Poltrona Cinema 2.0, 3 lugares",
+              "R$ 9.457",
+              "R$ 8.457"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na Aurora, o desconto era de R$ 2.000; na Levita, de R$ 1.500 em linho e R$ 2.000 em couro. A Poltrona Cinema tinha o menor: R$ 500 na de 2 lugares. Segundo a página de formas de pagamento da DAMIE, o Pix à vista dá 10% de desconto também nessas linhas."
+        ]
+      },
+      {
+        "heading": "Como os descontos da DAMIE se somam",
+        "paragraphs": [
+          "Na DAMIE, o preço final pode juntar o desconto da página, o Pix, o cupom e, em compras de mais de uma poltrona, o desconto por quantidade. O CECILIA12 soma com todos eles; só não soma com outro cupom nem com o giftback."
+        ],
+        "bullets": [
+          "**Desconto da página:** já vem no preço do produto. Em 8 de outubro, era de R$ 1.000 em todas as reclináveis.",
+          "**Pix à vista:** 10% de desconto. A página do produto já mostra o preço no Pix com o desconto da página aplicado: R$ 3.869,10 na elétrica com giro e balanço em suede, por exemplo.",
+          "**Cupom CECILIA12:** 12% OFF em todos os produtos, com todas as formas de pagamento. Ele é aplicado no carrinho e soma com as promoções, os brindes e o desconto do Pix. Na giro e balanço em suede, os 12% sobre os R$ 4.299 tiram R$ 515,88, e a poltrona sai por R$ 3.783,12 no cartão, em até 12x sem juros. No Pix, entram também os 10%: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 3.404,81. O resumo do checkout mostra o valor exato antes de pagar.",
+          "**Desconto por quantidade:** R$ 500 na compra de 2 poltronas reclináveis, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5. Ele é dado pelos consultores no WhatsApp, não pelo carrinho, e soma com o CECILIA12.",
+          "**Giftback:** a faixa do site promete 15% de giftback em 45 dias. Ele não soma com o CECILIA12, e as regras não aparecem no site; confirme com o atendimento antes de contar com ele.",
+          "**Brinde:** carregador USB (tipo A e C) e porta-copos pretos, que entram sozinhos no carrinho de qualquer poltrona reclinável ou cinema."
+        ],
+        "links": [
+          {
+            "label": "Ver o cupom CECILIA12 e a data do último teste",
+            "href": "/cupons/damie"
+          },
+          {
+            "label": "Passo a passo do CECILIA12 no checkout",
+            "href": "/reviews/cupom-cecilia12-como-usar"
+          }
+        ]
+      },
+      {
+        "heading": "Qual poltrona DAMIE escolher",
+        "paragraphs": [
+          "A reclinável da DAMIE é a mesma poltrona com quatro bases. A manual é a mais barata, mas reclina com o peso do corpo e pede força das pernas para fechar. A elétrica de base fixa reclina mais, até 170°, pelo botão. A de giro e balanço reclina até 145°, gira 180° e balança, e é a que a marca indica para amamentação. A de elevação inclina a base para a frente para ajudar a levantar, pensada pela marca para idosos e pós-operatório.",
+          "Entre a 1.0 e a 2.0 não há diferença de preço. A 2.0 traz almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés. A Levita (elétrica) e a Aurora (giratória, com puff) são linhas à parte, vendidas só em linho ou couro.",
+          "Aqui em casa, a primeira reclinável foi elétrica, em linho bege, e acompanhou toda a amamentação do Ian. Hoje temos também a 2.0 elétrica com giro e balanço, em corino caramelo."
+        ],
+        "links": [
+          {
+            "label": "Minha experiência com a DAMIE 2.0 com giro e balanço",
+            "href": "/reviews/poltrona-damie-e-boa"
+          },
+          {
+            "label": "Poltrona de amamentação ou reclinável: qual vale mais a pena?",
+            "href": "/reviews/poltrona-de-amamentacao-vs-poltrona-reclinavel"
+          },
+          {
+            "label": "Poltronas reclináveis DAMIE: vale o investimento?",
+            "href": "/reviews/poltronas-reclinaveis-damie-vale-o-investimento"
+          },
+          {
+            "label": "Sofá DAMIE Modular: vale a pena?",
+            "href": "/reviews/sofa-damie-modular-vale-a-pena"
+          }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
+            "alt": "Poltrona reclinável DAMIE 2.0 elétrica com base de giro e balanço, em suede bege, vazia",
+            "caption": "DAMIE 2.0 elétrica com giro e balanço: almofada de cabeça regulável e bolso lateral maior. Foto oficial da DAMIE.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Prazo de entrega da DAMIE e frete antes do Natal",
+        "paragraphs": [
+          "A DAMIE dá frete grátis em poltronas e sofás para o Sul e o Sudeste. Para o Centro-Oeste, o frete é calculado pelo CEP no carrinho, antes de fechar a compra. No Norte e no Nordeste, a marca vende só pelos anúncios oficiais dela no Mercado Livre, onde o frete e o prazo aparecem ao simular o CEP. O CECILIA12 é aplicado no checkout do site da DAMIE.",
+          "O prazo de entrega varia por região e aparece no cálculo do frete, antes de pagar. Ele começa a contar na confirmação do pagamento: o Pix libera o pedido mais rápido, e o boleto leva até 2 dias úteis para compensar. Se você quer a poltrona antes do Natal, simule o CEP no carrinho e veja o prazo antes de fechar. O logo bordado, opcional, acrescenta 7 dias.",
+          "Em prédio, a entrega vai até o hall de entrada, então confira antes se a caixa passa no elevador ou na escada. A montagem é feita por você, só com encaixes e sem ferramentas. Segundo a marca, a reclinável passa em portas a partir de 65 cm se você levar primeiro o encosto e depois a base.",
+          "Confira o produto na hora da entrega, com a transportadora esperando: se houver avaria, recuse, e a DAMIE manda outro. Depois disso, ainda há 30 dias para trocar ou devolver."
+        ]
+      },
+      {
+        "heading": "Antes de comprar na Black Friday",
+        "bullets": [
+          "**Compare com a tabela de outubro.** O preço riscado é o cheio; em outubro, todas as reclináveis já estavam R$ 1.000 abaixo dele.",
+          "**Confira o revestimento e os opcionais.** O preço muda com o tecido: na giro e balanço, o couro custava R$ 1.400 a mais que o suede. Opcionais como a mesa de apoio e a luminária somam ao total.",
+          "**Aplique o CECILIA12 antes de pagar.** Ele não soma com outro cupom. Se a loja lançar um código próprio na Black Friday, teste os dois no carrinho e fique com o que der mais desconto.",
+          "**Simule o frete e o prazo.** Fora do Sul e do Sudeste, o frete é cobrado ou a compra é feita pelo Mercado Livre.",
+          "**Vai comprar mais de uma?** Fale com a DAMIE no WhatsApp antes de fechar: o desconto por quantidade, de R$ 500 a R$ 2.000, não aparece no carrinho."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quando é a Black Friday da DAMIE? A Black Friday de 2026 é na sexta-feira, 27 de novembro, e a Cyber Monday, na segunda, 30 de novembro. Até 8 de outubro de 2026, a DAMIE ainda não tinha anunciado no site a campanha deste ano.",
+          "A DAMIE tem Black Friday? Não encontramos anúncio oficial da DAMIE sobre Black Friday em anos anteriores. Em outubro de 2026, as poltronas reclináveis já estavam R$ 1.000 abaixo do preço cheio.",
+          "Poltrona reclinável fica mais barata na Black Friday? Compare antes de comprar. Em 8 de outubro de 2026, a reclinável elétrica com giro e balanço da DAMIE saía por R$ 4.299, ou R$ 3.869,10 no Pix, contra R$ 5.299 do preço cheio.",
+          "Qual o preço da poltrona DAMIE? Em 8 de outubro de 2026, a reclinável ia de R$ 2.969 (manual, em suede, bouclé ou linho) a R$ 6.149 (elétrica com elevação, em couro), com 10% de desconto no Pix à vista.",
+          "Tem cupom DAMIE para a Black Friday? O CECILIA12 dá 12% OFF em todos os produtos do site da DAMIE, com todas as formas de pagamento e sem limite de usos por CPF, e soma com as promoções, os brindes e o desconto do Pix. Só não soma com outro cupom nem com o giftback.",
+          "O cupom CECILIA12 soma com o desconto do Pix? Soma. Pagando no Pix, entram os 12% do cupom e os 10% do Pix: em 8 de outubro de 2026, pela nossa conta, a reclinável elétrica com giro e balanço em suede saía por R$ 3.404,81.",
+          "Qual o prazo de entrega da DAMIE? Varia por região e aparece no cálculo do frete, antes de pagar. O prazo começa a contar na confirmação do pagamento, e o frete é grátis no Sul e no Sudeste.",
+          "A DAMIE entrega no Nordeste? Sim, pelos anúncios oficiais da marca no Mercado Livre, que é como a DAMIE atende o Norte e o Nordeste. O frete e o prazo aparecem ao simular o CEP no anúncio."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Quando a Black Friday começar, monte a sua poltrona no site da DAMIE e aplique o cupom CECILIA12 no carrinho: os 12% somam com a promoção do momento.",
+      "label": "Ver o cupom CECILIA12 e ir para a DAMIE",
+      "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=black-friday-damie-cta",
+      "sponsored": true
+    },
+    "coupon": "CECILIA12",
+    "affiliate": "damie",
+    "editorialNote": "Preços conferidos no site da DAMIE. Podemos receber comissão pelo cupom CECILIA12.",
+    "relatedArticles": [
+      {
+        "slug": "poltrona-damie-e-boa",
+        "title": "Poltrona Damie é boa? Minha experiência com a nova versão 2.0"
+      },
+      {
+        "slug": "poltronas-reclinaveis-damie-vale-o-investimento",
+        "title": "Poltronas Reclináveis Damie - Vale o Investimento?"
+      },
+      {
+        "slug": "cupom-cecilia12-como-usar",
+        "title": "Cupom Damie CECILIA12: como usar o desconto da Cecília"
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "slug": "black-friday-letseatit",
+    "title": "Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal com desconto",
+    "seoTitle": "Black Friday Let's Eat It 2026: Le Creuset e mesa posta",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que a Let's Eat It oferecia em outubro de 2026, os preços de Le Creuset e Porto Brasil para comparar na Black Friday, como Pix, cashback e cupom se somam e até quando pedir para o presente chegar antes do Natal.",
+    "metaDescription": "Black Friday Let's Eat It 2026: preços de outubro de Le Creuset e Porto Brasil para comparar, cashback de 30%, Pix, cupom e prazo para chegar no Natal.",
+    "publishedAt": "9 de outubro de 2026",
+    "publishedAtISO": "2026-10-09",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
+    "imageAlt": "Página inicial da Let's Eat It com o banner Natal Let's e as faixas de cashback de 30% e de Porto Brasil com até 60% OFF",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Em outubro de 2026, quase toda a Porto Brasil já estava com 40% OFF",
+      "5% de desconto no Pix, que soma com o cupom MAUAD",
+      "Cashback de 30% em cupom para a compra seguinte",
+      "30 dias para trocar ou devolver, com etiqueta paga pela loja"
+    ],
+    "cons": [
+      "A maior parte da Le Creuset estava pelo preço cheio em outubro",
+      "Não há frete grátis na compra",
+      "O cashback só vale numa compra de 7 vezes o valor do cupom",
+      "Os prazos de entrega podem mudar em períodos promocionais"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Black Friday Let's Eat It 2026",
+        "bullets": [
+          "A Black Friday de 2026 é em **27 de novembro**, e a Cyber Monday, em **30 de novembro**.",
+          "Até 8 de outubro de 2026, a Let's Eat It ainda não tinha anunciado campanha de Black Friday. A página inicial já abria com a coleção Natal Let's. Este guia é atualizado quando a loja anunciar.",
+          "Em 8 de outubro, quase todo o catálogo da Porto Brasil estava com **40% OFF**, e algumas peças com 60%. A Le Creuset estava, na maior parte, pelo **preço cheio**: só uma seleção de peças tinha de 15% a 33% de desconto.",
+          "A loja dá 5% de desconto no Pix e um cashback de 30% em cupom para a compra seguinte, que só vale numa compra de pelo menos 7 vezes o valor do cupom.",
+          "O cupom MAUAD dá 5% OFF em todo o site, vale com todas as formas de pagamento e soma com o desconto do Pix. No nosso teste, ele foi aceito em item com preço promocional e em pré-venda.",
+          "Para o presente chegar até 24 de dezembro, pela nossa conta com o prazo mais longo da loja, pague até 16 de dezembro em São Paulo capital e até 7 de dezembro no Norte e no Nordeste."
+        ]
+      },
+      {
+        "heading": "A Let's Eat It tem Black Friday?",
+        "paragraphs": [
+          "Não encontramos anúncio oficial de Black Friday da Let's Eat It em anos anteriores. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
+          "O que dá para mostrar é o que a loja já oferecia em outubro de 2026: a coleção Natal Let's, com 40% de desconto na maior parte das peças; a Porto Brasil com \"até 60% OFF\"; uma seleção de Le Creuset com desconto; e o Outlet's, com cerca de 750 produtos, a maioria entre 40% e 60% abaixo do preço riscado.",
+          "Quando a Let's Eat It anunciar a campanha de 2026, as condições entram aqui, com o que mudou em relação a outubro."
+        ]
+      },
+      {
+        "heading": "Le Creuset na Black Friday: preços de outubro para comparar",
+        "paragraphs": [
+          "Em 8 de outubro de 2026, a Le Creuset na Let's Eat It estava quase toda pelo preço cheio, que é o mesmo na maioria das cores de cada modelo. O desconto aparecia só numa seleção de peças, quase sempre numa cor específica, e muitas delas estavam esgotadas."
+        ],
+        "comparisonTable": {
+          "caption": "Le Creuset na Let's Eat It em 8 de outubro de 2026. O preço cheio vale para a maioria das cores; o desconto, só para a cor indicada. No Pix, a página do produto mostra mais 5% de desconto.",
+          "headers": [
+            "Peça",
+            "Preço cheio",
+            "Com desconto em 8/10/2026"
+          ],
+          "rows": [
+            [
+              "Panela Redonda Signature 20 cm, 2,4 L",
+              "R$ 2.329",
+              "Sem desconto"
+            ],
+            [
+              "Panela Redonda Signature 24 cm, 4,2 L",
+              "R$ 2.949",
+              "Sem desconto"
+            ],
+            [
+              "Panela Redonda Signature 26 cm, 5,3 L",
+              "R$ 3.089",
+              "Sem desconto"
+            ],
+            [
+              "Panela Oval Signature 31 cm, 6,3 L",
+              "R$ 3.399",
+              "R$ 2.889,15 na cor laranja (15% OFF)"
+            ],
+            [
+              "Molheira Signature 18 cm, 1,8 L",
+              "R$ 2.299",
+              "R$ 1.954,15 na cor laranja (15% OFF)"
+            ],
+            [
+              "Skillet Signature com alça, 26 cm",
+              "R$ 1.739",
+              "Sem desconto"
+            ],
+            [
+              "Caneca de cerâmica, 400 ml",
+              "R$ 189",
+              "R$ 132,30 na cor Nectar, em pré-venda (30% OFF)"
+            ],
+            [
+              "Mini Cocotte de cerâmica, 250 ml",
+              "R$ 239",
+              "R$ 167,30 nas cores Flint e Nectar (30% OFF)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na Le Creuset, a régua é simples: em outubro, quase tudo estava pelo preço cheio. Se em novembro o preço do dia ficar abaixo desta tabela, o desconto é de verdade. Se o preço riscado subir, compare com a tabela, não com o riscado.",
+          "A Let's Eat It aparece no localizador de lojas do site oficial da Le Creuset Brasil."
+        ],
+        "links": [
+          {
+            "label": "Let's Eat It é confiável? CNPJ, políticas e o que observar",
+            "href": "/reviews/lets-eat-it-e-confiavel"
+          }
+        ]
+      },
+      {
+        "heading": "Porto Brasil e mesa posta: preços de outubro",
+        "paragraphs": [
+          "Na Porto Brasil, o desconto já estava no catálogo inteiro em outubro: das 174 peças da marca na loja, 150 apareciam com 40% OFF e 21 com 60%. Por isso, um \"até 60% OFF\" em novembro só é vantagem se o preço do dia ficar abaixo do de outubro."
+        ],
+        "comparisonTable": {
+          "caption": "Porto Brasil na Let's Eat It em 8 de outubro de 2026: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
+          "headers": [
+            "Peça",
+            "Preço riscado",
+            "Em 8/10/2026"
+          ],
+          "rows": [
+            [
+              "Aparelho de jantar Stoneware Orgânico, 30 peças (Preto Matte, Petroleum ou Arauco)",
+              "R$ 1.446,67",
+              "R$ 868"
+            ],
+            [
+              "Aparelho de jantar Stoneware Bio Oceano, 30 peças",
+              "R$ 1.398,33",
+              "R$ 839"
+            ],
+            [
+              "Aparelho de jantar Stoneware Orgânico Gold, 30 peças (Lua, Shimeji ou Forest)",
+              "R$ 3.416,50",
+              "R$ 2.049,90"
+            ],
+            [
+              "Jogo de 6 pratos multiuso Stoneware Linho, 18,6 cm",
+              "R$ 722,25",
+              "R$ 288,90"
+            ],
+            [
+              "Jogo de 4 travessas ovais rasas G Stoneware Orgânico New White, 36 cm",
+              "R$ 679,37",
+              "R$ 271,75"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Com o aparelho de jantar de 30 peças a R$ 868 em outubro, é esse o número a comparar em novembro, e não a porcentagem do selo."
+        ]
+      },
+      {
+        "heading": "Pix, cashback e cupom: o que soma",
+        "bullets": [
+          "**Pix:** 5% de desconto nas compras por Pix, segundo a página do produto.",
+          "**Cashback de 30%:** depois da compra, a loja manda pelo WhatsApp um cupom de 30% do valor, válido por 30 dias. Ele só entra numa compra de pelo menos 7 vezes o valor do cupom, sem contar o frete (um trecho da mesma página fala em 5 vezes). Na prática, um cashback de R$ 300 pede uma compra de R$ 2.100 e vira cerca de 14% de desconto nela.",
+          "**Cashback na Black Friday:** como o cupom vale 30 dias a partir da compra, uma compra feita a partir de 28 de outubro gera um cashback que ainda vale em 27 de novembro.",
+          "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. No nosso teste de 2 de outubro, ele foi aceito num carrinho com item em promoção e item em pré-venda, e o desconto saiu do subtotal, antes do frete.",
+          "**Pix com o cupom:** os dois somam. Na panela Redonda Signature de 20 cm, a R$ 2.329, o MAUAD tira R$ 116,45, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 2.101,92, sem o frete. O resumo do checkout mostra o valor exato antes de pagar.",
+          "**O que não confirmamos:** se o cupom do cashback e o MAUAD entram no mesmo pedido. A página do cashback manda consultar as condições do dia, e o checkout mostra o total antes de pagar.",
+          "**Frete:** não há frete grátis na compra. Ele é calculado pelo CEP e pelo peso do pedido."
+        ],
+        "links": [
+          {
+            "label": "Ver o cupom MAUAD e a data do último teste",
+            "href": "/cupons/letseatit"
+          },
+          {
+            "label": "Passo a passo do MAUAD no checkout",
+            "href": "/reviews/cupom-mauad-lets-eat-it-como-usar"
+          }
+        ]
+      },
+      {
+        "heading": "Presente de Natal: até quando pedir",
+        "paragraphs": [
+          "A Let's Eat It conta o prazo de entrega a partir da confirmação do pagamento. Somando um dia útil de folga ao prazo mais longo de cada região, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
+        ],
+        "comparisonTable": {
+          "caption": "Prazos da política de frete da Let's Eat It (atualizada em abril de 2026) e a nossa estimativa de data limite. A loja avisa que, em períodos promocionais, os prazos podem mudar.",
+          "headers": [
+            "Região",
+            "Prazo da loja",
+            "Pagar até (estimativa)"
+          ],
+          "rows": [
+            [
+              "São Paulo capital",
+              "3 a 5 dias úteis",
+              "16 de dezembro"
+            ],
+            [
+              "Interior de SP e Grande São Paulo",
+              "4 a 7 dias úteis",
+              "14 de dezembro"
+            ],
+            [
+              "Sul e Sudeste",
+              "5 a 8 dias úteis",
+              "11 de dezembro"
+            ],
+            [
+              "Centro-Oeste",
+              "6 a 9 dias úteis",
+              "10 de dezembro"
+            ],
+            [
+              "Norte e Nordeste",
+              "7 a 12 dias úteis",
+              "7 de dezembro"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "É uma estimativa: se puder, peça antes. A loja não tem entrega expressa e não deixa retirar pedidos do site na Casa Let's.",
+          "Se o presente for para outra pessoa, a troca ou devolução pode ser pedida em até 30 dias do recebimento, inclusive de item comprado em promoção, com etiqueta de devolução paga pela loja. Em São Paulo, dá para trocar na hora na Casa Let's."
+        ]
+      },
+      {
+        "heading": "Cuidados com louça, cristal e panela na Black Friday",
+        "bullets": [
+          "**Peça frágil:** a loja embala porcelana, cristal, vidro e cerâmica um a um e repõe de graça o que chegar quebrado. Para isso, ela pede fotos do produto e da embalagem pelo WhatsApp ou e-mail, então fotografe a caixa ao receber.",
+          "**Rastreio:** o código chega por WhatsApp e e-mail depois do envio. \"Produto não recebido\" é um dos problemas mais citados no Reclame Aqui da loja: acompanhe o pedido e fale com a loja assim que o prazo passar.",
+          "**Pré-venda:** em outubro, várias peças Le Creuset estavam em pré-venda. Se o presente tem data, prefira o que está em estoque.",
+          "**Compare com as tabelas de outubro** antes de se guiar pelo selo de desconto."
+        ],
+        "links": [
+          {
+            "label": "Let's Eat It no Reclame Aqui: o que os dados mostram",
+            "href": "/reviews/lets-eat-it-reclame-aqui-nota-reputacao"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quando é a Black Friday da Let's Eat It? A Black Friday de 2026 é na sexta-feira, 27 de novembro, e a Cyber Monday, na segunda, 30 de novembro. Até 8 de outubro de 2026, a Let's Eat It ainda não tinha anunciado campanha.",
+          "Le Creuset fica mais barata na Black Friday? Na Let's Eat It, em outubro de 2026, quase toda a Le Creuset estava pelo preço cheio, como a panela Redonda Signature de 20 cm a R$ 2.329. Se em novembro o preço ficar abaixo disso, o desconto é de verdade.",
+          "Panelas Le Creuset em promoção valem a pena? Compare o preço do dia com o preço cheio da tabela deste guia. Em outubro, as promoções da Let's Eat It eram de 15% a 33% e ficavam numa seleção de peças e cores.",
+          "A Let's Eat It tem frete grátis? Não na compra: o frete é calculado pelo CEP e pelo peso do pedido. O envio da devolução é que sai por conta da loja.",
+          "Tem cupom de primeira compra na Let's Eat It? Use o MAUAD, que dá 5% OFF em todo o site. A loja não divulga outro cupom de boas-vindas.",
+          "O cupom MAUAD soma com o desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% da loja: pela nossa conta, a panela Redonda Signature de 20 cm, de R$ 2.329 em outubro de 2026, sai por R$ 2.101,92, sem o frete.",
+          "O cashback da Let's Eat It vale na Black Friday? Vale se estiver dentro dos 30 dias: uma compra feita a partir de 28 de outubro gera um cupom que ainda vale em 27 de novembro, desde que a nova compra seja de pelo menos 7 vezes o valor do cupom.",
+          "A Let's Eat It tem loja física? Tem a Casa Let's, na Av. Pacaembu, 1105, em São Paulo, com 15% de desconto nas compras presenciais, exceto Le Creuset e Trussardi. Ela não faz retirada de pedidos do site.",
+          "Até quando comprar para chegar antes do Natal? Pela nossa conta com o prazo mais longo da loja e um dia útil de folga, até 16 de dezembro em São Paulo capital e até 7 de dezembro no Norte e no Nordeste."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Quando a Black Friday começar, compare os preços com as tabelas deste guia e aplique o cupom MAUAD no checkout da Let's Eat It antes de pagar.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom MAUAD.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-mauad-lets-eat-it-como-usar",
+        "title": "Cupom Let's Eat It MAUAD: como usar o desconto de 5%"
+      },
+      {
+        "slug": "lets-eat-it-e-confiavel",
+        "title": "Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar"
+      },
+      {
+        "slug": "lets-eat-it-reclame-aqui-nota-reputacao",
+        "title": "Let's Eat It no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      }
+    ]
   }
 ];

@@ -39972,6 +39972,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/black-friday-damie-cecilia-poltrona-reclinavel.webp",
+      "local_url": "/images/reviews/damie/black-friday-damie-cecilia-poltrona-reclinavel.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52590,
+      "sha256": "4cc95b879bee706062900cb36a1e05585ba07ae29885613a4896d98f01730294",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-damie-cecilia-poltrona-reclinavel.webp",
+      "storage_filename": "black-friday-damie-cecilia-poltrona-reclinavel.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-damie.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-damie.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-damie.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/damie/black-friday-damie-cecilia-poltrona-reclinavel.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-damie.md",
+          "line": 130,
+          "column": 10,
+          "literal": "/images/reviews/damie/black-friday-damie-cecilia-poltrona-reclinavel.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 52685,
+          "column": 15,
+          "literal": "/images/reviews/damie/black-friday-damie-cecilia-poltrona-reclinavel.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4cc95b879bee706062900cb36a1e05585ba07ae29885613a4896d98f01730294/black-friday-damie-cecilia-poltrona-reclinavel.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4cc95b879bee706062900cb36a1e05585ba07ae29885613a4896d98f01730294/black-friday-damie-cecilia-poltrona-reclinavel.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-08T20:40:08.853Z",
+      "verification_etag_or_digest": "4cc95b879bee706062900cb36a1e05585ba07ae29885613a4896d98f01730294",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/poltrona-amamentacao-aquila-mercado-livre.webp",
       "local_url": "/images/reviews/damie/poltrona-amamentacao-aquila-mercado-livre.webp",
       "media_kind": "image",
@@ -48054,6 +48108,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
+      "local_url": "/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 106174,
+      "sha256": "a0dee4cd2351b0317b978846490d6c8dc97b8a44b481f4b3db8c48eac67261a8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-letseatit-loja-natal.webp",
+      "storage_filename": "black-friday-letseatit-loja-natal.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-letseatit.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-letseatit.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-letseatit.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-letseatit.md",
+          "line": 129,
+          "column": 10,
+          "literal": "/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 52965,
+          "column": 15,
+          "literal": "/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a0dee4cd2351b0317b978846490d6c8dc97b8a44b481f4b3db8c48eac67261a8/black-friday-letseatit-loja-natal.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a0dee4cd2351b0317b978846490d6c8dc97b8a44b481f4b3db8c48eac67261a8/black-friday-letseatit-loja-natal.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-08T20:40:08.854Z",
+      "verification_etag_or_digest": "a0dee4cd2351b0317b978846490d6c8dc97b8a44b481f4b3db8c48eac67261a8",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/cupom-mauad-checkout-aplicado.webp",
       "local_url": "/images/reviews/letseatit/cupom-mauad-checkout-aplicado.webp",
       "media_kind": "image",
@@ -54518,6 +54626,60 @@
       "uploaded_at": null,
       "verified_at": "2026-10-05T04:08:25.100Z",
       "verification_etag_or_digest": "8fc7628427ba418c00b1e4e8e56f49eef09f973f6c748463d4f5fdb89b11a1f8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/black-friday-dolce-gusto-cecilia-cafezal.webp",
+      "local_url": "/images/reviews/dolcegusto/black-friday-dolce-gusto-cecilia-cafezal.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 154544,
+      "sha256": "24aa34b48da2300800c9444a2b5d65bfab13999d4a6a2c5e60a8141f600ead78",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-dolce-gusto-cecilia-cafezal.webp",
+      "storage_filename": "black-friday-dolce-gusto-cecilia-cafezal.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-dolce-gusto.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-dolce-gusto.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-dolce-gusto.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/black-friday-dolce-gusto-cecilia-cafezal.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-dolce-gusto.md",
+          "line": 122,
+          "column": 10,
+          "literal": "/images/reviews/dolcegusto/black-friday-dolce-gusto-cecilia-cafezal.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 52442,
+          "column": 15,
+          "literal": "/images/reviews/dolcegusto/black-friday-dolce-gusto-cecilia-cafezal.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/24aa34b48da2300800c9444a2b5d65bfab13999d4a6a2c5e60a8141f600ead78/black-friday-dolce-gusto-cecilia-cafezal.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/24aa34b48da2300800c9444a2b5d65bfab13999d4a6a2c5e60a8141f600ead78/black-friday-dolce-gusto-cecilia-cafezal.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-08T20:40:08.854Z",
+      "verification_etag_or_digest": "24aa34b48da2300800c9444a2b5d65bfab13999d4a6a2c5e60a8141f600ead78",
       "verification_status": "verified"
     },
     {
