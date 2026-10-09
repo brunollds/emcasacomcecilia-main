@@ -34,8 +34,8 @@ import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
 // das lojas traduzidas e dos artigos de cada família, as páginas da YesStyle, o dock, a sidebar e a
 // interface dos artigos no idioma de cada um, os textos que citam o CECILIA010, a home, os cards de
-// /reviews, as subpáginas de loja (com o lastmod do sitemap) e as páginas de data, ambas com a imagem
-// de compartilhamento e o JSON-LD. O <html lang> fica com test-c2-html-lang.
+// /reviews, as subpáginas de loja e as páginas de data, ambas com a imagem de compartilhamento, o
+// JSON-LD e o lastmod do sitemap. O <html lang> fica com test-c2-html-lang.
 const SITE_URL = 'https://emcasacomcecilia.com';
 const APP_DIR = path.resolve('.next/server/app');
 const CSS_DIR = path.resolve('.next/static/css');
@@ -43,6 +43,23 @@ const CSS_DIR = path.resolve('.next/static/css');
 assert.ok(fs.existsSync(APP_DIR), 'Sem .next/server/app: rode o next build antes deste teste');
 
 const read = (file: string) => fs.readFileSync(file, 'utf8');
+
+// O cabeçalho do bloco que envolve a posição `index` do CSS minificado (por exemplo
+// `@media screen and (prefers-reduced-motion:no-preference)`), ou '' no nível de cima.
+function enclosingBlockHeader(source: string, index: number) {
+  let depth = 0;
+  for (let i = index - 1; i >= 0; i--) {
+    if (source[i] === '}') depth++;
+    else if (source[i] === '{') {
+      if (depth === 0) {
+        const start = Math.max(source.lastIndexOf('}', i - 1), source.lastIndexOf('{', i - 1), source.lastIndexOf(';', i - 1)) + 1;
+        return source.slice(start, i).trim();
+      }
+      depth--;
+    }
+  }
+  return '';
+}
 
 // Página (.html) ou rota de texto (.body) gerada para a URL. Sem arquivo, a URL é de fora do site,
 // dá 404 ou virou página dinâmica.
@@ -111,6 +128,40 @@ assert.match(css, /\.open\\:flex:[^{]*\{display:flex/, 'CSS sem o open:flex da g
 assert.match(css, /@starting-style\{\.starting\\:open\\:translate-y-full/, 'CSS sem a entrada da gaveta (@starting-style)');
 assert.match(css, /\.backdrop\\:bg-marinho\\\/55::backdrop\{/, 'CSS sem o fundo da gaveta (::backdrop)');
 assert.match(css, /\.transition-discrete\{transition-behavior:allow-discrete/, 'CSS sem o transition-discrete da gaveta');
+
+// O movimento da home (D2.1). `@media not (…) and (…)` é inválido: o navegador descarta a regra
+// inteira. É o que o Lightning CSS gera de `(width < …) and (…)`, e foi assim que a entrada das
+// bolinhas sumiu sem erro nenhum. `@media not all and (…)` e `@media not (…)` sozinho continuam valendo.
+assert.doesNotMatch(css, /@media\s*not\s*\([^)]*\)\s*and\s*\(/, 'CSS com @media not (…) and (…), que o navegador descarta');
+
+// A revelação da rolagem só esconde com o movimento liberado: toda regra com [data-reveal] fica
+// dentro de um @media com prefers-reduced-motion: no-preference.
+const revealRules = [...css.matchAll(/\[data-reveal/g)];
+assert.ok(revealRules.length >= 2, 'CSS sem as regras da revelação da rolagem ([data-reveal])');
+for (const rule of revealRules) {
+  assert.match(
+    enclosingBlockHeader(css, rule.index),
+    /prefers-reduced-motion:\s*no-preference/,
+    'CSS com [data-reveal] fora do @media de prefers-reduced-motion: no-preference'
+  );
+}
+
+// A entrada das bolinhas no celular e a troca de loja pelo lado (D2.1) também só com o movimento
+// liberado: a entrada no @media do celular, o @starting-style da troca dentro do de no-preference.
+const bubbleEntranceAt = css.search(/\.bolinha\{[^}]*bolinha-entra/);
+assert.ok(bubbleEntranceAt >= 0, 'CSS sem a entrada das bolinhas (bolinha-entra)');
+assert.match(
+  enclosingBlockHeader(css, bubbleEntranceAt),
+  /max-width:\s*47\.99rem\)\s*and\s*\(prefers-reduced-motion:\s*no-preference/,
+  'CSS com a entrada das bolinhas fora do @media do celular com movimento liberado'
+);
+const panelStartAt = css.search(/@starting-style\s*\{\s*\.painel-entra\{/);
+assert.ok(panelStartAt >= 0, 'CSS sem o @starting-style da troca de loja (.painel-entra)');
+assert.match(
+  enclosingBlockHeader(css, panelStartAt),
+  /prefers-reduced-motion:\s*no-preference/,
+  'CSS com a troca de loja fora do @media de prefers-reduced-motion: no-preference'
+);
 
 const sitemapBody = read(path.join(APP_DIR, 'sitemap.xml.body'));
 const sitemapUrls = [...sitemapBody.matchAll(/<loc>([^<]+)<\/loc>/g)].map(([, url]) => url);
@@ -602,8 +653,8 @@ assert.ok(categoriasFile, '/categorias: página não gerada no build');
 assert.ok(headOf(read(categoriasFile)).includes('<meta name="robots" content="noindex, follow"/>'), '/categorias: sem robots noindex, follow no <head>');
 
 // A home (D2) como o build a gerou, contra os mesmos dados que a montam: a vitrine, o "Acabou de
-// sair", a data comercial e as seções de baixo. Ofertas e vídeos dependem do feed do Dicas & Ofertas
-// e da API do YouTube na hora do build: só são conferidos quando aparecem.
+// sair", a data comercial e as seções de baixo. As ofertas (no card do Dicas & Ofertas) e os vídeos
+// dependem do feed e da API do YouTube na hora do build: só são conferidos quando aparecem.
 type HomeExpectations = {
   tabs: ReturnType<typeof getHomeStoreTabs>;
   latest: ReturnType<typeof getHomeLatest>;
@@ -612,7 +663,7 @@ type HomeExpectations = {
 };
 
 const LATEST_SECTION = 'aria-labelledby="titulo-acabou-de-sair"';
-const LOWER_SECTIONS = ['titulo-receitas', 'titulo-explore-a-casa', 'titulo-ofertas-do-dia', 'titulo-ultimos-videos'];
+const LOWER_SECTIONS = ['titulo-receitas', 'titulo-explore-a-casa', 'titulo-ultimos-videos'];
 const WHATSAPP_LINK = /<a [^>]*href="https:\/\/chat\.whatsapp\.com\/[^"]+"[^>]*>/;
 const hrefOf = (url: string) => `href="${url.replace(/&/g, '&amp;')}"`;
 const COPY_LABELS = getCouponCopyLabels('pt');
@@ -651,6 +702,8 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
     about >= 0 && whatsappAt > about && cecilia.indexOf('<dl', whatsappAt) > whatsappAt,
     'painel da Cecília: o grupo de WhatsApp fora do lugar (depois de "Mais sobre mim", antes dos números)'
   );
+  // O pulso do grupo de WhatsApp acontece uma vez (WCAG 2.2.2), e só com o movimento liberado.
+  check(/\bmotion-safe:animate-\[pulse-subtle_[^\]\s]*_1\]/.test(whatsappTag), 'painel da Cecília: o pulso do WhatsApp sem parar depois de uma vez');
 
   // Um painel por loja ativa, inteiro: título, código com a dica e o rótulo exato do botão de copiar,
   // oferta, os dois links e a lista de artigos (ou o aviso de loja sem artigo).
@@ -743,8 +796,27 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
 
   const explore = sectionOf('titulo-explore-a-casa');
   check(explore.includes(hrefOf(brandLinks.damie)) && explore.includes(hrefOf(brandLinks.dicas)), 'Explore a casa: sem o link da DAMIE ou do Dicas & Ofertas');
-  if (at('titulo-ofertas-do-dia') >= 0) {
-    check(sectionOf('titulo-ofertas-do-dia').includes('>Acessar Dicas &amp; Ofertas</a>'), 'Ofertas do dia: sem o "Acessar Dicas & Ofertas"');
+  // Com ofertas, o carrossel fica dentro do card do Dicas & Ofertas, com o "Ver todas as ofertas".
+  if (explore.includes('aria-label="Ver próximas ofertas"')) {
+    check(explore.includes('>Ver todas as ofertas</a>'), 'Explore a casa: ofertas sem o "Ver todas as ofertas"');
+  }
+  // O e-book saiu. O carrossel fica de fora da busca: os títulos das ofertas vêm do feed.
+  check(!/E-book Air Fryer|Avise-me/.test(explore.replace(/<ul class="hide-scrollbar[\s\S]*?<\/ul>/, '')), 'Explore a casa: com o e-book');
+
+  // O marca-texto em cada título das seções de baixo (e no "Acabou de sair"), e nada escondido pela
+  // rolagem no HTML do servidor.
+  for (const id of ['titulo-acabou-de-sair', ...LOWER_SECTIONS]) {
+    if (at(id) < 0 && id === 'titulo-ultimos-videos') continue;
+    check(new RegExp(`<h2 id="${id}"[^>]*><span class="marca-texto[ "]`).test(body), `${id}: título sem o marca-texto`);
+  }
+  check(!body.includes('data-reveal'), 'home com seção escondida no HTML do servidor (data-reveal)');
+
+  // Os cards que a rolagem revela: as duas listas do "Acabou de sair" (celular e tela larga) e a faixa da data.
+  const REVEAL_CARD = /<li class="[^"]*\brevela\b[^"]*" style="--i:\d+"/g;
+  check((latest.match(REVEAL_CARD) ?? []).length === expected.latest.length * 2, 'Acabou de sair: cards sem a entrada da rolagem (revela)');
+  if (expected.hasEvent) {
+    const event = between(body, 'aria-labelledby="titulo-data-comercial"', LOWER_SECTIONS.map((id) => `aria-labelledby="${id}"`));
+    check((event.match(REVEAL_CARD) ?? []).length > 0, 'faixa da data: cards sem a entrada da rolagem (revela)');
   }
 
   return problems;
@@ -808,16 +880,20 @@ const brokenHomes = [
   homeBody.split(hrefOf(brandLinks.damie)).join('href="/outra"'),
   ...forStore('shein', [homeBody.split('Código de indicação').join('Cupom')]),
   ...forStore('nestle-nutre', [homeBody.split('fórmulas infantis de 0 a 12 meses').join('fórmulas infantis')]),
-  // Sem ofertas e sem vídeos (o feed e a API fora do ar no build), o Explore a casa acaba no rodapé,
-  // que também linka o Dicas & Ofertas: o link que some do Explore precisa dar problema.
+  // Sem vídeos (a API fora do ar no build), o Explore a casa acaba no rodapé, que também linka o
+  // Dicas & Ofertas: o link que some do Explore precisa dar problema.
   (() => {
-    const offersAt = homeBody.indexOf('aria-labelledby="titulo-ofertas-do-dia"');
-    const trimmed = offersAt < 0 ? homeBody : homeBody.slice(0, offersAt) + homeBody.slice(homeBody.indexOf('<footer'));
-    const exploreAt = trimmed.indexOf('aria-labelledby="titulo-explore-a-casa"');
-    const footerAt = trimmed.indexOf('<footer');
-    const explore = trimmed.slice(exploreAt, footerAt).split(hrefOf(brandLinks.dicas)).join('href="/outra"');
-    return trimmed.slice(0, exploreAt) + explore + trimmed.slice(footerAt);
+    const exploreAt = homeBody.indexOf('aria-labelledby="titulo-explore-a-casa"');
+    const endAt = [homeBody.indexOf('aria-labelledby="titulo-ultimos-videos"'), homeBody.indexOf('<footer')]
+      .filter((index) => index > exploreAt)
+      .reduce((first, index) => Math.min(first, index));
+    const explore = homeBody.slice(exploreAt, endAt).split(hrefOf(brandLinks.dicas)).join('href="/outra"');
+    return homeBody.slice(0, exploreAt) + explore + homeBody.slice(endAt);
   })(),
+  homeBody.replace(/<h2 id="titulo-receitas"([^>]*)><span class="marca-texto[^"]*">/, '<h2 id="titulo-receitas"$1><span>'),
+  homeBody.replace('aria-labelledby="titulo-explore-a-casa"', 'data-reveal="pending" aria-labelledby="titulo-explore-a-casa"'),
+  // O primeiro card com `revela` da home é o primeiro da lista do celular do "Acabou de sair".
+  homeBody.replace('<li class="revela ', '<li class="'),
   homeBody.replace(LATEST_SECTION, `id="painel-loja-inativa" ${LATEST_SECTION}`),
   homeBody.replace(LATEST_SECTION, `${LATEST_SECTION}><a href="/reviews/artigo-a-mais"></a`),
   ...forStore('shein', [homeBody.replace('id="painel-loja-shein"', 'id="painel-loja-shein"><span>Cupom SHEIN</span')]),
@@ -1000,6 +1076,15 @@ function assertListPageSeo(pagePath: string, html: string, expected: { items: nu
   );
 }
 
+// O lastmod de uma página de lista no sitemap é a data do artigo mais novo dela: a da atualização, ou
+// a da publicação.
+function assertSitemapLastmod(pagePath: string, articles: readonly { updatedAt?: string; publishedAtISO?: string }[]) {
+  const newestDate = articles.map((article) => article.updatedAt ?? article.publishedAtISO).filter(Boolean).sort().at(-1);
+  assert.ok(newestDate, `${pagePath}: nenhum artigo com data`);
+  const sitemapEntry = sitemapBody.split('<url>').find((chunk) => chunk.includes(`<loc>${SITE_URL}${pagePath}</loc>`));
+  assert.equal(sitemapEntry?.match(/<lastmod>([^<]+)<\/lastmod>/)?.[1], newestDate, `${pagePath}: lastmod no sitemap.xml`);
+}
+
 // Subpágina de cada loja com mais de 3 artigos: o h1, o canonical, um card por artigo (com o anel de
 // foco), o link da página da loja, o h2 só para leitor de tela, a imagem de compartilhamento da loja,
 // o JSON-LD e a data no sitemap.
@@ -1023,15 +1108,12 @@ for (const slug of storeArticleSlugs) {
   const store = getCouponBySlug(slug);
   assert.ok(store, `${pagePath}: sem a loja ${slug} em couponsData`);
   assertListPageSeo(pagePath, html, { items: page.articles.length, image: getStoreSocialImage(store) });
-  // O lastmod da subpágina é a data do artigo mais novo: a da atualização, ou a da publicação.
-  const newestDate = page.articles.map((article) => article.updatedAt ?? article.publishedAtISO).filter(Boolean).sort().at(-1);
-  assert.ok(newestDate, `${pagePath}: nenhum artigo com data`);
-  const sitemapEntry = sitemapBody.split('<url>').find((chunk) => chunk.includes(`<loc>${SITE_URL}${pagePath}</loc>`));
-  assert.equal(sitemapEntry?.match(/<lastmod>([^<]+)<\/lastmod>/)?.[1], newestDate, `${pagePath}: lastmod no sitemap.xml`);
+  assertSitemapLastmod(pagePath, page.articles);
 }
 
 // Página de cada data com edição no home-events.json: o h1, o canonical, a imagem de compartilhamento,
-// o JSON-LD e um card por artigo, com o "Ver o código" levando à aba da loja na vitrine.
+// o JSON-LD, a data no sitemap e um card por artigo, com o "Ver o código" levando à aba da loja na
+// vitrine.
 const eventHubPaths = getEventHubPaths(homeEventsConfig, publishedReviews);
 for (const hubPath of eventHubPaths) {
   const file = builtFile(`${SITE_URL}${hubPath}`);
@@ -1046,6 +1128,8 @@ for (const hubPath of eventHubPaths) {
   // A capa é a que os dados escolhem (getEventHubPage, testada no test:home-events): a do artigo mais
   // novo, ou o logo do site.
   assertListPageSeo(hubPath, html, { items: page.cards.length, image: page.socialImage });
+  const cardSlugs = new Set(page.cards.map((card) => card.slug));
+  assertSitemapLastmod(hubPath, publishedReviews.filter((review) => cardSlugs.has(review.slug)));
   for (const card of page.cards) {
     assert.ok(body.includes(hrefOf(card.href)), `${hubPath}: sem o card de ${card.slug}`);
     if (card.codeLink) {
@@ -1056,12 +1140,13 @@ for (const hubPath of eventHubPaths) {
 }
 
 // O feed do Dicas & Ofertas e a API do YouTube decidem na hora do build se ofertas e vídeos
-// aparecem; a linha final diz quantos cards cada seção teve, para o log do build mostrar.
-const lowerCards = (id: string) => {
-  const section = between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']);
-  return section ? String((section.match(/<li[\s>]/g) ?? []).length) : 'ausentes';
+// aparecem; a linha final diz quantos cards cada um teve, para o log do build mostrar.
+const cardsIn = (section: string) => {
+  const row = between(section, '<ul class="hide-scrollbar', ['</ul>']);
+  return row ? String((row.match(/<li[\s>]/g) ?? []).length) : 'ausentes';
 };
+const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar e a interface de ${articleUrls.length} artigos, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${lowerCards('titulo-ofertas-do-dia')}, vídeos: ${lowerCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja e ${eventHubPaths.length} páginas de data conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar e a interface de ${articleUrls.length} artigos, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja e ${eventHubPaths.length} páginas de data conferidos.`
 );

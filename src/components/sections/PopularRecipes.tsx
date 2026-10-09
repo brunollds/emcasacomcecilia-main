@@ -1,6 +1,8 @@
+import type { CSSProperties } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { FOCUS_RING } from '@/components/ui/focusRing';
+import { RevealSection } from '@/components/ui/RevealSection';
 import { ViewTransitionLink } from '@/components/ViewTransitionLink';
 import { getRecipeImage, getRecipePrimaryCategory, recipes, type Recipe } from '@/lib/data';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
@@ -9,6 +11,8 @@ import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 // Faixa de receitas da home: 4 receitas e o total do site, contado dos dados.
 
 const RECIPE_COUNT = 4;
+// No celular a faixa mostra 2 receitas; as outras continuam no HTML para o desktop.
+const MOBILE_RECIPE_COUNT = 2;
 
 // As mais vistas no GA, na ordem dele; se vierem menos de 4, as marcadas como populares completam.
 export function selectPopularRecipes(allRecipes: Recipe[], popularSlugs: string[]): Recipe[] {
@@ -27,33 +31,36 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
   const popularRecipes = selectPopularRecipes(recipes, popularSlugs);
 
   return (
-    <section aria-labelledby="titulo-receitas" className="pb-8 md:pb-10">
+    <RevealSection aria-labelledby="titulo-receitas" className="pb-8 md:pb-10">
       <div className="mx-auto w-full max-w-[1200px] md:px-10">
         <div className="flex flex-wrap items-end justify-between gap-x-6 gap-y-3.5 border-y-2 border-marinho bg-amarelo-cupom px-4 py-5 text-marinho md:gap-y-5 md:rounded-[14px] md:border-2 md:px-8 md:py-7">
-          <div className="flex min-w-0 basis-full flex-col gap-2 md:basis-auto md:flex-1">
+          <div className="flex min-w-0 flex-1 flex-col gap-2">
             <h2
               id="titulo-receitas"
               className="font-condensada text-[28px] leading-none font-black font-stretch-extra-condensed md:text-[44px]"
             >
-              Receitas da Cecília
+              <span className="marca-texto [--marca-texto:#fff]">Receitas da Cecília</span>
             </h2>
             <p className="max-w-[60ch] text-sm leading-5 font-medium md:text-[15px] md:leading-[22px]">
-              Bolos, doces, air fryer e o almoço de todo dia. {recipes.length} receitas prontas para fazer.
+              <span className="hidden md:inline">Bolos, doces, air fryer e o almoço de todo dia. </span>
+              {recipes.length} receitas prontas para fazer.
             </p>
           </div>
-          {/* No celular o link vai para baixo das receitas; no desktop, ao lado do título. */}
+          {/* No celular, um link de texto ao lado do título; no desktop, o botão. */}
           <Link
             href="/receitas"
-            className={`order-last flex min-h-12 basis-full items-center justify-center rounded-[10px] border-2 border-marinho bg-white px-7 text-sm font-extrabold hover:bg-marinho hover:text-white motion-safe:transition-colors md:order-none md:basis-auto md:text-[15px] ${FOCUS_RING}`}
+            aria-label="Ver todas as receitas"
+            className={`flex min-h-11 shrink-0 items-center self-start -mt-2 md:mt-0 text-[13px] font-extrabold underline underline-offset-[3px] md:min-h-12 md:self-auto md:rounded-[10px] md:border-2 md:border-marinho md:bg-white md:px-7 md:text-[15px] md:no-underline md:hover:bg-marinho md:hover:text-white motion-safe:transition-colors ${FOCUS_RING}`}
           >
-            Ver todas as receitas
+            <span className="md:hidden">Ver todas</span>
+            <span className="hidden md:inline">Ver todas as receitas</span>
           </Link>
           <ul className="grid basis-full grid-cols-2 gap-2.5 md:grid-cols-4 md:gap-4">
             {popularRecipes.map((recipe, index) => (
               <li
                 key={recipe.id}
-                className="flex motion-safe:animate-[slide-up_0.5s_ease-out_backwards]"
-                style={{ animationDelay: `${index * 0.1}s` }}
+                className={`revela flex${index >= MOBILE_RECIPE_COUNT ? ' max-md:hidden' : ''}`}
+                style={{ '--i': index } as CSSProperties}
               >
                 <RecipeCard recipe={recipe} />
               </li>
@@ -61,7 +68,7 @@ export function PopularRecipes({ popularSlugs = [] }: PopularRecipesProps) {
           </ul>
         </div>
       </div>
-    </section>
+    </RevealSection>
   );
 }
 

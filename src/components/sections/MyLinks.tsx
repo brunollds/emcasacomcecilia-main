@@ -1,25 +1,31 @@
+import type { CSSProperties } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { HomeSection } from '@/components/sections/HomeSection';
+import { OfferCarousel } from '@/components/sections/OfferCarousel';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { brandLinks } from '@/lib/brandLinks';
 import { getCouponBySlug } from '@/lib/couponsData';
+import { getCarouselOffers, type Offer } from '@/lib/dicasOffers';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
-// "Explore a casa": a DAMIE, o Dicas & Ofertas e o E-book Air Fryer, que segue em preparação (o
-// card abre o e-mail do "Avise-me").
+// "Explore a casa": a DAMIE e o Dicas & Ofertas, com as ofertas do dia do feed num carrossel dentro do
+// card amarelo. Um link não pode ter links dentro: com ofertas, o card amarelo é uma caixa com o
+// carrossel e o "Ver todas as ofertas"; sem oferta com foto, volta a ser o link de antes.
 
 const CARD = `group flex flex-1 flex-col overflow-hidden rounded-xl border-2 border-marinho motion-safe:transition-transform motion-safe:duration-300 motion-safe:hover:-translate-y-1 md:rounded-[14px] ${FOCUS_RING}`;
+const DICAS_TEXT = 'Cupons, promoções e oportunidades que valem acompanhar.';
 
-export function MyLinks() {
+export function MyLinks({ offers }: { offers: Offer[] }) {
   // O código sai da loja em couponsData.ts; sem cupom ativo, a legenda fica só com a loja.
   const damie = getCouponBySlug('damie');
   const damieCode = damie?.offerMode === 'discount-code' ? damie.code : undefined;
+  const carousel = getCarouselOffers(offers);
 
   return (
     <HomeSection id="titulo-explore-a-casa" title="Explore a casa">
       <ul className="grid gap-3 md:grid-cols-3 md:gap-5">
-        <li className="flex">
+        <li className="revela flex" style={{ '--i': 0 } as CSSProperties}>
           <Link
             href={brandLinks.damie}
             target="_blank"
@@ -46,40 +52,49 @@ export function MyLinks() {
             </span>
           </Link>
         </li>
-        <li className="flex">
-          <Link
-            href={brandLinks.dicas}
-            target="_blank"
-            rel="noopener noreferrer"
-            className={`${CARD} min-h-[120px] justify-center gap-1.5 bg-amarelo-cupom p-4 text-marinho md:min-h-[200px] md:gap-3 md:p-6`}
-          >
-            <h3 className="font-condensada text-2xl leading-none font-black font-stretch-extra-condensed md:text-[32px]">
-              Dicas & Ofertas
-            </h3>
-            <p className="text-[13px] leading-[19px] font-semibold md:text-[15px] md:leading-[22px] md:font-medium">
-              Cupons, promoções e oportunidades que valem acompanhar.
-            </p>
-            <span className="mt-1 hidden min-h-11 items-center self-start rounded-[10px] border-2 border-marinho bg-white px-5 text-sm font-extrabold md:inline-flex">
-              Ver ofertas
-            </span>
-          </Link>
-        </li>
-        <li className="flex">
-          <a
-            href={brandLinks.airFryerEbook}
-            className={`${CARD} min-h-[120px] justify-center gap-2.5 bg-marinho p-4 text-white md:min-h-[200px] md:gap-3 md:p-6`}
-          >
-            <span className="text-xs font-bold text-amarelo-cupom">Em preparação</span>
-            <h3 className="font-condensada text-2xl leading-none font-black text-amarelo-cupom font-stretch-extra-condensed md:text-[32px]">
-              E-book Air Fryer
-            </h3>
-            <p className="text-[13px] leading-[19px] font-semibold md:text-[15px] md:leading-[22px] md:font-medium">
-              Guia com receitas práticas para a air fryer.
-            </p>
-            <span className="flex min-h-11 items-center justify-center rounded-lg border-2 border-amarelo-cupom bg-amarelo-cupom px-5 text-[13px] font-extrabold text-marinho md:self-start md:rounded-[10px] md:text-sm">
-              Avise-me
-            </span>
-          </a>
+        <li className="revela flex min-w-0 md:col-span-2" style={{ '--i': 1 } as CSSProperties}>
+          {carousel.length > 0 ? (
+            <div className="flex min-w-0 flex-1 flex-col gap-3 rounded-xl border-2 border-marinho bg-amarelo-cupom py-4 text-marinho md:gap-4 md:rounded-[14px] md:py-6">
+              <OfferCarousel
+                items={carousel}
+                heading={
+                  <div className="flex min-w-0 flex-col gap-1.5 md:gap-2">
+                    <h3 className="font-condensada text-2xl leading-none font-black font-stretch-extra-condensed md:text-[32px]">
+                      Dicas & Ofertas
+                    </h3>
+                    <p className="text-[13px] leading-[19px] font-semibold md:text-[15px] md:leading-[22px] md:font-medium">
+                      {DICAS_TEXT}
+                    </p>
+                  </div>
+                }
+              />
+              <Link
+                href={brandLinks.dicas}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={`mx-4 flex min-h-11 items-center justify-center rounded-[10px] border-2 border-marinho bg-white px-5 text-sm font-extrabold hover:bg-marinho hover:text-white motion-safe:transition-colors md:mx-6 md:self-start ${FOCUS_RING}`}
+              >
+                Ver todas as ofertas
+              </Link>
+            </div>
+          ) : (
+            <Link
+              href={brandLinks.dicas}
+              target="_blank"
+              rel="noopener noreferrer"
+              className={`${CARD} min-h-[120px] justify-center gap-1.5 bg-amarelo-cupom p-4 text-marinho md:min-h-[200px] md:gap-3 md:p-6`}
+            >
+              <h3 className="font-condensada text-2xl leading-none font-black font-stretch-extra-condensed md:text-[32px]">
+                Dicas & Ofertas
+              </h3>
+              <p className="text-[13px] leading-[19px] font-semibold md:text-[15px] md:leading-[22px] md:font-medium">
+                {DICAS_TEXT}
+              </p>
+              <span className="mt-1 hidden min-h-11 items-center self-start rounded-[10px] border-2 border-marinho bg-white px-5 text-sm font-extrabold md:inline-flex">
+                Ver ofertas
+              </span>
+            </Link>
+          )}
         </li>
       </ul>
     </HomeSection>

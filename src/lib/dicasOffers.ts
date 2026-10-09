@@ -94,8 +94,8 @@ export function parseDicasOffers(data: unknown): Offer[] {
   return [...offers.values()].slice(0, OFFER_LIMIT);
 }
 
-// Sem o feed (fora do ar, lento, resposta errada ou vazio), a home não mostra a seção: não há
-// oferta reserva.
+// Sem o feed (fora do ar, lento, resposta errada ou vazio), o card do Dicas & Ofertas da home volta a
+// ser só o link: não há oferta reserva.
 export async function getFeaturedOffers(): Promise<Offer[]> {
   try {
     const response = await fetch(DICAS_OFFERS_URL, {
@@ -106,4 +106,18 @@ export async function getFeaturedOffers(): Promise<Offer[]> {
   } catch {
     return [];
   }
+}
+
+// Oferta com foto: só essas entram no carrossel, que mostra a foto e o preço e mais nada.
+export type OfferWithImage = Offer & { image: string };
+
+export function getCarouselOffers(offers: readonly Offer[]): OfferWithImage[] {
+  return offers.filter((offer): offer is OfferWithImage => Boolean(offer.image));
+}
+
+// O desconto do selo, em pontos inteiros: só com o preço antigo maior que o atual e acima de 5%.
+export function getOfferDiscountPercent({ originalPrice, discountPrice }: Pick<Offer, 'originalPrice' | 'discountPrice'>): number {
+  if (discountPrice <= 0 || originalPrice <= discountPrice) return 0;
+  const percent = Math.round((1 - discountPrice / originalPrice) * 100);
+  return percent > 5 ? percent : 0;
 }

@@ -704,7 +704,8 @@ esta lista:
   - a página da data entra no sitemap sem `<lastmod>`. Ela ganha o da subpágina junto com a edição
     de verdade: está em "Para pôr a Black Friday no ar", no plano da Fase 4.
 - **Pedido do Bruno (08/10), numa fase a combinar:** as bolinhas viram um carrossel e as lojas
-  entram na ordem do artigo mais novo de cada uma. A Cecília fica sempre em primeiro. Loja sem
+  entram na ordem do artigo mais novo de cada uma (a troca automática caiu em 09/10, na D2.1; a
+  ordem pelo artigo mais novo segue pendente). A Cecília fica sempre em primeiro. Loja sem
   artigo fica no fim, na ordem de `couponsData.ts`. A ordem sai dos dados, então muda sozinha a
   cada artigo publicado.
   - Ordem com os artigos de 08/10: DAMIE, Insider, Dolce Gusto, Nestlé Nutre, I Wanna Sleep,
@@ -770,4 +771,4 @@ Respondidas depois da revisão do código:
   links dele.
 - **K.** (08/10, depois da Fase 3a) Na fase do carrossel das bolinhas, a vitrine abre sempre na
   DAMIE e troca de loja sozinha, para a direita, até a pessoa mexer nas bolinhas. Não há início
-  aleatório.
+  aleatório. **Sem efeito desde 09/10** (spec da D2.1, decisão 8): as bolinhas não avançam sozinhas.

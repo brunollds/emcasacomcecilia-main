@@ -5,7 +5,7 @@ import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { getActiveCoupons, getCouponBySlug } from '@/lib/couponsData';
 import { getCouponStorePath, getTranslatedCouponRoutes } from '@/lib/couponTranslations';
 import { getStoreArticlePageSlugs, getStoreArticlesPage, getStoreArticlesPath } from '@/lib/homeStores';
-import { getEventHubPaths } from '@/lib/homeEvents';
+import { getEventHubPage, getEventHubPaths } from '@/lib/homeEvents';
 import { YESSTYLE_LOCALES } from '@/lib/i18n/clusters/yesstyle';
 import { REVIEW_HUB_LOCALES, getReviewHubPath } from '@/lib/review-hubs';
 import { getLatestYesStyleVerifiedAtISO } from '@/lib/yesstyleCoupons';
@@ -59,12 +59,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: newestDate(getStoreArticlesPage(publishedReviews, slug)?.articles ?? []),
   }));
 
-  // Página fixa de cada data comercial com edição em content/home-events.json (fora do menu).
-  const eventHubRoutes: MetadataRoute.Sitemap = getEventHubPaths(homeEventsConfig, publishedReviews).map((path) => ({
-    url: `${BASE_URL}${path}`,
-    priority: 0.7,
-    changeFrequency: 'weekly' as const,
-  }));
+  // Página fixa de cada data comercial com edição em content/home-events.json (fora do menu), com a
+  // data do artigo mais novo da edição que a página mostra.
+  const eventHubRoutes: MetadataRoute.Sitemap = getEventHubPaths(homeEventsConfig, publishedReviews).map((path) => {
+    const page = getEventHubPage(homeEventsConfig, publishedReviews, path.slice(1), new Date());
+    const slugs = new Set(page?.cards.map((card) => card.slug));
+    return {
+      url: `${BASE_URL}${path}`,
+      priority: 0.7,
+      changeFrequency: 'weekly' as const,
+      lastModified: newestDate(publishedReviews.filter((review) => slugs.has(review.slug))),
+    };
+  });
 
   const couponRoutes: MetadataRoute.Sitemap = getActiveCoupons().map((coupon) => ({
     url: `${BASE_URL}/cupons/${coupon.slug}`,

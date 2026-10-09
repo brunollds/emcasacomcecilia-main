@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useRef, useState, useSyncExternalStore, type KeyboardEvent, type ReactNode } from 'react';
+import { useState, useSyncExternalStore, type CSSProperties, type ReactNode } from 'react';
 import Image from 'next/image';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
@@ -9,6 +9,7 @@ import { asSentence } from '@/components/coupons/CouponBlocks';
 import { getCouponCopyLabels } from '@/components/review/couponCopyLocale';
 import { TrackedCouponPageLink } from '@/components/review/TrackedCouponPageLink';
 import { TrackedHomeLink } from '@/components/TrackedHomeLink';
+import { HomeStoreStrip, StoreMark, type TabDirection } from '@/components/sections/HomeStoreStrip';
 import { FOCUS_RING, FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
 import { trackEvent } from '@/lib/analytics';
 import {
@@ -16,7 +17,6 @@ import {
   getDefaultTabId,
   getHomeStoreSelectParameters,
   getTabAnchor,
-  getTabOrder,
   parseTabHash,
   type HomeStoreArticle,
   type HomeStoreTab,
@@ -26,9 +26,9 @@ const COPY_LABELS = getCouponCopyLabels('pt');
 // Foco dentro de caixas com overflow escondido: a borda fica para dentro, senão é cortada.
 const FOCUS_INSET = 'focus-visible:outline-3 focus-visible:-outline-offset-3 focus-visible:outline-marinho';
 const TEXT_LINK = `flex min-h-11 items-center text-sm text-marinho underline underline-offset-[3px] ${FOCUS_RING}`;
-// Entrada da aba, como no canvas: o painel sai do display:none e o @starting-style anima a volta.
-const PANEL_ENTER =
-  'motion-safe:transition-[opacity,translate] motion-safe:duration-400 motion-safe:ease-[cubic-bezier(0.2,0.8,0.2,1)] motion-safe:starting:translate-y-2 motion-safe:starting:opacity-30';
+// Na troca de aba, o painel novo sai do display:none e entra 48 px pelo lado da bolinha escolhida
+// (.painel-entra e .carimbo no globals.css, por @starting-style).
+const PANEL_SHIFT_PX = 48;
 
 // A aba aberta vive no hash da URL. O replaceState não dispara hashchange, então a troca avisa por
 // um evento próprio, como o filtro de /reviews.
@@ -51,77 +51,35 @@ type HomeStoreStoriesProps = {
 
 export function HomeStoreStories({ tabs, ceciliaPanel, ceciliaPhoto }: HomeStoreStoriesProps) {
   const storeSlugs = tabs.map(({ slug }) => slug);
-  const order = getTabOrder(storeSlugs);
   const defaultTab = getDefaultTabId(storeSlugs);
   const selected = useSyncExternalStore(
     subscribeToTab,
     () => parseTabHash(window.location.hash, storeSlugs) ?? defaultTab,
     () => defaultTab
   );
-  // A animação de entrada só depois da primeira troca: a aba que abre com a página não anima.
-  const [switched, setSwitched] = useState(false);
-  const stripRef = useRef<HTMLDivElement>(null);
-  const tabRefs = useRef(new Map<string, HTMLButtonElement>());
+  // O lado de entrada da última troca. A aba que abre com a página não anima: null até a primeira.
+  const [entryFrom, setEntryFrom] = useState<TabDirection | null>(null);
 
-  // No celular as bolinhas rolam na horizontal: a escolhida vem para o meio da faixa.
-  useEffect(() => {
-    const strip = stripRef.current;
-    const tab = tabRefs.current.get(selected);
-    if (!strip || !tab || strip.scrollWidth <= strip.clientWidth) return;
-    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    strip.scrollTo({
-      left: tab.offsetLeft - (strip.clientWidth - tab.offsetWidth) / 2,
-      behavior: reduceMotion ? 'auto' : 'smooth',
-    });
-  }, [selected]);
-
-  function select(tabId: string) {
+  function select(tabId: string, direction: TabDirection) {
     if (tabId === selected) return;
     window.history.replaceState(null, '', `#${getTabAnchor(tabId)}`);
     window.dispatchEvent(new Event(TAB_CHANGE_EVENT));
-    setSwitched(true);
+    setEntryFrom(direction);
     trackEvent('home_store_select', getHomeStoreSelectParameters(tabId));
   }
 
-  // Padrão de abas: setas andam (e voltam ao começo), Home e End vão às pontas.
-  function onTabKeyDown(event: KeyboardEvent<HTMLButtonElement>) {
-    const at = order.indexOf(selected);
-    const moves: Partial<Record<string, number>> = { ArrowRight: at + 1, ArrowLeft: at - 1, Home: 0, End: order.length - 1 };
-    const target = moves[event.key];
-    if (target === undefined) return;
-    event.preventDefault();
-    const next = order[(target + order.length) % order.length];
-    select(next);
-    tabRefs.current.get(next)?.focus();
-  }
-
-  function registerTab(tabId: string, node: HTMLButtonElement | null) {
-    if (node) tabRefs.current.set(tabId, node);
-    else tabRefs.current.delete(tabId);
-  }
-
-  const panelClass = switched ? PANEL_ENTER : undefined;
+  const panelClass = entryFrom === null ? undefined : 'painel-entra';
+  const entryStyle =
+    entryFrom === null ? undefined : ({ '--painel-de': `${entryFrom * PANEL_SHIFT_PX}px` } as CSSProperties);
 
   return (
+    // O overflow-x-clip segura o painel que entra de lado: sem ele, a página rolaria na horizontal.
     <section
       aria-label="A Cecília e as lojas parceiras"
-      className="mx-auto flex w-full max-w-[1200px] flex-col gap-3.5 px-4 pt-3.5 md:gap-[22px] md:px-10 md:pt-8"
+      style={entryStyle}
+      className="mx-auto flex w-full max-w-[1200px] flex-col gap-3.5 overflow-x-clip px-4 pt-3.5 md:gap-[22px] md:px-10 md:pt-8"
     >
-      <div
-        ref={stripRef}
-        role="tablist"
-        aria-label="Escolha a Cecília ou uma loja"
-        className="relative -mx-4 flex gap-2.5 overflow-x-auto px-4 pt-1.5 pb-2 [scrollbar-width:none] md:mx-0 md:flex-wrap md:gap-3.5 md:overflow-visible md:px-0"
-      >
-        <StoreBubble tabId={CECILIA_TAB_ID} name="Cecília" dark selected={selected === CECILIA_TAB_ID} onSelect={select} onKeyDown={onTabKeyDown} register={registerTab}>
-          <Image src={ceciliaPhoto} alt="" fill sizes="(min-width: 768px) 80px, 68px" className="object-cover" />
-        </StoreBubble>
-        {tabs.map((tab) => (
-          <StoreBubble key={tab.slug} tabId={tab.slug} name={tab.brand} selected={selected === tab.slug} onSelect={select} onKeyDown={onTabKeyDown} register={registerTab}>
-            <StoreMark tab={tab} imageClassName="h-[46%] w-[64%]" sizes="52px" />
-          </StoreBubble>
-        ))}
-      </div>
+      <HomeStoreStrip tabs={tabs} ceciliaPhoto={ceciliaPhoto} selected={selected} onSelect={select} />
 
       <div
         id={`painel-${getTabAnchor(CECILIA_TAB_ID)}`}
@@ -145,62 +103,6 @@ export function HomeStoreStories({ tabs, ceciliaPanel, ceciliaPhoto }: HomeStore
         </div>
       ))}
     </section>
-  );
-}
-
-type StoreBubbleProps = {
-  tabId: string;
-  name: string;
-  selected: boolean;
-  dark?: boolean;
-  onSelect: (tabId: string) => void;
-  onKeyDown: (event: KeyboardEvent<HTMLButtonElement>) => void;
-  register: (tabId: string, node: HTMLButtonElement | null) => void;
-  children: ReactNode;
-};
-
-function StoreBubble({ tabId, name, selected, dark, onSelect, onKeyDown, register, children }: StoreBubbleProps) {
-  const anchor = getTabAnchor(tabId);
-
-  return (
-    <button
-      ref={(node) => register(tabId, node)}
-      id={anchor}
-      type="button"
-      role="tab"
-      aria-selected={selected}
-      aria-controls={`painel-${anchor}`}
-      tabIndex={selected ? 0 : -1}
-      onClick={() => onSelect(tabId)}
-      onKeyDown={onKeyDown}
-      className={`group flex w-20 shrink-0 scroll-mt-40 flex-col items-center gap-2 rounded-lg pt-1.5 text-marinho md:w-[92px] ${FOCUS_RING}`}
-    >
-      <span
-        className={`relative flex size-[68px] items-center justify-center overflow-hidden rounded-full motion-safe:group-hover:scale-106 motion-safe:transition-transform motion-safe:duration-250 md:size-20 ${
-          dark ? 'bg-marinho' : 'bg-creme'
-        } ${
-          selected
-            ? 'shadow-[0_0_0_4px_var(--color-amarelo-cupom),0_0_0_6px_var(--color-marinho)]'
-            : 'shadow-[0_0_0_2px_var(--color-marinho)]'
-        }`}
-      >
-        {children}
-      </span>
-      <span className="text-center text-xs leading-tight font-bold">{name}</span>
-    </button>
-  );
-}
-
-// Logo da loja ou, sem ele, as iniciais (brandIcon). Decorativo: o nome está ao lado.
-function StoreMark({ tab, imageClassName, sizes }: { tab: HomeStoreTab; imageClassName: string; sizes: string }) {
-  return tab.logo ? (
-    <span className={`relative ${imageClassName}`}>
-      <Image src={tab.logo} alt="" fill sizes={sizes} className="object-contain" />
-    </span>
-  ) : (
-    <span aria-hidden="true" className="font-condensada text-xl font-black text-marinho font-stretch-extra-condensed">
-      {tab.initials}
-    </span>
   );
 }
 
@@ -229,7 +131,7 @@ function CodeBanner({ tab }: { tab: HomeStoreTab }) {
   return (
     <section
       aria-labelledby={titleId}
-      className="grid overflow-hidden rounded-[14px] border-2 border-marinho shadow-[0_4px_0_var(--color-marinho)] md:grid-cols-2 lg:shadow-[0_6px_0_var(--color-marinho)]"
+      className="carimbo grid overflow-hidden rounded-[14px] border-2 border-marinho shadow-[0_4px_0_var(--color-marinho)] md:grid-cols-2 lg:shadow-[0_6px_0_var(--color-marinho)]"
     >
       <div className="relative flex items-center gap-3.5 border-b-[3px] border-dashed border-marinho bg-laranja p-4 md:gap-5 md:border-r-[3px] md:border-b-0 md:px-7 md:py-6">
         <span className="relative flex size-16 shrink-0 items-center justify-center overflow-hidden rounded-full border-2 border-marinho bg-creme md:size-[88px]">

@@ -1,3 +1,4 @@
+import type { CSSProperties } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { Play } from 'lucide-react';
@@ -41,8 +42,12 @@ export function LatestVideos({ videos }: { videos: SocialHighlight[] }) {
     <HomeSection id="titulo-ultimos-videos" title="Últimos vídeos" className="pb-10 md:pb-14">
       {/* O py-1.5 e o recuo de 1,5 nas laterais dão espaço ao anel de foco, que fica fora do card. */}
       <ScrollRow className="hide-scrollbar -mx-4 flex snap-x snap-mandatory scroll-px-4 gap-3 overflow-x-auto px-4 py-1.5 md:-mx-1.5 md:scroll-px-1.5 md:gap-4 md:px-1.5 lg:mx-0 lg:grid lg:grid-cols-6 lg:overflow-visible lg:p-0">
-        {videos.slice(0, 6).map((video) => (
-          <li key={video.id} className="flex w-40 shrink-0 snap-start md:w-48 lg:w-auto">
+        {videos.slice(0, 6).map((video, index) => (
+          <li
+            key={video.id}
+            className="revela flex w-40 shrink-0 snap-start md:w-48 lg:w-auto"
+            style={{ '--i': index } as CSSProperties}
+          >
             <Link
               href={video.url}
               target="_blank"
