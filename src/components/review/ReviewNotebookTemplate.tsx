@@ -214,7 +214,9 @@ export function ReviewNotebookTemplate({
   const sectionIds = generateSectionIds(review.contentSections || []);
   const filteredHeadings: string[] = ['Veredito'];
 
-  const tocItems = (review.contentSections || [])
+  // As seções com título que o ReviewContentSections mostra (nos guias, os passos ficam com o
+  // GuideTimeline): entram no sumário e recebem as notas ancoradas nelas.
+  const bodySections = (review.contentSections || [])
     .filter((section) => (
       section.heading &&
       !filteredHeadings.includes(section.heading) &&
@@ -225,6 +227,7 @@ export function ReviewNotebookTemplate({
       heading: section.heading || '',
     }))
     .filter((item) => item.id);
+  const tocItems = [...bodySections];
 
   // Add "Veredito final" to TOC if the verdict section will render
   const hasVerdictStars = Boolean(review.verdict?.stars);
@@ -279,10 +282,12 @@ export function ReviewNotebookTemplate({
     ? (review.contentSections || []).slice(firstStepIndex).filter((s) => !isStepHeading(s.heading))
     : [];
 
-  // Separate notes into anchored and unanchored
-  // Exclude both section-id anchored notes and line-anchored notes (which belong to margin rails)
+  // A nota ancorada numa seção do corpo sai no título dela, e a de linha, na margem. As outras saem no
+  // topo, inclusive a ancorada numa seção que o corpo não mostra (veredito, passo do guia). A âncora é
+  // um id; o sectionIds é indexado pelo título.
   const notes = review.notes || [];
-  const unanchoredNotes = notes.filter((note) => !note.anchor || (!sectionIds.has(note.anchor) && !isLineAnchor(note.anchor)));
+  const bodySectionIds = new Set(bodySections.map(({ id }) => id));
+  const unanchoredNotes = notes.filter((note) => !note.anchor || (!bodySectionIds.has(note.anchor) && !isLineAnchor(note.anchor)));
 
   return (
     <>
