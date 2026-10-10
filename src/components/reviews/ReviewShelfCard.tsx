@@ -55,7 +55,7 @@ function Photo({
       fill
       sizes={sizes}
       loading={eager ? 'eager' : 'lazy'}
-      fetchPriority={eager ? 'high' : 'auto'}
+      fetchPriority={eager ? 'high' : undefined}
       className={`motion-safe:transition-transform motion-safe:duration-700 motion-safe:ease-out motion-safe:group-hover:scale-105 ${
         contain ? `bg-white object-contain ${compact ? 'p-1' : 'p-3'}` : 'object-cover'
       }`}
@@ -102,11 +102,6 @@ export function ReviewShelfCard({
         className="relative block aspect-[4/3] overflow-hidden rounded-t-lg border-b-2 border-marinho bg-creme"
       >
         <Photo article={article} sizes={imageSizes} eager={eager} />
-        {showNewBadge && article.isNew ? (
-          <span className="absolute top-2 left-2 rounded-full border-2 border-marinho bg-laranja px-2.5 py-0.5 text-[11px] font-extrabold text-marinho">
-            Novo
-          </span>
-        ) : null}
       </span>
       <span className="flex flex-1 flex-col gap-1.5 p-3">
         <span className="text-xs font-bold text-marinho-suave">{`${article[dateFormat]}, ${article.type}`}</span>
@@ -114,6 +109,13 @@ export function ReviewShelfCard({
       </span>
       {showStore && article.store ? (
         <span className="rounded-b-lg border-t-2 border-marinho bg-creme px-3 py-2 text-xs font-bold">{article.store}</span>
+      ) : null}
+      {/* Último filho do link: o nome acessível começa pela data e pelo título, não por "Novo". Fica no canto
+          da foto por posição absoluta, em relação ao link. */}
+      {showNewBadge && article.isNew ? (
+        <span className="absolute top-2 left-2 z-10 rounded-full border-2 border-marinho bg-laranja px-2.5 py-0.5 text-[11px] font-extrabold text-marinho">
+          Novo
+        </span>
       ) : null}
     </ViewTransitionLink>
   );

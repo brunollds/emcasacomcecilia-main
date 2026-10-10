@@ -5,6 +5,7 @@ import { AppRouterContext } from 'next/dist/shared/lib/app-router-context.shared
 import { imageConfigDefault, type ImageConfigComplete, type RemotePattern } from 'next/dist/shared/lib/image-config';
 import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.shared-runtime';
 
+import { ViewTransitionLink } from '@/components/ViewTransitionLink';
 import { ReviewShelfCard, ReviewShelfRow } from '@/components/reviews/ReviewShelfCard';
 import { ReviewsNewRow } from '@/components/reviews/ReviewsNewRow';
 import { ReviewsStoreStrip } from '@/components/reviews/ReviewsStoreStrip';
@@ -451,9 +452,13 @@ assert.match(gridCard, /focus-visible:outline-marinho/);
 assert.ok(gridCard.includes('>09/10/2026, Guia<'), 'data com o ano e tipo');
 assert.ok(gridCard.includes('>DAMIE</span>'), 'loja embaixo');
 assert.ok(gridCard.includes('>Novo</span>'), 'selo Novo');
+// O selo é o último filho do link: o nome acessível começa pela data e pelo título, não por "Novo".
+assert.ok(gridCard.indexOf('>Novo</span>') > gridCard.indexOf('>Poltrona reclinável DAMIE</span>'), 'selo depois do título');
+assert.ok(gridCard.endsWith('>Novo</span></a>'), 'selo como último filho do link');
 assert.ok(gridCard.includes('data-vt-name="review-hero-poltrona-damie"'));
 assert.ok(!gridCard.includes('view-transition-name'), 'nome de transição no HTML');
 assert.match(gridCard, /<img [^>]*loading="lazy"/);
+assert.ok(!/fetchpriority/i.test(gridCard), 'foto lazy sem fetchpriority');
 assert.ok(!gridCard.includes('aria-hidden="true"'), 'cartão do acervo sem ímã');
 
 const noStore = render(
@@ -483,7 +488,9 @@ const newCard = render(
 );
 assert.ok(newCard.includes('>09/10, Guia<'));
 assert.ok(!newCard.includes('>Novo</span>'), 'selo Novo nas Novidades');
-assert.match(newCard, /<span aria-hidden="true" class="[^"]*bg-amarelo-cupom/);
+const magnet = newCard.match(/<span [^>]*bg-amarelo-cupom[^>]*>/)?.[0];
+assert.ok(magnet, 'ímã amarelo');
+assert.ok(magnet.includes('aria-hidden="true"'), 'ímã fora da leitura de tela');
 assert.match(newCard, /class="[^"]*-rotate-1/);
 assert.match(newCard, /<img [^>]*loading="eager"/);
 assert.match(newCard, /<img [^>]*fetchpriority="high"/i);
@@ -533,7 +540,141 @@ const tracked = render(
     'Ver todos'
   )
 );
-assert.match(tracked, /<a class="x" href="\/reviews">Ver todos<\/a>/);
+assert.match(tracked, /^<a [^>]*class="x"[^>]*>Ver todos<\/a>$/);
+assert.match(tracked, /^<a [^>]*href="\/reviews"[^>]*>/);
+
+// Cliques: medidos como reviews_route_click com o destino, o placement e o texto do link; o que outro
+// handler já cancelou não é medido. Os componentes rodam como função (nenhum usa hook) e o onClick do
+// elemento devolvido recebe um evento falso, com o window.gtag trocado por um espião.
+type ClickableElement = { props: { onClick?: (event: { defaultPrevented: boolean }) => void } };
+function gtagCallsOf({ props }: ClickableElement, event: { defaultPrevented: boolean } = { defaultPrevented: false }) {
+  const calls: unknown[][] = [];
+  Object.assign(globalThis, { window: { gtag: (...args: unknown[]) => calls.push(args) } });
+  try {
+    props.onClick?.(event);
+  } finally {
+    Reflect.deleteProperty(globalThis, 'window');
+  }
+  return calls;
+}
+
+const trackedLink = { href: '/reviews', placement: 'store_all_reviews', linkLabel: 'Ver todos' } as const;
+assert.deepEqual(gtagCallsOf(TrackedReviewsLink({ ...trackedLink, children: 'Ver todos' })), [
+  ['event', 'reviews_route_click', { destination: '/reviews', placement: 'store_all_reviews', link_label: 'Ver todos' }],
+]);
+assert.deepEqual(
+  gtagCallsOf(TrackedReviewsLink({ ...trackedLink, children: 'Ver todos' }), { defaultPrevented: true }),
+  [],
+  'clique cancelado não é medido'
+);
+// O onClick de quem usa o link roda antes da medição, e cancelar ali também impede a medição.
+const calledBefore: string[] = [];
+assert.deepEqual(
+  gtagCallsOf(
+    TrackedReviewsLink({
+      ...trackedLink,
+      children: 'Ver todos',
+      onClick: (event) => {
+        calledBefore.push('onClick');
+        Object.assign(event, { defaultPrevented: true });
+      },
+    }),
+    { defaultPrevented: false }
+  ),
+  []
+);
+assert.deepEqual(calledBefore, ['onClick']);
+
+assert.deepEqual(
+  gtagCallsOf(
+    ReviewShelfCard({ article: poltrona, placement: 'reviews_grid', dateFormat: 'fullDate', showStore: true, imageSizes: '270px' })
+  ),
+  [['event', 'reviews_route_click', { destination: '/reviews/poltrona-damie', placement: 'reviews_grid', link_label: 'Poltrona reclinável DAMIE' }]],
+  'clique no cartão'
+);
+assert.deepEqual(
+  gtagCallsOf(ReviewShelfRow({ article: article('magalu-1'), placement: 'store_list', showStore: false })),
+  [['event', 'reviews_route_click', { destination: '/reviews/magalu-1', placement: 'store_list', link_label: 'Título magalu-1' }]],
+  'clique na linha'
+);
+
+// Nome da foto na transição: só a foto do link clicado fica com ele. O mesmo artigo aparece nas Novidades e no
+// acervo, e a foto clicada antes (navegação cancelada ou página restaurada pelo bfcache) ainda guarda o nome:
+// se ele ficasse, as duas teriam o mesmo nome e a transição seria cancelada. Sem DOM aqui: o componente roda
+// dentro de um render do servidor só para entregar o handleClick, e document e window são falsos.
+type FakePhoto = {
+  dataset: { vtName: string };
+  style: { viewTransitionName: string; removeProperty(property: string): void };
+};
+function fakePhoto(name: string): FakePhoto {
+  const style = {
+    viewTransitionName: '',
+    removeProperty(property: string): void {
+      assert.equal(property, 'view-transition-name');
+      style.viewTransitionName = '';
+    },
+  };
+  return { dataset: { vtName: name }, style };
+}
+
+const pushed: string[] = [];
+let handleClick: ((event: unknown) => void) | undefined;
+function CaptureClick() {
+  handleClick = ViewTransitionLink({ href: '/reviews/agua', children: null }).props.onClick;
+  return null;
+}
+renderToStaticMarkup(
+  createElement(
+    AppRouterContext.Provider,
+    { value: { ...router, push: (href: string) => pushed.push(href) } },
+    createElement(CaptureClick)
+  )
+);
+assert.ok(handleClick, 'ViewTransitionLink entrega o handleClick');
+
+const novidadesPhoto = fakePhoto('review-hero-agua');
+const acervoPhoto = fakePhoto('review-hero-agua');
+const photos = [novidadesPhoto, acervoPhoto];
+function clickOn(photo: FakePhoto, modifiers: { ctrlKey?: boolean } = {}) {
+  let prevented = false;
+  handleClick?.({
+    metaKey: false,
+    ctrlKey: false,
+    shiftKey: false,
+    altKey: false,
+    button: 0,
+    ...modifiers,
+    target: { target: '' },
+    currentTarget: { querySelector: () => photo },
+    preventDefault: () => {
+      prevented = true;
+    },
+  });
+  return prevented;
+}
+
+Object.assign(globalThis, {
+  window: { matchMedia: () => ({ matches: false }) },
+  document: { querySelectorAll: () => photos, startViewTransition: (update: () => void) => update() },
+});
+try {
+  assert.equal(clickOn(novidadesPhoto), true, 'clique comum vira transição');
+  assert.equal(novidadesPhoto.style.viewTransitionName, 'review-hero-agua');
+  assert.equal(acervoPhoto.style.viewTransitionName, '', 'a gêmea fica sem nome');
+  assert.equal(clickOn(acervoPhoto), true);
+  assert.equal(acervoPhoto.style.viewTransitionName, 'review-hero-agua');
+  assert.equal(novidadesPhoto.style.viewTransitionName, '', 'o nome do clique anterior sai');
+  assert.deepEqual(pushed, ['/reviews/agua', '/reviews/agua']);
+
+  // Ctrl+clique abre em outra aba pelo navegador: nada de transição, nome nem navegação do roteador.
+  assert.equal(clickOn(novidadesPhoto, { ctrlKey: true }), false);
+  assert.equal(novidadesPhoto.style.viewTransitionName, '');
+  assert.equal(acervoPhoto.style.viewTransitionName, 'review-hero-agua');
+  assert.equal(pushed.length, 2);
+} finally {
+  Reflect.deleteProperty(globalThis, 'window');
+  Reflect.deleteProperty(globalThis, 'document');
+}
 
 // Novidades: título com o marca-texto, um cartão por artigo (revelado na rolagem), as duas primeiras fotos
 // sem atraso e as setas escondidas até o navegador medir a fila.

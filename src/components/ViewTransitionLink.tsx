@@ -35,6 +35,11 @@ export function ViewTransitionLink({
       e.preventDefault();
       // A foto do cartão (data-vt-name) só ganha o nome da transição agora: o mesmo artigo pode estar
       // duas vezes na página (Novidades e acervo de /reviews), e nomes repetidos cancelam a transição.
+      // Antes, tira o nome de toda foto que o guardou de um clique anterior (navegação cancelada ou
+      // página restaurada pelo bfcache), para que só a clicada fique com ele.
+      document.querySelectorAll<HTMLElement>('[data-vt-name]').forEach((photo) => {
+        photo.style.removeProperty('view-transition-name');
+      });
       const morph = e.currentTarget.querySelector<HTMLElement>('[data-vt-name]');
       if (morph?.dataset.vtName) morph.style.viewTransitionName = morph.dataset.vtName;
       // Note: router.push doesn't return a promise, so Chromium may cross-fade
