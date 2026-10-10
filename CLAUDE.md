@@ -29,7 +29,7 @@ npm run test:home-lower-sections  # receitas, Explore a casa (com o carrossel de
 npm run test:locale-home     # home de cada idioma (/en, /ja…): textos dos 9 idiomas, lojas, artigos, validade do certificado da YesStyle e o HTML das seções
 npm run test:home-route-tracking  # placements do home_route_click e o link das abas da vitrine (<a> comum)
 npm run test:html-lang       # depois do build: <html lang> de cada rota
-npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, a trilha de todo artigo (home do idioma, lista e artigo, igual ao JSON-LD, com o nome para o leitor de tela no idioma), a nota editorial no idioma do artigo, o nome da trilha das receitas, textos que citam o CECILIA010, a home, os cards de /reviews, as subpáginas de loja e as páginas de data (imagem e JSON-LD), a imagem de compartilhamento das páginas de loja e o noindex do /categorias, o marca-texto dos títulos da home, os cards revelados na rolagem e nada escondido por ela no HTML, o CSS da rolagem só com o movimento liberado (sem @media not … and …) e as homes de cada idioma (hreflang, JSON-LD, sem texto em português nem link de loja, menu e rodapé inclusive)
+npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, a trilha de todo artigo (home do idioma, lista e artigo, igual ao JSON-LD, com o nome para o leitor de tela no idioma), as notas editoriais da review, todas e no idioma do artigo, o nome da trilha das receitas, textos que citam o CECILIA010, a home, os cards de /reviews, as subpáginas de loja e as páginas de data (imagem e JSON-LD), a imagem de compartilhamento das páginas de loja e o noindex do /categorias, o marca-texto dos títulos da home, os cards revelados na rolagem e nada escondido por ela no HTML, o CSS da rolagem só com o movimento liberado (sem @media not … and …) e as homes de cada idioma (hreflang, JSON-LD, sem texto em português nem link de loja, menu e rodapé inclusive)
 ```
 
 `npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
@@ -133,8 +133,9 @@ vídeo, primeiras impressões e uso noturno.
   editorial) tem o texto nos 10 idiomas em `articleCopy.ts`, `galleryCopy.ts` (ambos em
   `src/components/review/`) e `shared/shareCopy.ts`; o dock e a sidebar seguem em `sidebarCopy.ts`.
   Texto novo no artigo vai nesses arquivos, nunca solto no JSX. A nota editorial
-  (`EditorialNotePill`, nos componentes de `src/components/editorial/`) recebe o `locale` do artigo e
-  cai no PT sem ele, como nas receitas. O nome da trilha é o mesmo das páginas de loja
+  (`EditorialNotePill`, nos componentes de `src/components/editorial/`) é componente de cliente: o
+  template, no servidor, passa os rótulos prontos de `getEditorialNoteLabels`, obrigatórios (as
+  receitas passam os do PT). O nome da trilha é o mesmo das páginas de loja
   (`couponStoreCopy.tsx`), e o `test:review-i18n` confere. O `test:review-i18n` barra campo igual ao
   português (salvo a lista de palavras iguais nas duas línguas) e o `test:build-output` barra texto
   em português nas páginas fora do PT e confere o veredito da sidebar e o `<head>` (canonical e
