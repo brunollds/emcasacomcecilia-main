@@ -13,6 +13,7 @@ import { brandLinks, socialMedias } from '../src/lib/brandLinks';
 import { CECILIA_FULL_NAME } from '../src/lib/ceciliaCredentials';
 import type { EditorialNoteData, Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
+import { isLineAnchor } from '../src/lib/pretext/lineAnchorCodec';
 import { getAllActiveCouponSlugs, getCouponBySlug, getStoreCodeKind } from '../src/lib/couponsData';
 import {
   getCouponLanguageLinks,
@@ -605,15 +606,30 @@ for (const url of articleUrls) {
     getArticleCopy(locale).breadcrumbLabel,
     `${pagePath}: nome da trilha para o leitor de tela fora do idioma do artigo`
   );
-  // Cada nota da review aparece uma vez, com o título do idioma, e nenhuma outra. O Review legado de
-  // data.ts não declara as notas, que vêm no índice.
+  // O id de cada seção sai do título (generateSectionIds, indexado pelo título): dois títulos iguais dão
+  // o mesmo id às duas seções, e o sumário e a nota ancorada nelas se confundem.
+  const headings = (review.contentSections ?? []).map((section) => section.heading).filter(Boolean);
+  assert.equal(new Set(headings).size, headings.length, `${pagePath}: seções com o mesmo título`);
+  // Cada nota da review aparece uma vez, com o título do idioma, e nenhuma outra; com rótulos repetidos,
+  // uma nota em dobro esconderia outra faltando. O Review legado de data.ts não declara as notas, que vêm
+  // no índice.
   const noteTitle = getArticleCopy(locale).editorialNoteTitle;
   const notes = (review as { notes?: EditorialNoteData[] }).notes ?? [];
+  const noteLabels = notes.map((note) => `${noteTitle}: ${note.label}`);
+  assert.equal(new Set(noteLabels).size, noteLabels.length, `${pagePath}: notas editoriais com o mesmo rótulo`);
   assert.deepEqual(
     editorialNoteLabelsIn(body).sort(),
-    notes.map((note) => `${noteTitle}: ${note.label}`).sort(),
+    [...noteLabels].sort(),
     `${pagePath}: nota editorial fora do idioma do artigo, faltando ou repetida`
   );
+  // A nota ancorada numa seção que a página mostra sai dentro dela, e não no topo.
+  for (const [index, note] of notes.entries()) {
+    if (!note.anchor || isLineAnchor(note.anchor)) continue;
+    const start = body.search(new RegExp(`<section\\b[^>]*\\bid="${note.anchor}"`));
+    if (start < 0) continue;
+    const section = body.slice(start, body.indexOf('</section>', start));
+    assert.ok(editorialNoteLabelsIn(section).includes(noteLabels[index]), `${pagePath}: nota "${note.label}" fora da seção ${note.anchor}`);
+  }
   if (notes.length) notedArticles++;
 
   // O <head> de um artigo de família: canonical da própria página e hreflang dos 10 idiomas, com x-default no inglês.
