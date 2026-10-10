@@ -27,12 +27,14 @@ import { getReviewsHubContent, getStoreShelfContent, type HubReview } from '@/li
 import {
   GRID_PAGE_SIZE,
   LIST_PAGE_SIZE,
+  SEARCH_WRITE_DELAY_MS,
   countLabel,
   draftValue,
   emptySearchMessage,
   filterShelf,
   firstPage,
   foldSearchText,
+  freshDraft,
   getEmptySearchAction,
   getReviewsRouteClickParameters,
   getShelfControlParameters,
@@ -881,7 +883,7 @@ assert.equal(searchWriteDelay(draft.text), 0, 'campo vazio grava na hora');
 draft = typed('x', 'abc');
 assert.equal(draftValue(draft, 'abc'), 'x', 'a letra rápida fica no campo');
 assert.equal(isSearchWriteDue(draft, 'abc'), true);
-assert.equal(searchWriteDelay(draft.text), 120);
+assert.equal(searchWriteDelay(draft.text), SEARCH_WRITE_DELAY_MS);
 draft = rebaseDraft(draft, 'x');
 assert.equal(draftValue(draft, 'x'), 'x');
 // a, b, c rápido, a transição no meio: a gravação de "a" é descartada (stale no efeito) e o campo segue com
@@ -895,6 +897,25 @@ assert.equal(isSearchWriteDue(draft, 'ab'), true);
 // Espaços nas pontas não pedem gravação nova.
 assert.equal(isSearchWriteDue(typed('abc ', 'abc'), 'abc'), false);
 assert.equal(isSearchWriteDue(typed(' ', ''), ''), false);
+// Voltar menos de 120 ms depois de uma tecla (E0 e E1 com q ''): o rascunho "sono" ainda espera a gravação e
+// o q da URL não muda, então nada o descartaria. O popstate troca o rascunho por um novo, em dia com a
+// entrada: nada a gravar e o campo mostra o q dela.
+draft = typed('sono', '');
+assert.equal(isSearchWriteDue(draft, ''), true, 'antes do Voltar: gravação pendente');
+draft = freshDraft('');
+assert.deepEqual(draft, { text: '', base: '' });
+assert.equal(isSearchWriteDue(draft, ''), false, 'depois do Voltar: nada a gravar na entrada antiga');
+assert.equal(draftValue(draft, ''), '');
+assert.equal(isSearchWriteDue(freshDraft('sono'), 'sono'), false);
+// Um texto que não sobrevive à URL (surrogate solto vira U+FFFD) não pode fazer o efeito gravar em laço: a
+// segunda gravação devolve o mesmo rascunho, o setDraft não re-renderiza e o efeito não roda de novo.
+const loose = typed('\ud800', '');
+const looseQ = readShelfQuery(withShelfQuery('', query({ q: loose.text })), ALL, true).q;
+assert.notEqual(looseQ, loose.text, 'o surrogate solto não sobrevive à URL');
+const looseRebased = rebaseDraft(loose, looseQ);
+assert.deepEqual(looseRebased, { text: loose.text, base: looseQ });
+assert.equal(rebaseDraft(looseRebased, looseQ), looseRebased, 'mesma base: mesma referência');
+assert.equal(rebaseDraft(draft, ''), draft, 'rebase sem mudança devolve o próprio rascunho');
 
 // Sem campo de busca (subpágina), o ?q= digitado à mão na URL é ignorado; categoria e ordem continuam.
 assert.equal(readShelfQuery('?q=poltrona', ALL, true).q, 'poltrona');

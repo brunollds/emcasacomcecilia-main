@@ -31,6 +31,7 @@ import {
   filterShelf,
   firstPage,
   foldSearchText,
+  freshDraft,
   getEmptySearchAction,
   getShelfControlParameters,
   getShelfSearchParameters,
@@ -258,7 +259,7 @@ export function ReviewsBrowser({
   const shown = results.slice(0, visible);
 
   // O texto do campo: o que a pessoa digita, até a URL mudar por outro caminho (Voltar, Avançar).
-  const [draft, setDraft] = useState<SearchDraft>({ text: query.q, base: query.q });
+  const [draft, setDraft] = useState<SearchDraft>(() => freshDraft(query.q));
   const inputValue = draftValue(draft, query.q);
 
   const shelfRef = useRef<HTMLDivElement>(null);
@@ -266,6 +267,7 @@ export function ReviewsBrowser({
   const listRef = useRef<HTMLUListElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
   const focusFrom = useRef<number | null>(null);
+  const focusAfterWrite = useRef(false);
   const restored = useRef(false);
   const lastTrackedSearch = useRef<string | null>(null);
 
@@ -275,21 +277,38 @@ export function ReviewsBrowser({
   // caminho, o efeito é refeito, esta gravação (com o texto velho) é descartada e a do texto novo é
   // agendada. Quando a gravação entra, o rascunho passa a ter como base o q gravado (no mesmo update),
   // para Voltar e Avançar mostrarem sempre o q da URL e a busca não voltar sozinha numa entrada antiga.
+  // O Enter no toque com a gravação pendente (focusAfterWrite) espera aqui: o foco só vai ao título depois
+  // que a busca entrou na tela e a vitrine saiu; o flush de dentro garante o DOM pronto antes do foco.
   useEffect(() => {
     if (!isSearchWriteDue(draft, query.q)) return;
     let stale = false;
     const timer = window.setTimeout(() => {
       runShelfTransition(shelfRef.current, () => {
         if (stale) return;
-        const written = writeUrl((latest) => ({ ...latest, q: draft.text }), readQuery, 'replace');
-        setDraft((current) => rebaseDraft(current, written.q));
+        const focusResultsAfter = focusAfterWrite.current;
+        focusAfterWrite.current = false;
+        flushSync(() => {
+          const written = writeUrl((latest) => ({ ...latest, q: draft.text }), readQuery, 'replace');
+          setDraft((current) => rebaseDraft(current, written.q));
+        });
+        if (focusResultsAfter) titleRef.current?.focus();
       });
     }, searchWriteDelay(draft.text));
     return () => {
       stale = true;
+      focusAfterWrite.current = false;
       window.clearTimeout(timer);
     };
   }, [draft, query.q, readQuery]);
+
+  // Voltar e Avançar trocam a entrada do histórico: o que a pessoa digitou na anterior fica para trás. Sem
+  // isto, duas entradas com o mesmo q (uma categoria no meio) não mudam o query.q, o efeito acima não
+  // refaz e a gravação pendente cai na entrada que a pessoa acabou de abrir.
+  useEffect(() => {
+    const onPop = () => setDraft(freshDraft(readQuery(getUrlSearch()).q));
+    window.addEventListener('popstate', onPop);
+    return () => window.removeEventListener('popstate', onPop);
+  }, [readQuery, getUrlSearch]);
 
   // Quem volta de um artigo encontra a mesma página aberta. Só depois de ler a URL do navegador (no
   // render da hidratação vale a do servidor) e uma vez por montagem.
@@ -388,9 +407,13 @@ export function ReviewsBrowser({
             onSubmit={(event) => {
               // Sem JavaScript o Enter recarrega a lista com o ?q=; com ele, o campo já filtra. Com ponteiro
               // grosso (celular) o Enter fecha o teclado e leva o foco ao título da estante; no desktop o foco
-              // fica no campo.
+              // fica no campo. Com a gravação ainda pendente a vitrine está na tela: o foco espera a busca
+              // entrar (ver o efeito da busca), senão no iOS, sem scroll anchoring, a pessoa cai no meio dos
+              // resultados quando a vitrine sai.
               event.preventDefault();
-              if (window.matchMedia('(pointer: coarse)').matches) focusResults();
+              if (!window.matchMedia('(pointer: coarse)').matches) return;
+              if (isSearchWriteDue(draft, query.q)) focusAfterWrite.current = true;
+              else focusResults();
             }}
             className="mt-6 max-w-xl"
           >
@@ -405,7 +428,10 @@ export function ReviewsBrowser({
                 name="q"
                 type="search"
                 value={inputValue}
-                onChange={(event) => setDraft({ text: event.target.value, base: query.q })}
+                onChange={(event) => {
+                  focusAfterWrite.current = false;
+                  setDraft({ text: event.target.value, base: query.q });
+                }}
                 onKeyDown={(event) => {
                   if (event.key !== 'Escape' || !hasSearchText(inputValue)) return;
                   event.preventDefault();
@@ -581,7 +607,10 @@ export function ReviewsBrowser({
             </button>
           ) : null}
 
-          {footer}
+          {/* O rodapé vem do servidor e, no Flight, pode chegar como referência preguiçosa sem o selo de validado:
+              solto entre os irmãos, o React de desenvolvimento o confunde com item de lista sem key. Dentro do
+              Fragment é filho único, e o irmão (o Fragment) nasce aqui, já validado. */}
+          <>{footer}</>
         </div>
       </RevealSection>
     </>

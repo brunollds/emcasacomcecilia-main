@@ -164,9 +164,17 @@ export function searchWriteDelay(text: string): number {
 }
 
 // Quando a gravação entra, o rascunho passa a ter como base o q que ficou na URL: Voltar e Avançar mostram
-// sempre o q da entrada, e a busca não volta sozinha para uma entrada antiga.
+// sempre o q da entrada, e a busca não volta sozinha para uma entrada antiga. Com a base já igual devolve o
+// próprio rascunho: um texto que a URL não guarda como veio (surrogate solto vira U+FFFD) não faz o efeito
+// regravar em laço, porque o setDraft com o mesmo objeto não re-renderiza.
 export function rebaseDraft(draft: SearchDraft, writtenQ: string): SearchDraft {
-  return { text: draft.text, base: writtenQ };
+  return draft.base === writtenQ ? draft : { text: draft.text, base: writtenQ };
+}
+
+// O rascunho em dia com a URL: o campo mostra o q dela e nada espera gravação. É o de quando a página abre e
+// o que o Voltar/Avançar deixa, descartando o que a pessoa digitou na entrada anterior do histórico.
+export function freshDraft(urlQ: string): SearchDraft {
+  return { text: urlQ, base: urlQ };
 }
 
 // A query da página. Sem campo de busca (subpágina de loja) um ?q= digitado à mão não filtra: não haveria
