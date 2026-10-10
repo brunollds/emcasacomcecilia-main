@@ -256,6 +256,22 @@ const visibleTrailOf = (html: string, pagePath: string) => {
 };
 const schemaTrailOf = (breadcrumbList: { itemListElement: Array<{ name: string; item: string }> } | undefined) =>
   breadcrumbList?.itemListElement.map(({ name, item }) => ({ name, url: new URL(item).href }));
+// O nome que o leitor de tela dá a essa mesma trilha.
+const trailLabelOf = (html: string) =>
+  decodeHtml(html.match(/<nav\b([^>]*)><ol\b/)?.[1].match(/aria-label="([^"]*)"/)?.[1] ?? '');
+
+// Os rótulos da nota editorial ("Nota editorial: …", "Editorial note: …") num trecho de HTML.
+const EDITORIAL_NOTE_TITLES = new Set(LOCALE_KEYS.map((key) => getArticleCopy(key).editorialNoteTitle));
+const editorialNoteLabelsIn = (html: string) =>
+  [...html.matchAll(/aria-label="([^"]*)"/g)]
+    .map(([, label]) => decodeHtml(label))
+    .filter((label) => EDITORIAL_NOTE_TITLES.has(label.split(': ')[0]));
+assert.deepEqual(
+  editorialNoteLabelsIn('<button aria-label="Editorial note: Cecília&#x27;s tip"></button><nav aria-label="Sei qui">'),
+  ["Editorial note: Cecília's tip"],
+  'editorialNoteLabelsIn não acha o rótulo da nota'
+);
+assert.equal(trailLabelOf('<nav class="x" aria-label="Sei qui"><ol></ol></nav>'), 'Sei qui', 'trailLabelOf não acha o nome da trilha');
 
 // O cartão do X não mostra AVIF: a imagem de compartilhamento de loja, de subpágina e de data é JPG,
 // PNG, WebP ou GIF. As capas dos artigos ficam de fora desta regra.
@@ -577,12 +593,17 @@ for (const url of articleUrls) {
     crumbs,
     `${pagePath}: trilha do JSON-LD diferente da trilha na página`
   );
-  // O leitor de tela anuncia a trilha no idioma do artigo, com o nome que as páginas de loja usam.
-  const trailNav = body.slice(0, dialogStart).match(/<nav\b([^>]*)><ol\b/)?.[1] ?? '';
+  // O leitor de tela anuncia a trilha e a nota editorial no idioma do artigo; a trilha tem o nome
+  // que as páginas de loja usam.
   assert.equal(
-    decodeHtml(trailNav.match(/aria-label="([^"]*)"/)?.[1] ?? ''),
+    trailLabelOf(body.slice(0, dialogStart)),
     getArticleCopy(locale).breadcrumbLabel,
     `${pagePath}: nome da trilha para o leitor de tela fora do idioma do artigo`
+  );
+  assert.deepEqual(
+    editorialNoteLabelsIn(body).filter((label) => !label.startsWith(`${getArticleCopy(locale).editorialNoteTitle}: `)),
+    [],
+    `${pagePath}: nota editorial fora do idioma do artigo`
   );
 
   // O <head> de um artigo de família: canonical da própria página e hreflang dos 10 idiomas, com x-default no inglês.
@@ -619,6 +640,16 @@ for (const url of articleUrls) {
       `${pagePath}: gaveta sem o título "${drawerTitle}" no card do código`
     );
   }
+}
+
+// As receitas só existem em português; a trilha delas tem o mesmo nome da dos artigos.
+const recipeUrls = sitemapUrls.filter((url) => /^\/receitas\/[^/]+$/.test(new URL(url).pathname));
+assert.ok(recipeUrls.length > 0, 'sitemap.xml sem receitas');
+for (const url of recipeUrls) {
+  const pagePath = new URL(url).pathname;
+  const file = builtFile(url);
+  assert.ok(file, `${pagePath}: página não gerada no build`);
+  assert.equal(trailLabelOf(bodyOf(read(file))), getArticleCopy('pt').breadcrumbLabel, `${pagePath}: nome da trilha da receita`);
 }
 
 // A home de cada idioma (/en, /ja…):
