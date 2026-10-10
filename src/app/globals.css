@@ -212,17 +212,15 @@ html:lang(ja) {
   }
 }
 
-/* No celular as bolinhas entram da direita, uma depois da outra (--i é a posição na faixa). */
+/* No celular as bolinhas entram da direita, uma depois da outra (--i é a posição na faixa). Em /reviews e
+   nas subpáginas elas ficam num RevealSection abaixo da dobra: a entrada espera a seção chegar à tela e
+   começa de novo ao revelar. */
 @media (max-width: 47.99rem) and (prefers-reduced-motion: no-preference) {
   .bolinha {
     animation: bolinha-entra 450ms cubic-bezier(0.2, 0.8, 0.2, 1) backwards;
     animation-delay: calc(var(--i, 0) * 70ms);
   }
-}
 
-/* Em /reviews e nas subpáginas, as bolinhas ficam num RevealSection abaixo da dobra: a entrada do
-   celular espera a seção chegar à tela e começa de novo ao revelar. */
-@media (max-width: 47.99rem) and (prefers-reduced-motion: no-preference) {
   [data-reveal='pending'] .bolinha {
     animation: none;
     opacity: 0;
@@ -347,11 +345,11 @@ html:lang(ja) {
   .carimbo-assenta {
     animation: carimbo-assenta 500ms cubic-bezier(0.34, 1.56, 0.64, 1) 100ms backwards;
   }
-}
 
-::view-transition-group(.estante) {
-  animation-duration: 450ms;
-  animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
+  ::view-transition-group(.estante) {
+    animation-duration: 450ms;
+    animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
+  }
 }
 
 /* Scrollbar customizada */

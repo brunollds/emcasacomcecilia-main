@@ -63,6 +63,20 @@ export function visibleAfterViewChange(visible: number, view: ShelfView): number
   return Math.max(visible, pageSizeOf(view));
 }
 
+// A página aberta da estante: key é a query string em que foi aberta (busca, categoria e ordem), visible
+// quantos artigos há na tela e newFrom o primeiro que o "Carregar mais" acabou de trazer (-1: nenhum).
+export type ShelfPage = { key: string; visible: number; newFrom: number };
+
+export function firstPage(key: string): ShelfPage {
+  return { key, visible: GRID_PAGE_SIZE, newFrom: -1 };
+}
+
+// Trocar busca, categoria ou ordem volta à primeira página, e a antiga não volta aberta: A, B e A de novo
+// mostra os 12 primeiros de A, sem a cascata do "Carregar mais".
+export function settlePage(page: ShelfPage, key: string): ShelfPage {
+  return page.key === key ? page : firstPage(key);
+}
+
 export function foldSearchText(text: string): string {
   return text
     .normalize('NFD')
@@ -77,8 +91,13 @@ export function searchWords(query: string): string[] {
   return folded ? folded.split(' ') : [];
 }
 
+// Texto de busca de verdade: só espaço não é busca (nem acende o ✕ do campo).
+export function hasSearchText(text: string): boolean {
+  return searchWords(text).length > 0;
+}
+
 export function isSearching(query: ShelfQuery): boolean {
-  return searchWords(query.q).length > 0;
+  return hasSearchText(query.q);
 }
 
 const titleCollator = new Intl.Collator('pt-BR', { sensitivity: 'base', numeric: true });
@@ -119,6 +138,23 @@ export function parseShelfQuery(search: string, categories: readonly ReviewCateg
     category: category && categories.includes(category) ? category : null,
     order: params.get('ordem') === 'az' ? 'az' : 'novos',
   };
+}
+
+// A query da página. Sem campo de busca (subpágina de loja) um ?q= digitado à mão não filtra: não haveria
+// onde limpá-lo.
+export function readShelfQuery(
+  search: string,
+  categories: readonly ReviewCategory[],
+  searchable: boolean
+): ShelfQuery {
+  const query = parseShelfQuery(search, categories);
+  return searchable ? query : { ...query, q: '' };
+}
+
+// A query string que a estante enxerga no navegador. Numa navegação no cliente o primeiro quadro ainda vê o
+// endereço da página anterior: só vale a query string da própria lista.
+export function urlSearchOf(listPath: string, location: { pathname: string; search: string }): string {
+  return location.pathname === listPath ? location.search : '';
 }
 
 // A query string da estante: a busca como foi digitada (sem ela quando só tem espaço), a categoria e a

@@ -2,6 +2,7 @@
 
 import {
   Suspense,
+  useCallback,
   useEffect,
   useMemo,
   useRef,
@@ -27,17 +28,21 @@ import {
   SHELF_SEARCH_EVENT,
   emptySearchMessage,
   filterShelf,
+  firstPage,
   foldSearchText,
   getEmptySearchAction,
   getShelfControlParameters,
   getShelfSearchParameters,
+  hasSearchText,
   isSearching,
   pageSizeOf,
-  parseShelfQuery,
+  readShelfQuery,
   resultsLabel,
+  settlePage,
   shelfPlacement,
   shelfSearch,
   shouldTrackSearch,
+  urlSearchOf,
   visibleAfterViewChange,
   withShelfQuery,
   type ShelfArticle,
@@ -54,9 +59,10 @@ import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 // o modo fica no aparelho (localStorage) e a página aberta, na sessão (sessionStorage), para quem volta
 // de um artigo. O topo e a vitrine chegam prontos do servidor; a vitrine sai enquanto há texto na busca.
 
-// O useSyncExternalStore lê a URL; o evento avisa das trocas da própria estante, e o ShelfUrlListener,
-// das de fora (voltar, avançar ou um link para esta página). O useSearchParams fica nele, com Suspense
-// próprio: assim o prerender não para no Suspense e o HTML estático traz os cartões.
+// O useSyncExternalStore lê a URL (só a desta lista, ver urlSearchOf); o evento avisa das trocas da própria
+// estante, e o ShelfUrlListener, das de fora (voltar, avançar ou um link para esta página). O
+// useSearchParams fica nele, com Suspense próprio: assim o prerender não para no Suspense e o HTML estático
+// traz os cartões.
 const URL_EVENT = 'reviews-shelf-url';
 const VIEW_EVENT = 'reviews-shelf-view';
 const VIEW_KEY = 'reviews-modo';
@@ -77,7 +83,6 @@ function subscribeToUrl(onChange: () => void) {
   return () => window.removeEventListener(URL_EVENT, onChange);
 }
 
-const getUrlSearch = () => window.location.search;
 const getServerSearch = () => '';
 
 function ShelfUrlListener() {
@@ -91,15 +96,22 @@ function ShelfUrlListener() {
   return null;
 }
 
-// Sem localStorage (bloqueado ou numa pré-visualização), o modo escolhido vale até sair da página.
+// O modo vive em memória e o localStorage o guarda: a memória é lida primeiro, então sem localStorage
+// (bloqueado ou numa pré-visualização) o modo escolhido vale até sair da página. O que outra aba grava
+// chega pelo evento storage e atualiza a memória, para as abas acompanharem a última escolha.
 let viewThisVisit: ShelfView | null = null;
 
 function subscribeToView(onChange: () => void) {
+  const onStorage = (event: StorageEvent) => {
+    if (event.key !== null && event.key !== VIEW_KEY) return;
+    viewThisVisit = event.newValue === 'lista' ? 'lista' : event.newValue === 'grade' ? 'grade' : null;
+    onChange();
+  };
   window.addEventListener(VIEW_EVENT, onChange);
-  window.addEventListener('storage', onChange);
+  window.addEventListener('storage', onStorage);
   return () => {
     window.removeEventListener(VIEW_EVENT, onChange);
-    window.removeEventListener('storage', onChange);
+    window.removeEventListener('storage', onStorage);
   };
 }
 
@@ -146,10 +158,10 @@ function savePage(listPath: string, page: SavedPage) {
 // Troca busca, categoria ou ordem na URL (os outros parâmetros ficam) e avisa o useSyncExternalStore.
 function writeUrl(
   update: (query: ShelfQuery) => ShelfQuery,
-  categories: readonly ReviewCategory[],
+  readQuery: (search: string) => ShelfQuery,
   mode: 'push' | 'replace'
 ) {
-  const next = update(parseShelfQuery(window.location.search, categories));
+  const next = update(readQuery(window.location.search));
   const url = `${window.location.pathname}${withShelfQuery(window.location.search, next)}${window.location.hash}`;
   if (mode === 'push') window.history.pushState(null, '', url);
   else window.history.replaceState(null, '', url);
@@ -175,7 +187,16 @@ function runShelfTransition(shelf: HTMLElement | null, update: () => void) {
   const done = () => {
     if (id === transitionCount) delete shelf.dataset.trocando;
   };
-  document.startViewTransition(() => flushSync(update)).finished.then(done, done);
+  try {
+    const transition = document.startViewTransition(() => flushSync(update));
+    // Uma troca que pula a anterior rejeita o ready dela: não é erro.
+    transition.ready.catch(() => {});
+    transition.finished.then(done, done);
+  } catch {
+    // A API existe, mas a chamada falhou: nada de nome de transição preso, e a troca acontece na hora.
+    done();
+    update();
+  }
 }
 
 type ReviewsBrowserProps = {
@@ -208,17 +229,26 @@ export function ReviewsBrowser({
   footer,
 }: ReviewsBrowserProps) {
   const categoryValues = useMemo(() => categories.map(({ value }) => value), [categories]);
+  const getUrlSearch = useCallback(() => urlSearchOf(listPath, window.location), [listPath]);
   const urlSearch = useSyncExternalStore(subscribeToUrl, getUrlSearch, getServerSearch);
-  const query = useMemo(() => parseShelfQuery(urlSearch, categoryValues), [urlSearch, categoryValues]);
+  const canSearch = search !== null;
+  const readQuery = useCallback(
+    (raw: string) => readShelfQuery(raw, categoryValues, canSearch),
+    [categoryValues, canSearch]
+  );
+  const query = useMemo(() => readQuery(urlSearch), [urlSearch, readQuery]);
   const view = useSyncExternalStore(subscribeToView, getStoredView, getServerView);
   const results = useMemo(() => filterShelf(articles, query), [articles, query]);
   const listKey = shelfSearch(query);
   const searching = isSearching(query);
 
   // A página aberta vale para a busca, a categoria e a ordem atuais (listKey): trocar qualquer uma volta
-  // ao começo. newFrom marca os cartões que o "Carregar mais" acabou de trazer.
-  const [page, setPage] = useState({ key: listKey, visible: GRID_PAGE_SIZE, newFrom: -1 });
-  const current = page.key === listKey ? page : { key: listKey, visible: GRID_PAGE_SIZE, newFrom: -1 };
+  // ao começo e apaga a página antiga (ajuste durante a renderização, o padrão do React), para voltar a
+  // uma query anterior não trazer de volta os artigos que o "Carregar mais" tinha aberto. newFrom marca os
+  // cartões que ele acabou de trazer.
+  const [page, setPage] = useState(() => firstPage(listKey));
+  const current = settlePage(page, listKey);
+  if (current !== page) setPage(current);
   const visible = Math.max(current.visible, pageSizeOf(view));
   const shown = results.slice(0, visible);
 
@@ -233,26 +263,33 @@ export function ReviewsBrowser({
   const restored = useRef(false);
   const lastTrackedSearch = useRef<string | null>(null);
 
-  // A busca vai para a URL quando a pessoa para de digitar.
+  // A busca vai para a URL quando a pessoa para de digitar. A transição chama o callback um quadro depois
+  // do temporizador: se nesse meio-tempo a pessoa digita mais uma letra, ou a URL muda por outro caminho,
+  // o efeito é refeito, esta gravação (com o texto velho) é descartada e a do texto novo é agendada. Assim
+  // a URL nunca recebe um texto que o campo já deixou para trás, e o campo nunca cai para ele.
   useEffect(() => {
-    if (draft.base !== query.q || draft.text === query.q) return;
+    if (draft.base !== query.q || draft.text.trim() === query.q.trim()) return;
+    let stale = false;
     const timer = window.setTimeout(() => {
-      runShelfTransition(shelfRef.current, () =>
-        writeUrl((latest) => ({ ...latest, q: draft.text }), categoryValues, 'replace')
-      );
+      runShelfTransition(shelfRef.current, () => {
+        if (!stale) writeUrl((latest) => ({ ...latest, q: draft.text }), readQuery, 'replace');
+      });
     }, SEARCH_DELAY_MS);
-    return () => window.clearTimeout(timer);
-  }, [draft, query.q, categoryValues]);
+    return () => {
+      stale = true;
+      window.clearTimeout(timer);
+    };
+  }, [draft, query.q, readQuery]);
 
   // Quem volta de um artigo encontra a mesma página aberta. Só depois de ler a URL do navegador (no
   // render da hidratação vale a do servidor) e uma vez por montagem.
   useEffect(() => {
-    if (restored.current || urlSearch !== window.location.search) return;
+    if (restored.current || urlSearch !== getUrlSearch()) return;
     restored.current = true;
     const saved = readSavedPage(listPath);
-    const restore = (savedVisible: number) => setPage({ key: listKey, visible: savedVisible, newFrom: -1 });
+    const restore = (savedVisible: number) => setPage({ ...firstPage(listKey), visible: savedVisible });
     if (saved && saved.search === listKey && saved.visible > visible) restore(saved.visible);
-  }, [urlSearch, listPath, listKey, visible]);
+  }, [urlSearch, getUrlSearch, listPath, listKey, visible]);
 
   useEffect(() => {
     if (restored.current) savePage(listPath, { search: listKey, visible });
@@ -283,20 +320,20 @@ export function ReviewsBrowser({
   function selectCategory(category: ReviewCategory | null) {
     if (category === query.category) return;
     trackControl('category', category ?? 'todos');
-    runShelfTransition(shelfRef.current, () => writeUrl((latest) => ({ ...latest, category }), categoryValues, 'push'));
+    runShelfTransition(shelfRef.current, () => writeUrl((latest) => ({ ...latest, category }), readQuery, 'push'));
   }
 
   function selectOrder(order: ShelfOrder) {
     if (order === query.order) return;
     trackControl('sort', order);
-    runShelfTransition(shelfRef.current, () => writeUrl((latest) => ({ ...latest, order }), categoryValues, 'push'));
+    runShelfTransition(shelfRef.current, () => writeUrl((latest) => ({ ...latest, order }), readQuery, 'push'));
   }
 
   function selectView(next: ShelfView) {
     if (next === view) return;
     trackControl('view', next);
     runShelfTransition(shelfRef.current, () => {
-      setPage({ key: listKey, visible: visibleAfterViewChange(visible, next), newFrom: -1 });
+      setPage({ ...firstPage(listKey), visible: visibleAfterViewChange(visible, next) });
       storeView(next);
     });
   }
@@ -308,7 +345,17 @@ export function ReviewsBrowser({
 
   function clearSearch() {
     setDraft({ text: '', base: query.q });
-    runShelfTransition(shelfRef.current, () => writeUrl((latest) => ({ ...latest, q: '' }), categoryValues, 'replace'));
+    runShelfTransition(shelfRef.current, () => writeUrl((latest) => ({ ...latest, q: '' }), readQuery, 'replace'));
+  }
+
+  // O botão clicado some com a busca: o foco vai para o campo em vez de cair no body.
+  function focusSearch() {
+    inputRef.current?.focus();
+  }
+
+  function clearSearchAndFocus() {
+    clearSearch();
+    focusSearch();
   }
 
   const placement = shelfPlacement(placementPrefix, view);
@@ -324,7 +371,17 @@ export function ReviewsBrowser({
       <header className={`${SHELF_CONTAINER} pt-8 pb-8 md:pt-12 md:pb-12`}>
         {hero}
         {search ? (
-          <form role="search" onSubmit={(event) => event.preventDefault()} className="mt-6 max-w-xl">
+          <form
+            role="search"
+            action={listPath}
+            onSubmit={(event) => {
+              // Sem JavaScript o Enter recarrega a lista com o ?q=; com ele, o campo já filtra e o Enter só
+              // fecha o teclado do celular.
+              event.preventDefault();
+              inputRef.current?.blur();
+            }}
+            className="mt-6 max-w-xl"
+          >
             <label htmlFor="busca-estante" className="sr-only">
               {search.label}
             </label>
@@ -333,11 +390,12 @@ export function ReviewsBrowser({
               <input
                 ref={inputRef}
                 id="busca-estante"
+                name="q"
                 type="search"
                 value={inputValue}
                 onChange={(event) => setDraft({ text: event.target.value, base: query.q })}
                 onKeyDown={(event) => {
-                  if (event.key !== 'Escape' || !inputValue) return;
+                  if (event.key !== 'Escape' || !hasSearchText(inputValue)) return;
                   event.preventDefault();
                   clearSearch();
                 }}
@@ -346,13 +404,10 @@ export function ReviewsBrowser({
                 enterKeyHint="search"
                 className="min-w-0 flex-1 bg-transparent py-2.5 text-base font-semibold text-marinho outline-none placeholder:font-medium placeholder:text-marinho-suave [&::-webkit-search-cancel-button]:appearance-none"
               />
-              {inputValue ? (
+              {hasSearchText(inputValue) ? (
                 <button
                   type="button"
-                  onClick={() => {
-                    clearSearch();
-                    inputRef.current?.focus();
-                  }}
+                  onClick={clearSearchAndFocus}
                   aria-label="Limpar a busca"
                   className={`flex size-11 shrink-0 items-center justify-center rounded-full text-marinho hover:bg-creme ${FOCUS_RING}`}
                 >
@@ -395,11 +450,13 @@ export function ReviewsBrowser({
                 ))}
               </div>
             ) : null}
-            <div className="flex items-center justify-between gap-3 md:justify-end">
-              <p aria-live="polite" className="text-sm font-bold text-marinho-suave">
+            {/* No celular o total fica na própria linha e os controles na seguinte; numa tela estreita eles
+                quebram de novo em vez de estourar. A partir do md tudo cabe numa linha. */}
+            <div className="flex flex-wrap items-center gap-x-3 gap-y-2 md:justify-end">
+              <p aria-live="polite" className="w-full text-sm font-bold text-marinho-suave md:w-auto">
                 {resultsLabel(results.length, query.q)}
               </p>
-              <div className="flex items-center gap-2">
+              <div className="flex flex-wrap items-center gap-2">
                 <label htmlFor="ordem-estante" className="sr-only">
                   Ordem
                 </label>
@@ -476,7 +533,14 @@ export function ReviewsBrowser({
             <div className="carimbo-assenta mx-auto flex w-full max-w-md flex-col gap-3 rounded-[10px] border-2 border-dashed border-marinho/40 p-6 text-center">
               <p className="font-extrabold text-marinho">{emptySearchMessage(query.q)}</p>
               {emptyAction.kind === 'all-categories' ? (
-                <button type="button" onClick={() => selectCategory(null)} className={EMPTY_PRIMARY}>
+                <button
+                  type="button"
+                  onClick={() => {
+                    selectCategory(null);
+                    focusSearch();
+                  }}
+                  className={EMPTY_PRIMARY}
+                >
                   {emptyAction.label}
                 </button>
               ) : (
@@ -484,7 +548,7 @@ export function ReviewsBrowser({
                   {emptyAction.label}
                 </Link>
               )}
-              <button type="button" onClick={clearSearch} className={EMPTY_SECONDARY}>
+              <button type="button" onClick={clearSearchAndFocus} className={EMPTY_SECONDARY}>
                 Limpar a busca
               </button>
             </div>

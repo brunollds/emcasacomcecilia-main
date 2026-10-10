@@ -30,27 +30,33 @@ import {
   countLabel,
   emptySearchMessage,
   filterShelf,
+  firstPage,
   foldSearchText,
   getEmptySearchAction,
   getReviewsRouteClickParameters,
   getShelfControlParameters,
   getShelfSearchParameters,
+  hasSearchText,
   isSearching,
   pageSizeOf,
   parseShelfQuery,
+  readShelfQuery,
   resultsLabel,
   reviewsSearchHref,
   searchWords,
+  settlePage,
   shelfPlacement,
   shelfSearch,
   shouldTrackSearch,
   siteSearchHref,
   sortShelf,
+  urlSearchOf,
   visibleAfterViewChange,
   withShelfQuery,
   type ShelfArticle,
   type ShelfQuery,
 } from '@/lib/reviewsShelf';
+import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
@@ -783,8 +789,26 @@ const chipsHtml = shelfHtml.slice(shelfHtml.indexOf('data-categorias="true"'));
 assert.equal(chipsHtml.slice(0, chipsHtml.indexOf('</div>')).match(/aria-pressed=/g)?.length, big.categories.length + 1);
 assert.match(shelfHtml, /<button[^>]*aria-pressed="true"[^>]*>Todos<\/button>/);
 assert.match(shelfHtml, /<option value="novos" selected="">Mais novos<\/option>/);
-assert.ok(shelfHtml.includes('--vt:estante-poltrona-damie'), 'variável do nome da troca em cada item');
+// Cada item leva a variável do próprio nome de transição, e os nomes não se repetem (nome repetido aborta
+// a transição).
+const vtNames = [...shelfHtml.matchAll(/--vt:(estante-[a-z0-9-]+)/g)].map(([, name]) => name);
+assert.equal(vtNames.length, GRID_PAGE_SIZE, 'uma variável --vt por item');
+assert.equal(new Set(vtNames).size, GRID_PAGE_SIZE, 'nomes de transição diferentes');
+assert.deepEqual(
+  vtNames,
+  big.articles.slice(0, GRID_PAGE_SIZE).map(({ slug }) => `estante-${sanitizeViewTransitionName(slug)}`),
+  'o nome vem do slug de cada item'
+);
+assert.ok(vtNames.includes('estante-poltrona-damie'));
 assert.ok(!shelfHtml.includes('view-transition-name'), 'nome de transição no HTML');
+// Sem JavaScript, o Enter envia o formulário para a própria lista com ?q=.
+const searchForm = shelfHtml.match(/<form[^>]*role="search"[^>]*>/)?.[0] ?? '';
+assert.match(searchForm, /action="\/reviews"/, 'a busca envia para a lista');
+assert.match(shelfHtml, /<input[^>]*id="busca-estante"[^>]*name="q"|<input[^>]*name="q"[^>]*id="busca-estante"/, 'campo com name=q');
+// A barra de controles quebra linha no celular: o total na própria linha, os controles na seguinte.
+const totalTag = shelfHtml.match(/<p[^>]*aria-live="polite"[^>]*>22 artigos<\/p>/)?.[0] ?? '';
+assert.match(totalTag, /class="[^"]*\bw-full\b[^"]*\bmd:w-auto\b/, 'total na própria linha no celular');
+assert.match(shelfHtml, /class="[^"]*\bflex-wrap\b[^"]*"[^>]*><label for="ordem-estante"/, 'controles que quebram linha');
 assert.ok(!shelfHtml.includes('Nenhum artigo com'));
 
 // Na subpágina: sem busca, título só para leitor de tela, sem botões com uma categoria só e sem "Carregar
@@ -807,6 +831,39 @@ assert.ok(storeShelf.includes('<h2 id="titulo-estante" class="sr-only">Lista de 
 assert.ok(!storeShelf.includes('data-categorias'));
 assert.ok(!storeShelf.includes('Carregar mais'));
 assert.ok(storeShelf.includes('>3 artigos<'));
+assert.ok(!/<form/.test(storeShelf), 'subpágina sem formulário de busca');
+
+// Regras que o componente aplica no navegador, em funções puras.
+// "Carregar mais" não volta aberto: a página aberta vale só para a query em que foi aberta, e A → B → A
+// recomeça na primeira página, sem a cascata do "Carregar mais" (newFrom).
+const openedOnA = { key: '', visible: 36, newFrom: 24 };
+assert.equal(settlePage(openedOnA, ''), openedOnA, 'mesma query: a página aberta fica');
+const onB = settlePage(openedOnA, '?categoria=cupons-como-usar');
+assert.deepEqual(onB, firstPage('?categoria=cupons-como-usar'));
+assert.deepEqual(settlePage(onB, ''), { key: '', visible: GRID_PAGE_SIZE, newFrom: -1 }, 'voltar a A mostra a primeira página');
+assert.deepEqual(firstPage('?q=a'), { key: '?q=a', visible: GRID_PAGE_SIZE, newFrom: -1 });
+
+// Sem campo de busca (subpágina), o ?q= digitado à mão na URL é ignorado; categoria e ordem continuam.
+assert.equal(readShelfQuery('?q=poltrona', ALL, true).q, 'poltrona');
+assert.equal(readShelfQuery('?q=poltrona', ALL, false).q, '', 'sem busca, o q da URL não filtra');
+assert.deepEqual(
+  readShelfQuery('?q=poltrona&categoria=cupons-como-usar&ordem=az', ALL, false),
+  { q: '', category: 'cupons-como-usar', order: 'az' }
+);
+assert.equal(shelfSearch(readShelfQuery('?q=poltrona&ordem=az', ALL, false)), '?ordem=az', 'o q some da URL na próxima troca');
+
+// O ✕ e o Esc só valem com texto de verdade; busca só com espaço não fica na URL nem vira filtro.
+assert.equal(hasSearchText(''), false);
+assert.equal(hasSearchText('   '), false);
+assert.equal(hasSearchText(' poltrona '), true);
+assert.equal(withShelfQuery('?utm_source=ig', query({ q: '   ' })), '?utm_source=ig', 'espaços não vão para a URL');
+assert.equal(withShelfQuery('?q=poltrona&utm_source=ig', query({ q: '   ' })), '?utm_source=ig');
+
+// Depois de uma navegação no cliente, o primeiro quadro ainda vê o endereço da página anterior: o que
+// vale é só a query string da própria lista.
+assert.equal(urlSearchOf('/reviews', { pathname: '/reviews', search: '?q=sono' }), '?q=sono');
+assert.equal(urlSearchOf('/reviews/loja/magalu', { pathname: '/reviews', search: '?q=sono' }), '', 'outra página: nada');
+assert.equal(urlSearchOf('/reviews', { pathname: '/reviews/loja/magalu', search: '?ordem=az' }), '');
 
 console.log(
   `✅ reviewsHub: estante de ${real.articles.length} artigos, ${real.newArticles.length} novidades, ${real.stores.length} lojas com subpágina, busca, ordem, URL e medição passaram.`
