@@ -3,6 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import homeEventsConfig from '../content/home-events.json';
 import { getArticleCopy } from '../src/components/review/articleCopy';
+import { getBodySections } from '../src/components/review/bodySections';
 import { getCouponCopyLabels } from '../src/components/review/couponCopyLocale';
 import { getGalleryCopy } from '../src/components/review/galleryCopy';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '../src/components/review/sidebarCopy';
@@ -11,9 +12,8 @@ import { getLocaleHomeCopy } from '../src/components/sections/localeHomeCopy';
 import { getShareCopy } from '../src/components/shared/shareCopy';
 import { brandLinks, socialMedias } from '../src/lib/brandLinks';
 import { CECILIA_FULL_NAME } from '../src/lib/ceciliaCredentials';
-import type { EditorialNoteData, Recommendation } from '../src/lib/content';
+import { inferReviewKind, type EditorialNoteData, type Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
-import { isLineAnchor } from '../src/lib/pretext/lineAnchorCodec';
 import { getAllActiveCouponSlugs, getCouponBySlug, getStoreCodeKind } from '../src/lib/couponsData';
 import {
   getCouponLanguageLinks,
@@ -622,13 +622,18 @@ for (const url of articleUrls) {
     [...noteLabels].sort(),
     `${pagePath}: nota editorial fora do idioma do artigo, faltando ou repetida`
   );
-  // A nota ancorada numa seção que a página mostra sai dentro dela, e não no topo.
+  // A nota ancorada numa seção do corpo sai dentro da <section> dela, e não no topo. As seções do corpo
+  // são as do template (getBodySections); a nota ancorada em outra parte (veredito, passo do guia) sai no topo.
+  const bodySectionIds = new Set(getBodySections(review.contentSections ?? [], inferReviewKind(review)).map(({ id }) => id));
   for (const [index, note] of notes.entries()) {
-    if (!note.anchor || isLineAnchor(note.anchor)) continue;
-    const start = body.search(new RegExp(`<section\\b[^>]*\\bid="${note.anchor}"`));
-    if (start < 0) continue;
-    const section = body.slice(start, body.indexOf('</section>', start));
-    assert.ok(editorialNoteLabelsIn(section).includes(noteLabels[index]), `${pagePath}: nota "${note.label}" fora da seção ${note.anchor}`);
+    if (!note.anchor || !bodySectionIds.has(note.anchor)) continue;
+    const tag = [...body.matchAll(/<section\b([^>]*)>/g)].find(([, attributes]) => attributes.includes(` id="${note.anchor}"`));
+    assert.ok(tag, `${pagePath}: a seção ${note.anchor} da nota "${note.label}" não está na página`);
+    const section = body.slice(tag.index, body.indexOf('</section>', tag.index));
+    assert.ok(
+      editorialNoteLabelsIn(section).includes(noteLabels[index]),
+      `${pagePath}: nota "${note.label}" fora da seção ${note.anchor}`
+    );
   }
   if (notes.length) notedArticles++;
 
