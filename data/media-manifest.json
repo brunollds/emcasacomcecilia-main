@@ -44564,6 +44564,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
+      "local_url": "/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 100040,
+      "sha256": "12ca7eef1d44b77cb6e3197d981d59b8fbf27e656040e6ed4aca8b7f34615bc8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-insider-colecao-descontos-inteligentes.webp",
+      "storage_filename": "black-friday-insider-colecao-descontos-inteligentes.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-insider.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-insider.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-insider.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-insider.md",
+          "line": 145,
+          "column": 10,
+          "literal": "/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 53591,
+          "column": 15,
+          "literal": "/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/12ca7eef1d44b77cb6e3197d981d59b8fbf27e656040e6ed4aca8b7f34615bc8/black-friday-insider-colecao-descontos-inteligentes.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/12ca7eef1d44b77cb6e3197d981d59b8fbf27e656040e6ed4aca8b7f34615bc8/black-friday-insider-colecao-descontos-inteligentes.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-10T17:16:31.433Z",
+      "verification_etag_or_digest": "12ca7eef1d44b77cb6e3197d981d59b8fbf27e656040e6ed4aca8b7f34615bc8",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/insider-confiavel-hero-oficial.webp",
       "local_url": "/images/reviews/insider/insider-confiavel-hero-oficial.webp",
       "media_kind": "image",
@@ -45435,6 +45489,60 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "529f2308ef5db165fb03970f6a5cf5083f0c6f12ad1f74f9fcb574da2d64a90b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+      "local_url": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47328,
+      "sha256": "ed3c73c578512d326e53673d451cd9c99da8d99306018b0d27cfb42224c9bba2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+      "storage_filename": "black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-i-wanna-sleep.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-i-wanna-sleep.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-i-wanna-sleep.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-i-wanna-sleep.md",
+          "line": 150,
+          "column": 10,
+          "literal": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 53254,
+          "column": 15,
+          "literal": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ed3c73c578512d326e53673d451cd9c99da8d99306018b0d27cfb42224c9bba2/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ed3c73c578512d326e53673d451cd9c99da8d99306018b0d27cfb42224c9bba2/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-10T02:09:35.109Z",
+      "verification_etag_or_digest": "ed3c73c578512d326e53673d451cd9c99da8d99306018b0d27cfb42224c9bba2",
       "verification_status": "verified"
     },
     {
@@ -49257,6 +49365,60 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "c36a7842e8f5c134c57cc243a756de2c66c5e0947ef76ef84607fd56ebaff5b5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
+      "local_url": "/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 51492,
+      "sha256": "51b540af3a9d7d954c54e61a032dc2c56e2ea61d5989b6acfb48ddb5d5494b0a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-nestle-nutre-nutren-senior-lata.webp",
+      "storage_filename": "black-friday-nestle-nutre-nutren-senior-lata.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-nestle-nutre.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-nestle-nutre.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-nestle-nutre.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-nestle-nutre.md",
+          "line": 143,
+          "column": 10,
+          "literal": "/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 53911,
+          "column": 15,
+          "literal": "/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/51b540af3a9d7d954c54e61a032dc2c56e2ea61d5989b6acfb48ddb5d5494b0a/black-friday-nestle-nutre-nutren-senior-lata.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/51b540af3a9d7d954c54e61a032dc2c56e2ea61d5989b6acfb48ddb5d5494b0a/black-friday-nestle-nutre-nutren-senior-lata.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-10T17:16:31.434Z",
+      "verification_etag_or_digest": "51b540af3a9d7d954c54e61a032dc2c56e2ea61d5989b6acfb48ddb5d5494b0a",
       "verification_status": "verified"
     },
     {

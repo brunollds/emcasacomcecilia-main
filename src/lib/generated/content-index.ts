@@ -53231,5 +53231,986 @@ export const reviewsData: unknown[] = [
         "title": "Let's Eat It no Reclame Aqui: nota, reclamações e o que os dados mostram"
       }
     ]
+  },
+  {
+    "id": 333,
+    "slug": "black-friday-i-wanna-sleep",
+    "title": "Black Friday I Wanna Sleep 2026: Pillow Top Magnum, travesseiros e cobertores com o cupom CECIEMCASA",
+    "seoTitle": "Black Friday I Wanna Sleep 2026: pillow top e travesseiros",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que a I Wanna Sleep oferecia em outubro de 2026, os preços do Pillow Top Magnum, de travesseiros e cobertores para comparar na Black Friday, como o cupom soma com o Pix, o teste em casa e até quando pedir para chegar no Natal. Colchões e box são vendidos nas lojas físicas.",
+    "metaDescription": "Black Friday I Wanna Sleep 2026: preços de outubro do Pillow Top Magnum, travesseiros e cobertores, cupom CECIEMCASA com Pix, Sleeptest e prazo para o Natal.",
+    "publishedAt": "10 de outubro de 2026",
+    "publishedAtISO": "2026-10-10",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+    "imageAlt": "Cecília Mauad, do Em Casa com Cecília, sorrindo com a embalagem do cobertor Igloo da I Wanna Sleep no quarto",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Pillow top, travesseiros e cobertores já estavam com 12% a 17% de desconto em outubro",
+      "5% de desconto no Pix, que soma com o cupom CECIEMCASA",
+      "30 dias para testar o travesseiro e o pillow top em casa",
+      "Frete grátis acima de R$ 150 em travesseiros, pillow top e cobertores"
+    ],
+    "cons": [
+      "Colchões e box não são vendidos pelo site, só nas lojas físicas",
+      "No travesseiro e no pillow top, a troca do Sleeptest vira crédito na loja",
+      "A loja não publica os prazos de entrega por região"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Black Friday I Wanna Sleep 2026",
+        "bullets": [
+          "A Black Friday de 2026 é em **27 de novembro**, e a Cyber Monday, em **30 de novembro**.",
+          "Até 9 de outubro de 2026, a I Wanna Sleep ainda não tinha anunciado campanha de Black Friday. Este guia é atualizado quando a loja anunciar.",
+          "Em 9 de outubro, o Pillow Top Magnum, os travesseiros e os cobertores já tinham de **12% a 17%** de desconto sobre o preço riscado.",
+          "Colchões e box aparecem no site, mas são vendidos só nas lojas físicas da I Wanna Sleep, com as consultoras do sono.",
+          "O cupom CECIEMCASA dá 10% OFF em todo o site, vale com todas as formas de pagamento e soma com os preços da Black Friday e com os 5% do Pix.",
+          "O travesseiro e o pillow top têm 30 dias de teste em casa, o Sleeptest.",
+          "Para chegar até 24 de dezembro, pela nossa conta com os prazos que o carrinho mostrou em outubro, pague até 15 de dezembro em São Paulo e no Rio de Janeiro e até 7 de dezembro em Recife."
+        ]
+      },
+      {
+        "heading": "A I Wanna Sleep tem Black Friday?",
+        "paragraphs": [
+          "Não encontramos campanha oficial de Black Friday da I Wanna Sleep nos últimos anos: a busca do site não traz nada com o termo, e o blog da marca não fala da data. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
+          "O que dá para mostrar é o que a loja já oferecia em outubro de 2026: o Pillow Top Magnum, os travesseiros e os cobertores com selo de desconto e kits como o Pillow Top Magnum + Bao Bao + Igloo, que entrou no site em 6 de outubro.",
+          "Quando a I Wanna Sleep anunciar a campanha de 2026, as condições entram aqui, com o que mudou em relação a outubro."
+        ]
+      },
+      {
+        "heading": "Pillow Top Magnum e kits: o desconto que já existia em outubro",
+        "paragraphs": [
+          "O Pillow Top Magnum, que vai por cima do colchão, já estava com cerca de 14% de desconto sobre o preço riscado em todos os tamanhos. Os kits com ele saíam com desconto maior, de 18% a 21%."
+        ],
+        "comparisonTable": {
+          "caption": "Pillow Top Magnum e kits na I Wanna Sleep em 9 de outubro de 2026: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
+          "headers": [
+            "Produto",
+            "Preço riscado",
+            "Em 9/10/2026"
+          ],
+          "rows": [
+            [
+              "Pillow Top Magnum, solteiro (1,00 x 2,00 m)",
+              "R$ 1.489",
+              "R$ 1.280"
+            ],
+            [
+              "Pillow Top Magnum, casal (1,40 x 2,00 m)",
+              "R$ 2.149",
+              "R$ 1.848"
+            ],
+            [
+              "Pillow Top Magnum, queen (1,60 x 2,00 m)",
+              "R$ 2.479",
+              "R$ 2.131"
+            ],
+            [
+              "Pillow Top Magnum, super king (2,00 x 2,00 m)",
+              "R$ 2.839",
+              "R$ 2.441"
+            ],
+            [
+              "Kit Pillow Top Magnum casal + 2 travesseiros Snow regular",
+              "R$ 2.987",
+              "R$ 2.359"
+            ],
+            [
+              "Kit Pillow Top Magnum + Bao Bao + Igloo, casal",
+              "R$ 5.067",
+              "R$ 4.157"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela."
+        ],
+        "links": [
+          {
+            "label": "Pillow Top Magnum IWS vale a pena? Guia para colchão duro",
+            "href": "/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas"
+          }
+        ]
+      },
+      {
+        "heading": "Travesseiros e cobertores: preços de outubro",
+        "paragraphs": [
+          "Nos travesseiros e cobertores, o selo de desconto também já estava lá em outubro, entre 12% e 17%."
+        ],
+        "comparisonTable": {
+          "caption": "Travesseiros e cobertores na I Wanna Sleep em 9 de outubro de 2026: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
+          "headers": [
+            "Produto",
+            "Preço riscado",
+            "Em 9/10/2026"
+          ],
+          "rows": [
+            [
+              "Travesseiro Snow, regular (50 x 70 cm)",
+              "R$ 419",
+              "R$ 347"
+            ],
+            [
+              "Travesseiro Snow, plus (50 x 90 cm)",
+              "R$ 459",
+              "R$ 390"
+            ],
+            [
+              "Travesseiro Airgelly 2.0",
+              "R$ 549",
+              "R$ 472"
+            ],
+            [
+              "Travesseiro Skin",
+              "R$ 419",
+              "R$ 356"
+            ],
+            [
+              "Travesseiro Cervical Coluna Relax",
+              "R$ 259",
+              "R$ 214"
+            ],
+            [
+              "Travesseiro Cervical Neck Plus Gel",
+              "R$ 429",
+              "R$ 377"
+            ],
+            [
+              "Cobertor Igloo, casal/queen",
+              "R$ 1.099",
+              "R$ 967"
+            ],
+            [
+              "Cobertor Igloo, king/super king",
+              "R$ 1.299",
+              "R$ 1.143"
+            ],
+            [
+              "Cobertor Huggy, casal/queen",
+              "R$ 699",
+              "R$ 583"
+            ],
+            [
+              "Cobertor Cozy, casal/queen",
+              "R$ 619",
+              "R$ 526"
+            ],
+            [
+              "Kit com 10 travesseiros Snow",
+              "R$ 4.190",
+              "R$ 2.726"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O cobertor Igloo é o da capa: a Cecília mostrou em vídeo o lado de toque gelado e o lado quente."
+        ],
+        "links": [
+          {
+            "label": "Qual travesseiro escolher? O guia das linhas I Wanna Sleep",
+            "href": "/reviews/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep"
+          },
+          {
+            "label": "Qual cobertor escolher? As opções da I Wanna Sleep",
+            "href": "/reviews/qual-cobertor-escolher-guia-linhas-i-wanna-sleep"
+          },
+          {
+            "label": "Cobertor IWS Igloo: toque gelado de um lado, aconchego do outro",
+            "href": "/reviews/i-wanna-sleep-cobertor-igloo-ficha-tecnica"
+          }
+        ]
+      },
+      {
+        "heading": "Colchão e box: só nas lojas físicas",
+        "paragraphs": [
+          "Os colchões da I Wanna Sleep (Zen, I3, Hush, Breeze Plush e Star) e a base box aparecem no site, mas não são vendidos por ele: a página de cada um diz que eles estão disponíveis para experimentar nas lojas físicas e manda falar com as consultoras do sono da loja mais próxima.",
+          "As lojas ficam em Belo Horizonte: são sete, entre elas as do BH Shopping, do Del Rey e do Ponteio. Pelo site, a peça para a cama é o Pillow Top Magnum, que vai por cima do colchão que você já tem."
+        ]
+      },
+      {
+        "heading": "Pix, parcelamento e cupom: o que soma",
+        "bullets": [
+          "**Pix:** 5% de desconto, só à vista, segundo a página de cada produto.",
+          "**Cartão:** parcelado sem juros; o número de parcelas aparece na página do produto. A aprovação do cartão leva até 24 horas, e a do boleto, até 72 horas.",
+          "**Cupom:** o CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento, e soma com os preços da Black Friday.",
+          "**Pix com o cupom:** os dois somam. No Pillow Top Magnum casal, a R$ 1.848 em outubro, o CECIEMCASA tira R$ 184,80, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ele sai por R$ 1.580,04. O resumo do checkout mostra o valor exato antes de pagar."
+        ],
+        "links": [
+          {
+            "label": "Ver o cupom CECIEMCASA e a data do último teste",
+            "href": "/cupons/i-wanna-sleep"
+          },
+          {
+            "label": "Passo a passo do CECIEMCASA no checkout",
+            "href": "/reviews/cupom-ceciemcasa-i-wanna-sleep-como-usar"
+          }
+        ]
+      },
+      {
+        "heading": "Teste em casa, trocas e devolução",
+        "bullets": [
+          "**Travesseiro e pillow top (Sleeptest):** 30 dias para testar em casa, com pelo menos 15 dias de uso antes de pedir a troca e a etiqueta intacta. A troca vira crédito na loja.",
+          "**Colchão (Sleeptest):** 100 dias, contados da entrega, também com pelo menos 15 dias de uso. A troca é por conforto (não por tamanho), vale uma vez por CPF e pede a etiqueta e a embalagem original.",
+          "**Arrependimento:** em compra pelo site, dá para devolver em até 7 dias corridos do recebimento, como manda o Código de Defesa do Consumidor, e o frete da primeira devolução nesse prazo é grátis.",
+          "**Estorno:** volta na mesma forma de pagamento; no cartão, pode levar de 30 a 60 dias para aparecer na fatura.",
+          "**Loja física:** compra feita no site não é trocada nas lojas."
+        ],
+        "links": [
+          {
+            "label": "I Wanna Sleep é confiável? O que observar antes de comprar",
+            "href": "/reviews/i-wanna-sleep-e-confiavel"
+          }
+        ]
+      },
+      {
+        "heading": "Entrega e prazo para o Natal",
+        "paragraphs": [
+          "A I Wanna Sleep não publica prazos por região: o carrinho mostra o prazo depois do CEP. Em 9 de outubro, simulamos o frete do Pillow Top Magnum casal com o CEP do centro de 12 capitais, e ele saiu grátis em todas.",
+          "Somando um dia útil de folga ao prazo do carrinho, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
+        ],
+        "comparisonTable": {
+          "caption": "Prazo mostrado no carrinho da I Wanna Sleep em 9 de outubro de 2026, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
+          "headers": [
+            "Capital",
+            "Prazo no carrinho",
+            "Pagar até (estimativa)"
+          ],
+          "rows": [
+            [
+              "Belo Horizonte",
+              "3 dias úteis",
+              "18 de dezembro"
+            ],
+            [
+              "São Paulo e Rio de Janeiro",
+              "6 dias úteis",
+              "15 de dezembro"
+            ],
+            [
+              "Curitiba, Brasília e Goiânia",
+              "7 dias úteis",
+              "14 de dezembro"
+            ],
+            [
+              "Porto Alegre e Salvador",
+              "8 dias úteis",
+              "11 de dezembro"
+            ],
+            [
+              "Belém e Manaus",
+              "10 dias úteis",
+              "9 de dezembro"
+            ],
+            [
+              "Fortaleza",
+              "11 dias úteis",
+              "8 de dezembro"
+            ],
+            [
+              "Recife",
+              "12 dias úteis",
+              "7 de dezembro"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "É uma estimativa com o prazo de outubro: se puder, peça antes, e pague com Pix ou cartão, porque o boleto pode levar até 72 horas para ser aprovado.",
+          "A política de entrega da loja dá frete grátis acima de R$ 150 em travesseiros, pillow top, cobertores e no resto da linha leve. Abaixo disso, o carrinho mostra o valor para o seu CEP."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quando é a Black Friday da I Wanna Sleep? A Black Friday de 2026 é na sexta-feira, 27 de novembro, e a Cyber Monday, na segunda, 30 de novembro. Até 9 de outubro de 2026, a I Wanna Sleep ainda não tinha anunciado campanha.",
+          "Dá para comprar colchão da I Wanna Sleep pelo site? Não. Os colchões e a base box aparecem no site, mas são vendidos só nas lojas físicas, em Belo Horizonte, com as consultoras do sono. Pelo site, a peça para a cama é o Pillow Top Magnum.",
+          "O cupom CECIEMCASA soma com o desconto do Pix? Soma. O CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento, e no Pix entram também os 5% da loja: pela nossa conta, o Pillow Top Magnum casal, de R$ 1.848 em outubro de 2026, sai por R$ 1.580,04.",
+          "O que é o Sleeptest da I Wanna Sleep? É o teste em casa: 30 dias para o travesseiro e o pillow top e 100 dias para o colchão, com pelo menos 15 dias de uso antes de pedir a troca. No travesseiro e no pillow top, a troca vira crédito na loja.",
+          "A I Wanna Sleep tem frete grátis? Tem, acima de R$ 150, em travesseiros, pillow top, cobertores e no resto da linha leve. Na nossa simulação de 9 de outubro, o Pillow Top Magnum saiu com frete grátis para as 12 capitais testadas.",
+          "Tem cupom de primeira compra na I Wanna Sleep? Use o CECIEMCASA, que dá 10% OFF em todo o site, com todas as formas de pagamento.",
+          "A I Wanna Sleep tem loja física? Tem sete lojas em Belo Horizonte, entre elas as do BH Shopping, do Del Rey e do Ponteio. É nelas que se compram colchões e box. Compras feitas no site não são trocadas nas lojas.",
+          "O Pillow Top Magnum fica mais barato na Black Friday? Em outubro de 2026, ele já estava com cerca de 14% de desconto, a R$ 1.848 no casal. Se em novembro o preço do dia ficar abaixo disso, o desconto é maior que o de outubro.",
+          "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos que o carrinho mostrou em outubro e um dia útil de folga, até 15 de dezembro em São Paulo e no Rio de Janeiro, até 18 de dezembro em Belo Horizonte e até 7 de dezembro em Recife."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Quando a Black Friday começar, compare os preços com as tabelas deste guia e aplique o cupom CECIEMCASA no checkout da I Wanna Sleep antes de pagar.",
+      "label": "Ir para a I Wanna Sleep",
+      "url": "https://www.iwannasleep.com.br",
+      "sponsored": true
+    },
+    "coupon": "CECIEMCASA",
+    "affiliate": "i-wanna-sleep",
+    "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom CECIEMCASA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
+        "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%"
+      },
+      {
+        "slug": "pillow-top-magnum-iws-colchao-dor-nas-costas",
+        "title": "Pillow Top Magnum IWS vale a pena? Guia para colchão duro"
+      },
+      {
+        "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
+        "title": "Qual Travesseiro Escolher? O Guia das Linhas I Wanna Sleep"
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "slug": "black-friday-insider",
+    "title": "Black Friday Insider 2026: quando começa, preços da Tech T-Shirt e o cupom EMCASACOMCECILIA",
+    "seoTitle": "Black Friday Insider 2026: preços, Pix e cupom",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A coleção de Black Friday que a Insider abriu em outubro de 2026, os preços da Tech T-Shirt, de kits e de underwear para comparar, como o cupom soma com o Pix e o frete grátis, a troca de presente e até quando pedir para chegar no Natal.",
+    "metaDescription": "Black Friday Insider 2026: coleção no ar desde outubro, preços da Tech T-Shirt e de kits, cupom EMCASACOMCECILIA com Pix, frete grátis e prazo para o Natal.",
+    "publishedAt": "10 de outubro de 2026",
+    "publishedAtISO": "2026-10-10",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
+    "imageAlt": "Banner da coleção Black Friday Insider 2026 no site da Insider, com as frases Descontos inteligentes e Itens atemporais sobre um tecido azul-marinho",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "A coleção da Black Friday já estava no ar em outubro, com a Tech T-Shirt a R$ 129",
+      "O cupom EMCASACOMCECILIA dá 15% OFF e soma com o desconto do Pix",
+      "Frete grátis a partir de R$ 399 e troca grátis",
+      "Troca de presente sem nota fiscal, com vale-troca"
+    ],
+    "cons": [
+      "Cada promoção tem regra própria, e algumas não somam com cupom",
+      "O cupom não vale para lançamentos nem na loja física",
+      "Underwear e moda praia só têm troca por defeito",
+      "A loja não publica os prazos de entrega por região"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Black Friday Insider 2026",
+        "bullets": [
+          "A Black Friday de 2026 é em **27 de novembro**, e a Cyber Monday, em **30 de novembro**.",
+          "A Insider já abriu a coleção **Black Friday Insider 2026**: em 9 de outubro, ela tinha 129 produtos e a chamada \"Brindes + 10% Pix + até 40% OFF\", sem datas de início e fim. Este guia é atualizado quando a loja anunciar o que muda em novembro.",
+          "Em 9 de outubro, a Tech T-Shirt estava a **R$ 129**, contra R$ 169 do preço riscado.",
+          "O cupom EMCASACOMCECILIA dá **15% OFF** na loja online, vale com todas as formas de pagamento e soma com os preços da Black Friday e com o desconto do Pix, salvo quando a promoção disser o contrário. Ele não vale para lançamentos nem na loja física, e a loja aceita um cupom por pedido.",
+          "O frete é grátis a partir de R$ 399, valor conferido depois do desconto do cupom.",
+          "Para chegar até 24 de dezembro com o frete grátis, pela nossa conta com os prazos que o carrinho mostrou em outubro, pague até 16 de dezembro em São Paulo, até 14 de dezembro no Rio de Janeiro e em Belo Horizonte e até 26 de novembro em Manaus."
+        ]
+      },
+      {
+        "heading": "Quando começa a Black Friday da Insider?",
+        "paragraphs": [
+          "Em 2026, a Insider não esperou novembro: a coleção Black Friday Insider 2026 já estava no site em 9 de outubro, com o convite para aproveitar a Black Friday \"antes de todo mundo\". A loja não publicou datas de início e fim nem o que muda perto de 27 de novembro.",
+          "Enquanto isso, ela faz promoções curtas, cada uma com regra própria. A de 10 de outubro dava R$ 100 OFF em itens selecionados, aplicados automaticamente, e avisava na página do produto que esse desconto não somava com cupons; nos outros produtos do carrinho, o cupom continuava valendo.",
+          "Nos anos anteriores, a campanha mudou de nome. Em 2024, foi a \"Loucos por conforto\", com a Narcisa Tamborindeguy, segundo reportagem do site Nosso Meio de 28 de novembro de 2024, com declarações do CEO da marca. Percentuais de anos anteriores publicados por sites de cupom ficam fora deste guia, porque a loja não os confirma."
+        ]
+      },
+      {
+        "heading": "Tech T-Shirt e kits: preços de outubro",
+        "paragraphs": [
+          "A Tech T-Shirt, a camiseta mais conhecida da marca, já estava R$ 40 abaixo do preço riscado em outubro, nas versões masculina, feminina e gola V."
+        ],
+        "comparisonTable": {
+          "caption": "Camisetas e kits na Insider em 9 de outubro de 2026: preço riscado na página e preço do dia, antes do cupom e do Pix.",
+          "headers": [
+            "Produto",
+            "Preço riscado",
+            "Em 9/10/2026"
+          ],
+          "rows": [
+            [
+              "Tech T-Shirt, gola U masculina",
+              "R$ 169",
+              "R$ 129"
+            ],
+            [
+              "Tech T-Shirt Feminina",
+              "R$ 169",
+              "R$ 129"
+            ],
+            [
+              "Tech T-Shirt Gola V",
+              "R$ 169",
+              "R$ 129"
+            ],
+            [
+              "Tech T-Shirt Manga Longa Masculina",
+              "R$ 239",
+              "R$ 199"
+            ],
+            [
+              "Core T-Shirt",
+              "R$ 189",
+              "R$ 179 a R$ 189, conforme a cor"
+            ],
+            [
+              "Kit 3 Tech T-Shirt, gola U",
+              "R$ 507",
+              "R$ 456"
+            ],
+            [
+              "Kit 5 Core T-Shirt",
+              "R$ 945",
+              "R$ 805,50"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Compare o kit com a peça avulsa: em 9 de outubro, três Tech T-Shirts avulsas saíam por R$ 387, menos que o kit de três, a R$ 456. Na Core T-Shirt foi o contrário: no kit de cinco, cada camiseta saía por R$ 161,10, abaixo do preço da avulsa.",
+          "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela."
+        ]
+      },
+      {
+        "heading": "Cuecas e calcinhas: preços de outubro",
+        "paragraphs": [
+          "No underwear, os kits saíam mais baratos por peça que as avulsas em outubro."
+        ],
+        "comparisonTable": {
+          "caption": "Underwear na Insider em 9 de outubro de 2026: preço riscado na página e preço do dia, antes do cupom e do Pix.",
+          "headers": [
+            "Produto",
+            "Preço riscado",
+            "Em 9/10/2026"
+          ],
+          "rows": [
+            [
+              "Cueca Boxer Comfort",
+              "R$ 85",
+              "R$ 79"
+            ],
+            [
+              "Kit 3 cuecas Boxer Comfort",
+              "R$ 255",
+              "R$ 229,89"
+            ],
+            [
+              "Kit 5 cuecas Comfort",
+              "R$ 425",
+              "R$ 375,25"
+            ],
+            [
+              "Cueca Boxer Performance",
+              "R$ 95",
+              "R$ 89"
+            ],
+            [
+              "Calcinha Biquíni Brief",
+              "R$ 69",
+              "R$ 49"
+            ],
+            [
+              "Kit 3 calcinhas Brief",
+              "R$ 207",
+              "R$ 139,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Cuecas e calcinhas só têm troca por defeito, por higiene. Antes de comprar um kit, confira o guia de medidas na página do produto."
+        ]
+      },
+      {
+        "heading": "Cupom, Pix e frete grátis: o que soma",
+        "bullets": [
+          "**Cupom:** o EMCASACOMCECILIA dá 15% OFF na loja online, sem valor mínimo, com todas as formas de pagamento, e soma com os preços da Black Friday, salvo quando a promoção disser o contrário. A loja aceita um cupom por pedido.",
+          "**Promoção com regra própria:** quando a página do produto avisa que o desconto não acumula com cupons, como na promoção de 10 de outubro, o cupom não entra naquele item, mas continua valendo nos outros do carrinho.",
+          "**Lançamentos:** ficam fora do cupom, mas a etiqueta de lançamento do site não é um guia confiável. No nosso teste de 5 de outubro, peças com essa etiqueta, como a Tech T-Shirt, receberam o desconto. O resumo do pedido mostra a linha do cupom em cada item que entrou nele.",
+          "**Pix:** em outubro, a loja anunciava 10% OFF no Pix, também na coleção da Black Friday. Os termos de uso trazem ainda o Pix parcelado em até 4 vezes sem juros; o checkout mostra se o desconto vale nessa opção. O desconto do Pix não vale na compra de gift card.",
+          "**Cartão e boleto:** cartão em até 3 vezes sem juros, ou de 4 a 10 vezes com juros, e boleto à vista.",
+          "**Frete grátis:** a partir de R$ 399, valor conferido depois do desconto do cupom.",
+          "**Exemplo:** quatro Tech T-Shirts e duas cuecas Comfort somavam R$ 674 em outubro. O cupom tira R$ 101,10, e o pedido fica em R$ 572,90, ainda acima dos R$ 399 do frete grátis. No Pix, entram também os 10% da loja: pela nossa conta, aplicando um desconto sobre o outro, ele sai por R$ 515,61. O resumo do checkout mostra o valor exato antes de pagar."
+        ],
+        "links": [
+          {
+            "label": "Ver o cupom EMCASACOMCECILIA e a data do último teste",
+            "href": "/cupons/insider"
+          },
+          {
+            "label": "Passo a passo do EMCASACOMCECILIA no checkout",
+            "href": "/reviews/cupom-emcasacomcecilia-insider-store-como-usar"
+          }
+        ]
+      },
+      {
+        "heading": "Trocas e presente de Natal",
+        "bullets": [
+          "**Arrependimento:** até 7 dias úteis depois do recebimento, com a peça sem uso e com a etiqueta.",
+          "**Insatisfação (tamanho, cor ou modelo):** até 21 dias corridos depois do recebimento, com a peça sem uso, com a etiqueta e sem sinal de lavagem.",
+          "**Defeito:** até 180 dias corridos depois do recebimento, com fotos do defeito.",
+          "**Como pedir:** pelo portal de trocas do site, feito pelo titular da compra. A troca é grátis.",
+          "**Underwear e moda praia:** só têm troca ou devolução por defeito.",
+          "**Brinde:** se o pedido veio com brinde e você devolve o produto, o brinde volta junto.",
+          "**Troca de presente:** quem ganhou pede a troca, sem nota fiscal e sem a embalagem original, e recebe um vale-troca no valor do item para usar no site. O prazo é de 21 dias corridos depois da entrega, com a peça sem uso, sem sinal de lavagem e com a etiqueta.",
+          "**Atenção ao prazo:** os 21 dias contam da entrega, não do Natal. Um presente entregue em 1º de dezembro tem troca até 22 de dezembro."
+        ],
+        "links": [
+          {
+            "label": "Insider Store é confiável? CNPJ, loja física, trocas e reputação",
+            "href": "/reviews/insider-store-e-confiavel"
+          }
+        ]
+      },
+      {
+        "heading": "Loja física: o cupom não vale lá",
+        "paragraphs": [
+          "A Insider tem uma Concept Store no MorumbiShopping, em São Paulo, onde dá para ver e provar as peças. Segundo a central de ajuda da loja, cupons e cashback valem só no site, então o EMCASACOMCECILIA não entra nas compras feitas ali.",
+          "Pedidos feitos no site também não podem ser retirados nem trocados na loja física: a troca segue pelo portal online."
+        ]
+      },
+      {
+        "heading": "Entrega e prazo para o Natal",
+        "paragraphs": [
+          "A Insider não publica prazos por região: o carrinho mostra as opções de entrega depois do CEP, e o prazo começa a contar quando o pagamento é aprovado. A central de ajuda avisa que os prazos podem mudar em períodos de alta demanda, como a Black Friday.",
+          "Vale levar o aviso a sério: no Reclame Aqui, mais de dois terços das reclamações dos últimos 12 meses contra a Insider vieram do semestre que inclui a Black Friday e o Natal, e a entrega é o problema mais citado.",
+          "Em 9 de outubro, simulamos o frete de quatro Tech T-Shirts (R$ 516, acima do frete grátis) com o CEP do centro de 12 capitais. Somando um dia útil de folga ao prazo do frete grátis, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
+        ],
+        "comparisonTable": {
+          "caption": "Prazo do frete grátis no carrinho da Insider em 9 de outubro de 2026, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
+          "headers": [
+            "Capital",
+            "Frete grátis no carrinho",
+            "Pagar até (estimativa)"
+          ],
+          "rows": [
+            [
+              "São Paulo",
+              "5 dias úteis",
+              "16 de dezembro"
+            ],
+            [
+              "Curitiba, Porto Alegre e Goiânia",
+              "6 dias úteis",
+              "15 de dezembro"
+            ],
+            [
+              "Rio de Janeiro e Belo Horizonte",
+              "7 dias úteis",
+              "14 de dezembro"
+            ],
+            [
+              "Brasília",
+              "8 dias úteis",
+              "11 de dezembro"
+            ],
+            [
+              "Salvador",
+              "9 dias úteis",
+              "10 de dezembro"
+            ],
+            [
+              "Fortaleza",
+              "11 dias úteis",
+              "8 de dezembro"
+            ],
+            [
+              "Belém",
+              "12 dias úteis",
+              "7 de dezembro"
+            ],
+            [
+              "Recife",
+              "13 dias úteis",
+              "4 de dezembro"
+            ],
+            [
+              "Manaus",
+              "19 dias úteis",
+              "26 de novembro"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O carrinho também mostrou uma entrega paga mais rápida: R$ 19,90 e 2 dias úteis em São Paulo, e R$ 19,90 e 3 dias úteis no Rio de Janeiro, em Belo Horizonte, Curitiba, Porto Alegre, Salvador, Recife e Fortaleza. Com ela, pela mesma conta, dá para pagar até 21 de dezembro em São Paulo e até 18 de dezembro nas outras sete. Em Belém e Manaus, a opção mais rápida levava 10 e 9 dias úteis e custava mais de R$ 60 nesse carrinho. Se o pedido é presente, peça com folga."
+        ],
+        "links": [
+          {
+            "label": "Insider Store no Reclame Aqui: nota e reclamações",
+            "href": "/reviews/insider-store-reclame-aqui-nota-reputacao"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quando começa a Black Friday da Insider? A Black Friday de 2026 é na sexta-feira, 27 de novembro, mas a Insider abriu a coleção Black Friday Insider 2026 antes: em 9 de outubro, ela já estava no site, sem datas de início e fim.",
+          "O cupom EMCASACOMCECILIA vale na Black Friday? Vale. Ele dá 15% OFF na loja online, com todas as formas de pagamento, e soma com os preços da Black Friday e com o desconto do Pix, salvo quando a promoção disser o contrário. Não vale para lançamentos nem na loja física, e a loja aceita um cupom por pedido.",
+          "Quanto custa a Tech T-Shirt na Black Friday? Em 9 de outubro de 2026, ela estava a R$ 129, contra R$ 169 do preço riscado. Com o cupom EMCASACOMCECILIA, sai por R$ 109,65. Se em novembro o preço do dia ficar abaixo de R$ 129, o desconto é maior que o de outubro.",
+          "O kit de Tech T-Shirt compensa? Em 9 de outubro de 2026, não: três Tech T-Shirts avulsas saíam por R$ 387, e o kit de três, por R$ 456. Nos kits de cueca, de calcinha e de Core T-Shirt, o preço por peça era menor que o da avulsa.",
+          "A Insider tem desconto no Pix? Em outubro de 2026, a loja anunciava 10% OFF no Pix, que soma com o cupom EMCASACOMCECILIA.",
+          "A Insider tem frete grátis? Tem, a partir de R$ 399, valor conferido depois do desconto do cupom.",
+          "Dá para trocar presente da Insider? Dá. Quem ganhou pede a troca, sem nota fiscal, e recebe um vale-troca no valor do item, em até 21 dias corridos depois da entrega. Underwear e moda praia só têm troca por defeito.",
+          "O cupom vale na loja física da Insider? Não. Cupons e cashback valem só no site, e pedidos do site não podem ser retirados nem trocados na Concept Store do MorumbiShopping.",
+          "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos do frete grátis que o carrinho mostrou em outubro e um dia útil de folga, até 16 de dezembro em São Paulo, até 14 de dezembro no Rio de Janeiro e em Belo Horizonte e até 26 de novembro em Manaus."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Entre na Insider pelo link da parceria: o cupom EMCASACOMCECILIA já vai para o carrinho. Compare os preços com as tabelas deste guia e confira o desconto em cada item antes de pagar.",
+      "label": "Ir para a Insider com o cupom",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom EMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
+        "title": "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%"
+      },
+      {
+        "slug": "insider-store-e-confiavel",
+        "title": "Insider Store é confiável? CNPJ, loja física, trocas e reputação"
+      },
+      {
+        "slug": "insider-store-reclame-aqui-nota-reputacao",
+        "title": "Insider Store no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "slug": "black-friday-nestle-nutre",
+    "title": "Black Friday Nutren 2026: Nutren Senior, Just Protein e o cupom CECI na Nestlé Nutre",
+    "seoTitle": "Black Friday Nutren Senior 2026: preços e cupom CECI",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que a Nestlé Nutre oferecia em outubro de 2026, os preços do Nutren Senior, do Just Protein e de outros produtos para adultos para comparar na Black Friday, assinatura ou compra única com o cupom CECI, o frete grátis e até quando pedir para chegar no Natal.",
+    "metaDescription": "Black Friday Nutren 2026: preços de outubro do Nutren Senior 740 g e do Just Protein, cupom CECI, assinatura, frete grátis e prazo para o Natal.",
+    "publishedAt": "10 de outubro de 2026",
+    "publishedAtISO": "2026-10-10",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
+    "imageAlt": "Lata de 740 g do Nutren Senior Zero Lactose sem sabor, em imagem oficial da loja Nestlé Nutre",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Nutren Senior, Just Protein e Nutren Active já tinham preço riscado em outubro",
+      "Kits com duas latas de Nutren Senior saíam mais baratos por lata",
+      "O cupom CECI dá 10% OFF e vale com todas as formas de pagamento",
+      "Frete grátis acima de R$ 400 na compra única e de R$ 200 na assinatura"
+    ],
+    "cons": [
+      "A loja não dá desconto no Pix",
+      "O CECI não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses",
+      "O parcelamento sem juros pede parcela mínima de R$ 75",
+      "A loja não publica os prazos de entrega por região"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Black Friday Nutren 2026",
+        "bullets": [
+          "A Black Friday de 2026 é em **27 de novembro**, e a Cyber Monday, em **30 de novembro**.",
+          "Até 10 de outubro de 2026, a Nestlé Nutre ainda não tinha anunciado campanha de Black Friday para o Nutren. Este guia é atualizado quando a loja anunciar.",
+          "Em 10 de outubro, a lata de 740 g do Nutren Senior saía por **R$ 169,37** na compra única (café com leite) e por R$ 190,61 na zero lactose sem sabor. O kit com duas latas de 740 g sem sabor saía por **R$ 263,49**.",
+          "O cupom CECI dá **10% OFF** nos produtos da loja, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Ele vale com todas as formas de pagamento e soma com os preços da Black Friday.",
+          "O frete é grátis acima de R$ 400 na compra única e acima de R$ 200 na assinatura.",
+          "Para chegar até 24 de dezembro com o frete grátis, pela nossa conta com os prazos que a loja mostrou em outubro, pague até 16 de dezembro em São Paulo, até 10 de dezembro no Rio de Janeiro e até 1º de dezembro em Manaus."
+        ]
+      },
+      {
+        "heading": "A Nestlé Nutre tem Black Friday?",
+        "paragraphs": [
+          "Não encontramos campanha de Black Friday do Nutren na loja Nestlé Nutre nos anos anteriores. Em novembro de 2025, a Nestlé disse ao site Gironews que fazia a maior Black Friday da sua história, de olho nos canais digitais, mas a reportagem não detalha ofertas do Nutren nem da loja.",
+          "O que dá para mostrar é o que a loja já cobrava em outubro de 2026: preço riscado em vários produtos para adultos, um preço menor para quem assina e kits com duas latas. Quando a campanha de 2026 for anunciada, as condições entram aqui, com o que mudou em relação a outubro."
+        ]
+      },
+      {
+        "heading": "Nutren Senior: preços de outubro",
+        "paragraphs": [
+          "O Nutren Senior é a linha da loja para quem já passou dos 50 anos. Este guia trata só dos produtos para adultos.",
+          "Na página de cada produto aparecem até três preços: o riscado, o da compra única e o da assinatura."
+        ],
+        "comparisonTable": {
+          "caption": "Nutren Senior na loja Nestlé Nutre em 10 de outubro de 2026, como a página de cada produto mostrava, antes do cupom. O traço indica produto sem preço riscado.",
+          "headers": [
+            "Produto",
+            "Preço riscado",
+            "Compra única",
+            "Assinatura"
+          ],
+          "rows": [
+            [
+              "Nutren Senior Café com Leite, lata de 740 g",
+              "R$ 188,19",
+              "R$ 169,37",
+              "R$ 150,55"
+            ],
+            [
+              "Nutren Senior Zero Lactose Sem Sabor, lata de 740 g",
+              "R$ 211,79",
+              "R$ 190,61",
+              "R$ 169,43"
+            ],
+            [
+              "Kit Nutren Senior Sem Sabor, 2 latas de 740 g",
+              "—",
+              "R$ 263,49",
+              "R$ 237,14"
+            ],
+            [
+              "Kit Nutren Senior Zero Lactose Sem Sabor, 2 latas de 740 g",
+              "—",
+              "R$ 296,50",
+              "R$ 266,85"
+            ],
+            [
+              "Combo Nutren Senior Sem Sabor, 2 latas de 740 g",
+              "R$ 376,38",
+              "R$ 319,92",
+              "R$ 282,29"
+            ],
+            [
+              "Nutren Senior Café com Leite, lata de 370 g",
+              "—",
+              "R$ 100,79",
+              "R$ 90,71"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Repare nos kits: em 10 de outubro, o kit com duas latas de 740 g sem sabor saía por R$ 263,49, cerca de R$ 131,75 por lata, menos que o combo de duas latas sem sabor (R$ 319,92) e que uma lata avulsa de café com leite (R$ 169,37). Conferimos no carrinho que o preço do kit vale para as duas latas.",
+          "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela."
+        ],
+        "links": [
+          {
+            "label": "Nutren Senior Zero Lactose: o que saber antes de comprar",
+            "href": "/reviews/nutren-senior-zero-lactose-ficha-tecnica"
+          },
+          {
+            "label": "Como tomar Nutren Senior sem empelotar",
+            "href": "/reviews/nutren-senior-como-tomar-sem-empelotar"
+          }
+        ]
+      },
+      {
+        "heading": "Just Protein, Creatina, FiberMais e outros: preços de outubro",
+        "paragraphs": [
+          "Nos outros produtos para adultos, o preço riscado aparecia no Just Protein, no Nutren Control e no Nutren Active. A Creatina e o FiberMais estavam pelo preço cheio, com desconto só na assinatura."
+        ],
+        "comparisonTable": {
+          "caption": "Outros produtos para adultos na loja Nestlé Nutre em 10 de outubro de 2026, como a página de cada produto mostrava, antes do cupom. O traço indica produto sem preço riscado.",
+          "headers": [
+            "Produto",
+            "Preço riscado",
+            "Compra única",
+            "Assinatura"
+          ],
+          "rows": [
+            [
+              "Nutren Just Protein, lata de 280 g",
+              "R$ 128,79",
+              "R$ 115,91",
+              "R$ 103,03"
+            ],
+            [
+              "Combo Nutren Just Protein, 2 latas de 280 g",
+              "R$ 257,58",
+              "R$ 193,18",
+              "R$ 167,43"
+            ],
+            [
+              "Nutren Creatina, sachê de 300 g",
+              "—",
+              "R$ 59,90",
+              "R$ 53,91"
+            ],
+            [
+              "FiberMais Sem Sabor, lata de 260 g",
+              "—",
+              "R$ 144,89",
+              "R$ 130,40"
+            ],
+            [
+              "Nutren Control Baunilha, lata de 740 g",
+              "R$ 214,89",
+              "R$ 171,91",
+              "R$ 150,42"
+            ],
+            [
+              "Nutren Active Baunilha, lata de 400 g",
+              "R$ 63,49",
+              "R$ 50,79",
+              "R$ 44,44"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No combo de duas latas, o Just Protein saía por R$ 96,59 a lata na compra única, 25% abaixo do preço riscado."
+        ],
+        "links": [
+          {
+            "label": "Nutren Just Protein: tudo o que você precisa saber",
+            "href": "/reviews/nutren-just-protein-para-que-serve"
+          },
+          {
+            "label": "Nutren Creatina é boa? Comparativo com Growth, FTW e Cimed",
+            "href": "/reviews/nutren-creatina-e-boa-comparativo-growth-ftw-cimed"
+          },
+          {
+            "label": "FiberMais: como usar em receitas e bebidas",
+            "href": "/reviews/fibermais-como-usar-em-receitas-e-bebidas"
+          }
+        ]
+      },
+      {
+        "heading": "Assinatura ou compra única com o cupom CECI",
+        "bullets": [
+          "**Assinatura:** a loja anuncia 10% OFF na primeira compra e 15% OFF a partir da terceira recorrência, em assinaturas acima de R$ 200, sobre o preço de compra única. As entregas são a cada 30, 60 ou 90 dias, e o preço de assinatura de cada produto está nas tabelas acima.",
+          "**Regras da assinatura:** uma assinatura ativa por CPF, paga só no cartão de crédito, com frete grátis acima de R$ 200. Dá para pular até duas entregas por ano e cancelar sem custo.",
+          "**Compra única com o CECI:** o cupom dá 10% OFF, com todas as formas de pagamento, e soma com os preços da Black Friday. Pela nossa conta, a lata de 740 g do Nutren Senior Zero Lactose, de R$ 190,61, sai por R$ 171,55, e o kit com duas latas sem sabor, de R$ 263,49, sai por R$ 237,14.",
+          "**Qual sai mais barato?** Na primeira entrega, os dois caminhos ficaram perto em outubro: na lata zero lactose, R$ 169,43 na assinatura e R$ 171,55 na compra única com o CECI; no kit sem sabor, R$ 237,14 nos dois. Para uma compra de vez em quando, a compra única com o cupom resolve; para quem usa todo mês, a assinatura sobe para 15% a partir da terceira entrega.",
+          "**Frete grátis:** acima de R$ 400 na compra única, na transportadora que o site define, e acima de R$ 200 na assinatura. Uma lata de 740 g sozinha não chega a R$ 400; três latas zero lactose passam do valor mesmo com o cupom (R$ 514,65, pela nossa conta)."
+        ],
+        "links": [
+          {
+            "label": "Ver o cupom CECI e a data do último teste",
+            "href": "/cupons/nestle-nutre"
+          },
+          {
+            "label": "Passo a passo do CECI no checkout",
+            "href": "/reviews/cupom-ceci-nestle-nutre-como-usar"
+          }
+        ]
+      },
+      {
+        "heading": "Pagamento, troca e devolução",
+        "bullets": [
+          "**Cartão de crédito:** até 6 vezes sem juros, com parcela mínima de R$ 75. Um pedido de R$ 150, por exemplo, sai em 2 vezes de R$ 75.",
+          "**Pix:** o QR Code aparece ao fechar o pedido. A loja não anuncia desconto no Pix.",
+          "**Dano, falta de item ou desistência:** avise a loja em até 7 dias da entrega, pelo 0800-770-2461 ou pelo e-mail do atendimento.",
+          "**Troca e devolução:** seguem o Código de Defesa do Consumidor e são pedidas pelo atendimento da loja. No cartão, o estorno sai de uma vez, na fatura seguinte ou na outra."
+        ],
+        "links": [
+          {
+            "label": "Nestlé Nutre é confiável? O que observar antes de comprar",
+            "href": "/reviews/nestle-nutre-e-confiavel"
+          }
+        ]
+      },
+      {
+        "heading": "Entrega e prazo para o Natal",
+        "paragraphs": [
+          "A Nestlé Nutre não publica prazos por região: a página de cada produto tem um calculador de frete pelo CEP. Pelos termos de uso, o pedido pode levar até 48 horas para ser processado, e o prazo de entrega conta a partir da nota fiscal enviada por e-mail.",
+          "Em 10 de outubro, simulamos no calculador o frete de três latas de 740 g do Nutren Senior Zero Lactose (R$ 571,83, acima do frete grátis) com o CEP do centro de 12 capitais. Somando os dois dias de processamento e um dia útil de folga, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
+        ],
+        "comparisonTable": {
+          "caption": "Prazo do frete grátis no calculador da Nestlé Nutre em 10 de outubro de 2026, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
+          "headers": [
+            "Capital",
+            "Frete grátis no calculador",
+            "Pagar até (estimativa)"
+          ],
+          "rows": [
+            [
+              "São Paulo",
+              "3 dias úteis",
+              "16 de dezembro"
+            ],
+            [
+              "Brasília, Goiânia e Salvador",
+              "5 dias úteis",
+              "14 de dezembro"
+            ],
+            [
+              "Belo Horizonte e Recife",
+              "6 dias úteis",
+              "11 de dezembro"
+            ],
+            [
+              "Rio de Janeiro, Curitiba e Fortaleza",
+              "7 dias úteis",
+              "10 de dezembro"
+            ],
+            [
+              "Porto Alegre",
+              "8 dias úteis",
+              "9 de dezembro"
+            ],
+            [
+              "Belém",
+              "9 dias úteis",
+              "8 de dezembro"
+            ],
+            [
+              "Manaus",
+              "14 dias úteis",
+              "1º de dezembro"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O calculador também mostrou entregas pagas mais rápidas. No Rio de Janeiro, em Curitiba, Porto Alegre, Brasília e Goiânia, uma opção de R$ 16 a R$ 20 encurtava o prazo em um ou dois dias úteis. No Norte e no Nordeste, o Sedex levava de 3 a 6 dias úteis, mas custava de R$ 98,60 a R$ 147,90 nesse carrinho.",
+          "É uma estimativa com os prazos de outubro: se a lata está no fim ou o pedido é presente, peça antes."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quando é a Black Friday da Nestlé Nutre? A Black Friday de 2026 é na sexta-feira, 27 de novembro, e a Cyber Monday, na segunda, 30 de novembro. Até 10 de outubro de 2026, a loja ainda não tinha anunciado campanha para o Nutren.",
+          "Quanto custa o Nutren Senior 740 g? Em 10 de outubro de 2026, a lata de café com leite saía por R$ 169,37 na compra única (preço riscado de R$ 188,19), e a zero lactose sem sabor, por R$ 190,61 (riscado de R$ 211,79). O kit com duas latas sem sabor saía por R$ 263,49.",
+          "O Nutren Senior fica mais barato na Black Friday? Em outubro de 2026, ele já estava abaixo do preço riscado, e o kit com duas latas saía por cerca de R$ 131,75 a lata. Se em novembro o preço do dia ficar abaixo das tabelas deste guia, o desconto é maior que o de outubro.",
+          "O cupom CECI vale para o Nutren Senior? Vale. O CECI dá 10% OFF, com todas as formas de pagamento, e soma com os preços da Black Friday: pela nossa conta, a lata zero lactose de R$ 190,61 sai por R$ 171,55.",
+          "Quais produtos ficam fora do cupom CECI? Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Nos demais produtos da loja, o cupom dá 10% OFF.",
+          "A Nestlé Nutre tem frete grátis? Tem, acima de R$ 400 na compra única e acima de R$ 200 na assinatura.",
+          "Como funciona a assinatura da Nestlé Nutre? A loja anuncia 10% OFF na primeira compra e 15% OFF a partir da terceira recorrência, em assinaturas acima de R$ 200, com entregas a cada 30, 60 ou 90 dias. É uma assinatura por CPF, paga no cartão de crédito, e dá para cancelar sem custo.",
+          "A Nestlé Nutre parcela sem juros? Parcela, em até 6 vezes sem juros no cartão, com parcela mínima de R$ 75. No Pix, a loja não anuncia desconto.",
+          "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos do frete grátis que a loja mostrou em outubro, os dois dias de processamento e um dia útil de folga, até 16 de dezembro em São Paulo, até 10 de dezembro no Rio de Janeiro e até 1º de dezembro em Manaus."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Quando a Black Friday começar, compare os preços com as tabelas deste guia e aplique o cupom CECI no checkout da Nestlé Nutre antes de pagar.",
+      "label": "Ir para a Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom CECI.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar",
+        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+      },
+      {
+        "slug": "nutren-senior-como-tomar-sem-empelotar",
+        "title": "Como Tomar Nutren Senior Sem Empelotar"
+      },
+      {
+        "slug": "nutren-just-protein-para-que-serve",
+        "title": "Nutren Just Protein: tudo o que você precisa saber"
+      }
+    ]
   }
 ];
