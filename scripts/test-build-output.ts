@@ -605,14 +605,14 @@ for (const url of articleUrls) {
     getArticleCopy(locale).breadcrumbLabel,
     `${pagePath}: nome da trilha para o leitor de tela fora do idioma do artigo`
   );
-  // Cada nota da review aparece com o título do idioma, e nenhuma outra; por conjunto, porque a mesma
-  // nota pode sair mais de uma vez na página. O Review legado de data.ts não declara as notas, que vêm no índice.
+  // Cada nota da review aparece uma vez, com o título do idioma, e nenhuma outra. O Review legado de
+  // data.ts não declara as notas, que vêm no índice.
   const noteTitle = getArticleCopy(locale).editorialNoteTitle;
   const notes = (review as { notes?: EditorialNoteData[] }).notes ?? [];
   assert.deepEqual(
-    [...new Set(editorialNoteLabelsIn(body))].sort(),
-    [...new Set(notes.map((note) => `${noteTitle}: ${note.label}`))].sort(),
-    `${pagePath}: nota editorial fora do idioma do artigo ou faltando`
+    editorialNoteLabelsIn(body).sort(),
+    notes.map((note) => `${noteTitle}: ${note.label}`).sort(),
+    `${pagePath}: nota editorial fora do idioma do artigo, faltando ou repetida`
   );
   if (notes.length) notedArticles++;
 
