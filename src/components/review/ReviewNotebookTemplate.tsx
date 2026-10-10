@@ -536,6 +536,9 @@ export function ReviewNotebookTemplate({
                       />
                     </div>
                   )}
+                  {/* A contagem de seções da âncora de linha (S0, S1…) recomeça aqui: uma nota S0 sairia
+                      nesta parte e na de antes dos passos. Nenhum artigo usa âncora de linha, e o
+                      test:build-output barra a nota repetida. */}
                   {postStepSections.length > 0 && (
                     <div className="mt-12">
                       <ReviewContentSections
