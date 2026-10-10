@@ -3,8 +3,9 @@ import Image from 'next/image';
 import { BadgeCheck, ChevronDown, ChevronRight, Globe, HandCoins, Lock, ShoppingBag } from 'lucide-react';
 import { TrackedHomeLink } from '@/components/TrackedHomeLink';
 import { SocialIcon } from '@/components/sections/CeciliaProfile';
-import { CARD_DECOR, LatestCard } from '@/components/sections/HomeLatest';
+import { LatestCard } from '@/components/sections/HomeLatest';
 import { HomeSection } from '@/components/sections/HomeSection';
+import { cardDecorAt } from '@/components/ui/cardDecor';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { ScrollRow } from '@/components/ui/ScrollRow';
 import type { LocaleHomeContent } from '@/lib/localeHome';
@@ -82,7 +83,7 @@ export function LocaleHomeArticles({ articles }: { articles: LocaleHomeContent['
           <li key={article.slug} className="revela flex w-[220px] shrink-0 snap-start md:w-auto" style={cardIndex(index)}>
             <LatestCard
               article={article}
-              decor={CARD_DECOR[index % CARD_DECOR.length]}
+              decor={cardDecorAt(index)}
               placement="locale_home_articles"
               meta={article.dateLabel}
               imageSizes={ARTICLE_IMAGE_SIZES}
