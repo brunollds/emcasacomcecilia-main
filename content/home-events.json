@@ -9,8 +9,15 @@
       "dayAt": "2026-11-27T00:00:00-03:00",
       "startsAt": "2026-10-09T00:00:00-03:00",
       "endsAt": "2026-12-01T00:00:00-03:00",
-      "description": "Guias da Black Friday 2026 na DAMIE, na Dolce Gusto e na Let's Eat It: os preços de outubro para comparar e como usar o cupom de cada loja.",
-      "articleSlugs": ["black-friday-damie", "black-friday-dolce-gusto", "black-friday-letseatit"]
+      "description": "Guias da Black Friday 2026 na DAMIE, na Dolce Gusto, na Let's Eat It, na I Wanna Sleep, na Insider e na Nestlé Nutre: os preços de outubro para comparar e como usar o cupom de cada loja.",
+      "articleSlugs": [
+        "black-friday-damie",
+        "black-friday-dolce-gusto",
+        "black-friday-letseatit",
+        "black-friday-i-wanna-sleep",
+        "black-friday-insider",
+        "black-friday-nestle-nutre"
+      ]
     }
   ]
 }
