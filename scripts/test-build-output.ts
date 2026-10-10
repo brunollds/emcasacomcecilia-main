@@ -44,9 +44,9 @@ import { LABEL_SAME_AS_PORTUGUESE, codeAsCouponRegExp, getPtStoreTexts, isStoreL
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
 // das lojas traduzidas e dos artigos de cada família, as páginas da YesStyle, o dock, a sidebar, a
 // trilha e a interface dos artigos no idioma de cada um, os textos que citam o CECILIA010, a home,
-// os cards de /reviews, as subpáginas de loja e as páginas de data, ambas com a imagem de
-// compartilhamento, as homes de cada idioma, o JSON-LD e o lastmod do sitemap. O <html lang> fica
-// com test-c2-html-lang.
+// a estante de /reviews e das subpáginas de loja e as páginas de data (as subpáginas e as datas,
+// ambas com a imagem de compartilhamento), as homes de cada idioma, o JSON-LD e o lastmod do
+// sitemap. O <html lang> fica com test-c2-html-lang.
 const SITE_URL = 'https://emcasacomcecilia.com';
 const APP_DIR = path.resolve('.next/server/app');
 const CSS_DIR = path.resolve('.next/static/css');
@@ -1377,17 +1377,48 @@ function assertSitemapLastmod(pagePath: string, articles: readonly { updatedAt?:
   assert.equal(sitemapEntry?.match(/<lastmod>([^<]+)<\/lastmod>/)?.[1], newestDate, `${pagePath}: lastmod no sitemap.xml`);
 }
 
-// A trilha visível de uma subpágina (o <nav> com o rótulo da trilha dos artigos em português) é a do
-// BreadcrumbList do JSON-LD, item por item.
+// A trilha visível de uma subpágina (o <nav> com o rótulo da trilha dos artigos em português), item por
+// item: o nome, o endereço e o aria-current.
 const STORE_TRAIL_LABEL = getArticleCopy('pt').breadcrumbLabel;
-function storeTrailNames(body: string): string[] {
+function storeTrailOf(body: string) {
   const nav = between(body, `<nav aria-label="${STORE_TRAIL_LABEL}"`, ['</nav>']);
-  return [...nav.matchAll(/<li\b[^>]*>([\s\S]*?)<\/li>/g)].map(([, item]) => textOf(item).replace(/›$/, '').trim());
+  return [...nav.matchAll(/<li\b[^>]*>([\s\S]*?)<\/li>/g)].map(([, item]) => {
+    const href = item.match(/<a\b[^>]*\bhref="([^"]+)"/)?.[1];
+    return {
+      name: textOf(item).replace(/›$/, '').trim(),
+      href: href === undefined ? null : decodeHtml(href),
+      current: /<span\b[^>]*\baria-current="page"/.test(item),
+    };
+  });
 }
 
-// Subpágina de cada loja com mais de 3 artigos: o h1 (um só), o canonical, a trilha visível igual ao
-// BreadcrumbList, a estante (busca só acima de 12 artigos e só as categorias da loja), o link da página
-// da loja, Outras lojas sem a loja da página, a imagem de compartilhamento, o JSON-LD e a data no sitemap.
+// Os itens da trilha com o nome e o endereço da lista da página; o último é a própria página, um
+// <span aria-current="page"> sem link. O BreadcrumbList do JSON-LD tem os mesmos nomes e as mesmas URLs.
+function assertStoreTrail(pagePath: string, html: string, trail: readonly { name: string; path: string }[]) {
+  const crumbs = storeTrailOf(bodyOf(html));
+  assert.deepEqual(
+    crumbs,
+    trail.map(({ name, path }, index) => {
+      const last = index === trail.length - 1;
+      return { name, href: last ? null : path, current: last };
+    }),
+    `${pagePath}: trilha visível`
+  );
+  assert.deepEqual(
+    schemaTrailOf(jsonLdOf(html).find((schema) => schema['@type'] === 'BreadcrumbList')),
+    crumbs.map(({ name, href }) => ({ name, url: new URL(href ?? pagePath, SITE_URL).href })),
+    `${pagePath}: trilha visível diferente do BreadcrumbList`
+  );
+}
+
+// O h2 da estante na subpágina fica só para o leitor de tela (o h1 já é o título).
+const STORE_SHELF_HEADING = 'Lista de artigos';
+const STORE_ALL_REVIEWS_LABEL = 'Ver todos os guias e análises';
+
+// Subpágina de cada loja com mais de 3 artigos: o h1 (um só), o canonical, a trilha visível (nome, endereço
+// e aria-current) igual ao BreadcrumbList, a estante (com o h2 só para leitor de tela, busca só acima de 12
+// artigos e só as categorias da loja), o link da página da loja, Outras lojas sem a loja da página, o link
+// para todos os guias, a imagem de compartilhamento, o JSON-LD e a data no sitemap.
 const storeArticleSlugs = getStoreArticlePageSlugs(publishedReviews);
 for (const slug of storeArticleSlugs) {
   const page = getStoreShelfContent(publishedReviews, slug);
@@ -1405,16 +1436,14 @@ for (const slug of storeArticleSlugs) {
   assert.ok(body.includes(hrefOf(page.storePageUrl)), `${pagePath}: sem o link de ${page.storePageUrl}`);
   assert.ok(!html.includes('data-reveal'), `${pagePath}: data-reveal no HTML`);
 
-  const trailNames = page.trail.map(({ name }) => name);
-  assert.deepEqual(storeTrailNames(body), trailNames, `${pagePath}: trilha visível`);
-  const breadcrumb = jsonLdOf(html).find((schema) => schema['@type'] === 'BreadcrumbList');
-  assert.deepEqual(
-    breadcrumb?.itemListElement?.map((item: { name: string }) => item.name),
-    trailNames,
-    `${pagePath}: trilha visível diferente do BreadcrumbList`
-  );
+  assertStoreTrail(pagePath, html, page.trail);
 
   assertShelfPage(pagePath, body, { articles: page.articles, searchLabel: page.search?.label ?? null });
+  const shelfTitle = [...body.matchAll(/<h2\b([^>]*)>([\s\S]*?)<\/h2>/g)].find(([, attributes]) => /\bid="titulo-estante"/.test(attributes));
+  assert.ok(shelfTitle, `${pagePath}: sem o h2#titulo-estante`);
+  assert.match(shelfTitle[1], /\bclass="(?:[^"]*\s)?sr-only(?:\s[^"]*)?"/, `${pagePath}: h2 da estante visível, sem a classe sr-only`);
+  assert.equal(textOf(shelfTitle[2]), STORE_SHELF_HEADING, `${pagePath}: texto do h2 da estante`);
+  assert.equal(body.includes('data-categorias="true"'), page.categories.length > 1, `${pagePath}: categorias onde não devia, ou faltando`);
   const chips = between(body, 'data-categorias="true"', ['</div>']);
   assert.deepEqual(
     [...chips.matchAll(/<button\b[^>]*aria-pressed="(?:true|false)"[^>]*>([^<]*)<\/button>/g)].map(([, label]) => decodeHtml(label)),
@@ -1431,7 +1460,10 @@ for (const slug of storeArticleSlugs) {
       `${pagePath}: Outras lojas`
     );
   }
-  assert.ok(!page.otherStores.some((store) => store.slug === slug), `${pagePath}: Outras lojas com a própria loja`);
+  const allReviewsLink = [...body.matchAll(/<a\b([^>]*)>([\s\S]*?)<\/a>/g)].find(
+    ([, attributes, content]) => /\bhref="\/reviews"/.test(attributes) && textOf(content) === STORE_ALL_REVIEWS_LABEL
+  );
+  assert.ok(allReviewsLink, `${pagePath}: sem o link "${STORE_ALL_REVIEWS_LABEL}" para /reviews`);
 
   const store = getCouponBySlug(slug);
   assert.ok(store, `${pagePath}: sem a loja ${slug} em couponsData`);
@@ -1440,19 +1472,46 @@ for (const slug of storeArticleSlugs) {
   assertSitemapLastmod(pagePath, storeReviews);
 }
 
-// O guarda da trilha acusa o último item trocado.
+// Os guardas da trilha acusam cada defeito: o último item com outro nome, o endereço de um item trocado, o
+// último item sem o aria-current e um BreadcrumbList com outro nome ou outra URL.
 {
   const [slug] = storeArticleSlugs;
   const page = getStoreShelfContent(publishedReviews, slug);
   const file = page && builtFile(`${SITE_URL}${page.path}`);
   assert.ok(page && file, 'sem subpágina para o controle da trilha');
-  const body = bodyOf(read(file));
-  const navStart = body.indexOf(`<nav aria-label="${STORE_TRAIL_LABEL}"`);
-  assert.ok(navStart >= 0, 'sem a trilha para o controle da trilha');
-  const swapped =
-    body.slice(0, navStart) + body.slice(navStart).replace(`>${escapeHtml(page.title)}<`, '>Outro título<');
-  assert.notEqual(swapped, body, 'o controle da trilha não trocou o último item');
-  assert.notDeepEqual(storeTrailNames(swapped), page.trail.map(({ name }) => name), 'o guarda da trilha deixou passar');
+  const html = read(file);
+  assertStoreTrail(page.path, html, page.trail);
+
+  const navStart = html.indexOf(`<nav aria-label="${STORE_TRAIL_LABEL}"`);
+  const navEnd = html.indexOf('</nav>', navStart);
+  assert.ok(navStart >= 0 && navEnd > navStart, 'sem a trilha para o controle da trilha');
+  const inNav = (edit: (nav: string) => string) => html.slice(0, navStart) + edit(html.slice(navStart, navEnd)) + html.slice(navEnd);
+  const inBreadcrumb = (edit: (items: Array<{ name: string; item: string }>) => void) =>
+    html.replace(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g, (script, json) => {
+      const schema = JSON.parse(json);
+      if (schema['@type'] !== 'BreadcrumbList') return script;
+      edit(schema.itemListElement);
+      return `<script type="application/ld+json">${JSON.stringify(schema)}</script>`;
+    });
+
+  const visibleDefects: Array<[string, string]> = [
+    [inNav((nav) => nav.replace(`>${escapeHtml(page.title)}<`, '>Outro título<')), 'o último item com outro nome passa'],
+    [inNav((nav) => nav.replace('href="/reviews"', 'href="/outra-pagina"')), 'o endereço trocado de "Guias & Análises" passa'],
+    [inNav((nav) => nav.replace(' aria-current="page"', '')), 'o último item sem aria-current passa'],
+  ];
+  for (const [mutated, why] of visibleDefects) {
+    assert.notEqual(mutated, html, `o controle da trilha não mudou nada: ${why}`);
+    assert.throws(() => assertStoreTrail(page.path, mutated, page.trail), /: trilha visível(?! diferente do BreadcrumbList)/, why);
+  }
+
+  const schemaDefects: Array<[string, string]> = [
+    [inBreadcrumb((items) => void (items[1].name = 'Outro nome')), 'um nome trocado no BreadcrumbList passa'],
+    [inBreadcrumb((items) => void (items[1].item = `${SITE_URL}/outra-pagina`)), 'uma URL trocada no BreadcrumbList passa'],
+  ];
+  for (const [mutated, why] of schemaDefects) {
+    assert.notEqual(mutated, html, `o controle do BreadcrumbList não mudou nada: ${why}`);
+    assert.throws(() => assertStoreTrail(page.path, mutated, page.trail), /: trilha visível diferente do BreadcrumbList/, why);
+  }
 }
 
 // Página de cada data com edição no home-events.json: o h1, o canonical, a imagem de compartilhamento,

@@ -9,7 +9,6 @@ import {
   isValidReviewPublishedAtISO,
   parseReviewCategory,
   sortReviewsByPublishedAt,
-  toHomeReviewCard,
   type ReviewCategory,
   type ReviewDiscoveryItem,
 } from '@/lib/reviewDiscovery';
@@ -53,11 +52,6 @@ const counts = Object.fromEntries(
 for (const value of categoryValues) {
   assert.ok(counts[value] > 0, `${value}: categoria sem artigo`);
 }
-
-const firstCard = toHomeReviewCard(listed[0]);
-assert.equal(firstCard.category, listed[0].category);
-assert.equal(firstCard.slug, listed[0].slug);
-assert.ok(firstCard.readingMinutes >= 2);
 
 function fixture(
   id: number,

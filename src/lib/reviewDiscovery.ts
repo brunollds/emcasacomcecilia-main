@@ -38,23 +38,6 @@ export interface ReviewDiscoveryItem {
   }>;
 }
 
-export interface HomeReviewCard {
-  id: number;
-  slug: string;
-  title: string;
-  type: string;
-  category: ReviewCategory;
-  publishedAt: string;
-  publishedAtISO: string;
-  image?: string;
-  imageAlt?: string;
-  imageFit?: 'cover' | 'contain';
-  imagePosition?: 'center' | 'top' | 'bottom' | 'left' | 'right';
-  isNew?: boolean;
-  rating?: number;
-  readingMinutes: number;
-}
-
 const REVIEW_CATEGORY_VALUES = new Set<string>(
   REVIEW_CATEGORIES.map(({ value }) => value)
 );
@@ -126,50 +109,4 @@ export function sortReviewsByPublishedAt<T extends ReviewDiscoveryItem & {
   publishedAtISO: string;
 }>(reviews: readonly T[]): T[] {
   return [...reviews].sort(compareReviewsByDateAndId);
-}
-
-export function estimateReviewReadingMinutes(
-  review: ReviewDiscoveryItem
-): number {
-  const words = [
-    review.title,
-    review.description,
-    ...(review.pros || []),
-    ...(review.cons || []),
-    ...(review.contentSections || []).flatMap((section) => [
-      section.heading,
-      ...(section.paragraphs || []),
-      ...(section.bullets || []),
-    ]),
-  ]
-    .filter(Boolean)
-    .join(' ')
-    .trim()
-    .split(/\s+/)
-    .filter(Boolean).length;
-
-  return Math.max(2, Math.ceil(words / 180));
-}
-
-export function toHomeReviewCard(
-  review: ReviewDiscoveryItem
-): HomeReviewCard {
-  assertDiscoverableReview(review);
-
-  return {
-    id: review.id,
-    slug: review.slug,
-    title: review.title,
-    type: review.type,
-    category: review.category,
-    publishedAt: review.publishedAt,
-    publishedAtISO: review.publishedAtISO,
-    image: review.image,
-    imageAlt: review.imageAlt,
-    imageFit: review.imageFit,
-    imagePosition: review.imagePosition,
-    isNew: review.isNew,
-    rating: review.rating,
-    readingMinutes: estimateReviewReadingMinutes(review),
-  };
 }
