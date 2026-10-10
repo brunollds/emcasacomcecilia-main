@@ -28,6 +28,7 @@ import {
   GRID_PAGE_SIZE,
   LIST_PAGE_SIZE,
   countLabel,
+  draftValue,
   emptySearchMessage,
   filterShelf,
   firstPage,
@@ -38,12 +39,15 @@ import {
   getShelfSearchParameters,
   hasSearchText,
   isSearching,
+  isSearchWriteDue,
   pageSizeOf,
   parseShelfQuery,
   readShelfQuery,
+  rebaseDraft,
   resultsLabel,
   reviewsSearchHref,
   searchWords,
+  searchWriteDelay,
   settlePage,
   shelfPlacement,
   shelfSearch,
@@ -53,6 +57,7 @@ import {
   urlSearchOf,
   visibleAfterViewChange,
   withShelfQuery,
+  type SearchDraft,
   type ShelfArticle,
   type ShelfQuery,
 } from '@/lib/reviewsShelf';
@@ -827,7 +832,15 @@ const storeShelf = render(
   })
 );
 assert.ok(!storeShelf.includes('role="search"'));
-assert.ok(storeShelf.includes('<h2 id="titulo-estante" class="sr-only">Lista de artigos</h2>'));
+// O título da estante é o alvo do foco programático (Enter no celular, "Buscar em todas as categorias"):
+// tabindex -1 e sem anel.
+const storeTitle = storeShelf.match(/<h2[^>]*id="titulo-estante"[^>]*>Lista de artigos<\/h2>/)?.[0] ?? '';
+assert.match(storeTitle, /class="sr-only\b[^"]*"/, 'título só para leitor de tela na subpágina');
+assert.match(storeTitle, /tabindex="-1"/, 'título focável por código');
+assert.match(storeTitle, /class="[^"]*\bfocus:outline-none\b/, 'sem anel no foco programático');
+const shelfTitle = shelfHtml.match(/<h2[^>]*id="titulo-estante"[^>]*>/)?.[0] ?? '';
+assert.match(shelfTitle, /tabindex="-1"/);
+assert.match(shelfTitle, /class="[^"]*\bfocus:outline-none\b/);
 assert.ok(!storeShelf.includes('data-categorias'));
 assert.ok(!storeShelf.includes('Carregar mais'));
 assert.ok(storeShelf.includes('>3 artigos<'));
@@ -842,6 +855,46 @@ const onB = settlePage(openedOnA, '?categoria=cupons-como-usar');
 assert.deepEqual(onB, firstPage('?categoria=cupons-como-usar'));
 assert.deepEqual(settlePage(onB, ''), { key: '', visible: GRID_PAGE_SIZE, newFrom: -1 }, 'voltar a A mostra a primeira página');
 assert.deepEqual(firstPage('?q=a'), { key: '?q=a', visible: GRID_PAGE_SIZE, newFrom: -1 });
+
+// O rascunho do campo ({ text, base }: o texto e o q da URL de quando a pessoa digitou). A gravação da busca
+// leva a base para o q gravado, e Voltar/Avançar passam a mostrar o q da URL; Esc e uma letra rápida
+// seguem o mesmo caminho da digitação.
+const typed = (text: string, urlQ: string): SearchDraft => ({ text, base: urlQ });
+// Busca seguida de Voltar: digita "sono" em /reviews?categoria=a (q ''), a gravação entra com replace e
+// Voltar leva a uma entrada com q ''.
+let draft = typed('sono', '');
+assert.equal(draftValue(draft, ''), 'sono', 'enquanto digita, o campo é o rascunho');
+assert.equal(isSearchWriteDue(draft, ''), true);
+draft = rebaseDraft(draft, 'sono');
+assert.deepEqual(draft, { text: 'sono', base: 'sono' });
+assert.equal(draftValue(draft, 'sono'), 'sono');
+assert.equal(isSearchWriteDue(draft, 'sono'), false, 'gravado: nada a gravar');
+assert.equal(draftValue(draft, ''), '', 'Voltar mostra o q da URL, não a busca de volta');
+assert.equal(isSearchWriteDue(draft, ''), false, 'e não regrava a busca na entrada antiga');
+assert.equal(draftValue(draft, 'sono'), 'sono', 'Avançar volta à busca');
+// Esc: o rascunho vai a '' e o mesmo caminho grava; uma letra antes do callback troca o rascunho e o campo
+// segue com a letra (a base ainda é o q velho, então o campo não cai para a URL).
+draft = rebaseDraft(typed('abc', ''), 'abc');
+draft = typed('', 'abc');
+assert.equal(isSearchWriteDue(draft, 'abc'), true, 'limpar também precisa de gravação');
+assert.equal(searchWriteDelay(draft.text), 0, 'campo vazio grava na hora');
+draft = typed('x', 'abc');
+assert.equal(draftValue(draft, 'abc'), 'x', 'a letra rápida fica no campo');
+assert.equal(isSearchWriteDue(draft, 'abc'), true);
+assert.equal(searchWriteDelay(draft.text), 120);
+draft = rebaseDraft(draft, 'x');
+assert.equal(draftValue(draft, 'x'), 'x');
+// a, b, c rápido, a transição no meio: a gravação de "a" é descartada (stale no efeito) e o campo segue com
+// "ab" até a de "ab" entrar; "c" parte da base nova.
+draft = typed('ab', '');
+assert.equal(draftValue(draft, ''), 'ab');
+draft = rebaseDraft(draft, 'ab');
+draft = typed('abc', 'ab');
+assert.equal(draftValue(draft, 'ab'), 'abc');
+assert.equal(isSearchWriteDue(draft, 'ab'), true);
+// Espaços nas pontas não pedem gravação nova.
+assert.equal(isSearchWriteDue(typed('abc ', 'abc'), 'abc'), false);
+assert.equal(isSearchWriteDue(typed(' ', ''), ''), false);
 
 // Sem campo de busca (subpágina), o ?q= digitado à mão na URL é ignorado; categoria e ordem continuam.
 assert.equal(readShelfQuery('?q=poltrona', ALL, true).q, 'poltrona');

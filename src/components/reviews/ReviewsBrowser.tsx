@@ -26,6 +26,7 @@ import {
   SEARCH_EVENT_DELAY_MS,
   SHELF_CONTROL_EVENT,
   SHELF_SEARCH_EVENT,
+  draftValue,
   emptySearchMessage,
   filterShelf,
   firstPage,
@@ -34,10 +35,13 @@ import {
   getShelfControlParameters,
   getShelfSearchParameters,
   hasSearchText,
+  isSearchWriteDue,
   isSearching,
   pageSizeOf,
   readShelfQuery,
+  rebaseDraft,
   resultsLabel,
+  searchWriteDelay,
   settlePage,
   shelfPlacement,
   shelfSearch,
@@ -45,6 +49,7 @@ import {
   urlSearchOf,
   visibleAfterViewChange,
   withShelfQuery,
+  type SearchDraft,
   type ShelfArticle,
   type ShelfCategory,
   type ShelfOrder,
@@ -67,8 +72,6 @@ const URL_EVENT = 'reviews-shelf-url';
 const VIEW_EVENT = 'reviews-shelf-view';
 const VIEW_KEY = 'reviews-modo';
 const PAGE_KEY = 'reviews-pagina:';
-// A busca filtra quando a pessoa para de digitar por um instante.
-const SEARCH_DELAY_MS = 120;
 
 const EMPTY_PRIMARY = `flex min-h-12 items-center justify-center rounded-[10px] border-2 border-marinho bg-laranja px-4 text-center text-[15px] font-extrabold text-marinho hover:bg-laranja/85 motion-safe:transition-colors ${FOCUS_RING}`;
 const EMPTY_SECONDARY = `flex min-h-12 items-center justify-center rounded-[10px] border-2 border-marinho bg-white px-4 text-center text-[15px] font-extrabold text-marinho hover:bg-creme motion-safe:transition-colors ${FOCUS_RING}`;
@@ -156,16 +159,18 @@ function savePage(listPath: string, page: SavedPage) {
 }
 
 // Troca busca, categoria ou ordem na URL (os outros parâmetros ficam) e avisa o useSyncExternalStore.
+// Devolve a query como ficou na URL.
 function writeUrl(
   update: (query: ShelfQuery) => ShelfQuery,
   readQuery: (search: string) => ShelfQuery,
   mode: 'push' | 'replace'
-) {
+): ShelfQuery {
   const next = update(readQuery(window.location.search));
   const url = `${window.location.pathname}${withShelfQuery(window.location.search, next)}${window.location.hash}`;
   if (mode === 'push') window.history.pushState(null, '', url);
   else window.history.replaceState(null, '', url);
   window.dispatchEvent(new Event(URL_EVENT));
+  return readQuery(window.location.search);
 }
 
 // A troca animada da estante: data-trocando liga, no globals.css, o nome de transição de cada item (a
@@ -252,29 +257,34 @@ export function ReviewsBrowser({
   const visible = Math.max(current.visible, pageSizeOf(view));
   const shown = results.slice(0, visible);
 
-  // O texto do campo: o que a pessoa digita, até a URL mudar por outro caminho (voltar, limpar).
-  const [draft, setDraft] = useState({ text: query.q, base: query.q });
-  const inputValue = draft.base === query.q ? draft.text : query.q;
+  // O texto do campo: o que a pessoa digita, até a URL mudar por outro caminho (Voltar, Avançar).
+  const [draft, setDraft] = useState<SearchDraft>({ text: query.q, base: query.q });
+  const inputValue = draftValue(draft, query.q);
 
   const shelfRef = useRef<HTMLDivElement>(null);
+  const titleRef = useRef<HTMLHeadingElement>(null);
   const listRef = useRef<HTMLUListElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
   const focusFrom = useRef<number | null>(null);
   const restored = useRef(false);
   const lastTrackedSearch = useRef<string | null>(null);
 
-  // A busca vai para a URL quando a pessoa para de digitar. A transição chama o callback um quadro depois
-  // do temporizador: se nesse meio-tempo a pessoa digita mais uma letra, ou a URL muda por outro caminho,
-  // o efeito é refeito, esta gravação (com o texto velho) é descartada e a do texto novo é agendada. Assim
-  // a URL nunca recebe um texto que o campo já deixou para trás, e o campo nunca cai para ele.
+  // A busca vai para a URL quando a pessoa para de digitar, por este caminho só: limpar (Esc, ✕) também
+  // só troca o rascunho para '' e este efeito grava, sem demora. A transição chama o callback um quadro
+  // depois do temporizador: se nesse meio-tempo a pessoa digita mais uma letra, ou a URL muda por outro
+  // caminho, o efeito é refeito, esta gravação (com o texto velho) é descartada e a do texto novo é
+  // agendada. Quando a gravação entra, o rascunho passa a ter como base o q gravado (no mesmo update),
+  // para Voltar e Avançar mostrarem sempre o q da URL e a busca não voltar sozinha numa entrada antiga.
   useEffect(() => {
-    if (draft.base !== query.q || draft.text.trim() === query.q.trim()) return;
+    if (!isSearchWriteDue(draft, query.q)) return;
     let stale = false;
     const timer = window.setTimeout(() => {
       runShelfTransition(shelfRef.current, () => {
-        if (!stale) writeUrl((latest) => ({ ...latest, q: draft.text }), readQuery, 'replace');
+        if (stale) return;
+        const written = writeUrl((latest) => ({ ...latest, q: draft.text }), readQuery, 'replace');
+        setDraft((current) => rebaseDraft(current, written.q));
       });
-    }, SEARCH_DELAY_MS);
+    }, searchWriteDelay(draft.text));
     return () => {
       stale = true;
       window.clearTimeout(timer);
@@ -343,19 +353,20 @@ export function ReviewsBrowser({
     setPage({ key: listKey, visible: visible + pageSizeOf(view), newFrom: visible });
   }
 
+  // Limpar só troca o rascunho; quem grava é o efeito da busca.
   function clearSearch() {
     setDraft({ text: '', base: query.q });
-    runShelfTransition(shelfRef.current, () => writeUrl((latest) => ({ ...latest, q: '' }), readQuery, 'replace'));
   }
 
   // O botão clicado some com a busca: o foco vai para o campo em vez de cair no body.
-  function focusSearch() {
+  function clearSearchAndFocus() {
+    clearSearch();
     inputRef.current?.focus();
   }
 
-  function clearSearchAndFocus() {
-    clearSearch();
-    focusSearch();
+  // O foco vai para o título da estante, onde estão os resultados, sem abrir o teclado.
+  function focusResults() {
+    titleRef.current?.focus();
   }
 
   const placement = shelfPlacement(placementPrefix, view);
@@ -375,10 +386,11 @@ export function ReviewsBrowser({
             role="search"
             action={listPath}
             onSubmit={(event) => {
-              // Sem JavaScript o Enter recarrega a lista com o ?q=; com ele, o campo já filtra e o Enter só
-              // fecha o teclado do celular.
+              // Sem JavaScript o Enter recarrega a lista com o ?q=; com ele, o campo já filtra. Com ponteiro
+              // grosso (celular) o Enter fecha o teclado e leva o foco ao título da estante; no desktop o foco
+              // fica no campo.
               event.preventDefault();
-              inputRef.current?.blur();
+              if (window.matchMedia('(pointer: coarse)').matches) focusResults();
             }}
             className="mt-6 max-w-xl"
           >
@@ -423,7 +435,12 @@ export function ReviewsBrowser({
 
       <RevealSection aria-labelledby="titulo-estante" className="pb-10 md:pb-14">
         <div ref={shelfRef} className={`${SHELF_CONTAINER} flex flex-col gap-4 md:gap-6`}>
-          <h2 id="titulo-estante" className={titleVisible ? SHELF_TITLE : 'sr-only'}>
+          <h2
+            ref={titleRef}
+            id="titulo-estante"
+            tabIndex={-1}
+            className={`${titleVisible ? SHELF_TITLE : 'sr-only'} focus:outline-none`}
+          >
             {titleVisible ? <span className="marca-texto">{searching ? 'Resultados da busca' : heading}</span> : heading}
           </h2>
 
@@ -537,7 +554,7 @@ export function ReviewsBrowser({
                   type="button"
                   onClick={() => {
                     selectCategory(null);
-                    focusSearch();
+                    focusResults();
                   }}
                   className={EMPTY_PRIMARY}
                 >

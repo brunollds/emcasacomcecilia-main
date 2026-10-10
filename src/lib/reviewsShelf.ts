@@ -140,6 +140,35 @@ export function parseShelfQuery(search: string, categories: readonly ReviewCateg
   };
 }
 
+// O rascunho do campo de busca: text é o que a pessoa digitou e base, o q da URL de quando ela digitou.
+// Enquanto a base bate com o q da URL, o campo mostra o texto; se a URL muda por outro caminho (Voltar,
+// Avançar, link), o campo passa a mostrar o q dela.
+export type SearchDraft = { text: string; base: string };
+
+export function draftValue(draft: SearchDraft, urlQ: string): string {
+  return draft.base === urlQ ? draft.text : urlQ;
+}
+
+// A busca é gravada na URL por um caminho só (o efeito do campo, também para limpar): há gravação a fazer
+// quando o rascunho está em dia com a URL, o texto difere do q dela e não é só questão de espaço nas
+// pontas.
+export function isSearchWriteDue(draft: SearchDraft, urlQ: string): boolean {
+  return draft.base === urlQ && draft.text.trim() !== urlQ.trim();
+}
+
+// A busca filtra quando a pessoa para de digitar; campo vazio (Esc, ✕, apagar tudo) grava na hora.
+export const SEARCH_WRITE_DELAY_MS = 120;
+
+export function searchWriteDelay(text: string): number {
+  return text ? SEARCH_WRITE_DELAY_MS : 0;
+}
+
+// Quando a gravação entra, o rascunho passa a ter como base o q que ficou na URL: Voltar e Avançar mostram
+// sempre o q da entrada, e a busca não volta sozinha para uma entrada antiga.
+export function rebaseDraft(draft: SearchDraft, writtenQ: string): SearchDraft {
+  return { text: draft.text, base: writtenQ };
+}
+
 // A query da página. Sem campo de busca (subpágina de loja) um ?q= digitado à mão não filtra: não haveria
 // onde limpá-lo.
 export function readShelfQuery(
