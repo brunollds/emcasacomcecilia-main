@@ -36,6 +36,7 @@ import {
   getShelfControlParameters,
   getShelfSearchParameters,
   hasSearchText,
+  isOnList,
   isSearchWriteDue,
   isSearching,
   pageSizeOf,
@@ -279,36 +280,47 @@ export function ReviewsBrowser({
   // para Voltar e Avançar mostrarem sempre o q da URL e a busca não voltar sozinha numa entrada antiga.
   // O Enter no toque com a gravação pendente (focusAfterWrite) espera aqui: o foco só vai ao título depois
   // que a busca entrou na tela e a vitrine saiu; o flush de dentro garante o DOM pronto antes do foco.
+  // Um Voltar ou Avançar que sai da lista troca a URL com esta página ainda na tela, e o efeito não refaz
+  // (ver o ouvinte de popstate abaixo): a gravação confere a URL no temporizador e de novo no callback, um
+  // quadro depois. Fora da lista não grava (a busca iria para a outra rota, como /?q=…), não começa a troca
+  // animada e o Enter no toque deixa de esperar o foco.
   useEffect(() => {
     if (!isSearchWriteDue(draft, query.q)) return;
     let stale = false;
-    const timer = window.setTimeout(() => {
-      runShelfTransition(shelfRef.current, () => {
-        if (stale) return;
-        const focusResultsAfter = focusAfterWrite.current;
-        focusAfterWrite.current = false;
-        flushSync(() => {
-          const written = writeUrl((latest) => ({ ...latest, q: draft.text }), readQuery, 'replace');
-          setDraft((current) => rebaseDraft(current, written.q));
-        });
-        if (focusResultsAfter) titleRef.current?.focus();
+    const write = () => {
+      if (stale) return;
+      const focusResultsAfter = focusAfterWrite.current;
+      focusAfterWrite.current = false;
+      if (!isOnList(listPath, window.location.pathname)) return;
+      flushSync(() => {
+        const written = writeUrl((latest) => ({ ...latest, q: draft.text }), readQuery, 'replace');
+        setDraft((current) => rebaseDraft(current, written.q));
       });
+      if (focusResultsAfter) titleRef.current?.focus();
+    };
+    const timer = window.setTimeout(() => {
+      if (isOnList(listPath, window.location.pathname)) runShelfTransition(shelfRef.current, write);
+      else focusAfterWrite.current = false;
     }, searchWriteDelay(draft.text));
     return () => {
       stale = true;
       focusAfterWrite.current = false;
       window.clearTimeout(timer);
     };
-  }, [draft, query.q, readQuery]);
+  }, [draft, query.q, readQuery, listPath]);
 
-  // Voltar e Avançar trocam a entrada do histórico: o que a pessoa digitou na anterior fica para trás. Sem
-  // isto, duas entradas com o mesmo q (uma categoria no meio) não mudam o query.q, o efeito acima não
-  // refaz e a gravação pendente cai na entrada que a pessoa acabou de abrir.
+  // Voltar e Avançar dentro da lista trocam a entrada do histórico: o que a pessoa digitou na anterior fica
+  // para trás. Sem isto, duas entradas com o mesmo q (uma categoria no meio) não mudam o query.q, o efeito
+  // acima não refaz e a gravação pendente cai na entrada que a pessoa acabou de abrir. Saindo da lista não
+  // faz nada: a página segue na tela até a rota nova entrar, e um render com a URL de lá mostraria a estante
+  // sem filtro e apagaria a página salva.
   useEffect(() => {
-    const onPop = () => setDraft(freshDraft(readQuery(getUrlSearch()).q));
+    const onPop = () => {
+      if (isOnList(listPath, window.location.pathname)) setDraft(freshDraft(readQuery(window.location.search).q));
+    };
     window.addEventListener('popstate', onPop);
     return () => window.removeEventListener('popstate', onPop);
-  }, [readQuery, getUrlSearch]);
+  }, [listPath, readQuery]);
 
   // Quem volta de um artigo encontra a mesma página aberta. Só depois de ler a URL do navegador (no
   // render da hidratação vale a do servidor) e uma vez por montagem.
@@ -320,8 +332,12 @@ export function ReviewsBrowser({
     if (saved && saved.search === listKey && saved.visible > visible) restore(saved.visible);
   }, [urlSearch, getUrlSearch, listPath, listKey, visible]);
 
+  // Só na própria lista: com a URL de outra rota, a estante vê a query vazia e a primeira página, e gravá-las
+  // apagaria a página que a pessoa deixou aberta.
   useEffect(() => {
-    if (restored.current) savePage(listPath, { search: listKey, visible });
+    if (restored.current && isOnList(listPath, window.location.pathname)) {
+      savePage(listPath, { search: listKey, visible });
+    }
   }, [listPath, listKey, visible]);
 
   // Depois do "Carregar mais", o foco vai para o primeiro artigo novo.

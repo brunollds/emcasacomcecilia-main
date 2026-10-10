@@ -40,6 +40,7 @@ import {
   getShelfControlParameters,
   getShelfSearchParameters,
   hasSearchText,
+  isOnList,
   isSearching,
   isSearchWriteDue,
   pageSizeOf,
@@ -938,6 +939,15 @@ assert.equal(withShelfQuery('?q=poltrona&utm_source=ig', query({ q: '   ' })), '
 assert.equal(urlSearchOf('/reviews', { pathname: '/reviews', search: '?q=sono' }), '?q=sono');
 assert.equal(urlSearchOf('/reviews/loja/magalu', { pathname: '/reviews', search: '?q=sono' }), '', 'outra página: nada');
 assert.equal(urlSearchOf('/reviews', { pathname: '/reviews/loja/magalu', search: '?ordem=az' }), '');
+
+// Voltar ou Avançar que sai da lista troca a URL com a estante ainda na tela: fora da lista ela não troca o
+// rascunho, não grava a busca (que iria para a outra rota, como /?q=…) nem a página aberta.
+assert.equal(isOnList('/reviews', '/reviews'), true);
+assert.equal(isOnList('/reviews', '/'), false, 'Voltar para a home');
+assert.equal(isOnList('/reviews/loja/magalu', '/reviews/loja/magalu'), true);
+assert.equal(isOnList('/reviews/loja/magalu', '/reviews/poltrona-de-amamentacao-como-escolher'), false, 'da subpágina para um artigo');
+assert.equal(isOnList('/reviews', '/reviews/loja/magalu'), false, 'de /reviews para uma subpágina');
+assert.equal(isOnList('/reviews/loja/magalu', '/reviews'), false);
 
 console.log(
   `✅ reviewsHub: estante de ${real.articles.length} artigos, ${real.newArticles.length} novidades, ${real.stores.length} lojas com subpágina, busca, ordem, URL e medição passaram.`
