@@ -42,6 +42,8 @@ import {
 } from '../src/lib/localeHome';
 import { SITE_NAME, SITE_SOCIAL_IMAGE, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
 import { getInternationalReviewHub } from '../src/lib/review-hubs';
+import { getReviewsHubContent } from '../src/lib/reviewsHub';
+import { GRID_PAGE_SIZE } from '../src/lib/reviewsShelf';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 import { LABEL_SAME_AS_PORTUGUESE, codeAsCouponRegExp, getPtStoreTexts, isStoreLink } from './locale-home-guards';
 
@@ -1199,23 +1201,86 @@ function assertHubCards(where: string, body: string, heading: string) {
   return tags;
 }
 
+// Os slugs dos links de artigo e de subpágina de loja de um trecho do HTML, na ordem.
+const articleLinksIn = (html: string) =>
+  [...html.matchAll(/<a\b[^>]*\bhref="\/reviews\/([^"/?#]+)"/g)].map(([, slug]) => slug);
+const storeLinksIn = (html: string) =>
+  [...html.matchAll(/<a\b[^>]*\bhref="\/reviews\/loja\/([^"/?#]+)"/g)].map(([, slug]) => slug);
+
+// A estante (ReviewsBrowser) no HTML do servidor: os 12 primeiros artigos na ordem "Mais novos", cada
+// link com o anel de foco da casa, nenhum nome de transição (a foto só o ganha no clique: no HTML, o
+// review-hero- fica só no data-vt-name) e a busca com rótulo só quando a página tem busca.
+function assertShelfPage(
+  where: string,
+  body: string,
+  expected: { articles: readonly { slug: string }[]; searchLabel: string | null }
+) {
+  const list = between(body, '<ul data-estante="grade"', ['</ul>']);
+  assert.ok(list, `${where}: sem a estante`);
+  assert.deepEqual(
+    articleLinksIn(list),
+    expected.articles.slice(0, GRID_PAGE_SIZE).map(({ slug }) => slug),
+    `${where}: os ${GRID_PAGE_SIZE} primeiros artigos, do mais novo`
+  );
+  for (const [tag] of list.matchAll(/<a\b[^>]*\bhref="\/reviews\/[^"/]+"[^>]*>/g)) {
+    assert.match(tag, /\bclass="[^"]* focus-visible:outline-marinho[ "]/, `${where}: cartão sem o anel de foco da casa: ${tag}`);
+  }
+  assert.ok(!body.includes('view-transition-name'), `${where}: nome de transição no HTML`);
+  assert.equal(
+    body.match(/review-hero-/g)?.length ?? 0,
+    body.match(/data-vt-name="review-hero-/g)?.length ?? 0,
+    `${where}: review-hero- fora do data-vt-name`
+  );
+  const label = body.match(/<label for="busca-estante"[^>]*>([^<]*)<\/label>/)?.[1];
+  assert.equal(body.includes('role="search"'), expected.searchLabel !== null, `${where}: busca onde não devia, ou faltando`);
+  assert.equal(label === undefined ? null : decodeHtml(label), expected.searchLabel, `${where}: rótulo da busca`);
+}
+
+// /reviews: o h1, a estante, as Novidades (uma por artigo com o selo "Novo"), as bolinhas das lojas com
+// subpágina e o JSON-LD de lista com a imagem de compartilhamento (assertListPageSeo, mais abaixo no
+// arquivo, é uma declaração de função e vale aqui).
+const reviewsHub = getReviewsHubContent(publishedReviews);
 const reviewsFile = builtFile(`${SITE_URL}/reviews`);
 assert.ok(reviewsFile, '/reviews: página não gerada no build');
-const reviewsBody = bodyOf(read(reviewsFile));
-assertHubCards('/reviews', reviewsBody, 'Lista de conteúdos');
+const reviewsHtml = read(reviewsFile);
+const reviewsBody = bodyOf(reviewsHtml);
+assert.equal(textOf(reviewsBody.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1] ?? ''), 'Guias & Análises', '/reviews: h1');
+const reviewsShelf = { articles: reviewsHub.articles, searchLabel: 'Buscar nos guias e análises' };
+assertShelfPage('/reviews', reviewsBody, reviewsShelf);
+assertListPageSeo('/reviews', reviewsHtml, { items: reviewsHub.articles.length, image: reviewsHub.socialImage });
+assert.deepEqual(
+  articleLinksIn(between(reviewsBody, 'id="titulo-novidades"', ['</section>'])),
+  reviewsHub.newArticles.map(({ slug }) => slug),
+  '/reviews: Novidades'
+);
+assert.deepEqual(
+  storeLinksIn(between(reviewsBody, 'id="titulo-por-loja"', ['</section>'])),
+  reviewsHub.stores.map(({ slug }) => slug),
+  '/reviews: bolinhas das lojas'
+);
+assert.ok(!reviewsHtml.includes('data-reveal'), '/reviews: data-reveal no HTML');
 
-// Só a grade conta. Um link de artigo sem o anel fora dela, antes do h2 ou depois do fim da <section>,
-// não é card e passa; dentro dela o guarda acusa, e sem o h2 ou com o h2 depois dos cards também.
+// O guarda da estante acusa cada defeito: sem a lista, ordem trocada, cartão sem o anel, nome de
+// transição no HTML e busca sobrando ou faltando.
 {
-  const heading = 'Lista de conteúdos';
-  const h2 = `<h2 class="sr-only">${heading}</h2>`;
-  const link = '<a href="/reviews/x">destaque</a>';
-  const gridEnd = reviewsBody.indexOf('</section>', reviewsBody.indexOf(h2)) + '</section>'.length;
-  assertHubCards('/reviews', link + reviewsBody, heading);
-  assertHubCards('/reviews', reviewsBody.slice(0, gridEnd) + link + reviewsBody.slice(gridEnd), heading);
-  assert.throws(() => assertHubCards('/reviews', reviewsBody.replace(h2, h2 + link), heading), /card sem o anel de foco/, 'link sem anel dentro da grade passa');
-  assert.throws(() => assertHubCards('/reviews', reviewsBody.replace(h2, ''), heading), /sem o h2/, 'grade sem o h2 passa');
-  assert.throws(() => assertHubCards('/reviews', reviewsBody.replace(h2, '') + h2, heading), /sem links de card/, 'h2 depois dos cards passa');
+  const listStart = reviewsBody.indexOf('<ul data-estante="grade"');
+  const withoutRing =
+    reviewsBody.slice(0, listStart) + reviewsBody.slice(listStart).replace('focus-visible:outline-marinho', '');
+  assert.throws(() => assertShelfPage('/reviews', reviewsBody.replace('data-estante="grade"', 'data-x="grade"'), reviewsShelf), /sem a estante/);
+  assert.throws(
+    () => assertShelfPage('/reviews', reviewsBody, { ...reviewsShelf, articles: [...reviewsShelf.articles].reverse() }),
+    /primeiros artigos/
+  );
+  assert.throws(() => assertShelfPage('/reviews', withoutRing, reviewsShelf), /anel de foco/);
+  assert.throws(
+    () => assertShelfPage('/reviews', reviewsBody.replace('<ul data-estante="grade"', '<p style="view-transition-name:x"></p><ul data-estante="grade"'), reviewsShelf),
+    /nome de transição/
+  );
+  assert.throws(
+    () => assertShelfPage('/reviews', reviewsBody.replace('data-vt-name="review-hero-', 'data-x="review-hero-'), reviewsShelf),
+    /review-hero- fora do data-vt-name/
+  );
+  assert.throws(() => assertShelfPage('/reviews', reviewsBody, { ...reviewsShelf, searchLabel: null }), /busca/);
 }
 
 // O <head> e o JSON-LD de uma página que lista artigos (subpágina de loja e página de data): a imagem
