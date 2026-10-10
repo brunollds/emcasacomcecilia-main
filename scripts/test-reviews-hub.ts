@@ -6,6 +6,8 @@ import { imageConfigDefault, type ImageConfigComplete, type RemotePattern } from
 import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.shared-runtime';
 
 import { ReviewShelfCard, ReviewShelfRow } from '@/components/reviews/ReviewShelfCard';
+import { ReviewsNewRow } from '@/components/reviews/ReviewsNewRow';
+import { ReviewsStoreStrip } from '@/components/reviews/ReviewsStoreStrip';
 import { StoreBubbleLink } from '@/components/reviews/StoreBubbleLink';
 import { TrackedReviewsLink } from '@/components/reviews/TrackedReviewsLink';
 import { cardDecorAt } from '@/components/ui/cardDecor';
@@ -532,6 +534,28 @@ const tracked = render(
   )
 );
 assert.match(tracked, /<a class="x" href="\/reviews">Ver todos<\/a>/);
+
+// Novidades: título com o marca-texto, um cartão por artigo (revelado na rolagem), as duas primeiras fotos
+// sem atraso e as setas escondidas até o navegador medir a fila.
+const newRow = render(createElement(ReviewsNewRow, { articles: hub.articles.slice(0, 3) }));
+assert.ok(newRow.includes('aria-labelledby="titulo-novidades"'));
+assert.match(newRow, /<h2 id="titulo-novidades"[^>]*><span class="marca-texto">Novidades<\/span><\/h2>/);
+assert.equal(newRow.match(/<li class="revela /g)?.length, 3, 'um cartão por artigo');
+assert.equal(newRow.match(/loading="eager"/g)?.length, 2, 'as duas primeiras fotos sem atraso');
+assert.ok(newRow.includes('class="hidden shrink-0 gap-2"'), 'setas escondidas no HTML do servidor');
+assert.ok(newRow.includes('aria-label="Ver próximas novidades"'));
+
+// Bolinhas: título, uma por loja na ordem dos dados; sem loja, a seção não existe.
+const strip = render(
+  createElement(ReviewsStoreStrip, { id: 'titulo-por-loja', title: 'Por loja', stores: hub.stores, placement: 'reviews_stores' })
+);
+assert.ok(strip.includes('aria-labelledby="titulo-por-loja"'));
+assert.match(strip, /<span class="marca-texto">Por loja<\/span>/);
+assert.deepEqual([...strip.matchAll(/href="\/reviews\/loja\/([^"]+)"/g)].map(([, slug]) => slug), slugs(hub.stores));
+assert.equal(
+  render(createElement(ReviewsStoreStrip, { id: 'titulo-outras-lojas', title: 'Outras lojas', stores: [], placement: 'store_other_stores' })),
+  ''
+);
 
 console.log(
   `✅ reviewsHub: estante de ${real.articles.length} artigos, ${real.newArticles.length} novidades, ${real.stores.length} lojas com subpágina, busca, ordem, URL e medição passaram.`
