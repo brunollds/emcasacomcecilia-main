@@ -20,7 +20,7 @@
 
 ## 3. Em Revisão Factual & Claims (`status: em-revisao`)
 *Em auditoria pelo Job-3.*
-- [ ] [[black-friday-i-wanna-sleep]] — I Wanna Sleep / Black Friday 2026, segunda rodada (JSON em 09/10/2026; revisão do Bruno no localhost; capa no CDN; preços e status reconferidos antes de publicar, até 31/10)
+- [ ] [[black-friday-i-wanna-sleep]] — I Wanna Sleep / Black Friday 2026 (pillow top, travesseiros e cobertores; colchão só na loja física), segunda rodada (JSON em 09/10/2026; revisão do Bruno no localhost; capa no CDN; preços e status reconferidos antes de publicar, até 31/10)
 
 ---
 

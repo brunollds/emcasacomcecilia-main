@@ -1,6 +1,6 @@
 ---
-titulo_provisorio: "Black Friday I Wanna Sleep 2026: colchão, Pillow Top Magnum e travesseiros com o cupom CECIEMCASA"
-seo_title: "Black Friday I Wanna Sleep 2026: colchão, travesseiro e preços"
+titulo_provisorio: "Black Friday I Wanna Sleep 2026: Pillow Top Magnum, travesseiros e cobertores com o cupom CECIEMCASA"
+seo_title: "Black Friday I Wanna Sleep 2026: pillow top e travesseiros"
 slug_sugerido: "black-friday-i-wanna-sleep"
 parceiro: "[[I-Wanna-Sleep]]"
 category: "cupons-como-usar"
@@ -96,7 +96,7 @@ mira "black friday colchão" pela I Wanna Sleep e responde a busca do cupom com 
 |---|---|---|---|---|---|
 | A Black Friday é em 27/11/2026 e a Cyber Monday em 30/11 | Calendário | Última sexta de novembro | — | 2026-10-09 | [x] Sim |
 | Não há Black Friday oficial da I Wanna Sleep em 2023, 2024 e 2025, e nada anunciado para 2026 até 09/10 | Ausência verificada | Busca do site ("Não foram encontrados resultados"), blog (`/blogs/iws.atom`, 2023 a 11/2024), home | — | 2026-10-09 | [x] Sim, como "não encontramos" |
-| Colchões pelo preço cheio em outubro: Zen R$ 2.362 (solteiro), R$ 3.388 (casal), R$ 4.191 (queen), R$ 5.247 (king); Hush, Breeze Plush, Star e I3 na tabela | Preço volátil | `products.json` e páginas de produto | Variantes | 2026-10-09 | [x] Sim, com a data |
+| Colchões e box só são vendidos nas lojas físicas; o site mostra os modelos e manda falar com as consultoras do sono | Fato oficial | Bruno (09/10/2026) e páginas do Zen e do box ("disponíveis para experimentação em nossas lojas físicas") | — | 2026-10-09 | [x] Sim. Sem tabela de preço de colchão e sem conta do cupom no colchão |
 | Pillow Top Magnum: R$ 1.280 (de R$ 1.489) solteiro, R$ 1.848 (de R$ 2.149) casal, R$ 2.131 (de R$ 2.479) queen, R$ 2.441 (de R$ 2.839) super king | Preço volátil | `/products/pillow-top-magnum-pluma-airfiber-iws` | — | 2026-10-09 | [x] Sim, com a data. A página estática mostrou "Esgotado" e o JSON, disponível: conferir no navegador antes |
 | Travesseiros e cobertores com selo de 12% a 17%: Snow R$ 347 (de R$ 419), Airgelly 2.0 R$ 472 (de R$ 549), Igloo casal/queen R$ 967 (de R$ 1.099), Huggy, Cozy, Skin, cervicais | Preço volátil | `products.json` | — | 2026-10-09 | [x] Sim, com a data |
 | Kits: Pillow Top Magnum + Bao Bao + Igloo (novo em 06/10), kits de Snow de 2 a 10 peças | Preço volátil | `products.json` | — | 2026-10-09 | [x] Sim, com a data |
@@ -149,7 +149,8 @@ mira "black friday colchão" pela I Wanna Sleep e responde a busca do cupom com 
 - JSON em `content/reviews/black-friday-i-wanna-sleep.json` (id 333), no fim do `_manifest.json`. É a fonte da verdade do texto.
 - Capa: `/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp`, 1600×900, recorte 16:9 da miniatura vertical do vídeo `BlBbtv-VuL8` (sem a legenda do vídeo). Fica fora do commit até subir ao CDN.
 - Preços relidos em `/products/<handle>.js` em 09/10/2026. O `.js` do Magnum dá todos os tamanhos disponíveis; o "Esgotado" que a pesquisa viu no HTML estático não foi conferido no navegador, e o artigo não fala de estoque.
-- Prazo para o Natal: simulação no carrinho com o CEP do centro de 12 capitais (OK do Bruno), mais um dia útil de folga, contado em dias úteis até quinta, 24/12. O frete saiu grátis também no colchão, ao contrário da política: o artigo cita as duas coisas.
-- Contas do cupom com o Pix (um desconto sobre o outro, sem o frete): Magnum casal R$ 1.848 × 0,90 × 0,95 = R$ 1.580,04; Zen casal R$ 3.388 × 0,90 × 0,95 = R$ 2.896,74.
+- Prazo para o Natal: simulação no carrinho do Pillow Top Magnum casal com o CEP do centro de 12 capitais (OK do Bruno), mais um dia útil de folga, contado em dias úteis até quinta, 24/12. Frete grátis nas 12.
+- Conta do cupom com o Pix (um desconto sobre o outro, sem o frete): Magnum casal R$ 1.848 × 0,90 × 0,95 = R$ 1.580,04.
+- Colchões e box só nas lojas físicas (Bruno, 09/10/2026; as páginas do Zen e do box mandam para as lojas). A primeira versão tinha tabela de colchões, a conta do Zen e a entrega do colchão; saíram. O título passou a Pillow Top Magnum, travesseiros e cobertores, e a busca "black friday colchão" é atendida pela seção "Colchão e box: só nas lojas físicas".
 - Fora do texto: número de parcelas (a página e o widget divergem), "Order Bump", o brinde do "Diagnóstico" (regras não publicadas), o cupom próprio da loja, garantia em meses (não publicada), melatonina, Aliv e SleepSpray.
 - Sem vídeo no artigo: o do Igloo já está no artigo do cobertor, e a capa remete a ele.

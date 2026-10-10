@@ -53233,8 +53233,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 333,
     "slug": "black-friday-i-wanna-sleep",
-    "title": "Black Friday I Wanna Sleep 2026: colchão, Pillow Top Magnum e travesseiros com o cupom CECIEMCASA",
-    "seoTitle": "Black Friday I Wanna Sleep 2026: colchão e travesseiros",
+    "title": "Black Friday I Wanna Sleep 2026: Pillow Top Magnum, travesseiros e cobertores com o cupom CECIEMCASA",
+    "seoTitle": "Black Friday I Wanna Sleep 2026: pillow top e travesseiros",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -53245,8 +53245,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que a I Wanna Sleep oferecia em outubro de 2026, os preços de colchões, Pillow Top Magnum, travesseiros e cobertores para comparar na Black Friday, como o cupom soma com o Pix, o teste de 100 noites e até quando pedir para chegar no Natal.",
-    "metaDescription": "Black Friday I Wanna Sleep 2026: preços de outubro de colchão, Pillow Top Magnum e travesseiros, cupom CECIEMCASA com Pix, teste de 100 noites e prazo do Natal.",
+    "description": "O que a I Wanna Sleep oferecia em outubro de 2026, os preços do Pillow Top Magnum, de travesseiros e cobertores para comparar na Black Friday, como o cupom soma com o Pix, o teste em casa e até quando pedir para chegar no Natal. Colchões e box são vendidos nas lojas físicas.",
+    "metaDescription": "Black Friday I Wanna Sleep 2026: preços de outubro do Pillow Top Magnum, travesseiros e cobertores, cupom CECIEMCASA com Pix, Sleeptest e prazo para o Natal.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
     "draft": false,
@@ -53258,13 +53258,12 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Pillow top, travesseiros e cobertores já estavam com 12% a 17% de desconto em outubro",
       "5% de desconto no Pix, que soma com o cupom CECIEMCASA",
-      "100 dias para testar o colchão em casa e 30 para o travesseiro e o pillow top",
-      "Frete grátis para as 12 capitais na nossa simulação de outubro, inclusive no colchão"
+      "30 dias para testar o travesseiro e o pillow top em casa",
+      "Frete grátis acima de R$ 150 em travesseiros, pillow top e cobertores"
     ],
     "cons": [
-      "Os colchões estavam pelo preço cheio em outubro",
-      "A troca do colchão no Sleeptest é uma só por CPF e, em Belo Horizonte, custa R$ 300",
-      "Fora das cidades com loja, o colchão chega pela transportadora, sem montagem",
+      "Colchões e box não são vendidos pelo site, só nas lojas físicas",
+      "No travesseiro e no pillow top, a troca do Sleeptest vira crédito na loja",
       "A loja não publica os prazos de entrega por região"
     ],
     "contentSections": [
@@ -53273,9 +53272,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Black Friday de 2026 é em **27 de novembro**, e a Cyber Monday, em **30 de novembro**.",
           "Até 9 de outubro de 2026, a I Wanna Sleep ainda não tinha anunciado campanha de Black Friday. Este guia é atualizado quando a loja anunciar.",
-          "Em 9 de outubro, os colchões estavam pelo **preço cheio**. O Pillow Top Magnum, os travesseiros e os cobertores já tinham de **12% a 17%** de desconto sobre o preço riscado.",
+          "Em 9 de outubro, o Pillow Top Magnum, os travesseiros e os cobertores já tinham de **12% a 17%** de desconto sobre o preço riscado.",
+          "Colchões e box aparecem no site, mas são vendidos só nas lojas físicas da I Wanna Sleep, com as consultoras do sono.",
           "O cupom CECIEMCASA dá 10% OFF em todo o site, vale com todas as formas de pagamento e soma com os preços da Black Friday e com os 5% do Pix.",
-          "O colchão tem 100 dias de teste em casa, o Sleeptest. O travesseiro e o pillow top têm 30 dias.",
+          "O travesseiro e o pillow top têm 30 dias de teste em casa, o Sleeptest.",
           "Para chegar até 24 de dezembro, pela nossa conta com os prazos que o carrinho mostrou em outubro, pague até 15 de dezembro em São Paulo e no Rio de Janeiro e até 7 de dezembro em Recife."
         ]
       },
@@ -53283,64 +53283,8 @@ export const reviewsData: unknown[] = [
         "heading": "A I Wanna Sleep tem Black Friday?",
         "paragraphs": [
           "Não encontramos campanha oficial de Black Friday da I Wanna Sleep nos últimos anos: a busca do site não traz nada com o termo, e o blog da marca não fala da data. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
-          "O que dá para mostrar é o que a loja já oferecia em outubro de 2026: o Pillow Top Magnum, os travesseiros e os cobertores com selo de desconto, kits como o Pillow Top Magnum + Bao Bao + Igloo, que entrou no site em 6 de outubro, e os colchões pelo preço cheio.",
+          "O que dá para mostrar é o que a loja já oferecia em outubro de 2026: o Pillow Top Magnum, os travesseiros e os cobertores com selo de desconto e kits como o Pillow Top Magnum + Bao Bao + Igloo, que entrou no site em 6 de outubro.",
           "Quando a I Wanna Sleep anunciar a campanha de 2026, as condições entram aqui, com o que mudou em relação a outubro."
-        ]
-      },
-      {
-        "heading": "Colchão na Black Friday: preços de outubro para comparar",
-        "paragraphs": [
-          "Em 9 de outubro de 2026, nenhum colchão da I Wanna Sleep tinha preço riscado: o preço da página era o preço cheio, em todos os tamanhos. Se em novembro aparecer um selo de desconto, compare com esta tabela."
-        ],
-        "comparisonTable": {
-          "caption": "Colchões da I Wanna Sleep em 9 de outubro de 2026, sem desconto. No Pix, a página do produto mostra mais 5% de desconto.",
-          "headers": [
-            "Colchão",
-            "Solteiro",
-            "Casal",
-            "Queen",
-            "King"
-          ],
-          "rows": [
-            [
-              "Zen",
-              "R$ 2.362",
-              "R$ 3.388",
-              "R$ 4.191",
-              "R$ 5.247"
-            ],
-            [
-              "I3",
-              "R$ 2.752",
-              "R$ 4.040",
-              "R$ 4.693",
-              "Sem esse tamanho"
-            ],
-            [
-              "Hush",
-              "R$ 3.174",
-              "R$ 4.667",
-              "R$ 5.530",
-              "R$ 6.847 (super king)"
-            ],
-            [
-              "Breeze Plush",
-              "R$ 3.931",
-              "R$ 5.963",
-              "R$ 7.152",
-              "R$ 8.988"
-            ],
-            [
-              "Star",
-              "R$ 4.841",
-              "R$ 7.533",
-              "R$ 8.576",
-              "R$ 10.646"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "Os tamanhos seguem as medidas da loja: solteiro de 0,88 x 1,88 m, casal de 1,38 x 1,88 m, queen de 1,58 x 1,98 m e king de 1,80 x 2,00 m. A base box é vendida à parte."
         ]
       },
       {
@@ -53349,7 +53293,7 @@ export const reviewsData: unknown[] = [
           "O Pillow Top Magnum, que vai por cima do colchão, já estava com cerca de 14% de desconto sobre o preço riscado em todos os tamanhos. Os kits com ele saíam com desconto maior, de 18% a 21%."
         ],
         "comparisonTable": {
-          "caption": "Pillow Top Magnum e kits na I Wanna Sleep em 9 de outubro de 2026: preço riscado na página e preço do dia.",
+          "caption": "Pillow Top Magnum e kits na I Wanna Sleep em 9 de outubro de 2026: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
           "headers": [
             "Produto",
             "Preço riscado",
@@ -53487,13 +53431,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Colchão e box: só nas lojas físicas",
+        "paragraphs": [
+          "Os colchões da I Wanna Sleep (Zen, I3, Hush, Breeze Plush e Star) e a base box aparecem no site, mas não são vendidos por ele: a página de cada um diz que eles estão disponíveis para experimentar nas lojas físicas e manda falar com as consultoras do sono da loja mais próxima.",
+          "As lojas ficam em Belo Horizonte: são sete, entre elas as do BH Shopping, do Del Rey e do Ponteio. Pelo site, a peça para a cama é o Pillow Top Magnum, que vai por cima do colchão que você já tem."
+        ]
+      },
+      {
         "heading": "Pix, parcelamento e cupom: o que soma",
         "bullets": [
           "**Pix:** 5% de desconto, só à vista, segundo a página de cada produto.",
           "**Cartão:** parcelado sem juros; o número de parcelas aparece na página do produto. A aprovação do cartão leva até 24 horas, e a do boleto, até 72 horas.",
           "**Cupom:** o CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento, e soma com os preços da Black Friday.",
-          "**Pix com o cupom:** os dois somam. No Pillow Top Magnum casal, a R$ 1.848 em outubro, o CECIEMCASA tira R$ 184,80, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ele sai por R$ 1.580,04. O resumo do checkout mostra o valor exato antes de pagar.",
-          "**No colchão:** pela mesma conta, o Zen casal, de R$ 3.388, sai por R$ 2.896,74 no Pix com o cupom."
+          "**Pix com o cupom:** os dois somam. No Pillow Top Magnum casal, a R$ 1.848 em outubro, o CECIEMCASA tira R$ 184,80, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ele sai por R$ 1.580,04. O resumo do checkout mostra o valor exato antes de pagar."
         ],
         "links": [
           {
@@ -53507,11 +53457,11 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Teste de 100 noites, trocas e devolução",
+        "heading": "Teste em casa, trocas e devolução",
         "bullets": [
-          "**Colchão (Sleeptest):** 100 dias para testar em casa, contados da entrega. A troca só pode ser pedida depois de 15 dias de uso, é por conforto (não por tamanho), vale uma vez por CPF e pede a etiqueta e a embalagem original. Em Belo Horizonte e região, a retirada e a nova montagem custam R$ 300; nas outras regiões, a loja combina pelo atendimento.",
-          "**Travesseiro e pillow top:** 30 dias, também com pelo menos 15 dias de uso e a etiqueta intacta. A troca vira crédito na loja.",
-          "**Arrependimento:** em compra pelo site, dá para devolver em até 7 dias corridos do recebimento, como manda o Código de Defesa do Consumidor. O frete da primeira devolução nesse prazo é grátis, exceto no colchão.",
+          "**Travesseiro e pillow top (Sleeptest):** 30 dias para testar em casa, com pelo menos 15 dias de uso antes de pedir a troca e a etiqueta intacta. A troca vira crédito na loja.",
+          "**Colchão (Sleeptest):** 100 dias, contados da entrega, também com pelo menos 15 dias de uso. A troca é por conforto (não por tamanho), vale uma vez por CPF e pede a etiqueta e a embalagem original.",
+          "**Arrependimento:** em compra pelo site, dá para devolver em até 7 dias corridos do recebimento, como manda o Código de Defesa do Consumidor, e o frete da primeira devolução nesse prazo é grátis.",
           "**Estorno:** volta na mesma forma de pagamento; no cartão, pode levar de 30 a 60 dias para aparecer na fatura.",
           "**Loja física:** compra feita no site não é trocada nas lojas."
         ],
@@ -53523,9 +53473,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Entrega do colchão e prazo para o Natal",
+        "heading": "Entrega e prazo para o Natal",
         "paragraphs": [
-          "A I Wanna Sleep não publica prazos por região: o carrinho mostra o prazo depois do CEP. Em 9 de outubro, simulamos o frete do colchão Zen casal e do Pillow Top Magnum casal com o CEP do centro de 12 capitais. O frete saiu grátis em todas, e o prazo foi o mesmo para os dois produtos.",
+          "A I Wanna Sleep não publica prazos por região: o carrinho mostra o prazo depois do CEP. Em 9 de outubro, simulamos o frete do Pillow Top Magnum casal com o CEP do centro de 12 capitais, e ele saiu grátis em todas.",
           "Somando um dia útil de folga ao prazo do carrinho, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
         ],
         "comparisonTable": {
@@ -53575,20 +53525,19 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "É uma estimativa com o prazo de outubro: se puder, peça antes, e pague com Pix ou cartão, porque o boleto pode levar até 72 horas para ser aprovado.",
-          "Nas cidades com loja ou centro de distribuição, como Belo Horizonte, a própria I Wanna Sleep entrega e monta o colchão: ela liga no dia seguinte à compra para agendar, e a montagem está incluída na primeira tentativa. Se ninguém estiver em casa no horário marcado, a nova visita custa R$ 300, e a loja não faz içamento. Nas outras cidades, o colchão vai por transportadora, com entrega no térreo e sem montagem.",
-          "A política de entrega da loja dá frete grátis acima de R$ 150 em travesseiros, pillow top, cobertores e no resto da linha leve, e diz que colchões, box, baús e cabeceiras têm frete calculado. Na nossa simulação, o frete do colchão também saiu grátis: confira no carrinho com o seu CEP."
+          "A política de entrega da loja dá frete grátis acima de R$ 150 em travesseiros, pillow top, cobertores e no resto da linha leve. Abaixo disso, o carrinho mostra o valor para o seu CEP."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quando é a Black Friday da I Wanna Sleep? A Black Friday de 2026 é na sexta-feira, 27 de novembro, e a Cyber Monday, na segunda, 30 de novembro. Até 9 de outubro de 2026, a I Wanna Sleep ainda não tinha anunciado campanha.",
-          "Vale esperar a Black Friday para comprar colchão? Na I Wanna Sleep, em outubro de 2026, os colchões estavam pelo preço cheio, como o Zen casal a R$ 3.388. Se em novembro o preço do dia ficar abaixo disso, o desconto é de verdade. Com o cupom e o Pix, o Zen casal já saía por R$ 2.896,74 em outubro, pela nossa conta.",
+          "Dá para comprar colchão da I Wanna Sleep pelo site? Não. Os colchões e a base box aparecem no site, mas são vendidos só nas lojas físicas, em Belo Horizonte, com as consultoras do sono. Pelo site, a peça para a cama é o Pillow Top Magnum.",
           "O cupom CECIEMCASA soma com o desconto do Pix? Soma. O CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento, e no Pix entram também os 5% da loja: pela nossa conta, o Pillow Top Magnum casal, de R$ 1.848 em outubro de 2026, sai por R$ 1.580,04.",
-          "O que é o Sleeptest da I Wanna Sleep? É o teste em casa: 100 dias para o colchão e 30 para o travesseiro e o pillow top, com pelo menos 15 dias de uso antes de pedir a troca. No colchão, a troca é por conforto e vale uma vez por CPF.",
-          "A I Wanna Sleep tem frete grátis? A loja dá frete grátis acima de R$ 150 em travesseiros, pillow top, cobertores e no resto da linha leve. Na nossa simulação de 9 de outubro, o frete saiu grátis para as 12 capitais testadas, inclusive no colchão; o carrinho mostra o valor para o seu CEP.",
+          "O que é o Sleeptest da I Wanna Sleep? É o teste em casa: 30 dias para o travesseiro e o pillow top e 100 dias para o colchão, com pelo menos 15 dias de uso antes de pedir a troca. No travesseiro e no pillow top, a troca vira crédito na loja.",
+          "A I Wanna Sleep tem frete grátis? Tem, acima de R$ 150, em travesseiros, pillow top, cobertores e no resto da linha leve. Na nossa simulação de 9 de outubro, o Pillow Top Magnum saiu com frete grátis para as 12 capitais testadas.",
           "Tem cupom de primeira compra na I Wanna Sleep? Use o CECIEMCASA, que dá 10% OFF em todo o site, com todas as formas de pagamento.",
-          "A I Wanna Sleep tem loja física? Tem sete lojas em Belo Horizonte, entre elas as do BH Shopping, do Del Rey e do Ponteio. Compras feitas no site não são trocadas nas lojas.",
+          "A I Wanna Sleep tem loja física? Tem sete lojas em Belo Horizonte, entre elas as do BH Shopping, do Del Rey e do Ponteio. É nelas que se compram colchões e box. Compras feitas no site não são trocadas nas lojas.",
           "O Pillow Top Magnum fica mais barato na Black Friday? Em outubro de 2026, ele já estava com cerca de 14% de desconto, a R$ 1.848 no casal. Se em novembro o preço do dia ficar abaixo disso, o desconto é maior que o de outubro.",
           "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos que o carrinho mostrou em outubro e um dia útil de folga, até 15 de dezembro em São Paulo e no Rio de Janeiro, até 18 de dezembro em Belo Horizonte e até 7 de dezembro em Recife."
         ]
