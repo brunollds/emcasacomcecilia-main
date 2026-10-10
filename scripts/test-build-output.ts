@@ -23,13 +23,7 @@ import {
 } from '../src/lib/couponTranslations';
 import { publishedReviews, recipes } from '../src/lib/data';
 import { getEventHubPage, getEventHubPaths, resolveActiveHomeEvent } from '../src/lib/homeEvents';
-import {
-  getHomeLatest,
-  getHomeStoreTabs,
-  getStoreArticlePageSlugs,
-  getStoreArticlesPage,
-  getStoreArticlesPath,
-} from '../src/lib/homeStores';
+import { getHomeLatest, getHomeStoreTabs, getStoreArticlePageSlugs, getStoreArticlesPage } from '../src/lib/homeStores';
 import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
 import { LOCALES, LOCALE_KEYS, type Locale } from '../src/lib/i18n/locales';
 import { getShellCopy, getShellHomeHref, getShellNavLinks } from '../src/lib/i18n/shellDictionary';
@@ -42,7 +36,7 @@ import {
 } from '../src/lib/localeHome';
 import { SITE_NAME, SITE_SOCIAL_IMAGE, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
 import { getInternationalReviewHub } from '../src/lib/review-hubs';
-import { getReviewsHubContent } from '../src/lib/reviewsHub';
+import { getReviewsHubContent, getStoreShelfContent } from '../src/lib/reviewsHub';
 import { GRID_PAGE_SIZE } from '../src/lib/reviewsShelf';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 import { LABEL_SAME_AS_PORTUGUESE, codeAsCouponRegExp, getPtStoreTexts, isStoreLink } from './locale-home-guards';
@@ -1186,21 +1180,6 @@ for (const { html, expected } of wrongExpectations) {
   assert.ok(homeProblems(html, expected).length > 0, 'o guarda da home deixou passar uma home errada');
 }
 
-// Os cards de Guias & Análises (ReviewHubCard) de /reviews e das subpáginas de loja: o h2 só para
-// leitor de tela entre o h1 e os h3 dos cards, e o anel de foco da casa em cada link de card. Os
-// cards são os links de artigo da grade, do h2 até o fim da <section> dele: um link de artigo fora
-// dela (destaque, rodapé) não é card. Devolve as tags dos links de card.
-function assertHubCards(where: string, body: string, heading: string) {
-  const grid = between(body, `<h2 class="sr-only">${heading}</h2>`, ['</section>']);
-  assert.ok(grid, `${where}: sem o h2 "${heading}" entre o h1 e os h3 dos cards`);
-  const tags = [...grid.matchAll(/<a\b[^>]*\bhref="\/reviews\/[^"/]+"[^>]*>/g)].map(([tag]) => tag);
-  assert.ok(tags.length > 0, `${where}: sem links de card`);
-  for (const tag of tags) {
-    assert.match(tag, /\bclass="[^"]* focus-visible:outline-marinho[ "]/, `${where}: card sem o anel de foco da casa: ${tag}`);
-  }
-  return tags;
-}
-
 // Os slugs dos links de artigo e de subpágina de loja de um trecho do HTML, na ordem.
 const articleLinksIn = (html: string) =>
   [...html.matchAll(/<a\b[^>]*\bhref="\/reviews\/([^"/?#]+)"/g)].map(([, slug]) => slug);
@@ -1398,30 +1377,82 @@ function assertSitemapLastmod(pagePath: string, articles: readonly { updatedAt?:
   assert.equal(sitemapEntry?.match(/<lastmod>([^<]+)<\/lastmod>/)?.[1], newestDate, `${pagePath}: lastmod no sitemap.xml`);
 }
 
-// Subpágina de cada loja com mais de 3 artigos: o h1, o canonical, um card por artigo (com o anel de
-// foco), o link da página da loja, o h2 só para leitor de tela, a imagem de compartilhamento da loja,
-// o JSON-LD e a data no sitemap.
+// A trilha visível de uma subpágina (o <nav> com o rótulo da trilha dos artigos em português) é a do
+// BreadcrumbList do JSON-LD, item por item.
+const STORE_TRAIL_LABEL = getArticleCopy('pt').breadcrumbLabel;
+function storeTrailNames(body: string): string[] {
+  const nav = between(body, `<nav aria-label="${STORE_TRAIL_LABEL}"`, ['</nav>']);
+  return [...nav.matchAll(/<li\b[^>]*>([\s\S]*?)<\/li>/g)].map(([, item]) => textOf(item).replace(/›$/, '').trim());
+}
+
+// Subpágina de cada loja com mais de 3 artigos: o h1 (um só), o canonical, a trilha visível igual ao
+// BreadcrumbList, a estante (busca só acima de 12 artigos e só as categorias da loja), o link da página
+// da loja, Outras lojas sem a loja da página, a imagem de compartilhamento, o JSON-LD e a data no sitemap.
 const storeArticleSlugs = getStoreArticlePageSlugs(publishedReviews);
 for (const slug of storeArticleSlugs) {
-  const pagePath = getStoreArticlesPath(slug);
-  const page = getStoreArticlesPage(publishedReviews, slug);
-  assert.ok(page, `${pagePath}: sem dados`);
+  const page = getStoreShelfContent(publishedReviews, slug);
+  const storeReviews = getStoreArticlesPage(publishedReviews, slug)?.articles;
+  assert.ok(page && storeReviews, `${slug}: sem dados da subpágina`);
+  const pagePath = page.path;
   const file = builtFile(`${SITE_URL}${pagePath}`);
   assert.ok(file, `${pagePath}: página não gerada no build`);
   const html = read(file);
   const body = bodyOf(html);
   assert.equal(headOf(html).match(/<link rel="canonical" href="([^"]+)"/)?.[1], `${SITE_URL}${pagePath}`, `${pagePath}: canonical`);
-  assert.equal(textOf(body.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1] ?? ''), page.title, `${pagePath}: h1`);
+  const h1s = [...body.matchAll(/<h1\b[^>]*>([\s\S]*?)<\/h1>/g)].map(([, h1]) => textOf(h1));
+  assert.equal(h1s.length, 1, `${pagePath}: ${h1s.length} h1`);
+  assert.equal(h1s[0], page.title, `${pagePath}: h1`);
   assert.ok(body.includes(hrefOf(page.storePageUrl)), `${pagePath}: sem o link de ${page.storePageUrl}`);
-  // Os cards são os links de artigo da grade (assertHubCards): o que está fora dela não conta.
-  const cardTags = assertHubCards(pagePath, body, 'Lista de artigos');
-  const cardSlugs = new Set(cardTags.map((tag) => tag.match(/href="\/reviews\/([^"/]+)"/)?.[1]));
-  assert.deepEqual([...cardSlugs].sort(), page.articles.map((article) => article.slug).sort(), `${pagePath}: um card por artigo da loja`);
-  assert.equal(cardTags.length, page.articles.length, `${pagePath}: um link por card`);
+  assert.ok(!html.includes('data-reveal'), `${pagePath}: data-reveal no HTML`);
+
+  const trailNames = page.trail.map(({ name }) => name);
+  assert.deepEqual(storeTrailNames(body), trailNames, `${pagePath}: trilha visível`);
+  const breadcrumb = jsonLdOf(html).find((schema) => schema['@type'] === 'BreadcrumbList');
+  assert.deepEqual(
+    breadcrumb?.itemListElement?.map((item: { name: string }) => item.name),
+    trailNames,
+    `${pagePath}: trilha visível diferente do BreadcrumbList`
+  );
+
+  assertShelfPage(pagePath, body, { articles: page.articles, searchLabel: page.search?.label ?? null });
+  const chips = between(body, 'data-categorias="true"', ['</div>']);
+  assert.deepEqual(
+    [...chips.matchAll(/<button\b[^>]*aria-pressed="(?:true|false)"[^>]*>([^<]*)<\/button>/g)].map(([, label]) => decodeHtml(label)),
+    page.categories.length > 1 ? ['Todos', ...page.categories.map(({ label }) => label)] : [],
+    `${pagePath}: categorias da loja`
+  );
+  // Sem outras lojas, a seção nem é desenhada (ReviewsStoreStrip devolve null): o título tem de estar ausente.
+  if (page.otherStores.length === 0) {
+    assert.ok(!body.includes('id="titulo-outras-lojas"'), `${pagePath}: Outras lojas sem nenhuma outra loja`);
+  } else {
+    assert.deepEqual(
+      storeLinksIn(between(body, 'id="titulo-outras-lojas"', ['</section>'])),
+      page.otherStores.map((store) => store.slug),
+      `${pagePath}: Outras lojas`
+    );
+  }
+  assert.ok(!page.otherStores.some((store) => store.slug === slug), `${pagePath}: Outras lojas com a própria loja`);
+
   const store = getCouponBySlug(slug);
   assert.ok(store, `${pagePath}: sem a loja ${slug} em couponsData`);
   assertListPageSeo(pagePath, html, { items: page.articles.length, image: getStoreSocialImage(store) });
-  assertSitemapLastmod(pagePath, page.articles);
+  assertCollectionNames(pagePath, html, page.articles.map(({ title }) => title));
+  assertSitemapLastmod(pagePath, storeReviews);
+}
+
+// O guarda da trilha acusa o último item trocado.
+{
+  const [slug] = storeArticleSlugs;
+  const page = getStoreShelfContent(publishedReviews, slug);
+  const file = page && builtFile(`${SITE_URL}${page.path}`);
+  assert.ok(page && file, 'sem subpágina para o controle da trilha');
+  const body = bodyOf(read(file));
+  const navStart = body.indexOf(`<nav aria-label="${STORE_TRAIL_LABEL}"`);
+  assert.ok(navStart >= 0, 'sem a trilha para o controle da trilha');
+  const swapped =
+    body.slice(0, navStart) + body.slice(navStart).replace(`>${escapeHtml(page.title)}<`, '>Outro título<');
+  assert.notEqual(swapped, body, 'o controle da trilha não trocou o último item');
+  assert.notDeepEqual(storeTrailNames(swapped), page.trail.map(({ name }) => name), 'o guarda da trilha deixou passar');
 }
 
 // Página de cada data com edição no home-events.json: o h1, o canonical, a imagem de compartilhamento,

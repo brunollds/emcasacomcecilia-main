@@ -2,18 +2,26 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { ArrowRight } from 'lucide-react';
-import { ReviewHubCard } from '@/components/review/ReviewHubCard';
+import { couponFontVariables } from '@/components/coupons/CouponBlocks';
+import { getArticleCopy } from '@/components/review/articleCopy';
 import { TrackedCouponPageLink } from '@/components/review/TrackedCouponPageLink';
-import { FOCUS_RING, FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
+import { ReviewsBrowser } from '@/components/reviews/ReviewsBrowser';
+import { ReviewsStoreStrip } from '@/components/reviews/ReviewsStoreStrip';
+import { SHELF_CONTAINER } from '@/components/reviews/shelfClasses';
+import { TrackedReviewsLink } from '@/components/reviews/TrackedReviewsLink';
+import { StoreMark } from '@/components/sections/HomeStoreStrip';
+import { FOCUS_RING } from '@/components/ui/focusRing';
 import { getCouponBySlug } from '@/lib/couponsData';
 import { publishedReviews } from '@/lib/data';
-import { getStoreArticlePageSlugs, getStoreArticlesPage, getStoreArticlesPath } from '@/lib/homeStores';
+import { getStoreArticlePageSlugs } from '@/lib/homeStores';
 import { LOCALES } from '@/lib/i18n/locales';
+import { serializeJsonLd } from '@/lib/jsonLd';
 import { SITE_NAME, SITE_SOCIAL_IMAGE, getCollectionPageJsonLd, getStoreSocialImage } from '@/lib/pageSeo';
-import { toHomeReviewCard } from '@/lib/reviewDiscovery';
+import { getStoreShelfContent, type StoreShelfContent } from '@/lib/reviewsHub';
 
 // Tudo o que a Cecília escreveu sobre uma loja. A página da loja (/cupons/{slug}) responde qual é o
-// código e como usar; esta lista os artigos. Só em português, e só para loja ativa com mais de 3 artigos.
+// código e como usar; esta lista os artigos, na estante de /reviews. Só em português, e só para loja
+// ativa com mais de 3 artigos.
 
 export const dynamicParams = false;
 
@@ -26,9 +34,8 @@ export function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: StoreArticlesPageProps): Promise<Metadata> {
-  const page = getStoreArticlesPage(publishedReviews, (await params).brand);
+  const page = getStoreShelfContent(publishedReviews, (await params).brand);
   if (!page) return {};
-  const path = getStoreArticlesPath(page.slug);
   // A mesma imagem da página de cupom da loja.
   const store = getCouponBySlug(page.slug);
   const image = store ? getStoreSocialImage(store) : SITE_SOCIAL_IMAGE;
@@ -36,11 +43,11 @@ export async function generateMetadata({ params }: StoreArticlesPageProps): Prom
   return {
     title: page.metaTitle,
     description: page.description,
-    alternates: { canonical: path },
+    alternates: { canonical: page.path },
     openGraph: {
       title: page.metaTitle,
       description: page.description,
-      url: path,
+      url: page.path,
       siteName: SITE_NAME,
       locale: LOCALES.pt.openGraphLocale,
       type: 'website',
@@ -52,65 +59,97 @@ export async function generateMetadata({ params }: StoreArticlesPageProps): Prom
 }
 
 export default async function StoreArticlesPage({ params }: StoreArticlesPageProps) {
-  const page = getStoreArticlesPage(publishedReviews, (await params).brand);
+  const page = getStoreShelfContent(publishedReviews, (await params).brand);
   if (!page) notFound();
 
   const jsonLd = getCollectionPageJsonLd({
     name: page.title,
     description: page.description,
-    path: getStoreArticlesPath(page.slug),
-    items: page.articles.map((article) => ({ name: article.title, path: `/reviews/${article.slug}` })),
-    breadcrumb: [
-      { name: 'Início', path: '/' },
-      { name: 'Guias & Análises', path: '/reviews' },
-    ],
+    path: page.path,
+    items: page.articles.map((article) => ({ name: article.title, path: article.href })),
+    breadcrumb: page.trail.slice(0, -1),
   });
 
   return (
-    <main className="min-h-screen bg-creme">
+    <main className={`${couponFontVariables} min-h-screen bg-white pb-16 text-marinho`}>
       {jsonLd.map((schema, index) => (
-        <script
-          key={index}
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
-        />
+        <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: serializeJsonLd(schema) }} />
       ))}
-
-      <section className="border-b border-black/5 bg-marinho px-6 py-14 text-white md:py-16">
-        <div className="mx-auto flex max-w-7xl flex-col items-center gap-4 text-center">
-          <h1 className="font-heading text-4xl font-bold md:text-5xl">{page.title}</h1>
-          <p className="max-w-2xl text-base leading-relaxed text-white/70 md:text-lg">{page.countLabel}</p>
-          <TrackedCouponPageLink
-            href={page.storePageUrl}
-            linkLabel={page.codeLinkLabel}
-            placement="reviews_store_page"
-            className={`mt-2 inline-flex min-h-11 items-center gap-2 rounded-full bg-laranja px-6 text-sm font-extrabold text-marinho ${FOCUS_RING_ON_DARK}`}
-          >
-            {page.codeLinkLabel}
-            <ArrowRight aria-hidden="true" className="size-4" />
-          </TrackedCouponPageLink>
-        </div>
-      </section>
-
-      <section className="px-6 py-8 md:py-10">
-        <div className="mx-auto max-w-7xl">
-          <h2 className="sr-only">Lista de artigos</h2>
-          <div className="grid grid-cols-2 gap-4 md:grid-cols-3 md:gap-6 xl:grid-cols-4">
-            {page.articles.map(toHomeReviewCard).map((review, index) => (
-              <ReviewHubCard key={review.id} review={review} index={index} />
-            ))}
-          </div>
-          <div className="mt-10 flex justify-center">
-            <Link
-              href="/reviews"
-              className={`inline-flex items-center gap-2 rounded-full border-2 border-verde-escuro px-8 py-4 font-semibold text-verde-escuro hover:bg-verde-escuro hover:text-white motion-safe:transition-colors ${FOCUS_RING}`}
-            >
-              Ver todos os guias e análises
-              <ArrowRight aria-hidden="true" className="size-4" />
-            </Link>
-          </div>
-        </div>
-      </section>
+      <ReviewsBrowser
+        articles={page.articles}
+        categories={page.categories}
+        listPath={page.path}
+        placementPrefix="store"
+        showStore={false}
+        heading="Lista de artigos"
+        headingVisible={false}
+        search={page.search}
+        hero={<StoreHero page={page} />}
+      />
+      <ReviewsStoreStrip id="titulo-outras-lojas" title="Outras lojas" stores={page.otherStores} placement="store_other_stores" />
+      <div className={`${SHELF_CONTAINER} flex justify-center`}>
+        <TrackedReviewsLink
+          href="/reviews"
+          placement="store_all_reviews"
+          linkLabel="Ver todos os guias e análises"
+          className={`inline-flex min-h-12 items-center gap-2 rounded-full border-2 border-marinho px-8 font-extrabold text-marinho hover:bg-marinho hover:text-white motion-safe:transition-colors ${FOCUS_RING}`}
+        >
+          Ver todos os guias e análises
+          <ArrowRight aria-hidden="true" className="size-4" />
+        </TrackedReviewsLink>
+      </div>
     </main>
+  );
+}
+
+// O topo da subpágina: a trilha (a mesma lista do BreadcrumbList), a bolinha da loja com o anel, o h1
+// com o marca-texto, o total e o botão do código.
+function StoreHero({ page }: { page: StoreShelfContent }) {
+  return (
+    <>
+      <nav aria-label={getArticleCopy('pt').breadcrumbLabel} className="mb-5">
+        <ol className="flex flex-wrap items-center gap-x-2 gap-y-1 text-sm font-bold text-marinho-suave">
+          {page.trail.map((item, index) => {
+            const last = index === page.trail.length - 1;
+            return (
+              <li key={item.path} className="flex items-center gap-2">
+                {last ? (
+                  <span aria-current="page" className="text-marinho">
+                    {item.name}
+                  </span>
+                ) : (
+                  <Link href={item.path} className={`underline underline-offset-[3px] hover:text-marinho ${FOCUS_RING}`}>
+                    {item.name}
+                  </Link>
+                )}
+                {last ? null : <span aria-hidden="true">›</span>}
+              </li>
+            );
+          })}
+        </ol>
+      </nav>
+      <div className="flex flex-col gap-5 md:flex-row md:items-end md:justify-between">
+        <div className="flex items-center gap-4 md:gap-6">
+          <span className="relative m-1.5 flex size-16 shrink-0 items-center justify-center overflow-hidden rounded-full bg-creme shadow-[0_0_0_4px_var(--color-amarelo-cupom),0_0_0_6px_var(--color-marinho)] md:size-24">
+            <StoreMark tab={page.store} imageClassName="h-[53%] w-[74%]" sizes="96px" />
+          </span>
+          <div>
+            <h1 className="font-condensada text-[40px] leading-none font-black text-marinho font-stretch-extra-condensed md:text-6xl">
+              <span className="marca-texto marca-texto-entra">{page.title}</span>
+            </h1>
+            <p className="mt-2 text-base font-semibold text-marinho-suave">{page.countLabel}</p>
+          </div>
+        </div>
+        <TrackedCouponPageLink
+          href={page.storePageUrl}
+          linkLabel={page.codeLinkLabel}
+          placement="reviews_store_page"
+          className={`inline-flex min-h-12 items-center justify-center gap-2 self-start rounded-[10px] border-2 border-marinho bg-laranja px-5 text-[15px] font-extrabold text-marinho hover:bg-laranja/85 motion-safe:transition-colors md:self-auto ${FOCUS_RING}`}
+        >
+          {page.codeLinkLabel}
+          <ArrowRight aria-hidden="true" className="size-4" />
+        </TrackedCouponPageLink>
+      </div>
+    </>
   );
 }
