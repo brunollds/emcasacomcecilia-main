@@ -24,7 +24,6 @@ import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 import { getReviewCanonicalPathname, resolveReviewLocale } from '@/lib/content/review-i18n';
 import type { Locale } from '@/lib/i18n/locales';
 import { getShellCopy } from '@/lib/i18n/shellDictionary';
-import { getInternationalReviewHub } from '@/lib/review-hubs';
 import { GuideTimeline } from './GuideTimeline';
 import { PullQuote } from './PullQuote';
 import { ReviewHighlightChips } from './ReviewHighlightChips';
@@ -196,9 +195,8 @@ export function ReviewNotebookTemplate({
   languageLinks,
 }: ReviewNotebookTemplateProps): React.ReactElement {
   const couponCopyLocale = resolveReviewLocale(review.locale);
-  const internationalReviewHub = couponCopyLocale === 'pt'
-    ? null
-    : getInternationalReviewHub(couponCopyLocale);
+  // A lista de artigos do idioma é o último nível da trilha antes do artigo.
+  const reviewHubHref = breadcrumbs[breadcrumbs.length - 1].href;
   const ui = templateUiLabels[couponCopyLocale] || templateUiLabels.pt;
 
   const { kind, plainTextBody } = viewModel;
@@ -741,7 +739,7 @@ export function ReviewNotebookTemplate({
                   {ui.relatedArticles}
                 </SectionHeadingReveal>
                 <Link
-                  href={internationalReviewHub?.href ?? '/reviews'}
+                  href={reviewHubHref}
                   className="hidden items-center gap-2 text-sm font-bold text-[#1a4d2e] transition-colors hover:text-[#ff6b35] md:inline-flex"
                 >
                   {ui.viewAll}
