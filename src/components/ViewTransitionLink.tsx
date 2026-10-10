@@ -33,6 +33,10 @@ export function ViewTransitionLink({
     // Only use View Transitions for regular left-clicks on internal links
     if (supportsViewTransition && !prefersReducedMotion && !isSpecialClick && !isExternalLink) {
       e.preventDefault();
+      // A foto do cartão (data-vt-name) só ganha o nome da transição agora: o mesmo artigo pode estar
+      // duas vezes na página (Novidades e acervo de /reviews), e nomes repetidos cancelam a transição.
+      const morph = e.currentTarget.querySelector<HTMLElement>('[data-vt-name]');
+      if (morph?.dataset.vtName) morph.style.viewTransitionName = morph.dataset.vtName;
       // Note: router.push doesn't return a promise, so Chromium may cross-fade
       // instead of morphing if the route render is slow. Acceptable since pages
       // are prerendered and cache hits usually morph instantly.

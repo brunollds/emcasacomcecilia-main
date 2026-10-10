@@ -1,5 +1,14 @@
 import assert from 'node:assert/strict';
+import { createElement, type ReactElement } from 'react';
+import { renderToStaticMarkup } from 'react-dom/server';
+import { AppRouterContext } from 'next/dist/shared/lib/app-router-context.shared-runtime';
+import { imageConfigDefault, type ImageConfigComplete, type RemotePattern } from 'next/dist/shared/lib/image-config';
+import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.shared-runtime';
 
+import { ReviewShelfCard, ReviewShelfRow } from '@/components/reviews/ReviewShelfCard';
+import { StoreBubbleLink } from '@/components/reviews/StoreBubbleLink';
+import { TrackedReviewsLink } from '@/components/reviews/TrackedReviewsLink';
+import { cardDecorAt } from '@/components/ui/cardDecor';
 import { COUPONS } from '@/lib/couponsData';
 import { publishedReviews } from '@/lib/data';
 import { getStoreArticlePageSlugs, getStoreArticlesPage } from '@/lib/homeStores';
@@ -38,6 +47,7 @@ import {
   type ShelfArticle,
   type ShelfQuery,
 } from '@/lib/reviewsShelf';
+import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 // A estante de /reviews e das subpáginas de loja: as regras de reviewsShelf.ts, os dados de
@@ -404,6 +414,124 @@ for (const shelfStore of real.stores) {
     `${shelfStore.slug}: Outras lojas são todas as outras, na ordem das lojas`
   );
 }
+
+// Componentes, renderizados como o servidor os entrega. Fora do Next, o next/image não conhece os hosts
+// do next.config.mjs, e o useRouter() do ViewTransitionLink exige o roteador do App Router montado.
+const imageConfig: ImageConfigComplete = {
+  ...imageConfigDefault,
+  remotePatterns: IMAGE_REMOTE_PATTERNS as RemotePattern[],
+};
+const router = { back() {}, forward() {}, refresh() {}, push() {}, replace() {}, prefetch() {} };
+
+function render(element: ReactElement): string {
+  return renderToStaticMarkup(
+    createElement(
+      ImageConfigContext.Provider,
+      { value: imageConfig },
+      createElement(AppRouterContext.Provider, { value: router }, element)
+    )
+  );
+}
+
+// Cartão da grade: link com o anel de foco, data com o ano, tipo, loja embaixo, selo "Novo", foto lazy
+// e o nome da transição só no data-vt-name (o HTML não leva view-transition-name).
+const gridCard = render(
+  createElement(ReviewShelfCard, {
+    article: poltrona,
+    placement: 'reviews_grid',
+    dateFormat: 'fullDate',
+    showStore: true,
+    imageSizes: '270px',
+  })
+);
+assert.match(gridCard, /<a [^>]*href="\/reviews\/poltrona-damie"/);
+assert.match(gridCard, /focus-visible:outline-marinho/);
+assert.ok(gridCard.includes('>09/10/2026, Guia<'), 'data com o ano e tipo');
+assert.ok(gridCard.includes('>DAMIE</span>'), 'loja embaixo');
+assert.ok(gridCard.includes('>Novo</span>'), 'selo Novo');
+assert.ok(gridCard.includes('data-vt-name="review-hero-poltrona-damie"'));
+assert.ok(!gridCard.includes('view-transition-name'), 'nome de transição no HTML');
+assert.match(gridCard, /<img [^>]*loading="lazy"/);
+assert.ok(!gridCard.includes('aria-hidden="true"'), 'cartão do acervo sem ímã');
+
+const noStore = render(
+  createElement(ReviewShelfCard, {
+    article: poltrona,
+    placement: 'store_grid',
+    dateFormat: 'fullDate',
+    showStore: false,
+    imageSizes: '270px',
+  })
+);
+assert.ok(!noStore.includes('>DAMIE</span>'), 'na subpágina o cartão não repete a loja');
+
+// Cartão das Novidades: DD/MM, ímã decorativo, inclinação, foto sem atraso e sem o selo "Novo" (todos ali
+// são novos).
+const newCard = render(
+  createElement(ReviewShelfCard, {
+    article: poltrona,
+    placement: 'reviews_new',
+    dateFormat: 'dayMonth',
+    showStore: true,
+    decor: cardDecorAt(0),
+    eager: true,
+    showNewBadge: false,
+    imageSizes: '220px',
+  })
+);
+assert.ok(newCard.includes('>09/10, Guia<'));
+assert.ok(!newCard.includes('>Novo</span>'), 'selo Novo nas Novidades');
+assert.match(newCard, /<span aria-hidden="true" class="[^"]*bg-amarelo-cupom/);
+assert.match(newCard, /class="[^"]*-rotate-1/);
+assert.match(newCard, /<img [^>]*loading="eager"/);
+assert.match(newCard, /<img [^>]*fetchpriority="high"/i);
+
+const noImage = render(
+  createElement(ReviewShelfCard, {
+    article: article('dez-dicas'),
+    placement: 'reviews_grid',
+    dateFormat: 'fullDate',
+    showStore: true,
+    imageSizes: '270px',
+  })
+);
+assert.ok(!noImage.includes('<img'), 'artigo sem capa: sem <img>');
+const contained = render(
+  createElement(ReviewShelfCard, {
+    article: article('agua'),
+    placement: 'reviews_grid',
+    dateFormat: 'fullDate',
+    showStore: true,
+    imageSizes: '270px',
+  })
+);
+assert.match(contained, /<img [^>]*class="[^"]*object-contain/);
+
+// Linha da lista: data com o ano, tipo e loja; sem a loja na subpágina.
+const row = render(createElement(ReviewShelfRow, { article: article('magalu-1'), placement: 'reviews_list', showStore: true }));
+assert.match(row, /<a [^>]*href="\/reviews\/magalu-1"/);
+assert.ok(row.includes('>04/07/2026, Guia<'));
+assert.ok(row.includes('>Magalu</span>'));
+assert.ok(row.includes('data-vt-name="review-hero-magalu-1"'));
+const rowNoStore = render(createElement(ReviewShelfRow, { article: article('magalu-1'), placement: 'store_list', showStore: false }));
+assert.ok(!rowNoStore.includes('>Magalu</span>'));
+
+// Bolinha da loja como link: href da subpágina, classes da bolinha, posição (--i), nome e total.
+const bubble = render(createElement(StoreBubbleLink, { store: hub.stores[0], index: 2, placement: 'reviews_stores' }));
+assert.match(bubble, /<a [^>]*href="\/reviews\/loja\/magalu"/);
+assert.match(bubble, /class="bolinha /);
+assert.match(bubble, /--i:2/);
+assert.ok(bubble.includes('>Magalu</span>'));
+assert.ok(bubble.includes('>4 artigos</span>'));
+
+const tracked = render(
+  createElement(
+    TrackedReviewsLink,
+    { href: '/reviews', placement: 'store_all_reviews', linkLabel: 'Ver todos', className: 'x' },
+    'Ver todos'
+  )
+);
+assert.match(tracked, /<a class="x" href="\/reviews">Ver todos<\/a>/);
 
 console.log(
   `✅ reviewsHub: estante de ${real.articles.length} artigos, ${real.newArticles.length} novidades, ${real.stores.length} lojas com subpágina, busca, ordem, URL e medição passaram.`
