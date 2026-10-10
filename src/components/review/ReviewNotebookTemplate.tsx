@@ -17,7 +17,7 @@ import { ReviewHeroImage } from './ReviewHeroImage';
 import { ReviewVerdictCard } from './ReviewVerdictCard';
 import { ReviewSidebar, type ResolvedRelatedArticle } from './ReviewSidebar';
 import { ReviewMobileBottomBar } from './ReviewMobileBottomBar';
-import { getArticleCopy } from './articleCopy';
+import { getArticleCopy, getEditorialNoteLabels } from './articleCopy';
 import { InlineCouponCopy } from './InlineCouponCopy';
 import { isStepHeading, type CouponCopyLocale } from './couponCopyLocale';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
@@ -201,6 +201,7 @@ export function ReviewNotebookTemplate({
 
   const { kind, plainTextBody } = viewModel;
   const copy = getArticleCopy(couponCopyLocale);
+  const noteLabels = getEditorialNoteLabels(couponCopyLocale);
   // Um `reviewKind` fora do enum (a Mini Me 2.0 tem "product") sempre caiu no selo de editorial.
   const kindLabel = copy.kindLabel[kind] ?? copy.kindLabel.editorial;
   const badgeColor = getBadgeColor(kind);
@@ -397,7 +398,7 @@ export function ReviewNotebookTemplate({
               {unanchoredNotes.length > 0 && (
                 <div className="mt-4 flex flex-wrap gap-2">
                   {unanchoredNotes.map((note) => (
-                    <EditorialNotePill key={note.id || note.label} note={note} locale={couponCopyLocale} />
+                    <EditorialNotePill key={note.id || note.label} note={note} labels={noteLabels} />
                   ))}
                 </div>
               )}
@@ -518,6 +519,7 @@ export function ReviewNotebookTemplate({
                     coupon={review.coupon}
                     affiliate={review.affiliate}
                     locale={couponCopyLocale}
+                    noteLabels={noteLabels}
                   />
                   {stepSections.length > 0 && (
                     <div className="mt-12">
@@ -542,6 +544,7 @@ export function ReviewNotebookTemplate({
                         coupon={review.coupon}
                         affiliate={review.affiliate}
                         locale={couponCopyLocale}
+                        noteLabels={noteLabels}
                       />
                     </div>
                   )}
@@ -558,6 +561,7 @@ export function ReviewNotebookTemplate({
                   coupon={review.coupon}
                   affiliate={review.affiliate}
                   locale={couponCopyLocale}
+                  noteLabels={noteLabels}
                 />
               )}
 
