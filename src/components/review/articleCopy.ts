@@ -2,7 +2,8 @@ import type { Recommendation, ReviewKind } from '@/lib/content';
 import type { Locale } from '@/lib/i18n/locales';
 
 // Textos do corpo do artigo que não são conteúdo editorial: selo do tipo, veredito e nota, ficha do
-// produto, bloco de vídeo e legenda da imagem. A sidebar e o dock têm os deles em sidebarCopy.ts.
+// produto, bloco de vídeo, legenda da imagem e o nome da trilha para o leitor de tela (o mesmo das
+// páginas de loja, em couponStoreCopy.tsx). A sidebar e o dock têm os deles em sidebarCopy.ts.
 // O código de indicação da SHEIN é da SHEIN Brasil e fora do PT o chip diz isso, com os termos da
 // página da loja (couponTranslations.ts).
 export type ArticleCopy = {
@@ -33,6 +34,7 @@ export type ArticleCopy = {
   relatedVideo: string;
   watchOnYoutube: string;
   openVideoPage: string;
+  breadcrumbLabel: string;
 };
 
 const articleCopy: Record<Locale, ArticleCopy> = {
@@ -64,6 +66,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: 'Vídeo relacionado',
     watchOnYoutube: 'Assista ao vídeo completo no YouTube',
     openVideoPage: 'Abrir a página dedicada ao vídeo',
+    breadcrumbLabel: 'Você está em',
   },
   en: {
     kindLabel: { produto: 'Product review', guia: 'Guide', editorial: 'Editorial' },
@@ -93,6 +96,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: 'Related video',
     watchOnYoutube: 'Watch the full video on YouTube',
     openVideoPage: 'Open the dedicated video page',
+    breadcrumbLabel: 'You are here',
   },
   es: {
     kindLabel: { produto: 'Reseña de producto', guia: 'Guía', editorial: 'Editorial' },
@@ -122,6 +126,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: 'Vídeo relacionado',
     watchOnYoutube: 'Mira el vídeo completo en YouTube',
     openVideoPage: 'Abrir la página dedicada al vídeo',
+    breadcrumbLabel: 'Estás en',
   },
   fr: {
     kindLabel: { produto: 'Test de produit', guia: 'Guide', editorial: 'Éditorial' },
@@ -151,6 +156,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: 'Vidéo associée',
     watchOnYoutube: 'Regardez la vidéo complète sur YouTube',
     openVideoPage: 'Ouvrir la page dédiée à la vidéo',
+    breadcrumbLabel: 'Vous êtes ici',
   },
   de: {
     kindLabel: { produto: 'Produkttest', guia: 'Ratgeber', editorial: 'Redaktionell' },
@@ -180,6 +186,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: 'Passendes Video',
     watchOnYoutube: 'Das ganze Video auf YouTube ansehen',
     openVideoPage: 'Seite zum Video öffnen',
+    breadcrumbLabel: 'Du bist hier',
   },
   it: {
     kindLabel: { produto: 'Recensione di prodotto', guia: 'Guida', editorial: 'Editoriale' },
@@ -209,6 +216,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: 'Video correlato',
     watchOnYoutube: 'Guarda il video completo su YouTube',
     openVideoPage: 'Apri la pagina dedicata al video',
+    breadcrumbLabel: 'Sei qui',
   },
   ko: {
     kindLabel: { produto: '제품 리뷰', guia: '가이드', editorial: '에디토리얼' },
@@ -238,6 +246,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: '관련 영상',
     watchOnYoutube: 'YouTube에서 전체 영상 보기',
     openVideoPage: '영상 전용 페이지 열기',
+    breadcrumbLabel: '현재 위치',
   },
   ja: {
     kindLabel: { produto: '製品レビュー', guia: 'ガイド', editorial: 'エディトリアル' },
@@ -267,6 +276,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: '関連動画',
     watchOnYoutube: 'YouTube で動画の全編を見る',
     openVideoPage: '動画専用ページを開く',
+    breadcrumbLabel: '現在位置',
   },
   'zh-hant': {
     kindLabel: { produto: '產品評測', guia: '指南', editorial: '編輯專題' },
@@ -296,6 +306,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: '相關影片',
     watchOnYoutube: '在 YouTube 觀看完整影片',
     openVideoPage: '開啟影片專頁',
+    breadcrumbLabel: '目前位置',
   },
   'zh-hans': {
     kindLabel: { produto: '产品评测', guia: '指南', editorial: '编辑专题' },
@@ -325,6 +336,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: '相关视频',
     watchOnYoutube: '在 YouTube 观看完整视频',
     openVideoPage: '打开视频专页',
+    breadcrumbLabel: '当前位置',
   },
 };
 

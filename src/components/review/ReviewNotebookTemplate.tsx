@@ -306,7 +306,7 @@ export function ReviewNotebookTemplate({
                 {kindLabel}
               </span>
 
-              <nav aria-label="Breadcrumb">
+              <nav aria-label={copy.breadcrumbLabel}>
                 <ol className="flex flex-wrap items-center gap-2 text-sm text-[#4a5568]">
                   {breadcrumbs.map(({ name, href }) => (
                     <Fragment key={href}>
