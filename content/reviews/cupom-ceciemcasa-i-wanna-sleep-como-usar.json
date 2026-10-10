@@ -12,10 +12,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Aprenda a usar o cupom CECIEMCASA no site oficial da I Wanna Sleep. Veja o passo a passo completo para garantir 10% de desconto em travesseiros, colchões e acessórios de sono.",
+  "description": "Aprenda a usar o cupom CECIEMCASA no site oficial da I Wanna Sleep. Veja o passo a passo completo para garantir 10% de desconto em travesseiros, pillow tops, cobertores e acessórios de sono.",
   "metaDescription": "Use o cupom CECIEMCASA na I Wanna Sleep e ganhe 10% OFF em todo o site. Veja o passo a passo, regras e como validar o desconto de 10% no checkout.",
   "publishedAt": "07 Jul 2026",
   "publishedAtISO": "2026-07-07",
+  "updatedAt": "2026-10-09",
   "draft": false,
   "image": "/images/reviews/iwannasleep/cupom-ceciemcasa-hero.webp",
   "imageAlt": "Cecília abrindo o pacote da I Wanna Sleep contendo produtos de sono confortáveis.",
@@ -28,7 +29,7 @@
   },
   "pros": [
     "Garante 10% de desconto real no site oficial da marca",
-    "Válido para quase todo o catálogo (travesseiros, colchões e acessórios)",
+    "Válido no catálogo do site (travesseiros, pillow tops, cobertores e acessórios)",
     "Cupom verificado e ativo para a parceria oficial",
     "Permite economizar em produtos premium como o Travesseiro IWS Snow",
     "Sem necessidade de cadastros complexos para aplicar"
@@ -53,7 +54,8 @@
       "bullets": [
         "Código do cupom: CECIEMCASA",
         "Desconto: 10% OFF em todo o site oficial",
-        "Elegibilidade: Válido para travesseiros (como o IWS Snow), colchões, lençóis, sleepwear e acessórios",
+        "Elegibilidade: Válido nos produtos vendidos pelo site, como travesseiros (o IWS Snow, por exemplo), pillow tops, cobertores, lençóis, sleepwear e acessórios",
+        "Colchões, box e poltronas: não são vendidos pelo site, só nas lojas físicas da I Wanna Sleep, em Belo Horizonte, com as consultoras do sono",
         "Onde aplicar: No carrinho/checkout do site oficial iwannasleep.com.br"
       ],
       "links": [
@@ -75,7 +77,7 @@
     {
       "heading": "2. Revise seu carrinho de compras",
       "paragraphs": [
-        "Depois de adicionar tudo o que precisa, clique no ícone de sacola no canto superior direito para acessar seu carrinho. Revise as quantidades, tamanhos de travesseiro ou colchão para garantir que nada foi adicionado por engano."
+        "Depois de adicionar tudo o que precisa, clique no ícone de sacola no canto superior direito para acessar seu carrinho. Revise as quantidades e os tamanhos de travesseiro, pillow top ou cobertor para garantir que nada foi adicionado por engano."
       ],
       "image": "/images/reviews/iwannasleep/2-adicione-carrinho.webp",
       "imageAlt": "Carrinho de compras no site da I Wanna Sleep.",
@@ -107,7 +109,7 @@
       "bullets": [
         "Altura ajustável: Se comprar o Travesseiro IWS Snow, lembre-se de que ele possui regulagem de altura por camadas. Faça testes nas primeiras noites para achar a altura perfeita para seu ombro.",
         "Medidas exatas: Para pillow tops e lençóis, meça a altura e largura exatas do seu colchão (padrão Solteiro, Casal, Queen ou King).",
-        "Prazo de entrega: Itens maiores como colchões e poltronas ergonômicas podem demandar transporte específico. Verifique o prazo de frete no carrinho.",
+        "Prazo de entrega: O carrinho mostra o prazo e o frete depois do CEP. Colchões, box e poltronas não entram no carrinho: são vendidos só nas lojas físicas.",
         "Política de devolução: A I Wanna Sleep oferece um ótimo suporte, mas leia as diretrizes de troca para produtos de contato pessoal caso tenha dúvidas."
       ]
     },
