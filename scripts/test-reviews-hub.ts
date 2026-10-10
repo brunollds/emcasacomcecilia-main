@@ -68,7 +68,8 @@ function review(id: number, slug: string, overrides: Partial<FixtureReview> = {}
 }
 
 // 9 artigos listados (fora o rascunho, o em inglês e o escondido); o Magalu tem 4 e ganha subpágina, a
-// DAMIE tem 1. A capa mais nova é AVIF, que o cartão do X não mostra.
+// DAMIE tem 1. A capa mais nova é AVIF, que o cartão do X não mostra. O "dez-dicas" traz os campos de busca
+// que não são título nem descrição, e o "duas-dicas" é de uma loja que não está nas lojas passadas.
 const fixture: FixtureReview[] = [
   review(1, 'poltrona-damie', {
     title: 'Poltrona reclinável DAMIE',
@@ -80,8 +81,20 @@ const fixture: FixtureReview[] = [
   }),
   review(2, 'agua', { title: 'Água com gás: vale a pena?', publishedAtISO: '2026-10-08', isNew: true, rating: 4 }),
   review(3, 'abacate', { title: 'abacate no café', publishedAtISO: '2026-09-01', tags: ['fruta'], imageFit: 'cover', rating: 5 }),
-  review(4, 'dez-dicas', { title: '10 dicas de sono', publishedAtISO: '2026-09-01', image: undefined }),
-  review(5, 'duas-dicas', { title: '2 dicas de café', publishedAtISO: '2026-08-01', category: 'cupons-como-usar' }),
+  review(4, 'dez-dicas', {
+    title: '10 dicas de sono',
+    publishedAtISO: '2026-09-01',
+    image: undefined,
+    productName: 'Travesseiro Zephyr',
+    brand: 'Ventobrisa',
+    collections: ['Coleção Orvalho'],
+  }),
+  review(5, 'duas-dicas', {
+    title: '2 dicas de café',
+    publishedAtISO: '2026-08-01',
+    category: 'cupons-como-usar',
+    affiliate: 'insider',
+  }),
   review(6, 'magalu-1', { affiliate: 'magalu', publishedAtISO: '2026-07-04', category: 'cupons-como-usar' }),
   review(7, 'magalu-2', { affiliate: 'magalu', publishedAtISO: '2026-07-03', category: 'confianca-reputacao' }),
   review(8, 'magalu-3', { affiliate: 'magalu', publishedAtISO: '2026-07-02', category: 'cupons-como-usar' }),
@@ -134,6 +147,7 @@ assert.equal(article('agua').imageFit, 'contain', 'foto de produto com nota não
 assert.equal(article('abacate').imageFit, 'cover', 'imageFit explícito vale');
 assert.ok(article('abacate').searchText.includes('fruta'), 'tags entram na busca');
 assert.equal(article('dez-dicas').image, undefined);
+assert.equal(article('duas-dicas').store, undefined, 'affiliate fora das lojas passadas: sem nome de loja');
 
 // Bolinhas: só lojas com subpágina (mais de 3 artigos), na ordem das lojas.
 assert.deepEqual(hub.stores, [
@@ -162,6 +176,12 @@ assert.deepEqual(
   getReviewsHubContent(fixture.map((item) => ({ ...item, image: undefined })), fixtureStores).socialImage,
   SITE_SOCIAL_IMAGE
 );
+assert.deepEqual(
+  getReviewsHubContent(fixture.map((item) => ({ ...item, image: '/images/reviews/teste/capa.avif' })), fixtureStores)
+    .socialImage,
+  SITE_SOCIAL_IMAGE,
+  'só capas AVIF: o logo do site'
+);
 
 // Busca: sem acento nem maiúscula, todas as palavras, nome da loja e tags; caracteres especiais são texto.
 const ALL = REVIEW_CATEGORIES.map(({ value }) => value);
@@ -176,7 +196,24 @@ assert.deepEqual(slugs(filterShelf(hub.articles, query({ q: 'damie' }))), ['polt
 assert.deepEqual(slugs(filterShelf(hub.articles, query({ q: 'fruta' }))), ['abacate'], 'tags');
 assert.deepEqual(slugs(filterShelf(hub.articles, query({ q: 'poltrona agua' }))), [], 'todas as palavras');
 assert.deepEqual(slugs(filterShelf(hub.articles, query({ q: '   ' }))), slugs(hub.articles));
+for (const [word, field] of [
+  ['zephyr', 'productName'],
+  ['VENTOBRISA', 'brand'],
+  ['coleçao orvalho', 'collections'],
+]) {
+  assert.deepEqual(slugs(filterShelf(hub.articles, query({ q: word }))), ['dez-dicas'], `${field} entra na busca`);
+}
 assert.deepEqual(slugs(filterShelf(hub.articles, query({ q: 'c++ 50% "x" <b>' }))), [], 'caracteres especiais são texto');
+// Controle positivo: o mesmo texto, quando o artigo o tem, é achado com a pontuação como foi digitada.
+const punctuated: ShelfArticle = {
+  ...article('agua'),
+  id: 60,
+  slug: 'cupom-pontuado',
+  searchText: foldSearchText('Cupom 50% & C++ "x" <b>'),
+};
+for (const q of ['50% & c++', '"x" <b>', 'C++ 50% "X" <B>']) {
+  assert.deepEqual(slugs(filterShelf([...hub.articles, punctuated], query({ q }))), ['cupom-pontuado'], `pontuação em "${q}"`);
+}
 assert.deepEqual(slugs(filterShelf(hub.articles, query({ category: 'cupons-como-usar' }))), [
   'duas-dicas',
   'magalu-1',
@@ -213,6 +250,8 @@ assert.deepEqual(parseShelfQuery('?q=c%2B%2B+50%25&categoria=produtos-experienci
 assert.deepEqual(parseShelfQuery('?categoria=inexistente&ordem=xyz&q=', ALL), query());
 assert.deepEqual(parseShelfQuery('?categoria=produtos-experiencias', ['cupons-como-usar']), query());
 assert.deepEqual(parseShelfQuery('', ALL), query());
+assert.equal(parseShelfQuery('?q=um&q=dois', ALL).q, 'um', 'q repetido: vale o primeiro');
+assert.equal(parseShelfQuery('?ordem=AZ', ALL).order, 'novos', 'ordem só vale em minúsculas');
 assert.equal(shelfSearch(query({ q: '  ' })), '');
 assert.equal(shelfSearch(query({ order: 'novos' })), '');
 assert.equal(
@@ -277,6 +316,9 @@ assert.deepEqual(getShelfControlParameters({ control: 'sort', value: 'az', listP
   list_path: '/reviews/loja/damie',
 });
 assert.equal(shouldTrackSearch('a', null), false, 'menos de 2 letras');
+assert.equal(shouldTrackSearch('++', null), false, 'pontuação não é letra');
+assert.equal(shouldTrackSearch('5%', null), false, 'um número e um símbolo: menos de 2 letras ou números');
+assert.equal(shouldTrackSearch('a b', null), true, 'o espaço não conta, as duas letras sim');
 assert.equal(shouldTrackSearch('Poltrona', null), true);
 assert.equal(shouldTrackSearch('poltrona', 'poltrona'), false, 'o mesmo termo seguido');
 assert.equal(shouldTrackSearch(' Pôltrona ', 'poltrona'), false, 'o mesmo termo, com acento e espaço');
@@ -334,11 +376,21 @@ const real = getReviewsHubContent(publishedReviews);
 assert.deepEqual(slugs(real.articles), slugs(listed));
 assert.deepEqual(slugs(real.newArticles), slugs(listed.filter(({ isNew }) => isNew)));
 assert.deepEqual(slugs(real.stores), getStoreArticlePageSlugs(publishedReviews));
+assert.deepEqual(slugs(sortShelf(real.articles, 'novos')), slugs(real.articles), 'a ordem do servidor é a do sortShelf');
 assert.match(new URL(real.socialImage.url).pathname, /\.(?:jpe?g|png|webp|gif)$/i);
+const shareable = listed.find(
+  ({ image }) => image && /\.(?:jpe?g|png|webp|gif)$/i.test(new URL(absoluteMediaUrl(image)).pathname)
+);
+assert.deepEqual(
+  real.socialImage,
+  shareable?.image ? { url: absoluteMediaUrl(shareable.image), alt: shareable.title } : SITE_SOCIAL_IMAGE,
+  'imagem de compartilhamento: a capa mais nova num formato que o X mostra'
+);
 for (const item of real.articles) {
   assert.match(item.dayMonth, /^\d{2}\/\d{2}$/, `${item.slug}: dayMonth`);
   assert.match(item.fullDate, /^\d{2}\/\d{2}\/\d{4}$/, `${item.slug}: fullDate`);
   assert.equal(item.searchText, foldSearchText(item.searchText), `${item.slug}: texto de busca normalizado`);
+  assert.ok(item.searchText.includes(foldSearchText(item.title)), `${item.slug}: o título entra na busca`);
 }
 for (const shelfStore of real.stores) {
   assert.equal(shelfStore.total, getStoreArticlesPage(publishedReviews, shelfStore.slug)?.articles.length, `${shelfStore.slug}: total`);
@@ -346,6 +398,11 @@ for (const shelfStore of real.stores) {
   assert.ok(page, `${shelfStore.slug}: subpágina`);
   assert.equal(page.search !== null, page.articles.length > GRID_PAGE_SIZE, `${shelfStore.slug}: busca só acima de 12 artigos`);
   assert.ok(!page.otherStores.some(({ slug }) => slug === shelfStore.slug), `${shelfStore.slug}: Outras lojas sem a própria`);
+  assert.deepEqual(
+    slugs(page.otherStores),
+    slugs(real.stores).filter((slug) => slug !== shelfStore.slug),
+    `${shelfStore.slug}: Outras lojas são todas as outras, na ordem das lojas`
+  );
 }
 
 console.log(

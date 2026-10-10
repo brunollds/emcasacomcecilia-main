@@ -245,8 +245,10 @@ export function getShelfControlParameters({
   return { control, value, list_path: listPath };
 }
 
-// Com pelo menos 2 letras e sem repetir o termo anterior (lastTracked já normalizado).
+// Com pelo menos 2 letras ou números (pontuação e espaço não contam) e sem repetir o termo anterior
+// (lastTracked já normalizado).
 export function shouldTrackSearch(q: string, lastTracked: string | null): boolean {
   const folded = foldSearchText(q);
-  return folded.length >= SEARCH_EVENT_MIN_LENGTH && folded !== lastTracked;
+  const lettersAndDigits = folded.replace(/[^\p{L}\p{N}]/gu, '');
+  return lettersAndDigits.length >= SEARCH_EVENT_MIN_LENGTH && folded !== lastTracked;
 }
