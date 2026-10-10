@@ -40,14 +40,16 @@ import {
   getLocaleHomeStores,
 } from '../src/lib/localeHome';
 import { SITE_NAME, SITE_SOCIAL_IMAGE, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
+import { getInternationalReviewHub } from '../src/lib/review-hubs';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 import { LABEL_SAME_AS_PORTUGUESE, codeAsCouponRegExp, getPtStoreTexts, isStoreLink } from './locale-home-guards';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
-// das lojas traduzidas e dos artigos de cada família, as páginas da YesStyle, o dock, a sidebar e a
-// interface dos artigos no idioma de cada um, os textos que citam o CECILIA010, a home, os cards de
-// /reviews, as subpáginas de loja e as páginas de data, ambas com a imagem de compartilhamento, as
-// homes de cada idioma, o JSON-LD e o lastmod do sitemap. O <html lang> fica com test-c2-html-lang.
+// das lojas traduzidas e dos artigos de cada família, as páginas da YesStyle, o dock, a sidebar, a
+// trilha e a interface dos artigos no idioma de cada um, os textos que citam o CECILIA010, a home,
+// os cards de /reviews, as subpáginas de loja e as páginas de data, ambas com a imagem de
+// compartilhamento, as homes de cada idioma, o JSON-LD e o lastmod do sitemap. O <html lang> fica
+// com test-c2-html-lang.
 const SITE_URL = 'https://emcasacomcecilia.com';
 const APP_DIR = path.resolve('.next/server/app');
 const CSS_DIR = path.resolve('.next/static/css');
@@ -558,13 +560,18 @@ for (const url of articleUrls) {
   }
 
   // A trilha vai da home do idioma à lista de artigos e ao artigo, e o JSON-LD repete a da página.
-  const crumbs = visibleTrailOf(body, pagePath);
+  // Ela é procurada antes da gaveta, cujo sumário também é uma <nav><ol>.
+  const reviewHub = locale === 'pt' ? { label: 'Reviews', href: '/reviews' } : getInternationalReviewHub(locale);
+  const crumbs = visibleTrailOf(body.slice(0, dialogStart), pagePath);
   assert.deepEqual(
-    crumbs.map(({ url }) => url),
-    [getShellHomeHref(locale), locale === 'pt' ? '/reviews' : `/${locale}/reviews`, pagePath].map((href) => new URL(href, SITE_URL).href),
-    `${pagePath}: a trilha não vai da home do idioma à lista de artigos`
+    crumbs,
+    [
+      { name: getShellCopy(locale).homeLabel, href: getShellHomeHref(locale) },
+      { name: reviewHub.label, href: reviewHub.href },
+      { name: review.title, href: pagePath },
+    ].map(({ name, href }) => ({ name, url: new URL(href, SITE_URL).href })),
+    `${pagePath}: a trilha não é home do idioma > lista de artigos > artigo`
   );
-  assert.equal(crumbs[0].name, getShellCopy(locale).homeLabel, `${pagePath}: nome da home na trilha`);
   assert.deepEqual(
     schemaTrailOf(jsonLdOf(html).find((schema) => schema['@type'] === 'BreadcrumbList')),
     crumbs,
@@ -1295,5 +1302,5 @@ const cardsIn = (section: string) => {
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar e a interface de ${articleUrls.length} artigos, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, ${eventHubPaths.length} páginas de data e ${LOCALE_HOME_LOCALES.length} homes de idioma conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, ${eventHubPaths.length} páginas de data e ${LOCALE_HOME_LOCALES.length} homes de idioma conferidos.`
 );

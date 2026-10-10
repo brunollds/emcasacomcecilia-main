@@ -123,36 +123,38 @@ const englishHub = getInternationalReviewHub('en');
 assert.deepEqual(englishHub, { href: '/en/reviews', label: 'Guides & Reviews' });
 
 // A trilha começa na home do idioma, como no PT; a visível (breadcrumbs) e a do schema são a mesma lista.
-const trailOf = (review: Review) => {
-  const { breadcrumbs, breadcrumbJsonLd } = buildReviewTemplateProps(review);
-  const schemaTrail = breadcrumbJsonLd.itemListElement.map(({ position, name, item }) => [position, name, item]);
-  return { breadcrumbs, schemaTrail };
-};
 const SITE_URL = 'https://emcasacomcecilia.com';
 
-const englishTrail = trailOf(englishReview);
-assert.deepEqual(englishTrail.breadcrumbs, [
+const englishProps = buildReviewTemplateProps(englishReview);
+assert.deepEqual(englishProps.breadcrumbs, [
   { name: 'Home', href: '/en' },
   { name: 'Guides & Reviews', href: '/en/reviews' },
 ]);
-assert.deepEqual(englishTrail.schemaTrail, [
-  [1, 'Home', `${SITE_URL}/en`],
-  [2, 'Guides & Reviews', `${SITE_URL}/en/reviews`],
-  [3, englishReview.title, `${SITE_URL}${getReviewCanonicalPathname(englishReview)}`],
+assert.deepEqual(englishProps.breadcrumbJsonLd.itemListElement, [
+  { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/en` },
+  { '@type': 'ListItem', position: 2, name: 'Guides & Reviews', item: `${SITE_URL}/en/reviews` },
+  { '@type': 'ListItem', position: 3, name: englishReview.title, item: `${SITE_URL}${getReviewCanonicalPathname(englishReview)}` },
 ]);
 
 const portugueseReview = publishedReviews.find((review) => resolveReviewLocale(review.locale) === 'pt');
 assert.ok(portugueseReview, 'O corpus deve conter um review PT.');
-const portugueseTrail = trailOf(portugueseReview);
-assert.deepEqual(portugueseTrail.breadcrumbs, [
+const portugueseProps = buildReviewTemplateProps(portugueseReview);
+assert.deepEqual(portugueseProps.breadcrumbs, [
   { name: 'Início', href: '/' },
   { name: 'Reviews', href: '/reviews' },
 ]);
-// A raiz sai sem a barra final no schema do PT, como sempre saiu.
-assert.deepEqual(portugueseTrail.schemaTrail, [
-  [1, 'Início', SITE_URL],
-  [2, 'Reviews', `${SITE_URL}/reviews`],
-  [3, portugueseReview.title, `${SITE_URL}${getReviewCanonicalPathname(portugueseReview)}`],
-]);
+// No PT o JSON-LD é o de sempre, letra por letra: a raiz sem a barra final e as chaves nesta ordem.
+assert.equal(
+  JSON.stringify(portugueseProps.breadcrumbJsonLd),
+  JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Início', item: SITE_URL },
+      { '@type': 'ListItem', position: 2, name: 'Reviews', item: `${SITE_URL}/reviews` },
+      { '@type': 'ListItem', position: 3, name: portugueseReview.title, item: `${SITE_URL}${getReviewCanonicalPathname(portugueseReview)}` },
+    ],
+  })
+);
 
 console.log(`Review hubs validados: ${REVIEW_HUB_LOCALES.join(', ')}.`);
