@@ -578,8 +578,9 @@ for (const url of articleUrls) {
     `${pagePath}: trilha do JSON-LD diferente da trilha na página`
   );
   // O leitor de tela anuncia a trilha no idioma do artigo, com o nome que as páginas de loja usam.
+  const trailNav = body.slice(0, dialogStart).match(/<nav\b([^>]*)><ol\b/)?.[1] ?? '';
   assert.equal(
-    decodeHtml(body.slice(0, dialogStart).match(/<nav aria-label="([^"]*)"><ol\b/)?.[1] ?? ''),
+    decodeHtml(trailNav.match(/aria-label="([^"]*)"/)?.[1] ?? ''),
     getArticleCopy(locale).breadcrumbLabel,
     `${pagePath}: nome da trilha para o leitor de tela fora do idioma do artigo`
   );

@@ -3,6 +3,7 @@ import { promises as fs } from 'node:fs';
 import path from 'node:path';
 
 import { detectDuplicateReviewPathnames, formatDate, getReviewDefaultTranslationPathname, groupReviewsByTranslationKey, detectDuplicateTranslationLocalePairs, getReviewTranslationsByLocale, isValidTranslationKey, resolveReviewLocale } from '@/lib/content';
+import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { getArticleCopy } from '@/components/review/articleCopy';
 import { getCouponCopyLabels } from '@/components/review/couponCopyLocale';
 import { getGalleryCopy } from '@/components/review/galleryCopy';
@@ -467,6 +468,15 @@ const storeReferralLabel = (locale: Locale) =>
       leaves.filter(([field, text]) => portugueseUi.get(field) === text).map(([field]) => field),
       SAME_AS_PORTUGUESE[locale] ?? [],
       `${locale}: texto da interface do artigo igual ao português (ou exceção que não vale mais)`
+    );
+  }
+
+  // O leitor de tela dá à trilha do artigo o mesmo nome da trilha das páginas de loja.
+  for (const locale of LOCALE_KEYS) {
+    assert.equal(
+      getArticleCopy(locale).breadcrumbLabel,
+      COUPON_STORE_COPY[locale].breadcrumbLabel,
+      `${locale}: nome da trilha do artigo diferente do das páginas de loja`
     );
   }
 
