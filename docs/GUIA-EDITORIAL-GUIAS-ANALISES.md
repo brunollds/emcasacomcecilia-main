@@ -119,9 +119,9 @@ internacional recebe classe somente depois de decisão e backfill por locale.
 
 ## 10. Onde o artigo aparece na home e em /reviews
 
-Desde a D2 (outubro de 2026), a home não escolhe destaques por `category`. Um artigo listado em
-português (sem `draft`, sem `hideFromListings`/`hideFromPortugueseListings` e com `locale`
-português ou sem `locale`) aparece:
+Desde a D2 (outubro de 2026), a home não escolhe destaques por `category`, e `/reviews` também
+não. Um artigo listado em português (sem `draft`, sem `hideFromListings`/`hideFromPortugueseListings`
+e com `locale` português ou sem `locale`) aparece:
 
 - **no "Acabou de sair"**, se estiver entre os 5 mais novos por `publishedAtISO`, com desempate
   pelo maior `id` (`getHomeLatest`, em `src/lib/homeStores.ts`). Não há teto por categoria;
@@ -134,10 +134,10 @@ português ou sem `locale`) aparece:
 - **em `/reviews`**, sempre, em "Todos os artigos" (ordem "Mais novos" por `publishedAtISO`,
   desempate pelo maior `id`, ou "A–Z" pelo título); **nas Novidades**, enquanto tiver `isNew` (a
   regra mensal do selo "Novo"); e, pelo `affiliate`, na subpágina `/reviews/loja/<slug>` da loja e na
-  bolinha dela em "Por loja", quando a loja tem mais de 3 artigos.
+  bolinha dela em "Por loja", quando a loja está ativa e tem mais de 3 artigos.
 
-`category` continua valendo para os filtros de `/reviews`, e `isNew` só põe o artigo nas Novidades de
-`/reviews`. `type`, `reviewKind`, `isNew`, `pros/cons` e a marca citada no texto não mudam o lugar do
+`category` continua valendo para os filtros de `/reviews`, e `isNew` põe o artigo nas Novidades de
+`/reviews` e o selo "Novo" no cartão dele, sem mudar a ordem da lista. `type`, `reviewKind`, `isNew`, `pros/cons` e a marca citada no texto não mudam o lugar do
 artigo na home.
 
 Fora do português, o artigo aparece na home do idioma (`/<locale>`, `src/lib/localeHome.ts`): os 6

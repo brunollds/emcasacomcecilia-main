@@ -167,9 +167,10 @@ html:lang(ja) {
   animation: slide-down 0.3s ease-out;
 }
 
-/* Home D2.1: as bolinhas da vitrine. O StoreBubble grava a inclinação do mouse em --rx, --ry, --lx e
-   --ly. O logo fica em 0.86 em repouso, o tamanho de antes, e vai a 1 com o mouse, sem passar do
-   tamanho do arquivo (o sizes da imagem já é o de 1). */
+/* Home D2.1: as bolinhas da vitrine. O hook useBubbleTilt (do StoreBubble da home e do
+   StoreBubbleLink de /reviews) grava a inclinação do mouse em --rx, --ry, --lx e --ly. O logo fica em
+   0.86 em repouso, o tamanho de antes, e vai a 1 com o mouse, sem passar do tamanho do arquivo (o
+   sizes da imagem já é o de 1). */
 .bolinha-logo {
   scale: 0.86;
 }
@@ -304,7 +305,7 @@ html:lang(ja) {
    tela, então não é a revelação da rolagem), a troca animada da estante (ReviewsBrowser), os cartões do
    "Carregar mais" em cascata (--i) e o aviso da busca vazia, que assenta como o carimbo da vitrine. O
    nome de transição de cada item (--vt) só vale com data-trocando, que o ReviewsBrowser põe no
-   contêiner durante a troca: o HTML não leva nenhum nome. */
+   contêiner durante a troca: o HTML não leva nenhum view-transition-name. */
 @keyframes marca-texto-pinta {
   from {
     background-size: 0% 45%;

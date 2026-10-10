@@ -30,7 +30,7 @@ npm run test:home-lower-sections  # receitas, Explore a casa (com o carrossel de
 npm run test:locale-home     # home de cada idioma (/en, /ja…): textos dos 9 idiomas, lojas, artigos, validade do certificado da YesStyle e o HTML das seções
 npm run test:home-route-tracking  # placements do home_route_click e o link das abas da vitrine (<a> comum)
 npm run test:html-lang       # depois do build: <html lang> de cada rota
-npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, a trilha de todo artigo (home do idioma, lista e artigo, igual ao JSON-LD, com o nome para o leitor de tela no idioma), títulos de seção sem repetição, cada nota editorial da review uma vez, dentro da seção em que está ancorada e no idioma do artigo, o nome da trilha das receitas, textos que citam o CECILIA010, a home, a estante de /reviews e das subpáginas de loja (os 12 primeiros artigos, a busca, as Novidades, as bolinhas, a trilha das subpáginas igual ao BreadcrumbList, as categorias da loja e Outras lojas), as páginas de data (imagem e JSON-LD), a imagem de compartilhamento das páginas de loja e o noindex do /categorias, o marca-texto dos títulos da home, os cards revelados na rolagem e nada escondido por ela no HTML, o CSS da rolagem só com o movimento liberado (sem @media not … and …) e as homes de cada idioma (hreflang, JSON-LD, sem texto em português nem link de loja, menu e rodapé inclusive)
+npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, a trilha de todo artigo (home do idioma, lista e artigo, igual ao JSON-LD, com o nome para o leitor de tela no idioma), títulos de seção sem repetição, cada nota editorial da review uma vez, dentro da seção em que está ancorada e no idioma do artigo, o nome da trilha das receitas, textos que citam o CECILIA010, a home, a estante de /reviews e das subpáginas de loja (os 12 primeiros artigos, a busca, as Novidades, as bolinhas, a trilha das subpáginas igual ao BreadcrumbList, as categorias da loja e Outras lojas, com imagem e JSON-LD de lista), as páginas de data (imagem e JSON-LD), a imagem de compartilhamento das páginas de loja e o noindex do /categorias, o marca-texto dos títulos da home, os cards revelados na rolagem e nada escondido por ela no HTML, o CSS da rolagem só com o movimento liberado (sem @media not … and …) e as homes de cada idioma (hreflang, JSON-LD, sem texto em português nem link de loja, menu e rodapé inclusive)
 ```
 
 `npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
@@ -162,7 +162,7 @@ vídeo, primeiras impressões e uso noturno.
   `docs/Memoria de Artigos/memreview`, a partir de `00_Sistema/AI-PRIMING-INDEX.md`.
 
 ### Component layers
-- `src/components/ui/` — Shared building blocks: `focusRing.ts` (`FOCUS_RING`, `FOCUS_RING_ON_DARK`), `ScrollRow`, `RevealSection` and `CategoryIcon`.
+- `src/components/ui/` — Shared building blocks: `focusRing.ts` (`FOCUS_RING`, `FOCUS_RING_ON_DARK`), `ScrollRow`, `RevealSection`, `CategoryIcon`, `cardDecor.ts` (the fridge-magnet cards), `useBubbleTilt.ts` (the store bubbles' mouse tilt) and `useRowScroll.ts` (the row with arrows).
 - `src/components/sections/` — Page sections: the D2 home (`HomeStoreStories`, `HomeStoreStrip` (the store bubbles), `HomeCeciliaPanel`, `HomeLatest`, `HomeEvent`, `PopularRecipes`, `MyLinks` (with `OfferCarousel`), `CTA`, the last two wrapped in `HomeSection`) and `EventHubPage`, which reads the data and wraps `EventHubView` (the date page itself, rendered by `test:home-events`; it must not import `next/font`, which does not run under tsx). `Navbar` and `Footer` live in `src/components/`.
 - `src/components/reviews/` — a estante de `/reviews` e das subpáginas de loja: `ReviewsBrowser` (busca, categorias, ordem, grade ou lista, "Carregar mais", a URL e a troca animada), `ReviewShelfCard` e `ReviewShelfRow`, `ReviewsNewRow` (Novidades), `ReviewsStoreStrip` e `StoreBubbleLink` (bolinhas) e `TrackedReviewsLink` (`reviews_route_click`). As regras que o navegador usa ficam em `src/lib/reviewsShelf.ts`; os dados, montados no servidor, em `src/lib/reviewsHub.ts`. O ímã dos cartões (`cardDecor.ts`), a inclinação das bolinhas (`useBubbleTilt.ts`) e a fila com setas (`useRowScroll.ts`) ficam em `src/components/ui/`, usados também pela home.
 - `src/components/sections/CeciliaProfile.tsx` (the photo card, the follower numbers and the social icons) is shared by the PT home panel and by the home of every other language, so editing it changes both. The sections of the other-language home are the `LocaleHome*` components.
@@ -310,11 +310,12 @@ Animação que respeita "reduzir movimento" leva `motion-safe:`. As classes solt
 Na estante de `/reviews`, o `ReviewsBrowser` anima a troca da lista com a View Transitions API: o
 `data-trocando` no contêiner liga o `view-transition-name` de cada item (a variável `--vt`) só durante
 a troca, e a foto do cartão só ganha o nome da transição para o artigo (`data-vt-name`) no clique,
-pelo `ViewTransitionLink`. O HTML do servidor não leva nenhum nome; o `test:build-output` confere.
+pelo `ViewTransitionLink`. O HTML do servidor não leva nenhum `view-transition-name`, só a variável
+`--vt` e o `data-vt-name`, que ficam inertes até a troca ou o clique; o `test:build-output` confere.
 Durante a troca, o `:root` perde o nome de transição e o `::view-transition` não recebe clique
-(`:root:has([data-trocando])` no `globals.css`): sem isso, um clique dado nos ~450 ms da troca caía na
-camada da transição e se perdia. Fora da troca, o morph da foto para o artigo continua capturando a
-página inteira.
+(`:root:has([data-trocando])` no `globals.css`): sem isso, um clique dado nos ~450 ms da troca caía no
+`<html>`, que segura a camada da transição, e se perdia. Fora da troca, o morph da foto para o artigo
+continua capturando a página inteira.
 
 ### Pages
 | Route | File |
