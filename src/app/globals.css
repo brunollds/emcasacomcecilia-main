@@ -337,6 +337,18 @@ html:lang(ja) {
     view-transition-class: estante;
   }
 
+  /* Durante a troca da estante a camada da transição cobre a página e o pointerdown seguinte cai no <html>:
+     o clique se perde. Sem o nome do :root a transição captura só os itens, e o pointer-events: none deixa
+     o ponteiro passar pela camada; medido, só as duas juntas resolvem. Só com data-trocando: ao abrir um
+     artigo, o morph das fotos segue capturando a página inteira. */
+  :root:has([data-trocando]) {
+    view-transition-name: none;
+  }
+
+  :root:has([data-trocando])::view-transition {
+    pointer-events: none;
+  }
+
   .estante-entra {
     animation: estante-sobe 550ms cubic-bezier(0.2, 0.8, 0.2, 1) backwards;
     animation-delay: calc(min(var(--i, 0), 5) * 70ms);
