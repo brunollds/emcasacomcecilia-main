@@ -27,6 +27,7 @@ export interface BottomSheetProps {
   open: boolean;
   onClose: () => void;
   ariaLabel: string;
+  closeLabel: string;
   returnFocusRef?: React.RefObject<HTMLElement | null>;
   children: React.ReactNode;
 }
@@ -51,6 +52,7 @@ export function BottomSheet({
   open,
   onClose,
   ariaLabel,
+  closeLabel,
   returnFocusRef,
   children,
 }: BottomSheetProps): React.ReactElement {
@@ -156,7 +158,7 @@ export function BottomSheet({
             type="button"
             onClick={onClose}
             className="flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-full hover:bg-[#f5f5f5] focus-visible:ring-2 focus-visible:ring-[#ff6b35] focus-visible:ring-offset-2 focus-visible:outline-none transition-colors"
-            aria-label="Fechar"
+            aria-label={closeLabel}
           >
             <X size={20} className="text-[#1a4d2e]" />
           </button>

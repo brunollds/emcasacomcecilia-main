@@ -2,14 +2,16 @@ import type { Recommendation, ReviewKind } from '@/lib/content';
 import type { Locale } from '@/lib/i18n/locales';
 
 // Textos do corpo do artigo que não são conteúdo editorial: selo do tipo, veredito e nota, ficha do
-// produto, bloco de vídeo, legenda da imagem e o nome da trilha para o leitor de tela (o mesmo das
-// páginas de loja, em couponStoreCopy.tsx). A sidebar e o dock têm os deles em sidebarCopy.ts.
+// produto, bloco de vídeo, legenda da imagem, o nome da trilha para o leitor de tela (o mesmo das
+// páginas de loja, em couponStoreCopy.tsx) e o rótulo e o fechar da nota editorial, que as receitas
+// usam em PT. A sidebar e o dock têm os deles em sidebarCopy.ts.
 // O código de indicação da SHEIN é da SHEIN Brasil e fora do PT o chip diz isso, com os termos da
 // página da loja (couponTranslations.ts).
 export type ArticleCopy = {
   kindLabel: Record<ReviewKind, string>;
   verdictTitle: string;
   editorialNoteTitle: string;
+  editorialNoteClose: string;
   ratingLabel: (stars: string) => string;
   recommendation: Record<Recommendation, string>;
   approvedSeal: string;
@@ -42,6 +44,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     kindLabel: { produto: 'Review de produto', guia: 'Guia', editorial: 'Editorial' },
     verdictTitle: 'Veredito da Cecília',
     editorialNoteTitle: 'Nota editorial',
+    editorialNoteClose: 'Fechar',
     ratingLabel: (stars) => `Avaliação ${stars} de 5 estrelas`,
     recommendation: { recomendo: '✓ Recomendo', 'com ressalvas': 'Com ressalvas', 'não recomendo': 'Não recomendo' },
     approvedSeal: 'Aprovado pela Cecília',
@@ -72,6 +75,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     kindLabel: { produto: 'Product review', guia: 'Guide', editorial: 'Editorial' },
     verdictTitle: "Cecília's verdict",
     editorialNoteTitle: 'Editorial note',
+    editorialNoteClose: 'Close',
     ratingLabel: (stars) => `Rated ${stars} out of 5 stars`,
     recommendation: { recomendo: '✓ Recommended', 'com ressalvas': 'With reservations', 'não recomendo': 'Not recommended' },
     approvedSeal: 'Approved by Cecília',
@@ -102,6 +106,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     kindLabel: { produto: 'Reseña de producto', guia: 'Guía', editorial: 'Editorial' },
     verdictTitle: 'Veredicto de Cecília',
     editorialNoteTitle: 'Nota editorial',
+    editorialNoteClose: 'Cerrar',
     ratingLabel: (stars) => `Valoración ${stars} de 5 estrellas`,
     recommendation: { recomendo: '✓ Lo recomiendo', 'com ressalvas': 'Con reservas', 'não recomendo': 'No lo recomiendo' },
     approvedSeal: 'Aprobado por Cecília',
@@ -132,6 +137,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     kindLabel: { produto: 'Test de produit', guia: 'Guide', editorial: 'Éditorial' },
     verdictTitle: 'Le verdict de Cecília',
     editorialNoteTitle: 'Note de la rédaction',
+    editorialNoteClose: 'Fermer',
     ratingLabel: (stars) => `Note de ${stars} sur 5 étoiles`,
     recommendation: { recomendo: '✓ Je recommande', 'com ressalvas': 'Avec réserves', 'não recomendo': 'Je ne recommande pas' },
     approvedSeal: 'Approuvé par Cecília',
@@ -162,6 +168,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     kindLabel: { produto: 'Produkttest', guia: 'Ratgeber', editorial: 'Redaktionell' },
     verdictTitle: 'Cecílias Urteil',
     editorialNoteTitle: 'Redaktioneller Hinweis',
+    editorialNoteClose: 'Schließen',
     ratingLabel: (stars) => `Bewertung ${stars} von 5 Sternen`,
     recommendation: { recomendo: '✓ Empfehlenswert', 'com ressalvas': 'Mit Einschränkungen', 'não recomendo': 'Nicht empfehlenswert' },
     approvedSeal: 'Von Cecília empfohlen',
@@ -192,6 +199,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     kindLabel: { produto: 'Recensione di prodotto', guia: 'Guida', editorial: 'Editoriale' },
     verdictTitle: 'Il verdetto di Cecília',
     editorialNoteTitle: 'Nota editoriale',
+    editorialNoteClose: 'Chiudi',
     ratingLabel: (stars) => `Valutazione ${stars} su 5 stelle`,
     recommendation: { recomendo: '✓ Lo consiglio', 'com ressalvas': 'Con riserve', 'não recomendo': 'Non lo consiglio' },
     approvedSeal: 'Approvato da Cecília',
@@ -222,6 +230,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     kindLabel: { produto: '제품 리뷰', guia: '가이드', editorial: '에디토리얼' },
     verdictTitle: 'Cecília의 평가',
     editorialNoteTitle: '편집 노트',
+    editorialNoteClose: '닫기',
     ratingLabel: (stars) => `5점 만점에 ${stars}점`,
     recommendation: { recomendo: '✓ 추천', 'com ressalvas': '조건부 추천', 'não recomendo': '비추천' },
     approvedSeal: 'Cecília 인증',
@@ -252,6 +261,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     kindLabel: { produto: '製品レビュー', guia: 'ガイド', editorial: 'エディトリアル' },
     verdictTitle: 'Cecília の評価',
     editorialNoteTitle: '編集部より',
+    editorialNoteClose: '閉じる',
     ratingLabel: (stars) => `5つ星中${stars}の評価`,
     recommendation: { recomendo: '✓ おすすめ', 'com ressalvas': '条件付きでおすすめ', 'não recomendo': 'おすすめしません' },
     approvedSeal: 'Cecília 認定',
@@ -282,6 +292,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     kindLabel: { produto: '產品評測', guia: '指南', editorial: '編輯專題' },
     verdictTitle: 'Cecília 的評價',
     editorialNoteTitle: '編輯備註',
+    editorialNoteClose: '關閉',
     ratingLabel: (stars) => `評分 ${stars} 分（滿分 5 星）`,
     recommendation: { recomendo: '✓ 推薦', 'com ressalvas': '有條件推薦', 'não recomendo': '不推薦' },
     approvedSeal: 'Cecília 認證',
@@ -312,6 +323,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     kindLabel: { produto: '产品评测', guia: '指南', editorial: '编辑专题' },
     verdictTitle: 'Cecília 的评价',
     editorialNoteTitle: '编辑备注',
+    editorialNoteClose: '关闭',
     ratingLabel: (stars) => `评分 ${stars} 分（满分 5 星）`,
     recommendation: { recomendo: '✓ 推荐', 'com ressalvas': '有条件推荐', 'não recomendo': '不推荐' },
     approvedSeal: 'Cecília 认证',
