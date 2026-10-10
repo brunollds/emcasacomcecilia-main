@@ -260,15 +260,17 @@ const schemaTrailOf = (breadcrumbList: { itemListElement: Array<{ name: string; 
 const trailLabelOf = (html: string) =>
   decodeHtml(html.match(/<nav\b([^>]*)><ol\b/)?.[1].match(/aria-label="([^"]*)"/)?.[1] ?? '');
 
-// Os rótulos da nota editorial ("Nota editorial: …", "Editorial note: …") num trecho de HTML.
+// Os rótulos da nota editorial ("Nota editorial: …", "Editorial note: …") num trecho de HTML. A nota é
+// sempre um botão; a nota da margem, no desktop, é um <aside> com o rótulo nu.
 const EDITORIAL_NOTE_TITLES = new Set(LOCALE_KEYS.map((key) => getArticleCopy(key).editorialNoteTitle));
 const editorialNoteLabelsIn = (html: string) =>
-  [...html.matchAll(/aria-label="([^"]*)"/g)]
+  [...html.matchAll(/<button\b[^>]*\baria-label="([^"]*)"/g)]
     .map(([, label]) => decodeHtml(label))
     .filter((label) => label.includes(': ') && EDITORIAL_NOTE_TITLES.has(label.split(': ')[0]));
 assert.deepEqual(
   editorialNoteLabelsIn(
-    '<button aria-label="Editorial note: Cecília&#x27;s tip"></button><aside aria-label="Nota editorial"></aside><nav aria-label="Sei qui">'
+    '<button type="button" class="x" aria-label="Editorial note: Cecília&#x27;s tip"></button>' +
+      '<aside aria-label="Nota editorial: Dica"></aside><button aria-label="Nota editorial"></button><nav aria-label="Sei qui">'
   ),
   ["Editorial note: Cecília's tip"],
   'editorialNoteLabelsIn não acha o rótulo da nota'
