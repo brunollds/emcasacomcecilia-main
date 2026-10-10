@@ -6,9 +6,9 @@ parceiro: "[[I-Wanna-Sleep]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "em-revisao"
+responsavel: "Bruno"
+proxima_acao: "revisar no localhost; capa no CDN com o OK do Bruno; reconferir preços e o status da campanha antes de publicar"
 bloqueado_por: null
 score_autoridade: 60
 score_conversao: 80
@@ -141,3 +141,15 @@ mira "black friday colchão" pela I Wanna Sleep e responde a busca do cupom com 
 7. **Perguntas frequentes** (colchão na Black Friday vale a pena, Sleeptest, frete grátis, lojas em BH, primeira compra com o CECIEMCASA).
 
 **Rodadas de atualização:** iguais às dos guias da primeira rodada: reconsultar preços e status na última semana de outubro e quando a loja anunciar campanha.
+
+---
+
+## Redação (09/10/2026)
+
+- JSON em `content/reviews/black-friday-i-wanna-sleep.json` (id 333), no fim do `_manifest.json`. É a fonte da verdade do texto.
+- Capa: `/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp`, 1600×900, recorte 16:9 da miniatura vertical do vídeo `BlBbtv-VuL8` (sem a legenda do vídeo). Fica fora do commit até subir ao CDN.
+- Preços relidos em `/products/<handle>.js` em 09/10/2026. O `.js` do Magnum dá todos os tamanhos disponíveis; o "Esgotado" que a pesquisa viu no HTML estático não foi conferido no navegador, e o artigo não fala de estoque.
+- Prazo para o Natal: simulação no carrinho com o CEP do centro de 12 capitais (OK do Bruno), mais um dia útil de folga, contado em dias úteis até quinta, 24/12. O frete saiu grátis também no colchão, ao contrário da política: o artigo cita as duas coisas.
+- Contas do cupom com o Pix (um desconto sobre o outro, sem o frete): Magnum casal R$ 1.848 × 0,90 × 0,95 = R$ 1.580,04; Zen casal R$ 3.388 × 0,90 × 0,95 = R$ 2.896,74.
+- Fora do texto: número de parcelas (a página e o widget divergem), "Order Bump", o brinde do "Diagnóstico" (regras não publicadas), o cupom próprio da loja, garantia em meses (não publicada), melatonina, Aliv e SleepSpray.
+- Sem vídeo no artigo: o do Igloo já está no artigo do cobertor, e a capa remete a ele.

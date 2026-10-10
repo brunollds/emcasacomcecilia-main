@@ -7,9 +7,8 @@
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
-- [ ] [[black-friday-i-wanna-sleep]] — I Wanna Sleep / Black Friday 2026, segunda rodada (aprovada em 09/10/2026), para a faixa da home e a `/black-friday`; publicar até 31/10 (Score Aut: 60 / Conv: 80)
-- [ ] [[black-friday-insider]] — Insider / Black Friday 2026, mesma rodada; a coleção da Black Friday da loja já está no ar; publicar até 31/10 (Score Aut: 55 / Conv: 85)
-- [ ] [[black-friday-nestle-nutre]] — Nestlé Nutre / Black Friday Nutren 2026, mesma rodada, só nutrição adulta; publicar até 31/10 (Score Aut: 60 / Conv: 75)
+- [ ] [[black-friday-insider]] — Insider / Black Friday 2026, segunda rodada (aprovada em 09/10/2026); a coleção da Black Friday da loja já está no ar; publicar até 31/10 (Score Aut: 55 / Conv: 85)
+- [ ] [[black-friday-nestle-nutre]] — Nestlé Nutre / Black Friday Nutren 2026, segunda rodada, só nutrição adulta; publicar até 31/10 (Score Aut: 60 / Conv: 75)
 
 ---
 
@@ -21,7 +20,7 @@
 
 ## 3. Em Revisão Factual & Claims (`status: em-revisao`)
 *Em auditoria pelo Job-3.*
-- *(Nenhum artigo no momento)*
+- [ ] [[black-friday-i-wanna-sleep]] — I Wanna Sleep / Black Friday 2026, segunda rodada (JSON em 09/10/2026; revisão do Bruno no localhost; capa no CDN; preços e status reconferidos antes de publicar, até 31/10)
 
 ---
 
