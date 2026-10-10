@@ -98,7 +98,7 @@ export function RecipeNotebookTemplate({
       <header className="notebook-margin pt-10 md:pt-16">
         <div className="mx-auto max-w-4xl">
           <EditorialReveal as="div" delay={0} className="mb-5 flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
-            <nav aria-label="Breadcrumb">
+            <nav aria-label="Você está em">
               <ol className="flex flex-wrap items-center justify-center gap-2 text-[11px] font-bold uppercase tracking-[0.14em] text-[#1a4d2e]/55 md:justify-start">
                 <li>
                   <Link href="/" className="transition-colors hover:text-[#ff6b35]">
