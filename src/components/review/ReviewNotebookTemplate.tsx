@@ -397,7 +397,7 @@ export function ReviewNotebookTemplate({
               {unanchoredNotes.length > 0 && (
                 <div className="mt-4 flex flex-wrap gap-2">
                   {unanchoredNotes.map((note) => (
-                    <EditorialNotePill key={note.id || note.label} note={note} />
+                    <EditorialNotePill key={note.id || note.label} note={note} locale={couponCopyLocale} />
                   ))}
                 </div>
               )}

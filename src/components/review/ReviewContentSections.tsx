@@ -92,7 +92,7 @@ export function ReviewContentSections({
                   {sectionIdNotes.length > 0 && (
                     <div className="mt-3 flex flex-wrap gap-2">
                       {sectionIdNotes.map((note) => (
-                        <EditorialNotePill key={note.id || note.label} note={note} />
+                        <EditorialNotePill key={note.id || note.label} note={note} locale={locale} />
                       ))}
                     </div>
                   )}
@@ -100,7 +100,7 @@ export function ReviewContentSections({
               </div>
             )}
 
-            <MarginNoteRail notes={lineAnchoredNotes} sectionIndex={index}>
+            <MarginNoteRail notes={lineAnchoredNotes} sectionIndex={index} locale={locale}>
               <ReviewSectionContent
                 section={section}
                 reviewTitle={reviewTitle}
