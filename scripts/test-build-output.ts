@@ -31,7 +31,7 @@ import {
 } from '../src/lib/homeStores';
 import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
 import { LOCALES, LOCALE_KEYS, type Locale } from '../src/lib/i18n/locales';
-import { getShellCopy, getShellNavLinks } from '../src/lib/i18n/shellDictionary';
+import { getShellCopy, getShellHomeHref, getShellNavLinks } from '../src/lib/i18n/shellDictionary';
 import {
   LOCALE_HOME_LOCALES,
   getHomeLanguageLinks,
@@ -241,6 +241,20 @@ const escapeHtml = (text: string) =>
 const metaOf = (head: string, key: string) =>
   decodeHtml(head.match(new RegExp(`<meta (?:property|name)="${key}" content="([^"]*)"`))?.[1] ?? '');
 
+// A primeira trilha (<nav><ol>) do trecho, nível a nível; o último, sem link, é a própria página.
+// Sai no mesmo formato que a BreadcrumbList do JSON-LD em schemaTrailOf.
+const visibleTrailOf = (html: string, pagePath: string) => {
+  const trail = html.match(/<nav\b[^>]*><ol\b[\s\S]*?<\/ol><\/nav>/)?.[0] ?? '';
+  return [...trail.matchAll(/<li\b([^>]*)>([\s\S]*?)<\/li>/g)]
+    .filter(([, attributes]) => !attributes.includes('aria-hidden'))
+    .map(([, , item]) => ({
+      name: textOf(item),
+      url: new URL(item.match(/href="([^"]+)"/)?.[1] ?? pagePath, SITE_URL).href,
+    }));
+};
+const schemaTrailOf = (breadcrumbList: { itemListElement: Array<{ name: string; item: string }> } | undefined) =>
+  breadcrumbList?.itemListElement.map(({ name, item }) => ({ name, url: new URL(item).href }));
+
 // O cartão do X não mostra AVIF: a imagem de compartilhamento de loja, de subpágina e de data é JPG,
 // PNG, WebP ou GIF. As capas dos artigos ficam de fora desta regra.
 const SHARE_IMAGE_FORMAT = /\.(?:jpe?g|png|webp|gif)$/i;
@@ -356,16 +370,10 @@ for (const { locale, hubPath, htmlLang, openGraphLocale } of yesStyleHubs) {
 
   // A trilha e as perguntas do JSON-LD são as que aparecem na página, na mesma ordem. Em português
   // a trilha passa por /cupons; os outros idiomas não têm página de cupons e vão da home à loja.
-  const trail = main.match(/<nav\b[^>]*><ol\b[\s\S]*?<\/ol><\/nav>/)?.[0] ?? '';
-  const visibleCrumbs = [...trail.matchAll(/<li\b([^>]*)>([\s\S]*?)<\/li>/g)]
-    .filter(([, attributes]) => !attributes.includes('aria-hidden'))
-    .map(([, , item]) => ({
-      name: textOf(item),
-      url: new URL(item.match(/href="([^"]+)"/)?.[1] ?? hubPath, SITE_URL).href,
-    }));
+  const visibleCrumbs = visibleTrailOf(main, hubPath);
   assert.equal(visibleCrumbs.length, locale === 'pt' ? 3 : 2, `${hubPath}: ${visibleCrumbs.length} níveis na trilha`);
   assert.deepEqual(
-    schemaOf('BreadcrumbList').itemListElement.map(({ name, item }) => ({ name, url: new URL(item).href })),
+    schemaTrailOf(schemaOf('BreadcrumbList')),
     visibleCrumbs,
     `${hubPath}: trilha do JSON-LD diferente da trilha na página`
   );
@@ -548,6 +556,20 @@ for (const url of articleUrls) {
     if (typeAt >= 0) pageTexts.splice(typeAt, 1);
     assert.deepEqual([...new Set(pageTexts.filter((text) => portuguese.has(text)))], [], `${pagePath}: interface do artigo em português`);
   }
+
+  // A trilha vai da home do idioma à lista de artigos e ao artigo, e o JSON-LD repete a da página.
+  const crumbs = visibleTrailOf(body, pagePath);
+  assert.deepEqual(
+    crumbs.map(({ url }) => url),
+    [getShellHomeHref(locale), locale === 'pt' ? '/reviews' : `/${locale}/reviews`, pagePath].map((href) => new URL(href, SITE_URL).href),
+    `${pagePath}: a trilha não vai da home do idioma à lista de artigos`
+  );
+  assert.equal(crumbs[0].name, getShellCopy(locale).homeLabel, `${pagePath}: nome da home na trilha`);
+  assert.deepEqual(
+    schemaTrailOf(jsonLdOf(html).find((schema) => schema['@type'] === 'BreadcrumbList')),
+    crumbs,
+    `${pagePath}: trilha do JSON-LD diferente da trilha na página`
+  );
 
   // O <head> de um artigo de família: canonical da própria página e hreflang dos 10 idiomas, com x-default no inglês.
   if (review.translationKey) {
