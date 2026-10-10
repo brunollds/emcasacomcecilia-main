@@ -130,9 +130,10 @@ vídeo, primeiras impressões e uso noturno.
   o link principal neutro da página da loja (`getLocalizedCoupon('shein', locale).offerUrl`).
 - A interface do artigo que não é conteúdo (selo do tipo, veredito e nota, ficha do produto, bloco de
   vídeo, galeria, barra de compartilhar, nome da trilha para o leitor de tela) tem o texto nos 10
-  idiomas em `articleCopy.ts`,
-  `galleryCopy.ts` (ambos em `src/components/review/`) e `shared/shareCopy.ts`; o dock e a sidebar
-  seguem em `sidebarCopy.ts`. Texto novo no artigo vai nesses arquivos, nunca solto no JSX. O
+  idiomas em `articleCopy.ts`, `galleryCopy.ts` (ambos em `src/components/review/`) e
+  `shared/shareCopy.ts`; o dock e a sidebar seguem em `sidebarCopy.ts`. Texto novo no artigo vai
+  nesses arquivos, nunca solto no JSX. O nome da trilha é o mesmo das páginas de loja
+  (`couponStoreCopy.tsx`), e o `test:review-i18n` confere. O
   `test:review-i18n` barra campo igual ao português (salvo a lista de palavras iguais nas duas
   línguas) e o `test:build-output` barra texto em português nas páginas fora do PT e confere o
   veredito da sidebar e o `<head>` (canonical e hreflang dos 10 idiomas, x-default no inglês) de
