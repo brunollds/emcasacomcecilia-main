@@ -676,23 +676,69 @@ try {
   Reflect.deleteProperty(globalThis, 'document');
 }
 
-// Novidades: título com o marca-texto, um cartão por artigo (revelado na rolagem), as duas primeiras fotos
-// sem atraso e as setas escondidas até o navegador medir a fila.
-const newRow = render(createElement(ReviewsNewRow, { articles: hub.articles.slice(0, 3) }));
+// Novidades: título com o marca-texto, um cartão por artigo (revelado na rolagem, com a posição em --i),
+// as duas primeiras fotos sem atraso e as setas escondidas até o navegador medir a fila. Os três artigos
+// têm foto e são "Novo": com tudo eager ou com o selo à mostra, os asserts abaixo falhariam.
+const newRowArticles: ShelfArticle[] = [poltrona, article('agua'), { ...article('abacate'), isNew: true }];
+assert.ok(
+  newRowArticles.every(({ image, isNew }) => image && isNew),
+  'os três artigos da fila têm foto e são novos'
+);
+const newRow = render(createElement(ReviewsNewRow, { articles: newRowArticles }));
 assert.ok(newRow.includes('aria-labelledby="titulo-novidades"'));
 assert.match(newRow, /<h2 id="titulo-novidades"[^>]*><span class="marca-texto">Novidades<\/span><\/h2>/);
 assert.equal(newRow.match(/<li class="revela /g)?.length, 3, 'um cartão por artigo');
-assert.equal(newRow.match(/loading="eager"/g)?.length, 2, 'as duas primeiras fotos sem atraso');
-assert.ok(newRow.includes('class="hidden shrink-0 gap-2"'), 'setas escondidas no HTML do servidor');
-assert.ok(newRow.includes('aria-label="Ver próximas novidades"'));
+assert.deepEqual(
+  [...newRow.matchAll(/<li [^>]*style="--i:(\d+)"/g)].map(([, position]) => Number(position)),
+  [0, 1, 2],
+  'cada cartão leva a posição em --i'
+);
+assert.deepEqual(
+  [...newRow.matchAll(/loading="(eager|lazy)"/g)].map(([, loading]) => loading),
+  ['eager', 'eager', 'lazy'],
+  'as duas primeiras fotos sem atraso e a terceira lazy'
+);
+for (const date of ['>09/10, Guia<', '>08/10, Guia<', '>01/09, Guia<']) {
+  assert.ok(newRow.includes(date), `data DD/MM ${date}`);
+}
+assert.ok(!newRow.includes('>Novo</span>'), 'selo Novo nas Novidades');
+assert.ok(!newRow.includes('data-reveal'), 'o servidor não esconde a seção');
 
-// Bolinhas: título, uma por loja na ordem dos dados; sem loja, a seção não existe.
+// Setas: no HTML do servidor o contêiner é `hidden` e não tem `md:flex` (só aparece com o transbordo
+// medido no navegador); as duas setas têm nome. Confere pelas classes, não pela ordem delas.
+const arrows = [...newRow.matchAll(/<div class="([^"]*)">((?:(?!<div|<\/div>)[\s\S])*)<\/div>/g)].find(([, , inner]) =>
+  inner.includes('aria-label="Ver novidades anteriores"')
+);
+assert.ok(arrows, 'contêiner das setas');
+const arrowClasses = arrows[1].split(/\s+/);
+assert.ok(arrowClasses.includes('hidden'), 'setas escondidas no HTML do servidor');
+assert.ok(!arrowClasses.includes('md:flex'), 'setas sem md:flex até a fila transbordar');
+assert.ok(arrows[2].includes('aria-label="Ver próximas novidades"'), 'as duas setas no mesmo contêiner');
+
+// Sem artigo "Novo", a seção não existe.
+assert.equal(render(createElement(ReviewsNewRow, { articles: [] })), '');
+
+// Bolinhas: título, uma por loja na ordem dos dados (com duas lojas, a ordem invertida inverte os links);
+// sem loja, a seção não existe.
+const twoStoresHub = getReviewsHubContent(twoStores, fixtureStores);
+assert.deepEqual(slugs(twoStoresHub.stores), ['damie', 'magalu'], 'DAMIE e Magalu têm subpágina');
 const strip = render(
-  createElement(ReviewsStoreStrip, { id: 'titulo-por-loja', title: 'Por loja', stores: hub.stores, placement: 'reviews_stores' })
+  createElement(ReviewsStoreStrip, { id: 'titulo-por-loja', title: 'Por loja', stores: twoStoresHub.stores, placement: 'reviews_stores' })
 );
 assert.ok(strip.includes('aria-labelledby="titulo-por-loja"'));
 assert.match(strip, /<span class="marca-texto">Por loja<\/span>/);
-assert.deepEqual([...strip.matchAll(/href="\/reviews\/loja\/([^"]+)"/g)].map(([, slug]) => slug), slugs(hub.stores));
+const stripSlugs = (html: string) => [...html.matchAll(/href="\/reviews\/loja\/([^"]+)"/g)].map(([, slug]) => slug);
+assert.deepEqual(stripSlugs(strip), ['damie', 'magalu']);
+assert.deepEqual([...strip.matchAll(/--i:(\d+)/g)].map(([, position]) => Number(position)), [0, 1]);
+const reversedStrip = render(
+  createElement(ReviewsStoreStrip, {
+    id: 'titulo-por-loja',
+    title: 'Por loja',
+    stores: [...twoStoresHub.stores].reverse(),
+    placement: 'reviews_stores',
+  })
+);
+assert.deepEqual(stripSlugs(reversedStrip), ['magalu', 'damie']);
 assert.equal(
   render(createElement(ReviewsStoreStrip, { id: 'titulo-outras-lojas', title: 'Outras lojas', stores: [], placement: 'store_other_stores' })),
   ''

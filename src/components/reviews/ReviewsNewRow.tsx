@@ -13,9 +13,12 @@ import type { ShelfArticle } from '@/lib/reviewsShelf';
 // As Novidades de /reviews: os artigos com o selo "Novo", como cartões de geladeira (ímã e inclinação
 // pela posição), numa fila que rola na horizontal. As setas só aparecem no computador quando a fila não
 // cabe; no celular, o degradê da borda direita some no fim. Os cartões entram em cascata quando a seção
-// chega à tela (RevealSection, .revela com --i), e as duas primeiras fotos carregam sem atraso.
+// chega à tela (RevealSection, .revela com --i), e as duas primeiras fotos carregam sem atraso. Sem
+// artigo "Novo", a seção não existe.
 export function ReviewsNewRow({ articles }: { articles: ShelfArticle[] }) {
   const { trackRef, overflows, moreToTheRight, scrollTrack } = useRowScroll<HTMLUListElement>(articles);
+
+  if (articles.length === 0) return null;
 
   return (
     <RevealSection aria-labelledby="titulo-novidades" className="pb-8 md:pb-12">
