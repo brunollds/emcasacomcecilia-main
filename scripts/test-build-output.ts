@@ -11,7 +11,7 @@ import { getLocaleHomeCopy } from '../src/components/sections/localeHomeCopy';
 import { getShareCopy } from '../src/components/shared/shareCopy';
 import { brandLinks, socialMedias } from '../src/lib/brandLinks';
 import { CECILIA_FULL_NAME } from '../src/lib/ceciliaCredentials';
-import type { Recommendation } from '../src/lib/content';
+import type { EditorialNoteData, Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
 import { getAllActiveCouponSlugs, getCouponBySlug, getStoreCodeKind } from '../src/lib/couponsData';
 import {
@@ -265,9 +265,11 @@ const EDITORIAL_NOTE_TITLES = new Set(LOCALE_KEYS.map((key) => getArticleCopy(ke
 const editorialNoteLabelsIn = (html: string) =>
   [...html.matchAll(/aria-label="([^"]*)"/g)]
     .map(([, label]) => decodeHtml(label))
-    .filter((label) => EDITORIAL_NOTE_TITLES.has(label.split(': ')[0]));
+    .filter((label) => label.includes(': ') && EDITORIAL_NOTE_TITLES.has(label.split(': ')[0]));
 assert.deepEqual(
-  editorialNoteLabelsIn('<button aria-label="Editorial note: Cecília&#x27;s tip"></button><nav aria-label="Sei qui">'),
+  editorialNoteLabelsIn(
+    '<button aria-label="Editorial note: Cecília&#x27;s tip"></button><aside aria-label="Nota editorial"></aside><nav aria-label="Sei qui">'
+  ),
   ["Editorial note: Cecília's tip"],
   'editorialNoteLabelsIn não acha o rótulo da nota'
 );
@@ -503,6 +505,7 @@ const withoutRelatedCards = (body: string) => body.replace(/<a\b[^>]*min-h-\[220
 const articleUrls = sitemapUrls.filter((url) => /\/reviews\/[^/]+$/.test(new URL(url).pathname));
 assert.ok(articleUrls.length > 0, 'sitemap.xml sem artigos');
 let familyHeads = 0;
+let notedArticles = 0;
 for (const url of articleUrls) {
   const pagePath = new URL(url).pathname;
   const file = builtFile(url);
@@ -600,11 +603,16 @@ for (const url of articleUrls) {
     getArticleCopy(locale).breadcrumbLabel,
     `${pagePath}: nome da trilha para o leitor de tela fora do idioma do artigo`
   );
+  // Cada nota da review aparece com o título do idioma, e nenhuma outra; por conjunto, porque a mesma
+  // nota pode sair mais de uma vez na página. O Review legado de data.ts não declara as notas, que vêm no índice.
+  const noteTitle = getArticleCopy(locale).editorialNoteTitle;
+  const notes = (review as { notes?: EditorialNoteData[] }).notes ?? [];
   assert.deepEqual(
-    editorialNoteLabelsIn(body).filter((label) => !label.startsWith(`${getArticleCopy(locale).editorialNoteTitle}: `)),
-    [],
-    `${pagePath}: nota editorial fora do idioma do artigo`
+    [...new Set(editorialNoteLabelsIn(body))].sort(),
+    [...new Set(notes.map((note) => `${noteTitle}: ${note.label}`))].sort(),
+    `${pagePath}: nota editorial fora do idioma do artigo ou faltando`
   );
+  if (notes.length) notedArticles++;
 
   // O <head> de um artigo de família: canonical da própria página e hreflang dos 10 idiomas, com x-default no inglês.
   if (review.translationKey) {
@@ -641,6 +649,8 @@ for (const url of articleUrls) {
     );
   }
 }
+// Sem nenhum artigo com nota, a conferência da nota editorial passaria à toa.
+assert.ok(notedArticles > 0, 'nenhum artigo com nota editorial');
 
 // As receitas só existem em português; a trilha delas tem o mesmo nome da dos artigos.
 const recipeUrls = sitemapUrls.filter((url) => /^\/receitas\/[^/]+$/.test(new URL(url).pathname));
@@ -1340,5 +1350,5 @@ const cardsIn = (section: string) => {
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, ${eventHubPaths.length} páginas de data e ${LOCALE_HOME_LOCALES.length} homes de idioma conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, a nota editorial de ${notedArticles}, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, ${eventHubPaths.length} páginas de data e ${LOCALE_HOME_LOCALES.length} homes de idioma conferidos.`
 );
