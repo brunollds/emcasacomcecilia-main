@@ -577,6 +577,12 @@ for (const url of articleUrls) {
     crumbs,
     `${pagePath}: trilha do JSON-LD diferente da trilha na página`
   );
+  // O leitor de tela anuncia a trilha no idioma do artigo, com o nome que as páginas de loja usam.
+  assert.equal(
+    decodeHtml(body.slice(0, dialogStart).match(/<nav aria-label="([^"]*)"><ol\b/)?.[1] ?? ''),
+    getArticleCopy(locale).breadcrumbLabel,
+    `${pagePath}: nome da trilha para o leitor de tela fora do idioma do artigo`
+  );
 
   // O <head> de um artigo de família: canonical da própria página e hreflang dos 10 idiomas, com x-default no inglês.
   if (review.translationKey) {
