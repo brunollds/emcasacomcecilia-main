@@ -6,9 +6,9 @@ parceiro: "[[Nestle-Nutre]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "em-revisao"
+responsavel: "Bruno"
+proxima_acao: "revisar no localhost; capa no CDN com o OK do Bruno; reconferir preços e o status da campanha antes de publicar"
 bloqueado_por: null
 score_autoridade: 60
 score_conversao: 75
@@ -134,3 +134,17 @@ Senior" e "Black Friday Nutren".
 6. **Perguntas frequentes** (Nutren Senior na Black Friday, 740 g, zero lactose, assinatura com cupom, frete grátis, exceções do CECI).
 
 **Rodadas de atualização:** iguais às dos guias da primeira rodada.
+
+---
+
+## Redação (10/10/2026)
+
+- JSON em `content/reviews/black-friday-nestle-nutre.json` (id 335), no fim do `_manifest.json`. É a fonte da verdade do texto.
+- Capa: `/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp`, 1600×900, recorte 16:9 (1316×740 a partir de x 94, y 44, ampliado) da imagem oficial `nutren-senior-zero-lactose-beneficios.webp`, que já está no CDN. O arquivo novo fica fora do commit até subir ao CDN. Sem print da home, que mostra linhas infantis.
+- Preços relidos no navegador em 10/10/2026: a loja recusa leitura e download fora dele (Akamai), e isso não se contorna.
+- Kit e combo: o "/cada" aparece em todo produto. Num carrinho de visitante, o Kit Nutren Senior Sem Sabor saiu a R$ 263,49 pelas duas latas; o carrinho foi esvaziado depois.
+- Prazo para o Natal: calculador da página com três latas de 740 g do Senior ZL (OK do Bruno para CEPs de capitais), mais os dois dias de processamento dos termos (até 48 h) e um dia útil de folga, contado em dias úteis até quinta, 24/12.
+- Contas: lata ZL R$ 190,61 × 0,9 = R$ 171,55; kit sem sabor R$ 263,49 × 0,9 = R$ 237,14; três latas ZL R$ 571,83 × 0,9 = R$ 514,65; combo Just Protein R$ 193,18 ÷ 2 = R$ 96,59.
+- Assinatura com o CECI: neutro (decisão do Bruno de 09/10). O texto compara os dois caminhos e não diz se eles somam; a frase da página `/assinaturas` sobre cupons fica fora.
+- Fora do texto: cupons da própria loja (boas-vindas e o relâmpago do 10.10), Nutren 2.0 e 1.5 (nutrição enteral e oral), Isosource, Fortify, Pré-Ciclo, Mov Flex, o combo Premium Baunilha (sem o tamanho da lata no nome), o brinde que aparece no carrinho e o e-mail do SAC.
+- Escopo jurídico: só nutrição adulta; as exceções do CECI sempre com "fórmulas infantis de 0 a 12 meses".
