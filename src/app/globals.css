@@ -837,11 +837,6 @@ html:lang(ja) {
     animation: none !important;
   }
 
-  /* Breadcrumbs */
-  [aria-label="Breadcrumb"] {
-    display: none !important;
-  }
-
   /* Handwritten text (for recipe counts) */
   .font-handwritten,
   .font-hand-title {
