@@ -1,3 +1,4 @@
+import type { EditorialNoteLabels } from '@/components/editorial/EditorialNotePill';
 import type { Recommendation, ReviewKind } from '@/lib/content';
 import type { Locale } from '@/lib/i18n/locales';
 
@@ -354,4 +355,10 @@ const articleCopy: Record<Locale, ArticleCopy> = {
 
 export function getArticleCopy(locale: Locale): ArticleCopy {
   return articleCopy[locale];
+}
+
+// A nota editorial é componente de cliente: recebe os rótulos prontos do servidor, sem carregar esta tabela.
+export function getEditorialNoteLabels(locale: Locale): EditorialNoteLabels {
+  const { editorialNoteTitle, editorialNoteClose } = getArticleCopy(locale);
+  return { title: editorialNoteTitle, close: editorialNoteClose };
 }

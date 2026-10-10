@@ -11,7 +11,7 @@ export { ArticleByline, type ArticleBylineAuthor, type ArticleBylineMeta, type A
 export { TopTenList, type TopTenListProps } from './TopTenList';
 export { ChangelogDetails, type ChangelogDetailsProps, type ChangelogEntry } from './ChangelogDetails';
 export { SectionLinkButton, type SectionLinkButtonProps } from './SectionLinkButton';
-export { EditorialNotePill, type EditorialNotePillProps } from './EditorialNotePill';
+export { EditorialNotePill, type EditorialNoteLabels, type EditorialNotePillProps } from './EditorialNotePill';
 export { RichMarginNote, type RichMarginNoteProps } from './RichMarginNote';
 export { MarginNoteRail, type MarginNoteRailProps } from './MarginNoteRail';
 export { BottomSheet, acquireScrollLock, releaseScrollLock, type BottomSheetProps } from './BottomSheet';

@@ -2,9 +2,8 @@
 
 import { StickyNote } from 'lucide-react';
 import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
-import { EditorialNotePill } from './EditorialNotePill';
+import { EditorialNotePill, type EditorialNoteLabels } from './EditorialNotePill';
 import type { EditorialNoteData } from '@/lib/content';
-import type { Locale } from '@/lib/i18n/locales';
 
 export interface RichMarginNoteProps {
   note: EditorialNoteData;
@@ -26,7 +25,8 @@ export interface RichMarginNoteProps {
    * Default: false (for backward compatibility with direct usage).
    */
   marginNoteOnly?: boolean;
-  locale?: Locale;
+  /** Labels for the note pill, already in the page language. */
+  noteLabels: EditorialNoteLabels;
 }
 
 /**
@@ -45,10 +45,10 @@ export interface RichMarginNoteProps {
  * a relative container (provided by the parent, e.g., MarginNoteRail).
  * When undefined, renders at top of margin stack in static flow (fallback, no layout jump).
  */
-export function RichMarginNote({ note, lineTop, noteLeft, marginNoteOnly = false, locale }: RichMarginNoteProps): React.ReactElement {
+export function RichMarginNote({ note, lineTop, noteLeft, marginNoteOnly = false, noteLabels }: RichMarginNoteProps): React.ReactElement {
   // Non-line-anchor notes: delegate to existing pill (all breakpoints)
   if (!note.anchor || !isLineAnchor(note.anchor)) {
-    return <EditorialNotePill note={note} locale={locale} />;
+    return <EditorialNotePill note={note} labels={noteLabels} />;
   }
 
   const bodyParagraphs = note.body.split('\n\n').filter(Boolean);
@@ -102,7 +102,7 @@ export function RichMarginNote({ note, lineTop, noteLeft, marginNoteOnly = false
     <>
       {/* Mobile: show pill (handled by max-lg: block, lg: hidden) */}
       <div className="lg:hidden">
-        <EditorialNotePill note={note} locale={locale} />
+        <EditorialNotePill note={note} labels={noteLabels} />
       </div>
 
       {/* Desktop margin note (visible only at lg and above) */}

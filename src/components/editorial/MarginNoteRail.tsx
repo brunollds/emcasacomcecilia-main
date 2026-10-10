@@ -2,10 +2,9 @@
 
 import { useEffect, useMemo, useRef, useState, useCallback } from 'react';
 import { RichMarginNote } from './RichMarginNote';
-import { EditorialNotePill } from './EditorialNotePill';
+import { EditorialNotePill, type EditorialNoteLabels } from './EditorialNotePill';
 import { parseLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 import type { EditorialNoteData } from '@/lib/content';
-import type { Locale } from '@/lib/i18n/locales';
 
 export interface MarginNoteRailProps {
   /** Editorial notes that may anchor to this section. */
@@ -14,7 +13,8 @@ export interface MarginNoteRailProps {
   sectionIndex: number;
   /** The prose block (children) to wrap and measure. */
   children: React.ReactNode;
-  locale?: Locale;
+  /** Labels for the note pills, already in the page language. */
+  noteLabels: EditorialNoteLabels;
 }
 
 /**
@@ -42,7 +42,7 @@ export function MarginNoteRail({
   notes,
   sectionIndex,
   children,
-  locale,
+  noteLabels,
 }: MarginNoteRailProps): React.ReactElement {
   const containerRef = useRef<HTMLDivElement>(null);
   const proseRef = useRef<HTMLDivElement>(null);
@@ -144,7 +144,7 @@ export function MarginNoteRail({
       {/* Mobile fallback pills: visible on <xl breakpoints */}
       {anchoredNotes.map((note) => (
         <div key={`mobile-${note.id || note.label}`} className="xl:hidden mb-4">
-          <EditorialNotePill note={note} locale={locale} />
+          <EditorialNotePill note={note} labels={noteLabels} />
         </div>
       ))}
 
@@ -164,7 +164,7 @@ export function MarginNoteRail({
               lineTop={lineTop}
               noteLeft={noteLeft}
               marginNoteOnly
-              locale={locale}
+              noteLabels={noteLabels}
             />
           </div>
         );
