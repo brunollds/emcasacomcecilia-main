@@ -217,8 +217,10 @@ vídeo, primeiras impressões e uso noturno.
 
 - `/<locale>` (`src/app/[locale]/page.tsx`) é a home dos 9 idiomas fora do PT. A ordem é "confiança
   primeiro": quem chega de fora cai no artigo e só abre a home para ver quem está por trás do site.
-  O logo, o rodapé, o início da trilha das lojas e o seletor de idioma levam a ela
-  (`getShellHomeHref`); `/<locale>/reviews` segue como a lista completa, no menu.
+  O logo, o rodapé, o início da trilha das lojas e dos artigos e o seletor de idioma levam a ela
+  (`getShellHomeHref`); `/<locale>/reviews` segue como a lista completa, no menu e no meio da trilha
+  dos artigos. A trilha visível e a `BreadcrumbList` do artigo saem da mesma lista (`breadcrumbs`, em
+  `review-template-props.js`), e o `test:build-output` confere as duas em todo artigo.
 - `src/lib/localeHome.ts` monta tudo no servidor. Os textos vêm de
   `src/components/sections/localeHomeCopy.ts`; os fatos da Cecília e o certificado, de
   `src/lib/ceciliaCredentials.ts`. As lojas saem dos dados: a YesStyle e as de `couponTranslations.ts`
