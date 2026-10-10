@@ -83,7 +83,7 @@ mira "black friday colchão" pela I Wanna Sleep e responde a busca do cupom com 
 ---
 
 ## 5. Mídia & Planejamento Visual
-- **Imagem Principal (Hero):** a Cecília com o cobertor Igloo, do vídeo `BlBbtv-VuL8` (decisão do Bruno em 09/10: "existe foto da IWS da Cecília com o produto (vídeo)"). Pedir ao Bruno um quadro do vídeo ou o OK para usar a miniatura do YouTube. 16:9, nome novo em `public/images/reviews/iwannasleep/`, upload ao CDN com o OK dele.
+- **Imagem Principal (Hero):** a Cecília com o cobertor Igloo, do vídeo `BlBbtv-VuL8` (decisão do Bruno em 09/10: "existe foto da IWS da Cecília com o produto (vídeo)"). O Bruno liberou a miniatura do YouTube em 09/10. 16:9, nome novo em `public/images/reviews/iwannasleep/`, upload ao CDN com o OK dele.
 - **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md).
 - **Imagens Inline:** opcional, `pillow-top-magnum-oficial-hero.webp` ou `qual-cobertor-escolher-hero-grid.webp`, já publicadas.
 - **Vídeo:** o do Igloo pode entrar no bloco de vídeo, como no artigo do cobertor.
@@ -105,7 +105,7 @@ mira "black friday colchão" pela I Wanna Sleep e responde a busca do cupom com 
 | Cartão em até 12x sem juros, parcela mínima de R$ 80 (a tabela do Magnum mostra até 9x) | Condição comercial | Widget da página de produto | — | 2026-10-09 | [ ] Conferir no checkout; sem isso, "parcelado sem juros, veja o número de parcelas na página" |
 | Frete grátis acima de R$ 150, exceto colchões, box, baús e cabeceiras | Fato oficial | suporte.iwannasleep.com.br, "Entrega e frete" (16/07/2025) | — | 2026-10-09 | [x] Sim |
 | Colchão: entrega e montagem próprias só em cidades com loja ou centro de distribuição (BH confirmada); fora delas, transportadora até o térreo, sem montagem | Fato oficial | Mesmo artigo | — | 2026-10-09 | [x] Sim |
-| Prazo de entrega por região | — | Só no checkout, pelo CEP | — | 2026-10-09 | [ ] Sem tabela pública. Data limite para o Natal só com simulação por CEP (pedir OK ao Bruno) ou como recomendação genérica |
+| Prazo de entrega por região | — | Só no checkout, pelo CEP | — | 2026-10-09 | [x] Simulação pelo CEP no calculador de frete do site, com CEPs públicos de capitais, sem login e sem pedido (OK do Bruno em 09/10/2026); a data limite sai como estimativa nossa |
 | Sleeptest: 100 dias no colchão, uso mínimo de 15 dias, troca por conforto (não por tamanho), uma por CPF, etiqueta e embalagem; R$ 300 de frete e montagem em BH | Fato oficial | Política Sleeptest (29/10/2024) e páginas do Zen e do Hush | — | 2026-10-09 | [x] Sim |
 | Travesseiros e pillow top: 30 dias, uso mínimo de 15, troca por crédito | Fato oficial | Política Sleeptest e páginas do Magnum e do Snow | — | 2026-10-09 | [x] Sim |
 | Arrependimento em 7 dias corridos (CDC), frete da primeira devolução grátis, exceto colchão; estorno no cartão em 30 a 60 dias | Fato oficial | Política de reembolso (16/07/2025) | — | 2026-10-09 | [x] Sim |
