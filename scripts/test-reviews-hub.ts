@@ -7,6 +7,7 @@ import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.sh
 
 import { ViewTransitionLink } from '@/components/ViewTransitionLink';
 import { ReviewShelfCard, ReviewShelfRow } from '@/components/reviews/ReviewShelfCard';
+import { ReviewsBrowser } from '@/components/reviews/ReviewsBrowser';
 import { ReviewsNewRow } from '@/components/reviews/ReviewsNewRow';
 import { ReviewsStoreStrip } from '@/components/reviews/ReviewsStoreStrip';
 import { StoreBubbleLink } from '@/components/reviews/StoreBubbleLink';
@@ -743,6 +744,69 @@ assert.equal(
   render(createElement(ReviewsStoreStrip, { id: 'titulo-outras-lojas', title: 'Outras lojas', stores: [], placement: 'store_other_stores' })),
   ''
 );
+
+// A estante como o servidor a entrega: "Todos", "Mais novos", grade, os 12 primeiros na ordem, a busca
+// com rótulo, as categorias, o total, a vitrine e o "Carregar mais"; nenhum nome de transição no HTML.
+const big = getReviewsHubContent([...fixture, ...magaluArticles(13)], fixtureStores);
+assert.equal(big.articles.length, 22);
+const shelfHtml = render(
+  createElement(ReviewsBrowser, {
+    articles: big.articles,
+    categories: big.categories,
+    listPath: '/reviews',
+    placementPrefix: 'reviews',
+    showStore: true,
+    heading: 'Todos os artigos',
+    headingVisible: true,
+    search: { label: 'Buscar nos guias e análises', placeholder: 'Buscar guia, produto ou loja', scope: 'site' },
+    hero: createElement('h1', null, 'Guias & Análises'),
+    showcase: createElement('p', { id: 'vitrine' }, 'vitrine'),
+    footer: createElement('p', { id: 'rodape-estante' }, 'aviso'),
+  })
+);
+const shelfList = shelfHtml.slice(shelfHtml.indexOf('<ul data-estante="grade"'));
+assert.ok(shelfHtml.includes('<ul data-estante="grade"'), 'estante em grade');
+assert.deepEqual(
+  [...shelfList.slice(0, shelfList.indexOf('</ul>')).matchAll(/href="\/reviews\/([^"/]+)"/g)].map(([, slug]) => slug),
+  slugs(big.articles.slice(0, GRID_PAGE_SIZE)),
+  'os 12 primeiros, do mais novo'
+);
+assert.equal(shelfHtml.match(/class="estante-item /g)?.length, GRID_PAGE_SIZE);
+assert.ok(shelfHtml.includes('Carregar mais'));
+assert.ok(shelfHtml.includes('role="search"'));
+assert.ok(shelfHtml.includes('<label for="busca-estante" class="sr-only">Buscar nos guias e análises</label>'));
+assert.ok(shelfHtml.includes('id="vitrine"'), 'vitrine sem busca');
+assert.ok(shelfHtml.includes('id="rodape-estante"'));
+assert.match(shelfHtml, /<span class="marca-texto">Todos os artigos<\/span>/);
+assert.ok(shelfHtml.includes('>22 artigos<'));
+const chipsHtml = shelfHtml.slice(shelfHtml.indexOf('data-categorias="true"'));
+assert.equal(chipsHtml.slice(0, chipsHtml.indexOf('</div>')).match(/aria-pressed=/g)?.length, big.categories.length + 1);
+assert.match(shelfHtml, /<button[^>]*aria-pressed="true"[^>]*>Todos<\/button>/);
+assert.match(shelfHtml, /<option value="novos" selected="">Mais novos<\/option>/);
+assert.ok(shelfHtml.includes('--vt:estante-poltrona-damie'), 'variável do nome da troca em cada item');
+assert.ok(!shelfHtml.includes('view-transition-name'), 'nome de transição no HTML');
+assert.ok(!shelfHtml.includes('Nenhum artigo com'));
+
+// Na subpágina: sem busca, título só para leitor de tela, sem botões com uma categoria só e sem "Carregar
+// mais" com até 12 artigos.
+const storeShelf = render(
+  createElement(ReviewsBrowser, {
+    articles: magalu.articles.filter(({ category }) => category === 'cupons-como-usar'),
+    categories: [{ value: 'cupons-como-usar', label: 'Cupons & como usar' }],
+    listPath: '/reviews/loja/magalu',
+    placementPrefix: 'store',
+    showStore: false,
+    heading: 'Lista de artigos',
+    headingVisible: false,
+    search: null,
+    hero: createElement('h1', null, 'Artigos do Magalu'),
+  })
+);
+assert.ok(!storeShelf.includes('role="search"'));
+assert.ok(storeShelf.includes('<h2 id="titulo-estante" class="sr-only">Lista de artigos</h2>'));
+assert.ok(!storeShelf.includes('data-categorias'));
+assert.ok(!storeShelf.includes('Carregar mais'));
+assert.ok(storeShelf.includes('>3 artigos<'));
 
 console.log(
   `✅ reviewsHub: estante de ${real.articles.length} artigos, ${real.newArticles.length} novidades, ${real.stores.length} lojas com subpágina, busca, ordem, URL e medição passaram.`
