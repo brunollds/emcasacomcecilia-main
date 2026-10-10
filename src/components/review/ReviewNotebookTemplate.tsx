@@ -18,6 +18,7 @@ import { ReviewVerdictCard } from './ReviewVerdictCard';
 import { ReviewSidebar, type ResolvedRelatedArticle } from './ReviewSidebar';
 import { ReviewMobileBottomBar } from './ReviewMobileBottomBar';
 import { getArticleCopy, getEditorialNoteLabels } from './articleCopy';
+import { getBodySections, HEADINGS_OUTSIDE_BODY } from './bodySections';
 import { InlineCouponCopy } from './InlineCouponCopy';
 import { isStepHeading, type CouponCopyLocale } from './couponCopyLocale';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
@@ -212,21 +213,8 @@ export function ReviewNotebookTemplate({
   const verdictSection = review.contentSections?.find((section) => section.heading === 'Veredito');
 
   const sectionIds = generateSectionIds(review.contentSections || []);
-  const filteredHeadings: string[] = ['Veredito'];
 
-  // As seções com título que o ReviewContentSections mostra (nos guias, os passos ficam com o
-  // GuideTimeline): entram no sumário e recebem as notas ancoradas nelas.
-  const bodySections = (review.contentSections || [])
-    .filter((section) => (
-      section.heading &&
-      !filteredHeadings.includes(section.heading) &&
-      !(kind === 'guia' && isStepHeading(section.heading))
-    ))
-    .map((section) => ({
-      id: sectionIds.get(section.heading || '') || '',
-      heading: section.heading || '',
-    }))
-    .filter((item) => item.id);
+  const bodySections = getBodySections(review.contentSections || [], kind);
   const tocItems = [...bodySections];
 
   // Add "Veredito final" to TOC if the verdict section will render
@@ -514,10 +502,10 @@ export function ReviewNotebookTemplate({
               {kind === 'guia' ? (
                 <>
                   <ReviewContentSections
-                    sections={preStepSections.filter((s) => !filteredHeadings.includes(s.heading || ''))}
+                    sections={preStepSections.filter((s) => !HEADINGS_OUTSIDE_BODY.includes(s.heading || ''))}
                     reviewTitle={review.title}
                     sectionIds={sectionIds}
-                    filterHeadings={filteredHeadings}
+                    filterHeadings={HEADINGS_OUTSIDE_BODY}
                     kind={kind}
                     notes={notes}
                     reviewSlug={review.slug}
@@ -542,10 +530,10 @@ export function ReviewNotebookTemplate({
                   {postStepSections.length > 0 && (
                     <div className="mt-12">
                       <ReviewContentSections
-                        sections={postStepSections.filter((s) => !filteredHeadings.includes(s.heading || ''))}
+                        sections={postStepSections.filter((s) => !HEADINGS_OUTSIDE_BODY.includes(s.heading || ''))}
                         reviewTitle={review.title}
                         sectionIds={sectionIds}
-                        filterHeadings={filteredHeadings}
+                        filterHeadings={HEADINGS_OUTSIDE_BODY}
                         kind={kind}
                         notes={notes}
                         reviewSlug={review.slug}
@@ -562,7 +550,7 @@ export function ReviewNotebookTemplate({
                   sections={review.contentSections || []}
                   reviewTitle={review.title}
                   sectionIds={sectionIds}
-                  filterHeadings={filteredHeadings}
+                  filterHeadings={HEADINGS_OUTSIDE_BODY}
                   kind={kind}
                   notes={notes}
                   reviewSlug={review.slug}
