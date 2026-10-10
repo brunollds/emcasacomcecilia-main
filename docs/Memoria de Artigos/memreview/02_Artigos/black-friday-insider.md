@@ -6,9 +6,9 @@ parceiro: "[[Insider]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "em-revisao"
+responsavel: "Bruno"
+proxima_acao: "revisar no localhost; capa no CDN com o OK do Bruno; reconferir preços, Pix e o status da campanha antes de publicar"
 bloqueado_por: null
 score_autoridade: 55
 score_conversao: 85
@@ -136,3 +136,17 @@ Em promoções: "promoção insider compre 2 leve 3", "leve 3 pague 2", "insider
 6. **Perguntas frequentes** (cupom na Black Friday, Tech T-Shirt, leve 3 pague 2, frete grátis, loja física).
 
 **Rodadas de atualização:** a coleção já está no ar, então reconsultar a cada semana de outubro e quando a loja publicar as datas.
+
+---
+
+## Redação (09/10/2026)
+
+- JSON em `content/reviews/black-friday-insider.json` (id 334), no fim do `_manifest.json`. É a fonte da verdade do texto.
+- Capa: `/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp`, 1600×900, recorte 16:9 do banner da coleção Black Friday Insider 2026 (`Banner_collection-1`, 1635×900, 18 px a menos de cada lado). Fica fora do commit até subir ao CDN.
+- Preços relidos em `products.json` e `/products/<handle>.js` em 09/10/2026. Itens com o selo "PROMO 10/10" e os com "Últimas peças" (legging Easy, shorts Motion) ficaram fora das tabelas.
+- Mudanças em relação à pauta: o "leve 3 pague 2" segue fora (é um kit de Manga Longa), mas o texto compara o kit de três Tech T-Shirts com três avulsas, porque em 09/10 o kit saía mais caro. "Black November Insider" ficou fora: aparece só no texto alternativo da imagem e na imprensa de 2025, que não foi lida direto.
+- Prazo para o Natal: simulação com quatro Tech T-Shirts (R$ 516, frete grátis) e o CEP do centro de 12 capitais (OK do Bruno), mais um dia útil de folga, contado em dias úteis até quinta, 24/12. A opção paga mais rápida entra num parágrafo.
+- Contas: Tech T-Shirt R$ 129 × 0,85 = R$ 109,65. Exemplo do carrinho: quatro Tech T-Shirts e duas cuecas Comfort, R$ 674 → R$ 572,90 com o cupom (frete grátis) → R$ 515,61 no Pix, um desconto sobre o outro. Troca de presente: entrega em 01/12 + 21 dias corridos = 22/12.
+- Pix: 10% como a loja anunciava em outubro; um banner fala em "semana 10.10", então reconferir antes de publicar. Neutro sobre o Pix parcelado.
+- Reclame Aqui: o texto usa o dado já publicado no artigo do Reclame Aqui (mais de dois terços das reclamações de 12 meses no semestre out/2025–mar/2026).
+- Fora do texto: cupom de boas-vindas, indicação, Insider Rewards, regras dos brindes, garantia contra desbotamento (está no guia do cupom) e o horário da Concept Store.
