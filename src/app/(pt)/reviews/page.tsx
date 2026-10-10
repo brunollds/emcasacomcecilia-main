@@ -5,6 +5,7 @@ import { ReviewsNewRow } from '@/components/reviews/ReviewsNewRow';
 import { ReviewsStoreStrip } from '@/components/reviews/ReviewsStoreStrip';
 import { publishedReviews } from '@/lib/data';
 import { LOCALES } from '@/lib/i18n/locales';
+import { serializeJsonLd } from '@/lib/jsonLd';
 import { SITE_NAME, getCollectionPageJsonLd } from '@/lib/pageSeo';
 import { REVIEWS_TRAIL_ROOT, getReviewsHubContent } from '@/lib/reviewsHub';
 
@@ -48,7 +49,7 @@ export default function ReviewsPage() {
   return (
     <main className={`${couponFontVariables} min-h-screen bg-white text-marinho`}>
       {jsonLd.map((schema, index) => (
-        <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
+        <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: serializeJsonLd(schema) }} />
       ))}
       <ReviewsBrowser
         articles={content.articles}

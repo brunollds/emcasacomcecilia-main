@@ -1236,18 +1236,29 @@ function assertShelfPage(
   assert.equal(label === undefined ? null : decodeHtml(label), expected.searchLabel, `${where}: rótulo da busca`);
 }
 
-// /reviews: o h1, a estante, as Novidades (uma por artigo com o selo "Novo"), as bolinhas das lojas com
-// subpágina e o JSON-LD de lista com a imagem de compartilhamento (assertListPageSeo, mais abaixo no
-// arquivo, é uma declaração de função e vale aqui).
+// Os nomes dos itens do CollectionPage da página (JSON-LD), na ordem.
+function assertCollectionNames(where: string, html: string, titles: readonly string[]) {
+  const collection = jsonLdOf(html).find((schema) => schema['@type'] === 'CollectionPage');
+  const names = collection?.mainEntity?.itemListElement?.map((item: { name: string }) => item.name);
+  assert.deepEqual(names, titles, `${where}: nomes dos itens do CollectionPage`);
+}
+
+// /reviews: o h1 (um só), a estante, as Novidades (uma por artigo com o selo "Novo"), as bolinhas das
+// lojas com subpágina e o JSON-LD de lista com a imagem de compartilhamento (assertListPageSeo, mais
+// abaixo no arquivo, é uma declaração de função e vale aqui).
 const reviewsHub = getReviewsHubContent(publishedReviews);
 const reviewsFile = builtFile(`${SITE_URL}/reviews`);
 assert.ok(reviewsFile, '/reviews: página não gerada no build');
 const reviewsHtml = read(reviewsFile);
 const reviewsBody = bodyOf(reviewsHtml);
-assert.equal(textOf(reviewsBody.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1] ?? ''), 'Guias & Análises', '/reviews: h1');
+const reviewsH1s = [...reviewsBody.matchAll(/<h1\b[^>]*>([\s\S]*?)<\/h1>/g)].map(([, h1]) => textOf(h1));
+assert.equal(reviewsH1s.length, 1, `/reviews: ${reviewsH1s.length} h1`);
+assert.equal(reviewsH1s[0], 'Guias & Análises', '/reviews: h1');
 const reviewsShelf = { articles: reviewsHub.articles, searchLabel: 'Buscar nos guias e análises' };
 assertShelfPage('/reviews', reviewsBody, reviewsShelf);
 assertListPageSeo('/reviews', reviewsHtml, { items: reviewsHub.articles.length, image: reviewsHub.socialImage });
+const reviewsTitles = reviewsHub.articles.map(({ title }) => title);
+assertCollectionNames('/reviews', reviewsHtml, reviewsTitles);
 assert.deepEqual(
   articleLinksIn(between(reviewsBody, 'id="titulo-novidades"', ['</section>'])),
   reviewsHub.newArticles.map(({ slug }) => slug),
@@ -1260,9 +1271,16 @@ assert.deepEqual(
 );
 assert.ok(!reviewsHtml.includes('data-reveal'), '/reviews: data-reveal no HTML');
 
-// O guarda da estante acusa cada defeito: sem a lista, ordem trocada, cartão sem o anel, nome de
-// transição no HTML e busca sobrando ou faltando.
+// Os guardas acusam cada defeito: sem a lista, ordem trocada, cartão sem o anel, nome de transição no
+// HTML, busca sobrando ou faltando e itens do CollectionPage em outra ordem.
 {
+  const withoutSearch = reviewsBody
+    .replaceAll('role="search"', 'data-x="search"')
+    .replace(/<label for="busca-estante"[^>]*>[^<]*<\/label>/, '');
+  assert.ok(
+    !withoutSearch.includes('role="search"') && !withoutSearch.includes('<label for="busca-estante"'),
+    '/reviews: o controle de busca faltando não tirou a busca do HTML'
+  );
   const listStart = reviewsBody.indexOf('<ul data-estante="grade"');
   const withoutRing =
     reviewsBody.slice(0, listStart) + reviewsBody.slice(listStart).replace('focus-visible:outline-marinho', '');
@@ -1280,10 +1298,15 @@ assert.ok(!reviewsHtml.includes('data-reveal'), '/reviews: data-reveal no HTML')
     () => assertShelfPage('/reviews', reviewsBody.replace('data-vt-name="review-hero-', 'data-x="review-hero-'), reviewsShelf),
     /review-hero- fora do data-vt-name/
   );
-  assert.throws(() => assertShelfPage('/reviews', reviewsBody, { ...reviewsShelf, searchLabel: null }), /busca/);
+  assert.throws(() => assertShelfPage('/reviews', reviewsBody, { ...reviewsShelf, searchLabel: null }), /busca onde/);
+  assert.throws(() => assertShelfPage('/reviews', withoutSearch, reviewsShelf), /busca onde/);
+  assert.throws(
+    () => assertCollectionNames('/reviews', reviewsHtml, [...reviewsTitles].reverse()),
+    /nomes dos itens do CollectionPage/
+  );
 }
 
-// O <head> e o JSON-LD de uma página que lista artigos (subpágina de loja e página de data): a imagem
+// O <head> e o JSON-LD de uma página que lista artigos (/reviews, subpágina de loja e página de data): a imagem
 // de compartilhamento (assertShareImage), o idioma, um CollectionPage com um item por artigo e um
 // BreadcrumbList que termina na página.
 function assertListPageSeo(pagePath: string, html: string, expected: { items: number; image: SocialImage }) {
