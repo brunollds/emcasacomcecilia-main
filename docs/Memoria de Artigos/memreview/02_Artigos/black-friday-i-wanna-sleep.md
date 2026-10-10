@@ -8,7 +8,7 @@ reviewKind: "guia"
 type: "Guia de Black Friday"
 status: "em-revisao"
 responsavel: "Bruno"
-proxima_acao: "revisar no localhost; capa no CDN com o OK do Bruno; reconferir preços e o status da campanha antes de publicar"
+proxima_acao: "revisar no localhost; reconferir preços e o status da campanha antes de publicar"
 bloqueado_por: null
 score_autoridade: 60
 score_conversao: 80
@@ -147,7 +147,7 @@ mira "black friday colchão" pela I Wanna Sleep e responde a busca do cupom com 
 ## Redação (09/10/2026)
 
 - JSON em `content/reviews/black-friday-i-wanna-sleep.json` (id 333), no fim do `_manifest.json`. É a fonte da verdade do texto.
-- Capa: `/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp`, 1600×900, recorte 16:9 da miniatura vertical do vídeo `BlBbtv-VuL8` (sem a legenda do vídeo). Fica fora do commit até subir ao CDN.
+- Capa: `/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp`, 1600×900, recorte 16:9 da miniatura vertical do vídeo `BlBbtv-VuL8` (sem a legenda do vídeo). No CDN desde 09/10/2026, com o OK do Bruno.
 - Preços relidos em `/products/<handle>.js` em 09/10/2026. O `.js` do Magnum dá todos os tamanhos disponíveis; o "Esgotado" que a pesquisa viu no HTML estático não foi conferido no navegador, e o artigo não fala de estoque.
 - Prazo para o Natal: simulação no carrinho do Pillow Top Magnum casal com o CEP do centro de 12 capitais (OK do Bruno), mais um dia útil de folga, contado em dias úteis até quinta, 24/12. Frete grátis nas 12.
 - Conta do cupom com o Pix (um desconto sobre o outro, sem o frete): Magnum casal R$ 1.848 × 0,90 × 0,95 = R$ 1.580,04.
