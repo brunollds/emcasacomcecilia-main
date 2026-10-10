@@ -71,4 +71,4 @@ revisao_geral_ate: "2026-09-01"
 - `nestle-nutre-e-confiavel`
 - `nutren-senior-zero-lactose-ficha-tecnica`
 - `cupom-ceci-nestle-nutre-como-usar`
-- `black-friday-nestle-nutre` (em revisão desde 10/10/2026)
+- `black-friday-nestle-nutre` (publicado em 10/10/2026, PR #50)

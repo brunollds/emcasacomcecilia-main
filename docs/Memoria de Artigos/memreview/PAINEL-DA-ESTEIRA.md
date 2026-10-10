@@ -18,9 +18,7 @@
 
 ## 3. Em Revisão Factual & Claims (`status: em-revisao`)
 *Em auditoria pelo Job-3.*
-- [ ] [[black-friday-i-wanna-sleep]] — I Wanna Sleep / Black Friday 2026 (pillow top, travesseiros e cobertores; colchão só na loja física), segunda rodada (JSON em 09/10/2026; revisão do Bruno no localhost; capa no CDN desde 09/10; preços e status reconferidos antes de publicar, até 31/10)
-- [ ] [[black-friday-insider]] — Insider / Black Friday 2026 (coleção no ar desde outubro, Tech T-Shirt, kits e underwear, troca de presente), segunda rodada (JSON em 09/10/2026; revisão do Bruno no localhost; capa no CDN com o OK do Bruno; preços, Pix e status reconferidos antes de publicar, até 31/10)
-- [ ] [[black-friday-nestle-nutre]] — Nestlé Nutre / Black Friday Nutren 2026 (Nutren Senior, Just Protein, assinatura ou compra única com o CECI; só nutrição adulta), segunda rodada (JSON em 10/10/2026; revisão do Bruno no localhost; capa no CDN com o OK do Bruno; preços e status reconferidos antes de publicar, até 31/10)
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -47,6 +45,9 @@
 - [x] [[black-friday-damie]] — DAMIE / Black Friday DAMIE 2026: poltrona reclinável e sofá com o cupom CECILIA12 (No ar em 09/10/2026, PR #42; preços de 8/10; a seção da campanha da DAMIE entra em ou depois de 15/10, e os preços são reconferidos na última semana de outubro) 🚀
 - [x] [[black-friday-dolce-gusto]] — Dolce Gusto / Black Friday Dolce Gusto 2026: quando começa, preços de máquinas e cápsulas e o cupom CECI (No ar em 09/10/2026, PR #42; preços de 8/10, reconferidos na última semana de outubro) 🚀
 - [x] [[black-friday-letseatit]] — Let's Eat It / Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal (No ar em 09/10/2026, PR #42; preços de 8/10, reconferidos na última semana de outubro) 🚀
+- [x] [[black-friday-i-wanna-sleep]] — I Wanna Sleep / Black Friday I Wanna Sleep 2026: Pillow Top Magnum, travesseiros e cobertores com o cupom CECIEMCASA (No ar em 10/10/2026, PR #50; preços de 9/10, reconferidos na última semana de outubro) 🚀
+- [x] [[black-friday-insider]] — Insider / Black Friday Insider 2026: quando começa, preços da Tech T-Shirt e o cupom EMCASACOMCECILIA (No ar em 10/10/2026, PR #50; preços de 9/10, reconferidos na última semana de outubro) 🚀
+- [x] [[black-friday-nestle-nutre]] — Nestlé Nutre / Black Friday Nutren 2026: Nutren Senior, Just Protein e o cupom CECI na Nestlé Nutre (No ar em 10/10/2026, PR #50; preços de 10/10, reconferidos na última semana de outubro) 🚀
 - [x] [[poltrona-de-amamentacao-como-escolher]] — DAMIE / Poltrona de amamentação: como escolher entre com puff, com balanço e reclinável (No ar em 07/10/2026, `4b391c4`; reescrito com fatos verificados, três faixas de preço com links da Amazon e do Mercado Livre, giro de 180°, herói real no CDN, IndexNow enviado) 🚀
 - [x] [[poltrona-de-amamentacao-vs-poltrona-reclinavel]] — DAMIE / Poltrona de amamentação ou reclinável: qual vale mais a pena? (No ar em 07/10/2026, `4b391c4`; as quatro bases da DAMIE com preços, uso depois da amamentação com os opcionais, conta do tempo de uso com preços reais, herói real no CDN, IndexNow enviado) 🚀
 - [x] [[insider-store-e-confiavel]] — Insider Store / É confiável? CNPJ, loja física, trocas, garantia e reputação (No ar em 05/10/2026, `2887c4c`; reescrito com fatos verificados na central de ajuda, termos e BrasilAPI, sem Lenzing, fotos oficiais no CDN, IndexNow enviado; revisto em 07/10/2026 para citar os 15% OFF do cupom, no ar em 08/10/2026, `19ea553`) 🚀

@@ -188,4 +188,4 @@ loja física, CNPJ, Insider Business e vagas.
 - [[cupom-emcasacomcecilia-insider-store-como-usar]] — Cupom no checkout, onde vale, frete, boas-vindas e indicação (`status: publicado`, `2887c4c`)
 - [[insider-store-e-confiavel]] — CNPJ, loja física, atendimento, trocas, garantia e reputação (`status: publicado`, `2887c4c`)
 - [[insider-store-reclame-aqui-nota-reputacao]] — Abas do Reclame Aqui, principais problemas, respostas e alertas (`status: publicado`, `2887c4c`)
-- [[black-friday-insider]] — Guia de Black Friday 2026: coleção no ar, preços de outubro, cupom com o Pix, troca de presente e prazo para o Natal (`status: em-revisao` desde 09/10/2026)
+- [[black-friday-insider]] — Guia de Black Friday 2026: coleção no ar, preços de outubro, cupom com o Pix, troca de presente e prazo para o Natal (publicado em 10/10/2026, PR #50)

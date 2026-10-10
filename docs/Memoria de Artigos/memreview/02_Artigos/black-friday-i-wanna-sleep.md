@@ -6,9 +6,11 @@ parceiro: "[[I-Wanna-Sleep]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "em-revisao"
-responsavel: "Bruno"
-proxima_acao: "revisar no localhost; reconferir preços e o status da campanha antes de publicar"
+status: "publicado"
+responsavel: "Claude"
+proxima_acao: "na última semana de outubro, reconsultar os preços, o Pix e o status da campanha e trocar as datas de 9/10"
+publicado_em: "2026-10-10"
+nota_publicacao: "Publicado no PR #50 em 10/10/2026 (decisão do Bruno), com os preços e o status datados de 9/10."
 bloqueado_por: null
 score_autoridade: 60
 score_conversao: 80

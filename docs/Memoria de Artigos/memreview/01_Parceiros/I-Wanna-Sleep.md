@@ -72,4 +72,4 @@ revisao_geral_ate: "2026-09-01"
 - `i-wanna-sleep-e-confiavel`
 - `sleeptest-i-wanna-sleep-como-funciona`
 - `cupom-ceciemcasa-i-wanna-sleep-como-usar`
-- `black-friday-i-wanna-sleep` (em revisão desde 09/10/2026)
+- `black-friday-i-wanna-sleep` (publicado em 10/10/2026, PR #50)
