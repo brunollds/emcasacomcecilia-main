@@ -32995,7 +32995,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Use o cupom CECIEMCASA na I Wanna Sleep e ganhe 10% OFF em todo o site. Veja o passo a passo, regras e como validar o desconto de 10% no checkout.",
     "publishedAt": "07 Jul 2026",
     "publishedAtISO": "2026-07-07",
-    "updatedAt": "2026-10-09",
+    "updatedAt": "2026-10-10",
     "draft": false,
     "image": "/images/reviews/iwannasleep/cupom-ceciemcasa-hero.webp",
     "imageAlt": "Cecília abrindo o pacote da I Wanna Sleep contendo produtos de sono confortáveis.",
