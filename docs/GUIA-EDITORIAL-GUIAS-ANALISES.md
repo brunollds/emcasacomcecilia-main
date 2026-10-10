@@ -117,7 +117,7 @@ O vocabulário foi aprovado para os 32 artigos listados em português, com distr
 10/10/7/5. Esses números são retrato do acervo, não metas nem asserções permanentes. Conteúdo
 internacional recebe classe somente depois de decisão e backfill por locale.
 
-## 10. Onde o artigo aparece na home
+## 10. Onde o artigo aparece na home e em /reviews
 
 Desde a D2 (outubro de 2026), a home não escolhe destaques por `category`. Um artigo listado em
 português (sem `draft`, sem `hideFromListings`/`hideFromPortugueseListings` e com `locale`
@@ -130,10 +130,15 @@ português ou sem `locale`) aparece:
   a subpágina `/reviews/loja/<slug>`, com todos;
 - **na faixa de uma data comercial**, durante a campanha, se o slug estiver entre os 4 primeiros
   do `articleSlugs` da edição em `content/home-events.json`, na ordem do arquivo. A página da
-  data (o `hub` da edição, como `/black-friday`), quando existe, mostra todos.
+  data (o `hub` da edição, como `/black-friday`), quando existe, mostra todos;
+- **em `/reviews`**, sempre, em "Todos os artigos" (ordem "Mais novos" por `publishedAtISO`,
+  desempate pelo maior `id`, ou "A–Z" pelo título); **nas Novidades**, enquanto tiver `isNew` (a
+  regra mensal do selo "Novo"); e, pelo `affiliate`, na subpágina `/reviews/loja/<slug>` da loja e na
+  bolinha dela em "Por loja", quando a loja tem mais de 3 artigos.
 
-`category` continua valendo para os filtros de `/reviews`. `type`, `reviewKind`, `isNew`,
-`pros/cons` e a marca citada no texto não mudam o lugar do artigo na home.
+`category` continua valendo para os filtros de `/reviews`, e `isNew` só põe o artigo nas Novidades de
+`/reviews`. `type`, `reviewKind`, `isNew`, `pros/cons` e a marca citada no texto não mudam o lugar do
+artigo na home.
 
 Fora do português, o artigo aparece na home do idioma (`/<locale>`, `src/lib/localeHome.ts`): os 6
 mais novos do idioma por `publishedAtISO`, além da lista completa em `/<locale>/reviews`. Rascunho

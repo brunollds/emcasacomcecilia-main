@@ -24,12 +24,13 @@ npm run test:coupon-translations  # lojas em outros idiomas: texto traduzido, c�
 npm run validate:yesstyle    # data/coupons/yesstyle.json; falha com oferta ativa vencida (data em UTC)
 npm run test:analytics-gate  # allowlist de hosts do GA4 e do Clarity; loader do Clarity só em Clarity.js, sem id="clarity"
 npm run test:home-stores     # vitrine da home, "Acabou de sair" e subpáginas /reviews/loja/<slug>
+npm run test:reviews-hub     # estante de /reviews e das subpáginas: busca sem acento, ordem, URL, Novidades, bolinhas, páginas de 12 e 24, medição e os componentes
 npm run test:home-events     # datas comerciais: content/home-events.json, a faixa e a página da data
 npm run test:home-lower-sections  # receitas, Explore a casa (com o carrossel de ofertas do feed) e vídeos da home, e que o page.js passa as ofertas ao Explore a casa e monta os Vídeos
 npm run test:locale-home     # home de cada idioma (/en, /ja…): textos dos 9 idiomas, lojas, artigos, validade do certificado da YesStyle e o HTML das seções
 npm run test:home-route-tracking  # placements do home_route_click e o link das abas da vitrine (<a> comum)
 npm run test:html-lang       # depois do build: <html lang> de cada rota
-npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, a trilha de todo artigo (home do idioma, lista e artigo, igual ao JSON-LD, com o nome para o leitor de tela no idioma), títulos de seção sem repetição, cada nota editorial da review uma vez, dentro da seção em que está ancorada e no idioma do artigo, o nome da trilha das receitas, textos que citam o CECILIA010, a home, os cards de /reviews, as subpáginas de loja e as páginas de data (imagem e JSON-LD), a imagem de compartilhamento das páginas de loja e o noindex do /categorias, o marca-texto dos títulos da home, os cards revelados na rolagem e nada escondido por ela no HTML, o CSS da rolagem só com o movimento liberado (sem @media not … and …) e as homes de cada idioma (hreflang, JSON-LD, sem texto em português nem link de loja, menu e rodapé inclusive)
+npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, a trilha de todo artigo (home do idioma, lista e artigo, igual ao JSON-LD, com o nome para o leitor de tela no idioma), títulos de seção sem repetição, cada nota editorial da review uma vez, dentro da seção em que está ancorada e no idioma do artigo, o nome da trilha das receitas, textos que citam o CECILIA010, a home, a estante de /reviews e das subpáginas de loja (os 12 primeiros artigos, a busca, as Novidades, as bolinhas, a trilha das subpáginas igual ao BreadcrumbList, as categorias da loja e Outras lojas), as páginas de data (imagem e JSON-LD), a imagem de compartilhamento das páginas de loja e o noindex do /categorias, o marca-texto dos títulos da home, os cards revelados na rolagem e nada escondido por ela no HTML, o CSS da rolagem só com o movimento liberado (sem @media not … and …) e as homes de cada idioma (hreflang, JSON-LD, sem texto em português nem link de loja, menu e rodapé inclusive)
 ```
 
 `npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
@@ -86,9 +87,14 @@ Logo depois do `next build`, o `npm run build` roda `scripts/test-client-bundle.
 Filtro que só muda a query string da mesma página (ex.: `/receitas`, `/reviews`) não usa
 `router.replace`/`push`: o router baixa de novo o payload RSC da página — com todos os cards — a
 cada clique. `/receitas` usa `window.history.replaceState`, que o Next sincroniza com o
-`useSearchParams` sem ida ao servidor. `/reviews` usa `pushState` e lê a categoria da URL com
-`useSyncExternalStore`; o `useSearchParams` fica num componente vazio com Suspense próprio, só para
-avisar das mudanças, e assim o prerender não para no Suspense e o HTML estático traz os cards.
+`useSearchParams` sem ida ao servidor. A estante de `/reviews` e das subpáginas de loja
+(`ReviewsBrowser`) usa `pushState` para categoria e ordem e `replaceState` para a busca, e lê a URL
+com `useSyncExternalStore`; o `useSearchParams` fica num componente vazio com Suspense próprio, só
+para avisar das mudanças, e assim o prerender não para no Suspense e o HTML estático traz os cards.
+A busca grava na URL por um caminho só, com atraso de 120 ms depois da última tecla (campo vazio grava
+na hora). O Voltar e o Avançar dentro da lista trocam o texto do campo pelo `q` da entrada aberta, e
+uma gravação pendente nunca cai em outra entrada nem em outra rota: se a URL já saiu da lista, a
+gravação some.
 
 ### Mídia (imagens e vídeos) — biblioteca CDN em migração
 
@@ -158,6 +164,7 @@ vídeo, primeiras impressões e uso noturno.
 ### Component layers
 - `src/components/ui/` — Shared building blocks: `focusRing.ts` (`FOCUS_RING`, `FOCUS_RING_ON_DARK`), `ScrollRow`, `RevealSection` and `CategoryIcon`.
 - `src/components/sections/` — Page sections: the D2 home (`HomeStoreStories`, `HomeStoreStrip` (the store bubbles), `HomeCeciliaPanel`, `HomeLatest`, `HomeEvent`, `PopularRecipes`, `MyLinks` (with `OfferCarousel`), `CTA`, the last two wrapped in `HomeSection`) and `EventHubPage`, which reads the data and wraps `EventHubView` (the date page itself, rendered by `test:home-events`; it must not import `next/font`, which does not run under tsx). `Navbar` and `Footer` live in `src/components/`.
+- `src/components/reviews/` — a estante de `/reviews` e das subpáginas de loja: `ReviewsBrowser` (busca, categorias, ordem, grade ou lista, "Carregar mais", a URL e a troca animada), `ReviewShelfCard` e `ReviewShelfRow`, `ReviewsNewRow` (Novidades), `ReviewsStoreStrip` e `StoreBubbleLink` (bolinhas) e `TrackedReviewsLink` (`reviews_route_click`). As regras que o navegador usa ficam em `src/lib/reviewsShelf.ts`; os dados, montados no servidor, em `src/lib/reviewsHub.ts`. O ímã dos cartões (`cardDecor.ts`), a inclinação das bolinhas (`useBubbleTilt.ts`) e a fila com setas (`useRowScroll.ts`) ficam em `src/components/ui/`, usados também pela home.
 - `src/components/sections/CeciliaProfile.tsx` (the photo card, the follower numbers and the social icons) is shared by the PT home panel and by the home of every other language, so editing it changes both. The sections of the other-language home are the `LocaleHome*` components.
 - Each route group has its own root layout (`src/app/(pt)/layout.js`, `src/app/(en)/layout.tsx`… and `src/app/[locale]/layout.tsx`). All of them render `RootLayoutShell` (`src/components/RootLayoutShell.tsx`): `Navbar → {children} → Footer`.
 
@@ -208,7 +215,8 @@ vídeo, primeiras impressões e uso noturno.
   `prefers-reduced-motion: no-preference`; o marca-texto fica sempre pintado e só a animação
   depende do movimento liberado:
   - `.bolinha`, `.bolinha-disco` e `.bolinha-logo` (inclinação pelo mouse em `--rx`, `--ry`, `--lx`
-    e `--ly`, gravadas pelo `StoreBubble`; entrada pela direita no celular por `--i`);
+    e `--ly`, gravadas pelo hook `useBubbleTilt` de `src/components/ui/`, que o `StoreBubble` da home
+    e o `StoreBubbleLink` de `/reviews` usam; entrada pela direita no celular por `--i`);
   - `.painel-entra` e `.carimbo` (troca de loja pelo lado da bolinha, em `--painel-de`, por
     `@starting-style`);
   - `.marca-texto` e `.revela` (rolagem). Seção de baixo nova usa o `HomeSection`, que já monta o
@@ -299,6 +307,15 @@ Animação que respeita "reduzir movimento" leva `motion-safe:`. As classes solt
 `motion-safe:animate-[slide-up_0.5s_ease-out_backwards]` (o `backwards` segura o card escondido durante o
 `animation-delay`).
 
+Na estante de `/reviews`, o `ReviewsBrowser` anima a troca da lista com a View Transitions API: o
+`data-trocando` no contêiner liga o `view-transition-name` de cada item (a variável `--vt`) só durante
+a troca, e a foto do cartão só ganha o nome da transição para o artigo (`data-vt-name`) no clique,
+pelo `ViewTransitionLink`. O HTML do servidor não leva nenhum nome; o `test:build-output` confere.
+Durante a troca, o `:root` perde o nome de transição e o `::view-transition` não recebe clique
+(`:root:has([data-trocando])` no `globals.css`): sem isso, um clique dado nos ~450 ms da troca caía na
+camada da transição e se perdia. Fora da troca, o morph da foto para o artigo continua capturando a
+página inteira.
+
 ### Pages
 | Route | File |
 |-------|------|
@@ -306,8 +323,8 @@ Animação que respeita "reduzir movimento" leva `motion-safe:`. As classes solt
 | `/<locale>` | `src/app/[locale]/page.tsx` (home de cada idioma: `LocaleHomePage`, dados em `src/lib/localeHome.ts`) |
 | `/receitas` | `src/app/(pt)/receitas/page.js` |
 | `/receitas/[slug]` | `src/app/(pt)/receitas/[slug]/page.js` |
-| `/reviews` | `src/app/(pt)/reviews/page.js` |
-| `/reviews/loja/[brand]` | `src/app/(pt)/reviews/loja/[brand]/page.tsx` (só lojas ativas com mais de 3 artigos) |
+| `/reviews` | `src/app/(pt)/reviews/page.tsx` (Novidades, bolinhas e a estante `ReviewsBrowser`; dados em `src/lib/reviewsHub.ts`) |
+| `/reviews/loja/[brand]` | `src/app/(pt)/reviews/loja/[brand]/page.tsx` (só lojas ativas com mais de 3 artigos; a estante de `/reviews`, com busca acima de 12 artigos) |
 | `/black-friday` | `src/app/(pt)/black-friday/page.tsx` (`EventHubPage`; 404 enquanto não houver edição em `content/home-events.json`) |
 | `/cupons` | `src/app/(pt)/cupons/page.tsx` |
 | `/cupons/[brand]` | `src/app/(pt)/cupons/[brand]/page.tsx` (YesStyle has its own page in `cupons/yesstyle/`) |
