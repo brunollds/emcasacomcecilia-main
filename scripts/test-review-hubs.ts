@@ -122,10 +122,37 @@ assert.ok(englishReview, 'O corpus deve conter um review EN para validar a naveg
 const englishHub = getInternationalReviewHub('en');
 assert.deepEqual(englishHub, { href: '/en/reviews', label: 'Guides & Reviews' });
 
-const { breadcrumbJsonLd } = buildReviewTemplateProps(englishReview);
-const breadcrumbItems = Reflect.get(breadcrumbJsonLd, 'itemListElement');
-assert.ok(Array.isArray(breadcrumbItems));
-assert.equal(Reflect.get(breadcrumbItems[0], 'item'), 'https://emcasacomcecilia.com/en/reviews');
-assert.equal(String(Reflect.get(breadcrumbItems[0], 'item')).includes('/coupons/'), false);
+// A trilha começa na home do idioma, como no PT; a visível (breadcrumbs) e a do schema são a mesma lista.
+const trailOf = (review: Review) => {
+  const { breadcrumbs, breadcrumbJsonLd } = buildReviewTemplateProps(review);
+  const schemaTrail = breadcrumbJsonLd.itemListElement.map(({ position, name, item }) => [position, name, item]);
+  return { breadcrumbs, schemaTrail };
+};
+const SITE_URL = 'https://emcasacomcecilia.com';
+
+const englishTrail = trailOf(englishReview);
+assert.deepEqual(englishTrail.breadcrumbs, [
+  { name: 'Home', href: '/en' },
+  { name: 'Guides & Reviews', href: '/en/reviews' },
+]);
+assert.deepEqual(englishTrail.schemaTrail, [
+  [1, 'Home', `${SITE_URL}/en`],
+  [2, 'Guides & Reviews', `${SITE_URL}/en/reviews`],
+  [3, englishReview.title, `${SITE_URL}${getReviewCanonicalPathname(englishReview)}`],
+]);
+
+const portugueseReview = publishedReviews.find((review) => resolveReviewLocale(review.locale) === 'pt');
+assert.ok(portugueseReview, 'O corpus deve conter um review PT.');
+const portugueseTrail = trailOf(portugueseReview);
+assert.deepEqual(portugueseTrail.breadcrumbs, [
+  { name: 'Início', href: '/' },
+  { name: 'Reviews', href: '/reviews' },
+]);
+// A raiz sai sem a barra final no schema do PT, como sempre saiu.
+assert.deepEqual(portugueseTrail.schemaTrail, [
+  [1, 'Início', SITE_URL],
+  [2, 'Reviews', `${SITE_URL}/reviews`],
+  [3, portugueseReview.title, `${SITE_URL}${getReviewCanonicalPathname(portugueseReview)}`],
+]);
 
 console.log(`Review hubs validados: ${REVIEW_HUB_LOCALES.join(', ')}.`);

@@ -1,3 +1,4 @@
+import { Fragment } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { ArrowRight, ChevronRight, PlayCircle, ShieldCheck } from 'lucide-react';
@@ -36,6 +37,8 @@ export interface ReviewNotebookTemplateProps {
   videoPageUrl: string | null;
   reviewImage: string;
   reviewImageAlt: string;
+  // As páginas acima do artigo, da home do idioma em diante; a mesma lista do breadcrumbJsonLd.
+  breadcrumbs: Array<{ name: string; href: string }>;
   breadcrumbJsonLd: Record<string, unknown>;
   jsonLd: Record<string, unknown>;
   faqJsonLd?: Record<string, unknown> | null;
@@ -184,6 +187,7 @@ export function ReviewNotebookTemplate({
   videoPageUrl,
   reviewImage,
   reviewImageAlt,
+  breadcrumbs,
   breadcrumbJsonLd,
   jsonLd,
   faqJsonLd = null,
@@ -306,27 +310,14 @@ export function ReviewNotebookTemplate({
 
               <nav aria-label="Breadcrumb">
                 <ol className="flex flex-wrap items-center gap-2 text-sm text-[#4a5568]">
-                  {couponCopyLocale === 'pt' ? (
-                    <>
+                  {breadcrumbs.map(({ name, href }) => (
+                    <Fragment key={href}>
                       <li>
-                        <Link href="/" className="transition-colors hover:text-[#1a4d2e]">{getShellCopy('pt').homeLabel}</Link>
+                        <Link href={href} className="transition-colors hover:text-[#1a4d2e]">{name}</Link>
                       </li>
                       <li aria-hidden="true"><ChevronRight size={14} /></li>
-                      <li>
-                        <Link href="/reviews" className="transition-colors hover:text-[#1a4d2e]">Reviews</Link>
-                      </li>
-                      <li aria-hidden="true"><ChevronRight size={14} /></li>
-                    </>
-                  ) : (
-                    <>
-                      <li>
-                        <Link href={internationalReviewHub?.href ?? '/reviews'} className="transition-colors hover:text-[#1a4d2e]">
-                          {internationalReviewHub?.label}
-                        </Link>
-                      </li>
-                      <li aria-hidden="true"><ChevronRight size={14} /></li>
-                    </>
-                  )}
+                    </Fragment>
+                  ))}
                   <li className="max-w-[200px] truncate text-[#1a4d2e] md:max-w-md" aria-current="page">
                     {review.title}
                   </li>
