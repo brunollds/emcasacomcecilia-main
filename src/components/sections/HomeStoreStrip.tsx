@@ -7,11 +7,11 @@ import {
   useState,
   type CSSProperties,
   type KeyboardEvent,
-  type PointerEvent,
   type ReactNode,
 } from 'react';
 import Image from 'next/image';
 import { FOCUS_RING } from '@/components/ui/focusRing';
+import { useBubbleTilt } from '@/components/ui/useBubbleTilt';
 import { CECILIA_TAB_ID, getTabAnchor, getTabOrder, parseTabHash, type HomeStoreTab } from '@/lib/homeStoreTabs';
 
 // A faixa de bolinhas da vitrine, no padrão de abas: a da Cecília e uma por loja. No celular a faixa
@@ -26,10 +26,6 @@ const NUDGE_PX = 96;
 const NUDGE_DELAY_MS = 1100;
 const NUDGE_BACK_MS = 650;
 const NUDGE_KEY = 'home-store-strip-nudge';
-// Com o mouse na borda da bolinha: a inclinação do disco e o deslocamento do logo.
-const TILT_DEG = 12;
-const SHIFT_PX = 3;
-const TILT_PROPERTIES = ['--rx', '--ry', '--lx', '--ly'];
 
 // Sem sessionStorage (bloqueado ou numa pré-visualização), conta como feito: o empurrão não se repete.
 function alreadyNudged() {
@@ -207,24 +203,7 @@ type StoreBubbleProps = {
 
 function StoreBubble({ tabId, name, index, selected, dark, onSelect, onKeyDown, register, children }: StoreBubbleProps) {
   const anchor = getTabAnchor(tabId);
-  const diskRef = useRef<HTMLSpanElement>(null);
-
-  // Só o mouse inclina, pela posição do ponteiro no disco; no toque, o :active do CSS afunda o disco.
-  function tilt(event: PointerEvent<HTMLButtonElement>) {
-    const disk = diskRef.current;
-    if (event.pointerType !== 'mouse' || !disk) return;
-    const box = disk.getBoundingClientRect();
-    const x = Math.min(Math.max((event.clientX - box.left) / box.width - 0.5, -0.5), 0.5) * 2;
-    const y = Math.min(Math.max((event.clientY - box.top) / box.height - 0.5, -0.5), 0.5) * 2;
-    disk.style.setProperty('--rx', `${(-y * TILT_DEG).toFixed(1)}deg`);
-    disk.style.setProperty('--ry', `${(x * TILT_DEG).toFixed(1)}deg`);
-    disk.style.setProperty('--lx', `${(x * SHIFT_PX).toFixed(1)}px`);
-    disk.style.setProperty('--ly', `${(y * SHIFT_PX).toFixed(1)}px`);
-  }
-
-  function untilt() {
-    for (const property of TILT_PROPERTIES) diskRef.current?.style.removeProperty(property);
-  }
+  const { diskRef, onPointerMove, onPointerLeave } = useBubbleTilt<HTMLButtonElement>();
 
   return (
     <button
@@ -237,8 +216,8 @@ function StoreBubble({ tabId, name, index, selected, dark, onSelect, onKeyDown, 
       tabIndex={selected ? 0 : -1}
       onClick={() => onSelect(tabId)}
       onKeyDown={onKeyDown}
-      onPointerMove={tilt}
-      onPointerLeave={untilt}
+      onPointerMove={onPointerMove}
+      onPointerLeave={onPointerLeave}
       style={{ '--i': index } as CSSProperties}
       className={`bolinha flex w-[72px] shrink-0 scroll-mt-40 flex-col items-center gap-2 rounded-lg pt-1.5 text-marinho md:w-[92px] ${FOCUS_RING}`}
     >
@@ -260,7 +239,15 @@ function StoreBubble({ tabId, name, index, selected, dark, onSelect, onKeyDown, 
 }
 
 // Logo da loja ou, sem ele, as iniciais (brandIcon). Decorativo: o nome está ao lado.
-export function StoreMark({ tab, imageClassName, sizes }: { tab: HomeStoreTab; imageClassName: string; sizes: string }) {
+export function StoreMark({
+  tab,
+  imageClassName,
+  sizes,
+}: {
+  tab: Pick<HomeStoreTab, 'logo' | 'initials'>;
+  imageClassName: string;
+  sizes: string;
+}) {
   return tab.logo ? (
     <span className={`relative ${imageClassName}`}>
       <Image src={tab.logo} alt="" fill sizes={sizes} className="object-contain" />

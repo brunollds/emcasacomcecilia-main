@@ -1,11 +1,12 @@
 'use client';
 
-import { useEffect, useRef, useState, type ReactNode } from 'react';
+import type { ReactNode } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { ScrollRow } from '@/components/ui/ScrollRow';
+import { ROW_ARROW, useRowScroll } from '@/components/ui/useRowScroll';
 import { trackEvent } from '@/lib/analytics';
 import { getOfferDiscountPercent, type OfferWithImage } from '@/lib/dicasOffers';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
@@ -13,8 +14,6 @@ import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 // As ofertas do dia dentro do card do Dicas & Ofertas, numa fila que rola na horizontal; a partir de
 // 768 px, as setas ao lado do título passam a fila, quando ela tem o que rolar. O card mostra só a
 // foto e o preço: o nome do produto vai no alt da foto, que dá nome ao link.
-
-const ARROW = `flex size-11 items-center justify-center rounded-full border-2 border-marinho bg-white text-marinho hover:bg-marinho hover:text-amarelo-cupom motion-safe:transition-colors ${FOCUS_RING}`;
 
 function formatPrice(value: number): string {
   return value.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
@@ -27,41 +26,18 @@ type OfferCarouselProps = {
 };
 
 export function OfferCarousel({ items, heading }: OfferCarouselProps) {
-  const trackRef = useRef<HTMLUListElement>(null);
-  const [overflows, setOverflows] = useState(false);
-
   // Com poucas ofertas numa tela larga cabe tudo, e as setas não teriam o que fazer.
-  useEffect(() => {
-    const track = trackRef.current;
-    if (!track) return;
-    const update = () => setOverflows(track.scrollWidth > track.clientWidth);
-    update();
-    const observer = new ResizeObserver(update);
-    observer.observe(track);
-    return () => observer.disconnect();
-  }, [items]);
-
-  const scrollTrack = (direction: 'left' | 'right') => {
-    const track = trackRef.current;
-    if (!track) return;
-
-    const amount = Math.max(track.clientWidth * 0.8, 280);
-    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    track.scrollBy({
-      left: direction === 'right' ? amount : -amount,
-      behavior: reduceMotion ? 'auto' : 'smooth',
-    });
-  };
+  const { trackRef, overflows, scrollTrack } = useRowScroll<HTMLUListElement>(items);
 
   return (
     <>
       <div className="flex items-end justify-between gap-4 px-4 md:px-6">
         {heading}
         <div className={`hidden shrink-0 gap-2${overflows ? ' md:flex' : ''}`}>
-          <button type="button" onClick={() => scrollTrack('left')} className={ARROW} aria-label="Ver ofertas anteriores">
+          <button type="button" onClick={() => scrollTrack('left')} className={ROW_ARROW} aria-label="Ver ofertas anteriores">
             <ChevronLeft aria-hidden="true" className="size-5" />
           </button>
-          <button type="button" onClick={() => scrollTrack('right')} className={ARROW} aria-label="Ver próximas ofertas">
+          <button type="button" onClick={() => scrollTrack('right')} className={ROW_ARROW} aria-label="Ver próximas ofertas">
             <ChevronRight aria-hidden="true" className="size-5" />
           </button>
         </div>
