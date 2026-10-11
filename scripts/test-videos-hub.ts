@@ -1,4 +1,6 @@
 import assert from 'node:assert/strict';
+import { readFileSync } from 'node:fs';
+import { resolve } from 'node:path';
 import { createElement, type ReactElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 import { AppRouterContext } from 'next/dist/shared/lib/app-router-context.shared-runtime';
@@ -652,6 +654,12 @@ assert.deepEqual(
     ],
   ]
 );
+
+// As duas páginas escrevem o JSON-LD pelo serializeJsonLd (o "<" escapado), nunca pelo JSON.stringify cru.
+for (const file of ['src/app/(pt)/videos/page.tsx', 'src/app/(pt)/videos/[slug]/page.tsx']) {
+  const source = readFileSync(resolve(process.cwd(), file), 'utf8');
+  assert.ok(source.includes('serializeJsonLd(') && !source.includes('JSON.stringify('), `${file}: JSON-LD sem o serializeJsonLd`);
+}
 
 // Dados reais: toda página de vídeo entra, o destaque é o mais novo, cada chip tem 2 ou mais vídeos e
 // nenhuma página repete o próprio vídeo em "Mais vídeos".
