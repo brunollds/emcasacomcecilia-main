@@ -38,6 +38,9 @@ import { SITE_NAME, SITE_SOCIAL_IMAGE, getStoreSocialImage, type SocialImage } f
 import { getInternationalReviewHub } from '../src/lib/review-hubs';
 import { getReviewsHubContent, getStoreShelfContent } from '../src/lib/reviewsHub';
 import { GRID_PAGE_SIZE } from '../src/lib/reviewsShelf';
+import { videoPages } from '../src/lib/video-pages';
+import { VIDEOS_TRAIL, getVideoPageContent, getVideosHubContent, type VideoPageContent } from '../src/lib/videosHub';
+import { YOUTUBE_SUBSCRIBE_URL, videoMorphName } from '../src/lib/videosShelf';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 import { LABEL_SAME_AS_PORTUGUESE, codeAsCouponRegExp, getPtStoreTexts, isStoreLink } from './locale-home-guards';
 
@@ -180,6 +183,24 @@ assert.ok(
   css.includes('.md\\:\\[mask-image\\:none\\]{'),
   'CSS sem o md:[mask-image:none] dos chips de categoria: o degradê da borda valeria no computador'
 );
+
+// O player da página do vídeo não passa da altura da tela: o vertical vai até min(45svh, 405px) de largura
+// (9/16 de min(80svh, 720px) de altura) e o quadrado até 80svh. Valor arbitrário que o Tailwind deixa de ler
+// some do CSS sem erro nenhum. Cada classe do VideoPlayer é conferida pela regra inteira (o seletor e a
+// propriedade): o mesmo tamanho aparece em duas classes, e só o valor deixaria uma delas sumir sem aviso.
+{
+  const compactCss = css.replace(/\s+/g, '');
+  const escapeSelector = (value: string) => value.replace(/[:[\](),]/g, '\\$&');
+  for (const [prefix, property, size] of [
+    ['max-w', 'max-width', 'min(45svh,405px)'],
+    ['lg:w', 'width', 'min(45svh,405px)'],
+    ['max-w', 'max-width', 'min(48rem,80svh)'],
+    ['lg:w', 'width', 'min(32rem,80svh)'],
+  ]) {
+    const rule = `.${escapeSelector(`${prefix}-[${size}]`)}{${property}:${size}}`;
+    assert.ok(compactCss.includes(rule), `CSS sem o tamanho do player ${size} (${prefix}, ${property})`);
+  }
+}
 
 // O movimento da estante de /reviews e das subpáginas (D2.2) também só com o movimento liberado. Cada
 // seletor aparece ao menos uma vez no CSS gerado, e toda ocorrência fica dentro de um @media com
@@ -1437,11 +1458,11 @@ function assertSitemapLastmod(pagePath: string, articles: readonly { updatedAt?:
   assert.equal(sitemapEntry?.match(/<lastmod>([^<]+)<\/lastmod>/)?.[1], newestDate, `${pagePath}: lastmod no sitemap.xml`);
 }
 
-// A trilha visível de uma subpágina (o <nav> com o rótulo da trilha dos artigos em português), item por
+// A trilha visível de uma subpágina de loja, de /videos ou de uma página de vídeo (o <nav> com o rótulo da trilha dos artigos em português), item por
 // item: o nome, o endereço e o aria-current.
-const STORE_TRAIL_LABEL = getArticleCopy('pt').breadcrumbLabel;
-function storeTrailOf(body: string) {
-  const nav = between(body, `<nav aria-label="${STORE_TRAIL_LABEL}"`, ['</nav>']);
+const PAGE_TRAIL_LABEL = getArticleCopy('pt').breadcrumbLabel;
+function pageTrailOf(body: string) {
+  const nav = between(body, `<nav aria-label="${PAGE_TRAIL_LABEL}"`, ['</nav>']);
   return [...nav.matchAll(/<li\b[^>]*>([\s\S]*?)<\/li>/g)].map(([, item]) => {
     const href = item.match(/<a\b[^>]*\bhref="([^"]+)"/)?.[1];
     return {
@@ -1454,8 +1475,8 @@ function storeTrailOf(body: string) {
 
 // Os itens da trilha com o nome e o endereço da lista da página; o último é a própria página, um
 // <span aria-current="page"> sem link. O BreadcrumbList do JSON-LD tem os mesmos nomes e as mesmas URLs.
-function assertStoreTrail(pagePath: string, html: string, trail: readonly { name: string; path: string }[]) {
-  const crumbs = storeTrailOf(bodyOf(html));
+function assertPageTrail(pagePath: string, html: string, trail: readonly { name: string; path: string }[]) {
+  const crumbs = pageTrailOf(bodyOf(html));
   assert.deepEqual(
     crumbs,
     trail.map(({ name, path }, index) => {
@@ -1496,7 +1517,7 @@ for (const slug of storeArticleSlugs) {
   assert.ok(body.includes(hrefOf(page.storePageUrl)), `${pagePath}: sem o link de ${page.storePageUrl}`);
   assert.ok(!html.includes('data-reveal'), `${pagePath}: data-reveal no HTML`);
 
-  assertStoreTrail(pagePath, html, page.trail);
+  assertPageTrail(pagePath, html, page.trail);
 
   assertShelfPage(pagePath, body, { articles: page.articles, searchLabel: page.search?.label ?? null });
   const shelfTitle = [...body.matchAll(/<h2\b([^>]*)>([\s\S]*?)<\/h2>/g)].find(([, attributes]) => /\bid="titulo-estante"/.test(attributes));
@@ -1540,9 +1561,9 @@ for (const slug of storeArticleSlugs) {
   const file = page && builtFile(`${SITE_URL}${page.path}`);
   assert.ok(page && file, 'sem subpágina para o controle da trilha');
   const html = read(file);
-  assertStoreTrail(page.path, html, page.trail);
+  assertPageTrail(page.path, html, page.trail);
 
-  const navStart = html.indexOf(`<nav aria-label="${STORE_TRAIL_LABEL}"`);
+  const navStart = html.indexOf(`<nav aria-label="${PAGE_TRAIL_LABEL}"`);
   const navEnd = html.indexOf('</nav>', navStart);
   assert.ok(navStart >= 0 && navEnd > navStart, 'sem a trilha para o controle da trilha');
   const inNav = (edit: (nav: string) => string) => html.slice(0, navStart) + edit(html.slice(navStart, navEnd)) + html.slice(navEnd);
@@ -1561,7 +1582,7 @@ for (const slug of storeArticleSlugs) {
   ];
   for (const [mutated, why] of visibleDefects) {
     assert.notEqual(mutated, html, `o controle da trilha não mudou nada: ${why}`);
-    assert.throws(() => assertStoreTrail(page.path, mutated, page.trail), /: trilha visível(?! diferente do BreadcrumbList)/, why);
+    assert.throws(() => assertPageTrail(page.path, mutated, page.trail), /: trilha visível(?! diferente do BreadcrumbList)/, why);
   }
 
   const schemaDefects: Array<[string, string]> = [
@@ -1570,7 +1591,7 @@ for (const slug of storeArticleSlugs) {
   ];
   for (const [mutated, why] of schemaDefects) {
     assert.notEqual(mutated, html, `o controle do BreadcrumbList não mudou nada: ${why}`);
-    assert.throws(() => assertStoreTrail(page.path, mutated, page.trail), /: trilha visível diferente do BreadcrumbList/, why);
+    assert.throws(() => assertPageTrail(page.path, mutated, page.trail), /: trilha visível diferente do BreadcrumbList/, why);
   }
 }
 
@@ -1602,6 +1623,173 @@ for (const hubPath of eventHubPaths) {
   }
 }
 
+// /videos: um h1, o destaque, a grade com todos os vídeos na ordem e o anel de foco, os chips das lojas com 2
+// ou mais vídeos ("Todos" escolhido), a trilha igual ao BreadcrumbList, o JSON-LD de lista com a imagem, o
+// canal com o "Inscrever-se no canal" (quando a API respondeu no build) e nenhum nome de transição no HTML
+// (no HTML, o video-player- fica só no data-vt-name).
+const videoSources = { reviews: publishedReviews, recipes };
+const videosHub = getVideosHubContent(videoSources);
+const videoLinksIn = (html: string) => [...html.matchAll(/<a\b[^>]*\bhref="\/videos\/([^"/?#]+)"/g)].map(([, slug]) => slug);
+const videosFile = builtFile(`${SITE_URL}/videos`);
+assert.ok(videosFile, '/videos: página não gerada no build');
+const videosHtml = read(videosFile);
+const videosBody = bodyOf(videosHtml);
+assert.deepEqual(
+  [...videosBody.matchAll(/<h1\b[^>]*>([\s\S]*?)<\/h1>/g)].map(([, h1]) => textOf(h1)),
+  ['Vídeos'],
+  '/videos: h1'
+);
+assert.deepEqual(
+  [...new Set(videoLinksIn(between(videosBody, 'aria-labelledby="titulo-destaque"', ['</section>'])))],
+  [videosHub.featured.slug],
+  '/videos: destaque'
+);
+const videosGrid = between(videosBody, '<ul data-estante="videos"', ['</ul>']);
+assert.deepEqual(videoLinksIn(videosGrid), videosHub.videos.map(({ slug }) => slug), '/videos: a grade, do mais novo');
+for (const [tag] of videosGrid.matchAll(/<a\b[^>]*>/g)) {
+  assert.match(tag, /\bclass="[^"]* focus-visible:outline-marinho[ "]/, `/videos: cartão sem o anel de foco da casa: ${tag}`);
+}
+const videoChips = [...between(videosBody, 'data-lojas="true"', ['</div>']).matchAll(/<button\b([^>]*)>([^<]*)<\/button>/g)];
+assert.deepEqual(
+  videoChips.map(([, , label]) => decodeHtml(label)),
+  ['Todos', ...videosHub.stores.map(({ name }) => name)],
+  '/videos: chips'
+);
+assert.deepEqual(
+  videoChips.map(([, attributes]) => attributes.includes('aria-pressed="true"')),
+  videoChips.map((_, index) => index === 0),
+  '/videos: só "Todos" escolhido no HTML'
+);
+assert.ok(!videosBody.includes('view-transition-name'), '/videos: nome de transição no HTML');
+const videoMorphNames = videosBody.match(/data-vt-name="video-player-/g)?.length ?? 0;
+assert.ok(videoMorphNames > 0, '/videos: nenhuma miniatura com o nome da transição (data-vt-name)');
+assert.equal(videosBody.match(/video-player-/g)?.length ?? 0, videoMorphNames, '/videos: video-player- fora do data-vt-name');
+assertPageTrail('/videos', videosHtml, VIDEOS_TRAIL);
+assertListPageSeo('/videos', videosHtml, { items: videosHub.videos.length, image: videosHub.socialImage });
+assertCollectionNames('/videos', videosHtml, videosHub.videos.map(({ title }) => title));
+const videosChannel = between(videosBody, 'aria-labelledby="titulo-canal"', ['</section>']);
+if (videosChannel) {
+  // O React escreve o target antes do href: o link é achado pelo endereço, e os atributos conferidos à parte.
+  const subscribeLink = [...videosChannel.matchAll(/<a\b([^>]*)>([\s\S]*?)<\/a>/g)].find(([, attributes]) =>
+    attributes.includes(hrefOf(YOUTUBE_SUBSCRIBE_URL))
+  );
+  assert.ok(subscribeLink, '/videos: canal sem o "Inscrever-se no canal"');
+  assert.ok(subscribeLink[1].includes('target="_blank"'), '/videos: "Inscrever-se no canal" sem aba nova');
+  assert.equal(textOf(subscribeLink[2]), 'Inscrever-se no canal', '/videos: texto do "Inscrever-se no canal"');
+}
+
+// As páginas de vídeo (docs/GUIA-EDITORIAL-VIDEOS.md, seção 6): um h1, igual ao name do VideoObject; o player
+// logo depois do h1 (nenhum <iframe>, <video>, imagem ou fila entre os dois), no formato do aspect e com o
+// nome da transição da miniatura; um player só; o link da origem; o botão da loja e a duração só quando
+// existem; "Mais vídeos" sem o vídeo aberto; a trilha igual ao BreadcrumbList; o JSON-LD sem "<" cru.
+function assertVideoWatchPage(pagePath: string, html: string, content: VideoPageContent) {
+  const body = bodyOf(html);
+  const { video } = content;
+  const article = between(body, '<article', ['</article>']);
+  const videoObject = jsonLdOf(html).find((schema) => schema['@type'] === 'VideoObject');
+  assert.equal(videoObject?.name, video.title, `${pagePath}: name do VideoObject`);
+  assert.deepEqual(
+    [...body.matchAll(/<h1\b[^>]*>([\s\S]*?)<\/h1>/g)].map(([, h1]) => textOf(h1)),
+    [videoObject?.name],
+    `${pagePath}: h1 diferente do name do VideoObject`
+  );
+  const afterH1 = body.slice(body.indexOf('</h1>'));
+  const playerAt = afterH1.indexOf('data-player="');
+  assert.ok(playerAt > 0, `${pagePath}: sem o player`);
+  assert.doesNotMatch(afterH1.slice(0, playerAt), /<(?:iframe|video|img|ul)\b/, `${pagePath}: algo entre o h1 e o player`);
+  const frame = afterH1.slice(playerAt).match(/^data-player="[^"]+"[^>]*>/)?.[0] ?? '';
+  assert.ok(frame.startsWith(`data-player="${video.aspect}"`), `${pagePath}: player fora do formato ${video.aspect}`);
+  assert.ok(frame.includes(`view-transition-name:${videoMorphName(video.slug)}`), `${pagePath}: player sem o nome da transição`);
+  assert.equal(body.match(/<(?:iframe|video)\b/g)?.length ?? 0, 1, `${pagePath}: mais de um player`);
+  assert.ok(article.includes(`href="${video.source.href}"`), `${pagePath}: sem o link da origem`);
+  assert.equal(textOf(article).includes('Ver o código'), video.codeLink !== null, `${pagePath}: botão da loja onde não devia, ou faltando`);
+  if (video.codeLink) assert.ok(article.includes(`href="${video.codeLink.href}"`), `${pagePath}: botão sem a página de cupom`);
+  assert.equal(textOf(article).includes('Duração:'), video.duration !== null, `${pagePath}: duração onde não devia, ou faltando`);
+  assert.doesNotMatch(textOf(article), /undefined|NaN/, `${pagePath}: texto quebrado`);
+  assert.deepEqual(
+    videoLinksIn(between(body, 'aria-labelledby="titulo-mais-videos"', ['</section>'])),
+    content.more.videos.map(({ slug }) => slug),
+    `${pagePath}: Mais vídeos`
+  );
+  for (const [, json] of html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)) {
+    assert.ok(!json.includes('<'), `${pagePath}: JSON-LD com "<" cru`);
+  }
+  assertPageTrail(pagePath, html, content.trail);
+}
+
+const videoWatchPages = videoPages.map((page) => {
+  const pagePath = `/videos/${page.slug}`;
+  const content = getVideoPageContent(videoSources, page.slug);
+  assert.ok(content, `${pagePath}: sem conteúdo`);
+  const file = builtFile(`${SITE_URL}${pagePath}`);
+  assert.ok(file, `${pagePath}: página não gerada no build`);
+  const html = read(file);
+  assertVideoWatchPage(pagePath, html, content);
+  return { pagePath, html, content };
+});
+
+// Controles numa página com loja: cada defeito derruba a trava com a mensagem dele.
+{
+  const sample = videoWatchPages.find(({ content }) => content.video.codeLink);
+  assert.ok(sample, 'controle: há página de vídeo com loja');
+  const { pagePath, html, content } = sample;
+  const otherAspect = content.video.aspect === 'horizontal' ? 'vertical' : 'horizontal';
+  const label = content.video.codeLink?.label ?? '';
+  const failures: Array<[string, RegExp]> = [
+    [html.replace('</h1>', '</h1><ul></ul>'), /algo entre o h1 e o player/],
+    [html.replace(`data-player="${content.video.aspect}"`, `data-player="${otherAspect}"`), /player fora do formato/],
+    [html.replace(/<h1\b([^>]*)>/, '<h1$1>Outro título '), /h1 diferente do name do VideoObject/],
+    [html.replace('</article>', '<iframe></iframe></article>'), /mais de um player/],
+    [html.split(escapeHtml(label)).join('Outro texto'), /botão da loja onde não devia, ou faltando/],
+    [html.replace('aria-labelledby="titulo-mais-videos"', 'aria-labelledby="titulo-outro"'), /Mais vídeos/],
+  ];
+  for (const [mutated, message] of failures) {
+    assert.notEqual(mutated, html, `controle: a mutação não achou o trecho (${message})`);
+    assert.throws(() => assertVideoWatchPage(pagePath, mutated, content), message);
+  }
+}
+
+// Os Últimos vídeos da home (quando a API do YouTube respondeu no build): o "Ver todos os vídeos"; o vídeo com
+// página no site abre a página na mesma aba, e o do YouTube numa aba nova. Todo cartão da fila é de um dos
+// dois tipos, para os dois laços não passarem vazios quando os 6 uploads são de um tipo só.
+function assertHomeVideoLinks(section: string) {
+  assert.match(section, /<a\b[^>]*href="\/videos"[^>]*>Ver todos os vídeos<\/a>/, 'home: sem o "Ver todos os vídeos"');
+  const row = between(section, '<ul class="hide-scrollbar', ['</ul>']);
+  const cardCount = row.match(/<li[\s>]/g)?.length ?? 0;
+  const links = [...row.matchAll(/<a\b[^>]*>/g)].map(([tag]) => tag);
+  assert.ok(cardCount > 0, 'home: Últimos vídeos sem a fila de cartões');
+  assert.equal(links.length, cardCount, 'home: cartão de vídeo sem link, ou com mais de um');
+  for (const tag of links) {
+    if (/\bhref="\/videos\/[^"]+"/.test(tag)) {
+      assert.ok(!tag.includes('target="_blank"'), `home: vídeo com página abrindo em aba nova: ${tag}`);
+    } else {
+      assert.match(tag, /\bhref="https:\/\/www\.youtube\.com\/watch\?v=[^"]+"/, `home: vídeo sem a página nem o link do YouTube: ${tag}`);
+      assert.ok(tag.includes('target="_blank"'), `home: vídeo do YouTube sem aba nova: ${tag}`);
+    }
+  }
+}
+const homeVideos = between(homeBody, 'aria-labelledby="titulo-ultimos-videos"', ['aria-labelledby="titulo-', '<footer']);
+if (homeVideos) assertHomeVideoLinks(homeVideos);
+
+// O guarda acusa cada defeito, também com os dois tipos de cartão que o HTML de hoje pode não ter.
+{
+  const youtubeCard = '<li><a target="_blank" rel="noopener noreferrer" class="x" href="https://www.youtube.com/watch?v=abc">T</a></li>';
+  const pageCard = '<li><a class="x" href="/videos/um-video">T</a></li>';
+  const section = (...cards: string[]) =>
+    `<ul class="hide-scrollbar x">${cards.join('')}</ul><a class="y" href="/videos">Ver todos os vídeos</a>`;
+  assertHomeVideoLinks(section(youtubeCard, pageCard));
+  const failures: Array<[string, RegExp]> = [
+    [section(youtubeCard, pageCard.replace('<a ', '<a target="_blank" ')), /vídeo com página abrindo em aba nova/],
+    [section(youtubeCard.replace(' target="_blank"', ''), pageCard), /vídeo do YouTube sem aba nova/],
+    [section(youtubeCard, '<li><a class="x" href="https://example.com/">T</a></li>'), /vídeo sem a página nem o link do YouTube/],
+    [section(youtubeCard, pageCard).replace('Ver todos os vídeos', 'Ver tudo'), /sem o "Ver todos os vídeos"/],
+    [section(), /sem a fila de cartões/],
+  ];
+  for (const [mutated, message] of failures) {
+    assert.throws(() => assertHomeVideoLinks(mutated), message);
+  }
+}
+
 // O feed do Dicas & Ofertas e a API do YouTube decidem na hora do build se ofertas e vídeos
 // aparecem; a linha final diz quantos cards cada um teve, para o log do build mostrar.
 const cardsIn = (section: string) => {
@@ -1611,5 +1799,5 @@ const cardsIn = (section: string) => {
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, a nota editorial de ${notedArticles}, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, ${eventHubPaths.length} páginas de data e ${LOCALE_HOME_LOCALES.length} homes de idioma conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, a nota editorial de ${notedArticles}, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data e ${LOCALE_HOME_LOCALES.length} homes de idioma conferidos.`
 );
