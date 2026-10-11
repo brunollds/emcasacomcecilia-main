@@ -1,7 +1,6 @@
 'use client';
 
 import {
-  Suspense,
   useCallback,
   useEffect,
   useMemo,
@@ -13,12 +12,13 @@ import {
 } from 'react';
 import { flushSync } from 'react-dom';
 import Link from 'next/link';
-import { useSearchParams } from 'next/navigation';
 import { LayoutGrid, List, Search, X } from 'lucide-react';
 import { ReviewShelfCard, ReviewShelfRow } from '@/components/reviews/ReviewShelfCard';
 import { SHELF_CONTAINER, SHELF_TITLE } from '@/components/reviews/shelfClasses';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { RevealSection } from '@/components/ui/RevealSection';
+import { runShelfTransition } from '@/components/ui/shelfTransition';
+import { ListUrlListener, useListUrlSearch, writeListUrl } from '@/components/ui/useListUrl';
 import { useRowScroll } from '@/components/ui/useRowScroll';
 import { trackEvent } from '@/lib/analytics';
 import type { ReviewCategory } from '@/lib/reviewDiscovery';
@@ -49,7 +49,6 @@ import {
   shelfPlacement,
   shelfSearch,
   shouldTrackSearch,
-  urlSearchOf,
   visibleAfterViewChange,
   withShelfQuery,
   type SearchDraft,
@@ -67,11 +66,6 @@ import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 // o modo fica no aparelho (localStorage) e a página aberta, na sessão (sessionStorage), para quem volta
 // de um artigo. O topo e a vitrine chegam prontos do servidor; a vitrine sai enquanto há texto na busca.
 
-// O useSyncExternalStore lê a URL (só a desta lista, ver urlSearchOf); o evento avisa das trocas da própria
-// estante, e o ShelfUrlListener, das de fora (voltar, avançar ou um link para esta página). O
-// useSearchParams fica nele, com Suspense próprio: assim o prerender não para no Suspense e o HTML estático
-// traz os cartões.
-const URL_EVENT = 'reviews-shelf-url';
 const VIEW_EVENT = 'reviews-shelf-view';
 const VIEW_KEY = 'reviews-modo';
 const PAGE_KEY = 'reviews-pagina:';
@@ -83,24 +77,6 @@ const VIEWS: Array<{ value: ShelfView; label: string; Icon: typeof LayoutGrid }>
   { value: 'grade', label: 'Grade', Icon: LayoutGrid },
   { value: 'lista', label: 'Lista', Icon: List },
 ];
-
-function subscribeToUrl(onChange: () => void) {
-  window.addEventListener(URL_EVENT, onChange);
-  return () => window.removeEventListener(URL_EVENT, onChange);
-}
-
-const getServerSearch = () => '';
-
-function ShelfUrlListener() {
-  // Fora do App Router (no teste) não há parâmetros.
-  const search = useSearchParams()?.toString() ?? '';
-
-  useEffect(() => {
-    window.dispatchEvent(new Event(URL_EVENT));
-  }, [search]);
-
-  return null;
-}
 
 // O modo vive em memória e o localStorage o guarda: a memória é lida primeiro, então sem localStorage
 // (bloqueado ou numa pré-visualização) o modo escolhido vale até sair da página. O que outra aba grava
@@ -169,42 +145,8 @@ function writeUrl(
   mode: 'push' | 'replace'
 ): ShelfQuery {
   const next = update(readQuery(window.location.search));
-  const url = `${window.location.pathname}${withShelfQuery(window.location.search, next)}${window.location.hash}`;
-  if (mode === 'push') window.history.pushState(null, '', url);
-  else window.history.replaceState(null, '', url);
-  window.dispatchEvent(new Event(URL_EVENT));
+  writeListUrl(withShelfQuery(window.location.search, next), mode);
   return readQuery(window.location.search);
-}
-
-// A troca animada da estante: data-trocando liga, no globals.css, o nome de transição de cada item (a
-// variável --vt) só durante a troca. Sem a API (Firefox) ou com "reduzir movimento", troca na hora. Uma
-// troca nova encerra a anterior; só a última tira o data-trocando.
-let transitionCount = 0;
-
-function runShelfTransition(shelf: HTMLElement | null, update: () => void) {
-  if (
-    !shelf ||
-    typeof document.startViewTransition !== 'function' ||
-    window.matchMedia('(prefers-reduced-motion: reduce)').matches
-  ) {
-    update();
-    return;
-  }
-  const id = ++transitionCount;
-  shelf.dataset.trocando = '';
-  const done = () => {
-    if (id === transitionCount) delete shelf.dataset.trocando;
-  };
-  try {
-    const transition = document.startViewTransition(() => flushSync(update));
-    // Uma troca que pula a anterior rejeita o ready dela: não é erro.
-    transition.ready.catch(() => {});
-    transition.finished.then(done, done);
-  } catch {
-    // A API existe, mas a chamada falhou: nada de nome de transição preso, e a troca acontece na hora.
-    done();
-    update();
-  }
 }
 
 type ReviewsBrowserProps = {
@@ -240,8 +182,7 @@ export function ReviewsBrowser({
   // O degradê da borda direita dos chips só aparece enquanto há chip escondido; no fim da fila, o último
   // chip fica inteiro. O hook é chamado sempre: sem a fila na tela (uma categoria só), ele não faz nada.
   const { trackRef: categoriesRef, moreToTheRight: moreCategories } = useRowScroll<HTMLDivElement>(categories);
-  const getUrlSearch = useCallback(() => urlSearchOf(listPath, window.location), [listPath]);
-  const urlSearch = useSyncExternalStore(subscribeToUrl, getUrlSearch, getServerSearch);
+  const { urlSearch, getUrlSearch } = useListUrlSearch(listPath);
   const canSearch = search !== null;
   const readQuery = useCallback(
     (raw: string) => readShelfQuery(raw, categoryValues, canSearch),
@@ -417,9 +358,7 @@ export function ReviewsBrowser({
 
   return (
     <>
-      <Suspense fallback={null}>
-        <ShelfUrlListener />
-      </Suspense>
+      <ListUrlListener />
 
       <header className={`${SHELF_CONTAINER} pt-8 pb-8 md:pt-12 md:pb-12`}>
         {hero}

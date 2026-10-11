@@ -188,18 +188,9 @@ export function readShelfQuery(
   return searchable ? query : { ...query, q: '' };
 }
 
-// A URL é a da própria lista? Numa navegação no cliente o endereço muda antes ou depois da página: o
-// primeiro quadro depois de um link ainda vê o endereço da anterior, e um Voltar ou Avançar que sai da
-// lista troca o endereço com a estante ainda na tela. Fora da lista a estante não lê a URL, não grava a
-// busca nem a página aberta.
-export function isOnList(listPath: string, pathname: string): boolean {
-  return pathname === listPath;
-}
-
-// A query string que a estante enxerga no navegador: só a da própria lista.
-export function urlSearchOf(listPath: string, location: { pathname: string; search: string }): string {
-  return isOnList(listPath, location.pathname) ? location.search : '';
-}
+// A leitura da URL vale para toda lista com filtro na query string (a estante e /videos): fora da lista, a
+// estante não lê a URL, não grava a busca nem a página aberta.
+export { isOnList, urlSearchOf } from '@/lib/listUrl';
 
 // A query string da estante: a busca como foi digitada (sem ela quando só tem espaço), a categoria e a
 // ordem, só quando não é a padrão.
