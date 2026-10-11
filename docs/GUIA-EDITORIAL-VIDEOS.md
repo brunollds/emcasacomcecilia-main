@@ -68,8 +68,8 @@ Toda definição em `src/lib/video-pages.js` leva `aspect`, que o player da pág
 - `horizontal`: vídeo comum do YouTube (16:9);
 - `square`: MP4 quadrado do site. Um MP4 vertical ou deitado usa `vertical` ou `horizontal`.
 
-O build não consulta a rede, então o campo é editorial. Para conferir um vídeo do YouTube antes de
-publicar:
+A validação (`validate:video`) não consulta a rede, então o campo é editorial. Para conferir um vídeo
+do YouTube antes de publicar:
 
 ```bash
 curl -s -o /dev/null -w "%{http_code}\n" https://www.youtube.com/shorts/<id>
@@ -180,7 +180,8 @@ janela da Central e o `sourceHash`.
   mais novo também é o destaque do topo.
 - **Os chips** são as lojas ativas com 2 ou mais vídeos, pela loja (`affiliate`) do artigo de origem. O
   vídeo de receita, de artigo sem loja ou de loja com um vídeo só aparece em "Todos".
-- **Na página do vídeo,** o botão "Ver o código da <loja>" aparece quando o artigo de origem tem loja
-  ativa, e "Mais vídeos" mostra primeiro os da mesma loja, depois os mais novos.
+- **Na página do vídeo,** o botão "Ver o código da <loja>" (ou "do <loja>", conforme a loja:
+  `codeLinkLabel`) aparece quando o artigo de origem tem loja ativa, e "Mais vídeos" mostra primeiro os
+  da mesma loja, depois os mais novos.
 - **Na home e em "Últimos do canal",** entram os 6 uploads mais novos do canal (API do YouTube); o que já
   tem página no site leva a ela.

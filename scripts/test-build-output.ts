@@ -48,8 +48,9 @@ import { LABEL_SAME_AS_PORTUGUESE, codeAsCouponRegExp, getPtStoreTexts, isStoreL
 // das lojas traduzidas e dos artigos de cada família, as páginas da YesStyle, o dock, a sidebar, a
 // trilha e a interface dos artigos no idioma de cada um, os textos que citam o CECILIA010, a home,
 // a estante de /reviews e das subpáginas de loja e as páginas de data (as subpáginas e as datas,
-// ambas com a imagem de compartilhamento), as homes de cada idioma, o JSON-LD e o lastmod do
-// sitemap. O <html lang> fica com test-c2-html-lang.
+// ambas com a imagem de compartilhamento), /videos e as páginas de vídeo (uma por entrada de
+// video-pages.js), as homes de cada idioma, o JSON-LD e o lastmod do sitemap. O <html lang> fica
+// com test-c2-html-lang.
 const SITE_URL = 'https://emcasacomcecilia.com';
 const APP_DIR = path.resolve('.next/server/app');
 const CSS_DIR = path.resolve('.next/static/css');
@@ -1630,6 +1631,15 @@ for (const hubPath of eventHubPaths) {
 const videoSources = { reviews: publishedReviews, recipes };
 const videosHub = getVideosHubContent(videoSources);
 const videoLinksIn = (html: string) => [...html.matchAll(/<a\b[^>]*\bhref="\/videos\/([^"/?#]+)"/g)].map(([, slug]) => slug);
+// Os videoId dos vídeos que têm página no site (só os do YouTube têm um): o canal e a home abrem a página
+// desses, nunca o YouTube.
+const videoIdsWithPage = new Set<string>(videoPages.flatMap((page) => (page.kind === 'youtube' ? [page.videoId] : [])));
+assert.ok(videoIdsWithPage.size > 0, 'video-pages.js sem nenhum vídeo do YouTube: a trava do canal e da home ficaria vazia');
+function assertNoYoutubeLinkForPage(where: string, section: string) {
+  for (const [, id] of section.matchAll(/<a\b[^>]*\bhref="https:\/\/www\.youtube\.com\/watch\?v=([^"&]+)"/g)) {
+    assert.ok(!videoIdsWithPage.has(id), `${where}: vídeo com página no site abrindo o YouTube: ${id}`);
+  }
+}
 const videosFile = builtFile(`${SITE_URL}/videos`);
 assert.ok(videosFile, '/videos: página não gerada no build');
 const videosHtml = read(videosFile);
@@ -1639,11 +1649,13 @@ assert.deepEqual(
   ['Vídeos'],
   '/videos: h1'
 );
-assert.deepEqual(
-  [...new Set(videoLinksIn(between(videosBody, 'aria-labelledby="titulo-destaque"', ['</section>'])))],
-  [videosHub.featured.slug],
-  '/videos: destaque'
+const featuredLinks = videoLinksIn(between(videosBody, 'aria-labelledby="titulo-destaque"', ['</section>']));
+assert.equal(
+  featuredLinks.filter((slug) => slug === videosHub.featured.slug).length,
+  2,
+  `/videos: o destaque tem de ter dois links para ${videosHub.featured.slug}, a miniatura e o título`
 );
+assert.deepEqual([...new Set(featuredLinks)], [videosHub.featured.slug], '/videos: destaque');
 const videosGrid = between(videosBody, '<ul data-estante="videos"', ['</ul>']);
 assert.deepEqual(videoLinksIn(videosGrid), videosHub.videos.map(({ slug }) => slug), '/videos: a grade, do mais novo');
 for (const [tag] of videosGrid.matchAll(/<a\b[^>]*>/g)) {
@@ -1667,8 +1679,12 @@ assert.equal(videosBody.match(/video-player-/g)?.length ?? 0, videoMorphNames, '
 assertPageTrail('/videos', videosHtml, VIDEOS_TRAIL);
 assertListPageSeo('/videos', videosHtml, { items: videosHub.videos.length, image: videosHub.socialImage });
 assertCollectionNames('/videos', videosHtml, videosHub.videos.map(({ title }) => title));
+// O canal some, com razão, quando a API do YouTube falha ou a chave falta na hora do build; cobrar a seção
+// derrubaria um deploy por um soluço externo. Por isso estas travas só valem com a seção no HTML: um bug que
+// a tire com a API respondendo não é pego aqui, e só aparece como "canal: ausente" na linha final do log.
 const videosChannel = between(videosBody, 'aria-labelledby="titulo-canal"', ['</section>']);
 if (videosChannel) {
+  assertNoYoutubeLinkForPage('/videos', videosChannel);
   // O React escreve o target antes do href: o link é achado pelo endereço, e os atributos conferidos à parte.
   const subscribeLink = [...videosChannel.matchAll(/<a\b([^>]*)>([\s\S]*?)<\/a>/g)].find(([, attributes]) =>
     attributes.includes(hrefOf(YOUTUBE_SUBSCRIBE_URL))
@@ -1699,13 +1715,29 @@ function assertVideoWatchPage(pagePath: string, html: string, content: VideoPage
   assert.doesNotMatch(afterH1.slice(0, playerAt), /<(?:iframe|video|img|ul)\b/, `${pagePath}: algo entre o h1 e o player`);
   const frame = afterH1.slice(playerAt).match(/^data-player="[^"]+"[^>]*>/)?.[0] ?? '';
   assert.ok(frame.startsWith(`data-player="${video.aspect}"`), `${pagePath}: player fora do formato ${video.aspect}`);
-  assert.ok(frame.includes(`view-transition-name:${videoMorphName(video.slug)}`), `${pagePath}: player sem o nome da transição`);
+  // O nome vai até o `;` ou o `"` que fecha o style: um sufixo (video-player-<slug>-extra) não passa.
+  assert.equal(frame.match(/view-transition-name:([^;"]+)/)?.[1], videoMorphName(video.slug), `${pagePath}: player sem o nome da transição`);
   assert.equal(body.match(/<(?:iframe|video)\b/g)?.length ?? 0, 1, `${pagePath}: mais de um player`);
   assert.ok(article.includes(`href="${video.source.href}"`), `${pagePath}: sem o link da origem`);
-  assert.equal(textOf(article).includes('Ver o código'), video.codeLink !== null, `${pagePath}: botão da loja onde não devia, ou faltando`);
-  if (video.codeLink) assert.ok(article.includes(`href="${video.codeLink.href}"`), `${pagePath}: botão sem a página de cupom`);
-  assert.equal(textOf(article).includes('Duração:'), video.duration !== null, `${pagePath}: duração onde não devia, ou faltando`);
-  assert.doesNotMatch(textOf(article), /undefined|NaN/, `${pagePath}: texto quebrado`);
+  const articleText = textOf(article);
+  if (video.codeLink) {
+    assert.ok(articleText.includes(video.codeLink.label), `${pagePath}: botão da loja onde não devia, ou faltando`);
+    assert.ok(article.includes(`href="${video.codeLink.href}"`), `${pagePath}: botão sem a página de cupom`);
+  } else {
+    assert.ok(!articleText.includes('Ver o código'), `${pagePath}: botão da loja onde não devia, ou faltando`);
+  }
+  assert.equal(articleText.includes('Duração:'), video.duration !== null, `${pagePath}: duração onde não devia, ou faltando`);
+  // Texto quebrado na tela e nos valores de alt, aria-label, title e meta (os atributos, não o HTML cru: um id
+  // do YouTube ou um endereço pode ter essas letras). Na tela, cada tag vira um espaço: sem ele, o texto de
+  // um elemento colaria no do vizinho ("vídeo" + "undefined") e o \b não separaria a palavra.
+  const BROKEN_TEXT = /\bundefined\b|\bNaN\b/;
+  assert.doesNotMatch(decodeHtml(article.replace(/<[^>]+>/g, ' ')), BROKEN_TEXT, `${pagePath}: texto quebrado`);
+  const articleAttributes = [...article.matchAll(/\s(?:alt|aria-label|title)="([^"]*)"/g)].map(([, value]) => decodeHtml(value));
+  const metaContents = [...headOf(html).matchAll(/<meta\b[^>]*\bcontent="([^"]*)"/g)].map(([, value]) => decodeHtml(value));
+  assert.ok(articleAttributes.length > 0 && metaContents.length > 0, `${pagePath}: sem atributos de texto nem meta para conferir`);
+  for (const value of [...articleAttributes, ...metaContents]) {
+    assert.doesNotMatch(value, BROKEN_TEXT, `${pagePath}: texto quebrado num atributo: ${value}`);
+  }
   assert.deepEqual(
     videoLinksIn(between(body, 'aria-labelledby="titulo-mais-videos"', ['</section>'])),
     content.more.videos.map(({ slug }) => slug),
@@ -1735,12 +1767,19 @@ const videoWatchPages = videoPages.map((page) => {
   const { pagePath, html, content } = sample;
   const otherAspect = content.video.aspect === 'horizontal' ? 'vertical' : 'horizontal';
   const label = content.video.codeLink?.label ?? '';
+  const morphName = videoMorphName(content.video.slug);
   const failures: Array<[string, RegExp]> = [
     [html.replace('</h1>', '</h1><ul></ul>'), /algo entre o h1 e o player/],
     [html.replace(`data-player="${content.video.aspect}"`, `data-player="${otherAspect}"`), /player fora do formato/],
     [html.replace(/<h1\b([^>]*)>/, '<h1$1>Outro título '), /h1 diferente do name do VideoObject/],
     [html.replace('</article>', '<iframe></iframe></article>'), /mais de um player/],
     [html.split(escapeHtml(label)).join('Outro texto'), /botão da loja onde não devia, ou faltando/],
+    // Só o nome da loja errado: o "Ver o código" continua na página, e o rótulo inteiro não.
+    [html.split(escapeHtml(label)).join('Ver o código da OUTRA'), /botão da loja onde não devia, ou faltando/],
+    [html.replace(`view-transition-name:${morphName}`, `view-transition-name:${morphName}-extra`), /player sem o nome da transição/],
+    [html.replace('Sobre este vídeo</h2>', 'Sobre este vídeo</h2><p>undefined</p>'), /texto quebrado/],
+    [html.replace('aria-label="Player do vídeo:', 'aria-label="undefined Player do vídeo:'), /texto quebrado num atributo/],
+    [html.replace('<meta name="description" content="', '<meta name="description" content="NaN '), /texto quebrado num atributo/],
     [html.replace('aria-labelledby="titulo-mais-videos"', 'aria-labelledby="titulo-outro"'), /Mais vídeos/],
   ];
   for (const [mutated, message] of failures) {
@@ -1750,8 +1789,9 @@ const videoWatchPages = videoPages.map((page) => {
 }
 
 // Os Últimos vídeos da home (quando a API do YouTube respondeu no build): o "Ver todos os vídeos"; o vídeo com
-// página no site abre a página na mesma aba, e o do YouTube numa aba nova. Todo cartão da fila é de um dos
-// dois tipos, para os dois laços não passarem vazios quando os 6 uploads são de um tipo só.
+// página no site abre a página na mesma aba, e o do YouTube numa aba nova, com rel="noopener noreferrer", e
+// nunca é o de um vídeo que tem página. Todo cartão da fila é de um dos dois tipos, para os dois laços não
+// passarem vazios quando os 6 uploads são de um tipo só.
 function assertHomeVideoLinks(section: string) {
   assert.match(section, /<a\b[^>]*href="\/videos"[^>]*>Ver todos os vídeos<\/a>/, 'home: sem o "Ver todos os vídeos"');
   const row = between(section, '<ul class="hide-scrollbar', ['</ul>']);
@@ -1765,9 +1805,15 @@ function assertHomeVideoLinks(section: string) {
     } else {
       assert.match(tag, /\bhref="https:\/\/www\.youtube\.com\/watch\?v=[^"]+"/, `home: vídeo sem a página nem o link do YouTube: ${tag}`);
       assert.ok(tag.includes('target="_blank"'), `home: vídeo do YouTube sem aba nova: ${tag}`);
+      assert.ok(tag.includes('rel="noopener noreferrer"'), `home: vídeo do YouTube sem rel="noopener noreferrer": ${tag}`);
     }
   }
+  assertNoYoutubeLinkForPage('home', row);
 }
+// Como o canal de /videos, a fila da home some, com razão, quando a API do YouTube falha ou a chave falta na
+// hora do build, e cobrá-la derrubaria um deploy por um soluço externo. Estas travas só valem com a seção no
+// HTML: um bug que a tire com a API respondendo não é pego aqui, e só aparece como "vídeos: ausentes" na
+// linha final do log.
 const homeVideos = between(homeBody, 'aria-labelledby="titulo-ultimos-videos"', ['aria-labelledby="titulo-', '<footer']);
 if (homeVideos) assertHomeVideoLinks(homeVideos);
 
@@ -1777,17 +1823,30 @@ if (homeVideos) assertHomeVideoLinks(homeVideos);
   const pageCard = '<li><a class="x" href="/videos/um-video">T</a></li>';
   const section = (...cards: string[]) =>
     `<ul class="hide-scrollbar x">${cards.join('')}</ul><a class="y" href="/videos">Ver todos os vídeos</a>`;
-  assertHomeVideoLinks(section(youtubeCard, pageCard));
+  const good = section(youtubeCard, pageCard);
+  assertHomeVideoLinks(good);
+  // Um id real de video-pages.js no lugar do `abc`: o cartão abriria o YouTube em vez da página do site.
+  const [pageVideoId] = videoIdsWithPage;
+  const cardWithPage = youtubeCard.replace('abc', () => pageVideoId);
   const failures: Array<[string, RegExp]> = [
     [section(youtubeCard, pageCard.replace('<a ', '<a target="_blank" ')), /vídeo com página abrindo em aba nova/],
     [section(youtubeCard.replace(' target="_blank"', ''), pageCard), /vídeo do YouTube sem aba nova/],
+    [section(youtubeCard.replace(' rel="noopener noreferrer"', ''), pageCard), /vídeo do YouTube sem rel="noopener noreferrer"/],
     [section(youtubeCard, '<li><a class="x" href="https://example.com/">T</a></li>'), /vídeo sem a página nem o link do YouTube/],
     [section(youtubeCard, pageCard).replace('Ver todos os vídeos', 'Ver tudo'), /sem o "Ver todos os vídeos"/],
     [section(), /sem a fila de cartões/],
+    [section(cardWithPage, pageCard), new RegExp(`home: vídeo com página no site abrindo o YouTube: ${pageVideoId}`)],
   ];
   for (const [mutated, message] of failures) {
+    assert.notEqual(mutated, good, `controle: a mutação não mudou nada (${message})`);
     assert.throws(() => assertHomeVideoLinks(mutated), message);
   }
+  // O mesmo guarda no canal de /videos, com o texto dele.
+  assertNoYoutubeLinkForPage('/videos', good);
+  assert.throws(
+    () => assertNoYoutubeLinkForPage('/videos', cardWithPage),
+    new RegExp(`/videos: vídeo com página no site abrindo o YouTube: ${pageVideoId}`)
+  );
 }
 
 // O feed do Dicas & Ofertas e a API do YouTube decidem na hora do build se ofertas e vídeos
