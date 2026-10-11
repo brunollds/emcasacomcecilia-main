@@ -38,10 +38,10 @@ e `/<locale>/coupons/shein`), servida por rota dinâmica com os textos de
 
 | Chave | Fonte PT | Idiomas | Estado |
 |---|---|---:|---|
-| `shein-black-friday` | [[02_Artigos/black-friday-shein]] | 10/10 | pronto para deploy (11/10/2026); a primeira família da SHEIN |
+| `shein-black-friday` | [[02_Artigos/black-friday-shein]] | 10/10 | publicado em 11/10/2026; a primeira família da SHEIN |
 
-Quando a primeira família sair, registrar aqui a chave, o slug da fonte em português
-e a data (Job 4, seção 3, item 9).
+Cada família nova entra aqui com a chave, o slug da fonte em português e a data (Job 4,
+seção 3, item 9).
 
 ## Regras específicas
 
