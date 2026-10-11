@@ -174,6 +174,57 @@ assert.match(
   'CSS com a troca de loja fora do @media de prefers-reduced-motion: no-preference'
 );
 
+// O movimento da estante de /reviews e das subpáginas (D2.2) também só com o movimento liberado. Cada
+// seletor aparece ao menos uma vez no CSS gerado, e toda ocorrência fica dentro de um @media com
+// prefers-reduced-motion: no-preference. O Lightning CSS mantém o espaço do seletor descendente e o
+// :root:has(…) como no globals.css; a ocorrência não pode ser o começo de outro nome (.estante-entra-x).
+const SHELF_MOTION_SELECTORS = [
+  '.marca-texto-entra',
+  '.estante-entra',
+  '.carimbo-assenta',
+  '[data-trocando] .estante-item',
+  ':root:has([data-trocando])',
+];
+function occurrencesOf(source: string, selector: string) {
+  const found: number[] = [];
+  for (let at = source.indexOf(selector); at !== -1; at = source.indexOf(selector, at + 1)) {
+    if (!/[\w-]/.test(source[at + selector.length] ?? '')) found.push(at);
+  }
+  return found;
+}
+function assertShelfMotionOnlyWhenAllowed(source: string) {
+  for (const selector of SHELF_MOTION_SELECTORS) {
+    const found = occurrencesOf(source, selector);
+    assert.ok(found.length > 0, `CSS sem ${selector} (movimento da estante)`);
+    for (const at of found) {
+      assert.match(
+        enclosingBlockHeader(source, at),
+        /prefers-reduced-motion:\s*no-preference/,
+        `CSS com ${selector} fora do @media de prefers-reduced-motion: no-preference`
+      );
+    }
+  }
+}
+assertShelfMotionOnlyWhenAllowed(css);
+// Controles, numa cópia do CSS: a regra solta fora do @media, o @media que perde o no-preference e o
+// seletor que some derrubam a trava.
+{
+  const shelfAt = css.indexOf('.estante-entra');
+  const header = enclosingBlockHeader(css, shelfAt);
+  const headerAt = css.lastIndexOf(header, shelfAt);
+  assert.ok(header && headerAt >= 0, 'controle: o .estante-entra está dentro de um @media');
+  assert.throws(() => assertShelfMotionOnlyWhenAllowed(`${css}\n.estante-entra{animation:none}`), /\.estante-entra fora do @media/);
+  assert.throws(
+    () => assertShelfMotionOnlyWhenAllowed(css.slice(0, headerAt) + '@media screen' + css.slice(headerAt + header.length)),
+    /fora do @media/
+  );
+  assert.throws(
+    () => assertShelfMotionOnlyWhenAllowed(`${css}\n:root:has([data-trocando])::view-transition{pointer-events:none}`),
+    /:root:has\(\[data-trocando\]\) fora do @media/
+  );
+  assert.throws(() => assertShelfMotionOnlyWhenAllowed(css.replaceAll('.carimbo-assenta', '.carimbo-outro')), /sem \.carimbo-assenta/);
+}
+
 const sitemapBody = read(path.join(APP_DIR, 'sitemap.xml.body'));
 const sitemapUrls = [...sitemapBody.matchAll(/<loc>([^<]+)<\/loc>/g)].map(([, url]) => url);
 assert.ok(sitemapUrls.length > 0, 'sitemap.xml sem URLs');
@@ -1205,11 +1256,9 @@ function assertShelfPage(
     assert.match(tag, /\bclass="[^"]* focus-visible:outline-marinho[ "]/, `${where}: cartão sem o anel de foco da casa: ${tag}`);
   }
   assert.ok(!body.includes('view-transition-name'), `${where}: nome de transição no HTML`);
-  assert.equal(
-    body.match(/review-hero-/g)?.length ?? 0,
-    body.match(/data-vt-name="review-hero-/g)?.length ?? 0,
-    `${where}: review-hero- fora do data-vt-name`
-  );
+  const heroNames = body.match(/data-vt-name="review-hero-/g)?.length ?? 0;
+  assert.ok(heroNames > 0, `${where}: nenhuma foto com o nome da transição (data-vt-name)`);
+  assert.equal(body.match(/review-hero-/g)?.length ?? 0, heroNames, `${where}: review-hero- fora do data-vt-name`);
   const label = body.match(/<label for="busca-estante"[^>]*>([^<]*)<\/label>/)?.[1];
   assert.equal(body.includes('role="search"'), expected.searchLabel !== null, `${where}: busca onde não devia, ou faltando`);
   assert.equal(label === undefined ? null : decodeHtml(label), expected.searchLabel, `${where}: rótulo da busca`);
@@ -1276,6 +1325,10 @@ assert.ok(!reviewsHtml.includes('data-reveal'), '/reviews: data-reveal no HTML')
   assert.throws(
     () => assertShelfPage('/reviews', reviewsBody.replace('data-vt-name="review-hero-', 'data-x="review-hero-'), reviewsShelf),
     /review-hero- fora do data-vt-name/
+  );
+  assert.throws(
+    () => assertShelfPage('/reviews', reviewsBody.replaceAll(/ data-vt-name="review-hero-[^"]*"/g, ''), reviewsShelf),
+    /nenhuma foto com o nome da transição/
   );
   assert.throws(() => assertShelfPage('/reviews', reviewsBody, { ...reviewsShelf, searchLabel: null }), /busca onde/);
   assert.throws(() => assertShelfPage('/reviews', withoutSearch, reviewsShelf), /busca onde/);

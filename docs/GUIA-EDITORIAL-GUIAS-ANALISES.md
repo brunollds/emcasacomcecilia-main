@@ -137,8 +137,10 @@ e com `locale` português ou sem `locale`) aparece:
   bolinha dela em "Por loja", quando a loja está ativa e tem mais de 3 artigos.
 
 `category` continua valendo para os filtros de `/reviews`, e `isNew` põe o artigo nas Novidades de
-`/reviews` e o selo "Novo" no cartão dele, sem mudar a ordem da lista. `type`, `reviewKind`, `isNew`, `pros/cons` e a marca citada no texto não mudam o lugar do
-artigo na home.
+`/reviews` e o selo "Novo" no cartão dele na grade, sem mudar a ordem da lista. A linha do modo lista
+e as Novidades não têm o selo (o `ReviewShelfRow` não o tem, e as Novidades usam
+`showNewBadge={false}`). `type`, `reviewKind`, `isNew`, `pros/cons` e a marca citada no texto não
+mudam o lugar do artigo na home.
 
 Fora do português, o artigo aparece na home do idioma (`/<locale>`, `src/lib/localeHome.ts`): os 6
 mais novos do idioma por `publishedAtISO`, além da lista completa em `/<locale>/reviews`. Rascunho

@@ -58,8 +58,8 @@ depende do tipo:
 - tirar o chip “novo” dos artigos do mês que acabou: só os artigos do mês corrente ficam com
   `"isNew": true`. Trocar só essa linha em cada JSON, sem reformatar, e rodar
   `node scripts/content/build-index.mjs`. O `isNew` põe o artigo nas Novidades de `/reviews` e o
-  selo “novo” no cartão; a ordem da lista não muda. Conferir as Novidades depois. Traduções já saem
-  com `isNew: false`.
+  selo “novo” no cartão da grade (a linha do modo lista e as Novidades não têm o selo); a ordem da
+  lista não muda. Conferir as Novidades depois. Traduções já saem com `isNew: false`.
 
 ### Depois da publicação
 
