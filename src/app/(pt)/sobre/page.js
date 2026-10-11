@@ -11,6 +11,7 @@ import {
   Utensils,
 } from 'lucide-react';
 import { brandLinks } from '@/lib/brandLinks';
+import { CECILIA_PERSON_ID } from '@/lib/ceciliaCredentials';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const SITE_BASE_URL = 'https://emcasacomcecilia.com';
@@ -95,6 +96,7 @@ const partners = [
 const personJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Person',
+  '@id': CECILIA_PERSON_ID,
   name: 'Cecília Mauad',
   url: 'https://emcasacomcecilia.com/sobre',
   image: aboutImageUrl('/images/photos/BRU-1.jpg'),

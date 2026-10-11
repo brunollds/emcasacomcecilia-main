@@ -93,6 +93,30 @@ const bodyOf = (html: string) =>
 const jsonLdOf = (html: string) =>
   [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].map(([, json]) => JSON.parse(json));
 
+// A Cecília é uma pessoa só no JSON-LD: o Person da /sobre e o das 9 homes de idioma, e a autoria dos
+// artigos e das receitas dela, levam este mesmo @id. O valor está escrito aqui de propósito: um id que
+// mudasse sem querer na constante do código passaria, se o teste lesse dela.
+const CECILIA_PERSON_ID = `${SITE_URL}/sobre#cecilia`;
+const personNodesChecked: Record<'sobre' | 'home' | 'artigo' | 'receita', string[]> = { sobre: [], home: [], artigo: [], receita: [] };
+
+// A autoria do Article, Review ou Recipe da página: cada autor que é a Cecília (a url é a /sobre ou o nome é o
+// dela) leva o @id; outro autor, como o Bruno, fica sem @id.
+function assertCeciliaAuthorId(kind: 'artigo' | 'receita', pagePath: string, html: string) {
+  const node = jsonLdOf(html).find((schema) => ['Article', 'Review', 'Recipe'].includes(schema['@type']));
+  assert.ok(node, `${pagePath}: sem Article, Review ou Recipe no JSON-LD`);
+  const authors: Array<Record<string, string>> = [node.author].flat();
+  assert.ok(authors.length > 0, `${pagePath}: JSON-LD sem autor`);
+  for (const author of authors) {
+    const isCecilia = author.url === `${SITE_URL}/sobre` || author.name === 'Cecília Mauad';
+    if (isCecilia) {
+      assert.equal(author['@id'], CECILIA_PERSON_ID, `${pagePath}: o autor "${author.name}" sem o @id da Cecília`);
+      personNodesChecked[kind].push(pagePath);
+    } else {
+      assert.equal(author['@id'], undefined, `${pagePath}: o autor "${author.name}" não é a Cecília e leva o @id dela`);
+    }
+  }
+}
+
 // Canonical, hreflang e og:locale de uma página que existe em vários idiomas.
 function assertLocalizedHead(pagePath: string, head: string, alternates: string[], openGraphLocale: string) {
   assert.equal(head.match(/<link rel="canonical" href="([^"]+)"/)?.[1], `${SITE_URL}${pagePath}`, `${pagePath}: canonical`);
@@ -592,6 +616,7 @@ for (const url of articleUrls) {
   const html = read(file);
   const body = bodyOf(html);
   assert.equal(openElementsAt(body, body.length), 0, `${pagePath}: as tags do <body> não fecham`);
+  assertCeciliaAuthorId('artigo', pagePath, html);
 
   const dialogs = body.match(/<dialog\b[\s\S]*?<\/dialog>/g) ?? [];
   assert.equal(dialogs.length, 1, `${pagePath}: ${dialogs.length} gavetas de sumário em vez de uma`);
@@ -758,7 +783,9 @@ for (const url of recipeUrls) {
   const pagePath = new URL(url).pathname;
   const file = builtFile(url);
   assert.ok(file, `${pagePath}: página não gerada no build`);
-  assert.equal(trailLabelOf(bodyOf(read(file))), getArticleCopy('pt').breadcrumbLabel, `${pagePath}: nome da trilha da receita`);
+  const html = read(file);
+  assert.equal(trailLabelOf(bodyOf(html)), getArticleCopy('pt').breadcrumbLabel, `${pagePath}: nome da trilha da receita`);
+  assertCeciliaAuthorId('receita', pagePath, html);
 }
 
 // A home de cada idioma (/en, /ja…):
@@ -821,6 +848,8 @@ for (const locale of LOCALE_HOME_LOCALES) {
   assert.deepEqual(schemas.map((schema) => schema['@type']).sort(), ['FAQPage', 'Person'], `${pagePath}: tipos do JSON-LD`);
   const person = schemas.find((schema) => schema['@type'] === 'Person');
   assert.equal(person.name, CECILIA_FULL_NAME, `${pagePath}: Person sem o nome completo`);
+  assert.equal(person['@id'], CECILIA_PERSON_ID, `${pagePath}: Person sem o @id da Cecília`);
+  personNodesChecked.home.push(pagePath);
   assert.deepEqual(
     person.sameAs,
     content.follow.networks.map((network) => network.href),
@@ -872,6 +901,21 @@ for (const locale of LOCALE_HOME_LOCALES) {
 
   assert.ok(sitemapUrls.includes(`${SITE_URL}${pagePath}`), `sitemap.xml sem ${pagePath}`);
   assert.ok(llmsUrls.includes(`${SITE_URL}${pagePath}`), `llms.txt sem ${pagePath}`);
+}
+
+// O Person da /sobre é a mesma Cecília das homes, e nenhum grupo de nós conferidos fica vazio: sem isto, um
+// extrator que não achasse nada faria a conferência do @id passar à toa.
+{
+  const sobreFile = builtFile(`${SITE_URL}/sobre`);
+  assert.ok(sobreFile, '/sobre: página não gerada no build');
+  const sobrePerson = jsonLdOf(read(sobreFile)).find((schema) => schema['@type'] === 'Person');
+  assert.ok(sobrePerson, '/sobre: sem o Person no JSON-LD');
+  assert.equal(sobrePerson['@id'], CECILIA_PERSON_ID, '/sobre: Person sem o @id da Cecília');
+  assert.equal(sobrePerson.url, `${SITE_URL}/sobre`, '/sobre: o @id aponta para a página, e o url dela mudou');
+  personNodesChecked.sobre.push('/sobre');
+  assert.equal(personNodesChecked.home.length, LOCALE_HOME_LOCALES.length, 'o @id da Cecília não foi conferido nas 9 homes de idioma');
+  assert.ok(personNodesChecked.artigo.length > 0, 'nenhum autor de artigo conferido para o @id da Cecília');
+  assert.ok(personNodesChecked.receita.length > 0, 'nenhum autor de receita conferido para o @id da Cecília');
 }
 
 // Toda página que cita o CECILIA010 segue a regra: as 10 da YesStyle, os artigos, /cupons e as lojas
@@ -1862,5 +1906,5 @@ const cardsIn = (section: string) => {
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, a nota editorial de ${notedArticles}, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data e ${LOCALE_HOME_LOCALES.length} homes de idioma conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, a nota editorial de ${notedArticles}, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
 );

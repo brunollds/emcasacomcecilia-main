@@ -6,7 +6,7 @@ import {
   LocaleHomeSafety,
   LocaleHomeStores,
 } from '@/components/sections/LocaleHomeSections';
-import { CECILIA_COUNTRY, CECILIA_REGION } from '@/lib/ceciliaCredentials';
+import { CECILIA_COUNTRY, CECILIA_PERSON_ID, CECILIA_REGION } from '@/lib/ceciliaCredentials';
 import { serializeJsonLd } from '@/lib/jsonLd';
 import type { LocaleHomeContent } from '@/lib/localeHome';
 import { absoluteUrl } from '@/lib/pageSeo';
@@ -18,6 +18,7 @@ export function getLocaleHomeJsonLd(content: LocaleHomeContent) {
     {
       '@context': 'https://schema.org',
       '@type': 'Person',
+      '@id': CECILIA_PERSON_ID,
       name: content.hero.name,
       url: absoluteUrl(content.path),
       image: content.hero.photoUrl,
