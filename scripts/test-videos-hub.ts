@@ -6,6 +6,7 @@ import { imageConfigDefault, type ImageConfigComplete, type RemotePattern } from
 import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.shared-runtime';
 
 import { getArticleCopy } from '@/components/review/articleCopy';
+import { TrackedCouponPageLink } from '@/components/review/TrackedCouponPageLink';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { PageTrail } from '@/components/ui/PageTrail';
 import { ScrollRow } from '@/components/ui/ScrollRow';
@@ -13,7 +14,9 @@ import { TrackedVideosLink, VideoPageLink } from '@/components/videos/TrackedVid
 import { VideoCard } from '@/components/videos/VideoCard';
 import { VideoChannelRow } from '@/components/videos/VideoChannelRow';
 import { VideoFeatured } from '@/components/videos/VideoFeatured';
+import { VideoPlayer } from '@/components/videos/VideoPlayer';
 import { VideoRow } from '@/components/videos/VideoRow';
+import { VideoSourceCard } from '@/components/videos/VideoSourceCard';
 import { VideosBrowser } from '@/components/videos/VideosBrowser';
 import { brandLinks } from '@/lib/brandLinks';
 import { COUPONS } from '@/lib/couponsData';
@@ -588,6 +591,67 @@ const channelLinkTag =
 assert.ok(channelLinkTag, 'o link do canal');
 assert.ok(channelLinkTag.includes('target="_blank"') && channelLinkTag.includes('rel="noopener noreferrer"'), 'o link do canal numa aba nova');
 assert.equal(render(createElement(VideoChannelRow, { highlights: [] })), '', 'sem a API, sem a seção');
+
+// O player: a moldura no formato (data-player) com o nome da transição da miniatura; o YouTube num <iframe>
+// com os atributos de antes; o MP4 com controles, poster e o arquivo. O vertical não passa de min(45svh,
+// 405px) de largura (9/16 de min(80svh, 720px) de altura); o quadrado, de 80svh.
+const youtubePlayer = render(createElement(VideoPlayer, { video: item('cafe') }));
+assert.match(youtubePlayer, /^<section aria-label="Player do vídeo: Vídeo cafe">/);
+assert.match(youtubePlayer, /<div data-player="horizontal" class="[^"]*aspect-video[^"]*" style="view-transition-name:video-player-cafe">/);
+assert.match(youtubePlayer, /<iframe src="https:\/\/www\.youtube\.com\/embed\/cafe" title="Vídeo cafe"/);
+// O HTML não diferencia maiúsculas no nome do atributo, e o React pode escrever referrerPolicy e
+// allowFullScreen de um jeito ou de outro: a conferência ignora a caixa.
+const iframeTag = (youtubePlayer.match(/<iframe\b[^>]*>/)?.[0] ?? '').toLowerCase();
+for (const attribute of [
+  'allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"',
+  'referrerpolicy="strict-origin-when-cross-origin"',
+  'allowfullscreen=""',
+]) {
+  assert.ok(iframeTag.includes(attribute), `iframe sem ${attribute}`);
+}
+assert.match(render(createElement(VideoPlayer, { video: novo })), /data-player="vertical" class="[^"]*max-w-\[min\(45svh,405px\)\]/);
+const localPlayer = render(createElement(VideoPlayer, { video: local }));
+assert.match(localPlayer, /data-player="square" class="[^"]*max-w-\[min\(48rem,80svh\)\]/);
+assert.match(localPlayer, /<video controls="" preload="metadata" poster="[^"]+cafe-local-poster\.jpg"/);
+assert.ok(localPlayer.includes(`<source src="${local.player.kind === 'local' ? local.player.contentUrl : ''}" type="video/mp4"/>`));
+assert.ok(!localPlayer.includes('<iframe'));
+
+// A origem: "Do guia" com "Ler o guia" e, com loja ativa, o botão laranja do código; receita, "Da receita" com
+// "Ver a receita"; sem loja, sem o botão; sem foto, sem imagem.
+const sourceCard = render(createElement(VideoSourceCard, { video: novo }));
+assert.ok(textOf(sourceCard).startsWith('Do guiaGuia novo-damie'));
+assert.match(sourceCard, /<a\b[^>]*href="\/reviews\/novo-damie-guia"[^>]*>Ler o guia/);
+assert.match(sourceCard, /<a\b[^>]*href="\/cupons\/damie"[^>]*>Ver o código da DAMIE/);
+// O React escreve o class antes do href: o que se confere é a tag inteira, não a ordem dos atributos.
+const codeButtonTag = sourceCard.match(/<a\b[^>]*href="\/cupons\/damie"[^>]*>/)?.[0] ?? '';
+assert.ok(codeButtonTag.includes('bg-laranja'), `botão do código sem o laranja: ${codeButtonTag}`);
+const recipeCard = render(createElement(VideoSourceCard, { video: receita }));
+assert.ok(textOf(recipeCard).startsWith('Da receitaBolo de teste'));
+assert.match(recipeCard, /<a\b[^>]*href="\/receitas\/bolo-teste"[^>]*>Ver a receita/);
+for (const slug of ['receita', 'sem-loja', 'inativa']) {
+  assert.ok(!textOf(render(createElement(VideoSourceCard, { video: item(slug) }))).includes('Ver o código'), `${slug}: sem botão`);
+}
+assert.ok(!render(createElement(VideoSourceCard, { video: item('sem-loja') })).includes('<img'), 'sem foto, sem imagem');
+
+// O botão da loja conta como coupon_page_click, com o placement da página do vídeo e o slug do vídeo.
+assert.deepEqual(
+  gtagCallsOf(
+    TrackedCouponPageLink({
+      href: '/cupons/damie',
+      linkLabel: 'Ver o código da DAMIE',
+      placement: 'video_page',
+      contentSlug: 'novo-damie',
+      children: null,
+    })
+  ),
+  [
+    [
+      'event',
+      'coupon_page_click',
+      { brand: 'damie', content_slug: 'novo-damie', link_label: 'Ver o código da DAMIE', placement: 'video_page', url: '/cupons/damie' },
+    ],
+  ]
+);
 
 // Dados reais: toda página de vídeo entra, o destaque é o mais novo, cada chip tem 2 ou mais vídeos e
 // nenhuma página repete o próprio vídeo em "Mais vídeos".

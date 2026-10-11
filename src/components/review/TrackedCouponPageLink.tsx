@@ -12,7 +12,8 @@ export type CouponPageLinkPlacement =
   | 'review_sidebar'
   | 'review_mobile_drawer'
   | 'reviews_store_page'
-  | 'home_store_page';
+  | 'home_store_page'
+  | 'video_page';
 
 type TrackedCouponPageLinkProps = {
   href: string;
