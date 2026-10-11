@@ -42,9 +42,11 @@ import { getPublishedReviewsForLocale } from '@/lib/review-hubs';
 import {
   COUPON_WORD_LIST,
   LABEL_SAME_AS_PORTUGUESE,
+  assertCategoryTranslated,
   codeAsCouponRegExp,
   deriveStoreHosts,
   escapeRegExp,
+  getCategoriesSameAsPortuguese,
   getPtStoreTexts,
   getStoreHostMention,
   isStoreLink,
@@ -133,6 +135,26 @@ assert.throws(
   'deriveStoreHosts sem registros tem de lançar'
 );
 
+// A exceção de categoria igual à do português (CATEGORY_SAME_AS_PORTUGUESE), com uma lista de teste no lugar da
+// real, que fica vazia: sem a entrada a categoria igual falha nas duas conferências; com ela, passa nas duas.
+{
+  const [sample] = getLocaleHomeStores('en');
+  const ptCategory = getCouponBySlug(sample.slug)!.category;
+  const only = new Set([`en:${sample.slug}`]);
+  assert.throws(
+    () => assertCategoryTranslated('en', sample.slug, ptCategory, ptCategory, new Set()),
+    new RegExp(`en/${sample.slug}: categoria em português`),
+    'sem a entrada, a categoria igual à do português tem de falhar'
+  );
+  assert.doesNotThrow(() => assertCategoryTranslated('en', sample.slug, ptCategory, ptCategory, only), 'com a entrada, a categoria igual passa');
+  assert.throws(() => assertCategoryTranslated('ja', sample.slug, ptCategory, ptCategory, only), /categoria em português/, 'a entrada de en não vale para ja');
+  assert.throws(() => assertCategoryTranslated('en', 'outra-loja', ptCategory, ptCategory, only), /categoria em português/, 'a entrada de uma loja não vale para outra');
+  assert.doesNotThrow(() => assertCategoryTranslated('en', sample.slug, 'Category', ptCategory, new Set()), 'categoria traduzida passa sem exceção');
+  assert.ok(getCategoriesSameAsPortuguese('en', only).includes(ptCategory), 'com a entrada, a categoria em português não conta como texto só em português');
+  assert.deepEqual(getCategoriesSameAsPortuguese('en', new Set()), [], 'sem a entrada, nenhuma categoria é liberada');
+  assert.deepEqual(getCategoriesSameAsPortuguese('ja', only), [], 'a entrada de en não libera a categoria em ja');
+}
+
 // Lojas: a YesStyle e as lojas com página traduzida, cada uma levando à página dela no idioma, com o
 // código do PT e o rótulo do idioma, que nunca chama o código de cupom.
 // A YesStyle tem páginas estáticas próprias e já vem primeiro: se entrar em couponTranslations.ts, não repete.
@@ -150,7 +172,7 @@ for (const locale of LOCALE_HOME_LOCALES) {
     const code = getStoreCode(pt);
     assert.equal(store.href, `/${locale}/coupons/${store.slug}`, `${locale}/${store.slug}: link`);
     assert.equal(store.code, code, `${locale}/${store.slug}: código diferente do PT`);
-    assert.notEqual(store.category, pt.category, `${locale}/${store.slug}: categoria em português`);
+    assertCategoryTranslated(locale, store.slug, store.category, pt.category);
     if (!code) continue;
     const kind = getStoreCodeKind(pt, code);
     assert.equal(store.codeLabel, getCodeTitle(getSidebarCopy(locale), kind, pt.brand), `${locale}/${store.slug}: rótulo`);
@@ -239,8 +261,12 @@ const h1Count = (html: string) => (html.match(/<h1\b/g) ?? []).length;
 for (const locale of LOCALE_HOME_LOCALES) {
   const content = getLocaleHomeContent(locale, publishedReviews);
   const ownTexts = new Set(entries(getLocaleHomeCopy(locale)).map(([, text]) => text));
-  // O rótulo do código que é igual ao do português neste idioma (LABEL_SAME_AS_PORTUGUESE) não é texto em português.
-  const sameAsPortuguese = PT_CODE_TITLES.filter(({ kind }) => LABEL_SAME_AS_PORTUGUESE.has(`${locale}:${kind}`)).map(({ title }) => title);
+  // O rótulo do código e a categoria da loja que são iguais aos do português neste idioma (LABEL_SAME_AS_PORTUGUESE e
+  // CATEGORY_SAME_AS_PORTUGUESE) não são texto em português.
+  const sameAsPortuguese = [
+    ...PT_CODE_TITLES.filter(({ kind }) => LABEL_SAME_AS_PORTUGUESE.has(`${locale}:${kind}`)).map(({ title }) => title),
+    ...getCategoriesSameAsPortuguese(locale),
+  ];
   const ptTexts = PT_ONLY_TEXTS.filter((text) => !ownTexts.has(text) && !sameAsPortuguese.includes(text));
 
   const hero = render(createElement(LocaleHomeHero, { hero: content.hero }));

@@ -42,7 +42,7 @@ import { videoPages } from '../src/lib/video-pages';
 import { VIDEOS_TRAIL, getVideoPageContent, getVideosHubContent, type VideoPageContent } from '../src/lib/videosHub';
 import { YOUTUBE_SUBSCRIBE_URL, videoMorphName } from '../src/lib/videosShelf';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
-import { LABEL_SAME_AS_PORTUGUESE, codeAsCouponRegExp, getPtStoreTexts, isStoreLink } from './locale-home-guards';
+import { LABEL_SAME_AS_PORTUGUESE, codeAsCouponRegExp, getCategoriesSameAsPortuguese, getPtStoreTexts, isStoreLink } from './locale-home-guards';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
 // das lojas traduzidas e dos artigos de cada família, as páginas da YesStyle, o dock, a sidebar, a
@@ -877,7 +877,10 @@ for (const locale of LOCALE_HOME_LOCALES) {
   for (const store of stores) assert.ok(mainHrefs.includes(store.href), `${pagePath}: sem ${store.href}`);
 
   const ownTexts = new Set([...fixedTexts(getLocaleHomeCopy(locale)), ...shellTexts(locale)]);
-  const sameAsPortuguese = PT_CODE_TITLES.filter(({ kind }) => LABEL_SAME_AS_PORTUGUESE.has(`${locale}:${kind}`)).map(({ title }) => title);
+  const sameAsPortuguese = [
+    ...PT_CODE_TITLES.filter(({ kind }) => LABEL_SAME_AS_PORTUGUESE.has(`${locale}:${kind}`)).map(({ title }) => title),
+    ...getCategoriesSameAsPortuguese(locale),
+  ];
   const ptTexts = new Set(PT_ONLY_TEXTS.filter((text) => !ownTexts.has(text) && !sameAsPortuguese.includes(text)));
   const shownTexts = [
     ...[...body.matchAll(/>([^<>]+)</g)].map(([, text]) => decodeHtml(text).trim()),

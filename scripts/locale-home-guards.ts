@@ -25,6 +25,22 @@ export const COUPON_WORD_LIST =
 // assim em espanhol e em português. Chave: idioma:tipo do código.
 export const LABEL_SAME_AS_PORTUGUESE = new Set(['es:reward']);
 
+// Categoria da loja igual à do PT só onde a palavra é a mesma nas duas línguas. Chave: idioma:slug da loja,
+// como em 'es:yesstyle'. Vazia enquanto nenhuma categoria traduzida coincidir com a do português.
+export const CATEGORY_SAME_AS_PORTUGUESE = new Set<string>();
+
+// A categoria traduzida da loja não pode ser a do português, salvo a exceção listada para o idioma e a loja.
+export function assertCategoryTranslated(
+  locale: string,
+  slug: string,
+  category: string,
+  ptCategory: string,
+  exceptions: ReadonlySet<string> = CATEGORY_SAME_AS_PORTUGUESE
+): void {
+  if (exceptions.has(`${locale}:${slug}`)) return;
+  assert.notEqual(category, ptCategory, `${locale}/${slug}: categoria em português`);
+}
+
 export const escapeRegExp = (text: string) => text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
 // "cupom CECILIA010", "CECILIA010 coupon"… Sem código nenhum não há o que conferir: uma alternância vazia
@@ -116,6 +132,18 @@ export function getStoreHostMention(): RegExp {
   return new RegExp(`(?<![\\w.-])(?:[\\w-]+\\.)*(?:${getStoreHosts().map(escapeRegExp).join('|')})(?![\\w-])`, 'i');
 }
 
+// A categoria de uma loja em português: a do couponsData.ts e, na YesStyle, também a da página dela.
+const getPtCategories = (slug: string): string[] =>
+  [getCouponBySlug(slug)?.category, ...(slug === 'yesstyle' ? [getYesStylePage('pt')?.category] : [])].filter(
+    (category): category is string => Boolean(category)
+  );
+
+// As categorias em português que este idioma escreve igual, pela lista de exceções: não contam como texto
+// só em português nas homes.
+export function getCategoriesSameAsPortuguese(locale: string, exceptions: ReadonlySet<string> = CATEGORY_SAME_AS_PORTUGUESE): string[] {
+  return getHomeStoreSlugs().filter((slug) => exceptions.has(`${locale}:${slug}`)).flatMap(getPtCategories);
+}
+
 export type PtStoreTexts = {
   categories: string[];
   codeTitles: Array<{ kind: CouponCodeKind | undefined; title: string }>;
@@ -128,10 +156,7 @@ export function getPtStoreTexts(): PtStoreTexts {
   const slugs = getHomeStoreSlugs();
   const ptCopy = getSidebarCopy('pt');
 
-  const categories = [
-    ...slugs.map((slug) => getCouponBySlug(slug)?.category),
-    ...(slugs.includes('yesstyle') ? [getYesStylePage('pt')?.category] : []),
-  ].filter((category): category is string => Boolean(category));
+  const categories = slugs.flatMap(getPtCategories);
 
   const codeTitles = new Map<string, PtStoreTexts['codeTitles'][number]>();
   for (const store of stores) {
