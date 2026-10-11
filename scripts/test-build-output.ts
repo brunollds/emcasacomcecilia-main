@@ -1728,15 +1728,16 @@ function assertVideoWatchPage(pagePath: string, html: string, content: VideoPage
   }
   assert.equal(articleText.includes('Duração:'), video.duration !== null, `${pagePath}: duração onde não devia, ou faltando`);
   // Texto quebrado na tela e nos valores de alt, aria-label, title e meta (os atributos, não o HTML cru: um id
-  // do YouTube ou um endereço pode ter essas letras). Na tela, cada tag vira um espaço: sem ele, o texto de
-  // um elemento colaria no do vizinho ("vídeo" + "undefined") e o \b não separaria a palavra.
-  const BROKEN_TEXT = /\bundefined\b|\bNaN\b/;
-  assert.doesNotMatch(decodeHtml(article.replace(/<[^>]+>/g, ' ')), BROKEN_TEXT, `${pagePath}: texto quebrado`);
+  // do YouTube ou um endereço pode ter essas letras). Na tela vale a palavra solta ou colada ("NaNmin",
+  // "R$undefined": o `${x}min` que falha sai assim); só nos atributos exige-se a palavra inteira, porque um id
+  // ou um endereço pode ter essas letras por acaso.
+  assert.doesNotMatch(decodeHtml(article.replace(/<[^>]+>/g, ' ')), /undefined|NaN/, `${pagePath}: texto quebrado`);
+  const BROKEN_WORD = /\bundefined\b|\bNaN\b/;
   const articleAttributes = [...article.matchAll(/\s(?:alt|aria-label|title)="([^"]*)"/g)].map(([, value]) => decodeHtml(value));
   const metaContents = [...headOf(html).matchAll(/<meta\b[^>]*\bcontent="([^"]*)"/g)].map(([, value]) => decodeHtml(value));
   assert.ok(articleAttributes.length > 0 && metaContents.length > 0, `${pagePath}: sem atributos de texto nem meta para conferir`);
   for (const value of [...articleAttributes, ...metaContents]) {
-    assert.doesNotMatch(value, BROKEN_TEXT, `${pagePath}: texto quebrado num atributo: ${value}`);
+    assert.doesNotMatch(value, BROKEN_WORD, `${pagePath}: texto quebrado num atributo: ${value}`);
   }
   assert.deepEqual(
     videoLinksIn(between(body, 'aria-labelledby="titulo-mais-videos"', ['</section>'])),
@@ -1778,6 +1779,9 @@ const videoWatchPages = videoPages.map((page) => {
     [html.split(escapeHtml(label)).join('Ver o código da OUTRA'), /botão da loja onde não devia, ou faltando/],
     [html.replace(`view-transition-name:${morphName}`, `view-transition-name:${morphName}-extra`), /player sem o nome da transição/],
     [html.replace('Sobre este vídeo</h2>', 'Sobre este vídeo</h2><p>undefined</p>'), /texto quebrado/],
+    // Colado ao resto do texto, como sai de um `${x}min`: na tela o \b não pode deixar passar. A expressão
+    // termina em "quebrado" para pegar a mensagem da tela, não a dos atributos (": texto quebrado num atributo").
+    [html.replace('Sobre este vídeo</h2>', 'Sobre este vídeo</h2><p>NaNmin</p>'), /: texto quebrado$/],
     [html.replace('aria-label="Player do vídeo:', 'aria-label="undefined Player do vídeo:'), /texto quebrado num atributo/],
     [html.replace('<meta name="description" content="', '<meta name="description" content="NaN '), /texto quebrado num atributo/],
     [html.replace('aria-labelledby="titulo-mais-videos"', 'aria-labelledby="titulo-outro"'), /Mais vídeos/],
