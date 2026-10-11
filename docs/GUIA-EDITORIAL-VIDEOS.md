@@ -57,7 +57,9 @@ a URL do canal. O fluxo técnico é:
 4. confirmar que a página `/videos/[slug]` aponta de volta ao artigo correto;
 5. executar `npm run validate:video`.
 
-O build não consulta a API do YouTube. Dados ausentes fazem a validação falhar.
+A validação (`validate:video`) e as páginas de vídeo não consultam a API do YouTube: usam só os metadados
+locais, e dado ausente faz a validação falhar. A API entra no build apenas nos "Últimos do canal" de
+`/videos` e na home (`src/lib/youtube.ts`).
 
 ### 3.1 O formato (`aspect`)
 
