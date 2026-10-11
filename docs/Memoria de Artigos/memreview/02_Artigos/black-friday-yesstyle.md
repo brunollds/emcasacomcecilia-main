@@ -6,9 +6,11 @@ parceiro: "[[YesStyle]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pronto-para-deploy"
-responsavel: "Bruno"
-proxima_acao: "revisão do PT no localhost e OK do Bruno para o PR e o deploy; trocar a capa pelo banner oficial e as datas pelo calendário real quando a YesStyle publicar a Black Friday de 2026"
+status: "publicado"
+responsavel: "Claude"
+proxima_acao: "quando a YesStyle publicar a Black Friday de 2026 (em 2024 e 2025, no começo de novembro), trocar a capa pelo banner oficial e a estimativa pelo calendário real, nos 10 idiomas"
+publicado_em: "2026-10-11"
+nota_publicacao: "Publicado no PR #54 em 11/10/2026 (decisão do Bruno), com a capa provisória do vídeo da Abib."
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 75
@@ -19,7 +21,7 @@ translationKey: "yesstyle-black-friday"
 modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
-status_i18n: "em-traducao"
+status_i18n: "completo"
 ---
 
 # Briefing de Pauta: Black Friday YesStyle 2026
