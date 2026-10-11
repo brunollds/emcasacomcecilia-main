@@ -8,7 +8,7 @@ reviewKind: "guia"
 type: "Guia de Black Friday"
 status: "em-revisao"
 responsavel: "Bruno"
-proxima_acao: "revisar no localhost; capa da Lu ao CDN com o OK do Bruno; reconferir preços e cupons do Magalu antes de publicar"
+proxima_acao: "revisar no localhost; reconferir preços e cupons do Magalu antes de publicar; PR, merge e deploy com o OK do Bruno"
 bloqueado_por: null
 score_autoridade: 50
 score_conversao: 85
@@ -173,7 +173,7 @@ loja costuma ser grátis; capa com o avatar da Lu; sem embargo.
 ## Redação (10/10/2026)
 
 - JSON em `content/reviews/black-friday-magalu.json` (id 336), no fim do `_manifest.json`. É a fonte da verdade do texto.
-- Capa: `/images/reviews/magalu/black-friday-magalu-lu.webp`, 768×432 (16:9), 21.960 bytes, sha256 `efb9b652…`: imagem da Lu segurando um celular com o logo do Magalu, salva pelo Bruno em 11/10/2026 (`6AzhEWQg-DESTAQUE-magalu-768x432.webp`) e copiada sem recodificar, porque ampliar para 1600×900 só borraria. Se aparecer uma versão maior da mesma imagem, trocar. Fica fora do commit até subir ao CDN.
+- Capa: `/images/reviews/magalu/black-friday-magalu-lu.webp`, 768×432 (16:9), 21.960 bytes, sha256 `efb9b652…`: imagem da Lu segurando um celular com o logo do Magalu, salva pelo Bruno em 11/10/2026 (`6AzhEWQg-DESTAQUE-magalu-768x432.webp`) e copiada sem recodificar, porque ampliar para 1600×900 só borraria. Se aparecer uma versão maior da mesma imagem, trocar. No CDN desde 11/10/2026 (`338a1e5`), verificada pelo `verify-remote` e entregue pelo mapa de mídia.
 - Preços lidos em 10/10/2026 nos dados das listas da loja da Cecília, filtradas por "Vendido por: Magalu" e ordenadas por mais vendidos (662 eletrodomésticos e 687 eletroportáteis), sem CEP informado.
 - Contas das faixas: geladeira Consul 377 L R$ 2.727,54 (Pix R$ 2.591,16) → 50; com o micro-ondas MEO44, R$ 3.376,54 (Pix R$ 3.207,71) → 60; Brastemp 512 L com a lavadora LEC15, R$ 5.892,63 (Pix R$ 5.598,00) → 100; geladeira DC35A R$ 2.298,40 (Pix R$ 2.160,50) → 40, contra R$ 225 do cupom do Magalu.
 - Trocas, retirada, frete e prazo: central de atendimento do Magalu, lida no navegador em 10/10/2026 ("Como funciona a Política de troca e devolução?", "Posso trocar um pedido de site na loja física?", "Como solicitar troca ou cancelamento?", "Quais são as opções de entrega disponíveis?", "Qual é a política de frete?", "Qual o prazo de entrega do meu pedido?", "Posso alterar a pessoa que vai retirar meu produto na loja?").
