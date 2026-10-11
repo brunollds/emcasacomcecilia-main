@@ -6,10 +6,10 @@ parceiro: "[[Magalu]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "fechar com o Bruno os pontos da seção 10; depois redigir o artigo"
-bloqueado_por: "decisões do Bruno (seção 10)"
+status: "em-revisao"
+responsavel: "Bruno"
+proxima_acao: "revisar no localhost; capa da Lu (imagem do Bruno) e upload ao CDN com o OK dele; reconferir preços e cupons do Magalu antes de publicar"
+bloqueado_por: null
 score_autoridade: 50
 score_conversao: 85
 score_ponderado_total: 74
@@ -116,7 +116,7 @@ fryer" e "geladeira na promoção black friday magalu" também aparecem.
 
 ## 7. Estratégia de Links Contextuais
 - **Afiliado (`affiliate`):** `magalu`
-- **Código (`coupon`) e o nome que a loja dá a ele:** `100EMCASACOMCECILIA` no campo (é o maior e o que a `/cupons/magalu` destaca); o texto chama de código ou cupom da Cecília e mostra as dez faixas.
+- **Código (`coupon`) e o nome que a loja dá a ele:** `10EMCASACOMCECILIA` no campo, como no guia do cupom: é o que vale em qualquer carrinho elegível, e o texto mostra as dez faixas. O texto chama de código ou cupom da Cecília.
 - **Links internos para a página da loja (máx 3):** `/cupons/magalu`.
 - **Outros links internos:** `cupom-magalu-em-casa-com-cecilia`.
 - **CTA comissionado da loja (`rel="sponsored"`):** o `offerUrl` de `couponsData.ts` (a loja Magazine Você da Cecília), exatamente como está.
@@ -153,9 +153,28 @@ que o código não vale nas ofertas do app; quem mora em capital deve ter frete 
 loja costuma ser grátis; capa com o avatar da Lu; sem embargo.
 
 **Em aberto:**
-- **A. Cupom do Magalu × código da Cecília.** Em 10/10, itens vendidos pelo Magalu mostravam cupons do próprio Magalu de R$ 50 a R$ 225, acima da faixa da Cecília para o mesmo valor (geladeira de R$ 2.298,40: R$ 225 do Magalu contra R$ 20 da Cecília). Proposta: o guia manda comparar e usar o maior, sem citar o código do Magalu.
+- **A. Cupom do Magalu × código da Cecília.** Em 10/10, itens vendidos pelo Magalu mostravam cupons do próprio Magalu de R$ 50 a R$ 225, acima da faixa da Cecília para o mesmo valor (geladeira de R$ 2.298,40: R$ 225 do Magalu contra R$ 40 da Cecília). Proposta: o guia manda comparar e usar o maior, sem citar o código do Magalu.
 - **B. Base da faixa.** O mínimo da faixa conta sobre o preço no cartão ou no Pix? E o código vale com todas as formas de pagamento, como nos outros parceiros?
 - **C. Móveis.** Quase toda a vitrine de móveis é marketplace. Proposta: móveis entram como alerta (filtrar "Vendido por: Magalu"), e a tabela de preços fica com eletrodomésticos e eletroportáteis.
 - **D. Divergência no texto publicado.** O guia `cupom-magalu-em-casa-com-cecilia` e a `/cupons/magalu` dizem que, "em regra", o código não acumula com outras promoções. Proposta: corrigir o guia num PR próprio (como o #49); a `/cupons/magalu` vai para a sessão responsável.
 - **E. Frete e prazo.** O calculador de frete só abre com clique, e o painel do navegador precisa estar à vista. Simular com CEPs de capitais, sem login e sem pedido, como nas outras lojas.
 - **F. Capa.** A Lu aparece no site só em 75 a 90 px. Baixar candidatas maiores do site do Magalu (com o OK do Bruno) ou usar uma imagem da Lu que o Bruno tiver.
+
+**Respostas do Bruno (10/10/2026, depois da pauta):**
+- **A.** A vantagem do código da Cecília é valer quando o produto não tem cupom, seja porque não existe, seja porque o cupom da loja não funciona no que a pessoa quer comprar. O texto segue essa linha e, se houver os dois, manda usar o que der mais.
+- **B.** O código vale com todas as formas de pagamento. Se o mínimo da faixa conta pelo preço no cartão ou no Pix ficou sem resposta: os exemplos do texto caem na mesma faixa nos dois preços.
+- **C.** Móveis entram só como alerta.
+- **D.** A divergência do guia do cupom e da `/cupons/magalu` vai para a sessão de cupons depois.
+- **E.** Sem simulação de CEP. O texto segue a regra do Magalu: o frete grátis de banner se confirma com o CEP na página do produto ou na sacola.
+- **F.** Pode baixar as imagens. O CDN de imagens do Magalu respondeu 403 ao download (proteção contra robôs), e isso não se contorna: a capa espera uma imagem da Lu que o Bruno salvar.
+
+---
+
+## Redação (10/10/2026)
+
+- JSON em `content/reviews/black-friday-magalu.json` (id 336), no fim do `_manifest.json`. É a fonte da verdade do texto.
+- Capa provisória: `/images/reviews/magalu/magalu-hero.webp` (a do guia do cupom, já no CDN), até chegar a imagem da Lu.
+- Preços lidos em 10/10/2026 nos dados das listas da loja da Cecília, filtradas por "Vendido por: Magalu" e ordenadas por mais vendidos (662 eletrodomésticos e 687 eletroportáteis), sem CEP informado.
+- Contas das faixas: geladeira Consul 377 L R$ 2.727,54 (Pix R$ 2.591,16) → 50; com o micro-ondas MEO44, R$ 3.376,54 (Pix R$ 3.207,71) → 60; Brastemp 512 L com a lavadora LEC15, R$ 5.892,63 (Pix R$ 5.598,00) → 100; geladeira DC35A R$ 2.298,40 (Pix R$ 2.160,50) → 40, contra R$ 225 do cupom do Magalu.
+- Trocas, retirada, frete e prazo: central de atendimento do Magalu, lida no navegador em 10/10/2026 ("Como funciona a Política de troca e devolução?", "Posso trocar um pedido de site na loja física?", "Como solicitar troca ou cancelamento?", "Quais são as opções de entrega disponíveis?", "Qual é a política de frete?", "Qual o prazo de entrega do meu pedido?", "Posso alterar a pessoa que vai retirar meu produto na loja?").
+- Fora do texto: códigos do Magalu e de vendedores, Reclame Aqui (bloqueado), regra de frete grátis do SuperApp (não confirmada no navegador), cartão Magalu e cashback.

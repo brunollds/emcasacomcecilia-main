@@ -7,7 +7,6 @@
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
-- [ ] [[black-friday-magalu]] — Magalu / Black Friday Magalu 2026: datas, eletro vendido pelo Magalu e as faixas do código da Cecília, terceira rodada (pauta em 10/10/2026; esperando o Bruno nos pontos da seção 10) (Score Aut: 50 / Conv: 85)
 
 ---
 
@@ -19,7 +18,7 @@
 
 ## 3. Em Revisão Factual & Claims (`status: em-revisao`)
 *Em auditoria pelo Job-3.*
-- *(Nenhum artigo no momento)*
+- [ ] [[black-friday-magalu]] — Magalu / Black Friday Magalu 2026: datas, eletro vendido pelo Magalu e as faixas do código da Cecília, terceira rodada (JSON em 10/10/2026; revisão do Bruno no localhost; capa da Lu com imagem do Bruno; preços e cupons reconferidos antes de publicar)
 
 ---
 

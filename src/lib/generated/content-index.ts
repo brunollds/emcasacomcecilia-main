@@ -54212,5 +54212,301 @@ export const reviewsData: unknown[] = [
         "title": "Nutren Just Protein: tudo o que você precisa saber"
       }
     ]
+  },
+  {
+    "id": 336,
+    "slug": "black-friday-magalu",
+    "title": "Black Friday Magalu 2026: quando começa, geladeira e eletro vendidos pelo Magalu e qual código da Cecília usar",
+    "seoTitle": "Black Friday Magalu 2026: datas, eletro e código",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O calendário da Black Friday 2026 do Magalu, o que é só no app, qual das dez faixas do código da Cecília usar, quando ele vale mais que o cupom do Magalu, como achar o que é vendido e entregue pelo Magalu e os preços de outubro de geladeiras, lavadoras, fogões e eletroportáteis para comparar.",
+    "metaDescription": "Black Friday Magalu 2026: quando começa, o que é só no app, as faixas do código da Cecília, preços de outubro de geladeira e eletro, frete, retirada e trocas.",
+    "publishedAt": "10 de outubro de 2026",
+    "publishedAtISO": "2026-10-10",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/magalu/magalu-hero.webp",
+    "imageAlt": "Página da loja Magazine Você da Cecília aberta no navegador, com produtos do Magalu e campo para aplicar cupom de desconto.",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Dez faixas, de R$ 10 a R$ 100 OFF, que valem sobre o preço da Black Friday",
+      "O código vale com todas as formas de pagamento, inclusive no Pix",
+      "Retirada na loja em parte dos produtos vendidos pelo Magalu",
+      "Devolução em até 7 dias pelo próprio site, com voucher ou estorno"
+    ],
+    "cons": [
+      "Só pelo navegador: as ofertas exclusivas do app ficam fora",
+      "Só itens vendidos e entregues pelo Magalu, sem marketplace",
+      "Não soma com o cupom do próprio Magalu: vale um por pedido",
+      "A maioria dos eletroportáteis, sozinha, não chega aos R$ 499,90 da primeira faixa"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Black Friday Magalu 2026",
+        "bullets": [
+          "A Black Friday de 2026 é na sexta-feira, **27 de novembro**. Segundo o Magalu, as ofertas começam antes e vão até a **Cyber Monday**, em 30 de novembro, e o esquenta já começou.",
+          "Antes do dia, o Magalu anuncia a **Liquidação do Dia do Pagamento** em 5 e 6 de novembro, no app e nas lojas, o **11.11** com preços de Black Friday no app e parcelamento em **até 21 vezes sem juros** durante o mês.",
+          "Os códigos da Cecília vão de **R$ 10 a R$ 100 OFF**, conforme o valor do carrinho. Valem só pelo navegador, na loja Magazine Você da Cecília, em produtos vendidos e entregues pelo Magalu, sobre o preço da Black Friday e com todas as formas de pagamento.",
+          "Vale um cupom por pedido. O código da Cecília é para quando o produto não tem cupom do próprio Magalu, ou quando o cupom da loja não vale para o que você quer comprar.",
+          "Frete, prazo e retirada na loja dependem do CEP: confira na página do produto ou na sacola antes de pagar."
+        ]
+      },
+      {
+        "heading": "Quando começa e até quando vai a Black Friday do Magalu?",
+        "paragraphs": [
+          "O dia oficial é 27 de novembro de 2026. Na página da Black Friday, o Magalu diz que as ofertas começam antes e se estendem por alguns dias, com esquenta, semana especial e Cyber Monday. Em outubro, o esquenta já estava no ar.",
+          "O calendário que o Magalu publicou para novembro: Liquidação do Dia do Pagamento em 5 e 6 de novembro, no app e nas lojas, com até 60% de desconto e frete grátis; 11.11 com preços de Black Friday no app; e o \"Faz um 21\", com descontos de Black Friday em até 21 vezes sem juros durante o mês. O app também traz ofertas antecipadas que duram um dia, com produtos novos todos os dias, e manda ofertas por notificação.",
+          "Na prática, a Black Friday do Magalu ocupa novembro inteiro. Em 2023, as promoções correram o mês todo, com a Black Friday em 24 de novembro, segundo o Money Times. Em 2024, o Magalu soltou ofertas por notificação no app antes da data, segundo o Canaltech. Em 2025, a \"Black das Blacks\" foi de 26 de outubro a 30 de novembro, segundo texto patrocinado pelo Magalu no Canaltech."
+        ]
+      },
+      {
+        "heading": "Qual código da Cecília usar: as dez faixas",
+        "paragraphs": [
+          "Cada código dá um desconto fixo em reais, a partir de um valor mínimo de produtos vendidos e entregues pelo Magalu. Use sempre o código da maior faixa que o carrinho alcançar."
+        ],
+        "comparisonTable": {
+          "caption": "Códigos da Cecília na loja Magazine Você, conferidos em 1º de outubro de 2026. O desconto vale nos produtos, não no frete.",
+          "headers": [
+            "Código",
+            "Desconto",
+            "Compra mínima"
+          ],
+          "rows": [
+            [
+              "10EMCASACOMCECILIA",
+              "R$ 10 OFF",
+              "R$ 499,90"
+            ],
+            [
+              "20EMCASACOMCECILIA",
+              "R$ 20 OFF",
+              "R$ 999,90"
+            ],
+            [
+              "30EMCASACOMCECILIA",
+              "R$ 30 OFF",
+              "R$ 1.499,90"
+            ],
+            [
+              "40EMCASACOMCECILIA",
+              "R$ 40 OFF",
+              "R$ 1.999,90"
+            ],
+            [
+              "50EMCASACOMCECILIA",
+              "R$ 50 OFF",
+              "R$ 2.499,90"
+            ],
+            [
+              "60EMCASACOMCECILIA",
+              "R$ 60 OFF",
+              "R$ 2.999,90"
+            ],
+            [
+              "70EMCASACOMCECILIA",
+              "R$ 70 OFF",
+              "R$ 3.499,90"
+            ],
+            [
+              "80EMCASACOMCECILIA",
+              "R$ 80 OFF",
+              "R$ 3.999,90"
+            ],
+            [
+              "90EMCASACOMCECILIA",
+              "R$ 90 OFF",
+              "R$ 4.499,90"
+            ],
+            [
+              "100EMCASACOMCECILIA",
+              "R$ 100 OFF",
+              "R$ 4.999,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Exemplos com os preços de 10 de outubro, que caem na mesma faixa no cartão e no Pix: a geladeira Consul Frost Free de 377 litros, a R$ 2.727,54, fica na faixa do **50EMCASACOMCECILIA**. Com o micro-ondas Electrolux de 34 litros na mesma sacola, o total passa de R$ 2.999,90 e libera o **60EMCASACOMCECILIA**. Uma geladeira Brastemp Inox de 512 litros com a lavadora Electrolux de 15 kg passa de R$ 4.999,90 e libera o **100EMCASACOMCECILIA**.",
+          "A maioria dos eletroportáteis custa menos que os R$ 499,90 da primeira faixa. Para usar o código numa air fryer ou num aspirador, junte na mesma sacola outros itens vendidos e entregues pelo Magalu."
+        ]
+      },
+      {
+        "heading": "Cupom do Magalu ou código da Cecília?",
+        "paragraphs": [
+          "Na loja da Cecília, algumas páginas de produto mostram um cupom do próprio Magalu, com o aviso para copiar e colar na revisão do pedido. Em 10 de outubro, apareciam cupons de R$ 50 a R$ 225 em eletrodomésticos vendidos pelo Magalu.",
+          "Como vale um cupom por pedido, o código da Cecília é para quando o produto não tem cupom do Magalu, ou quando o cupom da loja não vale para o que você quer comprar. Se o produto tiver os dois, use o que der mais desconto: na geladeira Electrolux de 260 litros, a R$ 2.298,40 no cartão, o cupom do Magalu tirava R$ 225, e o código da Cecília, R$ 40."
+        ],
+        "links": [
+          {
+            "label": "Ver os códigos da Cecília e a data do último teste",
+            "href": "/cupons/magalu"
+          },
+          {
+            "label": "Passo a passo para aplicar o código no checkout",
+            "href": "/reviews/cupom-magalu-em-casa-com-cecilia"
+          }
+        ]
+      },
+      {
+        "heading": "Vendido e entregue pelo Magalu: onde o código vale",
+        "bullets": [
+          "**Na página do produto:** procure a linha \"Vendido e entregue por Magalu\". É ela que libera o código.",
+          "**Selo Full:** quer dizer que a entrega é do Magalu, mas o produto pode ser de outro vendedor. Se o vendedor não for o Magalu, o código não entra.",
+          "**Lojistas parceiros (marketplace):** ficam fora do código, inclusive os importados da seção do AliExpress.",
+          "**Móveis:** a maior parte da vitrine é de lojistas parceiros. Na lista, use o filtro \"Vendido por: Magalu\" para ver só o que entra no código.",
+          "**Pedido com vendedores diferentes:** só os itens vendidos pelo Magalu contam para a faixa, e cada vendedor pode entregar numa data diferente."
+        ]
+      },
+      {
+        "heading": "App ou navegador: o que vale onde",
+        "paragraphs": [
+          "Os códigos da Cecília só funcionam pelo navegador, no celular ou no computador, na loja Magazine Você da Cecília. O login é a mesma conta Magalu do site e do app.",
+          "As ofertas que o Magalu anuncia só no app, como as antecipadas, o 11.11 e as que chegam por notificação, ficam fora do código. Antes de pagar, compare o preço do app sem o código com o preço do navegador com o código da sua faixa."
+        ]
+      },
+      {
+        "heading": "Preços de outubro para comparar",
+        "paragraphs": [
+          "Estes são produtos vendidos e entregues pelo Magalu, entre os mais vendidos da loja da Cecília em 10 de outubro. Na Black Friday, a oferta só é desconto de verdade se o preço do dia ficar abaixo desta tabela. O preço riscado (\"de\") da página costuma ser bem maior que o do dia, então ele não serve de referência."
+        ],
+        "comparisonTable": {
+          "caption": "Loja Magazine Você da Cecília em 10 de outubro de 2026, sem CEP informado, antes do código. O preço muda com o CEP e a cada dia, e o número de parcelas sem juros varia por produto.",
+          "headers": [
+            "Produto",
+            "No cartão, sem juros",
+            "No Pix"
+          ],
+          "rows": [
+            [
+              "Geladeira Electrolux Cycle Defrost Duplex 260 L (DC35A)",
+              "R$ 2.298,40",
+              "R$ 2.160,50"
+            ],
+            [
+              "Geladeira Consul Frost Free Duplex 377 L (CRM44MBBNA)",
+              "R$ 2.727,54",
+              "R$ 2.591,16"
+            ],
+            [
+              "Geladeira Electrolux Frost Free Duplex 400 L (IF44)",
+              "R$ 2.902,15",
+              "R$ 2.699,00"
+            ],
+            [
+              "Geladeira Brastemp Frost Free Duplex Inox 512 L (BRM62AK)",
+              "R$ 3.788,42",
+              "R$ 3.599,00"
+            ],
+            [
+              "Lavadora Electrolux 15 kg (LEC15)",
+              "R$ 2.104,21",
+              "R$ 1.999,00"
+            ],
+            [
+              "Lavadora Brastemp 14 kg (BWJ14ABANA)",
+              "R$ 1.980,47",
+              "R$ 1.881,45"
+            ],
+            [
+              "Micro-ondas Electrolux 34 L (MEO44)",
+              "R$ 649,00",
+              "R$ 616,55"
+            ],
+            [
+              "Fogão 4 bocas Esmaltec Ideal Pop 4120",
+              "R$ 598,12",
+              "R$ 556,25"
+            ],
+            [
+              "Fogão 4 bocas Consul Inox (CFO4NARUNA)",
+              "R$ 1.325,00",
+              "R$ 1.258,75"
+            ],
+            [
+              "Air fryer Mondial Family 4 L (AFN-40-BI)",
+              "R$ 249,00",
+              "R$ 249,00"
+            ],
+            [
+              "Air fryer forno Mondial 12 L (AFON-12L-BI)",
+              "R$ 546,32",
+              "R$ 519,00"
+            ],
+            [
+              "Panela de pressão elétrica digital Mondial 5 L",
+              "R$ 398,95",
+              "R$ 379,00"
+            ],
+            [
+              "Aspirador vertical Electrolux STK14",
+              "R$ 198,95",
+              "R$ 189,00"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O desconto do Pix muda por produto: nos eletrodomésticos desta tabela, ia de 5% a 7% em outubro, e a air fryer Mondial de 4 litros não tinha desconto no Pix. O código da Cecília vale nos dois preços."
+        ]
+      },
+      {
+        "heading": "Frete, retirada na loja e prazo para o Natal",
+        "bullets": [
+          "**Frete e prazo:** dependem do CEP, do total do pedido, da distância e do tipo de transporte. Digite o CEP na página do produto ou na sacola para ver o valor e o prazo antes de pagar.",
+          "**Frete grátis em banner:** se o produto aparece com frete grátis num banner do site ou do app, confirme com o seu CEP na página do produto ou na sacola antes de fechar a compra.",
+          "**Retirada na loja:** nem todo produto tem a opção. Ao digitar o CEP na página do produto, aparecem as lojas mais próximas e o prazo, quando a retirada está disponível, e ela costuma sair sem custo. A pessoa que vai retirar não pode ser trocada depois da compra.",
+          "**Quando o prazo começa:** o prazo de entrega conta a partir da confirmação do pagamento.",
+          "**Presente de Natal:** 24 de dezembro cai numa quinta-feira. Confira o prazo com o CEP de entrega antes de pagar e compre com folga, ou escolha a retirada na loja, se o produto tiver."
+        ]
+      },
+      {
+        "heading": "Trocas e arrependimento",
+        "bullets": [
+          "**Arrependimento:** a devolução pode ser pedida em até 7 dias corridos depois do recebimento, como prevê o artigo 49 do Código de Defesa do Consumidor.",
+          "**Como pedir:** no site ou no app, em \"Meus pedidos\", escolha o produto e clique em \"Quero trocar ou cancelar\". Dá para trocar pelo mesmo produto ou por outro, receber um voucher na conta MagaluPay em até 24 horas depois do cancelamento ou pedir o estorno na forma de pagamento usada.",
+          "**Lojistas parceiros:** produtos de lojistas parceiros não são trocados, só cancelados.",
+          "**Troca na loja física:** só de produtos vendidos e entregues pelo Magalu e pequenos, fáceis de levar até a loja, com a nota fiscal e um documento com foto. Os preços do site não valem nas lojas físicas.",
+          "**Presente:** a troca é pedida em \"Meus pedidos\", na conta de quem comprou."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quando começa a Black Friday do Magalu? A Black Friday de 2026 é na sexta-feira, 27 de novembro, mas o Magalu já abriu o esquenta em outubro. Em novembro, ele anuncia a Liquidação do Dia do Pagamento em 5 e 6 de novembro e o 11.11 com preços de Black Friday no app.",
+          "A Black Friday do Magalu vai até quando? Segundo o Magalu, as ofertas se estendem por alguns dias depois de 27 de novembro, até a Cyber Monday, em 30 de novembro. Em 2025, a Black das Blacks foi de 26 de outubro a 30 de novembro.",
+          "Tem cupom Magalu para a Black Friday? Tem: os códigos da Cecília dão de R$ 10 a R$ 100 OFF, conforme o valor do carrinho, na loja Magazine Você da Cecília, pelo navegador, em produtos vendidos e entregues pelo Magalu. Eles valem sobre o preço da Black Friday e com todas as formas de pagamento.",
+          "O cupom da Cecília funciona no app do Magalu? Não. Os códigos só funcionam pelo navegador, na loja Magazine Você da Cecília, então as ofertas exclusivas do app ficam fora deles.",
+          "Posso usar o código da Cecília junto com o cupom do Magalu? Não, vale um cupom por pedido. O código da Cecília é para quando o produto não tem cupom do Magalu, ou quando o cupom da loja não vale para o que você quer comprar.",
+          "Qual código usar na compra de uma geladeira? Depende do valor da sacola. Em 10 de outubro, a geladeira Consul Frost Free de 377 litros custava R$ 2.727,54 e ficava na faixa do 50EMCASACOMCECILIA, de R$ 50 OFF.",
+          "O Magalu tem desconto no Pix? Tem, e ele muda por produto: nos eletrodomésticos vendidos pelo Magalu, ia de 5% a 10% em outubro. O código da Cecília também vale no Pix.",
+          "Dá para comprar no site do Magalu e retirar na loja? Dá, nos produtos que têm a opção Retira loja. Digite o CEP na página do produto para ver as lojas mais próximas e o prazo.",
+          "O Magalu tem frete grátis na Black Friday? Depende do produto e do CEP. Se o produto aparece com frete grátis num banner, confirme com o seu CEP na página do produto ou na sacola antes de fechar a compra.",
+          "Dá para trocar na loja física um produto comprado no site? Só produtos vendidos e entregues pelo Magalu e pequenos, levados à loja com a nota fiscal e um documento com foto. As outras trocas e devoluções são pedidas em \"Meus pedidos\", no site ou no app."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Entre na loja Magazine Você da Cecília pelo navegador, monte a sacola com produtos vendidos e entregues pelo Magalu e aplique o código da faixa que o total alcançar.",
+      "label": "Ir para a loja da Cecília no Magalu",
+      "url": "https://www.magazinevoce.com.br/magazineemcasacomcecilia/",
+      "sponsored": true
+    },
+    "coupon": "10EMCASACOMCECILIA",
+    "affiliate": "magalu",
+    "editorialNote": "Preços conferidos na loja Magazine Você da Cecília. Podemos receber comissão pelas compras.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-magalu-em-casa-com-cecilia",
+        "title": "Como usar o cupom Magalu da Cecília"
+      }
+    ]
   }
 ];
