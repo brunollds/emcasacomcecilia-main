@@ -1,7 +1,18 @@
 import assert from 'node:assert/strict';
+import { createElement, type ReactElement } from 'react';
+import { renderToStaticMarkup } from 'react-dom/server';
+import { AppRouterContext } from 'next/dist/shared/lib/app-router-context.shared-runtime';
+import { imageConfigDefault, type ImageConfigComplete, type RemotePattern } from 'next/dist/shared/lib/image-config';
+import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.shared-runtime';
 
+import { FOCUS_RING } from '@/components/ui/focusRing';
+import { ScrollRow } from '@/components/ui/ScrollRow';
+import { TrackedVideosLink, VideoPageLink } from '@/components/videos/TrackedVideosLink';
+import { VideoCard } from '@/components/videos/VideoCard';
+import { VideoRow } from '@/components/videos/VideoRow';
 import { COUPONS } from '@/lib/couponsData';
 import { publishedReviews, recipes, type SocialHighlight } from '@/lib/data';
+import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { videoPages } from '@/lib/video-pages';
 import {
@@ -381,6 +392,109 @@ assert.deepEqual(CHANNEL_PLACEMENTS, {
   videos: { channel: 'videos_channel', subscribe: 'videos_subscribe' },
   video: { channel: 'video_channel', subscribe: 'video_subscribe' },
 });
+
+// Componentes, renderizados como o servidor os entrega. Fora do Next, o next/image não conhece os hosts do
+// next.config.mjs, e o useRouter() do ViewTransitionLink exige o roteador do App Router montado.
+const imageConfig: ImageConfigComplete = {
+  ...imageConfigDefault,
+  remotePatterns: IMAGE_REMOTE_PATTERNS as RemotePattern[],
+};
+const router = { back() {}, forward() {}, refresh() {}, push() {}, replace() {}, prefetch() {} };
+
+function render(element: ReactElement): string {
+  return renderToStaticMarkup(
+    createElement(
+      ImageConfigContext.Provider,
+      { value: imageConfig },
+      createElement(AppRouterContext.Provider, { value: router }, element)
+    )
+  );
+}
+
+// O texto que o leitor de tela lê no link, na ordem do DOM: o HTML sem as tags.
+const textOf = (html: string) => html.replace(/<[^>]*>/g, '');
+const count = (html: string, pattern: RegExp) => html.match(pattern)?.length ?? 0;
+const openingTag = (html: string) => html.match(/^<a [^>]*>/)?.[0] ?? '';
+
+// Cartão de vídeo com página: link para a página na mesma aba, com o anel de foco; a miniatura decorativa
+// (alt vazio, sem pressa) com o nome da transição só no data-vt-name; o título num h3 de até 3 linhas; no
+// nome do link, depois do título, a duração por extenso e a loja. O selo "0:54" é só visual.
+const card = render(createElement(VideoCard, { video: toVideoCard(novo), sizes: '160px', placement: 'videos_grid' }));
+const cardTag = openingTag(card);
+assert.match(cardTag, /href="\/videos\/novo-damie"/);
+assert.ok(cardTag.includes(FOCUS_RING), 'cartão sem o anel de foco');
+assert.ok(!cardTag.includes('target='), 'vídeo com página abre na mesma aba');
+assert.ok(card.includes('data-vt-name="video-player-novo-damie"'));
+assert.ok(!card.includes('view-transition-name'), 'nome de transição só no clique');
+assert.match(card, /<img\b[^>]*\balt=""/);
+assert.match(card, /<img\b[^>]*\bloading="lazy"/);
+assert.match(card, /<h3 class="line-clamp-3[^"]*">Vídeo novo-damie<\/h3>/);
+assert.match(card, /<span class="sr-only">54 segundos<\/span>/);
+assert.match(card, /<span aria-hidden="true" class="[^"]*">0:54<\/span>/, 'o selo é só visual');
+const cardText = textOf(card);
+assert.ok(
+  cardText.indexOf('Vídeo novo-damie') === 0 &&
+    cardText.indexOf('54 segundos') > 0 &&
+    cardText.indexOf('DAMIE', cardText.indexOf('54 segundos')) > 0,
+  `nome do link: título, duração e loja (${cardText})`
+);
+assert.equal(textOf(render(createElement(VideoCard, { video: toVideoCard(item('sem-loja')), sizes: '1px' }))), 'Vídeo sem-loja1 minuto1:00');
+assert.ok(textOf(render(createElement(VideoCard, { video: toVideoCard(receita), sizes: '1px' }))).includes('Receita'));
+
+// MP4 sem duração: sem selo e sem texto de duração.
+const localCard = render(createElement(VideoCard, { video: toVideoCard(local), sizes: '1px' }));
+assert.ok(!localCard.includes('sr-only') && !/\d:\d\d/.test(textOf(localCard)), 'MP4 sem duração');
+assert.ok(!/undefined|NaN/.test(localCard));
+
+// Upload só no YouTube: aba nova, sem nome de transição; sem miniatura, o fundo marinho.
+const externalCard = render(createElement(VideoCard, { video: channel[1], sizes: '1px', placement: 'videos_channel' }));
+assert.match(openingTag(externalCard), /target="_blank"/);
+assert.match(openingTag(externalCard), /rel="noopener noreferrer"/);
+assert.ok(!externalCard.includes('data-vt-name'));
+assert.equal(count(render(createElement(VideoCard, { video: channel[4], sizes: '1px' })), /<img/g), 0);
+
+// O link certo para cada caso: a página do vídeo pelo VideoPageLink (com a troca animada), o YouTube pelo
+// TrackedVideosLink; o placement chega aos dois.
+const internalElement = VideoCard({ video: toVideoCard(novo), sizes: '1px', placement: 'videos_grid' });
+assert.equal(internalElement.type, VideoPageLink);
+assert.equal(internalElement.props.placement, 'videos_grid');
+assert.equal(VideoCard({ video: channel[1], sizes: '1px', placement: 'videos_channel' }).type, TrackedVideosLink);
+
+// Cliques: medidos como videos_route_click com o destino, o placement e o texto do link; sem placement (a
+// home) e com o clique cancelado, nada. Os componentes rodam como função (nenhum usa hook) e o onClick do
+// elemento devolvido recebe um evento falso, com o window.gtag trocado por um espião.
+type ClickableElement = { props: { onClick?: (event: { defaultPrevented: boolean }) => void } };
+function gtagCallsOf({ props }: ClickableElement, event: { defaultPrevented: boolean } = { defaultPrevented: false }) {
+  const calls: unknown[][] = [];
+  Object.assign(globalThis, { window: { gtag: (...args: unknown[]) => calls.push(args) } });
+  try {
+    props.onClick?.(event);
+  } finally {
+    Reflect.deleteProperty(globalThis, 'window');
+  }
+  return calls;
+}
+const gridClick = ['event', 'videos_route_click', { destination: '/videos/novo-damie', placement: 'videos_grid', link_label: 'Vídeo novo-damie' }];
+assert.deepEqual(
+  gtagCallsOf(VideoPageLink({ href: '/videos/novo-damie', placement: 'videos_grid', linkLabel: 'Vídeo novo-damie', children: null })),
+  [gridClick]
+);
+assert.deepEqual(gtagCallsOf(VideoPageLink({ href: '/videos/novo-damie', linkLabel: 'Vídeo novo-damie', children: null })), [], 'home');
+const subscribeLink = { href: YOUTUBE_SUBSCRIBE_URL, placement: 'videos_subscribe', linkLabel: 'Inscrever-se no canal' } as const;
+assert.deepEqual(gtagCallsOf(TrackedVideosLink({ ...subscribeLink, children: null })), [
+  ['event', 'videos_route_click', { destination: YOUTUBE_SUBSCRIBE_URL, placement: 'videos_subscribe', link_label: 'Inscrever-se no canal' }],
+]);
+assert.deepEqual(gtagCallsOf(TrackedVideosLink({ ...subscribeLink, children: null }), { defaultPrevented: true }), []);
+
+// A fila: um ScrollRow; cada cartão entra na rolagem (revela, com a posição em --i). O canal vira 6 colunas
+// a partir de 1024 px; "Mais vídeos" rola em toda largura.
+const channelRow = render(createElement(VideoRow, { videos: channel, placement: 'videos_channel', desktopGrid: true }));
+assert.match(channelRow, /^<ul class="hide-scrollbar [^"]*lg:grid-cols-6/);
+assert.equal(count(channelRow, /<li class="revela flex w-40 shrink-0 snap-start md:w-48 lg:w-auto" style="--i:\d"/g), 6);
+const moreRow = render(createElement(VideoRow, { videos: items.map(toVideoCard), placement: 'video_more', desktopGrid: false }));
+assert.equal(count(moreRow, /<li class="revela flex w-40 shrink-0 snap-start md:w-48 ?" style="--i:\d"/g), items.length);
+assert.ok(!moreRow.includes('lg:grid') && !moreRow.includes('lg:w-auto'), 'Mais vídeos rola em toda largura');
+assert.equal(VideoRow({ videos: channel, desktopGrid: true }).type, ScrollRow, 'a fila é um ScrollRow');
 
 // Dados reais: toda página de vídeo entra, o destaque é o mais novo, cada chip tem 2 ou mais vídeos e
 // nenhuma página repete o próprio vídeo em "Mais vídeos".
