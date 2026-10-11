@@ -19,6 +19,7 @@ import { ReviewShelfCard, ReviewShelfRow } from '@/components/reviews/ReviewShel
 import { SHELF_CONTAINER, SHELF_TITLE } from '@/components/reviews/shelfClasses';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { RevealSection } from '@/components/ui/RevealSection';
+import { useRowScroll } from '@/components/ui/useRowScroll';
 import { trackEvent } from '@/lib/analytics';
 import type { ReviewCategory } from '@/lib/reviewDiscovery';
 import {
@@ -236,6 +237,9 @@ export function ReviewsBrowser({
   footer,
 }: ReviewsBrowserProps) {
   const categoryValues = useMemo(() => categories.map(({ value }) => value), [categories]);
+  // O degradê da borda direita dos chips só aparece enquanto há chip escondido; no fim da fila, o último
+  // chip fica inteiro. O hook é chamado sempre: sem a fila na tela (uma categoria só), ele não faz nada.
+  const { trackRef: categoriesRef, moreToTheRight: moreCategories } = useRowScroll<HTMLDivElement>(categories);
   const getUrlSearch = useCallback(() => urlSearchOf(listPath, window.location), [listPath]);
   const urlSearch = useSyncExternalStore(subscribeToUrl, getUrlSearch, getServerSearch);
   const canSearch = search !== null;
@@ -364,12 +368,15 @@ export function ReviewsBrowser({
 
   function selectCategory(category: ReviewCategory | null) {
     if (category === query.category) return;
+    // Um clique com esta página ainda na tela, depois de um Voltar para outra rota, não monta /?categoria=…
+    if (!isOnList(listPath, window.location.pathname)) return;
     trackControl('category', category ?? 'todos');
     runShelfTransition(shelfRef.current, () => writeUrl((latest) => ({ ...latest, category }), readQuery, 'push'));
   }
 
   function selectOrder(order: ShelfOrder) {
     if (order === query.order) return;
+    if (!isOnList(listPath, window.location.pathname)) return;
     trackControl('sort', order);
     runShelfTransition(shelfRef.current, () => writeUrl((latest) => ({ ...latest, order }), readQuery, 'push'));
   }
@@ -489,8 +496,11 @@ export function ReviewsBrowser({
           <div className="flex flex-col gap-3 md:flex-row md:flex-wrap md:items-center md:justify-between">
             {categories.length > 1 ? (
               <div
+                ref={categoriesRef}
                 data-categorias="true"
-                className="hide-scrollbar -mx-4 flex gap-2 overflow-x-auto px-4 py-1 [mask-image:linear-gradient(to_right,black_85%,transparent)] md:mx-0 md:flex-wrap md:overflow-visible md:px-0 md:[mask-image:none]"
+                className={`hide-scrollbar -mx-4 flex gap-2 overflow-x-auto px-4 py-1 md:mx-0 md:flex-wrap md:overflow-visible md:px-0 md:[mask-image:none]${
+                  moreCategories ? ' [mask-image:linear-gradient(to_right,black_85%,transparent)]' : ''
+                }`}
               >
                 {[{ value: null, label: 'Todos' }, ...categories].map(({ value, label }) => (
                   <button

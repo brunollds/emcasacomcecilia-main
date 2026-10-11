@@ -13,6 +13,7 @@ import { ReviewsStoreStrip } from '@/components/reviews/ReviewsStoreStrip';
 import { StoreBubbleLink } from '@/components/reviews/StoreBubbleLink';
 import { TrackedReviewsLink } from '@/components/reviews/TrackedReviewsLink';
 import { cardDecorAt } from '@/components/ui/cardDecor';
+import { ScrollRow } from '@/components/ui/ScrollRow';
 import { COUPONS } from '@/lib/couponsData';
 import { publishedReviews } from '@/lib/data';
 import { getStoreArticlePageSlugs, getStoreArticlesPage } from '@/lib/homeStores';
@@ -69,7 +70,8 @@ import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 // A estante de /reviews e das subpáginas de loja: as regras de reviewsShelf.ts, os dados de
-// reviewsHub.ts e (nas tasks seguintes) os componentes, renderizados como o servidor os entrega.
+// reviewsHub.ts e os componentes, renderizados como o servidor os entrega. Sem DOM, os cliques são
+// exercitados com eventos falsos.
 
 function store(slug: string) {
   const found = COUPONS.find((coupon) => coupon.slug === slug);
@@ -346,6 +348,7 @@ assert.deepEqual(getShelfControlParameters({ control: 'sort', value: 'az', listP
 assert.equal(shouldTrackSearch('a', null), false, 'menos de 2 letras');
 assert.equal(shouldTrackSearch('++', null), false, 'pontuação não é letra');
 assert.equal(shouldTrackSearch('5%', null), false, 'um número e um símbolo: menos de 2 letras ou números');
+assert.equal(shouldTrackSearch('50', null), true, 'dois números contam');
 assert.equal(shouldTrackSearch('a b', null), true, 'o espaço não conta, as duas letras sim');
 assert.equal(shouldTrackSearch('Poltrona', null), true);
 assert.equal(shouldTrackSearch('poltrona', 'poltrona'), false, 'o mesmo termo seguido');
@@ -451,6 +454,9 @@ function render(element: ReactElement): string {
   );
 }
 
+// O texto que o leitor de tela lê no link, na ordem do DOM: o HTML sem as tags.
+const textOf = (html: string) => html.replace(/<[^>]*>/g, '');
+
 // Cartão da grade: link com o anel de foco, data com o ano, tipo, loja embaixo, selo "Novo", foto lazy
 // e o nome da transição só no data-vt-name (o HTML não leva view-transition-name).
 const gridCard = render(
@@ -467,8 +473,16 @@ assert.match(gridCard, /focus-visible:outline-marinho/);
 assert.ok(gridCard.includes('>09/10/2026, Guia<'), 'data com o ano e tipo');
 assert.ok(gridCard.includes('>DAMIE</span>'), 'loja embaixo');
 assert.ok(gridCard.includes('>Novo</span>'), 'selo Novo');
-// O selo é o último filho do link: o nome acessível começa pela data e pelo título, não por "Novo".
-assert.ok(gridCard.indexOf('>Novo</span>') > gridCard.indexOf('>Poltrona reclinável DAMIE</span>'), 'selo depois do título');
+// O título é o h3 do cartão e o primeiro texto do DOM, depois da foto; a data e o tipo vêm depois dele no
+// DOM e sobem na tela por order-first. O selo é o último filho do link: o nome acessível começa pelo
+// título, não pela data nem por "Novo".
+assert.match(gridCard, /<h3 [^>]*>Poltrona reclinável DAMIE<\/h3>/, 'título como h3');
+assert.ok(gridCard.indexOf('data-vt-name') < gridCard.indexOf('<h3'), 'título depois da foto');
+assert.equal(textOf(gridCard.slice(0, gridCard.indexOf('<h3'))), '', 'nenhum texto antes do título');
+assert.ok(gridCard.indexOf('<h3') < gridCard.indexOf('>09/10/2026, Guia<'), 'título antes da data no DOM');
+assert.match(gridCard, /<span class="order-first [^"]*">09\/10\/2026, Guia<\/span>/, 'a data sobe na tela');
+assert.ok(textOf(gridCard).startsWith('Poltrona reclinável DAMIE'), 'o nome do link começa pelo título');
+assert.ok(gridCard.indexOf('>Novo</span>') > gridCard.indexOf('>Poltrona reclinável DAMIE</h3>'), 'selo depois do título');
 assert.ok(gridCard.endsWith('>Novo</span></a>'), 'selo como último filho do link');
 assert.ok(gridCard.includes('data-vt-name="review-hero-poltrona-damie"'));
 assert.ok(!gridCard.includes('view-transition-name'), 'nome de transição no HTML');
@@ -502,6 +516,7 @@ const newCard = render(
   })
 );
 assert.ok(newCard.includes('>09/10, Guia<'));
+assert.ok(newCard.indexOf('<h3') !== -1 && newCard.indexOf('<h3') < newCard.indexOf('>09/10, Guia<'), 'título antes da data nas Novidades');
 assert.ok(!newCard.includes('>Novo</span>'), 'selo Novo nas Novidades');
 const magnet = newCard.match(/<span [^>]*bg-amarelo-cupom[^>]*>/)?.[0];
 assert.ok(magnet, 'ímã amarelo');
@@ -535,6 +550,10 @@ assert.match(contained, /<img [^>]*class="[^"]*object-contain/);
 const row = render(createElement(ReviewShelfRow, { article: article('magalu-1'), placement: 'reviews_list', showStore: true }));
 assert.match(row, /<a [^>]*href="\/reviews\/magalu-1"/);
 assert.ok(row.includes('>04/07/2026, Guia<'));
+assert.match(row, /<h3 [^>]*>Título magalu-1<\/h3>/, 'título como h3');
+assert.ok(row.indexOf('data-vt-name') < row.indexOf('<h3'), 'título depois da foto');
+assert.ok(row.indexOf('<h3') < row.indexOf('>04/07/2026, Guia<'), 'título antes da data no DOM');
+assert.ok(textOf(row).startsWith('Título magalu-1'), 'o nome do link começa pelo título');
 assert.ok(row.includes('>Magalu</span>'));
 assert.ok(row.includes('data-vt-name="review-hero-magalu-1"'));
 const rowNoStore = render(createElement(ReviewShelfRow, { article: article('magalu-1'), placement: 'store_list', showStore: false }));
@@ -660,7 +679,12 @@ function clickOn(photo: FakePhoto, modifiers: { ctrlKey?: boolean } = {}) {
     button: 0,
     ...modifiers,
     target: { target: '' },
-    currentTarget: { querySelector: () => photo },
+    currentTarget: {
+      querySelector: (selector: string) => {
+        assert.equal(selector, '[data-vt-name]', 'a foto é buscada por [data-vt-name]');
+        return photo;
+      },
+    },
     preventDefault: () => {
       prevented = true;
     },
@@ -670,7 +694,13 @@ function clickOn(photo: FakePhoto, modifiers: { ctrlKey?: boolean } = {}) {
 
 Object.assign(globalThis, {
   window: { matchMedia: () => ({ matches: false }) },
-  document: { querySelectorAll: () => photos, startViewTransition: (update: () => void) => update() },
+  document: {
+    querySelectorAll: (selector: string) => {
+      assert.equal(selector, '[data-vt-name]', 'as fotos com nome são buscadas por [data-vt-name]');
+      return photos;
+    },
+    startViewTransition: (update: () => void) => update(),
+  },
 });
 try {
   assert.equal(clickOn(novidadesPhoto), true, 'clique comum vira transição');
@@ -754,6 +784,22 @@ const reversedStrip = render(
   })
 );
 assert.deepEqual(stripSlugs(reversedStrip), ['magalu', 'damie']);
+// A fila das bolinhas é um ScrollRow (com o foco do teclado, a bolinha meio escondida entra inteira). O
+// HTML do servidor é o mesmo de um <ul> comum, então não prova nada: a prova está na árvore de elementos,
+// que o componente (sem hooks) devolve quando chamado como função.
+function containsType(node: unknown, type: unknown): boolean {
+  if (Array.isArray(node)) return node.some((child) => containsType(child, type));
+  if (typeof node !== 'object' || node === null || !('type' in node) || !('props' in node)) return false;
+  const { type: nodeType, props } = node as ReactElement<{ children?: unknown }>;
+  return nodeType === type || containsType(props.children, type);
+}
+assert.ok(
+  containsType(
+    ReviewsStoreStrip({ id: 'titulo-por-loja', title: 'Por loja', stores: twoStoresHub.stores, placement: 'reviews_stores' }),
+    ScrollRow
+  ),
+  'a fila das bolinhas é um ScrollRow'
+);
 assert.equal(
   render(createElement(ReviewsStoreStrip, { id: 'titulo-outras-lojas', title: 'Outras lojas', stores: [], placement: 'store_other_stores' })),
   ''

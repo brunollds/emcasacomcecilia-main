@@ -103,15 +103,17 @@ export function ReviewShelfCard({
       >
         <Photo article={article} sizes={imageSizes} eager={eager} />
       </span>
-      <span className="flex flex-1 flex-col gap-1.5 p-3">
-        <span className="text-xs font-bold text-marinho-suave">{`${article[dateFormat]}, ${article.type}`}</span>
-        <span className="text-[15px] leading-5 font-extrabold">{article.title}</span>
-      </span>
+      {/* O título vem primeiro no DOM (é o começo do nome do link e o cabeçalho do cartão); o order-first
+          põe a data e o tipo acima dele, na tela. */}
+      <div className="flex flex-1 flex-col gap-1.5 p-3">
+        <h3 className="text-[15px] leading-5 font-extrabold">{article.title}</h3>
+        <span className="order-first text-xs font-bold text-marinho-suave">{`${article[dateFormat]}, ${article.type}`}</span>
+      </div>
       {showStore && article.store ? (
         <span className="rounded-b-lg border-t-2 border-marinho bg-creme px-3 py-2 text-xs font-bold">{article.store}</span>
       ) : null}
-      {/* Último filho do link: o nome acessível começa pela data e pelo título, não por "Novo". Fica no canto
-          da foto por posição absoluta, em relação ao link. */}
+      {/* Último filho do link: o nome acessível começa pelo título, não por "Novo". Fica no canto da foto por
+          posição absoluta, em relação ao link. */}
       {showNewBadge && article.isNew ? (
         <span className="absolute top-2 left-2 z-10 rounded-full border-2 border-marinho bg-laranja px-2.5 py-0.5 text-[11px] font-extrabold text-marinho">
           Novo
@@ -134,15 +136,15 @@ export function ReviewShelfRow({ article, placement, showStore }: ShelfLinkProps
       >
         <Photo article={article} sizes="56px" compact />
       </span>
-      <span className="flex min-w-0 flex-col gap-0.5">
-        <span className="text-[15px] leading-5 font-extrabold group-hover:underline group-hover:underline-offset-[3px]">
+      <div className="flex min-w-0 flex-col gap-0.5">
+        <h3 className="text-[15px] leading-5 font-extrabold group-hover:underline group-hover:underline-offset-[3px]">
           {article.title}
-        </span>
+        </h3>
         <span className="flex flex-wrap gap-x-2 text-xs font-bold text-marinho-suave">
           <span>{`${article.fullDate}, ${article.type}`}</span>
           {showStore && article.store ? <span className="text-marinho">{article.store}</span> : null}
         </span>
-      </span>
+      </div>
     </ViewTransitionLink>
   );
 }
