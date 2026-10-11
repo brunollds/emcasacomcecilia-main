@@ -277,7 +277,7 @@ const COPY: Record<LocaleHomeCopyLocale, LocaleHomeCopy> = {
     certificateTier: 'YesStyle 인플루언서 프로그램 최고 등급 · {years}',
     certificateLink: '인증서 보기',
     certificateAlt:
-      'YesStyle Superstar Influencer 인증서: {name}은(는) YesStyle 인플루언서 프로그램의 최고 등급인 SUPERSTAR를 달성했습니다. 유효 기간: {from}~{until}.',
+      'YesStyle Superstar Influencer 인증서: {name}는 YesStyle 인플루언서 프로그램의 최고 등급인 SUPERSTAR를 달성했습니다. 유효 기간: {from}~{until}.',
     certificateClose: '닫기',
     emailCta: '이메일 보내기',
     socialAria: '{network}의 Cecília',
@@ -295,7 +295,7 @@ const COPY: Record<LocaleHomeCopyLocale, LocaleHomeCopy> = {
     faqTitle: '자주 묻는 질문',
     faqWhoQuestion: 'Cecília는 누구인가요?',
     faqWhoAnswer:
-      '{name}은(는) 브라질 미나스제라이스 출신 크리에이터예요. {since}년부터 @emcasacomcecilia로 살림 팁, 레시피, 쇼핑 가이드를 나누고 있어요.',
+      '{name}는 브라질 미나스제라이스 출신 크리에이터예요. {since}년부터 @emcasacomcecilia로 살림 팁, 레시피, 쇼핑 가이드를 나누고 있어요.',
     faqWhyQuestion: '브라질 사이트가 왜 제 언어로 되어 있나요?',
     faqWhyAnswer: 'Cecília는 {stores} 같은 해외 스토어와 함께 일해요. 다른 나라 독자도 쓸 수 있도록 가이드와 스토어 페이지를 번역해요.',
     faqWhereQuestion: '각 코드는 어디에 쓰나요?',

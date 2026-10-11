@@ -97,6 +97,15 @@ for (const locale of LOCALE_HOME_LOCALES) {
 assert.equal(fillTemplate('{a} e {b}', { a: 1, b: 'x' }), '1 e x');
 assert.throws(() => fillTemplate('{name} desde {since}', { name: 'x' }), /since/);
 
+// Em coreano a partícula depende do som final do nome, que o {name} só conhece na hora de montar a frase:
+// a forma dupla "은(는)" não vale, o texto tem de trazer a partícula certa.
+const DOUBLE_PARTICLE = /은\(는\)|이\(가\)|을\(를\)/;
+const doubleParticleKeys = (texts: Array<[string, string]>) => texts.filter(([, text]) => DOUBLE_PARTICLE.test(text)).map(([key]) => key);
+assert.deepEqual(doubleParticleKeys([['x', '{name}은(는) 크리에이터예요.']]), ['x'], 'a trava da partícula dupla não acusa "은(는)"');
+assert.deepEqual(doubleParticleKeys([['x', '{name}는 크리에이터예요.']]), [], 'a trava da partícula dupla acusou uma partícula certa');
+const koDoubleParticles = doubleParticleKeys(entries(getLocaleHomeCopy('ko')));
+assert.deepEqual(koDoubleParticles, [], `ko: partícula dupla em ${koDoubleParticles.join(', ')} (use a partícula certa para o nome)`);
+
 // Os casadores das travas de loja e de cupom acham o que têm de achar. Sem isto, um casador que passasse a
 // responder sempre "não" deixaria as travas das homes vazias e a build seguiria verde.
 assert.equal(isStoreLink('https://ystyle.co/x'), true, 'isStoreLink não acha o encurtador da YesStyle');
