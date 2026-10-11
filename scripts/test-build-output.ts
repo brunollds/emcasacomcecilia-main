@@ -174,6 +174,13 @@ assert.match(
   'CSS com a troca de loja fora do @media de prefers-reduced-motion: no-preference'
 );
 
+// Os chips de categoria da estante perdem o degradê da borda a partir de md (md:[mask-image:none]). Uma
+// classe do Tailwind colada a um ${…} num template deixa de ser lida e some do CSS sem erro nenhum.
+assert.ok(
+  css.includes('.md\\:\\[mask-image\\:none\\]{'),
+  'CSS sem o md:[mask-image:none] dos chips de categoria: o degradê da borda valeria no computador'
+);
+
 // O movimento da estante de /reviews e das subpáginas (D2.2) também só com o movimento liberado. Cada
 // seletor aparece ao menos uma vez no CSS gerado, e toda ocorrência fica dentro de um @media com
 // prefers-reduced-motion: no-preference. O Lightning CSS mantém o espaço do seletor descendente e o

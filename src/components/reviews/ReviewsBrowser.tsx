@@ -498,8 +498,8 @@ export function ReviewsBrowser({
               <div
                 ref={categoriesRef}
                 data-categorias="true"
-                className={`hide-scrollbar -mx-4 flex gap-2 overflow-x-auto px-4 py-1 md:mx-0 md:flex-wrap md:overflow-visible md:px-0 md:[mask-image:none]${
-                  moreCategories ? ' [mask-image:linear-gradient(to_right,black_85%,transparent)]' : ''
+                className={`hide-scrollbar -mx-4 flex gap-2 overflow-x-auto px-4 py-1 md:mx-0 md:flex-wrap md:overflow-visible md:px-0 md:[mask-image:none] ${
+                  moreCategories ? '[mask-image:linear-gradient(to_right,black_85%,transparent)]' : ''
                 }`}
               >
                 {[{ value: null, label: 'Todos' }, ...categories].map(({ value, label }) => (
