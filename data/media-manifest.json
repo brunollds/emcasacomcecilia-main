@@ -52393,6 +52393,116 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/shein/black-friday-shein-cecilia.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32226,
+      "sha256": "58eddcb4588713b7d59b4275795e32aae7d5173b13f72b3b36db3972bc99659c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-cecilia.webp",
+      "storage_filename": "black-friday-shein-cecilia.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein-date-e-tasse.json",
+        "content/reviews/black-friday-shein-dates-et-taxes.json",
+        "content/reviews/black-friday-shein-fechas-impuestos.json",
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "content/reviews/shein-black-friday-ja.json",
+        "content/reviews/shein-black-friday-ko.json",
+        "content/reviews/shein-black-friday-termine-steuern.json",
+        "content/reviews/shein-black-friday-zh-hans.json",
+        "content/reviews/shein-black-friday-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein-date-e-tasse.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-shein-dates-et-taxes.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-shein-fechas-impuestos.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-termine-steuern.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/58eddcb4588713b7d59b4275795e32aae7d5173b13f72b3b36db3972bc99659c/black-friday-shein-cecilia.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/58eddcb4588713b7d59b4275795e32aae7d5173b13f72b3b36db3972bc99659c/black-friday-shein-cecilia.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-11T22:10:09.408Z",
+      "verification_etag_or_digest": "58eddcb4588713b7d59b4275795e32aae7d5173b13f72b3b36db3972bc99659c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/sofa-damie-modular-hero.webp",
       "local_url": "/images/reviews/sofa-damie-modular-hero.webp",
       "media_kind": "image",

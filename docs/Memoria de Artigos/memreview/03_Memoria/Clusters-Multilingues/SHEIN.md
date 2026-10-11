@@ -5,7 +5,7 @@ modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
 fonte_tecnica: "00_Sistema/JOBS/Job-4-Conformacao-JSON.md (seção 3)"
-ultima_revisao: "2026-10-07"
+ultima_revisao: "2026-10-11"
 ---
 
 # Cluster multilíngue — SHEIN
@@ -38,7 +38,7 @@ e `/<locale>/coupons/shein`), servida por rota dinâmica com os textos de
 
 | Chave | Fonte PT | Idiomas | Estado |
 |---|---|---:|---|
-| — | — | — | nenhum artigo da SHEIN publicado; a página da loja já sai nos 10 idiomas |
+| `shein-black-friday` | [[02_Artigos/black-friday-shein]] | 10/10 | pronto para deploy (11/10/2026); a primeira família da SHEIN |
 
 Quando a primeira família sair, registrar aqui a chave, o slug da fonte em português
 e a data (Job 4, seção 3, item 9).

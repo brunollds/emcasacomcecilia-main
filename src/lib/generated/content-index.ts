@@ -56893,5 +56893,2164 @@ export const reviewsData: unknown[] = [
         "title": "YesStyle 值得信赖吗？购买前必看安全评价与购物指南"
       }
     ]
+  },
+  {
+    "id": 347,
+    "slug": "black-friday-shein",
+    "locale": "pt",
+    "translationKey": "shein-black-friday",
+    "title": "Black Friday SHEIN 2026: quando começa, até quando vai e o imposto de importação zero até US$ 50",
+    "seoTitle": "Black Friday SHEIN 2026: datas, imposto e cupons",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quando começa e até quando vai a Black Friday da SHEIN, o calendário de 2023 a 2025, o que muda com o imposto de importação zerado nos pedidos de até US$ 50, Envio Nacional ou internacional, cupons, pontos, pagamento e devolução.",
+    "metaDescription": "Black Friday SHEIN 2026: o calendário de 2023 a 2025, o imposto de importação zero até US$ 50 e o ICMS que continua, Envio Nacional, cupons, pontos e devolução.",
+    "publishedAt": "11 de outubro de 2026",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "Cecília Mauad em dois looks de um haul da SHEIN: blusa clara amarrada na cintura com saia midi preta, e vestido longo preto com recortes claros",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Desde 13 de maio de 2026, pedidos de até US$ 50 não pagam imposto de importação",
+      "Nos três últimos anos, as ofertas começaram antes da Black Friday e continuaram depois dela",
+      "Produtos de Envio Nacional não pagam imposto de importação",
+      "Devolução em até 20 dias, com a primeira devolução de cada pedido grátis"
+    ],
+    "cons": [
+      "O \"até 90%\" vale para alguns itens, não para o carrinho inteiro",
+      "O ICMS de 17% a 20% continua em toda compra internacional",
+      "Acima de US$ 50, o imposto de importação volta: 60%, menos US$ 30 no valor do imposto",
+      "Um cupom da SHEIN por pedido, e o imposto pago não volta na devolução"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A SHEIN ainda não anunciou a Black Friday de 2026. Nos três últimos anos, as ofertas começaram antes da data, junto com o 11.11, e terminaram depois dela (25/11 em 2023 e 30/11 em 2024 e 2025). Em 2026, a Black Friday cai em 27 de novembro.",
+          "A grande mudança deste ano é o imposto. Desde 13 de maio de 2026, o pedido internacional de até **US$ 50** (produto mais frete, já com os descontos) não paga imposto de importação. O ICMS do estado, de 17% a 20%, continua, e a SHEIN diz que cobre uma parte dele. Acima de US$ 50, o imposto de importação volta.",
+          "Vale um cupom da SHEIN por pedido. O 4CW5Y é o código de indicação da Cecília: você pesquisa o código no aplicativo da SHEIN e confere as condições que aparecem para a sua conta."
+        ]
+      },
+      {
+        "heading": "Quando começa a Black Friday da SHEIN",
+        "paragraphs": [
+          "A SHEIN junta o 11.11 e a Black Friday numa campanha só, com fases que aumentam o desconto máximo até o fim do mês. A tabela abaixo junta o que a SHEIN anunciou nos três últimos anos. O calendário de 2026 ainda não saiu."
+        ],
+        "comparisonTable": {
+          "caption": "Fases e descontos máximos anunciados pela SHEIN Brasil, pela imprensa que publicou os comunicados e pelos perfis da marca. O \"até\" vale para alguns itens.",
+          "headers": [
+            "Ano",
+            "Começo e fim",
+            "Desconto máximo anunciado"
+          ],
+          "rows": [
+            [
+              "2023",
+              "11/11 a 25/11",
+              "até 80% de 11 a 19/11, até 85% de 20 a 23/11 e até 90% em 24 e 25/11, com 48 horas de frete grátis na semana da Black Friday"
+            ],
+            [
+              "2024",
+              "21/10 a 30/11",
+              "11.11: até 85% de 21/10 a 4/11, até 90% de 5 a 10/11 e até 95% de 11 a 13/11. Black Friday: até 90% de 13 a 25/11 e até 95% de 26 a 30/11"
+            ],
+            [
+              "2025",
+              "já no ar em 3/11, até 30/11",
+              "até 90% em mais de 800 mil itens até 9/11, com frete grátis em várias categorias; em 24/11, até 95% em mais de 800 mil itens"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Em 2026, o 11.11 cai numa quarta-feira e a Black Friday numa sexta, 27 de novembro. Se a SHEIN repetir o padrão, as ofertas devem começar entre o fim de outubro e o começo de novembro e ir até 30 de novembro. É uma estimativa pelo histórico, e este guia é atualizado quando a SHEIN anunciar a campanha de 2026.",
+          "Nos três anos, o desconto máximo subiu perto do fim: 90% em 24 e 25/11 de 2023, 95% de 26 a 30/11 de 2024 e 95% a partir de 24/11 de 2025."
+        ]
+      },
+      {
+        "heading": "\"Até 90%\" não é o carrinho inteiro",
+        "paragraphs": [
+          "O percentual da campanha é o maior desconto de alguns itens. A maior parte do catálogo tem descontos menores, e o preço de cada peça muda ao longo das fases. Para não cair no número grande da propaganda:"
+        ],
+        "bullets": [
+          "Salve as peças na lista de desejos antes de a campanha começar e anote o preço de agora.",
+          "Compare o preço da lista com o das fases seguintes: nos três últimos anos, o desconto máximo subiu na reta final.",
+          "Olhe o preço final no carrinho, com frete e impostos, e não só o percentual do anúncio.",
+          "Se a peça é de tamanho difícil de achar, não espere a última fase: o estoque pode acabar antes."
+        ]
+      },
+      {
+        "heading": "O imposto na Black Friday: o que mudou em 2026",
+        "paragraphs": [
+          "A SHEIN faz parte do Remessa Conforme, o programa da Receita Federal para compras internacionais. Por isso, os impostos são cobrados no checkout, junto com o pedido. Em regra, não há cobrança extra na entrega, mas a Receita Federal pode reavaliar o valor do pacote, e isso muda o imposto devido. Em 13 de maio de 2026, o imposto de importação das compras de até US$ 50 foi zerado. A Lei 15.502, de 10 de setembro de 2026, confirmou que o governo pode manter a alíquota zero nessa faixa.",
+          "A conta vale por pedido e usa o valor do produto mais o frete, já com os descontos e o cupom. Ou seja, o desconto da Black Friday pode deixar um pedido abaixo de US$ 50. O limite é em dólar: o checkout mostra os impostos do seu pedido antes do pagamento."
+        ],
+        "comparisonTable": {
+          "caption": "Pela página de impostos da SHEIN Brasil, atualizada em 23/05/2026. O ICMS de 17% vale para a maioria dos estados; Amapá tem 18%, Pará 19%, e Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima e Sergipe têm 20%.",
+          "headers": [
+            "Pedido (produto + frete)",
+            "Imposto de importação",
+            "ICMS",
+            "Exemplo da SHEIN, sem o subsídio"
+          ],
+          "rows": [
+            [
+              "Até US$ 50",
+              "0%",
+              "17% a 20%, conforme o estado",
+              "US$ 50 viram US$ 60,24 com ICMS de 17%"
+            ],
+            [
+              "Acima de US$ 50",
+              "60%, menos US$ 30 no valor do imposto",
+              "17% a 20%, também sobre o imposto de importação",
+              "US$ 100 viram US$ 156,63 com ICMS de 17%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A SHEIN diz que continua cobrindo parte do ICMS, só sobre o valor do produto. O tamanho desse subsídio muda de cliente para cliente, por critérios que a loja não divulga, e não cobre o ICMS que incide sobre o imposto de importação.",
+          "Os produtos de **Envio Nacional**, que já estão no Brasil, não pagam imposto de importação. E o imposto de importação pago não volta se você devolver a peça depois do envio."
+        ]
+      },
+      {
+        "heading": "Envio Nacional ou internacional?",
+        "paragraphs": [
+          "Na SHEIN, a mesma busca mistura produtos que vêm de fora e produtos de vendedores que já estão no Brasil, marcados como Envio Nacional. Na Black Friday, a diferença pesa no preço final e nas regras de desconto."
+        ],
+        "bullets": [
+          "**Envio Nacional:** sem imposto de importação. Cada vendedor tem o próprio frete, prazo e condições, e os pontos SHEIN não valem nesses itens.",
+          "**Internacional:** passa pela alfândega, com os impostos cobrados no checkout. A SHEIN leva de 3 a 5 dias para processar o pedido antes do envio, e o nome do pedido precisa bater com o CPF.",
+          "**Prazo:** o prazo de entrega e o frete aparecem na página do pedido antes de pagar. O pedido pode chegar em mais de um pacote.",
+          "**Atraso:** a SHEIN tem um serviço gratuito de Entrega no Prazo, que dá 200 pontos SHEIN ou R$ 10 em créditos na carteira se o pedido não chegar até a data prevista."
+        ]
+      },
+      {
+        "heading": "Cupons, pontos e o código 4CW5Y",
+        "paragraphs": [
+          "Pela política de cupons da SHEIN, vale um cupom da plataforma por pedido. Se o carrinho tiver produtos de vendedores nacionais, dá para usar também o cupom da loja desse vendedor: no máximo dois cupons, um de cada tipo. Cada cupom tem validade, e o que não foi usado a tempo fica indisponível.",
+          "Os pontos SHEIN valem US$ 1 a cada 100 pontos e abatem até 30% do valor dos produtos, sem contar frete e impostos. Eles não valem em itens de vendedores nacionais.",
+          "O 4CW5Y não é cupom: é o código de indicação da Cecília. Você pesquisa 4CW5Y no aplicativo da SHEIN e confere as condições que aparecem para a sua conta. As campanhas da SHEIN mudam toda hora, por isso ficam na página da loja aqui do site, com a data em que foram conferidas."
+        ],
+        "links": [
+          {
+            "label": "Ver o código de indicação 4CW5Y e as campanhas da SHEIN",
+            "href": "/cupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "Como pagar na Black Friday",
+        "paragraphs": [
+          "A SHEIN aceita Pix, cartão de crédito brasileiro em até 6 parcelas, boleto, PayPal e Pagaleve. O boleto precisa ser pago em até 3 dias, e a própria SHEIN sugere cartão ou PayPal para evitar falta de estoque ou atraso na confirmação do pagamento, o que pesa numa promoção com estoque curto.",
+          "Se precisar de reembolso, o Pix é o mais rápido: a SHEIN processa em até 24 horas, e o banco leva de 1 a 3 dias úteis. No cartão de crédito, o banco leva de 3 a 8 dias úteis, às vezes até 30 dias."
+        ]
+      },
+      {
+        "heading": "Trocas e devoluções depois da Black Friday",
+        "bullets": [
+          "**Prazo:** até 20 dias depois de receber, mesmo que você só não tenha gostado da peça.",
+          "**Itens que só voltam em 7 dias:** bodies, moda praia, roupa íntima, brincos e piercings e produtos para pets, e cosméticos, artigos de festa e de artesanato com o lacre aberto. Esses só podem ser devolvidos no prazo de arrependimento de 7 dias, contado da entrega.",
+          "**Frete da devolução:** a primeira devolução de cada pedido é grátis, pelos Correios, pela Jadlog ou pela Total Express. Da segunda em diante, a SHEIN desconta R$ 45 do reembolso a cada devolução.",
+          "**Cupom:** em devolução parcial, o cupom conta como usado e não volta para a conta. Se o pedido ficar abaixo do valor mínimo do cupom, a SHEIN desconta do reembolso a parte do desconto que deixou de valer.",
+          "**Imposto:** o imposto de importação pago não volta depois que o pedido foi enviado."
+        ]
+      },
+      {
+        "heading": "Antes de pagar: o que conferir",
+        "bullets": [
+          "Se o produto é de Envio Nacional ou internacional.",
+          "Se o pedido internacional ficou em até US$ 50, contando o frete e já com os descontos.",
+          "Quanto deu o ICMS no resumo do pedido.",
+          "Se o cupom entrou e se os pontos foram abatidos.",
+          "O prazo de entrega, se a compra for presente de Natal.",
+          "Se a peça é dos itens que só podem ser devolvidos em 7 dias."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quando começa a Black Friday da SHEIN em 2026? A SHEIN ainda não anunciou. Em 2024 as ofertas começaram em 21 de outubro, junto com o 11.11, e em 2025 já estavam no ar em 3 de novembro. A Black Friday de 2026 é em 27 de novembro.",
+          "A Black Friday da SHEIN vai até quando? Em 2024 e 2025, até 30 de novembro. Em 2023, até 25 de novembro, o sábado depois da Black Friday.",
+          "O que é o 11.11 da SHEIN? É a promoção do Dia dos Solteiros, em 11 de novembro. A SHEIN junta o 11.11 e a Black Friday numa campanha só, com fases de desconto até o fim do mês.",
+          "Tem imposto nas compras da SHEIN na Black Friday? Tem ICMS, de 17% a 20% conforme o estado, em toda compra internacional. O imposto de importação é zero nos pedidos de até US$ 50 e de 60%, menos US$ 30 no valor do imposto, acima disso.",
+          "O imposto zero da SHEIN vale para qualquer compra? Vale para o pedido internacional de até US$ 50, contando produto e frete, já com os descontos. Acima disso, o imposto de importação volta.",
+          "Produto de Envio Nacional paga imposto de importação? Não. Os produtos de Envio Nacional já estão no Brasil e não pagam imposto de importação.",
+          "Posso usar mais de um cupom na SHEIN? Um cupom da SHEIN por pedido. Se o carrinho tiver produtos de vendedores nacionais, dá para somar o cupom da loja desse vendedor.",
+          "O 4CW5Y é cupom de desconto? Não. É o código de indicação da Cecília: você pesquisa o código no aplicativo da SHEIN e vê as condições para a sua conta.",
+          "Tem frete grátis na Black Friday da SHEIN? Nos últimos anos, teve em momentos da campanha: 48 horas em 2023 e frete grátis em várias categorias no começo da campanha de 2025. O frete do seu pedido aparece no carrinho.",
+          "Quanto tempo tenho para devolver o que comprei na Black Friday? Até 20 dias depois de receber. Roupa íntima, moda praia, bodies, brincos e alguns outros itens só voltam no prazo de 7 dias."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Monte o carrinho na SHEIN e confira o imposto no resumo do pedido antes de pagar",
+      "label": "Ir para a SHEIN",
+      "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Regras das páginas oficiais da SHEIN Brasil e da Lei 15.502/2026. Podemos receber comissão pelas compras.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-yesstyle",
+        "title": "Black Friday YesStyle 2026: quando começa, como funcionam os cupons e onde entra o código CECILIA010"
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "slug": "shein-black-friday-dates-taxes",
+    "locale": "en",
+    "translationKey": "shein-black-friday",
+    "title": "SHEIN Brazil Black Friday 2026: when it starts, how long it lasts and the zero import tax up to US$ 50",
+    "seoTitle": "SHEIN Black Friday 2026 Brazil: dates, taxes and coupons",
+    "type": "Black Friday Guide",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "When SHEIN Brazil's Black Friday starts and ends, the 2023 to 2025 calendar, what changes with the zero import tax on orders up to US$ 50, National Shipping or international, coupons, points, payment and returns.",
+    "metaDescription": "SHEIN Brazil Black Friday 2026: 2023–2025 calendar, zero import tax up to US$ 50, the ICMS that still applies, National Shipping, coupons, points and returns.",
+    "publishedAt": "October 11, 2026",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "Cecília Mauad in two looks from a SHEIN haul: a light blouse tied at the waist with a black midi skirt, and a long black dress with light panels.",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Since May 13, 2026, international orders up to US$ 50 are exempt from Brazil's import tax",
+      "In the last three years, the offers started before Black Friday and continued after it",
+      "Products shipped via National Shipping (Envio Nacional) pay no import tax",
+      "Returns within 20 days, and the first return of each order is free"
+    ],
+    "cons": [
+      "The “up to 90%” applies to some items, not to the whole cart",
+      "ICMS, the Brazilian state tax (17% to 20%), still applies to every international purchase",
+      "Above US$ 50, the import tax returns: 60%, minus US$ 30 off the tax amount",
+      "One SHEIN coupon per order, and the import tax paid is not refunded on returns"
+    ],
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "This guide covers SHEIN Brazil (the Brazilian site and app), and its dates, taxes, prices and rules may differ in other countries. SHEIN has not announced Black Friday 2026 yet. In the last three years, the offers started before Black Friday, together with 11.11 (the Singles' Day sale), and ended after it: on Nov 25 in 2023, and on Nov 30 in 2024 and 2025. In 2026, Black Friday falls on November 27.",
+          "The big change this year is the tax. Since May 13, 2026, an international order up to **US$ 50** (product plus shipping, already with discounts) pays no import tax. The state ICMS, of 17% to 20%, still applies, and SHEIN says it covers part of it. Above US$ 50, the import tax comes back.",
+          "There is one SHEIN coupon per order. The 4CW5Y is Cecília's referral code for SHEIN Brazil: you search 4CW5Y in the SHEIN app and check the conditions shown for your account. The referral code and the campaigns are SHEIN Brazil's, so they may not work in other countries."
+        ]
+      },
+      {
+        "heading": "When the SHEIN Black Friday starts",
+        "paragraphs": [
+          "SHEIN puts 11.11 and Black Friday into one campaign, with phases that raise the maximum discount until the end of the month. The table below gathers what SHEIN announced in the last three years. The 2026 calendar is not out yet."
+        ],
+        "comparisonTable": {
+          "caption": "Phases and maximum discounts announced by SHEIN Brazil, by the press that published the announcements and by the brand's profiles. The “up to” applies to some items.",
+          "headers": [
+            "Year",
+            "Start and end",
+            "Maximum discount announced"
+          ],
+          "rows": [
+            [
+              "2023",
+              "Nov 11 – Nov 25",
+              "up to 80% from Nov 11 to 19, up to 85% from Nov 20 to 23 and up to 90% on Nov 24 and 25, with 48 hours of free shipping during Black Friday week"
+            ],
+            [
+              "2024",
+              "Oct 21 – Nov 30",
+              "11.11: up to 85% from Oct 21 to Nov 4, up to 90% from Nov 5 to 10 and up to 95% from Nov 11 to 13. Black Friday: up to 90% from Nov 13 to 25 and up to 95% from Nov 26 to 30"
+            ],
+            [
+              "2025",
+              "live on Nov 3, until Nov 30",
+              "up to 90% on more than 800,000 items until Nov 9, with free shipping in several categories; on Nov 24, up to 95% on more than 800,000 items"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "In 2026, 11.11 falls on a Wednesday and Black Friday on a Friday, November 27. If SHEIN repeats the pattern, the offers should start between late October and early November and run until November 30. This is an estimate based on past years, and this guide will be updated when SHEIN announces the 2026 campaign.",
+          "Over those three years, the maximum discount rose near the end: 90% on Nov 24 and 25 in 2023, 95% from Nov 26 to 30 in 2024, and 95% from Nov 24 in 2025."
+        ]
+      },
+      {
+        "heading": "“Up to 90%” is not the whole cart",
+        "paragraphs": [
+          "The campaign's percentage is the biggest discount on some items. Most of the catalogue has smaller discounts, and the price of each piece changes across the phases. To avoid falling for the big number in the ads:"
+        ],
+        "bullets": [
+          "Save the items to your wish list before the campaign starts and note today's price.",
+          "Compare the list price with the prices in the next phases: over the last three years, the maximum discount rose near the end.",
+          "Check the final price in the cart, with shipping and taxes, not just the percentage in the ad.",
+          "If the item comes in a size that is hard to find, don't wait for the last phase: the stock may run out first."
+        ]
+      },
+      {
+        "heading": "The tax on Black Friday: what changed in 2026",
+        "paragraphs": [
+          "SHEIN takes part in Remessa Conforme, the program that Brazil's Federal Revenue Service (Receita Federal) runs for international purchases. So taxes are charged at checkout, together with the order. As a rule there is no extra charge on delivery, but Brazil's Federal Revenue may reassess the package value, which changes the tax due. On May 13, 2026, Brazil's import tax on purchases up to US$ 50 was set to zero. Law 15.502/2026, of September 10, 2026, confirmed that the government can keep the zero rate for that band.",
+          "The calculation applies per order and uses the product value plus shipping, already with the discounts and the coupon. So the Black Friday discount can bring an order below US$ 50. The limit is in dollars: the checkout shows the taxes on your order before you pay."
+        ],
+        "comparisonTable": {
+          "caption": "From SHEIN Brazil's tax page, updated on May 23, 2026. ICMS of 17% applies in most states; Amapá has 18%, Pará 19%, and Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima and Sergipe have 20%.",
+          "headers": [
+            "Order (product + shipping)",
+            "Import tax",
+            "ICMS",
+            "SHEIN example, without the subsidy"
+          ],
+          "rows": [
+            [
+              "Up to US$ 50",
+              "0%",
+              "17% to 20%, depending on the state",
+              "US$ 50 becomes US$ 60.24 with 17% ICMS"
+            ],
+            [
+              "Above US$ 50",
+              "60%, minus US$ 30 off the tax amount",
+              "17% to 20%, also on the import tax",
+              "US$ 100 becomes US$ 156.63 with 17% ICMS"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SHEIN says it keeps covering part of the ICMS, only on the product value. The size of this subsidy varies from customer to customer, under criteria the store does not publish, and it does not cover the ICMS charged on the import tax.",
+          "Products shipped via **National Shipping**, which are already in Brazil, pay no import tax. And the import tax paid is not refunded if you return the item after it has been shipped."
+        ]
+      },
+      {
+        "heading": "National Shipping or international?",
+        "paragraphs": [
+          "On SHEIN, the same search mixes items that come from abroad with items from sellers already in Brazil, marked as National Shipping. On Black Friday, the difference affects the final price and the discount rules."
+        ],
+        "bullets": [
+          "**National Shipping:** no import tax. Each seller has its own shipping, deadline and conditions, and SHEIN points do not apply to these items.",
+          "**International:** goes through customs, with taxes charged at checkout. SHEIN takes 3 to 5 days to process the order before shipping, and the name on the order must match your CPF (the Brazilian taxpayer number).",
+          "**Delivery time:** the delivery time and the shipping cost appear on the order page before you pay. The order may arrive in more than one package.",
+          "**Delay:** SHEIN has a free on-time delivery service, which gives 200 SHEIN points or R$ 10 (Brazilian reais) in wallet credit if the order does not arrive by the expected date."
+        ]
+      },
+      {
+        "heading": "Coupons, points and the 4CW5Y code",
+        "paragraphs": [
+          "Under SHEIN's coupon policy, one platform coupon applies per order. If the cart has items from Brazilian sellers, you can also use that seller's store coupon: two coupons at most, one of each type. Each coupon has an expiry date, and a coupon that is not used in time becomes unavailable.",
+          "SHEIN points are worth US$ 1 for every 100 points and can take up to 30% off the product value, not counting shipping and taxes. They do not apply to items from Brazilian sellers.",
+          "The 4CW5Y is not a coupon: it is Cecília's referral code for SHEIN Brazil. You search 4CW5Y in the SHEIN app and check the conditions shown for your account. The referral code and the campaigns are SHEIN Brazil's, so they may not work in other countries. SHEIN campaigns change all the time, which is why they are kept on this site's store page, with the date they were checked."
+        ],
+        "links": [
+          {
+            "label": "See the 4CW5Y referral code and the SHEIN campaigns",
+            "href": "/en/coupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "How to pay on Black Friday",
+        "paragraphs": [
+          "SHEIN accepts Pix (Brazil's instant payment system), Brazilian credit cards in up to 6 instalments, boleto (a Brazilian bank payment slip), PayPal and Pagaleve (a buy-now-pay-later service). A boleto must be paid within 3 days, and SHEIN itself suggests a card or PayPal to avoid running out of stock or delays in confirming the payment, which matters in a promotion with short stock.",
+          "If you need a refund, Pix is the fastest: SHEIN processes it within 24 hours, and the bank takes 1 to 3 business days. On a credit card, the bank takes 3 to 8 business days, sometimes up to 30 days."
+        ]
+      },
+      {
+        "heading": "Exchanges and returns after Black Friday",
+        "bullets": [
+          "**Deadline:** up to 20 days after you receive the item, even if you just didn't like it.",
+          "**Items that only come back within 7 days:** bodysuits, beachwear, underwear, earrings and piercings, pet products, and cosmetics, party and craft items with the seal opened. These can only be returned within the 7-day withdrawal period, counted from delivery.",
+          "**Return shipping:** the first return of each order is free, by Correios (the Brazilian postal service), Jadlog or Total Express (Brazilian carriers). From the second return on, SHEIN deducts R$ 45 from the refund for each return.",
+          "**Coupon:** in a partial return, the coupon counts as used and does not go back to your account. If the order falls below the coupon's minimum value, SHEIN deducts from the refund the part of the discount that no longer applies.",
+          "**Tax:** the import tax paid is not refunded after the order has been shipped."
+        ]
+      },
+      {
+        "heading": "Before you pay: what to check",
+        "bullets": [
+          "Whether the item is National Shipping or international.",
+          "Whether the international order stays at US$ 50 or less, counting shipping and with discounts applied.",
+          "How much ICMS appears in the order summary.",
+          "Whether the coupon was applied and whether the points were deducted.",
+          "The delivery time, if the purchase is a Christmas gift.",
+          "Whether the item is one of those that can only be returned within 7 days."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "When does SHEIN's Black Friday start in 2026? SHEIN has not announced it yet. In 2024 the offers started on October 21, together with 11.11, and in 2025 they were already live on November 3. Black Friday 2026 is on November 27.",
+          "Until when does SHEIN's Black Friday run? In 2024 and 2025, until November 30. In 2023, until November 25, the Saturday after Black Friday.",
+          "What is SHEIN's 11.11? It is the Singles' Day sale, on November 11. SHEIN puts 11.11 and Black Friday into one campaign, with discount phases until the end of the month.",
+          "Are there taxes on SHEIN purchases on Black Friday? Yes: ICMS, of 17% to 20% depending on the state, applies to every international purchase. Brazil's import tax is zero on orders up to US$ 50, and above that it is 60%, minus US$ 30 off the tax amount.",
+          "Does SHEIN's zero import tax apply to any purchase? It applies to an international order up to US$ 50, counting product and shipping, already with discounts. Above that, the import tax comes back.",
+          "Do National Shipping products pay import tax? No. National Shipping products are already in Brazil and do not pay import tax.",
+          "Can I use more than one coupon on SHEIN? One SHEIN coupon per order. If the cart has items from Brazilian sellers, you can add that seller's store coupon.",
+          "Is 4CW5Y a discount coupon? No. It is Cecília's referral code for SHEIN Brazil: you search 4CW5Y in the SHEIN app and see the conditions for your account.",
+          "Is there free shipping on SHEIN's Black Friday? In recent years it has appeared at some moments of the campaign: 48 hours in 2023, and free shipping in several categories at the start of the 2025 campaign. Your order's shipping appears in the cart.",
+          "How long do I have to return what I bought on Black Friday? Up to 20 days after you receive it. Underwear, beachwear, bodysuits, earrings and some other items can only be returned within 7 days."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Build your cart on SHEIN and check the taxes in the order summary before you pay",
+      "label": "Go to SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Rules from SHEIN Brazil's official pages and Law 15.502/2026. We may earn a commission on purchases.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-black-friday-dates-coupons",
+        "title": "YesStyle Black Friday 2026: when it starts, how the coupons work and where the CECILIA010 code goes"
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "slug": "black-friday-shein-fechas-impuestos",
+    "locale": "es",
+    "translationKey": "shein-black-friday",
+    "title": "Black Friday SHEIN Brasil 2026: cuándo empieza, cuándo termina y el impuesto de importación cero hasta US$ 50",
+    "seoTitle": "Black Friday SHEIN 2026 Brasil: fechas, impuestos y cupones",
+    "type": "Guía de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Cuándo empieza y termina el Black Friday de SHEIN Brasil, el calendario de 2023 a 2025, qué cambia con el impuesto de importación cero en pedidos de hasta US$ 50, envío nacional o internacional, cupones, puntos, pago y devolución.",
+    "metaDescription": "Black Friday SHEIN Brasil 2026: calendario 2023-2025, impuesto de importación cero hasta US$ 50 y el ICMS que sigue, envío nacional, cupones, puntos y devoluciones.",
+    "publishedAt": "11 de octubre de 2026",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "Cecília Mauad en dos looks de un haul de SHEIN: una blusa clara anudada en la cintura con falda midi negra, y un vestido largo negro con paneles claros.",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Desde el 13 de mayo de 2026, los pedidos internacionales de hasta US$ 50 no pagan el impuesto de importación de Brasil",
+      "En los últimos tres años, las ofertas empezaron antes del Black Friday y siguieron después de él",
+      "Los productos de envío nacional (Envio Nacional) no pagan impuesto de importación, porque ya están en Brasil",
+      "Devolución en hasta 20 días, y la primera devolución de cada pedido es gratis"
+    ],
+    "cons": [
+      "El “hasta 90%” vale para algunos artículos, no para todo el carrito",
+      "El ICMS, el impuesto estatal brasileño (17% a 20%), sigue vigente en toda compra internacional",
+      "Por encima de US$ 50, vuelve el impuesto de importación: 60%, menos US$ 30 en el valor del impuesto",
+      "Un cupón de SHEIN por pedido, y el impuesto pagado no vuelve con la devolución"
+    ],
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Esta guía trata de SHEIN Brasil (el sitio y la app brasileños), y sus fechas, impuestos, precios y reglas pueden ser distintos en otros países. SHEIN todavía no anunció el Black Friday de 2026. En los últimos tres años, las ofertas empezaron antes de la fecha, junto con el 11.11 (la campaña del Día de los Solteros), y terminaron después de él: el 25/11 en 2023 y el 30/11 en 2024 y 2025. En 2026, el Black Friday cae el 27 de noviembre.",
+          "El gran cambio de este año es el impuesto. Desde el 13 de mayo de 2026, un pedido internacional de hasta **US$ 50** (producto más envío, ya con los descuentos) no paga impuesto de importación. El ICMS del estado, de 17% a 20%, sigue vigente, y SHEIN dice que cubre una parte. Por encima de US$ 50, el impuesto de importación vuelve.",
+          "Vale un cupón de SHEIN por pedido. El 4CW5Y es el código de referido de Cecília para SHEIN Brasil: busca el código en la app de SHEIN y revisa las condiciones que aparecen para tu cuenta. El código de referido y las campañas son de SHEIN Brasil, así que pueden no funcionar en otros países."
+        ]
+      },
+      {
+        "heading": "Cuándo empieza el Black Friday de SHEIN",
+        "paragraphs": [
+          "SHEIN junta el 11.11 y el Black Friday en una sola campaña, con fases que suben el descuento máximo hasta fin de mes. La tabla de abajo reúne lo que SHEIN anunció en los últimos tres años. El calendario de 2026 todavía no salió."
+        ],
+        "comparisonTable": {
+          "caption": "Fases y descuentos máximos anunciados por SHEIN Brasil, por la prensa que publicó los comunicados y por los perfiles de la marca. El “hasta” vale para algunos artículos.",
+          "headers": [
+            "Año",
+            "Inicio y fin",
+            "Descuento máximo anunciado"
+          ],
+          "rows": [
+            [
+              "2023",
+              "del 11/11 al 25/11",
+              "hasta 80% del 11 al 19/11, hasta 85% del 20 al 23/11 y hasta 90% el 24 y el 25/11, con 48 horas de envío gratis en la semana del Black Friday"
+            ],
+            [
+              "2024",
+              "del 21/10 al 30/11",
+              "11.11: hasta 85% del 21/10 al 4/11, hasta 90% del 5 al 10/11 y hasta 95% del 11 al 13/11. Black Friday: hasta 90% del 13 al 25/11 y hasta 95% del 26 al 30/11"
+            ],
+            [
+              "2025",
+              "ya activa desde el 3/11, hasta el 30/11",
+              "hasta 90% en más de 800.000 artículos hasta el 9/11, con envío gratis en varias categorías; el 24/11, hasta 95% en más de 800.000 artículos"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "En 2026, el 11.11 cae en miércoles y el Black Friday en viernes, 27 de noviembre. Si SHEIN repite el patrón, las ofertas deberían empezar entre finales de octubre y principios de noviembre, y llegar hasta el 30 de noviembre. Es una estimación según el historial, y esta guía se actualizará cuando SHEIN anuncie la campaña de 2026.",
+          "En esos tres años, el descuento máximo subió hacia el final: 90% el 24 y el 25/11 de 2023, 95% del 26 al 30/11 de 2024 y 95% desde el 24/11 de 2025."
+        ]
+      },
+      {
+        "heading": "“Hasta 90%” no es todo el carrito",
+        "paragraphs": [
+          "El porcentaje de la campaña es el mayor descuento de algunos artículos. La mayor parte del catálogo tiene descuentos menores, y el precio de cada prenda cambia a lo largo de las fases. Para no caer en el número grande de la publicidad:"
+        ],
+        "bullets": [
+          "Guarda las prendas en la lista de deseos antes de que empiece la campaña y anota el precio de ahora.",
+          "Compara el precio de la lista con el de las fases siguientes: en los últimos tres años, el descuento máximo subió hacia el final.",
+          "Mira el precio final en el carrito, con envío e impuestos, y no solo el porcentaje del anuncio.",
+          "Si la prenda es de una talla difícil de encontrar, no esperes a la última fase: el stock puede agotarse antes."
+        ]
+      },
+      {
+        "heading": "El impuesto en el Black Friday: qué cambió en 2026",
+        "paragraphs": [
+          "SHEIN participa en Remessa Conforme, el programa de la Receita Federal brasileña (el servicio tributario federal de Brasil) para compras internacionales. Por eso, los impuestos se cobran en el checkout, junto con el pedido. En regla general no hay cobro extra en la entrega, pero la Receita Federal puede reevaluar el valor del paquete, y eso cambia el impuesto que se debe. El 13 de mayo de 2026, el impuesto de importación de Brasil sobre compras de hasta US$ 50 se puso en cero. La Ley 15.502/2026, del 10 de septiembre de 2026, confirmó que el gobierno puede mantener la tasa cero en ese tramo.",
+          "El cálculo se hace por pedido y usa el valor del producto más el envío, ya con los descuentos y el cupón. O sea, el descuento del Black Friday puede dejar un pedido por debajo de US$ 50. El límite es en dólares: el checkout muestra los impuestos de tu pedido antes del pago."
+        ],
+        "comparisonTable": {
+          "caption": "Según la página de impuestos de SHEIN Brasil, actualizada el 23/05/2026. El ICMS de 17% vale para la mayoría de los estados; Amapá tiene 18%, Pará 19%, y Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima y Sergipe tienen 20%.",
+          "headers": [
+            "Pedido (producto + envío)",
+            "Impuesto de importación",
+            "ICMS",
+            "Ejemplo de SHEIN, sin el subsidio"
+          ],
+          "rows": [
+            [
+              "Hasta US$ 50",
+              "0%",
+              "17% a 20%, según el estado",
+              "US$ 50 pasan a ser US$ 60,24 con ICMS de 17%"
+            ],
+            [
+              "Por encima de US$ 50",
+              "60%, menos US$ 30 en el valor del impuesto",
+              "17% a 20%, también sobre el impuesto de importación",
+              "US$ 100 pasan a ser US$ 156,63 con ICMS de 17%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SHEIN dice que sigue cubriendo una parte del ICMS, solo sobre el valor del producto. El tamaño de ese subsidio cambia de cliente a cliente, según criterios que la tienda no divulga, y no cubre el ICMS que recae sobre el impuesto de importación.",
+          "Los productos de **envío nacional**, que ya están en Brasil, no pagan impuesto de importación. Y el impuesto de importación pagado no vuelve si devuelves la prenda después del envío."
+        ]
+      },
+      {
+        "heading": "¿Envío nacional o internacional?",
+        "paragraphs": [
+          "En SHEIN, una misma búsqueda mezcla productos que vienen del extranjero y productos de vendedores que ya están en Brasil, marcados como envío nacional. En el Black Friday, la diferencia pesa en el precio final y en las reglas de descuento."
+        ],
+        "bullets": [
+          "**Envío nacional:** sin impuesto de importación. Cada vendedor tiene su propio envío, plazo y condiciones, y los puntos SHEIN no valen en esos artículos.",
+          "**Internacional:** pasa por la aduana, con los impuestos cobrados en el checkout. SHEIN tarda de 3 a 5 días en procesar el pedido antes del envío, y el nombre del pedido debe coincidir con tu CPF (el número de contribuyente brasileño).",
+          "**Plazo:** el plazo de entrega y el costo del envío aparecen en la página del pedido antes de pagar. El pedido puede llegar en más de un paquete.",
+          "**Retraso:** SHEIN tiene un servicio gratuito de entrega puntual, que da 200 puntos SHEIN o R$ 10 (reales brasileños) de saldo en tu cuenta si el pedido no llega en la fecha prevista."
+        ]
+      },
+      {
+        "heading": "Cupones, puntos y el código 4CW5Y",
+        "paragraphs": [
+          "Según la política de cupones de SHEIN, vale un cupón de la plataforma por pedido. Si el carrito tiene productos de vendedores brasileños, también puedes usar el cupón de la tienda de ese vendedor: como máximo dos cupones, uno de cada tipo. Cada cupón tiene vencimiento, y el que no se usó a tiempo deja de estar disponible.",
+          "Los puntos SHEIN valen US$ 1 por cada 100 puntos y pueden restar hasta 30% del valor de los productos, sin contar el envío ni los impuestos. No valen en artículos de vendedores brasileños.",
+          "El 4CW5Y no es un cupón: es el código de referido de Cecília para SHEIN Brasil. Busca 4CW5Y en la app de SHEIN y revisa las condiciones que aparecen para tu cuenta. El código de referido y las campañas son de SHEIN Brasil, así que pueden no funcionar en otros países. Las campañas de SHEIN cambian todo el tiempo, por eso están en la página de la tienda de este sitio, con la fecha en que se revisaron."
+        ],
+        "links": [
+          {
+            "label": "Ver el código de referido 4CW5Y y las campañas de SHEIN",
+            "href": "/es/coupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "Cómo pagar en el Black Friday",
+        "paragraphs": [
+          "SHEIN acepta Pix (el sistema brasileño de pagos instantáneos), tarjeta de crédito brasileña en hasta 6 cuotas, boleto (un comprobante de pago bancario brasileño), PayPal y Pagaleve (un servicio de compra ahora y pago después). El boleto debe pagarse en hasta 3 días, y la propia SHEIN sugiere tarjeta o PayPal para evitar que falte stock o que se retrase la confirmación del pago, algo que pesa en una promoción con stock limitado.",
+          "Si necesitas un reembolso, el Pix es lo más rápido: SHEIN lo procesa en hasta 24 horas, y el banco tarda de 1 a 3 días hábiles. En la tarjeta de crédito, el banco tarda de 3 a 8 días hábiles, a veces hasta 30 días."
+        ]
+      },
+      {
+        "heading": "Cambios y devoluciones después del Black Friday",
+        "bullets": [
+          "**Plazo:** hasta 20 días después de recibirlo, aunque solo no te haya gustado la prenda.",
+          "**Artículos que solo se devuelven en 7 días:** bodies, ropa de playa, ropa interior, aretes y piercings, productos para mascotas, y cosméticos, artículos de fiesta y de manualidades con el precinto abierto. Estos solo pueden devolverse dentro del plazo de desistimiento de 7 días, contado desde la entrega.",
+          "**Envío de la devolución:** la primera devolución de cada pedido es gratis, por Correios (el servicio postal brasileño), Jadlog o Total Express (empresas de transporte brasileñas). A partir de la segunda, SHEIN descuenta R$ 45 del reembolso en cada devolución.",
+          "**Cupón:** en una devolución parcial, el cupón cuenta como usado y no vuelve a tu cuenta. Si el pedido queda por debajo del valor mínimo del cupón, SHEIN descuenta del reembolso la parte del descuento que dejó de valer.",
+          "**Impuesto:** el impuesto de importación pagado no se devuelve después de que el pedido fue enviado."
+        ]
+      },
+      {
+        "heading": "Antes de pagar: qué revisar",
+        "bullets": [
+          "Si el producto es de envío nacional o internacional.",
+          "Si el pedido internacional queda en US$ 50 o menos, contando el envío y ya con los descuentos.",
+          "Cuánto dio el ICMS en el resumen del pedido.",
+          "Si el cupón se aplicó y si se descontaron los puntos.",
+          "El plazo de entrega, si la compra es un regalo de Navidad.",
+          "Si la prenda es de las que solo pueden devolverse en 7 días."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Cuándo empieza el Black Friday de SHEIN en 2026? SHEIN todavía no lo anunció. En 2024, las ofertas empezaron el 21 de octubre, junto con el 11.11, y en 2025 ya estaban activas el 3 de noviembre. El Black Friday de 2026 es el 27 de noviembre.",
+          "¿Hasta cuándo dura el Black Friday de SHEIN? En 2024 y 2025, hasta el 30 de noviembre. En 2023, hasta el 25 de noviembre, el sábado después del Black Friday.",
+          "¿Qué es el 11.11 de SHEIN? Es la campaña del Día de los Solteros, el 11 de noviembre. SHEIN junta el 11.11 y el Black Friday en una sola campaña, con fases de descuento hasta fin de mes.",
+          "¿Hay impuestos en las compras de SHEIN en el Black Friday? Sí: el ICMS, de 17% a 20% según el estado, se aplica a toda compra internacional. El impuesto de importación es cero en pedidos de hasta US$ 50, y del 60% por encima de eso, menos US$ 30 en el valor del impuesto.",
+          "¿El impuesto de importación cero de SHEIN vale para cualquier compra? Vale para un pedido internacional de hasta US$ 50, contando producto y envío, ya con los descuentos. Por encima de eso, el impuesto de importación vuelve.",
+          "¿Un producto de envío nacional paga impuesto de importación? No. Los productos de envío nacional ya están en Brasil y no pagan impuesto de importación.",
+          "¿Puedo usar más de un cupón en SHEIN? Un cupón de SHEIN por pedido. Si el carrito tiene productos de vendedores brasileños, puedes sumar el cupón de la tienda de ese vendedor.",
+          "¿El 4CW5Y da descuento? No. Es el código de referido de Cecília para SHEIN Brasil: buscas el código en la app de SHEIN y ves las condiciones para tu cuenta.",
+          "¿Hay envío gratis en el Black Friday de SHEIN? En los últimos años, hubo en algunos momentos de la campaña: 48 horas en 2023 y envío gratis en varias categorías al inicio de la campaña de 2025. El envío de tu pedido aparece en el carrito.",
+          "¿Cuánto tiempo tengo para devolver lo que compré en el Black Friday? Hasta 20 días después de recibirlo. La ropa interior, la ropa de playa, los bodies, los aretes y algunos otros artículos solo pueden devolverse en el plazo de 7 días."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Arma tu carrito en SHEIN y revisa el impuesto en el resumen del pedido antes de pagar",
+      "label": "Ir a SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Reglas oficiales de SHEIN Brasil y de la Ley 15.502/2026. Podemos recibir comisión por las compras.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-yesstyle-fechas-cupones",
+        "title": "Black Friday YesStyle 2026: cuándo empieza, cómo funcionan los cupones y dónde va el código CECILIA010"
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "slug": "black-friday-shein-dates-et-taxes",
+    "locale": "fr",
+    "translationKey": "shein-black-friday",
+    "title": "Black Friday SHEIN Brésil 2026 : quand il commence, jusqu'à quand et la taxe d'importation nulle jusqu'à US$ 50",
+    "seoTitle": "Black Friday SHEIN 2026 Brésil : dates, taxes et coupons",
+    "type": "Guide Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quand commence et finit le Black Friday de SHEIN Brésil, le calendrier de 2023 à 2025, ce qui change avec la taxe d'importation nulle sur les commandes jusqu'à US$ 50, la livraison nationale ou internationale, les coupons, les points, le paiement et les retours.",
+    "metaDescription": "Black Friday SHEIN Brésil 2026 : calendrier 2023-2025, taxe d'importation nulle jusqu'à US$ 50, ICMS qui reste, livraison nationale, coupons, points et retours.",
+    "publishedAt": "11 octobre 2026",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "Cecília Mauad dans deux looks d'un haul SHEIN : un chemisier clair noué à la taille avec une jupe midi noire, et une longue robe noire avec des empiècements clairs",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Depuis le 13 mai 2026, les commandes internationales jusqu'à US$ 50 sont exemptées de la taxe d'importation brésilienne",
+      "Ces trois dernières années, les offres ont commencé avant le Black Friday et se sont poursuivies après lui",
+      "Les produits en livraison nationale (Envio Nacional) ne paient pas la taxe d'importation, car ils sont déjà au Brésil",
+      "Retours sous 20 jours, et le premier retour de chaque commande est gratuit"
+    ],
+    "cons": [
+      "Le « jusqu'à 90 % » ne vaut que pour certains articles, pas pour tout le panier",
+      "L'ICMS, la taxe d'État brésilienne (17 % à 20 %), reste due sur chaque achat international",
+      "Au-delà de US$ 50, la taxe d'importation revient : 60 %, moins US$ 30 sur le montant de la taxe",
+      "Un coupon SHEIN par commande, et la taxe d'importation payée n'est pas remboursée lors d'un retour"
+    ],
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Ce guide porte sur SHEIN Brésil (le site et l'appli brésiliens), et ses dates, taxes, prix et règles peuvent différer dans les autres pays. SHEIN n'a pas encore annoncé le Black Friday 2026. Ces trois dernières années, les offres ont commencé avant la date, en même temps que le 11.11 (la vente de la Journée des célibataires), et se sont terminées après le Black Friday : le 25/11 en 2023, puis le 30/11 en 2024 et 2025. En 2026, le Black Friday tombe le 27 novembre.",
+          "Le grand changement de cette année, c'est la taxe. Depuis le 13 mai 2026, une commande internationale allant jusqu'à **US$ 50** (produit plus livraison, déjà avec les réductions) ne paie pas la taxe d'importation. L'ICMS de l'État, de 17 % à 20 %, reste dû, et SHEIN dit en couvrir une partie. Au-delà de US$ 50, la taxe d'importation revient.",
+          "Il n'y a qu'un coupon SHEIN par commande. Le 4CW5Y est le code de parrainage de Cecília pour SHEIN Brésil : vous le recherchez dans l'appli SHEIN et vérifiez les conditions affichées pour votre compte. Le code de parrainage et les campagnes sont de SHEIN Brésil, et peuvent donc ne pas fonctionner dans les autres pays."
+        ]
+      },
+      {
+        "heading": "Quand commence le Black Friday de SHEIN",
+        "paragraphs": [
+          "SHEIN réunit le 11.11 et le Black Friday dans une seule campagne, avec des phases qui relèvent la réduction maximale jusqu'à la fin du mois. Le tableau ci-dessous rassemble ce que SHEIN a annoncé ces trois dernières années. Le calendrier 2026 n'est pas encore publié."
+        ],
+        "comparisonTable": {
+          "caption": "Phases et réductions maximales annoncées par SHEIN Brésil, par la presse qui a publié les communiqués et par les profils de la marque. Le « jusqu'à » ne vaut que pour certains articles.",
+          "headers": [
+            "Année",
+            "Début et fin",
+            "Réduction maximale annoncée"
+          ],
+          "rows": [
+            [
+              "2023",
+              "du 11/11 au 25/11",
+              "jusqu'à 80 % du 11 au 19/11, jusqu'à 85 % du 20 au 23/11 et jusqu'à 90 % les 24 et 25/11, avec 48 heures de livraison gratuite pendant la semaine du Black Friday"
+            ],
+            [
+              "2024",
+              "du 21/10 au 30/11",
+              "11.11 : jusqu'à 85 % du 21/10 au 4/11, jusqu'à 90 % du 5 au 10/11 et jusqu'à 95 % du 11 au 13/11. Black Friday : jusqu'à 90 % du 13 au 25/11 et jusqu'à 95 % du 26 au 30/11"
+            ],
+            [
+              "2025",
+              "en ligne dès le 3/11, jusqu'au 30/11",
+              "jusqu'à 90 % sur plus de 800 000 articles jusqu'au 9/11, avec livraison gratuite dans plusieurs catégories ; le 24/11, jusqu'à 95 % sur plus de 800 000 articles"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "En 2026, le 11.11 tombe un mercredi et le Black Friday un vendredi, le 27 novembre. Si SHEIN reprend le même schéma, les offres devraient commencer entre fin octobre et début novembre, et aller jusqu'au 30 novembre. C'est une estimation fondée sur l'historique, et ce guide sera mis à jour quand SHEIN annoncera la campagne 2026.",
+          "Pendant ces trois ans, la réduction maximale a augmenté vers la fin : 90 % les 24 et 25/11 de 2023, 95 % du 26 au 30/11 de 2024, et 95 % à partir du 24/11 de 2025."
+        ]
+      },
+      {
+        "heading": "« Jusqu'à 90 % » ne vaut pas pour tout le panier",
+        "paragraphs": [
+          "La réduction de la campagne est la plus forte pour certains articles. La plupart du catalogue a des réductions plus faibles, et le prix de chaque pièce change d'une phase à l'autre. Pour ne pas vous laisser prendre par le gros chiffre de la publicité :"
+        ],
+        "bullets": [
+          "Mettez les pièces dans votre liste de souhaits avant le début de la campagne et notez le prix actuel.",
+          "Comparez le prix de la liste avec celui des phases suivantes : ces trois dernières années, la réduction maximale a augmenté vers la fin.",
+          "Regardez le prix final dans le panier, livraison et taxes comprises, et pas seulement le pourcentage de la publicité.",
+          "Si la pièce est dans une taille difficile à trouver, n'attendez pas la dernière phase : le stock peut s'épuiser avant."
+        ]
+      },
+      {
+        "heading": "La taxe pendant le Black Friday : ce qui a changé en 2026",
+        "paragraphs": [
+          "SHEIN participe à Remessa Conforme, le programme de la Receita Federal, le fisc fédéral brésilien, pour les achats internationaux. Les taxes sont donc prélevées au paiement, avec la commande. En règle générale, il n'y a pas de frais supplémentaires à la livraison, mais la Receita Federal peut réévaluer la valeur du colis, ce qui change la taxe due. Le 13 mai 2026, la taxe d'importation brésilienne sur les achats jusqu'à US$ 50 a été ramenée à zéro. La loi 15.502, du 10 septembre 2026, a confirmé que le gouvernement peut maintenir ce taux nul pour cette tranche.",
+          "Le calcul se fait par commande, sur la valeur du produit plus la livraison, déjà avec les réductions et le coupon. Autrement dit, la réduction du Black Friday peut faire passer une commande sous US$ 50. La limite est en dollars : la page de paiement affiche les taxes de votre commande avant le règlement."
+        ],
+        "comparisonTable": {
+          "caption": "D'après la page des taxes de SHEIN Brésil, mise à jour le 23/05/2026. L'ICMS de 17 % s'applique à la plupart des États ; l'Amapá a 18 %, le Pará 19 %, et l'Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima et Sergipe ont 20 %.",
+          "headers": [
+            "Commande (produit + livraison)",
+            "Taxe d'importation",
+            "ICMS",
+            "Exemple SHEIN, sans la subvention"
+          ],
+          "rows": [
+            [
+              "Jusqu'à US$ 50",
+              "0 %",
+              "17 % à 20 %, selon l'État",
+              "US$ 50 deviennent US$ 60,24 avec l'ICMS à 17 %"
+            ],
+            [
+              "Au-delà de US$ 50",
+              "60 %, moins US$ 30 sur le montant de la taxe",
+              "17 % à 20 %, aussi sur la taxe d'importation",
+              "US$ 100 deviennent US$ 156,63 avec l'ICMS à 17 %"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SHEIN dit continuer à couvrir une partie de l'ICMS, seulement sur la valeur du produit. Le montant de cette prise en charge varie d'un client à l'autre, selon des critères que la boutique ne publie pas, et elle ne couvre pas l'ICMS qui porte sur la taxe d'importation.",
+          "Les produits en **livraison nationale**, déjà présents au Brésil, ne paient pas la taxe d'importation. Et la taxe d'importation payée n'est pas remboursée si vous renvoyez l'article après l'expédition."
+        ]
+      },
+      {
+        "heading": "Livraison nationale ou internationale ?",
+        "paragraphs": [
+          "Sur SHEIN, une même recherche mélange des produits venus de l'étranger et des produits de vendeurs déjà installés au Brésil, marqués « livraison nationale ». Pendant le Black Friday, la différence pèse sur le prix final et sur les règles de réduction."
+        ],
+        "bullets": [
+          "**Livraison nationale :** pas de taxe d'importation. Chaque vendeur a sa propre livraison, ses délais et ses conditions, et les points SHEIN ne valent pas sur ces articles.",
+          "**Internationale :** passe par la douane, avec les taxes prélevées au paiement. SHEIN met de 3 à 5 jours à préparer la commande avant l'expédition, et le nom sur la commande doit correspondre à votre CPF (le numéro de contribuable brésilien).",
+          "**Délai :** le délai de livraison et les frais de port apparaissent sur la page de commande avant le paiement. La commande peut arriver en plusieurs colis.",
+          "**Retard :** SHEIN propose un service gratuit de livraison à l'heure, qui donne 200 points SHEIN ou R$ 10 (réais brésiliens) de crédit sur le portefeuille si la commande n'arrive pas à la date prévue."
+        ]
+      },
+      {
+        "heading": "Coupons, points et le code 4CW5Y",
+        "paragraphs": [
+          "Selon la politique de coupons de SHEIN, un seul coupon de la plateforme est valable par commande. Si le panier contient des produits de vendeurs brésiliens, vous pouvez aussi utiliser le coupon de la boutique de ce vendeur : deux coupons au maximum, un de chaque type. Chaque coupon a une date de validité, et celui qui n'a pas été utilisé à temps n'est plus disponible.",
+          "Les points SHEIN valent US$ 1 pour 100 points et peuvent réduire jusqu'à 30 % de la valeur des produits, hors livraison et taxes. Ils ne valent pas sur les articles des vendeurs brésiliens.",
+          "Le 4CW5Y n'est pas un coupon : c'est le code de parrainage de Cecília. Recherchez 4CW5Y dans l'appli SHEIN et vérifiez les conditions affichées pour votre compte. Le code de parrainage et les campagnes sont de SHEIN Brésil, et peuvent donc ne pas fonctionner dans d'autres pays. Les campagnes SHEIN changent sans arrêt : elles sont donc sur la page de la boutique de ce site, avec la date de la dernière vérification."
+        ],
+        "links": [
+          {
+            "label": "Voir le code de parrainage 4CW5Y et les campagnes SHEIN",
+            "href": "/fr/coupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "Comment payer pendant le Black Friday",
+        "paragraphs": [
+          "SHEIN accepte le Pix (le système brésilien de paiement instantané), les cartes de crédit brésiliennes, en 6 fois maximum, le boleto (un bon de paiement bancaire brésilien), PayPal et Pagaleve (un service de paiement différé). Le boleto doit être payé dans un délai de 3 jours. SHEIN recommande elle-même la carte ou PayPal pour éviter une rupture de stock ou un retard de confirmation du paiement, ce qui compte dans une promotion au stock limité.",
+          "Si vous avez besoin d'un remboursement, le Pix est le plus rapide : SHEIN le traite sous 24 heures, puis la banque met de 1 à 3 jours ouvrés. Avec la carte de crédit, la banque met de 3 à 8 jours ouvrés, parfois jusqu'à 30 jours."
+        ]
+      },
+      {
+        "heading": "Échanges et retours après le Black Friday",
+        "bullets": [
+          "**Délai :** jusqu'à 20 jours après réception, même si l'article ne vous a pas plu.",
+          "**Articles qui ne se retournent que sous 7 jours :** bodies, maillots de bain, sous-vêtements, boucles d'oreilles et piercings, produits pour animaux, ainsi que cosmétiques, articles de fête et d'artisanat dont le scellé est ouvert. Ceux-ci ne peuvent être retournés que pendant le délai de rétractation de 7 jours, compté à partir de la livraison.",
+          "**Frais de retour :** le premier retour de chaque commande est gratuit, par les Correios (le service postal brésilien), Jadlog ou Total Express (transporteurs brésiliens). À partir du deuxième retour, SHEIN retient R$ 45 sur le remboursement à chaque retour.",
+          "**Coupon :** en cas de retour partiel, le coupon compte comme utilisé et ne revient pas sur votre compte. Si la commande descend sous le montant minimum du coupon, SHEIN retire du remboursement la partie de la réduction qui ne vaut plus.",
+          "**Taxe :** la taxe d'importation payée n'est pas remboursée une fois la commande expédiée."
+        ]
+      },
+      {
+        "heading": "Avant de payer : ce qu'il faut vérifier",
+        "bullets": [
+          "Si le produit est en livraison nationale ou internationale.",
+          "Si la commande internationale reste à US$ 50 ou moins, livraison comprise et réductions déduites.",
+          "Le montant de l'ICMS dans le récapitulatif de la commande.",
+          "Si le coupon a été appliqué et si les points ont été déduits.",
+          "Le délai de livraison, si l'achat est un cadeau de Noël.",
+          "Si l'article fait partie de ceux qui ne se retournent que sous 7 jours."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Quand commence le Black Friday de SHEIN en 2026 ? SHEIN ne l'a pas encore annoncé. En 2024, les offres ont commencé le 21 octobre, en même temps que le 11.11, et en 2025 elles étaient déjà en ligne le 3 novembre. Le Black Friday 2026 tombe le 27 novembre.",
+          "Jusqu'à quand dure le Black Friday de SHEIN ? En 2024 et 2025, jusqu'au 30 novembre. En 2023, jusqu'au 25 novembre, le samedi suivant le Black Friday.",
+          "Qu'est-ce que le 11.11 de SHEIN ? C'est la vente de la Journée des célibataires, le 11 novembre. SHEIN réunit le 11.11 et le Black Friday dans une seule campagne, avec des phases de réduction jusqu'à la fin du mois.",
+          "Y a-t-il des taxes sur les achats SHEIN pendant le Black Friday ? Oui : l'ICMS, de 17 % à 20 % selon l'État, s'applique à tout achat international. La taxe d'importation est nulle pour les commandes jusqu'à US$ 50 et, au-delà, de 60 %, moins US$ 30 sur le montant de la taxe.",
+          "La taxe d'importation nulle de SHEIN vaut-elle pour tous les achats ? Elle vaut pour une commande internationale allant jusqu'à US$ 50, produit et livraison compris, déjà avec les réductions. Au-delà, la taxe d'importation revient.",
+          "Un produit en livraison nationale paie-t-il la taxe d'importation ? Non. Les produits en livraison nationale sont déjà au Brésil et ne paient pas la taxe d'importation.",
+          "Peut-on utiliser plusieurs coupons sur SHEIN ? Un seul coupon SHEIN par commande. Si le panier contient des produits de vendeurs brésiliens, vous pouvez ajouter le coupon de la boutique de ce vendeur.",
+          "Le 4CW5Y est-il un coupon de réduction ? Non. C'est le code de parrainage de Cecília pour SHEIN Brésil : vous recherchez le code dans l'appli SHEIN et voyez les conditions pour votre compte.",
+          "La livraison est-elle gratuite pendant le Black Friday de SHEIN ? Ces dernières années, elle l'a été à certains moments : 48 heures en 2023, et la livraison gratuite dans plusieurs catégories au début de la campagne 2025. Les frais de livraison de votre commande apparaissent dans le panier.",
+          "Combien de temps ai-je pour retourner ce que j'ai acheté pendant le Black Friday ? Jusqu'à 20 jours après réception. Les sous-vêtements, les maillots de bain, les bodies, les boucles d'oreilles et quelques autres articles ne se retournent que sous 7 jours."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Composez votre panier sur SHEIN et vérifiez les taxes dans le récapitulatif avant de payer",
+      "label": "Aller sur SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Règles des pages officielles de SHEIN Brésil et de la loi 15.502/2026. Nous pouvons toucher une commission.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-yesstyle-dates-et-coupons",
+        "title": "Black Friday YesStyle 2026 : quand il commence, comment fonctionnent les coupons et où saisir le code CECILIA010"
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "slug": "shein-black-friday-termine-steuern",
+    "locale": "de",
+    "translationKey": "shein-black-friday",
+    "title": "Black Friday SHEIN 2026: Beginn, Ende und Einfuhrsteuer null bis US$ 50",
+    "seoTitle": "SHEIN Black Friday 2026: Termine, Steuern, Gutscheine",
+    "type": "Black-Friday-Ratgeber",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Wann der Black Friday bei SHEIN beginnt und endet, der Kalender von 2023 bis 2025, was sich bei der Einfuhrsteuer für Bestellungen bis US$ 50 ändert, Inlandsversand oder internationaler Versand, Gutscheine, Punkte, Zahlung und Rückgabe.",
+    "metaDescription": "SHEIN Black Friday 2026: Kalender von 2023 bis 2025, Einfuhrsteuer null bis US$ 50, ICMS-Steuer, Inlandsversand, Gutscheine, Punkte und Rückgabe.",
+    "publishedAt": "11. Oktober 2026",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "Cecília Mauad in zwei Looks aus einem SHEIN-Haul: eine helle Bluse, in der Taille gebunden, mit schwarzem Midirock, und ein langes schwarzes Kleid mit hellen Einsätzen.",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Seit dem 13. Mai 2026 fällt bei Bestellungen bis US$ 50 keine Einfuhrsteuer an",
+      "In den letzten drei Jahren begannen die Angebote vor dem Black Friday und liefen danach weiter",
+      "Produkte mit Inlandsversand (Envio Nacional) zahlen keine Einfuhrsteuer",
+      "Rückgabe innerhalb von 20 Tagen, und die erste Rücksendung jeder Bestellung ist kostenlos"
+    ],
+    "cons": [
+      "„Bis zu 90 %“ gilt für einige Artikel, nicht für den ganzen Warenkorb",
+      "ICMS-Steuer, die brasilianische Landessteuer von 17 % bis 20 %, bleibt bei jedem internationalen Kauf",
+      "Über US$ 50 kommt die brasilianische Einfuhrsteuer zurück: 60 %, abzüglich US$ 30 vom Steuerbetrag",
+      "Ein SHEIN-Gutschein pro Bestellung, und die bezahlte Einfuhrsteuer kommt bei einer Rückgabe nicht zurück"
+    ],
+    "contentSections": [
+      {
+        "heading": "Die Antwort in Kürze",
+        "paragraphs": [
+          "SHEIN hat den Black Friday 2026 noch nicht angekündigt. In den letzten drei Jahren begannen die Angebote vor dem Black Friday, zusammen mit dem 11.11., dem Singles'-Day-Sale, und endeten danach: am 25.11. im Jahr 2023 und am 30.11. in den Jahren 2024 und 2025. Im Jahr 2026 fällt der Black Friday auf den 27. November. Dieser Leitfaden gilt für SHEIN Brasilien (Website und App), und Termine, Steuern, Preise und Regeln können in anderen Ländern abweichen.",
+          "Die große Neuerung in diesem Jahr betrifft die Steuer. Seit dem 13. Mai 2026 zahlt eine internationale Bestellung bis **US$ 50** (Produkt plus Versand, schon mit Rabatten) keine brasilianische Einfuhrsteuer. Die ICMS-Steuer der Bundesstaaten (17 % bis 20 %) bleibt bestehen, und SHEIN sagt, dass das Unternehmen einen Teil davon übernimmt. Über US$ 50 kommt die Einfuhrsteuer zurück.",
+          "Pro Bestellung gilt ein SHEIN-Gutschein. Sie suchen den Empfehlungscode 4CW5Y von Cecília in der SHEIN-App und prüfen die Bedingungen, die für Ihr Konto angezeigt werden. Der Code und die Aktionen gehören zu SHEIN Brasilien und funktionieren in anderen Ländern womöglich nicht."
+        ]
+      },
+      {
+        "heading": "Wann der Black Friday bei SHEIN beginnt",
+        "paragraphs": [
+          "SHEIN verbindet den 11.11. und den Black Friday zu einer einzigen Aktion, mit Phasen, in denen der höchste Rabatt bis zum Monatsende steigt. Die Tabelle unten fasst zusammen, was SHEIN in den letzten drei Jahren angekündigt hat. Der Kalender für 2026 ist noch nicht veröffentlicht."
+        ],
+        "comparisonTable": {
+          "caption": "Phasen und höchste Rabatte, die SHEIN Brasilien angekündigt hat, laut der Presse, die die Mitteilungen veröffentlicht hat, und laut den Profilen der Marke. Das „bis zu“ gilt für einige Artikel.",
+          "headers": [
+            "Jahr",
+            "Beginn und Ende",
+            "Angekündigter höchster Rabatt"
+          ],
+          "rows": [
+            [
+              "2023",
+              "11.11. bis 25.11.",
+              "bis 80 % vom 11.11. bis 19.11., bis 85 % vom 20.11. bis 23.11. und bis 90 % am 24.11. und 25.11., mit 48 Stunden kostenlosem Versand in der Black-Friday-Woche"
+            ],
+            [
+              "2024",
+              "21.10. bis 30.11.",
+              "11.11.: bis 85 % vom 21.10. bis 4.11., bis 90 % vom 5.11. bis 10.11. und bis 95 % vom 11.11. bis 13.11. Black Friday: bis 90 % vom 13.11. bis 25.11. und bis 95 % vom 26.11. bis 30.11."
+            ],
+            [
+              "2025",
+              "seit 3.11. aktiv, bis 30.11.",
+              "bis 90 % bei mehr als 800.000 Artikeln bis 9.11., mit kostenlosem Versand in mehreren Kategorien; ab 24.11. bis 95 % bei mehr als 800.000 Artikeln"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "2026 fällt der 11.11. auf einen Mittwoch und der Black Friday auf einen Freitag, den 27. November. Wenn SHEIN das Muster wiederholt, sollten die Angebote zwischen Ende Oktober und Anfang November beginnen und bis zum 30. November laufen. Das ist eine Schätzung aus den bisherigen Jahren. Dieser Leitfaden wird aktualisiert, sobald SHEIN die Aktion für 2026 ankündigt.",
+          "In allen drei Jahren stieg der höchste Rabatt gegen Ende: 90 % am 24. und 25.11.2023, 95 % vom 26.11. bis 30.11.2024 und 95 % ab dem 24.11.2025."
+        ]
+      },
+      {
+        "heading": "„Bis zu 90 %“ ist nicht der ganze Warenkorb",
+        "paragraphs": [
+          "Der Prozentsatz der Aktion ist der höchste Rabatt auf einige Artikel. Der größte Teil des Sortiments hat kleinere Rabatte, und der Preis jedes Teils ändert sich während der Phasen. Damit Sie nicht auf die große Zahl aus der Werbung hereinfallen:"
+        ],
+        "bullets": [
+          "Speichern Sie die Teile vor Kampagnenstart auf Ihrer Wunschliste und notieren Sie den heutigen Preis.",
+          "Vergleichen Sie den Preis auf der Liste mit den Preisen der folgenden Phasen: In den letzten drei Jahren stieg der höchste Rabatt zum Schluss.",
+          "Achten Sie auf den Endpreis im Warenkorb, mit Versand und Steuern, und nicht nur auf den Prozentsatz in der Werbung.",
+          "Wenn ein Teil in Ihrer Größe schwer zu finden ist, warten Sie nicht bis zur letzten Phase: Der Bestand kann vorher ausgehen."
+        ]
+      },
+      {
+        "heading": "Die Steuer beim Black Friday: Was sich 2026 geändert hat",
+        "paragraphs": [
+          "SHEIN nimmt am Remessa Conforme teil, dem Programm der brasilianischen Bundessteuerbehörde (Receita Federal) für internationale Käufe. Deshalb werden die Steuern an der Kasse zusammen mit der Bestellung berechnet. In der Regel fällt bei der Lieferung nichts extra an, aber die Bundessteuerbehörde kann den Wert des Pakets neu bewerten, und das ändert die fällige Steuer. Am 13. Mai 2026 wurde die brasilianische Einfuhrsteuer auf Käufe bis US$ 50 auf null gesenkt. Das Gesetz 15.502/2026 vom 10. September 2026 bestätigte, dass die Regierung diesen Nullsatz in dieser Spanne beibehalten kann.",
+          "Die Rechnung gilt pro Bestellung und nimmt den Wert des Produkts plus Versand, schon mit Rabatten und Gutschein. Das heißt, der Black-Friday-Rabatt kann eine Bestellung unter US$ 50 bringen. Die Grenze gilt in Dollar: Die Kasse zeigt Ihnen die Steuern für Ihre Bestellung vor der Zahlung an."
+        ],
+        "comparisonTable": {
+          "caption": "Laut der Steuerseite von SHEIN Brasilien, aktualisiert am 23.05.2026. Die ICMS-Steuer von 17 % gilt für die meisten Bundesstaaten; Amapá hat 18 %, Pará 19 %, und Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima und Sergipe haben 20 %.",
+          "headers": [
+            "Bestellung (Produkt + Versand)",
+            "Einfuhrsteuer",
+            "ICMS-Steuer",
+            "Beispiel von SHEIN ohne Zuschuss"
+          ],
+          "rows": [
+            [
+              "Bis US$ 50",
+              "0 %",
+              "17 % bis 20 %, je nach Bundesstaat",
+              "US$ 50 werden mit 17 % ICMS zu US$ 60,24"
+            ],
+            [
+              "Über US$ 50",
+              "60 %, abzüglich US$ 30 vom Steuerbetrag",
+              "17 % bis 20 %, auch auf die Einfuhrsteuer",
+              "US$ 100 werden mit 17 % ICMS zu US$ 156,63"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SHEIN sagt, dass das Unternehmen weiterhin einen Teil der ICMS-Steuer übernimmt, und zwar nur auf den Wert des Produkts. Wie hoch dieser Zuschuss ist, unterscheidet sich von Kunde zu Kunde nach Kriterien, die die Plattform nicht veröffentlicht. Er deckt nicht die ICMS-Steuer, die auf die Einfuhrsteuer anfällt.",
+          "Produkte mit **Inlandsversand**, die schon in Brasilien sind, zahlen keine Einfuhrsteuer. Und die bezahlte Einfuhrsteuer kommt nicht zurück, wenn Sie das Teil nach dem Versand zurückgeben."
+        ]
+      },
+      {
+        "heading": "Inlandsversand oder internationaler Versand?",
+        "paragraphs": [
+          "Bei SHEIN zeigt dieselbe Suche Produkte aus dem Ausland und Produkte von Verkäufern, die schon in Brasilien sind und als Inlandsversand markiert werden. Beim Black Friday wirkt sich der Unterschied auf den Endpreis und auf die Rabattregeln aus."
+        ],
+        "bullets": [
+          "**Inlandsversand:** keine Einfuhrsteuer. Jeder Verkäufer hat eigene Versandkosten, Lieferzeiten und Bedingungen, und SHEIN-Punkte gelten für diese Artikel nicht.",
+          "**Internationaler Versand:** Die Ware läuft über den Zoll, und die Steuern werden an der Kasse berechnet. SHEIN braucht 3 bis 5 Tage, um die Bestellung vor dem Versand zu bearbeiten, und der Name auf der Bestellung muss mit dem CPF übereinstimmen (die brasilianische Steuernummer natürlicher Personen).",
+          "**Lieferzeit:** Lieferfrist und Versandkosten stehen vor der Zahlung auf der Bestellseite. Die Bestellung kann in mehreren Paketen ankommen.",
+          "**Verspätung:** SHEIN bietet einen kostenlosen Service für pünktliche Lieferung. Kommt die Bestellung nicht bis zum vorgesehenen Termin an, gibt es 200 SHEIN-Punkte oder R$ 10 (brasilianische Reais) als Guthaben im Wallet."
+        ]
+      },
+      {
+        "heading": "Gutscheine, Punkte und der Empfehlungscode 4CW5Y",
+        "paragraphs": [
+          "Nach den Regeln von SHEIN gilt pro Bestellung ein Gutschein der Plattform. Enthält der Warenkorb Produkte von Verkäufern in Brasilien, können Sie zusätzlich den Gutschein dieses Verkäufers nutzen: höchstens zwei Gutscheine, einer pro Art. Jeder Gutschein hat eine Gültigkeit, und was nicht rechtzeitig genutzt wird, steht nicht mehr zur Verfügung.",
+          "SHEIN-Punkte haben einen Wert von US$ 1 je 100 Punkte und mindern den Produktwert um bis zu 30 %, ohne Versand und Steuern. Auf Artikel von Verkäufern in Brasilien gelten sie nicht.",
+          "4CW5Y ist kein Gutschein, sondern Cecílias Empfehlungscode. Sie suchen 4CW5Y in der SHEIN-App und prüfen die Bedingungen, die für Ihr Konto angezeigt werden. Der Code und die Aktionen gehören zu SHEIN Brasilien und funktionieren in anderen Ländern womöglich nicht. Da sich die Aktionen von SHEIN ständig ändern, stehen sie auf der Shop-Seite dieser Website, mit dem Datum der letzten Prüfung."
+        ],
+        "links": [
+          {
+            "label": "Den Empfehlungscode 4CW5Y und die SHEIN-Aktionen ansehen",
+            "href": "/de/coupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "So bezahlen Sie beim Black Friday",
+        "paragraphs": [
+          "SHEIN akzeptiert Pix (das sofortige Zahlungssystem Brasiliens), brasilianische Kreditkarten mit bis zu 6 Raten, Boleto (einen brasilianischen Bankzahlschein), PayPal und Pagaleve (einen Dienst für „Jetzt kaufen, später zahlen“). Den Boleto müssen Sie innerhalb von 3 Tagen bezahlen. SHEIN empfiehlt selbst Karte oder PayPal, um Engpässe beim Bestand oder Verzögerungen bei der Zahlungsbestätigung zu vermeiden. Bei einer Aktion mit knappem Bestand fällt das ins Gewicht.",
+          "Wenn Sie eine Rückerstattung brauchen, ist Pix am schnellsten: SHEIN bearbeitet sie in bis zu 24 Stunden, und die Bank braucht 1 bis 3 Werktage. Bei der Kreditkarte braucht die Bank 3 bis 8 Werktage, manchmal sogar bis zu 30 Tage."
+        ]
+      },
+      {
+        "heading": "Umtausch und Rückgabe nach dem Black Friday",
+        "bullets": [
+          "**Frist:** bis zu 20 Tage nach dem Erhalt, auch wenn Ihnen das Teil einfach nicht gefällt.",
+          "**Artikel, die nur 7 Tage lang zurückgegeben werden können:** Bodys, Bademode, Unterwäsche, Ohrringe und Piercings sowie Produkte für Haustiere, Kosmetik, Partyartikel und Bastelbedarf mit geöffnetem Siegel. Diese Artikel können nur innerhalb der 7-tägigen Widerrufsfrist ab Lieferung zurückgegeben werden.",
+          "**Rücksendekosten:** Die erste Rücksendung jeder Bestellung ist kostenlos, über die Correios (der brasilianische Postdienst), Jadlog oder Total Express (brasilianische Paketdienste). Ab der zweiten Rücksendung zieht SHEIN bei jeder Rücksendung R$ 45 vom Erstattungsbetrag ab.",
+          "**Gutschein:** Bei einer Teilrückgabe gilt der Gutschein als verbraucht und kommt nicht auf Ihr Konto zurück. Liegt die Bestellung danach unter dem Mindestbetrag des Gutscheins, zieht SHEIN den Teil des Rabatts vom Erstattungsbetrag ab, der nicht mehr gilt.",
+          "**Steuer:** Die bezahlte Einfuhrsteuer wird nicht erstattet, wenn die Bestellung schon versandt wurde."
+        ]
+      },
+      {
+        "heading": "Vor der Zahlung: Das sollten Sie prüfen",
+        "bullets": [
+          "Ob das Produkt Inlandsversand oder internationalen Versand hat.",
+          "Ob die internationale Bestellung inklusive Versand und nach Abzug der Rabatte bei höchstens US$ 50 liegt.",
+          "Wie hoch die ICMS-Steuer in der Bestellübersicht ist.",
+          "Ob der Gutschein angewendet wurde und ob die Punkte abgezogen wurden.",
+          "Die Lieferfrist, wenn der Kauf ein Weihnachtsgeschenk ist.",
+          "Ob das Teil zu den Artikeln gehört, die nur 7 Tage lang zurückgegeben werden können."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Wann beginnt der Black Friday bei SHEIN 2026? SHEIN hat das noch nicht angekündigt. 2024 begannen die Angebote am 21. Oktober, zusammen mit dem 11.11., und 2025 liefen sie schon am 3. November. Der Black Friday 2026 ist am 27. November.",
+          "Wie lange dauert der Black Friday bei SHEIN? 2024 und 2025 bis zum 30. November. 2023 bis zum 25. November, dem Samstag nach dem Black Friday.",
+          "Was ist der 11.11. bei SHEIN? Das ist der Singles'-Day-Sale am 11. November. SHEIN verbindet den 11.11. und den Black Friday zu einer einzigen Aktion, mit Rabattphasen bis zum Monatsende.",
+          "Gibt es bei SHEIN beim Black Friday Steuern? Ja: Bei jedem internationalen Kauf fällt die ICMS-Steuer an, je nach Bundesstaat 17 % bis 20 %. Die Einfuhrsteuer ist bei Bestellungen bis US$ 50 null und liegt darüber bei 60 %, abzüglich US$ 30 vom Steuerbetrag.",
+          "Gilt die Befreiung von der Einfuhrsteuer bei SHEIN für jeden Kauf? Sie gilt für internationale Bestellungen bis US$ 50, mit Produkt und Versand, schon nach Rabatten. Darüber kommt die Einfuhrsteuer zurück.",
+          "Zahlt ein Produkt mit Inlandsversand Einfuhrsteuer? Nein. Produkte mit Inlandsversand sind schon in Brasilien und zahlen keine Einfuhrsteuer.",
+          "Kann ich bei SHEIN mehrere Gutscheine nutzen? Pro Bestellung ein SHEIN-Gutschein. Enthält der Warenkorb Produkte von Verkäufern in Brasilien, lässt sich zusätzlich der Gutschein dieses Verkäufers addieren.",
+          "Ist 4CW5Y ein Rabattgutschein? Nein. Es ist Cecílias Empfehlungscode: Sie suchen 4CW5Y in der SHEIN-App und sehen die Bedingungen für Ihr Konto.",
+          "Gibt es beim Black Friday bei SHEIN kostenlosen Versand? In den letzten Jahren gab es ihn in einzelnen Phasen der Aktion: 48 Stunden im Jahr 2023 und kostenlosen Versand in mehreren Kategorien zu Beginn der Aktion 2025. Die Versandkosten Ihrer Bestellung sehen Sie im Warenkorb.",
+          "Wie lange habe ich Zeit, Käufe vom Black Friday zurückzugeben? Bis zu 20 Tage nach dem Erhalt. Unterwäsche, Bademode, Bodys, Ohrringe und einige andere Artikel können nur innerhalb von 7 Tagen zurückgegeben werden."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Stellen Sie den Warenkorb bei SHEIN zusammen und prüfen Sie die Steuer in der Bestellübersicht, bevor Sie bezahlen",
+      "label": "Zu SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Regeln laut SHEIN Brasilien und Gesetz 15.502/2026. Wir können für Käufe eine Provision erhalten.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-black-friday-termine-gutscheine",
+        "title": "YesStyle Black Friday 2026: Termine, Gutscheine und wo der Reward Code CECILIA010 eingegeben wird"
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "slug": "black-friday-shein-date-e-tasse",
+    "locale": "it",
+    "translationKey": "shein-black-friday",
+    "title": "Black Friday SHEIN 2026: quando inizia, fino a quando dura e l'imposta di importazione zero fino a US$ 50",
+    "seoTitle": "SHEIN Black Friday 2026: date, imposte, coupon",
+    "type": "Guida al Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quando inizia e fino a quando dura il Black Friday di SHEIN, il calendario dal 2023 al 2025, cosa cambia con l'imposta di importazione zero sugli ordini fino a US$ 50, spedizione nazionale o internazionale, coupon, punti, pagamento e reso.",
+    "metaDescription": "Black Friday SHEIN 2026: il calendario 2023-2025, l'imposta di importazione zero fino a US$ 50, l'ICMS che resta, spedizione nazionale, coupon, punti e reso.",
+    "publishedAt": "11 ottobre 2026",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "Cecília Mauad in due look di un haul SHEIN: una camicetta chiara annodata in vita con gonna midi nera, e un abito lungo nero con inserti chiari.",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Dal 13 maggio 2026, gli ordini fino a US$ 50 non pagano l'imposta di importazione",
+      "Negli ultimi tre anni le offerte sono iniziate prima del Black Friday e sono continuate anche dopo",
+      "I prodotti con spedizione nazionale (Envio Nacional) non pagano l'imposta di importazione",
+      "Reso entro 20 giorni, e il primo reso di ogni ordine è gratuito"
+    ],
+    "cons": [
+      "«Fino al 90%» vale per alcuni articoli, non per tutto il carrello",
+      "L'ICMS, l'imposta statale brasiliana dal 17% al 20%, resta su ogni acquisto internazionale",
+      "Sopra US$ 50 torna l'imposta di importazione: 60%, meno US$ 30 sul valore dell'imposta",
+      "Un coupon SHEIN per ordine, e l'imposta pagata non torna in caso di reso"
+    ],
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "SHEIN non ha ancora annunciato il Black Friday 2026. Negli ultimi tre anni le offerte sono iniziate prima della data, insieme all'11.11, la vendita del Singles' Day, e sono finite dopo di esso: il 25/11 nel 2023 e il 30/11 nel 2024 e nel 2025. Nel 2026 il Black Friday cade il 27 novembre. Questa guida riguarda SHEIN Brasile (il sito e l'app brasiliani), e date, imposte, prezzi e regole possono cambiare negli altri paesi.",
+          "La grande novità di quest'anno è l'imposta. Dal 13 maggio 2026, un ordine internazionale fino a **US$ 50** (prodotto più spedizione, già con gli sconti) non paga l'imposta di importazione brasiliana. L'ICMS (dal 17% al 20%) resta, e SHEIN dice di coprirne una parte. Sopra US$ 50 torna l'imposta di importazione.",
+          "Vale un coupon SHEIN per ordine. Il 4CW5Y è il codice invito di Cecília: cercalo nell'app SHEIN e controlla le condizioni che compaiono per il tuo account. Il codice e le campagne sono di SHEIN Brasile e potrebbero non funzionare negli altri paesi."
+        ]
+      },
+      {
+        "heading": "Quando inizia il Black Friday di SHEIN",
+        "paragraphs": [
+          "SHEIN unisce l'11.11 e il Black Friday in un'unica campagna, con fasi che aumentano lo sconto massimo fino a fine mese. La tabella qui sotto raccoglie quello che SHEIN ha annunciato negli ultimi tre anni. Il calendario 2026 non è ancora uscito."
+        ],
+        "comparisonTable": {
+          "caption": "Fasi e sconti massimi annunciati da SHEIN Brasile, dalla stampa che ha riportato i comunicati e dai profili del marchio. Il «fino a» vale per alcuni articoli.",
+          "headers": [
+            "Anno",
+            "Inizio e fine",
+            "Sconto massimo annunciato"
+          ],
+          "rows": [
+            [
+              "2023",
+              "11/11 - 25/11",
+              "fino all'80% dall'11 al 19/11, fino all'85% dal 20 al 23/11 e fino al 90% il 24 e 25/11, con 48 ore di spedizione gratuita nella settimana del Black Friday"
+            ],
+            [
+              "2024",
+              "21/10 - 30/11",
+              "11.11: fino all'85% dal 21/10 al 4/11, fino al 90% dal 5 al 10/11 e fino al 95% dall'11 al 13/11. Black Friday: fino al 90% dal 13 al 25/11 e fino al 95% dal 26 al 30/11"
+            ],
+            [
+              "2025",
+              "già attiva dal 3/11, fino al 30/11",
+              "fino al 90% su oltre 800 mila articoli fino al 9/11, con spedizione gratuita in diverse categorie; dal 24/11, fino al 95% su oltre 800 mila articoli"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nel 2026 l'11.11 cade di mercoledì e il Black Friday venerdì 27 novembre. Se SHEIN ripete lo schema, le offerte dovrebbero iniziare tra fine ottobre e inizio novembre e durare fino al 30 novembre. È una stima basata sullo storico, e questa guida verrà aggiornata quando SHEIN annuncerà la campagna 2026.",
+          "In tutti e tre gli anni lo sconto massimo è salito verso la fine: 90% il 24 e 25/11 del 2023, 95% dal 26 al 30/11 del 2024 e 95% dal 24/11 del 2025."
+        ]
+      },
+      {
+        "heading": "«Fino al 90%» non è tutto il carrello",
+        "paragraphs": [
+          "La percentuale della campagna è il massimo sconto su alcuni articoli. La maggior parte del catalogo ha sconti più bassi, e il prezzo di ogni articolo cambia durante le fasi. Per non cadere nel numero grande della pubblicità:"
+        ],
+        "bullets": [
+          "Salva gli articoli nella lista dei desideri prima che inizi la campagna e annota il prezzo di adesso.",
+          "Confronta il prezzo in lista con quello delle fasi successive: negli ultimi tre anni lo sconto massimo è salito verso la fine.",
+          "Controlla il prezzo finale nel carrello, con spedizione e imposte, e non solo la percentuale della pubblicità.",
+          "Se l'articolo è di una taglia difficile da trovare, non aspettare l'ultima fase: le scorte possono finire prima."
+        ]
+      },
+      {
+        "heading": "L'imposta nel Black Friday: cosa è cambiato nel 2026",
+        "paragraphs": [
+          "SHEIN fa parte del Remessa Conforme, il programma della Receita Federal (il fisco federale brasiliano) per gli acquisti internazionali. Per questo le imposte vengono pagate al checkout, insieme all'ordine, e di norma alla consegna non si paga nulla in più, ma la Receita Federal può rivalutare il valore del pacco, e questo cambia l'imposta dovuta. Il 13 maggio 2026 l'imposta di importazione sugli acquisti fino a US$ 50 è stata azzerata. La Legge 15.502/2026, del 10 settembre 2026, ha confermato che il governo può mantenere l'aliquota zero per questa fascia.",
+          "Il conto vale per ordine e usa il valore del prodotto più la spedizione, già con sconti e coupon. Quindi lo sconto del Black Friday può portare un ordine sotto US$ 50. Il limite è in dollari: il checkout mostra le imposte del tuo ordine prima del pagamento."
+        ],
+        "comparisonTable": {
+          "caption": "Secondo la pagina delle imposte di SHEIN Brasile, aggiornata il 23/05/2026. L'ICMS del 17% vale per la maggior parte degli stati; l'Amapá ha il 18%, il Pará il 19%, e Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima e Sergipe hanno il 20%.",
+          "headers": [
+            "Ordine (prodotto + spedizione)",
+            "Imposta di importazione",
+            "ICMS",
+            "Esempio di SHEIN, senza il sussidio"
+          ],
+          "rows": [
+            [
+              "Fino a US$ 50",
+              "0%",
+              "dal 17% al 20%, a seconda dello stato",
+              "US$ 50 diventano US$ 60,24 con l'ICMS al 17%"
+            ],
+            [
+              "Sopra US$ 50",
+              "60%, meno US$ 30 sul valore dell'imposta",
+              "dal 17% al 20%, anche sull'imposta di importazione",
+              "US$ 100 diventano US$ 156,63 con l'ICMS al 17%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SHEIN dice di continuare a coprire una parte dell'ICMS, solo sul valore del prodotto. L'entità del sussidio cambia da cliente a cliente, secondo criteri che la piattaforma non pubblica, e non copre l'ICMS che si applica sull'imposta di importazione.",
+          "I prodotti con **spedizione nazionale**, già in Brasile, non pagano l'imposta di importazione. E l'imposta di importazione pagata non torna se restituisci il capo dopo la spedizione."
+        ]
+      },
+      {
+        "heading": "Spedizione nazionale o internazionale?",
+        "paragraphs": [
+          "Su SHEIN, la stessa ricerca mescola prodotti che arrivano dall'estero e prodotti di venditori già in Brasile, segnati come spedizione nazionale. Durante il Black Friday la differenza pesa sul prezzo finale e sulle regole degli sconti."
+        ],
+        "bullets": [
+          "**Spedizione nazionale:** niente imposta di importazione. Ogni venditore ha la propria spedizione, i propri tempi e le proprie condizioni, e i punti SHEIN non valgono su questi articoli.",
+          "**Internazionale:** passa dalla dogana, con le imposte pagate al checkout. SHEIN impiega da 3 a 5 giorni per elaborare l'ordine prima della spedizione, e il nome sull'ordine deve corrispondere al CPF (il numero di contribuente brasiliano).",
+          "**Tempi:** i tempi di consegna e la spedizione compaiono nella pagina dell'ordine prima di pagare. L'ordine può arrivare in più pacchi.",
+          "**Ritardo:** SHEIN offre un servizio gratuito di consegna puntuale, che dà 200 punti SHEIN o R$ 10 (reais brasiliani) di credito nel portafoglio se l'ordine non arriva entro la data prevista."
+        ]
+      },
+      {
+        "heading": "Coupon, punti e il codice 4CW5Y",
+        "paragraphs": [
+          "Secondo la politica dei coupon di SHEIN, vale un coupon della piattaforma per ordine. Se il carrello contiene prodotti di venditori in Brasile, puoi usare anche il coupon di quel venditore: al massimo due coupon, uno per tipo. Ogni coupon ha una scadenza, e quello non usato in tempo non è più disponibile.",
+          "I punti SHEIN valgono US$ 1 ogni 100 punti e possono scontare fino al 30% del valore dei prodotti, senza contare spedizione e imposte. Non valgono sugli articoli di venditori in Brasile.",
+          "Il 4CW5Y non è uno sconto: è il codice invito di Cecília. Cercalo nell'app SHEIN e controlla le condizioni che compaiono per il tuo account. Il codice e le campagne sono di SHEIN Brasile e potrebbero non funzionare negli altri paesi. Le campagne SHEIN cambiano spesso, quindi si trovano nella pagina del negozio su questo sito, con la data in cui sono state verificate."
+        ],
+        "links": [
+          {
+            "label": "Vedi il codice invito 4CW5Y e le campagne SHEIN",
+            "href": "/it/coupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "Come pagare nel Black Friday",
+        "paragraphs": [
+          "SHEIN accetta Pix (il sistema di pagamento istantaneo del Brasile), carta di credito brasiliana fino a 6 rate, boleto (un bollettino bancario brasiliano), PayPal e Pagaleve (un servizio «compra ora, paga dopo»). Il boleto va pagato entro 3 giorni. La stessa SHEIN consiglia carta o PayPal per evitare esaurimento di scorte o ritardi nella conferma del pagamento, cosa che pesa in una promozione con scorte limitate.",
+          "Se ti serve un rimborso, il Pix è il più veloce: SHEIN lo elabora entro 24 ore, e la banca impiega da 1 a 3 giorni lavorativi. Con la carta di credito la banca impiega da 3 a 8 giorni lavorativi, a volte fino a 30 giorni."
+        ]
+      },
+      {
+        "heading": "Cambi e resi dopo il Black Friday",
+        "bullets": [
+          "**Termine:** fino a 20 giorni dopo la ricezione, anche se il capo semplicemente non ti piace.",
+          "**Articoli che si restituiscono solo entro 7 giorni:** body, costumi da bagno, biancheria intima, orecchini e piercing, prodotti per animali, cosmetici, articoli per feste e per il bricolage con il sigillo aperto. Questi si possono restituire solo entro il termine di recesso di 7 giorni dalla consegna.",
+          "**Spese di reso:** il primo reso di ogni ordine è gratuito, tramite Correios (il servizio postale brasiliano), Jadlog o Total Express (corrieri brasiliani). A partire dal secondo reso, SHEIN trattiene R$ 45 dal rimborso per ogni reso.",
+          "**Coupon:** in caso di reso parziale, il coupon risulta usato e non torna sul conto. Se l'ordine scende sotto l'importo minimo del coupon, SHEIN trattiene dal rimborso la parte di sconto che non vale più.",
+          "**Imposta:** l'imposta di importazione pagata non torna dopo che l'ordine è stato spedito."
+        ]
+      },
+      {
+        "heading": "Prima di pagare: cosa controllare",
+        "bullets": [
+          "Se il prodotto è a spedizione nazionale o internazionale.",
+          "Se l'ordine internazionale resta entro US$ 50, contando spedizione e già con gli sconti.",
+          "Quanto risulta l'ICMS nel riepilogo dell'ordine.",
+          "Se il coupon è stato applicato e se i punti sono stati detratti.",
+          "I tempi di consegna, se l'acquisto è un regalo di Natale.",
+          "Se l'articolo rientra tra quelli che si possono restituire solo entro 7 giorni."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Quando inizia il Black Friday di SHEIN nel 2026? SHEIN non l'ha ancora annunciato. Nel 2024 le offerte sono iniziate il 21 ottobre, insieme all'11.11, e nel 2025 erano già attive il 3 novembre. Il Black Friday 2026 cade il 27 novembre.",
+          "Quando finisce il Black Friday di SHEIN? Nel 2024 e nel 2025 fino al 30 novembre. Nel 2023 fino al 25 novembre, il sabato dopo il Black Friday.",
+          "Cos'è l'11.11 di SHEIN? È la vendita del Singles' Day, l'11 novembre. SHEIN unisce l'11.11 e il Black Friday in un'unica campagna, con fasi di sconto fino a fine mese.",
+          "Ci sono imposte sugli acquisti SHEIN durante il Black Friday? Sì: su ogni acquisto internazionale c'è l'ICMS, dal 17% al 20% a seconda dello stato. L'imposta di importazione è zero per gli ordini fino a US$ 50 e del 60% sopra questa cifra, meno US$ 30 sul valore dell'imposta.",
+          "L'imposta di importazione zero di SHEIN vale per ogni acquisto? Vale per gli ordini internazionali fino a US$ 50, contando prodotto e spedizione, già con gli sconti. Sopra questa cifra torna l'imposta di importazione.",
+          "Un prodotto a spedizione nazionale paga l'imposta di importazione? No. I prodotti a spedizione nazionale sono già in Brasile e non pagano l'imposta di importazione.",
+          "Posso usare più di un coupon su SHEIN? Un coupon SHEIN per ordine. Se il carrello contiene prodotti di venditori in Brasile, puoi aggiungere anche il coupon di quel venditore.",
+          "Il 4CW5Y è uno sconto? No. È il codice invito di Cecília: cercalo nell'app SHEIN e vedi le condizioni per il tuo account.",
+          "C'è la spedizione gratuita durante il Black Friday di SHEIN? Negli ultimi anni c'è stata in alcuni momenti della campagna: 48 ore nel 2023 e spedizione gratuita in diverse categorie all'inizio della campagna 2025. La spedizione del tuo ordine compare nel carrello.",
+          "Quanto tempo ho per restituire ciò che ho comprato nel Black Friday? Fino a 20 giorni dopo la ricezione. Biancheria intima, costumi da bagno, body, orecchini e alcuni altri articoli si possono restituire solo entro 7 giorni."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Prepara il carrello su SHEIN e controlla l'imposta nel riepilogo dell'ordine prima di pagare",
+      "label": "Vai su SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Regole ufficiali di SHEIN Brasile e della Legge 15.502/2026. Possiamo ricevere commissioni sugli acquisti.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-yesstyle-date-e-coupon",
+        "title": "Black Friday YesStyle 2026: quando inizia, come funzionano i coupon e dove inserire il codice CECILIA010"
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "slug": "shein-black-friday-ko",
+    "locale": "ko",
+    "translationKey": "shein-black-friday",
+    "title": "SHEIN 블랙프라이데이(Black Friday) 2026: 시작일과 종료일, US$ 50 이하 수입세 면제",
+    "seoTitle": "SHEIN 블랙프라이데이 2026: 날짜, 세금, 쿠폰",
+    "type": "블랙프라이데이 가이드",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN 블랙프라이데이가 언제 시작해 언제 끝나는지, 2023~2025년 일정, US$ 50 이하 해외 주문의 수입세 면제 변화, 국내 배송과 해외 배송, 쿠폰, 포인트, 결제와 반품을 정리했습니다.",
+    "metaDescription": "SHEIN 블랙프라이데이 2026: 2023~2025년 일정, US$ 50 이하 수입세 0%, 남아 있는 ICMS, 국내 배송, 쿠폰, 포인트와 반품 안내.",
+    "publishedAt": "2026년 10월 11일",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "Cecília Mauad가 SHEIN 하울 룩 두 가지를 입은 모습: 허리에 묶은 연한 블라우스와 검은 미디 스커트, 밝은 패널이 들어간 긴 검은 원피스",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "2026년 5월 13일부터 US$ 50 이하 주문에는 수입세가 붙지 않습니다",
+      "최근 3년 동안 할인은 블랙프라이데이 전에 시작해 블랙프라이데이 이후에도 이어졌습니다",
+      "국내 배송(Envio Nacional) 상품에는 수입세가 붙지 않습니다",
+      "수령 후 20일 이내 반품이 가능하며, 주문마다 첫 반품은 무료입니다"
+    ],
+    "cons": [
+      "“최대 90%”는 일부 상품에만 해당하며 장바구니 전체에 적용되지 않습니다",
+      "ICMS, 브라질 주 세금(17%~20%)은 모든 해외 구매에 계속 붙습니다",
+      "US$ 50을 넘으면 수입세가 다시 붙습니다: 60%, 세액에서 US$ 30 공제",
+      "주문마다 SHEIN 쿠폰 1장만 쓸 수 있고, 납부한 수입세는 반품해도 돌아오지 않습니다"
+    ],
+    "contentSections": [
+      {
+        "heading": "답변 요약",
+        "paragraphs": [
+          "SHEIN은 아직 2026년 블랙프라이데이를 발표하지 않았습니다. 최근 3년 동안 할인은 블랙프라이데이 전부터 11.11(싱글스 데이 세일)과 함께 시작해 블랙프라이데이 뒤에 끝났습니다. 2023년에는 11월 25일까지, 2024년과 2025년에는 11월 30일까지였습니다. 2026년 블랙프라이데이는 11월 27일입니다. 이 가이드는 SHEIN 브라질(브라질 웹사이트와 앱)을 다루며, 날짜·세금·가격·규정은 다른 나라에서 다를 수 있습니다.",
+          "올해 큰 변화는 세금입니다. 2026년 5월 13일부터 **US$ 50** 이하 해외 주문(상품 가격과 배송비 합계, 할인 적용 후 금액)에는 브라질 수입세가 붙지 않습니다. 주 세금 ICMS(17%~20%)는 그대로 붙고, SHEIN은 그중 일부를 부담한다고 밝혔습니다. US$ 50을 넘으면 수입세가 다시 붙습니다.",
+          "주문마다 SHEIN 쿠폰 1장을 쓸 수 있습니다. 4CW5Y는 Cecília의 추천 코드입니다. 이 코드와 캠페인은 SHEIN 브라질의 것이며, 다른 나라에서는 적용되지 않을 수 있습니다. SHEIN 앱에서 4CW5Y를 검색하고, 내 계정에 표시되는 조건을 확인하세요."
+        ]
+      },
+      {
+        "heading": "SHEIN 블랙프라이데이는 언제 시작하나요?",
+        "paragraphs": [
+          "SHEIN은 11.11과 블랙프라이데이를 하나의 캠페인으로 묶고, 월말까지 최대 할인율이 올라가는 단계를 둡니다. 아래 표는 SHEIN이 최근 3년 동안 발표한 내용을 모았습니다. 2026년 일정은 아직 나오지 않았습니다."
+        ],
+        "comparisonTable": {
+          "caption": "SHEIN 브라질이 발표하고 해당 공지를 보도한 언론, 브랜드 프로필을 근거로 정리한 단계별 최대 할인율입니다. “최대”는 일부 상품에만 해당합니다.",
+          "headers": [
+            "연도",
+            "시작과 끝",
+            "발표된 최대 할인율"
+          ],
+          "rows": [
+            [
+              "2023년",
+              "11월 11일~11월 25일",
+              "11일~19일 최대 80%, 20일~23일 최대 85%, 24일·25일 최대 90%, 블랙프라이데이 주간 48시간 무료 배송"
+            ],
+            [
+              "2024년",
+              "10월 21일~11월 30일",
+              "11.11: 10월 21일~11월 4일 최대 85%, 11월 5일~10일 최대 90%, 11월 11일~13일 최대 95%. 블랙프라이데이: 11월 13일~25일 최대 90%, 11월 26일~30일 최대 95%"
+            ],
+            [
+              "2025년",
+              "11월 3일 시작, 11월 30일까지",
+              "11월 9일까지 80만 개 이상 상품 최대 90%, 여러 카테고리 무료 배송. 11월 24일부터 80만 개 이상 상품 최대 95%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "2026년 11.11은 수요일이고, 블랙프라이데이는 금요일인 11월 27일입니다. SHEIN이 같은 흐름을 따른다면 할인은 10월 말~11월 초에 시작해 11월 30일까지 이어질 수 있습니다. 과거 흐름을 바탕으로 한 추정이며, SHEIN이 2026년 캠페인을 발표하면 이 가이드를 업데이트합니다.",
+          "최근 3년 동안 최대 할인율은 막바지에 올랐습니다. 2023년 11월 24일·25일 90%, 2024년 11월 26일~30일 95%, 2025년 11월 24일부터 95%입니다."
+        ]
+      },
+      {
+        "heading": "“최대 90%”는 장바구니 전체 할인이 아닙니다",
+        "paragraphs": [
+          "캠페인에서 말하는 퍼센트는 일부 상품에 적용되는 가장 큰 할인율입니다. 대부분의 상품은 할인율이 낮고, 상품 가격은 단계마다 달라집니다. 광고의 큰 숫자에 속지 않으려면 다음을 확인하세요."
+        ],
+        "bullets": [
+          "캠페인이 시작하기 전에 상품을 위시리스트에 담고 지금 가격을 적어 두세요.",
+          "위시리스트 가격을 다음 단계 가격과 비교하세요. 최근 3년 동안 최대 할인율은 막판에 올랐습니다.",
+          "광고의 퍼센트만 보지 말고, 장바구니에서 배송비와 세금을 포함한 최종 금액을 확인하세요.",
+          "맞는 사이즈를 찾기 어려운 상품이라면 마지막 단계를 기다리지 마세요. 재고가 먼저 떨어질 수 있습니다."
+        ]
+      },
+      {
+        "heading": "블랙프라이데이의 세금: 2026년에 달라진 것",
+        "paragraphs": [
+          "SHEIN은 해외 구매를 위한 브라질 연방세무청(Receita Federal)의 프로그램인 Remessa Conforme에 참여합니다. 그래서 세금은 주문과 함께 결제 화면에서 청구되며, 원칙적으로 배송받을 때 따로 내는 금액은 없지만, 연방세무청이 소포 가치를 다시 평가할 수 있고, 그러면 납부할 세금이 달라집니다. 2026년 5월 13일부터 US$ 50 이하 해외 구매의 브라질 수입세가 0%가 되었습니다. 2026년 9월 10일자 법률 15.502/2026은 정부가 이 구간의 세율 0%를 유지할 수 있다고 확인했습니다.",
+          "계산은 주문 단위로 하며, 상품 가격과 배송비를 더한 금액에 할인과 쿠폰을 이미 반영합니다. 즉 블랙프라이데이 할인 때문에 주문 금액이 US$ 50 아래로 내려갈 수 있습니다. 기준은 달러이며, 결제 전에 결제 화면에서 주문의 세금을 확인할 수 있습니다."
+        ],
+        "comparisonTable": {
+          "caption": "SHEIN 브라질 세금 페이지(2026년 5월 23일 업데이트) 기준입니다. ICMS 17%는 대부분의 주에 적용되고, Amapá는 18%, Pará는 19%이며, Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima, Sergipe는 20%입니다.",
+          "headers": [
+            "주문(상품 + 배송비)",
+            "수입세",
+            "ICMS",
+            "SHEIN 예시(보조금 제외)"
+          ],
+          "rows": [
+            [
+              "US$ 50 이하",
+              "0%",
+              "주에 따라 17%~20%",
+              "ICMS 17% 적용 시 US$ 50 → US$ 60.24"
+            ],
+            [
+              "US$ 50 초과",
+              "60%, 세액에서 US$ 30 공제",
+              "17%~20%, 수입세에도 적용",
+              "ICMS 17% 적용 시 US$ 100 → US$ 156.63"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SHEIN은 상품 가격에 대해서만 ICMS 일부를 계속 부담한다고 밝혔습니다. 부담 규모는 고객마다 다르며, 회사가 공개하지 않은 기준에 따릅니다. 이 보조금은 수입세에 붙는 ICMS까지 덮지는 않습니다.",
+          "이미 브라질에 있는 **국내 배송** 상품에는 수입세가 붙지 않습니다. 발송 후에 반품하더라도 이미 낸 수입세는 돌려받을 수 없습니다."
+        ]
+      },
+      {
+        "heading": "국내 배송인가요, 해외 배송인가요?",
+        "paragraphs": [
+          "SHEIN에서는 같은 검색 결과에 해외에서 오는 상품과 이미 브라질에 있는 판매자의 상품(국내 배송 표시)이 섞여 나옵니다. 블랙프라이데이에는 이 차이가 최종 가격과 할인 규정에 영향을 줍니다."
+        ],
+        "bullets": [
+          "**국내 배송:** 수입세가 없습니다. 판매자마다 배송비, 배송 기간, 조건이 따로 있으며, SHEIN 포인트는 이 상품에 적용되지 않습니다.",
+          "**해외 배송:** 통관을 거치며, 세금은 결제 화면에서 청구됩니다. SHEIN은 발송 전 주문 처리에 3~5일이 걸리며, 주문 이름이 CPF(브라질 개인 납세자 번호)와 일치해야 합니다.",
+          "**배송 기간:** 배송 기간과 배송비는 결제 전 주문 페이지에 표시됩니다. 주문이 여러 상자로 나뉘어 도착할 수 있습니다.",
+          "**지연:** SHEIN에는 무료 정시 배송 서비스가 있습니다. 예정일까지 주문이 도착하지 않으면 SHEIN 포인트 200점 또는 R$ 10(브라질 헤알)을 지갑 적립금으로 드립니다."
+        ]
+      },
+      {
+        "heading": "쿠폰, 포인트, 그리고 추천 코드 4CW5Y",
+        "paragraphs": [
+          "SHEIN 쿠폰 정책에 따르면 주문마다 플랫폼 쿠폰 1장을 쓸 수 있습니다. 장바구니에 브라질 판매자의 상품이 있다면 그 판매자의 매장 쿠폰도 쓸 수 있으며, 최대 2장까지 종류별로 1장씩입니다. 쿠폰마다 유효기간이 있고, 기간 안에 쓰지 못한 쿠폰은 사용할 수 없게 됩니다.",
+          "SHEIN 포인트는 100점당 US$ 1의 가치가 있으며, 상품 금액의 최대 30%까지 차감할 수 있습니다(배송비와 세금은 제외). 브라질 판매자의 상품에는 적용되지 않습니다.",
+          "4CW5Y는 Cecília의 추천 코드이고, 할인 혜택 코드가 아닙니다. SHEIN 앱에서 4CW5Y를 검색하고, 내 계정에 표시되는 조건을 확인하세요. 이 코드와 캠페인은 SHEIN 브라질의 것이며 다른 나라에서는 적용되지 않을 수 있습니다. SHEIN 캠페인은 자주 바뀌므로, 확인 날짜와 함께 이 사이트의 SHEIN 페이지에 정리해 두었습니다."
+        ],
+        "links": [
+          {
+            "label": "4CW5Y 추천 코드와 SHEIN 캠페인 보기",
+            "href": "/ko/coupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "블랙프라이데이에 결제하는 방법",
+        "paragraphs": [
+          "SHEIN은 Pix, 최대 6회 할부가 되는 브라질 신용카드, boleto, PayPal, Pagaleve를 받습니다. Pix는 브라질의 즉시 송금·결제 시스템이고, boleto는 브라질의 은행 납부 전표입니다. Pagaleve는 ‘지금 사고 나중에 결제하는’ 서비스입니다. boleto는 3일 안에 결제해야 합니다. SHEIN은 재고 부족이나 결제 확인 지연을 피하려면 카드나 PayPal을 권장합니다. 재고가 한정된 프로모션에서는 이 점이 중요합니다.",
+          "환불이 필요하다면 Pix가 가장 빠릅니다. SHEIN은 24시간 안에 처리하고, 은행은 영업일 기준 1~3일이 걸립니다. 신용카드는 은행에서 영업일 기준 3~8일이 걸리며, 때로는 30일까지 걸리기도 합니다."
+        ]
+      },
+      {
+        "heading": "블랙프라이데이 이후 교환과 반품",
+        "bullets": [
+          "**기한:** 수령 후 20일 이내입니다. 상품이 마음에 들지 않는 경우에도 가능합니다.",
+          "**7일 안에만 반품되는 상품:** 바디슈트, 수영복, 속옷, 귀걸이·피어싱, 반려동물용품, 화장품, 파티용품, 공예용품 중 포장을 개봉한 상품. 이 상품은 배송받은 날부터 7일 이내의 청약철회 기간에만 반품할 수 있습니다.",
+          "**반품 배송비:** 주문마다 첫 반품은 무료이며, Correios(브라질 우편 서비스), Jadlog, Total Express(브라질 택배사) 중 한 곳으로 보낼 수 있습니다. 두 번째 반품부터는 반품할 때마다 환불금에서 R$ 45가 차감됩니다.",
+          "**쿠폰:** 일부만 반품하면 쿠폰은 사용된 것으로 처리되며 계정으로 돌아오지 않습니다. 남은 주문 금액이 쿠폰의 최소 금액보다 낮아지면, SHEIN은 더 이상 적용되지 않는 할인분을 환불금에서 차감합니다.",
+          "**세금:** 주문이 발송된 뒤에는 낸 수입세를 돌려받을 수 없습니다."
+        ]
+      },
+      {
+        "heading": "결제 전에 확인할 것",
+        "bullets": [
+          "상품이 국내 배송인지 해외 배송인지 확인하세요.",
+          "해외 주문이 배송비를 포함하고 할인을 적용한 뒤 US$ 50 이하인지 확인하세요.",
+          "주문 요약에서 ICMS 금액을 확인하세요.",
+          "쿠폰이 적용됐는지, 포인트가 차감됐는지 확인하세요.",
+          "크리스마스 선물이라면 배송 기한을 확인하세요.",
+          "7일 안에만 반품되는 상품인지 확인하세요."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "2026년 SHEIN 블랙프라이데이는 언제 시작하나요? SHEIN은 아직 발표하지 않았습니다. 2024년에는 10월 21일에 11.11과 함께 시작했고, 2025년에는 11월 3일에 이미 진행 중이었습니다. 2026년 블랙프라이데이는 11월 27일입니다.",
+          "SHEIN 블랙프라이데이는 언제 끝나나요? 2024년과 2025년에는 11월 30일까지였습니다. 2023년에는 블랙프라이데이 다음 날인 토요일 11월 25일까지였습니다.",
+          "SHEIN의 11.11은 무엇인가요? 11월 11일에 열리는 싱글스 데이(광군제) 세일입니다. SHEIN은 11.11과 블랙프라이데이를 하나의 캠페인으로 묶어 월말까지 단계별 할인을 진행합니다.",
+          "블랙프라이데이에 SHEIN을 사면 세금이 붙나요? 네. 해외 구매에는 주에 따라 17%~20%의 ICMS가 붙습니다. 수입세는 US$ 50 이하 주문에서는 0%이고, 그보다 많으면 수입세 60%가 붙고, 그 세액에서 US$ 30을 뺍니다.",
+          "SHEIN의 수입세 면제는 모든 구매에 적용되나요? 할인 적용 후 상품과 배송비를 합해 US$ 50 이하인 해외 주문에만 적용됩니다. 그보다 많으면 수입세가 다시 붙습니다.",
+          "국내 배송 상품에도 수입세가 붙나요? 아니요. 국내 배송 상품은 이미 브라질에 있어서 수입세가 붙지 않습니다.",
+          "SHEIN에서 쿠폰을 여러 장 쓸 수 있나요? 주문마다 SHEIN 쿠폰 1장입니다. 장바구니에 브라질 판매자의 상품이 있다면 그 판매자의 쿠폰을 함께 쓸 수 있습니다.",
+          "4CW5Y는 할인 혜택인가요? 아니요. Cecília의 추천 코드입니다. SHEIN 앱에서 코드를 검색하면 내 계정의 조건을 볼 수 있습니다.",
+          "블랙프라이데이에 SHEIN 무료 배송이 있나요? 최근 몇 년은 캠페인 중 일부 기간에만 있었습니다. 2023년에는 48시간, 2025년 캠페인 초반에는 여러 카테고리에서 무료 배송이 있었습니다. 주문의 배송비는 장바구니에서 확인할 수 있습니다.",
+          "블랙프라이데이에 산 상품은 언제까지 반품할 수 있나요? 수령 후 20일 이내입니다. 속옷, 수영복, 바디슈트, 귀걸이 등 일부 상품은 7일 안에만 반품할 수 있습니다."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "SHEIN에서 장바구니를 채우고, 결제 전에 주문 요약에서 세금을 확인하세요",
+      "label": "SHEIN으로 이동",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "SHEIN 브라질 공식 페이지와 법률 15.502/2026 규정 기준입니다. 구매하면 수수료를 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-black-friday-ko",
+        "title": "YesStyle 블랙프라이데이(Black Friday) 2026: 시작 날짜, 쿠폰 작동 방식, CECILIA010 입력 위치"
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "slug": "shein-black-friday-ja",
+    "locale": "ja",
+    "translationKey": "shein-black-friday",
+    "title": "Black Friday SHEIN 2026（ブラックフライデー）：いつ始まり、いつまで？US$ 50までの輸入税ゼロ",
+    "seoTitle": "SHEIN ブラックフライデー 2026：日程・税金・クーポン",
+    "type": "ブラックフライデーガイド",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN のブラックフライデーがいつ始まり、いつ終わるかを解説します。2023年から2025年までの日程、US$ 50までの注文で輸入税がゼロになった変更点、国内配送と国際配送、クーポン、ポイント、支払い、返品をまとめました。",
+    "metaDescription": "ブラックフライデー SHEIN 2026：2023〜2025年の日程、US$ 50までの輸入税ゼロ、残るICMS、国内配送、クーポン、ポイント、返品をまとめました。",
+    "publishedAt": "2026年10月11日",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "SHEIN の購入品の2つのコーデを着た Cecília Mauad：ウエストで結んだ明るい色のブラウスと黒いミディ丈スカート、明るい切り替えの入った黒いロングドレス",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "2026年5月13日から、US$ 50までの国際注文は輸入税がかかりません",
+      "過去3年は、ブラックフライデーより前にセールが始まり、その後も続きました",
+      "国内配送（Envio Nacional）の商品には、輸入税がかかりません",
+      "返品は受け取りから20日以内。注文ごとに最初の返品は無料です"
+    ],
+    "cons": [
+      "「最大90%」は一部の商品に対する割引で、カート全体には適用されません",
+      "ブラジルの州税ICMS（17%〜20%）は、どの国際購入にもかかります",
+      "US$ 50を超えると輸入税が戻ります。税率は60%で、税額からUS$ 30を差し引きます",
+      "プラットフォームのクーポンは注文ごとに1枚まで。支払った輸入税は、返品しても戻りません"
+    ],
+    "contentSections": [
+      {
+        "heading": "まずは結論",
+        "paragraphs": [
+          "SHEIN はまだ2026年のブラックフライデーを発表していません。このガイドは SHEIN ブラジル（ブラジル向けのサイトとアプリ）について書いています。日程、税金、価格、ルールは他の国では異なる場合があります。過去3年は、ブラックフライデーより前に11.11（独身の日のセール）と一緒にセールが始まり、ブラックフライデーの後も続きました。終了日は2023年が11月25日、2024年と2025年が11月30日です。2026年のブラックフライデーは11月27日です。",
+          "今年の大きな変化は税金です。2026年5月13日から、**US$ 50**までの国際注文（商品と送料の合計、割引適用後）には、ブラジルの輸入税がかかりません。州税のICMSは17%〜20%で引き続きかかり、SHEIN はその一部を負担すると述べています。US$ 50を超えると、輸入税が戻ります。",
+          "注文ごとに、SHEIN のプラットフォームクーポンは1枚まで使えます。4CW5Y は Cecília の紹介コードです。SHEIN アプリで 4CW5Y を検索し、ご自身のアカウントに表示される条件をご確認ください。紹介コードとキャンペーンは SHEIN ブラジルのもので、他の国では使えない場合があります。"
+        ]
+      },
+      {
+        "heading": "SHEIN のブラックフライデーはいつ始まる？",
+        "paragraphs": [
+          "SHEIN は 11.11 とブラックフライデーを1つのキャンペーンにまとめ、月末まで最大割引率を段階的に上げていきます。下の表は、過去3年に SHEIN が発表した内容をまとめたものです。2026年の日程はまだ発表されていません。"
+        ],
+        "comparisonTable": {
+          "caption": "SHEIN ブラジルが発表した各段階と最大割引率。発表を掲載した報道と、ブランドの公式アカウントを基にしています。「最大」は一部の商品に当てはまります。",
+          "headers": [
+            "年",
+            "期間",
+            "発表された最大割引率"
+          ],
+          "rows": [
+            [
+              "2023年",
+              "11月11日〜11月25日",
+              "11月11日〜19日は最大80%、11月20日〜23日は最大85%、11月24日と25日は最大90%。ブラックフライデー週は48時間の送料無料"
+            ],
+            [
+              "2024年",
+              "10月21日〜11月30日",
+              "11.11：10月21日〜11月4日は最大85%、11月5日〜10日は最大90%、11月11日〜13日は最大95%。ブラックフライデー：11月13日〜25日は最大90%、11月26日〜30日は最大95%"
+            ],
+            [
+              "2025年",
+              "11月3日〜11月30日（すでに開始）",
+              "11月9日まで、80万点以上の商品で最大90%。複数のカテゴリーで送料無料。11月24日からは、80万点以上の商品で最大95%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "2026年は、11.11が水曜日、ブラックフライデーは金曜日の11月27日です。SHEIN が過去と同じパターンを続けるなら、セールは10月末から11月初めの間に始まり、11月30日まで続くと考えられます。これは過去の傾向による推測です。SHEIN が2026年のキャンペーンを発表したら、このガイドを更新します。",
+          "過去3年とも、最大割引率は終わりに近づくほど上がりました。2023年は11月24日と25日に90%、2024年は11月26日〜30日に95%、2025年は11月24日から95%です。"
+        ]
+      },
+      {
+        "heading": "「最大90%」はカート全体の割引ではありません",
+        "paragraphs": [
+          "キャンペーンの割合は、一部の商品に対する最大の割引です。カタログの大部分はそれより小さい割引で、商品ごとの価格はセールの段階によって変わります。広告の大きな数字に惑わされないために、次の点を確認しましょう。"
+        ],
+        "bullets": [
+          "キャンペーン開始前に、欲しい商品をウィッシュリストに入れて、今の価格をメモしておきましょう。",
+          "ウィッシュリストの価格と後の段階の価格を比べましょう。過去3年とも、最大割引率は終盤に上がりました。",
+          "カートで、送料と税金を含めた最終価格を確認しましょう。広告の割合だけで判断しないでください。",
+          "サイズが見つかりにくい商品は、最後の段階まで待たないでください。在庫が先になくなることがあります。"
+        ]
+      },
+      {
+        "heading": "ブラックフライデーの税金：2026年に何が変わったか",
+        "paragraphs": [
+          "SHEIN は Remessa Conforme に参加しています。これは、ブラジル連邦歳入庁（Receita Federal）が国際購入向けに運営するプログラムです。そのため、税金は注文時にチェックアウトで支払われます。原則として配達時に追加請求はありませんが、ブラジル連邦歳入庁が荷物の価値を再評価することがあり、その場合は納める税金が変わります。2026年5月13日からは、US$ 50までの購入の輸入税がゼロになりました。2026年9月10日の法律15.502/2026は、政府がこの範囲の税率をゼロのまま維持できることを確認しています。",
+          "この計算は注文ごとに行われ、商品代金と送料の合計から、割引とクーポンを適用した後の金額で判断されます。つまり、ブラックフライデーの割引によって注文がUS$ 50以下になることもあります。上限はドル建てです。チェックアウトでは、支払い前に注文の税金が表示されます。"
+        ],
+        "comparisonTable": {
+          "caption": "SHEIN ブラジルの税金ページ（2026年5月23日更新）による。ICMSは多くの州で17%、Amapá は18%、Pará は19%。Acre、Alagoas、Bahia、Ceará、Paraíba、Piauí、Rio Grande do Norte、Roraima、Sergipe は20%です。",
+          "headers": [
+            "注文（商品＋送料）",
+            "輸入税",
+            "ICMS",
+            "SHEIN の例（補助なし）"
+          ],
+          "rows": [
+            [
+              "US$ 50まで",
+              "0%",
+              "州により17%〜20%",
+              "US$ 50が、ICMS 17%で US$ 60.24 になります"
+            ],
+            [
+              "US$ 50を超える",
+              "60%（税額からUS$ 30を差し引く）",
+              "州により17%〜20%。輸入税にもかかります",
+              "US$ 100が、ICMS 17%で US$ 156.63 になります"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SHEIN は、ICMS の一部を引き続き負担すると述べています。ただし、負担するのは商品代金に対する部分だけです。補助の大きさは顧客ごとに異なり、その基準は SHEIN が公表していません。また、輸入税にかかる ICMS は補助の対象外です。",
+          "**国内配送**の商品は、すでにブラジル国内にあるため、輸入税がかかりません。また、発送後に返品しても、支払った輸入税は戻りません。"
+        ]
+      },
+      {
+        "heading": "国内配送か国際配送か？",
+        "paragraphs": [
+          "SHEIN では同じ検索結果に、海外から届く商品と、すでにブラジル国内にある販売者の商品が混ざっています。後者は「国内配送」と表示されます。ブラックフライデーでは、この違いが最終価格と割引のルールに影響します。"
+        ],
+        "bullets": [
+          "**国内配送:** 輸入税はかかりません。販売者ごとに送料、配送日数、条件が異なり、SHEIN ポイントはこれらの商品には使えません。",
+          "**国際配送:** 税関を通るため、税金はチェックアウトで支払います。SHEIN は発送前に注文の処理に3〜5日かかります。また、注文の氏名は CPF（ブラジルの納税者番号）と一致している必要があります。",
+          "**配送日数:** 配送日数と送料は、支払い前に注文ページで確認できます。注文が複数の荷物に分かれて届くこともあります。",
+          "**遅延:** SHEIN には無料の期日内配達サービスがあります。予定日までに届かなかった場合、200 SHEIN ポイント、または R$ 10（ブラジル・レアル）のウォレット残高がもらえます。"
+        ]
+      },
+      {
+        "heading": "クーポン、ポイント、4CW5Y（紹介コード）",
+        "paragraphs": [
+          "SHEIN のクーポンの決まりでは、プラットフォームのクーポンは注文ごとに1枚までです。カートに国内販売者の商品が入っている場合は、その販売者のストアクーポンも使えます。使えるのは最大2枚で、プラットフォームとストアのクーポンを1枚ずつです。各クーポンには有効期限があり、期限内に使わなかったものは使えなくなります。",
+          "SHEIN ポイントは100ポイントで US$ 1 の価値があり、商品代金の最大30%まで差し引けます。送料と税金は含みません。国内販売者の商品には使えません。",
+          "4CW5Y は Cecília の紹介コードです。クーポンではありません。SHEIN アプリで 4CW5Y を検索し、ご自身のアカウントに表示される条件をご確認ください。紹介コードとキャンペーンは SHEIN ブラジルのもので、他の国では使えない場合があります。SHEIN のキャンペーンは頻繁に変わるため、このサイトのストアページに、確認日とともに掲載しています。"
+        ],
+        "links": [
+          {
+            "label": "4CW5Y の紹介コードと SHEIN のキャンペーンを見る",
+            "href": "/ja/coupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "ブラックフライデーの支払い方法",
+        "paragraphs": [
+          "SHEIN は Pix（ブラジルの即時決済システム）、ブラジル発行のクレジットカード（最大6回の分割払い）、boleto（ブラジルの銀行払込票）、PayPal、Pagaleve（後払いサービス）に対応しています。boleto は3日以内に支払う必要があります。SHEIN 自身も、在庫切れや支払い確認の遅れを避けるため、カードか PayPal を勧めています。在庫が少ないセールでは、この点が重要です。",
+          "返金が必要な場合は、Pix が最も早い方法です。SHEIN は24時間以内に処理し、銀行の反映に1〜3営業日かかります。クレジットカードの場合、銀行の反映に3〜8営業日かかり、場合によっては30日かかることもあります。"
+        ]
+      },
+      {
+        "heading": "ブラックフライデーのあとの交換と返品",
+        "bullets": [
+          "**期限:** 受け取ってから20日以内。商品が気に入らなかっただけでも返品できます。",
+          "**7日以内にしか返品できない商品:** ボディスーツ、ビーチウェア、下着、イヤリングとピアス、ペット用品、開封済みの化粧品、パーティー用品と手芸用品。これらは受け取りから7日間の撤回期間内に限り返品できます。",
+          "**返送料:** 注文ごとに最初の返品は無料です。返品は Correios（ブラジルの郵便サービス）、Jadlog、Total Express（いずれもブラジルの配送業者）から選べます。2回目以降は、返品のたびに SHEIN が返金額から R$ 45 を差し引きます。",
+          "**クーポン:** 一部だけを返品した場合、そのクーポンは使用済みとなり、アカウントに戻りません。注文金額がクーポンの最低利用額を下回った場合、SHEIN は適用されなくなった割引分を返金額から差し引きます。",
+          "**税金:** 注文が発送された後は、支払った輸入税は戻りません。"
+        ]
+      },
+      {
+        "heading": "支払う前に確認すること",
+        "bullets": [
+          "商品が国内配送か国際配送か。",
+          "国際注文が、送料を含め割引適用後で US$ 50 までに収まっているか。",
+          "注文の概要に表示された ICMS の金額。",
+          "クーポンが適用されているか、ポイントが差し引かれているか。",
+          "クリスマスのプレゼントなら、配送日数が間に合うか。",
+          "商品が7日以内にしか返品できないものかどうか。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "SHEIN のブラックフライデーは2026年いつ始まりますか？ SHEIN はまだ発表していません。2024年は10月21日に11.11と一緒に始まり、2025年は11月3日からすでに開始されていました。2026年のブラックフライデーは11月27日です。",
+          "SHEIN のブラックフライデーはいつまでですか？ 2024年と2025年は11月30日までです。2023年は11月25日まで。これはブラックフライデーの翌日、土曜日でした。",
+          "SHEIN の 11.11 とは何ですか？ 11月11日の独身の日のセールです。SHEIN は 11.11 とブラックフライデーを1つのキャンペーンにまとめ、月末まで割引の段階を設けています。",
+          "SHEIN のブラックフライデーの買い物にも税金はかかりますか？ かかります。国際購入には、州により17%〜20%の ICMS がかかります。輸入税は、US$ 50までの注文ではゼロ、それを超えると60%（税額からUS$ 30を差し引く）です。",
+          "SHEIN の輸入税ゼロは、どんな買い物にも適用されますか？ いいえ。商品と送料を合わせ、割引適用後に US$ 50 までの国際注文にだけ適用されます。それを超えると、輸入税が戻ります。",
+          "国内配送の商品には輸入税がかかりますか？ かかりません。国内配送の商品はすでにブラジル国内にあるため、輸入税はかかりません。",
+          "SHEIN でクーポンを複数使えますか？ SHEIN のプラットフォームクーポンは注文ごとに1枚までです。カートに国内販売者の商品があれば、その販売者のストアクーポンを追加で使えます。",
+          "4CW5Y は割引クーポンですか？ いいえ。Cecília の紹介コードです。SHEIN アプリで 4CW5Y を検索し、ご自身のアカウントの条件をご確認ください。",
+          "SHEIN のブラックフライデーには送料無料がありますか？ 過去数年は、キャンペーンの一部の時期にありました。2023年はブラックフライデー週に48時間の送料無料、2025年は初めの時期に複数のカテゴリーで送料無料でした。送料はカートに表示されます。",
+          "ブラックフライデーに買ったものは、いつまでに返品できますか？ 受け取ってから20日以内です。下着、ビーチウェア、ボディスーツ、イヤリングなど一部の商品は、7日以内の返品に限られます。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "SHEIN でカートを作り、支払う前に注文の概要で税金を確認しましょう",
+      "label": "SHEIN へ進む",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "ルールは SHEIN ブラジルの公式ページとブラジルの法律15.502/2026より。購入によりアフィリエイト報酬を受け取る場合があります。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-black-friday-ja",
+        "title": "Black Friday YesStyle 2026（ブラックフライデー）：いつ始まる？クーポンの仕組みとCECILIA010の入れ方"
+      }
+    ]
+  },
+  {
+    "id": 355,
+    "slug": "shein-black-friday-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "shein-black-friday",
+    "title": "Black Friday SHEIN 2026（黑色星期五）：何時開始、何時結束，以及 US$ 50 以下免進口稅",
+    "seoTitle": "SHEIN 黑色星期五 2026：日期、稅金與優惠券",
+    "type": "黑色星期五指南",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN 黑色星期五何時開始、何時結束。整理 2023 至 2025 年的日程，說明 US$ 50 以下訂單免進口稅的變化，並比較國內配送與國際配送、優惠券、點數、付款與退貨。",
+    "metaDescription": "SHEIN 黑色星期五 2026：2023 至 2025 年的日程、US$ 50 以下免進口稅、仍需繳納的 ICMS、國內配送、優惠券、點數與退貨。",
+    "publishedAt": "2026年10月11日",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "Cecília Mauad 穿著兩套 SHEIN 購物造型：淺色上衣在腰間打結搭配黑色中長裙，以及黑色長洋裝搭配淺色拼接。",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "自 2026 年 5 月 13 日起，US$ 50 以下的國際訂單不需繳納進口稅",
+      "過去三年，優惠活動都在黑色星期五之前開始，並在黑色星期五之後繼續",
+      "國內配送（Envio Nacional）的商品不需繳納進口稅",
+      "退貨期限為 20 天，每筆訂單的第一次退貨免運費"
+    ],
+    "cons": [
+      "「最高 90%」只適用於部分商品，不適用於整個購物車",
+      "跨境購買都要繳納 ICMS（巴西州稅，17% 至 20%）",
+      "超過 US$ 50 後，進口稅會回來：稅率 60%，稅額再扣除 US$ 30",
+      "每筆訂單只能使用一張 SHEIN 平台優惠券，已繳的進口稅退貨後也不退回"
+    ],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "SHEIN 尚未公布 2026 年的黑色星期五活動。本指南介紹的是 SHEIN 巴西站（巴西網站與 App），日期、稅金、價格與規則在其他國家可能不同。過去三年，活動都在黑色星期五之前與 11.11（光棍節，即雙十一購物節）一同開始，並在黑色星期五之後結束：2023 年為 11 月 25 日，2024 年與 2025 年為 11 月 30 日。2026 年的黑色星期五是 11 月 27 日。",
+          "今年最大的變化在稅金。自 2026 年 5 月 13 日起，國際訂單若在 US$ 50 以內（商品加運費，且已扣除折扣），就不需繳納進口稅。ICMS 州稅（17% 至 20%）仍要繳，SHEIN 表示會負擔其中一部分。超過 US$ 50，進口稅就會回來。",
+          "每筆訂單可使用一張 SHEIN 平台優惠券。4CW5Y 是 Cecília 的推薦碼。你可以在 SHEIN App 中搜尋 4CW5Y，並查看帳號顯示的條件。推薦碼與活動都來自 SHEIN 巴西站，在其他國家可能無法使用。"
+        ]
+      },
+      {
+        "heading": "SHEIN 黑色星期五何時開始",
+        "paragraphs": [
+          "SHEIN 把 11.11 與黑色星期五合併成同一場活動，並在月底前逐步提高最高折扣。下表彙整了 SHEIN 過去三年公布的內容。2026 年的日程尚未公布。"
+        ],
+        "comparisonTable": {
+          "caption": "SHEIN 巴西站公布的各階段與最高折扣，依據刊登公告的媒體與品牌官方帳號整理。「最高」只適用於部分商品。",
+          "headers": [
+            "年份",
+            "起迄日期",
+            "公布的最高折扣"
+          ],
+          "rows": [
+            [
+              "2023 年",
+              "11月11日〜11月25日",
+              "11 月 11 至 19 日最高 80%，11 月 20 至 23 日最高 85%，11 月 24、25 日最高 90%，黑色星期五當週提供 48 小時免運費"
+            ],
+            [
+              "2024 年",
+              "10月21日〜11月30日",
+              "11.11：10 月 21 日至 11 月 4 日最高 85%，11 月 5 至 10 日最高 90%，11 月 11 至 13 日最高 95%。黑色星期五：11 月 13 至 25 日最高 90%，11 月 26 至 30 日最高 95%"
+            ],
+            [
+              "2025 年",
+              "11月3日〜11月30日（已上線）",
+              "至 11 月 9 日，80 萬件以上商品最高 90%，多個類別免運費；11 月 24 日起，80 萬件以上商品最高 95%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "2026 年的 11.11 是星期三，黑色星期五是星期五，也就是 11 月 27 日。如果 SHEIN 延續過去的模式，活動應會在十月底到十一月初之間開始，並持續到 11 月 30 日。這是依據過去紀錄的推估。SHEIN 公布 2026 年活動後，本指南會再更新。",
+          "過去三年，最高折扣都是越接近結束越高：2023 年 11 月 24、25 日為 90%；2024 年 11 月 26 至 30 日為 95%；2025 年自 11 月 24 日起為 95%。"
+        ]
+      },
+      {
+        "heading": "「最高 90%」不代表整個購物車",
+        "paragraphs": [
+          "活動的百分比只是部分商品的最大折扣。多數商品的折扣較小，而且每件商品的價格會隨著階段改變。想避開廣告上的大數字，可以這樣做："
+        ],
+        "bullets": [
+          "活動開始前，先把想買的商品加入願望清單，並記下現在的價格。",
+          "把願望清單上的價格，和之後各階段的價格比較。過去三年，最高折扣都在最後階段提高。",
+          "在購物車確認含運費與稅金的最終價格，不要只看廣告上的百分比。",
+          "如果是不容易買到的尺碼，不要等到最後階段，因為庫存可能先賣完。"
+        ]
+      },
+      {
+        "heading": "黑色星期五的稅金：2026 年有什麼改變",
+        "paragraphs": [
+          "SHEIN 參與 Remessa Conforme。這是巴西聯邦稅務局（Receita Federal）為跨境購物推出的計畫。因此稅金會在結帳時和訂單一起支付，原則上送達時不會再額外收費，但巴西聯邦稅務局可能重新評估包裹價值，進而改變應繳稅額。2026 年 5 月 13 日起，US$ 50 以下的購買已免除進口稅。2026 年 9 月 10 日的第 15.502/2026 號法律確認，政府可以在這個範圍維持進口稅零稅率。",
+          "金額以每筆訂單計算，使用的是商品價格加運費，並已扣除折扣與優惠券。也就是說，黑色星期五的折扣可能讓訂單低於 US$ 50。上限以美元計算。付款前，結帳頁面會顯示這筆訂單的稅金。"
+        ],
+        "comparisonTable": {
+          "caption": "依據 SHEIN 巴西站的稅金頁面（2026 年 5 月 23 日更新）。ICMS 在多數州為 17%；Amapá 為 18%，Pará 為 19%；Acre、Alagoas、Bahia、Ceará、Paraíba、Piauí、Rio Grande do Norte、Roraima 與 Sergipe 為 20%。",
+          "headers": [
+            "訂單（商品＋運費）",
+            "進口稅",
+            "ICMS",
+            "SHEIN 的例子（不含補貼）"
+          ],
+          "rows": [
+            [
+              "US$ 50 以內",
+              "0%",
+              "依州別 17% 至 20%",
+              "US$ 50 加上 17% ICMS 後變成 US$ 60.24"
+            ],
+            [
+              "超過 US$ 50",
+              "60%，稅額再扣除 US$ 30",
+              "依州別 17% 至 20%，同樣會對進口稅計收",
+              "US$ 100 加上 17% ICMS 後變成 US$ 156.63"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SHEIN 表示會繼續負擔部分 ICMS，但只針對商品價格。補貼金額因顧客而異，依 SHEIN 未公開的標準計算，而且不包括進口稅本身產生的 ICMS。",
+          "**國內配送**的商品已在巴西境內，因此不需繳納進口稅。另外，寄出後若退回商品，已繳的進口稅也不會退還。"
+        ]
+      },
+      {
+        "heading": "國內配送還是國際配送？",
+        "paragraphs": [
+          "在 SHEIN 搜尋同一個關鍵字時，結果會同時出現從海外寄出的商品，以及已在巴西境內、標示為國內配送的賣家商品。黑色星期五期間，這兩者的差別會影響最終價格與折扣規則。"
+        ],
+        "bullets": [
+          "**國內配送：** 不需繳納進口稅。每位賣家的運費、時效與條件各不相同，而且 SHEIN 點數不能用於這些商品。",
+          "**國際配送：** 會經過海關，稅金在結帳時支付。SHEIN 在寄出前需要 3 到 5 天處理訂單，而且訂購人的姓名必須與 CPF（巴西的納稅人編號）相符。",
+          "**時效：** 配送時效與運費會在付款前顯示在訂單頁面。訂單可能分成多個包裹寄出。",
+          "**延遲：** SHEIN 提供免費的準時配送服務。如果訂單未在預定日期前送達，可獲得 200 SHEIN 點數，或 R$ 10（巴西雷亞爾）的錢包餘額。"
+        ]
+      },
+      {
+        "heading": "優惠券、點數與推薦碼 4CW5Y",
+        "paragraphs": [
+          "根據 SHEIN 的優惠券規則，每筆訂單可使用一張平台優惠券。如果購物車中有國內賣家的商品，也可以再用該賣家的店鋪優惠券，最多兩張，平台與店鋪各一張。每張優惠券都有期限，過期未用就無法使用。",
+          "SHEIN 點數每 100 點值 US$ 1，最多可抵扣商品價格的 30%，不含運費與稅金。國內賣家的商品不能使用點數。",
+          "4CW5Y 是 Cecília 的推薦碼。它不是優惠券。請在 SHEIN App 中搜尋 4CW5Y，並查看你的帳號顯示的條件。推薦碼與活動都來自 SHEIN 巴西站，在其他國家可能無法使用。SHEIN 的活動經常變動，所以我們把活動資訊放在本站的商店頁面，並附上確認日期。"
+        ],
+        "links": [
+          {
+            "label": "查看 4CW5Y 推薦碼與 SHEIN 活動",
+            "href": "/zh-hant/coupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "黑色星期五的付款方式",
+        "paragraphs": [
+          "SHEIN 接受 Pix（巴西的即時付款系統）、巴西發行的信用卡（最多 6 期分期）、boleto（巴西的銀行繳費單）、PayPal 與 Pagaleve（先買後付服務）。boleto 須在 3 天內付款。SHEIN 本身也建議使用信用卡或 PayPal，以免因付款確認延遲而遇到缺貨，這在庫存有限的促銷中尤其重要。",
+          "如果需要退款，Pix 最快：SHEIN 會在 24 小時內處理，銀行需要 1 到 3 個工作天入帳。信用卡方面，銀行需要 3 到 8 個工作天，有時長達 30 天。"
+        ]
+      },
+      {
+        "heading": "黑色星期五之後的換貨與退貨",
+        "bullets": [
+          "**期限：** 收到商品後 20 天內。即使只是不喜歡這件商品，也可以退貨。",
+          "**只能在 7 天內退貨的商品：** 連身衣、泳裝、內衣、耳環與穿孔飾品、寵物用品，以及開封的化妝品、派對用品與手作用品。這些商品只能在收到後 7 天的猶豫期內退貨。",
+          "**退貨運費：** 每筆訂單的第一次退貨免運費，可選擇 Correios（巴西郵政服務）、Jadlog 或 Total Express（皆為巴西的物流公司）。第二次起，SHEIN 每次退貨都會從退款中扣除 R$ 45。",
+          "**優惠券：** 部分退貨時，該優惠券視為已使用，不會退回帳戶。如果剩餘訂單低於優惠券的最低消費門檻，SHEIN 會從退款中扣除不再適用的那部分折扣。",
+          "**稅金：** 訂單寄出後，已繳的進口稅不會退還。"
+        ]
+      },
+      {
+        "heading": "付款前要確認的事項",
+        "bullets": [
+          "商品是國內配送還是國際配送。",
+          "國際訂單加上運費並扣除折扣後，是否在 US$ 50 以內。",
+          "訂單摘要中的 ICMS 金額。",
+          "優惠券是否已套用，點數是否已扣除。",
+          "如果是送聖誕禮物，配送時間是否來得及。",
+          "商品是否屬於只能在 7 天內退貨的類型。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "2026 年的 SHEIN 黑色星期五何時開始？ SHEIN 尚未公布。2024 年的活動於 10 月 21 日與 11.11 一起開始，2025 年則在 11 月 3 日已經上線。2026 年的黑色星期五是 11 月 27 日。",
+          "SHEIN 的黑色星期五活動會持續到何時？ 2024 年與 2025 年到 11 月 30 日。2023 年到 11 月 25 日，也就是黑色星期五之後的星期六。",
+          "SHEIN 的 11.11 是什麼？ 是 11 月 11 日的光棍節購物節。SHEIN 把 11.11 與黑色星期五合併成同一場活動，並在月底前設有多個折扣階段。",
+          "SHEIN 黑色星期五的購物也要繳稅嗎？ 要。所有跨境購買都要繳納 ICMS，依州別為 17% 至 20%。進口稅在 US$ 50 以內的訂單為零；超過則為 60%，稅額再扣除 US$ 30。",
+          "SHEIN 的進口稅零稅率適用於所有購買嗎？ 不是。只適用於商品加運費、已扣除折扣後在 US$ 50 以內的國際訂單。超過之後，進口稅就會回來。",
+          "國內配送的商品需要繳進口稅嗎？ 不需要。國內配送的商品已在巴西境內，因此不需繳納進口稅。",
+          "在 SHEIN 可以同時使用多張優惠券嗎？ 每筆訂單只能使用一張 SHEIN 平台優惠券。如果購物車中有國內賣家的商品，可以再加上該賣家的店鋪優惠券。",
+          "4CW5Y 是折扣嗎？ 不是。它是 Cecília 的推薦碼。請在 SHEIN App 中搜尋這個推薦碼，並查看你的帳號條件。",
+          "SHEIN 的黑色星期五有免運費嗎？ 過去幾年，活動期間有時會有免運費：2023 年有 48 小時免運費，2025 年活動初期多個類別免運費。你的訂單運費會顯示在購物車中。",
+          "黑色星期五買的東西，最晚什麼時候可以退貨？ 收到後 20 天內。內衣、泳裝、連身衣、耳環等部分商品只能在 7 天內退貨。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "在 SHEIN 組好購物車，付款前先在訂單摘要確認稅金",
+      "label": "前往 SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "規則取自 SHEIN 巴西站官方頁面與巴西第 15.502/2026 號法律。我們可能會從購買中獲得佣金。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-black-friday-zh-hant",
+        "title": "Black Friday YesStyle 2026（黑色星期五）：何時開始、優惠券怎麼用，CECILIA010 填在哪裡"
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "slug": "shein-black-friday-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "shein-black-friday",
+    "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、何时结束，以及 US$ 50 以内免进口税",
+    "seoTitle": "SHEIN 黑色星期五 2026：日期、税金与优惠券",
+    "type": "黑色星期五指南",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN 黑色星期五何时开始、何时结束。整理 2023 至 2025 年的日程，说明 US$ 50 以内订单免进口税的变化，并比较国内配送与国际配送、优惠券、积分、付款与退货。",
+    "metaDescription": "SHEIN 黑色星期五 2026：2023 至 2025 年的日程、US$ 50 以内免进口税、仍需缴纳的 ICMS、国内配送、优惠券、积分与退货。",
+    "publishedAt": "2026年10月11日",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "Cecília Mauad 穿着 SHEIN 购物分享中的两套穿搭：腰间打结的浅色上衣配黑色中长裙，以及带浅色拼接的长款黑裙",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "自 2026 年 5 月 13 日起，US$ 50 以内的国际订单不需缴纳进口税",
+      "过去三年，优惠活动都在黑色星期五之前开始，并延续到黑色星期五之后",
+      "国内配送（Envio Nacional）的商品不需缴纳进口税",
+      "退货期限为 20 天，每笔订单的第一次退货免运费"
+    ],
+    "cons": [
+      "“最高 90%”只适用于部分商品，不适用于整个购物车",
+      "跨境购买都要缴纳 ICMS（巴西州税，17% 至 20%）",
+      "超过 US$ 50 后，进口税会回来：税率 60%，并从税额中扣除 US$ 30",
+      "每笔订单只能使用一张 SHEIN 平台优惠券，已缴的进口税退货后也不退回"
+    ],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "SHEIN 尚未公布 2026 年的黑色星期五活动。本指南介绍的是 SHEIN 巴西站（巴西网站与 App），日期、税金、价格与规则在其他国家可能不同。过去三年，活动都在黑色星期五之前与 11.11（光棍节，即双十一购物节）一同开始，并在黑色星期五之后结束：2023 年到 11 月 25 日，2024 年与 2025 年到 11 月 30 日。2026 年的黑色星期五是 11 月 27 日。",
+          "今年最大的变化在税金。自 2026 年 5 月 13 日起，国际订单若在 US$ 50 以内（商品加运费，且已扣除折扣），就不需缴纳进口税。ICMS 州税（17% 至 20%）仍要缴，SHEIN 表示会负担其中一部分。超过 US$ 50，进口税就会回来。",
+          "每笔订单可使用一张 SHEIN 平台优惠券。4CW5Y 是 Cecília 的推荐码。你可以在 SHEIN App 中搜索 4CW5Y，并查看账户显示的条件。推荐码与活动都来自 SHEIN 巴西站，在其他国家可能无法使用。"
+        ]
+      },
+      {
+        "heading": "SHEIN 黑色星期五何时开始",
+        "paragraphs": [
+          "SHEIN 把 11.11 与黑色星期五合并成同一场活动，并在月底前逐步提高最高折扣。下表汇总了 SHEIN 过去三年公布的内容。2026 年的日程尚未公布。"
+        ],
+        "comparisonTable": {
+          "caption": "SHEIN 巴西站公布的各阶段与最高折扣，依据刊登公告的媒体与品牌官方账号整理。“最高”只适用于部分商品。",
+          "headers": [
+            "年份",
+            "起迄日期",
+            "公布的最高折扣"
+          ],
+          "rows": [
+            [
+              "2023 年",
+              "11月11日〜11月25日",
+              "11 月 11 至 19 日最高 80%，11 月 20 至 23 日最高 85%，11 月 24、25 日最高 90%，黑色星期五当周提供 48 小时免运费"
+            ],
+            [
+              "2024 年",
+              "10月21日〜11月30日",
+              "11.11：10 月 21 日至 11 月 4 日最高 85%，11 月 5 至 10 日最高 90%，11 月 11 至 13 日最高 95%。黑色星期五：11 月 13 至 25 日最高 90%，11 月 26 至 30 日最高 95%"
+            ],
+            [
+              "2025 年",
+              "11月3日〜11月30日（已上线）",
+              "11 月 9 日前，80 万件以上商品最高 90%，多个类别免运费；11 月 24 日起，80 万件以上商品最高 95%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "2026 年的 11.11 是星期三，黑色星期五是星期五，也就是 11 月 27 日。如果 SHEIN 延续过去的模式，活动应会在十月底到十一月初之间开始，并持续到 11 月 30 日。这是依据过去纪录的推估。SHEIN 公布 2026 年活动后，本指南会再更新。",
+          "过去三年，最高折扣都是越接近结束越高：2023 年 11 月 24、25 日为 90%；2024 年 11 月 26 至 30 日为 95%；2025 年自 11 月 24 日起为 95%。"
+        ]
+      },
+      {
+        "heading": "“最高 90%”不等于整个购物车的折扣",
+        "paragraphs": [
+          "活动的百分比只是部分商品的最大折扣。多数商品的折扣较小，而且每件商品的价格会随着阶段改变。想避开广告上的大数字，可以这样做："
+        ],
+        "bullets": [
+          "活动开始前，先把想买的商品加入愿望清单，并记下现在的价格。",
+          "把愿望清单上的价格，和之后各阶段的价格比较。过去三年，最高折扣都在最后阶段提高。",
+          "在购物车确认含运费与税金的最终价格，不要只看广告上的百分比。",
+          "如果是不容易买到的尺码，不要等到最后阶段，因为库存可能先卖完。"
+        ]
+      },
+      {
+        "heading": "黑色星期五的税金：2026 年有什么变化",
+        "paragraphs": [
+          "SHEIN 参与 Remessa Conforme。这是巴西联邦税务局（Receita Federal）为跨境购物推出的计划。因此税金会在结账时和订单一起支付，原则上送达时不会再收取，但联邦税务局可能重新评估包裹价值，从而改变应缴的税金。2026 年 5 月 13 日起，US$ 50 以内的购买已免除进口税。2026 年 9 月 10 日的第 15.502/2026 号法律确认，政府可以在这个范围维持零税率。",
+          "金额以每笔订单计算，使用的是商品价格加运费，并已扣除折扣与优惠券。也就是说，黑色星期五的折扣可能让订单低于 US$ 50。上限以美元计算。付款前，结账页面会显示这笔订单的税金。"
+        ],
+        "comparisonTable": {
+          "caption": "依据 SHEIN 巴西站的税金页面（2026 年 5 月 23 日更新）。ICMS 在多数州为 17%；Amapá 为 18%，Pará 为 19%；Acre、Alagoas、Bahia、Ceará、Paraíba、Piauí、Rio Grande do Norte、Roraima 与 Sergipe 为 20%。",
+          "headers": [
+            "订单（商品＋运费）",
+            "进口税",
+            "ICMS",
+            "SHEIN 的例子（不含补贴）"
+          ],
+          "rows": [
+            [
+              "US$ 50 以内",
+              "0%",
+              "依州别 17% 至 20%",
+              "US$ 50 加上 17% ICMS 后变成 US$ 60.24"
+            ],
+            [
+              "超过 US$ 50",
+              "60%，从税额中扣除 US$ 30",
+              "依州别 17% 至 20%，同样会对进口税计收",
+              "US$ 100 加上 17% ICMS 后变成 US$ 156.63"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SHEIN 表示会继续负担部分 ICMS，但只针对商品价格。补贴金额因顾客而异，依 SHEIN 未公开的标准计算，而且不包括进口税本身产生的 ICMS。",
+          "**国内配送**的商品已在巴西境内，因此不需缴纳进口税。另外，寄出后若退回商品，已缴的进口税也不会退还。"
+        ]
+      },
+      {
+        "heading": "国内配送还是国际配送？",
+        "paragraphs": [
+          "在 SHEIN 搜索同一个关键词时，结果会同时出现从海外寄出的商品，以及已在巴西境内、标示为国内配送的卖家商品。黑色星期五期间，这两者的差别会影响最终价格与折扣规则。"
+        ],
+        "bullets": [
+          "**国内配送：** 不需缴纳进口税。每位卖家的运费、时效与条件各不相同，而且 SHEIN 积分不能用于这些商品。",
+          "**国际配送：** 会经过海关，税金在结账时支付。SHEIN 在寄出前需要 3 到 5 天处理订单，而且订单上的姓名必须与 CPF（巴西的纳税人编号）相符。",
+          "**时效：** 配送时效与运费会在付款前显示在订单页面。订单可能分成多个包裹寄出。",
+          "**延误：** SHEIN 提供免费的准时配送服务。如果订单未在预定日期前送达，可获得 200 SHEIN 积分，或 R$ 10（巴西雷亚尔）的钱包余额。"
+        ]
+      },
+      {
+        "heading": "优惠券、积分与推荐码 4CW5Y",
+        "paragraphs": [
+          "根据 SHEIN 的优惠券规则，每笔订单可使用一张平台优惠券。如果购物车中有国内卖家的商品，也可以再用该卖家的店铺优惠券，最多两张，平台与店铺各一张。每张优惠券都有期限，过期未用就无法使用。",
+          "100 SHEIN 积分折合 US$ 1，最多可抵扣商品价格的 30%，不含运费与税金。国内卖家的商品不能使用积分。",
+          "4CW5Y 是 Cecília 的推荐码。它不是优惠券。请在 SHEIN App 中搜索 4CW5Y，并查看你的账户显示的条件。推荐码与活动都来自 SHEIN 巴西站，在其他国家可能无法使用。SHEIN 的活动经常变动，所以我们把活动信息放在本站的店铺页面，并附上确认日期。"
+        ],
+        "links": [
+          {
+            "label": "查看 4CW5Y 推荐码与 SHEIN 活动",
+            "href": "/zh-hans/coupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "黑色星期五的付款方式",
+        "paragraphs": [
+          "SHEIN 接受 Pix（巴西的即时付款系统）、巴西发行的信用卡（最多 6 期分期）、boleto（巴西的银行缴费单）、PayPal 与 Pagaleve（先买后付服务）。boleto 须在 3 天内付款。SHEIN 本身也建议使用信用卡或 PayPal，以免因付款确认延迟而遇到缺货，这在库存有限的促销中尤其重要。",
+          "如果需要退款，Pix 最快：SHEIN 会在 24 小时内处理，银行需要 1 到 3 个工作日到账。信用卡方面，银行需要 3 到 8 个工作日，有时长达 30 天。"
+        ]
+      },
+      {
+        "heading": "黑色星期五之后的换货与退货",
+        "bullets": [
+          "**期限：** 收到商品后 20 天内。即使只是不喜欢这件商品，也可以退货。",
+          "**只能在 7 天内退货的商品：** 连体衣、泳装、内衣、耳环与穿孔饰品、宠物用品，以及开封的化妆品、派对用品与手工用品。这些商品只能在收到后 7 天的犹豫期内退货。",
+          "**退货运费：** 每笔订单的第一次退货免运费，可选择 Correios（巴西邮政服务）、Jadlog 或 Total Express（皆为巴西的物流公司）。第二次起，SHEIN 每次退货都会从退款中扣除 R$ 45。",
+          "**优惠券：** 部分退货时，该优惠券视为已使用，不会退回账户。如果剩余订单低于优惠券的最低消费门槛，SHEIN 会从退款中扣除不再适用的那部分折扣。",
+          "**税金：** 订单寄出后，已缴的进口税不会退还。"
+        ]
+      },
+      {
+        "heading": "付款前要确认的事项",
+        "bullets": [
+          "商品是国内配送还是国际配送。",
+          "国际订单加上运费并扣除折扣后，是否在 US$ 50 以内。",
+          "订单摘要中的 ICMS 金额。",
+          "优惠券是否已套用，积分是否已扣除。",
+          "如果是送圣诞礼物，配送时间是否来得及。",
+          "商品是否属于只能在 7 天内退货的类型。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "2026 年的 SHEIN 黑色星期五何时开始？ SHEIN 尚未公布。2024 年的活动于 10 月 21 日与 11.11 一起开始，2025 年则在 11 月 3 日已经上线。2026 年的黑色星期五是 11 月 27 日。",
+          "SHEIN 的黑色星期五活动会持续到何时？ 2024 年与 2025 年到 11 月 30 日。2023 年到 11 月 25 日，也就是黑色星期五之后的星期六。",
+          "SHEIN 的 11.11 是什么？ 是 11 月 11 日的光棍节购物节。SHEIN 把 11.11 与黑色星期五合并成同一场活动，并在月底前设有多个折扣阶段。",
+          "SHEIN 黑色星期五的购物也要缴税吗？ 要。所有跨境购买都要缴纳 ICMS，依州别为 17% 至 20%。进口税在 US$ 50 以内的订单为零；超过则为 60%，并从税额中扣除 US$ 30。",
+          "SHEIN 的进口税零税率适用于所有购买吗？ 不是。只适用于商品加运费、已扣除折扣后在 US$ 50 以内的国际订单。超过之后，进口税就会回来。",
+          "国内配送的商品需要缴进口税吗？ 不需要。国内配送的商品已在巴西境内，因此不需缴纳进口税。",
+          "在 SHEIN 可以同时使用多张优惠券吗？ 每笔订单只能使用一张 SHEIN 平台优惠券。如果购物车中有国内卖家的商品，可以再加上该卖家的店铺优惠券。",
+          "4CW5Y 是折扣优惠券吗？ 不是。它是 Cecília 的推荐码。请在 SHEIN App 中搜索这个代码，并查看你的账户条件。",
+          "SHEIN 的黑色星期五有免运费吗？ 过去几年，活动期间有时会有免运费：2023 年有 48 小时免运费，2025 年活动初期多个类别免运费。你的订单运费会显示在购物车中。",
+          "黑色星期五买的东西，最晚什么时候可以退货？ 收到后 20 天内。内衣、泳装、连体衣、耳环等部分商品只能在 7 天内退货。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "在 SHEIN 挑选商品加入购物车，付款前先在订单摘要确认税金",
+      "label": "前往 SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "规则取自 SHEIN 巴西站官方页面与巴西第 15.502/2026 号法律。我们可能会从购买中获得佣金。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-black-friday-zh-hans",
+        "title": "Black Friday YesStyle 2026（黑色星期五）：何时开始、优惠券怎么用，CECILIA010 填在哪里"
+      }
+    ]
   }
 ];
