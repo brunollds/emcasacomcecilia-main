@@ -2,11 +2,16 @@ import assert from 'node:assert/strict';
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
 
+import { createElement } from 'react';
+import { renderToStaticMarkup } from 'react-dom/server';
+
 import { detectDuplicateReviewPathnames, formatDate, getReviewDefaultTranslationPathname, groupReviewsByTranslationKey, detectDuplicateTranslationLocalePairs, getReviewTranslationsByLocale, isValidTranslationKey, resolveReviewLocale } from '@/lib/content';
 import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { getArticleCopy } from '@/components/review/articleCopy';
 import { getCouponCopyLabels } from '@/components/review/couponCopyLocale';
 import { getGalleryCopy } from '@/components/review/galleryCopy';
+import { ReviewHeroImage } from '@/components/review/ReviewHeroImage';
+import { ReviewSectionVideo } from '@/components/review/ReviewSectionVideo';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '@/components/review/sidebarCopy';
 import { getShareCopy } from '@/components/shared/shareCopy';
 import { getCouponBySlug } from '@/lib/couponsData';
@@ -478,6 +483,36 @@ const storeReferralLabel = (locale: Locale) =>
       COUPON_STORE_COPY[locale].breadcrumbLabel,
       `${locale}: nome da trilha do artigo diferente do das páginas de loja`
     );
+  }
+
+  // O vídeo em loop do artigo, o do topo e o de uma seção, fala o idioma da página: o rótulo do botão, o nome do
+  // vídeo da seção (o reserva "Vídeo demonstrativo: …") e o texto para o navegador sem suporte. Nenhum artigo
+  // traduzido tem vídeo hoje, então o HTML gerado não prova isso. O servidor renderiza o vídeo parado, com o
+  // botão de reproduzir.
+  const loopVideo = { mp4: '/videos/teste.mp4', poster: '/images/teste.jpg' };
+  const PT_VIDEO_TEXTS = ['Reproduzir vídeo', 'Pausar vídeo', 'Vídeo demonstrativo', 'Seu navegador não suporta vídeos.'];
+  const renderVideos = (locale: Locale, alt?: string) => ({
+    hero: renderToStaticMarkup(createElement(ReviewHeroImage, { src: '/images/teste.jpg', alt: 'Alt', locale, video: loopVideo })),
+    section: renderToStaticMarkup(createElement(ReviewSectionVideo, { video: { ...loopVideo, alt }, title: 'Setup', locale })),
+  });
+  const english = renderVideos('en');
+  assert.ok(english.hero.includes('aria-label="Play video"'), 'en: vídeo do topo sem o botão em inglês');
+  assert.ok(english.hero.includes('Your browser does not support videos.'), 'en: vídeo do topo sem o aviso em inglês');
+  assert.ok(english.section.includes('aria-label="Play video"'), 'en: vídeo da seção sem o botão em inglês');
+  assert.ok(english.section.includes('aria-label="Demo video: Setup"'), 'en: vídeo da seção sem o nome em inglês');
+  assert.ok(english.section.includes('Your browser does not support videos.'), 'en: vídeo da seção sem o aviso em inglês');
+  assert.ok(renderVideos('en', 'Alt do vídeo').section.includes('aria-label="Alt do vídeo"'), 'en: o alt do vídeo tem de valer mais que o nome reserva');
+  for (const locale of LOCALE_KEYS) {
+    const copy = getArticleCopy(locale);
+    const { hero, section } = renderVideos(locale);
+    for (const [where, html] of [['topo', hero], ['seção', section]] as const) {
+      assert.ok(html.includes(`aria-label="${copy.videoPlay}"`), `${locale}: vídeo do ${where} sem o botão no idioma`);
+      assert.ok(html.includes(copy.videoUnsupported), `${locale}: vídeo do ${where} sem o aviso no idioma`);
+      if (locale !== 'pt') {
+        assert.deepEqual(PT_VIDEO_TEXTS.filter((text) => html.includes(text)), [], `${locale}: vídeo do ${where} com texto em português`);
+      }
+    }
+    assert.ok(section.includes(`aria-label="${copy.demoVideo('Setup')}"`), `${locale}: vídeo da seção sem o nome no idioma`);
   }
 
   // A data do cabeçalho segue o idioma do artigo; antes os artigos EN saíam "2 de agosto de 2026".
