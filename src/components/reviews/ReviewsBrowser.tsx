@@ -14,7 +14,7 @@ import { flushSync } from 'react-dom';
 import Link from 'next/link';
 import { LayoutGrid, List, Search, X } from 'lucide-react';
 import { ReviewShelfCard, ReviewShelfRow } from '@/components/reviews/ReviewShelfCard';
-import { SHELF_CONTAINER, SHELF_TITLE } from '@/components/reviews/shelfClasses';
+import { SHELF_CONTAINER, SHELF_TITLE, filterChipClass, filterChipRowClass } from '@/components/reviews/shelfClasses';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { RevealSection } from '@/components/ui/RevealSection';
 import { runShelfTransition } from '@/components/ui/shelfTransition';
@@ -437,9 +437,7 @@ export function ReviewsBrowser({
               <div
                 ref={categoriesRef}
                 data-categorias="true"
-                className={`hide-scrollbar -mx-4 flex gap-2 overflow-x-auto px-4 py-1 md:mx-0 md:flex-wrap md:overflow-visible md:px-0 md:[mask-image:none] ${
-                  moreCategories ? '[mask-image:linear-gradient(to_right,black_85%,transparent)]' : ''
-                }`}
+                className={filterChipRowClass(moreCategories)}
               >
                 {[{ value: null, label: 'Todos' }, ...categories].map(({ value, label }) => (
                   <button
@@ -447,11 +445,7 @@ export function ReviewsBrowser({
                     type="button"
                     aria-pressed={query.category === value}
                     onClick={() => selectCategory(value)}
-                    className={`min-h-11 shrink-0 rounded-full border-2 px-4 text-sm font-bold whitespace-nowrap motion-safe:transition-colors ${
-                      query.category === value
-                        ? 'border-marinho bg-marinho text-white'
-                        : 'border-marinho/20 bg-white text-marinho hover:border-marinho'
-                    } ${FOCUS_RING}`}
+                    className={filterChipClass(query.category === value)}
                   >
                     {label}
                   </button>
