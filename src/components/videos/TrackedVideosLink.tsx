@@ -35,14 +35,15 @@ export function TrackedVideosLink({ href, placement, linkLabel, onClick, ...rest
   );
 }
 
-type VideoPageLinkProps = Omit<ViewTransitionLinkProps, 'onClick'> & {
+type VideoPageLinkProps = Omit<ViewTransitionLinkProps, 'onClick' | 'target'> & {
   placement?: VideosPlacement;
   linkLabel: string;
 };
 
 // O link para a página de um vídeo: a troca de página animada (a miniatura com data-vt-name voa para o
 // player, pelo ViewTransitionLink) e a medição. Nunca para o YouTube: o ViewTransitionLink lê o target no
-// elemento clicado, que pode ser a imagem, e abriria o YouTube na mesma aba.
+// elemento clicado, que pode ser a imagem, e abriria o YouTube na mesma aba. Por isso o tipo não aceita
+// target: a página do vídeo abre sempre na mesma aba.
 export function VideoPageLink({ href, placement, linkLabel, ...rest }: VideoPageLinkProps) {
   return <ViewTransitionLink href={href} {...rest} onClick={() => track(href, placement, linkLabel)} />;
 }
