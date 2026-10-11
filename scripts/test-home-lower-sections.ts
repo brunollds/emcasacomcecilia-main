@@ -17,6 +17,7 @@ import { getCouponBySlug } from '@/lib/couponsData';
 import { getRecipePrimaryCategory, recipes, type Recipe, type SocialHighlight } from '@/lib/data';
 import { getCarouselOffers, getOfferDiscountPercent, parseDicasOffers, type Offer } from '@/lib/dicasOffers';
 import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
+import { videoPages } from '@/lib/video-pages';
 
 // Seções de baixo da home (Receitas, Explore a casa com as ofertas do dia e Últimos vídeos), renderizadas
 // como o servidor as entrega.
@@ -347,6 +348,19 @@ assert.ok(
 assert.equal(count(withoutThumbnailHtml, /<img/g), 1, 'sem miniatura nenhuma, o card fica com o fundo marinho');
 assert.equal(count(withoutThumbnailHtml, /<li[\s>]/g), 2, 'e continua na fila');
 assert.equal(render(createElement(LatestVideos, { videos: [] })), '', 'sem vídeo, sem seção');
+
+// O título de cada vídeo num h3. O vídeo que tem página no site abre a página, na mesma aba, com a miniatura
+// pronta para voar até o player; os outros seguem no YouTube numa aba nova. "Ver todos os vídeos" leva a
+// /videos.
+assert.equal(count(videosHtml, /<h3\b/g), 6, 'o título de cada vídeo num h3');
+const pagedVideo = videoPages.find((page) => page.kind === 'youtube');
+assert.ok(pagedVideo, 'há vídeo do YouTube com página');
+const pagedHtml = render(createElement(LatestVideos, { videos: [video(pagedVideo.videoId), video('zzzzzzzzzzz')] }));
+assert.ok(!linkTo(pagedHtml, `/videos/${pagedVideo.slug}`).includes('target='), 'vídeo com página abre na mesma aba');
+assert.ok(pagedHtml.includes(`data-vt-name="video-player-${pagedVideo.slug}"`));
+assert.ok(opensNewTab(linkTo(pagedHtml, 'https://www.youtube.com/watch?v=zzzzzzzzzzz')));
+assert.ok(pagedHtml.includes(`${linkTo(pagedHtml, '/videos')}Ver todos os vídeos</a>`));
+assert.ok(videosHtml.includes(`${linkTo(videosHtml, '/videos')}Ver todos os vídeos</a>`));
 
 // Sem o feed, o card do Dicas & Ofertas volta a ser o link; sem a API, os vídeos somem. O build não cobra
 // nenhum dos dois: a home tem de montá-los.
