@@ -88,7 +88,7 @@ export function formatVideoDate(uploadDate: string): string {
   return `${day}/${month}/${year}`;
 }
 
-export const STORE_PARAM = 'loja';
+const STORE_PARAM = 'loja';
 
 // A loja do ?loja=: só uma das lojas com chip. Vazia, desconhecida, com maiúscula ou de um vídeo só, vale
 // "Todos" (null). Repetida, vale a primeira.

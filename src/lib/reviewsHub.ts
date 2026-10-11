@@ -6,7 +6,7 @@ import {
   ofStore,
   type StoreReview,
 } from '@/lib/homeStores';
-import { SITE_SOCIAL_IMAGE, absoluteMediaUrl, type SocialImage } from '@/lib/pageSeo';
+import { SITE_SOCIAL_IMAGE, absoluteMediaUrl, type PageLink, type SocialImage } from '@/lib/pageSeo';
 import {
   REVIEW_CATEGORIES,
   getListedPortugueseReviews,
@@ -36,7 +36,6 @@ export type HubReview = StoreReview & {
 };
 
 type ListedReview = HubReview & { category: ReviewCategory; publishedAtISO: string };
-type PageLink = { name: string; path: string };
 
 // O começo da trilha das páginas de lista; o JSON-LD acrescenta a própria página.
 export const REVIEWS_TRAIL_ROOT: PageLink = { name: 'Início', path: '/' };

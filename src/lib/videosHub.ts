@@ -2,7 +2,7 @@ import { getActiveCoupons, type Coupon } from '@/lib/couponsData';
 import { getCouponStorePath } from '@/lib/couponTranslations';
 import type { SocialHighlight } from '@/lib/data';
 import { codeLinkLabel, ofStore } from '@/lib/homeStores';
-import { absoluteMediaUrl, type SocialImage } from '@/lib/pageSeo';
+import { absoluteMediaUrl, type PageLink, type SocialImage } from '@/lib/pageSeo';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { getYoutubeEmbedUrl } from '@/lib/video-metadata';
 import { isoDurationToSeconds, videoPages } from '@/lib/video-pages';
@@ -23,8 +23,6 @@ import {
 // da receita de origem e das lojas ativas. Recebe os artigos e as receitas por parâmetro e não importa
 // '@/lib/data', como o reviewsHub.ts; o componente cliente recebe só o resultado. Dado que não fecha (formato,
 // origem, título, player) derruba a montagem com o vídeo e o motivo.
-
-type PageLink = { name: string; path: string };
 
 // O que a página usa do artigo e da receita de origem.
 export type VideoSources = {

@@ -1,14 +1,13 @@
 import Link from 'next/link';
 import { getArticleCopy } from '@/components/review/articleCopy';
 import { FOCUS_RING } from '@/components/ui/focusRing';
+import type { PageLink } from '@/lib/pageSeo';
 
 // A trilha visível das páginas de lista e de vídeo (subpáginas de loja, /videos e a página de cada vídeo): a
 // mesma lista do BreadcrumbList do JSON-LD, com o rótulo da trilha dos artigos em português. O último item é
 // a própria página, sem link (aria-current). A lista quebra linha: o título longo de um vídeo não estoura a
 // tela.
-export type TrailItem = { name: string; path: string };
-
-export function PageTrail({ trail }: { trail: readonly TrailItem[] }) {
+export function PageTrail({ trail }: { trail: readonly PageLink[] }) {
   return (
     <nav aria-label={getArticleCopy('pt').breadcrumbLabel} className="mb-5">
       <ol className="flex flex-wrap items-center gap-x-2 gap-y-1 text-sm font-bold text-marinho-suave">

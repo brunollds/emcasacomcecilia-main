@@ -29,7 +29,8 @@ export function getStoreSocialImage(
   };
 }
 
-type PageLink = { name: string; path: string };
+// Um item da trilha e da lista de uma página: o nome e o caminho.
+export type PageLink = { name: string; path: string };
 
 // O caminho até a página, como BreadcrumbList; o último item é a própria página.
 export function getBreadcrumbListJsonLd(trail: readonly PageLink[]) {
