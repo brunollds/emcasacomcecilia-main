@@ -6,9 +6,11 @@ parceiro: "[[Magalu]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "em-revisao"
-responsavel: "Bruno"
-proxima_acao: "revisar no localhost; reconferir preços e cupons do Magalu antes de publicar; PR, merge e deploy com o OK do Bruno"
+status: "publicado"
+responsavel: "Claude"
+proxima_acao: "na última semana de outubro, reconsultar os preços, o Pix e o calendário da página da Black Friday e trocar as datas de 10/10"
+publicado_em: "2026-10-11"
+nota_publicacao: "Publicado no PR #52 em 11/10/2026 (decisão do Bruno), com os preços datados de 10/10."
 bloqueado_por: null
 score_autoridade: 50
 score_conversao: 85
