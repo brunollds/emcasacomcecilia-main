@@ -10,11 +10,13 @@ import { LOCALES } from '@/lib/i18n/locales';
 import { serializeJsonLd } from '@/lib/jsonLd';
 import { SITE_NAME, getCollectionPageJsonLd } from '@/lib/pageSeo';
 import { VIDEOS_TRAIL, getVideosHubContent } from '@/lib/videosHub';
+import { toVideoGridItem } from '@/lib/videosShelf';
 import { getYoutubeHighlights } from '@/lib/youtube';
 
 // Os vídeos do site em duas camadas: em cima os que têm página própria (o destaque e a grade com os chips das
 // lojas), que levam ao guia e à loja; embaixo os últimos do canal, com o "Inscrever-se no canal". Os dados
-// saem prontos do servidor (videosHub.ts); o canal vem da API do YouTube, renovada a cada hora, e some sem ela.
+// saem prontos do servidor (videosHub.ts), e a grade recebe só o cartão de cada vídeo; o canal vem da API do
+// YouTube, renovada a cada hora, e some sem ela.
 
 const TITLE = 'Vídeos - Em Casa com Cecília';
 const DESCRIPTION = 'Assista aos vídeos de receitas, reviews e demonstrações publicados pelo Em Casa com Cecília.';
@@ -63,7 +65,7 @@ export default async function VideosPage() {
         <p className="mt-4 max-w-2xl text-base leading-relaxed font-medium text-marinho-suave md:text-lg">{content.intro}</p>
       </header>
       <VideoFeatured video={content.featured} />
-      <VideosBrowser videos={content.videos} stores={content.stores} />
+      <VideosBrowser videos={content.videos.map(toVideoGridItem)} stores={content.stores} />
       <VideoChannelRow highlights={highlights} />
     </main>
   );

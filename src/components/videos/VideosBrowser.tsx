@@ -15,10 +15,9 @@ import {
   filterByStore,
   getVideosListControlParameters,
   readStoreFilter,
-  toVideoCard,
   videosCountLabel,
   withStoreFilter,
-  type VideoItem,
+  type VideoGridItem,
   type VideoStore,
 } from '@/lib/videosShelf';
 
@@ -31,7 +30,7 @@ const LIST_PATH = '/videos';
 const GRID_SIZES = '(min-width: 1200px) 210px, (min-width: 1024px) 18vw, (min-width: 768px) 22vw, (min-width: 640px) 30vw, 46vw';
 
 type VideosBrowserProps = {
-  videos: VideoItem[];
+  videos: VideoGridItem[];
   stores: VideoStore[];
 };
 
@@ -90,11 +89,11 @@ export function VideosBrowser({ videos, stores }: VideosBrowserProps) {
           <ul data-estante="videos" className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 md:gap-5 lg:grid-cols-5">
             {shown.map((video, index) => (
               <li
-                key={video.slug}
+                key={video.id}
                 className="estante-item revela flex"
-                style={{ '--vt': `estante-${sanitizeViewTransitionName(video.slug)}`, '--i': index } as CSSProperties}
+                style={{ '--vt': `estante-${sanitizeViewTransitionName(video.id)}`, '--i': index } as CSSProperties}
               >
-                <VideoCard video={toVideoCard(video)} sizes={GRID_SIZES} placement="videos_grid" />
+                <VideoCard video={video} sizes={GRID_SIZES} placement="videos_grid" />
               </li>
             ))}
           </ul>

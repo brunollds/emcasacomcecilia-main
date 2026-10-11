@@ -49,6 +49,7 @@ import {
   readStoreFilter,
   sourceCopy,
   toVideoCard,
+  toVideoGridItem,
   videoMorphName,
   videosCountLabel,
   withStoreFilter,
@@ -278,8 +279,10 @@ assert.equal(withStoreFilter('?utm_source=ig', 'damie'), '?utm_source=ig&loja=da
 assert.equal(withStoreFilter('?loja=damie&utm_source=ig', 'dolce-gusto'), '?utm_source=ig&loja=dolce-gusto');
 assert.equal(withStoreFilter('?loja=damie&utm_source=ig', null), '?utm_source=ig');
 assert.equal(withStoreFilter('?loja=damie&loja=x', null), '');
-assert.deepEqual(slugs(filterByStore(hub.videos, 'damie')), ['novo-damie', 'mesmo-dia']);
-assert.deepEqual(slugs(filterByStore(hub.videos, null)), slugs(hub.videos));
+const gridVideos = hub.videos.map(toVideoGridItem);
+const ids = (videos: readonly { id: string }[]) => videos.map(({ id }) => id);
+assert.deepEqual(ids(filterByStore(gridVideos, 'damie')), ['novo-damie', 'mesmo-dia']);
+assert.deepEqual(ids(filterByStore(gridVideos, null)), slugs(hub.videos));
 assert.equal(videosCountLabel(1), '1 vídeo');
 assert.equal(videosCountLabel(0), '0 vídeos');
 assert.equal(videosCountLabel(14), '14 vídeos');
@@ -298,6 +301,17 @@ assert.deepEqual(toVideoCard(novo), {
 assert.equal(toVideoCard(receita).label, 'Receita');
 assert.equal(toVideoCard(item('sem-loja')).label, null);
 assert.equal(toVideoCard(item('inativa')).label, null);
+
+// A grade recebe só o cartão e o slug da loja: o que ela não lê (descrição, player, origem e botão do código)
+// não vai ao navegador, onde engordava o payload de /videos.
+const gridItem = toVideoGridItem(novo);
+assert.deepEqual(gridItem, { ...toVideoCard(novo), storeSlug: 'damie' });
+for (const key of ['description', 'player', 'source', 'codeLink']) {
+  assert.ok(key in novo, `controle: o vídeo inteiro leva ${key}`);
+  assert.ok(!(key in gridItem), `o item da grade não leva ${key}`);
+}
+assert.equal(toVideoGridItem(receita).storeSlug, null, 'receita: sem loja');
+assert.equal(toVideoGridItem(item('inativa')).storeSlug, null, 'loja pausada: sem loja');
 assert.equal(videoMorphName('Poltrona Levita_2.0'), 'video-player-poltrona-levita-2-0');
 assert.deepEqual(sourceCopy('guia'), { from: 'Do guia', action: 'Ler o guia' });
 assert.deepEqual(sourceCopy('receita'), { from: 'Da receita', action: 'Ver a receita' });
@@ -552,7 +566,7 @@ assert.ok(!/\d:\d\d/.test(textOf(featuredLocal)) && !/undefined|NaN/.test(featur
 // A grade como o servidor a entrega: "Todos" escolhido, um chip por loja com 2 ou mais vídeos, o total que o
 // leitor de tela ouve, todos os vídeos na ordem, cada item com o próprio nome de transição (--vt, sem
 // repetir) e entrando na rolagem; nenhum view-transition-name no HTML.
-const grid = render(createElement(VideosBrowser, { videos: hub.videos, stores: hub.stores }));
+const grid = render(createElement(VideosBrowser, { videos: gridVideos, stores: hub.stores }));
 assert.match(grid, /<h2 id="titulo-todos-videos"[^>]*><span class="marca-texto">Todos os vídeos<\/span><\/h2>/);
 const chips = [...grid.matchAll(/<button\b([^>]*)>([^<]*)<\/button>/g)];
 assert.deepEqual(chips.map(([, , label]) => label), ['Todos', 'DAMIE', 'Dolce Gusto']);
@@ -566,7 +580,7 @@ assert.equal(gridNames.length, hub.videos.length);
 assert.equal(new Set(gridNames).size, gridNames.length, 'nomes de transição repetidos');
 assert.equal(count(grid, /<li class="estante-item revela flex" style="--vt:estante-[a-z0-9-]+;--i:\d+"/g), hub.videos.length);
 assert.ok(!grid.includes('view-transition-name'));
-assert.ok(!render(createElement(VideosBrowser, { videos: hub.videos, stores: [] })).includes('data-lojas'), 'sem chip, sem fila');
+assert.ok(!render(createElement(VideosBrowser, { videos: gridVideos, stores: [] })).includes('data-lojas'), 'sem chip, sem fila');
 
 // O canal: título, a fila (o vídeo com página na mesma aba, o do YouTube numa aba nova) e a faixa com o link
 // do canal e o "Inscrever-se no canal", os dois numa aba nova. Sem upload, a seção some.
@@ -672,7 +686,7 @@ assert.equal(
   'o destaque é o mais novo'
 );
 for (const chip of real.stores) {
-  assert.ok(filterByStore(real.videos, chip.slug).length >= 2, `${chip.slug}: chip com menos de 2 vídeos`);
+  assert.ok(filterByStore(real.videos.map(toVideoGridItem), chip.slug).length >= 2, `${chip.slug}: chip com menos de 2 vídeos`);
 }
 for (const video of real.videos) {
   const content = getVideoPageContent(sources, video.slug);

@@ -54,6 +54,11 @@ export type VideoCardData = {
   label: string | null;
 };
 
+// O vídeo da grade de /videos como o navegador o recebe: o cartão e o slug da loja, que o chip filtra. A
+// descrição, o player, a origem e o botão do código ficam no servidor: a grade não lê nenhum, e iam inteiros
+// no payload da página, que todo link para /videos baixa no prefetch.
+export type VideoGridItem = VideoCardData & { storeSlug: string | null };
+
 const DURATION_UNITS = [
   { short: 'h', one: 'hora', many: 'horas' },
   { short: 'min', one: 'minuto', many: 'minutos' },
@@ -102,8 +107,8 @@ export function withStoreFilter(currentSearch: string, store: string | null): st
   return text ? `?${text}` : '';
 }
 
-export function filterByStore<T extends { store: VideoStore | null }>(videos: readonly T[], store: string | null): T[] {
-  return store ? videos.filter((video) => video.store?.slug === store) : [...videos];
+export function filterByStore(videos: readonly VideoGridItem[], store: string | null): VideoGridItem[] {
+  return store ? videos.filter((video) => video.storeSlug === store) : [...videos];
 }
 
 export function videosCountLabel(total: number): string {
@@ -134,6 +139,10 @@ export function toVideoCard(video: VideoItem): VideoCardData {
     duration: video.duration,
     label: video.store?.name ?? (video.source.kind === 'receita' ? 'Receita' : null),
   };
+}
+
+export function toVideoGridItem(video: VideoItem): VideoGridItem {
+  return { ...toVideoCard(video), storeSlug: video.store?.slug ?? null };
 }
 
 export const VIDEOS_ROUTE_CLICK = 'videos_route_click';
