@@ -2,8 +2,8 @@
 
 import type { CSSProperties } from 'react';
 import { TrackedReviewsLink } from '@/components/reviews/TrackedReviewsLink';
-import { StoreMark } from '@/components/sections/HomeStoreStrip';
 import { FOCUS_RING } from '@/components/ui/focusRing';
+import { StoreMark } from '@/components/ui/StoreMark';
 import { useBubbleTilt } from '@/components/ui/useBubbleTilt';
 import type { ShelfPlacement, ShelfStore } from '@/lib/reviewsShelf';
 

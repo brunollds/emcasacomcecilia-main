@@ -9,8 +9,9 @@ import { asSentence } from '@/components/coupons/CouponBlocks';
 import { getCouponCopyLabels } from '@/components/review/couponCopyLocale';
 import { TrackedCouponPageLink } from '@/components/review/TrackedCouponPageLink';
 import { TrackedHomeLink } from '@/components/TrackedHomeLink';
-import { HomeStoreStrip, StoreMark, type TabDirection } from '@/components/sections/HomeStoreStrip';
+import { HomeStoreStrip, type TabDirection } from '@/components/sections/HomeStoreStrip';
 import { FOCUS_RING, FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
+import { StoreMark } from '@/components/ui/StoreMark';
 import { trackEvent } from '@/lib/analytics';
 import {
   CECILIA_TAB_ID,

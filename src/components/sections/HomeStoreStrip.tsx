@@ -11,6 +11,7 @@ import {
 } from 'react';
 import Image from 'next/image';
 import { FOCUS_RING } from '@/components/ui/focusRing';
+import { StoreMark } from '@/components/ui/StoreMark';
 import { useBubbleTilt } from '@/components/ui/useBubbleTilt';
 import { CECILIA_TAB_ID, getTabAnchor, getTabOrder, parseTabHash, type HomeStoreTab } from '@/lib/homeStoreTabs';
 
@@ -235,26 +236,5 @@ function StoreBubble({ tabId, name, index, selected, dark, onSelect, onKeyDown, 
       </span>
       <span className="text-center text-xs leading-tight font-bold">{name}</span>
     </button>
-  );
-}
-
-// Logo da loja ou, sem ele, as iniciais (brandIcon). Decorativo: o nome está ao lado.
-export function StoreMark({
-  tab,
-  imageClassName,
-  sizes,
-}: {
-  tab: Pick<HomeStoreTab, 'logo' | 'initials'>;
-  imageClassName: string;
-  sizes: string;
-}) {
-  return tab.logo ? (
-    <span className={`relative ${imageClassName}`}>
-      <Image src={tab.logo} alt="" fill sizes={sizes} className="object-contain" />
-    </span>
-  ) : (
-    <span aria-hidden="true" className="font-condensada text-xl font-black text-marinho font-stretch-extra-condensed">
-      {tab.initials}
-    </span>
   );
 }
