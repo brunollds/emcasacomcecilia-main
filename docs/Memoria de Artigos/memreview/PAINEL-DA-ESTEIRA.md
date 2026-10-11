@@ -36,7 +36,7 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- *(Nenhum artigo no momento)*
+- [ ] [[black-friday-yesstyle]] — YesStyle / Black Friday YesStyle 2026: o calendário oficial de 2024 e 2025, as faixas iguais às do ano todo, os dias de 15% sem mínimo e o CECILIA010, família de 10 idiomas, terceira rodada (gates e build verdes em 11/10/2026; capa provisória do vídeo da Abib no CDN; falta a revisão do Bruno no localhost e o OK do deploy)
 
 ---
 
