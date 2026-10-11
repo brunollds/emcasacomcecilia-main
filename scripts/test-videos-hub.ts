@@ -5,6 +5,7 @@ import { AppRouterContext } from 'next/dist/shared/lib/app-router-context.shared
 import { imageConfigDefault, type ImageConfigComplete, type RemotePattern } from 'next/dist/shared/lib/image-config';
 import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.shared-runtime';
 
+import { getArticleCopy } from '@/components/review/articleCopy';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { PageTrail } from '@/components/ui/PageTrail';
 import { ScrollRow } from '@/components/ui/ScrollRow';
@@ -505,7 +506,10 @@ assert.equal(VideoRow({ videos: channel, desktopGrid: true }).type, ScrollRow, '
 // linha (o título longo de um vídeo não estoura a tela).
 const longTitle = '🛋️ Poltronas Damie: Conforto Sala de Cinema de LUXO na sua CASA | CUPOM CECILIA12';
 const trailHtml = render(createElement(PageTrail, { trail: [...VIDEOS_TRAIL, { name: longTitle, path: '/videos/x' }] }));
-assert.match(trailHtml, /^<nav aria-label="[^"]+" class="mb-5"><ol class="flex flex-wrap /);
+assert.ok(
+  trailHtml.startsWith(`<nav aria-label="${getArticleCopy('pt').breadcrumbLabel}" class="mb-5"><ol class="flex flex-wrap `),
+  'a trilha leva o rótulo em português dos artigos'
+);
 assert.ok(trailHtml.includes('href="/"') && trailHtml.includes('href="/videos"'));
 assert.ok(trailHtml.includes(`<span aria-current="page" class="text-marinho">${longTitle}</span>`));
 assert.ok(!trailHtml.includes('href="/videos/x"'), 'a própria página fica sem link');
@@ -523,6 +527,10 @@ assert.match(featured, /<h2 id="titulo-destaque"[^>]*><a\b[^>]*>Vídeo cafe<\/a>
 assert.ok(featured.includes('data-vt-name="video-player-cafe"') && !featured.includes('view-transition-name'));
 assert.match(featured, /<img\b[^>]*\bloading="eager"/);
 assert.match(featured, /<img\b[^>]*\bfetchpriority="high"/i);
+assert.match(featured, /<img\b[^>]*\balt=""/);
+// O selo da duração fica dentro do link da miniatura (o primeiro link para a página do vídeo).
+const featuredThumbLink = featured.match(/<a\b[^>]*href="\/videos\/cafe"[^>]*>([\s\S]*?)<\/a>/)?.[1] ?? '';
+assert.match(featuredThumbLink, /<span\b[^>]*>18:17<\/span>/, 'selo da duração na miniatura');
 assert.ok(textOf(featured).includes('01/09/2026, 18 min 17 s'));
 assert.ok(textOf(featured).includes('Do guia: Guia cafe'));
 assert.match(featured, /<a\b[^>]*href="\/reviews\/cafe-guia"[^>]*>Ler o guia/);
@@ -561,15 +569,24 @@ const channelSection = render(
   createElement(VideoChannelRow, { highlights: [highlight(realYoutube.videoId), highlight('zzzzzzzzzzz')] })
 );
 assert.match(channelSection, /<h2 id="titulo-canal"[^>]*><span class="marca-texto">Últimos do canal<\/span><\/h2>/);
-assert.ok(!(channelSection.match(new RegExp(`<a\\b[^>]*href="/videos/${realYoutube.slug}"[^>]*>`))?.[0] ?? '').includes('target='));
+const inSiteUploadTag = channelSection.match(new RegExp(`<a\\b[^>]*href="/videos/${realYoutube.slug}"[^>]*>`))?.[0] ?? '';
+assert.ok(inSiteUploadTag, 'o upload com página no site leva a ela');
+assert.ok(!inSiteUploadTag.includes('target='), 'o upload com página abre na mesma aba');
 // O React escreve o target antes do href: o que se confere é a tag inteira, não a ordem dos atributos.
 const externalUploadTag = channelSection.match(/<a\b[^>]*href="https:\/\/www\.youtube\.com\/watch\?v=zzzzzzzzzzz"[^>]*>/)?.[0] ?? '';
-assert.ok(externalUploadTag.includes('target="_blank"'), 'upload só do YouTube numa aba nova');
+assert.ok(
+  externalUploadTag.includes('target="_blank"') && externalUploadTag.includes('rel="noopener noreferrer"'),
+  'upload só do YouTube numa aba nova'
+);
 const subscribeTag = channelSection.match(/<a\b[^>]*href="https:\/\/youtube\.com\/@emcasacomcecilia\?sub_confirmation=1"[^>]*>/)?.[0] ?? '';
 assert.ok(subscribeTag.includes('target="_blank"') && subscribeTag.includes('rel="noopener noreferrer"'), 'Inscrever-se');
 assert.ok(subscribeTag.includes('min-h-12'), 'alvo de toque de 44 px');
 assert.ok(textOf(channelSection).includes('Inscrever-se no canal'));
-assert.ok(channelSection.includes(`href="${brandLinks.youtube}"`), 'o link do canal');
+// O href inteiro, entre aspas: o endereço de inscrição começa igual e não conta.
+const channelLinkTag =
+  [...channelSection.matchAll(/<a\b[^>]*>/g)].map(([tag]) => tag).find((tag) => tag.includes(`href="${brandLinks.youtube}"`)) ?? '';
+assert.ok(channelLinkTag, 'o link do canal');
+assert.ok(channelLinkTag.includes('target="_blank"') && channelLinkTag.includes('rel="noopener noreferrer"'), 'o link do canal numa aba nova');
 assert.equal(render(createElement(VideoChannelRow, { highlights: [] })), '', 'sem a API, sem a seção');
 
 // Dados reais: toda página de vídeo entra, o destaque é o mais novo, cada chip tem 2 ou mais vídeos e
