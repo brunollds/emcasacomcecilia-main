@@ -48724,6 +48724,68 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/magalu/black-friday-magalu-lu.webp",
+      "local_url": "/images/reviews/magalu/black-friday-magalu-lu.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 21960,
+      "sha256": "efb9b652338a6d96e824fb516c888bc8791b4aa15e169ee3625237239d22b2e5",
+      "width": 768,
+      "height": 432,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "black-friday-magalu-lu.webp",
+      "storage_filename": "black-friday-magalu-lu.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-magalu.json",
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Magalu.md",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-magalu.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-magalu.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/magalu/black-friday-magalu-lu.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Magalu.md",
+          "line": 80,
+          "column": 4,
+          "literal": "/images/reviews/magalu/black-friday-magalu-lu.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-magalu.md",
+          "line": 176,
+          "column": 10,
+          "literal": "/images/reviews/magalu/black-friday-magalu-lu.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 54237,
+          "column": 15,
+          "literal": "/images/reviews/magalu/black-friday-magalu-lu.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/efb9b652338a6d96e824fb516c888bc8791b4aa15e169ee3625237239d22b2e5/black-friday-magalu-lu.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/efb9b652338a6d96e824fb516c888bc8791b4aa15e169ee3625237239d22b2e5/black-friday-magalu-lu.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-11T18:20:30.122Z",
+      "verification_etag_or_digest": "efb9b652338a6d96e824fb516c888bc8791b4aa15e169ee3625237239d22b2e5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/casa-lets-fachada.webp",
       "local_url": "/images/reviews/letseatit/casa-lets-fachada.webp",
       "media_kind": "image",
