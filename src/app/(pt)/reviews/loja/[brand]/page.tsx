@@ -1,15 +1,14 @@
 import type { Metadata } from 'next';
-import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { ArrowRight } from 'lucide-react';
 import { couponFontVariables } from '@/components/coupons/CouponBlocks';
-import { getArticleCopy } from '@/components/review/articleCopy';
 import { TrackedCouponPageLink } from '@/components/review/TrackedCouponPageLink';
 import { ReviewsBrowser } from '@/components/reviews/ReviewsBrowser';
 import { ReviewsStoreStrip } from '@/components/reviews/ReviewsStoreStrip';
 import { SHELF_CONTAINER } from '@/components/reviews/shelfClasses';
 import { TrackedReviewsLink } from '@/components/reviews/TrackedReviewsLink';
 import { FOCUS_RING } from '@/components/ui/focusRing';
+import { PageTrail } from '@/components/ui/PageTrail';
 import { StoreMark } from '@/components/ui/StoreMark';
 import { getCouponBySlug } from '@/lib/couponsData';
 import { publishedReviews } from '@/lib/data';
@@ -107,27 +106,7 @@ export default async function StoreArticlesPage({ params }: StoreArticlesPagePro
 function StoreHero({ page }: { page: StoreShelfContent }) {
   return (
     <>
-      <nav aria-label={getArticleCopy('pt').breadcrumbLabel} className="mb-5">
-        <ol className="flex flex-wrap items-center gap-x-2 gap-y-1 text-sm font-bold text-marinho-suave">
-          {page.trail.map((item, index) => {
-            const last = index === page.trail.length - 1;
-            return (
-              <li key={item.path} className="flex items-center gap-2">
-                {last ? (
-                  <span aria-current="page" className="text-marinho">
-                    {item.name}
-                  </span>
-                ) : (
-                  <Link href={item.path} className={`underline underline-offset-[3px] hover:text-marinho ${FOCUS_RING}`}>
-                    {item.name}
-                  </Link>
-                )}
-                {last ? null : <span aria-hidden="true">›</span>}
-              </li>
-            );
-          })}
-        </ol>
-      </nav>
+      <PageTrail trail={page.trail} />
       <div className="flex flex-col gap-5 md:flex-row md:items-end md:justify-between">
         <div className="flex items-center gap-4 md:gap-6">
           <span className="relative m-1.5 flex size-16 shrink-0 items-center justify-center overflow-hidden rounded-full bg-creme shadow-[0_0_0_4px_var(--color-amarelo-cupom),0_0_0_6px_var(--color-marinho)] md:size-24">
