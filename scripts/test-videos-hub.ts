@@ -6,10 +6,15 @@ import { imageConfigDefault, type ImageConfigComplete, type RemotePattern } from
 import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.shared-runtime';
 
 import { FOCUS_RING } from '@/components/ui/focusRing';
+import { PageTrail } from '@/components/ui/PageTrail';
 import { ScrollRow } from '@/components/ui/ScrollRow';
 import { TrackedVideosLink, VideoPageLink } from '@/components/videos/TrackedVideosLink';
 import { VideoCard } from '@/components/videos/VideoCard';
+import { VideoChannelRow } from '@/components/videos/VideoChannelRow';
+import { VideoFeatured } from '@/components/videos/VideoFeatured';
 import { VideoRow } from '@/components/videos/VideoRow';
+import { VideosBrowser } from '@/components/videos/VideosBrowser';
+import { brandLinks } from '@/lib/brandLinks';
 import { COUPONS } from '@/lib/couponsData';
 import { publishedReviews, recipes, type SocialHighlight } from '@/lib/data';
 import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
@@ -495,6 +500,77 @@ const moreRow = render(createElement(VideoRow, { videos: items.map(toVideoCard),
 assert.equal(count(moreRow, /<li class="revela flex w-40 shrink-0 snap-start md:w-48 ?" style="--i:\d"/g), items.length);
 assert.ok(!moreRow.includes('lg:grid') && !moreRow.includes('lg:w-auto'), 'Mais vídeos rola em toda largura');
 assert.equal(VideoRow({ videos: channel, desktopGrid: true }).type, ScrollRow, 'a fila é um ScrollRow');
+
+// A trilha: a mesma lista do BreadcrumbList; a própria página fica sem link (aria-current), e a lista quebra
+// linha (o título longo de um vídeo não estoura a tela).
+const longTitle = '🛋️ Poltronas Damie: Conforto Sala de Cinema de LUXO na sua CASA | CUPOM CECILIA12';
+const trailHtml = render(createElement(PageTrail, { trail: [...VIDEOS_TRAIL, { name: longTitle, path: '/videos/x' }] }));
+assert.match(trailHtml, /^<nav aria-label="[^"]+" class="mb-5"><ol class="flex flex-wrap /);
+assert.ok(trailHtml.includes('href="/"') && trailHtml.includes('href="/videos"'));
+assert.ok(trailHtml.includes(`<span aria-current="page" class="text-marinho">${longTitle}</span>`));
+assert.ok(!trailHtml.includes('href="/videos/x"'), 'a própria página fica sem link');
+
+// Destaque deitado: os dois links para a página do vídeo (o da miniatura fora do Tab e do leitor de tela), a
+// miniatura sem atraso com o nome da transição só no data-vt-name, a data, a duração, a origem e "Ler o guia".
+const featured = render(createElement(VideoFeatured, { video: item('cafe') }));
+assert.match(featured, /data-destaque="horizontal"/);
+assert.match(featured, /<section aria-labelledby="titulo-destaque"/);
+const featuredLinks = featured.match(/<a\b[^>]*href="\/videos\/cafe"[^>]*>/g) ?? [];
+assert.equal(featuredLinks.length, 2);
+assert.ok(/tabindex="-1"/.test(featuredLinks[0]) && /aria-hidden="true"/.test(featuredLinks[0]), 'miniatura fora do Tab');
+assert.ok(featuredLinks[1].includes(FOCUS_RING), 'título com o anel de foco');
+assert.match(featured, /<h2 id="titulo-destaque"[^>]*><a\b[^>]*>Vídeo cafe<\/a><\/h2>/);
+assert.ok(featured.includes('data-vt-name="video-player-cafe"') && !featured.includes('view-transition-name'));
+assert.match(featured, /<img\b[^>]*\bloading="eager"/);
+assert.match(featured, /<img\b[^>]*\bfetchpriority="high"/i);
+assert.ok(textOf(featured).includes('01/09/2026, 18 min 17 s'));
+assert.ok(textOf(featured).includes('Do guia: Guia cafe'));
+assert.match(featured, /<a\b[^>]*href="\/reviews\/cafe-guia"[^>]*>Ler o guia/);
+assert.match(render(createElement(VideoFeatured, { video: novo })), /data-destaque="vertical"/);
+assert.match(render(createElement(VideoFeatured, { video: local })), /data-destaque="square"/);
+const featuredRecipe = render(createElement(VideoFeatured, { video: receita }));
+assert.ok(textOf(featuredRecipe).includes('Da receita: Bolo de teste'));
+assert.match(featuredRecipe, /<a\b[^>]*href="\/receitas\/bolo-teste"[^>]*>Ver a receita/);
+// Sem duração: só a data (sem a vírgula da duração) e nenhum selo.
+const featuredLocal = render(createElement(VideoFeatured, { video: local }));
+assert.ok(textOf(featuredLocal).includes('01/08/2026') && !textOf(featuredLocal).includes('01/08/2026,'), 'data sem duração');
+assert.ok(!/\d:\d\d/.test(textOf(featuredLocal)) && !/undefined|NaN/.test(featuredLocal));
+
+// A grade como o servidor a entrega: "Todos" escolhido, um chip por loja com 2 ou mais vídeos, o total que o
+// leitor de tela ouve, todos os vídeos na ordem, cada item com o próprio nome de transição (--vt, sem
+// repetir) e entrando na rolagem; nenhum view-transition-name no HTML.
+const grid = render(createElement(VideosBrowser, { videos: hub.videos, stores: hub.stores }));
+assert.match(grid, /<h2 id="titulo-todos-videos"[^>]*><span class="marca-texto">Todos os vídeos<\/span><\/h2>/);
+const chips = [...grid.matchAll(/<button\b([^>]*)>([^<]*)<\/button>/g)];
+assert.deepEqual(chips.map(([, , label]) => label), ['Todos', 'DAMIE', 'Dolce Gusto']);
+assert.deepEqual(chips.map(([attributes]) => attributes.includes('aria-pressed="true"')), [true, false, false]);
+assert.match(grid, /<div role="group" aria-label="Filtrar por loja" data-lojas="true"/);
+assert.match(grid, /<p aria-live="polite"[^>]*>8 vídeos<\/p>/);
+const gridList = grid.slice(grid.indexOf('<ul data-estante="videos"'));
+assert.deepEqual([...gridList.matchAll(/<a\b[^>]*href="\/videos\/([^"]+)"/g)].map(([, slug]) => slug), slugs(hub.videos));
+const gridNames = [...grid.matchAll(/--vt:(estante-[a-z0-9-]+)/g)].map(([, name]) => name);
+assert.equal(gridNames.length, hub.videos.length);
+assert.equal(new Set(gridNames).size, gridNames.length, 'nomes de transição repetidos');
+assert.equal(count(grid, /<li class="estante-item revela flex" style="--vt:estante-[a-z0-9-]+;--i:\d+"/g), hub.videos.length);
+assert.ok(!grid.includes('view-transition-name'));
+assert.ok(!render(createElement(VideosBrowser, { videos: hub.videos, stores: [] })).includes('data-lojas'), 'sem chip, sem fila');
+
+// O canal: título, a fila (o vídeo com página na mesma aba, o do YouTube numa aba nova) e a faixa com o link
+// do canal e o "Inscrever-se no canal", os dois numa aba nova. Sem upload, a seção some.
+const channelSection = render(
+  createElement(VideoChannelRow, { highlights: [highlight(realYoutube.videoId), highlight('zzzzzzzzzzz')] })
+);
+assert.match(channelSection, /<h2 id="titulo-canal"[^>]*><span class="marca-texto">Últimos do canal<\/span><\/h2>/);
+assert.ok(!(channelSection.match(new RegExp(`<a\\b[^>]*href="/videos/${realYoutube.slug}"[^>]*>`))?.[0] ?? '').includes('target='));
+// O React escreve o target antes do href: o que se confere é a tag inteira, não a ordem dos atributos.
+const externalUploadTag = channelSection.match(/<a\b[^>]*href="https:\/\/www\.youtube\.com\/watch\?v=zzzzzzzzzzz"[^>]*>/)?.[0] ?? '';
+assert.ok(externalUploadTag.includes('target="_blank"'), 'upload só do YouTube numa aba nova');
+const subscribeTag = channelSection.match(/<a\b[^>]*href="https:\/\/youtube\.com\/@emcasacomcecilia\?sub_confirmation=1"[^>]*>/)?.[0] ?? '';
+assert.ok(subscribeTag.includes('target="_blank"') && subscribeTag.includes('rel="noopener noreferrer"'), 'Inscrever-se');
+assert.ok(subscribeTag.includes('min-h-12'), 'alvo de toque de 44 px');
+assert.ok(textOf(channelSection).includes('Inscrever-se no canal'));
+assert.ok(channelSection.includes(`href="${brandLinks.youtube}"`), 'o link do canal');
+assert.equal(render(createElement(VideoChannelRow, { highlights: [] })), '', 'sem a API, sem a seção');
 
 // Dados reais: toda página de vídeo entra, o destaque é o mais novo, cada chip tem 2 ou mais vídeos e
 // nenhuma página repete o próprio vídeo em "Mais vídeos".
