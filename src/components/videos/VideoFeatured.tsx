@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import { ArrowRight, Play } from 'lucide-react';
 import { SHELF_CONTAINER } from '@/components/reviews/shelfClasses';
+import { ACTION_BUTTON } from '@/components/ui/actionButton';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { TrackedVideosLink, VideoPageLink } from '@/components/videos/TrackedVideosLink';
 import { sourceCopy, videoMorphName, type VideoAspect, type VideoItem } from '@/lib/videosShelf';
@@ -28,7 +29,7 @@ const LAYOUT: Record<VideoAspect, { box: string; thumb: string; sizes: string }>
   },
 };
 
-const SOURCE_LINK = `inline-flex min-h-12 items-center gap-2 self-start rounded-[10px] border-2 border-marinho bg-laranja px-5 text-[15px] font-extrabold text-marinho hover:bg-laranja/85 motion-safe:transition-colors ${FOCUS_RING}`;
+const SOURCE_LINK = `self-start px-5 ${ACTION_BUTTON}`;
 
 export function VideoFeatured({ video }: { video: VideoItem }) {
   const layout = LAYOUT[video.aspect];

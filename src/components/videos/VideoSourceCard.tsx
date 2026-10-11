@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import { ArrowRight } from 'lucide-react';
 import { TrackedCouponPageLink } from '@/components/review/TrackedCouponPageLink';
+import { ACTION_BUTTON } from '@/components/ui/actionButton';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { TrackedVideosLink } from '@/components/videos/TrackedVideosLink';
 import { sourceCopy, type VideoItem } from '@/lib/videosShelf';
@@ -9,7 +10,7 @@ import { sourceCopy, type VideoItem } from '@/lib/videosShelf';
 // artigo tem loja ativa, o botão laranja do código (o mesmo rótulo da subpágina da loja, medido como
 // coupon_page_click).
 const SECONDARY = `inline-flex min-h-12 items-center gap-2 rounded-[10px] border-2 border-marinho bg-white px-4 text-[15px] font-extrabold text-marinho hover:bg-creme motion-safe:transition-colors ${FOCUS_RING}`;
-const PRIMARY = `inline-flex min-h-12 items-center gap-2 rounded-[10px] border-2 border-marinho bg-laranja px-4 text-[15px] font-extrabold text-marinho hover:bg-laranja/85 motion-safe:transition-colors ${FOCUS_RING}`;
+const PRIMARY = `px-4 ${ACTION_BUTTON}`;
 
 export function VideoSourceCard({ video }: { video: VideoItem }) {
   const copy = sourceCopy(video.source.kind);

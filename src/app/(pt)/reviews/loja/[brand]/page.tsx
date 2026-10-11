@@ -7,6 +7,7 @@ import { ReviewsBrowser } from '@/components/reviews/ReviewsBrowser';
 import { ReviewsStoreStrip } from '@/components/reviews/ReviewsStoreStrip';
 import { SHELF_CONTAINER } from '@/components/reviews/shelfClasses';
 import { TrackedReviewsLink } from '@/components/reviews/TrackedReviewsLink';
+import { ACTION_BUTTON } from '@/components/ui/actionButton';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { PageTrail } from '@/components/ui/PageTrail';
 import { StoreMark } from '@/components/ui/StoreMark';
@@ -123,7 +124,7 @@ function StoreHero({ page }: { page: StoreShelfContent }) {
           href={page.storePageUrl}
           linkLabel={page.codeLinkLabel}
           placement="reviews_store_page"
-          className={`inline-flex min-h-12 items-center justify-center gap-2 self-start rounded-[10px] border-2 border-marinho bg-laranja px-5 text-[15px] font-extrabold text-marinho hover:bg-laranja/85 motion-safe:transition-colors md:self-auto ${FOCUS_RING}`}
+          className={`justify-center self-start px-5 md:self-auto ${ACTION_BUTTON}`}
         >
           {page.codeLinkLabel}
           <ArrowRight aria-hidden="true" className="size-4" />
