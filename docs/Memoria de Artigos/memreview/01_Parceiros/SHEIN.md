@@ -38,3 +38,21 @@ clique registra atribuição.
 - **Páginas da loja nos 10 idiomas:** `docs/HANDOFF-SHEIN-I18N.md`.
 - **Regra de conteúdo:** não assumir preço, frete, impostos, tamanho ou disponibilidade
   de outro país sem fonte própria, e nunca citar código de terceiros.
+
+## 3. Black Friday e regras da loja (páginas oficiais, lidas em 11/10/2026)
+
+As páginas de ajuda da SHEIN Brasil (`br.shein.com/<nome>-a-<id>.html`) abrem sem bloqueio, mas o
+texto vem no JSON da página (`articleInfo.conText`), não no HTML. Nos artigos fora do PT, nenhum link
+para `br.shein.com` (o `test:review-i18n` barra o host).
+
+| Dado | Fonte | Regra |
+|---|---|---|
+| Calendário: 2023 de 11/11 a 25/11 (até 80%, 85% e 90%, 48 h de frete grátis); 2024 de 21/10 a 30/11 (11.11 até 85%, 90% e 95%; Black Friday até 90% de 13 a 25/11 e 95% de 26 a 30/11); 2025 no ar em 3/11, até 30/11 (até 90% em 800 mil itens até 9/11; 95% a partir de 24/11) | imprensa com porta-voz da SHEIN (Money Times e Meio & Mensagem 2023; Marcas pelo Mundo 2024; Mercado & Consumo 2025) e post da @sheinbrasil de 24/11/2025 | histórico com o ano e o "até"; campanha de 2026 ainda não anunciada em 11/10/2026 |
+| Imposto desde 13/05/2026: II 0% até US$ 50, 60% com redutor de US$ 30 acima; ICMS 17% (maioria), 18% (AP), 19% (PA), 20% (AC, AL, BA, CE, PB, PI, RN, RR, SE); base = produto + frete com descontos; subsídio de ICMS só sobre o produto; Envio Nacional fora | `tax-policy-a-3476` (23/05/2026); Lei 15.502/2026 (10/09/2026) | reconferir antes de cada atualização |
+| Envio: Global de 3 a 5 dias para processar; prazo e frete na página do pedido; nome igual ao CPF; Entrega no Prazo (200 pontos ou R$ 10) | `Shipping-Info-a-280` (23/05/2026) | o valor mínimo do frete grátis vem de script e não foi lido |
+| Devolução: 20 dias; itens "não devolvíveis" só em 7 dias; 1ª devolução de cada pedido grátis, depois R$ 45 | `Return-Policy-a-281` (16/09/2026) | — |
+| Cupom: um da plataforma por pedido, mais o da loja do fornecedor local (máx. 2); devolução parcial gasta o cupom | `Coupon-Policy-a-1302` | — |
+| Pontos: 100 = US$ 1, até 30% do valor dos produtos, não valem em vendedores locais | `bonus-point-program-a-371` (21/09/2026) | — |
+| Pagamento: Pix, cartão em até 6x, boleto (3 dias), PayPal, Pagaleve; reembolso Pix em 1–3 dias úteis; imposto de importação não volta depois do envio | `Payment-Method-a-278`, `refund-a-1610` | — |
+
+Guia: [[02_Artigos/black-friday-shein]] (família `shein-black-friday`, a primeira da SHEIN).

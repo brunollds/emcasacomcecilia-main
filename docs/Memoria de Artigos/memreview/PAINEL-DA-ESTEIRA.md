@@ -36,7 +36,7 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- *(Nenhum artigo no momento)*
+- [ ] [[black-friday-shein]] — SHEIN / Black Friday SHEIN 2026: o calendário de 2023 a 2025, o imposto de importação zero até US$ 50 e o ICMS que continua, Envio Nacional, cupons, pontos e devolução, família de 10 idiomas (a primeira da SHEIN), terceira rodada (gates e build verdes em 11/10/2026; capa do haul no CDN; falta a revisão do Bruno no localhost e o OK do deploy)
 
 ---
 
