@@ -18,7 +18,7 @@
 
 ## 3. Em Revisão Factual & Claims (`status: em-revisao`)
 *Em auditoria pelo Job-3.*
-- [ ] [[black-friday-magalu]] — Magalu / Black Friday Magalu 2026: datas, eletro vendido pelo Magalu e as faixas do código da Cecília, terceira rodada (JSON em 10/10/2026; revisão do Bruno no localhost; capa da Lu com imagem do Bruno; preços e cupons reconferidos antes de publicar)
+- [ ] [[black-friday-magalu]] — Magalu / Black Friday Magalu 2026: datas, eletro vendido pelo Magalu e as faixas do código da Cecília, terceira rodada (JSON em 10/10/2026; capa da Lu em 11/10/2026; revisão do Bruno no localhost; capa ao CDN com o OK do Bruno; preços e cupons reconferidos antes de publicar)
 
 ---
 

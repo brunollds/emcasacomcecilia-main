@@ -77,7 +77,7 @@ pós-venda é o Magalu, com a conta Magalu de sempre. Existem a página `/cupons
 | Arquivo | Origem | Uso | Licença |
 |---|---|---|---|
 | `/images/about/partners/magalu.webp` | Logo do Magalu | Parceiros, `/cupons/magalu` | Identificação da marca parceira, no contexto da parceria |
-| Avatar da Lu (capa do guia da Black Friday) | O Bruno liberou em 10/10/2026. Na `lp/black-friday`, a Lu aparece só em 75 a 90 px (`lu-logo-avatar.png`, `lu-explains-new.png`). O download dos banners e do avatar respondeu 403 (proteção contra robôs), e isso não se contorna | Capa de `black-friday-magalu`, com imagem salva pelo Bruno | Personagem oficial do Magalu, no contexto da parceria |
+| `/images/reviews/magalu/black-friday-magalu-lu.webp` (capa do guia da Black Friday) | Imagem da Lu, personagem oficial do Magalu, salva pelo Bruno em 11/10/2026 (`6AzhEWQg-DESTAQUE-magalu-768x432.webp`, 768×432), copiada sem recodificar. O download direto do site do Magalu respondeu 403 (proteção contra robôs), e isso não se contorna | Capa de `black-friday-magalu` | Personagem oficial do Magalu, no contexto da parceria (uso liberado pelo Bruno em 10/10/2026) |
 
 ---
 

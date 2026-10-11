@@ -54234,8 +54234,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-10",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/magalu/magalu-hero.webp",
-    "imageAlt": "Página da loja Magazine Você da Cecília aberta no navegador, com produtos do Magalu e campo para aplicar cupom de desconto.",
+    "image": "/images/reviews/magalu/black-friday-magalu-lu.webp",
+    "imageAlt": "A Lu, personagem do Magalu, sorrindo e mostrando um celular com o logo do Magalu na tela, sobre um fundo azul com dois celulares desenhados",
     "imageFit": "cover",
     "imageAspect": "landscape",
     "pros": [
