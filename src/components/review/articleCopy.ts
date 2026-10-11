@@ -3,6 +3,9 @@ import type { ReviewVideoLabels } from './ReviewLoopVideo';
 import type { Recommendation, ReviewKind } from '@/lib/content';
 import type { Locale } from '@/lib/i18n/locales';
 
+// O francês pede espaço antes de : ; ? ! e %, e ele não pode quebrar a linha.
+const NBSP = ' ';
+
 // Textos do corpo do artigo que não são conteúdo editorial: selo do tipo, veredito e nota, ficha do
 // produto, bloco de vídeo, legenda da imagem, o nome da trilha para o leitor de tela (o mesmo das
 // páginas de loja, em couponStoreCopy.tsx) e o rótulo e o fechar da nota editorial, que as receitas
@@ -183,7 +186,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     videoPause: 'Mettre la vidéo en pause',
     videoPlay: 'Lire la vidéo',
     videoUnsupported: 'Votre navigateur ne prend pas en charge les vidéos.',
-    demoVideo: (title) => `Vidéo de démonstration : ${title}`,
+    demoVideo: (title) => `Vidéo de démonstration${NBSP}: ${title}`,
     breadcrumbLabel: 'Vous êtes ici',
   },
   de: {
