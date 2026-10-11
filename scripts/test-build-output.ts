@@ -99,22 +99,67 @@ const jsonLdOf = (html: string) =>
 const CECILIA_PERSON_ID = `${SITE_URL}/sobre#cecilia`;
 const personNodesChecked: Record<'sobre' | 'home' | 'artigo' | 'receita', string[]> = { sobre: [], home: [], artigo: [], receita: [] };
 
-// A autoria do Article, Review ou Recipe da página: cada autor que é a Cecília (a url é a /sobre ou o nome é o
-// dela) leva o @id; outro autor, como o Bruno, fica sem @id.
-function assertCeciliaAuthorId(kind: 'artigo' | 'receita', pagePath: string, html: string) {
-  const node = jsonLdOf(html).find((schema) => ['Article', 'Review', 'Recipe'].includes(schema['@type']));
-  assert.ok(node, `${pagePath}: sem Article, Review ou Recipe no JSON-LD`);
-  const authors: Array<Record<string, string>> = [node.author].flat();
-  assert.ok(authors.length > 0, `${pagePath}: JSON-LD sem autor`);
-  for (const author of authors) {
-    const isCecilia = author.url === `${SITE_URL}/sobre` || author.name === 'Cecília Mauad';
-    if (isCecilia) {
-      assert.equal(author['@id'], CECILIA_PERSON_ID, `${pagePath}: o autor "${author.name}" sem o @id da Cecília`);
-      personNodesChecked[kind].push(pagePath);
-    } else {
-      assert.equal(author['@id'], undefined, `${pagePath}: o autor "${author.name}" não é a Cecília e leva o @id dela`);
+// A autoria de cada Article, Review ou Recipe da página: cada autor que é a Cecília (a url é a /sobre ou o nome
+// é o dela) leva o @id; outro autor, como o Bruno, fica sem @id. Os autores da Cecília conferidos entram em `checked`.
+function assertCeciliaAuthorId(checked: string[], pagePath: string, html: string) {
+  const nodes = jsonLdOf(html).filter((schema) => ['Article', 'Review', 'Recipe'].includes(schema['@type']));
+  assert.ok(nodes.length > 0, `${pagePath}: sem Article, Review ou Recipe no JSON-LD`);
+  for (const node of nodes) {
+    assert.ok(node.author, `${pagePath}: JSON-LD sem autor`);
+    const authors: Array<Record<string, string>> = [node.author].flat().filter((author) => author !== undefined && author !== null);
+    assert.ok(authors.length > 0, `${pagePath}: JSON-LD sem autor`);
+    for (const author of authors) {
+      const isCecilia = author.url === `${SITE_URL}/sobre` || author.name === 'Cecília Mauad';
+      if (isCecilia) {
+        assert.equal(
+          author['@id'],
+          CECILIA_PERSON_ID,
+          `${pagePath}: o autor "${author.name}" sem o @id da Cecília (falta "url": "/sobre" no autor do JSON do artigo ou da receita?)`
+        );
+        checked.push(pagePath);
+      } else {
+        assert.equal(author['@id'], undefined, `${pagePath}: o autor "${author.name}" não é a Cecília e leva o @id dela`);
+      }
     }
   }
+}
+
+// O guarda acima confere cada nó de autoria da página, avisa do que falta e passa no JSON-LD certo.
+{
+  const ceciliaWithId = { '@type': 'Person', name: 'Cecília Mauad', url: `${SITE_URL}/sobre`, '@id': CECILIA_PERSON_ID };
+  const ceciliaWithoutId = { '@type': 'Person', name: 'Cecília Mauad', url: `${SITE_URL}/sobre` };
+  const bruno = { '@type': 'Person', name: 'Bruno Linhares' };
+  const jsonLdPage = (...schemas: object[]) => schemas.map((schema) => `<script type="application/ld+json">${JSON.stringify(schema)}</script>`).join('');
+  const checkAuthors = (html: string) => {
+    const checked: string[] = [];
+    assertCeciliaAuthorId(checked, '/fixture', html);
+    return checked;
+  };
+  assert.deepEqual(checkAuthors(jsonLdPage({ '@type': 'Article', author: ceciliaWithId })), ['/fixture'], 'autor certo falha');
+  assert.deepEqual(checkAuthors(jsonLdPage({ '@type': 'Review', author: [ceciliaWithId, bruno] })), ['/fixture'], 'autores certos (Cecília e Bruno) falham');
+  assert.throws(() => checkAuthors(jsonLdPage({ '@type': 'WebPage' })), /sem Article, Review ou Recipe/, 'página sem nó de autoria passa');
+  for (const author of [undefined, null, [], [null]]) {
+    assert.throws(() => checkAuthors(jsonLdPage({ '@type': 'Article', author })), /JSON-LD sem autor/, `nó sem autor (${JSON.stringify(author)}) passa ou quebra sem a mensagem`);
+  }
+  assert.throws(() => checkAuthors(jsonLdPage({ '@type': 'Article', author: ceciliaWithoutId })), /sem o @id da Cecília/, 'Cecília sem @id passa');
+  assert.throws(() => checkAuthors(jsonLdPage({ '@type': 'Article', author: { ...bruno, '@id': CECILIA_PERSON_ID } })), /não é a Cecília e leva o @id/, 'outro autor com o @id da Cecília passa');
+  // Um nó a mais não passa sem conferência: o segundo nó da página é conferido como o primeiro.
+  assert.throws(
+    () => checkAuthors(jsonLdPage({ '@type': 'Article', author: ceciliaWithId }, { '@type': 'Review', author: ceciliaWithoutId })),
+    /sem o @id da Cecília/,
+    'segundo nó de autoria sem conferência'
+  );
+  assert.throws(
+    () => checkAuthors(jsonLdPage({ '@type': 'Article', author: ceciliaWithId }, { '@type': 'Recipe' })),
+    /JSON-LD sem autor/,
+    'segundo nó sem autor passa'
+  );
+  // A Cecília pelo nome, sem a url da /sobre, não ganha o @id no serializador: a mensagem aponta o que falta.
+  assert.throws(
+    () => checkAuthors(jsonLdPage({ '@type': 'Article', author: { '@type': 'Person', name: 'Cecília Mauad' } })),
+    /falta "url": "\/sobre" no autor do JSON do artigo ou da receita\?/,
+    'autor pelo nome sem url passa ou sem a pista'
+  );
 }
 
 // Canonical, hreflang e og:locale de uma página que existe em vários idiomas.
@@ -616,7 +661,7 @@ for (const url of articleUrls) {
   const html = read(file);
   const body = bodyOf(html);
   assert.equal(openElementsAt(body, body.length), 0, `${pagePath}: as tags do <body> não fecham`);
-  assertCeciliaAuthorId('artigo', pagePath, html);
+  assertCeciliaAuthorId(personNodesChecked.artigo, pagePath, html);
 
   const dialogs = body.match(/<dialog\b[\s\S]*?<\/dialog>/g) ?? [];
   assert.equal(dialogs.length, 1, `${pagePath}: ${dialogs.length} gavetas de sumário em vez de uma`);
@@ -785,7 +830,7 @@ for (const url of recipeUrls) {
   assert.ok(file, `${pagePath}: página não gerada no build`);
   const html = read(file);
   assert.equal(trailLabelOf(bodyOf(html)), getArticleCopy('pt').breadcrumbLabel, `${pagePath}: nome da trilha da receita`);
-  assertCeciliaAuthorId('receita', pagePath, html);
+  assertCeciliaAuthorId(personNodesChecked.receita, pagePath, html);
 }
 
 // A home de cada idioma (/en, /ja…):

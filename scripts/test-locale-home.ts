@@ -19,6 +19,7 @@ import {
 import { fillTemplate, getLocaleHomeCopy, type LocaleHomeCopy } from '@/components/sections/localeHomeCopy';
 import {
   CECILIA_FULL_NAME,
+  CECILIA_PERSON_ID,
   YESSTYLE_CERTIFICATE,
   getCertificateYears,
   isCertificateValid,
@@ -37,6 +38,7 @@ import {
   getLocaleHomePath,
   getLocaleHomeStores,
 } from '@/lib/localeHome';
+import { SITE_URL } from '@/lib/pageSeo';
 import { getPublishedReviewsForLocale } from '@/lib/review-hubs';
 
 import {
@@ -75,6 +77,10 @@ assert.equal(isCertificateValid(shiftDay(validUntil, 1)), false, 'o dia seguinte
 assert.equal(getCertificateYears(), `${validFrom.slice(0, 4)}–${validUntil.slice(0, 4)}`);
 
 assert.deepEqual(LOCALE_HOME_LOCALES, LOCALE_KEYS.filter((locale) => locale !== 'pt'));
+
+// O @id da Cecília no JSON-LD é literal em ceciliaCredentials.ts (o SITE_URL de pageSeo.ts levaria o mapa de mídia
+// para os componentes de cliente). Se o domínio mudar só no SITE_URL, o @id velho tem de quebrar aqui.
+assert.equal(CECILIA_PERSON_ID, `${SITE_URL}/sobre#cecilia`, 'o @id da Cecília não acompanha o SITE_URL: troque o literal em src/lib/ceciliaCredentials.ts');
 
 // Textos: nenhum vazio, os mesmos marcadores do inglês e, fora do inglês, nenhum igual a ele.
 const placeholders = (text: string) => [...text.matchAll(/\{(\w+)\}/g)].map(([, key]) => key).sort();
