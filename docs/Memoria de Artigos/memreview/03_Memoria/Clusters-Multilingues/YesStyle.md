@@ -5,7 +5,7 @@ modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
 fonte_tecnica: "00_Sistema/JOBS/Job-4-Conformacao-JSON.md (seção 3)"
-ultima_revisao: "2026-10-07"
+ultima_revisao: "2026-10-11"
 ---
 
 # Cluster multilíngue — YesStyle
@@ -30,6 +30,7 @@ cupons, confiança e K-beauty). Família nova não entra nele; a
 | `yesstyle-trust` | `yesstyle-e-confiavel` | 10/10 | publicado |
 | `yesstyle-kbeauty` | [[02_Artigos/k-beauty-o-que-e-onde-comprar]] | 10/10 | publicado |
 | `yesstyle-skincare-30` | `skincare-coreano-30-anos-rotina-iniciante-yesstyle` | 10/10 | publicado em 28/09/2026 |
+| `yesstyle-black-friday` | [[02_Artigos/black-friday-yesstyle]] | 10/10 | pronto para deploy (11/10/2026) |
 
 ## Regras específicas
 
