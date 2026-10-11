@@ -25,12 +25,13 @@ npm run validate:yesstyle    # data/coupons/yesstyle.json; falha com oferta ativ
 npm run test:analytics-gate  # allowlist de hosts do GA4 e do Clarity; loader do Clarity só em Clarity.js, sem id="clarity"
 npm run test:home-stores     # vitrine da home, "Acabou de sair" e subpáginas /reviews/loja/<slug>
 npm run test:reviews-hub     # estante de /reviews e das subpáginas: busca sem acento, ordem, URL, Novidades, bolinhas, páginas de 12 e 24, medição e os componentes
+npm run test:videos-hub      # /videos e as páginas de vídeo: destaque e ordem pela data, chips de loja e ?loja=, duração, origem e botão da loja, Mais vídeos, canal, medição e os componentes
 npm run test:home-events     # datas comerciais: content/home-events.json, a faixa e a página da data
 npm run test:home-lower-sections  # receitas, Explore a casa (com o carrossel de ofertas do feed) e vídeos da home, e que o page.js passa as ofertas ao Explore a casa e monta os Vídeos
 npm run test:locale-home     # home de cada idioma (/en, /ja…): textos dos 9 idiomas, lojas, artigos, validade do certificado da YesStyle e o HTML das seções
 npm run test:home-route-tracking  # placements do home_route_click e o link das abas da vitrine (<a> comum)
 npm run test:html-lang       # depois do build: <html lang> de cada rota
-npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, a trilha de todo artigo (home do idioma, lista e artigo, igual ao JSON-LD, com o nome para o leitor de tela no idioma), títulos de seção sem repetição, cada nota editorial da review uma vez, dentro da seção em que está ancorada e no idioma do artigo, o nome da trilha das receitas, textos que citam o CECILIA010, a home, a estante de /reviews e das subpáginas de loja (os 12 primeiros artigos, a busca, as Novidades, as bolinhas, a trilha das subpáginas igual ao BreadcrumbList, as categorias da loja e Outras lojas, com imagem e JSON-LD de lista), as páginas de data (imagem e JSON-LD), a imagem de compartilhamento das páginas de loja e o noindex do /categorias, o marca-texto dos títulos da home, os cards revelados na rolagem e nada escondido por ela no HTML, o CSS da rolagem só com o movimento liberado (sem @media not … and …) e as homes de cada idioma (hreflang, JSON-LD, sem texto em português nem link de loja, menu e rodapé inclusive)
+npm run test:build-output    # depois do build: CSS de CJK e da gaveta, sitemap, llms.txt, <head> das lojas traduzidas e dos artigos de família, SEO das 10 páginas da YesStyle, dock, sidebar e interface dos artigos no idioma de cada um, a trilha de todo artigo (home do idioma, lista e artigo, igual ao JSON-LD, com o nome para o leitor de tela no idioma), títulos de seção sem repetição, cada nota editorial da review uma vez, dentro da seção em que está ancorada e no idioma do artigo, o nome da trilha das receitas, textos que citam o CECILIA010, a home, a estante de /reviews e das subpáginas de loja (os 12 primeiros artigos, a busca, as Novidades, as bolinhas, a trilha das subpáginas igual ao BreadcrumbList, as categorias da loja e Outras lojas, com imagem e JSON-LD de lista), as páginas de data (imagem e JSON-LD), /videos (o destaque, a grade na ordem, os chips, o JSON-LD de lista e nenhum nome de transição no HTML), as páginas de vídeo (trilha igual ao BreadcrumbList, h1 igual ao VideoObject, o player logo depois do h1 no formato do vídeo, a origem, o botão da loja e Mais vídeos), o "Ver todos os vídeos" da home, o tamanho do player no CSS, a imagem de compartilhamento das páginas de loja e o noindex do /categorias, o marca-texto dos títulos da home, os cards revelados na rolagem e nada escondido por ela no HTML, o CSS da rolagem só com o movimento liberado (sem @media not … and …) e as homes de cada idioma (hreflang, JSON-LD, sem texto em português nem link de loja, menu e rodapé inclusive)
 ```
 
 `npm run typecheck` antes do `build`: enumera tudo de uma vez e é muito mais rápido.
@@ -66,7 +67,7 @@ aconteceu:
 | Cupons em outros idiomas (hoje só a SHEIN) | `src/lib/couponTranslations.ts`: só texto; códigos, datas e campanhas vêm do cupom em PT. Textos da interface da página de loja em `src/components/coupons/couponStoreCopy.tsx` |
 | YesStyle: código de recompensa e cupons da loja | `data/coupons/yesstyle.json`, lido por `src/lib/yesstyleCoupons.ts`. Textos dos 10 idiomas em `src/components/coupons/yesstyleCopy.ts`, juntados aos dados em `yesstylePage.ts`. Manutenção na seção 3 de `docs/MANUTENCAO-MENSAL.md` |
 | Locales e clusters i18n | `src/lib/i18n/locales.ts` e `src/lib/i18n/clusters/` |
-| Vídeos | `src/lib/video-metadata.js` e `src/lib/video-pages.js` |
+| Vídeos | `src/lib/video-metadata.js` e `src/lib/video-pages.js` (com o `aspect` de cada vídeo); `/videos` e as páginas de vídeo montadas por `src/lib/videosHub.ts`, regras do navegador em `src/lib/videosShelf.ts` |
 | Links da marca e redes sociais | `src/lib/brandLinks.ts` |
 
 `src/lib/data.ts` ainda existe como adaptador legado: expõe `recipes`, `reviews` e
@@ -95,6 +96,10 @@ A busca grava na URL por um caminho só, com atraso de 120 ms depois da última 
 na hora). O Voltar e o Avançar dentro da lista trocam o texto do campo pelo `q` da entrada aberta, e
 uma gravação pendente nunca cai em outra entrada nem em outra rota: se a URL já saiu da lista, a
 gravação some.
+A grade de `/videos` (`VideosBrowser`) guarda a loja escolhida em `?loja=` do mesmo jeito. A leitura e
+a gravação da URL das duas ficam em `src/components/ui/useListUrl.tsx` (`isOnList` e `urlSearchOf` em
+`src/lib/listUrl.ts`), e a troca animada, em `src/components/ui/shelfTransition.ts`, fora do
+`src/lib/viewTransition.ts`, que componentes servidor importam: o `flushSync` só existe no cliente.
 
 ### Mídia (imagens e vídeos) — biblioteca CDN em migração
 
@@ -165,6 +170,7 @@ vídeo, primeiras impressões e uso noturno.
 - `src/components/ui/` — Shared building blocks: `focusRing.ts` (`FOCUS_RING`, `FOCUS_RING_ON_DARK`), `ScrollRow`, `RevealSection`, `CategoryIcon`, `cardDecor.ts` (the fridge-magnet cards), `useBubbleTilt.ts` (the store bubbles' mouse tilt), `useRowScroll.ts` (the row with arrows) and `StoreMark.tsx` (the store logo or initials, shared by the home and `/reviews`; a server component, so keep `'use client'` out of it).
 - `src/components/sections/` — Page sections: the D2 home (`HomeStoreStories`, `HomeStoreStrip` (the store bubbles), `HomeCeciliaPanel`, `HomeLatest`, `HomeEvent`, `PopularRecipes`, `MyLinks` (with `OfferCarousel`), `CTA`, the last two wrapped in `HomeSection`) and `EventHubPage`, which reads the data and wraps `EventHubView` (the date page itself, rendered by `test:home-events`; it must not import `next/font`, which does not run under tsx). `Navbar` and `Footer` live in `src/components/`.
 - `src/components/reviews/` — a estante de `/reviews` e das subpáginas de loja: `ReviewsBrowser` (busca, categorias, ordem, grade ou lista, "Carregar mais", a URL e a troca animada), `ReviewShelfCard` e `ReviewShelfRow`, `ReviewsNewRow` (Novidades), `ReviewsStoreStrip` e `StoreBubbleLink` (bolinhas) e `TrackedReviewsLink` (`reviews_route_click`). As regras que o navegador usa ficam em `src/lib/reviewsShelf.ts`; os dados, montados no servidor, em `src/lib/reviewsHub.ts`. O ímã dos cartões (`cardDecor.ts`), a inclinação das bolinhas (`useBubbleTilt.ts`) e a fila com setas (`useRowScroll.ts`) ficam em `src/components/ui/`, usados também pela home.
+- `src/components/videos/` — `/videos` e as páginas de vídeo: `VideoCard` (o cartão vertical, também nos Últimos vídeos da home), `VideoRow` (as filas: os Últimos vídeos da home, o canal e Mais vídeos), `VideoFeatured` (o destaque), `VideosBrowser` (os chips das lojas, a grade e o `?loja=`), `VideoChannelRow` e `VideoChannelStrip` (o canal e o "Inscrever-se no canal"), `VideoPlayer` (o player no formato do `aspect`), `VideoSourceCard` (a origem e o botão da loja) e `TrackedVideosLink`/`VideoPageLink` (`videos_route_click`). Os dados, montados no servidor, ficam em `src/lib/videosHub.ts`; as regras que o navegador usa, em `src/lib/videosShelf.ts`. A trilha visível das páginas de lista e de vídeo é o `PageTrail` (`src/components/ui/`).
 - `src/components/sections/CeciliaProfile.tsx` (the photo card, the follower numbers and the social icons) is shared by the PT home panel and by the home of every other language, so editing it changes both. The sections of the other-language home are the `LocaleHome*` components.
 - Each route group has its own root layout (`src/app/(pt)/layout.js`, `src/app/(en)/layout.tsx`… and `src/app/[locale]/layout.tsx`). All of them render `RootLayoutShell` (`src/components/RootLayoutShell.tsx`): `Navbar → {children} → Footer`.
 
@@ -202,7 +208,9 @@ vídeo, primeiras impressões e uso noturno.
     no ar está em "Para pôr a Black Friday no ar", no fim de
     `docs/superpowers/plans/2026-10-08-home-d2-fase-4.md`;
   - `dicasOffers.ts` e `youtube.ts`: sem oferta com foto, o card do Dicas & Ofertas volta a ser só o
-    link; sem vídeo, a seção some. Não há ofertas reserva.
+    link; sem vídeo, a seção some. Não há ofertas reserva. O vídeo do canal que tem página no site
+    (`/videos/<slug>`) abre a página (`getChannelRow`, de `videosHub.ts`), e a seção tem o "Ver todos
+    os vídeos".
 - Fila de cards que rola na horizontal usa o `ScrollRow` (`src/components/ui/ScrollRow.tsx`): com o
   foco do teclado, o card meio escondido entra inteiro na tela. As bolinhas da vitrine ficam de
   fora: elas já centralizam a loja escolhida.
@@ -316,6 +324,9 @@ Durante a troca, o `:root` perde o nome de transição e o `::view-transition` n
 (`:root:has([data-trocando])` no `globals.css`): sem isso, um clique dado nos ~450 ms da troca caía no
 `<html>`, que segura a camada da transição, e se perdia. Fora da troca, o morph da foto para o artigo
 continua capturando a página inteira.
+A grade de `/videos` troca de loja do mesmo jeito, e os cartões de vídeo levam
+`data-vt-name="video-player-<slug>"` na miniatura: a moldura do player da página do vídeo tem o mesmo
+nome no HTML, e a miniatura voa até ela. O HTML de `/videos` não leva nenhum nome.
 
 ### Pages
 | Route | File |
@@ -326,6 +337,8 @@ continua capturando a página inteira.
 | `/receitas/[slug]` | `src/app/(pt)/receitas/[slug]/page.js` |
 | `/reviews` | `src/app/(pt)/reviews/page.tsx` (Novidades, bolinhas e a estante `ReviewsBrowser`; dados em `src/lib/reviewsHub.ts`) |
 | `/reviews/loja/[brand]` | `src/app/(pt)/reviews/loja/[brand]/page.tsx` (só lojas ativas com mais de 3 artigos; a estante de `/reviews`, com busca acima de 12 artigos) |
+| `/videos` | `src/app/(pt)/videos/page.tsx` (o destaque, a grade com os chips das lojas e os últimos do canal; dados em `src/lib/videosHub.ts`) |
+| `/videos/[slug]` | `src/app/(pt)/videos/[slug]/page.tsx` (a página de exibição: o player no formato do `aspect` logo depois do h1, o painel e Mais vídeos; o `VideoObject` e o sitemap de vídeo não mudam) |
 | `/black-friday` | `src/app/(pt)/black-friday/page.tsx` (`EventHubPage`; 404 enquanto não houver edição em `content/home-events.json`) |
 | `/cupons` | `src/app/(pt)/cupons/page.tsx` |
 | `/cupons/[brand]` | `src/app/(pt)/cupons/[brand]/page.tsx` (YesStyle has its own page in `cupons/yesstyle/`) |
