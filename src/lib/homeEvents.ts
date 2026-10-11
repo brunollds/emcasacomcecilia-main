@@ -1,5 +1,5 @@
 import { getActiveCoupons, type Coupon } from '@/lib/couponsData';
-import { getStoreCode, ofStore, type StoreReview } from '@/lib/homeStores';
+import { codeLinkLabel, getStoreCode, type StoreReview } from '@/lib/homeStores';
 import { getTabAnchor } from '@/lib/homeStoreTabs';
 import { SITE_SOCIAL_IMAGE, absoluteMediaUrl, type SocialImage } from '@/lib/pageSeo';
 import { getListedPortugueseReviews, isListedInPortuguese, sortReviewsByPublishedAt } from '@/lib/reviewDiscovery';
@@ -230,7 +230,7 @@ function toCards(event: HomeEventEntry, reviews: readonly StoreReview[], stores:
       image: review.image ? resolveMediaUrl(review.image) : undefined,
       store: store?.brand,
       codeLink:
-        store && code ? { href: `/#${getTabAnchor(store.slug)}`, label: `Ver o código ${ofStore(store)}` } : undefined,
+        store && code ? { href: `/#${getTabAnchor(store.slug)}`, label: codeLinkLabel(store) } : undefined,
     };
   });
 }

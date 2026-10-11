@@ -28,6 +28,11 @@ export function ofStore(store: Pick<Coupon, 'slug' | 'brand'>): string {
   return `${MASCULINE_STORES.has(store.slug) ? 'do' : 'da'} ${store.brand}`;
 }
 
+// O botão que leva ao código da loja: subpágina de loja, datas comerciais e página do vídeo.
+export function codeLinkLabel(store: Pick<Coupon, 'slug' | 'brand'>): string {
+  return `Ver o código ${ofStore(store)}`;
+}
+
 function theStore(store: Pick<Coupon, 'slug' | 'brand'>): string {
   return `${MASCULINE_STORES.has(store.slug) ? 'o' : 'a'} ${store.brand}`;
 }
@@ -116,7 +121,7 @@ export function getStoreArticlesPage<T extends StoreReview>(
     metaTitle: `${store.brand}: guias e análises - Em Casa com Cecília`,
     description: `${countLabel}: guias e análises, do mais novo para o mais antigo.`,
     countLabel,
-    codeLinkLabel: `Ver o código ${ofStore(store)}`,
+    codeLinkLabel: codeLinkLabel(store),
     storePageUrl: getCouponStorePath(store.slug, 'pt'),
     articles,
   };
