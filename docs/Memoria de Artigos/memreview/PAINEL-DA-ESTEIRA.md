@@ -36,7 +36,7 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- [ ] [[black-friday-shein]] — SHEIN / Black Friday SHEIN 2026: o calendário de 2023 a 2025, o imposto de importação zero até US$ 50 e o ICMS que continua, Envio Nacional, cupons, pontos e devolução, família de 10 idiomas (a primeira da SHEIN), terceira rodada (gates e build verdes em 11/10/2026; capa do haul no CDN; falta a revisão do Bruno no localhost e o OK do deploy)
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -50,6 +50,7 @@
 - [x] [[black-friday-nestle-nutre]] — Nestlé Nutre / Black Friday Nutren 2026: Nutren Senior, Just Protein e o cupom CECI na Nestlé Nutre (No ar em 10/10/2026, PR #50; preços de 10/10, reconferidos na última semana de outubro) 🚀
 - [x] [[black-friday-magalu]] — Magalu / Black Friday Magalu 2026: datas, eletro vendido pelo Magalu e as faixas do código da Cecília, terceira rodada (No ar em 11/10/2026, PR #52; capa da Lu no CDN; preços de 10/10, reconferidos na última semana de outubro) 🚀
 - [x] [[black-friday-yesstyle]] — YesStyle / Black Friday YesStyle 2026: o calendário oficial de 2024 e 2025, as faixas iguais às do ano todo, os dias de 15% sem mínimo e o CECILIA010, família de 10 idiomas, terceira rodada (No ar em 11/10/2026, PR #54; capa provisória do vídeo da Abib no CDN; capa e datas trocadas quando a YesStyle publicar a Black Friday de 2026) 🚀
+- [x] [[black-friday-shein]] — SHEIN / Black Friday SHEIN 2026: o calendário de 2023 a 2025, o imposto de importação zero até US$ 50 e o ICMS que continua, Envio Nacional, cupons, pontos e devolução, família de 10 idiomas (a primeira da SHEIN), terceira rodada (No ar em 11/10/2026, PR #56; capa do haul no CDN; calendário atualizado quando a SHEIN anunciar a campanha de 2026) 🚀
 - [x] [[poltrona-de-amamentacao-como-escolher]] — DAMIE / Poltrona de amamentação: como escolher entre com puff, com balanço e reclinável (No ar em 07/10/2026, `4b391c4`; reescrito com fatos verificados, três faixas de preço com links da Amazon e do Mercado Livre, giro de 180°, herói real no CDN, IndexNow enviado) 🚀
 - [x] [[poltrona-de-amamentacao-vs-poltrona-reclinavel]] — DAMIE / Poltrona de amamentação ou reclinável: qual vale mais a pena? (No ar em 07/10/2026, `4b391c4`; as quatro bases da DAMIE com preços, uso depois da amamentação com os opcionais, conta do tempo de uso com preços reais, herói real no CDN, IndexNow enviado) 🚀
 - [x] [[insider-store-e-confiavel]] — Insider Store / É confiável? CNPJ, loja física, trocas, garantia e reputação (No ar em 05/10/2026, `2887c4c`; reescrito com fatos verificados na central de ajuda, termos e BrasilAPI, sem Lenzing, fotos oficiais no CDN, IndexNow enviado; revisto em 07/10/2026 para citar os 15% OFF do cupom, no ar em 08/10/2026, `19ea553`) 🚀

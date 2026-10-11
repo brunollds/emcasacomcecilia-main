@@ -6,9 +6,11 @@ parceiro: "[[SHEIN]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
-status: "pronto-para-deploy"
-responsavel: "Bruno"
-proxima_acao: "revisão do PT no localhost e OK do Bruno para o PR e o deploy; atualizar o calendário quando a SHEIN anunciar a campanha de 2026, nos 10 idiomas"
+status: "publicado"
+responsavel: "Claude"
+proxima_acao: "quando a SHEIN anunciar a campanha de 2026 (em 2024 começou em 21/10; em 2025 estava no ar em 3/11), trocar a estimativa pelo calendário anunciado, nos 10 idiomas"
+publicado_em: "2026-10-11"
+nota_publicacao: "Publicado no PR #56 em 11/10/2026 (decisão do Bruno), com a capa do Short de haul da Cecília."
 bloqueado_por: null
 score_autoridade: 65
 score_conversao: 75
