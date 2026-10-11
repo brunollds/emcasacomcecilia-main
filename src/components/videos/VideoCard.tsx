@@ -7,8 +7,9 @@ import type { VideoCardData, VideosPlacement } from '@/lib/videosShelf';
 // O cartão vertical (9:16) dos vídeos: os Últimos vídeos da home, a grade e o canal de /videos e "Mais
 // vídeos" da página de cada vídeo. A miniatura do YouTube (hqdefault, 4:3) é recortada no meio pelo
 // object-cover. O título é o primeiro texto do link, num h3; depois vêm a duração por extenso (para o leitor
-// de tela; o selo do canto é só visual) e a loja. O vídeo com página no site abre a página, com a miniatura
-// voando para o player (data-vt-name); o que só existe no YouTube abre numa aba nova.
+// de tela; o selo do canto é só visual) e a loja, cada uma com a vírgula que só o leitor de tela lê: o nome
+// do link é "título, duração, loja". O vídeo com página no site abre a página, com a miniatura voando para o
+// player (data-vt-name); o que só existe no YouTube abre numa aba nova.
 
 const CARD = `group relative flex aspect-[9/16] flex-1 items-center justify-center overflow-hidden rounded-xl border-2 border-marinho bg-marinho text-white motion-safe:transition-transform motion-safe:duration-300 motion-safe:hover:-translate-y-1 ${FOCUS_RING}`;
 
@@ -35,8 +36,13 @@ export function VideoCard({ video, sizes, placement }: VideoCardProps) {
       />
       <div className="absolute inset-x-2.5 bottom-2.5 flex flex-col gap-0.5 md:inset-x-3 md:bottom-3">
         <h3 className="line-clamp-3 text-xs leading-[14px] font-bold md:leading-4">{video.title}</h3>
-        {video.duration ? <span className="sr-only">{video.duration.spoken}</span> : null}
-        {video.label ? <span className="text-[11px] leading-4 font-semibold text-white/80">{video.label}</span> : null}
+        {video.duration ? <span className="sr-only">{`, ${video.duration.spoken}`}</span> : null}
+        {video.label ? (
+          <>
+            <span className="sr-only">, </span>
+            <span className="text-[11px] leading-4 font-semibold text-white/80">{video.label}</span>
+          </>
+        ) : null}
       </div>
       {video.duration ? (
         <span

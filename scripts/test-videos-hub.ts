@@ -443,7 +443,8 @@ const openingTag = (html: string) => html.match(/^<a [^>]*>/)?.[0] ?? '';
 
 // Cartão de vídeo com página: link para a página na mesma aba, com o anel de foco; a miniatura decorativa
 // (alt vazio, sem pressa) com o nome da transição só no data-vt-name; o título num h3 de até 3 linhas; no
-// nome do link, depois do título, a duração por extenso e a loja. O selo "0:54" é só visual.
+// nome do link, depois do título, a duração por extenso e a loja, separados por vírgulas que só o leitor de
+// tela lê. O selo "0:54" é só visual.
 const card = render(createElement(VideoCard, { video: toVideoCard(novo), sizes: '160px', placement: 'videos_grid' }));
 const cardTag = openingTag(card);
 assert.match(cardTag, /href="\/videos\/novo-damie"/);
@@ -454,21 +455,26 @@ assert.ok(!card.includes('view-transition-name'), 'nome de transição só no cl
 assert.match(card, /<img\b[^>]*\balt=""/);
 assert.match(card, /<img\b[^>]*\bloading="lazy"/);
 assert.match(card, /<h3 class="line-clamp-3[^"]*">Vídeo novo-damie<\/h3>/);
-assert.match(card, /<span class="sr-only">54 segundos<\/span>/);
+assert.match(card, /<span class="sr-only">, 54 segundos<\/span>/);
+assert.match(card, /<span class="sr-only">, <\/span><span class="[^"]*">DAMIE<\/span>/, 'vírgula do leitor de tela antes da loja');
 assert.match(card, /<span aria-hidden="true" class="[^"]*">0:54<\/span>/, 'o selo é só visual');
-const cardText = textOf(card);
-assert.ok(
-  cardText.indexOf('Vídeo novo-damie') === 0 &&
-    cardText.indexOf('54 segundos') > 0 &&
-    cardText.indexOf('DAMIE', cardText.indexOf('54 segundos')) > 0,
-  `nome do link: título, duração e loja (${cardText})`
+// O nome do link é "título, duração, loja" (o selo vem depois, escondido do leitor de tela); sem as vírgulas
+// do sr-only, o texto da tela é o de antes.
+assert.equal(textOf(card), 'Vídeo novo-damie, 54 segundos, DAMIE0:54');
+assert.equal(textOf(card.replace(/<span class="sr-only">[^<]*<\/span>/g, '')), 'Vídeo novo-damieDAMIE0:54', 'texto visível');
+const cardWithoutLabel = render(createElement(VideoCard, { video: toVideoCard(item('sem-loja')), sizes: '1px' }));
+assert.equal(textOf(cardWithoutLabel), 'Vídeo sem-loja, 1 minuto1:00', 'sem loja, sem vírgula sobrando');
+assert.equal(count(cardWithoutLabel, /sr-only/g), 1);
+assert.equal(
+  textOf(render(createElement(VideoCard, { video: toVideoCard(receita), sizes: '1px' }))),
+  'Vídeo receita, 1 minuto e 12 segundos, Receita1:12'
 );
-assert.equal(textOf(render(createElement(VideoCard, { video: toVideoCard(item('sem-loja')), sizes: '1px' }))), 'Vídeo sem-loja1 minuto1:00');
-assert.ok(textOf(render(createElement(VideoCard, { video: toVideoCard(receita), sizes: '1px' }))).includes('Receita'));
 
-// MP4 sem duração: sem selo e sem texto de duração.
+// MP4 sem duração: sem selo, sem texto de duração e só a vírgula da loja.
 const localCard = render(createElement(VideoCard, { video: toVideoCard(local), sizes: '1px' }));
-assert.ok(!localCard.includes('sr-only') && !/\d:\d\d/.test(textOf(localCard)), 'MP4 sem duração');
+assert.equal(textOf(localCard), 'Vídeo cafe-local, Dolce Gusto');
+assert.equal(count(localCard, /sr-only/g), 1);
+assert.ok(!/\d:\d\d/.test(textOf(localCard)), 'MP4 sem duração');
 assert.ok(!/undefined|NaN/.test(localCard));
 
 // Upload só no YouTube: aba nova, sem nome de transição; sem miniatura, o fundo marinho.
@@ -477,6 +483,9 @@ assert.match(openingTag(externalCard), /target="_blank"/);
 assert.match(openingTag(externalCard), /rel="noopener noreferrer"/);
 assert.ok(!externalCard.includes('data-vt-name'));
 assert.equal(count(render(createElement(VideoCard, { video: channel[4], sizes: '1px' })), /<img/g), 0);
+// Sem duração nem loja, o nome do link é só o título: nenhuma vírgula.
+assert.equal(textOf(externalCard), channel[1].title);
+assert.ok(!externalCard.includes('sr-only'));
 
 // O link certo para cada caso: a página do vídeo pelo VideoPageLink (com a troca animada), o YouTube pelo
 // TrackedVideosLink; o placement chega aos dois.
