@@ -1,4 +1,5 @@
 import type { EditorialNoteLabels } from '@/components/editorial/EditorialNotePill';
+import type { ReviewVideoLabels } from './ReviewLoopVideo';
 import type { Recommendation, ReviewKind } from '@/lib/content';
 import type { Locale } from '@/lib/i18n/locales';
 
@@ -37,6 +38,10 @@ export type ArticleCopy = {
   relatedVideo: string;
   watchOnYoutube: string;
   openVideoPage: string;
+  videoPause: string;
+  videoPlay: string;
+  videoUnsupported: string;
+  demoVideo: (title: string) => string;
   breadcrumbLabel: string;
 };
 
@@ -70,6 +75,10 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: 'Vídeo relacionado',
     watchOnYoutube: 'Assista ao vídeo completo no YouTube',
     openVideoPage: 'Abrir a página dedicada ao vídeo',
+    videoPause: 'Pausar vídeo',
+    videoPlay: 'Reproduzir vídeo',
+    videoUnsupported: 'Seu navegador não suporta vídeos.',
+    demoVideo: (title) => `Vídeo demonstrativo: ${title}`,
     breadcrumbLabel: 'Você está em',
   },
   en: {
@@ -101,6 +110,10 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: 'Related video',
     watchOnYoutube: 'Watch the full video on YouTube',
     openVideoPage: 'Open the dedicated video page',
+    videoPause: 'Pause video',
+    videoPlay: 'Play video',
+    videoUnsupported: 'Your browser does not support videos.',
+    demoVideo: (title) => `Demo video: ${title}`,
     breadcrumbLabel: 'You are here',
   },
   es: {
@@ -132,6 +145,10 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: 'Vídeo relacionado',
     watchOnYoutube: 'Mira el vídeo completo en YouTube',
     openVideoPage: 'Abrir la página dedicada al vídeo',
+    videoPause: 'Pausar el vídeo',
+    videoPlay: 'Reproducir el vídeo',
+    videoUnsupported: 'Tu navegador no admite vídeos.',
+    demoVideo: (title) => `Vídeo demostrativo: ${title}`,
     breadcrumbLabel: 'Estás en',
   },
   fr: {
@@ -163,6 +180,10 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: 'Vidéo associée',
     watchOnYoutube: 'Regardez la vidéo complète sur YouTube',
     openVideoPage: 'Ouvrir la page dédiée à la vidéo',
+    videoPause: 'Mettre la vidéo en pause',
+    videoPlay: 'Lire la vidéo',
+    videoUnsupported: 'Votre navigateur ne prend pas en charge les vidéos.',
+    demoVideo: (title) => `Vidéo de démonstration : ${title}`,
     breadcrumbLabel: 'Vous êtes ici',
   },
   de: {
@@ -194,6 +215,10 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: 'Passendes Video',
     watchOnYoutube: 'Das ganze Video auf YouTube ansehen',
     openVideoPage: 'Seite zum Video öffnen',
+    videoPause: 'Video pausieren',
+    videoPlay: 'Video abspielen',
+    videoUnsupported: 'Dein Browser unterstützt keine Videos.',
+    demoVideo: (title) => `Demovideo: ${title}`,
     breadcrumbLabel: 'Du bist hier',
   },
   it: {
@@ -225,6 +250,10 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: 'Video correlato',
     watchOnYoutube: 'Guarda il video completo su YouTube',
     openVideoPage: 'Apri la pagina dedicata al video',
+    videoPause: 'Metti in pausa il video',
+    videoPlay: 'Riproduci il video',
+    videoUnsupported: 'Il tuo browser non supporta i video.',
+    demoVideo: (title) => `Video dimostrativo: ${title}`,
     breadcrumbLabel: 'Sei qui',
   },
   ko: {
@@ -256,6 +285,10 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: '관련 영상',
     watchOnYoutube: 'YouTube에서 전체 영상 보기',
     openVideoPage: '영상 전용 페이지 열기',
+    videoPause: '영상 일시정지',
+    videoPlay: '영상 재생',
+    videoUnsupported: '이 브라우저는 영상을 지원하지 않아요.',
+    demoVideo: (title) => `시연 영상: ${title}`,
     breadcrumbLabel: '현재 위치',
   },
   ja: {
@@ -287,6 +320,10 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: '関連動画',
     watchOnYoutube: 'YouTube で動画の全編を見る',
     openVideoPage: '動画専用ページを開く',
+    videoPause: '動画を一時停止',
+    videoPlay: '動画を再生',
+    videoUnsupported: 'お使いのブラウザは動画に対応していません。',
+    demoVideo: (title) => `デモ動画：${title}`,
     breadcrumbLabel: '現在位置',
   },
   'zh-hant': {
@@ -318,6 +355,10 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: '相關影片',
     watchOnYoutube: '在 YouTube 觀看完整影片',
     openVideoPage: '開啟影片專頁',
+    videoPause: '暫停影片',
+    videoPlay: '播放影片',
+    videoUnsupported: '你的瀏覽器不支援影片。',
+    demoVideo: (title) => `示範影片：${title}`,
     breadcrumbLabel: '目前位置',
   },
   'zh-hans': {
@@ -349,6 +390,10 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     relatedVideo: '相关视频',
     watchOnYoutube: '在 YouTube 观看完整视频',
     openVideoPage: '打开视频专页',
+    videoPause: '暂停视频',
+    videoPlay: '播放视频',
+    videoUnsupported: '你的浏览器不支持视频。',
+    demoVideo: (title) => `演示视频：${title}`,
     breadcrumbLabel: '当前位置',
   },
 };
@@ -361,4 +406,10 @@ export function getArticleCopy(locale: Locale): ArticleCopy {
 export function getEditorialNoteLabels(locale: Locale): EditorialNoteLabels {
   const { editorialNoteTitle, editorialNoteClose } = getArticleCopy(locale);
   return { title: editorialNoteTitle, close: editorialNoteClose };
+}
+
+// O vídeo em loop é componente de cliente e não importa esta tabela: quem o usa passa os rótulos prontos.
+export function getReviewVideoLabels(locale: Locale): ReviewVideoLabels {
+  const { videoPause, videoPlay, videoUnsupported } = getArticleCopy(locale);
+  return { pause: videoPause, play: videoPlay, unsupported: videoUnsupported };
 }

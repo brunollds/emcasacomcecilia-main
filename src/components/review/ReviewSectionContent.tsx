@@ -10,7 +10,7 @@ import type { ContentSection } from '@/lib/content';
 import type { Locale } from '@/lib/i18n/locales';
 import { isCouponPageLink, isInternalLink } from '@/lib/internalLinks';
 import { ReputacaoMetricas, PadroesReclamacao } from './ReputacaoMetricas';
-import { ReviewLoopVideo } from './ReviewLoopVideo';
+import { ReviewSectionVideo } from './ReviewSectionVideo';
 import { TrackedCouponPageLink } from './TrackedCouponPageLink';
 
 export interface ReviewSectionContentProps {
@@ -224,24 +224,7 @@ export function ReviewSectionContent({
         </p>
       )}
 
-      {section.video && (
-        <div className={`my-6 overflow-hidden rounded-[1.25rem] bg-[#f4f4f5] shadow-soft mx-auto ${
-          section.video.aspect === 'portrait'
-            ? 'aspect-[9/16] max-w-md'
-            : section.video.aspect === 'square'
-              ? 'aspect-square max-w-2xl'
-              : 'aspect-video max-w-2xl'
-        }`}>
-          <ReviewLoopVideo
-            mp4={section.video.mp4}
-            webm={section.video.webm}
-            poster={section.video.poster}
-            ariaLabel={section.video.alt || `Vídeo demonstrativo: ${section.heading || reviewTitle}`}
-            preload="metadata"
-            className="w-full h-full object-cover"
-          />
-        </div>
-      )}
+      {section.video && <ReviewSectionVideo video={section.video} title={section.heading || reviewTitle} locale={locale} />}
 
       {shouldRenderProsConsTable && (
         <div className="mt-6 overflow-hidden rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft">

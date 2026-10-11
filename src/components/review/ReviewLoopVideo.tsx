@@ -4,11 +4,19 @@ import { Pause, Play } from 'lucide-react';
 import { useEffect, useRef, useState, useSyncExternalStore } from 'react';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
+// Os textos do vídeo no idioma da página (getReviewVideoLabels): o botão e o aviso para o navegador sem suporte.
+export interface ReviewVideoLabels {
+  pause: string;
+  play: string;
+  unsupported: string;
+}
+
 export interface ReviewLoopVideoProps {
   mp4: string;
   webm?: string;
   poster: string;
   ariaLabel?: string;
+  labels: ReviewVideoLabels;
   className?: string;
   preload?: 'auto' | 'metadata' | 'none';
 }
@@ -34,6 +42,7 @@ export function ReviewLoopVideo({
   webm,
   poster,
   ariaLabel,
+  labels,
   className = '',
   preload = 'metadata',
 }: ReviewLoopVideoProps): React.ReactElement {
@@ -143,14 +152,14 @@ export function ReviewLoopVideo({
       >
         {shouldLoadMedia && deliveredWebm && <source src={deliveredWebm} type="video/webm" />}
         {shouldLoadMedia && <source src={deliveredMp4} type="video/mp4" />}
-        Seu navegador não suporta vídeos.
+        {labels.unsupported}
       </video>
 
       <button
         type="button"
         onClick={togglePlayback}
         className="absolute bottom-3 left-3 z-10 inline-flex min-h-10 items-center gap-2 rounded-full bg-black/70 px-3 py-2 text-xs font-bold uppercase tracking-[0.08em] text-white shadow-md transition-colors hover:bg-black/85 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"
-        aria-label={isPlaying ? 'Pausar vídeo' : 'Reproduzir vídeo'}
+        aria-label={isPlaying ? labels.pause : labels.play}
       >
         {isPlaying ? <Pause className="h-4 w-4" aria-hidden="true" /> : <Play className="h-4 w-4" aria-hidden="true" />}
       </button>
