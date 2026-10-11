@@ -1053,6 +1053,13 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
   // O pulso do grupo de WhatsApp acontece uma vez (WCAG 2.2.2), e só com o movimento liberado.
   check(/\bmotion-safe:animate-\[pulse-subtle_[^\]\s]*_1\]/.test(whatsappTag), 'painel da Cecília: o pulso do WhatsApp sem parar depois de uma vez');
 
+  // As bolinhas da faixa (a da Cecília e uma por loja) estão sempre na primeira tela: carregam já, sem competir
+  // com a imagem do story, que é a de fetchpriority alto. Menos de 2 imagens é a faixa que o extrator não achou.
+  const stripImages = between(body, 'role="tablist"', ['</div>']).match(/<img\b[^>]*>/g) ?? [];
+  check(stripImages.length >= 2, `faixa das bolinhas: ${stripImages.length} imagens, esperava a da Cecília e a das lojas`);
+  check(stripImages.every((image) => /\sloading="eager"/.test(image)), 'faixa das bolinhas: imagem sem loading="eager"');
+  check(stripImages.every((image) => !/\sfetchpriority=/i.test(image)), 'faixa das bolinhas: imagem com fetchpriority, que é do story');
+
   // Um painel por loja ativa, inteiro: título, código com a dica e o rótulo exato do botão de copiar,
   // oferta, os dois links e a lista de artigos (ou o aviso de loja sem artigo).
   for (const tab of expected.tabs) {
@@ -1217,8 +1224,18 @@ const swapLinks = (first: RegExpMatchArray, second: RegExpMatchArray) =>
 const doubleLink = (link: RegExpMatchArray) => replaceLink(link, `${link[0]}></a><a ${link[0]}`);
 const openPanel = (tab: HomeTab) => `id="painel-loja-${tab.slug}"`;
 
+// A faixa das bolinhas: do role="tablist" até o primeiro </div>, que a fecha (as bolinhas são só <button> e <span>).
+const stripAt = homeBody.indexOf('role="tablist"');
+const stripEnd = homeBody.indexOf('</div>', stripAt);
+const inStrip = (change: (strip: string) => string) => homeBody.slice(0, stripAt) + change(homeBody.slice(stripAt, stripEnd)) + homeBody.slice(stripEnd);
+
 // O guarda acima recusa a home errada: cada mutação abaixo precisa achar o trecho e dar problema.
 const brokenHomes = [
+  // A primeira e a última imagem da faixa em lazy, com fetchpriority, e a faixa que o extrator não acha.
+  inStrip((strip) => strip.replace('loading="eager"', 'loading="lazy"')),
+  inStrip((strip) => strip.slice(0, strip.lastIndexOf('loading="eager"')) + 'loading="lazy"' + strip.slice(strip.lastIndexOf('loading="eager"') + 'loading="eager"'.length)),
+  inStrip((strip) => strip.replace('<img ', '<img fetchpriority="high" ')),
+  homeBody.replace('role="tablist"', 'role="outra"'),
   ...forStore('yesstyle', [homeBody.replace('>Código de recompensa YesStyle<', '>Cupom YesStyle<')]),
   homeBody.replace(WHATSAPP_LINK, (tag) => tag.replace(' target="_blank"', '').replace(' rel="noopener noreferrer"', '')),
   homeBody.split(hrefOf(homeExpected.latest[0].href)).join('href="/outra"'),

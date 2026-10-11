@@ -18,7 +18,8 @@ import { CECILIA_TAB_ID, getTabAnchor, getTabOrder, parseTabHash, type HomeStore
 // A faixa de bolinhas da vitrine, no padrão de abas: a da Cecília e uma por loja. No celular a faixa
 // rola na horizontal: a quinta bolinha aparece pela metade, um degradê na borda direita some no fim
 // da faixa, as bolinhas entram da direita na carga (.bolinha no globals.css) e a faixa dá um
-// empurrãozinho uma vez por sessão.
+// empurrãozinho uma vez por sessão. As imagens das bolinhas carregam já (loading="eager", sem
+// fetchpriority, que é da imagem do story): a faixa está sempre na primeira tela.
 
 // O lado de onde o painel novo entra: 1 pela direita, -1 pela esquerda.
 export type TabDirection = 1 | -1;
@@ -162,7 +163,7 @@ export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect }: HomeS
           onKeyDown={onTabKeyDown}
           register={registerTab}
         >
-          <Image src={ceciliaPhoto} alt="" fill sizes="(min-width: 768px) 80px, 64px" className="object-cover" />
+          <Image src={ceciliaPhoto} alt="" fill sizes="(min-width: 768px) 80px, 64px" loading="eager" className="object-cover" />
         </StoreBubble>
         {tabs.map((tab, index) => (
           <StoreBubble
@@ -175,7 +176,7 @@ export function HomeStoreStrip({ tabs, ceciliaPhoto, selected, onSelect }: HomeS
             onKeyDown={onTabKeyDown}
             register={registerTab}
           >
-            <StoreMark tab={tab} imageClassName="bolinha-logo h-[53%] w-[74%]" sizes="60px" />
+            <StoreMark tab={tab} imageClassName="bolinha-logo h-[53%] w-[74%]" sizes="60px" loading="eager" />
           </StoreBubble>
         ))}
       </div>
