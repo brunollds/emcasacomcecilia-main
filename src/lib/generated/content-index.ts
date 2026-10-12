@@ -37047,7 +37047,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Quando começamos a usar a Genio S Touch em casa, uma dúvida apareceu rápido: os tracinhos e ícones do painel não mostram os valores em mililitros. A gente só via os símbolos — os mesmos impressos nas cápsulas — mas sem números para orientar receitas, comparações ou até curiosidade pessoal.",
           "Pesquisando online, encontramos informações conflitantes sobre os valores de cada nível. Parte dessa diferença pode vir de modelos, cápsulas ou referências distintas — inclusive há fontes que associam a função XL a 280 ml, enquanto o manual da nossa Genio S Touch mostra 300 ml.",
-          "A Nestlé não publica, no manual nem no site oficial, uma tabela única que relacione todos os níveis aos volumes em mililitros. Por isso, reunimos os valores que aparecem nos diferentes exemplos e cartões de receita do manual impresso da Genio S Touch. O manual da Mini Me 2.0 repete o mesmo gráfico com as mesmas medidas, reforçando essa referência em dois modelos. Ainda assim, as faixas abaixo são uma compilação editorial, não uma calibração oficial válida para todas as máquinas e cápsulas.",
+          "A Nestlé não publica, no manual nem no site oficial, uma tabela única que relacione todos os níveis aos volumes em mililitros. Por isso, reunimos os valores que aparecem nos diferentes exemplos e cartões de receita do manual impresso da Genio S Touch. O manual da Mini Me 2.0 repete as medidas dos níveis de 1 a 7, reforçando essa referência em dois modelos; a função XL, que a Mini Me 2.0 não tem, vem só da Genio S Touch. Ainda assim, as faixas abaixo são uma compilação editorial, não uma calibração oficial válida para todas as máquinas e cápsulas.",
           "Também fotografamos a tabela de preparo impressa em uma embalagem da linha Dolce Gusto. As imagens abaixo tornam visíveis as recomendações por bebida, inclusive as receitas feitas em duas etapas. Elas documentam essa tabela específica e não substituem a orientação impressa na cápsula ou no manual do seu modelo."
         ],
         "bullets": []
@@ -37124,7 +37124,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom CECI para comprar na loja oficial",
         "paragraphs": [
-          "Se você chegou diretamente a este guia e pretende comprar cápsulas ou uma máquina, use o cupom **CECI** na loja oficial da NESCAFÉ Dolce Gusto para obter **5% de desconto**, conforme as regras vigentes no momento da compra.",
+          "Se você chegou diretamente a este guia e pretende comprar cápsulas ou uma máquina, use o cupom **CECI** na loja oficial da NESCAFÉ Dolce Gusto para obter **5% de desconto** em compras a partir de R$ 100, conforme as regras vigentes no momento da compra.",
           "Digite CECI no campo de cupom antes de concluir o pedido e confirme se o desconto foi aplicado. O cupom faz parte da nossa parceria comercial com a marca, sem custo adicional para você."
         ],
         "bullets": [],
@@ -37970,13 +37970,13 @@ export const reviewsData: unknown[] = [
         "heading": "O que é o Sleeptest",
         "paragraphs": [
           "O Sleeptest é a política de teste de conforto da I Wanna Sleep — basicamente, você compra um colchão, travesseiro ou outro item e tem um período para testar em casa antes de decidir se mantém ou troca. Parece simples, mas a realidade tem camadas: prazos diferentes dependendo do produto, custos que você precisa pagar em algumas categorias, e regras bem específicas sobre embalagem e estado do item.",
-          "A gente mantém uma parceria com a marca e já recebemos alguns produtos aqui em casa (como o Cobertor IWS Igloo), mas nunca acionamos uma troca via Sleeptest. As informações que você encontra neste artigo vêm diretamente da política oficial publicada em suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Sleeptest, consultada em 30 de julho de 2026. Por isso, resolvemos traduzir tudo para PT limpo: o que a gente sabe, as pegadinhas, e o que você precisa conferir antes de comprar."
+          "A gente mantém uma parceria com a marca e já recebemos alguns produtos aqui em casa (como o Cobertor IWS Igloo), mas nunca acionamos uma troca via Sleeptest. As informações que você encontra neste artigo vêm diretamente da política oficial publicada em suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Sleeptest, conferida de novo em 12 de outubro de 2026. Por isso, resolvemos traduzir tudo para PT limpo: o que a gente sabe, as pegadinhas, e o que você precisa conferir antes de comprar."
         ]
       },
       {
         "heading": "Colchões: 100 dias para testar (e R$300 para trocar)",
         "paragraphs": [
-          "Os colchões têm o período mais longo: até 100 dias a partir da entrega. Mas tem um detalhe que muda tudo — o uso mínimo.",
+          "Os colchões da I Wanna Sleep são vendidos só nas lojas físicas de Belo Horizonte, com as consultoras do sono, e a troca é feita na mesma loja da compra. Eles têm o período mais longo: até 100 dias a partir da entrega. Mas tem um detalhe que muda tudo — o uso mínimo.",
           "Você só pode pedir troca após 15 dias de uso. Isso significa que não é possível comprar, receber, ficar 2 dias e devolver insatisfeito sem usar. A marca quer ter certeza de que você testou de verdade, não apenas abriu a embalagem."
         ],
         "bullets": [
@@ -37985,7 +37985,7 @@ export const reviewsData: unknown[] = [
           "Motivo: Apenas por conforto (não serve para trocar tamanho: casal por casal, por exemplo)",
           "Condições exigidas: Colchão sem danos visíveis ou sujeira; protetor de colchão usado durante todo o período; etiqueta de fábrica intacta; embalagem original completa; nota fiscal em mãos; 1 troca por CPF (ou seja, você não pode trocar duas vezes)",
           "Custo da troca: Taxa única de frete + montagem de R$300 em Belo Horizonte e região metropolitana — demais regiões precisam consultar com o pós-vendas",
-          "O que vira crédito ou devolução: Se o novo colchão for mais caro que o que você está devolvendo, você paga a diferença; se for mais barato, o valor vira crédito na loja (não funciona em loja física, só no e-commerce)"
+          "O que vira crédito ou devolução: Se o novo colchão for mais caro que o que você está devolvendo, você paga a diferença; se for mais barato, a diferença vira crédito para trocar por outro produto da loja"
         ]
       },
       {
@@ -38013,7 +38013,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cobertores: confira a página do produto antes de comprar",
         "paragraphs": [
-          "Aqui entra uma pegadinha importante. A política oficial do Sleeptest que capturamos da central de ajuda não lista cobertores como categoria — ela cobre colchões, travesseiros e pillow tops.",
+          "Aqui entra uma pegadinha importante. A política oficial do Sleeptest que capturamos da central de ajuda não lista cobertores como categoria — ela cobre colchões, travesseiros, pillow tops e nutrição.",
           "Mas produtos específicos como o Cobertor IWS Igloo (que a gente tem aqui em casa) anunciam suas próprias políticas de teste na página do produto. No caso do Igloo, a marca anuncia \"teste de 30 noites com reembolso em crédito\".",
           "A lição: não suponha que cobertor segue a regra de travesseiro só porque parecem similares. Cada produto tem sua política anunciada na página. Confira lá antes de adicionar ao carrinho — e se tiver dúvida, mande mensagem pro atendimento da marca para confirmar antes de comprar."
         ],
@@ -38027,7 +38027,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutrição e outras categorias",
         "paragraphs": [
-          "A política oficial menciona que existem regras de Sleeptest para a categoria \"Nutrição\" (suplementos), mas os detalhes específicos não estão publicados na central de ajuda que consultamos. Se você quer comprar um suplemento com a garantia de teste, entre em contato direto com o pós-vendas da marca para não ter surpresa — não assuma que as regras de travesseiro vale para suplemento."
+          "A política oficial também tem regras para a categoria \"Nutrição\" (suplementos): 30 dias desde a entrega, com no mínimo 15 dias de uso, nota fiscal e envio pelos Correios ao centro de distribuição, sem custo. Quem pede a troca recebe crédito. Segundo a política, a troca vale para quem não sentiu resultado no sono, e só para compras feitas no site."
         ]
       },
       {
@@ -38038,8 +38038,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Etiqueta intacta é obrigatória: Se você remover a etiqueta de fábrica, perde o direito à troca. Mesmo que o colchão/travesseiro esteja perfeito.",
           "Um só CPF, uma só troca: Não tente traçar a conta — a política é explícita em \"1 troca por CPF\". Você não consegue trocar duas vezes, nem com pessoas diferentes da família usando o mesmo CPF.",
-          "E-commerce troca em e-commerce, loja física troca em loja física: Se você comprou online, a troca é processada online. Se comprou na loja física, volta para a loja física.",
-          "Crédito vale só no e-commerce (para colchões com diferença de preço): Se você pedir crédito, esse crédito não vale em loja física — só no site.",
+          "E-commerce troca em e-commerce, loja física troca em loja física: Se você comprou online, a troca é processada online. Se comprou na loja física, a troca é feita na mesma loja da compra.",
+          "Crédito de compra feita no site fica no site: se a compra foi feita pelo e-commerce, o crédito da troca não vale nas lojas físicas.",
           "Embalagem original tem que estar completa: Não é só o colchão/travesseiro que importa — você precisa guardar toda a embalagem original durante os 100 dias (colchões) ou 30 dias (travesseiros). Se perdeu a caixa, perdeu a chance de trocar.",
           "Nota fiscal é documento obrigatório: Não venda com descontos \"sem nota fiscal\" — você vai precisar dela para ativar a garantia de teste."
         ]
@@ -38050,14 +38050,14 @@ export const reviewsData: unknown[] = [
           "Essa é a pergunta mais frequente. Na prática:",
           "Para travesseiros e pillow tops: O cliente recebe crédito automaticamente — não há devolução em dinheiro. O crédito fica na sua conta da loja e pode ser usado para comprar outro travesseiro, pillow top, lençol, sleepwear ou acessórios.",
           "Para colchões com diferença de preço: Se o novo colchão for mais barato, você também recebe crédito — não reembolso. Se for mais caro, você paga a diferença.",
-          "Em resumo: A política prioriza o crédito na loja, não devoluções em dinheiro. É uma prática comum em e-commerce, mas é bom saber disso na hora de decidir."
+          "Em resumo: a política prioriza o crédito na loja, não a devolução em dinheiro. A exceção são as compras feitas no site, que podem ser devolvidas em até 7 dias, como prevê o Código de Defesa do Consumidor."
         ]
       },
       {
         "heading": "Vale a pena? O veredito",
         "paragraphs": [
           "O Sleeptest é uma ótima garantia de conforto — você não está comprando \"gato por lebre\" nem ficando preso a um colchão que não dorme bem. Mas não é tão \"sem risco\" quanto parece à primeira vista.",
-          "Para colchões, os R$300 de taxa de logística reversa são um custo real. Em Belo Horizonte pode não parecer muito, mas é algo que você precisa contabilizar antes de comprar — se o colchão vai ser devolvido, você já desconta esses R$300 do valor que pagou. Se você mora em outro estado, a taxa pode ser ainda maior, então consulte.",
+          "Para colchões, os R$300 de taxa de logística reversa são um custo real. Em Belo Horizonte pode não parecer muito, mas é algo que você precisa contabilizar antes de comprar — se o colchão vai ser devolvido, você já desconta esses R$300 do valor que pagou. Fora de Belo Horizonte e da região metropolitana, a política não publica o valor: é preciso consultar o pós-vendas.",
           "Para travesseiros, aí sim: sem custo, 30 dias, crédito. É um incentivo real para você testar em casa com calma, o que é legal.",
           "A grande pegadinha é a etiqueta intacta e a embalagem original completa — muita gente abre tudo para limpar/lavar antes de dormir pela primeira vez e depois descobre que não pode trocar. Leia essa parte do contrato antes de rasgar a embalagem."
         ]
@@ -38065,15 +38065,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Como funciona o Sleeptest da I Wanna Sleep? É um período de teste de conforto para colchões (100 dias), travesseiros (30 dias) e pillow tops (30 dias). Você testa em casa, e se não gostar de conforto, pode trocar por outro — com algumas condições (uso mínimo, embalagem original, etiqueta intacta).",
+          "Como funciona o Sleeptest da I Wanna Sleep? É um período de teste de conforto para colchões (100 dias), travesseiros (30 dias), pillow tops (30 dias) e produtos de nutrição (30 dias). Você testa em casa, e se não gostar de conforto, pode trocar por outro — com algumas condições (uso mínimo, embalagem original, etiqueta intacta).",
           "Colchão I Wanna Sleep tem teste? Sim, 100 dias — mas você precisa usar no mínimo 15 dias antes de poder solicitar a troca.",
-          "Sleeptest devolve dinheiro ou crédito? Depende do produto. Para travesseiros, é sempre crédito. Para colchões, é crédito se o novo for mais barato; se for mais caro, você paga a diferença. Não há reembolso em dinheiro — tudo vira crédito de loja.",
-          "Quanto custa devolver colchão I Wanna Sleep? R$300 em Belo Horizonte e região metropolitana. Demais regiões precisam consultar com o pós-vendas da marca, pois o custo de logística varia.",
+          "Sleeptest devolve dinheiro ou crédito? Depende do produto. Para travesseiros, é sempre crédito. Para colchões, é crédito se o novo for mais barato; se for mais caro, você paga a diferença. Pelo Sleeptest não há reembolso em dinheiro: tudo vira crédito de loja. Compras feitas no site ainda podem ser devolvidas em até 7 dias, pelo direito de arrependimento.",
+          "Quanto custa devolver colchão I Wanna Sleep? R$300 em Belo Horizonte e região metropolitana. Para as demais regiões, a política manda consultar o pós-vendas da marca.",
           "Preciso manter a etiqueta? Sim, é obrigatório. Se arrancar a etiqueta de fábrica, perde o direito à troca.",
           "Posso trocar duas vezes? Não, a política permite apenas 1 troca por CPF durante todo o período.",
           "Se eu não gostar do colchão em 5 dias, consigo trocar? Não, é preciso usar no mínimo 15 dias antes de poder solicitar a troca.",
           "A embalagem original precisa estar perfeita? Sim, a embalagem original tem que estar completa se você quiser trocar — não pode estar rasgada ou parcialmente desmontada.",
-          "Vale a pena comprar colchão I Wanna Sleep com Sleeptest? Vale a pena pelo conforto testado, mas lembre-se dos R$300 de custo de troca (BH/região) e das condições rígidas (etiqueta intacta, 15 dias mínimo de uso, sem danos). Se você tem certeza do que quer, o Sleeptest é um diferencial. Se está muito em dúvida, converse antes com o atendimento para ter certeza da altura/densidade certa."
+          "Vale a pena comprar colchão I Wanna Sleep com Sleeptest? O colchão é vendido só nas lojas físicas de Belo Horizonte. Vale a pena pelo conforto testado, mas lembre-se dos R$300 de custo de troca (BH/região) e das condições rígidas (etiqueta intacta, 15 dias mínimo de uso, sem danos). Se você tem certeza do que quer, o Sleeptest é um diferencial. Se está muito em dúvida, converse antes com o atendimento para ter certeza da altura/densidade certa."
         ]
       }
     ],
@@ -38084,7 +38084,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Este artigo traduz a política oficial de Sleeptest da I Wanna Sleep com base em dados públicos coletados diretamente da central de ajuda oficial em 30 de julho de 2026. O cupom CECIEMCASA (10% de desconto) é oferecido por meio de uma parceria comercial entre o Em Casa com Cecília e a marca. Ao comprar por meio de nossas indicações, você ajuda a manter nosso trabalho editorial sem qualquer custo adicional. Os preços, políticas e cupons estão sujeitos a alterações pela marca.",
+    "editorialNote": "Este artigo traduz a política oficial de Sleeptest da I Wanna Sleep com base em dados públicos coletados diretamente da central de ajuda oficial. O cupom CECIEMCASA (10% de desconto) é oferecido por meio de uma parceria comercial entre o Em Casa com Cecília e a marca. Ao comprar por meio de nossas indicações, você ajuda a manter nosso trabalho editorial sem qualquer custo adicional. Os preços, políticas e cupons estão sujeitos a alterações pela marca.",
     "relatedArticles": [
       {
         "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
