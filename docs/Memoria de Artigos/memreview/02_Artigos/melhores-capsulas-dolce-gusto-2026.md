@@ -6,9 +6,9 @@ parceiro: "[[Dolce-Gusto]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de escolha"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo (terminar o rascunho)"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy (decisão do Bruno), depois da oferta nova da YesStyle; as imagens novas já estão no CDN"
 bloqueado_por: null
 score_autoridade: 76 # 0 a 100
 score_conversao: 84 # 0 a 100
@@ -329,3 +329,11 @@ Fora do FAQ: "Como obter 30 cápsulas grátis" (PAA de "kit") não entra, porque
 - Google (PAA e topo do SERP, `google.com.br`, `hl=pt-BR`, 12/10/2026, coletado pelo lead): "melhores sabores capsulas dolce gusto", "cápsulas dolce gusto mais vendidas", "kit capsulas dolce gusto", "qual capsula dolce gusto rende mais" (seção 3)
 
 **Não consultados:** `viroutendencia.com`; marketplaces; manuais; qualquer link de afiliado (não clicados); páginas de cupom (usado o `couponsData.ts`). A loja bloqueia leitura externa; toda conferência foi no navegador e as páginas mudam diariamente: reler antes de fechar o texto.
+
+## Redação (12/10/2026)
+
+- O rascunho de `content/reviews/melhores-capsulas-dolce-gusto-2026.json` (id 218) foi reescrito por inteiro e sai do rascunho (`draft: false`). O slug fica. Título novo: "Qual sabor de cápsula Dolce Gusto escolher: guia por perfil, Original e NEO"; o relacionado de `assinatura-dolce-gusto-vale-a-pena` passou a usar esse título. O hero antigo segue só no rascunho do Starbucks.
+- Imagens (fotos oficiais de produto da loja; origem em `midia-staging\2026-10-12-fase3\ORIGEM.md`): capa `/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-capa-oficial.webp`, 1600×900, as quatro caixas do briefing em grade; no corpo, os cafés pretos pela intensidade (Espresso, Caffè Matinal e Doppio), os cafés com leite (Café au Lait, Mochaccino Canela e Latte Macchiato), chocolates e chás (Nescau, Galak, Nestea Pêssego e Chai) e Starbucks e Kopenhagen (Cappuccino, Toffee Nut e Língua de Gato), todas em 1200×675, e a foto da DGusta que já estava no CDN.
+- Pendências da seção 11: os ingredientes dos nove chocolates foram relidos em 12/10/2026 (nenhum tem café); a ordem "Mais Vendidos" foi relida na mesma noite e segue com os clássicos no fim, então o guia não faz ranking; o Kit Boas-Vindas II e o Cappuccino Zero Lactose ficaram de fora.
+- Saíram do rascunho: a caixa de 16, a faixa "R$ 22 a R$ 28", o Ristretto, o Espresso Intenso "mais vendido", toda bebida com leite de duas cápsulas e as notas de experiência própria.
+- Revisão Job 3 (12/10/2026): aprovado com ajustes; aplicados os 15 itens. Os principais: "na maioria dos sabores" uma cápsula por bebida (o Chai Tea Latte usa duas), o NEO "para as máquinas NEO" sem contradizer o adaptador, o descafeinado atribuído à loja, a escala de intensidade sem "suave" nem "meio", as tabelas completas (Lungo Chapada, Shakerato, Frappe e Caramel Macchiato), o "10x" das caixas explicado, a sortida como as seleções do DGusta, o link do guia de custo no bloco do CECI e a tabela de ml nos relacionados.

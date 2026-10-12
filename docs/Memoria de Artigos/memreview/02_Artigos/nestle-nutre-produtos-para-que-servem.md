@@ -6,9 +6,11 @@ parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy (decisão do Bruno), depois do OK das imagens novas para o CDN e da oferta nova da YesStyle"
+proxima_acao: "nenhuma"
+publicado_em: "2026-10-12"
+nota_publicacao: "Publicado no PR #66 em 12/10/2026 (decisão do Bruno); o rascunho id 224 saiu do rascunho, com a capa das quatro latas no CDN."
 bloqueado_por: null
 score_autoridade: 80
 score_conversao: 65

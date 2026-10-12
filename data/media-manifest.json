@@ -42003,6 +42003,276 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-cafe-au-lait-e-latte-macchiato-oficial.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-cafe-au-lait-e-latte-macchiato-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49312,
+      "sha256": "d67792a3b76762124ea427a4cc4efcc054fce1c0086b1cfafa5050967869191f",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-cafe-au-lait-e-latte-macchiato-oficial.webp",
+      "storage_filename": "dolce-gusto-cafe-au-lait-e-latte-macchiato-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/quanto-custa-capsula-dolce-gusto.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/quanto-custa-capsula-dolce-gusto.json",
+          "line": 186,
+          "column": 17,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cafe-au-lait-e-latte-macchiato-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62560,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cafe-au-lait-e-latte-macchiato-oficial.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 418,
+          "column": 4,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cafe-au-lait-e-latte-macchiato-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d67792a3b76762124ea427a4cc4efcc054fce1c0086b1cfafa5050967869191f/dolce-gusto-cafe-au-lait-e-latte-macchiato-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d67792a3b76762124ea427a4cc4efcc054fce1c0086b1cfafa5050967869191f/dolce-gusto-cafe-au-lait-e-latte-macchiato-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T22:37:09.007Z",
+      "verification_etag_or_digest": "d67792a3b76762124ea427a4cc4efcc054fce1c0086b1cfafa5050967869191f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-cafes-com-leite-oficial.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-cafes-com-leite-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47944,
+      "sha256": "ad963d7981093e27cd78210a634ef17d46af22caaebdd2dec7636a27ca9dc12a",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-cafes-com-leite-oficial.webp",
+      "storage_filename": "dolce-gusto-cafes-com-leite-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/melhores-capsulas-dolce-gusto-2026.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/melhores-capsulas-dolce-gusto-2026.json",
+          "line": 142,
+          "column": 17,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cafes-com-leite-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 33004,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cafes-com-leite-oficial.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 419,
+          "column": 4,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cafes-com-leite-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ad963d7981093e27cd78210a634ef17d46af22caaebdd2dec7636a27ca9dc12a/dolce-gusto-cafes-com-leite-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ad963d7981093e27cd78210a634ef17d46af22caaebdd2dec7636a27ca9dc12a/dolce-gusto-cafes-com-leite-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T22:37:09.008Z",
+      "verification_etag_or_digest": "ad963d7981093e27cd78210a634ef17d46af22caaebdd2dec7636a27ca9dc12a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-cafes-pretos-intensidade-oficial.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-cafes-pretos-intensidade-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46406,
+      "sha256": "1f6ffeff233fb811541f315feeff7f8453e39b9abdce63aa23a916e24165d978",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-cafes-pretos-intensidade-oficial.webp",
+      "storage_filename": "dolce-gusto-cafes-pretos-intensidade-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/melhores-capsulas-dolce-gusto-2026.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/melhores-capsulas-dolce-gusto-2026.json",
+          "line": 90,
+          "column": 17,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cafes-pretos-intensidade-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 32952,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cafes-pretos-intensidade-oficial.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 420,
+          "column": 4,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cafes-pretos-intensidade-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1f6ffeff233fb811541f315feeff7f8453e39b9abdce63aa23a916e24165d978/dolce-gusto-cafes-pretos-intensidade-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1f6ffeff233fb811541f315feeff7f8453e39b9abdce63aa23a916e24165d978/dolce-gusto-cafes-pretos-intensidade-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T22:37:09.008Z",
+      "verification_etag_or_digest": "1f6ffeff233fb811541f315feeff7f8453e39b9abdce63aa23a916e24165d978",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-cappuccino-duas-capsulas-oficial.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-cappuccino-duas-capsulas-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36762,
+      "sha256": "b71f8ceb3088653adf8a90a25c15430c0f75a32ad72b7cca501d1a0d0abc98df",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-cappuccino-duas-capsulas-oficial.webp",
+      "storage_filename": "dolce-gusto-cappuccino-duas-capsulas-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/quanto-custa-capsula-dolce-gusto.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/quanto-custa-capsula-dolce-gusto.json",
+          "line": 50,
+          "column": 17,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cappuccino-duas-capsulas-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62424,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cappuccino-duas-capsulas-oficial.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 421,
+          "column": 4,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cappuccino-duas-capsulas-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b71f8ceb3088653adf8a90a25c15430c0f75a32ad72b7cca501d1a0d0abc98df/dolce-gusto-cappuccino-duas-capsulas-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b71f8ceb3088653adf8a90a25c15430c0f75a32ad72b7cca501d1a0d0abc98df/dolce-gusto-cappuccino-duas-capsulas-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T22:37:09.008Z",
+      "verification_etag_or_digest": "b71f8ceb3088653adf8a90a25c15430c0f75a32ad72b7cca501d1a0d0abc98df",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-chocolates-e-chas-oficial.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-chocolates-e-chas-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 51110,
+      "sha256": "04fc01502351e8ab11498e8b00012511fae9a5f4b43e081e2a20fa97c851682c",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-chocolates-e-chas-oficial.webp",
+      "storage_filename": "dolce-gusto-chocolates-e-chas-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/melhores-capsulas-dolce-gusto-2026.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/melhores-capsulas-dolce-gusto-2026.json",
+          "line": 179,
+          "column": 17,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-chocolates-e-chas-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 33041,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-chocolates-e-chas-oficial.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 422,
+          "column": 4,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-chocolates-e-chas-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/04fc01502351e8ab11498e8b00012511fae9a5f4b43e081e2a20fa97c851682c/dolce-gusto-chocolates-e-chas-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/04fc01502351e8ab11498e8b00012511fae9a5f4b43e081e2a20fa97c851682c/dolce-gusto-chocolates-e-chas-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T22:37:09.008Z",
+      "verification_etag_or_digest": "04fc01502351e8ab11498e8b00012511fae9a5f4b43e081e2a20fa97c851682c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp",
       "local_url": "/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp",
       "media_kind": "image",
@@ -42107,6 +42377,68 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.365Z",
       "verification_etag_or_digest": "e1dc1309fbb917199d80539e0499a73c0d1dd6241733c2516bb28deca9f853a4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-espresso-intenso-e-cappuccino-oficial.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-espresso-intenso-e-cappuccino-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 73070,
+      "sha256": "8b96b8430935873d75a3bb908e4120a049fbc08fbc84ca4877bca550a8dc774a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-espresso-intenso-e-cappuccino-oficial.webp",
+      "storage_filename": "dolce-gusto-espresso-intenso-e-cappuccino-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/quanto-custa-capsula-dolce-gusto.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/quanto-custa-capsula-dolce-gusto.md",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/quanto-custa-capsula-dolce-gusto.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-espresso-intenso-e-cappuccino-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/quanto-custa-capsula-dolce-gusto.md",
+          "line": 310,
+          "column": 170,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-espresso-intenso-e-cappuccino-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62396,
+          "column": 15,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-espresso-intenso-e-cappuccino-oficial.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 423,
+          "column": 4,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-espresso-intenso-e-cappuccino-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8b96b8430935873d75a3bb908e4120a049fbc08fbc84ca4877bca550a8dc774a/dolce-gusto-espresso-intenso-e-cappuccino-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8b96b8430935873d75a3bb908e4120a049fbc08fbc84ca4877bca550a8dc774a/dolce-gusto-espresso-intenso-e-cappuccino-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T22:37:09.008Z",
+      "verification_etag_or_digest": "8b96b8430935873d75a3bb908e4120a049fbc08fbc84ca4877bca550a8dc774a",
       "verification_status": "verified"
     },
     {
@@ -42215,6 +42547,114 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.365Z",
       "verification_etag_or_digest": "4283f8b1a5d908d15c5587a295605559fda451b69f8517fca25fe1e3adfdfe93",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-original-e-neo-oficial.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-original-e-neo-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56222,
+      "sha256": "0bcedfda873df42dfa44599b8a15b300e120be9d5f5b8583e5c45f13309a4c82",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-original-e-neo-oficial.webp",
+      "storage_filename": "dolce-gusto-original-e-neo-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/quanto-custa-capsula-dolce-gusto.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/quanto-custa-capsula-dolce-gusto.json",
+          "line": 226,
+          "column": 17,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-original-e-neo-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62600,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-original-e-neo-oficial.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 424,
+          "column": 4,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-original-e-neo-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0bcedfda873df42dfa44599b8a15b300e120be9d5f5b8583e5c45f13309a4c82/dolce-gusto-original-e-neo-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0bcedfda873df42dfa44599b8a15b300e120be9d5f5b8583e5c45f13309a4c82/dolce-gusto-original-e-neo-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T22:37:09.008Z",
+      "verification_etag_or_digest": "0bcedfda873df42dfa44599b8a15b300e120be9d5f5b8583e5c45f13309a4c82",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-starbucks-e-kopenhagen-oficial.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-starbucks-e-kopenhagen-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 59946,
+      "sha256": "3816e5d406262a0050909db9a68368c1c2721c3cf060e2308738285787efe953",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-starbucks-e-kopenhagen-oficial.webp",
+      "storage_filename": "dolce-gusto-starbucks-e-kopenhagen-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/melhores-capsulas-dolce-gusto-2026.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/melhores-capsulas-dolce-gusto-2026.json",
+          "line": 205,
+          "column": 17,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-starbucks-e-kopenhagen-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 33067,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-starbucks-e-kopenhagen-oficial.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 425,
+          "column": 4,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-starbucks-e-kopenhagen-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3816e5d406262a0050909db9a68368c1c2721c3cf060e2308738285787efe953/dolce-gusto-starbucks-e-kopenhagen-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3816e5d406262a0050909db9a68368c1c2721c3cf060e2308738285787efe953/dolce-gusto-starbucks-e-kopenhagen-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T22:37:09.008Z",
+      "verification_etag_or_digest": "3816e5d406262a0050909db9a68368c1c2721c3cf060e2308738285787efe953",
       "verification_status": "verified"
     },
     {
@@ -43326,6 +43766,68 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "f245cfa4c894a88412346c3cec09a24d6d23711805a5fb2b339a80379c664152",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-capa-oficial.webp",
+      "local_url": "/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-capa-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78294,
+      "sha256": "14925510cb565498111fea1699fdfcc3bb54bff89afd8dce05313d616f1983a3",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "melhores-capsulas-dolce-gusto-capa-oficial.webp",
+      "storage_filename": "melhores-capsulas-dolce-gusto-capa-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/melhores-capsulas-dolce-gusto-2026.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/melhores-capsulas-dolce-gusto-2026.md",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/melhores-capsulas-dolce-gusto-2026.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-capa-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/melhores-capsulas-dolce-gusto-2026.md",
+          "line": 336,
+          "column": 108,
+          "literal": "/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-capa-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 32884,
+          "column": 15,
+          "literal": "/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-capa-oficial.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 426,
+          "column": 4,
+          "literal": "/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-capa-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/14925510cb565498111fea1699fdfcc3bb54bff89afd8dce05313d616f1983a3/melhores-capsulas-dolce-gusto-capa-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/14925510cb565498111fea1699fdfcc3bb54bff89afd8dce05313d616f1983a3/melhores-capsulas-dolce-gusto-capa-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T22:37:09.008Z",
+      "verification_etag_or_digest": "14925510cb565498111fea1699fdfcc3bb54bff89afd8dce05313d616f1983a3",
       "verification_status": "verified"
     },
     {

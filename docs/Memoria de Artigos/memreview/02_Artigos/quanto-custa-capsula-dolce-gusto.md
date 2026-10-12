@@ -6,9 +6,9 @@ parceiro: "[[Dolce-Gusto]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de custo"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy (decisão do Bruno), depois da oferta nova da YesStyle; as imagens novas já estão no CDN"
 bloqueado_por: null
 score_autoridade: 81 # 0 a 100
 score_conversao: 75 # 0 a 100
@@ -303,3 +303,11 @@ Observação para a redação: no preço do dia da caixa avulsa (R$ 17,90) a ass
 Google (PAA e topo do SERP de "qual capsula dolce gusto rende mais", "quanto custa uma capsula dolce gusto" e "kit capsulas dolce gusto", `google.com.br`, `hl=pt-BR`, 12/10/2026, coletado pelo lead; seção 3).
 
 Não consultados ou sem sucesso: `dolce-gusto.com.br` (falhou); `/sobre/faq` (conteúdo em sanfona não carregou no texto da página); manuais em PDF (não necessários para esta pauta); links de afiliado (não clicados); preços de varejo e de terceiros (fora do escopo).
+
+## Redação (12/10/2026)
+
+- JSON em `content/reviews/quanto-custa-capsula-dolce-gusto.json` (id 364), no fim do `_manifest.json`. É a fonte da verdade do texto.
+- Imagens (decisão do Bruno: fotos oficiais de produto da loja, baixadas no navegador com a permissão dele; origem em `midia-staging\2026-10-12-fase3\ORIGEM.md`): capa `/images/reviews/dolcegusto/dolce-gusto-espresso-intenso-e-cappuccino-oficial.webp`, 1600×900, as caixas de Espresso Intenso e Cappuccino; no corpo, as duas cápsulas do Cappuccino, Café au Lait e Latte Macchiato (1 contra 2 cápsulas por bebida), Original e NEO lado a lado, todas em 1200×675, e a foto da DGusta que já estava no CDN.
+- Preços, cápsulas por caixa, montador DGusta, combos, NEO, assinatura e regulamento relidos no navegador em 12/10/2026 à noite (21h56 a 22h30 UTC); batem com os do briefing, com o Café au Lait Desnatado e o Vanilla a R$ 17,90 no dia. Toda conta por bebida é preço da caixa ÷ bebidas da caixa, com a fórmula no texto.
+- Ficaram de fora, pela matriz: preço com o CECI, preço de outras lojas e de compatíveis, ml por nível, código próprio da loja.
+- Revisão Job 3 (12/10/2026): aprovado com ajustes. Aplicados: o "x5 + x5" como dois tipos de cápsula (o Chai e os chocolates de duas cápsulas não levam café), o preço do dia da promoção só para as caixas Original e o DGusta (NEO, combos e assinatura têm desconto próprio), a cápsula XL "não consta do catálogo de hoje", o preço do adaptador datado, a FAQ de onde é mais barato "entre as opções da loja oficial", o preço cheio por cápsula da caixa de 10 e a embalagem NEO. Ficou de fora a ressalva de frete grátis sem NEO: o regulamento também dá frete grátis acima de R$ 100 na seleção de cafés NEO.
