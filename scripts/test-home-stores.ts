@@ -248,19 +248,19 @@ const capasFixture: ReviewFixture[] = [
   { ...review(12, 'capa-com-nota', 'magalu', '2026-10-11'), rating: 5 },
   { ...review(13, 'capa-no-topo', 'magalu', '2026-10-10'), imagePosition: 'top' },
 ];
-const coverOf = ({ slug, imageFit, imagePosition }: Pick<HomeLatestArticle, 'slug' | 'imageFit' | 'imagePosition'>) => ({
+const capaOf = ({ slug, imageFit, imagePosition }: Pick<HomeLatestArticle, 'slug' | 'imageFit' | 'imagePosition'>) => ({
   slug,
   imageFit,
   imagePosition,
 });
 const capasLatest = getHomeLatest(capasFixture, [store('magalu')]);
-assert.deepEqual(capasLatest.map(coverOf), [
+assert.deepEqual(capasLatest.map(capaOf), [
   { slug: 'capa-inteira', imageFit: 'contain', imagePosition: undefined },
   { slug: 'capa-com-nota', imageFit: 'contain', imagePosition: undefined },
   { slug: 'capa-no-topo', imageFit: 'cover', imagePosition: 'top' },
 ]);
 const [capasTab] = getHomeStoreTabs(capasFixture, [store('magalu')]);
-assert.deepEqual(capasTab.articles.map(coverOf), capasLatest.map(coverOf), 'a vitrine dá a mesma capa que o "Acabou de sair"');
+assert.deepEqual(capasTab.articles.map(capaOf), capasLatest.map(capaOf), 'a vitrine dá a mesma capa que o "Acabou de sair"');
 
 // O contain fica inteiro sobre fundo branco e dispensa o imagePosition; o cover recorta pelo imagePosition.
 assert.deepEqual(cardImageLook('contain', 'top', 'p-3'), { className: 'bg-white object-contain p-3' });

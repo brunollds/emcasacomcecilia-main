@@ -6,6 +6,7 @@ import { imageConfigDefault, type ImageConfigComplete, type RemotePattern } from
 import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.shared-runtime';
 
 import { ViewTransitionLink } from '@/components/ViewTransitionLink';
+import { LocalizedReviewHub } from '@/components/review/LocalizedReviewHub';
 import { ReviewShelfCard, ReviewShelfRow } from '@/components/reviews/ReviewShelfCard';
 import { ReviewsBrowser } from '@/components/reviews/ReviewsBrowser';
 import { ReviewsNewRow } from '@/components/reviews/ReviewsNewRow';
@@ -14,6 +15,7 @@ import { StoreBubbleLink } from '@/components/reviews/StoreBubbleLink';
 import { TrackedReviewsLink } from '@/components/reviews/TrackedReviewsLink';
 import { cardDecorAt } from '@/components/ui/cardDecor';
 import { ScrollRow } from '@/components/ui/ScrollRow';
+import type { Review } from '@/lib/content/types';
 import { COUPONS } from '@/lib/couponsData';
 import { publishedReviews } from '@/lib/data';
 import { getStoreArticlePageSlugs, getStoreArticlesPage } from '@/lib/homeStores';
@@ -558,6 +560,51 @@ assert.ok(row.includes('>Magalu</span>'));
 assert.ok(row.includes('data-vt-name="review-hero-magalu-1"'));
 const rowNoStore = render(createElement(ReviewShelfRow, { article: article('magalu-1'), placement: 'store_list', showStore: false }));
 assert.ok(!rowNoStore.includes('>Magalu</span>'));
+
+// A capa pela regra única (src/lib/cardImage.ts): inteira sobre fundo branco no contain, cortada e com o
+// recorte do imagePosition no cover. A miniatura da linha é pequena e leva o respiro menor (p-1).
+const imageOf = (html: string, slug: string) => {
+  const tag = Array.from(html.matchAll(/<img\b[^>]*>/g), ([image]) => image).find((candidate) => candidate.includes(slug));
+  assert.ok(tag, `sem a foto de ${slug}`);
+  return tag;
+};
+const rowContain = render(createElement(ReviewShelfRow, { article: article('agua'), placement: 'reviews_list', showStore: false }));
+assert.match(imageOf(rowContain, 'agua'), /class="[^"]*\bbg-white object-contain p-1\b/, 'linha: a foto com nota fica inteira');
+assert.doesNotMatch(imageOf(rowContain, 'agua'), /object-position/, 'linha: o contain não leva recorte');
+
+// O hub de /<locale>/reviews desenha a capa pela mesma regra, com o respiro de p-4. Hoje nenhuma versão fora
+// do PT tem nota sem imageFit nem imagePosition; o fixture cobre o caso para o dia em que alguma tiver.
+function hubReview(id: number, slug: string, overrides: Partial<Review> = {}): Review {
+  return {
+    id,
+    slug,
+    locale: 'en',
+    type: 'Guide',
+    title: `Title ${slug}`,
+    description: `Description ${slug}`,
+    publishedAt: '2026-10-01',
+    publishedAtISO: '2026-10-01',
+    image: `/images/reviews/teste/${slug}.webp`,
+    pros: [],
+    cons: [],
+    ...overrides,
+  };
+}
+const localizedHub = render(
+  createElement(LocalizedReviewHub, {
+    locale: 'en',
+    reviews: [
+      hubReview(21, 'hub-com-nota', { rating: 5 }),
+      hubReview(22, 'hub-no-topo', { imagePosition: 'top' }),
+      hubReview(23, 'hub-nota-cobrindo', { rating: 5, imageFit: 'cover' }),
+    ],
+  })
+);
+assert.match(imageOf(localizedHub, 'hub-com-nota'), /class="[^"]*\bbg-white object-contain p-4\b/, 'hub: nota sem imageFit fica inteira');
+assert.doesNotMatch(imageOf(localizedHub, 'hub-com-nota'), /object-position/, 'hub: o contain não leva recorte');
+assert.match(imageOf(localizedHub, 'hub-no-topo'), /class="[^"]*\bobject-cover\b/, 'hub: sem nota, a capa cobre');
+assert.match(imageOf(localizedHub, 'hub-no-topo'), /style="[^"]*object-position:50% 10%/, 'hub: o imagePosition recorta o cover');
+assert.match(imageOf(localizedHub, 'hub-nota-cobrindo'), /class="[^"]*\bobject-cover\b/, 'hub: o imageFit explícito vale mais que a nota');
 
 // Bolinha da loja como link: href da subpágina, classes da bolinha, posição (--i), nome e total.
 const bubble = render(createElement(StoreBubbleLink, { store: hub.stores[0], index: 2, placement: 'reviews_stores' }));
