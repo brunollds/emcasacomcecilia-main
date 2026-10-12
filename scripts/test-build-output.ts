@@ -1264,10 +1264,13 @@ function assertStoreCutout(where: string, body: string, copyable: boolean) {
     copyable ? 1 : 0,
     `${where}: ${copyable ? 'a tesoura do recorte do topo parada' : 'a tesoura do recorte do topo corre sem botão de copiar'}`
   );
+  // O círculo da tesoura do topo é amarelo e continua amarelo no verde: não leva o fundo de papel do hub.
+  assert.ok(!cutout.includes('recorte-tesoura-papel'), `${where}: a tesoura do recorte do topo com o fundo de papel (.recorte-tesoura-papel)`);
 }
 
 let couponMotionPages = 0;
 let storeCutouts = 0;
+assert.ok(couponStorePages.length > 0, 'páginas de loja: nenhuma loja de couponsData para conferir');
 for (const { pagePath, store } of couponStorePages) {
   assert.ok(store, `${pagePath}: sem a loja em couponsData`);
   const body = builtBody(pagePath);
@@ -1297,6 +1300,7 @@ for (const { pagePath, store } of couponStorePages) {
 }
 
 let yesStyleWithoutPromos = false;
+assert.ok(yesStyleHubs.length > 0, 'páginas de loja: nenhuma página da YesStyle para conferir');
 for (const { locale, hubPath } of yesStyleHubs) {
   const resolved = resolveYesStylePage(locale);
   assert.ok(resolved, `${hubPath}: sem os dados da YesStyle`);
@@ -1314,8 +1318,9 @@ assert.ok(storeCutouts > 0, 'páginas de loja: nenhum recorte com código nos da
 if (yesStyleWithoutPromos) {
   console.log('ℹ️ YesStyle sem cupons da loja ativos: a trava dos cupons da lista não teve o que conferir.');
 }
-// Controles: o recorte do topo que perde o .recorte numa loja com código, que o ganha numa loja sem
-// código e a tesoura que perde a classe derrubam a trava.
+// Controles: derrubam a trava o recorte do topo que perde o .recorte numa loja com código ou o ganha numa
+// loja sem código, a tesoura que perde a classe, a que corre numa loja sem código e a que ganha o fundo de
+// papel do hub.
 {
   const sample = (copyable: boolean) => {
     const page = couponStorePages.find(({ store }) => store && hasCopyCode(store) === copyable);
@@ -1328,6 +1333,8 @@ if (yesStyleWithoutPromos) {
     [withCode.pagePath, withCode.body.replace(/(<section id="cupom"[^>]*\sclass="[^"]*?) recorte(?=[ "])/, '$1'), true, /sem o \.recorte/],
     [withCode.pagePath, withCode.body.replace(/ recorte-tesoura(?=[ "])/, ''), true, /tesoura do recorte do topo parada/],
     [withoutCode.pagePath, withoutCode.body.replace(/(<section id="cupom"[^>]*\sclass=")/, '$1recorte '), false, /com o \.recorte/],
+    [withCode.pagePath, withCode.body.replace(/(<section id="cupom"[\s\S]*? recorte-tesoura)(?=[ "])/, '$1 recorte-tesoura-papel'), true, /com o fundo de papel/],
+    [withoutCode.pagePath, withoutCode.body.replace(/(<section id="cupom"[\s\S]*?bg-amarelo-cupom)(?=[ "])/, '$1 recorte-tesoura'), false, /corre sem botão de copiar/],
   ];
   for (const [pagePath, mutated, copyable, message] of mutations) {
     const original = copyable ? withCode.body : withoutCode.body;
