@@ -96,7 +96,7 @@ A spec foi ajustada no mesmo commit deste plano, para as duas dizerem o mesmo:
 | `src/components/coupons/CouponStorePage.tsx` | Passa o `copyable`; a caixa de indicação `.recorte`; os "Outros cupons" num `RevealSection`. | 2, 4 |
 | `src/components/YesStyleCouponPage.tsx` | Passa o `copyable`; os cupons da lista `.recorte`. | 2 |
 | `src/app/(pt)/cupons/page.tsx` | O `stampOrder` dos Destaques; as prateleiras num `RevealSection`, com o `CouponShelfItem` e o respiro. | 3, 4 |
-| `src/components/ui/cardDecor.ts` | O `couponCardDecorAt`, com o ímã sempre à direita. | 4 |
+| `src/components/ui/cardDecor.ts` | O `couponCardDecorAt`, com o ímã sempre à direita e nunca amarelo. | 4 |
 | `scripts/test-build-output.ts` | As travas da frente, com controles. | 1–4 |
 | `CLAUDE.md` | A documentação. | 5 |
 

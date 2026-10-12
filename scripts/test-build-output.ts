@@ -1452,8 +1452,8 @@ for (const [file, shelf] of REVEAL_SHELVES) {
 }
 
 // Controles numa prateleira do hub: a posição trocada, o item sem a cascata, o ímã à esquerda (sem a direita,
-// ou com as duas), o cartão sem a sombra do hover, o meio sem o min-w-0, o hover sem motion-safe: e o ímã
-// sem pointer-events-none derrubam a trava.
+// ou com as duas), o ímã amarelo, o cartão sem a sombra do hover, o meio sem o min-w-0, o hover sem
+// motion-safe: e o ímã sem pointer-events-none derrubam a trava.
 {
   const [category] = hubSections.categories;
   const section = between(couponsHubBody, `aria-labelledby="prateleira-${category.id}"`, ['aria-labelledby="prateleira-', 'aria-labelledby="perguntas"']);
@@ -1462,6 +1462,7 @@ for (const [file, shelf] of REVEAL_SHELVES) {
     [section.replace('class="revela ', 'class="'), /cartões com a cascata/],
     [section.replace('-top-3 -right-3', '-top-3 -left-3'), /o ímã sem -right-3/],
     [section.replace('-top-3 -right-3', '-top-3 -right-3 -left-3'), /ímã à esquerda/],
+    [section.replace('-top-3 -right-3 bg-marinho', '-top-3 -right-3 bg-marinho bg-amarelo-cupom'), /ímã amarelo/],
     [section.replace('motion-safe:group-hover/cupom:shadow-[4px_4px_0_var(--color-marinho)]', ''), /sem a sombra do hover/],
     [section.replace('group/cupom relative flex min-w-0 flex-1', 'group/cupom relative flex flex-1'), /o meio sem min-w-0/],
     [section.replace('motion-safe:hover:-translate-y-1', 'hover:-translate-y-1'), /o meio sem motion-safe:hover:-translate-y-1/],
