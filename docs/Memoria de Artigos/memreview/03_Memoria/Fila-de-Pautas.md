@@ -12,3 +12,33 @@ Ordem combinada: primeiro as duas da YesStyle e depois as do Bing, todas depois 
 | 4 | Sofá na caixa ou sofá montado: qual dura mais | DAMIE | PT | Copilot: "sofás armados en caja vs sofás ya armados calidad duración" (23 citações, 39,66% das citações) | Bruno, 12/10/2026 | Só em PT: a DAMIE só entrega no Brasil |
 | 5 | Poltrona reclinável elétrica para até 150 kg | DAMIE | PT | Bing: "poltrona 150 kg avaliações elétrica reclinável" (posição 1), "poltrona elevatória para idosos recomendação" (6) | Bruno, 12/10/2026 | Antes do briefing, confirmar que não é tema do subdomínio da DAMIE, onde está o guia de poltrona para idosos |
 | 6 | Preço por cápsula: Dolce Gusto × Nespresso × Delta Q × 3 Corações | Dolce Gusto | PT | Bing: "preço capsulas café nespresso vs deltaq vs dolce gusto", "compara os precos por capsula entre deltaq, nespresso e dolcegusto" | Bruno, 12/10/2026 | Não é artigo novo: atualiza o `quanto-custa-capsula-dolce-gusto` depois que ele for ao ar, para não concorrer com ele |
+
+## Temas para depois (não prioritários)
+
+Têm demanda, mas não são de decisão de compra, ou dependem de algo que ainda não existe. Não foram descartados: voltam quando a fila acima esvaziar ou quando a condição mudar.
+
+| Tema | Sinal | Origem | Melhor formato | Condição para voltar |
+|---|---|---|---|---|
+| Pontos da Dolce Gusto NEO pelo app (ganhar pontos preparando cafés) | Copilot: cerca de 86 citações somando as variações ("Dolce Gusto NEO ganhar pontos preparando cafés app" e outras) | AI Search Queries do Bing, 12/10/2026 | Seção do `clube-dolce-gusto-como-funciona`, não artigo novo | Fila de cima vazia |
+| Validade, resgate e cadastro do código da caixa no Clube Dolce Gusto | Bing: "dolce gusto club" (117 impressões, posição 5,9) e cerca de 60 variações; Copilot: Dolce Lovers Club e Comprou Dobrou, mais de 200 citações | Keyword Report e AI Search Queries do Bing, 12/10/2026 | Atualização do `clube-dolce-gusto-como-funciona` | Com a sessão de melhorias: conferir se ela já cobriu |
+| Prazo de entrega da loja Dolce Gusto | Copilot: "prazo de entrega Dolce Gusto Brasil" (82 citações) e "prazos de entrega" (18) | AI Search Queries do Bing, 12/10/2026 | Seção do `dolce-gusto-e-confiavel` | Com a sessão de melhorias: conferir se ela já cobriu |
+| Quantas xícaras por dia uma máquina Dolce Gusto aguenta | Copilot: 10 citações em espanhol e 3 em português de Portugal; Bing: "quantas chávenas por dia suporta" | Bing, 12/10/2026 | FAQ num guia de máquinas | Só com fonte oficial (manual ou atendimento); hoje não há |
+| Lava e seca Samsung ou LG | Rodada do GSC de 11/10/2026 | Pautas de decisão de compra | Comparativo | Recusada em 11/10/2026: eletro de marketplace não é foco. Volta se a parceria de eletrodomésticos fechar |
+
+## Sinais de otimização de artigos publicados (12/10/2026)
+
+Os artigos abaixo já existem e o Bing os põe entre a 4ª e a 9ª posição, ou o Copilot já os cita. A otimização é da sessão de melhorias, não do Job 1. A lista fica aqui como registro do que o Bing mostrou.
+
+- **Assinatura Dolce Gusto (os dois artigos):**
+  - trocar sabores sem perder o desconto: Bing com 14 impressões, Copilot com 35 citações;
+  - frete grátis: Copilot com cerca de 100 citações;
+  - refazer a assinatura sem perder benefícios: 33 citações;
+  - frequência ideal: 29 citações.
+- **Cupom CECI da Dolce Gusto:** "como usar cupom junto com promoções", com 164 citações no Copilot.
+- **Promoção "compre caixas e ganhe a máquina":** o site já leva de 53% a 68% das citações. Manter com a campanha do momento.
+- **YesStyle:**
+  - "is yesstyle legit" tem 301 citações no Copilot;
+  - "yesstyle influencer code" tem 41 citações em EN, PT e FR. O termo pode entrar nos artigos do CECILIA010, sempre como código de recompensa.
+- **Nutren Senior Zero Lactose:** "nutren sem lactose", com 44 citações.
+- **Cupom IWS:** buscas de código e cupom entre a 5ª e a 9ª posição.
+- **Receita de enroladinho de salsicha com massa folhada:** "receita de salsichas em massa folhada" é a busca com mais impressões no Bing (339, posição 8,9).
