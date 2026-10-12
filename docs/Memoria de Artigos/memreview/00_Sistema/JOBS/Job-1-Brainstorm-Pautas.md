@@ -5,6 +5,17 @@
 ## 1. Missão
 Identificar dores reais, dúvidas técnicas de pós-compra e lacunas de informação sobre marcas e produtos parceiros que o site oficial não responde ou responde de forma confusa.
 
+### Fontes de demanda
+- **Google Search Console:** export de Desempenho (consultas, páginas, países), últimos 3 meses.
+- **Bing Webmaster Tools** (fonte desde 12/10/2026, decisão do Bruno), dois relatórios:
+  - **Keyword Report:** buscas no Bing, com impressões, cliques e posição;
+  - **AI Search Queries Report:** perguntas em que o Copilot citou o site, com intenção, tema, citações e a fatia de citações do site. Uma fatia alta indica pergunta em que já somos referência. A pauta deve manter o artigo citado atualizado, em vez de concorrer com ele.
+
+  Os exports ficam em `Downloads\emcasacomcecilia.com_KeywordReport_<data>.csv` e `..._AISearchQueriesReport_<data>.csv`.
+- **Autocompletar** (`suggestqueries.google.com`, client=firefox) e **PAA** (no navegador embutido).
+
+**Prioridade:** temas de decisão de compra (X ou Y, vale a pena, qual escolher). Outros temas não são descartados, só não são prioridade.
+
 ---
 
 ## 2. Portões Obrigatórios (Hard Gates — Eliminatórios)
@@ -37,7 +48,7 @@ Defina o objetivo primário da peça:
 | Critério | Peso | O que avalia |
 |---|---|---|
 | **1. Dor / Dúvida real do usuário** | **25 pts** | É uma dúvida urgente, frustrante ou frequente de quem usa o produto? |
-| **2. Evidência de demanda (GSC / Buscas)** | **20 pts** | Há termos de busca reais digitados por usuários no Google? |
+| **2. Evidência de demanda (GSC / Bing / Buscas)** | **20 pts** | Há termos de busca reais digitados por usuários no Google ou no Bing, ou perguntas em que o Copilot já cita o site? |
 | **3. Valor exclusivo além do oficial** | **20 pts** | Acrescentamos síntese, experiência real, fotos ou clareza que a marca não dá? |
 | **4. Necessidade de visita (Resistência à compressão por IA)** | **15 pts** | A resposta exige abrir a página (tabelas, fotos, guias complexos) em vez de ser respondida em uma linha? |
 | **5. Contribuição para o cluster & links internos** | **10 pts** | Fortalece o ecossistema do parceiro e permite linkagem contextual inteligente? |
