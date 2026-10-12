@@ -103,7 +103,7 @@ Ao deitar de lado, a distância entre a **ponta externa do seu ombro e a base da
 * Se o travesseiro for alto demais: a cabeça fica levantada de forma não natural, pinçando nervos do pescoço.
 
 **Recomendações IWS para dormir de lado:**
-* **Snow®:** chega em casa na altura máxima (18cm) e o próprio usuário retira porções do enchimento de memory foam flakes até achar o ponto certo para o seu biotipo — é o único travesseiro do catálogo de fato regulável, sem precisar trocar de produto. Vem em dois tamanhos de base (Regular 50x70cm e Plus 50x90cm);
+* **Snow®:** chega em casa na altura máxima (18cm) e o próprio usuário retira porções do enchimento de memory foam flakes até achar o ponto certo para o seu biotipo. Os outros reguláveis do catálogo são da mesma família: Snow® Kids, Snow® Mini e Snow® Body (catálogo da loja, 11/10/2026). Vem em dois tamanhos de base (Regular 50x70cm e Plus 50x90cm);
 * **Original Látex®:** para quem prefere não ajustar nada, vem pronta em três alturas fixas — **P (11cm), M (13cm) e G (15cm)**;
 * Outros modelos de perfil estruturado que também funcionam bem de lado: **Cervical Coluna Relax®** e **Bubble Gel®** (cuja cavidade central alivia a pressão na orelha);
 * O uso complementar do **Apoio de Joelhos Coluna Relax®**: posicionado entre os joelhos, ele impede que a perna de cima cruze para a frente na cama, mantendo o quadril e a lombar alinhados a noite toda.
@@ -144,7 +144,7 @@ Além dos travesseiros clássicos de cama, a coleção atende a situações de m
 | Acordo com dor na cervical / nuca | **Ergonômica / Cervical** | **Cervical Coluna Relax®** | Curvatura anatômica que descomprime as vértebras |
 | Sofro de alergia ou rinite | **Antialérgica** | **Airgelly® 2.0** | Único 100% lavável do catálogo, combate ácaros e bactérias |
 | Sinto muito calor na cabeça à noite | **Memory Foam Gel** | **Snow® / Ergoblu™** | Capa FrostyCover de toque frio, dissipação térmica ativa |
-| Quero ajustar a altura eu mesmo até achar o ponto certo | **Regulagem de Altura** | **Snow®** | Único modelo de fato regulável (retira-se o enchimento) |
+| Quero ajustar a altura eu mesmo até achar o ponto certo | **Regulagem de Altura** | **Snow®** | Altura ajustável retirando o enchimento; a família Snow® é a única linha regulável do catálogo |
 | Já sei a altura certa e prefiro não ajustar nada | **Regulagem de Altura** | **Original Látex®** | Três alturas fixas declaradas (P/M/G) |
 | Durmo de lado e quero suporte firme | **Látex Natural** | **Original Látex®** | Retorno elástico imediato, não deforma |
 | Quero o toque macio clássico de hotel | **Fibras Nobres / Pluma** | **Magnum Pluma AirFiber** | Fofinho, moldável com as mãos e hipoalergênico |
@@ -167,7 +167,7 @@ Um travesseiro de alta tecnologia dura muitos anos, mas exige cuidados de higien
 Toda a linha de travesseiros e protetores pode ser adquirida diretamente no e-commerce oficial da **I Wanna Sleep**, com entrega para todo o Brasil e garantia de produto original.
 
 * **Cupom de parceria ativo:** `CECIEMCASA`
-* **Benefício:** 10% de desconto (`discountNumber: 10` em `couponsData.ts`), válido em todo o site oficial — não só travesseiros, também colchões, cobertores e demais acessórios.
+* **Benefício:** 10% de desconto (`discountNumber: 10` em `couponsData.ts`), válido na loja online — não só travesseiros, também cobertores, pillow tops e demais acessórios. Colchões e box não são vendidos pelo site, só nas lojas físicas de Belo Horizonte (dossiê `01_Parceiros/I-Wanna-Sleep.md`), e o cupom é da loja online.
 * **Como utilizar:** No checkout da loja virtual, digite o código **CECIEMCASA** no campo de cupom antes de selecionar a forma de pagamento.
 
 Para consultar todas as regras e promoções ativas da marca, acesse o nosso [guia do cupom I Wanna Sleep](/cupons/i-wanna-sleep).

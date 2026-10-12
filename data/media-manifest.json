@@ -44666,6 +44666,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
+      "local_url": "/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 100040,
+      "sha256": "12ca7eef1d44b77cb6e3197d981d59b8fbf27e656040e6ed4aca8b7f34615bc8",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-insider-colecao-descontos-inteligentes.webp",
+      "storage_filename": "black-friday-insider-colecao-descontos-inteligentes.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-insider.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-insider.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-insider.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-insider.md",
+          "line": 145,
+          "column": 10,
+          "literal": "/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 53591,
+          "column": 15,
+          "literal": "/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/12ca7eef1d44b77cb6e3197d981d59b8fbf27e656040e6ed4aca8b7f34615bc8/black-friday-insider-colecao-descontos-inteligentes.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/12ca7eef1d44b77cb6e3197d981d59b8fbf27e656040e6ed4aca8b7f34615bc8/black-friday-insider-colecao-descontos-inteligentes.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-10T17:16:31.433Z",
+      "verification_etag_or_digest": "12ca7eef1d44b77cb6e3197d981d59b8fbf27e656040e6ed4aca8b7f34615bc8",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/insider-confiavel-hero-oficial.webp",
       "local_url": "/images/reviews/insider/insider-confiavel-hero-oficial.webp",
       "media_kind": "image",
@@ -45537,6 +45591,60 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "529f2308ef5db165fb03970f6a5cf5083f0c6f12ad1f74f9fcb574da2d64a90b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+      "local_url": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47328,
+      "sha256": "ed3c73c578512d326e53673d451cd9c99da8d99306018b0d27cfb42224c9bba2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+      "storage_filename": "black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-i-wanna-sleep.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-i-wanna-sleep.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-i-wanna-sleep.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-i-wanna-sleep.md",
+          "line": 150,
+          "column": 10,
+          "literal": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 53254,
+          "column": 15,
+          "literal": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ed3c73c578512d326e53673d451cd9c99da8d99306018b0d27cfb42224c9bba2/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ed3c73c578512d326e53673d451cd9c99da8d99306018b0d27cfb42224c9bba2/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-10T02:09:35.109Z",
+      "verification_etag_or_digest": "ed3c73c578512d326e53673d451cd9c99da8d99306018b0d27cfb42224c9bba2",
       "verification_status": "verified"
     },
     {
@@ -48718,6 +48826,68 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/magalu/black-friday-magalu-lu.webp",
+      "local_url": "/images/reviews/magalu/black-friday-magalu-lu.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 21960,
+      "sha256": "efb9b652338a6d96e824fb516c888bc8791b4aa15e169ee3625237239d22b2e5",
+      "width": 768,
+      "height": 432,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "black-friday-magalu-lu.webp",
+      "storage_filename": "black-friday-magalu-lu.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-magalu.json",
+        "docs/Memoria de Artigos/memreview/01_Parceiros/Magalu.md",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-magalu.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-magalu.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/magalu/black-friday-magalu-lu.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/Magalu.md",
+          "line": 80,
+          "column": 4,
+          "literal": "/images/reviews/magalu/black-friday-magalu-lu.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-magalu.md",
+          "line": 176,
+          "column": 10,
+          "literal": "/images/reviews/magalu/black-friday-magalu-lu.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 54237,
+          "column": 15,
+          "literal": "/images/reviews/magalu/black-friday-magalu-lu.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/efb9b652338a6d96e824fb516c888bc8791b4aa15e169ee3625237239d22b2e5/black-friday-magalu-lu.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/efb9b652338a6d96e824fb516c888bc8791b4aa15e169ee3625237239d22b2e5/black-friday-magalu-lu.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-11T18:20:30.122Z",
+      "verification_etag_or_digest": "efb9b652338a6d96e824fb516c888bc8791b4aa15e169ee3625237239d22b2e5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/casa-lets-fachada.webp",
       "local_url": "/images/reviews/letseatit/casa-lets-fachada.webp",
       "media_kind": "image",
@@ -49359,6 +49529,60 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "c36a7842e8f5c134c57cc243a756de2c66c5e0947ef76ef84607fd56ebaff5b5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
+      "local_url": "/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 51492,
+      "sha256": "51b540af3a9d7d954c54e61a032dc2c56e2ea61d5989b6acfb48ddb5d5494b0a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-nestle-nutre-nutren-senior-lata.webp",
+      "storage_filename": "black-friday-nestle-nutre-nutren-senior-lata.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-nestle-nutre.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-nestle-nutre.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-nestle-nutre.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-nestle-nutre.md",
+          "line": 143,
+          "column": 10,
+          "literal": "/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 53911,
+          "column": 15,
+          "literal": "/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/51b540af3a9d7d954c54e61a032dc2c56e2ea61d5989b6acfb48ddb5d5494b0a/black-friday-nestle-nutre-nutren-senior-lata.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/51b540af3a9d7d954c54e61a032dc2c56e2ea61d5989b6acfb48ddb5d5494b0a/black-friday-nestle-nutre-nutren-senior-lata.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-10T17:16:31.434Z",
+      "verification_etag_or_digest": "51b540af3a9d7d954c54e61a032dc2c56e2ea61d5989b6acfb48ddb5d5494b0a",
       "verification_status": "verified"
     },
     {
@@ -52271,6 +52495,116 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/shein/black-friday-shein-cecilia.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32226,
+      "sha256": "58eddcb4588713b7d59b4275795e32aae7d5173b13f72b3b36db3972bc99659c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-cecilia.webp",
+      "storage_filename": "black-friday-shein-cecilia.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein-date-e-tasse.json",
+        "content/reviews/black-friday-shein-dates-et-taxes.json",
+        "content/reviews/black-friday-shein-fechas-impuestos.json",
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "content/reviews/shein-black-friday-ja.json",
+        "content/reviews/shein-black-friday-ko.json",
+        "content/reviews/shein-black-friday-termine-steuern.json",
+        "content/reviews/shein-black-friday-zh-hans.json",
+        "content/reviews/shein-black-friday-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein-date-e-tasse.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-shein-dates-et-taxes.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-shein-fechas-impuestos.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-termine-steuern.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/58eddcb4588713b7d59b4275795e32aae7d5173b13f72b3b36db3972bc99659c/black-friday-shein-cecilia.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/58eddcb4588713b7d59b4275795e32aae7d5173b13f72b3b36db3972bc99659c/black-friday-shein-cecilia.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-11T22:10:09.408Z",
+      "verification_etag_or_digest": "58eddcb4588713b7d59b4275795e32aae7d5173b13f72b3b36db3972bc99659c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/sofa-damie-modular-hero.webp",
       "local_url": "/images/reviews/sofa-damie-modular-hero.webp",
       "media_kind": "image",
@@ -53543,6 +53877,203 @@
       "uploaded_at": null,
       "verified_at": "2026-09-28T18:40:28.134Z",
       "verification_etag_or_digest": "b88ecc0db2fcfe57f50fa9622bde683d07d1695a7da134b0e785b3d1016a0758",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+      "local_url": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 34300,
+      "sha256": "acc8bfa0eab2bc36e1a9d5c0d11262ba6a242324c6ea1055aeb5194ab11e1658",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-yesstyle-cecilia.webp",
+      "storage_filename": "black-friday-yesstyle-cecilia.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-yesstyle-date-e-coupon.json",
+        "content/reviews/black-friday-yesstyle-dates-et-coupons.json",
+        "content/reviews/black-friday-yesstyle-fechas-cupones.json",
+        "content/reviews/black-friday-yesstyle.json",
+        "content/reviews/yesstyle-black-friday-dates-coupons.json",
+        "content/reviews/yesstyle-black-friday-ja.json",
+        "content/reviews/yesstyle-black-friday-ko.json",
+        "content/reviews/yesstyle-black-friday-termine-gutscheine.json",
+        "content/reviews/yesstyle-black-friday-zh-hans.json",
+        "content/reviews/yesstyle-black-friday-zh-hant.json",
+        "docs/Memoria de Artigos/memreview/01_Parceiros/YesStyle.md",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-yesstyle.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-yesstyle-date-e-coupon.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-yesstyle-dates-et-coupons.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-yesstyle-fechas-cupones.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-yesstyle.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-black-friday-dates-coupons.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-black-friday-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-black-friday-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-black-friday-termine-gutscheine.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-black-friday-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-black-friday-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/01_Parceiros/YesStyle.md",
+          "line": 45,
+          "column": 45,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-yesstyle.md",
+          "line": 87,
+          "column": 45,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 54535,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 54773,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 55000,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 55227,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 55454,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 55680,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 55906,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 56132,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 56359,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 56586,
+          "column": 15,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/acc8bfa0eab2bc36e1a9d5c0d11262ba6a242324c6ea1055aeb5194ab11e1658/black-friday-yesstyle-cecilia.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/acc8bfa0eab2bc36e1a9d5c0d11262ba6a242324c6ea1055aeb5194ab11e1658/black-friday-yesstyle-cecilia.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-11T20:26:35.881Z",
+      "verification_etag_or_digest": "acc8bfa0eab2bc36e1a9d5c0d11262ba6a242324c6ea1055aeb5194ab11e1658",
       "verification_status": "verified"
     },
     {

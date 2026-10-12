@@ -21,7 +21,7 @@
   "isNew": false,
   "image": "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-hero-v2.webp",
   "imageAlt": "Dolce Gusto vs Nespresso: qual a melhor para você? Ilustração comparando as duas cafeteiras",
-  "imageFit": "cover",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
   "cons": [],

@@ -5,7 +5,7 @@ modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
 fonte_tecnica: "00_Sistema/JOBS/Job-4-Conformacao-JSON.md (seção 3)"
-ultima_revisao: "2026-10-07"
+ultima_revisao: "2026-10-11"
 ---
 
 # Cluster multilíngue — YesStyle
@@ -30,6 +30,7 @@ cupons, confiança e K-beauty). Família nova não entra nele; a
 | `yesstyle-trust` | `yesstyle-e-confiavel` | 10/10 | publicado |
 | `yesstyle-kbeauty` | [[02_Artigos/k-beauty-o-que-e-onde-comprar]] | 10/10 | publicado |
 | `yesstyle-skincare-30` | `skincare-coreano-30-anos-rotina-iniciante-yesstyle` | 10/10 | publicado em 28/09/2026 |
+| `yesstyle-black-friday` | [[02_Artigos/black-friday-yesstyle]] | 10/10 | publicado em 11/10/2026 |
 
 ## Regras específicas
 
@@ -65,3 +66,28 @@ já rodam no `npm run build`. O `validate:content` não roda lá, por isso entra
 O `test:build-output` confere o `<head>` de todo artigo de família (canonical e
 hreflang dos 10 idiomas, x-default no inglês). À mão, no build gerado, falta só o
 seletor de idioma de uma versão da família.
+
+## Otimização pelo Search Console (11/10/2026)
+
+Export do GSC de 11/10 (3 meses): o EN de `yesstyle-trust` teve 14.427 impressões
+na posição 8,4 com CTR de 0,07%, e o EN de `yesstyle-coupon-guide`, 5.373 na
+posição 9. As datas dos artigos não mudaram.
+
+- `yesstyle-trust`, nas 10 versões: seção nova sobre originalidade e origem (Hong
+  Kong, 2006, YesAsia Holdings 2209.HK; as "400+ marcas autorizadas" ficam como
+  afirmação da YesStyle, sem auditoria independente; as conferências do comprador
+  são sugestão nossa). No FAQ, a pergunta "De onde é a YesStyle?" e a de
+  autenticidade reescrita ("originais ou falsificados?"). O CECILIA010 deixou de ser
+  "permanente": não tem data de validade e segue ativo enquanto a parceria durar.
+  EN e ES ganharam `seoTitle` e `metaDescription` que respondem à pergunta; o ES,
+  título e títulos de seção sem Title Case. FR e DE também saíram do Title Case, e o
+  DE trocou "Rabattcode" por "Reward Code".
+- `yesstyle-coupon-guide`, nas 10 versões: o BTSVIP15, cupom vencido, saiu da
+  legenda e do bullet, e o FAQ ganhou "O que é o código de influenciador da
+  YesStyle?". EN com `seoTitle` e `metaDescription` novos.
+- Releitura das 18 versões traduzidas contra o PT em 11/10, por um agente que não
+  traduziu: sentido igual, nenhum "cupom" para o CECILIA010, escrita certa em
+  zh-hant e zh-hans. Corrigidos depois dela: a frase da validade do código em ko,
+  ja e chinês, e uma redação em FR.
+- Nas versões zh-hant e zh-hans das duas famílias, 獎勵代碼 / 奖励代码 virou 獎勵碼 /
+  奖励码, o nome do contrato e o que as outras famílias da YesStyle já usavam.

@@ -26,6 +26,7 @@ Converter o texto revisado em Markdown para o arquivo JSON estruturado em `conte
    - **Caminhos sempre locais:** `image`, `imageAlt`, `images[].src` e `gallery[].image` usam `/images/reviews/<marca>/<arquivo>.webp`. Nunca escrever URL `cdn.emcasacomcecilia.com` no JSON nem alterar chaves de `localVideoMetadata`/`video-pages`: o mapa de entrega troca pela URL do CDN só na renderização.
    - **Toda imagem NOVA precisa entrar na biblioteca de mídia** (seguir `docs/GUIA-MIDIA-EDITORIAL.md`): arquivo comprimido em `public/images/...`, inventário gerado com `--merge --stdout`, upload FTPS + verificação HTTPS, `prepare-delivery --append` e `phase5-export --write/--check`. No `data/media-manifest.json`, inserir **só as entradas novas**, onde a ordem alfabética as põe, sem reordenar o resto: gravar o `--merge` inteiro reordena blocos antigos e reescreve centenas de referências. Imagem em `public/` fora do manifesto/mapa reprova o `candidate-proof`/`deploy:prepare` (bytes novos não mapeados). Upload é escrita em produção e depende de GO do Bruno.
    - **Proporção antes do `imageFit`:** conferir largura×altura reais. `"contain"` sem `imageAspectRatio` cai numa caixa 16:9 e gera barras brancas em foto quadrada/quase quadrada. Foto quadrada: `"square"`; outras: declarar `imageAspectRatio` (ex.: `1.3333` para 4:3, `1.7758` para 16:9). Hero: `imageAspect` coerente com a foto (`landscape`/`portrait`/`square`).
+   - **A capa nos cartões:** o `imageFit` do topo também decide como a capa aparece nos cartões das listas (a `/reviews`, as subpáginas de loja e a home), que cortam as laterais de uma capa 16:9. Capa com texto escrito, ilustração com legenda, montagem de produtos ou grade de logos: `"contain"` (a capa inteira sobre fundo branco). Foto sem texto: `"cover"`, com o `imagePosition` se o assunto não estiver no centro. Na capa larga do topo do artigo o campo não muda nada.
    - **Carrossel:** várias fotos na mesma seção via `images[]` (cada item com `src`, `alt`, `caption`, `objectFit`, `aspectRatio`). Não repetir no `gallery` as fotos já usadas no corpo.
    - **Origem e licença:** registrar na nota do vault a origem de cada foto (própria, foto de manual, marca) e a autoria; crédito também na `caption` quando a imagem não for da autora.
 4. **Links nas Seções:**
@@ -62,17 +63,17 @@ A build confere estas regras; o resumo técnico também está no `CLAUDE.md`, em
 
    O `type` aparece no cabeçalho do artigo, nos cards da vitrine do idioma e nos relacionados, então vai no idioma da versão, com o sentido do PT e o termo que as famílias já usam (tabela abaixo). Igual ao PT só "Editorial" em `en` e `es`; em `ko`, `ja`, `zh-hant` e `zh-hans`, nunca em letras latinas. O `npm run test:review-i18n` reprova os dois casos. "Editorial" segue o selo do mesmo cabeçalho (`kindLabel.editorial` em `src/components/review/articleCopy.ts`), para os dois rótulos baterem. Rótulo novo: traduzir o sentido e acrescentar a coluna aqui.
 
-   | Idioma | Guia & Cupons | Editorial | Primeiras Impressões |
-   |---|---|---|---|
-   | en | Guide & Coupons | Editorial | First Impressions |
-   | es | Guía & Cupones | Editorial | Primeras Impresiones |
-   | fr | Guide & Coupons | Éditorial | Premières impressions |
-   | de | Ratgeber & Gutscheine | Redaktionell | Erste Eindrücke |
-   | it | Guida e coupon | Editoriale | Prime impressioni |
-   | ko | 가이드 & 쿠폰 | 에디토리얼 | 첫인상 리뷰 |
-   | ja | ガイド＆クーポン | エディトリアル | ファーストインプレッション |
-   | zh-hant | 指南與優惠碼 | 編輯專題 | 初次使用心得 |
-   | zh-hans | 指南与优惠码 | 编辑专题 | 首次使用体验 |
+   | Idioma | Guia & Cupons | Editorial | Primeiras Impressões | Guia de Black Friday |
+   |---|---|---|---|---|
+   | en | Guide & Coupons | Editorial | First Impressions | Black Friday Guide |
+   | es | Guía & Cupones | Editorial | Primeras Impresiones | Guía de Black Friday |
+   | fr | Guide & Coupons | Éditorial | Premières impressions | Guide Black Friday |
+   | de | Ratgeber & Gutscheine | Redaktionell | Erste Eindrücke | Black-Friday-Ratgeber |
+   | it | Guida e coupon | Editoriale | Prime impressioni | Guida al Black Friday |
+   | ko | 가이드 & 쿠폰 | 에디토리얼 | 첫인상 리뷰 | 블랙프라이데이 가이드 |
+   | ja | ガイド＆クーポン | エディトリアル | ファーストインプレッション | ブラックフライデーガイド |
+   | zh-hant | 指南與優惠碼 | 編輯專題 | 初次使用心得 | 黑色星期五指南 |
+   | zh-hans | 指南与优惠码 | 编辑专题 | 首次使用体验 | 黑色星期五指南 |
 
 5. `slug` no idioma da versão em `en`, `es`, `fr`, `de` e `it`. Em `ko`, `ja`, `zh-hant` e `zh-hans`, slug em ASCII terminado no código do idioma (ex.: `abib-skincare-routine-30-ja`).
 6. Toda versão fora do português leva `hideFromPortugueseListings: true`. A vitrine em português também filtra pelo `locale`, mas a flag é o padrão das traduções e o `validate:content` a exige nas famílias registradas em `clusters/yesstyle.ts`.

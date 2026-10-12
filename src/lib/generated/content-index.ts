@@ -29582,10 +29582,10 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "Página inicial oficial da YesStyle mostrando exemplo de cupom promocional.",
-        "imageCaption": "Exemplo de cupom promocional registrado em 24 de julho de 2026 (cupom BTSVIP15). Cupons promocionais mudam frequentemente; consulte nossa página dedicada antes de comprar.",
+        "imageCaption": "Exemplo de cupom promocional oficial registrado em 24 de julho de 2026; essa campanha já terminou. Cupons promocionais mudam com frequência: consulte nossa página dedicada antes de comprar.",
         "imageFit": "wide",
         "bullets": [
-          "Cupons promocionais mensais: possuem prazo de validade e costumam dar de 10% a 15% OFF (ex.: cupom BTSVIP15 exibido pela YesStyle na data da captura).",
+          "Cupons promocionais mensais: possuem prazo de validade e costumam dar de 10% a 15% OFF.",
           "Código de Recompensa (Reward Code): código de influenciadora como o CECILIA010, que soma até 5% OFF extra.",
           "Fontes oficiais: verificar o banner do site, newsletters da loja ou nossa página dedicada de cupons."
         ]
@@ -29692,6 +29692,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Qual é a diferença entre Coupon Code e Influencer/Rewards Code na YesStyle? O Coupon Code é um cupom promocional temporário da YesStyle. Ele deve ser aplicado no campo \"Coupon Code\" e pode ter prazo, compra mínima, restrição regional ou produtos não elegíveis. Já o CECILIA010 é um Influencer/Rewards Code: deve ser inserido no campo separado \"Reward Code\" e oferece até 5% OFF extra — 5% para novos clientes na primeira compra ou 2% para clientes recorrentes. Quando as regras da promoção permitirem, os dois descontos podem aparecer juntos no resumo do pedido.",
+          "O que é o código de influenciador da YesStyle? É o Código de Recompensa (Reward Code), digitado num campo próprio do checkout, separado do campo de cupom. O nosso é o CECILIA010: 5% na primeira compra e 2% nas seguintes.",
           "Os cupons da YesStyle têm validade? Sim. Os cupons promocionais possuem prazo de validade e podem expirar sem aviso. Algumas campanhas duram poucos dias (como promoções de 72 ou 96 horas), enquanto outras permanecem ativas por períodos diferentes. Antes de finalizar a compra, confira a validade, o valor mínimo, a região e os produtos elegíveis nas regras da promoção e confirme se o desconto apareceu no checkout.",
           "Onde encontro as regras oficiais dos cupons da YesStyle? As regras gerais estão na página \"General Terms and Conditions for Coupons\" da central de atendimento da YesStyle. Para as condições de uma campanha específica, acesse a Central de Atendimento e abra a seção \"Promotions\", onde a YesStyle publica validade, compra mínima, regiões participantes e possíveis exclusões. Como essas condições mudam, consulte também o banner da promoção e o resumo do pedido antes de pagar.",
           "Posso usar mais de um cupom promocional no mesmo pedido? Não. Segundo as regras gerais da YesStyle, somente um Coupon Code pode ser usado por pedido ou pedido combinado. O CECILIA010, porém, não é um Coupon Code: ele deve ser aplicado no campo separado \"Reward Code\". Por isso, um cupom promocional e o CECILIA010 podem ser combinados quando a campanha for elegível e o checkout aceitar ambos."
@@ -30460,7 +30461,7 @@ export const reviewsData: unknown[] = [
     "type": "Ratgeber & Gutscheine",
     "reviewKind": "guia",
     "description": "Praktische Anleitung zur Nutzung des YesStyle Influencer-Codes CECILIA010. Erfahre den Unterschied zu normalen Gutscheinen, wie du Rabatte kombinierst (Stacking) und erhalte Tipps zu K-Beauty und Zoll.",
-    "metaDescription": "Nutze CECILIA010 bei YesStyle fur Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) und kombiniere ihn mit Gutscheinen fur K-Beauty, Pflege und Mode.",
+    "metaDescription": "Nutze CECILIA010 bei YesStyle für bis zu 5 % extra (5 % bei der Erstbestellung, 2 % danach) und kombiniere ihn mit Aktionsgutscheinen für K-Beauty und Mode.",
     "publishedAt": "22 Jun 2026",
     "publishedAtISO": "2026-06-22",
     "draft": false,
@@ -30469,7 +30470,7 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Produkte von K-beauty und koreanischer Pflege von YesStyle auf einem hellen Tisch angeordnet.",
     "imageFit": "cover",
     "pros": [
-      "Influencer-Code, der Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) auf berechtigte Gutscheine gewährt",
+      "Influencer-Code, der bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) auf berechtigte Produkte gewährt",
       "Kann mit berechtigten Aktionsgutscheinen auf der Website kombiniert werden",
       "Kostenloser internationaler Versand ab US$ 59 Bestellwert",
       "Riesiges Sortiment an K-Beauty, J-Beauty und koreanischer Mode",
@@ -30487,11 +30488,11 @@ export const reviewsData: unknown[] = [
         "heading": "So funktioniert der Code CECILIA010",
         "paragraphs": [
           "Im Gegensatz zu herkömmlichen Gutscheincodes, die allein einen direkten Rabatt gewähren, funktioniert der Code CECILIA010 auf YesStyle als \"Reward Code\" (Influencer-Belohnungscode).",
-          "Der Hauptvorteil besteht darin, dass er ein separates Eingabefeld im Checkout hat. CECILIA010 bringt Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen), wenn der Code im Feld Reward Code / Belohnungscode eingegeben wird. Das bedeutet, dass er vollständig kombinierbar ist: Du kannst ihn gleichzeitig mit berechtigten Aktionsgutscheinen auf der Website nutzen."
+          "Der Hauptvorteil besteht darin, dass er ein separates Eingabefeld im Checkout hat. CECILIA010 bringt bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen), wenn der Code im Feld Reward Code / Belohnungscode eingegeben wird. Das bedeutet, dass er vollständig kombinierbar ist: Du kannst ihn gleichzeitig mit berechtigten Aktionsgutscheinen auf der Website nutzen."
         ],
         "bullets": [
           "Code: CECILIA010",
-          "Rabatt: Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen)",
+          "Rabatt: bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen)",
           "Typ: Influencer Code / Belohnungscode (Reward Code)",
           "Wo eingeben: Feld \"Reward Code\" / \"Belohnungscode\" beim YesStyle-Checkout",
           "Vorteil: Fügt bis zu 5% extra im Warenkorb hinzu, wenn er im richtigen Feld eingegeben wird",
@@ -30537,7 +30538,7 @@ export const reviewsData: unknown[] = [
           "Damit beim Bestellen alles glattläuft, solltest du den Unterschied zwischen den zwei Codearten kennen, die bei YesStyle im Checkout kombiniert werden können:"
         ],
         "bullets": [
-          "Belohnungscode (Reward Code - CECILIA010): Dies ist Cecilias Influencer-Code. Er wird im Feld \"Reward Code\" eingegeben und gewährt Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen). Eventuelle weitere Vorteile hängen von den aktuellen YesStyle-Richtlinien ab.",
+          "Belohnungscode (Reward Code - CECILIA010): Dies ist Cecilias Influencer-Code. Er wird im Feld \"Reward Code\" eingegeben und gewährt bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen). Eventuelle weitere Vorteile hängen von den aktuellen YesStyle-Richtlinien ab.",
           "Gutscheincode (Coupon Code): Diese wechseln monatlich je nach Aktion. Falls ein Gutschein verfügbar ist, wird er im Feld \"Coupon Code\" eingegeben."
         ]
       },
@@ -30566,7 +30567,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "3. Gib den Belohnungscode CECILIA010 ein",
         "paragraphs": [
-          "Suche im Checkout oder Warenkorb das Feld \"Belohnungscode\" (oder \"Reward Code\"), gib exakt CECILIA010 ein und klicke auf \"Anwenden\", um die Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) zu aktivieren."
+          "Suche im Checkout oder Warenkorb das Feld \"Belohnungscode\" (oder \"Reward Code\"), gib exakt CECILIA010 ein und klicke auf \"Anwenden\", um die bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) zu aktivieren."
         ],
         "image": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
         "imageAlt": "Rabattfelder im YesStyle-Checkout mit ausgefülltem Reward Code.",
@@ -30592,7 +30593,7 @@ export const reviewsData: unknown[] = [
           "Das Kombinieren von Rabatten (Stacking) bedeutet, beide Hauptfelder im Checkout auszufüllen: das Reward-Code-Feld und das Coupon-Code-Feld. Verwende CECILIA010 im Belohnungscode-Feld und den Aktionsgutschein im Gutscheinfeld."
         ],
         "bullets": [
-          "Schritt 1 — Belohnungscode: Trage CECILIA010 im Feld Reward Code ein, um die Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) zu aktivieren.",
+          "Schritt 1 — Belohnungscode: Trage CECILIA010 im Feld Reward Code ein, um die bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) zu aktivieren.",
           "Schritt 2 — Aktiver Gutschein: Trage den gültigen Gutschein im Feld Coupon Code ein.",
           "Schritt 3 — Letzte Prüfung: Überprüfe vor dem Bezahlen in der Bestellübersicht, ob der Extra-Rabatt von CECILIA010 und der Aktionsgutschein korrekt aufgeführt sind."
         ],
@@ -30665,7 +30666,7 @@ export const reviewsData: unknown[] = [
           "Häufige Fragen und Antworten für internationale Kunden:"
         ],
         "bullets": [
-          "Ist CECILIA010 ein Gutschein? Nein. Er funktioniert als Influencer-Belohnungscode und gewährt Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) im Checkout. Der Vorteil ist, dass er mit einem aktiven Gutschein kombiniert werden kann.",
+          "Ist CECILIA010 ein Gutschein? Nein. Er funktioniert als Influencer-Belohnungscode und gewährt bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) im Checkout. Der Vorteil ist, dass er mit einem aktiven Gutschein kombiniert werden kann.",
           "Kann ich den Code und einen Gutschein zusammen nutzen? Ja. Gib den Code CECILIA010 im Feld Reward Code und deinen Aktionsgutschein im Feld Coupon Code ein, um die Rabatte zu kombinieren.",
           "Wie lange ist der Code CECILIA010 gültig? Er bleibt aktiv, solange das Influencer-Programm von YesStyle besteht und der Code regelmäßig verifiziert wird.",
           "Ist Einkaufen bei YesStyle sicher? Ja, es ist ein sicherer internationaler Online-Shop, der seit 2006 besteht und geschützte Zahlungswege bietet.",
@@ -30678,8 +30679,8 @@ export const reviewsData: unknown[] = [
           "Fallen YesStyle-Kleidungsstücke klein aus? Wie wähle ich die richtige asiatische Größe? Ja, die meisten YesStyle-Kleidungsstücke folgen der asiatischen Größenordnung, die tendenziell kleiner ausfällt als europäische oder amerikanische Größen. Jede Produktseite enthält eine Größentabelle in Zentimetern. Wir empfehlen, deine Maße zu nehmen und mit der Tabelle zu vergleichen, und eine oder zwei Größen größer zu wählen, besonders bei enganliegenden Styles.",
           "Welche K-Beauty-Marken sind bei YesStyle die beliebtesten? YesStyle ist autorisierter Vertriebspopulärer K-Beauty-Marken wie COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul und Haruharu. Die Website organisiert Produkte nach Kategorien – Essenzen, Toner, Seren, Sonnenschutzmittel – was den Aufbau einer koreanischen Hautpflegeroutine erleichtert.",
           "Kann ich meine YesStyle-Bestellung nach der Bestätigung stornieren oder ändern? Du kannst Bestellungen, die sich noch im Status 'Processing' befinden, direkt über deinen Bestellverlauf stornieren. Nach dem Versand ist eine Stornierung nicht mehr möglich, aber du kannst die Lieferung bei Ankunft ablehnen. Adress- oder Produktänderungen sind nur vor dem Versand möglich, indem du den Kundenservice schnell kontaktierst.",
-          "Funktioniert der CECILIA010-Code für Erstkäufer bei YesStyle? Ja, CECILIA010 funktioniert für Neukunden und Bestandskunden, und bietet Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen). Gib ihn im Reward-Code-Feld beim Checkout ein, kombinierbar mit berechtigten Aktionsgutscheinen.",
-          "Ist CECILIA010 ein YesStyle-Influencer-Gutschein? CECILIA010 ist ein registrierter Influencer-Belohnungscode. Er gewährt Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) beim Checkout und ist mit berechtigten Promo-Gutscheinen kombinierbar, im Gegensatz zu Erstkauf-Gutscheinen, die meist nicht kumulativ sind."
+          "Funktioniert der CECILIA010-Code für Erstkäufer bei YesStyle? Ja, CECILIA010 funktioniert für Neukunden und Bestandskunden, und bietet bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen). Gib ihn im Reward-Code-Feld beim Checkout ein, kombinierbar mit berechtigten Aktionsgutscheinen.",
+          "Ist CECILIA010 ein YesStyle-Influencer-Gutschein? CECILIA010 ist ein registrierter Influencer-Belohnungscode. Er gewährt bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) beim Checkout und ist mit berechtigten Promo-Gutscheinen kombinierbar, im Gegensatz zu Erstkauf-Gutscheinen, die meist nicht kumulativ sind."
         ]
       }
     ],
@@ -32438,7 +32439,7 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-10-01",
     "image": "/images/reviews/cupons/nescafe-dolce-gusto-hero.webp",
     "imageAlt": "Cápsulas de café NESCAFÉ Dolce Gusto e máquina de café em cima de uma mesa.",
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imagePosition": "right",
     "gallery": [
       {
@@ -32671,7 +32672,7 @@ export const reviewsData: unknown[] = [
     "id": 217,
     "slug": "clube-dolce-gusto-como-funciona",
     "title": "Clube Dolce Gusto: pontos e prêmios",
-    "seoTitle": "Clube Dolce Gusto: como usar, cadastrar e resgatar pontos",
+    "seoTitle": "Pontos Dolce Gusto: como cadastrar, usar e trocar no Clube",
     "type": "Guia",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -32697,22 +32698,15 @@ export const reviewsData: unknown[] = [
         "heading": "Como funciona o Clube Dolce Gusto",
         "paragraphs": [
           "O Clube Dolce Gusto é o programa de fidelidade oficial da NESCAFÉ® Dolce Gusto® no Brasil. A lógica é simples para quem consome café em cápsulas: ao comprar caixas de cápsulas originais, você acumula pontos cadastrando o código de 12 dígitos impresso no interior das embalagens da Geração 1 ou preparando cápsulas NEO via aplicativo. Depois, esses pontos podem ser trocados por novas cápsulas, acessórios e prêmios na loja do clube.",
-          "O cadastro no programa é gratuito para quem possui conta no e-commerce da marca. Na prática, em vez de jogar as caixas fora, vale criar o hábito de registrar os códigos para aproveitar melhor as compras que já fazem parte da rotina."
+          "O cadastro no programa é gratuito para quem possui conta no e-commerce da marca. Na prática, em vez de jogar as caixas fora, vale criar o hábito de registrar os códigos para aproveitar melhor as compras que já fazem parte da rotina. Quem já tem cadastro ou já comprou na loja oficial tem a participação vinculada à mesma conta."
         ],
         "bullets": [
           "Quem pode participar: residentes do Brasil com 18 anos ou mais, com limite de uma conta por CPF.",
           "Como pontuar Geração 1: cadastrando os códigos alfanuméricos de 12 dígitos presentes no interior das embalagens.",
           "Como pontuar NEO: extraindo cápsulas na máquina NEO pareada com o aplicativo oficial da Dolce Gusto.",
-          "Como economizar ainda mais: aplicar o cupom CECI (5% OFF) nas compras de cápsulas na loja oficial para potencializar a economia."
+          "Como economizar ainda mais: aplicar o cupom CECI (5% OFF em compras a partir de R$ 100) nas compras de cápsulas na loja oficial para potencializar a economia."
         ],
-        "emphasis": "Atenção às regras de validade: seus pontos expiram após 6 meses de inatividade na conta. Para mantê-los ativos, você precisa registrar pelo menos um código ou resgatar um prêmio dentro desse período."
-      },
-      {
-        "heading": "O que é o Clube Dolce Gusto?",
-        "paragraphs": [
-          "O Clube Dolce Gusto funciona como um programa de fidelidade e relacionamento direto entre a marca e o consumidor. O programa é direcionado a residentes do Brasil com 18 anos ou mais que possuam uma conta ativa no site oficial. Caso você já tenha feito alguma compra ou tenha cadastro na loja oficial da Dolce Gusto, a inscrição no programa de pontos é vinculada à sua conta.",
-          "Cada usuário pode ter apenas uma conta vinculada ao CPF para acumular pontos. A participação é gratuita, e o saldo começa a ser formado conforme os códigos e ações elegíveis são registrados."
-        ],
+        "emphasis": "Atenção às regras de validade: seus pontos expiram após 6 meses de inatividade na conta. Para mantê-los ativos, você precisa registrar pelo menos um código ou resgatar um prêmio dentro desse período.",
         "links": [
           {
             "label": "Acessar site oficial Dolce Gusto",
@@ -32774,7 +32768,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Economize ainda mais usando o cupom CECI",
         "paragraphs": [
-          "A melhor tática para comprar cápsulas e maximizar seus benefícios é combinar os descontos imediatos com os pontos de fidelidade acumulados pós-compra. Na loja oficial da Dolce Gusto, você pode usar o cupom CECI para obter 5% de desconto direto em suas compras elegíveis.",
+          "A melhor tática para comprar cápsulas e maximizar seus benefícios é combinar os descontos imediatos com os pontos de fidelidade acumulados pós-compra. Na loja oficial da Dolce Gusto, você pode usar o cupom CECI para obter 5% de desconto direto em compras a partir de R$ 100.",
           "Ao aplicar o cupom CECI no carrinho, você paga menos pelas caixas de cápsulas, ganha os pontos extras da compra online (+100 pontos) e depois ainda cadastra o código interno de cada caixa para receber mais 100 pontos por embalagem da Geração 1 ou por extrações NEO. A economia é contínua e inteligente."
         ],
         "image": "/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp",
@@ -32823,6 +32817,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Quem pode participar do programa? Residentes do Brasil com 18 anos ou mais que possuam conta no site oficial.",
+          "Como usar os pontos da Dolce Gusto? De dois jeitos: no carrinho do site oficial, trocando por produtos NESCAFÉ Dolce Gusto, ou na Loja de Prêmios do Clube, por itens de marcas parceiras e acessórios de café.",
           "Como ganho pontos com as caixas de cápsulas? Caixas Geração 1 possuem código interno de 12 dígitos (100 pontos por caixa de 10, 12 ou 16 cápsulas). Caixas NEO acumulam 10 pontos por extração no aplicativo oficial.",
           "Quanto tempo duram os meus pontos? Eles são válidos enquanto você registra códigos ou realiza trocas de prêmios pelo menos uma vez a cada 6 meses. Se a conta ficar inativa por 6 meses, o saldo total expira.",
           "Não encontro ou não consigo ler o código na embalagem. O que fazer? Se a caixa for Geração 1 e o código estiver ausente ou ilegível, ligue para o SAC no 0800 776 2233 ou envie um formulário de contato com foto da caixa e a nota fiscal da compra para receber um código substituto.",
@@ -32950,7 +32945,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Economize com o cupom CECI",
         "paragraphs": [
-          "Manter uma rotina de cápsulas em casa pode gerar um custo mensal relevante, especialmente quando a família consome várias unidades por dia. Por isso, vale a pena usar o cupom de desconto CECI na loja oficial da NESCAFÉ Dolce Gusto. O código dá 5% de desconto nas compras e pode ser usado em conjunto com outras promoções do site, dependendo das regras vigentes.",
+          "Manter uma rotina de cápsulas em casa pode gerar um custo mensal relevante, especialmente quando a família consome várias unidades por dia. Por isso, vale a pena usar o cupom de desconto CECI na loja oficial da NESCAFÉ Dolce Gusto. O código dá 5% de desconto nas compras a partir de R$ 100 e pode ser usado em conjunto com outras promoções do site, dependendo das regras vigentes.",
           "Aplicar o cupom é simples: basta inserir o código CECI no campo de cupom do carrinho antes de finalizar a compra. Com o desconto, o preço médio das caixas fica mais competitivo, e o gasto mensal com café em casa diminui sem perder qualidade."
         ],
         "bullets": [],
@@ -32991,10 +32986,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Aprenda a usar o cupom CECIEMCASA no site oficial da I Wanna Sleep. Veja o passo a passo completo para garantir 10% de desconto em travesseiros, colchões e acessórios de sono.",
+    "description": "Aprenda a usar o cupom CECIEMCASA no site oficial da I Wanna Sleep. Veja o passo a passo completo para garantir 10% de desconto em travesseiros, pillow tops, cobertores e acessórios de sono.",
     "metaDescription": "Use o cupom CECIEMCASA na I Wanna Sleep e ganhe 10% OFF em todo o site. Veja o passo a passo, regras e como validar o desconto de 10% no checkout.",
     "publishedAt": "07 Jul 2026",
     "publishedAtISO": "2026-07-07",
+    "updatedAt": "2026-10-10",
     "draft": false,
     "image": "/images/reviews/iwannasleep/cupom-ceciemcasa-hero.webp",
     "imageAlt": "Cecília abrindo o pacote da I Wanna Sleep contendo produtos de sono confortáveis.",
@@ -33007,7 +33003,7 @@ export const reviewsData: unknown[] = [
     },
     "pros": [
       "Garante 10% de desconto real no site oficial da marca",
-      "Válido para quase todo o catálogo (travesseiros, colchões e acessórios)",
+      "Válido no catálogo do site (travesseiros, pillow tops, cobertores e acessórios)",
       "Cupom verificado e ativo para a parceria oficial",
       "Permite economizar em produtos premium como o Travesseiro IWS Snow",
       "Sem necessidade de cadastros complexos para aplicar"
@@ -33032,7 +33028,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Código do cupom: CECIEMCASA",
           "Desconto: 10% OFF em todo o site oficial",
-          "Elegibilidade: Válido para travesseiros (como o IWS Snow), colchões, lençóis, sleepwear e acessórios",
+          "Elegibilidade: Válido nos produtos vendidos pelo site, como travesseiros (o IWS Snow, por exemplo), pillow tops, cobertores, lençóis, sleepwear e acessórios",
+          "Colchões, box e poltronas: não são vendidos pelo site, só nas lojas físicas da I Wanna Sleep, em Belo Horizonte, com as consultoras do sono",
           "Onde aplicar: No carrinho/checkout do site oficial iwannasleep.com.br"
         ],
         "links": [
@@ -33054,7 +33051,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "2. Revise seu carrinho de compras",
         "paragraphs": [
-          "Depois de adicionar tudo o que precisa, clique no ícone de sacola no canto superior direito para acessar seu carrinho. Revise as quantidades, tamanhos de travesseiro ou colchão para garantir que nada foi adicionado por engano."
+          "Depois de adicionar tudo o que precisa, clique no ícone de sacola no canto superior direito para acessar seu carrinho. Revise as quantidades e os tamanhos de travesseiro, pillow top ou cobertor para garantir que nada foi adicionado por engano."
         ],
         "image": "/images/reviews/iwannasleep/2-adicione-carrinho.webp",
         "imageAlt": "Carrinho de compras no site da I Wanna Sleep.",
@@ -33086,7 +33083,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Altura ajustável: Se comprar o Travesseiro IWS Snow, lembre-se de que ele possui regulagem de altura por camadas. Faça testes nas primeiras noites para achar a altura perfeita para seu ombro.",
           "Medidas exatas: Para pillow tops e lençóis, meça a altura e largura exatas do seu colchão (padrão Solteiro, Casal, Queen ou King).",
-          "Prazo de entrega: Itens maiores como colchões e poltronas ergonômicas podem demandar transporte específico. Verifique o prazo de frete no carrinho.",
+          "Prazo de entrega: O carrinho mostra o prazo e o frete depois do CEP. Colchões, box e poltronas não entram no carrinho: são vendidos só nas lojas físicas.",
           "Política de devolução: A I Wanna Sleep oferece um ótimo suporte, mas leia as diretrizes de troca para produtos de contato pessoal caso tenha dúvidas."
         ]
       },
@@ -33227,7 +33224,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Economize com o cupom CECI",
         "paragraphs": [
-          "Comprar uma máquina Dolce Gusto representa um investimento, e qualquer desconto ajuda. O cupom CECI garante 5% de desconto na loja oficial e pode ser aplicado na compra de máquinas, cápsulas e acessórios. Antes de finalizar o pedido, insira o código CECI no campo de cupom do carrinho para reduzir o valor total. A parceria com o Em Casa com Cecília mantém o cupom ativo para leitores e seguidores."
+          "Comprar uma máquina Dolce Gusto representa um investimento, e qualquer desconto ajuda. O cupom CECI dá 5% de desconto na loja oficial em compras a partir de R$ 100 e pode ser aplicado na compra de máquinas, cápsulas e acessórios. Antes de finalizar o pedido, insira o código CECI no campo de cupom do carrinho para reduzir o valor total. A parceria com o Em Casa com Cecília mantém o cupom ativo para leitores e seguidores."
         ],
         "bullets": [],
         "links": [
@@ -33555,7 +33552,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "Draft",
     "draft": true,
     "image": "/images/reviews/iwannasleep/travesseiro-snow-hero.webp",
-    "imageAlt": "Travesseiro IWS Snow com tecnologia de regulagem de altura e capa refrigerante",
+    "imageAlt": "Travesseiro IWS Snow com regulagem de altura e capa de viscose de bambu",
     "imageFit": "cover",
     "pros": [],
     "cons": [],
@@ -33563,29 +33560,31 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o Travesseiro IWS Snow",
         "paragraphs": [
-          "O Travesseiro IWS Snow é um dos carros-chefe da marca I Wanna Sleep. Ele se destaca no catálogo por reunir tecnologias voltadas ao conforto térmico e à adaptação postural. A proposta do produto é oferecer uma superfície de apoio que auxilie na qualidade do sono, combinando materiais de performance com a possibilidade de personalização da altura — um recurso que permite ajustar o travesseiro ao biótipo e à posição de dormir de cada pessoa.",
-          "A marca descreve o IWS Snow como parte de uma linha de travesseiros tecnológicos, desenvolvidos com base em pesquisas do IWS Labs. O produto é voltado para quem busca alternativas aos travesseiros tradicionais, especialmente aqueles que sentem desconforto relacionado à temperatura ou à altura inadequada do apoio cervical."
+          "O Travesseiro IWS Snow é o modelo que a I Wanna Sleep chama de best-seller. Ele chega em casa na altura máxima, de 18 cm, e você tira parte do enchimento até achar a altura que combina com o seu corpo e com a posição em que dorme.",
+          "O enchimento é de flocos de espuma de memória com gel, e a capa é de viscose de bambu. A marca apresenta o conjunto como uma opção para quem sente calor à noite e para quem não acerta a altura do travesseiro."
         ],
         "bullets": []
       },
       {
         "heading": "Ficha técnica e características",
         "paragraphs": [
-          "As informações técnicas do Travesseiro IWS Snow disponíveis no site oficial apontam para um produto com as seguintes características principais:"
+          "Estas são as informações da página oficial do Travesseiro IWS Snow:"
         ],
         "bullets": [
-          "Tecnologia de regulagem de altura, permitindo ajustar a espessura do travesseiro conforme a necessidade.",
-          "Materiais com propriedades de dissipação térmica, projetados para reduzir a sensação de calor durante o sono.",
-          "Capa com textura suave e acabamento que remete à sensação de \"frio\" ou refrigeração (daí o nome \"Snow\").",
-          "Estrutura híbrida que combina camadas de diferentes densidades para distribuição de peso.",
-          "Disponível em tamanhos que atendem a diferentes preferências de leito e dimensões de cama."
+          "Altura ajustável: chega com 18 cm, e você retira os flocos de espuma até achar a altura certa. Os flocos retirados ficam guardados no saquinho do produto e podem voltar depois.",
+          "Enchimento: memory foam flakes (flocos de espuma de memória) com gel infuso. Segundo a marca, as partículas de gel ajudam a aliviar a pressão na cabeça e no pescoço e a manter a temperatura do travesseiro agradável.",
+          "Capa: 40% poliéster e 60% viscose de bambu. A marca diz que a malha de bambu tem toque macio e ajuda a reduzir a temperatura do travesseiro.",
+          "Medidas: Regular, de 50x70x18 cm, que serve na fronha padrão, e Plus, de 50x90x18 cm, para camas King ou Super King, com fronha de 50x90 cm.",
+          "Lavagem: só a capa, à mão e em água fria. O enchimento não pode ser lavado.",
+          "Entrega: o travesseiro chega enrolado a vácuo e pode levar até 8 horas para chegar à altura máxima depois de aberto.",
+          "Teste em casa: 30 dias pelo Sleeptest. Se não se adaptar, você recebe crédito para trocar por outro produto do site, nas compras feitas pelo site oficial."
         ]
       },
       {
         "heading": "Preço e variações",
         "paragraphs": [
-          "O Travesseiro IWS Snow está disponível no site oficial a partir de R$ 367,90. O preço original listado era de R$ 419,00, o que indica uma redução promocional no momento da consulta. O valor pode variar conforme promoções sazonais, campanhas específicas ou mudanças na política de preços da marca. É recomendável verificar o valor atualizado diretamente no site oficial antes da compra.",
-          "Além do IWS Snow, a marca oferece outros modelos de travesseiro que podem interessar ao consumidor em busca de alternativas. O Travesseiro Cervical Coluna Relax, por exemplo, é comercializado por R$ 227,90 e tem foco em apoio anatômico para a coluna cervical. Já o Travesseiro IWS Airgelly 2.0, com preço de R$ 497,90, é uma opção de linha premium com tecnologia de gel para controle térmico. O Travesseiro IWS Original Látex, a partir de R$ 327,90, é indicado para quem prefere a elasticidade natural do látex."
+          "Em 11 de outubro de 2026, o Snow Regular (50x70 cm) custava R$ 347, de R$ 419, e o Snow Plus (50x90 cm), R$ 390, de R$ 459, no site oficial. O preço muda com as promoções, então confira o valor na página antes de comprar.",
+          "Outros travesseiros da marca, no mesmo dia: o Cervical Coluna Relax, com foco no apoio da cervical, custava R$ 214, de R$ 259. O Airgelly 2.0, que a marca apresenta como antialérgico e 100% lavável, custava R$ 472, de R$ 549. O Original Látex, vendido em três alturas fixas, saía a partir de R$ 248 no tamanho P, de R$ 327."
         ],
         "bullets": []
       },
@@ -33597,7 +33596,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Acesse iwannasleep.com.br e use a barra de busca ou o menu para localizar o Travesseiro IWS Snow.",
           "Selecione o modelo e o tamanho desejado e clique em \"Comprar\".",
-          "No checkout, insira o cupom CECIEMCASA para garantir 10% de desconto no valor do produto.",
+          "No checkout, insira o cupom CECIEMCASA e confira os 10% de desconto no resumo do pedido.",
           "Escolha a forma de pagamento e finalize a compra.",
           "Guarde o número do pedido e acompanhe a entrega pela ferramenta de rastreamento."
         ],
@@ -33611,22 +33610,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Acessórios complementares",
         "paragraphs": [
-          "Para quem investe no Travesseiro IWS Snow, a marca oferece acessórios que podem prolongar a vida útil do produto ou complementar a experiência de sono. O Protetor de Travesseiro Protex Bamboo, por exemplo, é vendido a partir de R$ 127,90 e serve como barreira de proteção contra umidade e ácaros. A Máscara de Dormir Orb Sleep Mask, com preço de R$ 177,90, é uma opção para quem busca bloqueio de luz durante o descanso."
+          "Para quem compra o Snow, a marca vende acessórios que protegem o travesseiro ou completam a hora de dormir. O Protetor de Travesseiro Protex Bamboo, que serve de barreira contra umidade e ácaros, custava R$ 134 no tamanho 50x70 cm em 11 de outubro de 2026. A Orb Sleep Mask, máscara de dormir que bloqueia a luz, custava R$ 155."
         ],
         "bullets": []
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O Travesseiro IWS Snow tem regulagem de altura? Sim, o produto conta com tecnologia de regulagem de altura por camadas, permitindo ajustar a espessura conforme a necessidade.",
-          "Qual o preço do Travesseiro IWS Snow? A partir de R$ 367,90 no site oficial, com preço original de R$ 419,00 — valores sujeitos a alteração conforme promoções.",
-          "O cupom CECIEMCASA vale para o IWS Snow? Sim, o cupom garante 10% de desconto no valor do produto, aplicado no checkout do site oficial.",
+          "O Travesseiro IWS Snow tem regulagem de altura? Sim. Ele chega com 18 cm, e você tira os flocos de espuma do enchimento até achar a altura certa.",
+          "Qual o preço do Travesseiro IWS Snow? Em 11 de outubro de 2026, o Regular custava R$ 347, de R$ 419, e o Plus, R$ 390, de R$ 459, no site oficial. Os valores mudam com as promoções.",
+          "O cupom CECIEMCASA vale para o IWS Snow? Sim, o CECIEMCASA dá 10% de desconto na loja online da I Wanna Sleep. Confira o desconto no resumo do pedido antes de pagar.",
           "Onde comprar o Travesseiro IWS Snow com segurança? Pelo site oficial iwannasleep.com.br ou pelas lojas físicas listadas na seção \"Nossas lojas\" da marca.",
-          "O Travesseiro IWS Snow é bom para quem tem dor cervical? Sim, o IWS Snow foi projetado com regulagem de altura por camadas, permitindo ajustar o apoio cervical conforme a largura dos ombros e a posição de dormir. Para quem sente dor cervical, a capacidade de personalizar a altura ajuda a manter a coluna alinhada, reduzindo a tensão muscular. No entanto, quem tem condições médicas deve consultar um ortopedista ou fisioterapeuta antes de escolher.",
-          "Qual a diferença entre o Travesseiro IWS Snow e o IWS Airgelly 2.0? O IWS Snow tem foco em conforto térmico (sensação de frio) e regulagem de altura por camadas, sendo ideal para quem esquenta ao dormir. O IWS Airgelly 2.0 é a opção premium com tecnologia de gel para controle térmico avançado. O Snow é mais acessível (a partir de R$ 367,90), enquanto o Airgelly 2.0 custa a partir de R$ 497,90 e oferece performance térmica superior.",
-          "O Travesseiro IWS Snow é firme ou macio? O IWS Snow tem uma estrutura híbrida que combina camadas de diferentes densidades. O nível de firmeza pode ser ajustado pela remoção de camadas internas: com todas as camadas, ele fica mais alto e firme; removendo camadas, fica mais baixo e com sensação mais macia. Essa customização é o diferencial em relação aos travesseiros tradicionais.",
-          "O Travesseiro IWS Snow esquenta durante a noite? Não, pelo contrário: a tecnologia de dissipação térmica e a capa com textura refrigerante (ICE-FEEL) foram desenvolvidas para reduzir a sensação de calor. A marca descreve que o material ajuda a manter a superfície mais fresca em comparação com espumas convencionais, sendo uma boa opção para quem sofre com calor noturno ou suor excessivo.",
-          "Qual a altura ideal do IWS Snow para quem dorme de lado? Quem dorme de lado geralmente precisa de um travesseiro mais alto para manter a coluna cervical neutra. No IWS Snow, isso equivale a usar todas as camadas de regulagem, mantendo a espessura máxima. A recomendação é que a altura seja aproximadamente igual à distância entre o ombro e a base do pescoço, o que o modelo ajustável permite testar."
+          "O Travesseiro IWS Snow é bom para quem tem dor cervical? A marca diz que os flocos de espuma com gel distribuem a pressão da cabeça e do pescoço e ajudam a aliviar dores causadas por pontos de tensão. A altura ajustável permite procurar a posição mais confortável. Quem tem dor persistente ou alguma condição médica deve procurar um ortopedista ou fisioterapeuta.",
+          "Qual a diferença entre o Travesseiro IWS Snow e o IWS Airgelly 2.0? O Snow tem altura ajustável e enchimento de flocos de espuma com gel. O Airgelly 2.0 é o modelo que a marca apresenta como antialérgico e 100% lavável, indicado para quem tem rinite ou outra alergia respiratória. Em 11 de outubro de 2026, o Snow Regular custava R$ 347 e o Airgelly 2.0, R$ 472.",
+          "O Travesseiro IWS Snow é firme ou macio? A página oficial não classifica a firmeza. O que muda é a altura e o volume: com todos os flocos, ele fica mais alto e cheio; tirando flocos, fica mais baixo.",
+          "O Travesseiro IWS Snow esquenta durante a noite? A marca diz que as partículas de gel ajudam a manter a temperatura agradável e que a capa de viscose de bambu ajuda a reduzir a temperatura do travesseiro. Ainda não testamos o Snow em casa.",
+          "Qual a altura ideal do IWS Snow para quem dorme de lado? Quem dorme de lado costuma precisar de mais altura, para a cabeça ficar alinhada com o pescoço. No Snow, isso quer dizer manter mais flocos no enchimento. Uma referência é a distância entre o ombro e a base do pescoço, e a altura ajustável permite testar."
         ]
       }
     ],
@@ -33652,7 +33651,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 227,
     "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
-    "title": "Cobertor IWS Igloo: toque gelado de um lado, aconchego quentinho do outro",
+    "title": "Cobertor Igloo da I Wanna Sleep: lado gelado, lado quente e primeiras noites",
+    "seoTitle": "Cobertor Igloo IWS é bom? O lado gelado na prática e tamanhos",
     "type": "Editorial",
     "category": "produtos-experiencias",
     "reviewKind": "editorial",
@@ -33664,7 +33664,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Recebemos o primeiro cobertor dupla-face da I Wanna Sleep — veja nossas primeiras impressões em vídeo e a ficha técnica completa (tecnologias, tamanhos, preço).",
-    "metaDescription": "Veja a ficha técnica do Cobertor IWS Igloo: tecnologia dupla face, materiais, tamanhos disponíveis e como comprar com cupom CECIEMCASA.",
+    "metaDescription": "Primeiras impressões do cobertor Igloo da I Wanna Sleep: o lado gelado esfria na hora e resolveu o calor de madrugada. Tamanhos casal/queen e king e preço.",
     "publishedAt": "16 Jul 2026",
     "publishedAtISO": "2026-07-16",
     "draft": false,
@@ -33696,7 +33696,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que é o Cobertor IWS Igloo",
         "paragraphs": [
           "O Cobertor IWS Igloo é o item mais recente que recebemos aqui em casa da parceria com a I Wanna Sleep. A marca o descreve como o primeiro cobertor com dupla face térmica: um lado com toque frio, para quem esquenta durante a noite, e um lado com toque quente e aconchegante, para quem sente frio — bastando virar o cobertor para trocar de sensação.",
-          "A proposta é resolver um problema clássico de casal ou de mudança de estação: em vez de precisar de dois edredons diferentes, o Igloo tenta cobrir as duas necessidades em uma peça só. Como acabamos de receber o produto, este artigo traz a ficha técnica com base nos dados oficiais da marca — assim que tivermos mais noites de uso, atualizamos com impressões pessoais."
+          "A proposta é resolver um problema clássico de casal ou de mudança de estação: em vez de precisar de dois edredons diferentes, o Igloo tenta cobrir as duas necessidades em uma peça só. A ficha técnica abaixo vem dos dados oficiais da marca; as impressões da primeira noite estão na seção seguinte."
         ],
         "bullets": [],
         "image": "/images/reviews/iwannasleep/cobertor-igloo-galeria-1.webp",
@@ -33789,7 +33789,8 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Como funciona a dupla face do Cobertor IWS Igloo? Um lado usa fibras de poliamida com toque frio (ICE-FEEL FIBER SYSTEM) e o outro usa fibras de poliéster com toque quente (WARM-FEEL FIBER SYSTEM) — basta virar o cobertor para trocar de sensação.",
-          "Quais tamanhos existem? Casal/Queen (220×240cm, ~2,06kg) e King/Super King (240×260cm, ~2,4kg).",
+          "O lado gelado do cobertor Igloo funciona? Na nossa primeira noite, sim: o toque frio é imediato e, quando esquentou de madrugada, bastou virar o cobertor. Não medimos com termômetro e ainda é cedo para falar de durabilidade.",
+          "O cobertor Igloo tem tamanho casal ou queen? Sim: Casal/Queen (220×240cm, ~2,06kg); também há King/Super King (240×260cm, ~2,4kg).",
           "Como lavar o Cobertor IWS Igloo? A no máximo 30°C, à mão ou à máquina, sem alvejante, sem ferro e sem lavagem a seco — a secagem deve ser natural, à sombra.",
           "O cupom CECIEMCASA vale para o Igloo? Sim, garante 10% de desconto adicional nos produtos elegíveis no checkout do site oficial.",
           "O Cobertor IWS Igloo é bom para usar no inverno ou só no verão? O Igloo é projetado para ser usado o ano todo graças à tecnologia Dual-Face. No verão ou para quem esquenta, o lado frio (ICE-FEEL FIBER SYSTEM) dissipa o calor corporal. No inverno ou para quem sente frio, o lado quente (WARM-FEEL FIBER SYSTEM) retém o calor de forma controlada. Isso elimina a necessidade de trocar de cobertor entre as estações, sendo uma solução prática para casais com temperaturas corporais diferentes.",
@@ -34002,6 +34003,7 @@ export const reviewsData: unknown[] = [
     "id": 228,
     "slug": "nestle-nutre-e-confiavel",
     "title": "Nestlé Nutre é confiável? O que observar antes de comprar",
+    "seoTitle": "Nestlé Nutre é confiável? É a loja oficial da Nestlé",
     "type": "Editorial",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -34013,12 +34015,12 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Análise completa da Nestlé Nutre: CNPJ oficial da Nestlé Brasil, SAC, política de troca/devolução (CDC 7 dias), entregas e o que observar antes de comprar.",
-    "metaDescription": "Nestlé Nutre é confiável? Veja CNPJ oficial, SAC 0800, políticas de troca/devolução, entregas, o Programa Nestlé Nutre e dicas de compra no site oficial.",
+    "metaDescription": "Sim: a Nestlé Nutre (nestlenutre.com.br) é a loja oficial da Nestlé Health Science, com o CNPJ da Nestlé Brasil. Veja SAC, troca em 7 dias e entregas.",
     "publishedAt": "5 de agosto de 2026",
     "draft": false,
     "image": "/images/reviews/nutren/nestle-nutre-hero.webp",
     "imageAlt": "Catálogo de marcas e linhas da Nestlé Nutre, incluindo Nutren, Isosource e Modulen",
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
     "cons": [],
@@ -34089,6 +34091,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Nestlé Nutre é a mesma empresa da Nestlé? Sim. É o e-commerce oficial da Nestlé Health Science no Brasil, operado sob o CNPJ da Nestlé Brasil Ltda (60.409.075/0001-52).",
+          "O site da Nestlé Nutre é confiável para comprar Nutren? Sim: o nestlenutre.com.br é o e-commerce oficial da Nestlé Health Science no Brasil, com o CNPJ da Nestlé Brasil Ltda (60.409.075/0001-52) e conexão segura.",
           "Qual o telefone de atendimento da Nestlé Nutre? 0800 770 2461, além de WhatsApp (11 97893 1273) e assistente virtual no próprio site.",
           "A Nestlé Nutre entrega para todo o Brasil? Sim, as entregas cobrem todo o território nacional, com prazo calculado no checkout conforme o CEP.",
           "Como funciona a devolução na Nestlé Nutre? Segue o CDC: até 7 dias corridos após o recebimento, com o produto na embalagem original e nota fiscal, e frete de retorno custeado pela empresa.",
@@ -34579,7 +34582,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como usar o cupom CECI na promoção",
         "paragraphs": [
-          "O cupom CECI (5% OFF) pode ajudar a reduzir o valor total quando estiver elegível no carrinho. Como as regras de promoções podem mudar, aplique o código antes de finalizar e confirme se o desconto aparece no resumo do pedido.",
+          "O cupom CECI (5% OFF em compras a partir de R$ 100) pode ajudar a reduzir o valor total quando estiver elegível no carrinho. Como as regras de promoções podem mudar, aplique o código antes de finalizar e confirme se o desconto aparece no resumo do pedido.",
           "O desconto de 5% sobre um valor elevado de cápsulas representa uma economia adicional significativa. No exemplo abaixo usamos 55 caixas como cálculo, mas ajuste para o número vigente no seu dia. Considerando um preço médio de R$ 25 por caixa e 55 unidades, o valor total seria aproximadamente R$ 1.375. Com o cupom CECI, a economia é de cerca de R$ 68,75 — além da máquina Mini Me, que custaria entre R$ 400 e R$ 900 em condições normais de compra."
         ],
         "bullets": []
@@ -34632,6 +34635,7 @@ export const reviewsData: unknown[] = [
     "id": 230,
     "slug": "cupom-magalu-em-casa-com-cecilia",
     "title": "Como usar o cupom Magalu da Cecília",
+    "seoTitle": "Cupom Magalu da Cecília: como usar no navegador, não no app",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -35274,7 +35278,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e como comprar",
         "paragraphs": [
-          "No site oficial, a Genio S Touch Prata (127V) estava saindo por R$ 599,90, de R$ 979,90 (preço verificado em 23 de julho de 2026 na versão 127V — pode mudar conforme promoções e disponibilidade). No checkout, o cupom CECI garante desconto adicional.",
+          "No site oficial, a Genio S Touch Prata (127V) estava saindo por R$ 599,90, de R$ 979,90 (preço verificado em 23 de julho de 2026 na versão 127V — pode mudar conforme promoções e disponibilidade). No checkout, o cupom CECI pode dar mais 5% de desconto em compras a partir de R$ 100; confira no resumo do pedido.",
           "Como todo cupom promocional, o CECI tem prazo de validade e pode ser alterado pela marca. Se ele não estiver mais disponível quando você for comprar, o link abaixo leva direto pra loja oficial, onde você confere o preço e as condições vigentes no momento."
         ],
         "bullets": []
@@ -35313,10 +35317,11 @@ export const reviewsData: unknown[] = [
     "id": 235,
     "slug": "how-to-find-valid-yesstyle-coupon-codes",
     "title": "How to Find Valid YesStyle Coupon Codes and Combine with CECILIA010",
+    "seoTitle": "YesStyle Coupon Codes That Work and How to Stack Them",
     "type": "Guide & Coupons",
     "reviewKind": "guia",
     "description": "Practical guide to finding valid YesStyle promo codes, understanding the difference between Coupon Code and Reward Code, and stacking them for up to 5% extra savings with CECILIA010.",
-    "metaDescription": "Learn how to find valid YesStyle coupon codes, avoid expired codes, and combine them with the reward code CECILIA010 for up to 5% extra discount.",
+    "metaDescription": "Most YesStyle coupon codes online are expired. Where to find valid ones, Coupon Code vs Reward Code, and how CECILIA010 adds up to 5% extra.",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
     "hideFromPortugueseListings": true,
@@ -35395,10 +35400,10 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "Selection of K-beauty and Korean skincare products on sale at YesStyle.",
-        "imageCaption": "Example of an official promotional coupon registered on July 24, 2026 (coupon BTSVIP15). Promotional coupons change frequently; check our dedicated page before shopping.",
+        "imageCaption": "Example of an official promotional coupon recorded on July 24, 2026; that campaign has ended. Promotional coupons change often: check our dedicated page before shopping.",
         "imageFit": "wide",
         "bullets": [
-          "Monthly promo coupons: have expiration dates and usually offer 10% to 15% OFF (e.g. coupon BTSVIP15 displayed by YesStyle at the time of capture).",
+          "Monthly promo coupons: have expiration dates and usually offer 10% to 15% OFF.",
           "Reward Code: influencer code such as CECILIA010, which adds up to 5% extra OFF.",
           "Official sources: check the site banner, store newsletters, or our dedicated coupon page."
         ]
@@ -35502,6 +35507,7 @@ export const reviewsData: unknown[] = [
         "heading": "FAQ — Frequently asked questions about YesStyle coupons",
         "bullets": [
           "What is the difference between Coupon Code and Influencer/Rewards Code on YesStyle? Coupon Code is a temporary promotional coupon from YesStyle applied in the \"Coupon Code\" field and may have expiration dates, minimum spends, or product exclusions. CECILIA010 is an Influencer/Rewards Code applied in the separate \"Reward Code\" field offering up to 5% extra OFF (5% for new customers / 2% for returning customers). When campaign rules allow, both discounts appear together in the order summary.",
+          "What is the YesStyle influencer code? It's a Reward Code, entered in its own checkout field, separate from the Coupon Code field. Ours is CECILIA010: 5% off a first order and 2% on later orders.",
           "Do YesStyle coupons have expiration dates? Yes. Promotional coupons have expiration dates and may expire without notice. Some campaigns last a few days (such as 72h or 96h flash sales). Check minimum spend, region, and eligible products before checking out.",
           "Where can I find official YesStyle coupon rules? General rules are under \"General Terms and Conditions for Coupons\" in the YesStyle Help Center. For specific campaign terms, visit Customer Service and open \"Promotions\".",
           "Can I use more than one promo coupon on the same order? No. According to general YesStyle rules, only one Coupon Code can be used per order. CECILIA010 is a Reward Code, so it can be combined with an eligible Coupon Code when checkout accepts both."
@@ -35607,10 +35613,10 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "Selección de productos de K-beauty y cosméticos coreanos en oferta en YesStyle.",
-        "imageCaption": "Ejemplo de cupón promocional registrado el 24 de julio de 2026 (cupón BTSVIP15). Los cupones promocionales cambian con frecuencia; consulta nuestra página dedicada antes de comprar.",
+        "imageCaption": "Ejemplo de cupón promocional oficial registrado el 24 de julio de 2026; esa campaña ya terminó. Los cupones promocionales cambian con frecuencia: consulta nuestra página dedicada antes de comprar.",
         "imageFit": "wide",
         "bullets": [
-          "Cupones promocionales mensuales: tienen fecha de caducidad y suelen ofrecer del 10% al 15% OFF (ej.: cupón BTSVIP15 mostrado por YesStyle en la fecha de captura).",
+          "Cupones promocionales mensuales: tienen fecha de caducidad y suelen ofrecer del 10% al 15% OFF.",
           "Código de Recompensa (Reward Code): código de influencer como CECILIA010, que suma hasta un 5% OFF extra.",
           "Fuentes oficiales: comprobar el banner del sitio, boletines de la tienda o nuestra página dedicada."
         ]
@@ -35633,7 +35639,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cómo funciona el código CECILIA010: hasta un 5% OFF extra",
         "paragraphs": [
-          "El código CECILIA010 es el código de recompensa oficial de Cecília registrado en el programa de influencers de YesStyle. A diferencia de los cupons promocionales temporales que cambian periódicamente, CECILIA010 es un código fijo de colaboración.",
+          "El código CECILIA010 es el código de recompensa oficial de Cecília registrado en el programa de influencers de YesStyle. A diferencia de los cupones promocionales temporales que cambian periódicamente, CECILIA010 es un código fijo de colaboración.",
           "La aplicación del descuento de CECILIA010 en la cesta sigue las reglas oficiales:",
           "• Para Nuevos Clientes (1ª compra en la cuenta): concede un 5% OFF extra.",
           "• Para Clientes Recurrentes (compras posteriores): concede un 2% OFF extra.",
@@ -35714,6 +35720,7 @@ export const reviewsData: unknown[] = [
         "heading": "FAQ — Preguntas frecuentes sobre cupones de YesStyle",
         "bullets": [
           "¿Cuál es la diferencia entre Coupon Code y Reward Code en YesStyle? Coupon Code es un cupón promocional temporal que se aplica en el campo \"Coupon Code\". CECILIA010 es un Reward Code de influencer que se introduce en el campo \"Reward Code\" y ofrece hasta un 5% OFF extra (5% en 1ª compra / 2% en recurrentes). Cuando las reglas lo permiten, ambos se suman en el resumen.",
+          "¿Qué es el código de influencer de YesStyle? Es el Código de Recompensa (Reward Code), que se introduce en un campo propio del checkout, separado del campo de cupón. El nuestro es CECILIA010: 5% en la primera compra y 2% en las siguientes.",
           "¿Los cupones de YesStyle tienen caducidad? Sí. Los cupones promocionales tienen fecha de caducidad y pueden expirar sin previo aviso. Comprueba el gasto mínimo y productos elegibles antes de pagar.",
           "¿Dónde encuentro las reglas oficiales de los cupones de YesStyle? Las reglas generales están en \"General Terms and Conditions for Coupons\" en el Centro de Ayuda de YesStyle. Para promociones específicas, entra en Customer Service y abre \"Promotions\".",
           "¿Puedo usar más de un cupón promocional en el mismo pedido? No. Solo se permite un Coupon Code por pedido. Sin embargo, CECILIA010 es un Reward Code y puede combinarse con un Coupon Code elegible."
@@ -35819,10 +35826,10 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "Sélection de produits cosmétiques et skincare K-beauty en promotion sur YesStyle.",
-        "imageCaption": "Exemple de coupon promo enregistré le 24 juillet 2026 (coupon BTSVIP15). Les coupons promo changent fréquemment ; consultez notre page dédiée avant d'acheter.",
+        "imageCaption": "Exemple de coupon promo officiel enregistré le 24 juillet 2026 ; cette campagne est terminée. Les coupons promo changent souvent : consultez notre page dédiée avant d'acheter.",
         "imageFit": "wide",
         "bullets": [
-          "Coupons promo mensuels : ont une date d'expiration et offrent 10% à 15% de réduction (ex. coupon BTSVIP15 affiché sur YesStyle lors de la capture).",
+          "Coupons promo mensuels : ont une date d'expiration et offrent 10% à 15% de réduction.",
           "Code de Récompense (Reward Code) : code d'influenceur comme CECILIA010, qui ajoute jusqu'à 5% de réduction supplémentaire.",
           "Sources officielles : vérifiez la bannière du site, la newsletter ou notre page de coupons dédiée."
         ]
@@ -35926,6 +35933,7 @@ export const reviewsData: unknown[] = [
         "heading": "FAQ — Foire aux questions sur les coupons YesStyle",
         "bullets": [
           "Quelle est la différence entre Coupon Code et Reward Code sur YesStyle ? Le Coupon Code est un coupon promo temporaire de YesStyle appliqué dans le champ \"Coupon Code\". CECILIA010 est un Reward Code d'influenceur à saisir dans le champ \"Reward Code\" offrant jusqu'à 5% en plus (5% 1ère commande / 2% suivantes). Lorsque la campagne le permet, les deux s'additionnent au paiement.",
+          "Qu'est-ce que le code influenceur YesStyle ? C'est le code récompense (Reward Code), saisi dans un champ dédié à l'étape de paiement, distinct du champ Coupon Code. Le nôtre est CECILIA010 : 5% sur une première commande et 2% sur les suivantes.",
           "Les coupons YesStyle ont-ils une durée de validité ? Oui. Les coupons promo ont une date d'expiration. Vérifiez le montant minimum d'achat et les produits éligibles avant de valider.",
           "Où trouver les conditions officielles des coupons YesStyle ? Les conditions générales sont sous \"General Terms and Conditions for Coupons\" dans le centre d'aide YesStyle. Pour une campagne spécifique, consultez la section \"Promotions\".",
           "Puis-je utiliser plus d'un coupon promo par commande ? Non. Un seul Coupon Code est autorisé par commande. En revanche, CECILIA010 est un Reward Code et peut s'associer à un Coupon Code éligible."
@@ -36031,10 +36039,10 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "Auswahl an K-Beauty-Kosmetik und koreanischer Hautpflege im Angebot bei YesStyle.",
-        "imageCaption": "Beispiel für einen offiziellen Aktionsgutschein vom 24. Juli 2026 (Gutschein BTSVIP15). Aktionsgutscheine ändern sich häufig; prüfe unsere Sonderseite vor dem Kauf.",
+        "imageCaption": "Beispiel für einen offiziellen Aktionsgutschein vom 24. Juli 2026; diese Aktion ist beendet. Aktionsgutscheine ändern sich häufig: Prüfe unsere Sonderseite vor dem Kauf.",
         "imageFit": "wide",
         "bullets": [
-          "Monatliche Aktionsgutscheine: Haben ein Ablaufdatum und bieten meist 10% bis 15% Rabatt (z. B. Gutschein BTSVIP15 zum Zeitpunkt der Aufnahme).",
+          "Monatliche Aktionsgutscheine: Haben ein Ablaufdatum und bieten meist 10% bis 15% Rabatt.",
           "Belohnungscode (Reward Code): Influencer-Code wie CECILIA010 für bis zu 5% Extra-Rabatt.",
           "Offizielle Quellen: Shop-Banner, Newsletter oder unsere eigene Gutscheinseite."
         ]
@@ -36138,6 +36146,7 @@ export const reviewsData: unknown[] = [
         "heading": "FAQ — Häufige Fragen zu YesStyle Gutscheinen",
         "bullets": [
           "Was ist der Unterschied zwischen Coupon Code und Reward Code bei YesStyle? Coupon Code ist ein zeitlich begrenzter Aktionsgutschein im Feld \"Coupon Code\". CECILIA010 ist ein Influencer-Reward-Code im Feld \"Reward Code\" für bis zu 5% Extra-Rabatt (5% Erstbestellung / 2% Folgebestellung). Beide lassen sich kombinieren, wenn die Aktion es erlaubt.",
+          "Was ist der YesStyle Influencer-Code? Es ist ein Reward Code (Belohnungscode), der in einem eigenen Feld an der Kasse eingegeben wird, getrennt vom Feld für den Coupon Code. Unserer ist CECILIA010: 5% auf die erste Bestellung und 2% auf Folgebestellungen.",
           "Haben YesStyle-Gutscheine ein Ablaufdatum? Ja. Aktionsgutscheine laufen ab. Prüfe Mindestbestellwert und berechtigte Artikel vor dem Kauf.",
           "Wo finde ich die offiziellen Bedingungen für YesStyle-Gutscheine? Die allgemeinen Bedingungen stehen unter \"General Terms and Conditions for Coupons\" im Help Center von YesStyle. Spezifische Aktionen findest du unter \"Promotions\".",
           "Kann ich mehrere Aktionsgutscheine gleichzeitig nutzen? Nein. Es ist nur ein Coupon Code pro Bestellung erlaubt. CECILIA010 ist jedoch ein Reward Code und kann zusätzlich genutzt werden."
@@ -36243,10 +36252,10 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "YesStyle의 K-뷰티 및 한국 스킨케어 할인 상품 목록.",
-        "imageCaption": "2026년 7월 24일 기준 등록된 공식 프로모션 쿠폰 예시 (BTSVIP15 쿠폰). 프로모션 쿠폰은 자주 변경되므로 구매 전 전용 페이지를 확인하세요.",
+        "imageCaption": "2026년 7월 24일 기준 등록된 공식 프로모션 쿠폰 예시이며, 해당 프로모션은 종료되었습니다. 프로모션 쿠폰은 자주 변경되므로 구매 전 전용 페이지를 확인하세요.",
         "imageFit": "wide",
         "bullets": [
-          "월간 프로모션 쿠폰: 유효기간이 있으며 보통 10%~15% 할인을 제공합니다 (예: 캡처 시점의 BTSVIP15 쿠폰).",
+          "월간 프로모션 쿠폰: 유효기간이 있으며 보통 10%~15% 할인을 제공합니다.",
           "리워드 코드 (Reward Code): CECILIA010과 같은 인플루언서 코드로 최대 5% 추가 할인을 더해줍니다.",
           "공식 출처: 메인 배너, 뉴스레터, 전용 쿠폰 페이지를 확인하세요."
         ]
@@ -36350,6 +36359,7 @@ export const reviewsData: unknown[] = [
         "heading": "FAQ — YesStyle 쿠폰 자주 묻는 질문",
         "bullets": [
           "Coupon Code와 Reward Code의 차이는 무엇인가요? Coupon Code는 YesStyle이 제공하는 임시 프로모션 쿠폰입니다. CECILIA010은 Reward Code 입력란에 넣는 인플루언서 코드로 최대 5% 추가 할인을 제공합니다. 두 코드는 함께 중복 적용될 수 있습니다.",
+          "YesStyle 인플루언서 코드란 무엇인가요? 리워드 코드(Reward Code)를 말하며, Coupon Code 입력란과는 별도로 마련된 전용 입력란에 입력합니다. 저희 코드는 CECILIA010으로, 첫 주문 5%, 이후 주문 2% 할인을 받을 수 있습니다.",
           "YesStyle 쿠폰에 유효기간이 있나요? 네, 프로모션 쿠폰은 유효기간이 존재합니다. 결제 전 최소 구매 금액과 대상 상품을 확인하세요.",
           "YesStyle 공식 쿠폰 약관은 어디서 확인하나요? YesStyle 고객센터의 \"General Terms and Conditions for Coupons\" 및 \"Promotions\" 섹션에서 확인할 수 있습니다.",
           "한 주문에 프로모션 쿠폰을 여러 개 사용할 수 있나요? 아니요, 주문당 1개의 Coupon Code만 사용 가능합니다. 단, CECILIA010은 Reward Code이므로 적격 Coupon Code와 함께 조합할 수 있습니다."
@@ -36455,10 +36465,10 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "YesStyleでセール中のK-Beautyコスメと韓国スキンケア商品一覧。",
-        "imageCaption": "2026年7月24日時点の公式プロモーションクーポン適用例（BTSVIP15クーポン）。プロモクーポンは変更されるため、購入前に専用ページをご確認ください。",
+        "imageCaption": "2026年7月24日に記録した公式プロモーションクーポンの例です。このキャンペーンは終了しています。プロモクーポンは変更されるため、購入前に専用ページをご確認ください。",
         "imageFit": "wide",
         "bullets": [
-          "月間プロモクーポン：有効期限があり、通常10%〜15%オフとなります（例：撮影時点のBTSVIP15クーポン）。",
+          "月間プロモクーポン：有効期限があり、通常10%〜15%オフとなります。",
           "リワードコード（Reward Code）：CECILIA010のようなインフルエンサーコードで、最大5%追加オフを合算できます。",
           "公式情報源：公式サイトのトップバナー、メルマガ、または当サイトの専用ページをご確認ください。"
         ]
@@ -36562,6 +36572,7 @@ export const reviewsData: unknown[] = [
         "heading": "FAQ — YesStyleクーポンに関するよくある質問",
         "bullets": [
           "Coupon CodeとReward Codeの違いは何ですか？ Coupon CodeはYesStyleが発行する期間限定プロモクーポンです。CECILIA010はReward Code欄に入力するインフルエンサーコードで最大5%追加オフ（初回5% / リピート2%）になります。条件が合えば併用可能です。",
+          "YesStyleのインフルエンサーコードとは何ですか？ リワードコード（Reward Code）のことで、Coupon Code欄とは別に用意されたチェックアウトの専用欄に入力します。当サイトのコードはCECILIA010で、初回注文は5%オフ、2回目以降は2%オフになります。",
           "YesStyleクーポンに有効期限はありますか？ はい、プロモクーポンには期限があります。購入前に最低利用金額や対象商品をご確認ください。",
           "YesStyle公式のクーポン利用規約はどこで見られますか？ YesStyleヘルプセンターの「General Terms and Conditions for Coupons」および「Promotions」セクションで確認できます。",
           "1回の注文で複数のプロモクーポンを使えますか？ いいえ、1回の注文につき使えるCoupon Codeは1つだけです。ただしCECILIA010はReward Codeのため、対象のCoupon Codeと併用可能です。"
@@ -36588,7 +36599,7 @@ export const reviewsData: unknown[] = [
     "type": "指南與優惠碼",
     "reviewKind": "guia",
     "description": "搜尋 YesStyle 有效促銷代碼的實用指南，了解 Coupon Code 與 Reward Code 的差別，並使用 CECILIA010 疊加享高達 5% 額外折扣。",
-    "metaDescription": "學習如何找到有效的 YesStyle 促銷優惠碼，避免過期代碼，並配合獎勵代碼 CECILIA010 疊加享高達 5% 額外折扣。",
+    "metaDescription": "學習如何找到有效的 YesStyle 促銷優惠碼，避免過期代碼，並配合獎勵碼 CECILIA010 疊加享高達 5% 額外折扣。",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
     "hideFromPortugueseListings": true,
@@ -36629,7 +36640,7 @@ export const reviewsData: unknown[] = [
         "value": "YesStyle（官方）"
       },
       {
-        "key": "獎勵代碼",
+        "key": "獎勵碼",
         "value": "CECILIA010（高達 5% 額外折扣）",
         "highlight": true
       },
@@ -36654,7 +36665,7 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hant",
-        "title": "YesStyle 獎勵代碼 CECILIA010（指南）"
+        "title": "YesStyle 獎勵碼 CECILIA010（指南）"
       }
     ],
     "contentSections": [
@@ -36667,11 +36678,11 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "YesStyle 上熱銷的韓國美妝與護膚折扣商品列表。",
-        "imageCaption": "2026年7月24日記錄的官方促銷優惠碼範例（BTSVIP15 代碼）。促銷代碼會定期變更，請在購物前查看我們的專屬頁面。",
+        "imageCaption": "2026年7月24日記錄的官方促銷優惠碼範例，該活動已結束。促銷代碼會定期變更，請在購物前查看我們的專屬頁面。",
         "imageFit": "wide",
         "bullets": [
-          "每月促銷優惠碼：設有到期日，通常提供 10% 至 15% 折扣（例如截圖時展示的 BTSVIP15 代碼）。",
-          "獎勵代碼（Reward Code）：如 CECILIA010 等專屬網紅代碼，可額外疊加高達 5% 折扣。",
+          "每月促銷優惠碼：設有到期日，通常提供 10% 至 15% 折扣。",
+          "獎勵碼（Reward Code）：如 CECILIA010 等專屬網紅代碼，可額外疊加高達 5% 折扣。",
           "官方來源：關注官網頂部橫幅、電子報或我們的專屬優惠碼頁面。"
         ]
       },
@@ -36693,7 +36704,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "CECILIA010 代碼運作方式：高達 5% 額外折扣",
         "paragraphs": [
-          "CECILIA010 是 Cecília 在 YesStyle 網紅計畫中的官方獎勵代碼，是一個可長期使用的合作代碼。",
+          "CECILIA010 是 Cecília 在 YesStyle 網紅計畫中的官方獎勵碼，是一個可長期使用的合作代碼。",
           "購物車折扣套用規則：",
           "・新客戶（首次購買）：購物車額外享 5% 折扣。",
           "・老客戶（再次購買）：購物車額外享 2% 折扣。",
@@ -36747,7 +36758,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "YesStyle 上熱銷的韓國美妝與護膚折扣商品列表。",
-        "imageCaption": "促銷代碼與 CECILIA010 獎勵代碼成功疊加顯示的最終結帳畫面。",
+        "imageCaption": "促銷代碼與 CECILIA010 獎勵碼成功疊加顯示的最終結帳畫面。",
         "imageFit": "cover"
       },
       {
@@ -36774,6 +36785,7 @@ export const reviewsData: unknown[] = [
         "heading": "FAQ — YesStyle 優惠碼常見問題",
         "bullets": [
           "Coupon Code 與 Reward Code 有何不同？ Coupon Code 是 YesStyle 發行的臨時促銷代碼。CECILIA010 是填入 Reward Code 欄位的網紅代碼，可額外享高達 5% 折扣（首購5%/複購2%）。活動允許時兩者可疊加。",
+          "什麼是 YesStyle 網紅代碼？ 它是獎勵碼（Reward Code），須填入結帳頁面專屬的獨立欄位，與 Coupon Code 欄位分開。我們的代碼是 CECILIA010：首次訂單享 5% 折扣，之後的訂單享 2% 折扣。",
           "YesStyle 優惠碼有使用期限嗎？ 有的，促銷代碼均有到期日。結帳前請確認最低消費金額及適用商品。",
           "在哪裡可以查看 YesStyle 官方優惠碼條款？ 可在 YesStyle 客服中心的 \"General Terms and Conditions for Coupons\" 以及 \"Promotions\" 頁面查看。",
           "一筆訂單可以使用多個促銷優惠碼嗎？ 不行，每筆訂單僅限使用一個 Coupon Code。但 CECILIA010 屬於 Reward Code，可與符合條件的 Coupon Code 疊加使用。"
@@ -36800,7 +36812,7 @@ export const reviewsData: unknown[] = [
     "type": "指南与优惠码",
     "reviewKind": "guia",
     "description": "查找 YesStyle 有效促销代码的实用指南，了解 Coupon Code 与 Reward Code 的区别，并使用 CECILIA010 叠加享高达 5% 额外折扣。",
-    "metaDescription": "学习如何找到有效的 YesStyle 促销优惠码，避免过期代码，并配合奖励代码 CECILIA010 叠加享高达 5% 额外折扣。",
+    "metaDescription": "学习如何找到有效的 YesStyle 促销优惠码，避免过期代码，并配合奖励码 CECILIA010 叠加享高达 5% 额外折扣。",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
     "hideFromPortugueseListings": true,
@@ -36841,7 +36853,7 @@ export const reviewsData: unknown[] = [
         "value": "YesStyle（官方）"
       },
       {
-        "key": "奖励代码",
+        "key": "奖励码",
         "value": "CECILIA010（高达 5% 额外折扣）",
         "highlight": true
       },
@@ -36866,7 +36878,7 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hans",
-        "title": "YesStyle 奖励代码 CECILIA010（指南）"
+        "title": "YesStyle 奖励码 CECILIA010（指南）"
       }
     ],
     "contentSections": [
@@ -36879,11 +36891,11 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "YesStyle 上热销的韩国美妆与护肤折扣商品列表。",
-        "imageCaption": "2026年7月24日记录的官方促销优惠码范例（BTSVIP15 代码）。促销代码会定期变更，请在购物前查看我们的专属页面。",
+        "imageCaption": "2026年7月24日记录的官方促销优惠码范例，该活动已结束。促销代码会定期变更，请在购物前查看我们的专属页面。",
         "imageFit": "wide",
         "bullets": [
-          "每月促销优惠码：设有到期日，通常提供 10% 至 15% 折扣（例如截图时展示的 BTSVIP15 代码）。",
-          "奖励代码（Reward Code）：如 CECILIA010 等专属网红代码，可额外叠加高达 5% 折扣。",
+          "每月促销优惠码：设有到期日，通常提供 10% 至 15% 折扣。",
+          "奖励码（Reward Code）：如 CECILIA010 等专属网红代码，可额外叠加高达 5% 折扣。",
           "官方来源：关注官网顶部横幅、电子报或我们的专属优惠码页面。"
         ]
       },
@@ -36905,7 +36917,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "CECILIA010 代码运作方式：高达 5% 额外折扣",
         "paragraphs": [
-          "CECILIA010 是 Cecília 在 YesStyle 网红计划中的官方奖励代码，是一个可长期使用的合作代码。",
+          "CECILIA010 是 Cecília 在 YesStyle 网红计划中的官方奖励码，是一个可长期使用的合作代码。",
           "购物车折扣套用规则：",
           "・新客户（首次购买）：购物车额外享 5% 折扣。",
           "・老客户（再次购买）：购物车额外享 2% 折扣。",
@@ -36959,7 +36971,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "YesStyle 上热销的韩国美妆与护肤折扣商品列表。",
-        "imageCaption": "促销代码与 CECILIA010 奖励代码成功叠加显示的最终结账画面。",
+        "imageCaption": "促销代码与 CECILIA010 奖励码成功叠加显示的最终结账画面。",
         "imageFit": "cover"
       },
       {
@@ -36986,6 +36998,7 @@ export const reviewsData: unknown[] = [
         "heading": "FAQ — YesStyle 优惠码常见问题",
         "bullets": [
           "Coupon Code 与 Reward Code 有何不同？ Coupon Code 是 YesStyle 发行的临时促销代码。CECILIA010 是填入 Reward Code 栏位的网红代码，可额外享高达 5% 折扣（首购5%/复购2%）。活动允许时两者可叠加。",
+          "什么是 YesStyle 网红代码？ 它是奖励码（Reward Code），须填入结账页面专属的独立栏位，与 Coupon Code 栏位分开。我们的代码是 CECILIA010：首次订单享 5% 折扣，之后的订单享 2% 折扣。",
           "YesStyle 优惠码有使用期限吗？ 有的，促销代码均有到期日。结账前请确认最低消费金额及适用商品。",
           "在哪里可以查看 YesStyle 官方优惠码条款？ 可在 YesStyle 客服中心的 \"General Terms and Conditions for Coupons\" 以及 \"Promotions\" 页面查看。",
           "一笔订单可以使用多个促销优惠码吗？ 不行，每笔订单仅限使用一个 Coupon Code。但 CECILIA010 属于 Reward Code，可与符合条件的 Coupon Code 叠加使用。"
@@ -37009,6 +37022,7 @@ export const reviewsData: unknown[] = [
     "id": 243,
     "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
     "title": "Tabela de medidas Dolce Gusto: quantos ml saem em cada nível?",
+    "seoTitle": "Tabela de medidas Dolce Gusto: ml por risco, do 1 ao 7 e XL",
     "type": "Guia",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -37020,7 +37034,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Tabela de referência construída a partir dos manuais da Genio S Touch e da Mini Me 2.0, agora com fotos da tabela impressa na embalagem — inclui cafés, lattes, bebidas em duas etapas e XL.",
-    "metaDescription": "Quantos ml saem em cada nível da Dolce Gusto? Veja a referência confirmada nos manuais da Genio S Touch e da Mini Me 2.0, do nível 1 à função XL.",
+    "metaDescription": "Quantos ml tem cada risco (traço ou barra) da Dolce Gusto, do 1 ao 7 e no XL, segundo os manuais da Genio S Touch e da Mini Me, com a tabela da caixa.",
     "publishedAt": "2 de agosto de 2026",
     "publishedAtISO": "2026-08-02",
     "draft": false,
@@ -37033,7 +37047,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Quando começamos a usar a Genio S Touch em casa, uma dúvida apareceu rápido: os tracinhos e ícones do painel não mostram os valores em mililitros. A gente só via os símbolos — os mesmos impressos nas cápsulas — mas sem números para orientar receitas, comparações ou até curiosidade pessoal.",
           "Pesquisando online, encontramos informações conflitantes sobre os valores de cada nível. Parte dessa diferença pode vir de modelos, cápsulas ou referências distintas — inclusive há fontes que associam a função XL a 280 ml, enquanto o manual da nossa Genio S Touch mostra 300 ml.",
-          "A Nestlé não publica, no manual nem no site oficial, uma tabela única que relacione todos os níveis aos volumes em mililitros. Por isso, reunimos os valores que aparecem nos diferentes exemplos e cartões de receita do manual impresso da Genio S Touch. O manual da Mini Me 2.0 repete o mesmo gráfico com as mesmas medidas, reforçando essa referência em dois modelos. Ainda assim, as faixas abaixo são uma compilação editorial, não uma calibração oficial válida para todas as máquinas e cápsulas.",
+          "A Nestlé não publica, no manual nem no site oficial, uma tabela única que relacione todos os níveis aos volumes em mililitros. Por isso, reunimos os valores que aparecem nos diferentes exemplos e cartões de receita do manual impresso da Genio S Touch. O manual da Mini Me 2.0 repete as medidas dos níveis de 1 a 7, reforçando essa referência em dois modelos; a função XL, que a Mini Me 2.0 não tem, vem só da Genio S Touch. Ainda assim, as faixas abaixo são uma compilação editorial, não uma calibração oficial válida para todas as máquinas e cápsulas.",
           "Também fotografamos a tabela de preparo impressa em uma embalagem da linha Dolce Gusto. As imagens abaixo tornam visíveis as recomendações por bebida, inclusive as receitas feitas em duas etapas. Elas documentam essa tabela específica e não substituem a orientação impressa na cápsula ou no manual do seu modelo."
         ],
         "bullets": []
@@ -37061,7 +37075,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como funciona a variação de volume por nível",
         "paragraphs": [
-          "A escala de seletores varia de 1 a 7 barras mais a opção XL. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, os volumes progridem de cerca de 35-40 ml no nível 1 até 200-220 ml no nível 7, enquanto a função XL aparece com 300 ml.",
+          "A escala de seletores varia de 1 a 7 barras mais a opção XL. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, os volumes progridem de cerca de 35-40 ml no nível 1 até 200-220 ml no nível 7, enquanto a função XL, que a Mini Me 2.0 não tem, aparece com 300 ml no manual da Genio S Touch.",
           "Cada cápsula traz uma quantidade recomendada impressa na embalagem em forma de barras. Ao selecionar o número correspondente no painel touch, a máquina segue o nível indicado para aquela receita; o volume final deve ser entendido como aproximado e pode variar conforme a bebida e o modelo.",
           "Nas bebidas preparadas em duas etapas, como lattes e cappuccinos, o volume total no copo é a soma das extrações. Na tabela fotografada, o cappuccino combina 200 ml da etapa de leite com 40 ml da etapa de café, totalizando 240 ml. O latte macchiato combina 170 ml de leite e 50 ml de café, totalizando 220 ml."
         ],
@@ -37072,8 +37086,9 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain"
       },
       {
-        "heading": "Terminologia: tracinho, barra, nível e lungo",
+        "heading": "Risco, traço, tracinho ou barra: é tudo o mesmo nível",
         "paragraphs": [
+          "Risco, risquinho, traço, tracinho ou barra: são nomes diferentes para a mesma marcação da escala de água. O manual da Genio S Touch fala em barras, e a Nestlé, em tracinhos.",
           "Uma curiosidade: a própria Nestlé usa a palavra 'tracinho' na documentação oficial. Você pode ver isso até na página do Adaptador NEO Start no site da marca, que menciona 'Para cafés espressos, faça com 1 tracinho de água, para Lungos, com 4 tracinhos'.",
           "Isso confirma que a própria marca usa os tracinhos como orientação de preparo e recomenda **4 tracinhos para lungo**. Nos exemplos reunidos no manual, esse nível aparece associado a aproximadamente 110-120 ml, mas não existe uma tabela oficial única que estabeleça essa equivalência para todas as cápsulas e máquinas."
         ],
@@ -37098,8 +37113,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "XL nos manuais consultados: 300 ml",
         "paragraphs": [
-          "Algumas fontes associam a função XL a 280 ml. Nos manuais consultados da Genio S Touch e da Mini Me 2.0, porém, o gráfico mostra diretamente **300 ml para XL**. A repetição das mesmas medidas em dois modelos fortalece a referência, embora a Nestlé não disponibilize uma tabela única para toda a linha.",
-          "Se você tem uma máquina diferente e o manual dela traz outros valores, priorize a documentação do seu modelo. Esta referência foi confirmada nos manuais da Genio S Touch e da Mini Me 2.0."
+          "Algumas fontes associam a função XL a 280 ml. No manual da Genio S Touch, porém, o gráfico mostra diretamente **300 ml para XL**. A Mini Me 2.0 não tem a função XL, segundo o comparativo de máquinas da loja oficial, e a Nestlé não disponibiliza uma tabela única para toda a linha.",
+          "Se você tem uma máquina diferente e o manual dela traz outros valores, priorize a documentação do seu modelo. O XL de 300 ml foi confirmado no manual da Genio S Touch."
         ],
         "bullets": [],
         "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-4.webp",
@@ -37109,7 +37124,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom CECI para comprar na loja oficial",
         "paragraphs": [
-          "Se você chegou diretamente a este guia e pretende comprar cápsulas ou uma máquina, use o cupom **CECI** na loja oficial da NESCAFÉ Dolce Gusto para obter **5% de desconto**, conforme as regras vigentes no momento da compra.",
+          "Se você chegou diretamente a este guia e pretende comprar cápsulas ou uma máquina, use o cupom **CECI** na loja oficial da NESCAFÉ Dolce Gusto para obter **5% de desconto** em compras a partir de R$ 100, conforme as regras vigentes no momento da compra.",
           "Digite CECI no campo de cupom antes de concluir o pedido e confirme se o desconto foi aplicado. O cupom faz parte da nossa parceria comercial com a marca, sem custo adicional para você."
         ],
         "bullets": [],
@@ -37123,11 +37138,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quantos ml cada botão ou tracinho da Dolce Gusto? A Nestlé não publica uma equivalência única para toda a linha. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, reunimos estas referências aproximadas: 1 barra = 35-40 ml, 2 = 50-60 ml, 3 = 80-90 ml, 4 = 110-120 ml, 5 = 140-150 ml, 6 = 170-180 ml, 7 = 200-220 ml e XL = 300 ml.",
+          "Quantos ml tem cada risco (tracinho) da Dolce Gusto? A Nestlé não publica uma equivalência única para toda a linha. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, reunimos estas referências aproximadas: 1 barra = 35-40 ml, 2 = 50-60 ml, 3 = 80-90 ml, 4 = 110-120 ml, 5 = 140-150 ml, 6 = 170-180 ml, 7 = 200-220 ml e XL = 300 ml (só na Genio S Touch: a Mini Me 2.0 não tem XL).",
+          "Quantos ml faz uma cápsula Dolce Gusto? Depende da bebida: na tabela da caixa, os cafés pretos vão de 35 ml (Ristretto Ardenza) a 145 ml (Café Caseiro), e o número de riscos certo vem impresso em cada cápsula.",
           "E os níveis intermediários? Nos exemplos do manual, os volumes aumentam progressivamente entre as barras. As faixas deste artigo são uma compilação de diferentes cartões de receita, não uma calibração oficial universal.",
           "O que significam os tracinhos ou barras da Dolce Gusto? Eles indicam o nível de água recomendado para o preparo da cápsula. Mais tracinhos normalmente significam uma bebida de maior volume, mas o resultado deve ser tratado como aproximado.",
           "Quantos tracinhos para lungo? A Nestlé menciona 4 tracinhos de água para Lungos — esse dado vem da documentação oficial do Adaptador NEO Start.",
-          "Dolce Gusto XL: realmente 300 ml? Nos manuais consultados da Genio S Touch e da Mini Me 2.0, sim: ambos mostram 300 ml para a função XL. Outros modelos ou referências podem apresentar informações diferentes.",
+          "Dolce Gusto XL: realmente 300 ml? No manual da Genio S Touch, sim: o gráfico mostra 300 ml para a função XL. A Mini Me 2.0 não tem XL, segundo o comparativo da loja oficial, e outros modelos podem apresentar informações diferentes.",
           "Cupom CECI ainda é válido? Cupons promocionais têm prazo de validade e podem mudar. Se o CECI não estiver ativo quando você for comprar, o link da loja oficial neste artigo mostra a promoção vigente no momento."
         ]
       }
@@ -37268,6 +37284,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
+        "heading": "Os produtos da YesStyle são originais? De onde é a YesStyle?",
+        "paragraphs": [
+          "A YesStyle é de Hong Kong. Foi fundada lá em 2006 e pertence à YesAsia Holdings Limited, listada na Bolsa de Hong Kong (código 2209.HK), que também opera a loja YesAsia e a AsianBeautyWholesale, plataforma de atacado de beleza asiática.",
+          "Sobre a originalidade, a YesStyle afirma ser revendedora autorizada de mais de 400 marcas de beleza coreana e comprar das fabricantes ou de distribuidores autorizados por elas. Não encontramos auditoria independente que confirme essa afirmação; por isso, seguem conferências que o próprio comprador consegue fazer (sugestão nossa, não da loja):"
+        ],
+        "bullets": [
+          "Na página do produto, confira se a marca e o nome do item batem com o site oficial da marca;",
+          "Na caixa, procure o lote e a validade impressos e confira a validade antes de abrir;",
+          "Na entrega, confira o lacre do produto e da embalagem;",
+          "Se algo parecer diferente do anunciado, não use o produto e fale antes com o atendimento da YesStyle."
+        ]
+      },
+      {
         "heading": "O que observar antes de comprar",
         "paragraphs": [
           "Como em qualquer compra internacional, recomenda-se verificar os seguintes pontos antes de finalizar o pedido na YesStyle:"
@@ -37285,7 +37314,7 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e código de recompensa",
         "paragraphs": [
           "O Em Casa com Cecília mantém uma parceria comercial com a YesStyle. Por meio dessa parceria, leitores podem utilizar o código de recompensa (Reward Code) CECILIA010 no campo específico do checkout para obter até 5% de desconto extra na primeira compra e 2% nas compras recorrentes. Este código é compatível com cupons promocionais elegíveis ativos no site, permitindo acumular descontos.",
-          "O código CECILIA010 é permanente enquanto a parceria durar, diferente de cupons sazonais que mudam mês a mês. A utilização do código não gera custo adicional para o leitor — o benefício é concedido pela marca como apoio ao projeto editorial Em Casa com Cecília."
+          "O código CECILIA010 não tem data de validade e segue ativo enquanto a parceria com a YesStyle continuar. A utilização do código não gera custo adicional para o leitor — o benefício é concedido pela marca como apoio ao projeto editorial Em Casa com Cecília."
         ],
         "bullets": []
       },
@@ -37293,7 +37322,8 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A YesStyle é confiável ou é um site falso? A YesStyle é legítima. É uma empresa fundada em 2006 com sede em Hong Kong, subsidiária da YesAsia Holdings Limited, listada na bolsa de Hong Kong (2209.HK), e se apresenta como distribuidora autorizada das marcas que vende.",
-          "YesStyle vende produtos autênticos? A YesStyle declara ser distribuidora autorizada de mais de 400 marcas de beleza coreana, comprando diretamente das fabricantes ou de distribuidores parceiros oficiais.",
+          "De onde é a YesStyle? De Hong Kong: a loja foi fundada lá em 2006 e pertence à YesAsia Holdings, listada na Bolsa de Hong Kong (2209.HK).",
+          "Os produtos da YesStyle são originais ou falsificados? A YesStyle afirma ser revendedora autorizada de mais de 400 marcas de beleza coreana, comprando das fabricantes ou de distribuidores autorizados. Não há auditoria independente dessa afirmação; na entrega, confira lote, validade e lacre.",
           "Qual o prazo de entrega da YesStyle para o Brasil? O prazo padrão é de 10 a 25 dias úteis, dependendo do método e da localização. Os envios ao Brasil voltaram (situação confirmada em setembro de 2026); confira no carrinho a estimativa para o seu CEP.",
           "YesStyle cobra impostos de importação para o Brasil? Pode haver cobrança de impostos na chegada do pacote, via Correios ou transportadora; as alíquotas dependem do valor do pedido e do estado e mudam com o tempo. A YesStyle reembolsa essas taxas alfandegárias em pedidos abaixo de US$ 1.000 (valor antes dos cupons, sem o frete): pague a cobrança, guarde o comprovante e envie ao atendimento da loja em até 30 dias. O reembolso vem em crédito na YesStyle.",
           "O código CECILIA010 muda o preço final do produto? Não. O código CECILIA010 oferece até 5% extra (5% 1ª compra, 2% recorrente) como benefício da parceria, sem custo adicional para o leitor.",
@@ -37349,7 +37379,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "image": "/images/reviews/dolcegusto/assinatura-dolce-gusto-como-assinar-hero.webp",
     "imageAlt": "Banner oficial da Dolce Gusto: como assinar em poucos passos. Selecione a partir de 3 sabores, defina se quer receber todo mês, a cada dois ou três meses, e suas bebidas chegam até você",
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
     "cons": [],
@@ -37362,7 +37392,7 @@ export const reviewsData: unknown[] = [
           "O pagamento é só no cartão de crédito (Visa, Mastercard ou Elo), sem parcelamento. Não há taxa de adesão nem mensalidade.",
           "O primeiro pedido de assinatura rende **1.000 pontos** no Dolce Gusto Club, uma vez por CPF.",
           "Dá para cancelar quando quiser, sem multa, até 1 dia antes do próximo pedido.",
-          "No nosso teste de 4 de outubro de 2026, o cupom **CECI** somou 5% aos 25% da assinatura."
+          "No nosso teste de 4 de outubro de 2026, o cupom **CECI** somou 5% aos 25% da assinatura. Ele vale em pedidos a partir de R$ 100."
         ]
       },
       {
@@ -37445,7 +37475,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom CECI na assinatura",
         "paragraphs": [
           "O item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os cupons direcionados a assinantes. O **CECI** não é um cupom do site: é o cupom de parceria do Em Casa com Cecília.",
-          "No nosso teste de 4 de outubro de 2026, o checkout aplicou os 25% da assinatura e mais **5% do CECI** num pedido de 4 caixas. Antes de concluir, procure a linha do cupom no resumo do pedido. Se ela não aparecer, a assinatura segue com os 25% normalmente."
+          "No nosso teste de 4 de outubro de 2026, o checkout aplicou os 25% da assinatura e mais **5% do CECI** num pedido de 4 caixas. O CECI vale a partir de R$ 100 em produtos, e o pedido mínimo da assinatura, de 3 caixas, pode ficar abaixo disso. Antes de concluir, procure a linha do cupom no resumo do pedido. Se ela não aparecer, a assinatura segue com os 25% normalmente."
         ],
         "links": [
           {
@@ -37503,7 +37533,7 @@ export const reviewsData: unknown[] = [
           "A assinatura Dolce Gusto tem mensalidade? Não. Não há mensalidade, taxa de adesão ou taxa de cancelamento: você paga só as caixas do pedido.",
           "Qual é o pedido mínimo da assinatura Dolce Gusto? São 3 caixas de bebidas por entrega.",
           "Posso misturar cápsulas Geração 1 e NEO na mesma assinatura? Sim. O FAQ oficial diz que as duas linhas podem estar na mesma assinatura.",
-          "O cupom CECI funciona na assinatura Dolce Gusto? No nosso teste de 4 de outubro de 2026, sim: o CECI deu 5% além dos 25% da assinatura.",
+          "O cupom CECI funciona na assinatura Dolce Gusto? No nosso teste de 4 de outubro de 2026, sim: o CECI deu 5% além dos 25% da assinatura, num pedido de 4 caixas. O cupom vale a partir de R$ 100 em produtos.",
           "Como cancelar a assinatura Dolce Gusto? Pela área Minha Assinatura no site oficial ou pelo e-mail atendimento.dolcegusto@nestle.com.br, até 1 dia antes do próximo pedido.",
           "Se eu cancelar e assinar de novo, ganho os 1.000 pontos outra vez? Não. A nova assinatura tem 25% e frete grátis, mas os 1.000 pontos são uma vez por CPF.",
           "O que acontece se o cartão for recusado? A loja tenta cobrar 3 vezes em 3 dias seguidos, e três erros consecutivos na recorrência cancelam a assinatura.",
@@ -37748,7 +37778,7 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Adaptador NESCAFÉ Dolce Gusto NEO Start oficial para máquinas da linha ORIGINAL",
     "publishedAtISO": "2026-08-04",
     "isNew": false,
-    "imageFit": "cover"
+    "imageFit": "contain"
   },
   {
     "id": 247,
@@ -37940,13 +37970,13 @@ export const reviewsData: unknown[] = [
         "heading": "O que é o Sleeptest",
         "paragraphs": [
           "O Sleeptest é a política de teste de conforto da I Wanna Sleep — basicamente, você compra um colchão, travesseiro ou outro item e tem um período para testar em casa antes de decidir se mantém ou troca. Parece simples, mas a realidade tem camadas: prazos diferentes dependendo do produto, custos que você precisa pagar em algumas categorias, e regras bem específicas sobre embalagem e estado do item.",
-          "A gente mantém uma parceria com a marca e já recebemos alguns produtos aqui em casa (como o Cobertor IWS Igloo), mas nunca acionamos uma troca via Sleeptest. As informações que você encontra neste artigo vêm diretamente da política oficial publicada em suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Sleeptest, consultada em 30 de julho de 2026. Por isso, resolvemos traduzir tudo para PT limpo: o que a gente sabe, as pegadinhas, e o que você precisa conferir antes de comprar."
+          "A gente mantém uma parceria com a marca e já recebemos alguns produtos aqui em casa (como o Cobertor IWS Igloo), mas nunca acionamos uma troca via Sleeptest. As informações que você encontra neste artigo vêm diretamente da política oficial publicada em suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Sleeptest, conferida de novo em 12 de outubro de 2026. Por isso, resolvemos traduzir tudo para PT limpo: o que a gente sabe, as pegadinhas, e o que você precisa conferir antes de comprar."
         ]
       },
       {
         "heading": "Colchões: 100 dias para testar (e R$300 para trocar)",
         "paragraphs": [
-          "Os colchões têm o período mais longo: até 100 dias a partir da entrega. Mas tem um detalhe que muda tudo — o uso mínimo.",
+          "Os colchões da I Wanna Sleep são vendidos só nas lojas físicas de Belo Horizonte, com as consultoras do sono, e a troca é feita na mesma loja da compra. Eles têm o período mais longo: até 100 dias a partir da entrega. Mas tem um detalhe que muda tudo — o uso mínimo.",
           "Você só pode pedir troca após 15 dias de uso. Isso significa que não é possível comprar, receber, ficar 2 dias e devolver insatisfeito sem usar. A marca quer ter certeza de que você testou de verdade, não apenas abriu a embalagem."
         ],
         "bullets": [
@@ -37955,7 +37985,7 @@ export const reviewsData: unknown[] = [
           "Motivo: Apenas por conforto (não serve para trocar tamanho: casal por casal, por exemplo)",
           "Condições exigidas: Colchão sem danos visíveis ou sujeira; protetor de colchão usado durante todo o período; etiqueta de fábrica intacta; embalagem original completa; nota fiscal em mãos; 1 troca por CPF (ou seja, você não pode trocar duas vezes)",
           "Custo da troca: Taxa única de frete + montagem de R$300 em Belo Horizonte e região metropolitana — demais regiões precisam consultar com o pós-vendas",
-          "O que vira crédito ou devolução: Se o novo colchão for mais caro que o que você está devolvendo, você paga a diferença; se for mais barato, o valor vira crédito na loja (não funciona em loja física, só no e-commerce)"
+          "O que vira crédito ou devolução: Se o novo colchão for mais caro que o que você está devolvendo, você paga a diferença; se for mais barato, a diferença vira crédito para trocar por outro produto da loja"
         ]
       },
       {
@@ -37983,7 +38013,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cobertores: confira a página do produto antes de comprar",
         "paragraphs": [
-          "Aqui entra uma pegadinha importante. A política oficial do Sleeptest que capturamos da central de ajuda não lista cobertores como categoria — ela cobre colchões, travesseiros e pillow tops.",
+          "Aqui entra uma pegadinha importante. A política oficial do Sleeptest que capturamos da central de ajuda não lista cobertores como categoria — ela cobre colchões, travesseiros, pillow tops e nutrição.",
           "Mas produtos específicos como o Cobertor IWS Igloo (que a gente tem aqui em casa) anunciam suas próprias políticas de teste na página do produto. No caso do Igloo, a marca anuncia \"teste de 30 noites com reembolso em crédito\".",
           "A lição: não suponha que cobertor segue a regra de travesseiro só porque parecem similares. Cada produto tem sua política anunciada na página. Confira lá antes de adicionar ao carrinho — e se tiver dúvida, mande mensagem pro atendimento da marca para confirmar antes de comprar."
         ],
@@ -37997,7 +38027,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutrição e outras categorias",
         "paragraphs": [
-          "A política oficial menciona que existem regras de Sleeptest para a categoria \"Nutrição\" (suplementos), mas os detalhes específicos não estão publicados na central de ajuda que consultamos. Se você quer comprar um suplemento com a garantia de teste, entre em contato direto com o pós-vendas da marca para não ter surpresa — não assuma que as regras de travesseiro vale para suplemento."
+          "A política oficial também tem regras para a categoria \"Nutrição\" (suplementos): 30 dias desde a entrega, com no mínimo 15 dias de uso, nota fiscal e envio pelos Correios ao centro de distribuição, sem custo. Quem pede a troca recebe crédito. Segundo a política, a troca vale para quem não sentiu resultado no sono, e só para compras feitas no site."
         ]
       },
       {
@@ -38008,8 +38038,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Etiqueta intacta é obrigatória: Se você remover a etiqueta de fábrica, perde o direito à troca. Mesmo que o colchão/travesseiro esteja perfeito.",
           "Um só CPF, uma só troca: Não tente traçar a conta — a política é explícita em \"1 troca por CPF\". Você não consegue trocar duas vezes, nem com pessoas diferentes da família usando o mesmo CPF.",
-          "E-commerce troca em e-commerce, loja física troca em loja física: Se você comprou online, a troca é processada online. Se comprou na loja física, volta para a loja física.",
-          "Crédito vale só no e-commerce (para colchões com diferença de preço): Se você pedir crédito, esse crédito não vale em loja física — só no site.",
+          "E-commerce troca em e-commerce, loja física troca em loja física: Se você comprou online, a troca é processada online. Se comprou na loja física, a troca é feita na mesma loja da compra.",
+          "Crédito de compra feita no site fica no site: se a compra foi feita pelo e-commerce, o crédito da troca não vale nas lojas físicas.",
           "Embalagem original tem que estar completa: Não é só o colchão/travesseiro que importa — você precisa guardar toda a embalagem original durante os 100 dias (colchões) ou 30 dias (travesseiros). Se perdeu a caixa, perdeu a chance de trocar.",
           "Nota fiscal é documento obrigatório: Não venda com descontos \"sem nota fiscal\" — você vai precisar dela para ativar a garantia de teste."
         ]
@@ -38020,14 +38050,14 @@ export const reviewsData: unknown[] = [
           "Essa é a pergunta mais frequente. Na prática:",
           "Para travesseiros e pillow tops: O cliente recebe crédito automaticamente — não há devolução em dinheiro. O crédito fica na sua conta da loja e pode ser usado para comprar outro travesseiro, pillow top, lençol, sleepwear ou acessórios.",
           "Para colchões com diferença de preço: Se o novo colchão for mais barato, você também recebe crédito — não reembolso. Se for mais caro, você paga a diferença.",
-          "Em resumo: A política prioriza o crédito na loja, não devoluções em dinheiro. É uma prática comum em e-commerce, mas é bom saber disso na hora de decidir."
+          "Em resumo: a política prioriza o crédito na loja, não a devolução em dinheiro. A exceção são as compras feitas no site, que podem ser devolvidas em até 7 dias, como prevê o Código de Defesa do Consumidor."
         ]
       },
       {
         "heading": "Vale a pena? O veredito",
         "paragraphs": [
           "O Sleeptest é uma ótima garantia de conforto — você não está comprando \"gato por lebre\" nem ficando preso a um colchão que não dorme bem. Mas não é tão \"sem risco\" quanto parece à primeira vista.",
-          "Para colchões, os R$300 de taxa de logística reversa são um custo real. Em Belo Horizonte pode não parecer muito, mas é algo que você precisa contabilizar antes de comprar — se o colchão vai ser devolvido, você já desconta esses R$300 do valor que pagou. Se você mora em outro estado, a taxa pode ser ainda maior, então consulte.",
+          "Para colchões, os R$300 de taxa de logística reversa são um custo real. Em Belo Horizonte pode não parecer muito, mas é algo que você precisa contabilizar antes de comprar — se o colchão vai ser devolvido, você já desconta esses R$300 do valor que pagou. Fora de Belo Horizonte e da região metropolitana, a política não publica o valor: é preciso consultar o pós-vendas.",
           "Para travesseiros, aí sim: sem custo, 30 dias, crédito. É um incentivo real para você testar em casa com calma, o que é legal.",
           "A grande pegadinha é a etiqueta intacta e a embalagem original completa — muita gente abre tudo para limpar/lavar antes de dormir pela primeira vez e depois descobre que não pode trocar. Leia essa parte do contrato antes de rasgar a embalagem."
         ]
@@ -38035,15 +38065,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Como funciona o Sleeptest da I Wanna Sleep? É um período de teste de conforto para colchões (100 dias), travesseiros (30 dias) e pillow tops (30 dias). Você testa em casa, e se não gostar de conforto, pode trocar por outro — com algumas condições (uso mínimo, embalagem original, etiqueta intacta).",
+          "Como funciona o Sleeptest da I Wanna Sleep? É um período de teste de conforto para colchões (100 dias), travesseiros (30 dias), pillow tops (30 dias) e produtos de nutrição (30 dias). Você testa em casa, e se não gostar de conforto, pode trocar por outro — com algumas condições (uso mínimo, embalagem original, etiqueta intacta).",
           "Colchão I Wanna Sleep tem teste? Sim, 100 dias — mas você precisa usar no mínimo 15 dias antes de poder solicitar a troca.",
-          "Sleeptest devolve dinheiro ou crédito? Depende do produto. Para travesseiros, é sempre crédito. Para colchões, é crédito se o novo for mais barato; se for mais caro, você paga a diferença. Não há reembolso em dinheiro — tudo vira crédito de loja.",
-          "Quanto custa devolver colchão I Wanna Sleep? R$300 em Belo Horizonte e região metropolitana. Demais regiões precisam consultar com o pós-vendas da marca, pois o custo de logística varia.",
+          "Sleeptest devolve dinheiro ou crédito? Depende do produto. Para travesseiros, é sempre crédito. Para colchões, é crédito se o novo for mais barato; se for mais caro, você paga a diferença. Pelo Sleeptest não há reembolso em dinheiro: tudo vira crédito de loja. Compras feitas no site ainda podem ser devolvidas em até 7 dias, pelo direito de arrependimento.",
+          "Quanto custa devolver colchão I Wanna Sleep? R$300 em Belo Horizonte e região metropolitana. Para as demais regiões, a política manda consultar o pós-vendas da marca.",
           "Preciso manter a etiqueta? Sim, é obrigatório. Se arrancar a etiqueta de fábrica, perde o direito à troca.",
           "Posso trocar duas vezes? Não, a política permite apenas 1 troca por CPF durante todo o período.",
           "Se eu não gostar do colchão em 5 dias, consigo trocar? Não, é preciso usar no mínimo 15 dias antes de poder solicitar a troca.",
           "A embalagem original precisa estar perfeita? Sim, a embalagem original tem que estar completa se você quiser trocar — não pode estar rasgada ou parcialmente desmontada.",
-          "Vale a pena comprar colchão I Wanna Sleep com Sleeptest? Vale a pena pelo conforto testado, mas lembre-se dos R$300 de custo de troca (BH/região) e das condições rígidas (etiqueta intacta, 15 dias mínimo de uso, sem danos). Se você tem certeza do que quer, o Sleeptest é um diferencial. Se está muito em dúvida, converse antes com o atendimento para ter certeza da altura/densidade certa."
+          "Vale a pena comprar colchão I Wanna Sleep com Sleeptest? O colchão é vendido só nas lojas físicas de Belo Horizonte. Vale a pena pelo conforto testado, mas lembre-se dos R$300 de custo de troca (BH/região) e das condições rígidas (etiqueta intacta, 15 dias mínimo de uso, sem danos). Se você tem certeza do que quer, o Sleeptest é um diferencial. Se está muito em dúvida, converse antes com o atendimento para ter certeza da altura/densidade certa."
         ]
       }
     ],
@@ -38054,7 +38084,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Este artigo traduz a política oficial de Sleeptest da I Wanna Sleep com base em dados públicos coletados diretamente da central de ajuda oficial em 30 de julho de 2026. O cupom CECIEMCASA (10% de desconto) é oferecido por meio de uma parceria comercial entre o Em Casa com Cecília e a marca. Ao comprar por meio de nossas indicações, você ajuda a manter nosso trabalho editorial sem qualquer custo adicional. Os preços, políticas e cupons estão sujeitos a alterações pela marca.",
+    "editorialNote": "Este artigo traduz a política oficial de Sleeptest da I Wanna Sleep com base em dados públicos coletados diretamente da central de ajuda oficial. O cupom CECIEMCASA (10% de desconto) é oferecido por meio de uma parceria comercial entre o Em Casa com Cecília e a marca. Ao comprar por meio de nossas indicações, você ajuda a manter nosso trabalho editorial sem qualquer custo adicional. Os preços, políticas e cupons estão sujeitos a alterações pela marca.",
     "relatedArticles": [
       {
         "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
@@ -38285,6 +38315,7 @@ export const reviewsData: unknown[] = [
     "id": 250,
     "slug": "is-yesstyle-legit-and-safe-review",
     "title": "Is YesStyle Legit and Safe? What to Know Before Shopping",
+    "seoTitle": "Is YesStyle Legit? Yes: Hong Kong Retailer Since 2006",
     "type": "Editorial",
     "reviewKind": "editorial",
     "author": {
@@ -38295,7 +38326,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "An analysis of YesStyle public company data: Hong Kong headquarters, 400+ authorized Korean beauty brands, global shipping policies, customs, and buyer protection.",
-    "metaDescription": "Is YesStyle legit and safe? Public company data, 400+ authorized K-beauty brand partnerships, shipping policies, customs, and shopping tips.",
+    "metaDescription": "Yes. YesStyle is a Hong Kong retailer founded in 2006 and owned by YesAsia Holdings, listed in Hong Kong. Product authenticity, shipping and what to check.",
     "publishedAt": "August 2, 2026",
     "publishedAtISO": "2026-08-02",
     "draft": false,
@@ -38342,6 +38373,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
+        "heading": "Are YesStyle Products Authentic? Where Is YesStyle From?",
+        "paragraphs": [
+          "YesStyle is from Hong Kong. It was founded there in 2006 and belongs to YesAsia Holdings Limited, listed on the Hong Kong Stock Exchange (stock code 2209.HK), which also runs the YesAsia store and AsianBeautyWholesale, a wholesale platform for Asian beauty products.",
+          "On authenticity, YesStyle says it is an authorized retailer of more than 400 Korean beauty brands and that it sources from brand manufacturers or their authorized partners. We found no independent audit confirming that claim, so here is what you can check yourself (our suggestion, not YesStyle's):"
+        ],
+        "bullets": [
+          "On the product page, check that the brand and product name match the brand's official website;",
+          "On the box, look for the printed batch code and expiry date, and check the expiry date before opening;",
+          "On delivery, check the seal on the product and on the packaging;",
+          "If anything looks different from the listing, don't use the product and contact YesStyle customer service first."
+        ]
+      },
+      {
         "heading": "Tips Before Placing Your Order",
         "paragraphs": [
           "When shopping internationally on YesStyle, keep the following practical guidelines in mind:"
@@ -38367,10 +38411,11 @@ export const reviewsData: unknown[] = [
         "heading": "Frequently Asked Questions",
         "bullets": [
           "Is YesStyle legit and reliable? Yes, YesStyle is a legitimate online retailer founded in 2006. It is a subsidiary of YesAsia Holdings Limited (2209.HK), a publicly listed company on the Hong Kong Stock Exchange.",
-          "Does YesStyle sell authentic products? YesStyle states it is an authorized distributor for over 400 Korean beauty brands, sourcing directly from official manufacturers or authorized brand partners.",
+          "Where is YesStyle from? Hong Kong: it was founded there in 2006 and belongs to YesAsia Holdings, listed on the Hong Kong Stock Exchange (2209.HK).",
+          "Are YesStyle products authentic or fake? YesStyle says it is an authorized retailer of more than 400 Korean beauty brands, sourcing from manufacturers or authorized partners. We found no independent audit of that claim; when your order arrives, check the batch code, expiry date and seal.",
           "How long does YesStyle shipping take internationally? Standard international shipping usually takes 7 to 14 business days depending on the destination country and local customs handling.",
           "Does YesStyle offer free international shipping? Yes, free standard shipping is available on qualifying orders above minimum spend thresholds (such as $59 USD).",
-          "Does the Reward Code CECILIA010 expire? No, CECILIA010 is a permanent Reward Code that gives up to 5% extra discount and stacks with promo coupon codes.",
+          "Does the Reward Code CECILIA010 expire? It has no expiry date and stays active while the partnership with YesStyle continues. It gives up to 5% extra and stacks with an eligible promo coupon code.",
           "How do I use code CECILIA010 on YesStyle? Enter CECILIA010 in the 'Reward Code' field during checkout. It can be combined with a coupon code in the 'Coupon Code' field."
         ]
       }
@@ -38394,7 +38439,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 251,
     "slug": "es-yesstyle-de-fiar-y-seguro",
-    "title": "¿Es YesStyle de Fiar y Seguro? Lo que Debes Saber Antes de Comprar",
+    "title": "¿YesStyle es confiable y seguro? Quién la opera, de dónde es y envíos",
+    "seoTitle": "¿YesStyle es confiable? Sí: tienda de Hong Kong desde 2006",
     "type": "Editorial",
     "reviewKind": "editorial",
     "author": {
@@ -38405,7 +38451,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Análisis de datos públicos de YesStyle: sede en Hong Kong, distribuidor autorizado de más de 400 marcas de belleza coreana, envíos internacionales, aduanas y garantía al comprador.",
-    "metaDescription": "¿Es YesStyle confiable y seguro? Datos de la empresa, autorizaciones de marcas de K-beauty, envíos, impuestos y consejos de compra.",
+    "metaDescription": "Sí. YesStyle es una tienda online de Hong Kong fundada en 2006, filial de YesAsia Holdings, que cotiza en Hong Kong. Originalidad, envíos y qué revisar.",
     "publishedAt": "2 de agosto de 2026",
     "publishedAtISO": "2026-08-02",
     "draft": false,
@@ -38419,7 +38465,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
-        "heading": "Información Pública de la Empresa",
+        "heading": "Información pública de la empresa",
         "paragraphs": [
           "YesStyle Limited es una plataforma de comercio electrónico con sede en Hong Kong fundada en 2006. Opera como subsidiaria de YesAsia Holdings Limited, empresa cotizada en la Bolsa de Valores de Hong Kong (código 2209.HK). Esto significa que YesStyle cuenta con el respaldo de una corporación pública sometida a auditorías financieras regulares.",
           "La tienda presta servicio a compradores de más de 80 países en múltiples divisas e idiomas. Las compras internacionales se realizan de acuerdo con los estándares de comercio electrónico global, ofreciendo soporte al cliente para seguimiento de paquetes y devoluciones."
@@ -38430,7 +38476,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Catálogo y Posicionamiento de Mercado",
+        "heading": "Catálogo y posicionamiento de mercado",
         "paragraphs": [
           "YesStyle declara ser distribuidora autorizada de más de 400 marcas de belleza coreana (K-beauty), ofreciendo también productos de belleza japonesa y moda asiática. El catálogo incluye cuidado de la piel (tónicos, sérums, protectores solares), maquillaje y accesorios.",
           "La empresa declara en su información corporativa ser distribuidora autorizada de más de 400 marcas de belleza coreana, trabajando con firmas consolidadas como COSRX, Etude House, Hada Labo y Rohto, obteniendo productos directamente de fabricantes o socios distribuidores oficiales. Estar respaldada por una cotizada pública (YesAsia Holdings) aporta transparencia corporativa."
@@ -38441,7 +38487,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "wide"
       },
       {
-        "heading": "Envíos Internacionales y Atención al Cliente",
+        "heading": "Envíos internacionales y atención al cliente",
         "paragraphs": [
           "YesStyle realiza envíos internacionales a más de 80 países con envío estándar gratuito en pedidos que alcancen el importe mínimo requerido (como 48 € o 59 USD).",
           "Los plazos de entrega, umbrales de envío gratuito y costes varían según el país de destino, el método de envío elegido y la disponibilidad del producto. Las estimaciones exactas se calculan en la pantalla de pago. Las devoluciones de productos elegibles en embalaje original se gestionan mediante Autorización de Devolución (RMA) a través del soporte oficial."
@@ -38452,7 +38498,20 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Consejos Prácticos Antes de Pedir",
+        "heading": "¿Los productos de YesStyle son originales? ¿De dónde es YesStyle?",
+        "paragraphs": [
+          "YesStyle es de Hong Kong. Se fundó allí en 2006 y pertenece a YesAsia Holdings Limited, que cotiza en la Bolsa de Hong Kong (código 2209.HK) y que también gestiona la tienda YesAsia y AsianBeautyWholesale, una plataforma mayorista de belleza asiática.",
+          "En cuanto a la originalidad, YesStyle afirma ser revendedora autorizada de más de 400 marcas de belleza coreana y comprar a los fabricantes o a distribuidores autorizados por ellos. No hemos encontrado ninguna auditoría independiente que confirme esa afirmación, así que estas son las comprobaciones que puedes hacer tú mismo (sugerencia nuestra, no de la tienda):"
+        ],
+        "bullets": [
+          "En la página del producto, comprueba que la marca y el nombre del artículo coinciden con la web oficial de la marca;",
+          "En la caja, busca el lote y la fecha de caducidad impresos y revisa la caducidad antes de abrir;",
+          "Al recibir el pedido, revisa el precinto del producto y del embalaje;",
+          "Si algo no se parece a lo anunciado, no uses el producto y habla antes con el servicio de atención al cliente de YesStyle."
+        ]
+      },
+      {
+        "heading": "Consejos prácticos antes de pedir",
         "paragraphs": [
           "Antes de finalizar tu compra en YesStyle, ten en cuenta los siguientes consejos:"
         ],
@@ -38464,18 +38523,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Código de Recompensa y Descuento Adicional",
+        "heading": "Código de recompensa y descuento adicional",
         "paragraphs": [
           "Em Casa com Cecília mantiene una alianza comercial con YesStyle. Gracias a ella, puedes introducir el código de recompensa CECILIA010 en la casilla 'Reward Code' para conseguir hasta un 5% de descuento extra en tu primera compra y un 2% en pedidos habituales. Es acumulable con cupones promocionales.",
-          "El código CECILIA010 es permanente y no tiene ningún coste adicional para el comprador."
+          "El código CECILIA010 no tiene fecha de caducidad y sigue activo mientras continúe la alianza con YesStyle. Usarlo no supone ningún coste adicional para el comprador."
         ],
         "bullets": []
       },
       {
-        "heading": "Preguntas Frecuentes",
+        "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Es YesStyle confiable y legítimo? Sí, YesStyle es una tienda online auténtica fundada en 2006, filial de la empresa pública YesAsia Holdings Limited (2209.HK).",
-          "¿Los productos de YesStyle son originales? YesStyle declara ser distribuidor autorizado de más de 400 marcas de belleza coreana, comprando directamente a fabricantes o socios oficiales autorizados.",
+          "¿De dónde es YesStyle? De Hong Kong: la tienda se fundó allí en 2006 y pertenece a YesAsia Holdings, que cotiza en la Bolsa de Hong Kong (2209.HK).",
+          "¿Los productos de YesStyle son originales o falsificados? YesStyle afirma ser revendedora autorizada de más de 400 marcas de belleza coreana y comprar a los fabricantes o a distribuidores autorizados. No hay una auditoría independiente de esa afirmación; al recibir el pedido, revisa el lote, la caducidad y el precinto.",
           "¿Cuánto tarda en llegar un pedido de YesStyle? El envío internacional estándar suele tardar entre 7 y 14 días laborables.",
           "¿Cómo usar el código CECILIA010? Introduce CECILIA010 en la casilla 'Código de Recompensa' durante el proceso de pago."
         ]
@@ -38500,7 +38560,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 252,
     "slug": "yesstyle-est-il-fiable-et-sur",
-    "title": "YesStyle est-il Fiable et Sûr ? Ce qu'il Faut Savoir Avant d'Acheter",
+    "title": "YesStyle est-il fiable et sûr ? Ce qu'il faut savoir avant d'acheter",
     "type": "Éditorial",
     "reviewKind": "editorial",
     "author": {
@@ -38525,7 +38585,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
-        "heading": "Informations Publiques sur l'Entreprise",
+        "heading": "Informations publiques sur l'entreprise",
         "paragraphs": [
           "YesStyle Limited est une plateforme de e-commerce basée à Hong Kong, fondée en 2006. Elle est une filiale de YesAsia Holdings Limited, société cotée à la Bourse de Hong Kong sous le code 2209.HK. Cela garantit une gestion transparente et des comptes audités.",
           "Le site dessert plus de 80 pays en proposant plusieurs devises d'affichage. Les commandes sont traitées selon les normes du commerce électronique international."
@@ -38536,7 +38596,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Catalogue et Partenariats Officiels",
+        "heading": "Catalogue et partenariats officiels",
         "paragraphs": [
           "YesStyle déclare être revendeur agréé pour plus de 400 marques de beauté coréenne (K-beauty), tout en proposant des produits de beauté japonaise et de la mode asiatique. Le catalogue comprend des soins de la peau (sérums, essences, toniques, crèmes solaires), du maquillage et des accessoires.",
           "L'entreprise indique dans ses informations officielles être revendeur agréé pour plus de 400 marques de beauté coréenne, travaillant avec des marques établies comme COSRX, Etude House, Hada Labo et Rohto, en s'approvisionnant auprès des fabricants ou partenaires distributeurs certifiés. Son appartenance au groupe coté YesAsia Holdings constitue un gage de transparence financière."
@@ -38547,7 +38607,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "wide"
       },
       {
-        "heading": "Livraison Internationale et Retours",
+        "heading": "Livraison internationale et retours",
         "paragraphs": [
           "YesStyle propose la livraison internationale gratuite pour les commandes dépassant le montant minimum requis (ex. 48 € ou 59 USD).",
           "Les délais de livraison, frais et conditions de livraison gratuite varient en fonction du pays de destination, du mode d'expédition et de la disponibilité des articles. Les estimations exactes sont calculées lors de la validation du panier. Les retours d'articles éligibles sous emballage d'origine se font via une demande d'Autorisation de Retour (RMA) auprès du service client."
@@ -38558,7 +38618,20 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Conseils Avant de Commander",
+        "heading": "Les produits YesStyle sont-ils authentiques ? D'où vient YesStyle ?",
+        "paragraphs": [
+          "YesStyle est une enseigne de Hong Kong. Elle y a été fondée en 2006 et appartient à YesAsia Holdings Limited, société cotée à la Bourse de Hong Kong (code 2209.HK), qui exploite aussi la boutique YesAsia et AsianBeautyWholesale, une plateforme de vente en gros de produits de beauté asiatiques.",
+          "Concernant l'authenticité, YesStyle affirme être revendeur agréé de plus de 400 marques de beauté coréenne et s'approvisionner auprès des fabricants ou de distributeurs agréés par ces derniers. Nous n'avons trouvé aucun audit indépendant confirmant cette affirmation ; voici donc des vérifications que vous pouvez faire vous-même (suggestion de notre part, pas de la boutique) :"
+        ],
+        "bullets": [
+          "Sur la fiche produit, vérifiez que la marque et le nom de l'article correspondent au site officiel de la marque ;",
+          "Sur la boîte, repérez le numéro de lot et la date de péremption imprimés, et vérifiez la date avant d'ouvrir ;",
+          "À la livraison, contrôlez le scellé du produit et de l'emballage ;",
+          "Si quelque chose diffère de l'annonce, n'utilisez pas le produit et contactez d'abord le service client de YesStyle."
+        ]
+      },
+      {
+        "heading": "Conseils avant de commander",
         "paragraphs": [
           "Voici quelques conseils pratiques avant de valider votre panier :"
         ],
@@ -38569,20 +38642,21 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Code de Récompense et Réduction Supplémentaire",
+        "heading": "Code récompense et réduction supplémentaire",
         "paragraphs": [
           "Em Casa com Cecília est partenaire de YesStyle. En saisissant le code de récompense CECILIA010 dans le champ dédié au moment du paiement, vous bénéficiez de 5 % de réduction supplémentaire sur votre première commande et de 2 % sur les suivantes. Cumulable avec les codes promo.",
-          "Le code CECILIA010 est permanent et sans aucun frais pour l'acheteur."
+          "Le code CECILIA010 n'a pas de date d'expiration et reste actif tant que le partenariat avec YesStyle se poursuit. Son utilisation n'entraîne aucun frais pour l'acheteur."
         ],
         "bullets": []
       },
       {
-        "heading": "Foire Aux Questions",
+        "heading": "Foire aux questions",
         "bullets": [
           "YesStyle est-il un site fiable ? Oui, YesStyle est une entreprise légitime fondée en 2006, filiale du groupe coté en bourse YesAsia Holdings (2209.HK).",
-          "Les produits sont-ils authentiques ? YesStyle déclare être revendeur officiel agréé de plus de 400 marques de beauté coréenne, en direct des fabricants ou partenaires certifiés.",
+          "D'où vient YesStyle ? De Hong Kong : la boutique y a été fondée en 2006 et appartient à YesAsia Holdings, cotée à la Bourse de Hong Kong (2209.HK).",
+          "Les produits YesStyle sont-ils authentiques ou contrefaits ? YesStyle affirme être revendeur agréé de plus de 400 marques de beauté coréenne, en s'approvisionnant auprès des fabricants ou de distributeurs agréés. Nous n'avons trouvé aucun audit indépendant de cette affirmation ; à la réception, vérifiez le numéro de lot, la date de péremption et le scellé.",
           "Quel est le délai de livraison ? La livraison internationale standard prend en moyenne 7 à 14 jours ouvrés.",
-          "Comment utiliser le code CECILIA010 ? Saisissez CECILIA010 dans la case 'Code de Récompense' lors de la validation du panier."
+          "Comment utiliser le code CECILIA010 ? Saisissez CECILIA010 dans la case 'Code récompense' lors de la validation du panier."
         ]
       }
     ],
@@ -38605,7 +38679,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 253,
     "slug": "ist-yesstyle-serioes-und-sicher",
-    "title": "Ist YesStyle Seriös und Sicher? Was Sie Vor Dem Kauf Wissen Müssen",
+    "title": "Ist YesStyle seriös und sicher? Was Sie vor dem Kauf wissen müssen",
     "type": "Redaktionell",
     "reviewKind": "editorial",
     "author": {
@@ -38641,7 +38715,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Sortiment und Autorisierte Marken",
+        "heading": "Sortiment und autorisierte Marken",
         "paragraphs": [
           "YesStyle gibt an, autorisierter Händler für mehr als 400 koreanische Kosmetikmarken (K-Beauty) zu sein, und bietet darüber hinaus japanische Kosmetik und asiatische Mode an. Das Sortiment umfasst Hautpflege (Seren, Essenzen, Toner, Sonnenschutz), Make-up und Accessoires.",
           "Das Unternehmen erklärt in seinen Unternehmensangaben, autorisierter Händler für über 400 koreanische Kosmetikmarken zu sein, darunter bekannte Namen wie COSRX, Etude House, Hada Labo und Rohto, und bezieht Produkte von Herstellern oder offiziellen Partnern. Als Tochtergesellschaft der börsennotierten YesAsia Holdings unterliegt das Unternehmen Transparenzpflichten."
@@ -38663,7 +38737,20 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Tipps Vor Der Bestellung",
+        "heading": "Sind die Produkte von YesStyle original? Woher kommt YesStyle?",
+        "paragraphs": [
+          "YesStyle kommt aus Hongkong. Das Unternehmen wurde dort 2006 gegründet und gehört zur YesAsia Holdings Limited, die an der Hongkonger Börse notiert ist (Code 2209.HK) und auch den Shop YesAsia sowie AsianBeautyWholesale betreibt, eine Großhandelsplattform für asiatische Beauty-Produkte.",
+          "Zur Echtheit: YesStyle gibt an, autorisierter Händler von mehr als 400 koreanischen Kosmetikmarken zu sein und bei den Herstellern oder bei von ihnen autorisierten Distributoren einzukaufen. Eine unabhängige Prüfung, die diese Angabe bestätigt, haben wir nicht gefunden. Deshalb hier einige Kontrollen, die Sie selbst vornehmen können (unser Vorschlag, nicht der des Shops):"
+        ],
+        "bullets": [
+          "Prüfen Sie auf der Produktseite, ob Marke und Produktname mit der offiziellen Website der Marke übereinstimmen;",
+          "Suchen Sie auf der Verpackung den aufgedruckten Chargencode und das Haltbarkeitsdatum und prüfen Sie das Datum vor dem Öffnen;",
+          "Kontrollieren Sie bei der Lieferung das Siegel am Produkt und an der Verpackung;",
+          "Wenn etwas anders aussieht als angegeben, verwenden Sie das Produkt nicht und wenden Sie sich zuerst an den YesStyle-Kundenservice."
+        ]
+      },
+      {
+        "heading": "Tipps vor der Bestellung",
         "paragraphs": [
           "Beachten Sie vor Ihrem Kauf folgende Empfehlungen:"
         ],
@@ -38674,18 +38761,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Rabattcode und Zusätzliche Ersparnis",
+        "heading": "Reward Code und zusätzliche Ersparnis",
         "paragraphs": [
-          "Em Casa com Cecília unterhält eine Partnerschaft mit YesStyle. Durch Eingabe des Rabattcodes CECILIA010 im Feld 'Reward Code' beim Checkout erhalten Sie 5 % Extra-Rabatt bei der Erstbestellung und 2 % bei Folgebestellungen. Kombinierbar mit Aktionsgutscheinen.",
-          "Der Code CECILIA010 ist dauerhaft gültig und für Käufer völlig kostenlos."
+          "Em Casa com Cecília unterhält eine Partnerschaft mit YesStyle. Durch Eingabe des Reward Codes CECILIA010 im Feld 'Reward Code' beim Checkout erhalten Sie 5 % Extra-Rabatt bei der Erstbestellung und 2 % bei Folgebestellungen. Kombinierbar mit Aktionsgutscheinen.",
+          "Der Reward Code CECILIA010 hat kein Ablaufdatum und bleibt aktiv, solange die Partnerschaft mit YesStyle besteht. Für Käufer entstehen dadurch keine Zusatzkosten."
         ],
         "bullets": []
       },
       {
-        "heading": "Häufig Gestellte Fragen",
+        "heading": "Häufig gestellte Fragen",
         "bullets": [
           "Ist YesStyle seriös? Ja, YesStyle ist ein etablierter Online-Shop (gegründet 2006) und Tochterunternehmen der börsennotierten YesAsia Holdings (2209.HK).",
-          "Sind die Produkte original? YesStyle gibt an, autorisierter Händler für über 400 koreanische Kosmetikmarken zu sein und von offiziellen Herstellern oder Vertragspartnern zu beziehen.",
+          "Woher kommt YesStyle? Aus Hongkong: Das Unternehmen wurde dort 2006 gegründet und gehört zur YesAsia Holdings, die an der Hongkonger Börse notiert ist (2209.HK).",
+          "Sind YesStyle-Produkte original oder gefälscht? YesStyle gibt an, autorisierter Händler von mehr als 400 koreanischen Kosmetikmarken zu sein und bei Herstellern oder autorisierten Partnern einzukaufen. Eine unabhängige Prüfung dieser Angabe haben wir nicht gefunden; kontrollieren Sie bei Lieferung Chargencode, Haltbarkeitsdatum und Siegel.",
           "Wie lange dauert der Versand? Der internationale Standardversand dauert in der Regel 7 bis 14 Werktage.",
           "Wie löse ich CECILIA010 ein? Tragen Sie den Code CECILIA010 im Feld 'Reward Code' beim Checkout ein."
         ]
@@ -38757,7 +38845,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "wide"
       },
       {
-        "heading": "국제 배송 및 고객 지원 Policy",
+        "heading": "국제 배송 및 고객 지원 정책",
         "paragraphs": [
           "전 세계 80여 개국으로 국제 배송을 제공하며, 일정 금액 이상 구매 시 무료 배송 혜택을 제공합니다. 평균 배송 기간은 7일~14일(영업일 기준) 소요됩니다."
         ],
@@ -38767,16 +38855,30 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
+        "heading": "YesStyle 제품은 정품인가요? YesStyle은 어느 나라 회사인가요?",
+        "paragraphs": [
+          "YesStyle은 홍콩 기업입니다. 2006년 홍콩에서 설립되었으며, 홍콩 증권거래소에 상장된(종목 코드 2209.HK) YesAsia Holdings Limited 소속입니다. YesAsia Holdings는 YesAsia 쇼핑몰과 아시아 뷰티 도매 플랫폼 AsianBeautyWholesale도 운영합니다.",
+          "정품 여부에 대해 YesStyle은 400개 이상의 한국 뷰티 브랜드의 정식 유통업체이며 제조사 또는 제조사가 승인한 유통업체로부터 제품을 공급받는다고 밝히고 있습니다. 다만 이 주장을 확인해 주는 독립적인 감사 결과는 찾지 못했습니다. 그래서 구매자가 직접 해볼 수 있는 확인 방법을 정리했습니다(YesStyle이 아닌 저희의 제안입니다):"
+        ],
+        "bullets": [
+          "제품 페이지에서 브랜드와 제품명이 브랜드 공식 웹사이트와 일치하는지 확인하세요.",
+          "상자에 인쇄된 제조번호(로트)와 유통기한을 찾아, 개봉하기 전에 유통기한을 확인하세요.",
+          "배송을 받으면 제품과 포장의 봉인 상태를 확인하세요.",
+          "광고나 상품 설명과 다른 점이 있다면 제품을 사용하지 말고 먼저 YesStyle 고객센터에 문의하세요."
+        ]
+      },
+      {
         "heading": "리워드 코드 및 추가 할인",
         "paragraphs": [
-          "결제 시 Reward Code 입력란에 CECILIA010을 입력하면 첫 구매 시 최대 5%, 재구매 시 2% 추가 할인을 적용받을 수 있습니다. 일반 프로모션 쿠폰과 중복 적용이 가능합니다."
+          "결제 시 Reward Code 입력란에 CECILIA010을 입력하면 첫 구매 시 최대 5%, 재구매 시 2% 추가 할인을 적용받을 수 있습니다. 일반 프로모션 쿠폰과 중복 적용이 가능합니다. CECILIA010 코드는 유효기간이 없으며 YesStyle과의 제휴가 이어지는 동안 계속 사용할 수 있습니다. 구매자에게 추가 비용은 없습니다."
         ],
         "bullets": []
       },
       {
         "heading": "자주 묻는 질문 (FAQ)",
         "bullets": [
-          "YesStyle은 정품만 판매하나요? YesStyle은 400개 이상 한국 뷰티 브랜드의 정식 유통업체로서 제조사 및 공식 파트너사로부터 직접 공급받는다고 밝히고 있습니다.",
+          "YesStyle 제품은 정품인가요, 가품인가요? YesStyle은 400개 이상의 한국 뷰티 브랜드의 정식 유통업체이며 제조사 또는 정식 파트너사로부터 공급받는다고 밝히고 있습니다. 이 주장에 대한 독립적인 감사 결과는 찾지 못했으니, 주문품이 도착하면 제조번호(로트), 유통기한, 봉인 상태를 확인하세요.",
+          "YesStyle은 어느 나라 회사인가요? 홍콩 기업입니다. 2006년 홍콩에서 설립되었으며, 홍콩 증권거래소에 상장된 YesAsia Holdings(2209.HK) 소속입니다.",
           "CECILIA010 코드는 어떻게 사용하나요? 결제 단계의 'Reward Code' 입력란에 CECILIA010을 입력하시면 됩니다."
         ]
       }
@@ -38858,6 +38960,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
+        "heading": "YesStyleの商品は正規品？ YesStyleはどこの国の会社？",
+        "paragraphs": [
+          "YesStyleは香港の企業です。2006年に香港で設立され、香港証券取引所に上場するYesAsia Holdings Limited（証券コード 2209.HK）の傘下にあります。同社はYesAsiaのストアのほか、アジアンビューティーの卸売プラットフォームAsianBeautyWholesaleも運営しています。",
+          "正規品かどうかについて、YesStyleは400以上の韓国コスメブランドの正規販売店であり、メーカーまたはメーカーが認可した代理店から仕入れていると説明しています。ただし、この主張を裏付ける第三者機関による監査は確認できませんでした。そこで、購入者ご自身でできる確認方法をご紹介します（YesStyleではなく、当サイトからの提案です）："
+        ],
+        "bullets": [
+          "商品ページで、ブランド名と商品名がブランド公式サイトと一致しているか確認してください。",
+          "箱に印字されたロット番号と使用期限を探し、開封する前に使用期限を確認してください。",
+          "お届け時に、商品本体と梱包の封が破られていないか確認してください。",
+          "掲載内容と違う点がある場合は、その商品を使わず、まずYesStyleのカスタマーサポートに問い合わせてください。"
+        ]
+      },
+      {
         "heading": "注文前のチェックポイント",
         "paragraphs": [
           "YesStyleで安全にお買い物いただくための注意点:"
@@ -38873,14 +38988,15 @@ export const reviewsData: unknown[] = [
         "heading": "リワードコードで追加割引",
         "paragraphs": [
           "Em Casa com CecíliaはYesStyleと公式アフィリエイトパートナーシップを結んでいます。チェックアウト時に「リワードコード（Reward Code）」欄へ CECILIA010 を入力すると、初回購入で最大5%オフ、2回目以降で2%オフの追加割引が適用されます。通常のプロモーションクーポンと併用可能です。",
-          "CECILIA010 コードはパートナーシップが有効な期間中ご利用いただけ、購入者様に追加費用は一切かかりません。"
+          "CECILIA010 コードに有効期限はなく、YesStyleとのパートナーシップが続く限りご利用いただけます。購入者様に追加費用は一切かかりません。"
         ],
         "bullets": []
       },
       {
         "heading": "よくある質問",
         "bullets": [
-          "YesStyleは正規品ですか？ YesStyleは400以上の韓国コスメブランドの正規販売店であることを公表しており、メーカーまたは公式パートナーから仕入れていると説明しています。",
+          "YesStyleの商品は正規品ですか、それとも偽物ですか？ YesStyleは400以上の韓国コスメブランドの正規販売店であり、メーカーまたは正規パートナーから仕入れていると説明しています。この主張を裏付ける第三者による監査は確認できていないため、商品が届いたらロット番号、使用期限、封の状態を確認してください。",
+          "YesStyleはどこの国の会社ですか？ 香港の企業です。2006年に香港で設立され、香港証券取引所に上場するYesAsia Holdings（2209.HK）の傘下にあります。",
           "YesStyleの配送日数はどのくらいですか？ お届け先の国、選択した配送方法、商品の在庫状況によって異なります。正確な日数はカート画面でご確認ください。",
           "CECILIA010の使い方は？ 決済画面の「リワードコード」欄に CECILIA010 を入力してください。クーポンコードと同時に利用可能です。"
         ]
@@ -38962,17 +39078,31 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "獎勵代碼額外折扣",
+        "heading": "YesStyle 的商品是正品嗎？YesStyle 是哪裡的公司？",
         "paragraphs": [
-          "結帳時於「獎勵代碼 (Reward Code)」欄位輸入 CECILIA010，首單可享最高 5% 額外折扣，續購可享 2% 折扣。可與優惠券代碼（Coupon Code）疊加使用。"
+          "YesStyle 來自香港。公司於 2006 年在香港創立，隸屬於 YesAsia Holdings Limited（香港交易所上市，股份代號：2209.HK）。該集團同時經營 YesAsia 商店，以及亞洲美妝批發平台 AsianBeautyWholesale。",
+          "關於商品是否為正品，YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商，貨源來自品牌製造商或其授權的經銷夥伴。我們沒有找到能證實這項說法的獨立審核，因此整理了幾項買家自己就能做的檢查（這是我們的建議，並非 YesStyle 的說明）："
+        ],
+        "bullets": [
+          "在商品頁面上，確認品牌與商品名稱和品牌官方網站相符；",
+          "在包裝盒上，找到印刷的批號與有效期限，開封前先確認有效期限；",
+          "收貨時，檢查商品與包裝的封條是否完好；",
+          "如果商品與頁面介紹不同，請先不要使用，並先聯絡 YesStyle 客服。"
+        ]
+      },
+      {
+        "heading": "獎勵碼額外折扣",
+        "paragraphs": [
+          "結帳時於「獎勵碼 (Reward Code)」欄位輸入 CECILIA010，首單可享最高 5% 額外折扣，續購可享 2% 折扣。可與優惠券代碼（Coupon Code）疊加使用。CECILIA010 代碼沒有到期日，只要與 YesStyle 的合作持續就會保持有效；使用此代碼不會為買家帶來額外費用。"
         ],
         "bullets": []
       },
       {
         "heading": "常見問題",
         "bullets": [
-          "YesStyle 是正品嗎？ YesStyle 於官方資料中聲明為 400 多個韓國美妝品牌的授權經銷商，直接向品牌製造商或官方授權代理商採購。",
-          "如何使用 CECILIA010 代碼？ 結帳時在「獎勵代碼」欄位輸入 CECILIA010 即可。"
+          "YesStyle 的商品是正品還是仿冒品？ YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商，貨源來自品牌製造商或授權合作夥伴。我們沒有找到針對這項說法的獨立審核；收到訂單後，請檢查批號、有效期限與封條。",
+          "YesStyle 是哪裡的公司？ 來自香港：公司於 2006 年在香港創立，隸屬於香港交易所上市的 YesAsia Holdings（2209.HK）。",
+          "如何使用 CECILIA010 代碼？ 結帳時在「獎勵碼」欄位輸入 CECILIA010 即可。"
         ]
       }
     ],
@@ -38987,7 +39117,7 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hant",
-        "title": "YesStyle 獎勵代碼 CECILIA010 使用指南"
+        "title": "YesStyle 獎勵碼 CECILIA010 使用指南"
       }
     ],
     "translationKey": "yesstyle-trust"
@@ -39052,17 +39182,31 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "奖励代码额外折扣",
+        "heading": "YesStyle 的商品是正品吗？YesStyle 是哪里的公司？",
         "paragraphs": [
-          "结账时于“奖励代码 (Reward Code)”栏位输入 CECILIA010，首单可享最高 5% 额外折扣，续购可享 2% 折扣。可与优惠券代码（Coupon Code）叠加使用。"
+          "YesStyle 来自香港。公司于 2006 年在香港创立，隶属于 YesAsia Holdings Limited（香港交易所上市，股份代码：2209.HK）。该集团同时运营 YesAsia 商店，以及亚洲美妆批发平台 AsianBeautyWholesale。",
+          "关于商品是否为正品，YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商，货源来自品牌制造商或其授权的经销伙伴。我们没有找到能证实这一说法的独立审核，因此整理了几项买家自己就能做的检查（这是我们的建议，并非 YesStyle 的说明）："
+        ],
+        "bullets": [
+          "在商品页面上，确认品牌与商品名称和品牌官方网站一致；",
+          "在包装盒上，找到印刷的批号与有效期，开封前先确认有效期；",
+          "收货时，检查商品与包装的封条是否完好；",
+          "如果商品与页面介绍不同，请先不要使用，并先联系 YesStyle 客服。"
+        ]
+      },
+      {
+        "heading": "奖励码额外折扣",
+        "paragraphs": [
+          "结账时于“奖励码 (Reward Code)”栏位输入 CECILIA010，首单可享最高 5% 额外折扣，续购可享 2% 折扣。可与优惠券代码（Coupon Code）叠加使用。CECILIA010 代码没有到期日，只要与 YesStyle 的合作持续就会保持有效；使用此代码不会为买家带来额外费用。"
         ],
         "bullets": []
       },
       {
         "heading": "常见问题",
         "bullets": [
-          "YesStyle 是正品吗？ YesStyle 于官方资料中声明为 400 多个韩国美妆品牌的授权经销商，直接向品牌制造商或官方授权代理商采购。",
-          "如何使用 CECILIA010 代码？ 结账时在“奖励代码”栏位输入 CECILIA010 即可。"
+          "YesStyle 的商品是正品还是仿冒品？ YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商，货源来自品牌制造商或授权合作伙伴。我们没有找到针对这一说法的独立审核；收到订单后，请检查批号、有效期和封条。",
+          "YesStyle 是哪里的公司？ 来自香港：公司于 2006 年在香港创立，隶属于香港交易所上市的 YesAsia Holdings（2209.HK）。",
+          "如何使用 CECILIA010 代码？ 结账时在“奖励码”栏位输入 CECILIA010 即可。"
         ]
       }
     ],
@@ -39077,7 +39221,7 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hans",
-        "title": "YesStyle 奖励代码 CECILIA010 使用指南"
+        "title": "YesStyle 奖励码 CECILIA010 使用指南"
       }
     ],
     "translationKey": "yesstyle-trust"
@@ -39674,7 +39818,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar e cupom de desconto",
         "paragraphs": [
           "A Dolce Gusto Mini Me 2.0 pode ser adquirida no e-commerce oficial da marca, onde eventualmente integra campanhas promocionais de volume de cápsulas e cores exclusivas. O preço de tabela individual varia de acordo com a cor e as ofertas ativas.",
-          "No checkout da loja oficial, o consumidor pode testar o cupom CECI para verificar elegibilidade a 5% de desconto em produtos elegíveis, segundo o regulamento vigente na loja oficial.",
+          "No checkout da loja oficial, o consumidor pode testar o cupom CECI para verificar elegibilidade a 5% de desconto em compras a partir de R$ 100, segundo o regulamento vigente na loja oficial.",
           "Assista também ao vídeo especial do Bruno no canal Em Casa com Cecília no YouTube Shorts, gravado para a campanha de Dia dos Pais com a NESCAFÉ Dolce Gusto Mini Me 2.0, mostrando a máquina em ação."
         ],
         "links": [
@@ -39699,7 +39843,7 @@ export const reviewsData: unknown[] = [
           "Quanto tempo a Mini Me 2.0 demora para esquentar? O pré-aquecimento do termobloco leva entre 20 e 30 segundos, quando o LED passa de vermelho para verde.",
           "Qual o padrão de tomada da Mini Me 2.0? Na unidade 127V testada, a máquina utiliza o plugue de 20 Amperes (20A) com pinos de 4,8mm. Recomenda-se confirmar a voltagem e o plugue no manual do fabricante antes de instalar.",
           "A Mini Me 2.0 aceita cápsulas Starbucks? Sim. Ela é compatível com a linha de cápsulas Starbucks by NESCAFÉ Dolce Gusto para o sistema Original disponíveis no mercado.",
-          "O cupom CECI vale para a Mini Me 2.0? O cupom CECI pode ser testado no checkout da loja oficial da NESCAFÉ Dolce Gusto para verificar a concessão de 5% de desconto em itens elegíveis."
+          "O cupom CECI vale para a Mini Me 2.0? O cupom CECI pode ser testado no checkout da loja oficial da NESCAFÉ Dolce Gusto para verificar a concessão de 5% de desconto em compras a partir de R$ 100."
         ]
       }
     ],
@@ -39744,7 +39888,7 @@ export const reviewsData: unknown[] = [
     },
     "description": "Nunca tinha tido lava e seca. Gravei o unboxing da Samsung 13 kg (WD13FG), o sufoco da porta de 80 cm, o improviso no encanamento, o batismo da Dona Amélia e o primeiro ciclo de toalhas a 60 °C com secagem completa.",
     "seoTitle": "Lava e Seca Samsung 13 kg é Boa? Unboxing e Primeiro Uso Real",
-    "metaDescription": "Testei minha primeira lava e seca Samsung 13 kg (WD13FG): unboxing, porta de 80 cm, gaveta de sabão, app SmartThings e o primeiro ciclo de toalhas com secagem.",
+    "metaDescription": "Testei minha primeira lava e seca Samsung 13 kg (WD13FG): unboxing, instalação, como usar na primeira vez, app SmartThings e o primeiro ciclo com secagem.",
     "publishedAt": "17 de agosto de 2026",
     "publishedAtISO": "2026-08-17",
     "updatedAt": "2026-08-17",
@@ -39940,6 +40084,21 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Como usar a lava e seca Samsung pela primeira vez",
+        "paragraphs": [
+          "Juntando o que fizemos na estreia, este foi o caminho do primeiro uso. Ele não substitui o manual digital do QR code, que traz as instruções do fabricante:"
+        ],
+        "bullets": [
+          "Tire os 4 parafusos de transporte da parte traseira com a chave inclusa, antes de ligar a máquina;",
+          "Instale a máquina na água e no esgoto e ligue na tomada;",
+          "Pareie com o aplicativo SmartThings pelo QR code; enquanto isso, a máquina calibra sozinha o tambor vazio;",
+          "Abasteça a gaveta: compartimento 1 para a pré-lavagem, 2 para a lavagem principal (com a pecinha azul encaixada se o sabão for líquido) e o do meio, com a florzinha, para o amaciante, diluído antes em um pouco de água se for concentrado;",
+          "Coloque a roupa ocupando de metade a, no máximo, três quartos do tambor;",
+          "Escolha o programa, a temperatura e a centrifugação no painel (na estreia, Toalhas, 60 °C e 800 RPM) e inicie: a máquina pesa a carga e recalcula o tempo;",
+          "Para secar, ative o ciclo de Secagem na mesma carga quando a lavagem terminar; nas nossas quatro toalhas, o visor estimou 2h45."
+        ]
+      },
+      {
         "heading": "O que podemos afirmar e os próximos passos",
         "paragraphs": [
           "Depois desse primeiro teste completo, resumimos as nossas principais impressões práticas:",
@@ -39986,6 +40145,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes sobre a Samsung 13 kg",
         "bullets": [
           "Qual é o modelo exato da lava e seca? Samsung WD13FG6B34BEAZ, da linha Lava e Seca Smart WD13FG com AI Control Branca 127V, com capacidade para 13,0 kg de lavagem e 8,0 kg de secagem.",
+          "Como usar a lava e seca Samsung pela primeira vez? Tire os parafusos de transporte, instale, pareie com o SmartThings (a máquina calibra o tambor sozinha), abasteça a gaveta, coloque a roupa até a metade do tambor e escolha programa, temperatura e centrifugação; o passo a passo está na seção acima.",
           "Quais são as dimensões e o peso da máquina? O modelo mede exatamente 600 x 850 x 600 mm (60 cm de largura x 85 cm de altura x 60 cm de profundidade) e possui peso líquido de 74 kg.",
           "O que é a tecnologia Ecobubble e VRT Plus? O Ecobubble transforma o sabão em bolhas ativas para penetrar mais rápido nas fibras, enquanto o VRT Plus (VRT+) é o sistema de sensores que reduz ruídos e vibrações durante a centrifugação.",
           "Ela esteriliza a seco? Sim, o modelo é 3 em 1 (lava, seca e esteriliza a seco através da tecnologia Air Wash, que elimina odores e bactérias com ar quente sem usar água).",
@@ -40011,8 +40171,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 263,
     "slug": "nutren-just-protein-para-que-serve",
-    "title": "Nutren Just Protein: tudo o que você precisa saber",
-    "seoTitle": "Nutren Just Protein: Para Que Serve e Tabela Nutricional",
+    "title": "Nutren Just Protein: para que serve, como usar em receitas e tabela nutricional",
+    "seoTitle": "Nutren Just Protein: tabela nutricional e para que serve",
     "type": "Guia Prático",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -40137,6 +40297,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes sobre o Nutren Just Protein",
         "bullets": [
+          "Qual a tabela nutricional do Nutren Just Protein? Por porção de 15 g: 52 kcal, 13 g de proteína, 0 g de carboidratos e açúcares, 76 mg de sódio e nenhuma quantidade significativa de gorduras.",
           "Nutren Just Protein engorda? Não é possível atribuir ganho ou perda de peso a um único produto. Cada porção de 15g fornece 52 kcal e 13g de proteína; o efeito no peso depende do consumo alimentar total, das necessidades individuais e da rotina.",
           "Nutren Just Protein tem sabor de leite? A fabricante apresenta o produto como sem sabor. A percepção e o resultado final podem variar conforme a bebida ou receita em que ele for misturado.",
           "Pode misturar Nutren Just Protein em comida quente? O preparo oficial é 15g em 120ml de água. Em receitas quentes, uma possibilidade editorial é acrescentar o pó gradualmente depois de retirar o alimento do fogo; textura e dissolução podem variar.",
@@ -40330,7 +40491,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar com desconto e como usar o cupom CECI",
         "paragraphs": [
           "As cafeteiras da linha Genio S podem ser adquiridas na loja oficial da NESCAFÉ Dolce Gusto Brasil, com garantia oficial Arno de 1 ano e versões 127V ou 220V, conforme disponibilidade.",
-          "No carrinho da loja oficial, o cupom CECI pode conceder 5% de desconto em produtos elegíveis. Confirme a aplicação e as regras vigentes antes de concluir o pedido."
+          "No carrinho da loja oficial, o cupom CECI pode conceder 5% de desconto em produtos elegíveis, em compras a partir de R$ 100. Confirme a aplicação e as regras vigentes antes de concluir o pedido."
         ],
         "bullets": [],
         "links": [
@@ -40367,7 +40528,7 @@ export const reviewsData: unknown[] = [
           "Dá para usar cápsulas de outras marcas, como Nespresso, nas máquinas Genio S? Não. O sistema Dolce Gusto ORIGINAL usa um formato de cápsula e porta-cápsula próprio, fisicamente incompatível com o sistema Nespresso.",
           "As cápsulas da linha NEO servem direto nas Genio S? Não diretamente — os três modelos (Basic, Plus e Touch) usam o sistema ORIGINAL. Para preparar cafés pretos selecionados da linha NEO é preciso o [Adaptador NEO Start](/reviews/adaptador-neo-start-o-que-e), vendido à parte e compatível com toda a linha Genio S.",
           "As máquinas Genio S vêm em 127V e 220V? Sim, há versões 127V e 220V, conforme modelo e disponibilidade. Verifique a tensão e o padrão da tomada antes da compra, sem usar adaptadores improvisados.",
-          "Qual o cupom de desconto para comprar cafeteiras Dolce Gusto? O cupom CECI pode conceder 5% de desconto em produtos elegíveis na loja oficial. Confirme a aplicação e as condições vigentes no checkout."
+          "Qual o cupom de desconto para comprar cafeteiras Dolce Gusto? O cupom CECI pode conceder 5% de desconto em produtos elegíveis na loja oficial, em compras a partir de R$ 100. Confirme a aplicação e as condições vigentes no checkout."
         ]
       }
     ],
@@ -40413,7 +40574,7 @@ export const reviewsData: unknown[] = [
       {
         "image": "/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp",
         "alt": "Cupom de desconto CECI para NESCAFÉ Dolce Gusto",
-        "caption": "Cupom CECI: 5% de desconto em máquinas e cápsulas na loja oficial."
+        "caption": "Cupom CECI: 5% de desconto em máquinas e cápsulas na loja oficial, em compras a partir de R$ 100."
       }
     ]
   },
@@ -42246,7 +42407,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "image": "/images/reviews/nutren/nutren-creatina-preco-2026-08-27.png",
     "imageAlt": "Campanha de lançamento da Nutren Creatina 300 g com embalagem, rendimento de 100 doses e preço consultado em agosto de 2026",
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAspect": "wide",
     "pros": [],
     "cons": [],
@@ -42755,7 +42916,7 @@ export const reviewsData: unknown[] = [
           "A Dolce Gusto NEO e a Nespresso Vertuo Pop têm aplicativo? Sim, mas com funções diferentes. Na NEO, usamos o app para iniciar o café e ajustar temperatura e volume; a máquina reconhece a cápsula e não oferece essas seleções no próprio corpo. Na Vertuo Pop, Bluetooth e Wi-Fi servem para atualizações, tutoriais e assistência no app Nespresso.",
           "Qual sistema prepara chá? Dolce Gusto e TRES têm cápsulas de chá e outras multibebidas. A linha Nespresso é concentrada em cafés.",
           "Como descalcificar uma cafeteira de cápsulas? O procedimento e a frequência variam conforme a máquina, a água e o uso. Siga o ciclo indicado no manual e use a solução recomendada para o modelo; não improvise com vinagre ou produtos domésticos sem autorização expressa do fabricante.",
-          "Qual o cupom de desconto para cafeteiras Dolce Gusto? Em nossa verificação de 1º de outubro de 2026, o cupom CECI aplicou 5% de desconto no site oficial da NESCAFÉ Dolce Gusto Brasil. As condições podem mudar; confirme o valor no checkout."
+          "Qual o cupom de desconto para cafeteiras Dolce Gusto? Em nossa verificação de 1º de outubro de 2026, o cupom CECI aplicou 5% de desconto em compras a partir de R$ 100 no site oficial da NESCAFÉ Dolce Gusto Brasil. As condições podem mudar; confirme o valor no checkout."
         ]
       }
     ],
@@ -43142,7 +43303,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "image": "/images/reviews/iwannasleep/iws-catalogo-travesseiros.webp",
     "imageAlt": "Comparativo das linhas de travesseiro da I Wanna Sleep sobre a cama",
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
     "cons": [],
@@ -43553,7 +43714,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "image": "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-hero-v2.webp",
     "imageAlt": "Dolce Gusto vs Nespresso: qual a melhor para você? Ilustração comparando as duas cafeteiras",
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
     "cons": [],
@@ -47231,10 +47392,10 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "Selezione di cosmetici e prodotti di skincare K-beauty in promozione su YesStyle.",
-        "imageCaption": "Esempio di coupon promozionale registrato il 24 luglio 2026 (coupon BTSVIP15). I coupon promozionali cambiano spesso: consulta la nostra pagina dedicata prima di acquistare.",
+        "imageCaption": "Esempio di coupon promozionale registrato il 24 luglio 2026; quella campagna è terminata. I coupon promozionali cambiano spesso: consulta la nostra pagina dedicata prima di acquistare.",
         "imageFit": "wide",
         "bullets": [
-          "Coupon promozionali mensili: hanno una data di scadenza e offrono dal 10% al 15% di sconto (es. il coupon BTSVIP15 mostrato su YesStyle al momento dello screenshot).",
+          "Coupon promozionali mensili: hanno una data di scadenza e offrono dal 10% al 15% di sconto.",
           "Codice ricompensa (Reward Code): codice influencer come CECILIA010, che aggiunge fino al 5% di sconto extra.",
           "Fonti ufficiali: controlla il banner del sito, la newsletter o la nostra pagina coupon dedicata."
         ]
@@ -47338,6 +47499,7 @@ export const reviewsData: unknown[] = [
         "heading": "FAQ — Domande frequenti sui coupon YesStyle",
         "bullets": [
           "Qual è la differenza tra Coupon Code e Reward Code su YesStyle? Il Coupon Code è un coupon promozionale temporaneo di YesStyle, da applicare nel campo “Coupon Code”. CECILIA010 è un Reward Code influencer da inserire nel campo “Reward Code”, che offre fino al 5% in più (5% sul 1º ordine / 2% sui successivi). Quando la campagna lo consente, i due si sommano al pagamento.",
+          "Che cos'è il codice influencer di YesStyle? È il codice ricompensa (Reward Code), che si inserisce in un campo apposito del checkout, separato dal campo Coupon Code. Il nostro è CECILIA010: 5% di sconto sul primo ordine e 2% sugli ordini successivi.",
           "I coupon YesStyle hanno una scadenza? Sì. I coupon promozionali hanno una data di scadenza. Controlla l'importo minimo d'acquisto e i prodotti idonei prima di confermare.",
           "Dove trovo le condizioni ufficiali dei coupon YesStyle? Le condizioni generali si trovano sotto “General Terms and Conditions for Coupons” nel centro assistenza di YesStyle. Per una campagna specifica, consulta la sezione “Promotions”.",
           "Posso usare più di un coupon promozionale per ordine? No. È consentito un solo Coupon Code per ordine. CECILIA010, invece, è un Reward Code e può essere abbinato a un Coupon Code idoneo."
@@ -47419,13 +47581,26 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
+        "heading": "I prodotti YesStyle sono originali? Da dove viene YesStyle?",
+        "paragraphs": [
+          "YesStyle è di Hong Kong. È stata fondata lì nel 2006 e appartiene a YesAsia Holdings Limited, quotata alla Borsa di Hong Kong (codice 2209.HK), che gestisce anche il negozio YesAsia e AsianBeautyWholesale, una piattaforma all'ingrosso di prodotti di bellezza asiatici.",
+          "Sull'originalità, YesStyle dichiara di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana e di rifornirsi dai produttori o da distributori da loro autorizzati. Non abbiamo trovato alcun audit indipendente che confermi questa dichiarazione; ecco quindi alcuni controlli che puoi fare tu stesso (un nostro suggerimento, non di YesStyle):"
+        ],
+        "bullets": [
+          "Nella pagina del prodotto, verifica che marchio e nome dell'articolo corrispondano al sito ufficiale del marchio;",
+          "Sulla confezione, cerca il lotto e la scadenza stampati e controlla la scadenza prima di aprire;",
+          "Alla consegna, controlla il sigillo del prodotto e della confezione;",
+          "Se qualcosa sembra diverso da quanto indicato, non usare il prodotto e contatta prima il servizio clienti di YesStyle."
+        ]
+      },
+      {
         "heading": "Consigli prima di ordinare",
         "paragraphs": [
           "Ecco qualche consiglio pratico prima di confermare il carrello:"
         ],
         "bullets": [
           "Controlla di trovarti sul dominio ufficiale (yesstyle.com), con connessione HTTPS.",
-          "Informati sulle regole doganali del tuo paese per IVA e dazi d'importazione. YesStyle rimborsa dazi e spese doganali sotto forma di YesStyle Credit per gli ordini inferiori a 1.000 USD (prima dei coupon e escluse le spese di spedizione): la richiesta va fatta con la ricevuta entro 30 giorni. L'IVA addebitata al checkout sugli ordini UE non è coperta dal rimborso.",
+          "Informati sulle regole doganali del tuo paese per IVA e dazi d'importazione. YesStyle rimborsa dazi e spese doganali sotto forma di YesStyle Credit per gli ordini inferiori a 1.000 USD (prima dei coupon ed escluse le spese di spedizione): la richiesta va fatta con la ricevuta entro 30 giorni. L'IVA addebitata al checkout sugli ordini UE non è coperta dal rimborso.",
           "Leggi con attenzione le schede prodotto e le guide alle taglie."
         ]
       },
@@ -47433,7 +47608,7 @@ export const reviewsData: unknown[] = [
         "heading": "Codice ricompensa e sconto extra",
         "paragraphs": [
           "Em Casa com Cecília è partner di YesStyle. Inserendo il codice ricompensa CECILIA010 nel campo \"Reward Code\" al checkout ottieni il 5% di sconto extra sul primo ordine e il 2% su quelli successivi. I coupon promozionali vanno nel campo separato \"Coupon Code\" e si cumulano con CECILIA010.",
-          "Il codice CECILIA010 è permanente e non ha alcun costo per chi acquista."
+          "Il codice CECILIA010 non ha scadenza e resta attivo finché continua la partnership con YesStyle. Per chi acquista non ha alcun costo."
         ],
         "bullets": []
       },
@@ -47441,7 +47616,8 @@ export const reviewsData: unknown[] = [
         "heading": "Domande frequenti",
         "bullets": [
           "YesStyle è un sito affidabile? Sì, YesStyle è un'azienda legittima, fondata nel 2006 e controllata del gruppo quotato in borsa YesAsia Holdings (2209.HK).",
-          "I prodotti sono originali? YesStyle dichiara di essere rivenditore ufficiale autorizzato di oltre 400 marchi di bellezza coreana, con acquisti diretti dai produttori o da partner certificati.",
+          "Da dove viene YesStyle? Da Hong Kong: è stata fondata lì nel 2006 e appartiene a YesAsia Holdings, quotata alla Borsa di Hong Kong (2209.HK).",
+          "I prodotti YesStyle sono originali o contraffatti? YesStyle dichiara di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana, con acquisti dai produttori o da partner autorizzati. Non abbiamo trovato alcun audit indipendente su questa dichiarazione; quando arriva l'ordine, controlla lotto, scadenza e sigillo.",
           "Quanto tempo ci mette la spedizione? La spedizione internazionale standard richiede in media da 7 a 14 giorni lavorativi.",
           "Come si usa il codice CECILIA010? Inserisci CECILIA010 nel campo \"Reward Code\" al momento del checkout."
         ]
@@ -47632,7 +47808,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "image": "/images/reviews/dolcegusto/descalcificacao-calcario-hero.webp",
     "imageAlt": "Ilustração de uma cafeteira de cápsulas com a luz laranja acesa e uma lupa mostrando o calcário estreitando o duto de água por dentro",
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "Explica o que causa o calcário em qualquer cafeteira, não só na Dolce Gusto",
@@ -48133,8 +48309,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 315,
     "slug": "nutren-senior-como-tomar-sem-empelotar",
-    "title": "Como Tomar Nutren Senior Sem Empelotar",
-    "seoTitle": "Como Tomar Nutren Senior Sem Empelotar: Guia Passo a Passo",
+    "title": "Como tomar Nutren Senior sem empelotar",
+    "seoTitle": "Como tomar Nutren Senior sem empelotar, com leite ou água",
     "type": "Guia Prático",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -48399,12 +48575,13 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas Frequentes sobre o Nutren Senior",
         "bullets": [
           "Por que o Nutren Senior empelota? Porque o pó molha só por fora quando recebe líquido demais de uma vez e forma uma capa que protege o miolo seco. Comece com cerca de 50 ml, faça uma pasta cremosa e só depois complete, como a Nestlé indica.",
-          "Posso preparar o Nutren Senior com leite? A marca recomenda leite desnatado para as versões com sabor; o Sem Sabor pode ser preparado em água ou usado em receitas. Com leite integral, a gordura e as calorias do copo mudam, e a marca não traz tabela para ele.",
+          "Nutren Senior pode tomar com leite quente? Pode, nas versões com sabor: a marca indica leite desnatado e diz que dá para fazer bebida quente, desde que o pó entre no fim e não ferva. Aqueça o leite à parte e espere amornar. Com leite integral, a gordura e as calorias do copo mudam, e a marca não traz tabela para ele.",
+          "Pode tomar Nutren Senior com água? O Sem Sabor, sim, como a marca indica; nas versões com sabor, ela orienta leite desnatado, e a página do Café com Leite também traz a tabela nutricional preparada com água.",
           "Pode ferver o Nutren Senior? Não. A Nestlé orienta adicionar ao final da preparação, para que os nutrientes não sofram alteração com o calor. Aqueça o líquido à parte, espere ficar morno e depois faça a pasta.",
           "Posso bater o Nutren Senior no liquidificador? A marca não fala em liquidificador, e o método da pasta resolve sem ele. Se preferir usar, bata poucos segundos em velocidade baixa para não formar muita espuma e sirva logo (sugestão nossa, não da marca).",
           "Posso deixar o copo pronto na geladeira? O rótulo pede para consumir imediatamente após o preparo, então o ideal é preparar só a porção que será tomada. Se for inevitável adiantar, converse com o nutricionista.",
           "Quanto tempo dura a lata aberta? Até 30 dias, segundo a marca, com a lata bem fechada em local fresco, seco e sem cheiro. Uma lata de 740 g rende cerca de 23 a 27 porções, conforme a versão.",
-          "Quantas colheres por dia? Cada preparo usa 3 colheres de sopa (27,5 g no Sem Sabor e no Zero Lactose; 31,5 g nos sabores). Quantos preparos por dia é decisão do médico ou do nutricionista; o rótulo pede para não exceder a recomendação diária da embalagem.",
+          "Quantas vezes ao dia posso tomar Nutren Senior? Quantos preparos por dia é decisão do médico ou do nutricionista; o rótulo pede para não exceder a recomendação diária da embalagem. Cada preparo usa 3 colheres de sopa (27,5 g no Sem Sabor e no Zero Lactose; 31,5 g nos sabores).",
           "O Nutren Senior engorda? Cada porção tem de 113 a 133 kcal conforme a versão, e mais se for preparada com leite. O efeito no peso depende de tudo o que a pessoa come no dia; se o objetivo é ganhar ou perder peso, o nutricionista ajusta a quantidade.",
           "Diabético pode tomar Nutren Senior? Depende do caso e deve ser decidido com o médico ou o nutricionista. A marca informa que o pó não tem adição direta de sacarose, mas há açúcares naturais do leite, e existe a linha Nutren Control para dietas com restrição de açúcares.",
           "Serve para quem tem disfagia? A marca não traz orientação específica sobre disfagia nas páginas que consultamos. Quem tem dificuldade para engolir deve falar com o médico ou o fonoaudiólogo antes de usar."
@@ -50643,7 +50820,7 @@ export const reviewsData: unknown[] = [
     "isNew": true,
     "image": "/images/reviews/dolcegusto/assinatura-dolce-gusto-valor-hero.webp",
     "imageAlt": "Banners oficiais da Assinatura Dolce Gusto: preço por caixa com 25% (Regulares Geração I R$ 19,42, Especiais Geração I R$ 21,67, Regulares NEO R$ 21,70, Especiais NEO R$ 23,20) e benefícios de frete grátis, 1000 pontos e amostras grátis",
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "25% de desconto e frete grátis em todos os pedidos",
@@ -53227,6 +53404,5827 @@ export const reviewsData: unknown[] = [
       {
         "slug": "lets-eat-it-reclame-aqui-nota-reputacao",
         "title": "Let's Eat It no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "slug": "black-friday-i-wanna-sleep",
+    "title": "Black Friday I Wanna Sleep 2026: Pillow Top Magnum, travesseiros e cobertores com o cupom CECIEMCASA",
+    "seoTitle": "Black Friday I Wanna Sleep 2026: pillow top e travesseiros",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que a I Wanna Sleep oferecia em outubro de 2026, os preços do Pillow Top Magnum, de travesseiros e cobertores para comparar na Black Friday, como o cupom soma com o Pix, o teste em casa e até quando pedir para chegar no Natal. Colchões e box são vendidos nas lojas físicas.",
+    "metaDescription": "Black Friday I Wanna Sleep 2026: preços de outubro do Pillow Top Magnum, travesseiros e cobertores, cupom CECIEMCASA com Pix, Sleeptest e prazo para o Natal.",
+    "publishedAt": "10 de outubro de 2026",
+    "publishedAtISO": "2026-10-10",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+    "imageAlt": "Cecília Mauad, do Em Casa com Cecília, sorrindo com a embalagem do cobertor Igloo da I Wanna Sleep no quarto",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Pillow top, travesseiros e cobertores já estavam com 12% a 17% de desconto em outubro",
+      "5% de desconto no Pix, que soma com o cupom CECIEMCASA",
+      "30 dias para testar o travesseiro e o pillow top em casa",
+      "Frete grátis acima de R$ 150 em travesseiros, pillow top e cobertores"
+    ],
+    "cons": [
+      "Colchões e box não são vendidos pelo site, só nas lojas físicas",
+      "No travesseiro e no pillow top, a troca do Sleeptest vira crédito na loja",
+      "A loja não publica os prazos de entrega por região"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Black Friday I Wanna Sleep 2026",
+        "bullets": [
+          "A Black Friday de 2026 é em **27 de novembro**, e a Cyber Monday, em **30 de novembro**.",
+          "Até 9 de outubro de 2026, a I Wanna Sleep ainda não tinha anunciado campanha de Black Friday. Este guia é atualizado quando a loja anunciar.",
+          "Em 9 de outubro, o Pillow Top Magnum, os travesseiros e os cobertores já tinham de **12% a 17%** de desconto sobre o preço riscado.",
+          "Colchões e box aparecem no site, mas são vendidos só nas lojas físicas da I Wanna Sleep, com as consultoras do sono.",
+          "O cupom CECIEMCASA dá 10% OFF em todo o site, vale com todas as formas de pagamento e soma com os preços da Black Friday e com os 5% do Pix.",
+          "O travesseiro e o pillow top têm 30 dias de teste em casa, o Sleeptest.",
+          "Para chegar até 24 de dezembro, pela nossa conta com os prazos que o carrinho mostrou em outubro, pague até 15 de dezembro em São Paulo e no Rio de Janeiro e até 7 de dezembro em Recife."
+        ]
+      },
+      {
+        "heading": "A I Wanna Sleep tem Black Friday?",
+        "paragraphs": [
+          "Não encontramos campanha oficial de Black Friday da I Wanna Sleep nos últimos anos: a busca do site não traz nada com o termo, e o blog da marca não fala da data. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
+          "O que dá para mostrar é o que a loja já oferecia em outubro de 2026: o Pillow Top Magnum, os travesseiros e os cobertores com selo de desconto e kits como o Pillow Top Magnum + Bao Bao + Igloo, que entrou no site em 6 de outubro.",
+          "Quando a I Wanna Sleep anunciar a campanha de 2026, as condições entram aqui, com o que mudou em relação a outubro."
+        ]
+      },
+      {
+        "heading": "Pillow Top Magnum e kits: o desconto que já existia em outubro",
+        "paragraphs": [
+          "O Pillow Top Magnum, que vai por cima do colchão, já estava com cerca de 14% de desconto sobre o preço riscado em todos os tamanhos. Os kits com ele saíam com desconto maior, de 18% a 21%."
+        ],
+        "comparisonTable": {
+          "caption": "Pillow Top Magnum e kits na I Wanna Sleep em 9 de outubro de 2026: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
+          "headers": [
+            "Produto",
+            "Preço riscado",
+            "Em 9/10/2026"
+          ],
+          "rows": [
+            [
+              "Pillow Top Magnum, solteiro (1,00 x 2,00 m)",
+              "R$ 1.489",
+              "R$ 1.280"
+            ],
+            [
+              "Pillow Top Magnum, casal (1,40 x 2,00 m)",
+              "R$ 2.149",
+              "R$ 1.848"
+            ],
+            [
+              "Pillow Top Magnum, queen (1,60 x 2,00 m)",
+              "R$ 2.479",
+              "R$ 2.131"
+            ],
+            [
+              "Pillow Top Magnum, super king (2,00 x 2,00 m)",
+              "R$ 2.839",
+              "R$ 2.441"
+            ],
+            [
+              "Kit Pillow Top Magnum casal + 2 travesseiros Snow regular",
+              "R$ 2.987",
+              "R$ 2.359"
+            ],
+            [
+              "Kit Pillow Top Magnum + Bao Bao + Igloo, casal",
+              "R$ 5.067",
+              "R$ 4.157"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela."
+        ],
+        "links": [
+          {
+            "label": "Pillow Top Magnum IWS vale a pena? Guia para colchão duro",
+            "href": "/reviews/pillow-top-magnum-iws-colchao-dor-nas-costas"
+          }
+        ]
+      },
+      {
+        "heading": "Travesseiros e cobertores: preços de outubro",
+        "paragraphs": [
+          "Nos travesseiros e cobertores, o selo de desconto também já estava lá em outubro, entre 12% e 17%."
+        ],
+        "comparisonTable": {
+          "caption": "Travesseiros e cobertores na I Wanna Sleep em 9 de outubro de 2026: preço riscado na página e preço do dia. No Pix, a página do produto mostra mais 5% de desconto.",
+          "headers": [
+            "Produto",
+            "Preço riscado",
+            "Em 9/10/2026"
+          ],
+          "rows": [
+            [
+              "Travesseiro Snow, regular (50 x 70 cm)",
+              "R$ 419",
+              "R$ 347"
+            ],
+            [
+              "Travesseiro Snow, plus (50 x 90 cm)",
+              "R$ 459",
+              "R$ 390"
+            ],
+            [
+              "Travesseiro Airgelly 2.0",
+              "R$ 549",
+              "R$ 472"
+            ],
+            [
+              "Travesseiro Skin",
+              "R$ 419",
+              "R$ 356"
+            ],
+            [
+              "Travesseiro Cervical Coluna Relax",
+              "R$ 259",
+              "R$ 214"
+            ],
+            [
+              "Travesseiro Cervical Neck Plus Gel",
+              "R$ 429",
+              "R$ 377"
+            ],
+            [
+              "Cobertor Igloo, casal/queen",
+              "R$ 1.099",
+              "R$ 967"
+            ],
+            [
+              "Cobertor Igloo, king/super king",
+              "R$ 1.299",
+              "R$ 1.143"
+            ],
+            [
+              "Cobertor Huggy, casal/queen",
+              "R$ 699",
+              "R$ 583"
+            ],
+            [
+              "Cobertor Cozy, casal/queen",
+              "R$ 619",
+              "R$ 526"
+            ],
+            [
+              "Kit com 10 travesseiros Snow",
+              "R$ 4.190",
+              "R$ 2.726"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O cobertor Igloo é o da capa: a Cecília mostrou em vídeo o lado de toque gelado e o lado quente."
+        ],
+        "links": [
+          {
+            "label": "Qual travesseiro escolher? O guia das linhas I Wanna Sleep",
+            "href": "/reviews/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep"
+          },
+          {
+            "label": "Qual cobertor escolher? As opções da I Wanna Sleep",
+            "href": "/reviews/qual-cobertor-escolher-guia-linhas-i-wanna-sleep"
+          },
+          {
+            "label": "Cobertor IWS Igloo: toque gelado de um lado, aconchego do outro",
+            "href": "/reviews/i-wanna-sleep-cobertor-igloo-ficha-tecnica"
+          }
+        ]
+      },
+      {
+        "heading": "Colchão e box: só nas lojas físicas",
+        "paragraphs": [
+          "Os colchões da I Wanna Sleep (Zen, I3, Hush, Breeze Plush e Star) e a base box aparecem no site, mas não são vendidos por ele: a página de cada um diz que eles estão disponíveis para experimentar nas lojas físicas e manda falar com as consultoras do sono da loja mais próxima.",
+          "As lojas ficam em Belo Horizonte: são sete, entre elas as do BH Shopping, do Del Rey e do Ponteio. Pelo site, a peça para a cama é o Pillow Top Magnum, que vai por cima do colchão que você já tem."
+        ]
+      },
+      {
+        "heading": "Pix, parcelamento e cupom: o que soma",
+        "bullets": [
+          "**Pix:** 5% de desconto, só à vista, segundo a página de cada produto.",
+          "**Cartão:** parcelado sem juros; o número de parcelas aparece na página do produto. A aprovação do cartão leva até 24 horas, e a do boleto, até 72 horas.",
+          "**Cupom:** o CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento, e soma com os preços da Black Friday.",
+          "**Pix com o cupom:** os dois somam. No Pillow Top Magnum casal, a R$ 1.848 em outubro, o CECIEMCASA tira R$ 184,80, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ele sai por R$ 1.580,04. O resumo do checkout mostra o valor exato antes de pagar."
+        ],
+        "links": [
+          {
+            "label": "Ver o cupom CECIEMCASA e a data do último teste",
+            "href": "/cupons/i-wanna-sleep"
+          },
+          {
+            "label": "Passo a passo do CECIEMCASA no checkout",
+            "href": "/reviews/cupom-ceciemcasa-i-wanna-sleep-como-usar"
+          }
+        ]
+      },
+      {
+        "heading": "Teste em casa, trocas e devolução",
+        "bullets": [
+          "**Travesseiro e pillow top (Sleeptest):** 30 dias para testar em casa, com pelo menos 15 dias de uso antes de pedir a troca e a etiqueta intacta. A troca vira crédito na loja.",
+          "**Colchão (Sleeptest):** 100 dias, contados da entrega, também com pelo menos 15 dias de uso. A troca é por conforto (não por tamanho), vale uma vez por CPF e pede a etiqueta e a embalagem original.",
+          "**Arrependimento:** em compra pelo site, dá para devolver em até 7 dias corridos do recebimento, como manda o Código de Defesa do Consumidor, e o frete da primeira devolução nesse prazo é grátis.",
+          "**Estorno:** volta na mesma forma de pagamento; no cartão, pode levar de 30 a 60 dias para aparecer na fatura.",
+          "**Loja física:** compra feita no site não é trocada nas lojas."
+        ],
+        "links": [
+          {
+            "label": "I Wanna Sleep é confiável? O que observar antes de comprar",
+            "href": "/reviews/i-wanna-sleep-e-confiavel"
+          }
+        ]
+      },
+      {
+        "heading": "Entrega e prazo para o Natal",
+        "paragraphs": [
+          "A I Wanna Sleep não publica prazos por região: o carrinho mostra o prazo depois do CEP. Em 9 de outubro, simulamos o frete do Pillow Top Magnum casal com o CEP do centro de 12 capitais, e ele saiu grátis em todas.",
+          "Somando um dia útil de folga ao prazo do carrinho, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
+        ],
+        "comparisonTable": {
+          "caption": "Prazo mostrado no carrinho da I Wanna Sleep em 9 de outubro de 2026, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
+          "headers": [
+            "Capital",
+            "Prazo no carrinho",
+            "Pagar até (estimativa)"
+          ],
+          "rows": [
+            [
+              "Belo Horizonte",
+              "3 dias úteis",
+              "18 de dezembro"
+            ],
+            [
+              "São Paulo e Rio de Janeiro",
+              "6 dias úteis",
+              "15 de dezembro"
+            ],
+            [
+              "Curitiba, Brasília e Goiânia",
+              "7 dias úteis",
+              "14 de dezembro"
+            ],
+            [
+              "Porto Alegre e Salvador",
+              "8 dias úteis",
+              "11 de dezembro"
+            ],
+            [
+              "Belém e Manaus",
+              "10 dias úteis",
+              "9 de dezembro"
+            ],
+            [
+              "Fortaleza",
+              "11 dias úteis",
+              "8 de dezembro"
+            ],
+            [
+              "Recife",
+              "12 dias úteis",
+              "7 de dezembro"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "É uma estimativa com o prazo de outubro: se puder, peça antes, e pague com Pix ou cartão, porque o boleto pode levar até 72 horas para ser aprovado.",
+          "A política de entrega da loja dá frete grátis acima de R$ 150 em travesseiros, pillow top, cobertores e no resto da linha leve. Abaixo disso, o carrinho mostra o valor para o seu CEP."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quando é a Black Friday da I Wanna Sleep? A Black Friday de 2026 é na sexta-feira, 27 de novembro, e a Cyber Monday, na segunda, 30 de novembro. Até 9 de outubro de 2026, a I Wanna Sleep ainda não tinha anunciado campanha.",
+          "Dá para comprar colchão da I Wanna Sleep pelo site? Não. Os colchões e a base box aparecem no site, mas são vendidos só nas lojas físicas, em Belo Horizonte, com as consultoras do sono. Pelo site, a peça para a cama é o Pillow Top Magnum.",
+          "O cupom CECIEMCASA soma com o desconto do Pix? Soma. O CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento, e no Pix entram também os 5% da loja: pela nossa conta, o Pillow Top Magnum casal, de R$ 1.848 em outubro de 2026, sai por R$ 1.580,04.",
+          "O que é o Sleeptest da I Wanna Sleep? É o teste em casa: 30 dias para o travesseiro e o pillow top e 100 dias para o colchão, com pelo menos 15 dias de uso antes de pedir a troca. No travesseiro e no pillow top, a troca vira crédito na loja.",
+          "A I Wanna Sleep tem frete grátis? Tem, acima de R$ 150, em travesseiros, pillow top, cobertores e no resto da linha leve. Na nossa simulação de 9 de outubro, o Pillow Top Magnum saiu com frete grátis para as 12 capitais testadas.",
+          "Tem cupom de primeira compra na I Wanna Sleep? Use o CECIEMCASA, que dá 10% OFF em todo o site, com todas as formas de pagamento.",
+          "A I Wanna Sleep tem loja física? Tem sete lojas em Belo Horizonte, entre elas as do BH Shopping, do Del Rey e do Ponteio. É nelas que se compram colchões e box. Compras feitas no site não são trocadas nas lojas.",
+          "O Pillow Top Magnum fica mais barato na Black Friday? Em outubro de 2026, ele já estava com cerca de 14% de desconto, a R$ 1.848 no casal. Se em novembro o preço do dia ficar abaixo disso, o desconto é maior que o de outubro.",
+          "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos que o carrinho mostrou em outubro e um dia útil de folga, até 15 de dezembro em São Paulo e no Rio de Janeiro, até 18 de dezembro em Belo Horizonte e até 7 de dezembro em Recife."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Quando a Black Friday começar, compare os preços com as tabelas deste guia e aplique o cupom CECIEMCASA no checkout da I Wanna Sleep antes de pagar.",
+      "label": "Ir para a I Wanna Sleep",
+      "url": "https://www.iwannasleep.com.br",
+      "sponsored": true
+    },
+    "coupon": "CECIEMCASA",
+    "affiliate": "i-wanna-sleep",
+    "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom CECIEMCASA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
+        "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%"
+      },
+      {
+        "slug": "pillow-top-magnum-iws-colchao-dor-nas-costas",
+        "title": "Pillow Top Magnum IWS vale a pena? Guia para colchão duro"
+      },
+      {
+        "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
+        "title": "Qual Travesseiro Escolher? O Guia das Linhas I Wanna Sleep"
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "slug": "black-friday-insider",
+    "title": "Black Friday Insider 2026: quando começa, preços da Tech T-Shirt e o cupom EMCASACOMCECILIA",
+    "seoTitle": "Black Friday Insider 2026: preços, Pix e cupom",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A coleção de Black Friday que a Insider abriu em outubro de 2026, os preços da Tech T-Shirt, de kits e de underwear para comparar, como o cupom soma com o Pix e o frete grátis, a troca de presente e até quando pedir para chegar no Natal.",
+    "metaDescription": "Black Friday Insider 2026: coleção no ar desde outubro, preços da Tech T-Shirt e de kits, cupom EMCASACOMCECILIA com Pix, frete grátis e prazo para o Natal.",
+    "publishedAt": "10 de outubro de 2026",
+    "publishedAtISO": "2026-10-10",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
+    "imageAlt": "Banner da coleção Black Friday Insider 2026 no site da Insider, com as frases Descontos inteligentes e Itens atemporais sobre um tecido azul-marinho",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "A coleção da Black Friday já estava no ar em outubro, com a Tech T-Shirt a R$ 129",
+      "O cupom EMCASACOMCECILIA dá 15% OFF e soma com o desconto do Pix",
+      "Frete grátis a partir de R$ 399 e troca grátis",
+      "Troca de presente sem nota fiscal, com vale-troca"
+    ],
+    "cons": [
+      "Cada promoção tem regra própria, e algumas não somam com cupom",
+      "O cupom não vale para lançamentos nem na loja física",
+      "Underwear e moda praia só têm troca por defeito",
+      "A loja não publica os prazos de entrega por região"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Black Friday Insider 2026",
+        "bullets": [
+          "A Black Friday de 2026 é em **27 de novembro**, e a Cyber Monday, em **30 de novembro**.",
+          "A Insider já abriu a coleção **Black Friday Insider 2026**: em 9 de outubro, ela tinha 129 produtos e a chamada \"Brindes + 10% Pix + até 40% OFF\", sem datas de início e fim. Este guia é atualizado quando a loja anunciar o que muda em novembro.",
+          "Em 9 de outubro, a Tech T-Shirt estava a **R$ 129**, contra R$ 169 do preço riscado.",
+          "O cupom EMCASACOMCECILIA dá **15% OFF** na loja online, vale com todas as formas de pagamento e soma com os preços da Black Friday e com o desconto do Pix, salvo quando a promoção disser o contrário. Ele não vale para lançamentos nem na loja física, e a loja aceita um cupom por pedido.",
+          "O frete é grátis a partir de R$ 399, valor conferido depois do desconto do cupom.",
+          "Para chegar até 24 de dezembro com o frete grátis, pela nossa conta com os prazos que o carrinho mostrou em outubro, pague até 16 de dezembro em São Paulo, até 14 de dezembro no Rio de Janeiro e em Belo Horizonte e até 26 de novembro em Manaus."
+        ]
+      },
+      {
+        "heading": "Quando começa a Black Friday da Insider?",
+        "paragraphs": [
+          "Em 2026, a Insider não esperou novembro: a coleção Black Friday Insider 2026 já estava no site em 9 de outubro, com o convite para aproveitar a Black Friday \"antes de todo mundo\". A loja não publicou datas de início e fim nem o que muda perto de 27 de novembro.",
+          "Enquanto isso, ela faz promoções curtas, cada uma com regra própria. A de 10 de outubro dava R$ 100 OFF em itens selecionados, aplicados automaticamente, e avisava na página do produto que esse desconto não somava com cupons; nos outros produtos do carrinho, o cupom continuava valendo.",
+          "Nos anos anteriores, a campanha mudou de nome. Em 2024, foi a \"Loucos por conforto\", com a Narcisa Tamborindeguy, segundo reportagem do site Nosso Meio de 28 de novembro de 2024, com declarações do CEO da marca. Percentuais de anos anteriores publicados por sites de cupom ficam fora deste guia, porque a loja não os confirma."
+        ]
+      },
+      {
+        "heading": "Tech T-Shirt e kits: preços de outubro",
+        "paragraphs": [
+          "A Tech T-Shirt, a camiseta mais conhecida da marca, já estava R$ 40 abaixo do preço riscado em outubro, nas versões masculina, feminina e gola V."
+        ],
+        "comparisonTable": {
+          "caption": "Camisetas e kits na Insider em 9 de outubro de 2026: preço riscado na página e preço do dia, antes do cupom e do Pix.",
+          "headers": [
+            "Produto",
+            "Preço riscado",
+            "Em 9/10/2026"
+          ],
+          "rows": [
+            [
+              "Tech T-Shirt, gola U masculina",
+              "R$ 169",
+              "R$ 129"
+            ],
+            [
+              "Tech T-Shirt Feminina",
+              "R$ 169",
+              "R$ 129"
+            ],
+            [
+              "Tech T-Shirt Gola V",
+              "R$ 169",
+              "R$ 129"
+            ],
+            [
+              "Tech T-Shirt Manga Longa Masculina",
+              "R$ 239",
+              "R$ 199"
+            ],
+            [
+              "Core T-Shirt",
+              "R$ 189",
+              "R$ 179 a R$ 189, conforme a cor"
+            ],
+            [
+              "Kit 3 Tech T-Shirt, gola U",
+              "R$ 507",
+              "R$ 456"
+            ],
+            [
+              "Kit 5 Core T-Shirt",
+              "R$ 945",
+              "R$ 805,50"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Compare o kit com a peça avulsa: em 9 de outubro, três Tech T-Shirts avulsas saíam por R$ 387, menos que o kit de três, a R$ 456. Na Core T-Shirt foi o contrário: no kit de cinco, cada camiseta saía por R$ 161,10, abaixo do preço da avulsa.",
+          "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela."
+        ]
+      },
+      {
+        "heading": "Cuecas e calcinhas: preços de outubro",
+        "paragraphs": [
+          "No underwear, os kits saíam mais baratos por peça que as avulsas em outubro."
+        ],
+        "comparisonTable": {
+          "caption": "Underwear na Insider em 9 de outubro de 2026: preço riscado na página e preço do dia, antes do cupom e do Pix.",
+          "headers": [
+            "Produto",
+            "Preço riscado",
+            "Em 9/10/2026"
+          ],
+          "rows": [
+            [
+              "Cueca Boxer Comfort",
+              "R$ 85",
+              "R$ 79"
+            ],
+            [
+              "Kit 3 cuecas Boxer Comfort",
+              "R$ 255",
+              "R$ 229,89"
+            ],
+            [
+              "Kit 5 cuecas Comfort",
+              "R$ 425",
+              "R$ 375,25"
+            ],
+            [
+              "Cueca Boxer Performance",
+              "R$ 95",
+              "R$ 89"
+            ],
+            [
+              "Calcinha Biquíni Brief",
+              "R$ 69",
+              "R$ 49"
+            ],
+            [
+              "Kit 3 calcinhas Brief",
+              "R$ 207",
+              "R$ 139,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Cuecas e calcinhas só têm troca por defeito, por higiene. Antes de comprar um kit, confira o guia de medidas na página do produto."
+        ]
+      },
+      {
+        "heading": "Cupom, Pix e frete grátis: o que soma",
+        "bullets": [
+          "**Cupom:** o EMCASACOMCECILIA dá 15% OFF na loja online, sem valor mínimo, com todas as formas de pagamento, e soma com os preços da Black Friday, salvo quando a promoção disser o contrário. A loja aceita um cupom por pedido.",
+          "**Promoção com regra própria:** quando a página do produto avisa que o desconto não acumula com cupons, como na promoção de 10 de outubro, o cupom não entra naquele item, mas continua valendo nos outros do carrinho.",
+          "**Lançamentos:** ficam fora do cupom, mas a etiqueta de lançamento do site não é um guia confiável. No nosso teste de 5 de outubro, peças com essa etiqueta, como a Tech T-Shirt, receberam o desconto. O resumo do pedido mostra a linha do cupom em cada item que entrou nele.",
+          "**Pix:** em outubro, a loja anunciava 10% OFF no Pix, também na coleção da Black Friday. Os termos de uso trazem ainda o Pix parcelado em até 4 vezes sem juros; o checkout mostra se o desconto vale nessa opção. O desconto do Pix não vale na compra de gift card.",
+          "**Cartão e boleto:** cartão em até 3 vezes sem juros, ou de 4 a 10 vezes com juros, e boleto à vista.",
+          "**Frete grátis:** a partir de R$ 399, valor conferido depois do desconto do cupom.",
+          "**Exemplo:** quatro Tech T-Shirts e duas cuecas Comfort somavam R$ 674 em outubro. O cupom tira R$ 101,10, e o pedido fica em R$ 572,90, ainda acima dos R$ 399 do frete grátis. No Pix, entram também os 10% da loja: pela nossa conta, aplicando um desconto sobre o outro, ele sai por R$ 515,61. O resumo do checkout mostra o valor exato antes de pagar."
+        ],
+        "links": [
+          {
+            "label": "Ver o cupom EMCASACOMCECILIA e a data do último teste",
+            "href": "/cupons/insider"
+          },
+          {
+            "label": "Passo a passo do EMCASACOMCECILIA no checkout",
+            "href": "/reviews/cupom-emcasacomcecilia-insider-store-como-usar"
+          }
+        ]
+      },
+      {
+        "heading": "Trocas e presente de Natal",
+        "bullets": [
+          "**Arrependimento:** até 7 dias úteis depois do recebimento, com a peça sem uso e com a etiqueta.",
+          "**Insatisfação (tamanho, cor ou modelo):** até 21 dias corridos depois do recebimento, com a peça sem uso, com a etiqueta e sem sinal de lavagem.",
+          "**Defeito:** até 180 dias corridos depois do recebimento, com fotos do defeito.",
+          "**Como pedir:** pelo portal de trocas do site, feito pelo titular da compra. A troca é grátis.",
+          "**Underwear e moda praia:** só têm troca ou devolução por defeito.",
+          "**Brinde:** se o pedido veio com brinde e você devolve o produto, o brinde volta junto.",
+          "**Troca de presente:** quem ganhou pede a troca, sem nota fiscal e sem a embalagem original, e recebe um vale-troca no valor do item para usar no site. O prazo é de 21 dias corridos depois da entrega, com a peça sem uso, sem sinal de lavagem e com a etiqueta.",
+          "**Atenção ao prazo:** os 21 dias contam da entrega, não do Natal. Um presente entregue em 1º de dezembro tem troca até 22 de dezembro."
+        ],
+        "links": [
+          {
+            "label": "Insider Store é confiável? CNPJ, loja física, trocas e reputação",
+            "href": "/reviews/insider-store-e-confiavel"
+          }
+        ]
+      },
+      {
+        "heading": "Loja física: o cupom não vale lá",
+        "paragraphs": [
+          "A Insider tem uma Concept Store no MorumbiShopping, em São Paulo, onde dá para ver e provar as peças. Segundo a central de ajuda da loja, cupons e cashback valem só no site, então o EMCASACOMCECILIA não entra nas compras feitas ali.",
+          "Pedidos feitos no site também não podem ser retirados nem trocados na loja física: a troca segue pelo portal online."
+        ]
+      },
+      {
+        "heading": "Entrega e prazo para o Natal",
+        "paragraphs": [
+          "A Insider não publica prazos por região: o carrinho mostra as opções de entrega depois do CEP, e o prazo começa a contar quando o pagamento é aprovado. A central de ajuda avisa que os prazos podem mudar em períodos de alta demanda, como a Black Friday.",
+          "Vale levar o aviso a sério: no Reclame Aqui, mais de dois terços das reclamações dos últimos 12 meses contra a Insider vieram do semestre que inclui a Black Friday e o Natal, e a entrega é o problema mais citado.",
+          "Em 9 de outubro, simulamos o frete de quatro Tech T-Shirts (R$ 516, acima do frete grátis) com o CEP do centro de 12 capitais. Somando um dia útil de folga ao prazo do frete grátis, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
+        ],
+        "comparisonTable": {
+          "caption": "Prazo do frete grátis no carrinho da Insider em 9 de outubro de 2026, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
+          "headers": [
+            "Capital",
+            "Frete grátis no carrinho",
+            "Pagar até (estimativa)"
+          ],
+          "rows": [
+            [
+              "São Paulo",
+              "5 dias úteis",
+              "16 de dezembro"
+            ],
+            [
+              "Curitiba, Porto Alegre e Goiânia",
+              "6 dias úteis",
+              "15 de dezembro"
+            ],
+            [
+              "Rio de Janeiro e Belo Horizonte",
+              "7 dias úteis",
+              "14 de dezembro"
+            ],
+            [
+              "Brasília",
+              "8 dias úteis",
+              "11 de dezembro"
+            ],
+            [
+              "Salvador",
+              "9 dias úteis",
+              "10 de dezembro"
+            ],
+            [
+              "Fortaleza",
+              "11 dias úteis",
+              "8 de dezembro"
+            ],
+            [
+              "Belém",
+              "12 dias úteis",
+              "7 de dezembro"
+            ],
+            [
+              "Recife",
+              "13 dias úteis",
+              "4 de dezembro"
+            ],
+            [
+              "Manaus",
+              "19 dias úteis",
+              "26 de novembro"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O carrinho também mostrou uma entrega paga mais rápida: R$ 19,90 e 2 dias úteis em São Paulo, e R$ 19,90 e 3 dias úteis no Rio de Janeiro, em Belo Horizonte, Curitiba, Porto Alegre, Salvador, Recife e Fortaleza. Com ela, pela mesma conta, dá para pagar até 21 de dezembro em São Paulo e até 18 de dezembro nas outras sete. Em Belém e Manaus, a opção mais rápida levava 10 e 9 dias úteis e custava mais de R$ 60 nesse carrinho. Se o pedido é presente, peça com folga."
+        ],
+        "links": [
+          {
+            "label": "Insider Store no Reclame Aqui: nota e reclamações",
+            "href": "/reviews/insider-store-reclame-aqui-nota-reputacao"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quando começa a Black Friday da Insider? A Black Friday de 2026 é na sexta-feira, 27 de novembro, mas a Insider abriu a coleção Black Friday Insider 2026 antes: em 9 de outubro, ela já estava no site, sem datas de início e fim.",
+          "O cupom EMCASACOMCECILIA vale na Black Friday? Vale. Ele dá 15% OFF na loja online, com todas as formas de pagamento, e soma com os preços da Black Friday e com o desconto do Pix, salvo quando a promoção disser o contrário. Não vale para lançamentos nem na loja física, e a loja aceita um cupom por pedido.",
+          "Quanto custa a Tech T-Shirt na Black Friday? Em 9 de outubro de 2026, ela estava a R$ 129, contra R$ 169 do preço riscado. Com o cupom EMCASACOMCECILIA, sai por R$ 109,65. Se em novembro o preço do dia ficar abaixo de R$ 129, o desconto é maior que o de outubro.",
+          "O kit de Tech T-Shirt compensa? Em 9 de outubro de 2026, não: três Tech T-Shirts avulsas saíam por R$ 387, e o kit de três, por R$ 456. Nos kits de cueca, de calcinha e de Core T-Shirt, o preço por peça era menor que o da avulsa.",
+          "A Insider tem desconto no Pix? Em outubro de 2026, a loja anunciava 10% OFF no Pix, que soma com o cupom EMCASACOMCECILIA.",
+          "A Insider tem frete grátis? Tem, a partir de R$ 399, valor conferido depois do desconto do cupom.",
+          "Dá para trocar presente da Insider? Dá. Quem ganhou pede a troca, sem nota fiscal, e recebe um vale-troca no valor do item, em até 21 dias corridos depois da entrega. Underwear e moda praia só têm troca por defeito.",
+          "O cupom vale na loja física da Insider? Não. Cupons e cashback valem só no site, e pedidos do site não podem ser retirados nem trocados na Concept Store do MorumbiShopping.",
+          "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos do frete grátis que o carrinho mostrou em outubro e um dia útil de folga, até 16 de dezembro em São Paulo, até 14 de dezembro no Rio de Janeiro e em Belo Horizonte e até 26 de novembro em Manaus."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Entre na Insider pelo link da parceria: o cupom EMCASACOMCECILIA já vai para o carrinho. Compare os preços com as tabelas deste guia e confira o desconto em cada item antes de pagar.",
+      "label": "Ir para a Insider com o cupom",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom EMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
+        "title": "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%"
+      },
+      {
+        "slug": "insider-store-e-confiavel",
+        "title": "Insider Store é confiável? CNPJ, loja física, trocas e reputação"
+      },
+      {
+        "slug": "insider-store-reclame-aqui-nota-reputacao",
+        "title": "Insider Store no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "slug": "black-friday-nestle-nutre",
+    "title": "Black Friday Nutren 2026: Nutren Senior, Just Protein e o cupom CECI na Nestlé Nutre",
+    "seoTitle": "Black Friday Nutren Senior 2026: preços e cupom CECI",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que a Nestlé Nutre oferecia em outubro de 2026, os preços do Nutren Senior, do Just Protein e de outros produtos para adultos para comparar na Black Friday, assinatura ou compra única com o cupom CECI, o frete grátis e até quando pedir para chegar no Natal.",
+    "metaDescription": "Black Friday Nutren 2026: preços de outubro do Nutren Senior 740 g e do Just Protein, cupom CECI, assinatura, frete grátis e prazo para o Natal.",
+    "publishedAt": "10 de outubro de 2026",
+    "publishedAtISO": "2026-10-10",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nutren/black-friday-nestle-nutre-nutren-senior-lata.webp",
+    "imageAlt": "Lata de 740 g do Nutren Senior Zero Lactose sem sabor, em imagem oficial da loja Nestlé Nutre",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Nutren Senior, Just Protein e Nutren Active já tinham preço riscado em outubro",
+      "Kits com duas latas de Nutren Senior saíam mais baratos por lata",
+      "O cupom CECI dá 10% OFF e vale com todas as formas de pagamento",
+      "Frete grátis acima de R$ 400 na compra única e de R$ 200 na assinatura"
+    ],
+    "cons": [
+      "A loja não dá desconto no Pix",
+      "O CECI não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses",
+      "O parcelamento sem juros pede parcela mínima de R$ 75",
+      "A loja não publica os prazos de entrega por região"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Black Friday Nutren 2026",
+        "bullets": [
+          "A Black Friday de 2026 é em **27 de novembro**, e a Cyber Monday, em **30 de novembro**.",
+          "Até 10 de outubro de 2026, a Nestlé Nutre ainda não tinha anunciado campanha de Black Friday para o Nutren. Este guia é atualizado quando a loja anunciar.",
+          "Em 10 de outubro, a lata de 740 g do Nutren Senior saía por **R$ 169,37** na compra única (café com leite) e por R$ 190,61 na zero lactose sem sabor. O kit com duas latas de 740 g sem sabor saía por **R$ 263,49**.",
+          "O cupom CECI dá **10% OFF** nos produtos da loja, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Ele vale com todas as formas de pagamento e soma com os preços da Black Friday.",
+          "O frete é grátis acima de R$ 400 na compra única e acima de R$ 200 na assinatura.",
+          "Para chegar até 24 de dezembro com o frete grátis, pela nossa conta com os prazos que a loja mostrou em outubro, pague até 16 de dezembro em São Paulo, até 10 de dezembro no Rio de Janeiro e até 1º de dezembro em Manaus."
+        ]
+      },
+      {
+        "heading": "A Nestlé Nutre tem Black Friday?",
+        "paragraphs": [
+          "Não encontramos campanha de Black Friday do Nutren na loja Nestlé Nutre nos anos anteriores. Em novembro de 2025, a Nestlé disse ao site Gironews que fazia a maior Black Friday da sua história, de olho nos canais digitais, mas a reportagem não detalha ofertas do Nutren nem da loja.",
+          "O que dá para mostrar é o que a loja já cobrava em outubro de 2026: preço riscado em vários produtos para adultos, um preço menor para quem assina e kits com duas latas. Quando a campanha de 2026 for anunciada, as condições entram aqui, com o que mudou em relação a outubro."
+        ]
+      },
+      {
+        "heading": "Nutren Senior: preços de outubro",
+        "paragraphs": [
+          "O Nutren Senior é a linha da loja para quem já passou dos 50 anos. Este guia trata só dos produtos para adultos.",
+          "Na página de cada produto aparecem até três preços: o riscado, o da compra única e o da assinatura."
+        ],
+        "comparisonTable": {
+          "caption": "Nutren Senior na loja Nestlé Nutre em 10 de outubro de 2026, como a página de cada produto mostrava, antes do cupom. O traço indica produto sem preço riscado.",
+          "headers": [
+            "Produto",
+            "Preço riscado",
+            "Compra única",
+            "Assinatura"
+          ],
+          "rows": [
+            [
+              "Nutren Senior Café com Leite, lata de 740 g",
+              "R$ 188,19",
+              "R$ 169,37",
+              "R$ 150,55"
+            ],
+            [
+              "Nutren Senior Zero Lactose Sem Sabor, lata de 740 g",
+              "R$ 211,79",
+              "R$ 190,61",
+              "R$ 169,43"
+            ],
+            [
+              "Kit Nutren Senior Sem Sabor, 2 latas de 740 g",
+              "—",
+              "R$ 263,49",
+              "R$ 237,14"
+            ],
+            [
+              "Kit Nutren Senior Zero Lactose Sem Sabor, 2 latas de 740 g",
+              "—",
+              "R$ 296,50",
+              "R$ 266,85"
+            ],
+            [
+              "Combo Nutren Senior Sem Sabor, 2 latas de 740 g",
+              "R$ 376,38",
+              "R$ 319,92",
+              "R$ 282,29"
+            ],
+            [
+              "Nutren Senior Café com Leite, lata de 370 g",
+              "—",
+              "R$ 100,79",
+              "R$ 90,71"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Repare nos kits: em 10 de outubro, o kit com duas latas de 740 g sem sabor saía por R$ 263,49, cerca de R$ 131,75 por lata, menos que o combo de duas latas sem sabor (R$ 319,92) e que uma lata avulsa de café com leite (R$ 169,37). Conferimos no carrinho que o preço do kit vale para as duas latas.",
+          "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela."
+        ],
+        "links": [
+          {
+            "label": "Nutren Senior Zero Lactose: o que saber antes de comprar",
+            "href": "/reviews/nutren-senior-zero-lactose-ficha-tecnica"
+          },
+          {
+            "label": "Como tomar Nutren Senior sem empelotar",
+            "href": "/reviews/nutren-senior-como-tomar-sem-empelotar"
+          }
+        ]
+      },
+      {
+        "heading": "Just Protein, Creatina, FiberMais e outros: preços de outubro",
+        "paragraphs": [
+          "Nos outros produtos para adultos, o preço riscado aparecia no Just Protein, no Nutren Control e no Nutren Active. A Creatina e o FiberMais estavam pelo preço cheio, com desconto só na assinatura."
+        ],
+        "comparisonTable": {
+          "caption": "Outros produtos para adultos na loja Nestlé Nutre em 10 de outubro de 2026, como a página de cada produto mostrava, antes do cupom. O traço indica produto sem preço riscado.",
+          "headers": [
+            "Produto",
+            "Preço riscado",
+            "Compra única",
+            "Assinatura"
+          ],
+          "rows": [
+            [
+              "Nutren Just Protein, lata de 280 g",
+              "R$ 128,79",
+              "R$ 115,91",
+              "R$ 103,03"
+            ],
+            [
+              "Combo Nutren Just Protein, 2 latas de 280 g",
+              "R$ 257,58",
+              "R$ 193,18",
+              "R$ 167,43"
+            ],
+            [
+              "Nutren Creatina, sachê de 300 g",
+              "—",
+              "R$ 59,90",
+              "R$ 53,91"
+            ],
+            [
+              "FiberMais Sem Sabor, lata de 260 g",
+              "—",
+              "R$ 144,89",
+              "R$ 130,40"
+            ],
+            [
+              "Nutren Control Baunilha, lata de 740 g",
+              "R$ 214,89",
+              "R$ 171,91",
+              "R$ 150,42"
+            ],
+            [
+              "Nutren Active Baunilha, lata de 400 g",
+              "R$ 63,49",
+              "R$ 50,79",
+              "R$ 44,44"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No combo de duas latas, o Just Protein saía por R$ 96,59 a lata na compra única, 25% abaixo do preço riscado."
+        ],
+        "links": [
+          {
+            "label": "Nutren Just Protein: tudo o que você precisa saber",
+            "href": "/reviews/nutren-just-protein-para-que-serve"
+          },
+          {
+            "label": "Nutren Creatina é boa? Comparativo com Growth, FTW e Cimed",
+            "href": "/reviews/nutren-creatina-e-boa-comparativo-growth-ftw-cimed"
+          },
+          {
+            "label": "FiberMais: como usar em receitas e bebidas",
+            "href": "/reviews/fibermais-como-usar-em-receitas-e-bebidas"
+          }
+        ]
+      },
+      {
+        "heading": "Assinatura ou compra única com o cupom CECI",
+        "bullets": [
+          "**Assinatura:** a loja anuncia 10% OFF na primeira compra e 15% OFF a partir da terceira recorrência, em assinaturas acima de R$ 200, sobre o preço de compra única. As entregas são a cada 30, 60 ou 90 dias, e o preço de assinatura de cada produto está nas tabelas acima.",
+          "**Regras da assinatura:** uma assinatura ativa por CPF, paga só no cartão de crédito, com frete grátis acima de R$ 200. Dá para pular até duas entregas por ano e cancelar sem custo.",
+          "**Compra única com o CECI:** o cupom dá 10% OFF, com todas as formas de pagamento, e soma com os preços da Black Friday. Pela nossa conta, a lata de 740 g do Nutren Senior Zero Lactose, de R$ 190,61, sai por R$ 171,55, e o kit com duas latas sem sabor, de R$ 263,49, sai por R$ 237,14.",
+          "**Qual sai mais barato?** Na primeira entrega, os dois caminhos ficaram perto em outubro: na lata zero lactose, R$ 169,43 na assinatura e R$ 171,55 na compra única com o CECI; no kit sem sabor, R$ 237,14 nos dois. Para uma compra de vez em quando, a compra única com o cupom resolve; para quem usa todo mês, a assinatura sobe para 15% a partir da terceira entrega.",
+          "**Frete grátis:** acima de R$ 400 na compra única, na transportadora que o site define, e acima de R$ 200 na assinatura. Uma lata de 740 g sozinha não chega a R$ 400; três latas zero lactose passam do valor mesmo com o cupom (R$ 514,65, pela nossa conta)."
+        ],
+        "links": [
+          {
+            "label": "Ver o cupom CECI e a data do último teste",
+            "href": "/cupons/nestle-nutre"
+          },
+          {
+            "label": "Passo a passo do CECI no checkout",
+            "href": "/reviews/cupom-ceci-nestle-nutre-como-usar"
+          }
+        ]
+      },
+      {
+        "heading": "Pagamento, troca e devolução",
+        "bullets": [
+          "**Cartão de crédito:** até 6 vezes sem juros, com parcela mínima de R$ 75. Um pedido de R$ 150, por exemplo, sai em 2 vezes de R$ 75.",
+          "**Pix:** o QR Code aparece ao fechar o pedido. A loja não anuncia desconto no Pix.",
+          "**Dano, falta de item ou desistência:** avise a loja em até 7 dias da entrega, pelo 0800-770-2461 ou pelo e-mail do atendimento.",
+          "**Troca e devolução:** seguem o Código de Defesa do Consumidor e são pedidas pelo atendimento da loja. No cartão, o estorno sai de uma vez, na fatura seguinte ou na outra."
+        ],
+        "links": [
+          {
+            "label": "Nestlé Nutre é confiável? O que observar antes de comprar",
+            "href": "/reviews/nestle-nutre-e-confiavel"
+          }
+        ]
+      },
+      {
+        "heading": "Entrega e prazo para o Natal",
+        "paragraphs": [
+          "A Nestlé Nutre não publica prazos por região: a página de cada produto tem um calculador de frete pelo CEP. Pelos termos de uso, o pedido pode levar até 48 horas para ser processado, e o prazo de entrega conta a partir da nota fiscal enviada por e-mail.",
+          "Em 10 de outubro, simulamos no calculador o frete de três latas de 740 g do Nutren Senior Zero Lactose (R$ 571,83, acima do frete grátis) com o CEP do centro de 12 capitais. Somando os dois dias de processamento e um dia útil de folga, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
+        ],
+        "comparisonTable": {
+          "caption": "Prazo do frete grátis no calculador da Nestlé Nutre em 10 de outubro de 2026, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
+          "headers": [
+            "Capital",
+            "Frete grátis no calculador",
+            "Pagar até (estimativa)"
+          ],
+          "rows": [
+            [
+              "São Paulo",
+              "3 dias úteis",
+              "16 de dezembro"
+            ],
+            [
+              "Brasília, Goiânia e Salvador",
+              "5 dias úteis",
+              "14 de dezembro"
+            ],
+            [
+              "Belo Horizonte e Recife",
+              "6 dias úteis",
+              "11 de dezembro"
+            ],
+            [
+              "Rio de Janeiro, Curitiba e Fortaleza",
+              "7 dias úteis",
+              "10 de dezembro"
+            ],
+            [
+              "Porto Alegre",
+              "8 dias úteis",
+              "9 de dezembro"
+            ],
+            [
+              "Belém",
+              "9 dias úteis",
+              "8 de dezembro"
+            ],
+            [
+              "Manaus",
+              "14 dias úteis",
+              "1º de dezembro"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O calculador também mostrou entregas pagas mais rápidas. No Rio de Janeiro, em Curitiba, Porto Alegre, Brasília e Goiânia, uma opção de R$ 16 a R$ 20 encurtava o prazo em um ou dois dias úteis. No Norte e no Nordeste, o Sedex levava de 3 a 6 dias úteis, mas custava de R$ 98,60 a R$ 147,90 nesse carrinho.",
+          "É uma estimativa com os prazos de outubro: se a lata está no fim ou o pedido é presente, peça antes."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quando é a Black Friday da Nestlé Nutre? A Black Friday de 2026 é na sexta-feira, 27 de novembro, e a Cyber Monday, na segunda, 30 de novembro. Até 10 de outubro de 2026, a loja ainda não tinha anunciado campanha para o Nutren.",
+          "Quanto custa o Nutren Senior 740 g? Em 10 de outubro de 2026, a lata de café com leite saía por R$ 169,37 na compra única (preço riscado de R$ 188,19), e a zero lactose sem sabor, por R$ 190,61 (riscado de R$ 211,79). O kit com duas latas sem sabor saía por R$ 263,49.",
+          "O Nutren Senior fica mais barato na Black Friday? Em outubro de 2026, ele já estava abaixo do preço riscado, e o kit com duas latas saía por cerca de R$ 131,75 a lata. Se em novembro o preço do dia ficar abaixo das tabelas deste guia, o desconto é maior que o de outubro.",
+          "O cupom CECI vale para o Nutren Senior? Vale. O CECI dá 10% OFF, com todas as formas de pagamento, e soma com os preços da Black Friday: pela nossa conta, a lata zero lactose de R$ 190,61 sai por R$ 171,55.",
+          "Quais produtos ficam fora do cupom CECI? Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Nos demais produtos da loja, o cupom dá 10% OFF.",
+          "A Nestlé Nutre tem frete grátis? Tem, acima de R$ 400 na compra única e acima de R$ 200 na assinatura.",
+          "Como funciona a assinatura da Nestlé Nutre? A loja anuncia 10% OFF na primeira compra e 15% OFF a partir da terceira recorrência, em assinaturas acima de R$ 200, com entregas a cada 30, 60 ou 90 dias. É uma assinatura por CPF, paga no cartão de crédito, e dá para cancelar sem custo.",
+          "A Nestlé Nutre parcela sem juros? Parcela, em até 6 vezes sem juros no cartão, com parcela mínima de R$ 75. No Pix, a loja não anuncia desconto.",
+          "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos do frete grátis que a loja mostrou em outubro, os dois dias de processamento e um dia útil de folga, até 16 de dezembro em São Paulo, até 10 de dezembro no Rio de Janeiro e até 1º de dezembro em Manaus."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Quando a Black Friday começar, compare os preços com as tabelas deste guia e aplique o cupom CECI no checkout da Nestlé Nutre antes de pagar.",
+      "label": "Ir para a Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom CECI.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar",
+        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+      },
+      {
+        "slug": "nutren-senior-como-tomar-sem-empelotar",
+        "title": "Como Tomar Nutren Senior Sem Empelotar"
+      },
+      {
+        "slug": "nutren-just-protein-para-que-serve",
+        "title": "Nutren Just Protein: tudo o que você precisa saber"
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "slug": "black-friday-magalu",
+    "title": "Black Friday Magalu 2026: quando começa, geladeira e eletro vendidos pelo Magalu e qual código da Cecília usar",
+    "seoTitle": "Black Friday Magalu 2026: datas, eletro e código",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O calendário da Black Friday 2026 do Magalu, o que é só no app, qual das dez faixas do código da Cecília usar, quando ele vale mais que o cupom do Magalu, como achar o que é vendido e entregue pelo Magalu e os preços de outubro de geladeiras, lavadoras, fogões e eletroportáteis para comparar.",
+    "metaDescription": "Black Friday Magalu 2026: quando começa, o que é só no app, as faixas do código da Cecília, preços de outubro de geladeira e eletro, frete, retirada e trocas.",
+    "publishedAt": "11 de outubro de 2026",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/magalu/black-friday-magalu-lu.webp",
+    "imageAlt": "A Lu, personagem do Magalu, sorrindo e mostrando um celular com o logo do Magalu na tela, sobre um fundo azul com dois celulares desenhados",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Dez faixas, de R$ 10 a R$ 100 OFF, que valem sobre o preço da Black Friday",
+      "O código vale com todas as formas de pagamento, inclusive no Pix",
+      "Retirada na loja em parte dos produtos vendidos pelo Magalu",
+      "Devolução em até 7 dias pelo próprio site, com voucher ou estorno"
+    ],
+    "cons": [
+      "Só pelo navegador: as ofertas exclusivas do app ficam fora",
+      "Só itens vendidos e entregues pelo Magalu, sem marketplace",
+      "Não soma com o cupom do próprio Magalu: vale um por pedido",
+      "A maioria dos eletroportáteis, sozinha, não chega aos R$ 499,90 da primeira faixa"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Black Friday Magalu 2026",
+        "bullets": [
+          "A Black Friday de 2026 é na sexta-feira, **27 de novembro**. Segundo o Magalu, as ofertas começam antes e vão até a **Cyber Monday**, em 30 de novembro, e o esquenta já começou.",
+          "Antes do dia, o Magalu anuncia a **Liquidação do Dia do Pagamento** em 5 e 6 de novembro, no app e nas lojas, o **11.11** com preços de Black Friday no app e parcelamento em **até 21 vezes sem juros** durante o mês.",
+          "Os códigos da Cecília vão de **R$ 10 a R$ 100 OFF**, conforme o valor do carrinho. Valem só pelo navegador, na loja Magazine Você da Cecília, em produtos vendidos e entregues pelo Magalu, sobre o preço da Black Friday e com todas as formas de pagamento.",
+          "Vale um cupom por pedido. O código da Cecília é para quando o produto não tem cupom do próprio Magalu, ou quando o cupom da loja não vale para o que você quer comprar.",
+          "Frete, prazo e retirada na loja dependem do CEP: confira na página do produto ou na sacola antes de pagar."
+        ]
+      },
+      {
+        "heading": "Quando começa e até quando vai a Black Friday do Magalu?",
+        "paragraphs": [
+          "O dia oficial é 27 de novembro de 2026. Na página da Black Friday, o Magalu diz que as ofertas começam antes e se estendem por alguns dias, com esquenta, semana especial e Cyber Monday. Em outubro, o esquenta já estava no ar.",
+          "O calendário que o Magalu publicou para novembro: Liquidação do Dia do Pagamento em 5 e 6 de novembro, no app e nas lojas, com até 60% de desconto e frete grátis; 11.11 com preços de Black Friday no app; e o \"Faz um 21\", com descontos de Black Friday em até 21 vezes sem juros durante o mês. O app também traz ofertas antecipadas que duram um dia, com produtos novos todos os dias, e manda ofertas por notificação.",
+          "Na prática, a Black Friday do Magalu ocupa novembro inteiro. Em 2023, as promoções correram o mês todo, com a Black Friday em 24 de novembro, segundo o Money Times. Em 2024, o Magalu soltou ofertas por notificação no app antes da data, segundo o Canaltech. Em 2025, a \"Black das Blacks\" foi de 26 de outubro a 30 de novembro, segundo texto patrocinado pelo Magalu no Canaltech."
+        ]
+      },
+      {
+        "heading": "Qual código da Cecília usar: as dez faixas",
+        "paragraphs": [
+          "Cada código dá um desconto fixo em reais, a partir de um valor mínimo de produtos vendidos e entregues pelo Magalu. Use sempre o código da maior faixa que o carrinho alcançar."
+        ],
+        "comparisonTable": {
+          "caption": "Códigos da Cecília na loja Magazine Você, conferidos em 1º de outubro de 2026. O desconto vale nos produtos, não no frete.",
+          "headers": [
+            "Código",
+            "Desconto",
+            "Compra mínima"
+          ],
+          "rows": [
+            [
+              "10EMCASACOMCECILIA",
+              "R$ 10 OFF",
+              "R$ 499,90"
+            ],
+            [
+              "20EMCASACOMCECILIA",
+              "R$ 20 OFF",
+              "R$ 999,90"
+            ],
+            [
+              "30EMCASACOMCECILIA",
+              "R$ 30 OFF",
+              "R$ 1.499,90"
+            ],
+            [
+              "40EMCASACOMCECILIA",
+              "R$ 40 OFF",
+              "R$ 1.999,90"
+            ],
+            [
+              "50EMCASACOMCECILIA",
+              "R$ 50 OFF",
+              "R$ 2.499,90"
+            ],
+            [
+              "60EMCASACOMCECILIA",
+              "R$ 60 OFF",
+              "R$ 2.999,90"
+            ],
+            [
+              "70EMCASACOMCECILIA",
+              "R$ 70 OFF",
+              "R$ 3.499,90"
+            ],
+            [
+              "80EMCASACOMCECILIA",
+              "R$ 80 OFF",
+              "R$ 3.999,90"
+            ],
+            [
+              "90EMCASACOMCECILIA",
+              "R$ 90 OFF",
+              "R$ 4.499,90"
+            ],
+            [
+              "100EMCASACOMCECILIA",
+              "R$ 100 OFF",
+              "R$ 4.999,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Exemplos com os preços de 10 de outubro, que caem na mesma faixa no cartão e no Pix: a geladeira Consul Frost Free de 377 litros, a R$ 2.727,54, fica na faixa do **50EMCASACOMCECILIA**. Com o micro-ondas Electrolux de 34 litros na mesma sacola, o total passa de R$ 2.999,90 e libera o **60EMCASACOMCECILIA**. Uma geladeira Brastemp Inox de 512 litros com a lavadora Electrolux de 15 kg passa de R$ 4.999,90 e libera o **100EMCASACOMCECILIA**.",
+          "A maioria dos eletroportáteis custa menos que os R$ 499,90 da primeira faixa. Para usar o código numa air fryer ou num aspirador, junte na mesma sacola outros itens vendidos e entregues pelo Magalu."
+        ]
+      },
+      {
+        "heading": "Cupom do Magalu ou código da Cecília?",
+        "paragraphs": [
+          "Na loja da Cecília, algumas páginas de produto mostram um cupom do próprio Magalu, com o aviso para copiar e colar na revisão do pedido. Em 10 de outubro, apareciam cupons de R$ 50 a R$ 225 em eletrodomésticos vendidos pelo Magalu.",
+          "Como vale um cupom por pedido, o código da Cecília é para quando o produto não tem cupom do Magalu, ou quando o cupom da loja não vale para o que você quer comprar. Se o produto tiver os dois, use o que der mais desconto: na geladeira Electrolux de 260 litros, a R$ 2.298,40 no cartão, o cupom do Magalu tirava R$ 225, e o código da Cecília, R$ 40."
+        ],
+        "links": [
+          {
+            "label": "Ver os códigos da Cecília e a data do último teste",
+            "href": "/cupons/magalu"
+          },
+          {
+            "label": "Passo a passo para aplicar o código no checkout",
+            "href": "/reviews/cupom-magalu-em-casa-com-cecilia"
+          }
+        ]
+      },
+      {
+        "heading": "Vendido e entregue pelo Magalu: onde o código vale",
+        "bullets": [
+          "**Na página do produto:** procure a linha \"Vendido e entregue por Magalu\". É ela que libera o código.",
+          "**Selo Full:** quer dizer que a entrega é do Magalu, mas o produto pode ser de outro vendedor. Se o vendedor não for o Magalu, o código não entra.",
+          "**Lojistas parceiros (marketplace):** ficam fora do código, inclusive os importados da seção do AliExpress.",
+          "**Móveis:** a maior parte da vitrine é de lojistas parceiros. Na lista, use o filtro \"Vendido por: Magalu\" para ver só o que entra no código.",
+          "**Pedido com vendedores diferentes:** só os itens vendidos pelo Magalu contam para a faixa, e cada vendedor pode entregar numa data diferente."
+        ]
+      },
+      {
+        "heading": "App ou navegador: o que vale onde",
+        "paragraphs": [
+          "Os códigos da Cecília só funcionam pelo navegador, no celular ou no computador, na loja Magazine Você da Cecília. O login é a mesma conta Magalu do site e do app.",
+          "As ofertas que o Magalu anuncia só no app, como as antecipadas, o 11.11 e as que chegam por notificação, ficam fora do código. Antes de pagar, compare o preço do app sem o código com o preço do navegador com o código da sua faixa."
+        ]
+      },
+      {
+        "heading": "Preços de outubro para comparar",
+        "paragraphs": [
+          "Estes são produtos vendidos e entregues pelo Magalu, entre os mais vendidos da loja da Cecília em 10 de outubro. Na Black Friday, a oferta só é desconto de verdade se o preço do dia ficar abaixo desta tabela. O preço riscado (\"de\") da página costuma ser bem maior que o do dia, então ele não serve de referência."
+        ],
+        "comparisonTable": {
+          "caption": "Loja Magazine Você da Cecília em 10 de outubro de 2026, sem CEP informado, antes do código. O preço muda com o CEP e a cada dia, e o número de parcelas sem juros varia por produto.",
+          "headers": [
+            "Produto",
+            "No cartão, sem juros",
+            "No Pix"
+          ],
+          "rows": [
+            [
+              "Geladeira Electrolux Cycle Defrost Duplex 260 L (DC35A)",
+              "R$ 2.298,40",
+              "R$ 2.160,50"
+            ],
+            [
+              "Geladeira Consul Frost Free Duplex 377 L (CRM44MBBNA)",
+              "R$ 2.727,54",
+              "R$ 2.591,16"
+            ],
+            [
+              "Geladeira Electrolux Frost Free Duplex 400 L (IF44)",
+              "R$ 2.902,15",
+              "R$ 2.699,00"
+            ],
+            [
+              "Geladeira Brastemp Frost Free Duplex Inox 512 L (BRM62AK)",
+              "R$ 3.788,42",
+              "R$ 3.599,00"
+            ],
+            [
+              "Lavadora Electrolux 15 kg (LEC15)",
+              "R$ 2.104,21",
+              "R$ 1.999,00"
+            ],
+            [
+              "Lavadora Brastemp 14 kg (BWJ14ABANA)",
+              "R$ 1.980,47",
+              "R$ 1.881,45"
+            ],
+            [
+              "Micro-ondas Electrolux 34 L (MEO44)",
+              "R$ 649,00",
+              "R$ 616,55"
+            ],
+            [
+              "Fogão 4 bocas Esmaltec Ideal Pop 4120",
+              "R$ 598,12",
+              "R$ 556,25"
+            ],
+            [
+              "Fogão 4 bocas Consul Inox (CFO4NARUNA)",
+              "R$ 1.325,00",
+              "R$ 1.258,75"
+            ],
+            [
+              "Air fryer Mondial Family 4 L (AFN-40-BI)",
+              "R$ 249,00",
+              "R$ 249,00"
+            ],
+            [
+              "Air fryer forno Mondial 12 L (AFON-12L-BI)",
+              "R$ 546,32",
+              "R$ 519,00"
+            ],
+            [
+              "Panela de pressão elétrica digital Mondial 5 L",
+              "R$ 398,95",
+              "R$ 379,00"
+            ],
+            [
+              "Aspirador vertical Electrolux STK14",
+              "R$ 198,95",
+              "R$ 189,00"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O desconto do Pix muda por produto: nos eletrodomésticos desta tabela, ia de 5% a 7% em outubro, e a air fryer Mondial de 4 litros não tinha desconto no Pix. O código da Cecília vale nos dois preços."
+        ]
+      },
+      {
+        "heading": "Frete, retirada na loja e prazo para o Natal",
+        "bullets": [
+          "**Frete e prazo:** dependem do CEP, do total do pedido, da distância e do tipo de transporte. Digite o CEP na página do produto ou na sacola para ver o valor e o prazo antes de pagar.",
+          "**Frete grátis em banner:** se o produto aparece com frete grátis num banner do site ou do app, confirme com o seu CEP na página do produto ou na sacola antes de fechar a compra.",
+          "**Retirada na loja:** nem todo produto tem a opção. Ao digitar o CEP na página do produto, aparecem as lojas mais próximas e o prazo, quando a retirada está disponível, e ela costuma sair sem custo. A pessoa que vai retirar não pode ser trocada depois da compra.",
+          "**Quando o prazo começa:** o prazo de entrega conta a partir da confirmação do pagamento.",
+          "**Presente de Natal:** 24 de dezembro cai numa quinta-feira. Confira o prazo com o CEP de entrega antes de pagar e compre com folga, ou escolha a retirada na loja, se o produto tiver."
+        ]
+      },
+      {
+        "heading": "Trocas e arrependimento",
+        "bullets": [
+          "**Arrependimento:** a devolução pode ser pedida em até 7 dias corridos depois do recebimento, como prevê o artigo 49 do Código de Defesa do Consumidor.",
+          "**Como pedir:** no site ou no app, em \"Meus pedidos\", escolha o produto e clique em \"Quero trocar ou cancelar\". Dá para trocar pelo mesmo produto ou por outro, receber um voucher na conta MagaluPay em até 24 horas depois do cancelamento ou pedir o estorno na forma de pagamento usada.",
+          "**Lojistas parceiros:** produtos de lojistas parceiros não são trocados, só cancelados.",
+          "**Troca na loja física:** só de produtos vendidos e entregues pelo Magalu e pequenos, fáceis de levar até a loja, com a nota fiscal e um documento com foto. Os preços do site não valem nas lojas físicas.",
+          "**Presente:** a troca é pedida em \"Meus pedidos\", na conta de quem comprou."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quando começa a Black Friday do Magalu? A Black Friday de 2026 é na sexta-feira, 27 de novembro, mas o Magalu já abriu o esquenta em outubro. Em novembro, ele anuncia a Liquidação do Dia do Pagamento em 5 e 6 de novembro e o 11.11 com preços de Black Friday no app.",
+          "A Black Friday do Magalu vai até quando? Segundo o Magalu, as ofertas se estendem por alguns dias depois de 27 de novembro, até a Cyber Monday, em 30 de novembro. Em 2025, a Black das Blacks foi de 26 de outubro a 30 de novembro.",
+          "Tem cupom Magalu para a Black Friday? Tem: os códigos da Cecília dão de R$ 10 a R$ 100 OFF, conforme o valor do carrinho, na loja Magazine Você da Cecília, pelo navegador, em produtos vendidos e entregues pelo Magalu. Eles valem sobre o preço da Black Friday e com todas as formas de pagamento.",
+          "O cupom da Cecília funciona no app do Magalu? Não. Os códigos só funcionam pelo navegador, na loja Magazine Você da Cecília, então as ofertas exclusivas do app ficam fora deles.",
+          "Posso usar o código da Cecília junto com o cupom do Magalu? Não, vale um cupom por pedido. O código da Cecília é para quando o produto não tem cupom do Magalu, ou quando o cupom da loja não vale para o que você quer comprar.",
+          "Qual código usar na compra de uma geladeira? Depende do valor da sacola. Em 10 de outubro, a geladeira Consul Frost Free de 377 litros custava R$ 2.727,54 e ficava na faixa do 50EMCASACOMCECILIA, de R$ 50 OFF.",
+          "O Magalu tem desconto no Pix? Tem, e ele muda por produto: nos eletrodomésticos vendidos pelo Magalu, ia de 5% a 10% em outubro. O código da Cecília também vale no Pix.",
+          "Dá para comprar no site do Magalu e retirar na loja? Dá, nos produtos que têm a opção Retira loja. Digite o CEP na página do produto para ver as lojas mais próximas e o prazo.",
+          "O Magalu tem frete grátis na Black Friday? Depende do produto e do CEP. Se o produto aparece com frete grátis num banner, confirme com o seu CEP na página do produto ou na sacola antes de fechar a compra.",
+          "Dá para trocar na loja física um produto comprado no site? Só produtos vendidos e entregues pelo Magalu e pequenos, levados à loja com a nota fiscal e um documento com foto. As outras trocas e devoluções são pedidas em \"Meus pedidos\", no site ou no app."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Entre na loja Magazine Você da Cecília pelo navegador, monte a sacola com produtos vendidos e entregues pelo Magalu e aplique o código da faixa que o total alcançar.",
+      "label": "Ir para a loja da Cecília no Magalu",
+      "url": "https://www.magazinevoce.com.br/magazineemcasacomcecilia/",
+      "sponsored": true
+    },
+    "coupon": "10EMCASACOMCECILIA",
+    "affiliate": "magalu",
+    "editorialNote": "Preços conferidos na loja Magazine Você da Cecília. Podemos receber comissão pelas compras.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-magalu-em-casa-com-cecilia",
+        "title": "Como usar o cupom Magalu da Cecília"
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "slug": "black-friday-yesstyle",
+    "locale": "pt",
+    "translationKey": "yesstyle-black-friday",
+    "title": "Black Friday YesStyle 2026: quando começa, como funcionam os cupons e onde entra o código CECILIA010",
+    "seoTitle": "Black Friday YesStyle 2026: datas, cupons e CECILIA010",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quando começa a Black Friday da YesStyle, o calendário de 2024 e 2025 tirado das páginas oficiais, por que o cupom de faixa é o mesmo do ano todo, os dias de 15% sem valor mínimo e como somar o código de recompensa CECILIA010.",
+    "metaDescription": "Black Friday YesStyle 2026: o calendário de 2024 e 2025, as faixas do cupom, os dias de 15% sem valor mínimo e como somar o código de recompensa CECILIA010.",
+    "publishedAt": "11 de outubro de 2026",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+    "imageAlt": "Cecília Mauad sorrindo com as caixas dos produtos da Abib que recebeu da YesStyle, num quadro do vídeo da rotina de skincare coreano",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
+    "pros": [
+      "Calendário oficial de 2024 e 2025, tirado das páginas de regras de cada cupom",
+      "O código de recompensa soma com o cupom da YesStyle, inclusive na Black Friday",
+      "Nos dias de 15% sem valor mínimo, qualquer carrinho ganha o desconto máximo do cupom",
+      "A YesStyle devolve os impostos de alfândega em pedidos abaixo de US$ 1.000, em crédito na loja"
+    ],
+    "cons": [
+      "As datas de 2026 ainda não saíram: por enquanto, o calendário é uma estimativa pelo histórico",
+      "O cupom de faixa da Black Friday é o mesmo do resto do ano",
+      "Os cupons são só para membros, valem um por pedido e não descontam o frete",
+      "Compra internacional: o prazo de entrega é maior que o de uma loja daqui"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A YesStyle ainda não anunciou as datas da Black Friday de 2026. Nos dois últimos anos, o nome \"Black Friday\" apareceu nos cupons logo no começo de novembro (4/11 em 2024 e 3/11 em 2025) e foi até a Cyber Monday, com um cupom novo a cada três ou quatro dias.",
+          "O cupom de faixa da Black Friday é o mesmo do resto do ano: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. O que muda são os poucos dias de **15% sem valor mínimo**, que em 2024 e 2025 começaram no dia ou na véspera da Black Friday e foram até a Cyber Monday.",
+          "O CECILIA010 é o código de recompensa da Cecília: vai no campo Reward Code, dá 5% na primeira compra e 2% nas seguintes, e soma com o cupom da YesStyle também na Black Friday. Quem diz isso são as regras dos próprios cupons."
+        ]
+      },
+      {
+        "heading": "Quando começa a Black Friday da YesStyle",
+        "paragraphs": [
+          "A YesStyle publica as regras de cada cupom na central de ajuda do site, com dia e hora de início e de fim. A tabela abaixo junta as páginas das Black Fridays de 2024 e 2025. A de 2026 ainda não saiu."
+        ],
+        "comparisonTable": {
+          "caption": "Cupons abertos a todos os membros, pelas páginas de ajuda da YesStyle. Datas no horário GMT, que é o que vale para a loja.",
+          "headers": [
+            "Fase",
+            "2024",
+            "2025"
+          ],
+          "rows": [
+            [
+              "Cupom de faixa com o nome Black Friday",
+              "4/11 a 29/11",
+              "3/11 a 27/11"
+            ],
+            [
+              "15% sem valor mínimo (Black Friday)",
+              "29/11 a 2/12",
+              "27/11 a 1/12"
+            ],
+            [
+              "15% sem valor mínimo (Cyber Monday)",
+              "2/12 a 4/12",
+              "1/12 a 3/12"
+            ],
+            [
+              "Cupom de faixa da Cyber Monday",
+              "4/12 a 10/12",
+              "3/12 a 8/12"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Em 2026, a Black Friday cai em 27 de novembro e a Cyber Monday em 30 de novembro. Se a YesStyle repetir o padrão, o nome Black Friday deve aparecer nos cupons no começo de novembro, e os dias de 15% sem valor mínimo devem ficar perto dessas duas datas. É uma estimativa pelo histórico: a loja pode mudar tudo, e este guia é atualizado quando as páginas de 2026 saírem.",
+          "Os cupons trocam num horário fixo em GMT. Em 2025, os cupons de faixa trocaram às 2h GMT, que são 23h do dia anterior em Brasília, e o de 15% sem mínimo começou às 8h GMT, 5h da manhã em Brasília."
+        ]
+      },
+      {
+        "heading": "O cupom da Black Friday é o mesmo do ano todo",
+        "paragraphs": [
+          "O cupom de faixa de outubro de 2025 (Mid-Season Sale) tinha exatamente as mesmas faixas do cupom da Black Friday de novembro. É o desconto que a YesStyle roda quase o ano inteiro, trocando o nome e o código a cada poucos dias."
+        ],
+        "comparisonTable": {
+          "caption": "Faixas do cupom de faixa da YesStyle em 2024 e 2025, iguais fora e dentro da Black Friday. O desconto vale sobre o preço dos produtos.",
+          "headers": [
+            "Valor mínimo do pedido",
+            "Desconto extra"
+          ],
+          "rows": [
+            [
+              "US$ 79",
+              "8%"
+            ],
+            [
+              "US$ 149",
+              "10%"
+            ],
+            [
+              "US$ 199",
+              "15%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os dias sem mínimo têm o mesmo teto de 15%. O que eles fazem é liberar esse percentual para qualquer carrinho."
+        ]
+      },
+      {
+        "heading": "Vale esperar os dias de 15% sem mínimo?",
+        "paragraphs": [
+          "Depende do tamanho do carrinho:"
+        ],
+        "bullets": [
+          "**Carrinho de US$ 199 ou mais:** o cupom de faixa já dá 15% em qualquer dia, o mesmo percentual dos dias sem mínimo. O que pode mudar perto da sexta-feira é o preço promocional de cada produto, não o cupom.",
+          "**Carrinho entre US$ 79 e US$ 199:** o cupom de faixa dá 8% ou 10%. Nos dias sem mínimo, o mesmo carrinho ganha 15%.",
+          "**Carrinho abaixo de US$ 79:** o cupom de faixa não dá nada. É quem mais ganha esperando os dias de 15% sem mínimo."
+        ]
+      },
+      {
+        "heading": "Como somar o CECILIA010 com o cupom da Black Friday",
+        "paragraphs": [
+          "O checkout da YesStyle tem dois campos. O cupom do dia vai em Coupon Code. O CECILIA010 vai em Reward Code. As regras de todos os cupons da Black Friday de 2024 e 2025 dizem que eles valem junto com preços promocionais, com os Rewards Codes e com os YS Points, os pontos da própria loja."
+        ],
+        "bullets": [
+          "Entre na sua conta antes de montar o carrinho: os cupons são só para membros.",
+          "Monte o carrinho e confira se ele passou da faixa que você quer (US$ 79, 149 ou 199).",
+          "Cole o cupom do dia no campo Coupon Code.",
+          "Cole o CECILIA010 no campo Reward Code: 5% na primeira compra e 2% nas seguintes.",
+          "Confira os dois descontos no resumo do pedido antes de pagar."
+        ],
+        "links": [
+          {
+            "label": "Ver o cupom da YesStyle de hoje e o código CECILIA010",
+            "href": "/cupons/yesstyle"
+          },
+          {
+            "label": "Passo a passo do código CECILIA010",
+            "href": "/reviews/codigo-cecilia010-yesstyle-como-usar"
+          }
+        ]
+      },
+      {
+        "heading": "As regras que mais pegam na Black Friday",
+        "bullets": [
+          "**Só para membros:** quem compra como visitante não consegue usar o cupom. Crie a conta antes do dia da promoção.",
+          "**Um cupom por pedido:** não dá para juntar dois cupons da YesStyle no mesmo pedido. O código de recompensa fica fora dessa conta, porque vai em outro campo.",
+          "**Só no preço dos produtos:** o cupom não desconta frete nem outras taxas.",
+          "**Alguns produtos ficam de fora:** a página do produto e o checkout avisam quando o cupom não vale nele.",
+          "**O horário que vale é o da loja:** o que conta é a hora em que o sistema da YesStyle registra o pedido, em GMT. Pedido fechado depois do fim do cupom fica sem o desconto.",
+          "**Pode usar mais de uma vez:** durante a promoção, o mesmo cupom vale em quantos pedidos você fizer."
+        ]
+      },
+      {
+        "heading": "Ofertas que não são para todo mundo",
+        "paragraphs": [
+          "Em 2025, além do cupom aberto a todos os membros, a YesStyle teve duas ofertas restritas. Entre 24 e 30 de novembro, os níveis Bronze, Silver e Gold do Elite Club, o programa de fidelidade da loja, tiveram um produto por dia a US$ 1, em pedidos a partir de US$ 50: um por pedido, enquanto durasse o estoque e sem troca nem devolução. E entre 28/11 e 1/12, um cupom de 18% sem valor mínimo foi para membros selecionados (\"We Miss You\"). A página não explica como esses membros foram escolhidos.",
+          "Se aparecer um cupom desses na sua conta, a regra é a mesma: ele soma com o código de recompensa e com os YS Points."
+        ]
+      },
+      {
+        "heading": "Depois da Black Friday: o Natal",
+        "paragraphs": [
+          "Em 2024, o maior cupom do fim de ano não foi o da Black Friday: entre 22 e 26 de dezembro, a YesStyle deu 18% sem valor mínimo em tudo. Em 2025, os cupons abertos a todos os membros ficaram nos 15% até o fim do ano.",
+          "Para presente de Natal, a compra da Black Friday é a mais segura. Uma compra internacional demora mais que a de uma loja daqui, e o prazo estimado aparece no checkout antes de pagar."
+        ]
+      },
+      {
+        "heading": "Entrega no Brasil e impostos",
+        "paragraphs": [
+          "Os envios da YesStyle ao Brasil ficaram suspensos a partir de julho de 2026, por atrasos na alfândega, e voltaram em setembro. O valor do frete e o prazo aparecem no checkout, e o cupom não desconta o frete.",
+          "Se o pacote for taxado na chegada, a YesStyle devolve os impostos e taxas de alfândega em pedidos abaixo de US$ 1.000, contados antes do cupom e sem o frete. Pague a cobrança, guarde o comprovante e mande para o atendimento da loja em até 30 dias. O reembolso vem como crédito na YesStyle."
+        ]
+      },
+      {
+        "heading": "Uma ideia de carrinho: a rotina da Abib",
+        "paragraphs": [
+          "No vídeo no fim deste artigo, a Cecília testa três produtos da marca coreana Abib que recebeu da YesStyle: o adesivo de hidrogel para os olhos, o creme booster com PDRN e a máscara labial. É uma rotina curta para quem está começando no skincare coreano, e um bom ponto de partida para montar o carrinho da Black Friday."
+        ],
+        "links": [
+          {
+            "label": "Como foi a rotina da Abib, produto por produto",
+            "href": "/reviews/skincare-coreano-30-anos-rotina-iniciante-yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quando começa a Black Friday da YesStyle em 2026? A YesStyle ainda não anunciou. Em 2024 e 2025, os cupons com o nome Black Friday começaram nos primeiros dias de novembro e foram até a Cyber Monday.",
+          "Qual é o cupom da YesStyle na Black Friday? Ele muda a cada três ou quatro dias. A página da YesStyle aqui no site mostra o cupom que está valendo, com a data em que foi conferido.",
+          "O cupom da Black Friday da YesStyle tem valor mínimo? O cupom de faixa tem: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. Nos dias perto da sexta-feira e da Cyber Monday, a YesStyle costuma liberar 15% sem valor mínimo.",
+          "Na YesStyle, é melhor comprar na Black Friday ou na Cyber Monday? Em 2024 e 2025, as duas tiveram 15% sem valor mínimo, então o teto do cupom foi o mesmo. O que muda de um dia para o outro é o preço promocional de cada produto.",
+          "A YesStyle tem promoção fora da Black Friday? Tem. O cupom de faixa, de 8%, 10% e 15%, roda quase o ano inteiro e muda de nome a cada três ou quatro dias.",
+          "O CECILIA010 vale na Black Friday? Vale. Ele vai no campo Reward Code, e as regras dos cupons da Black Friday dizem que eles valem junto com os Rewards Codes.",
+          "Dá para usar dois cupons da YesStyle no mesmo pedido? Não: é um cupom por pedido. O código de recompensa é outra coisa e vai em outro campo do checkout.",
+          "Preciso ter conta na YesStyle para usar o cupom da Black Friday? Precisa. Os cupons são só para membros, e quem compra como visitante fica sem o desconto.",
+          "A YesStyle entrega no Brasil? Entrega. Os envios ficaram suspensos a partir de julho de 2026 e voltaram em setembro. O frete e o prazo aparecem no checkout.",
+          "Vou pagar imposto comprando na YesStyle? Pode haver cobrança na chegada do pacote. Em pedidos abaixo de US$ 1.000, a YesStyle devolve esses impostos em crédito na loja, se você mandar o comprovante em até 30 dias."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Monte o carrinho na YesStyle e cole o CECILIA010 no campo Reward Code",
+      "label": "Ir para a YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Regras das páginas oficiais da YesStyle. Podemos receber comissão pelas compras.",
+    "relatedArticles": [
+      {
+        "slug": "codigo-cecilia010-yesstyle-como-usar",
+        "title": "Como usar o código CECILIA010 na YesStyle"
+      },
+      {
+        "slug": "como-encontrar-cupons-yesstyle-validos",
+        "title": "Como encontrar cupons YesStyle válidos"
+      },
+      {
+        "slug": "yesstyle-e-confiavel",
+        "title": "YesStyle é confiável? O que observar antes de comprar"
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "slug": "yesstyle-black-friday-dates-coupons",
+    "locale": "en",
+    "translationKey": "yesstyle-black-friday",
+    "title": "YesStyle Black Friday 2026: when it starts, how the coupons work and where the CECILIA010 code goes",
+    "seoTitle": "YesStyle Black Friday 2026: dates, coupons and CECILIA010",
+    "type": "Black Friday Guide",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "When YesStyle's Black Friday starts, the 2024 and 2025 calendar from the official pages, why the tiered coupon is the same all year, the 15% days with no minimum and how to stack the CECILIA010 Reward Code.",
+    "metaDescription": "YesStyle Black Friday 2026: the 2024 and 2025 calendar, the tiered coupon, the 15% days with no minimum and how to stack the CECILIA010 Reward Code.",
+    "publishedAt": "October 11, 2026",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+    "imageAlt": "Cecília Mauad smiling with the Abib product boxes she received from YesStyle, in a frame from the Korean skincare routine video",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
+    "pros": [
+      "Official 2024 and 2025 calendar, taken from each coupon's rules page",
+      "The Reward Code stacks with the YesStyle coupon, including on Black Friday",
+      "On the 15% no-minimum days, any cart gets the coupon's maximum discount",
+      "YesStyle refunds customs duties on orders under US$ 1,000, as store credit"
+    ],
+    "cons": [
+      "The 2026 dates are not out yet: for now, the calendar is an estimate based on past years",
+      "The Black Friday tiered coupon is the same as the rest of the year",
+      "Coupons are for members only, one per order, and do not discount shipping",
+      "International purchase: delivery takes longer than from a local store"
+    ],
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "YesStyle has not announced the 2026 Black Friday dates yet. In the last two years, the name \"Black Friday\" showed up on its coupons early in November (Nov 4 in 2024 and Nov 3 in 2025) and ran until Cyber Monday, with a new coupon every three or four days.",
+          "The Black Friday tiered coupon is the same as the rest of the year: 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199. What changes is the handful of days with **15% and no minimum order**, which in 2024 and 2025 began on Black Friday or the day before and ran until Cyber Monday.",
+          "CECILIA010 is Cecília's reward code: it goes in the Reward Code field, gives 5% on the first order and 2% on returning orders, and stacks with the YesStyle coupon during Black Friday too. The coupons' own rules say so."
+        ]
+      },
+      {
+        "heading": "When YesStyle's Black Friday starts",
+        "paragraphs": [
+          "YesStyle publishes the rules of each coupon in its help center, with the start and end day and time. The table below brings together the Black Friday pages from 2024 and 2025. The 2026 page is not out yet."
+        ],
+        "comparisonTable": {
+          "caption": "Coupons open to all members, from YesStyle's help pages. Dates in GMT, the time the store uses.",
+          "headers": [
+            "Phase",
+            "2024",
+            "2025"
+          ],
+          "rows": [
+            [
+              "Tiered coupon named Black Friday",
+              "Nov 4 – Nov 29",
+              "Nov 3 – Nov 27"
+            ],
+            [
+              "15% with no minimum (Black Friday)",
+              "Nov 29 – Dec 2",
+              "Nov 27 – Dec 1"
+            ],
+            [
+              "15% with no minimum (Cyber Monday)",
+              "Dec 2 – Dec 4",
+              "Dec 1 – Dec 3"
+            ],
+            [
+              "Tiered coupon for Cyber Monday",
+              "Dec 4 – Dec 10",
+              "Dec 3 – Dec 8"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "In 2026, Black Friday falls on November 27 and Cyber Monday on November 30. If YesStyle repeats the pattern, the Black Friday name should appear on the coupons early in November, and the 15% days with no minimum should fall close to those two dates. This is an estimate based on past years: the store may change everything, and this guide will be updated when the 2026 pages come out.",
+          "Coupons switch at a fixed time in GMT. In 2025, the tiered coupons switched at 02:00 GMT, and the 15% with no minimum started at 08:00 GMT. Check what those times are in your own time zone."
+        ]
+      },
+      {
+        "heading": "The Black Friday coupon is the same all year",
+        "paragraphs": [
+          "The October 2025 tiered coupon (Mid-Season Sale) had exactly the same tiers as the November Black Friday coupon. It is the discount YesStyle runs almost all year, changing its name and code every few days."
+        ],
+        "comparisonTable": {
+          "caption": "Tiers of YesStyle's tiered coupon in 2024 and 2025, the same inside and outside Black Friday. The discount applies to the price of the products.",
+          "headers": [
+            "Minimum order value",
+            "Extra discount"
+          ],
+          "rows": [
+            [
+              "US$ 79",
+              "8%"
+            ],
+            [
+              "US$ 149",
+              "10%"
+            ],
+            [
+              "US$ 199",
+              "15%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "The days with no minimum have the same 15% cap. What they do is unlock that percentage for any cart."
+        ]
+      },
+      {
+        "heading": "Is it worth waiting for the 15% no-minimum days?",
+        "paragraphs": [
+          "It depends on the size of your cart:"
+        ],
+        "bullets": [
+          "**Cart of US$ 199 or more:** the tiered coupon already gives 15% on any day, the same percentage as the no-minimum days. What may change near Black Friday is the promotional price of each product, not the coupon.",
+          "**Cart between US$ 79 and US$ 199:** the tiered coupon gives 8% or 10%. On the no-minimum days, the same cart gets 15%.",
+          "**Cart below US$ 79:** the tiered coupon gives nothing. This is the cart that gains most by waiting for the 15% no-minimum days."
+        ]
+      },
+      {
+        "heading": "How to stack CECILIA010 with the Black Friday coupon",
+        "paragraphs": [
+          "YesStyle's checkout has two fields. The coupon of the day goes in Coupon Code. CECILIA010 goes in Reward Code. The rules of all the Black Friday coupons from 2024 and 2025 say they are valid together with promotional prices, with Reward Codes and with YS Points, the store's own points."
+        ],
+        "bullets": [
+          "Log in to your account before you build the cart: the coupons are for members only.",
+          "Build your cart and check that it reaches the tier you want (US$ 79, US$ 149 or US$ 199).",
+          "Paste the coupon of the day into the Coupon Code field.",
+          "Paste CECILIA010 into the Reward Code field: 5% on your first order and 2% on returning orders.",
+          "Check both discounts in the order summary before you pay."
+        ],
+        "links": [
+          {
+            "label": "See today's YesStyle coupon and the CECILIA010 Reward Code",
+            "href": "/en/coupons/yesstyle"
+          },
+          {
+            "label": "Step-by-step guide to the CECILIA010 Reward Code",
+            "href": "/en/reviews/yesstyle-reward-code-coupon-cecilia010"
+          }
+        ]
+      },
+      {
+        "heading": "The rules that catch people out most on Black Friday",
+        "bullets": [
+          "**Members only:** guests cannot use the coupon. Create your account before the promotion day.",
+          "**One coupon per order:** you cannot combine two YesStyle coupons in the same order. The Reward Code does not count here, because it goes in a different field.",
+          "**Only on product prices:** the coupon does not discount shipping or other fees.",
+          "**Some products are excluded:** the product page and the checkout warn you when the coupon does not apply to them.",
+          "**The store's time is the one that counts:** what matters is the time YesStyle's system records the order, in GMT. An order completed after the coupon ends gets no discount.",
+          "**You can use it more than once:** during the promotion, the same coupon works on as many orders as you place."
+        ]
+      },
+      {
+        "heading": "Offers not open to everyone",
+        "paragraphs": [
+          "In 2025, besides the coupon open to all members, YesStyle had two restricted offers. Between Nov 24 and Nov 30, the Bronze, Silver and Gold levels of the Elite Club, the store's loyalty program, had one product a day for US$ 1, on orders from US$ 50: one per order, while stock lasted, with no exchanges or returns. And between Nov 28 and Dec 1, an 18% coupon with no minimum went to selected members (\"We Miss You\"). The page does not explain how those members were chosen.",
+          "If a coupon like this shows up in your account, the rule is the same: it stacks with the Reward Code and with YS Points."
+        ]
+      },
+      {
+        "heading": "After Black Friday: Christmas",
+        "paragraphs": [
+          "In 2024, the biggest year-end coupon was not the Black Friday one: between Dec 22 and Dec 26, YesStyle gave 18% with no minimum on everything. In 2025, the coupons open to all members stayed at 15% until the end of the year.",
+          "For a Christmas gift, a Black Friday purchase is the safest. An international order takes longer than one from a local store, and the estimated delivery date appears at checkout before you pay."
+        ]
+      },
+      {
+        "heading": "Shipping and customs",
+        "paragraphs": [
+          "Shipping cost and the delivery estimate depend on the destination country and appear at checkout. The coupon does not discount shipping.",
+          "If the package is charged customs duties on arrival, YesStyle refunds those duties and fees on orders under US$ 1,000, counted before the coupon and without shipping. Pay the charge, keep the receipt and send it to YesStyle customer service within 30 days. The refund comes as YesStyle Credit.",
+          "Some taxes that YesStyle charges at checkout in certain regions are not part of this refund: US sales tax, EU VAT, UK VAT, Australia and New Zealand GST, Canada (Saskatchewan) PST, Switzerland and Norway VAT, the India equalisation levy and Singapore GST."
+        ]
+      },
+      {
+        "heading": "A cart idea: the Abib routine",
+        "paragraphs": [
+          "In the video at the end of this article, which is in Portuguese, Cecília tests three Abib products from the Korean brand that she received from YesStyle: the hydrogel eye patch, the PDRN booster cream and the lip mask. It is a short routine for anyone starting with Korean skincare, and a good starting point for building your Black Friday cart."
+        ],
+        "links": [
+          {
+            "label": "How the Abib routine went, product by product",
+            "href": "/en/reviews/korean-skincare-at-30-beginner-routine-abib-yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "When does YesStyle's Black Friday start in 2026? YesStyle has not announced it yet. In 2024 and 2025, the coupons named Black Friday started in the first days of November and ran until Cyber Monday.",
+          "What is the YesStyle coupon for Black Friday? It changes every three or four days. The YesStyle coupon page on this site shows the coupon that is valid now, with the date it was checked.",
+          "Does the YesStyle Black Friday coupon have a minimum? The tiered coupon does: 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199. Around Black Friday and Cyber Monday, YesStyle usually releases 15% with no minimum.",
+          "Is it better to buy on Black Friday or on Cyber Monday at YesStyle? In 2024 and 2025, both days had 15% with no minimum order, so the coupon's cap was the same. What changes from one day to the next is the promotional price of each product.",
+          "Does YesStyle run promotions outside Black Friday? Yes. The tiered coupon, at 8%, 10% and 15%, runs almost all year and changes its name every three or four days.",
+          "Does CECILIA010 work on Black Friday? Yes. It goes in the Reward Code field, and the rules of the Black Friday coupons say they are valid together with Reward Codes.",
+          "Can I use two YesStyle coupons in the same order? No: it is one coupon per order. The Reward Code is a different thing and goes in another checkout field.",
+          "Do I need a YesStyle account to use the Black Friday coupon? Yes. Coupons are for members only, and guests get no discount.",
+          "Does YesStyle ship to my country? YesStyle ships internationally. The shipping cost and delivery estimate for your country appear at checkout.",
+          "Will I have to pay import taxes when I buy from YesStyle? You may be charged when the package arrives. On orders under US$ 1,000, YesStyle refunds those charges as store credit if you send the receipt within 30 days. Taxes charged at checkout in some regions are not covered by this refund."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Build your cart on YesStyle and paste CECILIA010 into the Reward Code field",
+      "label": "Go to YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Rules from YesStyle's official pages. We may earn a commission on purchases.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-reward-code-coupon-cecilia010",
+        "title": "YesStyle CECILIA010: Reward Code"
+      },
+      {
+        "slug": "how-to-find-valid-yesstyle-coupon-codes",
+        "title": "How to Find Valid YesStyle Coupon Codes"
+      },
+      {
+        "slug": "is-yesstyle-legit-and-safe-review",
+        "title": "Is YesStyle Legit and Safe? What to Know Before Shopping"
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "slug": "black-friday-yesstyle-fechas-cupones",
+    "locale": "es",
+    "translationKey": "yesstyle-black-friday",
+    "title": "Black Friday YesStyle 2026: cuándo empieza, cómo funcionan los cupones y dónde va el código CECILIA010",
+    "seoTitle": "Black Friday YesStyle 2026: fechas, cupones y CECILIA010",
+    "type": "Guía de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Cuándo empieza el Black Friday de YesStyle, el calendario de 2024 y 2025 según las páginas oficiales, por qué el cupón por tramos es el mismo todo el año, los días de 15% sin mínimo de compra y cómo sumar el código de recompensa CECILIA010.",
+    "metaDescription": "Black Friday YesStyle 2026: el calendario de 2024 y 2025, los tramos del cupón, los días de 15% sin mínimo y cómo sumar el código de recompensa CECILIA010.",
+    "publishedAt": "11 de octubre de 2026",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+    "imageAlt": "Cecília Mauad sonriendo con las cajas de productos de Abib que recibió de YesStyle, en un cuadro del video de la rutina de skincare coreano",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
+    "pros": [
+      "Calendario oficial de 2024 y 2025, sacado de las páginas de reglas de cada cupón",
+      "El código de recompensa suma con el cupón de YesStyle, también en el Black Friday",
+      "En los días de 15% sin mínimo de compra, cualquier carrito gana el descuento máximo del cupón",
+      "YesStyle devuelve los impuestos de aduana en pedidos de menos de US$ 1.000, como crédito en la tienda"
+    ],
+    "cons": [
+      "Las fechas de 2026 todavía no han salido: por ahora, el calendario es una estimación según años anteriores",
+      "El cupón por tramos del Black Friday es el mismo que el resto del año",
+      "Los cupones son solo para miembros, valen uno por pedido y no descuentan el envío",
+      "Compra internacional: el plazo de entrega es mayor que el de una tienda local"
+    ],
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "YesStyle todavía no ha anunciado las fechas del Black Friday de 2026. En los dos últimos años, el nombre \"Black Friday\" apareció en los cupones al principio de noviembre (4/11 en 2024 y 3/11 en 2025) y llegó hasta el Cyber Monday, con un cupón nuevo cada tres o cuatro días.",
+          "El cupón por tramos del Black Friday es el mismo que el resto del año: 8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199. Lo que cambia son los pocos días con **15% sin mínimo de compra**, que en 2024 y 2025 empezaron el día del Black Friday o la víspera y llegaron hasta el Cyber Monday.",
+          "CECILIA010 es el código de recompensa de Cecília: va en el campo Código de Recompensa (Reward Code), da un 5% en la 1ª compra y un 2% en las recurrentes, y suma con el cupón de YesStyle también en el Black Friday. Así lo dicen las reglas de los propios cupones."
+        ]
+      },
+      {
+        "heading": "Cuándo empieza el Black Friday de YesStyle",
+        "paragraphs": [
+          "YesStyle publica las reglas de cada cupón en su centro de ayuda, con día y hora de inicio y de fin. La tabla de abajo reúne las páginas del Black Friday de 2024 y 2025. La de 2026 todavía no ha salido."
+        ],
+        "comparisonTable": {
+          "caption": "Cupones abiertos a todos los miembros, según las páginas de ayuda de YesStyle. Fechas en GMT, la hora que usa la tienda.",
+          "headers": [
+            "Fase",
+            "2024",
+            "2025"
+          ],
+          "rows": [
+            [
+              "Cupón por tramos con el nombre Black Friday",
+              "4 nov – 29 nov",
+              "3 nov – 27 nov"
+            ],
+            [
+              "15% sin mínimo de compra (Black Friday)",
+              "29 nov – 2 dic",
+              "27 nov – 1 dic"
+            ],
+            [
+              "15% sin mínimo de compra (Cyber Monday)",
+              "2 dic – 4 dic",
+              "1 dic – 3 dic"
+            ],
+            [
+              "Cupón por tramos del Cyber Monday",
+              "4 dic – 10 dic",
+              "3 dic – 8 dic"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "En 2026, el Black Friday cae el 27 de noviembre y el Cyber Monday el 30 de noviembre. Si YesStyle repite el patrón, el nombre Black Friday debería aparecer en los cupones al principio de noviembre, y los días de 15% sin mínimo deberían caer cerca de esas dos fechas. Es una estimación según años anteriores: la tienda puede cambiarlo todo, y esta guía se actualizará cuando salgan las páginas de 2026.",
+          "Los cupones cambian a una hora fija en GMT. En 2025, los cupones por tramos cambiaron a las 2:00 GMT, y el de 15% sin mínimo empezó a las 8:00 GMT. Revisa a qué hora equivale eso en tu zona horaria."
+        ]
+      },
+      {
+        "heading": "El cupón del Black Friday es el mismo todo el año",
+        "paragraphs": [
+          "El cupón por tramos de octubre de 2025 (Mid-Season Sale) tenía exactamente los mismos tramos que el cupón del Black Friday de noviembre. Es el descuento que YesStyle mantiene casi todo el año, cambiando de nombre y de código cada pocos días."
+        ],
+        "comparisonTable": {
+          "caption": "Tramos del cupón por tramos de YesStyle en 2024 y 2025, iguales dentro y fuera del Black Friday. El descuento se aplica sobre el precio de los productos.",
+          "headers": [
+            "Compra mínima",
+            "Descuento extra"
+          ],
+          "rows": [
+            [
+              "US$ 79",
+              "8%"
+            ],
+            [
+              "US$ 149",
+              "10%"
+            ],
+            [
+              "US$ 199",
+              "15%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Los días sin mínimo tienen el mismo tope del 15%. Lo que hacen es liberar ese porcentaje para cualquier carrito."
+        ]
+      },
+      {
+        "heading": "¿Vale la pena esperar a los días de 15% sin mínimo?",
+        "paragraphs": [
+          "Depende del tamaño del carrito:"
+        ],
+        "bullets": [
+          "**Carrito de US$ 199 o más:** el cupón por tramos ya da 15% cualquier día, el mismo porcentaje que los días sin mínimo. Lo que puede cambiar cerca del Black Friday es el precio promocional de cada producto, no el cupón.",
+          "**Carrito entre US$ 79 y US$ 199:** el cupón por tramos da 8% o 10%. En los días sin mínimo, el mismo carrito gana 15%.",
+          "**Carrito por debajo de US$ 79:** el cupón por tramos no da nada. Es el que más gana esperando los días de 15% sin mínimo."
+        ]
+      },
+      {
+        "heading": "Cómo sumar CECILIA010 con el cupón del Black Friday",
+        "paragraphs": [
+          "El checkout de YesStyle tiene dos campos: Código de Cupón (Coupon Code) y Código de Recompensa (Reward Code). El cupón del día va en Código de Cupón (Coupon Code). CECILIA010 va en Código de Recompensa (Reward Code). Las reglas de todos los cupones del Black Friday de 2024 y 2025 dicen que valen junto con los precios promocionales, con los Códigos de Recompensa y con los YS Points, los puntos de la propia tienda."
+        ],
+        "bullets": [
+          "Inicia sesión antes de armar el carrito: los cupones son solo para miembros.",
+          "Arma el carrito y comprueba que llega al tramo que quieres (US$ 79, US$ 149 o US$ 199).",
+          "Pega el cupón del día en el campo Código de Cupón (Coupon Code).",
+          "Pega CECILIA010 en el campo Código de Recompensa (Reward Code): 5% en la 1ª compra y 2% en las recurrentes.",
+          "Revisa los dos descuentos en el resumen del pedido antes de pagar."
+        ],
+        "links": [
+          {
+            "label": "Ver el cupón de YesStyle de hoy y el código de recompensa CECILIA010",
+            "href": "/es/coupons/yesstyle"
+          },
+          {
+            "label": "Paso a paso del Código de Recompensa CECILIA010",
+            "href": "/es/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010"
+          }
+        ]
+      },
+      {
+        "heading": "Las reglas que más pesan en el Black Friday",
+        "bullets": [
+          "**Solo para miembros:** quien compra como visitante no puede usar el cupón. Crea tu cuenta antes del día de la promoción.",
+          "**Un cupón por pedido:** no se pueden juntar dos cupones de YesStyle en el mismo pedido. El código de recompensa no cuenta en esta regla, porque va en otro campo.",
+          "**Solo sobre el precio de los productos:** el cupón no descuenta el envío ni otros cargos.",
+          "**Algunos productos quedan fuera:** la página del producto y el checkout avisan cuando el cupón no vale para ese producto.",
+          "**La hora que vale es la de la tienda:** lo que cuenta es la hora en que el sistema de YesStyle registra el pedido, en GMT. Un pedido completado después del fin del cupón no recibe el descuento.",
+          "**Se puede usar más de una vez:** durante la promoción, el mismo cupón vale en todos los pedidos que hagas."
+        ]
+      },
+      {
+        "heading": "Ofertas que no son para todo el mundo",
+        "paragraphs": [
+          "En 2025, además del cupón abierto a todos los miembros, YesStyle tuvo dos ofertas restringidas. Entre el 24 y el 30 de noviembre, los niveles Bronze, Silver y Gold del Elite Club, el programa de fidelidad de la tienda, tuvieron cada día un producto por US$ 1, en pedidos desde US$ 50: uno por pedido, mientras durara el stock y sin cambios ni devoluciones. Y entre el 28 de noviembre y el 1 de diciembre, un cupón del 18% sin mínimo fue para miembros seleccionados (\"We Miss You\"). La página no explica cómo se eligió a esos miembros.",
+          "Si aparece un cupón así en tu cuenta, la regla es la misma: se suma con el código de recompensa y con los YS Points."
+        ]
+      },
+      {
+        "heading": "Después del Black Friday: la Navidad",
+        "paragraphs": [
+          "En 2024, el mayor cupón de fin de año no fue el del Black Friday: entre el 22 y el 26 de diciembre, YesStyle dio 18% sin mínimo en todo. En 2025, los cupones abiertos a todos los miembros se quedaron en 15% hasta fin de año.",
+          "Para regalo de Navidad, la compra del Black Friday es la más segura. Una compra internacional tarda más que una en una tienda local, y el plazo estimado aparece en el checkout antes de pagar."
+        ]
+      },
+      {
+        "heading": "Envíos y aduanas",
+        "paragraphs": [
+          "El coste del envío y el plazo de entrega dependen del país de destino y aparecen en el checkout. El cupón no descuenta el envío.",
+          "Si al llegar el paquete se cobran aranceles y tasas de aduana, YesStyle devuelve esos impuestos y tasas en pedidos de menos de US$ 1.000, contados antes del cupón y sin el envío. Paga el cobro, guarda el comprobante y envíalo al servicio de atención de YesStyle en un plazo de 30 días. El reembolso llega como crédito en YesStyle.",
+          "Algunos impuestos que YesStyle cobra en el checkout en ciertas regiones no entran en este reembolso: el impuesto sobre las ventas de EE. UU., el IVA de la UE, el IVA del Reino Unido, el GST de Australia y Nueva Zelanda, el PST de Canadá (Saskatchewan), el IVA de Suiza y Noruega, la equalisation levy de la India y el GST de Singapur."
+        ]
+      },
+      {
+        "heading": "Una idea de carrito: la rutina de Abib",
+        "paragraphs": [
+          "En el video del final de este artículo, que está en portugués, Cecília prueba tres productos de la marca coreana Abib que recibió de YesStyle: el parche de hidrogel para los ojos, la crema booster con PDRN y la mascarilla labial. Es una rutina corta para quien empieza con el skincare coreano, y un buen punto de partida para armar el carrito del Black Friday."
+        ],
+        "links": [
+          {
+            "label": "Cómo fue la rutina de Abib, producto por producto",
+            "href": "/es/reviews/skincare-coreano-a-los-30-rutina-principiante-abib-yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Cuándo empieza el Black Friday de YesStyle en 2026? YesStyle todavía no lo ha anunciado. En 2024 y 2025, los cupones con el nombre Black Friday empezaron en los primeros días de noviembre y llegaron hasta el Cyber Monday.",
+          "¿Cuál es el cupón de YesStyle para el Black Friday? Cambia cada tres o cuatro días. La página de cupones de YesStyle de este sitio muestra el que está vigente, con la fecha en que se revisó.",
+          "¿El cupón del Black Friday de YesStyle tiene mínimo de compra? El cupón por tramos sí: 8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199. Cerca del Black Friday y del Cyber Monday, YesStyle suele liberar 15% sin mínimo.",
+          "¿Conviene más comprar el Black Friday o el Cyber Monday en YesStyle? En 2024 y 2025, los dos días tuvieron 15% sin mínimo de compra, así que el tope del cupón fue el mismo. Lo que cambia de un día a otro es el precio promocional de cada producto.",
+          "¿YesStyle tiene promociones fuera del Black Friday? Sí. El cupón por tramos, de 8%, 10% y 15%, funciona casi todo el año y cambia de nombre cada tres o cuatro días.",
+          "¿CECILIA010 funciona en el Black Friday? Sí. Va en el campo Código de Recompensa (Reward Code), y las reglas de los cupones del Black Friday dicen que valen junto con los códigos de recompensa.",
+          "¿Puedo usar dos cupones de YesStyle en el mismo pedido? No: es un cupón por pedido. El código de recompensa es otra cosa y va en otro campo del checkout.",
+          "¿Necesito cuenta en YesStyle para usar el cupón del Black Friday? Sí. Los cupones son solo para miembros, y quien compra como visitante se queda sin descuento.",
+          "¿YesStyle envía a mi país? YesStyle envía internacionalmente. El coste del envío y el plazo estimado para tu país aparecen en el checkout.",
+          "¿Tendré que pagar impuestos de importación al comprar en YesStyle? Puede haber un cobro cuando llegue el paquete. En pedidos de menos de US$ 1.000, YesStyle devuelve esos cargos como crédito en la tienda si envías el comprobante en un plazo de 30 días. Los impuestos que se cobran en el checkout en algunas regiones no entran en este reembolso."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Arma el carrito en YesStyle y pega CECILIA010 en el campo Código de Recompensa (Reward Code)",
+      "label": "Ir a YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Reglas de las páginas oficiales de YesStyle. Podemos recibir comisión por las compras.",
+    "relatedArticles": [
+      {
+        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
+        "title": "YesStyle CECILIA010: código de recompensa"
+      },
+      {
+        "slug": "como-encontrar-cupones-yesstyle-validos",
+        "title": "Cómo encontrar cupones YesStyle válidos"
+      },
+      {
+        "slug": "es-yesstyle-de-fiar-y-seguro",
+        "title": "¿Es YesStyle de fiar y seguro? Lo que debes saber antes de comprar"
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "slug": "black-friday-yesstyle-dates-et-coupons",
+    "locale": "fr",
+    "translationKey": "yesstyle-black-friday",
+    "title": "Black Friday YesStyle 2026 : quand il commence, comment fonctionnent les coupons et où saisir le code CECILIA010",
+    "seoTitle": "Black Friday YesStyle 2026 : dates, coupons et CECILIA010",
+    "type": "Guide Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quand commence le Black Friday de YesStyle, le calendrier 2024 et 2025 tiré des pages officielles, pourquoi le coupon par palier est le même toute l'année, les journées à 15 % sans minimum et comment cumuler le code récompense CECILIA010.",
+    "metaDescription": "Black Friday YesStyle 2026 : le calendrier 2024 et 2025, les paliers du coupon, les journées à 15 % sans minimum et comment cumuler le code récompense CECILIA010.",
+    "publishedAt": "11 octobre 2026",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+    "imageAlt": "Cecília Mauad souriant avec les boîtes de produits Abib reçues de YesStyle, dans une image de la vidéo sur la routine de skincare coréen",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
+    "pros": [
+      "Calendrier officiel de 2024 et 2025, tiré des pages de règles de chaque coupon",
+      "Le code récompense se cumule avec le coupon YesStyle, y compris pendant le Black Friday",
+      "Pendant les journées à 15 % sans minimum, tout panier obtient la réduction maximale du coupon",
+      "YesStyle rembourse les droits de douane sur les commandes de moins de US$ 1 000, en crédit YesStyle"
+    ],
+    "cons": [
+      "Les dates de 2026 ne sont pas encore publiées : pour l'instant, le calendrier est une estimation d'après les années passées",
+      "Le coupon par palier du Black Friday est le même que le reste de l'année",
+      "Les coupons sont réservés aux membres, un seul par commande, et ne réduisent pas les frais de port",
+      "Achat international : le délai de livraison est plus long que dans une boutique locale"
+    ],
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "YesStyle n'a pas encore annoncé les dates du Black Friday 2026. Ces deux dernières années, le nom « Black Friday » est apparu sur les coupons dès le début de novembre (4/11 en 2024 et 3/11 en 2025), jusqu'au Cyber Monday, avec un nouveau coupon tous les trois ou quatre jours.",
+          "Le coupon par palier du Black Friday est le même que le reste de l'année : 8 % dès US$ 79, 10 % dès US$ 149 et 15 % dès US$ 199. Ce qui change, ce sont les quelques jours à **15 % sans minimum de commande**, qui en 2024 et 2025 ont commencé le jour du Black Friday ou la veille et sont allés jusqu'au Cyber Monday.",
+          "CECILIA010 est le code récompense de Cecília : il se saisit dans le champ \"Reward Code\", offre 5 % sur la première commande et 2 % sur les commandes suivantes, et se cumule aussi avec le coupon YesStyle pendant le Black Friday. Les règles des coupons eux-mêmes le confirment."
+        ]
+      },
+      {
+        "heading": "Quand commence le Black Friday de YesStyle",
+        "paragraphs": [
+          "YesStyle publie les règles de chaque coupon dans son centre d'aide, avec le jour et l'heure de début et de fin. Le tableau ci-dessous rassemble les pages des Black Friday de 2024 et 2025. Celle de 2026 n'est pas encore en ligne."
+        ],
+        "comparisonTable": {
+          "caption": "Coupons ouverts à tous les membres, d'après les pages d'aide de YesStyle. Dates en GMT, l'heure de référence de la boutique.",
+          "headers": [
+            "Phase",
+            "2024",
+            "2025"
+          ],
+          "rows": [
+            [
+              "Coupon par palier nommé Black Friday",
+              "4/11 au 29/11",
+              "3/11 au 27/11"
+            ],
+            [
+              "15 % sans minimum (Black Friday)",
+              "29/11 au 2/12",
+              "27/11 au 1/12"
+            ],
+            [
+              "15 % sans minimum (Cyber Monday)",
+              "2/12 au 4/12",
+              "1/12 au 3/12"
+            ],
+            [
+              "Coupon par palier du Cyber Monday",
+              "4/12 au 10/12",
+              "3/12 au 8/12"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "En 2026, le Black Friday tombe le 27 novembre et le Cyber Monday le 30 novembre. Si YesStyle reprend le même schéma, le nom Black Friday devrait apparaître sur les coupons au début de novembre, et les journées à 15 % sans minimum devraient tomber autour de ces deux dates. C'est une estimation fondée sur les années passées : la boutique peut tout changer, et ce guide sera mis à jour quand les pages de 2026 seront publiées.",
+          "Les coupons changent à une heure fixe en GMT. En 2025, les coupons par palier ont changé à 2 h GMT, et celui à 15 % sans minimum a démarré à 8 h GMT. Vérifiez à quelle heure cela correspond dans votre fuseau horaire."
+        ]
+      },
+      {
+        "heading": "Le coupon du Black Friday est le même toute l'année",
+        "paragraphs": [
+          "Le coupon par palier d'octobre 2025 (Mid-Season Sale) avait exactement les mêmes paliers que le coupon du Black Friday de novembre. C'est la réduction que YesStyle propose presque toute l'année, en changeant de nom et de code tous les quelques jours."
+        ],
+        "comparisonTable": {
+          "caption": "Paliers du coupon par palier de YesStyle en 2024 et 2025, identiques pendant et hors du Black Friday. La réduction s'applique au prix des produits.",
+          "headers": [
+            "Montant minimum de commande",
+            "Remise supplémentaire"
+          ],
+          "rows": [
+            [
+              "US$ 79",
+              "8 %"
+            ],
+            [
+              "US$ 149",
+              "10 %"
+            ],
+            [
+              "US$ 199",
+              "15 %"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Les journées sans minimum ont le même plafond de 15 %. Elles débloquent simplement ce pourcentage pour n'importe quel panier."
+        ]
+      },
+      {
+        "heading": "Vaut-il la peine d'attendre les journées à 15 % sans minimum ?",
+        "paragraphs": [
+          "Cela dépend de la taille de votre panier :"
+        ],
+        "bullets": [
+          "**Panier de US$ 199 ou plus :** le coupon par palier donne déjà 15 % chaque jour, le même pourcentage que les journées sans minimum. Ce qui peut changer autour du Black Friday, c'est le prix promotionnel de chaque produit, pas le coupon.",
+          "**Panier entre US$ 79 et US$ 199 :** le coupon par palier donne 8 % ou 10 %. Pendant les journées sans minimum, ce même panier obtient 15 %.",
+          "**Panier inférieur à US$ 79 :** le coupon par palier ne donne rien. C'est le panier qui gagne le plus à attendre les journées à 15 % sans minimum."
+        ]
+      },
+      {
+        "heading": "Comment cumuler CECILIA010 avec le coupon du Black Friday",
+        "paragraphs": [
+          "La page de paiement de YesStyle comporte deux champs : \"Coupon Code\" et \"Reward Code\". Le coupon du jour va dans \"Coupon Code\". CECILIA010 va dans \"Reward Code\". Les règles de tous les coupons du Black Friday de 2024 et 2025 indiquent qu'ils sont valables avec les prix promotionnels, avec les Reward Codes et avec les YS Points, les points de la boutique elle-même."
+        ],
+        "bullets": [
+          "Connectez-vous à votre compte avant de remplir le panier : les coupons sont réservés aux membres.",
+          "Remplissez le panier et vérifiez qu'il atteint le palier voulu (US$ 79, US$ 149 ou US$ 199).",
+          "Saisissez le coupon du jour dans le champ \"Coupon Code\".",
+          "Saisissez CECILIA010 dans le champ \"Reward Code\" : 5 % sur la première commande et 2 % sur les suivantes.",
+          "Vérifiez les deux réductions dans le récapitulatif de commande avant de payer."
+        ],
+        "links": [
+          {
+            "label": "Voir le coupon YesStyle du jour et le code récompense CECILIA010",
+            "href": "/fr/coupons/yesstyle"
+          },
+          {
+            "label": "Pas à pas du code récompense CECILIA010",
+            "href": "/fr/reviews/code-recompense-yesstyle-cecilia010"
+          }
+        ]
+      },
+      {
+        "heading": "Les règles qui comptent le plus pendant le Black Friday",
+        "bullets": [
+          "**Réservé aux membres :** un visiteur ne peut pas utiliser le coupon. Créez votre compte avant le jour de la promotion.",
+          "**Un coupon par commande :** impossible de cumuler deux coupons YesStyle dans une même commande. Le code récompense n'entre pas dans cette règle, car il se saisit dans un autre champ.",
+          "**Uniquement sur le prix des produits :** le coupon ne réduit ni les frais de port ni les autres frais.",
+          "**Certains produits sont exclus :** la page du produit et le paiement signalent quand le coupon ne s'y applique pas.",
+          "**Seule compte l'heure de la boutique :** ce qui compte, c'est l'heure à laquelle le système de YesStyle enregistre la commande, en GMT. Une commande finalisée après la fin du coupon n'obtient pas la réduction.",
+          "**Utilisable plusieurs fois :** pendant la promotion, le même coupon vaut pour toutes les commandes que vous passez."
+        ]
+      },
+      {
+        "heading": "Offres qui ne concernent pas tout le monde",
+        "paragraphs": [
+          "En 2025, en plus du coupon ouvert à tous les membres, YesStyle a proposé deux offres restreintes. Entre le 24 et le 30 novembre, les niveaux Bronze, Silver et Gold de l'Elite Club, le programme de fidélité de la boutique, ont eu chaque jour un produit à US$ 1, pour des commandes à partir de US$ 50 : un par commande, tant que le stock durait, sans échange ni retour. Puis, entre le 28 novembre et le 1er décembre, un coupon de 18 % sans minimum a été réservé à certains membres sélectionnés (« We Miss You »). La page n'explique pas comment ces membres ont été choisis.",
+          "Si un coupon de ce type apparaît dans votre compte, la règle reste la même : il se cumule avec le code récompense et avec les YS Points."
+        ]
+      },
+      {
+        "heading": "Après le Black Friday : Noël",
+        "paragraphs": [
+          "En 2024, le plus gros coupon de fin d'année n'a pas été celui du Black Friday : du 22 au 26 décembre, YesStyle a offert 18 % sans minimum sur tout. En 2025, les coupons ouverts à tous les membres sont restés à 15 % jusqu'à la fin de l'année.",
+          "Pour un cadeau de Noël, l'achat du Black Friday est le plus sûr. Une commande internationale met plus de temps qu'une commande dans une boutique locale, et le délai estimé apparaît au paiement, avant de valider la commande."
+        ]
+      },
+      {
+        "heading": "Livraison et douane",
+        "paragraphs": [
+          "Le coût de livraison et le délai estimé dépendent du pays de destination et s'affichent au paiement. Le coupon ne réduit pas les frais de port.",
+          "Si le colis est taxé à l'arrivée, YesStyle rembourse ces droits et frais de douane sur les commandes de moins de US$ 1 000, calculés avant le coupon et sans les frais de port. Réglez le montant, gardez le justificatif et envoyez-le au service client de YesStyle dans un délai de 30 jours. Le remboursement se fait sous forme de crédit YesStyle.",
+          "Certaines taxes que YesStyle perçoit au paiement dans certaines régions ne sont pas couvertes par ce remboursement : la sales tax américaine, la TVA de l'UE, la TVA du Royaume-Uni, la GST de l'Australie et de la Nouvelle-Zélande, la PST du Canada (Saskatchewan), la TVA de la Suisse et de la Norvège, l'equalisation levy indienne et la GST de Singapour."
+        ]
+      },
+      {
+        "heading": "Une idée de panier : la routine Abib",
+        "paragraphs": [
+          "Dans la vidéo à la fin de cet article, en portugais, Cecília teste trois produits de la marque coréenne Abib qu'elle a reçus de YesStyle : le patch hydrogel pour les yeux, la crème booster au PDRN et le masque pour les lèvres. C'est une routine courte pour qui débute dans le skincare coréen, et un bon point de départ pour composer le panier du Black Friday."
+        ],
+        "links": [
+          {
+            "label": "La routine Abib, produit par produit",
+            "href": "/fr/reviews/skincare-coreen-a-30-ans-routine-debutante-abib-yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Quand commence le Black Friday de YesStyle en 2026 ? YesStyle ne l'a pas encore annoncé. En 2024 et 2025, les coupons au nom de Black Friday ont commencé dans les premiers jours de novembre et ont duré jusqu'au Cyber Monday.",
+          "Quel est le coupon YesStyle du Black Friday ? Il change tous les trois ou quatre jours. La page des coupons YesStyle de ce site affiche celui qui est valable, avec la date de vérification.",
+          "Le coupon du Black Friday de YesStyle a-t-il un minimum ? Le coupon par palier, oui : 8 % dès US$ 79, 10 % dès US$ 149 et 15 % dès US$ 199. Autour du Black Friday et du Cyber Monday, YesStyle libère en général 15 % sans minimum.",
+          "Vaut-il mieux acheter pendant le Black Friday ou le Cyber Monday sur YesStyle ? En 2024 et 2025, les deux journées ont eu 15 % sans minimum de commande, donc le plafond du coupon était le même. Ce qui change d'un jour à l'autre, c'est le prix promotionnel de chaque produit.",
+          "YesStyle fait-il des promotions en dehors du Black Friday ? Oui. Le coupon par palier, à 8 %, 10 % et 15 %, tourne presque toute l'année et change de nom tous les trois ou quatre jours.",
+          "CECILIA010 fonctionne-t-il pendant le Black Friday ? Oui. Il se saisit dans le champ \"Reward Code\", et les règles des coupons du Black Friday indiquent qu'ils sont valables avec les Reward Codes.",
+          "Peut-on utiliser deux coupons YesStyle dans une même commande ? Non : c'est un coupon par commande. Le code récompense est autre chose et se saisit dans un autre champ du paiement.",
+          "Faut-il un compte YesStyle pour utiliser le coupon du Black Friday ? Oui. Les coupons sont réservés aux membres, et un visiteur n'obtient pas la réduction.",
+          "YesStyle livre-t-il dans mon pays ? YesStyle livre à l'international. Le coût de livraison et le délai estimé pour votre pays apparaissent au paiement.",
+          "Vais-je devoir payer des taxes d'importation en achetant sur YesStyle ? Des frais peuvent être perçus à l'arrivée du colis. Pour les commandes de moins de US$ 1 000, YesStyle rembourse ces frais sous forme de crédit YesStyle si vous envoyez le justificatif dans les 30 jours. Les taxes perçues au paiement dans certaines régions ne sont pas couvertes par ce remboursement."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Composez votre panier sur YesStyle et saisissez CECILIA010 dans le champ \"Reward Code\"",
+      "label": "Aller sur YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Règles tirées des pages officielles de YesStyle. Commission possible sur les achats.",
+    "relatedArticles": [
+      {
+        "slug": "code-recompense-yesstyle-cecilia010",
+        "title": "YesStyle CECILIA010 : code récompense"
+      },
+      {
+        "slug": "comment-trouver-des-codes-promo-yesstyle-valides",
+        "title": "Comment trouver des codes promo YesStyle valides"
+      },
+      {
+        "slug": "yesstyle-est-il-fiable-et-sur",
+        "title": "YesStyle est-il fiable et sûr ? Ce qu'il faut savoir avant d'acheter"
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "slug": "yesstyle-black-friday-termine-gutscheine",
+    "locale": "de",
+    "translationKey": "yesstyle-black-friday",
+    "title": "YesStyle Black Friday 2026: Termine, Gutscheine und wo der Reward Code CECILIA010 eingegeben wird",
+    "seoTitle": "YesStyle Black Friday 2026: Termine, Gutscheine, CECILIA010",
+    "type": "Black-Friday-Ratgeber",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Wann der Black Friday bei YesStyle beginnt, welche Termine die offiziellen Seiten für 2024 und 2025 nennen, warum der Staffelgutschein das ganze Jahr gleich ist, die Tage mit 15% ohne Mindestbestellwert und wie Sie den Reward Code CECILIA010 kombinieren.",
+    "metaDescription": "YesStyle Black Friday 2026: Termine von 2024 und 2025, Staffelgutscheine, Tage mit 15% ohne Mindestbestellwert und der Reward Code CECILIA010 im Checkout.",
+    "publishedAt": "11. Oktober 2026",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+    "imageAlt": "Cecília Mauad lächelt neben den Abib-Produktkartons von YesStyle, in einer Szene aus dem Video zur koreanischen Hautpflege-Routine",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
+    "pros": [
+      "Offizieller Kalender für 2024 und 2025, aus den Regelseiten jedes Gutscheins übernommen",
+      "Der Reward Code lässt sich mit dem YesStyle-Gutschein kombinieren, auch beim Black Friday",
+      "An den Tagen mit 15% ohne Mindestbestellwert bekommt jeder Warenkorb den höchsten Rabatt des Gutscheins",
+      "YesStyle erstattet Zollgebühren bei Bestellungen unter US$ 1.000 als YesStyle-Guthaben"
+    ],
+    "cons": [
+      "Die Termine für 2026 sind noch nicht veröffentlicht: Vorerst ist der Kalender eine Schätzung nach dem bisherigen Verlauf",
+      "Der Staffelgutschein des Black Friday ist derselbe wie im restlichen Jahr",
+      "Die Gutscheine gelten nur für Mitglieder, nur einer pro Bestellung und ohne Rabatt auf den Versand",
+      "Internationaler Einkauf: Die Lieferzeit ist länger als bei einem Geschäft im eigenen Land"
+    ],
+    "contentSections": [
+      {
+        "heading": "Kurz gesagt",
+        "paragraphs": [
+          "YesStyle hat die Termine des Black Friday 2026 noch nicht bekannt gegeben. In den letzten zwei Jahren tauchte der Name „Black Friday“ schon Anfang November in den Gutscheinen auf (am 4.11.2024 und am 3.11.2025). Die Aktion lief bis zum Cyber Monday, mit einem neuen Gutschein alle drei oder vier Tage.",
+          "Der Staffelgutschein des Black Friday ist derselbe wie im restlichen Jahr: 8% ab US$ 79, 10% ab US$ 149 und 15% ab US$ 199. Was sich ändert, sind die wenigen Tage mit **15% ohne Mindestbestellwert**, die 2024 und 2025 am Tag des Black Friday oder am Vortag begannen und bis zum Cyber Monday liefen.",
+          "CECILIA010 ist der Reward Code von Cecília. Er kommt in das Feld Reward Code, bringt 5% bei der Erstbestellung und 2% bei den folgenden und lässt sich beim Black Friday auch mit dem YesStyle-Gutschein kombinieren. Das sagen die Regeln der Gutscheine selbst."
+        ]
+      },
+      {
+        "heading": "Wann der Black Friday bei YesStyle beginnt",
+        "paragraphs": [
+          "YesStyle veröffentlicht die Regeln jedes Gutscheins in der Hilfe-Zentrale der Website, mit Tag und Uhrzeit von Beginn und Ende. Die Tabelle unten fasst die Seiten des Black Friday 2024 und 2025 zusammen. Die Seite für 2026 ist noch nicht erschienen."
+        ],
+        "comparisonTable": {
+          "caption": "Gutscheine für alle Mitglieder laut den Hilfeseiten von YesStyle. Die Angaben sind in GMT, weil das die Zeit ist, die für den Shop gilt.",
+          "headers": [
+            "Phase",
+            "2024",
+            "2025"
+          ],
+          "rows": [
+            [
+              "Staffelgutschein mit dem Namen Black Friday",
+              "4.11. bis 29.11.",
+              "3.11. bis 27.11."
+            ],
+            [
+              "15% ohne Mindestbestellwert (Black Friday)",
+              "29.11. bis 2.12.",
+              "27.11. bis 1.12."
+            ],
+            [
+              "15% ohne Mindestbestellwert (Cyber Monday)",
+              "2.12. bis 4.12.",
+              "1.12. bis 3.12."
+            ],
+            [
+              "Staffelgutschein des Cyber Monday",
+              "4.12. bis 10.12.",
+              "3.12. bis 8.12."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "2026 fällt der Black Friday auf den 27. November und der Cyber Monday auf den 30. November. Wenn YesStyle dasselbe Muster wiederholt, sollte der Name Black Friday Anfang November in den Gutscheinen auftauchen, und die Tage mit 15% ohne Mindestbestellwert sollten nahe an diesen beiden Terminen liegen. Das ist eine Schätzung nach dem bisherigen Verlauf. Der Shop kann alles ändern, deshalb wird dieser Ratgeber aktualisiert, sobald die Seiten für 2026 erscheinen.",
+          "Die Gutscheine wechseln zu einer festen Uhrzeit in GMT. 2025 wechselten die Staffelgutscheine um 2 Uhr GMT, und der Gutschein mit 15% ohne Mindestbestellwert begann um 8 Uhr GMT. Prüfen Sie die Uhrzeit in Ihrer Zeitzone."
+        ]
+      },
+      {
+        "heading": "Der Black-Friday-Gutschein ist das ganze Jahr derselbe",
+        "paragraphs": [
+          "Der Staffelgutschein vom Oktober 2025 (Mid-Season Sale) hatte genau die gleichen Stufen wie der Black-Friday-Gutschein im November. Es ist der Rabatt, den YesStyle fast das ganze Jahr laufen lässt und dabei alle paar Tage Namen und Code wechselt."
+        ],
+        "comparisonTable": {
+          "caption": "Stufen des Staffelgutscheins von YesStyle in 2024 und 2025, außerhalb und innerhalb des Black Friday gleich. Der Rabatt gilt für den Preis der Produkte.",
+          "headers": [
+            "Mindestbestellwert",
+            "Zusatzrabatt"
+          ],
+          "rows": [
+            [
+              "US$ 79",
+              "8%"
+            ],
+            [
+              "US$ 149",
+              "10%"
+            ],
+            [
+              "US$ 199",
+              "15%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Die Tage ohne Mindestbestellwert haben dieselbe Obergrenze von 15%. An diesen Tagen gilt dieser Prozentsatz für jeden Warenkorb."
+        ]
+      },
+      {
+        "heading": "Lohnt es sich, auf die Tage mit 15% ohne Mindestbestellwert zu warten?",
+        "paragraphs": [
+          "Das hängt von der Größe des Warenkorbs ab:"
+        ],
+        "bullets": [
+          "**Warenkorb ab US$ 199:** Der Staffelgutschein gibt schon an jedem Tag 15%, also den gleichen Prozentsatz wie an den Tagen ohne Mindestbestellwert. Was sich kurz vor dem Freitag ändern kann, ist der Aktionspreis der einzelnen Produkte, nicht der Gutschein.",
+          "**Warenkorb zwischen US$ 79 und US$ 199:** Der Staffelgutschein gibt 8% oder 10%. An den Tagen ohne Mindestbestellwert bekommt derselbe Warenkorb 15%.",
+          "**Warenkorb unter US$ 79:** Der Staffelgutschein gibt hier nichts. Wer auf die Tage mit 15% ohne Mindestbestellwert wartet, gewinnt am meisten."
+        ]
+      },
+      {
+        "heading": "So kombinieren Sie CECILIA010 mit dem Black-Friday-Gutschein",
+        "paragraphs": [
+          "Der Checkout von YesStyle hat zwei Felder. Der Gutschein des Tages kommt in Coupon Code, der CECILIA010 in Reward Code. Die Regeln aller Black-Friday-Gutscheine von 2024 und 2025 besagen, dass sie zusammen mit Aktionspreisen, mit den Reward Codes und mit den YS Points gelten, den eigenen Punkten des Shops."
+        ],
+        "bullets": [
+          "Melden Sie sich an, bevor Sie den Warenkorb füllen: Die Gutscheine gelten nur für Mitglieder.",
+          "Füllen Sie den Warenkorb und prüfen Sie, ob er die gewünschte Schwelle überschreitet (US$ 79, 149 oder 199).",
+          "Geben Sie den Gutschein des Tages im Feld Coupon Code ein.",
+          "Geben Sie den CECILIA010 im Feld Reward Code ein: 5% bei der Erstbestellung und 2% bei den folgenden.",
+          "Prüfen Sie beide Rabatte in der Bestellübersicht, bevor Sie bezahlen."
+        ],
+        "links": [
+          {
+            "label": "Den YesStyle-Gutschein von heute und den Reward Code CECILIA010 ansehen",
+            "href": "/de/coupons/yesstyle"
+          },
+          {
+            "label": "Schritt für Schritt zum Code CECILIA010",
+            "href": "/de/reviews/yesstyle-reward-code-rabatt-cecilia010"
+          }
+        ]
+      },
+      {
+        "heading": "Die Regeln, über die man beim Black Friday am ehesten stolpert",
+        "bullets": [
+          "**Nur für Mitglieder:** Wer als Gast einkauft, kann den Gutschein nicht nutzen. Legen Sie das Konto vor dem Aktionstag an.",
+          "**Ein Gutschein pro Bestellung:** Zwei Gutscheine von YesStyle lassen sich nicht in derselben Bestellung kombinieren. Der Reward Code wird dabei nicht mitgezählt, weil er in ein anderes Feld kommt.",
+          "**Nur auf den Produktpreis:** Der Gutschein senkt weder die Versandkosten noch andere Gebühren.",
+          "**Manche Produkte sind ausgenommen:** Die Produktseite und der Checkout zeigen an, wenn der Gutschein für ein Produkt nicht gilt.",
+          "**Maßgeblich ist die Uhrzeit des Shops:** Entscheidend ist der Zeitpunkt, zu dem das System von YesStyle die Bestellung in GMT registriert. Eine Bestellung, die nach Ende des Gutscheins abgeschlossen wird, bekommt den Rabatt nicht.",
+          "**Mehrfach nutzbar:** Während der Aktion gilt derselbe Gutschein für so viele Bestellungen, wie Sie aufgeben."
+        ]
+      },
+      {
+        "heading": "Angebote, die nicht für alle gedacht sind",
+        "paragraphs": [
+          "2025 gab es neben dem Gutschein für alle Mitglieder zwei eingeschränkte Angebote. Vom 24. bis 30. November gab es für die Stufen Bronze, Silver und Gold des Elite Club, dem Treueprogramm des Shops, ein Produkt pro Tag für US$ 1, bei Bestellungen ab US$ 50: ein Produkt pro Bestellung, solange der Vorrat reicht, ohne Umtausch und ohne Rückgabe. Vom 28. November bis 1. Dezember gab es für ausgewählte Mitglieder einen Gutschein über 18% ohne Mindestbestellwert („We Miss You“). Die Seite erklärt nicht, wie diese Mitglieder ausgewählt wurden.",
+          "Wenn so ein Gutschein in Ihrem Konto auftaucht, gilt dieselbe Regel: Er lässt sich mit dem Reward Code und mit den YS Points kombinieren."
+        ]
+      },
+      {
+        "heading": "Nach dem Black Friday: Weihnachten",
+        "paragraphs": [
+          "2024 war der größte Gutschein zum Jahresende nicht der vom Black Friday: Vom 22. bis 26. Dezember gab YesStyle auf alles 18% ohne Mindestbestellwert. 2025 blieben die Gutscheine für alle Mitglieder bis zum Jahresende bei 15%.",
+          "Für ein Weihnachtsgeschenk ist der Einkauf beim Black Friday der sicherste. Eine internationale Bestellung dauert länger als ein Einkauf in einem Geschäft im eigenen Land, und die geschätzte Lieferzeit steht im Checkout, bevor Sie bezahlen."
+        ]
+      },
+      {
+        "heading": "Versand und Zoll",
+        "paragraphs": [
+          "YesStyle liefert international. Die Versandkosten und die geschätzte Lieferzeit hängen vom Zielland ab und stehen im Checkout. Der Gutschein senkt die Versandkosten nicht.",
+          "Wenn beim Eingang des Pakets Zollgebühren und Einfuhrabgaben anfallen, erstattet YesStyle sie bei Bestellungen unter US$ 1.000 als YesStyle-Guthaben. Die Summe wird vor dem Gutschein und ohne Versandkosten berechnet. Zahlen Sie die Abgabe, bewahren Sie den Beleg auf und schicken Sie ihn innerhalb von 30 Tagen an den Kundenservice von YesStyle. Steuern, die YesStyle in einigen Regionen schon im Checkout erhebt, sind von dieser Erstattung nicht erfasst: US-Sales-Tax, EU- und britische Mehrwertsteuer (VAT), GST in Australien und Neuseeland, PST in Kanada (Saskatchewan), Mehrwertsteuer in der Schweiz und in Norwegen, die Equalisation Levy in Indien und die GST in Singapur."
+        ]
+      },
+      {
+        "heading": "Eine Idee für den Warenkorb: die Abib-Routine",
+        "paragraphs": [
+          "Im Video am Ende dieses Artikels, das auf Portugiesisch ist, testet Cecília drei Produkte der koreanischen Marke Abib, die sie von YesStyle bekommen hat: das Hydrogel-Pad für die Augen, die Booster-Creme mit PDRN und die Lippenmaske. Es ist eine kurze Routine für den Einstieg in die koreanische Hautpflege und ein guter Ausgangspunkt für Ihren Black-Friday-Warenkorb."
+        ],
+        "links": [
+          {
+            "label": "Wie die Abib-Routine war, Produkt für Produkt",
+            "href": "/de/reviews/koreanische-hautpflege-mit-30-anfaenger-routine-abib-yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Wann beginnt der Black Friday bei YesStyle 2026? YesStyle hat das noch nicht angekündigt. 2024 und 2025 begannen die Gutscheine mit dem Namen Black Friday in den ersten Novembertagen und liefen bis zum Cyber Monday.",
+          "Welcher Gutschein von YesStyle gilt beim Black Friday? Er wechselt alle drei oder vier Tage. Die Seite zu YesStyle auf dieser Website zeigt den Gutschein, der gerade gilt, mit dem Datum der letzten Prüfung.",
+          "Hat der Black-Friday-Gutschein von YesStyle einen Mindestbestellwert? Der Staffelgutschein hat einen: 8% ab US$ 79, 10% ab US$ 149 und 15% ab US$ 199. An den Tagen rund um den Freitag und den Cyber Monday gibt YesStyle meist 15% ohne Mindestbestellwert frei.",
+          "Ist es bei YesStyle besser, beim Black Friday oder am Cyber Monday zu kaufen? 2024 und 2025 gab es an beiden Terminen 15% ohne Mindestbestellwert, die Obergrenze des Gutscheins war also dieselbe. Was sich von einem Tag zum anderen ändert, ist der Aktionspreis jedes Produkts.",
+          "Gibt es bei YesStyle Aktionen außerhalb des Black Friday? Ja. Der Staffelgutschein mit 8%, 10% und 15% läuft fast das ganze Jahr und wechselt alle drei oder vier Tage den Namen.",
+          "Gilt CECILIA010 beim Black Friday? Ja. Er kommt in das Feld Reward Code, und die Regeln der Black-Friday-Gutscheine besagen, dass sie zusammen mit den Reward Codes gelten.",
+          "Kann ich zwei Gutscheine von YesStyle in derselben Bestellung nutzen? Nein: Es gilt ein Gutschein pro Bestellung. Der Reward Code ist etwas anderes und kommt in ein eigenes Feld im Checkout.",
+          "Brauche ich ein YesStyle-Konto für den Black-Friday-Gutschein? Ja. Die Gutscheine sind nur für Mitglieder, und wer als Gast einkauft, bekommt den Rabatt nicht.",
+          "Liefert YesStyle in mein Land? Ja, YesStyle liefert international. Versandkosten und geschätzte Lieferzeit für Ihr Land stehen im Checkout.",
+          "Muss ich bei einer Bestellung bei YesStyle Zoll und Steuern zahlen? Bei der Ankunft des Pakets kann eine Abgabe anfallen. Bei Bestellungen unter US$ 1.000 erstattet YesStyle sie als YesStyle-Guthaben, wenn Sie den Beleg innerhalb von 30 Tagen schicken. Steuern, die YesStyle in einigen Regionen schon im Checkout erhebt, sind davon nicht erfasst."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Stellen Sie den Warenkorb bei YesStyle zusammen und geben Sie CECILIA010 im Feld Reward Code ein.",
+      "label": "Zu YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Regeln aus den offiziellen YesStyle-Seiten. Wir können für Käufe eine Provision erhalten.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-reward-code-rabatt-cecilia010",
+        "title": "YesStyle CECILIA010: Reward Code nutzen"
+      },
+      {
+        "slug": "gueltige-yesstyle-gutscheincodes-finden",
+        "title": "Gültige YesStyle-Gutscheincodes finden"
+      },
+      {
+        "slug": "ist-yesstyle-serioes-und-sicher",
+        "title": "Ist YesStyle seriös und sicher? Was Sie vor dem Kauf wissen müssen"
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "slug": "black-friday-yesstyle-date-e-coupon",
+    "locale": "it",
+    "translationKey": "yesstyle-black-friday",
+    "title": "Black Friday YesStyle 2026: quando inizia, come funzionano i coupon e dove inserire il codice CECILIA010",
+    "seoTitle": "Black Friday YesStyle 2026: date, coupon e codice CECILIA010",
+    "type": "Guida al Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quando inizia il Black Friday di YesStyle, il calendario 2024 e 2025 dalle pagine ufficiali, perché il coupon a scaglioni è sempre lo stesso, i giorni con il 15% senza minimo e come sommare il codice ricompensa CECILIA010.",
+    "metaDescription": "Black Friday YesStyle 2026: il calendario 2024 e 2025, gli scaglioni del coupon, i giorni con il 15% senza minimo e come sommare il codice ricompensa CECILIA010.",
+    "publishedAt": "11 ottobre 2026",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+    "imageAlt": "Cecília Mauad sorride con le scatole dei prodotti Abib ricevuti da YesStyle, in un frame del video sulla routine di skincare coreana",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
+    "pros": [
+      "Calendario ufficiale del 2024 e del 2025, tratto dalle pagine delle regole di ogni coupon",
+      "Il codice ricompensa si somma al coupon YesStyle, anche durante il Black Friday",
+      "Nei giorni con il 15% senza minimo, qualsiasi carrello ottiene il massimo del coupon",
+      "YesStyle rimborsa dazi e spese doganali sugli ordini sotto US$ 1.000, come credito nel negozio"
+    ],
+    "cons": [
+      "Le date del 2026 non sono ancora uscite: per ora il calendario è una stima basata sullo storico",
+      "Il coupon a scaglioni del Black Friday è lo stesso del resto dell'anno",
+      "I coupon sono solo per i membri, valgono uno per ordine e non scontano la spedizione",
+      "Acquisto internazionale: i tempi di consegna sono più lunghi di quelli di un negozio del tuo paese"
+    ],
+    "contentSections": [
+      {
+        "heading": "In breve",
+        "paragraphs": [
+          "YesStyle non ha ancora annunciato le date del Black Friday 2026. Negli ultimi due anni il nome “Black Friday” è comparso nei coupon all'inizio di novembre (il 4/11 nel 2024 e il 3/11 nel 2025) ed è durato fino alla Cyber Monday, con un nuovo coupon ogni tre o quattro giorni.",
+          "Il coupon a scaglioni del Black Friday è lo stesso del resto dell'anno: 8% da US$ 79, 10% da US$ 149 e 15% da US$ 199. Cambiano solo i pochi giorni con il **15% senza minimo**, che nel 2024 e nel 2025 sono iniziati il giorno del Black Friday o la vigilia e sono durati fino alla Cyber Monday.",
+          "CECILIA010 è il codice ricompensa di Cecília: va nel campo Reward Code, dà il 5% sul primo ordine e il 2% su quelli successivi, e si somma al coupon YesStyle anche durante il Black Friday. Lo dicono le regole dei coupon stessi."
+        ]
+      },
+      {
+        "heading": "Quando inizia il Black Friday di YesStyle",
+        "paragraphs": [
+          "YesStyle pubblica le regole di ogni coupon nel centro assistenza del sito, con giorno e ora di inizio e di fine. La tabella qui sotto riunisce le pagine dei Black Friday 2024 e 2025. Quella del 2026 non è ancora uscita."
+        ],
+        "comparisonTable": {
+          "caption": "Coupon aperti a tutti i membri, dalle pagine di aiuto di YesStyle. Date in GMT, che è il fuso orario che vale per il negozio.",
+          "headers": [
+            "Fase",
+            "2024",
+            "2025"
+          ],
+          "rows": [
+            [
+              "Coupon a scaglioni con il nome Black Friday",
+              "4/11 al 29/11",
+              "3/11 al 27/11"
+            ],
+            [
+              "15% senza minimo (Black Friday)",
+              "29/11 al 2/12",
+              "27/11 al 1/12"
+            ],
+            [
+              "15% senza minimo (Cyber Monday)",
+              "2/12 al 4/12",
+              "1/12 al 3/12"
+            ],
+            [
+              "Coupon a scaglioni della Cyber Monday",
+              "4/12 al 10/12",
+              "3/12 al 8/12"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nel 2026 il Black Friday cade il 27 novembre e la Cyber Monday il 30 novembre. Se YesStyle ripete lo schema, il nome Black Friday dovrebbe comparire nei coupon all'inizio di novembre, e i giorni con il 15% senza minimo dovrebbero cadere vicino a queste due date. È una stima basata sullo storico: il negozio può cambiare tutto, e questa guida verrà aggiornata quando usciranno le pagine del 2026.",
+          "I coupon cambiano a un orario fisso in GMT. Nel 2025 i coupon a scaglioni sono cambiati alle 2:00 GMT, e quello del 15% senza minimo è partito alle 8:00 GMT. Controlla l'ora nel tuo fuso orario."
+        ]
+      },
+      {
+        "heading": "Il coupon del Black Friday è lo stesso tutto l'anno",
+        "paragraphs": [
+          "Il coupon a scaglioni di ottobre 2025 (Mid-Season Sale) aveva esattamente gli stessi scaglioni del coupon del Black Friday di novembre. È lo sconto che YesStyle tiene attivo quasi tutto l'anno, cambiando nome e codice ogni pochi giorni."
+        ],
+        "comparisonTable": {
+          "caption": "Scaglioni del coupon a scaglioni di YesStyle nel 2024 e nel 2025, uguali dentro e fuori dal Black Friday. Lo sconto vale sul prezzo dei prodotti.",
+          "headers": [
+            "Importo minimo dell'ordine",
+            "Sconto extra"
+          ],
+          "rows": [
+            [
+              "US$ 79",
+              "8%"
+            ],
+            [
+              "US$ 149",
+              "10%"
+            ],
+            [
+              "US$ 199",
+              "15%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "I giorni senza minimo hanno lo stesso tetto del 15%. Quello che fanno è rendere disponibile questa percentuale per qualsiasi carrello."
+        ]
+      },
+      {
+        "heading": "Conviene aspettare i giorni con il 15% senza minimo?",
+        "paragraphs": [
+          "Dipende dalla dimensione del carrello:"
+        ],
+        "bullets": [
+          "**Carrello da US$ 199 in su:** il coupon a scaglioni dà già il 15% in qualsiasi giorno, la stessa percentuale dei giorni senza minimo. Verso il venerdì può cambiare il prezzo promozionale di ogni prodotto, non il coupon.",
+          "**Carrello tra US$ 79 e US$ 199:** il coupon a scaglioni dà l'8% o il 10%. Nei giorni senza minimo lo stesso carrello ottiene il 15%.",
+          "**Carrello sotto US$ 79:** il coupon a scaglioni non dà nulla. Chi aspetta i giorni con il 15% senza minimo è quello che guadagna di più."
+        ]
+      },
+      {
+        "heading": "Come sommare CECILIA010 con il coupon del Black Friday",
+        "paragraphs": [
+          "Il checkout di YesStyle ha due campi. Il coupon del giorno va in Coupon Code. CECILIA010 va in Reward Code. Le regole di tutti i coupon del Black Friday 2024 e 2025 dicono che valgono insieme ai prezzi promozionali, ai Reward Code e agli YS Points, i punti del negozio."
+        ],
+        "bullets": [
+          "Accedi al tuo account prima di preparare il carrello: i coupon sono riservati ai membri.",
+          "Prepara il carrello e controlla che superi la soglia che ti interessa (US$ 79, 149 o 199).",
+          "Inserisci il coupon del giorno nel campo Coupon Code.",
+          "Inserisci CECILIA010 nel campo Reward Code: 5% sul primo ordine e 2% sui successivi.",
+          "Controlla i due sconti nel riepilogo dell'ordine prima di pagare."
+        ],
+        "links": [
+          {
+            "label": "Vedi il coupon YesStyle di oggi e il codice ricompensa CECILIA010",
+            "href": "/it/coupons/yesstyle"
+          },
+          {
+            "label": "Guida passo passo al codice CECILIA010",
+            "href": "/it/reviews/codice-ricompensa-yesstyle-cecilia010"
+          }
+        ]
+      },
+      {
+        "heading": "Le regole che contano di più al Black Friday",
+        "bullets": [
+          "**Solo per i membri:** chi compra da ospite non può usare il coupon. Crea l'account prima del giorno della promozione.",
+          "**Un coupon per ordine:** non si possono sommare due coupon YesStyle nello stesso ordine. Il codice ricompensa non rientra nel conteggio, perché va in un altro campo.",
+          "**Solo sul prezzo dei prodotti:** il coupon non sconta la spedizione né le altre tasse.",
+          "**Alcuni prodotti restano esclusi:** la pagina del prodotto e il checkout avvisano quando il coupon non vale per un articolo.",
+          "**Vale l'orario del negozio:** conta l'ora in cui il sistema di YesStyle registra l'ordine, in GMT. Un ordine chiuso dopo la fine del coupon non ottiene lo sconto.",
+          "**Si può usare più volte:** durante la promozione lo stesso coupon vale per tutti gli ordini che fai."
+        ]
+      },
+      {
+        "heading": "Offerte non per tutti",
+        "paragraphs": [
+          "Nel 2025, oltre al coupon aperto a tutti i membri, YesStyle ha avuto due offerte riservate. Tra il 24 e il 30 novembre i livelli Bronze, Silver e Gold dell'Elite Club, il programma fedeltà del negozio, hanno avuto un prodotto al giorno a US$ 1, su ordini da US$ 50: uno per ordine, finché durano le scorte e senza cambi né resi. E dal 28 novembre al 1° dicembre un coupon del 18% senza minimo è stato riservato a membri selezionati (“We Miss You”). La pagina non spiega come sono stati scelti questi membri.",
+          "Se un coupon di questo tipo compare nel tuo account, la regola è la stessa: si somma al codice ricompensa e agli YS Points."
+        ]
+      },
+      {
+        "heading": "Dopo il Black Friday: il Natale",
+        "paragraphs": [
+          "Nel 2024 il coupon più grande di fine anno non è stato quello del Black Friday: tra il 22 e il 26 dicembre YesStyle ha dato il 18% senza minimo su tutto. Nel 2025 i coupon aperti a tutti i membri sono rimasti al 15% fino a fine anno.",
+          "Per un regalo di Natale, l'acquisto del Black Friday è il più sicuro. Un acquisto internazionale richiede più tempo di uno in un negozio del tuo paese, e la data stimata di consegna compare al checkout prima di pagare."
+        ]
+      },
+      {
+        "heading": "Spedizione e dogana",
+        "paragraphs": [
+          "YesStyle spedisce a livello internazionale. Il costo di spedizione e la data stimata di consegna dipendono dal paese di destinazione e compaiono al checkout. Il coupon non sconta la spedizione.",
+          "Se alla consegna del pacco vengono addebitati dazi doganali e spese, YesStyle li rimborsa come credito nel negozio sugli ordini sotto US$ 1.000 (calcolati prima del coupon e senza spedizione): paghi l'addebito, conservi la ricevuta e la mandi al servizio clienti di YesStyle entro 30 giorni. Le tasse che YesStyle applica al checkout in alcune regioni non rientrano in questo rimborso: imposta sulle vendite USA, IVA dell'UE e del Regno Unito, GST di Australia e Nuova Zelanda, PST del Canada (Saskatchewan), IVA di Svizzera e Norvegia, equalisation levy dell'India e GST di Singapore."
+        ]
+      },
+      {
+        "heading": "Un'idea di carrello: la routine Abib",
+        "paragraphs": [
+          "Nel video in fondo a questo articolo, che è in portoghese, Cecília prova tre prodotti del marchio coreano Abib che ha ricevuto da YesStyle: il patch idrogel per gli occhi, la crema booster con PDRN e la maschera per le labbra. È una routine breve per chi si avvicina alla skincare coreana e un buon punto di partenza per costruire il carrello del Black Friday."
+        ],
+        "links": [
+          {
+            "label": "Com'è andata la routine Abib, prodotto per prodotto",
+            "href": "/it/reviews/skincare-coreana-a-30-anni-routine-principiante-abib-yesstyle"
+          }
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Quando inizia il Black Friday di YesStyle nel 2026? YesStyle non ha ancora annunciato le date. Nel 2024 e nel 2025 i coupon con il nome Black Friday sono partiti nei primi giorni di novembre e sono durati fino alla Cyber Monday.",
+          "Qual è il coupon YesStyle del Black Friday? Cambia ogni tre o quattro giorni. La pagina di YesStyle su questo sito mostra il coupon valido, con la data in cui è stato controllato.",
+          "Il coupon del Black Friday di YesStyle ha un minimo d'ordine? Il coupon a scaglioni sì: 8% da US$ 79, 10% da US$ 149 e 15% da US$ 199. Nei giorni vicini al venerdì e alla Cyber Monday, YesStyle di solito sblocca il 15% senza minimo.",
+          "Su YesStyle conviene comprare nel Black Friday o nella Cyber Monday? Nel 2024 e nel 2025 entrambe hanno avuto il 15% senza minimo, quindi il tetto del coupon è stato lo stesso. Da un giorno all'altro cambia il prezzo promozionale di ogni prodotto.",
+          "YesStyle ha promozioni fuori dal Black Friday? Sì. Il coupon a scaglioni, con 8%, 10% e 15%, resta attivo quasi tutto l'anno e cambia nome ogni tre o quattro giorni.",
+          "CECILIA010 vale durante il Black Friday? Sì. Va nel campo Reward Code, e le regole dei coupon del Black Friday dicono che valgono insieme ai Reward Code.",
+          "Si possono usare due coupon YesStyle nello stesso ordine? No: vale un coupon per ordine. Il codice ricompensa è un'altra cosa e va in un altro campo del checkout.",
+          "Serve un account YesStyle per usare il coupon del Black Friday? Sì. I coupon sono riservati ai membri, e chi compra da ospite resta senza sconto.",
+          "YesStyle spedisce nel mio paese? Sì, YesStyle spedisce a livello internazionale. Il costo di spedizione e i tempi stimati per il tuo paese compaiono al checkout.",
+          "Devo pagare imposte acquistando su YesStyle? Alla consegna del pacco può esserci un addebito. Sugli ordini sotto US$ 1.000, YesStyle lo rimborsa come credito nel negozio, se mandi la ricevuta entro 30 giorni. Le tasse applicate al checkout in alcune regioni non sono coperte dal rimborso."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Prepara il carrello su YesStyle e inserisci CECILIA010 nel campo Reward Code",
+      "label": "Vai su YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "Regole dalle pagine ufficiali di YesStyle. Possiamo ricevere una commissione sugli acquisti.",
+    "relatedArticles": [
+      {
+        "slug": "codice-ricompensa-yesstyle-cecilia010",
+        "title": "Codice ricompensa YesStyle CECILIA010: come usarlo al checkout"
+      },
+      {
+        "slug": "come-trovare-codici-sconto-yesstyle-validi",
+        "title": "Come trovare codici sconto YesStyle validi"
+      },
+      {
+        "slug": "yesstyle-e-affidabile-e-sicuro",
+        "title": "YesStyle è affidabile e sicuro? Cosa sapere prima di comprare"
+      }
+    ]
+  },
+  {
+    "id": 343,
+    "slug": "yesstyle-black-friday-ko",
+    "locale": "ko",
+    "translationKey": "yesstyle-black-friday",
+    "title": "YesStyle 블랙프라이데이(Black Friday) 2026: 시작 날짜, 쿠폰 작동 방식, CECILIA010 입력 위치",
+    "seoTitle": "YesStyle 블랙프라이데이 2026: 날짜, 할인 조건, CECILIA010",
+    "type": "블랙프라이데이 가이드",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "YesStyle 블랙프라이데이 시작일, 공식 페이지의 2024년·2025년 일정, 구간별 쿠폰이 연중 같은 이유, 최소 금액 없이 15%가 적용되는 날, 그리고 리워드 코드 CECILIA010을 함께 쓰는 방법을 정리했습니다.",
+    "metaDescription": "YesStyle 블랙프라이데이 2026 일정을 2024년과 2025년 공식 페이지 기준으로 정리했습니다. 구간별 쿠폰 혜택, 최소 금액 없이 15%가 적용되는 날, 리워드 코드 CECILIA010을 함께 쓰는 방법까지 담았습니다.",
+    "publishedAt": "2026년 10월 11일",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+    "imageAlt": "Cecília Mauad가 YesStyle에서 받은 Abib 제품 상자와 함께 웃고 있는 모습, 한국 스킨케어 루틴 영상의 한 장면",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
+    "pros": [
+      "2024년과 2025년 공식 일정, 각 쿠폰의 규정 페이지에서 정리한 내용",
+      "리워드 코드는 블랙프라이데이에도 YesStyle 쿠폰과 합산됩니다",
+      "최소 금액 없는 15% 기간에는 어떤 장바구니든 쿠폰의 최대 할인율인 15%를 받습니다",
+      "US$ 1,000 미만 주문의 관세는 YesStyle 크레딧으로 환급됩니다"
+    ],
+    "cons": [
+      "2026년 일정은 아직 발표되지 않았으며, 지금의 달력은 과거 흐름에 따른 추정입니다",
+      "블랙프라이데이 구간 쿠폰은 연중 쿠폰과 같습니다",
+      "쿠폰은 회원 전용이고, 주문당 하나만 쓸 수 있으며, 배송비는 할인하지 않습니다",
+      "해외 주문은 국내 매장보다 배송 기간이 깁니다"
+    ],
+    "contentSections": [
+      {
+        "heading": "핵심 요약",
+        "paragraphs": [
+          "YesStyle은 아직 2026년 블랙프라이데이 일정을 발표하지 않았습니다. 최근 2년 동안 쿠폰에 ‘블랙프라이데이’ 이름이 나타난 것은 11월 초였고(2024년 11월 4일, 2025년 11월 3일), 사이버 먼데이까지 3~4일마다 새 쿠폰이 나왔습니다.",
+          "블랙프라이데이 구간 쿠폰은 연중 쿠폰과 같습니다: US$ 79 이상 8%, US$ 149 이상 10%, US$ 199 이상 15%. 달라지는 것은 며칠뿐이며, 그 며칠 동안에는 **최소 주문 금액 없이 15%**가 적용됩니다. 2024년과 2025년에는 블랙프라이데이 당일이나 전날에 시작해 사이버 먼데이까지 이어졌습니다.",
+          "CECILIA010은 Cecília의 리워드 코드입니다. Reward Code 칸에 넣으면 첫 구매 5%, 재구매 2%가 적용되고, 블랙프라이데이에도 YesStyle 쿠폰과 합산됩니다. 이 내용은 쿠폰 규정 자체가 그렇게 말하고 있습니다."
+        ]
+      },
+      {
+        "heading": "블랙프라이데이는 언제 시작하나요",
+        "paragraphs": [
+          "YesStyle은 쿠폰마다 규정을 시작과 종료 날짜·시간과 함께 고객센터에 게시합니다. 아래 표는 2024년과 2025년 블랙프라이데이 페이지를 한데 모은 것입니다. 2026년 페이지는 아직 나오지 않았습니다."
+        ],
+        "comparisonTable": {
+          "caption": "YesStyle 도움말 페이지에 나온 모든 회원 대상 쿠폰입니다. 날짜는 GMT 기준으로, 스토어에 적용되는 시간입니다.",
+          "headers": [
+            "단계",
+            "2024년",
+            "2025년"
+          ],
+          "rows": [
+            [
+              "블랙프라이데이 이름의 구간 쿠폰",
+              "11월 4일~11월 29일",
+              "11월 3일~11월 27일"
+            ],
+            [
+              "최소 주문 금액 없는 15% (블랙프라이데이)",
+              "11월 29일~12월 2일",
+              "11월 27일~12월 1일"
+            ],
+            [
+              "최소 주문 금액 없는 15% (사이버 먼데이)",
+              "12월 2일~12월 4일",
+              "12월 1일~12월 3일"
+            ],
+            [
+              "사이버 먼데이 구간 쿠폰",
+              "12월 4일~12월 10일",
+              "12월 3일~12월 8일"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "2026년 블랙프라이데이는 11월 27일, 사이버 먼데이는 11월 30일입니다. YesStyle이 같은 패턴을 따른다면 ‘블랙프라이데이’ 이름의 쿠폰은 11월 초에 나타나고, 최소 주문 금액 없는 15% 기간은 이 두 날짜 근처에 올 가능성이 큽니다. 과거 흐름을 바탕으로 한 추정일 뿐이며, 스토어가 모든 것을 바꿀 수 있습니다. 2026년 페이지가 나오면 이 가이드도 업데이트하겠습니다.",
+          "쿠폰은 GMT 기준 고정된 시각에 바뀝니다. 2025년에는 구간 쿠폰이 GMT 2시에 바뀌었고, 최소 금액 없는 15% 쿠폰은 GMT 8시에 시작했습니다. 본인 시간대에서 시각을 확인하세요."
+        ]
+      },
+      {
+        "heading": "블랙프라이데이 쿠폰은 연중 같습니다",
+        "paragraphs": [
+          "2025년 10월 구간 쿠폰(Mid-Season Sale)은 11월 블랙프라이데이 쿠폰과 구간이 똑같았습니다. YesStyle이 거의 연중 운영하는 할인이며, 며칠마다 이름과 코드만 바꿉니다."
+        ],
+        "comparisonTable": {
+          "caption": "2024년과 2025년 YesStyle 구간 쿠폰의 기준입니다. 블랙프라이데이 기간 안팎에서 같습니다. 할인은 상품 가격에 적용됩니다.",
+          "headers": [
+            "최소 주문 금액",
+            "추가 할인"
+          ],
+          "rows": [
+            [
+              "US$ 79",
+              "8%"
+            ],
+            [
+              "US$ 149",
+              "10%"
+            ],
+            [
+              "US$ 199",
+              "15%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "최소 금액 없는 날에도 상한은 같은 15%입니다. 그 기간에는 어떤 장바구니에도 이 비율이 적용됩니다."
+        ]
+      },
+      {
+        "heading": "최소 금액 없는 15%를 기다릴 가치가 있을까요?",
+        "paragraphs": [
+          "장바구니 금액에 따라 다릅니다:"
+        ],
+        "bullets": [
+          "**US$ 199 이상 장바구니:** 구간 쿠폰이 어느 날이든 이미 15%를 줍니다. 최소 금액 없는 날과 같은 비율입니다. 금요일 무렵 바뀔 수 있는 것은 쿠폰이 아니라 상품별 행사 가격입니다.",
+          "**US$ 79~199 장바구니:** 구간 쿠폰은 8% 또는 10%를 줍니다. 최소 금액 없는 날에는 같은 장바구니가 15%를 받습니다.",
+          "**US$ 79 미만 장바구니:** 구간 쿠폰으로는 아무것도 받지 못합니다. 최소 금액 없는 15%를 기다리는 쪽이 가장 많이 얻습니다."
+        ]
+      },
+      {
+        "heading": "블랙프라이데이 할인에 CECILIA010 더하는 법",
+        "paragraphs": [
+          "YesStyle 결제 화면에는 입력 칸이 두 개 있습니다. 그날의 쿠폰은 Coupon Code 칸에, CECILIA010은 Reward Code 칸에 넣습니다. 2024년과 2025년 블랙프라이데이 쿠폰 규정은 모두 가격 프로모션, Reward Code, 그리고 스토어 자체 포인트인 YS Points와 함께 적용된다고 되어 있습니다."
+        ],
+        "bullets": [
+          "블랙프라이데이 쿠폰을 받으려면 장바구니를 채우기 전에 로그인하세요. 쿠폰은 회원 전용입니다.",
+          "장바구니를 채운 뒤 원하는 기준(US$ 79, 149, 199)을 넘었는지 확인하세요.",
+          "그날의 쿠폰을 Coupon Code 칸에 입력하세요.",
+          "CECILIA010을 Reward Code 칸에 입력하세요: 첫 구매 5%, 재구매 2%.",
+          "결제 전에 주문 요약에서 두 할인을 확인하세요."
+        ],
+        "links": [
+          {
+            "label": "YesStyle 스토어에서 오늘의 할인과 리워드 코드 CECILIA010 보기",
+            "href": "/ko/coupons/yesstyle"
+          },
+          {
+            "label": "단계별로 보는 CECILIA010 사용법",
+            "href": "/ko/reviews/yesstyle-reward-code-cecilia010-ko"
+          }
+        ]
+      },
+      {
+        "heading": "블랙프라이데이에 가장 많이 걸리는 규칙",
+        "bullets": [
+          "**회원 전용:** 비회원으로 구매하면 쿠폰을 쓸 수 없습니다. 프로모션 날짜 전에 계정을 만드세요.",
+          "**주문당 쿠폰 1개:** 같은 주문에 YesStyle 쿠폰 두 개를 합칠 수 없습니다. 리워드 코드는 다른 칸에 들어가므로 이 계산에서 빠집니다.",
+          "**상품 가격에만 적용:** 쿠폰은 배송비나 다른 수수료를 깎아주지 않습니다.",
+          "**일부 상품 제외:** 상품 페이지와 결제 화면에서 쿠폰이 적용되지 않는 상품이 있으면 알려줍니다.",
+          "**스토어 기준 시각:** YesStyle 시스템이 주문을 기록한 시각(GMT)이 기준입니다. 쿠폰이 끝난 뒤에 기록된 주문은 할인을 받지 못합니다.",
+          "**여러 번 사용 가능:** 프로모션 기간에는 같은 쿠폰을 주문 횟수와 관계없이 쓸 수 있습니다."
+        ]
+      },
+      {
+        "heading": "모든 사람에게 열린 혜택은 아닙니다",
+        "paragraphs": [
+          "2025년에는 모든 회원에게 열린 쿠폰 말고도 제한된 혜택이 두 개 있었습니다. 11월 24일부터 30일까지는 스토어의 충성도 프로그램인 Elite Club의 Bronze, Silver, Gold 등급에 하루 한 상품을 US$ 1에 제공했습니다. 이때 주문은 US$ 50 이상이어야 했고, 주문당 한 개, 재고가 있을 때까지, 교환과 반품은 불가였습니다. 그리고 11월 28일부터 12월 1일까지는 선정된 회원에게 최소 주문 금액 없는 18% 쿠폰이 제공되었습니다(“We Miss You”). 페이지에는 이 회원을 어떻게 골랐는지 설명이 없습니다.",
+          "이런 쿠폰이 계정에 보인다면 규칙은 같습니다. 리워드 코드, YS Points와 함께 합산됩니다."
+        ]
+      },
+      {
+        "heading": "블랙프라이데이 다음은 크리스마스",
+        "paragraphs": [
+          "2024년 연말에 가장 큰 쿠폰은 블랙프라이데이가 아니었습니다. 12월 22일부터 26일까지 YesStyle은 전 상품에 최소 금액 없이 18%를 줬습니다. 2025년에는 모든 회원 대상 쿠폰이 연말까지 15%로 유지되었습니다.",
+          "크리스마스 선물이라면 블랙프라이데이 구매가 가장 안전합니다. 해외 주문은 국내 매장에서 사는 것보다 시간이 더 걸리며, 예상 배송일은 결제 화면에 나오니 결제 전에 확인하세요."
+        ]
+      },
+      {
+        "heading": "배송과 관세",
+        "paragraphs": [
+          "YesStyle은 해외 배송을 합니다. 배송비와 예상 배송 기간은 목적지 국가에 따라 달라지며 결제 화면에 나옵니다. 쿠폰은 배송비를 할인하지 않습니다.",
+          "배송 도착 시 관세와 수수료가 부과되면, YesStyle은 US$ 1,000 미만 주문에 한해 이를 YesStyle 크레딧으로 환급합니다. 금액은 쿠폰 적용 전이며 배송비를 뺀 기준으로 계산합니다. 부과된 금액을 내고, 영수증을 보관한 뒤, 30일 안에 YesStyle 고객센터에 보내세요. 일부 지역에서 결제 시 YesStyle이 직접 부과하는 세금은 이 환급 대상이 아닙니다: 미국 판매세(US sales tax), EU와 영국의 부가가치세(VAT), 호주와 뉴질랜드의 GST, 캐나다 서스캐처원주 PST, 스위스와 노르웨이의 VAT, 인도 Equalisation Levy, 싱가포르 GST입니다."
+        ]
+      },
+      {
+        "heading": "장바구니 아이디어: Abib 루틴",
+        "paragraphs": [
+          "이 글 끝에 있는 포르투갈어 영상에서 Cecília는 YesStyle에서 받은 한국 브랜드 Abib의 제품 세 가지를 테스트합니다: 눈가 하이드로겔 패치, PDRN 부스터 크림, 립 마스크입니다. 한국 스킨케어를 처음 시작하는 사람을 위한 짧은 루틴이고, 블랙프라이데이 장바구니를 꾸리기 좋은 출발점입니다."
+        ],
+        "links": [
+          {
+            "label": "제품별로 본 Abib 루틴",
+            "href": "/ko/reviews/abib-skincare-routine-30-ko"
+          }
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "2026년 YesStyle 블랙프라이데이는 언제 시작하나요? YesStyle이 아직 발표하지 않았습니다. 2024년과 2025년에는 블랙프라이데이 이름의 쿠폰이 11월 초에 시작해 사이버 먼데이까지 이어졌습니다.",
+          "YesStyle 블랙프라이데이 쿠폰은 무엇인가요? 3~4일마다 바뀝니다. 이 사이트의 YesStyle 페이지가 지금 유효한 쿠폰을 확인한 날짜와 함께 보여줍니다.",
+          "YesStyle 블랙프라이데이 쿠폰에도 최소 주문 금액이 있나요? 구간 쿠폰에는 있습니다: US$ 79 이상 8%, US$ 149 이상 10%, US$ 199 이상 15%. 금요일과 사이버 먼데이 무렵에는 YesStyle이 보통 최소 금액 없는 15%를 풀어 줍니다.",
+          "YesStyle에서는 블랙프라이데이와 사이버 먼데이 중 언제 사는 게 더 좋나요? 2024년과 2025년에는 두 기간 모두 최소 주문 금액 없는 15%였으므로 쿠폰 상한이 같았습니다. 날마다 달라지는 것은 상품별 프로모션 가격입니다.",
+          "YesStyle에는 블랙프라이데이 말고도 프로모션이 있나요? 있습니다. 8%, 10%, 15%의 구간 쿠폰이 거의 연중 돌아가며, 3~4일마다 이름이 바뀝니다.",
+          "CECILIA010은 블랙프라이데이에도 되나요? 됩니다. Reward Code 칸에 입력하며, 블랙프라이데이 쿠폰 규정에 따르면 리워드 코드와 함께 적용됩니다.",
+          "한 주문에 YesStyle 쿠폰을 두 개 쓸 수 있나요? 아니요, 주문당 쿠폰은 하나입니다. 리워드 코드는 별개이며 결제 화면의 다른 칸에 입력합니다.",
+          "블랙프라이데이 쿠폰을 쓰려면 YesStyle 계정이 있어야 하나요? 네. 쿠폰은 회원 전용이라 비회원으로 구매하면 할인을 받지 못합니다.",
+          "YesStyle은 내가 사는 나라로도 배송하나요? 네, YesStyle은 해외 배송을 합니다. 내 나라의 배송비와 예상 배송 기간은 결제 화면에 나옵니다.",
+          "YesStyle에서 쇼핑하면 관세와 세금을 내야 하나요? 배송품이 도착할 때 부과금이 생길 수 있습니다. US$ 1,000 미만 주문이라면 30일 안에 영수증을 보내 YesStyle 크레딧으로 환급받을 수 있습니다. 일부 지역에서 결제 시 부과되는 세금은 이 환급에 포함되지 않습니다."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "YesStyle에서 장바구니를 채우고 결제 화면의 Reward Code 칸에 CECILIA010을 입력하세요.",
+      "label": "YesStyle로 이동",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "YesStyle 공식 페이지의 규정을 기준으로 합니다. 구매하면 수수료를 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-reward-code-cecilia010-ko",
+        "title": "YesStyle 리워드 코드 CECILIA010 사용법"
+      },
+      {
+        "slug": "yesstyle-valid-coupon-guide-ko",
+        "title": "유효한 YesStyle 쿠폰 코드 찾는 법"
+      },
+      {
+        "slug": "yesstyle-trust-guide-ko",
+        "title": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보"
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "slug": "yesstyle-black-friday-ja",
+    "locale": "ja",
+    "translationKey": "yesstyle-black-friday",
+    "title": "Black Friday YesStyle 2026（ブラックフライデー）：いつ始まる？クーポンの仕組みとCECILIA010の入れ方",
+    "seoTitle": "YesStyleブラックフライデー 2026：日程・クーポン・CECILIA010",
+    "type": "ブラックフライデーガイド",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "YesStyleのブラックフライデーはいつ始まるのか。公式ページから確認した2024年と2025年の日程、金額別クーポンが年中同じ理由、最低額なしの15%の日、そしてCECILIA010リワードコードの併用方法をまとめました。",
+    "metaDescription": "Black Friday YesStyle 2026の日程を、2024年と2025年の公式ページから整理しました。金額別クーポンの段階、最低額なしの15%の日、CECILIA010の併用方法もわかります。",
+    "publishedAt": "2026年10月11日",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+    "imageAlt": "YesStyleから届いたAbibの製品の箱を手に笑うセシリア。韓国スキンケアのルーティン動画の一場面",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
+    "pros": [
+      "2024年と2025年の公式の日程。各クーポンのルールのページから確認",
+      "リワードコードはYesStyleのクーポンと併用でき、ブラックフライデーでも同じです",
+      "最低額なしの15%の日は、どのカートでもクーポンの最大割引が受けられます",
+      "US$1,000未満の注文なら、関税がYesStyle Creditとして返金されます"
+    ],
+    "cons": [
+      "2026年の日程はまだ公開されていません。今のところ、このカレンダーは過去のパターンからの推測です",
+      "ブラックフライデーの金額別クーポンは、年中ふだんのものと同じです",
+      "クーポンは会員限定で、1注文につき1つ、送料は割引されません",
+      "海外からの注文は、国内のストアより配送に時間がかかります"
+    ],
+    "contentSections": [
+      {
+        "heading": "まずは結論",
+        "paragraphs": [
+          "YesStyleはまだ2026年のブラックフライデーの日程を発表していません。過去2年は、11月の初め（2024年は11月4日、2025年は11月3日）に「Black Friday」の名前のクーポンが現れ、サイバーマンデーまで続きました。3〜4日ごとに新しいクーポンが出ていました。",
+          "ブラックフライデーの金額別クーポンは、年中ふだんのものと同じです。US$79から8%、US$149から10%、US$199から15%。変わるのは、**最低額なしの15%**が出る数日だけです。2024年と2025年は、ブラックフライデーの当日か前日に始まり、サイバーマンデーまで続きました。",
+          "CECILIA010はセシリアのリワードコードです。Reward Code欄に入力すると、初回購入は5%、リピーターは2%割引になります。ブラックフライデーでも、YesStyleのクーポンと併用できます。これはクーポン自体のルールに書かれています。"
+        ]
+      },
+      {
+        "heading": "YesStyleのブラックフライデーはいつ始まる？",
+        "paragraphs": [
+          "YesStyleは各クーポンのルールを、開始と終了の日時つきでヘルプセンターに掲載しています。下の表は、2024年と2025年のブラックフライデーのページをまとめたものです。2026年のページはまだ公開されていません。"
+        ],
+        "comparisonTable": {
+          "caption": "全会員向けのクーポン（YesStyleのヘルプページより）。日付はすべてGMTで、ストアではこの時刻が適用されます。",
+          "headers": [
+            "段階",
+            "2024年",
+            "2025年"
+          ],
+          "rows": [
+            [
+              "「Black Friday」の名前がついた金額別クーポン",
+              "11月4日〜11月29日",
+              "11月3日〜11月27日"
+            ],
+            [
+              "最低額なしの15%（Black Friday）",
+              "11月29日〜12月2日",
+              "11月27日〜12月1日"
+            ],
+            [
+              "最低額なしの15%（サイバーマンデー）",
+              "12月2日〜12月4日",
+              "12月1日〜12月3日"
+            ],
+            [
+              "サイバーマンデーの金額別クーポン",
+              "12月4日〜12月10日",
+              "12月3日〜12月8日"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "2026年は、ブラックフライデーが11月27日、サイバーマンデーが11月30日です。YesStyleが同じパターンを繰り返せば、11月の初めに「Black Friday」の名前のクーポンが現れ、最低額なしの15%の日はこの2日の近くに来るはずです。これは過去のパターンからの推測です。ストアがすべて変えることもあるので、2026年のページが出たらこのガイドを更新します。",
+          "クーポンは、GMTの決まった時刻に切り替わります。2025年は、金額別クーポンがGMT 2時に切り替わり、最低額なしの15%はGMT 8時に始まりました。お住まいの地域の時刻は、ご自身でご確認ください。"
+        ]
+      },
+      {
+        "heading": "ブラックフライデーのクーポンは年中同じ",
+        "paragraphs": [
+          "2025年10月の「Mid-Season Sale」のクーポンは、11月のブラックフライデーのクーポンと、まったく同じ段階でした。YesStyleがほぼ一年中続けている割引で、名前とコードを数日ごとに変えているだけです。"
+        ],
+        "comparisonTable": {
+          "caption": "2024年と2025年のYesStyleの金額別クーポンの段階。ブラックフライデーの期間の内外で同じです。割引は商品価格に対して適用されます。",
+          "headers": [
+            "注文の最低額",
+            "追加割引"
+          ],
+          "rows": [
+            [
+              "US$79",
+              "8%"
+            ],
+            [
+              "US$149",
+              "10%"
+            ],
+            [
+              "US$199",
+              "15%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "最低額なしの日も、上限は同じ15%です。その日は、この割引がどのカートにも適用されるようになります。"
+        ]
+      },
+      {
+        "heading": "最低額なしの15%の日を待つ価値はある？",
+        "paragraphs": [
+          "カートの金額によって変わります："
+        ],
+        "bullets": [
+          "**US$199以上のカート：** 金額別クーポンで、どの日も15%になります。最低額なしの日と同じ割合です。金曜日の前後で変わるのは、クーポンではなく商品ごとのセール価格です。",
+          "**US$79〜US$199のカート：** 金額別クーポンは8%か10%です。最低額なしの日には、同じカートが15%になります。",
+          "**US$79未満のカート：** 金額別クーポンでは割引がありません。最低額なしの15%の日を待つのが、いちばん得をします。"
+        ]
+      },
+      {
+        "heading": "CECILIA010とブラックフライデーのクーポンを併用する方法",
+        "paragraphs": [
+          "YesStyleのチェックアウトには入力欄が2つあります。CECILIA010はReward Code欄に、その日のクーポンはCoupon Code欄に入力します。2024年と2025年のブラックフライデーのクーポンのルールは、どれもセール価格の商品、リワードコード、YS Points（YesStyleのポイント）と併用できると書いています。"
+        ],
+        "bullets": [
+          "ログインしてからカートを作ってください。クーポンは会員限定です。",
+          "カートを作り、狙っている金額の段階（US$79、US$149、US$199）を超えているか確認します。",
+          "その日のクーポンをCoupon Code欄に入力します。",
+          "CECILIA010をReward Code欄に入力します。初回購入は5%、リピーターは2%です。",
+          "支払う前に、注文の概要で2つの割引が適用されているか確認してください。"
+        ],
+        "links": [
+          {
+            "label": "今日のYesStyleのクーポンとリワードコードCECILIA010を確認する",
+            "href": "/ja/coupons/yesstyle"
+          },
+          {
+            "label": "CECILIA010の使い方を手順で見る",
+            "href": "/ja/reviews/yesstyle-reward-code-cecilia010-ja"
+          }
+        ]
+      },
+      {
+        "heading": "ブラックフライデーで気をつけたいルール",
+        "bullets": [
+          "**会員限定：** ゲストで購入すると、クーポンは使えません。セールの日より前にアカウントを作ってください。",
+          "**1注文につきクーポンは1つ：** 同じ注文で、YesStyleのクーポンを2つ使うことはできません。リワードコードは別の計算で、別の欄に入力します。",
+          "**商品価格にだけ適用：** クーポンは送料やその他の料金からは割引されません。",
+          "**一部の商品は対象外：** 商品ページとチェックアウトで、その商品にはクーポンが使えないと案内されます。",
+          "**基準はストアの時刻：** 対象になるのは、YesStyleのシステムが注文を記録した時刻（GMT）です。クーポンの終了後に確定した注文は、割引になりません。",
+          "**何件の注文でも使える：** セールの期間中は、同じクーポンを何件の注文にも使えます。"
+        ]
+      },
+      {
+        "heading": "全員が対象というわけではない特典",
+        "paragraphs": [
+          "2025年は、全会員向けのクーポンのほかに、限定特典が2つありました。11月24日〜30日には、ストアのロイヤルティプログラムであるElite Club（Bronze、Silver、Gold）の会員向けに、US$50以上の注文で1日1商品がUS$1で買えました。1注文につき1商品、在庫がなくなるまで、交換・返品不可です。11月28日〜12月1日には、選ばれた会員に最低額なしの18%のクーポン（「We Miss You」）が届きました。YesStyleのページには、会員の選び方は書かれていません。",
+          "そのようなクーポンが会員アカウントに届いた場合のルールは同じです。リワードコードやYS Pointsと併用できます。"
+        ]
+      },
+      {
+        "heading": "ブラックフライデーのあと：クリスマス",
+        "paragraphs": [
+          "2024年、年末で一番大きかったクーポンはブラックフライデーのものではありませんでした。12月22日〜26日は、YesStyleの全商品に最低額なしの18%が適用されていました。2025年は、全会員向けのクーポンが年末まで15%のままでした。",
+          "クリスマスのプレゼントなら、ブラックフライデーでの購入がいちばん安心です。海外からの注文は、国内のストアより時間がかかります。到着の目安は、支払い前にチェックアウトで確認できます。"
+        ]
+      },
+      {
+        "heading": "配送と関税",
+        "paragraphs": [
+          "送料と配送日の目安は、お届け先の国によって変わり、チェックアウトに表示されます。クーポンは送料を割引しません。",
+          "到着時に関税や手数料がかかった場合、YesStyleはUS$1,000未満の注文について、その金額をYesStyle Creditとして返金します（クーポン適用前の金額で、送料は含みません）。料金を支払い、領収書を保管して、30日以内にYesStyleのカスタマーサービスへ送ってください。",
+          "一部の地域で、YesStyleがチェックアウト時に徴収する税金は、この返金の対象外です。米国の売上税、EUのVAT、英国のVAT、オーストラリアとニュージーランドのGST、カナダ（サスカチュワン州）のPST、スイスとノルウェーのVAT、インドの均等化税（equalisation levy）、シンガポールのGSTです。"
+        ]
+      },
+      {
+        "heading": "カートの例：Abibのルーティン",
+        "paragraphs": [
+          "この記事の最後にある動画（ポルトガル語）では、セシリアがYesStyleから受け取った韓国ブランドAbibの製品を3つ試しています。目元用のハイドロゲルパッチ、PDRN配合のブースタークリーム、リップマスクです。韓国スキンケアを始めたばかりの人向けの短いルーティンで、ブラックフライデーのカートを組むときの良い出発点になります。"
+        ],
+        "links": [
+          {
+            "label": "Abibのルーティンを製品ごとに見る",
+            "href": "/ja/reviews/abib-skincare-routine-30-ja"
+          }
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "2026年のYesStyleのブラックフライデーはいつ始まりますか？YesStyleはまだ発表していません。2024年と2025年は、「Black Friday」の名前のクーポンが11月の初めに始まり、サイバーマンデーまで続きました。",
+          "YesStyleのブラックフライデーのクーポンは何ですか？3〜4日ごとに変わります。このサイトのYesStyleのページには、いま有効なクーポンを、確認した日付とともに掲載しています。",
+          "YesStyleのブラックフライデーのクーポンには最低額がありますか？金額別クーポンには最低額があります。US$79から8%、US$149から10%、US$199から15%です。金曜日とサイバーマンデーの近くの日には、最低額なしの15%がよく出ます。",
+          "YesStyleでは、ブラックフライデーとサイバーマンデーのどちらで買うのがお得ですか？2024年と2025年は、どちらの日も最低額なしの15%でした。クーポンの上限は同じです。日によって変わるのは、商品ごとのセール価格です。",
+          "ブラックフライデー以外にもYesStyleのセールはありますか？あります。8%、10%、15%の金額別クーポンはほぼ一年中続いていて、3〜4日ごとに名前が変わります。",
+          "CECILIA010はブラックフライデーでも使えますか？使えます。Reward Code欄に入力します。ブラックフライデーのクーポンのルールにも、リワードコードと併用できると書かれています。",
+          "1注文で2つのYesStyleのクーポンは使えますか？いいえ。1注文につきクーポンは1つだけです。リワードコードは別物で、チェックアウトの別の欄に入力します。",
+          "ブラックフライデーのクーポンを使うには、YesStyleのアカウントが必要ですか？必要です。クーポンは会員限定で、ゲストで購入すると割引は適用されません。",
+          "YesStyleはお住まいの国に配送していますか？はい、YesStyleは国際配送をしています。お住まいの国への送料と配送日の目安は、チェックアウトに表示されます。",
+          "YesStyleで買うと税金を払うことになりますか？到着時に関税がかかる場合があります。US$1,000未満の注文なら、領収書を30日以内に送ると、その金額がYesStyle Creditとして返金されます。チェックアウトで課される一部の地域の税金は、この返金の対象外です。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "YesStyleでカートを作り、CECILIA010をReward Code欄に入力しましょう。",
+      "label": "YesStyleへ進む",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "ルールはYesStyleの公式ページより。購入によりアフィリエイト報酬を受け取る場合があります。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-reward-code-cecilia010-ja",
+        "title": "YesStyle リワードコード CECILIA010 の使い方"
+      },
+      {
+        "slug": "yesstyle-valid-coupon-guide-ja",
+        "title": "有効なYesStyleクーポンコードの見つけ方"
+      },
+      {
+        "slug": "yesstyle-trust-guide-ja",
+        "title": "YesStyleは安全？購入前に知っておくべき信頼性と評判"
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "slug": "yesstyle-black-friday-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "yesstyle-black-friday",
+    "title": "Black Friday YesStyle 2026（黑色星期五）：何時開始、優惠券怎麼用，CECILIA010 填在哪裡",
+    "seoTitle": "YesStyle 黑色星期五 2026：日期、優惠券與 CECILIA010",
+    "type": "黑色星期五指南",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "YesStyle 黑色星期五何時開始？整理自官方頁面的 2024 與 2025 年日程，說明滿額分級優惠券全年不變的原因、無最低消費的 15% 日子，以及如何搭配獎勵碼 CECILIA010。",
+    "metaDescription": "YesStyle 黑色星期五 2026：2024 與 2025 年的日程、滿額分級優惠券、無最低消費的 15% 日子，以及 CECILIA010 獎勵碼的搭配方式，整理成一篇指南。",
+    "publishedAt": "2026年10月11日",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+    "imageAlt": "西西莉亞手拿 YesStyle 寄來的 Abib 產品盒，笑著出現在韓國護膚影片的一幕中",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
+    "pros": [
+      "2024年與 2025年的官方日程，整理自各優惠券的規則頁面",
+      "獎勵碼可與 YesStyle 優惠券疊加，黑色星期五也適用",
+      "無最低消費 15% 的日子，任何購物車都能拿到優惠券的最高折扣",
+      "US$1,000 以下的訂單，YesStyle 會以 YesStyle Credit 退還關稅"
+    ],
+    "cons": [
+      "2026年的日期尚未公布：目前的日程只是依過往情況的推估",
+      "黑色星期五的滿額分級優惠券與全年相同",
+      "優惠券只限會員，每筆訂單一張，且不折抵運費",
+      "國際購物的到貨時間，比本地商店的訂單更長"
+    ],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "YesStyle 尚未公布 2026年黑色星期五的日期。過去兩年，「Black Friday」的名稱在 11月初就出現在優惠券上（2024年為 11月4日，2025年為 11月3日），一路延續到網購星期一，每三到四天就有新的優惠券。",
+          "黑色星期五的滿額分級優惠券與全年相同：滿 US$79 享 8%、滿 US$149 享 10%、滿 US$199 享 15%。不同的是**無最低消費 15%**的那幾天。2024年與 2025年，這幾天從黑色星期五當天或前一天開始，一直到網購星期一。",
+          "CECILIA010 是西西莉亞的獎勵碼：填入 Reward Code 欄位，首購享 5%、回購享 2%，黑色星期五期間也能與 YesStyle 的優惠券一起使用。這是各優惠券自己的規則所寫的。"
+        ]
+      },
+      {
+        "heading": "YesStyle 黑色星期五何時開始",
+        "paragraphs": [
+          "YesStyle 會在幫助中心公布每張優惠券的規則，包括開始與結束的日期和時間。下表整理了 2024年與 2025年黑色星期五的頁面，2026年的頁面尚未公布。"
+        ],
+        "comparisonTable": {
+          "caption": "全體會員皆可使用的優惠券，取自 YesStyle 幫助中心的頁面。日期以 GMT 計算，這是商店採用的時間。",
+          "headers": [
+            "階段",
+            "2024年",
+            "2025年"
+          ],
+          "rows": [
+            [
+              "名稱為「Black Friday」的滿額分級優惠券",
+              "11月4日〜11月29日",
+              "11月3日〜11月27日"
+            ],
+            [
+              "無最低消費 15%（黑色星期五）",
+              "11月29日〜12月2日",
+              "11月27日〜12月1日"
+            ],
+            [
+              "無最低消費 15%（網購星期一）",
+              "12月2日〜12月4日",
+              "12月1日〜12月3日"
+            ],
+            [
+              "網購星期一的滿額分級優惠券",
+              "12月4日〜12月10日",
+              "12月3日〜12月8日"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "2026年的黑色星期五是11月27日，網購星期一是11月30日。如果 YesStyle 沿用同樣的模式，「Black Friday」的名稱應會在 11月初出現在優惠券上，無最低消費 15% 的日子也會落在這兩天附近。這只是依據過往情況的推估，商店可能全部改變。等 2026年的頁面公布，本指南會再更新。",
+          "優惠券會在固定的 GMT 時間切換。2025年，滿額分級優惠券在 GMT 2點切換，無最低消費的 15% 則在 GMT 8點開始。請自行換算成你所在時區的時間。"
+        ]
+      },
+      {
+        "heading": "黑色星期五的優惠券全年都一樣",
+        "paragraphs": [
+          "2025年10月的 Mid-Season Sale 優惠券，與 11月黑色星期五的滿額分級優惠券，門檻完全相同。這是 YesStyle 幾乎全年持續推出的折扣，只是每隔幾天就換一次名稱和代碼。"
+        ],
+        "comparisonTable": {
+          "caption": "YesStyle 滿額分級優惠券在 2024年與 2025年的門檻，黑色星期五期間與之外相同。折扣以商品價格計算。",
+          "headers": [
+            "訂單最低金額",
+            "額外折扣"
+          ],
+          "rows": [
+            [
+              "US$79",
+              "8%"
+            ],
+            [
+              "US$149",
+              "10%"
+            ],
+            [
+              "US$199",
+              "15%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "無最低消費的日子，上限同樣是 15%。這些日子的作用，是讓這個百分比適用於任何購物車。"
+        ]
+      },
+      {
+        "heading": "要等無最低消費的 15% 日子嗎？",
+        "paragraphs": [
+          "要看購物車的金額："
+        ],
+        "bullets": [
+          "**購物車 US$199 以上：** 滿額分級優惠券任何一天都是 15%，與無最低消費的日子相同。接近星期五時可能變動的是每件商品的促銷價，不是優惠券。",
+          "**購物車 US$79 到 US$199：** 滿額分級優惠券給 8% 或 10%。在無最低消費的日子，同一個購物車可拿到 15%。",
+          "**購物車低於 US$79：** 滿額分級優惠券完全沒有折扣。等無最低消費 15% 的日子，最划算。"
+        ]
+      },
+      {
+        "heading": "CECILIA010 如何與黑色星期五的優惠券一起使用",
+        "paragraphs": [
+          "YesStyle 的結帳頁有兩個欄位。CECILIA010 填在 Reward Code，當天的優惠券填在 Coupon Code。2024年與 2025年黑色星期五優惠券的規則都寫明，它們可與促銷價、Reward Code 以及 YS Points（YesStyle 自己的點數）一起使用。"
+        ],
+        "bullets": [
+          "先登入帳號，再組購物車：優惠券只提供給會員。",
+          "組好購物車後，確認金額已超過你要的門檻（US$79、US$149 或 US$199）。",
+          "把當天的優惠券填入 Coupon Code 欄位。",
+          "把 CECILIA010 填入 Reward Code 欄位：首購 5%，回購 2%。",
+          "付款前，在訂單摘要確認兩項折扣都已套用。"
+        ],
+        "links": [
+          {
+            "label": "查看 YesStyle 今日的優惠券與獎勵碼 CECILIA010",
+            "href": "/zh-hant/coupons/yesstyle"
+          },
+          {
+            "label": "CECILIA010 使用步驟",
+            "href": "/zh-hant/reviews/yesstyle-reward-code-cecilia010-zh-hant"
+          }
+        ]
+      },
+      {
+        "heading": "黑色星期五最常踩到的規則",
+        "bullets": [
+          "**只限會員：** 以訪客身分購買的人無法使用優惠券。請在促銷日之前建立帳號。",
+          "**每筆訂單一張優惠券：** 同一筆訂單無法疊加兩張 YesStyle 優惠券。獎勵碼不在這個計算內，因為它填在另一個欄位。",
+          "**只折商品價格：** 優惠券不折抵運費或其他費用。",
+          "**部分商品不適用：** 商品頁與結帳頁會提示優惠券不適用的商品。",
+          "**以商店時間為準：** 計算的是 YesStyle 系統記錄訂單的時間（GMT）。優惠券結束後才完成的訂單，無法享有折扣。",
+          "**可重複使用：** 促銷期間，同一張優惠券可用於你下的每一筆訂單。"
+        ]
+      },
+      {
+        "heading": "並非人人都有的優惠",
+        "paragraphs": [
+          "2025年，除了全體會員都能用的優惠券，YesStyle 還推出了兩項限定優惠。11月24日至30日，YesStyle 的忠誠計畫 Elite Club（Bronze、Silver、Gold 等級）會員，每天有一件商品以 US$1 供應，訂單需滿 US$50：每筆訂單限一件，售完為止，不可換貨或退貨。11月28日至12月1日，部分會員收到了無最低消費 18% 的優惠券（「We Miss You」）。頁面沒有說明這些會員是如何選出的。",
+          "如果你的帳號出現這類優惠券，規則相同：它可與獎勵碼及 YS Points 一起使用。"
+        ]
+      },
+      {
+        "heading": "黑色星期五之後：聖誕節",
+        "paragraphs": [
+          "2024年，年底最大的優惠券並不是黑色星期五的。12月22日至26日，YesStyle 全店商品都享無最低消費 18%。2025年，全體會員可用的優惠券在年底前一直維持 15%。",
+          "要買聖誕禮物，黑色星期五的購買最有保障。國際訂單比本地商店的訂單需要更久，預計到貨時間會在付款前的結帳頁面顯示。"
+        ]
+      },
+      {
+        "heading": "配送與關稅",
+        "paragraphs": [
+          "運費與預計送達時間取決於目的地國家，會在結帳時顯示。優惠券不折抵運費。",
+          "如果包裹到達時被課徵關稅，YesStyle 會把這筆稅金與手續費以 YesStyle Credit 退還，適用於 US$1,000 以下的訂單（以優惠券折扣前的金額計算，不含運費）。請先付款、保留收據，並在 30 天內寄給 YesStyle 客服。",
+          "部分地區在結帳時由 YesStyle 收取的稅金，不在這項退款範圍內：美國銷售稅、歐盟 VAT、英國 VAT、澳洲與紐西蘭 GST、加拿大（薩斯喀徹溫省）PST、瑞士與挪威 VAT、印度均等化稅（equalisation levy），以及新加坡 GST。"
+        ]
+      },
+      {
+        "heading": "購物車範例：Abib 的護膚流程",
+        "paragraphs": [
+          "本文最後的影片為葡萄牙語。西西莉亞測試了她從 YesStyle 收到的三件韓國品牌 Abib 產品：眼部水凝膠貼片、含 PDRN 的精華乳霜，以及唇膜。這是適合剛開始接觸韓式護膚的人的簡短流程，也是組合黑色星期五購物車的好起點。"
+        ],
+        "links": [
+          {
+            "label": "逐一看 Abib 護膚流程的心得",
+            "href": "/zh-hant/reviews/abib-skincare-routine-30-zh-hant"
+          }
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "YesStyle 黑色星期五 2026年何時開始？YesStyle 尚未公布。2024年和 2025年，名稱為「Black Friday」的優惠券在 11月初開始，一路延續到網購星期一。",
+          "YesStyle 黑色星期五的優惠券是哪一張？每三到四天更換一次。本站的 YesStyle 頁面會顯示目前有效的優惠券，並附上查核日期。",
+          "YesStyle 黑色星期五的優惠券有最低消費嗎？滿額分級優惠券有：滿 US$79 享 8%、滿 US$149 享 10%、滿 US$199 享 15%。接近星期五和網購星期一的日子，YesStyle 通常會開放無最低消費的 15%。",
+          "黑色星期五和網購星期一，在 YesStyle 買哪一天比較划算？2024年和 2025年，兩天都是無最低消費 15%，所以優惠券的上限相同。每天不同的，是各商品的促銷價。",
+          "YesStyle 在黑色星期五以外也有促銷嗎？有。8%、10% 和 15% 的滿額分級優惠券幾乎全年都在，每三到四天更換一次名稱。",
+          "CECILIA010 在黑色星期五也能用嗎？可以。填入 Reward Code 欄位即可，黑色星期五優惠券的規則也寫明，它們可與 Reward Code 一起使用。",
+          "同一筆訂單能用兩張 YesStyle 優惠券嗎？不能，每筆訂單只能用一張。獎勵碼是另一回事，填在結帳頁的另一個欄位。",
+          "要用黑色星期五的優惠券，必須有 YesStyle 帳號嗎？必須。優惠券只提供給會員，以訪客身分購買就無法享有折扣。",
+          "YesStyle 會寄到我所在的國家嗎？會，YesStyle 提供國際配送。你所在國家的運費與預計送達時間，會在結帳時顯示。",
+          "在 YesStyle 購物需要付稅嗎？到貨時可能會被課徵關稅。US$1,000 以下的訂單，若在 30 天內寄出收據，這筆稅金會以 YesStyle Credit 退還。部分地區在結帳時收取的稅金，不在退款範圍內。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "在 YesStyle 組好購物車，並把 CECILIA010 填入 Reward Code 欄位。",
+      "label": "前往 YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "規則取自 YesStyle 官方頁面。我們可能會從購買中獲得佣金。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-reward-code-cecilia010-zh-hant",
+        "title": "YesStyle 獎勵碼 CECILIA010 使用方法"
+      },
+      {
+        "slug": "yesstyle-valid-coupon-guide-zh-hant",
+        "title": "如何找到有效的 YesStyle 優惠碼"
+      },
+      {
+        "slug": "yesstyle-trust-guide-zh-hant",
+        "title": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南"
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "slug": "yesstyle-black-friday-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "yesstyle-black-friday",
+    "title": "Black Friday YesStyle 2026（黑色星期五）：何时开始、优惠券怎么用，CECILIA010 填在哪里",
+    "seoTitle": "YesStyle 黑色星期五 2026：日期、优惠券与 CECILIA010",
+    "type": "黑色星期五指南",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "YesStyle 黑色星期五何时开始？整理自官方页面的 2024 与 2025 年日程，说明满额分级优惠券全年不变的原因、无最低消费的 15% 日子，以及如何搭配奖励码 CECILIA010。",
+    "metaDescription": "YesStyle 黑色星期五 2026：2024 与 2025 年的日程、满额分级优惠券、无最低消费的 15% 日子，以及 CECILIA010 奖励码的搭配方式，整理成一篇指南。",
+    "publishedAt": "2026年10月11日",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+    "imageAlt": "西西莉亚手拿 YesStyle 寄来的 Abib 产品盒，笑着出现在韩国护肤视频的一幕中",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
+    "pros": [
+      "2024年与 2025年的官方日程，取自各优惠券的规则页面",
+      "奖励码可与 YesStyle 的优惠券一起使用，黑色星期五期间也适用",
+      "无最低消费 15% 的日子，任何购物车都能拿到优惠券的最高折扣",
+      "US$1,000 以下的订单，YesStyle 会以 YesStyle Credit 退还海关税费"
+    ],
+    "cons": [
+      "2026年的日期尚未公布，目前的日程只是依据过往情况的推估",
+      "黑色星期五的满额分级优惠券与全年相同",
+      "优惠券只提供给会员，每笔订单限一张，且不抵扣运费",
+      "国际购买的送达时间比本地商店长"
+    ],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "YesStyle 尚未公布 2026年黑色星期五的日期。过去两年，「Black Friday」的名称在 11月初就出现在优惠券上（2024年为 11月4日，2025年为 11月3日），一直延续到网络星期一，每三到四天就有新的优惠券。",
+          "黑色星期五的满额分级优惠券与全年相同：满 US$79 享 8%、满 US$149 享 10%、满 US$199 享 15%。不同的是**无最低消费 15%**的那几天。2024年与 2025年，这几天从黑色星期五当天或前一天开始，一直到网络星期一。",
+          "CECILIA010 是西西莉亚的奖励码：填入 Reward Code 栏位，首购享 5%、回购享 2%，黑色星期五期间也能与 YesStyle 的优惠券一起使用。这是各优惠券自己的规则写明的。"
+        ]
+      },
+      {
+        "heading": "YesStyle 黑色星期五何时开始",
+        "paragraphs": [
+          "YesStyle 会在帮助中心公布每张优惠券的规则，包括开始与结束的日期和时间。下表整理了 2024年与 2025年黑色星期五的页面，2026年的页面尚未公布。"
+        ],
+        "comparisonTable": {
+          "caption": "全体会员皆可使用的优惠券，取自 YesStyle 帮助中心的页面。日期以 GMT 计算，这是商店采用的时间。",
+          "headers": [
+            "阶段",
+            "2024年",
+            "2025年"
+          ],
+          "rows": [
+            [
+              "名称为「Black Friday」的满额分级优惠券",
+              "11月4日〜11月29日",
+              "11月3日〜11月27日"
+            ],
+            [
+              "无最低消费 15%（黑色星期五）",
+              "11月29日〜12月2日",
+              "11月27日〜12月1日"
+            ],
+            [
+              "无最低消费 15%（网络星期一）",
+              "12月2日〜12月4日",
+              "12月1日〜12月3日"
+            ],
+            [
+              "网络星期一的满额分级优惠券",
+              "12月4日〜12月10日",
+              "12月3日〜12月8日"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "2026年的黑色星期五是11月27日，网络星期一是11月30日。如果 YesStyle 沿用同样的模式，「Black Friday」的名称应会在 11月初出现在优惠券上，无最低消费的 15% 日子也会落在这两天附近。这只是依据过往情况的推估，商店可能全部改变。等 2026年的页面公布，本指南会再更新。",
+          "优惠券会在固定的 GMT 时间切换。2025年，满额分级优惠券在 GMT 2点切换，无最低消费的 15% 则在 GMT 8点开始。请自行换算成你所在时区的时间。"
+        ]
+      },
+      {
+        "heading": "黑色星期五的优惠券全年都一样",
+        "paragraphs": [
+          "2025年10月的 Mid-Season Sale 优惠券，与 11月黑色星期五的满额分级优惠券，门槛完全相同。这是 YesStyle 几乎全年持续推出的折扣，只是每隔几天就换一次名称和代码。"
+        ],
+        "comparisonTable": {
+          "caption": "YesStyle 满额分级优惠券在 2024年与 2025年的门槛，黑色星期五期间与之外相同。折扣以商品价格计算。",
+          "headers": [
+            "订单最低金额",
+            "额外折扣"
+          ],
+          "rows": [
+            [
+              "US$79",
+              "8%"
+            ],
+            [
+              "US$149",
+              "10%"
+            ],
+            [
+              "US$199",
+              "15%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "无最低消费的日子，上限同样是 15%。这些日子的作用，是让这个百分比适用于任何购物车。"
+        ]
+      },
+      {
+        "heading": "要等无最低消费的 15% 日子吗？",
+        "paragraphs": [
+          "要看购物车的金额："
+        ],
+        "bullets": [
+          "**购物车 US$199 以上：** 满额分级优惠券任何一天都是 15%，与无最低消费的日子相同。接近星期五时可能变动的是每件商品的促销价，不是优惠券。",
+          "**购物车 US$79 到 US$199：** 满额分级优惠券给 8% 或 10%。在无最低消费的日子，同一个购物车可拿到 15%。",
+          "**购物车低于 US$79：** 满额分级优惠券完全没有折扣。等无最低消费 15% 的日子，最划算。"
+        ]
+      },
+      {
+        "heading": "CECILIA010 如何与黑色星期五的优惠券一起使用",
+        "paragraphs": [
+          "YesStyle 的结账页有两个栏位。CECILIA010 填在 Reward Code，当天的优惠券填在 Coupon Code。2024年与 2025年黑色星期五优惠券的规则都写明，它们可与促销价、Reward Code 以及 YS Points（YesStyle 自有的积分）一起使用。"
+        ],
+        "bullets": [
+          "先登录账号，再组购物车：优惠券只提供给会员。",
+          "组好购物车后，确认金额已超过你要的门槛（US$79、US$149 或 US$199）。",
+          "把当天的优惠券填入 Coupon Code 栏位。",
+          "把 CECILIA010 填入 Reward Code 栏位：首购 5%，回购 2%。",
+          "付款前，在订单摘要确认两项折扣都已应用。"
+        ],
+        "links": [
+          {
+            "label": "查看 YesStyle 今日的优惠券与奖励码 CECILIA010",
+            "href": "/zh-hans/coupons/yesstyle"
+          },
+          {
+            "label": "CECILIA010 使用步骤",
+            "href": "/zh-hans/reviews/yesstyle-reward-code-cecilia010-zh-hans"
+          }
+        ]
+      },
+      {
+        "heading": "黑色星期五最常踩到的规则",
+        "bullets": [
+          "**只限会员：** 以访客身份购买的人无法使用优惠券。请在促销日之前建立账号。",
+          "**每笔订单一张优惠券：** 同一笔订单无法叠加两张 YesStyle 优惠券。奖励码不计入此规则，因为它填在另一个栏位。",
+          "**只折商品价格：** 优惠券不抵扣运费或其他费用。",
+          "**部分商品不适用：** 商品页与结账页会提示优惠券不适用的商品。",
+          "**以商店时间为准：** 以 YesStyle 系统记录订单的时间（GMT）为准。优惠券结束后才完成的订单，无法享有折扣。",
+          "**可重复使用：** 促销期间，同一张优惠券可用于你下的每一笔订单。"
+        ]
+      },
+      {
+        "heading": "并非人人都有的优惠",
+        "paragraphs": [
+          "2025年，除了全体会员都能用的优惠券，YesStyle 还推出了两项限定优惠。11月24日至30日，YesStyle 的忠诚计划 Elite Club（Bronze、Silver、Gold 等级）会员，每天有一件商品以 US$1 供应，订单需满 US$50：每笔订单限一件，售完为止，不可换货或退货。11月28日至12月1日，部分会员收到了无最低消费 18% 的优惠券（「We Miss You」）。页面没有说明这些会员是如何选出的。",
+          "如果你的账号出现这类优惠券，规则相同：它可与奖励码及 YS Points 一起使用。"
+        ]
+      },
+      {
+        "heading": "黑色星期五之后：圣诞节",
+        "paragraphs": [
+          "2024年，年底最大的优惠券并不是黑色星期五的。12月22日至26日，YesStyle 全店商品都享无最低消费 18%。2025年，全体会员可用的优惠券在年底前一直维持 15%。",
+          "要买圣诞礼物，黑色星期五的购买最有保障。国际订单比本地商店的订单需要更久，预计到货时间会在付款前的结账页面显示。"
+        ]
+      },
+      {
+        "heading": "配送与关税",
+        "paragraphs": [
+          "运费与预计送达时间取决于目的地国家，会在结账时显示。优惠券不抵扣运费。",
+          "如果包裹到达时被征收关税，YesStyle 会把这笔税金与手续费以 YesStyle Credit 退还，适用于 US$1,000 以下的订单（以优惠券折扣前的金额计算，不含运费）。请先付款、保留收据，并在 30 天内寄给 YesStyle 客服。",
+          "部分地区在结账时由 YesStyle 收取的税金，不在这项退款范围内：美国销售税、欧盟 VAT、英国 VAT、澳洲与新西兰 GST、加拿大（萨斯喀彻温省）PST、瑞士与挪威 VAT、印度均等化税（equalisation levy），以及新加坡 GST。"
+        ]
+      },
+      {
+        "heading": "购物车示例：Abib 的护肤流程",
+        "paragraphs": [
+          "本文最后的视频为葡萄牙语。西西莉亚测试了她从 YesStyle 收到的三件韩国品牌 Abib 产品：眼部水凝胶贴片、含 PDRN 的精华面霜，以及唇膜。这是适合刚开始接触韩式护肤的人的简短流程，也是组合黑色星期五购物车的好起点。"
+        ],
+        "links": [
+          {
+            "label": "逐一看 Abib 护肤流程的心得",
+            "href": "/zh-hans/reviews/abib-skincare-routine-30-zh-hans"
+          }
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "YesStyle 黑色星期五 2026年何时开始？YesStyle 尚未公布。2024年和 2025年，名称为「Black Friday」的优惠券在 11月初开始，一直延续到网络星期一。",
+          "YesStyle 黑色星期五的优惠券是哪一张？每三到四天更换一次。本站的 YesStyle 页面会显示目前有效的优惠券，并附上核对日期。",
+          "YesStyle 黑色星期五的优惠券有最低消费吗？满额分级优惠券有：满 US$79 享 8%、满 US$149 享 10%、满 US$199 享 15%。接近星期五和网络星期一的日子，YesStyle 通常会开放无最低消费的 15%。",
+          "在 YesStyle，黑色星期五和网络星期一哪天买更划算？2024年和 2025年，两天都是无最低消费 15%，所以优惠券的上限相同。两天之间不同的，是各商品的促销价。",
+          "YesStyle 在黑色星期五以外也有促销吗？有。8%、10% 和 15% 的满额分级优惠券几乎全年都在，每三到四天更换一次名称。",
+          "CECILIA010 在黑色星期五也能用吗？可以。填入 Reward Code 栏位即可，黑色星期五优惠券的规则也写明，它们可与 Reward Code 一起使用。",
+          "同一笔订单能用两张 YesStyle 优惠券吗？不能，每笔订单只能用一张。奖励码是另一回事，填在结账页的另一个栏位。",
+          "要用黑色星期五的优惠券，必须有 YesStyle 账号吗？必须。优惠券只提供给会员，以访客身份购买就无法享有折扣。",
+          "YesStyle 会寄到我所在的国家吗？会，YesStyle 提供国际配送。你所在国家的运费与预计送达时间，会在结账时显示。",
+          "在 YesStyle 购物需要付税吗？到货时可能会被征收关税。US$1,000 以下的订单，若在 30 天内寄出收据，这笔税金会以 YesStyle Credit 退还。部分地区在结账时收取的税金，不在退款范围内。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "在 YesStyle 组好购物车，并把 CECILIA010 填入 Reward Code 栏位。",
+      "label": "前往 YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
+    },
+    "coupon": "CECILIA010",
+    "affiliate": "yesstyle",
+    "editorialNote": "规则取自 YesStyle 官方页面。我们可能会从购买中获得佣金。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-reward-code-cecilia010-zh-hans",
+        "title": "YesStyle 奖励码 CECILIA010 使用方法"
+      },
+      {
+        "slug": "yesstyle-valid-coupon-guide-zh-hans",
+        "title": "如何找到有效的 YesStyle 优惠码"
+      },
+      {
+        "slug": "yesstyle-trust-guide-zh-hans",
+        "title": "YesStyle 值得信赖吗？购买前必看安全评价与购物指南"
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "slug": "black-friday-shein",
+    "locale": "pt",
+    "translationKey": "shein-black-friday",
+    "title": "Black Friday SHEIN 2026: quando começa, até quando vai e o imposto de importação zero até US$ 50",
+    "seoTitle": "Black Friday SHEIN 2026: datas, imposto e cupons",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quando começa e até quando vai a Black Friday da SHEIN, o calendário de 2023 a 2025, o que muda com o imposto de importação zerado nos pedidos de até US$ 50, Envio Nacional ou internacional, cupons, pontos, pagamento e devolução.",
+    "metaDescription": "Black Friday SHEIN 2026: o calendário de 2023 a 2025, o imposto de importação zero até US$ 50 e o ICMS que continua, Envio Nacional, cupons, pontos e devolução.",
+    "publishedAt": "11 de outubro de 2026",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "Cecília Mauad em dois looks de um haul da SHEIN: blusa clara amarrada na cintura com saia midi preta, e vestido longo preto com recortes claros",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Desde 13 de maio de 2026, pedidos de até US$ 50 não pagam imposto de importação",
+      "Nos três últimos anos, as ofertas começaram antes da Black Friday e continuaram depois dela",
+      "Produtos de Envio Nacional não pagam imposto de importação",
+      "Devolução em até 20 dias, com a primeira devolução de cada pedido grátis"
+    ],
+    "cons": [
+      "O \"até 90%\" vale para alguns itens, não para o carrinho inteiro",
+      "O ICMS de 17% a 20% continua em toda compra internacional",
+      "Acima de US$ 50, o imposto de importação volta: 60%, menos US$ 30 no valor do imposto",
+      "Um cupom da SHEIN por pedido, e o imposto pago não volta na devolução"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A SHEIN ainda não anunciou a Black Friday de 2026. Nos três últimos anos, as ofertas começaram antes da data, junto com o 11.11, e terminaram depois dela (25/11 em 2023 e 30/11 em 2024 e 2025). Em 2026, a Black Friday cai em 27 de novembro.",
+          "A grande mudança deste ano é o imposto. Desde 13 de maio de 2026, o pedido internacional de até **US$ 50** (produto mais frete, já com os descontos) não paga imposto de importação. O ICMS do estado, de 17% a 20%, continua, e a SHEIN diz que cobre uma parte dele. Acima de US$ 50, o imposto de importação volta.",
+          "Vale um cupom da SHEIN por pedido. O 4CW5Y é o código de indicação da Cecília: você pesquisa o código no aplicativo da SHEIN e confere as condições que aparecem para a sua conta."
+        ]
+      },
+      {
+        "heading": "Quando começa a Black Friday da SHEIN",
+        "paragraphs": [
+          "A SHEIN junta o 11.11 e a Black Friday numa campanha só, com fases que aumentam o desconto máximo até o fim do mês. A tabela abaixo junta o que a SHEIN anunciou nos três últimos anos. O calendário de 2026 ainda não saiu."
+        ],
+        "comparisonTable": {
+          "caption": "Fases e descontos máximos anunciados pela SHEIN Brasil, pela imprensa que publicou os comunicados e pelos perfis da marca. O \"até\" vale para alguns itens.",
+          "headers": [
+            "Ano",
+            "Começo e fim",
+            "Desconto máximo anunciado"
+          ],
+          "rows": [
+            [
+              "2023",
+              "11/11 a 25/11",
+              "até 80% de 11 a 19/11, até 85% de 20 a 23/11 e até 90% em 24 e 25/11, com 48 horas de frete grátis na semana da Black Friday"
+            ],
+            [
+              "2024",
+              "21/10 a 30/11",
+              "11.11: até 85% de 21/10 a 4/11, até 90% de 5 a 10/11 e até 95% de 11 a 13/11. Black Friday: até 90% de 13 a 25/11 e até 95% de 26 a 30/11"
+            ],
+            [
+              "2025",
+              "já no ar em 3/11, até 30/11",
+              "até 90% em mais de 800 mil itens até 9/11, com frete grátis em várias categorias; em 24/11, até 95% em mais de 800 mil itens"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Em 2026, o 11.11 cai numa quarta-feira e a Black Friday numa sexta, 27 de novembro. Se a SHEIN repetir o padrão, as ofertas devem começar entre o fim de outubro e o começo de novembro e ir até 30 de novembro. É uma estimativa pelo histórico, e este guia é atualizado quando a SHEIN anunciar a campanha de 2026.",
+          "Nos três anos, o desconto máximo subiu perto do fim: 90% em 24 e 25/11 de 2023, 95% de 26 a 30/11 de 2024 e 95% a partir de 24/11 de 2025."
+        ]
+      },
+      {
+        "heading": "\"Até 90%\" não é o carrinho inteiro",
+        "paragraphs": [
+          "O percentual da campanha é o maior desconto de alguns itens. A maior parte do catálogo tem descontos menores, e o preço de cada peça muda ao longo das fases. Para não cair no número grande da propaganda:"
+        ],
+        "bullets": [
+          "Salve as peças na lista de desejos antes de a campanha começar e anote o preço de agora.",
+          "Compare o preço da lista com o das fases seguintes: nos três últimos anos, o desconto máximo subiu na reta final.",
+          "Olhe o preço final no carrinho, com frete e impostos, e não só o percentual do anúncio.",
+          "Se a peça é de tamanho difícil de achar, não espere a última fase: o estoque pode acabar antes."
+        ]
+      },
+      {
+        "heading": "O imposto na Black Friday: o que mudou em 2026",
+        "paragraphs": [
+          "A SHEIN faz parte do Remessa Conforme, o programa da Receita Federal para compras internacionais. Por isso, os impostos são cobrados no checkout, junto com o pedido. Em regra, não há cobrança extra na entrega, mas a Receita Federal pode reavaliar o valor do pacote, e isso muda o imposto devido. Em 13 de maio de 2026, o imposto de importação das compras de até US$ 50 foi zerado. A Lei 15.502, de 10 de setembro de 2026, confirmou que o governo pode manter a alíquota zero nessa faixa.",
+          "A conta vale por pedido e usa o valor do produto mais o frete, já com os descontos e o cupom. Ou seja, o desconto da Black Friday pode deixar um pedido abaixo de US$ 50. O limite é em dólar: o checkout mostra os impostos do seu pedido antes do pagamento."
+        ],
+        "comparisonTable": {
+          "caption": "Pela página de impostos da SHEIN Brasil, atualizada em 23/05/2026. O ICMS de 17% vale para a maioria dos estados; Amapá tem 18%, Pará 19%, e Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima e Sergipe têm 20%.",
+          "headers": [
+            "Pedido (produto + frete)",
+            "Imposto de importação",
+            "ICMS",
+            "Exemplo da SHEIN, sem o subsídio"
+          ],
+          "rows": [
+            [
+              "Até US$ 50",
+              "0%",
+              "17% a 20%, conforme o estado",
+              "US$ 50 viram US$ 60,24 com ICMS de 17%"
+            ],
+            [
+              "Acima de US$ 50",
+              "60%, menos US$ 30 no valor do imposto",
+              "17% a 20%, também sobre o imposto de importação",
+              "US$ 100 viram US$ 156,63 com ICMS de 17%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A SHEIN diz que continua cobrindo parte do ICMS, só sobre o valor do produto. O tamanho desse subsídio muda de cliente para cliente, por critérios que a loja não divulga, e não cobre o ICMS que incide sobre o imposto de importação.",
+          "Os produtos de **Envio Nacional**, que já estão no Brasil, não pagam imposto de importação. E o imposto de importação pago não volta se você devolver a peça depois do envio."
+        ]
+      },
+      {
+        "heading": "Envio Nacional ou internacional?",
+        "paragraphs": [
+          "Na SHEIN, a mesma busca mistura produtos que vêm de fora e produtos de vendedores que já estão no Brasil, marcados como Envio Nacional. Na Black Friday, a diferença pesa no preço final e nas regras de desconto."
+        ],
+        "bullets": [
+          "**Envio Nacional:** sem imposto de importação. Cada vendedor tem o próprio frete, prazo e condições, e os pontos SHEIN não valem nesses itens.",
+          "**Internacional:** passa pela alfândega, com os impostos cobrados no checkout. A SHEIN leva de 3 a 5 dias para processar o pedido antes do envio, e o nome do pedido precisa bater com o CPF.",
+          "**Prazo:** o prazo de entrega e o frete aparecem na página do pedido antes de pagar. O pedido pode chegar em mais de um pacote.",
+          "**Atraso:** a SHEIN tem um serviço gratuito de Entrega no Prazo, que dá 200 pontos SHEIN ou R$ 10 em créditos na carteira se o pedido não chegar até a data prevista."
+        ]
+      },
+      {
+        "heading": "Cupons, pontos e o código 4CW5Y",
+        "paragraphs": [
+          "Pela política de cupons da SHEIN, vale um cupom da plataforma por pedido. Se o carrinho tiver produtos de vendedores nacionais, dá para usar também o cupom da loja desse vendedor: no máximo dois cupons, um de cada tipo. Cada cupom tem validade, e o que não foi usado a tempo fica indisponível.",
+          "Os pontos SHEIN valem US$ 1 a cada 100 pontos e abatem até 30% do valor dos produtos, sem contar frete e impostos. Eles não valem em itens de vendedores nacionais.",
+          "O 4CW5Y não é cupom: é o código de indicação da Cecília. Você pesquisa 4CW5Y no aplicativo da SHEIN e confere as condições que aparecem para a sua conta. As campanhas da SHEIN mudam toda hora, por isso ficam na página da loja aqui do site, com a data em que foram conferidas."
+        ],
+        "links": [
+          {
+            "label": "Ver o código de indicação 4CW5Y e as campanhas da SHEIN",
+            "href": "/cupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "Como pagar na Black Friday",
+        "paragraphs": [
+          "A SHEIN aceita Pix, cartão de crédito brasileiro em até 6 parcelas, boleto, PayPal e Pagaleve. O boleto precisa ser pago em até 3 dias, e a própria SHEIN sugere cartão ou PayPal para evitar falta de estoque ou atraso na confirmação do pagamento, o que pesa numa promoção com estoque curto.",
+          "Se precisar de reembolso, o Pix é o mais rápido: a SHEIN processa em até 24 horas, e o banco leva de 1 a 3 dias úteis. No cartão de crédito, o banco leva de 3 a 8 dias úteis, às vezes até 30 dias."
+        ]
+      },
+      {
+        "heading": "Trocas e devoluções depois da Black Friday",
+        "bullets": [
+          "**Prazo:** até 20 dias depois de receber, mesmo que você só não tenha gostado da peça.",
+          "**Itens que só voltam em 7 dias:** bodies, moda praia, roupa íntima, brincos e piercings e produtos para pets, e cosméticos, artigos de festa e de artesanato com o lacre aberto. Esses só podem ser devolvidos no prazo de arrependimento de 7 dias, contado da entrega.",
+          "**Frete da devolução:** a primeira devolução de cada pedido é grátis, pelos Correios, pela Jadlog ou pela Total Express. Da segunda em diante, a SHEIN desconta R$ 45 do reembolso a cada devolução.",
+          "**Cupom:** em devolução parcial, o cupom conta como usado e não volta para a conta. Se o pedido ficar abaixo do valor mínimo do cupom, a SHEIN desconta do reembolso a parte do desconto que deixou de valer.",
+          "**Imposto:** o imposto de importação pago não volta depois que o pedido foi enviado."
+        ]
+      },
+      {
+        "heading": "Antes de pagar: o que conferir",
+        "bullets": [
+          "Se o produto é de Envio Nacional ou internacional.",
+          "Se o pedido internacional ficou em até US$ 50, contando o frete e já com os descontos.",
+          "Quanto deu o ICMS no resumo do pedido.",
+          "Se o cupom entrou e se os pontos foram abatidos.",
+          "O prazo de entrega, se a compra for presente de Natal.",
+          "Se a peça é dos itens que só podem ser devolvidos em 7 dias."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quando começa a Black Friday da SHEIN em 2026? A SHEIN ainda não anunciou. Em 2024 as ofertas começaram em 21 de outubro, junto com o 11.11, e em 2025 já estavam no ar em 3 de novembro. A Black Friday de 2026 é em 27 de novembro.",
+          "A Black Friday da SHEIN vai até quando? Em 2024 e 2025, até 30 de novembro. Em 2023, até 25 de novembro, o sábado depois da Black Friday.",
+          "O que é o 11.11 da SHEIN? É a promoção do Dia dos Solteiros, em 11 de novembro. A SHEIN junta o 11.11 e a Black Friday numa campanha só, com fases de desconto até o fim do mês.",
+          "Tem imposto nas compras da SHEIN na Black Friday? Tem ICMS, de 17% a 20% conforme o estado, em toda compra internacional. O imposto de importação é zero nos pedidos de até US$ 50 e de 60%, menos US$ 30 no valor do imposto, acima disso.",
+          "O imposto zero da SHEIN vale para qualquer compra? Vale para o pedido internacional de até US$ 50, contando produto e frete, já com os descontos. Acima disso, o imposto de importação volta.",
+          "Produto de Envio Nacional paga imposto de importação? Não. Os produtos de Envio Nacional já estão no Brasil e não pagam imposto de importação.",
+          "Posso usar mais de um cupom na SHEIN? Um cupom da SHEIN por pedido. Se o carrinho tiver produtos de vendedores nacionais, dá para somar o cupom da loja desse vendedor.",
+          "O 4CW5Y é cupom de desconto? Não. É o código de indicação da Cecília: você pesquisa o código no aplicativo da SHEIN e vê as condições para a sua conta.",
+          "Tem frete grátis na Black Friday da SHEIN? Nos últimos anos, teve em momentos da campanha: 48 horas em 2023 e frete grátis em várias categorias no começo da campanha de 2025. O frete do seu pedido aparece no carrinho.",
+          "Quanto tempo tenho para devolver o que comprei na Black Friday? Até 20 dias depois de receber. Roupa íntima, moda praia, bodies, brincos e alguns outros itens só voltam no prazo de 7 dias."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Monte o carrinho na SHEIN e confira o imposto no resumo do pedido antes de pagar",
+      "label": "Ir para a SHEIN",
+      "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Regras das páginas oficiais da SHEIN Brasil e da Lei 15.502/2026. Podemos receber comissão pelas compras.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-yesstyle",
+        "title": "Black Friday YesStyle 2026: quando começa, como funcionam os cupons e onde entra o código CECILIA010"
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "slug": "shein-black-friday-dates-taxes",
+    "locale": "en",
+    "translationKey": "shein-black-friday",
+    "title": "SHEIN Brazil Black Friday 2026: when it starts, how long it lasts and the zero import tax up to US$ 50",
+    "seoTitle": "SHEIN Black Friday 2026 Brazil: dates, taxes and coupons",
+    "type": "Black Friday Guide",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "When SHEIN Brazil's Black Friday starts and ends, the 2023 to 2025 calendar, what changes with the zero import tax on orders up to US$ 50, National Shipping or international, coupons, points, payment and returns.",
+    "metaDescription": "SHEIN Brazil Black Friday 2026: 2023–2025 calendar, zero import tax up to US$ 50, the ICMS that still applies, National Shipping, coupons, points and returns.",
+    "publishedAt": "October 11, 2026",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "Cecília Mauad in two looks from a SHEIN haul: a light blouse tied at the waist with a black midi skirt, and a long black dress with light panels.",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Since May 13, 2026, international orders up to US$ 50 are exempt from Brazil's import tax",
+      "In the last three years, the offers started before Black Friday and continued after it",
+      "Products shipped via National Shipping (Envio Nacional) pay no import tax",
+      "Returns within 20 days, and the first return of each order is free"
+    ],
+    "cons": [
+      "The “up to 90%” applies to some items, not to the whole cart",
+      "ICMS, the Brazilian state tax (17% to 20%), still applies to every international purchase",
+      "Above US$ 50, the import tax returns: 60%, minus US$ 30 off the tax amount",
+      "One SHEIN coupon per order, and the import tax paid is not refunded on returns"
+    ],
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "This guide covers SHEIN Brazil (the Brazilian site and app), and its dates, taxes, prices and rules may differ in other countries. SHEIN has not announced Black Friday 2026 yet. In the last three years, the offers started before Black Friday, together with 11.11 (the Singles' Day sale), and ended after it: on Nov 25 in 2023, and on Nov 30 in 2024 and 2025. In 2026, Black Friday falls on November 27.",
+          "The big change this year is the tax. Since May 13, 2026, an international order up to **US$ 50** (product plus shipping, already with discounts) pays no import tax. The state ICMS, of 17% to 20%, still applies, and SHEIN says it covers part of it. Above US$ 50, the import tax comes back.",
+          "There is one SHEIN coupon per order. The 4CW5Y is Cecília's referral code for SHEIN Brazil: you search 4CW5Y in the SHEIN app and check the conditions shown for your account. The referral code and the campaigns are SHEIN Brazil's, so they may not work in other countries."
+        ]
+      },
+      {
+        "heading": "When the SHEIN Black Friday starts",
+        "paragraphs": [
+          "SHEIN puts 11.11 and Black Friday into one campaign, with phases that raise the maximum discount until the end of the month. The table below gathers what SHEIN announced in the last three years. The 2026 calendar is not out yet."
+        ],
+        "comparisonTable": {
+          "caption": "Phases and maximum discounts announced by SHEIN Brazil, by the press that published the announcements and by the brand's profiles. The “up to” applies to some items.",
+          "headers": [
+            "Year",
+            "Start and end",
+            "Maximum discount announced"
+          ],
+          "rows": [
+            [
+              "2023",
+              "Nov 11 – Nov 25",
+              "up to 80% from Nov 11 to 19, up to 85% from Nov 20 to 23 and up to 90% on Nov 24 and 25, with 48 hours of free shipping during Black Friday week"
+            ],
+            [
+              "2024",
+              "Oct 21 – Nov 30",
+              "11.11: up to 85% from Oct 21 to Nov 4, up to 90% from Nov 5 to 10 and up to 95% from Nov 11 to 13. Black Friday: up to 90% from Nov 13 to 25 and up to 95% from Nov 26 to 30"
+            ],
+            [
+              "2025",
+              "live on Nov 3, until Nov 30",
+              "up to 90% on more than 800,000 items until Nov 9, with free shipping in several categories; on Nov 24, up to 95% on more than 800,000 items"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "In 2026, 11.11 falls on a Wednesday and Black Friday on a Friday, November 27. If SHEIN repeats the pattern, the offers should start between late October and early November and run until November 30. This is an estimate based on past years, and this guide will be updated when SHEIN announces the 2026 campaign.",
+          "Over those three years, the maximum discount rose near the end: 90% on Nov 24 and 25 in 2023, 95% from Nov 26 to 30 in 2024, and 95% from Nov 24 in 2025."
+        ]
+      },
+      {
+        "heading": "“Up to 90%” is not the whole cart",
+        "paragraphs": [
+          "The campaign's percentage is the biggest discount on some items. Most of the catalogue has smaller discounts, and the price of each piece changes across the phases. To avoid falling for the big number in the ads:"
+        ],
+        "bullets": [
+          "Save the items to your wish list before the campaign starts and note today's price.",
+          "Compare the list price with the prices in the next phases: over the last three years, the maximum discount rose near the end.",
+          "Check the final price in the cart, with shipping and taxes, not just the percentage in the ad.",
+          "If the item comes in a size that is hard to find, don't wait for the last phase: the stock may run out first."
+        ]
+      },
+      {
+        "heading": "The tax on Black Friday: what changed in 2026",
+        "paragraphs": [
+          "SHEIN takes part in Remessa Conforme, the program that Brazil's Federal Revenue Service (Receita Federal) runs for international purchases. So taxes are charged at checkout, together with the order. As a rule there is no extra charge on delivery, but Brazil's Federal Revenue may reassess the package value, which changes the tax due. On May 13, 2026, Brazil's import tax on purchases up to US$ 50 was set to zero. Law 15.502/2026, of September 10, 2026, confirmed that the government can keep the zero rate for that band.",
+          "The calculation applies per order and uses the product value plus shipping, already with the discounts and the coupon. So the Black Friday discount can bring an order below US$ 50. The limit is in dollars: the checkout shows the taxes on your order before you pay."
+        ],
+        "comparisonTable": {
+          "caption": "From SHEIN Brazil's tax page, updated on May 23, 2026. ICMS of 17% applies in most states; Amapá has 18%, Pará 19%, and Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima and Sergipe have 20%.",
+          "headers": [
+            "Order (product + shipping)",
+            "Import tax",
+            "ICMS",
+            "SHEIN example, without the subsidy"
+          ],
+          "rows": [
+            [
+              "Up to US$ 50",
+              "0%",
+              "17% to 20%, depending on the state",
+              "US$ 50 becomes US$ 60.24 with 17% ICMS"
+            ],
+            [
+              "Above US$ 50",
+              "60%, minus US$ 30 off the tax amount",
+              "17% to 20%, also on the import tax",
+              "US$ 100 becomes US$ 156.63 with 17% ICMS"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SHEIN says it keeps covering part of the ICMS, only on the product value. The size of this subsidy varies from customer to customer, under criteria the store does not publish, and it does not cover the ICMS charged on the import tax.",
+          "Products shipped via **National Shipping**, which are already in Brazil, pay no import tax. And the import tax paid is not refunded if you return the item after it has been shipped."
+        ]
+      },
+      {
+        "heading": "National Shipping or international?",
+        "paragraphs": [
+          "On SHEIN, the same search mixes items that come from abroad with items from sellers already in Brazil, marked as National Shipping. On Black Friday, the difference affects the final price and the discount rules."
+        ],
+        "bullets": [
+          "**National Shipping:** no import tax. Each seller has its own shipping, deadline and conditions, and SHEIN points do not apply to these items.",
+          "**International:** goes through customs, with taxes charged at checkout. SHEIN takes 3 to 5 days to process the order before shipping, and the name on the order must match your CPF (the Brazilian taxpayer number).",
+          "**Delivery time:** the delivery time and the shipping cost appear on the order page before you pay. The order may arrive in more than one package.",
+          "**Delay:** SHEIN has a free on-time delivery service, which gives 200 SHEIN points or R$ 10 (Brazilian reais) in wallet credit if the order does not arrive by the expected date."
+        ]
+      },
+      {
+        "heading": "Coupons, points and the 4CW5Y code",
+        "paragraphs": [
+          "Under SHEIN's coupon policy, one platform coupon applies per order. If the cart has items from Brazilian sellers, you can also use that seller's store coupon: two coupons at most, one of each type. Each coupon has an expiry date, and a coupon that is not used in time becomes unavailable.",
+          "SHEIN points are worth US$ 1 for every 100 points and can take up to 30% off the product value, not counting shipping and taxes. They do not apply to items from Brazilian sellers.",
+          "The 4CW5Y is not a coupon: it is Cecília's referral code for SHEIN Brazil. You search 4CW5Y in the SHEIN app and check the conditions shown for your account. The referral code and the campaigns are SHEIN Brazil's, so they may not work in other countries. SHEIN campaigns change all the time, which is why they are kept on this site's store page, with the date they were checked."
+        ],
+        "links": [
+          {
+            "label": "See the 4CW5Y referral code and the SHEIN campaigns",
+            "href": "/en/coupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "How to pay on Black Friday",
+        "paragraphs": [
+          "SHEIN accepts Pix (Brazil's instant payment system), Brazilian credit cards in up to 6 instalments, boleto (a Brazilian bank payment slip), PayPal and Pagaleve (a buy-now-pay-later service). A boleto must be paid within 3 days, and SHEIN itself suggests a card or PayPal to avoid running out of stock or delays in confirming the payment, which matters in a promotion with short stock.",
+          "If you need a refund, Pix is the fastest: SHEIN processes it within 24 hours, and the bank takes 1 to 3 business days. On a credit card, the bank takes 3 to 8 business days, sometimes up to 30 days."
+        ]
+      },
+      {
+        "heading": "Exchanges and returns after Black Friday",
+        "bullets": [
+          "**Deadline:** up to 20 days after you receive the item, even if you just didn't like it.",
+          "**Items that only come back within 7 days:** bodysuits, beachwear, underwear, earrings and piercings, pet products, and cosmetics, party and craft items with the seal opened. These can only be returned within the 7-day withdrawal period, counted from delivery.",
+          "**Return shipping:** the first return of each order is free, by Correios (the Brazilian postal service), Jadlog or Total Express (Brazilian carriers). From the second return on, SHEIN deducts R$ 45 from the refund for each return.",
+          "**Coupon:** in a partial return, the coupon counts as used and does not go back to your account. If the order falls below the coupon's minimum value, SHEIN deducts from the refund the part of the discount that no longer applies.",
+          "**Tax:** the import tax paid is not refunded after the order has been shipped."
+        ]
+      },
+      {
+        "heading": "Before you pay: what to check",
+        "bullets": [
+          "Whether the item is National Shipping or international.",
+          "Whether the international order stays at US$ 50 or less, counting shipping and with discounts applied.",
+          "How much ICMS appears in the order summary.",
+          "Whether the coupon was applied and whether the points were deducted.",
+          "The delivery time, if the purchase is a Christmas gift.",
+          "Whether the item is one of those that can only be returned within 7 days."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "When does SHEIN's Black Friday start in 2026? SHEIN has not announced it yet. In 2024 the offers started on October 21, together with 11.11, and in 2025 they were already live on November 3. Black Friday 2026 is on November 27.",
+          "Until when does SHEIN's Black Friday run? In 2024 and 2025, until November 30. In 2023, until November 25, the Saturday after Black Friday.",
+          "What is SHEIN's 11.11? It is the Singles' Day sale, on November 11. SHEIN puts 11.11 and Black Friday into one campaign, with discount phases until the end of the month.",
+          "Are there taxes on SHEIN purchases on Black Friday? Yes: ICMS, of 17% to 20% depending on the state, applies to every international purchase. Brazil's import tax is zero on orders up to US$ 50, and above that it is 60%, minus US$ 30 off the tax amount.",
+          "Does SHEIN's zero import tax apply to any purchase? It applies to an international order up to US$ 50, counting product and shipping, already with discounts. Above that, the import tax comes back.",
+          "Do National Shipping products pay import tax? No. National Shipping products are already in Brazil and do not pay import tax.",
+          "Can I use more than one coupon on SHEIN? One SHEIN coupon per order. If the cart has items from Brazilian sellers, you can add that seller's store coupon.",
+          "Is 4CW5Y a discount coupon? No. It is Cecília's referral code for SHEIN Brazil: you search 4CW5Y in the SHEIN app and see the conditions for your account.",
+          "Is there free shipping on SHEIN's Black Friday? In recent years it has appeared at some moments of the campaign: 48 hours in 2023, and free shipping in several categories at the start of the 2025 campaign. Your order's shipping appears in the cart.",
+          "How long do I have to return what I bought on Black Friday? Up to 20 days after you receive it. Underwear, beachwear, bodysuits, earrings and some other items can only be returned within 7 days."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Build your cart on SHEIN and check the taxes in the order summary before you pay",
+      "label": "Go to SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Rules from SHEIN Brazil's official pages and Law 15.502/2026. We may earn a commission on purchases.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-black-friday-dates-coupons",
+        "title": "YesStyle Black Friday 2026: when it starts, how the coupons work and where the CECILIA010 code goes"
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "slug": "black-friday-shein-fechas-impuestos",
+    "locale": "es",
+    "translationKey": "shein-black-friday",
+    "title": "Black Friday SHEIN Brasil 2026: cuándo empieza, cuándo termina y el impuesto de importación cero hasta US$ 50",
+    "seoTitle": "Black Friday SHEIN 2026 Brasil: fechas, impuestos y cupones",
+    "type": "Guía de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Cuándo empieza y termina el Black Friday de SHEIN Brasil, el calendario de 2023 a 2025, qué cambia con el impuesto de importación cero en pedidos de hasta US$ 50, envío nacional o internacional, cupones, puntos, pago y devolución.",
+    "metaDescription": "Black Friday SHEIN Brasil 2026: calendario 2023-2025, impuesto de importación cero hasta US$ 50 y el ICMS que sigue, envío nacional, cupones, puntos y devoluciones.",
+    "publishedAt": "11 de octubre de 2026",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "Cecília Mauad en dos looks de un haul de SHEIN: una blusa clara anudada en la cintura con falda midi negra, y un vestido largo negro con paneles claros.",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Desde el 13 de mayo de 2026, los pedidos internacionales de hasta US$ 50 no pagan el impuesto de importación de Brasil",
+      "En los últimos tres años, las ofertas empezaron antes del Black Friday y siguieron después de él",
+      "Los productos de envío nacional (Envio Nacional) no pagan impuesto de importación, porque ya están en Brasil",
+      "Devolución en hasta 20 días, y la primera devolución de cada pedido es gratis"
+    ],
+    "cons": [
+      "El “hasta 90%” vale para algunos artículos, no para todo el carrito",
+      "El ICMS, el impuesto estatal brasileño (17% a 20%), sigue vigente en toda compra internacional",
+      "Por encima de US$ 50, vuelve el impuesto de importación: 60%, menos US$ 30 en el valor del impuesto",
+      "Un cupón de SHEIN por pedido, y el impuesto pagado no vuelve con la devolución"
+    ],
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Esta guía trata de SHEIN Brasil (el sitio y la app brasileños), y sus fechas, impuestos, precios y reglas pueden ser distintos en otros países. SHEIN todavía no anunció el Black Friday de 2026. En los últimos tres años, las ofertas empezaron antes de la fecha, junto con el 11.11 (la campaña del Día de los Solteros), y terminaron después de él: el 25/11 en 2023 y el 30/11 en 2024 y 2025. En 2026, el Black Friday cae el 27 de noviembre.",
+          "El gran cambio de este año es el impuesto. Desde el 13 de mayo de 2026, un pedido internacional de hasta **US$ 50** (producto más envío, ya con los descuentos) no paga impuesto de importación. El ICMS del estado, de 17% a 20%, sigue vigente, y SHEIN dice que cubre una parte. Por encima de US$ 50, el impuesto de importación vuelve.",
+          "Vale un cupón de SHEIN por pedido. El 4CW5Y es el código de referido de Cecília para SHEIN Brasil: busca el código en la app de SHEIN y revisa las condiciones que aparecen para tu cuenta. El código de referido y las campañas son de SHEIN Brasil, así que pueden no funcionar en otros países."
+        ]
+      },
+      {
+        "heading": "Cuándo empieza el Black Friday de SHEIN",
+        "paragraphs": [
+          "SHEIN junta el 11.11 y el Black Friday en una sola campaña, con fases que suben el descuento máximo hasta fin de mes. La tabla de abajo reúne lo que SHEIN anunció en los últimos tres años. El calendario de 2026 todavía no salió."
+        ],
+        "comparisonTable": {
+          "caption": "Fases y descuentos máximos anunciados por SHEIN Brasil, por la prensa que publicó los comunicados y por los perfiles de la marca. El “hasta” vale para algunos artículos.",
+          "headers": [
+            "Año",
+            "Inicio y fin",
+            "Descuento máximo anunciado"
+          ],
+          "rows": [
+            [
+              "2023",
+              "del 11/11 al 25/11",
+              "hasta 80% del 11 al 19/11, hasta 85% del 20 al 23/11 y hasta 90% el 24 y el 25/11, con 48 horas de envío gratis en la semana del Black Friday"
+            ],
+            [
+              "2024",
+              "del 21/10 al 30/11",
+              "11.11: hasta 85% del 21/10 al 4/11, hasta 90% del 5 al 10/11 y hasta 95% del 11 al 13/11. Black Friday: hasta 90% del 13 al 25/11 y hasta 95% del 26 al 30/11"
+            ],
+            [
+              "2025",
+              "ya activa desde el 3/11, hasta el 30/11",
+              "hasta 90% en más de 800.000 artículos hasta el 9/11, con envío gratis en varias categorías; el 24/11, hasta 95% en más de 800.000 artículos"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "En 2026, el 11.11 cae en miércoles y el Black Friday en viernes, 27 de noviembre. Si SHEIN repite el patrón, las ofertas deberían empezar entre finales de octubre y principios de noviembre, y llegar hasta el 30 de noviembre. Es una estimación según el historial, y esta guía se actualizará cuando SHEIN anuncie la campaña de 2026.",
+          "En esos tres años, el descuento máximo subió hacia el final: 90% el 24 y el 25/11 de 2023, 95% del 26 al 30/11 de 2024 y 95% desde el 24/11 de 2025."
+        ]
+      },
+      {
+        "heading": "“Hasta 90%” no es todo el carrito",
+        "paragraphs": [
+          "El porcentaje de la campaña es el mayor descuento de algunos artículos. La mayor parte del catálogo tiene descuentos menores, y el precio de cada prenda cambia a lo largo de las fases. Para no caer en el número grande de la publicidad:"
+        ],
+        "bullets": [
+          "Guarda las prendas en la lista de deseos antes de que empiece la campaña y anota el precio de ahora.",
+          "Compara el precio de la lista con el de las fases siguientes: en los últimos tres años, el descuento máximo subió hacia el final.",
+          "Mira el precio final en el carrito, con envío e impuestos, y no solo el porcentaje del anuncio.",
+          "Si la prenda es de una talla difícil de encontrar, no esperes a la última fase: el stock puede agotarse antes."
+        ]
+      },
+      {
+        "heading": "El impuesto en el Black Friday: qué cambió en 2026",
+        "paragraphs": [
+          "SHEIN participa en Remessa Conforme, el programa de la Receita Federal brasileña (el servicio tributario federal de Brasil) para compras internacionales. Por eso, los impuestos se cobran en el checkout, junto con el pedido. En regla general no hay cobro extra en la entrega, pero la Receita Federal puede reevaluar el valor del paquete, y eso cambia el impuesto que se debe. El 13 de mayo de 2026, el impuesto de importación de Brasil sobre compras de hasta US$ 50 se puso en cero. La Ley 15.502/2026, del 10 de septiembre de 2026, confirmó que el gobierno puede mantener la tasa cero en ese tramo.",
+          "El cálculo se hace por pedido y usa el valor del producto más el envío, ya con los descuentos y el cupón. O sea, el descuento del Black Friday puede dejar un pedido por debajo de US$ 50. El límite es en dólares: el checkout muestra los impuestos de tu pedido antes del pago."
+        ],
+        "comparisonTable": {
+          "caption": "Según la página de impuestos de SHEIN Brasil, actualizada el 23/05/2026. El ICMS de 17% vale para la mayoría de los estados; Amapá tiene 18%, Pará 19%, y Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima y Sergipe tienen 20%.",
+          "headers": [
+            "Pedido (producto + envío)",
+            "Impuesto de importación",
+            "ICMS",
+            "Ejemplo de SHEIN, sin el subsidio"
+          ],
+          "rows": [
+            [
+              "Hasta US$ 50",
+              "0%",
+              "17% a 20%, según el estado",
+              "US$ 50 pasan a ser US$ 60,24 con ICMS de 17%"
+            ],
+            [
+              "Por encima de US$ 50",
+              "60%, menos US$ 30 en el valor del impuesto",
+              "17% a 20%, también sobre el impuesto de importación",
+              "US$ 100 pasan a ser US$ 156,63 con ICMS de 17%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SHEIN dice que sigue cubriendo una parte del ICMS, solo sobre el valor del producto. El tamaño de ese subsidio cambia de cliente a cliente, según criterios que la tienda no divulga, y no cubre el ICMS que recae sobre el impuesto de importación.",
+          "Los productos de **envío nacional**, que ya están en Brasil, no pagan impuesto de importación. Y el impuesto de importación pagado no vuelve si devuelves la prenda después del envío."
+        ]
+      },
+      {
+        "heading": "¿Envío nacional o internacional?",
+        "paragraphs": [
+          "En SHEIN, una misma búsqueda mezcla productos que vienen del extranjero y productos de vendedores que ya están en Brasil, marcados como envío nacional. En el Black Friday, la diferencia pesa en el precio final y en las reglas de descuento."
+        ],
+        "bullets": [
+          "**Envío nacional:** sin impuesto de importación. Cada vendedor tiene su propio envío, plazo y condiciones, y los puntos SHEIN no valen en esos artículos.",
+          "**Internacional:** pasa por la aduana, con los impuestos cobrados en el checkout. SHEIN tarda de 3 a 5 días en procesar el pedido antes del envío, y el nombre del pedido debe coincidir con tu CPF (el número de contribuyente brasileño).",
+          "**Plazo:** el plazo de entrega y el costo del envío aparecen en la página del pedido antes de pagar. El pedido puede llegar en más de un paquete.",
+          "**Retraso:** SHEIN tiene un servicio gratuito de entrega puntual, que da 200 puntos SHEIN o R$ 10 (reales brasileños) de saldo en tu cuenta si el pedido no llega en la fecha prevista."
+        ]
+      },
+      {
+        "heading": "Cupones, puntos y el código 4CW5Y",
+        "paragraphs": [
+          "Según la política de cupones de SHEIN, vale un cupón de la plataforma por pedido. Si el carrito tiene productos de vendedores brasileños, también puedes usar el cupón de la tienda de ese vendedor: como máximo dos cupones, uno de cada tipo. Cada cupón tiene vencimiento, y el que no se usó a tiempo deja de estar disponible.",
+          "Los puntos SHEIN valen US$ 1 por cada 100 puntos y pueden restar hasta 30% del valor de los productos, sin contar el envío ni los impuestos. No valen en artículos de vendedores brasileños.",
+          "El 4CW5Y no es un cupón: es el código de referido de Cecília para SHEIN Brasil. Busca 4CW5Y en la app de SHEIN y revisa las condiciones que aparecen para tu cuenta. El código de referido y las campañas son de SHEIN Brasil, así que pueden no funcionar en otros países. Las campañas de SHEIN cambian todo el tiempo, por eso están en la página de la tienda de este sitio, con la fecha en que se revisaron."
+        ],
+        "links": [
+          {
+            "label": "Ver el código de referido 4CW5Y y las campañas de SHEIN",
+            "href": "/es/coupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "Cómo pagar en el Black Friday",
+        "paragraphs": [
+          "SHEIN acepta Pix (el sistema brasileño de pagos instantáneos), tarjeta de crédito brasileña en hasta 6 cuotas, boleto (un comprobante de pago bancario brasileño), PayPal y Pagaleve (un servicio de compra ahora y pago después). El boleto debe pagarse en hasta 3 días, y la propia SHEIN sugiere tarjeta o PayPal para evitar que falte stock o que se retrase la confirmación del pago, algo que pesa en una promoción con stock limitado.",
+          "Si necesitas un reembolso, el Pix es lo más rápido: SHEIN lo procesa en hasta 24 horas, y el banco tarda de 1 a 3 días hábiles. En la tarjeta de crédito, el banco tarda de 3 a 8 días hábiles, a veces hasta 30 días."
+        ]
+      },
+      {
+        "heading": "Cambios y devoluciones después del Black Friday",
+        "bullets": [
+          "**Plazo:** hasta 20 días después de recibirlo, aunque solo no te haya gustado la prenda.",
+          "**Artículos que solo se devuelven en 7 días:** bodies, ropa de playa, ropa interior, aretes y piercings, productos para mascotas, y cosméticos, artículos de fiesta y de manualidades con el precinto abierto. Estos solo pueden devolverse dentro del plazo de desistimiento de 7 días, contado desde la entrega.",
+          "**Envío de la devolución:** la primera devolución de cada pedido es gratis, por Correios (el servicio postal brasileño), Jadlog o Total Express (empresas de transporte brasileñas). A partir de la segunda, SHEIN descuenta R$ 45 del reembolso en cada devolución.",
+          "**Cupón:** en una devolución parcial, el cupón cuenta como usado y no vuelve a tu cuenta. Si el pedido queda por debajo del valor mínimo del cupón, SHEIN descuenta del reembolso la parte del descuento que dejó de valer.",
+          "**Impuesto:** el impuesto de importación pagado no se devuelve después de que el pedido fue enviado."
+        ]
+      },
+      {
+        "heading": "Antes de pagar: qué revisar",
+        "bullets": [
+          "Si el producto es de envío nacional o internacional.",
+          "Si el pedido internacional queda en US$ 50 o menos, contando el envío y ya con los descuentos.",
+          "Cuánto dio el ICMS en el resumen del pedido.",
+          "Si el cupón se aplicó y si se descontaron los puntos.",
+          "El plazo de entrega, si la compra es un regalo de Navidad.",
+          "Si la prenda es de las que solo pueden devolverse en 7 días."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Cuándo empieza el Black Friday de SHEIN en 2026? SHEIN todavía no lo anunció. En 2024, las ofertas empezaron el 21 de octubre, junto con el 11.11, y en 2025 ya estaban activas el 3 de noviembre. El Black Friday de 2026 es el 27 de noviembre.",
+          "¿Hasta cuándo dura el Black Friday de SHEIN? En 2024 y 2025, hasta el 30 de noviembre. En 2023, hasta el 25 de noviembre, el sábado después del Black Friday.",
+          "¿Qué es el 11.11 de SHEIN? Es la campaña del Día de los Solteros, el 11 de noviembre. SHEIN junta el 11.11 y el Black Friday en una sola campaña, con fases de descuento hasta fin de mes.",
+          "¿Hay impuestos en las compras de SHEIN en el Black Friday? Sí: el ICMS, de 17% a 20% según el estado, se aplica a toda compra internacional. El impuesto de importación es cero en pedidos de hasta US$ 50, y del 60% por encima de eso, menos US$ 30 en el valor del impuesto.",
+          "¿El impuesto de importación cero de SHEIN vale para cualquier compra? Vale para un pedido internacional de hasta US$ 50, contando producto y envío, ya con los descuentos. Por encima de eso, el impuesto de importación vuelve.",
+          "¿Un producto de envío nacional paga impuesto de importación? No. Los productos de envío nacional ya están en Brasil y no pagan impuesto de importación.",
+          "¿Puedo usar más de un cupón en SHEIN? Un cupón de SHEIN por pedido. Si el carrito tiene productos de vendedores brasileños, puedes sumar el cupón de la tienda de ese vendedor.",
+          "¿El 4CW5Y da descuento? No. Es el código de referido de Cecília para SHEIN Brasil: buscas el código en la app de SHEIN y ves las condiciones para tu cuenta.",
+          "¿Hay envío gratis en el Black Friday de SHEIN? En los últimos años, hubo en algunos momentos de la campaña: 48 horas en 2023 y envío gratis en varias categorías al inicio de la campaña de 2025. El envío de tu pedido aparece en el carrito.",
+          "¿Cuánto tiempo tengo para devolver lo que compré en el Black Friday? Hasta 20 días después de recibirlo. La ropa interior, la ropa de playa, los bodies, los aretes y algunos otros artículos solo pueden devolverse en el plazo de 7 días."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Arma tu carrito en SHEIN y revisa el impuesto en el resumen del pedido antes de pagar",
+      "label": "Ir a SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Reglas oficiales de SHEIN Brasil y de la Ley 15.502/2026. Podemos recibir comisión por las compras.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-yesstyle-fechas-cupones",
+        "title": "Black Friday YesStyle 2026: cuándo empieza, cómo funcionan los cupones y dónde va el código CECILIA010"
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "slug": "black-friday-shein-dates-et-taxes",
+    "locale": "fr",
+    "translationKey": "shein-black-friday",
+    "title": "Black Friday SHEIN Brésil 2026 : quand il commence, jusqu'à quand et la taxe d'importation nulle jusqu'à US$ 50",
+    "seoTitle": "Black Friday SHEIN 2026 Brésil : dates, taxes et coupons",
+    "type": "Guide Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quand commence et finit le Black Friday de SHEIN Brésil, le calendrier de 2023 à 2025, ce qui change avec la taxe d'importation nulle sur les commandes jusqu'à US$ 50, la livraison nationale ou internationale, les coupons, les points, le paiement et les retours.",
+    "metaDescription": "Black Friday SHEIN Brésil 2026 : calendrier 2023-2025, taxe d'importation nulle jusqu'à US$ 50, ICMS qui reste, livraison nationale, coupons, points et retours.",
+    "publishedAt": "11 octobre 2026",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "Cecília Mauad dans deux looks d'un haul SHEIN : un chemisier clair noué à la taille avec une jupe midi noire, et une longue robe noire avec des empiècements clairs",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Depuis le 13 mai 2026, les commandes internationales jusqu'à US$ 50 sont exemptées de la taxe d'importation brésilienne",
+      "Ces trois dernières années, les offres ont commencé avant le Black Friday et se sont poursuivies après lui",
+      "Les produits en livraison nationale (Envio Nacional) ne paient pas la taxe d'importation, car ils sont déjà au Brésil",
+      "Retours sous 20 jours, et le premier retour de chaque commande est gratuit"
+    ],
+    "cons": [
+      "Le « jusqu'à 90 % » ne vaut que pour certains articles, pas pour tout le panier",
+      "L'ICMS, la taxe d'État brésilienne (17 % à 20 %), reste due sur chaque achat international",
+      "Au-delà de US$ 50, la taxe d'importation revient : 60 %, moins US$ 30 sur le montant de la taxe",
+      "Un coupon SHEIN par commande, et la taxe d'importation payée n'est pas remboursée lors d'un retour"
+    ],
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Ce guide porte sur SHEIN Brésil (le site et l'appli brésiliens), et ses dates, taxes, prix et règles peuvent différer dans les autres pays. SHEIN n'a pas encore annoncé le Black Friday 2026. Ces trois dernières années, les offres ont commencé avant la date, en même temps que le 11.11 (la vente de la Journée des célibataires), et se sont terminées après le Black Friday : le 25/11 en 2023, puis le 30/11 en 2024 et 2025. En 2026, le Black Friday tombe le 27 novembre.",
+          "Le grand changement de cette année, c'est la taxe. Depuis le 13 mai 2026, une commande internationale allant jusqu'à **US$ 50** (produit plus livraison, déjà avec les réductions) ne paie pas la taxe d'importation. L'ICMS de l'État, de 17 % à 20 %, reste dû, et SHEIN dit en couvrir une partie. Au-delà de US$ 50, la taxe d'importation revient.",
+          "Il n'y a qu'un coupon SHEIN par commande. Le 4CW5Y est le code de parrainage de Cecília pour SHEIN Brésil : vous le recherchez dans l'appli SHEIN et vérifiez les conditions affichées pour votre compte. Le code de parrainage et les campagnes sont de SHEIN Brésil, et peuvent donc ne pas fonctionner dans les autres pays."
+        ]
+      },
+      {
+        "heading": "Quand commence le Black Friday de SHEIN",
+        "paragraphs": [
+          "SHEIN réunit le 11.11 et le Black Friday dans une seule campagne, avec des phases qui relèvent la réduction maximale jusqu'à la fin du mois. Le tableau ci-dessous rassemble ce que SHEIN a annoncé ces trois dernières années. Le calendrier 2026 n'est pas encore publié."
+        ],
+        "comparisonTable": {
+          "caption": "Phases et réductions maximales annoncées par SHEIN Brésil, par la presse qui a publié les communiqués et par les profils de la marque. Le « jusqu'à » ne vaut que pour certains articles.",
+          "headers": [
+            "Année",
+            "Début et fin",
+            "Réduction maximale annoncée"
+          ],
+          "rows": [
+            [
+              "2023",
+              "du 11/11 au 25/11",
+              "jusqu'à 80 % du 11 au 19/11, jusqu'à 85 % du 20 au 23/11 et jusqu'à 90 % les 24 et 25/11, avec 48 heures de livraison gratuite pendant la semaine du Black Friday"
+            ],
+            [
+              "2024",
+              "du 21/10 au 30/11",
+              "11.11 : jusqu'à 85 % du 21/10 au 4/11, jusqu'à 90 % du 5 au 10/11 et jusqu'à 95 % du 11 au 13/11. Black Friday : jusqu'à 90 % du 13 au 25/11 et jusqu'à 95 % du 26 au 30/11"
+            ],
+            [
+              "2025",
+              "en ligne dès le 3/11, jusqu'au 30/11",
+              "jusqu'à 90 % sur plus de 800 000 articles jusqu'au 9/11, avec livraison gratuite dans plusieurs catégories ; le 24/11, jusqu'à 95 % sur plus de 800 000 articles"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "En 2026, le 11.11 tombe un mercredi et le Black Friday un vendredi, le 27 novembre. Si SHEIN reprend le même schéma, les offres devraient commencer entre fin octobre et début novembre, et aller jusqu'au 30 novembre. C'est une estimation fondée sur l'historique, et ce guide sera mis à jour quand SHEIN annoncera la campagne 2026.",
+          "Pendant ces trois ans, la réduction maximale a augmenté vers la fin : 90 % les 24 et 25/11 de 2023, 95 % du 26 au 30/11 de 2024, et 95 % à partir du 24/11 de 2025."
+        ]
+      },
+      {
+        "heading": "« Jusqu'à 90 % » ne vaut pas pour tout le panier",
+        "paragraphs": [
+          "La réduction de la campagne est la plus forte pour certains articles. La plupart du catalogue a des réductions plus faibles, et le prix de chaque pièce change d'une phase à l'autre. Pour ne pas vous laisser prendre par le gros chiffre de la publicité :"
+        ],
+        "bullets": [
+          "Mettez les pièces dans votre liste de souhaits avant le début de la campagne et notez le prix actuel.",
+          "Comparez le prix de la liste avec celui des phases suivantes : ces trois dernières années, la réduction maximale a augmenté vers la fin.",
+          "Regardez le prix final dans le panier, livraison et taxes comprises, et pas seulement le pourcentage de la publicité.",
+          "Si la pièce est dans une taille difficile à trouver, n'attendez pas la dernière phase : le stock peut s'épuiser avant."
+        ]
+      },
+      {
+        "heading": "La taxe pendant le Black Friday : ce qui a changé en 2026",
+        "paragraphs": [
+          "SHEIN participe à Remessa Conforme, le programme de la Receita Federal, le fisc fédéral brésilien, pour les achats internationaux. Les taxes sont donc prélevées au paiement, avec la commande. En règle générale, il n'y a pas de frais supplémentaires à la livraison, mais la Receita Federal peut réévaluer la valeur du colis, ce qui change la taxe due. Le 13 mai 2026, la taxe d'importation brésilienne sur les achats jusqu'à US$ 50 a été ramenée à zéro. La loi 15.502, du 10 septembre 2026, a confirmé que le gouvernement peut maintenir ce taux nul pour cette tranche.",
+          "Le calcul se fait par commande, sur la valeur du produit plus la livraison, déjà avec les réductions et le coupon. Autrement dit, la réduction du Black Friday peut faire passer une commande sous US$ 50. La limite est en dollars : la page de paiement affiche les taxes de votre commande avant le règlement."
+        ],
+        "comparisonTable": {
+          "caption": "D'après la page des taxes de SHEIN Brésil, mise à jour le 23/05/2026. L'ICMS de 17 % s'applique à la plupart des États ; l'Amapá a 18 %, le Pará 19 %, et l'Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima et Sergipe ont 20 %.",
+          "headers": [
+            "Commande (produit + livraison)",
+            "Taxe d'importation",
+            "ICMS",
+            "Exemple SHEIN, sans la subvention"
+          ],
+          "rows": [
+            [
+              "Jusqu'à US$ 50",
+              "0 %",
+              "17 % à 20 %, selon l'État",
+              "US$ 50 deviennent US$ 60,24 avec l'ICMS à 17 %"
+            ],
+            [
+              "Au-delà de US$ 50",
+              "60 %, moins US$ 30 sur le montant de la taxe",
+              "17 % à 20 %, aussi sur la taxe d'importation",
+              "US$ 100 deviennent US$ 156,63 avec l'ICMS à 17 %"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SHEIN dit continuer à couvrir une partie de l'ICMS, seulement sur la valeur du produit. Le montant de cette prise en charge varie d'un client à l'autre, selon des critères que la boutique ne publie pas, et elle ne couvre pas l'ICMS qui porte sur la taxe d'importation.",
+          "Les produits en **livraison nationale**, déjà présents au Brésil, ne paient pas la taxe d'importation. Et la taxe d'importation payée n'est pas remboursée si vous renvoyez l'article après l'expédition."
+        ]
+      },
+      {
+        "heading": "Livraison nationale ou internationale ?",
+        "paragraphs": [
+          "Sur SHEIN, une même recherche mélange des produits venus de l'étranger et des produits de vendeurs déjà installés au Brésil, marqués « livraison nationale ». Pendant le Black Friday, la différence pèse sur le prix final et sur les règles de réduction."
+        ],
+        "bullets": [
+          "**Livraison nationale :** pas de taxe d'importation. Chaque vendeur a sa propre livraison, ses délais et ses conditions, et les points SHEIN ne valent pas sur ces articles.",
+          "**Internationale :** passe par la douane, avec les taxes prélevées au paiement. SHEIN met de 3 à 5 jours à préparer la commande avant l'expédition, et le nom sur la commande doit correspondre à votre CPF (le numéro de contribuable brésilien).",
+          "**Délai :** le délai de livraison et les frais de port apparaissent sur la page de commande avant le paiement. La commande peut arriver en plusieurs colis.",
+          "**Retard :** SHEIN propose un service gratuit de livraison à l'heure, qui donne 200 points SHEIN ou R$ 10 (réais brésiliens) de crédit sur le portefeuille si la commande n'arrive pas à la date prévue."
+        ]
+      },
+      {
+        "heading": "Coupons, points et le code 4CW5Y",
+        "paragraphs": [
+          "Selon la politique de coupons de SHEIN, un seul coupon de la plateforme est valable par commande. Si le panier contient des produits de vendeurs brésiliens, vous pouvez aussi utiliser le coupon de la boutique de ce vendeur : deux coupons au maximum, un de chaque type. Chaque coupon a une date de validité, et celui qui n'a pas été utilisé à temps n'est plus disponible.",
+          "Les points SHEIN valent US$ 1 pour 100 points et peuvent réduire jusqu'à 30 % de la valeur des produits, hors livraison et taxes. Ils ne valent pas sur les articles des vendeurs brésiliens.",
+          "Le 4CW5Y n'est pas un coupon : c'est le code de parrainage de Cecília. Recherchez 4CW5Y dans l'appli SHEIN et vérifiez les conditions affichées pour votre compte. Le code de parrainage et les campagnes sont de SHEIN Brésil, et peuvent donc ne pas fonctionner dans d'autres pays. Les campagnes SHEIN changent sans arrêt : elles sont donc sur la page de la boutique de ce site, avec la date de la dernière vérification."
+        ],
+        "links": [
+          {
+            "label": "Voir le code de parrainage 4CW5Y et les campagnes SHEIN",
+            "href": "/fr/coupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "Comment payer pendant le Black Friday",
+        "paragraphs": [
+          "SHEIN accepte le Pix (le système brésilien de paiement instantané), les cartes de crédit brésiliennes, en 6 fois maximum, le boleto (un bon de paiement bancaire brésilien), PayPal et Pagaleve (un service de paiement différé). Le boleto doit être payé dans un délai de 3 jours. SHEIN recommande elle-même la carte ou PayPal pour éviter une rupture de stock ou un retard de confirmation du paiement, ce qui compte dans une promotion au stock limité.",
+          "Si vous avez besoin d'un remboursement, le Pix est le plus rapide : SHEIN le traite sous 24 heures, puis la banque met de 1 à 3 jours ouvrés. Avec la carte de crédit, la banque met de 3 à 8 jours ouvrés, parfois jusqu'à 30 jours."
+        ]
+      },
+      {
+        "heading": "Échanges et retours après le Black Friday",
+        "bullets": [
+          "**Délai :** jusqu'à 20 jours après réception, même si l'article ne vous a pas plu.",
+          "**Articles qui ne se retournent que sous 7 jours :** bodies, maillots de bain, sous-vêtements, boucles d'oreilles et piercings, produits pour animaux, ainsi que cosmétiques, articles de fête et d'artisanat dont le scellé est ouvert. Ceux-ci ne peuvent être retournés que pendant le délai de rétractation de 7 jours, compté à partir de la livraison.",
+          "**Frais de retour :** le premier retour de chaque commande est gratuit, par les Correios (le service postal brésilien), Jadlog ou Total Express (transporteurs brésiliens). À partir du deuxième retour, SHEIN retient R$ 45 sur le remboursement à chaque retour.",
+          "**Coupon :** en cas de retour partiel, le coupon compte comme utilisé et ne revient pas sur votre compte. Si la commande descend sous le montant minimum du coupon, SHEIN retire du remboursement la partie de la réduction qui ne vaut plus.",
+          "**Taxe :** la taxe d'importation payée n'est pas remboursée une fois la commande expédiée."
+        ]
+      },
+      {
+        "heading": "Avant de payer : ce qu'il faut vérifier",
+        "bullets": [
+          "Si le produit est en livraison nationale ou internationale.",
+          "Si la commande internationale reste à US$ 50 ou moins, livraison comprise et réductions déduites.",
+          "Le montant de l'ICMS dans le récapitulatif de la commande.",
+          "Si le coupon a été appliqué et si les points ont été déduits.",
+          "Le délai de livraison, si l'achat est un cadeau de Noël.",
+          "Si l'article fait partie de ceux qui ne se retournent que sous 7 jours."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Quand commence le Black Friday de SHEIN en 2026 ? SHEIN ne l'a pas encore annoncé. En 2024, les offres ont commencé le 21 octobre, en même temps que le 11.11, et en 2025 elles étaient déjà en ligne le 3 novembre. Le Black Friday 2026 tombe le 27 novembre.",
+          "Jusqu'à quand dure le Black Friday de SHEIN ? En 2024 et 2025, jusqu'au 30 novembre. En 2023, jusqu'au 25 novembre, le samedi suivant le Black Friday.",
+          "Qu'est-ce que le 11.11 de SHEIN ? C'est la vente de la Journée des célibataires, le 11 novembre. SHEIN réunit le 11.11 et le Black Friday dans une seule campagne, avec des phases de réduction jusqu'à la fin du mois.",
+          "Y a-t-il des taxes sur les achats SHEIN pendant le Black Friday ? Oui : l'ICMS, de 17 % à 20 % selon l'État, s'applique à tout achat international. La taxe d'importation est nulle pour les commandes jusqu'à US$ 50 et, au-delà, de 60 %, moins US$ 30 sur le montant de la taxe.",
+          "La taxe d'importation nulle de SHEIN vaut-elle pour tous les achats ? Elle vaut pour une commande internationale allant jusqu'à US$ 50, produit et livraison compris, déjà avec les réductions. Au-delà, la taxe d'importation revient.",
+          "Un produit en livraison nationale paie-t-il la taxe d'importation ? Non. Les produits en livraison nationale sont déjà au Brésil et ne paient pas la taxe d'importation.",
+          "Peut-on utiliser plusieurs coupons sur SHEIN ? Un seul coupon SHEIN par commande. Si le panier contient des produits de vendeurs brésiliens, vous pouvez ajouter le coupon de la boutique de ce vendeur.",
+          "Le 4CW5Y est-il un coupon de réduction ? Non. C'est le code de parrainage de Cecília pour SHEIN Brésil : vous recherchez le code dans l'appli SHEIN et voyez les conditions pour votre compte.",
+          "La livraison est-elle gratuite pendant le Black Friday de SHEIN ? Ces dernières années, elle l'a été à certains moments : 48 heures en 2023, et la livraison gratuite dans plusieurs catégories au début de la campagne 2025. Les frais de livraison de votre commande apparaissent dans le panier.",
+          "Combien de temps ai-je pour retourner ce que j'ai acheté pendant le Black Friday ? Jusqu'à 20 jours après réception. Les sous-vêtements, les maillots de bain, les bodies, les boucles d'oreilles et quelques autres articles ne se retournent que sous 7 jours."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Composez votre panier sur SHEIN et vérifiez les taxes dans le récapitulatif avant de payer",
+      "label": "Aller sur SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Règles des pages officielles de SHEIN Brésil et de la loi 15.502/2026. Nous pouvons toucher une commission.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-yesstyle-dates-et-coupons",
+        "title": "Black Friday YesStyle 2026 : quand il commence, comment fonctionnent les coupons et où saisir le code CECILIA010"
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "slug": "shein-black-friday-termine-steuern",
+    "locale": "de",
+    "translationKey": "shein-black-friday",
+    "title": "Black Friday SHEIN 2026: Beginn, Ende und Einfuhrsteuer null bis US$ 50",
+    "seoTitle": "SHEIN Black Friday 2026: Termine, Steuern, Gutscheine",
+    "type": "Black-Friday-Ratgeber",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Wann der Black Friday bei SHEIN beginnt und endet, der Kalender von 2023 bis 2025, was sich bei der Einfuhrsteuer für Bestellungen bis US$ 50 ändert, Inlandsversand oder internationaler Versand, Gutscheine, Punkte, Zahlung und Rückgabe.",
+    "metaDescription": "SHEIN Black Friday 2026: Kalender von 2023 bis 2025, Einfuhrsteuer null bis US$ 50, ICMS-Steuer, Inlandsversand, Gutscheine, Punkte und Rückgabe.",
+    "publishedAt": "11. Oktober 2026",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "Cecília Mauad in zwei Looks aus einem SHEIN-Haul: eine helle Bluse, in der Taille gebunden, mit schwarzem Midirock, und ein langes schwarzes Kleid mit hellen Einsätzen.",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Seit dem 13. Mai 2026 fällt bei Bestellungen bis US$ 50 keine Einfuhrsteuer an",
+      "In den letzten drei Jahren begannen die Angebote vor dem Black Friday und liefen danach weiter",
+      "Produkte mit Inlandsversand (Envio Nacional) zahlen keine Einfuhrsteuer",
+      "Rückgabe innerhalb von 20 Tagen, und die erste Rücksendung jeder Bestellung ist kostenlos"
+    ],
+    "cons": [
+      "„Bis zu 90 %“ gilt für einige Artikel, nicht für den ganzen Warenkorb",
+      "ICMS-Steuer, die brasilianische Landessteuer von 17 % bis 20 %, bleibt bei jedem internationalen Kauf",
+      "Über US$ 50 kommt die brasilianische Einfuhrsteuer zurück: 60 %, abzüglich US$ 30 vom Steuerbetrag",
+      "Ein SHEIN-Gutschein pro Bestellung, und die bezahlte Einfuhrsteuer kommt bei einer Rückgabe nicht zurück"
+    ],
+    "contentSections": [
+      {
+        "heading": "Die Antwort in Kürze",
+        "paragraphs": [
+          "SHEIN hat den Black Friday 2026 noch nicht angekündigt. In den letzten drei Jahren begannen die Angebote vor dem Black Friday, zusammen mit dem 11.11., dem Singles'-Day-Sale, und endeten danach: am 25.11. im Jahr 2023 und am 30.11. in den Jahren 2024 und 2025. Im Jahr 2026 fällt der Black Friday auf den 27. November. Dieser Leitfaden gilt für SHEIN Brasilien (Website und App), und Termine, Steuern, Preise und Regeln können in anderen Ländern abweichen.",
+          "Die große Neuerung in diesem Jahr betrifft die Steuer. Seit dem 13. Mai 2026 zahlt eine internationale Bestellung bis **US$ 50** (Produkt plus Versand, schon mit Rabatten) keine brasilianische Einfuhrsteuer. Die ICMS-Steuer der Bundesstaaten (17 % bis 20 %) bleibt bestehen, und SHEIN sagt, dass das Unternehmen einen Teil davon übernimmt. Über US$ 50 kommt die Einfuhrsteuer zurück.",
+          "Pro Bestellung gilt ein SHEIN-Gutschein. Sie suchen den Empfehlungscode 4CW5Y von Cecília in der SHEIN-App und prüfen die Bedingungen, die für Ihr Konto angezeigt werden. Der Code und die Aktionen gehören zu SHEIN Brasilien und funktionieren in anderen Ländern womöglich nicht."
+        ]
+      },
+      {
+        "heading": "Wann der Black Friday bei SHEIN beginnt",
+        "paragraphs": [
+          "SHEIN verbindet den 11.11. und den Black Friday zu einer einzigen Aktion, mit Phasen, in denen der höchste Rabatt bis zum Monatsende steigt. Die Tabelle unten fasst zusammen, was SHEIN in den letzten drei Jahren angekündigt hat. Der Kalender für 2026 ist noch nicht veröffentlicht."
+        ],
+        "comparisonTable": {
+          "caption": "Phasen und höchste Rabatte, die SHEIN Brasilien angekündigt hat, laut der Presse, die die Mitteilungen veröffentlicht hat, und laut den Profilen der Marke. Das „bis zu“ gilt für einige Artikel.",
+          "headers": [
+            "Jahr",
+            "Beginn und Ende",
+            "Angekündigter höchster Rabatt"
+          ],
+          "rows": [
+            [
+              "2023",
+              "11.11. bis 25.11.",
+              "bis 80 % vom 11.11. bis 19.11., bis 85 % vom 20.11. bis 23.11. und bis 90 % am 24.11. und 25.11., mit 48 Stunden kostenlosem Versand in der Black-Friday-Woche"
+            ],
+            [
+              "2024",
+              "21.10. bis 30.11.",
+              "11.11.: bis 85 % vom 21.10. bis 4.11., bis 90 % vom 5.11. bis 10.11. und bis 95 % vom 11.11. bis 13.11. Black Friday: bis 90 % vom 13.11. bis 25.11. und bis 95 % vom 26.11. bis 30.11."
+            ],
+            [
+              "2025",
+              "seit 3.11. aktiv, bis 30.11.",
+              "bis 90 % bei mehr als 800.000 Artikeln bis 9.11., mit kostenlosem Versand in mehreren Kategorien; ab 24.11. bis 95 % bei mehr als 800.000 Artikeln"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "2026 fällt der 11.11. auf einen Mittwoch und der Black Friday auf einen Freitag, den 27. November. Wenn SHEIN das Muster wiederholt, sollten die Angebote zwischen Ende Oktober und Anfang November beginnen und bis zum 30. November laufen. Das ist eine Schätzung aus den bisherigen Jahren. Dieser Leitfaden wird aktualisiert, sobald SHEIN die Aktion für 2026 ankündigt.",
+          "In allen drei Jahren stieg der höchste Rabatt gegen Ende: 90 % am 24. und 25.11.2023, 95 % vom 26.11. bis 30.11.2024 und 95 % ab dem 24.11.2025."
+        ]
+      },
+      {
+        "heading": "„Bis zu 90 %“ ist nicht der ganze Warenkorb",
+        "paragraphs": [
+          "Der Prozentsatz der Aktion ist der höchste Rabatt auf einige Artikel. Der größte Teil des Sortiments hat kleinere Rabatte, und der Preis jedes Teils ändert sich während der Phasen. Damit Sie nicht auf die große Zahl aus der Werbung hereinfallen:"
+        ],
+        "bullets": [
+          "Speichern Sie die Teile vor Kampagnenstart auf Ihrer Wunschliste und notieren Sie den heutigen Preis.",
+          "Vergleichen Sie den Preis auf der Liste mit den Preisen der folgenden Phasen: In den letzten drei Jahren stieg der höchste Rabatt zum Schluss.",
+          "Achten Sie auf den Endpreis im Warenkorb, mit Versand und Steuern, und nicht nur auf den Prozentsatz in der Werbung.",
+          "Wenn ein Teil in Ihrer Größe schwer zu finden ist, warten Sie nicht bis zur letzten Phase: Der Bestand kann vorher ausgehen."
+        ]
+      },
+      {
+        "heading": "Die Steuer beim Black Friday: Was sich 2026 geändert hat",
+        "paragraphs": [
+          "SHEIN nimmt am Remessa Conforme teil, dem Programm der brasilianischen Bundessteuerbehörde (Receita Federal) für internationale Käufe. Deshalb werden die Steuern an der Kasse zusammen mit der Bestellung berechnet. In der Regel fällt bei der Lieferung nichts extra an, aber die Bundessteuerbehörde kann den Wert des Pakets neu bewerten, und das ändert die fällige Steuer. Am 13. Mai 2026 wurde die brasilianische Einfuhrsteuer auf Käufe bis US$ 50 auf null gesenkt. Das Gesetz 15.502/2026 vom 10. September 2026 bestätigte, dass die Regierung diesen Nullsatz in dieser Spanne beibehalten kann.",
+          "Die Rechnung gilt pro Bestellung und nimmt den Wert des Produkts plus Versand, schon mit Rabatten und Gutschein. Das heißt, der Black-Friday-Rabatt kann eine Bestellung unter US$ 50 bringen. Die Grenze gilt in Dollar: Die Kasse zeigt Ihnen die Steuern für Ihre Bestellung vor der Zahlung an."
+        ],
+        "comparisonTable": {
+          "caption": "Laut der Steuerseite von SHEIN Brasilien, aktualisiert am 23.05.2026. Die ICMS-Steuer von 17 % gilt für die meisten Bundesstaaten; Amapá hat 18 %, Pará 19 %, und Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima und Sergipe haben 20 %.",
+          "headers": [
+            "Bestellung (Produkt + Versand)",
+            "Einfuhrsteuer",
+            "ICMS-Steuer",
+            "Beispiel von SHEIN ohne Zuschuss"
+          ],
+          "rows": [
+            [
+              "Bis US$ 50",
+              "0 %",
+              "17 % bis 20 %, je nach Bundesstaat",
+              "US$ 50 werden mit 17 % ICMS zu US$ 60,24"
+            ],
+            [
+              "Über US$ 50",
+              "60 %, abzüglich US$ 30 vom Steuerbetrag",
+              "17 % bis 20 %, auch auf die Einfuhrsteuer",
+              "US$ 100 werden mit 17 % ICMS zu US$ 156,63"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SHEIN sagt, dass das Unternehmen weiterhin einen Teil der ICMS-Steuer übernimmt, und zwar nur auf den Wert des Produkts. Wie hoch dieser Zuschuss ist, unterscheidet sich von Kunde zu Kunde nach Kriterien, die die Plattform nicht veröffentlicht. Er deckt nicht die ICMS-Steuer, die auf die Einfuhrsteuer anfällt.",
+          "Produkte mit **Inlandsversand**, die schon in Brasilien sind, zahlen keine Einfuhrsteuer. Und die bezahlte Einfuhrsteuer kommt nicht zurück, wenn Sie das Teil nach dem Versand zurückgeben."
+        ]
+      },
+      {
+        "heading": "Inlandsversand oder internationaler Versand?",
+        "paragraphs": [
+          "Bei SHEIN zeigt dieselbe Suche Produkte aus dem Ausland und Produkte von Verkäufern, die schon in Brasilien sind und als Inlandsversand markiert werden. Beim Black Friday wirkt sich der Unterschied auf den Endpreis und auf die Rabattregeln aus."
+        ],
+        "bullets": [
+          "**Inlandsversand:** keine Einfuhrsteuer. Jeder Verkäufer hat eigene Versandkosten, Lieferzeiten und Bedingungen, und SHEIN-Punkte gelten für diese Artikel nicht.",
+          "**Internationaler Versand:** Die Ware läuft über den Zoll, und die Steuern werden an der Kasse berechnet. SHEIN braucht 3 bis 5 Tage, um die Bestellung vor dem Versand zu bearbeiten, und der Name auf der Bestellung muss mit dem CPF übereinstimmen (die brasilianische Steuernummer natürlicher Personen).",
+          "**Lieferzeit:** Lieferfrist und Versandkosten stehen vor der Zahlung auf der Bestellseite. Die Bestellung kann in mehreren Paketen ankommen.",
+          "**Verspätung:** SHEIN bietet einen kostenlosen Service für pünktliche Lieferung. Kommt die Bestellung nicht bis zum vorgesehenen Termin an, gibt es 200 SHEIN-Punkte oder R$ 10 (brasilianische Reais) als Guthaben im Wallet."
+        ]
+      },
+      {
+        "heading": "Gutscheine, Punkte und der Empfehlungscode 4CW5Y",
+        "paragraphs": [
+          "Nach den Regeln von SHEIN gilt pro Bestellung ein Gutschein der Plattform. Enthält der Warenkorb Produkte von Verkäufern in Brasilien, können Sie zusätzlich den Gutschein dieses Verkäufers nutzen: höchstens zwei Gutscheine, einer pro Art. Jeder Gutschein hat eine Gültigkeit, und was nicht rechtzeitig genutzt wird, steht nicht mehr zur Verfügung.",
+          "SHEIN-Punkte haben einen Wert von US$ 1 je 100 Punkte und mindern den Produktwert um bis zu 30 %, ohne Versand und Steuern. Auf Artikel von Verkäufern in Brasilien gelten sie nicht.",
+          "4CW5Y ist kein Gutschein, sondern Cecílias Empfehlungscode. Sie suchen 4CW5Y in der SHEIN-App und prüfen die Bedingungen, die für Ihr Konto angezeigt werden. Der Code und die Aktionen gehören zu SHEIN Brasilien und funktionieren in anderen Ländern womöglich nicht. Da sich die Aktionen von SHEIN ständig ändern, stehen sie auf der Shop-Seite dieser Website, mit dem Datum der letzten Prüfung."
+        ],
+        "links": [
+          {
+            "label": "Den Empfehlungscode 4CW5Y und die SHEIN-Aktionen ansehen",
+            "href": "/de/coupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "So bezahlen Sie beim Black Friday",
+        "paragraphs": [
+          "SHEIN akzeptiert Pix (das sofortige Zahlungssystem Brasiliens), brasilianische Kreditkarten mit bis zu 6 Raten, Boleto (einen brasilianischen Bankzahlschein), PayPal und Pagaleve (einen Dienst für „Jetzt kaufen, später zahlen“). Den Boleto müssen Sie innerhalb von 3 Tagen bezahlen. SHEIN empfiehlt selbst Karte oder PayPal, um Engpässe beim Bestand oder Verzögerungen bei der Zahlungsbestätigung zu vermeiden. Bei einer Aktion mit knappem Bestand fällt das ins Gewicht.",
+          "Wenn Sie eine Rückerstattung brauchen, ist Pix am schnellsten: SHEIN bearbeitet sie in bis zu 24 Stunden, und die Bank braucht 1 bis 3 Werktage. Bei der Kreditkarte braucht die Bank 3 bis 8 Werktage, manchmal sogar bis zu 30 Tage."
+        ]
+      },
+      {
+        "heading": "Umtausch und Rückgabe nach dem Black Friday",
+        "bullets": [
+          "**Frist:** bis zu 20 Tage nach dem Erhalt, auch wenn Ihnen das Teil einfach nicht gefällt.",
+          "**Artikel, die nur 7 Tage lang zurückgegeben werden können:** Bodys, Bademode, Unterwäsche, Ohrringe und Piercings sowie Produkte für Haustiere, Kosmetik, Partyartikel und Bastelbedarf mit geöffnetem Siegel. Diese Artikel können nur innerhalb der 7-tägigen Widerrufsfrist ab Lieferung zurückgegeben werden.",
+          "**Rücksendekosten:** Die erste Rücksendung jeder Bestellung ist kostenlos, über die Correios (der brasilianische Postdienst), Jadlog oder Total Express (brasilianische Paketdienste). Ab der zweiten Rücksendung zieht SHEIN bei jeder Rücksendung R$ 45 vom Erstattungsbetrag ab.",
+          "**Gutschein:** Bei einer Teilrückgabe gilt der Gutschein als verbraucht und kommt nicht auf Ihr Konto zurück. Liegt die Bestellung danach unter dem Mindestbetrag des Gutscheins, zieht SHEIN den Teil des Rabatts vom Erstattungsbetrag ab, der nicht mehr gilt.",
+          "**Steuer:** Die bezahlte Einfuhrsteuer wird nicht erstattet, wenn die Bestellung schon versandt wurde."
+        ]
+      },
+      {
+        "heading": "Vor der Zahlung: Das sollten Sie prüfen",
+        "bullets": [
+          "Ob das Produkt Inlandsversand oder internationalen Versand hat.",
+          "Ob die internationale Bestellung inklusive Versand und nach Abzug der Rabatte bei höchstens US$ 50 liegt.",
+          "Wie hoch die ICMS-Steuer in der Bestellübersicht ist.",
+          "Ob der Gutschein angewendet wurde und ob die Punkte abgezogen wurden.",
+          "Die Lieferfrist, wenn der Kauf ein Weihnachtsgeschenk ist.",
+          "Ob das Teil zu den Artikeln gehört, die nur 7 Tage lang zurückgegeben werden können."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Wann beginnt der Black Friday bei SHEIN 2026? SHEIN hat das noch nicht angekündigt. 2024 begannen die Angebote am 21. Oktober, zusammen mit dem 11.11., und 2025 liefen sie schon am 3. November. Der Black Friday 2026 ist am 27. November.",
+          "Wie lange dauert der Black Friday bei SHEIN? 2024 und 2025 bis zum 30. November. 2023 bis zum 25. November, dem Samstag nach dem Black Friday.",
+          "Was ist der 11.11. bei SHEIN? Das ist der Singles'-Day-Sale am 11. November. SHEIN verbindet den 11.11. und den Black Friday zu einer einzigen Aktion, mit Rabattphasen bis zum Monatsende.",
+          "Gibt es bei SHEIN beim Black Friday Steuern? Ja: Bei jedem internationalen Kauf fällt die ICMS-Steuer an, je nach Bundesstaat 17 % bis 20 %. Die Einfuhrsteuer ist bei Bestellungen bis US$ 50 null und liegt darüber bei 60 %, abzüglich US$ 30 vom Steuerbetrag.",
+          "Gilt die Befreiung von der Einfuhrsteuer bei SHEIN für jeden Kauf? Sie gilt für internationale Bestellungen bis US$ 50, mit Produkt und Versand, schon nach Rabatten. Darüber kommt die Einfuhrsteuer zurück.",
+          "Zahlt ein Produkt mit Inlandsversand Einfuhrsteuer? Nein. Produkte mit Inlandsversand sind schon in Brasilien und zahlen keine Einfuhrsteuer.",
+          "Kann ich bei SHEIN mehrere Gutscheine nutzen? Pro Bestellung ein SHEIN-Gutschein. Enthält der Warenkorb Produkte von Verkäufern in Brasilien, lässt sich zusätzlich der Gutschein dieses Verkäufers addieren.",
+          "Ist 4CW5Y ein Rabattgutschein? Nein. Es ist Cecílias Empfehlungscode: Sie suchen 4CW5Y in der SHEIN-App und sehen die Bedingungen für Ihr Konto.",
+          "Gibt es beim Black Friday bei SHEIN kostenlosen Versand? In den letzten Jahren gab es ihn in einzelnen Phasen der Aktion: 48 Stunden im Jahr 2023 und kostenlosen Versand in mehreren Kategorien zu Beginn der Aktion 2025. Die Versandkosten Ihrer Bestellung sehen Sie im Warenkorb.",
+          "Wie lange habe ich Zeit, Käufe vom Black Friday zurückzugeben? Bis zu 20 Tage nach dem Erhalt. Unterwäsche, Bademode, Bodys, Ohrringe und einige andere Artikel können nur innerhalb von 7 Tagen zurückgegeben werden."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Stellen Sie den Warenkorb bei SHEIN zusammen und prüfen Sie die Steuer in der Bestellübersicht, bevor Sie bezahlen",
+      "label": "Zu SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Regeln laut SHEIN Brasilien und Gesetz 15.502/2026. Wir können für Käufe eine Provision erhalten.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-black-friday-termine-gutscheine",
+        "title": "YesStyle Black Friday 2026: Termine, Gutscheine und wo der Reward Code CECILIA010 eingegeben wird"
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "slug": "black-friday-shein-date-e-tasse",
+    "locale": "it",
+    "translationKey": "shein-black-friday",
+    "title": "Black Friday SHEIN 2026: quando inizia, fino a quando dura e l'imposta di importazione zero fino a US$ 50",
+    "seoTitle": "SHEIN Black Friday 2026: date, imposte, coupon",
+    "type": "Guida al Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quando inizia e fino a quando dura il Black Friday di SHEIN, il calendario dal 2023 al 2025, cosa cambia con l'imposta di importazione zero sugli ordini fino a US$ 50, spedizione nazionale o internazionale, coupon, punti, pagamento e reso.",
+    "metaDescription": "Black Friday SHEIN 2026: il calendario 2023-2025, l'imposta di importazione zero fino a US$ 50, l'ICMS che resta, spedizione nazionale, coupon, punti e reso.",
+    "publishedAt": "11 ottobre 2026",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "Cecília Mauad in due look di un haul SHEIN: una camicetta chiara annodata in vita con gonna midi nera, e un abito lungo nero con inserti chiari.",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Dal 13 maggio 2026, gli ordini fino a US$ 50 non pagano l'imposta di importazione",
+      "Negli ultimi tre anni le offerte sono iniziate prima del Black Friday e sono continuate anche dopo",
+      "I prodotti con spedizione nazionale (Envio Nacional) non pagano l'imposta di importazione",
+      "Reso entro 20 giorni, e il primo reso di ogni ordine è gratuito"
+    ],
+    "cons": [
+      "«Fino al 90%» vale per alcuni articoli, non per tutto il carrello",
+      "L'ICMS, l'imposta statale brasiliana dal 17% al 20%, resta su ogni acquisto internazionale",
+      "Sopra US$ 50 torna l'imposta di importazione: 60%, meno US$ 30 sul valore dell'imposta",
+      "Un coupon SHEIN per ordine, e l'imposta pagata non torna in caso di reso"
+    ],
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "SHEIN non ha ancora annunciato il Black Friday 2026. Negli ultimi tre anni le offerte sono iniziate prima della data, insieme all'11.11, la vendita del Singles' Day, e sono finite dopo di esso: il 25/11 nel 2023 e il 30/11 nel 2024 e nel 2025. Nel 2026 il Black Friday cade il 27 novembre. Questa guida riguarda SHEIN Brasile (il sito e l'app brasiliani), e date, imposte, prezzi e regole possono cambiare negli altri paesi.",
+          "La grande novità di quest'anno è l'imposta. Dal 13 maggio 2026, un ordine internazionale fino a **US$ 50** (prodotto più spedizione, già con gli sconti) non paga l'imposta di importazione brasiliana. L'ICMS (dal 17% al 20%) resta, e SHEIN dice di coprirne una parte. Sopra US$ 50 torna l'imposta di importazione.",
+          "Vale un coupon SHEIN per ordine. Il 4CW5Y è il codice invito di Cecília: cercalo nell'app SHEIN e controlla le condizioni che compaiono per il tuo account. Il codice e le campagne sono di SHEIN Brasile e potrebbero non funzionare negli altri paesi."
+        ]
+      },
+      {
+        "heading": "Quando inizia il Black Friday di SHEIN",
+        "paragraphs": [
+          "SHEIN unisce l'11.11 e il Black Friday in un'unica campagna, con fasi che aumentano lo sconto massimo fino a fine mese. La tabella qui sotto raccoglie quello che SHEIN ha annunciato negli ultimi tre anni. Il calendario 2026 non è ancora uscito."
+        ],
+        "comparisonTable": {
+          "caption": "Fasi e sconti massimi annunciati da SHEIN Brasile, dalla stampa che ha riportato i comunicati e dai profili del marchio. Il «fino a» vale per alcuni articoli.",
+          "headers": [
+            "Anno",
+            "Inizio e fine",
+            "Sconto massimo annunciato"
+          ],
+          "rows": [
+            [
+              "2023",
+              "11/11 - 25/11",
+              "fino all'80% dall'11 al 19/11, fino all'85% dal 20 al 23/11 e fino al 90% il 24 e 25/11, con 48 ore di spedizione gratuita nella settimana del Black Friday"
+            ],
+            [
+              "2024",
+              "21/10 - 30/11",
+              "11.11: fino all'85% dal 21/10 al 4/11, fino al 90% dal 5 al 10/11 e fino al 95% dall'11 al 13/11. Black Friday: fino al 90% dal 13 al 25/11 e fino al 95% dal 26 al 30/11"
+            ],
+            [
+              "2025",
+              "già attiva dal 3/11, fino al 30/11",
+              "fino al 90% su oltre 800 mila articoli fino al 9/11, con spedizione gratuita in diverse categorie; dal 24/11, fino al 95% su oltre 800 mila articoli"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nel 2026 l'11.11 cade di mercoledì e il Black Friday venerdì 27 novembre. Se SHEIN ripete lo schema, le offerte dovrebbero iniziare tra fine ottobre e inizio novembre e durare fino al 30 novembre. È una stima basata sullo storico, e questa guida verrà aggiornata quando SHEIN annuncerà la campagna 2026.",
+          "In tutti e tre gli anni lo sconto massimo è salito verso la fine: 90% il 24 e 25/11 del 2023, 95% dal 26 al 30/11 del 2024 e 95% dal 24/11 del 2025."
+        ]
+      },
+      {
+        "heading": "«Fino al 90%» non è tutto il carrello",
+        "paragraphs": [
+          "La percentuale della campagna è il massimo sconto su alcuni articoli. La maggior parte del catalogo ha sconti più bassi, e il prezzo di ogni articolo cambia durante le fasi. Per non cadere nel numero grande della pubblicità:"
+        ],
+        "bullets": [
+          "Salva gli articoli nella lista dei desideri prima che inizi la campagna e annota il prezzo di adesso.",
+          "Confronta il prezzo in lista con quello delle fasi successive: negli ultimi tre anni lo sconto massimo è salito verso la fine.",
+          "Controlla il prezzo finale nel carrello, con spedizione e imposte, e non solo la percentuale della pubblicità.",
+          "Se l'articolo è di una taglia difficile da trovare, non aspettare l'ultima fase: le scorte possono finire prima."
+        ]
+      },
+      {
+        "heading": "L'imposta nel Black Friday: cosa è cambiato nel 2026",
+        "paragraphs": [
+          "SHEIN fa parte del Remessa Conforme, il programma della Receita Federal (il fisco federale brasiliano) per gli acquisti internazionali. Per questo le imposte vengono pagate al checkout, insieme all'ordine, e di norma alla consegna non si paga nulla in più, ma la Receita Federal può rivalutare il valore del pacco, e questo cambia l'imposta dovuta. Il 13 maggio 2026 l'imposta di importazione sugli acquisti fino a US$ 50 è stata azzerata. La Legge 15.502/2026, del 10 settembre 2026, ha confermato che il governo può mantenere l'aliquota zero per questa fascia.",
+          "Il conto vale per ordine e usa il valore del prodotto più la spedizione, già con sconti e coupon. Quindi lo sconto del Black Friday può portare un ordine sotto US$ 50. Il limite è in dollari: il checkout mostra le imposte del tuo ordine prima del pagamento."
+        ],
+        "comparisonTable": {
+          "caption": "Secondo la pagina delle imposte di SHEIN Brasile, aggiornata il 23/05/2026. L'ICMS del 17% vale per la maggior parte degli stati; l'Amapá ha il 18%, il Pará il 19%, e Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima e Sergipe hanno il 20%.",
+          "headers": [
+            "Ordine (prodotto + spedizione)",
+            "Imposta di importazione",
+            "ICMS",
+            "Esempio di SHEIN, senza il sussidio"
+          ],
+          "rows": [
+            [
+              "Fino a US$ 50",
+              "0%",
+              "dal 17% al 20%, a seconda dello stato",
+              "US$ 50 diventano US$ 60,24 con l'ICMS al 17%"
+            ],
+            [
+              "Sopra US$ 50",
+              "60%, meno US$ 30 sul valore dell'imposta",
+              "dal 17% al 20%, anche sull'imposta di importazione",
+              "US$ 100 diventano US$ 156,63 con l'ICMS al 17%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SHEIN dice di continuare a coprire una parte dell'ICMS, solo sul valore del prodotto. L'entità del sussidio cambia da cliente a cliente, secondo criteri che la piattaforma non pubblica, e non copre l'ICMS che si applica sull'imposta di importazione.",
+          "I prodotti con **spedizione nazionale**, già in Brasile, non pagano l'imposta di importazione. E l'imposta di importazione pagata non torna se restituisci il capo dopo la spedizione."
+        ]
+      },
+      {
+        "heading": "Spedizione nazionale o internazionale?",
+        "paragraphs": [
+          "Su SHEIN, la stessa ricerca mescola prodotti che arrivano dall'estero e prodotti di venditori già in Brasile, segnati come spedizione nazionale. Durante il Black Friday la differenza pesa sul prezzo finale e sulle regole degli sconti."
+        ],
+        "bullets": [
+          "**Spedizione nazionale:** niente imposta di importazione. Ogni venditore ha la propria spedizione, i propri tempi e le proprie condizioni, e i punti SHEIN non valgono su questi articoli.",
+          "**Internazionale:** passa dalla dogana, con le imposte pagate al checkout. SHEIN impiega da 3 a 5 giorni per elaborare l'ordine prima della spedizione, e il nome sull'ordine deve corrispondere al CPF (il numero di contribuente brasiliano).",
+          "**Tempi:** i tempi di consegna e la spedizione compaiono nella pagina dell'ordine prima di pagare. L'ordine può arrivare in più pacchi.",
+          "**Ritardo:** SHEIN offre un servizio gratuito di consegna puntuale, che dà 200 punti SHEIN o R$ 10 (reais brasiliani) di credito nel portafoglio se l'ordine non arriva entro la data prevista."
+        ]
+      },
+      {
+        "heading": "Coupon, punti e il codice 4CW5Y",
+        "paragraphs": [
+          "Secondo la politica dei coupon di SHEIN, vale un coupon della piattaforma per ordine. Se il carrello contiene prodotti di venditori in Brasile, puoi usare anche il coupon di quel venditore: al massimo due coupon, uno per tipo. Ogni coupon ha una scadenza, e quello non usato in tempo non è più disponibile.",
+          "I punti SHEIN valgono US$ 1 ogni 100 punti e possono scontare fino al 30% del valore dei prodotti, senza contare spedizione e imposte. Non valgono sugli articoli di venditori in Brasile.",
+          "Il 4CW5Y non è uno sconto: è il codice invito di Cecília. Cercalo nell'app SHEIN e controlla le condizioni che compaiono per il tuo account. Il codice e le campagne sono di SHEIN Brasile e potrebbero non funzionare negli altri paesi. Le campagne SHEIN cambiano spesso, quindi si trovano nella pagina del negozio su questo sito, con la data in cui sono state verificate."
+        ],
+        "links": [
+          {
+            "label": "Vedi il codice invito 4CW5Y e le campagne SHEIN",
+            "href": "/it/coupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "Come pagare nel Black Friday",
+        "paragraphs": [
+          "SHEIN accetta Pix (il sistema di pagamento istantaneo del Brasile), carta di credito brasiliana fino a 6 rate, boleto (un bollettino bancario brasiliano), PayPal e Pagaleve (un servizio «compra ora, paga dopo»). Il boleto va pagato entro 3 giorni. La stessa SHEIN consiglia carta o PayPal per evitare esaurimento di scorte o ritardi nella conferma del pagamento, cosa che pesa in una promozione con scorte limitate.",
+          "Se ti serve un rimborso, il Pix è il più veloce: SHEIN lo elabora entro 24 ore, e la banca impiega da 1 a 3 giorni lavorativi. Con la carta di credito la banca impiega da 3 a 8 giorni lavorativi, a volte fino a 30 giorni."
+        ]
+      },
+      {
+        "heading": "Cambi e resi dopo il Black Friday",
+        "bullets": [
+          "**Termine:** fino a 20 giorni dopo la ricezione, anche se il capo semplicemente non ti piace.",
+          "**Articoli che si restituiscono solo entro 7 giorni:** body, costumi da bagno, biancheria intima, orecchini e piercing, prodotti per animali, cosmetici, articoli per feste e per il bricolage con il sigillo aperto. Questi si possono restituire solo entro il termine di recesso di 7 giorni dalla consegna.",
+          "**Spese di reso:** il primo reso di ogni ordine è gratuito, tramite Correios (il servizio postale brasiliano), Jadlog o Total Express (corrieri brasiliani). A partire dal secondo reso, SHEIN trattiene R$ 45 dal rimborso per ogni reso.",
+          "**Coupon:** in caso di reso parziale, il coupon risulta usato e non torna sul conto. Se l'ordine scende sotto l'importo minimo del coupon, SHEIN trattiene dal rimborso la parte di sconto che non vale più.",
+          "**Imposta:** l'imposta di importazione pagata non torna dopo che l'ordine è stato spedito."
+        ]
+      },
+      {
+        "heading": "Prima di pagare: cosa controllare",
+        "bullets": [
+          "Se il prodotto è a spedizione nazionale o internazionale.",
+          "Se l'ordine internazionale resta entro US$ 50, contando spedizione e già con gli sconti.",
+          "Quanto risulta l'ICMS nel riepilogo dell'ordine.",
+          "Se il coupon è stato applicato e se i punti sono stati detratti.",
+          "I tempi di consegna, se l'acquisto è un regalo di Natale.",
+          "Se l'articolo rientra tra quelli che si possono restituire solo entro 7 giorni."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Quando inizia il Black Friday di SHEIN nel 2026? SHEIN non l'ha ancora annunciato. Nel 2024 le offerte sono iniziate il 21 ottobre, insieme all'11.11, e nel 2025 erano già attive il 3 novembre. Il Black Friday 2026 cade il 27 novembre.",
+          "Quando finisce il Black Friday di SHEIN? Nel 2024 e nel 2025 fino al 30 novembre. Nel 2023 fino al 25 novembre, il sabato dopo il Black Friday.",
+          "Cos'è l'11.11 di SHEIN? È la vendita del Singles' Day, l'11 novembre. SHEIN unisce l'11.11 e il Black Friday in un'unica campagna, con fasi di sconto fino a fine mese.",
+          "Ci sono imposte sugli acquisti SHEIN durante il Black Friday? Sì: su ogni acquisto internazionale c'è l'ICMS, dal 17% al 20% a seconda dello stato. L'imposta di importazione è zero per gli ordini fino a US$ 50 e del 60% sopra questa cifra, meno US$ 30 sul valore dell'imposta.",
+          "L'imposta di importazione zero di SHEIN vale per ogni acquisto? Vale per gli ordini internazionali fino a US$ 50, contando prodotto e spedizione, già con gli sconti. Sopra questa cifra torna l'imposta di importazione.",
+          "Un prodotto a spedizione nazionale paga l'imposta di importazione? No. I prodotti a spedizione nazionale sono già in Brasile e non pagano l'imposta di importazione.",
+          "Posso usare più di un coupon su SHEIN? Un coupon SHEIN per ordine. Se il carrello contiene prodotti di venditori in Brasile, puoi aggiungere anche il coupon di quel venditore.",
+          "Il 4CW5Y è uno sconto? No. È il codice invito di Cecília: cercalo nell'app SHEIN e vedi le condizioni per il tuo account.",
+          "C'è la spedizione gratuita durante il Black Friday di SHEIN? Negli ultimi anni c'è stata in alcuni momenti della campagna: 48 ore nel 2023 e spedizione gratuita in diverse categorie all'inizio della campagna 2025. La spedizione del tuo ordine compare nel carrello.",
+          "Quanto tempo ho per restituire ciò che ho comprato nel Black Friday? Fino a 20 giorni dopo la ricezione. Biancheria intima, costumi da bagno, body, orecchini e alcuni altri articoli si possono restituire solo entro 7 giorni."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Prepara il carrello su SHEIN e controlla l'imposta nel riepilogo dell'ordine prima di pagare",
+      "label": "Vai su SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Regole ufficiali di SHEIN Brasile e della Legge 15.502/2026. Possiamo ricevere commissioni sugli acquisti.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-yesstyle-date-e-coupon",
+        "title": "Black Friday YesStyle 2026: quando inizia, come funzionano i coupon e dove inserire il codice CECILIA010"
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "slug": "shein-black-friday-ko",
+    "locale": "ko",
+    "translationKey": "shein-black-friday",
+    "title": "SHEIN 블랙프라이데이(Black Friday) 2026: 시작일과 종료일, US$ 50 이하 수입세 면제",
+    "seoTitle": "SHEIN 블랙프라이데이 2026: 날짜, 세금, 쿠폰",
+    "type": "블랙프라이데이 가이드",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN 블랙프라이데이가 언제 시작해 언제 끝나는지, 2023~2025년 일정, US$ 50 이하 해외 주문의 수입세 면제 변화, 국내 배송과 해외 배송, 쿠폰, 포인트, 결제와 반품을 정리했습니다.",
+    "metaDescription": "SHEIN 블랙프라이데이 2026: 2023~2025년 일정, US$ 50 이하 수입세 0%, 남아 있는 ICMS, 국내 배송, 쿠폰, 포인트와 반품 안내.",
+    "publishedAt": "2026년 10월 11일",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "Cecília Mauad가 SHEIN 하울 룩 두 가지를 입은 모습: 허리에 묶은 연한 블라우스와 검은 미디 스커트, 밝은 패널이 들어간 긴 검은 원피스",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "2026년 5월 13일부터 US$ 50 이하 주문에는 수입세가 붙지 않습니다",
+      "최근 3년 동안 할인은 블랙프라이데이 전에 시작해 블랙프라이데이 이후에도 이어졌습니다",
+      "국내 배송(Envio Nacional) 상품에는 수입세가 붙지 않습니다",
+      "수령 후 20일 이내 반품이 가능하며, 주문마다 첫 반품은 무료입니다"
+    ],
+    "cons": [
+      "“최대 90%”는 일부 상품에만 해당하며 장바구니 전체에 적용되지 않습니다",
+      "ICMS, 브라질 주 세금(17%~20%)은 모든 해외 구매에 계속 붙습니다",
+      "US$ 50을 넘으면 수입세가 다시 붙습니다: 60%, 세액에서 US$ 30 공제",
+      "주문마다 SHEIN 쿠폰 1장만 쓸 수 있고, 납부한 수입세는 반품해도 돌아오지 않습니다"
+    ],
+    "contentSections": [
+      {
+        "heading": "답변 요약",
+        "paragraphs": [
+          "SHEIN은 아직 2026년 블랙프라이데이를 발표하지 않았습니다. 최근 3년 동안 할인은 블랙프라이데이 전부터 11.11(싱글스 데이 세일)과 함께 시작해 블랙프라이데이 뒤에 끝났습니다. 2023년에는 11월 25일까지, 2024년과 2025년에는 11월 30일까지였습니다. 2026년 블랙프라이데이는 11월 27일입니다. 이 가이드는 SHEIN 브라질(브라질 웹사이트와 앱)을 다루며, 날짜·세금·가격·규정은 다른 나라에서 다를 수 있습니다.",
+          "올해 큰 변화는 세금입니다. 2026년 5월 13일부터 **US$ 50** 이하 해외 주문(상품 가격과 배송비 합계, 할인 적용 후 금액)에는 브라질 수입세가 붙지 않습니다. 주 세금 ICMS(17%~20%)는 그대로 붙고, SHEIN은 그중 일부를 부담한다고 밝혔습니다. US$ 50을 넘으면 수입세가 다시 붙습니다.",
+          "주문마다 SHEIN 쿠폰 1장을 쓸 수 있습니다. 4CW5Y는 Cecília의 추천 코드입니다. 이 코드와 캠페인은 SHEIN 브라질의 것이며, 다른 나라에서는 적용되지 않을 수 있습니다. SHEIN 앱에서 4CW5Y를 검색하고, 내 계정에 표시되는 조건을 확인하세요."
+        ]
+      },
+      {
+        "heading": "SHEIN 블랙프라이데이는 언제 시작하나요?",
+        "paragraphs": [
+          "SHEIN은 11.11과 블랙프라이데이를 하나의 캠페인으로 묶고, 월말까지 최대 할인율이 올라가는 단계를 둡니다. 아래 표는 SHEIN이 최근 3년 동안 발표한 내용을 모았습니다. 2026년 일정은 아직 나오지 않았습니다."
+        ],
+        "comparisonTable": {
+          "caption": "SHEIN 브라질이 발표하고 해당 공지를 보도한 언론, 브랜드 프로필을 근거로 정리한 단계별 최대 할인율입니다. “최대”는 일부 상품에만 해당합니다.",
+          "headers": [
+            "연도",
+            "시작과 끝",
+            "발표된 최대 할인율"
+          ],
+          "rows": [
+            [
+              "2023년",
+              "11월 11일~11월 25일",
+              "11일~19일 최대 80%, 20일~23일 최대 85%, 24일·25일 최대 90%, 블랙프라이데이 주간 48시간 무료 배송"
+            ],
+            [
+              "2024년",
+              "10월 21일~11월 30일",
+              "11.11: 10월 21일~11월 4일 최대 85%, 11월 5일~10일 최대 90%, 11월 11일~13일 최대 95%. 블랙프라이데이: 11월 13일~25일 최대 90%, 11월 26일~30일 최대 95%"
+            ],
+            [
+              "2025년",
+              "11월 3일 시작, 11월 30일까지",
+              "11월 9일까지 80만 개 이상 상품 최대 90%, 여러 카테고리 무료 배송. 11월 24일부터 80만 개 이상 상품 최대 95%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "2026년 11.11은 수요일이고, 블랙프라이데이는 금요일인 11월 27일입니다. SHEIN이 같은 흐름을 따른다면 할인은 10월 말~11월 초에 시작해 11월 30일까지 이어질 수 있습니다. 과거 흐름을 바탕으로 한 추정이며, SHEIN이 2026년 캠페인을 발표하면 이 가이드를 업데이트합니다.",
+          "최근 3년 동안 최대 할인율은 막바지에 올랐습니다. 2023년 11월 24일·25일 90%, 2024년 11월 26일~30일 95%, 2025년 11월 24일부터 95%입니다."
+        ]
+      },
+      {
+        "heading": "“최대 90%”는 장바구니 전체 할인이 아닙니다",
+        "paragraphs": [
+          "캠페인에서 말하는 퍼센트는 일부 상품에 적용되는 가장 큰 할인율입니다. 대부분의 상품은 할인율이 낮고, 상품 가격은 단계마다 달라집니다. 광고의 큰 숫자에 속지 않으려면 다음을 확인하세요."
+        ],
+        "bullets": [
+          "캠페인이 시작하기 전에 상품을 위시리스트에 담고 지금 가격을 적어 두세요.",
+          "위시리스트 가격을 다음 단계 가격과 비교하세요. 최근 3년 동안 최대 할인율은 막판에 올랐습니다.",
+          "광고의 퍼센트만 보지 말고, 장바구니에서 배송비와 세금을 포함한 최종 금액을 확인하세요.",
+          "맞는 사이즈를 찾기 어려운 상품이라면 마지막 단계를 기다리지 마세요. 재고가 먼저 떨어질 수 있습니다."
+        ]
+      },
+      {
+        "heading": "블랙프라이데이의 세금: 2026년에 달라진 것",
+        "paragraphs": [
+          "SHEIN은 해외 구매를 위한 브라질 연방세무청(Receita Federal)의 프로그램인 Remessa Conforme에 참여합니다. 그래서 세금은 주문과 함께 결제 화면에서 청구되며, 원칙적으로 배송받을 때 따로 내는 금액은 없지만, 연방세무청이 소포 가치를 다시 평가할 수 있고, 그러면 납부할 세금이 달라집니다. 2026년 5월 13일부터 US$ 50 이하 해외 구매의 브라질 수입세가 0%가 되었습니다. 2026년 9월 10일자 법률 15.502/2026은 정부가 이 구간의 세율 0%를 유지할 수 있다고 확인했습니다.",
+          "계산은 주문 단위로 하며, 상품 가격과 배송비를 더한 금액에 할인과 쿠폰을 이미 반영합니다. 즉 블랙프라이데이 할인 때문에 주문 금액이 US$ 50 아래로 내려갈 수 있습니다. 기준은 달러이며, 결제 전에 결제 화면에서 주문의 세금을 확인할 수 있습니다."
+        ],
+        "comparisonTable": {
+          "caption": "SHEIN 브라질 세금 페이지(2026년 5월 23일 업데이트) 기준입니다. ICMS 17%는 대부분의 주에 적용되고, Amapá는 18%, Pará는 19%이며, Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima, Sergipe는 20%입니다.",
+          "headers": [
+            "주문(상품 + 배송비)",
+            "수입세",
+            "ICMS",
+            "SHEIN 예시(보조금 제외)"
+          ],
+          "rows": [
+            [
+              "US$ 50 이하",
+              "0%",
+              "주에 따라 17%~20%",
+              "ICMS 17% 적용 시 US$ 50 → US$ 60.24"
+            ],
+            [
+              "US$ 50 초과",
+              "60%, 세액에서 US$ 30 공제",
+              "17%~20%, 수입세에도 적용",
+              "ICMS 17% 적용 시 US$ 100 → US$ 156.63"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SHEIN은 상품 가격에 대해서만 ICMS 일부를 계속 부담한다고 밝혔습니다. 부담 규모는 고객마다 다르며, 회사가 공개하지 않은 기준에 따릅니다. 이 보조금은 수입세에 붙는 ICMS까지 덮지는 않습니다.",
+          "이미 브라질에 있는 **국내 배송** 상품에는 수입세가 붙지 않습니다. 발송 후에 반품하더라도 이미 낸 수입세는 돌려받을 수 없습니다."
+        ]
+      },
+      {
+        "heading": "국내 배송인가요, 해외 배송인가요?",
+        "paragraphs": [
+          "SHEIN에서는 같은 검색 결과에 해외에서 오는 상품과 이미 브라질에 있는 판매자의 상품(국내 배송 표시)이 섞여 나옵니다. 블랙프라이데이에는 이 차이가 최종 가격과 할인 규정에 영향을 줍니다."
+        ],
+        "bullets": [
+          "**국내 배송:** 수입세가 없습니다. 판매자마다 배송비, 배송 기간, 조건이 따로 있으며, SHEIN 포인트는 이 상품에 적용되지 않습니다.",
+          "**해외 배송:** 통관을 거치며, 세금은 결제 화면에서 청구됩니다. SHEIN은 발송 전 주문 처리에 3~5일이 걸리며, 주문 이름이 CPF(브라질 개인 납세자 번호)와 일치해야 합니다.",
+          "**배송 기간:** 배송 기간과 배송비는 결제 전 주문 페이지에 표시됩니다. 주문이 여러 상자로 나뉘어 도착할 수 있습니다.",
+          "**지연:** SHEIN에는 무료 정시 배송 서비스가 있습니다. 예정일까지 주문이 도착하지 않으면 SHEIN 포인트 200점 또는 R$ 10(브라질 헤알)을 지갑 적립금으로 드립니다."
+        ]
+      },
+      {
+        "heading": "쿠폰, 포인트, 그리고 추천 코드 4CW5Y",
+        "paragraphs": [
+          "SHEIN 쿠폰 정책에 따르면 주문마다 플랫폼 쿠폰 1장을 쓸 수 있습니다. 장바구니에 브라질 판매자의 상품이 있다면 그 판매자의 매장 쿠폰도 쓸 수 있으며, 최대 2장까지 종류별로 1장씩입니다. 쿠폰마다 유효기간이 있고, 기간 안에 쓰지 못한 쿠폰은 사용할 수 없게 됩니다.",
+          "SHEIN 포인트는 100점당 US$ 1의 가치가 있으며, 상품 금액의 최대 30%까지 차감할 수 있습니다(배송비와 세금은 제외). 브라질 판매자의 상품에는 적용되지 않습니다.",
+          "4CW5Y는 Cecília의 추천 코드이고, 할인 혜택 코드가 아닙니다. SHEIN 앱에서 4CW5Y를 검색하고, 내 계정에 표시되는 조건을 확인하세요. 이 코드와 캠페인은 SHEIN 브라질의 것이며 다른 나라에서는 적용되지 않을 수 있습니다. SHEIN 캠페인은 자주 바뀌므로, 확인 날짜와 함께 이 사이트의 SHEIN 페이지에 정리해 두었습니다."
+        ],
+        "links": [
+          {
+            "label": "4CW5Y 추천 코드와 SHEIN 캠페인 보기",
+            "href": "/ko/coupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "블랙프라이데이에 결제하는 방법",
+        "paragraphs": [
+          "SHEIN은 Pix, 최대 6회 할부가 되는 브라질 신용카드, boleto, PayPal, Pagaleve를 받습니다. Pix는 브라질의 즉시 송금·결제 시스템이고, boleto는 브라질의 은행 납부 전표입니다. Pagaleve는 ‘지금 사고 나중에 결제하는’ 서비스입니다. boleto는 3일 안에 결제해야 합니다. SHEIN은 재고 부족이나 결제 확인 지연을 피하려면 카드나 PayPal을 권장합니다. 재고가 한정된 프로모션에서는 이 점이 중요합니다.",
+          "환불이 필요하다면 Pix가 가장 빠릅니다. SHEIN은 24시간 안에 처리하고, 은행은 영업일 기준 1~3일이 걸립니다. 신용카드는 은행에서 영업일 기준 3~8일이 걸리며, 때로는 30일까지 걸리기도 합니다."
+        ]
+      },
+      {
+        "heading": "블랙프라이데이 이후 교환과 반품",
+        "bullets": [
+          "**기한:** 수령 후 20일 이내입니다. 상품이 마음에 들지 않는 경우에도 가능합니다.",
+          "**7일 안에만 반품되는 상품:** 바디슈트, 수영복, 속옷, 귀걸이·피어싱, 반려동물용품, 화장품, 파티용품, 공예용품 중 포장을 개봉한 상품. 이 상품은 배송받은 날부터 7일 이내의 청약철회 기간에만 반품할 수 있습니다.",
+          "**반품 배송비:** 주문마다 첫 반품은 무료이며, Correios(브라질 우편 서비스), Jadlog, Total Express(브라질 택배사) 중 한 곳으로 보낼 수 있습니다. 두 번째 반품부터는 반품할 때마다 환불금에서 R$ 45가 차감됩니다.",
+          "**쿠폰:** 일부만 반품하면 쿠폰은 사용된 것으로 처리되며 계정으로 돌아오지 않습니다. 남은 주문 금액이 쿠폰의 최소 금액보다 낮아지면, SHEIN은 더 이상 적용되지 않는 할인분을 환불금에서 차감합니다.",
+          "**세금:** 주문이 발송된 뒤에는 낸 수입세를 돌려받을 수 없습니다."
+        ]
+      },
+      {
+        "heading": "결제 전에 확인할 것",
+        "bullets": [
+          "상품이 국내 배송인지 해외 배송인지 확인하세요.",
+          "해외 주문이 배송비를 포함하고 할인을 적용한 뒤 US$ 50 이하인지 확인하세요.",
+          "주문 요약에서 ICMS 금액을 확인하세요.",
+          "쿠폰이 적용됐는지, 포인트가 차감됐는지 확인하세요.",
+          "크리스마스 선물이라면 배송 기한을 확인하세요.",
+          "7일 안에만 반품되는 상품인지 확인하세요."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "2026년 SHEIN 블랙프라이데이는 언제 시작하나요? SHEIN은 아직 발표하지 않았습니다. 2024년에는 10월 21일에 11.11과 함께 시작했고, 2025년에는 11월 3일에 이미 진행 중이었습니다. 2026년 블랙프라이데이는 11월 27일입니다.",
+          "SHEIN 블랙프라이데이는 언제 끝나나요? 2024년과 2025년에는 11월 30일까지였습니다. 2023년에는 블랙프라이데이 다음 날인 토요일 11월 25일까지였습니다.",
+          "SHEIN의 11.11은 무엇인가요? 11월 11일에 열리는 싱글스 데이(광군제) 세일입니다. SHEIN은 11.11과 블랙프라이데이를 하나의 캠페인으로 묶어 월말까지 단계별 할인을 진행합니다.",
+          "블랙프라이데이에 SHEIN을 사면 세금이 붙나요? 네. 해외 구매에는 주에 따라 17%~20%의 ICMS가 붙습니다. 수입세는 US$ 50 이하 주문에서는 0%이고, 그보다 많으면 수입세 60%가 붙고, 그 세액에서 US$ 30을 뺍니다.",
+          "SHEIN의 수입세 면제는 모든 구매에 적용되나요? 할인 적용 후 상품과 배송비를 합해 US$ 50 이하인 해외 주문에만 적용됩니다. 그보다 많으면 수입세가 다시 붙습니다.",
+          "국내 배송 상품에도 수입세가 붙나요? 아니요. 국내 배송 상품은 이미 브라질에 있어서 수입세가 붙지 않습니다.",
+          "SHEIN에서 쿠폰을 여러 장 쓸 수 있나요? 주문마다 SHEIN 쿠폰 1장입니다. 장바구니에 브라질 판매자의 상품이 있다면 그 판매자의 쿠폰을 함께 쓸 수 있습니다.",
+          "4CW5Y는 할인 혜택인가요? 아니요. Cecília의 추천 코드입니다. SHEIN 앱에서 코드를 검색하면 내 계정의 조건을 볼 수 있습니다.",
+          "블랙프라이데이에 SHEIN 무료 배송이 있나요? 최근 몇 년은 캠페인 중 일부 기간에만 있었습니다. 2023년에는 48시간, 2025년 캠페인 초반에는 여러 카테고리에서 무료 배송이 있었습니다. 주문의 배송비는 장바구니에서 확인할 수 있습니다.",
+          "블랙프라이데이에 산 상품은 언제까지 반품할 수 있나요? 수령 후 20일 이내입니다. 속옷, 수영복, 바디슈트, 귀걸이 등 일부 상품은 7일 안에만 반품할 수 있습니다."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "SHEIN에서 장바구니를 채우고, 결제 전에 주문 요약에서 세금을 확인하세요",
+      "label": "SHEIN으로 이동",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "SHEIN 브라질 공식 페이지와 법률 15.502/2026 규정 기준입니다. 구매하면 수수료를 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-black-friday-ko",
+        "title": "YesStyle 블랙프라이데이(Black Friday) 2026: 시작 날짜, 쿠폰 작동 방식, CECILIA010 입력 위치"
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "slug": "shein-black-friday-ja",
+    "locale": "ja",
+    "translationKey": "shein-black-friday",
+    "title": "Black Friday SHEIN 2026（ブラックフライデー）：いつ始まり、いつまで？US$ 50までの輸入税ゼロ",
+    "seoTitle": "SHEIN ブラックフライデー 2026：日程・税金・クーポン",
+    "type": "ブラックフライデーガイド",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN のブラックフライデーがいつ始まり、いつ終わるかを解説します。2023年から2025年までの日程、US$ 50までの注文で輸入税がゼロになった変更点、国内配送と国際配送、クーポン、ポイント、支払い、返品をまとめました。",
+    "metaDescription": "ブラックフライデー SHEIN 2026：2023〜2025年の日程、US$ 50までの輸入税ゼロ、残るICMS、国内配送、クーポン、ポイント、返品をまとめました。",
+    "publishedAt": "2026年10月11日",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "SHEIN の購入品の2つのコーデを着た Cecília Mauad：ウエストで結んだ明るい色のブラウスと黒いミディ丈スカート、明るい切り替えの入った黒いロングドレス",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "2026年5月13日から、US$ 50までの国際注文は輸入税がかかりません",
+      "過去3年は、ブラックフライデーより前にセールが始まり、その後も続きました",
+      "国内配送（Envio Nacional）の商品には、輸入税がかかりません",
+      "返品は受け取りから20日以内。注文ごとに最初の返品は無料です"
+    ],
+    "cons": [
+      "「最大90%」は一部の商品に対する割引で、カート全体には適用されません",
+      "ブラジルの州税ICMS（17%〜20%）は、どの国際購入にもかかります",
+      "US$ 50を超えると輸入税が戻ります。税率は60%で、税額からUS$ 30を差し引きます",
+      "プラットフォームのクーポンは注文ごとに1枚まで。支払った輸入税は、返品しても戻りません"
+    ],
+    "contentSections": [
+      {
+        "heading": "まずは結論",
+        "paragraphs": [
+          "SHEIN はまだ2026年のブラックフライデーを発表していません。このガイドは SHEIN ブラジル（ブラジル向けのサイトとアプリ）について書いています。日程、税金、価格、ルールは他の国では異なる場合があります。過去3年は、ブラックフライデーより前に11.11（独身の日のセール）と一緒にセールが始まり、ブラックフライデーの後も続きました。終了日は2023年が11月25日、2024年と2025年が11月30日です。2026年のブラックフライデーは11月27日です。",
+          "今年の大きな変化は税金です。2026年5月13日から、**US$ 50**までの国際注文（商品と送料の合計、割引適用後）には、ブラジルの輸入税がかかりません。州税のICMSは17%〜20%で引き続きかかり、SHEIN はその一部を負担すると述べています。US$ 50を超えると、輸入税が戻ります。",
+          "注文ごとに、SHEIN のプラットフォームクーポンは1枚まで使えます。4CW5Y は Cecília の紹介コードです。SHEIN アプリで 4CW5Y を検索し、ご自身のアカウントに表示される条件をご確認ください。紹介コードとキャンペーンは SHEIN ブラジルのもので、他の国では使えない場合があります。"
+        ]
+      },
+      {
+        "heading": "SHEIN のブラックフライデーはいつ始まる？",
+        "paragraphs": [
+          "SHEIN は 11.11 とブラックフライデーを1つのキャンペーンにまとめ、月末まで最大割引率を段階的に上げていきます。下の表は、過去3年に SHEIN が発表した内容をまとめたものです。2026年の日程はまだ発表されていません。"
+        ],
+        "comparisonTable": {
+          "caption": "SHEIN ブラジルが発表した各段階と最大割引率。発表を掲載した報道と、ブランドの公式アカウントを基にしています。「最大」は一部の商品に当てはまります。",
+          "headers": [
+            "年",
+            "期間",
+            "発表された最大割引率"
+          ],
+          "rows": [
+            [
+              "2023年",
+              "11月11日〜11月25日",
+              "11月11日〜19日は最大80%、11月20日〜23日は最大85%、11月24日と25日は最大90%。ブラックフライデー週は48時間の送料無料"
+            ],
+            [
+              "2024年",
+              "10月21日〜11月30日",
+              "11.11：10月21日〜11月4日は最大85%、11月5日〜10日は最大90%、11月11日〜13日は最大95%。ブラックフライデー：11月13日〜25日は最大90%、11月26日〜30日は最大95%"
+            ],
+            [
+              "2025年",
+              "11月3日〜11月30日（すでに開始）",
+              "11月9日まで、80万点以上の商品で最大90%。複数のカテゴリーで送料無料。11月24日からは、80万点以上の商品で最大95%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "2026年は、11.11が水曜日、ブラックフライデーは金曜日の11月27日です。SHEIN が過去と同じパターンを続けるなら、セールは10月末から11月初めの間に始まり、11月30日まで続くと考えられます。これは過去の傾向による推測です。SHEIN が2026年のキャンペーンを発表したら、このガイドを更新します。",
+          "過去3年とも、最大割引率は終わりに近づくほど上がりました。2023年は11月24日と25日に90%、2024年は11月26日〜30日に95%、2025年は11月24日から95%です。"
+        ]
+      },
+      {
+        "heading": "「最大90%」はカート全体の割引ではありません",
+        "paragraphs": [
+          "キャンペーンの割合は、一部の商品に対する最大の割引です。カタログの大部分はそれより小さい割引で、商品ごとの価格はセールの段階によって変わります。広告の大きな数字に惑わされないために、次の点を確認しましょう。"
+        ],
+        "bullets": [
+          "キャンペーン開始前に、欲しい商品をウィッシュリストに入れて、今の価格をメモしておきましょう。",
+          "ウィッシュリストの価格と後の段階の価格を比べましょう。過去3年とも、最大割引率は終盤に上がりました。",
+          "カートで、送料と税金を含めた最終価格を確認しましょう。広告の割合だけで判断しないでください。",
+          "サイズが見つかりにくい商品は、最後の段階まで待たないでください。在庫が先になくなることがあります。"
+        ]
+      },
+      {
+        "heading": "ブラックフライデーの税金：2026年に何が変わったか",
+        "paragraphs": [
+          "SHEIN は Remessa Conforme に参加しています。これは、ブラジル連邦歳入庁（Receita Federal）が国際購入向けに運営するプログラムです。そのため、税金は注文時にチェックアウトで支払われます。原則として配達時に追加請求はありませんが、ブラジル連邦歳入庁が荷物の価値を再評価することがあり、その場合は納める税金が変わります。2026年5月13日からは、US$ 50までの購入の輸入税がゼロになりました。2026年9月10日の法律15.502/2026は、政府がこの範囲の税率をゼロのまま維持できることを確認しています。",
+          "この計算は注文ごとに行われ、商品代金と送料の合計から、割引とクーポンを適用した後の金額で判断されます。つまり、ブラックフライデーの割引によって注文がUS$ 50以下になることもあります。上限はドル建てです。チェックアウトでは、支払い前に注文の税金が表示されます。"
+        ],
+        "comparisonTable": {
+          "caption": "SHEIN ブラジルの税金ページ（2026年5月23日更新）による。ICMSは多くの州で17%、Amapá は18%、Pará は19%。Acre、Alagoas、Bahia、Ceará、Paraíba、Piauí、Rio Grande do Norte、Roraima、Sergipe は20%です。",
+          "headers": [
+            "注文（商品＋送料）",
+            "輸入税",
+            "ICMS",
+            "SHEIN の例（補助なし）"
+          ],
+          "rows": [
+            [
+              "US$ 50まで",
+              "0%",
+              "州により17%〜20%",
+              "US$ 50が、ICMS 17%で US$ 60.24 になります"
+            ],
+            [
+              "US$ 50を超える",
+              "60%（税額からUS$ 30を差し引く）",
+              "州により17%〜20%。輸入税にもかかります",
+              "US$ 100が、ICMS 17%で US$ 156.63 になります"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SHEIN は、ICMS の一部を引き続き負担すると述べています。ただし、負担するのは商品代金に対する部分だけです。補助の大きさは顧客ごとに異なり、その基準は SHEIN が公表していません。また、輸入税にかかる ICMS は補助の対象外です。",
+          "**国内配送**の商品は、すでにブラジル国内にあるため、輸入税がかかりません。また、発送後に返品しても、支払った輸入税は戻りません。"
+        ]
+      },
+      {
+        "heading": "国内配送か国際配送か？",
+        "paragraphs": [
+          "SHEIN では同じ検索結果に、海外から届く商品と、すでにブラジル国内にある販売者の商品が混ざっています。後者は「国内配送」と表示されます。ブラックフライデーでは、この違いが最終価格と割引のルールに影響します。"
+        ],
+        "bullets": [
+          "**国内配送:** 輸入税はかかりません。販売者ごとに送料、配送日数、条件が異なり、SHEIN ポイントはこれらの商品には使えません。",
+          "**国際配送:** 税関を通るため、税金はチェックアウトで支払います。SHEIN は発送前に注文の処理に3〜5日かかります。また、注文の氏名は CPF（ブラジルの納税者番号）と一致している必要があります。",
+          "**配送日数:** 配送日数と送料は、支払い前に注文ページで確認できます。注文が複数の荷物に分かれて届くこともあります。",
+          "**遅延:** SHEIN には無料の期日内配達サービスがあります。予定日までに届かなかった場合、200 SHEIN ポイント、または R$ 10（ブラジル・レアル）のウォレット残高がもらえます。"
+        ]
+      },
+      {
+        "heading": "クーポン、ポイント、4CW5Y（紹介コード）",
+        "paragraphs": [
+          "SHEIN のクーポンの決まりでは、プラットフォームのクーポンは注文ごとに1枚までです。カートに国内販売者の商品が入っている場合は、その販売者のストアクーポンも使えます。使えるのは最大2枚で、プラットフォームとストアのクーポンを1枚ずつです。各クーポンには有効期限があり、期限内に使わなかったものは使えなくなります。",
+          "SHEIN ポイントは100ポイントで US$ 1 の価値があり、商品代金の最大30%まで差し引けます。送料と税金は含みません。国内販売者の商品には使えません。",
+          "4CW5Y は Cecília の紹介コードです。クーポンではありません。SHEIN アプリで 4CW5Y を検索し、ご自身のアカウントに表示される条件をご確認ください。紹介コードとキャンペーンは SHEIN ブラジルのもので、他の国では使えない場合があります。SHEIN のキャンペーンは頻繁に変わるため、このサイトのストアページに、確認日とともに掲載しています。"
+        ],
+        "links": [
+          {
+            "label": "4CW5Y の紹介コードと SHEIN のキャンペーンを見る",
+            "href": "/ja/coupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "ブラックフライデーの支払い方法",
+        "paragraphs": [
+          "SHEIN は Pix（ブラジルの即時決済システム）、ブラジル発行のクレジットカード（最大6回の分割払い）、boleto（ブラジルの銀行払込票）、PayPal、Pagaleve（後払いサービス）に対応しています。boleto は3日以内に支払う必要があります。SHEIN 自身も、在庫切れや支払い確認の遅れを避けるため、カードか PayPal を勧めています。在庫が少ないセールでは、この点が重要です。",
+          "返金が必要な場合は、Pix が最も早い方法です。SHEIN は24時間以内に処理し、銀行の反映に1〜3営業日かかります。クレジットカードの場合、銀行の反映に3〜8営業日かかり、場合によっては30日かかることもあります。"
+        ]
+      },
+      {
+        "heading": "ブラックフライデーのあとの交換と返品",
+        "bullets": [
+          "**期限:** 受け取ってから20日以内。商品が気に入らなかっただけでも返品できます。",
+          "**7日以内にしか返品できない商品:** ボディスーツ、ビーチウェア、下着、イヤリングとピアス、ペット用品、開封済みの化粧品、パーティー用品と手芸用品。これらは受け取りから7日間の撤回期間内に限り返品できます。",
+          "**返送料:** 注文ごとに最初の返品は無料です。返品は Correios（ブラジルの郵便サービス）、Jadlog、Total Express（いずれもブラジルの配送業者）から選べます。2回目以降は、返品のたびに SHEIN が返金額から R$ 45 を差し引きます。",
+          "**クーポン:** 一部だけを返品した場合、そのクーポンは使用済みとなり、アカウントに戻りません。注文金額がクーポンの最低利用額を下回った場合、SHEIN は適用されなくなった割引分を返金額から差し引きます。",
+          "**税金:** 注文が発送された後は、支払った輸入税は戻りません。"
+        ]
+      },
+      {
+        "heading": "支払う前に確認すること",
+        "bullets": [
+          "商品が国内配送か国際配送か。",
+          "国際注文が、送料を含め割引適用後で US$ 50 までに収まっているか。",
+          "注文の概要に表示された ICMS の金額。",
+          "クーポンが適用されているか、ポイントが差し引かれているか。",
+          "クリスマスのプレゼントなら、配送日数が間に合うか。",
+          "商品が7日以内にしか返品できないものかどうか。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "SHEIN のブラックフライデーは2026年いつ始まりますか？ SHEIN はまだ発表していません。2024年は10月21日に11.11と一緒に始まり、2025年は11月3日からすでに開始されていました。2026年のブラックフライデーは11月27日です。",
+          "SHEIN のブラックフライデーはいつまでですか？ 2024年と2025年は11月30日までです。2023年は11月25日まで。これはブラックフライデーの翌日、土曜日でした。",
+          "SHEIN の 11.11 とは何ですか？ 11月11日の独身の日のセールです。SHEIN は 11.11 とブラックフライデーを1つのキャンペーンにまとめ、月末まで割引の段階を設けています。",
+          "SHEIN のブラックフライデーの買い物にも税金はかかりますか？ かかります。国際購入には、州により17%〜20%の ICMS がかかります。輸入税は、US$ 50までの注文ではゼロ、それを超えると60%（税額からUS$ 30を差し引く）です。",
+          "SHEIN の輸入税ゼロは、どんな買い物にも適用されますか？ いいえ。商品と送料を合わせ、割引適用後に US$ 50 までの国際注文にだけ適用されます。それを超えると、輸入税が戻ります。",
+          "国内配送の商品には輸入税がかかりますか？ かかりません。国内配送の商品はすでにブラジル国内にあるため、輸入税はかかりません。",
+          "SHEIN でクーポンを複数使えますか？ SHEIN のプラットフォームクーポンは注文ごとに1枚までです。カートに国内販売者の商品があれば、その販売者のストアクーポンを追加で使えます。",
+          "4CW5Y は割引クーポンですか？ いいえ。Cecília の紹介コードです。SHEIN アプリで 4CW5Y を検索し、ご自身のアカウントの条件をご確認ください。",
+          "SHEIN のブラックフライデーには送料無料がありますか？ 過去数年は、キャンペーンの一部の時期にありました。2023年はブラックフライデー週に48時間の送料無料、2025年は初めの時期に複数のカテゴリーで送料無料でした。送料はカートに表示されます。",
+          "ブラックフライデーに買ったものは、いつまでに返品できますか？ 受け取ってから20日以内です。下着、ビーチウェア、ボディスーツ、イヤリングなど一部の商品は、7日以内の返品に限られます。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "SHEIN でカートを作り、支払う前に注文の概要で税金を確認しましょう",
+      "label": "SHEIN へ進む",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "ルールは SHEIN ブラジルの公式ページとブラジルの法律15.502/2026より。購入によりアフィリエイト報酬を受け取る場合があります。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-black-friday-ja",
+        "title": "Black Friday YesStyle 2026（ブラックフライデー）：いつ始まる？クーポンの仕組みとCECILIA010の入れ方"
+      }
+    ]
+  },
+  {
+    "id": 355,
+    "slug": "shein-black-friday-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "shein-black-friday",
+    "title": "Black Friday SHEIN 2026（黑色星期五）：何時開始、何時結束，以及 US$ 50 以下免進口稅",
+    "seoTitle": "SHEIN 黑色星期五 2026：日期、稅金與優惠券",
+    "type": "黑色星期五指南",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN 黑色星期五何時開始、何時結束。整理 2023 至 2025 年的日程，說明 US$ 50 以下訂單免進口稅的變化，並比較國內配送與國際配送、優惠券、點數、付款與退貨。",
+    "metaDescription": "SHEIN 黑色星期五 2026：2023 至 2025 年的日程、US$ 50 以下免進口稅、仍需繳納的 ICMS、國內配送、優惠券、點數與退貨。",
+    "publishedAt": "2026年10月11日",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "Cecília Mauad 穿著兩套 SHEIN 購物造型：淺色上衣在腰間打結搭配黑色中長裙，以及黑色長洋裝搭配淺色拼接。",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "自 2026 年 5 月 13 日起，US$ 50 以下的國際訂單不需繳納進口稅",
+      "過去三年，優惠活動都在黑色星期五之前開始，並在黑色星期五之後繼續",
+      "國內配送（Envio Nacional）的商品不需繳納進口稅",
+      "退貨期限為 20 天，每筆訂單的第一次退貨免運費"
+    ],
+    "cons": [
+      "「最高 90%」只適用於部分商品，不適用於整個購物車",
+      "跨境購買都要繳納 ICMS（巴西州稅，17% 至 20%）",
+      "超過 US$ 50 後，進口稅會回來：稅率 60%，稅額再扣除 US$ 30",
+      "每筆訂單只能使用一張 SHEIN 平台優惠券，已繳的進口稅退貨後也不退回"
+    ],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "SHEIN 尚未公布 2026 年的黑色星期五活動。本指南介紹的是 SHEIN 巴西站（巴西網站與 App），日期、稅金、價格與規則在其他國家可能不同。過去三年，活動都在黑色星期五之前與 11.11（光棍節，即雙十一購物節）一同開始，並在黑色星期五之後結束：2023 年為 11 月 25 日，2024 年與 2025 年為 11 月 30 日。2026 年的黑色星期五是 11 月 27 日。",
+          "今年最大的變化在稅金。自 2026 年 5 月 13 日起，國際訂單若在 US$ 50 以內（商品加運費，且已扣除折扣），就不需繳納進口稅。ICMS 州稅（17% 至 20%）仍要繳，SHEIN 表示會負擔其中一部分。超過 US$ 50，進口稅就會回來。",
+          "每筆訂單可使用一張 SHEIN 平台優惠券。4CW5Y 是 Cecília 的推薦碼。你可以在 SHEIN App 中搜尋 4CW5Y，並查看帳號顯示的條件。推薦碼與活動都來自 SHEIN 巴西站，在其他國家可能無法使用。"
+        ]
+      },
+      {
+        "heading": "SHEIN 黑色星期五何時開始",
+        "paragraphs": [
+          "SHEIN 把 11.11 與黑色星期五合併成同一場活動，並在月底前逐步提高最高折扣。下表彙整了 SHEIN 過去三年公布的內容。2026 年的日程尚未公布。"
+        ],
+        "comparisonTable": {
+          "caption": "SHEIN 巴西站公布的各階段與最高折扣，依據刊登公告的媒體與品牌官方帳號整理。「最高」只適用於部分商品。",
+          "headers": [
+            "年份",
+            "起迄日期",
+            "公布的最高折扣"
+          ],
+          "rows": [
+            [
+              "2023 年",
+              "11月11日〜11月25日",
+              "11 月 11 至 19 日最高 80%，11 月 20 至 23 日最高 85%，11 月 24、25 日最高 90%，黑色星期五當週提供 48 小時免運費"
+            ],
+            [
+              "2024 年",
+              "10月21日〜11月30日",
+              "11.11：10 月 21 日至 11 月 4 日最高 85%，11 月 5 至 10 日最高 90%，11 月 11 至 13 日最高 95%。黑色星期五：11 月 13 至 25 日最高 90%，11 月 26 至 30 日最高 95%"
+            ],
+            [
+              "2025 年",
+              "11月3日〜11月30日（已上線）",
+              "至 11 月 9 日，80 萬件以上商品最高 90%，多個類別免運費；11 月 24 日起，80 萬件以上商品最高 95%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "2026 年的 11.11 是星期三，黑色星期五是星期五，也就是 11 月 27 日。如果 SHEIN 延續過去的模式，活動應會在十月底到十一月初之間開始，並持續到 11 月 30 日。這是依據過去紀錄的推估。SHEIN 公布 2026 年活動後，本指南會再更新。",
+          "過去三年，最高折扣都是越接近結束越高：2023 年 11 月 24、25 日為 90%；2024 年 11 月 26 至 30 日為 95%；2025 年自 11 月 24 日起為 95%。"
+        ]
+      },
+      {
+        "heading": "「最高 90%」不代表整個購物車",
+        "paragraphs": [
+          "活動的百分比只是部分商品的最大折扣。多數商品的折扣較小，而且每件商品的價格會隨著階段改變。想避開廣告上的大數字，可以這樣做："
+        ],
+        "bullets": [
+          "活動開始前，先把想買的商品加入願望清單，並記下現在的價格。",
+          "把願望清單上的價格，和之後各階段的價格比較。過去三年，最高折扣都在最後階段提高。",
+          "在購物車確認含運費與稅金的最終價格，不要只看廣告上的百分比。",
+          "如果是不容易買到的尺碼，不要等到最後階段，因為庫存可能先賣完。"
+        ]
+      },
+      {
+        "heading": "黑色星期五的稅金：2026 年有什麼改變",
+        "paragraphs": [
+          "SHEIN 參與 Remessa Conforme。這是巴西聯邦稅務局（Receita Federal）為跨境購物推出的計畫。因此稅金會在結帳時和訂單一起支付，原則上送達時不會再額外收費，但巴西聯邦稅務局可能重新評估包裹價值，進而改變應繳稅額。2026 年 5 月 13 日起，US$ 50 以下的購買已免除進口稅。2026 年 9 月 10 日的第 15.502/2026 號法律確認，政府可以在這個範圍維持進口稅零稅率。",
+          "金額以每筆訂單計算，使用的是商品價格加運費，並已扣除折扣與優惠券。也就是說，黑色星期五的折扣可能讓訂單低於 US$ 50。上限以美元計算。付款前，結帳頁面會顯示這筆訂單的稅金。"
+        ],
+        "comparisonTable": {
+          "caption": "依據 SHEIN 巴西站的稅金頁面（2026 年 5 月 23 日更新）。ICMS 在多數州為 17%；Amapá 為 18%，Pará 為 19%；Acre、Alagoas、Bahia、Ceará、Paraíba、Piauí、Rio Grande do Norte、Roraima 與 Sergipe 為 20%。",
+          "headers": [
+            "訂單（商品＋運費）",
+            "進口稅",
+            "ICMS",
+            "SHEIN 的例子（不含補貼）"
+          ],
+          "rows": [
+            [
+              "US$ 50 以內",
+              "0%",
+              "依州別 17% 至 20%",
+              "US$ 50 加上 17% ICMS 後變成 US$ 60.24"
+            ],
+            [
+              "超過 US$ 50",
+              "60%，稅額再扣除 US$ 30",
+              "依州別 17% 至 20%，同樣會對進口稅計收",
+              "US$ 100 加上 17% ICMS 後變成 US$ 156.63"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SHEIN 表示會繼續負擔部分 ICMS，但只針對商品價格。補貼金額因顧客而異，依 SHEIN 未公開的標準計算，而且不包括進口稅本身產生的 ICMS。",
+          "**國內配送**的商品已在巴西境內，因此不需繳納進口稅。另外，寄出後若退回商品，已繳的進口稅也不會退還。"
+        ]
+      },
+      {
+        "heading": "國內配送還是國際配送？",
+        "paragraphs": [
+          "在 SHEIN 搜尋同一個關鍵字時，結果會同時出現從海外寄出的商品，以及已在巴西境內、標示為國內配送的賣家商品。黑色星期五期間，這兩者的差別會影響最終價格與折扣規則。"
+        ],
+        "bullets": [
+          "**國內配送：** 不需繳納進口稅。每位賣家的運費、時效與條件各不相同，而且 SHEIN 點數不能用於這些商品。",
+          "**國際配送：** 會經過海關，稅金在結帳時支付。SHEIN 在寄出前需要 3 到 5 天處理訂單，而且訂購人的姓名必須與 CPF（巴西的納稅人編號）相符。",
+          "**時效：** 配送時效與運費會在付款前顯示在訂單頁面。訂單可能分成多個包裹寄出。",
+          "**延遲：** SHEIN 提供免費的準時配送服務。如果訂單未在預定日期前送達，可獲得 200 SHEIN 點數，或 R$ 10（巴西雷亞爾）的錢包餘額。"
+        ]
+      },
+      {
+        "heading": "優惠券、點數與推薦碼 4CW5Y",
+        "paragraphs": [
+          "根據 SHEIN 的優惠券規則，每筆訂單可使用一張平台優惠券。如果購物車中有國內賣家的商品，也可以再用該賣家的店鋪優惠券，最多兩張，平台與店鋪各一張。每張優惠券都有期限，過期未用就無法使用。",
+          "SHEIN 點數每 100 點值 US$ 1，最多可抵扣商品價格的 30%，不含運費與稅金。國內賣家的商品不能使用點數。",
+          "4CW5Y 是 Cecília 的推薦碼。它不是優惠券。請在 SHEIN App 中搜尋 4CW5Y，並查看你的帳號顯示的條件。推薦碼與活動都來自 SHEIN 巴西站，在其他國家可能無法使用。SHEIN 的活動經常變動，所以我們把活動資訊放在本站的商店頁面，並附上確認日期。"
+        ],
+        "links": [
+          {
+            "label": "查看 4CW5Y 推薦碼與 SHEIN 活動",
+            "href": "/zh-hant/coupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "黑色星期五的付款方式",
+        "paragraphs": [
+          "SHEIN 接受 Pix（巴西的即時付款系統）、巴西發行的信用卡（最多 6 期分期）、boleto（巴西的銀行繳費單）、PayPal 與 Pagaleve（先買後付服務）。boleto 須在 3 天內付款。SHEIN 本身也建議使用信用卡或 PayPal，以免因付款確認延遲而遇到缺貨，這在庫存有限的促銷中尤其重要。",
+          "如果需要退款，Pix 最快：SHEIN 會在 24 小時內處理，銀行需要 1 到 3 個工作天入帳。信用卡方面，銀行需要 3 到 8 個工作天，有時長達 30 天。"
+        ]
+      },
+      {
+        "heading": "黑色星期五之後的換貨與退貨",
+        "bullets": [
+          "**期限：** 收到商品後 20 天內。即使只是不喜歡這件商品，也可以退貨。",
+          "**只能在 7 天內退貨的商品：** 連身衣、泳裝、內衣、耳環與穿孔飾品、寵物用品，以及開封的化妝品、派對用品與手作用品。這些商品只能在收到後 7 天的猶豫期內退貨。",
+          "**退貨運費：** 每筆訂單的第一次退貨免運費，可選擇 Correios（巴西郵政服務）、Jadlog 或 Total Express（皆為巴西的物流公司）。第二次起，SHEIN 每次退貨都會從退款中扣除 R$ 45。",
+          "**優惠券：** 部分退貨時，該優惠券視為已使用，不會退回帳戶。如果剩餘訂單低於優惠券的最低消費門檻，SHEIN 會從退款中扣除不再適用的那部分折扣。",
+          "**稅金：** 訂單寄出後，已繳的進口稅不會退還。"
+        ]
+      },
+      {
+        "heading": "付款前要確認的事項",
+        "bullets": [
+          "商品是國內配送還是國際配送。",
+          "國際訂單加上運費並扣除折扣後，是否在 US$ 50 以內。",
+          "訂單摘要中的 ICMS 金額。",
+          "優惠券是否已套用，點數是否已扣除。",
+          "如果是送聖誕禮物，配送時間是否來得及。",
+          "商品是否屬於只能在 7 天內退貨的類型。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "2026 年的 SHEIN 黑色星期五何時開始？ SHEIN 尚未公布。2024 年的活動於 10 月 21 日與 11.11 一起開始，2025 年則在 11 月 3 日已經上線。2026 年的黑色星期五是 11 月 27 日。",
+          "SHEIN 的黑色星期五活動會持續到何時？ 2024 年與 2025 年到 11 月 30 日。2023 年到 11 月 25 日，也就是黑色星期五之後的星期六。",
+          "SHEIN 的 11.11 是什麼？ 是 11 月 11 日的光棍節購物節。SHEIN 把 11.11 與黑色星期五合併成同一場活動，並在月底前設有多個折扣階段。",
+          "SHEIN 黑色星期五的購物也要繳稅嗎？ 要。所有跨境購買都要繳納 ICMS，依州別為 17% 至 20%。進口稅在 US$ 50 以內的訂單為零；超過則為 60%，稅額再扣除 US$ 30。",
+          "SHEIN 的進口稅零稅率適用於所有購買嗎？ 不是。只適用於商品加運費、已扣除折扣後在 US$ 50 以內的國際訂單。超過之後，進口稅就會回來。",
+          "國內配送的商品需要繳進口稅嗎？ 不需要。國內配送的商品已在巴西境內，因此不需繳納進口稅。",
+          "在 SHEIN 可以同時使用多張優惠券嗎？ 每筆訂單只能使用一張 SHEIN 平台優惠券。如果購物車中有國內賣家的商品，可以再加上該賣家的店鋪優惠券。",
+          "4CW5Y 是折扣嗎？ 不是。它是 Cecília 的推薦碼。請在 SHEIN App 中搜尋這個推薦碼，並查看你的帳號條件。",
+          "SHEIN 的黑色星期五有免運費嗎？ 過去幾年，活動期間有時會有免運費：2023 年有 48 小時免運費，2025 年活動初期多個類別免運費。你的訂單運費會顯示在購物車中。",
+          "黑色星期五買的東西，最晚什麼時候可以退貨？ 收到後 20 天內。內衣、泳裝、連身衣、耳環等部分商品只能在 7 天內退貨。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "在 SHEIN 組好購物車，付款前先在訂單摘要確認稅金",
+      "label": "前往 SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "規則取自 SHEIN 巴西站官方頁面與巴西第 15.502/2026 號法律。我們可能會從購買中獲得佣金。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-black-friday-zh-hant",
+        "title": "Black Friday YesStyle 2026（黑色星期五）：何時開始、優惠券怎麼用，CECILIA010 填在哪裡"
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "slug": "shein-black-friday-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "shein-black-friday",
+    "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、何时结束，以及 US$ 50 以内免进口税",
+    "seoTitle": "SHEIN 黑色星期五 2026：日期、税金与优惠券",
+    "type": "黑色星期五指南",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN 黑色星期五何时开始、何时结束。整理 2023 至 2025 年的日程，说明 US$ 50 以内订单免进口税的变化，并比较国内配送与国际配送、优惠券、积分、付款与退货。",
+    "metaDescription": "SHEIN 黑色星期五 2026：2023 至 2025 年的日程、US$ 50 以内免进口税、仍需缴纳的 ICMS、国内配送、优惠券、积分与退货。",
+    "publishedAt": "2026年10月11日",
+    "publishedAtISO": "2026-10-11",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+    "imageAlt": "Cecília Mauad 穿着 SHEIN 购物分享中的两套穿搭：腰间打结的浅色上衣配黑色中长裙，以及带浅色拼接的长款黑裙",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "自 2026 年 5 月 13 日起，US$ 50 以内的国际订单不需缴纳进口税",
+      "过去三年，优惠活动都在黑色星期五之前开始，并延续到黑色星期五之后",
+      "国内配送（Envio Nacional）的商品不需缴纳进口税",
+      "退货期限为 20 天，每笔订单的第一次退货免运费"
+    ],
+    "cons": [
+      "“最高 90%”只适用于部分商品，不适用于整个购物车",
+      "跨境购买都要缴纳 ICMS（巴西州税，17% 至 20%）",
+      "超过 US$ 50 后，进口税会回来：税率 60%，并从税额中扣除 US$ 30",
+      "每笔订单只能使用一张 SHEIN 平台优惠券，已缴的进口税退货后也不退回"
+    ],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "SHEIN 尚未公布 2026 年的黑色星期五活动。本指南介绍的是 SHEIN 巴西站（巴西网站与 App），日期、税金、价格与规则在其他国家可能不同。过去三年，活动都在黑色星期五之前与 11.11（光棍节，即双十一购物节）一同开始，并在黑色星期五之后结束：2023 年到 11 月 25 日，2024 年与 2025 年到 11 月 30 日。2026 年的黑色星期五是 11 月 27 日。",
+          "今年最大的变化在税金。自 2026 年 5 月 13 日起，国际订单若在 US$ 50 以内（商品加运费，且已扣除折扣），就不需缴纳进口税。ICMS 州税（17% 至 20%）仍要缴，SHEIN 表示会负担其中一部分。超过 US$ 50，进口税就会回来。",
+          "每笔订单可使用一张 SHEIN 平台优惠券。4CW5Y 是 Cecília 的推荐码。你可以在 SHEIN App 中搜索 4CW5Y，并查看账户显示的条件。推荐码与活动都来自 SHEIN 巴西站，在其他国家可能无法使用。"
+        ]
+      },
+      {
+        "heading": "SHEIN 黑色星期五何时开始",
+        "paragraphs": [
+          "SHEIN 把 11.11 与黑色星期五合并成同一场活动，并在月底前逐步提高最高折扣。下表汇总了 SHEIN 过去三年公布的内容。2026 年的日程尚未公布。"
+        ],
+        "comparisonTable": {
+          "caption": "SHEIN 巴西站公布的各阶段与最高折扣，依据刊登公告的媒体与品牌官方账号整理。“最高”只适用于部分商品。",
+          "headers": [
+            "年份",
+            "起迄日期",
+            "公布的最高折扣"
+          ],
+          "rows": [
+            [
+              "2023 年",
+              "11月11日〜11月25日",
+              "11 月 11 至 19 日最高 80%，11 月 20 至 23 日最高 85%，11 月 24、25 日最高 90%，黑色星期五当周提供 48 小时免运费"
+            ],
+            [
+              "2024 年",
+              "10月21日〜11月30日",
+              "11.11：10 月 21 日至 11 月 4 日最高 85%，11 月 5 至 10 日最高 90%，11 月 11 至 13 日最高 95%。黑色星期五：11 月 13 至 25 日最高 90%，11 月 26 至 30 日最高 95%"
+            ],
+            [
+              "2025 年",
+              "11月3日〜11月30日（已上线）",
+              "11 月 9 日前，80 万件以上商品最高 90%，多个类别免运费；11 月 24 日起，80 万件以上商品最高 95%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "2026 年的 11.11 是星期三，黑色星期五是星期五，也就是 11 月 27 日。如果 SHEIN 延续过去的模式，活动应会在十月底到十一月初之间开始，并持续到 11 月 30 日。这是依据过去纪录的推估。SHEIN 公布 2026 年活动后，本指南会再更新。",
+          "过去三年，最高折扣都是越接近结束越高：2023 年 11 月 24、25 日为 90%；2024 年 11 月 26 至 30 日为 95%；2025 年自 11 月 24 日起为 95%。"
+        ]
+      },
+      {
+        "heading": "“最高 90%”不等于整个购物车的折扣",
+        "paragraphs": [
+          "活动的百分比只是部分商品的最大折扣。多数商品的折扣较小，而且每件商品的价格会随着阶段改变。想避开广告上的大数字，可以这样做："
+        ],
+        "bullets": [
+          "活动开始前，先把想买的商品加入愿望清单，并记下现在的价格。",
+          "把愿望清单上的价格，和之后各阶段的价格比较。过去三年，最高折扣都在最后阶段提高。",
+          "在购物车确认含运费与税金的最终价格，不要只看广告上的百分比。",
+          "如果是不容易买到的尺码，不要等到最后阶段，因为库存可能先卖完。"
+        ]
+      },
+      {
+        "heading": "黑色星期五的税金：2026 年有什么变化",
+        "paragraphs": [
+          "SHEIN 参与 Remessa Conforme。这是巴西联邦税务局（Receita Federal）为跨境购物推出的计划。因此税金会在结账时和订单一起支付，原则上送达时不会再收取，但联邦税务局可能重新评估包裹价值，从而改变应缴的税金。2026 年 5 月 13 日起，US$ 50 以内的购买已免除进口税。2026 年 9 月 10 日的第 15.502/2026 号法律确认，政府可以在这个范围维持零税率。",
+          "金额以每笔订单计算，使用的是商品价格加运费，并已扣除折扣与优惠券。也就是说，黑色星期五的折扣可能让订单低于 US$ 50。上限以美元计算。付款前，结账页面会显示这笔订单的税金。"
+        ],
+        "comparisonTable": {
+          "caption": "依据 SHEIN 巴西站的税金页面（2026 年 5 月 23 日更新）。ICMS 在多数州为 17%；Amapá 为 18%，Pará 为 19%；Acre、Alagoas、Bahia、Ceará、Paraíba、Piauí、Rio Grande do Norte、Roraima 与 Sergipe 为 20%。",
+          "headers": [
+            "订单（商品＋运费）",
+            "进口税",
+            "ICMS",
+            "SHEIN 的例子（不含补贴）"
+          ],
+          "rows": [
+            [
+              "US$ 50 以内",
+              "0%",
+              "依州别 17% 至 20%",
+              "US$ 50 加上 17% ICMS 后变成 US$ 60.24"
+            ],
+            [
+              "超过 US$ 50",
+              "60%，从税额中扣除 US$ 30",
+              "依州别 17% 至 20%，同样会对进口税计收",
+              "US$ 100 加上 17% ICMS 后变成 US$ 156.63"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "SHEIN 表示会继续负担部分 ICMS，但只针对商品价格。补贴金额因顾客而异，依 SHEIN 未公开的标准计算，而且不包括进口税本身产生的 ICMS。",
+          "**国内配送**的商品已在巴西境内，因此不需缴纳进口税。另外，寄出后若退回商品，已缴的进口税也不会退还。"
+        ]
+      },
+      {
+        "heading": "国内配送还是国际配送？",
+        "paragraphs": [
+          "在 SHEIN 搜索同一个关键词时，结果会同时出现从海外寄出的商品，以及已在巴西境内、标示为国内配送的卖家商品。黑色星期五期间，这两者的差别会影响最终价格与折扣规则。"
+        ],
+        "bullets": [
+          "**国内配送：** 不需缴纳进口税。每位卖家的运费、时效与条件各不相同，而且 SHEIN 积分不能用于这些商品。",
+          "**国际配送：** 会经过海关，税金在结账时支付。SHEIN 在寄出前需要 3 到 5 天处理订单，而且订单上的姓名必须与 CPF（巴西的纳税人编号）相符。",
+          "**时效：** 配送时效与运费会在付款前显示在订单页面。订单可能分成多个包裹寄出。",
+          "**延误：** SHEIN 提供免费的准时配送服务。如果订单未在预定日期前送达，可获得 200 SHEIN 积分，或 R$ 10（巴西雷亚尔）的钱包余额。"
+        ]
+      },
+      {
+        "heading": "优惠券、积分与推荐码 4CW5Y",
+        "paragraphs": [
+          "根据 SHEIN 的优惠券规则，每笔订单可使用一张平台优惠券。如果购物车中有国内卖家的商品，也可以再用该卖家的店铺优惠券，最多两张，平台与店铺各一张。每张优惠券都有期限，过期未用就无法使用。",
+          "100 SHEIN 积分折合 US$ 1，最多可抵扣商品价格的 30%，不含运费与税金。国内卖家的商品不能使用积分。",
+          "4CW5Y 是 Cecília 的推荐码。它不是优惠券。请在 SHEIN App 中搜索 4CW5Y，并查看你的账户显示的条件。推荐码与活动都来自 SHEIN 巴西站，在其他国家可能无法使用。SHEIN 的活动经常变动，所以我们把活动信息放在本站的店铺页面，并附上确认日期。"
+        ],
+        "links": [
+          {
+            "label": "查看 4CW5Y 推荐码与 SHEIN 活动",
+            "href": "/zh-hans/coupons/shein"
+          }
+        ]
+      },
+      {
+        "heading": "黑色星期五的付款方式",
+        "paragraphs": [
+          "SHEIN 接受 Pix（巴西的即时付款系统）、巴西发行的信用卡（最多 6 期分期）、boleto（巴西的银行缴费单）、PayPal 与 Pagaleve（先买后付服务）。boleto 须在 3 天内付款。SHEIN 本身也建议使用信用卡或 PayPal，以免因付款确认延迟而遇到缺货，这在库存有限的促销中尤其重要。",
+          "如果需要退款，Pix 最快：SHEIN 会在 24 小时内处理，银行需要 1 到 3 个工作日到账。信用卡方面，银行需要 3 到 8 个工作日，有时长达 30 天。"
+        ]
+      },
+      {
+        "heading": "黑色星期五之后的换货与退货",
+        "bullets": [
+          "**期限：** 收到商品后 20 天内。即使只是不喜欢这件商品，也可以退货。",
+          "**只能在 7 天内退货的商品：** 连体衣、泳装、内衣、耳环与穿孔饰品、宠物用品，以及开封的化妆品、派对用品与手工用品。这些商品只能在收到后 7 天的犹豫期内退货。",
+          "**退货运费：** 每笔订单的第一次退货免运费，可选择 Correios（巴西邮政服务）、Jadlog 或 Total Express（皆为巴西的物流公司）。第二次起，SHEIN 每次退货都会从退款中扣除 R$ 45。",
+          "**优惠券：** 部分退货时，该优惠券视为已使用，不会退回账户。如果剩余订单低于优惠券的最低消费门槛，SHEIN 会从退款中扣除不再适用的那部分折扣。",
+          "**税金：** 订单寄出后，已缴的进口税不会退还。"
+        ]
+      },
+      {
+        "heading": "付款前要确认的事项",
+        "bullets": [
+          "商品是国内配送还是国际配送。",
+          "国际订单加上运费并扣除折扣后，是否在 US$ 50 以内。",
+          "订单摘要中的 ICMS 金额。",
+          "优惠券是否已套用，积分是否已扣除。",
+          "如果是送圣诞礼物，配送时间是否来得及。",
+          "商品是否属于只能在 7 天内退货的类型。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "2026 年的 SHEIN 黑色星期五何时开始？ SHEIN 尚未公布。2024 年的活动于 10 月 21 日与 11.11 一起开始，2025 年则在 11 月 3 日已经上线。2026 年的黑色星期五是 11 月 27 日。",
+          "SHEIN 的黑色星期五活动会持续到何时？ 2024 年与 2025 年到 11 月 30 日。2023 年到 11 月 25 日，也就是黑色星期五之后的星期六。",
+          "SHEIN 的 11.11 是什么？ 是 11 月 11 日的光棍节购物节。SHEIN 把 11.11 与黑色星期五合并成同一场活动，并在月底前设有多个折扣阶段。",
+          "SHEIN 黑色星期五的购物也要缴税吗？ 要。所有跨境购买都要缴纳 ICMS，依州别为 17% 至 20%。进口税在 US$ 50 以内的订单为零；超过则为 60%，并从税额中扣除 US$ 30。",
+          "SHEIN 的进口税零税率适用于所有购买吗？ 不是。只适用于商品加运费、已扣除折扣后在 US$ 50 以内的国际订单。超过之后，进口税就会回来。",
+          "国内配送的商品需要缴进口税吗？ 不需要。国内配送的商品已在巴西境内，因此不需缴纳进口税。",
+          "在 SHEIN 可以同时使用多张优惠券吗？ 每笔订单只能使用一张 SHEIN 平台优惠券。如果购物车中有国内卖家的商品，可以再加上该卖家的店铺优惠券。",
+          "4CW5Y 是折扣优惠券吗？ 不是。它是 Cecília 的推荐码。请在 SHEIN App 中搜索这个代码，并查看你的账户条件。",
+          "SHEIN 的黑色星期五有免运费吗？ 过去几年，活动期间有时会有免运费：2023 年有 48 小时免运费，2025 年活动初期多个类别免运费。你的订单运费会显示在购物车中。",
+          "黑色星期五买的东西，最晚什么时候可以退货？ 收到后 20 天内。内衣、泳装、连体衣、耳环等部分商品只能在 7 天内退货。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "在 SHEIN 挑选商品加入购物车，付款前先在订单摘要确认税金",
+      "label": "前往 SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "规则取自 SHEIN 巴西站官方页面与巴西第 15.502/2026 号法律。我们可能会从购买中获得佣金。",
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-black-friday-zh-hans",
+        "title": "Black Friday YesStyle 2026（黑色星期五）：何时开始、优惠券怎么用，CECILIA010 填在哪里"
       }
     ]
   }
