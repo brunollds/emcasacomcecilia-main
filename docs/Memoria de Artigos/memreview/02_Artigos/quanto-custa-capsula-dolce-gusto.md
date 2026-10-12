@@ -10,9 +10,9 @@ status: "pauta-aprovada"
 responsavel: "Job-1"
 proxima_acao: "redigir-artigo"
 bloqueado_por: null
-score_autoridade: 80 # 0 a 100
-score_conversao: 72 # 0 a 100
-score_ponderado_total: 76 # média de A e B; ver seção 4
+score_autoridade: 81 # 0 a 100
+score_conversao: 75 # 0 a 100
+score_ponderado_total: 78 # média de A e B; ver seção 4
 data_criacao: "2026-10-12"
 i18n_cluster: null
 translationKey: null
@@ -53,7 +53,7 @@ status_i18n: "nao-aplicavel"
 - **Trabalho Principal:** [ ] Autoridade/Citação | [x] Visita/Decisão | [ ] Conversão Comercial | [ ] Suporte/Pós-compra
 - **Resiste à compressão por IA?** [ ] Sim | [x] Parcial | [ ] Não. "Quanto custa uma cápsula" cabe numa linha (R$ 1,79 a R$ 2,89 por cápsula na loja oficial hoje). O que exige a página é a tabela por tipo de bebida (cápsulas por bebida, bebidas por caixa, preço cheio e do dia), a comparação entre caixa, DGusta, combo e assinatura e a fórmula para refazer a conta.
 - **O que exige a visita do usuário?** Tabela de custo por bebida por família (café puro, café com leite de 1 cápsula, bebidas de 2 cápsulas, chocolates, chás, Starbucks, NEO), a tabela de formas de compra e a conta de quantas caixas fecham R$ 100.
-- **Como o benefício/código chega ao leitor?** Link contextual para `/cupons/dolce-gusto` no bloco "Como pagar menos", com o CECI como cupom de parceria: 5% OFF em compras a partir de R$ 100, até 3 usos por CPF, "confira no carrinho". Sem conta de CECI sobre preço promocional (seção 7).
+- **Como o benefício/código chega ao leitor?** Link contextual para `/cupons/dolce-gusto` no bloco "Como pagar menos", com o CECI como cupom de parceria: só a regra, "5% OFF em compras a partir de R$ 100 na loja oficial, até 3 vezes por CPF", sem ressalva de soma (Bruno, 12/10/2026). Sem conta de preço por bebida com CECI, porque não há teste de carrinho (seção 7).
 - **Atualiza artigo existente ou cria novo?** Cria novo.
 - **URL mais próxima semanticamente (Risco de canibalização):**
   1. `/reviews/tabela-medidas-dolce-gusto-ml-por-nivel`: recebe as buscas "quantos ml faz uma cápsula" (15,5 mil impressões em 3 meses, posição cerca de 4). **Regra:** "rende" no sentido de ml é dela. Este artigo responde "rende" como **bebidas por caixa e custo por bebida** e linka a tabela para ml. Nunca recontar a tabela de ml por nível nem os volumes por bebida da embalagem.
@@ -74,7 +74,11 @@ status_i18n: "nao-aplicavel"
 - Autocompletar de 12/10/2026: "capsula dolce gusto rende" → "rende quantos ml", "qual capsula dolce gusto rende mais", "quanto rende capsula dolce gusto"; "quanto custa uma capsula dolce gusto" → "quanto rende uma capsula dolce gusto", "quanto custa a capsula da dolce gusto"; "capsula dolce gusto mais barata" → "capsula dolce gusto barata"; "dolce gusto xl" → "dolce gusto xl capsula", "dolce gusto xl ml", "dolce gusto xl cappuccino", "dolce gusto xl lungo".
 - Concorrente: viroutendencia.com publica variações curtas; não está no top 7 de "qual cápsula rende mais" (11/10).
 - GSC (3 meses até 11/10): muitas consultas "quantos ml faz uma cápsula dolce gusto" já caem em `/reviews/tabela-medidas-dolce-gusto-ml-por-nivel` (15,5 mil impressões, posição cerca de 4). Sem dado de GSC para as consultas de custo: **pedir export filtrado** (pendência 9).
-- SERP/"As pessoas também perguntam" do Google **não coletado por mim**: o google.com.br pediu verificação de robô em 12/10/2026 (cerca de 14h04 UTC) e parei de usar o site (pendência 1).
+- **"As pessoas também perguntam" e SERP do Google (coletados pelo lead em 12/10/2026, `google.com.br`, `hl=pt-BR`):**
+  - "qual capsula dolce gusto rende mais": Qual é o melhor sabor de cápsula Dolce Gusto? / Quanto rende 1 cápsula Dolce Gusto? / Qual é a cápsula mais vendida da Dolce Gusto? / Qual a Dolce Gusto mais completa? Topo do SERP: loja oficial, guias de "melhores cápsulas", "Qual cápsula Dolce Gusto rende mais? Veja quais fazem...", Reddit r/cafebrasil.
+  - "quanto custa uma capsula dolce gusto": Quanto rende 1 cápsula Dolce Gusto? / Qual é a cápsula mais vendida da Dolce Gusto? / Onde posso encontrar 50 cápsulas Dolce Gusto? / Quais cápsulas dão certo na Dolce Gusto? Resultados: quase só lojas (oficial, Amazon, "80 Capsulas...").
+  - "kit capsulas dolce gusto" (formas de compra): Onde é mais barato comprar cápsulas Dolce Gusto? / Como posso obter 30 cápsulas grátis na Dolce Gusto? / Quais cápsulas dão certo na Dolce Gusto? / Onde posso comprar 100 cápsulas Dolce Gusto®? Resultados incluem as páginas oficiais "Combos" e "Do Seu Jeito" (DGusta).
+  - Leitura: a SERP de custo segue de lojas (difícil de ranquear), mas a pergunta "quanto rende 1 cápsula" aparece nas duas consultas e "onde comprar 50 ou 100" confirma a demanda por DGusta e combo.
 
 ---
 
@@ -83,21 +87,23 @@ status_i18n: "nao-aplicavel"
 | Critério | Peso | Nota Obtida | Justificativa |
 |---|---|---|---|
 | 1. Dor / Dúvida real do usuário | 25 pts | 20 | Pergunta de compra e de gasto, com seis formulações no autocompletar. Perde pontos porque parte do "rende" é a dúvida de ml, que já tem página. |
-| 2. Evidência de demanda (GSC / buscas) | 20 pts | 13 | Autocompletar amplo em 11 e 12/10, mas sem impressões de GSC para as consultas de custo e com SERP de custo dominada por loja. |
+| 2. Evidência de demanda (GSC / buscas) | 20 pts | 15 | Autocompletar amplo em 11 e 12/10 e PAA de 3 consultas coletado em 12/10 (seção 3); sem impressões de GSC para as consultas de custo e com SERP de custo dominada por loja. |
 | 3. Valor exclusivo além do oficial | 20 pts | 17 | A loja só mostra preço por bebida no montador DGusta. A tabela única em R$ por bebida, a distinção de 1 e 2 cápsulas e a conta dos R$ 100 não existem no site. |
 | 4. Necessidade de visita (anti-compressão) | 15 pts | 13 | Tabela por família de bebida e tabela de formas de compra. A resposta curta cabe numa linha, a conta completa não. |
 | 5. Contribuição para cluster / links | 10 pts | 8 | Liga assinatura, Black Friday, tabela de ml, cápsulas compatíveis, NEO e `/cupons/dolce-gusto`. Sem peça nova de máquina. |
 | 6. Viabilidade de produção & manutenção | 10 pts | 5 | Todo preço muda por promoção (caixa de R$ 25,90 a R$ 17,90 em dias). Pede reconsulta no fim de outubro e na Black Friday. A fórmula aberta ajuda, mas a tabela datada envelhece. |
-| **TOTAL** | **100 pts** | **76** | Média de A e B (convenção dos outros briefings do parceiro). |
+| **TOTAL** | **100 pts** | **78** | Média de A e B (convenção dos outros briefings do parceiro). |
 
-- **Score A (Autoridade Editorial):** `80/100`. Dados oficiais, conta aberta e rastreável. Perde pontos pela volatilidade do preço promocional.
-- **Score B (Visita & Conversão):** `72/100`. Intenção de compra clara e link para a loja com o CECI. Perde pontos porque a SERP de custo é de lojas (difícil de ranquear) e porque o CECI não pode ser calculado sobre preço promocional sem teste.
-- **Nota sobre o total:** o Job 1 não define como a tabela de 6 critérios vira A e B. Segui a convenção dos briefings `dolce-gusto-maquinas-qual-escolher` e `dolce-gusto-genio-s-basic-vs-plus-vs-touch` (total = média de A e B).
+- **Score A (Autoridade Editorial):** `81/100`. Dados oficiais, conta aberta e rastreável, demanda confirmada no PAA. Perde pontos pela volatilidade do preço promocional.
+- **Score B (Visita & Conversão):** `75/100`. Intenção de compra clara (PAA com "onde comprar 50/100" e "mais barato") e link para a loja com o CECI. Perde pontos porque a SERP de custo é de lojas (difícil de ranquear) e porque o preço por bebida com CECI não entra na conta (sem teste de carrinho).
+- **Nota sobre o total:** o Job 1 não define como a tabela de 6 critérios vira A e B. Segui a convenção dos briefings `dolce-gusto-maquinas-qual-escolher` e `dolce-gusto-genio-s-basic-vs-plus-vs-touch` (total = média de A e B). Era 76 antes do PAA (+2 pelos 2 pontos do critério 2).
 
 ---
 
 ## 5. Mídia & Planejamento Visual (Imagens & Vídeos)
-- **Imagem Principal (Hero):** foto das caixas de cápsulas Dolce Gusto. Candidata já no site: `/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp` (já usada em outros artigos; conferir a licença e se aparece o rótulo "x5 + x5"). Alternativa: `/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp` (Cecília com xícara; não mostra cápsula, só serve de apoio humano). A foto ideal é uma caixa de Cappuccino e uma de Espresso lado a lado, com o "x5 + x5" e o "x10" legíveis: **material novo, pedir ao Bruno** (pendência 8).
+- **Imagem Principal (Hero):** foto das caixas de cápsulas Dolce Gusto. Candidata já no site: `/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp` (já usada em outros artigos; conferir a licença e se aparece o rótulo "x5 + x5"). Alternativa: `/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp` (Cecília com xícara; não mostra cápsula, só serve de apoio humano). A foto ideal é uma caixa de Cappuccino e uma de Espresso lado a lado, com o "x5 + x5" e o "x10" legíveis.
+  - **Decisão (Bruno, 12/10/2026): foto pendente com ele.** Bruno vai ver se tem uma caixa de Cappuccino e uma de Espresso para fotografar (pendência 8).
+  - **Imagem provisória até lá:** as fotos oficiais `dg-cappuccino-oficial.png` e `dg-espresso-intenso-oficial.png`, lado a lado, já baixadas em `C:\Users\Bruno\Downloads\Emcasacomcecilia\midia-staging\2026-10-12-fase3\dolce-gusto-sabores\` (origem em `..\ORIGEM.md`; PNG 1000 × 1000, fundo transparente, de `nescafe-dolcegusto.com.br/media/catalog/product/`). O Job 4 monta a imagem pelo fluxo do guia de mídia, com nome de arquivo novo. Se o Bruno fotografar, a foto própria substitui a provisória.
 - **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md). Caminhos locais no JSON, sem URL de CDN. Imagem da loja oficial (capturas do montador DGusta) não entra sem origem e licença registradas; a conta vai em tabela de texto, não em print.
 - **Imagens Inline / Seções:** as tabelas são texto. Opcional: uma foto da caixa de Cappuccino com a legenda "5 cápsulas de leite + 5 de café = 5 bebidas", só com foto própria.
 - **Galeria de Detalhes:** nenhuma prevista.
@@ -144,11 +150,11 @@ Fontes oficiais (loja Nescafé Dolce Gusto), todas consultadas em **2026-10-12**
 | 23 | Não existe cápsula "XL" no catálogo: o ícone de tamanho de xícara de cada produto marca pequena, média ou grande; nenhum dos produtos da listagem marca XL (60 links verificados, entre produtos e filtros) | Fato oficial (por ausência) | F6, ícones `cup-size__icon` de cada página de produto (verificado nos links de produto da listagem, 60 ao todo) | Ícone ativo de "Tamanho da xícara" | 2026-10-12 | [x] Sim, com a redação "o catálogo de hoje não traz cápsula marcada como XL"; XL é função da máquina, remeter ao comparativo e à tabela de ml |
 | 24 | Promoção ativa em 12/10: "Bebidas com até 30% OFF + frete grátis acima de R$ 100" (DGusta e Geração I; não vale para NEO nem máquinas) desde 01h00 de 12/10; pode acabar sem aviso | Condição comercial volátil | F5 | "PROMOÇÕES ATIVAS" | 2026-10-12 | [x] Sim, datada |
 | 25 | Promoções do site não somam com resgate de pontos; podem acabar sem aviso; item no carrinho não garante o desconto se a promoção acabar | Fato oficial | F5 | "Regras gerais de Promoção" | 2026-10-12 | [x] Sim |
-| 26 | CECI: 5% OFF em compras a partir de R$ 100 na loja oficial, até 3 usos por CPF; soma com promoção "pode variar conforme campanha ativa"; confira no carrinho | Condição comercial | C (`discount`, `eligibleCategories`, `reusable`, `combinable`, `lastVerified: 2026-10-01`) e dossiê | Campos do cupom | 2026-10-12 | [x] Sim, com "confira no carrinho" |
+| 26 | CECI: 5% OFF em compras a partir de R$ 100 na loja oficial, até 3 vezes por CPF. Bruno (12/10/2026) entende que o cupom funciona com combos e promoções e que a única limitação é o mínimo de R$ 100 | Condição comercial | C (`discount`, `eligibleCategories`, `reusable`, `combinable`, `lastVerified: 2026-10-01`), dossiê e declaração do Bruno em 12/10/2026 (sem teste de carrinho) | Campos do cupom | 2026-10-12 | [x] Sim, só a regra, **sem ressalva de soma** e sem afirmar soma |
 | 27 | CECI somou 5% aos 25% da assinatura em teste de 04/10 | Experiência própria já publicada | `content/reviews/assinatura-dolce-gusto-vale-a-pena.json` | Seção "O cupom CECI soma com a assinatura?" | 2026-10-04 (artigo) | [x] Sim, só por link e uma frase; não refazer a conta |
-| 28 | Quantas caixas passam de R$ 100: 6 caixas de R$ 17,90 somam R$ 107,40; 4 caixas de R$ 25,90 somam R$ 103,60 | Cálculo próprio | F1 | Multiplicação de preço de caixa | 2026-10-12 | [x] Sim, como "para chegar a R$ 100 em caixa de R$ 17,90 são 6 caixas". **Não** dizer que o CECI vale sobre esse valor promocional (pendência 4) |
-| 29 | "O CECI dá R$ 5 a cada R$ 100 em produtos elegíveis" | Cálculo próprio | C (5%) | Regra de três | 2026-10-12 | [x] Sim, com "se o cupom entrar no carrinho" |
-| 30 | Preço por bebida com CECI aplicado sobre preço promocional | Cálculo não confirmado | — | — | — | [ ] **Não.** Sem teste de que o cupom soma com a promoção do dia, a conta não entra |
+| 28 | Quantas caixas passam de R$ 100: 6 caixas de R$ 17,90 somam R$ 107,40; 4 caixas de R$ 25,90 somam R$ 103,60 | Cálculo próprio | F1 | Multiplicação de preço de caixa | 2026-10-12 | [x] Sim, como "para chegar a R$ 100 em caixa de R$ 17,90 são 6 caixas". Sem afirmar nada além da regra do CECI (pendência 4) |
+| 29 | "O CECI dá R$ 5 a cada R$ 100 em produtos elegíveis" | Cálculo próprio | C (5%) | Regra de três | 2026-10-12 | [x] Sim, sem ressalva |
+| 30 | Preço por bebida com CECI aplicado sobre preço promocional | Cálculo não testado | — | — | — | [ ] **Não.** Sem teste de carrinho, a conta por bebida com CECI não entra; o artigo cita só a regra (decisão do Bruno de 12/10 dispensa o teste de soma, mas não vira número) |
 | 31 | Preço em Amazon, Mercado Livre, supermercado ou outras lojas | Terceiros | — | — | — | [ ] Não. Só "o preço fora da loja oficial varia", sem número |
 | 32 | Preço, marca ou sabor de cápsula compatível de terceiros | Terceiros | — | — | — | [ ] Não. Só link para `dolce-gusto-capsulas-compativeis-guia` |
 | 33 | Qualquer código próprio da loja (primeira compra, DGusta ou outro) | Regra do dossiê | `01_Parceiros/Dolce-Gusto.md`, seção 1 | Linha "cupons próprios da loja" | 2026-10-12 | [ ] Não citar o código. Escrever "a loja mostra um código próprio de primeira compra" ou nada; responder com o CECI |
@@ -191,7 +197,7 @@ Observação para a redação: no preço do dia da caixa avulsa (R$ 17,90) a ass
 
 ## 7. Estratégia de Links Contextuais
 - **Afiliado (`affiliate`):** `dolce-gusto`
-- **Código (`coupon`) e o nome que a loja dá a ele:** `CECI`, cupom de parceria (5% de desconto; não é código de recompensa nem de indicação). Nome no texto: "cupom CECI". Texto do bloco: "5% OFF em compras a partir de R$ 100 na loja oficial, até 3 usos por CPF; confira no carrinho se ele soma com a promoção do dia". Sem preço por bebida com CECI. O efeito citável é "R$ 5 a cada R$ 100". Para a assinatura, só o teste já publicado.
+- **Código (`coupon`) e o nome que a loja dá a ele:** `CECI`, cupom de parceria (5% de desconto; não é código de recompensa nem de indicação). Nome no texto: "cupom CECI". Texto do bloco, só a regra: "5% OFF em compras a partir de R$ 100 na loja oficial, até 3 vezes por CPF". Sem ressalva de soma e sem afirmar soma. Sem preço por bebida com CECI. O efeito citável é "R$ 5 a cada R$ 100". Para a assinatura, só o teste já publicado.
 - **Links internos para a página da loja (máx 3):** `/cupons/dolce-gusto` (1 link, no bloco "Como pagar menos").
 - **Links internos para reviews** (um por intenção, com a âncora que diz a tarefa do destino):
   - `/reviews/tabela-medidas-dolce-gusto-ml-por-nivel` (quantos ml cada bebida faz; é aqui que "rende" em ml é respondido)
@@ -231,11 +237,11 @@ Observação para a redação: no preço do dia da caixa avulsa (R$ 17,90) a ass
 5. **Tamanhos de caixa e a pergunta da "caixa de 16" e da "cápsula XL".** Caixa de 10 (e de 12 só na Toffee Nut); DGusta 50 e 100; combos de 30 a 80 cápsulas; regulamento cita 10, 12 e 16, mas hoje não há caixa de 16 à venda. XL: nenhum produto do catálogo marca xícara XL; XL é função da máquina (remeter à tabela de ml e ao comparativo).
 6. **Original ou NEO: custo por bebida.** NEO é café preto, 1 cápsula por bebida, R$ 2,19 a R$ 3,09 por bebida hoje; combo NEO de 5 caixas a R$ 2,16 por cápsula; linhas não são compatíveis (link do guia de compatíveis e do adaptador).
 7. **Tabela 2: formas de comprar** (caixa avulsa, DGusta, combo, assinatura) em R$ por bebida, com a nota de que o DGusta não é mais barato por cápsula e de que no dia de promoção forte o combo é o menor valor encontrado.
-8. **Como chegar a R$ 100 sem comprar à toa** (frete grátis acima de R$ 100 na campanha ativa e CECI a partir de R$ 100): 6 caixas de R$ 17,90 ou 4 de R$ 25,90; CECI como "R$ 5 a cada R$ 100 se o cupom entrar" e link para `/cupons/dolce-gusto`. Sem prometer soma com a promoção.
+8. **Como chegar a R$ 100 sem comprar à toa** (frete grátis acima de R$ 100 na campanha ativa e CECI a partir de R$ 100): 6 caixas de R$ 17,90 ou 4 de R$ 25,90; CECI: "5% OFF em compras a partir de R$ 100 na loja oficial, até 3 vezes por CPF" (ou "R$ 5 a cada R$ 100") e link para `/cupons/dolce-gusto`. Só a regra.
 9. **O que muda de um dia para o outro.** A campanha pode acabar sem aviso, o item no carrinho não garante o preço, não soma com pontos do Club; fórmula para refazer a conta; link do guia de Black Friday.
 10. **FAQ literal.**
 
-**FAQ literal (pergunta do autocompletar, resposta factual em uma frase):**
+**FAQ literal (pergunta do autocompletar e do "As pessoas também perguntam" de 12/10, resposta factual em uma frase; "Como obter 30 cápsulas grátis" não entra, sem fonte oficial no vault):**
 - *Quanto custa uma cápsula Dolce Gusto?* Na loja oficial em 12/10/2026, de R$ 1,79 a R$ 2,89 por cápsula Original (caixa de 10 de R$ 17,90 a R$ 28,90); o preço cheio é R$ 2,59 ou R$ 2,89.
 - *Quanto custa a cápsula da Dolce Gusto NEO?* A caixa de 10 NEO custa de R$ 21,90 a R$ 30,90 hoje, ou R$ 2,19 a R$ 3,09 por cápsula.
 - *Quanto rende uma cápsula Dolce Gusto?* Uma cápsula faz uma bebida, e as bebidas com leite de 2 cápsulas (como o Cappuccino) usam duas. Em ml, veja a tabela de medidas (link).
@@ -245,8 +251,11 @@ Observação para a redação: no preço do dia da caixa avulsa (R$ 17,90) a ass
 - *Quanto custa um Cappuccino Dolce Gusto por xícara?* R$ 3,58 com a caixa a R$ 17,90 e R$ 5,18 no preço cheio (cálculo próprio: preço da caixa ÷ 5).
 - *Cápsula Dolce Gusto XL existe?* O catálogo da loja não traz cápsula marcada como XL; XL é uma função da máquina (link da tabela de ml).
 - *O DGusta é mais barato que a caixa?* Por cápsula, não: no dia, os dois dão R$ 1,79 no Espresso. O DGusta serve para misturar sabores em 50 ou 100 cápsulas.
-- *Onde comprar cápsula Dolce Gusto mais barato?* Na loja oficial, o combo de várias caixas deu o menor valor por bebida em 12/10.
-- *O CECI vale para cápsulas?* O CECI dá 5% OFF em compras a partir de R$ 100 na loja oficial, até 3 usos por CPF; o carrinho mostra se soma com a promoção do dia.
+- *Onde é mais barato comprar cápsulas Dolce Gusto?* Entre as opções da loja oficial, o combo de várias caixas teve o menor valor por bebida em 12/10 (R$ 1,67 a R$ 1,69 por cápsula e R$ 3,39 no Cappuccino).
+- *Onde posso encontrar 50 cápsulas Dolce Gusto? / Onde posso comprar 100 cápsulas Dolce Gusto?* No DGusta da loja oficial, que monta a caixa de 50 ou 100 cápsulas, sabor a sabor.
+- *Quais cápsulas dão certo na Dolce Gusto?* Original na máquina Original e NEO na máquina NEO; o guia de compatíveis mostra os casos com adaptador.
+- *Qual é a cápsula mais vendida da Dolce Gusto?* A loja não publica critério de mais vendidas, então não há ranking oficial; para escolher sabor, veja o guia de sabores (só depois de publicado).
+- *O CECI vale para cápsulas?* Sim: 5% OFF em compras a partir de R$ 100 na loja oficial, até 3 vezes por CPF.
 
 ---
 
@@ -266,15 +275,15 @@ Observação para a redação: no preço do dia da caixa avulsa (R$ 17,90) a ass
 
 ## 11. Pendências antes de publicar (não bloqueiam a redação)
 
-1. **Google bloqueou a consulta com verificação de robô** (`google.com.br`, 12/10/2026, cerca de 14h04 UTC, página "tráfego incomum"). Parei de usar o Google. O Bruno precisa passar a verificação se quiser "As pessoas também perguntam" para "quanto custa uma capsula dolce gusto" e "qual capsula dolce gusto rende mais". O autocompletar de 11 e 12/10 vem do lead.
+1. ~~**Google bloqueou a consulta com verificação de robô.**~~ **Resolvida em 12/10/2026:** acesso liberado e PAA de "quanto custa uma capsula dolce gusto", "qual capsula dolce gusto rende mais" e "kit capsulas dolce gusto" coletado pelo lead (seção 3).
 2. **Domínio da loja.** `couponsData.ts` usa `nescafe-dolcegusto.com.br` e foi onde consultei; `dolce-gusto.com.br` não abriu. O JSON `cupom-ceci-nescafe-dolce-gusto-como-usar` cita `www.dolce-gusto.com.br` como site oficial. Conferir se é redirecionamento válido ou erro, fora desta pauta.
 3. **Preço promocional volátil.** A loja estava em "ofertas do 10.10" e, desde 01h00 de 12/10, em "Bebidas com até 30% OFF". Reconsultar na redação e antes da publicação; reconsultar de novo no fim de outubro e na Black Friday (27/11). A tabela deve manter a coluna "preço cheio" como base.
-4. **O CECI soma com a promoção do dia, com o DGusta e com os combos?** Só há teste publicado da soma com a assinatura (04/10, com subtotal de R$ 119,60 antes do desconto). Para a conta por bebida com CECI e para saber se os R$ 100 contam antes ou depois do desconto da promoção, é preciso teste no carrinho (decisão do Bruno; não adicionei nada ao carrinho). Até lá, o artigo não faz conta com CECI sobre preço promocional.
+4. ~~**O CECI soma com a promoção do dia, com o DGusta e com os combos?**~~ **Resolvida por decisão do Bruno em 12/10/2026, sem teste:** ele entende que o cupom funciona com combos e promoções e que a única limitação é o mínimo de R$ 100. O artigo diz só a regra (5% OFF em compras a partir de R$ 100 na loja oficial, até 3 vezes por CPF), sem ressalva e sem afirmar soma. Segue publicado só o teste da soma com a assinatura (04/10). Sem teste de carrinho, o artigo não faz conta de preço por bebida com CECI.
 5. **Diferenças de centavos entre o artigo publicado da assinatura e o site em 12/10:** R$ 19,43 contra R$ 19,42 (Geração I regular); cappuccino R$ 3,89 contra R$ 3,88; NEO regular R$ 21,68 contra R$ 21,70; NEO especial R$ 23,18 contra R$ 23,20. É arredondamento da loja; o artigo de custo deve usar o valor lido na hora e o da assinatura pode ser alinhado na revisão mensal.
 6. **Rascunho `melhores-capsulas-dolce-gusto-2026`** traz "caixas de 16 unidades", faixa "R$ 22 a R$ 28" e "caixa de 16 faz 8 bebidas": nada disso está no catálogo oficial de hoje. Avisar a pauta paralela.
 7. **Frete abaixo de R$ 100.** Não coletei o valor (depende do CEP no carrinho). O artigo só diz "frete grátis acima de R$ 100 na campanha ativa" e "calculado no carrinho" nos demais casos.
-8. **Mídia.** Não há foto própria de caixa de Cappuccino e de Espresso com o "x5 + x5" e o "x10" legíveis. Pedir ao Bruno ou à Cecília (material novo, com origem registrada). Nada de captura do site oficial.
-9. **GSC das consultas de custo.** Pedir o export de 3 meses filtrado por "quanto custa", "capsula", "rende" e "barata" para validar o critério 2 (hoje 13/20) antes da redação, e para confirmar se a consulta "quantos ml" deve mesmo ficar só na tabela.
+8. **Mídia (Bruno, 12/10/2026).** Não há foto própria de caixa de Cappuccino e de Espresso com o "x5 + x5" e o "x10" legíveis. O Bruno vai verificar se tem as duas caixas para fotografar (pendente com ele). Até lá, imagem provisória com as fotos oficiais `dg-cappuccino-oficial.png` e `dg-espresso-intenso-oficial.png` lado a lado (staging `midia-staging\2026-10-12-fase3\dolce-gusto-sabores\`, origem em `ORIGEM.md`), montada no Job 4. Nada de captura do site oficial.
+9. **GSC das consultas de custo.** Pedir o export de 3 meses filtrado por "quanto custa", "capsula", "rende" e "barata" para validar o critério 2 (hoje 15/20) antes da redação, e para confirmar se a consulta "quantos ml" deve mesmo ficar só na tabela.
 10. **Dossiê de parceiro.** `01_Parceiros/Dolce-Gusto.md` ainda diz "caixas de 10, 12 ou 16" sem nota de que hoje só há de 10 (e uma de 12). Atualizar quando o Job 3 ou 4 tocar no dossiê; não editei.
 11. **Máquina NEO Latte.** O filtro "Máquina NEO Latte" aparece na listagem de cápsulas, mas só devolveu um item sem estoque (NEO Lungo Chapada Diamantina). NEO foi tratada como cafés pretos. Se a loja lançar cápsula NEO de leite, a seção 6 do artigo muda.
 12. **Limite de links internos.** O contrato fala em "máx. 3 links internos para a página da loja". O artigo tem 1 link de loja e 6 a 8 links de reviews, como os outros guias do parceiro. Confirmar a regra com o Bruno (mesma pendência já registrada em `dolce-gusto-maquinas-qual-escolher`).
@@ -292,4 +301,6 @@ Observação para a redação: no preço do dia da caixa avulsa (R$ 17,90) a ass
 - Páginas de produto: `/sabores/cappuccino-capsulas-10`, `/sabores/starbucks-toffee-nut-latte-2`, `/sabores/combo-cappuccino-8cx-32off`; ícones de tamanho de xícara de todos os 60 produtos da listagem
 - `src/lib/couponsData.ts` (slug `dolce-gusto`), JSONs publicados em `content/reviews/` listados na seção 10
 
-Não consultados ou sem sucesso: Google SERP e "As pessoas também perguntam" (verificação de robô); `dolce-gusto.com.br` (falhou); `/sobre/faq` (conteúdo em sanfona não carregou no texto da página); manuais em PDF (não necessários para esta pauta); links de afiliado (não clicados); preços de varejo e de terceiros (fora do escopo).
+Google (PAA e topo do SERP de "qual capsula dolce gusto rende mais", "quanto custa uma capsula dolce gusto" e "kit capsulas dolce gusto", `google.com.br`, `hl=pt-BR`, 12/10/2026, coletado pelo lead; seção 3).
+
+Não consultados ou sem sucesso: `dolce-gusto.com.br` (falhou); `/sobre/faq` (conteúdo em sanfona não carregou no texto da página); manuais em PDF (não necessários para esta pauta); links de afiliado (não clicados); preços de varejo e de terceiros (fora do escopo).

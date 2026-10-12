@@ -10,9 +10,9 @@ status: "pauta-aprovada"
 responsavel: "Job-1"
 proxima_acao: "redigir-artigo (terminar o rascunho)"
 bloqueado_por: null
-score_autoridade: 74 # 0 a 100
-score_conversao: 82 # 0 a 100
-score_ponderado_total: 78 # média de A e B; ver seção 4
+score_autoridade: 76 # 0 a 100
+score_conversao: 84 # 0 a 100
+score_ponderado_total: 80 # média de A e B; ver seção 4
 data_criacao: "2026-10-12"
 i18n_cluster: null
 translationKey: null
@@ -45,7 +45,7 @@ status_i18n: "nao-aplicavel"
 *Todos devem ser [x] Sim para aprovação. Se qualquer item falhar, a pauta é descartada.*
 - [x] **1. Evidência Factual Suficiente:** catálogo, tipo, nº de cápsulas, bebidas por caixa, intensidade, descrição da marca, kits e combos saem das páginas oficiais da loja, lidas em 12/10/2026 (seção 12). Ressalvas: o ml por tamanho de xícara e o "modo frio" não entram (link para a tabela de ml); a ordenação "Mais Vendidos" não vira ranking (seção 3).
 - [x] **2. Segurança Regulatória & Ética:** sem alegação de saúde. Descafeinado, "sem adição de açúcares" (chás Nature's Heart), "Zero Lactose" e a cafeína do Doppio entram só como texto da marca, atribuído. Nada de "bom para crianças", "emagrece" ou "energia". Para criança: só "bebidas de chocolate sem café na lista de ingredientes", com o aviso de ler o rótulo.
-- [x] **3. Fronteira Factual vs Experiência:** não há prova de que a Cecília provou os sabores. As frases "aqui em casa" do rascunho saem até o Bruno confirmar (seção 11, pendência 1). O artigo é guia: especificação, descrição da marca e dado da loja.
+- [x] **3. Fronteira Factual vs Experiência:** não há prova de que a Cecília provou os sabores. As frases "aqui em casa" do rascunho saem (Bruno, 12/10/2026; seção 11, pendência 1). O artigo é guia: especificação, descrição da marca e dado da loja.
 - [x] **4. Anti-Canibalização:** não divide intenção com `/cupons/dolce-gusto` (o cupom aparece num bloco curto com link) nem com o briefing irmão de custo (só link), nem com o guia de compatíveis, a tabela de ml, a Black Friday ou a promoção Mini Me. Mapa de sobreposição na seção 2.
 - [x] **5. Classe Canônica Válida:** `guias-praticos-utilidade` (explica e ajuda a escolher, sem experiência própria declarada). `reviewKind: guia` (sem veredito, sem prós e contras).
 - [x] **6. Fontes Acessíveis, Exatas & Atuais:** lojas oficiais, URL e data na matriz. A loja muda preço, estoque e combos quase todo dia: o texto cita data em cada número volátil e não monta tabela de preço por sabor.
@@ -89,7 +89,13 @@ status_i18n: "nao-aplicavel"
 - Autocompletar, 11/10/2026: "cápsulas dolce gusto mais vendidas", "mais gostoso"; "kit capsulas" (10 sugestões).
 - Autocompletar, 12/10/2026: "melhores capsulas dolce gusto" → "melhores cápsulas compatíveis dolce gusto", "melhores sabores capsulas dolce gusto"; "kit capsulas dolce gusto" → "promoção", "mercado livre", "moça doce de leite cappuccino", "sortidas", "com xicara", "kit 50", "kit 100", "kit 30", "kit capsulas cafe dolce gusto".
 - Concorrente `viroutendencia.com`: uma página por sabor (cappuccino, chococino, lungo, mochaccino canela) e variações finas; não estava no top 7 das buscas testadas em 11/10. Não lido por este agente.
-- **Não coletado:** "As pessoas também perguntam" e o SERP do Google. O `google.com.br` mostrou bloqueio de robô às 14:06 UTC de 12/10 (página `google.com/sorry`); não foi resolvido nem contornado. Pendência para o Bruno (seção 11, pendência 6). Não há dado de GSC nesta pauta.
+- **"As pessoas também perguntam" e SERP do Google (coletados pelo lead em 12/10/2026, `google.com.br`, `hl=pt-BR`):**
+  - "melhores sabores capsulas dolce gusto": Qual o café mais gostoso da Dolce Gusto? / Qual café de cápsula é mais gostoso? / Qual é a melhor Dolce Gusto? / Quais são os sabores das cápsulas Dolce Gusto?
+  - "cápsulas dolce gusto mais vendidas": Qual o melhor sabor da Dolce Gusto? / Qual a cápsula de café mais gostoso? / Qual a melhor cápsula de capuccino da Dolce Gusto? / Qual a melhor cápsula de chocolate da Dolce Gusto?
+  - "kit capsulas dolce gusto": Onde é mais barato comprar cápsulas Dolce Gusto? / Como posso obter 30 cápsulas grátis na Dolce Gusto? / Quais cápsulas dão certo na Dolce Gusto? / Onde posso comprar 100 cápsulas Dolce Gusto®? Resultados com as páginas oficiais "Combos" e "Do Seu Jeito" (DGusta).
+  - "qual capsula dolce gusto rende mais": Qual é o melhor sabor de cápsula Dolce Gusto? / Quanto rende 1 cápsula Dolce Gusto? / Qual é a cápsula mais vendida da Dolce Gusto? / Qual a Dolce Gusto mais completa? Topo do SERP: loja oficial, "Melhores Cápsulas Dolce Gusto em 2026", "Recomendação de cápsulas Dolce Gusto saborosas", "Melhores Cápsulas Dolce Gusto: 10 Ótimas Opções", "Testei várias cápsulas da Dolce Gusto...", "Qual cápsula Dolce Gusto rende mais? Veja quais fazem...", Reddit r/cafebrasil.
+  - Leitura: a dúvida é decisão de sabor ("mais gostoso", "melhor sabor", "mais vendida") e de compra de kit ("100 cápsulas", "onde é mais barato"). Os concorrentes de topo prometem ranking ("melhores", "10 ótimas opções"); este guia responde por perfil, sem veredito.
+- Não há dado de GSC nesta pauta.
 - Nota sobre "Melhores cápsulas compatíveis": a busca existe, mas é do guia de compatíveis; aqui entra só um link.
 
 ---
@@ -99,25 +105,24 @@ status_i18n: "nao-aplicavel"
 | Critério | Peso | Nota Obtida | Justificativa |
 |---|---|---|---|
 | 1. Dor / Dúvida real do usuário | 25 pts | 20 | Decisão de compra com autocompletar em "melhores", "mais vendidas", "mais gostoso" e "kit" (sortidas, 30, 50, 100). A loja não responde a escolha por perfil. |
-| 2. Evidência de demanda (GSC / buscas) | 20 pts | 14 | Só autocompletar de 11 e 12/10; sem GSC e sem PAA (bloqueio do Google). Concorrente com páginas finas, fora do top 7. |
+| 2. Evidência de demanda (GSC / buscas) | 20 pts | 16 | Autocompletar de 11 e 12/10 e "As pessoas também perguntam" de 4 consultas, coletado em 12/10 (seção 3); sem GSC. Concorrente com páginas finas, fora do top 7. |
 | 3. Valor exclusivo além do oficial | 20 pts | 15 | Perfil, 1 ou 2 cápsulas por bebida agregado, comparação dos kits e o aviso de que a ordenação oficial não é um ranking. Sem experiência própria (vira só dado oficial). |
 | 4. Necessidade de visita (anti-compressão) | 15 pts | 13 | Tabelas de 52 sabores e de 7 kits/combos. |
 | 5. Contribuição para cluster / links | 10 pts | 9 | Liga compatíveis, ml, custo (irmão), Starbucks, BF, assinatura, cupom e adaptador. |
 | 6. Viabilidade de produção & manutenção | 10 pts | 7 | Dados oficiais fáceis de ler, mas estoque, combos e preços mudam quase todo dia; 52 itens e 8 NEO. Reconsulta mensal. |
-| **TOTAL** | **100 pts** | **78** | Média de A e B (ver nota). |
+| **TOTAL** | **100 pts** | **80** | Média de A e B (ver nota). |
 
-- **Score A (Autoridade Editorial):** `74/100`. Dados oficiais completos e datados; perde por não ter experiência própria declarada nem GSC.
-- **Score B (Visita & Conversão):** `82/100`. Intenção de compra com termos de kit e de sabor, link para a loja e o cupom CECI no meio da decisão.
-- **Nota sobre o total:** o Job 1 não diz como os seis critérios viram A e B. Calibrei a tabela para a média dos dois (78), como no briefing `dolce-gusto-maquinas-qual-escolher`.
+- **Score A (Autoridade Editorial):** `76/100`. Dados oficiais completos e datados e PAA coletado; perde por não ter experiência própria declarada nem GSC.
+- **Score B (Visita & Conversão):** `84/100`. Intenção de compra com termos de kit e de sabor confirmada no PAA, link para a loja e o cupom CECI no meio da decisão.
+- **Nota sobre o total:** o Job 1 não diz como os seis critérios viram A e B. Calibrei a tabela para a média dos dois (80; era 78 antes do PAA, +2 pelos 2 pontos do critério 2), como no briefing `dolce-gusto-maquinas-qual-escolher`.
 
 ---
 
 ## 5. Mídia & Planejamento Visual (Imagens & Vídeos)
-- **Imagem Principal (Hero), situação:** o rascunho aponta para `/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-2026-hero.webp`.
-  - **Existe** em `public/images/reviews/dolcegusto/` (64.236 bytes, 1200 × 670; mesma data de 05/10) e no `data/media-manifest.json` (`status: candidate`, `verification_status: verified` em 06/09/2026, `remote_url` no CDN, dono: este rascunho e o `starbucks-dolce-gusto-capsulas-guia`).
-  - **Não está** em `src/lib/generated/media-delivery-map.json` (zero ocorrências): como é só de rascunho, o resolvedor a deixa local (o `scripts/media/test-delivery-integration.ts` até exige isso). Ao publicar, `--append` no mapa (Job 4).
-  - **Problemas de conteúdo:** a imagem mostra uma bancada com cápsulas em fileira, uma cafeteira ao fundo e rótulos legíveis como "Espresso", "Lungo", "Latte Macchiato", "Cappuccino", "Americano", "Flat White" e "Chococino". Tem aparência de imagem gerada. "Americano" e "Flat White" não existem como caixa Original hoje (o Americano só existe em NEO; não há Flat White na loja). O `imageAlt` do rascunho ("organizadas sobre uma mesa de cozinha") descreve como foto real. **Origem e licença não estão registradas** no manifesto. Além disso, é a capa de outro rascunho (Starbucks). Não usar como está sem decisão do Bruno (pendência 3).
-  - **Alternativas:** foto real das caixas da Cecília (pedir ao Bruno), ou montagem de embalagens oficiais com origem registrada (download de arquivo pede aprovação do Bruno; não baixei nada).
+- **Imagem Principal (Hero), decisão do Bruno (12/10/2026): trocar a capa.** O hero antigo (`/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-2026-hero.webp`) deixa de ser usado neste artigo: parece gerado, mostra rótulos que a loja não vende ("Americano" Original, "Flat White") e não tem origem registrada. Ele fica para o rascunho do Starbucks, sem alteração.
+  - **Material aprovado e baixado:** 4 fotos oficiais das caixas em `C:\Users\Bruno\Downloads\Emcasacomcecilia\midia-staging\2026-10-12-fase3\dolce-gusto-sabores\` (origem em `..\ORIGEM.md`): `dg-espresso-intenso-oficial.png`, `dg-cappuccino-oficial.png`, `dg-chococino-nestle-oficial.png`, `dg-neo-espresso-sul-de-minas-oficial.png`. PNG 1000 × 1000, fundo transparente, fotos de produto de `nescafe-dolcegusto.com.br/media/catalog/product/`.
+  - **Job 4:** monta uma imagem 16:9 com as quatro caixas sobre fundo creme, com nome de arquivo novo (ex.: `melhores-capsulas-dolce-gusto-capa-oficial.webp`), pelo fluxo do guia de mídia (manifesto só inserindo a entrada nova, `--append` no `media-delivery-map.json` ao publicar).
+  - **`imageAlt`:** descreve as quatro caixas (Espresso Intenso, Cappuccino, Chococino Nestlé e NEO Espresso Sul de Minas) lado a lado sobre fundo claro.
 - **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md). JSON com caminhos locais.
 - **Imagens Inline / Seções:** tabelas em texto, não em imagem. Nenhuma foto das cápsulas da loja entra sem origem registrada.
 - **Galeria de Detalhes:** nenhuma prevista.
@@ -184,10 +189,10 @@ Todas as fontes são páginas da loja oficial `https://www.nescafe-dolcegusto.co
 
 | Afirmação planejada no artigo | Tipo de Dado | Fonte Exata | Localização / Trecho | Data Consulta | Pode Publicar? |
 |---|---|---|---|---|---|
-| Cupom CECI: 5% OFF em compras a partir de R$ 100, até 3 usos por CPF; teste em 01/10/2026 | Condição comercial | `src/lib/couponsData.ts` (slug `dolce-gusto`, `lastVerified: 2026-10-01`) | Ficha do cupom | 2026-10-12 | [x] Sim, com "confira no resumo do carrinho". **O rascunho omite o mínimo de R$ 100** |
-| O CECI "pode ser usado junto com combos e outras promoções" | Condição comercial | Rascunho; dossiê diz "pode variar conforme campanha ativa"; regulamentos dizem que as promoções da loja não somam com combos | — | 2026-10-12 | [ ] Não: soma com combo não foi testada. Texto: "a soma com combos e promoções pode variar; confira no carrinho" |
+| Cupom CECI: 5% OFF em compras a partir de R$ 100 na loja oficial, até 3 vezes por CPF; teste em 01/10/2026 | Condição comercial | `src/lib/couponsData.ts` (slug `dolce-gusto`, `lastVerified: 2026-10-01`) | Ficha do cupom | 2026-10-12 | [x] Sim, só a regra. **O rascunho omite o mínimo de R$ 100** |
+| Soma do CECI com combos e promoções | Condição comercial | Bruno, 12/10/2026 (declaração em conversa: o cupom funciona com combos e promoções; a única limitação é o mínimo de R$ 100). Sem teste de carrinho | — | 2026-10-12 | [ ] Não afirmar soma. O artigo diz só a regra ("5% OFF em compras a partir de R$ 100, até 3 vezes por CPF"), **sem ressalva de soma** ("pode variar", "confira no carrinho" saem) e sem prometer soma |
 | Códigos próprios da loja de primeira compra (aparecem nos regulamentos) | Regra do dossiê | `01_Parceiros/Dolce-Gusto.md` | — | 2026-10-12 | [ ] Não citar nenhum código da loja. Só o CECI |
-| "Esse é o sabor que mais temos em casa", "o Chococino é o que sobra menos rápido aqui", "quickNotes de consumo real" | Experiência própria | Nenhuma prova no vault | Rascunho | 2026-10-12 | [ ] Não, até o Bruno confirmar com data e fato (pendência 1) |
+| "Esse é o sabor que mais temos em casa", "o Chococino é o que sobra menos rápido aqui", "quickNotes de consumo real" | Experiência própria | Nenhuma prova no vault | Rascunho | 2026-10-12 | [ ] Não. Saem (Bruno, 12/10/2026) |
 | "O Espresso Intenso é um dos cafés mais vendidos da marca" | Alegação de vendas | Nenhuma fonte; a ordenação da loja o põe na posição 54 de 62 | Rascunho | 2026-10-12 | [ ] Não |
 | Faixa "R$ 22 a R$ 28" por caixa de 16 e "16 cápsulas fazem 8 bebidas" | Preço e fato | Loja: caixas de 10 (lista R$ 25,90 ou R$ 28,90; venda de R$ 17,90 a R$ 23,99 no dia 12/10) | — | 2026-10-12 | [ ] Não: erro de fato (seção 10) |
 
@@ -239,20 +244,27 @@ Todas as fontes são páginas da loja oficial `https://www.nescafe-dolcegusto.co
 8. **Starbucks e Kopenhagen.** Uma frase cada, com link.
 9. **"Mais vendidas": o que a loja mostra.** Uma frase: a loja tem a ordenação, mas não diz o critério, então o guia não faz ranking.
 10. **Kits, combos e sortidas oficiais.** Quadro de 4 a 6 linhas: nome, nº de cápsulas, o que vem e o preço de 12/10. Uma frase para "sortida" (seleções do DGusta), uma para "leve X pague Y" (a loja usa % OFF) e uma para marketplace (pacote de vendedor, fora deste guia).
-11. **Onde comprar e o cupom CECI.** Três frases: 5% OFF a partir de R$ 100, link para a ficha, link para o artigo de custo.
+11. **Onde comprar e o cupom CECI.** Três frases: a regra ("5% OFF em compras a partir de R$ 100 na loja oficial, até 3 vezes por CPF"), link para a ficha, link para o artigo de custo. Sem ressalva de soma com combo ou promoção.
 12. **Perguntas frequentes.**
 
-**FAQ literal (perguntas do autocompletar; resposta de uma frase, sem "melhor"):**
+**FAQ literal (perguntas do autocompletar e do "As pessoas também perguntam" de 12/10; resposta de uma frase, sem "melhor" como veredito):**
 - *Quais são as melhores cápsulas Dolce Gusto?* Não existe uma melhor: a escolha depende de você tomar café puro, com leite, chocolate ou chá.
-- *Quais são as cápsulas Dolce Gusto mais vendidas?* A loja tem a ordenação "Mais Vendidos", mas não informa o critério, por isso não fazemos ranking.
-- *Qual sabor de Dolce Gusto é o mais gostoso?* Depende do gosto: compare pela intensidade, pelo leite e pelo chocolate.
+- *Qual é o melhor sabor de cápsula Dolce Gusto?* Depende do seu perfil; a resposta rápida do guia separa café puro, café forte, com leite, chocolate, chá, gelado, Starbucks e NEO.
+- *Quais são as cápsulas Dolce Gusto mais vendidas? / Qual é a cápsula mais vendida da Dolce Gusto?* A loja tem a ordenação "Mais Vendidos", mas não informa o critério, então não há ranking oficial e não fazemos um.
+- *Qual sabor de Dolce Gusto é o mais gostoso? / Qual o café mais gostoso da Dolce Gusto?* Depende do gosto: compare pela intensidade, pelo leite e pelo chocolate.
+- *Quais são os sabores das cápsulas Dolce Gusto?* Em 12/10, a loja listava 52 caixas Original (19 cafés, 19 lattes, 9 chocolates e 5 chás) e 8 cafés NEO; o guia mostra os principais por tipo.
+- *Qual a melhor cápsula de cappuccino ou de chocolate da Dolce Gusto?* Não há uma melhor; o guia mostra os cappuccinos e os chocolates da loja com 1 ou 2 cápsulas por bebida para você comparar.
+- *Quais cápsulas dão certo na Dolce Gusto?* Original na máquina Original e NEO na máquina NEO; alguns cafés NEO aceitam o Adaptador NEO Start (veja o guia de compatíveis).
+- *Onde posso comprar 50 ou 100 cápsulas Dolce Gusto?* No DGusta da loja oficial, que monta caixas de 50 ou 100 cápsulas, sabor a sabor.
 - *Quantas bebidas faz uma caixa de cápsulas Dolce Gusto?* São 10 cápsulas: 10 bebidas nos cafés e 5 nos sabores de duas cápsulas, como o Cappuccino.
 - *Existe kit de cápsulas Dolce Gusto?* Sim: a loja oficial tem combos de caixas, o DGusta de 50 ou 100 cápsulas e combos com xícara.
 - *Existe cápsula Dolce Gusto sortida?* A loja chama de seleções prontas do DGusta (Favoritos, Cafés, Lattes e Chocolates).
 - *Tem "leve 3 pague 2" na Dolce Gusto?* Não encontramos; a loja usa percentual de desconto.
 - *Cápsula NEO serve na máquina Original?* Só em alguns casos, com o Adaptador NEO Start; veja o guia de compatíveis.
 - *Tem cápsula Dolce Gusto descafeinada?* Sim, o Espresso Descafeinado.
-- *O cupom CECI vale para cápsulas?* Sim, dá 5% OFF na loja oficial a partir de R$ 100; confira no carrinho.
+- *O cupom CECI vale para cápsulas?* Sim: 5% OFF em compras a partir de R$ 100 na loja oficial, até 3 vezes por CPF.
+
+Fora do FAQ: "Como obter 30 cápsulas grátis" (PAA de "kit") não entra, porque o vault não tem fonte oficial sobre isso; "Qual a Dolce Gusto mais completa?" parece falar de máquina e é de `dolce-gusto-maquinas-qual-escolher`; "Onde é mais barato comprar" e "Quanto rende 1 cápsula" são do briefing irmão de custo (só link).
 
 ---
 
@@ -266,15 +278,15 @@ Todas as fontes são páginas da loja oficial `https://www.nescafe-dolcegusto.co
 - `description` e `metaDescription`: citam "mais vendidos em 2026", "preços e quickNotes de consumo real". Reescrever sem ranking e sem experiência.
 - Seção "Como escolher": sai a faixa "R$ 22 a R$ 28 por caixa de 16"; entra "10 cápsulas e 1 ou 2 por bebida".
 - Seção "Bebidas com leite: Cappuccino e Latte Macchiato": o fato "duas cápsulas por porção" vale só para parte dos sabores (lista na seção 6.1); a seção vira tabela por cápsulas por bebida.
-- Seção "Economize com o cupom CECI": entra o mínimo de R$ 100 e o aviso de que a soma com combos pode variar; sai "usado em conjunto com outras promoções do site" (não confirmado) e "o gasto mensal diminui sem perder qualidade".
+- Seção "Economize com o cupom CECI": vira só a regra, com o mínimo de R$ 100 ("5% OFF em compras a partir de R$ 100 na loja oficial, até 3 vezes por CPF"), sem ressalva de soma; sai "usado em conjunto com outras promoções do site" (soma não testada, não se afirma) e "o gasto mensal diminui sem perder qualidade".
 - `editorialNote`: curta (seção 7).
 - Mochaccino, Nesquik e Nestea: o "Nestea... chá gelado ou quente, dependendo da variedade disponível" vira o que a loja lista hoje (Pêssego "chá gelado", Mate Limão, Pink Lemonade, Zen Style, Chai Tea Latte).
 
 **Sai:**
 - Seção **Ristretto** (não existe na loja) e todo o parágrafo "Ristretto é mais concentrado".
 - "O Espresso Intenso é um dos cafés mais vendidos da marca" (sem fonte; a loja o põe na posição 54 de 62).
-- `emphasis` do Espresso Intenso ("Esse é o sabor que mais temos em casa…") e do Chococino ("O Chococino é o que sobra menos rápido aqui…"): experiência própria sem prova; voltam só se o Bruno confirmar com fato e data (pendência 1).
-- "Quando temos experiência real de consumo aqui em casa, incluímos uma quickNote honesta" e "as quickNotes refletem experiências reais da nossa rotina doméstica" (descrição, primeira seção e `editorialNote`).
+- `emphasis` do Espresso Intenso ("Esse é o sabor que mais temos em casa…") e do Chococino ("O Chococino é o que sobra menos rápido aqui…"): experiência própria sem prova; saem (Bruno, 12/10/2026).
+- "Quando temos experiência real de consumo aqui em casa, incluímos uma quickNote honesta" e "as quickNotes refletem experiências reais da nossa rotina doméstica" (descrição, primeira seção e `editorialNote`): saem (Bruno, 12/10/2026).
 - "caixas de 16 unidades", "R$ 22 a R$ 28", "16 cápsulas fazem 8 bebidas" e "o custo por xícara é aproximadamente o dobro" (cálculo é do briefing irmão e o fato base está errado).
 - "Espresso Intenso: corpo médio, torra intensa" e "Ristretto: mais concentrado, curto" nos bullets.
 - `publishedAt: "Draft"` fica até a publicação; `publishedAtISO` e `updatedAt` só mudam na publicação.
@@ -285,13 +297,13 @@ Todas as fontes são páginas da loja oficial `https://www.nescafe-dolcegusto.co
 
 ## 11. Pendências antes de publicar (não bloqueiam a redação)
 
-1. **Experiência própria do rascunho (Bruno).** Confirmar, com fato e data, ou autorizar cortar: (a) "Esse é o sabor que mais temos em casa" (Espresso Intenso); (b) "O Chococino é o que sobra menos rápido aqui… primeira escolha da família"; (c) a promessa de "quickNotes" na descrição, na primeira seção e na `editorialNote`. Sem confirmação, saem as frases e ficam só dados oficiais. Se confirmar, vai como "usamos aqui em casa" sem "testamos" e sem ranking.
+1. ~~**Experiência própria do rascunho (Bruno).**~~ **Resolvida em 12/10/2026: saem.** Bruno decidiu cortar (a) "Esse é o sabor que mais temos em casa" (Espresso Intenso); (b) "O Chococino é o que sobra menos rápido aqui… primeira escolha da família"; (c) a promessa de "quickNotes" na descrição, na primeira seção e na `editorialNote`. Ficam só dados oficiais.
 2. **Título.** Confirmar H1 e `seoTitle` da seção 0 (sem "melhor", sem "2026") e o `relatedArticles` de `assinatura-dolce-gusto-vale-a-pena` (título antigo, no mesmo PR do Job 4).
-3. **Capa.** Decidir a imagem: a atual parece gerada, tem rótulos de sabores que a loja não vende ("Flat White", "Americano" Original), não tem origem registrada e é a capa de outro rascunho. Foto real da Cecília ou montagem com embalagens oficiais (download com aprovação do Bruno). Ao publicar, `--append` no `media-delivery-map.json`.
+3. ~~**Capa.**~~ **Resolvida em 12/10/2026:** o hero antigo não é mais usado neste artigo. Imagens oficiais (4 caixas) já estão no staging (`midia-staging\2026-10-12-fase3\dolce-gusto-sabores\`, origem em `ORIGEM.md`); o Job 4 monta a capa 16:9 pelo fluxo do guia de mídia (seção 5). Ao publicar, `--append` no `media-delivery-map.json`.
 4. **Kit Boas-Vindas II.** Descobrir para quem é e se continua à venda (`/kit-boas-vindas-ndg-2-30off-1`); só entra no quadro depois.
 5. **Cappuccino Zero Lactose e Creamer Zero Lactose.** Aparecem só no montador DGusta; confirmar se são produto vendido ou item do montador. Só entram no FAQ "sem lactose" depois.
-6. **Google e "As pessoas também perguntam".** O `google.com.br` mostrou verificação de robô (`google.com/sorry`, 12/10 14:06 UTC); não foi resolvida nem contornada. O Bruno pode abrir no navegador dele "melhores sabores cápsulas dolce gusto", "cápsulas dolce gusto mais vendidas" e "kit cápsulas dolce gusto" e colar o PAA, ou usar o GSC. Isso não bloqueia a redação.
-7. **Soma do CECI com combos.** Testar no carrinho (R$ 100 mínimo, combo de 6 ou 8 caixas e DGusta) na revisão mensal antes de afirmar qualquer soma. Hoje o texto diz "pode variar".
+6. ~~**Google e "As pessoas também perguntam".**~~ **Resolvida em 12/10/2026:** acesso liberado e PAA coletado pelo lead (seção 3). O GSC segue sem dado, mas não bloqueia a redação.
+7. ~~**Soma do CECI com combos.**~~ **Resolvida por decisão do Bruno em 12/10/2026, sem teste:** ele entende que o cupom funciona com combos e promoções e que a única limitação é o mínimo de R$ 100. O artigo diz só a regra (5% OFF em compras a partir de R$ 100, até 3 vezes por CPF), sem ressalva e sem afirmar soma.
 8. **Ingredientes dos chocolates.** Reler o item "ingredientes" de Nescau, Galak, KitKat, Alpino, Chocoglamour, Kopenhagen e Chococino Alpino antes de escrever "sem café na lista de ingredientes" para cada um (lidos nesta pauta: Nesquik, Chococino Nestlé, Frappe, Mochaccino).
 9. **Preços e estoque.** Os valores de 12/10 incluem as "ofertas exclusivas do 10.10" e a promoção "até 30% OFF" que começou à 01h de 12/10. Reconsultar até 2026-11-01 e na última semana de outubro (Black Friday); combos e DGusta mudam semanalmente. O Toffee Nut Latte é de fim de ano.
 10. **Ordenação "Mais Vendidos".** Refazer a leitura na véspera da publicação; se a loja passar a explicar o critério ou mudar o resultado, a seção 9 do artigo precisa ser reescrita.
@@ -314,4 +326,6 @@ Todas as fontes são páginas da loja oficial `https://www.nescafe-dolcegusto.co
 - Vault: `00_Sistema/REGRAS-GLOBAIS.md`, `CONTRATOS-DE-CONTEUDO.md`, `JOBS/Job-1-Brainstorm-Pautas.md`, `01_Parceiros/Dolce-Gusto.md`, `03_Memoria/Descartadas.md`, `docs/GUIA-EDITORIAL-GUIAS-ANALISES.md`, `src/lib/couponsData.ts` (slug `dolce-gusto`)
 - Repositório (leitura): `content/reviews/melhores-capsulas-dolce-gusto-2026.json`, `starbucks-dolce-gusto-capsulas-guia.json`, `dolce-gusto-capsulas-compativeis-guia.json`, `tabela-medidas-dolce-gusto-ml-por-nivel.json`, `black-friday-dolce-gusto.json`, `promocao-dolce-gusto-caixas-mini-me-gratis.json`, `assinatura-dolce-gusto-vale-a-pena.json`, `data/media-manifest.json`, `src/lib/generated/media-delivery-map.json`
 
-**Não consultados:** Google (SERP e PAA: bloqueio de robô, não contornado); `viroutendencia.com`; marketplaces; manuais; qualquer link de afiliado (não clicados); páginas de cupom (usado o `couponsData.ts`). A loja bloqueia leitura externa; toda conferência foi no navegador e as páginas mudam diariamente: reler antes de fechar o texto.
+- Google (PAA e topo do SERP, `google.com.br`, `hl=pt-BR`, 12/10/2026, coletado pelo lead): "melhores sabores capsulas dolce gusto", "cápsulas dolce gusto mais vendidas", "kit capsulas dolce gusto", "qual capsula dolce gusto rende mais" (seção 3)
+
+**Não consultados:** `viroutendencia.com`; marketplaces; manuais; qualquer link de afiliado (não clicados); páginas de cupom (usado o `couponsData.ts`). A loja bloqueia leitura externa; toda conferência foi no navegador e as páginas mudam diariamente: reler antes de fechar o texto.
