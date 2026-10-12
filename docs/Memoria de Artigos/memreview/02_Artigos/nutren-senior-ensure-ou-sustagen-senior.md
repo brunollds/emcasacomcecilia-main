@@ -6,9 +6,9 @@ parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy (decisão do Bruno), depois que a oferta nova da YesStyle entrar"
 bloqueado_por: null
 score_autoridade: 85
 score_conversao: 85
@@ -201,3 +201,11 @@ não são parceiras e não recebem código nem link de afiliado.
 6. Score recalculado com cautela: a nota 6 em viabilidade reflete o trabalho de reconsulta; o GSC continua sem consultas de comparação.
 
 **Rodadas de atualização:** reconsultar em 2026-11-01 (CECI, preços) e antes da publicação (Ensure FAQ, tabela do Sustagen, kit da Sem Sabor).
+
+## Redação (12/10/2026)
+
+- JSON em `content/reviews/nutren-senior-ensure-ou-sustagen-senior.json` (id 357), no fim do `_manifest.json`. É a fonte da verdade do texto.
+- Capa: `/images/reviews/nutren/nutren-ensure-sustagen-latas.webp`, 1200×675, montagem das três latas na mesma altura (Nutren Senior Sem Sabor da galeria oficial, Ensure Baunilha 850 g da Abbott com o fundo limpo, Sustagen Senior Sem Sabor do site da marca). O Ensure de 400×400 limita a altura das latas a 330 px. Origem em `midia-staging\2026-10-12-imagens-pendentes\ORIGEM.md` e `2026-10-12-fase2`. No CDN desde 12/10/2026, verificada pelo `verify-remote` e entregue pelo mapa de mídia.
+- Páginas da Nestlé Nutre relidas no navegador em 12/10/2026 (a leitura automática dá 403): o Zero Lactose é "composto lácteo", tabela de 27,5 g com lactose 0 g; o Café com Leite também é composto lácteo (31,5 g); o Sem Sabor comum é "suplemento alimentar", tabela de 55 g (6 colheres de sopa). Nenhuma das três páginas traz linha de lactose (salvo o Zero Lactose) nem texto de glúten; o "sem glúten" do Zero Lactose vem do material da lata, como na ficha técnica publicada.
+- Ensure: FAQ da Abbott lido em 12/10/2026 ("Ensure pó e Ensure Advance HMB contêm lactose"; não contém glúten; 6 medidas em 195 ml; a lata de 400 g rende cerca de 7 porções). Sustagen: "CONTÉM LACTOSE. NÃO CONTÉM GLÚTEN."
+- Revisão Job 3 (12/10/2026): aprovado com ajustes; aplicados os itens 1 a 14 (sem "nenhum substitui uma refeição", zero lactose não é sem leite, glúten fora da tabela, frase da Nestlé atribuída à página do Zero Lactose, CECI com o mês).

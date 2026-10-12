@@ -6,9 +6,9 @@ parceiro: "[[I-Wanna-Sleep]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Compra"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy (decisão do Bruno), depois que a oferta nova da YesStyle entrar"
 bloqueado_por: null
 score_autoridade: 75
 score_conversao: 85
@@ -226,3 +226,11 @@ Preços da IWS vêm dos JSON de produto em 11/10/2026. Preços da Emma e da Orto
 10. **CTA da coleção**: conferir a URL e os UTMs na seção 3 do Job-4 antes do JSON.
 11. **Avaliações da própria loja** (4,7 e 4,8): decidir se mostramos ou se só citamos como "dado da loja".
 12. **Fotos de Emma e Ortobom:** sem licença editorial. Decidir se há infográfico próprio ou se o artigo fica só com fotos da IWS.
+
+## Redação (12/10/2026)
+
+- JSON em `content/reviews/travesseiro-i-wanna-sleep-ou-emma.json` (id 359), no fim do `_manifest.json`. É a fonte da verdade do texto.
+- Capa: `/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex.webp`, 1600×900, com as três fotos oficiais da IWS já no site (Snow, Cervical Coluna Relax e Original Látex). Vai a versão B, escolhida pelo Bruno em 12/10/2026: a do Coluna Relax fica só com o travesseiro e as medidas, sem o painel do "Espuma NASA". No CDN desde 12/10/2026, verificada pelo `verify-remote` e entregue pelo mapa de mídia.
+- Pendências da seção 12 resolvidas em 12/10/2026: perfil de sono da Emma (FAQ oficial: lado, Antiestresse; barriga para baixo, Comfort sem a camada intermediária; costas, Support); 14 noites da Emma com recolhimento e reembolso do valor total; Ortobom com "Garantia Ortobom: 90 dias" nas duas páginas de produto e sem noites de teste; o Conforto Regulável é de fibra siliconada, não viscoelástico. O artigo do Sleeptest e a ficha do Snow seguem em rascunho e não são linkados.
+- CTA: a coleção de travesseiros com os UTMs do guia das linhas publicado.
+- Revisão Job 3 (12/10/2026): aprovado com ajustes; a Ortobom passa a "teste não informado" nos dois modelos consultados.

@@ -6,9 +6,9 @@ parceiro: "[[Dolce-Gusto]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de escolha"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo (atualizar o rascunho)"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy (decisão do Bruno), depois que a oferta nova da YesStyle entrar"
 bloqueado_por: null
 score_autoridade: 80 # 0 a 100
 score_conversao: 90 # 0 a 100
@@ -238,3 +238,12 @@ O JSON `dolce-gusto-maquinas-qual-escolher.json` tem estes erros, que a redaçã
 - Buscas no site por "infinissima", "piccolo" e "lumio": nenhum produto.
 
 Não consultados: manuais em PDF; `/maquinas-cafe/mini-me` (404, endereço errado; a Mini Me 2.0 está na listagem geral); páginas de cupom (usado o dossiê de 08/10); links de afiliado (não clicados).
+
+## Redação (12/10/2026)
+
+- O rascunho de `content/reviews/dolce-gusto-maquinas-qual-escolher.json` (id 219) foi reescrito por inteiro e sai do rascunho (`draft: false`). O slug fica, porque o review da Genio S Touch já linka para ele.
+- Capa: a foto da Cecília com a Genio S Touch (`genio-s-touch-cecilia-hero.webp`, já no CDN). A `dolce-gusto-maquinas-qual-escolher-hero.webp` do rascunho continua em `public/` e fora do mapa; não foi apagada.
+- Preços relidos no navegador em 12/10/2026 (mudaram desde 11/10): Mini Me 2.0 R$ 429,90 (R$ 449,90 na Cinza Chumbo 110V), Basic R$ 479,90, Plus R$ 589,90, Touch R$ 799,90, NEO a partir de R$ 799,00, Adaptador NEO Start R$ 89,90.
+- Comparativo oficial (`/maquinas-cafe/comparativo`) relido em 12/10/2026 pelo texto da página, não pela imagem: Mini Me 30,5 × 16 × 24 cm; Basic e Plus 27,3 × 11,2 × 28,6 cm; Touch 27,2 × 11,2 × 28,6 cm; XL em Basic, Plus e Touch; bandeja de metal, 4 temperaturas e Espresso Boost em Plus e Touch. A NEO (15,2 × 30 × 34,5 cm, sem a ordem das medidas) fica fora das comparações de altura e profundidade.
+- Revisão Job 3 (12/10/2026): aprovado com ajustes; o bloqueio das medidas caiu com a releitura do comparativo.
+- Pendências fora desta pauta: o review da Genio S Touch diz 12,1 cm de largura e 28,1 cm de profundidade (o comparativo diz 11,2 e 28,6); o comparativo Basic, Plus e Touch diz que só a Touch tem bandeja de metal (o oficial marca Plus e Touch); o Dolce Gusto vs Nespresso fala em 15 a 16 cm de largura para a Genio S.

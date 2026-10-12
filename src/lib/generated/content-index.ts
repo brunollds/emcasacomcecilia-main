@@ -33137,9 +33137,11 @@ export const reviewsData: unknown[] = [
   {
     "id": 219,
     "slug": "dolce-gusto-maquinas-qual-escolher",
-    "title": "Máquinas Dolce Gusto: qual escolher para sua casa?",
-    "type": "Editorial",
-    "reviewKind": "editorial",
+    "title": "Qual Dolce Gusto comprar: Mini Me 2.0, Genio S ou NEO, pelo seu jeito de tomar café",
+    "seoTitle": "Qual Dolce Gusto comprar: Mini Me, Genio S ou NEO",
+    "type": "Guia de escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
     "author": {
       "name": "Cecília Mauad",
       "slug": "cecilia-mauad",
@@ -33147,115 +33149,232 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Comparativo das máquinas de café Dolce Gusto no Brasil: Genio S, Mini Me, Piccolo XS e Infinissima. Preços, specs e qual modelo comprar.",
-    "metaDescription": "Compare as máquinas Dolce Gusto: Genio S, Mini Me, Piccolo XS e Infinissima. Veja preços, specs e qual modelo combina com você.",
-    "publishedAt": "Draft",
-    "draft": true,
-    "image": "/images/reviews/dolcegusto/dolce-gusto-maquinas-qual-escolher-hero.webp",
-    "imageAlt": "Comparativo lado a lado de quatro modelos de máquinas de café Dolce Gusto em uma bancada de cozinha",
+    "description": "As cinco máquinas Dolce Gusto à venda na loja oficial, com preço, medidas em cm e recursos lado a lado, qual escolher para cada jeito de tomar café, as cápsulas que cada uma aceita e o cupom CECI.",
+    "metaDescription": "Mini Me 2.0, Genio S Basic, Plus, Touch ou NEO? Preço, medidas em cm, XL, temperaturas e cápsulas de cada Dolce Gusto, e qual comprar para o seu uso.",
+    "publishedAt": "12 de outubro de 2026",
+    "publishedAtISO": "2026-10-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-hero.webp",
+    "imageAlt": "Cecília Mauad na cozinha segurando a cafeteira Dolce Gusto Genio S Touch prata, com o reservatório de água atrás",
     "imageFit": "cover",
-    "pros": [],
-    "cons": [],
+    "imageAspect": "square",
+    "imagePosition": "top",
     "contentSections": [
       {
-        "heading": "Como escolher uma máquina Dolce Gusto",
-        "paragraphs": [
-          "Escolher uma máquina de café em cápsulas envolve mais do que apenas design. É preciso considerar o tamanho da cozinha, a quantidade de pessoas que vão usar o equipamento, a frequência de consumo e o orçamento disponível. A NESCAFÉ Dolce Gusto mantém no Brasil uma linha de máquinas variada, com modelos que vão desde opções compactas para apartamentos pequenos até equipamentos com tanque maior para famílias numerosas.",
-          "Os preços das máquinas no mercado brasileiro variam aproximadamente entre R$ 400 e R$ 900, dependendo do modelo, das promoções do site oficial e das condições de pagamento. Abaixo, detalhamos as principais características de quatro modelos populares para ajudar na decisão."
-        ],
-        "bullets": []
-      },
-      {
-        "heading": "Genio S",
-        "paragraphs": [
-          "A Genio S é um dos modelos mais completos da linha atual. Com pressão de 15 bar e um depósito de água de aproximadamente 1 litro, ela entrega bebidas consistentes e com boa camada de crema. O funcionamento é automático, o que facilita o dia a dia: basta inserir a cápsula, ajustar a intensidade se desejar e deixar a máquina fazer o resto. O design é moderno, com acabamentos que se encaixam bem em cozinhas atualizadas.",
-          "O modelo é indicado para quem busca praticidade sem abrir mão de especificações técnicas sólidas. O depósito de 1 litro permite preparar várias xícaras antes de precisar reabastecer, o que é conveniente para casais ou famílias pequenas que tomam café ao longo da manhã."
-        ],
+        "heading": "Resposta rápida: qual Dolce Gusto comprar",
         "bullets": [
-          "Pressão de 15 bar para extração consistente.",
-          "Depósito de água de aproximadamente 1 litro.",
-          "Funcionamento automático, ideal para o uso diário.",
-          "Design moderno e acabamento compatível com cozinhas contemporâneas."
+          "Menor preço, para uma ou duas xícaras por dia: Mini Me 2.0, por R$ 429,90. Ela não tem a função XL.",
+          "XL pagando menos: Genio S Basic, por R$ 479,90, sem as 4 temperaturas e o Espresso Boost.",
+          "Café com leite, cappuccino e chá, cada um na sua temperatura: Genio S Plus, por R$ 589,90, com 4 temperaturas, Espresso Boost e XL.",
+          "Os recursos da Plus com tela de toque: Genio S Touch, por R$ 799,90.",
+          "Cápsula compostável e reservatório de 1 litro: NEO, a partir de R$ 799,00. Ela aceita só cápsulas NEO.",
+          "Bancada estreita: qualquer Genio S, com 11,2 cm de largura."
+        ],
+        "postParagraphs": [
+          "Preços de venda na loja oficial da NESCAFÉ Dolce Gusto em 12/10/2026. Eles mudam com as promoções."
         ]
       },
       {
-        "heading": "Mini Me",
+        "heading": "As cinco máquinas à venda na loja oficial",
         "paragraphs": [
-          "Como o nome sugere, a Mini Me é a opção compacta da linha. Ela também trabalha com pressão de 15 bar, mas o depósito de água é menor, em torno de 0,8 litro. É a escolha natural para quem tem pouco espaço na bancada ou mora em apartamentos onde cada centímetro conta. Apesar do tamanho reduzido, a máquina mantém a qualidade de extração dos modelos maiores.",
-          "O preço da Mini Me costuma ser mais acessível dentro da faixa de R$ 400 a R$ 900, o que a torna uma porta de entrada interessante para quem quer testar o sistema Dolce Gusto sem fazer um investimento alto. Para quem consome uma ou duas xícaras por dia, a capacidade do reservatório é suficiente."
-        ],
-        "bullets": [
-          "Formato compacto, ideal para cozinhas pequenas.",
-          "Pressão de 15 bar, com extração de qualidade.",
-          "Reservatório de aproximadamente 0,8 litro.",
-          "Preço geralmente mais acessível dentro da linha."
+          "Em outubro de 2026, a loja oficial vende cinco máquinas: a Mini Me 2.0 e as três Genio S (Basic, Plus e Touch), todas do sistema Original, e a NEO, que usa outra cápsula. Infinissima, Piccolo, Piccolo XS e Lumio não estão à venda no site.",
+          "As quatro do sistema Original aceitam as mesmas cápsulas, com mais de 30 bebidas quentes ou frias, entre cafés, lattes, cappuccinos, chocolates e chás. Elas trabalham com 15 bar de pressão e, no comparativo oficial, aparecem com tomada de 20 A.",
+          "A NEO aceita só as cápsulas NEO compostáveis, trabalha com até 15 bar e tem o maior reservatório entre as cinco, com 1 litro."
         ]
       },
       {
-        "heading": "Piccolo XS",
-        "paragraphs": [
-          "A Piccolo XS é a máquina manual mais popular e acessível da linha Dolce Gusto. Com pressão de 15 bar, ela garante a mesma qualidade de extração de cafés e bebidas cremosas dos modelos automáticos. A grande diferença está no controle do fluxo: por ser um modelo manual, é você quem decide a quantidade exata de água na xícara movendo a alavanca superior para cortar o fluxo no momento desejado. O design é ultracompacto, ideal para bancadas estreitas.",
-          "O reservatório de água tem capacidade de 0,8 litro, similar ao da Mini Me. Como é uma cafeteira de entrada, o preço costuma ser um dos menores da marca (geralmente abaixo de R$ 450), o que representa um excelente custo-benefício para quem deseja flexibilidade de bebidas sem investir muito e prefere a simplicidade do controle manual."
+        "heading": "Preço, tamanho e recursos lado a lado",
+        "comparisonTable": {
+          "caption": "Preços de venda na loja oficial em 12/10/2026. Medidas e recursos do comparativo oficial de máquinas, relido em 12/10/2026, que não inclui a NEO.",
+          "headers": [
+            "Máquina",
+            "Preço",
+            "Reservatório",
+            "Altura × largura × profundidade",
+            "XL",
+            "4 temperaturas e Espresso Boost",
+            "Tela de toque"
+          ],
+          "rows": [
+            [
+              "Mini Me 2.0",
+              "R$ 429,90 (R$ 449,90 na cor Cinza Chumbo 110V)",
+              "0,8 L",
+              "30,5 × 16 × 24 cm",
+              "Não",
+              "Não",
+              "Não"
+            ],
+            [
+              "Genio S Basic",
+              "R$ 479,90",
+              "0,8 L",
+              "27,3 × 11,2 × 28,6 cm",
+              "Sim",
+              "Não",
+              "Não"
+            ],
+            [
+              "Genio S Plus",
+              "R$ 589,90",
+              "0,8 L",
+              "27,3 × 11,2 × 28,6 cm",
+              "Sim",
+              "Sim",
+              "Não"
+            ],
+            [
+              "Genio S Touch",
+              "R$ 799,90",
+              "0,8 L",
+              "27,2 × 11,2 × 28,6 cm",
+              "Sim",
+              "Sim",
+              "Sim"
+            ],
+            [
+              "NEO",
+              "A partir de R$ 799,00",
+              "1 L",
+              "Ver nota abaixo",
+              "Fora do comparativo",
+              "Fora do comparativo",
+              "Fora do comparativo"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Genio S Plus e a Genio S Touch têm também a bandeja de metal. A diferença técnica entre as três Genio S, recurso por recurso, está no nosso comparativo Basic, Plus e Touch."
         ],
-        "bullets": [
-          "Formato ultracompacto, ideal para bancadas com pouco espaço.",
-          "Pressão de 15 bar para uma extração consistente com crema aveludada.",
-          "Operação manual por alavanca, permitindo controlar o tamanho da bebida.",
-          "Excelente custo-benefício, sendo o modelo de entrada mais em conta."
-        ]
-      },
-      {
-        "heading": "Infinissima",
-        "paragraphs": [
-          "A Infinissima é a máquina com o maior tanque de água da linha, aproximadamente 1,2 litro. Isso a torna ideal para famílias numerosas, escritórios ou para quem recebe visitas com frequência e não quer ficar reabastecendo o reservatório a cada duas ou três xícaras. O formato é um pouco mais alongado, mas ainda assim organizado o suficiente para não dominar a bancada.",
-          "Se a rotina da sua casa envolve várias pessoas tomando café, cappuccino ou chocolate ao longo do dia, a Infinissima reduz a fricção de ter que completar o tanque toda hora. O investimento costuma ser um pouco maior, mas a conveniência do tanque grande compensa para quem tem demanda alta."
-        ],
-        "bullets": [
-          "Tanque de água de aproximadamente 1,2 litro, o maior da linha.",
-          "Indicada para famílias grandes ou consumo frequente.",
-          "Formato alongado, mas ainda organizado para a bancada.",
-          "Conforto de preparar várias bebidas sem reabastecer."
-        ]
-      },
-      {
-        "heading": "Resumo: qual modelo combina com você?",
-        "paragraphs": [
-          "A escolha da máquina certa depende do equilíbrio entre espaço, automação e orçamento. Se o apartamento é pequeno e o consumo é baixo com preferência por praticidade automática, a Mini Me atende bem. Para quem quer automação, reservatório confortável de 1L e recursos de temperatura, a Genio S é o meio-termo ideal. A Piccolo XS atende quem busca economia e prefere o controle manual, e a Infinissima é a resposta para famílias maiores que precisam de volume de água.",
-          "Independentemente do modelo, todas as máquinas da linha utilizam as mesmas cápsulas Dolce Gusto, então a diferença está apenas na experiência de uso, no tamanho e no visual. O importante é escolher a que se encaixa na sua rotina."
-        ],
-        "bullets": [
-          "Mini Me: compacta, automática e econômica.",
-          "Genio S: automática, reservatório de 1 litro, recursos extras de temperatura.",
-          "Piccolo XS: manual, ultracompacta e com o menor custo inicial.",
-          "Infinissima: manual com tanque grande de 1,2 litro, ideal para famílias."
-        ]
-      },
-      {
-        "heading": "Economize com o cupom CECI",
-        "paragraphs": [
-          "Comprar uma máquina Dolce Gusto representa um investimento, e qualquer desconto ajuda. O cupom CECI dá 5% de desconto na loja oficial em compras a partir de R$ 100 e pode ser aplicado na compra de máquinas, cápsulas e acessórios. Antes de finalizar o pedido, insira o código CECI no campo de cupom do carrinho para reduzir o valor total. A parceria com o Em Casa com Cecília mantém o cupom ativo para leitores e seguidores."
-        ],
-        "bullets": [],
         "links": [
           {
-            "label": "Ver condições do desconto CECI",
-            "href": "/cupons/dolce-gusto"
+            "label": "Genio S Basic, Plus ou Touch: qual vale mais a pena?",
+            "href": "/reviews/dolce-gusto-genio-s-basic-vs-plus-vs-touch"
           }
+        ]
+      },
+      {
+        "heading": "Qual escolher pelo seu jeito de tomar café",
+        "bullets": [
+          "Uma ou duas xícaras por dia: Mini Me 2.0. É a mais barata e usa as mesmas cápsulas do sistema Original, mas não tem XL.",
+          "Casal ou família que alterna café, café com leite e chá: Genio S Plus. As 4 temperaturas e o XL ajudam quando cada um toma uma bebida diferente.",
+          "Café o dia todo, em casa ou no escritório: a NEO tem o maior reservatório, com 1 litro; entre as do sistema Original, a Genio S Plus e a Touch somam XL e Espresso Boost.",
+          "Café preto, cápsula compostável e reservatório de 1 litro: NEO, a partir de R$ 799,00.",
+          "Bebida gelada: prepare e ponha gelo no copo; no nosso teste da Touch, o modo frio não gelou a bebida.",
+          "Bancada pequena: Genio S, a mais estreita, com 11,2 cm.",
+          "Menor preço: Mini Me 2.0, por R$ 429,90 na maioria das cores."
+        ]
+      },
+      {
+        "heading": "Qual cabe na bancada",
+        "paragraphs": [
+          "A Genio S é a mais estreita, com 11,2 cm de largura, e também a mais baixa entre as quatro do sistema Original, com cerca de 27 cm de altura. Para um canto apertado, confira só os 28,6 cm de profundidade.",
+          "A Mini Me 2.0 é a menos funda das quatro do sistema Original, com 24 cm, mas também a mais alta, com 30,5 cm, e tem 16 cm de largura. Se ela for ficar embaixo de um armário, meça a altura antes.",
+          "A NEO mede 15,2 × 30 × 34,5 cm, segundo a página dela, que não diz qual dessas medidas é a altura, a largura ou a profundidade. Confira com a loja antes de contar com ela num espaço apertado."
+        ],
+        "image": {
+          "src": "/images/reviews/dolcegusto/genio-s-touch-lateral.webp",
+          "alt": "Imagem comercial da cafeteira Dolce Gusto Genio S Touch prata, em três quartos, com o reservatório de água atrás",
+          "caption": "A Genio S de lado: 11,2 cm de largura e 28,6 cm de profundidade, segundo o comparativo oficial.",
+          "objectFit": "square"
+        }
+      },
+      {
+        "heading": "Cápsulas: Original, NEO e o adaptador",
+        "paragraphs": [
+          "A Mini Me 2.0 e as três Genio S usam as cápsulas do sistema Original. A NEO usa só as cápsulas NEO compostáveis, e as do sistema Original não entram nela.",
+          "O Adaptador NEO Start, vendido por R$ 89,90 na loja oficial em 12/10/2026, põe alguns cafés NEO, só espresso e lungo, nos modelos do sistema Original que a loja lista como compatíveis. A lista cita, entre outras, a Mini Me, sem dizer se é a 2.0, a Genio S, a Genio S Plus e a Genio S Touch: confira na página do adaptador.",
+          "Cápsulas de outras marcas que se dizem compatíveis com a Dolce Gusto estão no nosso guia de cápsulas compatíveis, que reúne o que cada fabricante informa; não testamos essas cápsulas."
+        ],
+        "links": [
+          {
+            "label": "Adaptador NEO Start: o que é e quando você precisa dele",
+            "href": "/reviews/adaptador-neo-start-o-que-e"
+          },
+          {
+            "label": "Cápsulas compatíveis com Dolce Gusto: o que serve na sua máquina",
+            "href": "/reviews/dolce-gusto-capsulas-compativeis-guia"
+          }
+        ]
+      },
+      {
+        "heading": "O que a gente já usou aqui em casa",
+        "paragraphs": [
+          "A Mini Me 2.0 passou pelo nosso teste em casa, com o Lungo e o Café Matinal no dia a dia de trabalho. O review conta como foi.",
+          "A Genio S Touch também tem review próprio. Foi nela que vimos que o preparo frio não gela: com a opção fria do painel, o Chá de Pêssego saiu morno, por volta de 40 °C. Para bebida gelada, prepare antes e leve à geladeira ou ponha gelo no copo.",
+          "A Cecília usa a NEO no dia a dia; ela ainda não tem review próprio no site. A Genio S Basic e a Genio S Plus entram aqui pelas especificações oficiais: não testamos as duas."
+        ],
+        "links": [
+          {
+            "label": "Mini Me 2.0 é boa? Teste real",
+            "href": "/reviews/dolce-gusto-mini-me-2-0-vale-a-pena"
+          },
+          {
+            "label": "Genio S Touch vale a pena? Review após o primeiro uso",
+            "href": "/reviews/dolce-gusto-genio-s-touch-vale-a-pena"
+          },
+          {
+            "label": "Tabela de medidas Dolce Gusto: quantos ml saem em cada nível",
+            "href": "/reviews/tabela-medidas-dolce-gusto-ml-por-nivel"
+          }
+        ]
+      },
+      {
+        "heading": "Onde comprar e o cupom CECI",
+        "paragraphs": [
+          "Os preços deste guia são da loja oficial da NESCAFÉ Dolce Gusto em 12/10/2026 e mudam com as promoções. A ficha da loja informa garantia de 1 ano para a máquina.",
+          "O cupom CECI dá 5% de desconto em compras a partir de R$ 100 na loja oficial, com até 3 usos por CPF. Confira o desconto no carrinho antes de pagar.",
+          "Se você ainda está em dúvida entre Dolce Gusto e Nespresso, o nosso comparativo das duas marcas ajuda a decidir antes."
+        ],
+        "links": [
+          {
+            "label": "Cupom CECI na Dolce Gusto",
+            "href": "/cupons/dolce-gusto"
+          },
+          {
+            "label": "Dolce Gusto ou Nespresso: qual cafeteira de cápsula escolher",
+            "href": "/reviews/dolce-gusto-vs-nespresso-qual-escolher"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual Dolce Gusto faz bebida gelada? Nenhuma gela a bebida: o preparo frio da Genio S Touch saiu morno, por volta de 40 °C, e o gelado vem do gelo no copo.",
+          "Qual Dolce Gusto aceita todas as cápsulas? Nenhuma: as máquinas do sistema Original aceitam as cápsulas Original e, nos modelos que a loja lista como compatíveis, alguns cafés NEO (espresso e lungo) com o Adaptador NEO Start; a NEO aceita só cápsulas NEO.",
+          "Qual cafeteira Dolce Gusto é a menor? Depende da medida: a Genio S é a mais estreita (11,2 cm) e, entre as do sistema Original, a mais baixa; a Mini Me 2.0 é a menos funda das do sistema Original (24 cm).",
+          "Mini Me ou Genio S: qual vale mais a pena? A Mini Me 2.0 custa menos e atende uma ou duas xícaras por dia; as três Genio S têm XL, e a Plus e a Touch somam 4 temperaturas e Espresso Boost.",
+          "Dolce Gusto NEO ou Genio S: qual escolher? Escolha a NEO se quer cápsula compostável e reservatório de 1 litro e aceita só cápsulas NEO, de café preto. Escolha a Genio S se quer o sistema Original, com mais de 30 bebidas, entre cafés, lattes, chocolates e chás.",
+          "A Mini Me 2.0 tem função XL? Não: no comparativo oficial, o XL aparece só nas Genio S.",
+          "Quais são as dimensões da Mini Me 2.0? 30,5 cm de altura, 16 cm de largura e 24 cm de profundidade.",
+          "Quais são as dimensões da Genio S Plus? Cerca de 27 cm de altura, 11,2 cm de largura e 28,6 cm de profundidade."
         ]
       }
     ],
+    "pros": [],
+    "cons": [],
     "cta": {
-      "text": "Compare os modelos na loja oficial e use o cupom CECI para 5% de desconto na sua máquina Dolce Gusto.",
-      "label": "Ver máquinas na loja",
-      "url": "https://www.nescafe-dolcegusto.com.br/"
+      "text": "Compare os modelos na loja oficial e aplique o cupom CECI no carrinho antes de pagar.",
+      "label": "Ver as máquinas na loja",
+      "url": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/",
+      "sponsored": true
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Este artigo foi produzido em parceria comercial com a NESCAFÉ Dolce Gusto. O Em Casa com Cecília recebe comissão sobre compras feitas com o cupom CECI e por meio de links para o site oficial. As especificações técnicas são baseadas em informações públicas da marca, e os preços são aproximados, sujeitos a variações de promoção e região.",
+    "editorialNote": "Podemos receber comissão pelo cupom CECI e pelos links da loja oficial.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-        "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto"
+        "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch",
+        "title": "Genio S Basic, Plus ou Touch: qual vale mais a pena?"
+      },
+      {
+        "slug": "dolce-gusto-mini-me-2-0-vale-a-pena",
+        "title": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Teste Real"
+      },
+      {
+        "slug": "black-friday-dolce-gusto",
+        "title": "Black Friday Dolce Gusto 2026: quando começa, preços de máquinas e cápsulas e o cupom CECI"
       }
     ]
   },
@@ -59248,6 +59367,848 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-black-friday-zh-hans",
         "title": "Black Friday YesStyle 2026（黑色星期五）：何时开始、优惠券怎么用，CECILIA010 填在哪里"
+      }
+    ]
+  },
+  {
+    "id": 357,
+    "slug": "nutren-senior-ensure-ou-sustagen-senior",
+    "title": "Nutren Senior, Ensure ou Sustagen Senior: qual escolher pelo rótulo de cada um",
+    "seoTitle": "Nutren Senior, Ensure ou Sustagen: comparação pelo rótulo",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que os rótulos do Nutren Senior, do Ensure e do Sustagen Senior informam (proteína, cálcio, vitamina D, lactose e glúten), o que não dá para comparar entre eles e onde entra o cupom CECI.",
+    "metaDescription": "Nutren Senior, Ensure ou Sustagen Senior? Proteína, cálcio, vitamina D e lactose lado a lado, o que os rótulos não permitem comparar e o cupom CECI.",
+    "publishedAt": "12 de outubro de 2026",
+    "publishedAtISO": "2026-10-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nutren/nutren-ensure-sustagen-latas.webp",
+    "imageAlt": "Latas de Nutren Senior Sem Sabor, Ensure Baunilha Pó (lata de 850 g) e Sustagen Senior Sem Sabor lado a lado, na mesma escala",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Não existe um melhor entre os três. Cada rótulo informa os números numa base diferente, e a escolha depende do que a pessoa precisa e da dose que o médico ou o nutricionista indicou."
+        ],
+        "bullets": [
+          "Nutren Senior: tem a versão Zero Lactose, com 0 g de lactose por porção, e a página oficial traz a tabela completa por porção.",
+          "Ensure Baunilha Pó: a Abbott informa 17 g de proteína em duas porções diárias e diz que o Ensure pó contém lactose, mas não publica a tabela por porção no texto da página.",
+          "Sustagen Senior Sem Sabor: 11 g de proteína na porção de 40 g, e o rótulo avisa que contém lactose."
+        ]
+      },
+      {
+        "heading": "Como comparar os três rótulos",
+        "paragraphs": [
+          "Cada marca escolhe uma base. A Nutren publica a tabela por porção (27,5 g, 31,5 g ou 55 g, conforme a versão), a Sustagen usa a porção de 40 g, e a página do Ensure fala em 6 medidas por porção, sem dizer quantos gramas são.",
+          "Para comparar, olhe a mesma coisa nos três: o tamanho da porção, a proteína por dose, o cálcio, a vitamina D, a lactose e o glúten. A tabela abaixo junta o que cada página oficial informa; o glúten fica na seção Lactose e glúten."
+        ]
+      },
+      {
+        "heading": "Os três rótulos lado a lado",
+        "comparisonTable": {
+          "caption": "Valores das páginas oficiais de cada marca, lidas em 11 e 12/10/2026. VD = valor diário de referência. O Ensure não publica a tabela por porção no texto da página.",
+          "headers": [
+            "Produto",
+            "Porção",
+            "Calorias",
+            "Proteína",
+            "Cálcio",
+            "Vitamina D",
+            "Lactose"
+          ],
+          "rows": [
+            [
+              "Nutren Senior Sem Sabor Zero Lactose, 740 g",
+              "27,5 g (3 colheres de sopa rasas)",
+              "113 kcal",
+              "10 g",
+              "375 mg (38% VD)",
+              "12 µg (80% VD)",
+              "0 g"
+            ],
+            [
+              "Nutren Senior Café com Leite, 740 g",
+              "31,5 g (3 colheres de sopa)",
+              "130 kcal",
+              "11 g",
+              "375 mg (38% VD)",
+              "25 µg (167% VD)",
+              "A página não informa"
+            ],
+            [
+              "Nutren Senior Sem Sabor, 740 g",
+              "55 g (6 colheres de sopa); a sugestão de uso prepara 27,5 g por vez",
+              "226 kcal",
+              "20 g (40% VD)",
+              "506 mg (51% VD)",
+              "25 µg (167% VD)",
+              "A página não informa"
+            ],
+            [
+              "Ensure Baunilha Pó, 400 g",
+              "6 medidas em 195 ml de água, sem o peso em gramas",
+              "Não informadas",
+              "17 g em duas porções diárias",
+              "\"Alto teor\", sem número",
+              "\"Alto teor\", sem número",
+              "Contém lactose"
+            ],
+            [
+              "Sustagen Senior Sem Sabor, 740 g",
+              "40 g (3 colheres de sopa cheias)",
+              "140 kcal",
+              "11 g (22% VD)",
+              "397 mg (40% VD)",
+              "4,8 µg (32% VD)",
+              "Contém lactose"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Nutren Senior: as três versões",
+        "paragraphs": [
+          "O Sem Sabor Zero Lactose usa 3 colheres de sopa rasas (27,5 g) em 180 ml de água, e a lata de 740 g rende cerca de 27 porções. O rótulo se apresenta como \"composto lácteo com cálcio, proteínas, vitamina D e outros nutrientes essenciais. Zero lactose.\"",
+          "O Café com Leite também é composto lácteo e usa 3 colheres de sopa (31,5 g) por porção, com 11 g de proteína e 25 µg de vitamina D.",
+          "O Sem Sabor comum, sem a indicação zero lactose, é vendido como suplemento alimentar. A tabela dele usa a porção de 55 g (6 colheres de sopa), com 20 g de proteína, e a sugestão de uso prepara 27,5 g por vez.",
+          "O preparo sem empelotar e a ficha completa do Zero Lactose estão nos nossos outros guias."
+        ],
+        "links": [
+          {
+            "label": "Nutren Senior Zero Lactose: o que saber antes de comprar",
+            "href": "/reviews/nutren-senior-zero-lactose-ficha-tecnica"
+          },
+          {
+            "label": "Como tomar Nutren Senior sem empelotar",
+            "href": "/reviews/nutren-senior-como-tomar-sem-empelotar"
+          }
+        ]
+      },
+      {
+        "heading": "Ensure Baunilha Pó: o que a Abbott informa",
+        "paragraphs": [
+          "A página oficial do Ensure informa 17 g de proteína em duas porções diárias e 28 vitaminas e minerais, \"com alto teor de vitamina C, D, e Cálcio\". Ela diz também que o produto não contém glúten e que a lata vem em 400 g e 850 g.",
+          "O preparo é de 6 medidas em 195 ml de água, e a lata de 400 g rende cerca de 7 porções. Segundo a Abbott, o Ensure pó contém lactose; só o Ensure Protein não contém.",
+          "O texto da página não traz a tabela por porção. Sem ela, não dá para pôr o cálcio e a vitamina D do Ensure em miligramas e microgramas ao lado dos outros dois."
+        ]
+      },
+      {
+        "heading": "Sustagen Senior Sem Sabor: o que a Sustagen informa",
+        "paragraphs": [
+          "A porção é de 40 g (3 colheres de sopa cheias) em 180 ml de água, com 140 kcal, 11 g de proteína, 397 mg de cálcio e 4,8 µg de vitamina D, segundo a tabela da página oficial. A marca destaca 22 g de proteína em duas porções e diz que duas porções preparadas fornecem 80% da recomendação diária de cálcio.",
+          "O rótulo informa que o produto não contém glúten, contém lactose e derivados de leite, e pode conter peixe e soja. A página lembra que ele não substitui uma alimentação saudável e balanceada."
+        ]
+      },
+      {
+        "heading": "O que os rótulos não deixam comparar",
+        "bullets": [
+          "O cálcio e a vitamina D do Ensure em números: a página só diz \"alto teor\".",
+          "O peso da porção do Ensure: a página fala em 6 medidas, sem dizer quantos gramas são.",
+          "A lactose do Nutren Senior Café com Leite e do Sem Sabor comum: as páginas não trazem essa linha.",
+          "Quantas porções rende a lata de 740 g do Sustagen: a tabela da página traz a conta da lata de 370 g.",
+          "A proteína por grama de pó entre as três marcas: o Ensure não informa o peso da porção."
+        ]
+      },
+      {
+        "heading": "Lactose e glúten",
+        "paragraphs": [
+          "Dos três, só o Nutren Senior Sem Sabor Zero Lactose informa 0 g de lactose por porção na tabela oficial. Zero lactose não é sem leite: o rótulo o chama de composto lácteo, e quem tem alergia ao leite deve falar com o médico antes de escolher. O Sustagen Senior avisa que contém lactose, e a Abbott diz que o Ensure pó também contém. As páginas do Nutren Senior Café com Leite e do Sem Sabor comum não trazem a linha de lactose.",
+          "Sobre glúten, a Abbott diz que o Ensure não contém, e o rótulo do Sustagen Senior diz o mesmo. No Nutren Senior, o material oficial da lata do Zero Lactose marca \"sem glúten\"; as páginas do Café com Leite e do Sem Sabor comum não falam de glúten, e vale o que está escrito na lata."
+        ]
+      },
+      {
+        "heading": "Quando procurar o médico ou o nutricionista",
+        "paragraphs": [
+          "A quantidade por dia, o uso junto com outra dieta e a troca de um produto pelo outro são assuntos para o médico ou o nutricionista, principalmente para quem tem alguma doença ou restrição alimentar. Na página do Zero Lactose, a Nestlé recomenda consumir o Nutren Senior \"preferencialmente sob orientação de nutricionista ou médico\", e a página do Sustagen lembra que o produto não substitui uma alimentação saudável e balanceada.",
+          "Leve a lata ou a foto do rótulo à consulta: a tabela por porção ajuda o profissional."
+        ]
+      },
+      {
+        "heading": "Onde entra o cupom CECI",
+        "paragraphs": [
+          "Em outubro de 2026, o cupom CECI dá 10% de desconto na loja oficial da Nestlé Nutre, onde estão as versões do Nutren Senior. Ele não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses.",
+          "Ensure e Sustagen não são parceiros do site, e não temos código para eles. Os preços do Nutren Senior em outubro estão no nosso guia de Black Friday da Nutren."
+        ],
+        "links": [
+          {
+            "label": "Cupom CECI na Nestlé Nutre",
+            "href": "/cupons/nestle-nutre"
+          },
+          {
+            "label": "Black Friday Nutren 2026: preços e cupom CECI",
+            "href": "/reviews/black-friday-nestle-nutre"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual suplemento substitui o Ensure? Não há substituto direto: a escolha depende da dose, da tolerância e da orientação do médico ou do nutricionista, e vale comparar o que cada rótulo informa.",
+          "Qual suplemento substitui o Nutren Senior? Depende do que o médico ou o nutricionista indicou; compare a proteína, o cálcio e a vitamina D por porção nos rótulos.",
+          "O Ensure é bom para ganhar massa muscular? A página oficial do Ensure informa 17 g de proteína em duas porções diárias; ganhar massa muscular depende de dieta e treino, e a dúvida vai para um nutricionista.",
+          "Qual o melhor Nutren para o idoso? Não há um melhor: compare o rótulo da versão que você está considerando (Zero Lactose, Café com Leite ou Sem Sabor) com a porção que o médico ou o nutricionista indicou.",
+          "Nutren Senior tem lactose? A versão Sem Sabor Zero Lactose tem 0 g de lactose por porção, segundo a tabela oficial. As páginas do Café com Leite e do Sem Sabor comum não trazem a linha de lactose: confira o rótulo da lata.",
+          "Ensure tem lactose? Sim: segundo a Abbott, o Ensure pó contém lactose, e só o Ensure Protein não contém.",
+          "Sustagen Senior tem lactose? Sim: o rótulo oficial diz \"contém lactose\".",
+          "Qual tem mais proteína por porção? Depende do tamanho da porção: o Nutren Senior Sem Sabor comum tem 20 g em 55 g de pó; os outros ficam entre 10 g e 11 g por porção, e o Ensure informa 17 g em duas porções, sem dizer o peso delas."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Escolha a versão do Nutren Senior na loja oficial da Nestlé Nutre e aplique o cupom CECI no carrinho.",
+      "label": "Ir para a Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Comparamos só o que as páginas oficiais informam.",
+    "relatedArticles": [
+      {
+        "slug": "nutren-senior-zero-lactose-ficha-tecnica",
+        "title": "Nutren Senior Zero Lactose: o que saber antes de comprar"
+      },
+      {
+        "slug": "nutren-senior-como-tomar-sem-empelotar",
+        "title": "Como tomar Nutren Senior sem empelotar"
+      },
+      {
+        "slug": "black-friday-nestle-nutre",
+        "title": "Black Friday Nutren 2026: Nutren Senior, Just Protein e o cupom CECI na Nestlé Nutre"
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "slug": "porto-brasil-e-boa",
+    "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e comparação com a Oxford",
+    "seoTitle": "Porto Brasil é boa? Cerâmica, forno e micro-ondas",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A louça Porto Brasil é cerâmica, em stoneware e faiança: o que a ficha de cada produto libera no micro-ondas, na lava-louças, no forno e no freezer, as exceções, a garantia, a nota no Reclame Aqui e a comparação com a Oxford.",
+    "metaDescription": "Porto Brasil é cerâmica ou porcelana? O que vai ao micro-ondas, à lava-louças e ao forno, as exceções, garantia, Reclame Aqui e Porto Brasil ou Oxford.",
+    "publishedAt": "12 de outubro de 2026",
+    "publishedAtISO": "2026-10-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/porto-brasil-stoneware-bio-latte.webp",
+    "imageAlt": "Aparelho de jantar Porto Brasil Stoneware Bio Latte em duas fotos de produto: pratos, tigelas e xícaras em tom claro",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Porto Brasil é cerâmica ou porcelana?",
+        "paragraphs": [
+          "É cerâmica, não porcelana. A Porto Brasil faz louça de mesa de cerâmica em dois materiais: stoneware, também chamado de grês, nas linhas Bio, Orgânico, Coup Stoneware e Neo, entre outras, e faiança, nas linhas Coup, Roma e Madeleine, entre outras.",
+          "Quanto a ser boa, depende do uso: a maior parte das fichas de stoneware libera forno, micro-ondas, lava-louças e freezer, mas há exceções, e a faiança tem mais restrições. Não testamos as louças. As informações abaixo vêm das fichas de produto da fabricante, lidas em 12/10/2026, e de fontes públicas."
+        ]
+      },
+      {
+        "heading": "De onde é a Porto Brasil",
+        "paragraphs": [
+          "A Porto Brasil Cerâmica fica em Porto Ferreira, no interior de São Paulo. A empresa, Porto Brasil Cerâmica Ltda., foi aberta em 2006 e consta como ativa no cadastro público de CNPJ.",
+          "O site da fabricante é portobrasilceramica.com.br. O endereço portobrasil.com.br é de uma agência de viagens, sem relação com a louça."
+        ]
+      },
+      {
+        "heading": "Stoneware ou faiança: o que muda",
+        "paragraphs": [
+          "Uma diferença técnica é quanto a cerâmica absorve de água. Na classificação aduaneira do órgão de fronteira do Canadá (CBSA), a porcelana absorve até 0,5% (medido pelo método ASTM C373) e é translúcida; o grês absorve até 3% e é opaco; a faiança absorve mais de 3% e é opaca e porosa. A Porto Brasil não informa o percentual de absorção das peças.",
+          "Na prática, a Porto Brasil libera mais usos para o stoneware do que para a faiança, como mostra a tabela."
+        ],
+        "comparisonTable": {
+          "caption": "Usos indicados nas fichas de produto do site da Porto Brasil, lidas em 12/10/2026. Cada ficha vale para a peça dela: confira a da peça que você vai comprar.",
+          "headers": [
+            "Uso",
+            "Stoneware",
+            "Faiança"
+          ],
+          "rows": [
+            [
+              "Micro-ondas",
+              "Sim, na maior parte das fichas; as peças com aplicação de ouro, não",
+              "Sim"
+            ],
+            [
+              "Lava-louças",
+              "Sim, na maior parte das fichas; os conjuntos com filamento de ouro, não",
+              "Sim"
+            ],
+            [
+              "Forno",
+              "Sim, na maior parte das fichas; algumas trazem \"não é recomendado usar no forno convencional\", e as peças com aplicação de ouro não vão ao forno",
+              "A maior parte das fichas não fala do forno; várias não recomendam o forno convencional; um aparelho Coup libera até 180 °C"
+            ],
+            [
+              "Freezer",
+              "Sim, na maior parte das fichas",
+              "A maior parte das fichas não fala do freezer; os kits Celebrar de 18 peças trazem \"Freezer: Não recomendado\""
+            ],
+            [
+              "Garantia contra gretamento (rachaduras finas no esmalte)",
+              "9 ou 12 meses, conforme o produto",
+              "9 ou 12 meses, conforme o produto"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Micro-ondas, lava-louças, forno e freezer",
+        "paragraphs": [
+          "A maior parte das fichas de stoneware diz que a peça pode ir ao forno, ao micro-ondas e ao freezer e aconselha uma variação térmica de cerca de 180 °C ou de 240 °C, conforme a peça, sem dar a temperatura máxima do forno. Na descrição de mais de mil produtos, como o Bio Vanilla, a marca escreve \"forno (até 180 °C)\", mesmo quando a ficha do mesmo produto fala em 240 °C. Na dúvida, use a menor temperatura que a marca cita para a peça.",
+          "Há exceções. Algumas peças de stoneware, como pratos de entrada, de sobremesa e de massa da linha Orgânico, xícaras de chá da linha Linhas e kits de canecas da Coup Stoneware, trazem \"não é recomendado usar no forno convencional\". Os conjuntos com aplicação de ouro não devem ir ao forno nem ao micro-ondas, e os de filamento de ouro também não vão à lava-louças.",
+          "Na faiança, as fichas liberam micro-ondas e lava-louças. Várias trazem \"não é recomendado usar no forno convencional\", a maior parte não fala de forno nem de freezer, e os kits Celebrar de 18 peças trazem \"Freezer: Não recomendado\"."
+        ]
+      },
+      {
+        "heading": "Cuidados que a própria marca pede",
+        "bullets": [
+          "Não tire a peça quente do forno ou do micro-ondas direto para uma superfície fria, nem leve a peça do freezer direto para o forno: o choque térmico pode danificar a cerâmica.",
+          "Não use a peça em contato direto com a chama.",
+          "As marcas de talher que parecem riscos são, segundo a marca, desgaste do metal sobre a peça e saem com saponáceo.",
+          "Evite guardar as peças molhadas ou em locais úmidos."
+        ]
+      },
+      {
+        "heading": "Porto Brasil ou Oxford",
+        "paragraphs": [
+          "A Oxford tem louça de mesa nos dois materiais: a linha Ryo é, em sua maior parte, de porcelana, e a linha Unni é de cerâmica. No catálogo oficial da Oxford, quase todos os itens das duas linhas aparecem como resistentes a micro-ondas e a lava-louças, e nenhum declara forno. A empresa se apresenta como a maior fabricante de porcelana e cerâmica de mesa das Américas.",
+          "Sem teste próprio, não dizemos qual é melhor. A escolha começa pelo uso: para levar a louça ao forno, a maior parte do stoneware da Porto Brasil traz isso na ficha, e o catálogo da Oxford não declara forno para as linhas Ryo e Unni."
+        ]
+      },
+      {
+        "heading": "Garantia e reputação",
+        "paragraphs": [
+          "As fichas da Porto Brasil dão 90 dias de garantia por defeito de fabricação e uma garantia separada contra gretamento, as rachaduras finas no esmalte, de 9 ou 12 meses, conforme o produto.",
+          "No Reclame Aqui, a Porto Brasil Cerâmica tem reputação ÓTIMA, com nota 8,4 de 10 entre abril e setembro de 2026. No período, foram 110 reclamações, todas respondidas, e 84,3% resolvidas; os assuntos mais citados são produto com defeito e pratos."
+        ]
+      },
+      {
+        "heading": "Como comprar pela Let's Eat It",
+        "paragraphs": [
+          "A Let's Eat It vende sobretudo o stoneware da Porto Brasil: quase todas as peças da marca no catálogo da loja são desse material. Confira o material e as indicações de uso na página de cada produto. Os preços de outubro de 2026, com os descontos da época, estão no nosso guia de Black Friday da loja.",
+          "No site da Let's Eat It, o cupom MAUAD dá 5% de desconto e soma com o desconto do Pix."
+        ],
+        "links": [
+          {
+            "label": "Black Friday Let's Eat It 2026: preços de Porto Brasil",
+            "href": "/reviews/black-friday-letseatit"
+          },
+          {
+            "label": "Let's Eat It é confiável?",
+            "href": "/reviews/lets-eat-it-e-confiavel"
+          },
+          {
+            "label": "Cupom da Let's Eat It",
+            "href": "/cupons/letseatit"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Porto Brasil é cerâmica ou porcelana? É cerâmica, não porcelana: stoneware (grês) e faiança, segundo a própria fabricante.",
+          "Porto Brasil vai no micro-ondas? Sim, na maior parte das peças de stoneware e de faiança, segundo as fichas; as peças com aplicação de ouro não vão.",
+          "Porto Brasil vai no forno? A maior parte do stoneware vai, segundo as fichas, mas algumas peças e os conjuntos com ouro não; na faiança, várias fichas não recomendam o forno convencional.",
+          "Porto Brasil vai na lava-louças? Sim, na maior parte das peças dos dois materiais; os conjuntos com filamento de ouro não vão.",
+          "Porto Brasil é de onde? A fábrica fica em Porto Ferreira (SP); a empresa foi aberta em 2006 e consta como ativa no cadastro público de CNPJ.",
+          "Porto Brasil ou Oxford: qual escolher? Depende do uso: a maior parte do stoneware da Porto Brasil vai ao forno, segundo as fichas; a Oxford tem a linha Ryo, em sua maior parte de porcelana, e a Unni, de cerâmica, sem forno declarado no catálogo.",
+          "A Porto Brasil é confiável? No Reclame Aqui, tem reputação ÓTIMA: nota 8,4 de 10 entre abril e setembro de 2026, com todas as 110 reclamações respondidas e 84,3% resolvidas."
+        ]
+      }
+    ],
+    "pros": [
+      "A maior parte do stoneware vai ao forno, ao micro-ondas, à lava-louças e ao freezer",
+      "Garantia de 90 dias por defeito de fabricação e de 9 ou 12 meses contra gretamento",
+      "Reputação ÓTIMA no Reclame Aqui, com as 110 reclamações de abril a setembro de 2026 respondidas",
+      "Fábrica em Porto Ferreira (SP), de uma empresa aberta em 2006"
+    ],
+    "cons": [
+      "Algumas peças de stoneware e as que têm aplicação de ouro não vão ao forno",
+      "Na faiança, várias fichas não recomendam o forno convencional",
+      "A maior parte das fichas não dá a temperatura máxima do forno: fala em variação térmica de 180 °C ou 240 °C",
+      "Produto com defeito é o assunto mais citado nas reclamações"
+    ],
+    "cta": {
+      "text": "Veja o stoneware da Porto Brasil na Let's Eat It.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Podemos receber comissão pelos links da Let's Eat It. Não testamos as louças: os dados vêm da fabricante e de fontes públicas.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-letseatit",
+        "title": "Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal com desconto"
+      },
+      {
+        "slug": "lets-eat-it-e-confiavel",
+        "title": "Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar"
+      },
+      {
+        "slug": "le-creuset-vale-a-pena",
+        "title": "Le Creuset vale a pena? Indução, forno, lava-louças e queimado, e a comparação com Staub"
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "slug": "travesseiro-i-wanna-sleep-ou-emma",
+    "title": "Travesseiro I Wanna Sleep ou Emma (e Ortobom): qual escolher pelo seu jeito de dormir",
+    "seoTitle": "Travesseiro I Wanna Sleep ou Emma: qual escolher [2026]",
+    "type": "Comparativo de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Travesseiros I Wanna Sleep, Emma e Ortobom lado a lado: como cada um ajusta a altura, qual a firmeza, o teste em casa, a garantia e o preço, pelos sites oficiais.",
+    "metaDescription": "Travesseiro I Wanna Sleep ou Emma? Altura, firmeza, teste de noites, garantia e preço dos modelos, com a Ortobom no comparativo.",
+    "publishedAt": "12 de outubro de 2026",
+    "publishedAtISO": "2026-10-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex.webp",
+    "imageAlt": "Três travesseiros da I Wanna Sleep em fotos oficiais da marca: Snow, Cervical Coluna Relax com as medidas e Original Látex",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Para acertar a altura em casa: Snow, da I Wanna Sleep. Ele chega com 18 cm, e você tira o enchimento até achar o ponto.",
+          "Para ajustar por camadas e poder devolver com reembolso: Emma, com 14 noites de teste.",
+          "Para gastar menos: Ortobom, sabendo que as páginas dos dois modelos que consultamos não falam em noites de teste.",
+          "Na troca, a diferença é o que você recebe de volta: a Emma devolve o dinheiro, e a I Wanna Sleep dá crédito para outro produto da loja."
+        ],
+        "postParagraphs": [
+          "Não testamos os travesseiros. Preços e condições são dos sites oficiais em 12/10/2026 e mudam com as promoções: confira o teste e a troca no site de cada marca antes de comprar."
+        ]
+      },
+      {
+        "heading": "Os travesseiros lado a lado",
+        "comparisonTable": {
+          "caption": "Dados dos sites oficiais em 12/10/2026, sem códigos de desconto. Na Emma, é o preço exibido na lista de travesseiros.",
+          "headers": [
+            "Modelo",
+            "Material",
+            "Ajuste de altura",
+            "Firmeza",
+            "Teste e garantia",
+            "Preço"
+          ],
+          "rows": [
+            [
+              "I Wanna Sleep Snow",
+              "Flocos de memory foam, gel e fibra de bambu",
+              "Chega com 18 cm; você tira o enchimento",
+              "Não informada",
+              "30 dias de teste, com crédito para troca",
+              "R$ 347 (de R$ 419) no Regular, de 50 × 70 cm; R$ 390 (de R$ 459) no Plus, de 50 × 90 cm"
+            ],
+            [
+              "I Wanna Sleep Cervical Coluna Relax",
+              "Ergonômico, com carvão ativado",
+              "Não informado",
+              "Não informada",
+              "30 dias de teste, com crédito para troca",
+              "R$ 214 (de R$ 259)"
+            ],
+            [
+              "I Wanna Sleep Original Látex",
+              "100% látex natural",
+              "Três alturas fixas: 11, 13 e 15 cm",
+              "Não informada",
+              "30 dias de teste, com crédito para troca",
+              "R$ 248, R$ 262 e R$ 374, conforme a altura"
+            ],
+            [
+              "Emma Antiestress",
+              "Espuma de memória e fibras de carbono",
+              "3 camadas ajustáveis",
+              "Médio-firme",
+              "14 noites de teste e 6 meses de garantia",
+              "R$ 429 (de R$ 859)"
+            ],
+            [
+              "Emma Support",
+              "Espuma visco ergonômica",
+              "3 camadas ajustáveis",
+              "Firme",
+              "14 noites de teste e 6 meses de garantia",
+              "R$ 407 (de R$ 619)"
+            ],
+            [
+              "Emma Comfort",
+              "Microfibra respirável",
+              "2 camadas ajustáveis",
+              "Macio",
+              "14 noites de teste e 6 meses de garantia",
+              "R$ 325 (de R$ 519)"
+            ],
+            [
+              "Emma Air",
+              "Tecnologia Airgrid",
+              "2 camadas ajustáveis",
+              "Médio-macio",
+              "14 noites de teste e 6 meses de garantia",
+              "R$ 549 (de R$ 1.099)"
+            ],
+            [
+              "Ortobom Viscopur",
+              "Espuma viscoelástica",
+              "Não informado",
+              "Firme",
+              "Garantia de 90 dias; teste não informado",
+              "R$ 169 (de R$ 185,90)"
+            ],
+            [
+              "Ortobom Conforto Regulável",
+              "Fibra siliconada",
+              "Regulável",
+              "Macio",
+              "Garantia de 90 dias; teste não informado",
+              "R$ 159 (de R$ 175,90)"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "I Wanna Sleep: Snow, Coluna Relax e Original Látex",
+        "paragraphs": [
+          "O Snow chega com a altura máxima, de 18 cm, e você retira os flocos de memory foam até achar a altura mais confortável para você. Ele vem em dois tamanhos: Regular, de 50 × 70 cm, e Plus, de 50 × 90 cm.",
+          "O Original Látex tem três alturas fixas, escolhidas na compra: 11, 13 e 15 cm. O Cervical Coluna Relax é ergonômico, com carvão ativado.",
+          "Para comparar as outras linhas da marca, como as de pluma e o Airgelly, veja o nosso guia das linhas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/iwannasleep/travesseiro-snow-hero.webp",
+            "alt": "Travesseiro Snow da I Wanna Sleep sobre flocos de espuma, foto oficial da marca",
+            "caption": "Snow: ajuste retirando os flocos de espuma. Foto oficial da I Wanna Sleep.",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/iwannasleep/travesseiro-original-latex-detalhe.webp",
+            "alt": "Mão segurando a superfície perfurada do travesseiro Original Látex da I Wanna Sleep, foto oficial da marca",
+            "caption": "Original Látex: altura fixa de 11, 13 ou 15 cm. Foto oficial da I Wanna Sleep.",
+            "objectFit": "square"
+          }
+        ],
+        "links": [
+          {
+            "label": "Qual travesseiro escolher? O guia das linhas I Wanna Sleep",
+            "href": "/reviews/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep"
+          }
+        ]
+      },
+      {
+        "heading": "Emma: quatro modelos com camadas",
+        "paragraphs": [
+          "A Emma vende quatro travesseiros, e em todos você muda a altura tirando ou pondo camadas: a lista da Emma mostra 3 camadas no Antiestress e no Support e 2 no Comfort e no Air.",
+          "A própria Emma indica o Antiestress para quem dorme de lado, o Comfort, tirando a camada intermediária, para quem dorme de barriga para baixo e o Support para quem dorme de costas. Pela marca, o Comfort é o mais macio e o Support o mais firme; o Air (médio-macio) e o Antiestress (médio-firme) ficam entre os dois."
+        ]
+      },
+      {
+        "heading": "Ortobom: preço menor, teste não informado",
+        "paragraphs": [
+          "Na categoria de travesseiros viscoelásticos da Ortobom, o Viscopur custa R$ 169 e o Conforto Regulável, R$ 159. O Viscopur é de espuma viscoelástica, com conforto firme. O Conforto Regulável, apesar de estar na mesma categoria, é de fibra siliconada, macio e com altura regulável.",
+          "As páginas dos dois informam garantia de 90 dias e não falam em noites de teste. A categoria tem outros modelos; olhamos só estes dois."
+        ]
+      },
+      {
+        "heading": "Teste, troca e garantia",
+        "bullets": [
+          "I Wanna Sleep: 30 dias de teste nos travesseiros, com pelo menos 15 dias de uso. Se você não se adaptar, recebe crédito para trocar por outro produto do site, sem custo de frete. Vale só para compras no site oficial, com a nota fiscal.",
+          "Emma: 14 noites de teste e 6 meses de garantia. Se você não se adaptar, a Emma recolhe o travesseiro e devolve o valor total, segundo o site.",
+          "Ortobom: garantia de 90 dias nas páginas do Viscopur e do Conforto Regulável; as páginas não informam noites de teste."
+        ]
+      },
+      {
+        "heading": "Qual escolher pelo seu jeito de dormir",
+        "bullets": [
+          "Não sabe que altura prefere: Snow, que você ajusta em casa, ou um modelo da Emma, de camadas.",
+          "Já sabe a altura que usa: Original Látex, em 11, 13 ou 15 cm.",
+          "Quer poder devolver e receber o dinheiro: Emma, com 14 noites.",
+          "Quer gastar menos: Ortobom, que não informa teste em casa nos dois modelos que consultamos.",
+          "Dorme de lado: a Emma lembra que essa posição costuma pedir travesseiro mais alto. Dá para deixar mais enchimento no Snow ou escolher o Antiestress, que a Emma indica para quem dorme de lado."
+        ]
+      },
+      {
+        "heading": "Preço e cupom da I Wanna Sleep",
+        "paragraphs": [
+          "O cupom CECIEMCASA dá 10% de desconto no site da I Wanna Sleep, e o desconto pode variar conforme a campanha. Emma e Ortobom não são parceiras do site, e não temos código para elas."
+        ],
+        "links": [
+          {
+            "label": "Cupom da I Wanna Sleep",
+            "href": "/cupons/i-wanna-sleep"
+          },
+          {
+            "label": "Black Friday I Wanna Sleep 2026",
+            "href": "/reviews/black-friday-i-wanna-sleep"
+          }
+        ]
+      },
+      {
+        "heading": "Dor no pescoço: procure um profissional",
+        "paragraphs": [
+          "Travesseiro é escolha de conforto. Dor no pescoço que não passa, formigamento nos braços ou hérnia cervical pedem a avaliação de um ortopedista ou fisioterapeuta antes da troca."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Travesseiro I Wanna Sleep é bom? Não testamos; a marca dá 30 dias de teste nos travesseiros, com crédito para troca se você não se adaptar.",
+          "Travesseiro I Wanna Sleep vale a pena? Depende de como você dorme e de querer ajustar a altura em casa; o quadro mostra os modelos e os prazos de teste.",
+          "Travesseiro Emma é bom? Não testamos; a Emma dá 14 noites de teste e 6 meses de garantia nos travesseiros, com reembolso se você não se adaptar.",
+          "Emma ou I Wanna Sleep: qual é melhor? Não há um melhor para todo mundo: o Snow ajusta tirando enchimento, a Emma ajusta por camadas, e só a Emma devolve o dinheiro no teste.",
+          "I Wanna Sleep ou Ortobom: qual escolher? Os dois modelos da Ortobom que consultamos custam menos, mas as páginas deles não informam teste; a I Wanna Sleep dá 30 dias, com crédito para troca.",
+          "O travesseiro Snow tem regulagem de altura? Sim: ele chega com 18 cm, e você tira o enchimento até achar a altura mais confortável.",
+          "Travesseiro Emma tem regulagem de altura? Sim, por camadas: 2 ou 3, conforme o modelo.",
+          "Travesseiro Emma tem teste de noites? Sim: 14 noites, e a Emma recolhe e reembolsa se você não se adaptar."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Veja os travesseiros da I Wanna Sleep e aplique o cupom CECIEMCASA no carrinho.",
+      "label": "Ir para a I Wanna Sleep",
+      "url": "https://www.iwannasleep.com.br/collections/todos-os-travesseiros?utm_source=emcasacomcecilia&utm_medium=blog&utm_campaign=hub-travesseiros",
+      "sponsored": true
+    },
+    "coupon": "CECIEMCASA",
+    "affiliate": "i-wanna-sleep",
+    "editorialNote": "Podemos receber comissão pela I Wanna Sleep. Emma e Ortobom não são parceiras.",
+    "relatedArticles": [
+      {
+        "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
+        "title": "Qual Travesseiro Escolher? O Guia das Linhas I Wanna Sleep"
+      },
+      {
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
+        "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%"
+      },
+      {
+        "slug": "black-friday-i-wanna-sleep",
+        "title": "Black Friday I Wanna Sleep 2026: Pillow Top Magnum, travesseiros e cobertores com o cupom CECIEMCASA"
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "slug": "le-creuset-vale-a-pena",
+    "title": "Le Creuset vale a pena? Indução, forno, lava-louças e queimado, e a comparação com Staub",
+    "seoTitle": "Le Creuset vale a pena? Indução, forno e limpeza",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que a Le Creuset diz sobre indução, forno, lava-louças, micro-ondas e panela queimada, o que a garantia não cobre, a comparação com a Staub e onde comprar, com preços de 12/10/2026.",
+    "metaDescription": "Le Creuset vale a pena? Indução, forno por tipo de puxador, lava-louças, micro-ondas, como limpar o queimado e Le Creuset ou Staub, pelas regras das marcas.",
+    "publishedAt": "12 de outubro de 2026",
+    "publishedAtISO": "2026-10-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp",
+    "imageAlt": "Panela Redonda Signature da Le Creuset na cor Cotton, de lado e vista de cima, em fotos de produto da Let's Eat It",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Le Creuset vale a pena?",
+        "paragraphs": [
+          "Vale para quem vai usar a panela no fogão, inclusive de indução, e no forno, e aceita os cuidados com o esmalte. O ferro fundido da Le Creuset tem os melhores resultados no calor médio ou baixo, não vai ao micro-ondas e tem garantia vitalícia, que não cobre choque térmico nem queda.",
+          "Não testamos as panelas. As regras abaixo vêm da página de uso e cuidado da Le Creuset Brasil e da página de cuidados da Zwilling sobre a Staub."
+        ],
+        "bullets": [
+          "Indução: vai.",
+          "Forno: depende do puxador. O fenólico preto da linha Signature aguenta até 250 °C.",
+          "Lava-louças: pode; a lavagem constante pode desbotar o acabamento, e a marca diz que isso não é prejudicial.",
+          "Micro-ondas: não vai."
+        ]
+      },
+      {
+        "heading": "O que a Le Creuset diz sobre o ferro fundido: indução, forno, lava-louças, micro-ondas e uso",
+        "bullets": [
+          "Indução: o ferro fundido pode ser usado em todas as fontes de calor, incluindo a indução.",
+          "Micro-ondas: o ferro fundido não deve ser usado no micro-ondas.",
+          "Forno com puxador fenólico preto: até 250 °C na linha Signature e até 200 °C na linha Tradicional.",
+          "Forno com alça de ferro fundido ou puxador de aço inox: qualquer temperatura.",
+          "Alça ou puxador de madeira: não vai ao forno nem à lava-louças.",
+          "Lava-louças: a lavagem constante pode desbotar o acabamento do esmalte, o que a marca diz não ser prejudicial.",
+          "Antes do primeiro uso: a panela não precisa de cura.",
+          "No fogão: o calor médio ou baixo dá os melhores resultados.",
+          "Utensílios: a marca não recomenda batedor elétrico nem utensílio de metal sobre o esmalte."
+        ]
+      },
+      {
+        "heading": "Le Creuset ou Staub",
+        "comparisonTable": {
+          "caption": "Pelo que cada marca publica: Le Creuset na página de uso e cuidado da Le Creuset Brasil (lida em 11/10/2026) e Staub na página de cuidados do site da Zwilling em Portugal (lida em 11 e 12/10/2026).",
+          "headers": [
+            "Uso",
+            "Le Creuset (ferro fundido esmaltado)",
+            "Staub (ferro fundido esmaltado)"
+          ],
+          "rows": [
+            [
+              "Indução",
+              "Sim",
+              "Sim"
+            ],
+            [
+              "Forno",
+              "Puxador fenólico até 250 °C (Signature) ou 200 °C (Tradicional); alça de ferro ou inox em qualquer temperatura; madeira não",
+              "Até 250 °C, ou 200 °C com alças de silicone; alça de madeira não"
+            ],
+            [
+              "Lava-louças",
+              "Sim; a lavagem constante pode desbotar o acabamento (a marca diz que não é prejudicial); madeira não",
+              "Sim, mas a marca recomenda evitar a lavagem frequente; madeira não"
+            ],
+            [
+              "Micro-ondas",
+              "Não",
+              "A página não fala"
+            ],
+            [
+              "Garantia",
+              "Vitalícia; não cobre choque térmico nem queda",
+              "A página não fala"
+            ],
+            [
+              "Na Let's Eat It",
+              "Sim",
+              "Não encontramos no catálogo (busca de 12/10/2026)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As duas vão à indução e ao forno, e as duas excluem a alça de madeira. O limite de temperatura muda com o puxador e a linha, como mostra a tabela. Não comparamos preço, e na Let's Eat It não encontramos a Staub no catálogo."
+        ]
+      },
+      {
+        "heading": "Ceraflame e Tramontina: fora do comparativo",
+        "paragraphs": [
+          "A Ceraflame faz panelas de cerâmica, outro material. A Tramontina tem panelas de ferro fundido esmaltado com revestimento interno antiaderente. Não lemos as regras de indução, forno e garantia de nenhuma das duas, por isso elas ficam fora do comparativo."
+        ]
+      },
+      {
+        "heading": "Como limpar a panela queimada",
+        "bullets": [
+          "Não mergulhe a panela quente em água fria.",
+          "Encha a panela com água morna e deixe agir de 15 a 20 minutos antes de lavar.",
+          "Não use palha de aço nem produto abrasivo."
+        ]
+      },
+      {
+        "heading": "O que a garantia não cobre",
+        "paragraphs": [
+          "A garantia vitalícia da Le Creuset não cobre o choque térmico, como o da panela quente na água fria, nem rachadura ou dano por queda."
+        ]
+      },
+      {
+        "heading": "Onde comprar: Let's Eat It",
+        "paragraphs": [
+          "A Let's Eat It aparecia no localizador oficial de lojas da Le Creuset Brasil na consulta de 02/10/2026. Em 12/10/2026, a Panela Redonda Signature de 20 cm saía por R$ 2.329, e a de 28 cm, por R$ 3.429, nas cores de preço padrão; cores como Château e Flamme Dorée custam mais. Os preços por data estão no nosso guia de Black Friday da loja.",
+          "Na Casa Let's, a loja física em São Paulo, o desconto de 15% das compras presenciais não vale para a Le Creuset (regra da loja em 03/10/2026). No site, o cupom MAUAD dá 5% de desconto, mas não o testamos numa peça Le Creuset: confira se ele entra no carrinho antes de pagar."
+        ],
+        "links": [
+          {
+            "label": "Black Friday Let's Eat It 2026: preços de Le Creuset",
+            "href": "/reviews/black-friday-letseatit"
+          },
+          {
+            "label": "Let's Eat It é confiável?",
+            "href": "/reviews/lets-eat-it-e-confiavel"
+          },
+          {
+            "label": "Cupom da Let's Eat It",
+            "href": "/cupons/letseatit"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Le Creuset vale a pena? Vale para quem vai usar a panela no fogão e no forno e aceita os cuidados: melhores resultados no calor médio ou baixo, nada de micro-ondas e uma garantia vitalícia que não cobre choque térmico nem queda.",
+          "Le Creuset pode ir na indução? Sim: a marca diz que o ferro fundido pode ser usado em todas as fontes de calor, incluindo a indução.",
+          "Le Creuset pode ir no forno? Depende do puxador: o fenólico preto vai até 250 °C na linha Signature e até 200 °C na Tradicional; alça de ferro ou puxador de inox, em qualquer temperatura; madeira não vai.",
+          "Le Creuset pode ir na lava-louças? Pode, segundo a marca: a lavagem constante pode desbotar o acabamento do esmalte, o que a marca diz não ser prejudicial; alça de madeira não vai.",
+          "Le Creuset pode ir no micro-ondas? Não: a marca diz que o ferro fundido não deve ser usado no micro-ondas.",
+          "Como limpar panela Le Creuset queimada? Não mergulhe a panela quente em água fria; encha com água morna, deixe agir de 15 a 20 minutos e lave sem palha de aço nem produto abrasivo.",
+          "Le Creuset ou Staub: qual escolher? Pelo que as marcas publicam, as duas vão à indução e ao forno, e o limite de temperatura depende do puxador. Não comparamos preço, e a Staub não apareceu no catálogo da Let's Eat It na busca de 12/10/2026.",
+          "As panelas Staub são boas? Não testamos; pela marca, a Staub vai à indução e ao forno até 250 °C, ou 200 °C com alças de silicone."
+        ]
+      }
+    ],
+    "pros": [
+      "Vai a todas as fontes de calor, inclusive à indução",
+      "Alça de ferro fundido e puxador de inox vão ao forno em qualquer temperatura",
+      "Garantia vitalícia",
+      "Não precisa de cura antes do primeiro uso"
+    ],
+    "cons": [
+      "Não vai ao micro-ondas",
+      "A garantia não cobre choque térmico nem queda",
+      "A lavagem constante na lava-louças pode desbotar o acabamento do esmalte",
+      "Na Let's Eat It, a Redonda Signature de 20 cm custava R$ 2.329 em 12/10/2026"
+    ],
+    "cta": {
+      "text": "Procure a Le Creuset no site da Let's Eat It.",
+      "label": "Ir para a Let's Eat It",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Podemos receber comissão pelos links da Let's Eat It. Não testamos as panelas: as regras são das marcas.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-letseatit",
+        "title": "Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal com desconto"
+      },
+      {
+        "slug": "lets-eat-it-e-confiavel",
+        "title": "Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar"
+      },
+      {
+        "slug": "porto-brasil-e-boa",
+        "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e Porto Brasil ou Oxford"
       }
     ]
   }

@@ -7,6 +7,18 @@
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
+- [ ] [[insider-vale-a-pena]] — Insider / Insider vale a pena? Tech T-Shirt e cuecas comparadas com Minimal Club, Mirante, Alpha Co, Basicamente e Hering (Score Aut: 70 / Conv: 85; fase 2 da publicação das 17 pautas)
+- [ ] [[tabela-de-medidas-insider]] — Insider / Tabela de medidas Insider: como escolher o tamanho (Score Aut: 75 / Conv: 80; fase 2)
+- [ ] [[nutren-protein-ou-whey]] — Nestlé Nutre / Nutren Protein ou whey protein: como escolher pelo rótulo (Score Aut: 75 / Conv: 85; fase 2)
+- [ ] [[nestle-nutre-produtos-para-que-servem]] — Nestlé Nutre / Qual Nutren escolher: Senior, Protein, Control ou Active (Score Aut: 80 / Conv: 65; fase 2, termina o rascunho id 224)
+- [ ] [[magazine-voce-e-confiavel]] — Magalu / Magazine Você é confiável? (Score Aut: 75 / Conv: 80; fase 2, termina o rascunho id 231)
+- [ ] [[quanto-custa-capsula-dolce-gusto]] — Dolce Gusto / Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara (Score Aut: 81 / Conv: 75; fase 3)
+- [ ] [[melhores-capsulas-dolce-gusto-2026]] — Dolce Gusto / Qual sabor de cápsula Dolce Gusto escolher (Score Aut: 76 / Conv: 84; fase 3, termina o rascunho id 218)
+- [ ] [[shein-e-confiavel]] — SHEIN / SHEIN é confiável? Família de 10 idiomas (Score Aut: 75 / Conv: 80; fase 4)
+- [ ] [[shein-ou-shopee-temu]] — SHEIN / SHEIN, Shopee, Temu ou AliExpress, família de 10 idiomas (Score Aut: 70 / Conv: 85; fase 4)
+- [ ] [[codigo-de-indicacao-shein]] — SHEIN / Código de indicação SHEIN, família de 10 idiomas (Score Aut: 68 / Conv: 78; fase 4)
+- [ ] [[yesstyle-ou-stylevana]] — YesStyle / YesStyle ou Stylevana, família de 10 idiomas (Score Aut: 75 / Conv: 78; fase 5)
+- [ ] [[yesstyle-entrega-por-pais]] — YesStyle / YesStyle entrega no Brasil e em Portugal?, família de 10 idiomas (Score Aut: 80 / Conv: 75; fase 5)
 
 ---
 
@@ -36,7 +48,11 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- *(Nenhum artigo no momento)*
+- [ ] [[nutren-senior-ensure-ou-sustagen-senior]] — Nestlé Nutre / Nutren Senior, Ensure ou Sustagen Senior: comparação pelo rótulo (fase 1 da publicação das 17 pautas; capa nova no CDN)
+- [ ] [[dolce-gusto-maquinas-qual-escolher]] — Dolce Gusto / Qual Dolce Gusto comprar: Mini Me 2.0, Genio S ou NEO (fase 1; rascunho id 219 reescrito, preços de 12/10)
+- [ ] [[porto-brasil-e-boa]] — Let's Eat It / Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e comparação com a Oxford (fase 1; capa nova no CDN)
+- [ ] [[travesseiro-i-wanna-sleep-ou-emma]] — I Wanna Sleep / Travesseiro I Wanna Sleep ou Emma (e Ortobom) (fase 1; capa nova no CDN)
+- [ ] [[le-creuset-vale-a-pena]] — Let's Eat It / Le Creuset vale a pena? Indução, forno, lava-louças e queimado, e a comparação com Staub (fase 1; capa nova no CDN)
 
 ---
 
