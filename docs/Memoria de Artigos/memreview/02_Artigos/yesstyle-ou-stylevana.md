@@ -309,12 +309,12 @@ famílias de confiança e Black Friday está na seção 2.
 | fr | France, Belgique, Canada | YesStyle, Stylevana, Olive Young, StyleKorean, Jolse | `yesstyle-ou-stylevana-que-choisir` |
 | de | Deutschland, Österreich, Schweiz | idem | `yesstyle-oder-stylevana-welcher-shop` |
 | it | Italia | idem | `yesstyle-o-stylevana-quale-scegliere` |
-| ja | Japão | YesStyle, Olive Young; **sem o Stylevana** (não consta da lista de destinos); Jolse e StyleKorean ficam de fora (Jolse não envia; StyleKorean não lista o Japão) | `yesstyle-vs-olive-young-ja` (sugestão; o slug não nomeia o Stylevana porque a versão não o cobre; o Bruno confirma) |
-| ko | Coreia do Sul | YesStyle, StyleKorean (US$ 70); **sem o Stylevana** (não consta da lista de destinos); Jolse não envia; Olive Young Global não lista | `yesstyle-vs-stylekorean-ko` (sugestão, pela mesma razão; o Bruno confirma) |
+| ja | Japão | YesStyle; o Stylevana entra numa frase (não consta da lista de destinos); Olive Young fica para a pauta própria; Jolse e StyleKorean não entregam no Japão | `yesstyle-vs-stylevana-ja` (decisão do Bruno, 12/10/2026: o slug fica no padrão da família; a versão diz em uma frase que o Stylevana não entrega no Japão, com fonte, e a comparação com a Olive Young vai para a pauta própria, seção 10) |
+| ko | Coreia do Sul | YesStyle; o Stylevana entra numa frase (não consta da lista de destinos); StyleKorean fica para a pauta própria; Jolse não envia; Olive Young Global não lista | `yesstyle-vs-stylevana-ko` (decisão do Bruno, 12/10/2026: idem; a comparação com a StyleKorean vai para a pauta própria, seção 10) |
 | zh-hant | Taiwan, Hong Kong | Taiwan: YesStyle, Olive Young, StyleKorean, Jolse (sem o Stylevana); Hong Kong: com o Stylevana (SF Express, HK$ 270) | `yesstyle-vs-stylevana-zh-hant` |
 | zh-hans | Singapura, Malásia (só mercados que a YesStyle atende; nada sobre a China continental) | idem, com o Stylevana nos dois mercados | `yesstyle-vs-stylevana-zh-hans` |
 
-Stylevana lido em 12/10/2026 (6.5): a pauta segue com o nome "YesStyle ou Stylevana" no PT, EN, ES, FR, DE, IT, zh-hant e zh-hans; o ja e o ko não cobrem o Stylevana e trocam o slug (acima). Os títulos de ja e ko são do Job 2/Job 4 e não citam o Stylevana.
+Stylevana lido em 12/10/2026 (6.5): a pauta segue com o nome "YesStyle ou Stylevana" no PT, EN, ES, FR, DE, IT, zh-hant e zh-hans; no ja e no ko o título e o slug também ficam no padrão "YesStyle ou Stylevana" (decisão do Bruno, 12/10/2026), e a versão responde em uma frase que o Stylevana não entrega no país.
 
 `type` novo: "Comparativo de Lojas", **aprovado pelo Bruno em 12/10/2026 (decisão C)**, com estes termos nos outros idiomas: en "Store Comparison", es "Comparativa de Tiendas", fr "Comparatif de boutiques", de "Shop-Vergleich", it "Confronto tra negozi", ko "쇼핑몰 비교", ja "ショップ比較", zh-hant "購物平台比較", zh-hans "购物平台比较". **Tarefa do Job 4 (não feita agora):** acrescentar as colunas novas à tabela do item 4 da seção 3.
 
@@ -346,10 +346,15 @@ Palavras fora dos títulos: confiável, legit, safe, scam, fake, melhor.
      Brasil. **Padrão proposto:** a tabela do PT não traz linha do Stylevana para o Brasil, e a FAQ ("O Stylevana
      entrega no Brasil?") responde em uma frase, atribuída e datada: "a lista de destinos em inglês, de 09/10/2026,
      não inclui o Brasil; as traduções de agosto ainda incluem; a loja não publica frete nem prazo para o Brasil".
+     **Aprovado pelo Bruno em 12/10/2026 ("Certo").**
      Se o Bruno quiser um teste real (um endereço brasileiro no checkout do Stylevana, sem concluir a compra), a
      linha pode mudar.
-   - **ja e ko sem o Stylevana.** O Japão e a Coreia do Sul não constam dos destinos do Stylevana, então as duas
-     versões não o cobrem e o slug não o cita (seção 8); o Bruno confirma os dois slugs.
+   - **ja e ko: resolvido em 12/10/2026.** O Bruno não quis trocar os slugs. As duas versões ficam no padrão da família
+     e dizem, em uma frase com fonte, que o Stylevana não entrega no Japão nem na Coreia. A comparação com a Olive
+     Young e a StyleKorean vira **pauta própria em 10 idiomas** (sugestão do Bruno), a abrir no Job 1: a Olive Young
+     Global e a StyleKorean não entregam só no Japão e na Coreia (a Olive Young Global não envia ao Brasil, à Espanha nem
+     à própria Coreia; a StyleKorean sai da Coreia e não lista o Japão), então cada versão segue a mesma regra dos
+     mercados atendidos.
    - **Imposto do Stylevana por país.** Fora Chile, Colômbia, África do Sul, Brasil (central de ajuda) e o reembolso
      do site do México, a loja não diz quem paga imposto nos outros sites (6.5d); a tabela só traz a frase geral
      da loja.
