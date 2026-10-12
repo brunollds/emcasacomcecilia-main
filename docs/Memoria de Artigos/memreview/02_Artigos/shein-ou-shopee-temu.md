@@ -8,7 +8,7 @@ reviewKind: "guia"
 type: "Comparativo"
 status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "redigir o PT (Job 2); o Bruno ainda decide o conflito de comissão e se linka as políticas dos concorrentes (seção 10, itens 2 e 3), antes do Job 3"
+proxima_acao: "redigir o PT (Job 2) com os links de afiliado da SHEIN, da Shopee e da Temu (seção 10, item 2); depois o Job 3"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 85
@@ -212,10 +212,12 @@ devolução grátis na Temu da UE; **não vale como fonte** até alguém abrir a
   devolução).
 - **CTA comissionado (`rel="sponsored"`):** PT, `offerUrl` do cupom `shein`; traduções, o link neutro. Copiar do
   arquivo; nunca abrir nem clicar. Nenhum link para `br.shein.com` fora do português.
-- **Concorrentes:** **sem link** para Shopee, Temu e AliExpress (nem como "nofollow"): o artigo cita o nome e a
-  página oficial por nome e data, como nas fontes da SHEIN. Se o Bruno preferir linkar a página oficial de cada
-  política, é decisão dele (seção 10).
-- **Disclosure (`editorialNote`):** até 3 linhas, sem data. É preciso dizer que **só a SHEIN** paga comissão.
+- **Shopee e Temu (decisão do Bruno, 12/10/2026): links de afiliado da Cecília, só no PT**, com `rel="sponsored"`:
+  Shopee `https://s.shopee.com.br/2LZ1KQ3brC` e Temu `https://temu.to/k/glfwht5gllj`. Copiar do briefing; nunca
+  abrir nem clicar. São contas do Brasil: as traduções não levam esses links.
+- **Políticas das lojas: sem link** (decisão do Bruno, 12/10/2026). O artigo cita a página oficial de cada loja por
+  nome e data, como nas fontes da SHEIN. AliExpress sem link nenhum.
+- **Disclosure (`editorialNote`):** até 3 linhas, sem data. No PT, dizer que a Cecília ganha comissão da SHEIN, da Shopee e da Temu (não do AliExpress); nas traduções, só da SHEIN.
   Ex. PT: "Este artigo é editorial. A Cecília pode receber comissão pelos links da SHEIN, e só pela SHEIN."
 
 ---
@@ -241,7 +243,7 @@ devolução grátis na Temu da UE; **não vale como fonte** até alguém abrir a
 - **Fatos universais (iguais nas 10 versões):** os critérios de escolha (frete, prazo, janela de devolução,
   quem paga a devolução, imposto, o que o Reclame Aqui/avaliação local mede e não mede); o fato de que cada loja
   publica regras próprias por país; a lista "o que conferir antes de comprar"; o aviso "este artigo não mede
-  preço"; o disclosure ("só a SHEIN paga comissão"); o 4CW5Y como código de indicação da SHEIN Brasil.
+  preço"; o disclosure (a Cecília ganha comissão da SHEIN e, no PT, da Shopee e da Temu); o 4CW5Y como código de indicação da SHEIN Brasil.
 - **Fatos dependentes de país (só no bloco de mercado, com fonte do país):** quais concorrentes existem ali,
   frete, prazo, janela e custo de devolução de cada loja, imposto e aduana, reputação pública local.
 - **Nota do cluster relacionada:** [[03_Memoria/Clusters-Multilingues/SHEIN]]
@@ -293,7 +295,7 @@ conclusão e o número. Sem "melhor" e sem "pior" como veredito.
 6. **O que o Reclame Aqui mostra:** o quadro das quatro com a janela e as duas ressalvas.
 7. **Antes de comprar (5 itens):** preço final com frete e imposto, janela de devolução, quem é o vendedor,
    prazo no pedido, nome igual ao CPF.
-8. **Parceria e código de indicação:** disclosure (só a SHEIN paga comissão), 4CW5Y, link da página da loja.
+8. **Parceria e código de indicação:** disclosure (no PT, a Cecília ganha comissão da SHEIN, da Shopee e da Temu, e não do AliExpress), 4CW5Y, link da página da loja.
 9. **Perguntas frequentes** (abaixo).
 
 **FAQ (resposta de uma frase; título em `isFaqHeading`):**
@@ -319,11 +321,10 @@ Perguntas que **não** entram aqui (vão ao artigo de credibilidade): "a Shein �
 1. **(A) Formato das 9 traduções: RESOLVIDA, "Sim".** Exceção ao item 10 do Job 4 aprovada: núcleo igual + bloco de
    mercado por idioma (com o concorrente do mercado, seção 8.1), cada fato com fonte oficial própria; Job 3 e
    Job 4 conferem o bloco linha a linha contra a matriz da seção 6, não contra o PT.
-2. **Conflito de comissão (em aberto).** A Cecília só ganha com a SHEIN. O artigo diz isso no disclosure e dá a resposta
-   "depende de", sem veredito. Se o Bruno achar que a combinação (artigo comparativo + só o link da SHEIN)
-   pesa contra a credibilidade, a alternativa é não linkar o CTA nesse artigo. É decisão editorial.
-3. **Linkar a página oficial de política de cada loja** (Shopee, Temu, AliExpress)? (em aberto) Recomendo não, só
-   nome e data; o link de concorrente sai do controle do site.
+2. **Conflito de comissão: RESOLVIDA (Bruno, 12/10/2026).** A Cecília também tem link de afiliado da Shopee e da
+   Temu (seção 7). No PT, as três lojas levam link comissionado e o disclosure diz isso; a resposta segue "depende de",
+   sem veredito. As traduções só levam o link neutro da SHEIN.
+3. **Linkar a página oficial de política de cada loja: RESOLVIDA, "Não linkar"** (Bruno, 12/10/2026). Só nome e data.
 4. **(C) Rótulo `type` "Comparativo" nos 10 idiomas: RESOLVIDA, "Sim".** Rótulos da seção 8.1 aprovados. A coluna
    nova na tabela do Job 4 (item 4) é tarefa do Job 4, ainda não feita.
 5. **(D) zh-hans: RESOLVIDA, "os mercados que entregam sempre".** Só mercados que a loja atende, nunca um que ela
