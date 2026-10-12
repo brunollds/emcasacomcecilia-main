@@ -32704,7 +32704,7 @@ export const reviewsData: unknown[] = [
           "Quem pode participar: residentes do Brasil com 18 anos ou mais, com limite de uma conta por CPF.",
           "Como pontuar Geração 1: cadastrando os códigos alfanuméricos de 12 dígitos presentes no interior das embalagens.",
           "Como pontuar NEO: extraindo cápsulas na máquina NEO pareada com o aplicativo oficial da Dolce Gusto.",
-          "Como economizar ainda mais: aplicar o cupom CECI (5% OFF) nas compras de cápsulas na loja oficial para potencializar a economia."
+          "Como economizar ainda mais: aplicar o cupom CECI (5% OFF em compras a partir de R$ 100) nas compras de cápsulas na loja oficial para potencializar a economia."
         ],
         "emphasis": "Atenção às regras de validade: seus pontos expiram após 6 meses de inatividade na conta. Para mantê-los ativos, você precisa registrar pelo menos um código ou resgatar um prêmio dentro desse período.",
         "links": [
@@ -32768,7 +32768,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Economize ainda mais usando o cupom CECI",
         "paragraphs": [
-          "A melhor tática para comprar cápsulas e maximizar seus benefícios é combinar os descontos imediatos com os pontos de fidelidade acumulados pós-compra. Na loja oficial da Dolce Gusto, você pode usar o cupom CECI para obter 5% de desconto direto em suas compras elegíveis.",
+          "A melhor tática para comprar cápsulas e maximizar seus benefícios é combinar os descontos imediatos com os pontos de fidelidade acumulados pós-compra. Na loja oficial da Dolce Gusto, você pode usar o cupom CECI para obter 5% de desconto direto em compras a partir de R$ 100.",
           "Ao aplicar o cupom CECI no carrinho, você paga menos pelas caixas de cápsulas, ganha os pontos extras da compra online (+100 pontos) e depois ainda cadastra o código interno de cada caixa para receber mais 100 pontos por embalagem da Geração 1 ou por extrações NEO. A economia é contínua e inteligente."
         ],
         "image": "/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp",
@@ -32945,7 +32945,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Economize com o cupom CECI",
         "paragraphs": [
-          "Manter uma rotina de cápsulas em casa pode gerar um custo mensal relevante, especialmente quando a família consome várias unidades por dia. Por isso, vale a pena usar o cupom de desconto CECI na loja oficial da NESCAFÉ Dolce Gusto. O código dá 5% de desconto nas compras e pode ser usado em conjunto com outras promoções do site, dependendo das regras vigentes.",
+          "Manter uma rotina de cápsulas em casa pode gerar um custo mensal relevante, especialmente quando a família consome várias unidades por dia. Por isso, vale a pena usar o cupom de desconto CECI na loja oficial da NESCAFÉ Dolce Gusto. O código dá 5% de desconto nas compras a partir de R$ 100 e pode ser usado em conjunto com outras promoções do site, dependendo das regras vigentes.",
           "Aplicar o cupom é simples: basta inserir o código CECI no campo de cupom do carrinho antes de finalizar a compra. Com o desconto, o preço médio das caixas fica mais competitivo, e o gasto mensal com café em casa diminui sem perder qualidade."
         ],
         "bullets": [],
@@ -33224,7 +33224,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Economize com o cupom CECI",
         "paragraphs": [
-          "Comprar uma máquina Dolce Gusto representa um investimento, e qualquer desconto ajuda. O cupom CECI garante 5% de desconto na loja oficial e pode ser aplicado na compra de máquinas, cápsulas e acessórios. Antes de finalizar o pedido, insira o código CECI no campo de cupom do carrinho para reduzir o valor total. A parceria com o Em Casa com Cecília mantém o cupom ativo para leitores e seguidores."
+          "Comprar uma máquina Dolce Gusto representa um investimento, e qualquer desconto ajuda. O cupom CECI dá 5% de desconto na loja oficial em compras a partir de R$ 100 e pode ser aplicado na compra de máquinas, cápsulas e acessórios. Antes de finalizar o pedido, insira o código CECI no campo de cupom do carrinho para reduzir o valor total. A parceria com o Em Casa com Cecília mantém o cupom ativo para leitores e seguidores."
         ],
         "bullets": [],
         "links": [
@@ -33552,7 +33552,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "Draft",
     "draft": true,
     "image": "/images/reviews/iwannasleep/travesseiro-snow-hero.webp",
-    "imageAlt": "Travesseiro IWS Snow com tecnologia de regulagem de altura e capa refrigerante",
+    "imageAlt": "Travesseiro IWS Snow com regulagem de altura e capa de viscose de bambu",
     "imageFit": "cover",
     "pros": [],
     "cons": [],
@@ -33560,29 +33560,31 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o Travesseiro IWS Snow",
         "paragraphs": [
-          "O Travesseiro IWS Snow é um dos carros-chefe da marca I Wanna Sleep. Ele se destaca no catálogo por reunir tecnologias voltadas ao conforto térmico e à adaptação postural. A proposta do produto é oferecer uma superfície de apoio que auxilie na qualidade do sono, combinando materiais de performance com a possibilidade de personalização da altura — um recurso que permite ajustar o travesseiro ao biótipo e à posição de dormir de cada pessoa.",
-          "A marca descreve o IWS Snow como parte de uma linha de travesseiros tecnológicos, desenvolvidos com base em pesquisas do IWS Labs. O produto é voltado para quem busca alternativas aos travesseiros tradicionais, especialmente aqueles que sentem desconforto relacionado à temperatura ou à altura inadequada do apoio cervical."
+          "O Travesseiro IWS Snow é o modelo que a I Wanna Sleep chama de best-seller. Ele chega em casa na altura máxima, de 18 cm, e você tira parte do enchimento até achar a altura que combina com o seu corpo e com a posição em que dorme.",
+          "O enchimento é de flocos de espuma de memória com gel, e a capa é de viscose de bambu. A marca apresenta o conjunto como uma opção para quem sente calor à noite e para quem não acerta a altura do travesseiro."
         ],
         "bullets": []
       },
       {
         "heading": "Ficha técnica e características",
         "paragraphs": [
-          "As informações técnicas do Travesseiro IWS Snow disponíveis no site oficial apontam para um produto com as seguintes características principais:"
+          "Estas são as informações da página oficial do Travesseiro IWS Snow:"
         ],
         "bullets": [
-          "Tecnologia de regulagem de altura, permitindo ajustar a espessura do travesseiro conforme a necessidade.",
-          "Materiais com propriedades de dissipação térmica, projetados para reduzir a sensação de calor durante o sono.",
-          "Capa com textura suave e acabamento que remete à sensação de \"frio\" ou refrigeração (daí o nome \"Snow\").",
-          "Estrutura híbrida que combina camadas de diferentes densidades para distribuição de peso.",
-          "Disponível em tamanhos que atendem a diferentes preferências de leito e dimensões de cama."
+          "Altura ajustável: chega com 18 cm, e você retira os flocos de espuma até achar a altura certa. Os flocos retirados ficam guardados no saquinho do produto e podem voltar depois.",
+          "Enchimento: memory foam flakes (flocos de espuma de memória) com gel infuso. Segundo a marca, as partículas de gel ajudam a aliviar a pressão na cabeça e no pescoço e a manter a temperatura do travesseiro agradável.",
+          "Capa: 40% poliéster e 60% viscose de bambu. A marca diz que a malha de bambu tem toque macio e ajuda a reduzir a temperatura do travesseiro.",
+          "Medidas: Regular, de 50x70x18 cm, que serve na fronha padrão, e Plus, de 50x90x18 cm, para camas King ou Super King, com fronha de 50x90 cm.",
+          "Lavagem: só a capa, à mão e em água fria. O enchimento não pode ser lavado.",
+          "Entrega: o travesseiro chega enrolado a vácuo e pode levar até 8 horas para chegar à altura máxima depois de aberto.",
+          "Teste em casa: 30 dias pelo Sleeptest. Se não se adaptar, você recebe crédito para trocar por outro produto do site, nas compras feitas pelo site oficial."
         ]
       },
       {
         "heading": "Preço e variações",
         "paragraphs": [
-          "O Travesseiro IWS Snow está disponível no site oficial a partir de R$ 367,90. O preço original listado era de R$ 419,00, o que indica uma redução promocional no momento da consulta. O valor pode variar conforme promoções sazonais, campanhas específicas ou mudanças na política de preços da marca. É recomendável verificar o valor atualizado diretamente no site oficial antes da compra.",
-          "Além do IWS Snow, a marca oferece outros modelos de travesseiro que podem interessar ao consumidor em busca de alternativas. O Travesseiro Cervical Coluna Relax, por exemplo, é comercializado por R$ 227,90 e tem foco em apoio anatômico para a coluna cervical. Já o Travesseiro IWS Airgelly 2.0, com preço de R$ 497,90, é uma opção de linha premium com tecnologia de gel para controle térmico. O Travesseiro IWS Original Látex, a partir de R$ 327,90, é indicado para quem prefere a elasticidade natural do látex."
+          "Em 11 de outubro de 2026, o Snow Regular (50x70 cm) custava R$ 347, de R$ 419, e o Snow Plus (50x90 cm), R$ 390, de R$ 459, no site oficial. O preço muda com as promoções, então confira o valor na página antes de comprar.",
+          "Outros travesseiros da marca, no mesmo dia: o Cervical Coluna Relax, com foco no apoio da cervical, custava R$ 214, de R$ 259. O Airgelly 2.0, que a marca apresenta como antialérgico e 100% lavável, custava R$ 472, de R$ 549. O Original Látex, vendido em três alturas fixas, saía a partir de R$ 248 no tamanho P, de R$ 327."
         ],
         "bullets": []
       },
@@ -33594,7 +33596,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Acesse iwannasleep.com.br e use a barra de busca ou o menu para localizar o Travesseiro IWS Snow.",
           "Selecione o modelo e o tamanho desejado e clique em \"Comprar\".",
-          "No checkout, insira o cupom CECIEMCASA para garantir 10% de desconto no valor do produto.",
+          "No checkout, insira o cupom CECIEMCASA e confira os 10% de desconto no resumo do pedido.",
           "Escolha a forma de pagamento e finalize a compra.",
           "Guarde o número do pedido e acompanhe a entrega pela ferramenta de rastreamento."
         ],
@@ -33608,22 +33610,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Acessórios complementares",
         "paragraphs": [
-          "Para quem investe no Travesseiro IWS Snow, a marca oferece acessórios que podem prolongar a vida útil do produto ou complementar a experiência de sono. O Protetor de Travesseiro Protex Bamboo, por exemplo, é vendido a partir de R$ 127,90 e serve como barreira de proteção contra umidade e ácaros. A Máscara de Dormir Orb Sleep Mask, com preço de R$ 177,90, é uma opção para quem busca bloqueio de luz durante o descanso."
+          "Para quem compra o Snow, a marca vende acessórios que protegem o travesseiro ou completam a hora de dormir. O Protetor de Travesseiro Protex Bamboo, que serve de barreira contra umidade e ácaros, custava R$ 134 no tamanho 50x70 cm em 11 de outubro de 2026. A Orb Sleep Mask, máscara de dormir que bloqueia a luz, custava R$ 155."
         ],
         "bullets": []
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O Travesseiro IWS Snow tem regulagem de altura? Sim, o produto conta com tecnologia de regulagem de altura por camadas, permitindo ajustar a espessura conforme a necessidade.",
-          "Qual o preço do Travesseiro IWS Snow? A partir de R$ 367,90 no site oficial, com preço original de R$ 419,00 — valores sujeitos a alteração conforme promoções.",
-          "O cupom CECIEMCASA vale para o IWS Snow? Sim, o cupom garante 10% de desconto no valor do produto, aplicado no checkout do site oficial.",
+          "O Travesseiro IWS Snow tem regulagem de altura? Sim. Ele chega com 18 cm, e você tira os flocos de espuma do enchimento até achar a altura certa.",
+          "Qual o preço do Travesseiro IWS Snow? Em 11 de outubro de 2026, o Regular custava R$ 347, de R$ 419, e o Plus, R$ 390, de R$ 459, no site oficial. Os valores mudam com as promoções.",
+          "O cupom CECIEMCASA vale para o IWS Snow? Sim, o CECIEMCASA dá 10% de desconto na loja online da I Wanna Sleep. Confira o desconto no resumo do pedido antes de pagar.",
           "Onde comprar o Travesseiro IWS Snow com segurança? Pelo site oficial iwannasleep.com.br ou pelas lojas físicas listadas na seção \"Nossas lojas\" da marca.",
-          "O Travesseiro IWS Snow é bom para quem tem dor cervical? Sim, o IWS Snow foi projetado com regulagem de altura por camadas, permitindo ajustar o apoio cervical conforme a largura dos ombros e a posição de dormir. Para quem sente dor cervical, a capacidade de personalizar a altura ajuda a manter a coluna alinhada, reduzindo a tensão muscular. No entanto, quem tem condições médicas deve consultar um ortopedista ou fisioterapeuta antes de escolher.",
-          "Qual a diferença entre o Travesseiro IWS Snow e o IWS Airgelly 2.0? O IWS Snow tem foco em conforto térmico (sensação de frio) e regulagem de altura por camadas, sendo ideal para quem esquenta ao dormir. O IWS Airgelly 2.0 é a opção premium com tecnologia de gel para controle térmico avançado. O Snow é mais acessível (a partir de R$ 367,90), enquanto o Airgelly 2.0 custa a partir de R$ 497,90 e oferece performance térmica superior.",
-          "O Travesseiro IWS Snow é firme ou macio? O IWS Snow tem uma estrutura híbrida que combina camadas de diferentes densidades. O nível de firmeza pode ser ajustado pela remoção de camadas internas: com todas as camadas, ele fica mais alto e firme; removendo camadas, fica mais baixo e com sensação mais macia. Essa customização é o diferencial em relação aos travesseiros tradicionais.",
-          "O Travesseiro IWS Snow esquenta durante a noite? Não, pelo contrário: a tecnologia de dissipação térmica e a capa com textura refrigerante (ICE-FEEL) foram desenvolvidas para reduzir a sensação de calor. A marca descreve que o material ajuda a manter a superfície mais fresca em comparação com espumas convencionais, sendo uma boa opção para quem sofre com calor noturno ou suor excessivo.",
-          "Qual a altura ideal do IWS Snow para quem dorme de lado? Quem dorme de lado geralmente precisa de um travesseiro mais alto para manter a coluna cervical neutra. No IWS Snow, isso equivale a usar todas as camadas de regulagem, mantendo a espessura máxima. A recomendação é que a altura seja aproximadamente igual à distância entre o ombro e a base do pescoço, o que o modelo ajustável permite testar."
+          "O Travesseiro IWS Snow é bom para quem tem dor cervical? A marca diz que os flocos de espuma com gel distribuem a pressão da cabeça e do pescoço e ajudam a aliviar dores causadas por pontos de tensão. A altura ajustável permite procurar a posição mais confortável. Quem tem dor persistente ou alguma condição médica deve procurar um ortopedista ou fisioterapeuta.",
+          "Qual a diferença entre o Travesseiro IWS Snow e o IWS Airgelly 2.0? O Snow tem altura ajustável e enchimento de flocos de espuma com gel. O Airgelly 2.0 é o modelo que a marca apresenta como antialérgico e 100% lavável, indicado para quem tem rinite ou outra alergia respiratória. Em 11 de outubro de 2026, o Snow Regular custava R$ 347 e o Airgelly 2.0, R$ 472.",
+          "O Travesseiro IWS Snow é firme ou macio? A página oficial não classifica a firmeza. O que muda é a altura e o volume: com todos os flocos, ele fica mais alto e cheio; tirando flocos, fica mais baixo.",
+          "O Travesseiro IWS Snow esquenta durante a noite? A marca diz que as partículas de gel ajudam a manter a temperatura agradável e que a capa de viscose de bambu ajuda a reduzir a temperatura do travesseiro. Ainda não testamos o Snow em casa.",
+          "Qual a altura ideal do IWS Snow para quem dorme de lado? Quem dorme de lado costuma precisar de mais altura, para a cabeça ficar alinhada com o pescoço. No Snow, isso quer dizer manter mais flocos no enchimento. Uma referência é a distância entre o ombro e a base do pescoço, e a altura ajustável permite testar."
         ]
       }
     ],
@@ -34580,7 +34582,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como usar o cupom CECI na promoção",
         "paragraphs": [
-          "O cupom CECI (5% OFF) pode ajudar a reduzir o valor total quando estiver elegível no carrinho. Como as regras de promoções podem mudar, aplique o código antes de finalizar e confirme se o desconto aparece no resumo do pedido.",
+          "O cupom CECI (5% OFF em compras a partir de R$ 100) pode ajudar a reduzir o valor total quando estiver elegível no carrinho. Como as regras de promoções podem mudar, aplique o código antes de finalizar e confirme se o desconto aparece no resumo do pedido.",
           "O desconto de 5% sobre um valor elevado de cápsulas representa uma economia adicional significativa. No exemplo abaixo usamos 55 caixas como cálculo, mas ajuste para o número vigente no seu dia. Considerando um preço médio de R$ 25 por caixa e 55 unidades, o valor total seria aproximadamente R$ 1.375. Com o cupom CECI, a economia é de cerca de R$ 68,75 — além da máquina Mini Me, que custaria entre R$ 400 e R$ 900 em condições normais de compra."
         ],
         "bullets": []
@@ -35276,7 +35278,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e como comprar",
         "paragraphs": [
-          "No site oficial, a Genio S Touch Prata (127V) estava saindo por R$ 599,90, de R$ 979,90 (preço verificado em 23 de julho de 2026 na versão 127V — pode mudar conforme promoções e disponibilidade). No checkout, o cupom CECI garante desconto adicional.",
+          "No site oficial, a Genio S Touch Prata (127V) estava saindo por R$ 599,90, de R$ 979,90 (preço verificado em 23 de julho de 2026 na versão 127V — pode mudar conforme promoções e disponibilidade). No checkout, o cupom CECI pode dar mais 5% de desconto em compras a partir de R$ 100; confira no resumo do pedido.",
           "Como todo cupom promocional, o CECI tem prazo de validade e pode ser alterado pela marca. Se ele não estiver mais disponível quando você for comprar, o link abaixo leva direto pra loja oficial, onde você confere o preço e as condições vigentes no momento."
         ],
         "bullets": []
@@ -37045,7 +37047,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Quando começamos a usar a Genio S Touch em casa, uma dúvida apareceu rápido: os tracinhos e ícones do painel não mostram os valores em mililitros. A gente só via os símbolos — os mesmos impressos nas cápsulas — mas sem números para orientar receitas, comparações ou até curiosidade pessoal.",
           "Pesquisando online, encontramos informações conflitantes sobre os valores de cada nível. Parte dessa diferença pode vir de modelos, cápsulas ou referências distintas — inclusive há fontes que associam a função XL a 280 ml, enquanto o manual da nossa Genio S Touch mostra 300 ml.",
-          "A Nestlé não publica, no manual nem no site oficial, uma tabela única que relacione todos os níveis aos volumes em mililitros. Por isso, reunimos os valores que aparecem nos diferentes exemplos e cartões de receita do manual impresso da Genio S Touch. O manual da Mini Me 2.0 repete o mesmo gráfico com as mesmas medidas, reforçando essa referência em dois modelos. Ainda assim, as faixas abaixo são uma compilação editorial, não uma calibração oficial válida para todas as máquinas e cápsulas.",
+          "A Nestlé não publica, no manual nem no site oficial, uma tabela única que relacione todos os níveis aos volumes em mililitros. Por isso, reunimos os valores que aparecem nos diferentes exemplos e cartões de receita do manual impresso da Genio S Touch. O manual da Mini Me 2.0 repete as medidas dos níveis de 1 a 7, reforçando essa referência em dois modelos; a função XL, que a Mini Me 2.0 não tem, vem só da Genio S Touch. Ainda assim, as faixas abaixo são uma compilação editorial, não uma calibração oficial válida para todas as máquinas e cápsulas.",
           "Também fotografamos a tabela de preparo impressa em uma embalagem da linha Dolce Gusto. As imagens abaixo tornam visíveis as recomendações por bebida, inclusive as receitas feitas em duas etapas. Elas documentam essa tabela específica e não substituem a orientação impressa na cápsula ou no manual do seu modelo."
         ],
         "bullets": []
@@ -37073,7 +37075,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como funciona a variação de volume por nível",
         "paragraphs": [
-          "A escala de seletores varia de 1 a 7 barras mais a opção XL. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, os volumes progridem de cerca de 35-40 ml no nível 1 até 200-220 ml no nível 7, enquanto a função XL aparece com 300 ml.",
+          "A escala de seletores varia de 1 a 7 barras mais a opção XL. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, os volumes progridem de cerca de 35-40 ml no nível 1 até 200-220 ml no nível 7, enquanto a função XL, que a Mini Me 2.0 não tem, aparece com 300 ml no manual da Genio S Touch.",
           "Cada cápsula traz uma quantidade recomendada impressa na embalagem em forma de barras. Ao selecionar o número correspondente no painel touch, a máquina segue o nível indicado para aquela receita; o volume final deve ser entendido como aproximado e pode variar conforme a bebida e o modelo.",
           "Nas bebidas preparadas em duas etapas, como lattes e cappuccinos, o volume total no copo é a soma das extrações. Na tabela fotografada, o cappuccino combina 200 ml da etapa de leite com 40 ml da etapa de café, totalizando 240 ml. O latte macchiato combina 170 ml de leite e 50 ml de café, totalizando 220 ml."
         ],
@@ -37111,8 +37113,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "XL nos manuais consultados: 300 ml",
         "paragraphs": [
-          "Algumas fontes associam a função XL a 280 ml. Nos manuais consultados da Genio S Touch e da Mini Me 2.0, porém, o gráfico mostra diretamente **300 ml para XL**. A repetição das mesmas medidas em dois modelos fortalece a referência, embora a Nestlé não disponibilize uma tabela única para toda a linha.",
-          "Se você tem uma máquina diferente e o manual dela traz outros valores, priorize a documentação do seu modelo. Esta referência foi confirmada nos manuais da Genio S Touch e da Mini Me 2.0."
+          "Algumas fontes associam a função XL a 280 ml. No manual da Genio S Touch, porém, o gráfico mostra diretamente **300 ml para XL**. A Mini Me 2.0 não tem a função XL, segundo o comparativo de máquinas da loja oficial, e a Nestlé não disponibiliza uma tabela única para toda a linha.",
+          "Se você tem uma máquina diferente e o manual dela traz outros valores, priorize a documentação do seu modelo. O XL de 300 ml foi confirmado no manual da Genio S Touch."
         ],
         "bullets": [],
         "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-4.webp",
@@ -37122,7 +37124,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom CECI para comprar na loja oficial",
         "paragraphs": [
-          "Se você chegou diretamente a este guia e pretende comprar cápsulas ou uma máquina, use o cupom **CECI** na loja oficial da NESCAFÉ Dolce Gusto para obter **5% de desconto**, conforme as regras vigentes no momento da compra.",
+          "Se você chegou diretamente a este guia e pretende comprar cápsulas ou uma máquina, use o cupom **CECI** na loja oficial da NESCAFÉ Dolce Gusto para obter **5% de desconto** em compras a partir de R$ 100, conforme as regras vigentes no momento da compra.",
           "Digite CECI no campo de cupom antes de concluir o pedido e confirme se o desconto foi aplicado. O cupom faz parte da nossa parceria comercial com a marca, sem custo adicional para você."
         ],
         "bullets": [],
@@ -37136,12 +37138,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quantos ml tem cada risco (tracinho) da Dolce Gusto? A Nestlé não publica uma equivalência única para toda a linha. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, reunimos estas referências aproximadas: 1 barra = 35-40 ml, 2 = 50-60 ml, 3 = 80-90 ml, 4 = 110-120 ml, 5 = 140-150 ml, 6 = 170-180 ml, 7 = 200-220 ml e XL = 300 ml.",
+          "Quantos ml tem cada risco (tracinho) da Dolce Gusto? A Nestlé não publica uma equivalência única para toda a linha. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, reunimos estas referências aproximadas: 1 barra = 35-40 ml, 2 = 50-60 ml, 3 = 80-90 ml, 4 = 110-120 ml, 5 = 140-150 ml, 6 = 170-180 ml, 7 = 200-220 ml e XL = 300 ml (só na Genio S Touch: a Mini Me 2.0 não tem XL).",
           "Quantos ml faz uma cápsula Dolce Gusto? Depende da bebida: na tabela da caixa, os cafés pretos vão de 35 ml (Ristretto Ardenza) a 145 ml (Café Caseiro), e o número de riscos certo vem impresso em cada cápsula.",
           "E os níveis intermediários? Nos exemplos do manual, os volumes aumentam progressivamente entre as barras. As faixas deste artigo são uma compilação de diferentes cartões de receita, não uma calibração oficial universal.",
           "O que significam os tracinhos ou barras da Dolce Gusto? Eles indicam o nível de água recomendado para o preparo da cápsula. Mais tracinhos normalmente significam uma bebida de maior volume, mas o resultado deve ser tratado como aproximado.",
           "Quantos tracinhos para lungo? A Nestlé menciona 4 tracinhos de água para Lungos — esse dado vem da documentação oficial do Adaptador NEO Start.",
-          "Dolce Gusto XL: realmente 300 ml? Nos manuais consultados da Genio S Touch e da Mini Me 2.0, sim: ambos mostram 300 ml para a função XL. Outros modelos ou referências podem apresentar informações diferentes.",
+          "Dolce Gusto XL: realmente 300 ml? No manual da Genio S Touch, sim: o gráfico mostra 300 ml para a função XL. A Mini Me 2.0 não tem XL, segundo o comparativo da loja oficial, e outros modelos podem apresentar informações diferentes.",
           "Cupom CECI ainda é válido? Cupons promocionais têm prazo de validade e podem mudar. Se o CECI não estiver ativo quando você for comprar, o link da loja oficial neste artigo mostra a promoção vigente no momento."
         ]
       }
@@ -37390,7 +37392,7 @@ export const reviewsData: unknown[] = [
           "O pagamento é só no cartão de crédito (Visa, Mastercard ou Elo), sem parcelamento. Não há taxa de adesão nem mensalidade.",
           "O primeiro pedido de assinatura rende **1.000 pontos** no Dolce Gusto Club, uma vez por CPF.",
           "Dá para cancelar quando quiser, sem multa, até 1 dia antes do próximo pedido.",
-          "No nosso teste de 4 de outubro de 2026, o cupom **CECI** somou 5% aos 25% da assinatura."
+          "No nosso teste de 4 de outubro de 2026, o cupom **CECI** somou 5% aos 25% da assinatura. Ele vale em pedidos a partir de R$ 100."
         ]
       },
       {
@@ -37473,7 +37475,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom CECI na assinatura",
         "paragraphs": [
           "O item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os cupons direcionados a assinantes. O **CECI** não é um cupom do site: é o cupom de parceria do Em Casa com Cecília.",
-          "No nosso teste de 4 de outubro de 2026, o checkout aplicou os 25% da assinatura e mais **5% do CECI** num pedido de 4 caixas. Antes de concluir, procure a linha do cupom no resumo do pedido. Se ela não aparecer, a assinatura segue com os 25% normalmente."
+          "No nosso teste de 4 de outubro de 2026, o checkout aplicou os 25% da assinatura e mais **5% do CECI** num pedido de 4 caixas. O CECI vale a partir de R$ 100 em produtos, e o pedido mínimo da assinatura, de 3 caixas, pode ficar abaixo disso. Antes de concluir, procure a linha do cupom no resumo do pedido. Se ela não aparecer, a assinatura segue com os 25% normalmente."
         ],
         "links": [
           {
@@ -37531,7 +37533,7 @@ export const reviewsData: unknown[] = [
           "A assinatura Dolce Gusto tem mensalidade? Não. Não há mensalidade, taxa de adesão ou taxa de cancelamento: você paga só as caixas do pedido.",
           "Qual é o pedido mínimo da assinatura Dolce Gusto? São 3 caixas de bebidas por entrega.",
           "Posso misturar cápsulas Geração 1 e NEO na mesma assinatura? Sim. O FAQ oficial diz que as duas linhas podem estar na mesma assinatura.",
-          "O cupom CECI funciona na assinatura Dolce Gusto? No nosso teste de 4 de outubro de 2026, sim: o CECI deu 5% além dos 25% da assinatura.",
+          "O cupom CECI funciona na assinatura Dolce Gusto? No nosso teste de 4 de outubro de 2026, sim: o CECI deu 5% além dos 25% da assinatura, num pedido de 4 caixas. O cupom vale a partir de R$ 100 em produtos.",
           "Como cancelar a assinatura Dolce Gusto? Pela área Minha Assinatura no site oficial ou pelo e-mail atendimento.dolcegusto@nestle.com.br, até 1 dia antes do próximo pedido.",
           "Se eu cancelar e assinar de novo, ganho os 1.000 pontos outra vez? Não. A nova assinatura tem 25% e frete grátis, mas os 1.000 pontos são uma vez por CPF.",
           "O que acontece se o cartão for recusado? A loja tenta cobrar 3 vezes em 3 dias seguidos, e três erros consecutivos na recorrência cancelam a assinatura.",
@@ -37968,13 +37970,13 @@ export const reviewsData: unknown[] = [
         "heading": "O que é o Sleeptest",
         "paragraphs": [
           "O Sleeptest é a política de teste de conforto da I Wanna Sleep — basicamente, você compra um colchão, travesseiro ou outro item e tem um período para testar em casa antes de decidir se mantém ou troca. Parece simples, mas a realidade tem camadas: prazos diferentes dependendo do produto, custos que você precisa pagar em algumas categorias, e regras bem específicas sobre embalagem e estado do item.",
-          "A gente mantém uma parceria com a marca e já recebemos alguns produtos aqui em casa (como o Cobertor IWS Igloo), mas nunca acionamos uma troca via Sleeptest. As informações que você encontra neste artigo vêm diretamente da política oficial publicada em suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Sleeptest, consultada em 30 de julho de 2026. Por isso, resolvemos traduzir tudo para PT limpo: o que a gente sabe, as pegadinhas, e o que você precisa conferir antes de comprar."
+          "A gente mantém uma parceria com a marca e já recebemos alguns produtos aqui em casa (como o Cobertor IWS Igloo), mas nunca acionamos uma troca via Sleeptest. As informações que você encontra neste artigo vêm diretamente da política oficial publicada em suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Sleeptest, conferida de novo em 12 de outubro de 2026. Por isso, resolvemos traduzir tudo para PT limpo: o que a gente sabe, as pegadinhas, e o que você precisa conferir antes de comprar."
         ]
       },
       {
         "heading": "Colchões: 100 dias para testar (e R$300 para trocar)",
         "paragraphs": [
-          "Os colchões têm o período mais longo: até 100 dias a partir da entrega. Mas tem um detalhe que muda tudo — o uso mínimo.",
+          "Os colchões da I Wanna Sleep são vendidos só nas lojas físicas de Belo Horizonte, com as consultoras do sono, e a troca é feita na mesma loja da compra. Eles têm o período mais longo: até 100 dias a partir da entrega. Mas tem um detalhe que muda tudo — o uso mínimo.",
           "Você só pode pedir troca após 15 dias de uso. Isso significa que não é possível comprar, receber, ficar 2 dias e devolver insatisfeito sem usar. A marca quer ter certeza de que você testou de verdade, não apenas abriu a embalagem."
         ],
         "bullets": [
@@ -37983,7 +37985,7 @@ export const reviewsData: unknown[] = [
           "Motivo: Apenas por conforto (não serve para trocar tamanho: casal por casal, por exemplo)",
           "Condições exigidas: Colchão sem danos visíveis ou sujeira; protetor de colchão usado durante todo o período; etiqueta de fábrica intacta; embalagem original completa; nota fiscal em mãos; 1 troca por CPF (ou seja, você não pode trocar duas vezes)",
           "Custo da troca: Taxa única de frete + montagem de R$300 em Belo Horizonte e região metropolitana — demais regiões precisam consultar com o pós-vendas",
-          "O que vira crédito ou devolução: Se o novo colchão for mais caro que o que você está devolvendo, você paga a diferença; se for mais barato, o valor vira crédito na loja (não funciona em loja física, só no e-commerce)"
+          "O que vira crédito ou devolução: Se o novo colchão for mais caro que o que você está devolvendo, você paga a diferença; se for mais barato, a diferença vira crédito para trocar por outro produto da loja"
         ]
       },
       {
@@ -38011,7 +38013,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cobertores: confira a página do produto antes de comprar",
         "paragraphs": [
-          "Aqui entra uma pegadinha importante. A política oficial do Sleeptest que capturamos da central de ajuda não lista cobertores como categoria — ela cobre colchões, travesseiros e pillow tops.",
+          "Aqui entra uma pegadinha importante. A política oficial do Sleeptest que capturamos da central de ajuda não lista cobertores como categoria — ela cobre colchões, travesseiros, pillow tops e nutrição.",
           "Mas produtos específicos como o Cobertor IWS Igloo (que a gente tem aqui em casa) anunciam suas próprias políticas de teste na página do produto. No caso do Igloo, a marca anuncia \"teste de 30 noites com reembolso em crédito\".",
           "A lição: não suponha que cobertor segue a regra de travesseiro só porque parecem similares. Cada produto tem sua política anunciada na página. Confira lá antes de adicionar ao carrinho — e se tiver dúvida, mande mensagem pro atendimento da marca para confirmar antes de comprar."
         ],
@@ -38025,7 +38027,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nutrição e outras categorias",
         "paragraphs": [
-          "A política oficial menciona que existem regras de Sleeptest para a categoria \"Nutrição\" (suplementos), mas os detalhes específicos não estão publicados na central de ajuda que consultamos. Se você quer comprar um suplemento com a garantia de teste, entre em contato direto com o pós-vendas da marca para não ter surpresa — não assuma que as regras de travesseiro vale para suplemento."
+          "A política oficial também tem regras para a categoria \"Nutrição\" (suplementos): 30 dias desde a entrega, com no mínimo 15 dias de uso, nota fiscal e envio pelos Correios ao centro de distribuição, sem custo. Quem pede a troca recebe crédito. Segundo a política, a troca vale para quem não sentiu resultado no sono, e só para compras feitas no site."
         ]
       },
       {
@@ -38036,8 +38038,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Etiqueta intacta é obrigatória: Se você remover a etiqueta de fábrica, perde o direito à troca. Mesmo que o colchão/travesseiro esteja perfeito.",
           "Um só CPF, uma só troca: Não tente traçar a conta — a política é explícita em \"1 troca por CPF\". Você não consegue trocar duas vezes, nem com pessoas diferentes da família usando o mesmo CPF.",
-          "E-commerce troca em e-commerce, loja física troca em loja física: Se você comprou online, a troca é processada online. Se comprou na loja física, volta para a loja física.",
-          "Crédito vale só no e-commerce (para colchões com diferença de preço): Se você pedir crédito, esse crédito não vale em loja física — só no site.",
+          "E-commerce troca em e-commerce, loja física troca em loja física: Se você comprou online, a troca é processada online. Se comprou na loja física, a troca é feita na mesma loja da compra.",
+          "Crédito de compra feita no site fica no site: se a compra foi feita pelo e-commerce, o crédito da troca não vale nas lojas físicas.",
           "Embalagem original tem que estar completa: Não é só o colchão/travesseiro que importa — você precisa guardar toda a embalagem original durante os 100 dias (colchões) ou 30 dias (travesseiros). Se perdeu a caixa, perdeu a chance de trocar.",
           "Nota fiscal é documento obrigatório: Não venda com descontos \"sem nota fiscal\" — você vai precisar dela para ativar a garantia de teste."
         ]
@@ -38048,14 +38050,14 @@ export const reviewsData: unknown[] = [
           "Essa é a pergunta mais frequente. Na prática:",
           "Para travesseiros e pillow tops: O cliente recebe crédito automaticamente — não há devolução em dinheiro. O crédito fica na sua conta da loja e pode ser usado para comprar outro travesseiro, pillow top, lençol, sleepwear ou acessórios.",
           "Para colchões com diferença de preço: Se o novo colchão for mais barato, você também recebe crédito — não reembolso. Se for mais caro, você paga a diferença.",
-          "Em resumo: A política prioriza o crédito na loja, não devoluções em dinheiro. É uma prática comum em e-commerce, mas é bom saber disso na hora de decidir."
+          "Em resumo: a política prioriza o crédito na loja, não a devolução em dinheiro. A exceção são as compras feitas no site, que podem ser devolvidas em até 7 dias, como prevê o Código de Defesa do Consumidor."
         ]
       },
       {
         "heading": "Vale a pena? O veredito",
         "paragraphs": [
           "O Sleeptest é uma ótima garantia de conforto — você não está comprando \"gato por lebre\" nem ficando preso a um colchão que não dorme bem. Mas não é tão \"sem risco\" quanto parece à primeira vista.",
-          "Para colchões, os R$300 de taxa de logística reversa são um custo real. Em Belo Horizonte pode não parecer muito, mas é algo que você precisa contabilizar antes de comprar — se o colchão vai ser devolvido, você já desconta esses R$300 do valor que pagou. Se você mora em outro estado, a taxa pode ser ainda maior, então consulte.",
+          "Para colchões, os R$300 de taxa de logística reversa são um custo real. Em Belo Horizonte pode não parecer muito, mas é algo que você precisa contabilizar antes de comprar — se o colchão vai ser devolvido, você já desconta esses R$300 do valor que pagou. Fora de Belo Horizonte e da região metropolitana, a política não publica o valor: é preciso consultar o pós-vendas.",
           "Para travesseiros, aí sim: sem custo, 30 dias, crédito. É um incentivo real para você testar em casa com calma, o que é legal.",
           "A grande pegadinha é a etiqueta intacta e a embalagem original completa — muita gente abre tudo para limpar/lavar antes de dormir pela primeira vez e depois descobre que não pode trocar. Leia essa parte do contrato antes de rasgar a embalagem."
         ]
@@ -38063,15 +38065,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Como funciona o Sleeptest da I Wanna Sleep? É um período de teste de conforto para colchões (100 dias), travesseiros (30 dias) e pillow tops (30 dias). Você testa em casa, e se não gostar de conforto, pode trocar por outro — com algumas condições (uso mínimo, embalagem original, etiqueta intacta).",
+          "Como funciona o Sleeptest da I Wanna Sleep? É um período de teste de conforto para colchões (100 dias), travesseiros (30 dias), pillow tops (30 dias) e produtos de nutrição (30 dias). Você testa em casa, e se não gostar de conforto, pode trocar por outro — com algumas condições (uso mínimo, embalagem original, etiqueta intacta).",
           "Colchão I Wanna Sleep tem teste? Sim, 100 dias — mas você precisa usar no mínimo 15 dias antes de poder solicitar a troca.",
-          "Sleeptest devolve dinheiro ou crédito? Depende do produto. Para travesseiros, é sempre crédito. Para colchões, é crédito se o novo for mais barato; se for mais caro, você paga a diferença. Não há reembolso em dinheiro — tudo vira crédito de loja.",
-          "Quanto custa devolver colchão I Wanna Sleep? R$300 em Belo Horizonte e região metropolitana. Demais regiões precisam consultar com o pós-vendas da marca, pois o custo de logística varia.",
+          "Sleeptest devolve dinheiro ou crédito? Depende do produto. Para travesseiros, é sempre crédito. Para colchões, é crédito se o novo for mais barato; se for mais caro, você paga a diferença. Pelo Sleeptest não há reembolso em dinheiro: tudo vira crédito de loja. Compras feitas no site ainda podem ser devolvidas em até 7 dias, pelo direito de arrependimento.",
+          "Quanto custa devolver colchão I Wanna Sleep? R$300 em Belo Horizonte e região metropolitana. Para as demais regiões, a política manda consultar o pós-vendas da marca.",
           "Preciso manter a etiqueta? Sim, é obrigatório. Se arrancar a etiqueta de fábrica, perde o direito à troca.",
           "Posso trocar duas vezes? Não, a política permite apenas 1 troca por CPF durante todo o período.",
           "Se eu não gostar do colchão em 5 dias, consigo trocar? Não, é preciso usar no mínimo 15 dias antes de poder solicitar a troca.",
           "A embalagem original precisa estar perfeita? Sim, a embalagem original tem que estar completa se você quiser trocar — não pode estar rasgada ou parcialmente desmontada.",
-          "Vale a pena comprar colchão I Wanna Sleep com Sleeptest? Vale a pena pelo conforto testado, mas lembre-se dos R$300 de custo de troca (BH/região) e das condições rígidas (etiqueta intacta, 15 dias mínimo de uso, sem danos). Se você tem certeza do que quer, o Sleeptest é um diferencial. Se está muito em dúvida, converse antes com o atendimento para ter certeza da altura/densidade certa."
+          "Vale a pena comprar colchão I Wanna Sleep com Sleeptest? O colchão é vendido só nas lojas físicas de Belo Horizonte. Vale a pena pelo conforto testado, mas lembre-se dos R$300 de custo de troca (BH/região) e das condições rígidas (etiqueta intacta, 15 dias mínimo de uso, sem danos). Se você tem certeza do que quer, o Sleeptest é um diferencial. Se está muito em dúvida, converse antes com o atendimento para ter certeza da altura/densidade certa."
         ]
       }
     ],
@@ -38082,7 +38084,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Este artigo traduz a política oficial de Sleeptest da I Wanna Sleep com base em dados públicos coletados diretamente da central de ajuda oficial em 30 de julho de 2026. O cupom CECIEMCASA (10% de desconto) é oferecido por meio de uma parceria comercial entre o Em Casa com Cecília e a marca. Ao comprar por meio de nossas indicações, você ajuda a manter nosso trabalho editorial sem qualquer custo adicional. Os preços, políticas e cupons estão sujeitos a alterações pela marca.",
+    "editorialNote": "Este artigo traduz a política oficial de Sleeptest da I Wanna Sleep com base em dados públicos coletados diretamente da central de ajuda oficial. O cupom CECIEMCASA (10% de desconto) é oferecido por meio de uma parceria comercial entre o Em Casa com Cecília e a marca. Ao comprar por meio de nossas indicações, você ajuda a manter nosso trabalho editorial sem qualquer custo adicional. Os preços, políticas e cupons estão sujeitos a alterações pela marca.",
     "relatedArticles": [
       {
         "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
@@ -39816,7 +39818,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar e cupom de desconto",
         "paragraphs": [
           "A Dolce Gusto Mini Me 2.0 pode ser adquirida no e-commerce oficial da marca, onde eventualmente integra campanhas promocionais de volume de cápsulas e cores exclusivas. O preço de tabela individual varia de acordo com a cor e as ofertas ativas.",
-          "No checkout da loja oficial, o consumidor pode testar o cupom CECI para verificar elegibilidade a 5% de desconto em produtos elegíveis, segundo o regulamento vigente na loja oficial.",
+          "No checkout da loja oficial, o consumidor pode testar o cupom CECI para verificar elegibilidade a 5% de desconto em compras a partir de R$ 100, segundo o regulamento vigente na loja oficial.",
           "Assista também ao vídeo especial do Bruno no canal Em Casa com Cecília no YouTube Shorts, gravado para a campanha de Dia dos Pais com a NESCAFÉ Dolce Gusto Mini Me 2.0, mostrando a máquina em ação."
         ],
         "links": [
@@ -39841,7 +39843,7 @@ export const reviewsData: unknown[] = [
           "Quanto tempo a Mini Me 2.0 demora para esquentar? O pré-aquecimento do termobloco leva entre 20 e 30 segundos, quando o LED passa de vermelho para verde.",
           "Qual o padrão de tomada da Mini Me 2.0? Na unidade 127V testada, a máquina utiliza o plugue de 20 Amperes (20A) com pinos de 4,8mm. Recomenda-se confirmar a voltagem e o plugue no manual do fabricante antes de instalar.",
           "A Mini Me 2.0 aceita cápsulas Starbucks? Sim. Ela é compatível com a linha de cápsulas Starbucks by NESCAFÉ Dolce Gusto para o sistema Original disponíveis no mercado.",
-          "O cupom CECI vale para a Mini Me 2.0? O cupom CECI pode ser testado no checkout da loja oficial da NESCAFÉ Dolce Gusto para verificar a concessão de 5% de desconto em itens elegíveis."
+          "O cupom CECI vale para a Mini Me 2.0? O cupom CECI pode ser testado no checkout da loja oficial da NESCAFÉ Dolce Gusto para verificar a concessão de 5% de desconto em compras a partir de R$ 100."
         ]
       }
     ],
@@ -40489,7 +40491,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar com desconto e como usar o cupom CECI",
         "paragraphs": [
           "As cafeteiras da linha Genio S podem ser adquiridas na loja oficial da NESCAFÉ Dolce Gusto Brasil, com garantia oficial Arno de 1 ano e versões 127V ou 220V, conforme disponibilidade.",
-          "No carrinho da loja oficial, o cupom CECI pode conceder 5% de desconto em produtos elegíveis. Confirme a aplicação e as regras vigentes antes de concluir o pedido."
+          "No carrinho da loja oficial, o cupom CECI pode conceder 5% de desconto em produtos elegíveis, em compras a partir de R$ 100. Confirme a aplicação e as regras vigentes antes de concluir o pedido."
         ],
         "bullets": [],
         "links": [
@@ -40526,7 +40528,7 @@ export const reviewsData: unknown[] = [
           "Dá para usar cápsulas de outras marcas, como Nespresso, nas máquinas Genio S? Não. O sistema Dolce Gusto ORIGINAL usa um formato de cápsula e porta-cápsula próprio, fisicamente incompatível com o sistema Nespresso.",
           "As cápsulas da linha NEO servem direto nas Genio S? Não diretamente — os três modelos (Basic, Plus e Touch) usam o sistema ORIGINAL. Para preparar cafés pretos selecionados da linha NEO é preciso o [Adaptador NEO Start](/reviews/adaptador-neo-start-o-que-e), vendido à parte e compatível com toda a linha Genio S.",
           "As máquinas Genio S vêm em 127V e 220V? Sim, há versões 127V e 220V, conforme modelo e disponibilidade. Verifique a tensão e o padrão da tomada antes da compra, sem usar adaptadores improvisados.",
-          "Qual o cupom de desconto para comprar cafeteiras Dolce Gusto? O cupom CECI pode conceder 5% de desconto em produtos elegíveis na loja oficial. Confirme a aplicação e as condições vigentes no checkout."
+          "Qual o cupom de desconto para comprar cafeteiras Dolce Gusto? O cupom CECI pode conceder 5% de desconto em produtos elegíveis na loja oficial, em compras a partir de R$ 100. Confirme a aplicação e as condições vigentes no checkout."
         ]
       }
     ],
@@ -40572,7 +40574,7 @@ export const reviewsData: unknown[] = [
       {
         "image": "/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp",
         "alt": "Cupom de desconto CECI para NESCAFÉ Dolce Gusto",
-        "caption": "Cupom CECI: 5% de desconto em máquinas e cápsulas na loja oficial."
+        "caption": "Cupom CECI: 5% de desconto em máquinas e cápsulas na loja oficial, em compras a partir de R$ 100."
       }
     ]
   },
@@ -42914,7 +42916,7 @@ export const reviewsData: unknown[] = [
           "A Dolce Gusto NEO e a Nespresso Vertuo Pop têm aplicativo? Sim, mas com funções diferentes. Na NEO, usamos o app para iniciar o café e ajustar temperatura e volume; a máquina reconhece a cápsula e não oferece essas seleções no próprio corpo. Na Vertuo Pop, Bluetooth e Wi-Fi servem para atualizações, tutoriais e assistência no app Nespresso.",
           "Qual sistema prepara chá? Dolce Gusto e TRES têm cápsulas de chá e outras multibebidas. A linha Nespresso é concentrada em cafés.",
           "Como descalcificar uma cafeteira de cápsulas? O procedimento e a frequência variam conforme a máquina, a água e o uso. Siga o ciclo indicado no manual e use a solução recomendada para o modelo; não improvise com vinagre ou produtos domésticos sem autorização expressa do fabricante.",
-          "Qual o cupom de desconto para cafeteiras Dolce Gusto? Em nossa verificação de 1º de outubro de 2026, o cupom CECI aplicou 5% de desconto no site oficial da NESCAFÉ Dolce Gusto Brasil. As condições podem mudar; confirme o valor no checkout."
+          "Qual o cupom de desconto para cafeteiras Dolce Gusto? Em nossa verificação de 1º de outubro de 2026, o cupom CECI aplicou 5% de desconto em compras a partir de R$ 100 no site oficial da NESCAFÉ Dolce Gusto Brasil. As condições podem mudar; confirme o valor no checkout."
         ]
       }
     ],
