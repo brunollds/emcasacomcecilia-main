@@ -84,6 +84,7 @@ A spec foi ajustada no mesmo commit deste plano, para as duas dizerem o mesmo:
   - `couponCardDecorAt` põe o ímã sempre à direita.
 - **O meio do `CouponShelfItem` é `flex` com `min-w-0`, e não `h-full`.** A spec pedia o meio `relative h-full` e o `article` com `h-full`. O plano trocou por `flex flex-1` no meio e `flex-1` no cartão (o `SHELF_CARD`), e os cartões ficam da mesma altura pela grade. A revisão final achou que, sem `min-w-0`, o meio usa a largura mínima do conteúdo: a 320 px, com "reduzir movimento", o cartão estreito passava da coluna em até 13 px. O `min-w-0` entrou na correção final.
 - **O carimbo do hub é 1,05 vez e −3° (`--etiqueta-rotacao`), e não 1,12 vez e −6°.** A spec previa que 1,12 bastaria para o cartão não cortar o número. No navegador, o giro de −6° em volta do canto de baixo levanta o alto do "%", e o cartão o cortava no quadro de partida, a 375 e a 1280 px. Com 1,05 vez e −3° o número fica inteiro. As lojas seguem em 1,25 vez e −6°.
+- **O ímã dos cartões de cupom nunca é amarelo.** A tabela do `cardDecor` põe um ímã amarelo na posição 0 (e na 5, na 10…). Nos cartões de cupom ele fica sobre a faixa amarela do preço e some nela. O Bruno escolheu o marinho, em 12/10, depois de ver o marinho, o laranja e o verde-escuro nos prints. O `couponCardDecorAt` troca o amarelo pelo marinho, e o `test:build-output` barra ímã amarelo nos cartões de cupom. A home e `/reviews` seguem com o amarelo.
 
 ## Mapa dos arquivos
 
