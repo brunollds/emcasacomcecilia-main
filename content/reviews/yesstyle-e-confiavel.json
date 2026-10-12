@@ -16,11 +16,15 @@
   "metaDescription": "A YesStyle é confiável? Veja dados públicos da empresa, autorização de marcas coreanas, política de envios, impostos e o que observar antes de comprar.",
   "publishedAt": "2 de agosto de 2026",
   "publishedAtISO": "2026-08-02",
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-10-12",
   "changelog": [
     {
       "date": "2026-09-28",
       "text": "Envios ao Brasil retomados; incluída a política de reembolso de taxas alfandegárias da YesStyle e retirada a menção ao Remessa Conforme."
+    },
+    {
+      "date": "2026-10-12",
+      "text": "Frete e prazo: retirados o mínimo de US$ 59 e o prazo de 10 a 25 dias úteis, que não constam da tabela de frete da YesStyle de 6 de outubro de 2026; corrigido o início da pausa dos envios ao Brasil (julho de 2026)."
     }
   ],
   "draft": false,
@@ -34,7 +38,7 @@
       "heading": "Dados públicos da empresa",
       "paragraphs": [
         "A YesStyle Limited é uma empresa de e-commerce com sede em Hong Kong, fundada em 2006. A empresa opera como subsidiária de YesAsia Holdings Limited, que é listada na bolsa de valores de Hong Kong com o código 2209.HK. Isso significa que, embora a YesStyle seja um site independente, sua controladora é uma empresa pública com operações fiscalizadas e auditadas.",
-        "A YesStyle atende clientes em mais de 80 países, com versão do site traduzida para português e suporte a múltiplas moedas de referência. No Brasil, as compras são cotadas em dólar americano (USD) e processadas conforme a regulamentação de e-commerce internacional. A empresa mantém canais de atendimento ao cliente para tirar dúvidas sobre produtos, prazos de entrega, impostos de importação e política de devoluções."
+        "A YesStyle atende clientes em mais de 150 países e regiões, com versão do site traduzida para português e suporte a múltiplas moedas de referência. No Brasil, as compras são cotadas em dólar americano (USD) e processadas conforme a regulamentação de e-commerce internacional. A empresa mantém canais de atendimento ao cliente para tirar dúvidas sobre produtos, prazos de entrega, impostos de importação e política de devoluções."
       ],
       "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
@@ -55,7 +59,7 @@
     {
       "heading": "Políticas de compra e pós-venda",
       "paragraphs": [
-        "O site da YesStyle oferece navegação em português e checkout em múltiplas formas de pagamento (cartão de crédito, PayPal). Os envios ao Brasil, que ficaram suspensos em agosto de 2026, voltaram (situação confirmada em setembro de 2026). Historicamente, o frete grátis para o Brasil vale em compras acima de US$ 59 pelo método padrão de entrega internacional — confira no carrinho o valor mínimo atual.",
+        "O site da YesStyle oferece navegação em português e checkout em múltiplas formas de pagamento (cartão de crédito, PayPal). Os envios ao Brasil ficaram suspensos a partir de julho de 2026, por atrasos na alfândega, e voltaram em setembro. Para o Brasil, o frete, o mínimo para frete grátis e o prazo aparecem no checkout, depois do CEP.",
         "O prazo de entrega e o valor do frete variam conforme o país de destino, o método de envio escolhido e a disponibilidade dos produtos no momento da expedição — consulte a estimativa exata no carrinho antes de finalizar. Para devoluções de itens elegíveis na embalagem original, a solicitação pode ser feita via formulário de autorização (RMA) no atendimento oficial. O suporte ao cliente pode ser contatado via chat e e-mail no site oficial."
       ],
       "bullets": [],
@@ -83,7 +87,7 @@
       ],
       "bullets": [
         "Confirme se está no domínio oficial (yesstyle.com) antes de inserir dados de pagamento. O checkout seguro deve iniciar com 'https://'.",
-        "Os envios para o Brasil ficaram suspensos em agosto de 2026 e voltaram (situação confirmada em setembro de 2026). Antes de montar o carrinho, confira no próprio site se o envio está disponível para o seu CEP. Se houver cobrança de impostos de importação, ela pode chegar na liberação do pacote, via Correios ou transportadora. A YesStyle reembolsa essas taxas alfandegárias em pedidos abaixo de US$ 1.000 (valor antes dos cupons, sem o frete): pague a cobrança, guarde o comprovante e envie ao atendimento da loja em até 30 dias. O reembolso vem em crédito na YesStyle.",
+        "Os envios para o Brasil ficaram suspensos a partir de julho de 2026 e voltaram em setembro. Antes de montar o carrinho, confira no próprio site se o envio está disponível para o seu CEP. Se houver cobrança de impostos de importação, ela pode chegar na liberação do pacote, via Correios ou transportadora. A YesStyle reembolsa essas taxas alfandegárias em pedidos abaixo de US$ 1.000 (valor antes dos cupons, sem o frete): pague a cobrança, guarde o comprovante e envie ao atendimento da loja em até 30 dias. O reembolso vem em crédito na YesStyle.",
         "Leia atentamente as descrições dos produtos, incluindo dimensões, materiais, e instruções de cuidado — padrões de beleza asiáticos podem diferir dos locais (ex: tamanho de embalagem, concentração de princípios ativos).",
         "Verifique o prazo de entrega estimado no carrinho para seu CEP. Regiões mais distantes podem ter prazos estendidos.",
         "Mantenha o comprovante de pagamento, o número de pedido e o código de rastreamento para acompanhamento e eventual recurso em caso de problemas.",
@@ -104,14 +108,14 @@
         "A YesStyle é confiável ou é um site falso? A YesStyle é legítima. É uma empresa fundada em 2006 com sede em Hong Kong, subsidiária da YesAsia Holdings Limited, listada na bolsa de Hong Kong (2209.HK), e se apresenta como distribuidora autorizada das marcas que vende.",
         "De onde é a YesStyle? De Hong Kong: a loja foi fundada lá em 2006 e pertence à YesAsia Holdings, listada na Bolsa de Hong Kong (2209.HK).",
         "Os produtos da YesStyle são originais ou falsificados? A YesStyle afirma ser revendedora autorizada de mais de 400 marcas de beleza coreana, comprando das fabricantes ou de distribuidores autorizados. Não há auditoria independente dessa afirmação; na entrega, confira lote, validade e lacre.",
-        "Qual o prazo de entrega da YesStyle para o Brasil? O prazo padrão é de 10 a 25 dias úteis, dependendo do método e da localização. Os envios ao Brasil voltaram (situação confirmada em setembro de 2026); confira no carrinho a estimativa para o seu CEP.",
+        "Qual o prazo de entrega da YesStyle para o Brasil? O prazo aparece no checkout, depois do CEP: é o tempo para o pedido ficar pronto mais o prazo do método de envio, que sai de Hong Kong. Os envios ao Brasil voltaram em setembro de 2026.",
         "YesStyle cobra impostos de importação para o Brasil? Pode haver cobrança de impostos na chegada do pacote, via Correios ou transportadora; as alíquotas dependem do valor do pedido e do estado e mudam com o tempo. A YesStyle reembolsa essas taxas alfandegárias em pedidos abaixo de US$ 1.000 (valor antes dos cupons, sem o frete): pague a cobrança, guarde o comprovante e envie ao atendimento da loja em até 30 dias. O reembolso vem em crédito na YesStyle.",
         "O código CECILIA010 muda o preço final do produto? Não. O código CECILIA010 oferece até 5% extra (5% 1ª compra, 2% recorrente) como benefício da parceria, sem custo adicional para o leitor.",
         "Como funciona a devolução na YesStyle? A solicitação de devolução é feita via formulário de autorização (RMA) no atendimento ao cliente. Produtos elegíveis não violados podem ser devolvidos para reembolso em crédito na loja ou estorno conforme a política vigente do produto.",
         "A YesStyle aceita qual forma de pagamento? Cartão de crédito internacional, PayPal e, em alguns países, localWallets. Todos os pedidos são processados em USD.",
         "YesStyle é seguro para inserir dados de cartão? Sim, o site utiliza conexão HTTPS segura e processa pagamentos via gateways certificados internacionais. Nunca insira dados sensíveis fora do checkout oficial.",
         "Qual é o domínio oficial da YesStyle? O domínio oficial é yesstyle.com (com idioma português disponível selecionando no site). Cuidado com sites falsos ou revendedores não autorizados.",
-        "YesStyle oferece frete grátis para o Brasil? Historicamente sim, em compras acima de US$ 59 pelo método padrão. Com os envios ao Brasil de volta (situação confirmada em setembro de 2026), confira no carrinho o valor mínimo atual.",
+        "YesStyle oferece frete grátis para o Brasil? O frete e o mínimo para frete grátis aparecem no checkout, depois do CEP. A tabela de frete que a YesStyle publica desde 6 de outubro de 2026 ainda não traz o Brasil.",
         "Como usar o código CECILIA010 na YesStyle? Digite CECILIA010 no campo 'Código de Recompensa' (Reward Code) durante o checkout. Este campo é separado do campo de cupom, e ambos podem ser usados simultaneamente."
       ]
     }
