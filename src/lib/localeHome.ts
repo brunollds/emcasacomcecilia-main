@@ -3,6 +3,7 @@ import { getCodeTitle, getSidebarCopy } from '@/components/review/sidebarCopy';
 import type { CeciliaPhotoCopy, SocialName } from '@/components/sections/CeciliaProfile';
 import { fillTemplate, getLocaleHomeCopy } from '@/components/sections/localeHomeCopy';
 import { brandLinks } from '@/lib/brandLinks';
+import { cardImageFit } from '@/lib/cardImage';
 import {
   CECILIA_FULL_NAME,
   CECILIA_SINCE,
@@ -190,6 +191,8 @@ export function getLocaleHomeContent(locale: LocaleHomeLocale, reviews: HubRevie
           type: review.type,
           dateLabel: review.publishedAtISO ? dateFormat.format(new Date(review.publishedAtISO)) : review.publishedAt,
           image: review.image ? resolveMediaUrl(review.image) : undefined,
+          imageFit: cardImageFit(review),
+          imagePosition: review.imagePosition,
         })
       ),
       all: { href: getReviewHubPath(locale), label: fillTemplate(copy.allArticles, { count: listed.length }) },

@@ -1,3 +1,5 @@
+import type { CardImageFit, CardImagePosition } from '@/lib/cardImage';
+
 // Regras da vitrine da home que valem no servidor e no navegador. O componente cliente importa
 // daqui; os dados das lojas chegam prontos de homeStores.ts, que fica no servidor.
 
@@ -12,6 +14,9 @@ export type HomeStoreArticle = {
   type: string;
   // URL de entrega, já resolvida.
   image?: string;
+  // A capa pela regra dos cartões (src/lib/cardImage.ts).
+  imageFit: CardImageFit;
+  imagePosition?: CardImagePosition;
 };
 
 export type HomeStoreTab = {

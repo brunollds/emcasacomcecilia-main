@@ -1,4 +1,5 @@
 import { socialMedias } from '@/lib/brandLinks';
+import { cardImageFit, type CardImageFit, type CardImagePosition } from '@/lib/cardImage';
 import { getActiveCoupons, getStoreCodeKind, type Coupon } from '@/lib/couponsData';
 import { getCouponStorePath } from '@/lib/couponTranslations';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '@/components/review/sidebarCopy';
@@ -92,6 +93,8 @@ export function getHomeStoreTabs(
         title: review.title,
         type: review.type,
         image: review.image ? resolveMediaUrl(review.image) : undefined,
+        imageFit: cardImageFit(review),
+        imagePosition: review.imagePosition,
       })),
       total: articles.length,
       allArticles: hasArticlesPage(articles.length)
@@ -144,6 +147,9 @@ export type HomeLatestArticle = {
   type: string;
   dateLabel: string;
   image?: string;
+  // A capa pela regra dos cartões (src/lib/cardImage.ts).
+  imageFit: CardImageFit;
+  imagePosition?: CardImagePosition;
   store?: string;
 };
 
@@ -166,6 +172,8 @@ export function getHomeLatest<T extends StoreReview>(
       type: review.type,
       dateLabel: formatDayMonth(review.publishedAtISO),
       image: review.image ? resolveMediaUrl(review.image) : undefined,
+      imageFit: cardImageFit(review),
+      imagePosition: review.imagePosition,
       store: stores.find((store) => store.slug === review.affiliate)?.brand,
     }));
 }
