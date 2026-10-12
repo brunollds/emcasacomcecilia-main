@@ -29582,10 +29582,10 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "Página inicial oficial da YesStyle mostrando exemplo de cupom promocional.",
-        "imageCaption": "Exemplo de cupom promocional registrado em 24 de julho de 2026 (cupom BTSVIP15). Cupons promocionais mudam frequentemente; consulte nossa página dedicada antes de comprar.",
+        "imageCaption": "Exemplo de cupom promocional oficial registrado em 24 de julho de 2026; essa campanha já terminou. Cupons promocionais mudam com frequência: consulte nossa página dedicada antes de comprar.",
         "imageFit": "wide",
         "bullets": [
-          "Cupons promocionais mensais: possuem prazo de validade e costumam dar de 10% a 15% OFF (ex.: cupom BTSVIP15 exibido pela YesStyle na data da captura).",
+          "Cupons promocionais mensais: possuem prazo de validade e costumam dar de 10% a 15% OFF.",
           "Código de Recompensa (Reward Code): código de influenciadora como o CECILIA010, que soma até 5% OFF extra.",
           "Fontes oficiais: verificar o banner do site, newsletters da loja ou nossa página dedicada de cupons."
         ]
@@ -29692,6 +29692,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Qual é a diferença entre Coupon Code e Influencer/Rewards Code na YesStyle? O Coupon Code é um cupom promocional temporário da YesStyle. Ele deve ser aplicado no campo \"Coupon Code\" e pode ter prazo, compra mínima, restrição regional ou produtos não elegíveis. Já o CECILIA010 é um Influencer/Rewards Code: deve ser inserido no campo separado \"Reward Code\" e oferece até 5% OFF extra — 5% para novos clientes na primeira compra ou 2% para clientes recorrentes. Quando as regras da promoção permitirem, os dois descontos podem aparecer juntos no resumo do pedido.",
+          "O que é o código de influenciador da YesStyle? É o Código de Recompensa (Reward Code), digitado num campo próprio do checkout, separado do campo de cupom. O nosso é o CECILIA010: 5% na primeira compra e 2% nas seguintes.",
           "Os cupons da YesStyle têm validade? Sim. Os cupons promocionais possuem prazo de validade e podem expirar sem aviso. Algumas campanhas duram poucos dias (como promoções de 72 ou 96 horas), enquanto outras permanecem ativas por períodos diferentes. Antes de finalizar a compra, confira a validade, o valor mínimo, a região e os produtos elegíveis nas regras da promoção e confirme se o desconto apareceu no checkout.",
           "Onde encontro as regras oficiais dos cupons da YesStyle? As regras gerais estão na página \"General Terms and Conditions for Coupons\" da central de atendimento da YesStyle. Para as condições de uma campanha específica, acesse a Central de Atendimento e abra a seção \"Promotions\", onde a YesStyle publica validade, compra mínima, regiões participantes e possíveis exclusões. Como essas condições mudam, consulte também o banner da promoção e o resumo do pedido antes de pagar.",
           "Posso usar mais de um cupom promocional no mesmo pedido? Não. Segundo as regras gerais da YesStyle, somente um Coupon Code pode ser usado por pedido ou pedido combinado. O CECILIA010, porém, não é um Coupon Code: ele deve ser aplicado no campo separado \"Reward Code\". Por isso, um cupom promocional e o CECILIA010 podem ser combinados quando a campanha for elegível e o checkout aceitar ambos."
@@ -30460,7 +30461,7 @@ export const reviewsData: unknown[] = [
     "type": "Ratgeber & Gutscheine",
     "reviewKind": "guia",
     "description": "Praktische Anleitung zur Nutzung des YesStyle Influencer-Codes CECILIA010. Erfahre den Unterschied zu normalen Gutscheinen, wie du Rabatte kombinierst (Stacking) und erhalte Tipps zu K-Beauty und Zoll.",
-    "metaDescription": "Nutze CECILIA010 bei YesStyle fur Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) und kombiniere ihn mit Gutscheinen fur K-Beauty, Pflege und Mode.",
+    "metaDescription": "Nutze CECILIA010 bei YesStyle für bis zu 5 % extra (5 % bei der Erstbestellung, 2 % danach) und kombiniere ihn mit Aktionsgutscheinen für K-Beauty und Mode.",
     "publishedAt": "22 Jun 2026",
     "publishedAtISO": "2026-06-22",
     "draft": false,
@@ -30469,7 +30470,7 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Produkte von K-beauty und koreanischer Pflege von YesStyle auf einem hellen Tisch angeordnet.",
     "imageFit": "cover",
     "pros": [
-      "Influencer-Code, der Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) auf berechtigte Gutscheine gewährt",
+      "Influencer-Code, der bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) auf berechtigte Produkte gewährt",
       "Kann mit berechtigten Aktionsgutscheinen auf der Website kombiniert werden",
       "Kostenloser internationaler Versand ab US$ 59 Bestellwert",
       "Riesiges Sortiment an K-Beauty, J-Beauty und koreanischer Mode",
@@ -30487,11 +30488,11 @@ export const reviewsData: unknown[] = [
         "heading": "So funktioniert der Code CECILIA010",
         "paragraphs": [
           "Im Gegensatz zu herkömmlichen Gutscheincodes, die allein einen direkten Rabatt gewähren, funktioniert der Code CECILIA010 auf YesStyle als \"Reward Code\" (Influencer-Belohnungscode).",
-          "Der Hauptvorteil besteht darin, dass er ein separates Eingabefeld im Checkout hat. CECILIA010 bringt Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen), wenn der Code im Feld Reward Code / Belohnungscode eingegeben wird. Das bedeutet, dass er vollständig kombinierbar ist: Du kannst ihn gleichzeitig mit berechtigten Aktionsgutscheinen auf der Website nutzen."
+          "Der Hauptvorteil besteht darin, dass er ein separates Eingabefeld im Checkout hat. CECILIA010 bringt bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen), wenn der Code im Feld Reward Code / Belohnungscode eingegeben wird. Das bedeutet, dass er vollständig kombinierbar ist: Du kannst ihn gleichzeitig mit berechtigten Aktionsgutscheinen auf der Website nutzen."
         ],
         "bullets": [
           "Code: CECILIA010",
-          "Rabatt: Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen)",
+          "Rabatt: bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen)",
           "Typ: Influencer Code / Belohnungscode (Reward Code)",
           "Wo eingeben: Feld \"Reward Code\" / \"Belohnungscode\" beim YesStyle-Checkout",
           "Vorteil: Fügt bis zu 5% extra im Warenkorb hinzu, wenn er im richtigen Feld eingegeben wird",
@@ -30537,7 +30538,7 @@ export const reviewsData: unknown[] = [
           "Damit beim Bestellen alles glattläuft, solltest du den Unterschied zwischen den zwei Codearten kennen, die bei YesStyle im Checkout kombiniert werden können:"
         ],
         "bullets": [
-          "Belohnungscode (Reward Code - CECILIA010): Dies ist Cecilias Influencer-Code. Er wird im Feld \"Reward Code\" eingegeben und gewährt Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen). Eventuelle weitere Vorteile hängen von den aktuellen YesStyle-Richtlinien ab.",
+          "Belohnungscode (Reward Code - CECILIA010): Dies ist Cecilias Influencer-Code. Er wird im Feld \"Reward Code\" eingegeben und gewährt bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen). Eventuelle weitere Vorteile hängen von den aktuellen YesStyle-Richtlinien ab.",
           "Gutscheincode (Coupon Code): Diese wechseln monatlich je nach Aktion. Falls ein Gutschein verfügbar ist, wird er im Feld \"Coupon Code\" eingegeben."
         ]
       },
@@ -30566,7 +30567,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "3. Gib den Belohnungscode CECILIA010 ein",
         "paragraphs": [
-          "Suche im Checkout oder Warenkorb das Feld \"Belohnungscode\" (oder \"Reward Code\"), gib exakt CECILIA010 ein und klicke auf \"Anwenden\", um die Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) zu aktivieren."
+          "Suche im Checkout oder Warenkorb das Feld \"Belohnungscode\" (oder \"Reward Code\"), gib exakt CECILIA010 ein und klicke auf \"Anwenden\", um die bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) zu aktivieren."
         ],
         "image": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
         "imageAlt": "Rabattfelder im YesStyle-Checkout mit ausgefülltem Reward Code.",
@@ -30592,7 +30593,7 @@ export const reviewsData: unknown[] = [
           "Das Kombinieren von Rabatten (Stacking) bedeutet, beide Hauptfelder im Checkout auszufüllen: das Reward-Code-Feld und das Coupon-Code-Feld. Verwende CECILIA010 im Belohnungscode-Feld und den Aktionsgutschein im Gutscheinfeld."
         ],
         "bullets": [
-          "Schritt 1 — Belohnungscode: Trage CECILIA010 im Feld Reward Code ein, um die Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) zu aktivieren.",
+          "Schritt 1 — Belohnungscode: Trage CECILIA010 im Feld Reward Code ein, um die bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) zu aktivieren.",
           "Schritt 2 — Aktiver Gutschein: Trage den gültigen Gutschein im Feld Coupon Code ein.",
           "Schritt 3 — Letzte Prüfung: Überprüfe vor dem Bezahlen in der Bestellübersicht, ob der Extra-Rabatt von CECILIA010 und der Aktionsgutschein korrekt aufgeführt sind."
         ],
@@ -30665,7 +30666,7 @@ export const reviewsData: unknown[] = [
           "Häufige Fragen und Antworten für internationale Kunden:"
         ],
         "bullets": [
-          "Ist CECILIA010 ein Gutschein? Nein. Er funktioniert als Influencer-Belohnungscode und gewährt Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) im Checkout. Der Vorteil ist, dass er mit einem aktiven Gutschein kombiniert werden kann.",
+          "Ist CECILIA010 ein Gutschein? Nein. Er funktioniert als Influencer-Belohnungscode und gewährt bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) im Checkout. Der Vorteil ist, dass er mit einem aktiven Gutschein kombiniert werden kann.",
           "Kann ich den Code und einen Gutschein zusammen nutzen? Ja. Gib den Code CECILIA010 im Feld Reward Code und deinen Aktionsgutschein im Feld Coupon Code ein, um die Rabatte zu kombinieren.",
           "Wie lange ist der Code CECILIA010 gültig? Er bleibt aktiv, solange das Influencer-Programm von YesStyle besteht und der Code regelmäßig verifiziert wird.",
           "Ist Einkaufen bei YesStyle sicher? Ja, es ist ein sicherer internationaler Online-Shop, der seit 2006 besteht und geschützte Zahlungswege bietet.",
@@ -30678,8 +30679,8 @@ export const reviewsData: unknown[] = [
           "Fallen YesStyle-Kleidungsstücke klein aus? Wie wähle ich die richtige asiatische Größe? Ja, die meisten YesStyle-Kleidungsstücke folgen der asiatischen Größenordnung, die tendenziell kleiner ausfällt als europäische oder amerikanische Größen. Jede Produktseite enthält eine Größentabelle in Zentimetern. Wir empfehlen, deine Maße zu nehmen und mit der Tabelle zu vergleichen, und eine oder zwei Größen größer zu wählen, besonders bei enganliegenden Styles.",
           "Welche K-Beauty-Marken sind bei YesStyle die beliebtesten? YesStyle ist autorisierter Vertriebspopulärer K-Beauty-Marken wie COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul und Haruharu. Die Website organisiert Produkte nach Kategorien – Essenzen, Toner, Seren, Sonnenschutzmittel – was den Aufbau einer koreanischen Hautpflegeroutine erleichtert.",
           "Kann ich meine YesStyle-Bestellung nach der Bestätigung stornieren oder ändern? Du kannst Bestellungen, die sich noch im Status 'Processing' befinden, direkt über deinen Bestellverlauf stornieren. Nach dem Versand ist eine Stornierung nicht mehr möglich, aber du kannst die Lieferung bei Ankunft ablehnen. Adress- oder Produktänderungen sind nur vor dem Versand möglich, indem du den Kundenservice schnell kontaktierst.",
-          "Funktioniert der CECILIA010-Code für Erstkäufer bei YesStyle? Ja, CECILIA010 funktioniert für Neukunden und Bestandskunden, und bietet Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen). Gib ihn im Reward-Code-Feld beim Checkout ein, kombinierbar mit berechtigten Aktionsgutscheinen.",
-          "Ist CECILIA010 ein YesStyle-Influencer-Gutschein? CECILIA010 ist ein registrierter Influencer-Belohnungscode. Er gewährt Bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) beim Checkout und ist mit berechtigten Promo-Gutscheinen kombinierbar, im Gegensatz zu Erstkauf-Gutscheinen, die meist nicht kumulativ sind."
+          "Funktioniert der CECILIA010-Code für Erstkäufer bei YesStyle? Ja, CECILIA010 funktioniert für Neukunden und Bestandskunden, und bietet bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen). Gib ihn im Reward-Code-Feld beim Checkout ein, kombinierbar mit berechtigten Aktionsgutscheinen.",
+          "Ist CECILIA010 ein YesStyle-Influencer-Gutschein? CECILIA010 ist ein registrierter Influencer-Belohnungscode. Er gewährt bis zu 5% extra (5% Erstbestellung / 2% Folgebestellungen) beim Checkout und ist mit berechtigten Promo-Gutscheinen kombinierbar, im Gegensatz zu Erstkauf-Gutscheinen, die meist nicht kumulativ sind."
         ]
       }
     ],
@@ -32671,7 +32672,7 @@ export const reviewsData: unknown[] = [
     "id": 217,
     "slug": "clube-dolce-gusto-como-funciona",
     "title": "Clube Dolce Gusto: pontos e prêmios",
-    "seoTitle": "Clube Dolce Gusto: como usar, cadastrar e resgatar pontos",
+    "seoTitle": "Pontos Dolce Gusto: como cadastrar, usar e trocar no Clube",
     "type": "Guia",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -32697,7 +32698,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como funciona o Clube Dolce Gusto",
         "paragraphs": [
           "O Clube Dolce Gusto é o programa de fidelidade oficial da NESCAFÉ® Dolce Gusto® no Brasil. A lógica é simples para quem consome café em cápsulas: ao comprar caixas de cápsulas originais, você acumula pontos cadastrando o código de 12 dígitos impresso no interior das embalagens da Geração 1 ou preparando cápsulas NEO via aplicativo. Depois, esses pontos podem ser trocados por novas cápsulas, acessórios e prêmios na loja do clube.",
-          "O cadastro no programa é gratuito para quem possui conta no e-commerce da marca. Na prática, em vez de jogar as caixas fora, vale criar o hábito de registrar os códigos para aproveitar melhor as compras que já fazem parte da rotina."
+          "O cadastro no programa é gratuito para quem possui conta no e-commerce da marca. Na prática, em vez de jogar as caixas fora, vale criar o hábito de registrar os códigos para aproveitar melhor as compras que já fazem parte da rotina. Quem já tem cadastro ou já comprou na loja oficial tem a participação vinculada à mesma conta."
         ],
         "bullets": [
           "Quem pode participar: residentes do Brasil com 18 anos ou mais, com limite de uma conta por CPF.",
@@ -32705,14 +32706,7 @@ export const reviewsData: unknown[] = [
           "Como pontuar NEO: extraindo cápsulas na máquina NEO pareada com o aplicativo oficial da Dolce Gusto.",
           "Como economizar ainda mais: aplicar o cupom CECI (5% OFF) nas compras de cápsulas na loja oficial para potencializar a economia."
         ],
-        "emphasis": "Atenção às regras de validade: seus pontos expiram após 6 meses de inatividade na conta. Para mantê-los ativos, você precisa registrar pelo menos um código ou resgatar um prêmio dentro desse período."
-      },
-      {
-        "heading": "O que é o Clube Dolce Gusto?",
-        "paragraphs": [
-          "O Clube Dolce Gusto funciona como um programa de fidelidade e relacionamento direto entre a marca e o consumidor. O programa é direcionado a residentes do Brasil com 18 anos ou mais que possuam uma conta ativa no site oficial. Caso você já tenha feito alguma compra ou tenha cadastro na loja oficial da Dolce Gusto, a inscrição no programa de pontos é vinculada à sua conta.",
-          "Cada usuário pode ter apenas uma conta vinculada ao CPF para acumular pontos. A participação é gratuita, e o saldo começa a ser formado conforme os códigos e ações elegíveis são registrados."
-        ],
+        "emphasis": "Atenção às regras de validade: seus pontos expiram após 6 meses de inatividade na conta. Para mantê-los ativos, você precisa registrar pelo menos um código ou resgatar um prêmio dentro desse período.",
         "links": [
           {
             "label": "Acessar site oficial Dolce Gusto",
@@ -32823,6 +32817,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Quem pode participar do programa? Residentes do Brasil com 18 anos ou mais que possuam conta no site oficial.",
+          "Como usar os pontos da Dolce Gusto? De dois jeitos: no carrinho do site oficial, trocando por produtos NESCAFÉ Dolce Gusto, ou na Loja de Prêmios do Clube, por itens de marcas parceiras e acessórios de café.",
           "Como ganho pontos com as caixas de cápsulas? Caixas Geração 1 possuem código interno de 12 dígitos (100 pontos por caixa de 10, 12 ou 16 cápsulas). Caixas NEO acumulam 10 pontos por extração no aplicativo oficial.",
           "Quanto tempo duram os meus pontos? Eles são válidos enquanto você registra códigos ou realiza trocas de prêmios pelo menos uma vez a cada 6 meses. Se a conta ficar inativa por 6 meses, o saldo total expira.",
           "Não encontro ou não consigo ler o código na embalagem. O que fazer? Se a caixa for Geração 1 e o código estiver ausente ou ilegível, ligue para o SAC no 0800 776 2233 ou envie um formulário de contato com foto da caixa e a nota fiscal da compra para receber um código substituto.",
@@ -33654,7 +33649,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 227,
     "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
-    "title": "Cobertor IWS Igloo: toque gelado de um lado, aconchego quentinho do outro",
+    "title": "Cobertor Igloo da I Wanna Sleep: lado gelado, lado quente e primeiras noites",
+    "seoTitle": "Cobertor Igloo IWS é bom? O lado gelado na prática e tamanhos",
     "type": "Editorial",
     "category": "produtos-experiencias",
     "reviewKind": "editorial",
@@ -33666,7 +33662,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Recebemos o primeiro cobertor dupla-face da I Wanna Sleep — veja nossas primeiras impressões em vídeo e a ficha técnica completa (tecnologias, tamanhos, preço).",
-    "metaDescription": "Veja a ficha técnica do Cobertor IWS Igloo: tecnologia dupla face, materiais, tamanhos disponíveis e como comprar com cupom CECIEMCASA.",
+    "metaDescription": "Primeiras impressões do cobertor Igloo da I Wanna Sleep: o lado gelado esfria na hora e resolveu o calor de madrugada. Tamanhos casal/queen e king e preço.",
     "publishedAt": "16 Jul 2026",
     "publishedAtISO": "2026-07-16",
     "draft": false,
@@ -33698,7 +33694,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que é o Cobertor IWS Igloo",
         "paragraphs": [
           "O Cobertor IWS Igloo é o item mais recente que recebemos aqui em casa da parceria com a I Wanna Sleep. A marca o descreve como o primeiro cobertor com dupla face térmica: um lado com toque frio, para quem esquenta durante a noite, e um lado com toque quente e aconchegante, para quem sente frio — bastando virar o cobertor para trocar de sensação.",
-          "A proposta é resolver um problema clássico de casal ou de mudança de estação: em vez de precisar de dois edredons diferentes, o Igloo tenta cobrir as duas necessidades em uma peça só. Como acabamos de receber o produto, este artigo traz a ficha técnica com base nos dados oficiais da marca — assim que tivermos mais noites de uso, atualizamos com impressões pessoais."
+          "A proposta é resolver um problema clássico de casal ou de mudança de estação: em vez de precisar de dois edredons diferentes, o Igloo tenta cobrir as duas necessidades em uma peça só. A ficha técnica abaixo vem dos dados oficiais da marca; as impressões da primeira noite estão na seção seguinte."
         ],
         "bullets": [],
         "image": "/images/reviews/iwannasleep/cobertor-igloo-galeria-1.webp",
@@ -33791,7 +33787,8 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Como funciona a dupla face do Cobertor IWS Igloo? Um lado usa fibras de poliamida com toque frio (ICE-FEEL FIBER SYSTEM) e o outro usa fibras de poliéster com toque quente (WARM-FEEL FIBER SYSTEM) — basta virar o cobertor para trocar de sensação.",
-          "Quais tamanhos existem? Casal/Queen (220×240cm, ~2,06kg) e King/Super King (240×260cm, ~2,4kg).",
+          "O lado gelado do cobertor Igloo funciona? Na nossa primeira noite, sim: o toque frio é imediato e, quando esquentou de madrugada, bastou virar o cobertor. Não medimos com termômetro e ainda é cedo para falar de durabilidade.",
+          "O cobertor Igloo tem tamanho casal ou queen? Sim: Casal/Queen (220×240cm, ~2,06kg); também há King/Super King (240×260cm, ~2,4kg).",
           "Como lavar o Cobertor IWS Igloo? A no máximo 30°C, à mão ou à máquina, sem alvejante, sem ferro e sem lavagem a seco — a secagem deve ser natural, à sombra.",
           "O cupom CECIEMCASA vale para o Igloo? Sim, garante 10% de desconto adicional nos produtos elegíveis no checkout do site oficial.",
           "O Cobertor IWS Igloo é bom para usar no inverno ou só no verão? O Igloo é projetado para ser usado o ano todo graças à tecnologia Dual-Face. No verão ou para quem esquenta, o lado frio (ICE-FEEL FIBER SYSTEM) dissipa o calor corporal. No inverno ou para quem sente frio, o lado quente (WARM-FEEL FIBER SYSTEM) retém o calor de forma controlada. Isso elimina a necessidade de trocar de cobertor entre as estações, sendo uma solução prática para casais com temperaturas corporais diferentes.",
@@ -34004,6 +34001,7 @@ export const reviewsData: unknown[] = [
     "id": 228,
     "slug": "nestle-nutre-e-confiavel",
     "title": "Nestlé Nutre é confiável? O que observar antes de comprar",
+    "seoTitle": "Nestlé Nutre é confiável? É a loja oficial da Nestlé",
     "type": "Editorial",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -34015,7 +34013,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Análise completa da Nestlé Nutre: CNPJ oficial da Nestlé Brasil, SAC, política de troca/devolução (CDC 7 dias), entregas e o que observar antes de comprar.",
-    "metaDescription": "Nestlé Nutre é confiável? Veja CNPJ oficial, SAC 0800, políticas de troca/devolução, entregas, o Programa Nestlé Nutre e dicas de compra no site oficial.",
+    "metaDescription": "Sim: a Nestlé Nutre (nestlenutre.com.br) é a loja oficial da Nestlé Health Science, com o CNPJ da Nestlé Brasil. Veja SAC, troca em 7 dias e entregas.",
     "publishedAt": "5 de agosto de 2026",
     "draft": false,
     "image": "/images/reviews/nutren/nestle-nutre-hero.webp",
@@ -34091,6 +34089,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Nestlé Nutre é a mesma empresa da Nestlé? Sim. É o e-commerce oficial da Nestlé Health Science no Brasil, operado sob o CNPJ da Nestlé Brasil Ltda (60.409.075/0001-52).",
+          "O site da Nestlé Nutre é confiável para comprar Nutren? Sim: o nestlenutre.com.br é o e-commerce oficial da Nestlé Health Science no Brasil, com o CNPJ da Nestlé Brasil Ltda (60.409.075/0001-52) e conexão segura.",
           "Qual o telefone de atendimento da Nestlé Nutre? 0800 770 2461, além de WhatsApp (11 97893 1273) e assistente virtual no próprio site.",
           "A Nestlé Nutre entrega para todo o Brasil? Sim, as entregas cobrem todo o território nacional, com prazo calculado no checkout conforme o CEP.",
           "Como funciona a devolução na Nestlé Nutre? Segue o CDC: até 7 dias corridos após o recebimento, com o produto na embalagem original e nota fiscal, e frete de retorno custeado pela empresa.",
@@ -34634,6 +34633,7 @@ export const reviewsData: unknown[] = [
     "id": 230,
     "slug": "cupom-magalu-em-casa-com-cecilia",
     "title": "Como usar o cupom Magalu da Cecília",
+    "seoTitle": "Cupom Magalu da Cecília: como usar no navegador, não no app",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -35315,10 +35315,11 @@ export const reviewsData: unknown[] = [
     "id": 235,
     "slug": "how-to-find-valid-yesstyle-coupon-codes",
     "title": "How to Find Valid YesStyle Coupon Codes and Combine with CECILIA010",
+    "seoTitle": "YesStyle Coupon Codes That Work and How to Stack Them",
     "type": "Guide & Coupons",
     "reviewKind": "guia",
     "description": "Practical guide to finding valid YesStyle promo codes, understanding the difference between Coupon Code and Reward Code, and stacking them for up to 5% extra savings with CECILIA010.",
-    "metaDescription": "Learn how to find valid YesStyle coupon codes, avoid expired codes, and combine them with the reward code CECILIA010 for up to 5% extra discount.",
+    "metaDescription": "Most YesStyle coupon codes online are expired. Where to find valid ones, Coupon Code vs Reward Code, and how CECILIA010 adds up to 5% extra.",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
     "hideFromPortugueseListings": true,
@@ -35397,10 +35398,10 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "Selection of K-beauty and Korean skincare products on sale at YesStyle.",
-        "imageCaption": "Example of an official promotional coupon registered on July 24, 2026 (coupon BTSVIP15). Promotional coupons change frequently; check our dedicated page before shopping.",
+        "imageCaption": "Example of an official promotional coupon recorded on July 24, 2026; that campaign has ended. Promotional coupons change often: check our dedicated page before shopping.",
         "imageFit": "wide",
         "bullets": [
-          "Monthly promo coupons: have expiration dates and usually offer 10% to 15% OFF (e.g. coupon BTSVIP15 displayed by YesStyle at the time of capture).",
+          "Monthly promo coupons: have expiration dates and usually offer 10% to 15% OFF.",
           "Reward Code: influencer code such as CECILIA010, which adds up to 5% extra OFF.",
           "Official sources: check the site banner, store newsletters, or our dedicated coupon page."
         ]
@@ -35504,6 +35505,7 @@ export const reviewsData: unknown[] = [
         "heading": "FAQ — Frequently asked questions about YesStyle coupons",
         "bullets": [
           "What is the difference between Coupon Code and Influencer/Rewards Code on YesStyle? Coupon Code is a temporary promotional coupon from YesStyle applied in the \"Coupon Code\" field and may have expiration dates, minimum spends, or product exclusions. CECILIA010 is an Influencer/Rewards Code applied in the separate \"Reward Code\" field offering up to 5% extra OFF (5% for new customers / 2% for returning customers). When campaign rules allow, both discounts appear together in the order summary.",
+          "What is the YesStyle influencer code? It's a Reward Code, entered in its own checkout field, separate from the Coupon Code field. Ours is CECILIA010: 5% off a first order and 2% on later orders.",
           "Do YesStyle coupons have expiration dates? Yes. Promotional coupons have expiration dates and may expire without notice. Some campaigns last a few days (such as 72h or 96h flash sales). Check minimum spend, region, and eligible products before checking out.",
           "Where can I find official YesStyle coupon rules? General rules are under \"General Terms and Conditions for Coupons\" in the YesStyle Help Center. For specific campaign terms, visit Customer Service and open \"Promotions\".",
           "Can I use more than one promo coupon on the same order? No. According to general YesStyle rules, only one Coupon Code can be used per order. CECILIA010 is a Reward Code, so it can be combined with an eligible Coupon Code when checkout accepts both."
@@ -35609,10 +35611,10 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "Selección de productos de K-beauty y cosméticos coreanos en oferta en YesStyle.",
-        "imageCaption": "Ejemplo de cupón promocional registrado el 24 de julio de 2026 (cupón BTSVIP15). Los cupones promocionales cambian con frecuencia; consulta nuestra página dedicada antes de comprar.",
+        "imageCaption": "Ejemplo de cupón promocional oficial registrado el 24 de julio de 2026; esa campaña ya terminó. Los cupones promocionales cambian con frecuencia: consulta nuestra página dedicada antes de comprar.",
         "imageFit": "wide",
         "bullets": [
-          "Cupones promocionales mensuales: tienen fecha de caducidad y suelen ofrecer del 10% al 15% OFF (ej.: cupón BTSVIP15 mostrado por YesStyle en la fecha de captura).",
+          "Cupones promocionales mensuales: tienen fecha de caducidad y suelen ofrecer del 10% al 15% OFF.",
           "Código de Recompensa (Reward Code): código de influencer como CECILIA010, que suma hasta un 5% OFF extra.",
           "Fuentes oficiales: comprobar el banner del sitio, boletines de la tienda o nuestra página dedicada."
         ]
@@ -35635,7 +35637,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cómo funciona el código CECILIA010: hasta un 5% OFF extra",
         "paragraphs": [
-          "El código CECILIA010 es el código de recompensa oficial de Cecília registrado en el programa de influencers de YesStyle. A diferencia de los cupons promocionales temporales que cambian periódicamente, CECILIA010 es un código fijo de colaboración.",
+          "El código CECILIA010 es el código de recompensa oficial de Cecília registrado en el programa de influencers de YesStyle. A diferencia de los cupones promocionales temporales que cambian periódicamente, CECILIA010 es un código fijo de colaboración.",
           "La aplicación del descuento de CECILIA010 en la cesta sigue las reglas oficiales:",
           "• Para Nuevos Clientes (1ª compra en la cuenta): concede un 5% OFF extra.",
           "• Para Clientes Recurrentes (compras posteriores): concede un 2% OFF extra.",
@@ -35716,6 +35718,7 @@ export const reviewsData: unknown[] = [
         "heading": "FAQ — Preguntas frecuentes sobre cupones de YesStyle",
         "bullets": [
           "¿Cuál es la diferencia entre Coupon Code y Reward Code en YesStyle? Coupon Code es un cupón promocional temporal que se aplica en el campo \"Coupon Code\". CECILIA010 es un Reward Code de influencer que se introduce en el campo \"Reward Code\" y ofrece hasta un 5% OFF extra (5% en 1ª compra / 2% en recurrentes). Cuando las reglas lo permiten, ambos se suman en el resumen.",
+          "¿Qué es el código de influencer de YesStyle? Es el Código de Recompensa (Reward Code), que se introduce en un campo propio del checkout, separado del campo de cupón. El nuestro es CECILIA010: 5% en la primera compra y 2% en las siguientes.",
           "¿Los cupones de YesStyle tienen caducidad? Sí. Los cupones promocionales tienen fecha de caducidad y pueden expirar sin previo aviso. Comprueba el gasto mínimo y productos elegibles antes de pagar.",
           "¿Dónde encuentro las reglas oficiales de los cupones de YesStyle? Las reglas generales están en \"General Terms and Conditions for Coupons\" en el Centro de Ayuda de YesStyle. Para promociones específicas, entra en Customer Service y abre \"Promotions\".",
           "¿Puedo usar más de un cupón promocional en el mismo pedido? No. Solo se permite un Coupon Code por pedido. Sin embargo, CECILIA010 es un Reward Code y puede combinarse con un Coupon Code elegible."
@@ -35821,10 +35824,10 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "Sélection de produits cosmétiques et skincare K-beauty en promotion sur YesStyle.",
-        "imageCaption": "Exemple de coupon promo enregistré le 24 juillet 2026 (coupon BTSVIP15). Les coupons promo changent fréquemment ; consultez notre page dédiée avant d'acheter.",
+        "imageCaption": "Exemple de coupon promo officiel enregistré le 24 juillet 2026 ; cette campagne est terminée. Les coupons promo changent souvent : consultez notre page dédiée avant d'acheter.",
         "imageFit": "wide",
         "bullets": [
-          "Coupons promo mensuels : ont une date d'expiration et offrent 10% à 15% de réduction (ex. coupon BTSVIP15 affiché sur YesStyle lors de la capture).",
+          "Coupons promo mensuels : ont une date d'expiration et offrent 10% à 15% de réduction.",
           "Code de Récompense (Reward Code) : code d'influenceur comme CECILIA010, qui ajoute jusqu'à 5% de réduction supplémentaire.",
           "Sources officielles : vérifiez la bannière du site, la newsletter ou notre page de coupons dédiée."
         ]
@@ -35928,6 +35931,7 @@ export const reviewsData: unknown[] = [
         "heading": "FAQ — Foire aux questions sur les coupons YesStyle",
         "bullets": [
           "Quelle est la différence entre Coupon Code et Reward Code sur YesStyle ? Le Coupon Code est un coupon promo temporaire de YesStyle appliqué dans le champ \"Coupon Code\". CECILIA010 est un Reward Code d'influenceur à saisir dans le champ \"Reward Code\" offrant jusqu'à 5% en plus (5% 1ère commande / 2% suivantes). Lorsque la campagne le permet, les deux s'additionnent au paiement.",
+          "Qu'est-ce que le code influenceur YesStyle ? C'est le code récompense (Reward Code), saisi dans un champ dédié à l'étape de paiement, distinct du champ Coupon Code. Le nôtre est CECILIA010 : 5% sur une première commande et 2% sur les suivantes.",
           "Les coupons YesStyle ont-ils une durée de validité ? Oui. Les coupons promo ont une date d'expiration. Vérifiez le montant minimum d'achat et les produits éligibles avant de valider.",
           "Où trouver les conditions officielles des coupons YesStyle ? Les conditions générales sont sous \"General Terms and Conditions for Coupons\" dans le centre d'aide YesStyle. Pour une campagne spécifique, consultez la section \"Promotions\".",
           "Puis-je utiliser plus d'un coupon promo par commande ? Non. Un seul Coupon Code est autorisé par commande. En revanche, CECILIA010 est un Reward Code et peut s'associer à un Coupon Code éligible."
@@ -36033,10 +36037,10 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "Auswahl an K-Beauty-Kosmetik und koreanischer Hautpflege im Angebot bei YesStyle.",
-        "imageCaption": "Beispiel für einen offiziellen Aktionsgutschein vom 24. Juli 2026 (Gutschein BTSVIP15). Aktionsgutscheine ändern sich häufig; prüfe unsere Sonderseite vor dem Kauf.",
+        "imageCaption": "Beispiel für einen offiziellen Aktionsgutschein vom 24. Juli 2026; diese Aktion ist beendet. Aktionsgutscheine ändern sich häufig: Prüfe unsere Sonderseite vor dem Kauf.",
         "imageFit": "wide",
         "bullets": [
-          "Monatliche Aktionsgutscheine: Haben ein Ablaufdatum und bieten meist 10% bis 15% Rabatt (z. B. Gutschein BTSVIP15 zum Zeitpunkt der Aufnahme).",
+          "Monatliche Aktionsgutscheine: Haben ein Ablaufdatum und bieten meist 10% bis 15% Rabatt.",
           "Belohnungscode (Reward Code): Influencer-Code wie CECILIA010 für bis zu 5% Extra-Rabatt.",
           "Offizielle Quellen: Shop-Banner, Newsletter oder unsere eigene Gutscheinseite."
         ]
@@ -36140,6 +36144,7 @@ export const reviewsData: unknown[] = [
         "heading": "FAQ — Häufige Fragen zu YesStyle Gutscheinen",
         "bullets": [
           "Was ist der Unterschied zwischen Coupon Code und Reward Code bei YesStyle? Coupon Code ist ein zeitlich begrenzter Aktionsgutschein im Feld \"Coupon Code\". CECILIA010 ist ein Influencer-Reward-Code im Feld \"Reward Code\" für bis zu 5% Extra-Rabatt (5% Erstbestellung / 2% Folgebestellung). Beide lassen sich kombinieren, wenn die Aktion es erlaubt.",
+          "Was ist der YesStyle Influencer-Code? Es ist ein Reward Code (Belohnungscode), der in einem eigenen Feld an der Kasse eingegeben wird, getrennt vom Feld für den Coupon Code. Unserer ist CECILIA010: 5% auf die erste Bestellung und 2% auf Folgebestellungen.",
           "Haben YesStyle-Gutscheine ein Ablaufdatum? Ja. Aktionsgutscheine laufen ab. Prüfe Mindestbestellwert und berechtigte Artikel vor dem Kauf.",
           "Wo finde ich die offiziellen Bedingungen für YesStyle-Gutscheine? Die allgemeinen Bedingungen stehen unter \"General Terms and Conditions for Coupons\" im Help Center von YesStyle. Spezifische Aktionen findest du unter \"Promotions\".",
           "Kann ich mehrere Aktionsgutscheine gleichzeitig nutzen? Nein. Es ist nur ein Coupon Code pro Bestellung erlaubt. CECILIA010 ist jedoch ein Reward Code und kann zusätzlich genutzt werden."
@@ -36245,10 +36250,10 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "YesStyle의 K-뷰티 및 한국 스킨케어 할인 상품 목록.",
-        "imageCaption": "2026년 7월 24일 기준 등록된 공식 프로모션 쿠폰 예시 (BTSVIP15 쿠폰). 프로모션 쿠폰은 자주 변경되므로 구매 전 전용 페이지를 확인하세요.",
+        "imageCaption": "2026년 7월 24일 기준 등록된 공식 프로모션 쿠폰 예시이며, 해당 프로모션은 종료되었습니다. 프로모션 쿠폰은 자주 변경되므로 구매 전 전용 페이지를 확인하세요.",
         "imageFit": "wide",
         "bullets": [
-          "월간 프로모션 쿠폰: 유효기간이 있으며 보통 10%~15% 할인을 제공합니다 (예: 캡처 시점의 BTSVIP15 쿠폰).",
+          "월간 프로모션 쿠폰: 유효기간이 있으며 보통 10%~15% 할인을 제공합니다.",
           "리워드 코드 (Reward Code): CECILIA010과 같은 인플루언서 코드로 최대 5% 추가 할인을 더해줍니다.",
           "공식 출처: 메인 배너, 뉴스레터, 전용 쿠폰 페이지를 확인하세요."
         ]
@@ -36352,6 +36357,7 @@ export const reviewsData: unknown[] = [
         "heading": "FAQ — YesStyle 쿠폰 자주 묻는 질문",
         "bullets": [
           "Coupon Code와 Reward Code의 차이는 무엇인가요? Coupon Code는 YesStyle이 제공하는 임시 프로모션 쿠폰입니다. CECILIA010은 Reward Code 입력란에 넣는 인플루언서 코드로 최대 5% 추가 할인을 제공합니다. 두 코드는 함께 중복 적용될 수 있습니다.",
+          "YesStyle 인플루언서 코드란 무엇인가요? 리워드 코드(Reward Code)를 말하며, Coupon Code 입력란과는 별도로 마련된 전용 입력란에 입력합니다. 저희 코드는 CECILIA010으로, 첫 주문 5%, 이후 주문 2% 할인을 받을 수 있습니다.",
           "YesStyle 쿠폰에 유효기간이 있나요? 네, 프로모션 쿠폰은 유효기간이 존재합니다. 결제 전 최소 구매 금액과 대상 상품을 확인하세요.",
           "YesStyle 공식 쿠폰 약관은 어디서 확인하나요? YesStyle 고객센터의 \"General Terms and Conditions for Coupons\" 및 \"Promotions\" 섹션에서 확인할 수 있습니다.",
           "한 주문에 프로모션 쿠폰을 여러 개 사용할 수 있나요? 아니요, 주문당 1개의 Coupon Code만 사용 가능합니다. 단, CECILIA010은 Reward Code이므로 적격 Coupon Code와 함께 조합할 수 있습니다."
@@ -36457,10 +36463,10 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "YesStyleでセール中のK-Beautyコスメと韓国スキンケア商品一覧。",
-        "imageCaption": "2026年7月24日時点の公式プロモーションクーポン適用例（BTSVIP15クーポン）。プロモクーポンは変更されるため、購入前に専用ページをご確認ください。",
+        "imageCaption": "2026年7月24日に記録した公式プロモーションクーポンの例です。このキャンペーンは終了しています。プロモクーポンは変更されるため、購入前に専用ページをご確認ください。",
         "imageFit": "wide",
         "bullets": [
-          "月間プロモクーポン：有効期限があり、通常10%〜15%オフとなります（例：撮影時点のBTSVIP15クーポン）。",
+          "月間プロモクーポン：有効期限があり、通常10%〜15%オフとなります。",
           "リワードコード（Reward Code）：CECILIA010のようなインフルエンサーコードで、最大5%追加オフを合算できます。",
           "公式情報源：公式サイトのトップバナー、メルマガ、または当サイトの専用ページをご確認ください。"
         ]
@@ -36564,6 +36570,7 @@ export const reviewsData: unknown[] = [
         "heading": "FAQ — YesStyleクーポンに関するよくある質問",
         "bullets": [
           "Coupon CodeとReward Codeの違いは何ですか？ Coupon CodeはYesStyleが発行する期間限定プロモクーポンです。CECILIA010はReward Code欄に入力するインフルエンサーコードで最大5%追加オフ（初回5% / リピート2%）になります。条件が合えば併用可能です。",
+          "YesStyleのインフルエンサーコードとは何ですか？ リワードコード（Reward Code）のことで、Coupon Code欄とは別に用意されたチェックアウトの専用欄に入力します。当サイトのコードはCECILIA010で、初回注文は5%オフ、2回目以降は2%オフになります。",
           "YesStyleクーポンに有効期限はありますか？ はい、プロモクーポンには期限があります。購入前に最低利用金額や対象商品をご確認ください。",
           "YesStyle公式のクーポン利用規約はどこで見られますか？ YesStyleヘルプセンターの「General Terms and Conditions for Coupons」および「Promotions」セクションで確認できます。",
           "1回の注文で複数のプロモクーポンを使えますか？ いいえ、1回の注文につき使えるCoupon Codeは1つだけです。ただしCECILIA010はReward Codeのため、対象のCoupon Codeと併用可能です。"
@@ -36590,7 +36597,7 @@ export const reviewsData: unknown[] = [
     "type": "指南與優惠碼",
     "reviewKind": "guia",
     "description": "搜尋 YesStyle 有效促銷代碼的實用指南，了解 Coupon Code 與 Reward Code 的差別，並使用 CECILIA010 疊加享高達 5% 額外折扣。",
-    "metaDescription": "學習如何找到有效的 YesStyle 促銷優惠碼，避免過期代碼，並配合獎勵代碼 CECILIA010 疊加享高達 5% 額外折扣。",
+    "metaDescription": "學習如何找到有效的 YesStyle 促銷優惠碼，避免過期代碼，並配合獎勵碼 CECILIA010 疊加享高達 5% 額外折扣。",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
     "hideFromPortugueseListings": true,
@@ -36631,7 +36638,7 @@ export const reviewsData: unknown[] = [
         "value": "YesStyle（官方）"
       },
       {
-        "key": "獎勵代碼",
+        "key": "獎勵碼",
         "value": "CECILIA010（高達 5% 額外折扣）",
         "highlight": true
       },
@@ -36656,7 +36663,7 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hant",
-        "title": "YesStyle 獎勵代碼 CECILIA010（指南）"
+        "title": "YesStyle 獎勵碼 CECILIA010（指南）"
       }
     ],
     "contentSections": [
@@ -36669,11 +36676,11 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "YesStyle 上熱銷的韓國美妝與護膚折扣商品列表。",
-        "imageCaption": "2026年7月24日記錄的官方促銷優惠碼範例（BTSVIP15 代碼）。促銷代碼會定期變更，請在購物前查看我們的專屬頁面。",
+        "imageCaption": "2026年7月24日記錄的官方促銷優惠碼範例，該活動已結束。促銷代碼會定期變更，請在購物前查看我們的專屬頁面。",
         "imageFit": "wide",
         "bullets": [
-          "每月促銷優惠碼：設有到期日，通常提供 10% 至 15% 折扣（例如截圖時展示的 BTSVIP15 代碼）。",
-          "獎勵代碼（Reward Code）：如 CECILIA010 等專屬網紅代碼，可額外疊加高達 5% 折扣。",
+          "每月促銷優惠碼：設有到期日，通常提供 10% 至 15% 折扣。",
+          "獎勵碼（Reward Code）：如 CECILIA010 等專屬網紅代碼，可額外疊加高達 5% 折扣。",
           "官方來源：關注官網頂部橫幅、電子報或我們的專屬優惠碼頁面。"
         ]
       },
@@ -36695,7 +36702,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "CECILIA010 代碼運作方式：高達 5% 額外折扣",
         "paragraphs": [
-          "CECILIA010 是 Cecília 在 YesStyle 網紅計畫中的官方獎勵代碼，是一個可長期使用的合作代碼。",
+          "CECILIA010 是 Cecília 在 YesStyle 網紅計畫中的官方獎勵碼，是一個可長期使用的合作代碼。",
           "購物車折扣套用規則：",
           "・新客戶（首次購買）：購物車額外享 5% 折扣。",
           "・老客戶（再次購買）：購物車額外享 2% 折扣。",
@@ -36749,7 +36756,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "YesStyle 上熱銷的韓國美妝與護膚折扣商品列表。",
-        "imageCaption": "促銷代碼與 CECILIA010 獎勵代碼成功疊加顯示的最終結帳畫面。",
+        "imageCaption": "促銷代碼與 CECILIA010 獎勵碼成功疊加顯示的最終結帳畫面。",
         "imageFit": "cover"
       },
       {
@@ -36776,6 +36783,7 @@ export const reviewsData: unknown[] = [
         "heading": "FAQ — YesStyle 優惠碼常見問題",
         "bullets": [
           "Coupon Code 與 Reward Code 有何不同？ Coupon Code 是 YesStyle 發行的臨時促銷代碼。CECILIA010 是填入 Reward Code 欄位的網紅代碼，可額外享高達 5% 折扣（首購5%/複購2%）。活動允許時兩者可疊加。",
+          "什麼是 YesStyle 網紅代碼？ 它是獎勵碼（Reward Code），須填入結帳頁面專屬的獨立欄位，與 Coupon Code 欄位分開。我們的代碼是 CECILIA010：首次訂單享 5% 折扣，之後的訂單享 2% 折扣。",
           "YesStyle 優惠碼有使用期限嗎？ 有的，促銷代碼均有到期日。結帳前請確認最低消費金額及適用商品。",
           "在哪裡可以查看 YesStyle 官方優惠碼條款？ 可在 YesStyle 客服中心的 \"General Terms and Conditions for Coupons\" 以及 \"Promotions\" 頁面查看。",
           "一筆訂單可以使用多個促銷優惠碼嗎？ 不行，每筆訂單僅限使用一個 Coupon Code。但 CECILIA010 屬於 Reward Code，可與符合條件的 Coupon Code 疊加使用。"
@@ -36802,7 +36810,7 @@ export const reviewsData: unknown[] = [
     "type": "指南与优惠码",
     "reviewKind": "guia",
     "description": "查找 YesStyle 有效促销代码的实用指南，了解 Coupon Code 与 Reward Code 的区别，并使用 CECILIA010 叠加享高达 5% 额外折扣。",
-    "metaDescription": "学习如何找到有效的 YesStyle 促销优惠码，避免过期代码，并配合奖励代码 CECILIA010 叠加享高达 5% 额外折扣。",
+    "metaDescription": "学习如何找到有效的 YesStyle 促销优惠码，避免过期代码，并配合奖励码 CECILIA010 叠加享高达 5% 额外折扣。",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
     "hideFromPortugueseListings": true,
@@ -36843,7 +36851,7 @@ export const reviewsData: unknown[] = [
         "value": "YesStyle（官方）"
       },
       {
-        "key": "奖励代码",
+        "key": "奖励码",
         "value": "CECILIA010（高达 5% 额外折扣）",
         "highlight": true
       },
@@ -36868,7 +36876,7 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hans",
-        "title": "YesStyle 奖励代码 CECILIA010（指南）"
+        "title": "YesStyle 奖励码 CECILIA010（指南）"
       }
     ],
     "contentSections": [
@@ -36881,11 +36889,11 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "YesStyle 上热销的韩国美妆与护肤折扣商品列表。",
-        "imageCaption": "2026年7月24日记录的官方促销优惠码范例（BTSVIP15 代码）。促销代码会定期变更，请在购物前查看我们的专属页面。",
+        "imageCaption": "2026年7月24日记录的官方促销优惠码范例，该活动已结束。促销代码会定期变更，请在购物前查看我们的专属页面。",
         "imageFit": "wide",
         "bullets": [
-          "每月促销优惠码：设有到期日，通常提供 10% 至 15% 折扣（例如截图时展示的 BTSVIP15 代码）。",
-          "奖励代码（Reward Code）：如 CECILIA010 等专属网红代码，可额外叠加高达 5% 折扣。",
+          "每月促销优惠码：设有到期日，通常提供 10% 至 15% 折扣。",
+          "奖励码（Reward Code）：如 CECILIA010 等专属网红代码，可额外叠加高达 5% 折扣。",
           "官方来源：关注官网顶部横幅、电子报或我们的专属优惠码页面。"
         ]
       },
@@ -36907,7 +36915,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "CECILIA010 代码运作方式：高达 5% 额外折扣",
         "paragraphs": [
-          "CECILIA010 是 Cecília 在 YesStyle 网红计划中的官方奖励代码，是一个可长期使用的合作代码。",
+          "CECILIA010 是 Cecília 在 YesStyle 网红计划中的官方奖励码，是一个可长期使用的合作代码。",
           "购物车折扣套用规则：",
           "・新客户（首次购买）：购物车额外享 5% 折扣。",
           "・老客户（再次购买）：购物车额外享 2% 折扣。",
@@ -36961,7 +36969,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "YesStyle 上热销的韩国美妆与护肤折扣商品列表。",
-        "imageCaption": "促销代码与 CECILIA010 奖励代码成功叠加显示的最终结账画面。",
+        "imageCaption": "促销代码与 CECILIA010 奖励码成功叠加显示的最终结账画面。",
         "imageFit": "cover"
       },
       {
@@ -36988,6 +36996,7 @@ export const reviewsData: unknown[] = [
         "heading": "FAQ — YesStyle 优惠码常见问题",
         "bullets": [
           "Coupon Code 与 Reward Code 有何不同？ Coupon Code 是 YesStyle 发行的临时促销代码。CECILIA010 是填入 Reward Code 栏位的网红代码，可额外享高达 5% 折扣（首购5%/复购2%）。活动允许时两者可叠加。",
+          "什么是 YesStyle 网红代码？ 它是奖励码（Reward Code），须填入结账页面专属的独立栏位，与 Coupon Code 栏位分开。我们的代码是 CECILIA010：首次订单享 5% 折扣，之后的订单享 2% 折扣。",
           "YesStyle 优惠码有使用期限吗？ 有的，促销代码均有到期日。结账前请确认最低消费金额及适用商品。",
           "在哪里可以查看 YesStyle 官方优惠码条款？ 可在 YesStyle 客服中心的 \"General Terms and Conditions for Coupons\" 以及 \"Promotions\" 页面查看。",
           "一笔订单可以使用多个促销优惠码吗？ 不行，每笔订单仅限使用一个 Coupon Code。但 CECILIA010 属于 Reward Code，可与符合条件的 Coupon Code 叠加使用。"
@@ -37011,6 +37020,7 @@ export const reviewsData: unknown[] = [
     "id": 243,
     "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
     "title": "Tabela de medidas Dolce Gusto: quantos ml saem em cada nível?",
+    "seoTitle": "Tabela de medidas Dolce Gusto: ml por risco, do 1 ao 7 e XL",
     "type": "Guia",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -37022,7 +37032,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Tabela de referência construída a partir dos manuais da Genio S Touch e da Mini Me 2.0, agora com fotos da tabela impressa na embalagem — inclui cafés, lattes, bebidas em duas etapas e XL.",
-    "metaDescription": "Quantos ml saem em cada nível da Dolce Gusto? Veja a referência confirmada nos manuais da Genio S Touch e da Mini Me 2.0, do nível 1 à função XL.",
+    "metaDescription": "Quantos ml tem cada risco (traço ou barra) da Dolce Gusto, do 1 ao 7 e no XL, segundo os manuais da Genio S Touch e da Mini Me, com a tabela da caixa.",
     "publishedAt": "2 de agosto de 2026",
     "publishedAtISO": "2026-08-02",
     "draft": false,
@@ -37074,8 +37084,9 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain"
       },
       {
-        "heading": "Terminologia: tracinho, barra, nível e lungo",
+        "heading": "Risco, traço, tracinho ou barra: é tudo o mesmo nível",
         "paragraphs": [
+          "Risco, risquinho, traço, tracinho ou barra: são nomes diferentes para a mesma marcação da escala de água. O manual da Genio S Touch fala em barras, e a Nestlé, em tracinhos.",
           "Uma curiosidade: a própria Nestlé usa a palavra 'tracinho' na documentação oficial. Você pode ver isso até na página do Adaptador NEO Start no site da marca, que menciona 'Para cafés espressos, faça com 1 tracinho de água, para Lungos, com 4 tracinhos'.",
           "Isso confirma que a própria marca usa os tracinhos como orientação de preparo e recomenda **4 tracinhos para lungo**. Nos exemplos reunidos no manual, esse nível aparece associado a aproximadamente 110-120 ml, mas não existe uma tabela oficial única que estabeleça essa equivalência para todas as cápsulas e máquinas."
         ],
@@ -37125,7 +37136,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quantos ml cada botão ou tracinho da Dolce Gusto? A Nestlé não publica uma equivalência única para toda a linha. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, reunimos estas referências aproximadas: 1 barra = 35-40 ml, 2 = 50-60 ml, 3 = 80-90 ml, 4 = 110-120 ml, 5 = 140-150 ml, 6 = 170-180 ml, 7 = 200-220 ml e XL = 300 ml.",
+          "Quantos ml tem cada risco (tracinho) da Dolce Gusto? A Nestlé não publica uma equivalência única para toda a linha. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, reunimos estas referências aproximadas: 1 barra = 35-40 ml, 2 = 50-60 ml, 3 = 80-90 ml, 4 = 110-120 ml, 5 = 140-150 ml, 6 = 170-180 ml, 7 = 200-220 ml e XL = 300 ml.",
+          "Quantos ml faz uma cápsula Dolce Gusto? Depende da bebida: na tabela da caixa, os cafés pretos vão de 35 ml (Ristretto Ardenza) a 145 ml (Café Caseiro), e o número de riscos certo vem impresso em cada cápsula.",
           "E os níveis intermediários? Nos exemplos do manual, os volumes aumentam progressivamente entre as barras. As faixas deste artigo são uma compilação de diferentes cartões de receita, não uma calibração oficial universal.",
           "O que significam os tracinhos ou barras da Dolce Gusto? Eles indicam o nível de água recomendado para o preparo da cápsula. Mais tracinhos normalmente significam uma bebida de maior volume, mas o resultado deve ser tratado como aproximado.",
           "Quantos tracinhos para lungo? A Nestlé menciona 4 tracinhos de água para Lungos — esse dado vem da documentação oficial do Adaptador NEO Start.",
@@ -37270,6 +37282,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
+        "heading": "Os produtos da YesStyle são originais? De onde é a YesStyle?",
+        "paragraphs": [
+          "A YesStyle é de Hong Kong. Foi fundada lá em 2006 e pertence à YesAsia Holdings Limited, listada na Bolsa de Hong Kong (código 2209.HK), que também opera a loja YesAsia e a AsianBeautyWholesale, plataforma de atacado de beleza asiática.",
+          "Sobre a originalidade, a YesStyle afirma ser revendedora autorizada de mais de 400 marcas de beleza coreana e comprar das fabricantes ou de distribuidores autorizados por elas. Não encontramos auditoria independente que confirme essa afirmação; por isso, seguem conferências que o próprio comprador consegue fazer (sugestão nossa, não da loja):"
+        ],
+        "bullets": [
+          "Na página do produto, confira se a marca e o nome do item batem com o site oficial da marca;",
+          "Na caixa, procure o lote e a validade impressos e confira a validade antes de abrir;",
+          "Na entrega, confira o lacre do produto e da embalagem;",
+          "Se algo parecer diferente do anunciado, não use o produto e fale antes com o atendimento da YesStyle."
+        ]
+      },
+      {
         "heading": "O que observar antes de comprar",
         "paragraphs": [
           "Como em qualquer compra internacional, recomenda-se verificar os seguintes pontos antes de finalizar o pedido na YesStyle:"
@@ -37287,7 +37312,7 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e código de recompensa",
         "paragraphs": [
           "O Em Casa com Cecília mantém uma parceria comercial com a YesStyle. Por meio dessa parceria, leitores podem utilizar o código de recompensa (Reward Code) CECILIA010 no campo específico do checkout para obter até 5% de desconto extra na primeira compra e 2% nas compras recorrentes. Este código é compatível com cupons promocionais elegíveis ativos no site, permitindo acumular descontos.",
-          "O código CECILIA010 é permanente enquanto a parceria durar, diferente de cupons sazonais que mudam mês a mês. A utilização do código não gera custo adicional para o leitor — o benefício é concedido pela marca como apoio ao projeto editorial Em Casa com Cecília."
+          "O código CECILIA010 não tem data de validade e segue ativo enquanto a parceria com a YesStyle continuar. A utilização do código não gera custo adicional para o leitor — o benefício é concedido pela marca como apoio ao projeto editorial Em Casa com Cecília."
         ],
         "bullets": []
       },
@@ -37295,7 +37320,8 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A YesStyle é confiável ou é um site falso? A YesStyle é legítima. É uma empresa fundada em 2006 com sede em Hong Kong, subsidiária da YesAsia Holdings Limited, listada na bolsa de Hong Kong (2209.HK), e se apresenta como distribuidora autorizada das marcas que vende.",
-          "YesStyle vende produtos autênticos? A YesStyle declara ser distribuidora autorizada de mais de 400 marcas de beleza coreana, comprando diretamente das fabricantes ou de distribuidores parceiros oficiais.",
+          "De onde é a YesStyle? De Hong Kong: a loja foi fundada lá em 2006 e pertence à YesAsia Holdings, listada na Bolsa de Hong Kong (2209.HK).",
+          "Os produtos da YesStyle são originais ou falsificados? A YesStyle afirma ser revendedora autorizada de mais de 400 marcas de beleza coreana, comprando das fabricantes ou de distribuidores autorizados. Não há auditoria independente dessa afirmação; na entrega, confira lote, validade e lacre.",
           "Qual o prazo de entrega da YesStyle para o Brasil? O prazo padrão é de 10 a 25 dias úteis, dependendo do método e da localização. Os envios ao Brasil voltaram (situação confirmada em setembro de 2026); confira no carrinho a estimativa para o seu CEP.",
           "YesStyle cobra impostos de importação para o Brasil? Pode haver cobrança de impostos na chegada do pacote, via Correios ou transportadora; as alíquotas dependem do valor do pedido e do estado e mudam com o tempo. A YesStyle reembolsa essas taxas alfandegárias em pedidos abaixo de US$ 1.000 (valor antes dos cupons, sem o frete): pague a cobrança, guarde o comprovante e envie ao atendimento da loja em até 30 dias. O reembolso vem em crédito na YesStyle.",
           "O código CECILIA010 muda o preço final do produto? Não. O código CECILIA010 oferece até 5% extra (5% 1ª compra, 2% recorrente) como benefício da parceria, sem custo adicional para o leitor.",
@@ -38287,6 +38313,7 @@ export const reviewsData: unknown[] = [
     "id": 250,
     "slug": "is-yesstyle-legit-and-safe-review",
     "title": "Is YesStyle Legit and Safe? What to Know Before Shopping",
+    "seoTitle": "Is YesStyle Legit? Yes: Hong Kong Retailer Since 2006",
     "type": "Editorial",
     "reviewKind": "editorial",
     "author": {
@@ -38297,7 +38324,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "An analysis of YesStyle public company data: Hong Kong headquarters, 400+ authorized Korean beauty brands, global shipping policies, customs, and buyer protection.",
-    "metaDescription": "Is YesStyle legit and safe? Public company data, 400+ authorized K-beauty brand partnerships, shipping policies, customs, and shopping tips.",
+    "metaDescription": "Yes. YesStyle is a Hong Kong retailer founded in 2006 and owned by YesAsia Holdings, listed in Hong Kong. Product authenticity, shipping and what to check.",
     "publishedAt": "August 2, 2026",
     "publishedAtISO": "2026-08-02",
     "draft": false,
@@ -38344,6 +38371,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
+        "heading": "Are YesStyle Products Authentic? Where Is YesStyle From?",
+        "paragraphs": [
+          "YesStyle is from Hong Kong. It was founded there in 2006 and belongs to YesAsia Holdings Limited, listed on the Hong Kong Stock Exchange (stock code 2209.HK), which also runs the YesAsia store and AsianBeautyWholesale, a wholesale platform for Asian beauty products.",
+          "On authenticity, YesStyle says it is an authorized retailer of more than 400 Korean beauty brands and that it sources from brand manufacturers or their authorized partners. We found no independent audit confirming that claim, so here is what you can check yourself (our suggestion, not YesStyle's):"
+        ],
+        "bullets": [
+          "On the product page, check that the brand and product name match the brand's official website;",
+          "On the box, look for the printed batch code and expiry date, and check the expiry date before opening;",
+          "On delivery, check the seal on the product and on the packaging;",
+          "If anything looks different from the listing, don't use the product and contact YesStyle customer service first."
+        ]
+      },
+      {
         "heading": "Tips Before Placing Your Order",
         "paragraphs": [
           "When shopping internationally on YesStyle, keep the following practical guidelines in mind:"
@@ -38369,10 +38409,11 @@ export const reviewsData: unknown[] = [
         "heading": "Frequently Asked Questions",
         "bullets": [
           "Is YesStyle legit and reliable? Yes, YesStyle is a legitimate online retailer founded in 2006. It is a subsidiary of YesAsia Holdings Limited (2209.HK), a publicly listed company on the Hong Kong Stock Exchange.",
-          "Does YesStyle sell authentic products? YesStyle states it is an authorized distributor for over 400 Korean beauty brands, sourcing directly from official manufacturers or authorized brand partners.",
+          "Where is YesStyle from? Hong Kong: it was founded there in 2006 and belongs to YesAsia Holdings, listed on the Hong Kong Stock Exchange (2209.HK).",
+          "Are YesStyle products authentic or fake? YesStyle says it is an authorized retailer of more than 400 Korean beauty brands, sourcing from manufacturers or authorized partners. We found no independent audit of that claim; when your order arrives, check the batch code, expiry date and seal.",
           "How long does YesStyle shipping take internationally? Standard international shipping usually takes 7 to 14 business days depending on the destination country and local customs handling.",
           "Does YesStyle offer free international shipping? Yes, free standard shipping is available on qualifying orders above minimum spend thresholds (such as $59 USD).",
-          "Does the Reward Code CECILIA010 expire? No, CECILIA010 is a permanent Reward Code that gives up to 5% extra discount and stacks with promo coupon codes.",
+          "Does the Reward Code CECILIA010 expire? It has no expiry date and stays active while the partnership with YesStyle continues. It gives up to 5% extra and stacks with an eligible promo coupon code.",
           "How do I use code CECILIA010 on YesStyle? Enter CECILIA010 in the 'Reward Code' field during checkout. It can be combined with a coupon code in the 'Coupon Code' field."
         ]
       }
@@ -38396,7 +38437,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 251,
     "slug": "es-yesstyle-de-fiar-y-seguro",
-    "title": "¿Es YesStyle de Fiar y Seguro? Lo que Debes Saber Antes de Comprar",
+    "title": "¿YesStyle es confiable y seguro? Quién la opera, de dónde es y envíos",
+    "seoTitle": "¿YesStyle es confiable? Sí: tienda de Hong Kong desde 2006",
     "type": "Editorial",
     "reviewKind": "editorial",
     "author": {
@@ -38407,7 +38449,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Análisis de datos públicos de YesStyle: sede en Hong Kong, distribuidor autorizado de más de 400 marcas de belleza coreana, envíos internacionales, aduanas y garantía al comprador.",
-    "metaDescription": "¿Es YesStyle confiable y seguro? Datos de la empresa, autorizaciones de marcas de K-beauty, envíos, impuestos y consejos de compra.",
+    "metaDescription": "Sí. YesStyle es una tienda online de Hong Kong fundada en 2006, filial de YesAsia Holdings, que cotiza en Hong Kong. Originalidad, envíos y qué revisar.",
     "publishedAt": "2 de agosto de 2026",
     "publishedAtISO": "2026-08-02",
     "draft": false,
@@ -38421,7 +38463,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
-        "heading": "Información Pública de la Empresa",
+        "heading": "Información pública de la empresa",
         "paragraphs": [
           "YesStyle Limited es una plataforma de comercio electrónico con sede en Hong Kong fundada en 2006. Opera como subsidiaria de YesAsia Holdings Limited, empresa cotizada en la Bolsa de Valores de Hong Kong (código 2209.HK). Esto significa que YesStyle cuenta con el respaldo de una corporación pública sometida a auditorías financieras regulares.",
           "La tienda presta servicio a compradores de más de 80 países en múltiples divisas e idiomas. Las compras internacionales se realizan de acuerdo con los estándares de comercio electrónico global, ofreciendo soporte al cliente para seguimiento de paquetes y devoluciones."
@@ -38432,7 +38474,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Catálogo y Posicionamiento de Mercado",
+        "heading": "Catálogo y posicionamiento de mercado",
         "paragraphs": [
           "YesStyle declara ser distribuidora autorizada de más de 400 marcas de belleza coreana (K-beauty), ofreciendo también productos de belleza japonesa y moda asiática. El catálogo incluye cuidado de la piel (tónicos, sérums, protectores solares), maquillaje y accesorios.",
           "La empresa declara en su información corporativa ser distribuidora autorizada de más de 400 marcas de belleza coreana, trabajando con firmas consolidadas como COSRX, Etude House, Hada Labo y Rohto, obteniendo productos directamente de fabricantes o socios distribuidores oficiales. Estar respaldada por una cotizada pública (YesAsia Holdings) aporta transparencia corporativa."
@@ -38443,7 +38485,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "wide"
       },
       {
-        "heading": "Envíos Internacionales y Atención al Cliente",
+        "heading": "Envíos internacionales y atención al cliente",
         "paragraphs": [
           "YesStyle realiza envíos internacionales a más de 80 países con envío estándar gratuito en pedidos que alcancen el importe mínimo requerido (como 48 € o 59 USD).",
           "Los plazos de entrega, umbrales de envío gratuito y costes varían según el país de destino, el método de envío elegido y la disponibilidad del producto. Las estimaciones exactas se calculan en la pantalla de pago. Las devoluciones de productos elegibles en embalaje original se gestionan mediante Autorización de Devolución (RMA) a través del soporte oficial."
@@ -38454,7 +38496,20 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Consejos Prácticos Antes de Pedir",
+        "heading": "¿Los productos de YesStyle son originales? ¿De dónde es YesStyle?",
+        "paragraphs": [
+          "YesStyle es de Hong Kong. Se fundó allí en 2006 y pertenece a YesAsia Holdings Limited, que cotiza en la Bolsa de Hong Kong (código 2209.HK) y que también gestiona la tienda YesAsia y AsianBeautyWholesale, una plataforma mayorista de belleza asiática.",
+          "En cuanto a la originalidad, YesStyle afirma ser revendedora autorizada de más de 400 marcas de belleza coreana y comprar a los fabricantes o a distribuidores autorizados por ellos. No hemos encontrado ninguna auditoría independiente que confirme esa afirmación, así que estas son las comprobaciones que puedes hacer tú mismo (sugerencia nuestra, no de la tienda):"
+        ],
+        "bullets": [
+          "En la página del producto, comprueba que la marca y el nombre del artículo coinciden con la web oficial de la marca;",
+          "En la caja, busca el lote y la fecha de caducidad impresos y revisa la caducidad antes de abrir;",
+          "Al recibir el pedido, revisa el precinto del producto y del embalaje;",
+          "Si algo no se parece a lo anunciado, no uses el producto y habla antes con el servicio de atención al cliente de YesStyle."
+        ]
+      },
+      {
+        "heading": "Consejos prácticos antes de pedir",
         "paragraphs": [
           "Antes de finalizar tu compra en YesStyle, ten en cuenta los siguientes consejos:"
         ],
@@ -38466,18 +38521,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Código de Recompensa y Descuento Adicional",
+        "heading": "Código de recompensa y descuento adicional",
         "paragraphs": [
           "Em Casa com Cecília mantiene una alianza comercial con YesStyle. Gracias a ella, puedes introducir el código de recompensa CECILIA010 en la casilla 'Reward Code' para conseguir hasta un 5% de descuento extra en tu primera compra y un 2% en pedidos habituales. Es acumulable con cupones promocionales.",
-          "El código CECILIA010 es permanente y no tiene ningún coste adicional para el comprador."
+          "El código CECILIA010 no tiene fecha de caducidad y sigue activo mientras continúe la alianza con YesStyle. Usarlo no supone ningún coste adicional para el comprador."
         ],
         "bullets": []
       },
       {
-        "heading": "Preguntas Frecuentes",
+        "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Es YesStyle confiable y legítimo? Sí, YesStyle es una tienda online auténtica fundada en 2006, filial de la empresa pública YesAsia Holdings Limited (2209.HK).",
-          "¿Los productos de YesStyle son originales? YesStyle declara ser distribuidor autorizado de más de 400 marcas de belleza coreana, comprando directamente a fabricantes o socios oficiales autorizados.",
+          "¿De dónde es YesStyle? De Hong Kong: la tienda se fundó allí en 2006 y pertenece a YesAsia Holdings, que cotiza en la Bolsa de Hong Kong (2209.HK).",
+          "¿Los productos de YesStyle son originales o falsificados? YesStyle afirma ser revendedora autorizada de más de 400 marcas de belleza coreana y comprar a los fabricantes o a distribuidores autorizados. No hay una auditoría independiente de esa afirmación; al recibir el pedido, revisa el lote, la caducidad y el precinto.",
           "¿Cuánto tarda en llegar un pedido de YesStyle? El envío internacional estándar suele tardar entre 7 y 14 días laborables.",
           "¿Cómo usar el código CECILIA010? Introduce CECILIA010 en la casilla 'Código de Recompensa' durante el proceso de pago."
         ]
@@ -38502,7 +38558,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 252,
     "slug": "yesstyle-est-il-fiable-et-sur",
-    "title": "YesStyle est-il Fiable et Sûr ? Ce qu'il Faut Savoir Avant d'Acheter",
+    "title": "YesStyle est-il fiable et sûr ? Ce qu'il faut savoir avant d'acheter",
     "type": "Éditorial",
     "reviewKind": "editorial",
     "author": {
@@ -38527,7 +38583,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
-        "heading": "Informations Publiques sur l'Entreprise",
+        "heading": "Informations publiques sur l'entreprise",
         "paragraphs": [
           "YesStyle Limited est une plateforme de e-commerce basée à Hong Kong, fondée en 2006. Elle est une filiale de YesAsia Holdings Limited, société cotée à la Bourse de Hong Kong sous le code 2209.HK. Cela garantit une gestion transparente et des comptes audités.",
           "Le site dessert plus de 80 pays en proposant plusieurs devises d'affichage. Les commandes sont traitées selon les normes du commerce électronique international."
@@ -38538,7 +38594,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Catalogue et Partenariats Officiels",
+        "heading": "Catalogue et partenariats officiels",
         "paragraphs": [
           "YesStyle déclare être revendeur agréé pour plus de 400 marques de beauté coréenne (K-beauty), tout en proposant des produits de beauté japonaise et de la mode asiatique. Le catalogue comprend des soins de la peau (sérums, essences, toniques, crèmes solaires), du maquillage et des accessoires.",
           "L'entreprise indique dans ses informations officielles être revendeur agréé pour plus de 400 marques de beauté coréenne, travaillant avec des marques établies comme COSRX, Etude House, Hada Labo et Rohto, en s'approvisionnant auprès des fabricants ou partenaires distributeurs certifiés. Son appartenance au groupe coté YesAsia Holdings constitue un gage de transparence financière."
@@ -38549,7 +38605,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "wide"
       },
       {
-        "heading": "Livraison Internationale et Retours",
+        "heading": "Livraison internationale et retours",
         "paragraphs": [
           "YesStyle propose la livraison internationale gratuite pour les commandes dépassant le montant minimum requis (ex. 48 € ou 59 USD).",
           "Les délais de livraison, frais et conditions de livraison gratuite varient en fonction du pays de destination, du mode d'expédition et de la disponibilité des articles. Les estimations exactes sont calculées lors de la validation du panier. Les retours d'articles éligibles sous emballage d'origine se font via une demande d'Autorisation de Retour (RMA) auprès du service client."
@@ -38560,7 +38616,20 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Conseils Avant de Commander",
+        "heading": "Les produits YesStyle sont-ils authentiques ? D'où vient YesStyle ?",
+        "paragraphs": [
+          "YesStyle est une enseigne de Hong Kong. Elle y a été fondée en 2006 et appartient à YesAsia Holdings Limited, société cotée à la Bourse de Hong Kong (code 2209.HK), qui exploite aussi la boutique YesAsia et AsianBeautyWholesale, une plateforme de vente en gros de produits de beauté asiatiques.",
+          "Concernant l'authenticité, YesStyle affirme être revendeur agréé de plus de 400 marques de beauté coréenne et s'approvisionner auprès des fabricants ou de distributeurs agréés par ces derniers. Nous n'avons trouvé aucun audit indépendant confirmant cette affirmation ; voici donc des vérifications que vous pouvez faire vous-même (suggestion de notre part, pas de la boutique) :"
+        ],
+        "bullets": [
+          "Sur la fiche produit, vérifiez que la marque et le nom de l'article correspondent au site officiel de la marque ;",
+          "Sur la boîte, repérez le numéro de lot et la date de péremption imprimés, et vérifiez la date avant d'ouvrir ;",
+          "À la livraison, contrôlez le scellé du produit et de l'emballage ;",
+          "Si quelque chose diffère de l'annonce, n'utilisez pas le produit et contactez d'abord le service client de YesStyle."
+        ]
+      },
+      {
+        "heading": "Conseils avant de commander",
         "paragraphs": [
           "Voici quelques conseils pratiques avant de valider votre panier :"
         ],
@@ -38571,20 +38640,21 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Code de Récompense et Réduction Supplémentaire",
+        "heading": "Code récompense et réduction supplémentaire",
         "paragraphs": [
           "Em Casa com Cecília est partenaire de YesStyle. En saisissant le code de récompense CECILIA010 dans le champ dédié au moment du paiement, vous bénéficiez de 5 % de réduction supplémentaire sur votre première commande et de 2 % sur les suivantes. Cumulable avec les codes promo.",
-          "Le code CECILIA010 est permanent et sans aucun frais pour l'acheteur."
+          "Le code CECILIA010 n'a pas de date d'expiration et reste actif tant que le partenariat avec YesStyle se poursuit. Son utilisation n'entraîne aucun frais pour l'acheteur."
         ],
         "bullets": []
       },
       {
-        "heading": "Foire Aux Questions",
+        "heading": "Foire aux questions",
         "bullets": [
           "YesStyle est-il un site fiable ? Oui, YesStyle est une entreprise légitime fondée en 2006, filiale du groupe coté en bourse YesAsia Holdings (2209.HK).",
-          "Les produits sont-ils authentiques ? YesStyle déclare être revendeur officiel agréé de plus de 400 marques de beauté coréenne, en direct des fabricants ou partenaires certifiés.",
+          "D'où vient YesStyle ? De Hong Kong : la boutique y a été fondée en 2006 et appartient à YesAsia Holdings, cotée à la Bourse de Hong Kong (2209.HK).",
+          "Les produits YesStyle sont-ils authentiques ou contrefaits ? YesStyle affirme être revendeur agréé de plus de 400 marques de beauté coréenne, en s'approvisionnant auprès des fabricants ou de distributeurs agréés. Nous n'avons trouvé aucun audit indépendant de cette affirmation ; à la réception, vérifiez le numéro de lot, la date de péremption et le scellé.",
           "Quel est le délai de livraison ? La livraison internationale standard prend en moyenne 7 à 14 jours ouvrés.",
-          "Comment utiliser le code CECILIA010 ? Saisissez CECILIA010 dans la case 'Code de Récompense' lors de la validation du panier."
+          "Comment utiliser le code CECILIA010 ? Saisissez CECILIA010 dans la case 'Code récompense' lors de la validation du panier."
         ]
       }
     ],
@@ -38607,7 +38677,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 253,
     "slug": "ist-yesstyle-serioes-und-sicher",
-    "title": "Ist YesStyle Seriös und Sicher? Was Sie Vor Dem Kauf Wissen Müssen",
+    "title": "Ist YesStyle seriös und sicher? Was Sie vor dem Kauf wissen müssen",
     "type": "Redaktionell",
     "reviewKind": "editorial",
     "author": {
@@ -38643,7 +38713,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Sortiment und Autorisierte Marken",
+        "heading": "Sortiment und autorisierte Marken",
         "paragraphs": [
           "YesStyle gibt an, autorisierter Händler für mehr als 400 koreanische Kosmetikmarken (K-Beauty) zu sein, und bietet darüber hinaus japanische Kosmetik und asiatische Mode an. Das Sortiment umfasst Hautpflege (Seren, Essenzen, Toner, Sonnenschutz), Make-up und Accessoires.",
           "Das Unternehmen erklärt in seinen Unternehmensangaben, autorisierter Händler für über 400 koreanische Kosmetikmarken zu sein, darunter bekannte Namen wie COSRX, Etude House, Hada Labo und Rohto, und bezieht Produkte von Herstellern oder offiziellen Partnern. Als Tochtergesellschaft der börsennotierten YesAsia Holdings unterliegt das Unternehmen Transparenzpflichten."
@@ -38665,7 +38735,20 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "Tipps Vor Der Bestellung",
+        "heading": "Sind die Produkte von YesStyle original? Woher kommt YesStyle?",
+        "paragraphs": [
+          "YesStyle kommt aus Hongkong. Das Unternehmen wurde dort 2006 gegründet und gehört zur YesAsia Holdings Limited, die an der Hongkonger Börse notiert ist (Code 2209.HK) und auch den Shop YesAsia sowie AsianBeautyWholesale betreibt, eine Großhandelsplattform für asiatische Beauty-Produkte.",
+          "Zur Echtheit: YesStyle gibt an, autorisierter Händler von mehr als 400 koreanischen Kosmetikmarken zu sein und bei den Herstellern oder bei von ihnen autorisierten Distributoren einzukaufen. Eine unabhängige Prüfung, die diese Angabe bestätigt, haben wir nicht gefunden. Deshalb hier einige Kontrollen, die Sie selbst vornehmen können (unser Vorschlag, nicht der des Shops):"
+        ],
+        "bullets": [
+          "Prüfen Sie auf der Produktseite, ob Marke und Produktname mit der offiziellen Website der Marke übereinstimmen;",
+          "Suchen Sie auf der Verpackung den aufgedruckten Chargencode und das Haltbarkeitsdatum und prüfen Sie das Datum vor dem Öffnen;",
+          "Kontrollieren Sie bei der Lieferung das Siegel am Produkt und an der Verpackung;",
+          "Wenn etwas anders aussieht als angegeben, verwenden Sie das Produkt nicht und wenden Sie sich zuerst an den YesStyle-Kundenservice."
+        ]
+      },
+      {
+        "heading": "Tipps vor der Bestellung",
         "paragraphs": [
           "Beachten Sie vor Ihrem Kauf folgende Empfehlungen:"
         ],
@@ -38676,18 +38759,19 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Rabattcode und Zusätzliche Ersparnis",
+        "heading": "Reward Code und zusätzliche Ersparnis",
         "paragraphs": [
-          "Em Casa com Cecília unterhält eine Partnerschaft mit YesStyle. Durch Eingabe des Rabattcodes CECILIA010 im Feld 'Reward Code' beim Checkout erhalten Sie 5 % Extra-Rabatt bei der Erstbestellung und 2 % bei Folgebestellungen. Kombinierbar mit Aktionsgutscheinen.",
-          "Der Code CECILIA010 ist dauerhaft gültig und für Käufer völlig kostenlos."
+          "Em Casa com Cecília unterhält eine Partnerschaft mit YesStyle. Durch Eingabe des Reward Codes CECILIA010 im Feld 'Reward Code' beim Checkout erhalten Sie 5 % Extra-Rabatt bei der Erstbestellung und 2 % bei Folgebestellungen. Kombinierbar mit Aktionsgutscheinen.",
+          "Der Reward Code CECILIA010 hat kein Ablaufdatum und bleibt aktiv, solange die Partnerschaft mit YesStyle besteht. Für Käufer entstehen dadurch keine Zusatzkosten."
         ],
         "bullets": []
       },
       {
-        "heading": "Häufig Gestellte Fragen",
+        "heading": "Häufig gestellte Fragen",
         "bullets": [
           "Ist YesStyle seriös? Ja, YesStyle ist ein etablierter Online-Shop (gegründet 2006) und Tochterunternehmen der börsennotierten YesAsia Holdings (2209.HK).",
-          "Sind die Produkte original? YesStyle gibt an, autorisierter Händler für über 400 koreanische Kosmetikmarken zu sein und von offiziellen Herstellern oder Vertragspartnern zu beziehen.",
+          "Woher kommt YesStyle? Aus Hongkong: Das Unternehmen wurde dort 2006 gegründet und gehört zur YesAsia Holdings, die an der Hongkonger Börse notiert ist (2209.HK).",
+          "Sind YesStyle-Produkte original oder gefälscht? YesStyle gibt an, autorisierter Händler von mehr als 400 koreanischen Kosmetikmarken zu sein und bei Herstellern oder autorisierten Partnern einzukaufen. Eine unabhängige Prüfung dieser Angabe haben wir nicht gefunden; kontrollieren Sie bei Lieferung Chargencode, Haltbarkeitsdatum und Siegel.",
           "Wie lange dauert der Versand? Der internationale Standardversand dauert in der Regel 7 bis 14 Werktage.",
           "Wie löse ich CECILIA010 ein? Tragen Sie den Code CECILIA010 im Feld 'Reward Code' beim Checkout ein."
         ]
@@ -38759,7 +38843,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "wide"
       },
       {
-        "heading": "국제 배송 및 고객 지원 Policy",
+        "heading": "국제 배송 및 고객 지원 정책",
         "paragraphs": [
           "전 세계 80여 개국으로 국제 배송을 제공하며, 일정 금액 이상 구매 시 무료 배송 혜택을 제공합니다. 평균 배송 기간은 7일~14일(영업일 기준) 소요됩니다."
         ],
@@ -38769,16 +38853,30 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
+        "heading": "YesStyle 제품은 정품인가요? YesStyle은 어느 나라 회사인가요?",
+        "paragraphs": [
+          "YesStyle은 홍콩 기업입니다. 2006년 홍콩에서 설립되었으며, 홍콩 증권거래소에 상장된(종목 코드 2209.HK) YesAsia Holdings Limited 소속입니다. YesAsia Holdings는 YesAsia 쇼핑몰과 아시아 뷰티 도매 플랫폼 AsianBeautyWholesale도 운영합니다.",
+          "정품 여부에 대해 YesStyle은 400개 이상의 한국 뷰티 브랜드의 정식 유통업체이며 제조사 또는 제조사가 승인한 유통업체로부터 제품을 공급받는다고 밝히고 있습니다. 다만 이 주장을 확인해 주는 독립적인 감사 결과는 찾지 못했습니다. 그래서 구매자가 직접 해볼 수 있는 확인 방법을 정리했습니다(YesStyle이 아닌 저희의 제안입니다):"
+        ],
+        "bullets": [
+          "제품 페이지에서 브랜드와 제품명이 브랜드 공식 웹사이트와 일치하는지 확인하세요.",
+          "상자에 인쇄된 제조번호(로트)와 유통기한을 찾아, 개봉하기 전에 유통기한을 확인하세요.",
+          "배송을 받으면 제품과 포장의 봉인 상태를 확인하세요.",
+          "광고나 상품 설명과 다른 점이 있다면 제품을 사용하지 말고 먼저 YesStyle 고객센터에 문의하세요."
+        ]
+      },
+      {
         "heading": "리워드 코드 및 추가 할인",
         "paragraphs": [
-          "결제 시 Reward Code 입력란에 CECILIA010을 입력하면 첫 구매 시 최대 5%, 재구매 시 2% 추가 할인을 적용받을 수 있습니다. 일반 프로모션 쿠폰과 중복 적용이 가능합니다."
+          "결제 시 Reward Code 입력란에 CECILIA010을 입력하면 첫 구매 시 최대 5%, 재구매 시 2% 추가 할인을 적용받을 수 있습니다. 일반 프로모션 쿠폰과 중복 적용이 가능합니다. CECILIA010 코드는 유효기간이 없으며 YesStyle과의 제휴가 이어지는 동안 계속 사용할 수 있습니다. 구매자에게 추가 비용은 없습니다."
         ],
         "bullets": []
       },
       {
         "heading": "자주 묻는 질문 (FAQ)",
         "bullets": [
-          "YesStyle은 정품만 판매하나요? YesStyle은 400개 이상 한국 뷰티 브랜드의 정식 유통업체로서 제조사 및 공식 파트너사로부터 직접 공급받는다고 밝히고 있습니다.",
+          "YesStyle 제품은 정품인가요, 가품인가요? YesStyle은 400개 이상의 한국 뷰티 브랜드의 정식 유통업체이며 제조사 또는 정식 파트너사로부터 공급받는다고 밝히고 있습니다. 이 주장에 대한 독립적인 감사 결과는 찾지 못했으니, 주문품이 도착하면 제조번호(로트), 유통기한, 봉인 상태를 확인하세요.",
+          "YesStyle은 어느 나라 회사인가요? 홍콩 기업입니다. 2006년 홍콩에서 설립되었으며, 홍콩 증권거래소에 상장된 YesAsia Holdings(2209.HK) 소속입니다.",
           "CECILIA010 코드는 어떻게 사용하나요? 결제 단계의 'Reward Code' 입력란에 CECILIA010을 입력하시면 됩니다."
         ]
       }
@@ -38860,6 +38958,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
+        "heading": "YesStyleの商品は正規品？ YesStyleはどこの国の会社？",
+        "paragraphs": [
+          "YesStyleは香港の企業です。2006年に香港で設立され、香港証券取引所に上場するYesAsia Holdings Limited（証券コード 2209.HK）の傘下にあります。同社はYesAsiaのストアのほか、アジアンビューティーの卸売プラットフォームAsianBeautyWholesaleも運営しています。",
+          "正規品かどうかについて、YesStyleは400以上の韓国コスメブランドの正規販売店であり、メーカーまたはメーカーが認可した代理店から仕入れていると説明しています。ただし、この主張を裏付ける第三者機関による監査は確認できませんでした。そこで、購入者ご自身でできる確認方法をご紹介します（YesStyleではなく、当サイトからの提案です）："
+        ],
+        "bullets": [
+          "商品ページで、ブランド名と商品名がブランド公式サイトと一致しているか確認してください。",
+          "箱に印字されたロット番号と使用期限を探し、開封する前に使用期限を確認してください。",
+          "お届け時に、商品本体と梱包の封が破られていないか確認してください。",
+          "掲載内容と違う点がある場合は、その商品を使わず、まずYesStyleのカスタマーサポートに問い合わせてください。"
+        ]
+      },
+      {
         "heading": "注文前のチェックポイント",
         "paragraphs": [
           "YesStyleで安全にお買い物いただくための注意点:"
@@ -38875,14 +38986,15 @@ export const reviewsData: unknown[] = [
         "heading": "リワードコードで追加割引",
         "paragraphs": [
           "Em Casa com CecíliaはYesStyleと公式アフィリエイトパートナーシップを結んでいます。チェックアウト時に「リワードコード（Reward Code）」欄へ CECILIA010 を入力すると、初回購入で最大5%オフ、2回目以降で2%オフの追加割引が適用されます。通常のプロモーションクーポンと併用可能です。",
-          "CECILIA010 コードはパートナーシップが有効な期間中ご利用いただけ、購入者様に追加費用は一切かかりません。"
+          "CECILIA010 コードに有効期限はなく、YesStyleとのパートナーシップが続く限りご利用いただけます。購入者様に追加費用は一切かかりません。"
         ],
         "bullets": []
       },
       {
         "heading": "よくある質問",
         "bullets": [
-          "YesStyleは正規品ですか？ YesStyleは400以上の韓国コスメブランドの正規販売店であることを公表しており、メーカーまたは公式パートナーから仕入れていると説明しています。",
+          "YesStyleの商品は正規品ですか、それとも偽物ですか？ YesStyleは400以上の韓国コスメブランドの正規販売店であり、メーカーまたは正規パートナーから仕入れていると説明しています。この主張を裏付ける第三者による監査は確認できていないため、商品が届いたらロット番号、使用期限、封の状態を確認してください。",
+          "YesStyleはどこの国の会社ですか？ 香港の企業です。2006年に香港で設立され、香港証券取引所に上場するYesAsia Holdings（2209.HK）の傘下にあります。",
           "YesStyleの配送日数はどのくらいですか？ お届け先の国、選択した配送方法、商品の在庫状況によって異なります。正確な日数はカート画面でご確認ください。",
           "CECILIA010の使い方は？ 決済画面の「リワードコード」欄に CECILIA010 を入力してください。クーポンコードと同時に利用可能です。"
         ]
@@ -38964,17 +39076,31 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "獎勵代碼額外折扣",
+        "heading": "YesStyle 的商品是正品嗎？YesStyle 是哪裡的公司？",
         "paragraphs": [
-          "結帳時於「獎勵代碼 (Reward Code)」欄位輸入 CECILIA010，首單可享最高 5% 額外折扣，續購可享 2% 折扣。可與優惠券代碼（Coupon Code）疊加使用。"
+          "YesStyle 來自香港。公司於 2006 年在香港創立，隸屬於 YesAsia Holdings Limited（香港交易所上市，股份代號：2209.HK）。該集團同時經營 YesAsia 商店，以及亞洲美妝批發平台 AsianBeautyWholesale。",
+          "關於商品是否為正品，YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商，貨源來自品牌製造商或其授權的經銷夥伴。我們沒有找到能證實這項說法的獨立審核，因此整理了幾項買家自己就能做的檢查（這是我們的建議，並非 YesStyle 的說明）："
+        ],
+        "bullets": [
+          "在商品頁面上，確認品牌與商品名稱和品牌官方網站相符；",
+          "在包裝盒上，找到印刷的批號與有效期限，開封前先確認有效期限；",
+          "收貨時，檢查商品與包裝的封條是否完好；",
+          "如果商品與頁面介紹不同，請先不要使用，並先聯絡 YesStyle 客服。"
+        ]
+      },
+      {
+        "heading": "獎勵碼額外折扣",
+        "paragraphs": [
+          "結帳時於「獎勵碼 (Reward Code)」欄位輸入 CECILIA010，首單可享最高 5% 額外折扣，續購可享 2% 折扣。可與優惠券代碼（Coupon Code）疊加使用。CECILIA010 代碼沒有到期日，只要與 YesStyle 的合作持續就會保持有效；使用此代碼不會為買家帶來額外費用。"
         ],
         "bullets": []
       },
       {
         "heading": "常見問題",
         "bullets": [
-          "YesStyle 是正品嗎？ YesStyle 於官方資料中聲明為 400 多個韓國美妝品牌的授權經銷商，直接向品牌製造商或官方授權代理商採購。",
-          "如何使用 CECILIA010 代碼？ 結帳時在「獎勵代碼」欄位輸入 CECILIA010 即可。"
+          "YesStyle 的商品是正品還是仿冒品？ YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商，貨源來自品牌製造商或授權合作夥伴。我們沒有找到針對這項說法的獨立審核；收到訂單後，請檢查批號、有效期限與封條。",
+          "YesStyle 是哪裡的公司？ 來自香港：公司於 2006 年在香港創立，隸屬於香港交易所上市的 YesAsia Holdings（2209.HK）。",
+          "如何使用 CECILIA010 代碼？ 結帳時在「獎勵碼」欄位輸入 CECILIA010 即可。"
         ]
       }
     ],
@@ -38989,7 +39115,7 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hant",
-        "title": "YesStyle 獎勵代碼 CECILIA010 使用指南"
+        "title": "YesStyle 獎勵碼 CECILIA010 使用指南"
       }
     ],
     "translationKey": "yesstyle-trust"
@@ -39054,17 +39180,31 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "奖励代码额外折扣",
+        "heading": "YesStyle 的商品是正品吗？YesStyle 是哪里的公司？",
         "paragraphs": [
-          "结账时于“奖励代码 (Reward Code)”栏位输入 CECILIA010，首单可享最高 5% 额外折扣，续购可享 2% 折扣。可与优惠券代码（Coupon Code）叠加使用。"
+          "YesStyle 来自香港。公司于 2006 年在香港创立，隶属于 YesAsia Holdings Limited（香港交易所上市，股份代码：2209.HK）。该集团同时运营 YesAsia 商店，以及亚洲美妆批发平台 AsianBeautyWholesale。",
+          "关于商品是否为正品，YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商，货源来自品牌制造商或其授权的经销伙伴。我们没有找到能证实这一说法的独立审核，因此整理了几项买家自己就能做的检查（这是我们的建议，并非 YesStyle 的说明）："
+        ],
+        "bullets": [
+          "在商品页面上，确认品牌与商品名称和品牌官方网站一致；",
+          "在包装盒上，找到印刷的批号与有效期，开封前先确认有效期；",
+          "收货时，检查商品与包装的封条是否完好；",
+          "如果商品与页面介绍不同，请先不要使用，并先联系 YesStyle 客服。"
+        ]
+      },
+      {
+        "heading": "奖励码额外折扣",
+        "paragraphs": [
+          "结账时于“奖励码 (Reward Code)”栏位输入 CECILIA010，首单可享最高 5% 额外折扣，续购可享 2% 折扣。可与优惠券代码（Coupon Code）叠加使用。CECILIA010 代码没有到期日，只要与 YesStyle 的合作持续就会保持有效；使用此代码不会为买家带来额外费用。"
         ],
         "bullets": []
       },
       {
         "heading": "常见问题",
         "bullets": [
-          "YesStyle 是正品吗？ YesStyle 于官方资料中声明为 400 多个韩国美妆品牌的授权经销商，直接向品牌制造商或官方授权代理商采购。",
-          "如何使用 CECILIA010 代码？ 结账时在“奖励代码”栏位输入 CECILIA010 即可。"
+          "YesStyle 的商品是正品还是仿冒品？ YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商，货源来自品牌制造商或授权合作伙伴。我们没有找到针对这一说法的独立审核；收到订单后，请检查批号、有效期和封条。",
+          "YesStyle 是哪里的公司？ 来自香港：公司于 2006 年在香港创立，隶属于香港交易所上市的 YesAsia Holdings（2209.HK）。",
+          "如何使用 CECILIA010 代码？ 结账时在“奖励码”栏位输入 CECILIA010 即可。"
         ]
       }
     ],
@@ -39079,7 +39219,7 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hans",
-        "title": "YesStyle 奖励代码 CECILIA010 使用指南"
+        "title": "YesStyle 奖励码 CECILIA010 使用指南"
       }
     ],
     "translationKey": "yesstyle-trust"
@@ -39746,7 +39886,7 @@ export const reviewsData: unknown[] = [
     },
     "description": "Nunca tinha tido lava e seca. Gravei o unboxing da Samsung 13 kg (WD13FG), o sufoco da porta de 80 cm, o improviso no encanamento, o batismo da Dona Amélia e o primeiro ciclo de toalhas a 60 °C com secagem completa.",
     "seoTitle": "Lava e Seca Samsung 13 kg é Boa? Unboxing e Primeiro Uso Real",
-    "metaDescription": "Testei minha primeira lava e seca Samsung 13 kg (WD13FG): unboxing, porta de 80 cm, gaveta de sabão, app SmartThings e o primeiro ciclo de toalhas com secagem.",
+    "metaDescription": "Testei minha primeira lava e seca Samsung 13 kg (WD13FG): unboxing, instalação, como usar na primeira vez, app SmartThings e o primeiro ciclo com secagem.",
     "publishedAt": "17 de agosto de 2026",
     "publishedAtISO": "2026-08-17",
     "updatedAt": "2026-08-17",
@@ -39942,6 +40082,21 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Como usar a lava e seca Samsung pela primeira vez",
+        "paragraphs": [
+          "Juntando o que fizemos na estreia, este foi o caminho do primeiro uso. Ele não substitui o manual digital do QR code, que traz as instruções do fabricante:"
+        ],
+        "bullets": [
+          "Tire os 4 parafusos de transporte da parte traseira com a chave inclusa, antes de ligar a máquina;",
+          "Instale a máquina na água e no esgoto e ligue na tomada;",
+          "Pareie com o aplicativo SmartThings pelo QR code; enquanto isso, a máquina calibra sozinha o tambor vazio;",
+          "Abasteça a gaveta: compartimento 1 para a pré-lavagem, 2 para a lavagem principal (com a pecinha azul encaixada se o sabão for líquido) e o do meio, com a florzinha, para o amaciante, diluído antes em um pouco de água se for concentrado;",
+          "Coloque a roupa ocupando de metade a, no máximo, três quartos do tambor;",
+          "Escolha o programa, a temperatura e a centrifugação no painel (na estreia, Toalhas, 60 °C e 800 RPM) e inicie: a máquina pesa a carga e recalcula o tempo;",
+          "Para secar, ative o ciclo de Secagem na mesma carga quando a lavagem terminar; nas nossas quatro toalhas, o visor estimou 2h45."
+        ]
+      },
+      {
         "heading": "O que podemos afirmar e os próximos passos",
         "paragraphs": [
           "Depois desse primeiro teste completo, resumimos as nossas principais impressões práticas:",
@@ -39988,6 +40143,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes sobre a Samsung 13 kg",
         "bullets": [
           "Qual é o modelo exato da lava e seca? Samsung WD13FG6B34BEAZ, da linha Lava e Seca Smart WD13FG com AI Control Branca 127V, com capacidade para 13,0 kg de lavagem e 8,0 kg de secagem.",
+          "Como usar a lava e seca Samsung pela primeira vez? Tire os parafusos de transporte, instale, pareie com o SmartThings (a máquina calibra o tambor sozinha), abasteça a gaveta, coloque a roupa até a metade do tambor e escolha programa, temperatura e centrifugação; o passo a passo está na seção acima.",
           "Quais são as dimensões e o peso da máquina? O modelo mede exatamente 600 x 850 x 600 mm (60 cm de largura x 85 cm de altura x 60 cm de profundidade) e possui peso líquido de 74 kg.",
           "O que é a tecnologia Ecobubble e VRT Plus? O Ecobubble transforma o sabão em bolhas ativas para penetrar mais rápido nas fibras, enquanto o VRT Plus (VRT+) é o sistema de sensores que reduz ruídos e vibrações durante a centrifugação.",
           "Ela esteriliza a seco? Sim, o modelo é 3 em 1 (lava, seca e esteriliza a seco através da tecnologia Air Wash, que elimina odores e bactérias com ar quente sem usar água).",
@@ -40013,8 +40169,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 263,
     "slug": "nutren-just-protein-para-que-serve",
-    "title": "Nutren Just Protein: tudo o que você precisa saber",
-    "seoTitle": "Nutren Just Protein: Para Que Serve e Tabela Nutricional",
+    "title": "Nutren Just Protein: para que serve, como usar em receitas e tabela nutricional",
+    "seoTitle": "Nutren Just Protein: tabela nutricional e para que serve",
     "type": "Guia Prático",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -40139,6 +40295,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes sobre o Nutren Just Protein",
         "bullets": [
+          "Qual a tabela nutricional do Nutren Just Protein? Por porção de 15 g: 52 kcal, 13 g de proteína, 0 g de carboidratos e açúcares, 76 mg de sódio e nenhuma quantidade significativa de gorduras.",
           "Nutren Just Protein engorda? Não é possível atribuir ganho ou perda de peso a um único produto. Cada porção de 15g fornece 52 kcal e 13g de proteína; o efeito no peso depende do consumo alimentar total, das necessidades individuais e da rotina.",
           "Nutren Just Protein tem sabor de leite? A fabricante apresenta o produto como sem sabor. A percepção e o resultado final podem variar conforme a bebida ou receita em que ele for misturado.",
           "Pode misturar Nutren Just Protein em comida quente? O preparo oficial é 15g em 120ml de água. Em receitas quentes, uma possibilidade editorial é acrescentar o pó gradualmente depois de retirar o alimento do fogo; textura e dissolução podem variar.",
@@ -47233,10 +47390,10 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
         "imageAlt": "Selezione di cosmetici e prodotti di skincare K-beauty in promozione su YesStyle.",
-        "imageCaption": "Esempio di coupon promozionale registrato il 24 luglio 2026 (coupon BTSVIP15). I coupon promozionali cambiano spesso: consulta la nostra pagina dedicata prima di acquistare.",
+        "imageCaption": "Esempio di coupon promozionale registrato il 24 luglio 2026; quella campagna è terminata. I coupon promozionali cambiano spesso: consulta la nostra pagina dedicata prima di acquistare.",
         "imageFit": "wide",
         "bullets": [
-          "Coupon promozionali mensili: hanno una data di scadenza e offrono dal 10% al 15% di sconto (es. il coupon BTSVIP15 mostrato su YesStyle al momento dello screenshot).",
+          "Coupon promozionali mensili: hanno una data di scadenza e offrono dal 10% al 15% di sconto.",
           "Codice ricompensa (Reward Code): codice influencer come CECILIA010, che aggiunge fino al 5% di sconto extra.",
           "Fonti ufficiali: controlla il banner del sito, la newsletter o la nostra pagina coupon dedicata."
         ]
@@ -47340,6 +47497,7 @@ export const reviewsData: unknown[] = [
         "heading": "FAQ — Domande frequenti sui coupon YesStyle",
         "bullets": [
           "Qual è la differenza tra Coupon Code e Reward Code su YesStyle? Il Coupon Code è un coupon promozionale temporaneo di YesStyle, da applicare nel campo “Coupon Code”. CECILIA010 è un Reward Code influencer da inserire nel campo “Reward Code”, che offre fino al 5% in più (5% sul 1º ordine / 2% sui successivi). Quando la campagna lo consente, i due si sommano al pagamento.",
+          "Che cos'è il codice influencer di YesStyle? È il codice ricompensa (Reward Code), che si inserisce in un campo apposito del checkout, separato dal campo Coupon Code. Il nostro è CECILIA010: 5% di sconto sul primo ordine e 2% sugli ordini successivi.",
           "I coupon YesStyle hanno una scadenza? Sì. I coupon promozionali hanno una data di scadenza. Controlla l'importo minimo d'acquisto e i prodotti idonei prima di confermare.",
           "Dove trovo le condizioni ufficiali dei coupon YesStyle? Le condizioni generali si trovano sotto “General Terms and Conditions for Coupons” nel centro assistenza di YesStyle. Per una campagna specifica, consulta la sezione “Promotions”.",
           "Posso usare più di un coupon promozionale per ordine? No. È consentito un solo Coupon Code per ordine. CECILIA010, invece, è un Reward Code e può essere abbinato a un Coupon Code idoneo."
@@ -47421,13 +47579,26 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
+        "heading": "I prodotti YesStyle sono originali? Da dove viene YesStyle?",
+        "paragraphs": [
+          "YesStyle è di Hong Kong. È stata fondata lì nel 2006 e appartiene a YesAsia Holdings Limited, quotata alla Borsa di Hong Kong (codice 2209.HK), che gestisce anche il negozio YesAsia e AsianBeautyWholesale, una piattaforma all'ingrosso di prodotti di bellezza asiatici.",
+          "Sull'originalità, YesStyle dichiara di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana e di rifornirsi dai produttori o da distributori da loro autorizzati. Non abbiamo trovato alcun audit indipendente che confermi questa dichiarazione; ecco quindi alcuni controlli che puoi fare tu stesso (un nostro suggerimento, non di YesStyle):"
+        ],
+        "bullets": [
+          "Nella pagina del prodotto, verifica che marchio e nome dell'articolo corrispondano al sito ufficiale del marchio;",
+          "Sulla confezione, cerca il lotto e la scadenza stampati e controlla la scadenza prima di aprire;",
+          "Alla consegna, controlla il sigillo del prodotto e della confezione;",
+          "Se qualcosa sembra diverso da quanto indicato, non usare il prodotto e contatta prima il servizio clienti di YesStyle."
+        ]
+      },
+      {
         "heading": "Consigli prima di ordinare",
         "paragraphs": [
           "Ecco qualche consiglio pratico prima di confermare il carrello:"
         ],
         "bullets": [
           "Controlla di trovarti sul dominio ufficiale (yesstyle.com), con connessione HTTPS.",
-          "Informati sulle regole doganali del tuo paese per IVA e dazi d'importazione. YesStyle rimborsa dazi e spese doganali sotto forma di YesStyle Credit per gli ordini inferiori a 1.000 USD (prima dei coupon e escluse le spese di spedizione): la richiesta va fatta con la ricevuta entro 30 giorni. L'IVA addebitata al checkout sugli ordini UE non è coperta dal rimborso.",
+          "Informati sulle regole doganali del tuo paese per IVA e dazi d'importazione. YesStyle rimborsa dazi e spese doganali sotto forma di YesStyle Credit per gli ordini inferiori a 1.000 USD (prima dei coupon ed escluse le spese di spedizione): la richiesta va fatta con la ricevuta entro 30 giorni. L'IVA addebitata al checkout sugli ordini UE non è coperta dal rimborso.",
           "Leggi con attenzione le schede prodotto e le guide alle taglie."
         ]
       },
@@ -47435,7 +47606,7 @@ export const reviewsData: unknown[] = [
         "heading": "Codice ricompensa e sconto extra",
         "paragraphs": [
           "Em Casa com Cecília è partner di YesStyle. Inserendo il codice ricompensa CECILIA010 nel campo \"Reward Code\" al checkout ottieni il 5% di sconto extra sul primo ordine e il 2% su quelli successivi. I coupon promozionali vanno nel campo separato \"Coupon Code\" e si cumulano con CECILIA010.",
-          "Il codice CECILIA010 è permanente e non ha alcun costo per chi acquista."
+          "Il codice CECILIA010 non ha scadenza e resta attivo finché continua la partnership con YesStyle. Per chi acquista non ha alcun costo."
         ],
         "bullets": []
       },
@@ -47443,7 +47614,8 @@ export const reviewsData: unknown[] = [
         "heading": "Domande frequenti",
         "bullets": [
           "YesStyle è un sito affidabile? Sì, YesStyle è un'azienda legittima, fondata nel 2006 e controllata del gruppo quotato in borsa YesAsia Holdings (2209.HK).",
-          "I prodotti sono originali? YesStyle dichiara di essere rivenditore ufficiale autorizzato di oltre 400 marchi di bellezza coreana, con acquisti diretti dai produttori o da partner certificati.",
+          "Da dove viene YesStyle? Da Hong Kong: è stata fondata lì nel 2006 e appartiene a YesAsia Holdings, quotata alla Borsa di Hong Kong (2209.HK).",
+          "I prodotti YesStyle sono originali o contraffatti? YesStyle dichiara di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana, con acquisti dai produttori o da partner autorizzati. Non abbiamo trovato alcun audit indipendente su questa dichiarazione; quando arriva l'ordine, controlla lotto, scadenza e sigillo.",
           "Quanto tempo ci mette la spedizione? La spedizione internazionale standard richiede in media da 7 a 14 giorni lavorativi.",
           "Come si usa il codice CECILIA010? Inserisci CECILIA010 nel campo \"Reward Code\" al momento del checkout."
         ]
@@ -48135,8 +48307,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 315,
     "slug": "nutren-senior-como-tomar-sem-empelotar",
-    "title": "Como Tomar Nutren Senior Sem Empelotar",
-    "seoTitle": "Como Tomar Nutren Senior Sem Empelotar: Guia Passo a Passo",
+    "title": "Como tomar Nutren Senior sem empelotar",
+    "seoTitle": "Como tomar Nutren Senior sem empelotar, com leite ou água",
     "type": "Guia Prático",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -48401,12 +48573,13 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas Frequentes sobre o Nutren Senior",
         "bullets": [
           "Por que o Nutren Senior empelota? Porque o pó molha só por fora quando recebe líquido demais de uma vez e forma uma capa que protege o miolo seco. Comece com cerca de 50 ml, faça uma pasta cremosa e só depois complete, como a Nestlé indica.",
-          "Posso preparar o Nutren Senior com leite? A marca recomenda leite desnatado para as versões com sabor; o Sem Sabor pode ser preparado em água ou usado em receitas. Com leite integral, a gordura e as calorias do copo mudam, e a marca não traz tabela para ele.",
+          "Nutren Senior pode tomar com leite quente? Pode, nas versões com sabor: a marca indica leite desnatado e diz que dá para fazer bebida quente, desde que o pó entre no fim e não ferva. Aqueça o leite à parte e espere amornar. Com leite integral, a gordura e as calorias do copo mudam, e a marca não traz tabela para ele.",
+          "Pode tomar Nutren Senior com água? O Sem Sabor, sim, como a marca indica; nas versões com sabor, ela orienta leite desnatado, e a página do Café com Leite também traz a tabela nutricional preparada com água.",
           "Pode ferver o Nutren Senior? Não. A Nestlé orienta adicionar ao final da preparação, para que os nutrientes não sofram alteração com o calor. Aqueça o líquido à parte, espere ficar morno e depois faça a pasta.",
           "Posso bater o Nutren Senior no liquidificador? A marca não fala em liquidificador, e o método da pasta resolve sem ele. Se preferir usar, bata poucos segundos em velocidade baixa para não formar muita espuma e sirva logo (sugestão nossa, não da marca).",
           "Posso deixar o copo pronto na geladeira? O rótulo pede para consumir imediatamente após o preparo, então o ideal é preparar só a porção que será tomada. Se for inevitável adiantar, converse com o nutricionista.",
           "Quanto tempo dura a lata aberta? Até 30 dias, segundo a marca, com a lata bem fechada em local fresco, seco e sem cheiro. Uma lata de 740 g rende cerca de 23 a 27 porções, conforme a versão.",
-          "Quantas colheres por dia? Cada preparo usa 3 colheres de sopa (27,5 g no Sem Sabor e no Zero Lactose; 31,5 g nos sabores). Quantos preparos por dia é decisão do médico ou do nutricionista; o rótulo pede para não exceder a recomendação diária da embalagem.",
+          "Quantas vezes ao dia posso tomar Nutren Senior? Quantos preparos por dia é decisão do médico ou do nutricionista; o rótulo pede para não exceder a recomendação diária da embalagem. Cada preparo usa 3 colheres de sopa (27,5 g no Sem Sabor e no Zero Lactose; 31,5 g nos sabores).",
           "O Nutren Senior engorda? Cada porção tem de 113 a 133 kcal conforme a versão, e mais se for preparada com leite. O efeito no peso depende de tudo o que a pessoa come no dia; se o objetivo é ganhar ou perder peso, o nutricionista ajusta a quantidade.",
           "Diabético pode tomar Nutren Senior? Depende do caso e deve ser decidido com o médico ou o nutricionista. A marca informa que o pó não tem adição direta de sacarose, mas há açúcares naturais do leite, e existe a linha Nutren Control para dietas com restrição de açúcares.",
           "Serve para quem tem disfagia? A marca não traz orientação específica sobre disfagia nas páginas que consultamos. Quem tem dificuldade para engolir deve falar com o médico ou o fonoaudiólogo antes de usar."

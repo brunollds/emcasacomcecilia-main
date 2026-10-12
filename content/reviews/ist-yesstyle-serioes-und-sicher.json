@@ -1,7 +1,7 @@
 {
   "id": 253,
   "slug": "ist-yesstyle-serioes-und-sicher",
-  "title": "Ist YesStyle Seriös und Sicher? Was Sie Vor Dem Kauf Wissen Müssen",
+  "title": "Ist YesStyle seriös und sicher? Was Sie vor dem Kauf wissen müssen",
   "type": "Redaktionell",
   "reviewKind": "editorial",
   "author": {
@@ -37,7 +37,7 @@
       "imageFit": "square"
     },
     {
-      "heading": "Sortiment und Autorisierte Marken",
+      "heading": "Sortiment und autorisierte Marken",
       "paragraphs": [
         "YesStyle gibt an, autorisierter Händler für mehr als 400 koreanische Kosmetikmarken (K-Beauty) zu sein, und bietet darüber hinaus japanische Kosmetik und asiatische Mode an. Das Sortiment umfasst Hautpflege (Seren, Essenzen, Toner, Sonnenschutz), Make-up und Accessoires.",
         "Das Unternehmen erklärt in seinen Unternehmensangaben, autorisierter Händler für über 400 koreanische Kosmetikmarken zu sein, darunter bekannte Namen wie COSRX, Etude House, Hada Labo und Rohto, und bezieht Produkte von Herstellern oder offiziellen Partnern. Als Tochtergesellschaft der börsennotierten YesAsia Holdings unterliegt das Unternehmen Transparenzpflichten."
@@ -59,7 +59,20 @@
       "imageFit": "square"
     },
     {
-      "heading": "Tipps Vor Der Bestellung",
+      "heading": "Sind die Produkte von YesStyle original? Woher kommt YesStyle?",
+      "paragraphs": [
+        "YesStyle kommt aus Hongkong. Das Unternehmen wurde dort 2006 gegründet und gehört zur YesAsia Holdings Limited, die an der Hongkonger Börse notiert ist (Code 2209.HK) und auch den Shop YesAsia sowie AsianBeautyWholesale betreibt, eine Großhandelsplattform für asiatische Beauty-Produkte.",
+        "Zur Echtheit: YesStyle gibt an, autorisierter Händler von mehr als 400 koreanischen Kosmetikmarken zu sein und bei den Herstellern oder bei von ihnen autorisierten Distributoren einzukaufen. Eine unabhängige Prüfung, die diese Angabe bestätigt, haben wir nicht gefunden. Deshalb hier einige Kontrollen, die Sie selbst vornehmen können (unser Vorschlag, nicht der des Shops):"
+      ],
+      "bullets": [
+        "Prüfen Sie auf der Produktseite, ob Marke und Produktname mit der offiziellen Website der Marke übereinstimmen;",
+        "Suchen Sie auf der Verpackung den aufgedruckten Chargencode und das Haltbarkeitsdatum und prüfen Sie das Datum vor dem Öffnen;",
+        "Kontrollieren Sie bei der Lieferung das Siegel am Produkt und an der Verpackung;",
+        "Wenn etwas anders aussieht als angegeben, verwenden Sie das Produkt nicht und wenden Sie sich zuerst an den YesStyle-Kundenservice."
+      ]
+    },
+    {
+      "heading": "Tipps vor der Bestellung",
       "paragraphs": [
         "Beachten Sie vor Ihrem Kauf folgende Empfehlungen:"
       ],
@@ -70,18 +83,19 @@
       ]
     },
     {
-      "heading": "Rabattcode und Zusätzliche Ersparnis",
+      "heading": "Reward Code und zusätzliche Ersparnis",
       "paragraphs": [
-        "Em Casa com Cecília unterhält eine Partnerschaft mit YesStyle. Durch Eingabe des Rabattcodes CECILIA010 im Feld 'Reward Code' beim Checkout erhalten Sie 5 % Extra-Rabatt bei der Erstbestellung und 2 % bei Folgebestellungen. Kombinierbar mit Aktionsgutscheinen.",
-        "Der Code CECILIA010 ist dauerhaft gültig und für Käufer völlig kostenlos."
+        "Em Casa com Cecília unterhält eine Partnerschaft mit YesStyle. Durch Eingabe des Reward Codes CECILIA010 im Feld 'Reward Code' beim Checkout erhalten Sie 5 % Extra-Rabatt bei der Erstbestellung und 2 % bei Folgebestellungen. Kombinierbar mit Aktionsgutscheinen.",
+        "Der Reward Code CECILIA010 hat kein Ablaufdatum und bleibt aktiv, solange die Partnerschaft mit YesStyle besteht. Für Käufer entstehen dadurch keine Zusatzkosten."
       ],
       "bullets": []
     },
     {
-      "heading": "Häufig Gestellte Fragen",
+      "heading": "Häufig gestellte Fragen",
       "bullets": [
         "Ist YesStyle seriös? Ja, YesStyle ist ein etablierter Online-Shop (gegründet 2006) und Tochterunternehmen der börsennotierten YesAsia Holdings (2209.HK).",
-        "Sind die Produkte original? YesStyle gibt an, autorisierter Händler für über 400 koreanische Kosmetikmarken zu sein und von offiziellen Herstellern oder Vertragspartnern zu beziehen.",
+        "Woher kommt YesStyle? Aus Hongkong: Das Unternehmen wurde dort 2006 gegründet und gehört zur YesAsia Holdings, die an der Hongkonger Börse notiert ist (2209.HK).",
+        "Sind YesStyle-Produkte original oder gefälscht? YesStyle gibt an, autorisierter Händler von mehr als 400 koreanischen Kosmetikmarken zu sein und bei Herstellern oder autorisierten Partnern einzukaufen. Eine unabhängige Prüfung dieser Angabe haben wir nicht gefunden; kontrollieren Sie bei Lieferung Chargencode, Haltbarkeitsdatum und Siegel.",
         "Wie lange dauert der Versand? Der internationale Standardversand dauert in der Regel 7 bis 14 Werktage.",
         "Wie löse ich CECILIA010 ein? Tragen Sie den Code CECILIA010 im Feld 'Reward Code' beim Checkout ein."
       ]

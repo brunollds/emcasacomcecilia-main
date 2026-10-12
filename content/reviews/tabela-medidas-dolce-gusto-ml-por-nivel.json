@@ -2,6 +2,7 @@
   "id": 243,
   "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
   "title": "Tabela de medidas Dolce Gusto: quantos ml saem em cada nível?",
+  "seoTitle": "Tabela de medidas Dolce Gusto: ml por risco, do 1 ao 7 e XL",
   "type": "Guia",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -13,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "Tabela de referência construída a partir dos manuais da Genio S Touch e da Mini Me 2.0, agora com fotos da tabela impressa na embalagem — inclui cafés, lattes, bebidas em duas etapas e XL.",
-  "metaDescription": "Quantos ml saem em cada nível da Dolce Gusto? Veja a referência confirmada nos manuais da Genio S Touch e da Mini Me 2.0, do nível 1 à função XL.",
+  "metaDescription": "Quantos ml tem cada risco (traço ou barra) da Dolce Gusto, do 1 ao 7 e no XL, segundo os manuais da Genio S Touch e da Mini Me, com a tabela da caixa.",
   "publishedAt": "2 de agosto de 2026",
   "publishedAtISO": "2026-08-02",
   "draft": false,
@@ -65,8 +66,9 @@
       "imageFit": "contain"
     },
     {
-      "heading": "Terminologia: tracinho, barra, nível e lungo",
+      "heading": "Risco, traço, tracinho ou barra: é tudo o mesmo nível",
       "paragraphs": [
+        "Risco, risquinho, traço, tracinho ou barra: são nomes diferentes para a mesma marcação da escala de água. O manual da Genio S Touch fala em barras, e a Nestlé, em tracinhos.",
         "Uma curiosidade: a própria Nestlé usa a palavra 'tracinho' na documentação oficial. Você pode ver isso até na página do Adaptador NEO Start no site da marca, que menciona 'Para cafés espressos, faça com 1 tracinho de água, para Lungos, com 4 tracinhos'.",
         "Isso confirma que a própria marca usa os tracinhos como orientação de preparo e recomenda **4 tracinhos para lungo**. Nos exemplos reunidos no manual, esse nível aparece associado a aproximadamente 110-120 ml, mas não existe uma tabela oficial única que estabeleça essa equivalência para todas as cápsulas e máquinas."
       ],
@@ -116,7 +118,8 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Quantos ml cada botão ou tracinho da Dolce Gusto? A Nestlé não publica uma equivalência única para toda a linha. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, reunimos estas referências aproximadas: 1 barra = 35-40 ml, 2 = 50-60 ml, 3 = 80-90 ml, 4 = 110-120 ml, 5 = 140-150 ml, 6 = 170-180 ml, 7 = 200-220 ml e XL = 300 ml.",
+        "Quantos ml tem cada risco (tracinho) da Dolce Gusto? A Nestlé não publica uma equivalência única para toda a linha. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, reunimos estas referências aproximadas: 1 barra = 35-40 ml, 2 = 50-60 ml, 3 = 80-90 ml, 4 = 110-120 ml, 5 = 140-150 ml, 6 = 170-180 ml, 7 = 200-220 ml e XL = 300 ml.",
+        "Quantos ml faz uma cápsula Dolce Gusto? Depende da bebida: na tabela da caixa, os cafés pretos vão de 35 ml (Ristretto Ardenza) a 145 ml (Café Caseiro), e o número de riscos certo vem impresso em cada cápsula.",
         "E os níveis intermediários? Nos exemplos do manual, os volumes aumentam progressivamente entre as barras. As faixas deste artigo são uma compilação de diferentes cartões de receita, não uma calibração oficial universal.",
         "O que significam os tracinhos ou barras da Dolce Gusto? Eles indicam o nível de água recomendado para o preparo da cápsula. Mais tracinhos normalmente significam uma bebida de maior volume, mas o resultado deve ser tratado como aproximado.",
         "Quantos tracinhos para lungo? A Nestlé menciona 4 tracinhos de água para Lungos — esse dado vem da documentação oficial do Adaptador NEO Start.",
