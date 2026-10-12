@@ -1371,6 +1371,16 @@ function assertCouponShelf(where: string, section: string, coupons: readonly Cou
   });
 }
 
+// Na fila dos "Outros cupons", o item de fora é o item flex da fila que rola para o lado no celular: ele leva
+// a largura, o não encolher e o snap.
+function assertOthersRow(where: string, section: string) {
+  for (const item of elementsWithClass(section, 'revela')) {
+    for (const name of ['w-[200px]', 'shrink-0', 'snap-start', 'md:w-auto']) {
+      assert.ok(classesOf(item).includes(name), `${where}: o item sem ${name} (a fila do celular)`);
+    }
+  }
+}
+
 // O ímã à direita dos cupons é uma variante: a home, a home de cada idioma e as Novidades de /reviews seguem
 // com a tabela de antes, com o ímã à esquerda na posição 2.
 assert.deepEqual([0, 1, 2, 3, 4, 5].map((index) => cardDecorAt(index)), [
@@ -1381,10 +1391,14 @@ assert.deepEqual([0, 1, 2, 3, 4, 5].map((index) => cardDecorAt(index)), [
   { magnet: '-top-3 -right-3 bg-marinho', tilt: 'rotate-[-0.6deg]' },
   { magnet: '-top-3 -right-3 bg-amarelo-cupom', tilt: '-rotate-1' },
 ]);
-assert.deepEqual(
-  [0, 1, 2, 3, 4].map((index) => couponCardDecorAt(index).magnet),
-  ['-top-3 -right-3 bg-amarelo-cupom', null, '-top-3 -right-3 bg-laranja', null, '-top-3 -right-3 bg-marinho']
-);
+assert.deepEqual([0, 1, 2, 3, 4, 5].map((index) => couponCardDecorAt(index)), [
+  { magnet: '-top-3 -right-3 bg-amarelo-cupom', tilt: '-rotate-1' },
+  { magnet: null, tilt: '' },
+  { magnet: '-top-3 -right-3 bg-laranja', tilt: 'rotate-[0.5deg]' },
+  { magnet: null, tilt: '' },
+  { magnet: '-top-3 -right-3 bg-marinho', tilt: 'rotate-[-0.6deg]' },
+  { magnet: '-top-3 -right-3 bg-amarelo-cupom', tilt: '-rotate-1' },
+]);
 
 for (const category of hubSections.categories) {
   const section = between(couponsHubBody, `aria-labelledby="prateleira-${category.id}"`, ['aria-labelledby="prateleira-', 'aria-labelledby="perguntas"']);
@@ -1412,8 +1426,8 @@ for (const [file, shelf] of REVEAL_SHELVES) {
   assert.throws(() => assertRevealShelves(file, source.replaceAll('<RevealSection', '<section'), shelf), /não é um RevealSection/);
 }
 
-// Controles numa prateleira do hub: a posição trocada, o item sem a cascata, o ímã à esquerda e o cartão
-// sem a sombra do hover derrubam a trava.
+// Controles numa prateleira do hub: a posição trocada, o item sem a cascata, o ímã à esquerda (sem a direita,
+// ou com as duas) e o cartão sem a sombra do hover derrubam a trava.
 {
   const [category] = hubSections.categories;
   const section = between(couponsHubBody, `aria-labelledby="prateleira-${category.id}"`, ['aria-labelledby="prateleira-', 'aria-labelledby="perguntas"']);
@@ -1421,6 +1435,7 @@ for (const [file, shelf] of REVEAL_SHELVES) {
     [section.replace('style="--i:0"', 'style="--i:1"'), /sem --i:0/],
     [section.replace('class="revela ', 'class="'), /cartões com a cascata/],
     [section.replace('-top-3 -right-3', '-top-3 -left-3'), /o ímã sem -right-3/],
+    [section.replace('-top-3 -right-3', '-top-3 -right-3 -left-3'), /ímã à esquerda/],
     [section.replace('motion-safe:group-hover/cupom:shadow-[4px_4px_0_var(--color-marinho)]', ''), /sem a sombra do hover/],
   ];
   for (const [mutated, message] of mutations) {
@@ -1431,6 +1446,8 @@ for (const [file, shelf] of REVEAL_SHELVES) {
 
 let couponMotionPages = 0;
 let storeCutouts = 0;
+let othersRows = 0;
+let othersSample = '';
 assert.ok(couponStorePages.length > 0, 'páginas de loja: nenhuma loja de couponsData para conferir');
 for (const { pagePath, store } of couponStorePages) {
   assert.ok(store, `${pagePath}: sem a loja em couponsData`);
@@ -1457,6 +1474,9 @@ for (const { pagePath, store } of couponStorePages) {
       `${pagePath}: as caixas de código dos "Outros cupons" sem o .recorte`
     );
     assertCouponShelf(`${pagePath}, Outros cupons`, othersSection, others);
+    assertOthersRow(`${pagePath}, Outros cupons`, othersSection);
+    othersSample ||= othersSection;
+    othersRows++;
   }
   assert.ok(!body.includes('data-reveal'), `${pagePath}: data-reveal no HTML`);
   storeCutouts += expected.total;
@@ -1480,6 +1500,16 @@ for (const { locale, hubPath } of yesStyleHubs) {
   couponMotionPages++;
 }
 assert.ok(storeCutouts > 0, 'páginas de loja: nenhum recorte com código nos dados');
+assert.ok(othersRows > 0, 'páginas de loja: nenhuma fila de "Outros cupons" conferida');
+// Controles na fila dos "Outros cupons": o item que perde a largura ou o não encolher derruba a trava.
+const othersRowMutations: [string, RegExp][] = [
+  [othersSample.replace('revela flex w-[200px] ', 'revela flex '), /o item sem w-\[200px\]/],
+  [othersSample.replace('revela flex w-[200px] shrink-0 ', 'revela flex w-[200px] '), /o item sem shrink-0/],
+];
+for (const [mutated, message] of othersRowMutations) {
+  assert.notEqual(mutated, othersSample, `controle: a mutação não achou o trecho (${message})`);
+  assert.throws(() => assertOthersRow('Outros cupons', mutated), message);
+}
 if (yesStyleWithoutPromos) {
   console.log('ℹ️ YesStyle sem cupons da loja ativos: a trava dos cupons da lista não teve o que conferir.');
 }
