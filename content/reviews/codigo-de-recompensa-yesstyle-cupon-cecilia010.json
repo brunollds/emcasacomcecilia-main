@@ -8,6 +8,7 @@
   "metaDescription": "Usa CECILIA010 en YesStyle para ganar Hasta 5% extra (5% en 1ª compra / 2% en recurrentes) y combinarlo con cupones en K-beauty, cosmética coreana y moda.",
   "publishedAt": "22 Jun 2026",
   "publishedAtISO": "2026-06-22",
+  "updatedAt": "2026-10-12",
   "draft": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
@@ -16,7 +17,7 @@
   "pros": [
     "Código de influenciador que suma un Hasta 5% extra (5% en 1ª compra / 2% en recurrentes) a los cupones activos",
     "Se puede usar junto con cupones promocionales elegibles en el sitio",
-    "Envío internacional gratuito en pedidos superiores a US$ 59",
+    "Envío gratis a partir de un importe mínimo que depende de tu país",
     "Catálogo extenso de K-Beauty, moda coreana y J-Beauty",
     "Productos 100% auténticos — distribuidor autorizado",
     "Sitio web disponible en español para compradores internacionales"
@@ -24,7 +25,7 @@
   "cons": [
     "No sustituye a los cupones normales (se aplica en un campo separado)",
     "Los pedidos internacionales pueden estar sujetos a aranceles aduaneros según tu ubicación",
-    "Plazos de envío internacional (10 a 25 días laborables para envío estándar)",
+    "Compra internacional: el plazo de entrega es mayor que el de una tienda local",
     "Facturación final en USD (sujeto a tipos de cambio bancarios)"
   ],
   "contentSections": [
@@ -49,7 +50,7 @@
       "heading": "¿Qué es YesStyle?",
       "paragraphs": [
         "YesStyle es una de las tiendas online más grandes del mundo especializada en moda asiática, cosmética coreana (K-Beauty), belleza japonesa (J-Beauty) y accesorios. Fundada en 2006 y con sede en Hong Kong, se ha convertido en el referente global para conseguir productos originales de marcas asiáticas.",
-        "YesStyle realiza envíos a más de 80 países, ofreciendo conversión de moneda para facilitar la compra. Su catálogo es inmenso: miles de artículos de skincare coreano, maquillaje, ropa y bienestar."
+        "YesStyle realiza envíos a más de 150 países y regiones, ofreciendo conversión de moneda para facilitar la compra. Su catálogo es inmenso: miles de artículos de skincare coreano, maquillaje, ropa y bienestar."
       ],
       "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
       "imageAlt": "Página de inicio de YesStyle con banner de ofertas de K-beauty.",
@@ -101,7 +102,7 @@
     {
       "heading": "2. Añade tus productos al carrito",
       "paragraphs": [
-        "Elige tus productos de cosmética coreana, maquillaje o ropa favoritos y añádelos a la cesta. Intenta superar el valor mínimo de compra para obtener envío gratis internacional (generalmente US$ 59)."
+        "Elige tus productos de cosmética coreana, maquillaje o ropa favoritos y añádelos a la cesta. El carrito muestra el importe mínimo para el envío gratis a tu país."
       ],
       "image": "/images/reviews/cupons/yesstyle-carrinho-checkout.webp",
       "imageAlt": "Carrito de compra de YesStyle con productos, envío gratis y campo de descuento.",
@@ -180,8 +181,8 @@
     {
       "heading": "Envío y plazos de entrega",
       "paragraphs": [
-        "El envío gratuito suele estar disponible para pedidos que superen los US$ 59. YesStyle proporciona un número de seguimiento internacional para todas sus modalidades de envío standard.",
-        "Los plazos de entrega varían según el país: los envíos estándar suelen demorar entre 10 y 25 días laborables, dependiendo de los procesos de aduana de tu zona."
+        "El envío estándar es gratis a partir de US$ 45 en España, México y Colombia, y de US$ 60 en Chile, Perú y Argentina, según la tabla vigente desde el 6 de octubre de 2026. YesStyle proporciona un número de seguimiento internacional para todas sus modalidades de envío standard.",
+        "El plazo es el tiempo que tarda el pedido en estar listo más el del envío estándar: de 10 a 15 días laborables a España, de 10 a 13 a México, de 15 a 20 a Chile, de 15 a 22 a Perú y Colombia, y de 15 a 27 a Argentina. La aduana puede añadir algunos días."
       ],
       "bullets": [
         "Seguimiento: número de seguimiento en el correo o la cuenta de YesStyle",
@@ -218,7 +219,7 @@
         "¿Los productos son originales? Sí, todos los productos son de procedencia directa de marcas y fabricantes autorizados.",
         "¿Cómo puedo pagar? Puedes pagar con tarjeta internacional o PayPal. La conversión de moneda se realiza de forma automática.",
         "¿Qué es el Elite Club? Es el programa de fidelización de YesStyle. Comprar te ayuda a sumar puntos para subir de nivel y obtener descuentos fijos.",
-        "¿Cómo rastrear mi pedido de YesStyle después de que se envía? Una vez que tu pedido se envía, YesStyle te envía un número de rastreo internacional por correo electrónico y también lo muestra en el historial de pedidos de tu cuenta. Puedes rastrearlo en sitios como 17track o en la página de la transportadora. El envío estándar suele tardar entre 15 y 30 días hábiles, dependiendo de tu país y posibles demoras aduaneras.",
+        "¿Cómo rastrear mi pedido de YesStyle después de que se envía? Una vez que tu pedido se envía, YesStyle te envía un número de rastreo internacional por correo electrónico y también lo muestra en el historial de pedidos de tu cuenta. Puedes rastrearlo en sitios como 17track o en la página de la transportadora. El plazo estimado para tu país aparece en el checkout, y la aduana puede añadir algunos días.",
         "¿Qué debo hacer si mi paquete de YesStyle queda retenido en aduana? Si la aduana de tu país retiene el paquete, es posible que debas pagar aranceles o impuestos de importación. Según la política de YesStyle, los pedidos elegibles por debajo de US$ 1.000 pueden calificar para un reembolso en crédito de tienda de los gastos aduaneros, si presentas el comprobante y envías la solicitud al servicio de atención en un plazo de 30 días. Verifica siempre el límite de importación de tu país antes de comprar.",
         "¿La ropa de YesStyle es pequeña? ¿Cómo elegir la talla asiática correcta? Sí, la mayoría de la ropa de YesStyle sigue el tallaje asiático, que suele ser más pequeño que el tallaje europeo o americano. Cada página de producto incluye una tabla de medidas en centímetros. Te recomendamos tomarte las medidas y compararlas con la tabla, y pedir una o dos tallas más para un ajuste cómodo, especialmente en prendas ajustadas.",
         "¿Cuáles son las marcas de K-beauty más vendidas en YesStyle? YesStyle es distribuidor autorizado de marcas populares de K-beauty como COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul y Haruharu. El sitio organiza los productos por categorías como esencias, tónicos, séruns y protectores solares, lo que facilita armar una rutina coreana de skincare.",

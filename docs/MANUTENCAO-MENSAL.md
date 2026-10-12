@@ -187,6 +187,27 @@ Ao alterar essa fonte, conferir a página PT e os nove hubs internacionais (`/en
 `/de`, `/it`, `/ko`, `/ja`, `/zh-hant` e `/zh-hans`). Traduções não podem inventar regras
 diferentes da fonte factual.
 
+**Frete e prazo nos artigos.** As famílias `yesstyle-trust` e `yesstyle-reward-code` citam o
+frete grátis e o prazo dos países de cada idioma, tirados da tabela
+`https://www.yesstyle.com/en/shipping-rates-delivery/help/section.html/hsi.732` (os dados ficam
+no HTML da página; não use o seletor de destino). Todo mês, conferir a linha "This Shipping Rate
+table is effective starting …": se a data mudou, comparar os países abaixo e atualizar os
+10 idiomas das duas famílias e o `updatedAt`.
+
+| Idioma | Países citados |
+|---|---|
+| en | EUA, Reino Unido, Canadá, Austrália |
+| es | Espanha, México, Colômbia, Chile, Peru, Argentina |
+| fr | França, Bélgica, Suíça, Canadá |
+| de | Alemanha, Áustria, Suíça |
+| it | Itália |
+| ja, ko | Japão; Coreia |
+| zh-hant, zh-hans | Taiwan e Hong Kong; Singapura e Malásia |
+
+O Brasil não está na tabela (pausa de 03/07/2026; os envios voltaram em setembro, pedido do
+Bruno). Os artigos em PT mandam conferir frete, mínimo e prazo no checkout. Só entra número para
+o Brasil com a tela do checkout ou quando o Brasil aparecer na tabela.
+
 ---
 
 ## 4. Artigos de marca parceira

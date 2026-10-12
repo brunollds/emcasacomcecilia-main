@@ -8,6 +8,7 @@
   "metaDescription": "Use CECILIA010 on YesStyle for up to 5% extra (5% 1st order / 2% returning) and stack it with eligible promo coupons on K-beauty, Korean skincare and fashion.",
   "publishedAt": "22 Jun 2026",
   "publishedAtISO": "2026-06-22",
+  "updatedAt": "2026-10-12",
   "draft": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
@@ -16,7 +17,7 @@
   "pros": [
     "Influencer code that adds up to 5% extra on top of eligible promo coupons",
     "Can be combined with eligible promo coupons on the site",
-    "Free international shipping on orders over US$ 59",
+    "Free shipping above a minimum order value that depends on your country",
     "Vast catalog of K-Beauty, J-Beauty, and Korean fashion",
     "100% authentic products — authorized distributor",
     "Site version available in English for international shoppers"
@@ -24,7 +25,7 @@
   "cons": [
     "Does not replace standard coupon codes (applied in a separate field)",
     "International orders may be subject to customs duties depending on your location",
-    "International shipping times (10 to 25 business days for standard method)",
+    "International purchase: delivery takes longer than from a local store",
     "Final billing in USD (subject to bank exchange rates)"
   ],
   "contentSections": [
@@ -49,7 +50,7 @@
       "heading": "What is YesStyle?",
       "paragraphs": [
         "YesStyle is one of the world's largest and most trusted e-commerce platforms for Korean skincare (K-beauty), Japanese beauty (J-beauty), Asian fashion, and accessories. Founded in 2006 and based in Hong Kong, the company has become a global destination for authentic products.",
-        "YesStyle ships to over 80 countries, providing localized currency conversion to make shopping easier. Its catalog is massive: thousands of skincare products, cosmetics, trendy clothing, and lifestyle items."
+        "YesStyle ships to more than 150 countries and regions, providing localized currency conversion to make shopping easier. Its catalog is massive: thousands of skincare products, cosmetics, trendy clothing, and lifestyle items."
       ],
       "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
       "imageAlt": "YesStyle homepage showing K-beauty promotional banner and featured items.",
@@ -101,7 +102,7 @@
     {
       "heading": "2. Choose your products and add them to your shopping bag",
       "paragraphs": [
-        "Browse the categories of K-Beauty skincare, makeup, or fashion, and add items to your shopping bag. Check the minimum order value required for free shipping to your country (typically around US$ 59)."
+        "Browse the categories of K-Beauty skincare, makeup, or fashion, and add items to your shopping bag. Your bag shows the minimum order value for free shipping to your country."
       ],
       "image": "/images/reviews/cupons/yesstyle-carrinho-checkout.webp",
       "imageAlt": "YesStyle shopping bag showing products, free shipping option, and coupon fields.",
@@ -180,8 +181,8 @@
     {
       "heading": "Shipping and delivery",
       "paragraphs": [
-        "Free shipping is available for most destinations on orders over US$ 59 (sometimes reduced to US$ 35 during specific campaigns). Standard shipping includes international tracking.",
-        "Delivery times depend on your destination: Standard shipping typically takes 10 to 25 business days, while Express shipping takes 5 to 10 business days depending on customs processing in your region."
+        "Free shipping starts at a minimum that depends on the country and the shipping method. In the table in force since October 6, 2026, Standard to the US is free from US$ 35, and Premium Standard from US$ 35 to Australia and from US$ 50 to the UK and Canada. Standard shipping includes international tracking.",
+        "Delivery time is the time your order takes to be ready plus the shipping time: 7 to 11 business days by Standard to the US, 5 to 12 by Premium Standard to the UK, 7 to 14 to Canada and 6 to 8 to Australia, or 3 to 5 by Express to the US, the UK and Australia. Customs can add a few days."
       ],
       "bullets": [
         "Tracking: a tracking code is provided for all orders and can be accessed in your email or YesStyle account",
@@ -218,7 +219,7 @@
         "Are the products authentic? Yes, YesStyle is an authorized distributor of all brands in its catalog, sourcing directly from manufacturers.",
         "How do I pay? Payments can be made with international credit cards or PayPal. Currency conversion is handled automatically.",
         "What is the Elite Club? YesStyle's loyalty program. Shopping helps you earn points to level up and get progressive discounts.",
-        "How do I track my YesStyle order after it ships? Once your order ships, YesStyle sends an international tracking number via email and displays it in your account order history. You can track parcels using 17track or the carrier's own website. Standard shipping usually takes 15–30 business days depending on your country, with possible customs delays.",
+        "How do I track my YesStyle order after it ships? Once your order ships, YesStyle sends an international tracking number via email and displays it in your account order history. You can track parcels using 17track or the carrier's own website. The delivery estimate for your country appears at checkout, and customs can add a few days.",
         "What should I do if my YesStyle package is held by customs? If your local customs office holds the package, you may need to pay import duties or VAT. According to YesStyle's policy, eligible orders under US$ 1,000 may qualify for a store-credit refund of customs fees if you submit a valid receipt and claim via customer support within 30 days. Always check your country's import threshold before ordering.",
         "Does YesStyle clothing run small? How do I choose the right Asian size? Yes, most YesStyle apparel follows Asian sizing, which tends to run smaller than US or European sizes. Each product page includes a size chart in centimeters. We recommend measuring yourself and comparing with the chart, and sizing up one or two sizes for a comfortable fit, especially for fitted styles.",
         "Which K-beauty brands are bestsellers on YesStyle? YesStyle is an authorized distributor of popular K-beauty brands such as COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul, and Haruharu. The site categorizes products by skincare steps—essences, toners, serums, and sunscreens—making it easy to build a Korean skincare routine.",
