@@ -8,7 +8,7 @@ reviewKind: "guia"
 type: "Comparativo de Lojas"
 status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "o Bruno escolhe a capa, A ou B (seção 5); depois redigir o PT (Job 2)"
+proxima_acao: "redigir o PT (Job 2); a capa é o gráfico B (seção 5)"
 bloqueado_por: null
 score_autoridade: 75
 score_conversao: 78
@@ -144,6 +144,7 @@ famílias de confiança e Black Friday está na seção 2.
   (b) um gráfico próprio simples da tabela. A capa da Black Friday já usa um quadro desse vídeo; repetir o quadro
   exige outro recorte.
   - **Opções mostradas ao Bruno em 12/10/2026** (folha em `midia-staging\2026-10-12-imagens-pendentes\yesstyle-ou-stylevana\opcoes-capa-a-b.jpg`): **A**, foto da Cecília com as caixas da YesStyle (o exemplo foi a capa do artigo da Abib; para esta pauta, foto ou quadro novo, sem a legenda queimada das miniaturas do YouTube); **B**, gráfico sem palavras além dos nomes: "YesStyle vs Stylevana" em texto e quatro linhas de ícones (onde entrega, frete, prazo, devolução), que serve aos 10 idiomas com uma imagem só. O print do site da YesStyle saiu da lista: mostra código de promoção da loja e uma campanha que vence. Recomendação: B. As cores dos marcadores do B só entram se baterem com a tabela da seção 6.
+  - **Decisão (Bruno, 12/10/2026): B.** Uma imagem para as 10 versões. O Job 4 parte do rascunho `midia-staging\2026-10-12-imagens-pendentes\yesstyle-ou-stylevana\opcao-b-grafico-rascunho.html`, acerta as cores dos marcadores pela tabela da seção 6 (ou tira as cores) e gera a imagem final.
 - **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md). Upload ao CDN só com o OK do Bruno.
 - **Imagens Inline / Seções:** nenhuma obrigatória; a tabela é HTML.
 - **Vídeo:** nenhum. Se o Bruno quiser o vídeo da Abib, é decorativo e o guia o apresenta como "o que veio da YesStyle".
@@ -373,7 +374,7 @@ Palavras fora dos títulos: confiável, legit, safe, scam, fake, melhor.
 4. **ICMS e o reembolso da YesStyle.** A política devolve "customs taxes, import duties, VAT e taxas
    administrativas"; o ICMS não é citado. Perguntar ao atendimento da YesStyle ou usar um caso real antes de a
    comparação (e a família de entrega) dizerem que o ICMS volta.
-5. **Decisão de capa:** A ou B (seção 5), com o Bruno.
+5. **Decisão de capa: RESOLVIDA (Bruno, 12/10/2026): B**, o gráfico sem palavras (seção 5).
 6. **Olive Young:** a central de ajuda tem FAQ sobre reembolso de taxas alfandegárias na UE
    (`help.global.oliveyoung.com/hc/pt/articles/16778291644431`), que não li; antes de a tabela dizer que o imposto
    "fica com o cliente", ler essa e a de taxa de baixo valor. A lista completa de países só aparece no seletor de
