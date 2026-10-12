@@ -215,10 +215,11 @@ vídeo, primeiras impressões e uso noturno.
   foco do teclado, o card meio escondido entra inteiro na tela. As bolinhas da vitrine ficam de
   fora: elas já centralizam a loja escolhida.
 - A capa do artigo nos cartões (a estante de `/reviews` e das subpáginas de loja, o hub de
-  `/<locale>/reviews`, a foto e as miniaturas da vitrine e o "Acabou de sair", que também serve a home de
-  cada idioma) segue uma regra só, `src/lib/cardImage.ts`: o `imageFit` e o `imagePosition` do JSON do
-  artigo. Sem `imageFit`, a foto de produto com nota fica inteira. Capa com texto ou print de site pede `"imageFit": "contain"`; a capa do
-  topo do artigo, larga, ignora o campo.
+  `/<locale>/reviews`, a foto e as miniaturas da vitrine, o "Acabou de sair", que também serve a home de
+  cada idioma, e a faixa da data comercial e a `/black-friday`) segue uma regra só, `src/lib/cardImage.ts`:
+  o `imageFit` e o `imagePosition` do JSON do artigo. Sem `imageFit`, a foto de produto com nota fica
+  inteira. Capa com texto ou print de site pede `"imageFit": "contain"`; a capa do topo do artigo, larga,
+  ignora o campo.
 - Onde um artigo aparece na home está na seção 10 do `docs/GUIA-EDITORIAL-GUIAS-ANALISES.md`.
 - A subpágina de loja e a página da data compartilham com imagem (a da página de cupom da loja; na
   data, a capa do artigo mais novo) e levam JSON-LD de lista (`CollectionPage` e `BreadcrumbList`),

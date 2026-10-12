@@ -1,8 +1,10 @@
 import type { CSSProperties } from 'react';
 
-// A capa do artigo nos cartões (a estante de /reviews e das subpáginas de loja, a vitrine e o "Acabou de
-// sair" da home) segue uma regra só, vinda do JSON do artigo. Sem imageFit, a foto de produto com nota fica
-// inteira e o resto cobre o cartão. Capa com texto ou print de site pede "imageFit": "contain".
+// A capa do artigo nos cartões segue uma regra só, vinda do JSON do artigo. Quem a usa: a estante de /reviews
+// e das subpáginas de loja, o hub de /<locale>/reviews, a foto e as miniaturas da vitrine da home, o "Acabou
+// de sair" (também nas homes dos outros idiomas) e a faixa da data comercial (home e /black-friday). Sem
+// imageFit, a foto de produto com nota fica inteira e o resto cobre o cartão. Capa com texto ou print de
+// site pede "imageFit": "contain".
 export type CardImageFit = 'cover' | 'contain';
 export type CardImagePosition = 'center' | 'top' | 'bottom' | 'left' | 'right';
 
