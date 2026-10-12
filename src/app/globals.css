@@ -365,6 +365,53 @@ html:lang(ja) {
   }
 }
 
+/* /cupons e páginas de loja (D2.2): o recorte com código (.recorte) é toda caixa tracejada com botão de
+   copiar. O useCopyCode deixa o data-copied do botão em "true" por 2,2 s, e o recorte reage pelo :has().
+   O verde vale com ou sem movimento e fica fora de @layer, para vencer as classes de borda e de fundo do
+   Tailwind. */
+.recorte:has([data-copied='true']) {
+  border-style: solid;
+  border-color: var(--color-verde-escuro);
+  background-color: var(--color-verde-claro);
+}
+
+/* A tesoura do hub fica metade sobre o cartão e metade sobre o recorte: no verde, o fundo dela é branco
+   até a linha tracejada (os 11px do -top-[11px] dela) e verde-claro dali para baixo. */
+.recorte:has([data-copied='true']) .recorte-tesoura-papel {
+  background: linear-gradient(var(--color-white) 11px, var(--color-verde-claro) 11px);
+}
+
+/* Ao copiar, a tesoura corre pela linha de cima em 650 ms e, a 550 ms, o recorte se solta do papel. A
+   corrida anda em cqi: o recorte com tesoura vira container de largura, sem mudar o layout, porque ele já
+   ocupa a largura do pai. A ida tem o atraso de 550 ms do :has(); a volta, quando o data-copied volta a
+   "false", é a transição de 250 ms do .recorte, sem atraso. */
+@media screen and (prefers-reduced-motion: no-preference) {
+  .recorte {
+    transition:
+      translate 250ms ease-out,
+      box-shadow 250ms ease-out;
+  }
+
+  .recorte:has(.recorte-tesoura) {
+    container-type: inline-size;
+  }
+
+  .recorte-tesoura {
+    transition: translate 250ms ease-out;
+  }
+
+  .recorte:has([data-copied='true']) {
+    translate: -3px -3px;
+    box-shadow: 4px 4px 0 var(--color-marinho);
+    transition-delay: 550ms;
+  }
+
+  .recorte:has([data-copied='true']) .recorte-tesoura {
+    translate: calc(100cqi - 2rem) 0;
+    transition: translate 650ms cubic-bezier(0.45, 0, 0.2, 1);
+  }
+}
+
 /* Scrollbar customizada */
 ::-webkit-scrollbar {
   width: 8px;

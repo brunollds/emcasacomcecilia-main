@@ -215,12 +215,17 @@ export function HubCouponCard({
           <p className={`font-medium text-marinho-suave ${v.note}`}>{asSentence(coupon.shortDescription)}</p>
         </div>
       </Link>
+      {/* Com código, o recorte é um .recorte (globals.css): fica verde e se solta ao copiar, e a tesoura
+          corre pela linha. Sem código (faixas ou link), a tesoura fica parada. */}
       <div
-        className={`relative z-10 border-2 border-dashed border-marinho bg-white has-[[data-copied=true]]:border-solid has-[[data-copied=true]]:border-verde-escuro has-[[data-copied=true]]:bg-verde-claro ${v.cutout} ${
-          code ? v.codeLayout : 'flex flex-col gap-2 px-2.5 pt-3 pb-2.5'
+        className={`relative z-10 border-2 border-dashed border-marinho bg-white ${v.cutout} ${
+          code ? `recorte ${v.codeLayout}` : 'flex flex-col gap-2 px-2.5 pt-3 pb-2.5'
         }`}
       >
-        <span aria-hidden="true" className="absolute -top-[11px] left-2 flex bg-white px-[3px]">
+        <span
+          aria-hidden="true"
+          className={`absolute -top-[11px] left-2 flex bg-white px-[3px] ${code ? 'recorte-tesoura recorte-tesoura-papel' : ''}`}
+        >
           <Scissors className="h-4 w-4" />
         </span>
         {code ? (

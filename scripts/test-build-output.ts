@@ -14,7 +14,7 @@ import { brandLinks, socialMedias } from '../src/lib/brandLinks';
 import { CECILIA_FULL_NAME } from '../src/lib/ceciliaCredentials';
 import { inferReviewKind, type EditorialNoteData, type Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
-import { getAllActiveCouponSlugs, getCouponBySlug, getStoreCodeKind } from '../src/lib/couponsData';
+import { getAllActiveCouponSlugs, getCouponBySlug, getCouponHubSections, getStoreCodeKind, type Coupon } from '../src/lib/couponsData';
 import {
   getCouponLanguageLinks,
   getCouponStorePath,
@@ -74,6 +74,13 @@ function enclosingBlockHeader(source: string, index: number) {
     }
   }
   return '';
+}
+
+// As declarações da regra do CSS minificado em que está a posição `index` de um seletor: do `{` que fecha
+// o seletor ao `}` seguinte. Serve para as regras simples, sem bloco dentro.
+function declarationsAt(source: string, index: number) {
+  const open = source.indexOf('{', index);
+  return source.slice(open + 1, source.indexOf('}', open));
 }
 
 // Página (.html) ou rota de texto (.body) gerada para a URL. Sem arquivo, a URL é de fora do site,
@@ -323,6 +330,74 @@ assertShelfMotionOnlyWhenAllowed(css);
   assert.throws(() => assertShelfMotionOnlyWhenAllowed(css.replaceAll('.carimbo-assenta', '.carimbo-outro')), /sem \.carimbo-assenta/);
 }
 
+// O recorte com código de /cupons e das páginas de loja (D2.2). O verde do copiado vale com ou sem
+// movimento: fica no nível de cima do CSS, fora de @media e de @layer, para vencer as classes de borda e
+// de fundo do Tailwind. O Lightning CSS tira as aspas do [data-copied='true'].
+const COPIED_CUTOUT_RULE = /\.recorte:has\(\[data-copied=true\]\)\{([^}]*)\}/g;
+function assertCopiedCutoutColor(source: string) {
+  const color = [...source.matchAll(COPIED_CUTOUT_RULE)].find((rule) => enclosingBlockHeader(source, rule.index) === '');
+  assert.ok(color, 'CSS sem o verde do recorte copiado (.recorte:has([data-copied=true])) fora de @media e de @layer');
+  for (const declaration of ['border-style:solid', 'border-color:var(--color-verde-escuro)', 'background-color:var(--color-verde-claro)']) {
+    assert.ok(color[1].split(';').includes(declaration), `CSS: o verde do recorte copiado sem ${declaration}`);
+  }
+}
+assertCopiedCutoutColor(css);
+// As cores vêm do @theme inline, que só põe no CSS a variável que alguma regra usa.
+for (const variable of ['--color-verde-escuro', '--color-verde-claro']) {
+  assert.match(css, new RegExp(`${variable}:#`), `CSS sem ${variable}: o verde do recorte copiado ficaria sem cor`);
+}
+
+// O movimento das classes novas de /cupons só com o movimento liberado. A trava olha a declaração, não o
+// seletor: o .recorte também está na regra do verde, que vale sempre.
+const COUPON_MOTION_SELECTORS = ['.recorte', '.recorte-tesoura'];
+const MOTION_PROPERTY = /^(?:animation|transition)(?:-[a-z-]+)?$|^(?:translate|scale|rotate|box-shadow|container|container-type)$/;
+function assertCouponMotionOnlyWhenAllowed(source: string) {
+  for (const selector of COUPON_MOTION_SELECTORS) {
+    let motionRules = 0;
+    for (const at of occurrencesOf(source, selector)) {
+      const properties = declarationsAt(source, at)
+        .split(';')
+        .map((declaration) => declaration.split(':')[0].trim())
+        .filter((property) => MOTION_PROPERTY.test(property));
+      if (properties.length === 0) continue;
+      motionRules++;
+      assert.match(
+        enclosingBlockHeader(source, at),
+        /prefers-reduced-motion:\s*no-preference/,
+        `CSS com ${properties.join(', ')} de ${selector} fora do @media de prefers-reduced-motion: no-preference`
+      );
+    }
+    assert.ok(motionRules > 0, `CSS sem o movimento de ${selector}`);
+  }
+}
+assertCouponMotionOnlyWhenAllowed(css);
+// Controles, numa cópia do CSS: o verde que entra num @media ou perde uma declaração, a regra de movimento
+// solta fora do @media, o @media que perde o no-preference e o seletor que some derrubam as travas; a
+// regra só de cor, fora do @media, passa.
+{
+  const color = [...css.matchAll(COPIED_CUTOUT_RULE)].find((rule) => enclosingBlockHeader(css, rule.index) === '');
+  assert.ok(color, 'controle: o verde do recorte não foi achado');
+  const withColorRule = (rule: string) => css.slice(0, color.index) + rule + css.slice(color.index + color[0].length);
+  assert.throws(() => assertCopiedCutoutColor(withColorRule(`@media print{${color[0]}}`)), /sem o verde do recorte copiado/);
+  assert.throws(
+    () => assertCopiedCutoutColor(withColorRule(color[0].replace('border-style:solid', 'border-style:dashed'))),
+    /sem border-style:solid/
+  );
+
+  assert.throws(() => assertCouponMotionOnlyWhenAllowed(`${css}\n.recorte-tesoura{transition:none}`), /transition de \.recorte-tesoura fora do @media/);
+  assert.throws(() => assertCouponMotionOnlyWhenAllowed(`${css}\n.recorte{container-type:inline-size}`), /container-type de \.recorte fora do @media/);
+  assert.doesNotThrow(() => assertCouponMotionOnlyWhenAllowed(`${css}\n.recorte{border-style:solid}`));
+  const scissorsAt = occurrencesOf(css, '.recorte-tesoura')[0];
+  const header = enclosingBlockHeader(css, scissorsAt);
+  const headerAt = css.lastIndexOf(header, scissorsAt);
+  assert.ok(header && headerAt >= 0, 'controle: a .recorte-tesoura está dentro de um @media');
+  assert.throws(
+    () => assertCouponMotionOnlyWhenAllowed(css.slice(0, headerAt) + '@media screen' + css.slice(headerAt + header.length)),
+    /fora do @media/
+  );
+  assert.throws(() => assertCouponMotionOnlyWhenAllowed(css.replaceAll('.recorte-tesoura', '.recorte-x')), /sem o movimento de \.recorte-tesoura/);
+}
+
 const sitemapBody = read(path.join(APP_DIR, 'sitemap.xml.body'));
 const sitemapUrls = [...sitemapBody.matchAll(/<loc>([^<]+)<\/loc>/g)].map(([, url]) => url);
 assert.ok(sitemapUrls.length > 0, 'sitemap.xml sem URLs');
@@ -567,6 +642,28 @@ function openElementsAt(body: string, index: number) {
     else if (!selfClosing && !VOID_TAGS.has(name.toLowerCase())) open++;
   }
   return open;
+}
+
+// O elemento que abre em `start` (o `<` da tag), com o conteúdo, até a tag de mesmo nome que o fecha. O
+// React fecha todo elemento que não é vazio (não há <span/>), então contar as tags de mesmo nome basta.
+function elementAt(html: string, start: number) {
+  const name = html.slice(start).match(/^<([a-zA-Z][\w-]*)/)?.[1];
+  assert.ok(name, `elementAt: nenhuma tag na posição ${start}`);
+  if (VOID_TAGS.has(name.toLowerCase())) return html.slice(start, html.indexOf('>', start) + 1);
+  let depth = 0;
+  for (const match of html.slice(start).matchAll(new RegExp(`<(/?)${name}\\b[^>]*>`, 'g'))) {
+    depth += match[1] ? -1 : 1;
+    if (depth === 0) return html.slice(start, start + match.index + match[0].length);
+  }
+  assert.fail(`elementAt: <${name}> sem a tag que o fecha`);
+}
+// As classes da tag de abertura do elemento.
+const classesOf = (element: string) => element.match(/^<[^>]*?\sclass="([^"]*)"/)?.[1].split(/\s+/) ?? [];
+// Os elementos com a classe `token` inteira (recorte não pega recorte-tesoura), na ordem do HTML.
+function elementsWithClass(html: string, token: string) {
+  return [...html.matchAll(/<[a-zA-Z][\w-]*\s[^>]*>/g)]
+    .filter(([tag]) => classesOf(tag).includes(token))
+    .map((match) => elementAt(html, match.index));
 }
 
 // Textos da sidebar do desktop em todos os idiomas, menos os do idioma da página. O código de
@@ -1038,6 +1135,61 @@ const yesStyleListItem = jsonLdOf(read(couponsHubFile))
   ?.itemListElement.find(({ url }) => url === `${SITE_URL}${YESSTYLE_LOCALES.pt.hubPath}`);
 assert.ok(yesStyleListItem?.name.includes(rewardCode), `/cupons: YesStyle fora da ItemList ou sem o ${rewardCode}`);
 assert.doesNotMatch(yesStyleListItem.name, COUPON_WORD, `/cupons: a ItemList chama o ${rewardCode} de cupom`);
+
+// O movimento de /cupons e das páginas de loja (D2.2), contra os dados que montam cada página. O recorte
+// com código (.recorte) é toda caixa tracejada com botão de copiar, e só ela: a cor e o soltar reagem ao
+// data-copied do botão, e um recorte sem botão nunca reagiria. A tesoura que corre (.recorte-tesoura) é a
+// dos recortes que a têm: os cartões do hub com código e o recorte do topo das lojas com código.
+const hasCopyCode = (coupon: Coupon) => coupon.offerMode === 'discount-code' && !coupon.tiers?.length;
+type CutoutCount = { total: number; withScissors: number };
+function assertCopyCutouts(where: string, body: string, expected: CutoutCount) {
+  const cutouts = elementsWithClass(body, 'recorte');
+  assert.equal(cutouts.length, expected.total, `${where}: ${cutouts.length} recortes com código (.recorte); os dados pedem ${expected.total}`);
+  for (const cutout of cutouts) {
+    assert.ok(cutout.includes(' data-copied="'), `${where}: .recorte sem botão de copiar: ${cutout.slice(0, 200)}`);
+  }
+  const scissors = elementsWithClass(body, 'recorte-tesoura');
+  assert.equal(scissors.length, expected.withScissors, `${where}: ${scissors.length} tesouras que correm (.recorte-tesoura); os dados pedem ${expected.withScissors}`);
+  assert.equal(
+    cutouts.filter((cutout) => elementsWithClass(cutout, 'recorte-tesoura').length === 1).length,
+    expected.withScissors,
+    `${where}: tesoura (.recorte-tesoura) fora de um .recorte`
+  );
+}
+
+const couponsHubBody = bodyOf(read(couponsHubFile));
+const hubSections = getCouponHubSections();
+const hubCoupons = [...hubSections.featured, ...hubSections.categories.flatMap(({ coupons }) => coupons)];
+const hubCodeCards = hubCoupons.filter(hasCopyCode).length;
+assert.ok(hubCodeCards > 0, '/cupons: nenhum cartão com código nos dados');
+assertCopyCutouts('/cupons', couponsHubBody, { total: hubCodeCards, withScissors: hubCodeCards });
+// A tesoura do hub fica metade sobre o cartão e metade sobre o recorte: no verde, o fundo dela é o do papel.
+for (const scissors of elementsWithClass(couponsHubBody, 'recorte-tesoura')) {
+  assert.ok(classesOf(scissors).includes('recorte-tesoura-papel'), '/cupons: tesoura sem o fundo de papel (.recorte-tesoura-papel)');
+}
+// O verde é do .recorte, no globals.css: as classes has-[[data-copied=true]] de antes não voltam a /cupons.
+// A trava olha o HTML: o dock dos artigos usa as mesmas classes, e elas seguem no CSS.
+assert.ok(!couponsHubBody.includes('has-[[data-copied=true]]'), '/cupons: classe has-[[data-copied=true]] no HTML (o verde é do .recorte)');
+// Controles no HTML de /cupons: o recorte que perde a classe, a classe num recorte sem botão de copiar
+// (por conta e no lugar de outro) e a tesoura que perde a classe derrubam a trava.
+{
+  assert.ok(
+    hubCoupons.some((coupon) => !hasCopyCode(coupon)),
+    'controle: /cupons sem cartão sem código (faixas ou link); troque o controle abaixo'
+  );
+  const noCodeCutout = 'flex flex-col gap-2 px-2.5 pt-3 pb-2.5';
+  const expected = { total: hubCodeCards, withScissors: hubCodeCards };
+  const mutations: [string, RegExp][] = [
+    [couponsHubBody.replace(' recorte ', ' '), /recortes com código/],
+    [couponsHubBody.replace(noCodeCutout, `recorte ${noCodeCutout}`), /recortes com código/],
+    [couponsHubBody.replace(' recorte ', ' ').replace(noCodeCutout, `recorte ${noCodeCutout}`), /sem botão de copiar/],
+    [couponsHubBody.replace('recorte-tesoura recorte-tesoura-papel', 'recorte-tesoura-papel'), /tesouras que correm/],
+  ];
+  for (const [mutated, message] of mutations) {
+    assert.notEqual(mutated, couponsHubBody, `controle: a mutação não achou o trecho (${message})`);
+    assert.throws(() => assertCopyCutouts('/cupons', mutated, expected), message);
+  }
+}
 
 // /categorias ficou sem link no site, saiu do sitemap e do Google, mas segue no ar (decisão do Bruno, 08/10).
 assert.ok(!sitemapUrls.includes(`${SITE_URL}/categorias`), 'sitemap.xml com /categorias');
