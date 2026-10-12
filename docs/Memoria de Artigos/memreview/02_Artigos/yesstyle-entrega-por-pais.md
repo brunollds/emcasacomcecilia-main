@@ -112,6 +112,10 @@ países daquele idioma**, na mesma família de 10 (nota do cluster
 limites: US$ 35 (EUA), US$ 45 (França, Alemanha, Itália, Espanha, Bélgica, Suíça, Áustria, Irlanda, México e Colômbia), US$ 50 (Canadá, Reino Unido
 em Premium Standard), US$ 60 (Portugal, Chile, Peru, Argentina) e nenhuma linha para o Brasil. Quando esta família sair, as famílias de
 confiança e a seção da Black Friday encurtam o trecho de frete e linkam para cá (decisão do Bruno; edição fora deste briefing).
+**Atualização de 12/10/2026:** a sessão de correção dos artigos publicados trocou os limites antigos pelos da tabela de 06/10 nas famílias
+yesstyle-trust e yesstyle-reward-code (20 arquivos, 10 idiomas, mesmo mapa de países desta pauta), com o Brasil mantido e frete,
+mínimo e prazo do Brasil como "aparecem no checkout" (commit `97631ca`, branch `claude/suspicious-matsumoto-c6bb98`, sem push).
+Fica para quando esta família sair: encurtar esses trechos e linkar para cá. Black Friday, skincare-30, kbeauty e guia de cupons não mudaram.
 
 ---
 
@@ -312,7 +316,7 @@ JA, KO e ZH com autocomplete vazio e 100 a 450 impressões por país: saem curta
    diz "o Imposto de Importação e as taxas cobradas na alfândega" e só.
 4. **Fonte da alfândega por país** (seção 7): decidir se há segunda rodada para México, Chile, Peru, Argentina, Colômbia, Japão, Coreia,
    Taiwan, Hong Kong e Canadá, ou se o texto fica com a regra da YesStyle.
-5. **Revisão das famílias de confiança e da Black Friday** (seção 2, "Conflitos"): quando esta família sair, encurtar o trecho de frete e a FAQ de prazo.
+5. **Revisão das famílias de confiança e da Black Friday** (seção 2, "Conflitos"): **em parte resolvida em 12/10/2026** (`97631ca`: limites novos nas famílias de confiança e do código de recompensa; a revisão mensal já pede a data da tabela). Falta, quando esta família sair, encurtar o trecho de frete e a FAQ de prazo e linkar para cá.
 6. **Revisão mensal:** a linha "effective starting …" da página `hsi.732`, a seção de avisos, as páginas de imposto e a Receita Federal
    entram na seção 3 de `docs/MANUTENCAO-MENSAL.md`; a tabela mudou em 06/10 e os limites do texto antigo (US$ 59) já não existem.
 7. **Releitura das traduções (Job 4, item 10): exceção aprovada em 12/10/2026 (decisão A).** Contra a matriz da seção 6, linha a
