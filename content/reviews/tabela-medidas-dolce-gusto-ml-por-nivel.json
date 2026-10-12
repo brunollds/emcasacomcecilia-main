@@ -55,7 +55,7 @@
     {
       "heading": "Como funciona a variação de volume por nível",
       "paragraphs": [
-        "A escala de seletores varia de 1 a 7 barras mais a opção XL. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, os volumes progridem de cerca de 35-40 ml no nível 1 até 200-220 ml no nível 7, enquanto a função XL aparece com 300 ml.",
+        "A escala de seletores varia de 1 a 7 barras mais a opção XL. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, os volumes progridem de cerca de 35-40 ml no nível 1 até 200-220 ml no nível 7, enquanto a função XL, que a Mini Me 2.0 não tem, aparece com 300 ml no manual da Genio S Touch.",
         "Cada cápsula traz uma quantidade recomendada impressa na embalagem em forma de barras. Ao selecionar o número correspondente no painel touch, a máquina segue o nível indicado para aquela receita; o volume final deve ser entendido como aproximado e pode variar conforme a bebida e o modelo.",
         "Nas bebidas preparadas em duas etapas, como lattes e cappuccinos, o volume total no copo é a soma das extrações. Na tabela fotografada, o cappuccino combina 200 ml da etapa de leite com 40 ml da etapa de café, totalizando 240 ml. O latte macchiato combina 170 ml de leite e 50 ml de café, totalizando 220 ml."
       ],
@@ -93,8 +93,8 @@
     {
       "heading": "XL nos manuais consultados: 300 ml",
       "paragraphs": [
-        "Algumas fontes associam a função XL a 280 ml. Nos manuais consultados da Genio S Touch e da Mini Me 2.0, porém, o gráfico mostra diretamente **300 ml para XL**. A repetição das mesmas medidas em dois modelos fortalece a referência, embora a Nestlé não disponibilize uma tabela única para toda a linha.",
-        "Se você tem uma máquina diferente e o manual dela traz outros valores, priorize a documentação do seu modelo. Esta referência foi confirmada nos manuais da Genio S Touch e da Mini Me 2.0."
+        "Algumas fontes associam a função XL a 280 ml. No manual da Genio S Touch, porém, o gráfico mostra diretamente **300 ml para XL**. A Mini Me 2.0 não tem a função XL, segundo o comparativo de máquinas da loja oficial, e a Nestlé não disponibiliza uma tabela única para toda a linha.",
+        "Se você tem uma máquina diferente e o manual dela traz outros valores, priorize a documentação do seu modelo. O XL de 300 ml foi confirmado no manual da Genio S Touch."
       ],
       "bullets": [],
       "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-4.webp",
@@ -118,12 +118,12 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Quantos ml tem cada risco (tracinho) da Dolce Gusto? A Nestlé não publica uma equivalência única para toda a linha. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, reunimos estas referências aproximadas: 1 barra = 35-40 ml, 2 = 50-60 ml, 3 = 80-90 ml, 4 = 110-120 ml, 5 = 140-150 ml, 6 = 170-180 ml, 7 = 200-220 ml e XL = 300 ml.",
+        "Quantos ml tem cada risco (tracinho) da Dolce Gusto? A Nestlé não publica uma equivalência única para toda a linha. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, reunimos estas referências aproximadas: 1 barra = 35-40 ml, 2 = 50-60 ml, 3 = 80-90 ml, 4 = 110-120 ml, 5 = 140-150 ml, 6 = 170-180 ml, 7 = 200-220 ml e XL = 300 ml (só na Genio S Touch: a Mini Me 2.0 não tem XL).",
         "Quantos ml faz uma cápsula Dolce Gusto? Depende da bebida: na tabela da caixa, os cafés pretos vão de 35 ml (Ristretto Ardenza) a 145 ml (Café Caseiro), e o número de riscos certo vem impresso em cada cápsula.",
         "E os níveis intermediários? Nos exemplos do manual, os volumes aumentam progressivamente entre as barras. As faixas deste artigo são uma compilação de diferentes cartões de receita, não uma calibração oficial universal.",
         "O que significam os tracinhos ou barras da Dolce Gusto? Eles indicam o nível de água recomendado para o preparo da cápsula. Mais tracinhos normalmente significam uma bebida de maior volume, mas o resultado deve ser tratado como aproximado.",
         "Quantos tracinhos para lungo? A Nestlé menciona 4 tracinhos de água para Lungos — esse dado vem da documentação oficial do Adaptador NEO Start.",
-        "Dolce Gusto XL: realmente 300 ml? Nos manuais consultados da Genio S Touch e da Mini Me 2.0, sim: ambos mostram 300 ml para a função XL. Outros modelos ou referências podem apresentar informações diferentes.",
+        "Dolce Gusto XL: realmente 300 ml? No manual da Genio S Touch, sim: o gráfico mostra 300 ml para a função XL. A Mini Me 2.0 não tem XL, segundo o comparativo da loja oficial, e outros modelos podem apresentar informações diferentes.",
         "Cupom CECI ainda é válido? Cupons promocionais têm prazo de validade e podem mudar. Se o CECI não estiver ativo quando você for comprar, o link da loja oficial neste artigo mostra a promoção vigente no momento."
       ]
     }
