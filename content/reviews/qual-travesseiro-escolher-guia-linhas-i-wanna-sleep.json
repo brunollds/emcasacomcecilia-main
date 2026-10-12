@@ -21,7 +21,7 @@
   "isNew": false,
   "image": "/images/reviews/iwannasleep/iws-catalogo-travesseiros.webp",
   "imageAlt": "Comparativo das linhas de travesseiro da I Wanna Sleep sobre a cama",
-  "imageFit": "cover",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
   "cons": [],

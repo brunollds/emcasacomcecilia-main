@@ -22,7 +22,7 @@
   "isNew": false,
   "image": "/images/reviews/dolcegusto/assinatura-dolce-gusto-como-assinar-hero.webp",
   "imageAlt": "Banner oficial da Dolce Gusto: como assinar em poucos passos. Selecione a partir de 3 sabores, defina se quer receber todo mês, a cada dois ou três meses, e suas bebidas chegam até você",
-  "imageFit": "cover",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
   "cons": [],

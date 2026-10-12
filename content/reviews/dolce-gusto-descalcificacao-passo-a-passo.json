@@ -21,7 +21,7 @@
   "isNew": false,
   "image": "/images/reviews/dolcegusto/descalcificacao-calcario-hero.webp",
   "imageAlt": "Ilustração de uma cafeteira de cápsulas com a luz laranja acesa e uma lupa mostrando o calcário estreitando o duto de água por dentro",
-  "imageFit": "cover",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
     "Explica o que causa o calcário em qualquer cafeteira, não só na Dolce Gusto",

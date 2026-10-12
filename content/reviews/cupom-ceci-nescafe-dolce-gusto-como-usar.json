@@ -12,7 +12,7 @@
   "updatedAt": "2026-10-01",
   "image": "/images/reviews/cupons/nescafe-dolce-gusto-hero.webp",
   "imageAlt": "Cápsulas de café NESCAFÉ Dolce Gusto e máquina de café em cima de uma mesa.",
-  "imageFit": "cover",
+  "imageFit": "contain",
   "imagePosition": "right",
   "gallery": [
     {

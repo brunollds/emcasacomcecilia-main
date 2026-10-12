@@ -32439,7 +32439,7 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-10-01",
     "image": "/images/reviews/cupons/nescafe-dolce-gusto-hero.webp",
     "imageAlt": "Cápsulas de café NESCAFÉ Dolce Gusto e máquina de café em cima de uma mesa.",
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imagePosition": "right",
     "gallery": [
       {
@@ -34020,7 +34020,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "image": "/images/reviews/nutren/nestle-nutre-hero.webp",
     "imageAlt": "Catálogo de marcas e linhas da Nestlé Nutre, incluindo Nutren, Isosource e Modulen",
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
     "cons": [],
@@ -37379,7 +37379,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "image": "/images/reviews/dolcegusto/assinatura-dolce-gusto-como-assinar-hero.webp",
     "imageAlt": "Banner oficial da Dolce Gusto: como assinar em poucos passos. Selecione a partir de 3 sabores, defina se quer receber todo mês, a cada dois ou três meses, e suas bebidas chegam até você",
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
     "cons": [],
@@ -37778,7 +37778,7 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Adaptador NESCAFÉ Dolce Gusto NEO Start oficial para máquinas da linha ORIGINAL",
     "publishedAtISO": "2026-08-04",
     "isNew": false,
-    "imageFit": "cover"
+    "imageFit": "contain"
   },
   {
     "id": 247,
@@ -42407,7 +42407,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "image": "/images/reviews/nutren/nutren-creatina-preco-2026-08-27.png",
     "imageAlt": "Campanha de lançamento da Nutren Creatina 300 g com embalagem, rendimento de 100 doses e preço consultado em agosto de 2026",
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAspect": "wide",
     "pros": [],
     "cons": [],
@@ -43303,7 +43303,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "image": "/images/reviews/iwannasleep/iws-catalogo-travesseiros.webp",
     "imageAlt": "Comparativo das linhas de travesseiro da I Wanna Sleep sobre a cama",
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
     "cons": [],
@@ -43714,7 +43714,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "image": "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-hero-v2.webp",
     "imageAlt": "Dolce Gusto vs Nespresso: qual a melhor para você? Ilustração comparando as duas cafeteiras",
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
     "cons": [],
@@ -47808,7 +47808,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "image": "/images/reviews/dolcegusto/descalcificacao-calcario-hero.webp",
     "imageAlt": "Ilustração de uma cafeteira de cápsulas com a luz laranja acesa e uma lupa mostrando o calcário estreitando o duto de água por dentro",
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "Explica o que causa o calcário em qualquer cafeteira, não só na Dolce Gusto",
@@ -50820,7 +50820,7 @@ export const reviewsData: unknown[] = [
     "isNew": true,
     "image": "/images/reviews/dolcegusto/assinatura-dolce-gusto-valor-hero.webp",
     "imageAlt": "Banners oficiais da Assinatura Dolce Gusto: preço por caixa com 25% (Regulares Geração I R$ 19,42, Especiais Geração I R$ 21,67, Regulares NEO R$ 21,70, Especiais NEO R$ 23,20) e benefícios de frete grátis, 1000 pontos e amostras grátis",
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "25% de desconto e frete grátis em todos os pedidos",
@@ -53767,7 +53767,7 @@ export const reviewsData: unknown[] = [
     "isNew": true,
     "image": "/images/reviews/insider/black-friday-insider-colecao-descontos-inteligentes.webp",
     "imageAlt": "Banner da coleção Black Friday Insider 2026 no site da Insider, com as frases Descontos inteligentes e Itens atemporais sobre um tecido azul-marinho",
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "A coleção da Black Friday já estava no ar em outubro, com a Tech T-Shirt a R$ 129",
