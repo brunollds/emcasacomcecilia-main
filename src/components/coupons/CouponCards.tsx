@@ -34,7 +34,7 @@ export function CouponShelfItem({ index, className, children }: { index: number;
   return (
     <div className={`revela flex ${className}`} style={{ '--i': index } as CSSProperties}>
       <div
-        className={`group/cupom relative flex flex-1 ${decor.tilt} motion-safe:transition-[translate,rotate] motion-safe:duration-300 motion-safe:hover:-translate-y-1 motion-safe:hover:rotate-0`}
+        className={`group/cupom relative flex min-w-0 flex-1 ${decor.tilt} motion-safe:transition-[translate,rotate] motion-safe:duration-300 motion-safe:hover:-translate-y-1 motion-safe:hover:rotate-0`}
       >
         {children}
         {decor.magnet ? (
@@ -197,10 +197,11 @@ const HUB_CARDS = {
   },
 } as const;
 
-// Os números dos Destaques carimbam um depois do outro, de 150 em 150 ms. A 1,25 vez (o padrão das lojas)
-// o número passaria da faixa do preço, que o cartão corta.
+// Os números dos Destaques carimbam um depois do outro, de 150 em 150 ms. A 1,25 vez e −6° (o padrão das lojas)
+// o número passaria da faixa do preço, que o cartão corta; 1,05 vez e −3° cabem a 375 e a 1280 px.
 const HUB_STAMP_STEP_MS = 150;
-const HUB_STAMP_SCALE = 1.12;
+const HUB_STAMP_SCALE = 1.05;
+const HUB_STAMP_ROTATION = '-3deg';
 
 type HubCardVariant = keyof typeof HUB_CARDS;
 
@@ -227,6 +228,7 @@ export function HubCouponCard({
       ? undefined
       : ({
           '--etiqueta-escala': HUB_STAMP_SCALE,
+          '--etiqueta-rotacao': HUB_STAMP_ROTATION,
           '--etiqueta-atraso': `${HUB_STAMP_STEP_MS * (stampOrder + 1)}ms`,
         } as CSSProperties);
 

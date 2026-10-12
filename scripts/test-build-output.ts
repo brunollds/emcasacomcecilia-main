@@ -465,6 +465,11 @@ function assertArrivalKeyframes(source: string) {
     assert.match(keyframes, /scale:/, `CSS: o @keyframes ${name} sem scale`);
     assert.match(keyframes, /rotate:/, `CSS: o @keyframes ${name} sem rotate`);
   }
+  assert.match(
+    keyframesOf(source, 'etiqueta-carimba'),
+    /rotate:var\(--etiqueta-rotacao,/,
+    'CSS: o @keyframes etiqueta-carimba sem o giro pela --etiqueta-rotacao (o hub gira menos)'
+  );
 }
 assertArrivalKeyframes(css);
 // Controles: a opacidade em qualquer dos dois @keyframes, o @keyframes renomeado e o que perde o scale ou o
@@ -475,6 +480,10 @@ const keyframesMutations: [string, RegExp][] = [
   [css.replace('@keyframes etiqueta-carimba{', '@keyframes etiqueta-x{'), /sem o @keyframes etiqueta-carimba/],
   [css.replace(/(@keyframes etiqueta-carimba\{[^}]*?)scale:/, '$1zoom:'), /etiqueta-carimba sem scale/],
   [css.replace(/(@keyframes recorte-assenta\{[^}]*?)rotate:/, '$1skew:'), /recorte-assenta sem rotate/],
+  [
+    css.replace(/(@keyframes etiqueta-carimba\{[^}]*?)rotate:var\(--etiqueta-rotacao,-6deg\)/, '$1rotate:-6deg'),
+    /giro pela --etiqueta-rotacao/,
+  ],
 ];
 for (const [mutated, message] of keyframesMutations) {
   assert.notEqual(mutated, css, `controle: a mutação não achou o trecho (${message})`);
@@ -1305,8 +1314,8 @@ function assertStoreCutout(where: string, body: string, copyable: boolean) {
 }
 
 // A etiqueta carimbada. Nas lojas: o número do topo, dentro do h1, num bloco (um span inline ignora scale
-// e rotate), e o recorte do topo que assenta. No hub: o número de cada Destaque, com a escala de 1,12 (o
-// cartão corta o que vaza) e o atraso pela posição, de 150 em 150 ms.
+// e rotate), e o recorte do topo que assenta. No hub: o número de cada Destaque, com a escala de 1,05 e o giro de −3° (o
+// cartão não corta o número) e o atraso pela posição, de 150 em 150 ms.
 function assertStoreArrival(where: string, body: string) {
   const stamps = elementsWithClass(body, 'etiqueta-entra');
   assert.equal(stamps.length, 1, `${where}: ${stamps.length} números com a etiqueta (.etiqueta-entra)`);
@@ -1326,10 +1335,15 @@ function assertHubStamps(body: string, featuredCount: number) {
   stamps.forEach((stamp, index) => {
     assert.equal(
       stamp.match(/^<[^>]*\sstyle="([^"]*)"/)?.[1],
-      `--etiqueta-escala:1.12;--etiqueta-atraso:${150 * (index + 1)}ms`,
+      `--etiqueta-escala:1.05;--etiqueta-rotacao:-3deg;--etiqueta-atraso:${150 * (index + 1)}ms`,
       `/cupons: a escala e o atraso da etiqueta do Destaque ${index + 1}`
     );
   });
+  assert.equal(
+    elementsWithClass(body, 'recorte-entra').length,
+    0,
+    '/cupons: recorte com .recorte-entra no hub (os recortes dos Destaques ficam parados)'
+  );
 }
 
 assert.ok(hubSections.featured.length > 0, '/cupons: sem Destaques nos dados');
@@ -1351,6 +1365,14 @@ function assertCouponShelf(where: string, section: string, coupons: readonly Cou
     const middleClasses = classesOf(middle);
     const decor = couponCardDecorAt(index);
     assert.ok(middleClasses.includes('group/cupom'), `${card}: sem o grupo do hover (group/cupom)`);
+    assert.ok(middleClasses.includes('min-w-0'), `${card}: o meio sem min-w-0 (o cartão passaria da coluna)`);
+    for (const name of ['motion-safe:transition-[translate,rotate]', 'motion-safe:hover:-translate-y-1', 'motion-safe:hover:rotate-0']) {
+      assert.ok(middleClasses.includes(name), `${card}: o meio sem ${name} (o hover só com o movimento liberado)`);
+    }
+    assert.ok(
+      !middleClasses.some((name) => name.startsWith('hover:')),
+      `${card}: hover sem motion-safe: no meio (mexeria com "reduzir movimento")`
+    );
     assert.deepEqual(
       middleClasses.filter((name) => /^-?rotate-/.test(name)),
       decor.tilt.split(' ').filter(Boolean),
@@ -1362,6 +1384,8 @@ function assertCouponShelf(where: string, section: string, coupons: readonly Cou
       const magnetClasses = classesOf(magnets[0]);
       for (const name of decor.magnet.split(' ')) assert.ok(magnetClasses.includes(name), `${card}: o ímã sem ${name}`);
       assert.ok(!magnetClasses.includes('-left-3'), `${card}: ímã à esquerda, sobre o número do desconto`);
+      assert.ok(magnetClasses.includes('pointer-events-none'), `${card}: o ímã sem pointer-events-none`);
+      assert.match(magnets[0], /^<span[^>]*\saria-hidden="true"/, `${card}: o ímã sem aria-hidden`);
     }
     const article = elementAt(middle, middle.indexOf('<article'));
     assert.ok(
@@ -1427,7 +1451,8 @@ for (const [file, shelf] of REVEAL_SHELVES) {
 }
 
 // Controles numa prateleira do hub: a posição trocada, o item sem a cascata, o ímã à esquerda (sem a direita,
-// ou com as duas) e o cartão sem a sombra do hover derrubam a trava.
+// ou com as duas), o cartão sem a sombra do hover, o meio sem o min-w-0, o hover sem motion-safe: e o ímã
+// sem pointer-events-none derrubam a trava.
 {
   const [category] = hubSections.categories;
   const section = between(couponsHubBody, `aria-labelledby="prateleira-${category.id}"`, ['aria-labelledby="prateleira-', 'aria-labelledby="perguntas"']);
@@ -1437,6 +1462,9 @@ for (const [file, shelf] of REVEAL_SHELVES) {
     [section.replace('-top-3 -right-3', '-top-3 -left-3'), /o ímã sem -right-3/],
     [section.replace('-top-3 -right-3', '-top-3 -right-3 -left-3'), /ímã à esquerda/],
     [section.replace('motion-safe:group-hover/cupom:shadow-[4px_4px_0_var(--color-marinho)]', ''), /sem a sombra do hover/],
+    [section.replace('group/cupom relative flex min-w-0 flex-1', 'group/cupom relative flex flex-1'), /o meio sem min-w-0/],
+    [section.replace('motion-safe:hover:-translate-y-1', 'hover:-translate-y-1'), /o meio sem motion-safe:hover:-translate-y-1/],
+    [section.replace('pointer-events-none absolute z-10 size-10', 'absolute z-10 size-10'), /o ímã sem pointer-events-none/],
   ];
   for (const [mutated, message] of mutations) {
     assert.notEqual(mutated, section, `controle: a mutação não achou o trecho (${message})`);
@@ -1446,6 +1474,7 @@ for (const [file, shelf] of REVEAL_SHELVES) {
 
 let couponMotionPages = 0;
 let storeCutouts = 0;
+let referralPages = 0;
 let othersRows = 0;
 let othersSample = '';
 assert.ok(couponStorePages.length > 0, 'páginas de loja: nenhuma loja de couponsData para conferir');
@@ -1465,6 +1494,7 @@ for (const { pagePath, store } of couponStorePages) {
   if (store.referral) {
     const referral = between(body, 'aria-labelledby="indicacao"', ['</section>']);
     assert.equal(elementsWithClass(referral, 'recorte').length, 1, `${pagePath}: a caixa do código de indicação sem o .recorte`);
+    referralPages++;
   }
   if (others.length > 0) {
     const othersSection = between(body, 'aria-labelledby="outros-cupons"', ['</section>']);
@@ -1500,6 +1530,7 @@ for (const { locale, hubPath } of yesStyleHubs) {
   couponMotionPages++;
 }
 assert.ok(storeCutouts > 0, 'páginas de loja: nenhum recorte com código nos dados');
+assert.ok(referralPages > 0, 'páginas de loja: nenhuma caixa de código de indicação conferida');
 assert.ok(othersRows > 0, 'páginas de loja: nenhuma fila de "Outros cupons" conferida');
 // Controles na fila dos "Outros cupons": o item que perde a largura ou o não encolher derruba a trava.
 const othersRowMutations: [string, RegExp][] = [
@@ -1553,7 +1584,9 @@ if (yesStyleWithoutPromos) {
   }
   const stampMutations: [string, RegExp][] = [
     [couponsHubBody.replace('--etiqueta-atraso:150ms', '--etiqueta-atraso:450ms'), /atraso da etiqueta do Destaque 1/],
-    [couponsHubBody.replace('--etiqueta-escala:1.12', '--etiqueta-escala:1.25'), /escala e o atraso da etiqueta do Destaque 1/],
+    [couponsHubBody.replace('--etiqueta-escala:1.05', '--etiqueta-escala:1.12'), /escala e o atraso da etiqueta do Destaque 1/],
+    [couponsHubBody.replace('--etiqueta-rotacao:-3deg;', ''), /escala e o atraso da etiqueta do Destaque 1/],
+    [couponsHubBody.replace(/(class="[^"]*\srecorte)(\s)/, '$1 recorte-entra$2'), /recorte com \.recorte-entra no hub/],
     [
       couponsHubBody
         .replace('etiqueta-entra relative z-10', 'relative z-10')
