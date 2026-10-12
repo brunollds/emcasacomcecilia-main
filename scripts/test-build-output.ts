@@ -365,7 +365,7 @@ for (const variable of ['--color-verde-escuro', '--color-verde-claro', '--color-
 // em movimento fica no @media. Para provar que o movimento existe, só conta a regra em que o seletor é o
 // sujeito: fora de um :has(…) e sem combinador depois dele. A regra do container,
 // .recorte:has(.recorte-tesoura), não é movimento da tesoura, e a da tesoura que corre não é do .recorte.
-const COUPON_MOTION_SELECTORS = ['.recorte', '.recorte-tesoura'];
+const COUPON_MOTION_SELECTORS = ['.recorte', '.recorte-tesoura', '.etiqueta-entra', '.recorte-entra'];
 const MOTION_PROPERTY = /^(?:animation|transition)(?:-[a-z-]+)?$|^(?:translate|scale|rotate|box-shadow|container|container-type)$/;
 function isSubjectAt(source: string, at: number, selector: string) {
   const end = at + source.slice(at).search(/[,{]/);
@@ -444,6 +444,30 @@ assertCouponMotionOnlyWhenAllowed(css);
   }
   assert.throws(() => assertCouponMotionOnlyWhenAllowed(css.replaceAll('.recorte-tesoura', '.recorte-x')), /sem o movimento de \.recorte-tesoura/);
 }
+
+// A chegada não parte de opacity: 0. O número do topo pode ser o LCP, e o recorte tem botões, que não podem
+// ficar invisíveis e clicáveis. O carimbo-assenta de /reviews, com opacity, segue só lá.
+function keyframesOf(source: string, name: string) {
+  const at = source.indexOf(`@keyframes ${name}{`);
+  assert.ok(at >= 0, `CSS sem o @keyframes ${name}`);
+  let depth = 0;
+  for (let i = source.indexOf('{', at); i < source.length; i++) {
+    if (source[i] === '{') depth++;
+    else if (source[i] === '}' && --depth === 0) return source.slice(at, i + 1);
+  }
+  assert.fail(`CSS: o @keyframes ${name} sem o fim`);
+}
+function assertArrivalKeyframes(source: string) {
+  for (const name of ['etiqueta-carimba', 'recorte-assenta']) {
+    const keyframes = keyframesOf(source, name);
+    assert.ok(!keyframes.includes('opacity'), `CSS: o @keyframes ${name} mexe na opacidade`);
+    assert.match(keyframes, /scale:/, `CSS: o @keyframes ${name} sem scale`);
+    assert.match(keyframes, /rotate:/, `CSS: o @keyframes ${name} sem rotate`);
+  }
+}
+assertArrivalKeyframes(css);
+assert.throws(() => assertArrivalKeyframes(css.replace('@keyframes recorte-assenta{', '@keyframes recorte-assenta{0%{opacity:0}')), /recorte-assenta mexe na opacidade/);
+assert.throws(() => assertArrivalKeyframes(css.replace('@keyframes etiqueta-carimba{', '@keyframes etiqueta-x{')), /sem o @keyframes etiqueta-carimba/);
 
 const sitemapBody = read(path.join(APP_DIR, 'sitemap.xml.body'));
 const sitemapUrls = [...sitemapBody.matchAll(/<loc>([^<]+)<\/loc>/g)].map(([, url]) => url);
@@ -1268,6 +1292,38 @@ function assertStoreCutout(where: string, body: string, copyable: boolean) {
   assert.ok(!cutout.includes('recorte-tesoura-papel'), `${where}: a tesoura do recorte do topo com o fundo de papel (.recorte-tesoura-papel)`);
 }
 
+// A etiqueta carimbada. Nas lojas: o número do topo, dentro do h1, num bloco (um span inline ignora scale
+// e rotate), e o recorte do topo que assenta. No hub: o número de cada Destaque, com a escala de 1,12 (o
+// cartão corta o que vaza) e o atraso pela posição, de 150 em 150 ms.
+function assertStoreArrival(where: string, body: string) {
+  const stamps = elementsWithClass(body, 'etiqueta-entra');
+  assert.equal(stamps.length, 1, `${where}: ${stamps.length} números com a etiqueta (.etiqueta-entra)`);
+  const h1At = body.indexOf('<h1');
+  assert.ok(h1At >= 0, `${where}: sem h1`);
+  assert.equal(elementsWithClass(elementAt(body, h1At), 'etiqueta-entra').length, 1, `${where}: a etiqueta fora do h1`);
+  assert.ok(classesOf(stamps[0]).includes('block'), `${where}: a etiqueta sem o block`);
+  assert.ok(
+    classesOf(elementAt(body, body.indexOf('<section id="cupom"'))).includes('recorte-entra'),
+    `${where}: o recorte do topo sem o .recorte-entra`
+  );
+}
+function assertHubStamps(body: string, featuredCount: number) {
+  const stamps = elementsWithClass(body, 'etiqueta-entra');
+  assert.equal(stamps.length, featuredCount, `/cupons: ${stamps.length} números com a etiqueta (.etiqueta-entra); os Destaques são ${featuredCount}`);
+  const featuredSection = between(body, 'aria-labelledby="destaques"', ['aria-labelledby="prateleira-']);
+  assert.equal(elementsWithClass(featuredSection, 'etiqueta-entra').length, featuredCount, '/cupons: etiqueta fora dos Destaques');
+  stamps.forEach((stamp, index) => {
+    assert.equal(
+      stamp.match(/^<[^>]*\sstyle="([^"]*)"/)?.[1],
+      `--etiqueta-escala:1.12;--etiqueta-atraso:${150 * (index + 1)}ms`,
+      `/cupons: a escala e o atraso da etiqueta do Destaque ${index + 1}`
+    );
+  });
+}
+
+assert.ok(hubSections.featured.length > 0, '/cupons: sem Destaques nos dados');
+assertHubStamps(couponsHubBody, hubSections.featured.length);
+
 let couponMotionPages = 0;
 let storeCutouts = 0;
 assert.ok(couponStorePages.length > 0, 'páginas de loja: nenhuma loja de couponsData para conferir');
@@ -1282,6 +1338,7 @@ for (const { pagePath, store } of couponStorePages) {
     withScissors: Number(copyable),
   };
   assertStoreCutout(pagePath, body, copyable);
+  assertStoreArrival(pagePath, body);
   assertCopyCutouts(pagePath, body, expected);
   if (store.referral) {
     const referral = between(body, 'aria-labelledby="indicacao"', ['</section>']);
@@ -1307,6 +1364,7 @@ for (const { locale, hubPath } of yesStyleHubs) {
   const body = builtBody(hubPath);
   const promos = resolved.activePromoOffers.length;
   assertStoreCutout(hubPath, body, true);
+  assertStoreArrival(hubPath, body);
   assertCopyCutouts(hubPath, body, { total: 1 + promos, withScissors: 1 });
   const list = between(body, 'aria-labelledby="cupons-da-loja"', ['</section>']);
   assert.equal(elementsWithClass(list, 'recorte').length, promos, `${hubPath}: os cupons da lista sem o .recorte`);
@@ -1341,6 +1399,9 @@ if (yesStyleWithoutPromos) {
     assert.notEqual(mutated, original, `controle: a mutação não achou o trecho (${message})`);
     assert.throws(() => assertStoreCutout(pagePath, mutated, copyable), message);
   }
+  assert.throws(() => assertStoreArrival(withCode.pagePath, withCode.body.replace('etiqueta-entra ', '')), /0 números com a etiqueta/);
+  assert.throws(() => assertStoreArrival(withCode.pagePath, withCode.body.replace(' recorte-entra', '')), /sem o \.recorte-entra/);
+  assert.throws(() => assertHubStamps(couponsHubBody.replace('--etiqueta-atraso:150ms', '--etiqueta-atraso:450ms'), hubSections.featured.length), /atraso da etiqueta do Destaque 1/);
 }
 
 // /categorias ficou sem link no site, saiu do sitemap e do Google, mas segue no ar (decisão do Bruno, 08/10).

@@ -412,6 +412,37 @@ html:lang(ja) {
   }
 }
 
+/* A chegada (D2.2): o número do topo das lojas carimba ao abrir a página, e o recorte do topo assenta
+   logo depois. No hub, carimbam os números dos Destaques, com a escala menor (--etiqueta-escala: o cartão
+   corta o que vaza) e o atraso pela posição (--etiqueta-atraso). Nada parte de opacity: 0: o número pode
+   ser o LCP, e o recorte tem botões, que não podem ficar invisíveis e clicáveis. O carimbo-assenta de
+   /reviews, com opacity, fica só lá. */
+@keyframes etiqueta-carimba {
+  from {
+    scale: var(--etiqueta-escala, 1.25);
+    rotate: -6deg;
+  }
+}
+
+@keyframes recorte-assenta {
+  from {
+    scale: 1.06;
+    rotate: -1.5deg;
+  }
+}
+
+@media screen and (prefers-reduced-motion: no-preference) {
+  .etiqueta-entra {
+    transform-origin: left bottom;
+    animation: etiqueta-carimba 600ms cubic-bezier(0.34, 1.56, 0.64, 1) backwards;
+    animation-delay: var(--etiqueta-atraso, 150ms);
+  }
+
+  .recorte-entra {
+    animation: recorte-assenta 500ms cubic-bezier(0.34, 1.56, 0.64, 1) 450ms backwards;
+  }
+}
+
 /* Scrollbar customizada */
 ::-webkit-scrollbar {
   width: 8px;

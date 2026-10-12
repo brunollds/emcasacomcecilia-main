@@ -177,7 +177,7 @@ export default function CuponsPage() {
             {/* Pensado para dois destaques: o primeiro fica com 3/5 da linha no desktop. */}
             <div className={`grid gap-3 md:gap-4 ${featured.length > 1 ? 'md:grid-cols-[3fr_2fr]' : ''}`}>
               {featured.map((coupon, index) => (
-                <HubCouponCard key={coupon.slug} coupon={coupon} variant={index === 0 ? 'lead' : 'featured'} />
+                <HubCouponCard key={coupon.slug} coupon={coupon} variant={index === 0 ? 'lead' : 'featured'} stampOrder={index} />
               ))}
             </div>
           </section>

@@ -1,3 +1,4 @@
+import type { CSSProperties } from 'react';
 import Link from 'next/link';
 import { Check, ChevronRight, Copy, ExternalLink, Scissors } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
@@ -164,6 +165,11 @@ const HUB_CARDS = {
   },
 } as const;
 
+// Os números dos Destaques carimbam um depois do outro, de 150 em 150 ms. A 1,25 vez (o padrão das lojas)
+// o número passaria da faixa do preço, que o cartão corta.
+const HUB_STAMP_STEP_MS = 150;
+const HUB_STAMP_SCALE = 1.12;
+
 type HubCardVariant = keyof typeof HUB_CARDS;
 
 // O card inteiro leva à página da loja; só o recorte com o código ou a ação fica fora do link.
@@ -171,16 +177,26 @@ export function HubCouponCard({
   coupon,
   variant,
   className = '',
+  stampOrder,
 }: {
   coupon: Coupon;
   variant: HubCardVariant;
   className?: string;
+  // A posição nos Destaques: só eles carimbam ao abrir a página.
+  stampOrder?: number;
 }) {
   const v = HUB_CARDS[variant];
   const featured = variant === 'lead' || variant === 'featured';
   const placement = featured ? 'coupon_hub_featured' : 'coupon_hub';
   const tiers = coupon.offerMode === 'discount-code' && coupon.tiers?.length ? coupon.tiers : null;
   const code = coupon.offerMode === 'discount-code' && !tiers ? coupon.code : null;
+  const stamp =
+    stampOrder === undefined
+      ? undefined
+      : ({
+          '--etiqueta-escala': HUB_STAMP_SCALE,
+          '--etiqueta-atraso': `${HUB_STAMP_STEP_MS * (stampOrder + 1)}ms`,
+        } as CSSProperties);
 
   return (
     <article
@@ -198,7 +214,7 @@ export function HubCouponCard({
         className="group/card flex flex-1 flex-col text-marinho focus-visible:outline-3 focus-visible:-outline-offset-6 focus-visible:outline-marinho"
       >
         <div className={`border-b-2 border-marinho ${v.price}`}>
-          <div className="relative z-10">
+          <div className={stamp ? 'etiqueta-entra relative z-10' : 'relative z-10'} style={stamp}>
             <DiscountFigure discount={coupon.discount} size={v.figure} />
           </div>
         </div>

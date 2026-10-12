@@ -75,7 +75,9 @@ export function StoreHero({
             <span className="font-condensada text-[30px] font-extrabold leading-8 font-stretch-condensed md:text-[40px] md:leading-[44px]">
               {titleLead}
             </span>{' '}
-            {titleFigure}
+            {/* O número carimba ao abrir a página (.etiqueta-entra, no globals.css). No h1 (flex flex-col) o
+                span já é item flex; o block deixa explícito que ele é bloco, e o scale e o rotate valem. */}
+            <span className="etiqueta-entra block">{titleFigure}</span>
             {titleEnd && (
               <>
                 {' '}
@@ -109,7 +111,8 @@ export function StoreContent({ children }: { children: ReactNode }) {
 
 // No desktop o recorte gruda logo abaixo do menu, que tem 129px até o xl e 85px depois. Com botão de
 // copiar (copyable), ele é um .recorte (globals.css): fica verde e se solta ao copiar, e a tesoura corre
-// pela linha. Sem botão (faixas ou só link), a tesoura fica parada.
+// pela linha. Sem botão (faixas ou só link), a tesoura fica parada. Ao abrir a página, ele assenta logo
+// depois do número do topo (.recorte-entra).
 export function StoreCutout({
   label,
   verified,
@@ -125,7 +128,7 @@ export function StoreCutout({
     <section
       id={STORE_CUTOUT_ID}
       aria-label={label}
-      className={`relative z-10 -mt-11 rounded-2xl border-[2.5px] border-dashed border-marinho bg-white px-[18px] pt-6 pb-[18px] lg:sticky lg:top-38 lg:col-start-2 lg:row-start-1 lg:-mt-48 lg:self-start xl:top-28 ${copyable ? 'recorte' : ''}`}
+      className={`relative z-10 -mt-11 rounded-2xl border-[2.5px] border-dashed border-marinho bg-white px-[18px] pt-6 pb-[18px] lg:sticky lg:top-38 lg:col-start-2 lg:row-start-1 lg:-mt-48 lg:self-start xl:top-28 recorte-entra ${copyable ? 'recorte' : ''}`}
     >
       <span
         aria-hidden="true"
