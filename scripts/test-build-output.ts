@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
 import homeEventsConfig from '../content/home-events.json';
+import { resolveYesStylePage } from '../src/components/coupons/yesstylePage';
 import { getArticleCopy } from '../src/components/review/articleCopy';
 import { getBodySections } from '../src/components/review/bodySections';
 import { getCouponCopyLabels } from '../src/components/review/couponCopyLocale';
@@ -14,7 +15,7 @@ import { brandLinks, socialMedias } from '../src/lib/brandLinks';
 import { CECILIA_FULL_NAME } from '../src/lib/ceciliaCredentials';
 import { inferReviewKind, type EditorialNoteData, type Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
-import { getAllActiveCouponSlugs, getCouponBySlug, getCouponHubSections, getStoreCodeKind, type Coupon } from '../src/lib/couponsData';
+import { getAllActiveCouponSlugs, getCouponBySlug, getCouponHubSections, getOtherActiveCoupons, getStoreCodeKind, type Coupon } from '../src/lib/couponsData';
 import {
   getCouponLanguageLinks,
   getCouponStorePath,
@@ -1245,6 +1246,96 @@ assertHubCutouts(couponsHubBody, { total: hubCodeCards, withScissors: hubCodeCar
   }
 }
 
+// As páginas de loja. O recorte do topo (id="cupom") é .recorte, com a tesoura que corre, só quando tem
+// botão de copiar. A caixa de indicação, os cupons da lista da YesStyle e as caixas de código dos "Outros
+// cupons" (só em PT) são recortes sem tesoura.
+const builtBody = (pagePath: string) => {
+  const file = builtFile(`${SITE_URL}${pagePath}`);
+  assert.ok(file, `${pagePath}: página não gerada no build`);
+  return bodyOf(read(file));
+};
+function assertStoreCutout(where: string, body: string, copyable: boolean) {
+  const at = body.indexOf('<section id="cupom"');
+  assert.ok(at >= 0, `${where}: sem o recorte do topo (id="cupom")`);
+  const cutout = elementAt(body, at);
+  assert.equal(classesOf(cutout).includes('recorte'), copyable, `${where}: o recorte do topo ${copyable ? 'sem' : 'com'} o .recorte`);
+  assert.equal(
+    elementsWithClass(cutout, 'recorte-tesoura').length,
+    copyable ? 1 : 0,
+    `${where}: ${copyable ? 'a tesoura do recorte do topo parada' : 'a tesoura do recorte do topo corre sem botão de copiar'}`
+  );
+}
+
+let couponMotionPages = 0;
+let storeCutouts = 0;
+for (const { pagePath, store } of couponStorePages) {
+  assert.ok(store, `${pagePath}: sem a loja em couponsData`);
+  const body = builtBody(pagePath);
+  // Os "Outros cupons" só existem em português (CouponStorePage).
+  const others = pagePath.startsWith('/cupons/') ? getOtherActiveCoupons(store.slug) : [];
+  const copyable = hasCopyCode(store);
+  const expected = {
+    total: Number(copyable) + Number(Boolean(store.referral)) + others.filter(hasCopyCode).length,
+    withScissors: Number(copyable),
+  };
+  assertStoreCutout(pagePath, body, copyable);
+  assertCopyCutouts(pagePath, body, expected);
+  if (store.referral) {
+    const referral = between(body, 'aria-labelledby="indicacao"', ['</section>']);
+    assert.equal(elementsWithClass(referral, 'recorte').length, 1, `${pagePath}: a caixa do código de indicação sem o .recorte`);
+  }
+  if (others.length > 0) {
+    const othersSection = between(body, 'aria-labelledby="outros-cupons"', ['</section>']);
+    assert.equal(
+      elementsWithClass(othersSection, 'recorte').length,
+      others.filter(hasCopyCode).length,
+      `${pagePath}: as caixas de código dos "Outros cupons" sem o .recorte`
+    );
+  }
+  storeCutouts += expected.total;
+  couponMotionPages++;
+}
+
+let yesStyleWithoutPromos = false;
+for (const { locale, hubPath } of yesStyleHubs) {
+  const resolved = resolveYesStylePage(locale);
+  assert.ok(resolved, `${hubPath}: sem os dados da YesStyle`);
+  const body = builtBody(hubPath);
+  const promos = resolved.activePromoOffers.length;
+  assertStoreCutout(hubPath, body, true);
+  assertCopyCutouts(hubPath, body, { total: 1 + promos, withScissors: 1 });
+  const list = between(body, 'aria-labelledby="cupons-da-loja"', ['</section>']);
+  assert.equal(elementsWithClass(list, 'recorte').length, promos, `${hubPath}: os cupons da lista sem o .recorte`);
+  yesStyleWithoutPromos ||= promos === 0;
+  storeCutouts += 1 + promos;
+  couponMotionPages++;
+}
+assert.ok(storeCutouts > 0, 'páginas de loja: nenhum recorte com código nos dados');
+if (yesStyleWithoutPromos) {
+  console.log('ℹ️ YesStyle sem cupons da loja ativos: a trava dos cupons da lista não teve o que conferir.');
+}
+// Controles: o recorte do topo que perde o .recorte numa loja com código, que o ganha numa loja sem
+// código e a tesoura que perde a classe derrubam a trava.
+{
+  const sample = (copyable: boolean) => {
+    const page = couponStorePages.find(({ store }) => store && hasCopyCode(store) === copyable);
+    assert.ok(page, `controle: sem página de loja ${copyable ? 'com' : 'sem'} código; troque o controle`);
+    return { pagePath: page.pagePath, body: builtBody(page.pagePath) };
+  };
+  const withCode = sample(true);
+  const withoutCode = sample(false);
+  const mutations: [string, string, boolean, RegExp][] = [
+    [withCode.pagePath, withCode.body.replace(/(<section id="cupom"[^>]*\sclass="[^"]*?) recorte(?=[ "])/, '$1'), true, /sem o \.recorte/],
+    [withCode.pagePath, withCode.body.replace(/ recorte-tesoura(?=[ "])/, ''), true, /tesoura do recorte do topo parada/],
+    [withoutCode.pagePath, withoutCode.body.replace(/(<section id="cupom"[^>]*\sclass=")/, '$1recorte '), false, /com o \.recorte/],
+  ];
+  for (const [pagePath, mutated, copyable, message] of mutations) {
+    const original = copyable ? withCode.body : withoutCode.body;
+    assert.notEqual(mutated, original, `controle: a mutação não achou o trecho (${message})`);
+    assert.throws(() => assertStoreCutout(pagePath, mutated, copyable), message);
+  }
+}
+
 // /categorias ficou sem link no site, saiu do sitemap e do Google, mas segue no ar (decisão do Bruno, 08/10).
 assert.ok(!sitemapUrls.includes(`${SITE_URL}/categorias`), 'sitemap.xml com /categorias');
 const categoriasFile = builtFile(`${SITE_URL}/categorias`);
@@ -2177,5 +2268,5 @@ const cardsIn = (section: string) => {
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, a nota editorial de ${notedArticles}, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, a nota editorial de ${notedArticles}, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
 );

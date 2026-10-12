@@ -54,7 +54,7 @@ export function OtherCouponCard({ coupon }: { coupon: Coupon }) {
         )}
       </Link>
       {code && (
-        <div className="relative z-10 mx-2.5 mb-2.5 flex items-center gap-1.5 rounded-lg border-2 border-dashed border-marinho bg-white pl-2.5">
+        <div className="recorte relative z-10 mx-2.5 mb-2.5 flex items-center gap-1.5 rounded-lg border-2 border-dashed border-marinho bg-white pl-2.5">
           <code className={`min-w-0 flex-1 break-all text-balance font-codigo font-extrabold leading-5 text-marinho ${otherCodeSize(code)}`}>
             {code}
           </code>

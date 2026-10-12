@@ -271,6 +271,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
         <StoreCutout
           label={couponCodeOffer ? copy.cutoutLabel.code(offerType, coupon.brand) : copy.cutoutLabel.link(offerType, coupon.brand)}
           verified={couponCodeOffer?.testNote ? copy.testedOn(lastVerified) : copy.verifiedOn(lastVerified)}
+          copyable={Boolean(couponCodeOffer && !tiers)}
         >
           {couponCodeOffer && !tiers && (
             <>
@@ -416,7 +417,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
           {coupon.referral && (
             <section aria-labelledby="indicacao">
               <SectionHeading id="indicacao">{coupon.referral.label}</SectionHeading>
-              <div className="mt-5 rounded-xl border-2 border-dashed border-marinho p-4">
+              <div className="recorte mt-5 rounded-xl border-2 border-dashed border-marinho p-4">
                 <div className="flex flex-wrap items-center gap-3">
                   <code className="font-codigo text-[26px] font-extrabold tracking-[0.06em]">{coupon.referral.code}</code>
                   <CompactCopyButton
