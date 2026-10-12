@@ -8,8 +8,8 @@ reviewKind: "editorial"
 type: "Editorial"
 status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "Bruno decide os pontos da seção 10 (em especial a regra do bloco de mercado dos 9 idiomas); depois redigir o PT (Job 2)"
-bloqueado_por: "decisão do Bruno sobre o bloco de mercado nos 9 idiomas (seção 8); não bloqueia o PT"
+proxima_acao: "redigir o PT (Job 2), registrando as duas fontes de imprensa com porta-voz para o país de origem (decisão B de 12/10); depois o Job 3 com o bloco de mercado de cada idioma, conferido linha a linha contra a seção 6; falta só a capa (seção 10, item 2)"
+bloqueado_por: null
 score_autoridade: 75
 score_conversao: 80
 score_ponderado_total: 75
@@ -83,7 +83,8 @@ autocompletar e dos resultados de busca, não do GSC.
 - [x] **6. Fontes Acessíveis, Exatas & Atuais:** matriz abaixo, lida em 12/10/2026. Dois pontos sem fonte
   oficial estão marcados "Não" (país de origem e CNPJ).
 - [x] **7. Decisão i18n Registrada:** `paridade-completa`, `translationKey: "shein-trust"`. O formato das 9
-  versões (núcleo igual + bloco de mercado) depende da decisão A da seção 10.
+  versões é "núcleo igual + bloco de mercado", aprovado pelo Bruno em 12/10/2026 como exceção ao item 10 do Job 4
+  (seção 8).
 
 ---
 
@@ -178,7 +179,7 @@ concorrente ("é mais seguro que a Temu?") não tem resposta aqui: vai para o co
 | O Reclame Aqui lista a empresa "conhecida como IN GLOW, IN GLOW BRASIL INTERMEDIACAO DE NEGOCIOS" | Dado de terceiro | `reclameaqui.com.br/empresa/shein/`, cabeçalho "Mais informações de marca" | "Conhecida como" | [x] Sim, atribuído ao Reclame Aqui |
 | Reputação "Boa", nota média 7,6/10 nos últimos 6 meses (01/04 a 30/09/2026); 32.489 reclamações; 95% respondidas; 78,2% resolvidas; 70,9% voltariam a fazer negócio; nota do consumidor 6,33; resposta em 3 dias e 3 horas; 1.505 aguardando resposta | Dado de terceiro | Mesma página, aba Geral, "Dados de 01/04/2026 até 30/09/2026" | Painel de reputação | [x] Sim, com a janela e a data de consulta, e dizendo que mede o atendimento a quem reclama, não a qualidade do produto |
 | O problema mais citado nas reclamações é "Produto não recebido" (36,68%); a categoria mais citada é Moda Feminina (20,19%) | Dado de terceiro | Mesma página, "Principais problemas comentados" (reclamações "de até 3 anos") | Bloco "Problemas" | [x] Sim, com o aviso de que o recorte é de até 3 anos, diferente da janela de 6 meses |
-| A SHEIN se descreve como "varejista global online de moda e lifestyle" que vende roupas da marca SHEIN e produtos de uma rede global de fornecedores; diz ter sido fundada em 2012 | Declaração da marca | `br.shein.com/About-Us-a-117.html` (atualizada em 03/08/2026) | "Sobre nós" / "Nossa história" | [x] Sim, atribuído à SHEIN. Atenção: o texto que a empresa enviou ao Reclame Aqui diz "Fundada em 2008" |
+| A SHEIN se descreve como "varejista global online de moda e lifestyle" que vende roupas da marca SHEIN e produtos de uma rede global de fornecedores; diz ter sido fundada em 2012 | Declaração da marca | `br.shein.com/About-Us-a-117.html` (atualizada em 03/08/2026) | "Sobre nós" / "Nossa história" | [x] Sim, atribuído à SHEIN. O texto que a empresa enviou ao Reclame Aqui diz "Fundada em 2008": decisão do Bruno (12/10) é **atribuir**, não escolher um ano: "a SHEIN diz 2012 no site do Brasil; o texto dela no Reclame Aqui diz 2008" |
 | O site global (`sheingroup.com`) é de propriedade e operado pela Roadget Business Pte. Ltd., 12 Marina Boulevard, Singapura; os termos seguem a lei de Singapura | Fato oficial | `sheingroup.com/privacy-policy` (§ "The Site is owned and operated by…") e `sheingroup.com/terms-conditions` (cláusulas 9.2.1 e 10.5) | Texto | [x] Sim, dito como "o site do grupo" (a empresa que vende no Brasil é a In Glow, linha acima) |
 | A SHEIN diz que os dados podem ser tratados fora do país onde o cliente mora, "including to the United States, China and/or Singapore"; no Brasil, que os dados do pedido vão ao país do vendedor | Fato oficial | `sheingroup.com/privacy-policy` (§ transferência); `br.shein.com/Privacy-Security-Policy-a-282.html` (§ 9) | Texto | [x] Sim (responde "individual data/China" nas versões ja, de, fr) |
 | A SHEIN diz seguir padrões ISO, NIST e PCI DSS e não vender dados de clientes | Declaração da marca | `sheingroup.com/governance` | "Data Security and Privacy" | [x] Sim, só como "a SHEIN afirma"; sem auditoria independente à vista |
@@ -190,7 +191,7 @@ concorrente ("é mais seguro que a Temu?") não tem resposta aqui: vai para o co
 | Devolução em 20 dias; primeira devolução de cada pedido grátis, depois R$ 45; itens "não devolvíveis" só em 7 dias | Fato oficial | `br.shein.com/Return-Policy-a-281.html` (16/09/2026) | Itens 1, 2 e 4 | [x] Sim, em uma frase; o detalhe fica no Black Friday |
 | Imposto: ICMS de 17% a 20% conforme o estado e imposto de importação zero até US$ 50 (desde 13/05/2026); Envio Nacional não paga imposto de importação | Fato oficial | `br.shein.com/tax-policy-a-3476.html` (23/05/2026); Lei 15.502/2026 | Tabela da política | [x] Sim, em uma frase; "veja a tabela no guia de Black Friday" (não repetir a tabela) |
 | O 4CW5Y é código de indicação da Cecília, pesquisado no app; condições na conta | Condição comercial | `referral` do cupom `shein` em `couponsData.ts` (`verifiedAt` 2026-09-01) | — | [x] Sim, sem prometer benefício. Nenhum código de campanha da página da loja entra |
-| **"A SHEIN é chinesa"** | Fato histórico | Nenhuma página oficial lida diz o país de origem: a "Sobre Nós" dá 2012 e nenhuma cidade; o Reclame Aqui traz o texto "2008" da empresa | — | [ ] **Não até haver fonte**: decisão do Bruno sobre aceitar imprensa com porta-voz (seção 10, item 3). Sem isso o texto diz o que a SHEIN publica (operadoras em Singapura e no Brasil) e não responde "chinesa ou não" |
+| **"A SHEIN é chinesa"** | Fato histórico | Nenhuma página oficial lida diz o país de origem: a "Sobre Nós" dá 2012 e nenhuma cidade; o Reclame Aqui traz o texto "2008" da empresa | — | [ ] **Não, até o redator (Job 2) registrar aqui as duas fontes de imprensa que citam um porta-voz da empresa, cada uma com veículo, data e a fala.** Decisão do Bruno (12/10): duas fontes de imprensa com porta-voz bastam (o mesmo precedente do calendário da Black Friday). Com as duas registradas, a resposta é **uma frase, atribuída** ("segundo [veículo] e [veículo], citando porta-voz da empresa…"); a linha passa a "Sim" só então. Até lá, o texto diz o que a SHEIN publica (operadoras em Singapura e no Brasil) |
 | CNPJ e situação cadastral da In Glow Brasil | Registro público | Receita Federal / BrasilAPI (como no `insider-store-e-confiavel`) | — | [ ] **Não até consultar**: o número do CNPJ não aparece nas páginas lidas (pendência, seção 10) |
 | "Por que é barata" (produção sob demanda, lotes pequenos) | Declaração da marca | `sheingroup.com/our-group` ("On-Demand Fashion") | Texto | [x] Sim, atribuído à SHEIN, uma frase ("a SHEIN diz…"); não afirmamos que explica o preço |
 | "Produtos falsificados / originais" | Declaração da marca | `sheingroup.com/governance` ("Intellectual Property", "Product Safety") | Texto | [x] Sim, só o que a SHEIN afirma que faz (checagem de IP e testes por laboratórios terceirizados), atribuído; **sem** dizer que o produto é "original" |
@@ -216,7 +217,8 @@ diferentes por mercado. Lidas em 12/10/2026 com o cabeçalho de idioma em inglê
 
 Fatos de um mercado só entram na versão daquele idioma se o idioma tem um mercado dominante (seção 8). Versões
 que atendem vários países (en, es) trazem uma tabela curta com os mercados lidos e mandam o leitor para a
-política do site do próprio país, em vez de generalizar.
+política do site do próprio país, em vez de generalizar. Regra D (Bruno, 12/10): cada versão cobre só os
+mercados que a SHEIN atende e cujo site foi lido; nenhum mercado não atendido entra, nem como "não atendido".
 
 ### 6.3 Ações de autoridades (só onde a fonte é a própria autoridade)
 
@@ -258,12 +260,15 @@ política do site do próprio país, em vez de generalizar.
 - **Justificativa de mercado:** quem pergunta "is shein legit" fora do Brasil não precisa do Reclame Aqui nem do
   imposto brasileiro; quem pergunta "ist shein seriös" quer saber da operadora europeia e das regras da UE. Se as
   9 traduções repetissem só os fatos da SHEIN Brasil (como no Black Friday, onde o assunto é a campanha
-  brasileira), o artigo não responderia a busca do idioma. Por isso a proposta é **núcleo igual + bloco de
-  mercado** (decisão A da seção 10).
+  brasileira), o artigo não responderia a busca do idioma. Por isso o formato é **núcleo igual + bloco de
+  mercado** (decisão A, aprovada pelo Bruno em 12/10/2026).
 - **Fonte PT será a peça canônica?** [x] Sim, para o núcleo. O bloco de mercado de cada idioma é aprovado no
-  Job 3 como parte da fonte, com a fonte da seção 6.2/6.3 (o item 10 do Job 4 pede "os mesmos claims, nada
-  acrescentado sem fonte": o bloco de mercado tem fonte própria nesta matriz, então só é preciso o Bruno
-  autorizar essa exceção ao "mesmos claims").
+  Job 3 como parte da fonte, com a fonte da seção 6.2/6.3.
+- **Regra do item 10 do Job 4 para esta família (exceção aprovada em 12/10):** as 10 versões levam as mesmas
+  afirmações do núcleo, e cada idioma leva além disso um bloco de mercado com fatos dos mercados daquele
+  idioma, cada fato com fonte oficial própria. O Job 3 e o Job 4 conferem o bloco **linha a linha contra a matriz
+  de claims (seções 6.2 e 6.3)**, e não contra "os mesmos claims do PT". Fato de mercado sem linha na matriz
+  não entra.
 - **Fatos universais (iguais nas 10 versões):** o que a SHEIN diz ser (varejista global online, sob demanda); a
   operadora do site global; as transferências de dados; a lista "o que conferir antes de pagar"; a sequência
   "o que fazer se o pedido atrasar"; o disclosure; o aviso do 4CW5Y.
@@ -275,7 +280,7 @@ política do site do próprio país, em vez de generalizar.
 
 | Idioma | Slug | Título (provisório) | Mercado âncora e bloco de mercado | Evidência de busca (resumo) | O que a versão diz a menos |
 |---|---|---|---|---|---|
-| pt | `shein-e-confiavel` | SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa | Brasil: In Glow Brasil; Reclame Aqui; devolução em 20 dias; Envio Nacional × Global em uma frase | "é confiavel (reclame aqui, reddit, site, app)", "é chinesa", "demora", "taxa", "é seguro comprar (cartão, pix, nacional, internacional)" | Sem "chinesa ou não" até haver fonte; sem CNPJ até consultar |
+| pt | `shein-e-confiavel` | SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa | Brasil: In Glow Brasil; Reclame Aqui; devolução em 20 dias; Envio Nacional × Global em uma frase | "é confiavel (reclame aqui, reddit, site, app)", "é chinesa", "demora", "taxa", "é seguro comprar (cartão, pix, nacional, internacional)" | Sem "chinesa ou não" até o redator registrar as duas fontes de imprensa (decisão B); sem CNPJ até consultar |
 | en | `is-shein-legit-and-safe` | Is SHEIN Legit and Safe? Who Runs It, Delivery and Customs | Global: tabela curta EUA (SHEIN US Services, LLC; 30 dias) e Reino Unido (ISSL; 14 + 30); outros países "veja a política do seu site" | "is shein legit/safe", "from china", "ethical", "delivery time (UK, Canada, Australia)", "customs" | Sem regra de imposto (instável nos EUA; sem fonte para UK, AU, CA); sem Trustpilot até abrir |
 | es | `shein-es-confiable-y-seguro` | ¿SHEIN es confiable y seguro? Quién la opera, entrega y aduana | Espanha (ISSL; 14 + 30 dias; direito aduaneiro da UE) e México (SHEIN, CDMX; 30 dias); outros países da América Latina pela nota da política brasileira | "es confiable (Argentina, Perú, Colombia, México, Chile)", "aduana(s) (España, 2026, México, Chile…)", "cuánto tarda" | Sem aduana de México, Argentina, Chile, Colômbia, Peru (sem fonte oficial); as 5 operadoras latinas só como "Fashion Choice Pte Ltd, segundo a política da SHEIN Brasil" |
 | fr | `shein-est-il-fiable-et-sur` | SHEIN est-il fiable et sûr ? Qui l'exploite, livraison et douane | França/UE: ISSL; 14 + 30 dias; processo da Comissão (DSA) e ação CPC; direito aduaneiro de € 3 | "est il fiable (France, Canada, sécurisé)", "c'est de quel pays", "douane (2026, Belgique, Suisse)" | Sem Bélgica, Suíça, Canadá (sem fonte do país) |
@@ -284,7 +289,7 @@ política do site do próprio país, em vez de generalizar.
 | ko | `shein-trust-guide-ko` | 쉬인(SHEIN) 믿을 만한가요? 운영 회사, 배송기간, 관세 | Coreia do Sul: Wonderflow Support Pte. Ltd.; devolução em 60 dias | "믿을만한가요", "어느 나라", "배송기간 (평균, 특급)", "관세 (관세청)", "환불" | Sem regra de 관세 (fonte da 관세청 não lida); sem 디시/더쿠 (fóruns) |
 | ja | `shein-trust-guide-ja` | SHEIN（シェイン）は安全？信頼できる？運営会社・届くまで・関税 | Japão: Fashion Choice Pte. Ltd.; devolução em 40 dias; isenção de ¥ 10.000 com a exceção das malhas (Alfândega do Japão); dados "米国・中国・シンガポール" | "安全 (性, 支払い方法, 知恵袋)", "信頼できる", "危険性 (個人情報, 中国, クレカ)", "どこの国", "届くまで", "関税" | Sem 知恵袋 (fórum); sem "トコジラミ" (bed bugs: nenhuma fonte oficial lida); sem o fator de 60% até conferir a página 3002 |
 | zh-hant | `shein-trust-guide-zh-hant` | SHEIN 可靠嗎？安全嗎？營運公司、運送時間與關稅 | Taiwan: Fashion Choice Pte. Ltd.; devolução em 15 dias | "安全嗎 (刷卡)", "哪個國家的", "關稅 (台灣, 要關稅嗎)", "詐騙", "評價", "退貨 (全家, 7-11)" | Sem 關稅 (fonte do governo de Taiwan não lida); sem ptt/dcard; retirada em lojas (全家/7-11) não lida |
-| zh-hans | `shein-trust-guide-zh-hans` | SHEIN（希音）靠谱吗？安全吗？运营公司、物流时间与关税 | Sem mercado único (Cingapura, Malásia e a diáspora; o GSC mostra Cingapura com 617 impressões e China com 58): bloco com a operadora global (Roadget, Cingapura) e Cingapura (Fashion Choice Pte. Ltd.) | "安全吗 (刷卡)", "哪个国家的", "关税 (需要关税吗)", "希音是哪个国家的"; "靠谱吗" sem retorno | A mais curta: sem prazo nem imposto de mercado; confirmar com o Bruno quem é o leitor (seção 10) |
+| zh-hans | `shein-trust-guide-zh-hans` | SHEIN（希音）靠谱吗？安全吗？运营公司、物流时间与关税 | Decisão D (Bruno, 12/10): só os mercados que a SHEIN atende e que a pauta leu. Bloco com a operadora global (Roadget, Cingapura) e Cingapura (Fashion Choice Pte. Ltd.; o GSC mostra Cingapura com 617 impressões). Malásia só entra quando o site dela for lido (hoje "não lido", linha 6.2). **Sem China continental**: nenhuma página lida a lista como mercado atendido, e a versão não afirma nem nega nada sobre ela (o GSC mostra a China com 58 impressões) | "安全吗 (刷卡)", "哪个国家的", "关税 (需要关税吗)", "希音是哪个国家的"; "靠谱吗" sem retorno | A mais curta: sem prazo nem imposto de mercado. Antes do Job 3, confirmar na lista de países do site da SHEIN quais mercados de leitura chinesa ela atende |
 
 Cada versão leva o termo de código de indicação do idioma, o aviso "SHEIN Brasil" e o `cta` neutro. O
 `type` é "Editorial" (tabela do Job 4, item 4). O `hideFromPortugueseListings: true` vale nas 9 traduções.
@@ -300,7 +305,8 @@ o texto leva a conclusão, o número e a fonte. Cada seção abaixo cabe em 2 a 
    Aqui (nota 7,6/10, janela de 6 meses até 30/09/2026); o problema mais citado nas reclamações é produto não
    recebido; o prazo e a taxa estão em duas linhas; o 4CW5Y é código de indicação.
 2. **Quem opera a SHEIN:** a tabela por país (operadora, fonte), a operadora do site global em Singapura e a
-   frase de que a "Sobre Nós" da SHEIN não diz o país de origem. *(O "chinesa ou não" só entra com fonte.)*
+   frase de que a "Sobre Nós" da SHEIN não diz o país de origem. *(O "chinesa ou não" entra em uma frase
+   atribuída a duas fontes de imprensa com porta-voz, registradas na matriz pelo redator; antes disso, não.)*
 3. **O que o Reclame Aqui mostra:** o quadro com a data e o que o número mede; "produto não recebido" no topo.
 4. **É seguro pagar:** as formas de pagamento, o que a SHEIN diz sobre cartão e dados (atribuído) e uma frase
    sobre conferir o endereço do site e do app.
@@ -317,7 +323,7 @@ o texto leva a conclusão, o número e a fonte. Cada seção abaixo cabe em 2 a 
 **FAQ (itens literais; resposta de uma frase; título da seção em `isFaqHeading`):**
 1. A SHEIN é confiável? (legítima; o que os números mostram)
 2. É seguro comprar na SHEIN com cartão de crédito? (o que a SHEIN diz sobre o cartão internacional)
-3. A SHEIN é de que país? (o que a SHEIN publica; origem só com fonte)
+3. A SHEIN é de que país? (uma frase atribuída às duas fontes de imprensa com porta-voz, depois de registradas na matriz; ano de fundação atribuído: 2012 no site do Brasil, 2008 no texto ao Reclame Aqui)
 4. A SHEIN tem Reclame Aqui? (reputação, nota e janela)
 5. Quanto tempo demora a entrega da SHEIN no Brasil? (processar 3 a 5 dias; prazo no pedido)
 6. A SHEIN cobra taxa? (ICMS; imposto de importação até US$ 50; guia)
@@ -333,20 +339,23 @@ coisa?". "Por que é barata?" fica numa frase atribuída à SHEIN no corpo, não
 
 ## 10. Pendências e decisões para o Bruno
 
-**Decisões**
-1. **(A) Bloco de mercado nas 9 traduções.** Recomendo núcleo igual + bloco de mercado com fonte oficial por
-   país (seção 8), o que contraria a letra do item 10 do Job 4 ("os mesmos claims"). Alternativa B: traduzir o PT
-   com os fatos marcados como "da SHEIN Brasil" (o desenho do Black Friday); fica fiel ao PT, mas não responde
-   "is shein legit" para quem está fora do Brasil. Alternativa C, que eu não recomendo: só PT, o que muda a regra
-   do cluster. Sem a decisão A, o PT pode ser redigido, mas as 9 versões não.
-2. **Capa:** gráfico nosso (recomendado) ou print do site; não reusar a foto da Cecília (seção 5).
-3. **"A SHEIN é chinesa?"** Nenhuma página oficial lida diz o país de origem: a "Sobre Nós" dá "fundada em 2012" (o
-   texto que a SHEIN mandou ao Reclame Aqui diz 2008). Posso responder a pergunta com duas fontes de imprensa
-   com porta-voz (como foi feito para o calendário da Black Friday) ou deixar o texto em "o que a SHEIN publica".
-4. **zh-hans:** quem é o leitor (Cingapura e Malásia, diáspora, China continental)? Sem isso a versão fica a mais
-   curta, como acima.
+**Decisões do Bruno (12/10/2026)**
+1. **(A) Bloco de mercado nas 9 traduções: RESOLVIDA, "Sim".** Exceção ao item 10 do Job 4 aprovada: núcleo igual
+   + bloco de mercado por idioma, com fonte oficial própria por fato (regra escrita na seção 8). Job 3 e Job 4
+   conferem o bloco linha a linha contra a matriz, não contra o PT.
+2. **Capa (em aberto):** gráfico nosso (recomendado) ou print do site; não reusar a foto da Cecília (seção 5).
+3. **(B) "A SHEIN é chinesa?": RESOLVIDA, "Pode ser".** Duas fontes de imprensa que citam porta-voz da empresa
+   são aceitas (mesmo precedente do calendário da Black Friday). A linha da matriz continua "Não" até o redator
+   (Job 2) registrar as duas fontes com veículo, data e a fala do porta-voz; a resposta é uma frase, atribuída. O
+   conflito de ano de fundação (2012 × 2008) também se atribui, sem escolher um.
+4. **(D) zh-hans: RESOLVIDA, "os mercados que entregam sempre".** Cada versão cobre só os mercados que a SHEIN
+   atende, nunca um que ela não atende. zh-hans cobre Cingapura (operadora lida) e, depois de lido o site,
+   Malásia; fica sem China continental (linha do zh-hans na seção 8.1). A pesquisa pendente é confirmar a lista
+   de países atendidos da SHEIN antes do Job 3.
 
 **Pendências de pesquisa (eu não consegui, ou não devo fazer sozinho)**
+- **Duas fontes de imprensa com porta-voz para o país de origem (Job 2, decisão B):** registrar na linha "A SHEIN é
+  chinesa" da matriz o veículo, a data e a fala de cada uma.
 - **CNPJ e situação cadastral da In Glow Brasil** (consulta à Receita ou BrasilAPI, como no
   `insider-store-e-confiavel`): o número do CNPJ não está nas páginas lidas.
 - **Reclame Aqui, janela de 12 meses e 2025:** o botão "12 meses" não trocou os dados no navegador embutido; os

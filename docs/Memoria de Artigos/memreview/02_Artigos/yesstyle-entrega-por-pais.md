@@ -8,8 +8,8 @@ reviewKind: "guia"
 type: "Guia de Entrega e Frete"
 status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "Bruno passar a evidência do Brasil (seção 10, itens 1 e 2) e decidir o texto da linha do Brasil; depois redigir o PT (Job 2)"
-bloqueado_por: "a linha do Brasil: a fonte oficial não lista o país e a única evidência de que entrega é o relato do Bruno (11/10); as outras 8 línguas podem seguir"
+proxima_acao: "redigir o PT (Job 2) com Brasil e Portugal; a linha do Brasil cita o pedido próprio enviado em 19/09/2026 pela Anjun Express. Para uma atualização: o Bruno passa a data de chegada e o imposto cobrado do pedido, e um print do checkout com endereço brasileiro (frete e frete grátis)"
+bloqueado_por: null
 score_autoridade: 80
 score_conversao: 75
 score_ponderado_total: 80
@@ -62,10 +62,14 @@ países daquele idioma**, na mesma família de 10 (nota do cluster
 ## 1. Portões Obrigatórios (Hard Gates)
 - [x] **1. Evidência Factual Suficiente:** a tabela oficial de frete e prazo da YesStyle (152 regiões, vigente desde
   06/10/2026) foi lida inteira em 12/10/2026, junto com as páginas de imposto de cada região e a de reembolso
-  de alfândega. **Exceção:** o Brasil, ver a seção 10 (a linha do Brasil só vai a Job 2 com a evidência do Bruno).
+  de alfândega. **O Brasil** não tem linha na tabela oficial; a evidência de que a YesStyle entrega lá é o pedido
+  próprio do Bruno, enviado em 19/09/2026 pela Anjun Express (seção 6.1). Prazo, frete e frete grátis do Brasil
+  ficam sem fonte e o texto não os inventa.
 - [x] **2. Segurança Regulatória & Ética:** sem claims de produto; só logística, imposto e política da loja.
-- [x] **3. Fronteira Factual vs Experiência:** o texto não diz que a Cecília testou a entrega em nenhum país. O
-  relato do Bruno sobre o Brasil só entra com a evidência e o texto aprovados por ele.
+- [x] **3. Fronteira Factual vs Experiência:** o texto não diz que a Cecília testou a entrega em nenhum país. A
+  única experiência própria é a linha do Brasil, que cita o pedido do site (enviado em 19/09/2026 pela Anjun
+  Express) como pedido próprio datado, não como teste da loja nem da entrega; número do pedido e código de
+  rastreio não entram em lugar nenhum.
 - [x] **4. Anti-Canibalização:** o artigo responde "entrega, prazo, frete e imposto". Não traz "é confiável", "legit",
   "safe", "scam" nem "de onde é" em H1, `seoTitle` ou títulos de seção (intenção da família `yesstyle-trust`); não traz cupom
   nem código de frete grátis (é da página da loja); não repete o calendário da Black Friday.
@@ -79,8 +83,8 @@ países daquele idioma**, na mesma família de 10 (nota do cluster
 ## 2. Função da Pauta & Comportamento de Busca
 - **Trabalho Principal:** Suporte & Pós-compra (entrega) com Autoridade (tabela por país) e Conversão Comercial
   (quem decide comprar quer saber se chega).
-- **Resiste à compressão por IA?** Sim: a tabela por país com frete, prazo, imposto e exceções (Canárias, Irlanda do
-  Norte, Equador, China) não cabe numa linha, e o Brasil muda de status.
+- **Resiste à compressão por IA?** Sim: a tabela por país com frete, prazo, imposto e o limite de cada linha não
+  cabe numa linha, e o Brasil está fora da tabela oficial.
 - **O que exige a visita do usuário?** Achar o próprio país, ver prazo e a partir de quanto o frete é grátis, e saber se
   o imposto já vem no preço ou chega depois.
 - **Como o benefício/código chega ao leitor?** CTA com o `affiliateUrl` e uma frase sobre o código de recompensa
@@ -113,15 +117,16 @@ confiança e a seção da Black Friday encurtam o trecho de frete e linkam para 
 
 ## 3. A Dor do Consumidor & Oportunidade
 - **Pergunta literal que o usuário faz:** "A YesStyle entrega no Brasil?", "Voltou a entregar?", "Quanto tempo demora?",
-  "Tem taxa/imposto?", "Quanto é o frete grátis?", "A YesStyle entrega em Portugal / Chile / Canárias / Equador / Irlanda do Norte?".
+  "Tem taxa/imposto?", "Quanto é o frete grátis?", "A YesStyle entrega em Portugal / Chile?". (Consultas por Canárias,
+  Equador e Irlanda do Norte existem no autocomplete, mas ficam sem resposta nesta família pela decisão D da seção 9.)
 - **O que a marca responde oficialmente:** uma tabela única em inglês (também traduzida nas páginas de `/pt/`, `/es/`,
   `/fr/`, `/de/`, `/it/`), com o frete em dólares, páginas de imposto separadas por região e avisos soltos na central de notícias.
 - **Por que a resposta oficial falha:** o Brasil não aparece na tabela nem na lista de países, o aviso de pausa de 3/7 segue sem uma frase de "voltamos", o texto de
   marketing da home em PT ainda diz "envio prático para Portugal, Brasil, Estados Unidos", e o leitor não sabe a quem
   crer. Nos outros países, o leitor não sabe se o imposto vem no preço (UE, Reino Unido, Austrália, Suíça) ou depois.
-- **Qual valor exclusivo nós acrescentamos:** a linha do país do leitor com a data, as exceções que o site não
-  destaca (Canárias, Baleares, Ceuta e Melilla; Irlanda do Norte; Equador; China continental) e a regra do reembolso
-  de alfândega até US$ 1.000.
+- **Qual valor exclusivo nós acrescentamos:** a linha do país do leitor com a data, o que o site não destaca (se
+  o imposto já vem no preço ou chega depois, e o que a linha não cobre) e a regra do reembolso de alfândega até
+  US$ 1.000.
 
 ---
 
@@ -159,7 +164,7 @@ confiança e a seção da Black Friday encurtam o trecho de frete e linkam para 
 | País (versão) | Método e prazo | Frete grátis a partir de / abaixo | Pode Publicar? |
 |---|---|---|---|
 | Portugal (pt) | Standard 10 a 15 dias úteis, com rastreio; também "Standard Self-Pickup" (retirada em ponto de coleta, mesmo prazo e preço) | US$ 60; abaixo, US$ 5 | [x] Sim |
-| Brasil (pt) | **Sem linha** na tabela, na lista de países nem no seletor de destino | — | [ ] Só com a evidência da seção 10 |
+| Brasil (pt) | **Entrega ativa**: pedido próprio do site feito em 17/09/2026, status "Enviado", despachado em 19/09/2026 pela transportadora Anjun Express (experiência própria do Bruno, vista em 12/10/2026; número do pedido e código de rastreio não entram em lugar nenhum). A tabela oficial de 06/10, a lista de países e o seletor de destino **não** trazem o Brasil | **Sem fonte** para o Brasil (nem frete grátis a partir de, nem frete abaixo) | [x] Sim, a entrega e a transportadora, escritas como "pedido próprio enviado em 19/09/2026 pela Anjun Express" e junto do que a loja mostra hoje (6.3); [ ] Não, prazo, frete e limite de frete grátis do Brasil (o texto diz só o que se sabe) |
 | EUA (en) | Express 3 a 5 dias; Standard 7 a 11 dias | Express grátis a partir de US$ 150 (US$ 7 entre 100 e 150; US$ 11 abaixo de 100); Standard grátis a partir de US$ 35 (US$ 6 abaixo) | [x] Sim; territórios dos EUA (Porto Rico, Guam, Ilhas Virgens…) têm tabela própria: Standard 9 a 14 dias, grátis a partir de US$ 80 |
 | Reino Unido (en) | Express 3 a 5 dias; Premium Standard 5 a 12 dias | Express grátis a partir de US$ 100 (US$ 7 abaixo); Premium Standard grátis a partir de US$ 50 (US$ 5 abaixo) | [x] Sim; **Irlanda do Norte não é atendida hoje** |
 | Canadá (en, fr) | Premium Standard 7 a 14 dias | grátis a partir de US$ 50; abaixo, US$ 6 | [x] Sim |
@@ -172,7 +177,7 @@ confiança e a seção da Black Friday encurtam o trecho de frete e linkam para 
 | Peru (es) | Standard 15 a 22 dias | US$ 60; abaixo, US$ 6 | [x] Sim |
 | Argentina (es) | Standard 15 a 27 dias | US$ 60; abaixo, US$ 8 | [x] Sim |
 | Colômbia (es) | Standard 15 a 22 dias | US$ 45; abaixo, US$ 5 | [x] Sim; aviso de 11/08/2026 de atrasos por terremoto (ver abaixo) |
-| Equador (es) | **Sem linha** na tabela nem na lista de países | — | [x] Sim, como "não atendido" |
+| Equador (es) | **Sem linha** na tabela nem na lista de países | — | [ ] Não: mercado não atendido, fora de todas as versões (decisão D, 12/10) |
 | França (fr) | Standard 10 a 15 dias | US$ 45; abaixo, US$ 5; sem Guiana Francesa, Saint-Pierre e Miquelon, Saint-Barthélemy, Saint-Martin, Polinésia, Nova Caledônia, Wallis e Futuna | [x] Sim |
 | Bélgica (fr) | Standard 10 a 15 dias | US$ 45; abaixo, US$ 5 | [x] Sim |
 | Alemanha (de) | Standard 10 a 15 dias | US$ 45; abaixo, US$ 5 | [x] Sim |
@@ -186,7 +191,13 @@ confiança e a seção da Black Friday encurtam o trecho de frete e linkam para 
 | Macau (zh-hant, opcional) | Express 1 a 3 dias | US$ 35; abaixo, US$ 4,99 | [x] Sim |
 | Singapura (zh-hans) | Express 3 a 5 dias | US$ 50; abaixo, US$ 4 | [x] Sim |
 | Malásia (zh-hans) | Standard 10 a 16 dias | US$ 35; abaixo, US$ 4 | [x] Sim |
-| China continental (zh-hans) | **Sem linha** na tabela nem na lista de países | — | [x] Sim, como "não atendida" |
+| China continental (zh-hans) | **Sem linha** na tabela nem na lista de países | — | [ ] Não: mercado não atendido, fora de todas as versões (decisão D, 12/10); o zh-hans cobre só Singapura e Malásia |
+
+Regra D (Bruno, 12/10): cada versão cobre só os mercados que a YesStyle atende. Mercados não atendidos (Equador, China
+continental) não aparecem em versão nenhuma, nem como "não atendido". As regiões que uma linha de país atendido deixa
+de fora (Baleares, Canárias, Ceuta e Melilla na Espanha; Irlanda do Norte no Reino Unido; os territórios de ultramar
+listados na França; os territórios dos EUA, em tabela própria) valem só como limite dessa linha, numa oração dentro dela;
+não têm título, seção nem pergunta de FAQ.
 
 Regras gerais (mesma página e `hsi.730`): prazo total = disponibilidade do item (em estoque despacha em 1 a 3 dias úteis; "Awaiting Stock" 3 a 5,
 7, 7 a 14, 21 ou 30 dias úteis) + prazo do método; suplementos de saúde e beleza só vão pelo método padrão; embrulho de presente não
@@ -206,7 +217,7 @@ conta para o frete grátis; pacote devolvido por endereço errado ou recusa é r
 | Malásia | Imposto sobre vendas de 10% **não** incluído no preço, somado no checkout, em itens de até RM 500 enviados por ar ou correio; não incide sobre o frete | `…/malaysia-sales-tax/help/section.html/hsi.2432` | [x] Sim |
 | EUA | Imposto sobre vendas somado no checkout em 40 estados e no Distrito de Colúmbia (a página lista os estados) conforme o endereço; **"Import Fees"** (parte do tarifaço e taxa de processamento de entrada nos EUA) cobradas no checkout antes dos cupons | `…/us-sales-tax/help/section.html/hsi.2273` | [x] Sim. **Não** repetir o banner "Shop Tariff-free", que só leva ao quadro de avisos |
 | Canadá | Só Saskatchewan tem PST de 6% somado no checkout; a página não fala do GST federal nem de taxas de entrega | `…/canada-pst-provincial-sales-tax/help/section.html/hsi.2317` | [x] Sim; GST e taxa de courier: sem fonte (ver 7) |
-| Brasil | **Sem página de imposto da YesStyle para o Brasil.** Regra oficial da Receita Federal (compras desde 12/05/2026): fora do Remessa Conforme, Imposto de Importação de 60% sem desconto, mais ICMS de 17% a 20% "por dentro", cobrados depois da chegada; dentro, 0% até US$ 50 e 60% menos US$ 30 acima disso. Base = produtos + frete + seguro. A YesStyle **não consta** nas 51 plataformas certificadas nem nas 17 em implantação (leitura de 12/10) | Receita Federal: `…/remessas-postal-e-expressa/regras-futuras` e as duas listas de empresas certificadas | [x] Sim, na linha do Brasil, quando ela for liberada |
+| Brasil | **Sem página de imposto da YesStyle para o Brasil.** Regra oficial da Receita Federal (compras desde 12/05/2026): fora do Remessa Conforme, Imposto de Importação de 60% sem desconto, mais ICMS de 17% a 20% "por dentro", cobrados depois da chegada; dentro, 0% até US$ 50 e 60% menos US$ 30 acima disso. Base = produtos + frete + seguro. A YesStyle **não consta** nas 51 plataformas certificadas nem nas 17 em implantação (leitura de 12/10) | Receita Federal: `…/remessas-postal-e-expressa/regras-futuras` e as duas listas de empresas certificadas | [x] Sim, na linha do Brasil (liberada em 12/10/2026 pelo pedido próprio, 6.1). O imposto realmente cobrado no pedido do Bruno ainda não é conhecido (seção 10, item 1) |
 | Todos | Reembolso de "customs-related taxes and fees" (impostos, tarifas, IVA, GST, taxas administrativas e de despachante) em pedidos abaixo de US$ 1.000 (antes do cupom, sem frete), em crédito da loja, com comprovante em até 30 dias por e-mail ao atendimento; **fora** dele: imposto sobre vendas, taxas de correio e de courier (guarda, retirada, reenvio) e os impostos já cobrados no checkout de EUA, Austrália e Nova Zelândia, Saskatchewan, Reino Unido, UE, Noruega e Suíça, Índia e Singapura. Quem recusa o pacote por causa da alfândega não recebe reembolso nem reenvio | `hsi.2212`; `hsi.735` | [x] Sim. **Não** dizer que o ICMS volta (não é citado; seção 10) |
 | Chile, Peru, Argentina, Colômbia, México, Japão, Coreia, Taiwan, Hong Kong, Canadá (federal), UK (tarifa) | A YesStyle não tem página própria; vale a regra geral de reembolso acima. A alfândega do país não foi lida | — | [x] Sim, só a regra da YesStyle; nenhum número de imposto do país |
 
@@ -214,11 +225,12 @@ conta para o frete grátis; pacote devolvido por endereço errado ou recusa é r
 
 | Fato | Fonte | Pode Publicar? |
 |---|---|---|
-| A lista de países atendidos (~150) **não inclui** Brasil, Equador nem China continental; "não atende, por ora, territórios da França, do Reino Unido (Irlanda do Norte), da Espanha (Ceuta, Melilla, Baleares, Canárias, Tenerife) e dos EUA" | `hsi.732`, "Which countries and regions does YesStyle.com ship to?" | [x] Sim |
+| A lista de países atendidos (~150) **não inclui** Brasil, Equador nem China continental; "não atende, por ora, territórios da França, do Reino Unido (Irlanda do Norte), da Espanha (Ceuta, Melilla, Baleares, Canárias, Tenerife) e dos EUA" | `hsi.732`, "Which countries and regions does YesStyle.com ship to?" | [x] Sim para o Brasil, dito como "o que a loja mostra hoje" ao lado do pedido próprio (6.1); Equador, China continental e os territórios excluídos só como limite da linha do país atendido, conforme a regra D de 6.1 |
 | Aviso de 3/7/2026: pausa temporária de novos pedidos ao Brasil por atrasos aduaneiros; sem aviso de retomada na central de notícias em 12/10 | `/en/help/announcement.html`; `/pt/help/announcement.html` ("Suspensão Temporária de Pedidos para o Brasil") | [x] Sim, datado |
 | O seletor "Endereço de Entrega" do site em PT não lista o Brasil (Bolívia, Brunei…); lista Portugal, Chile e Argentina | `/pt/home.html`, janela "Preferências" aberta e fechada sem salvar | [x] Sim |
 | O texto de marketing da home em PT ainda cita "Brasil" ("envio prático para Portugal, Brasil, Estados Unidos") | `/pt/home.html` (SEO text, 12/10) | [x] Sim, como o que a loja ainda diz; não como prova de entrega |
-| Os envios ao Brasil voltaram: pedido parado recebido e outro enviado (relato do Bruno) | Bruno, 11/10/2026 | [ ] Só com a evidência da seção 10 |
+| Os envios ao Brasil funcionam: pedido próprio enviado em 19/09/2026 pela Anjun Express (feito em 17/09/2026) | Bruno, 12/10/2026 (experiência própria, datada; ver 6.1) | [x] Sim, como pedido do site, não como teste da loja |
+| Relato de 11/10 ("pedido parado recebido e outro enviado") e "voltaram a entregar" | Bruno, 11/10/2026 | [ ] Não: superado pelo pedido datado; o texto não diz que a pausa de 3/7 acabou nem que o pedido chegou |
 | Aviso de 11/08/2026: atrasos para a Colômbia por causa do terremoto | `/en/help/announcement.html` | [x] Sim, datado; sai quando o aviso sair |
 | Aviso de 9/9/2026: atrasos no Reino Unido por falha do controle de tráfego aéreo (NATS) | idem | [ ] Não (pontual, já vencido) |
 | Feriados de Hong Kong (1º e 19/10) suspendem o envio | idem | [ ] Não (pontual) |
@@ -238,7 +250,7 @@ conta para o frete grátis; pacote devolvido por endereço errado ou recusa é r
 | Item | Motivo |
 |---|---|
 | Alfândega oficial de México, Chile, Peru, Argentina, Colômbia, Japão, Coreia, Taiwan, Hong Kong, Canadá (federal), Reino Unido (tarifa) e EUA (CBP) | Não lida. O texto usa só a regra de reembolso da YesStyle e diz "o imposto do seu país é cobrado na entrega e o recibo vale para o reembolso". Se o Bruno quiser números, ler `aduana.cl`, `sunat.gob.pe`, `dian.gov.co`, `argentina.gob.ar/arca`, `gob.mx/aduanas` e equivalentes em outra rodada |
-| Prazo real, frete real e imposto real no Brasil | Não há linha oficial; vem da evidência do Bruno (seção 10) |
+| Prazo real, frete real, frete grátis e imposto real no Brasil | Não há linha oficial; o pedido próprio só prova que o envio saiu (19/09/2026, Anjun Express). Os números vêm de uma atualização, com a data de chegada e o imposto cobrado do pedido e um print do checkout com endereço brasileiro (seção 10, item 1) |
 | ICMS dentro da regra de reembolso | Texto da YesStyle não cita; perguntar ao atendimento |
 | Interface em japonês e coreano | A YesStyle não mostra JA e KO no rodapé de EUA e Brasil, mas o rodapé muda por região; não afirmar |
 | Estoque e prazo por produto | Muda por item; o texto manda olhar a página do produto ("Availability") |
@@ -258,25 +270,26 @@ conta para o frete grátis; pacote devolvido por endereço errado ou recusa é r
 - **URLs previstas:** `/reviews/yesstyle-entrega-no-brasil-e-portugal` em PT e `/<locale>/reviews/<slug>` nas 9 traduções.
 - **Modo i18n:** [x] Paridade completa (10 idiomas), com **cobertura por país definida por idioma** (decisão do Bruno, 11/10).
 - **Justificativa de mercado:** o cluster diz "não localizar frete, impostos ou disponibilidade sem fonte específica"; aqui existe fonte específica por
-  país (a tabela oficial lida em 12/10), e a pauta só cobre países com linha nessa tabela.
-- **Fonte PT será a peça canônica?** [x] Sim, do esqueleto (seção 11). As tabelas de mercado diferem por idioma, o que foge ao critério "mesmos claims do PT" da releitura do Job 4 (item 10); a conferência passa a ser contra a matriz da seção 6, linha a linha.
+  país (a tabela oficial lida em 12/10), e a pauta cobre os países com linha nessa tabela e o Brasil (pela evidência
+  do pedido próprio, 6.1). Decisão D (Bruno, 12/10): só mercados que a YesStyle atende, nunca um que ela não atende.
+- **Fonte PT será a peça canônica?** [x] Sim, do esqueleto (seção 11). As tabelas de mercado diferem por idioma, o que foge ao critério "mesmos claims do PT" da releitura do Job 4 (item 10): **exceção aprovada pelo Bruno em 12/10/2026 (decisão A)**, núcleo igual + bloco de mercado por idioma; a conferência é contra a matriz da seção 6, linha a linha.
 - **Efeito no hreflang:** a família liga as 10 versões como equivalentes (o `test:build-output` confere), e o seletor de idioma de uma versão
   leva o leitor a uma página que cobre outros países. Risco aceito pelo Bruno; o primeiro parágrafo de cada versão diz "esta versão cobre X, Y, Z e remete às outras".
 
-| Idioma | Países da versão | Fora (frase de "não atendido") | Slug sugerido |
+| Idioma | Países da versão (só mercados atendidos) | Limite da linha (oração dentro dela, sem seção nem FAQ) | Slug sugerido |
 |---|---|---|---|
-| pt | Brasil (linha pendente), Portugal | — | `yesstyle-entrega-no-brasil-e-portugal` |
-| en | Estados Unidos, Reino Unido, Canadá, Austrália (+ Irlanda e Nova Zelândia, opcionais) | Irlanda do Norte; territórios dos EUA em tabela própria | `yesstyle-shipping-us-uk-canada-australia` |
-| es | España, México, Chile, Perú, Argentina, Colombia | Canarias, Baleares, Ceuta, Melilla; Ecuador | `yesstyle-envios-espana-mexico-chile-peru-argentina-colombia` |
-| fr | France, Belgique, Canada | Guyane et territoires d'outre-mer listés | `yesstyle-livraison-france-belgique-canada` |
+| pt | Brasil (entrega pelo pedido próprio de 19/09/2026; sem prazo, frete e frete grátis), Portugal | — | `yesstyle-entrega-no-brasil-e-portugal` |
+| en | Estados Unidos, Reino Unido, Canadá, Austrália (+ Irlanda e Nova Zelândia, opcionais) | Reino Unido sem Irlanda do Norte; territórios dos EUA em tabela própria | `yesstyle-shipping-us-uk-canada-australia` |
+| es | España, México, Chile, Perú, Argentina, Colombia | España sem Canarias, Baleares, Ceuta e Melilla | `yesstyle-envios-espana-mexico-chile-peru-argentina-colombia` |
+| fr | France, Belgique, Canada | França sem a Guiana e os territórios de ultramar listados | `yesstyle-livraison-france-belgique-canada` |
 | de | Deutschland, Österreich, Schweiz | — | `yesstyle-versand-deutschland-oesterreich-schweiz` |
 | it | Italia | — | `yesstyle-spedizione-italia-tempi-costi-dogana` |
 | ja | 日本 | — | `yesstyle-shipping-japan-ja` |
 | ko | 한국 | — | `yesstyle-shipping-korea-ko` |
 | zh-hant | 台灣、香港 (+ 澳門 opcional) | — | `yesstyle-shipping-taiwan-hong-kong-zh-hant` |
-| zh-hans | 新加坡、马来西亚 | 中国大陆 (não atendida) | `yesstyle-shipping-singapore-malaysia-zh-hans` |
+| zh-hans | 新加坡、马来西亚 | — (China continental não é mercado atendido e não aparece na versão) | `yesstyle-shipping-singapore-malaysia-zh-hans` |
 
-`type` novo: "Guia de Entrega e Frete". Termos propostos para a tabela do Job 4 (item 4 da seção 3): en "Shipping Guide", es "Guía de Envíos", fr "Guide de livraison", de "Versand-Ratgeber", it "Guida alle spedizioni", ko "배송 가이드", ja "配送ガイド", zh-hant "運送指南", zh-hans "运送指南".
+`type` novo: "Guia de Entrega e Frete", **aprovado pelo Bruno em 12/10/2026 (decisão C)**. Termos aprovados para os outros idiomas: en "Shipping Guide", es "Guía de Envíos", fr "Guide de livraison", de "Versand-Ratgeber", it "Guida alle spedizioni", ko "배송 가이드", ja "配送ガイド", zh-hant "運送指南", zh-hans "运送指南". **Tarefa do Job 4 (não feita agora):** acrescentar as colunas novas à tabela do item 4 da seção 3.
 
 Demanda por idioma: PT forte (Brasil 36 mil impressões; Portugal 2,8 mil, com consulta própria); EN e ES fortes; DE, FR e IT médias;
 JA, KO e ZH com autocomplete vazio e 100 a 450 impressões por país: saem curtas (a tabela da linha e a regra de reembolso).
@@ -284,14 +297,17 @@ JA, KO e ZH com autocomplete vazio e 100 a 450 impressões por país: saem curta
 ---
 
 ## 10. Pendências e o que o Bruno precisa abrir ou passar
-1. **Evidência do Brasil (essencial).** Hoje o oficial diz o oposto do que o Bruno viu: sem linha na tabela, sem Brasil no seletor, aviso de pausa
-   sem retomada. Para a linha do Brasil: (a) o checkout com um endereço brasileiro e a tela de opções de frete (método, prazo estimado,
-   frete grátis a partir de quanto), que o Bruno abre no navegador (eu não preencho formulário); (b) data do pedido que chegou, tempo real
-   de entrega, quem entregou (Correios ou outra transportadora), e se houve cobrança de imposto na chegada, quanto e como; (c) se a YesStyle
-   reembolsou. Com isso o PT escreve a linha como "o que a YesStyle mostra hoje" + "o que aconteceu em pedidos recentes".
-2. **Texto da linha do Brasil.** Opção A (recomendada): publicar com o fato oficial datado e o relato aprovado; opção B: adiar só o Brasil
-   (as outras 9 versões seguem, o PT sai com Portugal e uma nota de status). Como a família é "paridade completa", a opção B exige o PT
-   com um parágrafo de "Brasil em acompanhamento"; o Bruno decide.
+1. **Evidência do Brasil: RECEBIDA em 12/10/2026; a linha de entrega está liberada.** O Bruno mostrou o pedido próprio: feito em
+   17/09/2026, status "Enviado", despachado em 19/09/2026 pela Anjun Express (número do pedido e código de rastreio não são
+   registrados). É a fonte da linha do Brasil, ao lado do que a loja mostra hoje (sem linha na tabela, sem Brasil no seletor, aviso
+   de pausa de 3/7 sem retomada). **Em aberto, para uma atualização** (prazo, frete e frete grátis do Brasil seguem sem fonte):
+   (a) quando o pedido chegar, o Bruno passa a data de chegada e o imposto ou a taxa cobrados (quanto e como), e se a YesStyle
+   reembolsou; (b) um print do checkout com endereço brasileiro mostraria o frete e o limite de frete grátis (o Job 1 não
+   preenche formulário, o Bruno abre no navegador). Até lá, o PT diz só o que se sabe: entrega ativa pelo pedido próprio, a
+   transportadora e a regra da Receita Federal já em 6.2.
+2. **Texto da linha do Brasil: RESOLVIDA.** O PT cobre **Brasil e Portugal**; a linha do Brasil cita "pedido próprio enviado em
+   19/09/2026 pela Anjun Express", escrita como pedido do site e não como teste da loja. A opção B (adiar o Brasil e sair "só com
+   Portugal", com um parágrafo de "Brasil em acompanhamento") não é mais necessária.
 3. **ICMS e o reembolso.** Perguntar ao atendimento da YesStyle (chat) se o ICMS entra no "customs-related taxes and fees"; até lá o texto
    diz "o Imposto de Importação e as taxas cobradas na alfândega" e só.
 4. **Fonte da alfândega por país** (seção 7): decidir se há segunda rodada para México, Chile, Peru, Argentina, Colômbia, Japão, Coreia,
@@ -299,7 +315,8 @@ JA, KO e ZH com autocomplete vazio e 100 a 450 impressões por país: saem curta
 5. **Revisão das famílias de confiança e da Black Friday** (seção 2, "Conflitos"): quando esta família sair, encurtar o trecho de frete e a FAQ de prazo.
 6. **Revisão mensal:** a linha "effective starting …" da página `hsi.732`, a seção de avisos, as páginas de imposto e a Receita Federal
    entram na seção 3 de `docs/MANUTENCAO-MENSAL.md`; a tabela mudou em 06/10 e os limites do texto antigo (US$ 59) já não existem.
-7. **Releitura das traduções (Job 4, item 10):** contra a matriz da seção 6; nenhuma versão passou por pessoa nativa.
+7. **Releitura das traduções (Job 4, item 10): exceção aprovada em 12/10/2026 (decisão A).** Contra a matriz da seção 6, linha a
+   linha, não contra o PT; nenhuma versão passou por pessoa nativa.
 8. **PT único para Brasil e Portugal:** uma versão, duas variantes do idioma ("pacote" e "encomenda", "frete" e "portes"); o Job 2 usa os
    termos neutros ou nomeia os dois.
 
@@ -314,7 +331,8 @@ Regra de tom (Bruno, 12/10): direto, sem pormenores. Uma frase por fato; ressalv
 4. **Imposto: o que vem no preço e o que chega depois** (uma linha por país da versão, seção 6.2).
 5. **Se o pacote for taxado:** pague, guarde o recibo e peça o reembolso em até 30 dias, em crédito, em pedidos abaixo de US$ 1.000.
 6. **Se o pacote atrasar ou for devolvido:** envio perdido é reenviado sem custo; devolução em até 14 dias, produto de beleza aberto não volta.
-7. **Países que a YesStyle não atende** (a frase de exceções do idioma).
-8. **Perguntas frequentes** (10 itens, uma frase cada): entrega no meu país?; prazo?; frete grátis a partir de quanto?; tem taxa ou imposto?; reembolsa a taxa?; como pagar?; como devolver?; entrega na Canárias/Irlanda do Norte/Equador/China? (a exceção do idioma); por que o prazo muda?; onde ficam o cupom e o código de recompensa?
+7. **Perguntas frequentes** (10 itens, uma frase cada): entrega no meu país?; prazo?; frete grátis a partir de quanto?; tem taxa ou imposto?; reembolsa a taxa?; como pagar?; como devolver?; a linha do meu país cobre todo o território? (só o limite da linha do idioma, quando houver; nenhum mercado não atendido); por que o prazo muda?; onde ficam o cupom e o código de recompensa?
+
+Não há seção sobre "países que a YesStyle não atende": a regra D (seção 6.1) tira esse tema de todas as versões.
 
 Palavras fora dos títulos: confiável, legit, safe, scam, fake.

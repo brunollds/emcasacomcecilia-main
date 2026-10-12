@@ -8,8 +8,8 @@ reviewKind: "guia"
 type: "Comparativo"
 status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "Bruno decide os pontos da seção 10 (formato dos 9 idiomas e o conflito de comissão); depois redigir o PT (Job 2)"
-bloqueado_por: "decisão do Bruno sobre o formato das 9 traduções (seção 8); não bloqueia o PT"
+proxima_acao: "redigir o PT (Job 2); o Bruno ainda decide o conflito de comissão e se linka as políticas dos concorrentes (seção 10, itens 2 e 3), antes do Job 3"
+bloqueado_por: null
 score_autoridade: 70
 score_conversao: 85
 score_ponderado_total: 73
@@ -69,12 +69,13 @@ idiomas ([[03_Memoria/Clusters-Multilingues/SHEIN]]). Responde "X ou Y" e "X vs 
   a mesma peça nas duas". "Qual mais barato" tem resposta honesta: o artigo não mede preço.
 - [x] **4. Anti-Canibalização:** fronteira na seção 2.
 - [x] **5. Classe Canônica Válida:** `guias-praticos-utilidade`, `reviewKind: guia`, `type: Comparativo` (já usado
-  em 5 artigos do site; falta a coluna "Comparativo" na tabela do Job 4, item 4, nos outros 9 idiomas: proposta
-  na seção 8.1).
+  em 5 artigos do site; os rótulos dos outros 9 idiomas, propostos na seção 8.1, foram aprovados pelo Bruno em
+  12/10/2026; a coluna "Comparativo" na tabela do Job 4, item 4, é tarefa do Job 4, ainda não feita).
 - [x] **6. Fontes Acessíveis, Exatas & Atuais:** matriz abaixo, 12/10/2026. O que não foi lido está marcado
   "Não".
 - [x] **7. Decisão i18n Registrada:** `paridade-completa`, `translationKey: "shein-vs-shopee-temu"`. A
-  composição de cada idioma (concorrentes e fatos) é a da seção 8; ela depende da decisão A da seção 10.
+  composição de cada idioma (concorrentes e fatos) é a da seção 8, no formato aprovado pelo Bruno em 12/10/2026
+  (decisão A, seção 10).
 
 ---
 
@@ -226,10 +227,16 @@ devolução grátis na Temu da UE; **não vale como fonte** até alguém abrir a
   descreve como líder no Sudeste Asiático, em Taiwan e no Brasil; não a lista na Europa, nos EUA, no Japão nem na
   Coreia. Um "SHEIN ou Shopee" traduzido para francês ou alemão responderia a uma pergunta que ninguém lá faz.
   O concorrente do leitor francês, alemão, italiano, japonês e coreano é a Temu (e, na Coreia, o AliExpress).
-  Por isso a proposta é **mesma estrutura, concorrente do mercado** (decisão A da seção 10).
+  Por isso o formato é **mesma estrutura + bloco de mercado com o concorrente do mercado** (decisão A,
+  aprovada pelo Bruno em 12/10/2026).
 - **Fonte PT será a peça canônica?** [x] Sim, para a estrutura e os critérios. O conjunto de lojas, as
-  tabelas e o bloco de mercado de cada idioma são aprovados no Job 3 como parte da fonte (o item 10 do Job 4
-  pede "os mesmos claims": é a exceção que o Bruno precisa autorizar).
+  tabelas e o bloco de mercado de cada idioma são aprovados no Job 3 como parte da fonte.
+- **Regra do item 10 do Job 4 para esta família (exceção aprovada em 12/10):** núcleo igual nas 10 versões
+  (critérios, avisos, disclosure) + um bloco de mercado por idioma, com os fatos daquele mercado e a fonte
+  oficial própria de cada um. Job 3 e Job 4 conferem o bloco **linha a linha contra a matriz de claims (seção
+  6)**, não contra "os mesmos claims do PT". Fato de mercado sem linha na matriz não entra.
+- **Regra D (Bruno, 12/10):** cada versão cobre só os mercados que a loja atende e cujas páginas foram lidas;
+  nunca um mercado que ela não atende.
 - **Fatos universais (iguais nas 10 versões):** os critérios de escolha (frete, prazo, janela de devolução,
   quem paga a devolução, imposto, o que o Reclame Aqui/avaliação local mede e não mede); o fato de que cada loja
   publica regras próprias por país; a lista "o que conferir antes de comprar"; o aviso "este artigo não mede
@@ -251,13 +258,14 @@ devolução grátis na Temu da UE; **não vale como fonte** até alguém abrir a
 | ko | `shein-vs-temu-vs-ali-ko` | 쉬인 vs 테무 vs 알리: 어떻게 고를까 (배송, 환불, 관세) | Temu e AliExpress (a busca "쉬인 알리 테무" é a mais forte); sem Coupang | SHEIN Coreia (Wonderflow Support Pte. Ltd.; 60 dias) | Sem 알리/테무 (nenhuma página lida), sem 관세 |
 | ja | `shein-vs-temu-ja` | SHEIN（シェイン）とTemu、どっちを選ぶ？届くまで・返品・関税 | Temu; Amazon numa frase ("どっちがいい") | SHEIN Japão (Fashion Choice Pte. Ltd.; 40 dias); isenção de ¥ 10.000 (e a exceção das malhas) como regra de **qualquer** importação | Sem Temu; "どっちが安全" remete ao artigo de credibilidade |
 | zh-hant | `shein-vs-shopee-zh-hant` | SHEIN 跟蝦皮怎麼選？退貨、運送與關稅 | 蝦皮 (Shopee Taiwan): a Sea Limited diz que a Shopee lidera em Taiwan; "shein 蝦皮" é a busca que existe; Temu sem evidência | SHEIN Taiwan (Fashion Choice Pte. Ltd.; 15 dias) | Sem 蝦皮 (política de Taiwan não lida), sem 關稅 |
-| zh-hans | `shein-vs-temu-zh-hans` | SHEIN 和 Temu 怎么选？退货、物流与关税 | Temu ("shein 和 temu 区别/哪个好/对比"); sem mercado único | Nenhum fato de mercado; critérios e disclosure | A mais curta; confirmar o leitor (seção 10) |
+| zh-hans | `shein-vs-temu-zh-hans` | SHEIN 和 Temu 怎么选？退货、物流与关税 | Temu ("shein 和 temu 区别/哪个好/对比"); sem mercado único | Nenhum fato de mercado lido; critérios e disclosure. Decisão D (12/10): Cingapura e Malásia entram só quando as páginas da SHEIN e da loja concorrente nesses mercados forem lidas; **sem China continental** | A mais curta; sem prazo, devolução nem imposto de mercado |
 
-`type` "Comparativo" precisa da coluna nova na tabela do Job 4 (item 4); proposta: en "Comparison Guide", es
+`type` "Comparativo": **rótulos aprovados pelo Bruno em 12/10/2026** (decisão C): en "Comparison Guide", es
 "Guía comparativa", fr "Guide comparatif", de "Vergleich", it "Guida comparativa", ko "비교 가이드", ja
-"比較ガイド", zh-hant "比較指南", zh-hans "对比指南". A tabela do `test:review-i18n` só passa a aceitar depois
-de a coluna entrar (a regra de `type` igual ao PT barra "Comparativo" nas traduções). Cada versão leva o
-termo do código de indicação, o aviso "SHEIN Brasil", o `cta` neutro e `hideFromPortugueseListings: true`.
+"比較ガイド", zh-hant "比較指南", zh-hans "对比指南". **Tarefa do Job 4 (não feita agora):** acrescentar a
+coluna "Comparativo" à tabela do item 4; a tabela do `test:review-i18n` só passa a aceitar depois de a coluna
+entrar (a regra de `type` igual ao PT barra "Comparativo" nas traduções). Cada versão leva o termo do código de
+indicação, o aviso "SHEIN Brasil", o `cta` neutro e `hideFromPortugueseListings: true`.
 
 **Risco que a decisão A elimina:** sem ela, uma tradução literal do PT fala de Shopee, AliExpress e Reclame Aqui
 para quem não os conhece, e cada fato brasileiro precisaria do rótulo "da SHEIN Brasil", o que deixa o texto
@@ -306,19 +314,20 @@ Perguntas que **não** entram aqui (vão ao artigo de credibilidade): "a Shein �
 
 ## 10. Pendências e decisões para o Bruno
 
-**Decisões**
-1. **(A) Formato das 9 traduções.** Recomendo a mesma estrutura com o concorrente do mercado (seção 8.1), o
-   que exige autorizar a exceção ao "mesmos claims" do item 10 do Job 4. Alternativa B: traduzir o PT com todos os
-   fatos como "do Brasil"; fiel, mas sem sentido para quem não conhece a Shopee. Alternativa C: só PT, o que
-   muda a regra do cluster SHEIN (não recomendo).
-2. **Conflito de comissão.** A Cecília só ganha com a SHEIN. O artigo diz isso no disclosure e dá a resposta
+**Decisões do Bruno (12/10/2026)**
+1. **(A) Formato das 9 traduções: RESOLVIDA, "Sim".** Exceção ao item 10 do Job 4 aprovada: núcleo igual + bloco de
+   mercado por idioma (com o concorrente do mercado, seção 8.1), cada fato com fonte oficial própria; Job 3 e
+   Job 4 conferem o bloco linha a linha contra a matriz da seção 6, não contra o PT.
+2. **Conflito de comissão (em aberto).** A Cecília só ganha com a SHEIN. O artigo diz isso no disclosure e dá a resposta
    "depende de", sem veredito. Se o Bruno achar que a combinação (artigo comparativo + só o link da SHEIN)
    pesa contra a credibilidade, a alternativa é não linkar o CTA nesse artigo. É decisão editorial.
-3. **Linkar a página oficial de política de cada loja** (Shopee, Temu, AliExpress)? Recomendo não, só nome e
-   data; o link de concorrente sai do controle do site.
-4. **Coluna "Comparativo"** na tabela de `type` do Job 4 (proposta na seção 8.1).
-5. **zh-hans:** quem é o leitor? (Cingapura e Malásia, diáspora, China continental). Sem isso a versão fica sem
-   fatos de mercado.
+3. **Linkar a página oficial de política de cada loja** (Shopee, Temu, AliExpress)? (em aberto) Recomendo não, só
+   nome e data; o link de concorrente sai do controle do site.
+4. **(C) Rótulo `type` "Comparativo" nos 10 idiomas: RESOLVIDA, "Sim".** Rótulos da seção 8.1 aprovados. A coluna
+   nova na tabela do Job 4 (item 4) é tarefa do Job 4, ainda não feita.
+5. **(D) zh-hans: RESOLVIDA, "os mercados que entregam sempre".** Só mercados que a loja atende, nunca um que ela
+   não atende; sem China continental. Cingapura e Malásia entram quando as páginas desses mercados forem lidas;
+   até lá a versão leva critérios e disclosure.
 
 **Pendências de pesquisa (não consegui, ou não devo fazer sozinho)**
 - **AliExpress, política de devolução e envio do Brasil:** a página oficial pediu login e abriu em branco. O Bruno

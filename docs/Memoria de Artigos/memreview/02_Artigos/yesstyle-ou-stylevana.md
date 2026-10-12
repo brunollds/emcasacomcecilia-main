@@ -8,8 +8,8 @@ reviewKind: "guia"
 type: "Comparativo de Lojas"
 status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "Bruno abrir no navegador as páginas oficiais do Stylevana e do Yami (bloqueio anti-bot, seção 10) e decidir a capa; depois redigir o PT (Job 2)"
-bloqueado_por: "fatos oficiais do Stylevana (Cloudflare 'Um momento…') e do Yami (Human Verification): a pauta não vai ao Job 2 sem a linha do Stylevana na tabela"
+proxima_acao: "o Bruno escolhe a saída para o Stylevana (seção 10, item 1: esperar e retentar as páginas oficiais, ou publicar agora como 'YesStyle ou Olive Young' e acrescentar o Stylevana depois) e decide a capa; depois redigir o PT (Job 2)"
+bloqueado_por: "páginas oficiais do Stylevana ilegíveis em 12/10/2026 para o Bruno (Cloudflare) e para o Job 1 (curl 403); trechos do Google não são fonte. A pauta não vai ao Job 2 com 'Stylevana' no título sem a linha da loja. O Yami saiu da comparação"
 score_autoridade: 72
 score_conversao: 78
 score_ponderado_total: 74
@@ -55,8 +55,10 @@ famílias de confiança e Black Friday está na seção 2.
 
 ## 1. Portões Obrigatórios (Hard Gates)
 - [ ] **1. Evidência Factual Suficiente:** **parcial.** YesStyle, Olive Young, StyleKorean e Jolse lidos nas páginas
-  oficiais em 12/10/2026 (seção 6). Stylevana e Yami bloquearam o navegador (verificação anti-bot) e não foram
-  lidos; sem a linha do Stylevana a comparação não fecha.
+  oficiais em 12/10/2026 (seção 6). O Stylevana bloqueou o navegador (Cloudflare) e o `curl` (403), e o Bruno
+  também não conseguiu passar a verificação ("nem eu estou conseguindo", 12/10); o Yami saiu da comparação
+  (também bloqueado). Os trechos do Google do `stylevana.com` são parciais e trazem códigos: não são fonte. Sem a
+  linha do Stylevana a comparação com esse nome não fecha.
 - [x] **2. Segurança Regulatória & Ética:** cosméticos sem claim de saúde; só política de loja (envio, imposto,
   devolução). Nenhuma fala sobre "falso" ou "golpe" de loja concorrente: sobre autenticidade, só a frase que
   cada loja publica, atribuída a ela.
@@ -69,7 +71,7 @@ famílias de confiança e Black Friday está na seção 2.
   país da YesStyle, que é da família `yesstyle-shipping-by-country`.
 - [x] **5. Classe Canônica Válida:** `guias-praticos-utilidade` (informação pública das lojas, sem teste próprio).
 - [ ] **6. Fontes Acessíveis, Exatas & Atuais:** **parcial**, mesma razão do portão 1. Para o Stylevana, a pauta
-  precisa das páginas de envio, devolução e autenticidade (seção 10).
+  precisa das páginas de envio, devolução e autenticidade, ilegíveis para todos em 12/10 (seção 10, item 1).
 - [x] **7. Decisão i18n Registrada:** `paridade-completa`, `translationKey: "yesstyle-vs-alternatives"`.
 
 ---
@@ -152,7 +154,7 @@ famílias de confiança e Black Friday está na seção 2.
 | Todos os pedidos saem do armazém de Hong Kong; "Estimated delivery = product availability + shipping time"; item em estoque despacha em 1 a 3 dias úteis | Fato oficial | `yesstyle.com/en/shipping-rates-delivery/help/section.html/hsi.732`; `…/product-availability/help/section.html/hsi.730` | "Where does YesStyle ship its orders from?"; tabela de disponibilidade | [x] Sim |
 | Frete, prazo e frete grátis por país (tabela de 152 regiões, vigente desde 06/10/2026 07:00 GMT) | Fato oficial | `hsi.732` (tabela embutida na página; leitura direta do conteúdo, sem mexer no seletor) | Tabela "Shipping Rates & Delivery Time" | [x] Sim, por país, com a data de vigência |
 | O Brasil não consta da lista de países atendidos nem da tabela; o aviso de 3/7/2026 ("pausa temporária de novos pedidos ao Brasil") segue no ar sem aviso de retomada; o seletor de destino da loja em PT não lista o Brasil | Fato oficial | `hsi.732` ("Which countries and regions…"); `/en/help/announcement.html` e `/pt/help/announcement.html`; seletor "Endereço de Entrega" em `/pt/home.html` (aberto e fechado sem salvar) | Lista alfabética Bolívia → Brunei, sem Brasil | [x] Sim, dito como "o que a loja mostra hoje" |
-| Os envios ao Brasil funcionam: o Bruno recebeu um pedido parado na suspensão e viu outro ser enviado (11/10) | Relato do dono | Bruno, 11/10/2026 | — | [ ] Só com a evidência da seção 10 (decidir o texto com o Bruno) |
+| A YesStyle entrega no Brasil hoje, embora a tabela oficial de 06/10 não o liste: pedido próprio do site, feito em 17/09/2026, com status "Enviado" e despachado em 19/09/2026 pela transportadora Anjun Express | Experiência própria do Bruno, datada | Pedido do Bruno na conta dele (12/10/2026; número do pedido e código de rastreio **não** entram em lugar nenhum) | — | [x] Sim, escrito como "pedido próprio enviado em 19/09/2026 pela Anjun Express", não como teste da loja. Prazo, frete e frete grátis para o Brasil seguem sem fonte (a mesma evidência vale na família de entrega, `yesstyle-entrega-por-pais`, seção 6.1). O relato antigo de 11/10 (pedido parado recebido) não entra |
 | Devolução em até 14 dias com RMA; produto de beleza aberto não volta; reembolso padrão em crédito da loja; cupom e frete não são reembolsáveis | Fato oficial | `…/returns/help/section.html/hsi.736` | "RETURN POLICY" | [x] Sim |
 | Reembolso de imposto e taxa de alfândega em pedidos abaixo de US$ 1.000 (antes do cupom, sem frete), em crédito, com comprovante em 30 dias; excluídos os impostos já cobrados no checkout (EUA, Austrália e Nova Zelândia, Saskatchewan, Reino Unido, UE, Noruega e Suíça, Índia, Singapura) | Fato oficial | `hsi.2212`; `…/customs-tax/help/section.html/hsi.735` | Texto inteiro | [x] Sim. **Não** estender ao ICMS sem confirmação (ver 10) |
 | "Todos os nossos produtos são genuínos…"; "autorizada distribuidora de mais de 400 marcas coreanas" | Afirmação da loja | `…/beauty/help/section.html/hsi.793` ("Do you sell genuine beauty products?") e `/en/about-us.html` | Como afirmação da YesStyle, sem auditoria independente (igual à família de confiança) | [x] Sim, atribuída |
@@ -191,19 +193,19 @@ famílias de confiança e Black Friday está na seção 2.
 | Imposto de importação e taxas são do cliente e não são reembolsados; o valor declarado na alfândega é o efetivamente pago, com o frete, e não pode ser alterado | Fato oficial | `jolse.com/article/faq/3/130700/` ("Customs Tax / Shipping Issues") | — | [x] Sim |
 | Devolução: defeito, item errado ou faltando em até 7 dias do recebimento, com fotos; sem devolução por arrependimento nem de produto aberto | Fato oficial | `jolse.com/article/faq/3/130701/` | — | [x] Sim |
 
-**6.5 Stylevana e Yami (não lidos)**
+**6.5 Stylevana (não lido) e Yami (fora da comparação)**
 
 | Afirmação planejada | Fonte Exata | Situação | Pode Publicar? |
 |---|---|---|---|
-| Frete, prazo, frete grátis, imposto, devolução e a frase de autenticidade do Stylevana | `stylevana.com/en_US/shipping-information.html` e páginas de devolução | Cloudflare "Um momento…" ao abrir; não contornado | [ ] Não, depende do Bruno (seção 10) |
-| Idem para o Yami | `yami.com` (redirecionou de `yamibuy.com`) | "Human Verification"; não contornado | [ ] Não. O Yami só entra se o Bruno passar a verificação; caso contrário, fora da família |
+| Frete, prazo, frete grátis, imposto, devolução e a frase de autenticidade do Stylevana | `stylevana.com/en_US/shipping-information.html` e páginas de devolução | Cloudflare "Um momento…" no navegador e 403 no `curl` (12/10); o Bruno também não passou a verificação. Os trechos do Google do `stylevana.com` são parciais e contêm códigos: **não são fonte** | [ ] Não. **Páginas oficiais do Stylevana ilegíveis em 12/10 por qualquer pessoa**; a linha só entra quando uma página oficial for lida (saídas na seção 10, item 1) |
+| Idem para o Yami | `yami.com` (redirecionou de `yamibuy.com`) | "Human Verification"; não contornado | [ ] Não. **Decisão de 12/10: o Yami sai da comparação** (também bloqueado), em todos os idiomas |
 
 **6.5b Outros**
 
 | Afirmação planejada | Tipo de Dado | Fonte Exata | Localização / Trecho | Pode Publicar? |
 |---|---|---|---|---|
 | A Shopee Brasil devolve pela "Garantia Shopee" em até 7 dias do recebimento, pelo app (marketplace de vendedores terceiros) | Fato oficial | `help.shopee.com.br/portal/4/article/76327` | Aviso "Importante" | [x] Sim, só na versão PT, como contraste de marketplace |
-| A Shopee consta como plataforma certificada no Remessa Conforme; a YesStyle, a Jolse, a StyleKorean e a Olive Young não constam (51 plataformas em operação e 17 em implantação, lidas em 12/10) | Fato oficial | Receita Federal, `…/remessas-postal-e-expressa/empresas-certificadas-no-programa-remessa-conforme-prc` e `…/copy_of_empresas-certificadas-no-programa-remessa-conforme-prc` | Quadros de empresas | [x] Sim, só na versão PT; o Stylevana e o Yami precisam da mesma conferência nas listas |
+| A Shopee consta como plataforma certificada no Remessa Conforme; a YesStyle, a Jolse, a StyleKorean e a Olive Young não constam (51 plataformas em operação e 17 em implantação, lidas em 12/10) | Fato oficial | Receita Federal, `…/remessas-postal-e-expressa/empresas-certificadas-no-programa-remessa-conforme-prc` e `…/copy_of_empresas-certificadas-no-programa-remessa-conforme-prc` | Quadros de empresas | [x] Sim, só na versão PT; o Stylevana precisa da mesma conferência nas listas (o Yami saiu da comparação) |
 | Fora do Remessa Conforme, o Imposto de Importação é 60% sem desconto e o ICMS 17% a 20%, cobrados depois da chegada; no Remessa Conforme, 0% até US$ 50 e 60% menos US$ 30 acima disso | Fato oficial | Receita Federal, `…/remessas-postal-e-expressa/regras-futuras` ("regras desde 12/05/2026") | Tabelas 1 e 2 | [x] Sim, só PT |
 | "A YesStyle não é uma marca do SHEIN Group": o site do grupo lista SHEIN, DAZY, ROMWE, MOTF, ANEWSTA, MUSERA, GLOWMODE e ARALINA; a YesStyle diz ser da YesAsia Holdings, de Hong Kong (já na família de confiança) | Fato oficial por ausência + afirmação da loja | `sheingroup.com` (menu "Brands") e `yesstyle.com/en/about-us.html` | Lista de marcas | [x] Sim, redigido como "não aparece na lista de marcas do grupo", não como "não tem relação" |
 | Preço "mais barato" de qualquer loja | — | Não há fonte estável; preço muda por produto e por dia | [ ] Não. Nenhuma frase de preço comparado |
@@ -226,13 +228,15 @@ famílias de confiança e Black Friday está na seção 2.
 - **Modo i18n:** [x] Paridade completa (10 idiomas).
 - **Justificativa de mercado:** o autocomplete é multilíngue (EN, ES, PT, FR, DE, IT) e os GSC por país mostram leitor em todos os mercados. Em KO, JA e ZH o autocomplete não tem comparação; as versões saem por regra do cluster, curtas.
 - **Fonte PT será a peça canônica?** [x] Sim. **Atenção:** o PT não vira "tradução" literal; cada idioma traz as lojas e os países do seu mercado (tabela abaixo), como a família de entrega.
+- **Regra do item 10 do Job 4 para esta família (exceção aprovada pelo Bruno em 12/10/2026, decisão A):** núcleo igual (regra "sem veredito", política de cada loja, a resposta sobre a Shein) + bloco de mercado por idioma (lojas e países da tabela), cada fato com fonte oficial própria. Job 3 e Job 4 conferem **linha a linha contra a matriz da seção 6**, não contra "os mesmos claims do PT".
+- **Regra D (Bruno, 12/10):** cada versão cobre só os países que a loja atende, nunca um mercado que ela não atende.
 - **Fatos universais que podem ser localizados sem nova fonte:** a política de cada loja (devolução, quem paga imposto, de onde envia), a regra "sem veredito" e a resposta sobre a Shein.
 - **Fatos dependentes de país:** prazo, frete grátis, imposto, disponibilidade. Cada versão só fala dos países da linha dela, com a fonte da seção 6; nenhum valor é convertido (tudo em US$, como as lojas publicam).
 
 | Idioma | Mercados da tabela | Lojas na tabela | Slug sugerido |
 |---|---|---|---|
 | pt | Brasil, Portugal | YesStyle, Stylevana*, Olive Young, StyleKorean, Jolse; Shopee em um parágrafo | `yesstyle-ou-stylevana` |
-| en | EUA, Reino Unido, Canadá, Austrália | + Yami* | `yesstyle-vs-stylevana-olive-young` |
+| en | EUA, Reino Unido, Canadá, Austrália | YesStyle, Stylevana*, Olive Young, StyleKorean, Jolse (o Yami saiu da comparação) | `yesstyle-vs-stylevana-olive-young` |
 | es | España, México, Chile, Perú, Argentina, Colombia | YesStyle, Stylevana*, Olive Young, Jolse, StyleKorean | `yesstyle-o-stylevana-cual-elegir` |
 | fr | France, Belgique, Canada | YesStyle, Stylevana*, Olive Young, StyleKorean, Jolse | `yesstyle-ou-stylevana-que-choisir` |
 | de | Deutschland, Österreich, Schweiz | idem | `yesstyle-oder-stylevana-welcher-shop` |
@@ -240,11 +244,11 @@ famílias de confiança e Black Friday está na seção 2.
 | ja | Japão | YesStyle, Olive Young, Stylevana*; Jolse e StyleKorean ficam de fora (Jolse não envia; StyleKorean não lista o Japão) | `yesstyle-vs-stylevana-ja` |
 | ko | Coreia do Sul | YesStyle, StyleKorean (US$ 70); Jolse não envia; Olive Young Global não lista | `yesstyle-vs-stylevana-ko` |
 | zh-hant | Taiwan, Hong Kong | YesStyle, Olive Young, StyleKorean, Jolse, Stylevana* | `yesstyle-vs-stylevana-zh-hant` |
-| zh-hans | Singapura, Malásia (China continental fora) | idem | `yesstyle-vs-stylevana-zh-hans` |
+| zh-hans | Singapura, Malásia (só mercados que a YesStyle atende; nada sobre a China continental) | idem | `yesstyle-vs-stylevana-zh-hans` |
 
-\* depende da leitura da página oficial pelo Bruno. Se o Stylevana não for lido, o título muda e a pauta não segue com esse nome.
+\* depende de uma página oficial do Stylevana ser lida. Se o Stylevana não for lido, o título muda e a pauta não segue com esse nome (saídas na seção 10, item 1).
 
-`type` novo: "Comparativo de Lojas". Termos propostos para a tabela do Job 4 (item 4 da seção 3): en "Store Comparison", es "Comparativa de Tiendas", fr "Comparatif de boutiques", de "Shop-Vergleich", it "Confronto tra negozi", ko "쇼핑몰 비교", ja "ショップ比較", zh-hant "購物平台比較", zh-hans "购物平台比较".
+`type` novo: "Comparativo de Lojas", **aprovado pelo Bruno em 12/10/2026 (decisão C)**, com estes termos nos outros idiomas: en "Store Comparison", es "Comparativa de Tiendas", fr "Comparatif de boutiques", de "Shop-Vergleich", it "Confronto tra negozi", ko "쇼핑몰 비교", ja "ショップ比較", zh-hant "購物平台比較", zh-hans "购物平台比较". **Tarefa do Job 4 (não feita agora):** acrescentar as colunas novas à tabela do item 4 da seção 3. Se a opção 2 da seção 10 (item 1) for a escolhida, o rótulo continua o mesmo.
 
 ---
 
@@ -265,14 +269,24 @@ Palavras fora dos títulos: confiável, legit, safe, scam, fake, melhor.
 ---
 
 ## 10. Pendências e o que o Bruno precisa abrir ou passar
-1. **Stylevana (essencial).** Abrir no navegador do app e passar a verificação do Cloudflare em
-   `https://www.stylevana.com/en_US/shipping-information.html`; depois, a página de devolução e a de FAQ sobre
-   originalidade. Eu leio de novo quando a página abrir.
-2. **Yami.** `https://www.yami.com` mostrou "Human Verification". Se o Bruno passar, leio a política; se não, a
-   família sai sem o Yami (o EN só perde uma coluna).
+1. **Stylevana (essencial; o Bruno escolhe a saída).** Em 12/10/2026 as páginas oficiais do Stylevana
+   (`https://www.stylevana.com/en_US/shipping-information.html`, devolução e FAQ de originalidade) ficaram ilegíveis
+   por qualquer pessoa: Cloudflare no navegador, 403 no `curl` do Job 1, e o Bruno também não passou a verificação.
+   Os trechos do Google do `stylevana.com` são parciais e trazem códigos: **não são fonte**. A pauta segue bloqueada
+   e há duas saídas para o Bruno:
+   - **Opção 1: esperar e retentar.** Tentar as páginas oficiais de tempos em tempos (por exemplo, de outra rede ou
+     outro aparelho). Quando uma abrir, o Job 1 lê e fecha a linha; o título e o slug ficam como estão.
+   - **Opção 2: publicar agora como "YesStyle ou Olive Young (Jolse, StyleKorean)"**, só com as lojas já lidas, e
+     acrescentar o Stylevana numa atualização quando a página abrir. **Custo de SEO:** "yesstyle vs stylevana" é o
+     termo mais forte do autocompletar (EN e ES), e a opção 2 sai sem ele no título e no slug, então começa mais
+     fraca; o título, o `seo_title` e o slug mudariam (por exemplo, sem "stylevana").
+2. **Yami: fora da comparação (decisão de 12/10).** `https://www.yami.com` também mostrou "Human Verification" e o
+   Yami sai da família em todos os idiomas (o EN perde uma coluna).
 3. **Brasil nas outras lojas.** O Bruno pode abrir o checkout de cada loja com um endereço brasileiro e me passar a
    tela de frete: StyleKorean (banner diz que envia ao Brasil, mas a tabela não traz o país) e Olive Young
-   (FAQ diz que não envia). Sem isso, o PT usa só o que a página oficial diz.
+   (FAQ diz que não envia). Sem isso, o PT usa só o que a página oficial diz. **Para a YesStyle no Brasil, a
+   evidência já existe** (pedido próprio enviado em 19/09/2026 pela Anjun Express, seção 6.1); prazo, frete e frete
+   grátis dela para o Brasil seguem sem fonte, e o texto não os inventa.
 4. **ICMS e o reembolso da YesStyle.** A política devolve "customs taxes, import duties, VAT e taxas
    administrativas"; o ICMS não é citado. Perguntar ao atendimento da YesStyle ou usar um caso real antes de a
    comparação (e a família de entrega) dizerem que o ICMS volta.
@@ -287,6 +301,7 @@ Palavras fora dos títulos: confiável, legit, safe, scam, fake, melhor.
 8. **Efeito colateral para outras famílias (não editei nada):** depois que a família de entrega sair, a seção de
    envio das famílias de confiança (números antigos de frete grátis e prazo) e a FAQ de prazo para o Brasil precisam
    de uma releitura, para não contradizer a tabela nova (detalhe na briefing de entrega, seção 2).
-9. **Releitura das traduções (Job 4, item 10):** o critério "mesmos claims do PT" não vale para as tabelas de
-   mercado, que mudam de idioma para idioma por decisão. A conferência é contra a matriz da seção 6, linha a linha.
+9. **Releitura das traduções (Job 4, item 10): RESOLVIDA em 12/10/2026 (decisão A).** Exceção aprovada: o critério
+   "mesmos claims do PT" não vale para as tabelas de mercado, que mudam de idioma para idioma. A conferência é contra a
+   matriz da seção 6, linha a linha.
 10. **Nenhuma versão passou por pessoa nativa do idioma.**

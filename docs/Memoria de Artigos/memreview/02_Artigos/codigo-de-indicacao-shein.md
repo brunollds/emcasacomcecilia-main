@@ -5,11 +5,11 @@ slug_sugerido: "codigo-de-indicacao-shein"
 parceiro: "[[SHEIN]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
-type: "Guia do Código de Indicação" # decisão do Bruno na seção 10 (alternativa: reaproveitar "Guia & Cupons")
+type: "Guia do Código de Indicação" # rótulo novo aprovado pelo Bruno em 12/10/2026 (decisão C), com os 9 termos da seção 10
 status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "capturar as telas do app (seção 5) e redigir o PT; só depois o Job 3"
-bloqueado_por: null
+proxima_acao: "o Bruno captura as telas do app (seção 5, M1 a M4; ainda não enviadas em 12/10) e confirma o que o 4CW5Y abre (P2); o Job 2 pode redigir o PT antes; só depois o Job 3"
+bloqueado_por: "capturas M1 a M4 do app e confirmação do que o 4CW5Y abre (P1 e P2, do Bruno); bloqueiam o Job 3, não o Job 2"
 score_autoridade: 68
 score_conversao: 78
 score_ponderado_total: 74
@@ -250,6 +250,14 @@ que a busca é o lugar certo e o campo de cupom o errado, o que abre depois, o q
   aberto no país do leitor; as regras dos convites de amigo de JA/KO/EUA.
 - **O que fazer quando a versão só repetiria "é um programa do Brasil":** as 9 traduções **não** são cópia do PT. Elas dizem
   o que é verdadeiro em qualquer país (a regra da busca) e avisam o que é do Brasil. Mínimo honesto abaixo.
+- **Regra do item 10 do Job 4 para esta família (exceção aprovada pelo Bruno em 12/10/2026, decisão A):** núcleo igual +
+  bloco de mercado. O núcleo são os fatos universais acima (a regra da busca, a página de seleções, a vantagem sem valor
+  fixo, o código fixo); o bloco de mercado, nesta família, é um só, o **Brasil** (o 4CW5Y, o aviso "SHEIN Brasil", o
+  requisito de seguidores), com a fonte oficial de cada fato na matriz da seção 6. Job 3 e Job 4 conferem as traduções
+  **linha a linha contra a matriz**, e não contra "os mesmos claims do PT". Fato de qualquer outro mercado só entra com
+  linha própria na matriz.
+- **Regra D (Bruno, 12/10):** cada versão cobre só os mercados que a loja atende. Aqui o único mercado coberto é o Brasil,
+  onde o código existe; nenhuma versão trata de mercado que a SHEIN não atende, e o zh-hans não cobre a China continental.
 
 **Estrutura**
 
@@ -275,7 +283,7 @@ que a busca é o lugar certo e o campo de cupom o errado, o que abre depois, o q
 | ko | 추천 코드 (citar 추천인 코드/초대 코드 como sinônimos) | `shein-referral-code-ko` | Idem; **SHEIN 브라질**; frase: o guia não cobre convite de amigo | Demanda de KO é por 친구 초대 (12만원 etc.): esta versão **responde só a parte "onde digitar"** |
 | ja | 紹介コード (citar 招待コード) | `shein-referral-code-ja` | Idem; **SHEIN ブラジル**; 「クーポン欄ではなく検索窓」 | Demanda de JA é por 友達紹介 (5,000円): idem; "詐欺/危険" não repetir |
 | zh-hant | 推薦碼 | `shein-referral-code-zh-hant` | Idem; **SHEIN 巴西站** | Sem demanda medida além do termo base |
-| zh-hans | 推荐码 | `shein-referral-code-zh-hans` | Idem; **SHEIN 巴西站** | A SHEIN não opera para a China continental; sem demanda medida |
+| zh-hans | 推荐码 | `shein-referral-code-zh-hans` | Idem; **SHEIN 巴西站** | Não cobre a China continental (regra D); "a SHEIN não opera na China" não tem fonte na matriz e não entra; sem demanda medida |
 
 - **Resumo honesto:** as 9 traduções são versões **menores** (6 seções, FAQ de 7) e a menos útil por demanda é a de ko/ja (a
   intenção principal é convite de amigo). Decisão do Bruno mantida: sai nos 10. Se, na leitura nativa, a versão JA/KO parecer
@@ -285,11 +293,11 @@ que a busca é o lugar certo e o campo de cupom o errado, o que abre depois, o q
   comment l'utiliser"; de "SHEIN-Empfehlungscode (Brasilien): wo eingeben und wie er funktioniert"; it "Codice invito SHEIN Brasile:
   dove inserirlo e come usarlo"; ko "SHEIN 브라질 추천 코드: 입력하는 곳과 사용법"; ja "SHEIN ブラジルの紹介コード：入力する場所と使い方";
   zh-hant "SHEIN 巴西站推薦碼：在哪裡輸入、怎麼用"; zh-hans "SHEIN 巴西站推荐码：在哪里输入、怎么用".
-- **`type` (rótulo público):** recomendado um rótulo novo que **não** diga "cupom": pt "Guia do Código de Indicação", en
-  "Referral Code Guide", es "Guía del código de referido", fr "Guide du code de parrainage", de "Empfehlungscode-Ratgeber",
-  it "Guida al codice invito", ko "추천 코드 가이드", ja "紹介コードガイド", zh-hant "推薦碼指南", zh-hans "推荐码指南". Exige
-  uma coluna nova na tabela do item 4 da seção 3 do Job 4. A alternativa sem trabalho extra é reaproveitar "Guia & Cupons"
-  (precedente: o CECILIA010, decisão do Bruno), mas o rótulo contradiz a tese do guia.
+- **`type` (rótulo público): APROVADO pelo Bruno em 12/10/2026 (decisão C)**, um rótulo novo que **não** diz "cupom": pt "Guia
+  do Código de Indicação", en "Referral Code Guide", es "Guía del código de referido", fr "Guide du code de parrainage", de
+  "Empfehlungscode-Ratgeber", it "Guida al codice invito", ko "추천 코드 가이드", ja "紹介コードガイド", zh-hant "推薦碼指南",
+  zh-hans "推荐码指南". **Tarefa do Job 4 (não feita agora):** acrescentar a coluna nova à tabela do item 4 da seção 3 do
+  Job 4. "Guia & Cupons" (precedente do CECILIA010) fica descartado: o rótulo contradiria a tese do guia.
 - **`hideFromPortugueseListings: true`** nas 9 traduções; `isNew: true` só no PT.
 - **Link do `cta`:** PT, o `offerUrl` do cupom `shein` (copiar do arquivo, conferir igual byte a byte, nunca abrir); as 9
   traduções, o link neutro de `COUPON_TRANSLATIONS.shein`. `sponsored: true`. Nenhum link `br.shein.com` fora do PT.
@@ -343,19 +351,23 @@ Títulos de seção sem marcador de FAQ fora da seção de perguntas (lição 4 
 ## 13. Pendências
 
 **Do Bruno (bloqueiam o Job 3; o Job 2 pode redigir antes):**
-- **P1. Capturas M1 a M4** (seção 5), no app da SHEIN Brasil dele, e dizer o aparelho. M5 e M6 são opcionais.
+- **P1. Capturas M1 a M4** (seção 5), no app da SHEIN Brasil dele, e dizer o aparelho. M5 e M6 são opcionais. **EM ABERTO em
+  12/10/2026: o Bruno ainda não enviou as capturas.**
 - **P2. Confirmar no app o que o `4CW5Y` abre** (M3): o nome da tela, e se há uma oferta ou condição visível para uma conta nova e para
-  uma existente. Até lá o guia diz "segundo a SHEIN, abre a página de seleções".
+  uma existente. Até lá o guia diz "segundo a SHEIN, abre a página de seleções". **EM ABERTO** (depende das capturas).
 - **P3. Reconferir a FAQ de afiliados** (F1 e F2) na hora da redação: F1 é de 29/08/2024 e F2 não tem data; qualquer mudança
   no programa invalida a seção 4.
-- **P4. Decidir o `type`:** rótulo novo (seção 10) ou "Guia & Cupons".
+- **P4. Decidir o `type`: RESOLVIDA em 12/10/2026 (decisão C).** Rótulo novo da seção 10 aprovado nos 10 idiomas; falta só a
+  coluna na tabela do Job 4 (tarefa do Job 4).
 - **P5. Confirmar o escopo das 9 traduções menores** (6 seções, FAQ de 7), sabendo que ko/ja respondem só a metade da busca.
+  **RESOLVIDA em 12/10/2026 (decisão A):** as 9 traduções são o núcleo + o bloco "Brasil", conferidas linha a linha contra a
+  matriz da seção 6; o risco de ko/ja (demanda é de convite de amigo) segue como está no "Resumo honesto" da seção 10.
 - **P6. Dizer se o código funciona na busca do site** no computador (M5). Sem isso, nada de "no computador".
 - **P7. Aprovar a frase de divergência da loja** (sem o aviso "não vai no campo de cupom"): só se quiser, em outra sessão.
 
 **Do vault / Job 2 a 5:**
 - **P8.** Quando publicar: acrescentar a chave `shein-referral-code` à matriz do cluster SHEIN, as duas páginas de F1/F2 à
-  seção 3 do dossiê `01_Parceiros/SHEIN.md` (nesta tarefa não editei nenhum outro arquivo) e a coluna do `type` ao Job 4 (P4).
+  seção 3 do dossiê `01_Parceiros/SHEIN.md` (nesta tarefa não editei nenhum outro arquivo) e a coluna do `type` ao Job 4 (rótulos aprovados, P4).
 - **P9.** Depois do ar: um link do guia de Black Friday da SHEIN (seção "Cupons, pontos e o código 4CW5Y") para este guia, nos
   10 idiomas; é edição de artigo publicado e pede o OK do Bruno.
 - **P10.** Releitura nativa: a regra "cupom" só como negação, o termo de cada idioma e o aviso de SHEIN Brasil em cada versão.
