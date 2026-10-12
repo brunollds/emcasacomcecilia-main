@@ -1,7 +1,7 @@
 # /cupons: animações e efeitos (D2.2)
 
 **Data:** 2026-10-11, revista em 2026-10-12.
-**Status:** desenho aprovado pelo Bruno em 11/10, parte por parte. O Bruno delegou a revisão da spec, que o Meta Muse e um revisor Claude fizeram em 12/10. Esta versão incorpora os achados deles (ver "Revisão da spec", no fim).
+**Status:** desenho aprovado pelo Bruno em 11/10, parte por parte. O Bruno delegou a revisão da spec, que o Meta Muse e um revisor Claude fizeram em 12/10. Esta versão incorpora os achados deles (ver "Revisão da spec", no fim) e os ajustes do plano (`docs/superpowers/plans/2026-10-11-cupons-movimento.md`): a etiqueta como bloco, a trava do `RevealSection` pelo código e a ordem das tarefas.
 **Base:** o branch `claude/home-d2-2`, que acumula as correções e os redesigns da D2.2 para um deploy só. O HEAD é `d76e523`, com `/reviews`, `/videos` e os pendentes da home em outros idiomas prontos.
 **Tela do brainstorm:** `.superpowers/brainstorm/84039-1791756354/content/cupons-movimento-v3.html` (pasta fora do git), com os três momentos e as três opções de cada um.
 
@@ -70,7 +70,7 @@ O atraso é assimétrico: a ida tem `transition-delay: 550ms` dentro do `:has()`
 ## 2. A chegada com a etiqueta carimbada
 
 **Páginas de loja.** O número grande do topo é o `titleFigure` do `StoreHero`: o `DiscountFigure` `hero` ou o `AmountFigure` da YesStyle, com o desconto em número ou em palavras.
-- Ele é envolvido por um `span` com a classe `.etiqueta-entra`, que tem `display: inline-block`. Um `span` inline ignora `scale` e `rotate`. O ponto de apoio (`transform-origin`) fica embaixo à esquerda.
+- Ele é envolvido por um `span` com as classes `.etiqueta-entra` e `block`: um `span` inline ignora `scale` e `rotate`. No `h1` (`flex flex-col`) o `span` já é item flex, e o `block` deixa isso explícito. A classe `.etiqueta-entra` não define `display`: no hub ela vai no `div` que já envolve o número, e um `inline-block` ali criaria uma linha com folga embaixo e mudaria a altura da faixa do preço. O ponto de apoio (`transform-origin`) fica embaixo à esquerda.
 - Ele carimba 150 ms depois de a página abrir: começa 1,25 vez maior e inclinado −6°, e assenta com um pequeno quique (`cubic-bezier(0.34, 1.56, 0.64, 1)`) em 600 ms. A animação usa `backwards`, senão o número apareceria no estado final durante o atraso e depois pularia para 125%.
 - **Nada entra transparente na chegada.** O quadro de partida da etiqueta não tem `opacity`. O LCP da página de loja hoje pode ser a marca-d'água (`BrandWatermark`, carregada `eager` porque "conta como LCP") ou o parágrafo de introdução no celular. O desenho não pode atrasar nenhum candidato, e nenhum deles fica invisível ao abrir.
 - O topo amarelo já tem `overflow-hidden`, então o número maior no começo não cria rolagem para o lado.
@@ -171,7 +171,7 @@ A chegada toca sempre que a página monta, inclusive vindo de outra página do s
 - Todo cartão das prateleiras tem `revela` e o `--i` na ordem da prateleira.
 - O ímã e a inclinação estão onde o `cardDecorAt` da posição manda, e só ali. As posições sem enfeite não têm as classes.
 - O ímã está sempre à direita.
-- O `RevealSection` aparece no `page_client-reference-manifest.js` de `/cupons`. O HTML do servidor não distingue o `RevealSection` de uma `<section>` comum.
+- As prateleiras são `RevealSection`. O HTML do servidor não distingue o `RevealSection` de uma `<section>` comum, e ele está no `page_client-reference-manifest.js` de toda página (até no de `/sobre`, pelo layout), então a trava pelo manifest passaria à toa. A trava olha o código de `cupons/page.tsx`, com um controle.
 - O HTML sai sem `data-reveal`.
 - As classes dos elementos de `/cupons` não têm mais `has-[[data-copied=true]]`. A trava olha o HTML, não o CSS: o dock dos artigos usa as mesmas classes.
 
@@ -181,7 +181,7 @@ A chegada toca sempre que a página monta, inclusive vindo de outra página do s
 - se ele tem botão de copiar, tem também `.recorte` e `.recorte-tesoura`; se não tem, não tem nenhuma das duas;
 - a caixa de indicação, quando existe, tem `.recorte`;
 - os cupons da YesStyle têm `.recorte`. O número esperado vem de `resolveYesStylePage()`, por idioma. Se a lista estiver vazia, a trava pula e diz o motivo;
-- os "Outros cupons", quando existem, têm `revela` e o enfeite, e o `RevealSection` está no manifest da página.
+- os "Outros cupons", quando existem, têm `revela` e o enfeite, e a seção deles é um `RevealSection` no código do `CouponStorePage.tsx`.
 
 **CSS final:**
 - Toda declaração de movimento das classes novas fica só com `prefers-reduced-motion: no-preference`, sem `@media not … and …`. São as declarações de `animation`, `transition`, `translate`, `scale`, `rotate`, `box-shadow` e `container-type`. A trava olha a declaração, não o seletor: o `.recorte` também aparece na regra parada do verde.
@@ -205,9 +205,9 @@ A chegada toca sempre que a página monta, inclusive vindo de outra página do s
 ## Ordem da implementação
 
 São tarefas de até 5 arquivos cada, por subagentes, com a revisão Claude e Muse por tarefa e a revisão final do conjunto:
-1. **O copiar no hub e na loja:** `globals.css` (o `.recorte` e a tesoura), `CouponCards.tsx` (só o `HubCouponCard`), `StoreLayout.tsx` (o `StoreCutout`) e as travas em `test-build-output.ts`.
-2. **A chegada:** `globals.css` (o `.etiqueta-entra` e o `recorte-assenta`), `StoreLayout.tsx` (o topo e o recorte), `CouponCards.tsx` (os Destaques) e as travas.
-3. **Os recortes sem tesoura:** `CouponCards.tsx` (a caixa dos "Outros cupons"), `CouponStorePage.tsx` (a indicação), `YesStyleCouponPage.tsx` (a lista) e as travas.
+1. **O copiar no hub:** `globals.css` (o `.recorte` e a tesoura), `CouponCards.tsx` (só o `HubCouponCard`) e as travas em `test-build-output.ts`.
+2. **O copiar nas lojas, com e sem tesoura:** `StoreLayout.tsx` (o `StoreCutout`, com o `copyable`), `CouponStorePage.tsx` (o `copyable` e a indicação), `YesStyleCouponPage.tsx` (o `copyable` e a lista), `CouponCards.tsx` (a caixa dos "Outros cupons") e as travas. O `copyable` vem de quem chama o `StoreCutout`; por isso o recorte das lojas e os recortes sem tesoura ficam na mesma tarefa, com até 5 arquivos.
+3. **A chegada:** `globals.css` (o `.etiqueta-entra` e o `recorte-assenta`), `StoreLayout.tsx` (o topo e o recorte), `CouponCards.tsx` e `cupons/page.tsx` (os Destaques) e as travas.
 4. **As prateleiras:** `cardDecor.ts` (o ímã à direita), `CouponCards.tsx` (os três níveis), `cupons/page.tsx` (o `RevealSection` e o respiro), `CouponStorePage.tsx` (os "Outros cupons") e as travas.
 5. **A documentação e o navegador:** o `CLAUDE.md` (Styling e páginas de loja) e a conferência no navegador.
 
@@ -222,7 +222,7 @@ São tarefas de até 5 arquivos cada, por subagentes, com a revisão Claude e Mu
 ## Revisão da spec (12/10)
 
 O Bruno delegou a revisão. O Meta Muse deu APROVADO COM RESSALVAS (`REVISAO-MUSE-CUPONS-SPEC-fb8d21c-20261012.md`, em G). O revisor Claude pediu mudanças. Esta versão incorpora:
-- o `span` da etiqueta em `inline-block`;
+- o `span` da etiqueta como bloco (`block`), para o `scale` e o `rotate` valerem;
 - os três níveis do cartão, no modelo das Novidades;
 - o ímã sempre à direita;
 - a tesoura por `translate` com `cqi`, sem `left`;
@@ -232,7 +232,7 @@ O Bruno delegou a revisão. O Meta Muse deu APROVADO COM RESSALVAS (`REVISAO-MUS
 - o respiro das prateleiras do hub;
 - a escala de 1,12 no hub;
 - o fundo da tesoura em gradiente no hub e amarelo na loja;
-- as travas por declaração, pelo manifest do `RevealSection`, derivadas dos dados e com controle;
+- as travas por declaração, pelo código do `RevealSection` (o manifest passaria à toa), derivadas dos dados e com controle;
 - os valores fixos;
 - a YesStyle sem "Outros cupons";
 - a tarefa 1 com até 5 arquivos.
