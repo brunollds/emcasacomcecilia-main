@@ -58,17 +58,31 @@
       "imageFit": "square"
     },
     {
-      "heading": "獎勵代碼額外折扣",
+      "heading": "YesStyle 的商品是正品嗎？YesStyle 是哪裡的公司？",
       "paragraphs": [
-        "結帳時於「獎勵代碼 (Reward Code)」欄位輸入 CECILIA010，首單可享最高 5% 額外折扣，續購可享 2% 折扣。可與優惠券代碼（Coupon Code）疊加使用。"
+        "YesStyle 來自香港。公司於 2006 年在香港創立，隸屬於 YesAsia Holdings Limited（香港交易所上市，股份代號：2209.HK）。該集團同時經營 YesAsia 商店，以及亞洲美妝批發平台 AsianBeautyWholesale。",
+        "關於商品是否為正品，YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商，貨源來自品牌製造商或其授權的經銷夥伴。我們沒有找到能證實這項說法的獨立審核，因此整理了幾項買家自己就能做的檢查（這是我們的建議，並非 YesStyle 的說明）："
+      ],
+      "bullets": [
+        "在商品頁面上，確認品牌與商品名稱和品牌官方網站相符；",
+        "在包裝盒上，找到印刷的批號與有效期限，開封前先確認有效期限；",
+        "收貨時，檢查商品與包裝的封條是否完好；",
+        "如果商品與頁面介紹不同，請先不要使用，並先聯絡 YesStyle 客服。"
+      ]
+    },
+    {
+      "heading": "獎勵碼額外折扣",
+      "paragraphs": [
+        "結帳時於「獎勵碼 (Reward Code)」欄位輸入 CECILIA010，首單可享最高 5% 額外折扣，續購可享 2% 折扣。可與優惠券代碼（Coupon Code）疊加使用。CECILIA010 代碼沒有到期日，只要與 YesStyle 的合作持續就會保持有效；使用此代碼不會為買家帶來額外費用。"
       ],
       "bullets": []
     },
     {
       "heading": "常見問題",
       "bullets": [
-        "YesStyle 是正品嗎？ YesStyle 於官方資料中聲明為 400 多個韓國美妝品牌的授權經銷商，直接向品牌製造商或官方授權代理商採購。",
-        "如何使用 CECILIA010 代碼？ 結帳時在「獎勵代碼」欄位輸入 CECILIA010 即可。"
+        "YesStyle 的商品是正品還是仿冒品？ YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商，貨源來自品牌製造商或授權合作夥伴。我們沒有找到針對這項說法的獨立審核；收到訂單後，請檢查批號、有效期限與封條。",
+        "YesStyle 是哪裡的公司？ 來自香港：公司於 2006 年在香港創立，隸屬於香港交易所上市的 YesAsia Holdings（2209.HK）。",
+        "如何使用 CECILIA010 代碼？ 結帳時在「獎勵碼」欄位輸入 CECILIA010 即可。"
       ]
     }
   ],
@@ -83,7 +97,7 @@
   "relatedArticles": [
     {
       "slug": "yesstyle-reward-code-cecilia010-zh-hant",
-      "title": "YesStyle 獎勵代碼 CECILIA010 使用指南"
+      "title": "YesStyle 獎勵碼 CECILIA010 使用指南"
     }
   ],
   "translationKey": "yesstyle-trust"
