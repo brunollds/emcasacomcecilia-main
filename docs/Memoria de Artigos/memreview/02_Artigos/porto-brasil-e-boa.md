@@ -6,9 +6,9 @@ parceiro: "[[Lets-Eat-It]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy (decisão do Bruno), depois que a oferta nova da YesStyle entrar"
 bloqueado_por: null
 score_autoridade: 75
 score_conversao: 85
@@ -202,3 +202,11 @@ No Reclame Aqui, a Porto Brasil Cerâmica tem reputação ÓTIMA: nota 8,4/10 en
 
 ## Redação
 Ainda não iniciada. Próxima ação: `redigir-artigo`.
+
+## Redação (12/10/2026)
+
+- JSON em `content/reviews/porto-brasil-e-boa.json` (id 358), no fim do `_manifest.json`. É a fonte da verdade do texto.
+- Capa: `/images/reviews/letseatit/porto-brasil-stoneware-bio-latte.webp`, 1600×900, as duas fotos do Aparelho de Jantar Stoneware Bio Latte 30 peças da página da Let's Eat It, lado a lado (origem em `midia-staging\2026-10-11-fase1\porto-brasil\`). No CDN desde 12/10/2026, verificada pelo `verify-remote` e entregue pelo mapa de mídia.
+- Fichas relidas em 12/10/2026 pela API pública do catálogo da Porto Brasil (cerca de 2.500 produtos): a maior parte do stoneware libera forno, micro-ondas e freezer, com "variação térmica aconselhada" de cerca de 180 °C ou 240 °C (não é temperatura máxima de forno); cerca de 60 peças de stoneware trazem "não é recomendado usar no forno convencional"; os conjuntos com aplicação de ouro não vão ao forno nem ao micro-ondas, e os de filamento de ouro também não vão à lava-louças. Na faiança, micro-ondas e lava-louças liberados; cerca de 76 fichas não recomendam o forno. Gretamento de 9 ou 12 meses, conforme o produto, nos dois materiais.
+- Reclame Aqui (ÓTIMA, 8,4, 110 reclamações, 100% respondidas, 84,3% resolvidas, abril a setembro de 2026) é a leitura de 11/10; em 12/10 a página deu 403.
+- Revisão Job 3 (12/10/2026): reprovada na primeira versão (stoneware "sim" para tudo); o texto foi refeito pelos dados do catálogo e aprovado na segunda revisão, com os ajustes das exceções do forno (Orgânico, Linhas, canecas Coup Stoneware e peças com ouro), da faiança (forno, freezer dos kits Celebrar) e do "forno (até 180 °C)" das descrições.

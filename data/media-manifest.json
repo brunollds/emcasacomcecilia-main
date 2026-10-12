@@ -48318,6 +48318,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex.webp",
+      "local_url": "/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49776,
+      "sha256": "c4c2262f1bfe9cc5d5eaaac3bb71566189083f83b3cdf3dd88c302a073f21e46",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "travesseiros-iws-snow-coluna-latex.webp",
+      "storage_filename": "travesseiros-iws-snow-coluna-latex.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/travesseiro-i-wanna-sleep-ou-emma.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/travesseiro-i-wanna-sleep-ou-emma.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/travesseiro-i-wanna-sleep-ou-emma.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/travesseiro-i-wanna-sleep-ou-emma.md",
+          "line": 233,
+          "column": 10,
+          "literal": "/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 59798,
+          "column": 15,
+          "literal": "/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c4c2262f1bfe9cc5d5eaaac3bb71566189083f83b3cdf3dd88c302a073f21e46/travesseiros-iws-snow-coluna-latex.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c4c2262f1bfe9cc5d5eaaac3bb71566189083f83b3cdf3dd88c302a073f21e46/travesseiros-iws-snow-coluna-latex.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T19:16:00.738Z",
+      "verification_etag_or_digest": "c4c2262f1bfe9cc5d5eaaac3bb71566189083f83b3cdf3dd88c302a073f21e46",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
       "local_url": "/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
       "media_kind": "image",
@@ -48477,6 +48531,60 @@
       "uploaded_at": null,
       "verified_at": "2026-10-03T02:50:39.050Z",
       "verification_etag_or_digest": "d3e5df781fb63736b8c1d2425376f4345f1273162eb6fb35a4a772d9b66fec51",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp",
+      "local_url": "/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17602,
+      "sha256": "2637dd7a5bc6c89aff32dca2e03959fd41c7708189857b6b4c662384d7c2bc94",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "le-creuset-redonda-signature-cotton.webp",
+      "storage_filename": "le-creuset-redonda-signature-cotton.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/le-creuset-vale-a-pena.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/le-creuset-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/le-creuset-vale-a-pena.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/le-creuset-vale-a-pena.md",
+          "line": 201,
+          "column": 10,
+          "literal": "/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60046,
+          "column": 15,
+          "literal": "/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2637dd7a5bc6c89aff32dca2e03959fd41c7708189857b6b4c662384d7c2bc94/le-creuset-redonda-signature-cotton.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2637dd7a5bc6c89aff32dca2e03959fd41c7708189857b6b4c662384d7c2bc94/le-creuset-redonda-signature-cotton.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T19:16:00.739Z",
+      "verification_etag_or_digest": "2637dd7a5bc6c89aff32dca2e03959fd41c7708189857b6b4c662384d7c2bc94",
       "verification_status": "verified"
     },
     {
@@ -48723,6 +48831,60 @@
       "uploaded_at": null,
       "verified_at": "2026-10-03T02:50:39.050Z",
       "verification_etag_or_digest": "d3c3dd59a2568698c099bc66ee2f337946f658188a6f13b735dfe0fa48180735",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/porto-brasil-stoneware-bio-latte.webp",
+      "local_url": "/images/reviews/letseatit/porto-brasil-stoneware-bio-latte.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 69870,
+      "sha256": "a91d6ae99917a1b13230341f53e4a87dc636d1316fe0ce894b714a3a9e879267",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "porto-brasil-stoneware-bio-latte.webp",
+      "storage_filename": "porto-brasil-stoneware-bio-latte.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/porto-brasil-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/porto-brasil-e-boa.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/porto-brasil-e-boa.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/porto-brasil-stoneware-bio-latte.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/porto-brasil-e-boa.md",
+          "line": 209,
+          "column": 10,
+          "literal": "/images/reviews/letseatit/porto-brasil-stoneware-bio-latte.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 59615,
+          "column": 15,
+          "literal": "/images/reviews/letseatit/porto-brasil-stoneware-bio-latte.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a91d6ae99917a1b13230341f53e4a87dc636d1316fe0ce894b714a3a9e879267/porto-brasil-stoneware-bio-latte.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a91d6ae99917a1b13230341f53e4a87dc636d1316fe0ce894b714a3a9e879267/porto-brasil-stoneware-bio-latte.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T19:16:00.739Z",
+      "verification_etag_or_digest": "a91d6ae99917a1b13230341f53e4a87dc636d1316fe0ce894b714a3a9e879267",
       "verification_status": "verified"
     },
     {
@@ -50129,6 +50291,60 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "29049c4d126d65087a506a685554c37fe9a3e0269d4fdf624c0cfe299a3e1bee",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-ensure-sustagen-latas.webp",
+      "local_url": "/images/reviews/nutren/nutren-ensure-sustagen-latas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44778,
+      "sha256": "c646b11addb817a65fcc92b2ca970ab7052c7d6d8833b228ec3cfb5288d5a6fc",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-ensure-sustagen-latas.webp",
+      "storage_filename": "nutren-ensure-sustagen-latas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-senior-ensure-ou-sustagen-senior.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/nutren-senior-ensure-ou-sustagen-senior.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-senior-ensure-ou-sustagen-senior.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-ensure-sustagen-latas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/nutren-senior-ensure-ou-sustagen-senior.md",
+          "line": 208,
+          "column": 10,
+          "literal": "/images/reviews/nutren/nutren-ensure-sustagen-latas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 59394,
+          "column": 15,
+          "literal": "/images/reviews/nutren/nutren-ensure-sustagen-latas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c646b11addb817a65fcc92b2ca970ab7052c7d6d8833b228ec3cfb5288d5a6fc/nutren-ensure-sustagen-latas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c646b11addb817a65fcc92b2ca970ab7052c7d6d8833b228ec3cfb5288d5a6fc/nutren-ensure-sustagen-latas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T19:16:00.739Z",
+      "verification_etag_or_digest": "c646b11addb817a65fcc92b2ca970ab7052c7d6d8833b228ec3cfb5288d5a6fc",
       "verification_status": "verified"
     },
     {

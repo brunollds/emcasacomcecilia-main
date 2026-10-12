@@ -6,9 +6,9 @@ parceiro: "[[Lets-Eat-It]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy (decisão do Bruno), depois que a oferta nova da YesStyle entrar"
 bloqueado_por: null
 score_autoridade: 80
 score_conversao: 85
@@ -194,3 +194,12 @@ Tramontina e Ceraflame ficam fora desta tabela (seção 3 e pendências).
 - **Tramontina e Ceraflame:** só entram como categoria. Para comparar indução, forno ou garantia, a página oficial de cada uma precisa ser lida diretamente.
 - **Fora do escopo:** buscas por "bazar", "no Paraguai" e "comprar nos EUA" ficam fora (decisão da coordenação), salvo uma frase sobre comprar em loja do localizador oficial da Le Creuset Brasil. A preocupação de autenticidade aparece no dossiê como relato de consumidor, não como fato.
 - **Autocompletar "qual a marca que imita a Le Creuset":** não entra no FAQ; a pergunta leva a marca concorrente sem fonte.
+
+## Redação (12/10/2026)
+
+- JSON em `content/reviews/le-creuset-vale-a-pena.json` (id 360), no fim do `_manifest.json`. É a fonte da verdade do texto.
+- Capa: `/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp`, 1600×900, duas fotos da Panela Redonda Signature Cotton 24 cm da página da Let's Eat It (de lado e de cima, com o puxador de inox), origem em `midia-staging\2026-10-11-fase1\le-creuset\`. No CDN desde 12/10/2026, verificada pelo `verify-remote` e entregue pelo mapa de mídia.
+- A página de uso e cuidado da Le Creuset Brasil pede CAPTCHA em 12/10/2026; valem os trechos lidos em 11/10. A página da Staub (Zwilling, site de Portugal) foi relida em 12/10.
+- Preços do catálogo da Let's Eat It em 12/10/2026: Redonda Signature de 20 cm R$ 2.329 e de 28 cm R$ 3.429 nas cores de preço padrão; Château, Thyme e Flamme Dorée custam mais; pré-venda Black Onyx com 25% em 22 e 28 cm. Staub e Tramontina não aparecem no catálogo na busca de 12/10; a Ceraflame aparece (o artigo não diz o contrário).
+- O MAUAD não foi testado numa peça Le Creuset: o texto diz isso e manda conferir no carrinho.
+- Revisão Job 3 (12/10/2026): aprovado com ajustes; aplicados os itens 1 a 13 (Staub sem "até 250 °C" para as duas, regras atribuídas ao ferro fundido, datas das consultas, lava-louças no plural).
