@@ -52,7 +52,7 @@ const reviews: ReviewFixture[] = [
   review(1, 'bf-damie', 'damie', { imageFit: 'contain' }),
   review(2, 'bf-magalu', 'magalu', { imagePosition: 'top' }),
   review(3, 'bf-sem-loja', undefined, { image: undefined }),
-  review(4, 'bf-kopenhagen', 'kopenhagen'),
+  review(4, 'bf-kopenhagen', 'kopenhagen', { rating: 5 }),
   review(5, 'bf-dolce', 'dolce-gusto'),
   review(6, 'natal-damie', 'damie'),
   review(7, 'rascunho', 'damie', { draft: true }),
@@ -194,6 +194,8 @@ assert.equal(damie.imageFit, 'contain');
 assert.equal(damie.imagePosition, undefined);
 assert.equal(magalu.imageFit, 'cover');
 assert.equal(magalu.imagePosition, 'top');
+assert.equal(kopenhagen.imageFit, 'contain', 'foto de produto com nota e sem imageFit fica inteira');
+assert.equal(kopenhagen.imagePosition, undefined);
 assert.deepEqual(damie.codeLink, { href: '/#loja-damie', label: 'Ver o código da DAMIE' });
 assert.deepEqual(magalu.codeLink, { href: '/#loja-magalu', label: 'Ver o código do Magalu' });
 assert.equal(semLoja.image, undefined);
@@ -245,6 +247,8 @@ assert.match(imageOf(bandHtml, 'bf-damie'), /class="[^"]*\bbg-white object-conta
 assert.doesNotMatch(imageOf(bandHtml, 'bf-damie'), /object-position/, 'o contain não leva recorte');
 assert.match(imageOf(bandHtml, 'bf-magalu'), /class="[^"]*\bobject-cover\b/, 'sem imageFit nem nota, a capa cobre');
 assert.match(imageOf(bandHtml, 'bf-magalu'), /style="[^"]*object-position:50% 10%/, 'o imagePosition recorta o cover');
+assert.match(imageOf(bandHtml, 'bf-kopenhagen'), /class="[^"]*\bbg-white object-contain p-3\b/, 'nota sem imageFit: inteira');
+assert.doesNotMatch(imageOf(bandHtml, 'bf-kopenhagen'), /object-position/, 'a nota sem imageFit não leva recorte');
 
 // Os temas claros: a banda e a pílula do tema; o anel amarelo é só do fundo escuro, nos outros é marinho.
 for (const themeName of ['laranja', 'amarelo'] as const) {
