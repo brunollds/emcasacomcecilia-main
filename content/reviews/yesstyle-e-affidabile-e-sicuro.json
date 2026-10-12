@@ -60,13 +60,26 @@
       "imageFit": "square"
     },
     {
+      "heading": "I prodotti YesStyle sono originali? Da dove viene YesStyle?",
+      "paragraphs": [
+        "YesStyle è di Hong Kong. È stata fondata lì nel 2006 e appartiene a YesAsia Holdings Limited, quotata alla Borsa di Hong Kong (codice 2209.HK), che gestisce anche il negozio YesAsia e AsianBeautyWholesale, una piattaforma all'ingrosso di prodotti di bellezza asiatici.",
+        "Sull'originalità, YesStyle dichiara di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana e di rifornirsi dai produttori o da distributori da loro autorizzati. Non abbiamo trovato alcun audit indipendente che confermi questa dichiarazione; ecco quindi alcuni controlli che puoi fare tu stesso (un nostro suggerimento, non di YesStyle):"
+      ],
+      "bullets": [
+        "Nella pagina del prodotto, verifica che marchio e nome dell'articolo corrispondano al sito ufficiale del marchio;",
+        "Sulla confezione, cerca il lotto e la scadenza stampati e controlla la scadenza prima di aprire;",
+        "Alla consegna, controlla il sigillo del prodotto e della confezione;",
+        "Se qualcosa sembra diverso da quanto indicato, non usare il prodotto e contatta prima il servizio clienti di YesStyle."
+      ]
+    },
+    {
       "heading": "Consigli prima di ordinare",
       "paragraphs": [
         "Ecco qualche consiglio pratico prima di confermare il carrello:"
       ],
       "bullets": [
         "Controlla di trovarti sul dominio ufficiale (yesstyle.com), con connessione HTTPS.",
-        "Informati sulle regole doganali del tuo paese per IVA e dazi d'importazione. YesStyle rimborsa dazi e spese doganali sotto forma di YesStyle Credit per gli ordini inferiori a 1.000 USD (prima dei coupon e escluse le spese di spedizione): la richiesta va fatta con la ricevuta entro 30 giorni. L'IVA addebitata al checkout sugli ordini UE non è coperta dal rimborso.",
+        "Informati sulle regole doganali del tuo paese per IVA e dazi d'importazione. YesStyle rimborsa dazi e spese doganali sotto forma di YesStyle Credit per gli ordini inferiori a 1.000 USD (prima dei coupon ed escluse le spese di spedizione): la richiesta va fatta con la ricevuta entro 30 giorni. L'IVA addebitata al checkout sugli ordini UE non è coperta dal rimborso.",
         "Leggi con attenzione le schede prodotto e le guide alle taglie."
       ]
     },
@@ -74,7 +87,7 @@
       "heading": "Codice ricompensa e sconto extra",
       "paragraphs": [
         "Em Casa com Cecília è partner di YesStyle. Inserendo il codice ricompensa CECILIA010 nel campo \"Reward Code\" al checkout ottieni il 5% di sconto extra sul primo ordine e il 2% su quelli successivi. I coupon promozionali vanno nel campo separato \"Coupon Code\" e si cumulano con CECILIA010.",
-        "Il codice CECILIA010 è permanente e non ha alcun costo per chi acquista."
+        "Il codice CECILIA010 non ha scadenza e resta attivo finché continua la partnership con YesStyle. Per chi acquista non ha alcun costo."
       ],
       "bullets": []
     },
@@ -82,7 +95,8 @@
       "heading": "Domande frequenti",
       "bullets": [
         "YesStyle è un sito affidabile? Sì, YesStyle è un'azienda legittima, fondata nel 2006 e controllata del gruppo quotato in borsa YesAsia Holdings (2209.HK).",
-        "I prodotti sono originali? YesStyle dichiara di essere rivenditore ufficiale autorizzato di oltre 400 marchi di bellezza coreana, con acquisti diretti dai produttori o da partner certificati.",
+        "Da dove viene YesStyle? Da Hong Kong: è stata fondata lì nel 2006 e appartiene a YesAsia Holdings, quotata alla Borsa di Hong Kong (2209.HK).",
+        "I prodotti YesStyle sono originali o contraffatti? YesStyle dichiara di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana, con acquisti dai produttori o da partner autorizzati. Non abbiamo trovato alcun audit indipendente su questa dichiarazione; quando arriva l'ordine, controlla lotto, scadenza e sigillo.",
         "Quanto tempo ci mette la spedizione? La spedizione internazionale standard richiede in media da 7 a 14 giorni lavorativi.",
         "Come si usa il codice CECILIA010? Inserisci CECILIA010 nel campo \"Reward Code\" al momento del checkout."
       ]
