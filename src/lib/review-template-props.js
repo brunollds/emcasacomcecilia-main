@@ -1,7 +1,7 @@
 import { getReviewSlug, publishedReviews } from '@/lib/data';
 import { buildSchemaAuthors, normalizeReview } from '@/lib/content';
 import { getReviewCanonicalPathname, resolveReviewLocale } from '@/lib/content/review-i18n';
-import { getShellCopy } from '@/lib/i18n/shellDictionary';
+import { getShellCopy, getShellHomeHref } from '@/lib/i18n/shellDictionary';
 import { getInternationalReviewHub } from '@/lib/review-hubs';
 import {
   getPrimaryLocalVideoMeta,
@@ -102,8 +102,9 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
 
   const currentSlug = getReviewSlug(review);
   const localeKey = resolveReviewLocale(review.locale);
-  const isPt = localeKey === 'pt';
-  const internationalReviewHub = isPt ? null : getInternationalReviewHub(localeKey);
+  const reviewHub = localeKey === 'pt'
+    ? { href: '/reviews', label: 'Reviews' }
+    : getInternationalReviewHub(localeKey);
   const copy = getShellCopy(localeKey);
 
   const baseUrl = 'https://emcasacomcecilia.com';
@@ -132,24 +133,21 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
     (spec) => spec.key?.toLowerCase() === 'marca'
   )?.value : undefined);
 
-  const breadcrumbJsonLd = isPt
-    ? {
-        '@context': 'https://schema.org',
-        '@type': 'BreadcrumbList',
-        itemListElement: [
-          { '@type': 'ListItem', position: 1, name: copy.homeLabel, item: baseUrl },
-          { '@type': 'ListItem', position: 2, name: 'Reviews', item: `${baseUrl}/reviews` },
-          { '@type': 'ListItem', position: 3, name: review.title, item: reviewUrl },
-        ],
-      }
-    : {
-        '@context': 'https://schema.org',
-        '@type': 'BreadcrumbList',
-        itemListElement: [
-          { '@type': 'ListItem', position: 1, name: internationalReviewHub.label, item: `${baseUrl}${internationalReviewHub.href}` },
-          { '@type': 'ListItem', position: 2, name: review.title, item: reviewUrl },
-        ],
-      };
+  // Home do idioma > lista de artigos > artigo, em todos os idiomas. A trilha visível do template
+  // lê esta mesma lista; o schema acrescenta o artigo.
+  const breadcrumbs = [
+    { name: copy.homeLabel, href: getShellHomeHref(localeKey) },
+    { name: reviewHub.label, href: reviewHub.href },
+  ];
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      // A raiz sai sem a barra final, como sempre saiu no PT.
+      ...breadcrumbs.map(({ name, href }) => ({ name, item: href === '/' ? baseUrl : `${baseUrl}${href}` })),
+      { name: review.title, item: reviewUrl },
+    ].map((crumb, index) => ({ '@type': 'ListItem', position: index + 1, ...crumb })),
+  };
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -230,6 +228,7 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
     videoPageUrl,
     reviewImage: review.image ? resolveMediaUrl(review.image) : review.image,
     reviewImageAlt: review.imageAlt || review.title,
+    breadcrumbs,
     breadcrumbJsonLd,
     jsonLd,
     faqJsonLd,

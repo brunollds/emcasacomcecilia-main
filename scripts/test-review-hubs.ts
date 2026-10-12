@@ -122,10 +122,39 @@ assert.ok(englishReview, 'O corpus deve conter um review EN para validar a naveg
 const englishHub = getInternationalReviewHub('en');
 assert.deepEqual(englishHub, { href: '/en/reviews', label: 'Guides & Reviews' });
 
-const { breadcrumbJsonLd } = buildReviewTemplateProps(englishReview);
-const breadcrumbItems = Reflect.get(breadcrumbJsonLd, 'itemListElement');
-assert.ok(Array.isArray(breadcrumbItems));
-assert.equal(Reflect.get(breadcrumbItems[0], 'item'), 'https://emcasacomcecilia.com/en/reviews');
-assert.equal(String(Reflect.get(breadcrumbItems[0], 'item')).includes('/coupons/'), false);
+// A trilha começa na home do idioma, como no PT; a visível (breadcrumbs) e a do schema são a mesma lista.
+const SITE_URL = 'https://emcasacomcecilia.com';
+
+const englishProps = buildReviewTemplateProps(englishReview);
+assert.deepEqual(englishProps.breadcrumbs, [
+  { name: 'Home', href: '/en' },
+  { name: 'Guides & Reviews', href: '/en/reviews' },
+]);
+assert.deepEqual(englishProps.breadcrumbJsonLd.itemListElement, [
+  { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/en` },
+  { '@type': 'ListItem', position: 2, name: 'Guides & Reviews', item: `${SITE_URL}/en/reviews` },
+  { '@type': 'ListItem', position: 3, name: englishReview.title, item: `${SITE_URL}${getReviewCanonicalPathname(englishReview)}` },
+]);
+
+const portugueseReview = publishedReviews.find((review) => resolveReviewLocale(review.locale) === 'pt');
+assert.ok(portugueseReview, 'O corpus deve conter um review PT.');
+const portugueseProps = buildReviewTemplateProps(portugueseReview);
+assert.deepEqual(portugueseProps.breadcrumbs, [
+  { name: 'Início', href: '/' },
+  { name: 'Reviews', href: '/reviews' },
+]);
+// No PT o JSON-LD é o de sempre, letra por letra: a raiz sem a barra final e as chaves nesta ordem.
+assert.equal(
+  JSON.stringify(portugueseProps.breadcrumbJsonLd),
+  JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Início', item: SITE_URL },
+      { '@type': 'ListItem', position: 2, name: 'Reviews', item: `${SITE_URL}/reviews` },
+      { '@type': 'ListItem', position: 3, name: portugueseReview.title, item: `${SITE_URL}${getReviewCanonicalPathname(portugueseReview)}` },
+    ],
+  })
+);
 
 console.log(`Review hubs validados: ${REVIEW_HUB_LOCALES.join(', ')}.`);

@@ -1,23 +1,14 @@
 import type { CSSProperties } from 'react';
 import Image from 'next/image';
-import { TrackedHomeLink } from '@/components/TrackedHomeLink';
+import { TrackedHomeLink, type HomeRoutePlacement } from '@/components/TrackedHomeLink';
+import { cardDecorAt, type CardDecor } from '@/components/ui/cardDecor';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { RevealSection } from '@/components/ui/RevealSection';
+import { cardImageLook } from '@/lib/cardImage';
 import type { HomeLatestArticle } from '@/lib/homeStores';
 
 // "Acabou de sair": os 5 artigos mais novos, sem código. No desktop são cartões presos na geladeira;
 // no celular, a lista de data e título. Os dois vão no HTML e o CSS mostra um ou outro.
-
-type CardDecor = { magnet: string | null; tilt: string };
-
-// Ímã e inclinação de cada posição, como no canvas. Decoração: fora da leitura de tela.
-const CARD_DECOR: CardDecor[] = [
-  { magnet: '-top-3 -right-3 bg-amarelo-cupom', tilt: '-rotate-1' },
-  { magnet: null, tilt: '' },
-  { magnet: '-top-3 -left-3 bg-laranja', tilt: 'rotate-[0.5deg]' },
-  { magnet: null, tilt: '' },
-  { magnet: '-top-3 -right-3 bg-marinho', tilt: 'rotate-[-0.6deg]' },
-];
 
 const ALL_LABEL = 'Ver todos os guias e análises';
 
@@ -67,7 +58,12 @@ export function HomeLatest({ articles }: { articles: HomeLatestArticle[] }) {
         <ul className="hidden gap-[18px] md:grid min-[768px]:grid-cols-3 min-[1200px]:grid-cols-5">
           {articles.map((article, index) => (
             <li key={article.slug} className="revela flex" style={{ '--i': index } as CSSProperties}>
-              <LatestCard article={article} decor={CARD_DECOR[index % CARD_DECOR.length]} />
+              <LatestCard
+                article={article}
+                decor={cardDecorAt(index)}
+                placement="home_latest"
+                meta={`${article.dateLabel}, ${article.type}`}
+              />
             </li>
           ))}
         </ul>
@@ -76,11 +72,26 @@ export function HomeLatest({ articles }: { articles: HomeLatestArticle[] }) {
   );
 }
 
-function LatestCard({ article, decor }: { article: HomeLatestArticle; decor: CardDecor }) {
+// A dica de tamanho da home em português, onde o cartão só aparece da largura de tablet para cima.
+const LATEST_IMAGE_SIZES = '(min-width: 1200px) 210px, 30vw';
+
+type LatestCardProps = {
+  article: HomeLatestArticle;
+  decor: CardDecor;
+  placement: HomeRoutePlacement;
+  // A linha de cima do cartão: na home em PT, data e tipo; na de cada idioma, só a data.
+  meta: string;
+  // Quanto da tela a foto ocupa; quem põe o cartão em outra largura passa o próprio valor.
+  imageSizes?: string;
+};
+
+// Também é o cartão dos artigos na home de cada idioma (LocaleHomeArticles).
+export function LatestCard({ article, decor, placement, meta, imageSizes = LATEST_IMAGE_SIZES }: LatestCardProps) {
+  const look = cardImageLook(article.imageFit, article.imagePosition, 'p-3');
   return (
     <TrackedHomeLink
       href={article.href}
-      placement="home_latest"
+      placement={placement}
       linkLabel={article.title}
       className={`relative flex flex-1 flex-col rounded-[10px] border-2 border-marinho bg-white text-marinho shadow-[0_2px_6px_rgb(15_29_58/0.04)] ${decor.tilt} motion-safe:transition-transform motion-safe:duration-300 motion-safe:hover:-translate-y-1 motion-safe:hover:rotate-0 ${FOCUS_RING}`}
     >
@@ -92,13 +103,11 @@ function LatestCard({ article, decor }: { article: HomeLatestArticle; decor: Car
       ) : null}
       <span className="relative block h-[140px] overflow-hidden rounded-t-lg border-b-2 border-marinho bg-creme">
         {article.image ? (
-          <Image src={article.image} alt="" fill sizes="(min-width: 1200px) 210px, 30vw" className="object-cover" />
+          <Image src={article.image} alt="" fill sizes={imageSizes} className={look.className} style={look.style} />
         ) : null}
       </span>
       <span className="flex flex-1 flex-col gap-1.5 p-3">
-        <span className="text-xs font-bold text-marinho-suave">
-          {article.dateLabel}, {article.type}
-        </span>
+        <span className="text-xs font-bold text-marinho-suave">{meta}</span>
         <span className="text-[15px] leading-5 font-extrabold">{article.title}</span>
       </span>
       {article.store ? (

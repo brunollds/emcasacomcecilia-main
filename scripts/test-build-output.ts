@@ -2,15 +2,21 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
 import homeEventsConfig from '../content/home-events.json';
+import { resolveYesStylePage } from '../src/components/coupons/yesstylePage';
 import { getArticleCopy } from '../src/components/review/articleCopy';
+import { getBodySections } from '../src/components/review/bodySections';
 import { getCouponCopyLabels } from '../src/components/review/couponCopyLocale';
 import { getGalleryCopy } from '../src/components/review/galleryCopy';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '../src/components/review/sidebarCopy';
+import { CECILIA_PHOTO_COPY_PT } from '../src/components/sections/CeciliaProfile';
+import { getLocaleHomeCopy } from '../src/components/sections/localeHomeCopy';
 import { getShareCopy } from '../src/components/shared/shareCopy';
-import { brandLinks } from '../src/lib/brandLinks';
-import type { Recommendation } from '../src/lib/content';
+import { cardDecorAt, couponCardDecorAt } from '../src/components/ui/cardDecor';
+import { brandLinks, socialMedias } from '../src/lib/brandLinks';
+import { CECILIA_FULL_NAME } from '../src/lib/ceciliaCredentials';
+import { inferReviewKind, type EditorialNoteData, type Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
-import { getAllActiveCouponSlugs, getCouponBySlug, getStoreCodeKind } from '../src/lib/couponsData';
+import { getAllActiveCouponSlugs, getCouponBySlug, getCouponHubSections, getOtherActiveCoupons, getStoreCodeKind, type Coupon } from '../src/lib/couponsData';
 import {
   getCouponLanguageLinks,
   getCouponStorePath,
@@ -19,23 +25,34 @@ import {
 } from '../src/lib/couponTranslations';
 import { publishedReviews, recipes } from '../src/lib/data';
 import { getEventHubPage, getEventHubPaths, resolveActiveHomeEvent } from '../src/lib/homeEvents';
-import {
-  getHomeLatest,
-  getHomeStoreTabs,
-  getStoreArticlePageSlugs,
-  getStoreArticlesPage,
-  getStoreArticlesPath,
-} from '../src/lib/homeStores';
+import { getHomeLatest, getHomeStoreTabs, getStoreArticlePageSlugs, getStoreArticlesPage } from '../src/lib/homeStores';
 import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
 import { LOCALES, LOCALE_KEYS, type Locale } from '../src/lib/i18n/locales';
+import { getShellCopy, getShellHomeHref, getShellNavLinks } from '../src/lib/i18n/shellDictionary';
+import {
+  LOCALE_HOME_LOCALES,
+  getHomeLanguageLinks,
+  getLocaleHomeContent,
+  getLocaleHomePath,
+  getLocaleHomeStores,
+} from '../src/lib/localeHome';
 import { SITE_NAME, SITE_SOCIAL_IMAGE, getStoreSocialImage, type SocialImage } from '../src/lib/pageSeo';
+import { getInternationalReviewHub } from '../src/lib/review-hubs';
+import { getReviewsHubContent, getStoreShelfContent } from '../src/lib/reviewsHub';
+import { GRID_PAGE_SIZE } from '../src/lib/reviewsShelf';
+import { videoPages } from '../src/lib/video-pages';
+import { VIDEOS_TRAIL, getVideoPageContent, getVideosHubContent, type VideoPageContent } from '../src/lib/videosHub';
+import { YOUTUBE_SUBSCRIBE_URL, videoMorphName } from '../src/lib/videosShelf';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
+import { LABEL_SAME_AS_PORTUGUESE, codeAsCouponRegExp, getCategoriesSameAsPortuguese, getPtStoreTexts, isStoreLink } from './locale-home-guards';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
-// das lojas traduzidas e dos artigos de cada família, as páginas da YesStyle, o dock, a sidebar e a
-// interface dos artigos no idioma de cada um, os textos que citam o CECILIA010, a home, os cards de
-// /reviews, as subpáginas de loja e as páginas de data, ambas com a imagem de compartilhamento, o
-// JSON-LD e o lastmod do sitemap. O <html lang> fica com test-c2-html-lang.
+// das lojas traduzidas e dos artigos de cada família, as páginas da YesStyle, o dock, a sidebar, a
+// trilha e a interface dos artigos no idioma de cada um, os textos que citam o CECILIA010, a home,
+// a estante de /reviews e das subpáginas de loja e as páginas de data (as subpáginas e as datas,
+// ambas com a imagem de compartilhamento), /videos e as páginas de vídeo (uma por entrada de
+// video-pages.js), as homes de cada idioma, o JSON-LD e o lastmod do sitemap. O <html lang> fica
+// com test-c2-html-lang.
 const SITE_URL = 'https://emcasacomcecilia.com';
 const APP_DIR = path.resolve('.next/server/app');
 const CSS_DIR = path.resolve('.next/static/css');
@@ -61,6 +78,13 @@ function enclosingBlockHeader(source: string, index: number) {
   return '';
 }
 
+// As declarações da regra do CSS minificado em que está a posição `index` de um seletor: do `{` que fecha
+// o seletor ao `}` seguinte. Serve para as regras simples, sem bloco dentro.
+function declarationsAt(source: string, index: number) {
+  const open = source.indexOf('{', index);
+  return source.slice(open + 1, source.indexOf('}', open));
+}
+
 // Página (.html) ou rota de texto (.body) gerada para a URL. Sem arquivo, a URL é de fora do site,
 // dá 404 ou virou página dinâmica.
 function builtFile(url: string) {
@@ -77,6 +101,75 @@ const bodyOf = (html: string) =>
   (html.match(/<body[^>]*>([\s\S]*)<\/body>/)?.[1] ?? '').replace(/<(script|style)\b[\s\S]*?<\/\1>/g, '').replace(/<!--[\s\S]*?-->/g, '');
 const jsonLdOf = (html: string) =>
   [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].map(([, json]) => JSON.parse(json));
+
+// A Cecília é uma pessoa só no JSON-LD: o Person da /sobre e o das 9 homes de idioma, e a autoria dos
+// artigos e das receitas dela, levam este mesmo @id. O valor está escrito aqui de propósito: um id que
+// mudasse sem querer na constante do código passaria, se o teste lesse dela.
+const CECILIA_PERSON_ID = `${SITE_URL}/sobre#cecilia`;
+const personNodesChecked: Record<'sobre' | 'home' | 'artigo' | 'receita', string[]> = { sobre: [], home: [], artigo: [], receita: [] };
+
+// A autoria de cada Article, Review ou Recipe da página: cada autor que é a Cecília (a url é a /sobre ou o nome
+// é o dela) leva o @id; outro autor, como o Bruno, fica sem @id. Os autores da Cecília conferidos entram em `checked`.
+function assertCeciliaAuthorId(checked: string[], pagePath: string, html: string) {
+  const nodes = jsonLdOf(html).filter((schema) => ['Article', 'Review', 'Recipe'].includes(schema['@type']));
+  assert.ok(nodes.length > 0, `${pagePath}: sem Article, Review ou Recipe no JSON-LD`);
+  for (const node of nodes) {
+    assert.ok(node.author, `${pagePath}: JSON-LD sem autor`);
+    const authors: Array<Record<string, string>> = [node.author].flat().filter((author) => author !== undefined && author !== null);
+    assert.ok(authors.length > 0, `${pagePath}: JSON-LD sem autor`);
+    for (const author of authors) {
+      const isCecilia = author.url === `${SITE_URL}/sobre` || author.name === 'Cecília Mauad';
+      if (isCecilia) {
+        assert.equal(
+          author['@id'],
+          CECILIA_PERSON_ID,
+          `${pagePath}: o autor "${author.name}" sem o @id da Cecília (falta "url": "/sobre" no autor do JSON do artigo ou da receita?)`
+        );
+        checked.push(pagePath);
+      } else {
+        assert.equal(author['@id'], undefined, `${pagePath}: o autor "${author.name}" não é a Cecília e leva o @id dela`);
+      }
+    }
+  }
+}
+
+// O guarda acima confere cada nó de autoria da página, avisa do que falta e passa no JSON-LD certo.
+{
+  const ceciliaWithId = { '@type': 'Person', name: 'Cecília Mauad', url: `${SITE_URL}/sobre`, '@id': CECILIA_PERSON_ID };
+  const ceciliaWithoutId = { '@type': 'Person', name: 'Cecília Mauad', url: `${SITE_URL}/sobre` };
+  const bruno = { '@type': 'Person', name: 'Bruno Linhares' };
+  const jsonLdPage = (...schemas: object[]) => schemas.map((schema) => `<script type="application/ld+json">${JSON.stringify(schema)}</script>`).join('');
+  const checkAuthors = (html: string) => {
+    const checked: string[] = [];
+    assertCeciliaAuthorId(checked, '/fixture', html);
+    return checked;
+  };
+  assert.deepEqual(checkAuthors(jsonLdPage({ '@type': 'Article', author: ceciliaWithId })), ['/fixture'], 'autor certo falha');
+  assert.deepEqual(checkAuthors(jsonLdPage({ '@type': 'Review', author: [ceciliaWithId, bruno] })), ['/fixture'], 'autores certos (Cecília e Bruno) falham');
+  assert.throws(() => checkAuthors(jsonLdPage({ '@type': 'WebPage' })), /sem Article, Review ou Recipe/, 'página sem nó de autoria passa');
+  for (const author of [undefined, null, [], [null]]) {
+    assert.throws(() => checkAuthors(jsonLdPage({ '@type': 'Article', author })), /JSON-LD sem autor/, `nó sem autor (${JSON.stringify(author)}) passa ou quebra sem a mensagem`);
+  }
+  assert.throws(() => checkAuthors(jsonLdPage({ '@type': 'Article', author: ceciliaWithoutId })), /sem o @id da Cecília/, 'Cecília sem @id passa');
+  assert.throws(() => checkAuthors(jsonLdPage({ '@type': 'Article', author: { ...bruno, '@id': CECILIA_PERSON_ID } })), /não é a Cecília e leva o @id/, 'outro autor com o @id da Cecília passa');
+  // Um nó a mais não passa sem conferência: o segundo nó da página é conferido como o primeiro.
+  assert.throws(
+    () => checkAuthors(jsonLdPage({ '@type': 'Article', author: ceciliaWithId }, { '@type': 'Review', author: ceciliaWithoutId })),
+    /sem o @id da Cecília/,
+    'segundo nó de autoria sem conferência'
+  );
+  assert.throws(
+    () => checkAuthors(jsonLdPage({ '@type': 'Article', author: ceciliaWithId }, { '@type': 'Recipe' })),
+    /JSON-LD sem autor/,
+    'segundo nó sem autor passa'
+  );
+  // A Cecília pelo nome, sem a url da /sobre, não ganha o @id no serializador: a mensagem aponta o que falta.
+  assert.throws(
+    () => checkAuthors(jsonLdPage({ '@type': 'Article', author: { '@type': 'Person', name: 'Cecília Mauad' } })),
+    /falta "url": "\/sobre" no autor do JSON do artigo ou da receita\?/,
+    'autor pelo nome sem url passa ou sem a pista'
+  );
+}
 
 // Canonical, hreflang e og:locale de uma página que existe em vários idiomas.
 function assertLocalizedHead(pagePath: string, head: string, alternates: string[], openGraphLocale: string) {
@@ -163,6 +256,240 @@ assert.match(
   'CSS com a troca de loja fora do @media de prefers-reduced-motion: no-preference'
 );
 
+// Os chips de categoria da estante perdem o degradê da borda a partir de md (md:[mask-image:none]). Uma
+// classe do Tailwind colada a um ${…} num template deixa de ser lida e some do CSS sem erro nenhum.
+assert.ok(
+  css.includes('.md\\:\\[mask-image\\:none\\]{'),
+  'CSS sem o md:[mask-image:none] dos chips de categoria: o degradê da borda valeria no computador'
+);
+
+// O player da página do vídeo não passa da altura da tela: o vertical vai até min(45svh, 405px) de largura
+// (9/16 de min(80svh, 720px) de altura) e o quadrado até 80svh. Valor arbitrário que o Tailwind deixa de ler
+// some do CSS sem erro nenhum. Cada classe do VideoPlayer é conferida pela regra inteira (o seletor e a
+// propriedade): o mesmo tamanho aparece em duas classes, e só o valor deixaria uma delas sumir sem aviso.
+{
+  const compactCss = css.replace(/\s+/g, '');
+  const escapeSelector = (value: string) => value.replace(/[:[\](),]/g, '\\$&');
+  for (const [prefix, property, size] of [
+    ['max-w', 'max-width', 'min(45svh,405px)'],
+    ['lg:w', 'width', 'min(45svh,405px)'],
+    ['max-w', 'max-width', 'min(48rem,80svh)'],
+    ['lg:w', 'width', 'min(32rem,80svh)'],
+  ]) {
+    const rule = `.${escapeSelector(`${prefix}-[${size}]`)}{${property}:${size}}`;
+    assert.ok(compactCss.includes(rule), `CSS sem o tamanho do player ${size} (${prefix}, ${property})`);
+  }
+}
+
+// O movimento da estante de /reviews e das subpáginas (D2.2) também só com o movimento liberado. Cada
+// seletor aparece ao menos uma vez no CSS gerado, e toda ocorrência fica dentro de um @media com
+// prefers-reduced-motion: no-preference. O Lightning CSS mantém o espaço do seletor descendente e o
+// :root:has(…) como no globals.css; a ocorrência não pode ser o começo de outro nome (.estante-entra-x).
+const SHELF_MOTION_SELECTORS = [
+  '.marca-texto-entra',
+  '.estante-entra',
+  '.carimbo-assenta',
+  '[data-trocando] .estante-item',
+  ':root:has([data-trocando])',
+];
+function occurrencesOf(source: string, selector: string) {
+  const found: number[] = [];
+  for (let at = source.indexOf(selector); at !== -1; at = source.indexOf(selector, at + 1)) {
+    if (!/[\w-]/.test(source[at + selector.length] ?? '')) found.push(at);
+  }
+  return found;
+}
+function assertShelfMotionOnlyWhenAllowed(source: string) {
+  for (const selector of SHELF_MOTION_SELECTORS) {
+    const found = occurrencesOf(source, selector);
+    assert.ok(found.length > 0, `CSS sem ${selector} (movimento da estante)`);
+    for (const at of found) {
+      assert.match(
+        enclosingBlockHeader(source, at),
+        /prefers-reduced-motion:\s*no-preference/,
+        `CSS com ${selector} fora do @media de prefers-reduced-motion: no-preference`
+      );
+    }
+  }
+}
+assertShelfMotionOnlyWhenAllowed(css);
+// Controles, numa cópia do CSS: a regra solta fora do @media, o @media que perde o no-preference e o
+// seletor que some derrubam a trava.
+{
+  const shelfAt = css.indexOf('.estante-entra');
+  const header = enclosingBlockHeader(css, shelfAt);
+  const headerAt = css.lastIndexOf(header, shelfAt);
+  assert.ok(header && headerAt >= 0, 'controle: o .estante-entra está dentro de um @media');
+  assert.throws(() => assertShelfMotionOnlyWhenAllowed(`${css}\n.estante-entra{animation:none}`), /\.estante-entra fora do @media/);
+  assert.throws(
+    () => assertShelfMotionOnlyWhenAllowed(css.slice(0, headerAt) + '@media screen' + css.slice(headerAt + header.length)),
+    /fora do @media/
+  );
+  assert.throws(
+    () => assertShelfMotionOnlyWhenAllowed(`${css}\n:root:has([data-trocando])::view-transition{pointer-events:none}`),
+    /:root:has\(\[data-trocando\]\) fora do @media/
+  );
+  assert.throws(() => assertShelfMotionOnlyWhenAllowed(css.replaceAll('.carimbo-assenta', '.carimbo-outro')), /sem \.carimbo-assenta/);
+}
+
+// O recorte com código de /cupons e das páginas de loja (D2.2). O verde do copiado vale com ou sem
+// movimento: fica no nível de cima do CSS, fora de @media e de @layer, para vencer as classes de borda e
+// de fundo do Tailwind. O Lightning CSS tira as aspas do [data-copied='true']. Vale a última regra de cima,
+// que é a que vence na cascata.
+const COPIED_CUTOUT_RULE = /\.recorte:has\(\[data-copied=true\]\)\{([^}]*)\}/g;
+const COPIED_PAPER_RULE = /\.recorte:has\(\[data-copied=true\]\) \.recorte-tesoura-papel\{([^}]*)\}/g;
+const lastTopLevelRule = (source: string, rule: RegExp) =>
+  [...source.matchAll(rule)].findLast((match) => enclosingBlockHeader(source, match.index) === '');
+function assertCopiedCutoutColor(source: string) {
+  const color = lastTopLevelRule(source, COPIED_CUTOUT_RULE);
+  assert.ok(color, 'CSS sem o verde do recorte copiado (.recorte:has([data-copied=true])) fora de @media e de @layer');
+  for (const declaration of ['border-style:solid', 'border-color:var(--color-verde-escuro)', 'background-color:var(--color-verde-claro)']) {
+    assert.ok(color[1].split(';').includes(declaration), `CSS: o verde do recorte copiado sem ${declaration}`);
+  }
+  // No verde, a tesoura do hub ganha o fundo de papel: branco até a linha tracejada (11px) e verde-claro dali para baixo.
+  const paper = lastTopLevelRule(source, COPIED_PAPER_RULE);
+  assert.ok(paper, 'CSS sem o fundo de papel da tesoura no verde (.recorte:has([data-copied=true]) .recorte-tesoura-papel) fora de @media e de @layer');
+  assert.match(
+    paper[1],
+    /^background:linear-gradient\(var\(--color-white\) ?11px, ?var\(--color-verde-claro\) ?11px\)$/,
+    'CSS: o fundo de papel da tesoura sem o corte seco em 11px (branco e verde-claro)'
+  );
+}
+assertCopiedCutoutColor(css);
+// As cores vêm do @theme inline, que só põe no CSS a variável que alguma regra usa.
+for (const variable of ['--color-verde-escuro', '--color-verde-claro', '--color-marinho', '--color-white']) {
+  assert.match(css, new RegExp(`${variable}:#`), `CSS sem ${variable}: o recorte (o verde, o papel ou a sombra) ficaria sem cor`);
+}
+
+// O movimento das classes novas de /cupons só com o movimento liberado. A trava olha a declaração, não o
+// seletor: o .recorte também está na regra do verde, que vale sempre. Toda regra que cita o seletor e mexe
+// em movimento fica no @media. Para provar que o movimento existe, só conta a regra em que o seletor é o
+// sujeito: fora de um :has(…) e sem combinador depois dele. A regra do container,
+// .recorte:has(.recorte-tesoura), não é movimento da tesoura, e a da tesoura que corre não é do .recorte.
+const COUPON_MOTION_SELECTORS = ['.recorte', '.recorte-tesoura', '.etiqueta-entra', '.recorte-entra'];
+const MOTION_PROPERTY = /^(?:animation|transition)(?:-[a-z-]+)?$|^(?:translate|scale|rotate|box-shadow|container|container-type)$/;
+function isSubjectAt(source: string, at: number, selector: string) {
+  const end = at + source.slice(at).search(/[,{]/);
+  return /^(?:::?[\w-]+(?:\([^()]*\))?|\[[^\]]*\])*$/.test(source.slice(at + selector.length, end));
+}
+function assertCouponMotionOnlyWhenAllowed(source: string) {
+  for (const selector of COUPON_MOTION_SELECTORS) {
+    let motionRules = 0;
+    for (const at of occurrencesOf(source, selector)) {
+      const properties = declarationsAt(source, at)
+        .split(';')
+        .map((declaration) => declaration.split(':')[0].trim())
+        .filter((property) => MOTION_PROPERTY.test(property));
+      if (properties.length === 0) continue;
+      if (isSubjectAt(source, at, selector)) motionRules++;
+      assert.match(
+        enclosingBlockHeader(source, at),
+        /prefers-reduced-motion:\s*no-preference/,
+        `CSS com ${properties.join(', ')} de ${selector} fora do @media de prefers-reduced-motion: no-preference`
+      );
+    }
+    assert.ok(motionRules > 0, `CSS sem o movimento de ${selector}`);
+  }
+}
+assertCouponMotionOnlyWhenAllowed(css);
+// Controles, numa cópia do CSS. Derrubam as travas: o verde que entra num @media, perde uma declaração ou
+// é vencido por outra regra de cima depois dele; o papel que some ou perde o corte em 11px; a regra de
+// movimento solta fora do @media; o @media que perde o no-preference; o movimento que só sobra em regra em
+// que o seletor não é o sujeito; e o seletor que some. A regra só de cor, fora do @media, passa.
+{
+  const color = lastTopLevelRule(css, COPIED_CUTOUT_RULE);
+  assert.ok(color, 'controle: o verde do recorte não foi achado');
+  const withColorRule = (rule: string) => css.slice(0, color.index) + rule + css.slice(color.index + color[0].length);
+  assert.throws(() => assertCopiedCutoutColor(withColorRule(`@media print{${color[0]}}`)), /sem o verde do recorte copiado/);
+  assert.throws(
+    () => assertCopiedCutoutColor(withColorRule(color[0].replace('border-style:solid', 'border-style:dashed'))),
+    /sem border-style:solid/
+  );
+  assert.throws(() => assertCopiedCutoutColor(`${css}\n.recorte:has([data-copied=true]){border-style:dashed}`), /sem border-style:solid/);
+  const paperMutations: [string, RegExp][] = [
+    [css.replace('.recorte-tesoura-papel{', '.recorte-tesoura-x{'), /sem o fundo de papel/],
+    [css.replace('var(--color-white)11px', 'var(--color-white)12px'), /corte seco em 11px/],
+  ];
+  for (const [mutated, message] of paperMutations) {
+    assert.notEqual(mutated, css, `controle: a mutação não achou o trecho (${message})`);
+    assert.throws(() => assertCopiedCutoutColor(mutated), message);
+  }
+
+  assert.throws(() => assertCouponMotionOnlyWhenAllowed(`${css}\n.recorte-tesoura{transition:none}`), /transition de \.recorte-tesoura fora do @media/);
+  assert.throws(() => assertCouponMotionOnlyWhenAllowed(`${css}\n.recorte{container-type:inline-size}`), /container-type de \.recorte fora do @media/);
+  assert.doesNotThrow(() => assertCouponMotionOnlyWhenAllowed(`${css}\n.recorte{border-style:solid}`));
+  const scissorsAt = occurrencesOf(css, '.recorte-tesoura')[0];
+  const header = enclosingBlockHeader(css, scissorsAt);
+  const headerAt = css.lastIndexOf(header, scissorsAt);
+  assert.ok(header && headerAt >= 0, 'controle: a .recorte-tesoura está dentro de um @media');
+  assert.throws(
+    () => assertCouponMotionOnlyWhenAllowed(css.slice(0, headerAt) + '@media screen' + css.slice(headerAt + header.length)),
+    /fora do @media/
+  );
+  const subjectMutations: [string, string, RegExp][] = [
+    // Sobra só a regra do container, .recorte:has(.recorte-tesoura), que cita a tesoura sem ser dela.
+    ['.recorte-tesoura', css.replaceAll('.recorte-tesoura{', '.recorte-x{'), /sem o movimento de \.recorte-tesoura/],
+    // Sobra só a regra da tesoura que corre, .recorte:has([data-copied=true]) .recorte-tesoura.
+    [
+      '.recorte',
+      css
+        .replaceAll('.recorte{', '.recorte-x{')
+        .replaceAll('.recorte:has(.recorte-tesoura){', '.recorte-x:has(.recorte-tesoura){')
+        .replaceAll('.recorte:has([data-copied=true]){', '.recorte-x:has([data-copied=true]){'),
+      /sem o movimento de \.recorte$/,
+    ],
+  ];
+  for (const [selector, mutated, message] of subjectMutations) {
+    assert.ok(occurrencesOf(mutated, selector).length > 0, `controle: ${selector} sumiu do CSS; a mutação devia deixar só regras em que ele não é o sujeito`);
+    assert.throws(() => assertCouponMotionOnlyWhenAllowed(mutated), message);
+  }
+  assert.throws(() => assertCouponMotionOnlyWhenAllowed(css.replaceAll('.recorte-tesoura', '.recorte-x')), /sem o movimento de \.recorte-tesoura/);
+}
+
+// A chegada não parte de opacity: 0. O número do topo pode ser o LCP, e o recorte tem botões, que não podem
+// ficar invisíveis e clicáveis. O carimbo-assenta de /reviews, com opacity, segue só lá.
+function keyframesOf(source: string, name: string) {
+  const at = source.indexOf(`@keyframes ${name}{`);
+  assert.ok(at >= 0, `CSS sem o @keyframes ${name}`);
+  let depth = 0;
+  for (let i = source.indexOf('{', at); i < source.length; i++) {
+    if (source[i] === '{') depth++;
+    else if (source[i] === '}' && --depth === 0) return source.slice(at, i + 1);
+  }
+  assert.fail(`CSS: o @keyframes ${name} sem o fim`);
+}
+function assertArrivalKeyframes(source: string) {
+  for (const name of ['etiqueta-carimba', 'recorte-assenta']) {
+    const keyframes = keyframesOf(source, name);
+    assert.ok(!keyframes.includes('opacity'), `CSS: o @keyframes ${name} mexe na opacidade`);
+    assert.match(keyframes, /scale:/, `CSS: o @keyframes ${name} sem scale`);
+    assert.match(keyframes, /rotate:/, `CSS: o @keyframes ${name} sem rotate`);
+  }
+  assert.match(
+    keyframesOf(source, 'etiqueta-carimba'),
+    /rotate:var\(--etiqueta-rotacao,/,
+    'CSS: o @keyframes etiqueta-carimba sem o giro pela --etiqueta-rotacao (o hub gira menos)'
+  );
+}
+assertArrivalKeyframes(css);
+// Controles: a opacidade em qualquer dos dois @keyframes, o @keyframes renomeado e o que perde o scale ou o
+// rotate derrubam a trava.
+const keyframesMutations: [string, RegExp][] = [
+  [css.replace('@keyframes recorte-assenta{', '@keyframes recorte-assenta{0%{opacity:0}'), /recorte-assenta mexe na opacidade/],
+  [css.replace('@keyframes etiqueta-carimba{', '@keyframes etiqueta-carimba{0%{opacity:0}'), /etiqueta-carimba mexe na opacidade/],
+  [css.replace('@keyframes etiqueta-carimba{', '@keyframes etiqueta-x{'), /sem o @keyframes etiqueta-carimba/],
+  [css.replace(/(@keyframes etiqueta-carimba\{[^}]*?)scale:/, '$1zoom:'), /etiqueta-carimba sem scale/],
+  [css.replace(/(@keyframes recorte-assenta\{[^}]*?)rotate:/, '$1skew:'), /recorte-assenta sem rotate/],
+  [
+    css.replace(/(@keyframes etiqueta-carimba\{[^}]*?)rotate:var\(--etiqueta-rotacao,-6deg\)/, '$1rotate:-6deg'),
+    /giro pela --etiqueta-rotacao/,
+  ],
+];
+for (const [mutated, message] of keyframesMutations) {
+  assert.notEqual(mutated, css, `controle: a mutação não achou o trecho (${message})`);
+  assert.throws(() => assertArrivalKeyframes(mutated), message);
+}
+
 const sitemapBody = read(path.join(APP_DIR, 'sitemap.xml.body'));
 const sitemapUrls = [...sitemapBody.matchAll(/<loc>([^<]+)<\/loc>/g)].map(([, url]) => url);
 assert.ok(sitemapUrls.length > 0, 'sitemap.xml sem URLs');
@@ -228,6 +555,40 @@ const escapeHtml = (text: string) =>
   text.replace(/&/g, '&amp;').replace(/'/g, '&#x27;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const metaOf = (head: string, key: string) =>
   decodeHtml(head.match(new RegExp(`<meta (?:property|name)="${key}" content="([^"]*)"`))?.[1] ?? '');
+
+// A primeira trilha (<nav><ol>) do trecho, nível a nível; o último, sem link, é a própria página.
+// Sai no mesmo formato que a BreadcrumbList do JSON-LD em schemaTrailOf.
+const visibleTrailOf = (html: string, pagePath: string) => {
+  const trail = html.match(/<nav\b[^>]*><ol\b[\s\S]*?<\/ol><\/nav>/)?.[0] ?? '';
+  return [...trail.matchAll(/<li\b([^>]*)>([\s\S]*?)<\/li>/g)]
+    .filter(([, attributes]) => !attributes.includes('aria-hidden'))
+    .map(([, , item]) => ({
+      name: textOf(item),
+      url: new URL(item.match(/href="([^"]+)"/)?.[1] ?? pagePath, SITE_URL).href,
+    }));
+};
+const schemaTrailOf = (breadcrumbList: { itemListElement: Array<{ name: string; item: string }> } | undefined) =>
+  breadcrumbList?.itemListElement.map(({ name, item }) => ({ name, url: new URL(item).href }));
+// O nome que o leitor de tela dá a essa mesma trilha.
+const trailLabelOf = (html: string) =>
+  decodeHtml(html.match(/<nav\b([^>]*)><ol\b/)?.[1].match(/aria-label="([^"]*)"/)?.[1] ?? '');
+
+// Os rótulos da nota editorial ("Nota editorial: …", "Editorial note: …") num trecho de HTML. A nota é
+// sempre um botão; a nota da margem, no desktop, é um <aside> com o rótulo nu.
+const EDITORIAL_NOTE_TITLES = new Set(LOCALE_KEYS.map((key) => getArticleCopy(key).editorialNoteTitle));
+const editorialNoteLabelsIn = (html: string) =>
+  [...html.matchAll(/<button\b[^>]*\baria-label="([^"]*)"/g)]
+    .map(([, label]) => decodeHtml(label))
+    .filter((label) => label.includes(': ') && EDITORIAL_NOTE_TITLES.has(label.split(': ')[0]));
+assert.deepEqual(
+  editorialNoteLabelsIn(
+    '<button type="button" class="x" aria-label="Editorial note: Cecília&#x27;s tip"></button>' +
+      '<aside aria-label="Nota editorial: Dica"></aside><button aria-label="Nota editorial"></button><nav aria-label="Sei qui">'
+  ),
+  ["Editorial note: Cecília's tip"],
+  'editorialNoteLabelsIn não acha o rótulo da nota'
+);
+assert.equal(trailLabelOf('<nav class="x" aria-label="Sei qui"><ol></ol></nav>'), 'Sei qui', 'trailLabelOf não acha o nome da trilha');
 
 // O cartão do X não mostra AVIF: a imagem de compartilhamento de loja, de subpágina e de data é JPG,
 // PNG, WebP ou GIF. As capas dos artigos ficam de fora desta regra.
@@ -344,16 +705,10 @@ for (const { locale, hubPath, htmlLang, openGraphLocale } of yesStyleHubs) {
 
   // A trilha e as perguntas do JSON-LD são as que aparecem na página, na mesma ordem. Em português
   // a trilha passa por /cupons; os outros idiomas não têm página de cupons e vão da home à loja.
-  const trail = main.match(/<nav\b[^>]*><ol\b[\s\S]*?<\/ol><\/nav>/)?.[0] ?? '';
-  const visibleCrumbs = [...trail.matchAll(/<li\b([^>]*)>([\s\S]*?)<\/li>/g)]
-    .filter(([, attributes]) => !attributes.includes('aria-hidden'))
-    .map(([, , item]) => ({
-      name: textOf(item),
-      url: new URL(item.match(/href="([^"]+)"/)?.[1] ?? hubPath, SITE_URL).href,
-    }));
+  const visibleCrumbs = visibleTrailOf(main, hubPath);
   assert.equal(visibleCrumbs.length, locale === 'pt' ? 3 : 2, `${hubPath}: ${visibleCrumbs.length} níveis na trilha`);
   assert.deepEqual(
-    schemaOf('BreadcrumbList').itemListElement.map(({ name, item }) => ({ name, url: new URL(item).href })),
+    schemaTrailOf(schemaOf('BreadcrumbList')),
     visibleCrumbs,
     `${hubPath}: trilha do JSON-LD diferente da trilha na página`
   );
@@ -379,6 +734,28 @@ function openElementsAt(body: string, index: number) {
     else if (!selfClosing && !VOID_TAGS.has(name.toLowerCase())) open++;
   }
   return open;
+}
+
+// O elemento que abre em `start` (o `<` da tag), com o conteúdo, até a tag de mesmo nome que o fecha. O
+// React fecha todo elemento que não é vazio (não há <span/>), então contar as tags de mesmo nome basta.
+function elementAt(html: string, start: number) {
+  const name = html.slice(start).match(/^<([a-zA-Z][\w-]*)/)?.[1];
+  assert.ok(name, `elementAt: nenhuma tag na posição ${start}`);
+  if (VOID_TAGS.has(name.toLowerCase())) return html.slice(start, html.indexOf('>', start) + 1);
+  let depth = 0;
+  for (const match of html.slice(start).matchAll(new RegExp(`<(/?)${name}\\b[^>]*>`, 'g'))) {
+    depth += match[1] ? -1 : 1;
+    if (depth === 0) return html.slice(start, start + match.index + match[0].length);
+  }
+  assert.fail(`elementAt: <${name}> sem a tag que o fecha`);
+}
+// As classes da tag de abertura do elemento.
+const classesOf = (element: string) => element.match(/^<[^>]*?\sclass="([^"]*)"/)?.[1].split(/\s+/) ?? [];
+// Os elementos com a classe `token` inteira (recorte não pega recorte-tesoura), na ordem do HTML.
+function elementsWithClass(html: string, token: string) {
+  return [...html.matchAll(/<[a-zA-Z][\w-]*\s[^>]*>/g)]
+    .filter(([tag]) => classesOf(tag).includes(token))
+    .map((match) => elementAt(html, match.index));
 }
 
 // Textos da sidebar do desktop em todos os idiomas, menos os do idioma da página. O código de
@@ -465,6 +842,7 @@ const withoutRelatedCards = (body: string) => body.replace(/<a\b[^>]*min-h-\[220
 const articleUrls = sitemapUrls.filter((url) => /\/reviews\/[^/]+$/.test(new URL(url).pathname));
 assert.ok(articleUrls.length > 0, 'sitemap.xml sem artigos');
 let familyHeads = 0;
+let notedArticles = 0;
 for (const url of articleUrls) {
   const pagePath = new URL(url).pathname;
   const file = builtFile(url);
@@ -472,6 +850,7 @@ for (const url of articleUrls) {
   const html = read(file);
   const body = bodyOf(html);
   assert.equal(openElementsAt(body, body.length), 0, `${pagePath}: as tags do <body> não fecham`);
+  assertCeciliaAuthorId(personNodesChecked.artigo, pagePath, html);
 
   const dialogs = body.match(/<dialog\b[\s\S]*?<\/dialog>/g) ?? [];
   assert.equal(dialogs.length, 1, `${pagePath}: ${dialogs.length} gavetas de sumário em vez de uma`);
@@ -537,6 +916,62 @@ for (const url of articleUrls) {
     assert.deepEqual([...new Set(pageTexts.filter((text) => portuguese.has(text)))], [], `${pagePath}: interface do artigo em português`);
   }
 
+  // A trilha vai da home do idioma à lista de artigos e ao artigo, e o JSON-LD repete a da página.
+  // Ela é procurada antes da gaveta, cujo sumário também é uma <nav><ol>.
+  const reviewHub = locale === 'pt' ? { label: 'Reviews', href: '/reviews' } : getInternationalReviewHub(locale);
+  const crumbs = visibleTrailOf(body.slice(0, dialogStart), pagePath);
+  assert.deepEqual(
+    crumbs,
+    [
+      { name: getShellCopy(locale).homeLabel, href: getShellHomeHref(locale) },
+      { name: reviewHub.label, href: reviewHub.href },
+      { name: review.title, href: pagePath },
+    ].map(({ name, href }) => ({ name, url: new URL(href, SITE_URL).href })),
+    `${pagePath}: a trilha não é home do idioma > lista de artigos > artigo`
+  );
+  assert.deepEqual(
+    schemaTrailOf(jsonLdOf(html).find((schema) => schema['@type'] === 'BreadcrumbList')),
+    crumbs,
+    `${pagePath}: trilha do JSON-LD diferente da trilha na página`
+  );
+  // O leitor de tela anuncia a trilha e a nota editorial no idioma do artigo; a trilha tem o nome
+  // que as páginas de loja usam.
+  assert.equal(
+    trailLabelOf(body.slice(0, dialogStart)),
+    getArticleCopy(locale).breadcrumbLabel,
+    `${pagePath}: nome da trilha para o leitor de tela fora do idioma do artigo`
+  );
+  // O id de cada seção sai do título (generateSectionIds, indexado pelo título): dois títulos iguais dão
+  // o mesmo id às duas seções, e o sumário e a nota ancorada nelas se confundem.
+  const headings = (review.contentSections ?? []).map((section) => section.heading).filter(Boolean);
+  assert.equal(new Set(headings).size, headings.length, `${pagePath}: seções com o mesmo título`);
+  // Cada nota da review aparece uma vez, com o título do idioma, e nenhuma outra; com rótulos repetidos,
+  // uma nota em dobro esconderia outra faltando. O Review legado de data.ts não declara as notas, que vêm
+  // no índice.
+  const noteTitle = getArticleCopy(locale).editorialNoteTitle;
+  const notes = (review as { notes?: EditorialNoteData[] }).notes ?? [];
+  const noteLabels = notes.map((note) => `${noteTitle}: ${note.label}`);
+  assert.equal(new Set(noteLabels).size, noteLabels.length, `${pagePath}: notas editoriais com o mesmo rótulo`);
+  assert.deepEqual(
+    editorialNoteLabelsIn(body).sort(),
+    [...noteLabels].sort(),
+    `${pagePath}: nota editorial fora do idioma do artigo, faltando ou repetida`
+  );
+  // A nota ancorada numa seção do corpo sai dentro da <section> dela, e não no topo. As seções do corpo
+  // são as do template (getBodySections); a nota ancorada em outra parte (veredito, passo do guia) sai no topo.
+  const bodySectionIds = new Set(getBodySections(review.contentSections ?? [], inferReviewKind(review)).map(({ id }) => id));
+  for (const [index, note] of notes.entries()) {
+    if (!note.anchor || !bodySectionIds.has(note.anchor)) continue;
+    const tag = [...body.matchAll(/<section\b([^>]*)>/g)].find(([, attributes]) => attributes.includes(` id="${note.anchor}"`));
+    assert.ok(tag, `${pagePath}: a seção ${note.anchor} da nota "${note.label}" não está na página`);
+    const section = body.slice(tag.index, body.indexOf('</section>', tag.index));
+    assert.ok(
+      editorialNoteLabelsIn(section).includes(noteLabels[index]),
+      `${pagePath}: nota "${note.label}" fora da seção ${note.anchor}`
+    );
+  }
+  if (notes.length) notedArticles++;
+
   // O <head> de um artigo de família: canonical da própria página e hreflang dos 10 idiomas, com x-default no inglês.
   if (review.translationKey) {
     const family = familyPaths.get(review.translationKey) ?? {};
@@ -571,6 +1006,153 @@ for (const url of articleUrls) {
       `${pagePath}: gaveta sem o título "${drawerTitle}" no card do código`
     );
   }
+}
+// Sem nenhum artigo com nota, a conferência da nota editorial passaria à toa.
+assert.ok(notedArticles > 0, 'nenhum artigo com nota editorial');
+
+// As receitas só existem em português; a trilha delas tem o mesmo nome da dos artigos.
+const recipeUrls = sitemapUrls.filter((url) => /^\/receitas\/[^/]+$/.test(new URL(url).pathname));
+assert.ok(recipeUrls.length > 0, 'sitemap.xml sem receitas');
+for (const url of recipeUrls) {
+  const pagePath = new URL(url).pathname;
+  const file = builtFile(url);
+  assert.ok(file, `${pagePath}: página não gerada no build`);
+  const html = read(file);
+  assert.equal(trailLabelOf(bodyOf(html)), getArticleCopy('pt').breadcrumbLabel, `${pagePath}: nome da trilha da receita`);
+  assertCeciliaAuthorId(personNodesChecked.receita, pagePath, html);
+}
+
+// A home de cada idioma (/en, /ja…):
+// - no <head>, canonical, hreflang das 10 homes com x-default em inglês, e o mesmo hreflang na raiz;
+// - no <main>, o Person e o FAQPage, que repete as perguntas da página;
+// - nenhum texto em português, nenhum link de loja (só as páginas das lojas no idioma) e nenhum código
+//   chamado de cupom;
+// - nada escondido pela rolagem no HTML;
+// - o logo das páginas do idioma levando a ela, e a home no sitemap e no llms.txt.
+const homeAlternates = Object.entries(getHomeLanguageLinks()).map(([hreflang, href]) => `${hreflang} ${href}`).sort();
+{
+  const rootHead = headOf(read(path.join(APP_DIR, 'index.html')));
+  assert.deepEqual(
+    [...rootHead.matchAll(/<link rel="alternate" hrefLang="([^"]+)" href="([^"]+)"/g)].map(([, hreflang, href]) => `${hreflang} ${href}`).sort(),
+    homeAlternates,
+    '/: hreflang das homes de cada idioma'
+  );
+}
+
+// Os textos fixos do menu, do rodapé e do seletor de um idioma. Ficam de fora o campo `locale`, que não é
+// texto de tela, e o modelo do aria-label das redes (com `{social}`), que o rodapé monta uma vez por rede.
+const shellTexts = (locale: Locale) => {
+  const copy = getShellCopy(locale);
+  return [
+    ...fixedTexts({ ...copy, locale: undefined }).filter((text) => !text.includes('{')),
+    ...socialMedias.map((social) => copy.followAria.replace('{social}', social.name)),
+  ];
+};
+// A categoria e o título do código de cada loja da home em português, e não só os da YesStyle e da SHEIN.
+const { categories: PT_STORE_CATEGORIES, codeTitles: PT_CODE_TITLES } = getPtStoreTexts();
+// Todo texto fixo do site em português (menu, rodapé, seletor) mais os da home em português, para a home
+// de cada idioma não deixar nenhum passar. O que o idioma escreve igual ao português sai por locale.
+const PT_ONLY_TEXTS = [
+  ...Object.values(CECILIA_PHOTO_COPY_PT),
+  ...getShellNavLinks('pt').map((link) => link.label),
+  ...shellTexts('pt'),
+  'Da minha casa',
+  'Mais sobre mim',
+  'Entre no grupo de promoções',
+  ...PT_STORE_CATEGORIES,
+  ...PT_CODE_TITLES.map(({ title }) => title),
+];
+
+for (const locale of LOCALE_HOME_LOCALES) {
+  const pagePath = getLocaleHomePath(locale);
+  const file = builtFile(`${SITE_URL}${pagePath}`);
+  assert.ok(file, `${pagePath}: página não gerada no build`);
+  const html = read(file);
+  const content = getLocaleHomeContent(locale, publishedReviews);
+  assertLocalizedHead(pagePath, headOf(html), homeAlternates, LOCALES[locale].openGraphLocale);
+  // A imagem de compartilhamento é a foto da Cecília, no og:image, no cartão do X e no Person.
+  assertShareImage(pagePath, headOf(html), { url: content.hero.photoUrl, alt: content.hero.photo.alt });
+
+  const main = html.match(/<main\b[\s\S]*<\/main>/)?.[0] ?? '';
+  const body = bodyOf(html);
+  assert.equal((body.match(/<h1\b/g) ?? []).length, 1, `${pagePath}: H1`);
+  assert.ok(!html.includes('data-reveal'), `${pagePath}: data-reveal no HTML`);
+
+  const schemas = jsonLdOf(main);
+  assert.deepEqual(schemas.map((schema) => schema['@type']).sort(), ['FAQPage', 'Person'], `${pagePath}: tipos do JSON-LD`);
+  const person = schemas.find((schema) => schema['@type'] === 'Person');
+  assert.equal(person.name, CECILIA_FULL_NAME, `${pagePath}: Person sem o nome completo`);
+  assert.equal(person['@id'], CECILIA_PERSON_ID, `${pagePath}: Person sem o @id da Cecília`);
+  personNodesChecked.home.push(pagePath);
+  assert.deepEqual(
+    person.sameAs,
+    content.follow.networks.map((network) => network.href),
+    `${pagePath}: Person.sameAs diferente das redes da página`
+  );
+  assert.equal(person.image, content.hero.photoUrl, `${pagePath}: Person.image diferente da foto do og:image`);
+  const visibleFaq = [...main.matchAll(/<details\b[^>]*><summary\b[^>]*>([\s\S]*?)<\/summary><div\b[^>]*><p\b[^>]*>([\s\S]*?)<\/p>/g)].map(
+    ([, question, answer]) => ({ question: textOf(question), answer: textOf(answer) })
+  );
+  assert.equal(visibleFaq.length, 4, `${pagePath}: perguntas`);
+  assert.deepEqual(
+    schemas.find((schema) => schema['@type'] === 'FAQPage').mainEntity.map(
+      ({ name, acceptedAnswer }: { name: string; acceptedAnswer: { text: string } }) => ({ question: name, answer: acceptedAnswer.text })
+    ),
+    visibleFaq,
+    `${pagePath}: FAQPage diferente das perguntas na página`
+  );
+
+  // Link de loja em qualquer ponto da página, menu e rodapé inclusive; já os cartões das lojas do idioma
+  // têm de estar no <main>, porque o menu também leva às páginas delas.
+  const hrefsIn = (html: string) => [...html.matchAll(/href="([^"]+)"/g)].map(([, href]) => decodeHtml(href));
+  assert.deepEqual(hrefsIn(body).filter(isStoreLink), [], `${pagePath}: link de loja`);
+  const mainHrefs = hrefsIn(main);
+  const stores = getLocaleHomeStores(locale);
+  for (const store of stores) assert.ok(mainHrefs.includes(store.href), `${pagePath}: sem ${store.href}`);
+
+  const ownTexts = new Set([...fixedTexts(getLocaleHomeCopy(locale)), ...shellTexts(locale)]);
+  const sameAsPortuguese = [
+    ...PT_CODE_TITLES.filter(({ kind }) => LABEL_SAME_AS_PORTUGUESE.has(`${locale}:${kind}`)).map(({ title }) => title),
+    ...getCategoriesSameAsPortuguese(locale),
+  ];
+  const ptTexts = new Set(PT_ONLY_TEXTS.filter((text) => !ownTexts.has(text) && !sameAsPortuguese.includes(text)));
+  const shownTexts = [
+    ...[...body.matchAll(/>([^<>]+)</g)].map(([, text]) => decodeHtml(text).trim()),
+    ...[...body.matchAll(/\s(?:alt|aria-label)="([^"]*)"/g)].map(([, text]) => decodeHtml(text).trim()),
+  ].filter(Boolean);
+  // Sem este controle, um extrator que devolvesse a lista vazia faria a conferência de português passar à toa.
+  assert.ok(shownTexts.includes(getLocaleHomeCopy(locale).storesTitle), `${pagePath}: o texto extraído da página sem o título das lojas`);
+  assert.deepEqual([...new Set(shownTexts.filter((text) => ptTexts.has(text)))], [], `${pagePath}: texto em português`);
+  const codeAsCoupon = codeAsCouponRegExp(stores.flatMap((store) => (store.code ? [store.code] : [])));
+  if (codeAsCoupon) assert.doesNotMatch(shownTexts.join(' '), codeAsCoupon, `${pagePath}: código chamado de cupom`);
+
+  // Na lista de artigos do idioma, o logo do cabeçalho e o do rodapé levam à home do idioma. O cabeçalho é
+  // o primeiro <header> da página e o rodapé, o último <footer>.
+  const hubFile = builtFile(`${SITE_URL}/${locale}/reviews`);
+  assert.ok(hubFile, `/${locale}/reviews: página não gerada no build`);
+  const hubBody = bodyOf(read(hubFile));
+  const header = hubBody.match(/<header\b[\s\S]*?<\/header>/)?.[0] ?? '';
+  const footer = [...hubBody.matchAll(/<footer\b[\s\S]*?<\/footer>/g)].at(-1)?.[0] ?? '';
+  assert.ok(header.includes(`href="${pagePath}"`), `/${locale}/reviews: logo do cabeçalho sem a home do idioma`);
+  assert.ok(footer.includes(`href="${pagePath}"`), `/${locale}/reviews: logo do rodapé sem a home do idioma`);
+
+  assert.ok(sitemapUrls.includes(`${SITE_URL}${pagePath}`), `sitemap.xml sem ${pagePath}`);
+  assert.ok(llmsUrls.includes(`${SITE_URL}${pagePath}`), `llms.txt sem ${pagePath}`);
+}
+
+// O Person da /sobre é a mesma Cecília das homes, e nenhum grupo de nós conferidos fica vazio: sem isto, um
+// extrator que não achasse nada faria a conferência do @id passar à toa.
+{
+  const sobreFile = builtFile(`${SITE_URL}/sobre`);
+  assert.ok(sobreFile, '/sobre: página não gerada no build');
+  const sobrePerson = jsonLdOf(read(sobreFile)).find((schema) => schema['@type'] === 'Person');
+  assert.ok(sobrePerson, '/sobre: sem o Person no JSON-LD');
+  assert.equal(sobrePerson['@id'], CECILIA_PERSON_ID, '/sobre: Person sem o @id da Cecília');
+  assert.equal(sobrePerson.url, `${SITE_URL}/sobre`, '/sobre: o @id aponta para a página, e o url dela mudou');
+  personNodesChecked.sobre.push('/sobre');
+  assert.equal(personNodesChecked.home.length, LOCALE_HOME_LOCALES.length, 'o @id da Cecília não foi conferido nas 9 homes de idioma');
+  assert.ok(personNodesChecked.artigo.length > 0, 'nenhum autor de artigo conferido para o @id da Cecília');
+  assert.ok(personNodesChecked.receita.length > 0, 'nenhum autor de receita conferido para o @id da Cecília');
 }
 
 // Toda página que cita o CECILIA010 segue a regra: as 10 da YesStyle, os artigos, /cupons e as lojas
@@ -646,6 +1228,380 @@ const yesStyleListItem = jsonLdOf(read(couponsHubFile))
 assert.ok(yesStyleListItem?.name.includes(rewardCode), `/cupons: YesStyle fora da ItemList ou sem o ${rewardCode}`);
 assert.doesNotMatch(yesStyleListItem.name, COUPON_WORD, `/cupons: a ItemList chama o ${rewardCode} de cupom`);
 
+// O movimento de /cupons e das páginas de loja (D2.2), contra os dados que montam cada página. O recorte
+// com código (.recorte) é toda caixa tracejada com botão de copiar, e só ela: a cor e o soltar reagem ao
+// data-copied do botão, e um recorte sem botão nunca reagiria. A tesoura que corre (.recorte-tesoura) é a
+// dos recortes que a têm: os cartões do hub com código e o recorte do topo das lojas com código.
+const hasCopyCode = (coupon: Coupon) => coupon.offerMode === 'discount-code' && !coupon.tiers?.length;
+type CutoutCount = { total: number; withScissors: number };
+function assertCopyCutouts(where: string, body: string, expected: CutoutCount) {
+  const cutouts = elementsWithClass(body, 'recorte');
+  assert.equal(cutouts.length, expected.total, `${where}: ${cutouts.length} recortes com código (.recorte); os dados pedem ${expected.total}`);
+  for (const cutout of cutouts) {
+    assert.ok(cutout.includes(' data-copied="'), `${where}: .recorte sem botão de copiar: ${cutout.slice(0, 200)}`);
+  }
+  const scissors = elementsWithClass(body, 'recorte-tesoura');
+  assert.equal(scissors.length, expected.withScissors, `${where}: ${scissors.length} tesouras que correm (.recorte-tesoura); os dados pedem ${expected.withScissors}`);
+  assert.equal(
+    cutouts.filter((cutout) => elementsWithClass(cutout, 'recorte-tesoura').length === 1).length,
+    expected.withScissors,
+    `${where}: tesoura (.recorte-tesoura) fora de um .recorte, ou duas no mesmo recorte`
+  );
+}
+
+// O hub: os recortes e as tesouras contados pelos dados, o fundo de papel de cada tesoura (ela fica metade
+// sobre o cartão e metade sobre o recorte, e no verde o fundo dela é o do papel) e nenhuma classe
+// has-[[data-copied=true]] de antes, porque o verde é do .recorte, no globals.css. A trava olha o HTML: o
+// dock dos artigos usa as mesmas classes, e elas seguem no CSS.
+function assertHubCutouts(body: string, expected: CutoutCount) {
+  assertCopyCutouts('/cupons', body, expected);
+  for (const scissors of elementsWithClass(body, 'recorte-tesoura')) {
+    assert.ok(classesOf(scissors).includes('recorte-tesoura-papel'), '/cupons: tesoura sem o fundo de papel (.recorte-tesoura-papel)');
+  }
+  assert.ok(!body.includes('has-[[data-copied=true]]'), '/cupons: classe has-[[data-copied=true]] no HTML (o verde é do .recorte)');
+}
+
+const couponsHubBody = bodyOf(read(couponsHubFile));
+const hubSections = getCouponHubSections();
+const hubCoupons = [...hubSections.featured, ...hubSections.categories.flatMap(({ coupons }) => coupons)];
+const hubCodeCards = hubCoupons.filter(hasCopyCode).length;
+assert.ok(hubCodeCards > 0, '/cupons: nenhum cartão com código nos dados');
+assertHubCutouts(couponsHubBody, { total: hubCodeCards, withScissors: hubCodeCards });
+// Controles no HTML de /cupons: o recorte que perde a classe, a classe num recorte sem botão de copiar
+// (por conta e no lugar de outro), a tesoura que perde a classe ou o fundo de papel e a classe
+// has-[[data-copied=true]] que volta derrubam a trava.
+{
+  assert.ok(
+    hubCoupons.some((coupon) => !hasCopyCode(coupon)),
+    'controle: /cupons sem cartão sem código (faixas ou link); troque o controle abaixo'
+  );
+  const noCodeCutout = 'flex flex-col gap-2 px-2.5 pt-3 pb-2.5';
+  const expected = { total: hubCodeCards, withScissors: hubCodeCards };
+  const mutations: [string, RegExp][] = [
+    [couponsHubBody.replace(' recorte ', ' '), /recortes com código/],
+    [couponsHubBody.replace(noCodeCutout, `recorte ${noCodeCutout}`), /recortes com código/],
+    [couponsHubBody.replace(' recorte ', ' ').replace(noCodeCutout, `recorte ${noCodeCutout}`), /sem botão de copiar/],
+    [couponsHubBody.replace('recorte-tesoura recorte-tesoura-papel', 'recorte-tesoura-papel'), /tesouras que correm/],
+    [couponsHubBody.replace('recorte-tesoura recorte-tesoura-papel', 'recorte-tesoura'), /sem o fundo de papel/],
+    [couponsHubBody.replace(' recorte ', ' recorte has-[[data-copied=true]]:bg-verde-claro '), /has-\[\[data-copied=true\]\] no HTML/],
+  ];
+  for (const [mutated, message] of mutations) {
+    assert.notEqual(mutated, couponsHubBody, `controle: a mutação não achou o trecho (${message})`);
+    assert.throws(() => assertHubCutouts(mutated, expected), message);
+  }
+}
+
+// As páginas de loja. O recorte do topo (id="cupom") é .recorte, com a tesoura que corre, só quando tem
+// botão de copiar. A caixa de indicação, os cupons da lista da YesStyle e as caixas de código dos "Outros
+// cupons" (só em PT) são recortes sem tesoura.
+const builtBody = (pagePath: string) => {
+  const file = builtFile(`${SITE_URL}${pagePath}`);
+  assert.ok(file, `${pagePath}: página não gerada no build`);
+  return bodyOf(read(file));
+};
+function assertStoreCutout(where: string, body: string, copyable: boolean) {
+  const at = body.indexOf('<section id="cupom"');
+  assert.ok(at >= 0, `${where}: sem o recorte do topo (id="cupom")`);
+  const cutout = elementAt(body, at);
+  assert.equal(classesOf(cutout).includes('recorte'), copyable, `${where}: o recorte do topo ${copyable ? 'sem' : 'com'} o .recorte`);
+  assert.equal(
+    elementsWithClass(cutout, 'recorte-tesoura').length,
+    copyable ? 1 : 0,
+    `${where}: ${copyable ? 'a tesoura do recorte do topo parada' : 'a tesoura do recorte do topo corre sem botão de copiar'}`
+  );
+  // O círculo da tesoura do topo é amarelo e continua amarelo no verde: não leva o fundo de papel do hub.
+  assert.ok(!cutout.includes('recorte-tesoura-papel'), `${where}: a tesoura do recorte do topo com o fundo de papel (.recorte-tesoura-papel)`);
+}
+
+// A etiqueta carimbada. Nas lojas: o número do topo, dentro do h1, num bloco (um span inline ignora scale
+// e rotate), e o recorte do topo que assenta. No hub: o número de cada Destaque, com a escala de 1,05 e o giro de −3° (o
+// cartão não corta o número) e o atraso pela posição, de 150 em 150 ms.
+function assertStoreArrival(where: string, body: string) {
+  const stamps = elementsWithClass(body, 'etiqueta-entra');
+  assert.equal(stamps.length, 1, `${where}: ${stamps.length} números com a etiqueta (.etiqueta-entra)`);
+  const h1At = body.indexOf('<h1');
+  assert.ok(h1At >= 0, `${where}: sem h1`);
+  assert.equal(elementsWithClass(elementAt(body, h1At), 'etiqueta-entra').length, 1, `${where}: a etiqueta fora do h1`);
+  assert.ok(classesOf(stamps[0]).includes('block'), `${where}: a etiqueta sem o block`);
+  const cutoutAt = body.indexOf('<section id="cupom"');
+  assert.ok(cutoutAt >= 0, `${where}: sem o recorte do topo (id="cupom")`);
+  assert.ok(classesOf(elementAt(body, cutoutAt)).includes('recorte-entra'), `${where}: o recorte do topo sem o .recorte-entra`);
+}
+function assertHubStamps(body: string, featuredCount: number) {
+  const stamps = elementsWithClass(body, 'etiqueta-entra');
+  assert.equal(stamps.length, featuredCount, `/cupons: ${stamps.length} números com a etiqueta (.etiqueta-entra); os Destaques são ${featuredCount}`);
+  const featuredSection = between(body, 'aria-labelledby="destaques"', ['aria-labelledby="prateleira-', 'aria-labelledby="perguntas"']);
+  assert.equal(elementsWithClass(featuredSection, 'etiqueta-entra').length, featuredCount, '/cupons: etiqueta fora dos Destaques');
+  stamps.forEach((stamp, index) => {
+    assert.equal(
+      stamp.match(/^<[^>]*\sstyle="([^"]*)"/)?.[1],
+      `--etiqueta-escala:1.05;--etiqueta-rotacao:-3deg;--etiqueta-atraso:${150 * (index + 1)}ms`,
+      `/cupons: a escala e o atraso da etiqueta do Destaque ${index + 1}`
+    );
+  });
+  assert.equal(
+    elementsWithClass(body, 'recorte-entra').length,
+    0,
+    '/cupons: recorte com .recorte-entra no hub (os recortes dos Destaques ficam parados)'
+  );
+}
+
+assert.ok(hubSections.featured.length > 0, '/cupons: sem Destaques nos dados');
+assertHubStamps(couponsHubBody, hubSections.featured.length);
+
+// As prateleiras em cascata com ímã. Cada cartão das prateleiras do hub e dos "Outros cupons" é um item
+// com a cascata (.revela, com --i pela posição). Dentro dele, o do meio leva o grupo do hover, a inclinação
+// e o ímã do couponCardDecorAt da posição, sempre à direita e nunca amarelo. O cartão leva a sombra do hover.
+// Os Destaques ficam sem cascata e sem ímã.
+const magnetsIn = (element: string) => elementsWithClass(element, 'size-10').filter((span) => classesOf(span).includes('rounded-full'));
+function assertCouponShelf(where: string, section: string, coupons: readonly Coupon[]) {
+  const items = elementsWithClass(section, 'revela');
+  assert.equal(items.length, coupons.length, `${where}: ${items.length} cartões com a cascata (.revela); a prateleira tem ${coupons.length}`);
+  items.forEach((item, index) => {
+    const card = `${where}, cartão ${index + 1}`;
+    assert.equal(item.match(/^<[^>]*\sstyle="([^"]*)"/)?.[1], `--i:${index}`, `${card}: sem --i:${index}`);
+    assert.ok(item.includes(`href="/cupons/${coupons[index].slug}"`), `${card}: não é ${coupons[index].brand}`);
+    const middle = elementAt(item, item.indexOf('<', 1));
+    const middleClasses = classesOf(middle);
+    const decor = couponCardDecorAt(index);
+    assert.ok(middleClasses.includes('group/cupom'), `${card}: sem o grupo do hover (group/cupom)`);
+    assert.ok(middleClasses.includes('min-w-0'), `${card}: o meio sem min-w-0 (o cartão passaria da coluna)`);
+    for (const name of ['motion-safe:transition-[translate,rotate]', 'motion-safe:hover:-translate-y-1', 'motion-safe:hover:rotate-0']) {
+      assert.ok(middleClasses.includes(name), `${card}: o meio sem ${name} (o hover só com o movimento liberado)`);
+    }
+    assert.ok(
+      !middleClasses.some((name) => name.startsWith('hover:')),
+      `${card}: hover sem motion-safe: no meio (mexeria com "reduzir movimento")`
+    );
+    assert.deepEqual(
+      middleClasses.filter((name) => /^-?rotate-/.test(name)),
+      decor.tilt.split(' ').filter(Boolean),
+      `${card}: a inclinação não é a do couponCardDecorAt`
+    );
+    const magnets = magnetsIn(middle);
+    assert.equal(magnets.length, decor.magnet ? 1 : 0, `${card}: ${magnets.length} ímãs; o couponCardDecorAt pede ${decor.magnet ? 1 : 0}`);
+    if (decor.magnet) {
+      const magnetClasses = classesOf(magnets[0]);
+      for (const name of decor.magnet.split(' ')) assert.ok(magnetClasses.includes(name), `${card}: o ímã sem ${name}`);
+      assert.ok(!magnetClasses.includes('-left-3'), `${card}: ímã à esquerda, sobre o número do desconto`);
+      assert.ok(!magnetClasses.includes('bg-amarelo-cupom'), `${card}: ímã amarelo, que some na faixa amarela do preço`);
+      assert.ok(magnetClasses.includes('pointer-events-none'), `${card}: o ímã sem pointer-events-none`);
+      assert.match(magnets[0], /^<span[^>]*\saria-hidden="true"/, `${card}: o ímã sem aria-hidden`);
+    }
+    const article = elementAt(middle, middle.indexOf('<article'));
+    assert.ok(
+      classesOf(article).includes('motion-safe:group-hover/cupom:shadow-[4px_4px_0_var(--color-marinho)]'),
+      `${card}: o cartão sem a sombra do hover`
+    );
+  });
+}
+
+// Na fila dos "Outros cupons", o item de fora é o item flex da fila que rola para o lado no celular: ele leva
+// a largura, o não encolher e o snap.
+function assertOthersRow(where: string, section: string) {
+  for (const item of elementsWithClass(section, 'revela')) {
+    for (const name of ['w-[200px]', 'shrink-0', 'snap-start', 'md:w-auto']) {
+      assert.ok(classesOf(item).includes(name), `${where}: o item sem ${name} (a fila do celular)`);
+    }
+  }
+}
+
+// O ímã dos cupons, à direita e sem o amarelo, é uma variante: a home, a home de cada idioma e as Novidades
+// de /reviews seguem com a tabela de antes, com o ímã à esquerda na posição 2.
+assert.deepEqual([0, 1, 2, 3, 4, 5].map((index) => cardDecorAt(index)), [
+  { magnet: '-top-3 -right-3 bg-amarelo-cupom', tilt: '-rotate-1' },
+  { magnet: null, tilt: '' },
+  { magnet: '-top-3 -left-3 bg-laranja', tilt: 'rotate-[0.5deg]' },
+  { magnet: null, tilt: '' },
+  { magnet: '-top-3 -right-3 bg-marinho', tilt: 'rotate-[-0.6deg]' },
+  { magnet: '-top-3 -right-3 bg-amarelo-cupom', tilt: '-rotate-1' },
+]);
+assert.deepEqual([0, 1, 2, 3, 4, 5].map((index) => couponCardDecorAt(index)), [
+  { magnet: '-top-3 -right-3 bg-marinho', tilt: '-rotate-1' },
+  { magnet: null, tilt: '' },
+  { magnet: '-top-3 -right-3 bg-laranja', tilt: 'rotate-[0.5deg]' },
+  { magnet: null, tilt: '' },
+  { magnet: '-top-3 -right-3 bg-marinho', tilt: 'rotate-[-0.6deg]' },
+  { magnet: '-top-3 -right-3 bg-marinho', tilt: '-rotate-1' },
+]);
+
+for (const category of hubSections.categories) {
+  const section = between(couponsHubBody, `aria-labelledby="prateleira-${category.id}"`, ['aria-labelledby="prateleira-', 'aria-labelledby="perguntas"']);
+  assertCouponShelf(`/cupons, ${category.label}`, section, category.coupons);
+}
+const featuredShelf = between(couponsHubBody, 'aria-labelledby="destaques"', ['aria-labelledby="prateleira-']);
+assert.equal(elementsWithClass(featuredShelf, 'revela').length, 0, '/cupons: os Destaques com a cascata');
+assert.equal(magnetsIn(featuredShelf).length, 0, '/cupons: os Destaques com ímã');
+assert.ok(!couponsHubBody.includes('data-reveal'), '/cupons: data-reveal no HTML');
+
+// O HTML do servidor não distingue o RevealSection de uma <section> comum, e o RevealSection está no
+// manifest de cliente de toda página, pelo layout: a trava das prateleiras olha o código.
+const REVEAL_IMPORT = "import { RevealSection } from '@/components/ui/RevealSection';";
+function assertRevealShelves(where: string, source: string, shelf: RegExp) {
+  assert.ok(source.includes(REVEAL_IMPORT), `${where}: sem o import do RevealSection`);
+  assert.match(source, shelf, `${where}: a prateleira não é um RevealSection`);
+}
+const REVEAL_SHELVES: [string, RegExp][] = [
+  ['src/app/(pt)/cupons/page.tsx', /<RevealSection\b[^>]*\saria-labelledby=\{`prateleira-/],
+  ['src/components/coupons/CouponStorePage.tsx', /<RevealSection\b[^>]*\saria-labelledby="outros-cupons"/],
+];
+for (const [file, shelf] of REVEAL_SHELVES) {
+  const source = read(path.resolve(file));
+  assertRevealShelves(file, source, shelf);
+  assert.throws(() => assertRevealShelves(file, source.replaceAll('<RevealSection', '<section'), shelf), /não é um RevealSection/);
+}
+
+// Controles numa prateleira do hub: a posição trocada, o item sem a cascata, o ímã à esquerda (sem a direita,
+// ou com as duas), o ímã amarelo, o cartão sem a sombra do hover, o meio sem o min-w-0, o hover sem
+// motion-safe: e o ímã sem pointer-events-none derrubam a trava.
+{
+  const [category] = hubSections.categories;
+  const section = between(couponsHubBody, `aria-labelledby="prateleira-${category.id}"`, ['aria-labelledby="prateleira-', 'aria-labelledby="perguntas"']);
+  const mutations: [string, RegExp][] = [
+    [section.replace('style="--i:0"', 'style="--i:1"'), /sem --i:0/],
+    [section.replace('class="revela ', 'class="'), /cartões com a cascata/],
+    [section.replace('-top-3 -right-3', '-top-3 -left-3'), /o ímã sem -right-3/],
+    [section.replace('-top-3 -right-3', '-top-3 -right-3 -left-3'), /ímã à esquerda/],
+    [section.replace('-top-3 -right-3 bg-marinho', '-top-3 -right-3 bg-marinho bg-amarelo-cupom'), /ímã amarelo/],
+    [section.replace('motion-safe:group-hover/cupom:shadow-[4px_4px_0_var(--color-marinho)]', ''), /sem a sombra do hover/],
+    [section.replace('group/cupom relative flex min-w-0 flex-1', 'group/cupom relative flex flex-1'), /o meio sem min-w-0/],
+    [section.replace('motion-safe:hover:-translate-y-1', 'hover:-translate-y-1'), /o meio sem motion-safe:hover:-translate-y-1/],
+    [section.replace('pointer-events-none absolute z-10 size-10', 'absolute z-10 size-10'), /o ímã sem pointer-events-none/],
+  ];
+  for (const [mutated, message] of mutations) {
+    assert.notEqual(mutated, section, `controle: a mutação não achou o trecho (${message})`);
+    assert.throws(() => assertCouponShelf('/cupons', mutated, category.coupons), message);
+  }
+}
+
+let couponMotionPages = 0;
+let storeCutouts = 0;
+let referralPages = 0;
+let othersRows = 0;
+let othersSample = '';
+assert.ok(couponStorePages.length > 0, 'páginas de loja: nenhuma loja de couponsData para conferir');
+for (const { pagePath, store } of couponStorePages) {
+  assert.ok(store, `${pagePath}: sem a loja em couponsData`);
+  const body = builtBody(pagePath);
+  // Os "Outros cupons" só existem em português (CouponStorePage).
+  const others = pagePath.startsWith('/cupons/') ? getOtherActiveCoupons(store.slug) : [];
+  const copyable = hasCopyCode(store);
+  const expected = {
+    total: Number(copyable) + Number(Boolean(store.referral)) + others.filter(hasCopyCode).length,
+    withScissors: Number(copyable),
+  };
+  assertStoreCutout(pagePath, body, copyable);
+  assertStoreArrival(pagePath, body);
+  assertCopyCutouts(pagePath, body, expected);
+  if (store.referral) {
+    const referral = between(body, 'aria-labelledby="indicacao"', ['</section>']);
+    assert.equal(elementsWithClass(referral, 'recorte').length, 1, `${pagePath}: a caixa do código de indicação sem o .recorte`);
+    referralPages++;
+  }
+  if (others.length > 0) {
+    const othersSection = between(body, 'aria-labelledby="outros-cupons"', ['</section>']);
+    assert.equal(
+      elementsWithClass(othersSection, 'recorte').length,
+      others.filter(hasCopyCode).length,
+      `${pagePath}: as caixas de código dos "Outros cupons" sem o .recorte`
+    );
+    assertCouponShelf(`${pagePath}, Outros cupons`, othersSection, others);
+    assertOthersRow(`${pagePath}, Outros cupons`, othersSection);
+    othersSample ||= othersSection;
+    othersRows++;
+  }
+  assert.ok(!body.includes('data-reveal'), `${pagePath}: data-reveal no HTML`);
+  storeCutouts += expected.total;
+  couponMotionPages++;
+}
+
+let yesStyleWithoutPromos = false;
+assert.ok(yesStyleHubs.length > 0, 'páginas de loja: nenhuma página da YesStyle para conferir');
+for (const { locale, hubPath } of yesStyleHubs) {
+  const resolved = resolveYesStylePage(locale);
+  assert.ok(resolved, `${hubPath}: sem os dados da YesStyle`);
+  const body = builtBody(hubPath);
+  const promos = resolved.activePromoOffers.length;
+  assertStoreCutout(hubPath, body, true);
+  assertStoreArrival(hubPath, body);
+  assertCopyCutouts(hubPath, body, { total: 1 + promos, withScissors: 1 });
+  const list = between(body, 'aria-labelledby="cupons-da-loja"', ['</section>']);
+  assert.equal(elementsWithClass(list, 'recorte').length, promos, `${hubPath}: os cupons da lista sem o .recorte`);
+  yesStyleWithoutPromos ||= promos === 0;
+  storeCutouts += 1 + promos;
+  couponMotionPages++;
+}
+assert.ok(storeCutouts > 0, 'páginas de loja: nenhum recorte com código nos dados');
+assert.ok(referralPages > 0, 'páginas de loja: nenhuma caixa de código de indicação conferida');
+assert.ok(othersRows > 0, 'páginas de loja: nenhuma fila de "Outros cupons" conferida');
+// Controles na fila dos "Outros cupons": o item que perde a largura ou o não encolher derruba a trava.
+const othersRowMutations: [string, RegExp][] = [
+  [othersSample.replace('revela flex w-[200px] ', 'revela flex '), /o item sem w-\[200px\]/],
+  [othersSample.replace('revela flex w-[200px] shrink-0 ', 'revela flex w-[200px] '), /o item sem shrink-0/],
+];
+for (const [mutated, message] of othersRowMutations) {
+  assert.notEqual(mutated, othersSample, `controle: a mutação não achou o trecho (${message})`);
+  assert.throws(() => assertOthersRow('Outros cupons', mutated), message);
+}
+if (yesStyleWithoutPromos) {
+  console.log('ℹ️ YesStyle sem cupons da loja ativos: a trava dos cupons da lista não teve o que conferir.');
+}
+// Controles: derrubam a trava o recorte do topo que perde o .recorte numa loja com código ou o ganha numa
+// loja sem código, a tesoura que perde a classe, a que corre numa loja sem código e a que ganha o fundo de
+// papel do hub.
+{
+  const sample = (copyable: boolean) => {
+    const page = couponStorePages.find(({ store }) => store && hasCopyCode(store) === copyable);
+    assert.ok(page, `controle: sem página de loja ${copyable ? 'com' : 'sem'} código; troque o controle`);
+    return { pagePath: page.pagePath, body: builtBody(page.pagePath) };
+  };
+  const withCode = sample(true);
+  const withoutCode = sample(false);
+  const mutations: [string, string, boolean, RegExp][] = [
+    [withCode.pagePath, withCode.body.replace(/(<section id="cupom"[^>]*\sclass="[^"]*?) recorte(?=[ "])/, '$1'), true, /sem o \.recorte/],
+    [withCode.pagePath, withCode.body.replace(/ recorte-tesoura(?=[ "])/, ''), true, /tesoura do recorte do topo parada/],
+    [withoutCode.pagePath, withoutCode.body.replace(/(<section id="cupom"[^>]*\sclass=")/, '$1recorte '), false, /com o \.recorte/],
+    [withCode.pagePath, withCode.body.replace(/(<section id="cupom"[\s\S]*? recorte-tesoura)(?=[ "])/, '$1 recorte-tesoura-papel'), true, /com o fundo de papel/],
+    [withoutCode.pagePath, withoutCode.body.replace(/(<section id="cupom"[\s\S]*?bg-amarelo-cupom)(?=[ "])/, '$1 recorte-tesoura'), false, /corre sem botão de copiar/],
+  ];
+  for (const [pagePath, mutated, copyable, message] of mutations) {
+    const original = copyable ? withCode.body : withoutCode.body;
+    assert.notEqual(mutated, original, `controle: a mutação não achou o trecho (${message})`);
+    assert.throws(() => assertStoreCutout(pagePath, mutated, copyable), message);
+  }
+  // A chegada: derrubam a trava a etiqueta que some, a que perde o block, a que sai do h1 e o recorte do
+  // topo sem o .recorte-entra; no hub, o atraso ou a escala trocados e a etiqueta que sai dos Destaques.
+  const arrivalMutations: [string, RegExp][] = [
+    [withCode.body.replace('etiqueta-entra ', ''), /0 números com a etiqueta/],
+    [withCode.body.replace('etiqueta-entra block', 'etiqueta-entra'), /a etiqueta sem o block/],
+    [
+      withCode.body.replace('etiqueta-entra block', 'block').replace(/(<section id="cupom"[^>]*\sclass=")/, '$1etiqueta-entra block '),
+      /a etiqueta fora do h1/,
+    ],
+    [withCode.body.replace(' recorte-entra', ''), /sem o \.recorte-entra/],
+  ];
+  for (const [mutated, message] of arrivalMutations) {
+    assert.notEqual(mutated, withCode.body, `controle: a mutação não achou o trecho (${message})`);
+    assert.throws(() => assertStoreArrival(withCode.pagePath, mutated), message);
+  }
+  const stampMutations: [string, RegExp][] = [
+    [couponsHubBody.replace('--etiqueta-atraso:150ms', '--etiqueta-atraso:450ms'), /atraso da etiqueta do Destaque 1/],
+    [couponsHubBody.replace('--etiqueta-escala:1.05', '--etiqueta-escala:1.12'), /escala e o atraso da etiqueta do Destaque 1/],
+    [couponsHubBody.replace('--etiqueta-rotacao:-3deg;', ''), /escala e o atraso da etiqueta do Destaque 1/],
+    [couponsHubBody.replace(/(class="[^"]*\srecorte)(\s)/, '$1 recorte-entra$2'), /recorte com \.recorte-entra no hub/],
+    [
+      couponsHubBody
+        .replace('etiqueta-entra relative z-10', 'relative z-10')
+        .replace(/(aria-labelledby="prateleira-[^"]*"[^>]*>)/, '$1<span class="etiqueta-entra"></span>'),
+      /etiqueta fora dos Destaques/,
+    ],
+  ];
+  for (const [mutated, message] of stampMutations) {
+    assert.notEqual(mutated, couponsHubBody, `controle: a mutação não achou o trecho (${message})`);
+    assert.throws(() => assertHubStamps(mutated, hubSections.featured.length), message);
+  }
+}
+
 // /categorias ficou sem link no site, saiu do sitemap e do Google, mas segue no ar (decisão do Bruno, 08/10).
 assert.ok(!sitemapUrls.includes(`${SITE_URL}/categorias`), 'sitemap.xml com /categorias');
 const categoriasFile = builtFile(`${SITE_URL}/categorias`);
@@ -704,6 +1660,13 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
   );
   // O pulso do grupo de WhatsApp acontece uma vez (WCAG 2.2.2), e só com o movimento liberado.
   check(/\bmotion-safe:animate-\[pulse-subtle_[^\]\s]*_1\]/.test(whatsappTag), 'painel da Cecília: o pulso do WhatsApp sem parar depois de uma vez');
+
+  // As bolinhas da faixa (a da Cecília e uma por loja) estão sempre na primeira tela: carregam já, sem competir
+  // com a imagem do story, que é a de fetchpriority alto. Menos de 2 imagens é a faixa que o extrator não achou.
+  const stripImages = between(body, 'role="tablist"', ['</div>']).match(/<img\b[^>]*>/g) ?? [];
+  check(stripImages.length >= 2, `faixa das bolinhas: ${stripImages.length} imagens, esperava a da Cecília e a das lojas`);
+  check(stripImages.every((image) => /\sloading="eager"/.test(image)), 'faixa das bolinhas: imagem sem loading="eager"');
+  check(stripImages.every((image) => !/\sfetchpriority=/i.test(image)), 'faixa das bolinhas: imagem com fetchpriority, que é do story');
 
   // Um painel por loja ativa, inteiro: título, código com a dica e o rótulo exato do botão de copiar,
   // oferta, os dois links e a lista de artigos (ou o aviso de loja sem artigo).
@@ -869,8 +1832,18 @@ const swapLinks = (first: RegExpMatchArray, second: RegExpMatchArray) =>
 const doubleLink = (link: RegExpMatchArray) => replaceLink(link, `${link[0]}></a><a ${link[0]}`);
 const openPanel = (tab: HomeTab) => `id="painel-loja-${tab.slug}"`;
 
+// A faixa das bolinhas: do role="tablist" até o primeiro </div>, que a fecha (as bolinhas são só <button> e <span>).
+const stripAt = homeBody.indexOf('role="tablist"');
+const stripEnd = homeBody.indexOf('</div>', stripAt);
+const inStrip = (change: (strip: string) => string) => homeBody.slice(0, stripAt) + change(homeBody.slice(stripAt, stripEnd)) + homeBody.slice(stripEnd);
+
 // O guarda acima recusa a home errada: cada mutação abaixo precisa achar o trecho e dar problema.
 const brokenHomes = [
+  // A primeira e a última imagem da faixa em lazy, com fetchpriority, e a faixa que o extrator não acha.
+  inStrip((strip) => strip.replace('loading="eager"', 'loading="lazy"')),
+  inStrip((strip) => strip.slice(0, strip.lastIndexOf('loading="eager"')) + 'loading="lazy"' + strip.slice(strip.lastIndexOf('loading="eager"') + 'loading="eager"'.length)),
+  inStrip((strip) => strip.replace('<img ', '<img fetchpriority="high" ')),
+  homeBody.replace('role="tablist"', 'role="outra"'),
   ...forStore('yesstyle', [homeBody.replace('>Código de recompensa YesStyle<', '>Cupom YesStyle<')]),
   homeBody.replace(WHATSAPP_LINK, (tag) => tag.replace(' target="_blank"', '').replace(' rel="noopener noreferrer"', '')),
   homeBody.split(hrefOf(homeExpected.latest[0].href)).join('href="/outra"'),
@@ -959,41 +1932,114 @@ for (const { html, expected } of wrongExpectations) {
   assert.ok(homeProblems(html, expected).length > 0, 'o guarda da home deixou passar uma home errada');
 }
 
-// Os cards de Guias & Análises (ReviewHubCard) de /reviews e das subpáginas de loja: o h2 só para
-// leitor de tela entre o h1 e os h3 dos cards, e o anel de foco da casa em cada link de card. Os
-// cards são os links de artigo da grade, do h2 até o fim da <section> dele: um link de artigo fora
-// dela (destaque, rodapé) não é card. Devolve as tags dos links de card.
-function assertHubCards(where: string, body: string, heading: string) {
-  const grid = between(body, `<h2 class="sr-only">${heading}</h2>`, ['</section>']);
-  assert.ok(grid, `${where}: sem o h2 "${heading}" entre o h1 e os h3 dos cards`);
-  const tags = [...grid.matchAll(/<a\b[^>]*\bhref="\/reviews\/[^"/]+"[^>]*>/g)].map(([tag]) => tag);
-  assert.ok(tags.length > 0, `${where}: sem links de card`);
-  for (const tag of tags) {
-    assert.match(tag, /\bclass="[^"]* focus-visible:outline-marinho[ "]/, `${where}: card sem o anel de foco da casa: ${tag}`);
+// Os slugs dos links de artigo e de subpágina de loja de um trecho do HTML, na ordem.
+const articleLinksIn = (html: string) =>
+  [...html.matchAll(/<a\b[^>]*\bhref="\/reviews\/([^"/?#]+)"/g)].map(([, slug]) => slug);
+const storeLinksIn = (html: string) =>
+  [...html.matchAll(/<a\b[^>]*\bhref="\/reviews\/loja\/([^"/?#]+)"/g)].map(([, slug]) => slug);
+
+// A estante (ReviewsBrowser) no HTML do servidor: os 12 primeiros artigos na ordem "Mais novos", cada
+// link com o anel de foco da casa, nenhum nome de transição (a foto só o ganha no clique: no HTML, o
+// review-hero- fica só no data-vt-name) e a busca com rótulo só quando a página tem busca.
+function assertShelfPage(
+  where: string,
+  body: string,
+  expected: { articles: readonly { slug: string }[]; searchLabel: string | null }
+) {
+  const list = between(body, '<ul data-estante="grade"', ['</ul>']);
+  assert.ok(list, `${where}: sem a estante`);
+  assert.deepEqual(
+    articleLinksIn(list),
+    expected.articles.slice(0, GRID_PAGE_SIZE).map(({ slug }) => slug),
+    `${where}: os ${GRID_PAGE_SIZE} primeiros artigos, do mais novo`
+  );
+  for (const [tag] of list.matchAll(/<a\b[^>]*\bhref="\/reviews\/[^"/]+"[^>]*>/g)) {
+    assert.match(tag, /\bclass="[^"]* focus-visible:outline-marinho[ "]/, `${where}: cartão sem o anel de foco da casa: ${tag}`);
   }
-  return tags;
+  assert.ok(!body.includes('view-transition-name'), `${where}: nome de transição no HTML`);
+  const heroNames = body.match(/data-vt-name="review-hero-/g)?.length ?? 0;
+  assert.ok(heroNames > 0, `${where}: nenhuma foto com o nome da transição (data-vt-name)`);
+  assert.equal(body.match(/review-hero-/g)?.length ?? 0, heroNames, `${where}: review-hero- fora do data-vt-name`);
+  const label = body.match(/<label for="busca-estante"[^>]*>([^<]*)<\/label>/)?.[1];
+  assert.equal(body.includes('role="search"'), expected.searchLabel !== null, `${where}: busca onde não devia, ou faltando`);
+  assert.equal(label === undefined ? null : decodeHtml(label), expected.searchLabel, `${where}: rótulo da busca`);
 }
 
+// Os nomes dos itens do CollectionPage da página (JSON-LD), na ordem.
+function assertCollectionNames(where: string, html: string, titles: readonly string[]) {
+  const collection = jsonLdOf(html).find((schema) => schema['@type'] === 'CollectionPage');
+  const names = collection?.mainEntity?.itemListElement?.map((item: { name: string }) => item.name);
+  assert.deepEqual(names, titles, `${where}: nomes dos itens do CollectionPage`);
+}
+
+// /reviews: o h1 (um só), a estante, as Novidades (uma por artigo com o selo "Novo"), as bolinhas das
+// lojas com subpágina e o JSON-LD de lista com a imagem de compartilhamento (assertListPageSeo, mais
+// abaixo no arquivo, é uma declaração de função e vale aqui).
+const reviewsHub = getReviewsHubContent(publishedReviews);
 const reviewsFile = builtFile(`${SITE_URL}/reviews`);
 assert.ok(reviewsFile, '/reviews: página não gerada no build');
-const reviewsBody = bodyOf(read(reviewsFile));
-assertHubCards('/reviews', reviewsBody, 'Lista de conteúdos');
+const reviewsHtml = read(reviewsFile);
+const reviewsBody = bodyOf(reviewsHtml);
+const reviewsH1s = [...reviewsBody.matchAll(/<h1\b[^>]*>([\s\S]*?)<\/h1>/g)].map(([, h1]) => textOf(h1));
+assert.equal(reviewsH1s.length, 1, `/reviews: ${reviewsH1s.length} h1`);
+assert.equal(reviewsH1s[0], 'Guias & Análises', '/reviews: h1');
+const reviewsShelf = { articles: reviewsHub.articles, searchLabel: 'Buscar nos guias e análises' };
+assertShelfPage('/reviews', reviewsBody, reviewsShelf);
+assertListPageSeo('/reviews', reviewsHtml, { items: reviewsHub.articles.length, image: reviewsHub.socialImage });
+const reviewsTitles = reviewsHub.articles.map(({ title }) => title);
+assertCollectionNames('/reviews', reviewsHtml, reviewsTitles);
+assert.deepEqual(
+  articleLinksIn(between(reviewsBody, 'id="titulo-novidades"', ['</section>'])),
+  reviewsHub.newArticles.map(({ slug }) => slug),
+  '/reviews: Novidades'
+);
+assert.deepEqual(
+  storeLinksIn(between(reviewsBody, 'id="titulo-por-loja"', ['</section>'])),
+  reviewsHub.stores.map(({ slug }) => slug),
+  '/reviews: bolinhas das lojas'
+);
+assert.ok(!reviewsHtml.includes('data-reveal'), '/reviews: data-reveal no HTML');
 
-// Só a grade conta. Um link de artigo sem o anel fora dela, antes do h2 ou depois do fim da <section>,
-// não é card e passa; dentro dela o guarda acusa, e sem o h2 ou com o h2 depois dos cards também.
+// Os guardas acusam cada defeito: sem a lista, ordem trocada, cartão sem o anel, nome de transição no
+// HTML, busca sobrando ou faltando e itens do CollectionPage em outra ordem.
 {
-  const heading = 'Lista de conteúdos';
-  const h2 = `<h2 class="sr-only">${heading}</h2>`;
-  const link = '<a href="/reviews/x">destaque</a>';
-  const gridEnd = reviewsBody.indexOf('</section>', reviewsBody.indexOf(h2)) + '</section>'.length;
-  assertHubCards('/reviews', link + reviewsBody, heading);
-  assertHubCards('/reviews', reviewsBody.slice(0, gridEnd) + link + reviewsBody.slice(gridEnd), heading);
-  assert.throws(() => assertHubCards('/reviews', reviewsBody.replace(h2, h2 + link), heading), /card sem o anel de foco/, 'link sem anel dentro da grade passa');
-  assert.throws(() => assertHubCards('/reviews', reviewsBody.replace(h2, ''), heading), /sem o h2/, 'grade sem o h2 passa');
-  assert.throws(() => assertHubCards('/reviews', reviewsBody.replace(h2, '') + h2, heading), /sem links de card/, 'h2 depois dos cards passa');
+  const withoutSearch = reviewsBody
+    .replaceAll('role="search"', 'data-x="search"')
+    .replace(/<label for="busca-estante"[^>]*>[^<]*<\/label>/, '');
+  assert.ok(
+    !withoutSearch.includes('role="search"') && !withoutSearch.includes('<label for="busca-estante"'),
+    '/reviews: o controle de busca faltando não tirou a busca do HTML'
+  );
+  const listStart = reviewsBody.indexOf('<ul data-estante="grade"');
+  const withoutRing =
+    reviewsBody.slice(0, listStart) + reviewsBody.slice(listStart).replace('focus-visible:outline-marinho', '');
+  assert.throws(() => assertShelfPage('/reviews', reviewsBody.replace('data-estante="grade"', 'data-x="grade"'), reviewsShelf), /sem a estante/);
+  assert.throws(
+    () => assertShelfPage('/reviews', reviewsBody, { ...reviewsShelf, articles: [...reviewsShelf.articles].reverse() }),
+    /primeiros artigos/
+  );
+  assert.throws(() => assertShelfPage('/reviews', withoutRing, reviewsShelf), /anel de foco/);
+  assert.throws(
+    () => assertShelfPage('/reviews', reviewsBody.replace('<ul data-estante="grade"', '<p style="view-transition-name:x"></p><ul data-estante="grade"'), reviewsShelf),
+    /nome de transição/
+  );
+  assert.throws(
+    () => assertShelfPage('/reviews', reviewsBody.replace('data-vt-name="review-hero-', 'data-x="review-hero-'), reviewsShelf),
+    /review-hero- fora do data-vt-name/
+  );
+  assert.throws(
+    () => assertShelfPage('/reviews', reviewsBody.replaceAll(/ data-vt-name="review-hero-[^"]*"/g, ''), reviewsShelf),
+    /nenhuma foto com o nome da transição/
+  );
+  assert.throws(() => assertShelfPage('/reviews', reviewsBody, { ...reviewsShelf, searchLabel: null }), /busca onde/);
+  assert.throws(() => assertShelfPage('/reviews', withoutSearch, reviewsShelf), /busca onde/);
+  assert.throws(
+    () => assertCollectionNames('/reviews', reviewsHtml, [...reviewsTitles].reverse()),
+    /nomes dos itens do CollectionPage/
+  );
 }
 
-// O <head> e o JSON-LD de uma página que lista artigos (subpágina de loja e página de data): a imagem
+// O <head> e o JSON-LD de uma página que lista artigos (/reviews, subpágina de loja e página de data): a imagem
 // de compartilhamento (assertShareImage), o idioma, um CollectionPage com um item por artigo e um
 // BreadcrumbList que termina na página.
 function assertListPageSeo(pagePath: string, html: string, expected: { items: number; image: SocialImage }) {
@@ -1085,30 +2131,141 @@ function assertSitemapLastmod(pagePath: string, articles: readonly { updatedAt?:
   assert.equal(sitemapEntry?.match(/<lastmod>([^<]+)<\/lastmod>/)?.[1], newestDate, `${pagePath}: lastmod no sitemap.xml`);
 }
 
-// Subpágina de cada loja com mais de 3 artigos: o h1, o canonical, um card por artigo (com o anel de
-// foco), o link da página da loja, o h2 só para leitor de tela, a imagem de compartilhamento da loja,
-// o JSON-LD e a data no sitemap.
+// A trilha visível de uma subpágina de loja, de /videos ou de uma página de vídeo (o <nav> com o rótulo da trilha dos artigos em português), item por
+// item: o nome, o endereço e o aria-current.
+const PAGE_TRAIL_LABEL = getArticleCopy('pt').breadcrumbLabel;
+function pageTrailOf(body: string) {
+  const nav = between(body, `<nav aria-label="${PAGE_TRAIL_LABEL}"`, ['</nav>']);
+  return [...nav.matchAll(/<li\b[^>]*>([\s\S]*?)<\/li>/g)].map(([, item]) => {
+    const href = item.match(/<a\b[^>]*\bhref="([^"]+)"/)?.[1];
+    return {
+      name: textOf(item).replace(/›$/, '').trim(),
+      href: href === undefined ? null : decodeHtml(href),
+      current: /<span\b[^>]*\baria-current="page"/.test(item),
+    };
+  });
+}
+
+// Os itens da trilha com o nome e o endereço da lista da página; o último é a própria página, um
+// <span aria-current="page"> sem link. O BreadcrumbList do JSON-LD tem os mesmos nomes e as mesmas URLs.
+function assertPageTrail(pagePath: string, html: string, trail: readonly { name: string; path: string }[]) {
+  const crumbs = pageTrailOf(bodyOf(html));
+  assert.deepEqual(
+    crumbs,
+    trail.map(({ name, path }, index) => {
+      const last = index === trail.length - 1;
+      return { name, href: last ? null : path, current: last };
+    }),
+    `${pagePath}: trilha visível`
+  );
+  assert.deepEqual(
+    schemaTrailOf(jsonLdOf(html).find((schema) => schema['@type'] === 'BreadcrumbList')),
+    crumbs.map(({ name, href }) => ({ name, url: new URL(href ?? pagePath, SITE_URL).href })),
+    `${pagePath}: trilha visível diferente do BreadcrumbList`
+  );
+}
+
+// O h2 da estante na subpágina fica só para o leitor de tela (o h1 já é o título).
+const STORE_SHELF_HEADING = 'Lista de artigos';
+const STORE_ALL_REVIEWS_LABEL = 'Ver todos os guias e análises';
+
+// Subpágina de cada loja com mais de 3 artigos: o h1 (um só), o canonical, a trilha visível (nome, endereço
+// e aria-current) igual ao BreadcrumbList, a estante (com o h2 só para leitor de tela, busca só acima de 12
+// artigos e só as categorias da loja), o link da página da loja, Outras lojas sem a loja da página, o link
+// para todos os guias, a imagem de compartilhamento, o JSON-LD e a data no sitemap.
 const storeArticleSlugs = getStoreArticlePageSlugs(publishedReviews);
 for (const slug of storeArticleSlugs) {
-  const pagePath = getStoreArticlesPath(slug);
-  const page = getStoreArticlesPage(publishedReviews, slug);
-  assert.ok(page, `${pagePath}: sem dados`);
+  const page = getStoreShelfContent(publishedReviews, slug);
+  const storeReviews = getStoreArticlesPage(publishedReviews, slug)?.articles;
+  assert.ok(page && storeReviews, `${slug}: sem dados da subpágina`);
+  const pagePath = page.path;
   const file = builtFile(`${SITE_URL}${pagePath}`);
   assert.ok(file, `${pagePath}: página não gerada no build`);
   const html = read(file);
   const body = bodyOf(html);
   assert.equal(headOf(html).match(/<link rel="canonical" href="([^"]+)"/)?.[1], `${SITE_URL}${pagePath}`, `${pagePath}: canonical`);
-  assert.equal(textOf(body.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1] ?? ''), page.title, `${pagePath}: h1`);
+  const h1s = [...body.matchAll(/<h1\b[^>]*>([\s\S]*?)<\/h1>/g)].map(([, h1]) => textOf(h1));
+  assert.equal(h1s.length, 1, `${pagePath}: ${h1s.length} h1`);
+  assert.equal(h1s[0], page.title, `${pagePath}: h1`);
   assert.ok(body.includes(hrefOf(page.storePageUrl)), `${pagePath}: sem o link de ${page.storePageUrl}`);
-  // Os cards são os links de artigo da grade (assertHubCards): o que está fora dela não conta.
-  const cardTags = assertHubCards(pagePath, body, 'Lista de artigos');
-  const cardSlugs = new Set(cardTags.map((tag) => tag.match(/href="\/reviews\/([^"/]+)"/)?.[1]));
-  assert.deepEqual([...cardSlugs].sort(), page.articles.map((article) => article.slug).sort(), `${pagePath}: um card por artigo da loja`);
-  assert.equal(cardTags.length, page.articles.length, `${pagePath}: um link por card`);
+  assert.ok(!html.includes('data-reveal'), `${pagePath}: data-reveal no HTML`);
+
+  assertPageTrail(pagePath, html, page.trail);
+
+  assertShelfPage(pagePath, body, { articles: page.articles, searchLabel: page.search?.label ?? null });
+  const shelfTitle = [...body.matchAll(/<h2\b([^>]*)>([\s\S]*?)<\/h2>/g)].find(([, attributes]) => /\bid="titulo-estante"/.test(attributes));
+  assert.ok(shelfTitle, `${pagePath}: sem o h2#titulo-estante`);
+  assert.match(shelfTitle[1], /\bclass="(?:[^"]*\s)?sr-only(?:\s[^"]*)?"/, `${pagePath}: h2 da estante visível, sem a classe sr-only`);
+  assert.equal(textOf(shelfTitle[2]), STORE_SHELF_HEADING, `${pagePath}: texto do h2 da estante`);
+  assert.equal(body.includes('data-categorias="true"'), page.categories.length > 1, `${pagePath}: categorias onde não devia, ou faltando`);
+  const chips = between(body, 'data-categorias="true"', ['</div>']);
+  assert.deepEqual(
+    [...chips.matchAll(/<button\b[^>]*aria-pressed="(?:true|false)"[^>]*>([^<]*)<\/button>/g)].map(([, label]) => decodeHtml(label)),
+    page.categories.length > 1 ? ['Todos', ...page.categories.map(({ label }) => label)] : [],
+    `${pagePath}: categorias da loja`
+  );
+  // Sem outras lojas, a seção nem é desenhada (ReviewsStoreStrip devolve null): o título tem de estar ausente.
+  if (page.otherStores.length === 0) {
+    assert.ok(!body.includes('id="titulo-outras-lojas"'), `${pagePath}: Outras lojas sem nenhuma outra loja`);
+  } else {
+    assert.deepEqual(
+      storeLinksIn(between(body, 'id="titulo-outras-lojas"', ['</section>'])),
+      page.otherStores.map((store) => store.slug),
+      `${pagePath}: Outras lojas`
+    );
+  }
+  const allReviewsLink = [...body.matchAll(/<a\b([^>]*)>([\s\S]*?)<\/a>/g)].find(
+    ([, attributes, content]) => /\bhref="\/reviews"/.test(attributes) && textOf(content) === STORE_ALL_REVIEWS_LABEL
+  );
+  assert.ok(allReviewsLink, `${pagePath}: sem o link "${STORE_ALL_REVIEWS_LABEL}" para /reviews`);
+
   const store = getCouponBySlug(slug);
   assert.ok(store, `${pagePath}: sem a loja ${slug} em couponsData`);
   assertListPageSeo(pagePath, html, { items: page.articles.length, image: getStoreSocialImage(store) });
-  assertSitemapLastmod(pagePath, page.articles);
+  assertCollectionNames(pagePath, html, page.articles.map(({ title }) => title));
+  assertSitemapLastmod(pagePath, storeReviews);
+}
+
+// Os guardas da trilha acusam cada defeito: o último item com outro nome, o endereço de um item trocado, o
+// último item sem o aria-current e um BreadcrumbList com outro nome ou outra URL.
+{
+  const [slug] = storeArticleSlugs;
+  const page = getStoreShelfContent(publishedReviews, slug);
+  const file = page && builtFile(`${SITE_URL}${page.path}`);
+  assert.ok(page && file, 'sem subpágina para o controle da trilha');
+  const html = read(file);
+  assertPageTrail(page.path, html, page.trail);
+
+  const navStart = html.indexOf(`<nav aria-label="${PAGE_TRAIL_LABEL}"`);
+  const navEnd = html.indexOf('</nav>', navStart);
+  assert.ok(navStart >= 0 && navEnd > navStart, 'sem a trilha para o controle da trilha');
+  const inNav = (edit: (nav: string) => string) => html.slice(0, navStart) + edit(html.slice(navStart, navEnd)) + html.slice(navEnd);
+  const inBreadcrumb = (edit: (items: Array<{ name: string; item: string }>) => void) =>
+    html.replace(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g, (script, json) => {
+      const schema = JSON.parse(json);
+      if (schema['@type'] !== 'BreadcrumbList') return script;
+      edit(schema.itemListElement);
+      return `<script type="application/ld+json">${JSON.stringify(schema)}</script>`;
+    });
+
+  const visibleDefects: Array<[string, string]> = [
+    [inNav((nav) => nav.replace(`>${escapeHtml(page.title)}<`, '>Outro título<')), 'o último item com outro nome passa'],
+    [inNav((nav) => nav.replace('href="/reviews"', 'href="/outra-pagina"')), 'o endereço trocado de "Guias & Análises" passa'],
+    [inNav((nav) => nav.replace(' aria-current="page"', '')), 'o último item sem aria-current passa'],
+  ];
+  for (const [mutated, why] of visibleDefects) {
+    assert.notEqual(mutated, html, `o controle da trilha não mudou nada: ${why}`);
+    assert.throws(() => assertPageTrail(page.path, mutated, page.trail), /: trilha visível(?! diferente do BreadcrumbList)/, why);
+  }
+
+  const schemaDefects: Array<[string, string]> = [
+    [inBreadcrumb((items) => void (items[1].name = 'Outro nome')), 'um nome trocado no BreadcrumbList passa'],
+    [inBreadcrumb((items) => void (items[1].item = `${SITE_URL}/outra-pagina`)), 'uma URL trocada no BreadcrumbList passa'],
+  ];
+  for (const [mutated, why] of schemaDefects) {
+    assert.notEqual(mutated, html, `o controle do BreadcrumbList não mudou nada: ${why}`);
+    assert.throws(() => assertPageTrail(page.path, mutated, page.trail), /: trilha visível diferente do BreadcrumbList/, why);
+  }
 }
 
 // Página de cada data com edição no home-events.json: o h1, o canonical, a imagem de compartilhamento,
@@ -1139,6 +2296,235 @@ for (const hubPath of eventHubPaths) {
   }
 }
 
+// /videos: um h1, o destaque, a grade com todos os vídeos na ordem e o anel de foco, os chips das lojas com 2
+// ou mais vídeos ("Todos" escolhido), a trilha igual ao BreadcrumbList, o JSON-LD de lista com a imagem, o
+// canal com o "Inscrever-se no canal" (quando a API respondeu no build) e nenhum nome de transição no HTML
+// (no HTML, o video-player- fica só no data-vt-name).
+const videoSources = { reviews: publishedReviews, recipes };
+const videosHub = getVideosHubContent(videoSources);
+const videoLinksIn = (html: string) => [...html.matchAll(/<a\b[^>]*\bhref="\/videos\/([^"/?#]+)"/g)].map(([, slug]) => slug);
+// Os videoId dos vídeos que têm página no site (só os do YouTube têm um): o canal e a home abrem a página
+// desses, nunca o YouTube.
+const videoIdsWithPage = new Set<string>(videoPages.flatMap((page) => (page.kind === 'youtube' ? [page.videoId] : [])));
+assert.ok(videoIdsWithPage.size > 0, 'video-pages.js sem nenhum vídeo do YouTube: a trava do canal e da home ficaria vazia');
+function assertNoYoutubeLinkForPage(where: string, section: string) {
+  for (const [, id] of section.matchAll(/<a\b[^>]*\bhref="https:\/\/www\.youtube\.com\/watch\?v=([^"&]+)"/g)) {
+    assert.ok(!videoIdsWithPage.has(id), `${where}: vídeo com página no site abrindo o YouTube: ${id}`);
+  }
+}
+const videosFile = builtFile(`${SITE_URL}/videos`);
+assert.ok(videosFile, '/videos: página não gerada no build');
+const videosHtml = read(videosFile);
+const videosBody = bodyOf(videosHtml);
+assert.deepEqual(
+  [...videosBody.matchAll(/<h1\b[^>]*>([\s\S]*?)<\/h1>/g)].map(([, h1]) => textOf(h1)),
+  ['Vídeos'],
+  '/videos: h1'
+);
+const featuredLinks = videoLinksIn(between(videosBody, 'aria-labelledby="titulo-destaque"', ['</section>']));
+assert.equal(
+  featuredLinks.filter((slug) => slug === videosHub.featured.slug).length,
+  2,
+  `/videos: o destaque tem de ter dois links para ${videosHub.featured.slug}, a miniatura e o título`
+);
+assert.deepEqual([...new Set(featuredLinks)], [videosHub.featured.slug], '/videos: destaque');
+const videosGrid = between(videosBody, '<ul data-estante="videos"', ['</ul>']);
+assert.deepEqual(videoLinksIn(videosGrid), videosHub.videos.map(({ slug }) => slug), '/videos: a grade, do mais novo');
+for (const [tag] of videosGrid.matchAll(/<a\b[^>]*>/g)) {
+  assert.match(tag, /\bclass="[^"]* focus-visible:outline-marinho[ "]/, `/videos: cartão sem o anel de foco da casa: ${tag}`);
+}
+const videoChips = [...between(videosBody, 'data-lojas="true"', ['</div>']).matchAll(/<button\b([^>]*)>([^<]*)<\/button>/g)];
+assert.deepEqual(
+  videoChips.map(([, , label]) => decodeHtml(label)),
+  ['Todos', ...videosHub.stores.map(({ name }) => name)],
+  '/videos: chips'
+);
+assert.deepEqual(
+  videoChips.map(([, attributes]) => attributes.includes('aria-pressed="true"')),
+  videoChips.map((_, index) => index === 0),
+  '/videos: só "Todos" escolhido no HTML'
+);
+assert.ok(!videosBody.includes('view-transition-name'), '/videos: nome de transição no HTML');
+const videoMorphNames = videosBody.match(/data-vt-name="video-player-/g)?.length ?? 0;
+assert.ok(videoMorphNames > 0, '/videos: nenhuma miniatura com o nome da transição (data-vt-name)');
+assert.equal(videosBody.match(/video-player-/g)?.length ?? 0, videoMorphNames, '/videos: video-player- fora do data-vt-name');
+assertPageTrail('/videos', videosHtml, VIDEOS_TRAIL);
+assertListPageSeo('/videos', videosHtml, { items: videosHub.videos.length, image: videosHub.socialImage });
+assertCollectionNames('/videos', videosHtml, videosHub.videos.map(({ title }) => title));
+// O canal some, com razão, quando a API do YouTube falha ou a chave falta na hora do build; cobrar a seção
+// derrubaria um deploy por um soluço externo. Por isso estas travas só valem com a seção no HTML: um bug que
+// a tire com a API respondendo não é pego aqui, e só aparece como "canal: ausente" na linha final do log.
+const videosChannel = between(videosBody, 'aria-labelledby="titulo-canal"', ['</section>']);
+if (videosChannel) {
+  assertNoYoutubeLinkForPage('/videos', videosChannel);
+  // O React escreve o target antes do href: o link é achado pelo endereço, e os atributos conferidos à parte.
+  const subscribeLink = [...videosChannel.matchAll(/<a\b([^>]*)>([\s\S]*?)<\/a>/g)].find(([, attributes]) =>
+    attributes.includes(hrefOf(YOUTUBE_SUBSCRIBE_URL))
+  );
+  assert.ok(subscribeLink, '/videos: canal sem o "Inscrever-se no canal"');
+  assert.ok(subscribeLink[1].includes('target="_blank"'), '/videos: "Inscrever-se no canal" sem aba nova');
+  assert.equal(textOf(subscribeLink[2]), 'Inscrever-se no canal', '/videos: texto do "Inscrever-se no canal"');
+}
+
+// As páginas de vídeo (docs/GUIA-EDITORIAL-VIDEOS.md, seção 6): um h1, igual ao name do VideoObject; o player
+// logo depois do h1 (nenhum <iframe>, <video>, imagem ou fila entre os dois), no formato do aspect e com o
+// nome da transição da miniatura; um player só; o link da origem; o botão da loja e a duração só quando
+// existem; "Mais vídeos" sem o vídeo aberto; a trilha igual ao BreadcrumbList; o JSON-LD sem "<" cru.
+function assertVideoWatchPage(pagePath: string, html: string, content: VideoPageContent) {
+  const body = bodyOf(html);
+  const { video } = content;
+  const article = between(body, '<article', ['</article>']);
+  const videoObject = jsonLdOf(html).find((schema) => schema['@type'] === 'VideoObject');
+  assert.equal(videoObject?.name, video.title, `${pagePath}: name do VideoObject`);
+  assert.deepEqual(
+    [...body.matchAll(/<h1\b[^>]*>([\s\S]*?)<\/h1>/g)].map(([, h1]) => textOf(h1)),
+    [videoObject?.name],
+    `${pagePath}: h1 diferente do name do VideoObject`
+  );
+  const afterH1 = body.slice(body.indexOf('</h1>'));
+  const playerAt = afterH1.indexOf('data-player="');
+  assert.ok(playerAt > 0, `${pagePath}: sem o player`);
+  assert.doesNotMatch(afterH1.slice(0, playerAt), /<(?:iframe|video|img|ul)\b/, `${pagePath}: algo entre o h1 e o player`);
+  const frame = afterH1.slice(playerAt).match(/^data-player="[^"]+"[^>]*>/)?.[0] ?? '';
+  assert.ok(frame.startsWith(`data-player="${video.aspect}"`), `${pagePath}: player fora do formato ${video.aspect}`);
+  // O nome vai até o `;` ou o `"` que fecha o style: um sufixo (video-player-<slug>-extra) não passa.
+  assert.equal(frame.match(/view-transition-name:([^;"]+)/)?.[1], videoMorphName(video.slug), `${pagePath}: player sem o nome da transição`);
+  assert.equal(body.match(/<(?:iframe|video)\b/g)?.length ?? 0, 1, `${pagePath}: mais de um player`);
+  assert.ok(article.includes(`href="${video.source.href}"`), `${pagePath}: sem o link da origem`);
+  const articleText = textOf(article);
+  if (video.codeLink) {
+    assert.ok(articleText.includes(video.codeLink.label), `${pagePath}: botão da loja onde não devia, ou faltando`);
+    assert.ok(article.includes(`href="${video.codeLink.href}"`), `${pagePath}: botão sem a página de cupom`);
+  } else {
+    assert.ok(!articleText.includes('Ver o código'), `${pagePath}: botão da loja onde não devia, ou faltando`);
+  }
+  assert.equal(articleText.includes('Duração:'), video.duration !== null, `${pagePath}: duração onde não devia, ou faltando`);
+  // Texto quebrado na tela e nos valores de alt, aria-label, title e meta (os atributos, não o HTML cru: um id
+  // do YouTube ou um endereço pode ter essas letras). Na tela vale a palavra solta ou colada ("NaNmin",
+  // "R$undefined": o `${x}min` que falha sai assim); só nos atributos exige-se a palavra inteira, porque um id
+  // ou um endereço pode ter essas letras por acaso.
+  assert.doesNotMatch(decodeHtml(article.replace(/<[^>]+>/g, ' ')), /undefined|NaN/, `${pagePath}: texto quebrado`);
+  const BROKEN_WORD = /\bundefined\b|\bNaN\b/;
+  const articleAttributes = [...article.matchAll(/\s(?:alt|aria-label|title)="([^"]*)"/g)].map(([, value]) => decodeHtml(value));
+  const metaContents = [...headOf(html).matchAll(/<meta\b[^>]*\bcontent="([^"]*)"/g)].map(([, value]) => decodeHtml(value));
+  assert.ok(articleAttributes.length > 0 && metaContents.length > 0, `${pagePath}: sem atributos de texto nem meta para conferir`);
+  for (const value of [...articleAttributes, ...metaContents]) {
+    assert.doesNotMatch(value, BROKEN_WORD, `${pagePath}: texto quebrado num atributo: ${value}`);
+  }
+  assert.deepEqual(
+    videoLinksIn(between(body, 'aria-labelledby="titulo-mais-videos"', ['</section>'])),
+    content.more.videos.map(({ slug }) => slug),
+    `${pagePath}: Mais vídeos`
+  );
+  for (const [, json] of html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)) {
+    assert.ok(!json.includes('<'), `${pagePath}: JSON-LD com "<" cru`);
+  }
+  assertPageTrail(pagePath, html, content.trail);
+}
+
+const videoWatchPages = videoPages.map((page) => {
+  const pagePath = `/videos/${page.slug}`;
+  const content = getVideoPageContent(videoSources, page.slug);
+  assert.ok(content, `${pagePath}: sem conteúdo`);
+  const file = builtFile(`${SITE_URL}${pagePath}`);
+  assert.ok(file, `${pagePath}: página não gerada no build`);
+  const html = read(file);
+  assertVideoWatchPage(pagePath, html, content);
+  return { pagePath, html, content };
+});
+
+// Controles numa página com loja: cada defeito derruba a trava com a mensagem dele.
+{
+  const sample = videoWatchPages.find(({ content }) => content.video.codeLink);
+  assert.ok(sample, 'controle: há página de vídeo com loja');
+  const { pagePath, html, content } = sample;
+  const otherAspect = content.video.aspect === 'horizontal' ? 'vertical' : 'horizontal';
+  const label = content.video.codeLink?.label ?? '';
+  const morphName = videoMorphName(content.video.slug);
+  const failures: Array<[string, RegExp]> = [
+    [html.replace('</h1>', '</h1><ul></ul>'), /algo entre o h1 e o player/],
+    [html.replace(`data-player="${content.video.aspect}"`, `data-player="${otherAspect}"`), /player fora do formato/],
+    [html.replace(/<h1\b([^>]*)>/, '<h1$1>Outro título '), /h1 diferente do name do VideoObject/],
+    [html.replace('</article>', '<iframe></iframe></article>'), /mais de um player/],
+    [html.split(escapeHtml(label)).join('Outro texto'), /botão da loja onde não devia, ou faltando/],
+    // Só o nome da loja errado: o "Ver o código" continua na página, e o rótulo inteiro não.
+    [html.split(escapeHtml(label)).join('Ver o código da OUTRA'), /botão da loja onde não devia, ou faltando/],
+    [html.replace(`view-transition-name:${morphName}`, `view-transition-name:${morphName}-extra`), /player sem o nome da transição/],
+    [html.replace('Sobre este vídeo</h2>', 'Sobre este vídeo</h2><p>undefined</p>'), /texto quebrado/],
+    // Colado ao resto do texto, como sai de um `${x}min`: na tela o \b não pode deixar passar. A expressão
+    // termina em "quebrado" para pegar a mensagem da tela, não a dos atributos (": texto quebrado num atributo").
+    [html.replace('Sobre este vídeo</h2>', 'Sobre este vídeo</h2><p>NaNmin</p>'), /: texto quebrado$/],
+    [html.replace('aria-label="Player do vídeo:', 'aria-label="undefined Player do vídeo:'), /texto quebrado num atributo/],
+    [html.replace('<meta name="description" content="', '<meta name="description" content="NaN '), /texto quebrado num atributo/],
+    [html.replace('aria-labelledby="titulo-mais-videos"', 'aria-labelledby="titulo-outro"'), /Mais vídeos/],
+  ];
+  for (const [mutated, message] of failures) {
+    assert.notEqual(mutated, html, `controle: a mutação não achou o trecho (${message})`);
+    assert.throws(() => assertVideoWatchPage(pagePath, mutated, content), message);
+  }
+}
+
+// Os Últimos vídeos da home (quando a API do YouTube respondeu no build): o "Ver todos os vídeos"; o vídeo com
+// página no site abre a página na mesma aba, e o do YouTube numa aba nova, com rel="noopener noreferrer", e
+// nunca é o de um vídeo que tem página. Todo cartão da fila é de um dos dois tipos, para os dois laços não
+// passarem vazios quando os 6 uploads são de um tipo só.
+function assertHomeVideoLinks(section: string) {
+  assert.match(section, /<a\b[^>]*href="\/videos"[^>]*>Ver todos os vídeos<\/a>/, 'home: sem o "Ver todos os vídeos"');
+  const row = between(section, '<ul class="hide-scrollbar', ['</ul>']);
+  const cardCount = row.match(/<li[\s>]/g)?.length ?? 0;
+  const links = [...row.matchAll(/<a\b[^>]*>/g)].map(([tag]) => tag);
+  assert.ok(cardCount > 0, 'home: Últimos vídeos sem a fila de cartões');
+  assert.equal(links.length, cardCount, 'home: cartão de vídeo sem link, ou com mais de um');
+  for (const tag of links) {
+    if (/\bhref="\/videos\/[^"]+"/.test(tag)) {
+      assert.ok(!tag.includes('target="_blank"'), `home: vídeo com página abrindo em aba nova: ${tag}`);
+    } else {
+      assert.match(tag, /\bhref="https:\/\/www\.youtube\.com\/watch\?v=[^"]+"/, `home: vídeo sem a página nem o link do YouTube: ${tag}`);
+      assert.ok(tag.includes('target="_blank"'), `home: vídeo do YouTube sem aba nova: ${tag}`);
+      assert.ok(tag.includes('rel="noopener noreferrer"'), `home: vídeo do YouTube sem rel="noopener noreferrer": ${tag}`);
+    }
+  }
+  assertNoYoutubeLinkForPage('home', row);
+}
+// Como o canal de /videos, a fila da home some, com razão, quando a API do YouTube falha ou a chave falta na
+// hora do build, e cobrá-la derrubaria um deploy por um soluço externo. Estas travas só valem com a seção no
+// HTML: um bug que a tire com a API respondendo não é pego aqui, e só aparece como "vídeos: ausentes" na
+// linha final do log.
+const homeVideos = between(homeBody, 'aria-labelledby="titulo-ultimos-videos"', ['aria-labelledby="titulo-', '<footer']);
+if (homeVideos) assertHomeVideoLinks(homeVideos);
+
+// O guarda acusa cada defeito, também com os dois tipos de cartão que o HTML de hoje pode não ter.
+{
+  const youtubeCard = '<li><a target="_blank" rel="noopener noreferrer" class="x" href="https://www.youtube.com/watch?v=abc">T</a></li>';
+  const pageCard = '<li><a class="x" href="/videos/um-video">T</a></li>';
+  const section = (...cards: string[]) =>
+    `<ul class="hide-scrollbar x">${cards.join('')}</ul><a class="y" href="/videos">Ver todos os vídeos</a>`;
+  const good = section(youtubeCard, pageCard);
+  assertHomeVideoLinks(good);
+  // Um id real de video-pages.js no lugar do `abc`: o cartão abriria o YouTube em vez da página do site.
+  const [pageVideoId] = videoIdsWithPage;
+  const cardWithPage = youtubeCard.replace('abc', () => pageVideoId);
+  const failures: Array<[string, RegExp]> = [
+    [section(youtubeCard, pageCard.replace('<a ', '<a target="_blank" ')), /vídeo com página abrindo em aba nova/],
+    [section(youtubeCard.replace(' target="_blank"', ''), pageCard), /vídeo do YouTube sem aba nova/],
+    [section(youtubeCard.replace(' rel="noopener noreferrer"', ''), pageCard), /vídeo do YouTube sem rel="noopener noreferrer"/],
+    [section(youtubeCard, '<li><a class="x" href="https://example.com/">T</a></li>'), /vídeo sem a página nem o link do YouTube/],
+    [section(youtubeCard, pageCard).replace('Ver todos os vídeos', 'Ver tudo'), /sem o "Ver todos os vídeos"/],
+    [section(), /sem a fila de cartões/],
+    [section(cardWithPage, pageCard), new RegExp(`home: vídeo com página no site abrindo o YouTube: ${pageVideoId}`)],
+  ];
+  for (const [mutated, message] of failures) {
+    assert.notEqual(mutated, good, `controle: a mutação não mudou nada (${message})`);
+    assert.throws(() => assertHomeVideoLinks(mutated), message);
+  }
+  // O mesmo guarda no canal de /videos, com o texto dele.
+  assertNoYoutubeLinkForPage('/videos', good);
+  assert.throws(
+    () => assertNoYoutubeLinkForPage('/videos', cardWithPage),
+    new RegExp(`/videos: vídeo com página no site abrindo o YouTube: ${pageVideoId}`)
+  );
+}
+
 // O feed do Dicas & Ofertas e a API do YouTube decidem na hora do build se ofertas e vídeos
 // aparecem; a linha final diz quantos cards cada um teve, para o log do build mostrar.
 const cardsIn = (section: string) => {
@@ -1148,5 +2534,5 @@ const cardsIn = (section: string) => {
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar e a interface de ${articleUrls.length} artigos, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja e ${eventHubPaths.length} páginas de data conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, a nota editorial de ${notedArticles}, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
 );

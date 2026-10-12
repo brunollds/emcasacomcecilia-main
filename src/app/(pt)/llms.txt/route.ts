@@ -3,6 +3,7 @@ import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { getActiveCoupons, getCouponBySlug } from '@/lib/couponsData';
 import { getCouponLanguageLinks, getTranslatedCouponRoutes } from '@/lib/couponTranslations';
 import { YESSTYLE_LOCALES } from '@/lib/i18n/clusters/yesstyle';
+import { LOCALE_HOME_LOCALES, getLocaleHomePath } from '@/lib/localeHome';
 import { videoPages } from '@/lib/video-pages';
 
 const BASE_URL = 'https://emcasacomcecilia.com';
@@ -64,6 +65,14 @@ function buildLlmsText(): string {
       )
     );
   });
+
+  const localeHomeLinks = LOCALE_HOME_LOCALES.map((locale) =>
+    formatLink(
+      `Home (${locale})`,
+      `${BASE_URL}${getLocaleHomePath(locale)}`,
+      'quem e a Cecilia, lojas parceiras e guias no idioma'
+    )
+  );
 
   const lines = [
     '# Em Casa com Cecilia',
@@ -128,6 +137,10 @@ function buildLlmsText(): string {
         `${coupon.discount}; ${coupon.offerMode === 'discount-code' ? 'codigo disponivel' : 'acesso pelo link indicado'}; verificado em ${coupon.lastVerified}`
       )
     ),
+    '',
+    '## Home em outros idiomas',
+    '',
+    ...localeHomeLinks,
     '',
     '## Paginas multilíngues de cupons',
     '',

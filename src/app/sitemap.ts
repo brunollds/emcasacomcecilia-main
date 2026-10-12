@@ -6,6 +6,7 @@ import { getActiveCoupons, getCouponBySlug } from '@/lib/couponsData';
 import { getCouponStorePath, getTranslatedCouponRoutes } from '@/lib/couponTranslations';
 import { getStoreArticlePageSlugs, getStoreArticlesPage, getStoreArticlesPath } from '@/lib/homeStores';
 import { getEventHubPage, getEventHubPaths } from '@/lib/homeEvents';
+import { LOCALE_HOME_LOCALES, getLocaleHomePath } from '@/lib/localeHome';
 import { YESSTYLE_LOCALES } from '@/lib/i18n/clusters/yesstyle';
 import { REVIEW_HUB_LOCALES, getReviewHubPath } from '@/lib/review-hubs';
 import { getLatestYesStyleVerifiedAtISO } from '@/lib/yesstyleCoupons';
@@ -132,8 +133,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     changeFrequency: 'weekly' as const,
   }));
 
+  // A home de cada idioma (/en, /ja…); a de português é a raiz, em staticRoutes.
+  const localeHomes: MetadataRoute.Sitemap = LOCALE_HOME_LOCALES.map((locale) => ({
+    url: `${BASE_URL}${getLocaleHomePath(locale)}`,
+    priority: 0.8,
+    changeFrequency: 'weekly' as const,
+  }));
+
   return [
     ...staticRoutes,
+    ...localeHomes,
     ...recipeRoutes,
     ...reviewRoutes,
     ...storeArticleRoutes,

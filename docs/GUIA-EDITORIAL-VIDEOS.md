@@ -41,6 +41,7 @@ Para qualquer vídeo principal, registrar:
 - URL do YouTube ou arquivo MP4 público;
 - artigo ou receita ao qual o vídeo pertence;
 - duração, quando conhecida;
+- formato: vertical (Short), deitado ou quadrado;
 - transcrição ou resumo fiel, quando houver fala relevante.
 
 Não usar banner da marca, imagem genérica do artigo ou logo como miniatura.
@@ -52,11 +53,38 @@ a URL do canal. O fluxo técnico é:
 
 1. publicar `youtubeUrl` pela Central/editor;
 2. registrar o ID e os metadados em `src/lib/video-metadata.js`;
-3. criar uma definição única em `src/lib/video-pages.js`;
+3. criar uma definição única em `src/lib/video-pages.js`, com o `aspect` (ver 3.1);
 4. confirmar que a página `/videos/[slug]` aponta de volta ao artigo correto;
 5. executar `npm run validate:video`.
 
-O build não consulta a API do YouTube. Dados ausentes fazem a validação falhar.
+A validação (`validate:video`) e as páginas de vídeo não consultam a API do YouTube: usam só os metadados
+locais, e dado ausente faz a validação falhar. A API entra no build apenas nos "Últimos do canal" de
+`/videos` e na home (`src/lib/youtube.ts`).
+
+### 3.1 O formato (`aspect`)
+
+Toda definição em `src/lib/video-pages.js` leva `aspect`, que o player da página e o destaque de
+`/videos` seguem:
+
+- `vertical`: Short do YouTube (9:16);
+- `horizontal`: vídeo comum do YouTube (16:9);
+- `square`: MP4 quadrado do site. Um MP4 vertical ou deitado usa `vertical` ou `horizontal`.
+
+A validação (`validate:video`) não consulta a rede, então o campo é editorial. Para conferir um vídeo
+do YouTube antes de publicar:
+
+```bash
+curl -s -o /dev/null -w "%{http_code}\n" https://www.youtube.com/shorts/<id>
+```
+
+`200` é Short (`vertical`); `303`, que redireciona para `/watch`, é vídeo comum (`horizontal`). Num MP4,
+confira largura e altura do arquivo:
+
+```bash
+ffprobe -v error -select_streams v:0 -show_entries stream=width,height -of csv=p=0 arquivo.mp4
+```
+
+O `validate:video` falha sem o campo ou com outro valor.
 
 ## 4. MP4 hospedado no site
 
@@ -98,6 +126,11 @@ A rota `/videos/[slug]` deve ter:
 - entrada `<video:video>` no sitemap.
 
 Não colocar carrossel, loop decorativo ou outro player antes do vídeo principal.
+
+No site, o player segue o `aspect` (vertical até `min(80svh, 720px)` de altura, deitado na largura do
+conteúdo, quadrado até 3xl) e vem logo depois do H1. Depois dele ficam o painel (Sobre este vídeo, a
+origem com o botão da loja e a faixa do canal) e "Mais vídeos". O `test:build-output` confere a ordem em
+todas as páginas.
 
 ## 7. Validação antes de publicar
 
@@ -142,3 +175,15 @@ Os metadados persistentes de vídeo ficam nos registros de código, não nos JSO
 geridos pela máquina de content-operations. O campo `youtubeUrl` pode seguir o
 fluxo editorial normal. Qualquer correção manual em `content/` deve respeitar a
 janela da Central e o `sourceHash`.
+
+## 10. Onde o vídeo aparece em /videos e na home
+
+- **Em `/videos`,** toda página de vídeo entra na grade, do mais novo ao mais antigo pelo `uploadDate`; o
+  mais novo também é o destaque do topo.
+- **Os chips** são as lojas ativas com 2 ou mais vídeos, pela loja (`affiliate`) do artigo de origem. O
+  vídeo de receita, de artigo sem loja ou de loja com um vídeo só aparece em "Todos".
+- **Na página do vídeo,** o botão "Ver o código da <loja>" (ou "do <loja>", conforme a loja:
+  `codeLinkLabel`) aparece quando o artigo de origem tem loja ativa, e "Mais vídeos" mostra primeiro os
+  da mesma loja, depois os mais novos.
+- **Na home e em "Últimos do canal",** entram os 6 uploads mais novos do canal (API do YouTube); o que já
+  tem página no site leva a ela.

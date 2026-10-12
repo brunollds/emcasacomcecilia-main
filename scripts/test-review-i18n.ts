@@ -2,10 +2,16 @@ import assert from 'node:assert/strict';
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
 
+import { createElement } from 'react';
+import { renderToStaticMarkup } from 'react-dom/server';
+
 import { detectDuplicateReviewPathnames, formatDate, getReviewDefaultTranslationPathname, groupReviewsByTranslationKey, detectDuplicateTranslationLocalePairs, getReviewTranslationsByLocale, isValidTranslationKey, resolveReviewLocale } from '@/lib/content';
-import { getArticleCopy } from '@/components/review/articleCopy';
+import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
+import { getArticleCopy, getReviewVideoLabels } from '@/components/review/articleCopy';
 import { getCouponCopyLabels } from '@/components/review/couponCopyLocale';
 import { getGalleryCopy } from '@/components/review/galleryCopy';
+import { ReviewHeroImage } from '@/components/review/ReviewHeroImage';
+import { ReviewSectionVideo } from '@/components/review/ReviewSectionVideo';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '@/components/review/sidebarCopy';
 import { getShareCopy } from '@/components/shared/shareCopy';
 import { getCouponBySlug } from '@/lib/couponsData';
@@ -469,6 +475,79 @@ const storeReferralLabel = (locale: Locale) =>
       `${locale}: texto da interface do artigo igual ao português (ou exceção que não vale mais)`
     );
   }
+
+  // O leitor de tela dá à trilha do artigo o mesmo nome da trilha das páginas de loja.
+  for (const locale of LOCALE_KEYS) {
+    assert.equal(
+      getArticleCopy(locale).breadcrumbLabel,
+      COUPON_STORE_COPY[locale].breadcrumbLabel,
+      `${locale}: nome da trilha do artigo diferente do das páginas de loja`
+    );
+  }
+
+  // O vídeo em loop do artigo, o do topo e o de uma seção, fala o idioma da página: o rótulo do botão, o nome do
+  // vídeo da seção (o reserva "Vídeo demonstrativo: …") e o texto para o navegador sem suporte. Nenhum artigo
+  // traduzido tem vídeo hoje, então o HTML gerado não prova isso. O servidor renderiza o vídeo parado, com o
+  // botão de reproduzir.
+  const loopVideo = { mp4: '/videos/teste.mp4', poster: '/images/teste.jpg' };
+  const PT_VIDEO_TEXTS = ['Reproduzir vídeo', 'Pausar vídeo', 'Vídeo demonstrativo', 'Seu navegador não suporta vídeos.'];
+  const renderVideos = (locale: Locale, alt?: string) => ({
+    hero: renderToStaticMarkup(createElement(ReviewHeroImage, { src: '/images/teste.jpg', alt: 'Alt', locale, video: loopVideo })),
+    section: renderToStaticMarkup(createElement(ReviewSectionVideo, { video: { ...loopVideo, alt }, title: 'Setup', locale })),
+  });
+  const english = renderVideos('en');
+  assert.ok(english.hero.includes('aria-label="Play video"'), 'en: vídeo do topo sem o botão em inglês');
+  assert.ok(english.hero.includes('Your browser does not support videos.'), 'en: vídeo do topo sem o aviso em inglês');
+  assert.ok(english.section.includes('aria-label="Play video"'), 'en: vídeo da seção sem o botão em inglês');
+  assert.ok(english.section.includes('aria-label="Demo video: Setup"'), 'en: vídeo da seção sem o nome em inglês');
+  assert.ok(english.section.includes('Your browser does not support videos.'), 'en: vídeo da seção sem o aviso em inglês');
+  assert.ok(renderVideos('en', 'Alt do vídeo').section.includes('aria-label="Alt do vídeo"'), 'en: o alt do vídeo tem de valer mais que o nome reserva');
+  for (const locale of LOCALE_KEYS) {
+    const copy = getArticleCopy(locale);
+    const { hero, section } = renderVideos(locale);
+    for (const [where, html] of [['topo', hero], ['seção', section]] as const) {
+      assert.ok(html.includes(`aria-label="${copy.videoPlay}"`), `${locale}: vídeo do ${where} sem o botão no idioma`);
+      assert.ok(html.includes(copy.videoUnsupported), `${locale}: vídeo do ${where} sem o aviso no idioma`);
+      if (locale !== 'pt') {
+        assert.deepEqual(PT_VIDEO_TEXTS.filter((text) => html.includes(text)), [], `${locale}: vídeo do ${where} com texto em português`);
+      }
+    }
+    assert.ok(section.includes(`aria-label="${copy.demoVideo('Setup')}"`), `${locale}: vídeo da seção sem o nome no idioma`);
+    assert.deepEqual(
+      getReviewVideoLabels(locale),
+      { pause: copy.videoPause, play: copy.videoPlay, unsupported: copy.videoUnsupported },
+      `${locale}: rótulos do vídeo ligados a outros campos do articleCopy`
+    );
+  }
+
+  // O que o render acima não alcança, lido do fonte: o servidor renderiza o vídeo parado, então o rótulo de pausar
+  // nunca sai no HTML, e o ReviewSectionContent não renderiza fora do Next (importa o ReviewInlineImage.js), então
+  // o locale que ele passa ao vídeo da seção também fica de fora.
+  const passesLocale = (source: string) => {
+    const videos = source.match(/<ReviewSectionVideo\b[\s\S]*?\/>/g) ?? [];
+    return videos.length > 0 && videos.every((video) => /\blocale=\{locale\}/.test(video));
+  };
+  const buttonLabelFollowsPlayback = (source: string) => /aria-label=\{\s*isPlaying\s*\?\s*labels\.pause\s*:\s*labels\.play\s*\}/.test(source);
+  assert.equal(passesLocale('<ReviewSectionVideo video={video} title="Setup" locale={locale} />'), true, 'passesLocale: o texto certo falha');
+  assert.equal(passesLocale('<ReviewSectionVideo video={video} title="Setup" locale="pt" />'), false, 'passesLocale: locale fixo em "pt" passa');
+  assert.equal(passesLocale('<ReviewSectionVideo video={video} title="Setup" />'), false, 'passesLocale: vídeo sem locale passa');
+  assert.equal(
+    passesLocale('<ReviewSectionVideo video={a} locale={locale} /> <ReviewSectionVideo video={b} title="Setup" />'),
+    false,
+    'passesLocale: um dos vídeos sem locale passa'
+  );
+  assert.equal(passesLocale('<p>sem vídeo</p>'), false, 'passesLocale: fonte sem nenhum vídeo passa');
+  assert.equal(buttonLabelFollowsPlayback('aria-label={isPlaying ? labels.pause : labels.play}'), true, 'buttonLabelFollowsPlayback: o texto certo falha');
+  assert.equal(buttonLabelFollowsPlayback('aria-label={ isPlaying  ?  labels.pause  :  labels.play }'), true, 'buttonLabelFollowsPlayback: espaços variáveis falham');
+  assert.equal(buttonLabelFollowsPlayback('aria-label={isPlaying ? labels.play : labels.pause}'), false, 'buttonLabelFollowsPlayback: rótulos trocados passam');
+  assert.equal(buttonLabelFollowsPlayback('aria-label={!isPlaying ? labels.pause : labels.play}'), false, 'buttonLabelFollowsPlayback: condição invertida passa');
+  assert.equal(buttonLabelFollowsPlayback('aria-label={labels.play}'), false, 'buttonLabelFollowsPlayback: botão sem o rótulo de pausar passa');
+  const reviewSource = (file: string) => fs.readFile(path.join(process.cwd(), 'src', 'components', 'review', file), 'utf8');
+  assert.ok(passesLocale(await reviewSource('ReviewSectionContent.tsx')), 'ReviewSectionContent.tsx: o ReviewSectionVideo sem o locale={locale} do artigo');
+  assert.ok(
+    buttonLabelFollowsPlayback(await reviewSource('ReviewLoopVideo.tsx')),
+    'ReviewLoopVideo.tsx: o aria-label do botão não é isPlaying ? labels.pause : labels.play'
+  );
 
   // A data do cabeçalho segue o idioma do artigo; antes os artigos EN saíam "2 de agosto de 2026".
   assert.equal(formatDate('2026-08-02'), '2 de agosto de 2026');

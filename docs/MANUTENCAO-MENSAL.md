@@ -57,8 +57,9 @@ depende do tipo:
 - expirar ou pausar campanhas encerradas antes de publicar a nova versão;
 - tirar o chip “novo” dos artigos do mês que acabou: só os artigos do mês corrente ficam com
   `"isNew": true`. Trocar só essa linha em cada JSON, sem reformatar, e rodar
-  `node scripts/content/build-index.mjs`. O `isNew` também põe o artigo no topo de `/reviews`;
-  conferir a lista depois de “carregar mais”. Traduções já saem com `isNew: false`.
+  `node scripts/content/build-index.mjs`. O `isNew` põe o artigo nas Novidades de `/reviews` e o
+  selo “novo” no cartão da grade (a linha do modo lista e as Novidades não têm o selo); a ordem da
+  lista não muda. Conferir as Novidades depois. Traduções já saem com `isNew: false`.
 
 ### Depois da publicação
 

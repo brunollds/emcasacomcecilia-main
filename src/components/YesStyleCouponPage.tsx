@@ -90,7 +90,7 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
       />
 
       <StoreBody>
-        <StoreCutout label={resolved.rewardCodeLabel} verified={ui.verifiedOn(resolved.formattedDate)}>
+        <StoreCutout label={resolved.rewardCodeLabel} verified={ui.verifiedOn(resolved.formattedDate)} copyable>
           <p className="text-center text-[13px] font-extrabold leading-[18px]">{resolved.rewardCodeLabel}</p>
           <CutoutCode code={resolved.rewardCode} />
           <p className="mt-0.5 text-center text-sm font-semibold leading-5 text-marinho-suave">{resolved.rewardFieldNote}</p>
@@ -117,7 +117,7 @@ export function YesStyleCouponPage({ locale }: { locale: string }) {
               // quebra em duas linhas. Entre 1024 e 1140px, com o recorte do lado, fica uma coluna só.
               <div className="mt-5 grid gap-3 @2xl:grid-cols-2">
                 {resolved.activePromoOffers.map((promo) => (
-                  <article key={promo.id} className="flex flex-col rounded-xl border-2 border-dashed border-marinho p-4">
+                  <article key={promo.id} className="recorte flex flex-col rounded-xl border-2 border-dashed border-marinho p-4">
                     <p className="font-condensada text-[40px] font-black leading-none font-stretch-extra-condensed">{promo.discountLabel}</p>
                     {promo.conditions.length > 0 && (
                       <ul className="mt-2 list-disc space-y-0.5 pl-[18px] text-sm font-semibold leading-5 text-pretty">

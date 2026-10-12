@@ -8,6 +8,7 @@ import type {
   StructuredIngredientItem,
   StructuredIngredientSection,
 } from './types';
+import { CECILIA_PERSON_ID } from '@/lib/ceciliaCredentials';
 import { LOCALES, type Locale } from '@/lib/i18n/locales';
 
 /**
@@ -235,11 +236,13 @@ export function generateSectionIds(
 
 interface SchemaPerson {
   '@type': 'Person';
+  '@id'?: string;
   name: string;
   url?: string;
 }
 
 const SITE_URL = 'https://emcasacomcecilia.com';
+const ABOUT_URL = `${SITE_URL}/sobre`;
 
 function toAbsoluteSiteUrl(url: string): string {
   if (/^https?:\/\//i.test(url)) return url;
@@ -250,6 +253,7 @@ function toAbsoluteSiteUrl(url: string): string {
 /**
  * Constrói o campo `author` de schema.org a partir de `authors` ou `author`.
  * Suporta múltiplos autores e fallback para Cecília Mauad /sobre.
+ * A Cecília (o padrão e todo autor cuja url é a /sobre) leva o @id dela, o mesmo da /sobre e das homes de idioma.
  * Não inventa dados quando os campos estão ausentes.
  */
 export function buildSchemaAuthors(
@@ -263,14 +267,18 @@ export function buildSchemaAuthors(
       : [];
 
   if (source.length === 0) {
-    return { '@type': 'Person', name: 'Cecília Mauad', url: `${SITE_URL}/sobre` };
+    return { '@type': 'Person', '@id': CECILIA_PERSON_ID, name: 'Cecília Mauad', url: ABOUT_URL };
   }
 
-  const people = source.map((person) => ({
-    '@type': 'Person' as const,
-    name: person.name,
-    ...(person.url ? { url: toAbsoluteSiteUrl(person.url) } : {}),
-  }));
+  const people = source.map((person): SchemaPerson => {
+    const url = person.url ? toAbsoluteSiteUrl(person.url) : undefined;
+    return {
+      '@type': 'Person',
+      ...(url === ABOUT_URL ? { '@id': CECILIA_PERSON_ID } : {}),
+      name: person.name,
+      ...(url ? { url } : {}),
+    };
+  });
 
   return people.length === 1 ? people[0] : people;
 }

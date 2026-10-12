@@ -1,5 +1,6 @@
+import { cardImageFit, type CardImageFit, type CardImagePosition } from '@/lib/cardImage';
 import { getActiveCoupons, type Coupon } from '@/lib/couponsData';
-import { getStoreCode, ofStore, type StoreReview } from '@/lib/homeStores';
+import { codeLinkLabel, getStoreCode, type StoreReview } from '@/lib/homeStores';
 import { getTabAnchor } from '@/lib/homeStoreTabs';
 import { SITE_SOCIAL_IMAGE, absoluteMediaUrl, type SocialImage } from '@/lib/pageSeo';
 import { getListedPortugueseReviews, isListedInPortuguese, sortReviewsByPublishedAt } from '@/lib/reviewDiscovery';
@@ -31,6 +32,9 @@ export type HomeEventCard = {
   title: string;
   type: string;
   image?: string;
+  // A capa pela regra dos cartões (src/lib/cardImage.ts).
+  imageFit: CardImageFit;
+  imagePosition?: CardImagePosition;
   store?: string;
   // Só para loja ativa com código: leva à aba da loja na vitrine, onde o código fica.
   codeLink?: { href: string; label: string };
@@ -228,9 +232,11 @@ function toCards(event: HomeEventEntry, reviews: readonly StoreReview[], stores:
       title: review.title,
       type: review.type,
       image: review.image ? resolveMediaUrl(review.image) : undefined,
+      imageFit: cardImageFit(review),
+      imagePosition: review.imagePosition,
       store: store?.brand,
       codeLink:
-        store && code ? { href: `/#${getTabAnchor(store.slug)}`, label: `Ver o código ${ofStore(store)}` } : undefined,
+        store && code ? { href: `/#${getTabAnchor(store.slug)}`, label: codeLinkLabel(store) } : undefined,
     };
   });
 }

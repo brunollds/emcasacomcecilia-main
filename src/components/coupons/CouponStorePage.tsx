@@ -4,6 +4,7 @@ import { CouponStoreLink } from '@/components/CouponComponents';
 import { getCouponLanguageLinks, getCouponStorePath } from '@/lib/couponTranslations';
 import { getOtherActiveCoupons, type Coupon } from '@/lib/couponsData';
 import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
+import { RevealSection } from '@/components/ui/RevealSection';
 import { getShellHomeHref } from '@/lib/i18n/shellDictionary';
 import { SITE_NAME, SITE_URL, absoluteUrl, getStoreSocialImage } from '@/lib/pageSeo';
 import { CopyCodeButton, CouponDock } from './CouponActions';
@@ -271,6 +272,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
         <StoreCutout
           label={couponCodeOffer ? copy.cutoutLabel.code(offerType, coupon.brand) : copy.cutoutLabel.link(offerType, coupon.brand)}
           verified={couponCodeOffer?.testNote ? copy.testedOn(lastVerified) : copy.verifiedOn(lastVerified)}
+          copyable={Boolean(couponCodeOffer && !tiers)}
         >
           {couponCodeOffer && !tiers && (
             <>
@@ -416,7 +418,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
           {coupon.referral && (
             <section aria-labelledby="indicacao">
               <SectionHeading id="indicacao">{coupon.referral.label}</SectionHeading>
-              <div className="mt-5 rounded-xl border-2 border-dashed border-marinho p-4">
+              <div className="recorte mt-5 rounded-xl border-2 border-dashed border-marinho p-4">
                 <div className="flex flex-wrap items-center gap-3">
                   <code className="font-codigo text-[26px] font-extrabold tracking-[0.06em]">{coupon.referral.code}</code>
                   <CompactCopyButton
@@ -546,16 +548,18 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
       </StoreBody>
 
       {otherCoupons.length > 0 && (
-        <section aria-labelledby="outros-cupons" className="mx-auto mt-14 max-w-6xl md:px-8">
+        <RevealSection aria-labelledby="outros-cupons" className="mx-auto mt-14 max-w-6xl md:px-8">
           <div className="px-4 md:px-0">
             <SectionHeading id="outros-cupons">{copy.otherCouponsTitle}</SectionHeading>
           </div>
-          <div className="hide-scrollbar mt-5 flex snap-x snap-mandatory scroll-px-4 gap-3 overflow-x-auto px-4 pb-2 md:grid md:grid-cols-3 md:overflow-visible md:px-0 lg:grid-cols-4">
-            {otherCoupons.map((otherCoupon) => (
-              <OtherCouponCard key={otherCoupon.slug} coupon={otherCoupon} />
+          {/* No celular a fila rola para o lado e por isso corta: o pt-4 dá lugar ao ímã e o pb-3, à sombra do
+              hover. O gap-x-4 e o md:gap-y-6 afastam o ímã do cartão ao lado e do de cima. */}
+          <div className="hide-scrollbar mt-5 flex snap-x snap-mandatory scroll-px-4 gap-x-4 overflow-x-auto px-4 pb-3 max-md:pt-4 md:grid md:grid-cols-3 md:gap-y-6 md:overflow-visible md:px-0 lg:grid-cols-4">
+            {otherCoupons.map((otherCoupon, index) => (
+              <OtherCouponCard key={otherCoupon.slug} coupon={otherCoupon} index={index} />
             ))}
           </div>
-        </section>
+        </RevealSection>
       )}
 
       <StoreTransparency title={copy.transparencyTitle}>

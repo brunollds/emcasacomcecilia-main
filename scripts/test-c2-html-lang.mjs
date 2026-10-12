@@ -34,6 +34,11 @@ for (const locale of LOCALE_KEYS) {
   if (locale === 'pt') continue;
 
   checks.push({
+    url: `/${locale}`,
+    file: `.next/server/app/${locale}.html`,
+    expectedLang: LOCALES[locale].htmlLang,
+  });
+  checks.push({
     url: `/${locale}/reviews`,
     file: `.next/server/app/${locale}/reviews.html`,
     expectedLang: LOCALES[locale].htmlLang,

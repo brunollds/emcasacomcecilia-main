@@ -1,4 +1,5 @@
 import { socialMedias } from '@/lib/brandLinks';
+import { cardImageFit, type CardImageFit, type CardImagePosition } from '@/lib/cardImage';
 import { getActiveCoupons, getStoreCodeKind, type Coupon } from '@/lib/couponsData';
 import { getCouponStorePath } from '@/lib/couponTranslations';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '@/components/review/sidebarCopy';
@@ -26,6 +27,11 @@ const MASCULINE_STORES = new Set(['magalu']);
 
 export function ofStore(store: Pick<Coupon, 'slug' | 'brand'>): string {
   return `${MASCULINE_STORES.has(store.slug) ? 'do' : 'da'} ${store.brand}`;
+}
+
+// O botão que leva ao código da loja: subpágina de loja, datas comerciais e página do vídeo.
+export function codeLinkLabel(store: Pick<Coupon, 'slug' | 'brand'>): string {
+  return `Ver o código ${ofStore(store)}`;
 }
 
 function theStore(store: Pick<Coupon, 'slug' | 'brand'>): string {
@@ -87,6 +93,8 @@ export function getHomeStoreTabs(
         title: review.title,
         type: review.type,
         image: review.image ? resolveMediaUrl(review.image) : undefined,
+        imageFit: cardImageFit(review),
+        imagePosition: review.imagePosition,
       })),
       total: articles.length,
       allArticles: hasArticlesPage(articles.length)
@@ -116,7 +124,7 @@ export function getStoreArticlesPage<T extends StoreReview>(
     metaTitle: `${store.brand}: guias e análises - Em Casa com Cecília`,
     description: `${countLabel}: guias e análises, do mais novo para o mais antigo.`,
     countLabel,
-    codeLinkLabel: `Ver o código ${ofStore(store)}`,
+    codeLinkLabel: codeLinkLabel(store),
     storePageUrl: getCouponStorePath(store.slug, 'pt'),
     articles,
   };
@@ -139,6 +147,9 @@ export type HomeLatestArticle = {
   type: string;
   dateLabel: string;
   image?: string;
+  // A capa pela regra dos cartões (src/lib/cardImage.ts).
+  imageFit: CardImageFit;
+  imagePosition?: CardImagePosition;
   store?: string;
 };
 
@@ -161,6 +172,8 @@ export function getHomeLatest<T extends StoreReview>(
       type: review.type,
       dateLabel: formatDayMonth(review.publishedAtISO),
       image: review.image ? resolveMediaUrl(review.image) : undefined,
+      imageFit: cardImageFit(review),
+      imagePosition: review.imagePosition,
       store: stores.find((store) => store.slug === review.affiliate)?.brand,
     }));
 }

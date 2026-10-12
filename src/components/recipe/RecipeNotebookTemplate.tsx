@@ -26,6 +26,7 @@ import RecipeInstructions from './RecipeInstructions';
 import { ServingScaleControl } from './ServingScaleControl';
 import { RecipeJumpNav } from './RecipeJumpNav';
 import { RecipeMetaChips } from './RecipeMetaChips';
+import { getArticleCopy, getEditorialNoteLabels } from '@/components/review/articleCopy';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 export interface RecipeNotebookTemplateProps {
@@ -80,6 +81,8 @@ export function RecipeNotebookTemplate({
     'dicas': 3,
   } as const;
 
+  const noteLabels = getEditorialNoteLabels('pt');
+
   // Separate notes into anchored and unanchored
   // Exclude both section-id anchored notes and line-anchored notes (which belong to margin rails)
   const notes = recipe.notes || [];
@@ -98,7 +101,7 @@ export function RecipeNotebookTemplate({
       <header className="notebook-margin pt-10 md:pt-16">
         <div className="mx-auto max-w-4xl">
           <EditorialReveal as="div" delay={0} className="mb-5 flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
-            <nav aria-label="Breadcrumb">
+            <nav aria-label={getArticleCopy('pt').breadcrumbLabel}>
               <ol className="flex flex-wrap items-center justify-center gap-2 text-[11px] font-bold uppercase tracking-[0.14em] text-[#1a4d2e]/55 md:justify-start">
                 <li>
                   <Link href="/" className="transition-colors hover:text-[#ff6b35]">
@@ -201,7 +204,7 @@ export function RecipeNotebookTemplate({
           {unanchoredNotes.length > 0 && (
             <EditorialReveal as="div" delay={0.28} className="mb-8 flex flex-wrap gap-2">
               {unanchoredNotes.map((note) => (
-                <EditorialNotePill key={note.id || note.label} note={note} />
+                <EditorialNotePill key={note.id || note.label} note={note} labels={noteLabels} />
               ))}
             </EditorialReveal>
           )}
@@ -274,12 +277,12 @@ export function RecipeNotebookTemplate({
           {getAnchoredNotes('ficha-tecnica').length > 0 && (
             <div className="mb-6 flex flex-wrap gap-2">
               {getAnchoredNotes('ficha-tecnica').map((note) => (
-                <EditorialNotePill key={note.id || note.label} note={note} />
+                <EditorialNotePill key={note.id || note.label} note={note} labels={noteLabels} />
               ))}
             </div>
           )}
 
-          <MarginNoteRail notes={notes} sectionIndex={RECIPE_SECTION_INDICES['ficha-tecnica']}>
+          <MarginNoteRail notes={notes} noteLabels={noteLabels} sectionIndex={RECIPE_SECTION_INDICES['ficha-tecnica']}>
             <div className="grid grid-cols-2 gap-4 sm:grid-cols-5">
             <EditorialReveal as="div" delay={0} className="rounded-xl border border-[#1a4d2e]/10 bg-white/60 p-4">
               <span className="mb-1 flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-widest text-[#1a4d2e]/70">
@@ -369,11 +372,11 @@ export function RecipeNotebookTemplate({
             {getAnchoredNotes('ingredientes').length > 0 && (
               <div className="mb-4 flex flex-wrap gap-2">
                 {getAnchoredNotes('ingredientes').map((note) => (
-                  <EditorialNotePill key={note.id || note.label} note={note} />
+                  <EditorialNotePill key={note.id || note.label} note={note} labels={noteLabels} />
                 ))}
               </div>
             )}
-            <MarginNoteRail notes={notes} sectionIndex={RECIPE_SECTION_INDICES['ingredientes']}>
+            <MarginNoteRail notes={notes} noteLabels={noteLabels} sectionIndex={RECIPE_SECTION_INDICES['ingredientes']}>
               <RecipeIngredients
                 slug={recipe.slug}
                 structuredIngredients={displayIngredients}
@@ -396,11 +399,11 @@ export function RecipeNotebookTemplate({
             {getAnchoredNotes('modo-de-preparo').length > 0 && (
               <div className="mb-4 flex flex-wrap gap-2">
                 {getAnchoredNotes('modo-de-preparo').map((note) => (
-                  <EditorialNotePill key={note.id || note.label} note={note} />
+                  <EditorialNotePill key={note.id || note.label} note={note} labels={noteLabels} />
                 ))}
               </div>
             )}
-            <MarginNoteRail notes={notes} sectionIndex={RECIPE_SECTION_INDICES['modo-de-preparo']}>
+            <MarginNoteRail notes={notes} noteLabels={noteLabels} sectionIndex={RECIPE_SECTION_INDICES['modo-de-preparo']}>
               <RecipeInstructions
                 instructionGroups={displayInstructions}
                 baseSlug={recipe.slug}
@@ -417,11 +420,11 @@ export function RecipeNotebookTemplate({
                 {getAnchoredNotes('dicas').length > 0 && (
                   <div className="mb-4 flex flex-wrap gap-2">
                     {getAnchoredNotes('dicas').map((note) => (
-                      <EditorialNotePill key={note.id || note.label} note={note} />
+                      <EditorialNotePill key={note.id || note.label} note={note} labels={noteLabels} />
                     ))}
                   </div>
                 )}
-                <MarginNoteRail notes={notes} sectionIndex={RECIPE_SECTION_INDICES['dicas']}>
+                <MarginNoteRail notes={notes} noteLabels={noteLabels} sectionIndex={RECIPE_SECTION_INDICES['dicas']}>
                   <EditorialReveal
                     as="div"
                     className="rotate-[-0.35deg] rounded-xl border border-[#ffb26b]/60 bg-[#fff4bf] p-5 shadow-[0_12px_28px_rgba(74,36,0,0.10)]"

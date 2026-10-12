@@ -167,9 +167,10 @@ html:lang(ja) {
   animation: slide-down 0.3s ease-out;
 }
 
-/* Home D2.1: as bolinhas da vitrine. O StoreBubble grava a inclinação do mouse em --rx, --ry, --lx e
-   --ly. O logo fica em 0.86 em repouso, o tamanho de antes, e vai a 1 com o mouse, sem passar do
-   tamanho do arquivo (o sizes da imagem já é o de 1). */
+/* Home D2.1: as bolinhas da vitrine. O hook useBubbleTilt (do StoreBubble da home e do
+   StoreBubbleLink de /reviews) grava a inclinação do mouse em --rx, --ry, --lx e --ly. O logo fica em
+   0.86 em repouso, o tamanho de antes, e vai a 1 com o mouse, sem passar do tamanho do arquivo (o
+   sizes da imagem já é o de 1). */
 .bolinha-logo {
   scale: 0.86;
 }
@@ -212,11 +213,19 @@ html:lang(ja) {
   }
 }
 
-/* No celular as bolinhas entram da direita, uma depois da outra (--i é a posição na faixa). */
+/* No celular as bolinhas entram da direita, uma depois da outra (--i é a posição na faixa). Em /reviews e
+   nas subpáginas elas ficam num RevealSection abaixo da dobra: a entrada espera a seção chegar à tela e
+   começa de novo ao revelar. */
 @media (max-width: 47.99rem) and (prefers-reduced-motion: no-preference) {
   .bolinha {
     animation: bolinha-entra 450ms cubic-bezier(0.2, 0.8, 0.2, 1) backwards;
     animation-delay: calc(var(--i, 0) * 70ms);
+  }
+
+  [data-reveal='pending'] .bolinha {
+    animation: none;
+    opacity: 0;
+    translate: 70px 0;
   }
 }
 
@@ -289,6 +298,148 @@ html:lang(ja) {
       translate 650ms cubic-bezier(0.2, 0.8, 0.2, 1),
       scale 650ms cubic-bezier(0.2, 0.8, 0.2, 1);
     transition-delay: calc(80ms + min(var(--i, 0), 5) * 70ms);
+  }
+}
+
+/* /reviews e subpáginas de loja: o marca-texto do h1 se pinta ao abrir a página (a seção já está na
+   tela, então não é a revelação da rolagem), a troca animada da estante (ReviewsBrowser), os cartões do
+   "Carregar mais" em cascata (--i) e o aviso da busca vazia, que assenta como o carimbo da vitrine. O
+   nome de transição de cada item (--vt) só vale com data-trocando, que o ReviewsBrowser põe no
+   contêiner durante a troca: o HTML não leva nenhum view-transition-name. */
+@keyframes marca-texto-pinta {
+  from {
+    background-size: 0% 45%;
+  }
+}
+
+@keyframes estante-sobe {
+  from {
+    opacity: 0;
+    translate: 0 12px;
+    scale: 0.94;
+  }
+}
+
+@keyframes carimbo-assenta {
+  from {
+    opacity: 0;
+    scale: 1.06;
+    rotate: -1.5deg;
+  }
+}
+
+@media screen and (prefers-reduced-motion: no-preference) {
+  .marca-texto-entra {
+    animation: marca-texto-pinta 800ms cubic-bezier(0.2, 0.8, 0.2, 1) 150ms backwards;
+  }
+
+  [data-trocando] .estante-item {
+    view-transition-name: var(--vt);
+    view-transition-class: estante;
+  }
+
+  /* Durante a troca da estante a camada da transição cobre a página e o pointerdown seguinte cai no <html>:
+     o clique se perde. Sem o nome do :root a transição captura só os itens, e o pointer-events: none deixa
+     o ponteiro passar pela camada; medido, só as duas juntas resolvem. Só com data-trocando: ao abrir um
+     artigo, o morph das fotos segue capturando a página inteira. */
+  :root:has([data-trocando]) {
+    view-transition-name: none;
+  }
+
+  :root:has([data-trocando])::view-transition {
+    pointer-events: none;
+  }
+
+  .estante-entra {
+    animation: estante-sobe 550ms cubic-bezier(0.2, 0.8, 0.2, 1) backwards;
+    animation-delay: calc(min(var(--i, 0), 5) * 70ms);
+  }
+
+  .carimbo-assenta {
+    animation: carimbo-assenta 500ms cubic-bezier(0.34, 1.56, 0.64, 1) 100ms backwards;
+  }
+
+  ::view-transition-group(.estante) {
+    animation-duration: 450ms;
+    animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
+  }
+}
+
+/* /cupons e páginas de loja (D2.2): o recorte com código (.recorte) é toda caixa tracejada com botão de
+   copiar. O useCopyCode deixa o data-copied do botão em "true" por 2,2 s, e o recorte reage pelo :has().
+   O verde vale com ou sem movimento e fica fora de @layer, para vencer as classes de borda e de fundo do
+   Tailwind. */
+.recorte:has([data-copied='true']) {
+  border-style: solid;
+  border-color: var(--color-verde-escuro);
+  background-color: var(--color-verde-claro);
+}
+
+/* A tesoura do hub fica metade sobre o cartão e metade sobre o recorte: no verde, o fundo dela é branco
+   até a linha tracejada (os 11px do -top-[11px] dela) e verde-claro dali para baixo. */
+.recorte:has([data-copied='true']) .recorte-tesoura-papel {
+  background: linear-gradient(var(--color-white) 11px, var(--color-verde-claro) 11px);
+}
+
+/* Ao copiar, a tesoura corre pela linha de cima em 650 ms e, a 550 ms, o recorte se solta do papel. A
+   corrida anda em cqi: o recorte com tesoura vira container de largura, sem mudar o layout, porque ele já
+   ocupa a largura do pai. A ida tem o atraso de 550 ms do :has(); a volta, quando o data-copied volta a
+   "false", é a transição de 250 ms do .recorte, sem atraso. */
+@media screen and (prefers-reduced-motion: no-preference) {
+  .recorte {
+    transition:
+      translate 250ms ease-out,
+      box-shadow 250ms ease-out;
+  }
+
+  .recorte:has(.recorte-tesoura) {
+    container-type: inline-size;
+  }
+
+  .recorte-tesoura {
+    transition: translate 250ms ease-out;
+  }
+
+  .recorte:has([data-copied='true']) {
+    translate: -3px -3px;
+    box-shadow: 4px 4px 0 var(--color-marinho);
+    transition-delay: 550ms;
+  }
+
+  .recorte:has([data-copied='true']) .recorte-tesoura {
+    translate: calc(100cqi - 2rem) 0;
+    transition: translate 650ms cubic-bezier(0.45, 0, 0.2, 1);
+  }
+}
+
+/* A chegada (D2.2): o número do topo das lojas carimba ao abrir a página, e o recorte do topo assenta
+   logo depois. No hub, carimbam os números dos Destaques, com a escala e o giro menores (--etiqueta-escala e --etiqueta-rotacao: o cartão
+   cortaria o número) e o atraso pela posição (--etiqueta-atraso). Nada parte de opacity: 0: o número pode
+   ser o LCP, e o recorte tem botões, que não podem ficar invisíveis e clicáveis. O carimbo-assenta de
+   /reviews, com opacity, fica só lá. */
+@keyframes etiqueta-carimba {
+  from {
+    scale: var(--etiqueta-escala, 1.25);
+    rotate: var(--etiqueta-rotacao, -6deg);
+  }
+}
+
+@keyframes recorte-assenta {
+  from {
+    scale: 1.06;
+    rotate: -1.5deg;
+  }
+}
+
+@media screen and (prefers-reduced-motion: no-preference) {
+  .etiqueta-entra {
+    transform-origin: left bottom;
+    animation: etiqueta-carimba 600ms cubic-bezier(0.34, 1.56, 0.64, 1) backwards;
+    animation-delay: var(--etiqueta-atraso, 150ms);
+  }
+
+  .recorte-entra {
+    animation: recorte-assenta 500ms cubic-bezier(0.34, 1.56, 0.64, 1) 450ms backwards;
   }
 }
 
@@ -835,11 +986,6 @@ html:lang(ja) {
     opacity: 1 !important;
     transform: none !important;
     animation: none !important;
-  }
-
-  /* Breadcrumbs */
-  [aria-label="Breadcrumb"] {
-    display: none !important;
   }
 
   /* Handwritten text (for recipe counts) */

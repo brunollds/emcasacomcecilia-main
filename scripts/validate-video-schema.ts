@@ -15,6 +15,7 @@ import {
 } from '@/lib/video-metadata';
 import { buildLocalVideoObject, buildYoutubeVideoObject } from '@/lib/video-schema';
 import { videoPages } from '@/lib/video-pages';
+import { VIDEO_ASPECTS, isVideoAspect } from '@/lib/videosShelf';
 
 type ContentKind = 'receita' | 'review' | 'página de vídeo';
 
@@ -308,6 +309,15 @@ for (const videoPage of videoPages) {
 
   if (!sourcePagePaths.has(videoPage.sourcePath)) {
     report('página de vídeo', videoPage.slug, `conteúdo de origem não existe: ${videoPage.sourcePath}`);
+  }
+
+  // O formato que o player e o destaque de /videos seguem (docs/GUIA-EDITORIAL-VIDEOS.md, seção 3.1).
+  if (!isVideoAspect(videoPage.aspect)) {
+    report(
+      'página de vídeo',
+      videoPage.slug,
+      `aspect ausente ou inválido (${videoPage.aspect}); use ${VIDEO_ASPECTS.join(', ')}`
+    );
   }
 
   const videoObject = videoPage.kind === 'youtube'

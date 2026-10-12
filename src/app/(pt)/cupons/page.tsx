@@ -1,7 +1,8 @@
 import type { Metadata } from 'next';
 import { CircleCheck } from 'lucide-react';
 import { CouponFaq, SectionHeading, couponFontVariables } from '@/components/coupons/CouponBlocks';
-import { HubCouponCard, couponCardName, layoutShelf } from '@/components/coupons/CouponCards';
+import { CouponShelfItem, HubCouponCard, SHELF_CARD, couponCardName, layoutShelf } from '@/components/coupons/CouponCards';
+import { RevealSection } from '@/components/ui/RevealSection';
 import { getActiveCoupons, getCouponHubSections } from '@/lib/couponsData';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
@@ -177,7 +178,7 @@ export default function CuponsPage() {
             {/* Pensado para dois destaques: o primeiro fica com 3/5 da linha no desktop. */}
             <div className={`grid gap-3 md:gap-4 ${featured.length > 1 ? 'md:grid-cols-[3fr_2fr]' : ''}`}>
               {featured.map((coupon, index) => (
-                <HubCouponCard key={coupon.slug} coupon={coupon} variant={index === 0 ? 'lead' : 'featured'} />
+                <HubCouponCard key={coupon.slug} coupon={coupon} variant={index === 0 ? 'lead' : 'featured'} stampOrder={index} />
               ))}
             </div>
           </section>
@@ -189,24 +190,23 @@ export default function CuponsPage() {
             const shelf = layoutShelf(category.coupons);
             const fullRow = shelf.reduce((slots, item) => slots + (item.wide ? 2 : 1), 0) > 2;
 
+            // A prateleira entra em cascata quando chega à tela (RevealSection). O pt-4 e o gap-y-6 dão lugar
+            // ao ímã, que sai 12px do cartão (16px no hover); o gap-x-4 o afasta do cartão ao lado.
             return (
-              <section
+              <RevealSection
                 key={category.id}
                 aria-labelledby={`prateleira-${category.id}`}
                 className={`flex flex-col gap-3 ${fullRow ? 'md:col-span-2' : ''}`}
               >
                 <ShelfHeading id={`prateleira-${category.id}`}>{category.label}</ShelfHeading>
-                <div className={`grid flex-1 grid-cols-2 gap-3 ${fullRow ? 'md:grid-cols-4' : ''}`}>
-                  {shelf.map(({ coupon, wide }) => (
-                    <HubCouponCard
-                      key={coupon.slug}
-                      coupon={coupon}
-                      variant={wide ? 'wide' : 'narrow'}
-                      className={wide ? 'col-span-2' : ''}
-                    />
+                <div className={`grid flex-1 grid-cols-2 gap-x-4 gap-y-6 pt-4 ${fullRow ? 'md:grid-cols-4' : ''}`}>
+                  {shelf.map(({ coupon, wide }, index) => (
+                    <CouponShelfItem key={coupon.slug} index={index} className={wide ? 'col-span-2' : ''}>
+                      <HubCouponCard coupon={coupon} variant={wide ? 'wide' : 'narrow'} className={SHELF_CARD} />
+                    </CouponShelfItem>
                   ))}
                 </div>
-              </section>
+              </RevealSection>
             );
           })}
         </div>

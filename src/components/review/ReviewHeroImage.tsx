@@ -4,7 +4,7 @@ import Image from 'next/image';
 import { useEffect, useRef } from 'react';
 import type { Locale } from '@/lib/i18n/locales';
 import { sanitizeViewTransitionName } from '@/lib/viewTransition';
-import { getArticleCopy } from './articleCopy';
+import { getArticleCopy, getReviewVideoLabels } from './articleCopy';
 import { ReviewLoopVideo } from './ReviewLoopVideo';
 import { useReviewMediaBlur } from './useReviewMediaBlur';
 
@@ -155,6 +155,7 @@ export function ReviewHeroImage({
             webm={video.webm}
             poster={video.poster}
             ariaLabel={alt}
+            labels={getReviewVideoLabels(locale)}
             preload="auto"
             className={
               (mediaPortrait || mediaSquare) && imageFit === 'contain'

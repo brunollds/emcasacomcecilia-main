@@ -7,10 +7,14 @@ import {
 
 const BASE_URL = 'https://emcasacomcecilia.com';
 
+// aspect: o formato do vídeo, que o player e o destaque de /videos seguem. 'vertical' para os Shorts
+// (https://www.youtube.com/shorts/<id> responde 200), 'horizontal' para o vídeo comum (a mesma URL
+// redireciona para /watch) e 'square' para o MP4 quadrado. O validate:video exige um dos três.
 const videoPageDefinitions = [
   {
     slug: 'rabanada-com-doce-de-leite-video',
     kind: 'youtube',
+    aspect: 'vertical',
     videoId: 'DSH6TZyiMms',
     sourcePath: '/receitas/rabanada-com-doce-de-leite',
     sourceTitle: 'Rabanada com doce de leite',
@@ -18,6 +22,7 @@ const videoPageDefinitions = [
   {
     slug: 'truque-manteiga-com-leite-funciona',
     kind: 'youtube',
+    aspect: 'vertical',
     videoId: 'pftnU5mPuGU',
     sourcePath: '/reviews/minha-experiencia-manteiga-batida-aerada',
     sourceTitle: 'Minha experiência com manteiga batida aerada',
@@ -25,6 +30,7 @@ const videoPageDefinitions = [
   {
     slug: 'poltronas-reclinaveis-damie-sala-de-cinema',
     kind: 'youtube',
+    aspect: 'vertical',
     videoId: 'brlxM4aUXkk',
     sourcePath: '/reviews/poltronas-reclinaveis-damie-vale-o-investimento',
     sourceTitle: 'Poltronas reclináveis Damie valem o investimento?',
@@ -32,6 +38,7 @@ const videoPageDefinitions = [
   {
     slug: 'sofa-modular-damie-na-caixa',
     kind: 'youtube',
+    aspect: 'vertical',
     videoId: 'MoBWSbcFTbg',
     sourcePath: '/reviews/sofa-damie-na-caixa-vale-a-pena-o-modular',
     sourceTitle: 'Sofá Damie na caixa: vale a pena?',
@@ -39,6 +46,7 @@ const videoPageDefinitions = [
   {
     slug: 'aniversario-damie-poltronas-sofas-camas',
     kind: 'youtube',
+    aspect: 'vertical',
     videoId: 'YUAO12eA0oo',
     sourcePath: '/reviews/poltrona-moon-design-que-parece-obra-de-arte',
     sourceTitle: 'Poltrona Moon: design que parece obra de arte',
@@ -46,6 +54,7 @@ const videoPageDefinitions = [
   {
     slug: 'poltrona-levita-damie',
     kind: 'youtube',
+    aspect: 'vertical',
     videoId: 'jC0UZewMARE',
     sourcePath: '/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto',
     sourceTitle: 'Poltrona Levita: tecnologia e conforto',
@@ -53,6 +62,7 @@ const videoPageDefinitions = [
   {
     slug: 'poltrona-damie-para-maes-e-amamentacao',
     kind: 'youtube',
+    aspect: 'vertical',
     videoId: 'ep2XlSQ_OiM',
     sourcePath: '/reviews/poltrona-amamentacao-rotina',
     sourceTitle: 'Poltrona de amamentação na rotina',
@@ -60,6 +70,7 @@ const videoPageDefinitions = [
   {
     slug: 'poltrona-reclinavel-damie-2-0',
     kind: 'youtube',
+    aspect: 'vertical',
     videoId: 'B8L2YJC8gaE',
     sourcePath: '/reviews/poltrona-damie-e-boa',
     sourceTitle: 'Poltrona Damie 2.0 é boa?',
@@ -67,6 +78,7 @@ const videoPageDefinitions = [
   {
     slug: 'cobertor-iws-igloo-dupla-face',
     kind: 'youtube',
+    aspect: 'vertical',
     videoId: 'BlBbtv-VuL8',
     sourcePath: '/reviews/i-wanna-sleep-cobertor-igloo-ficha-tecnica',
     sourceTitle: 'Cobertor IWS Igloo: ficha técnica e primeiras impressões',
@@ -74,6 +86,7 @@ const videoPageDefinitions = [
   {
     slug: 'unboxing-dolce-gusto-mini-me-2-0-primeiro-cafe',
     kind: 'youtube',
+    aspect: 'vertical',
     videoId: 'RGM_61Heclo',
     sourcePath: '/reviews/dolce-gusto-mini-me-2-0-vale-a-pena',
     sourceTitle: 'NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Teste Real na Cor Terracota',
@@ -81,6 +94,7 @@ const videoPageDefinitions = [
   {
     slug: 'como-usar-cupom-ceciemcasa-i-wanna-sleep',
     kind: 'local',
+    aspect: 'square',
     contentUrl: '/images/reviews/iwannasleep/i-wanna-sleep-site-1.mp4',
     sourcePath: '/reviews/cupom-ceciemcasa-i-wanna-sleep-como-usar',
     sourceTitle: 'Como usar o cupom CECIEMCASA na I Wanna Sleep',
@@ -88,6 +102,7 @@ const videoPageDefinitions = [
   {
     slug: 'primeiro-preparo-dolce-gusto-genio-s-touch',
     kind: 'local',
+    aspect: 'square',
     contentUrl: '/videos/reviews/dolcegusto/genio-s-touch-loop-1.mp4',
     sourcePath: '/reviews/dolce-gusto-genio-s-touch-vale-a-pena',
     sourceTitle: 'Dolce Gusto Genio S Touch vale a pena?',
@@ -95,6 +110,7 @@ const videoPageDefinitions = [
   {
     slug: 'minha-primeira-lava-e-seca-samsung-13kg-video',
     kind: 'youtube',
+    aspect: 'horizontal',
     videoId: 'xpXX_N002jo',
     sourcePath: '/reviews/samsung-lava-seca-13kg-primeiro-uso',
     sourceTitle: 'Minha primeira lava e seca: Samsung 13 kg, unboxing e primeiro uso',
@@ -102,6 +118,7 @@ const videoPageDefinitions = [
   {
     slug: 'rotina-skincare-coreano-30-anos-abib-video',
     kind: 'youtube',
+    aspect: 'horizontal',
     videoId: 'agfG-x5lq1s',
     sourcePath: '/reviews/skincare-coreano-30-anos-rotina-iniciante-yesstyle',
     sourceTitle: 'Skincare Coreano aos 30 Anos: Testei uma Rotina de Iniciante com a Abib da YesStyle',

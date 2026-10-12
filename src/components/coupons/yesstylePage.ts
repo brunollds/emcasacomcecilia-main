@@ -7,6 +7,7 @@ import {
   YESSTYLE_LOCALES,
 } from '@/lib/i18n/clusters/yesstyle';
 import type { Locale } from '@/lib/i18n/locales';
+import { getShellHomeHref } from '@/lib/i18n/shellDictionary';
 import {
   getPrimaryRewardCode,
   getActivePromoCoupons,
@@ -83,7 +84,8 @@ export interface BreadcrumbItemSpec {
   item: string;
 }
 
-// Helper puro exportado para construção e teste estrito dos breadcrumbs (3 níveis em PT, 2 níveis nos internacionais)
+// Helper puro exportado para construção e teste estrito dos breadcrumbs: 3 níveis em PT; nos internacionais,
+// 2 níveis, da home do idioma (/en, /ja…) à página.
 export function getYesStyleBreadcrumbItems(
   locale: Locale,
   canonicalUrl: string,
@@ -98,7 +100,7 @@ export function getYesStyleBreadcrumbItems(
     ];
   }
   return [
-    { name: homeLabel, item: 'https://emcasacomcecilia.com' },
+    { name: homeLabel, item: `https://emcasacomcecilia.com${getShellHomeHref(locale)}` },
     { name: 'YesStyle', item: canonicalUrl },
   ];
 }

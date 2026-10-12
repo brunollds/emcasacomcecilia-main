@@ -28,7 +28,7 @@ da seção final. Guia de autoria: `docs/GUIA-EDITORIAL-VIDEOS.md`.
   (`getYoutubeEmbedUrl` é re-exportado de review-template-props de propósito).
 - **Páginas de exibição**: `src/lib/video-pages.js` liga cada vídeo editorial
   único a um slug e ao artigo/receita de origem. As rotas
-  `src/app/(pt)/videos/[slug]/page.js` colocam um único player, com controles,
+  `src/app/(pt)/videos/[slug]/page.tsx` colocam um único player, com controles,
   imediatamente depois do H1. `/videos` é o hub navegável.
 - **Sitemap de vídeo**: o próprio `sitemap.xml` usa a extensão oficial
   `xmlns:video` por meio da propriedade `videos` do Next.js. Só as páginas

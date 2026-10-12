@@ -211,13 +211,11 @@ export function getShellCopy(localeStr: string): ShellCopy {
   return SHELL_DICTIONARY[loc];
 }
 
+// Logo, rodapé, início da trilha das lojas e seletor de idioma: a home do idioma (src/app/[locale]/page.tsx).
+// Sem importar de localeHome.ts: o shell roda no cliente e levaria junto os textos das lojas.
 export function getShellHomeHref(localeStr: string): string {
   const loc = (localeStr in SHELL_DICTIONARY ? localeStr : 'pt') as Locale;
-  return loc === 'pt' ? '/' : getReviewHubPath(loc);
-}
-
-export function getShellLanguageHubHref(locale: Locale): string {
-  return locale === 'pt' ? '/reviews' : getReviewHubPath(locale);
+  return loc === 'pt' ? '/' : `/${loc}`;
 }
 
 export function getShellNavLinks(localeStr: string): ShellNavLink[] {

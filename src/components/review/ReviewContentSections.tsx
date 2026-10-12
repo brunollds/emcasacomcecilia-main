@@ -1,6 +1,6 @@
 'use client';
 
-import { EditorialReveal, SectionHeadingReveal, EditorialNotePill, MarginNoteRail } from '@/components/editorial';
+import { EditorialReveal, SectionHeadingReveal, EditorialNotePill, MarginNoteRail, type EditorialNoteLabels } from '@/components/editorial';
 import { ReviewSectionContent } from './ReviewSectionContent';
 import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
 import type { ContentSection, ReviewKind, EditorialNoteData } from '@/lib/content';
@@ -17,6 +17,7 @@ export interface ReviewContentSectionsProps {
   coupon?: string;
   affiliate?: string;
   locale?: Locale;
+  noteLabels: EditorialNoteLabels;
 }
 
 function getStepNumber(heading?: string): string | null {
@@ -49,6 +50,7 @@ export function ReviewContentSections({
   coupon,
   affiliate,
   locale = 'pt',
+  noteLabels,
 }: ReviewContentSectionsProps): React.ReactElement | null {
   const visibleSections = sections.filter((section) => !filterHeadings.includes(section.heading || ''));
 
@@ -92,7 +94,7 @@ export function ReviewContentSections({
                   {sectionIdNotes.length > 0 && (
                     <div className="mt-3 flex flex-wrap gap-2">
                       {sectionIdNotes.map((note) => (
-                        <EditorialNotePill key={note.id || note.label} note={note} />
+                        <EditorialNotePill key={note.id || note.label} note={note} labels={noteLabels} />
                       ))}
                     </div>
                   )}
@@ -100,7 +102,7 @@ export function ReviewContentSections({
               </div>
             )}
 
-            <MarginNoteRail notes={lineAnchoredNotes} sectionIndex={index}>
+            <MarginNoteRail notes={lineAnchoredNotes} sectionIndex={index} noteLabels={noteLabels}>
               <ReviewSectionContent
                 section={section}
                 reviewTitle={reviewTitle}

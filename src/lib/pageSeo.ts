@@ -29,7 +29,22 @@ export function getStoreSocialImage(
   };
 }
 
-type PageLink = { name: string; path: string };
+// Um item da trilha e da lista de uma página: o nome e o caminho.
+export type PageLink = { name: string; path: string };
+
+// O caminho até a página, como BreadcrumbList; o último item é a própria página.
+export function getBreadcrumbListJsonLd(trail: readonly PageLink[]) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: trail.map((item, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: item.name,
+      item: absoluteUrl(item.path),
+    })),
+  };
+}
 
 // A página como lista de artigos e o caminho até ela; o último item do caminho é a própria página.
 export function getCollectionPageJsonLd({
@@ -63,15 +78,6 @@ export function getCollectionPageJsonLd({
         })),
       },
     },
-    {
-      '@context': 'https://schema.org',
-      '@type': 'BreadcrumbList',
-      itemListElement: [...breadcrumb, { name, path }].map((item, index) => ({
-        '@type': 'ListItem',
-        position: index + 1,
-        name: item.name,
-        item: absoluteUrl(item.path),
-      })),
-    },
+    getBreadcrumbListJsonLd([...breadcrumb, { name, path }]),
   ];
 }

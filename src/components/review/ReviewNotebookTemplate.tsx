@@ -1,3 +1,4 @@
+import { Fragment } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { ArrowRight, ChevronRight, PlayCircle, ShieldCheck } from 'lucide-react';
@@ -16,14 +17,14 @@ import { ReviewHeroImage } from './ReviewHeroImage';
 import { ReviewVerdictCard } from './ReviewVerdictCard';
 import { ReviewSidebar, type ResolvedRelatedArticle } from './ReviewSidebar';
 import { ReviewMobileBottomBar } from './ReviewMobileBottomBar';
-import { getArticleCopy } from './articleCopy';
+import { getArticleCopy, getEditorialNoteLabels } from './articleCopy';
+import { getBodySections, HEADINGS_OUTSIDE_BODY } from './bodySections';
 import { InlineCouponCopy } from './InlineCouponCopy';
 import { isStepHeading, type CouponCopyLocale } from './couponCopyLocale';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 import { getReviewCanonicalPathname, resolveReviewLocale } from '@/lib/content/review-i18n';
 import type { Locale } from '@/lib/i18n/locales';
 import { getShellCopy } from '@/lib/i18n/shellDictionary';
-import { getInternationalReviewHub } from '@/lib/review-hubs';
 import { GuideTimeline } from './GuideTimeline';
 import { PullQuote } from './PullQuote';
 import { ReviewHighlightChips } from './ReviewHighlightChips';
@@ -36,6 +37,8 @@ export interface ReviewNotebookTemplateProps {
   videoPageUrl: string | null;
   reviewImage: string;
   reviewImageAlt: string;
+  // As páginas acima do artigo, da home do idioma em diante; a mesma lista do breadcrumbJsonLd.
+  breadcrumbs: Array<{ name: string; href: string }>;
   breadcrumbJsonLd: Record<string, unknown>;
   jsonLd: Record<string, unknown>;
   faqJsonLd?: Record<string, unknown> | null;
@@ -184,6 +187,7 @@ export function ReviewNotebookTemplate({
   videoPageUrl,
   reviewImage,
   reviewImageAlt,
+  breadcrumbs,
   breadcrumbJsonLd,
   jsonLd,
   faqJsonLd = null,
@@ -192,13 +196,13 @@ export function ReviewNotebookTemplate({
   languageLinks,
 }: ReviewNotebookTemplateProps): React.ReactElement {
   const couponCopyLocale = resolveReviewLocale(review.locale);
-  const internationalReviewHub = couponCopyLocale === 'pt'
-    ? null
-    : getInternationalReviewHub(couponCopyLocale);
+  // A lista de artigos do idioma é o último nível da trilha antes do artigo.
+  const reviewHubHref = breadcrumbs[breadcrumbs.length - 1].href;
   const ui = templateUiLabels[couponCopyLocale] || templateUiLabels.pt;
 
   const { kind, plainTextBody } = viewModel;
   const copy = getArticleCopy(couponCopyLocale);
+  const noteLabels = getEditorialNoteLabels(couponCopyLocale);
   // Um `reviewKind` fora do enum (a Mini Me 2.0 tem "product") sempre caiu no selo de editorial.
   const kindLabel = copy.kindLabel[kind] ?? copy.kindLabel.editorial;
   const badgeColor = getBadgeColor(kind);
@@ -209,19 +213,9 @@ export function ReviewNotebookTemplate({
   const verdictSection = review.contentSections?.find((section) => section.heading === 'Veredito');
 
   const sectionIds = generateSectionIds(review.contentSections || []);
-  const filteredHeadings: string[] = ['Veredito'];
 
-  const tocItems = (review.contentSections || [])
-    .filter((section) => (
-      section.heading &&
-      !filteredHeadings.includes(section.heading) &&
-      !(kind === 'guia' && isStepHeading(section.heading))
-    ))
-    .map((section) => ({
-      id: sectionIds.get(section.heading || '') || '',
-      heading: section.heading || '',
-    }))
-    .filter((item) => item.id);
+  const bodySections = getBodySections(review.contentSections || [], kind);
+  const tocItems = [...bodySections];
 
   // Add "Veredito final" to TOC if the verdict section will render
   const hasVerdictStars = Boolean(review.verdict?.stars);
@@ -276,10 +270,12 @@ export function ReviewNotebookTemplate({
     ? (review.contentSections || []).slice(firstStepIndex).filter((s) => !isStepHeading(s.heading))
     : [];
 
-  // Separate notes into anchored and unanchored
-  // Exclude both section-id anchored notes and line-anchored notes (which belong to margin rails)
+  // A nota ancorada numa seção do corpo sai no título dela, e a de linha, na margem. As outras saem no
+  // topo, inclusive a ancorada numa seção que o corpo não mostra (veredito, passo do guia). A âncora é
+  // um id; o sectionIds é indexado pelo título.
   const notes = review.notes || [];
-  const unanchoredNotes = notes.filter((note) => !note.anchor || (!sectionIds.has(note.anchor) && !isLineAnchor(note.anchor)));
+  const bodySectionIds = new Set(bodySections.map(({ id }) => id));
+  const unanchoredNotes = notes.filter((note) => !note.anchor || (!bodySectionIds.has(note.anchor) && !isLineAnchor(note.anchor)));
 
   return (
     <>
@@ -304,29 +300,16 @@ export function ReviewNotebookTemplate({
                 {kindLabel}
               </span>
 
-              <nav aria-label="Breadcrumb">
+              <nav aria-label={copy.breadcrumbLabel}>
                 <ol className="flex flex-wrap items-center gap-2 text-sm text-[#4a5568]">
-                  {couponCopyLocale === 'pt' ? (
-                    <>
+                  {breadcrumbs.map(({ name, href }) => (
+                    <Fragment key={href}>
                       <li>
-                        <Link href="/" className="transition-colors hover:text-[#1a4d2e]">{getShellCopy('pt').homeLabel}</Link>
+                        <Link href={href} className="transition-colors hover:text-[#1a4d2e]">{name}</Link>
                       </li>
                       <li aria-hidden="true"><ChevronRight size={14} /></li>
-                      <li>
-                        <Link href="/reviews" className="transition-colors hover:text-[#1a4d2e]">Reviews</Link>
-                      </li>
-                      <li aria-hidden="true"><ChevronRight size={14} /></li>
-                    </>
-                  ) : (
-                    <>
-                      <li>
-                        <Link href={internationalReviewHub?.href ?? '/reviews'} className="transition-colors hover:text-[#1a4d2e]">
-                          {internationalReviewHub?.label}
-                        </Link>
-                      </li>
-                      <li aria-hidden="true"><ChevronRight size={14} /></li>
-                    </>
-                  )}
+                    </Fragment>
+                  ))}
                   <li className="max-w-[200px] truncate text-[#1a4d2e] md:max-w-md" aria-current="page">
                     {review.title}
                   </li>
@@ -408,7 +391,7 @@ export function ReviewNotebookTemplate({
               {unanchoredNotes.length > 0 && (
                 <div className="mt-4 flex flex-wrap gap-2">
                   {unanchoredNotes.map((note) => (
-                    <EditorialNotePill key={note.id || note.label} note={note} />
+                    <EditorialNotePill key={note.id || note.label} note={note} labels={noteLabels} />
                   ))}
                 </div>
               )}
@@ -519,16 +502,17 @@ export function ReviewNotebookTemplate({
               {kind === 'guia' ? (
                 <>
                   <ReviewContentSections
-                    sections={preStepSections.filter((s) => !filteredHeadings.includes(s.heading || ''))}
+                    sections={preStepSections.filter((s) => !HEADINGS_OUTSIDE_BODY.includes(s.heading || ''))}
                     reviewTitle={review.title}
                     sectionIds={sectionIds}
-                    filterHeadings={filteredHeadings}
+                    filterHeadings={HEADINGS_OUTSIDE_BODY}
                     kind={kind}
                     notes={notes}
                     reviewSlug={review.slug}
                     coupon={review.coupon}
                     affiliate={review.affiliate}
                     locale={couponCopyLocale}
+                    noteLabels={noteLabels}
                   />
                   {stepSections.length > 0 && (
                     <div className="mt-12">
@@ -540,19 +524,23 @@ export function ReviewNotebookTemplate({
                       />
                     </div>
                   )}
+                  {/* A contagem de seções da âncora de linha (S0, S1…) recomeça aqui: uma nota S0 sairia
+                      nesta parte e na de antes dos passos. Nenhum artigo usa âncora de linha, e o
+                      test:build-output barra a nota repetida. */}
                   {postStepSections.length > 0 && (
                     <div className="mt-12">
                       <ReviewContentSections
-                        sections={postStepSections.filter((s) => !filteredHeadings.includes(s.heading || ''))}
+                        sections={postStepSections.filter((s) => !HEADINGS_OUTSIDE_BODY.includes(s.heading || ''))}
                         reviewTitle={review.title}
                         sectionIds={sectionIds}
-                        filterHeadings={filteredHeadings}
+                        filterHeadings={HEADINGS_OUTSIDE_BODY}
                         kind={kind}
                         notes={notes}
                         reviewSlug={review.slug}
                         coupon={review.coupon}
                         affiliate={review.affiliate}
                         locale={couponCopyLocale}
+                        noteLabels={noteLabels}
                       />
                     </div>
                   )}
@@ -562,13 +550,14 @@ export function ReviewNotebookTemplate({
                   sections={review.contentSections || []}
                   reviewTitle={review.title}
                   sectionIds={sectionIds}
-                  filterHeadings={filteredHeadings}
+                  filterHeadings={HEADINGS_OUTSIDE_BODY}
                   kind={kind}
                   notes={notes}
                   reviewSlug={review.slug}
                   coupon={review.coupon}
                   affiliate={review.affiliate}
                   locale={couponCopyLocale}
+                  noteLabels={noteLabels}
                 />
               )}
 
@@ -750,7 +739,7 @@ export function ReviewNotebookTemplate({
                   {ui.relatedArticles}
                 </SectionHeadingReveal>
                 <Link
-                  href={internationalReviewHub?.href ?? '/reviews'}
+                  href={reviewHubHref}
                   className="hidden items-center gap-2 text-sm font-bold text-[#1a4d2e] transition-colors hover:text-[#ff6b35] md:inline-flex"
                 >
                   {ui.viewAll}

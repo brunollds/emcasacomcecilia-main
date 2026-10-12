@@ -1,6 +1,16 @@
 import assert from 'node:assert/strict';
 
+import { createElement } from 'react';
+import { renderToStaticMarkup } from 'react-dom/server';
+import { imageConfigDefault, type ImageConfigComplete, type RemotePattern } from 'next/dist/shared/lib/image-config';
+import { ImageConfigContext } from 'next/dist/shared/lib/image-config-context.shared-runtime';
+
 import sitemap from '@/app/sitemap';
+import { CECILIA_PHOTO_COPY_PT } from '@/components/sections/CeciliaProfile';
+import { HomeCeciliaPanel } from '@/components/sections/HomeCeciliaPanel';
+import { HomeLatest } from '@/components/sections/HomeLatest';
+import { getLocaleHomeCopy } from '@/components/sections/localeHomeCopy';
+import { cardImageLook } from '@/lib/cardImage';
 import { COUPONS, getActiveCoupons, type Coupon } from '@/lib/couponsData';
 import { publishedReviews, reviews } from '@/lib/data';
 import {
@@ -10,9 +20,11 @@ import {
   getHomeStoreTabs,
   getStoreArticlePageSlugs,
   getStoreArticlesPage,
+  type HomeLatestArticle,
   type StoreReview,
 } from '@/lib/homeStores';
 import { getListedPortugueseReviews, sortReviewsByPublishedAt } from '@/lib/reviewDiscovery';
+import { IMAGE_REMOTE_PATTERNS } from '@/lib/imageHosts.mjs';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import {
   CECILIA_TAB_ID,
@@ -96,6 +108,8 @@ assert.deepEqual(magaluTab.articles[0], {
   title: 'Título novo',
   type: 'Guia',
   image: resolveMediaUrl('/images/reviews/teste/novo.webp'),
+  imageFit: 'cover',
+  imagePosition: undefined,
 });
 
 // Loja sem artigo (a SHEIN hoje): sem story, sem lista e com o aviso no lugar.
@@ -227,6 +241,33 @@ assert.equal(latestFixture[2].dateLabel, '01/10');
 assert.equal(latestFixture[2].href, '/reviews/novo');
 assert.equal(latestFixture[2].image, resolveMediaUrl('/images/reviews/teste/novo.webp'));
 
+// A capa dos cartões segue o JSON do artigo (src/lib/cardImage.ts), igual na vitrine e no "Acabou de sair":
+// imageFit explícito vale, foto de produto com nota fica inteira, e o imagePosition vem com o artigo.
+const capasFixture: ReviewFixture[] = [
+  { ...review(11, 'capa-inteira', 'magalu', '2026-10-12'), imageFit: 'contain' },
+  { ...review(12, 'capa-com-nota', 'magalu', '2026-10-11'), rating: 5 },
+  { ...review(13, 'capa-no-topo', 'magalu', '2026-10-10'), imagePosition: 'top' },
+];
+const capaOf = ({ slug, imageFit, imagePosition }: Pick<HomeLatestArticle, 'slug' | 'imageFit' | 'imagePosition'>) => ({
+  slug,
+  imageFit,
+  imagePosition,
+});
+const capasLatest = getHomeLatest(capasFixture, [store('magalu')]);
+assert.deepEqual(capasLatest.map(capaOf), [
+  { slug: 'capa-inteira', imageFit: 'contain', imagePosition: undefined },
+  { slug: 'capa-com-nota', imageFit: 'contain', imagePosition: undefined },
+  { slug: 'capa-no-topo', imageFit: 'cover', imagePosition: 'top' },
+]);
+const [capasTab] = getHomeStoreTabs(capasFixture, [store('magalu')]);
+assert.deepEqual(capasTab.articles.map(capaOf), capasLatest.map(capaOf), 'a vitrine dá a mesma capa que o "Acabou de sair"');
+
+// O contain fica inteiro sobre fundo branco e dispensa o imagePosition; o cover recorta pelo imagePosition.
+assert.deepEqual(cardImageLook('contain', 'top', 'p-3'), { className: 'bg-white object-contain p-3' });
+assert.deepEqual(cardImageLook('cover', 'top', 'p-3'), { className: 'object-cover', style: { objectPosition: '50% 10%' } });
+assert.equal(cardImageLook('cover', undefined, 'p-3').className, 'object-cover');
+assert.equal(cardImageLook('cover', undefined, 'p-3').style, undefined);
+
 const latest = getHomeLatest(publishedReviews);
 assert.deepEqual(latest.map(({ slug }) => slug), listed.slice(0, 5).map(({ slug }) => slug));
 for (const item of latest) {
@@ -240,13 +281,55 @@ assert.equal(semImagem.length, 1);
 assert.equal(semImagem[0].image, undefined);
 assert.equal(semImagem[0].store, 'Magalu');
 
-// Números das redes no painel da Cecília: a mesma conta do Hero de hoje.
+// Números das redes no painel da Cecília: a mesma conta do antigo Hero.
 assert.equal(formatFollowerCount('443.5K'), '444k');
 assert.equal(formatFollowerCount('85.5K'), '86k');
 assert.equal(formatFollowerCount(undefined), undefined);
 assert.equal(formatFollowerCount('sem número'), undefined);
 assert.deepEqual(getCeciliaSocialStats().map(({ name }) => name), ['Instagram', 'TikTok', 'YouTube', 'Facebook']);
 assert.ok(getCeciliaSocialStats().every(({ followers }) => followers && /^\d+k$/.test(followers)));
+
+// O painel da Cecília na home em português reaproveita o cartão de foto da home de cada idioma: nada do
+// inglês vaza para ele, e a foto segue lazy, sem fetchpriority (no PT o LCP é a imagem do story).
+// Fora do Next, o next/image não conhece os hosts do next.config.mjs, e a foto da Cecília vem do CDN.
+const imageConfig: ImageConfigComplete = {
+  ...imageConfigDefault,
+  remotePatterns: IMAGE_REMOTE_PATTERNS as RemotePattern[],
+};
+const decodeEntities = (text: string) =>
+  text.replace(/&#x27;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
+const panelHtml = renderToStaticMarkup(
+  createElement(ImageConfigContext.Provider, { value: imageConfig }, createElement(HomeCeciliaPanel))
+);
+const panelText = decodeEntities(panelHtml);
+for (const [key, text] of Object.entries(CECILIA_PHOTO_COPY_PT)) {
+  assert.ok(panelText.includes(text), `painel da Cecília sem o texto em português (${key}): ${text}`);
+}
+const englishCopy = getLocaleHomeCopy('en');
+for (const text of [englishCopy.photoAlt, englishCopy.followers]) {
+  assert.ok(!panelText.includes(text), `painel da Cecília com texto em inglês: ${text}`);
+}
+const panelPhoto = (panelHtml.match(/<img\b[^>]*>/g) ?? []).find((tag) => decodeEntities(tag).includes(CECILIA_PHOTO_COPY_PT.alt));
+assert.ok(panelPhoto, 'painel da Cecília sem a foto');
+assert.match(panelPhoto, /\sloading="lazy"/, 'foto do painel em português tem de ser lazy');
+assert.doesNotMatch(panelPhoto, /fetchpriority/i, 'foto do painel em português sem fetchpriority');
+
+// O "Acabou de sair" desenha a capa pela mesma regra: inteira sobre fundo branco no contain, cortada e
+// com o recorte do imagePosition no cover. A lista do celular não leva foto, então só os cartões têm <img>.
+const latestHtml = renderToStaticMarkup(
+  createElement(ImageConfigContext.Provider, { value: imageConfig }, createElement(HomeLatest, { articles: capasLatest }))
+);
+const latestImage = (slug: string) => {
+  const tag = (latestHtml.match(/<img\b[^>]*>/g) ?? []).find((candidate) => candidate.includes(slug));
+  assert.ok(tag, `"Acabou de sair" sem a foto de ${slug}`);
+  return tag;
+};
+for (const slug of ['capa-inteira', 'capa-com-nota']) {
+  assert.match(latestImage(slug), /class="[^"]*\bbg-white object-contain p-3\b/, `${slug}: inteira sobre fundo branco`);
+  assert.doesNotMatch(latestImage(slug), /object-position/, `${slug}: o contain não leva recorte`);
+}
+assert.match(latestImage('capa-no-topo'), /class="[^"]*\bobject-cover\b/, 'sem imageFit nem nota, a capa cobre');
+assert.match(latestImage('capa-no-topo'), /style="[^"]*object-position:50% 10%/, 'o imagePosition recorta o cover');
 
 // /reviews/loja sozinho cai em /reviews/[slug]: nenhuma review, nem rascunho, pode ter esse slug.
 assert.ok(!reviews.some(({ slug }) => slug === 'loja'), 'nenhuma review com o slug loja');
