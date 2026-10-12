@@ -154,6 +154,7 @@ Fica para quando esta família sair: encurtar esses trechos e linkar para cá. B
 ## 5. Mídia & Planejamento Visual
 - **Imagem Principal (Hero):** gráfico próprio simples (mapa-mundi não, que sugere cobertura que não existe); alternativa: um quadro do vídeo da
   rotina da Abib (`agfG-x5lq1s`, caixas da YesStyle) como na Black Friday, com outro recorte.
+  - **Aprovado pelo Bruno (12/10/2026): gráfico próprio.** Sem palavras na imagem, para servir às 10 versões: ícones (globo, caminhão, relógio, recibo), nenhuma bandeira e nenhum mapa. Se o Bruno escolher a opção B da capa da irmã [[02_Artigos/yesstyle-ou-stylevana]], usar o mesmo estilo, para as duas parecerem da mesma série.
 - **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md). Upload ao CDN só com o OK do Bruno.
 - **Imagens Inline / Seções:** nenhuma obrigatória; as tabelas são HTML.
 - **Vídeo:** nenhum.

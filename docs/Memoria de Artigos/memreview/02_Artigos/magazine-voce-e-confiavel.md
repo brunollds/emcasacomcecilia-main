@@ -161,8 +161,8 @@ Quem redigir deve terminar o JSON existente, sem criar outro arquivo nem outro s
     endereço e o cadeado, em janela anônima e sem CEP (o hero previsto acima); (b) este print
     recortado como imagem de seção e outra imagem de capa; (c) o RDAP do registro.br
     (print 4) como apoio visual de seção.
-- **Imagens Inline / Seções:** prints 2 a 4, mais o print do topo recebido em 12/10/2026 (recortado,
-  sem CEP). Cada um com `imageAlt` descritivo e `imageFit`
+- **Hero (Bruno, 12/10/2026): print novo do topo da loja.** `midia-staging\2026-10-12-imagens-pendentes\magalu\loja-emcasacomcecilia-topo-sem-cep.png` (1355×265, sem login e sem CEP: o cabeçalho diz "Ver ofertas para minha região"). Substitui o print com CEP da fase 2. Não mostra a barra de endereço, então o domínio se prova no texto, não na imagem. O Job 4 monta a capa 16:9 com o print sobre fundo liso, e o mesmo print serve na seção "como reconhecer a loja oficial".
+- **Imagens Inline / Seções:** prints 2 a 4, mais o print novo do topo, sem CEP. Cada um com `imageAlt` descritivo e `imageFit`
   `contain` (prints de interface).
 - **Galeria de Detalhes:** nenhuma.
 - **Vídeo:** [x] Nenhum.
@@ -326,7 +326,8 @@ domínio em 04/03/2027) em janeiro de 2027.
    existe o perfil (o rascunho dizia ~50 reclamações, nota baixa, 0% respondidas). Hoje o artigo
    usa só o perfil do Magalu.
 2. **Prints** (seção 5): o print do topo da loja da Cecília chegou em 12/10/2026 (com um CEP a
-   cortar e sem a barra de endereço; ver a seção 5). Faltam o rodapé da loja da Cecília e a tela de
+   cortar e sem a barra de endereço; ver a seção 5). Depois chegou um print novo, sem CEP, que vira a
+   capa. Faltam o rodapé da loja da Cecília e a tela de
    login do Magalu. A leitura da loja da Cecília deu CAPTCHA no meu acesso, então o aviso "para
    comprar nesse site você não precisa compartilhar seus dados com o dono da página" (rascunho)
    segue sem prova até o print do rodapé.

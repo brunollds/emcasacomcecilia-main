@@ -143,6 +143,7 @@ link para o artigo de credibilidade; esse artigo não responde pergunta com conc
 - **Imagem principal (hero):** gráfico nosso, sem logos de terceiros: quatro colunas vazias com as linhas
   "frete", "prazo", "devolução", "imposto", "Reclame Aqui" (o leitor entende que é uma tabela de critérios).
   Evitar logos da Shopee, Temu e AliExpress (marca de terceiros sem licença) e a foto da Cecília (sugere teste).
+  - **Aprovado pelo Bruno (12/10/2026).** Como a família sai em 10 idiomas, o gráfico não leva palavras nas linhas: ícones no lugar dos rótulos (caminhão para frete, relógio para prazo, seta para devolução, recibo para imposto, estrela para Reclame Aqui). O cabeçalho das colunas leva só o nome das lojas em texto simples, sem logo, igual em todas as línguas. Assim uma imagem serve às 10 versões. O card da vitrine corta a capa larga no meio, então o essencial fica no centro.
 - **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md). Nada sobe ao CDN sem o OK
   do Bruno.
 - **Imagens inline:** a tabela é texto. Sem print do Reclame Aqui nem das lojas.

@@ -8,8 +8,8 @@ reviewKind: "guia"
 type: "Guia do Código de Indicação" # rótulo novo aprovado pelo Bruno em 12/10/2026 (decisão C), com os 9 termos da seção 10
 status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "o Bruno captura as telas do app (seção 5, M1 a M4; ainda não enviadas em 12/10) e confirma o que o 4CW5Y abre (P2); o Job 2 pode redigir o PT antes; só depois o Job 3"
-bloqueado_por: "capturas M1 a M4 do app e confirmação do que o 4CW5Y abre (P1 e P2, do Bruno); bloqueiam o Job 3, não o Job 2"
+proxima_acao: "redigir o PT (Job 2) com as telas do site móvel (M1 a M3, decisão do Bruno de 12/10/2026); depois o Job 3"
+bloqueado_por: null
 score_autoridade: 68
 score_conversao: 78
 score_ponderado_total: 74
@@ -114,13 +114,13 @@ Android e o iPhone têm o mesmo caminho; usar o aparelho que ele tem e dizer qua
 | M5 | (opcional) A mesma busca no **site** no computador (`br.shein.com`), se o código funcionar lá | FAQ "dá para usar no computador?" (demanda em inglês) |
 | M6 | (opcional) Onde o app mostra "Afiliado" ao buscar a palavra, **sem logar como afiliado** | Seção "como ter o meu" |
 
-- **Imagem Principal (Hero):** M2 e M3 lado a lado sobre o primeiro quadro desfocado, como na capa do guia de Black Friday
+- **Imagem Principal (Hero):** M2 e M3 lado a lado (do site móvel, gravação de 12/10/2026) sobre o primeiro quadro desfocado, como na capa do guia de Black Friday
   da SHEIN, 1600×900 WebP. `imageAlt` descritivo nos 10 idiomas (a interface das capturas está em português; as traduções
   dizem "app da SHEIN Brasil").
 - **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md). Imagem nova só entra pelo fluxo da
-  biblioteca (manifesto sem reordenar, upload com o GO do Bruno). Registrar a origem: "captura de tela do aplicativo SHEIN,
-  feita pelo Em Casa com Cecília em DD/MM/2026".
-- **Imagens inline:** M1, M2, M3, M4 na seção do passo a passo (carrossel `images[]`, com `caption`).
+  biblioteca (manifesto sem reordenar, upload com o GO do Bruno). Registrar a origem: "captura de tela do site móvel da SHEIN Brasil,
+  feita pelo Em Casa com Cecília em 12/10/2026".
+- **Imagens inline:** M1, M2 e M3 na seção do passo a passo (carrossel `images[]`, com `caption`). M4 fica de fora: o passo "onde não colocar" sai sem imagem.
 - **Vídeo:** [x] Nenhum. Um vídeo curto do app seria o ideal, mas fica para depois (seria `primary` e pede metadados).
 
 ---
@@ -360,12 +360,14 @@ Títulos de seção sem marcador de FAQ fora da seção de perguntas (lição 4 
   indicação não vai ali), **não para publicar**: é foto com reflexo e mostra os itens de uma compra pessoal. Se o artigo usar
   imagem nesse passo, pedir um print (não foto) do campo de cupom com um item neutro. Se o guia disser "no aplicativo", faltam as
   mesmas telas no app.
+  - **Decisão (Bruno, 12/10/2026): "use o que temos".** O guia sai com M1 a M3 do site móvel. O texto fala da busca da SHEIN (o app e o site têm a mesma barra) sem dizer que as telas são do app. O passo "onde não colocar" sai sem imagem (M4 não se publica). As telas do app ficam para uma atualização.
 - **P2. O que o `4CW5Y` abre.** Na gravação de 12/10 (site móvel, sem login), a busca pelo código abriu uma página genérica
   "Acho que você pode gostar", com recomendações, e um pop-up de "presente de novo usuário" (pacote de cupons da própria loja, sem
   código à vista). Isso bate com a regra da SHEIN (F2): **sem produtos escolhidos, o código abre a página padrão**. Hipótese forte: a
   lista de seleções (Picks) da Cecília está vazia. **Ação para o Bruno:** montar a lista de seleções no painel de afiliada, para o
   código abrir a curadoria dela, e refazer M3 no app. Até lá o guia não diz que o código abre "as seleções da Cecília"; diz só o que a
   SHEIN publica. O pop-up de novo usuário não entra no artigo (é campanha da loja e muda).
+  - **Decisão (12/10/2026):** a lista de seleções fica para depois. O guia descreve o que a SHEIN publica e o que a busca mostra hoje, sem prometer a curadoria da Cecília.
 - **P3. Reconferir a FAQ de afiliados** (F1 e F2) na hora da redação: F1 é de 29/08/2024 e F2 não tem data; qualquer mudança
   no programa invalida a seção 4.
 - **P4. Decidir o `type`: RESOLVIDA em 12/10/2026 (decisão C).** Rótulo novo da seção 10 aprovado nos 10 idiomas; falta só a

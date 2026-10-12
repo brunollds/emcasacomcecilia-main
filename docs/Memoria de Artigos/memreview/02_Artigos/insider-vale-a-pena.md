@@ -93,6 +93,7 @@ status_i18n: "nao-aplicavel"
 ## 5. Mídia & Planejamento Visual (Imagens & Vídeos)
 
 - **Imagem Principal (Hero):** foto oficial da Tech T-Shirt já no CDN (`/images/reviews/insider/insider-tech-t-shirt-vinho-oficial.webp`, usada no `confiavel`). Para o artigo novo é melhor uma foto oficial diferente: baixar da página da Tech T-Shirt (mesma origem das fotos do dossiê, seção 5), com a licença "foto oficial, no contexto da parceria". Concorrentes: nenhuma foto.
+  - **Decisão (Bruno, 12/10/2026): foto oficial nova.** Em `midia-staging\2026-10-12-imagens-pendentes\insider\` (origem em `..\ORIGEM.md`): `insider-tech-t-shirt-preta-oficial-3748.jpg` (3748×3748, Tech T-Shirt preta, a foto de maior resolução da página do produto) é a capa, recortada em 16:9 pelo Job 4; `insider-tech-t-shirt-nori-green-oficial.jpg` (1000×1000) fica de reserva ou vai na seção da Tech. A foto vinho do `confiavel` não entra.
 - **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md). Nesta etapa, só planejar: sem upload, sem compressão, sem alteração de path local.
 - **Imagens Inline / Seções:**
   - Tech, Daily ou Core: uma foto oficial por linha, com a legenda "foto oficial da Insider".
@@ -294,6 +295,6 @@ Observações para a redação: "não informada" quer dizer que a página consul
 7. **Divergência na Insider:** a página do produto diz "A primeira troca é grátis", e a central diz que toda troca é gratuita. O artigo usa a central. A divergência já está nos alertas do dossiê [[Insider]] (12/10/2026); reconferir se o texto da página está desatualizado.
 8. **Sobreposição com o `confiavel`:** a seção "Vale a pena comprar na Insider Store?" já diz que "se o que você procura é a camiseta mais barata possível, a Insider não é a loja para isso". O artigo novo desenvolve isso com números; não repetir a frase. Se o `confiavel` mudar de H2, rever a mitigação da seção 2. Avisar a sessão dos artigos, sem editar nada aqui.
 9. **Preço volátil:** reconsultar os seis sites na última semana de outubro e antes de qualquer republicação (Black Friday de 27/11). Mirante e Minimal Club mostram promoções com contagem regressiva.
-10. **Mídia:** decidir se a hero é uma foto oficial nova da Tech T-Shirt ou a já publicada no `confiavel`; fotos novas pedem o fluxo do `docs/GUIA-MIDIA-EDITORIAL.md` (origem, compressão, CDN e `--append`). Concorrentes: nenhuma foto.
+10. **Mídia: RESOLVIDA (Bruno, 12/10/2026, "Pode uma foto oficial nova").** A capa é a foto oficial nova da Tech T-Shirt (seção 5). Fotos novas seguem o fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`. Concorrentes: nenhuma foto.
 11. **Verificações do navegador:** o navegador embutido não foi usado e nenhum site pediu CAPTCHA ou verificação. Nada ficou pendente para o Bruno nesse ponto.
 12. **Fora do escopo desta pauta:** Reclame Aqui, CNPJ, loja física, Black Friday e passo a passo do cupom ficam nos quatro artigos do cluster.

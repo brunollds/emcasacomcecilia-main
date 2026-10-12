@@ -39,12 +39,12 @@ não são parceiras e não recebem código nem link de afiliado.
 ---
 
 ## 1. Portões Obrigatórios (Hard Gates)
-- [x] **1. Evidência Factual Suficiente:** Sim para o Nutren (tabela oficial lida no navegador em 11/10/2026, por porção). Para Ensure e Sustagen, só o texto oficial das páginas (proteína por duas porções, cálcio e vitamina D em termos gerais, glúten, lactose no caso do Sustagen). Sem tabela numérica por porção para os concorrentes: os números de concorrente que não tiverem fonte ficam de fora (ver seção 6).
+- [x] **1. Evidência Factual Suficiente:** Sim para o Nutren (tabela oficial lida no navegador em 11/10/2026, por porção) e para o Sustagen Senior Sem Sabor (tabela oficial lida no navegador em 12/10/2026, por porção). Para o Ensure, só o texto oficial da página (proteína por duas porções, vitaminas e minerais em termos gerais, glúten). Sem tabela numérica por porção do Ensure: os números dele que não tiverem fonte ficam de fora (ver seção 6).
 - [x] **2. Segurança Regulatória & Ética:** Sim, com restrições. Não usar "melhor", "ganha massa", "fortalece", "trata", "previne", "substitui refeição" nem "superioridade". Comparar só pelo rótulo. Orientar consulta a médico ou nutricionista. Se o texto citar exceções do CECI, incluir "fórmulas infantis de 0 a 12 meses" (Decreto 9.579/2018, art. 5º; o produto não é fórmula infantil, mas a regra vale para a menção).
 - [x] **3. Fronteira Factual vs Experiência:** Sim. Não há teste próprio. A nota editorial e o texto dizem que a comparação é pelo rótulo e pelas páginas oficiais.
 - [x] **4. Anti-Canibalização:** Sim. Ver seção 2. A ficha do Zero Lactose e o guia de preparo ficam como links internos; o comparativo não repete a ficha inteira.
 - [x] **5. Classe Canônica Válida:** Sim. `guias-praticos-utilidade`, `reviewKind: guia` (comparativo de rótulo, sem veredito de produto testado).
-- [x] **6. Fontes Acessíveis, Exatas & Atuais:** Sim para os dados marcados "Sim" na matriz da seção 6. A tabela numérica de Ensure e Sustagen não foi acessível, e a lactose do Ensure ainda não foi confirmada: ambas marcadas "Não".
+- [x] **6. Fontes Acessíveis, Exatas & Atuais:** Sim para os dados marcados "Sim" na matriz da seção 6. A tabela numérica do Ensure não foi acessível, e a lactose do Ensure ainda não foi confirmada: ambas marcadas "Não". A do Sustagen foi lida em 12/10/2026.
 - [x] **7. Decisão i18n Registrada:** Sim. `somente-pt`, sem `translationKey`.
 
 ---
@@ -74,7 +74,7 @@ não são parceiras e não recebem código nem link de afiliado.
   - Nutren Senior (Nestlé, `nestlenutre.com.br`): tabela por porção, indicação "a partir dos 50 anos", recomendação de consumo "preferencialmente sob orientação de nutricionista ou médico".
   - Ensure (Abbott, `comvoce.abbott/marca/ensure/ensure`): "17 g de proteína em 2 porções diárias", "28 vitaminas e minerais", "alto teor de vitamina D, cálcio e zinco", "NÃO CONTÉM GLÚTEN", latas de 400 g e 850 g.
   - Sustagen Senior (Sustagen, `sustagen.com.br`): "22g de proteínas, em duas porções" (Sem Sabor), "80% da recomendação diária de cálcio" em duas porções preparadas, "NÃO CONTÉM GLÚTEN", "CONTÉM LACTOSE", porção de 40 g com 180 ml de água.
-- **Por que a resposta oficial falha ou é insuficiente:** cada marca publica um dado diferente (dose diária, porção, "alto teor", "80% do cálcio"). Ninguém coloca os três na mesma base. Ensure e Sustagen não publicam a tabela numérica por porção no texto da página, então não dá para comparar cálcio e vitamina D em mg e µg com o Nutren.
+- **Por que a resposta oficial falha ou é insuficiente:** cada marca publica um dado diferente (dose diária, porção, "alto teor", "80% do cálcio"). Ninguém coloca os três na mesma base. O Ensure não publica a tabela numérica por porção no texto da página, então não dá para comparar o cálcio e a vitamina D dele em mg e µg com o Nutren. O Sustagen publica a tabela só em imagem (lida em 12/10/2026).
 - **Qual valor exclusivo nós acrescentamos:** uma leitura lado a lado só do que cada rótulo informa, com a base de cada número, o que não dá para comparar e o que a pessoa deve perguntar ao médico ou nutricionista. Sem "melhor".
 
 ---
@@ -98,6 +98,7 @@ não são parceiras e não recebem código nem link de afiliado.
 
 ## 5. Mídia & Planejamento Visual (Imagens & Vídeos)
 - **Imagem Principal (Hero):** foto ou arte de três latas (Nutren Senior, Ensure, Sustagen), lado a lado, na mesma escala, em 16:9. Não usar a imagem da Nutren do cluster sem conferir a versão (a imagem de capa do cluster é a do Zero Lactose). Nova imagem só pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`. Ensure e Sustagen: as marcas aparecem como referência, sem logo como destaque.
+  - **Material (Bruno, 12/10/2026: "Abri no navegador sustagem e ensure"):** fotos oficiais das marcas em `midia-staging\2026-10-12-imagens-pendentes\nutren-ensure-sustagen\` (origem em `..\ORIGEM.md`): `ensure-baunilha-po-850g-oficial.png` (400×400, fundo transparente, site da Abbott; é a lata de 850 g, com o mesmo rótulo da de 400 g) e `sustagen-senior-sem-sabor-740g-oficial.webp` (1080×1138, site da Sustagen). A lata da Nutren Senior vem de `midia-staging\2026-10-12-fase2\nutren\nutren-senior-sem-sabor-740g-galeria-1.jpg`. A foto do Ensure é pequena: na montagem 16:9, as três latas ficam na altura que ela aguenta sem ampliar (cerca de 400 px).
 - **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md). Não baixar imagens de concorrentes sem o OK do Bruno (regra de download).
 - **Imagens Inline / Seções:** tabela comparativa de texto (não imagem): produto, porção, proteína, cálcio, vitamina D, lactose, glúten, "pode publicar?" já resolvido.
 - **Galeria de Detalhes:** nenhuma prevista.
@@ -135,7 +136,7 @@ não são parceiras e não recebem código nem link de afiliado.
 | Sustagen Senior: "duas porções do produto preparado ... fornecem 80% da recomendação diária de Cálcio e rico em Vitamina D" | Fato oficial (texto) | Mesma página | Texto de benefícios | 2026-10-11 | [x] Sim, citando o texto da página. Não converter em mg |
 | Sustagen Senior: porção de 40 g (3 colheres de sopa cheias) com 180 ml de água | Fato oficial | Mesma página | "Modo de preparo" | 2026-10-11 | [x] Sim |
 | Sustagen Senior: "NÃO CONTÉM GLUTEN" / "CONTÉM LACTOSE" / "CONTÉM DERIVADOS DE LEITE" / "PODE CONTER PEIXE E SOJA" | Fato oficial (texto) | Mesma página | Bloco "Alérgicos" | 2026-10-11 | [x] Sim |
-| Sustagen Senior: tabela nutricional por porção (kcal, carboidratos, gorduras, cálcio em mg, vitamina D em µg) | Dado de tabela | Tabela em imagem (`semsabor3700.png`) na página oficial; o navegador não conseguiu abri-la (a página redirecionou para anúncios) | — | 2026-10-11 | [ ] Não: sem tabela lida |
+| Sustagen Senior Sem Sabor: porção de 40 g (3 colheres de sopa cheias) com 140 kcal, 11 g de proteína (22% VD), 22 g de carboidratos, 0 g de gorduras, 2,5 g de fibras, 397 mg de cálcio (40% VD), 4,8 µg de vitamina D (32% VD), 1,5 µg de B12 (63% VD), 32 mg de vitamina C (32% VD) e 134 mg de sódio | Dado de tabela | Tabela em imagem `semsabor3700.png` da página oficial do Sem Sabor 740 g, lida no navegador | Coluna "40 g" | 2026-10-12 | [x] Sim, por porção. A tabela diz "cerca de 9" porções por embalagem, conta da lata de 370 g: não publicar porções por lata da de 740 g sem o rótulo |
 | Sustagen Senior: "Único FONTE DE FIBRAS" e "Superioridade Nutricional nas 5 principais vitaminas e minerais" | Claim comparativo / superlativo | Mesma página | Texto de benefícios | 2026-10-11 | [ ] Não (superlativo e comparação que o artigo não sustenta) |
 | Ensure, Sustagen ou Nutren "ganha massa muscular" ou "fortalece músculos" como efeito | Alegação de efeito | Proibida como efeito | N/A | N/A | [ ] Não |
 | "Substitui refeição" (Ensure, Sustagen, Nutren) | Alegação | Proibida como recomendação; as páginas dizem "não substitui a alimentação saudável e balanceada" (Sustagen) | N/A | N/A | [ ] Não: só repetir o aviso das páginas |
@@ -177,7 +178,7 @@ não são parceiras e não recebem código nem link de afiliado.
 3. **Nutren Senior:** Zero Lactose (27,5 g), Café com Leite (31,5 g) e Sem Sabor (com o conflito de 55 g). Tabela de uma linha por produto.
 4. **Ensure Baunilha Pó:** o que a Abbott informa no texto (17 g em duas porções, 28 vitaminas e minerais, sem glúten), e o que não dá para comparar (tabela por porção não lida).
 5. **Sustagen Senior Sem Sabor:** o que a Sustagen informa no texto (22 g em duas porções, 80% do cálcio em duas porções, lactose e glúten).
-6. **O que as três marcas não permitem comparar:** cálcio e vitamina D em mg e µg de Ensure e Sustagen; porções em gramas; número de porções por lata.
+6. **O que as três marcas não permitem comparar:** cálcio e vitamina D em mg e µg do Ensure; a porção em gramas do Ensure; o número de porções por lata do Ensure e da lata de 740 g do Sustagen.
 7. **Lactose e glúten:** quem tem intolerância ou restrição, e o que cada rótulo diz.
 8. **Quando procurar médico ou nutricionista:** indicação, posologia e uso com outras dietas; "consumir preferencialmente sob orientação de nutricionista ou médico" (texto da Nestlé).
 9. **Onde entra o cupom CECI:** 10% na loja da Nestlé Nutre (data e reconsulta), não vale para Alfamino e Alfaré; fórmulas infantis de 0 a 12 meses não recebem o cupom.
@@ -193,7 +194,7 @@ não são parceiras e não recebem código nem link de afiliado.
 
 **Pendências e riscos (para a redação):**
 1. Ensure: a tabela por porção não foi lida. O FAQ de lactose e o da porção por lata precisam ser conferidos ao vivo (o acordeão não abriu no navegador). Sem isso, o artigo não afirma nada numérico nem sobre lactose do Ensure.
-2. Sustagen: a tabela por porção está em imagem (`semsabor3700.png`). Ler a imagem pelo navegador com zoom, sem baixar arquivo, e só então publicar números.
+2. Sustagen: **resolvida em 12/10/2026.** A tabela por porção foi lida no navegador (linha da seção 6). Só o número de porções da lata de 740 g segue sem fonte.
 3. Nutren Sem Sabor (sem Zero Lactose): a tabela do kit traz base de 55 g; o modo de uso diz 27,5 g. Conferir o rótulo do produto antes de citar qualquer número dessa versão, e também a lactose.
 4. Preços: só o dossiê de 10/10 e a leitura de 11/10 da Café e do Sem Sabor. Ensure e Sustagen sem preço. Reconsultar até 2026-11-01.
 5. Preço do Zero Lactose: o dossiê traz R$ 190,61 (compra única) e R$ 169,43 (assinatura) em 10/10, e a página da Café com Leite (11/10) traz R$ 169,37 e R$ 150,55. São SKUs diferentes; confirmar o preço de cada um antes de publicar.

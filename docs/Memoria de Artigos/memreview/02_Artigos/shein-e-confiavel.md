@@ -8,7 +8,7 @@ reviewKind: "editorial"
 type: "Editorial"
 status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "redigir o PT (Job 2), registrando as duas fontes de imprensa com porta-voz para o país de origem (decisão B de 12/10); depois o Job 3 com o bloco de mercado de cada idioma, conferido linha a linha contra a seção 6; falta só a capa (seção 10, item 2)"
+proxima_acao: "redigir o PT (Job 2), registrando as duas fontes de imprensa com porta-voz para o país de origem (decisão B de 12/10); depois o Job 3 com o bloco de mercado de cada idioma, conferido linha a linha contra a seção 6; a capa é o print do site (seção 5)"
 bloqueado_por: null
 score_autoridade: 75
 score_conversao: 80
@@ -160,6 +160,7 @@ concorrente ("é mais seguro que a Temu?") não tem resposta aqui: vai para o co
   recomendada: gráfico nosso, sem marca da SHEIN, com a lista "o que conferir antes de pagar" (original,
   sem direito de terceiros). Alternativa: print do site oficial, como o `yesstyle-loja-oficial-banner`, mas o
   banner da SHEIN muda a cada campanha e o direito de uso precisa do OK do Bruno.
+  - **Decisão (Bruno, 12/10/2026): print do site.** `midia-staging\2026-10-12-imagens-pendentes\shein\shein-br-home-2026-10-12.png` (1600×900, página inicial da SHEIN Brasil sem login, capturada em 12/10/2026; o aviso de cookies e o convite de login foram escondidos na captura, sem aceitar nada). Mostra a campanha do dia ("Hora de brilhar"), que muda: a legenda leva a data da captura. Nas 9 traduções, o Job 4 decide entre o mesmo print, com o `imageAlt` dizendo "site da SHEIN Brasil", e um print do site da SHEIN do mercado de cada idioma.
 - **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md): compressão, origem e
   licença, caminho local, upload verificado e `--append`. Nada sobe ao CDN sem o OK do Bruno.
 - **Imagens inline:** o quadro do Reclame Aqui é tabela em texto, não print (a página muda; print de
@@ -343,7 +344,7 @@ coisa?". "Por que é barata?" fica numa frase atribuída à SHEIN no corpo, não
 1. **(A) Bloco de mercado nas 9 traduções: RESOLVIDA, "Sim".** Exceção ao item 10 do Job 4 aprovada: núcleo igual
    + bloco de mercado por idioma, com fonte oficial própria por fato (regra escrita na seção 8). Job 3 e Job 4
    conferem o bloco linha a linha contra a matriz, não contra o PT.
-2. **Capa (em aberto):** gráfico nosso (recomendado) ou print do site; não reusar a foto da Cecília (seção 5).
+2. **Capa: RESOLVIDA (Bruno, 12/10/2026): print do site** (seção 5).
 3. **(B) "A SHEIN é chinesa?": RESOLVIDA, "Pode ser".** Duas fontes de imprensa que citam porta-voz da empresa
    são aceitas (mesmo precedente do calendário da Black Friday). A linha da matriz continua "Não" até o redator
    (Job 2) registrar as duas fontes com veículo, data e a fala do porta-voz; a resposta é uma frase, atribuída. O
