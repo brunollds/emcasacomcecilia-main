@@ -123,7 +123,7 @@ status_i18n: "nao-aplicavel"
 | "Único 100% lavável do mercado" (Airgelly, JSON) | Alegação da marca | `travesseiro-airgelly.js` | Descrição | — | [ ] Não (o guia disse "do catálogo") |
 | Cecília testou algum travesseiro IWS, Emma ou Ortobom | Experiência própria | — | — | — | [ ] Não (Bruno: sem travesseiro IWS em uso) |
 | CECIEMCASA dá 10% no site da IWS, "pode variar conforme campanha" | Condição comercial | `src/lib/couponsData.ts` (slug `i-wanna-sleep`) | Entrada da IWS | 2026-10-11 | [x] Sim, só como condição da IWS. Não dizer que vale em colchão (ver seção 12) |
-| Código de terceiros (EMMADAY12 na Emma; DATADUPLA na Ortobom) | Código de terceiro | Telas da Emma e da Ortobom | Selos "+10% OFF" e "58% + EMMADAY12" | — | [ ] Não. Não citar nenhum código de outra marca |
+| Código de terceiros (os códigos promocionais da Emma e da Ortobom) | Código de terceiro | Telas da Emma e da Ortobom | Selos "+10% OFF" e "58% + código da Emma" | — | [ ] Não. Não citar nenhum código de outra marca |
 
 Avaliações de clientes que aparecem nas páginas da IWS (4,7 e 4,8, com 99 a 2.078 avaliações) são da própria loja. Não usar como prova de qualidade independente.
 
