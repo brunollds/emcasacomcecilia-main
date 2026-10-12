@@ -6,9 +6,11 @@ parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy (decisão do Bruno), depois que a oferta nova da YesStyle entrar"
+proxima_acao: "nenhuma"
+publicado_em: "2026-10-12"
+nota_publicacao: "Publicado no PR #65 em 12/10/2026 (decisão do Bruno), com a capa das três latas no CDN."
 bloqueado_por: null
 score_autoridade: 85
 score_conversao: 85

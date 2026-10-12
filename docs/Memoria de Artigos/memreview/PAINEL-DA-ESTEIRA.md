@@ -7,11 +7,6 @@
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
-- [ ] [[insider-vale-a-pena]] — Insider / Insider vale a pena? Tech T-Shirt e cuecas comparadas com Minimal Club, Mirante, Alpha Co, Basicamente e Hering (Score Aut: 70 / Conv: 85; fase 2 da publicação das 17 pautas)
-- [ ] [[tabela-de-medidas-insider]] — Insider / Tabela de medidas Insider: como escolher o tamanho (Score Aut: 75 / Conv: 80; fase 2)
-- [ ] [[nutren-protein-ou-whey]] — Nestlé Nutre / Nutren Protein ou whey protein: como escolher pelo rótulo (Score Aut: 75 / Conv: 85; fase 2)
-- [ ] [[nestle-nutre-produtos-para-que-servem]] — Nestlé Nutre / Qual Nutren escolher: Senior, Protein, Control ou Active (Score Aut: 80 / Conv: 65; fase 2, termina o rascunho id 224)
-- [ ] [[magazine-voce-e-confiavel]] — Magalu / Magazine Você é confiável? (Score Aut: 75 / Conv: 80; fase 2, termina o rascunho id 231)
 - [ ] [[quanto-custa-capsula-dolce-gusto]] — Dolce Gusto / Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara (Score Aut: 81 / Conv: 75; fase 3)
 - [ ] [[melhores-capsulas-dolce-gusto-2026]] — Dolce Gusto / Qual sabor de cápsula Dolce Gusto escolher (Score Aut: 76 / Conv: 84; fase 3, termina o rascunho id 218)
 - [ ] [[shein-e-confiavel]] — SHEIN / SHEIN é confiável? Família de 10 idiomas (Score Aut: 75 / Conv: 80; fase 4)
@@ -48,11 +43,11 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- [ ] [[nutren-senior-ensure-ou-sustagen-senior]] — Nestlé Nutre / Nutren Senior, Ensure ou Sustagen Senior: comparação pelo rótulo (fase 1 da publicação das 17 pautas; capa nova no CDN)
-- [ ] [[dolce-gusto-maquinas-qual-escolher]] — Dolce Gusto / Qual Dolce Gusto comprar: Mini Me 2.0, Genio S ou NEO (fase 1; rascunho id 219 reescrito, preços de 12/10)
-- [ ] [[porto-brasil-e-boa]] — Let's Eat It / Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e comparação com a Oxford (fase 1; capa nova no CDN)
-- [ ] [[travesseiro-i-wanna-sleep-ou-emma]] — I Wanna Sleep / Travesseiro I Wanna Sleep ou Emma (e Ortobom) (fase 1; capa nova no CDN)
-- [ ] [[le-creuset-vale-a-pena]] — Let's Eat It / Le Creuset vale a pena? Indução, forno, lava-louças e queimado, e a comparação com Staub (fase 1; capa nova no CDN)
+- [ ] [[insider-vale-a-pena]] — Insider / Insider vale a pena? Tech T-Shirt e cuecas comparadas com Minimal Club, Mirante, Alpha Co, Basicamente e Hering (fase 2 da publicação das 17 pautas; capa nova esperando o CDN)
+- [ ] [[tabela-de-medidas-insider]] — Insider / Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino) (fase 2; capa e tabela da cueca novas esperando o CDN)
+- [ ] [[nutren-protein-ou-whey]] — Nestlé Nutre / Nutren Protein ou whey protein: como escolher pelo rótulo (fase 2; capa nova esperando o CDN)
+- [ ] [[nestle-nutre-produtos-para-que-servem]] — Nestlé Nutre / Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um (fase 2; rascunho id 224 reescrito, capa nova esperando o CDN)
+- [ ] [[magazine-voce-e-confiavel]] — Magalu / Magazine Você é confiável? É golpe? Como funciona a loja de influenciador do Magalu (fase 2; rascunho id 231 reescrito, capa nova esperando o CDN)
 
 ---
 
@@ -67,6 +62,11 @@
 - [x] [[black-friday-magalu]] — Magalu / Black Friday Magalu 2026: datas, eletro vendido pelo Magalu e as faixas do código da Cecília, terceira rodada (No ar em 11/10/2026, PR #52; capa da Lu no CDN; preços de 10/10, reconferidos na última semana de outubro) 🚀
 - [x] [[black-friday-yesstyle]] — YesStyle / Black Friday YesStyle 2026: o calendário oficial de 2024 e 2025, as faixas iguais às do ano todo, os dias de 15% sem mínimo e o CECILIA010, família de 10 idiomas, terceira rodada (No ar em 11/10/2026, PR #54; capa provisória do vídeo da Abib no CDN; capa e datas trocadas quando a YesStyle publicar a Black Friday de 2026) 🚀
 - [x] [[black-friday-shein]] — SHEIN / Black Friday SHEIN 2026: o calendário de 2023 a 2025, o imposto de importação zero até US$ 50 e o ICMS que continua, Envio Nacional, cupons, pontos e devolução, família de 10 idiomas (a primeira da SHEIN), terceira rodada (No ar em 11/10/2026, PR #56; capa do haul no CDN; calendário atualizado quando a SHEIN anunciar a campanha de 2026) 🚀
+- [x] [[nutren-senior-ensure-ou-sustagen-senior]] — Nestlé Nutre / Nutren Senior, Ensure ou Sustagen Senior: comparação pelo rótulo (No ar em 12/10/2026, PR #65; fase 1 da publicação das 17 pautas) 🚀
+- [x] [[dolce-gusto-maquinas-qual-escolher]] — Dolce Gusto / Qual Dolce Gusto comprar: Mini Me 2.0, Genio S ou NEO (No ar em 12/10/2026, PR #65; fase 1 da publicação das 17 pautas) 🚀
+- [x] [[porto-brasil-e-boa]] — Let's Eat It / Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e comparação com a Oxford (No ar em 12/10/2026, PR #65; fase 1 da publicação das 17 pautas) 🚀
+- [x] [[travesseiro-i-wanna-sleep-ou-emma]] — I Wanna Sleep / Travesseiro I Wanna Sleep ou Emma (e Ortobom) (No ar em 12/10/2026, PR #65; fase 1 da publicação das 17 pautas) 🚀
+- [x] [[le-creuset-vale-a-pena]] — Let's Eat It / Le Creuset vale a pena? Indução, forno, lava-louças e queimado, e a comparação com Staub (No ar em 12/10/2026, PR #65; fase 1 da publicação das 17 pautas) 🚀
 - [x] [[poltrona-de-amamentacao-como-escolher]] — DAMIE / Poltrona de amamentação: como escolher entre com puff, com balanço e reclinável (No ar em 07/10/2026, `4b391c4`; reescrito com fatos verificados, três faixas de preço com links da Amazon e do Mercado Livre, giro de 180°, herói real no CDN, IndexNow enviado) 🚀
 - [x] [[poltrona-de-amamentacao-vs-poltrona-reclinavel]] — DAMIE / Poltrona de amamentação ou reclinável: qual vale mais a pena? (No ar em 07/10/2026, `4b391c4`; as quatro bases da DAMIE com preços, uso depois da amamentação com os opcionais, conta do tempo de uso com preços reais, herói real no CDN, IndexNow enviado) 🚀
 - [x] [[insider-store-e-confiavel]] — Insider Store / É confiável? CNPJ, loja física, trocas, garantia e reputação (No ar em 05/10/2026, `2887c4c`; reescrito com fatos verificados na central de ajuda, termos e BrasilAPI, sem Lenzing, fotos oficiais no CDN, IndexNow enviado; revisto em 07/10/2026 para citar os 15% OFF do cupom, no ar em 08/10/2026, `19ea553`) 🚀

@@ -34243,7 +34243,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "nestle-nutre-produtos-para-que-servem",
-        "title": "Nestlé Nutre: produtos, para que servem e como comprar"
+        "title": "Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um"
       }
     ],
     "publishedAtISO": "2026-08-05",
@@ -34253,10 +34253,11 @@ export const reviewsData: unknown[] = [
   {
     "id": 224,
     "slug": "nestle-nutre-produtos-para-que-servem",
-    "title": "Nestlé Nutre: produtos, para que servem e como comprar",
-    "type": "Editorial",
+    "title": "Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um",
+    "seoTitle": "Qual Nutren escolher? Senior, Protein, Control ou Active",
+    "type": "Guia de Escolha",
     "category": "guias-praticos-utilidade",
-    "reviewKind": "editorial",
+    "reviewKind": "guia",
     "author": {
       "name": "Cecília Mauad",
       "slug": "cecilia-mauad",
@@ -34264,75 +34265,280 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Guia da linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra, Fortify e Mulher. Entenda a indicação de cada produto, formas de consumo e como comprar.",
-    "metaDescription": "Guia da linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra e Fortify. Veja a indicação de cada fórmula e como consultar preços e cupons no site.",
-    "publishedAt": "Draft",
-    "draft": true,
-    "image": "/images/reviews/nutren/linha-produtos-hero.webp",
-    "imageAlt": "Linha de produtos Nestlé Nutre",
-    "imageFit": "cover",
+    "description": "Para quem a Nestlé indica cada linha Nutren (Senior, Protein, Control e Active), nove versões lado a lado pelo rótulo, com cafeína, glúten, lactose e açúcares, e onde entra o cupom CECI.",
+    "metaDescription": "Qual Nutren escolher? Senior, Protein, Control e Active lado a lado pelo rótulo: para quem é cada um, proteína, cafeína, glúten, lactose e o cupom CECI.",
+    "publishedAt": "12 de outubro de 2026",
+    "publishedAtISO": "2026-10-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nutren/nutren-linha-senior-protein-control-active.webp",
+    "imageAlt": "Latas de Nutren Senior Sem Sabor 740 g, Nutren Protein Baunilha 400 g, Nutren Control Baunilha 380 g e Nutren Active Chocolate 400 g lado a lado",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
       {
-        "heading": "O que é a Nestlé Nutre?",
+        "heading": "Resposta rápida: qual Nutren é para quem",
         "paragraphs": [
-          "A Nestlé Nutre é uma marca da Nestlé Health Science voltada à nutrição e suplementação. O propósito declarado da marca é ajudar pessoas, promovendo saúde e bem-estar com soluções inovadoras e personalizadas. A linha abrange categorias como suplementação, nutrição clínica, nutrição pediátrica e envelhecimento saudável, com foco em áreas como metabolismo, saúde gastrointestinal e neurológica. Os produtos são desenvolvidos para complementar a alimentação diária e atender a necessidades específicas de diferentes perfis de consumidores, desde adultos em processo de envelhecimento até pessoas com demandas nutricionais controladas. A marca opera exclusivamente no Brasil por meio do site oficial, onde é possível adquirir os produtos diretamente."
+          "Não existe \"o melhor Nutren\": cada linha tem um público definido pela própria Nestlé. Comparamos só rótulos e páginas oficiais, lidos em 12/10/2026, sem teste próprio."
         ],
-        "bullets": []
+        "bullets": [
+          "Nutren Senior: linha para adultos acima dos 50 anos.",
+          "Nutren Protein: para jovens e adultos que querem \"foco e energia\"; o pó tem 80 mg de cafeína por porção e não é para gestantes, lactantes e crianças.",
+          "Nutren Control: para o manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação de nutricionista ou médico.",
+          "Nutren Active: complemento para jovens e adultos.",
+          "As porções mudam de uma linha para outra (27,5 g, 31,5 g, 40 g, 42 g de pó; 200 ou 260 ml de bebida). Compare a tabela com isso em mente."
+        ]
       },
       {
-        "heading": "Nutren Senior",
+        "heading": "Como a Nestlé separa a linha Nutren",
         "paragraphs": [
-          "O Nutren Senior é uma fórmula desenvolvida para adultos com 50 anos ou mais. A linha conta com opções tradicionais e com a variante específica Zero Lactose para consumidores com intolerância.",
-          "A composição é enriquecida com vitaminas A, E, C, D, K e do complexo B, além de minerais como cálcio, ferro, zinco e selênio. O produto está disponível em pó (latas de 370g e 740g, com valores de referência verificados em agosto de 2026 sujeitos a ofertas) e na versão pronta para beber (RTD 200ml)."
+          "Parte da linha é de consumo: Senior, Protein, Control e Active, que este guia compara, além de Just Protein, Creatina, Mulher e Kids. A outra parte é de nutrição clínica, como os Nutren 1.5, 2.0, Ultra e Fortify, que a loja apresenta como Nutren Medical ou nutrição enteral e oral. Esses seguem a orientação do médico ou nutricionista e ficam fora da tabela."
+        ]
+      },
+      {
+        "heading": "As nove versões lado a lado",
+        "comparisonTable": {
+          "caption": "Valores por porção das páginas e rótulos da Nestlé Nutre em 12/10/2026. As porções são diferentes: não ordene por proteína. \"Com leite\" é o preparo com 180 ml de leite desnatado, como a página informa. Traço: a página ou a tabela não traz o dado.",
+          "headers": [
+            "Versão",
+            "Porção",
+            "Calorias",
+            "Proteína",
+            "Açúcares totais / adicionados",
+            "Lactose",
+            "Glúten",
+            "Cafeína"
+          ],
+          "rows": [
+            [
+              "Senior Sem Sabor Zero Lactose, lata de 740 g",
+              "27,5 g",
+              "113 kcal",
+              "10 g",
+              "5 g / 3 g",
+              "0 g",
+              "Não contém (FAQ)",
+              "—"
+            ],
+            [
+              "Senior Café com Leite, lata de 740 g",
+              "31,5 g",
+              "130 kcal",
+              "11 g (17 g com leite)",
+              "5,7 g / 0,4 g",
+              "—",
+              "Não contém (FAQ)",
+              "—"
+            ],
+            [
+              "Senior Premium Baunilha, lata de 370 g",
+              "40 g",
+              "166 kcal",
+              "16 g",
+              "11 g / 0,1 g",
+              "Contém (página)",
+              "Não contém (página)",
+              "—"
+            ],
+            [
+              "Senior pronto Chocolate, 200 ml",
+              "200 ml",
+              "198 kcal",
+              "16 g",
+              "1,2 g / 0,3 g",
+              "0 g",
+              "Não contém (FAQ)",
+              "—"
+            ],
+            [
+              "Protein pó Baunilha, lata de 400 g",
+              "31,5 g",
+              "120 kcal",
+              "14 g (20 g com leite)",
+              "10 g / 0,1 g",
+              "Contém (FAQ)",
+              "Contém (FAQ)",
+              "80 mg"
+            ],
+            [
+              "Protein pronto Baunilha, 260 ml",
+              "260 ml",
+              "112 kcal",
+              "15 g",
+              "12 g / 0 g",
+              "0 g",
+              "—",
+              "—"
+            ],
+            [
+              "Control pó Baunilha, lata de 380 g",
+              "42 g, com 180 ml de água",
+              "186 kcal",
+              "15 g",
+              "5 g / 4,8 g",
+              "0 g",
+              "Não contém (rótulo)",
+              "—"
+            ],
+            [
+              "Control pronto Baunilha, 200 ml",
+              "200 ml",
+              "212 kcal",
+              "15 g",
+              "4,6 g / 4,6 g",
+              "0 g",
+              "Não contém (FAQ)",
+              "—"
+            ],
+            [
+              "Active pó Baunilha, lata de 400 g",
+              "31,5 g",
+              "114 kcal",
+              "7,5 g (14 g com leite)",
+              "12 g / 1,5 g",
+              "Contém (FAQ)",
+              "Contém (FAQ)",
+              "—"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Nutren Senior: para que serve e quais versões existem",
+        "paragraphs": [
+          "A Nestlé descreve o Senior como a linha \"desenvolvida especialmente para a nutrição de adultos acima dos 50 anos\". A indicação nas páginas de produto é \"para pessoas a partir dos 50 anos\" que procuram nutrientes que auxiliem a imunidade, a vitalidade e a saúde de ossos e músculos. É complemento alimentar, não remédio.",
+          "Há o pó em latas de 740 g (Sem Sabor, Zero Lactose e sabores), o Premium de 370 g, que segundo a Nestlé tem \"colágeno FORTIGEL® e ômega 3\", e o pronto para beber de 200 ml, isento de lactose. O Senior Sem Sabor de 740 g (o que não é Zero Lactose) traz na lata 20 g de proteína na porção diária de 55 g, tomada em duas doses de 27,5 g. Pelo FAQ da linha, o pó e o pronto não contêm glúten; só as cápsulas Senior A-Z contêm."
         ],
-        "bullets": [],
+        "images": [
+          {
+            "src": "/images/reviews/nutren/nutren-senior-linha-hero.webp",
+            "alt": "Linha Nutren Senior: cápsulas A-Z, lata de 740 g Zero Lactose Sem Sabor, lata Premium de 370 g e embalagem pronta de 200 ml sabor chocolate",
+            "caption": "A linha Nutren Senior. Imagem oficial da Nestlé Nutre.",
+            "objectFit": "contain"
+          }
+        ],
+        "postParagraphs": [
+          "Se você já escolheu o Senior, o preparo sem grumos e a diferença entre as latas estão no nosso guia de como tomar."
+        ],
         "links": [
           {
-            "label": "Ver opções da linha Nutren Senior na loja oficial",
-            "href": "https://www.nestlenutre.com.br/"
+            "label": "Como tomar Nutren Senior sem empelotar",
+            "href": "/reviews/nutren-senior-como-tomar-sem-empelotar"
           }
         ]
       },
       {
-        "heading": "Nutren Control",
+        "heading": "Nutren Protein: pó com cafeína ou garrafa pronta",
         "paragraphs": [
-          "O Nutren Control é indicado para o suporte nutricional no controle dietético de pessoas com necessidades no metabolismo de açúcares. Contém fibras e carboidratos de absorção lenta, comercializado em pó e pronto para beber. Os valores de referência variam conforme embalagem e promoções da loja oficial consultadas em agosto de 2026. O uso deve acompanhar orientação profissional."
+          "O Nutren Protein em pó é um suplemento \"com Whey Protein, Cafeína e 20 vitaminas e minerais\", em baunilha e chocolate (400 g; o de 800 g só em baunilha). Na porção de 31,5 g são 14 g de proteína e 80 mg de cafeína; os 20 g do destaque valem com 180 ml de leite desnatado. A página indica \"para jovens e adultos que querem mais foco e energia no dia a dia corrido\" e avisa que ele \"não deve ser consumido por gestantes, lactantes e crianças\". O FAQ diz que contém lactose e glúten.",
+          "A garrafa pronta de 260 ml é outro produto: 15 g de proteína, 112 kcal e lactose 0 g na tabela, que não traz linha de cafeína. Nenhum dos dois é o Nutren Just Protein, o whey isolado sem sabor da Nestlé. A comparação com whey e com a YoPRO está no nosso guia do Nutren Protein."
         ],
-        "bullets": []
-      },
-      {
-        "heading": "Nutren 2.0",
-        "paragraphs": [
-          "O Nutren 2.0 é uma fórmula hipercalórica (2,0 kcal/mL), hiperlipídica e normoproteica, isenta de lactose e sem glúten, voltada a situações que demandam alta densidade calórica em volumes reduzidos. Comercializado em embalagem pronta para beber de 200ml, com valor de referência individual consultado em agosto de 2026 sujeito a pacotes e promoções."
-        ],
-        "bullets": []
-      },
-      {
-        "heading": "Nutren Ultra",
-        "paragraphs": [
-          "O Nutren Ultra é uma bebida pronta rica em proteínas (20g por porção) e 282 kcal em embalagem de 125ml, com 17 vitaminas e minerais. É voltada para praticidade de consumo no dia a dia, com preço de referência por unidade verificado em agosto de 2026 na loja oficial."
-        ],
-        "bullets": []
-      },
-      {
-        "heading": "Nutren Fortify e Nutren Mulher",
-        "paragraphs": [
-          "O Nutren Fortify é uma formulação que inclui ômega-3 e proteínas, com preço aproximado similar ao da linha Senior. O produto é voltado para o suporte nutricional com foco em componentes específicos que integram a dieta de adultos. Já o Nutren Mulher foi desenvolvido com colágeno, atendendo a demandas relacionadas à beleza e nutrição feminina. Ambos os produtos devem ser considerados como complementos alimentares e não como substitutos de refeições, devendo ser utilizados conforme as orientações do rótulo. A escolha entre as versões depende dos objetivos nutricionais individuais de cada consumidor."
-        ],
-        "bullets": []
-      },
-      {
-        "heading": "Como comprar e uso responsável",
-        "paragraphs": [
-          "Os produtos da linha Nestlé Nutre podem ser adquiridos no site oficial da marca. Os preços informados neste guia são referenciais (consultados em agosto de 2026) e podem oscilar conforme campanhas promocionais e frete.",
-          "No checkout, o consumidor pode testar o cupom CECI para obter 10% de desconto em produtos elegíveis (com exceção de Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses, como NAN). Recomenda-se ler o rótulo completo de cada produto antes de iniciar o uso."
-        ],
-        "bullets": [],
         "links": [
           {
-            "label": "Ver o cupom disponível para produtos Nutren",
+            "label": "Nutren Protein ou whey protein: como escolher pelo rótulo, com YoPRO e Nutren Senior",
+            "href": "/reviews/nutren-protein-ou-whey"
+          }
+        ]
+      },
+      {
+        "heading": "Nutren Control: o que a Nestlé diz e o que a tabela mostra",
+        "paragraphs": [
+          "A indicação da Nestlé para o Control é esta: \"para o manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares\", com a recomendação de \"consumir preferencialmente sob orientação de nutricionista ou médico\". A página do produto diz que ele é isento de sacarose, frutose, glicose e lactose, e a tabela traz esses quatro com 0 g. Mesmo assim, ela mostra 5 g de açúcares totais, 4,8 g deles adicionados, na porção de 42 g do pó, e 4,6 g, todos adicionados, na embalagem pronta de 200 ml.",
+          "O rótulo da lata de 380 g dá o preparo: 5 colheres de sopa (42 g) em um copo com 50 ml de água, misturar até formar uma pasta cremosa e juntar mais 130 ml de água. A lata destaca caseinato e whey protein como proteínas. O rótulo diz que o pó não contém glúten e contém derivados de leite e soja, e o FAQ diz o mesmo do glúten no pronto. O rótulo ainda avisa que o pó é para adultos e não é adequado como única fonte de nutrição. Leve a tabela ao médico ou nutricionista antes de escolher."
+        ]
+      },
+      {
+        "heading": "Nutren Active: o complemento para jovens e adultos",
+        "paragraphs": [
+          "A Nestlé descreve o Active como complemento alimentar \"para jovens e adultos que precisam de mais energia e disposição para encarar a rotina agitada\". A diferença para o Senior, na resposta da própria marca: \"Nutren Active foi feito para jovens e adultos e Nutren Senior para pessoas com mais de 50 anos\".",
+          "A lata tem 400 g, em baunilha, chocolate e morango. Na porção de 31,5 g da baunilha são 7,5 g de proteína, ou 14 g com 180 ml de leite desnatado. O FAQ diz que o Active contém lactose e glúten e que ele não pode ser fervido: se quiser quente, junte leite quente."
+        ]
+      },
+      {
+        "heading": "O que mais existe na linha e não entra na tabela",
+        "bullets": [
+          "Nutren Just Protein: whey protein isolado sem sabor, com ficha própria no nosso guia.",
+          "Nutren Creatina: suplemento de creatina, também com guia próprio.",
+          "Nutren Mulher: linha com colágeno, em pó e cápsulas.",
+          "Nutren Kids e cápsulas A-Z: existem na loja e ficam fora deste guia.",
+          "Nutren Medical (1.5, 2.0, Ultra, Fortify): nutrição clínica, só com orientação do médico ou nutricionista."
+        ]
+      },
+      {
+        "heading": "Cafeína, glúten, lactose e açúcares: o que muda entre as linhas",
+        "bullets": [
+          "Cafeína: das tabelas lidas, só a do Nutren Protein em pó traz cafeína, 80 mg por porção; a da garrafa de 260 ml não traz linha de cafeína.",
+          "Glúten: o Protein em pó e o Active contêm; Senior em pó e pronto e Control não contêm.",
+          "Lactose: o Senior Zero Lactose, o Senior pronto, o Control e a garrafa do Protein trazem 0 g; o Protein em pó e o Active contêm, segundo o FAQ, e a página do Senior Premium também diz que contém.",
+          "Açúcares: as tabelas do Protein em pó e do Active, ambos de baunilha, trazem 0,1 g e 1,5 g de açúcares adicionados por porção. O Control, isento de sacarose, frutose, glicose e lactose, tem 4,8 g de açúcares adicionados no pó e 4,6 g no pronto."
+        ]
+      },
+      {
+        "heading": "Quando falar com médico ou nutricionista",
+        "paragraphs": [
+          "Nos FAQs da Nestlé, diabetes e cirurgia bariátrica (no Protein) e gestação, hipertensão e câncer (no Active) são casos em que a marca manda procurar o médico ou nutricionista. O Control, pelo rótulo, deve ser consumido de preferência com essa orientação. Este guia ajuda a ler o rótulo, mas não escolhe o produto para uma condição de saúde."
+        ]
+      },
+      {
+        "heading": "Preços em 12/10/2026 e o cupom CECI",
+        "comparisonTable": {
+          "caption": "Preços da loja oficial da Nestlé Nutre em 12/10/2026, na compra única. Mudam com promoção: confira no carrinho.",
+          "headers": [
+            "Produto",
+            "Preço na compra única",
+            "Preço cheio exibido"
+          ],
+          "rows": [
+            [
+              "Nutren Senior Sem Sabor, 740 g",
+              "R$ 169,37",
+              "R$ 188,19"
+            ],
+            [
+              "Nutren Senior Sem Sabor Zero Lactose, 740 g",
+              "R$ 190,61",
+              "R$ 211,79"
+            ],
+            [
+              "Nutren Senior Premium Baunilha, 370 g",
+              "R$ 137,18",
+              "R$ 161,39"
+            ],
+            [
+              "Nutren Protein, 400 g (baunilha ou chocolate)",
+              "R$ 79,72",
+              "R$ 93,79"
+            ],
+            [
+              "Nutren Protein Baunilha, 800 g",
+              "R$ 134,71",
+              "R$ 168,39"
+            ],
+            [
+              "Nutren Protein pronto, 260 ml",
+              "R$ 10,59",
+              "—"
+            ],
+            [
+              "Nutren Control Baunilha, 740 g (a tabela nutricional acima é a da lata de 380 g)",
+              "R$ 171,91",
+              "R$ 214,89"
+            ],
+            [
+              "Nutren Active Baunilha, 400 g",
+              "R$ 50,79",
+              "R$ 63,49"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre (conferido em 04/10/2026). Não vale para Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
+        ],
+        "links": [
+          {
+            "label": "Cupom Nestlé Nutre: CECI",
             "href": "/cupons/nestle-nutre"
           }
         ]
@@ -34340,43 +34546,52 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual produto da linha Nutren é indicado para idosos? O Nutren Senior é voltado para adultos com 50 anos ou mais, com vitaminas, minerais e fibras.",
-          "Preciso de receita médica para comprar Nutren? Não, mas itens de nutrição clínica devem ser usados conforme o rótulo e, quando necessário, com orientação de profissional de saúde.",
-          "O cupom CECI pode ser testado para toda a linha Nutren? Funciona para a maior parte dos produtos. Alfamino e Alfaré ficam de fora da promoção, e o cupom não deve ser usado em fórmulas infantis para bebês de 0 a 12 meses, em que a lei proíbe cupons e descontos.",
-          "Qual a diferença entre Nutren 2.0 e Nutren Ultra? O Nutren 2.0 é hipercalórico (2,0 kcal/mL) e indicado para nutrição clínica; o Nutren Ultra é uma bebida pronta rica em proteínas (20g por porção) para consumo do dia a dia.",
-          "Nutren 2.0 é para engordar? O Nutren 2.0 é uma fórmula hipercalórica (2,0 kcal/mL) indicada para situações que exigem alta oferta calórica em volumes restritos. Ele não é um 'engordante', mas um suplemento de nutrição clínica para reposição energética intensa, e deve ser usado sob orientação de profissional de saúde.",
-          "Nutren Ultra pode substituir uma refeição? O Nutren Ultra é uma fórmula pronta para consumo, rica em proteínas (20g por porção) e 17 vitaminas e minerais. Ele complementa a alimentação, mas não substitui refeições completas. É ideal para quem precisa de praticidade e um boost proteico no dia a dia.",
-          "Nutren Mulher melhora a pele e o cabelo? O Nutren Mulher contém colágeno em sua formulação, nutriente associado à saúde da pele, unhas e cabelos. No entanto, ele é um complemento alimentar e não um medicamento cosmético. Os resultados variam de pessoa para pessoa e dependem da consistência de uso e da alimentação geral.",
-          "Cupom Nestlé Nutren: onde encontrar? O cupom CECI é o código de parceria que pode aplicar 10% OFF no checkout em produtos elegíveis do blog Em Casa com Cecília com a Nestlé Nutre. Ele pode conceder 10% de desconto na maioria dos produtos da loja oficial e pode ser aplicado diretamente no campo de cupom no checkout.",
-          "Nutren desconto laboratório: há desconto para laboratórios? Não há desconto específico para laboratórios no site oficial da Nestlé Nutre. O cupom CECI é válido para compras de pessoa física e pode ser usado por profissionais de saúde em compras pessoais, mas não substitui contratos corporativos ou vendas diretas para instituições.",
-          "Promo desconto Nutren Senior: existe promoção específica? O cupom CECI pode ser testado no checkout para tentar obter 10% de desconto em Nutren Senior e demais produtos elegíveis da linha, conforme as regras ativas na loja oficial.",
-          "Nestlé meu desconto nutrição: existe programa de desconto? Não existe um programa com esse nome exato, mas a Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês. É um benefício separado da nossa parceria: o cupom CECI pode conceder 10% de desconto sem necessidade de cadastro em nenhum programa.",
-          "Programa de desconto Nutren: como funciona? A Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês. O cupom CECI pode ser testado direto no checkout para tentar obter 10% de desconto em itens elegíveis.",
-          "Cupom Nestlé: o CECI vale para outros produtos Nestlé? Não. O cupom CECI é válido exclusivamente para produtos vendidos no site oficial da Nestlé Nutre. Não pode ser testado para produtos de outras marcas Nestlé como Nescafé, Kit Kat, Purina ou outros e-commerces.",
-          "Onde comprar Nestlé Nutre com desconto? Os produtos Nestlé Nutre são vendidos exclusivamente no site oficial da marca. É possível testar o cupom CECI no checkout para tentar obter 10% de desconto em produtos elegíveis (exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses, conforme as condições vigentes na loja oficial). Não há necessidade de receita médica para a compra."
+          "Qual Nutren escolher? Depende de quem vai usar e do que o médico ou nutricionista indicou: a Nestlé destina o Senior a quem tem mais de 50 anos, o Active a jovens e adultos, o Protein a quem quer foco e energia (com 80 mg de cafeína no pó) e o Control ao manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação de nutricionista ou médico.",
+          "Para que serve o Nutren Senior? Segundo a Nestlé, é para pessoas a partir dos 50 anos que procuram nutrientes que auxiliem a imunidade, a vitalidade e a saúde de ossos e músculos; não é remédio.",
+          "Nutren Protein ou Nutren Senior: qual o melhor? Não há um melhor: o Senior é para quem tem mais de 50 anos e o Protein para jovens e adultos, e o Protein em pó tem cafeína, lactose e glúten, enquanto o Senior em pó e pronto não contém glúten.",
+          "Para que serve o Nutren Control? A Nestlé o indica para o manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação de nutricionista ou médico.",
+          "Nutren Control é para diabéticos? A indicação da Nestlé fala em pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação profissional; para quem tem diabetes, quem decide é o médico ou nutricionista que acompanha a pessoa.",
+          "Nutren Control tem açúcar? Tem açúcares na tabela: 5 g totais, 4,8 g adicionados, por 42 g do pó, e 4,6 g, todos adicionados, no pronto de 200 ml, com sacarose, frutose, glicose e lactose em 0 g; quem precisa controlar açúcares deve levar a tabela ao médico ou nutricionista.",
+          "Como preparar o Nutren Control em pó? Pelo rótulo da lata de 380 g: 5 colheres de sopa (42 g) com 50 ml de água até formar uma pasta, depois mais 130 ml de água, e consumir logo após o preparo.",
+          "Nutren Control tem glúten? Não: o rótulo do pó e o FAQ do pronto dizem que não contém glúten, e o pó contém derivados de leite e soja.",
+          "Para que serve o Nutren Active? A Nestlé o descreve como complemento para jovens e adultos que precisam de mais energia e disposição; ele contém lactose e glúten.",
+          "Qual a diferença entre Nutren Active e Nutren Senior? Pela Nestlé, o Active é para jovens e adultos e o Senior para pessoas com mais de 50 anos, e as tabelas têm porções e nutrientes diferentes.",
+          "Nutren Protein tem cafeína? O pó tem 80 mg por porção de 31,5 g e não deve ser consumido por gestantes, lactantes e crianças; a tabela da garrafa de 260 ml não traz linha de cafeína.",
+          "Nutren Senior tem glúten e lactose? O Senior em pó e pronto não contém glúten, segundo o FAQ; o Zero Lactose e o pronto têm 0 g de lactose, e a tabela do Café com Leite não traz linha de lactose; a página do Premium diz que ele contém lactose.",
+          "Nutren Senior engorda? Nas páginas que lemos, a Nestlé não fala em ganho de peso para o Senior, e no FAQ do Control escreve que \"nenhum alimento por si só tem o poder de engordar ou emagrecer\"; o peso depende de toda a alimentação e da orientação do médico ou nutricionista.",
+          "Nutren Senior serve para quimioterapia ou câncer? A página do Senior não o indica para isso; quem faz tratamento deve perguntar ao médico ou nutricionista, e a Nestlé tem linhas separadas de nutrição clínica.",
+          "Nutren Senior serve para diabetes? A página do Senior não o indica para diabetes; a escolha é do médico ou nutricionista que acompanha a pessoa.",
+          "O cupom CECI vale para todos os Nutren? Dá 10% OFF na loja oficial da Nestlé Nutre (conferido em 04/10/2026), exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
         ]
       }
     ],
     "cta": {
-      "text": "Compre no site oficial com cupom CECI",
-      "label": "Ver produtos",
-      "url": "https://www.nestlenutre.com.br/"
+      "text": "Escolha a linha Nutren na loja oficial da Nestlé Nutre e aplique o cupom CECI no carrinho.",
+      "label": "Ir para a Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/",
+      "sponsored": true
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
-    "editorialNote": "Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.",
+    "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Comparamos só rótulos e páginas oficiais.",
     "relatedArticles": [
       {
-        "slug": "nestle-nutre-e-confiavel",
-        "title": "Nestlé Nutre é confiável? O que observar antes de comprar"
+        "slug": "nutren-senior-ensure-ou-sustagen-senior",
+        "title": "Nutren Senior, Ensure ou Sustagen Senior: qual escolher pelo rótulo de cada um"
+      },
+      {
+        "slug": "nutren-just-protein-para-que-serve",
+        "title": "Nutren Just Protein: para que serve, como usar em receitas e tabela nutricional"
       },
       {
         "slug": "cupom-ceci-nestle-nutre-como-usar",
         "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+      },
+      {
+        "slug": "nutren-senior-zero-lactose-ficha-tecnica",
+        "title": "Nutren Senior Zero Lactose: o que saber antes de comprar"
       }
-    ],
-    "publishedAtISO": "2026-08-11",
-    "updatedAt": "2026-08-11"
+    ]
   },
   {
     "id": 225,
@@ -34615,7 +34830,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "nestle-nutre-produtos-para-que-servem",
-        "title": "Nestlé Nutre: produtos, para que servem e como comprar"
+        "title": "Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um"
       }
     ]
   },
@@ -35022,8 +35237,10 @@ export const reviewsData: unknown[] = [
   {
     "id": 231,
     "slug": "magazine-voce-e-confiavel",
-    "title": "Magazine Você é confiável? É golpe? Entenda antes de comprar",
+    "title": "Magazine Você é confiável? É golpe? Como funciona a loja de influenciador do Magalu",
+    "seoTitle": "Magazine Você é confiável? É golpe? Como funciona",
     "type": "Editorial",
+    "category": "confianca-reputacao",
     "reviewKind": "editorial",
     "author": {
       "name": "Cecília Mauad",
@@ -35032,103 +35249,95 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Análise do Magazine Você (Influenciador Magalu): dono do domínio, CNPJ, como funciona a loja de influenciador, quem vende e entrega, reputação e como verificar se é seguro.",
-    "metaDescription": "Magazine Você é confiável ou é golpe? Veja o CNPJ dono do domínio, quem vende e entrega, a reputação no Reclame Aqui e como confirmar que a loja é segura.",
-    "publishedAt": "Draft",
-    "draft": true,
-    "image": "/images/reviews/magalu/magazine-voce-e-confiavel-hero.webp",
-    "imageAlt": "Tela da loja Magazine Você do Em Casa com Cecília exibindo o selo Influenciador Magalu, a aba Cupons e o rodapé oficial desenvolvido por magazineluiza.com",
-    "imageFit": "cover",
+    "description": "Quem é o dono do magazinevoce.com.br, quem cobra e entrega quando você compra por uma loja de influenciador, o que o Reclame Aqui mostra e como conferir se o link é oficial.",
+    "metaDescription": "Magazine Você é confiável ou é golpe? O domínio é da Magazine Luiza S/A desde 2011. Veja quem vende e entrega e um checklist para conferir a loja.",
+    "publishedAt": "12 de outubro de 2026",
+    "publishedAtISO": "2026-10-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/magalu/magazine-voce-loja-emcasacomcecilia-topo.webp",
+    "imageAlt": "Topo da loja Emcasacomcecilia no Magalu, com o selo Influenciador Magalu e o cabeçalho do Magalu",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
     "pros": [],
     "cons": [],
     "contentSections": [
       {
-        "heading": "Resposta direta: sim, o Magazine Você é confiável",
+        "heading": "Resposta direta: o Magazine Você é confiável?",
         "paragraphs": [
-          "Vou direto ao ponto: sim, o Magazine Você é confiável. O site magazinevoce.com.br não é uma loja desconhecida nem um esquema paralelo — pertence ao próprio Magazine Luiza e é a plataforma oficial do programa Influenciador Magalu, em que pessoas físicas montam uma vitrine dentro da estrutura do Magalu.",
-          "Eu entendo a desconfiança, inclusive porque a minha loja é uma delas: o endereço não é magazineluiza.com e o nome diferente assusta. Desconfiar é saudável — a internet está cheia de site falso. Por isso escrevi este artigo como faria com uma amiga: mostrando, com registros públicos, quem é o dono do domínio, como a compra funciona por dentro e como você pode checar tudo antes de digitar qualquer dado."
-        ],
-        "bullets": []
+          "Sim. O magazinevoce.com.br está registrado em nome da Magazine Luiza S/A desde 2011, e o programa diz que o Magalu cuida do estoque, dos pagamentos, da entrega e do pós-venda. O perfil do programa no Reclame Aqui aparece como Não Recomendada, mas as reclamações mais recentes ali são de quem tem loja, por causa de comissão. Para quem compra, o cuidado que vale é outro: ver quem vende cada produto, o Magalu ou uma loja parceira, e nunca pagar fora do checkout do Magalu.",
+          "Eu tenho uma loja no programa, a do Em Casa com Cecília. Abaixo mostro como conferir cada ponto com fontes públicas, lidas em 12/10/2026."
+        ]
       },
       {
-        "heading": "O que é o Magazine Você (Influenciador Magalu)",
+        "heading": "O que é o Magazine Você",
         "paragraphs": [
-          "O Magazine Você é o programa de lojas de influenciadores do Magazine Luiza, hoje chamado Influenciador Magalu (antes também Parceiro Magalu). Qualquer pessoa pode criar gratuitamente uma loja online com URL própria dentro do domínio magazinevoce.com.br, escolher produtos do catálogo do Magalu e ganhar comissão de 1% a 12% sobre cada venda.",
-          "É o modelo da minha loja, a magazinevoce.com.br/magazineemcasacomcecilia: eu seleciono os produtos e organizo os cupons, mas site, sistema e vitrine rodam na infraestrutura do Magazine Luiza. O contrato oficial do programa deixa isso explícito: as marcas 'MAGAZINE VOCÊ' e 'Influenciador Magalu' e os domínios pertencem ao Magazine Luiza."
-        ],
-        "bullets": []
+          "É o programa do Magalu em que uma pessoa física cria uma loja online grátis, só com o CPF, e indica produtos do catálogo do Magalu. Quando alguém compra pela loja, quem tem a loja recebe comissão, e quem cobra é o Magalu. Cada CPF pode ter uma loja só.",
+          "A página inicial do programa usa hoje o nome Influenciador Magalu, e o contrato cita os dois nomes. O endereço de cada loja segue o modelo magazinevoce.com.br/nome-da-loja/."
+        ]
       },
       {
-        "heading": "Quem é o dono do site: CNPJ e registro do domínio",
+        "heading": "Quem é o dono do magazinevoce.com.br: CNPJ e registro do domínio",
         "paragraphs": [
-          "Essa foi a minha primeira verificação antes de abrir a loja, e qualquer pessoa pode repeti-la. O domínio magazinevoce.com.br está registrado em nome da MAGAZINE LUIZA S/A, CNPJ 47.960.950/0001-21 — o mesmo CNPJ da rede das lojas físicas e do site principal. O registro existe desde 2011: não é um domínio criado ontem para aplicar golpe.",
-          "Para conferir, entre no registro.br (órgão oficial que administra domínios .br) e use a consulta whois: digite magazinevoce.com.br e o resultado mostra titular, CNPJ e data de criação. É público e gratuito. Golpista nenhum registra domínio no CNPJ de uma empresa de capital aberto — o rastro jurídico seria imediato."
-        ],
-        "bullets": []
+          "Essa foi a minha primeira verificação antes de abrir a loja, e qualquer pessoa pode repetir. A consulta pública do registro.br (rdap.registro.br/domain/magazinevoce.com.br) mostra o domínio em nome da MAGAZINE LUIZA S/A, CNPJ 47.960.950/0001-21, registrado em 04/03/2011, com vencimento do registro em 04/03/2027.",
+          "Os outros dois endereços do programa, parceiromagalu.com.br (registrado em 2019) e influenciadormagalu.com.br (em 2024), estão no mesmo CNPJ. O contrato do programa diz que as marcas e os domínios são de propriedade do Magazine Luiza."
+        ]
       },
       {
-        "heading": "Como funciona a compra: quem vende, cobra e entrega",
+        "heading": "Quem vende, cobra e entrega quando você compra por uma loja de influenciador",
         "paragraphs": [
-          "Aqui mora o ponto mais importante: embora a vitrine seja da influenciadora, toda a operação é do Magalu. Estoque, pagamento, cobrança, nota fiscal, entrega e pós-venda são operados pelo Magazine Luiza, nas mesmas condições de uma compra no site ou app oficial.",
-          "O influenciador não tem acesso aos seus dados de pagamento em nenhuma etapa: eu não vejo cartão, senha, nada. O rodapé oficial da loja avisa que 'para comprar nesse site você não precisa compartilhar seus dados com o dono da página' e assina 'desenvolvido por magazineluiza.com'. E o login é feito com a mesma conta que você já usa no Magalu — sem cadastro novo."
-        ],
-        "bullets": []
+          "Pela central de ajuda dos influenciadores, \"todo o processo de confirmação do pagamento e entrega do produto fica por conta do Magazine Luiza\", e o influenciador não deve receber pagamento direto do cliente. No meu painel de loja eu não vejo cartão: a cobrança acontece no checkout do Magalu.",
+          "O que muda de um produto para outro é quem vende. Segundo a central de atendimento do Magalu, na página do produto, acima do preço, aparece \"Vendido e entregue por\" e o nome da loja. \"Vendido e entregue por Magalu\" é o próprio Magalu; outro nome é uma loja parceira do marketplace, que, pelos termos de compra do site e do app do Magalu, responde pela oferta. Dúvidas sobre o pedido vão para o atendimento do Magalu (0800 310 0002), como a central de ajuda dos influenciadores orienta."
+        ]
       },
       {
-        "heading": "Por que os cupons só funcionam nessa loja?",
+        "heading": "O preço é o mesmo do site do Magalu?",
         "paragraphs": [
-          "Muita gente estranha quando o cupom não funciona no app do Magalu e acha que caiu num golpe. A explicação é simples: estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília. São cupons de campanha criados para esta vitrine específica — não valem no app nem em outras lojas do programa.",
-          "A URL diferente, portanto, não é phishing: é o próprio modelo. É assim que o Magalu identifica a vitrine de origem da venda para pagar a comissão. O cupom 10EMCASACOMCECILIA, por exemplo, só funciona na minha loja. Não é limitação suspeita, é a arquitetura oficial."
-        ],
-        "bullets": []
+          "A central de ajuda dos influenciadores responde que sim: \"Tanto os preços, quanto as campanhas realizadas no site do Magazine Luiza, valem também para as lojas dos Influenciadores Magalu\". De vez em quando, diz a central, há promoções exclusivas da plataforma."
+        ]
       },
       {
-        "heading": "Reputação: o que diz o Reclame Aqui",
+        "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "Consultei o Reclame Aqui hoje, 16 de julho de 2026, e o retrato completo é este: o perfil principal do Magazine Luiza tem reputação máxima (Ótimo/RA1000), nota 8,3 de 10 na loja online e 8,2 na física. É o canal onde as reclamações de compra — inclusive de lojas de influenciador — são atendidas.",
-          "Existe também um perfil do domínio magazinevoce, e aqui preciso ser honesta: poucas reclamações (cerca de 50), nota baixa e 0% respondidas. Isso não significa compra sem suporte — significa um canal pouco monitorado. O caminho certo para qualquer problema é o perfil principal do Magalu. Prefiro contar isso abertamente a fingir que só há números bonitos."
-        ],
-        "bullets": []
+          "No perfil Magazine Luiza - Loja Online, com dados de 01/04 a 30/09/2026, o Magalu tem reputação RA1000 e nota 8,2 de 10. Foram 54.992 reclamações no período, com 94,5% respondidas e 90,4% resolvidas; nas 28.975 reclamações avaliadas pelos consumidores, 74,9% disseram que voltariam a fazer negócio. No histórico de até 3 anos, o problema mais citado é o atraso na entrega (24,18%).",
+          "Existe também um perfil do programa, \"Influenciador Magalu (Magazine Você)\", com reputação Não Recomendada: 55 reclamações no mesmo período e nenhuma respondida. O perfil ainda não é verificado pelo Reclame Aqui. As cinco reclamações mais recentes da página, em 12/10/2026, eram de influenciadores do programa reclamando de comissão, não de compradores. Se o problema é com um pedido, o canal é o atendimento do Magalu, que vendeu ou intermediou a compra."
+        ]
       },
       {
-        "heading": "Como verificar se uma loja Magazine Você é oficial",
-        "paragraphs": [
-          "Como o programa é aberto, vale adotar uma checagem rápida antes de comprar em qualquer loja de influenciador — a minha ou a de outra pessoa:"
-        ],
+        "heading": "Como saber se o link é oficial: checklist",
         "bullets": [
-          "Confira se o endereço está no domínio magazinevoce.com.br — no whois do registro.br, o titular deve ser a MAGAZINE LUIZA S/A, CNPJ 47.960.950/0001-21.",
-          "Verifique o cadeado HTTPS no navegador antes de digitar qualquer dado.",
-          "Procure o selo 'Influenciador Magalu' com o nome do dono da loja na identificação da página.",
-          "Confira o rodapé: ele deve trazer o aviso de que você não compartilha dados com o dono da página e a assinatura 'desenvolvido por magazineluiza.com'.",
-          "Desconfie de qualquer site fora desse domínio pedindo dados de pagamento fora do checkout do Magalu — esse sim é o padrão clássico de golpe."
+          "O endereço é magazinevoce.com.br/nome-da-loja/, com ou sem www., e nada vem entre o .com.br e a primeira barra. Confira letra por letra.",
+          "A consulta do registro.br (rdap.registro.br/domain/magazinevoce.com.br) mostra a Magazine Luiza S/A como titular, no campo registrant (a resposta vem em formato técnico).",
+          "A loja mostra o selo do programa com o nome de quem a mantém.",
+          "Na página de cada produto, veja o \"Vendido e entregue por\".",
+          "Pague só no checkout do Magalu. No aviso sobre pedidos internacionais taxados, o próprio Magalu diz que \"nunca envia boletos ou links de cobrança por e-mail, SMS ou WhatsApp\".",
+          "O cadeado do navegador só mostra que a conexão é criptografada. Site falso também tem cadeado."
+        ]
+      },
+      {
+        "heading": "Login, entrar e app",
+        "paragraphs": [
+          "O login de quem tem loja no programa fica em magazinevoce.com.br/login. Para comprar, você não precisa de loja: escolhe o produto na loja do influenciador e paga no checkout do Magalu. A loja do Em Casa com Cecília abre no navegador."
+        ]
+      },
+      {
+        "heading": "Comprar no Magalu pelo WhatsApp é seguro?",
+        "paragraphs": [
+          "Depende de quem está do outro lado. O Magalu tem um canal oficial no WhatsApp, o da Lu, com link na central de atendimento do Magalu como \"Compre com a Lu pelo Whatsapp\"; em 12/10/2026, o número era +55 11 97462-7106. Abra o canal pela central, em vez de responder a uma mensagem que chegou sem você pedir, e confirme com a central qualquer pedido de pagamento feito por mensagem."
         ]
       },
       {
         "heading": "A loja do Em Casa com Cecília",
         "paragraphs": [
-          "A minha loja passou por essa verificação hoje: exibe o selo 'emcasacomcecilia — Influenciador Magalu', tem a aba Cupons ativa e traz o rodapé oficial. É lá que concentro os produtos que recomendo nos artigos e os cupons exclusivos do blog, de R$ 10 a R$ 100 OFF conforme a campanha — válidos apenas na minha loja, pelo navegador.",
-          "Basta entrar na loja, aplicar o cupom no carrinho e conferir o desconto antes de finalizar. O passo a passo completo, com valores e regras atualizados, está nos guias abaixo."
-        ],
-        "bullets": [],
-        "images": [
-          {
-            "image": "/images/reviews/magalu/magazine-voce-selo-influenciador.webp",
-            "imageAlt": "Selo 'Influenciador Magalu' exibido na loja da Cecília",
-            "imageFit": "contain"
-          },
-          {
-            "image": "/images/reviews/magalu/magazine-voce-rodape-oficial.webp",
-            "imageAlt": "Rodapé oficial 'desenvolvido por magazineluiza.com' com aviso de segurança",
-            "imageFit": "contain"
-          }
+          "A minha loja passou por essa verificação em 12/10/2026: fica em magazinevoce.com.br/magazineemcasacomcecilia/ e mostra o selo do programa com o nome Emcasacomcecilia. Os códigos da Cecília valem só nela, pelo navegador (não no app do Magalu), em produtos vendidos e entregues pelo Magalu. As faixas e as regras estão no guia do cupom."
         ],
         "links": [
           {
-            "label": "Ver os cupons Magalu da Cecília e como usar",
+            "label": "Como usar o cupom Magalu da Cecília",
             "href": "/reviews/cupom-magalu-em-casa-com-cecilia"
           },
           {
-            "label": "Página do cupom Magalu",
+            "label": "Cupom Magalu: os códigos da Cecília",
             "href": "/cupons/magalu"
           }
         ]
@@ -35136,48 +35345,46 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como verificamos",
         "paragraphs": [
-          "As métricas de reputação e os registros públicos citados neste artigo mudam com o tempo: notas sobem e descem, contratos são atualizados e páginas saem do ar. Tudo o que está escrito aqui foi consultado diretamente nas fontes oficiais em 16 de julho de 2026.",
-          "Recomendo repetir a checagem antes de comprar — leva poucos minutos, e cada fonte listada abaixo é pública e gratuita."
-        ],
-        "bullets": [
-          "Reclame Aqui — Magalu Loja Online (https://www.reclameaqui.com.br/empresa/magazine-luiza-loja-online/): reputação Ótimo/RA1000, nota 8,3/10 em 16/07/2026.",
-          "Contrato oficial do Divulgador (https://www.parceiromagalu.com.br/divulgador/venda-mais/post/contrato-do-divulgador.html): declara 'Magazine Você' como marca e domínio do Magazine Luiza.",
-          "Central de ajuda oficial do Influenciador Magalu (https://divulgador-magalu.zendesk.com/hc/pt-br): regras e funcionamento do programa de influenciadores.",
-          "Consulta whois do domínio magazinevoce.com.br no registro.br (https://registro.br/tecnologia/ferramentas/whois/): proprietário Magazine Luiza S/A, CNPJ 47.960.950/0001-21, domínio criado em 2011.",
-          "A própria loja da Cecília (https://www.magazinevoce.com.br/magazineemcasacomcecilia/): exibe o selo 'Influenciador Magalu' e o rodapé oficial."
+          "Consultamos em 12/10/2026: o registro dos três domínios no RDAP do registro.br; a página inicial do programa, o contrato e a central de ajuda dos influenciadores; a central de atendimento e os termos de compra do Magalu; e os perfis do Magalu e do programa no Reclame Aqui. Os números do Reclame Aqui mudam todo mês."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O Magazine Você é confiável? Sim — o domínio pertence à MAGAZINE LUIZA S/A (CNPJ 47.960.950/0001-21) e toda a operação da compra é do Magalu.",
-          "O Magazine Você é golpe? Não. É a plataforma oficial do Influenciador Magalu; golpe seria um site fora desse domínio se passando por ele.",
-          "O que é o programa? O Influenciador Magalu (ex-Magazine Você) permite criar uma loja online gratuita e ganhar comissão de 1% a 12% por venda.",
-          "Quem é o dono do site? A MAGAZINE LUIZA S/A, com domínio registrado desde 2011 — confira no whois do registro.br.",
-          "Comprar na loja de influenciador é seguro? Sim, se a loja estiver no domínio oficial e exibir o selo 'Influenciador Magalu' e o rodapé da plataforma.",
-          "O influenciador vê meus dados de pagamento? Não — o pagamento é processado pelo Magalu, como avisa o próprio rodapé da loja.",
-          "Quem cuida de entrega, nota fiscal e troca? O Magazine Luiza, nas mesmas condições do site e app oficiais.",
-          "O preço é o mesmo do Magalu? Os produtos são do catálogo do Magalu; o que muda são a curadoria e os cupons exclusivos daquela URL.",
-          "O que o Reclame Aqui diz? O Magalu tem reputação máxima (Ótimo/RA1000, 8,3/10 online); o perfil do domínio magazinevoce é pouco monitorado — reclame pelo canal principal.",
-          "Como evitar site falso? Confira domínio, cadeado HTTPS, selo 'Influenciador Magalu' e rodapé oficial — e nunca informe dados fora do checkout do Magalu."
+          "magazinevoce.com.br é confiável? Sim: o domínio está em nome da Magazine Luiza S/A (CNPJ 47.960.950/0001-21) desde 2011, e o programa diz que o Magalu cuida dos pagamentos, da entrega e do pós-venda.",
+          "O Magazine Você é golpe? Não: é o programa oficial de lojas de influenciador do Magalu; golpe é um site fora desse domínio que se passa por ele, ou um pagamento fora do checkout do Magalu.",
+          "Comprar no Magalu é seguro? O Magalu tem CNPJ próprio e reputação RA1000 no Reclame Aqui (dados de 01/04 a 30/09/2026), mas nenhuma nota garante uma compra sem problema: confira o \"Vendido e entregue por\" e desconfie de boleto ou link de cobrança recebido por mensagem.",
+          "Comprar no Magalu pelo WhatsApp é seguro? Depende de quem está do outro lado: use o canal oficial da Lu, aberto pela central de atendimento do Magalu; no aviso sobre pedidos internacionais taxados, o Magalu diz que nunca envia boletos ou links de cobrança por e-mail, SMS ou WhatsApp.",
+          "O que é o Magazine Você? É o programa em que uma pessoa física cria uma loja grátis dentro do Magalu e recebe comissão pelas vendas; hoje a página do programa usa o nome Influenciador Magalu.",
+          "Quem vende e entrega o pedido feito pela loja do influenciador? O Magalu cobra e atende o pedido; o produto pode ser vendido e entregue pelo Magalu ou por uma loja parceira, e a página do produto mostra qual.",
+          "O preço é o mesmo do site do Magalu? Segundo a central de ajuda dos influenciadores, sim: preços e campanhas do site valem nas lojas dos influenciadores, com promoções exclusivas de vez em quando.",
+          "Como saber se a loja Magazine Você é oficial? O endereço é magazinevoce.com.br/nome-da-loja/, o domínio está no CNPJ do Magalu no registro.br e a loja mostra o selo do programa com o nome de quem a mantém.",
+          "O que o Reclame Aqui diz do Magalu? O perfil Magazine Luiza - Loja Online tem reputação RA1000 e nota 8,2 (dados de 01/04 a 30/09/2026); no histórico de até 3 anos, o atraso na entrega é o problema mais citado.",
+          "O Magazine Você tem perfil no Reclame Aqui? Tem o perfil \"Influenciador Magalu (Magazine Você)\", com reputação Não Recomendada e 55 reclamações sem resposta de 01/04 a 30/09/2026; as mais recentes eram de influenciadores reclamando de comissão.",
+          "O influenciador vê meus dados de pagamento? Quem cobra é o Magalu, no checkout do Magalu; no meu painel de loja eu não vejo cartão.",
+          "Como entrar na minha loja do Magazine Você? O login de quem tem loja no programa fica em magazinevoce.com.br/login."
         ]
       }
     ],
     "cta": {
-      "text": "Conheça a loja Magazine Você do Em Casa com Cecília e aproveite os cupons de R$ 10 a R$ 100 OFF",
-      "label": "Visitar loja",
-      "url": "https://www.magazinevoce.com.br/magazineemcasacomcecilia/"
+      "text": "Entre na loja Magazine Você da Cecília pelo navegador e confira o \"Vendido e entregue por\" de cada produto antes de pagar.",
+      "label": "Ir para a loja da Cecília no Magalu",
+      "url": "https://www.magazinevoce.com.br/magazineemcasacomcecilia/",
+      "sponsored": true
     },
     "coupon": "10EMCASACOMCECILIA",
     "affiliate": "magalu",
-    "editorialNote": "Este artigo é de natureza editorial e analítica. O Em Casa com Cecília mantém uma loja no programa Influenciador Magalu e recebe comissão pelas vendas realizadas por meio dela, sem custo adicional para quem compra. Todas as informações são baseadas em dados públicos verificados em 16 de julho de 2026, incluindo o registro do domínio no registro.br, o contrato oficial do programa e o Reclame Aqui.",
+    "editorialNote": "Podemos receber comissão pelas compras feitas na loja da Cecília, no programa de influenciadores do Magalu.",
     "relatedArticles": [
       {
         "slug": "cupom-magalu-em-casa-com-cecilia",
         "title": "Como usar o cupom Magalu da Cecília"
+      },
+      {
+        "slug": "black-friday-magalu",
+        "title": "Black Friday Magalu 2026: quando começa, geladeira e eletro vendidos pelo Magalu e qual código da Cecília usar"
       }
-    ],
-    "imageAspect": "square"
+    ]
   },
   {
     "id": 233,
@@ -60209,6 +60416,1714 @@ export const reviewsData: unknown[] = [
       {
         "slug": "porto-brasil-e-boa",
         "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e Porto Brasil ou Oxford"
+      }
+    ]
+  },
+  {
+    "id": 361,
+    "slug": "tabela-de-medidas-insider",
+    "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)",
+    "seoTitle": "Tabela de medidas Insider: camiseta, cueca e feminino",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "As tabelas de medidas da Insider em texto, linha por linha: Tech T-Shirt masculina e feminina, Core, Daily, Heavy Slim, Oversized, cuecas, calcinha e undershirt, com o jeito de medir uma peça sua e o que vale saber antes de comprar cueca.",
+    "metaDescription": "Tabela de medidas Insider em texto: Tech T-Shirt, Daily, Core, feminina, cueca e calcinha, como medir uma peça sua e por que a cueca não troca por tamanho.",
+    "publishedAt": "12 de outubro de 2026",
+    "publishedAtISO": "2026-10-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/insider/insider-tabela-medidas-tech-t-shirt-masculina.webp",
+    "imageAlt": "Tabela oficial de medidas da Tech T-Shirt masculina da Insider, com o desenho da camiseta e altura, largura e manga do PP ao XXGG",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Insider mede a peça deitada, não o corpo. O jeito mais seguro de acertar o tamanho é medir uma camiseta sua que veste bem e comparar com a tabela da peça. Os tamanhos vão de PP a XXGG, sem L, XL nem numeração como 42.",
+          "As medidas deste guia vêm das tabelas oficiais da Insider, abertas no botão \"Tabela de Medidas da Peça\" de cada produto em 12/10/2026. Não provamos as peças."
+        ],
+        "bullets": [
+          "Na Tech T-Shirt masculina, o M tem 70,5 cm de altura e 52 cm de largura; o G, 72 cm e 54 cm.",
+          "As tabelas das camisetas femininas vão até o XGG e trazem também a medida do busto.",
+          "Cueca e calcinha só têm troca por defeito de fabricação, não por tamanho. Confira a tabela antes de comprar.",
+          "A troca de camiseta exige peça sem sinais de lavagem, e a própria Insider diz que as peças podem encolher na lavagem."
+        ]
+      },
+      {
+        "heading": "A tabela da Insider é da peça, não do corpo",
+        "paragraphs": [
+          "Na página de cada produto, o menu \"Ficou com dúvidas sobre o seu tamanho?\" oferece o Assistente de Tamanho Inteligente, o Provador Virtual, a Tabela de Medidas da Peça (com a frase \"Compare com itens que você tem em casa\") e, na Tech T-Shirt, a comparação entre peças Insider.",
+          "A tabela traz as medidas da roupa estendida, em centímetros. A Insider não publica tabela de medidas do corpo por tamanho (tórax ou cintura de quem veste), nem equivalência com L, XL ou 42. Cada linha tem a sua tabela, e as colunas mudam: a camiseta masculina mostra altura, largura e manga; a feminina acrescenta o busto; a cueca mostra cintura, quadril e barra.",
+          "As perguntas frequentes de várias páginas dizem que a camiseta vai \"do pp ao xxgg\", inclusive em peças que param no XGG. Vale a lista de tamanhos que aparece no próprio produto.",
+          "Este guia traz camiseta, cueca, calcinha Brief e undershirt. Outras linhas, como Tech Heavy, Sportee, Performance T-Shirt 2.0 e The Perfect Top, têm tabela própria na página do produto."
+        ]
+      },
+      {
+        "heading": "Como medir uma camiseta sua e comparar",
+        "paragraphs": [
+          "Use uma camiseta que você já lavou e de que gosta do caimento. O método é o que a Insider descreve nas tabelas."
+        ],
+        "bullets": [
+          "Estenda a peça numa mesa, lisa e sem esticar, com a frente para cima.",
+          "Altura: do ponto mais alto da peça, sem contar a gola, até a barra.",
+          "Largura: na horizontal, de uma lateral à outra. Na feminina, meça duas vezes: na altura do busto (busto) e na parte mais baixa da peça (largura).",
+          "Manga: da costura do ombro até a ponta da manga.",
+          "Compare com a tabela da mesma linha. Pela nossa regra de leitura (a Insider não publica uma), o tamanho com largura e altura mais perto das da sua peça deve dar um caimento parecido."
+        ]
+      },
+      {
+        "heading": "Tech T-Shirt masculina e Gola V masculina",
+        "paragraphs": [
+          "As duas golas têm a mesma tabela. A Insider descreve a Tech T-Shirt masculina como de \"elasticidade muito alta e caimento ajustado ao corpo sem apertar\". No desenho oficial, a seta da largura fica na barra da camiseta, e a marca avisa que as medidas podem variar cerca de 2 cm para mais ou para menos."
+        ],
+        "comparisonTable": {
+          "caption": "Tabela oficial da Tech T-Shirt masculina (gola redonda e gola V), em cm, com a peça deitada. Consultada em 12/10/2026.",
+          "headers": [
+            "Tamanho",
+            "Altura",
+            "Largura",
+            "Manga"
+          ],
+          "rows": [
+            [
+              "PP",
+              "67,5",
+              "48",
+              "19,3"
+            ],
+            [
+              "P",
+              "69",
+              "50",
+              "20,5"
+            ],
+            [
+              "M",
+              "70,5",
+              "52",
+              "22"
+            ],
+            [
+              "G",
+              "72",
+              "54",
+              "23,5"
+            ],
+            [
+              "GG",
+              "73,5",
+              "57",
+              "25"
+            ],
+            [
+              "XGG",
+              "75",
+              "61",
+              "26,5"
+            ],
+            [
+              "XXGG",
+              "77,5",
+              "65",
+              "28"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Camisetas masculinas: a largura de cada linha",
+        "paragraphs": [
+          "A largura é a medida que mais muda de uma linha para outra. Pelas tabelas oficiais, a Core e a Daily têm a mesma largura da Tech; a Heavy Slim é 2 cm mais estreita; a Manga Longa, meio centímetro mais larga; e a Oversized, de 6 a 8 cm mais larga."
+        ],
+        "comparisonTable": {
+          "caption": "Largura em cm, peça deitada, pelas tabelas oficiais de cada camiseta (12/10/2026). Travessão: a tabela não traz o tamanho.",
+          "headers": [
+            "Tamanho",
+            "Tech e Gola V",
+            "Core",
+            "Daily",
+            "Heavy Slim",
+            "Manga Longa",
+            "Oversized"
+          ],
+          "rows": [
+            [
+              "PP",
+              "48",
+              "48",
+              "48",
+              "46",
+              "48,5",
+              "54"
+            ],
+            [
+              "P",
+              "50",
+              "50",
+              "50",
+              "48",
+              "50,5",
+              "56"
+            ],
+            [
+              "M",
+              "52",
+              "52",
+              "52",
+              "50",
+              "52,5",
+              "58"
+            ],
+            [
+              "G",
+              "54",
+              "54",
+              "54",
+              "52",
+              "54,5",
+              "62"
+            ],
+            [
+              "GG",
+              "57",
+              "57",
+              "57",
+              "55",
+              "57,5",
+              "65"
+            ],
+            [
+              "XGG",
+              "61",
+              "61",
+              "61",
+              "59",
+              "61,5",
+              "68"
+            ],
+            [
+              "XXGG",
+              "65",
+              "65",
+              "—",
+              "63",
+              "65,5",
+              "—"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Camisetas masculinas: a altura de cada linha",
+        "paragraphs": [
+          "A Core tem 1 cm a mais de altura que a Tech em todos os tamanhos, e a Daily, de 2,5 a 3 cm a mais. A Insider diz que o corte da Core \"já considera uma leve redução natural após as primeiras lavagens\" e descreve a modelagem dela como regular."
+        ],
+        "comparisonTable": {
+          "caption": "Altura em cm, do ponto mais alto da peça (sem a gola) até a barra, pelas tabelas oficiais (12/10/2026). Travessão: a tabela não traz o tamanho.",
+          "headers": [
+            "Tamanho",
+            "Tech e Gola V",
+            "Core",
+            "Daily",
+            "Heavy Slim",
+            "Manga Longa",
+            "Oversized"
+          ],
+          "rows": [
+            [
+              "PP",
+              "67,5",
+              "68,5",
+              "70",
+              "65",
+              "67,5",
+              "72"
+            ],
+            [
+              "P",
+              "69",
+              "70",
+              "71,5",
+              "67",
+              "69",
+              "73"
+            ],
+            [
+              "M",
+              "70,5",
+              "71,5",
+              "73",
+              "69",
+              "70,5",
+              "74"
+            ],
+            [
+              "G",
+              "72",
+              "73",
+              "74,5",
+              "71",
+              "72",
+              "75"
+            ],
+            [
+              "GG",
+              "73,5",
+              "74,5",
+              "76",
+              "74",
+              "73,5",
+              "76"
+            ],
+            [
+              "XGG",
+              "75",
+              "76",
+              "78",
+              "76",
+              "75",
+              "77"
+            ],
+            [
+              "XXGG",
+              "77,5",
+              "78,5",
+              "—",
+              "79",
+              "77",
+              "—"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Camisetas masculinas: a manga",
+        "comparisonTable": {
+          "caption": "Manga em cm, da costura do ombro até a barra da manga, pelas tabelas oficiais (12/10/2026). Na Manga Longa, é o comprimento da manga inteira. Travessão: a tabela não traz o tamanho.",
+          "headers": [
+            "Tamanho",
+            "Tech, Gola V e Core",
+            "Daily",
+            "Heavy Slim",
+            "Manga Longa",
+            "Oversized"
+          ],
+          "rows": [
+            [
+              "PP",
+              "19,3",
+              "20,5",
+              "16",
+              "56,5",
+              "29,5"
+            ],
+            [
+              "P",
+              "20,5",
+              "22",
+              "17,5",
+              "58",
+              "30"
+            ],
+            [
+              "M",
+              "22",
+              "23,5",
+              "18,7",
+              "59,5",
+              "30,5"
+            ],
+            [
+              "G",
+              "23,5",
+              "25",
+              "20",
+              "61",
+              "31"
+            ],
+            [
+              "GG",
+              "25",
+              "26,5",
+              "21,5",
+              "62,5",
+              "32,5"
+            ],
+            [
+              "XGG",
+              "26,5",
+              "28",
+              "23",
+              "64",
+              "35"
+            ],
+            [
+              "XXGG",
+              "28",
+              "—",
+              "24,5",
+              "65,5",
+              "—"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Tech T-Shirt feminina",
+        "paragraphs": [
+          "A Insider descreve a feminina como de \"caimento levemente ajustado, sem comprimir\". A tabela vai do PP ao XGG e mede o busto na altura do busto e a largura na parte mais baixa da peça."
+        ],
+        "comparisonTable": {
+          "caption": "Tabela oficial da Tech T-Shirt feminina (gola redonda), em cm, com a peça deitada. Consultada em 12/10/2026.",
+          "headers": [
+            "Tamanho",
+            "Altura",
+            "Busto",
+            "Largura",
+            "Manga"
+          ],
+          "rows": [
+            [
+              "PP",
+              "59",
+              "43",
+              "47,5",
+              "15"
+            ],
+            [
+              "P",
+              "60,5",
+              "45",
+              "49,5",
+              "16"
+            ],
+            [
+              "M",
+              "62",
+              "47",
+              "51,5",
+              "18"
+            ],
+            [
+              "G",
+              "63,5",
+              "49",
+              "53,5",
+              "19"
+            ],
+            [
+              "GG",
+              "65",
+              "52",
+              "56,5",
+              "21"
+            ],
+            [
+              "XGG",
+              "67",
+              "55",
+              "59,5",
+              "22"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Tech T-Shirt Gola V feminina",
+        "paragraphs": [
+          "A tabela termina no XGG. A página lista também o XXGG, mas em 12/10/2026 o XGG estava esgotado em todas as cores e o XXGG, nas duas em que aparece."
+        ],
+        "comparisonTable": {
+          "caption": "Tabela oficial da Tech T-Shirt Gola V feminina, em cm, com a peça deitada. Consultada em 12/10/2026.",
+          "headers": [
+            "Tamanho",
+            "Altura",
+            "Busto",
+            "Largura",
+            "Manga"
+          ],
+          "rows": [
+            [
+              "PP",
+              "60",
+              "42,5",
+              "48",
+              "15,5"
+            ],
+            [
+              "P",
+              "61",
+              "44,5",
+              "50",
+              "17"
+            ],
+            [
+              "M",
+              "63",
+              "46,5",
+              "52",
+              "18,5"
+            ],
+            [
+              "G",
+              "64",
+              "48,5",
+              "54",
+              "20"
+            ],
+            [
+              "GG",
+              "66,5",
+              "51,5",
+              "57",
+              "21,5"
+            ],
+            [
+              "XGG",
+              "68",
+              "54,5",
+              "60",
+              "23"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Tech T-Shirt Manga Longa feminina",
+        "comparisonTable": {
+          "caption": "Tabela oficial da Tech T-Shirt Manga Longa feminina, em cm, com a peça deitada. A manga é o comprimento inteiro, do ombro ao punho. Consultada em 12/10/2026.",
+          "headers": [
+            "Tamanho",
+            "Altura",
+            "Busto",
+            "Largura",
+            "Manga"
+          ],
+          "rows": [
+            [
+              "PP",
+              "62",
+              "44",
+              "47",
+              "55"
+            ],
+            [
+              "P",
+              "63,5",
+              "46",
+              "49",
+              "56"
+            ],
+            [
+              "M",
+              "65",
+              "48",
+              "51",
+              "57,5"
+            ],
+            [
+              "G",
+              "66,5",
+              "50",
+              "53",
+              "59"
+            ],
+            [
+              "GG",
+              "68",
+              "53",
+              "56",
+              "60,5"
+            ],
+            [
+              "XGG",
+              "70",
+              "56",
+              "59",
+              "62"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Daily T-Shirt feminina: o busto é 4 cm menor que o da Tech",
+        "paragraphs": [
+          "No mesmo tamanho, a Daily feminina tem o busto 4 cm menor que o da Tech feminina, e a largura da barra é meio centímetro menor. A altura do GG está como a tabela oficial imprime: 63,7 cm."
+        ],
+        "comparisonTable": {
+          "caption": "Tabela oficial da Daily T-Shirt feminina, em cm, com a peça deitada, e o busto da Tech feminina para comparar. Consultada em 12/10/2026.",
+          "headers": [
+            "Tamanho",
+            "Altura",
+            "Busto",
+            "Largura",
+            "Manga",
+            "Busto da Tech feminina"
+          ],
+          "rows": [
+            [
+              "PP",
+              "57,5",
+              "39",
+              "47",
+              "18,5",
+              "43"
+            ],
+            [
+              "P",
+              "59",
+              "41",
+              "49",
+              "20",
+              "45"
+            ],
+            [
+              "M",
+              "60,5",
+              "43",
+              "51",
+              "21,5",
+              "47"
+            ],
+            [
+              "G",
+              "62",
+              "45",
+              "53",
+              "23",
+              "49"
+            ],
+            [
+              "GG",
+              "63,7",
+              "48",
+              "56",
+              "24,5",
+              "52"
+            ],
+            [
+              "XGG",
+              "65,5",
+              "51",
+              "59",
+              "26",
+              "55"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Cuecas Comfort e Performance: a mesma tabela",
+        "paragraphs": [
+          "As duas cuecas boxer têm a mesma tabela. A cintura é medida com o cós reto, de uma lateral à outra, no ponto mais alto do cós. Dobrando esse número, você tem o contorno do cós sem esticar (conta nossa): 70 cm no M e 86 cm no XXGG. O cós é elástico, e a Insider não publica a faixa de cintura do corpo para cada tamanho.",
+          "Para comparar, estenda uma cueca sua que veste bem, meça a cintura de lateral a lateral no alto do cós e procure o número mais perto na coluna da cintura (regra nossa, não da Insider)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/insider-tabela-medidas-cueca-comfort-performance.webp",
+            "alt": "Tabela oficial de medidas da cueca Comfort da Insider, com o desenho da cueca e cintura, quadril e barra do PP ao XXGG",
+            "caption": "Fonte: Insider, insiderstore.com.br, consultado em 12/10/2026. Tabela oficial da cueca Comfort, igual à da Performance.",
+            "objectFit": "contain"
+          }
+        ],
+        "comparisonTable": {
+          "caption": "Tabela oficial das cuecas Comfort e Performance, em cm, com a peça deitada. A última coluna é conta nossa. Consultada em 12/10/2026.",
+          "headers": [
+            "Tamanho",
+            "Cintura",
+            "Quadril",
+            "Barra",
+            "Cintura × 2 (conta nossa)"
+          ],
+          "rows": [
+            [
+              "PP",
+              "31",
+              "39,5",
+              "19,5",
+              "62"
+            ],
+            [
+              "P",
+              "33",
+              "41",
+              "20,5",
+              "66"
+            ],
+            [
+              "M",
+              "35",
+              "42,5",
+              "21,5",
+              "70"
+            ],
+            [
+              "G",
+              "37",
+              "44",
+              "22,5",
+              "74"
+            ],
+            [
+              "GG",
+              "39",
+              "45,5",
+              "23,5",
+              "78"
+            ],
+            [
+              "XGG",
+              "41",
+              "47",
+              "24,5",
+              "82"
+            ],
+            [
+              "XXGG",
+              "43",
+              "48,5",
+              "25,5",
+              "86"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Cueca não tem troca por tamanho. A central de ajuda da Insider diz que, \"por motivos de higiene e segurança\", as linhas Underwear e Beachwear só são trocadas ou devolvidas em caso de defeito de fabricação. As páginas das cuecas não repetem esse aviso, então vale medir antes de comprar um kit."
+        ]
+      },
+      {
+        "heading": "Cueca Slip e calcinha Brief",
+        "paragraphs": [
+          "A Slip mede a cintura e a lateral, da cintura até o início da barra (13 cm em todos os tamanhos). A calcinha Biquíni Brief mede a cintura e a altura, da cintura até o fundo da peça. Na loja, a Slip vai do P ao XGG, embora a tabela traga também PP e XXGG, e a Brief vai do PP ao XGG. As duas seguem a regra de troca das cuecas: só por defeito."
+        ],
+        "comparisonTable": {
+          "caption": "Tabelas oficiais da Cueca Slip e da Calcinha Biquíni Brief, em cm, com a peça deitada. Travessão: a tabela não traz o tamanho. Consultadas em 12/10/2026.",
+          "headers": [
+            "Tamanho",
+            "Slip: cintura",
+            "Slip: lateral",
+            "Brief: cintura",
+            "Brief: altura"
+          ],
+          "rows": [
+            [
+              "PP",
+              "31",
+              "13",
+              "33",
+              "20"
+            ],
+            [
+              "P",
+              "33",
+              "13",
+              "34,5",
+              "21,5"
+            ],
+            [
+              "M",
+              "35",
+              "13",
+              "36",
+              "23"
+            ],
+            [
+              "G",
+              "37",
+              "13",
+              "37,5",
+              "24,5"
+            ],
+            [
+              "GG",
+              "39",
+              "13",
+              "39",
+              "26"
+            ],
+            [
+              "XGG",
+              "41",
+              "13",
+              "40,5",
+              "27,5"
+            ],
+            [
+              "XXGG",
+              "43",
+              "13",
+              "—",
+              "—"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Undershirt antissuor: as duas tabelas",
+        "paragraphs": [
+          "A Insider tem duas tabelas de undershirt: a da Undershirt Anti Suor, de gola U, e a da Undershirt Simples, de gola V. Nas duas, a largura é medida tomando como referência o recorte antissuor. Na loja, os tamanhos vão do P ao XGG; as tabelas trazem também o PP.",
+          "A central de ajuda restringe a troca das linhas Underwear e Beachwear e não diz se a undershirt entra nessa regra. Em dúvida entre dois tamanhos, pergunte ao atendimento antes de comprar."
+        ],
+        "comparisonTable": {
+          "caption": "Tabelas oficiais da Undershirt Anti Suor (gola U) e da Undershirt Simples (gola V), em cm, com a peça deitada. Consultadas em 12/10/2026.",
+          "headers": [
+            "Tamanho",
+            "Anti Suor: altura",
+            "Anti Suor: largura",
+            "Anti Suor: manga",
+            "Simples: altura",
+            "Simples: largura",
+            "Simples: manga"
+          ],
+          "rows": [
+            [
+              "PP",
+              "64",
+              "40,5",
+              "15,5",
+              "67",
+              "43,5",
+              "15"
+            ],
+            [
+              "P",
+              "66",
+              "42,5",
+              "17",
+              "68,5",
+              "45,5",
+              "16,5"
+            ],
+            [
+              "M",
+              "68",
+              "45,5",
+              "18,5",
+              "70",
+              "48,5",
+              "18"
+            ],
+            [
+              "G",
+              "70",
+              "47,5",
+              "20,5",
+              "72",
+              "51,5",
+              "19"
+            ],
+            [
+              "GG",
+              "72",
+              "52,5",
+              "22",
+              "73,5",
+              "54,5",
+              "21"
+            ],
+            [
+              "XGG",
+              "74",
+              "55,5",
+              "24",
+              "75,5",
+              "58,5",
+              "22,5"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Tamanhos grandes: o que existe de XGG e XXGG",
+        "paragraphs": [
+          "A Tech, a Gola V, a Manga Longa, a Core e a Heavy Slim masculinas e as cuecas Comfort e Performance vão até o XXGG; as tabelas femininas, até o XGG (a Gola V feminina lista também o XXGG, esgotado em 12/10/2026). Na prática, o XXGG tinha pouco estoque em 12/10/2026: confira a cor e o tamanho na página antes de contar com ele."
+        ],
+        "comparisonTable": {
+          "caption": "Tamanhos à venda na loja em 12/10/2026, pela lista de cada produto. O estoque muda todo dia.",
+          "headers": [
+            "Linha",
+            "Tamanhos",
+            "Estoque em 12/10/2026"
+          ],
+          "rows": [
+            [
+              "Tech T-Shirt masculina",
+              "PP a XXGG",
+              "XXGG só na cor preta"
+            ],
+            [
+              "Tech T-Shirt Gola V masculina",
+              "PP a XXGG",
+              "XXGG esgotado em todas as cores"
+            ],
+            [
+              "Tech T-Shirt Manga Longa masculina",
+              "PP a XXGG",
+              "XXGG só na cor preta"
+            ],
+            [
+              "Core T-Shirt",
+              "PP a XXGG",
+              "XXGG só na cor Rain Forest"
+            ],
+            [
+              "Tech T-Shirt Heavy Slim",
+              "PP a XXGG",
+              "XXGG esgotado em todas as cores"
+            ],
+            [
+              "Daily T-Shirt masculina",
+              "PP a XXGG (a tabela vai até o XGG)",
+              "PP e XXGG esgotados"
+            ],
+            [
+              "Tech T-Shirt feminina",
+              "PP a XGG",
+              "Todos os tamanhos com alguma cor disponível"
+            ],
+            [
+              "Tech T-Shirt Gola V feminina",
+              "PP a XXGG (a tabela vai até o XGG)",
+              "XGG e XXGG esgotados"
+            ],
+            [
+              "Tech T-Shirt Manga Longa feminina",
+              "PP a XGG",
+              "PP só na cor Carmenere"
+            ],
+            [
+              "Daily T-Shirt feminina",
+              "PP a XGG",
+              "PP em duas cores e XGG só na preta"
+            ],
+            [
+              "Cuecas Comfort e Performance",
+              "PP a XXGG",
+              "Comfort: PP só na Beetroot e XXGG só na preta; Performance: PP em duas cores e XXGG em três"
+            ],
+            [
+              "Cueca Slip e undershirts",
+              "P a XGG",
+              "Varia por versão"
+            ],
+            [
+              "Calcinha Biquíni Brief",
+              "PP a XGG",
+              "—"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Encolhimento: o que a Insider diz e por que pesa na troca",
+        "paragraphs": [
+          "Os artigos de lavagem da central de ajuda dizem até quanto cada linha pode encolher. Nas páginas da Core e da Daily, a marca escreve também que \"o tecido pode apresentar encolhimento de até 2cm no comprimento após a primeira lavagem\". Os dois números são da Insider, e a marca não explica como se relacionam; citamos os dois, sem converter.",
+          "Isso pesa na troca: a troca por tamanho exige peça sem uso e sem sinais de lavagem. Não dá para lavar para ver se encolhe e depois trocar. Escolha o tamanho pela tabela e siga as instruções de lavagem da etiqueta."
+        ],
+        "comparisonTable": {
+          "caption": "\"Pode encolher até\", segundo os artigos de lavagem da central de ajuda da Insider, consultados em 12/10/2026.",
+          "headers": [
+            "Linha",
+            "Pode encolher até",
+            "Composição informada"
+          ],
+          "rows": [
+            [
+              "Tech T-Shirt",
+              "8%",
+              "92% modal, 8% elastano"
+            ],
+            [
+              "Core T-Shirt",
+              "8%",
+              "94% viscose, 6% elastano"
+            ],
+            [
+              "Daily T-Shirt",
+              "4%",
+              "94% viscose, 6% elastano"
+            ],
+            [
+              "Tech Heavy e Heavy Slim",
+              "5%",
+              "92% modal, 8% elastano"
+            ],
+            [
+              "Oversized",
+              "8%",
+              "81% liocel, 15% poliamida, 4% elastano"
+            ],
+            [
+              "Undershirt, cuecas Comfort e Slip",
+              "7%",
+              "88% micromodal, 12% elastano"
+            ],
+            [
+              "Cueca Performance e underwear feminina",
+              "3%",
+              "Interior de 88% modal e 12% elastano"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Errei o tamanho: o que a Insider permite",
+        "paragraphs": [
+          "Camiseta que não serviu pode ser trocada em até 21 dias corridos depois do recebimento, sem uso, com etiqueta e sem sinais de lavagem. A troca é gratuita e vale para o mesmo modelo, em outra cor ou tamanho, conforme o estoque. Cueca, calcinha e beachwear só trocam por defeito de fabricação.",
+          "Os prazos de arrependimento e de defeito e o passo a passo da troca estão no nosso guia sobre a Insider."
+        ],
+        "links": [
+          {
+            "label": "Insider Store é confiável? CNPJ, loja física, trocas e reputação",
+            "href": "/reviews/insider-store-e-confiavel"
+          }
+        ]
+      },
+      {
+        "heading": "Provador Virtual e assistente: o que a Insider diz",
+        "paragraphs": [
+          "O Provador Virtual pede altura, peso e as medidas de busto, cintura e quadril. A própria Insider avisa: \"como cada corpo é único, pode haver variações. Recomendamos conferir a tabela de medidas da peça\".",
+          "Para medir o corpo, a marca orienta: busto na parte mais cheia, cintura na parte mais estreita e quadril na parte mais larga, com a fita métrica reta e justa, sem apertar. Não testamos o Provador nem o assistente."
+        ]
+      },
+      {
+        "heading": "Como comprar com o cupom EMCASACOMCECILIA",
+        "paragraphs": [
+          "Com o tamanho escolhido, o cupom EMCASACOMCECILIA dá 15% OFF na loja online da Insider. Ele não vale em lançamentos nem nas lojas físicas, e é um cupom por pedido. Itens com desconto máximo, como a Daily, avisam na página que não somam com cupons.",
+          "A página da loja tem o cupom e as regras atualizadas, e o guia do cupom mostra onde aplicar no checkout."
+        ],
+        "links": [
+          {
+            "label": "Cupom Insider: EMCASACOMCECILIA",
+            "href": "/cupons/insider"
+          },
+          {
+            "label": "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%",
+            "href": "/reviews/cupom-emcasacomcecilia-insider-store-como-usar"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Como saber meu tamanho na Insider? Compare as medidas da tabela da página do produto com as de uma peça sua deitada, ou use o Provador Virtual da loja; a tabela da Insider mede a peça, não o corpo.",
+          "Qual o tamanho da Insider? Os tamanhos vão de PP a XXGG, conforme a linha: Tech, Core, Heavy Slim e Manga Longa masculinas e as cuecas Comfort e Performance chegam ao XXGG, e as tabelas femininas, ao XGG; a loja não usa L, XL nem numeração.",
+          "Quem veste 42 é L ou XL na Insider? A Insider não usa L, XL nem numeração e não publica equivalência com o 42; meça uma camiseta sua que sirva e compare com a largura e a altura da tabela da peça.",
+          "Qual é a tabela de medidas para camisetas da Insider? Na Tech T-Shirt masculina, o M tem 70,5 cm de altura, 52 cm de largura e 22 cm de manga, e o G tem 72, 54 e 23,5 cm; as tabelas de cada linha estão neste guia.",
+          "Qual a tabela de medidas da Insider masculina? Na Tech T-Shirt masculina, a tabela traz altura, largura e manga em centímetros, do PP ao XXGG, e a marca avisa que as medidas podem variar cerca de 2 cm para mais ou para menos.",
+          "Qual a tabela de medidas da Insider feminina? A feminina acrescenta o busto às colunas de altura, largura e manga e vai do PP ao XGG.",
+          "Qual a tabela de medidas da cueca Insider? Para as cuecas Comfort e Performance a tabela é a mesma e traz cintura, quadril e barra do PP ao XXGG, com cintura de 31 a 43 cm, medida de lateral a lateral.",
+          "Como é a Daily T-Shirt em relação à Tech T-Shirt? No masculino, a largura é a mesma e a altura é de 2,5 a 3 cm maior; no feminino, o busto da Daily é 4 cm menor que o da Tech em cada tamanho.",
+          "A Tech T-Shirt veste justa? A Insider descreve a masculina como de \"caimento ajustado ao corpo sem apertar\" e a feminina como de \"caimento levemente ajustado, sem comprimir\"; a Core tem modelagem regular, segundo a marca.",
+          "A Insider tem tamanhos grandes? A Tech, a Gola V, a Manga Longa, a Core e a Heavy Slim masculinas e as cuecas Comfort e Performance vão até o XXGG, e as tabelas femininas até o XGG, mas em 12/10/2026 o XXGG tinha pouco estoque.",
+          "A roupa da Insider encolhe? Segundo a central de ajuda, a Tech T-Shirt e a Core podem encolher até 8%, a Daily até 4% e a cueca Comfort até 7%.",
+          "Posso trocar a cueca da Insider se errar o tamanho? Não: cuecas, calcinhas e outras peças das linhas Underwear e Beachwear só têm troca ou devolução por defeito de fabricação.",
+          "Quanto tempo tenho para trocar uma camiseta que não serviu? Até 21 dias corridos depois do recebimento, com a peça sem uso, com etiqueta e sem sinais de lavagem, e a troca é gratuita.",
+          "O Provador Virtual da Insider acerta o tamanho? A própria marca diz que cada corpo é único e recomenda conferir a tabela de medidas da peça."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Com o tamanho escolhido pela tabela, entre na Insider pelo link da parceria: o cupom EMCASACOMCECILIA já vai para o carrinho. Confira o desconto em cada item antes de pagar.",
+      "label": "Ir para a Insider com o cupom",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Podemos receber comissão quando você compra pelos nossos links.",
+    "relatedArticles": [
+      {
+        "slug": "insider-vale-a-pena",
+        "title": "Insider vale a pena? Tech T-Shirt e cuecas comparadas com Minimal Club, Mirante, Alpha Co, Basicamente e Hering"
+      },
+      {
+        "slug": "insider-store-e-confiavel",
+        "title": "Insider Store é confiável? CNPJ, loja física, trocas e reputação"
+      },
+      {
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
+        "title": "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%"
+      }
+    ]
+  },
+  {
+    "id": 362,
+    "slug": "insider-vale-a-pena",
+    "title": "Insider vale a pena? Tech T-Shirt e cuecas comparadas com Minimal Club, Mirante, Alpha Co, Basicamente e Hering",
+    "seoTitle": "Insider vale a pena? Comparação com Minimal Club e Hering",
+    "type": "Comparativo de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Tech T-Shirt da Insider lado a lado com Minimal Club, Mirante, Basicamente, Hering e Alpha Co, e os modelos de cueca da Insider: composição, gramatura, preço de 12/10/2026, troca e garantia, pelo que cada site publica.",
+    "metaDescription": "Insider vale a pena? Tech T-Shirt, Daily, Core e cuecas comparadas com Minimal Club, Mirante, Basicamente, Hering e Alpha Co: tecido, preço e troca.",
+    "publishedAt": "12 de outubro de 2026",
+    "publishedAtISO": "2026-10-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/insider/insider-tech-t-shirt-preta-oficial.webp",
+    "imageAlt": "Homem usando a Tech T-Shirt preta da Insider, em foto oficial da marca",
+    "imageFit": "cover",
+    "imageAspect": "landscape",
+    "pros": [
+      "Garantia de 2 anos contra desbotamento na Tech T-Shirt, por escrito e com condições",
+      "Troca por insatisfação em até 21 dias corridos, gratuita, e defeito em até 180 dias",
+      "Composição publicada em cada peça e gramatura da Tech e da Daily na comparação oficial",
+      "Cupom de 15% que soma com o desconto do Pix"
+    ],
+    "cons": [
+      "A Tech T-Shirt custa mais que as camisetas de modal da Mirante e da Basicamente",
+      "A Daily, a mais barata das camisetas da Insider comparadas, não aceita cupom",
+      "Cueca só troca por defeito de fabricação"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Depende do que você compara. Pelos sites oficiais, em 12/10/2026, a Tech T-Shirt da Insider custa mais que as camisetas de modal da Mirante e da Basicamente e que a Super Cotton, de algodão, da Hering, e fica perto da Tech Modal da Minimal Club quando entra o cupom. O que a Insider publica a mais é a garantia de 2 anos contra desbotamento da Tech T-Shirt, com condições."
+        ],
+        "bullets": [
+          "Tech T-Shirt (92% modal e 8% elastano): R$ 129, ou R$ 109,65 com o cupom EMCASACOMCECILIA.",
+          "A Mirante (R$ 94,90 no Pix) e a Basicamente (R$ 99,90) vendem camiseta de modal por menos.",
+          "Minimal Club (algodão egípcio) e Alpha Co (algodão Pima) são outra categoria: camiseta de algodão.",
+          "Na cueca, o que muda é o modelo: Comfort de modal, Performance com poliamida por fora, e a versão Anti Suor com tecido a mais atrás."
+        ]
+      },
+      {
+        "heading": "Como comparamos",
+        "paragraphs": [
+          "Usamos só o que o site oficial de cada marca publica, lido em 12/10/2026: composição, gramatura quando existe, preço exibido e regras de troca. Esta comparação não parte de teste das peças, então não comparamos caimento, maciez nem durabilidade.",
+          "O que aparece entre aspas ou como \"segundo a marca\" é afirmação da marca, não verificada por nós. Quando o site não informa um dado, a tabela diz isso. Preço muda com promoção; confira na loja antes de comprar."
+        ]
+      },
+      {
+        "heading": "Camiseta básica das seis marcas lado a lado",
+        "comparisonTable": {
+          "caption": "Dados dos sites oficiais em 12/10/2026. \"Não informada\" quer dizer que a página consultada não publica o dado. Troca: prazo para trocar ou devolver sem defeito / prazo para defeito; na Insider, 21 dias corridos por insatisfação (7 dias úteis por arrependimento). O preço da Insider não inclui os 10% OFF no Pix anunciados na barra do site.",
+          "headers": [
+            "Marca e modelo",
+            "Composição",
+            "Gramatura",
+            "Preço em 12/10/2026",
+            "Troca / defeito",
+            "Garantia ou promessa da marca"
+          ],
+          "rows": [
+            [
+              "Insider, Tech T-Shirt",
+              "92% modal, 8% elastano",
+              "185 g/m² (comparação oficial da marca)",
+              "R$ 129 (de R$ 169)",
+              "21 dias / 180 dias",
+              "2 anos contra desbotamento, com condições"
+            ],
+            [
+              "Insider, Tech Daily",
+              "94% viscose, 6% elastano",
+              "225 g/m² (comparação oficial da marca)",
+              "R$ 79 (de R$ 139), sem cupom",
+              "21 dias / 180 dias",
+              "Não informada"
+            ],
+            [
+              "Insider, Core T-Shirt",
+              "94% viscose, 6% elastano",
+              "Não informada",
+              "R$ 179 (de R$ 189)",
+              "21 dias / 180 dias",
+              "Não informada"
+            ],
+            [
+              "Minimal Club, Camiseta Minimal",
+              "93% algodão egípcio, 7% elastano",
+              "150 g/m²",
+              "R$ 169,90 (R$ 164,80 no Pix)",
+              "30 dias / 90 dias",
+              "Selo \"Não desbota\", sem prazo"
+            ],
+            [
+              "Minimal Club, Minimal 2.0",
+              "94% algodão egípcio, 6% elastano",
+              "160 g/m²",
+              "R$ 169,90",
+              "30 dias / 90 dias",
+              "Não informada"
+            ],
+            [
+              "Minimal Club, Tech Modal",
+              "91% modal, 9% elastano",
+              "200 g/m²",
+              "R$ 109,90 (R$ 106,60 no Pix)",
+              "30 dias / 90 dias",
+              "Não informada"
+            ],
+            [
+              "Mirante, Tech Modal",
+              "92% modal, 8% elastano",
+              "200 g/m²",
+              "R$ 94,90 no Pix (R$ 99,89 no cartão)",
+              "7 dias / 30 dias",
+              "Não informada"
+            ],
+            [
+              "Basicamente, Tech T-Shirt Modal",
+              "95% modal, 5% elastano",
+              "Não informada",
+              "R$ 99,90",
+              "30 dias / 90 dias",
+              "Antiodor que \"dura até 30 lavagens\""
+            ],
+            [
+              "Basicamente, Tech T-Shirt Anti Odor",
+              "100% algodão",
+              "Não informada",
+              "R$ 79,90",
+              "30 dias / 90 dias",
+              "Antiodor que \"dura até 30 lavagens\""
+            ],
+            [
+              "Hering, Super Cotton",
+              "100% algodão",
+              "210 g/m²",
+              "R$ 89,99 (preta e branca)",
+              "15 dias / não informado para roupa",
+              "Não informada"
+            ],
+            [
+              "Hering, Malha H+",
+              "62,5% algodão, 25% viscose, 12,5% poliéster",
+              "156 g/m²",
+              "R$ 31,99",
+              "15 dias / não informado para roupa",
+              "Não informada"
+            ],
+            [
+              "Alpha Co, Camiseta Pima",
+              "100% algodão Pima peruano",
+              "Não informada",
+              "R$ 99,99 (de R$ 139,90)",
+              "7 dias / 90 dias",
+              "Não informada"
+            ],
+            [
+              "Alpha Co, Dry Fit Vector (esportiva)",
+              "97% poliéster, 3% elastano",
+              "Não informada",
+              "R$ 29,94 (de R$ 49,90)",
+              "7 dias / 90 dias",
+              "Não informada"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Tech T-Shirt: o que a Insider publica",
+        "paragraphs": [
+          "A Tech T-Shirt é de 92% modal e 8% elastano (a cor Índigo tem 62% modal, 30% viscose e 8% elastano), num tecido que a Insider chama de INTECH. A gramatura, 185 g/m², não está no texto da página: aparece na imagem que abre no botão \"Compare entre peças Insider\".",
+          "A garantia é de 2 anos contra desbotamento, para peças compradas desde 06/09/2024, \"desde que seguidas as instruções da etiqueta, considerando uma lavagem por semana\", e, segundo a página, cobre só o desbotamento por lavagem. Os cuidados pedidos são ciclo delicado até 30 °C, sabão neutro, sem deixar de molho, sem torcer, sem alvejante, secar no varal à sombra, sem secadora e evitando amaciante.",
+          "A marca diz que a camiseta é antiodor e que isso \"permite usar mais e lavar menos\", mas não informa por quantas lavagens o efeito dura."
+        ]
+      },
+      {
+        "heading": "Tech, Daily ou Core: qual camiseta da Insider",
+        "paragraphs": [
+          "A Daily e a Core são de 94% viscose e 6% elastano, não de modal. A Daily, de tecido DAYON, tem 225 g/m² na comparação oficial e custava R$ 79 (de R$ 139) em 12/10/2026. A página avisa que o preço já tem o desconto máximo e não soma com cupons, e no teste do cupom no checkout, nesse dia, o EMCASACOMCECILIA não se aplicou a ela.",
+          "A Core custava R$ 179 (de R$ 189) e, segundo a Insider, é \"levemente mais encorpada e texturizada\" que a Tech. A gramatura dela não está publicada. Nas páginas da Daily e da Core, a marca avisa que o tecido pode encolher até 2 cm no comprimento depois da primeira lavagem.",
+          "A garantia de cor publicada é a da Tech T-Shirt. As medidas de cada linha estão no nosso guia de tamanhos da Insider."
+        ]
+      },
+      {
+        "heading": "Insider ou Minimal Club",
+        "paragraphs": [
+          "São tecidos diferentes. A Tech T-Shirt é de modal; a Camiseta Minimal e a Minimal 2.0 são de algodão egípcio com elastano, com 150 e 160 g/m², e custam R$ 169,90.",
+          "A comparação mais direta é com a Tech Modal da Minimal Club: 91% modal e 9% elastano, 200 g/m², por R$ 109,90 (R$ 106,60 no Pix). A Tech T-Shirt da Insider tem 185 g/m² e custava R$ 129 em 12/10/2026, ou R$ 109,65 com o cupom, antes do desconto do Pix.",
+          "A Minimal Club dá 30 dias para devolver ou trocar por arrependimento, tamanho ou expectativa, contra 21 dias por insatisfação (7 dias úteis por arrependimento) da Insider. Só a Insider publica garantia contra desbotamento."
+        ]
+      },
+      {
+        "heading": "Insider, Mirante ou Basicamente",
+        "paragraphs": [
+          "A Mirante informa a mesma composição da Tech T-Shirt, 92% modal e 8% elastano, com 200 g/m², e cobra R$ 94,90 no Pix. Composição igual não quer dizer camiseta igual: fio, malha e acabamento podem mudar. A Mirante dá 7 dias para troca ou devolução e 30 dias para defeito.",
+          "A Basicamente, marca da Malwee, vende a Tech T-Shirt Modal, de 95% modal e 5% elastano, por R$ 99,90, e diz que o acabamento antiodor dura até 30 lavagens. A devolução é em 30 dias (90 para defeito), com a peça não lavada e não usada."
+        ]
+      },
+      {
+        "heading": "Insider ou Hering, e onde entra a Alpha Co",
+        "paragraphs": [
+          "A Hering vende camiseta básica de algodão. Em 12/10/2026, a Super Cotton (100% algodão, 210 g/m²) custava R$ 89,99 nas cores preta e branca, e a Malha H+ (algodão, viscose e poliéster, 156 g/m²), R$ 31,99. A troca é em até 15 dias, e a política não dá prazo de defeito para roupa.",
+          "A Alpha Co tem a Camiseta Pima, de algodão Pima peruano, por R$ 99,99, e camisetas dry fit de poliéster, como a Vector, por R$ 29,94. A dry fit é camiseta esportiva, outra categoria. A Alpha Co troca em até 7 dias, uma vez só, e cobre defeito por 90 dias."
+        ]
+      },
+      {
+        "heading": "Cueca Insider: Comfort, Performance, Anti Suor ou Seamless",
+        "paragraphs": [
+          "Nas cuecas, a escolha é pelo modelo. \"Simples\" e \"Anti Suor\" são versões do mesmo modelo: a Anti Suor leva tecido a mais na parte de trás. A Insider não publica a gramatura das cuecas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/insider-kit-cuecas-oficial.webp",
+            "alt": "Kit de cuecas boxer da Insider em foto oficial da marca",
+            "caption": "Foto oficial da Insider.",
+            "objectFit": "contain"
+          }
+        ],
+        "comparisonTable": {
+          "caption": "Dados das páginas da Insider em 12/10/2026. Preço da unidade, salvo os kits.",
+          "headers": [
+            "Modelo",
+            "Material informado",
+            "Construção informada",
+            "Preço em 12/10/2026"
+          ],
+          "rows": [
+            [
+              "Boxer Comfort, Simples",
+              "88% modal, 12% elastano",
+              "Boxer de modal",
+              "R$ 79 (de R$ 85); kit de 3 por R$ 229,89; kit de 5 por R$ 375,25"
+            ],
+            [
+              "Boxer Comfort, Anti Suor",
+              "Igual à Simples",
+              "Camada extra de tecido na parte de trás; só na cor preta",
+              "R$ 79"
+            ],
+            [
+              "Boxer Performance, Simples",
+              "Por fora: 87,5% poliamida, 12,5% elastano. Por dentro: 88% modal, 12% elastano",
+              "Sem costura na lateral",
+              "R$ 89 (de R$ 95); kit de 3 por R$ 258,99"
+            ],
+            [
+              "Boxer Performance, Anti Suor",
+              "Igual à Simples",
+              "Forro duplo na parte de trás e costura na lateral; só na cor preta",
+              "R$ 89"
+            ],
+            [
+              "Boxer Seamless Touch",
+              "95% poliamida, 4% elastano, 1% polipropileno",
+              "Sem costura",
+              "R$ 55 (de R$ 59)"
+            ],
+            [
+              "Slip Comfort",
+              "88% modal, 12% elastano na descrição; a ficha da página mostra 87,5% poliamida e 12,5% elastano",
+              "Slip",
+              "R$ 69 no P e R$ 75 nos demais"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Cueca só tem troca ou devolução por defeito de fabricação, por higiene e segurança, segundo a central de ajuda. Minimal Club, Hering e Alpha Co também não trocam cueca, salvo defeito (a Alpha Co aceita a devolução em 7 dias). Confira a tabela de medidas antes de comprar o kit."
+        ]
+      },
+      {
+        "heading": "Troca e devolução na Insider",
+        "paragraphs": [
+          "Na compra online, a Insider aceita o arrependimento em até 7 dias úteis, a troca por insatisfação em até 21 dias corridos, pelo mesmo modelo em outra cor ou tamanho (conforme o estoque) ou com estorno, com a peça sem uso, com etiqueta e sem sinais de lavagem, e o defeito em até 180 dias, com fotos. O processo é gratuito. O passo a passo e a reputação da loja estão no nosso guia de confiança."
+        ],
+        "links": [
+          {
+            "label": "Insider Store é confiável? CNPJ, loja física, trocas e reputação",
+            "href": "/reviews/insider-store-e-confiavel"
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa de verdade",
+        "paragraphs": [
+          "O cupom EMCASACOMCECILIA dá 15% OFF na loja online da Insider: a Tech T-Shirt de R$ 129 sai por R$ 109,65. Ele soma com o desconto do Pix e vale com todas as formas de pagamento, não vale em lançamentos nem nas lojas físicas, e é um cupom por pedido. A Daily fica de fora, como a própria página avisa.",
+          "Em 12/10/2026, o frete era grátis a partir de R$ 399, e a barra do site anunciava 10% OFF no Pix. Os kits e a Black Friday estão no nosso guia da Black Friday da Insider."
+        ],
+        "links": [
+          {
+            "label": "Cupom Insider: EMCASACOMCECILIA",
+            "href": "/cupons/insider"
+          },
+          {
+            "label": "Black Friday Insider 2026: quando começa, preços da Tech T-Shirt e o cupom EMCASACOMCECILIA",
+            "href": "/reviews/black-friday-insider"
+          }
+        ]
+      },
+      {
+        "heading": "Para quem vale e para quem não vale",
+        "bullets": [
+          "Vale olhar a Insider se você quer camiseta de modal com garantia de cor por escrito e defeito coberto por até 180 dias, o maior prazo da tabela, e topa pagar mais por isso.",
+          "Se o preço pesa mais, a Mirante e a Basicamente vendem camiseta de modal por menos, e a Hering tem a Super Cotton, de algodão, a R$ 89,99 e a Malha H+, de mistura, a R$ 31,99.",
+          "Se você prefere algodão, a Minimal Club (algodão egípcio) e a Alpha Co (algodão Pima) são outra categoria de camiseta.",
+          "Na cueca, escolha pelo modelo e meça antes: Insider, Minimal Club, Hering e Alpha Co não trocam cueca por tamanho."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Insider vale a pena? Depende do que você compara: no site, a Tech T-Shirt custa mais que as camisetas da Mirante e da Basicamente e que a Super Cotton da Hering, e o diferencial que ela publica é a garantia de 2 anos contra desbotamento da Tech T-Shirt, com condições.",
+          "Insider ou Minimal Club: qual escolher? São tecidos diferentes: a Tech T-Shirt é de modal (92%, com elastano) e a Camiseta Minimal é de algodão egípcio (93%, 150 g/m²); a Minimal também vende uma Tech Modal (91% modal, 200 g/m²) por R$ 109,90.",
+          "Insider ou Mirante: qual escolher? As duas informam 92% modal e 8% elastano; a Mirante tem 200 g/m² e cobrava R$ 94,90 no Pix, a Tech T-Shirt tem 185 g/m² e custava R$ 129 em 12/10/2026 (a Insider também anunciava 10% OFF no Pix), e só a Insider publica garantia de cor.",
+          "Insider ou Basicamente: qual é melhor? Pelo site não dá para dizer: a Basicamente usa 95% modal e 5% elastano e diz que o antiodor dura até 30 lavagens, e a Insider não informa por quantas lavagens o antiodor dela dura.",
+          "Hering ou Insider? A Hering vende a Super Cotton, 100% algodão, por R$ 89,99 e a Malha H+, de algodão com viscose e poliéster, por R$ 31,99, com gramatura informada; a Insider vende modal e viscose, com a Tech T-Shirt a R$ 129 e a Daily a R$ 79 em 12/10/2026.",
+          "Insider ou Alpha Co? A Alpha Co tem camiseta de algodão Pima (R$ 99,99) e camisetas esportivas dry fit de poliéster (R$ 29,94), que são outra categoria.",
+          "A Tech T-Shirt da Insider é de quê? De 92% modal e 8% elastano, exceto a cor Índigo (62% modal, 30% viscose e 8% elastano), segundo a página do produto.",
+          "A Tech T-Shirt tem garantia? Tem garantia de 2 anos contra desbotamento para peças compradas desde 06/09/2024, seguindo a etiqueta e considerando uma lavagem por semana.",
+          "Tech T-Shirt, Daily ou Core: qual é a diferença? A Tech é de modal; a Daily e a Core são de 94% viscose e 6% elastano, e a Core é mais encorpada, segundo a marca.",
+          "A cueca Insider é boa? Não testamos; a marca publica o tecido de cada modelo (modal na Comfort, poliamida por fora na Performance), e a troca só vale por defeito.",
+          "Cueca Insider Comfort ou Performance? A Comfort é de modal e elastano; a Performance tem a parte de fora de poliamida e a de dentro de modal.",
+          "Cueca Insider Simples ou Anti Suor? A Anti Suor tem uma camada extra de tecido atrás na Comfort e forro duplo atrás na Performance, segundo a página.",
+          "Cueca Insider Seamless é boa? É de poliamida, elastano e polipropileno, sem costura, e custava R$ 55 em 12/10/2026; não testamos.",
+          "Dá para trocar cueca da Insider? Só em caso de defeito de fabricação, por higiene e segurança, segundo a central de ajuda.",
+          "O cupom EMCASACOMCECILIA vale em tudo? Não em tudo: dá 15% OFF na loja online, exceto lançamentos e lojas físicas, um por pedido; a Daily avisa na página que não soma com cupons, e no teste do checkout de 12/10/2026 o cupom não entrou nela."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Se a Insider faz sentido para você, entre pelo link da parceria: o cupom EMCASACOMCECILIA, de 15% OFF, já vai para o carrinho. Confira o desconto em cada item antes de pagar.",
+      "label": "Ir para a Insider com o cupom",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Podemos receber comissão pela Insider. As outras marcas não são parceiras, e não testamos as peças.",
+    "relatedArticles": [
+      {
+        "slug": "tabela-de-medidas-insider",
+        "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
+      },
+      {
+        "slug": "insider-store-e-confiavel",
+        "title": "Insider Store é confiável? CNPJ, loja física, trocas e reputação"
+      },
+      {
+        "slug": "black-friday-insider",
+        "title": "Black Friday Insider 2026: quando começa, preços da Tech T-Shirt e o cupom EMCASACOMCECILIA"
+      }
+    ]
+  },
+  {
+    "id": 363,
+    "slug": "nutren-protein-ou-whey",
+    "title": "Nutren Protein ou whey protein: como escolher pelo rótulo, com YoPRO e Nutren Senior",
+    "seoTitle": "Nutren Protein ou whey: comparação com YoPRO e Senior",
+    "type": "Comparativo de Suplemento",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Nutren Protein, Nutren Just Protein, a garrafa de 260 ml, o Nutren Senior e a YoPRO lado a lado pelo rótulo: proteína, calorias, açúcares, lactose e cafeína, com a base de cada número e o que whey protein quer dizer.",
+    "metaDescription": "Nutren Protein ou whey? Proteína, calorias, açúcares e lactose do pó, da garrafa, do Just Protein, do Senior e da YoPRO pelo rótulo, e o cupom CECI.",
+    "publishedAt": "12 de outubro de 2026",
+    "publishedAtISO": "2026-10-12",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nutren/nutren-protein-po-e-pronto-para-beber-oficial.webp",
+    "imageAlt": "Lata de Nutren Protein Baunilha 400 g em pó ao lado da garrafa de Nutren Protein Chocolate 260 ml pronta para beber",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Não existe um \"melhor\" no rótulo. O Nutren Protein em pó contém whey, mas não é só whey: tem cafeína, vitaminas e minerais e 14 g de proteína em 31,5 g de pó. Quem procura uma proteína isolada e sem sabor está falando de outro produto da Nestlé, o Nutren Just Protein. Comparamos só o que as páginas oficiais informam, em 12/10/2026."
+        ],
+        "bullets": [
+          "Nutren Protein em pó: 14 g de proteína e 80 mg de cafeína por porção de 31,5 g; segundo o FAQ da Nestlé, contém lactose e glúten.",
+          "Nutren Protein pronto para beber: 15 g de proteína na garrafa de 260 ml, com lactose 0 g na tabela.",
+          "Nutren Just Protein: \"100% whey protein isolado\", 13 g de proteína em 15 g de pó, sem sabor.",
+          "YoPRO: bebida láctea pronta com \"whey + caseína\" e 15 g de proteína na embalagem de 250 ml."
+        ]
+      },
+      {
+        "heading": "Nutren Protein, Nutren Just Protein e Nutren 1.5 Protein: qual é qual",
+        "paragraphs": [
+          "A Nestlé vende três linhas com \"Protein\" no nome, e o \"15g\" quer dizer coisas diferentes em duas delas. Os nomes abaixo são os da loja oficial."
+        ],
+        "comparisonTable": {
+          "caption": "Nomes e descrições da loja oficial da Nestlé Nutre em 12/10/2026.",
+          "headers": [
+            "Produto",
+            "O que é, segundo a Nestlé",
+            "O que o número do nome quer dizer"
+          ],
+          "rows": [
+            [
+              "Nutren Protein Baunilha ou Chocolate, 400 g (Baunilha também em 800 g)",
+              "Suplemento alimentar em pó \"com Whey Protein, Cafeína e 20 vitaminas e minerais\"",
+              "400 g e 800 g são o peso da lata: cerca de 13 e 25 porções de 31,5 g"
+            ],
+            [
+              "Nutren Protein 15g de Proteínas, 260 ml",
+              "Bebida pronta para beber, com \"15g de proteínas e 9 vitaminas e minerais por porção\"",
+              "15 g é a proteína da garrafa"
+            ],
+            [
+              "Nutren Just Protein 280 g e sachê de 15 g",
+              "\"100% whey protein isolado\", sem sabor",
+              "15 g é o tamanho da porção (2 colheres de sopa ou 1 sachê), com 13 g de proteína"
+            ],
+            [
+              "Nutren 1.5 Protein, 200 ml",
+              "Fórmula enteral modificada, hiperproteica e hipercalórica",
+              "Fica fora desta comparação: não é o Nutren Protein, e a página dele diz \"Usar somente sob orientação médica ou de nutricionista\""
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O pó do Nutren Protein só existe em baunilha e chocolate. Sem sabor, a Nestlé vende o Nutren Just Protein, e o Nutren Senior e o Nutren 1.5 Protein também têm versão sem sabor."
+        ]
+      },
+      {
+        "heading": "O que é whey protein, e o que cada rótulo diz sobre ele",
+        "paragraphs": [
+          "Whey não é uma marca: é a proteína do soro do leite. Na definição da YoPRO, \"whey são as proteínas do soro do leite, que junto com a caseína compõem as proteínas naturalmente presentes no leite\". Cada whey vendido no Brasil tem a sua tabela, então \"Nutren ou whey\" só se responde comparando com o rótulo do whey que você tem em mente.",
+          "Nos rótulos desta comparação, o whey aparece de três jeitos: o Nutren Protein em pó é um suplemento \"com Whey Protein\", o Nutren Just Protein é \"100% whey protein isolado\" e a YoPRO leva \"whey + caseína\"."
+        ]
+      },
+      {
+        "heading": "Tabela comparativa pelo rótulo",
+        "comparisonTable": {
+          "caption": "Valores das páginas oficiais da Nestlé Nutre e da YoPRO, lidos em 12/10/2026. Cada linha tem a sua porção; compare a proteína pela porção, não pelo peso da embalagem. A lactose do Just Protein vem do rótulo da lata, na foto da página do produto. Na YoPRO, os valores por porção estão no seletor \"por Porção (250ml)\" da tabela; a primeira tela mostra por 100 g/ml.",
+          "headers": [
+            "Produto",
+            "Porção",
+            "Calorias",
+            "Proteína",
+            "Açúcares totais",
+            "Lactose",
+            "Cafeína"
+          ],
+          "rows": [
+            [
+              "Nutren Protein Baunilha, pó",
+              "31,5 g",
+              "120 kcal",
+              "14 g",
+              "10 g",
+              "Contém (FAQ da Nestlé)",
+              "80 mg"
+            ],
+            [
+              "Nutren Protein Baunilha, pó com 180 ml de leite desnatado",
+              "31,5 g + 180 ml",
+              "182 kcal",
+              "20 g (6 g vêm do leite)",
+              "19 g",
+              "Contém",
+              "80 mg"
+            ],
+            [
+              "Nutren Protein Chocolate, pó",
+              "31,5 g",
+              "116 kcal",
+              "14 g",
+              "10 g",
+              "Contém (FAQ da Nestlé)",
+              "80 mg (FAQ da Nestlé)"
+            ],
+            [
+              "Nutren Protein pronto para beber, Baunilha ou Chocolate",
+              "260 ml (1 garrafa)",
+              "112 kcal (Baunilha) / 114 kcal (Chocolate)",
+              "15 g",
+              "12 g",
+              "0 g (tabela)",
+              "A tabela não traz"
+            ],
+            [
+              "Nutren Just Protein",
+              "15 g",
+              "52 kcal",
+              "13 g",
+              "0 g",
+              "Contém (rótulo da lata)",
+              "A tabela não traz"
+            ],
+            [
+              "Nutren Senior Café com Leite, pó",
+              "31,5 g",
+              "130 kcal",
+              "11 g",
+              "5,7 g",
+              "A página não informa",
+              "A tabela não traz"
+            ],
+            [
+              "Nutren Senior Sem Sabor Zero Lactose, pó",
+              "27,5 g",
+              "113 kcal",
+              "10 g",
+              "5 g",
+              "0 g",
+              "A tabela não traz"
+            ],
+            [
+              "YoPRO Chocolate 15 g, bebida láctea UHT",
+              "250 ml (1 unidade)",
+              "172 kcal",
+              "15 g",
+              "18 g",
+              "0 g",
+              "A tabela não traz"
+            ],
+            [
+              "Whey protein (categoria)",
+              "Depende do produto",
+              "Depende do rótulo",
+              "Depende do rótulo",
+              "Depende do rótulo",
+              "Depende do rótulo",
+              "Depende do rótulo"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os açúcares totais do pó com leite incluem a lactose do leite. A YoPRO de morango tem 148 kcal e 14 g de açúcares totais na mesma embalagem, com os mesmos 15 g de proteína."
+        ]
+      },
+      {
+        "heading": "Nutren Protein ou whey protein",
+        "paragraphs": [
+          "Pelo rótulo, a diferença principal é o que vem junto da proteína. Em 31,5 g, o Nutren Protein em pó traz 14 g de proteína, 10 g de açúcares totais, 80 mg de cafeína e vitaminas e minerais. O Nutren Just Protein, que a Nestlé descreve como \"100% whey protein isolado\", traz 13 g de proteína em 15 g, com carboidratos e açúcares em 0 g; a tabela dele não tem linha de cafeína nem de vitaminas, e o rótulo lista só proteína isolada do soro de leite de vaca e lecitina de soja.",
+          "Se você compara com o whey de outra marca, use o rótulo dele: proteína por porção, tamanho da porção, açúcares e se tem cafeína. A ficha completa do isolado da Nestlé está no nosso guia do Just Protein."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/nutren/nutren-just-protein-lata-280g.avif",
+            "alt": "Lata do Nutren Just Protein 280 g, whey protein isolado sem sabor da Nestlé",
+            "caption": "Nutren Just Protein 280 g. Foto oficial da Nestlé Nutre.",
+            "objectFit": "contain"
+          }
+        ],
+        "links": [
+          {
+            "label": "Nutren Just Protein: para que serve, como usar em receitas e tabela nutricional",
+            "href": "/reviews/nutren-just-protein-para-que-serve"
+          }
+        ]
+      },
+      {
+        "heading": "Nutren Protein ou YoPRO",
+        "paragraphs": [
+          "Aqui a comparação direta é entre bebidas prontas. A garrafa de 260 ml do Nutren Protein tem 15 g de proteína e 112 kcal na baunilha (114 kcal na de chocolate); a YoPRO de chocolate, de 250 ml, tem 15 g de proteína e 172 kcal. A YoPRO tem mais açúcares totais na embalagem (18 g contra 12 g), mas nas duas tabelas os açúcares adicionados são 0 g, e as duas trazem lactose 0 g. Pelas páginas oficiais, em 12/10/2026, a linha de 15 g da YoPRO tinha chocolate, morango e coco com batata doce.",
+          "O pó do Nutren Protein é outra coisa: você prepara, ele tem cafeína e o número de 20 g depende do leite. A linha UHT da YoPRO, segundo a marca, não precisa de refrigeração."
+        ]
+      },
+      {
+        "heading": "Nutren Protein ou Nutren Senior",
+        "paragraphs": [
+          "Na mesma porção de 31,5 g, o Nutren Protein Baunilha tem 14 g de proteína, 441 mg de cálcio e 3,2 µg de vitamina D. O Nutren Senior Café com Leite tem 11 g de proteína, 375 mg de cálcio e 25 µg de vitamina D, e a tabela dele não traz linha de cafeína.",
+          "A indicação também muda. A Nestlé descreve o Senior como linha para adultos acima dos 50 anos. Para o Nutren Protein, a página do Baunilha fala em \"jovens e adultos que querem mais foco e energia\"; a do Chocolate acrescenta pessoas \"especialmente a partir dos 50 anos\". Se a dúvida é lactose, a ficha do Senior Zero Lactose está no nosso guia."
+        ],
+        "links": [
+          {
+            "label": "Nutren Senior Zero Lactose: o que saber antes de comprar",
+            "href": "/reviews/nutren-senior-zero-lactose-ficha-tecnica"
+          }
+        ]
+      },
+      {
+        "heading": "Antes ou depois do treino, engorda ou emagrece: o que o rótulo permite dizer",
+        "paragraphs": [
+          "Nenhum dos rótulos que lemos diz que o produto engorda ou emagrece. O que eles informam são calorias e proteína por porção: 120 kcal no pó do Nutren Protein Baunilha (182 kcal com 180 ml de leite desnatado), 112 kcal na garrafa de baunilha (114 kcal na de chocolate) e 172 kcal na YoPRO de chocolate. O efeito no peso depende de tudo o que você come no dia.",
+          "Sobre o horário, a Nestlé escreve, na página do pó, que o Nutren Protein pode ser \"uma opção de pré ou pós treino\", e a YoPRO, que pode ser consumida \"pré-treino, pós-treino ou no intervalo entre as refeições\". São frases das marcas. Para saber a quantidade e o horário certos no seu caso, procure um médico ou nutricionista."
+        ]
+      },
+      {
+        "heading": "Cafeína, lactose, glúten e açúcar: quem deve ler duas vezes",
+        "bullets": [
+          "Cafeína: o pó do Nutren Protein tem 80 mg por porção de 31,5 g, e a Nestlé avisa que ele não deve ser consumido por gestantes, lactantes e crianças. A página e o rótulo do Nutren Just Protein, cuja tabela não lista cafeína, trazem o mesmo aviso.",
+          "Lactose: no FAQ da página da linha, a resposta a \"NUTREN® Protein contém lactose?\" é \"Sim, contém lactose\", e a mesma página mostra \"Zero Lactose\" entre os benefícios. O selo \"Zero Lactose\" está no rótulo da garrafa de 260 ml (a de chocolate, na foto deste guia), e as tabelas das garrafas de baunilha e de chocolate informam lactose 0 g. O FAQ não separa o pó da garrafa; com intolerância, confirme na embalagem.",
+          "Glúten: o FAQ da página da linha responde que o Nutren Protein \"contém glúten\". A YoPRO de chocolate diz \"não contém glúten\", e a loja marca o Just Protein como \"Sem Glúten\".",
+          "Açúcar: a tabela do Baunilha em pó traz 10 g de açúcares totais e 0,1 g de açúcares adicionados por porção; o FAQ da Nestlé diz que o produto não leva sacarose e que os açúcares são os próprios dos ingredientes, como a lactose."
+        ]
+      },
+      {
+        "heading": "Quando procurar médico ou nutricionista",
+        "paragraphs": [
+          "Segundo o FAQ da Nestlé, o Nutren Protein é um suplemento \"destinado a complementar sua alimentação\" e \"não oferece 100% da necessidade proteica de um adulto\". Para diabetes e cirurgia bariátrica, o FAQ da marca manda procurar médico ou nutricionista, e a YoPRO também manda consultar um médico ou nutricionista quando perguntam se ela substitui o whey. Vale também para quem tem 50 anos ou mais e está em dúvida entre o Protein e o Senior."
+        ]
+      },
+      {
+        "heading": "Preço em 12/10/2026 e o cupom CECI",
+        "paragraphs": [
+          "Na loja oficial, em 12/10/2026, o Nutren Protein de 400 g (baunilha ou chocolate) custava R$ 79,72 na compra única (de R$ 93,79), e o de 800 g (baunilha), R$ 134,71 (de R$ 168,39). A garrafa de 260 ml (baunilha ou chocolate) saía por R$ 10,59, e o Nutren Just Protein 280 g, por R$ 115,91. Preço muda com promoção: confira no carrinho.",
+          "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre (conferido em 04/10/2026). Não vale para Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Não temos código para a YoPRO."
+        ],
+        "links": [
+          {
+            "label": "Cupom Nestlé Nutre: CECI",
+            "href": "/cupons/nestle-nutre"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Nutren Protein é a mesma coisa que Nutren Just Protein? Não: o Nutren Protein em pó é um suplemento \"com Whey Protein, Cafeína e 20 vitaminas e minerais\", e o Nutren Just Protein é \"100% whey protein isolado\" e sem sabor, segundo a Nestlé; a versão pronta para beber do Nutren Protein tem outra tabela.",
+          "Nutren Protein é whey protein? O pó contém whey, mas não é só whey: a página o descreve como suplemento \"com Whey Protein, Cafeína e 20 vitaminas e minerais\", com 14 g de proteína em 31,5 g de pó.",
+          "Qual a diferença entre Nutren Protein e whey protein? Whey é a proteína do soro do leite, uma categoria; o Nutren Protein em pó é um produto com whey, cafeína, vitaminas e minerais, e cada whey de outra marca tem a sua tabela.",
+          "Nutren Protein engorda ou emagrece? O rótulo não afirma nenhum dos dois: são 120 kcal por porção de 31,5 g do pó Baunilha (182 kcal com 180 ml de leite desnatado) e 112 kcal na garrafa de baunilha, e o peso depende de toda a alimentação; para o seu caso, pergunte a um nutricionista.",
+          "Nutren Protein antes ou depois do treino? A página do Nutren Protein em pó diz que ele pode ser \"uma opção de pré ou pós treino\"; para saber o horário e a quantidade certos no seu caso, procure um médico ou nutricionista.",
+          "Nutren Protein tem 20 g de proteína? Só com 180 ml de leite desnatado: 14 g vêm do pó e 6 g do leite; o pó sozinho tem 14 g por porção.",
+          "Nutren Protein tem cafeína? O pó tem 80 mg por porção de 31,5 g, e a Nestlé avisa que não deve ser consumido por gestantes, lactantes e crianças; a tabela da garrafa de 260 ml não traz linha de cafeína.",
+          "Nutren Protein tem lactose ou é zero lactose? O FAQ da página da linha diz que o Nutren Protein contém lactose (e glúten) e não separa pó e garrafa; a garrafa pronta para beber de 260 ml traz o selo \"Zero Lactose\" no rótulo (visto na de chocolate) e lactose 0 g na tabela, na baunilha e no chocolate.",
+          "Existe Nutren Protein sem sabor? Não: o pó vem em baunilha e chocolate; sem sabor, a Nestlé vende o Nutren Just Protein, e o Nutren Senior também tem versão sem sabor.",
+          "Nutren Protein: qual a diferença entre baunilha e chocolate? Em 31,5 g de pó, o Baunilha tem 120 kcal e 441 mg de cálcio e o Chocolate, 116 kcal e 473 mg; os dois têm 14 g de proteína, 10 g de açúcares totais e 80 mg de cafeína, segundo a Nestlé.",
+          "O que é o Nutren Protein 15g? É a bebida pronta de 260 ml, com 15 g de proteína na garrafa; o sachê de 15 g é do Nutren Just Protein, com 13 g de proteína.",
+          "Nutren Protein ou YoPRO: qual escolher? As duas bebidas prontas têm 15 g de proteína; a garrafa do Nutren Protein tem 112 kcal (baunilha) ou 114 kcal (chocolate) e 12 g de açúcares totais, e a YoPRO de chocolate, 172 kcal e 18 g, sem açúcares adicionados nas duas.",
+          "Nutren Protein ou Nutren Senior: qual o melhor? Nos rótulos que lemos, nenhum se diz melhor: em 31,5 g, o Protein Baunilha tem 14 g de proteína e 3,2 µg de vitamina D, e o Senior Café com Leite tem 11 g e 25 µg, e a tabela do Senior não traz linha de cafeína.",
+          "Nutren ou whey protein para idoso? O rótulo não decide isso: a Nestlé descreve o Senior como linha para adultos acima dos 50 anos, a página do Nutren Protein Chocolate cita pessoas \"especialmente a partir dos 50 anos\" e o pó do Nutren Protein tem 80 mg de cafeína por porção; a escolha deve ser feita com médico ou nutricionista.",
+          "Quantas porções tem a lata de 800 g do Nutren Protein? Cerca de 25 porções de 31,5 g, e a de 400 g, cerca de 13, segundo a tabela."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Veja o pó e a bebida pronta do Nutren Protein na loja oficial da Nestlé Nutre e aplique o cupom CECI no carrinho.",
+      "label": "Ver o Nutren Protein na Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/nutren-protein",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Comparamos só o que as páginas oficiais informam.",
+    "relatedArticles": [
+      {
+        "slug": "nutren-just-protein-para-que-serve",
+        "title": "Nutren Just Protein: para que serve, como usar em receitas e tabela nutricional"
+      },
+      {
+        "slug": "nutren-senior-ensure-ou-sustagen-senior",
+        "title": "Nutren Senior, Ensure ou Sustagen Senior: qual escolher pelo rótulo de cada um"
+      },
+      {
+        "slug": "nestle-nutre-produtos-para-que-servem",
+        "title": "Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um"
       }
     ]
   }

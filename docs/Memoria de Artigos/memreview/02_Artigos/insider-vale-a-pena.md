@@ -6,9 +6,9 @@ parceiro: "[[Insider]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Compra"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy (decisão do Bruno), depois do OK das imagens novas para o CDN e da oferta nova da YesStyle"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 85
@@ -298,3 +298,10 @@ Observações para a redação: "não informada" quer dizer que a página consul
 10. **Mídia: RESOLVIDA (Bruno, 12/10/2026, "Pode uma foto oficial nova").** A capa é a foto oficial nova da Tech T-Shirt (seção 5). Fotos novas seguem o fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`. Concorrentes: nenhuma foto.
 11. **Verificações do navegador:** o navegador embutido não foi usado e nenhum site pediu CAPTCHA ou verificação. Nada ficou pendente para o Bruno nesse ponto.
 12. **Fora do escopo desta pauta:** Reclame Aqui, CNPJ, loja física, Black Friday e passo a passo do cupom ficam nos quatro artigos do cluster.
+
+## Redação (12/10/2026)
+
+- JSON em `content/reviews/insider-vale-a-pena.json` (id 362), no fim do `_manifest.json`. É a fonte da verdade do texto.
+- Capa: `/images/reviews/insider/insider-tech-t-shirt-preta-oficial.webp`, 1600×900, a foto oficial da Tech T-Shirt preta recortada em 16:9 (origem em `midia-staging\2026-10-12-imagens-pendentes\insider\`). Na seção das cuecas, a foto oficial do kit, que já estava no CDN.
+- Seis marcas comparadas só pelo site oficial de cada uma, lido em 12/10/2026: composição, gramatura, preço, troca e garantia. Só a Insider tem link, foto e código; as outras cinco ficam sem link.
+- Revisão Job 3 (12/10/2026): aprovado com ajustes. Aplicados: comparação de preço só entre camisetas equivalentes (a Tech T-Shirt contra as de modal e contra a Super Cotton da Hering, R$ 89,99; a Malha H+ a R$ 31,99 aparece à parte), a Daily como a mais barata das camisetas da Insider comparadas, a garantia de cor que cobre só o desbotamento por lavagem, 21 dias por insatisfação e 7 dias úteis por arrependimento, a regra da cueca só nas marcas que a publicam (Insider, Minimal Club, Hering e Alpha Co) e a divergência da composição da Slip na própria página.

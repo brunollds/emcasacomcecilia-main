@@ -6,9 +6,9 @@ parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo (terminar o rascunho)"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy (decisão do Bruno), depois do OK das imagens novas para o CDN e da oferta nova da YesStyle"
 bloqueado_por: null
 score_autoridade: 80
 score_conversao: 65
@@ -313,3 +313,10 @@ A coluna "Para quem" e a coluna "Sabores e lata" saem da seção 6.1 e da seçã
 11. **Fonte da loja:** o domínio responde 403 a leitura direta; toda conferência é no navegador e as páginas podem mudar entre a pauta e a redação. Reler as páginas citadas em 6.2 antes de fechar o texto.
 
 **Rodadas de atualização:** reconsultar em 2026-11-01 (CECI, preços) e antes da publicação (Protein pronto e Control Sem Sabor).
+
+## Redação (12/10/2026)
+
+- O rascunho de `content/reviews/nestle-nutre-produtos-para-que-servem.json` (id 224) foi reescrito por inteiro e sai do rascunho (`draft: false`). O slug fica. Título novo: "Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um"; os relacionados de `nestle-nutre-e-confiavel` e `nutren-senior-zero-lactose-ficha-tecnica` passaram a usar esse título.
+- Capa: `/images/reviews/nutren/nutren-linha-senior-protein-control-active.webp`, 1600×900, as latas do Senior Sem Sabor 740 g, do Protein Baunilha 400 g, do Control Baunilha 380 g e do Active Chocolate 400 g, fotos oficiais na mesma altura (origem em `midia-staging\2026-10-12-fase2\nutren\`). No corpo, a foto da linha Senior que já estava no CDN.
+- Tabelas e preços relidos no navegador em 12/10/2026, inclusive o Protein pronto e o Control (a tabela publicada é a da lata de 380 g; o preço citado é o da de 740 g, e o texto avisa).
+- Revisão Job 3 (12/10/2026): aprovado com ajustes. Aplicados: a indicação do Control nas palavras da Nestlé, sem "zero adição de açúcares" (as tabelas mostram açúcares adicionados), a FAQ de diabetes sem apontar o Control e o Premium atribuído à página.

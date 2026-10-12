@@ -6,9 +6,9 @@ parceiro: "[[Insider]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy (decisão do Bruno), depois do OK das imagens novas para o CDN e da oferta nova da YesStyle"
 bloqueado_por: null
 score_autoridade: 75
 score_conversao: 80
@@ -445,5 +445,9 @@ A própria marca diz que cada corpo é único e recomenda conferir a tabela de m
 
 ---
 
-## Redação
-Ainda não iniciada. Próxima ação: `redigir-artigo`.
+## Redação (12/10/2026)
+
+- JSON em `content/reviews/tabela-de-medidas-insider.json` (id 361), no fim do `_manifest.json`. É a fonte da verdade do texto.
+- Capa: `/images/reviews/insider/insider-tabela-medidas-tech-t-shirt-masculina.webp`, 1600×900, a tabela oficial da Tech T-Shirt masculina inteira sobre fundo branco (escolha do Bruno). Na seção das cuecas, a tabela oficial da Comfort, igual à da Performance, em 820×395, a metade exata do original. As 22 tabelas oficiais, baixadas do botão "Tabela de Medidas da Peça", estão em `midia-staging\2026-10-12-fase2\insider-tabelas\`.
+- Tabelas transcritas em texto e conferidas duas vezes: a revisão comparou 406 células com as imagens e com uma transcrição às cegas, sem nenhuma divergência. O estoque por tamanho foi lido nos dados públicos de cada produto em 12/10/2026.
+- Revisão Job 3 (12/10/2026): aprovado com ajustes. Aplicados: os tamanhos grandes por linha (as tabelas femininas vão até o XGG; a Gola V feminina lista o XXGG, esgotado), o estoque das cuecas e das femininas separado por linha, a regra de leitura marcada como nossa, a frase de escopo (Tech Heavy, Sportee, Performance T-Shirt 2.0 e The Perfect Top ficam na página do produto) e o crédito da tabela da cueca.

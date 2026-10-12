@@ -1,10 +1,11 @@
 {
   "id": 224,
   "slug": "nestle-nutre-produtos-para-que-servem",
-  "title": "Nestlé Nutre: produtos, para que servem e como comprar",
-  "type": "Editorial",
+  "title": "Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um",
+  "seoTitle": "Qual Nutren escolher? Senior, Protein, Control ou Active",
+  "type": "Guia de Escolha",
   "category": "guias-praticos-utilidade",
-  "reviewKind": "editorial",
+  "reviewKind": "guia",
   "author": {
     "name": "Cecília Mauad",
     "slug": "cecilia-mauad",
@@ -12,75 +13,154 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Guia da linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra, Fortify e Mulher. Entenda a indicação de cada produto, formas de consumo e como comprar.",
-  "metaDescription": "Guia da linha Nestlé Nutre: Nutren Senior, Control, 2.0, Ultra e Fortify. Veja a indicação de cada fórmula e como consultar preços e cupons no site.",
-  "publishedAt": "Draft",
-  "draft": true,
-  "image": "/images/reviews/nutren/linha-produtos-hero.webp",
-  "imageAlt": "Linha de produtos Nestlé Nutre",
-  "imageFit": "cover",
+  "description": "Para quem a Nestlé indica cada linha Nutren (Senior, Protein, Control e Active), nove versões lado a lado pelo rótulo, com cafeína, glúten, lactose e açúcares, e onde entra o cupom CECI.",
+  "metaDescription": "Qual Nutren escolher? Senior, Protein, Control e Active lado a lado pelo rótulo: para quem é cada um, proteína, cafeína, glúten, lactose e o cupom CECI.",
+  "publishedAt": "12 de outubro de 2026",
+  "publishedAtISO": "2026-10-12",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/nutren/nutren-linha-senior-protein-control-active.webp",
+  "imageAlt": "Latas de Nutren Senior Sem Sabor 740 g, Nutren Protein Baunilha 400 g, Nutren Control Baunilha 380 g e Nutren Active Chocolate 400 g lado a lado",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
   "pros": [],
   "cons": [],
   "contentSections": [
     {
-      "heading": "O que é a Nestlé Nutre?",
+      "heading": "Resposta rápida: qual Nutren é para quem",
       "paragraphs": [
-        "A Nestlé Nutre é uma marca da Nestlé Health Science voltada à nutrição e suplementação. O propósito declarado da marca é ajudar pessoas, promovendo saúde e bem-estar com soluções inovadoras e personalizadas. A linha abrange categorias como suplementação, nutrição clínica, nutrição pediátrica e envelhecimento saudável, com foco em áreas como metabolismo, saúde gastrointestinal e neurológica. Os produtos são desenvolvidos para complementar a alimentação diária e atender a necessidades específicas de diferentes perfis de consumidores, desde adultos em processo de envelhecimento até pessoas com demandas nutricionais controladas. A marca opera exclusivamente no Brasil por meio do site oficial, onde é possível adquirir os produtos diretamente."
+        "Não existe \"o melhor Nutren\": cada linha tem um público definido pela própria Nestlé. Comparamos só rótulos e páginas oficiais, lidos em 12/10/2026, sem teste próprio."
       ],
-      "bullets": []
+      "bullets": [
+        "Nutren Senior: linha para adultos acima dos 50 anos.",
+        "Nutren Protein: para jovens e adultos que querem \"foco e energia\"; o pó tem 80 mg de cafeína por porção e não é para gestantes, lactantes e crianças.",
+        "Nutren Control: para o manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação de nutricionista ou médico.",
+        "Nutren Active: complemento para jovens e adultos.",
+        "As porções mudam de uma linha para outra (27,5 g, 31,5 g, 40 g, 42 g de pó; 200 ou 260 ml de bebida). Compare a tabela com isso em mente."
+      ]
     },
     {
-      "heading": "Nutren Senior",
+      "heading": "Como a Nestlé separa a linha Nutren",
       "paragraphs": [
-        "O Nutren Senior é uma fórmula desenvolvida para adultos com 50 anos ou mais. A linha conta com opções tradicionais e com a variante específica Zero Lactose para consumidores com intolerância.",
-        "A composição é enriquecida com vitaminas A, E, C, D, K e do complexo B, além de minerais como cálcio, ferro, zinco e selênio. O produto está disponível em pó (latas de 370g e 740g, com valores de referência verificados em agosto de 2026 sujeitos a ofertas) e na versão pronta para beber (RTD 200ml)."
+        "Parte da linha é de consumo: Senior, Protein, Control e Active, que este guia compara, além de Just Protein, Creatina, Mulher e Kids. A outra parte é de nutrição clínica, como os Nutren 1.5, 2.0, Ultra e Fortify, que a loja apresenta como Nutren Medical ou nutrição enteral e oral. Esses seguem a orientação do médico ou nutricionista e ficam fora da tabela."
+      ]
+    },
+    {
+      "heading": "As nove versões lado a lado",
+      "comparisonTable": {
+        "caption": "Valores por porção das páginas e rótulos da Nestlé Nutre em 12/10/2026. As porções são diferentes: não ordene por proteína. \"Com leite\" é o preparo com 180 ml de leite desnatado, como a página informa. Traço: a página ou a tabela não traz o dado.",
+        "headers": ["Versão", "Porção", "Calorias", "Proteína", "Açúcares totais / adicionados", "Lactose", "Glúten", "Cafeína"],
+        "rows": [
+          ["Senior Sem Sabor Zero Lactose, lata de 740 g", "27,5 g", "113 kcal", "10 g", "5 g / 3 g", "0 g", "Não contém (FAQ)", "—"],
+          ["Senior Café com Leite, lata de 740 g", "31,5 g", "130 kcal", "11 g (17 g com leite)", "5,7 g / 0,4 g", "—", "Não contém (FAQ)", "—"],
+          ["Senior Premium Baunilha, lata de 370 g", "40 g", "166 kcal", "16 g", "11 g / 0,1 g", "Contém (página)", "Não contém (página)", "—"],
+          ["Senior pronto Chocolate, 200 ml", "200 ml", "198 kcal", "16 g", "1,2 g / 0,3 g", "0 g", "Não contém (FAQ)", "—"],
+          ["Protein pó Baunilha, lata de 400 g", "31,5 g", "120 kcal", "14 g (20 g com leite)", "10 g / 0,1 g", "Contém (FAQ)", "Contém (FAQ)", "80 mg"],
+          ["Protein pronto Baunilha, 260 ml", "260 ml", "112 kcal", "15 g", "12 g / 0 g", "0 g", "—", "—"],
+          ["Control pó Baunilha, lata de 380 g", "42 g, com 180 ml de água", "186 kcal", "15 g", "5 g / 4,8 g", "0 g", "Não contém (rótulo)", "—"],
+          ["Control pronto Baunilha, 200 ml", "200 ml", "212 kcal", "15 g", "4,6 g / 4,6 g", "0 g", "Não contém (FAQ)", "—"],
+          ["Active pó Baunilha, lata de 400 g", "31,5 g", "114 kcal", "7,5 g (14 g com leite)", "12 g / 1,5 g", "Contém (FAQ)", "Contém (FAQ)", "—"]
+        ]
+      }
+    },
+    {
+      "heading": "Nutren Senior: para que serve e quais versões existem",
+      "paragraphs": [
+        "A Nestlé descreve o Senior como a linha \"desenvolvida especialmente para a nutrição de adultos acima dos 50 anos\". A indicação nas páginas de produto é \"para pessoas a partir dos 50 anos\" que procuram nutrientes que auxiliem a imunidade, a vitalidade e a saúde de ossos e músculos. É complemento alimentar, não remédio.",
+        "Há o pó em latas de 740 g (Sem Sabor, Zero Lactose e sabores), o Premium de 370 g, que segundo a Nestlé tem \"colágeno FORTIGEL® e ômega 3\", e o pronto para beber de 200 ml, isento de lactose. O Senior Sem Sabor de 740 g (o que não é Zero Lactose) traz na lata 20 g de proteína na porção diária de 55 g, tomada em duas doses de 27,5 g. Pelo FAQ da linha, o pó e o pronto não contêm glúten; só as cápsulas Senior A-Z contêm."
       ],
-      "bullets": [],
+      "images": [
+        {
+          "src": "/images/reviews/nutren/nutren-senior-linha-hero.webp",
+          "alt": "Linha Nutren Senior: cápsulas A-Z, lata de 740 g Zero Lactose Sem Sabor, lata Premium de 370 g e embalagem pronta de 200 ml sabor chocolate",
+          "caption": "A linha Nutren Senior. Imagem oficial da Nestlé Nutre.",
+          "objectFit": "contain"
+        }
+      ],
+      "postParagraphs": [
+        "Se você já escolheu o Senior, o preparo sem grumos e a diferença entre as latas estão no nosso guia de como tomar."
+      ],
       "links": [
         {
-          "label": "Ver opções da linha Nutren Senior na loja oficial",
-          "href": "https://www.nestlenutre.com.br/"
+          "label": "Como tomar Nutren Senior sem empelotar",
+          "href": "/reviews/nutren-senior-como-tomar-sem-empelotar"
         }
       ]
     },
     {
-      "heading": "Nutren Control",
+      "heading": "Nutren Protein: pó com cafeína ou garrafa pronta",
       "paragraphs": [
-        "O Nutren Control é indicado para o suporte nutricional no controle dietético de pessoas com necessidades no metabolismo de açúcares. Contém fibras e carboidratos de absorção lenta, comercializado em pó e pronto para beber. Os valores de referência variam conforme embalagem e promoções da loja oficial consultadas em agosto de 2026. O uso deve acompanhar orientação profissional."
+        "O Nutren Protein em pó é um suplemento \"com Whey Protein, Cafeína e 20 vitaminas e minerais\", em baunilha e chocolate (400 g; o de 800 g só em baunilha). Na porção de 31,5 g são 14 g de proteína e 80 mg de cafeína; os 20 g do destaque valem com 180 ml de leite desnatado. A página indica \"para jovens e adultos que querem mais foco e energia no dia a dia corrido\" e avisa que ele \"não deve ser consumido por gestantes, lactantes e crianças\". O FAQ diz que contém lactose e glúten.",
+        "A garrafa pronta de 260 ml é outro produto: 15 g de proteína, 112 kcal e lactose 0 g na tabela, que não traz linha de cafeína. Nenhum dos dois é o Nutren Just Protein, o whey isolado sem sabor da Nestlé. A comparação com whey e com a YoPRO está no nosso guia do Nutren Protein."
       ],
-      "bullets": []
-    },
-    {
-      "heading": "Nutren 2.0",
-      "paragraphs": [
-        "O Nutren 2.0 é uma fórmula hipercalórica (2,0 kcal/mL), hiperlipídica e normoproteica, isenta de lactose e sem glúten, voltada a situações que demandam alta densidade calórica em volumes reduzidos. Comercializado em embalagem pronta para beber de 200ml, com valor de referência individual consultado em agosto de 2026 sujeito a pacotes e promoções."
-      ],
-      "bullets": []
-    },
-    {
-      "heading": "Nutren Ultra",
-      "paragraphs": [
-        "O Nutren Ultra é uma bebida pronta rica em proteínas (20g por porção) e 282 kcal em embalagem de 125ml, com 17 vitaminas e minerais. É voltada para praticidade de consumo no dia a dia, com preço de referência por unidade verificado em agosto de 2026 na loja oficial."
-      ],
-      "bullets": []
-    },
-    {
-      "heading": "Nutren Fortify e Nutren Mulher",
-      "paragraphs": [
-        "O Nutren Fortify é uma formulação que inclui ômega-3 e proteínas, com preço aproximado similar ao da linha Senior. O produto é voltado para o suporte nutricional com foco em componentes específicos que integram a dieta de adultos. Já o Nutren Mulher foi desenvolvido com colágeno, atendendo a demandas relacionadas à beleza e nutrição feminina. Ambos os produtos devem ser considerados como complementos alimentares e não como substitutos de refeições, devendo ser utilizados conforme as orientações do rótulo. A escolha entre as versões depende dos objetivos nutricionais individuais de cada consumidor."
-      ],
-      "bullets": []
-    },
-    {
-      "heading": "Como comprar e uso responsável",
-      "paragraphs": [
-        "Os produtos da linha Nestlé Nutre podem ser adquiridos no site oficial da marca. Os preços informados neste guia são referenciais (consultados em agosto de 2026) e podem oscilar conforme campanhas promocionais e frete.",
-        "No checkout, o consumidor pode testar o cupom CECI para obter 10% de desconto em produtos elegíveis (com exceção de Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses, como NAN). Recomenda-se ler o rótulo completo de cada produto antes de iniciar o uso."
-      ],
-      "bullets": [],
       "links": [
         {
-          "label": "Ver o cupom disponível para produtos Nutren",
+          "label": "Nutren Protein ou whey protein: como escolher pelo rótulo, com YoPRO e Nutren Senior",
+          "href": "/reviews/nutren-protein-ou-whey"
+        }
+      ]
+    },
+    {
+      "heading": "Nutren Control: o que a Nestlé diz e o que a tabela mostra",
+      "paragraphs": [
+        "A indicação da Nestlé para o Control é esta: \"para o manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares\", com a recomendação de \"consumir preferencialmente sob orientação de nutricionista ou médico\". A página do produto diz que ele é isento de sacarose, frutose, glicose e lactose, e a tabela traz esses quatro com 0 g. Mesmo assim, ela mostra 5 g de açúcares totais, 4,8 g deles adicionados, na porção de 42 g do pó, e 4,6 g, todos adicionados, na embalagem pronta de 200 ml.",
+        "O rótulo da lata de 380 g dá o preparo: 5 colheres de sopa (42 g) em um copo com 50 ml de água, misturar até formar uma pasta cremosa e juntar mais 130 ml de água. A lata destaca caseinato e whey protein como proteínas. O rótulo diz que o pó não contém glúten e contém derivados de leite e soja, e o FAQ diz o mesmo do glúten no pronto. O rótulo ainda avisa que o pó é para adultos e não é adequado como única fonte de nutrição. Leve a tabela ao médico ou nutricionista antes de escolher."
+      ]
+    },
+    {
+      "heading": "Nutren Active: o complemento para jovens e adultos",
+      "paragraphs": [
+        "A Nestlé descreve o Active como complemento alimentar \"para jovens e adultos que precisam de mais energia e disposição para encarar a rotina agitada\". A diferença para o Senior, na resposta da própria marca: \"Nutren Active foi feito para jovens e adultos e Nutren Senior para pessoas com mais de 50 anos\".",
+        "A lata tem 400 g, em baunilha, chocolate e morango. Na porção de 31,5 g da baunilha são 7,5 g de proteína, ou 14 g com 180 ml de leite desnatado. O FAQ diz que o Active contém lactose e glúten e que ele não pode ser fervido: se quiser quente, junte leite quente."
+      ]
+    },
+    {
+      "heading": "O que mais existe na linha e não entra na tabela",
+      "bullets": [
+        "Nutren Just Protein: whey protein isolado sem sabor, com ficha própria no nosso guia.",
+        "Nutren Creatina: suplemento de creatina, também com guia próprio.",
+        "Nutren Mulher: linha com colágeno, em pó e cápsulas.",
+        "Nutren Kids e cápsulas A-Z: existem na loja e ficam fora deste guia.",
+        "Nutren Medical (1.5, 2.0, Ultra, Fortify): nutrição clínica, só com orientação do médico ou nutricionista."
+      ]
+    },
+    {
+      "heading": "Cafeína, glúten, lactose e açúcares: o que muda entre as linhas",
+      "bullets": [
+        "Cafeína: das tabelas lidas, só a do Nutren Protein em pó traz cafeína, 80 mg por porção; a da garrafa de 260 ml não traz linha de cafeína.",
+        "Glúten: o Protein em pó e o Active contêm; Senior em pó e pronto e Control não contêm.",
+        "Lactose: o Senior Zero Lactose, o Senior pronto, o Control e a garrafa do Protein trazem 0 g; o Protein em pó e o Active contêm, segundo o FAQ, e a página do Senior Premium também diz que contém.",
+        "Açúcares: as tabelas do Protein em pó e do Active, ambos de baunilha, trazem 0,1 g e 1,5 g de açúcares adicionados por porção. O Control, isento de sacarose, frutose, glicose e lactose, tem 4,8 g de açúcares adicionados no pó e 4,6 g no pronto."
+      ]
+    },
+    {
+      "heading": "Quando falar com médico ou nutricionista",
+      "paragraphs": [
+        "Nos FAQs da Nestlé, diabetes e cirurgia bariátrica (no Protein) e gestação, hipertensão e câncer (no Active) são casos em que a marca manda procurar o médico ou nutricionista. O Control, pelo rótulo, deve ser consumido de preferência com essa orientação. Este guia ajuda a ler o rótulo, mas não escolhe o produto para uma condição de saúde."
+      ]
+    },
+    {
+      "heading": "Preços em 12/10/2026 e o cupom CECI",
+      "comparisonTable": {
+        "caption": "Preços da loja oficial da Nestlé Nutre em 12/10/2026, na compra única. Mudam com promoção: confira no carrinho.",
+        "headers": ["Produto", "Preço na compra única", "Preço cheio exibido"],
+        "rows": [
+          ["Nutren Senior Sem Sabor, 740 g", "R$ 169,37", "R$ 188,19"],
+          ["Nutren Senior Sem Sabor Zero Lactose, 740 g", "R$ 190,61", "R$ 211,79"],
+          ["Nutren Senior Premium Baunilha, 370 g", "R$ 137,18", "R$ 161,39"],
+          ["Nutren Protein, 400 g (baunilha ou chocolate)", "R$ 79,72", "R$ 93,79"],
+          ["Nutren Protein Baunilha, 800 g", "R$ 134,71", "R$ 168,39"],
+          ["Nutren Protein pronto, 260 ml", "R$ 10,59", "—"],
+          ["Nutren Control Baunilha, 740 g (a tabela nutricional acima é a da lata de 380 g)", "R$ 171,91", "R$ 214,89"],
+          ["Nutren Active Baunilha, 400 g", "R$ 50,79", "R$ 63,49"]
+        ]
+      },
+      "postParagraphs": [
+        "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre (conferido em 04/10/2026). Não vale para Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
+      ],
+      "links": [
+        {
+          "label": "Cupom Nestlé Nutre: CECI",
           "href": "/cupons/nestle-nutre"
         }
       ]
@@ -88,41 +168,50 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual produto da linha Nutren é indicado para idosos? O Nutren Senior é voltado para adultos com 50 anos ou mais, com vitaminas, minerais e fibras.",
-        "Preciso de receita médica para comprar Nutren? Não, mas itens de nutrição clínica devem ser usados conforme o rótulo e, quando necessário, com orientação de profissional de saúde.",
-        "O cupom CECI pode ser testado para toda a linha Nutren? Funciona para a maior parte dos produtos. Alfamino e Alfaré ficam de fora da promoção, e o cupom não deve ser usado em fórmulas infantis para bebês de 0 a 12 meses, em que a lei proíbe cupons e descontos.",
-        "Qual a diferença entre Nutren 2.0 e Nutren Ultra? O Nutren 2.0 é hipercalórico (2,0 kcal/mL) e indicado para nutrição clínica; o Nutren Ultra é uma bebida pronta rica em proteínas (20g por porção) para consumo do dia a dia.",
-        "Nutren 2.0 é para engordar? O Nutren 2.0 é uma fórmula hipercalórica (2,0 kcal/mL) indicada para situações que exigem alta oferta calórica em volumes restritos. Ele não é um 'engordante', mas um suplemento de nutrição clínica para reposição energética intensa, e deve ser usado sob orientação de profissional de saúde.",
-        "Nutren Ultra pode substituir uma refeição? O Nutren Ultra é uma fórmula pronta para consumo, rica em proteínas (20g por porção) e 17 vitaminas e minerais. Ele complementa a alimentação, mas não substitui refeições completas. É ideal para quem precisa de praticidade e um boost proteico no dia a dia.",
-        "Nutren Mulher melhora a pele e o cabelo? O Nutren Mulher contém colágeno em sua formulação, nutriente associado à saúde da pele, unhas e cabelos. No entanto, ele é um complemento alimentar e não um medicamento cosmético. Os resultados variam de pessoa para pessoa e dependem da consistência de uso e da alimentação geral.",
-        "Cupom Nestlé Nutren: onde encontrar? O cupom CECI é o código de parceria que pode aplicar 10% OFF no checkout em produtos elegíveis do blog Em Casa com Cecília com a Nestlé Nutre. Ele pode conceder 10% de desconto na maioria dos produtos da loja oficial e pode ser aplicado diretamente no campo de cupom no checkout.",
-        "Nutren desconto laboratório: há desconto para laboratórios? Não há desconto específico para laboratórios no site oficial da Nestlé Nutre. O cupom CECI é válido para compras de pessoa física e pode ser usado por profissionais de saúde em compras pessoais, mas não substitui contratos corporativos ou vendas diretas para instituições.",
-        "Promo desconto Nutren Senior: existe promoção específica? O cupom CECI pode ser testado no checkout para tentar obter 10% de desconto em Nutren Senior e demais produtos elegíveis da linha, conforme as regras ativas na loja oficial.",
-        "Nestlé meu desconto nutrição: existe programa de desconto? Não existe um programa com esse nome exato, mas a Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês. É um benefício separado da nossa parceria: o cupom CECI pode conceder 10% de desconto sem necessidade de cadastro em nenhum programa.",
-        "Programa de desconto Nutren: como funciona? A Nestlé Nutre tem o Programa Nestlé Nutre, de suporte ao paciente, com um cupom de 10% renovado todo mês. O cupom CECI pode ser testado direto no checkout para tentar obter 10% de desconto em itens elegíveis.",
-        "Cupom Nestlé: o CECI vale para outros produtos Nestlé? Não. O cupom CECI é válido exclusivamente para produtos vendidos no site oficial da Nestlé Nutre. Não pode ser testado para produtos de outras marcas Nestlé como Nescafé, Kit Kat, Purina ou outros e-commerces.",
-        "Onde comprar Nestlé Nutre com desconto? Os produtos Nestlé Nutre são vendidos exclusivamente no site oficial da marca. É possível testar o cupom CECI no checkout para tentar obter 10% de desconto em produtos elegíveis (exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses, conforme as condições vigentes na loja oficial). Não há necessidade de receita médica para a compra."
+        "Qual Nutren escolher? Depende de quem vai usar e do que o médico ou nutricionista indicou: a Nestlé destina o Senior a quem tem mais de 50 anos, o Active a jovens e adultos, o Protein a quem quer foco e energia (com 80 mg de cafeína no pó) e o Control ao manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação de nutricionista ou médico.",
+        "Para que serve o Nutren Senior? Segundo a Nestlé, é para pessoas a partir dos 50 anos que procuram nutrientes que auxiliem a imunidade, a vitalidade e a saúde de ossos e músculos; não é remédio.",
+        "Nutren Protein ou Nutren Senior: qual o melhor? Não há um melhor: o Senior é para quem tem mais de 50 anos e o Protein para jovens e adultos, e o Protein em pó tem cafeína, lactose e glúten, enquanto o Senior em pó e pronto não contém glúten.",
+        "Para que serve o Nutren Control? A Nestlé o indica para o manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação de nutricionista ou médico.",
+        "Nutren Control é para diabéticos? A indicação da Nestlé fala em pessoas com necessidades especiais no metabolismo de açúcares, de preferência com orientação profissional; para quem tem diabetes, quem decide é o médico ou nutricionista que acompanha a pessoa.",
+        "Nutren Control tem açúcar? Tem açúcares na tabela: 5 g totais, 4,8 g adicionados, por 42 g do pó, e 4,6 g, todos adicionados, no pronto de 200 ml, com sacarose, frutose, glicose e lactose em 0 g; quem precisa controlar açúcares deve levar a tabela ao médico ou nutricionista.",
+        "Como preparar o Nutren Control em pó? Pelo rótulo da lata de 380 g: 5 colheres de sopa (42 g) com 50 ml de água até formar uma pasta, depois mais 130 ml de água, e consumir logo após o preparo.",
+        "Nutren Control tem glúten? Não: o rótulo do pó e o FAQ do pronto dizem que não contém glúten, e o pó contém derivados de leite e soja.",
+        "Para que serve o Nutren Active? A Nestlé o descreve como complemento para jovens e adultos que precisam de mais energia e disposição; ele contém lactose e glúten.",
+        "Qual a diferença entre Nutren Active e Nutren Senior? Pela Nestlé, o Active é para jovens e adultos e o Senior para pessoas com mais de 50 anos, e as tabelas têm porções e nutrientes diferentes.",
+        "Nutren Protein tem cafeína? O pó tem 80 mg por porção de 31,5 g e não deve ser consumido por gestantes, lactantes e crianças; a tabela da garrafa de 260 ml não traz linha de cafeína.",
+        "Nutren Senior tem glúten e lactose? O Senior em pó e pronto não contém glúten, segundo o FAQ; o Zero Lactose e o pronto têm 0 g de lactose, e a tabela do Café com Leite não traz linha de lactose; a página do Premium diz que ele contém lactose.",
+        "Nutren Senior engorda? Nas páginas que lemos, a Nestlé não fala em ganho de peso para o Senior, e no FAQ do Control escreve que \"nenhum alimento por si só tem o poder de engordar ou emagrecer\"; o peso depende de toda a alimentação e da orientação do médico ou nutricionista.",
+        "Nutren Senior serve para quimioterapia ou câncer? A página do Senior não o indica para isso; quem faz tratamento deve perguntar ao médico ou nutricionista, e a Nestlé tem linhas separadas de nutrição clínica.",
+        "Nutren Senior serve para diabetes? A página do Senior não o indica para diabetes; a escolha é do médico ou nutricionista que acompanha a pessoa.",
+        "O cupom CECI vale para todos os Nutren? Dá 10% OFF na loja oficial da Nestlé Nutre (conferido em 04/10/2026), exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
       ]
     }
   ],
   "cta": {
-    "text": "Compre no site oficial com cupom CECI",
-    "label": "Ver produtos",
-    "url": "https://www.nestlenutre.com.br/"
+    "text": "Escolha a linha Nutren na loja oficial da Nestlé Nutre e aplique o cupom CECI no carrinho.",
+    "label": "Ir para a Nestlé Nutre",
+    "url": "https://www.nestlenutre.com.br/",
+    "sponsored": true
   },
   "coupon": "CECI",
   "affiliate": "nestle-nutre",
-  "editorialNote": "Este artigo menciona o cupom CECI como parte de uma parceria comercial ativa com a Nestlé Nutre. O conteúdo foi produzido com base em informações públicas disponíveis no site oficial e não reflete experiência pessoal de uso dos produtos.",
+  "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Comparamos só rótulos e páginas oficiais.",
   "relatedArticles": [
     {
-      "slug": "nestle-nutre-e-confiavel",
-      "title": "Nestlé Nutre é confiável? O que observar antes de comprar"
+      "slug": "nutren-senior-ensure-ou-sustagen-senior",
+      "title": "Nutren Senior, Ensure ou Sustagen Senior: qual escolher pelo rótulo de cada um"
+    },
+    {
+      "slug": "nutren-just-protein-para-que-serve",
+      "title": "Nutren Just Protein: para que serve, como usar em receitas e tabela nutricional"
     },
     {
       "slug": "cupom-ceci-nestle-nutre-como-usar",
       "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+    },
+    {
+      "slug": "nutren-senior-zero-lactose-ficha-tecnica",
+      "title": "Nutren Senior Zero Lactose: o que saber antes de comprar"
     }
-  ],
-  "publishedAtISO": "2026-08-11",
-  "updatedAt": "2026-08-11"
+  ]
 }

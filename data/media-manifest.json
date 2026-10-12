@@ -45134,6 +45134,160 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/insider-tabela-medidas-cueca-comfort-performance.webp",
+      "local_url": "/images/reviews/insider/insider-tabela-medidas-cueca-comfort-performance.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15466,
+      "sha256": "9de77c77f96117b139fb64d750553406fa7768e3a9667068d5cfe7cbc342d0a2",
+      "width": 820,
+      "height": 395,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-tabela-medidas-cueca-comfort-performance.webp",
+      "storage_filename": "insider-tabela-medidas-cueca-comfort-performance.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tabela-de-medidas-insider.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tabela-de-medidas-insider.json",
+          "line": 214,
+          "column": 19,
+          "literal": "/images/reviews/insider/insider-tabela-medidas-cueca-comfort-performance.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 61034,
+          "column": 21,
+          "literal": "/images/reviews/insider/insider-tabela-medidas-cueca-comfort-performance.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9de77c77f96117b139fb64d750553406fa7768e3a9667068d5cfe7cbc342d0a2/insider-tabela-medidas-cueca-comfort-performance.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9de77c77f96117b139fb64d750553406fa7768e3a9667068d5cfe7cbc342d0a2/insider-tabela-medidas-cueca-comfort-performance.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T21:19:47.242Z",
+      "verification_etag_or_digest": "9de77c77f96117b139fb64d750553406fa7768e3a9667068d5cfe7cbc342d0a2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-tabela-medidas-tech-t-shirt-masculina.webp",
+      "local_url": "/images/reviews/insider/insider-tabela-medidas-tech-t-shirt-masculina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 40320,
+      "sha256": "dc8793b1081510b0691ca9e28b1670c7e924854c4bdd10148c4edd44a15de2ac",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-tabela-medidas-tech-t-shirt-masculina.webp",
+      "storage_filename": "insider-tabela-medidas-tech-t-shirt-masculina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tabela-de-medidas-insider.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/tabela-de-medidas-insider.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tabela-de-medidas-insider.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/insider/insider-tabela-medidas-tech-t-shirt-masculina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/tabela-de-medidas-insider.md",
+          "line": 451,
+          "column": 10,
+          "literal": "/images/reviews/insider/insider-tabela-medidas-tech-t-shirt-masculina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60443,
+          "column": 15,
+          "literal": "/images/reviews/insider/insider-tabela-medidas-tech-t-shirt-masculina.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/dc8793b1081510b0691ca9e28b1670c7e924854c4bdd10148c4edd44a15de2ac/insider-tabela-medidas-tech-t-shirt-masculina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dc8793b1081510b0691ca9e28b1670c7e924854c4bdd10148c4edd44a15de2ac/insider-tabela-medidas-tech-t-shirt-masculina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T21:19:47.244Z",
+      "verification_etag_or_digest": "dc8793b1081510b0691ca9e28b1670c7e924854c4bdd10148c4edd44a15de2ac",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-tech-t-shirt-preta-oficial.webp",
+      "local_url": "/images/reviews/insider/insider-tech-t-shirt-preta-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33086,
+      "sha256": "1ff7deded3b532af2c8614c03598fccce09d4f8790a0910caa0f360a533a0883",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-tech-t-shirt-preta-oficial.webp",
+      "storage_filename": "insider-tech-t-shirt-preta-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-vale-a-pena.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/insider-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-vale-a-pena.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/insider/insider-tech-t-shirt-preta-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/insider-vale-a-pena.md",
+          "line": 305,
+          "column": 10,
+          "literal": "/images/reviews/insider/insider-tech-t-shirt-preta-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 61482,
+          "column": 15,
+          "literal": "/images/reviews/insider/insider-tech-t-shirt-preta-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1ff7deded3b532af2c8614c03598fccce09d4f8790a0910caa0f360a533a0883/insider-tech-t-shirt-preta-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1ff7deded3b532af2c8614c03598fccce09d4f8790a0910caa0f360a533a0883/insider-tech-t-shirt-preta-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T21:19:47.244Z",
+      "verification_etag_or_digest": "1ff7deded3b532af2c8614c03598fccce09d4f8790a0910caa0f360a533a0883",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/insider-tech-t-shirt-vinho-oficial.webp",
       "local_url": "/images/reviews/insider/insider-tech-t-shirt-vinho-oficial.webp",
       "media_kind": "image",
@@ -49588,6 +49742,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/magalu/magazine-voce-loja-emcasacomcecilia-topo.webp",
+      "local_url": "/images/reviews/magalu/magazine-voce-loja-emcasacomcecilia-topo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28174,
+      "sha256": "4bb558006a9da56cd2a25d8f3289de8fa5357de7a68e1a0854a741a4a23b335d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "magazine-voce-loja-emcasacomcecilia-topo.webp",
+      "storage_filename": "magazine-voce-loja-emcasacomcecilia-topo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/magazine-voce-e-confiavel.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/magazine-voce-e-confiavel.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/magazine-voce-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/magalu/magazine-voce-loja-emcasacomcecilia-topo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/magazine-voce-e-confiavel.md",
+          "line": 369,
+          "column": 10,
+          "literal": "/images/reviews/magalu/magazine-voce-loja-emcasacomcecilia-topo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 35258,
+          "column": 15,
+          "literal": "/images/reviews/magalu/magazine-voce-loja-emcasacomcecilia-topo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4bb558006a9da56cd2a25d8f3289de8fa5357de7a68e1a0854a741a4a23b335d/magazine-voce-loja-emcasacomcecilia-topo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4bb558006a9da56cd2a25d8f3289de8fa5357de7a68e1a0854a741a4a23b335d/magazine-voce-loja-emcasacomcecilia-topo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T21:19:47.244Z",
+      "verification_etag_or_digest": "4bb558006a9da56cd2a25d8f3289de8fa5357de7a68e1a0854a741a4a23b335d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/manteiga-batida-aerada.jpg",
       "local_url": "/images/reviews/manteiga-batida-aerada.jpg",
       "media_kind": "image",
@@ -50600,6 +50808,114 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "73523bd990a53b8ba854f929bc691ef17567519499a5d30522a00c2f71401bf4",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-linha-senior-protein-control-active.webp",
+      "local_url": "/images/reviews/nutren/nutren-linha-senior-protein-control-active.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 99272,
+      "sha256": "dc32f54d1a661e8b765d0d1e347aed22a0a46baccc17d3b8a2966388745b437b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-linha-senior-protein-control-active.webp",
+      "storage_filename": "nutren-linha-senior-protein-control-active.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nestle-nutre-produtos-para-que-servem.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/nestle-nutre-produtos-para-que-servem.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nestle-nutre-produtos-para-que-servem.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-linha-senior-protein-control-active.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/nestle-nutre-produtos-para-que-servem.md",
+          "line": 320,
+          "column": 10,
+          "literal": "/images/reviews/nutren/nutren-linha-senior-protein-control-active.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 34274,
+          "column": 15,
+          "literal": "/images/reviews/nutren/nutren-linha-senior-protein-control-active.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/dc32f54d1a661e8b765d0d1e347aed22a0a46baccc17d3b8a2966388745b437b/nutren-linha-senior-protein-control-active.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dc32f54d1a661e8b765d0d1e347aed22a0a46baccc17d3b8a2966388745b437b/nutren-linha-senior-protein-control-active.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T21:19:47.244Z",
+      "verification_etag_or_digest": "dc32f54d1a661e8b765d0d1e347aed22a0a46baccc17d3b8a2966388745b437b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-protein-po-e-pronto-para-beber-oficial.webp",
+      "local_url": "/images/reviews/nutren/nutren-protein-po-e-pronto-para-beber-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 70268,
+      "sha256": "f039c4e5f935ab8e4d35d2b0fd2f2dcffd1aeb8ca96ccfbbd8a1be2aac921b30",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-protein-po-e-pronto-para-beber-oficial.webp",
+      "storage_filename": "nutren-protein-po-e-pronto-para-beber-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-protein-ou-whey.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/nutren-protein-ou-whey.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-protein-ou-whey.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-protein-po-e-pronto-para-beber-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/nutren-protein-ou-whey.md",
+          "line": 312,
+          "column": 10,
+          "literal": "/images/reviews/nutren/nutren-protein-po-e-pronto-para-beber-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 61843,
+          "column": 15,
+          "literal": "/images/reviews/nutren/nutren-protein-po-e-pronto-para-beber-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/f039c4e5f935ab8e4d35d2b0fd2f2dcffd1aeb8ca96ccfbbd8a1be2aac921b30/nutren-protein-po-e-pronto-para-beber-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f039c4e5f935ab8e4d35d2b0fd2f2dcffd1aeb8ca96ccfbbd8a1be2aac921b30/nutren-protein-po-e-pronto-para-beber-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T21:19:47.244Z",
+      "verification_etag_or_digest": "f039c4e5f935ab8e4d35d2b0fd2f2dcffd1aeb8ca96ccfbbd8a1be2aac921b30",
       "verification_status": "verified"
     },
     {
