@@ -13,6 +13,7 @@ import { HomeStoreStrip, type TabDirection } from '@/components/sections/HomeSto
 import { FOCUS_RING, FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
 import { StoreMark } from '@/components/ui/StoreMark';
 import { trackEvent } from '@/lib/analytics';
+import { cardImageLook } from '@/lib/cardImage';
 import {
   CECILIA_TAB_ID,
   getDefaultTabId,
@@ -213,6 +214,7 @@ function ArticleStory({ article, index, count, onMove, eager }: ArticleStoryProp
   const dark = index % 2 === 1;
   // A primeira imagem da aba que abre com a página é a do LCP no desktop: carrega já e com prioridade.
   const eagerImage = eager && index === 0;
+  const look = cardImageLook(article.imageFit, article.imagePosition, 'p-3');
 
   return (
     <article className="hidden min-w-0 flex-[1_1_420px] flex-col overflow-hidden rounded-[14px] border-2 border-marinho bg-white lg:flex">
@@ -226,7 +228,8 @@ function ArticleStory({ article, index, count, onMove, eager }: ArticleStoryProp
             loading={eagerImage ? 'eager' : 'lazy'}
             fetchPriority={eagerImage ? 'high' : 'auto'}
             sizes="(min-width: 1024px) 560px, 1px"
-            className="object-cover"
+            className={look.className}
+            style={look.style}
           />
         ) : null}
       </div>
@@ -296,7 +299,7 @@ function ArticleList({ tab, current, onPick }: { tab: HomeStoreTab; current: num
                   index === current ? 'bg-creme' : 'bg-white hover:bg-creme/60'
                 } ${FOCUS_INSET}`}
               >
-                <ArticleThumb image={article.image} className="h-[52px] w-16" />
+                <ArticleThumb article={article} className="h-[52px] w-16" />
                 <ArticleText article={article} />
               </button>
               <TrackedHomeLink
@@ -305,7 +308,7 @@ function ArticleList({ tab, current, onPick }: { tab: HomeStoreTab; current: num
                 linkLabel={article.title}
                 className={`flex items-center gap-3 px-4 py-3 text-marinho lg:hidden ${FOCUS_INSET}`}
               >
-                <ArticleThumb image={article.image} className="h-14 w-[72px]" />
+                <ArticleThumb article={article} className="h-14 w-[72px]" />
                 <ArticleText article={article} />
               </TrackedHomeLink>
             </li>
@@ -328,10 +331,13 @@ function ArticleList({ tab, current, onPick }: { tab: HomeStoreTab; current: num
   );
 }
 
-function ArticleThumb({ image, className }: { image?: string; className: string }) {
+function ArticleThumb({ article, className }: { article: HomeStoreArticle; className: string }) {
+  const look = cardImageLook(article.imageFit, article.imagePosition, 'p-1');
   return (
     <span className={`relative shrink-0 overflow-hidden rounded-md bg-creme ${className}`}>
-      {image ? <Image src={image} alt="" fill sizes="72px" className="object-cover" /> : null}
+      {article.image ? (
+        <Image src={article.image} alt="" fill sizes="72px" className={look.className} style={look.style} />
+      ) : null}
     </span>
   );
 }

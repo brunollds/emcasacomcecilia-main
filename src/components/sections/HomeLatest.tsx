@@ -4,6 +4,7 @@ import { TrackedHomeLink, type HomeRoutePlacement } from '@/components/TrackedHo
 import { cardDecorAt, type CardDecor } from '@/components/ui/cardDecor';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { RevealSection } from '@/components/ui/RevealSection';
+import { cardImageLook } from '@/lib/cardImage';
 import type { HomeLatestArticle } from '@/lib/homeStores';
 
 // "Acabou de sair": os 5 artigos mais novos, sem código. No desktop são cartões presos na geladeira;
@@ -86,6 +87,7 @@ type LatestCardProps = {
 
 // Também é o cartão dos artigos na home de cada idioma (LocaleHomeArticles).
 export function LatestCard({ article, decor, placement, meta, imageSizes = LATEST_IMAGE_SIZES }: LatestCardProps) {
+  const look = cardImageLook(article.imageFit, article.imagePosition, 'p-3');
   return (
     <TrackedHomeLink
       href={article.href}
@@ -101,7 +103,7 @@ export function LatestCard({ article, decor, placement, meta, imageSizes = LATES
       ) : null}
       <span className="relative block h-[140px] overflow-hidden rounded-t-lg border-b-2 border-marinho bg-creme">
         {article.image ? (
-          <Image src={article.image} alt="" fill sizes={imageSizes} className="object-cover" />
+          <Image src={article.image} alt="" fill sizes={imageSizes} className={look.className} style={look.style} />
         ) : null}
       </span>
       <span className="flex flex-1 flex-col gap-1.5 p-3">
