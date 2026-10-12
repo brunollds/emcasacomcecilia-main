@@ -351,7 +351,7 @@ Palavras fora dos títulos: confiável, legit, safe, scam, fake, melhor.
      linha pode mudar.
    - **ja e ko: resolvido em 12/10/2026.** O Bruno não quis trocar os slugs. As duas versões ficam no padrão da família
      e dizem, em uma frase com fonte, que o Stylevana não entrega no Japão nem na Coreia. A comparação com a Olive
-     Young e a StyleKorean vira **pauta própria em 10 idiomas** (sugestão do Bruno), a abrir no Job 1: a Olive Young
+     Young e a StyleKorean vira **duas pautas próprias em 10 idiomas** ("YesStyle ou Olive Young" e "YesStyle ou StyleKorean"; decisão do Bruno, 12/10/2026), que abrem a próxima leva do Job 1, depois do deploy desta: a Olive Young
      Global e a StyleKorean não entregam só no Japão e na Coreia (a Olive Young Global não envia ao Brasil, à Espanha nem
      à própria Coreia; a StyleKorean sai da Coreia e não lista o Japão), então cada versão segue a mesma regra dos
      mercados atendidos.
