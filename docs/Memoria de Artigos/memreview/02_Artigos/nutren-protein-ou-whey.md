@@ -6,9 +6,9 @@ parceiro: "[[Nestle-Nutre]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Suplemento"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy (decisão do Bruno), depois do OK das imagens novas para o CDN e da oferta nova da YesStyle"
 bloqueado_por: null
 score_autoridade: 75
 score_conversao: 85
@@ -305,3 +305,11 @@ Produtos comparados no artigo (nome exato):
 13. **Navegador:** a loja bloqueia leitura direta (confirmado no dossiê), então a leitura foi feita no navegador embutido, em uma aba própria, sem cliques em anúncio ou em link de afiliado e sem passar por verificação.
 
 **Rodadas de atualização:** reconsultar em 2026-11-01 (CECI, preços, sabores da YoPRO) e antes da publicação (itens 1 a 3 acima).
+
+## Redação (12/10/2026)
+
+- JSON em `content/reviews/nutren-protein-ou-whey.json` (id 363), no fim do `_manifest.json`. É a fonte da verdade do texto.
+- Capa: `/images/reviews/nutren/nutren-protein-po-e-pronto-para-beber-oficial.webp`, 1600×900, a lata do Nutren Protein em pó Baunilha 400 g e a garrafa pronta Chocolate 260 ml, fotos oficiais da Nestlé Nutre na mesma altura (origem em `midia-staging\2026-10-12-fase2\nutren\`). No corpo, a lata do Just Protein, que já estava no CDN.
+- Tabelas e textos das páginas da Nestlé Nutre relidos no navegador em 12/10/2026; a YoPRO só pelo site oficial dela. Pó e pronto para beber ficam separados em toda afirmação.
+- CTA: a página da linha, `https://www.nestlenutre.com.br/nutren-protein` (decisão do Bruno).
+- Revisão Job 3 (12/10/2026): reprovado na primeira versão (cafeína do Just Protein sem fonte e uma FAQ que estendia ao pronto o que vale para o pó). Corrigido e enviado a uma segunda revisão, que aprovou com ajustes: a garrafa de chocolate tem 114 kcal (a de baunilha, 112), o Just Protein contém lactose pelo rótulo da lata, o aviso a gestantes, lactantes e crianças também está no Just Protein, frases do pó marcadas como do pó, a FAQ de lactose numa pergunta só (o template corta a pergunta no primeiro "?") e o aviso do Nutren 1.5 Protein de uso só com orientação. Os números novos foram conferidos no navegador em 12/10/2026.

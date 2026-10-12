@@ -6,9 +6,11 @@ parceiro: "[[Dolce-Gusto]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de escolha"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy (decisão do Bruno), depois que a oferta nova da YesStyle entrar"
+proxima_acao: "nenhuma"
+publicado_em: "2026-10-12"
+nota_publicacao: "Publicado no PR #65 em 12/10/2026 (decisão do Bruno), com os preços de 12/10; o rascunho id 219 saiu do rascunho."
 bloqueado_por: null
 score_autoridade: 80 # 0 a 100
 score_conversao: 90 # 0 a 100

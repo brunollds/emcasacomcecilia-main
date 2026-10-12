@@ -6,9 +6,9 @@ parceiro: "[[Magalu]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo (terminar o rascunho)"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy (decisão do Bruno), depois do OK das imagens novas para o CDN e da oferta nova da YesStyle"
 bloqueado_por: null
 score_autoridade: 75
 score_conversao: 80
@@ -362,3 +362,11 @@ domínio em 04/03/2027) em janeiro de 2027.
   mas abriu no navegador. A loja da Cecília deu página de CAPTCHA no WebFetch: não contornado.
 - A página `magazinevoce.com.br/magazineemcasacomcecilia/` e o perfil do domínio no Reclame Aqui
   seguem pendentes (itens 1 e 2 da seção 11).
+
+## Redação (12/10/2026)
+
+- O rascunho de `content/reviews/magazine-voce-e-confiavel.json` (id 231) foi reescrito por inteiro e sai do rascunho (`draft: false`). O slug fica.
+- Capa: `/images/reviews/magalu/magazine-voce-loja-emcasacomcecilia-topo.webp`, 1600×900, o print do topo da loja da Cecília no Magazine Você feito pelo Bruno, sem login e sem CEP, sobre fundo claro (origem em `midia-staging\2026-10-12-imagens-pendentes\magalu\`).
+- Pendências da seção 11 resolvidas em 12/10/2026: o RDAP do registro.br dá a Magazine Luiza S/A como titular do domínio desde 2011; o programa tem perfil próprio no Reclame Aqui (Não Recomendada, 55 reclamações no período e nenhuma respondida, perfil não verificado), e as reclamações recentes ali são de quem tem loja. O Magalu tem RA1000 (dados de 01/04 a 30/09/2026). O WhatsApp oficial da Lu foi lido na central de atendimento.
+- Ficaram de fora, por decisão do Bruno: o aviso do rodapé, a FAQ do "Retira loja" e o login de comprador.
+- Revisão Job 3 (12/10/2026): aprovado com ajustes; aplicados os 21 itens (central de ajuda dos influenciadores citada pelo nome, "Vendido e entregue por" atribuído à central do Magalu, formato do endereço da loja, códigos só no navegador, WhatsApp "depende de quem está do outro lado").
