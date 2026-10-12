@@ -49,8 +49,8 @@ function review(id: number, slug: string, affiliate?: string, overrides: Partial
 }
 
 const reviews: ReviewFixture[] = [
-  review(1, 'bf-damie', 'damie'),
-  review(2, 'bf-magalu', 'magalu'),
+  review(1, 'bf-damie', 'damie', { imageFit: 'contain' }),
+  review(2, 'bf-magalu', 'magalu', { imagePosition: 'top' }),
   review(3, 'bf-sem-loja', undefined, { image: undefined }),
   review(4, 'bf-kopenhagen', 'kopenhagen'),
   review(5, 'bf-dolce', 'dolce-gusto'),
@@ -189,6 +189,11 @@ assert.equal(damie.title, 'Título bf-damie');
 assert.equal(damie.type, 'Guia de Black Friday');
 assert.equal(damie.image, resolveMediaUrl('/images/reviews/teste/bf-damie.webp'));
 assert.equal(damie.store, 'DAMIE');
+// A capa segue o JSON do artigo (src/lib/cardImage.ts): imageFit explícito vale, e o imagePosition vem junto.
+assert.equal(damie.imageFit, 'contain');
+assert.equal(damie.imagePosition, undefined);
+assert.equal(magalu.imageFit, 'cover');
+assert.equal(magalu.imagePosition, 'top');
 assert.deepEqual(damie.codeLink, { href: '/#loja-damie', label: 'Ver o código da DAMIE' });
 assert.deepEqual(magalu.codeLink, { href: '/#loja-magalu', label: 'Ver o código do Magalu' });
 assert.equal(semLoja.image, undefined);
@@ -229,6 +234,17 @@ assert.equal(
   active.cards.length + 1,
   'no tema noite, o link de cada card e o "Ver tudo" têm o anel amarelo'
 );
+
+// A capa do card: inteira sobre fundo branco no contain, cortada e com o recorte do imagePosition no cover.
+const imageOf = (html: string, slug: string) => {
+  const tag = Array.from(html.matchAll(/<img\b[^>]*>/g), ([image]) => image).find((candidate) => candidate.includes(slug));
+  assert.ok(tag, `sem a foto de ${slug}`);
+  return tag;
+};
+assert.match(imageOf(bandHtml, 'bf-damie'), /class="[^"]*\bbg-white object-contain p-3\b/, 'contain: inteira sobre fundo branco');
+assert.doesNotMatch(imageOf(bandHtml, 'bf-damie'), /object-position/, 'o contain não leva recorte');
+assert.match(imageOf(bandHtml, 'bf-magalu'), /class="[^"]*\bobject-cover\b/, 'sem imageFit nem nota, a capa cobre');
+assert.match(imageOf(bandHtml, 'bf-magalu'), /style="[^"]*object-position:50% 10%/, 'o imagePosition recorta o cover');
 
 // Os temas claros: a banda e a pílula do tema; o anel amarelo é só do fundo escuro, nos outros é marinho.
 for (const themeName of ['laranja', 'amarelo'] as const) {
@@ -321,6 +337,8 @@ assert.ok(hubText.includes('faltam 20 dias'));
 assert.ok(hubHtml.includes(EVENT_THEME_CLASSES.noite.pill), 'a contagem vai na pílula do tema');
 assert.match(hubHtml, /<h2 id="titulo-guias-da-data" class="sr-only">Guias da Black Friday<\/h2>/);
 assert.equal(hubHtml.match(/<li\b/g)?.length, 5, 'um item por card');
+assert.match(imageOf(hubHtml, 'bf-damie'), /class="[^"]*\bbg-white object-contain p-3\b/, 'a página da data usa a mesma regra da capa');
+assert.match(imageOf(hubHtml, 'bf-magalu'), /style="[^"]*object-position:50% 10%/, 'a página da data recorta pelo imagePosition');
 // Na página entram os 5 artigos: além da DAMIE e do Magalu, o da Dolce Gusto (a loja ativa com código no 5º card).
 for (const slug of ['damie', 'magalu', 'dolce-gusto']) assert.ok(hubHtml.includes(`href="/#loja-${slug}"`), `"Ver o código" de ${slug}`);
 assert.equal(hubHtml.match(/href="\/#loja-/g)?.length, 3, 'loja pausada e card sem loja ficam sem "Ver o código"');

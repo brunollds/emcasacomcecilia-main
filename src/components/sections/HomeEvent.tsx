@@ -4,6 +4,7 @@ import { TrackedHomeLink, TrackedHomeTabLink, type HomeRoutePlacement } from '@/
 import { FOCUS_RING, FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
 import { RevealSection } from '@/components/ui/RevealSection';
 import { ScrollRow } from '@/components/ui/ScrollRow';
+import { cardImageLook } from '@/lib/cardImage';
 import type { EventTheme, HomeEventCard, ResolvedHomeEvent } from '@/lib/homeEvents';
 
 // Data comercial na home, entre "Acabou de sair" e "Receitas": só aparece com uma data em campanha
@@ -112,6 +113,7 @@ export function EventCard({
   // Anel do link do artigo, que fica fora do card: precisa contrastar com o fundo em volta dele.
   focusRing?: string;
 }) {
+  const look = cardImageLook(card.imageFit, card.imagePosition, 'p-3');
   return (
     <div className="flex flex-1 flex-col rounded-[10px] border-2 border-marinho bg-white text-marinho motion-safe:transition-transform motion-safe:duration-300 motion-safe:hover:-translate-y-1">
       <TrackedHomeLink
@@ -127,7 +129,8 @@ export function EventCard({
               alt=""
               fill
               sizes="(min-width: 1024px) 300px, (min-width: 768px) 45vw, 240px"
-              className="object-cover"
+              className={look.className}
+              style={look.style}
             />
           ) : null}
         </span>
