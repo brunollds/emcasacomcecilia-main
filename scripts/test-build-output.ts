@@ -332,25 +332,44 @@ assertShelfMotionOnlyWhenAllowed(css);
 
 // O recorte com código de /cupons e das páginas de loja (D2.2). O verde do copiado vale com ou sem
 // movimento: fica no nível de cima do CSS, fora de @media e de @layer, para vencer as classes de borda e
-// de fundo do Tailwind. O Lightning CSS tira as aspas do [data-copied='true'].
+// de fundo do Tailwind. O Lightning CSS tira as aspas do [data-copied='true']. Vale a última regra de cima,
+// que é a que vence na cascata.
 const COPIED_CUTOUT_RULE = /\.recorte:has\(\[data-copied=true\]\)\{([^}]*)\}/g;
+const COPIED_PAPER_RULE = /\.recorte:has\(\[data-copied=true\]\) \.recorte-tesoura-papel\{([^}]*)\}/g;
+const lastTopLevelRule = (source: string, rule: RegExp) =>
+  [...source.matchAll(rule)].findLast((match) => enclosingBlockHeader(source, match.index) === '');
 function assertCopiedCutoutColor(source: string) {
-  const color = [...source.matchAll(COPIED_CUTOUT_RULE)].find((rule) => enclosingBlockHeader(source, rule.index) === '');
+  const color = lastTopLevelRule(source, COPIED_CUTOUT_RULE);
   assert.ok(color, 'CSS sem o verde do recorte copiado (.recorte:has([data-copied=true])) fora de @media e de @layer');
   for (const declaration of ['border-style:solid', 'border-color:var(--color-verde-escuro)', 'background-color:var(--color-verde-claro)']) {
     assert.ok(color[1].split(';').includes(declaration), `CSS: o verde do recorte copiado sem ${declaration}`);
   }
+  // No verde, a tesoura do hub ganha o fundo de papel: branco até a linha tracejada (11px) e verde-claro dali para baixo.
+  const paper = lastTopLevelRule(source, COPIED_PAPER_RULE);
+  assert.ok(paper, 'CSS sem o fundo de papel da tesoura no verde (.recorte:has([data-copied=true]) .recorte-tesoura-papel) fora de @media e de @layer');
+  assert.match(
+    paper[1],
+    /^background:linear-gradient\(var\(--color-white\) ?11px, ?var\(--color-verde-claro\) ?11px\)$/,
+    'CSS: o fundo de papel da tesoura sem o corte seco em 11px (branco e verde-claro)'
+  );
 }
 assertCopiedCutoutColor(css);
 // As cores vêm do @theme inline, que só põe no CSS a variável que alguma regra usa.
-for (const variable of ['--color-verde-escuro', '--color-verde-claro']) {
-  assert.match(css, new RegExp(`${variable}:#`), `CSS sem ${variable}: o verde do recorte copiado ficaria sem cor`);
+for (const variable of ['--color-verde-escuro', '--color-verde-claro', '--color-marinho', '--color-white']) {
+  assert.match(css, new RegExp(`${variable}:#`), `CSS sem ${variable}: o recorte (o verde, o papel ou a sombra) ficaria sem cor`);
 }
 
 // O movimento das classes novas de /cupons só com o movimento liberado. A trava olha a declaração, não o
-// seletor: o .recorte também está na regra do verde, que vale sempre.
+// seletor: o .recorte também está na regra do verde, que vale sempre. Toda regra que cita o seletor e mexe
+// em movimento fica no @media. Para provar que o movimento existe, só conta a regra em que o seletor é o
+// sujeito: fora de um :has(…) e sem combinador depois dele. A regra do container,
+// .recorte:has(.recorte-tesoura), não é movimento da tesoura, e a da tesoura que corre não é do .recorte.
 const COUPON_MOTION_SELECTORS = ['.recorte', '.recorte-tesoura'];
 const MOTION_PROPERTY = /^(?:animation|transition)(?:-[a-z-]+)?$|^(?:translate|scale|rotate|box-shadow|container|container-type)$/;
+function isSubjectAt(source: string, at: number, selector: string) {
+  const end = at + source.slice(at).search(/[,{]/);
+  return /^(?:::?[\w-]+(?:\([^()]*\))?|\[[^\]]*\])*$/.test(source.slice(at + selector.length, end));
+}
 function assertCouponMotionOnlyWhenAllowed(source: string) {
   for (const selector of COUPON_MOTION_SELECTORS) {
     let motionRules = 0;
@@ -360,7 +379,7 @@ function assertCouponMotionOnlyWhenAllowed(source: string) {
         .map((declaration) => declaration.split(':')[0].trim())
         .filter((property) => MOTION_PROPERTY.test(property));
       if (properties.length === 0) continue;
-      motionRules++;
+      if (isSubjectAt(source, at, selector)) motionRules++;
       assert.match(
         enclosingBlockHeader(source, at),
         /prefers-reduced-motion:\s*no-preference/,
@@ -371,11 +390,12 @@ function assertCouponMotionOnlyWhenAllowed(source: string) {
   }
 }
 assertCouponMotionOnlyWhenAllowed(css);
-// Controles, numa cópia do CSS: o verde que entra num @media ou perde uma declaração, a regra de movimento
-// solta fora do @media, o @media que perde o no-preference e o seletor que some derrubam as travas; a
-// regra só de cor, fora do @media, passa.
+// Controles, numa cópia do CSS. Derrubam as travas: o verde que entra num @media, perde uma declaração ou
+// é vencido por outra regra de cima depois dele; o papel que some ou perde o corte em 11px; a regra de
+// movimento solta fora do @media; o @media que perde o no-preference; o movimento que só sobra em regra em
+// que o seletor não é o sujeito; e o seletor que some. A regra só de cor, fora do @media, passa.
 {
-  const color = [...css.matchAll(COPIED_CUTOUT_RULE)].find((rule) => enclosingBlockHeader(css, rule.index) === '');
+  const color = lastTopLevelRule(css, COPIED_CUTOUT_RULE);
   assert.ok(color, 'controle: o verde do recorte não foi achado');
   const withColorRule = (rule: string) => css.slice(0, color.index) + rule + css.slice(color.index + color[0].length);
   assert.throws(() => assertCopiedCutoutColor(withColorRule(`@media print{${color[0]}}`)), /sem o verde do recorte copiado/);
@@ -383,6 +403,15 @@ assertCouponMotionOnlyWhenAllowed(css);
     () => assertCopiedCutoutColor(withColorRule(color[0].replace('border-style:solid', 'border-style:dashed'))),
     /sem border-style:solid/
   );
+  assert.throws(() => assertCopiedCutoutColor(`${css}\n.recorte:has([data-copied=true]){border-style:dashed}`), /sem border-style:solid/);
+  const paperMutations: [string, RegExp][] = [
+    [css.replace('.recorte-tesoura-papel{', '.recorte-tesoura-x{'), /sem o fundo de papel/],
+    [css.replace('var(--color-white)11px', 'var(--color-white)12px'), /corte seco em 11px/],
+  ];
+  for (const [mutated, message] of paperMutations) {
+    assert.notEqual(mutated, css, `controle: a mutação não achou o trecho (${message})`);
+    assert.throws(() => assertCopiedCutoutColor(mutated), message);
+  }
 
   assert.throws(() => assertCouponMotionOnlyWhenAllowed(`${css}\n.recorte-tesoura{transition:none}`), /transition de \.recorte-tesoura fora do @media/);
   assert.throws(() => assertCouponMotionOnlyWhenAllowed(`${css}\n.recorte{container-type:inline-size}`), /container-type de \.recorte fora do @media/);
@@ -395,6 +424,23 @@ assertCouponMotionOnlyWhenAllowed(css);
     () => assertCouponMotionOnlyWhenAllowed(css.slice(0, headerAt) + '@media screen' + css.slice(headerAt + header.length)),
     /fora do @media/
   );
+  const subjectMutations: [string, string, RegExp][] = [
+    // Sobra só a regra do container, .recorte:has(.recorte-tesoura), que cita a tesoura sem ser dela.
+    ['.recorte-tesoura', css.replaceAll('.recorte-tesoura{', '.recorte-x{'), /sem o movimento de \.recorte-tesoura/],
+    // Sobra só a regra da tesoura que corre, .recorte:has([data-copied=true]) .recorte-tesoura.
+    [
+      '.recorte',
+      css
+        .replaceAll('.recorte{', '.recorte-x{')
+        .replaceAll('.recorte:has(.recorte-tesoura){', '.recorte-x:has(.recorte-tesoura){')
+        .replaceAll('.recorte:has([data-copied=true]){', '.recorte-x:has([data-copied=true]){'),
+      /sem o movimento de \.recorte$/,
+    ],
+  ];
+  for (const [selector, mutated, message] of subjectMutations) {
+    assert.ok(occurrencesOf(mutated, selector).length > 0, `controle: ${selector} sumiu do CSS; a mutação devia deixar só regras em que ele não é o sujeito`);
+    assert.throws(() => assertCouponMotionOnlyWhenAllowed(mutated), message);
+  }
   assert.throws(() => assertCouponMotionOnlyWhenAllowed(css.replaceAll('.recorte-tesoura', '.recorte-x')), /sem o movimento de \.recorte-tesoura/);
 }
 
@@ -1153,8 +1199,20 @@ function assertCopyCutouts(where: string, body: string, expected: CutoutCount) {
   assert.equal(
     cutouts.filter((cutout) => elementsWithClass(cutout, 'recorte-tesoura').length === 1).length,
     expected.withScissors,
-    `${where}: tesoura (.recorte-tesoura) fora de um .recorte`
+    `${where}: tesoura (.recorte-tesoura) fora de um .recorte, ou duas no mesmo recorte`
   );
+}
+
+// O hub: os recortes e as tesouras contados pelos dados, o fundo de papel de cada tesoura (ela fica metade
+// sobre o cartão e metade sobre o recorte, e no verde o fundo dela é o do papel) e nenhuma classe
+// has-[[data-copied=true]] de antes, porque o verde é do .recorte, no globals.css. A trava olha o HTML: o
+// dock dos artigos usa as mesmas classes, e elas seguem no CSS.
+function assertHubCutouts(body: string, expected: CutoutCount) {
+  assertCopyCutouts('/cupons', body, expected);
+  for (const scissors of elementsWithClass(body, 'recorte-tesoura')) {
+    assert.ok(classesOf(scissors).includes('recorte-tesoura-papel'), '/cupons: tesoura sem o fundo de papel (.recorte-tesoura-papel)');
+  }
+  assert.ok(!body.includes('has-[[data-copied=true]]'), '/cupons: classe has-[[data-copied=true]] no HTML (o verde é do .recorte)');
 }
 
 const couponsHubBody = bodyOf(read(couponsHubFile));
@@ -1162,16 +1220,10 @@ const hubSections = getCouponHubSections();
 const hubCoupons = [...hubSections.featured, ...hubSections.categories.flatMap(({ coupons }) => coupons)];
 const hubCodeCards = hubCoupons.filter(hasCopyCode).length;
 assert.ok(hubCodeCards > 0, '/cupons: nenhum cartão com código nos dados');
-assertCopyCutouts('/cupons', couponsHubBody, { total: hubCodeCards, withScissors: hubCodeCards });
-// A tesoura do hub fica metade sobre o cartão e metade sobre o recorte: no verde, o fundo dela é o do papel.
-for (const scissors of elementsWithClass(couponsHubBody, 'recorte-tesoura')) {
-  assert.ok(classesOf(scissors).includes('recorte-tesoura-papel'), '/cupons: tesoura sem o fundo de papel (.recorte-tesoura-papel)');
-}
-// O verde é do .recorte, no globals.css: as classes has-[[data-copied=true]] de antes não voltam a /cupons.
-// A trava olha o HTML: o dock dos artigos usa as mesmas classes, e elas seguem no CSS.
-assert.ok(!couponsHubBody.includes('has-[[data-copied=true]]'), '/cupons: classe has-[[data-copied=true]] no HTML (o verde é do .recorte)');
+assertHubCutouts(couponsHubBody, { total: hubCodeCards, withScissors: hubCodeCards });
 // Controles no HTML de /cupons: o recorte que perde a classe, a classe num recorte sem botão de copiar
-// (por conta e no lugar de outro) e a tesoura que perde a classe derrubam a trava.
+// (por conta e no lugar de outro), a tesoura que perde a classe ou o fundo de papel e a classe
+// has-[[data-copied=true]] que volta derrubam a trava.
 {
   assert.ok(
     hubCoupons.some((coupon) => !hasCopyCode(coupon)),
@@ -1184,10 +1236,12 @@ assert.ok(!couponsHubBody.includes('has-[[data-copied=true]]'), '/cupons: classe
     [couponsHubBody.replace(noCodeCutout, `recorte ${noCodeCutout}`), /recortes com código/],
     [couponsHubBody.replace(' recorte ', ' ').replace(noCodeCutout, `recorte ${noCodeCutout}`), /sem botão de copiar/],
     [couponsHubBody.replace('recorte-tesoura recorte-tesoura-papel', 'recorte-tesoura-papel'), /tesouras que correm/],
+    [couponsHubBody.replace('recorte-tesoura recorte-tesoura-papel', 'recorte-tesoura'), /sem o fundo de papel/],
+    [couponsHubBody.replace(' recorte ', ' recorte has-[[data-copied=true]]:bg-verde-claro '), /has-\[\[data-copied=true\]\] no HTML/],
   ];
   for (const [mutated, message] of mutations) {
     assert.notEqual(mutated, couponsHubBody, `controle: a mutação não achou o trecho (${message})`);
-    assert.throws(() => assertCopyCutouts('/cupons', mutated, expected), message);
+    assert.throws(() => assertHubCutouts(mutated, expected), message);
   }
 }
 
