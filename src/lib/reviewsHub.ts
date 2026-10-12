@@ -1,3 +1,4 @@
+import { cardImageFit } from '@/lib/cardImage';
 import { getActiveCoupons, type Coupon } from '@/lib/couponsData';
 import {
   getStoreArticlePageSlugs,
@@ -90,8 +91,7 @@ function toShelfArticle(review: ListedReview, stores: readonly Coupon[]): ShelfA
     ...formatDates(review.publishedAtISO),
     store,
     image: review.image ? resolveMediaUrl(review.image) : undefined,
-    // Foto de produto com nota e sem imageFit não é cortada, como no cartão antigo.
-    imageFit: review.imageFit ?? (review.rating ? 'contain' : 'cover'),
+    imageFit: cardImageFit(review),
     imagePosition: review.imagePosition,
     isNew: Boolean(review.isNew),
     searchText: searchTextOf(review, store),

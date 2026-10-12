@@ -5,6 +5,7 @@ import { ViewTransitionLink } from '@/components/ViewTransitionLink';
 import type { CardDecor } from '@/components/ui/cardDecor';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { trackEvent } from '@/lib/analytics';
+import { cardImageLook } from '@/lib/cardImage';
 import {
   REVIEWS_ROUTE_CLICK,
   getReviewsRouteClickParameters,
@@ -17,14 +18,6 @@ import { sanitizeViewTransitionName } from '@/lib/viewTransition';
 // Novidades) e a linha do modo lista. A foto leva em data-vt-name o nome da transição para o topo do
 // artigo; o ViewTransitionLink só o aplica no clique, porque o mesmo artigo pode estar duas vezes na
 // página (Novidades e acervo), e nomes repetidos cancelam a transição.
-
-const OBJECT_POSITION: Record<NonNullable<ShelfArticle['imagePosition']>, string> = {
-  top: '50% 10%',
-  bottom: '50% 90%',
-  left: '20% 50%',
-  right: '80% 50%',
-  center: 'center',
-};
 
 type ShelfLinkProps = { article: ShelfArticle; placement: ShelfPlacement };
 
@@ -47,7 +40,7 @@ function Photo({
   compact?: boolean;
 }) {
   if (!article.image) return null;
-  const contain = article.imageFit === 'contain';
+  const look = cardImageLook(article.imageFit, article.imagePosition, compact ? 'p-1' : 'p-3');
   return (
     <Image
       src={article.image}
@@ -56,10 +49,8 @@ function Photo({
       sizes={sizes}
       loading={eager ? 'eager' : 'lazy'}
       fetchPriority={eager ? 'high' : undefined}
-      className={`motion-safe:transition-transform motion-safe:duration-700 motion-safe:ease-out motion-safe:group-hover:scale-105 ${
-        contain ? `bg-white object-contain ${compact ? 'p-1' : 'p-3'}` : 'object-cover'
-      }`}
-      style={!contain && article.imagePosition ? { objectPosition: OBJECT_POSITION[article.imagePosition] } : undefined}
+      className={`motion-safe:transition-transform motion-safe:duration-700 motion-safe:ease-out motion-safe:group-hover:scale-105 ${look.className}`}
+      style={look.style}
     />
   );
 }

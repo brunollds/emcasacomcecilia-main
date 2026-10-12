@@ -1,3 +1,4 @@
+import type { CardImageFit, CardImagePosition } from '@/lib/cardImage';
 import { parseReviewCategory, type ReviewCategory } from './reviewDiscovery';
 
 // A estante de artigos de /reviews e das subpáginas de loja: o que vale no servidor e no navegador
@@ -19,8 +20,8 @@ export type ShelfArticle = {
   store?: string;
   // URL de entrega, já resolvida.
   image?: string;
-  imageFit: 'cover' | 'contain';
-  imagePosition?: 'center' | 'top' | 'bottom' | 'left' | 'right';
+  imageFit: CardImageFit;
+  imagePosition?: CardImagePosition;
   isNew: boolean;
   // Texto de busca já normalizado (foldSearchText).
   searchText: string;
