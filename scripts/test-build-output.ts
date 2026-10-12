@@ -466,8 +466,19 @@ function assertArrivalKeyframes(source: string) {
   }
 }
 assertArrivalKeyframes(css);
-assert.throws(() => assertArrivalKeyframes(css.replace('@keyframes recorte-assenta{', '@keyframes recorte-assenta{0%{opacity:0}')), /recorte-assenta mexe na opacidade/);
-assert.throws(() => assertArrivalKeyframes(css.replace('@keyframes etiqueta-carimba{', '@keyframes etiqueta-x{')), /sem o @keyframes etiqueta-carimba/);
+// Controles: a opacidade em qualquer dos dois @keyframes, o @keyframes renomeado e o que perde o scale ou o
+// rotate derrubam a trava.
+const keyframesMutations: [string, RegExp][] = [
+  [css.replace('@keyframes recorte-assenta{', '@keyframes recorte-assenta{0%{opacity:0}'), /recorte-assenta mexe na opacidade/],
+  [css.replace('@keyframes etiqueta-carimba{', '@keyframes etiqueta-carimba{0%{opacity:0}'), /etiqueta-carimba mexe na opacidade/],
+  [css.replace('@keyframes etiqueta-carimba{', '@keyframes etiqueta-x{'), /sem o @keyframes etiqueta-carimba/],
+  [css.replace(/(@keyframes etiqueta-carimba\{[^}]*?)scale:/, '$1zoom:'), /etiqueta-carimba sem scale/],
+  [css.replace(/(@keyframes recorte-assenta\{[^}]*?)rotate:/, '$1skew:'), /recorte-assenta sem rotate/],
+];
+for (const [mutated, message] of keyframesMutations) {
+  assert.notEqual(mutated, css, `controle: a mutação não achou o trecho (${message})`);
+  assert.throws(() => assertArrivalKeyframes(mutated), message);
+}
 
 const sitemapBody = read(path.join(APP_DIR, 'sitemap.xml.body'));
 const sitemapUrls = [...sitemapBody.matchAll(/<loc>([^<]+)<\/loc>/g)].map(([, url]) => url);
@@ -1302,15 +1313,14 @@ function assertStoreArrival(where: string, body: string) {
   assert.ok(h1At >= 0, `${where}: sem h1`);
   assert.equal(elementsWithClass(elementAt(body, h1At), 'etiqueta-entra').length, 1, `${where}: a etiqueta fora do h1`);
   assert.ok(classesOf(stamps[0]).includes('block'), `${where}: a etiqueta sem o block`);
-  assert.ok(
-    classesOf(elementAt(body, body.indexOf('<section id="cupom"'))).includes('recorte-entra'),
-    `${where}: o recorte do topo sem o .recorte-entra`
-  );
+  const cutoutAt = body.indexOf('<section id="cupom"');
+  assert.ok(cutoutAt >= 0, `${where}: sem o recorte do topo (id="cupom")`);
+  assert.ok(classesOf(elementAt(body, cutoutAt)).includes('recorte-entra'), `${where}: o recorte do topo sem o .recorte-entra`);
 }
 function assertHubStamps(body: string, featuredCount: number) {
   const stamps = elementsWithClass(body, 'etiqueta-entra');
   assert.equal(stamps.length, featuredCount, `/cupons: ${stamps.length} números com a etiqueta (.etiqueta-entra); os Destaques são ${featuredCount}`);
-  const featuredSection = between(body, 'aria-labelledby="destaques"', ['aria-labelledby="prateleira-']);
+  const featuredSection = between(body, 'aria-labelledby="destaques"', ['aria-labelledby="prateleira-', 'aria-labelledby="perguntas"']);
   assert.equal(elementsWithClass(featuredSection, 'etiqueta-entra').length, featuredCount, '/cupons: etiqueta fora dos Destaques');
   stamps.forEach((stamp, index) => {
     assert.equal(
@@ -1399,9 +1409,35 @@ if (yesStyleWithoutPromos) {
     assert.notEqual(mutated, original, `controle: a mutação não achou o trecho (${message})`);
     assert.throws(() => assertStoreCutout(pagePath, mutated, copyable), message);
   }
-  assert.throws(() => assertStoreArrival(withCode.pagePath, withCode.body.replace('etiqueta-entra ', '')), /0 números com a etiqueta/);
-  assert.throws(() => assertStoreArrival(withCode.pagePath, withCode.body.replace(' recorte-entra', '')), /sem o \.recorte-entra/);
-  assert.throws(() => assertHubStamps(couponsHubBody.replace('--etiqueta-atraso:150ms', '--etiqueta-atraso:450ms'), hubSections.featured.length), /atraso da etiqueta do Destaque 1/);
+  // A chegada: derrubam a trava a etiqueta que some, a que perde o block, a que sai do h1 e o recorte do
+  // topo sem o .recorte-entra; no hub, o atraso ou a escala trocados e a etiqueta que sai dos Destaques.
+  const arrivalMutations: [string, RegExp][] = [
+    [withCode.body.replace('etiqueta-entra ', ''), /0 números com a etiqueta/],
+    [withCode.body.replace('etiqueta-entra block', 'etiqueta-entra'), /a etiqueta sem o block/],
+    [
+      withCode.body.replace('etiqueta-entra block', 'block').replace(/(<section id="cupom"[^>]*\sclass=")/, '$1etiqueta-entra block '),
+      /a etiqueta fora do h1/,
+    ],
+    [withCode.body.replace(' recorte-entra', ''), /sem o \.recorte-entra/],
+  ];
+  for (const [mutated, message] of arrivalMutations) {
+    assert.notEqual(mutated, withCode.body, `controle: a mutação não achou o trecho (${message})`);
+    assert.throws(() => assertStoreArrival(withCode.pagePath, mutated), message);
+  }
+  const stampMutations: [string, RegExp][] = [
+    [couponsHubBody.replace('--etiqueta-atraso:150ms', '--etiqueta-atraso:450ms'), /atraso da etiqueta do Destaque 1/],
+    [couponsHubBody.replace('--etiqueta-escala:1.12', '--etiqueta-escala:1.25'), /escala e o atraso da etiqueta do Destaque 1/],
+    [
+      couponsHubBody
+        .replace('etiqueta-entra relative z-10', 'relative z-10')
+        .replace(/(aria-labelledby="prateleira-[^"]*"[^>]*>)/, '$1<span class="etiqueta-entra"></span>'),
+      /etiqueta fora dos Destaques/,
+    ],
+  ];
+  for (const [mutated, message] of stampMutations) {
+    assert.notEqual(mutated, couponsHubBody, `controle: a mutação não achou o trecho (${message})`);
+    assert.throws(() => assertHubStamps(mutated, hubSections.featured.length), message);
+  }
 }
 
 // /categorias ficou sem link no site, saiu do sitemap e do Google, mas segue no ar (decisão do Bruno, 08/10).
