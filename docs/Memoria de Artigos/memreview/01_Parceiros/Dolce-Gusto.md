@@ -53,7 +53,7 @@ salvo a Mini Me. Reconsultar no fim de outubro para o artigo `black-friday-dolce
 | Medidas ml por nível (Nível 1 = 35ml até Nível 7 = 230ml + XL 300ml) | fato_oficial | Manual físico das máquinas | 2026-07-30 | 2027-01-01 | Comprovado e publicado em `tabela-medidas-dolce-gusto-ml-por-nivel` |
 | Pressão padrão: 15 bar | fato_oficial | Manuais Mini Me / Genio S Touch | 2026-07-30 | 2027-01-01 | Linha padrão Nestlé Dolce Gusto |
 | Cápsulas NEO vs Original: incompatíveis | fato_oficial | Nestlé Brasil | 2026-07-30 | 2027-01-01 | Máquinas NEO usam tecnologia de reconhecimento ótico diferente |
-| Cápsulas vendidas só em caixas de 10, 12 ou 16 unidades, ou em DGusta de 50 ou 100 | fato_oficial | nescafe-dolcegusto.com.br/sobre/regulamentos | 2026-10-08 | 2027-01-08 | Não há venda avulsa |
+| Cápsulas vendidas só em caixas de 10, 12 ou 16 unidades, ou em DGusta de 50 ou 100 | fato_oficial | nescafe-dolcegusto.com.br/sobre/regulamentos | 2026-10-08 | 2027-01-08 | Não há venda avulsa. No catálogo de 12/10/2026 as caixas à venda são de 10 (só a Starbucks Toffee Nut Latte tem 12); nenhuma de 16. Bebidas de 2 cápsulas (Cappuccino, Latte Macchiato, Chococino e outras) fazem 5 bebidas por caixa |
 
 ---
 
