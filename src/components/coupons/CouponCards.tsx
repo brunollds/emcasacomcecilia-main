@@ -1,7 +1,8 @@
-import type { CSSProperties } from 'react';
+import type { CSSProperties, ReactNode } from 'react';
 import Link from 'next/link';
 import { Check, ChevronRight, Copy, ExternalLink, Scissors } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
+import { couponCardDecorAt } from '@/components/ui/cardDecor';
 import type { Coupon } from '@/lib/couponsData';
 import { CopyCodeButton } from './CouponActions';
 import { BrandWatermark, DiscountFigure, asSentence, parseDiscount } from './CouponBlocks';
@@ -19,8 +20,37 @@ export function couponCardName(coupon: Coupon) {
   return `${type.charAt(0).toUpperCase()}${type.slice(1)} ${coupon.brand}`;
 }
 
-// O card inteiro leva à página da loja; só o recorte com o código fica fora do link.
-export function OtherCouponCard({ coupon }: { coupon: Coupon }) {
+// O cartão dentro do CouponShelfItem: ocupa o item e ganha a sombra dura do hover pelo grupo do meio.
+export const SHELF_CARD =
+  'flex-1 motion-safe:transition-shadow motion-safe:duration-300 motion-safe:group-hover/cupom:shadow-[4px_4px_0_var(--color-marinho)]';
+
+// Cartão de geladeira nas prateleiras do hub e nos "Outros cupons", no modelo das Novidades de /reviews, em
+// três níveis. O de fora é o item da grade ou da fila: entra em cascata (.revela, com --i) quando a seção,
+// um RevealSection, chega à tela. O do meio leva a inclinação, o ímã e o hover, longe da transição do
+// .revela. O cartão (com o SHELF_CARD) corta o que vaza, por isso o ímã fica no meio, fora dele.
+export function CouponShelfItem({ index, className, children }: { index: number; className: string; children: ReactNode }) {
+  const decor = couponCardDecorAt(index);
+
+  return (
+    <div className={`revela flex ${className}`} style={{ '--i': index } as CSSProperties}>
+      <div
+        className={`group/cupom relative flex flex-1 ${decor.tilt} motion-safe:transition-[translate,rotate] motion-safe:duration-300 motion-safe:hover:-translate-y-1 motion-safe:hover:rotate-0`}
+      >
+        {children}
+        {decor.magnet ? (
+          <span
+            aria-hidden="true"
+            className={`pointer-events-none absolute z-10 size-10 rounded-full shadow-[0_2px_6px_rgb(15_29_58/0.3)] ${decor.magnet}`}
+          />
+        ) : null}
+      </div>
+    </div>
+  );
+}
+
+// O card inteiro leva à página da loja; só o recorte com o código fica fora do link. Na fila dos "Outros
+// cupons", entra em cascata com ímã (CouponShelfItem).
+export function OtherCouponCard({ coupon, index }: { coupon: Coupon; index: number }) {
   const tiers = coupon.offerMode === 'discount-code' ? coupon.tiers : undefined;
   const code = coupon.offerMode === 'discount-code' && !tiers?.length ? coupon.code : null;
   const note = tiers?.length
@@ -30,48 +60,50 @@ export function OtherCouponCard({ coupon }: { coupon: Coupon }) {
       : null;
 
   return (
-    <article
-      aria-label={couponCardName(coupon)}
-      className="relative isolate flex w-[200px] shrink-0 snap-start flex-col overflow-hidden rounded-xl border-2 border-marinho bg-white md:w-auto"
-    >
-      <BrandWatermark src={coupon.brandWatermark} align="center" className="-left-[10%] top-1 h-24 w-[120%]" />
-      <Link
-        href={`/cupons/${coupon.slug}`}
-        className="flex flex-1 flex-col text-marinho focus-visible:outline-3 focus-visible:-outline-offset-6 focus-visible:outline-marinho"
+    <CouponShelfItem index={index} className="w-[200px] shrink-0 snap-start md:w-auto">
+      <article
+        aria-label={couponCardName(coupon)}
+        className={`relative isolate flex flex-col overflow-hidden rounded-xl border-2 border-marinho bg-white ${SHELF_CARD}`}
       >
-        <span className="block border-b-2 border-marinho bg-amarelo-cupom px-2.5 pt-2 pb-1.5">
-          <span className="relative z-10 block">
-            <DiscountFigure discount={coupon.discount} size="tag" />
+        <BrandWatermark src={coupon.brandWatermark} align="center" className="-left-[10%] top-1 h-24 w-[120%]" />
+        <Link
+          href={`/cupons/${coupon.slug}`}
+          className="flex flex-1 flex-col text-marinho focus-visible:outline-3 focus-visible:-outline-offset-6 focus-visible:outline-marinho"
+        >
+          <span className="block border-b-2 border-marinho bg-amarelo-cupom px-2.5 pt-2 pb-1.5">
+            <span className="relative z-10 block">
+              <DiscountFigure discount={coupon.discount} size="tag" />
+            </span>
           </span>
-        </span>
-        <span className="relative z-10 flex min-h-11 items-center justify-between gap-2 px-2.5 py-0.5">
-          <span className="text-sm font-extrabold leading-[18px]">{coupon.brand}</span>
-          <ChevronRight aria-hidden="true" className="h-4 w-4 shrink-0" />
-        </span>
-        {note && (
-          <span className="relative z-10 mx-2.5 mt-auto mb-2.5 rounded-lg border-2 border-dashed border-marinho bg-white px-2.5 py-2 text-xs font-bold leading-4">
-            {note}
+          <span className="relative z-10 flex min-h-11 items-center justify-between gap-2 px-2.5 py-0.5">
+            <span className="text-sm font-extrabold leading-[18px]">{coupon.brand}</span>
+            <ChevronRight aria-hidden="true" className="h-4 w-4 shrink-0" />
           </span>
+          {note && (
+            <span className="relative z-10 mx-2.5 mt-auto mb-2.5 rounded-lg border-2 border-dashed border-marinho bg-white px-2.5 py-2 text-xs font-bold leading-4">
+              {note}
+            </span>
+          )}
+        </Link>
+        {code && (
+          <div className="recorte relative z-10 mx-2.5 mb-2.5 flex items-center gap-1.5 rounded-lg border-2 border-dashed border-marinho bg-white pl-2.5">
+            <code className={`min-w-0 flex-1 break-all text-balance font-codigo font-extrabold leading-5 text-marinho ${otherCodeSize(code)}`}>
+              {code}
+            </code>
+            <CopyCodeButton
+              code={code}
+              brand={coupon.brand}
+              placement="coupon_page_others"
+              ariaLabel={`Copiar o código ${code} da ${coupon.brand}`}
+              className="flex h-11 w-11 shrink-0 items-center justify-center rounded-r-md bg-laranja text-marinho focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-marinho data-[copied=true]:bg-verde-escuro data-[copied=true]:text-white"
+              copiedChildren={<Check aria-hidden="true" className="h-[18px] w-[18px]" />}
+            >
+              <Copy aria-hidden="true" className="h-[18px] w-[18px]" />
+            </CopyCodeButton>
+          </div>
         )}
-      </Link>
-      {code && (
-        <div className="recorte relative z-10 mx-2.5 mb-2.5 flex items-center gap-1.5 rounded-lg border-2 border-dashed border-marinho bg-white pl-2.5">
-          <code className={`min-w-0 flex-1 break-all text-balance font-codigo font-extrabold leading-5 text-marinho ${otherCodeSize(code)}`}>
-            {code}
-          </code>
-          <CopyCodeButton
-            code={code}
-            brand={coupon.brand}
-            placement="coupon_page_others"
-            ariaLabel={`Copiar o código ${code} da ${coupon.brand}`}
-            className="flex h-11 w-11 shrink-0 items-center justify-center rounded-r-md bg-laranja text-marinho focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-marinho data-[copied=true]:bg-verde-escuro data-[copied=true]:text-white"
-            copiedChildren={<Check aria-hidden="true" className="h-[18px] w-[18px]" />}
-          >
-            <Copy aria-hidden="true" className="h-[18px] w-[18px]" />
-          </CopyCodeButton>
-        </div>
-      )}
-    </article>
+      </article>
+    </CouponShelfItem>
   );
 }
 

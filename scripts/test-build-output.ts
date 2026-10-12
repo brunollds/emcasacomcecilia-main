@@ -11,6 +11,7 @@ import { getCodeHints, getCodeTitle, getSidebarCopy } from '../src/components/re
 import { CECILIA_PHOTO_COPY_PT } from '../src/components/sections/CeciliaProfile';
 import { getLocaleHomeCopy } from '../src/components/sections/localeHomeCopy';
 import { getShareCopy } from '../src/components/shared/shareCopy';
+import { cardDecorAt, couponCardDecorAt } from '../src/components/ui/cardDecor';
 import { brandLinks, socialMedias } from '../src/lib/brandLinks';
 import { CECILIA_FULL_NAME } from '../src/lib/ceciliaCredentials';
 import { inferReviewKind, type EditorialNoteData, type Recommendation } from '../src/lib/content';
@@ -1334,6 +1335,100 @@ function assertHubStamps(body: string, featuredCount: number) {
 assert.ok(hubSections.featured.length > 0, '/cupons: sem Destaques nos dados');
 assertHubStamps(couponsHubBody, hubSections.featured.length);
 
+// As prateleiras em cascata com ímã. Cada cartão das prateleiras do hub e dos "Outros cupons" é um item
+// com a cascata (.revela, com --i pela posição). Dentro dele, o do meio leva o grupo do hover, a inclinação
+// e o ímã do couponCardDecorAt da posição, sempre à direita. O cartão leva a sombra do hover. Os Destaques
+// ficam sem cascata e sem ímã.
+const magnetsIn = (element: string) => elementsWithClass(element, 'size-10').filter((span) => classesOf(span).includes('rounded-full'));
+function assertCouponShelf(where: string, section: string, coupons: readonly Coupon[]) {
+  const items = elementsWithClass(section, 'revela');
+  assert.equal(items.length, coupons.length, `${where}: ${items.length} cartões com a cascata (.revela); a prateleira tem ${coupons.length}`);
+  items.forEach((item, index) => {
+    const card = `${where}, cartão ${index + 1}`;
+    assert.equal(item.match(/^<[^>]*\sstyle="([^"]*)"/)?.[1], `--i:${index}`, `${card}: sem --i:${index}`);
+    assert.ok(item.includes(`href="/cupons/${coupons[index].slug}"`), `${card}: não é ${coupons[index].brand}`);
+    const middle = elementAt(item, item.indexOf('<', 1));
+    const middleClasses = classesOf(middle);
+    const decor = couponCardDecorAt(index);
+    assert.ok(middleClasses.includes('group/cupom'), `${card}: sem o grupo do hover (group/cupom)`);
+    assert.deepEqual(
+      middleClasses.filter((name) => /^-?rotate-/.test(name)),
+      decor.tilt.split(' ').filter(Boolean),
+      `${card}: a inclinação não é a do couponCardDecorAt`
+    );
+    const magnets = magnetsIn(middle);
+    assert.equal(magnets.length, decor.magnet ? 1 : 0, `${card}: ${magnets.length} ímãs; o couponCardDecorAt pede ${decor.magnet ? 1 : 0}`);
+    if (decor.magnet) {
+      const magnetClasses = classesOf(magnets[0]);
+      for (const name of decor.magnet.split(' ')) assert.ok(magnetClasses.includes(name), `${card}: o ímã sem ${name}`);
+      assert.ok(!magnetClasses.includes('-left-3'), `${card}: ímã à esquerda, sobre o número do desconto`);
+    }
+    const article = elementAt(middle, middle.indexOf('<article'));
+    assert.ok(
+      classesOf(article).includes('motion-safe:group-hover/cupom:shadow-[4px_4px_0_var(--color-marinho)]'),
+      `${card}: o cartão sem a sombra do hover`
+    );
+  });
+}
+
+// O ímã à direita dos cupons é uma variante: a home, a home de cada idioma e as Novidades de /reviews seguem
+// com a tabela de antes, com o ímã à esquerda na posição 2.
+assert.deepEqual([0, 1, 2, 3, 4, 5].map((index) => cardDecorAt(index)), [
+  { magnet: '-top-3 -right-3 bg-amarelo-cupom', tilt: '-rotate-1' },
+  { magnet: null, tilt: '' },
+  { magnet: '-top-3 -left-3 bg-laranja', tilt: 'rotate-[0.5deg]' },
+  { magnet: null, tilt: '' },
+  { magnet: '-top-3 -right-3 bg-marinho', tilt: 'rotate-[-0.6deg]' },
+  { magnet: '-top-3 -right-3 bg-amarelo-cupom', tilt: '-rotate-1' },
+]);
+assert.deepEqual(
+  [0, 1, 2, 3, 4].map((index) => couponCardDecorAt(index).magnet),
+  ['-top-3 -right-3 bg-amarelo-cupom', null, '-top-3 -right-3 bg-laranja', null, '-top-3 -right-3 bg-marinho']
+);
+
+for (const category of hubSections.categories) {
+  const section = between(couponsHubBody, `aria-labelledby="prateleira-${category.id}"`, ['aria-labelledby="prateleira-', 'aria-labelledby="perguntas"']);
+  assertCouponShelf(`/cupons, ${category.label}`, section, category.coupons);
+}
+const featuredShelf = between(couponsHubBody, 'aria-labelledby="destaques"', ['aria-labelledby="prateleira-']);
+assert.equal(elementsWithClass(featuredShelf, 'revela').length, 0, '/cupons: os Destaques com a cascata');
+assert.equal(magnetsIn(featuredShelf).length, 0, '/cupons: os Destaques com ímã');
+assert.ok(!couponsHubBody.includes('data-reveal'), '/cupons: data-reveal no HTML');
+
+// O HTML do servidor não distingue o RevealSection de uma <section> comum, e o RevealSection está no
+// manifest de cliente de toda página, pelo layout: a trava das prateleiras olha o código.
+const REVEAL_IMPORT = "import { RevealSection } from '@/components/ui/RevealSection';";
+function assertRevealShelves(where: string, source: string, shelf: RegExp) {
+  assert.ok(source.includes(REVEAL_IMPORT), `${where}: sem o import do RevealSection`);
+  assert.match(source, shelf, `${where}: a prateleira não é um RevealSection`);
+}
+const REVEAL_SHELVES: [string, RegExp][] = [
+  ['src/app/(pt)/cupons/page.tsx', /<RevealSection\b[^>]*\saria-labelledby=\{`prateleira-/],
+  ['src/components/coupons/CouponStorePage.tsx', /<RevealSection\b[^>]*\saria-labelledby="outros-cupons"/],
+];
+for (const [file, shelf] of REVEAL_SHELVES) {
+  const source = read(path.resolve(file));
+  assertRevealShelves(file, source, shelf);
+  assert.throws(() => assertRevealShelves(file, source.replaceAll('<RevealSection', '<section'), shelf), /não é um RevealSection/);
+}
+
+// Controles numa prateleira do hub: a posição trocada, o item sem a cascata, o ímã à esquerda e o cartão
+// sem a sombra do hover derrubam a trava.
+{
+  const [category] = hubSections.categories;
+  const section = between(couponsHubBody, `aria-labelledby="prateleira-${category.id}"`, ['aria-labelledby="prateleira-', 'aria-labelledby="perguntas"']);
+  const mutations: [string, RegExp][] = [
+    [section.replace('style="--i:0"', 'style="--i:1"'), /sem --i:0/],
+    [section.replace('class="revela ', 'class="'), /cartões com a cascata/],
+    [section.replace('-top-3 -right-3', '-top-3 -left-3'), /o ímã sem -right-3/],
+    [section.replace('motion-safe:group-hover/cupom:shadow-[4px_4px_0_var(--color-marinho)]', ''), /sem a sombra do hover/],
+  ];
+  for (const [mutated, message] of mutations) {
+    assert.notEqual(mutated, section, `controle: a mutação não achou o trecho (${message})`);
+    assert.throws(() => assertCouponShelf('/cupons', mutated, category.coupons), message);
+  }
+}
+
 let couponMotionPages = 0;
 let storeCutouts = 0;
 assert.ok(couponStorePages.length > 0, 'páginas de loja: nenhuma loja de couponsData para conferir');
@@ -1361,7 +1456,9 @@ for (const { pagePath, store } of couponStorePages) {
       others.filter(hasCopyCode).length,
       `${pagePath}: as caixas de código dos "Outros cupons" sem o .recorte`
     );
+    assertCouponShelf(`${pagePath}, Outros cupons`, othersSection, others);
   }
+  assert.ok(!body.includes('data-reveal'), `${pagePath}: data-reveal no HTML`);
   storeCutouts += expected.total;
   couponMotionPages++;
 }
