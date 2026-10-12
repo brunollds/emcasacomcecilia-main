@@ -21,7 +21,7 @@
   "isNew": true,
   "image": "/images/reviews/dolcegusto/assinatura-dolce-gusto-valor-hero.webp",
   "imageAlt": "Banners oficiais da Assinatura Dolce Gusto: preço por caixa com 25% (Regulares Geração I R$ 19,42, Especiais Geração I R$ 21,67, Regulares NEO R$ 21,70, Especiais NEO R$ 23,20) e benefícios de frete grátis, 1000 pontos e amostras grátis",
-  "imageFit": "cover",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
     "25% de desconto e frete grátis em todos os pedidos",

@@ -19,7 +19,7 @@
   "draft": false,
   "image": "/images/reviews/nutren/nestle-nutre-hero.webp",
   "imageAlt": "Catálogo de marcas e linhas da Nestlé Nutre, incluindo Nutren, Isosource e Modulen",
-  "imageFit": "cover",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
   "cons": [],
