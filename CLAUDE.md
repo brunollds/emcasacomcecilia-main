@@ -320,15 +320,20 @@ Animação que respeita "reduzir movimento" leva `motion-safe:`. As classes solt
 `animation-delay`).
 
 Em `/cupons` e nas páginas de loja (D2.2, `docs/superpowers/specs/2026-10-11-cupons-movimento-design.md`) o
-movimento é CSS do `globals.css` sobre classes soltas:
-- `.recorte` é toda caixa tracejada com botão de copiar, e só ela: o `:has([data-copied="true"])` reage ao
-  `useCopyCode`. A tesoura que corre é a `.recorte-tesoura`; no hub, ela leva também a `.recorte-tesoura-papel`.
-- O número do topo carimba com `.etiqueta-entra`, e no hub os Destaques passam `--etiqueta-escala` e
-  `--etiqueta-atraso`. O recorte do topo assenta com `.recorte-entra`.
-- O verde do copiado fica fora do bloco de movimento. A corrida, o soltar, o `container-type` e a chegada
-  ficam dentro dele, e nenhum `@keyframes` da chegada mexe em `opacity`.
-- Os cartões das prateleiras do hub e dos "Outros cupons" usam o `CouponShelfItem` (cascata, ímã do
-  `couponCardDecorAt` e hover) com o `SHELF_CARD` no cartão.
+movimento é CSS do `globals.css` sobre classes soltas; nos cartões das prateleiras, utilitários `motion-safe:`:
+- `.recorte` é toda caixa tracejada com botão de copiar dentro, e só ela: o `:has([data-copied="true"])` reage
+  ao `useCopyCode`. Botão que é ele mesmo tracejado (o do dock e o das faixas, e o dock dos artigos) troca de
+  cor por `data-[copied=true]:` e não leva `.recorte`: o `:has()` não casa com o próprio elemento. A tesoura
+  que corre é a `.recorte-tesoura`; no hub, ela leva também a `.recorte-tesoura-papel`.
+- O número do topo carimba com `.etiqueta-entra`. No hub, os Destaques passam `--etiqueta-escala`,
+  `--etiqueta-rotacao` e `--etiqueta-atraso`, mais contidos que nas lojas para o cartão não cortar o número.
+  O recorte do topo das lojas assenta com `.recorte-entra`; os recortes do hub ficam parados.
+- O verde do copiado fica fora do bloco de movimento e de `@layer`, para vencer as classes de borda e de fundo
+  do Tailwind, e o HTML do hub não leva `has-[[data-copied=true]]`. A corrida, o soltar, o `container-type` e
+  a chegada ficam dentro dos blocos de movimento, e nenhum `@keyframes` da chegada mexe em `opacity`.
+- Os cartões das prateleiras de categoria do hub e dos "Outros cupons" usam o `CouponShelfItem` (cascata, ímã
+  do `couponCardDecorAt` e hover) com o `SHELF_CARD` no cartão. O meio leva `min-w-0`, senão o cartão passa
+  da coluna. Os Destaques ficam de fora: carimbam, sem cascata nem ímã.
 
 O `test:build-output` confere cada um, contra os dados de cada página.
 
