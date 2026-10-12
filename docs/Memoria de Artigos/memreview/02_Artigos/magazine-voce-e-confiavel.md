@@ -52,8 +52,9 @@ Quem redigir deve terminar o JSON existente, sem criar outro arquivo nem outro s
   se confere.
 - [x] **3. Fronteira Factual vs Experiência:** a peça é pesquisa em fontes públicas e conferência
   de domínio. As frases de experiência do rascunho ("minha primeira verificação antes de abrir a
-  loja", "minha loja passou por essa verificação hoje", "eu não vejo cartão") só ficam se o Bruno ou
-  a Cecília confirmarem; senão viram "qualquer pessoa pode repetir".
+  loja", "minha loja passou por essa verificação hoje", "eu não vejo cartão") ficam: o Bruno
+  confirmou em 12/10/2026 ("Sim"). São escritas como experiência da Cecília, não como regra do
+  programa.
 - [x] **4. Anti-Canibalização:** passa, com condições. A intenção é legitimidade ("é confiável", "é
   golpe", "como funciona"), não "cupom Magalu" nem Black Friday. Há sobreposição só com uma FAQ do
   `/cupons/magalu` ("É seguro? É golpe?") e uma FAQ do guia do cupom ("Comprar na loja da Cecília é
@@ -147,7 +148,21 @@ Quem redigir deve terminar o JSON existente, sem criar outro arquivo nem outro s
      (titular, CNPJ, criação em 2011). A consulta por interface do registro.br pede CAPTCHA; o
      RDAP não.
   5. Página de login/entrada do Magalu (só a tela, sem preencher), para a seção de login.
-- **Imagens Inline / Seções:** prints 2 a 4. Cada um com `imageAlt` descritivo e `imageFit`
+- **Print recebido do Bruno em 12/10/2026 (topo da loja da Cecília):**
+  `C:\Users\Bruno\Downloads\Emcasacomcecilia\midia-staging\2026-10-12-fase2\magalu\loja-influenciador-magalu-emcasacomcecilia-topo.png`,
+  1362×272 (proporção 5:1), sem login ("Bem vindo :) Entre ou cadastre-se", sem "Olá, Cecília").
+  Mostra "Emcasacomcecilia", o selo "Influenciador Magalu", "melhores receitas fáceis", os ícones de
+  WhatsApp, e-mail e Instagram e o cabeçalho do Magalu com a Lu.
+  - **Mostra um CEP no cabeçalho** ("Ofertas para ..."): recortar ou cobrir antes de qualquer uso.
+  - **Não mostra a barra de endereço**, então não prova o domínio.
+  - Em 5:1 serve como imagem de seção (por exemplo, "como reconhecer a loja oficial"), não como hero
+    16:9.
+  - **Hero:** continua pendente. A decisão fica com o Job 4. Opções: (a) um print com a barra de
+    endereço e o cadeado, em janela anônima e sem CEP (o hero previsto acima); (b) este print
+    recortado como imagem de seção e outra imagem de capa; (c) o RDAP do registro.br
+    (print 4) como apoio visual de seção.
+- **Imagens Inline / Seções:** prints 2 a 4, mais o print do topo recebido em 12/10/2026 (recortado,
+  sem CEP). Cada um com `imageAlt` descritivo e `imageFit`
   `contain` (prints de interface).
 - **Galeria de Detalhes:** nenhuma.
 - **Vídeo:** [x] Nenhum.
@@ -181,7 +196,7 @@ Quem redigir deve terminar o JSON existente, sem criar outro arquivo nem outro s
 | 19 | Entrar na loja/painel do influenciador: link de "Fale com o Suporte" e de "Entrar" no `magazinevoce.com.br/login/` | Fato oficial | `https://divulgador-magalu.zendesk.com/hc/pt-br` (links da página) | O login do influenciador pede CPF (home do programa) | 2026-10-12 | [x] Sim, só como "o login do influenciador fica em magazinevoce.com.br/login". Não preencher |
 | 20 | O comprador entra com a conta Magalu de sempre, sem cadastro novo | Experiência do Bruno / texto já publicado | `couponsData.ts` (FAQ), guia do cupom | Sem fonte oficial lida | 2026-10-12 | [ ] Só com print do Bruno (item 5 dos prints) |
 | 21 | Rodapé: "para comprar nesse site você não precisa compartilhar seus dados com o dono da página" + "desenvolvido por magazineluiza.com" | Rascunho de 16/07 | A loja da Cecília (CAPTCHA no meu acesso); o rodapé da home do programa **não** tem esse aviso | — | 2026-10-12 | [ ] Só com o print do rodapé da loja (item 2 dos prints) |
-| 22 | "O influenciador não vê seus dados de pagamento" | Inferência | O Magalu "faz a cobrança" (linhas 3 e 4); não há trecho dizendo que o influenciador não vê o cartão | — | 2026-10-12 | [ ] Só escrito como "quem cobra é o Magalu, no checkout do Magalu"; a Cecília só confirma o que o painel mostra |
+| 22 | "O influenciador não vê seus dados de pagamento" | Inferência + experiência da Cecília | O Magalu "faz a cobrança" (linhas 3 e 4); não há trecho oficial dizendo que o influenciador não vê o cartão. Confirmação do Bruno, 12/10/2026, da frase de experiência do rascunho ("eu não vejo cartão") | — | 2026-10-12 | [x] Só como experiência da Cecília ("no meu painel eu não vejo cartão"), mais "quem cobra é o Magalu, no checkout do Magalu" (linhas 3 e 4); **não** como regra do programa nem como afirmação sobre todos os influenciadores |
 | 23 | Comissão de 1% a 12% por venda (rascunho) | — | A home oficial só traz níveis de loja e uma simulação; nenhuma faixa de 1% a 12% lida | — | 2026-10-12 | [ ] **Não** (e não interessa a quem quer saber se é golpe) |
 | 24 | "Magazine Você antes também era Parceiro Magalu" / ordem dos nomes | — | Os sites oficiais misturam: domínio e título da central dizem "Parceiro Magalu"; a home diz "Influenciador Magalu" | — | 2026-10-12 | [ ] **Não** datar nem ordenar os nomes |
 | 25 | O Magazine Você tem aplicativo próprio | — | Nenhuma fonte oficial; só blog de terceiros diz que não | — | 2026-10-12 | [ ] Não: dizer só que a loja da Cecília se acessa pelo navegador (fato do guia do cupom) |
@@ -292,8 +307,9 @@ domínio em 04/03/2027) em janeiro de 2027.
   localizado: fica só o do Magalu até o Bruno achar o outro.
 - Reduzir a seção "Por que os cupons só funcionam nessa loja?" a 1 ou 2 frases com link para o
   guia do cupom (canibalização).
-- Reescrever as frases de experiência ("minha primeira verificação...", "minha loja passou por essa
-  verificação hoje", "eu não vejo cartão") ou confirmar com a Cecília (portão 3).
+- Manter as frases de experiência ("minha primeira verificação...", "minha loja passou por essa
+  verificação hoje", "eu não vejo cartão"), confirmadas pelo Bruno em 12/10/2026 (portão 3), escritas
+  como experiência da Cecília e não como regra do programa.
 - O cadeado HTTPS deixa de ser prova de legitimidade.
 - Datas "16 de julho de 2026" (corpo, "Como verificamos" e `editorialNote`) viram 12/10/2026.
 - Adicionar `category: "confianca-reputacao"`; trocar `publishedAt: "Draft"` na hora de publicar;
@@ -309,11 +325,14 @@ domínio em 04/03/2027) em janeiro de 2027.
 1. **Reclame Aqui do perfil "magazinevoce":** abrir a busca do Reclame Aqui no navegador e dizer se
    existe o perfil (o rascunho dizia ~50 reclamações, nota baixa, 0% respondidas). Hoje o artigo
    usa só o perfil do Magalu.
-2. **Prints** (seção 5): topo e rodapé da loja da Cecília e a tela de login do Magalu. A leitura da
-   loja da Cecília deu CAPTCHA no meu acesso, então o aviso "para comprar nesse site você não
-   precisa compartilhar seus dados com o dono da página" (rascunho) segue sem prova.
-3. **Frases de experiência da Cecília** (item 3 dos portões): confirmar o que ela fez antes de abrir a
-   loja e o que o painel dela mostra (por exemplo, se o influenciador vê dados de pagamento).
+2. **Prints** (seção 5): o print do topo da loja da Cecília chegou em 12/10/2026 (com um CEP a
+   cortar e sem a barra de endereço; ver a seção 5). Faltam o rodapé da loja da Cecília e a tela de
+   login do Magalu. A leitura da loja da Cecília deu CAPTCHA no meu acesso, então o aviso "para
+   comprar nesse site você não precisa compartilhar seus dados com o dono da página" (rascunho)
+   segue sem prova até o print do rodapé.
+3. **Frases de experiência da Cecília** (item 3 dos portões): resolvido. O Bruno confirmou em
+   12/10/2026 ("Sim") as três frases do rascunho; entram como experiência da Cecília, não como
+   regra do programa.
 4. **Retirada na loja** (FAQ 11): confirmar com o CEP numa página de produto da loja se aparece "Retira
    loja" em item vendido pelo Magalu. Se não, a FAQ sai.
 5. **"Comprar no Magalu com CNPJ":** a intenção é ambígua (comprar como empresa ou conferir o CNPJ do
@@ -322,9 +341,9 @@ domínio em 04/03/2027) em janeiro de 2027.
 6. **Depois da publicação:** o guia `cupom-magalu-em-casa-com-cecilia` pode linkar este artigo na FAQ
    "Comprar na loja da Cecília é seguro?" (PR à parte, outra sessão). A `/cupons/magalu` fica com a
    sessão de cupons.
-7. **Fatos novos para o dossiê `01_Parceiros/Magalu.md`** (não editei: fora do escopo): os 3
-   domínios (RDAP), a central do divulgador que confirma o preço igual ao do site, o Reclame Aqui de
-   12/10/2026 (seção 3 do dossiê hoje diz "bloqueado") e o canal oficial da Lu no WhatsApp.
+7. **Fatos novos para o dossiê `01_Parceiros/Magalu.md`:** resolvido. O dossiê foi atualizado em
+   12/10/2026 com os 3 domínios (RDAP), a central do divulgador que confirma o preço igual ao do
+   site, o Reclame Aqui de 12/10/2026 e o canal oficial da Lu no WhatsApp.
 8. **Mais de um nome de domínio parecido:** o SiteConfiável lista fichas de domínios de nome
    parecido (ex.: com letra a menos). Não foram verificados nem citados. Se o Bruno quiser um aviso
    no artigo ("confira letra por letra"), ele entra sem nomear nenhum site.

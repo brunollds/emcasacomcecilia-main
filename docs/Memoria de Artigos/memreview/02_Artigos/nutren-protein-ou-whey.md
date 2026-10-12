@@ -111,7 +111,7 @@ Produtos comparados no artigo (nome exato):
 ---
 
 ## 5. Mídia & Planejamento Visual (Imagens & Vídeos)
-- **Imagem Principal (Hero):** não existe foto do Nutren Protein na biblioteca. Opções: (a) provisória `linha-produtos-hero.webp` (1075×614, mostra a lata do Nutren Protein cortada ao lado do Senior e do Kids, sem o rótulo legível); (b) preferível, nova imagem oficial do pó (lata do Baunilha 400g) e da garrafa de 260 ml lado a lado, 16:9, pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`. A fonte é a galeria da própria página da loja (`/suplem-alimentar-protein-baunilha-400g` e `/nutren-protein-15g-baunilha-260ml`). **Download pede o OK do Bruno** (arquivo, origem e tamanho a combinar); nome sugerido `nutren-protein-po-e-pronto-para-beber-oficial.webp`. Sem OK, a redação usa a opção (a).
+- **Imagem Principal (Hero):** não existe foto do Nutren Protein na biblioteca. Opções: (a) provisória `linha-produtos-hero.webp` (1075×614, mostra a lata do Nutren Protein cortada ao lado do Senior e do Kids, sem o rótulo legível); (b) preferível, montagem 16:9 do pó (lata do Baunilha 400g) e da garrafa de 260 ml lado a lado, pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`. As imagens oficiais já foram baixadas em 12/10/2026, com o OK do Bruno, para o staging `C:\Users\Bruno\Downloads\Emcasacomcecilia\midia-staging\2026-10-12-fase2\nutren\` (origem em `ORIGEM.md`, ambas 3000×3000): `nutren-protein-po-baunilha-400g-frente.jpg` e `nutren-protein-pronto-chocolate-260ml-frente.jpg`. **A garrafa da imagem é o sabor Chocolate, não Baunilha:** o `imageAlt` e a legenda dizem "Chocolate" (a tabela do pronto citada no artigo é a da Baunilha). A montagem, a compressão e o upload são do Job 4; nome sugerido `nutren-protein-po-e-pronto-para-beber-oficial.webp`. A opção (a) fica só como provisória até o Job 4 entregar a montagem.
 - **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md). Planejar compressão, origem/licença, paths locais, upload verificado e `--append`; não confundir upload com publicação nem excluir originais.
 - **Arquivos já existentes em `public/images/reviews/nutren/` que servem:**
   - `nutren-just-protein-lata-280g.avif` (700×700): frente da lata da Just Protein, para a linha "100% whey protein isolado".
@@ -121,7 +121,7 @@ Produtos comparados no artigo (nome exato):
   - `cupom-ceci-hero.webp` (1280×484) e `passo-1-lista-produtos.webp` … `passo-4-cupom-aplicado-10.webp`: a seção do CECI, se o texto mostrar o passo a passo (o passo 4 de 10% é o que bate com o valor atual).
   - Não servem: `nutren-creatina-*`, `fibermais-*`, `mucilon-*`, `ninho-*`, `nestle-nutre-identidade-institucional.webp`, `nestle-nutre-vitrine-oficial.webp` (vitrine com preços de outra data).
 - **Imagens Inline / Seções:** a tabela comparativa é texto (não imagem). Concorrentes (YoPRO e "whey") ficam sem imagem.
-- **Galeria de Detalhes:** a ver, só se houver OK para as imagens oficiais do pó e da garrafa (frente da lata, rótulo da tabela).
+- **Galeria de Detalhes:** as frentes do pó (Baunilha 400g) e da garrafa (Chocolate 260 ml) já estão no staging (ver Hero); entram pelo fluxo do Job 4. A tabela nutricional é texto, não imagem. Não há imagem do rótulo da tabela do Protein no staging.
 - **Vídeo:** [x] Nenhum.
 
 ---
@@ -300,7 +300,7 @@ Produtos comparados no artigo (nome exato):
 8. **Indicação diferente por sabor:** a página do Chocolate acrescenta "a partir dos 50 anos" e a do Baunilha não. Citar o sabor e não generalizar; conferir se isso é erro de cadastro (SAC) antes de comparar com o Senior pela faixa etária.
 9. **Preços:** só o dia 12/10 (Nutren Protein, Just Protein, garrafa) e o dossiê de 10/10 (Senior). Reconsultar até 2026-11-01; não fazer conta de preço por grama (bases diferentes).
 10. **Sobreposição com `nestle-nutre-produtos-para-que-servem`:** alinhar com o outro agente que escreve o briefing daquele artigo quem descreve cada produto da linha; este só compara.
-11. **Imagem do Nutren Protein:** não existe na biblioteca; pedir OK do Bruno para a imagem oficial (download) ou usar `linha-produtos-hero.webp` como provisória.
+11. **Imagem do Nutren Protein: resolvida em 12/10/2026.** Baixada, com o OK do Bruno, para o staging (`midia-staging\2026-10-12-fase2\nutren\`: pó Baunilha 400g e garrafa Chocolate 260 ml). O Job 4 faz a montagem, a compressão e o upload; `linha-produtos-hero.webp` só como provisória até lá. A garrafa da imagem é Chocolate.
 12. **Nutridrink, Ensure e Active** aparecem no autocompletar, mas não foram lidos aqui (Nutridrink), estão no briefing da Fase 1 (Ensure) ou ficam de fora por escopo (Active, só dado de 12/10 na tabela da Baunilha). Ficam fora do comparativo.
 13. **Navegador:** a loja bloqueia leitura direta (confirmado no dossiê), então a leitura foi feita no navegador embutido, em uma aba própria, sem cliques em anúncio ou em link de afiliado e sem passar por verificação.
 
