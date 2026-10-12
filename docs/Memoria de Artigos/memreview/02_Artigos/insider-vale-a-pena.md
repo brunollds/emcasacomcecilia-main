@@ -6,9 +6,11 @@ parceiro: "[[Insider]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Compra"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy (decisão do Bruno), depois do OK das imagens novas para o CDN e da oferta nova da YesStyle"
+proxima_acao: "nenhuma"
+publicado_em: "2026-10-12"
+nota_publicacao: "Publicado no PR #66 em 12/10/2026 (decisão do Bruno), com a capa da Tech T-Shirt no CDN."
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 85
