@@ -8,11 +8,11 @@ reviewKind: "guia"
 type: "Comparativo de Lojas"
 status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "o Bruno escolhe a saída para o Stylevana (seção 10, item 1: esperar e retentar as páginas oficiais, ou publicar agora como 'YesStyle ou Olive Young' e acrescentar o Stylevana depois) e decide a capa; depois redigir o PT (Job 2)"
-bloqueado_por: "páginas oficiais do Stylevana ilegíveis em 12/10/2026 para o Bruno (Cloudflare) e para o Job 1 (curl 403); trechos do Google não são fonte. A pauta não vai ao Job 2 com 'Stylevana' no título sem a linha da loja. O Yami saiu da comparação"
-score_autoridade: 72
+proxima_acao: "o Bruno decide a capa (seção 5) e confirma como o PT trata o Brasil no Stylevana (seção 10, item 1: a página de ajuda em inglês, atualizada em 09/10/2026, não lista o Brasil; as traduções de 26/08/2026 ainda listam); depois redigir o PT (Job 2)"
+bloqueado_por: null
+score_autoridade: 75
 score_conversao: 78
-score_ponderado_total: 74
+score_ponderado_total: 76
 data_criacao: "2026-10-12"
 i18n_cluster: "yesstyle"
 translationKey: "yesstyle-vs-alternatives"
@@ -54,11 +54,12 @@ famílias de confiança e Black Friday está na seção 2.
 ---
 
 ## 1. Portões Obrigatórios (Hard Gates)
-- [ ] **1. Evidência Factual Suficiente:** **parcial.** YesStyle, Olive Young, StyleKorean e Jolse lidos nas páginas
-  oficiais em 12/10/2026 (seção 6). O Stylevana bloqueou o navegador (Cloudflare) e o `curl` (403), e o Bruno
-  também não conseguiu passar a verificação ("nem eu estou conseguindo", 12/10); o Yami saiu da comparação
-  (também bloqueado). Os trechos do Google do `stylevana.com` são parciais e trazem códigos: não são fonte. Sem a
-  linha do Stylevana a comparação com esse nome não fecha.
+- [x] **1. Evidência Factual Suficiente:** YesStyle, Olive Young, StyleKorean, Jolse e Stylevana lidos nas páginas
+  oficiais em 12/10/2026 (seção 6). O Stylevana foi lido depois que o Bruno passou a verificação do Cloudflare no
+  navegador embutido (ele havia bloqueado o navegador e o `curl` mais cedo no mesmo dia); o Yami saiu da comparação
+  (bloqueado). Os trechos do Google do `stylevana.com` não foram usados. Ressalva que muda o texto: a lista de
+  destinos do Stylevana não inclui o Brasil na versão em inglês (09/10/2026), e traz o Brasil nas traduções antigas
+  (26/08/2026); ver 6.5 e a seção 10, item 1.
 - [x] **2. Segurança Regulatória & Ética:** cosméticos sem claim de saúde; só política de loja (envio, imposto,
   devolução). Nenhuma fala sobre "falso" ou "golpe" de loja concorrente: sobre autenticidade, só a frase que
   cada loja publica, atribuída a ela.
@@ -70,8 +71,10 @@ famílias de confiança e Black Friday está na seção 2.
   `yesstyle-trust`), não traz cupom (é da página da loja e do guia de cupons) e não repete a tabela de frete por
   país da YesStyle, que é da família `yesstyle-shipping-by-country`.
 - [x] **5. Classe Canônica Válida:** `guias-praticos-utilidade` (informação pública das lojas, sem teste próprio).
-- [ ] **6. Fontes Acessíveis, Exatas & Atuais:** **parcial**, mesma razão do portão 1. Para o Stylevana, a pauta
-  precisa das páginas de envio, devolução e autenticidade, ilegíveis para todos em 12/10 (seção 10, item 1).
+- [x] **6. Fontes Acessíveis, Exatas & Atuais:** todas as linhas da seção 6 vêm de página oficial lida em 12/10/2026,
+  com URL. Stylevana: páginas de envio de cada site de país, devolução, pagamento, termos e a central de ajuda
+  (`stylevana.zendesk.com`), listadas em 6.5. O que a loja não publica (imposto por país nos sites de Reino Unido,
+  UE, Canadá e Austrália; frete do Brasil) fica fora do texto (ver 6.5, "Não publicado pela loja").
 - [x] **7. Decisão i18n Registrada:** `paridade-completa`, `translationKey: "yesstyle-vs-alternatives"`.
 
 ---
@@ -111,8 +114,10 @@ famílias de confiança e Black Friday está na seção 2.
   paga o imposto. Hoje a pessoa abre cinco páginas em inglês, ou lê Reddit e TikTok (que não são fonte aqui).
 - **Qual valor exclusivo nós acrescentamos:** uma tabela por mercado, lida nas páginas oficiais com a data,
   incluindo o que os concorrentes não fazem: Olive Young Global não envia ao Brasil nem à Espanha (FAQ
-  oficial), a Jolse não envia ao Japão, à Coreia nem à China e, entre as páginas lidas, só a YesStyle
-  publica o reembolso de imposto de alfândega (crédito, abaixo de US$ 1.000). Sem veredito de "melhor".
+  oficial), a Jolse não envia ao Japão, à Coreia nem à China, o Stylevana não lista Brasil, Argentina, Japão,
+  Coreia nem Taiwan entre os destinos (central de ajuda em inglês, 09/10/2026) e, entre as páginas lidas, só a
+  YesStyle (em todos os países) e o Stylevana (só nos termos do site do México) publicam o reembolso de imposto
+  (em crédito da loja, abaixo de US$ 1.000). Sem veredito de "melhor".
 
 ---
 
@@ -122,13 +127,13 @@ famílias de confiança e Black Friday está na seção 2.
 |---|---|---|---|
 | 1. Dor / Dúvida real do usuário | 25 pts | 20 | A decisão entre lojas é frequente; a dúvida de fundo (entrega no meu país, imposto) é real |
 | 2. Evidência de demanda (GSC / buscas) | 20 pts | 15 | Autocomplete forte em EN e ES, médio em PT, nulo em KO/JA/ZH; o GSC ainda não tem consulta de comparação |
-| 3. Valor exclusivo além do oficial | 20 pts | 15 | Tabela por mercado nas páginas oficiais; cai sem o Stylevana |
+| 3. Valor exclusivo além do oficial | 20 pts | 17 | Tabela por mercado nas páginas oficiais das cinco lojas, com o que cada uma não atende (inclusive o Stylevana, lido em 12/10); a linha do Brasil do Stylevana é contraditória nas páginas dele (sobe 2 pontos, não 5) |
 | 4. Necessidade de visita (anti-compressão) | 15 pts | 12 | Tabela loja × país e a regra de quem paga o imposto |
 | 5. Contribuição para cluster / links | 10 pts | 8 | Liga entrega, confiança e página da loja nos 10 idiomas |
 | 6. Viabilidade de produção & manutenção | 10 pts | 4 | Cinco lojas × até seis países por idioma, todos mudam; revisão mensal obrigatória |
-| **TOTAL** | **100 pts** | **74** | |
+| **TOTAL** | **100 pts** | **76** | |
 
-- **Score A (Autoridade Editorial):** 72/100
+- **Score A (Autoridade Editorial):** 75/100
 - **Score B (Visita & Conversão):** 78/100
 
 ---
@@ -193,19 +198,82 @@ famílias de confiança e Black Friday está na seção 2.
 | Imposto de importação e taxas são do cliente e não são reembolsados; o valor declarado na alfândega é o efetivamente pago, com o frete, e não pode ser alterado | Fato oficial | `jolse.com/article/faq/3/130700/` ("Customs Tax / Shipping Issues") | — | [x] Sim |
 | Devolução: defeito, item errado ou faltando em até 7 dias do recebimento, com fotos; sem devolução por arrependimento nem de produto aberto | Fato oficial | `jolse.com/article/faq/3/130701/` | — | [x] Sim |
 
-**6.5 Stylevana (não lido) e Yami (fora da comparação)**
+**6.5 Stylevana (lido em 12/10/2026) e Yami (fora da comparação)**
+
+> Stylevana lido em 12/10/2026, no navegador embutido, depois que o Bruno passou a verificação do Cloudflare. Cada país tem site próprio (`stylevana.com/<idioma>_<país>/`); a página de envio de cada um foi lida na sessão liberada, sem login, carrinho nem formulário (o seletor de região só foi aberto, nunca salvo). As páginas de envio foram lidas por inteiro; as de termos, de devolução e de pagamento, por inteiro nos sites em inglês e por busca de trechos de imposto e reembolso nos demais; nenhum código promocional entra no briefing nem no artigo (as páginas mostram códigos em faixas: **não copiar**). Valores na moeda que cada site publica, sem conversão. Prazos em dias úteis, como o Stylevana escreve. Todo o frete é método padrão, "Standard", salvo indicação; o Stylevana avisa que o prazo é aproximação "citada só pela transportadora" e que áreas remotas levam 2 a 3 dias úteis a mais, com sobretaxa.
+
+**6.5a Quem o Stylevana atende e a página de cada país**
+
+| Afirmação planejada | Tipo de Dado | Fonte Exata | Localização / Trecho | Pode Publicar? |
+|---|---|---|---|---|
+| Os pedidos saem do armazém de Hong Kong (Austrália também pode sair do armazém australiano); item em estoque costuma despachar em 24 horas, os outros em 7, 7 a 14, 14 a 21 ou 30 dias úteis; o armazém fecha sábado, domingo e feriados de Hong Kong | Fato oficial | `stylevana.com/en_US/shippings`; `…/en_AU/shippings` | "Shipping Process", "Shipping Location" | [x] Sim |
+| Destinos atendidos (central de ajuda em inglês, atualizada em 09/10/2026, "Where do you ship to?"): EUA, Canadá, México; Reino Unido, Irlanda, Alemanha, Áustria, Suíça, França, Bélgica, Luxemburgo, Países Baixos, Itália, Espanha, Portugal, Polônia e mais países da UE; Hong Kong, Singapura, Malásia, Filipinas, Vietnã, Brunei, Emirados e Israel; Austrália e Nova Zelândia; **Chile, Peru e Colômbia**; África do Sul. **Não aparecem: Brasil, Argentina, Equador, Japão, Coreia do Sul, Taiwan, China.** A página diz que quem não vê o país na lista ainda não é atendido | Fato oficial | `stylevana.zendesk.com/hc/en-us/articles/43813531311897` (modificada em 09/10/2026) | Tabela "Shipping Destinations" | [x] Sim, por país e com a data da página |
+| Sites de país: o seletor de região do site lista Austrália, Canadá, Chile, Colômbia, Alemanha, Espanha, "Europe", França, Itália, Malásia, México, Países Baixos, Nova Zelândia, Peru, Polônia, Portugal, Reino Unido, EUA, Chéquia, Hungria, Emirados e Hong Kong. Os EUA atendem também Singapura, Filipinas, Brunei, África do Sul, Vietnã e Israel; o site "Europe" atende Bulgária, Croácia, Chipre, Chéquia, Dinamarca, Estônia, Finlândia, Grécia, Hungria, **Irlanda**, Letônia, Lituânia, Malta, Romênia, Eslováquia, Eslovênia e Suécia | Fato oficial | seletor de região de `…/en_US/shippings` (aberto, não salvo); `…/en_US/shippings`, `…/en_EU/shippings` ("Shipping Location") | — | [x] Sim; **sem Brasil, Argentina, Japão, Coreia nem Taiwan no seletor** |
+
+**6.5b Frete e prazo por mercado (cada linha: página de envio do site do país)**
+
+| País (versão) | Prazo e método | Frete grátis a partir de / abaixo | Fonte | Pode Publicar? |
+|---|---|---|---|---|
+| EUA (en) | Standard 8 a 15 dias úteis; Premium Express 4 a 9 | Standard US$ 5,79 abaixo de US$ 35 (a tabela traz "N/A" acima disso); Premium Express US$ 9,99 abaixo de US$ 35 e grátis a partir de US$ 35; áreas remotas +US$ 11; aviso de possível atraso nos EUA depois das regras alfandegárias novas | `…/en_US/shippings` | [x] Sim |
+| Reino Unido (en) | Standard 5 a 10 dias úteis; Express 3 a 7 | Standard £ 3,79 abaixo de £ 39 e grátis a partir de £ 39; Express £ 9,99 abaixo de £ 39, £ 5,99 de £ 39 a £ 99 e grátis acima de £ 99; áreas remotas +£ 20 | `…/en_GB/shippings` (a página diz que só atende o Reino Unido) | [x] Sim |
+| Canadá (en, fr) | Standard 6 a 12 dias úteis; Express 3 a 6 | Standard CA$ 7,99 abaixo de CA$ 68 e grátis a partir de CA$ 68; Express CA$ 25 em qualquer valor. Só site em inglês (`fr_CA` não existe) | `…/en_CA/shippings` | [x] Sim |
+| Austrália (en) | Do armazém australiano: Standard 1 a 5 dias úteis, Express 1 a 3; de Hong Kong: Standard 4 a 8, Express 3 a 6. Sai da Austrália só se todos os itens estão no estoque de lá | Standard AU$ 8,29 abaixo de AU$ 49 e grátis a partir de AU$ 49; Express (Austrália) AU$ 13,29 abaixo de AU$ 49, AU$ 5,99 de AU$ 49 a AU$ 100, grátis acima de AU$ 100; Express (Hong Kong) AU$ 15,99, AU$ 9,99, grátis acima de AU$ 100 | `…/en_AU/shippings` | [x] Sim |
+| Nova Zelândia (en, opcional) | Standard 6 a 8 dias úteis | NZ$ 8,69 abaixo de NZ$ 69; grátis a partir de NZ$ 69 | `…/en_NZ/shippings` | [x] Sim |
+| Irlanda (en, opcional) | Standard 10 a 14 dias úteis | € 4,39 abaixo de € 47; grátis a partir de € 47 | `…/en_EU/shippings`, "Ship to Ireland" | [x] Sim |
+| Portugal (pt) | Standard 6 a 11 dias úteis | € 4,39 abaixo de € 59; grátis a partir de € 59; **a loja diz que não entrega em áreas remotas** (sem lista no texto lido) | `…/pt_PT/envio` | [x] Sim |
+| Espanha (es) | Standard 8 a 14 dias úteis | € 4,39 abaixo de € 47; grátis a partir de € 47; a página diz que não entrega em "áreas remotas" sem listá-las | `…/es_ES/envio` | [x] Sim |
+| México (es) | Standard 15 a 20 dias úteis | MXN 100 abaixo de MXN 850; grátis a partir de MXN 850 | `…/es_MX/envio` | [x] Sim |
+| Chile (es) | Standard 12 a 15 dias úteis | US$ 5,50 abaixo de US$ 58; grátis a partir de US$ 58 | `…/es_LATAM/envio` (região Chile e Colômbia) | [x] Sim |
+| Peru (es) | Standard 15 a 20 dias úteis | US$ 5,50 abaixo de US$ 58; grátis a partir de US$ 58 | `…/es_LATAM/envio` (região Peru) | [x] Sim |
+| Colômbia (es) | Standard 9 a 18 dias úteis | US$ 4,79 abaixo de US$ 44; grátis a partir de US$ 44 | `…/es_LATAM/envio` (região Chile e Colômbia) | [x] Sim |
+| França e Bélgica (fr) | Standard 5 a 10 dias úteis; Express 3 a 6 | Standard € 4,49 abaixo de € 35, € 3,99 de € 35 a € 47,99 e grátis a partir de € 48; Express € 16,99 abaixo de € 58, € 12,99 de € 58 a € 137,99 e grátis a partir de € 138. A página lista França, Bélgica e Luxemburgo juntas; não entrega em Reunião, Guadalupe, Saint-Pierre, Martinica, Mayotte e demais territórios franceses de ultramar | `…/fr_FR/expedition` | [x] Sim |
+| Alemanha (de) | Standard 7 a 11 dias úteis | € 4,49 abaixo de € 38, € 3,99 de € 38 a € 47,99 e grátis a partir de € 48 | `…/de_DE/versand` | [x] Sim |
+| Áustria (de) | Standard 6 a 10 dias úteis | € 5,99 abaixo de € 79; grátis a partir de € 79 | `…/de_DE/versand` | [x] Sim |
+| Suíça (de, fr) | Standard 5 a 7 dias úteis; Express 3 a 5 | Standard € 4,79 abaixo de € 75 e grátis a partir de € 75; Express € 18,99 abaixo de € 110 e grátis a partir de € 110 | `…/de_DE/versand`; `…/fr_FR/expedition` (mesmos valores) | [x] Sim |
+| Itália (it) | Standard 8 a 14 dias úteis | € 4,39 abaixo de € 47; grátis a partir de € 47; área remota +€ 17 | `…/it_IT/spedizioni` | [x] Sim |
+| Hong Kong (zh-hant) | SF Express em 1 a 3 dias úteis, em casa, no armário SF ou no ponto SF | HK$ 30 abaixo de HK$ 270 (HK$ 28 nos armários e pontos SF); grátis a partir de HK$ 270; áreas remotas +HK$ 10 | `…/zh_HK/shippings` (em chinês) | [x] Sim |
+| Macau (zh-hant, opcional) | SF Express em 1 a 3 dias úteis | HK$ 40 abaixo de HK$ 300; grátis a partir de HK$ 300 | `…/zh_HK/shippings` | [x] Sim |
+| Singapura (zh-hans) | Standard 3 a 7 dias úteis | US$ 3,99 abaixo de US$ 35; grátis a partir de US$ 35 ("$" no site dos EUA, que cobra em dólar americano) | `…/en_US/shippings`, "Ship to Singapore" | [x] Sim |
+| Malásia (zh-hans) | Standard 4 a 8 dias úteis (Península); 6 a 12 (Sabah, Sarawak e Labuan) | Península: RM 7 abaixo de RM 99, grátis a partir de RM 99; Sabah, Sarawak e Labuan: RM 16 abaixo de RM 149, grátis a partir de RM 149 | `…/en_MY/shippings` | [x] Sim |
+| Taiwan, Japão, Coreia do Sul, Argentina, China (e o Brasil, em 6.5c) | **Sem site nem linha de frete** e fora da lista de destinos (central de ajuda, 09/10/2026) | — | `stylevana.zendesk.com` (lista de destinos); seletor de região | [x] Sim, a versão desses mercados (ja, ko, a parte de Taiwan do zh-hant, a Argentina do es) **não põe o Stylevana na tabela** (regra D); [ ] Não escrever "o Stylevana não atende" sem a data da página |
+
+**6.5c Brasil (a leitura mais delicada)**
+
+| Afirmação planejada | Tipo de Dado | Fonte Exata | Localização / Trecho | Pode Publicar? |
+|---|---|---|---|---|
+| A lista de destinos da central de ajuda em inglês, **atualizada em 09/10/2026**, não traz o Brasil (América Central e do Sul: Chile, Peru, Colômbia). As versões em português, alemão, francês, italiano e chinês tradicional da mesma página, **de 26/08/2026**, ainda trazem o Brasil e, na Europa, a Noruega, que o inglês de 09/10 também não traz | Fato oficial, com data | `stylevana.zendesk.com/hc/en-us/articles/43813531311897` (09/10/2026) e `…/hc/pt/articles/43813531311897`, `…/hc/fr/…`, `…/hc/de/…`, `…/hc/it/…` (26/08/2026) | Tabela "Shipping Destinations" | [x] Sim, escrito como "a lista em inglês de 09/10/2026 não inclui o Brasil; as traduções de 26/08/2026 ainda incluem" |
+| O artigo de impostos da mesma central (17/06/2026) cita o Brasil como região em que o imposto de importação **não** está incluído no checkout ("South Africa, Brazil, and Colombia") | Fato oficial, com data | `…/hc/en-us/articles/58339602102937` e `…/58584655921177` (17/06/2026) | "Tax-Exclusive Regions" | [x] Sim, junto da frase anterior: a loja cita o Brasil em 06/2026 e não o lista em 10/2026 |
+| O Stylevana não tem site, página de frete, prazo nem valor de frete grátis para o Brasil; o seletor de região (12/10) não lista o Brasil | Fato oficial por ausência | seletor de `…/en_US/shippings`; sites `pt_PT`, `es_LATAM` etc. sem região Brasil | — | [x] Sim, como "a loja não publica frete nem prazo para o Brasil"; [ ] Não: "o Stylevana entrega" ou "não entrega" no Brasil (a loja se contradiz) |
+| Remessa Conforme do Stylevana | — | listas da Receita (6.6, abaixo) | — | [ ] Não: sem Brasil na lista de destinos, o PT não precisa dizer se o Stylevana consta; só conferir se o Bruno quiser afirmar algo |
+
+**6.5d Imposto, devolução, autenticidade, pagamento e demais políticas**
+
+| Afirmação planejada | Tipo de Dado | Fonte Exata | Localização / Trecho | Pode Publicar? |
+|---|---|---|---|---|
+| Imposto: "em muitas das regiões principais" imposto de importação, tributos e IVA já estão no preço ou são calculados no checkout; em África do Sul, **Brasil** e Colômbia o destinatário paga na alfândega e o sistema não consegue mostrar o valor no checkout. A loja **não lista** as regiões "com imposto incluído" | Fato oficial | `stylevana.zendesk.com/hc/en-us/articles/58339602102937` (17/06/2026) | "Tax-Inclusive Regions" / "Tax-Exclusive Regions" | [x] Sim, atribuído; **não** completar a lista de países com imposto incluído (não há fonte) |
+| No site LATAM, o cliente do Chile é o único responsável pelos impostos (4.4) e, em pedidos para Chile e Colômbia, o cliente é o "importador registrado" e responde por tarifas, impostos e trâmites de aduana (5.1); no site dos EUA, o mesmo vale para África do Sul e Brunei; Chile pede RUT, Colômbia pede NIT e Peru pede RUC no checkout | Fato oficial | `…/es_LATAM/terminos-y-condiciones` (4.4 e 5.1); `…/en_US/terms-and-conditions` (4.4 e 5.1); `stylevana.zendesk.com/hc/en-us/articles/61044638374041` (RUT) e os artigos de NIT (`61546978694425`) e RUC (`57882416626713`) | Termos | [x] Sim, por país |
+| Nos sites do Reino Unido, da UE (Irlanda etc.), do Canadá, da Austrália, da Nova Zelândia, da Malásia, de Portugal, Espanha, França, Alemanha e Itália, as páginas de envio e de pagamento **não dizem quem paga imposto**; os termos dos sites em inglês (Reino Unido e UE) só dizem que o cliente é "importador de registro" quanto à conformidade dos produtos, e os termos dos demais sites não foram lidos por inteiro | Fato oficial por ausência | páginas de envio, `…/payment` e `…/terms-and-conditions` de cada site | — | [ ] Não: **não afirmar** "imposto incluído" nem "imposto do cliente" para esses países; dizer só a frase geral da central de ajuda |
+| **Reembolso de imposto**: só os termos do site do **México** trazem a política: reembolso de imposto em pedido abaixo de US$ 1.000 (antes de desconto, sem frete), **só em crédito da loja**, nunca em dinheiro, com recibo oficial do imposto. Os termos de EUA, Reino Unido, UE, Canadá, Austrália, Nova Zelândia, Malásia, Hong Kong, Portugal, Espanha, LATAM, França, Alemanha e Itália **não** trazem essa cláusula (busca textual por "1.000" e por reembolso de imposto em cada página de termos) | Fato oficial | `…/es_MX/terminos-y-condiciones` (4.4 a 4.7) | "Sección 4" | [x] Sim, só na versão que cobre o México (es), atribuído ao site do México; [ ] Não estender aos demais países |
+| Devolução: 14 dias do recebimento; produto de beleza com devolução por defeito, item errado ou **arrependimento**, **só novo, lacrado e sem uso**, na embalagem original; amostra, brinde e liquidação não voltam; sem devolução por alergia; reembolso em **crédito da loja** (a loja escreve "coupon code"); frete original não é reembolsável; frete da devolução por arrependimento é do cliente; por defeito ou item errado a loja repõe o item e devolve o frete da devolução em crédito se for enviada por correio aéreo comum ou registrado; pedido de devolução por ticket, autorização em 3 a 5 dias úteis, postagem em até 7 dias; a devolução vai ao armazém de Hong Kong (da Austrália, se o pedido saiu de lá) | Fato oficial | `…/en_US/returns_and_exchanges` e as dos sites de GB, UE, CA, AU, NZ, MY (mesmo texto); `stylevana.zendesk.com/hc/en-us/articles/43814050822553` e `…/58665226863257` | "Return Policy", "Return Types", "Terms and Conditions" | [x] Sim; escrever "crédito da loja", **nunca** "cupom" (o Stylevana usa a palavra "coupon code" para o crédito) |
+| Perda e dano: queixa por ticket até 14 dias úteis depois do envio do rastreio (perda) e até 48 horas depois da entrega (dano, item faltante ou errado, com fotos); seguro opcional de 4% do subtotal, com valor integral coberto em caso de perda ou dano no trânsito | Fato oficial | `…/en_US/shippings` ("Potential Lost Parcel", "Damaged Goods", "Insured Shipping") e as páginas de envio dos demais sites (mesmo texto) | — | [x] Sim, só se couber numa frase |
+| Autenticidade: "Every product we sell is authentic and genuine"; "reputable suppliers and authorized distributors"; a maior parte dos itens coreanos vem direto da Coreia, com remessas diárias ao armazém de Hong Kong | Afirmação da loja | `stylevana.zendesk.com/hc/en-us/articles/43814474581913` ("Do you sell authentic and genuine beauty products?") e `…/43814496155417` | Resposta inteira | [x] Sim, atribuída, sem auditoria independente (igual à YesStyle). A página "Sobre nós" só diz que procura e seleciona produtos de beleza asiáticos |
+| Pagamento: cartão Visa, Mastercard e American Express, PayPal, Apple Pay e Google Pay; sem vale-presente; pagamento integral e antecipado, online; moeda de cobrança por site (dólar nos EUA, euro em Portugal, peso mexicano no México, dólar de Hong Kong em Hong Kong); o site de Portugal cita só Visa e Mastercard | Fato oficial | `…/en_US/payment`; `stylevana.zendesk.com/hc/en-us/articles/43813430744857`; `…/pt_PT/pagamento`; `…/es_MX/terminos-y-condiciones` (4.1) | — | [x] Sim (só se a seção de pagamento entrar; checar a moeda do site do idioma) |
+| Estoque e preço mais barato; velocidade "mais rápida" | — | Não há fonte estável; Reddit e TikTok não são fonte | — | [ ] Não |
+
+**Não publicado pela loja (fica fora do texto):** quem paga imposto em Reino Unido, UE, Canadá, Austrália, Nova Zelândia, Malásia, Singapura, Hong Kong, México (o México só tem o reembolso), Portugal, Espanha, França, Bélgica, Alemanha, Áustria, Suíça e Itália; frete, prazo e imposto do Brasil; as áreas remotas que Portugal e Espanha excluem.
+
+**Yami (fora da comparação)**
 
 | Afirmação planejada | Fonte Exata | Situação | Pode Publicar? |
 |---|---|---|---|
-| Frete, prazo, frete grátis, imposto, devolução e a frase de autenticidade do Stylevana | `stylevana.com/en_US/shipping-information.html` e páginas de devolução | Cloudflare "Um momento…" no navegador e 403 no `curl` (12/10); o Bruno também não passou a verificação. Os trechos do Google do `stylevana.com` são parciais e contêm códigos: **não são fonte** | [ ] Não. **Páginas oficiais do Stylevana ilegíveis em 12/10 por qualquer pessoa**; a linha só entra quando uma página oficial for lida (saídas na seção 10, item 1) |
-| Idem para o Yami | `yami.com` (redirecionou de `yamibuy.com`) | "Human Verification"; não contornado | [ ] Não. **Decisão de 12/10: o Yami sai da comparação** (também bloqueado), em todos os idiomas |
+| O Yami sai da comparação | `yami.com` (redirecionou de `yamibuy.com`) | "Human Verification"; não contornado | [ ] Não. **Decisão de 12/10: o Yami sai da comparação** (também bloqueado), em todos os idiomas |
 
-**6.5b Outros**
+**6.6 Outros**
 
 | Afirmação planejada | Tipo de Dado | Fonte Exata | Localização / Trecho | Pode Publicar? |
 |---|---|---|---|---|
 | A Shopee Brasil devolve pela "Garantia Shopee" em até 7 dias do recebimento, pelo app (marketplace de vendedores terceiros) | Fato oficial | `help.shopee.com.br/portal/4/article/76327` | Aviso "Importante" | [x] Sim, só na versão PT, como contraste de marketplace |
-| A Shopee consta como plataforma certificada no Remessa Conforme; a YesStyle, a Jolse, a StyleKorean e a Olive Young não constam (51 plataformas em operação e 17 em implantação, lidas em 12/10) | Fato oficial | Receita Federal, `…/remessas-postal-e-expressa/empresas-certificadas-no-programa-remessa-conforme-prc` e `…/copy_of_empresas-certificadas-no-programa-remessa-conforme-prc` | Quadros de empresas | [x] Sim, só na versão PT; o Stylevana precisa da mesma conferência nas listas (o Yami saiu da comparação) |
+| A Shopee consta como plataforma certificada no Remessa Conforme; a YesStyle, a Jolse, a StyleKorean e a Olive Young não constam (51 plataformas em operação e 17 em implantação, lidas em 12/10) | Fato oficial | Receita Federal, `…/remessas-postal-e-expressa/empresas-certificadas-no-programa-remessa-conforme-prc` e `…/copy_of_empresas-certificadas-no-programa-remessa-conforme-prc` | Quadros de empresas | [x] Sim, só na versão PT; o Stylevana não precisa da conferência enquanto o PT não disser nada sobre ele e o Brasil (6.5c); o Yami saiu da comparação |
 | Fora do Remessa Conforme, o Imposto de Importação é 60% sem desconto e o ICMS 17% a 20%, cobrados depois da chegada; no Remessa Conforme, 0% até US$ 50 e 60% menos US$ 30 acima disso | Fato oficial | Receita Federal, `…/remessas-postal-e-expressa/regras-futuras` ("regras desde 12/05/2026") | Tabelas 1 e 2 | [x] Sim, só PT |
 | "A YesStyle não é uma marca do SHEIN Group": o site do grupo lista SHEIN, DAZY, ROMWE, MOTF, ANEWSTA, MUSERA, GLOWMODE e ARALINA; a YesStyle diz ser da YesAsia Holdings, de Hong Kong (já na família de confiança) | Fato oficial por ausência + afirmação da loja | `sheingroup.com` (menu "Brands") e `yesstyle.com/en/about-us.html` | Lista de marcas | [x] Sim, redigido como "não aparece na lista de marcas do grupo", não como "não tem relação" |
 | Preço "mais barato" de qualquer loja | — | Não há fonte estável; preço muda por produto e por dia | [ ] Não. Nenhuma frase de preço comparado |
@@ -235,20 +303,20 @@ famílias de confiança e Black Friday está na seção 2.
 
 | Idioma | Mercados da tabela | Lojas na tabela | Slug sugerido |
 |---|---|---|---|
-| pt | Brasil, Portugal | YesStyle, Stylevana*, Olive Young, StyleKorean, Jolse; Shopee em um parágrafo | `yesstyle-ou-stylevana` |
-| en | EUA, Reino Unido, Canadá, Austrália | YesStyle, Stylevana*, Olive Young, StyleKorean, Jolse (o Yami saiu da comparação) | `yesstyle-vs-stylevana-olive-young` |
-| es | España, México, Chile, Perú, Argentina, Colombia | YesStyle, Stylevana*, Olive Young, Jolse, StyleKorean | `yesstyle-o-stylevana-cual-elegir` |
-| fr | France, Belgique, Canada | YesStyle, Stylevana*, Olive Young, StyleKorean, Jolse | `yesstyle-ou-stylevana-que-choisir` |
+| pt | Brasil, Portugal | Brasil: YesStyle, StyleKorean (só o aviso do topo, 6.3), Jolse; Portugal: YesStyle, Stylevana, Olive Young (só se o seletor for lido, 6.2), StyleKorean, Jolse. Stylevana e Olive Young no Brasil: uma frase de FAQ cada, sem linha na tabela (6.5c, 6.2; seção 10 item 1); Shopee em um parágrafo | `yesstyle-ou-stylevana` |
+| en | EUA, Reino Unido, Canadá, Austrália | YesStyle, Stylevana, Olive Young, StyleKorean, Jolse (o Yami saiu da comparação) | `yesstyle-vs-stylevana-olive-young` |
+| es | España, México, Chile, Perú, Argentina, Colombia | YesStyle, Stylevana (sem a Argentina), Olive Young, Jolse, StyleKorean | `yesstyle-o-stylevana-cual-elegir` |
+| fr | France, Belgique, Canada | YesStyle, Stylevana, Olive Young, StyleKorean, Jolse | `yesstyle-ou-stylevana-que-choisir` |
 | de | Deutschland, Österreich, Schweiz | idem | `yesstyle-oder-stylevana-welcher-shop` |
 | it | Italia | idem | `yesstyle-o-stylevana-quale-scegliere` |
-| ja | Japão | YesStyle, Olive Young, Stylevana*; Jolse e StyleKorean ficam de fora (Jolse não envia; StyleKorean não lista o Japão) | `yesstyle-vs-stylevana-ja` |
-| ko | Coreia do Sul | YesStyle, StyleKorean (US$ 70); Jolse não envia; Olive Young Global não lista | `yesstyle-vs-stylevana-ko` |
-| zh-hant | Taiwan, Hong Kong | YesStyle, Olive Young, StyleKorean, Jolse, Stylevana* | `yesstyle-vs-stylevana-zh-hant` |
-| zh-hans | Singapura, Malásia (só mercados que a YesStyle atende; nada sobre a China continental) | idem | `yesstyle-vs-stylevana-zh-hans` |
+| ja | Japão | YesStyle, Olive Young; **sem o Stylevana** (não consta da lista de destinos); Jolse e StyleKorean ficam de fora (Jolse não envia; StyleKorean não lista o Japão) | `yesstyle-vs-olive-young-ja` (sugestão; o slug não nomeia o Stylevana porque a versão não o cobre; o Bruno confirma) |
+| ko | Coreia do Sul | YesStyle, StyleKorean (US$ 70); **sem o Stylevana** (não consta da lista de destinos); Jolse não envia; Olive Young Global não lista | `yesstyle-vs-stylekorean-ko` (sugestão, pela mesma razão; o Bruno confirma) |
+| zh-hant | Taiwan, Hong Kong | Taiwan: YesStyle, Olive Young, StyleKorean, Jolse (sem o Stylevana); Hong Kong: com o Stylevana (SF Express, HK$ 270) | `yesstyle-vs-stylevana-zh-hant` |
+| zh-hans | Singapura, Malásia (só mercados que a YesStyle atende; nada sobre a China continental) | idem, com o Stylevana nos dois mercados | `yesstyle-vs-stylevana-zh-hans` |
 
-\* depende de uma página oficial do Stylevana ser lida. Se o Stylevana não for lido, o título muda e a pauta não segue com esse nome (saídas na seção 10, item 1).
+Stylevana lido em 12/10/2026 (6.5): a pauta segue com o nome "YesStyle ou Stylevana" no PT, EN, ES, FR, DE, IT, zh-hant e zh-hans; o ja e o ko não cobrem o Stylevana e trocam o slug (acima). Os títulos de ja e ko são do Job 2/Job 4 e não citam o Stylevana.
 
-`type` novo: "Comparativo de Lojas", **aprovado pelo Bruno em 12/10/2026 (decisão C)**, com estes termos nos outros idiomas: en "Store Comparison", es "Comparativa de Tiendas", fr "Comparatif de boutiques", de "Shop-Vergleich", it "Confronto tra negozi", ko "쇼핑몰 비교", ja "ショップ比較", zh-hant "購物平台比較", zh-hans "购物平台比较". **Tarefa do Job 4 (não feita agora):** acrescentar as colunas novas à tabela do item 4 da seção 3. Se a opção 2 da seção 10 (item 1) for a escolhida, o rótulo continua o mesmo.
+`type` novo: "Comparativo de Lojas", **aprovado pelo Bruno em 12/10/2026 (decisão C)**, com estes termos nos outros idiomas: en "Store Comparison", es "Comparativa de Tiendas", fr "Comparatif de boutiques", de "Shop-Vergleich", it "Confronto tra negozi", ko "쇼핑몰 비교", ja "ショップ比較", zh-hant "購物平台比較", zh-hans "购物平台比较". **Tarefa do Job 4 (não feita agora):** acrescentar as colunas novas à tabela do item 4 da seção 3.
 
 ---
 
@@ -257,8 +325,8 @@ Regra de tom (Bruno, 12/10): direto, sem pormenores. Uma frase por fato; ressalv
 
 1. **Resposta rápida:** não há "melhor"; a escolha muda com o país, o imposto e a devolução; a tabela abaixo mostra cada loja na página oficial dela.
 2. **Quem entrega no seu país:** tabela loja × país (entrega? prazo estimado, frete grátis a partir de).
-3. **Quem paga o imposto:** uma tabela de quatro linhas (YesStyle devolve abaixo de US$ 1.000 em crédito; Olive Young, StyleKorean e Jolse deixam com o cliente; imposto cobrado no checkout nos países listados pela loja).
-4. **Devolução e produto aberto:** uma tabela de quatro linhas.
+3. **Quem paga o imposto:** uma tabela de cinco linhas (YesStyle devolve abaixo de US$ 1.000 em crédito; Stylevana: a loja diz que várias regiões já têm o imposto no preço, sem listá-las, e que Chile e Colômbia pagam na alfândega, e só os termos do México trazem reembolso de imposto em crédito abaixo de US$ 1.000; Olive Young, StyleKorean e Jolse deixam com o cliente; imposto cobrado no checkout nos países listados pela loja). Para o Stylevana, nenhuma linha por país fora do que a loja escreve (6.5d).
+4. **Devolução e produto aberto:** uma tabela de cinco linhas (Stylevana: 14 dias, produto de beleza só lacrado e sem uso, reembolso em crédito da loja).
 5. **O que cada loja diz sobre originalidade:** uma frase por loja, atribuída, com o link da confiança para a YesStyle.
 6. **O que olhar antes de escolher:** três perguntas (a loja entrega no meu país? quem paga o imposto? aceita devolver?).
 7. **YesStyle e Shein são a mesma coisa?** Resposta de uma frase.
@@ -269,22 +337,31 @@ Palavras fora dos títulos: confiável, legit, safe, scam, fake, melhor.
 ---
 
 ## 10. Pendências e o que o Bruno precisa abrir ou passar
-1. **Stylevana (essencial; o Bruno escolhe a saída).** Em 12/10/2026 as páginas oficiais do Stylevana
-   (`https://www.stylevana.com/en_US/shipping-information.html`, devolução e FAQ de originalidade) ficaram ilegíveis
-   por qualquer pessoa: Cloudflare no navegador, 403 no `curl` do Job 1, e o Bruno também não passou a verificação.
-   Os trechos do Google do `stylevana.com` são parciais e trazem códigos: **não são fonte**. A pauta segue bloqueada
-   e há duas saídas para o Bruno:
-   - **Opção 1: esperar e retentar.** Tentar as páginas oficiais de tempos em tempos (por exemplo, de outra rede ou
-     outro aparelho). Quando uma abrir, o Job 1 lê e fecha a linha; o título e o slug ficam como estão.
-   - **Opção 2: publicar agora como "YesStyle ou Olive Young (Jolse, StyleKorean)"**, só com as lojas já lidas, e
-     acrescentar o Stylevana numa atualização quando a página abrir. **Custo de SEO:** "yesstyle vs stylevana" é o
-     termo mais forte do autocompletar (EN e ES), e a opção 2 sai sem ele no título e no slug, então começa mais
-     fraca; o título, o `seo_title` e o slug mudariam (por exemplo, sem "stylevana").
+1. **Stylevana: lida em 12/10/2026, depois que o Bruno passou a verificação do Cloudflare (resolvida; as opções 1 e 2
+   anteriores caem).** O título e o slug "YesStyle ou Stylevana" ficam. O que o Bruno ainda decide, com a leitura
+   na seção 6.5:
+   - **O Brasil no Stylevana (decisão aberta, mudança de texto no PT).** A central de ajuda em inglês (atualizada em
+     09/10/2026) não lista o Brasil entre os destinos; as traduções (26/08/2026) listam; o artigo de imposto
+     (17/06/2026) cita o Brasil como região com imposto não incluído; a loja não tem site, frete nem prazo para o
+     Brasil. **Padrão proposto:** a tabela do PT não traz linha do Stylevana para o Brasil, e a FAQ ("O Stylevana
+     entrega no Brasil?") responde em uma frase, atribuída e datada: "a lista de destinos em inglês, de 09/10/2026,
+     não inclui o Brasil; as traduções de agosto ainda incluem; a loja não publica frete nem prazo para o Brasil".
+     Se o Bruno quiser um teste real (um endereço brasileiro no checkout do Stylevana, sem concluir a compra), a
+     linha pode mudar.
+   - **ja e ko sem o Stylevana.** O Japão e a Coreia do Sul não constam dos destinos do Stylevana, então as duas
+     versões não o cobrem e o slug não o cita (seção 8); o Bruno confirma os dois slugs.
+   - **Imposto do Stylevana por país.** Fora Chile, Colômbia, África do Sul, Brasil (central de ajuda) e o reembolso
+     do site do México, a loja não diz quem paga imposto nos outros sites (6.5d); a tabela só traz a frase geral
+     da loja.
+   - **Sites de país e Cloudflare.** Abrir a página inicial de `pt_PT`, `es_ES` etc. no navegador voltou a mostrar a
+     verificação ("Um momento…"); parei sem tentar passar. As páginas de envio, devolução, pagamento e termos de
+     todos os sites foram lidas por requisição de leitura na sessão que o Bruno liberou, sem login, carrinho nem
+     formulário. A revisão mensal precisa dessa sessão liberada de novo.
 2. **Yami: fora da comparação (decisão de 12/10).** `https://www.yami.com` também mostrou "Human Verification" e o
    Yami sai da família em todos os idiomas (o EN perde uma coluna).
 3. **Brasil nas outras lojas.** O Bruno pode abrir o checkout de cada loja com um endereço brasileiro e me passar a
-   tela de frete: StyleKorean (banner diz que envia ao Brasil, mas a tabela não traz o país) e Olive Young
-   (FAQ diz que não envia). Sem isso, o PT usa só o que a página oficial diz. **Para a YesStyle no Brasil, a
+   tela de frete: StyleKorean (banner diz que envia ao Brasil, mas a tabela não traz o país), Olive Young
+   (FAQ diz que não envia) e, se quiser o teste real, Stylevana (item 1). Sem isso, o PT usa só o que a página oficial diz. **Para a YesStyle no Brasil, a
    evidência já existe** (pedido próprio enviado em 19/09/2026 pela Anjun Express, seção 6.1); prazo, frete e frete
    grátis dela para o Brasil seguem sem fonte, e o texto não os inventa.
 4. **ICMS e o reembolso da YesStyle.** A política devolve "customs taxes, import duties, VAT e taxas

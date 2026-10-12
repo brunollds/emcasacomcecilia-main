@@ -145,7 +145,7 @@ o mesmo desenho): as fontes ficam só aqui.
 | O código se digita na caixa de **busca** da SHEIN, "não como um cupom"; vale para código de referência e de campanha | Fato oficial | F2 (BR em PT, UK em EN, JP, KR) | Pergunta "Como os usuários podem usar meu código?" (PT: "Use o código na caixa de pesquisa da SHEIN, não como um cupom") | 2026-10-12 | [x] Sim |
 | No Brasil, quem pesquisa o código no **app** da SHEIN é levado à campanha do afiliado | Fato oficial | F1 | FAQ "Quais são as diferenças...", item "Sobre o código e o método de compartilhamento" | 2026-10-12 | [x] Sim |
 | O código de referência abre a página de seleções (Picks) de quem divulga; sem produtos escolhidos, abre a página padrão Top Picks | Fato oficial | F2 | "Método 3 (NOVO): Compartilhe um código de referência" | 2026-10-12 | [x] Sim, dito "segundo a SHEIN"; M3 confirma no app |
-| O 4CW5Y abre a página de seleções da Cecília | Inferência | F4 (`campaign=picklist`) + F2 | — | 2026-10-12 | [ ] Só com M3 |
+| O 4CW5Y abre a página de seleções da Cecília | Inferência | F4 (`campaign=picklist`) + F2 + gravação de 12/10 | No site móvel, sem login, abriu a página genérica "Acho que você pode gostar" | 2026-10-12 | [ ] Não: hoje abre a página padrão; só depois de o Bruno montar a lista de seleções e refazer M3 |
 | Os usuários podem receber os benefícios que as páginas de campanha ou de produto compartilhadas mostram; a SHEIN atualiza as ofertas | Fato oficial | F1 | "Sobre o desconto extra para seguidores" | 2026-10-12 | [x] Sim |
 | Não há valor fixo de desconto no código | Condição comercial | F1 + `couponsData.ts` (FAQ da loja: "não tratamos esse código como um percentual fixo") | — | 2026-10-12 | [x] Sim |
 | O programa antigo de afiliados terminou em 29/08/2024; os códigos antigos foram desativados e quem usava deixou de ter o cupom de R$ 10 | Fato oficial | F1 | FAQ "Sobre encerramento do programa antigo", item 01 | 2026-10-12 | [x] Sim, dito como história |
@@ -351,10 +351,21 @@ Títulos de seção sem marcador de FAQ fora da seção de perguntas (lição 4 
 ## 13. Pendências
 
 **Do Bruno (bloqueiam o Job 3; o Job 2 pode redigir antes):**
-- **P1. Capturas M1 a M4** (seção 5), no app da SHEIN Brasil dele, e dizer o aparelho. M5 e M6 são opcionais. **EM ABERTO em
-  12/10/2026: o Bruno ainda não enviou as capturas.**
-- **P2. Confirmar no app o que o `4CW5Y` abre** (M3): o nome da tela, e se há uma oferta ou condição visível para uma conta nova e para
-  uma existente. Até lá o guia diz "segundo a SHEIN, abre a página de seleções". **EM ABERTO** (depende das capturas).
+- **P1. Capturas M1 a M4** (seção 5). **Em parte em 12/10/2026:** o Bruno gravou a tela do celular no **site móvel** (navegador
+  Brave, `m.shein.com`, sem login), não no app. Quadros extraídos em
+  `midia-staging/2026-10-12-fase4/shein-codigo/` (origem em `ORIGEM.md`): `m1-busca-antes.png`, `m2-busca-4cw5y.png` (recortados acima
+  do teclado) e `m3-depois-da-busca.png`. O teclado da gravação não entra em nenhuma imagem. M4 chegou como **foto** da tela do carrinho (`m4-referencia-carrinho-foto.jpg`, 2252×4000): o painel "Detalhes da
+  Promoção" mostra que a SHEIN aplica sozinha os cupons da loja ("Cupom de 32% de desconto aplicado", "Finalizar compra com
+  cupom(17)"), sem campo para digitar. Serve de referência para o texto (o carrinho já aplica os cupons da loja; o código de
+  indicação não vai ali), **não para publicar**: é foto com reflexo e mostra os itens de uma compra pessoal. Se o artigo usar
+  imagem nesse passo, pedir um print (não foto) do campo de cupom com um item neutro. Se o guia disser "no aplicativo", faltam as
+  mesmas telas no app.
+- **P2. O que o `4CW5Y` abre.** Na gravação de 12/10 (site móvel, sem login), a busca pelo código abriu uma página genérica
+  "Acho que você pode gostar", com recomendações, e um pop-up de "presente de novo usuário" (pacote de cupons da própria loja, sem
+  código à vista). Isso bate com a regra da SHEIN (F2): **sem produtos escolhidos, o código abre a página padrão**. Hipótese forte: a
+  lista de seleções (Picks) da Cecília está vazia. **Ação para o Bruno:** montar a lista de seleções no painel de afiliada, para o
+  código abrir a curadoria dela, e refazer M3 no app. Até lá o guia não diz que o código abre "as seleções da Cecília"; diz só o que a
+  SHEIN publica. O pop-up de novo usuário não entra no artigo (é campanha da loja e muda).
 - **P3. Reconferir a FAQ de afiliados** (F1 e F2) na hora da redação: F1 é de 29/08/2024 e F2 não tem data; qualquer mudança
   no programa invalida a seção 4.
 - **P4. Decidir o `type`: RESOLVIDA em 12/10/2026 (decisão C).** Rótulo novo da seção 10 aprovado nos 10 idiomas; falta só a
