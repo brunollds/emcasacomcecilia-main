@@ -100,6 +100,7 @@ Não citar cupons do Mercado Livre ou da Amazon nos textos.
 - Puff solto ocupando o chão do quarto pequeno
 - Poltrona de amamentação usada por um ou dois anos e depois parada como decoração no quarto da criança
 - Reclinável manual que pede força das pernas para fechar com o bebê no colo
+- Poltrona para pós-operatório (pauta do **subdomínio**, aprovada pelo Bruno em 11/10/2026; não vira briefing em `02_Artigos/`). Autocompletar de 11/10: 10 sugestões (elétrica, valor, comprar, abdominoplastia) e "poltrona reclinável pós operatório"; na busca só aparecem lojas e aluguel, e o subdomínio ainda não cita pós-operatório. O concorrente viroutendencia.com tem um artigo sobre isso. Portão 2: a orientação de uso fica com o médico, sem alegação de recuperação; a única fonte da marca é a indicação da elétrica com lift (seção 2)
 
 Buscas do autocomplete cobertas pelos artigos de amamentação: com balanço, com puff, reclinável,
 reclinável elétrica, com balanço e giro, pequena e compacta, barata, Mercado Livre, usada e OLX,

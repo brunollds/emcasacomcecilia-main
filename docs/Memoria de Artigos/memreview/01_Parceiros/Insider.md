@@ -28,7 +28,7 @@ consultado em 2026-10-05.
 | Indicação (Member Get Member): cupom de R$ 150 para quem nunca comprou | condicao_comercial_volatil | Termos de uso | 2026-10-05 | 2026-11-05 | Compras acima de R$ 399; um cupom por pedido, sem somar com o EMCASACOMCECILIA | Alta |
 | Cupom de boas-vindas da própria loja na primeira compra online | condicao_comercial_volatil | Central de ajuda, "A INSIDER - Informações sobre a Empresa" (17/09/2026) | 2026-10-05 | 2026-11-05 | Liberado ao cadastrar o e-mail no pop-up do site. Não citar o percentual dele nos textos | Alta |
 | Pagamento: Pix à vista, Pix parcelado em até 4x sem juros (Pagaleve), cartão em até 3x sem juros ou de 4x em diante com juros, boleto | condicao_comercial_volatil | Termos de uso | 2026-10-05 | 2026-11-05 | Na loja física: Pix, dinheiro e cartão em até 3x | Alta |
-| O EMCASACOMCECILIA soma com os preços da Black Friday e com o Pix e vale com todas as formas de pagamento, salvo quando a promoção disser o contrário | condicao_comercial_volatil | Bruno, 09/10/2026 | 2026-10-09 | 2026-11-09 | A promoção de 10/10 (R$ 100 OFF em selecionados) avisava na página do produto que não acumulava com cupons; nos outros itens do carrinho, o cupom seguia valendo | Alta |
+| O EMCASACOMCECILIA soma com os preços da Black Friday e com o Pix e vale com todas as formas de pagamento, salvo quando a promoção disser o contrário | condicao_comercial_volatil | Bruno, 09/10/2026, confirmado em 12/10/2026 | 2026-10-12 | 2026-11-09 | A promoção de 10/10 (R$ 100 OFF em selecionados) avisava na página do produto que não acumulava com cupons; nos outros itens do carrinho, o cupom seguia valendo | Alta |
 | Pix com 10% OFF na barra do site, na coleção da Black Friday e nos banners da semana 10.10 | condicao_comercial_volatil | Home e `/collections/black-friday-insider` | 2026-10-09 | 2026-11-09 | Um banner fala em "+10% OFF no Pix na semana 10.10": reconferir o percentual a cada rodada. Não vale na compra de gift card (termos, seção 6). Não confirmado se vale no Pix parcelado | Alta |
 | Coleção "Black Friday Insider 2026" no ar com 129 produtos e "Brindes + 10% Pix + até 40% OFF", sem datas de início e fim | condicao_comercial_volatil | `/collections/black-friday-insider` | 2026-10-09 | 2026-11-09 | O texto alternativo da imagem da coleção diz "Black November Insider"; as regras dos brindes não estão publicadas | Alta |
 | Preços em 09/10/2026: Tech T-Shirt R$ 129 (de R$ 169) na masculina, feminina e gola V; Manga Longa R$ 199 (de 239); Core R$ 179–189 (de 189); kit 3 Tech gola U R$ 456 (de 507), mais caro que três avulsas (R$ 387); kit 5 Core R$ 805,50 (de 945); cueca Comfort R$ 79 (de 85), kit 3 R$ 229,89 (de 255), kit 5 R$ 375,25 (de 425); cueca Performance R$ 89 (de 95); calcinha Brief R$ 49 (de 69), kit 3 R$ 139,90 (de 207) | condicao_comercial_volatil | `products.json` e `/products/<handle>.js` (Shopify) | 2026-10-09 | 2026-11-09 | Itens com o selo "PROMO 10/10" (Performance T-Shirt 2.0, kits de 2 Tech) ficaram fora do guia, porque o preço pode ser o da promoção de um dia. O "Kit Leve 3 Pague 2" é de Manga Longa (R$ 507) | Alta |
@@ -50,6 +50,20 @@ Testes de carrinho em 2026-10-05:
   "Melhor desconto ativado" e uma etiqueta com o código e um ×; cada item mostra preço original,
   preço com desconto e a linha do código, e o resumo mostra "ECONOMIA TOTAL".
 
+Testes de carrinho em 2026-10-12 (Bruno), com o EMCASACOMCECILIA:
+
+- **Com desconto:** Cueca Boxer Seamless Touch, Marinho/P, item com a tag `lançamento`: linha
+  "Código de desconto EMCASACOMCECILIA (-R$ 8,25)"; preço original R$ 55,00, com desconto R$ 46,75
+  (15%).
+- **Sem desconto:** Camiseta Básica Tech Daily, Mineral Orange/G: R$ 79,00, sem a linha do código.
+  Coerente com o aviso da página ("este item já está com desconto máximo aplicado. Não é cumulativo
+  com cupons").
+- **Pix:** o cupom soma com o Pix e vale com todas as formas de pagamento (Bruno, 12/10/2026, confirmando
+  a decisão de 09/10). Nos textos, dizer isso em uma frase, sem a conta do valor final.
+- **A tag `lançamento` continua sem servir de critério:** a Seamless Touch também tem a tag e recebeu
+  o desconto. A regra publicada segue "exceto lançamentos"; orientar a conferir a linha do código de
+  cada item.
+
 O desconto é de 15% sobre o preço de cada item, confirmado nos testes de 05/10 e 07/10/2026. Exemplo
 do teste do Bruno: Core T-Shirt de R$ 189,00 por R$ 160,65 (R$ 28,35 de economia).
 
@@ -69,9 +83,10 @@ como a parceria entregou, porque o FAQ proíbe editar o link.
 | Marca de roupas com tecnologia têxtil; peças "criadas e desenvolvidas" em São Paulo | fato_oficial | Central de ajuda, "A INSIDER - Informações sobre a Empresa" (17/09/2026) | 2026-10-05 | 2027-01-05 | A atividade registrada no CNPJ é comércio varejista (seção 3) |
 | "Desde 2017", "+800 mil clientes", histórico com Shark Tank, Y Combinator e Forbes | afirmacao_da_marca | Central de ajuda, página de vagas | 2026-10-05 | 2027-01-05 | Citar sempre atribuído à marca |
 | Tech T-Shirt avulsa a R$ 129 no dia da checagem, também vendida em kits; versões masculina e feminina | fato_oficial | Página do produto | 2026-10-05 | 2026-11-05 | Preço volátil. Antiodor e "desamassa no corpo" são promessas da marca |
-| Garantia de 2 anos contra desbotamento da Tech T-Shirt, para compras desde 06/09/2024 | fato_oficial | Termos de uso | 2026-10-05 | 2027-01-05 | Condição: seguir a etiqueta (ciclo delicado até 30 °C, entre outros cuidados) |
+| Garantia de 2 anos contra desbotamento da Tech T-Shirt, para compras desde 06/09/2024 | fato_oficial | Termos de uso; nota do produto na página da Tech T-Shirt (2026-10-12) | 2026-10-05 | 2027-01-05 | Condição: seguir a etiqueta (ciclo delicado até 30 °C, entre outros cuidados), "considerando uma lavagem por semana" (nota do produto, 12/10/2026) |
 | Undershirt Antissuor nas versões Leve, Moderado e Block, com camada dupla nas axilas | fato_oficial | Páginas dos produtos | 2026-10-05 | 2027-01-05 | Feita para usar por baixo da camisa social |
-| Cuecas das linhas Comfort e Performance, avulsas ou em kits | fato_oficial | Catálogo | 2026-10-05 | 2027-01-05 | Não existe linha "Daily" |
+| Cuecas das linhas Comfort e Performance, avulsas ou em kits | fato_oficial | Catálogo | 2026-10-05 | 2027-01-05 | Não existe cueca "Daily". A Tech Daily é camiseta (ver linha abaixo) |
+| Tech Daily (camiseta): tecido DAYON™, 94% viscose e 6% elastano, pode encolher até 2 cm no comprimento na primeira lavagem; R$ 79 (de R$ 139) em 12/10/2026, com o aviso "este item já está com desconto máximo aplicado. Não é cumulativo com cupons"; fora das coleções do catálogo, estoque baixo | fato_oficial | `/products/daily-t-shirt` e `.js` | 2026-10-12 | 2026-11-12 | No teste do Bruno no checkout em 12/10/2026 o cupom não se aplicou à Daily (seção 1). Preço e estoque voláteis |
 | Linha feminina com tops (The Perfect Top), leggings, saias e vestidos | fato_oficial | Catálogo | 2026-10-05 | 2027-01-05 | — |
 | Performance T-Shirt 2.0 com tecnologia Outlast de regulação térmica | afirmacao_da_marca | Página "Nossa Tecnologia" | 2026-10-05 | 2027-01-05 | — |
 | Produção 100% nacional; modal e liocel de "origem vegetal certificada"; Tech T-Shirt "carbono negativa" | afirmacao_da_marca | Página "Sustentabilidade" | 2026-10-05 | 2027-01-05 | Não verificado de forma independente. **A marca não cita a Lenzing: não usar** |
@@ -141,6 +156,9 @@ pela metade.
 Não afirmar experiência de uso das roupas: os artigos são feitos com fontes públicas e com o teste
 do cupom no checkout.
 
+- **Troca na Tech T-Shirt:** a página do produto diz "A primeira troca é grátis", enquanto a central
+  de ajuda (09/10/2026) diz que toda troca é gratuita. Os textos usam a central de ajuda.
+
 ---
 
 ## 5. Mídia da Marca
@@ -189,3 +207,5 @@ loja física, CNPJ, Insider Business e vagas.
 - [[insider-store-e-confiavel]] — CNPJ, loja física, atendimento, trocas, garantia e reputação (`status: publicado`, `2887c4c`)
 - [[insider-store-reclame-aqui-nota-reputacao]] — Abas do Reclame Aqui, principais problemas, respostas e alertas (`status: publicado`, `2887c4c`)
 - [[black-friday-insider]] — Guia de Black Friday 2026: coleção no ar, preços de outubro, cupom com o Pix, troca de presente e prazo para o Natal (publicado em 10/10/2026, PR #50)
+- [[insider-vale-a-pena]] — briefing em pauta-aprovada (12/10/2026, commit 79b6f25)
+- [[tabela-de-medidas-insider]] — briefing em pauta-aprovada (12/10/2026, commit 79b6f25)
