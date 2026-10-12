@@ -1351,8 +1351,8 @@ assertHubStamps(couponsHubBody, hubSections.featured.length);
 
 // As prateleiras em cascata com ímã. Cada cartão das prateleiras do hub e dos "Outros cupons" é um item
 // com a cascata (.revela, com --i pela posição). Dentro dele, o do meio leva o grupo do hover, a inclinação
-// e o ímã do couponCardDecorAt da posição, sempre à direita. O cartão leva a sombra do hover. Os Destaques
-// ficam sem cascata e sem ímã.
+// e o ímã do couponCardDecorAt da posição, sempre à direita e nunca amarelo. O cartão leva a sombra do hover.
+// Os Destaques ficam sem cascata e sem ímã.
 const magnetsIn = (element: string) => elementsWithClass(element, 'size-10').filter((span) => classesOf(span).includes('rounded-full'));
 function assertCouponShelf(where: string, section: string, coupons: readonly Coupon[]) {
   const items = elementsWithClass(section, 'revela');
@@ -1384,6 +1384,7 @@ function assertCouponShelf(where: string, section: string, coupons: readonly Cou
       const magnetClasses = classesOf(magnets[0]);
       for (const name of decor.magnet.split(' ')) assert.ok(magnetClasses.includes(name), `${card}: o ímã sem ${name}`);
       assert.ok(!magnetClasses.includes('-left-3'), `${card}: ímã à esquerda, sobre o número do desconto`);
+      assert.ok(!magnetClasses.includes('bg-amarelo-cupom'), `${card}: ímã amarelo, que some na faixa amarela do preço`);
       assert.ok(magnetClasses.includes('pointer-events-none'), `${card}: o ímã sem pointer-events-none`);
       assert.match(magnets[0], /^<span[^>]*\saria-hidden="true"/, `${card}: o ímã sem aria-hidden`);
     }
@@ -1405,8 +1406,8 @@ function assertOthersRow(where: string, section: string) {
   }
 }
 
-// O ímã à direita dos cupons é uma variante: a home, a home de cada idioma e as Novidades de /reviews seguem
-// com a tabela de antes, com o ímã à esquerda na posição 2.
+// O ímã dos cupons, à direita e sem o amarelo, é uma variante: a home, a home de cada idioma e as Novidades
+// de /reviews seguem com a tabela de antes, com o ímã à esquerda na posição 2.
 assert.deepEqual([0, 1, 2, 3, 4, 5].map((index) => cardDecorAt(index)), [
   { magnet: '-top-3 -right-3 bg-amarelo-cupom', tilt: '-rotate-1' },
   { magnet: null, tilt: '' },
@@ -1416,12 +1417,12 @@ assert.deepEqual([0, 1, 2, 3, 4, 5].map((index) => cardDecorAt(index)), [
   { magnet: '-top-3 -right-3 bg-amarelo-cupom', tilt: '-rotate-1' },
 ]);
 assert.deepEqual([0, 1, 2, 3, 4, 5].map((index) => couponCardDecorAt(index)), [
-  { magnet: '-top-3 -right-3 bg-amarelo-cupom', tilt: '-rotate-1' },
+  { magnet: '-top-3 -right-3 bg-marinho', tilt: '-rotate-1' },
   { magnet: null, tilt: '' },
   { magnet: '-top-3 -right-3 bg-laranja', tilt: 'rotate-[0.5deg]' },
   { magnet: null, tilt: '' },
   { magnet: '-top-3 -right-3 bg-marinho', tilt: 'rotate-[-0.6deg]' },
-  { magnet: '-top-3 -right-3 bg-amarelo-cupom', tilt: '-rotate-1' },
+  { magnet: '-top-3 -right-3 bg-marinho', tilt: '-rotate-1' },
 ]);
 
 for (const category of hubSections.categories) {
