@@ -37899,7 +37899,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "A YesStyle é confiável? Veja dados públicos da empresa, autorização de marcas coreanas, política de envios, impostos e o que observar antes de comprar.",
     "publishedAt": "2 de agosto de 2026",
     "publishedAtISO": "2026-08-02",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-10-13",
     "changelog": [
       {
         "date": "2026-09-28",
@@ -37908,6 +37908,10 @@ export const reviewsData: unknown[] = [
       {
         "date": "2026-10-12",
         "text": "Frete e prazo: retirados o mínimo de US$ 59 e o prazo de 10 a 25 dias úteis, que não constam da tabela de frete da YesStyle de 6 de outubro de 2026; corrigido o início da pausa dos envios ao Brasil (julho de 2026)."
+      },
+      {
+        "date": "2026-10-13",
+        "text": "Frete, prazo e imposto passaram para o guia de entrega da YesStyle no Brasil e em Portugal, e saiu a frase de que os envios ao Brasil voltaram em setembro, que a loja não anunciou."
       }
     ],
     "draft": false,
@@ -37942,8 +37946,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
-          "O site da YesStyle oferece navegação em português e checkout em múltiplas formas de pagamento (cartão de crédito, PayPal). Os envios ao Brasil ficaram suspensos a partir de julho de 2026, por atrasos na alfândega, e voltaram em setembro. Para o Brasil, o frete, o mínimo para frete grátis e o prazo aparecem no checkout, depois do CEP.",
-          "O prazo de entrega e o valor do frete variam conforme o país de destino, o método de envio escolhido e a disponibilidade dos produtos no momento da expedição — consulte a estimativa exata no carrinho antes de finalizar. Para devoluções de itens elegíveis na embalagem original, a solicitação pode ser feita via formulário de autorização (RMA) no atendimento oficial. O suporte ao cliente pode ser contatado via chat e e-mail no site oficial."
+          "O site da YesStyle oferece navegação em português e checkout em múltiplas formas de pagamento (cartão de crédito, PayPal). Prazo, frete e imposto no Brasil e em Portugal estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+          "Para devoluções de itens elegíveis na embalagem original, a solicitação pode ser feita via formulário de autorização (RMA) no atendimento oficial. O suporte ao cliente pode ser contatado via chat e e-mail no site oficial."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
@@ -37970,9 +37974,8 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Confirme se está no domínio oficial (yesstyle.com) antes de inserir dados de pagamento. O checkout seguro deve iniciar com 'https://'.",
-          "Os envios para o Brasil ficaram suspensos a partir de julho de 2026 e voltaram em setembro. Antes de montar o carrinho, confira no próprio site se o envio está disponível para o seu CEP. Se houver cobrança de impostos de importação, ela pode chegar na liberação do pacote, via Correios ou transportadora. A YesStyle reembolsa essas taxas alfandegárias em pedidos abaixo de US$ 1.000 (valor antes dos cupons, sem o frete): pague a cobrança, guarde o comprovante e envie ao atendimento da loja em até 30 dias. O reembolso vem em crédito na YesStyle.",
+          "Confira o frete e o prazo no checkout antes de pagar. Se o pacote for taxado na chegada, a YesStyle reembolsa os impostos e as taxas de alfândega em pedidos abaixo de US$ 1.000; como pedir está no [guia de entrega](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
           "Leia atentamente as descrições dos produtos, incluindo dimensões, materiais, e instruções de cuidado — padrões de beleza asiáticos podem diferir dos locais (ex: tamanho de embalagem, concentração de princípios ativos).",
-          "Verifique o prazo de entrega estimado no carrinho para seu CEP. Regiões mais distantes podem ter prazos estendidos.",
           "Mantenha o comprovante de pagamento, o número de pedido e o código de rastreamento para acompanhamento e eventual recurso em caso de problemas.",
           "Produtos podem chegar em caixa lacrada — não aceite o pacote se o lacre estiver violado, pois o lacre preservado é um importante indicativo de integridade do pacote."
         ]
@@ -37991,14 +37994,14 @@ export const reviewsData: unknown[] = [
           "A YesStyle é confiável ou é um site falso? A YesStyle é legítima. É uma empresa fundada em 2006 com sede em Hong Kong, subsidiária da YesAsia Holdings Limited, listada na bolsa de Hong Kong (2209.HK), e se apresenta como distribuidora autorizada das marcas que vende.",
           "De onde é a YesStyle? De Hong Kong: a loja foi fundada lá em 2006 e pertence à YesAsia Holdings, listada na Bolsa de Hong Kong (2209.HK).",
           "Os produtos da YesStyle são originais ou falsificados? A YesStyle afirma ser revendedora autorizada de mais de 400 marcas de beleza coreana, comprando das fabricantes ou de distribuidores autorizados. Não há auditoria independente dessa afirmação; na entrega, confira lote, validade e lacre.",
-          "Qual o prazo de entrega da YesStyle para o Brasil? O prazo aparece no checkout, depois do CEP: é o tempo para o pedido ficar pronto mais o prazo do método de envio, que sai de Hong Kong. Os envios ao Brasil voltaram em setembro de 2026.",
-          "YesStyle cobra impostos de importação para o Brasil? Pode haver cobrança de impostos na chegada do pacote, via Correios ou transportadora; as alíquotas dependem do valor do pedido e do estado e mudam com o tempo. A YesStyle reembolsa essas taxas alfandegárias em pedidos abaixo de US$ 1.000 (valor antes dos cupons, sem o frete): pague a cobrança, guarde o comprovante e envie ao atendimento da loja em até 30 dias. O reembolso vem em crédito na YesStyle.",
+          "Qual o prazo de entrega da YesStyle para o Brasil? A loja não publica prazo para o Brasil: ele aparece no checkout, antes de pagar. Como o prazo é contado está no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+          "YesStyle cobra impostos de importação para o Brasil? O imposto pode ser cobrado na chegada do pacote. A YesStyle reembolsa os impostos e as taxas de alfândega em pedidos abaixo de US$ 1.000, em crédito na loja.",
           "O código CECILIA010 muda o preço final do produto? Não. O código CECILIA010 oferece até 5% extra (5% 1ª compra, 2% recorrente) como benefício da parceria, sem custo adicional para o leitor.",
           "Como funciona a devolução na YesStyle? A solicitação de devolução é feita via formulário de autorização (RMA) no atendimento ao cliente. Produtos elegíveis não violados podem ser devolvidos para reembolso em crédito na loja ou estorno conforme a política vigente do produto.",
           "A YesStyle aceita qual forma de pagamento? Cartão de crédito internacional, PayPal e, em alguns países, localWallets. Todos os pedidos são processados em USD.",
           "YesStyle é seguro para inserir dados de cartão? Sim, o site utiliza conexão HTTPS segura e processa pagamentos via gateways certificados internacionais. Nunca insira dados sensíveis fora do checkout oficial.",
           "Qual é o domínio oficial da YesStyle? O domínio oficial é yesstyle.com (com idioma português disponível selecionando no site). Cuidado com sites falsos ou revendedores não autorizados.",
-          "YesStyle oferece frete grátis para o Brasil? O frete e o mínimo para frete grátis aparecem no checkout, depois do CEP. A tabela de frete que a YesStyle publica desde 6 de outubro de 2026 ainda não traz o Brasil.",
+          "YesStyle oferece frete grátis para o Brasil? A loja não publica frete grátis para o Brasil; o frete aparece no checkout, antes de pagar.",
           "Como usar o código CECILIA010 na YesStyle? Digite CECILIA010 no campo 'Código de Recompensa' (Reward Code) durante o checkout. Este campo é separado do campo de cupom, e ambos podem ser usados simultaneamente."
         ]
       }
@@ -38996,7 +38999,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Yes. YesStyle is a Hong Kong retailer founded in 2006 and owned by YesAsia Holdings, listed in Hong Kong. Product authenticity, shipping and what to check.",
     "publishedAt": "August 2, 2026",
     "publishedAtISO": "2026-08-02",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-10-13",
     "draft": false,
     "locale": "en",
     "hideFromPortugueseListings": true,
@@ -39032,8 +39035,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Global Shipping and Customer Policies",
         "paragraphs": [
-          "YesStyle ships to more than 150 countries and regions, all from its warehouse in Hong Kong. Free shipping starts at a minimum that depends on the country. In the shipping table in force since October 6, 2026: Standard is free from US$ 35 in the US, and Premium Standard from US$ 35 in Australia and from US$ 50 in the UK and Canada.",
-          "Shipping fees, free shipping eligibility thresholds, and delivery timelines vary depending on the destination country, selected shipping method, and product processing availability. Exact delivery estimates and shipping costs are calculated at checkout. Returns for eligible unopened items in original packaging can be requested via Return Merchandise Authorization (RMA) through official customer support."
+          "YesStyle ships to more than 150 countries and regions, all from its warehouse in Hong Kong. Delivery times, shipping fees and taxes for the US, the UK, Canada and Australia are in our [YesStyle shipping guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
+          "Returns for eligible unopened items in original packaging can be requested via Return Merchandise Authorization (RMA) through official customer support."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
@@ -39081,8 +39084,8 @@ export const reviewsData: unknown[] = [
           "Is YesStyle legit and reliable? Yes, YesStyle is a legitimate online retailer founded in 2006. It is a subsidiary of YesAsia Holdings Limited (2209.HK), a publicly listed company on the Hong Kong Stock Exchange.",
           "Where is YesStyle from? Hong Kong: it was founded there in 2006 and belongs to YesAsia Holdings, listed on the Hong Kong Stock Exchange (2209.HK).",
           "Are YesStyle products authentic or fake? YesStyle says it is an authorized retailer of more than 400 Korean beauty brands, sourcing from manufacturers or authorized partners. We found no independent audit of that claim; when your order arrives, check the batch code, expiry date and seal.",
-          "How long does YesStyle shipping take? It depends on the country and the method. In the shipping table in force since October 6, 2026: 7 to 11 business days by Standard to the US, 5 to 12 by Premium Standard to the UK, 7 to 14 to Canada and 6 to 8 to Australia, plus the time your order takes to be ready to ship.",
-          "Does YesStyle offer free international shipping? Yes, above a minimum that depends on the country: US$ 35 in the US (Standard) and Australia (Premium Standard), and US$ 50 in the UK and Canada (Premium Standard), per the table in force since October 6, 2026.",
+          "How long does YesStyle shipping take? It depends on the country and the shipping method, and the delivery time appears at checkout. Delivery times for the US, the UK, Canada and Australia are in our [YesStyle shipping guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
+          "Does YesStyle offer free international shipping? Yes, above a minimum that depends on the country and the shipping method. The minimums for the US, the UK, Canada and Australia are in our [YesStyle shipping guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
           "Does the Reward Code CECILIA010 expire? It has no expiry date and stays active while the partnership with YesStyle continues. It gives up to 5% extra and stacks with an eligible promo coupon code.",
           "How do I use code CECILIA010 on YesStyle? Enter CECILIA010 in the 'Reward Code' field during checkout. It can be combined with a coupon code in the 'Coupon Code' field."
         ]
@@ -39122,7 +39125,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Sí. YesStyle es una tienda online de Hong Kong fundada en 2006, filial de YesAsia Holdings, que cotiza en Hong Kong. Originalidad, envíos y qué revisar.",
     "publishedAt": "2 de agosto de 2026",
     "publishedAtISO": "2026-08-02",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-10-13",
     "draft": false,
     "locale": "es",
     "hideFromPortugueseListings": true,
@@ -39158,8 +39161,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Envíos internacionales y atención al cliente",
         "paragraphs": [
-          "YesStyle envía a más de 150 países y regiones. El envío estándar es gratis a partir de un importe mínimo que depende del país: US$ 45 en España, México y Colombia, y US$ 60 en Chile, Perú y Argentina, según la tabla vigente desde el 6 de octubre de 2026.",
-          "Los plazos de entrega, umbrales de envío gratuito y costes varían según el país de destino, el método de envío elegido y la disponibilidad del producto. Las estimaciones exactas se calculan en la pantalla de pago. Las devoluciones de productos elegibles en embalaje original se gestionan mediante Autorización de Devolución (RMA) a través del soporte oficial."
+          "YesStyle envía a más de 150 países y regiones. Los plazos de entrega, los costes de envío y los impuestos para España, México, Chile, Perú, Argentina y Colombia están en nuestra [guía de envíos de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
+          "Las devoluciones de productos elegibles en embalaje original se gestionan mediante Autorización de Devolución (RMA) a través del soporte oficial."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
@@ -39205,7 +39208,7 @@ export const reviewsData: unknown[] = [
           "¿Es YesStyle confiable y legítimo? Sí, YesStyle es una tienda online auténtica fundada en 2006, filial de la empresa pública YesAsia Holdings Limited (2209.HK).",
           "¿De dónde es YesStyle? De Hong Kong: la tienda se fundó allí en 2006 y pertenece a YesAsia Holdings, que cotiza en la Bolsa de Hong Kong (2209.HK).",
           "¿Los productos de YesStyle son originales o falsificados? YesStyle afirma ser revendedora autorizada de más de 400 marcas de belleza coreana y comprar a los fabricantes o a distribuidores autorizados. No hay una auditoría independiente de esa afirmación; al recibir el pedido, revisa el lote, la caducidad y el precinto.",
-          "¿Cuánto tarda en llegar un pedido de YesStyle? Depende del país. Por envío estándar, según la tabla vigente desde el 6 de octubre de 2026: de 10 a 15 días laborables a España, de 10 a 13 a México, de 15 a 20 a Chile, de 15 a 22 a Perú y Colombia, y de 15 a 27 a Argentina, más el tiempo que tarda el pedido en estar listo para el envío.",
+          "¿Cuánto tarda en llegar un pedido de YesStyle? Depende del país y del método de envío, y el plazo aparece en la pantalla de pago. Los plazos para España, México, Chile, Perú, Argentina y Colombia están en nuestra [guía de envíos de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
           "¿Cómo usar el código CECILIA010? Introduce CECILIA010 en la casilla 'Código de Recompensa' durante el proceso de pago."
         ]
       }
@@ -39243,7 +39246,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle est-il fiable et sûr ? Données d'entreprise, partenariats officiels K-beauty, politiques de livraison, douanes et conseils d'achat.",
     "publishedAt": "2 août 2026",
     "publishedAtISO": "2026-08-02",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-10-13",
     "draft": false,
     "locale": "fr",
     "hideFromPortugueseListings": true,
@@ -39279,8 +39282,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Livraison internationale et retours",
         "paragraphs": [
-          "La livraison standard est gratuite à partir d'un montant minimum qui dépend du pays : US$ 45 pour la France, la Belgique et la Suisse, et US$ 50 pour le Canada, selon le barème en vigueur depuis le 6 octobre 2026.",
-          "Les délais de livraison, frais et conditions de livraison gratuite varient en fonction du pays de destination, du mode d'expédition et de la disponibilité des articles. Les estimations exactes sont calculées lors de la validation du panier. Les retours d'articles éligibles sous emballage d'origine se font via une demande d'Autorisation de Retour (RMA) auprès du service client."
+          "Les délais, les frais de livraison et les taxes pour la France, la Belgique et le Canada figurent dans notre [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
+          "Les retours d'articles éligibles sous emballage d'origine se font via une demande d'Autorisation de Retour (RMA) auprès du service client."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
@@ -39325,7 +39328,7 @@ export const reviewsData: unknown[] = [
           "YesStyle est-il un site fiable ? Oui, YesStyle est une entreprise légitime fondée en 2006, filiale du groupe coté en bourse YesAsia Holdings (2209.HK).",
           "D'où vient YesStyle ? De Hong Kong : la boutique y a été fondée en 2006 et appartient à YesAsia Holdings, cotée à la Bourse de Hong Kong (2209.HK).",
           "Les produits YesStyle sont-ils authentiques ou contrefaits ? YesStyle affirme être revendeur agréé de plus de 400 marques de beauté coréenne, en s'approvisionnant auprès des fabricants ou de distributeurs agréés. Nous n'avons trouvé aucun audit indépendant de cette affirmation ; à la réception, vérifiez le numéro de lot, la date de péremption et le scellé.",
-          "Quel est le délai de livraison ? Selon le barème en vigueur depuis le 6 octobre 2026 : 10 à 15 jours ouvrés en livraison standard vers la France, la Belgique et la Suisse, et 7 à 14 jours ouvrés vers le Canada, plus le temps de préparation de la commande.",
+          "Quel est le délai de livraison ? Cela dépend du pays et du mode d'expédition, et le délai s'affiche lors de la validation du panier. Les délais pour la France, la Belgique et le Canada figurent dans notre [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
           "Comment utiliser le code CECILIA010 ? Saisissez CECILIA010 dans la case 'Code récompense' lors de la validation du panier."
         ]
       }
@@ -39363,7 +39366,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Ist YesStyle seriös und sicher? Unternehmensdaten, offizielle K-Beauty Partnerschaften, Versandrichtlinien, Zoll und Einkauftipps.",
     "publishedAt": "2. August 2026",
     "publishedAtISO": "2026-08-02",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-10-13",
     "draft": false,
     "locale": "de",
     "hideFromPortugueseListings": true,
@@ -39399,8 +39402,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Internationaler Versand und Rückgabe",
         "paragraphs": [
-          "Der Standardversand ist ab einem Mindestbestellwert kostenlos, der vom Land abhängt: US$ 45 für Deutschland, Österreich und die Schweiz, laut der Versandtabelle, die seit dem 6. Oktober 2026 gilt.",
-          "Lieferzeiten, Versandkosten und Freigrenzen variieren je nach Zielland, gewählter Versandart und Produktverfügbarkeit. Die genauen Zeiten und Kosten werden im Kassenbereich angezeigt. Rücksendungen berechtigter ungeöffneter Produkte werden über eine Warenrücksendegenehmigung (RMA) beim Kundenservice beantragt."
+          "Lieferzeiten, Versandkosten und Steuern für Deutschland, Österreich und die Schweiz finden Sie in unserem [YesStyle-Versandratgeber](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
+          "Rücksendungen berechtigter ungeöffneter Produkte werden über eine Warenrücksendegenehmigung (RMA) beim Kundenservice beantragt."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
@@ -39445,7 +39448,7 @@ export const reviewsData: unknown[] = [
           "Ist YesStyle seriös? Ja, YesStyle ist ein etablierter Online-Shop (gegründet 2006) und Tochterunternehmen der börsennotierten YesAsia Holdings (2209.HK).",
           "Woher kommt YesStyle? Aus Hongkong: Das Unternehmen wurde dort 2006 gegründet und gehört zur YesAsia Holdings, die an der Hongkonger Börse notiert ist (2209.HK).",
           "Sind YesStyle-Produkte original oder gefälscht? YesStyle gibt an, autorisierter Händler von mehr als 400 koreanischen Kosmetikmarken zu sein und bei Herstellern oder autorisierten Partnern einzukaufen. Eine unabhängige Prüfung dieser Angabe haben wir nicht gefunden; kontrollieren Sie bei Lieferung Chargencode, Haltbarkeitsdatum und Siegel.",
-          "Wie lange dauert der Versand? Laut der Versandtabelle, die seit dem 6. Oktober 2026 gilt, dauert der Standardversand nach Deutschland, Österreich und in die Schweiz 10 bis 15 Werktage; dazu kommt die Zeit, bis die Bestellung versandbereit ist.",
+          "Wie lange dauert der Versand? Das hängt vom Land und von der Versandart ab, und die Lieferzeit wird beim Checkout angezeigt. Die Lieferzeiten für Deutschland, Österreich und die Schweiz finden Sie in unserem [YesStyle-Versandratgeber](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
           "Wie löse ich CECILIA010 ein? Tragen Sie den Code CECILIA010 im Feld 'Reward Code' beim Checkout ein."
         ]
       }
@@ -39483,7 +39486,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle은 믿을 수 있을까? 상장사 기업 정보, 400+ K-뷰티 브랜드 공식 유통, 배송 정책 및 쇼핑 팁 안내.",
     "publishedAt": "2026년 8월 2일",
     "publishedAtISO": "2026-08-02",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-10-13",
     "draft": false,
     "locale": "ko",
     "hideFromPortugueseListings": true,
@@ -39519,7 +39522,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "국제 배송 및 고객 지원 정책",
         "paragraphs": [
-          "전 세계 150개 이상의 국가와 지역으로 배송합니다. 2026년 10월 6일부터 적용된 배송표 기준으로, 한국은 Express 배송으로 영업일 3~5일이 걸리고 US$ 50 이상 주문하면 배송비가 무료입니다."
+          "전 세계 150개 이상의 국가와 지역으로 배송합니다. 한국 배송 기간, 배송비, 세금은 저희 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 정리되어 있습니다."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
@@ -39588,7 +39591,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyleは安全で信頼できる？香港上場企業の透明性、400以上の韓国コスメ正規販売店情報、配送・クーポンガイド。",
     "publishedAt": "2026年8月2日",
     "publishedAtISO": "2026-08-02",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-10-13",
     "draft": false,
     "locale": "ja",
     "hideFromPortugueseListings": true,
@@ -39624,8 +39627,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "国際配送と購入・カスタマーサポート方針",
         "paragraphs": [
-          "YesStyleは世界150以上の国と地域への発送に対応しています。国ごとの条件を満たすことで送料無料が適用される場合があります（適用条件はカート画面にてご確認ください）。",
-          "お届け日数や送料、追跡の有無は配送先、選択した配送方法、および商品の準備状況により異なります。詳細は決済画面でご確認ください。対象商品の返品に関しては、カスタマーサポートを通じた返品許可（RMA）の手続きに従って行われます。"
+          "YesStyleは世界150以上の国と地域への発送に対応しています。日本向けのお届け日数、送料、税金については、当サイトの[YesStyle配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)をご覧ください。",
+          "対象商品の返品に関しては、カスタマーサポートを通じた返品許可（RMA）の手続きに従って行われます。"
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
@@ -39670,7 +39673,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "YesStyleの商品は正規品ですか、それとも偽物ですか？ YesStyleは400以上の韓国コスメブランドの正規販売店であり、メーカーまたは正規パートナーから仕入れていると説明しています。この主張を裏付ける第三者による監査は確認できていないため、商品が届いたらロット番号、使用期限、封の状態を確認してください。",
           "YesStyleはどこの国の会社ですか？ 香港の企業です。2006年に香港で設立され、香港証券取引所に上場するYesAsia Holdings（2209.HK）の傘下にあります。",
-          "YesStyleの配送日数はどのくらいですか？ お届け先の国、選択した配送方法、商品の在庫状況によって異なります。正確な日数はカート画面でご確認ください。",
+          "YesStyleの配送日数はどのくらいですか？ お届け先の国と配送方法によって異なり、日数は決済画面に表示されます。日本向けの日数は、当サイトの[YesStyle配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)をご覧ください。",
           "CECILIA010の使い方は？ 決済画面の「リワードコード」欄に CECILIA010 を入力してください。クーポンコードと同時に利用可能です。"
         ]
       }
@@ -39708,7 +39711,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle 安全可靠嗎？上市公司背景、400+ K-Beauty 品牌官方授權、運送政策與優惠碼指南。",
     "publishedAt": "2026年8月2日",
     "publishedAtISO": "2026-08-02",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-10-13",
     "draft": false,
     "locale": "zh-hant",
     "hideFromPortugueseListings": true,
@@ -39744,7 +39747,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "全球運送與售後保障",
         "paragraphs": [
-          "提供國際配送，並附包裹追蹤號碼。依 2026 年 10 月 6 日起生效的運費表：寄往台灣為快遞，3 至 6 個工作天，訂單滿 US$50 免運；寄往香港為順豐速運，1 至 3 個工作天，滿 US$35 免運。"
+          "提供國際配送，並附包裹追蹤號碼。台灣、香港與澳門的運送時間、運費與稅費，請參閱我們的 [YesStyle 運送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。"
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
@@ -39813,7 +39816,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle 安全可靠吗？上市公司背景、400+ K-Beauty 品牌官方授权、运送政策与优惠码指南。",
     "publishedAt": "2026年8月2日",
     "publishedAtISO": "2026-08-02",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-10-13",
     "draft": false,
     "locale": "zh-hans",
     "hideFromPortugueseListings": true,
@@ -39849,7 +39852,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "全球运送与售后保障",
         "paragraphs": [
-          "提供国际配送，并附包裹追踪号码。依 2026 年 10 月 6 日起生效的运费表：寄往新加坡为快递，3 至 5 个工作日，订单满 US$50 免运费；寄往马来西亚为标准运送，10 至 16 个工作日，满 US$35 免运费。"
+          "提供国际配送，并附包裹追踪号码。新加坡与马来西亚的运送时间、运费与税费，请参阅我们的 [YesStyle 运送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。"
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
@@ -48213,7 +48216,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle è affidabile e sicuro? Dati aziendali, partnership ufficiali con i marchi K-Beauty, spedizioni, dogana e consigli prima di ordinare.",
     "publishedAt": "28 settembre 2026",
     "publishedAtISO": "2026-09-28",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-10-13",
     "draft": false,
     "locale": "it",
     "hideFromPortugueseListings": true,
@@ -48249,8 +48252,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Spedizioni internazionali e resi",
         "paragraphs": [
-          "La spedizione standard verso l'Italia è gratuita a partire da US$ 45, secondo la tabella in vigore dal 6 ottobre 2026; la soglia cambia da paese a paese.",
-          "Tempi di consegna, costi e condizioni per la spedizione gratuita variano in base al paese di destinazione, al metodo di spedizione e alla disponibilità degli articoli. Le stime precise vengono calcolate al momento del checkout. I resi degli articoli idonei, nella confezione originale, si gestiscono con una richiesta di Autorizzazione al Reso (RMA) al servizio clienti."
+          "Tempi di consegna, costi di spedizione e imposte per l'Italia sono nella nostra [guida alle spedizioni di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
+          "I resi degli articoli idonei, nella confezione originale, si gestiscono con una richiesta di Autorizzazione al Reso (RMA) al servizio clienti."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
@@ -48277,7 +48280,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Controlla di trovarti sul dominio ufficiale (yesstyle.com), con connessione HTTPS.",
-          "Informati sulle regole doganali del tuo paese per IVA e dazi d'importazione. YesStyle rimborsa dazi e spese doganali sotto forma di YesStyle Credit per gli ordini inferiori a 1.000 USD (prima dei coupon ed escluse le spese di spedizione): la richiesta va fatta con la ricevuta entro 30 giorni. L'IVA addebitata al checkout sugli ordini UE non è coperta dal rimborso.",
+          "Se il pacco viene tassato all'arrivo, YesStyle rimborsa dazi e spese doganali sotto forma di YesStyle Credit per gli ordini inferiori a US$ 1.000; come chiedere il rimborso è spiegato nella [guida alle spedizioni](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
           "Leggi con attenzione le schede prodotto e le guide alle taglie."
         ]
       },
@@ -48295,7 +48298,7 @@ export const reviewsData: unknown[] = [
           "YesStyle è un sito affidabile? Sì, YesStyle è un'azienda legittima, fondata nel 2006 e controllata del gruppo quotato in borsa YesAsia Holdings (2209.HK).",
           "Da dove viene YesStyle? Da Hong Kong: è stata fondata lì nel 2006 e appartiene a YesAsia Holdings, quotata alla Borsa di Hong Kong (2209.HK).",
           "I prodotti YesStyle sono originali o contraffatti? YesStyle dichiara di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana, con acquisti dai produttori o da partner autorizzati. Non abbiamo trovato alcun audit indipendente su questa dichiarazione; quando arriva l'ordine, controlla lotto, scadenza e sigillo.",
-          "Quanto tempo ci mette la spedizione? Secondo la tabella in vigore dal 6 ottobre 2026, la spedizione standard verso l'Italia richiede da 10 a 15 giorni lavorativi, più il tempo necessario perché l'ordine sia pronto per la spedizione.",
+          "Quanto tempo ci mette la spedizione? Dipende dal paese e dal metodo di spedizione, e i tempi di consegna compaiono al checkout. I tempi per l'Italia sono nella nostra [guida alle spedizioni di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
           "Come si usa il codice CECILIA010? Inserisci CECILIA010 nel campo \"Reward Code\" al momento del checkout."
         ]
       }
@@ -55542,8 +55545,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Entrega no Brasil e impostos",
         "paragraphs": [
-          "Os envios da YesStyle ao Brasil ficaram suspensos a partir de julho de 2026, por atrasos na alfândega, e voltaram em setembro. O valor do frete e o prazo aparecem no checkout, e o cupom não desconta o frete.",
-          "Se o pacote for taxado na chegada, a YesStyle devolve os impostos e taxas de alfândega em pedidos abaixo de US$ 1.000, contados antes do cupom e sem o frete. Pague a cobrança, guarde o comprovante e mande para o atendimento da loja em até 30 dias. O reembolso vem como crédito na YesStyle."
+          "O frete e o prazo aparecem no checkout, e o cupom não desconta o frete. Se o pacote for taxado na chegada, a YesStyle reembolsa os impostos e as taxas de alfândega em pedidos abaixo de US$ 1.000, em crédito na loja. O que a loja publica para o Brasil e para Portugal, e como pedir o reembolso, está no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
         ]
       },
       {
@@ -55569,7 +55571,7 @@ export const reviewsData: unknown[] = [
           "O CECILIA010 vale na Black Friday? Vale. Ele vai no campo Reward Code, e as regras dos cupons da Black Friday dizem que eles valem junto com os Rewards Codes.",
           "Dá para usar dois cupons da YesStyle no mesmo pedido? Não: é um cupom por pedido. O código de recompensa é outra coisa e vai em outro campo do checkout.",
           "Preciso ter conta na YesStyle para usar o cupom da Black Friday? Precisa. Os cupons são só para membros, e quem compra como visitante fica sem o desconto.",
-          "A YesStyle entrega no Brasil? Entrega. Os envios ficaram suspensos a partir de julho de 2026 e voltaram em setembro. O frete e o prazo aparecem no checkout.",
+          "A YesStyle entrega no Brasil? A loja não traz o Brasil na tabela de frete, mas um pedido nosso feito em 17/09/2026 foi enviado em 19/09/2026. O frete e o prazo aparecem no checkout.",
           "Vou pagar imposto comprando na YesStyle? Pode haver cobrança na chegada do pacote. Em pedidos abaixo de US$ 1.000, a YesStyle devolve esses impostos em crédito na loja, se você mandar o comprovante em até 30 dias."
         ]
       }
@@ -55780,9 +55782,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Shipping and customs",
         "paragraphs": [
-          "Shipping cost and the delivery estimate depend on the destination country and appear at checkout. The coupon does not discount shipping.",
-          "If the package is charged customs duties on arrival, YesStyle refunds those duties and fees on orders under US$ 1,000, counted before the coupon and without shipping. Pay the charge, keep the receipt and send it to YesStyle customer service within 30 days. The refund comes as YesStyle Credit.",
-          "Some taxes that YesStyle charges at checkout in certain regions are not part of this refund: US sales tax, EU VAT, UK VAT, Australia and New Zealand GST, Canada (Saskatchewan) PST, Switzerland and Norway VAT, the India equalisation levy and Singapore GST."
+          "Shipping cost and the delivery estimate appear at checkout, and the coupon does not discount shipping. If the package is charged customs duties on arrival, YesStyle refunds those duties and fees on orders under US$ 1,000, as YesStyle Credit. What the store publishes for the US, the UK, Canada and Australia, and how to ask for the refund, is in the [YesStyle shipping guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia)."
         ]
       },
       {
@@ -56019,9 +56019,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Envíos y aduanas",
         "paragraphs": [
-          "El coste del envío y el plazo de entrega dependen del país de destino y aparecen en el checkout. El cupón no descuenta el envío.",
-          "Si al llegar el paquete se cobran aranceles y tasas de aduana, YesStyle devuelve esos impuestos y tasas en pedidos de menos de US$ 1.000, contados antes del cupón y sin el envío. Paga el cobro, guarda el comprobante y envíalo al servicio de atención de YesStyle en un plazo de 30 días. El reembolso llega como crédito en YesStyle.",
-          "Algunos impuestos que YesStyle cobra en el checkout en ciertas regiones no entran en este reembolso: el impuesto sobre las ventas de EE. UU., el IVA de la UE, el IVA del Reino Unido, el GST de Australia y Nueva Zelanda, el PST de Canadá (Saskatchewan), el IVA de Suiza y Noruega, la equalisation levy de la India y el GST de Singapur."
+          "El coste del envío y el plazo de entrega aparecen en el checkout, y el cupón no descuenta el envío. Si al llegar el paquete se cobran impuestos y tasas de aduana, YesStyle los reembolsa en pedidos de menos de US$ 1.000, como crédito en YesStyle. Lo que la tienda publica para España, México, Chile, Perú, Argentina y Colombia, y cómo pedir el reembolso, está en la [guía de envíos de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia)."
         ]
       },
       {
@@ -56258,9 +56256,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Livraison et douane",
         "paragraphs": [
-          "Le coût de livraison et le délai estimé dépendent du pays de destination et s'affichent au paiement. Le coupon ne réduit pas les frais de port.",
-          "Si le colis est taxé à l'arrivée, YesStyle rembourse ces droits et frais de douane sur les commandes de moins de US$ 1 000, calculés avant le coupon et sans les frais de port. Réglez le montant, gardez le justificatif et envoyez-le au service client de YesStyle dans un délai de 30 jours. Le remboursement se fait sous forme de crédit YesStyle.",
-          "Certaines taxes que YesStyle perçoit au paiement dans certaines régions ne sont pas couvertes par ce remboursement : la sales tax américaine, la TVA de l'UE, la TVA du Royaume-Uni, la GST de l'Australie et de la Nouvelle-Zélande, la PST du Canada (Saskatchewan), la TVA de la Suisse et de la Norvège, l'equalisation levy indienne et la GST de Singapour."
+          "Le coût de livraison et le délai estimé s'affichent au paiement, et le coupon ne réduit pas les frais de port. Si le colis est taxé à l'arrivée, YesStyle rembourse les droits et frais de douane sur les commandes de moins de US$ 1 000, sous forme de crédit YesStyle. Vous trouverez dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada) ce que la boutique publie pour la France, la Belgique et le Canada, et comment demander le remboursement."
         ]
       },
       {
@@ -56497,8 +56493,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Versand und Zoll",
         "paragraphs": [
-          "YesStyle liefert international. Die Versandkosten und die geschätzte Lieferzeit hängen vom Zielland ab und stehen im Checkout. Der Gutschein senkt die Versandkosten nicht.",
-          "Wenn beim Eingang des Pakets Zollgebühren und Einfuhrabgaben anfallen, erstattet YesStyle sie bei Bestellungen unter US$ 1.000 als YesStyle-Guthaben. Die Summe wird vor dem Gutschein und ohne Versandkosten berechnet. Zahlen Sie die Abgabe, bewahren Sie den Beleg auf und schicken Sie ihn innerhalb von 30 Tagen an den Kundenservice von YesStyle. Steuern, die YesStyle in einigen Regionen schon im Checkout erhebt, sind von dieser Erstattung nicht erfasst: US-Sales-Tax, EU- und britische Mehrwertsteuer (VAT), GST in Australien und Neuseeland, PST in Kanada (Saskatchewan), Mehrwertsteuer in der Schweiz und in Norwegen, die Equalisation Levy in Indien und die GST in Singapur."
+          "Die Versandkosten und die geschätzte Lieferzeit stehen im Checkout, und der Gutschein senkt die Versandkosten nicht. Wenn beim Eingang des Pakets Zollgebühren und Einfuhrabgaben anfallen, erstattet YesStyle sie bei Bestellungen unter US$ 1.000 als YesStyle-Guthaben. Was der Shop für Deutschland, Österreich und die Schweiz veröffentlicht und wie Sie die Erstattung beantragen, steht im [YesStyle-Versandratgeber](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz)."
         ]
       },
       {
@@ -56735,8 +56730,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Spedizione e dogana",
         "paragraphs": [
-          "YesStyle spedisce a livello internazionale. Il costo di spedizione e la data stimata di consegna dipendono dal paese di destinazione e compaiono al checkout. Il coupon non sconta la spedizione.",
-          "Se alla consegna del pacco vengono addebitati dazi doganali e spese, YesStyle li rimborsa come credito nel negozio sugli ordini sotto US$ 1.000 (calcolati prima del coupon e senza spedizione): paghi l'addebito, conservi la ricevuta e la mandi al servizio clienti di YesStyle entro 30 giorni. Le tasse che YesStyle applica al checkout in alcune regioni non rientrano in questo rimborso: imposta sulle vendite USA, IVA dell'UE e del Regno Unito, GST di Australia e Nuova Zelanda, PST del Canada (Saskatchewan), IVA di Svizzera e Norvegia, equalisation levy dell'India e GST di Singapore."
+          "Il costo di spedizione e la data stimata di consegna compaiono al checkout, e il coupon non sconta la spedizione. Se alla consegna del pacco vengono addebitati dazi doganali e spese, YesStyle li rimborsa come credito nel negozio sugli ordini sotto US$ 1.000. Ciò che il negozio pubblica per l'Italia, e come chiedere il rimborso, si trova nella [guida alle spedizioni di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana)."
         ]
       },
       {
@@ -56973,8 +56967,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "배송과 관세",
         "paragraphs": [
-          "YesStyle은 해외 배송을 합니다. 배송비와 예상 배송 기간은 목적지 국가에 따라 달라지며 결제 화면에 나옵니다. 쿠폰은 배송비를 할인하지 않습니다.",
-          "배송 도착 시 관세와 수수료가 부과되면, YesStyle은 US$ 1,000 미만 주문에 한해 이를 YesStyle 크레딧으로 환급합니다. 금액은 쿠폰 적용 전이며 배송비를 뺀 기준으로 계산합니다. 부과된 금액을 내고, 영수증을 보관한 뒤, 30일 안에 YesStyle 고객센터에 보내세요. 일부 지역에서 결제 시 YesStyle이 직접 부과하는 세금은 이 환급 대상이 아닙니다: 미국 판매세(US sales tax), EU와 영국의 부가가치세(VAT), 호주와 뉴질랜드의 GST, 캐나다 서스캐처원주 PST, 스위스와 노르웨이의 VAT, 인도 Equalisation Levy, 싱가포르 GST입니다."
+          "배송비와 예상 배송 기간은 결제 화면에 나오며, 쿠폰은 배송비를 할인하지 않습니다. 배송 도착 시 관세와 수수료가 부과되면, YesStyle은 US$ 1,000 미만 주문에 대해 그 금액을 YesStyle 크레딧으로 환급합니다. YesStyle이 한국에 대해 공개한 내용과 환급을 신청하는 방법은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다."
         ]
       },
       {
@@ -57211,9 +57204,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "配送と関税",
         "paragraphs": [
-          "送料と配送日の目安は、お届け先の国によって変わり、チェックアウトに表示されます。クーポンは送料を割引しません。",
-          "到着時に関税や手数料がかかった場合、YesStyleはUS$1,000未満の注文について、その金額をYesStyle Creditとして返金します（クーポン適用前の金額で、送料は含みません）。料金を支払い、領収書を保管して、30日以内にYesStyleのカスタマーサービスへ送ってください。",
-          "一部の地域で、YesStyleがチェックアウト時に徴収する税金は、この返金の対象外です。米国の売上税、EUのVAT、英国のVAT、オーストラリアとニュージーランドのGST、カナダ（サスカチュワン州）のPST、スイスとノルウェーのVAT、インドの均等化税（equalisation levy）、シンガポールのGSTです。"
+          "送料と配送日の目安はチェックアウトに表示され、クーポンは送料を割引しません。到着時に関税や手数料がかかった場合、YesStyleはUS$1,000未満の注文について、その金額をYesStyle Creditとして返金します。YesStyleが日本向けに公開している内容と、返金の申請方法は、[YesStyle配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)に載っています。"
         ]
       },
       {
@@ -57450,9 +57441,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "配送與關稅",
         "paragraphs": [
-          "運費與預計送達時間取決於目的地國家，會在結帳時顯示。優惠券不折抵運費。",
-          "如果包裹到達時被課徵關稅，YesStyle 會把這筆稅金與手續費以 YesStyle Credit 退還，適用於 US$1,000 以下的訂單（以優惠券折扣前的金額計算，不含運費）。請先付款、保留收據，並在 30 天內寄給 YesStyle 客服。",
-          "部分地區在結帳時由 YesStyle 收取的稅金，不在這項退款範圍內：美國銷售稅、歐盟 VAT、英國 VAT、澳洲與紐西蘭 GST、加拿大（薩斯喀徹溫省）PST、瑞士與挪威 VAT、印度均等化稅（equalisation levy），以及新加坡 GST。"
+          "運費與預計送達時間會在結帳時顯示，優惠券不折抵運費。如果包裹到達時被課徵關稅和手續費，YesStyle 會對低於 US$1,000 的訂單，以 YesStyle Credit 退還這些費用。YesStyle 針對台灣、香港與澳門公布的內容，以及如何申請退款，都在 [YesStyle 運送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)裡。"
         ]
       },
       {
@@ -57689,9 +57678,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "配送与关税",
         "paragraphs": [
-          "运费与预计送达时间取决于目的地国家，会在结账时显示。优惠券不抵扣运费。",
-          "如果包裹到达时被征收关税，YesStyle 会把这笔税金与手续费以 YesStyle Credit 退还，适用于 US$1,000 以下的订单（以优惠券折扣前的金额计算，不含运费）。请先付款、保留收据，并在 30 天内寄给 YesStyle 客服。",
-          "部分地区在结账时由 YesStyle 收取的税金，不在这项退款范围内：美国销售税、欧盟 VAT、英国 VAT、澳洲与新西兰 GST、加拿大（萨斯喀彻温省）PST、瑞士与挪威 VAT、印度均等化税（equalisation levy），以及新加坡 GST。"
+          "运费与预计送达时间会在结账时显示，优惠券不抵扣运费。如果包裹到达时被征收关税和手续费，YesStyle 会对低于 US$1,000 的订单，以 YesStyle Credit 退还这些费用。YesStyle 针对新加坡与马来西亚公布的内容，以及如何申请退款，都在 [YesStyle 运送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)里。"
         ]
       },
       {
@@ -57898,6 +57885,10 @@ export const reviewsData: unknown[] = [
           {
             "label": "Ver o código de indicação 4CW5Y e as campanhas da SHEIN",
             "href": "/cupons/shein"
+          },
+          {
+            "label": "Como usar o código de indicação 4CW5Y",
+            "href": "/reviews/codigo-de-indicacao-shein"
           }
         ]
       },
@@ -58114,6 +58105,10 @@ export const reviewsData: unknown[] = [
           {
             "label": "See the 4CW5Y referral code and the SHEIN campaigns",
             "href": "/en/coupons/shein"
+          },
+          {
+            "label": "How to use the 4CW5Y referral code",
+            "href": "/en/reviews/shein-referral-code-where-to-enter"
           }
         ]
       },
@@ -58330,6 +58325,10 @@ export const reviewsData: unknown[] = [
           {
             "label": "Ver el código de referido 4CW5Y y las campañas de SHEIN",
             "href": "/es/coupons/shein"
+          },
+          {
+            "label": "Cómo usar el código de referido 4CW5Y",
+            "href": "/es/reviews/codigo-de-referido-shein-donde-ponerlo"
           }
         ]
       },
@@ -58546,6 +58545,10 @@ export const reviewsData: unknown[] = [
           {
             "label": "Voir le code de parrainage 4CW5Y et les campagnes SHEIN",
             "href": "/fr/coupons/shein"
+          },
+          {
+            "label": "Comment utiliser le code de parrainage 4CW5Y",
+            "href": "/fr/reviews/code-de-parrainage-shein-ou-le-mettre"
           }
         ]
       },
@@ -58762,6 +58765,10 @@ export const reviewsData: unknown[] = [
           {
             "label": "Den Empfehlungscode 4CW5Y und die SHEIN-Aktionen ansehen",
             "href": "/de/coupons/shein"
+          },
+          {
+            "label": "So nutzen Sie den Empfehlungscode 4CW5Y",
+            "href": "/de/reviews/shein-empfehlungscode-wo-eingeben"
           }
         ]
       },
@@ -58978,6 +58985,10 @@ export const reviewsData: unknown[] = [
           {
             "label": "Vedi il codice invito 4CW5Y e le campagne SHEIN",
             "href": "/it/coupons/shein"
+          },
+          {
+            "label": "Come usare il codice invito 4CW5Y",
+            "href": "/it/reviews/codice-invito-shein-dove-inserirlo"
           }
         ]
       },
@@ -59194,6 +59205,10 @@ export const reviewsData: unknown[] = [
           {
             "label": "4CW5Y 추천 코드와 SHEIN 캠페인 보기",
             "href": "/ko/coupons/shein"
+          },
+          {
+            "label": "4CW5Y 추천 코드 사용법",
+            "href": "/ko/reviews/shein-referral-code-ko"
           }
         ]
       },
@@ -59410,6 +59425,10 @@ export const reviewsData: unknown[] = [
           {
             "label": "4CW5Y の紹介コードと SHEIN のキャンペーンを見る",
             "href": "/ja/coupons/shein"
+          },
+          {
+            "label": "4CW5Y の紹介コードの使い方",
+            "href": "/ja/reviews/shein-referral-code-ja"
           }
         ]
       },
@@ -59626,6 +59645,10 @@ export const reviewsData: unknown[] = [
           {
             "label": "查看 4CW5Y 推薦碼與 SHEIN 活動",
             "href": "/zh-hant/coupons/shein"
+          },
+          {
+            "label": "4CW5Y 推薦碼的使用方法",
+            "href": "/zh-hant/reviews/shein-referral-code-zh-hant"
           }
         ]
       },
@@ -59842,6 +59865,10 @@ export const reviewsData: unknown[] = [
           {
             "label": "查看 4CW5Y 推荐码与 SHEIN 活动",
             "href": "/zh-hans/coupons/shein"
+          },
+          {
+            "label": "4CW5Y 推荐码的使用方法",
+            "href": "/zh-hans/reviews/shein-referral-code-zh-hans"
           }
         ]
       },
