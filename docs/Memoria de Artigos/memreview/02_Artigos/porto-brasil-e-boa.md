@@ -212,3 +212,12 @@ Ainda não iniciada. Próxima ação: `redigir-artigo`.
 - Fichas relidas em 12/10/2026 pela API pública do catálogo da Porto Brasil (cerca de 2.500 produtos): a maior parte do stoneware libera forno, micro-ondas e freezer, com "variação térmica aconselhada" de cerca de 180 °C ou 240 °C (não é temperatura máxima de forno); cerca de 60 peças de stoneware trazem "não é recomendado usar no forno convencional"; os conjuntos com aplicação de ouro não vão ao forno nem ao micro-ondas, e os de filamento de ouro também não vão à lava-louças. Na faiança, micro-ondas e lava-louças liberados; cerca de 76 fichas não recomendam o forno. Gretamento de 9 ou 12 meses, conforme o produto, nos dois materiais.
 - Reclame Aqui (ÓTIMA, 8,4, 110 reclamações, 100% respondidas, 84,3% resolvidas, abril a setembro de 2026) é a leitura de 11/10; em 12/10 a página deu 403.
 - Revisão Job 3 (12/10/2026): reprovada na primeira versão (stoneware "sim" para tudo); o texto foi refeito pelos dados do catálogo e aprovado na segunda revisão, com os ajustes das exceções do forno (Orgânico, Linhas, canecas Coup Stoneware e peças com ouro), da faiança (forno, freezer dos kits Celebrar) e do "forno (até 180 °C)" das descrições.
+
+## Retrofit de imagens (13/10/2026)
+
+Pedido do Bruno de 12/10/2026 (reajustar as imagens que existem, melhorar a tabela e pôr uma imagem da Let's Eat It); folha de contato aprovada por ele em 13/10/2026. Origem em `midia-staging\2026-10-12-retrofit-fase1\ORIGEM.md`.
+
+- Capa nova: `/images/reviews/letseatit/porto-brasil-stoneware-bio-latte-v2.webp`, 1600×900, as mesmas duas fotos da Bio Latte refeitas dos originais da Let's Eat It, sem as faixas brancas (opção 1, escolha do Bruno). A capa anterior continua no CDN e no Git.
+- "Stoneware ou faiança: o que muda": gráfico nosso, sem palavras, `porto-brasil-absorcao-agua.webp` (só os números da CBSA).
+- "Micro-ondas, lava-louças, forno e freezer": `porto-brasil-fichas-stoneware-faianca-uso.webp`, prints da aba "Uso e cuidado" de duas fichas do site da Porto Brasil (stoneware Bio Vanilla e faiança Kit Celebrar Madeleine), capturadas em 13/10/2026 sem perfil e sem login. O destaque em amarelo das duas frases é nosso (pedido do Bruno), e a legenda diz isso.
+- "Como comprar pela Let's Eat It": `lets-eat-it-porto-brasil-pagina.webp`, recorte do print do Bruno de 12/10/2026, sem a barra de campanha.

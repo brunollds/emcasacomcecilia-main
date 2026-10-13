@@ -33426,70 +33426,80 @@ export const reviewsData: unknown[] = [
           "Em outubro de 2026, a loja oficial vende cinco máquinas: a Mini Me 2.0 e as três Genio S (Basic, Plus e Touch), todas do sistema Original, e a NEO, que usa outra cápsula. Infinissima, Piccolo, Piccolo XS e Lumio não estão à venda no site.",
           "As quatro do sistema Original aceitam as mesmas cápsulas, com mais de 30 bebidas quentes ou frias, entre cafés, lattes, cappuccinos, chocolates e chás. Elas trabalham com 15 bar de pressão e, no comparativo oficial, aparecem com tomada de 20 A.",
           "A NEO aceita só as cápsulas NEO compostáveis, trabalha com até 15 bar e tem o maior reservatório entre as cinco, com 1 litro."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/dolcegusto/dolce-gusto-cinco-maquinas-oficial.webp",
+          "alt": "Cafeteiras Dolce Gusto Mini Me 2.0 preta, Genio S Basic taupe, Genio S Plus vermelha, Genio S Touch prata e NEO preta, lado a lado na mesma altura",
+          "caption": "As cinco máquinas à venda na loja oficial: Mini Me 2.0, Genio S Basic, Genio S Plus, Genio S Touch e NEO. Fotos da loja, fora de escala.",
+          "objectFit": "wide",
+          "aspectRatio": 2.6
+        }
       },
       {
         "heading": "Preço, tamanho e recursos lado a lado",
         "comparisonTable": {
           "caption": "Preços de venda na loja oficial em 12/10/2026. Medidas e recursos do comparativo oficial de máquinas, relido em 12/10/2026, que não inclui a NEO.",
           "headers": [
-            "Máquina",
-            "Preço",
-            "Reservatório",
-            "Altura × largura × profundidade",
-            "XL",
-            "4 temperaturas e Espresso Boost",
-            "Tela de toque"
+            "Recurso",
+            "Mini Me 2.0",
+            "Genio S Basic",
+            "Genio S Plus",
+            "Genio S Touch",
+            "NEO"
           ],
           "rows": [
             [
-              "Mini Me 2.0",
-              "R$ 429,90 (R$ 449,90 na cor Cinza Chumbo 110V)",
-              "0,8 L",
-              "30,5 × 16 × 24 cm",
-              "Não",
-              "Não",
-              "Não"
-            ],
-            [
-              "Genio S Basic",
+              "Preço",
+              "R$ 429,90",
               "R$ 479,90",
-              "0,8 L",
-              "27,3 × 11,2 × 28,6 cm",
-              "Sim",
-              "Não",
-              "Não"
-            ],
-            [
-              "Genio S Plus",
               "R$ 589,90",
-              "0,8 L",
-              "27,3 × 11,2 × 28,6 cm",
-              "Sim",
-              "Sim",
-              "Não"
-            ],
-            [
-              "Genio S Touch",
               "R$ 799,90",
-              "0,8 L",
-              "27,2 × 11,2 × 28,6 cm",
-              "Sim",
-              "Sim",
-              "Sim"
+              "A partir de R$ 799,00"
             ],
             [
-              "NEO",
-              "A partir de R$ 799,00",
-              "1 L",
-              "Ver nota abaixo",
-              "Fora do comparativo",
-              "Fora do comparativo",
+              "Reservatório",
+              "0,8 L",
+              "0,8 L",
+              "0,8 L",
+              "0,8 L",
+              "1 L"
+            ],
+            [
+              "Altura × largura × profundidade",
+              "30,5 × 16 × 24 cm",
+              "27,3 × 11,2 × 28,6 cm",
+              "27,3 × 11,2 × 28,6 cm",
+              "27,2 × 11,2 × 28,6 cm",
+              "15,2, 30 e 34,5 cm"
+            ],
+            [
+              "XL",
+              "Não",
+              "Sim",
+              "Sim",
+              "Sim",
+              "Fora do comparativo"
+            ],
+            [
+              "4 temperaturas e Espresso Boost",
+              "Não",
+              "Não",
+              "Sim",
+              "Sim",
+              "Fora do comparativo"
+            ],
+            [
+              "Tela de toque",
+              "Não",
+              "Não",
+              "Não",
+              "Sim",
               "Fora do comparativo"
             ]
           ]
         },
         "postParagraphs": [
+          "Na cor Cinza Chumbo 110V, a Mini Me 2.0 sai por R$ 449,90. A NEO não está no comparativo oficial, e a página dela não diz qual das três medidas é a altura.",
           "A Genio S Plus e a Genio S Touch têm também a bandeja de metal. A diferença técnica entre as três Genio S, recurso por recurso, está no nosso comparativo Basic, Plus e Touch."
         ],
         "links": [
@@ -33532,6 +33542,20 @@ export const reviewsData: unknown[] = [
           "O Adaptador NEO Start, vendido por R$ 89,90 na loja oficial em 12/10/2026, põe alguns cafés NEO, só espresso e lungo, nos modelos do sistema Original que a loja lista como compatíveis. A lista cita, entre outras, a Mini Me, sem dizer se é a 2.0, a Genio S, a Genio S Plus e a Genio S Touch: confira na página do adaptador.",
           "Cápsulas de outras marcas que se dizem compatíveis com a Dolce Gusto estão no nosso guia de cápsulas compatíveis, que reúne o que cada fabricante informa; não testamos essas cápsulas."
         ],
+        "images": [
+          {
+            "src": "/images/reviews/dolcegusto/dolce-gusto-original-e-neo-oficial.webp",
+            "alt": "Caixa de cápsulas Dolce Gusto Original Espresso ao lado da embalagem NEO Espresso Serras do Alto Paranaíba, em fotos oficiais da loja",
+            "caption": "À esquerda, a caixa Original do Espresso; à direita, a embalagem NEO do Espresso Serras do Alto Paranaíba.",
+            "objectFit": "contain"
+          },
+          {
+            "src": "/images/reviews/dolcegusto/adaptador-neo-start-encaixe.webp",
+            "alt": "Adaptador NEO Start aberto com uma cápsula NEO posicionada para o encaixe",
+            "caption": "O Adaptador NEO Start aberto, com uma cápsula NEO no encaixe.",
+            "objectFit": "contain"
+          }
+        ],
         "links": [
           {
             "label": "Adaptador NEO Start: o que é e quando você precisa dele",
@@ -33549,6 +33573,20 @@ export const reviewsData: unknown[] = [
           "A Mini Me 2.0 passou pelo nosso teste em casa, com o Lungo e o Café Matinal no dia a dia de trabalho. O review conta como foi.",
           "A Genio S Touch também tem review próprio. Foi nela que vimos que o preparo frio não gela: com a opção fria do painel, o Chá de Pêssego saiu morno, por volta de 40 °C. Para bebida gelada, prepare antes e leve à geladeira ou ponha gelo no copo.",
           "A Cecília usa a NEO no dia a dia; ela ainda não tem review próprio no site. A Genio S Basic e a Genio S Plus entram aqui pelas especificações oficiais: não testamos as duas."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-1.webp",
+            "alt": "Bruno com a cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 em gravação para o canal Em Casa com Cecília",
+            "caption": "A Mini Me 2.0 do nosso teste em casa.",
+            "objectFit": "square"
+          },
+          {
+            "src": "/images/reviews/dolcegusto/dolce-gusto-neo-cecilia.webp",
+            "alt": "Cecília na cozinha com a cafeteira Dolce Gusto NEO branca, segurando o reservatório de água transparente",
+            "caption": "A Cecília com a NEO, que ela usa no dia a dia.",
+            "objectFit": "portrait"
+          }
         ],
         "links": [
           {
@@ -59843,8 +59881,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-12",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/nutren/nutren-ensure-sustagen-latas.webp",
-    "imageAlt": "Latas de Nutren Senior Sem Sabor, Ensure Baunilha Pó (lata de 850 g) e Sustagen Senior Sem Sabor lado a lado, na mesma escala",
+    "image": "/images/reviews/nutren/nutren-ensure-sustagen-latas-v2.webp",
+    "imageAlt": "Latas de Nutren Senior Sem Sabor, Ensure Baunilha Pó (lata de 850 g) e Sustagen Senior Sem Sabor lado a lado",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -59864,69 +59902,81 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Cada marca escolhe uma base. A Nutren publica a tabela por porção (27,5 g, 31,5 g ou 55 g, conforme a versão), a Sustagen usa a porção de 40 g, e a página do Ensure fala em 6 medidas por porção, sem dizer quantos gramas são.",
           "Para comparar, olhe a mesma coisa nos três: o tamanho da porção, a proteína por dose, o cálcio, a vitamina D, a lactose e o glúten. A tabela abaixo junta o que cada página oficial informa; o glúten fica na seção Lactose e glúten."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/nutren/nutren-ensure-sustagen-porcao.webp",
+          "alt": "Latas de Nutren Senior Zero Lactose, Ensure e Sustagen Senior com a porção desenhada embaixo: 3 colheres rasas e 27,5 g, 6 medidas e um ponto de interrogação no lugar dos gramas, e 3 colheres cheias e 40 g",
+          "caption": "Cada marca mede a porção de um jeito: o Nutren Senior Zero Lactose em colheres rasas, o Ensure em medidas, sem dizer quantos gramas são, e o Sustagen em colheres cheias.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Os três rótulos lado a lado",
         "comparisonTable": {
           "caption": "Valores das páginas oficiais de cada marca, lidas em 11 e 12/10/2026. VD = valor diário de referência. O Ensure não publica a tabela por porção no texto da página.",
           "headers": [
-            "Produto",
-            "Porção",
-            "Calorias",
-            "Proteína",
-            "Cálcio",
-            "Vitamina D",
-            "Lactose"
+            "Item do rótulo",
+            "Nutren Senior Sem Sabor Zero Lactose",
+            "Nutren Senior Café com Leite",
+            "Nutren Senior Sem Sabor",
+            "Ensure Baunilha Pó",
+            "Sustagen Senior Sem Sabor"
           ],
           "rows": [
             [
-              "Nutren Senior Sem Sabor Zero Lactose, 740 g",
+              "Porção",
               "27,5 g (3 colheres de sopa rasas)",
-              "113 kcal",
-              "10 g",
-              "375 mg (38% VD)",
-              "12 µg (80% VD)",
-              "0 g"
-            ],
-            [
-              "Nutren Senior Café com Leite, 740 g",
               "31,5 g (3 colheres de sopa)",
-              "130 kcal",
-              "11 g",
-              "375 mg (38% VD)",
-              "25 µg (167% VD)",
-              "A página não informa"
-            ],
-            [
-              "Nutren Senior Sem Sabor, 740 g",
-              "55 g (6 colheres de sopa); a sugestão de uso prepara 27,5 g por vez",
-              "226 kcal",
-              "20 g (40% VD)",
-              "506 mg (51% VD)",
-              "25 µg (167% VD)",
-              "A página não informa"
-            ],
-            [
-              "Ensure Baunilha Pó, 400 g",
+              "55 g (6 colheres de sopa)",
               "6 medidas em 195 ml de água, sem o peso em gramas",
-              "Não informadas",
-              "17 g em duas porções diárias",
-              "\"Alto teor\", sem número",
-              "\"Alto teor\", sem número",
-              "Contém lactose"
+              "40 g (3 colheres de sopa cheias)"
             ],
             [
-              "Sustagen Senior Sem Sabor, 740 g",
-              "40 g (3 colheres de sopa cheias)",
-              "140 kcal",
-              "11 g (22% VD)",
-              "397 mg (40% VD)",
-              "4,8 µg (32% VD)",
+              "Calorias",
+              "113 kcal",
+              "130 kcal",
+              "226 kcal",
+              "Não informadas",
+              "140 kcal"
+            ],
+            [
+              "Proteína",
+              "10 g",
+              "11 g",
+              "20 g (40% VD)",
+              "17 g em duas porções diárias",
+              "11 g (22% VD)"
+            ],
+            [
+              "Cálcio",
+              "375 mg (38% VD)",
+              "375 mg (38% VD)",
+              "506 mg (51% VD)",
+              "\"Alto teor\", sem número",
+              "397 mg (40% VD)"
+            ],
+            [
+              "Vitamina D",
+              "12 µg (80% VD)",
+              "25 µg (167% VD)",
+              "25 µg (167% VD)",
+              "\"Alto teor\", sem número",
+              "4,8 µg (32% VD)"
+            ],
+            [
+              "Lactose",
+              "0 g",
+              "A página não informa",
+              "A página não informa",
+              "Contém lactose",
               "Contém lactose"
             ]
           ]
-        }
+        },
+        "postParagraphs": [
+          "As latas são de 740 g, e a do Ensure, de 400 g. No Nutren Senior Sem Sabor, a tabela usa a porção de 55 g, e a sugestão de uso prepara 27,5 g por vez. VD é o valor diário de referência."
+        ]
       },
       {
         "heading": "Nutren Senior: as três versões",
@@ -59936,6 +59986,13 @@ export const reviewsData: unknown[] = [
           "O Sem Sabor comum, sem a indicação zero lactose, é vendido como suplemento alimentar. A tabela dele usa a porção de 55 g (6 colheres de sopa), com 20 g de proteína, e a sugestão de uso prepara 27,5 g por vez.",
           "O preparo sem empelotar e a ficha completa do Zero Lactose estão nos nossos outros guias."
         ],
+        "image": {
+          "src": "/images/reviews/nutren/nutren-senior-tres-versoes-oficial.webp",
+          "alt": "Latas de 740 g do Nutren Senior Zero Lactose Sem Sabor, do Nutren Senior Café com Leite e do Nutren Senior Sem Sabor lado a lado",
+          "caption": "As três versões do Nutren Senior: Zero Lactose, Café com Leite e Sem Sabor. Fotos oficiais da Nestlé Nutre.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "links": [
           {
             "label": "Nutren Senior Zero Lactose: o que saber antes de comprar",
@@ -59977,7 +60034,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Dos três, só o Nutren Senior Sem Sabor Zero Lactose informa 0 g de lactose por porção na tabela oficial. Zero lactose não é sem leite: o rótulo o chama de composto lácteo, e quem tem alergia ao leite deve falar com o médico antes de escolher. O Sustagen Senior avisa que contém lactose, e a Abbott diz que o Ensure pó também contém. As páginas do Nutren Senior Café com Leite e do Sem Sabor comum não trazem a linha de lactose.",
           "Sobre glúten, a Abbott diz que o Ensure não contém, e o rótulo do Sustagen Senior diz o mesmo. No Nutren Senior, o material oficial da lata do Zero Lactose marca \"sem glúten\"; as páginas do Café com Leite e do Sem Sabor comum não falam de glúten, e vale o que está escrito na lata."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/nutren/nutren-senior-zero-lactose-beneficios.webp",
+          "alt": "Lata de Nutren Senior Zero Lactose Sem Sabor 740 g com os benefícios da marca em volta e, embaixo, os selos sem lactose e sem glúten",
+          "caption": "No material oficial do Nutren Senior Zero Lactose, os selos de sem lactose e sem glúten ficam embaixo da lata.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        }
       },
       {
         "heading": "Quando procurar o médico ou o nutricionista",
@@ -60064,7 +60128,7 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-12",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/letseatit/porto-brasil-stoneware-bio-latte.webp",
+    "image": "/images/reviews/letseatit/porto-brasil-stoneware-bio-latte-v2.webp",
     "imageAlt": "Aparelho de jantar Porto Brasil Stoneware Bio Latte em duas fotos de produto: pratos, tigelas e xícaras em tom claro",
     "imageFit": "contain",
     "imageAspect": "landscape",
@@ -60089,6 +60153,13 @@ export const reviewsData: unknown[] = [
           "Uma diferença técnica é quanto a cerâmica absorve de água. Na classificação aduaneira do órgão de fronteira do Canadá (CBSA), a porcelana absorve até 0,5% (medido pelo método ASTM C373) e é translúcida; o grês absorve até 3% e é opaco; a faiança absorve mais de 3% e é opaca e porosa. A Porto Brasil não informa o percentual de absorção das peças.",
           "Na prática, a Porto Brasil libera mais usos para o stoneware do que para a faiança, como mostra a tabela."
         ],
+        "image": {
+          "src": "/images/reviews/letseatit/porto-brasil-absorcao-agua.webp",
+          "alt": "Três tigelas com gotas de água caindo e a absorção de cada tipo de louça: até 0,5%, até 3% e acima de 3%",
+          "caption": "Quanto a louça absorve de água, pela classificação da alfândega do Canadá: porcelana até 0,5%, grês (stoneware) até 3% e faiança acima de 3%.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
         "comparisonTable": {
           "caption": "Usos indicados nas fichas de produto do site da Porto Brasil, lidas em 12/10/2026. Cada ficha vale para a peça dela: confira a da peça que você vai comprar.",
           "headers": [
@@ -60131,7 +60202,14 @@ export const reviewsData: unknown[] = [
           "A maior parte das fichas de stoneware diz que a peça pode ir ao forno, ao micro-ondas e ao freezer e aconselha uma variação térmica de cerca de 180 °C ou de 240 °C, conforme a peça, sem dar a temperatura máxima do forno. Na descrição de mais de mil produtos, como o Bio Vanilla, a marca escreve \"forno (até 180 °C)\", mesmo quando a ficha do mesmo produto fala em 240 °C. Na dúvida, use a menor temperatura que a marca cita para a peça.",
           "Há exceções. Algumas peças de stoneware, como pratos de entrada, de sobremesa e de massa da linha Orgânico, xícaras de chá da linha Linhas e kits de canecas da Coup Stoneware, trazem \"não é recomendado usar no forno convencional\". Os conjuntos com aplicação de ouro não devem ir ao forno nem ao micro-ondas, e os de filamento de ouro também não vão à lava-louças.",
           "Na faiança, as fichas liberam micro-ondas e lava-louças. Várias trazem \"não é recomendado usar no forno convencional\", a maior parte não fala de forno nem de freezer, e os kits Celebrar de 18 peças trazem \"Freezer: Não recomendado\"."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/letseatit/porto-brasil-fichas-stoneware-faianca-uso.webp",
+          "alt": "Aba Uso e cuidado de duas fichas do site da Porto Brasil: a do aparelho de jantar Bio Vanilla, de stoneware, com o uso no forno, no micro-ondas e no freezer marcado em amarelo, e a do Kit Celebrar Madeleine, de faiança, com o forno convencional e o freezer não recomendados",
+          "caption": "Em cima, a ficha do stoneware Bio Vanilla libera forno, freezer e micro-ondas; embaixo, a da faiança Kit Celebrar Madeleine traz \"Forno Convencional: Não recomendado\" e \"Freezer: Não recomendado\". Prints do site da Porto Brasil, 13/10/2026; o destaque em amarelo é nosso.",
+          "objectFit": "contain",
+          "aspectRatio": 1.1701
+        }
       },
       {
         "heading": "Cuidados que a própria marca pede",
@@ -60162,6 +60240,13 @@ export const reviewsData: unknown[] = [
           "A Let's Eat It vende sobretudo o stoneware da Porto Brasil: quase todas as peças da marca no catálogo da loja são desse material. Confira o material e as indicações de uso na página de cada produto. Os preços de outubro de 2026, com os descontos da época, estão no nosso guia de Black Friday da loja.",
           "No site da Let's Eat It, o cupom MAUAD dá 5% de desconto e soma com o desconto do Pix."
         ],
+        "image": {
+          "src": "/images/reviews/letseatit/lets-eat-it-porto-brasil-pagina.webp",
+          "alt": "Página da Porto Brasil na Let's Eat It, com o menu da loja, as cores da linha e o banner da marca",
+          "caption": "A página da Porto Brasil na Let's Eat It. Print de 12/10/2026.",
+          "objectFit": "contain",
+          "aspectRatio": 1.6227
+        },
         "links": [
           {
             "label": "Black Friday Let's Eat It 2026: preços de Porto Brasil",
@@ -60247,7 +60332,7 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-12",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex.webp",
+    "image": "/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex-v2.webp",
     "imageAlt": "Três travesseiros da I Wanna Sleep em fotos oficiais da marca: Snow, Cervical Coluna Relax com as medidas e Original Látex",
     "imageFit": "contain",
     "imageAspect": "landscape",
@@ -60385,7 +60470,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Emma vende quatro travesseiros, e em todos você muda a altura tirando ou pondo camadas: a lista da Emma mostra 3 camadas no Antiestress e no Support e 2 no Comfort e no Air.",
           "A própria Emma indica o Antiestress para quem dorme de lado, o Comfort, tirando a camada intermediária, para quem dorme de barriga para baixo e o Support para quem dorme de costas. Pela marca, o Comfort é o mais macio e o Support o mais firme; o Air (médio-macio) e o Antiestress (médio-firme) ficam entre os dois."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/iwannasleep/travesseiro-ajuste-flocos-ou-camadas.webp",
+          "alt": "Desenho de dois travesseiros: um de flocos, de 18 cm, com flocos saindo e uma seta para baixo, e um de camadas com uma camada sendo puxada para fora",
+          "caption": "Dois jeitos de ajustar a altura: no Snow, você tira flocos do enchimento; na Emma, tira ou põe camadas.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Ortobom: preço menor, teste não informado",
@@ -60400,7 +60492,14 @@ export const reviewsData: unknown[] = [
           "I Wanna Sleep: 30 dias de teste nos travesseiros, com pelo menos 15 dias de uso. Se você não se adaptar, recebe crédito para trocar por outro produto do site, sem custo de frete. Vale só para compras no site oficial, com a nota fiscal.",
           "Emma: 14 noites de teste e 6 meses de garantia. Se você não se adaptar, a Emma recolhe o travesseiro e devolve o valor total, segundo o site.",
           "Ortobom: garantia de 90 dias nas páginas do Viscopur e do Conforto Regulável; as páginas não informam noites de teste."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/iwannasleep/travesseiros-teste-troca-garantia.webp",
+          "alt": "Três linhas: calendário com 30 e um vale de troca, lua com 14 e dinheiro de volta, escudo com 90 e uma lua com ponto de interrogação",
+          "caption": "De cima para baixo: a I Wanna Sleep dá 30 dias de teste e crédito para troca; a Emma, 14 noites e o dinheiro de volta; a Ortobom informa 90 dias de garantia e não fala em teste.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Qual escolher pelo seu jeito de dormir",
@@ -60525,7 +60624,14 @@ export const reviewsData: unknown[] = [
           "Antes do primeiro uso: a panela não precisa de cura.",
           "No fogão: o calor médio ou baixo dá os melhores resultados.",
           "Utensílios: a marca não recomenda batedor elétrico nem utensílio de metal sobre o esmalte."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/letseatit/le-creuset-redonda-signature-tampa-alcas.webp",
+          "alt": "Panela Redonda Signature da Le Creuset na cor Cotton vista de cima, com as duas alças de ferro fundido e o puxador de aço inox na tampa",
+          "caption": "Na Redonda Signature Cotton, as alças são de ferro fundido e o puxador da tampa é de aço inox: pela regra da marca, vão ao forno em qualquer temperatura.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3333
+        }
       },
       {
         "heading": "Le Creuset ou Staub",
@@ -60585,7 +60691,14 @@ export const reviewsData: unknown[] = [
           "Não mergulhe a panela quente em água fria.",
           "Encha a panela com água morna e deixe agir de 15 a 20 minutos antes de lavar.",
           "Não use palha de aço nem produto abrasivo."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/letseatit/le-creuset-panela-queimada-3-passos.webp",
+          "alt": "Três passos desenhados: água fria na panela quente no fogo, riscado; panela com água morna e o relógio de 15 a 20 minutos; palha de aço, riscada",
+          "caption": "Panela queimada: nada de água fria na panela quente, água morna por 15 a 20 minutos e nada de palha de aço.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "O que a garantia não cobre",
@@ -60597,7 +60710,21 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar: Let's Eat It",
         "paragraphs": [
           "A Let's Eat It aparecia no localizador oficial de lojas da Le Creuset Brasil na consulta de 02/10/2026. Em 12/10/2026, a Panela Redonda Signature de 20 cm saía por R$ 2.329, e a de 28 cm, por R$ 3.429, nas cores de preço padrão; cores como Château e Flamme Dorée custam mais. Os preços por data estão no nosso guia de Black Friday da loja.",
-          "Na Casa Let's, a loja física em São Paulo, o desconto de 15% das compras presenciais não vale para a Le Creuset (regra da loja em 03/10/2026). No site, o cupom MAUAD dá 5% de desconto, mas não o testamos numa peça Le Creuset: confira se ele entra no carrinho antes de pagar."
+          "Na Casa Let's, a loja física em São Paulo, o desconto de 15% das compras presenciais não vale para a Le Creuset (regra da loja em 03/10/2026). No site, o cupom MAUAD dá 5% de desconto e vale também para a Le Creuset."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/lets-eat-it-le-creuset-pagina.webp",
+            "alt": "Página da Le Creuset na Let's Eat It, com as categorias de panelas, utensílios e canecas e a escolha por cor",
+            "caption": "A página da Le Creuset na Let's Eat It. Print de 12/10/2026.",
+            "objectFit": "contain"
+          },
+          {
+            "src": "/images/reviews/letseatit/le-creuset-localizador-lets-eat-it.webp",
+            "alt": "Página do localizador de lojas da Le Creuset Brasil mostrando a Let's Eat It na Serra, ES",
+            "caption": "A Let's Eat It no localizador de lojas oficial da Le Creuset Brasil (consulta em 02/10/2026).",
+            "objectFit": "contain"
+          }
         ],
         "links": [
           {

@@ -249,3 +249,12 @@ Não consultados: manuais em PDF; `/maquinas-cafe/mini-me` (404, endereço errad
 - Comparativo oficial (`/maquinas-cafe/comparativo`) relido em 12/10/2026 pelo texto da página, não pela imagem: Mini Me 30,5 × 16 × 24 cm; Basic e Plus 27,3 × 11,2 × 28,6 cm; Touch 27,2 × 11,2 × 28,6 cm; XL em Basic, Plus e Touch; bandeja de metal, 4 temperaturas e Espresso Boost em Plus e Touch. A NEO (15,2 × 30 × 34,5 cm, sem a ordem das medidas) fica fora das comparações de altura e profundidade.
 - Revisão Job 3 (12/10/2026): aprovado com ajustes; o bloqueio das medidas caiu com a releitura do comparativo.
 - Pendências fora desta pauta: o review da Genio S Touch diz 12,1 cm de largura e 28,1 cm de profundidade (o comparativo diz 11,2 e 28,6); o comparativo Basic, Plus e Touch diz que só a Touch tem bandeja de metal (o oficial marca Plus e Touch); o Dolce Gusto vs Nespresso fala em 15 a 16 cm de largura para a Genio S.
+
+## Retrofit de imagens (13/10/2026)
+
+Pedido do Bruno de 12/10/2026; folha de contato aprovada por ele em 13/10/2026. Origem em `midia-staging\2026-10-12-retrofit-fase1\ORIGEM.md`.
+
+- "As cinco máquinas à venda na loja oficial": `dolce-gusto-cinco-maquinas-oficial.webp`, 2340×900, fotos oficiais da loja Nescafé Dolce Gusto baixadas em 13/10/2026 pelo navegador embutido (com o OK do Bruno), sem os selos "110v" e "neo". Fora de escala: a página da NEO não diz qual medida é a altura.
+- "Cápsulas: Original, NEO e o adaptador": carrossel com duas imagens já no site, `dolce-gusto-original-e-neo-oficial.webp` e `adaptador-neo-start-encaixe.webp`.
+- "O que a gente já usou aqui em casa": carrossel com `mini-me-2-0-bruno-video-1.webp` (já no site) e `dolce-gusto-neo-cecilia.webp`, recorte da miniatura do Short `_EyAiTwjGTU` (o Bruno preferiu a miniatura a um frame).
+- Tabela virada (máquinas nas colunas, as três medidas numa linha); o preço da Mini Me Cinza Chumbo e a ressalva da NEO foram para a frase abaixo da tabela.

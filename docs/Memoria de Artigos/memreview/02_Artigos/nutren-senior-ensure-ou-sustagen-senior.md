@@ -211,3 +211,13 @@ não são parceiras e não recebem código nem link de afiliado.
 - Páginas da Nestlé Nutre relidas no navegador em 12/10/2026 (a leitura automática dá 403): o Zero Lactose é "composto lácteo", tabela de 27,5 g com lactose 0 g; o Café com Leite também é composto lácteo (31,5 g); o Sem Sabor comum é "suplemento alimentar", tabela de 55 g (6 colheres de sopa). Nenhuma das três páginas traz linha de lactose (salvo o Zero Lactose) nem texto de glúten; o "sem glúten" do Zero Lactose vem do material da lata, como na ficha técnica publicada.
 - Ensure: FAQ da Abbott lido em 12/10/2026 ("Ensure pó e Ensure Advance HMB contêm lactose"; não contém glúten; 6 medidas em 195 ml; a lata de 400 g rende cerca de 7 porções). Sustagen: "CONTÉM LACTOSE. NÃO CONTÉM GLÚTEN."
 - Revisão Job 3 (12/10/2026): aprovado com ajustes; aplicados os itens 1 a 14 (sem "nenhum substitui uma refeição", zero lactose não é sem leite, glúten fora da tabela, frase da Nestlé atribuída à página do Zero Lactose, CECI com o mês).
+
+## Retrofit de imagens (13/10/2026)
+
+Pedido do Bruno de 12/10/2026 ("uma capa só é pouco"); folha de contato aprovada por ele em 13/10/2026. Origem de cada arquivo em `midia-staging\2026-10-12-retrofit-fase1\ORIGEM.md`.
+
+- Capa nova: `/images/reviews/nutren/nutren-ensure-sustagen-latas-v2.webp`, 1200×675, fundo branco (versão A, escolha do Bruno). Mesmas fotos oficiais da capa anterior, com as latas maiores e sem as faixas brancas; o Ensure foi ampliado 1,485× (a foto oficial tem 400 px). O alt perdeu "na mesma escala", porque as três latas agora têm a mesma altura. A capa anterior continua no CDN e no Git.
+- "Como comparar os três rótulos": gráfico nosso, sem palavras, `nutren-ensure-sustagen-porcao.webp` (a porção de cada marca: 27,5 g em colheres rasas, 6 medidas sem o peso e 40 g em colheres cheias).
+- "Nutren Senior: as três versões": `nutren-senior-tres-versoes-oficial.webp`, montagem das fotos oficiais da loja Nestlé Nutre (Zero Lactose, Café com Leite e Sem Sabor), só com redução.
+- "Lactose e glúten": reaproveita `nutren-senior-zero-lactose-beneficios.webp`, a arte oficial da ficha técnica do Zero Lactose.
+- Tabela virada (produtos nas colunas), com a frase das latas e do VD logo abaixo.

@@ -122,7 +122,7 @@ Fonte A: `https://www.lecreuset.com.br/cuidado-e-uso.html`, seção Ferro Fundid
 | Redonda Signature de referência: a partir de R$ 2.329 (20 cm) | Preço volátil | Fonte C, Redonda Signature Azure 20 cm | `price` 2329.00 | 2026-10-11 | [x] Sim, com a data; reconsultar no Job 2 |
 | Redonda Signature em outros tamanhos: até R$ 3.429 (28 cm, Cotton 6,7 L) | Preço volátil | Fonte C, lista lida | `price` 3429.00 | 2026-10-11 | [x] Sim, com a data; reconsultar no Job 2 |
 | Na Casa Let's (loja física) o desconto de 15% não vale para Le Creuset | Condição comercial | Dossiê Lets-Eat-It, seção 2 (letseatit.com.br/pages/casa-lets, 03/10) | Linha da Casa Let's | 2026-10-03 | [x] Sim, com a data |
-| MAUAD: 5% no site; vale com todas as formas de pagamento; soma com o Pix | Condição comercial | `src/lib/couponsData.ts` (slug `letseatit`) e dossiê | Cupom | 2026-10-08 | [x] Sim, sem afirmar que vale em Le Creuset (ver pendências) |
+| MAUAD: 5% no site; vale com todas as formas de pagamento; soma com o Pix | Condição comercial | `src/lib/couponsData.ts` (slug `letseatit`) e dossiê | Cupom | 2026-10-08 | [x] Sim; vale em Le Creuset (teste do guia do cupom MAUAD, com panela Le Creuset no carrinho, e confirmação do Bruno em 12/10/2026) |
 | Preço da Staub, Ceraflame ou Tramontina | Preço | Não consultado | N/A | N/A | [ ] Não |
 | "Panela Le Creuset é original, o bazar ou o Paraguai são arriscados" | Alegação sobre terceiros | Não consultado | N/A | N/A | [ ] Não (fora do escopo, ver pendências) |
 
@@ -192,7 +192,7 @@ Tramontina e Ceraflame ficam fora desta tabela (seção 3 e pendências).
 ## Pendências (não bloqueiam a redação, salvo onde indicado)
 - **Job 2:** reconsultar o preço da Redonda Signature no catálogo antes de publicar (divergência: o dossiê de 08/10 fala de promoções de 15% a 33% em seleção; a leitura de 11/10 da coleção `le-creuset` não mostrou preço riscado nas 20 primeiras). Tamanho de referência fica para o Job 2 (decisão da coordenação).
 - **Antes de publicar:** reler o trecho da Staub (fonte B), lido por busca, na página oficial; confirmar forno e garantia.
-- **Antes de publicar:** o MAUAD não foi testado em peça Le Creuset. Não afirmar que vale em Le Creuset sem teste de checkout, e não clicar em link de afiliado para conferir.
+- **Resolvido em 12/10/2026:** o MAUAD vale em Le Creuset. O guia do cupom MAUAD mostra o código aceito num carrinho com panela Le Creuset em pré-venda, e o Bruno confirmou.
 - **Tramontina e Ceraflame:** só entram como categoria. Para comparar indução, forno ou garantia, a página oficial de cada uma precisa ser lida diretamente.
 - **Fora do escopo:** buscas por "bazar", "no Paraguai" e "comprar nos EUA" ficam fora (decisão da coordenação), salvo uma frase sobre comprar em loja do localizador oficial da Le Creuset Brasil. A preocupação de autenticidade aparece no dossiê como relato de consumidor, não como fato.
 - **Autocompletar "qual a marca que imita a Le Creuset":** não entra no FAQ; a pergunta leva a marca concorrente sem fonte.
@@ -203,5 +203,13 @@ Tramontina e Ceraflame ficam fora desta tabela (seção 3 e pendências).
 - Capa: `/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp`, 1600×900, duas fotos da Panela Redonda Signature Cotton 24 cm da página da Let's Eat It (de lado e de cima, com o puxador de inox), origem em `midia-staging\2026-10-11-fase1\le-creuset\`. No CDN desde 12/10/2026, verificada pelo `verify-remote` e entregue pelo mapa de mídia.
 - A página de uso e cuidado da Le Creuset Brasil pede CAPTCHA em 12/10/2026; valem os trechos lidos em 11/10. A página da Staub (Zwilling, site de Portugal) foi relida em 12/10.
 - Preços do catálogo da Let's Eat It em 12/10/2026: Redonda Signature de 20 cm R$ 2.329 e de 28 cm R$ 3.429 nas cores de preço padrão; Château, Thyme e Flamme Dorée custam mais; pré-venda Black Onyx com 25% em 22 e 28 cm. Staub e Tramontina não aparecem no catálogo na busca de 12/10; a Ceraflame aparece (o artigo não diz o contrário).
-- O MAUAD não foi testado numa peça Le Creuset: o texto diz isso e manda conferir no carrinho.
+- O MAUAD vale em Le Creuset (Bruno, 12/10/2026): o aviso de "não testamos" saiu do texto no retrofit de imagens da fase 1.
 - Revisão Job 3 (12/10/2026): aprovado com ajustes; aplicados os itens 1 a 13 (Staub sem "até 250 °C" para as duas, regras atribuídas ao ferro fundido, datas das consultas, lava-louças no plural).
+
+## Retrofit de imagens (13/10/2026)
+
+Pedido do Bruno de 12/10/2026; folha de contato aprovada por ele em 13/10/2026. Origem em `midia-staging\2026-10-12-retrofit-fase1\ORIGEM.md`.
+
+- "O que a Le Creuset diz sobre o ferro fundido": `le-creuset-redonda-signature-tampa-alcas.webp`, foto de produto da Let's Eat It na vista de 3/4 (a foto de lado repetia a capa). A página do produto diz "Pegadores de aço inoxidável resistentes à qualquer temperatura do forno" (lida em 13/10/2026).
+- "Como limpar a panela queimada": gráfico nosso de três passos, sem palavras, `le-creuset-panela-queimada-3-passos.webp`.
+- "Onde comprar: Let's Eat It": carrossel com `lets-eat-it-le-creuset-pagina.webp` (recorte do print do Bruno de 12/10/2026, sem a barra de campanha nem o banner de Halloween) e `le-creuset-localizador-lets-eat-it.webp` (já no site).

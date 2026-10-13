@@ -42273,6 +42273,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-cinco-maquinas-oficial.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-cinco-maquinas-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 96254,
+      "sha256": "50dc82e05f908e9262a47e01d55b36125867c80cd978eae65b5465dbaf44284c",
+      "width": 2340,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-cinco-maquinas-oficial.webp",
+      "storage_filename": "dolce-gusto-cinco-maquinas-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-maquinas-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-maquinas-qual-escolher.json",
+          "line": 50,
+          "column": 17,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cinco-maquinas-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 33431,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cinco-maquinas-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/50dc82e05f908e9262a47e01d55b36125867c80cd978eae65b5465dbaf44284c/dolce-gusto-cinco-maquinas-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/50dc82e05f908e9262a47e01d55b36125867c80cd978eae65b5465dbaf44284c/dolce-gusto-cinco-maquinas-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T03:46:35.513Z",
+      "verification_etag_or_digest": "50dc82e05f908e9262a47e01d55b36125867c80cd978eae65b5465dbaf44284c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp",
       "local_url": "/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp",
       "media_kind": "image",
@@ -42547,6 +42593,52 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.365Z",
       "verification_etag_or_digest": "4283f8b1a5d908d15c5587a295605559fda451b69f8517fca25fe1e3adfdfe93",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-neo-cecilia.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-neo-cecilia.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 54088,
+      "sha256": "681c1e010184abb9a54dfbdb1463be8cd9ca70d93d382791417e7f469463976e",
+      "width": 729,
+      "height": 1296,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-neo-cecilia.webp",
+      "storage_filename": "dolce-gusto-neo-cecilia.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-maquinas-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-maquinas-qual-escolher.json",
+          "line": 204,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-neo-cecilia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 33585,
+          "column": 21,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-neo-cecilia.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/681c1e010184abb9a54dfbdb1463be8cd9ca70d93d382791417e7f469463976e/dolce-gusto-neo-cecilia.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/681c1e010184abb9a54dfbdb1463be8cd9ca70d93d382791417e7f469463976e/dolce-gusto-neo-cecilia.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T03:46:35.514Z",
+      "verification_etag_or_digest": "681c1e010184abb9a54dfbdb1463be8cd9ca70d93d382791417e7f469463976e",
       "verification_status": "verified"
     },
     {
@@ -48777,6 +48869,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/iwannasleep/travesseiro-ajuste-flocos-ou-camadas.webp",
+      "local_url": "/images/reviews/iwannasleep/travesseiro-ajuste-flocos-ou-camadas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25790,
+      "sha256": "dbe89c1a3ff1a7279997a272a6e8a66fe4802962d17518759290f52c5ab27737",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "travesseiro-ajuste-flocos-ou-camadas.webp",
+      "storage_filename": "travesseiro-ajuste-flocos-ou-camadas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/travesseiro-i-wanna-sleep-ou-emma.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/travesseiro-i-wanna-sleep-ou-emma.json",
+          "line": 162,
+          "column": 17,
+          "literal": "/images/reviews/iwannasleep/travesseiro-ajuste-flocos-ou-camadas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60475,
+          "column": 19,
+          "literal": "/images/reviews/iwannasleep/travesseiro-ajuste-flocos-ou-camadas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/dbe89c1a3ff1a7279997a272a6e8a66fe4802962d17518759290f52c5ab27737/travesseiro-ajuste-flocos-ou-camadas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dbe89c1a3ff1a7279997a272a6e8a66fe4802962d17518759290f52c5ab27737/travesseiro-ajuste-flocos-ou-camadas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T03:46:35.514Z",
+      "verification_etag_or_digest": "dbe89c1a3ff1a7279997a272a6e8a66fe4802962d17518759290f52c5ab27737",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/iwannasleep/travesseiro-cervical-coluna-relax-oficial.webp",
       "local_url": "/images/reviews/iwannasleep/travesseiro-cervical-coluna-relax-oficial.webp",
       "media_kind": "image",
@@ -48974,6 +49112,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex-v2.webp",
+      "local_url": "/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86364,
+      "sha256": "8b529e57067ced67207d70b01128f41d4385c010a7e5580029d3571b9a60c62d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "travesseiros-iws-snow-coluna-latex-v2.webp",
+      "storage_filename": "travesseiros-iws-snow-coluna-latex-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/travesseiro-i-wanna-sleep-ou-emma.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/travesseiro-i-wanna-sleep-ou-emma.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60335,
+          "column": 15,
+          "literal": "/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8b529e57067ced67207d70b01128f41d4385c010a7e5580029d3571b9a60c62d/travesseiros-iws-snow-coluna-latex-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8b529e57067ced67207d70b01128f41d4385c010a7e5580029d3571b9a60c62d/travesseiros-iws-snow-coluna-latex-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T03:46:35.514Z",
+      "verification_etag_or_digest": "8b529e57067ced67207d70b01128f41d4385c010a7e5580029d3571b9a60c62d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex.webp",
       "local_url": "/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex.webp",
       "media_kind": "image",
@@ -49025,6 +49209,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-12T19:16:00.738Z",
       "verification_etag_or_digest": "c4c2262f1bfe9cc5d5eaaac3bb71566189083f83b3cdf3dd88c302a073f21e46",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/iwannasleep/travesseiros-teste-troca-garantia.webp",
+      "local_url": "/images/reviews/iwannasleep/travesseiros-teste-troca-garantia.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29714,
+      "sha256": "5734842e67aecaded75e7595aaf564b694146a2ce0aa3e827dfa0c9891cdafd6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "travesseiros-teste-troca-garantia.webp",
+      "storage_filename": "travesseiros-teste-troca-garantia.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/travesseiro-i-wanna-sleep-ou-emma.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/travesseiro-i-wanna-sleep-ou-emma.json",
+          "line": 184,
+          "column": 17,
+          "literal": "/images/reviews/iwannasleep/travesseiros-teste-troca-garantia.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60497,
+          "column": 19,
+          "literal": "/images/reviews/iwannasleep/travesseiros-teste-troca-garantia.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5734842e67aecaded75e7595aaf564b694146a2ce0aa3e827dfa0c9891cdafd6/travesseiros-teste-troca-garantia.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5734842e67aecaded75e7595aaf564b694146a2ce0aa3e827dfa0c9891cdafd6/travesseiros-teste-troca-garantia.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T03:46:35.514Z",
+      "verification_etag_or_digest": "5734842e67aecaded75e7595aaf564b694146a2ce0aa3e827dfa0c9891cdafd6",
       "verification_status": "verified"
     },
     {
@@ -49190,6 +49420,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/le-creuset-panela-queimada-3-passos.webp",
+      "local_url": "/images/reviews/letseatit/le-creuset-panela-queimada-3-passos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 51804,
+      "sha256": "6f17d814f448e9f2a7e578dbab7138de95c6373fa70d6c821246ec91f6188617",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "le-creuset-panela-queimada-3-passos.webp",
+      "storage_filename": "le-creuset-panela-queimada-3-passos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/le-creuset-vale-a-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/le-creuset-vale-a-pena.json",
+          "line": 121,
+          "column": 17,
+          "literal": "/images/reviews/letseatit/le-creuset-panela-queimada-3-passos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60696,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/le-creuset-panela-queimada-3-passos.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6f17d814f448e9f2a7e578dbab7138de95c6373fa70d6c821246ec91f6188617/le-creuset-panela-queimada-3-passos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6f17d814f448e9f2a7e578dbab7138de95c6373fa70d6c821246ec91f6188617/le-creuset-panela-queimada-3-passos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T03:46:35.514Z",
+      "verification_etag_or_digest": "6f17d814f448e9f2a7e578dbab7138de95c6373fa70d6c821246ec91f6188617",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp",
       "local_url": "/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp",
       "media_kind": "image",
@@ -49244,6 +49520,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/le-creuset-redonda-signature-tampa-alcas.webp",
+      "local_url": "/images/reviews/letseatit/le-creuset-redonda-signature-tampa-alcas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 9274,
+      "sha256": "ab0710dce9cdefcf35c76f468b14301bb9af0b8401db6e8c7c8f917d78aab65b",
+      "width": 1000,
+      "height": 750,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "le-creuset-redonda-signature-tampa-alcas.webp",
+      "storage_filename": "le-creuset-redonda-signature-tampa-alcas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/le-creuset-vale-a-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/le-creuset-vale-a-pena.json",
+          "line": 54,
+          "column": 17,
+          "literal": "/images/reviews/letseatit/le-creuset-redonda-signature-tampa-alcas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60629,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/le-creuset-redonda-signature-tampa-alcas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ab0710dce9cdefcf35c76f468b14301bb9af0b8401db6e8c7c8f917d78aab65b/le-creuset-redonda-signature-tampa-alcas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ab0710dce9cdefcf35c76f468b14301bb9af0b8401db6e8c7c8f917d78aab65b/le-creuset-redonda-signature-tampa-alcas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T03:46:35.514Z",
+      "verification_etag_or_digest": "ab0710dce9cdefcf35c76f468b14301bb9af0b8401db6e8c7c8f917d78aab65b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/lets-eat-it-confiavel-hero.webp",
       "local_url": "/images/reviews/letseatit/lets-eat-it-confiavel-hero.webp",
       "media_kind": "image",
@@ -49295,6 +49617,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-03T02:50:39.050Z",
       "verification_etag_or_digest": "0725587540c569d596249989ee24dbbaac9dd286a9f1506a8f91d6cf1f801af0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/lets-eat-it-le-creuset-pagina.webp",
+      "local_url": "/images/reviews/letseatit/lets-eat-it-le-creuset-pagina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38866,
+      "sha256": "925c11cedea0be1ba7a484cb7383117e8706b1ac89682b21d563e0387245fc82",
+      "width": 1100,
+      "height": 560,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lets-eat-it-le-creuset-pagina.webp",
+      "storage_filename": "lets-eat-it-le-creuset-pagina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/le-creuset-vale-a-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/le-creuset-vale-a-pena.json",
+          "line": 142,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/lets-eat-it-le-creuset-pagina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60717,
+          "column": 21,
+          "literal": "/images/reviews/letseatit/lets-eat-it-le-creuset-pagina.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/925c11cedea0be1ba7a484cb7383117e8706b1ac89682b21d563e0387245fc82/lets-eat-it-le-creuset-pagina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/925c11cedea0be1ba7a484cb7383117e8706b1ac89682b21d563e0387245fc82/lets-eat-it-le-creuset-pagina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T03:46:35.514Z",
+      "verification_etag_or_digest": "925c11cedea0be1ba7a484cb7383117e8706b1ac89682b21d563e0387245fc82",
       "verification_status": "verified"
     },
     {
@@ -49487,6 +49855,144 @@
       "uploaded_at": null,
       "verified_at": "2026-10-03T02:50:39.050Z",
       "verification_etag_or_digest": "d3c3dd59a2568698c099bc66ee2f337946f658188a6f13b735dfe0fa48180735",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/porto-brasil-absorcao-agua.webp",
+      "local_url": "/images/reviews/letseatit/porto-brasil-absorcao-agua.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39118,
+      "sha256": "000de755c362318c0cf63d45873061d8ec3f549afaf373a0ecb63bf247580cf7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "porto-brasil-absorcao-agua.webp",
+      "storage_filename": "porto-brasil-absorcao-agua.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/porto-brasil-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/porto-brasil-e-boa.json",
+          "line": 48,
+          "column": 17,
+          "literal": "/images/reviews/letseatit/porto-brasil-absorcao-agua.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60157,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/porto-brasil-absorcao-agua.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/000de755c362318c0cf63d45873061d8ec3f549afaf373a0ecb63bf247580cf7/porto-brasil-absorcao-agua.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/000de755c362318c0cf63d45873061d8ec3f549afaf373a0ecb63bf247580cf7/porto-brasil-absorcao-agua.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T03:46:35.514Z",
+      "verification_etag_or_digest": "000de755c362318c0cf63d45873061d8ec3f549afaf373a0ecb63bf247580cf7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/porto-brasil-fichas-stoneware-faianca-uso.webp",
+      "local_url": "/images/reviews/letseatit/porto-brasil-fichas-stoneware-faianca-uso.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 233788,
+      "sha256": "1c994ea4f0201d866b5fe43aae1199ea27d3e540b353c4901f5665716dbc387c",
+      "width": 1720,
+      "height": 1470,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "porto-brasil-fichas-stoneware-faianca-uso.webp",
+      "storage_filename": "porto-brasil-fichas-stoneware-faianca-uso.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/porto-brasil-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/porto-brasil-e-boa.json",
+          "line": 98,
+          "column": 17,
+          "literal": "/images/reviews/letseatit/porto-brasil-fichas-stoneware-faianca-uso.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60207,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/porto-brasil-fichas-stoneware-faianca-uso.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1c994ea4f0201d866b5fe43aae1199ea27d3e540b353c4901f5665716dbc387c/porto-brasil-fichas-stoneware-faianca-uso.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1c994ea4f0201d866b5fe43aae1199ea27d3e540b353c4901f5665716dbc387c/porto-brasil-fichas-stoneware-faianca-uso.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T03:46:35.514Z",
+      "verification_etag_or_digest": "1c994ea4f0201d866b5fe43aae1199ea27d3e540b353c4901f5665716dbc387c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/porto-brasil-stoneware-bio-latte-v2.webp",
+      "local_url": "/images/reviews/letseatit/porto-brasil-stoneware-bio-latte-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 82522,
+      "sha256": "d7a9530ccc719115b23e4e9f2c78ba8abba48f229793133940f3774e5b535f14",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "porto-brasil-stoneware-bio-latte-v2.webp",
+      "storage_filename": "porto-brasil-stoneware-bio-latte-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/porto-brasil-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/porto-brasil-e-boa.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/letseatit/porto-brasil-stoneware-bio-latte-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60131,
+          "column": 15,
+          "literal": "/images/reviews/letseatit/porto-brasil-stoneware-bio-latte-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d7a9530ccc719115b23e4e9f2c78ba8abba48f229793133940f3774e5b535f14/porto-brasil-stoneware-bio-latte-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d7a9530ccc719115b23e4e9f2c78ba8abba48f229793133940f3774e5b535f14/porto-brasil-stoneware-bio-latte-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T03:46:35.514Z",
+      "verification_etag_or_digest": "d7a9530ccc719115b23e4e9f2c78ba8abba48f229793133940f3774e5b535f14",
       "verification_status": "verified"
     },
     {
@@ -49911,6 +50417,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-03T03:57:26.665Z",
       "verification_etag_or_digest": "dcbc264a48807fa65af3a57c3455da323d48b8823291232a288cfbd679a32fe8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/letseatit/lets-eat-it-porto-brasil-pagina.webp",
+      "local_url": "/images/reviews/letseatit/lets-eat-it-porto-brasil-pagina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 58618,
+      "sha256": "d609708f0bf86812e417b3b25e6618d4dd5988abcb36f6330a52487c60f17e09",
+      "width": 1600,
+      "height": 986,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lets-eat-it-porto-brasil-pagina.webp",
+      "storage_filename": "lets-eat-it-porto-brasil-pagina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/porto-brasil-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/porto-brasil-e-boa.json",
+          "line": 135,
+          "column": 17,
+          "literal": "/images/reviews/letseatit/lets-eat-it-porto-brasil-pagina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60244,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/lets-eat-it-porto-brasil-pagina.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d609708f0bf86812e417b3b25e6618d4dd5988abcb36f6330a52487c60f17e09/lets-eat-it-porto-brasil-pagina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d609708f0bf86812e417b3b25e6618d4dd5988abcb36f6330a52487c60f17e09/lets-eat-it-porto-brasil-pagina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T03:46:35.514Z",
+      "verification_etag_or_digest": "d609708f0bf86812e417b3b25e6618d4dd5988abcb36f6330a52487c60f17e09",
       "verification_status": "verified"
     },
     {
@@ -51004,6 +51556,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/nutren-ensure-sustagen-latas-v2.webp",
+      "local_url": "/images/reviews/nutren/nutren-ensure-sustagen-latas-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 74656,
+      "sha256": "acdfb2f5a0366fc4badc5c3a402514c8a36e67d1a96682156c565e9c56d308da",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-ensure-sustagen-latas-v2.webp",
+      "storage_filename": "nutren-ensure-sustagen-latas-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-senior-ensure-ou-sustagen-senior.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-senior-ensure-ou-sustagen-senior.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-ensure-sustagen-latas-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 59884,
+          "column": 15,
+          "literal": "/images/reviews/nutren/nutren-ensure-sustagen-latas-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/acdfb2f5a0366fc4badc5c3a402514c8a36e67d1a96682156c565e9c56d308da/nutren-ensure-sustagen-latas-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/acdfb2f5a0366fc4badc5c3a402514c8a36e67d1a96682156c565e9c56d308da/nutren-ensure-sustagen-latas-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T03:46:35.514Z",
+      "verification_etag_or_digest": "acdfb2f5a0366fc4badc5c3a402514c8a36e67d1a96682156c565e9c56d308da",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/nutren-ensure-sustagen-latas.webp",
       "local_url": "/images/reviews/nutren/nutren-ensure-sustagen-latas.webp",
       "media_kind": "image",
@@ -51055,6 +51653,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-12T19:16:00.739Z",
       "verification_etag_or_digest": "c646b11addb817a65fcc92b2ca970ab7052c7d6d8833b228ec3cfb5288d5a6fc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-ensure-sustagen-porcao.webp",
+      "local_url": "/images/reviews/nutren/nutren-ensure-sustagen-porcao.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 97012,
+      "sha256": "97fc0823e82de0deb22cc73fafae01b3581f530276716c4f29e421a3cdc32cf9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-ensure-sustagen-porcao.webp",
+      "storage_filename": "nutren-ensure-sustagen-porcao.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-senior-ensure-ou-sustagen-senior.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-senior-ensure-ou-sustagen-senior.json",
+          "line": 45,
+          "column": 17,
+          "literal": "/images/reviews/nutren/nutren-ensure-sustagen-porcao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 59907,
+          "column": 19,
+          "literal": "/images/reviews/nutren/nutren-ensure-sustagen-porcao.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/97fc0823e82de0deb22cc73fafae01b3581f530276716c4f29e421a3cdc32cf9/nutren-ensure-sustagen-porcao.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/97fc0823e82de0deb22cc73fafae01b3581f530276716c4f29e421a3cdc32cf9/nutren-ensure-sustagen-porcao.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T03:46:35.514Z",
+      "verification_etag_or_digest": "97fc0823e82de0deb22cc73fafae01b3581f530276716c4f29e421a3cdc32cf9",
       "verification_status": "verified"
     },
     {
@@ -59186,6 +59830,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-01T00:08:39.677Z",
       "verification_etag_or_digest": "2ad135fcd940c27e9319da164c016f92b8fead552af44901ae3c34fdf1660bdf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-senior-tres-versoes-oficial.webp",
+      "local_url": "/images/reviews/nutren/nutren-senior-tres-versoes-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 104966,
+      "sha256": "b26ef118db5fe174559c4dac8156da269d5215155759778a8e7d990255863a6a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-senior-tres-versoes-oficial.webp",
+      "storage_filename": "nutren-senior-tres-versoes-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-senior-ensure-ou-sustagen-senior.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-senior-ensure-ou-sustagen-senior.json",
+          "line": 128,
+          "column": 17,
+          "literal": "/images/reviews/nutren/nutren-senior-tres-versoes-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 59990,
+          "column": 19,
+          "literal": "/images/reviews/nutren/nutren-senior-tres-versoes-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b26ef118db5fe174559c4dac8156da269d5215155759778a8e7d990255863a6a/nutren-senior-tres-versoes-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b26ef118db5fe174559c4dac8156da269d5215155759778a8e7d990255863a6a/nutren-senior-tres-versoes-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T03:46:35.514Z",
+      "verification_etag_or_digest": "b26ef118db5fe174559c4dac8156da269d5215155759778a8e7d990255863a6a",
       "verification_status": "verified"
     },
     {

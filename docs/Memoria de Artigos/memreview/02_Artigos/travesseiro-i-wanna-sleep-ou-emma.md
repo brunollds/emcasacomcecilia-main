@@ -236,3 +236,12 @@ Preços da IWS vêm dos JSON de produto em 11/10/2026. Preços da Emma e da Orto
 - Pendências da seção 12 resolvidas em 12/10/2026: perfil de sono da Emma (FAQ oficial: lado, Antiestresse; barriga para baixo, Comfort sem a camada intermediária; costas, Support); 14 noites da Emma com recolhimento e reembolso do valor total; Ortobom com "Garantia Ortobom: 90 dias" nas duas páginas de produto e sem noites de teste; o Conforto Regulável é de fibra siliconada, não viscoelástico. O artigo do Sleeptest e a ficha do Snow seguem em rascunho e não são linkados.
 - CTA: a coleção de travesseiros com os UTMs do guia das linhas publicado.
 - Revisão Job 3 (12/10/2026): aprovado com ajustes; a Ortobom passa a "teste não informado" nos dois modelos consultados.
+
+## Retrofit de imagens (13/10/2026)
+
+Pedido do Bruno de 12/10/2026; folha de contato aprovada por ele em 13/10/2026. Origem em `midia-staging\2026-10-12-retrofit-fase1\ORIGEM.md`.
+
+- Capa nova: `/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex-v2.webp`, 1600×900 (versão B, escolha do Bruno): Snow grande à esquerda e Coluna Relax e Original Látex empilhados à direita, sem as faixas vazias da capa anterior; o Snow foi ampliado 1,406×. A capa anterior continua no CDN e no Git.
+- "Emma: quatro modelos com camadas": gráfico nosso, sem palavras, `travesseiro-ajuste-flocos-ou-camadas.webp`. Sem foto da Emma: não temos licença.
+- "Teste, troca e garantia": gráfico nosso, sem palavras, `travesseiros-teste-troca-garantia.webp`; a legenda dá o nome das marcas.
+- Tabela: modo compacto das tabelas de 6 colunas ou mais (escolha do Bruno), com o "R$" preso ao número.

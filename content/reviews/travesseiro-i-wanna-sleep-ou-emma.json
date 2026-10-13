@@ -19,7 +19,7 @@
   "publishedAtISO": "2026-10-12",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex.webp",
+  "image": "/images/reviews/iwannasleep/travesseiros-iws-snow-coluna-latex-v2.webp",
   "imageAlt": "Três travesseiros da I Wanna Sleep em fotos oficiais da marca: Snow, Cervical Coluna Relax com as medidas e Original Látex",
   "imageFit": "contain",
   "imageAspect": "landscape",
@@ -157,7 +157,14 @@
       "paragraphs": [
         "A Emma vende quatro travesseiros, e em todos você muda a altura tirando ou pondo camadas: a lista da Emma mostra 3 camadas no Antiestress e no Support e 2 no Comfort e no Air.",
         "A própria Emma indica o Antiestress para quem dorme de lado, o Comfort, tirando a camada intermediária, para quem dorme de barriga para baixo e o Support para quem dorme de costas. Pela marca, o Comfort é o mais macio e o Support o mais firme; o Air (médio-macio) e o Antiestress (médio-firme) ficam entre os dois."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/iwannasleep/travesseiro-ajuste-flocos-ou-camadas.webp",
+        "alt": "Desenho de dois travesseiros: um de flocos, de 18 cm, com flocos saindo e uma seta para baixo, e um de camadas com uma camada sendo puxada para fora",
+        "caption": "Dois jeitos de ajustar a altura: no Snow, você tira flocos do enchimento; na Emma, tira ou põe camadas.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Ortobom: preço menor, teste não informado",
@@ -172,7 +179,14 @@
         "I Wanna Sleep: 30 dias de teste nos travesseiros, com pelo menos 15 dias de uso. Se você não se adaptar, recebe crédito para trocar por outro produto do site, sem custo de frete. Vale só para compras no site oficial, com a nota fiscal.",
         "Emma: 14 noites de teste e 6 meses de garantia. Se você não se adaptar, a Emma recolhe o travesseiro e devolve o valor total, segundo o site.",
         "Ortobom: garantia de 90 dias nas páginas do Viscopur e do Conforto Regulável; as páginas não informam noites de teste."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/iwannasleep/travesseiros-teste-troca-garantia.webp",
+        "alt": "Três linhas: calendário com 30 e um vale de troca, lua com 14 e dinheiro de volta, escudo com 90 e uma lua com ponto de interrogação",
+        "caption": "De cima para baixo: a I Wanna Sleep dá 30 dias de teste e crédito para troca; a Emma, 14 noites e o dinheiro de volta; a Ortobom informa 90 dias de garantia e não fala em teste.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Qual escolher pelo seu jeito de dormir",

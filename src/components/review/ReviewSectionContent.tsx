@@ -7,6 +7,7 @@ import { DropCapParagraph, EditorialReveal, PretextShrinkwrap, TopTenList } from
 import { COUPON_HIGHLIGHT_TERMS, HighlightCoupon } from './HighlightCoupon';
 import { CopyButton, CouponStoreLink } from '@/components/CouponComponents';
 import type { ContentSection } from '@/lib/content';
+import { FOCUS_RING } from '@/components/ui/focusRing';
 import { getFaqItems, isFaqHeading } from '@/lib/faq';
 import type { Locale } from '@/lib/i18n/locales';
 import { isCouponPageLink, isInternalLink } from '@/lib/internalLinks';
@@ -41,6 +42,47 @@ function shouldRenderTopTenList(section: ContentSection): boolean {
   return allNumbered && (section.bullets.length >= 10 || headingMatches);
 }
 
+// Nas células da tabela, "R$ 419" não quebra entre o R$ e o número (espaço não separável).
+function keepCurrencyTogether(text: string): string {
+  return text.replace(/R\$ (?=\d)/g, 'R$\u00a0');
+}
+
+// Tabela comparativa: de sm para cima é tabela com a primeira coluna fixa; abaixo disso, uma lista de
+// cartões (um por linha) feita com os mesmos th/td, e o rótulo de cada campo sai do data-label.
+// Sombra de "tem mais à direita": a camada fixa (scroll) fica na borda visível e a branca (local) corre
+// com o conteúdo e a cobre quando a rolagem chega ao fim. Passa por baixo das células, por isso as que
+// rolam têm fundo translúcido (o branco e o creme de sempre sobre o contêiner branco); só a coluna fixa é opaca.
+const COMPARISON_WRAPPER = [
+  'mt-6 overflow-x-auto rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft',
+  'sm:[background-image:linear-gradient(to_left,#fff_35%,transparent),radial-gradient(farthest-side_at_100%_50%,rgb(26_77_46/0.22),transparent)]',
+  'sm:[background-position:right_center] sm:[background-size:2.5rem_100%,0.9rem_100%]',
+  'sm:[background-repeat:no-repeat] sm:[background-attachment:local,scroll]',
+].join(' ');
+
+// Cada coluna tem piso de largura próprio (a tabela em si só tem w-full): 7 colunas de células curtas
+// cabem na coluna do artigo e só a tabela mais larga que ela rola. No papel o piso sai, para não cortar.
+const COMPARISON_CELL = 'align-top border-[#1a4d2e]/10 sm:border-r sm:last:border-r-0';
+
+const COMPARISON_COLUMN_MIN_WIDTH = 'sm:min-w-[6rem] print:min-w-0';
+
+const COMPARISON_STICKY_CELL =
+  'sm:sticky sm:left-0 sm:z-10 sm:min-w-[7.5rem] sm:max-w-[12rem] print:min-w-0 sm:shadow-[4px_0_6px_-4px_rgb(26_77_46/0.16)]';
+
+const COMPARISON_HEAD_CELL = `${COMPARISON_CELL} text-left font-heading text-[0.68rem] font-black uppercase leading-snug tracking-[0.08em] text-[#0f1419]/70 sm:border-b-2 sm:border-b-[#1a4d2e]/20`;
+
+const COMPARISON_ROW_HEAD_CELL = `${COMPARISON_CELL} ${COMPARISON_STICKY_CELL} text-left font-semibold text-[#1a4d2e] sm:border-b max-sm:block max-sm:pb-2 max-sm:text-base max-sm:leading-snug`;
+
+const COMPARISON_DATA_CELL = `${COMPARISON_CELL} ${COMPARISON_COLUMN_MIN_WIDTH} text-[#24313d] sm:border-b max-sm:block max-sm:border-t max-sm:py-2 max-sm:before:mb-0.5 max-sm:before:block max-sm:before:font-heading max-sm:before:text-[0.68rem] max-sm:before:font-bold max-sm:before:uppercase max-sm:before:leading-snug max-sm:before:tracking-[0.1em] max-sm:before:text-[#0f1419]/55 max-sm:before:content-[attr(data-label)]`;
+
+// Padding e altura de linha de sm para cima; a tabela de 6 colunas ou mais é compacta. O celular (cartões) não muda.
+const COMPARISON_SPACING = {
+  roomy: { head: 'sm:px-4 sm:py-3', body: 'leading-6 sm:px-4 sm:py-3.5' },
+  compact: { head: 'sm:px-3 sm:py-2.5', body: 'leading-6 sm:px-3 sm:py-3 sm:leading-5' },
+} as const;
+
+// Tabela de 6 colunas ou mais pode rolar (no tablet ou com célula longa); o contêiner vira região com foco de teclado.
+const COMPARISON_SCROLL_MIN_COLUMNS = 6;
+
 export function ReviewSectionContent({
   section,
   reviewTitle,
@@ -52,6 +94,10 @@ export function ReviewSectionContent({
   locale = 'pt',
 }: ReviewSectionContentProps): React.ReactElement {
   const showDropCap = isFirst && Boolean(kind);
+  const { comparisonTable } = section;
+  const comparisonCaption = comparisonTable?.caption || section.heading || `Tabela comparativa de ${reviewTitle}`;
+  const comparisonScrolls = (comparisonTable?.headers.length ?? 0) >= COMPARISON_SCROLL_MIN_COLUMNS;
+  const comparisonSpacing = COMPARISON_SPACING[comparisonScrolls ? 'compact' : 'roomy'];
   // O título de FAQ decide: os bullets viram o acordeão, com os mesmos itens do FAQPage do schema,
   // e nunca a tabela de prós e contras nem a lista numerada.
   const isFaq = isFaqHeading(section.heading);
@@ -143,41 +189,65 @@ export function ReviewSectionContent({
         <ReviewInlineImage section={section} reviewTitle={reviewTitle} locale={locale} />
       )}
 
-      {section.comparisonTable && (
-        <div className="mt-6 overflow-x-auto rounded-2xl border border-[#1a4d2e]/10 bg-white shadow-soft">
-          <table className="w-full min-w-[640px] border-collapse text-left text-sm">
-            <caption className="sr-only">
-              {section.comparisonTable.caption || section.heading || `Tabela comparativa de ${reviewTitle}`}
-            </caption>
-            <thead>
-              <tr className="bg-[#fef9f3]">
-                {section.comparisonTable.headers.map((header, headerIndex) => (
+      {comparisonTable && (
+        <div
+          className={comparisonScrolls ? `${COMPARISON_WRAPPER} ${FOCUS_RING}` : COMPARISON_WRAPPER}
+          tabIndex={comparisonScrolls ? 0 : undefined}
+          role={comparisonScrolls ? 'region' : undefined}
+          aria-label={comparisonScrolls ? comparisonCaption : undefined}
+        >
+          <table role="table" className="border-separate border-spacing-0 text-left text-sm max-sm:block sm:w-full">
+            <caption className="sr-only">{comparisonCaption}</caption>
+            <thead role="rowgroup" className="max-sm:sr-only">
+              <tr role="row" className="bg-[rgb(238_155_55/0.06)]">
+                {comparisonTable.headers.map((header, headerIndex) => (
                   <th
                     key={header}
+                    role="columnheader"
                     scope="col"
-                    className={`px-4 py-3 font-heading text-xs font-black uppercase tracking-[0.12em] text-[#0f1419]/70 ${
-                      headerIndex === 0 ? 'border-r border-[#1a4d2e]/10' : ''
-                    }`}
+                    className={headerIndex === 0
+                      ? `${COMPARISON_HEAD_CELL} ${comparisonSpacing.head} ${COMPARISON_STICKY_CELL} sm:bg-[#fef9f3]`
+                      : `${COMPARISON_HEAD_CELL} ${comparisonSpacing.head} ${COMPARISON_COLUMN_MIN_WIDTH}`}
                   >
                     {header}
                   </th>
                 ))}
               </tr>
             </thead>
-            <tbody className="divide-y divide-black/8">
-              {section.comparisonTable.rows.map((row, rowIndex) => (
-                <tr key={`${row[0]}-${rowIndex}`} className={rowIndex % 2 === 0 ? 'bg-white' : 'bg-[#faf8f3]'}>
-                  {row.map((cell, cellIndex) => cellIndex === 0 ? (
-                    <th key={`${cell}-${cellIndex}`} scope="row" className="border-r border-[#1a4d2e]/10 px-4 py-3 font-semibold text-[#1a4d2e]">
-                      <HighlightCoupon text={cell} />
-                    </th>
-                  ) : (
-                    <td key={`${cell}-${cellIndex}`} className="px-4 py-3 leading-6 text-[#24313d]">
-                      <HighlightCoupon text={cell} />
-                    </td>
-                  ))}
-                </tr>
-              ))}
+            <tbody
+              role="rowgroup"
+              className="max-sm:block max-sm:divide-y max-sm:divide-[#1a4d2e]/10 sm:[&>tr:last-child>*]:border-b-0"
+            >
+              {comparisonTable.rows.map((row, rowIndex) => {
+                const isStriped = rowIndex % 2 !== 0;
+                return (
+                  <tr
+                    key={`${row[0]}-${rowIndex}`}
+                    role="row"
+                    className={`max-sm:block max-sm:px-4 max-sm:py-4 ${isStriped ? 'bg-[rgb(172_138_55/0.06)]' : ''}`}
+                  >
+                    {row.map((cell, cellIndex) => cellIndex === 0 ? (
+                      <th
+                        key={`${cell}-${cellIndex}`}
+                        role="rowheader"
+                        scope="row"
+                        className={`${COMPARISON_ROW_HEAD_CELL} ${comparisonSpacing.body} ${isStriped ? 'sm:bg-[#faf8f3]' : 'sm:bg-white'}`}
+                      >
+                        <HighlightCoupon text={keepCurrencyTogether(cell)} />
+                      </th>
+                    ) : (
+                      <td
+                        key={`${cell}-${cellIndex}`}
+                        role="cell"
+                        data-label={comparisonTable.headers[cellIndex]}
+                        className={`${COMPARISON_DATA_CELL} ${comparisonSpacing.body}`}
+                      >
+                        <HighlightCoupon text={keepCurrencyTogether(cell)} />
+                      </td>
+                    ))}
+                  </tr>
+                );
+              })}
             </tbody>
           </table>
         </div>

@@ -19,7 +19,7 @@
   "publishedAtISO": "2026-10-12",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/letseatit/porto-brasil-stoneware-bio-latte.webp",
+  "image": "/images/reviews/letseatit/porto-brasil-stoneware-bio-latte-v2.webp",
   "imageAlt": "Aparelho de jantar Porto Brasil Stoneware Bio Latte em duas fotos de produto: pratos, tigelas e xícaras em tom claro",
   "imageFit": "contain",
   "imageAspect": "landscape",
@@ -44,6 +44,13 @@
         "Uma diferença técnica é quanto a cerâmica absorve de água. Na classificação aduaneira do órgão de fronteira do Canadá (CBSA), a porcelana absorve até 0,5% (medido pelo método ASTM C373) e é translúcida; o grês absorve até 3% e é opaco; a faiança absorve mais de 3% e é opaca e porosa. A Porto Brasil não informa o percentual de absorção das peças.",
         "Na prática, a Porto Brasil libera mais usos para o stoneware do que para a faiança, como mostra a tabela."
       ],
+      "image": {
+        "src": "/images/reviews/letseatit/porto-brasil-absorcao-agua.webp",
+        "alt": "Três tigelas com gotas de água caindo e a absorção de cada tipo de louça: até 0,5%, até 3% e acima de 3%",
+        "caption": "Quanto a louça absorve de água, pela classificação da alfândega do Canadá: porcelana até 0,5%, grês (stoneware) até 3% e faiança acima de 3%.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "comparisonTable": {
         "caption": "Usos indicados nas fichas de produto do site da Porto Brasil, lidas em 12/10/2026. Cada ficha vale para a peça dela: confira a da peça que você vai comprar.",
         "headers": [
@@ -86,7 +93,14 @@
         "A maior parte das fichas de stoneware diz que a peça pode ir ao forno, ao micro-ondas e ao freezer e aconselha uma variação térmica de cerca de 180 °C ou de 240 °C, conforme a peça, sem dar a temperatura máxima do forno. Na descrição de mais de mil produtos, como o Bio Vanilla, a marca escreve \"forno (até 180 °C)\", mesmo quando a ficha do mesmo produto fala em 240 °C. Na dúvida, use a menor temperatura que a marca cita para a peça.",
         "Há exceções. Algumas peças de stoneware, como pratos de entrada, de sobremesa e de massa da linha Orgânico, xícaras de chá da linha Linhas e kits de canecas da Coup Stoneware, trazem \"não é recomendado usar no forno convencional\". Os conjuntos com aplicação de ouro não devem ir ao forno nem ao micro-ondas, e os de filamento de ouro também não vão à lava-louças.",
         "Na faiança, as fichas liberam micro-ondas e lava-louças. Várias trazem \"não é recomendado usar no forno convencional\", a maior parte não fala de forno nem de freezer, e os kits Celebrar de 18 peças trazem \"Freezer: Não recomendado\"."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/letseatit/porto-brasil-fichas-stoneware-faianca-uso.webp",
+        "alt": "Aba Uso e cuidado de duas fichas do site da Porto Brasil: a do aparelho de jantar Bio Vanilla, de stoneware, com o uso no forno, no micro-ondas e no freezer marcado em amarelo, e a do Kit Celebrar Madeleine, de faiança, com o forno convencional e o freezer não recomendados",
+        "caption": "Em cima, a ficha do stoneware Bio Vanilla libera forno, freezer e micro-ondas; embaixo, a da faiança Kit Celebrar Madeleine traz \"Forno Convencional: Não recomendado\" e \"Freezer: Não recomendado\". Prints do site da Porto Brasil, 13/10/2026; o destaque em amarelo é nosso.",
+        "objectFit": "contain",
+        "aspectRatio": 1.1701
+      }
     },
     {
       "heading": "Cuidados que a própria marca pede",
@@ -117,6 +131,13 @@
         "A Let's Eat It vende sobretudo o stoneware da Porto Brasil: quase todas as peças da marca no catálogo da loja são desse material. Confira o material e as indicações de uso na página de cada produto. Os preços de outubro de 2026, com os descontos da época, estão no nosso guia de Black Friday da loja.",
         "No site da Let's Eat It, o cupom MAUAD dá 5% de desconto e soma com o desconto do Pix."
       ],
+      "image": {
+        "src": "/images/reviews/letseatit/lets-eat-it-porto-brasil-pagina.webp",
+        "alt": "Página da Porto Brasil na Let's Eat It, com o menu da loja, as cores da linha e o banner da marca",
+        "caption": "A página da Porto Brasil na Let's Eat It. Print de 12/10/2026.",
+        "objectFit": "contain",
+        "aspectRatio": 1.6227
+      },
       "links": [
         {
           "label": "Black Friday Let's Eat It 2026: preços de Porto Brasil",
