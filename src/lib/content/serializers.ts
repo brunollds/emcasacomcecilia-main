@@ -10,6 +10,7 @@ import type {
 } from './types';
 import { CECILIA_PERSON_ID } from '@/lib/ceciliaCredentials';
 import { LOCALES, type Locale } from '@/lib/i18n/locales';
+import { inlineMarkdownToText } from '@/lib/inlineMarkdown';
 
 /**
  * Converte um ingrediente estruturado em texto legível.
@@ -179,6 +180,8 @@ export function parseMinutesFromText(timeText: string): number | null {
 
 /**
  * Extrai apenas o texto de uma seção de review para TTS ou medição.
+ * Cada texto sai como a página o mostra: parágrafos, bullets e o destaque passam pelo markdown curto
+ * (o link vira o texto dele, o negrito perde os asteriscos); o título e o aviso a página mostra crus.
  */
 export function contentSectionsToPlainText(
   sections: { heading?: string; paragraphs?: string[]; bullets?: string[]; emphasis?: string; notice?: string }[]
@@ -186,9 +189,9 @@ export function contentSectionsToPlainText(
   return sections
     .flatMap((section) => [
       section.heading,
-      ...(section.paragraphs || []),
-      ...(section.bullets || []),
-      section.emphasis,
+      ...(section.paragraphs || []).map(inlineMarkdownToText),
+      ...(section.bullets || []).map(inlineMarkdownToText),
+      section.emphasis && inlineMarkdownToText(section.emphasis),
       section.notice,
     ])
     .filter(Boolean)
