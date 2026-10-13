@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-12",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/nutren/nutren-ensure-sustagen-latas.webp",
-  "imageAlt": "Latas de Nutren Senior Sem Sabor, Ensure Baunilha Pó (lata de 850 g) e Sustagen Senior Sem Sabor lado a lado, na mesma escala",
+  "image": "/images/reviews/nutren/nutren-ensure-sustagen-latas-v2.webp",
+  "imageAlt": "Latas de Nutren Senior Sem Sabor, Ensure Baunilha Pó (lata de 850 g) e Sustagen Senior Sem Sabor lado a lado",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
@@ -40,69 +40,81 @@
       "paragraphs": [
         "Cada marca escolhe uma base. A Nutren publica a tabela por porção (27,5 g, 31,5 g ou 55 g, conforme a versão), a Sustagen usa a porção de 40 g, e a página do Ensure fala em 6 medidas por porção, sem dizer quantos gramas são.",
         "Para comparar, olhe a mesma coisa nos três: o tamanho da porção, a proteína por dose, o cálcio, a vitamina D, a lactose e o glúten. A tabela abaixo junta o que cada página oficial informa; o glúten fica na seção Lactose e glúten."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/nutren/nutren-ensure-sustagen-porcao.webp",
+        "alt": "Latas de Nutren Senior Zero Lactose, Ensure e Sustagen Senior com a porção desenhada embaixo: 3 colheres rasas e 27,5 g, 6 medidas e um ponto de interrogação no lugar dos gramas, e 3 colheres cheias e 40 g",
+        "caption": "Cada marca mede a porção de um jeito: o Nutren Senior Zero Lactose em colheres rasas, o Ensure em medidas, sem dizer quantos gramas são, e o Sustagen em colheres cheias.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Os três rótulos lado a lado",
       "comparisonTable": {
         "caption": "Valores das páginas oficiais de cada marca, lidas em 11 e 12/10/2026. VD = valor diário de referência. O Ensure não publica a tabela por porção no texto da página.",
         "headers": [
-          "Produto",
-          "Porção",
-          "Calorias",
-          "Proteína",
-          "Cálcio",
-          "Vitamina D",
-          "Lactose"
+          "Item do rótulo",
+          "Nutren Senior Sem Sabor Zero Lactose",
+          "Nutren Senior Café com Leite",
+          "Nutren Senior Sem Sabor",
+          "Ensure Baunilha Pó",
+          "Sustagen Senior Sem Sabor"
         ],
         "rows": [
           [
-            "Nutren Senior Sem Sabor Zero Lactose, 740 g",
+            "Porção",
             "27,5 g (3 colheres de sopa rasas)",
-            "113 kcal",
-            "10 g",
-            "375 mg (38% VD)",
-            "12 µg (80% VD)",
-            "0 g"
-          ],
-          [
-            "Nutren Senior Café com Leite, 740 g",
             "31,5 g (3 colheres de sopa)",
-            "130 kcal",
-            "11 g",
-            "375 mg (38% VD)",
-            "25 µg (167% VD)",
-            "A página não informa"
-          ],
-          [
-            "Nutren Senior Sem Sabor, 740 g",
-            "55 g (6 colheres de sopa); a sugestão de uso prepara 27,5 g por vez",
-            "226 kcal",
-            "20 g (40% VD)",
-            "506 mg (51% VD)",
-            "25 µg (167% VD)",
-            "A página não informa"
-          ],
-          [
-            "Ensure Baunilha Pó, 400 g",
+            "55 g (6 colheres de sopa)",
             "6 medidas em 195 ml de água, sem o peso em gramas",
-            "Não informadas",
-            "17 g em duas porções diárias",
-            "\"Alto teor\", sem número",
-            "\"Alto teor\", sem número",
-            "Contém lactose"
+            "40 g (3 colheres de sopa cheias)"
           ],
           [
-            "Sustagen Senior Sem Sabor, 740 g",
-            "40 g (3 colheres de sopa cheias)",
-            "140 kcal",
-            "11 g (22% VD)",
-            "397 mg (40% VD)",
-            "4,8 µg (32% VD)",
+            "Calorias",
+            "113 kcal",
+            "130 kcal",
+            "226 kcal",
+            "Não informadas",
+            "140 kcal"
+          ],
+          [
+            "Proteína",
+            "10 g",
+            "11 g",
+            "20 g (40% VD)",
+            "17 g em duas porções diárias",
+            "11 g (22% VD)"
+          ],
+          [
+            "Cálcio",
+            "375 mg (38% VD)",
+            "375 mg (38% VD)",
+            "506 mg (51% VD)",
+            "\"Alto teor\", sem número",
+            "397 mg (40% VD)"
+          ],
+          [
+            "Vitamina D",
+            "12 µg (80% VD)",
+            "25 µg (167% VD)",
+            "25 µg (167% VD)",
+            "\"Alto teor\", sem número",
+            "4,8 µg (32% VD)"
+          ],
+          [
+            "Lactose",
+            "0 g",
+            "A página não informa",
+            "A página não informa",
+            "Contém lactose",
             "Contém lactose"
           ]
         ]
-      }
+      },
+      "postParagraphs": [
+        "As latas são de 740 g, e a do Ensure, de 400 g. No Nutren Senior Sem Sabor, a tabela usa a porção de 55 g, e a sugestão de uso prepara 27,5 g por vez. VD é o valor diário de referência."
+      ]
     },
     {
       "heading": "Nutren Senior: as três versões",
@@ -112,6 +124,13 @@
         "O Sem Sabor comum, sem a indicação zero lactose, é vendido como suplemento alimentar. A tabela dele usa a porção de 55 g (6 colheres de sopa), com 20 g de proteína, e a sugestão de uso prepara 27,5 g por vez.",
         "O preparo sem empelotar e a ficha completa do Zero Lactose estão nos nossos outros guias."
       ],
+      "image": {
+        "src": "/images/reviews/nutren/nutren-senior-tres-versoes-oficial.webp",
+        "alt": "Latas de 740 g do Nutren Senior Zero Lactose Sem Sabor, do Nutren Senior Café com Leite e do Nutren Senior Sem Sabor lado a lado",
+        "caption": "As três versões do Nutren Senior: Zero Lactose, Café com Leite e Sem Sabor. Fotos oficiais da Nestlé Nutre.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "links": [
         {
           "label": "Nutren Senior Zero Lactose: o que saber antes de comprar",
@@ -153,7 +172,14 @@
       "paragraphs": [
         "Dos três, só o Nutren Senior Sem Sabor Zero Lactose informa 0 g de lactose por porção na tabela oficial. Zero lactose não é sem leite: o rótulo o chama de composto lácteo, e quem tem alergia ao leite deve falar com o médico antes de escolher. O Sustagen Senior avisa que contém lactose, e a Abbott diz que o Ensure pó também contém. As páginas do Nutren Senior Café com Leite e do Sem Sabor comum não trazem a linha de lactose.",
         "Sobre glúten, a Abbott diz que o Ensure não contém, e o rótulo do Sustagen Senior diz o mesmo. No Nutren Senior, o material oficial da lata do Zero Lactose marca \"sem glúten\"; as páginas do Café com Leite e do Sem Sabor comum não falam de glúten, e vale o que está escrito na lata."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/nutren/nutren-senior-zero-lactose-beneficios.webp",
+        "alt": "Lata de Nutren Senior Zero Lactose Sem Sabor 740 g com os benefícios da marca em volta e, embaixo, os selos sem lactose e sem glúten",
+        "caption": "No material oficial do Nutren Senior Zero Lactose, os selos de sem lactose e sem glúten ficam embaixo da lata.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7787
+      }
     },
     {
       "heading": "Quando procurar o médico ou o nutricionista",

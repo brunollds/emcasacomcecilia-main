@@ -45,70 +45,80 @@
         "Em outubro de 2026, a loja oficial vende cinco máquinas: a Mini Me 2.0 e as três Genio S (Basic, Plus e Touch), todas do sistema Original, e a NEO, que usa outra cápsula. Infinissima, Piccolo, Piccolo XS e Lumio não estão à venda no site.",
         "As quatro do sistema Original aceitam as mesmas cápsulas, com mais de 30 bebidas quentes ou frias, entre cafés, lattes, cappuccinos, chocolates e chás. Elas trabalham com 15 bar de pressão e, no comparativo oficial, aparecem com tomada de 20 A.",
         "A NEO aceita só as cápsulas NEO compostáveis, trabalha com até 15 bar e tem o maior reservatório entre as cinco, com 1 litro."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/dolcegusto/dolce-gusto-cinco-maquinas-oficial.webp",
+        "alt": "Cafeteiras Dolce Gusto Mini Me 2.0 preta, Genio S Basic taupe, Genio S Plus vermelha, Genio S Touch prata e NEO preta, lado a lado na mesma altura",
+        "caption": "As cinco máquinas à venda na loja oficial: Mini Me 2.0, Genio S Basic, Genio S Plus, Genio S Touch e NEO. Fotos da loja, fora de escala.",
+        "objectFit": "wide",
+        "aspectRatio": 2.6
+      }
     },
     {
       "heading": "Preço, tamanho e recursos lado a lado",
       "comparisonTable": {
         "caption": "Preços de venda na loja oficial em 12/10/2026. Medidas e recursos do comparativo oficial de máquinas, relido em 12/10/2026, que não inclui a NEO.",
         "headers": [
-          "Máquina",
-          "Preço",
-          "Reservatório",
-          "Altura × largura × profundidade",
-          "XL",
-          "4 temperaturas e Espresso Boost",
-          "Tela de toque"
+          "Recurso",
+          "Mini Me 2.0",
+          "Genio S Basic",
+          "Genio S Plus",
+          "Genio S Touch",
+          "NEO"
         ],
         "rows": [
           [
-            "Mini Me 2.0",
-            "R$ 429,90 (R$ 449,90 na cor Cinza Chumbo 110V)",
-            "0,8 L",
-            "30,5 × 16 × 24 cm",
-            "Não",
-            "Não",
-            "Não"
-          ],
-          [
-            "Genio S Basic",
+            "Preço",
+            "R$ 429,90",
             "R$ 479,90",
-            "0,8 L",
-            "27,3 × 11,2 × 28,6 cm",
-            "Sim",
-            "Não",
-            "Não"
-          ],
-          [
-            "Genio S Plus",
             "R$ 589,90",
-            "0,8 L",
-            "27,3 × 11,2 × 28,6 cm",
-            "Sim",
-            "Sim",
-            "Não"
-          ],
-          [
-            "Genio S Touch",
             "R$ 799,90",
-            "0,8 L",
-            "27,2 × 11,2 × 28,6 cm",
-            "Sim",
-            "Sim",
-            "Sim"
+            "A partir de R$ 799,00"
           ],
           [
-            "NEO",
-            "A partir de R$ 799,00",
-            "1 L",
-            "Ver nota abaixo",
-            "Fora do comparativo",
-            "Fora do comparativo",
+            "Reservatório",
+            "0,8 L",
+            "0,8 L",
+            "0,8 L",
+            "0,8 L",
+            "1 L"
+          ],
+          [
+            "Altura × largura × profundidade",
+            "30,5 × 16 × 24 cm",
+            "27,3 × 11,2 × 28,6 cm",
+            "27,3 × 11,2 × 28,6 cm",
+            "27,2 × 11,2 × 28,6 cm",
+            "15,2, 30 e 34,5 cm"
+          ],
+          [
+            "XL",
+            "Não",
+            "Sim",
+            "Sim",
+            "Sim",
+            "Fora do comparativo"
+          ],
+          [
+            "4 temperaturas e Espresso Boost",
+            "Não",
+            "Não",
+            "Sim",
+            "Sim",
+            "Fora do comparativo"
+          ],
+          [
+            "Tela de toque",
+            "Não",
+            "Não",
+            "Não",
+            "Sim",
             "Fora do comparativo"
           ]
         ]
       },
       "postParagraphs": [
+        "Na cor Cinza Chumbo 110V, a Mini Me 2.0 sai por R$ 449,90. A NEO não está no comparativo oficial, e a página dela não diz qual das três medidas é a altura.",
         "A Genio S Plus e a Genio S Touch têm também a bandeja de metal. A diferença técnica entre as três Genio S, recurso por recurso, está no nosso comparativo Basic, Plus e Touch."
       ],
       "links": [
@@ -151,6 +161,20 @@
         "O Adaptador NEO Start, vendido por R$ 89,90 na loja oficial em 12/10/2026, põe alguns cafés NEO, só espresso e lungo, nos modelos do sistema Original que a loja lista como compatíveis. A lista cita, entre outras, a Mini Me, sem dizer se é a 2.0, a Genio S, a Genio S Plus e a Genio S Touch: confira na página do adaptador.",
         "Cápsulas de outras marcas que se dizem compatíveis com a Dolce Gusto estão no nosso guia de cápsulas compatíveis, que reúne o que cada fabricante informa; não testamos essas cápsulas."
       ],
+      "images": [
+        {
+          "src": "/images/reviews/dolcegusto/dolce-gusto-original-e-neo-oficial.webp",
+          "alt": "Caixa de cápsulas Dolce Gusto Original Espresso ao lado da embalagem NEO Espresso Serras do Alto Paranaíba, em fotos oficiais da loja",
+          "caption": "À esquerda, a caixa Original do Espresso; à direita, a embalagem NEO do Espresso Serras do Alto Paranaíba.",
+          "objectFit": "contain"
+        },
+        {
+          "src": "/images/reviews/dolcegusto/adaptador-neo-start-encaixe.webp",
+          "alt": "Adaptador NEO Start aberto com uma cápsula NEO posicionada para o encaixe",
+          "caption": "O Adaptador NEO Start aberto, com uma cápsula NEO no encaixe.",
+          "objectFit": "contain"
+        }
+      ],
       "links": [
         {
           "label": "Adaptador NEO Start: o que é e quando você precisa dele",
@@ -168,6 +192,20 @@
         "A Mini Me 2.0 passou pelo nosso teste em casa, com o Lungo e o Café Matinal no dia a dia de trabalho. O review conta como foi.",
         "A Genio S Touch também tem review próprio. Foi nela que vimos que o preparo frio não gela: com a opção fria do painel, o Chá de Pêssego saiu morno, por volta de 40 °C. Para bebida gelada, prepare antes e leve à geladeira ou ponha gelo no copo.",
         "A Cecília usa a NEO no dia a dia; ela ainda não tem review próprio no site. A Genio S Basic e a Genio S Plus entram aqui pelas especificações oficiais: não testamos as duas."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-1.webp",
+          "alt": "Bruno com a cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 em gravação para o canal Em Casa com Cecília",
+          "caption": "A Mini Me 2.0 do nosso teste em casa.",
+          "objectFit": "square"
+        },
+        {
+          "src": "/images/reviews/dolcegusto/dolce-gusto-neo-cecilia.webp",
+          "alt": "Cecília na cozinha com a cafeteira Dolce Gusto NEO branca, segurando o reservatório de água transparente",
+          "caption": "A Cecília com a NEO, que ela usa no dia a dia.",
+          "objectFit": "portrait"
+        }
       ],
       "links": [
         {

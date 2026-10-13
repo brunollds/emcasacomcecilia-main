@@ -49,7 +49,14 @@
         "Antes do primeiro uso: a panela não precisa de cura.",
         "No fogão: o calor médio ou baixo dá os melhores resultados.",
         "Utensílios: a marca não recomenda batedor elétrico nem utensílio de metal sobre o esmalte."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/letseatit/le-creuset-redonda-signature-tampa-alcas.webp",
+        "alt": "Panela Redonda Signature da Le Creuset na cor Cotton vista de cima, com as duas alças de ferro fundido e o puxador de aço inox na tampa",
+        "caption": "Na Redonda Signature Cotton, as alças são de ferro fundido e o puxador da tampa é de aço inox: pela regra da marca, vão ao forno em qualquer temperatura.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3333
+      }
     },
     {
       "heading": "Le Creuset ou Staub",
@@ -109,7 +116,14 @@
         "Não mergulhe a panela quente em água fria.",
         "Encha a panela com água morna e deixe agir de 15 a 20 minutos antes de lavar.",
         "Não use palha de aço nem produto abrasivo."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/letseatit/le-creuset-panela-queimada-3-passos.webp",
+        "alt": "Três passos desenhados: água fria na panela quente no fogo, riscado; panela com água morna e o relógio de 15 a 20 minutos; palha de aço, riscada",
+        "caption": "Panela queimada: nada de água fria na panela quente, água morna por 15 a 20 minutos e nada de palha de aço.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "O que a garantia não cobre",
@@ -121,7 +135,21 @@
       "heading": "Onde comprar: Let's Eat It",
       "paragraphs": [
         "A Let's Eat It aparecia no localizador oficial de lojas da Le Creuset Brasil na consulta de 02/10/2026. Em 12/10/2026, a Panela Redonda Signature de 20 cm saía por R$ 2.329, e a de 28 cm, por R$ 3.429, nas cores de preço padrão; cores como Château e Flamme Dorée custam mais. Os preços por data estão no nosso guia de Black Friday da loja.",
-        "Na Casa Let's, a loja física em São Paulo, o desconto de 15% das compras presenciais não vale para a Le Creuset (regra da loja em 03/10/2026). No site, o cupom MAUAD dá 5% de desconto, mas não o testamos numa peça Le Creuset: confira se ele entra no carrinho antes de pagar."
+        "Na Casa Let's, a loja física em São Paulo, o desconto de 15% das compras presenciais não vale para a Le Creuset (regra da loja em 03/10/2026). No site, o cupom MAUAD dá 5% de desconto e vale também para a Le Creuset."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/letseatit/lets-eat-it-le-creuset-pagina.webp",
+          "alt": "Página da Le Creuset na Let's Eat It, com as categorias de panelas, utensílios e canecas e a escolha por cor",
+          "caption": "A página da Le Creuset na Let's Eat It. Print de 12/10/2026.",
+          "objectFit": "contain"
+        },
+        {
+          "src": "/images/reviews/letseatit/le-creuset-localizador-lets-eat-it.webp",
+          "alt": "Página do localizador de lojas da Le Creuset Brasil mostrando a Let's Eat It na Serra, ES",
+          "caption": "A Let's Eat It no localizador de lojas oficial da Le Creuset Brasil (consulta em 02/10/2026).",
+          "objectFit": "contain"
+        }
       ],
       "links": [
         {
