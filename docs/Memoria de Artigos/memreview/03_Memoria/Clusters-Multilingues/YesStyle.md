@@ -5,7 +5,7 @@ modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
 fonte_tecnica: "00_Sistema/JOBS/Job-4-Conformacao-JSON.md (seção 3)"
-ultima_revisao: "2026-10-11"
+ultima_revisao: "2026-10-13"
 ---
 
 # Cluster multilíngue — YesStyle
@@ -31,6 +31,8 @@ cupons, confiança e K-beauty). Família nova não entra nele; a
 | `yesstyle-kbeauty` | [[02_Artigos/k-beauty-o-que-e-onde-comprar]] | 10/10 | publicado |
 | `yesstyle-skincare-30` | `skincare-coreano-30-anos-rotina-iniciante-yesstyle` | 10/10 | publicado em 28/09/2026 |
 | `yesstyle-black-friday` | [[02_Artigos/black-friday-yesstyle]] | 10/10 | publicado em 11/10/2026 |
+| `yesstyle-shipping-by-country` | [[02_Artigos/yesstyle-entrega-por-pais]] | 10/10 | pronto para deploy em 13/10/2026 (fase 5); núcleo + bloco de mercado, cada versão com os países do idioma |
+| `yesstyle-vs-alternatives` | [[02_Artigos/yesstyle-ou-stylevana]] | 10/10 | pronto para deploy em 13/10/2026 (fase 5); núcleo + bloco de mercado, só as lojas que atendem cada país (regra D) |
 
 ## Regras específicas
 
@@ -53,6 +55,9 @@ cupons, confiança e K-beauty). Família nova não entra nele; a
 - Percentuais, validade e elegibilidade vêm de `data/coupons/yesstyle.json`;
   revalidar, não copiar valores para esta nota.
 - Não localizar frete, impostos ou disponibilidade de país sem fonte específica.
+- Frete, prazo e imposto por país moram na família `yesstyle-shipping-by-country`: os outros
+  artigos da YesStyle linkam para ela em vez de repetir números que mudam (a tabela mudou em
+  06/10/2026).
 
 ## Gates adicionais
 

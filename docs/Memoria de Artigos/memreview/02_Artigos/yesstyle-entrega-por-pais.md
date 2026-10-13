@@ -6,9 +6,9 @@ parceiro: "[[YesStyle]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Entrega e Frete"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir o PT (Job 2) com Brasil e Portugal; a linha do Brasil cita o pedido próprio enviado em 19/09/2026 pela Anjun Express. Para uma atualização: o Bruno passa a data de chegada e o imposto cobrado do pedido, e um print do checkout com endereço brasileiro (frete e frete grátis)"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy (decisão do Bruno); as 5 imagens novas da fase 5 já estão no CDN. Depois do deploy: encurtar o frete das famílias de confiança e de Black Friday da YesStyle e linkar para a família de entrega (seção 10)"
 bloqueado_por: null
 score_autoridade: 80
 score_conversao: 75
@@ -19,7 +19,7 @@ translationKey: "yesstyle-shipping-by-country"
 modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
-status_i18n: "em-localizacao"
+status_i18n: "completo"
 ---
 
 # Briefing de Pauta: YesStyle entrega no seu país? Prazo, frete e imposto (cada idioma, os países dele)
@@ -206,8 +206,9 @@ não têm título, seção nem pergunta de FAQ.
 
 Regras gerais (mesma página e `hsi.730`): prazo total = disponibilidade do item (em estoque despacha em 1 a 3 dias úteis; "Awaiting Stock" 3 a 5,
 7, 7 a 14, 21 ou 30 dias úteis) + prazo do método; suplementos de saúde e beleza só vão pelo método padrão; embrulho de presente não
-conta para o frete grátis; pacote devolvido por endereço errado ou recusa é reenviado com frete e taxa de manuseio; envio perdido
-é reenviado sem custo (`The YesStyle Promise`, `hsi.1684`); estimativas contam em horário de Hong Kong. [x] Pode publicar.
+conta para o frete grátis; pacote que volta à loja por endereço errado, entrega sem sucesso ou por não ter sido retirado só é reenviado com
+taxa de manuseio e frete novo (`hsi.732`; quem recusa o pacote por causa da alfândega fica sem reembolso e sem reenvio, `hsi.735`; correção do
+Job 3, 12/10/2026: a recusa não é caso de reenvio); envio perdido é reenviado sem custo (`The YesStyle Promise`, `hsi.1684`); estimativas contam em horário de Hong Kong. [x] Pode publicar.
 
 **6.2 Imposto no pedido e na entrega (fonte: páginas de imposto da YesStyle)**
 
@@ -341,3 +342,34 @@ Regra de tom (Bruno, 12/10): direto, sem pormenores. Uma frase por fato; ressalv
 Não há seção sobre "países que a YesStyle não atende": a regra D (seção 6.1) tira esse tema de todas as versões.
 
 Palavras fora dos títulos: confiável, legit, safe, scam, fake.
+
+## Redação
+Redigido em 12/10/2026 (Job 2: Claude), revisado no Job 3 por outro agente e conformado no Job 4. Pronto para deploy.
+
+**PT (`yesstyle-entrega-no-brasil-e-portugal`, id 395, `type` Guia de Entrega e Frete):** resposta rápida (Brasil e Portugal); prazo e frete (a tabela de Portugal, de 06/10/2026, e a linha do Brasil pelo pedido nosso enviado em 19/09/2026 pela Anjun Express; link para o comparativo); o que a loja mostra sobre o Brasil (fora da tabela e do seletor, o aviso de pausa de 03/07 sem retomada); como se conta o prazo (gráfico); imposto (gráfico; o IVA de 23% e a alfândega de € 3 da UE, que a YesStyle diz pagar; o Brasil fora do Remessa Conforme, pela regra da Receita Federal); se o pacote for taxado; se atrasar ou voltar (link para o guia de confiança); parceria e código de recompensa; FAQ com 10 itens.
+
+**Job 3 (12/10/2026), aprovado com ajustes, todos aplicados:**
+- Reenvio pago só para endereço errado, entrega sem sucesso e pacote não retirado (`hsi.732`); quem recusa o pacote por causa da alfândega fica sem reembolso e sem reenvio (`hsi.735`). A recusa saiu da lista de reenvio, no texto e na matriz (6.1).
+- O Imposto de Importação incide "sobre o produto, o frete e o seguro, mais ICMS de 17% a 20%", atribuído à regra da Receita Federal. O texto e o FAQ dizem que a política de reembolso não cita o ICMS.
+- O prazo do reembolso conta "em até 30 dias da data do comprovante".
+- Termos só de Portugal trocados por neutros; a frase que prometia o comparativo ficou exata.
+
+**Ordem dos links (12/10/2026):** o template mostra `links` antes de `postParagraphs`. Nas 10 versões, a frase que apresentava o comparativo saiu (o link ficou, com o título dele) e a do guia de confiança foi para `paragraphs`.
+
+**Traduções (Job 4, decisão A: núcleo + bloco de mercado):** ids 396 a 404, cada uma com os países do idioma: en EUA, Reino Unido, Canadá e Austrália, com Irlanda e Nova Zelândia (territórios dos EUA e Irlanda do Norte só como limite da linha); es Espanha, México, Chile, Peru, Argentina e Colômbia (com o aviso de atraso da Colômbia de 11/08/2026); fr França, Bélgica e Canadá; de Alemanha, Áustria e Suíça; it Itália; ko Coreia do Sul; ja Japão; zh-hant Taiwan, Hong Kong e Macau; zh-hans Singapura e Malásia. Nada do Brasil, de Portugal, do pedido nosso nem da Receita Federal fora do PT.
+
+**Releitura (item 10 do Job 4), 12/10/2026, por outro agente:**
+- Todas: "imposto sobre vendas" saiu da lista do que o reembolso não cobre, menos em en (EUA); o rótulo do link do comparativo passou ao título real.
+- en: o título da seção de imposto ficou "…what is added at checkout"; "package" no lugar de "parcel"; as Import Fees em frase própria.
+- es: "Si te cobran impuestos al recibir el paquete"; o aviso da Colômbia num lugar só; "costo"; "recogida".
+- fr: "crédit en boutique"; "frais de manutention"; "la Guyane".
+- de: "Versanddauer"; "Paketdienst"; "(darunter US$ 5 Versandkosten)".
+- it: "restituire"; "€ 3" e "€ 150"; o valor do pedido "prima del coupon".
+- ko: título neutro "세금과 관세"; "관세" no lugar de "수수료"; "YesStyle 크레딧".
+- ja: título neutro "税金と関税"; "海外事務手数料"; a legenda do imposto com "条件を満たせば".
+- zh-hant: título neutro "稅費與海關"; o imposto dos três mercados numa frase só; a retirada em Hong Kong como "順豐站、服務中心或 EF Locker 智能櫃自取".
+- zh-hans: título "…哪些在结账时另加"; a fonte separa o frete (em dólares) do imposto (S$ e RM); "寄往".
+
+**Imagens (no CDN desde 13/10/2026, com o OK do Bruno):** `yesstyle-entrega-frete-imposto-capa.webp` (capa), `yesstyle-prazo-disponibilidade-mais-envio.webp` e `yesstyle-imposto-no-preco-ou-na-entrega.webp` (corpo): gráficos nossos sem palavras, com ícones Lucide (licença ISC), iguais nas 10 versões.
+
+**Gates (13/10/2026, depois do merge da main com o parser único do FAQ, #74 a #76):** typecheck, eslint, `validate:content`, `test:review-i18n` (12 famílias), `validate:video`, `test-yesstyle-mutation`, `test-delivery-integration`, a build completa (com `test:build-output` e `test:client-bundle`) e a conferência do HTML das 20 páginas da fase (toda imagem do artigo vem do CDN, o CTA é o link da YesStyle e nenhuma versão fora do PT tem `/cupons/`).
