@@ -64383,7 +64383,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quem opera a SHEIN no Brasil, de que país ela é, o que o Reclame Aqui mostra, como pagar, quanto tempo demora a entrega, o imposto, a devolução e o que conferir antes de pagar.",
+    "description": "Quem opera a SHEIN no Brasil, de que país ela é, o que ela vende, o que o Reclame Aqui mostra, como pagar, quanto demora a entrega, o imposto, a devolução e o que conferir antes de pagar.",
     "metaDescription": "A SHEIN é confiável? Quem opera a loja no Brasil, a nota 7,6 no Reclame Aqui, de que país ela é, o prazo, a taxa, a devolução e o que conferir antes de pagar.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
@@ -64406,7 +64406,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem opera a SHEIN e de que país ela é",
         "paragraphs": [
-          "A SHEIN se descreve como uma varejista global online de moda e lifestyle, que vende roupas da marca SHEIN e produtos de uma rede global de fornecedores. Cada país tem o seu site, e a política de privacidade de cada um nomeia a empresa responsável.",
+          "A SHEIN se descreve como uma varejista global online de moda e lifestyle. Cada país tem o seu site, e a política de privacidade de cada um nomeia a empresa responsável.",
           "No Brasil, essa empresa é a In Glow Brasil Intermediação de Negócios Ltda., com endereço em São Paulo, e o Reclame Aqui lista a SHEIN com o mesmo nome. O site do grupo, o sheingroup.com, é da Roadget Business Pte. Ltd., de Singapura.",
           "A SHEIN nasceu na China, segundo o Financial Times. Em 24 de fevereiro de 2026, num evento do governo de Guangdong, o fundador, Xu Yangtian, disse que a província é onde estão as raízes da SHEIN, segundo a BBC e o The Straits Times. As três reportagens registram que a sede da empresa fica em Singapura.",
           "Sobre o ano de fundação, a SHEIN dá duas datas: 2012 na página \"Sobre nós\" do site brasileiro e 2008 no texto que ela mesma publicou no Reclame Aqui. A SHEIN também diz que produz sob demanda, em lotes pequenos."
@@ -64418,6 +64418,23 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 2.8571
         }
+      },
+      {
+        "heading": "O que a SHEIN vende",
+        "paragraphs": [
+          "A SHEIN vende bem mais que roupa. Parte dos produtos é da marca SHEIN, e parte vem de uma rede global de fornecedores. Em 13/10/2026, o menu do site brasileiro tinha estas seções:"
+        ],
+        "bullets": [
+          "Roupa feminina, masculina e infantil, tamanhos grandes, moda praia, pijamas e roupa íntima.",
+          "Sapatos, bolsas e malas, joias e acessórios.",
+          "Beleza e saúde, bebê e maternidade e artigos esportivos.",
+          "Casa e decoração, ferramentas e utilidades e material de escritório e escola.",
+          "Celulares e acessórios, eletrônicos, jogos e brinquedos.",
+          "Pets, acessórios automotivos e alimentos e bebidas."
+        ],
+        "postParagraphs": [
+          "No menu também está o Envio Nacional, com os produtos que já estão no Brasil."
+        ]
       },
       {
         "heading": "O que o Reclame Aqui mostra",
@@ -64533,6 +64550,7 @@ export const reviewsData: unknown[] = [
           "A SHEIN é confiável? É uma loja legítima, com empresa identificada no Brasil e reputação \"Boa\" no Reclame Aqui, nota 7,6 de 10 nos seis meses até 30/09/2026.",
           "É seguro comprar na SHEIN com cartão de crédito? A SHEIN aceita cartão brasileiro em até 6 vezes e diz que não coleta o número do cartão internacional. Compre só pelo site oficial ou pelo aplicativo.",
           "A SHEIN é de que país? A SHEIN nasceu na China e tem sede em Singapura, segundo o Financial Times; em fevereiro de 2026, o fundador disse que as raízes da empresa estão em Guangdong, segundo a BBC e o The Straits Times. No Brasil, quem opera a loja é a In Glow Brasil.",
+          "O que a SHEIN vende? Roupa feminina, masculina e infantil, sapatos, bolsas, joias, beleza, casa e decoração, eletrônicos, brinquedos, itens para pets e até alimentos. Parte é da marca SHEIN, e parte vem de outros fornecedores.",
           "A SHEIN tem Reclame Aqui? Tem: reputação \"Boa\", nota 7,6 de 10 e 32.489 reclamações nos seis meses até 30/09/2026, com 95% respondidas.",
           "Quanto tempo demora a entrega da SHEIN no Brasil? O pedido internacional leva de 3 a 5 dias para ser processado, e o prazo de entrega aparece na página do pedido.",
           "A SHEIN cobra taxa? Toda compra internacional paga ICMS de 17% a 20%, e o imposto de importação é zero nos pedidos de até US$ 50. A tabela e o exemplo de cálculo estão no guia de Black Friday da SHEIN.",
@@ -64584,7 +64602,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Whether SHEIN is a legitimate store, which company runs its sites in the US and the UK, which country it comes from, whether it is safe to pay, the return policy and what to check before you pay.",
+    "description": "Whether SHEIN is a legitimate store, which company runs its sites in the US and the UK, which country it comes from, what it sells, whether it is safe to pay, the return policy and what to check before you pay.",
     "metaDescription": "Is SHEIN legit and safe? Who runs the US and UK sites, where SHEIN is from, how it handles your data, the return periods and what to check before you pay.",
     "publishedAt": "October 13, 2026",
     "publishedAtISO": "2026-10-13",
@@ -64609,7 +64627,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Who runs SHEIN and where it is from",
         "paragraphs": [
-          "SHEIN describes itself as a global online fashion and lifestyle retailer that sells clothes under the SHEIN brand and products from a global network of suppliers. SHEIN also says it produces on demand, in small batches.",
+          "SHEIN describes itself as a global online fashion and lifestyle retailer. It also says it produces on demand, in small batches.",
           "Each market has its own site, and each site's privacy policy names the company responsible for it. The group's own site, sheingroup.com, belongs to Roadget Business Pte. Ltd., of Singapore.",
           "SHEIN started in China, according to the Financial Times. On February 24, 2026, at an event held by the Guangdong government, the founder, Xu Yangtian, said the province is where SHEIN's roots are, according to the BBC and The Straits Times. All three reports say the company's headquarters is in Singapore."
         ],
@@ -64640,6 +64658,23 @@ export const reviewsData: unknown[] = [
             ]
           ]
         }
+      },
+      {
+        "heading": "What SHEIN sells",
+        "paragraphs": [
+          "SHEIN sells far more than clothes. Some products are SHEIN's own brand, and some come from a global network of suppliers. On October 13, 2026, the menus of the US and UK sites had these sections:"
+        ],
+        "bullets": [
+          "Women's, men's and kids' clothing, plus sizes (Curve), underwear and sleepwear, and beachwear on the UK site.",
+          "Shoes, bags and luggage, jewellery and accessories.",
+          "Beauty and health, baby and maternity, sports and outdoors.",
+          "Home and living, home textiles, tools and home improvement, appliances, and office and school supplies.",
+          "Cell phones and accessories, electronics, toys and games.",
+          "Pet supplies and automotive. The US site also lists books and magazines, and food and drinks."
+        ],
+        "postParagraphs": [
+          "The UK menu also has a section called “Est. 3 Workdays”: the name refers to an estimated delivery in 3 working days."
+        ]
       },
       {
         "heading": "Is it safe to pay, and what does SHEIN do with your data?",
@@ -64701,6 +64736,7 @@ export const reviewsData: unknown[] = [
           "Is SHEIN legit? Yes. It is a legitimate store, and the site of each market has an identified company behind it: SHEIN US Services, LLC in the US and Infinite Styles Services Co., Limited in the UK, according to the privacy policies.",
           "Is it safe to pay on SHEIN with a card? SHEIN says its systems and controls are aligned with the ISO, NIST and PCI DSS standards, and says it does not sell customer data. Buy only on the official site or in the app.",
           "What country is SHEIN from? SHEIN started in China and is headquartered in Singapore, according to the Financial Times. In February 2026, the founder said the company's roots are in Guangdong, according to the BBC and The Straits Times.",
+          "What does SHEIN sell? Women's, men's and kids' clothing, shoes, bags, jewellery, beauty products, home goods, electronics, toys and pet supplies, among other things. Some of it is SHEIN's own brand, and some comes from other suppliers.",
           "Who runs SHEIN in the US and the UK? In the US, SHEIN US Services, LLC. In the UK, Infinite Styles Services Co., Limited (“ISSL”). The group's site, sheingroup.com, belongs to Roadget Business Pte. Ltd., of Singapore.",
           "What is SHEIN's return policy? In the US, up to 30 days from delivery. In the UK, 14 days by law, counted from receipt, and most items up to 30 days after you receive them under SHEIN's policy. Lingerie, underwear and costume jewellery only within the 14 days.",
           "How do I know a SHEIN site is the official one? Buy only on your market's official site (us.shein.com in the US, shein.co.uk in the UK) or in the SHEIN app downloaded from your phone's official app store.",
@@ -64749,7 +64785,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "La legitimidad de SHEIN, qué empresa opera sus sitios de España y México, de qué país es, si es seguro pagar, el plazo de devolución, la aduana de la UE y qué revisar antes de pagar.",
+    "description": "La legitimidad de SHEIN, qué empresa opera sus sitios de España y México, de qué país es, qué vende, si es seguro pagar, el plazo de devolución, la aduana de la UE y qué revisar antes de pagar.",
     "metaDescription": "¿SHEIN es confiable y segura? Quién opera los sitios de España y México, de dónde es, el plazo de devolución, la aduana de la UE y qué revisar antes de pagar.",
     "publishedAt": "13 de octubre de 2026",
     "publishedAtISO": "2026-10-13",
@@ -64775,7 +64811,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quién opera SHEIN y de dónde es",
         "paragraphs": [
-          "SHEIN se describe como una minorista global en línea de moda y estilo de vida, que vende ropa de la marca SHEIN y productos de una red global de proveedores. SHEIN también dice que produce bajo demanda, en lotes pequeños.",
+          "SHEIN se describe como una minorista global en línea de moda y estilo de vida. También dice que produce bajo demanda, en lotes pequeños.",
           "Cada mercado tiene su propio sitio, y la política de privacidad de cada uno nombra a la empresa responsable. El sitio del grupo, sheingroup.com, es de Roadget Business Pte. Ltd., de Singapur.",
           "SHEIN nació en China, según el Financial Times. El 24 de febrero de 2026, en un evento del gobierno de Guangdong, el fundador, Xu Yangtian, dijo que la provincia es donde están las raíces de SHEIN, según la BBC y The Straits Times. Los tres reportajes dicen que la sede de la empresa está en Singapur."
         ],
@@ -64811,6 +64847,23 @@ export const reviewsData: unknown[] = [
             ]
           ]
         }
+      },
+      {
+        "heading": "Qué vende SHEIN",
+        "paragraphs": [
+          "SHEIN vende mucho más que ropa. Parte de los productos es de la marca SHEIN, y parte viene de una red global de proveedores. El 13 de octubre de 2026, los menús de los sitios de España y México tenían estas secciones:"
+        ],
+        "bullets": [
+          "Ropa de mujer, de hombre y de niños, talla grande, ropa interior y ropa para dormir.",
+          "Zapatos, bolsas y equipaje, bisutería y accesorios.",
+          "Belleza y salud, bebé y maternidad, deportes y aire libre.",
+          "Hogar, textiles para el hogar, herramientas y mejoras para el hogar, electrodomésticos y material escolar y de oficina.",
+          "Móviles y accesorios, electrónica, juguetes y juegos.",
+          "Productos para mascotas y accesorios para automóviles."
+        ],
+        "postParagraphs": [
+          "El sitio de España tiene además una sección llamada “Almacén UE”: el nombre se refiere a productos que están en un almacén de la Unión Europea."
+        ]
       },
       {
         "heading": "¿Es seguro pagar y qué hace SHEIN con tus datos?",
@@ -64881,6 +64934,7 @@ export const reviewsData: unknown[] = [
           "¿SHEIN es confiable? Sí. Es una tienda legítima, y el sitio de cada mercado tiene una empresa identificada detrás: Infinite Styles Services Co., Limited en España y “SHEIN”, con domicilio en la Ciudad de México, en México, según las políticas de privacidad.",
           "¿Es seguro pagar con tarjeta en SHEIN? SHEIN dice que sus sistemas y controles están alineados con los estándares ISO, NIST y PCI DSS, y que no vende datos de clientes. Compra solo en el sitio oficial o en la app.",
           "¿De qué país es SHEIN? SHEIN nació en China y tiene su sede en Singapur, según el Financial Times. En febrero de 2026, el fundador dijo que las raíces de la empresa están en Guangdong, según la BBC y The Straits Times.",
+          "¿Qué vende SHEIN? Ropa de mujer, de hombre y de niños, zapatos, bolsas, bisutería, belleza, hogar, electrónica, juguetes y productos para mascotas, entre otras cosas. Parte es de la marca SHEIN, y parte viene de otros proveedores.",
           "¿Quién opera SHEIN en España y en México? En España, Infinite Styles Services Co., Limited (“ISSL”). En México, “SHEIN”, con domicilio en Salamanca 87, Colonia Roma Norte, Ciudad de México. Para Argentina, Chile, Colombia, Perú y Ecuador, la política de privacidad de SHEIN Brasil cita a Fashion Choice Pte Ltd, de Singapur.",
           "¿Cuál es el plazo de devolución de SHEIN? En España, 14 días por ley desde la recepción, y la mayoría de los artículos hasta 30 días después de recibirlos según la política de SHEIN; lencería, ropa interior y bisutería solo dentro de los 14 días. En México, hasta 30 días desde la recepción. En Argentina, Chile, Colombia, Perú y Ecuador, revisa el plazo en el sitio de tu país.",
           "¿Hay aduana en los pedidos de SHEIN? En España, desde el 1 de julio de 2026, la UE cobra 3 € de derecho de aduana por categoría de producto en los pedidos de hasta 150 € enviados desde fuera de la UE directamente al consumidor. Esa regla no vale para México: revisa los impuestos de importación en el checkout antes de pagar.",
@@ -64930,7 +64984,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "La légitimité de SHEIN, qui exploite son site en France, de quel pays vient l'entreprise, s'il est sûr de payer, le délai de retour, la douane de l'UE et ce qu'il faut vérifier avant de payer.",
+    "description": "La légitimité de SHEIN, qui exploite son site en France, de quel pays vient l'entreprise, ce qu'elle vend, s'il est sûr de payer, le délai de retour, la douane de l'UE et ce qu'il faut vérifier avant de payer.",
     "metaDescription": "SHEIN est-il fiable et sûr ? Qui l'exploite en France, d'où vient l'entreprise, le délai de retour, la douane de l'UE et ce qu'il faut vérifier avant de payer.",
     "publishedAt": "13 octobre 2026",
     "publishedAtISO": "2026-10-13",
@@ -64956,7 +65010,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qui exploite SHEIN et d'où vient l'entreprise",
         "paragraphs": [
-          "SHEIN se décrit comme un détaillant mondial en ligne de mode et de lifestyle, qui vend des vêtements de la marque SHEIN et des produits issus d'un réseau mondial de fournisseurs. SHEIN dit aussi produire à la demande, en petits lots.",
+          "SHEIN se décrit comme un détaillant mondial en ligne de mode et de lifestyle. L'entreprise dit aussi produire à la demande, en petits lots.",
           "Chaque marché a son propre site, et la politique de confidentialité de chacun nomme la société responsable. En France, c'est Infinite Styles Services Co., Limited (« ISSL »). Le site du groupe, sheingroup.com, appartient à Roadget Business Pte. Ltd., de Singapour.",
           "L'entreprise est née en Chine, selon le Financial Times. Le 24 février 2026, lors d'un événement du gouvernement du Guangdong, le fondateur, Xu Yangtian, a dit que la province est l'endroit où se trouvent les racines de SHEIN, selon la BBC et The Straits Times. Les trois reportages indiquent que le siège de l'entreprise est à Singapour."
         ],
@@ -64967,6 +65021,23 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 2.8571
         }
+      },
+      {
+        "heading": "Ce que vend SHEIN",
+        "paragraphs": [
+          "SHEIN vend bien plus que des vêtements. Une partie des produits est de la marque SHEIN, et une partie vient d'un réseau mondial de fournisseurs. Le 13 octobre 2026, le menu de fr.shein.com comptait ces rubriques :"
+        ],
+        "bullets": [
+          "Vêtements pour femmes, hommes et enfants, grandes tailles, tenues de plage, sous-vêtements et vêtements de nuit.",
+          "Chaussures, sacs et bagages, bijoux et accessoires.",
+          "Beauté et santé, bébé et maternité, sports et extérieur.",
+          "Maison et habitat, linge de maison, outils et bricolage, appareils électroménagers et fournitures de bureau et scolaires.",
+          "Téléphones portables et accessoires, électronique.",
+          "Animaux de compagnie et automobile."
+        ],
+        "postParagraphs": [
+          "Le menu a aussi une rubrique « Entrepôt UE » : le nom renvoie à des produits stockés dans un entrepôt de l'Union européenne."
+        ]
       },
       {
         "heading": "Est-il sûr de payer, et que fait SHEIN de vos données ?",
@@ -65030,6 +65101,7 @@ export const reviewsData: unknown[] = [
           "SHEIN est-il fiable ? Oui, c'est une boutique légitime, avec une société identifiée derrière le site de chaque marché : en France, Infinite Styles Services Co., Limited, selon la politique de confidentialité du site.",
           "Est-il sûr de payer par carte sur SHEIN ? SHEIN affirme que ses systèmes et ses contrôles sont alignés sur les normes ISO, NIST et PCI DSS, et dit ne pas vendre les données de ses clients. N'achetez que sur le site officiel ou dans l'appli.",
           "De quel pays vient SHEIN ? L'entreprise est née en Chine et son siège est à Singapour, selon le Financial Times. En février 2026, le fondateur a dit que les racines de l'entreprise sont au Guangdong, selon la BBC et The Straits Times.",
+          "Que vend SHEIN ? Des vêtements pour femmes, hommes et enfants, des chaussures, des sacs, des bijoux, des produits de beauté, des articles pour la maison, de l'électronique et des articles pour animaux, entre autres. Une partie est de la marque SHEIN, et une partie vient d'autres fournisseurs.",
           "Qui exploite SHEIN en France ? Infinite Styles Services Co., Limited (« ISSL »), selon la politique de confidentialité du site. Le site du groupe, sheingroup.com, appartient à Roadget Business Pte. Ltd., de Singapour.",
           "Quel est le délai de retour chez SHEIN ? 14 jours de rétractation légale, à compter de la réception, et la plupart des articles jusqu'à 30 jours après la réception selon la politique de SHEIN. La lingerie, les sous-vêtements et les bijoux fantaisie ne se retournent que dans les 14 jours.",
           "Y a-t-il des frais de douane sur les commandes SHEIN ? Depuis le 1er juillet 2026, l'UE prélève un droit de douane de 3 € par catégorie de produit sur les commandes jusqu'à 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382).",
@@ -65079,7 +65151,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Wer SHEIN in Deutschland betreibt, woher das Unternehmen kommt, was SHEIN zu Ihren Daten sagt, wie die Rückgabe funktioniert, was der EU-Zoll von € 3 bedeutet, welches Verfahren und welche Mitteilung der EU-Behörden es zu SHEIN gibt und was Sie vor der Zahlung kontrollieren sollten.",
+    "description": "Wer SHEIN in Deutschland betreibt, woher das Unternehmen kommt, was SHEIN verkauft, was SHEIN zu Ihren Daten sagt, wie die Rückgabe funktioniert, was der EU-Zoll von € 3 bedeutet, welches Verfahren und welche Mitteilung der EU-Behörden es zu SHEIN gibt und was Sie vor der Zahlung kontrollieren sollten.",
     "metaDescription": "Ist SHEIN seriös und sicher? Betreiber in Deutschland, Herkunft, Daten, Rückgabefristen ab Erhalt, EU-Zoll von € 3, Verfahren und Mitteilung der EU-Behörden.",
     "publishedAt": "13. Oktober 2026",
     "publishedAtISO": "2026-10-13",
@@ -65104,7 +65176,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wer SHEIN betreibt und woher es kommt",
         "paragraphs": [
-          "SHEIN beschreibt sich als globalen Online-Händler für Mode und Lifestyle, der Kleidung der Marke SHEIN und Produkte aus einem weltweiten Netz von Lieferanten verkauft. Nach eigener Aussage produziert SHEIN bedarfsgesteuert („on demand“) in kleinen Chargen. Jeder Markt hat seine eigene Website, und die Datenschutzerklärung jeder Website nennt das verantwortliche Unternehmen.",
+          "SHEIN beschreibt sich als globalen Online-Händler für Mode und Lifestyle. Nach eigener Aussage produziert SHEIN bedarfsgesteuert („on demand“) in kleinen Chargen. Jeder Markt hat seine eigene Website, und die Datenschutzerklärung jeder Website nennt das verantwortliche Unternehmen.",
           "Laut der Datenschutzerklärung von de.shein.com (eingesehen am 12.10.2026) betreibt die Infinite Styles Services Co., Limited („ISSL“) die Website für Deutschland. Die Website der Unternehmensgruppe, sheingroup.com, gehört der Roadget Business Pte. Ltd. aus Singapur.",
           "Laut Financial Times ist SHEIN in China entstanden. Am 24. Februar 2026 sagte der Gründer, Xu Yangtian, bei einer Veranstaltung der Regierung der Provinz Guangdong, die Provinz sei der Ort, an dem die Wurzeln von SHEIN liegen, wie BBC und The Straits Times berichten. Alle drei Berichte halten fest, dass der Firmensitz in Singapur liegt."
         ],
@@ -65115,6 +65187,23 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 2.8571
         }
+      },
+      {
+        "heading": "Was SHEIN verkauft",
+        "paragraphs": [
+          "SHEIN verkauft weit mehr als Kleidung. Ein Teil der Produkte stammt von der Marke SHEIN, ein Teil aus einem weltweiten Netz von Lieferanten. Am 13.10.2026 hatte das Menü von de.shein.com diese Bereiche:"
+        ],
+        "bullets": [
+          "Damen-, Herren- und Kinderkleidung, große Größen, Bademode, Unterwäsche und Nachtwäsche.",
+          "Schuhe, Taschen und Gepäck, Schmuck und Accessoires.",
+          "Beauty und Gesundheit, Baby und Mutterschaft, Sport und Outdoor.",
+          "Haus und Wohnen, Heimtextilien, Werkzeug und Heimwerken, Haushaltsgeräte sowie Büro- und Schulbedarf.",
+          "Mobiltelefone und Zubehör, Elektronik, Spielzeug und Spiele.",
+          "Haustierzubehör und Autozubehör."
+        ],
+        "postParagraphs": [
+          "Im Menü gibt es außerdem den Bereich „Schneller Versand“: Der Name verweist auf einen schnelleren Versand."
+        ]
       },
       {
         "heading": "Ist Bezahlen bei SHEIN sicher, und was gilt für Ihre Daten?",
@@ -65177,6 +65266,7 @@ export const reviewsData: unknown[] = [
           "Ist SHEIN seriös? Ja, SHEIN ist ein echter Onlineshop. Laut der Datenschutzerklärung von de.shein.com betreibt die Infinite Styles Services Co., Limited („ISSL“) die Website.",
           "Ist es sicher, bei SHEIN mit Karte zu bezahlen? SHEIN gibt an, dass die Systeme und Kontrollen des Unternehmens an den Standards ISO, NIST und PCI DSS ausgerichtet sind. Bezahlen Sie nur auf der offiziellen Website de.shein.com oder in der SHEIN-App aus dem offiziellen App-Store Ihres Smartphones.",
           "Aus welchem Land kommt SHEIN? Laut Financial Times ist SHEIN in China entstanden, und das Unternehmen hat seinen Sitz in Singapur. Im Februar 2026 sagte der Gründer, die Wurzeln des Unternehmens lägen in Guangdong, wie BBC und The Straits Times berichten.",
+          "Was verkauft SHEIN? Unter anderem Damen-, Herren- und Kinderkleidung, Schuhe, Taschen, Schmuck, Beauty-Produkte, Artikel für Haus und Wohnen, Elektronik, Spielzeug und Haustierzubehör. Ein Teil stammt von der Marke SHEIN, ein Teil von anderen Lieferanten.",
           "Wer betreibt SHEIN in Deutschland? Laut der Datenschutzerklärung von de.shein.com (eingesehen am 12.10.2026) betreibt die Infinite Styles Services Co., Limited („ISSL“) die Website. Die Website der Unternehmensgruppe, sheingroup.com, gehört der Roadget Business Pte. Ltd. aus Singapur.",
           "Wie lange kann ich eine Bestellung bei SHEIN zurückgeben? Das gesetzliche Widerrufsrecht gilt 14 Tage ab Erhalt der Ware. Nach der Geschäftspolitik von SHEIN können die meisten Artikel bis zu 30 Tage nach Erhalt zurückgegeben werden, einige Artikel wie Lingerie, Unterwäsche und Modeschmuck nur innerhalb der 14 Tage.",
           "Muss ich bei SHEIN Zoll zahlen? Seit dem 1. Juli 2026 erhebt die EU € 3 Zoll pro Produktkategorie auf Sendungen im Wert von bis zu € 150, die von außerhalb der EU direkt an Verbraucher geschickt werden (Verordnung (EU) 2026/382). Prüfen Sie die Steuern und Einfuhrabgaben an der Kasse, bevor Sie bezahlen.",
@@ -65226,7 +65316,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Chi gestisce SHEIN in Italia, da dove viene, cosa dice dei tuoi dati, come funziona il reso, cosa significa il dazio UE di € 3, il procedimento e la notifica delle autorità UE e cosa controllare prima di pagare.",
+    "description": "Chi gestisce SHEIN in Italia, da dove viene, cosa vende, cosa dice dei tuoi dati, come funziona il reso, cosa significa il dazio UE di € 3, il procedimento e la notifica delle autorità UE e cosa controllare prima di pagare.",
     "metaDescription": "SHEIN è affidabile e sicuro? Gestore in Italia, origine, dati, termini di reso dal ricevimento, dazio UE di € 3, procedimento e notifica delle autorità UE.",
     "publishedAt": "13 ottobre 2026",
     "publishedAtISO": "2026-10-13",
@@ -65251,7 +65341,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Chi gestisce SHEIN e da dove viene",
         "paragraphs": [
-          "SHEIN si descrive come un rivenditore online globale di moda e lifestyle, che vende abbigliamento del marchio SHEIN e prodotti di una rete globale di fornitori. Dice di produrre su richiesta, in piccoli lotti. Ogni mercato ha il suo sito, e l'informativa sulla privacy di ciascuno indica l'azienda responsabile.",
+          "SHEIN si descrive come un rivenditore online globale di moda e lifestyle. Dice di produrre su richiesta, in piccoli lotti. Ogni mercato ha il suo sito, e l'informativa sulla privacy di ciascuno indica l'azienda responsabile.",
           "Per l'Italia, secondo l'informativa sulla privacy di it.shein.com (consultata il 12/10/2026), il sito è gestito da Infinite Styles Services Co., Limited («ISSL»). Il sito del gruppo, sheingroup.com, è di Roadget Business Pte. Ltd., di Singapore.",
           "Secondo il Financial Times, SHEIN è nata in Cina. Il 24 febbraio 2026, a un evento del governo del Guangdong, il fondatore, Xu Yangtian, ha detto che la provincia è dove si trovano le radici di SHEIN, secondo la BBC e The Straits Times. Tutti e tre i resoconti riportano che la sede dell'azienda è a Singapore."
         ],
@@ -65262,6 +65352,23 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 2.8571
         }
+      },
+      {
+        "heading": "Cosa vende SHEIN",
+        "paragraphs": [
+          "SHEIN vende molto più che abbigliamento. Una parte dei prodotti è del marchio SHEIN, un'altra arriva da una rete globale di fornitori. Il 13/10/2026 il menu di it.shein.com aveva queste sezioni:"
+        ],
+        "bullets": [
+          "Abbigliamento donna, uomo e bambini, taglie forti, biancheria intima e pigiameria.",
+          "Scarpe, borse e valigie, gioielli e accessori.",
+          "Salute e bellezza, neonati e premaman, sport e outdoor.",
+          "Casa e vita, tessili, articoli e migliorie per la casa e forniture per ufficio e scuola.",
+          "Cellulari e accessori, elettronica, giocattoli.",
+          "Prodotti per animali e automobile."
+        ],
+        "postParagraphs": [
+          "Nel menu c'è anche la sezione «Magazzino UE»: il nome indica prodotti che si trovano in un magazzino nell'Unione europea."
+        ]
       },
       {
         "heading": "Pagare su SHEIN è sicuro? E i tuoi dati?",
@@ -65324,6 +65431,7 @@ export const reviewsData: unknown[] = [
           "SHEIN è affidabile? Sì, SHEIN è un vero negozio online. Secondo l'informativa sulla privacy di it.shein.com, il sito è gestito da Infinite Styles Services Co., Limited («ISSL»).",
           "È sicuro pagare con carta su SHEIN? SHEIN dice che i suoi sistemi e controlli sono allineati agli standard ISO, NIST e PCI DSS. Paga solo sul sito ufficiale it.shein.com o nell'app di SHEIN scaricata dall'app store ufficiale del tuo telefono.",
           "Di che paese è SHEIN? Secondo il Financial Times, SHEIN è nata in Cina e ha sede a Singapore. A febbraio 2026 il fondatore ha detto che le radici dell'azienda sono nel Guangdong, secondo la BBC e The Straits Times.",
+          "Cosa vende SHEIN? Tra le altre cose, abbigliamento donna, uomo e bambini, scarpe, borse, gioielli, prodotti di bellezza, articoli per la casa, elettronica, giocattoli e prodotti per animali. Una parte è del marchio SHEIN, un'altra arriva da altri fornitori.",
           "Chi gestisce SHEIN in Italia? Secondo l'informativa sulla privacy di it.shein.com (consultata il 12/10/2026), il sito è gestito da Infinite Styles Services Co., Limited («ISSL»). Il sito del gruppo, sheingroup.com, è di Roadget Business Pte. Ltd., di Singapore.",
           "Quanto tempo ho per restituire un ordine di SHEIN? Il diritto di recesso previsto dalla legge è di 14 giorni dal ricevimento della merce. Secondo la politica commerciale di SHEIN, la maggior parte degli articoli si può restituire entro 30 giorni dal ricevimento; alcuni, come lingerie, intimo e bigiotteria, solo entro i 14 giorni.",
           "Devo pagare la dogana su SHEIN? Dal 1° luglio 2026 l'UE applica un dazio doganale di € 3 per categoria di prodotto sui pacchi di valore fino a € 150 spediti da fuori dell'UE direttamente al consumatore (Regolamento (UE) 2026/382). Controlla le imposte e i costi di importazione al checkout prima di pagare.",
@@ -65373,7 +65481,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "한국에서 SHEIN을 운영하는 회사, SHEIN이 어느 나라 회사인지, 개인정보에 대해 SHEIN이 밝힌 내용, 수령 후 60일 반품 기한, 결제 전에 확인할 것을 정리했습니다.",
+    "description": "한국에서 SHEIN을 운영하는 회사, SHEIN이 어느 나라 회사인지, SHEIN에서 파는 상품, 개인정보에 대해 SHEIN이 밝힌 내용, 수령 후 60일 반품 기한, 결제 전에 확인할 것을 정리했습니다.",
     "metaDescription": "SHEIN(쉬인)은 믿을 만하고 안전한가요? 한국 운영 회사, 어느 나라 회사인지, 개인정보, 수령 후 60일 반품, 결제 전에 확인할 것을 정리했습니다.",
     "publishedAt": "2026년 10월 13일",
     "publishedAtISO": "2026-10-13",
@@ -65397,7 +65505,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN을 운영하는 곳과 어느 나라 회사인지",
         "paragraphs": [
-          "SHEIN은 스스로를 패션과 라이프스타일을 다루는 글로벌 온라인 리테일러라고 소개하며, SHEIN 브랜드 의류와 전 세계 공급업체 네트워크의 상품을 판매한다고 밝힙니다. 또 수요에 맞춰 소량씩 생산한다고 말합니다. 시장마다 웹사이트가 따로 있고, 각 사이트의 개인정보 처리방침에 책임 회사가 적혀 있습니다.",
+          "SHEIN은 스스로를 패션과 라이프스타일을 다루는 글로벌 온라인 리테일러라고 소개합니다. 또 수요에 맞춰 소량씩 생산한다고 말합니다. 시장마다 웹사이트가 따로 있고, 각 사이트의 개인정보 처리방침에 책임 회사가 적혀 있습니다.",
           "한국에서는 kr.shein.com의 개인정보 처리방침(2026년 10월 12일 확인)에 따르면 싱가포르 회사인 Wonderflow Support Pte. Ltd.에서 사이트를 운영합니다. SHEIN 그룹의 사이트인 sheingroup.com은 싱가포르 Roadget Business Pte. Ltd.의 사이트입니다.",
           "파이낸셜 타임스에 따르면 SHEIN은 중국에서 시작했습니다. 2026년 2월 24일 광둥성 정부 행사에서 창업자 쉬양톈(Xu Yangtian)은 광둥성이 SHEIN의 뿌리가 있는 곳이라고 말했다고 BBC와 더 스트레이츠 타임스(The Straits Times)가 전했습니다. 세 보도 모두 회사의 본사가 싱가포르에 있다고 적었습니다."
         ],
@@ -65408,6 +65516,19 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 2.8571
         }
+      },
+      {
+        "heading": "SHEIN에서 파는 상품",
+        "paragraphs": [
+          "SHEIN은 옷만 파는 곳이 아닙니다. SHEIN 브랜드 상품도 있고, 전 세계 공급업체 네트워크에서 오는 상품도 있습니다. 2026년 10월 13일에 확인한 kr.shein.com 메뉴에는 다음 카테고리가 있었습니다."
+        ],
+        "bullets": [
+          "여성의류, 남성복, 여성 플러스 의류, 속옷 & 잠옷.",
+          "신발, 가방 & 러기지, 주얼리 & 액세서리.",
+          "뷰티 & 헬스, 스포츠 & 아웃도어.",
+          "홈 앤 리빙.",
+          "휴대폰 & 액세서리, 전자기기."
+        ]
       },
       {
         "heading": "SHEIN에서 결제해도 안전한가요? 개인정보는 어떻게 되나요?",
@@ -65463,6 +65584,7 @@ export const reviewsData: unknown[] = [
           "SHEIN(쉬인)은 믿을 수 있나요? 정식으로 운영되는 쇼핑몰이며, 시장별 사이트마다 개인정보 처리방침에 운영 회사가 나와 있습니다. 한국 사이트 kr.shein.com은 싱가포르의 Wonderflow Support Pte. Ltd.에서 운영합니다.",
           "SHEIN에서 카드로 결제해도 안전한가요? SHEIN은 시스템과 통제가 ISO, NIST, PCI DSS 표준에 맞춰져 있다고 밝힙니다. 공식 사이트 kr.shein.com이나 공식 앱에서만 결제하세요.",
           "SHEIN은 어느 나라 쇼핑몰인가요? 파이낸셜 타임스에 따르면 SHEIN은 중국에서 시작했고 본사는 싱가포르에 있습니다. 2026년 2월 창업자는 광둥성이 회사의 뿌리가 있는 곳이라고 말했다고 BBC와 더 스트레이츠 타임스가 전했습니다.",
+          "SHEIN에서는 무엇을 파나요? 한국 사이트 메뉴에는 여성의류, 남성복, 신발, 가방, 주얼리, 뷰티, 홈 앤 리빙, 스포츠 & 아웃도어, 휴대폰 & 액세서리, 전자기기가 있습니다. SHEIN 브랜드 상품도 있고, 다른 공급업체의 상품도 있습니다.",
           "한국에서 SHEIN을 운영하는 회사는 어디인가요? kr.shein.com의 개인정보 처리방침(2026년 10월 12일 확인)에 따르면 싱가포르의 Wonderflow Support Pte. Ltd.입니다. SHEIN 그룹의 사이트인 sheingroup.com은 싱가포르 Roadget Business Pte. Ltd.의 사이트입니다.",
           "SHEIN 반품 기한은 얼마나 되나요? kr.shein.com의 반품 정책(2026년 10월 12일 확인)에 따르면 수령 후 60일 이내입니다.",
           "SHEIN 사이트가 공식 사이트인지 어떻게 알 수 있나요? 한국 공식 사이트는 kr.shein.com이고, 앱은 휴대폰의 공식 앱 스토어에서 내려받은 SHEIN 앱입니다.",
@@ -65511,7 +65633,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN は信頼できるのか。日本のサイトの運営会社、どこの国の会社か、データの扱い、返品期限、関税、支払う前に確認することをまとめました。",
+    "description": "SHEIN は信頼できるのか。日本のサイトの運営会社、どこの国の会社か、何が買えるか、データの扱い、返品期限、関税、支払う前に確認することをまとめました。",
     "metaDescription": "SHEIN は信頼できる？日本のサイトの運営会社、どこの国の会社か、返品期限（購入日から40日）、関税、支払う前に確認することをまとめました。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
@@ -65535,7 +65657,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN の運営会社と、どこの国の会社か",
         "paragraphs": [
-          "SHEIN は、自社をファッションとライフスタイルのグローバルなオンライン小売企業だと説明しています。SHEIN ブランドの服と、世界中のサプライヤーのネットワークの商品を販売しています。また、需要に合わせて、小ロットで生産していると述べています。",
+          "SHEIN は、自社をファッションとライフスタイルのグローバルなオンライン小売企業だと説明しています。また、需要に合わせて、小ロットで生産していると述べています。",
           "マーケットごとにサイトがあり、各サイトのプライバシーポリシーに、そのサイトに責任を持つ会社の名前が書かれています。日本のサイト jp.shein.com では、それはシンガポールの Fashion Choice Pte. Ltd. です。グループのサイト sheingroup.com は、シンガポールの Roadget Business Pte. Ltd. のものです。",
           "どこの国の会社かは、報道ごとに分けて見ましょう。フィナンシャル・タイムズは、SHEIN は中国で生まれたと伝えています。BBC とストレーツ・タイムズ（The Straits Times）によると、2026年2月24日に広東省政府のイベントで、創業者の Xu Yangtian（許仰天）氏が、広東省は SHEIN のルーツがある場所だと語りました。この3つの報道は、いずれも会社の本社がシンガポールにあると伝えています。"
         ],
@@ -65546,6 +65668,20 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 2.8571
         }
+      },
+      {
+        "heading": "SHEIN で買えるもの",
+        "paragraphs": [
+          "SHEIN では、服以外の商品も売られています。SHEIN ブランドの商品もあれば、世界中のサプライヤーのネットワークから来る商品もあります。2026年10月13日の時点で、jp.shein.com のメニューには次のカテゴリーがありました。"
+        ],
+        "bullets": [
+          "レディース服、メンズ服、キッズ、レディースプラスサイズ、下着＆ルームウェア。",
+          "シューズ、バッグ＆リュック、ジュエリー＆アクセサリー。",
+          "美容と健康、ベビー＆マタニティ、スポーツ＆アウトドア。",
+          "ホーム＆インテリア、ホーム布製品、家庭用工具＆DIY、家電、オフィス＆学用品。",
+          "携帯電話＆周辺機器、電子機器、おもちゃ＆ゲーム。",
+          "ペット用品、カー用品。"
+        ]
       },
       {
         "heading": "支払いの安全性と、データの扱い",
@@ -65602,6 +65738,7 @@ export const reviewsData: unknown[] = [
           "SHEIN は信頼できますか？ 正規のお店です。日本のサイトの運営会社はシンガポールの Fashion Choice Pte. Ltd. で、サイトのプライバシーポリシーに会社名が書かれています。",
           "SHEIN でクレジットカード払いは安全ですか？ SHEIN は、システムと管理体制が ISO、NIST、PCI DSS の基準に沿っていると説明しています。公式サイトの jp.shein.com か、公式アプリストアからダウンロードしたアプリで買ってください。",
           "SHEIN はどこの国の会社ですか？ フィナンシャル・タイムズによると、SHEIN は中国で生まれ、本社はシンガポールにあります。2026年2月には、創業者が広東省は SHEIN のルーツがある場所だと語ったと、BBC とストレーツ・タイムズが報じました。",
+          "SHEIN では何が買えますか？ レディース服、メンズ服、キッズ服、シューズ、バッグ、アクセサリー、美容用品、インテリア、電子機器、おもちゃ、ペット用品などがあります。SHEIN ブランドの商品と、ほかのサプライヤーの商品があります。",
           "日本で SHEIN を運営しているのは誰ですか？ jp.shein.com のプライバシーポリシーによると、シンガポールの Fashion Choice Pte. Ltd. です。",
           "SHEIN の返品期限は何日ですか？ 日本のサイトでは、購入日から40日以内です。",
           "SHEIN で買うと関税はかかりますか？ 税関のカスタムスアンサーによると、課税価格の合計額が1万円以下の物品の輸入は、関税と消費税が免税されます。ただし、革製のカバン、ハンドバッグ、手袋など、編物製の衣類（Tシャツ、セーターなど）、スキー靴、革靴、本底（靴の底）が革製の履物類など、免税にならない物品があります。",
@@ -65651,7 +65788,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN 可靠嗎？整理 SHEIN 台灣站的營運公司、SHEIN 是哪個國家的公司、資料與付款安全、退貨期限，以及付款前要確認的事。",
+    "description": "SHEIN 可靠嗎？整理 SHEIN 台灣站的營運公司、SHEIN 是哪個國家的公司、SHEIN 賣什麼、資料與付款安全、退貨期限，以及付款前要確認的事。",
     "metaDescription": "SHEIN 可靠嗎？台灣站的營運公司、SHEIN 來自哪裡、資料與付款安全、收到商品後 15 天內的退貨規則，以及付款前要確認的事。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
@@ -65675,7 +65812,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN 由誰營運，是哪個國家的公司",
         "paragraphs": [
-          "SHEIN 形容自己是全球性的線上時尚與生活風格零售商，販售 SHEIN 品牌的服飾，也販售來自全球供應商網路的商品。SHEIN 表示，公司採取按需生產、小批量的方式。",
+          "SHEIN 形容自己是全球性的線上時尚與生活風格零售商，並表示公司採取按需生產、小批量的方式。",
           "每個市場都有各自的網站，各網站的隱私權政策都會寫明負責該網站的公司。台灣站 shein.tw 的公司是新加坡的 Fashion Choice Pte. Ltd.。集團網站 sheingroup.com 屬於新加坡的 Roadget Business Pte. Ltd.。",
           "關於 SHEIN 的來歷，每個說法都要對應各自的報導。《金融時報》報導，SHEIN 誕生於中國。2026 年 2 月 24 日，在廣東省政府的一場活動上，創辦人 Xu Yangtian（許仰天）表示廣東是 SHEIN 的根，這是 BBC 與《海峽時報》（The Straits Times）的報導。這三篇報導都寫到，公司總部位於新加坡。"
         ],
@@ -65686,6 +65823,20 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 2.8571
         }
+      },
+      {
+        "heading": "SHEIN 賣什麼",
+        "paragraphs": [
+          "SHEIN 賣的遠不只衣服。部分商品是 SHEIN 品牌，部分來自全球供應商網路。2026 年 10 月 13 日，台灣站 shein.tw 的選單有這些分類："
+        ],
+        "bullets": [
+          "女裝、男裝、童裝、大尺碼、內衣與睡衣。",
+          "鞋子、包包和行李箱、珠寶及配飾。",
+          "美妝與健康、母嬰用品、運動與戶外。",
+          "居家與生活、家紡、工具與家裝、家電、辦公和學習用品。",
+          "手機與手機配件、電子產品、玩具與遊戲。",
+          "寵物用品、汽車用品。"
+        ]
       },
       {
         "heading": "付款安全性與資料處理",
@@ -65742,6 +65893,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 可靠嗎？ SHEIN 是正規經營的商店，台灣站的營運公司是新加坡的 Fashion Choice Pte. Ltd.，公司名稱寫在網站的隱私權政策中。",
           "用信用卡在 SHEIN 付款安全嗎？ SHEIN 表示，公司的系統和管控措施與 ISO、NIST 及 PCI DSS 標準保持一致。請只在官方網站 shein.tw，或從官方應用程式商店下載的 App 上付款。",
           "SHEIN 是哪個國家的公司？ 根據《金融時報》的報導，SHEIN 誕生於中國，總部位於新加坡。2026 年 2 月，創辦人表示 SHEIN 的根在廣東，這是 BBC 與《海峽時報》的報導。",
+          "SHEIN 賣什麼？ 有女裝、男裝、童裝、鞋子、包包、珠寶配飾、美妝、居家用品、電子產品、玩具和寵物用品等。部分是 SHEIN 品牌，部分來自其他供應商。",
           "SHEIN 台灣站由誰營運？ 根據 shein.tw 的隱私權政策，是新加坡的 Fashion Choice Pte. Ltd.。",
           "SHEIN 台灣站的退貨期限是幾天？ 收到商品後 15 天內。",
           "怎麼確認 SHEIN 的網站是官方的？ 台灣站的網址是 shein.tw。App 請使用從手機官方應用程式商店下載的 SHEIN App。",
@@ -65790,7 +65942,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN 可靠吗？整理 SHEIN 新加坡站的运营公司、SHEIN 是哪个国家的公司、数据与付款安全、如何确认官方网站，以及购买前要确认的事。",
+    "description": "SHEIN 可靠吗？整理 SHEIN 新加坡站的运营公司、SHEIN 是哪个国家的公司、SHEIN 卖什么、数据与付款安全、如何确认官方网站，以及购买前要确认的事。",
     "metaDescription": "SHEIN 可靠吗？新加坡站的运营公司、SHEIN 来自哪里、数据与付款安全、如何确认官方网站，以及购买前要确认的事。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
@@ -65814,7 +65966,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SHEIN 由谁运营，是哪个国家的公司",
         "paragraphs": [
-          "SHEIN 把自己形容为全球性的线上时尚与生活方式零售商，销售 SHEIN 品牌的服装，也销售来自全球供应商网络的商品。SHEIN 表示，公司采用按需、小批量的方式生产。",
+          "SHEIN 把自己形容为全球性的线上时尚与生活方式零售商，并表示公司采用按需、小批量的方式生产。",
           "每个市场都有各自的网站，各网站的隐私政策都会写明负责该网站的公司。新加坡站 sg.shein.com 的公司是 Fashion Choice Pte. Ltd.。集团网站 sheingroup.com 属于新加坡的 Roadget Business Pte. Ltd.。",
           "关于 SHEIN 的来历，每个说法都要对应各自的报道。《金融时报》报道，SHEIN 诞生于中国。2026 年 2 月 24 日，在广东省政府的一场活动上，创始人 Xu Yangtian（许仰天）表示广东是 SHEIN 的根，这是 BBC 与《海峡时报》（The Straits Times）的报道。这三篇报道都写到，公司总部位于新加坡。"
         ],
@@ -65825,6 +65977,20 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 2.8571
         }
+      },
+      {
+        "heading": "SHEIN 卖什么",
+        "paragraphs": [
+          "SHEIN 卖的远不止衣服。部分商品是 SHEIN 品牌，部分来自全球供应商网络。2026 年 10 月 13 日，新加坡站 sg.shein.com 的菜单（英文）有这些分类："
+        ],
+        "bullets": [
+          "女装、男装、童装、大码女装（Curve）、内衣与睡衣、泳装与沙滩装。",
+          "鞋子、包袋与行李箱、珠宝与配饰。",
+          "美妆与健康、母婴、运动与户外。",
+          "家居与生活、家纺、工具与家装、家电、办公与学习用品。",
+          "手机与配件、电子产品、玩具与游戏。",
+          "宠物用品、汽车用品。"
+        ]
       },
       {
         "heading": "付款安全性与数据处理",
@@ -65881,6 +66047,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 可靠吗？ SHEIN 是正规经营的商店，新加坡站的运营公司是 Fashion Choice Pte. Ltd.，公司名称写在网站的隐私政策中。",
           "用信用卡在 SHEIN 付款安全吗？ SHEIN 表示，公司的系统和管控措施与 ISO、NIST 及 PCI DSS 标准保持一致。请只在官方网站 sg.shein.com，或从官方应用商店下载的 App 上付款。",
           "SHEIN 是哪个国家的公司？ 据《金融时报》报道，SHEIN 诞生于中国，总部位于新加坡。2026 年 2 月，创始人表示 SHEIN 的根在广东，这是 BBC 与《海峡时报》的报道。",
+          "SHEIN 卖什么？ 有女装、男装、童装、鞋子、包袋、珠宝配饰、美妆、家居用品、电子产品、玩具和宠物用品等。部分是 SHEIN 品牌，部分来自其他供应商。",
           "SHEIN 新加坡站由谁运营？ 根据 sg.shein.com 的隐私政策，是 Fashion Choice Pte. Ltd.。",
           "SHEIN 新加坡站的退货期限是多久？ 我们没有查阅新加坡站的退货政策，所以不给出天数。请在 sg.shein.com 上确认退货期限，以及它从哪一天开始计算。",
           "怎么确认 SHEIN 的网站是官方的？ 新加坡站的网址是 sg.shein.com。App 请使用从手机官方应用商店下载的 SHEIN App。",

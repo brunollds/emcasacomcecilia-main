@@ -414,3 +414,22 @@ Redigido em 12/10/2026 (Job 2: Claude), revisado no Job 3 por outro agente e con
 - `shein-busca-4cw5y.webp`: quadro da gravação do site móvel da SHEIN Brasil, sem teclado, recortado para tirar a camiseta com slogan político.
 
 **Gates (12/10/2026):** typecheck, eslint, `test:review-i18n` (10 famílias, as três da fase 4 inclusas), `validate:video`, `test-delivery-integration` e os testes de mídia verdes. O `validate:content` só acusa a oferta vencida da YesStyle (1010VIBES), que espera o PR do Bruno; a build completa e as provas de entrega rodam depois dele.
+
+---
+
+## Revisão de 13/10/2026: o que a SHEIN vende
+
+Pedido do Bruno: uma parte curta sobre o que a SHEIN vende e o que se encontra na loja, nas 10 versões.
+
+**Fonte:** o menu de categorias do cabeçalho da página inicial de cada site, lido em 13/10/2026 no navegador embutido, sem login e sem aceitar cookies, mais a página "Sobre nós" do site brasileiro (`br.shein.com/About-Us-a-117.html`): roupas da marca SHEIN e produtos de uma rede global de fornecedores. Sites lidos: br.shein.com, us.shein.com, shein.co.uk, es.shein.com, shein.com.mx, fr.shein.com, de.shein.com, it.shein.com, jp.shein.com, kr.shein.com, sg.shein.com e shein.tw. Itens de navegação que não são categoria ("Só para você", "Novo em", "Promoção") ficaram de fora.
+
+**Decisões do Bruno (13/10/2026):**
+- Texto do PT aprovado palavra por palavra: a seção "O que a SHEIN vende" entra logo depois de "Quem opera a SHEIN e de que país ela é", com uma frase de abertura, 6 bullets de categorias e uma linha sobre o Envio Nacional. A frase da marca própria e dos fornecedores sai do primeiro parágrafo de "Quem opera" e passa para a seção nova.
+- Um item novo no FAQ, depois de "de que país": "O que a SHEIN vende?".
+- A `description` ganha "o que ela vende"; `title`, `seoTitle` e `metaDescription` não mudam.
+- Sem imagem nova: a parte é curta, e o artigo já tem a capa e duas imagens no corpo.
+- As seções de envio local dos outros sites são citadas só pelo nome, sem prometer prazo, imposto nem preço: "Est. 3 Workdays" (Reino Unido), "Almacén UE" (Espanha), "Entrepôt UE" (França), "Schneller Versand" (Alemanha) e "Magazzino UE" (Itália).
+
+**Por versão:** cada uma lista o menu do site do seu mercado (en EUA e Reino Unido, es Espanha e México, zh-hans Singapura, zh-hant Taiwan, as outras o país do idioma). O que o menu de cada mercado não tem fica de fora, sem frase sobre a falta: a Coreia tem só 12 categorias (sem infantil, bebê, pets, brinquedos, ferramentas nem escritório), a França não tem brinquedos e a Itália não tem moda praia nem eletrodomésticos.
+
+**Gates (13/10/2026):** `build-index`, `validate:content`, `test:review-i18n` (120 versões em 12 famílias), `validate:video`, typecheck, lint e a build completa (com o `test:build-output`, que compara o FAQ com o `FAQPage`) verdes. No localhost, as 10 versões trazem a seção nova no sumário e a pergunta nova no acordeão e no `FAQPage`.
