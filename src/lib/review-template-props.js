@@ -17,32 +17,9 @@ import {
   getVideoPageUrl,
 } from '@/lib/video-pages';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import { isFaqHeading } from '@/lib/faqHeadings';
 
 export { getYoutubeEmbedUrl };
-
-// Títulos que fazem uma seção virar o FAQPage do schema. O Job 4 do vault diz qual usar em cada idioma.
-const FAQ_HEADINGS = [
-  'perguntas frequentes',
-  'faq',
-  'frequently asked',
-  'preguntas frecuentes',
-  'questions fréquentes',
-  'foire aux questions',
-  'häufige fragen',
-  'häufig gestellte',
-  'domande frequenti',
-  '자주 묻는',
-  'よくある',
-  '常見問題',
-  '常见问题',
-];
-
-/** @param {string | undefined} heading */
-export function isFaqHeading(heading) {
-  if (!heading) return false;
-  const h = heading.toLowerCase();
-  return FAQ_HEADINGS.some((fragment) => h.includes(fragment));
-}
 
 // Item do FAQ: a pergunta até o "?" ("？" em chinês e japonês) e a resposta logo depois.
 /** @param {string} bullet */

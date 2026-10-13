@@ -7,6 +7,7 @@ import { DropCapParagraph, EditorialReveal, PretextShrinkwrap, TopTenList } from
 import { COUPON_HIGHLIGHT_TERMS, HighlightCoupon } from './HighlightCoupon';
 import { CopyButton, CouponStoreLink } from '@/components/CouponComponents';
 import type { ContentSection } from '@/lib/content';
+import { isFaqHeading } from '@/lib/faqHeadings';
 import type { Locale } from '@/lib/i18n/locales';
 import { isCouponPageLink, isInternalLink } from '@/lib/internalLinks';
 import { ReputacaoMetricas, PadroesReclamacao } from './ReputacaoMetricas';
@@ -90,19 +91,7 @@ export function ReviewSectionContent({
       con: consItems[rowIndex]?.text,
     })
   );
-  const isFaq = Boolean(
-    section.heading &&
-      (section.heading.toLowerCase().includes('perguntas frequentes') ||
-        section.heading.toLowerCase().includes('faq') ||
-        section.heading.toLowerCase().includes('frequently asked') ||
-        section.heading.toLowerCase().includes('preguntas frecuentes') ||
-        section.heading.toLowerCase().includes('foire aux questions') ||
-        section.heading.toLowerCase().includes('häufig gestellte') ||
-        section.heading.toLowerCase().includes('자주 묻는') ||
-        section.heading.toLowerCase().includes('よくある') ||
-        section.heading.toLowerCase().includes('常見問題') ||
-        section.heading.toLowerCase().includes('常见问题'))
-  );
+  const isFaq = isFaqHeading(section.heading);
 
   const renderEmphasisBlock = (withImage: boolean = true) => (
     <div className={withImage && section.image ? 'my-6 grid grid-cols-1 gap-6 md:grid-cols-[1fr_200px] items-center' : 'my-6'}>

@@ -14,7 +14,7 @@ import { getShareCopy } from '../src/components/shared/shareCopy';
 import { cardDecorAt, couponCardDecorAt } from '../src/components/ui/cardDecor';
 import { brandLinks, socialMedias } from '../src/lib/brandLinks';
 import { CECILIA_FULL_NAME } from '../src/lib/ceciliaCredentials';
-import { inferReviewKind, type EditorialNoteData, type Recommendation } from '../src/lib/content';
+import { generateSectionIds, inferReviewKind, type EditorialNoteData, type Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
 import { getAllActiveCouponSlugs, getCouponBySlug, getCouponHubSections, getOtherActiveCoupons, getStoreCodeKind, type Coupon } from '../src/lib/couponsData';
 import {
@@ -24,6 +24,7 @@ import {
   getTranslatedCouponRoutes,
 } from '../src/lib/couponTranslations';
 import { publishedReviews, recipes } from '../src/lib/data';
+import { isFaqHeading } from '../src/lib/faqHeadings';
 import { getEventHubPage, getEventHubPaths, resolveActiveHomeEvent } from '../src/lib/homeEvents';
 import { getHomeLatest, getHomeStoreTabs, getStoreArticlePageSlugs, getStoreArticlesPage } from '../src/lib/homeStores';
 import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
@@ -572,6 +573,11 @@ const schemaTrailOf = (breadcrumbList: { itemListElement: Array<{ name: string; 
 // O nome que o leitor de tela dá a essa mesma trilha.
 const trailLabelOf = (html: string) =>
   decodeHtml(html.match(/<nav\b([^>]*)><ol\b/)?.[1].match(/aria-label="([^"]*)"/)?.[1] ?? '');
+// A <section> com este id, até o primeiro </section>; undefined se ela não estiver na página.
+const sectionIn = (html: string, id: string) => {
+  const tag = [...html.matchAll(/<section\b([^>]*)>/g)].find(([, attributes]) => attributes.includes(` id="${id}"`));
+  return tag && html.slice(tag.index, html.indexOf('</section>', tag.index));
+};
 
 // Os rótulos da nota editorial ("Nota editorial: …", "Editorial note: …") num trecho de HTML. A nota é
 // sempre um botão; a nota da margem, no desktop, é um <aside> com o rótulo nu.
@@ -843,6 +849,7 @@ const articleUrls = sitemapUrls.filter((url) => /\/reviews\/[^/]+$/.test(new URL
 assert.ok(articleUrls.length > 0, 'sitemap.xml sem artigos');
 let familyHeads = 0;
 let notedArticles = 0;
+let faqArticles = 0;
 for (const url of articleUrls) {
   const pagePath = new URL(url).pathname;
   const file = builtFile(url);
@@ -962,15 +969,36 @@ for (const url of articleUrls) {
   const bodySectionIds = new Set(getBodySections(review.contentSections ?? [], inferReviewKind(review)).map(({ id }) => id));
   for (const [index, note] of notes.entries()) {
     if (!note.anchor || !bodySectionIds.has(note.anchor)) continue;
-    const tag = [...body.matchAll(/<section\b([^>]*)>/g)].find(([, attributes]) => attributes.includes(` id="${note.anchor}"`));
-    assert.ok(tag, `${pagePath}: a seção ${note.anchor} da nota "${note.label}" não está na página`);
-    const section = body.slice(tag.index, body.indexOf('</section>', tag.index));
+    const section = sectionIn(body, note.anchor);
+    assert.ok(section, `${pagePath}: a seção ${note.anchor} da nota "${note.label}" não está na página`);
     assert.ok(
       editorialNoteLabelsIn(section).includes(noteLabels[index]),
       `${pagePath}: nota "${note.label}" fora da seção ${note.anchor}`
     );
   }
   if (notes.length) notedArticles++;
+
+  // O FAQPage repete, na mesma ordem, as perguntas do acordeão da seção de FAQ: o título decide os dois
+  // (isFaqHeading). Quando o acordeão tinha uma lista própria, sem os títulos em francês, alemão e
+  // italiano, essas perguntas saíam como lista comum. Nos guias, a seção de FAQ pode ser um passo.
+  const sectionIds = generateSectionIds(review.contentSections ?? []);
+  const visibleQuestions = (review.contentSections ?? [])
+    .filter(({ heading }) => isFaqHeading(heading))
+    .flatMap(({ heading }) => {
+      const id = sectionIds.get(heading);
+      const section = id && sectionIn(body, id);
+      assert.ok(section, `${pagePath}: a seção de FAQ "${heading}" não está na página`);
+      return [...section.matchAll(/<summary\b[^>]*>([\s\S]*?)<\/summary>/g)].map(([, question]) =>
+        textOf(question.replace(/<span\b[^>]*>\+<\/span>$/, ''))
+      );
+    });
+  const faqPage = jsonLdOf(html).find((schema) => schema['@type'] === 'FAQPage');
+  assert.deepEqual(
+    faqPage?.mainEntity.map(({ name }: { name: string }) => name) ?? [],
+    visibleQuestions,
+    `${pagePath}: FAQPage diferente das perguntas do acordeão`
+  );
+  if (visibleQuestions.length) faqArticles++;
 
   // O <head> de um artigo de família: canonical da própria página e hreflang dos 10 idiomas, com x-default no inglês.
   if (review.translationKey) {
@@ -1009,6 +1037,7 @@ for (const url of articleUrls) {
 }
 // Sem nenhum artigo com nota, a conferência da nota editorial passaria à toa.
 assert.ok(notedArticles > 0, 'nenhum artigo com nota editorial');
+assert.ok(faqArticles > 0, 'nenhum artigo com FAQ');
 
 // As receitas só existem em português; a trilha delas tem o mesmo nome da dos artigos.
 const recipeUrls = sitemapUrls.filter((url) => /^\/receitas\/[^/]+$/.test(new URL(url).pathname));
@@ -2534,5 +2563,5 @@ const cardsIn = (section: string) => {
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, a nota editorial de ${notedArticles}, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
 );
