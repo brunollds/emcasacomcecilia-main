@@ -3,8 +3,8 @@
   "slug": "shein-o-temu-cual-elegir",
   "locale": "es",
   "translationKey": "shein-vs-shopee-temu",
-  "title": "SHEIN o Temu: cómo elegir (devoluciones y qué revisar antes de comprar)",
-  "seoTitle": "SHEIN o Temu: cómo elegir, devoluciones y qué revisar",
+  "title": "SHEIN o Temu (y AliExpress): cómo elegir (envío, devoluciones y qué revisar antes de comprar)",
+  "seoTitle": "SHEIN o Temu y AliExpress: cómo elegir, envío y devoluciones",
   "type": "Guía comparativa",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,15 +15,15 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "SHEIN o Temu: lo que SHEIN publica sobre devoluciones en España y México, cómo elegir según lo que vayas a comprar, qué revisar antes de pagar y qué es el código de referido de SHEIN Brasil.",
-  "metaDescription": "SHEIN o Temu: cómo elegir. Las devoluciones de SHEIN en España y México (consultadas el 12/10/2026) y qué revisar antes de comprar. Sin comparación de precios.",
+  "description": "SHEIN o Temu (y AliExpress): el envío, el plazo de entrega y las devoluciones que publican SHEIN, Temu y AliExpress en España y México (consultados el 12 y el 13 de octubre de 2026), el arancel de 3 € de la UE, cómo elegir según lo que vayas a comprar y qué revisar antes de pagar. Sin comparación de precios.",
+  "metaDescription": "SHEIN o Temu (y AliExpress): envío, plazo de entrega y devoluciones que cada tienda publica en España y México (12 y 13/10/2026) y qué revisar antes de comprar.",
   "publishedAt": "13 de octubre de 2026",
   "publishedAtISO": "2026-10-13",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
-  "imageAlt": "Ilustración de una tabla vacía con las columnas SHEIN, Shopee, Temu y AliExpress y cinco filas marcadas con iconos: envío, plazo, devolución, impuesto y reputación",
+  "image": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+  "imageAlt": "Ilustración de una tabla con los logos de SHEIN, Temu y AliExpress en lo alto de las columnas y cinco filas marcadas con iconos: envío, plazo, devolución, impuesto y reputación",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -32,14 +32,14 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "No existe una tienda mejor para todo el mundo. La elección depende de lo que vayas a comprar y de cuánto te importe poder devolverlo, y cada tienda publica sus propias reglas en cada país. En España, SHEIN publica 14 días de desistimiento por ley, contados desde la recepción, y, según su política comercial, para la mayoría de los artículos hasta 30 días después de recibirlos. En México, publica hasta 30 días después de recibir el pedido. No leímos las reglas de Temu en tu país para este artículo.",
-        "Este artículo no mide precios ni prueba entregas. Lo de SHEIN sale de las políticas de sus sitios web, consultadas el 12 de octubre de 2026. AliExpress y Amazon también aparecen en búsquedas como esta, pero este artículo no las compara."
+        "No existe una tienda mejor para todo el mundo. La elección depende de lo que vayas a comprar y de cuánto te importe poder devolverlo. En España, Temu da 90 días desde la compra y AliExpress, 90 días desde el pedido si el vendedor envía desde el extranjero; SHEIN admite la mayoría de los artículos hasta 30 días después de recibirlos, con 14 días de desistimiento por ley. En México, Temu da 90 días desde la compra y SHEIN, hasta 30 días después de recibir el pedido.",
+        "Este artículo no mide precios ni prueba entregas. Las tablas reúnen lo que cada tienda publica en España y en México, consultado el 12 y el 13 de octubre de 2026. Amazon también aparece en búsquedas como esta, pero este artículo no la compara."
       ]
     },
     {
-      "heading": "Lo que SHEIN publica en España y México",
+      "heading": "SHEIN, Temu y AliExpress lado a lado en España",
       "paragraphs": [
-        "Fuente, consultada el 12 de octubre de 2026: las políticas de privacidad y de devolución del sitio de SHEIN en cada mercado."
+        "Fuentes, consultadas el 12 y el 13 de octubre de 2026: las políticas de privacidad, de envío y de devolución del sitio de SHEIN en España; las páginas de envío y devolución de Temu para España; la política de devolución de AliExpress y la página de producto de un vestido, con la entrega configurada para España. El sitio de SHEIN en España lo opera Infinite Styles Services Co., Limited (“ISSL”)."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-home-es-2026-10-12.webp",
@@ -48,40 +48,85 @@
         "objectFit": "contain"
       },
       "comparisonTable": {
-        "caption": "Empresa que opera el sitio de SHEIN y plazo de devolución en España y México, según las políticas de los sitios de SHEIN consultadas el 12 de octubre de 2026.",
+        "caption": "Envío, plazo de entrega y devolución que publican SHEIN, Temu y AliExpress para España, consultados el 12 y el 13 de octubre de 2026.",
         "headers": [
-          "Mercado",
-          "Empresa que opera el sitio",
-          "Devolución en SHEIN"
+          "Criterio",
+          "SHEIN",
+          "Temu",
+          "AliExpress"
         ],
         "rows": [
           [
-            "España",
-            "Infinite Styles Services Co., Limited (“ISSL”)",
-            "14 días de desistimiento por ley, contados desde la recepción. Según la política comercial de SHEIN, la mayoría de los artículos se puede devolver hasta 30 días después de recibirlos. La lencería, la ropa interior y la bisutería solo se devuelven dentro de los 14 días."
+            "Envío",
+            "Estándar: 3,90 € por debajo de 29 €, gratis desde 29 €. Exprés: 7,90 €",
+            "Estándar y punto de recogida gratis a partir del pedido mínimo: 10 € en el primero y 20 € en los siguientes",
+            "Gratis desde 10 € en el vestido que abrimos"
           ],
           [
-            "México",
-            "“SHEIN”, Salamanca 87, Colonia Roma Norte, Ciudad de México",
-            "Hasta 30 días después de recibir el pedido"
+            "Plazo de entrega",
+            "1 a 3 días de preparación. Estándar: 8 a 11 días laborables. Exprés: 7 a 10",
+            "En la página del producto; preparación en 1 a 3 días",
+            "Estimado en la página del producto: 7 a 12 días en el vestido que abrimos; reembolso si no llega en 35 días"
+          ],
+          [
+            "Devolución",
+            "14 días de desistimiento por ley, desde la recepción. La mayoría de los artículos, hasta 30 días después de recibirlos según SHEIN. La lencería, la ropa interior y la bisutería, solo dentro de los 14 días",
+            "14 días de desistimiento por ley, desde la recepción. 90 días desde la compra según Temu. La primera devolución de cada pedido es gratis; desde la segunda, pagas el envío de vuelta",
+            "90 días desde el pedido si el vendedor envía desde el extranjero. 30 días desde la entrega si el vendedor es local. El vestido mostraba devolución gratis dentro de 15 días"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "SHEIN, Temu y AliExpress lado a lado en México",
+      "paragraphs": [
+        "Fuentes, consultadas el 12 y el 13 de octubre de 2026: las páginas de envío y devolución del sitio de SHEIN en México (shein.com.mx); las páginas de envío y devolución de Temu para México; la política de devolución de AliExpress y el mismo vestido, con la entrega configurada para México."
+      ],
+      "comparisonTable": {
+        "caption": "Envío, plazo de entrega y devolución que publican SHEIN, Temu y AliExpress para México, consultados el 12 y el 13 de octubre de 2026.",
+        "headers": [
+          "Criterio",
+          "SHEIN",
+          "Temu",
+          "AliExpress"
+        ],
+        "rows": [
+          [
+            "Envío",
+            "Estándar gratis a partir de un monto mínimo, que aparece en el carrito",
+            "Estándar y punto de recogida gratis en todos los pedidos; pedido mínimo de MX$160 en el primero y de MX$240 en los siguientes",
+            "Gratis en el vestido que abrimos"
+          ],
+          [
+            "Plazo de entrega",
+            "1 a 3 días de preparación. La página daba el 72,75 % de las entregas en hasta 6 días hábiles para lo que sale de México y el 78,33 % en hasta 8 para lo que sale del extranjero",
+            "Estándar: 4 a 28 días hábiles. Punto de recogida: 4 a 16",
+            "Estimado en la página del producto: 8 a 13 días en el vestido que abrimos; reembolso si no llega en 45 días"
+          ],
+          [
+            "Devolución",
+            "Hasta 30 días después de recibir el pedido",
+            "90 días desde la compra. La primera devolución de cada pedido es gratis; desde la segunda, se descuentan MX$99 del reembolso",
+            "90 días desde el pedido si el vendedor envía desde el extranjero. 15 días desde la entrega si el vendedor es local. El vestido mostraba devolución gratis dentro de 15 días"
           ]
         ]
       },
       "postParagraphs": [
-        "No leímos la política de Temu en tu país, así que este artículo no dice nada sobre sus devoluciones ni sobre sus envíos allí. Antes de comprar, revisa las páginas de envío y devolución de la propia Temu."
+        "Las celdas de AliExpress de las dos tablas salen de un solo vestido, abierto con la entrega configurada para cada país: el plazo de entrega y la devolución gratis cambian de un artículo a otro, así que revísalos en la página del producto."
       ]
     },
     {
       "heading": "Impuestos y aduana",
       "paragraphs": [
-        "El impuesto de importación depende del país, y este artículo no trata las reglas de aduana. Antes de pagar, revisa en el checkout de cada tienda si el total ya incluye los impuestos, y compara esa cifra final, no solo el precio del artículo."
+        "En España, desde el 1 de julio de 2026, la UE aplica 3 € de derechos de aduana por categoría de producto a los pedidos de hasta 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Vale para cualquier tienda que envíe desde fuera de la UE, así que la aduana no decide entre SHEIN, Temu y AliExpress. La página de producto de AliExpress para España mostraba que el precio incluye el IVA y avisaba de que se aplican cargos de importación.",
+        "Antes de pagar, revisa en el checkout de cada tienda si el total ya incluye los impuestos, y compara esa cifra final, no solo el precio del artículo."
       ]
     },
     {
       "heading": "Cuál elegir, según lo que vayas a comprar",
       "bullets": [
         "**Quieres poder devolver con margen:** compara el plazo de devolución, no solo el precio.",
-        "**Lo necesitas para una fecha concreta:** revisa el plazo de entrega en la página del producto o en tu pedido.",
+        "**Lo necesitas para una fecha concreta:** revisa el plazo de entrega en la página del producto o en tu pedido. En AliExpress, la página del producto muestra la fecha estimada y el pedido se reembolsa si no llega en 35 días en España o en 45 en México.",
         "**El pedido viene del extranjero:** mira en el checkout el total con impuestos.",
         "**Vas a pagar con tarjeta, con billetera digital o a plazos:** revisa las formas de pago en el checkout de cada tienda."
       ]
@@ -110,7 +155,7 @@
     {
       "heading": "Colaboración y código de referido",
       "paragraphs": [
-        "Cecília es afiliada de SHEIN y de Temu y puede recibir una comisión por las compras hechas a través de los enlaces de este artículo, sin costo adicional para ti. Eso no cambia la respuesta: la elección depende de lo que vayas a comprar.",
+        "Cecília es afiliada de SHEIN, Temu y AliExpress y puede recibir una comisión por las compras hechas a través de los enlaces de este artículo, sin costo adicional para ti. Eso no cambia la respuesta: la elección depende de lo que vayas a comprar.",
         "4CW5Y es el código de referido de Cecília para SHEIN Brasil (el sitio y la app brasileños). Lo buscas en la barra de búsqueda de SHEIN, no en el campo del cupón, y puede que no valga en tu país. No es un cupón."
       ],
       "links": [
@@ -126,6 +171,11 @@
           "label": "Abrir Temu",
           "href": "https://temu.to/k/glfwht5gllj",
           "sponsored": true
+        },
+        {
+          "label": "Abrir AliExpress",
+          "href": "https://s.click.aliexpress.com/e/_c37RSyBR",
+          "sponsored": true
         }
       ]
     },
@@ -134,10 +184,12 @@
       "bullets": [
         "¿SHEIN o Temu: cuál es mejor? Ninguna es mejor para todo el mundo. Depende de lo que vayas a comprar y de cuánto te importe poder devolverlo: compara el plazo de devolución y el total en el checkout, no solo el precio.",
         "¿Cuál es más barato, SHEIN o Temu? Este artículo no mide precios. Compara el precio final de cada artículo, con envío e impuestos, a la hora de pagar en cada tienda.",
-        "¿Cuál llega más rápido, SHEIN o Temu? Este artículo no prueba entregas. Revisa el plazo de entrega en la página del producto y en tu pedido. No leímos las reglas de Temu en tu país.",
+        "¿Cuál llega más rápido, SHEIN o Temu? Este artículo no prueba entregas. En España, SHEIN publica de 8 a 11 días laborables para el envío estándar y Temu muestra el plazo en la página del producto. En México, Temu publica de 4 a 28 días hábiles para el envío estándar. Revisa la fecha en la página del producto y en tu pedido.",
         "¿Cuál es más seguro, SHEIN o Temu? Este artículo no da un veredicto. Mira nuestro artículo sobre SHEIN para saber quién opera la tienda y qué se sabe de su reputación.",
         "¿SHEIN y Temu son la misma empresa? No. Son tiendas distintas, cada una con sus propias reglas de envío, entrega y devolución.",
         "¿Cuánto tiempo tengo para devolver algo en SHEIN? En España, 14 días de desistimiento por ley, contados desde la recepción, y para la mayoría de los artículos hasta 30 días después de recibirlos según la política comercial de SHEIN. La lencería, la ropa interior y la bisutería solo se devuelven dentro de los 14 días. En México, hasta 30 días después de recibir el pedido.",
+        "¿Cuánto tiempo tengo para devolver algo en Temu? En España, 14 días de desistimiento por ley, contados desde la recepción, y 90 días desde la compra según la política de Temu. En México, 90 días desde la compra. La primera devolución de cada pedido es gratis; desde la segunda, en España pagas el envío de vuelta y en México se descuentan MX$99 del reembolso.",
+        "¿Cuánto tiempo tengo para devolver algo en AliExpress? 90 días desde el pedido si el vendedor envía desde el extranjero, tanto en España como en México. Con un vendedor local, 30 días desde la entrega en España y 15 en México. El vestido que abrimos mostraba devolución gratis dentro de 15 días.",
         "¿El código 4CW5Y es un cupón? No. Es el código de referido de Cecília para SHEIN Brasil. Lo buscas en la barra de búsqueda de SHEIN, y puede que no valga en tu país."
       ]
     }
@@ -150,7 +202,7 @@
   },
   "coupon": "4CW5Y",
   "affiliate": "shein",
-  "editorialNote": "Este artículo es editorial. Podemos recibir comisión por los enlaces de SHEIN y de Temu.",
+  "editorialNote": "Este artículo es editorial. Podemos recibir comisión por los enlaces de SHEIN, Temu y AliExpress.",
   "relatedArticles": [
     {
       "slug": "shein-es-confiable-y-seguro",

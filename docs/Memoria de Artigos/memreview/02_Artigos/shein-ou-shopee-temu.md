@@ -146,6 +146,7 @@ link para o artigo de credibilidade; esse artigo não responde pergunta com conc
   "frete", "prazo", "devolução", "imposto", "Reclame Aqui" (o leitor entende que é uma tabela de critérios).
   Evitar logos da Shopee, Temu e AliExpress (marca de terceiros sem licença) e a foto da Cecília (sugere teste).
   - **Aprovado pelo Bruno (12/10/2026).** Como a família sai em 10 idiomas, o gráfico não leva palavras nas linhas: ícones no lugar dos rótulos (caminhão para frete, relógio para prazo, seta para devolução, recibo para imposto, estrela para Reclame Aqui). O cabeçalho das colunas leva só o nome das lojas em texto simples, sem logo, igual em todas as línguas. Assim uma imagem serve às 10 versões. O card da vitrine corta a capa larga no meio, então o essencial fica no centro.
+  - **Superado em 13/10/2026 (Bruno):** a Cecília é afiliada das quatro lojas e o Bruno mandou os logos; a capa passa a levar os logos no cabeçalho das colunas, em três versões por conjunto de lojas. Ver "Revisão de 13/10/2026" no fim.
 - **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md). Nada sobe ao CDN sem o OK
   do Bruno.
 - **Imagens inline:** a tabela é texto. Sem print do Reclame Aqui nem das lojas.
@@ -194,7 +195,12 @@ esse bloco não é fonte. Os números das quatro foram lidos no mesmo dia; recon
 | Qualidade, tamanho, caimento, "a SHEIN é melhor em moda", "a Temu é para casa" | Opinião de Reddit e blogs | — | [ ] Não: nenhuma afirmação de qualidade ou de especialidade sem fonte oficial |
 | 4CW5Y: código de indicação da Cecília, pesquisado no app | `referral` do cupom `shein` em `couponsData.ts` (`verifiedAt` 2026-09-01) | — | [x] Sim, sem prometer benefício. Nenhum código de campanha da página da loja |
 
+> **13/10/2026:** o AliExpress (devolução, frete, prazo e imposto) e a frase da Temu sobre o imposto no reembolso
+> foram lidos; as linhas "não lido" acima ficam como histórico. Ver "Revisão de 13/10/2026" no fim.
+
 ### 6.3 Fora do Brasil
+> **Superado em 13/10/2026:** a Temu e o AliExpress de cada mercado foram lidos; ver "Revisão de 13/10/2026" no fim.
+
 Ver a seção 8. Em resumo: lido, só o lado da SHEIN em cada mercado (prazo de devolução, nos sites de cada
 país: França, Alemanha, Itália, Espanha, Reino Unido, EUA, México, Japão, Coreia do Sul e Taiwan; mesma tabela do
 artigo de credibilidade, seção 6.2). O lado dos concorrentes nesses mercados **não foi lido**: as páginas da
@@ -224,6 +230,10 @@ devolução grátis na Temu da UE; **não vale como fonte** até alguém abrir a
 - **Disclosure (`editorialNote`):** até 3 linhas, sem data. No PT, dizer que a Cecília ganha comissão da SHEIN, da
   Shopee e da Temu (não do AliExpress); nas traduções que citam a Temu, da SHEIN e da Temu; no zh-hant, só da SHEIN.
   Ex. PT: "Este artigo é editorial. A Cecília pode receber comissão pelos links da SHEIN, da Shopee e da Temu."
+- **Atualizado em 13/10/2026 (Bruno):** o AliExpress tem link de afiliado universal,
+  `https://s.click.aliexpress.com/e/_c37RSyBR`, com `rel="sponsored"`, **nos 10 idiomas** (copiar; nunca abrir nem
+  clicar). Disclosure: PT "SHEIN, Shopee, Temu e AliExpress"; en a zh-hans "SHEIN, Temu e AliExpress"; zh-hant
+  "SHEIN e AliExpress" (sem link da Shopee nem da Temu).
 
 ---
 
@@ -384,3 +394,56 @@ Redigido em 12/10/2026 (Job 2: Claude), revisado no Job 3 por outro agente e con
 **Imagens (no CDN desde 12/10/2026, com o OK do Bruno):** `shein-shopee-temu-aliexpress-criterios.webp` (capa, gráfico nosso com ícones Lucide, licença ISC); `shein-shopee-temu-prazo-devolucao.webp` (só no PT, gráfico nosso com os prazos das páginas das lojas lidas em 12/10/2026, barras proporcionais); as capturas `shein-home-*` no bloco de mercado das traduções.
 
 **Gates (12/10/2026):** typecheck, eslint, `test:review-i18n` (10 famílias, as três da fase 4 inclusas), `validate:video`, `test-delivery-integration` e os testes de mídia verdes. O `validate:content` só acusa a oferta vencida da YesStyle (1010VIBES), que espera o PR do Bruno; a build completa e as provas de entrega rodam depois dele.
+
+## Revisão de 13/10/2026 (família inteira)
+
+**Pedidos do Bruno:** tirar o "não lido" do AliExpress e escrever as regras dele com dados reais; pôr os logos das
+quatro lojas. A Cecília é afiliada das quatro; a Shopee só no Brasil.
+
+**Decisões do Bruno (13/10/2026):**
+- Baixar as 12 imagens da política de devolução do AliExpress (o texto da política é desenhado em imagens), só para
+  leitura, fora do repositório; apagadas depois da revisão.
+- Completar por país: cada versão traz o envio, o prazo e a devolução da Temu e do AliExpress do seu mercado.
+- en compara no Reino Unido; dos EUA fica só a devolução da SHEIN. A Temu dos EUA redireciona para o Brasil pelo
+  IP, e o `aliexpress.us` mostrou verificação de robô (paramos ali, sem interagir).
+- zh-hant: SHEIN, 蝦皮 (sem link) e AliExpress; sem Temu, que não tem site de Taiwan nem de Hong Kong.
+- zh-hans cobre Singapura e Malásia, e es cobre Espanha e México, com uma tabela por país.
+- Link do AliExpress universal nos 10 idiomas (seção 7).
+- Logos: AliExpress, Shopee e Temu enviados pelo Bruno; o da SHEIN é o de `public/images/about/partners/shein.webp`,
+  invertido (nome branco sobre preto, como no ícone do app).
+- Upload das quatro imagens novas ao CDN com o OK do Bruno.
+
+**Fontes lidas em 13/10/2026 (navegador embutido, sem login, formulário nem carrinho):**
+- AliExpress: a política de devolução e reembolso (link do rodapé) e a página de produto de um vestido (item
+  1005006853596517) com o país de entrega trocado pelo seletor "Enviar para" (preferência do site, sem conta): Brasil,
+  Reino Unido, Espanha, França, Alemanha, Itália, México, Japão, Coreia, Singapura, Malásia e Taiwan. No Brasil, mais
+  duas peças do Choice e o bloco de tributos da página de produto. O artigo da central de ajuda sobre o prazo de entrega pediu login e não foi lido.
+- Temu: `shipping-info.html` e `return-and-refund-policy.html` de cada país (Brasil, Reino Unido, Alemanha, França,
+  Espanha, Itália, México, Japão, Coreia, Singapura e Malásia), na versão pública de primeiro acesso.
+- SHEIN: `Shipping-Info-a-280.html` de cada mercado; `Return-Policy-a-281.html` de Singapura e Malásia.
+- 蝦皮: artigo 79943 da central de ajuda (`help.shopee.tw`), sobre 退貨退款 e o 鑑賞期.
+
+**Regras que valem para a família:**
+- As tabelas dos artigos são a fonte dos números. Cada célula do AliExpress vem do vestido aberto naquele país, e o
+  texto diz isso; o prazo e a devolução grátis mudam de peça para peça.
+- AliExpress, política por país: Reino Unido, Alemanha, França, Itália, Japão e México, vendedor local 15 dias após a
+  entrega e transfronteiriço 90 dias após o pedido; Espanha, local 30 dias; Coreia, 7 dias para desistir e 3 meses com
+  defeito; Singapura, Malásia e Taiwan, 15 dias após a entrega. Brasil: 7 dias para desistir, 30 (bens não duráveis)
+  ou 90 (duráveis) com defeito; a página das peças mostrava devolução grátis até 15 dias. O gráfico do PT usa os 7 dias
+  da política; o texto explica os 15.
+- Imposto no Brasil: o AliExpress publica na página de produto a mesma regra da SHEIN e da Shopee. A Temu não publica
+  a alíquota nas páginas de envio e de devolução e diz que o imposto de importação não volta no reembolso.
+- Fora do Brasil, só o que as lojas publicam: SHEIN do Reino Unido (o cliente não lida com a alfândega), SHEIN de
+  Taiwan (pode haver imposto; EZ WAY 易利委) e a linha de IVA ou de imposto da página do AliExpress. Nada de imposto
+  da Temu fora do Brasil.
+- O processamento da Temu (1 a 3 dias) vai ao lado do prazo, sem dizer que se soma a ele: a página não diz.
+- Nenhum cupom de compensação por atraso do AliExpress entra no texto.
+
+**Imagens novas (no CDN desde 13/10/2026, com o OK do Bruno; gráficos nossos com os logos das lojas):**
+- `shein-shopee-temu-aliexpress-logos.webp` (capa do PT), `shein-temu-aliexpress-logos.webp` (capa de en, es, fr,
+  de, it, ja, ko e zh-hans) e `shein-shopee-aliexpress-logos.webp` (capa do zh-hant): a tabela com ícones da capa
+  anterior, com os logos no cabeçalho, 1600×900.
+- `shein-shopee-temu-aliexpress-prazo-devolucao.webp` (PT): o gráfico de devolução com a barra do AliExpress,
+  1200×800 (`aspectRatio` 1.5), na Montserrat do site.
+- As imagens anteriores (`…-criterios.webp` e `shein-shopee-temu-prazo-devolucao.webp`) ficam no repositório e no
+  CDN, sem referência.
