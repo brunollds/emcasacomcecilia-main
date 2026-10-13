@@ -46,13 +46,27 @@
         "A tabela traz as medidas da roupa estendida, em centímetros. A Insider não publica tabela de medidas do corpo por tamanho (tórax ou cintura de quem veste), nem equivalência com L, XL ou 42. Cada linha tem a sua tabela, e as colunas mudam: a camiseta masculina mostra altura, largura e manga; a feminina acrescenta o busto; a cueca mostra cintura, quadril e barra.",
         "As perguntas frequentes de várias páginas dizem que a camiseta vai \"do pp ao xxgg\", inclusive em peças que param no XGG. Vale a lista de tamanhos que aparece no próprio produto.",
         "Este guia traz camiseta, cueca, calcinha Brief e undershirt. Outras linhas, como Tech Heavy, Sportee, Performance T-Shirt 2.0 e The Perfect Top, têm tabela própria na página do produto."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/insider/insider-guia-de-medidas-menu.webp",
+        "alt": "Menu de tamanho da página da Tech T-Shirt da Insider, com Assistente de Tamanho Inteligente, Provador Virtual, Tabela de Medidas da Peça em destaque e Compare entre peças Insider",
+        "caption": "O menu \"Ficou com dúvidas sobre o seu tamanho?\" na página da Tech T-Shirt, aberto em 13/10/2026. O destaque em amarelo é nosso.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3287
+      }
     },
     {
       "heading": "Como medir uma camiseta sua e comparar",
       "paragraphs": [
         "Use uma camiseta que você já lavou e de que gosta do caimento. O método é o que a Insider descreve nas tabelas."
       ],
+      "image": {
+        "src": "/images/reviews/insider/insider-como-medir-camiseta.webp",
+        "alt": "Desenho de uma camiseta masculina e uma feminina deitadas, com setas de altura, largura na barra e manga e, na feminina, a linha do busto",
+        "caption": "Com a peça deitada: altura em verde, largura na barra em laranja e manga em amarelo. Na feminina, a linha tracejada é o busto.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "bullets": [
         "Estenda a peça numa mesa, lisa e sem esticar, com a frente para cima.",
         "Altura: do ponto mais alto da peça, sem contar a gola, até a barra.",
@@ -139,6 +153,13 @@
       "paragraphs": [
         "A Insider descreve a feminina como de \"caimento levemente ajustado, sem comprimir\". A tabela vai do PP ao XGG e mede o busto na altura do busto e a largura na parte mais baixa da peça."
       ],
+      "image": {
+        "src": "/images/reviews/insider/insider-tabela-medidas-tech-t-shirt-feminina.webp",
+        "alt": "Tabela oficial de medidas da Tech T-Shirt feminina da Insider, com o desenho da camiseta e altura, busto, largura e manga do PP ao XGG",
+        "caption": "Fonte: Insider, insiderstore.com.br, consultado em 12/10/2026. Tabela oficial da Tech T-Shirt feminina.",
+        "objectFit": "contain",
+        "aspectRatio": 2.0759
+      },
       "comparisonTable": {
         "caption": "Tabela oficial da Tech T-Shirt feminina (gola redonda), em cm, com a peça deitada. Consultada em 12/10/2026.",
         "headers": ["Tamanho", "Altura", "Busto", "Largura", "Manga"],
@@ -214,7 +235,8 @@
           "src": "/images/reviews/insider/insider-tabela-medidas-cueca-comfort-performance.webp",
           "alt": "Tabela oficial de medidas da cueca Comfort da Insider, com o desenho da cueca e cintura, quadril e barra do PP ao XXGG",
           "caption": "Fonte: Insider, insiderstore.com.br, consultado em 12/10/2026. Tabela oficial da cueca Comfort, igual à da Performance.",
-          "objectFit": "contain"
+          "objectFit": "contain",
+          "aspectRatio": 2.0759
         }
       ],
       "comparisonTable": {

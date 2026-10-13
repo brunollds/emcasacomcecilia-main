@@ -372,3 +372,12 @@ domínio em 04/03/2027) em janeiro de 2027.
 - Pendências da seção 11 resolvidas em 12/10/2026: o RDAP do registro.br dá a Magazine Luiza S/A como titular do domínio desde 2011; o programa tem perfil próprio no Reclame Aqui (Não Recomendada, 55 reclamações no período e nenhuma respondida, perfil não verificado), e as reclamações recentes ali são de quem tem loja. O Magalu tem RA1000 (dados de 01/04 a 30/09/2026). O WhatsApp oficial da Lu foi lido na central de atendimento.
 - Ficaram de fora, por decisão do Bruno: o aviso do rodapé, a FAQ do "Retira loja" e o login de comprador.
 - Revisão Job 3 (12/10/2026): aprovado com ajustes; aplicados os 21 itens (central de ajuda dos influenciadores citada pelo nome, "Vendido e entregue por" atribuído à central do Magalu, formato do endereço da loja, códigos só no navegador, WhatsApp "depende de quem está do outro lado").
+
+## Retrofit de imagens (13/10/2026)
+
+Fase 2 do retrofit pedido pelo Bruno em 12/10/2026; folha de contato aprovada por ele em 13/10/2026. Origem em `midia-staging\2026-10-13-retrofit-fase2\ORIGEM.md`.
+
+- Capa nova: `/images/reviews/magalu/magazine-voce-loja-emcasacomcecilia-produto.webp`, 1352×757, print do Bruno de 13/10/2026 de uma página de produto na loja da Cecília, com o selo Influenciador Magalu e "Vendido e entregue por Magalu", cortado antes do botão do WhatsApp. Mostra o preço do dia, que envelhece. A capa anterior continua no CDN e no Git.
+- "Como saber se o link é oficial: checklist": `magazine-voce-endereco-e-selo.webp`, print do Bruno com a barra de endereço e o topo da loja, sem login e sem CEP; o contorno no endereço e o marca-texto no selo são nossos.
+- "O que o Reclame Aqui mostra": `reclame-aqui-magazine-luiza-loja-online-6-meses-2026-10-13.webp`, print do Bruno da coluna Desempenho do perfil Magazine Luiza - Loja Online (dados de 01/04 a 30/09/2026). Os números do texto passaram aos do print: 54.989 reclamações e 29.012 avaliadas (eram 54.992 e 28.975 na leitura de 12/10). O perfil "Influenciador Magalu (Magazine Você)" fica sem print, por decisão do Bruno: a Magazine Luiza não responde nele e as reclamações são de quem tem loja.
+- O RDAP do registro.br não virou imagem: a resposta traz o nome e o e-mail de uma pessoa e o IP de quem consulta, e o aviso do Nic.br proíbe reproduzir os dados. O texto segue citando titular, CNPJ e datas.

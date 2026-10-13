@@ -19,7 +19,7 @@
   "publishedAtISO": "2026-10-12",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/nutren/nutren-linha-senior-protein-control-active.webp",
+  "image": "/images/reviews/nutren/nutren-linha-senior-protein-control-active-v2.webp",
   "imageAlt": "Latas de Nutren Senior Sem Sabor 740 g, Nutren Protein Baunilha 400 g, Nutren Control Baunilha 380 g e Nutren Active Chocolate 400 g lado a lado",
   "imageFit": "contain",
   "imageAspect": "landscape",
@@ -29,7 +29,7 @@
     {
       "heading": "Resposta rápida: qual Nutren é para quem",
       "paragraphs": [
-        "Não existe \"o melhor Nutren\": cada linha tem um público definido pela própria Nestlé. Comparamos só rótulos e páginas oficiais, lidos em 12/10/2026, sem teste próprio."
+        "Não existe \"o melhor Nutren\": cada linha tem um público definido pela própria Nestlé. Comparamos só os dados oficiais, sem teste próprio."
       ],
       "bullets": [
         "Nutren Senior: linha para adultos acima dos 50 anos.",
@@ -74,7 +74,8 @@
           "src": "/images/reviews/nutren/nutren-senior-linha-hero.webp",
           "alt": "Linha Nutren Senior: cápsulas A-Z, lata de 740 g Zero Lactose Sem Sabor, lata Premium de 370 g e embalagem pronta de 200 ml sabor chocolate",
           "caption": "A linha Nutren Senior. Imagem oficial da Nestlé Nutre.",
-          "objectFit": "contain"
+          "objectFit": "contain",
+          "aspectRatio": 3.1779
         }
       ],
       "postParagraphs": [
@@ -93,6 +94,13 @@
         "O Nutren Protein em pó é um suplemento \"com Whey Protein, Cafeína e 20 vitaminas e minerais\", em baunilha e chocolate (400 g; o de 800 g só em baunilha). Na porção de 31,5 g são 14 g de proteína e 80 mg de cafeína; os 20 g do destaque valem com 180 ml de leite desnatado. A página indica \"para jovens e adultos que querem mais foco e energia no dia a dia corrido\" e avisa que ele \"não deve ser consumido por gestantes, lactantes e crianças\". O FAQ diz que contém lactose e glúten.",
         "A garrafa pronta de 260 ml é outro produto: 15 g de proteína, 112 kcal e lactose 0 g na tabela, que não traz linha de cafeína. Nenhum dos dois é o Nutren Just Protein, o whey isolado sem sabor da Nestlé. A comparação com whey e com a YoPRO está no nosso guia do Nutren Protein."
       ],
+      "image": {
+        "src": "/images/reviews/nutren/nutren-protein-po-e-pronto-para-beber-oficial.webp",
+        "alt": "Lata de Nutren Protein Baunilha 400 g em pó ao lado da garrafa de Nutren Protein Chocolate 260 ml pronta para beber",
+        "caption": "O Nutren Protein em pó, lata de 400 g, e a garrafa pronta de 260 ml, que é outro produto. Fotos oficiais da Nestlé Nutre.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "links": [
         {
           "label": "Nutren Protein ou whey protein: como escolher pelo rótulo, com YoPRO e Nutren Senior",
@@ -105,6 +113,20 @@
       "paragraphs": [
         "A indicação da Nestlé para o Control é esta: \"para o manejo dietético de pessoas com necessidades especiais no metabolismo de açúcares\", com a recomendação de \"consumir preferencialmente sob orientação de nutricionista ou médico\". A página do produto diz que ele é isento de sacarose, frutose, glicose e lactose, e a tabela traz esses quatro com 0 g. Mesmo assim, ela mostra 5 g de açúcares totais, 4,8 g deles adicionados, na porção de 42 g do pó, e 4,6 g, todos adicionados, na embalagem pronta de 200 ml.",
         "O rótulo da lata de 380 g dá o preparo: 5 colheres de sopa (42 g) em um copo com 50 ml de água, misturar até formar uma pasta cremosa e juntar mais 130 ml de água. A lata destaca caseinato e whey protein como proteínas. O rótulo diz que o pó não contém glúten e contém derivados de leite e soja, e o FAQ diz o mesmo do glúten no pronto. O rótulo ainda avisa que o pó é para adultos e não é adequado como única fonte de nutrição. Leve a tabela ao médico ou nutricionista antes de escolher."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/nutren/nutren-control-baunilha-380g-oficial.webp",
+          "alt": "Lata de Nutren Control Baunilha 380 g",
+          "caption": "Nutren Control Baunilha, lata de 380 g. Foto oficial da Nestlé Nutre.",
+          "objectFit": "square"
+        },
+        {
+          "src": "/images/reviews/nutren/nutren-control-modo-de-preparo-rotulo.webp",
+          "alt": "Lateral da lata de Nutren Control com o modo de preparo: 5 colheres de sopa com 50 ml de água, misturar até formar uma pasta e adicionar mais 130 ml de água",
+          "caption": "O modo de preparo no rótulo da lata de 380 g. Foto oficial da Nestlé Nutre.",
+          "objectFit": "square"
+        }
       ]
     },
     {
@@ -112,7 +134,14 @@
       "paragraphs": [
         "A Nestlé descreve o Active como complemento alimentar \"para jovens e adultos que precisam de mais energia e disposição para encarar a rotina agitada\". A diferença para o Senior, na resposta da própria marca: \"Nutren Active foi feito para jovens e adultos e Nutren Senior para pessoas com mais de 50 anos\".",
         "A lata tem 400 g, em baunilha, chocolate e morango. Na porção de 31,5 g da baunilha são 7,5 g de proteína, ou 14 g com 180 ml de leite desnatado. O FAQ diz que o Active contém lactose e glúten e que ele não pode ser fervido: se quiser quente, junte leite quente."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/nutren/nutren-active-chocolate-400g-oficial.webp",
+        "alt": "Lata de Nutren Active sabor chocolate, 400 g",
+        "caption": "Nutren Active Chocolate, lata de 400 g. A tabela deste guia é a da baunilha. Foto oficial da Nestlé Nutre.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3333
+      }
     },
     {
       "heading": "O que mais existe na linha e não entra na tabela",
