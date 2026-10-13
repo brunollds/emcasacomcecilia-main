@@ -202,3 +202,11 @@ Revisão manual de imagens concluída com 7 assets reais enviados pelo Bruno (3 
 | Nespresso e Dolce Gusto usam cápsulas incompatíveis entre si | Fato de conhecimento geral do mercado | Formato de cápsula proprietário de cada sistema, sem necessidade de fonte específica | — | 2026-08-24 | [x] Aprovado |
 | Imagem `AT_Machine_Manual_Doc_1.png` mostra as 3 máquinas brasileiras | Identificação de imagem | Nenhuma — contagem de cores por modelo não bate com o mercado BR | — | 2026-08-24 | [x] Rejeitado — imagem descartada do artigo |
 | Screenshot `genio-s-trio-oficial-cores.webp` mostra Basic/Plus/Touch oficiais | Identificação de imagem | Sem URL/fonte registrada; cores batem com a tabela de cores já aprovada no artigo (branco=Basic, vermelho=Plus, prata=Touch) | — | 2026-08-24 | [x] Aprovado como evidência indireta — usado só na galeria, não no capítulo 1 |
+
+## Correção da bandeja de metal (13/10/2026)
+
+Aprovada pelo Bruno em 13/10/2026. Conferida no comparativo da loja oficial (`https://www.nescafe-dolcegusto.com.br/maquinas-cafe/comparativo/`) e no quadro de recursos da página da Genio S Plus na Arno, no mesmo dia: a bandeja de metal vem na Genio S Plus e na Genio S Touch; a Basic não tem.
+
+- O bullet do painel deixou de dizer que a Touch "adiciona bandeja metálica" e passou a dizer que a bandeja vem na Plus e na Touch.
+- O veredito da Plus ganhou a bandeja de metal; o da Touch perdeu a bandeja como diferencial.
+- A FAQ Plus × Touch diz que as duas têm bandeja de metal.

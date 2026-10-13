@@ -35793,7 +35793,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Dimensões (A x L x P)",
-        "value": "27,2 cm (A) x 12,1 cm (L) x 28,1 cm (P)"
+        "value": "27,2 cm (A) x 11,2 cm (L) x 28,6 cm (P)"
       },
       {
         "key": "Reservatório de água",
@@ -35805,7 +35805,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Preço oficial",
-        "value": "R$ 979,90 por R$ 599,90 (verificado em 23 Jul 2026)"
+        "value": "R$ 979,90 por R$ 799,90 (verificado em 13 Out 2026)"
       },
       {
         "key": "Cupom de desconto",
@@ -35856,7 +35856,9 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [],
         "image": "/images/reviews/dolcegusto/genio-s-touch-dimensoes.webp",
-        "imageAlt": "Esquema oficial de dimensões da NESCAFÉ Dolce Gusto Genio S Touch: 27,2 cm de altura, 12,1 cm de largura e 28,1 cm de profundidade"
+        "imageAlt": "Esquema de dimensões da Arno para a NESCAFÉ Dolce Gusto Genio S Touch: 27,2 cm de altura, 12,1 cm de largura e 28,1 cm de profundidade",
+        "imageCaption": "Esquema da Arno, a fabricante, com 12,1 cm de largura e 28,1 cm de profundidade. O comparativo da loja oficial informa 11,2 cm e 28,6 cm.",
+        "imageFit": "square"
       },
       {
         "heading": "O painel touch, na prática",
@@ -35939,7 +35941,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e como comprar",
         "paragraphs": [
-          "No site oficial, a Genio S Touch Prata (127V) estava saindo por R$ 599,90, de R$ 979,90 (preço verificado em 23 de julho de 2026 na versão 127V — pode mudar conforme promoções e disponibilidade). No checkout, o cupom CECI pode dar mais 5% de desconto em compras a partir de R$ 100; confira no resumo do pedido.",
+          "No site oficial, a Genio S Touch Prata (127V) estava saindo por R$ 799,90, de R$ 979,90 (preço verificado em 13 de outubro de 2026; pode mudar conforme promoções e disponibilidade). No checkout, o cupom CECI pode dar mais 5% de desconto em compras a partir de R$ 100; confira no resumo do pedido.",
           "Como todo cupom promocional, o CECI tem prazo de validade e pode ser alterado pela marca. Se ele não estiver mais disponível quando você for comprar, o link abaixo leva direto pra loja oficial, onde você confere o preço e as condições vigentes no momento."
         ],
         "bullets": []
@@ -41116,7 +41118,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Espresso Boost (pré-umectação): presente na Plus e na Touch. Segundo a fabricante, a função pré-umedece o café antes da extração para entregar uma bebida mais intensa e concentrada; o resultado percebido também depende da cápsula, da água e do volume escolhido;",
           "Controle de 4 temperaturas: presente na Plus e na Touch. O primeiro nível é o Modo Frio, sem aquecimento, e os outros três permitem ajustar a bebida de morna a bem quente. A temperatura final varia conforme o recipiente, o ambiente e o preparo;",
-          "Painel sensível ao toque vs seletor físico: Basic e Plus mantêm controle físico; a Touch concentra os comandos em um painel sensível ao toque e adiciona bandeja metálica, conforme a ficha da fabricante."
+          "Painel sensível ao toque vs seletor físico: Basic e Plus mantêm controle físico; a Touch concentra os comandos em um painel sensível ao toque. A bandeja de metal vem na Plus e na Touch, conforme a ficha da fabricante."
         ],
         "image": "/images/reviews/dolcegusto/genio-s-touch-lateral.webp",
         "imageAlt": "Vista lateral da Genio S Touch mostrando a estrutura compacta e vertical da linha",
@@ -41141,9 +41143,9 @@ export const reviewsData: unknown[] = [
           "A recomendação de compra varia conforme a prioridade de uso e orçamento de cada casa:"
         ],
         "bullets": [
-          "Melhor equilíbrio de recursos (Genio S Plus): reúne Espresso Boost e quatro temperaturas sem exigir o painel touch. Vale comparar o preço vigente com o da Touch antes da compra;",
+          "Melhor equilíbrio de recursos (Genio S Plus): reúne Espresso Boost, quatro temperaturas e bandeja de metal sem exigir o painel touch. Vale comparar o preço vigente com o da Touch antes da compra;",
           "Para priorizar o menor preço (Genio S Basic): indicada para quem busca dosagem automática, modos quente e frio, função XL e os recursos básicos da linha;",
-          "Para priorizar interface (Genio S Touch): indicada para quem prefere comandos sensíveis ao toque e bandeja metálica. É o único modelo deste comparativo que usamos em casa, por isso as fotos e impressões práticas se referem a ele."
+          "Para priorizar interface (Genio S Touch): indicada para quem prefere comandos sensíveis ao toque. É o único modelo deste comparativo que usamos em casa, por isso as fotos e impressões práticas se referem a ele."
         ],
         "images": [
           {
@@ -41193,7 +41195,7 @@ export const reviewsData: unknown[] = [
           "Qual a principal diferença entre a Genio S Basic e a Genio S Plus? A Basic oferece modos quente e frio e não possui Espresso Boost. A Plus adiciona quatro níveis de temperatura e a função Espresso Boost, descrita pela fabricante como pré-umectação para uma bebida mais intensa e concentrada.",
           "O café sai com sabor diferente na Genio S Touch em relação à Basic? As duas têm pressão máxima informada de 15 bar, mas não é correto prometer resultado idêntico. Cápsula, água, volume e temperatura influenciam a bebida, e a Touch ainda oferece Espresso Boost e quatro temperaturas.",
           "A Genio S Basic desliga sozinha? Sim. Todos os modelos da linha Genio S contam com a função Eco Mode, desligando automaticamente após 1 minuto de inatividade.",
-          "Qual a diferença entre a Genio S Plus e a Genio S Touch? Ambas oferecem Espresso Boost e quatro temperaturas. A diferença mais visível está na interface: a Plus usa seletor físico, enquanto a Touch utiliza painel sensível ao toque e bandeja metálica.",
+          "Qual a diferença entre a Genio S Plus e a Genio S Touch? Ambas oferecem Espresso Boost e quatro temperaturas. A diferença está na interface: a Plus usa seletor físico, e a Touch, painel sensível ao toque. As duas têm bandeja de metal.",
           "As cafeteiras Genio S têm função XL de 300 ml? Sim, os três modelos (Basic, Plus e Touch) contam com a opção XL para preparo de bebidas de 300 ml.",
           "Quem fabrica as máquinas Genio S? A linha Genio S é fabricada pela Arno sob licença NESCAFÉ Dolce Gusto, com garantia oficial de 1 ano.",
           "As três máquinas (Basic, Plus e Touch) têm modo frio? Sim. A Basic tem uma posição 'frio' no anel de duas opções; a Plus e a Touch trazem esse mesmo modo sem aquecimento como o primeiro dos 4 níveis de temperatura, ideal para bebidas geladas como o Nestea.",
@@ -44594,8 +44596,8 @@ export const reviewsData: unknown[] = [
             ],
             [
               "7. Espaço na Bancada",
-              "Médio (~15 a 16 cm de largura, corpo mais arredondado)",
-              "Ultracompacto (~11 cm de largura na Essenza Mini)"
+              "Estreita: 11,2 cm de largura nas Genio S (a Mini Me 2.0 tem 16 cm)",
+              "Estreita: 11 cm de largura na Essenza Mini, mais baixa e mais funda"
             ],
             [
               "8. Custo do Espresso na Amostra",
@@ -44614,7 +44616,7 @@ export const reviewsData: unknown[] = [
         "heading": "No dia a dia da cozinha: guia decisório em 4 perfis",
         "paragraphs": [
           "A experiência prática do café da manhã revela detalhes que nenhuma ficha técnica mostra:",
-          "Espaço e visual: A Nespresso Essenza Mini consultada tem 11 cm de largura e reservatório de 600 ml. Os modelos Genio S usados como referência ficam em torno de 15 a 16 cm de largura e têm reservatório de aproximadamente 800 ml; confirme as medidas do modelo escolhido.",
+          "Espaço e visual: na largura, quase empatam: as Genio S têm 11,2 cm, e a Essenza Mini, 11 cm. A Essenza Mini é mais baixa (20,5 cm, contra 27,3 cm) e mais funda (33 cm, contra 28,6 cm), e o reservatório dela tem 600 ml, contra 800 ml na Genio S.",
           "Descarte diário: A Nespresso ganha com folga: você levanta a alavanca e a cápsula cai na gaveta interna, que na Essenza Mini comporta 5 a 6 unidades (varia conforme o modelo Original). A Dolce Gusto exige tirar o porta-cápsulas pingando manualmente após cada xícara.",
           "Canecas grandes: modelos Genio S com função XL podem preparar até 300 ml. Na Essenza Mini, o espaço disponível depende da posição ou remoção da bandeja de gotejamento.",
           "Qual escolher para a sua rotina?"
@@ -44693,7 +44695,7 @@ export const reviewsData: unknown[] = [
           "A Nespresso faz cappuccino e chocolate quente? A Essenza Mini e a Pixie preparam café. Para cappuccino, use um espumador separado ou escolha uma máquina Nespresso com sistema de leite; as cápsulas Nespresso são de café, não de chocolate quente.",
           "Qual cafeteira tem a cápsula mais barata? Na amostra coletada em agosto de 2026, a Dolce Gusto clássica oficial custava de R$ 1,69 a R$ 2,10 por cápsula; a Nespresso Original oficial, de R$ 3,70 a R$ 4,20. A compatível Farmers Origins aparecia por cerca de R$ 1,70. Preços mudam e devem ser conferidos antes da compra.",
           "A Nespresso Vertuo aceita cápsulas de outras marcas? A página oficial brasileira informa que a Vertuo Pop aceita somente cápsulas da linha Vertuo. Para maior variedade de marcas compatíveis, considere o sistema Nespresso Original.",
-          "A Dolce Gusto ocupa muito espaço na cozinha? Os modelos Genio S usados como referência têm cerca de 15 a 16 cm de largura, enquanto a Essenza Mini consultada tem 11 cm. Medidas e capacidade para canecas variam conforme o modelo."
+          "A Dolce Gusto ocupa muito espaço na cozinha? Pouco: as Genio S têm 11,2 cm de largura, quase o mesmo que os 11 cm da Essenza Mini. A Mini Me 2.0 é mais larga, com 16 cm."
         ]
       }
     ],
@@ -51514,7 +51516,7 @@ export const reviewsData: unknown[] = [
         "heading": "Resposta rápida: a assinatura vale a pena?",
         "bullets": [
           "Vale para quem usa **pelo menos 3 caixas** a cada 1, 2 ou 3 meses: o desconto é de **25% em todos os sabores**, com frete grátis em todo pedido.",
-          "Os 25% são calculados sobre o preço cheio. A caixa de Geração I regular, com 10 cápsulas, cai de **R$ 25,90 para R$ 19,42**.",
+          "Os 25% são calculados sobre o preço cheio. A caixa de Geração I regular, com 10 cápsulas, cai de **R$ 25,90 para R$ 19,43**.",
           "Quando a loja faz promoção avulsa, ela pode sair mais barata: em 5 de outubro de 2026, vários sabores regulares estavam a **R$ 17,90** fora da assinatura.",
           "No nosso teste de 4 de outubro de 2026, o cupom **CECI** somou 5% aos 25% da assinatura: 4 caixas de R$ 119,60 saíram por **R$ 85,22**.",
           "A assinatura não dá máquina grátis. O plano com máquina foi encerrado, e a cafeteira de brinde de hoje vem da promoção por volume de caixas."
@@ -51523,11 +51525,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa a assinatura Dolce Gusto",
         "paragraphs": [
-          "A primeira coisa que surpreende quem monta a assinatura é o preço na tela: ao escolher os sabores, a página mostra o **preço cheio** da caixa, R$ 25,90 ou R$ 28,90. O desconto de 25% só aparece no resumo do pedido. Não existe mensalidade nem taxa de adesão: você paga só as caixas de cada entrega.",
-          "A própria Dolce Gusto divulga quanto cada linha custa depois do desconto, no banner que aparece no alto desta página. As caixas de sabores vendidas hoje têm **10 cápsulas**, tanto na Geração I quanto na NEO:"
+          "Ao escolher os sabores, o montador da assinatura já mostra cada caixa com os 25% de desconto, com o preço cheio riscado ao lado. Não existe mensalidade nem taxa de adesão: você paga só as caixas de cada entrega.",
+          "A própria Dolce Gusto divulga quanto cada linha custa depois do desconto, no banner que aparece no alto desta página. No montador, os preços saem com 1 ou 2 centavos de diferença, e são eles que a tabela usa. As caixas de sabores vendidas hoje têm **10 cápsulas**, tanto na Geração I quanto na NEO:"
         ],
         "comparisonTable": {
-          "caption": "Preço por caixa de 10 cápsulas na assinatura, conferido em 5 de outubro de 2026",
+          "caption": "Preço por caixa de 10 cápsulas no montador da assinatura, conferido em 13 de outubro de 2026",
           "headers": [
             "Linha",
             "Preço cheio",
@@ -51538,7 +51540,7 @@ export const reviewsData: unknown[] = [
             [
               "Geração I regulares",
               "R$ 25,90",
-              "R$ 19,42",
+              "R$ 19,43",
               "R$ 1,94"
             ],
             [
@@ -51550,20 +51552,20 @@ export const reviewsData: unknown[] = [
             [
               "NEO regulares",
               "R$ 28,90",
-              "R$ 21,70",
+              "R$ 21,68",
               "R$ 2,17"
             ],
             [
               "NEO especiais",
               "R$ 30,90",
-              "R$ 23,20",
+              "R$ 23,18",
               "R$ 2,32"
             ]
           ]
         },
         "postParagraphs": [
           "Regulares são os cafés e bebidas do dia a dia, como Espresso, Lungo, Caffè Matinal, Café au Lait e Cappuccino. Especiais são as linhas com marca parceira ou origem, como Starbucks, Kopenhagen, Nescafé Gold, KitKat e Nescau.",
-          "Na hora de fazer a conta por xícara, olhe quantas cápsulas a bebida usa. Espresso, Lungo, Café au Lait e a maioria dos chocolates usam **1 cápsula por xícara**, então a caixa rende 10 bebidas. Cappuccino, Latte Macchiato e Chai Tea Latte vêm com 5 cápsulas de leite e 5 de café ou chá: são **5 xícaras por caixa**. Na assinatura, um cappuccino regular sai por cerca de **R$ 3,88**, contra R$ 5,18 no preço cheio.",
+          "Na hora de fazer a conta por xícara, olhe quantas cápsulas a bebida usa. Espresso, Lungo, Café au Lait e a maioria dos chocolates usam **1 cápsula por xícara**, então a caixa rende 10 bebidas. Cappuccino, Latte Macchiato e Chai Tea Latte vêm com 5 cápsulas de leite e 5 de café ou chá: são **5 xícaras por caixa**. Na assinatura, um cappuccino regular sai por cerca de **R$ 3,89**, contra R$ 5,18 no preço cheio.",
           "Os preços mudam com o tempo. O valor que vale é sempre o do resumo do pedido."
         ]
       },
@@ -51574,7 +51576,7 @@ export const reviewsData: unknown[] = [
           "Fizemos a conta com caixas de Geração I regulares, pelo preço oficial da assinatura:"
         ],
         "comparisonTable": {
-          "caption": "Gasto por mês com caixas de Geração I regulares (R$ 25,90 cheio; R$ 19,42 na assinatura)",
+          "caption": "Gasto por mês com caixas de Geração I regulares (R$ 25,90 cheio; 25% sobre o subtotal, como no checkout)",
           "headers": [
             "Consumo de café",
             "Caixas por mês",
@@ -51587,22 +51589,22 @@ export const reviewsData: unknown[] = [
               "1 xícara por dia",
               "3",
               "R$ 77,70",
-              "R$ 58,26",
+              "R$ 58,28",
               "Subtotal abaixo do mínimo do CECI"
             ],
             [
               "2 xícaras por dia",
               "6",
               "R$ 155,40",
-              "R$ 116,52",
-              "R$ 110,69"
+              "R$ 116,55",
+              "R$ 110,72"
             ],
             [
               "4 xícaras por dia (casal ou home office)",
               "12",
               "R$ 310,80",
-              "R$ 233,04",
-              "R$ 221,39"
+              "R$ 233,10",
+              "R$ 221,45"
             ]
           ]
         },
@@ -51634,7 +51636,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Assinatura (25%)",
-              "R$ 19,42",
+              "R$ 19,43",
               "R$ 1,94",
               "Grátis"
             ],
@@ -51744,9 +51746,9 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes sobre o valor da assinatura",
         "bullets": [
           "Assinatura Dolce Gusto vale a pena? Vale para quem usa pelo menos 3 caixas a cada 1, 2 ou 3 meses e quer desconto fixo de 25% com frete grátis. Em épocas de promoção forte, a compra avulsa pode sair mais barata.",
-          "Quanto custa a assinatura Dolce Gusto? Não há mensalidade: você paga as caixas com 25% de desconto. A caixa de Geração I regular, com 10 cápsulas, sai por R$ 19,42.",
+          "Quanto custa a assinatura Dolce Gusto? Não há mensalidade: você paga as caixas com 25% de desconto. A caixa de Geração I regular, com 10 cápsulas, sai por R$ 19,43.",
           "Qual é a assinatura mais barata da Dolce Gusto? O pedido mínimo, de 3 caixas de Geração I regulares, fica em cerca de R$ 58 por entrega.",
-          "Por que a assinatura mostra o preço cheio? A página lista o preço cheio de cada caixa, e o desconto de 25% é aplicado no resumo do pedido.",
+          "A assinatura mostra o preço com desconto? Sim: no montador, cada caixa já aparece com os 25%, e o preço cheio fica riscado ao lado.",
           "A assinatura Dolce Gusto dá máquina grátis? Não. O plano de 2018 com máquina grátis foi encerrado, e hoje a Mini Me de brinde vem da promoção por volume de caixas.",
           "O cupom CECI acumula com a assinatura Dolce Gusto? No nosso teste de 4 de outubro de 2026, sim: o CECI deu 5% além dos 25% da assinatura.",
           "A promoção de caixas com Mini Me vale na assinatura? Não. O regulamento diz que promoções do site não se somam às compras da assinatura.",

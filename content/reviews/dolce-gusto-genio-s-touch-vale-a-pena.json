@@ -79,7 +79,7 @@
     },
     {
       "key": "Dimensões (A x L x P)",
-      "value": "27,2 cm (A) x 12,1 cm (L) x 28,1 cm (P)"
+      "value": "27,2 cm (A) x 11,2 cm (L) x 28,6 cm (P)"
     },
     {
       "key": "Reservatório de água",
@@ -91,7 +91,7 @@
     },
     {
       "key": "Preço oficial",
-      "value": "R$ 979,90 por R$ 599,90 (verificado em 23 Jul 2026)"
+      "value": "R$ 979,90 por R$ 799,90 (verificado em 13 Out 2026)"
     },
     {
       "key": "Cupom de desconto",
@@ -142,7 +142,9 @@
       ],
       "bullets": [],
       "image": "/images/reviews/dolcegusto/genio-s-touch-dimensoes.webp",
-      "imageAlt": "Esquema oficial de dimensões da NESCAFÉ Dolce Gusto Genio S Touch: 27,2 cm de altura, 12,1 cm de largura e 28,1 cm de profundidade"
+      "imageAlt": "Esquema de dimensões da Arno para a NESCAFÉ Dolce Gusto Genio S Touch: 27,2 cm de altura, 12,1 cm de largura e 28,1 cm de profundidade",
+      "imageCaption": "Esquema da Arno, a fabricante, com 12,1 cm de largura e 28,1 cm de profundidade. O comparativo da loja oficial informa 11,2 cm e 28,6 cm.",
+      "imageFit": "square"
     },
     {
       "heading": "O painel touch, na prática",
@@ -225,7 +227,7 @@
     {
       "heading": "Preço e como comprar",
       "paragraphs": [
-        "No site oficial, a Genio S Touch Prata (127V) estava saindo por R$ 599,90, de R$ 979,90 (preço verificado em 23 de julho de 2026 na versão 127V — pode mudar conforme promoções e disponibilidade). No checkout, o cupom CECI pode dar mais 5% de desconto em compras a partir de R$ 100; confira no resumo do pedido.",
+        "No site oficial, a Genio S Touch Prata (127V) estava saindo por R$ 799,90, de R$ 979,90 (preço verificado em 13 de outubro de 2026; pode mudar conforme promoções e disponibilidade). No checkout, o cupom CECI pode dar mais 5% de desconto em compras a partir de R$ 100; confira no resumo do pedido.",
         "Como todo cupom promocional, o CECI tem prazo de validade e pode ser alterado pela marca. Se ele não estiver mais disponível quando você for comprar, o link abaixo leva direto pra loja oficial, onde você confere o preço e as condições vigentes no momento."
       ],
       "bullets": []
