@@ -17,17 +17,10 @@ import {
   getVideoPageUrl,
 } from '@/lib/video-pages';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
-import { isFaqHeading } from '@/lib/faqHeadings';
+import { getFaqItems, isFaqHeading } from '@/lib/faq';
 import { inlineMarkdownToHtml, inlineMarkdownToText } from '@/lib/inlineMarkdown';
 
 export { getYoutubeEmbedUrl };
-
-// Item do FAQ: a pergunta até o "?" ("？" em chinês e japonês) e a resposta logo depois.
-/** @param {string} bullet */
-export function parseFaqBullet(bullet) {
-  const match = bullet.match(/^([^\?\uFF1F]+[\?\uFF1F])\s*(.+)$/);
-  return match ? { question: match[1].trim(), answer: match[2].trim() } : null;
-}
 
 export function getRelatedReviews(review, reviewCorpus = publishedReviews) {
   const locale = resolveReviewLocale(review.locale);
@@ -174,31 +167,25 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
       : {}),
   };
 
-  const faqSection = review.contentSections?.find((s) => isFaqHeading(s.heading));
-
-  let faqJsonLd = null;
-  if (faqSection && faqSection.bullets) {
-    const mainEntity = faqSection.bullets
-      .map(parseFaqBullet)
-      .filter(Boolean)
-      // O que o acordeão mostra: a pergunta em texto puro e a resposta com o link e o negrito em HTML.
-      .map(({ question, answer }) => ({
-        '@type': 'Question',
-        name: inlineMarkdownToText(question),
-        acceptedAnswer: {
-          '@type': 'Answer',
-          text: inlineMarkdownToHtml(answer, baseUrl),
-        },
-      }));
-
-    if (mainEntity.length > 0) {
-      faqJsonLd = {
+  // Toda seção com título de FAQ, como no acordeão, que mostra cada uma delas.
+  const faqItems = (review.contentSections ?? [])
+    .filter((section) => isFaqHeading(section.heading))
+    .flatMap((section) => getFaqItems(section.bullets));
+  const faqJsonLd = faqItems.length > 0
+    ? {
         '@context': 'https://schema.org',
         '@type': 'FAQPage',
-        mainEntity,
-      };
-    }
-  }
+        // O que o acordeão mostra: a pergunta em texto puro e a resposta com o link e o negrito em HTML.
+        mainEntity: faqItems.map(({ question, answer }) => ({
+          '@type': 'Question',
+          name: inlineMarkdownToText(question),
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: inlineMarkdownToHtml(answer, baseUrl),
+          },
+        })),
+      }
+    : null;
 
   return {
     review,

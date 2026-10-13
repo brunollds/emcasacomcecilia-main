@@ -18,8 +18,8 @@ import { getCouponBySlug } from '@/lib/couponsData';
 import { getCouponStorePath, getLocalizedCoupon, isTranslatedLocale } from '@/lib/couponTranslations';
 import { LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
 import { getCouponBrandFromHref, getInternalHref, isCouponPageLink } from '@/lib/internalLinks';
-import { isFaqHeading } from '@/lib/faqHeadings';
-import { parseFaqBullet, resolveRelatedArticleLinks } from '@/lib/review-template-props';
+import { getFaqItems, isFaqHeading, parseFaqBullet } from '@/lib/faq';
+import { resolveRelatedArticleLinks } from '@/lib/review-template-props';
 
 interface ReviewSource {
   slug: string;
@@ -383,17 +383,26 @@ const storeReferralLabel = (locale: Locale) =>
     }
   }
 
-  // A seção de FAQ vira o FAQPage do schema: o título precisa estar na lista do template e cada
-  // item precisa trazer a pergunta e a resposta. Estes são os títulos que o Job 4 do vault indica.
+  // A seção de FAQ vira o acordeão e o FAQPage do schema: o título precisa estar na lista do template
+  // e cada item precisa trazer a pergunta e a resposta, senão os dois o deixam de fora. Estes são os
+  // títulos que o Job 4 do vault indica.
   for (const heading of ['Perguntas frequentes', 'Frequently asked questions', 'Preguntas frecuentes', 'Questions fréquentes', 'Häufige Fragen', 'Domande frequenti', '자주 묻는 질문', 'よくある質問', '常見問題', '常见问题']) {
     assert.equal(isFaqHeading(heading), true, `título de FAQ do Job 4 não reconhecido: ${heading}`);
   }
+  assert.deepEqual(
+    getFaqItems(['Vale a pena? Sim, pelo preço.', 'Prazo: 7 dias', 'セールはいつ？11月です。']),
+    [
+      { question: 'Vale a pena?', answer: 'Sim, pelo preço.' },
+      { question: 'セールはいつ？', answer: '11月です。' },
+    ],
+    'item sem pergunta e resposta fica fora; o "？" de largura total separa a pergunta'
+  );
   for (const review of reviews) {
-    const faq = review.contentSections?.find((section) => isFaqHeading(section.heading));
-    if (!faq) continue;
-    assert.ok(faq.bullets?.length, `${review.slug}: seção de FAQ sem bullets`);
-    for (const bullet of faq.bullets ?? []) {
-      assert.ok(parseFaqBullet(bullet), `${review.slug}: item do FAQ sem pergunta e resposta: ${bullet.slice(0, 80)}`);
+    for (const faq of review.contentSections?.filter((section) => isFaqHeading(section.heading)) ?? []) {
+      assert.ok(faq.bullets?.length, `${review.slug}: seção de FAQ "${faq.heading}" sem bullets`);
+      for (const bullet of faq.bullets ?? []) {
+        assert.ok(parseFaqBullet(bullet), `${review.slug}: item do FAQ sem pergunta e resposta: ${bullet.slice(0, 80)}`);
+      }
     }
   }
 

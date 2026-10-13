@@ -24,7 +24,7 @@ import {
   getTranslatedCouponRoutes,
 } from '../src/lib/couponTranslations';
 import { publishedReviews, recipes } from '../src/lib/data';
-import { isFaqHeading } from '../src/lib/faqHeadings';
+import { isFaqHeading } from '../src/lib/faq';
 import { getEventHubPage, getEventHubPaths, resolveActiveHomeEvent } from '../src/lib/homeEvents';
 import { getHomeLatest, getHomeStoreTabs, getStoreArticlePageSlugs, getStoreArticlesPage } from '../src/lib/homeStores';
 import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
@@ -1026,10 +1026,11 @@ for (const url of articleUrls) {
   }
   if (notes.length) notedArticles++;
 
-  // O FAQPage repete, na mesma ordem, as perguntas e as respostas do acordeão da seção de FAQ: o título
-  // decide os dois (isFaqHeading). Quando o acordeão tinha uma lista própria, sem os títulos em francês,
-  // alemão e italiano, essas perguntas saíam como lista comum. Nos guias, a seção de FAQ pode ser um passo.
-  // A resposta vai em trechos (faqAnswerPartsOf): o link do texto chegava ao schema em markdown cru.
+  // O FAQPage repete, na mesma ordem, as perguntas e as respostas do acordeão de todas as seções de FAQ:
+  // o título (isFaqHeading) e o item (getFaqItems) saem de src/lib/faq.ts para os dois. Quando o acordeão
+  // tinha uma lista própria, sem os títulos em francês, alemão e italiano, essas perguntas saíam como lista
+  // comum. Nos guias, a seção de FAQ pode ser um passo. A resposta vai em trechos (faqAnswerPartsOf): o
+  // link do texto chegava ao schema em markdown cru.
   const sectionIds = generateSectionIds(review.contentSections ?? []);
   const visibleFaq = (review.contentSections ?? [])
     .filter(({ heading }) => isFaqHeading(heading))
