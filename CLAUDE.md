@@ -159,11 +159,19 @@ vídeo, primeiras impressões e uso noturno.
 - A vitrine em português (`/reviews`, home e busca) só mostra artigos em português, pelo `locale`.
   As versões em outros idiomas seguem com `hideFromPortugueseListings: true`, que o
   `validate:content` cobra nas famílias registradas em `clusters/yesstyle.ts`.
-- A seção de FAQ vira o acordeão do artigo e o `FAQPage` do schema pelo título, que precisa estar
-  em `isFaqHeading` (`src/lib/faqHeadings.ts`, a lista única dos dois, sem imports porque o
-  acordeão é componente de cliente); o Job 4 do vault traz o título de cada idioma. O
-  `test:review-i18n` confere o formato "pergunta? resposta" de cada item e exige a seção em todas
-  as versões quando a família tem FAQ.
+- Toda seção de FAQ vira o acordeão do artigo e entra no `FAQPage` do schema pelo título, que precisa
+  estar em `isFaqHeading`; o Job 4 do vault traz o título de cada idioma. Os dois tiram os itens da
+  mesma função, `getFaqItems`, que deixa de fora o item sem "pergunta? resposta". As duas ficam em
+  `src/lib/faq.ts`, sem imports porque o acordeão é componente de cliente. O `test:review-i18n`
+  confere o formato de cada item e exige a seção em todas as versões quando a família tem FAQ.
+- O markdown curto do texto dos artigos (`[texto](/caminho ou https://…)` e `**negrito**`) é lido por
+  `src/lib/inlineMarkdown.ts`, o mesmo código na página (`AnimatedTextHighlight`) e no `FAQPage`: a
+  pergunta sai em texto puro e a resposta em HTML, com `<a>` de href absoluto e `<strong>`. O texto
+  do áudio e do tempo de leitura (`plainTextBody`, de `contentSectionsToPlainText`) passa por ele nos
+  mesmos campos que a página: parágrafos, bullets e o destaque; o título e o aviso da seção a página
+  mostra crus, e não levam marcação. Formato novo de marcação entra nesse módulo, nunca num regex à
+  parte. O `test:build-output` compara as perguntas e as respostas do acordeão com o `FAQPage` de cada
+  artigo, e o `validate:content` barra `](` e `**` no `plainTextBody` de todo artigo.
 - O processo editorial (pauta, redação, revisão, JSON e gates) está no vault
   `docs/Memoria de Artigos/memreview`, a partir de `00_Sistema/AI-PRIMING-INDEX.md`.
 

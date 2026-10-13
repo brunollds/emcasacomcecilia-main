@@ -28,7 +28,7 @@
 ---
 
 ## 4. Título de seção com marcador de FAQ vira o FAQ
-- **O que aconteceu (11/10/2026):** na tradução japonesa do guia de Black Friday da YesStyle, a seção de regras se chamou 「ブラックフライデーでよくあるルール」. O template acha o FAQ pelo título (`isFaqHeading` em `src/lib/faqHeadings.ts`) e pega a primeira seção que contém um dos marcadores; 「よくある」 é um deles, então a seção de regras virou o FAQ e o `test:review-i18n` reprovou a família.
+- **O que aconteceu (11/10/2026):** na tradução japonesa do guia de Black Friday da YesStyle, a seção de regras se chamou 「ブラックフライデーでよくあるルール」. O template achava o FAQ pelo título (`isFaqHeading`, hoje em `src/lib/faq.ts`) e pegava a primeira seção que contém um dos marcadores; 「よくある」 é um deles, então a seção de regras virou o FAQ e o `test:review-i18n` reprovou a família.
 - **Lição:** só a seção de perguntas pode ter marcador de FAQ no título, em qualquer idioma ("perguntas frequentes", "faq", "frequently asked", "domande frequenti", 「자주 묻는」, 「よくある」, 「常見問題」, 「常见问题」…). Na tradução, conferir os títulos de todas as seções, não só o do FAQ. Ver [[black-friday-yesstyle]].
 
 ---

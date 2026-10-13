@@ -24,7 +24,7 @@ import {
   getTranslatedCouponRoutes,
 } from '../src/lib/couponTranslations';
 import { publishedReviews, recipes } from '../src/lib/data';
-import { isFaqHeading } from '../src/lib/faqHeadings';
+import { isFaqHeading } from '../src/lib/faq';
 import { getEventHubPage, getEventHubPaths, resolveActiveHomeEvent } from '../src/lib/homeEvents';
 import { getHomeLatest, getHomeStoreTabs, getStoreArticlePageSlugs, getStoreArticlesPage } from '../src/lib/homeStores';
 import { YESSTYLE_LOCALES } from '../src/lib/i18n/clusters/yesstyle';
@@ -579,6 +579,54 @@ const sectionIn = (html: string, id: string) => {
   return tag && html.slice(tag.index, html.indexOf('</section>', tag.index));
 };
 
+// A resposta do FAQ em trechos de texto, link e negrito: o que o acordeão mostra e o acceptedAnswer leva
+// em HTML. Lê o HTML da página e o do schema; os comentários e as outras tags (o <p>, os <span> do destaque
+// do cupom) somem. Com `pageUrl`, o href da página sai resolvido como o navegador o resolve; o do schema
+// fica como está, e um caminho relativo no schema não bate com o da página.
+type FaqAnswerPart = { type: 'text' | 'strong'; text: string } | { type: 'link'; text: string; href: string };
+const faqAnswerPartsOf = (html: string, pageUrl?: string) => {
+  const parts: FaqAnswerPart[] = [];
+  let open: FaqAnswerPart | undefined;
+  for (const [, closing, tag, attributes, text] of html.matchAll(/<!--[\s\S]*?-->|<(\/?)([a-z]+)\b([^>]*)>|([^<]+)/g)) {
+    if (text !== undefined) {
+      const last = parts.at(-1);
+      if (open) open.text += decodeHtml(text);
+      else if (last?.type === 'text') last.text += decodeHtml(text);
+      else parts.push({ type: 'text', text: decodeHtml(text) });
+    } else if (tag === 'a' || tag === 'strong') {
+      open = undefined;
+      if (closing) continue;
+      if (tag === 'a') {
+        const href = decodeHtml(attributes.match(/\shref="([^"]*)"/)?.[1] ?? '');
+        open = { type: 'link', text: '', href: pageUrl ? new URL(href, pageUrl).href : href };
+      } else {
+        open = { type: 'strong', text: '' };
+      }
+      parts.push(open);
+    }
+  }
+  return parts;
+};
+
+// A conferência acima vê o texto, o href e o negrito: a resposta do schema com <a> bate com a da página,
+// e o markdown cru (mesmo com o endereço absoluto), o href relativo e o link reduzido a texto não batem.
+{
+  const visible = faqAnswerPartsOf(
+    '<div class="faq-answer"><p class="x">Use o<!-- --> <a href="/reviews/neo" class="y"><span>Adaptador </span><span class="coupon-highlight">NEO</span></a> e o <strong class="z">CECI</strong> &amp; pronto.</p></div>',
+    `${SITE_URL}/reviews/fixture`
+  );
+  const schemaAnswer = (link: string, bold = '<strong>CECI</strong>') => `Use o ${link} e o ${bold} &amp; pronto.`;
+  assert.deepEqual(faqAnswerPartsOf(schemaAnswer(`<a href="${SITE_URL}/reviews/neo">Adaptador NEO</a>`)), visible, 'resposta certa falha');
+  for (const [answer, message] of [
+    [schemaAnswer(`[Adaptador NEO](${SITE_URL}/reviews/neo)`), 'link em markdown cru passa'],
+    [schemaAnswer('<a href="/reviews/neo">Adaptador NEO</a>'), 'href relativo no schema passa'],
+    [schemaAnswer('Adaptador NEO'), 'link reduzido a texto passa'],
+    [schemaAnswer(`<a href="${SITE_URL}/reviews/neo">Adaptador NEO</a>`, '**CECI**'), 'negrito em markdown cru passa'],
+  ]) {
+    assert.notDeepEqual(faqAnswerPartsOf(answer), visible, message);
+  }
+}
+
 // Os rótulos da nota editorial ("Nota editorial: …", "Editorial note: …") num trecho de HTML. A nota é
 // sempre um botão; a nota da margem, no desktop, é um <aside> com o rótulo nu.
 const EDITORIAL_NOTE_TITLES = new Set(LOCALE_KEYS.map((key) => getArticleCopy(key).editorialNoteTitle));
@@ -978,27 +1026,33 @@ for (const url of articleUrls) {
   }
   if (notes.length) notedArticles++;
 
-  // O FAQPage repete, na mesma ordem, as perguntas do acordeão da seção de FAQ: o título decide os dois
-  // (isFaqHeading). Quando o acordeão tinha uma lista própria, sem os títulos em francês, alemão e
-  // italiano, essas perguntas saíam como lista comum. Nos guias, a seção de FAQ pode ser um passo.
+  // O FAQPage repete, na mesma ordem, as perguntas e as respostas do acordeão de todas as seções de FAQ:
+  // o título (isFaqHeading) e o item (getFaqItems) saem de src/lib/faq.ts para os dois. Quando o acordeão
+  // tinha uma lista própria, sem os títulos em francês, alemão e italiano, essas perguntas saíam como lista
+  // comum. Nos guias, a seção de FAQ pode ser um passo. A resposta vai em trechos (faqAnswerPartsOf): o
+  // link do texto chegava ao schema em markdown cru.
   const sectionIds = generateSectionIds(review.contentSections ?? []);
-  const visibleQuestions = (review.contentSections ?? [])
+  const visibleFaq = (review.contentSections ?? [])
     .filter(({ heading }) => isFaqHeading(heading))
     .flatMap(({ heading }) => {
       const id = sectionIds.get(heading);
       const section = id && sectionIn(body, id);
       assert.ok(section, `${pagePath}: a seção de FAQ "${heading}" não está na página`);
-      return [...section.matchAll(/<summary\b[^>]*>([\s\S]*?)<\/summary>/g)].map(([, question]) =>
-        textOf(question.replace(/<span\b[^>]*>\+<\/span>$/, ''))
-      );
+      return [...section.matchAll(/<summary\b[^>]*>([\s\S]*?)<\/summary>([\s\S]*?)<\/details>/g)].map(([, question, answer]) => ({
+        question: textOf(question.replace(/<span\b[^>]*>\+<\/span>$/, '')),
+        answer: faqAnswerPartsOf(answer, url),
+      }));
     });
   const faqPage = jsonLdOf(html).find((schema) => schema['@type'] === 'FAQPage');
   assert.deepEqual(
-    faqPage?.mainEntity.map(({ name }: { name: string }) => name) ?? [],
-    visibleQuestions,
-    `${pagePath}: FAQPage diferente das perguntas do acordeão`
+    faqPage?.mainEntity.map(({ name, acceptedAnswer }: { name: string; acceptedAnswer: { text: string } }) => ({
+      question: name,
+      answer: faqAnswerPartsOf(acceptedAnswer.text),
+    })) ?? [],
+    visibleFaq,
+    `${pagePath}: FAQPage diferente das perguntas e respostas do acordeão`
   );
-  if (visibleQuestions.length) faqArticles++;
+  if (visibleFaq.length) faqArticles++;
 
   // O <head> de um artigo de família: canonical da própria página e hreflang dos 10 idiomas, com x-default no inglês.
   if (review.translationKey) {

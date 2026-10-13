@@ -7,7 +7,7 @@ import { DropCapParagraph, EditorialReveal, PretextShrinkwrap, TopTenList } from
 import { COUPON_HIGHLIGHT_TERMS, HighlightCoupon } from './HighlightCoupon';
 import { CopyButton, CouponStoreLink } from '@/components/CouponComponents';
 import type { ContentSection } from '@/lib/content';
-import { isFaqHeading } from '@/lib/faqHeadings';
+import { getFaqItems, isFaqHeading } from '@/lib/faq';
 import type { Locale } from '@/lib/i18n/locales';
 import { isCouponPageLink, isInternalLink } from '@/lib/internalLinks';
 import { ReputacaoMetricas, PadroesReclamacao } from './ReputacaoMetricas';
@@ -34,29 +34,6 @@ function parseProsConsBullet(item: string): { type: 'pro' | 'con'; text: string 
   };
 }
 
-function parseFaqBullet(item: string): { question: string; answer: string } {
-  const match = item.match(/^([^\?\uFF1F]+[\?\uFF1F])\s*(.+)$/);
-  if (match) {
-    return {
-      question: match[1].trim(),
-      answer: match[2].trim(),
-    };
-  }
-  // Try mapping by first colon ":" if no "?" found
-  const colonIndex = item.indexOf(':');
-  if (colonIndex > 0) {
-    return {
-      question: item.substring(0, colonIndex + 1).trim(),
-      answer: item.substring(colonIndex + 1).trim(),
-    };
-  }
-  // Fallback
-  return {
-    question: 'Dúvida',
-    answer: item,
-  };
-}
-
 function shouldRenderTopTenList(section: ContentSection): boolean {
   if (!section.bullets || section.bullets.length < 5) return false;
   const allNumbered = section.bullets.every((item) => /^\d+\.\s*/.test(item));
@@ -75,13 +52,17 @@ export function ReviewSectionContent({
   locale = 'pt',
 }: ReviewSectionContentProps): React.ReactElement {
   const showDropCap = isFirst && Boolean(kind);
+  // O título de FAQ decide: os bullets viram o acordeão, com os mesmos itens do FAQPage do schema,
+  // e nunca a tabela de prós e contras nem a lista numerada.
+  const isFaq = isFaqHeading(section.heading);
+  const faqItems = isFaq ? getFaqItems(section.bullets) : [];
   const prosConsItems = section.bullets
     ?.map(parseProsConsBullet)
     .filter((item): item is { type: 'pro' | 'con'; text: string } => Boolean(item));
   const shouldRenderProsConsTable = Boolean(
-    prosConsItems?.length && prosConsItems.length === section.bullets?.length
+    !isFaq && prosConsItems?.length && prosConsItems.length === section.bullets?.length
   );
-  const shouldRenderTopTen = shouldRenderTopTenList(section);
+  const shouldRenderTopTen = !isFaq && shouldRenderTopTenList(section);
   const prosItems = prosConsItems?.filter((item) => item.type === 'pro') ?? [];
   const consItems = prosConsItems?.filter((item) => item.type === 'con') ?? [];
   const prosConsRows = Array.from(
@@ -91,7 +72,6 @@ export function ReviewSectionContent({
       con: consItems[rowIndex]?.text,
     })
   );
-  const isFaq = isFaqHeading(section.heading);
 
   const renderEmphasisBlock = (withImage: boolean = true) => (
     <div className={withImage && section.image ? 'my-6 grid grid-cols-1 gap-6 md:grid-cols-[1fr_200px] items-center' : 'my-6'}>
@@ -293,52 +273,49 @@ export function ReviewSectionContent({
         </div>
       )}
 
-      {section.bullets && section.bullets.length > 0 && !shouldRenderProsConsTable && !shouldRenderTopTen && (
-        isFaq ? (
-          <div className="mt-5 space-y-4">
-            {section.bullets.map((item, bulletIndex) => {
-              const faq = parseFaqBullet(item);
-              return (
-                <EditorialReveal
-                  key={`faq-${bulletIndex}`}
-                  delay={Math.min(bulletIndex * 0.06, 0.3)}
-                  distance={12}
-                >
-                  <details className="group rounded-[1.5rem] border border-[#1a4d2e]/10 bg-white px-6 py-5 shadow-soft transition-all duration-300 hover:-translate-y-0.5 hover:border-[#ff6b35]/30 hover:shadow-md open:border-[#ff6b35]/40 open:bg-[#fef9f3]">
-                    <summary className="flex cursor-pointer list-none items-center justify-between gap-4 font-semibold text-[#0f1419] outline-none transition-colors group-open:text-[#1a4d2e] focus-visible:ring-2 focus-visible:ring-[#ff6b35]/35">
-                      <span className="min-w-0"><HighlightCoupon text={faq.question} /></span>
-                      <span className="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-full bg-[#fef9f3] text-xl font-semibold text-[#ff6b35] shadow-[inset_0_0_0_1px_rgba(255,107,53,0.10)] transition-all duration-300 group-hover:bg-[#ff6b35]/10 group-open:rotate-45 group-open:bg-[#ff6b35] group-open:text-white">
-                        +
-                      </span>
-                    </summary>
-                    <div className="faq-answer mt-4 border-t border-[#1a4d2e]/10 pt-4">
-                      <p className="font-editorial text-base leading-relaxed text-[#24313d]">
-                        <HighlightCoupon text={faq.answer} />
-                      </p>
-                    </div>
-                  </details>
-                </EditorialReveal>
-              );
-            })}
-          </div>
-        ) : (
-          <ul className="mt-5 space-y-3">
-            {section.bullets.map((item, bulletIndex) => (
-              <EditorialReveal
-                as="li"
-                key={`b-${bulletIndex}`}
-                delay={Math.min(bulletIndex * 0.06, 0.3)}
-                distance={12}
-                className="flex items-start gap-3 rounded-xl border border-[#1a4d2e]/10 bg-white p-4 font-editorial text-[#24313d]"
-              >
-                <span className="mt-1.5 h-2 w-2 flex-shrink-0 rounded-full bg-[#ff6b35]" />
-                <span className="min-w-0">
-                  <HighlightCoupon text={item} />
-                </span>
-              </EditorialReveal>
-            ))}
-          </ul>
-        )
+      {faqItems.length > 0 && (
+        <div className="mt-5 space-y-4">
+          {faqItems.map((faq, faqIndex) => (
+            <EditorialReveal
+              key={`faq-${faqIndex}`}
+              delay={Math.min(faqIndex * 0.06, 0.3)}
+              distance={12}
+            >
+              <details className="group rounded-[1.5rem] border border-[#1a4d2e]/10 bg-white px-6 py-5 shadow-soft transition-all duration-300 hover:-translate-y-0.5 hover:border-[#ff6b35]/30 hover:shadow-md open:border-[#ff6b35]/40 open:bg-[#fef9f3]">
+                <summary className="flex cursor-pointer list-none items-center justify-between gap-4 font-semibold text-[#0f1419] outline-none transition-colors group-open:text-[#1a4d2e] focus-visible:ring-2 focus-visible:ring-[#ff6b35]/35">
+                  <span className="min-w-0"><HighlightCoupon text={faq.question} /></span>
+                  <span className="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-full bg-[#fef9f3] text-xl font-semibold text-[#ff6b35] shadow-[inset_0_0_0_1px_rgba(255,107,53,0.10)] transition-all duration-300 group-hover:bg-[#ff6b35]/10 group-open:rotate-45 group-open:bg-[#ff6b35] group-open:text-white">
+                    +
+                  </span>
+                </summary>
+                <div className="faq-answer mt-4 border-t border-[#1a4d2e]/10 pt-4">
+                  <p className="font-editorial text-base leading-relaxed text-[#24313d]">
+                    <HighlightCoupon text={faq.answer} />
+                  </p>
+                </div>
+              </details>
+            </EditorialReveal>
+          ))}
+        </div>
+      )}
+
+      {!isFaq && section.bullets && section.bullets.length > 0 && !shouldRenderProsConsTable && !shouldRenderTopTen && (
+        <ul className="mt-5 space-y-3">
+          {section.bullets.map((item, bulletIndex) => (
+            <EditorialReveal
+              as="li"
+              key={`b-${bulletIndex}`}
+              delay={Math.min(bulletIndex * 0.06, 0.3)}
+              distance={12}
+              className="flex items-start gap-3 rounded-xl border border-[#1a4d2e]/10 bg-white p-4 font-editorial text-[#24313d]"
+            >
+              <span className="mt-1.5 h-2 w-2 flex-shrink-0 rounded-full bg-[#ff6b35]" />
+              <span className="min-w-0">
+                <HighlightCoupon text={item} />
+              </span>
+            </EditorialReveal>
+          ))}
+        </ul>
       )}
 
       {shouldRenderTopTen && <TopTenList items={section.bullets} />}
