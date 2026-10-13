@@ -1,0 +1,159 @@
+{
+  "id": 393,
+  "slug": "shein-vs-shopee-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "shein-vs-shopee-temu",
+  "title": "SHEIN 跟蝦皮怎麼選？退貨規則與購買前要確認的事",
+  "seoTitle": "SHEIN 還是蝦皮？退貨與購買前確認事項",
+  "type": "比較指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "SHEIN 和蝦皮怎麼選？整理 SHEIN 台灣站公布的營運公司與退貨期限、依購物需求的選擇方式，以及購買前要確認的事。這篇文章不比較價格，也沒有測試配送。",
+  "metaDescription": "SHEIN 還是蝦皮？整理 SHEIN 台灣站公布的營運公司與退貨期限（收到商品後 15 天內）、依需求怎麼選，以及購買前要確認的事。不比價格、不測配送。",
+  "publishedAt": "2026年10月13日",
+  "publishedAtISO": "2026-10-13",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+  "imageAlt": "一張內容空白的比較表插圖，有 SHEIN、Shopee、Temu 和 AliExpress 四個欄位，以及五列圖示，分別代表運費、時效、退貨、稅金與口碑",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "快速解答",
+      "paragraphs": [
+        "沒有一家平台適合所有人。怎麼選，取決於你要買什麼，以及能不能退貨對你有多重要。SHEIN 和蝦皮在各個市場都公布自己的規則。SHEIN 台灣站公布的退貨期限是收到商品後 15 天內。蝦皮在台灣的規則，我們沒有為這篇文章查閱。",
+        "這篇文章不比較價格，也沒有測試配送。SHEIN 的資料來自 2026 年 10 月 12 日查閱的台灣站。"
+      ]
+    },
+    {
+      "heading": "SHEIN 在台灣公布的內容",
+      "paragraphs": [
+        "出處：SHEIN 台灣站的隱私權政策與退貨政策，2026 年 10 月 12 日查閱。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/shein-home-tw-2026-10-12.webp",
+        "alt": "SHEIN 台灣站首頁。黑色標題列有繁體中文的商品分類選單，下方是紫色的「Trends #凌亂時尚」活動橫幅，展示四件以新台幣標價的服飾，再往下是商品分類圖示",
+        "caption": "SHEIN 台灣站（shein.tw）首頁，2026 年 10 月 12 日擷取，畫面顯示當天的活動。",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
+      "comparisonTable": {
+        "caption": "SHEIN 台灣站公布的營運公司與退貨期限，2026 年 10 月 12 日查閱。",
+        "headers": [
+          "市場",
+          "網站營運公司",
+          "SHEIN 的退貨"
+        ],
+        "rows": [
+          [
+            "台灣（shein.tw）",
+            "Fashion Choice Pte. Ltd.（新加坡）",
+            "收到商品後 15 天內"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "蝦皮的母公司 Sea Limited 在 2026 年的財報新聞稿中表示，蝦皮是東南亞、台灣與巴西最大的電商平台。這是我們引用的唯一一項蝦皮資料：蝦皮在台灣的出貨與退貨規則，我們沒有為這篇文章查閱。買之前，請先到蝦皮的運送與退貨說明頁面確認。"
+      ]
+    },
+    {
+      "heading": "進口稅與海關",
+      "paragraphs": [
+        "進口稅依國家與地區而定。付款前，請在各平台的結帳頁面確認總金額是否已包含稅金。"
+      ]
+    },
+    {
+      "heading": "依購物需求怎麼選",
+      "bullets": [
+        "**想要有充裕的退貨時間：** 比較退貨期限，不要只比價格。",
+        "**需要在某個日期前收到：** 到商品頁面或訂單頁面確認送達時間。",
+        "**買從海外寄來的商品：** 在結帳頁面確認含稅的總金額。",
+        "**用信用卡、電子錢包或分期付款：** 到各平台的結帳頁面查看可用的付款方式。"
+      ]
+    },
+    {
+      "heading": "評價分數衡量的是什麼",
+      "paragraphs": [
+        "投訴與評價網站的分數衡量的是平台如何處理客訴，而不是商品品質，而且投訴數量也會隨平台規模而不同。關於 SHEIN 由誰營運、聲譽有哪些已知情況，我們寫在談 SHEIN 可靠性的文章裡。"
+      ],
+      "links": [
+        {
+          "label": "SHEIN 可靠嗎？誰在營運、是哪個國家的公司，以及台灣站的退貨規則",
+          "href": "/zh-hant/reviews/shein-trust-guide-zh-hant"
+        }
+      ]
+    },
+    {
+      "heading": "購買前要確認的事",
+      "bullets": [
+        "含運費與稅金的最終價格。",
+        "退貨期限，以及這件商品是不是退貨期限較短的品項。",
+        "誰在賣：平台自己，還是合作賣家。",
+        "訂單頁面上的送達時間。"
+      ]
+    },
+    {
+      "heading": "合作與推薦碼",
+      "paragraphs": [
+        "Cecília 是 SHEIN 的聯盟會員。透過本文連結購買時，她可能獲得佣金，你不需要多付費。這不會改變答案：怎麼選，取決於你要買什麼。",
+        "4CW5Y 是 SHEIN 巴西站的推薦碼。要在 SHEIN 的搜尋欄搜尋，不是輸入到優惠券欄位。它屬於 SHEIN 巴西站，在台灣可能無法使用。"
+      ],
+      "links": [
+        {
+          "label": "查看 4CW5Y 推薦碼與 SHEIN 巴西站的活動",
+          "href": "/zh-hant/coupons/shein"
+        },
+        {
+          "label": "SHEIN 巴西站推薦碼：在哪裡輸入、怎麼用",
+          "href": "/zh-hant/reviews/shein-referral-code-zh-hant"
+        }
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "SHEIN 和蝦皮哪個比較好？ 沒有一家平台適合所有人。依你要買什麼、退貨對你有多重要，以及需要在哪天前收到來選。",
+        "SHEIN 和蝦皮哪個比較便宜？ 這篇文章不比較價格。付款前，到各平台的結帳頁面，比較含運費與稅金的總金額。",
+        "SHEIN 和蝦皮哪個比較快到貨？ 請看商品頁面與訂單頁面上的送達時間。蝦皮在台灣的規則，我們沒有為這篇文章查閱。",
+        "SHEIN 和蝦皮哪個比較安全？ 這篇文章不做這樣的判斷。關於 SHEIN，請看我們談 SHEIN 可靠性的文章。",
+        "SHEIN 和蝦皮是同一家公司嗎？ 不是。它們是不同的平台，各有各的規則。",
+        "SHEIN 台灣站的退貨期限是幾天？ 根據 SHEIN 台灣站的公布，是收到商品後 15 天內（2026 年 10 月 12 日查閱）。",
+        "4CW5Y 是優惠券嗎？ 不是。它是 SHEIN 巴西站的推薦碼，要在 SHEIN 的搜尋欄搜尋，在台灣可能無法使用。"
+      ]
+    }
+  ],
+  "cta": {
+    "text": "付款時，請比較含運費與稅金的最終價格",
+    "label": "前往 SHEIN",
+    "url": "https://onelink.shein.com/55/6463grgxf6ru",
+    "sponsored": true
+  },
+  "coupon": "4CW5Y",
+  "affiliate": "shein",
+  "editorialNote": "本文為編輯內容。透過本文的 SHEIN 連結購買，我們可能獲得佣金。",
+  "relatedArticles": [
+    {
+      "slug": "shein-trust-guide-zh-hant",
+      "title": "SHEIN 可靠嗎？誰在營運、是哪個國家的公司，以及台灣站的退貨規則"
+    },
+    {
+      "slug": "shein-black-friday-zh-hant",
+      "title": "Black Friday SHEIN 2026（黑色星期五）：何時開始、何時結束，以及 US$ 50 以下免進口稅"
+    },
+    {
+      "slug": "shein-referral-code-zh-hant",
+      "title": "SHEIN 巴西站推薦碼：在哪裡輸入、怎麼用"
+    }
+  ]
+}

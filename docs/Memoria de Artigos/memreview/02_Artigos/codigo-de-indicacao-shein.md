@@ -6,9 +6,9 @@ parceiro: "[[SHEIN]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia do Código de Indicação" # rótulo novo aprovado pelo Bruno em 12/10/2026 (decisão C), com os 9 termos da seção 10
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir o PT (Job 2) com as telas do site móvel (M1 a M3, decisão do Bruno de 12/10/2026); depois o Job 3"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy (decisão do Bruno), depois do PR da oferta nova da YesStyle; as 17 imagens novas da fase 4 já estão no CDN"
 bloqueado_por: null
 score_autoridade: 68
 score_conversao: 78
@@ -399,3 +399,27 @@ Unido e Brasil foram. Não precisa resolver: o texto é o mesmo artigo global. R
 - **GSC:** `Consultas.csv` e `Páginas.csv` de 11/10/2026 (seção 8).
 - **Dados comerciais:** `couponsData.ts` e `couponTranslations.ts` (`SHEIN_TRANSLATIONS`), `sidebarCopy.ts`, `couponCopyLocale.ts` e
   `test-review-i18n.ts` (`REFERRAL_TERM`, `SHEIN_BRAZIL`), lidos, não alterados.
+
+## Redação
+Redigido em 12/10/2026 (Job 2: Claude), revisado no Job 3 por outro agente e conformado no Job 4. Pronto para deploy.
+
+**PT (`codigo-de-indicacao-shein`, id 365, `type` Guia do Código de Indicação):** resposta rápida; onde colocar (4 passos e as telas M1 a M3); o que aparece e o que você ganha (link para `/cupons/shein`; a regra das 24 horas); por que os guias antigos, com o cupom de R$ 10, não valem mais; como ter o seu código; FAQ com 10 itens.
+
+**Job 3 (12/10/2026), ajustes aplicados:** atribuição de cada regra à página da SHEIN; sem "mesmo preço"; sem afirmar campo de cupom no carrinho; "no celular"; alts fiéis às telas; título da seção e itens do FAQ.
+
+**Traduções (Job 4):** ids 366 a 374, menores que o PT: sem o programa antigo e o R$ 10, FAQ com 8 itens, o 4CW5Y como código da SHEIN Brasil que pode não valer no país do leitor. fr abre dizendo que não há valor fixo nem prêmio em euros; ko e ja dizem que o guia não cobre convite de amigo.
+
+**Releitura (item 10 do Job 4), 12/10/2026, por outro agente:**
+- en: "screenshots"; "4CW5Y" sem artigo; "search for"; a frase das 24 horas reordenada.
+- es: "el cuadro de búsqueda" (gênero); "4CW5Y" sem artigo; "dentro de las 24 horas siguientes"; "artículos".
+- fr: "ne donne pas droit à une prime en euros"; "SHEIN demande"; "appuyez sur"; o `editorialNote` com "sur les achats".
+- de: "Screenshots"; "Laut SHEIN geben Sie den Code … ein"; "Hat der Affiliate…"; "Nach den Regeln des Affiliate-Programms von SHEIN Brasilien"; o CTA com "eingeben".
+- it: "guida passo passo"; "va digitato"; "l'affiliato"; o CTA com "digita".
+- ko: "입력하는 것"; o sujeito "어필리에이트"; "SHEIN 브라질에서".
+- ja: "アフィリエイト参加者"; frase longa dividida.
+- zh-hant e zh-hans: "要在哪裡輸入/要在哪里输入"; "截圖".
+- Aspas na frase da FAQ de afiliados ("não como um cupom"): ficam só em pt, en e ko, cujas páginas foram lidas com o texto registrado (F2). Em es, fr, de, it, ja e zh a frase segue sem aspas, como paráfrase.
+
+**Imagens (no CDN desde 12/10/2026, com o OK do Bruno):** `codigo-de-indicacao-shein-busca-capa.webp` (capa, composição nossa com as telas); `shein-busca-site-movel-antes.webp`, `shein-busca-4cw5y.webp` e `shein-busca-4cw5y-resultado.webp` (M1 a M3): quadros da gravação do site móvel da SHEIN Brasil, sem teclado, recortados para tirar a camiseta com slogan político. A foto do carrinho (M4) não se publica.
+
+**Gates (12/10/2026):** typecheck, eslint, `test:review-i18n` (10 famílias, as três da fase 4 inclusas), `validate:video`, `test-delivery-integration` e os testes de mídia verdes. O `validate:content` só acusa a oferta vencida da YesStyle (1010VIBES), que espera o PR do Bruno; a build completa e as provas de entrega rodam depois dele.

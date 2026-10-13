@@ -62746,5 +62746,4642 @@ export const reviewsData: unknown[] = [
         "title": "Black Friday Dolce Gusto 2026: quando começa, preços de máquinas e cápsulas e o cupom CECI"
       }
     ]
+  },
+  {
+    "id": 365,
+    "slug": "codigo-de-indicacao-shein",
+    "locale": "pt",
+    "translationKey": "shein-referral-code",
+    "title": "Código de indicação SHEIN: onde colocar, como usar e o que você ganha",
+    "seoTitle": "Código de indicação SHEIN: onde colocar e como usar",
+    "type": "Guia do Código de Indicação",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Onde colocar o código de indicação da SHEIN (na busca, não no campo de cupom), o passo a passo com as telas, o que aparece depois da pesquisa, o que mudou desde o programa antigo de 2024 e como ter o seu código.",
+    "metaDescription": "O código de indicação da SHEIN vai na busca, não no campo de cupom. Veja o passo a passo com telas, o que ele abre, o que mudou em 2024 e como ter o seu.",
+    "publishedAt": "13 de outubro de 2026",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+    "imageAlt": "Duas telas do site da SHEIN Brasil no celular: a barra de busca com o código digitado e a página que abre depois da pesquisa",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O código de indicação da SHEIN vai na **busca** da loja, no aplicativo ou no site pelo celular, não no campo de cupom. A própria SHEIN diz isso nas perguntas frequentes do programa de afiliados: use o código na caixa de pesquisa, \"não como um cupom\".",
+          "Segundo a SHEIN, a pesquisa abre a página de quem divulgou o código, com as ofertas que a loja mostrar ali. Não existe um desconto fixo preso ao código. O 4CW5Y é o código de indicação da Cecília."
+        ]
+      },
+      {
+        "heading": "Onde colocar o código de indicação da SHEIN",
+        "paragraphs": [
+          "A SHEIN manda pesquisar o código na busca do aplicativo. As telas abaixo são do site da SHEIN Brasil no celular, sem login:"
+        ],
+        "bullets": [
+          "**Passo 1:** toque na barra de busca da SHEIN.",
+          "**Passo 2:** digite o código, por exemplo 4CW5Y.",
+          "**Passo 3:** toque na lupa. A SHEIN abre a página ligada ao código.",
+          "**Passo 4:** escolha as peças a partir dessa página e monte o carrinho."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+            "alt": "Tela de busca do site da SHEIN Brasil no celular, com a barra de pesquisa ainda sem texto digitado, a busca recente 4CW5Y e as sugestões da loja",
+            "caption": "Passo 1: a busca aberta no site da SHEIN Brasil, no celular, antes de digitar o código.",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+            "alt": "Barra de busca da SHEIN Brasil com o código 4CW5Y digitado, que aparece na tela como 4Cw5y",
+            "caption": "Passo 2: o código digitado na barra de busca.",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "Página da SHEIN Brasil aberta depois da pesquisa, com o título \"Acho que você pode gostar\" e dois produtos com preço em reais",
+            "caption": "Passo 3: a página que a pesquisa pelo 4CW5Y abriu em 12/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ],
+        "postParagraphs": [
+          "Não use o código como cupom: a SHEIN manda pesquisá-lo na caixa de busca."
+        ]
+      },
+      {
+        "heading": "O que aparece depois da pesquisa e o que você ganha",
+        "paragraphs": [
+          "Segundo a SHEIN, quem pesquisa o código de um afiliado vê a página de seleções dele. Se a pessoa ainda não escolheu produtos, aparece a página padrão de seleções da SHEIN. Em 12/10/2026, a pesquisa pelo 4CW5Y abriu uma página de recomendações com o título \"Acho que você pode gostar\".",
+          "Não há um desconto fixo ligado ao código. A SHEIN diz que quem chega pelo afiliado pode receber as vantagens mostradas nas páginas de campanha ou de produto, e que atualiza essas ofertas com frequência. As campanhas em vigor, conferidas com data, ficam na página da SHEIN aqui do site."
+        ],
+        "links": [
+          {
+            "label": "Ver o código de indicação 4CW5Y e as campanhas da SHEIN",
+            "href": "/cupons/shein"
+          }
+        ],
+        "postParagraphs": [
+          "Para a compra contar para quem divulgou o código, a SHEIN diz que o pedido precisa ser finalizado em até 24 horas depois da busca ou do clique, e vale o último código ou link usado. A comissão não aumenta o que você paga."
+        ]
+      },
+      {
+        "heading": "Por que os guias antigos, com o cupom de R$ 10, não valem mais",
+        "paragraphs": [
+          "Muitos guias e vídeos ainda descrevem o programa de afiliados que a SHEIN encerrou em 29 de agosto de 2024. Nele, quem usava o código de um afiliado ganhava um cupom de R$ 10. A SHEIN desativou esses códigos, e o cupom de R$ 10 acabou junto.",
+          "No programa atual, não existe mais vínculo entre quem indica e quem usa o código. O código só leva à página do afiliado, e as vantagens são as das campanhas que aparecem ali."
+        ]
+      },
+      {
+        "heading": "Como ter o seu código de indicação",
+        "paragraphs": [
+          "O código de indicação sai do programa de afiliados da SHEIN. Para se cadastrar, pesquise \"afiliado\" no aplicativo da SHEIN e valide uma conta de Instagram, YouTube ou TikTok que cumpra os requisitos do programa, como um número mínimo de seguidores.",
+          "Depois do cadastro, o código aparece na página inicial de afiliado. Ele é sempre o mesmo, e não dá para escolher as letras."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Onde colocar o código de indicação da SHEIN? Na barra de busca do aplicativo ou do site da SHEIN no celular, não no campo de cupom.",
+          "Como usar o código de indicação da SHEIN? Abra a busca, digite o código, toque na lupa e monte o carrinho a partir da página que abrir.",
+          "Como funciona o código de indicação da SHEIN? Segundo a SHEIN, ele abre a página de quem divulgou o código. Se você finalizar a compra em até 24 horas, essa pessoa recebe a comissão, sem custo extra para você.",
+          "O código de indicação da SHEIN dá desconto? Não há um desconto fixo: você pode receber as ofertas que a SHEIN mostrar na página que o código abre.",
+          "O código de indicação é a mesma coisa que cupom? Não. Segundo a SHEIN, o código vai na caixa de busca, e não como cupom.",
+          "Como saber meu código de indicação da SHEIN? O código de indicação sai do programa de afiliados da SHEIN. Depois do cadastro, feito pela busca \"afiliado\" no aplicativo, ele aparece na página inicial de afiliado.",
+          "O código de indicação de 2024 ou 2025 ainda vale? Os códigos do programa antigo, que acabou em 29 de agosto de 2024, foram desativados junto com o cupom de R$ 10. No programa atual, o código leva à página do afiliado, sem desconto fixo, e o 4CW5Y é o código atual da Cecília.",
+          "O 4CW5Y funciona fora do Brasil? A SHEIN não diz. O código é da SHEIN Brasil e pode não valer na SHEIN de outro país.",
+          "Preciso criar uma conta nova para usar o código? Não: em 12/10/2026, a pesquisa abriu a página mesmo sem login. Ofertas só para novos usuários, quando existem, aparecem marcadas na campanha.",
+          "Dá para usar o código de indicação no computador? A SHEIN fala em pesquisar o código no aplicativo, e as telas deste guia são do site no celular. No computador, não conferimos."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Abra a SHEIN pelo link da Cecília ou pesquise 4CW5Y na busca do aplicativo",
+      "label": "Abrir a SHEIN",
+      "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Regras das páginas oficiais da SHEIN. Podemos receber comissão pelas compras.",
+    "relatedArticles": [
+      {
+        "slug": "shein-e-confiavel",
+        "title": "SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa"
+      },
+      {
+        "slug": "black-friday-shein",
+        "title": "Black Friday SHEIN 2026: quando começa, até quando vai e o imposto de importação zero até US$ 50"
+      }
+    ]
+  },
+  {
+    "id": 366,
+    "slug": "shein-referral-code-where-to-enter",
+    "locale": "en",
+    "translationKey": "shein-referral-code",
+    "title": "SHEIN Brazil referral code: where to enter it and how it works",
+    "seoTitle": "SHEIN Brazil referral code: where to enter it, how to use",
+    "type": "Referral Code Guide",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Where to enter SHEIN Brazil's referral code (in the search bar, not the coupon field), the step-by-step with screenshots, what opens after the search and how to get your own code.",
+    "metaDescription": "The SHEIN Brazil referral code goes in the search bar, not the coupon field. See the step-by-step with screenshots, what it opens and how to get your own.",
+    "publishedAt": "October 13, 2026",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+    "imageAlt": "Two screens of the SHEIN Brazil website on a phone, in Portuguese: the search bar with the code typed in and the page that opens after the search",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "A SHEIN referral code goes in the store's **search bar**, in the app or on the website on your phone, not in the coupon field. SHEIN itself says so in the affiliate program's FAQ: use the code in the search box, “not as a coupon”.",
+          "According to SHEIN, the search opens the page of the person who shared the code, with the offers the store shows there. There is no fixed discount tied to the code.",
+          "4CW5Y is Cecília's referral code on SHEIN Brazil, and it may not work in your country."
+        ]
+      },
+      {
+        "heading": "Where to enter the SHEIN referral code",
+        "paragraphs": [
+          "SHEIN says to search for the code in the app's search bar. The screenshots below are from the SHEIN Brazil website on a phone, in Portuguese, without logging in:"
+        ],
+        "bullets": [
+          "**Step 1:** tap SHEIN's search bar.",
+          "**Step 2:** type the code, for example 4CW5Y.",
+          "**Step 3:** tap the magnifying glass. SHEIN opens the page tied to the code.",
+          "**Step 4:** pick items from that page and build your cart."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+            "alt": "Search screen of the SHEIN Brazil website on a phone, in Portuguese, with the search bar still empty, the recent search 4CW5Y and the store's suggestions",
+            "caption": "Step 1: the search page open on the SHEIN Brazil website, on a phone (in Portuguese), before the code is typed.",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+            "alt": "SHEIN Brazil search bar with the code 4CW5Y typed in, which shows on screen as 4Cw5y",
+            "caption": "Step 2: the code typed into the search bar.",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "SHEIN Brazil page opened after the search, in Portuguese, with the title “Acho que você pode gostar” (“I think you might like”) and two products priced in reais",
+            "caption": "Step 3: the page that the 4CW5Y search opened on October 12, 2026.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ],
+        "postParagraphs": [
+          "Don't use the code as a coupon: SHEIN says to search for it in the search box."
+        ]
+      },
+      {
+        "heading": "What opens after the search and what you get",
+        "paragraphs": [
+          "According to SHEIN, when someone searches an affiliate's code, they see that affiliate's picks page. If the person has not chosen products yet, SHEIN's default picks page appears. On October 12, 2026, the search for 4CW5Y opened a recommendations page titled “Acho que você pode gostar” (“I think you might like”).",
+          "There is no fixed discount tied to the code. SHEIN says that people who arrive through an affiliate may get the benefits shown on the campaign or product pages, and that it updates these offers often. The campaigns currently running on SHEIN Brazil, each with the date we checked it, are on the store page on this site."
+        ],
+        "links": [
+          {
+            "label": "See the 4CW5Y referral code and SHEIN Brazil's campaigns",
+            "href": "/en/coupons/shein"
+          }
+        ],
+        "postParagraphs": [
+          "Under SHEIN Brazil's affiliate program, SHEIN says the order must be completed within 24 hours of the search or click for the purchase to count for the person who shared the code, and the last code or link used is the one that counts. The commission does not increase what you pay."
+        ]
+      },
+      {
+        "heading": "How to get your own referral code",
+        "paragraphs": [
+          "The referral code comes from SHEIN's affiliate program. On SHEIN Brazil, signing up starts by searching “afiliado” (“affiliate”) in the app and validating an Instagram, YouTube or TikTok account that meets the program's requirements, such as a minimum number of followers; SHEIN's pages do not say whether the program is open in your country.",
+          "After sign-up, the code appears on the affiliate home page. It is always the same, and you cannot choose the letters."
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Where do I enter a SHEIN referral code? In the search bar of the SHEIN app or of the website on your phone, not in the coupon field.",
+          "How do I use a SHEIN referral code? Open the search, type the code, tap the magnifying glass and build your cart from the page that opens.",
+          "How does the SHEIN referral code work? According to SHEIN, it opens the page of the person who shared the code. In SHEIN Brazil's affiliate program, if you complete the purchase within 24 hours, that person earns the commission, at no extra cost to you.",
+          "Does the SHEIN referral code give a discount? There is no fixed discount: you may get the offers SHEIN shows on the page the code opens.",
+          "Is the referral code the same thing as a coupon? No. According to SHEIN, the code goes in the search box and is not used as a coupon.",
+          "How do I find my SHEIN referral code? The referral code comes from SHEIN's affiliate program. After sign-up, which on SHEIN Brazil starts by searching “afiliado” (“affiliate”) in the app, it appears on the affiliate home page.",
+          "Does 4CW5Y work outside Brazil? SHEIN does not say. The code is from SHEIN Brazil and may not work on SHEIN in another country.",
+          "Can I use the referral code on a computer? SHEIN talks about searching for the code in the app, and the screenshots in this guide are from the website on a phone. We did not check on a computer."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Open SHEIN through Cecília's link or search 4CW5Y in the search bar of the SHEIN Brazil app",
+      "label": "Open SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Rules from SHEIN's official pages. We may earn a commission on purchases.",
+    "relatedArticles": [
+      {
+        "slug": "is-shein-legit-and-safe",
+        "title": "Is SHEIN legit and safe? Who runs it, where it's from and its return policy"
+      },
+      {
+        "slug": "shein-black-friday-dates-taxes",
+        "title": "SHEIN Brazil Black Friday 2026: when it starts, how long it lasts and the zero import tax up to US$ 50"
+      }
+    ]
+  },
+  {
+    "id": 367,
+    "slug": "codigo-de-referido-shein-donde-ponerlo",
+    "locale": "es",
+    "translationKey": "shein-referral-code",
+    "title": "Código de referido de SHEIN Brasil: dónde ponerlo y cómo usarlo",
+    "seoTitle": "Código de referido SHEIN Brasil: dónde ponerlo y cómo usarlo",
+    "type": "Guía del código de referido",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Dónde poner el código de referido de SHEIN Brasil (en la barra de búsqueda, no en el campo de cupón), el paso a paso con capturas, qué abre después de la búsqueda y cómo conseguir tu propio código.",
+    "metaDescription": "El código de referido de SHEIN Brasil va en la barra de búsqueda, no en el campo de cupón. Mira el paso a paso con capturas, qué abre y cómo conseguir el tuyo.",
+    "publishedAt": "13 de octubre de 2026",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+    "imageAlt": "Dos pantallas del sitio de SHEIN Brasil en el celular, en portugués: la barra de búsqueda con el código escrito y la página que se abre después de la búsqueda",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "El código de referido de SHEIN va en la **barra de búsqueda** de la tienda, en la app o en el sitio desde el celular, no en el campo de cupón. La propia SHEIN lo dice en las preguntas frecuentes de su programa de afiliados: usa el código en el cuadro de búsqueda, no como un cupón.",
+          "Según SHEIN, la búsqueda abre la página de quien compartió el código, con las ofertas que la tienda muestre allí. No hay un descuento fijo ligado al código.",
+          "4CW5Y es el código de referido de Cecília en SHEIN Brasil, y puede no funcionar en tu país."
+        ]
+      },
+      {
+        "heading": "Dónde poner el código de referido de SHEIN",
+        "paragraphs": [
+          "SHEIN indica que el código se busca en la barra de búsqueda de la app. Las capturas de abajo son del sitio de SHEIN Brasil en el celular, en portugués y sin iniciar sesión:"
+        ],
+        "bullets": [
+          "**Paso 1:** toca la barra de búsqueda de SHEIN.",
+          "**Paso 2:** escribe el código, por ejemplo 4CW5Y.",
+          "**Paso 3:** toca la lupa. SHEIN abre la página ligada al código.",
+          "**Paso 4:** elige los artículos desde esa página y arma tu carrito."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+            "alt": "Pantalla de búsqueda del sitio de SHEIN Brasil en el celular, en portugués, con la barra de búsqueda todavía sin texto, la búsqueda reciente 4CW5Y y las sugerencias de la tienda",
+            "caption": "Paso 1: la búsqueda abierta en el sitio de SHEIN Brasil, en el celular (pantalla en portugués), antes de escribir el código.",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+            "alt": "Barra de búsqueda de SHEIN Brasil con el código 4CW5Y escrito, que en la pantalla aparece como 4Cw5y",
+            "caption": "Paso 2: el código escrito en la barra de búsqueda.",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "Página de SHEIN Brasil abierta después de la búsqueda, en portugués, con el título “Acho que você pode gostar” (“Creo que te puede gustar”) y dos productos con precio en reales",
+            "caption": "Paso 3: la página que abrió la búsqueda de 4CW5Y el 12 de octubre de 2026.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ],
+        "postParagraphs": [
+          "No uses el código como cupón: SHEIN indica que se busca en el cuadro de búsqueda."
+        ]
+      },
+      {
+        "heading": "Qué aparece después de la búsqueda y qué obtienes",
+        "paragraphs": [
+          "Según SHEIN, quien busca el código de un afiliado ve la página de selecciones de esa persona. Si todavía no eligió productos, aparece la página de selecciones predeterminada de SHEIN. El 12 de octubre de 2026, la búsqueda de 4CW5Y abrió una página de recomendaciones con el título “Acho que você pode gostar” (“Creo que te puede gustar”).",
+          "No hay un descuento fijo ligado al código. SHEIN dice que quien llega por un afiliado puede recibir las ventajas que muestran las páginas de campaña o de producto, y que actualiza esas ofertas con frecuencia. Las campañas vigentes de SHEIN Brasil, cada una con su fecha de revisión, están en la página de la tienda de este sitio."
+        ],
+        "links": [
+          {
+            "label": "Ver el código de referido 4CW5Y y las campañas de SHEIN Brasil",
+            "href": "/es/coupons/shein"
+          }
+        ],
+        "postParagraphs": [
+          "En el programa de afiliados de SHEIN Brasil, para que la compra cuente a favor de quien compartió el código, SHEIN dice que el pedido debe completarse dentro de las 24 horas siguientes a la búsqueda o al clic, y vale el último código o enlace usado. La comisión no aumenta lo que tú pagas."
+        ]
+      },
+      {
+        "heading": "Cómo conseguir tu propio código de referido",
+        "paragraphs": [
+          "El código de referido sale del programa de afiliados de SHEIN. En SHEIN Brasil, el registro empieza buscando “afiliado” en la app y validando una cuenta de Instagram, YouTube o TikTok que cumpla los requisitos del programa, como un mínimo de seguidores; las páginas de SHEIN no dicen si el programa está abierto en tu país.",
+          "Después del registro, el código aparece en la página de inicio de afiliados. Es siempre el mismo, y no se pueden elegir las letras."
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Dónde poner el código de referido de SHEIN? En la barra de búsqueda de la app o del sitio de SHEIN en el celular, no en el campo de cupón.",
+          "¿Cómo usar el código de referido de SHEIN? Abre la búsqueda, escribe el código, toca la lupa y arma tu carrito desde la página que se abra.",
+          "¿Cómo funciona el código de referido de SHEIN? Según SHEIN, abre la página de quien compartió el código. En el programa de afiliados de SHEIN Brasil, si completas la compra dentro de las 24 horas siguientes a la búsqueda o al clic, esa persona recibe la comisión, sin costo extra para ti.",
+          "¿El código de referido de SHEIN da descuento? No hay un descuento fijo: puedes recibir las ofertas que SHEIN muestre en la página que abre el código.",
+          "¿El código de referido es lo mismo que un cupón? No. Según SHEIN, el código va en el cuadro de búsqueda y no se usa como cupón.",
+          "¿Cómo saber cuál es mi código de referido de SHEIN? El código de referido sale del programa de afiliados de SHEIN. Después del registro, que en SHEIN Brasil empieza buscando “afiliado” en la app, aparece en la página de inicio de afiliados.",
+          "¿El código 4CW5Y funciona fuera de Brasil? SHEIN no lo dice. El código es de SHEIN Brasil y puede no funcionar en SHEIN de otro país.",
+          "¿Se puede usar el código de referido en la computadora? SHEIN habla de buscar el código en la app, y las capturas de esta guía son del sitio en el celular. En la computadora no lo comprobamos."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Abre SHEIN con el enlace de Cecília o busca 4CW5Y en la barra de búsqueda de la app de SHEIN Brasil",
+      "label": "Abrir SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Reglas de las páginas oficiales de SHEIN. Podemos recibir comisión por las compras.",
+    "relatedArticles": [
+      {
+        "slug": "shein-es-confiable-y-seguro",
+        "title": "¿SHEIN es confiable y segura? Quién la opera, de dónde es, devoluciones y aduana"
+      },
+      {
+        "slug": "black-friday-shein-fechas-impuestos",
+        "title": "Black Friday SHEIN Brasil 2026: cuándo empieza, cuándo termina y el impuesto de importación cero hasta US$ 50"
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "slug": "code-de-parrainage-shein-ou-le-mettre",
+    "locale": "fr",
+    "translationKey": "shein-referral-code",
+    "title": "Code de parrainage SHEIN Brésil : où le mettre et comment l'utiliser",
+    "seoTitle": "Code de parrainage SHEIN Brésil : où le mettre",
+    "type": "Guide du code de parrainage",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Où saisir le code de parrainage de SHEIN Brésil (dans la barre de recherche, pas dans le champ du coupon), le pas à pas avec les captures, ce qui s'ouvre après la recherche et comment obtenir votre propre code.",
+    "metaDescription": "Le code de parrainage SHEIN Brésil se tape dans la barre de recherche, pas dans le champ du coupon. Le pas à pas avec captures et comment obtenir le vôtre.",
+    "publishedAt": "13 octobre 2026",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+    "imageAlt": "Deux écrans du site de SHEIN Brésil sur téléphone, en portugais : la barre de recherche avec le code saisi et la page qui s'ouvre après la recherche",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Le code de parrainage SHEIN dont parle ce guide n'a pas de valeur fixe et ne donne pas droit à une prime en euros : on le tape dans la **barre de recherche** de la boutique, dans l'appli ou sur le site depuis le téléphone, et non dans le champ du coupon. SHEIN le dit elle-même dans la FAQ de son programme d'affiliation : utilisez le code dans la zone de recherche, et non comme un coupon.",
+          "Selon SHEIN, la recherche ouvre la page de la personne qui a partagé le code, avec les offres que la boutique y affiche. Il n'y a pas de réduction fixe liée au code.",
+          "Le 4CW5Y est le code de parrainage de Cecília sur SHEIN Brésil, et il peut ne pas fonctionner dans votre pays."
+        ]
+      },
+      {
+        "heading": "Où saisir le code de parrainage SHEIN",
+        "paragraphs": [
+          "SHEIN demande de rechercher le code dans la barre de recherche de l'appli. Les captures ci-dessous viennent du site de SHEIN Brésil sur téléphone, en portugais, sans connexion :"
+        ],
+        "bullets": [
+          "**Étape 1 :** appuyez sur la barre de recherche de SHEIN.",
+          "**Étape 2 :** saisissez le code, par exemple 4CW5Y.",
+          "**Étape 3 :** appuyez sur la loupe. SHEIN ouvre la page liée au code.",
+          "**Étape 4 :** choisissez les articles à partir de cette page et composez votre panier."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+            "alt": "Écran de recherche du site de SHEIN Brésil sur téléphone, en portugais, avec la barre de recherche encore vide, la recherche récente 4CW5Y et les suggestions de la boutique",
+            "caption": "Étape 1 : la recherche ouverte sur le site de SHEIN Brésil, sur téléphone (écran en portugais), avant de saisir le code.",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+            "alt": "Barre de recherche de SHEIN Brésil avec le code 4CW5Y saisi, qui s'affiche à l'écran sous la forme 4Cw5y",
+            "caption": "Étape 2 : le code saisi dans la barre de recherche.",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "Page de SHEIN Brésil ouverte après la recherche, en portugais, avec le titre « Acho que você pode gostar » (« Je pense que cela pourrait vous plaire ») et deux produits avec un prix en réais",
+            "caption": "Étape 3 : la page qu'a ouverte la recherche de 4CW5Y le 12 octobre 2026.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ],
+        "postParagraphs": [
+          "N'utilisez pas le code comme un coupon : SHEIN demande de le rechercher dans la zone de recherche."
+        ]
+      },
+      {
+        "heading": "Ce qui s'affiche après la recherche et ce que vous obtenez",
+        "paragraphs": [
+          "Selon SHEIN, la personne qui recherche le code d'un affilié voit la page de sélections de cet affilié. S'il n'a pas encore choisi de produits, c'est la page de sélections par défaut de SHEIN qui s'affiche. Le 12 octobre 2026, la recherche de 4CW5Y a ouvert une page de recommandations intitulée « Acho que você pode gostar » (« Je pense que cela pourrait vous plaire »).",
+          "Il n'y a pas de réduction fixe liée au code. SHEIN indique que les personnes qui arrivent par un affilié peuvent bénéficier des avantages affichés sur les pages de campagne ou de produit, et qu'elle met ces offres à jour fréquemment. Les campagnes en cours de SHEIN Brésil, chacune avec sa date de vérification, se trouvent sur la page de la boutique de ce site."
+        ],
+        "links": [
+          {
+            "label": "Voir le code de parrainage 4CW5Y et les campagnes de SHEIN Brésil",
+            "href": "/fr/coupons/shein"
+          }
+        ],
+        "postParagraphs": [
+          "Dans le programme d'affiliation de SHEIN Brésil, pour que l'achat compte pour la personne qui a partagé le code, SHEIN indique que la commande doit être finalisée dans les 24 heures suivant la recherche ou le clic, et c'est le dernier code ou lien utilisé qui compte. La commission n'augmente pas ce que vous payez."
+        ]
+      },
+      {
+        "heading": "Comment obtenir votre propre code de parrainage",
+        "paragraphs": [
+          "Le code de parrainage provient du programme d'affiliation de SHEIN. Sur SHEIN Brésil, l'inscription commence par la recherche de « afiliado » (« affilié ») dans l'appli et par la validation d'un compte Instagram, YouTube ou TikTok qui remplit les conditions du programme, comme un nombre minimum d'abonnés ; les pages de SHEIN ne disent pas si le programme est ouvert dans votre pays.",
+          "Après l'inscription, le code apparaît sur la page d'accueil de l'espace affilié. Il reste toujours le même, et il n'est pas possible d'en choisir les lettres."
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Où mettre le code de parrainage SHEIN ? Dans la barre de recherche de l'appli SHEIN ou du site sur téléphone, et non dans le champ du coupon.",
+          "Comment utiliser le code de parrainage SHEIN ? Ouvrez la recherche, tapez le code, appuyez sur la loupe et composez votre panier à partir de la page qui s'ouvre.",
+          "Comment fonctionne le code de parrainage SHEIN ? Selon SHEIN, il ouvre la page de la personne qui a partagé le code. Dans le programme d'affiliation de SHEIN Brésil, si vous finalisez l'achat dans les 24 heures, cette personne reçoit la commission, sans frais supplémentaires pour vous.",
+          "Le code de parrainage SHEIN donne-t-il une réduction ? Il n'y a pas de réduction fixe : vous pouvez bénéficier des offres que SHEIN affiche sur la page ouverte par le code.",
+          "Le code de parrainage est-il la même chose qu'un coupon ? Non. Selon SHEIN, le code se tape dans la zone de recherche et ne s'utilise pas comme un coupon.",
+          "Comment connaître mon code de parrainage SHEIN ? Le code de parrainage provient du programme d'affiliation de SHEIN. Après l'inscription, qui commence sur SHEIN Brésil par la recherche de « afiliado » dans l'appli, il apparaît sur la page d'accueil de l'espace affilié.",
+          "Le 4CW5Y fonctionne-t-il en dehors du Brésil ? SHEIN ne le dit pas. Le code est celui de SHEIN Brésil et peut ne pas fonctionner sur SHEIN dans un autre pays.",
+          "Peut-on utiliser le code de parrainage sur ordinateur ? SHEIN parle de rechercher le code dans l'appli, et les captures de ce guide viennent du site sur téléphone. Sur ordinateur, nous n'avons pas vérifié."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Ouvrez SHEIN via le lien de Cecília ou recherchez 4CW5Y dans la barre de recherche de l'appli SHEIN Brésil",
+      "label": "Ouvrir SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Règles des pages officielles de SHEIN. Nous pouvons toucher une commission sur les achats.",
+    "relatedArticles": [
+      {
+        "slug": "shein-est-il-fiable-et-sur",
+        "title": "SHEIN est-il fiable et sûr ? Qui l'exploite, d'où il vient, les retours et la douane"
+      },
+      {
+        "slug": "black-friday-shein-dates-et-taxes",
+        "title": "Black Friday SHEIN Brésil 2026 : quand il commence, jusqu'à quand et la taxe d'importation nulle jusqu'à US$ 50"
+      }
+    ]
+  },
+  {
+    "id": 369,
+    "slug": "shein-empfehlungscode-wo-eingeben",
+    "locale": "de",
+    "translationKey": "shein-referral-code",
+    "title": "SHEIN-Empfehlungscode (Brasilien): wo eingeben und wie er funktioniert",
+    "seoTitle": "SHEIN-Empfehlungscode (Brasilien): wo eingeben, wie nutzen",
+    "type": "Empfehlungscode-Ratgeber",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Wo Sie den Empfehlungscode von SHEIN Brasilien eingeben (in der Suche, nicht im Gutscheinfeld), die Schritt-für-Schritt-Anleitung mit Screenshots, was nach der Suche erscheint und wie Sie Ihren eigenen Code bekommen.",
+    "metaDescription": "Der SHEIN-Empfehlungscode gehört in die Suche, nicht ins Gutscheinfeld. Mit Screenshots: was er öffnet und wie Sie Ihren eigenen bekommen.",
+    "publishedAt": "13. Oktober 2026",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+    "imageAlt": "Zwei Screenshots der SHEIN-Brasilien-Website auf dem Smartphone: die Suchleiste mit eingegebenem Code und die Seite, die sich nach der Suche öffnet",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Die Antwort in Kürze",
+        "paragraphs": [
+          "Der Empfehlungscode von SHEIN gehört in die **Suche** des Shops, in der App oder auf der Website im Browser des Smartphones, nicht in das Gutscheinfeld. Das sagt SHEIN selbst in den häufig gestellten Fragen zum Affiliate-Programm: Der Code wird im Suchfeld verwendet, nicht als Gutschein.",
+          "Laut SHEIN öffnet die Suche die Seite der Person, die den Code verbreitet hat, mit den Angeboten, die der Shop dort zeigt. Es gibt keinen festen Rabatt, der am Code hängt. 4CW5Y ist Cecílias Empfehlungscode bei SHEIN Brasilien und gilt in Ihrem Land womöglich nicht."
+        ]
+      },
+      {
+        "heading": "Wo Sie den SHEIN-Empfehlungscode eingeben",
+        "paragraphs": [
+          "Laut SHEIN geben Sie den Code in die Suche der App ein. Die Screenshots unten stammen von der Website von SHEIN Brasilien auf dem Smartphone, auf Portugiesisch und ohne Anmeldung:"
+        ],
+        "bullets": [
+          "**Schritt 1:** Tippen Sie auf die Suchleiste von SHEIN.",
+          "**Schritt 2:** Geben Sie den Code ein, zum Beispiel 4CW5Y.",
+          "**Schritt 3:** Tippen Sie auf die Lupe. SHEIN öffnet die Seite, die mit dem Code verknüpft ist.",
+          "**Schritt 4:** Wählen Sie ab dieser Seite Ihre Teile aus und stellen Sie den Warenkorb zusammen."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+            "alt": "Suchbildschirm der SHEIN-Brasilien-Website auf dem Smartphone, mit der Suchleiste noch ohne eingegebenen Text, der letzten Suche 4CW5Y und den Vorschlägen des Shops",
+            "caption": "Schritt 1: die geöffnete Suche auf der SHEIN-Brasilien-Website, auf dem Smartphone, vor der Eingabe des Codes.",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+            "alt": "Suchleiste von SHEIN Brasilien mit dem eingegebenen Code 4CW5Y, der auf dem Bildschirm als 4Cw5y erscheint",
+            "caption": "Schritt 2: der in die Suchleiste eingegebene Code.",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "Seite von SHEIN Brasilien, die sich nach der Suche öffnet, mit dem Titel „Acho que você pode gostar“ („Ich glaube, das könnte Ihnen gefallen“) und zwei Produkten mit Preis in Reais",
+            "caption": "Schritt 3: die Seite, die die Suche nach 4CW5Y am 12.10.2026 geöffnet hat.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ],
+        "postParagraphs": [
+          "Verwenden Sie den Code nicht als Gutschein: Laut SHEIN gehört er in das Suchfeld."
+        ]
+      },
+      {
+        "heading": "Was nach der Suche erscheint und was Sie davon haben",
+        "paragraphs": [
+          "Laut SHEIN landet, wer den Code eines Affiliates sucht, auf dessen Auswahlseite. Hat der Affiliate noch keine Produkte ausgewählt, erscheint die Standard-Auswahlseite von SHEIN. Am 12.10.2026 öffnete die Suche nach 4CW5Y bei SHEIN Brasilien eine Empfehlungsseite mit dem Titel „Acho que você pode gostar“ („Ich glaube, das könnte Ihnen gefallen“).",
+          "Es gibt keinen festen Rabatt, der am Code hängt. Laut SHEIN können Kunden, die über einen Affiliate kommen, die Vorteile erhalten, die auf den Kampagnen- oder Produktseiten angezeigt werden. SHEIN aktualisiert diese Angebote nach eigener Aussage häufig. Die aktuellen Aktionen von SHEIN Brasilien, mit Datum der letzten Prüfung, stehen auf der Shop-Seite dieser Website."
+        ],
+        "links": [
+          {
+            "label": "Den Empfehlungscode 4CW5Y und die Aktionen von SHEIN Brasilien ansehen",
+            "href": "/de/coupons/shein"
+          }
+        ],
+        "postParagraphs": [
+          "Nach den Regeln des Affiliate-Programms von SHEIN Brasilien muss die Bestellung innerhalb von 24 Stunden nach der Suche oder dem Klick abgeschlossen werden, damit sie der Person zugerechnet wird, die den Code verbreitet hat. Es zählt der zuletzt verwendete Code oder Link. Die Provision erhöht nicht, was Sie bezahlen."
+        ]
+      },
+      {
+        "heading": "So bekommen Sie Ihren eigenen Empfehlungscode",
+        "paragraphs": [
+          "Der Empfehlungscode stammt aus dem Affiliate-Programm von SHEIN. Bei SHEIN Brasilien beginnt die Anmeldung mit der Suche nach „afiliado“ („Affiliate“) in der App und der Bestätigung eines Instagram-, YouTube- oder TikTok-Kontos, das die Anforderungen des Programms erfüllt, etwa eine Mindestzahl an Followern. Ob das Programm in Ihrem Land offen ist, sagen die SHEIN-Seiten nicht.",
+          "Nach der Anmeldung erscheint der Code auf der Affiliate-Startseite. Er bleibt immer derselbe, und die Buchstaben lassen sich nicht wählen."
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Wo gebe ich den SHEIN-Empfehlungscode ein? In der Suchleiste der SHEIN-App oder der Website im Browser des Smartphones, nicht im Gutscheinfeld.",
+          "Wie verwende ich den SHEIN-Empfehlungscode? Öffnen Sie die Suche, geben Sie den Code ein, tippen Sie auf die Lupe und stellen Sie den Warenkorb auf der Seite zusammen, die sich öffnet.",
+          "Wie funktioniert der SHEIN-Empfehlungscode? Laut SHEIN öffnet er die Seite der Person, die den Code verbreitet hat. Schließen Sie die Bestellung innerhalb von 24 Stunden ab, erhält diese Person nach den Regeln des Affiliate-Programms von SHEIN Brasilien die Provision, ohne Mehrkosten für Sie.",
+          "Gibt der SHEIN-Empfehlungscode Rabatt? Es gibt keinen festen Rabatt: Sie können die Angebote erhalten, die SHEIN auf der Seite zeigt, die der Code öffnet.",
+          "Ist der Empfehlungscode dasselbe wie ein Gutschein? Nein. Laut SHEIN gehört der Code in das Suchfeld und wird nicht als Gutschein verwendet.",
+          "Wie bekomme ich meinen eigenen SHEIN-Empfehlungscode? Er stammt aus dem Affiliate-Programm von SHEIN. Nach der Anmeldung, bei SHEIN Brasilien über die Suche nach „afiliado“ in der App, erscheint er auf der Affiliate-Startseite. Ob das Programm in Ihrem Land offen ist, sagen die SHEIN-Seiten nicht.",
+          "Funktioniert 4CW5Y außerhalb Brasiliens? SHEIN sagt dazu nichts. Der Code gehört zu SHEIN Brasilien und gilt womöglich nicht bei SHEIN in einem anderen Land.",
+          "Kann ich den Empfehlungscode am Computer verwenden? SHEIN spricht davon, den Code in der App zu suchen, und die Screenshots in diesem Ratgeber stammen von der Website auf dem Smartphone. Am Computer haben wir es nicht geprüft."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Öffnen Sie SHEIN über Cecílias Link oder geben Sie 4CW5Y in die Suche der SHEIN-Brasilien-App ein",
+      "label": "SHEIN öffnen",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Regeln laut den offiziellen SHEIN-Seiten. Wir können für Käufe eine Provision erhalten.",
+    "relatedArticles": [
+      {
+        "slug": "ist-shein-serioes-und-sicher",
+        "title": "Ist SHEIN seriös und sicher? Betreiber, Herkunft, Rückgabe und Zoll"
+      },
+      {
+        "slug": "shein-black-friday-termine-steuern",
+        "title": "Black Friday SHEIN 2026: Beginn, Ende und Einfuhrsteuer null bis US$ 50"
+      }
+    ]
+  },
+  {
+    "id": 370,
+    "slug": "codice-invito-shein-dove-inserirlo",
+    "locale": "it",
+    "translationKey": "shein-referral-code",
+    "title": "Codice invito SHEIN Brasile: dove inserirlo e come usarlo",
+    "seoTitle": "Codice invito SHEIN Brasile: dove inserirlo, come usarlo",
+    "type": "Guida al codice invito",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Dove inserire il codice invito di SHEIN Brasile (nella ricerca, non nel campo del coupon), la guida passo passo con le schermate, cosa compare dopo la ricerca e come avere il tuo codice.",
+    "metaDescription": "Il codice invito di SHEIN Brasile va nella ricerca, non nel campo del coupon. Guida passo passo con le schermate: cosa apre e come avere il tuo.",
+    "publishedAt": "13 ottobre 2026",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+    "imageAlt": "Due schermate del sito di SHEIN Brasile sul telefono: la barra di ricerca con il codice digitato e la pagina che si apre dopo la ricerca",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Il codice invito di SHEIN (o «codice amico») va nella **ricerca** del negozio, nell'app o nel sito dal telefono, non nel campo del coupon. Lo dice la stessa SHEIN nelle domande frequenti del programma di affiliazione: il codice si usa nella casella di ricerca, non come un coupon.",
+          "Secondo SHEIN, la ricerca apre la pagina di chi ha diffuso il codice, con le offerte che il negozio mostra lì. Non esiste uno sconto fisso legato al codice. Il 4CW5Y è il codice invito di Cecília su SHEIN Brasile e potrebbe non valere nel tuo paese."
+        ]
+      },
+      {
+        "heading": "Dove inserire il codice invito di SHEIN",
+        "paragraphs": [
+          "Secondo SHEIN, il codice va digitato nella ricerca dell'app. Le schermate qui sotto sono del sito di SHEIN Brasile sul telefono, in portoghese e senza login:"
+        ],
+        "bullets": [
+          "**Passo 1:** tocca la barra di ricerca di SHEIN.",
+          "**Passo 2:** scrivi il codice, per esempio 4CW5Y.",
+          "**Passo 3:** tocca la lente. SHEIN apre la pagina collegata al codice.",
+          "**Passo 4:** scegli gli articoli da quella pagina e prepara il carrello."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+            "alt": "Schermata di ricerca del sito di SHEIN Brasile sul telefono, con la barra di ricerca ancora senza testo, la ricerca recente 4CW5Y e i suggerimenti del negozio",
+            "caption": "Passo 1: la ricerca aperta sul sito di SHEIN Brasile, dal telefono, prima di scrivere il codice.",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+            "alt": "Barra di ricerca di SHEIN Brasile con il codice 4CW5Y digitato, che sullo schermo appare come 4Cw5y",
+            "caption": "Passo 2: il codice scritto nella barra di ricerca.",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "Pagina di SHEIN Brasile aperta dopo la ricerca, con il titolo «Acho que você pode gostar» («Penso che potrebbe piacerti») e due prodotti con il prezzo in reais",
+            "caption": "Passo 3: la pagina aperta dalla ricerca del 4CW5Y il 12/10/2026.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ],
+        "postParagraphs": [
+          "Non usare il codice come coupon: secondo SHEIN va digitato nella casella di ricerca."
+        ]
+      },
+      {
+        "heading": "Cosa compare dopo la ricerca e cosa ottieni",
+        "paragraphs": [
+          "Secondo SHEIN, chi cerca il codice di un affiliato vede la pagina delle sue selezioni. Se l'affiliato non ha ancora scelto dei prodotti, compare la pagina di selezioni standard di SHEIN. Il 12/10/2026 la ricerca del 4CW5Y su SHEIN Brasile ha aperto una pagina di consigli con il titolo «Acho que você pode gostar» («Penso che potrebbe piacerti»).",
+          "Non c'è uno sconto fisso legato al codice. SHEIN dice che chi arriva tramite l'affiliato può ricevere i vantaggi mostrati nelle pagine di campagna o di prodotto, e che aggiorna spesso queste offerte. Le campagne in corso di SHEIN Brasile, con la data dell'ultima verifica, si trovano nella pagina del negozio su questo sito."
+        ],
+        "links": [
+          {
+            "label": "Vedi il codice invito 4CW5Y e le campagne di SHEIN Brasile",
+            "href": "/it/coupons/shein"
+          }
+        ],
+        "postParagraphs": [
+          "Secondo il programma di affiliazione di SHEIN Brasile, perché l'acquisto sia attribuito a chi ha diffuso il codice, l'ordine va concluso entro 24 ore dalla ricerca o dal clic, e conta l'ultimo codice o link usato. La commissione non aumenta ciò che paghi."
+        ]
+      },
+      {
+        "heading": "Come avere il tuo codice invito",
+        "paragraphs": [
+          "Il codice invito nasce dal programma di affiliazione di SHEIN. Su SHEIN Brasile l'iscrizione parte cercando «afiliado» («affiliato») nell'app e convalidando un account Instagram, YouTube o TikTok che rispetti i requisiti del programma, come un numero minimo di follower. Le pagine di SHEIN non dicono se il programma è aperto nel tuo paese.",
+          "Dopo l'iscrizione il codice compare nella pagina iniziale degli affiliati. È sempre lo stesso e non si possono scegliere le lettere."
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Dove inserire il codice invito SHEIN? Nella barra di ricerca dell'app o del sito SHEIN dal telefono, non nel campo del coupon.",
+          "Come si usa il codice invito SHEIN? Apri la ricerca, scrivi il codice, tocca la lente e prepara il carrello dalla pagina che si apre.",
+          "Come funziona il codice invito SHEIN? Secondo SHEIN, apre la pagina di chi ha diffuso il codice. Se concludi l'ordine entro 24 ore, secondo il programma di affiliazione di SHEIN Brasile quella persona riceve la commissione, senza costi extra per te.",
+          "Il codice invito SHEIN dà uno sconto? Non c'è uno sconto fisso: puoi ricevere le offerte che SHEIN mostra nella pagina aperta dal codice.",
+          "Il codice invito è la stessa cosa di un coupon? No. Secondo SHEIN, il codice va nella casella di ricerca e non si usa come coupon.",
+          "Come ottengo il mio codice invito SHEIN? Nasce dal programma di affiliazione di SHEIN. Su SHEIN Brasile, dopo l'iscrizione, fatta cercando «afiliado» nell'app, compare nella pagina iniziale degli affiliati. Le pagine di SHEIN non dicono se il programma è aperto nel tuo paese.",
+          "Il 4CW5Y funziona fuori dal Brasile? SHEIN non lo dice. Il codice è di SHEIN Brasile e potrebbe non valere su SHEIN di un altro paese.",
+          "Posso usare il codice invito dal computer? SHEIN parla di cercare il codice nell'app, e le schermate di questa guida sono del sito sul telefono. Dal computer non abbiamo verificato."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Apri SHEIN con il link di Cecília o digita 4CW5Y nella ricerca dell'app di SHEIN Brasile",
+      "label": "Apri SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Regole delle pagine ufficiali di SHEIN. Possiamo ricevere commissioni sugli acquisti.",
+    "relatedArticles": [
+      {
+        "slug": "shein-e-affidabile-e-sicuro",
+        "title": "SHEIN è affidabile e sicuro? Chi lo gestisce, da dove viene, resi e dogana"
+      },
+      {
+        "slug": "black-friday-shein-date-e-tasse",
+        "title": "Black Friday SHEIN 2026: quando inizia, fino a quando dura e l'imposta di importazione zero fino a US$ 50"
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "slug": "shein-referral-code-ko",
+    "locale": "ko",
+    "translationKey": "shein-referral-code",
+    "title": "SHEIN 브라질 추천 코드: 입력하는 곳과 사용법",
+    "seoTitle": "SHEIN 브라질 추천 코드: 입력 위치와 사용법",
+    "type": "추천 코드 가이드",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN 브라질 추천 코드를 입력하는 곳(쿠폰 입력란이 아니라 검색창), 화면과 함께 보는 단계별 안내, 검색한 뒤 나오는 페이지, 내 추천 코드를 받는 방법을 정리했습니다.",
+    "metaDescription": "SHEIN 브라질 추천 코드는 쿠폰 입력란이 아니라 검색창에 입력합니다. 화면과 함께 보는 단계별 안내, 열리는 페이지, 내 코드를 받는 방법을 정리했습니다.",
+    "publishedAt": "2026년 10월 13일",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+    "imageAlt": "휴대폰으로 본 SHEIN 브라질 웹사이트 화면 두 장: 코드를 입력한 검색창과 검색 후에 열리는 페이지",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "답변 요약",
+        "paragraphs": [
+          "SHEIN 추천 코드(추천인 코드라고도 합니다)는 쿠폰 입력란이 아니라 쇼핑몰의 **검색창**에 입력합니다. 앱에서도, 휴대폰 웹사이트에서도 마찬가지입니다. SHEIN도 어필리에이트 프로그램의 자주 묻는 질문에서 코드는 검색창에 입력하는 것이며 “쿠폰으로 쓰는 것이 아니다”라고 직접 안내합니다.",
+          "SHEIN에 따르면 코드를 검색하면 코드를 알린 사람의 페이지가 열리고, 쇼핑몰이 그곳에 보여 주는 혜택이 나옵니다. 코드에 붙은 고정 할인은 없습니다. 4CW5Y는 SHEIN 브라질에서 쓰는 Cecília의 추천 코드이며, 거주하는 나라에서는 적용되지 않을 수 있습니다.",
+          "이 가이드는 검색창에서 찾는 코드만 다루며, 친구 초대 프로그램은 다루지 않습니다."
+        ]
+      },
+      {
+        "heading": "SHEIN 추천 코드를 입력하는 곳",
+        "paragraphs": [
+          "SHEIN은 앱의 검색창에서 코드를 검색하라고 안내합니다. 아래 화면은 휴대폰으로 본 SHEIN 브라질 웹사이트로, 포르투갈어로 표시되고 로그인하지 않은 상태입니다."
+        ],
+        "bullets": [
+          "**1단계:** SHEIN 검색창을 누릅니다.",
+          "**2단계:** 코드를 입력합니다. 예를 들어 4CW5Y입니다.",
+          "**3단계:** 돋보기를 누릅니다. SHEIN이 코드와 연결된 페이지를 엽니다.",
+          "**4단계:** 그 페이지에서 상품을 골라 장바구니를 채웁니다."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+            "alt": "휴대폰으로 본 SHEIN 브라질 웹사이트의 검색 화면: 아직 아무것도 입력하지 않은 검색창, 최근 검색어 4CW5Y, 쇼핑몰의 추천 검색어",
+            "caption": "1단계: 코드를 입력하기 전, 휴대폰으로 연 SHEIN 브라질 웹사이트의 검색 화면.",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+            "alt": "코드 4CW5Y를 입력한 SHEIN 브라질 검색창. 화면에는 4Cw5y로 표시됩니다",
+            "caption": "2단계: 검색창에 입력한 코드.",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "검색 후 열린 SHEIN 브라질 페이지. 제목은 “Acho que você pode gostar”(“마음에 드실 것 같아요”)이고, 헤알(R$) 가격이 붙은 상품 두 개가 보입니다",
+            "caption": "3단계: 2026년 10월 12일에 4CW5Y를 검색했을 때 열린 페이지.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ],
+        "postParagraphs": [
+          "코드를 쿠폰처럼 쓰지 마세요. SHEIN은 검색창에서 검색하라고 안내합니다."
+        ]
+      },
+      {
+        "heading": "검색하면 나오는 것과 얻을 수 있는 혜택",
+        "paragraphs": [
+          "SHEIN에 따르면 어필리에이트의 코드를 검색하면 그 사람의 셀렉션 페이지가 열립니다. 어필리에이트가 상품을 아직 고르지 않았다면 SHEIN의 기본 셀렉션 페이지가 나옵니다. 2026년 10월 12일에는 SHEIN 브라질에서 4CW5Y를 검색하자 “Acho que você pode gostar”(“마음에 드실 것 같아요”)라는 제목의 추천 페이지가 열렸습니다.",
+          "코드에 붙은 고정 할인은 없습니다. SHEIN은 어필리에이트를 통해 들어온 사람이 캠페인 페이지나 상품 페이지에 표시되는 혜택을 받을 수 있고, 이런 혜택을 자주 업데이트한다고 밝힙니다. SHEIN 브라질에서 진행 중인 캠페인은 확인 날짜와 함께 이 사이트의 SHEIN 페이지에 정리해 두었습니다."
+        ],
+        "links": [
+          {
+            "label": "4CW5Y 추천 코드와 SHEIN 브라질 캠페인 보기",
+            "href": "/ko/coupons/shein"
+          }
+        ],
+        "postParagraphs": [
+          "SHEIN 브라질 어필리에이트 프로그램에 따르면, 주문이 코드를 알린 사람의 실적으로 인정되려면 검색하거나 링크를 누른 뒤 24시간 안에 주문을 마쳐야 하고, 마지막으로 사용한 코드나 링크가 적용됩니다. 수수료 때문에 내가 내는 금액이 늘어나지는 않습니다."
+        ]
+      },
+      {
+        "heading": "내 추천 코드를 받는 방법",
+        "paragraphs": [
+          "추천 코드는 SHEIN의 어필리에이트 프로그램에서 나옵니다. SHEIN 브라질에서는 앱에서 “afiliado”(어필리에이트)를 검색해 가입을 시작하고, 프로그램 요건(예: 최소 팔로워 수)을 충족하는 Instagram, YouTube 또는 TikTok 계정을 인증해야 합니다. 이 프로그램이 거주하는 나라에서도 열려 있는지는 SHEIN 페이지에 나와 있지 않습니다.",
+          "가입하면 코드가 어필리에이트 홈 화면에 표시됩니다. 코드는 항상 같고, 글자를 고를 수는 없습니다."
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "SHEIN(쉬인) 추천 코드는 어디에 입력하나요? SHEIN 앱이나 휴대폰 웹사이트의 검색창에 입력합니다. 쿠폰 입력란이 아닙니다.",
+          "SHEIN 추천 코드는 어떻게 사용하나요? 검색창을 열고 코드를 입력한 뒤 돋보기를 누르고, 열린 페이지에서 장바구니를 채우면 됩니다.",
+          "SHEIN 추천 코드는 어떻게 작동하나요? SHEIN에 따르면 코드를 알린 사람의 페이지가 열립니다. 24시간 안에 주문을 마치면 SHEIN 브라질 어필리에이트 프로그램 기준으로 그 사람이 수수료를 받으며, 내가 추가로 내는 비용은 없습니다.",
+          "SHEIN 추천 코드로 할인을 받을 수 있나요? 고정 할인은 없습니다. 코드가 여는 페이지에 SHEIN이 보여 주는 혜택을 받을 수 있습니다.",
+          "추천 코드는 쿠폰과 같은 건가요? 아니요. SHEIN에 따르면 코드는 검색창에 입력하는 것이며 쿠폰으로 쓰는 것이 아닙니다.",
+          "내 SHEIN 추천 코드는 어떻게 받나요? SHEIN의 어필리에이트 프로그램에서 나옵니다. SHEIN 브라질에서는 앱에서 “afiliado”를 검색해 가입하면 코드가 어필리에이트 홈 화면에 표시됩니다. 이 프로그램이 거주하는 나라에서도 열려 있는지는 SHEIN 페이지에 나와 있지 않습니다.",
+          "4CW5Y는 브라질 밖에서도 쓸 수 있나요? SHEIN은 밝히지 않았습니다. 이 코드는 SHEIN 브라질의 것이어서 다른 나라의 SHEIN에서는 적용되지 않을 수 있습니다.",
+          "컴퓨터에서도 추천 코드를 쓸 수 있나요? SHEIN은 앱에서 코드를 검색하라고 안내하고, 이 가이드의 화면은 휴대폰으로 본 웹사이트입니다. 컴퓨터에서는 확인하지 않았습니다."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Cecília의 링크로 SHEIN을 열거나, SHEIN 브라질 앱의 검색창에서 4CW5Y를 검색하세요",
+      "label": "SHEIN 열기",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "SHEIN 공식 페이지의 규정 기준입니다. 구매하면 수수료를 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-ko",
+        "title": "SHEIN(쉬인)은 믿을 만하고 안전한가요? 운영 회사, 어느 나라 회사인지, 반품 기한"
+      },
+      {
+        "slug": "shein-black-friday-ko",
+        "title": "SHEIN 블랙프라이데이(Black Friday) 2026: 시작일과 종료일, US$ 50 이하 수입세 면제"
+      }
+    ]
+  },
+  {
+    "id": 372,
+    "slug": "shein-referral-code-ja",
+    "locale": "ja",
+    "translationKey": "shein-referral-code",
+    "title": "SHEIN ブラジルの紹介コード：入力する場所と使い方",
+    "seoTitle": "SHEIN ブラジルの紹介コード：入力場所と使い方",
+    "type": "紹介コードガイド",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN ブラジルの紹介コードを入力する場所（検索バーであり、クーポン欄ではありません）、画面つきの手順、検索のあとに表示されるもの、自分のコードの入手方法を解説します。",
+    "metaDescription": "SHEIN ブラジルの紹介コードは検索バーに入力します。クーポン欄ではありません。画面つきの手順、検索後に開くページ、自分のコードの入手方法をまとめました。",
+    "publishedAt": "2026年10月13日",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+    "imageAlt": "スマートフォンで開いた SHEIN ブラジルのサイトの2つの画面：コードを入力した検索バーと、検索のあとに開くページ",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "まずは結論",
+        "paragraphs": [
+          "SHEIN の紹介コードは、SHEIN のアプリ、またはスマートフォンで開いたサイトの**検索バー**に入力します。クーポン欄には入力しません。SHEIN はアフィリエイトプログラムのよくある質問で、コードはクーポンとしてではなく、検索ボックスで使うよう案内しています。",
+          "SHEIN によると、検索するとコードを紹介した人のページが開き、そこにストアが表示するオファーが並びます。コードに決まった割引は付いていません。4CW5Y は、SHEIN ブラジルでの Cecília の紹介コードです。SHEIN ブラジルのコードなので、お住まいの国では使えない場合があります。",
+          "「招待コード」と呼ばれることもありますが、このガイドは検索バーで検索するコードだけを扱い、友達紹介プログラムは取り上げません。"
+        ]
+      },
+      {
+        "heading": "SHEIN の紹介コードを入力する場所",
+        "paragraphs": [
+          "SHEIN は、コードをアプリの検索バーで検索するよう案内しています。以下の画面は、ログインせずにスマートフォンで開いた SHEIN ブラジルのサイトのもので、表示はポルトガル語です。"
+        ],
+        "bullets": [
+          "**ステップ 1:** SHEIN の検索バーをタップします。",
+          "**ステップ 2:** コードを入力します（例：4CW5Y）。",
+          "**ステップ 3:** 虫眼鏡のアイコンをタップします。SHEIN がコードに紐づくページを開きます。",
+          "**ステップ 4:** そのページから商品を選び、カートに入れます。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+            "alt": "スマートフォンで開いた SHEIN ブラジルのサイトの検索画面。検索バーはまだ空で、最近の検索に 4CW5Y があり、その下にストアのおすすめ候補が表示されています",
+            "caption": "ステップ 1：コードを入力する前の、スマートフォンで開いた SHEIN ブラジルのサイトの検索画面。",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+            "alt": "SHEIN ブラジルの検索バーに 4CW5Y と入力した画面（画面上では 4Cw5y と表示されます）",
+            "caption": "ステップ 2：検索バーに入力したコード。",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "検索のあとに開いた SHEIN ブラジルのページ。「Acho que você pode gostar」（「気に入るかもしれません」）というタイトルと、レアル建ての価格がついた商品が2点表示されています",
+            "caption": "ステップ 3：2026年10月12日に、4CW5Y を検索して開いたページ。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ],
+        "postParagraphs": [
+          "コードをクーポンとして使わないでください。SHEIN は、コードを検索ボックスで検索するよう案内しています。"
+        ]
+      },
+      {
+        "heading": "検索のあとに表示されるものと、得られるもの",
+        "paragraphs": [
+          "SHEIN によると、アフィリエイト参加者のコードを検索すると、その人のセレクションページが開きます。その人がまだ商品を選んでいない場合は、SHEIN の標準のセレクションページが表示されます。2026年10月12日には、4CW5Y を検索すると、「Acho que você pode gostar」（「気に入るかもしれません」）というタイトルのおすすめページが開きました。",
+          "コードに決まった割引は付いていません。SHEIN は、アフィリエイト経由でアクセスした人は、キャンペーンページや商品ページに表示される特典を受け取れる場合があると説明しており、その内容は頻繁に更新されるとしています。SHEIN ブラジルで実施中のキャンペーンは、確認日つきで、このサイトの SHEIN ストアページに掲載しています。"
+        ],
+        "links": [
+          {
+            "label": "4CW5Y の紹介コードと SHEIN ブラジルのキャンペーンを見る",
+            "href": "/ja/coupons/shein"
+          }
+        ],
+        "postParagraphs": [
+          "SHEIN ブラジルのアフィリエイトプログラムによると、購入がコードを紹介した人の成果として認められるには、検索またはクリックから24時間以内に注文を完了する必要があり、最後に使ったコードまたはリンクが有効になります。報酬は、あなたが支払う金額を増やしません。"
+        ]
+      },
+      {
+        "heading": "自分の紹介コードを入手するには",
+        "paragraphs": [
+          "紹介コードは、SHEIN のアフィリエイトプログラムから発行されます。SHEIN ブラジルでは、アプリで「afiliado」（アフィリエイト）と検索して登録を始め、フォロワー数の下限など、プログラムの条件を満たす Instagram、YouTube、TikTok のアカウントを認証します。お住まいの国でこのプログラムが開かれているかどうかは、SHEIN のページには書かれていません。",
+          "登録後、コードはアフィリエイトのホームページに表示されます。コードは常に同じで、文字を自分で選ぶことはできません。"
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "SHEIN の紹介コードはどこに入力しますか？ SHEIN のアプリ、またはスマートフォンで開いたサイトの検索バーに入力します。クーポン欄には入力しません。",
+          "SHEIN の紹介コードはどう使いますか？ 検索バーを開いてコードを入力し、虫眼鏡をタップして、開いたページからカートを作ります。",
+          "SHEIN の紹介コードはどんな仕組みですか？ SHEIN によると、コードを紹介した人のページが開きます。24時間以内に注文を完了すると、その人が報酬を受け取りますが、あなたの負担が増えることはありません。",
+          "SHEIN の紹介コードで割引になりますか？ 決まった割引はありません。コードで開いたページに SHEIN が表示するオファーを受け取れる場合があります。",
+          "紹介コードはクーポンと同じですか？ いいえ。SHEIN によると、コードは検索ボックスに入力するもので、クーポンとして使うものではありません。",
+          "自分の SHEIN 紹介コードはどうすればわかりますか？ 紹介コードは SHEIN のアフィリエイトプログラムから発行されます。アプリで「afiliado」（アフィリエイト）と検索して登録すると、アフィリエイトのホームページに表示されます。",
+          "4CW5Y はブラジル以外でも使えますか？ SHEIN は明らかにしていません。このコードは SHEIN ブラジルのもので、他の国の SHEIN では使えない場合があります。",
+          "紹介コードはパソコンでも使えますか？ SHEIN はアプリで検索するよう案内しており、このガイドの画面はスマートフォンで開いたサイトのものです。パソコンでは確認していません。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Cecília のリンクから SHEIN を開くか、SHEIN ブラジルのアプリの検索バーで 4CW5Y を検索してください",
+      "label": "SHEIN を開く",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "SHEIN の公式ページのルールに基づいています。購入によりアフィリエイト報酬を受け取る場合があります。",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-ja",
+        "title": "SHEIN は安全？信頼できる？運営会社、どこの国の会社か、返品期限と関税"
+      },
+      {
+        "slug": "shein-black-friday-ja",
+        "title": "Black Friday SHEIN 2026（ブラックフライデー）：いつ始まり、いつまで？US$ 50までの輸入税ゼロ"
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "slug": "shein-referral-code-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "shein-referral-code",
+    "title": "SHEIN 巴西站推薦碼：在哪裡輸入、怎麼用",
+    "seoTitle": "SHEIN 巴西站推薦碼：輸入位置與用法",
+    "type": "推薦碼指南",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN 巴西站推薦碼要在哪裡輸入（搜尋欄，不是優惠券欄位）、附截圖的操作步驟、搜尋後會看到什麼，以及怎麼取得自己的推薦碼。",
+    "metaDescription": "SHEIN 巴西站推薦碼要在搜尋欄輸入，不是優惠券欄位。整理附截圖的步驟、搜尋後開啟的頁面，以及怎麼取得自己的推薦碼。",
+    "publishedAt": "2026年10月13日",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+    "imageAlt": "SHEIN 巴西站在手機上的兩個畫面：輸入推薦碼的搜尋欄，以及搜尋後開啟的頁面",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "SHEIN 推薦碼要在 SHEIN 的**搜尋欄**輸入，App 或手機上的網站都可以，不是輸入到優惠券欄位。SHEIN 在聯盟行銷計畫的常見問題中說明，推薦碼要在搜尋框使用，而不是當作優惠券。",
+          "根據 SHEIN 的說明，搜尋後會開啟推廣這個推薦碼的人的頁面，並顯示商店在頁面上提供的優惠。推薦碼沒有固定折扣。4CW5Y 是 Cecília 在 SHEIN 巴西站的推薦碼，在你所在的國家可能無法使用。"
+        ]
+      },
+      {
+        "heading": "SHEIN 推薦碼要在哪裡輸入",
+        "paragraphs": [
+          "SHEIN 說明，要在 App 的搜尋欄中搜尋推薦碼。以下畫面是 SHEIN 巴西站網站在手機上的畫面，未登入，介面為葡萄牙文："
+        ],
+        "bullets": [
+          "**步驟 1：** 點選 SHEIN 的搜尋欄。",
+          "**步驟 2：** 輸入推薦碼，例如 4CW5Y。",
+          "**步驟 3：** 點選放大鏡。SHEIN 會開啟與推薦碼相關的頁面。",
+          "**步驟 4：** 從這個頁面挑選商品，加入購物車。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+            "alt": "SHEIN 巴西站在手機上的搜尋畫面：搜尋欄還沒有輸入文字，最近搜尋中有 4CW5Y，下方是商店的搜尋建議",
+            "caption": "步驟 1：輸入推薦碼之前，SHEIN 巴西站在手機上的搜尋畫面。",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+            "alt": "SHEIN 巴西站的搜尋欄中已輸入 4CW5Y，畫面上顯示為 4Cw5y",
+            "caption": "步驟 2：在搜尋欄輸入的推薦碼。",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "搜尋後開啟的 SHEIN 巴西站頁面，標題為「Acho que você pode gostar」（「你可能會喜歡」），顯示兩件以雷亞爾標價的商品",
+            "caption": "步驟 3：2026 年 10 月 12 日搜尋 4CW5Y 後開啟的頁面。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ],
+        "postParagraphs": [
+          "不要把推薦碼當成優惠券使用：SHEIN 要求在搜尋框中搜尋。"
+        ]
+      },
+      {
+        "heading": "搜尋後會看到什麼，以及你能得到什麼",
+        "paragraphs": [
+          "根據 SHEIN 的說明，搜尋聯盟會員的推薦碼後，會看到該會員的精選頁面。如果對方還沒有挑選商品，就會顯示 SHEIN 預設的精選頁面。2026 年 10 月 12 日，搜尋 4CW5Y 開啟的是一個標題為「Acho que você pode gostar」（「你可能會喜歡」）的推薦頁面。",
+          "推薦碼沒有固定折扣。SHEIN 表示，透過聯盟會員進入的人，可能獲得活動頁面或商品頁面上顯示的優惠，而且這些優惠會經常更新。SHEIN 巴西站目前進行中的活動，會附上確認日期，放在本站的 SHEIN 商店頁面。"
+        ],
+        "links": [
+          {
+            "label": "查看 4CW5Y 推薦碼與 SHEIN 巴西站的活動",
+            "href": "/zh-hant/coupons/shein"
+          }
+        ],
+        "postParagraphs": [
+          "根據 SHEIN 巴西站聯盟行銷計畫的規定，訂單要在搜尋或點擊後 24 小時內完成，才會算在推廣這個推薦碼的人名下，並以最後使用的推薦碼或連結為準。佣金不會增加你要支付的金額。"
+        ]
+      },
+      {
+        "heading": "怎麼取得自己的推薦碼",
+        "paragraphs": [
+          "推薦碼來自 SHEIN 的聯盟行銷計畫。在 SHEIN 巴西站，註冊的方式是在 App 中搜尋「afiliado」（聯盟會員），並驗證一個符合計畫要求的 Instagram、YouTube 或 TikTok 帳號，例如要達到最低追蹤人數。SHEIN 的頁面沒有說明這個計畫是否在你所在的國家開放。",
+          "註冊完成後，推薦碼會顯示在聯盟會員首頁。推薦碼固定不變，也無法自己選擇字母。"
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "SHEIN 推薦碼要在哪裡輸入？ 在 SHEIN App 或手機網站的搜尋欄輸入，不是輸入到優惠券欄位。",
+          "SHEIN 推薦碼怎麼用？ 開啟搜尋欄，輸入推薦碼，點選放大鏡，再從開啟的頁面挑選商品、加入購物車。",
+          "SHEIN 推薦碼是怎麼運作的？ 根據 SHEIN 的說明，推薦碼會開啟推廣者的頁面。如果你在 24 小時內完成訂單，推廣者會獲得佣金，你不需要額外付費。",
+          "SHEIN 推薦碼有折扣嗎？ 沒有固定折扣。你可能獲得 SHEIN 在推薦碼開啟的頁面上顯示的優惠。",
+          "推薦碼和優惠券是一樣的嗎？ 不一樣。根據 SHEIN 的說明，推薦碼要在搜尋框使用，而不是當作優惠券。",
+          "怎麼知道自己的 SHEIN 推薦碼？ 推薦碼來自 SHEIN 的聯盟行銷計畫。在 App 中搜尋「afiliado」（聯盟會員）完成註冊後，推薦碼會顯示在聯盟會員首頁。",
+          "4CW5Y 在巴西以外的地方能用嗎？ SHEIN 沒有說明。這個推薦碼屬於 SHEIN 巴西站，在其他國家的 SHEIN 可能無法使用。",
+          "SHEIN 推薦碼可以在電腦上使用嗎？ SHEIN 說的是在 App 中搜尋推薦碼，本指南的畫面則是手機網站。電腦版我們沒有確認過。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "透過 Cecília 的連結開啟 SHEIN，或在 SHEIN 巴西站 App 的搜尋欄搜尋 4CW5Y",
+      "label": "開啟 SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "規則取自 SHEIN 官方頁面。我們可能會從購買中獲得佣金。",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-zh-hant",
+        "title": "SHEIN 可靠嗎？誰在營運、是哪個國家的公司，以及台灣站的退貨規則"
+      },
+      {
+        "slug": "shein-black-friday-zh-hant",
+        "title": "Black Friday SHEIN 2026（黑色星期五）：何時開始、何時結束，以及 US$ 50 以下免進口稅"
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "slug": "shein-referral-code-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "shein-referral-code",
+    "title": "SHEIN 巴西站推荐码：在哪里输入、怎么用",
+    "seoTitle": "SHEIN 巴西站推荐码：输入位置与用法",
+    "type": "推荐码指南",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN 巴西站推荐码要在哪里输入（搜索栏，不是优惠券输入框）、附界面截图的操作步骤、搜索后会看到什么，以及怎么获得自己的推荐码。",
+    "metaDescription": "SHEIN 巴西站推荐码要在搜索栏输入，不是优惠券输入框。整理附界面截图的步骤、搜索后打开的页面，以及怎么获得自己的推荐码。",
+    "publishedAt": "2026年10月13日",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+    "imageAlt": "SHEIN 巴西站在手机上的两个界面：输入推荐码的搜索栏，以及搜索后打开的页面",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "SHEIN 推荐码要在 SHEIN 的**搜索栏**输入，App 或手机上的网站都可以，不是输入到优惠券输入框。SHEIN 在联盟营销计划的常见问题中说明，推荐码要在搜索框使用，而不是当作优惠券。",
+          "根据 SHEIN 的说明，搜索后会打开推广这个推荐码的人的页面，并显示商店在页面上提供的优惠。推荐码没有固定折扣。4CW5Y 是 Cecília 在 SHEIN 巴西站的推荐码，在你所在的国家可能无法使用。"
+        ]
+      },
+      {
+        "heading": "SHEIN 推荐码要在哪里输入",
+        "paragraphs": [
+          "SHEIN 说明，要在 App 的搜索栏中搜索推荐码。以下界面是 SHEIN 巴西站网站在手机上的界面，未登录，界面语言为葡萄牙语："
+        ],
+        "bullets": [
+          "**步骤 1：** 点击 SHEIN 的搜索栏。",
+          "**步骤 2：** 输入推荐码，例如 4CW5Y。",
+          "**步骤 3：** 点击放大镜。SHEIN 会打开与推荐码相关的页面。",
+          "**步骤 4：** 从这个页面挑选商品，加入购物车。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+            "alt": "SHEIN 巴西站在手机上的搜索界面：搜索栏还没有输入文字，最近搜索中有 4CW5Y，下方是商店的搜索建议",
+            "caption": "步骤 1：输入推荐码之前，SHEIN 巴西站在手机上的搜索界面。",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+            "alt": "SHEIN 巴西站的搜索栏中已输入 4CW5Y，界面上显示为 4Cw5y",
+            "caption": "步骤 2：在搜索栏输入的推荐码。",
+            "objectFit": "contain",
+            "aspectRatio": 1.4722
+          },
+          {
+            "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+            "alt": "搜索后打开的 SHEIN 巴西站页面，标题为“Acho que você pode gostar”（“你可能会喜欢”），显示两件以雷亚尔标价的商品",
+            "caption": "步骤 3：2026 年 10 月 12 日搜索 4CW5Y 后打开的页面。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7581
+          }
+        ],
+        "postParagraphs": [
+          "不要把推荐码当成优惠券使用：SHEIN 要求在搜索框中搜索。"
+        ]
+      },
+      {
+        "heading": "搜索后会看到什么，以及你能得到什么",
+        "paragraphs": [
+          "根据 SHEIN 的说明，搜索联盟会员的推荐码后，会看到该会员的精选页面。如果对方还没有挑选商品，就会显示 SHEIN 默认的精选页面。2026 年 10 月 12 日，搜索 4CW5Y 打开的是一个标题为“Acho que você pode gostar”（“你可能会喜欢”）的推荐页面。",
+          "推荐码没有固定折扣。SHEIN 表示，通过联盟会员进入的人，可能获得活动页面或商品页面上显示的优惠，而且这些优惠会经常更新。SHEIN 巴西站目前正在进行的活动，会附上确认日期，放在本站的 SHEIN 店铺页面。"
+        ],
+        "links": [
+          {
+            "label": "查看 4CW5Y 推荐码与 SHEIN 巴西站的活动",
+            "href": "/zh-hans/coupons/shein"
+          }
+        ],
+        "postParagraphs": [
+          "根据 SHEIN 巴西站联盟营销计划的规定，订单要在搜索或点击后 24 小时内完成，才会算在推广这个推荐码的人名下，并以最后使用的推荐码或链接为准。佣金不会增加你要支付的金额。"
+        ]
+      },
+      {
+        "heading": "怎么获得自己的推荐码",
+        "paragraphs": [
+          "推荐码来自 SHEIN 的联盟营销计划。在 SHEIN 巴西站，注册的方式是在 App 中搜索“afiliado”（联盟会员），并验证一个符合计划要求的 Instagram、YouTube 或 TikTok 账号，例如要达到最低粉丝数。SHEIN 的页面没有说明这个计划是否在你所在的国家开放。",
+          "注册完成后，推荐码会显示在联盟会员首页。推荐码固定不变，也无法自己选择字母。"
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "SHEIN 推荐码要在哪里输入？ 在 SHEIN App 或手机网站的搜索栏输入，不是输入到优惠券输入框。",
+          "SHEIN 推荐码怎么用？ 打开搜索栏，输入推荐码，点击放大镜，再从打开的页面挑选商品、加入购物车。",
+          "SHEIN 推荐码是怎么运作的？ 根据 SHEIN 的说明，推荐码会打开推广者的页面。如果你在 24 小时内完成订单，推广者会获得佣金，你不需要额外付费。",
+          "SHEIN 推荐码有折扣吗？ 没有固定折扣。你可能获得 SHEIN 在推荐码打开的页面上显示的优惠。",
+          "推荐码和优惠券是一样的吗？ 不一样。根据 SHEIN 的说明，推荐码要在搜索框使用，而不是当作优惠券。",
+          "怎么知道自己的 SHEIN 推荐码？ 推荐码来自 SHEIN 的联盟营销计划。在 App 中搜索“afiliado”（联盟会员）完成注册后，推荐码会显示在联盟会员首页。",
+          "4CW5Y 在巴西以外的地方能用吗？ SHEIN 没有说明。这个推荐码属于 SHEIN 巴西站，在其他国家的 SHEIN 可能无法使用。",
+          "SHEIN 推荐码可以在电脑上使用吗？ SHEIN 说的是在 App 中搜索推荐码，本指南的界面则是手机网站。电脑版我们没有确认过。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "通过 Cecília 的链接打开 SHEIN，或在 SHEIN 巴西站 App 的搜索栏搜索 4CW5Y",
+      "label": "打开 SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "规则取自 SHEIN 官方页面。我们可能会从购买中获得佣金。",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-zh-hans",
+        "title": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事"
+      },
+      {
+        "slug": "shein-black-friday-zh-hans",
+        "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、何时结束，以及 US$ 50 以内免进口税"
+      }
+    ]
+  },
+  {
+    "id": 375,
+    "slug": "shein-e-confiavel",
+    "locale": "pt",
+    "translationKey": "shein-trust",
+    "title": "SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa",
+    "seoTitle": "SHEIN é confiável? Reclame Aqui, país, prazo e taxa",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quem opera a SHEIN no Brasil, de que país ela é, o que o Reclame Aqui mostra, como pagar, quanto tempo demora a entrega, o imposto, a devolução e o que conferir antes de pagar.",
+    "metaDescription": "A SHEIN é confiável? Quem opera a loja no Brasil, a nota 7,6 no Reclame Aqui, de que país ela é, o prazo, a taxa, a devolução e o que conferir antes de pagar.",
+    "publishedAt": "13 de outubro de 2026",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
+    "imageAlt": "Página inicial do site da SHEIN Brasil em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, a SHEIN é uma loja legítima. No Brasil, o site e o aplicativo são operados pela In Glow Brasil Intermediação de Negócios Ltda., e a SHEIN tem reputação \"Boa\" no Reclame Aqui, com nota 7,6 de 10 nos seis meses até 30/09/2026. Nas reclamações dos últimos três anos, a mais comum é a de produto não recebido.",
+          "O pedido internacional leva de 3 a 5 dias para ser processado, e o prazo de entrega aparece na página do pedido. Toda compra internacional paga ICMS, e o imposto de importação é zero nos pedidos de até US$ 50. A devolução pode ser feita em até 20 dias."
+        ]
+      },
+      {
+        "heading": "Quem opera a SHEIN e de que país ela é",
+        "paragraphs": [
+          "A SHEIN se descreve como uma varejista global online de moda e lifestyle, que vende roupas da marca SHEIN e produtos de uma rede global de fornecedores. Cada país tem o seu site, e a política de privacidade de cada um nomeia a empresa responsável.",
+          "No Brasil, essa empresa é a In Glow Brasil Intermediação de Negócios Ltda., com endereço em São Paulo, e o Reclame Aqui lista a SHEIN com o mesmo nome. O site do grupo, o sheingroup.com, é da Roadget Business Pte. Ltd., de Singapura.",
+          "A SHEIN nasceu na China, segundo o Financial Times. Em 24 de fevereiro de 2026, num evento do governo de Guangdong, o fundador, Xu Yangtian, disse que a província é onde estão as raízes da SHEIN, segundo a BBC e o The Straits Times. As três reportagens registram que a sede da empresa fica em Singapura.",
+          "Sobre o ano de fundação, a SHEIN dá duas datas: 2012 na página \"Sobre nós\" do site brasileiro e 2008 no texto que ela mesma publicou no Reclame Aqui. A SHEIN também diz que produz sob demanda, em lotes pequenos."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "Montagem com a página inicial da SHEIN em dez mercados, cada uma com o endereço do site: Brasil, Reino Unido, Espanha, França, Alemanha, Itália, Coreia do Sul, Japão, Taiwan e Singapura",
+          "caption": "A página inicial da SHEIN em dez mercados, capturada em 12/10/2026. Cada mercado tem o seu site, e a política de privacidade de cada um diz qual empresa responde por ele.",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
+      },
+      {
+        "heading": "O que o Reclame Aqui mostra",
+        "paragraphs": [
+          "No Reclame Aqui, a SHEIN tem reputação \"Boa\", com nota 7,6 de 10. Os números abaixo são dos seis meses de 1º de abril a 30 de setembro de 2026, consultados em 12/10/2026."
+        ],
+        "comparisonTable": {
+          "caption": "Perfil da SHEIN no Reclame Aqui, janela de 01/04 a 30/09/2026, consultado em 12/10/2026.",
+          "headers": [
+            "Indicador",
+            "SHEIN no Reclame Aqui"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Boa, nota 7,6 de 10"
+            ],
+            [
+              "Reclamações",
+              "32.489"
+            ],
+            [
+              "Respondidas",
+              "95%"
+            ],
+            [
+              "Resolvidas",
+              "78,2%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "70,9%"
+            ],
+            [
+              "Nota do consumidor",
+              "6,33 de 10"
+            ],
+            [
+              "Tempo médio de resposta",
+              "3 dias e 3 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A nota mede como a SHEIN atende quem reclama, não a qualidade das peças. Nas reclamações dos últimos três anos, o problema mais citado é produto não recebido (36,68%), e a categoria mais citada é moda feminina (20,19%)."
+        ]
+      },
+      {
+        "heading": "É seguro pagar na SHEIN?",
+        "paragraphs": [
+          "A SHEIN Brasil aceita Pix, cartão de crédito brasileiro em até 6 vezes, boleto (pago em até 3 dias), cartão virtual e internacional, PayPal e Pagaleve. No pagamento com cartão internacional, a SHEIN diz que não coleta o número do cartão.",
+          "A empresa afirma que seus sistemas e controles estão alinhados aos padrões ISO, NIST e PCI DSS e diz que não vende dados de clientes. A política de privacidade da SHEIN Brasil diz que, quando o pedido é de um vendedor no exterior, os dados do pedido e da entrega vão para o país do vendedor.",
+          "Para não cair em site falso, compre pelo endereço br.shein.com ou pelo aplicativo da SHEIN baixado da loja oficial do seu celular."
+        ]
+      },
+      {
+        "heading": "Quanto tempo demora a entrega",
+        "paragraphs": [
+          "No pedido internacional, a SHEIN leva de 3 a 5 dias para processar a compra antes de enviar. O prazo e o frete aparecem na página do pedido, e o nome do pedido precisa ser igual ao do CPF.",
+          "Em 12/10/2026, a página de envio da SHEIN Brasil estimava entregas entre 5 e 30 dias, com 60% de chance de chegar em até 11 dias, e frete de R$ 15 nos pedidos abaixo de R$ 69, grátis acima. A estimativa muda: o prazo que vale é o que aparece no seu pedido.",
+          "Se o pedido não chegar até a data prevista, a Entrega no Prazo da SHEIN dá 200 pontos ou R$ 10 em créditos. Para reclamar de atraso, você tem 90 dias a partir do pagamento. Se o pedido aparece como entregue e não chegou, ou veio um item trocado, o prazo é de 60 dias a partir da entrega."
+        ]
+      },
+      {
+        "heading": "Taxa, imposto e devolução",
+        "paragraphs": [
+          "Toda compra internacional paga ICMS, de 17% a 20% conforme o estado. Desde 13 de maio de 2026, o imposto de importação é zero nos pedidos de até US$ 50; acima disso, ele volta. Os produtos de Envio Nacional, que já estão no Brasil, não pagam imposto de importação.",
+          "A devolução pode ser feita em até 20 dias depois de receber. O frete da primeira devolução de cada pedido é grátis; da segunda em diante, a SHEIN desconta R$ 45 do reembolso em cada devolução. Alguns itens, como roupa íntima e roupa de banho, só voltam no prazo de 7 dias. A tabela do imposto, um exemplo de cálculo e a lista completa desses itens estão no guia de Black Friday da SHEIN."
+        ],
+        "links": [
+          {
+            "label": "Black Friday SHEIN 2026: quando começa, até quando vai e o imposto de importação zero até US$ 50",
+            "href": "/reviews/black-friday-shein"
+          }
+        ]
+      },
+      {
+        "heading": "Antes de pagar: o que conferir",
+        "bullets": [
+          "Se o nome do pedido é igual ao do CPF.",
+          "Se o produto é de Envio Nacional ou internacional.",
+          "Quanto deu o imposto no resumo do pedido.",
+          "O frete e o prazo de entrega na página do pedido.",
+          "Guarde a confirmação do pedido: os prazos de atraso e de devolução contam a partir do pagamento e da entrega."
+        ]
+      },
+      {
+        "heading": "Parceria e código de indicação",
+        "paragraphs": [
+          "Este artigo é editorial, e a Cecília é afiliada da SHEIN: compras pelos links dela podem gerar comissão, sem custo para você. O 4CW5Y é o código de indicação dela. Ele vai na busca da SHEIN, não no campo de cupom."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "alt": "Barra de busca da SHEIN Brasil com o código 4CW5Y digitado, que aparece na tela como 4Cw5y",
+          "caption": "O código digitado na busca do site da SHEIN Brasil, no celular.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4722
+        },
+        "links": [
+          {
+            "label": "Ver o código de indicação 4CW5Y e as campanhas da SHEIN",
+            "href": "/cupons/shein"
+          },
+          {
+            "label": "Código de indicação SHEIN: onde colocar, como usar e o que você ganha",
+            "href": "/reviews/codigo-de-indicacao-shein"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A SHEIN é confiável? É uma loja legítima, com empresa identificada no Brasil e reputação \"Boa\" no Reclame Aqui, nota 7,6 de 10 nos seis meses até 30/09/2026.",
+          "É seguro comprar na SHEIN com cartão de crédito? A SHEIN aceita cartão brasileiro em até 6 vezes e diz que não coleta o número do cartão internacional. Compre só pelo site oficial ou pelo aplicativo.",
+          "A SHEIN é de que país? A SHEIN nasceu na China e tem sede em Singapura, segundo o Financial Times; em fevereiro de 2026, o fundador disse que as raízes da empresa estão em Guangdong, segundo a BBC e o The Straits Times. No Brasil, quem opera a loja é a In Glow Brasil.",
+          "A SHEIN tem Reclame Aqui? Tem: reputação \"Boa\", nota 7,6 de 10 e 32.489 reclamações nos seis meses até 30/09/2026, com 95% respondidas.",
+          "Quanto tempo demora a entrega da SHEIN no Brasil? O pedido internacional leva de 3 a 5 dias para ser processado, e o prazo de entrega aparece na página do pedido.",
+          "A SHEIN cobra taxa? Toda compra internacional paga ICMS de 17% a 20%, e o imposto de importação é zero nos pedidos de até US$ 50. A tabela e o exemplo de cálculo estão no guia de Black Friday da SHEIN.",
+          "O que fazer se o pedido da SHEIN não chegar? Fale com o atendimento em até 90 dias do pagamento. Se o pedido aparece como entregue e não chegou, o prazo é de 60 dias a partir da entrega.",
+          "Como funciona a devolução da SHEIN? Em até 20 dias depois de receber, com o frete da primeira devolução de cada pedido grátis.",
+          "Como saber se o site da SHEIN é o oficial? O site brasileiro é o br.shein.com, e o aplicativo é o da SHEIN na loja oficial do seu celular.",
+          "O 4CW5Y é cupom? Não. É o código de indicação da Cecília, que se pesquisa na busca da SHEIN."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Confira o prazo e o imposto no resumo do pedido antes de pagar",
+      "label": "Ir para a SHEIN",
+      "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Este artigo é editorial. Podemos receber comissão pelas compras na SHEIN, sem custo para você.",
+    "relatedArticles": [
+      {
+        "slug": "shein-ou-shopee-temu",
+        "title": "SHEIN, Shopee, Temu ou AliExpress: como escolher para comprar roupa (prazo, devolução e imposto)"
+      },
+      {
+        "slug": "black-friday-shein",
+        "title": "Black Friday SHEIN 2026: quando começa, até quando vai e o imposto de importação zero até US$ 50"
+      },
+      {
+        "slug": "codigo-de-indicacao-shein",
+        "title": "Código de indicação SHEIN: onde colocar, como usar e o que você ganha"
+      }
+    ]
+  },
+  {
+    "id": 376,
+    "slug": "is-shein-legit-and-safe",
+    "locale": "en",
+    "translationKey": "shein-trust",
+    "title": "Is SHEIN legit and safe? Who runs it, where it's from and its return policy",
+    "seoTitle": "Is SHEIN legit and safe? Operator, origin and returns",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Whether SHEIN is a legitimate store, which company runs its sites in the US and the UK, which country it comes from, whether it is safe to pay, the return policy and what to check before you pay.",
+    "metaDescription": "Is SHEIN legit and safe? Who runs the US and UK sites, where SHEIN is from, how it handles your data, the return periods and what to check before you pay.",
+    "publishedAt": "October 13, 2026",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-home-uk-2026-10-12.webp",
+    "imageAlt": "Home page of the SHEIN UK site on October 12, 2026, with the day's campaign, the category menu and the search bar",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "Yes, SHEIN is a legitimate store. The SHEIN site in each market is run by an identified company: in the US, SHEIN US Services, LLC, and in the UK, Infinite Styles Services Co., Limited (“ISSL”), according to the privacy policy of each site. This guide covers the US and UK sites, and other countries may differ.",
+          "SHEIN started in China and is headquartered in Singapore, according to the Financial Times.",
+          "On returns, the US site gives you up to 30 days from delivery. In the UK, you have 14 days by law, counted from receipt, and under SHEIN's own policy most items can be returned up to 30 days after you receive them."
+        ]
+      },
+      {
+        "heading": "Who runs SHEIN and where it is from",
+        "paragraphs": [
+          "SHEIN describes itself as a global online fashion and lifestyle retailer that sells clothes under the SHEIN brand and products from a global network of suppliers. SHEIN also says it produces on demand, in small batches.",
+          "Each market has its own site, and each site's privacy policy names the company responsible for it. The group's own site, sheingroup.com, belongs to Roadget Business Pte. Ltd., of Singapore.",
+          "SHEIN started in China, according to the Financial Times. On February 24, 2026, at an event held by the Guangdong government, the founder, Xu Yangtian, said the province is where SHEIN's roots are, according to the BBC and The Straits Times. All three reports say the company's headquarters is in Singapore."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "Montage of SHEIN's home page in ten markets, each with the site address: Brazil, the United Kingdom, Spain, France, Germany, Italy, South Korea, Japan, Taiwan and Singapore",
+          "caption": "SHEIN's home page in ten markets, captured on October 12, 2026. Each market has its own site, and each site's privacy policy says which company is responsible for it.",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        },
+        "comparisonTable": {
+          "caption": "Company that runs the SHEIN site in each market, according to the site's privacy policy, read on October 12, 2026.",
+          "headers": [
+            "Market",
+            "Official site",
+            "Company that runs it"
+          ],
+          "rows": [
+            [
+              "United States",
+              "us.shein.com",
+              "SHEIN US Services, LLC"
+            ],
+            [
+              "United Kingdom",
+              "shein.co.uk",
+              "Infinite Styles Services Co., Limited (“ISSL”)"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Is it safe to pay, and what does SHEIN do with your data?",
+        "paragraphs": [
+          "SHEIN says its systems and controls are aligned with the ISO, NIST and PCI DSS standards, and says it does not sell customer data.",
+          "The privacy policy of your market's site explains, in a dedicated section, where the data of people who buy can be transferred. This article does not summarize that section: if it worries you, read it before you create an account.",
+          "To avoid fake sites, buy only on your market's official site (us.shein.com in the US, shein.co.uk in the UK) or in the SHEIN app downloaded from your phone's official app store."
+        ]
+      },
+      {
+        "heading": "Returns and import tax",
+        "paragraphs": [
+          "Sources: the privacy and returns policies of the SHEIN sites in the US and the UK, read on October 12, 2026. Policies change, so check the current text on the site before you buy."
+        ],
+        "bullets": [
+          "**United States (us.shein.com):** returns within 30 days of delivery.",
+          "**United Kingdom (shein.co.uk):** a 14-day right to cancel by law, counted from receipt. Under SHEIN's own policy, most items can be returned up to 30 days after you receive them. Some items, such as lingerie, underwear and costume jewellery, can only be returned within those 14 days."
+        ],
+        "postParagraphs": [
+          "Import tax depends on the country: before you pay, check at checkout whether it is included in the total."
+        ]
+      },
+      {
+        "heading": "Before you pay: what to check",
+        "bullets": [
+          "That you are on your market's official site or in the official SHEIN app.",
+          "The shipping cost and the delivery time on the order page.",
+          "The import taxes and fees at checkout.",
+          "The return deadline, and which items have a shorter one.",
+          "Keep the order confirmation."
+        ]
+      },
+      {
+        "heading": "Partnership and referral code",
+        "paragraphs": [
+          "This article is editorial, and Cecília is a SHEIN affiliate: purchases made through her links may earn a commission, at no cost to you. 4CW5Y is Cecília's referral code for SHEIN Brazil. It goes in SHEIN's search bar, not in the coupon field, and it may not work in your country."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "alt": "SHEIN Brazil's search bar on a phone, in Portuguese, with the code 4CW5Y typed in, which appears on screen as 4Cw5y",
+          "caption": "The code typed into the search bar of the SHEIN Brazil site, on a phone.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4722
+        },
+        "links": [
+          {
+            "label": "See the 4CW5Y referral code and SHEIN Brazil's campaigns",
+            "href": "/en/coupons/shein"
+          },
+          {
+            "label": "SHEIN Brazil referral code: where to enter it and how it works",
+            "href": "/en/reviews/shein-referral-code-where-to-enter"
+          }
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Is SHEIN legit? Yes. It is a legitimate store, and the site of each market has an identified company behind it: SHEIN US Services, LLC in the US and Infinite Styles Services Co., Limited in the UK, according to the privacy policies.",
+          "Is it safe to pay on SHEIN with a card? SHEIN says its systems and controls are aligned with the ISO, NIST and PCI DSS standards, and says it does not sell customer data. Buy only on the official site or in the app.",
+          "What country is SHEIN from? SHEIN started in China and is headquartered in Singapore, according to the Financial Times. In February 2026, the founder said the company's roots are in Guangdong, according to the BBC and The Straits Times.",
+          "Who runs SHEIN in the US and the UK? In the US, SHEIN US Services, LLC. In the UK, Infinite Styles Services Co., Limited (“ISSL”). The group's site, sheingroup.com, belongs to Roadget Business Pte. Ltd., of Singapore.",
+          "What is SHEIN's return policy? In the US, up to 30 days from delivery. In the UK, 14 days by law, counted from receipt, and most items up to 30 days after you receive them under SHEIN's policy. Lingerie, underwear and costume jewellery only within the 14 days.",
+          "How do I know a SHEIN site is the official one? Buy only on your market's official site (us.shein.com in the US, shein.co.uk in the UK) or in the SHEIN app downloaded from your phone's official app store.",
+          "Is 4CW5Y a coupon? No. It is Cecília's referral code for SHEIN Brazil: it goes in SHEIN's search bar, not in the coupon field, and it may not work in your country."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Check the shipping, the delivery time and the taxes on the order page before you pay",
+      "label": "Go to SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "This article is editorial. We may earn a commission on SHEIN purchases, at no cost to you.",
+    "relatedArticles": [
+      {
+        "slug": "shein-vs-temu-which-to-choose",
+        "title": "SHEIN vs Temu: how to choose (returns and what to check before you buy)"
+      },
+      {
+        "slug": "shein-black-friday-dates-taxes",
+        "title": "SHEIN Brazil Black Friday 2026: when it starts, how long it lasts and the zero import tax up to US$ 50"
+      },
+      {
+        "slug": "shein-referral-code-where-to-enter",
+        "title": "SHEIN Brazil referral code: where to enter it and how it works"
+      }
+    ]
+  },
+  {
+    "id": 377,
+    "slug": "shein-es-confiable-y-seguro",
+    "locale": "es",
+    "translationKey": "shein-trust",
+    "title": "¿SHEIN es confiable y segura? Quién la opera, de dónde es, devoluciones y aduana",
+    "seoTitle": "¿SHEIN es confiable? Operador, origen y devoluciones",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "La legitimidad de SHEIN, qué empresa opera sus sitios de España y México, de qué país es, si es seguro pagar, el plazo de devolución, la aduana de la UE y qué revisar antes de pagar.",
+    "metaDescription": "¿SHEIN es confiable y segura? Quién opera los sitios de España y México, de dónde es, el plazo de devolución, la aduana de la UE y qué revisar antes de pagar.",
+    "publishedAt": "13 de octubre de 2026",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-home-es-2026-10-12.webp",
+    "imageAlt": "Página de inicio del sitio de SHEIN España el 12/10/2026, con la campaña del día, el menú de categorías y la barra de búsqueda",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Sí, SHEIN es una tienda legítima. El sitio de cada mercado lo opera una empresa identificada: en España, Infinite Styles Services Co., Limited (“ISSL”), y en México, “SHEIN”, con domicilio en Salamanca 87, Colonia Roma Norte, Ciudad de México, según la política de privacidad de cada sitio. Esta guía trata de los sitios de España y México, y en otros países puede haber diferencias.",
+          "SHEIN nació en China y tiene su sede en Singapur, según el Financial Times.",
+          "Sobre las devoluciones: en España, el derecho de desistimiento es de 14 días por ley, contados desde la recepción, y según la política comercial de SHEIN la mayoría de los artículos puede devolverse hasta 30 días después de recibirlos. En México, hasta 30 días desde la recepción.",
+          "En la UE, la Comisión Europea abrió en febrero de 2026 un procedimiento formal contra SHEIN por la Ley de Servicios Digitales (DSA) y aclara que la apertura no anticipa el resultado."
+        ]
+      },
+      {
+        "heading": "Quién opera SHEIN y de dónde es",
+        "paragraphs": [
+          "SHEIN se describe como una minorista global en línea de moda y estilo de vida, que vende ropa de la marca SHEIN y productos de una red global de proveedores. SHEIN también dice que produce bajo demanda, en lotes pequeños.",
+          "Cada mercado tiene su propio sitio, y la política de privacidad de cada uno nombra a la empresa responsable. El sitio del grupo, sheingroup.com, es de Roadget Business Pte. Ltd., de Singapur.",
+          "SHEIN nació en China, según el Financial Times. El 24 de febrero de 2026, en un evento del gobierno de Guangdong, el fundador, Xu Yangtian, dijo que la provincia es donde están las raíces de SHEIN, según la BBC y The Straits Times. Los tres reportajes dicen que la sede de la empresa está en Singapur."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "Montaje con la página de inicio de SHEIN en diez mercados, cada una con la dirección del sitio: Brasil, Reino Unido, España, Francia, Alemania, Italia, Corea del Sur, Japón, Taiwán y Singapur",
+          "caption": "La página de inicio de SHEIN en diez mercados, capturada el 12/10/2026. Cada mercado tiene su propio sitio, y la política de privacidad de cada uno dice qué empresa responde por él.",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        },
+        "comparisonTable": {
+          "caption": "Empresa que opera el sitio de SHEIN en cada mercado, según la política de privacidad del sitio, leída el 12/10/2026. La fila de Argentina, Chile, Colombia, Perú y Ecuador sale de la política de privacidad de SHEIN Brasil, no de los sitios de esos países.",
+          "headers": [
+            "Mercado",
+            "Sitio oficial",
+            "Empresa que lo opera"
+          ],
+          "rows": [
+            [
+              "España",
+              "es.shein.com",
+              "Infinite Styles Services Co., Limited (“ISSL”)"
+            ],
+            [
+              "México",
+              "shein.com.mx",
+              "“SHEIN”, con domicilio en Salamanca 87, Colonia Roma Norte, Ciudad de México"
+            ],
+            [
+              "Argentina, Chile, Colombia, Perú y Ecuador",
+              "no leímos esos sitios",
+              "Fashion Choice Pte Ltd, de Singapur, licenciante de Roadget Business Pte. Ltd., según la política de privacidad de SHEIN Brasil"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "¿Es seguro pagar y qué hace SHEIN con tus datos?",
+        "paragraphs": [
+          "SHEIN dice que sus sistemas y controles están alineados con los estándares ISO, NIST y PCI DSS, y que no vende datos de clientes.",
+          "La política de privacidad del sitio de tu mercado explica, en una sección propia, a dónde pueden transferirse los datos de quien compra. Este artículo no resume esa sección: si eso te preocupa, léela antes de crear la cuenta.",
+          "Para no caer en un sitio falso, compra solo en el sitio oficial de tu mercado (es.shein.com en España, shein.com.mx en México) o en la app de SHEIN descargada de la tienda de aplicaciones oficial de tu teléfono."
+        ]
+      },
+      {
+        "heading": "Devoluciones y aduana",
+        "paragraphs": [
+          "Fuentes: las políticas de privacidad y de devolución de los sitios de SHEIN de España y México, leídas el 12/10/2026."
+        ],
+        "bullets": [
+          "**España (es.shein.com):** derecho de desistimiento de 14 días por ley, contados desde la recepción. Según la política comercial de SHEIN, la mayoría de los artículos puede devolverse hasta 30 días después de recibirlos. Algunos artículos, como lencería, ropa interior y bisutería, solo se devuelven dentro de esos 14 días.",
+          "**México (shein.com.mx):** devolución hasta 30 días desde la recepción.",
+          "**Argentina, Chile, Colombia, Perú y Ecuador:** no leímos los sitios de esos países. Revisa el plazo de devolución en el sitio del tuyo."
+        ],
+        "postParagraphs": [
+          "Desde el 1 de julio de 2026, la UE cobra 3 € de derecho de aduana por categoría de producto en los pedidos de hasta 150 € enviados desde fuera de la UE directamente al consumidor (Reglamento (UE) 2026/382). Esa regla vale para España, que es de la UE, y no para México.",
+          "Fuera de la UE, los impuestos de importación dependen del país. Revísalos en el checkout antes de pagar."
+        ]
+      },
+      {
+        "heading": "Los procedimientos de la Comisión Europea",
+        "paragraphs": [
+          "En la UE, la Comisión Europea abrió en febrero de 2026 un procedimiento formal contra SHEIN por la Ley de Servicios Digitales (DSA). Según la Comisión, el procedimiento trata del diseño adictivo, la falta de transparencia del sistema de recomendación y la venta de productos ilegales. La Comisión aclara que la apertura no anticipa el resultado.",
+          "En mayo de 2025, según la Comisión Europea, la red CPC (las autoridades de protección del consumidor de la UE, con Bélgica, Francia, Irlanda y los Países Bajos a la cabeza) notificó a SHEIN por prácticas contrarias a la ley de consumo, entre ellas descuentos falsos."
+        ]
+      },
+      {
+        "heading": "Antes de pagar: qué revisar",
+        "bullets": [
+          "Que estés en el sitio oficial de tu mercado o en la app oficial de SHEIN.",
+          "Los gastos de envío y el plazo de entrega en la página del pedido.",
+          "Los impuestos y tasas de importación en el checkout.",
+          "El plazo de devolución y los artículos con un plazo menor.",
+          "Guarda la confirmación del pedido."
+        ]
+      },
+      {
+        "heading": "Colaboración y código de referido",
+        "paragraphs": [
+          "Este artículo es editorial, y Cecília es afiliada de SHEIN: las compras hechas por sus enlaces pueden generar una comisión, sin costo para ti. 4CW5Y es el código de referido de Cecília para SHEIN Brasil. Se escribe en el buscador de SHEIN, no en el campo de cupón, y puede no valer en tu país."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "alt": "Barra de búsqueda de SHEIN Brasil en el teléfono, en portugués, con el código 4CW5Y escrito, que aparece en la pantalla como 4Cw5y",
+          "caption": "El código escrito en el buscador del sitio de SHEIN Brasil, en el teléfono.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4722
+        },
+        "links": [
+          {
+            "label": "Ver el código de referido 4CW5Y y las campañas de SHEIN Brasil",
+            "href": "/es/coupons/shein"
+          },
+          {
+            "label": "Código de referido de SHEIN Brasil: dónde ponerlo y cómo usarlo",
+            "href": "/es/reviews/codigo-de-referido-shein-donde-ponerlo"
+          }
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿SHEIN es confiable? Sí. Es una tienda legítima, y el sitio de cada mercado tiene una empresa identificada detrás: Infinite Styles Services Co., Limited en España y “SHEIN”, con domicilio en la Ciudad de México, en México, según las políticas de privacidad.",
+          "¿Es seguro pagar con tarjeta en SHEIN? SHEIN dice que sus sistemas y controles están alineados con los estándares ISO, NIST y PCI DSS, y que no vende datos de clientes. Compra solo en el sitio oficial o en la app.",
+          "¿De qué país es SHEIN? SHEIN nació en China y tiene su sede en Singapur, según el Financial Times. En febrero de 2026, el fundador dijo que las raíces de la empresa están en Guangdong, según la BBC y The Straits Times.",
+          "¿Quién opera SHEIN en España y en México? En España, Infinite Styles Services Co., Limited (“ISSL”). En México, “SHEIN”, con domicilio en Salamanca 87, Colonia Roma Norte, Ciudad de México. Para Argentina, Chile, Colombia, Perú y Ecuador, la política de privacidad de SHEIN Brasil cita a Fashion Choice Pte Ltd, de Singapur.",
+          "¿Cuál es el plazo de devolución de SHEIN? En España, 14 días por ley desde la recepción, y la mayoría de los artículos hasta 30 días después de recibirlos según la política de SHEIN; lencería, ropa interior y bisutería solo dentro de los 14 días. En México, hasta 30 días desde la recepción. En Argentina, Chile, Colombia, Perú y Ecuador, revisa el plazo en el sitio de tu país.",
+          "¿Hay aduana en los pedidos de SHEIN? En España, desde el 1 de julio de 2026, la UE cobra 3 € de derecho de aduana por categoría de producto en los pedidos de hasta 150 € enviados desde fuera de la UE directamente al consumidor. Esa regla no vale para México: revisa los impuestos de importación en el checkout antes de pagar.",
+          "¿Cómo sé si el sitio de SHEIN es el oficial? Compra solo en el sitio oficial de tu mercado (es.shein.com en España, shein.com.mx en México) o en la app de SHEIN descargada de la tienda de aplicaciones oficial de tu teléfono.",
+          "¿4CW5Y es un cupón? No. Es el código de referido de Cecília para SHEIN Brasil: se escribe en el buscador de SHEIN, no en el campo de cupón, y puede no valer en tu país."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Revisa los gastos de envío, el plazo y los impuestos en la página del pedido antes de pagar",
+      "label": "Ir a SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Este artículo es editorial. Podemos recibir comisión por las compras en SHEIN, sin costo para ti.",
+    "relatedArticles": [
+      {
+        "slug": "shein-o-temu-cual-elegir",
+        "title": "SHEIN o Temu: cómo elegir (devoluciones y qué revisar antes de comprar)"
+      },
+      {
+        "slug": "black-friday-shein-fechas-impuestos",
+        "title": "Black Friday SHEIN Brasil 2026: cuándo empieza, cuándo termina y el impuesto de importación cero hasta US$ 50"
+      },
+      {
+        "slug": "codigo-de-referido-shein-donde-ponerlo",
+        "title": "Código de referido de SHEIN Brasil: dónde ponerlo y cómo usarlo"
+      }
+    ]
+  },
+  {
+    "id": 378,
+    "slug": "shein-est-il-fiable-et-sur",
+    "locale": "fr",
+    "translationKey": "shein-trust",
+    "title": "SHEIN est-il fiable et sûr ? Qui l'exploite, d'où il vient, les retours et la douane",
+    "seoTitle": "SHEIN est-il fiable ? Exploitant, origine et retours",
+    "type": "Éditorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "La légitimité de SHEIN, qui exploite son site en France, de quel pays vient l'entreprise, s'il est sûr de payer, le délai de retour, la douane de l'UE et ce qu'il faut vérifier avant de payer.",
+    "metaDescription": "SHEIN est-il fiable et sûr ? Qui l'exploite en France, d'où vient l'entreprise, le délai de retour, la douane de l'UE et ce qu'il faut vérifier avant de payer.",
+    "publishedAt": "13 octobre 2026",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-home-fr-2026-10-12.webp",
+    "imageAlt": "Page d'accueil du site SHEIN France le 12/10/2026, avec la campagne du jour, le menu des catégories et la barre de recherche",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Oui, SHEIN est une boutique légitime. Le site de chaque marché est exploité par une société identifiée : en France, Infinite Styles Services Co., Limited (« ISSL »), selon la politique de confidentialité du site. Ce guide porte sur le site de SHEIN en France, et les autres pays peuvent différer.",
+          "L'entreprise est née en Chine et son siège est à Singapour, selon le Financial Times.",
+          "Pour les retours : le délai de rétractation légal est de 14 jours à compter de la réception, et, selon la politique commerciale de SHEIN, la plupart des articles peuvent être retournés jusqu'à 30 jours après la réception.",
+          "Dans l'UE, la Commission européenne a ouvert en février 2026 une procédure formelle contre SHEIN au titre du règlement sur les services numériques (DSA), et précise que cette ouverture n'anticipe pas le résultat."
+        ]
+      },
+      {
+        "heading": "Qui exploite SHEIN et d'où vient l'entreprise",
+        "paragraphs": [
+          "SHEIN se décrit comme un détaillant mondial en ligne de mode et de lifestyle, qui vend des vêtements de la marque SHEIN et des produits issus d'un réseau mondial de fournisseurs. SHEIN dit aussi produire à la demande, en petits lots.",
+          "Chaque marché a son propre site, et la politique de confidentialité de chacun nomme la société responsable. En France, c'est Infinite Styles Services Co., Limited (« ISSL »). Le site du groupe, sheingroup.com, appartient à Roadget Business Pte. Ltd., de Singapour.",
+          "L'entreprise est née en Chine, selon le Financial Times. Le 24 février 2026, lors d'un événement du gouvernement du Guangdong, le fondateur, Xu Yangtian, a dit que la province est l'endroit où se trouvent les racines de SHEIN, selon la BBC et The Straits Times. Les trois reportages indiquent que le siège de l'entreprise est à Singapour."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "Montage avec la page d'accueil de SHEIN sur dix marchés, chacune avec l'adresse du site : Brésil, Royaume-Uni, Espagne, France, Allemagne, Italie, Corée du Sud, Japon, Taïwan et Singapour",
+          "caption": "La page d'accueil de SHEIN sur dix marchés, capturée le 12/10/2026. Chaque marché a son propre site, et la politique de confidentialité de chacun indique quelle société en répond.",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
+      },
+      {
+        "heading": "Est-il sûr de payer, et que fait SHEIN de vos données ?",
+        "paragraphs": [
+          "SHEIN affirme que ses systèmes et ses contrôles sont alignés sur les normes ISO, NIST et PCI DSS, et dit ne pas vendre les données de ses clients.",
+          "La politique de confidentialité du site de votre marché explique, dans une section à part, où les données des personnes qui achètent peuvent être transférées. Cet article ne résume pas cette section : si cela vous préoccupe, lisez-la avant de créer un compte.",
+          "Pour ne pas tomber sur un faux site, achetez uniquement sur le site officiel de votre marché (fr.shein.com en France) ou dans l'appli SHEIN téléchargée depuis la boutique d'applications officielle de votre téléphone."
+        ]
+      },
+      {
+        "heading": "Retours et douane",
+        "paragraphs": [
+          "Sources : la politique de confidentialité et la politique de retour du site SHEIN France, consultées le 12/10/2026.",
+          "**France (fr.shein.com) :** droit de rétractation légal de 14 jours, à compter de la réception. Selon la politique commerciale de SHEIN, la plupart des articles peuvent être retournés jusqu'à 30 jours après la réception. Certains articles, comme la lingerie, les sous-vêtements et les bijoux fantaisie, ne se retournent que dans ces 14 jours.",
+          "Depuis le 1er juillet 2026, l'UE prélève un droit de douane de 3 € par catégorie de produit sur les commandes jusqu'à 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382)."
+        ]
+      },
+      {
+        "heading": "Les procédures de la Commission européenne",
+        "paragraphs": [
+          "En février 2026, la Commission européenne a ouvert une procédure formelle contre SHEIN au titre du règlement sur les services numériques (DSA). Selon la Commission, la procédure porte sur la conception addictive, le manque de transparence du système de recommandation et la vente de produits illégaux. La Commission précise que l'ouverture de la procédure n'anticipe pas le résultat.",
+          "En mai 2025, selon la Commission européenne, le réseau CPC (les autorités de protection des consommateurs de l'UE, avec la Belgique, la France, l'Irlande et les Pays-Bas en tête) a notifié à SHEIN des pratiques contraires au droit de la consommation, dont de fausses réductions."
+        ]
+      },
+      {
+        "heading": "Avant de payer : ce qu'il faut vérifier",
+        "bullets": [
+          "Que vous êtes bien sur le site officiel de votre marché ou dans l'appli officielle de SHEIN.",
+          "Les frais de livraison et le délai de livraison sur la page de commande.",
+          "Les taxes et frais d'importation au paiement.",
+          "Le délai de retour, et les articles qui ont un délai plus court.",
+          "Gardez la confirmation de commande."
+        ]
+      },
+      {
+        "heading": "Partenariat et code de parrainage",
+        "paragraphs": [
+          "Cet article est éditorial, et Cecília est affiliée à SHEIN : les achats faits via ses liens peuvent générer une commission, sans frais pour vous. Le 4CW5Y est le code de parrainage de Cecília pour SHEIN Brésil. Il se saisit dans la barre de recherche de SHEIN, pas dans le champ des coupons, et il peut ne pas fonctionner dans votre pays."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "alt": "Barre de recherche de SHEIN Brésil sur un téléphone, en portugais, avec le code 4CW5Y saisi, qui s'affiche à l'écran sous la forme 4Cw5y",
+          "caption": "Le code saisi dans la barre de recherche du site de SHEIN Brésil, sur un téléphone.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4722
+        },
+        "links": [
+          {
+            "label": "Voir le code de parrainage 4CW5Y et les campagnes de SHEIN Brésil",
+            "href": "/fr/coupons/shein"
+          },
+          {
+            "label": "Code de parrainage SHEIN Brésil : où le mettre et comment l'utiliser",
+            "href": "/fr/reviews/code-de-parrainage-shein-ou-le-mettre"
+          }
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "SHEIN est-il fiable ? Oui, c'est une boutique légitime, avec une société identifiée derrière le site de chaque marché : en France, Infinite Styles Services Co., Limited, selon la politique de confidentialité du site.",
+          "Est-il sûr de payer par carte sur SHEIN ? SHEIN affirme que ses systèmes et ses contrôles sont alignés sur les normes ISO, NIST et PCI DSS, et dit ne pas vendre les données de ses clients. N'achetez que sur le site officiel ou dans l'appli.",
+          "De quel pays vient SHEIN ? L'entreprise est née en Chine et son siège est à Singapour, selon le Financial Times. En février 2026, le fondateur a dit que les racines de l'entreprise sont au Guangdong, selon la BBC et The Straits Times.",
+          "Qui exploite SHEIN en France ? Infinite Styles Services Co., Limited (« ISSL »), selon la politique de confidentialité du site. Le site du groupe, sheingroup.com, appartient à Roadget Business Pte. Ltd., de Singapour.",
+          "Quel est le délai de retour chez SHEIN ? 14 jours de rétractation légale, à compter de la réception, et la plupart des articles jusqu'à 30 jours après la réception selon la politique de SHEIN. La lingerie, les sous-vêtements et les bijoux fantaisie ne se retournent que dans les 14 jours.",
+          "Y a-t-il des frais de douane sur les commandes SHEIN ? Depuis le 1er juillet 2026, l'UE prélève un droit de douane de 3 € par catégorie de produit sur les commandes jusqu'à 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382).",
+          "Comment savoir si le site SHEIN est le site officiel ? Achetez uniquement sur le site officiel de votre marché (fr.shein.com en France) ou dans l'appli SHEIN téléchargée depuis la boutique d'applications officielle de votre téléphone.",
+          "Le 4CW5Y est-il un coupon ? Non. C'est le code de parrainage de Cecília pour SHEIN Brésil : il se saisit dans la barre de recherche de SHEIN, pas dans le champ des coupons, et il peut ne pas fonctionner dans votre pays."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Vérifiez les frais de livraison, le délai et les taxes sur la page de commande avant de payer",
+      "label": "Aller sur SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Cet article est éditorial. Nous pouvons toucher une commission sur les achats SHEIN, sans frais pour vous.",
+    "relatedArticles": [
+      {
+        "slug": "shein-ou-temu-comment-choisir",
+        "title": "SHEIN ou Temu : comment choisir (retours, douane et points à vérifier avant d'acheter)"
+      },
+      {
+        "slug": "black-friday-shein-dates-et-taxes",
+        "title": "Black Friday SHEIN Brésil 2026 : quand il commence, jusqu'à quand et la taxe d'importation nulle jusqu'à US$ 50"
+      },
+      {
+        "slug": "code-de-parrainage-shein-ou-le-mettre",
+        "title": "Code de parrainage SHEIN Brésil : où le mettre et comment l'utiliser"
+      }
+    ]
+  },
+  {
+    "id": 379,
+    "slug": "ist-shein-serioes-und-sicher",
+    "locale": "de",
+    "translationKey": "shein-trust",
+    "title": "Ist SHEIN seriös und sicher? Betreiber, Herkunft, Rückgabe und Zoll",
+    "seoTitle": "Ist SHEIN seriös? Betreiber, Herkunft, Rückgabe, Zoll",
+    "type": "Redaktionell",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Wer SHEIN in Deutschland betreibt, woher das Unternehmen kommt, was SHEIN zu Ihren Daten sagt, wie die Rückgabe funktioniert, was der EU-Zoll von € 3 bedeutet, welches Verfahren und welche Mitteilung der EU-Behörden es zu SHEIN gibt und was Sie vor der Zahlung kontrollieren sollten.",
+    "metaDescription": "Ist SHEIN seriös und sicher? Betreiber in Deutschland, Herkunft, Daten, Rückgabefristen ab Erhalt, EU-Zoll von € 3, Verfahren und Mitteilung der EU-Behörden.",
+    "publishedAt": "13. Oktober 2026",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-home-de-2026-10-12.webp",
+    "imageAlt": "Startseite der SHEIN-Website für Deutschland am 12.10.2026, mit der Aktion des Tages, dem Kategorienmenü und der Suchleiste",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Die Antwort in Kürze",
+        "paragraphs": [
+          "Ja, SHEIN ist ein echter Onlineshop mit einem identifizierbaren Unternehmen dahinter. Auf de.shein.com ist das die Infinite Styles Services Co., Limited („ISSL“), die in der Datenschutzerklärung der Website genannt wird. Laut Financial Times ist SHEIN in China entstanden, und das Unternehmen hat seinen Sitz in Singapur.",
+          "Bei der Rückgabe haben Sie 14 Tage gesetzliches Widerrufsrecht ab Erhalt der Ware. Nach der Geschäftspolitik von SHEIN können die meisten Artikel bis zu 30 Tage nach Erhalt zurückgegeben werden.",
+          "Die Europäische Kommission hat im Februar 2026 ein förmliches Verfahren gegen SHEIN nach dem Gesetz über digitale Dienste (DSA) eingeleitet. Nach ihren Angaben greift die Einleitung dem Ergebnis nicht vor. Mehr dazu weiter unten."
+        ]
+      },
+      {
+        "heading": "Wer SHEIN betreibt und woher es kommt",
+        "paragraphs": [
+          "SHEIN beschreibt sich als globalen Online-Händler für Mode und Lifestyle, der Kleidung der Marke SHEIN und Produkte aus einem weltweiten Netz von Lieferanten verkauft. Nach eigener Aussage produziert SHEIN bedarfsgesteuert („on demand“) in kleinen Chargen. Jeder Markt hat seine eigene Website, und die Datenschutzerklärung jeder Website nennt das verantwortliche Unternehmen.",
+          "Laut der Datenschutzerklärung von de.shein.com (eingesehen am 12.10.2026) betreibt die Infinite Styles Services Co., Limited („ISSL“) die Website für Deutschland. Die Website der Unternehmensgruppe, sheingroup.com, gehört der Roadget Business Pte. Ltd. aus Singapur.",
+          "Laut Financial Times ist SHEIN in China entstanden. Am 24. Februar 2026 sagte der Gründer, Xu Yangtian, bei einer Veranstaltung der Regierung der Provinz Guangdong, die Provinz sei der Ort, an dem die Wurzeln von SHEIN liegen, wie BBC und The Straits Times berichten. Alle drei Berichte halten fest, dass der Firmensitz in Singapur liegt."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "Montage mit der Startseite von SHEIN in zehn Märkten, jeweils mit der Adresse der Website: Brasilien, Vereinigtes Königreich, Spanien, Frankreich, Deutschland, Italien, Südkorea, Japan, Taiwan und Singapur",
+          "caption": "Die Startseite von SHEIN in zehn Märkten, aufgenommen am 12.10.2026. Jeder Markt hat seine eigene Website, und die Datenschutzerklärung jeder Website nennt das Unternehmen, das dafür verantwortlich ist.",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
+      },
+      {
+        "heading": "Ist Bezahlen bei SHEIN sicher, und was gilt für Ihre Daten?",
+        "paragraphs": [
+          "SHEIN gibt an, dass die Systeme und Kontrollen des Unternehmens an den Standards ISO, NIST und PCI DSS ausgerichtet sind, und sagt, dass es keine Kundendaten verkauft.",
+          "Wohin Ihre Daten übermittelt werden können, erklärt die Datenschutzerklärung von de.shein.com in einem eigenen Abschnitt. Dieser Artikel fasst ihn nicht zusammen. Wenn Sie das beschäftigt, lesen Sie ihn, bevor Sie ein Konto anlegen.",
+          "Um nicht auf einen Fake-Shop hereinzufallen, kaufen Sie nur auf der offiziellen Website de.shein.com oder über die SHEIN-App, die Sie aus dem offiziellen App-Store Ihres Smartphones laden."
+        ]
+      },
+      {
+        "heading": "Rückgabe und Zoll",
+        "paragraphs": [
+          "Für Bestellungen über de.shein.com beträgt das gesetzliche Widerrufsrecht 14 Tage ab Erhalt der Ware. Nach der Geschäftspolitik von SHEIN können die meisten Artikel bis zu 30 Tage nach Erhalt zurückgegeben werden. Einige Artikel, zum Beispiel Lingerie, Unterwäsche und Modeschmuck, können nur innerhalb der 14 Tage zurückgegeben werden. Quelle: Rückgaberichtlinie der SHEIN-Website für Deutschland, eingesehen am 12.10.2026.",
+          "Beim Zoll gilt seit dem 1. Juli 2026 eine EU-Regel: Die EU erhebt € 3 Zoll pro Produktkategorie auf Sendungen im Wert von bis zu € 150, die von außerhalb der EU direkt an Verbraucher geschickt werden (Verordnung (EU) 2026/382). Prüfen Sie die Steuern und Einfuhrabgaben an der Kasse, bevor Sie bezahlen."
+        ]
+      },
+      {
+        "heading": "Verfahren und Mitteilung der EU-Behörden",
+        "paragraphs": [
+          "Die Europäische Kommission hat im Februar 2026 ein förmliches Verfahren gegen SHEIN nach dem Gesetz über digitale Dienste (Digital Services Act, DSA) eingeleitet. Nach ihren Angaben geht es um süchtig machendes Design, mangelnde Transparenz der Empfehlungssysteme und den Verkauf illegaler Produkte. Laut Kommission greift die Einleitung eines förmlichen Verfahrens dem Ergebnis nicht vor.",
+          "Im Mai 2025 hat das CPC-Netzwerk der Verbraucherschutzbehörden der EU SHEIN über Praktiken in Kenntnis gesetzt, die aus Sicht der Behörden gegen das Verbraucherrecht verstoßen, darunter falsche Rabattaktionen. Federführend waren die Behörden aus Belgien, Frankreich, Irland und den Niederlanden. Das teilt die Europäische Kommission mit."
+        ]
+      },
+      {
+        "heading": "Vor der Zahlung: Das sollten Sie prüfen",
+        "bullets": [
+          "Ob Sie auf der offiziellen Website de.shein.com oder in der offiziellen SHEIN-App sind.",
+          "Die Versandkosten und die Lieferzeit auf der Bestellseite.",
+          "Die Steuern und Einfuhrabgaben an der Kasse.",
+          "Die Rückgabefrist, die ab Erhalt der Ware zählt, und die Artikel mit kürzerer Frist.",
+          "Bewahren Sie die Bestellbestätigung auf."
+        ]
+      },
+      {
+        "heading": "Partnerschaft und Empfehlungscode",
+        "paragraphs": [
+          "Dieser Artikel ist redaktionell, und Cecília ist Affiliate-Partnerin von SHEIN: Käufe über ihre Links können eine Provision bringen, ohne Mehrkosten für Sie. 4CW5Y ist der Empfehlungscode von Cecília bei SHEIN Brasilien. Er wird in die Suchleiste von SHEIN eingegeben, nicht ins Gutscheinfeld, und gilt in Ihrem Land womöglich nicht."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "alt": "Suchleiste von SHEIN Brasilien mit dem eingegebenen Code 4CW5Y, der auf dem Bildschirm als 4Cw5y erscheint",
+          "caption": "Der in die Suchleiste der SHEIN-Brasilien-Website eingegebene Code, auf dem Smartphone.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4722
+        },
+        "links": [
+          {
+            "label": "Den Empfehlungscode 4CW5Y und die Aktionen von SHEIN Brasilien ansehen",
+            "href": "/de/coupons/shein"
+          },
+          {
+            "label": "SHEIN-Empfehlungscode (Brasilien): wo eingeben und wie er funktioniert",
+            "href": "/de/reviews/shein-empfehlungscode-wo-eingeben"
+          }
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Ist SHEIN seriös? Ja, SHEIN ist ein echter Onlineshop. Laut der Datenschutzerklärung von de.shein.com betreibt die Infinite Styles Services Co., Limited („ISSL“) die Website.",
+          "Ist es sicher, bei SHEIN mit Karte zu bezahlen? SHEIN gibt an, dass die Systeme und Kontrollen des Unternehmens an den Standards ISO, NIST und PCI DSS ausgerichtet sind. Bezahlen Sie nur auf der offiziellen Website de.shein.com oder in der SHEIN-App aus dem offiziellen App-Store Ihres Smartphones.",
+          "Aus welchem Land kommt SHEIN? Laut Financial Times ist SHEIN in China entstanden, und das Unternehmen hat seinen Sitz in Singapur. Im Februar 2026 sagte der Gründer, die Wurzeln des Unternehmens lägen in Guangdong, wie BBC und The Straits Times berichten.",
+          "Wer betreibt SHEIN in Deutschland? Laut der Datenschutzerklärung von de.shein.com (eingesehen am 12.10.2026) betreibt die Infinite Styles Services Co., Limited („ISSL“) die Website. Die Website der Unternehmensgruppe, sheingroup.com, gehört der Roadget Business Pte. Ltd. aus Singapur.",
+          "Wie lange kann ich eine Bestellung bei SHEIN zurückgeben? Das gesetzliche Widerrufsrecht gilt 14 Tage ab Erhalt der Ware. Nach der Geschäftspolitik von SHEIN können die meisten Artikel bis zu 30 Tage nach Erhalt zurückgegeben werden, einige Artikel wie Lingerie, Unterwäsche und Modeschmuck nur innerhalb der 14 Tage.",
+          "Muss ich bei SHEIN Zoll zahlen? Seit dem 1. Juli 2026 erhebt die EU € 3 Zoll pro Produktkategorie auf Sendungen im Wert von bis zu € 150, die von außerhalb der EU direkt an Verbraucher geschickt werden (Verordnung (EU) 2026/382). Prüfen Sie die Steuern und Einfuhrabgaben an der Kasse, bevor Sie bezahlen.",
+          "Woran erkenne ich die offizielle SHEIN-Website? Die Adresse für Deutschland ist de.shein.com. Die App ist die von SHEIN im offiziellen App-Store Ihres Smartphones.",
+          "Ist 4CW5Y ein Gutschein? Nein. Es ist der Empfehlungscode von Cecília bei SHEIN Brasilien, der in die Suchleiste von SHEIN eingegeben wird, nicht ins Gutscheinfeld. In Ihrem Land gilt er womöglich nicht."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Prüfen Sie Versand, Lieferzeit und Steuern auf der Bestellseite, bevor Sie bezahlen",
+      "label": "Zu SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Redaktioneller Artikel. Für Käufe bei SHEIN können wir eine Provision erhalten, ohne Mehrkosten für Sie.",
+    "relatedArticles": [
+      {
+        "slug": "shein-oder-temu-was-waehlen",
+        "title": "SHEIN oder Temu: Was passt besser? Rückgabe, Zoll und was Sie prüfen sollten"
+      },
+      {
+        "slug": "shein-black-friday-termine-steuern",
+        "title": "Black Friday SHEIN 2026: Beginn, Ende und Einfuhrsteuer null bis US$ 50"
+      },
+      {
+        "slug": "shein-empfehlungscode-wo-eingeben",
+        "title": "SHEIN-Empfehlungscode (Brasilien): wo eingeben und wie er funktioniert"
+      }
+    ]
+  },
+  {
+    "id": 380,
+    "slug": "shein-e-affidabile-e-sicuro",
+    "locale": "it",
+    "translationKey": "shein-trust",
+    "title": "SHEIN è affidabile e sicuro? Chi lo gestisce, da dove viene, resi e dogana",
+    "seoTitle": "SHEIN è affidabile? Gestore, origine, resi e dogana",
+    "type": "Editoriale",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Chi gestisce SHEIN in Italia, da dove viene, cosa dice dei tuoi dati, come funziona il reso, cosa significa il dazio UE di € 3, il procedimento e la notifica delle autorità UE e cosa controllare prima di pagare.",
+    "metaDescription": "SHEIN è affidabile e sicuro? Gestore in Italia, origine, dati, termini di reso dal ricevimento, dazio UE di € 3, procedimento e notifica delle autorità UE.",
+    "publishedAt": "13 ottobre 2026",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-home-it-2026-10-12.webp",
+    "imageAlt": "Pagina iniziale del sito di SHEIN Italia il 12/10/2026, con la campagna del giorno, il menu delle categorie e la barra di ricerca",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Sì, SHEIN è un vero negozio online, con un'azienda identificata dietro il sito. Su it.shein.com è Infinite Styles Services Co., Limited («ISSL»), indicata nell'informativa sulla privacy del sito. Secondo il Financial Times, SHEIN è nata in Cina e ha sede a Singapore.",
+          "Per il reso, il diritto di recesso previsto dalla legge è di 14 giorni dal ricevimento della merce. Secondo la politica commerciale di SHEIN, la maggior parte degli articoli si può restituire entro 30 giorni dal ricevimento.",
+          "La Commissione europea ha avviato a febbraio 2026 un procedimento formale contro SHEIN ai sensi del regolamento sui servizi digitali (DSA) e precisa che l'avvio non pregiudica l'esito. Più sotto trovi i dettagli."
+        ]
+      },
+      {
+        "heading": "Chi gestisce SHEIN e da dove viene",
+        "paragraphs": [
+          "SHEIN si descrive come un rivenditore online globale di moda e lifestyle, che vende abbigliamento del marchio SHEIN e prodotti di una rete globale di fornitori. Dice di produrre su richiesta, in piccoli lotti. Ogni mercato ha il suo sito, e l'informativa sulla privacy di ciascuno indica l'azienda responsabile.",
+          "Per l'Italia, secondo l'informativa sulla privacy di it.shein.com (consultata il 12/10/2026), il sito è gestito da Infinite Styles Services Co., Limited («ISSL»). Il sito del gruppo, sheingroup.com, è di Roadget Business Pte. Ltd., di Singapore.",
+          "Secondo il Financial Times, SHEIN è nata in Cina. Il 24 febbraio 2026, a un evento del governo del Guangdong, il fondatore, Xu Yangtian, ha detto che la provincia è dove si trovano le radici di SHEIN, secondo la BBC e The Straits Times. Tutti e tre i resoconti riportano che la sede dell'azienda è a Singapore."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "Montaggio con la pagina iniziale di SHEIN in dieci mercati, ciascuna con l'indirizzo del sito: Brasile, Regno Unito, Spagna, Francia, Germania, Italia, Corea del Sud, Giappone, Taiwan e Singapore",
+          "caption": "La pagina iniziale di SHEIN in dieci mercati, catturata il 12/10/2026. Ogni mercato ha il suo sito, e l'informativa sulla privacy di ciascuno dice quale azienda ne risponde.",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
+      },
+      {
+        "heading": "Pagare su SHEIN è sicuro? E i tuoi dati?",
+        "paragraphs": [
+          "SHEIN dice che i suoi sistemi e controlli sono allineati agli standard ISO, NIST e PCI DSS e che non vende i dati dei clienti.",
+          "Dove i tuoi dati possono essere trasferiti lo spiega l'informativa sulla privacy di it.shein.com in una sezione dedicata. Questo articolo non la riassume: se la questione ti preoccupa, leggila prima di creare l'account.",
+          "Per non cadere in un sito falso, compra solo dal sito ufficiale it.shein.com o dall'app di SHEIN scaricata dall'app store ufficiale del tuo telefono."
+        ]
+      },
+      {
+        "heading": "Reso e dogana",
+        "paragraphs": [
+          "Per gli ordini su it.shein.com il diritto di recesso previsto dalla legge è di 14 giorni dal ricevimento della merce. Secondo la politica commerciale di SHEIN, la maggior parte degli articoli si può restituire entro 30 giorni dal ricevimento. Alcuni articoli, come lingerie, intimo e bigiotteria, si possono restituire solo entro i 14 giorni. Fonte: politica di reso del sito di SHEIN per l'Italia, consultata il 12/10/2026.",
+          "Per la dogana vale una regola UE in vigore dal 1° luglio 2026: l'UE applica un dazio doganale di € 3 per categoria di prodotto sui pacchi di valore fino a € 150 spediti da fuori dell'UE direttamente al consumatore (Regolamento (UE) 2026/382). Controlla le imposte e i costi di importazione al checkout prima di pagare."
+        ]
+      },
+      {
+        "heading": "Procedimento e notifica delle autorità UE",
+        "paragraphs": [
+          "La Commissione europea ha avviato a febbraio 2026 un procedimento formale contro SHEIN ai sensi del regolamento sui servizi digitali (Digital Services Act, DSA). Secondo la Commissione, il procedimento riguarda il design che crea dipendenza, la mancanza di trasparenza dei sistemi di raccomandazione e la vendita di prodotti illegali. La Commissione precisa che l'avvio di un procedimento formale non pregiudica l'esito.",
+          "A maggio 2025, secondo la Commissione, la rete di cooperazione per la tutela dei consumatori (CPC), guidata dalle autorità di Belgio, Francia, Irlanda e Paesi Bassi, ha notificato a SHEIN pratiche che le autorità ritengono contrarie al diritto dei consumatori, tra cui sconti fittizi."
+        ]
+      },
+      {
+        "heading": "Prima di pagare: cosa controllare",
+        "bullets": [
+          "Se sei sul sito ufficiale it.shein.com o nell'app ufficiale di SHEIN.",
+          "La spedizione e i tempi di consegna nella pagina dell'ordine.",
+          "Le imposte e i costi di importazione al checkout.",
+          "Il termine di reso, che parte dal ricevimento della merce, e gli articoli con un termine più breve.",
+          "Conserva la conferma dell'ordine."
+        ]
+      },
+      {
+        "heading": "Collaborazione e codice invito",
+        "paragraphs": [
+          "Questo articolo è editoriale, e Cecília è affiliata di SHEIN: gli acquisti fatti dai suoi link possono generare una commissione, senza costi per te. Il 4CW5Y è il codice invito di Cecília su SHEIN Brasile. Lo digiti nella barra di ricerca di SHEIN, non nel campo del coupon. Potrebbe non valere nel tuo paese."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "alt": "Barra di ricerca di SHEIN Brasile con il codice 4CW5Y digitato, che sullo schermo appare come 4Cw5y",
+          "caption": "Il codice digitato nella barra di ricerca del sito di SHEIN Brasile, da telefono.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4722
+        },
+        "links": [
+          {
+            "label": "Vedi il codice invito 4CW5Y e le campagne di SHEIN Brasile",
+            "href": "/it/coupons/shein"
+          },
+          {
+            "label": "Codice invito SHEIN Brasile: dove inserirlo e come usarlo",
+            "href": "/it/reviews/codice-invito-shein-dove-inserirlo"
+          }
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "SHEIN è affidabile? Sì, SHEIN è un vero negozio online. Secondo l'informativa sulla privacy di it.shein.com, il sito è gestito da Infinite Styles Services Co., Limited («ISSL»).",
+          "È sicuro pagare con carta su SHEIN? SHEIN dice che i suoi sistemi e controlli sono allineati agli standard ISO, NIST e PCI DSS. Paga solo sul sito ufficiale it.shein.com o nell'app di SHEIN scaricata dall'app store ufficiale del tuo telefono.",
+          "Di che paese è SHEIN? Secondo il Financial Times, SHEIN è nata in Cina e ha sede a Singapore. A febbraio 2026 il fondatore ha detto che le radici dell'azienda sono nel Guangdong, secondo la BBC e The Straits Times.",
+          "Chi gestisce SHEIN in Italia? Secondo l'informativa sulla privacy di it.shein.com (consultata il 12/10/2026), il sito è gestito da Infinite Styles Services Co., Limited («ISSL»). Il sito del gruppo, sheingroup.com, è di Roadget Business Pte. Ltd., di Singapore.",
+          "Quanto tempo ho per restituire un ordine di SHEIN? Il diritto di recesso previsto dalla legge è di 14 giorni dal ricevimento della merce. Secondo la politica commerciale di SHEIN, la maggior parte degli articoli si può restituire entro 30 giorni dal ricevimento; alcuni, come lingerie, intimo e bigiotteria, solo entro i 14 giorni.",
+          "Devo pagare la dogana su SHEIN? Dal 1° luglio 2026 l'UE applica un dazio doganale di € 3 per categoria di prodotto sui pacchi di valore fino a € 150 spediti da fuori dell'UE direttamente al consumatore (Regolamento (UE) 2026/382). Controlla le imposte e i costi di importazione al checkout prima di pagare.",
+          "Come capisco se il sito di SHEIN è quello ufficiale? L'indirizzo per l'Italia è it.shein.com, e l'app è quella di SHEIN nell'app store ufficiale del tuo telefono.",
+          "Il 4CW5Y è un coupon? No. È il codice invito di Cecília su SHEIN Brasile: si digita nella barra di ricerca di SHEIN, non nel campo del coupon. Potrebbe non valere nel tuo paese."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Controlla spedizione, tempi di consegna e imposte nella pagina dell'ordine prima di pagare",
+      "label": "Vai su SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Questo articolo è editoriale. Possiamo ricevere una commissione sugli acquisti su SHEIN, senza costi per te.",
+    "relatedArticles": [
+      {
+        "slug": "shein-o-temu-come-scegliere",
+        "title": "SHEIN o Temu: come scegliere (resi, dogana e cosa controllare prima di comprare)"
+      },
+      {
+        "slug": "black-friday-shein-date-e-tasse",
+        "title": "Black Friday SHEIN 2026: quando inizia, fino a quando dura e l'imposta di importazione zero fino a US$ 50"
+      },
+      {
+        "slug": "codice-invito-shein-dove-inserirlo",
+        "title": "Codice invito SHEIN Brasile: dove inserirlo e come usarlo"
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "slug": "shein-trust-guide-ko",
+    "locale": "ko",
+    "translationKey": "shein-trust",
+    "title": "SHEIN(쉬인)은 믿을 만하고 안전한가요? 운영 회사, 어느 나라 회사인지, 반품 기한",
+    "seoTitle": "SHEIN(쉬인) 믿을 만한가요? 운영 회사, 국가, 반품",
+    "type": "에디토리얼",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "한국에서 SHEIN을 운영하는 회사, SHEIN이 어느 나라 회사인지, 개인정보에 대해 SHEIN이 밝힌 내용, 수령 후 60일 반품 기한, 결제 전에 확인할 것을 정리했습니다.",
+    "metaDescription": "SHEIN(쉬인)은 믿을 만하고 안전한가요? 한국 운영 회사, 어느 나라 회사인지, 개인정보, 수령 후 60일 반품, 결제 전에 확인할 것을 정리했습니다.",
+    "publishedAt": "2026년 10월 13일",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-home-kr-2026-10-12.webp",
+    "imageAlt": "2026년 10월 12일 SHEIN 한국 웹사이트 첫 화면: 그날의 캠페인 배너, 카테고리 메뉴, 검색창이 보입니다",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "답변 요약",
+        "paragraphs": [
+          "네, SHEIN은 정식으로 운영되는 쇼핑몰이며, 시장별 웹사이트마다 운영 회사가 공개되어 있습니다. 한국 사이트 kr.shein.com의 운영 회사는 싱가포르의 Wonderflow Support Pte. Ltd.입니다. 사이트의 개인정보 처리방침에 나와 있습니다. 파이낸셜 타임스(Financial Times)에 따르면 SHEIN은 중국에서 시작했고 본사는 싱가포르에 있습니다.",
+          "kr.shein.com의 반품 정책에 따르면 반품은 수령 후 60일 이내에 할 수 있습니다."
+        ]
+      },
+      {
+        "heading": "SHEIN을 운영하는 곳과 어느 나라 회사인지",
+        "paragraphs": [
+          "SHEIN은 스스로를 패션과 라이프스타일을 다루는 글로벌 온라인 리테일러라고 소개하며, SHEIN 브랜드 의류와 전 세계 공급업체 네트워크의 상품을 판매한다고 밝힙니다. 또 수요에 맞춰 소량씩 생산한다고 말합니다. 시장마다 웹사이트가 따로 있고, 각 사이트의 개인정보 처리방침에 책임 회사가 적혀 있습니다.",
+          "한국에서는 kr.shein.com의 개인정보 처리방침(2026년 10월 12일 확인)에 따르면 싱가포르 회사인 Wonderflow Support Pte. Ltd.에서 사이트를 운영합니다. SHEIN 그룹의 사이트인 sheingroup.com은 싱가포르 Roadget Business Pte. Ltd.의 사이트입니다.",
+          "파이낸셜 타임스에 따르면 SHEIN은 중국에서 시작했습니다. 2026년 2월 24일 광둥성 정부 행사에서 창업자 쉬양톈(Xu Yangtian)은 광둥성이 SHEIN의 뿌리가 있는 곳이라고 말했다고 BBC와 더 스트레이츠 타임스(The Straits Times)가 전했습니다. 세 보도 모두 회사의 본사가 싱가포르에 있다고 적었습니다."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "SHEIN의 첫 화면을 열 개 시장별로 모은 이미지로, 각 화면 아래에 사이트 주소가 있습니다: 브라질, 영국, 스페인, 프랑스, 독일, 이탈리아, 한국, 일본, 대만, 싱가포르",
+          "caption": "2026년 10월 12일에 캡처한 열 개 시장의 SHEIN 첫 화면입니다. 시장마다 사이트가 따로 있고, 각 사이트의 개인정보 처리방침에 어느 회사가 책임지는지 나와 있습니다.",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
+      },
+      {
+        "heading": "SHEIN에서 결제해도 안전한가요? 개인정보는 어떻게 되나요?",
+        "paragraphs": [
+          "SHEIN은 시스템과 통제가 ISO, NIST, PCI DSS 표준에 맞춰져 있다고 밝히며, 고객 데이터를 판매하지 않는다고 말합니다.",
+          "내 개인정보가 어디로 이전될 수 있는지는 kr.shein.com 개인정보 처리방침의 별도 항목에 설명되어 있습니다. 이 글은 그 항목을 요약하지 않습니다. 걱정되는 분은 계정을 만들기 전에 그 항목을 읽어 보세요.",
+          "가짜 사이트에 속지 않으려면 공식 사이트 kr.shein.com에서, 또는 휴대폰의 공식 앱 스토어에서 내려받은 SHEIN 앱으로만 구매하세요."
+        ]
+      },
+      {
+        "heading": "반품 기한과 세금 확인",
+        "paragraphs": [
+          "kr.shein.com의 반품 정책에 따르면 반품은 수령 후 60일 이내에 할 수 있습니다. 출처: kr.shein.com의 개인정보 처리방침과 반품 정책, 2026년 10월 12일 확인.",
+          "수입 세금은 나라에 따라 다릅니다. 결제 전에 결제 화면에서 총액과 세금을 확인하세요."
+        ]
+      },
+      {
+        "heading": "결제 전에 확인할 것",
+        "bullets": [
+          "공식 사이트 kr.shein.com이나 공식 SHEIN 앱에서 구매하고 있는지 확인하세요.",
+          "주문 페이지에서 배송비와 배송 기간을 확인하세요.",
+          "결제 화면에서 세금과 수입 관련 비용을 확인하세요.",
+          "수령일부터 계산되는 반품 기한을 확인하고, 기한이 더 짧은 상품이 있는지 살펴보세요.",
+          "주문 확인 내역을 보관하세요."
+        ]
+      },
+      {
+        "heading": "파트너십과 추천 코드",
+        "paragraphs": [
+          "이 글은 에디토리얼이며, Cecília는 SHEIN의 어필리에이트 파트너입니다. Cecília의 링크로 구매하면 수수료가 발생할 수 있고, 구매자가 더 내는 비용은 없습니다. 4CW5Y는 Cecília의 SHEIN 브라질 추천 코드입니다. 쿠폰 입력란이 아니라 SHEIN 검색창에 입력하는 코드이며, 거주하는 나라에서는 적용되지 않을 수 있습니다."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "alt": "코드 4CW5Y를 입력한 SHEIN 브라질 검색창. 화면에는 4Cw5y로 표시됩니다",
+          "caption": "휴대폰으로 연 SHEIN 브라질 웹사이트의 검색창에 입력한 코드입니다.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4722
+        },
+        "links": [
+          {
+            "label": "4CW5Y 추천 코드와 SHEIN 브라질 캠페인 보기",
+            "href": "/ko/coupons/shein"
+          },
+          {
+            "label": "SHEIN 브라질 추천 코드: 입력하는 곳과 사용법",
+            "href": "/ko/reviews/shein-referral-code-ko"
+          }
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "SHEIN(쉬인)은 믿을 수 있나요? 정식으로 운영되는 쇼핑몰이며, 시장별 사이트마다 개인정보 처리방침에 운영 회사가 나와 있습니다. 한국 사이트 kr.shein.com은 싱가포르의 Wonderflow Support Pte. Ltd.에서 운영합니다.",
+          "SHEIN에서 카드로 결제해도 안전한가요? SHEIN은 시스템과 통제가 ISO, NIST, PCI DSS 표준에 맞춰져 있다고 밝힙니다. 공식 사이트 kr.shein.com이나 공식 앱에서만 결제하세요.",
+          "SHEIN은 어느 나라 쇼핑몰인가요? 파이낸셜 타임스에 따르면 SHEIN은 중국에서 시작했고 본사는 싱가포르에 있습니다. 2026년 2월 창업자는 광둥성이 회사의 뿌리가 있는 곳이라고 말했다고 BBC와 더 스트레이츠 타임스가 전했습니다.",
+          "한국에서 SHEIN을 운영하는 회사는 어디인가요? kr.shein.com의 개인정보 처리방침(2026년 10월 12일 확인)에 따르면 싱가포르의 Wonderflow Support Pte. Ltd.입니다. SHEIN 그룹의 사이트인 sheingroup.com은 싱가포르 Roadget Business Pte. Ltd.의 사이트입니다.",
+          "SHEIN 반품 기한은 얼마나 되나요? kr.shein.com의 반품 정책(2026년 10월 12일 확인)에 따르면 수령 후 60일 이내입니다.",
+          "SHEIN 사이트가 공식 사이트인지 어떻게 알 수 있나요? 한국 공식 사이트는 kr.shein.com이고, 앱은 휴대폰의 공식 앱 스토어에서 내려받은 SHEIN 앱입니다.",
+          "4CW5Y는 쿠폰인가요? 아니요. Cecília의 SHEIN 브라질 추천 코드이며, 쿠폰 입력란이 아니라 SHEIN 검색창에 입력합니다. 거주하는 나라에서는 적용되지 않을 수 있습니다."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "결제 전에 주문 페이지에서 배송비, 배송 기간, 세금을 확인하세요",
+      "label": "SHEIN으로 이동",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "이 글은 에디토리얼입니다. SHEIN 구매 시 수수료를 받을 수 있으며, 구매자에게 추가 비용은 없습니다.",
+    "relatedArticles": [
+      {
+        "slug": "shein-vs-temu-vs-ali-ko",
+        "title": "SHEIN(쉬인) vs 테무 vs 알리: 어떻게 고를까? 반품 기한과 구매 전 확인할 것"
+      },
+      {
+        "slug": "shein-black-friday-ko",
+        "title": "SHEIN 블랙프라이데이(Black Friday) 2026: 시작일과 종료일, US$ 50 이하 수입세 면제"
+      },
+      {
+        "slug": "shein-referral-code-ko",
+        "title": "SHEIN 브라질 추천 코드: 입력하는 곳과 사용법"
+      }
+    ]
+  },
+  {
+    "id": 382,
+    "slug": "shein-trust-guide-ja",
+    "locale": "ja",
+    "translationKey": "shein-trust",
+    "title": "SHEIN は安全？信頼できる？運営会社、どこの国の会社か、返品期限と関税",
+    "seoTitle": "SHEIN は信頼できる？運営会社・国・返品・関税",
+    "type": "エディトリアル",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN は信頼できるのか。日本のサイトの運営会社、どこの国の会社か、データの扱い、返品期限、関税、支払う前に確認することをまとめました。",
+    "metaDescription": "SHEIN は信頼できる？日本のサイトの運営会社、どこの国の会社か、返品期限（購入日から40日）、関税、支払う前に確認することをまとめました。",
+    "publishedAt": "2026年10月13日",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-home-jp-2026-10-12.webp",
+    "imageAlt": "2026年10月12日の SHEIN 日本のサイトのトップページ。その日のキャンペーン、カテゴリーメニュー、検索バーが表示されています",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "まずは結論",
+        "paragraphs": [
+          "はい、SHEIN は正規のお店です。このガイドは、日本向けのサイト（jp.shein.com）について書いています。日本のサイトの運営会社は、シンガポールの Fashion Choice Pte. Ltd. で、サイトのプライバシーポリシーに会社名が書かれています。運営会社や返品のルールは、マーケットによって異なります。",
+          "フィナンシャル・タイムズ（Financial Times）によると、SHEIN は中国で生まれ、本社はシンガポールにあります。日本のサイトの返品期限は、購入日から40日以内です。"
+        ]
+      },
+      {
+        "heading": "SHEIN の運営会社と、どこの国の会社か",
+        "paragraphs": [
+          "SHEIN は、自社をファッションとライフスタイルのグローバルなオンライン小売企業だと説明しています。SHEIN ブランドの服と、世界中のサプライヤーのネットワークの商品を販売しています。また、需要に合わせて、小ロットで生産していると述べています。",
+          "マーケットごとにサイトがあり、各サイトのプライバシーポリシーに、そのサイトに責任を持つ会社の名前が書かれています。日本のサイト jp.shein.com では、それはシンガポールの Fashion Choice Pte. Ltd. です。グループのサイト sheingroup.com は、シンガポールの Roadget Business Pte. Ltd. のものです。",
+          "どこの国の会社かは、報道ごとに分けて見ましょう。フィナンシャル・タイムズは、SHEIN は中国で生まれたと伝えています。BBC とストレーツ・タイムズ（The Straits Times）によると、2026年2月24日に広東省政府のイベントで、創業者の Xu Yangtian（許仰天）氏が、広東省は SHEIN のルーツがある場所だと語りました。この3つの報道は、いずれも会社の本社がシンガポールにあると伝えています。"
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "SHEIN のトップページを10のマーケットで並べた画像。それぞれにサイトのアドレスが入っています：ブラジル、イギリス、スペイン、フランス、ドイツ、イタリア、韓国、日本、台湾、シンガポール",
+          "caption": "10のマーケットの SHEIN のトップページ（2026年10月12日に撮影）。マーケットごとにサイトがあり、各サイトのプライバシーポリシーに、そのサイトに責任を持つ会社の名前が書かれています。",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
+      },
+      {
+        "heading": "支払いの安全性と、データの扱い",
+        "paragraphs": [
+          "SHEIN は、システムと管理体制が ISO、NIST、PCI DSS の基準に沿っていると説明しています。また、お客様のデータは販売していないと述べています。",
+          "お客様のデータが他の国や地域へ移転される可能性については、各マーケットのサイトのプライバシーポリシーに専用の項目があります。この記事ではその内容を要約しません。気になる方は、アカウントを作る前に、利用するサイトのプライバシーポリシーでその項目を読んでください。",
+          "偽サイトを避けるには、公式サイト（jp.shein.com）で買うか、スマートフォンの公式アプリストアからダウンロードした SHEIN のアプリを使ってください。"
+        ]
+      },
+      {
+        "heading": "返品と関税",
+        "paragraphs": [
+          "この記事の運営会社と返品期限は、jp.shein.com のプライバシーポリシーと返品ポリシーによるもので、2026年10月12日に確認しました。関税のルールは、税関（Japan Customs）のカスタムスアンサー1006によるもので、同じ日に確認しました。",
+          "日本のサイトの返品期限は、購入日から40日以内です。",
+          "税関によると、課税価格の合計額が1万円以下の物品の輸入は、関税と消費税が免税されます。ただし、免税にならない物品が定められていて、主なものは、革製のカバン、ハンドバッグ、手袋など、編物製の衣類（Tシャツ、セーターなど）、スキー靴、革靴、本底（靴の底）が革製の履物類などです。輸入にかかる税金や手数料は、支払う前にチェックアウトで確認してください。"
+        ]
+      },
+      {
+        "heading": "支払う前に確認すること",
+        "bullets": [
+          "公式サイト（jp.shein.com）か、公式のアプリで買っているか。",
+          "送料と配送日数が、注文ページに表示されているか。",
+          "輸入にかかる税金や手数料が、チェックアウトに表示されているか。",
+          "返品期限と、期限が短い商品がないか。",
+          "注文の確認を保存しておくこと。"
+        ]
+      },
+      {
+        "heading": "提携と紹介コード",
+        "paragraphs": [
+          "この記事は編集記事で、Cecília は SHEIN のアフィリエイトです。Cecília のリンクから購入すると、報酬が発生することがありますが、あなたの負担は増えません。4CW5Y は SHEIN ブラジルの紹介コードです。SHEIN の検索バーに入力するもので、クーポンの入力欄には入れません。SHEIN ブラジルのコードなので、お住まいの国では使えない場合があります。"
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "alt": "スマートフォンで開いた SHEIN ブラジルのサイトの検索バーに、コード 4CW5Y が入力されている画面。画面の表示はポルトガル語で、コードは 4Cw5y と表示されています",
+          "caption": "SHEIN ブラジルのサイトの検索バーに入力したコード（スマートフォンの画面）。",
+          "objectFit": "contain",
+          "aspectRatio": 1.4722
+        },
+        "links": [
+          {
+            "label": "4CW5Y の紹介コードと SHEIN ブラジルのキャンペーンを見る",
+            "href": "/ja/coupons/shein"
+          },
+          {
+            "label": "SHEIN ブラジルの紹介コード：入力する場所と使い方",
+            "href": "/ja/reviews/shein-referral-code-ja"
+          }
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "SHEIN は信頼できますか？ 正規のお店です。日本のサイトの運営会社はシンガポールの Fashion Choice Pte. Ltd. で、サイトのプライバシーポリシーに会社名が書かれています。",
+          "SHEIN でクレジットカード払いは安全ですか？ SHEIN は、システムと管理体制が ISO、NIST、PCI DSS の基準に沿っていると説明しています。公式サイトの jp.shein.com か、公式アプリストアからダウンロードしたアプリで買ってください。",
+          "SHEIN はどこの国の会社ですか？ フィナンシャル・タイムズによると、SHEIN は中国で生まれ、本社はシンガポールにあります。2026年2月には、創業者が広東省は SHEIN のルーツがある場所だと語ったと、BBC とストレーツ・タイムズが報じました。",
+          "日本で SHEIN を運営しているのは誰ですか？ jp.shein.com のプライバシーポリシーによると、シンガポールの Fashion Choice Pte. Ltd. です。",
+          "SHEIN の返品期限は何日ですか？ 日本のサイトでは、購入日から40日以内です。",
+          "SHEIN で買うと関税はかかりますか？ 税関のカスタムスアンサーによると、課税価格の合計額が1万円以下の物品の輸入は、関税と消費税が免税されます。ただし、革製のカバン、ハンドバッグ、手袋など、編物製の衣類（Tシャツ、セーターなど）、スキー靴、革靴、本底（靴の底）が革製の履物類など、免税にならない物品があります。",
+          "SHEIN の公式サイトはどう見分けますか？ 日本の公式サイトのアドレスは jp.shein.com です。アプリは、スマートフォンの公式アプリストアからダウンロードした SHEIN のアプリを使ってください。",
+          "4CW5Y はクーポンですか？ いいえ。Cecília の SHEIN ブラジルの紹介コードで、SHEIN の検索バーに入力するものです。SHEIN ブラジルのコードなので、お住まいの国では使えない場合があります。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "支払う前に、注文ページで送料、配送日数、税金を確認しましょう",
+      "label": "SHEIN へ進む",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "この記事は編集記事です。SHEIN での購入で報酬を受け取る場合がありますが、あなたの負担は増えません。",
+    "relatedArticles": [
+      {
+        "slug": "shein-vs-temu-ja",
+        "title": "SHEIN と Temu、どちらを選ぶ？返品・関税と、買う前に確認すること"
+      },
+      {
+        "slug": "shein-black-friday-ja",
+        "title": "Black Friday SHEIN 2026（ブラックフライデー）：いつ始まり、いつまで？US$ 50までの輸入税ゼロ"
+      },
+      {
+        "slug": "shein-referral-code-ja",
+        "title": "SHEIN ブラジルの紹介コード：入力する場所と使い方"
+      }
+    ]
+  },
+  {
+    "id": 383,
+    "slug": "shein-trust-guide-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "shein-trust",
+    "title": "SHEIN 可靠嗎？誰在營運、是哪個國家的公司，以及台灣站的退貨規則",
+    "seoTitle": "SHEIN 可靠嗎？營運公司、來自哪裡與退貨規則",
+    "type": "編輯專題",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN 可靠嗎？整理 SHEIN 台灣站的營運公司、SHEIN 是哪個國家的公司、資料與付款安全、退貨期限，以及付款前要確認的事。",
+    "metaDescription": "SHEIN 可靠嗎？台灣站的營運公司、SHEIN 來自哪裡、資料與付款安全、收到商品後 15 天內的退貨規則，以及付款前要確認的事。",
+    "publishedAt": "2026年10月13日",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-home-tw-2026-10-12.webp",
+    "imageAlt": "2026 年 10 月 12 日的 SHEIN 台灣站首頁，畫面有當日的活動、類別選單與搜尋列",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "SHEIN 是一間正規經營的商店。本指南介紹的是 SHEIN 台灣站（shein.tw）。台灣站的營運公司是新加坡的 Fashion Choice Pte. Ltd.，公司名稱寫在網站的隱私權政策中。不同市場的營運公司與退貨規則可能不同。",
+          "根據《金融時報》（Financial Times）的報導，SHEIN 誕生於中國，總部位於新加坡。台灣站的退貨期限是收到商品後 15 天內。"
+        ]
+      },
+      {
+        "heading": "SHEIN 由誰營運，是哪個國家的公司",
+        "paragraphs": [
+          "SHEIN 形容自己是全球性的線上時尚與生活風格零售商，販售 SHEIN 品牌的服飾，也販售來自全球供應商網路的商品。SHEIN 表示，公司採取按需生產、小批量的方式。",
+          "每個市場都有各自的網站，各網站的隱私權政策都會寫明負責該網站的公司。台灣站 shein.tw 的公司是新加坡的 Fashion Choice Pte. Ltd.。集團網站 sheingroup.com 屬於新加坡的 Roadget Business Pte. Ltd.。",
+          "關於 SHEIN 的來歷，每個說法都要對應各自的報導。《金融時報》報導，SHEIN 誕生於中國。2026 年 2 月 24 日，在廣東省政府的一場活動上，創辦人 Xu Yangtian（許仰天）表示廣東是 SHEIN 的根，這是 BBC 與《海峽時報》（The Straits Times）的報導。這三篇報導都寫到，公司總部位於新加坡。"
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "SHEIN 在十個市場的首頁拼圖，每張首頁都標有網站網址：巴西、英國、西班牙、法國、德國、義大利、南韓、日本、台灣與新加坡",
+          "caption": "SHEIN 在十個市場的首頁，2026 年 10 月 12 日擷取。每個市場都有自己的網站，各網站的隱私權政策都會寫明負責該網站的公司。",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
+      },
+      {
+        "heading": "付款安全性與資料處理",
+        "paragraphs": [
+          "SHEIN 表示，公司的系統和管控措施與 ISO、NIST 及 PCI DSS 標準保持一致，也表示不會販售客戶資料。",
+          "客戶資料可能被傳送到哪些國家或地區，各市場網站的隱私權政策都有專門的段落說明。本文不摘要這段內容。如果你在意這件事，建議在建立帳號前先閱讀。",
+          "為避免進入假網站，請只在官方網站（台灣站為 shein.tw）購買，或使用從手機官方應用程式商店下載的 SHEIN App。"
+        ]
+      },
+      {
+        "heading": "退貨與進口稅",
+        "paragraphs": [
+          "本文的營運公司與退貨期限，取自 SHEIN 台灣站（shein.tw）的隱私權政策與退貨政策，我們於 2026 年 10 月 12 日查閱。",
+          "台灣站的退貨期限是收到商品後 15 天內。",
+          "進口稅依收件地而異，付款前請在結帳頁面確認總金額是否已包含進口稅。"
+        ]
+      },
+      {
+        "heading": "付款前要確認的事項",
+        "bullets": [
+          "是否在官方網站（shein.tw）或官方 App 上購買。",
+          "運費與配送時間，是否顯示在訂單頁面。",
+          "進口稅與相關費用，是否顯示在結帳頁面。",
+          "退貨期限，以及期限更短的商品。",
+          "保留訂單確認。"
+        ]
+      },
+      {
+        "heading": "合作與推薦碼",
+        "paragraphs": [
+          "本文是編輯專題，Cecília 是 SHEIN 的聯盟會員：透過她的連結購買，可能產生佣金，你不需要額外付費。4CW5Y 是 SHEIN 巴西站的推薦碼，要在 SHEIN 的搜尋欄輸入，不是填在優惠券欄位。因為是 SHEIN 巴西站的推薦碼，在你所在的國家可能無法使用。"
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "alt": "在手機上開啟的 SHEIN 巴西站搜尋欄，已輸入推薦碼 4CW5Y。畫面為葡萄牙文，推薦碼在畫面上顯示為 4Cw5y",
+          "caption": "在 SHEIN 巴西站網站的搜尋欄輸入推薦碼（手機畫面）。",
+          "objectFit": "contain",
+          "aspectRatio": 1.4722
+        },
+        "links": [
+          {
+            "label": "查看 4CW5Y 推薦碼與 SHEIN 巴西站的活動",
+            "href": "/zh-hant/coupons/shein"
+          },
+          {
+            "label": "SHEIN 巴西站推薦碼：在哪裡輸入、怎麼用",
+            "href": "/zh-hant/reviews/shein-referral-code-zh-hant"
+          }
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "SHEIN 可靠嗎？ SHEIN 是正規經營的商店，台灣站的營運公司是新加坡的 Fashion Choice Pte. Ltd.，公司名稱寫在網站的隱私權政策中。",
+          "用信用卡在 SHEIN 付款安全嗎？ SHEIN 表示，公司的系統和管控措施與 ISO、NIST 及 PCI DSS 標準保持一致。請只在官方網站 shein.tw，或從官方應用程式商店下載的 App 上付款。",
+          "SHEIN 是哪個國家的公司？ 根據《金融時報》的報導，SHEIN 誕生於中國，總部位於新加坡。2026 年 2 月，創辦人表示 SHEIN 的根在廣東，這是 BBC 與《海峽時報》的報導。",
+          "SHEIN 台灣站由誰營運？ 根據 shein.tw 的隱私權政策，是新加坡的 Fashion Choice Pte. Ltd.。",
+          "SHEIN 台灣站的退貨期限是幾天？ 收到商品後 15 天內。",
+          "怎麼確認 SHEIN 的網站是官方的？ 台灣站的網址是 shein.tw。App 請使用從手機官方應用程式商店下載的 SHEIN App。",
+          "4CW5Y 是優惠券嗎？ 不是。它是 SHEIN 巴西站的推薦碼，要在 SHEIN 的搜尋欄輸入。因為是 SHEIN 巴西站的推薦碼，在你所在的國家可能無法使用。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "付款前，先在訂單頁面確認運費、配送時間與稅金",
+      "label": "前往 SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "本文為編輯專題。我們可能從 SHEIN 的購買中獲得佣金，你不需要額外付費。",
+    "relatedArticles": [
+      {
+        "slug": "shein-vs-shopee-zh-hant",
+        "title": "SHEIN 跟蝦皮怎麼選？退貨規則與購買前要確認的事"
+      },
+      {
+        "slug": "shein-black-friday-zh-hant",
+        "title": "Black Friday SHEIN 2026（黑色星期五）：何時開始、何時結束，以及 US$ 50 以下免進口稅"
+      },
+      {
+        "slug": "shein-referral-code-zh-hant",
+        "title": "SHEIN 巴西站推薦碼：在哪裡輸入、怎麼用"
+      }
+    ]
+  },
+  {
+    "id": 384,
+    "slug": "shein-trust-guide-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "shein-trust",
+    "title": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事",
+    "seoTitle": "SHEIN 可靠吗？运营公司、来历与购买前要确认的事",
+    "type": "编辑专题",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN 可靠吗？整理 SHEIN 新加坡站的运营公司、SHEIN 是哪个国家的公司、数据与付款安全、如何确认官方网站，以及购买前要确认的事。",
+    "metaDescription": "SHEIN 可靠吗？新加坡站的运营公司、SHEIN 来自哪里、数据与付款安全、如何确认官方网站，以及购买前要确认的事。",
+    "publishedAt": "2026年10月13日",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-home-sg-2026-10-12.webp",
+    "imageAlt": "2026 年 10 月 12 日的 SHEIN 新加坡站首页（页面为英文），画面有当天的活动、类别菜单与搜索栏",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "SHEIN 是一家正规经营的商店。本指南介绍的是 SHEIN 新加坡站（sg.shein.com）。新加坡站的运营公司是 Fashion Choice Pte. Ltd.，公司名称写在网站的隐私政策中。不同市场的运营公司与退货规则可能不同。",
+          "据《金融时报》（Financial Times）报道，SHEIN 诞生于中国，总部位于新加坡。新加坡站的退货政策我们没有查阅，请在 sg.shein.com 上确认退货期限，以及它是从收货、送达还是下单那天开始计算。"
+        ]
+      },
+      {
+        "heading": "SHEIN 由谁运营，是哪个国家的公司",
+        "paragraphs": [
+          "SHEIN 把自己形容为全球性的线上时尚与生活方式零售商，销售 SHEIN 品牌的服装，也销售来自全球供应商网络的商品。SHEIN 表示，公司采用按需、小批量的方式生产。",
+          "每个市场都有各自的网站，各网站的隐私政策都会写明负责该网站的公司。新加坡站 sg.shein.com 的公司是 Fashion Choice Pte. Ltd.。集团网站 sheingroup.com 属于新加坡的 Roadget Business Pte. Ltd.。",
+          "关于 SHEIN 的来历，每个说法都要对应各自的报道。《金融时报》报道，SHEIN 诞生于中国。2026 年 2 月 24 日，在广东省政府的一场活动上，创始人 Xu Yangtian（许仰天）表示广东是 SHEIN 的根，这是 BBC 与《海峡时报》（The Straits Times）的报道。这三篇报道都写到，公司总部位于新加坡。"
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "alt": "SHEIN 在十个市场的首页拼图，每张首页都标有网站网址：巴西、英国、西班牙、法国、德国、意大利、韩国、日本、台湾与新加坡",
+          "caption": "SHEIN 在十个市场的首页，2026 年 10 月 12 日截取。每个市场都有自己的网站，各网站的隐私政策都会写明负责该网站的公司。",
+          "objectFit": "contain",
+          "aspectRatio": 2.8571
+        }
+      },
+      {
+        "heading": "付款安全性与数据处理",
+        "paragraphs": [
+          "SHEIN 表示，公司的系统和管控措施与 ISO、NIST 及 PCI DSS 标准保持一致，也表示不会出售客户数据。",
+          "客户数据可能被传送到哪些国家或地区，各市场网站的隐私政策都有专门的章节说明。本文不概括这部分内容。如果你在意这件事，建议在创建账户前先阅读。",
+          "为避免进入假网站，请只在官方网站（新加坡站为 sg.shein.com）购买，或使用从手机官方应用商店下载的 SHEIN App。"
+        ]
+      },
+      {
+        "heading": "退货与进口税",
+        "paragraphs": [
+          "本文的运营公司取自 SHEIN 新加坡站（sg.shein.com）的隐私政策，我们于 2026 年 10 月 12 日查阅。新加坡站的退货政策我们没有查阅，所以这里不给出退货天数。",
+          "请在 sg.shein.com 上确认退货期限，以及它从哪一天开始计算（收到商品、送达，还是下单），并看看有没有期限更短的商品。",
+          "进口税依收货地而异，付款前请在结账页面确认总金额是否已包含进口税。"
+        ]
+      },
+      {
+        "heading": "付款前要确认的事项",
+        "bullets": [
+          "是否在官方网站（sg.shein.com）或官方 App 上购买。",
+          "运费与配送时间，是否显示在订单页面。",
+          "进口税与相关费用，是否显示在结账页面。",
+          "退货期限，以及期限更短的商品。",
+          "保留订单确认。"
+        ]
+      },
+      {
+        "heading": "合作与推荐码",
+        "paragraphs": [
+          "本文是编辑专题，Cecília 是 SHEIN 的联盟会员：通过她的链接购买，可能产生佣金，你不需要额外付费。4CW5Y 是 SHEIN 巴西站的推荐码，要在 SHEIN 的搜索栏里输入，不是填在优惠券输入框里。因为是 SHEIN 巴西站的推荐码，在你所在的国家可能无法使用。"
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "alt": "在手机上打开的 SHEIN 巴西站搜索栏，已输入推荐码 4CW5Y。界面为葡萄牙语，推荐码在界面上显示为 4Cw5y",
+          "caption": "在 SHEIN 巴西站网站的搜索栏输入推荐码（手机界面）。",
+          "objectFit": "contain",
+          "aspectRatio": 1.4722
+        },
+        "links": [
+          {
+            "label": "查看 4CW5Y 推荐码与 SHEIN 巴西站的活动",
+            "href": "/zh-hans/coupons/shein"
+          },
+          {
+            "label": "SHEIN 巴西站推荐码：在哪里输入、怎么用",
+            "href": "/zh-hans/reviews/shein-referral-code-zh-hans"
+          }
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "SHEIN 可靠吗？ SHEIN 是正规经营的商店，新加坡站的运营公司是 Fashion Choice Pte. Ltd.，公司名称写在网站的隐私政策中。",
+          "用信用卡在 SHEIN 付款安全吗？ SHEIN 表示，公司的系统和管控措施与 ISO、NIST 及 PCI DSS 标准保持一致。请只在官方网站 sg.shein.com，或从官方应用商店下载的 App 上付款。",
+          "SHEIN 是哪个国家的公司？ 据《金融时报》报道，SHEIN 诞生于中国，总部位于新加坡。2026 年 2 月，创始人表示 SHEIN 的根在广东，这是 BBC 与《海峡时报》的报道。",
+          "SHEIN 新加坡站由谁运营？ 根据 sg.shein.com 的隐私政策，是 Fashion Choice Pte. Ltd.。",
+          "SHEIN 新加坡站的退货期限是多久？ 我们没有查阅新加坡站的退货政策，所以不给出天数。请在 sg.shein.com 上确认退货期限，以及它从哪一天开始计算。",
+          "怎么确认 SHEIN 的网站是官方的？ 新加坡站的网址是 sg.shein.com。App 请使用从手机官方应用商店下载的 SHEIN App。",
+          "4CW5Y 是优惠券吗？ 不是。它是 SHEIN 巴西站的推荐码，要在 SHEIN 的搜索栏里输入。因为是 SHEIN 巴西站的推荐码，在你所在的国家可能无法使用。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "付款前，先在订单页面确认运费、配送时间与税金",
+      "label": "前往 SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "本文为编辑专题。我们可能从 SHEIN 的购买中获得佣金，你不需要额外付费。",
+    "relatedArticles": [
+      {
+        "slug": "shein-vs-temu-zh-hans",
+        "title": "SHEIN 还是 Temu？新加坡买家怎么选，购买前要确认什么"
+      },
+      {
+        "slug": "shein-black-friday-zh-hans",
+        "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、何时结束，以及 US$ 50 以内免进口税"
+      },
+      {
+        "slug": "shein-referral-code-zh-hans",
+        "title": "SHEIN 巴西站推荐码：在哪里输入、怎么用"
+      }
+    ]
+  },
+  {
+    "id": 385,
+    "slug": "shein-ou-shopee-temu",
+    "locale": "pt",
+    "translationKey": "shein-vs-shopee-temu",
+    "title": "SHEIN, Shopee, Temu ou AliExpress: como escolher para comprar roupa (prazo, devolução e imposto)",
+    "seoTitle": "SHEIN ou Shopee? Comparativo com Temu e AliExpress",
+    "type": "Comparativo",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN, Shopee, Temu e AliExpress lado a lado: frete, prazo, devolução, imposto e Reclame Aqui pelas regras que cada loja publica (o AliExpress, só no Reclame Aqui), e como escolher conforme o que você vai comprar.",
+    "metaDescription": "SHEIN ou Shopee? Veja frete, prazo, devolução, imposto e Reclame Aqui pelas regras que cada loja publica em 12/10/2026. O AliExpress entra só no Reclame Aqui.",
+    "publishedAt": "13 de outubro de 2026",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+    "imageAlt": "Ilustração de uma tabela com as colunas SHEIN, Shopee, Temu e AliExpress e cinco linhas marcadas por ícones: frete, prazo, devolução, imposto e reputação",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Não existe uma loja melhor para todo mundo. A escolha depende do que você vai comprar e de quanto pesa poder devolver: a Temu dá 90 dias para devolução, contados da compra; a SHEIN dá 20 e a Shopee 7, contados do recebimento. No imposto, a SHEIN e a Shopee publicam a mesma regra para o que vem do exterior.",
+          "Este artigo não mede preço nem testa entregas. A tabela junta o que cada loja publica e o que o Reclame Aqui mostra, consultados em 12/10/2026."
+        ]
+      },
+      {
+        "heading": "SHEIN, Shopee, Temu e AliExpress lado a lado",
+        "paragraphs": [
+          "Fontes, consultadas em 12/10/2026: as páginas de envio, devolução e impostos da SHEIN Brasil; a Garantia Shopee e a página de impostos da Shopee; as páginas de envio e de devolução da Temu; e o Reclame Aqui das quatro lojas, nos seis meses até 30/09/2026. A nota do Reclame Aqui mede o atendimento a quem reclama, não a qualidade do produto.",
+          "\"Não lido\" quer dizer que a regra não estava numa página aberta da loja: a do AliExpress pediu login, então confira na própria loja."
+        ],
+        "comparisonTable": {
+          "caption": "Frete, prazo, devolução, imposto e Reclame Aqui da SHEIN, da Shopee, da Temu e do AliExpress no Brasil, em 12/10/2026.",
+          "headers": [
+            "Critério",
+            "SHEIN",
+            "Shopee",
+            "Temu",
+            "AliExpress"
+          ],
+          "rows": [
+            [
+              "Frete",
+              "Envio Global: R$ 15 abaixo de R$ 69; grátis acima",
+              "depende do vendedor",
+              "R$ 15 abaixo de R$ 69; grátis acima",
+              "não lido"
+            ],
+            [
+              "Prazo publicado",
+              "Envio Global: 3 a 5 dias para processar; a página dava 60% de probabilidade de entrega em até 11 dias",
+              "depende do vendedor",
+              "17 a 30 dias no envio padrão; 1 a 3 dias para processar",
+              "não lido"
+            ],
+            [
+              "Devolução",
+              "20 dias do recebimento; a 1ª de cada pedido grátis, depois R$ 45",
+              "7 dias do recebimento, pela Garantia Shopee",
+              "90 dias da compra; a 1ª de cada pedido grátis, depois R$ 35",
+              "não lido"
+            ],
+            [
+              "Imposto do que vem de fora",
+              "ICMS de 17% a 20%; importação zero até US$ 50",
+              "ICMS de 17% a 20%; importação zero até US$ 50",
+              "não lido",
+              "não lido"
+            ],
+            [
+              "Reclame Aqui",
+              "Boa, nota 7,6",
+              "Regular, nota 6,7",
+              "Ruim, nota 5,8",
+              "Regular, nota 6,0"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "O imposto não decide a escolha",
+        "paragraphs": [
+          "A SHEIN e a Shopee publicam a mesma regra para compra internacional: ICMS de 17% a 20% conforme o estado e, desde 13 de maio de 2026, imposto de importação zero nos pedidos de até US$ 50. Acima disso, ele volta.",
+          "O que muda o imposto é de onde a peça sai. Produto que já está no Brasil, como o Envio Nacional da SHEIN, não paga imposto de importação. A Temu e o AliExpress não publicam essa regra nas páginas que lemos. A tabela do imposto e um exemplo de cálculo estão no guia de Black Friday da SHEIN."
+        ],
+        "links": [
+          {
+            "label": "Black Friday SHEIN 2026: quando começa, até quando vai e o imposto de importação zero até US$ 50",
+            "href": "/reviews/black-friday-shein"
+          }
+        ]
+      },
+      {
+        "heading": "A devolução é onde as lojas mais diferem",
+        "paragraphs": [
+          "Os prazos de devolução publicados pelas lojas vão de 7 a 90 dias. A Temu conta da data da compra; a SHEIN e a Shopee, do recebimento."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-shopee-temu-prazo-devolucao.webp",
+          "alt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil em 12/10/2026: Temu 90 dias a partir da compra, SHEIN 20 dias e Shopee 7 dias a partir do recebimento",
+          "caption": "Prazo de devolução publicado por cada loja no Brasil, em 12/10/2026: a Temu conta da compra; a SHEIN e a Shopee, do recebimento. A política do AliExpress pediu login e não foi lida.",
+          "objectFit": "contain"
+        },
+        "bullets": [
+          "**Temu:** 90 dias a partir da compra, e nunca menos de 7 dias depois de receber. A primeira devolução de cada pedido é grátis; da segunda em diante, a Temu desconta R$ 35 do reembolso. Pedido de devolução feito mais de 7 dias depois de receber também tem taxa.",
+          "**SHEIN:** 20 dias depois de receber. A primeira devolução de cada pedido é grátis; da segunda em diante, a SHEIN desconta R$ 45 do reembolso. Alguns itens, como roupa íntima e roupa de banho, só voltam em 7 dias.",
+          "**Shopee:** 7 dias depois de receber, pelo aplicativo, pela Garantia Shopee. Vale também para quem mudou de ideia.",
+          "**AliExpress:** a página de devolução pediu login, e não a lemos."
+        ]
+      },
+      {
+        "heading": "Qual escolher, conforme a compra",
+        "bullets": [
+          "**Quer poder devolver com folga:** compare o prazo de devolução, e não só o preço.",
+          "**Precisa receber até uma data:** confira o prazo na página do produto ou do pedido. Na Shopee, ele muda de vendedor para vendedor.",
+          "**Vai comprar do exterior:** veja no checkout o valor do ICMS e, acima de US$ 50, do imposto de importação.",
+          "**Prefere vendedor do Brasil:** procure o Envio Nacional na SHEIN, que não paga imposto de importação, ou os vendedores brasileiros na Shopee.",
+          "**Vai pagar com Pix ou parcelar:** veja as formas de pagamento no checkout de cada loja."
+        ]
+      },
+      {
+        "heading": "O que o Reclame Aqui mostra",
+        "paragraphs": [
+          "Números dos seis meses de 1º de abril a 30 de setembro de 2026, consultados no Reclame Aqui em 12/10/2026."
+        ],
+        "comparisonTable": {
+          "caption": "Reclame Aqui da SHEIN, da Shopee, da Temu e do AliExpress, janela de 01/04 a 30/09/2026, consultado em 12/10/2026.",
+          "headers": [
+            "Loja",
+            "Reputação e nota",
+            "Reclamações",
+            "Resolvidas",
+            "Voltariam a fazer negócio"
+          ],
+          "rows": [
+            [
+              "SHEIN",
+              "Boa, 7,6",
+              "32.489",
+              "78,2%",
+              "70,9%"
+            ],
+            [
+              "Shopee",
+              "Regular, 6,7",
+              "141.479",
+              "67,3%",
+              "64,1%"
+            ],
+            [
+              "Temu",
+              "Ruim, 5,8",
+              "9.093",
+              "56,5%",
+              "42,6%"
+            ],
+            [
+              "AliExpress",
+              "Regular, 6,0",
+              "10.109",
+              "57,2%",
+              "49,1%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Duas ressalvas mudam a leitura. A nota mede o atendimento a quem reclama, não a qualidade do produto. E o número de reclamações depende do tamanho da loja: a Shopee é um marketplace de vendedores e tem de 4 a 16 vezes o volume das outras.",
+          "Nas reclamações dos últimos três anos, o problema mais citado é produto não recebido na SHEIN (36,68%) e no AliExpress (27,05%), e propaganda enganosa na Temu (30,54%). Na Shopee, produto não recebido aparece em 15,32%. Quem opera a SHEIN e o que pesa na reputação dela está no artigo sobre a confiança na loja."
+        ],
+        "links": [
+          {
+            "label": "SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa",
+            "href": "/reviews/shein-e-confiavel"
+          }
+        ]
+      },
+      {
+        "heading": "Antes de comprar: o que conferir",
+        "bullets": [
+          "O preço final, com frete e imposto.",
+          "O prazo de devolução da loja e se a peça é dos itens com prazo menor.",
+          "Quem vende: a própria loja, um vendedor do Brasil ou um vendedor do exterior.",
+          "O prazo de entrega no pedido.",
+          "Nas compras internacionais, o nome e o CPF corretos no pedido."
+        ]
+      },
+      {
+        "heading": "Parceria e código de indicação",
+        "paragraphs": [
+          "A Cecília é afiliada da SHEIN, da Shopee e da Temu, e pode receber comissão pelas compras feitas pelos links deste artigo, sem custo para você. Do AliExpress, não. Isso não muda a resposta: a escolha depende do que você vai comprar.",
+          "O 4CW5Y é o código de indicação da Cecília na SHEIN. Ele vai na busca da SHEIN, não no campo de cupom."
+        ],
+        "links": [
+          {
+            "label": "Ver o código de indicação 4CW5Y e as campanhas da SHEIN",
+            "href": "/cupons/shein"
+          },
+          {
+            "label": "Código de indicação SHEIN: onde colocar, como usar e o que você ganha",
+            "href": "/reviews/codigo-de-indicacao-shein"
+          },
+          {
+            "label": "Abrir a Shopee",
+            "href": "https://s.shopee.com.br/2LZ1KQ3brC",
+            "sponsored": true
+          },
+          {
+            "label": "Abrir a Temu",
+            "href": "https://temu.to/k/glfwht5gllj",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "SHEIN ou Shopee: qual escolher? Depende do que você vai comprar e de quanto pesa poder devolver: a SHEIN dá 20 dias para devolução e a Shopee 7, e o prazo de entrega da Shopee muda de vendedor para vendedor.",
+          "Qual é mais barato, SHEIN ou Shopee? Este artigo não mede preço. Compare o preço final de cada peça, com frete e imposto, na hora de pagar em cada loja.",
+          "Qual chega mais rápido, SHEIN ou Shopee? A SHEIN publica, no Envio Global, de 3 a 5 dias para processar o pedido e uma estimativa de entrega; na Shopee, o prazo depende do vendedor e aparece na página do produto.",
+          "SHEIN ou Temu: qual a diferença? A Temu dá 90 dias para devolução, contados da compra, e a SHEIN 20, contados do recebimento. Em 12/10/2026, as duas publicavam o mesmo frete: R$ 15 abaixo de R$ 69 e grátis acima.",
+          "SHEIN ou AliExpress? A política de devolução e envio do AliExpress pediu login e não foi lida. No Reclame Aqui, que mede o atendimento e não a qualidade do produto, a SHEIN tem nota 7,6 e o AliExpress 6,0 nos seis meses até 30/09/2026.",
+          "SHEIN ou Shopee para roupas? Para roupa, pese a devolução: a SHEIN dá 20 dias e a Shopee 7, e na Shopee cada peça vem de um vendedor.",
+          "SHEIN, Shopee e Temu pagam imposto? Nas compras do exterior, a SHEIN e a Shopee publicam a mesma regra: ICMS de 17% a 20% e imposto de importação zero até US$ 50. A regra da Temu não estava numa página que lemos.",
+          "A SHEIN e a Temu são a mesma coisa? Não. São lojas diferentes, cada uma com as suas regras de frete, prazo e devolução.",
+          "Qual a nota de cada loja no Reclame Aqui? Nos seis meses até 30/09/2026: SHEIN 7,6 (Boa), Shopee 6,7 (Regular), AliExpress 6,0 (Regular) e Temu 5,8 (Ruim). A nota mede o atendimento a quem reclama, não a qualidade do produto.",
+          "O 4CW5Y é cupom? Não. É o código de indicação da Cecília na SHEIN, que se pesquisa na busca da loja."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Compare o preço final, com frete e imposto, na hora de pagar",
+      "label": "Ir para a SHEIN",
+      "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Este artigo é editorial. Podemos receber comissão pelos links da SHEIN, da Shopee e da Temu.",
+    "relatedArticles": [
+      {
+        "slug": "shein-e-confiavel",
+        "title": "SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa"
+      },
+      {
+        "slug": "black-friday-shein",
+        "title": "Black Friday SHEIN 2026: quando começa, até quando vai e o imposto de importação zero até US$ 50"
+      },
+      {
+        "slug": "codigo-de-indicacao-shein",
+        "title": "Código de indicação SHEIN: onde colocar, como usar e o que você ganha"
+      }
+    ]
+  },
+  {
+    "id": 386,
+    "slug": "shein-vs-temu-which-to-choose",
+    "locale": "en",
+    "translationKey": "shein-vs-shopee-temu",
+    "title": "SHEIN vs Temu: how to choose (returns and what to check before you buy)",
+    "seoTitle": "SHEIN vs Temu: how to choose, returns and what to check",
+    "type": "Comparison Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN vs Temu: what SHEIN publishes on returns in the United States and the United Kingdom, how to choose depending on what you are buying, what to check before you pay and what the SHEIN Brazil referral code is.",
+    "metaDescription": "SHEIN vs Temu: how to choose. SHEIN's returns in the US and UK (checked Oct 12, 2026) and what to check before you buy. No price comparison.",
+    "publishedAt": "October 13, 2026",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+    "imageAlt": "Illustration of an empty table with the columns SHEIN, Shopee, Temu and AliExpress and five rows marked by icons: shipping, delivery time, returns, tax and reputation",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "There is no store that is best for everyone. The choice depends on what you are buying and on how much being able to return it matters to you, and each store publishes its own rules in each country. On its US site, SHEIN publishes a return window of 30 days from delivery. On its UK site, it publishes 14 days by law, counted from receipt, and, for most items, up to 30 days after receipt under its own policy. We did not read Temu's rules for your country for this article.",
+          "This article does not measure prices or test deliveries. SHEIN's side comes from the policies on its websites, checked on October 12, 2026. Amazon and Shopee also appear in searches like this one, but this article does not compare them."
+        ]
+      },
+      {
+        "heading": "What SHEIN publishes in the US and the UK",
+        "paragraphs": [
+          "Source, checked on October 12, 2026: the privacy and returns policies on SHEIN's website in each market."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-home-uk-2026-10-12.webp",
+          "alt": "Home page of SHEIN's UK site (shein.co.uk), captured on October 12, 2026, showing the campaign of the day",
+          "caption": "SHEIN UK home page (shein.co.uk), captured on October 12, 2026, with the campaign of the day.",
+          "objectFit": "contain"
+        },
+        "comparisonTable": {
+          "caption": "The company that operates SHEIN's site and its returns window in the United States and the United Kingdom, from the policies on SHEIN's websites checked on October 12, 2026.",
+          "headers": [
+            "Market",
+            "Company that operates the site",
+            "Returns on SHEIN"
+          ],
+          "rows": [
+            [
+              "United States",
+              "SHEIN US Services, LLC",
+              "Up to 30 days after delivery"
+            ],
+            [
+              "United Kingdom",
+              "Infinite Styles Services Co., Limited (“ISSL”)",
+              "14 days by law (right of withdrawal), counted from receipt. Under SHEIN's own policy, most items can be returned up to 30 days after receipt. Lingerie, underwear and costume jewelry only come back within the 14 days."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "We did not read Temu's policy for your country, so this article has nothing on Temu's returns or shipping there. Before you buy, check the shipping and returns pages on Temu's own site."
+        ]
+      },
+      {
+        "heading": "Import tax and customs",
+        "paragraphs": [
+          "Import tax depends on the country, and this article does not cover customs rules. Before you pay, check at each store's checkout whether the total includes taxes, and compare that final figure, not just the price of the item."
+        ]
+      },
+      {
+        "heading": "Which to choose, depending on what you're buying",
+        "bullets": [
+          "**You want room to return things:** compare the return window, not just the price.",
+          "**You need it by a certain date:** check the delivery time on the product page or in your order.",
+          "**The order comes from abroad:** check the total with taxes at checkout.",
+          "**You will pay by card, with a digital wallet or in instalments:** check the payment options at each store's checkout."
+        ]
+      },
+      {
+        "heading": "What reviews measure",
+        "paragraphs": [
+          "Scores on complaint and review sites measure how a store handles customers who complain, not the quality of the product, and the number of complaints depends on the size of the store. Who operates SHEIN and what is known about its reputation are in our article on whether SHEIN is legit and safe."
+        ],
+        "links": [
+          {
+            "label": "Is SHEIN legit and safe? Who runs it, where it's from and its return policy",
+            "href": "/en/reviews/is-shein-legit-and-safe"
+          }
+        ]
+      },
+      {
+        "heading": "Before you buy: what to check",
+        "bullets": [
+          "The final price, with shipping and taxes.",
+          "The return window, and whether the item is one of those with a shorter window (on SHEIN UK, for example, lingerie, underwear and costume jewelry).",
+          "Who sells it: the store itself or a partner seller.",
+          "The delivery time shown in your order."
+        ]
+      },
+      {
+        "heading": "Partnership and referral code",
+        "paragraphs": [
+          "Cecília is an affiliate of SHEIN and Temu and may earn a commission on purchases made through the links in this article, at no extra cost to you. That does not change the answer: the choice depends on what you are buying.",
+          "4CW5Y is Cecília's referral code for SHEIN Brazil (the Brazilian site and app). You search for it in SHEIN's search bar, not in the coupon field, and it may not work in your country. It is not a coupon."
+        ],
+        "links": [
+          {
+            "label": "See the 4CW5Y referral code and SHEIN Brazil's campaigns",
+            "href": "/en/coupons/shein"
+          },
+          {
+            "label": "SHEIN Brazil referral code: where to enter it and how it works",
+            "href": "/en/reviews/shein-referral-code-where-to-enter"
+          },
+          {
+            "label": "Open Temu",
+            "href": "https://temu.to/k/glfwht5gllj",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "SHEIN or Temu: which is better? Neither is better for everyone. It depends on what you are buying and on how much being able to return it matters to you: compare the return window and the total at checkout, not just the price.",
+          "Which is cheaper, SHEIN or Temu? This article does not measure prices. Compare the final price of each item, with shipping and taxes, when you pay at each store.",
+          "Which arrives faster, SHEIN or Temu? This article does not test deliveries. Check the delivery time on the product page and in your order. We did not read Temu's rules for your country.",
+          "Which is safer, SHEIN or Temu? This article gives no verdict. See our article on SHEIN to find out who operates the store and what is known about its reputation.",
+          "Are SHEIN and Temu the same company? No. They are different stores, each with its own rules for shipping, delivery and returns.",
+          "How long do I have to return something to SHEIN? In the US, up to 30 days after delivery. In the UK, 14 days by law, counted from receipt, and for most items up to 30 days after receipt under SHEIN's own policy. Lingerie, underwear and costume jewelry only come back within the 14 days.",
+          "Is 4CW5Y a coupon? No. It is Cecília's referral code for SHEIN Brazil. You search for it in SHEIN's search bar, and it may not work in your country."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Compare the final price, with shipping and taxes, when you pay",
+      "label": "Go to SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "This article is editorial. We may earn a commission on SHEIN and Temu links.",
+    "relatedArticles": [
+      {
+        "slug": "is-shein-legit-and-safe",
+        "title": "Is SHEIN legit and safe? Who runs it, where it's from and its return policy"
+      },
+      {
+        "slug": "shein-black-friday-dates-taxes",
+        "title": "SHEIN Brazil Black Friday 2026: when it starts, how long it lasts and the zero import tax up to US$ 50"
+      },
+      {
+        "slug": "shein-referral-code-where-to-enter",
+        "title": "SHEIN Brazil referral code: where to enter it and how it works"
+      }
+    ]
+  },
+  {
+    "id": 387,
+    "slug": "shein-o-temu-cual-elegir",
+    "locale": "es",
+    "translationKey": "shein-vs-shopee-temu",
+    "title": "SHEIN o Temu: cómo elegir (devoluciones y qué revisar antes de comprar)",
+    "seoTitle": "SHEIN o Temu: cómo elegir, devoluciones y qué revisar",
+    "type": "Guía comparativa",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN o Temu: lo que SHEIN publica sobre devoluciones en España y México, cómo elegir según lo que vayas a comprar, qué revisar antes de pagar y qué es el código de referido de SHEIN Brasil.",
+    "metaDescription": "SHEIN o Temu: cómo elegir. Las devoluciones de SHEIN en España y México (consultadas el 12/10/2026) y qué revisar antes de comprar. Sin comparación de precios.",
+    "publishedAt": "13 de octubre de 2026",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+    "imageAlt": "Ilustración de una tabla vacía con las columnas SHEIN, Shopee, Temu y AliExpress y cinco filas marcadas con iconos: envío, plazo, devolución, impuesto y reputación",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "No existe una tienda mejor para todo el mundo. La elección depende de lo que vayas a comprar y de cuánto te importe poder devolverlo, y cada tienda publica sus propias reglas en cada país. En España, SHEIN publica 14 días de desistimiento por ley, contados desde la recepción, y, según su política comercial, para la mayoría de los artículos hasta 30 días después de recibirlos. En México, publica hasta 30 días después de recibir el pedido. No leímos las reglas de Temu en tu país para este artículo.",
+          "Este artículo no mide precios ni prueba entregas. Lo de SHEIN sale de las políticas de sus sitios web, consultadas el 12 de octubre de 2026. AliExpress y Amazon también aparecen en búsquedas como esta, pero este artículo no las compara."
+        ]
+      },
+      {
+        "heading": "Lo que SHEIN publica en España y México",
+        "paragraphs": [
+          "Fuente, consultada el 12 de octubre de 2026: las políticas de privacidad y de devolución del sitio de SHEIN en cada mercado."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-home-es-2026-10-12.webp",
+          "alt": "Página de inicio del sitio de SHEIN España (es.shein.com), capturada el 12 de octubre de 2026, con la campaña del día",
+          "caption": "Página de inicio de SHEIN España (es.shein.com), capturada el 12 de octubre de 2026, con la campaña del día.",
+          "objectFit": "contain"
+        },
+        "comparisonTable": {
+          "caption": "Empresa que opera el sitio de SHEIN y plazo de devolución en España y México, según las políticas de los sitios de SHEIN consultadas el 12 de octubre de 2026.",
+          "headers": [
+            "Mercado",
+            "Empresa que opera el sitio",
+            "Devolución en SHEIN"
+          ],
+          "rows": [
+            [
+              "España",
+              "Infinite Styles Services Co., Limited (“ISSL”)",
+              "14 días de desistimiento por ley, contados desde la recepción. Según la política comercial de SHEIN, la mayoría de los artículos se puede devolver hasta 30 días después de recibirlos. La lencería, la ropa interior y la bisutería solo se devuelven dentro de los 14 días."
+            ],
+            [
+              "México",
+              "“SHEIN”, Salamanca 87, Colonia Roma Norte, Ciudad de México",
+              "Hasta 30 días después de recibir el pedido"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No leímos la política de Temu en tu país, así que este artículo no dice nada sobre sus devoluciones ni sobre sus envíos allí. Antes de comprar, revisa las páginas de envío y devolución de la propia Temu."
+        ]
+      },
+      {
+        "heading": "Impuestos y aduana",
+        "paragraphs": [
+          "El impuesto de importación depende del país, y este artículo no trata las reglas de aduana. Antes de pagar, revisa en el checkout de cada tienda si el total ya incluye los impuestos, y compara esa cifra final, no solo el precio del artículo."
+        ]
+      },
+      {
+        "heading": "Cuál elegir, según lo que vayas a comprar",
+        "bullets": [
+          "**Quieres poder devolver con margen:** compara el plazo de devolución, no solo el precio.",
+          "**Lo necesitas para una fecha concreta:** revisa el plazo de entrega en la página del producto o en tu pedido.",
+          "**El pedido viene del extranjero:** mira en el checkout el total con impuestos.",
+          "**Vas a pagar con tarjeta, con billetera digital o a plazos:** revisa las formas de pago en el checkout de cada tienda."
+        ]
+      },
+      {
+        "heading": "Qué miden las valoraciones",
+        "paragraphs": [
+          "Las notas de los sitios de reclamaciones y de opiniones miden cómo atiende la tienda a quien reclama, no la calidad del producto, y la cantidad de quejas depende del tamaño de la tienda. En nuestro artículo sobre si SHEIN es confiable y seguro explicamos quién opera SHEIN y qué se sabe de su reputación."
+        ],
+        "links": [
+          {
+            "label": "¿SHEIN es confiable y segura? Quién la opera, de dónde es, devoluciones y aduana",
+            "href": "/es/reviews/shein-es-confiable-y-seguro"
+          }
+        ]
+      },
+      {
+        "heading": "Antes de comprar: qué revisar",
+        "bullets": [
+          "El precio final, con envío e impuestos.",
+          "El plazo de devolución y si el artículo es de los que tienen un plazo menor (en SHEIN España, por ejemplo, la lencería, la ropa interior y la bisutería).",
+          "Quién lo vende: la propia tienda o un vendedor asociado.",
+          "El plazo de entrega que figura en tu pedido."
+        ]
+      },
+      {
+        "heading": "Colaboración y código de referido",
+        "paragraphs": [
+          "Cecília es afiliada de SHEIN y de Temu y puede recibir una comisión por las compras hechas a través de los enlaces de este artículo, sin costo adicional para ti. Eso no cambia la respuesta: la elección depende de lo que vayas a comprar.",
+          "4CW5Y es el código de referido de Cecília para SHEIN Brasil (el sitio y la app brasileños). Lo buscas en la barra de búsqueda de SHEIN, no en el campo del cupón, y puede que no valga en tu país. No es un cupón."
+        ],
+        "links": [
+          {
+            "label": "Ver el código de referido 4CW5Y y las campañas de SHEIN Brasil",
+            "href": "/es/coupons/shein"
+          },
+          {
+            "label": "Código de referido de SHEIN Brasil: dónde ponerlo y cómo usarlo",
+            "href": "/es/reviews/codigo-de-referido-shein-donde-ponerlo"
+          },
+          {
+            "label": "Abrir Temu",
+            "href": "https://temu.to/k/glfwht5gllj",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿SHEIN o Temu: cuál es mejor? Ninguna es mejor para todo el mundo. Depende de lo que vayas a comprar y de cuánto te importe poder devolverlo: compara el plazo de devolución y el total en el checkout, no solo el precio.",
+          "¿Cuál es más barato, SHEIN o Temu? Este artículo no mide precios. Compara el precio final de cada artículo, con envío e impuestos, a la hora de pagar en cada tienda.",
+          "¿Cuál llega más rápido, SHEIN o Temu? Este artículo no prueba entregas. Revisa el plazo de entrega en la página del producto y en tu pedido. No leímos las reglas de Temu en tu país.",
+          "¿Cuál es más seguro, SHEIN o Temu? Este artículo no da un veredicto. Mira nuestro artículo sobre SHEIN para saber quién opera la tienda y qué se sabe de su reputación.",
+          "¿SHEIN y Temu son la misma empresa? No. Son tiendas distintas, cada una con sus propias reglas de envío, entrega y devolución.",
+          "¿Cuánto tiempo tengo para devolver algo en SHEIN? En España, 14 días de desistimiento por ley, contados desde la recepción, y para la mayoría de los artículos hasta 30 días después de recibirlos según la política comercial de SHEIN. La lencería, la ropa interior y la bisutería solo se devuelven dentro de los 14 días. En México, hasta 30 días después de recibir el pedido.",
+          "¿El código 4CW5Y es un cupón? No. Es el código de referido de Cecília para SHEIN Brasil. Lo buscas en la barra de búsqueda de SHEIN, y puede que no valga en tu país."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Compara el precio final, con envío e impuestos, a la hora de pagar",
+      "label": "Ir a SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Este artículo es editorial. Podemos recibir comisión por los enlaces de SHEIN y de Temu.",
+    "relatedArticles": [
+      {
+        "slug": "shein-es-confiable-y-seguro",
+        "title": "¿SHEIN es confiable y segura? Quién la opera, de dónde es, devoluciones y aduana"
+      },
+      {
+        "slug": "black-friday-shein-fechas-impuestos",
+        "title": "Black Friday SHEIN Brasil 2026: cuándo empieza, cuándo termina y el impuesto de importación cero hasta US$ 50"
+      },
+      {
+        "slug": "codigo-de-referido-shein-donde-ponerlo",
+        "title": "Código de referido de SHEIN Brasil: dónde ponerlo y cómo usarlo"
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "slug": "shein-ou-temu-comment-choisir",
+    "locale": "fr",
+    "translationKey": "shein-vs-shopee-temu",
+    "title": "SHEIN ou Temu : comment choisir (retours, douane et points à vérifier avant d'acheter)",
+    "seoTitle": "SHEIN ou Temu : comment choisir, retours et douane",
+    "type": "Guide comparatif",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN ou Temu : ce que SHEIN publie sur les retours en France, le droit de douane de 3 € de l'UE sur les commandes expédiées depuis l'extérieur de l'UE, comment choisir selon ce que vous achetez et ce qu'il faut vérifier avant de payer. Sans comparaison de prix ni test des livraisons.",
+    "metaDescription": "SHEIN ou Temu : comment choisir. Retours chez SHEIN en France (au 12/10/2026), droit de douane de 3 € de l'UE et ce qu'il faut vérifier avant d'acheter.",
+    "publishedAt": "13 octobre 2026",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+    "imageAlt": "Illustration d'un tableau vide avec les colonnes SHEIN, Shopee, Temu et AliExpress et cinq lignes repérées par des icônes : livraison, délai, retour, taxe et réputation",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Il n'existe pas de boutique meilleure pour tout le monde. Le choix dépend de ce que vous achetez et de l'importance que vous accordez à la possibilité de retourner l'article, et chaque boutique publie ses propres règles dans chaque pays. En France, SHEIN publie 14 jours de rétractation prévus par la loi, à compter de la réception, et, selon sa politique commerciale, la plupart des articles peuvent être retournés jusqu'à 30 jours après réception. Pour cet article, nous n'avons pas lu les règles de Temu dans votre pays.",
+          "Cet article ne mesure pas les prix et ne teste pas les livraisons. Le côté SHEIN vient des politiques publiées sur son site, consultées le 12 octobre 2026. AliExpress et Amazon apparaissent aussi dans ce genre de recherches, mais cet article ne les compare pas."
+        ]
+      },
+      {
+        "heading": "Ce que SHEIN publie en France",
+        "paragraphs": [
+          "Source, consultée le 12 octobre 2026 : la politique de confidentialité et la politique de retour du site de SHEIN en France."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-home-fr-2026-10-12.webp",
+          "alt": "Page d'accueil du site de SHEIN France (fr.shein.com), capturée le 12 octobre 2026, avec la campagne du jour",
+          "caption": "Page d'accueil de SHEIN France (fr.shein.com), capturée le 12 octobre 2026, avec la campagne du jour.",
+          "objectFit": "contain"
+        },
+        "comparisonTable": {
+          "caption": "Société qui exploite le site de SHEIN et délai de retour en France, d'après les politiques du site de SHEIN consultées le 12 octobre 2026.",
+          "headers": [
+            "Marché",
+            "Société qui exploite le site",
+            "Retours chez SHEIN"
+          ],
+          "rows": [
+            [
+              "France",
+              "Infinite Styles Services Co., Limited (« ISSL »)",
+              "14 jours de rétractation prévus par la loi, à compter de la réception. Selon la politique commerciale de SHEIN, la plupart des articles peuvent être retournés jusqu'à 30 jours après réception. La lingerie, les sous-vêtements et les bijoux fantaisie ne se retournent que dans les 14 jours."
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nous n'avons pas lu la politique de Temu dans votre pays : cet article ne dit donc rien de ses retours ni de ses livraisons. Avant d'acheter, consultez les pages de livraison et de retour du site de Temu."
+        ]
+      },
+      {
+        "heading": "Taxes et douane",
+        "paragraphs": [
+          "Depuis le 1er juillet 2026, l'UE applique 3 € de droits de douane par catégorie de produit aux commandes jusqu'à 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382). Cela vaut pour toute boutique qui expédie depuis l'extérieur de l'UE : la douane ne départage donc pas SHEIN et Temu. Avant de payer, vérifiez sur la page de paiement de chaque boutique si le total inclut les taxes, et comparez ce montant final, pas seulement le prix de l'article."
+        ]
+      },
+      {
+        "heading": "Que choisir, selon votre achat",
+        "bullets": [
+          "**Vous voulez avoir de la marge pour retourner :** comparez le délai de retour, et pas seulement le prix.",
+          "**Il vous faut l'article pour une date précise :** vérifiez le délai de livraison sur la page du produit ou dans votre commande.",
+          "**La commande vient de l'étranger :** regardez sur la page de paiement le total avec les taxes.",
+          "**Vous payez par carte, avec un portefeuille numérique ou en plusieurs fois :** consultez les moyens de paiement sur la page de paiement de chaque boutique."
+        ]
+      },
+      {
+        "heading": "Ce que mesurent les avis",
+        "paragraphs": [
+          "Les notes des sites de réclamations et d'avis mesurent la façon dont la boutique traite les clients qui se plaignent, pas la qualité du produit, et le nombre de plaintes dépend de la taille de la boutique. Qui exploite SHEIN et ce que l'on sait de sa réputation figurent dans notre article sur la fiabilité de SHEIN."
+        ],
+        "links": [
+          {
+            "label": "SHEIN est-il fiable et sûr ? Qui l'exploite, d'où il vient, les retours et la douane",
+            "href": "/fr/reviews/shein-est-il-fiable-et-sur"
+          }
+        ]
+      },
+      {
+        "heading": "Avant d'acheter : ce qu'il faut vérifier",
+        "bullets": [
+          "Le prix final, avec la livraison et les taxes.",
+          "Le délai de retour, et si l'article fait partie de ceux dont le délai est plus court (chez SHEIN France, par exemple, la lingerie, les sous-vêtements et les bijoux fantaisie).",
+          "Qui vend : la boutique elle-même ou un vendeur partenaire.",
+          "Le délai de livraison indiqué dans votre commande."
+        ]
+      },
+      {
+        "heading": "Partenariat et code de parrainage",
+        "paragraphs": [
+          "Cecília est affiliée à SHEIN et à Temu et peut toucher une commission sur les achats faits via les liens de cet article, sans frais supplémentaires pour vous. Cela ne change pas la réponse : le choix dépend de ce que vous achetez.",
+          "Le 4CW5Y est le code de parrainage de Cecília pour SHEIN Brésil (le site et l'appli brésiliens). On le recherche dans la barre de recherche de SHEIN, pas dans le champ du coupon, et il peut ne pas fonctionner dans votre pays. Ce n'est pas un coupon."
+        ],
+        "links": [
+          {
+            "label": "Voir le code de parrainage 4CW5Y et les campagnes de SHEIN Brésil",
+            "href": "/fr/coupons/shein"
+          },
+          {
+            "label": "Code de parrainage SHEIN Brésil : où le mettre et comment l'utiliser",
+            "href": "/fr/reviews/code-de-parrainage-shein-ou-le-mettre"
+          },
+          {
+            "label": "Ouvrir Temu",
+            "href": "https://temu.to/k/glfwht5gllj",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "SHEIN ou Temu : lequel est le meilleur ? Aucun n'est meilleur pour tout le monde. Cela dépend de ce que vous achetez et de l'importance que vous accordez à la possibilité de retourner l'article : comparez le délai de retour et le total au moment de payer, pas seulement le prix.",
+          "Lequel est le moins cher, SHEIN ou Temu ? Cet article ne mesure pas les prix. Comparez le prix final de chaque article, avec la livraison et les taxes, au moment de payer dans chaque boutique.",
+          "Lequel livre le plus vite, SHEIN ou Temu ? Cet article ne teste pas les livraisons. Regardez le délai de livraison sur la page du produit et dans votre commande. Nous n'avons pas lu les règles de Temu dans votre pays.",
+          "Lequel est le plus sûr, SHEIN ou Temu ? Cet article ne rend pas de verdict. Consultez notre article sur SHEIN pour savoir qui exploite la boutique et ce que l'on sait de sa réputation.",
+          "SHEIN et Temu sont-ils la même entreprise ? Non. Ce sont deux boutiques différentes, chacune avec ses propres règles d'expédition, de livraison et de retour.",
+          "Combien de temps ai-je pour retourner un article chez SHEIN ? En France, 14 jours de rétractation prévus par la loi, à compter de la réception, et, selon la politique commerciale de SHEIN, la plupart des articles jusqu'à 30 jours après réception. La lingerie, les sous-vêtements et les bijoux fantaisie ne se retournent que dans les 14 jours.",
+          "À combien s'élève le droit de douane de l'UE sur les commandes venues de l'extérieur de l'UE ? Depuis le 1er juillet 2026, 3 € par catégorie de produit sur les commandes jusqu'à 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382). Cela vaut pour toute boutique qui expédie ainsi : la douane ne départage donc pas SHEIN et Temu.",
+          "Le 4CW5Y est-il un coupon ? Non. C'est le code de parrainage de Cecília pour SHEIN Brésil. On le recherche dans la barre de recherche de SHEIN, et il peut ne pas fonctionner dans votre pays."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Comparez le prix final, avec la livraison et les taxes, au moment de payer",
+      "label": "Aller sur SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Cet article est éditorial. Nous pouvons toucher une commission sur les liens SHEIN et Temu.",
+    "relatedArticles": [
+      {
+        "slug": "shein-est-il-fiable-et-sur",
+        "title": "SHEIN est-il fiable et sûr ? Qui l'exploite, d'où il vient, les retours et la douane"
+      },
+      {
+        "slug": "black-friday-shein-dates-et-taxes",
+        "title": "Black Friday SHEIN Brésil 2026 : quand il commence, jusqu'à quand et la taxe d'importation nulle jusqu'à US$ 50"
+      },
+      {
+        "slug": "code-de-parrainage-shein-ou-le-mettre",
+        "title": "Code de parrainage SHEIN Brésil : où le mettre et comment l'utiliser"
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "slug": "shein-oder-temu-was-waehlen",
+    "locale": "de",
+    "translationKey": "shein-vs-shopee-temu",
+    "title": "SHEIN oder Temu: Was passt besser? Rückgabe, Zoll und was Sie prüfen sollten",
+    "seoTitle": "SHEIN oder Temu: Was passt besser? Rückgabe und Zoll",
+    "type": "Vergleich",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN oder Temu: Was SHEIN in Deutschland zur Rückgabe veröffentlicht, wie der EU-Zoll von 3 € pro Warenkategorie bei Sendungen von außerhalb der EU wirkt und was Sie vor dem Kauf prüfen sollten. Ohne Preisvergleich und ohne Test der Lieferzeiten.",
+    "metaDescription": "SHEIN oder Temu? Rückgabe bei SHEIN in Deutschland: 14 und 30 Tage ab Erhalt, EU-Zoll von 3 € pro Warenkategorie und was Sie vor dem Kauf prüfen sollten.",
+    "publishedAt": "13. Oktober 2026",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+    "imageAlt": "Illustration einer leeren Tabelle mit den Spalten SHEIN, Shopee, Temu und AliExpress und fünf Zeilen, die durch Symbole für Versand, Lieferzeit, Rückgabe, Steuer und Ruf markiert sind",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Die Antwort in Kürze",
+        "paragraphs": [
+          "Es gibt keinen Shop, der für alle der beste ist. Die Wahl hängt davon ab, was Sie kaufen und wie wichtig es Ihnen ist, Ware zurückschicken zu können. Jeder Shop veröffentlicht in jedem Land eigene Regeln.",
+          "Was SHEIN in Deutschland veröffentlicht: Die Website wird von Infinite Styles Services Co., Limited betrieben. Es gilt das gesetzliche Widerrufsrecht von 14 Tagen ab Erhalt, und nach der Rückgaberegel von SHEIN lassen sich die meisten Artikel bis zu 30 Tage nach Erhalt zurückgeben. Die Regeln von Temu für Deutschland haben wir für diesen Artikel nicht gelesen.",
+          "Dieser Artikel vergleicht keine Preise und testet keine Lieferungen. Auch Zalando und Amazon tauchen bei der Suche nach Kleidung auf, sind hier aber nicht verglichen."
+        ]
+      },
+      {
+        "heading": "Was SHEIN in Deutschland veröffentlicht",
+        "paragraphs": [
+          "Quelle: Datenschutzerklärung und Rückgabebedingungen der SHEIN-Website für Deutschland, abgerufen am 12.10.2026."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-home-de-2026-10-12.webp",
+          "alt": "Startseite der SHEIN-Website für Deutschland (de.shein.com), aufgenommen am 12.10.2026, mit der Kampagne des Tages",
+          "caption": "Startseite von de.shein.com am 12.10.2026, mit der Kampagne des Tages.",
+          "objectFit": "contain"
+        },
+        "comparisonTable": {
+          "caption": "SHEIN in Deutschland: Betreiber der Website und Rückgabefrist laut der Website, abgerufen am 12.10.2026.",
+          "headers": [
+            "Markt",
+            "Betreiber der Website",
+            "Rückgabe bei SHEIN"
+          ],
+          "rows": [
+            [
+              "Deutschland",
+              "Infinite Styles Services Co., Limited („ISSL“)",
+              "14 Tage gesetzliches Widerrufsrecht ab Erhalt; nach der Rückgaberegel von SHEIN lassen sich die meisten Artikel bis zu 30 Tage nach Erhalt zurückgeben. Einige Artikel, etwa Dessous, Unterwäsche und Modeschmuck, lassen sich nur innerhalb der 14 Tage zurückgeben"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Die Regeln von Temu für Deutschland haben wir nicht gelesen. Prüfen Sie deshalb vor dem Kauf die Seiten zu Versand und Rückgabe im jeweiligen Shop."
+        ]
+      },
+      {
+        "heading": "Zoll und Steuern",
+        "paragraphs": [
+          "Seit dem 1. Juli 2026 erhebt die EU 3 € Zoll pro Warenkategorie auf Sendungen im Wert von bis zu 150 €, die von außerhalb der EU direkt an Verbraucher gehen (Verordnung (EU) 2026/382). Das gilt für jeden Shop, der von außerhalb der EU liefert. Deshalb entscheidet der Zoll nicht zwischen SHEIN und Temu. Prüfen Sie den Gesamtbetrag an der Kasse, bevor Sie bezahlen."
+        ]
+      },
+      {
+        "heading": "Was zu welchem Einkauf passt",
+        "bullets": [
+          "**Sie möchten viel Zeit zum Zurückschicken haben:** Vergleichen Sie die Rückgabefrist, nicht nur den Preis.",
+          "**Die Ware muss bis zu einem bestimmten Datum da sein:** Prüfen Sie die Lieferzeit auf der Produktseite oder in der Bestellung.",
+          "**Die Ware kommt aus dem Ausland:** Prüfen Sie an der Kasse den Gesamtbetrag mit Steuern.",
+          "**Sie zahlen mit Karte, per Wallet oder in Raten:** Die Zahlungsarten sehen Sie an der Kasse des jeweiligen Shops."
+        ]
+      },
+      {
+        "heading": "Was Bewertungen messen",
+        "paragraphs": [
+          "Bewertungen auf Beschwerde- und Bewertungsportalen messen, wie ein Shop mit Menschen umgeht, die sich beschweren, und nicht die Qualität des Produkts; die Zahl der Beschwerden hängt von der Größe des Shops ab. Wer SHEIN betreibt und was über den Ruf bekannt ist, steht im Artikel zur Seriosität von SHEIN."
+        ],
+        "links": [
+          {
+            "label": "Ist SHEIN seriös und sicher? Betreiber, Herkunft, Rückgabe und Zoll",
+            "href": "/de/reviews/ist-shein-serioes-und-sicher"
+          }
+        ]
+      },
+      {
+        "heading": "Vor dem Kauf: Das sollten Sie prüfen",
+        "bullets": [
+          "Den Endpreis mit Versand und Steuern.",
+          "Die Rückgabefrist und ob der Artikel zu denen mit kürzerer Frist gehört.",
+          "Wer verkauft: der Shop selbst oder ein Partnerverkäufer.",
+          "Die Lieferzeit in der Bestellung."
+        ]
+      },
+      {
+        "heading": "Partnerschaft und Empfehlungscode",
+        "paragraphs": [
+          "Cecília ist Affiliate-Partnerin von SHEIN und von Temu und kann für Käufe über die Links in diesem Artikel eine Provision erhalten, ohne Mehrkosten für Sie. Das ändert die Antwort nicht: Die Wahl hängt davon ab, was Sie kaufen.",
+          "4CW5Y ist Cecílias Empfehlungscode für SHEIN Brasilien. Sie geben ihn in die Suche von SHEIN ein, nicht in das Feld für Gutscheine, und er funktioniert in Deutschland womöglich nicht."
+        ],
+        "links": [
+          {
+            "label": "Den Empfehlungscode 4CW5Y und die Aktionen von SHEIN Brasilien ansehen",
+            "href": "/de/coupons/shein"
+          },
+          {
+            "label": "SHEIN-Empfehlungscode (Brasilien): wo eingeben und wie er funktioniert",
+            "href": "/de/reviews/shein-empfehlungscode-wo-eingeben"
+          },
+          {
+            "label": "Temu öffnen",
+            "href": "https://temu.to/k/glfwht5gllj",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "SHEIN oder Temu: Was ist besser? Das hängt davon ab, was Sie kaufen und wie wichtig Ihnen die Rückgabe ist. Vergleichen Sie die Rückgabefrist, die Lieferzeit auf der Produktseite und den Endpreis mit Versand und Steuern.",
+          "Was ist günstiger, SHEIN oder Temu? Preise vergleichen wir in diesem Artikel nicht. Vergleichen Sie an der Kasse den Endpreis jedes Artikels mit Versand und Steuern.",
+          "Wer liefert schneller, SHEIN oder Temu? Prüfen Sie die Lieferzeit auf der Produktseite und in der Bestellung. Die Regeln von Temu für Deutschland haben wir für diesen Artikel nicht gelesen.",
+          "Ist SHEIN oder Temu sicherer? Ein Urteil geben wir nicht ab. Wer SHEIN betreibt und was über den Ruf bekannt ist, steht in unserem Artikel zur Seriosität von SHEIN.",
+          "Sind SHEIN und Temu dasselbe Unternehmen? Nein. Es sind verschiedene Shops, jeder mit eigenen Regeln für Versand, Lieferzeit und Rückgabe.",
+          "Wie lange kann ich bei SHEIN zurückgeben? In Deutschland gilt das gesetzliche Widerrufsrecht von 14 Tagen ab Erhalt, und nach der Rückgaberegel von SHEIN lassen sich die meisten Artikel bis zu 30 Tage nach Erhalt zurückgeben. Einige Artikel, etwa Dessous, Unterwäsche und Modeschmuck, lassen sich nur innerhalb der 14 Tage zurückgeben.",
+          "Wie hoch ist der EU-Zoll bei Bestellungen von außerhalb der EU? Seit dem 1. Juli 2026 sind es 3 € pro Warenkategorie bei Sendungen im Wert von bis zu 150 €, die von außerhalb der EU direkt an Verbraucher gehen (Verordnung (EU) 2026/382). Das gilt für jeden Shop, der so liefert. Deshalb entscheidet der Zoll nicht zwischen SHEIN und Temu.",
+          "Ist 4CW5Y ein Gutschein? Nein. Es ist der Empfehlungscode von SHEIN Brasilien: Sie geben ihn in die Suche von SHEIN ein, nicht in das Feld für Gutscheine, und er funktioniert in Deutschland womöglich nicht."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Vergleichen Sie an der Kasse den Endpreis mit Versand und Steuern",
+      "label": "Zu SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Dieser Artikel ist redaktionell. Über die Links zu SHEIN und Temu erhalten wir möglicherweise eine Provision.",
+    "relatedArticles": [
+      {
+        "slug": "ist-shein-serioes-und-sicher",
+        "title": "Ist SHEIN seriös und sicher? Betreiber, Herkunft, Rückgabe und Zoll"
+      },
+      {
+        "slug": "shein-black-friday-termine-steuern",
+        "title": "Black Friday SHEIN 2026: Beginn, Ende und Einfuhrsteuer null bis US$ 50"
+      },
+      {
+        "slug": "shein-empfehlungscode-wo-eingeben",
+        "title": "SHEIN-Empfehlungscode (Brasilien): wo eingeben und wie er funktioniert"
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "slug": "shein-o-temu-come-scegliere",
+    "locale": "it",
+    "translationKey": "shein-vs-shopee-temu",
+    "title": "SHEIN o Temu: come scegliere (resi, dogana e cosa controllare prima di comprare)",
+    "seoTitle": "SHEIN o Temu: come scegliere? Resi e dogana",
+    "type": "Guida comparativa",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN o Temu: cosa pubblica SHEIN in Italia sui resi, cosa cambia con il dazio UE di 3 euro per categoria di prodotto sugli ordini spediti da fuori UE e cosa controllare prima di comprare. Senza confronto di prezzi e senza test delle consegne.",
+    "metaDescription": "SHEIN o Temu? Resi SHEIN in Italia: 14 e 30 giorni dal ricevimento. Dazio UE di 3 euro per categoria e cosa controllare prima di comprare.",
+    "publishedAt": "13 ottobre 2026",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+    "imageAlt": "Illustrazione di una tabella vuota con le colonne SHEIN, Shopee, Temu e AliExpress e cinque righe segnate da icone: spedizione, tempi, reso, imposte e reputazione",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Non esiste un negozio migliore per tutti. La scelta dipende da cosa compri e da quanto conta poter restituire. Ogni negozio pubblica regole proprie in ogni paese.",
+          "Cosa pubblica SHEIN in Italia: il sito è gestito da Infinite Styles Services Co., Limited. Per legge hai 14 giorni di recesso dal ricevimento e, secondo la politica commerciale di SHEIN, la maggior parte degli articoli si può restituire fino a 30 giorni dal ricevimento. Per questo articolo non abbiamo letto le regole di Temu per l'Italia.",
+          "Questo articolo non misura i prezzi e non testa le consegne. Anche AliExpress e Amazon compaiono nelle ricerche, ma qui non sono confrontati."
+        ]
+      },
+      {
+        "heading": "Cosa pubblica SHEIN in Italia",
+        "paragraphs": [
+          "Fonte: informativa sulla privacy e politica di reso del sito SHEIN per l'Italia, consultate il 12/10/2026."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-home-it-2026-10-12.webp",
+          "alt": "Pagina iniziale del sito SHEIN per l'Italia (it.shein.com), catturata il 12/10/2026, con la campagna del giorno",
+          "caption": "Pagina iniziale di it.shein.com il 12/10/2026, con la campagna del giorno.",
+          "objectFit": "contain"
+        },
+        "comparisonTable": {
+          "caption": "SHEIN in Italia: società che gestisce il sito e termine per il reso secondo il sito, consultato il 12/10/2026.",
+          "headers": [
+            "Mercato",
+            "Società che gestisce il sito",
+            "Reso su SHEIN"
+          ],
+          "rows": [
+            [
+              "Italia",
+              "Infinite Styles Services Co., Limited («ISSL»)",
+              "14 giorni di recesso per legge dal ricevimento; secondo la politica commerciale di SHEIN, la maggior parte degli articoli si può restituire fino a 30 giorni dal ricevimento. Alcuni articoli, come lingerie, biancheria intima e bigiotteria, si possono restituire solo entro i 14 giorni"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Le regole di Temu per l'Italia non le abbiamo lette. Prima di comprare, controlla quindi le pagine su spedizione e resi del negozio."
+        ]
+      },
+      {
+        "heading": "Dogana e imposte",
+        "paragraphs": [
+          "Dal 1° luglio 2026 l'UE applica 3 euro di dazio doganale per categoria di prodotto sugli ordini fino a 150 euro spediti da fuori UE direttamente al consumatore (Regolamento (UE) 2026/382). Vale per qualsiasi negozio che spedisce da fuori UE, quindi la dogana non decide tra SHEIN e Temu. Controlla il totale al checkout prima di pagare."
+        ]
+      },
+      {
+        "heading": "Quale scegliere, a seconda dell'acquisto",
+        "bullets": [
+          "**Vuoi poter restituire con calma:** confronta il termine per il reso, non solo il prezzo.",
+          "**Ti serve l'ordine entro una certa data:** controlla il tempo di consegna nella pagina del prodotto o dell'ordine.",
+          "**L'acquisto arriva dall'estero:** guarda al checkout il totale con le imposte.",
+          "**Paghi con carta, portafoglio digitale o a rate:** guarda i metodi di pagamento al checkout di ciascun negozio."
+        ]
+      },
+      {
+        "heading": "Cosa misurano le valutazioni",
+        "paragraphs": [
+          "I punteggi dei siti di reclami e di recensioni misurano come il negozio risponde a chi si lamenta, non la qualità del prodotto; il numero di reclami dipende dalle dimensioni del negozio. Trovi chi gestisce SHEIN e cosa si sa della sua reputazione nell'articolo sull'affidabilità di SHEIN."
+        ],
+        "links": [
+          {
+            "label": "SHEIN è affidabile e sicuro? Chi lo gestisce, da dove viene, resi e dogana",
+            "href": "/it/reviews/shein-e-affidabile-e-sicuro"
+          }
+        ]
+      },
+      {
+        "heading": "Prima di comprare: cosa controllare",
+        "bullets": [
+          "Il prezzo finale, con spedizione e imposte.",
+          "Il termine per il reso e se l'articolo è tra quelli con un termine più breve.",
+          "Chi vende: il negozio stesso o un venditore partner.",
+          "Il tempo di consegna indicato nell'ordine."
+        ]
+      },
+      {
+        "heading": "Partnership e codice invito",
+        "paragraphs": [
+          "Cecília è affiliata di SHEIN e di Temu e può ricevere una commissione sugli acquisti fatti con i link di questo articolo, senza costi per te. Questo non cambia la risposta: la scelta dipende da cosa compri.",
+          "Il 4CW5Y è il codice invito di Cecília per SHEIN Brasile. Va digitato nella ricerca di SHEIN, non nel campo del coupon, e potrebbe non valere in Italia."
+        ],
+        "links": [
+          {
+            "label": "Vedi il codice invito 4CW5Y e le campagne di SHEIN Brasile",
+            "href": "/it/coupons/shein"
+          },
+          {
+            "label": "Codice invito SHEIN Brasile: dove inserirlo e come usarlo",
+            "href": "/it/reviews/codice-invito-shein-dove-inserirlo"
+          },
+          {
+            "label": "Apri Temu",
+            "href": "https://temu.to/k/glfwht5gllj",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "SHEIN o Temu: qual è meglio? Dipende da cosa compri e da quanto conta poter restituire. Confronta il termine per il reso, il tempo di consegna nella pagina del prodotto e il prezzo finale con spedizione e imposte.",
+          "Quale costa meno, SHEIN o Temu? In questo articolo non misuriamo i prezzi. Confronta al checkout il prezzo finale di ogni articolo, con spedizione e imposte.",
+          "Quale consegna più in fretta, SHEIN o Temu? Controlla il tempo di consegna nella pagina del prodotto e nell'ordine. Per questo articolo non abbiamo letto le regole di Temu per l'Italia.",
+          "SHEIN o Temu: qual è più sicuro? Non diamo un verdetto. Trovi chi gestisce SHEIN e cosa si sa della sua reputazione nel nostro articolo sull'affidabilità di SHEIN.",
+          "SHEIN e Temu sono la stessa azienda? No. Sono negozi diversi, ciascuno con le proprie regole su spedizione, consegna e reso.",
+          "Quanto tempo ho per restituire un articolo SHEIN? In Italia hai 14 giorni di recesso per legge dal ricevimento e, secondo la politica commerciale di SHEIN, la maggior parte degli articoli si può restituire fino a 30 giorni dal ricevimento. Alcuni articoli, come lingerie, biancheria intima e bigiotteria, si possono restituire solo entro i 14 giorni.",
+          "A quanto ammonta il dazio UE sugli ordini spediti da fuori UE? Dal 1° luglio 2026 sono 3 euro per categoria di prodotto sugli ordini fino a 150 euro spediti da fuori UE direttamente al consumatore (Regolamento (UE) 2026/382). Vale per qualsiasi negozio che spedisce così, quindi la dogana non decide tra SHEIN e Temu.",
+          "Il 4CW5Y è un coupon? No. È il codice invito di SHEIN Brasile: va digitato nella ricerca di SHEIN, non nel campo del coupon, e potrebbe non valere in Italia."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Confronta al checkout il prezzo finale, con spedizione e imposte",
+      "label": "Vai su SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Articolo editoriale. Possiamo ricevere una commissione sugli acquisti fatti con i link di SHEIN e Temu.",
+    "relatedArticles": [
+      {
+        "slug": "shein-e-affidabile-e-sicuro",
+        "title": "SHEIN è affidabile e sicuro? Chi lo gestisce, da dove viene, resi e dogana"
+      },
+      {
+        "slug": "black-friday-shein-date-e-tasse",
+        "title": "Black Friday SHEIN 2026: quando inizia, fino a quando dura e l'imposta di importazione zero fino a US$ 50"
+      },
+      {
+        "slug": "codice-invito-shein-dove-inserirlo",
+        "title": "Codice invito SHEIN Brasile: dove inserirlo e come usarlo"
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "slug": "shein-vs-temu-vs-ali-ko",
+    "locale": "ko",
+    "translationKey": "shein-vs-shopee-temu",
+    "title": "SHEIN(쉬인) vs 테무 vs 알리: 어떻게 고를까? 반품 기한과 구매 전 확인할 것",
+    "seoTitle": "SHEIN(쉬인) vs 테무 vs 알리: 반품과 구매 전 확인",
+    "type": "비교 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN(쉬인)과 테무, 알리익스프레스(알리) 중 어디서 살지 고르는 방법. 한국 SHEIN 사이트가 공개한 반품 기한(수령 후 60일)과 구매 전에 확인할 것을 정리했습니다. 테무와 알리의 한국 규정은 읽지 않았고, 가격과 배송은 측정하지 않았습니다.",
+    "metaDescription": "한국 SHEIN 사이트의 반품 기한(수령 후 60일)과 SHEIN, 테무, 알리 중 고를 때 확인할 것. 가격과 배송은 측정하지 않았습니다.",
+    "publishedAt": "2026년 10월 13일",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+    "imageAlt": "SHEIN, Shopee, Temu, AliExpress 네 개의 열이 있는 빈 표 일러스트. 배송비, 배송 기간, 반품, 세금, 평판을 나타내는 아이콘이 붙은 다섯 줄이 있습니다",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "답변 요약",
+        "paragraphs": [
+          "모두에게 맞는 단 하나의 쇼핑몰은 없습니다. 무엇을 사는지, 그리고 반품할 수 있는 기간이 얼마나 중요한지에 따라 달라집니다. 쇼핑몰은 나라마다 자기 규정을 따로 공개합니다.",
+          "한국 SHEIN 사이트는 Wonderflow Support Pte. Ltd.(싱가포르 회사)가 운영하며, 수령 후 60일 이내 반품을 안내합니다. 테무와 알리익스프레스(알리)의 한국 규정은 이 글을 위해 읽지 않았습니다.",
+          "이 글은 가격을 비교하지 않고 배송도 테스트하지 않습니다."
+        ]
+      },
+      {
+        "heading": "SHEIN이 한국에서 공개한 내용",
+        "paragraphs": [
+          "출처: 한국 SHEIN 사이트의 개인정보 처리방침과 반품 정책, 2026년 10월 12일 확인."
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-home-kr-2026-10-12.webp",
+          "alt": "한국 SHEIN 사이트(kr.shein.com) 첫 화면, 2026년 10월 12일 캡처. 그날의 캠페인이 표시되어 있습니다",
+          "caption": "kr.shein.com 첫 화면, 2026년 10월 12일 캡처. 그날의 캠페인이 표시되어 있습니다.",
+          "objectFit": "contain"
+        },
+        "comparisonTable": {
+          "caption": "한국 SHEIN 사이트가 공개한 운영 회사와 반품 기한, 2026년 10월 12일 확인.",
+          "headers": [
+            "시장",
+            "사이트 운영 회사",
+            "SHEIN 반품"
+          ],
+          "rows": [
+            [
+              "한국",
+              "Wonderflow Support Pte. Ltd.(싱가포르)",
+              "수령 후 60일 이내"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "테무와 알리의 한국 정책은 읽지 않았습니다. 구매 전에 각 쇼핑몰의 배송·반품 안내 페이지를 확인하세요."
+        ]
+      },
+      {
+        "heading": "세금과 관세",
+        "paragraphs": [
+          "수입 세금은 나라마다 다릅니다. 총 금액은 결제 전에 각 쇼핑몰의 결제 화면에서 확인하세요."
+        ]
+      },
+      {
+        "heading": "구매 목적에 따라 고르기",
+        "bullets": [
+          "**여유 있게 반품하고 싶다면:** 가격만 보지 말고 반품 기한을 비교하세요.",
+          "**정해진 날짜까지 받아야 한다면:** 상품 페이지나 주문 내역에서 배송 기간을 확인하세요.",
+          "**해외에서 오는 상품이라면:** 결제 화면에서 세금이 포함된 총 금액을 확인하세요.",
+          "**카드, 간편결제, 할부로 결제할 예정이라면:** 각 쇼핑몰의 결제 화면에서 결제 수단을 확인하세요."
+        ]
+      },
+      {
+        "heading": "평점이 보여 주는 것",
+        "paragraphs": [
+          "불만·평가 사이트의 점수는 쇼핑몰이 불만을 제기한 고객을 어떻게 응대하는지를 보여 줄 뿐 상품의 품질을 측정하지 않으며, 불만 건수는 쇼핑몰의 규모에 따라 달라집니다. SHEIN을 누가 운영하고 평판이 어떤지는 SHEIN 신뢰도 글에 정리해 두었습니다."
+        ],
+        "links": [
+          {
+            "label": "SHEIN(쉬인)은 믿을 만하고 안전한가요? 운영 회사, 어느 나라 회사인지, 반품 기한",
+            "href": "/ko/reviews/shein-trust-guide-ko"
+          }
+        ]
+      },
+      {
+        "heading": "구매 전에 확인할 것",
+        "bullets": [
+          "배송비와 세금을 포함한 최종 가격.",
+          "반품 기한, 그리고 반품 기한이 더 짧은 상품인지.",
+          "판매자가 누구인지: 쇼핑몰 직접 판매인지, 입점 판매자인지.",
+          "주문 내역에 표시된 배송 기간."
+        ]
+      },
+      {
+        "heading": "제휴와 추천 코드",
+        "paragraphs": [
+          "Cecília는 SHEIN과 테무의 제휴(어필리에이트) 파트너로, 이 글의 링크로 구매하시면 추가 비용 없이 수수료를 받을 수 있습니다. 알리익스프레스에서는 수수료를 받지 않습니다. 이 점이 답을 바꾸지는 않습니다. 무엇을 사는지에 따라 선택이 달라집니다.",
+          "4CW5Y는 Cecília의 SHEIN 브라질 추천 코드입니다. 쿠폰 입력란이 아니라 SHEIN 검색창에 입력하며, 한국에서는 적용되지 않을 수 있습니다."
+        ],
+        "links": [
+          {
+            "label": "4CW5Y 추천 코드와 SHEIN 브라질 캠페인 보기",
+            "href": "/ko/coupons/shein"
+          },
+          {
+            "label": "SHEIN 브라질 추천 코드: 입력하는 곳과 사용법",
+            "href": "/ko/reviews/shein-referral-code-ko"
+          },
+          {
+            "label": "테무 열기",
+            "href": "https://temu.to/k/glfwht5gllj",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "SHEIN, 테무, 알리 중 어디가 더 나은가요? 모두에게 맞는 단 하나의 쇼핑몰은 없습니다. 무엇을 사는지, 반품 기한이 얼마나 중요한지에 따라 달라집니다. 반품 기한, 상품 페이지의 배송 기간, 배송비와 세금을 포함한 최종 가격을 비교하세요.",
+          "SHEIN, 테무, 알리 중 어디가 더 저렴한가요? 이 글은 가격을 비교하지 않습니다. 결제 화면에서 상품마다 배송비와 세금을 포함한 최종 금액을 비교하세요.",
+          "SHEIN, 테무, 알리 중 어디가 더 빨리 도착하나요? 상품 페이지와 주문 내역의 배송 기간을 확인하세요. 테무와 알리의 한국 규정은 이 글을 위해 읽지 않았습니다.",
+          "SHEIN, 테무, 알리 중 어디가 더 안전한가요? 우열은 가리지 않습니다. SHEIN을 누가 운영하고 평판이 어떤지는 SHEIN 신뢰도 글을 참고하세요.",
+          "SHEIN과 테무는 같은 회사인가요? 아니요. 서로 다른 쇼핑몰이며, 배송·기간·반품 규정이 각각 따로 있습니다.",
+          "SHEIN에서 얼마 동안 반품할 수 있나요? 한국 SHEIN 사이트는 수령 후 60일 이내 반품을 안내합니다.",
+          "4CW5Y는 쿠폰인가요? 아니요. SHEIN 브라질의 추천 코드입니다. 쿠폰 입력란이 아니라 SHEIN 검색창에 입력하며, 한국에서는 적용되지 않을 수 있습니다."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "결제 화면에서 배송비와 세금을 포함한 최종 금액을 비교하세요",
+      "label": "SHEIN으로 이동",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "이 글은 편집 콘텐츠입니다. SHEIN과 테무 링크로 구매하면 수수료를 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-ko",
+        "title": "SHEIN(쉬인)은 믿을 만하고 안전한가요? 운영 회사, 어느 나라 회사인지, 반품 기한"
+      },
+      {
+        "slug": "shein-black-friday-ko",
+        "title": "SHEIN 블랙프라이데이(Black Friday) 2026: 시작일과 종료일, US$ 50 이하 수입세 면제"
+      },
+      {
+        "slug": "shein-referral-code-ko",
+        "title": "SHEIN 브라질 추천 코드: 입력하는 곳과 사용법"
+      }
+    ]
+  },
+  {
+    "id": 392,
+    "slug": "shein-vs-temu-ja",
+    "locale": "ja",
+    "translationKey": "shein-vs-shopee-temu",
+    "title": "SHEIN と Temu、どちらを選ぶ？返品・関税と、買う前に確認すること",
+    "seoTitle": "SHEIN と Temu の選び方：返品・関税・買う前の確認",
+    "type": "比較ガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN と Temu のどちらを選ぶかを、返品、関税、買う前の確認点で整理します。日本の SHEIN が公表している運営会社と返品期限、個人輸入の免税の目安、買うものに合わせた選び方をまとめました。",
+    "metaDescription": "SHEIN と Temu の選び方。日本の SHEIN が公表する運営会社と返品期限（購入から40日以内）、個人輸入の免税の目安、買う前に確認することをまとめました。",
+    "publishedAt": "2026年10月13日",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+    "imageAlt": "SHEIN、Shopee、Temu、AliExpress の4つの列と、送料、配送日数、返品、税金、評判を示すアイコンの5つの行がある、中身が空の比較表のイラスト",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "まずは結論",
+        "paragraphs": [
+          "すべての人にとってベストなお店はありません。何を買うか、そして返品できることをどれだけ大事にするかで、選ぶお店は変わります。SHEIN も Temu も、国・地域ごとに独自のルールを公表しています。日本の SHEIN は、購入から40日以内の返品を公表しています。日本向けの Temu のルールは、この記事のために確認していません。",
+          "この記事は、価格を比べたり、配送を試したりしていません。SHEIN の情報は、日本のサイトで2026年10月12日に確認したものです。検索では Amazon と比べる人もいますが、この記事では Amazon は取り上げません。"
+        ]
+      },
+      {
+        "heading": "日本の SHEIN が公表していること",
+        "paragraphs": [
+          "出典は、SHEIN 日本サイトのプライバシーポリシーと返品ポリシーです（2026年10月12日に確認）。"
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-home-jp-2026-10-12.webp",
+          "alt": "SHEIN 日本サイトのトップページ。黒いヘッダーに日本語のカテゴリーメニューが並び、その下にキャンペーンのバナーと、レディース、キッズ、メンズなどのカテゴリーのアイコンが表示されている",
+          "caption": "SHEIN 日本サイト（jp.shein.com）のトップページ。2026年10月12日に撮影した画面で、その日のキャンペーンが表示されています。",
+          "objectFit": "contain",
+          "aspectRatio": 1.8605
+        },
+        "comparisonTable": {
+          "caption": "SHEIN 日本サイトが公表している運営会社と返品期限。2026年10月12日に確認。",
+          "headers": [
+            "マーケット",
+            "サイトの運営会社",
+            "SHEIN の返品"
+          ],
+          "rows": [
+            [
+              "日本（jp.shein.com）",
+              "Fashion Choice Pte. Ltd.（シンガポール）",
+              "購入から40日以内"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "日本向けの Temu の配送・返品のルールは、この記事のために読んでいません。買う前に、Temu のサイトの配送ページと返品ページで確認してください。"
+        ]
+      },
+      {
+        "heading": "関税と消費税",
+        "paragraphs": [
+          "税関（Japan Customs）によると、課税価格（関税や消費税を計算するもとになる金額）の合計額が1万円以下の物品の輸入は、関税と消費税が免税されます。ただし、「関税を免税しない物品」が定められていて、税関はその主なものとして、革製のカバン、ハンドバッグ、手袋など、編物（ニット）製の衣類（Tシャツ、セーターなど）、スキー靴、革靴、本底（靴底）が革製の履物などを挙げています（税関のカスタムスアンサー1006、2026年10月12日に確認）。",
+          "これはどのお店で買っても同じなので、SHEIN と Temu のどちらを選ぶかを決める理由にはなりません。"
+        ]
+      },
+      {
+        "heading": "買うものに合わせた選び方",
+        "bullets": [
+          "**返品に余裕がほしい：** 価格だけでなく、返品できる期間も比べましょう。",
+          "**いつまでに届いてほしい：** 商品ページや注文ページで、お届けの目安を確認しましょう。",
+          "**海外から届く商品を買う：** 支払い画面（チェックアウト）で、税金を含めた合計金額を確認しましょう。",
+          "**クレジットカードや電子決済、分割払いで払う：** お店ごとの支払い画面で、使える支払い方法を確認しましょう。"
+        ]
+      },
+      {
+        "heading": "口コミサイトの点数が示すもの",
+        "paragraphs": [
+          "クレームやレビューのサイトの点数が測っているのは、不満を持った人へのお店の対応です。商品の品質ではありません。クレームの件数も、お店の大きさによって変わります。SHEIN を運営している会社と、評判について分かっていることは、SHEIN の信頼性についての記事にまとめています。"
+        ],
+        "links": [
+          {
+            "label": "SHEIN は安全？信頼できる？運営会社、どこの国の会社か、返品期限と関税",
+            "href": "/ja/reviews/shein-trust-guide-ja"
+          }
+        ]
+      },
+      {
+        "heading": "買う前に確認すること",
+        "bullets": [
+          "送料と税金を含めた、最終的な価格。",
+          "返品できる期間と、返品期間が短い商品かどうか。",
+          "誰が売っているか：お店自身か、パートナーの販売者か。",
+          "注文ページに表示されたお届けの目安。"
+        ]
+      },
+      {
+        "heading": "提携と紹介コード",
+        "paragraphs": [
+          "Cecília は SHEIN と Temu のアフィリエイトに参加しています。この記事のリンクから購入されると、あなたの負担なしに報酬を受け取ることがあります。それでも答えは変わりません。何を買うかによって選ぶお店は変わります。",
+          "4CW5Y は、SHEIN ブラジルの紹介コードです。クーポン欄ではなく、SHEIN の検索バーで検索します。SHEIN ブラジルのコードなので、日本では使えない場合があります。"
+        ],
+        "links": [
+          {
+            "label": "4CW5Y の紹介コードと SHEIN ブラジルのキャンペーンを見る",
+            "href": "/ja/coupons/shein"
+          },
+          {
+            "label": "SHEIN ブラジルの紹介コード：入力する場所と使い方",
+            "href": "/ja/reviews/shein-referral-code-ja"
+          },
+          {
+            "label": "Temu を開く",
+            "href": "https://temu.to/k/glfwht5gllj",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "SHEIN と Temu はどちらがいいですか？ すべての人にとってベストなお店はありません。何を買うか、返品できることをどれだけ大事にするか、いつまでに受け取りたいかで選びましょう。",
+          "SHEIN と Temu はどちらが安いですか？ この記事は価格を比べていません。支払う前に、お店ごとの支払い画面で、送料と税金を含めた合計金額を比べてください。",
+          "SHEIN と Temu はどちらが早く届きますか？ 商品ページと注文ページに表示されるお届けの目安を確認してください。日本向けの Temu のルールは、この記事のために確認していません。",
+          "SHEIN と Temu はどちらが安全ですか？ この記事では、どちらが安全かという判断はしていません。SHEIN については、信頼性についての記事をご覧ください。",
+          "SHEIN と Temu は同じ会社ですか？ いいえ。別々のお店で、それぞれ自分たちのルールがあります。",
+          "SHEIN で返品できるのは、いつまでですか？ 日本の SHEIN は、購入から40日以内の返品を公表しています（2026年10月12日に確認）。",
+          "海外から届く荷物には、関税がかかりますか？ 税関によると、課税価格の合計額が1万円以下の物品の輸入は、関税と消費税が免税されます。ただし、免税にならない物品が定められていて、主なものは、革製のカバン、ハンドバッグ、手袋など、編物（ニット）製の衣類（Tシャツ、セーターなど）、スキー靴、革靴、本底（靴底）が革製の履物などです。どのお店で買っても同じです。",
+          "4CW5Y はクーポンですか？ いいえ。SHEIN ブラジルの紹介コードで、SHEIN の検索バーで検索します。日本では使えない場合があります。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "支払うときに、送料と税金を含めた最終価格を比べましょう",
+      "label": "SHEIN へ進む",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "この記事は編集コンテンツです。SHEIN と Temu のリンクから購入された場合、報酬を受け取ることがあります。",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-ja",
+        "title": "SHEIN は安全？信頼できる？運営会社、どこの国の会社か、返品期限と関税"
+      },
+      {
+        "slug": "shein-black-friday-ja",
+        "title": "Black Friday SHEIN 2026（ブラックフライデー）：いつ始まり、いつまで？US$ 50までの輸入税ゼロ"
+      },
+      {
+        "slug": "shein-referral-code-ja",
+        "title": "SHEIN ブラジルの紹介コード：入力する場所と使い方"
+      }
+    ]
+  },
+  {
+    "id": 393,
+    "slug": "shein-vs-shopee-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "shein-vs-shopee-temu",
+    "title": "SHEIN 跟蝦皮怎麼選？退貨規則與購買前要確認的事",
+    "seoTitle": "SHEIN 還是蝦皮？退貨與購買前確認事項",
+    "type": "比較指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN 和蝦皮怎麼選？整理 SHEIN 台灣站公布的營運公司與退貨期限、依購物需求的選擇方式，以及購買前要確認的事。這篇文章不比較價格，也沒有測試配送。",
+    "metaDescription": "SHEIN 還是蝦皮？整理 SHEIN 台灣站公布的營運公司與退貨期限（收到商品後 15 天內）、依需求怎麼選，以及購買前要確認的事。不比價格、不測配送。",
+    "publishedAt": "2026年10月13日",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+    "imageAlt": "一張內容空白的比較表插圖，有 SHEIN、Shopee、Temu 和 AliExpress 四個欄位，以及五列圖示，分別代表運費、時效、退貨、稅金與口碑",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "沒有一家平台適合所有人。怎麼選，取決於你要買什麼，以及能不能退貨對你有多重要。SHEIN 和蝦皮在各個市場都公布自己的規則。SHEIN 台灣站公布的退貨期限是收到商品後 15 天內。蝦皮在台灣的規則，我們沒有為這篇文章查閱。",
+          "這篇文章不比較價格，也沒有測試配送。SHEIN 的資料來自 2026 年 10 月 12 日查閱的台灣站。"
+        ]
+      },
+      {
+        "heading": "SHEIN 在台灣公布的內容",
+        "paragraphs": [
+          "出處：SHEIN 台灣站的隱私權政策與退貨政策，2026 年 10 月 12 日查閱。"
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-home-tw-2026-10-12.webp",
+          "alt": "SHEIN 台灣站首頁。黑色標題列有繁體中文的商品分類選單，下方是紫色的「Trends #凌亂時尚」活動橫幅，展示四件以新台幣標價的服飾，再往下是商品分類圖示",
+          "caption": "SHEIN 台灣站（shein.tw）首頁，2026 年 10 月 12 日擷取，畫面顯示當天的活動。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "comparisonTable": {
+          "caption": "SHEIN 台灣站公布的營運公司與退貨期限，2026 年 10 月 12 日查閱。",
+          "headers": [
+            "市場",
+            "網站營運公司",
+            "SHEIN 的退貨"
+          ],
+          "rows": [
+            [
+              "台灣（shein.tw）",
+              "Fashion Choice Pte. Ltd.（新加坡）",
+              "收到商品後 15 天內"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "蝦皮的母公司 Sea Limited 在 2026 年的財報新聞稿中表示，蝦皮是東南亞、台灣與巴西最大的電商平台。這是我們引用的唯一一項蝦皮資料：蝦皮在台灣的出貨與退貨規則，我們沒有為這篇文章查閱。買之前，請先到蝦皮的運送與退貨說明頁面確認。"
+        ]
+      },
+      {
+        "heading": "進口稅與海關",
+        "paragraphs": [
+          "進口稅依國家與地區而定。付款前，請在各平台的結帳頁面確認總金額是否已包含稅金。"
+        ]
+      },
+      {
+        "heading": "依購物需求怎麼選",
+        "bullets": [
+          "**想要有充裕的退貨時間：** 比較退貨期限，不要只比價格。",
+          "**需要在某個日期前收到：** 到商品頁面或訂單頁面確認送達時間。",
+          "**買從海外寄來的商品：** 在結帳頁面確認含稅的總金額。",
+          "**用信用卡、電子錢包或分期付款：** 到各平台的結帳頁面查看可用的付款方式。"
+        ]
+      },
+      {
+        "heading": "評價分數衡量的是什麼",
+        "paragraphs": [
+          "投訴與評價網站的分數衡量的是平台如何處理客訴，而不是商品品質，而且投訴數量也會隨平台規模而不同。關於 SHEIN 由誰營運、聲譽有哪些已知情況，我們寫在談 SHEIN 可靠性的文章裡。"
+        ],
+        "links": [
+          {
+            "label": "SHEIN 可靠嗎？誰在營運、是哪個國家的公司，以及台灣站的退貨規則",
+            "href": "/zh-hant/reviews/shein-trust-guide-zh-hant"
+          }
+        ]
+      },
+      {
+        "heading": "購買前要確認的事",
+        "bullets": [
+          "含運費與稅金的最終價格。",
+          "退貨期限，以及這件商品是不是退貨期限較短的品項。",
+          "誰在賣：平台自己，還是合作賣家。",
+          "訂單頁面上的送達時間。"
+        ]
+      },
+      {
+        "heading": "合作與推薦碼",
+        "paragraphs": [
+          "Cecília 是 SHEIN 的聯盟會員。透過本文連結購買時，她可能獲得佣金，你不需要多付費。這不會改變答案：怎麼選，取決於你要買什麼。",
+          "4CW5Y 是 SHEIN 巴西站的推薦碼。要在 SHEIN 的搜尋欄搜尋，不是輸入到優惠券欄位。它屬於 SHEIN 巴西站，在台灣可能無法使用。"
+        ],
+        "links": [
+          {
+            "label": "查看 4CW5Y 推薦碼與 SHEIN 巴西站的活動",
+            "href": "/zh-hant/coupons/shein"
+          },
+          {
+            "label": "SHEIN 巴西站推薦碼：在哪裡輸入、怎麼用",
+            "href": "/zh-hant/reviews/shein-referral-code-zh-hant"
+          }
+        ]
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "SHEIN 和蝦皮哪個比較好？ 沒有一家平台適合所有人。依你要買什麼、退貨對你有多重要，以及需要在哪天前收到來選。",
+          "SHEIN 和蝦皮哪個比較便宜？ 這篇文章不比較價格。付款前，到各平台的結帳頁面，比較含運費與稅金的總金額。",
+          "SHEIN 和蝦皮哪個比較快到貨？ 請看商品頁面與訂單頁面上的送達時間。蝦皮在台灣的規則，我們沒有為這篇文章查閱。",
+          "SHEIN 和蝦皮哪個比較安全？ 這篇文章不做這樣的判斷。關於 SHEIN，請看我們談 SHEIN 可靠性的文章。",
+          "SHEIN 和蝦皮是同一家公司嗎？ 不是。它們是不同的平台，各有各的規則。",
+          "SHEIN 台灣站的退貨期限是幾天？ 根據 SHEIN 台灣站的公布，是收到商品後 15 天內（2026 年 10 月 12 日查閱）。",
+          "4CW5Y 是優惠券嗎？ 不是。它是 SHEIN 巴西站的推薦碼，要在 SHEIN 的搜尋欄搜尋，在台灣可能無法使用。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "付款時，請比較含運費與稅金的最終價格",
+      "label": "前往 SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "本文為編輯內容。透過本文的 SHEIN 連結購買，我們可能獲得佣金。",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-zh-hant",
+        "title": "SHEIN 可靠嗎？誰在營運、是哪個國家的公司，以及台灣站的退貨規則"
+      },
+      {
+        "slug": "shein-black-friday-zh-hant",
+        "title": "Black Friday SHEIN 2026（黑色星期五）：何時開始、何時結束，以及 US$ 50 以下免進口稅"
+      },
+      {
+        "slug": "shein-referral-code-zh-hant",
+        "title": "SHEIN 巴西站推薦碼：在哪裡輸入、怎麼用"
+      }
+    ]
+  },
+  {
+    "id": 394,
+    "slug": "shein-vs-temu-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "shein-vs-shopee-temu",
+    "title": "SHEIN 还是 Temu？新加坡买家怎么选，购买前要确认什么",
+    "seoTitle": "SHEIN 还是 Temu？新加坡怎么选、买前确认什么",
+    "type": "对比指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN 和 Temu 在新加坡怎么选？整理 SHEIN 新加坡站公布的运营公司、按购物需求的选择方式，以及购买前要确认的事。这篇文章不比较价格，也没有测试配送。",
+    "metaDescription": "SHEIN 还是 Temu？新加坡买家怎么选：SHEIN 新加坡站公布的运营公司、按需求的选择方式，以及购买前要确认的事。不比价格、不测配送。",
+    "publishedAt": "2026年10月13日",
+    "publishedAtISO": "2026-10-13",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+    "imageAlt": "一张内容空白的对比表插图，有 SHEIN、Shopee、Temu 和 AliExpress 四列，以及五行图标，分别代表运费、时效、退货、税金与口碑",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "没有一家平台适合所有人。怎么选，取决于你要买什么，以及能不能退货对你有多重要。SHEIN 和 Temu 在各个市场都公布自己的规则。SHEIN 新加坡站由 Fashion Choice Pte. Ltd. 运营，它的退货期限我们没有查阅，请到网站上确认。Temu 在新加坡的规则，我们也没有为这篇文章查阅。",
+          "这篇文章不比较价格，也没有测试配送。SHEIN 的资料来自 2026 年 10 月 12 日查阅的新加坡站。"
+        ]
+      },
+      {
+        "heading": "SHEIN 在新加坡公布的内容",
+        "paragraphs": [
+          "出处：SHEIN 新加坡站（sg.shein.com），2026 年 10 月 12 日查阅。表中只有运营公司；退货期限我们没有查阅，请到 SHEIN 新加坡站查看退货政策。"
+        ],
+        "image": {
+          "src": "/images/reviews/shein/shein-home-sg-2026-10-12.webp",
+          "alt": "SHEIN 新加坡站首页，页面为英文。黑色标题栏有英文的商品分类菜单，下方是紫色的“Trends #SummerOutfit”（夏季穿搭）活动横幅，展示四件以新加坡元标价的服饰，再往下是商品分类图标",
+          "caption": "SHEIN 新加坡站（sg.shein.com）首页，页面为英文，2026 年 10 月 12 日截取，画面显示当天的活动。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "comparisonTable": {
+          "caption": "SHEIN 新加坡站公布的运营公司，2026 年 10 月 12 日查阅。退货期限未查阅。",
+          "headers": [
+            "市场",
+            "网站运营公司",
+            "SHEIN 的退货"
+          ],
+          "rows": [
+            [
+              "新加坡（sg.shein.com）",
+              "Fashion Choice Pte. Ltd.",
+              "未查阅，请到 SHEIN 新加坡站查看退货政策"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Temu 在新加坡的政策，我们没有为这篇文章查阅。买之前，请先到 Temu 的配送与退货页面确认。"
+        ]
+      },
+      {
+        "heading": "进口税与海关",
+        "paragraphs": [
+          "进口税依国家与地区而定。付款前，请在各平台的结账页面确认总金额是否已包含税金。"
+        ]
+      },
+      {
+        "heading": "按购物需求怎么选",
+        "bullets": [
+          "**想要有充裕的退货时间：** 比较退货期限，不要只比价格。",
+          "**需要在某个日期前收到：** 到商品页面或订单页面确认送达时间。",
+          "**买从海外寄来的商品：** 在结账页面确认含税的总金额。",
+          "**用信用卡、电子钱包或分期付款：** 到各平台的结账页面查看可用的付款方式。"
+        ]
+      },
+      {
+        "heading": "评分衡量的是什么",
+        "paragraphs": [
+          "投诉与评价网站的评分衡量的是平台如何处理消费者的投诉，而不是商品质量，而且投诉数量也会随平台规模而不同。关于 SHEIN 由谁运营、声誉有哪些已知情况，我们写在谈 SHEIN 可靠性的文章里。"
+        ],
+        "links": [
+          {
+            "label": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事",
+            "href": "/zh-hans/reviews/shein-trust-guide-zh-hans"
+          }
+        ]
+      },
+      {
+        "heading": "购买前要确认的事",
+        "bullets": [
+          "含运费与税金的最终价格。",
+          "退货期限，以及这件商品是不是退货期限较短的品类。",
+          "谁在卖：平台自己，还是合作卖家。",
+          "订单页面上的送达时间。"
+        ]
+      },
+      {
+        "heading": "合作与推荐码",
+        "paragraphs": [
+          "Cecília 是 SHEIN 和 Temu 的联盟会员。通过本文链接购买时，她可能获得佣金，你不需要多付费。这不会改变答案：怎么选，取决于你要买什么。",
+          "4CW5Y 是 SHEIN 巴西站的推荐码。要在 SHEIN 的搜索栏搜索，不是输入到优惠券输入框。它属于 SHEIN 巴西站，在新加坡可能无法使用。"
+        ],
+        "links": [
+          {
+            "label": "查看 4CW5Y 推荐码与 SHEIN 巴西站的活动",
+            "href": "/zh-hans/coupons/shein"
+          },
+          {
+            "label": "SHEIN 巴西站推荐码：在哪里输入、怎么用",
+            "href": "/zh-hans/reviews/shein-referral-code-zh-hans"
+          },
+          {
+            "label": "打开 Temu",
+            "href": "https://temu.to/k/glfwht5gllj",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "SHEIN 和 Temu 哪个更好？ 没有一家平台适合所有人。按你要买什么、退货对你有多重要，以及需要在哪天前收到来选。",
+          "SHEIN 和 Temu 哪个更便宜？ 这篇文章不比较价格。付款前，到各平台的结账页面，比较含运费与税金的总金额。",
+          "SHEIN 和 Temu 哪个到货更快？ 请看商品页面与订单页面上的送达时间。Temu 在新加坡的规则，我们没有为这篇文章查阅。",
+          "SHEIN 和 Temu 哪个更安全？ 这篇文章不做这样的判断。关于 SHEIN，请看我们谈 SHEIN 可靠性的文章。",
+          "SHEIN 和 Temu 是同一家公司吗？ 不是。它们是不同的平台，各有各的规则。",
+          "SHEIN 新加坡站的退货期限是多久？ 这篇文章没有查阅新加坡站的退货期限，请到 SHEIN 新加坡站查看退货政策。",
+          "4CW5Y 是优惠券吗？ 不是。它是 SHEIN 巴西站的推荐码，要在 SHEIN 的搜索栏搜索，在新加坡可能无法使用。"
+        ]
+      }
+    ],
+    "cta": {
+      "text": "付款时，请比较含运费与税金的最终价格",
+      "label": "前往 SHEIN",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "本文为编辑内容。通过本文的 SHEIN 和 Temu 链接购买，我们可能获得佣金。",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-zh-hans",
+        "title": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事"
+      },
+      {
+        "slug": "shein-black-friday-zh-hans",
+        "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、何时结束，以及 US$ 50 以内免进口税"
+      },
+      {
+        "slug": "shein-referral-code-zh-hans",
+        "title": "SHEIN 巴西站推荐码：在哪里输入、怎么用"
+      }
+    ]
   }
 ];

@@ -1,0 +1,139 @@
+{
+  "id": 384,
+  "slug": "shein-trust-guide-zh-hans",
+  "locale": "zh-hans",
+  "translationKey": "shein-trust",
+  "title": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事",
+  "seoTitle": "SHEIN 可靠吗？运营公司、来历与购买前要确认的事",
+  "type": "编辑专题",
+  "category": "confianca-reputacao",
+  "reviewKind": "editorial",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "SHEIN 可靠吗？整理 SHEIN 新加坡站的运营公司、SHEIN 是哪个国家的公司、数据与付款安全、如何确认官方网站，以及购买前要确认的事。",
+  "metaDescription": "SHEIN 可靠吗？新加坡站的运营公司、SHEIN 来自哪里、数据与付款安全、如何确认官方网站，以及购买前要确认的事。",
+  "publishedAt": "2026年10月13日",
+  "publishedAtISO": "2026-10-13",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/shein/shein-home-sg-2026-10-12.webp",
+  "imageAlt": "2026 年 10 月 12 日的 SHEIN 新加坡站首页（页面为英文），画面有当天的活动、类别菜单与搜索栏",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "快速解答",
+      "paragraphs": [
+        "SHEIN 是一家正规经营的商店。本指南介绍的是 SHEIN 新加坡站（sg.shein.com）。新加坡站的运营公司是 Fashion Choice Pte. Ltd.，公司名称写在网站的隐私政策中。不同市场的运营公司与退货规则可能不同。",
+        "据《金融时报》（Financial Times）报道，SHEIN 诞生于中国，总部位于新加坡。新加坡站的退货政策我们没有查阅，请在 sg.shein.com 上确认退货期限，以及它是从收货、送达还是下单那天开始计算。"
+      ]
+    },
+    {
+      "heading": "SHEIN 由谁运营，是哪个国家的公司",
+      "paragraphs": [
+        "SHEIN 把自己形容为全球性的线上时尚与生活方式零售商，销售 SHEIN 品牌的服装，也销售来自全球供应商网络的商品。SHEIN 表示，公司采用按需、小批量的方式生产。",
+        "每个市场都有各自的网站，各网站的隐私政策都会写明负责该网站的公司。新加坡站 sg.shein.com 的公司是 Fashion Choice Pte. Ltd.。集团网站 sheingroup.com 属于新加坡的 Roadget Business Pte. Ltd.。",
+        "关于 SHEIN 的来历，每个说法都要对应各自的报道。《金融时报》报道，SHEIN 诞生于中国。2026 年 2 月 24 日，在广东省政府的一场活动上，创始人 Xu Yangtian（许仰天）表示广东是 SHEIN 的根，这是 BBC 与《海峡时报》（The Straits Times）的报道。这三篇报道都写到，公司总部位于新加坡。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+        "alt": "SHEIN 在十个市场的首页拼图，每张首页都标有网站网址：巴西、英国、西班牙、法国、德国、意大利、韩国、日本、台湾与新加坡",
+        "caption": "SHEIN 在十个市场的首页，2026 年 10 月 12 日截取。每个市场都有自己的网站，各网站的隐私政策都会写明负责该网站的公司。",
+        "objectFit": "contain",
+        "aspectRatio": 2.8571
+      }
+    },
+    {
+      "heading": "付款安全性与数据处理",
+      "paragraphs": [
+        "SHEIN 表示，公司的系统和管控措施与 ISO、NIST 及 PCI DSS 标准保持一致，也表示不会出售客户数据。",
+        "客户数据可能被传送到哪些国家或地区，各市场网站的隐私政策都有专门的章节说明。本文不概括这部分内容。如果你在意这件事，建议在创建账户前先阅读。",
+        "为避免进入假网站，请只在官方网站（新加坡站为 sg.shein.com）购买，或使用从手机官方应用商店下载的 SHEIN App。"
+      ]
+    },
+    {
+      "heading": "退货与进口税",
+      "paragraphs": [
+        "本文的运营公司取自 SHEIN 新加坡站（sg.shein.com）的隐私政策，我们于 2026 年 10 月 12 日查阅。新加坡站的退货政策我们没有查阅，所以这里不给出退货天数。",
+        "请在 sg.shein.com 上确认退货期限，以及它从哪一天开始计算（收到商品、送达，还是下单），并看看有没有期限更短的商品。",
+        "进口税依收货地而异，付款前请在结账页面确认总金额是否已包含进口税。"
+      ]
+    },
+    {
+      "heading": "付款前要确认的事项",
+      "bullets": [
+        "是否在官方网站（sg.shein.com）或官方 App 上购买。",
+        "运费与配送时间，是否显示在订单页面。",
+        "进口税与相关费用，是否显示在结账页面。",
+        "退货期限，以及期限更短的商品。",
+        "保留订单确认。"
+      ]
+    },
+    {
+      "heading": "合作与推荐码",
+      "paragraphs": [
+        "本文是编辑专题，Cecília 是 SHEIN 的联盟会员：通过她的链接购买，可能产生佣金，你不需要额外付费。4CW5Y 是 SHEIN 巴西站的推荐码，要在 SHEIN 的搜索栏里输入，不是填在优惠券输入框里。因为是 SHEIN 巴西站的推荐码，在你所在的国家可能无法使用。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
+        "alt": "在手机上打开的 SHEIN 巴西站搜索栏，已输入推荐码 4CW5Y。界面为葡萄牙语，推荐码在界面上显示为 4Cw5y",
+        "caption": "在 SHEIN 巴西站网站的搜索栏输入推荐码（手机界面）。",
+        "objectFit": "contain",
+        "aspectRatio": 1.4722
+      },
+      "links": [
+        {
+          "label": "查看 4CW5Y 推荐码与 SHEIN 巴西站的活动",
+          "href": "/zh-hans/coupons/shein"
+        },
+        {
+          "label": "SHEIN 巴西站推荐码：在哪里输入、怎么用",
+          "href": "/zh-hans/reviews/shein-referral-code-zh-hans"
+        }
+      ]
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "SHEIN 可靠吗？ SHEIN 是正规经营的商店，新加坡站的运营公司是 Fashion Choice Pte. Ltd.，公司名称写在网站的隐私政策中。",
+        "用信用卡在 SHEIN 付款安全吗？ SHEIN 表示，公司的系统和管控措施与 ISO、NIST 及 PCI DSS 标准保持一致。请只在官方网站 sg.shein.com，或从官方应用商店下载的 App 上付款。",
+        "SHEIN 是哪个国家的公司？ 据《金融时报》报道，SHEIN 诞生于中国，总部位于新加坡。2026 年 2 月，创始人表示 SHEIN 的根在广东，这是 BBC 与《海峡时报》的报道。",
+        "SHEIN 新加坡站由谁运营？ 根据 sg.shein.com 的隐私政策，是 Fashion Choice Pte. Ltd.。",
+        "SHEIN 新加坡站的退货期限是多久？ 我们没有查阅新加坡站的退货政策，所以不给出天数。请在 sg.shein.com 上确认退货期限，以及它从哪一天开始计算。",
+        "怎么确认 SHEIN 的网站是官方的？ 新加坡站的网址是 sg.shein.com。App 请使用从手机官方应用商店下载的 SHEIN App。",
+        "4CW5Y 是优惠券吗？ 不是。它是 SHEIN 巴西站的推荐码，要在 SHEIN 的搜索栏里输入。因为是 SHEIN 巴西站的推荐码，在你所在的国家可能无法使用。"
+      ]
+    }
+  ],
+  "cta": {
+    "text": "付款前，先在订单页面确认运费、配送时间与税金",
+    "label": "前往 SHEIN",
+    "url": "https://onelink.shein.com/55/6463grgxf6ru",
+    "sponsored": true
+  },
+  "coupon": "4CW5Y",
+  "affiliate": "shein",
+  "editorialNote": "本文为编辑专题。我们可能从 SHEIN 的购买中获得佣金，你不需要额外付费。",
+  "relatedArticles": [
+    {
+      "slug": "shein-vs-temu-zh-hans",
+      "title": "SHEIN 还是 Temu？新加坡买家怎么选，购买前要确认什么"
+    },
+    {
+      "slug": "shein-black-friday-zh-hans",
+      "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、何时结束，以及 US$ 50 以内免进口税"
+    },
+    {
+      "slug": "shein-referral-code-zh-hans",
+      "title": "SHEIN 巴西站推荐码：在哪里输入、怎么用"
+    }
+  ]
+}

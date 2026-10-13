@@ -7,9 +7,6 @@
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
-- [ ] [[shein-e-confiavel]] — SHEIN / SHEIN é confiável? Família de 10 idiomas (Score Aut: 75 / Conv: 80; fase 4)
-- [ ] [[shein-ou-shopee-temu]] — SHEIN / SHEIN, Shopee, Temu ou AliExpress, família de 10 idiomas (Score Aut: 70 / Conv: 85; fase 4)
-- [ ] [[codigo-de-indicacao-shein]] — SHEIN / Código de indicação SHEIN, família de 10 idiomas (Score Aut: 68 / Conv: 78; fase 4)
 - [ ] [[yesstyle-ou-stylevana]] — YesStyle / YesStyle ou Stylevana, família de 10 idiomas (Score Aut: 75 / Conv: 78; fase 5)
 - [ ] [[yesstyle-entrega-por-pais]] — YesStyle / YesStyle entrega no Brasil e em Portugal?, família de 10 idiomas (Score Aut: 80 / Conv: 75; fase 5)
 
@@ -41,8 +38,9 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- [ ] [[quanto-custa-capsula-dolce-gusto]] — Dolce Gusto / Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara (fase 3 da publicação das 17 pautas; capa e 3 imagens novas no CDN)
-- [ ] [[melhores-capsulas-dolce-gusto-2026]] — Dolce Gusto / Qual sabor de cápsula Dolce Gusto escolher: guia por perfil, Original e NEO (fase 3; rascunho id 218 reescrito, capa e 4 imagens novas no CDN)
+- [ ] [[shein-e-confiavel]] — SHEIN / SHEIN é confiável? Família de 10 idiomas, núcleo + bloco de mercado (fase 4 da publicação das 17 pautas; capa por mercado, imagens no CDN)
+- [ ] [[shein-ou-shopee-temu]] — SHEIN / SHEIN, Shopee, Temu ou AliExpress, família de 10 idiomas com o concorrente de cada mercado (fase 4; imagens no CDN)
+- [ ] [[codigo-de-indicacao-shein]] — SHEIN / Código de indicação SHEIN, família de 10 idiomas (fase 4; telas M1 a M3 e capa no CDN)
 
 ---
 
@@ -67,6 +65,8 @@
 - [x] [[nutren-protein-ou-whey]] — Nestlé Nutre / Nutren Protein ou whey protein: como escolher pelo rótulo (No ar em 12/10/2026, PR #66; fase 2 da publicação das 17 pautas) 🚀
 - [x] [[nestle-nutre-produtos-para-que-servem]] — Nestlé Nutre / Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um (No ar em 12/10/2026, PR #66; fase 2 da publicação das 17 pautas) 🚀
 - [x] [[magazine-voce-e-confiavel]] — Magalu / Magazine Você é confiável? É golpe? Como funciona a loja de influenciador do Magalu (No ar em 12/10/2026, PR #66; fase 2 da publicação das 17 pautas) 🚀
+- [x] [[quanto-custa-capsula-dolce-gusto]] — Dolce Gusto / Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara (No ar em 12/10/2026, PR #67; fase 3 da publicação das 17 pautas) 🚀
+- [x] [[melhores-capsulas-dolce-gusto-2026]] — Dolce Gusto / Qual sabor de cápsula Dolce Gusto escolher: guia por perfil, Original e NEO (No ar em 12/10/2026, PR #67; fase 3 da publicação das 17 pautas) 🚀
 - [x] [[poltrona-de-amamentacao-como-escolher]] — DAMIE / Poltrona de amamentação: como escolher entre com puff, com balanço e reclinável (No ar em 07/10/2026, `4b391c4`; reescrito com fatos verificados, três faixas de preço com links da Amazon e do Mercado Livre, giro de 180°, herói real no CDN, IndexNow enviado) 🚀
 - [x] [[poltrona-de-amamentacao-vs-poltrona-reclinavel]] — DAMIE / Poltrona de amamentação ou reclinável: qual vale mais a pena? (No ar em 07/10/2026, `4b391c4`; as quatro bases da DAMIE com preços, uso depois da amamentação com os opcionais, conta do tempo de uso com preços reais, herói real no CDN, IndexNow enviado) 🚀
 - [x] [[insider-store-e-confiavel]] — Insider Store / É confiável? CNPJ, loja física, trocas, garantia e reputação (No ar em 05/10/2026, `2887c4c`; reescrito com fatos verificados na central de ajuda, termos e BrasilAPI, sem Lenzing, fotos oficiais no CDN, IndexNow enviado; revisto em 07/10/2026 para citar os 15% OFF do cupom, no ar em 08/10/2026, `19ea553`) 🚀

@@ -6,9 +6,9 @@ parceiro: "[[SHEIN]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir o PT (Job 2) com os links de afiliado da SHEIN, da Shopee e da Temu (seção 10, item 2); depois o Job 3"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy (decisão do Bruno), depois do PR da oferta nova da YesStyle; as 17 imagens novas da fase 4 já estão no CDN"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 85
@@ -358,3 +358,27 @@ Perguntas que **não** entram aqui (vão ao artigo de credibilidade): "a Shein �
 
 **Limite do Google:** usei 4 das 6 buscas permitidas (duas em PT, duas em EN), sem bloqueio nem verificação.
 **Leitura por nativo:** nenhuma versão passou por pessoa do idioma; a releitura é a do item 10 do Job 4.
+
+## Redação
+Redigido em 12/10/2026 (Job 2: Claude), revisado no Job 3 por outro agente e conformado no Job 4. Pronto para deploy.
+
+**PT (`shein-ou-shopee-temu`, id 385, `type` Comparativo):** resposta rápida; as quatro lojas lado a lado (fontes por nome e a data num parágrafo visível, "Não lido" explicado; tabela de frete, prazo, devolução, imposto e Reclame Aqui); o imposto não decide a escolha (link para o guia de Black Friday); a devolução, com o gráfico dos prazos; qual escolher conforme a compra; o Reclame Aqui das quatro lojas (link para o artigo de confiança); antes de comprar; parceria (links da SHEIN, da Shopee e da Temu, `sponsored`; AliExpress sem link); FAQ com 10 itens.
+
+**Job 3 (12/10/2026), ajustes aplicados:** a contagem de cada prazo de devolução (Temu da compra; SHEIN e Shopee do recebimento) na resposta rápida, na tabela, no gráfico e no FAQ; "Envio Global" nas células da SHEIN; fontes por nome; o aviso de que a nota do Reclame Aqui mede o atendimento, também no FAQ; meta e description dizem que o AliExpress entra só no Reclame Aqui; "marketplace"; o imposto como "acima disso, ele volta"; "roupa de banho"; "Vale também para quem mudou de ideia"; "testa". Recusado: trocar "dos últimos três anos" por "de até três anos".
+
+**Traduções (Job 4, decisão A: núcleo + bloco de mercado):** ids 386 a 394. Cada versão compara a SHEIN com o concorrente do idioma pelo que a SHEIN publica no mercado; as regras da Temu (e do 蝦皮) fora do Brasil não foram lidas, e o texto diz isso. en Temu (EUA e Reino Unido); es Temu (Espanha e México); fr Temu (França, com a alfândega de € 3 da UE por decisão do Bruno de 12/10); de e it Temu (€ 3); ko Temu e 알리, sem dado de nenhum dos dois; ja Temu, com a regra de ¥ 10.000; zh-hant 蝦皮, sem Temu, com o fato da Sea Limited; zh-hans Temu, Singapura. A imagem do bloco de mercado é a captura do site da SHEIN do mercado.
+
+**Releitura (item 10 do Job 4), 12/10/2026, por outro agente:**
+- en: o ponto de partida dos 14 dias do Reino Unido; "Returns on SHEIN"; sem 4CW5Y na description e na meta; a frase do checkout como orientação.
+- es: o ponto de partida dos 14 dias; "barra de búsqueda"; sem 4CW5Y na meta; a frase do checkout como orientação.
+- fr: a alfândega de € 3 na seção e no FAQ (8 itens), com "douane" no título e no seoTitle; "Retours chez SHEIN"; "avoir de la marge pour retourner"; a frase do checkout como orientação.
+- de: "pro Warenkategorie" na description; meta com o ponto de partida; "viel Zeit zum Zurückschicken"; o código se digita ("eingeben").
+- it: "per categoria di prodotto"; meta com o ponto de partida; "biancheria intima"; "va digitato"; "qual è".
+- ko: sem veredito ("모두에게 맞는 단 하나의 쇼핑몰은 없습니다"); o código se digita ("입력"); o registro do `editorialNote`.
+- ja: a regra da Alfândega pela Customs Answer 1006, com a fonte no texto; "国・地域ごと"; a frase da Amazon sem ambiguidade; "検索バー".
+- zh-hant: título "SHEIN 跟蝦皮怎麼選？"; "輸入到"; a frase do checkout como orientação.
+- zh-hans: "输入到优惠券输入框"; "处理消费者的投诉"; a frase do checkout como orientação.
+
+**Imagens (no CDN desde 12/10/2026, com o OK do Bruno):** `shein-shopee-temu-aliexpress-criterios.webp` (capa, gráfico nosso com ícones Lucide, licença ISC); `shein-shopee-temu-prazo-devolucao.webp` (só no PT, gráfico nosso com os prazos das páginas das lojas lidas em 12/10/2026, barras proporcionais); as capturas `shein-home-*` no bloco de mercado das traduções.
+
+**Gates (12/10/2026):** typecheck, eslint, `test:review-i18n` (10 famílias, as três da fase 4 inclusas), `validate:video`, `test-delivery-integration` e os testes de mídia verdes. O `validate:content` só acusa a oferta vencida da YesStyle (1010VIBES), que espera o PR do Bruno; a build completa e as provas de entrega rodam depois dele.

@@ -1,0 +1,164 @@
+{
+  "id": 394,
+  "slug": "shein-vs-temu-zh-hans",
+  "locale": "zh-hans",
+  "translationKey": "shein-vs-shopee-temu",
+  "title": "SHEIN 还是 Temu？新加坡买家怎么选，购买前要确认什么",
+  "seoTitle": "SHEIN 还是 Temu？新加坡怎么选、买前确认什么",
+  "type": "对比指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "SHEIN 和 Temu 在新加坡怎么选？整理 SHEIN 新加坡站公布的运营公司、按购物需求的选择方式，以及购买前要确认的事。这篇文章不比较价格，也没有测试配送。",
+  "metaDescription": "SHEIN 还是 Temu？新加坡买家怎么选：SHEIN 新加坡站公布的运营公司、按需求的选择方式，以及购买前要确认的事。不比价格、不测配送。",
+  "publishedAt": "2026年10月13日",
+  "publishedAtISO": "2026-10-13",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+  "imageAlt": "一张内容空白的对比表插图，有 SHEIN、Shopee、Temu 和 AliExpress 四列，以及五行图标，分别代表运费、时效、退货、税金与口碑",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "快速解答",
+      "paragraphs": [
+        "没有一家平台适合所有人。怎么选，取决于你要买什么，以及能不能退货对你有多重要。SHEIN 和 Temu 在各个市场都公布自己的规则。SHEIN 新加坡站由 Fashion Choice Pte. Ltd. 运营，它的退货期限我们没有查阅，请到网站上确认。Temu 在新加坡的规则，我们也没有为这篇文章查阅。",
+        "这篇文章不比较价格，也没有测试配送。SHEIN 的资料来自 2026 年 10 月 12 日查阅的新加坡站。"
+      ]
+    },
+    {
+      "heading": "SHEIN 在新加坡公布的内容",
+      "paragraphs": [
+        "出处：SHEIN 新加坡站（sg.shein.com），2026 年 10 月 12 日查阅。表中只有运营公司；退货期限我们没有查阅，请到 SHEIN 新加坡站查看退货政策。"
+      ],
+      "image": {
+        "src": "/images/reviews/shein/shein-home-sg-2026-10-12.webp",
+        "alt": "SHEIN 新加坡站首页，页面为英文。黑色标题栏有英文的商品分类菜单，下方是紫色的“Trends #SummerOutfit”（夏季穿搭）活动横幅，展示四件以新加坡元标价的服饰，再往下是商品分类图标",
+        "caption": "SHEIN 新加坡站（sg.shein.com）首页，页面为英文，2026 年 10 月 12 日截取，画面显示当天的活动。",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
+      "comparisonTable": {
+        "caption": "SHEIN 新加坡站公布的运营公司，2026 年 10 月 12 日查阅。退货期限未查阅。",
+        "headers": [
+          "市场",
+          "网站运营公司",
+          "SHEIN 的退货"
+        ],
+        "rows": [
+          [
+            "新加坡（sg.shein.com）",
+            "Fashion Choice Pte. Ltd.",
+            "未查阅，请到 SHEIN 新加坡站查看退货政策"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Temu 在新加坡的政策，我们没有为这篇文章查阅。买之前，请先到 Temu 的配送与退货页面确认。"
+      ]
+    },
+    {
+      "heading": "进口税与海关",
+      "paragraphs": [
+        "进口税依国家与地区而定。付款前，请在各平台的结账页面确认总金额是否已包含税金。"
+      ]
+    },
+    {
+      "heading": "按购物需求怎么选",
+      "bullets": [
+        "**想要有充裕的退货时间：** 比较退货期限，不要只比价格。",
+        "**需要在某个日期前收到：** 到商品页面或订单页面确认送达时间。",
+        "**买从海外寄来的商品：** 在结账页面确认含税的总金额。",
+        "**用信用卡、电子钱包或分期付款：** 到各平台的结账页面查看可用的付款方式。"
+      ]
+    },
+    {
+      "heading": "评分衡量的是什么",
+      "paragraphs": [
+        "投诉与评价网站的评分衡量的是平台如何处理消费者的投诉，而不是商品质量，而且投诉数量也会随平台规模而不同。关于 SHEIN 由谁运营、声誉有哪些已知情况，我们写在谈 SHEIN 可靠性的文章里。"
+      ],
+      "links": [
+        {
+          "label": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事",
+          "href": "/zh-hans/reviews/shein-trust-guide-zh-hans"
+        }
+      ]
+    },
+    {
+      "heading": "购买前要确认的事",
+      "bullets": [
+        "含运费与税金的最终价格。",
+        "退货期限，以及这件商品是不是退货期限较短的品类。",
+        "谁在卖：平台自己，还是合作卖家。",
+        "订单页面上的送达时间。"
+      ]
+    },
+    {
+      "heading": "合作与推荐码",
+      "paragraphs": [
+        "Cecília 是 SHEIN 和 Temu 的联盟会员。通过本文链接购买时，她可能获得佣金，你不需要多付费。这不会改变答案：怎么选，取决于你要买什么。",
+        "4CW5Y 是 SHEIN 巴西站的推荐码。要在 SHEIN 的搜索栏搜索，不是输入到优惠券输入框。它属于 SHEIN 巴西站，在新加坡可能无法使用。"
+      ],
+      "links": [
+        {
+          "label": "查看 4CW5Y 推荐码与 SHEIN 巴西站的活动",
+          "href": "/zh-hans/coupons/shein"
+        },
+        {
+          "label": "SHEIN 巴西站推荐码：在哪里输入、怎么用",
+          "href": "/zh-hans/reviews/shein-referral-code-zh-hans"
+        },
+        {
+          "label": "打开 Temu",
+          "href": "https://temu.to/k/glfwht5gllj",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "SHEIN 和 Temu 哪个更好？ 没有一家平台适合所有人。按你要买什么、退货对你有多重要，以及需要在哪天前收到来选。",
+        "SHEIN 和 Temu 哪个更便宜？ 这篇文章不比较价格。付款前，到各平台的结账页面，比较含运费与税金的总金额。",
+        "SHEIN 和 Temu 哪个到货更快？ 请看商品页面与订单页面上的送达时间。Temu 在新加坡的规则，我们没有为这篇文章查阅。",
+        "SHEIN 和 Temu 哪个更安全？ 这篇文章不做这样的判断。关于 SHEIN，请看我们谈 SHEIN 可靠性的文章。",
+        "SHEIN 和 Temu 是同一家公司吗？ 不是。它们是不同的平台，各有各的规则。",
+        "SHEIN 新加坡站的退货期限是多久？ 这篇文章没有查阅新加坡站的退货期限，请到 SHEIN 新加坡站查看退货政策。",
+        "4CW5Y 是优惠券吗？ 不是。它是 SHEIN 巴西站的推荐码，要在 SHEIN 的搜索栏搜索，在新加坡可能无法使用。"
+      ]
+    }
+  ],
+  "cta": {
+    "text": "付款时，请比较含运费与税金的最终价格",
+    "label": "前往 SHEIN",
+    "url": "https://onelink.shein.com/55/6463grgxf6ru",
+    "sponsored": true
+  },
+  "coupon": "4CW5Y",
+  "affiliate": "shein",
+  "editorialNote": "本文为编辑内容。通过本文的 SHEIN 和 Temu 链接购买，我们可能获得佣金。",
+  "relatedArticles": [
+    {
+      "slug": "shein-trust-guide-zh-hans",
+      "title": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事"
+    },
+    {
+      "slug": "shein-black-friday-zh-hans",
+      "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、何时结束，以及 US$ 50 以内免进口税"
+    },
+    {
+      "slug": "shein-referral-code-zh-hans",
+      "title": "SHEIN 巴西站推荐码：在哪里输入、怎么用"
+    }
+  ]
+}
