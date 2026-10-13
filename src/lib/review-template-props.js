@@ -18,6 +18,7 @@ import {
 } from '@/lib/video-pages';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { isFaqHeading } from '@/lib/faqHeadings';
+import { inlineMarkdownToHtml, inlineMarkdownToText } from '@/lib/inlineMarkdown';
 
 export { getYoutubeEmbedUrl };
 
@@ -180,12 +181,13 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
     const mainEntity = faqSection.bullets
       .map(parseFaqBullet)
       .filter(Boolean)
+      // O que o acordeão mostra: a pergunta em texto puro e a resposta com o link e o negrito em HTML.
       .map(({ question, answer }) => ({
         '@type': 'Question',
-        name: question,
+        name: inlineMarkdownToText(question),
         acceptedAnswer: {
           '@type': 'Answer',
-          text: answer,
+          text: inlineMarkdownToHtml(answer, baseUrl),
         },
       }));
 
