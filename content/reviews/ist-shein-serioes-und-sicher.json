@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Wer SHEIN in Deutschland betreibt, woher das Unternehmen kommt, was SHEIN zu Ihren Daten sagt, wie die Rückgabe funktioniert, was der EU-Zoll von € 3 bedeutet, welches Verfahren und welche Mitteilung der EU-Behörden es zu SHEIN gibt und was Sie vor der Zahlung kontrollieren sollten.",
+  "description": "Wer SHEIN in Deutschland betreibt, woher das Unternehmen kommt, was SHEIN verkauft, was SHEIN zu Ihren Daten sagt, wie die Rückgabe funktioniert, was der EU-Zoll von € 3 bedeutet, welches Verfahren und welche Mitteilung der EU-Behörden es zu SHEIN gibt und was Sie vor der Zahlung kontrollieren sollten.",
   "metaDescription": "Ist SHEIN seriös und sicher? Betreiber in Deutschland, Herkunft, Daten, Rückgabefristen ab Erhalt, EU-Zoll von € 3, Verfahren und Mitteilung der EU-Behörden.",
   "publishedAt": "13. Oktober 2026",
   "publishedAtISO": "2026-10-13",
@@ -40,7 +40,7 @@
     {
       "heading": "Wer SHEIN betreibt und woher es kommt",
       "paragraphs": [
-        "SHEIN beschreibt sich als globalen Online-Händler für Mode und Lifestyle, der Kleidung der Marke SHEIN und Produkte aus einem weltweiten Netz von Lieferanten verkauft. Nach eigener Aussage produziert SHEIN bedarfsgesteuert („on demand“) in kleinen Chargen. Jeder Markt hat seine eigene Website, und die Datenschutzerklärung jeder Website nennt das verantwortliche Unternehmen.",
+        "SHEIN beschreibt sich als globalen Online-Händler für Mode und Lifestyle. Nach eigener Aussage produziert SHEIN bedarfsgesteuert („on demand“) in kleinen Chargen. Jeder Markt hat seine eigene Website, und die Datenschutzerklärung jeder Website nennt das verantwortliche Unternehmen.",
         "Laut der Datenschutzerklärung von de.shein.com (eingesehen am 12.10.2026) betreibt die Infinite Styles Services Co., Limited („ISSL“) die Website für Deutschland. Die Website der Unternehmensgruppe, sheingroup.com, gehört der Roadget Business Pte. Ltd. aus Singapur.",
         "Laut Financial Times ist SHEIN in China entstanden. Am 24. Februar 2026 sagte der Gründer, Xu Yangtian, bei einer Veranstaltung der Regierung der Provinz Guangdong, die Provinz sei der Ort, an dem die Wurzeln von SHEIN liegen, wie BBC und The Straits Times berichten. Alle drei Berichte halten fest, dass der Firmensitz in Singapur liegt."
       ],
@@ -51,6 +51,23 @@
         "objectFit": "contain",
         "aspectRatio": 2.8571
       }
+    },
+    {
+      "heading": "Was SHEIN verkauft",
+      "paragraphs": [
+        "SHEIN verkauft weit mehr als Kleidung. Ein Teil der Produkte stammt von der Marke SHEIN, ein Teil aus einem weltweiten Netz von Lieferanten. Am 13.10.2026 hatte das Menü von de.shein.com diese Bereiche:"
+      ],
+      "bullets": [
+        "Damen-, Herren- und Kinderkleidung, große Größen, Bademode, Unterwäsche und Nachtwäsche.",
+        "Schuhe, Taschen und Gepäck, Schmuck und Accessoires.",
+        "Beauty und Gesundheit, Baby und Mutterschaft, Sport und Outdoor.",
+        "Haus und Wohnen, Heimtextilien, Werkzeug und Heimwerken, Haushaltsgeräte sowie Büro- und Schulbedarf.",
+        "Mobiltelefone und Zubehör, Elektronik, Spielzeug und Spiele.",
+        "Haustierzubehör und Autozubehör."
+      ],
+      "postParagraphs": [
+        "Im Menü gibt es außerdem den Bereich „Schneller Versand“: Der Name verweist auf einen schnelleren Versand."
+      ]
     },
     {
       "heading": "Ist Bezahlen bei SHEIN sicher, und was gilt für Ihre Daten?",
@@ -113,6 +130,7 @@
         "Ist SHEIN seriös? Ja, SHEIN ist ein echter Onlineshop. Laut der Datenschutzerklärung von de.shein.com betreibt die Infinite Styles Services Co., Limited („ISSL“) die Website.",
         "Ist es sicher, bei SHEIN mit Karte zu bezahlen? SHEIN gibt an, dass die Systeme und Kontrollen des Unternehmens an den Standards ISO, NIST und PCI DSS ausgerichtet sind. Bezahlen Sie nur auf der offiziellen Website de.shein.com oder in der SHEIN-App aus dem offiziellen App-Store Ihres Smartphones.",
         "Aus welchem Land kommt SHEIN? Laut Financial Times ist SHEIN in China entstanden, und das Unternehmen hat seinen Sitz in Singapur. Im Februar 2026 sagte der Gründer, die Wurzeln des Unternehmens lägen in Guangdong, wie BBC und The Straits Times berichten.",
+        "Was verkauft SHEIN? Unter anderem Damen-, Herren- und Kinderkleidung, Schuhe, Taschen, Schmuck, Beauty-Produkte, Artikel für Haus und Wohnen, Elektronik, Spielzeug und Haustierzubehör. Ein Teil stammt von der Marke SHEIN, ein Teil von anderen Lieferanten.",
         "Wer betreibt SHEIN in Deutschland? Laut der Datenschutzerklärung von de.shein.com (eingesehen am 12.10.2026) betreibt die Infinite Styles Services Co., Limited („ISSL“) die Website. Die Website der Unternehmensgruppe, sheingroup.com, gehört der Roadget Business Pte. Ltd. aus Singapur.",
         "Wie lange kann ich eine Bestellung bei SHEIN zurückgeben? Das gesetzliche Widerrufsrecht gilt 14 Tage ab Erhalt der Ware. Nach der Geschäftspolitik von SHEIN können die meisten Artikel bis zu 30 Tage nach Erhalt zurückgegeben werden, einige Artikel wie Lingerie, Unterwäsche und Modeschmuck nur innerhalb der 14 Tage.",
         "Muss ich bei SHEIN Zoll zahlen? Seit dem 1. Juli 2026 erhebt die EU € 3 Zoll pro Produktkategorie auf Sendungen im Wert von bis zu € 150, die von außerhalb der EU direkt an Verbraucher geschickt werden (Verordnung (EU) 2026/382). Prüfen Sie die Steuern und Einfuhrabgaben an der Kasse, bevor Sie bezahlen.",

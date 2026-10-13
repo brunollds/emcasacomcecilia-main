@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "La legitimidad de SHEIN, qué empresa opera sus sitios de España y México, de qué país es, si es seguro pagar, el plazo de devolución, la aduana de la UE y qué revisar antes de pagar.",
+  "description": "La legitimidad de SHEIN, qué empresa opera sus sitios de España y México, de qué país es, qué vende, si es seguro pagar, el plazo de devolución, la aduana de la UE y qué revisar antes de pagar.",
   "metaDescription": "¿SHEIN es confiable y segura? Quién opera los sitios de España y México, de dónde es, el plazo de devolución, la aduana de la UE y qué revisar antes de pagar.",
   "publishedAt": "13 de octubre de 2026",
   "publishedAtISO": "2026-10-13",
@@ -41,7 +41,7 @@
     {
       "heading": "Quién opera SHEIN y de dónde es",
       "paragraphs": [
-        "SHEIN se describe como una minorista global en línea de moda y estilo de vida, que vende ropa de la marca SHEIN y productos de una red global de proveedores. SHEIN también dice que produce bajo demanda, en lotes pequeños.",
+        "SHEIN se describe como una minorista global en línea de moda y estilo de vida. También dice que produce bajo demanda, en lotes pequeños.",
         "Cada mercado tiene su propio sitio, y la política de privacidad de cada uno nombra a la empresa responsable. El sitio del grupo, sheingroup.com, es de Roadget Business Pte. Ltd., de Singapur.",
         "SHEIN nació en China, según el Financial Times. El 24 de febrero de 2026, en un evento del gobierno de Guangdong, el fundador, Xu Yangtian, dijo que la provincia es donde están las raíces de SHEIN, según la BBC y The Straits Times. Los tres reportajes dicen que la sede de la empresa está en Singapur."
       ],
@@ -77,6 +77,23 @@
           ]
         ]
       }
+    },
+    {
+      "heading": "Qué vende SHEIN",
+      "paragraphs": [
+        "SHEIN vende mucho más que ropa. Parte de los productos es de la marca SHEIN, y parte viene de una red global de proveedores. El 13 de octubre de 2026, los menús de los sitios de España y México tenían estas secciones:"
+      ],
+      "bullets": [
+        "Ropa de mujer, de hombre y de niños, talla grande, ropa interior y ropa para dormir.",
+        "Zapatos, bolsas y equipaje, bisutería y accesorios.",
+        "Belleza y salud, bebé y maternidad, deportes y aire libre.",
+        "Hogar, textiles para el hogar, herramientas y mejoras para el hogar, electrodomésticos y material escolar y de oficina.",
+        "Móviles y accesorios, electrónica, juguetes y juegos.",
+        "Productos para mascotas y accesorios para automóviles."
+      ],
+      "postParagraphs": [
+        "El sitio de España tiene además una sección llamada “Almacén UE”: el nombre se refiere a productos que están en un almacén de la Unión Europea."
+      ]
     },
     {
       "heading": "¿Es seguro pagar y qué hace SHEIN con tus datos?",
@@ -147,6 +164,7 @@
         "¿SHEIN es confiable? Sí. Es una tienda legítima, y el sitio de cada mercado tiene una empresa identificada detrás: Infinite Styles Services Co., Limited en España y “SHEIN”, con domicilio en la Ciudad de México, en México, según las políticas de privacidad.",
         "¿Es seguro pagar con tarjeta en SHEIN? SHEIN dice que sus sistemas y controles están alineados con los estándares ISO, NIST y PCI DSS, y que no vende datos de clientes. Compra solo en el sitio oficial o en la app.",
         "¿De qué país es SHEIN? SHEIN nació en China y tiene su sede en Singapur, según el Financial Times. En febrero de 2026, el fundador dijo que las raíces de la empresa están en Guangdong, según la BBC y The Straits Times.",
+        "¿Qué vende SHEIN? Ropa de mujer, de hombre y de niños, zapatos, bolsas, bisutería, belleza, hogar, electrónica, juguetes y productos para mascotas, entre otras cosas. Parte es de la marca SHEIN, y parte viene de otros proveedores.",
         "¿Quién opera SHEIN en España y en México? En España, Infinite Styles Services Co., Limited (“ISSL”). En México, “SHEIN”, con domicilio en Salamanca 87, Colonia Roma Norte, Ciudad de México. Para Argentina, Chile, Colombia, Perú y Ecuador, la política de privacidad de SHEIN Brasil cita a Fashion Choice Pte Ltd, de Singapur.",
         "¿Cuál es el plazo de devolución de SHEIN? En España, 14 días por ley desde la recepción, y la mayoría de los artículos hasta 30 días después de recibirlos según la política de SHEIN; lencería, ropa interior y bisutería solo dentro de los 14 días. En México, hasta 30 días desde la recepción. En Argentina, Chile, Colombia, Perú y Ecuador, revisa el plazo en el sitio de tu país.",
         "¿Hay aduana en los pedidos de SHEIN? En España, desde el 1 de julio de 2026, la UE cobra 3 € de derecho de aduana por categoría de producto en los pedidos de hasta 150 € enviados desde fuera de la UE directamente al consumidor. Esa regla no vale para México: revisa los impuestos de importación en el checkout antes de pagar.",
