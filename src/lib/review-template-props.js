@@ -17,16 +17,9 @@ import {
   getVideoPageUrl,
 } from '@/lib/video-pages';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
-import { isFaqHeading } from '@/lib/faqHeadings';
+import { getFaqItems, isFaqHeading } from '@/lib/faq';
 
 export { getYoutubeEmbedUrl };
-
-// Item do FAQ: a pergunta até o "?" ("？" em chinês e japonês) e a resposta logo depois.
-/** @param {string} bullet */
-export function parseFaqBullet(bullet) {
-  const match = bullet.match(/^([^\?\uFF1F]+[\?\uFF1F])\s*(.+)$/);
-  return match ? { question: match[1].trim(), answer: match[2].trim() } : null;
-}
 
 export function getRelatedReviews(review, reviewCorpus = publishedReviews) {
   const locale = resolveReviewLocale(review.locale);
@@ -173,30 +166,24 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
       : {}),
   };
 
-  const faqSection = review.contentSections?.find((s) => isFaqHeading(s.heading));
-
-  let faqJsonLd = null;
-  if (faqSection && faqSection.bullets) {
-    const mainEntity = faqSection.bullets
-      .map(parseFaqBullet)
-      .filter(Boolean)
-      .map(({ question, answer }) => ({
-        '@type': 'Question',
-        name: question,
-        acceptedAnswer: {
-          '@type': 'Answer',
-          text: answer,
-        },
-      }));
-
-    if (mainEntity.length > 0) {
-      faqJsonLd = {
+  // Toda seção com título de FAQ, como no acordeão, que mostra cada uma delas.
+  const faqItems = (review.contentSections ?? [])
+    .filter((section) => isFaqHeading(section.heading))
+    .flatMap((section) => getFaqItems(section.bullets));
+  const faqJsonLd = faqItems.length > 0
+    ? {
         '@context': 'https://schema.org',
         '@type': 'FAQPage',
-        mainEntity,
-      };
-    }
-  }
+        mainEntity: faqItems.map(({ question, answer }) => ({
+          '@type': 'Question',
+          name: question,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: answer,
+          },
+        })),
+      }
+    : null;
 
   return {
     review,
