@@ -5,7 +5,7 @@ modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
 fonte_tecnica: "00_Sistema/JOBS/Job-4-Conformacao-JSON.md (seção 3)"
-ultima_revisao: "2026-10-11"
+ultima_revisao: "2026-10-12"
 ---
 
 # Cluster multilíngue — SHEIN
@@ -33,12 +33,16 @@ e `/<locale>/coupons/shein`), servida por rota dinâmica com os textos de
 | Guia (código, campanhas, como usar) | localização editorial do PT | código e campanhas são da SHEIN Brasil |
 | Tabela de medidas | idem | medidas e numeração são as da SHEIN Brasil; não converter para outra numeração |
 | Haul de peças recebidas | família de 10, com as mesmas peças e fotos do PT | preço em reais, tamanho comprado e disponibilidade são da SHEIN Brasil |
+| Editorial e comparativo (confiança, X ou Y) | núcleo igual + bloco do mercado do idioma (decisão A do Bruno, 12/10/2026) | os fatos de mercado vêm só do site da SHEIN daquele mercado; nada do Brasil; o que não foi lido, o texto diz que não leu |
 
 ## Matriz atual
 
 | Chave | Fonte PT | Idiomas | Estado |
 |---|---|---:|---|
 | `shein-black-friday` | [[02_Artigos/black-friday-shein]] | 10/10 | publicado em 11/10/2026; a primeira família da SHEIN |
+| `shein-referral-code` | [[02_Artigos/codigo-de-indicacao-shein]] | 10/10 | pronto para deploy em 12/10/2026 (fase 4); as traduções não trazem o programa antigo nem o R$ 10 |
+| `shein-trust` | [[02_Artigos/shein-e-confiavel]] | 10/10 | pronto para deploy em 12/10/2026 (fase 4); núcleo + bloco de mercado, capa com o site de cada mercado |
+| `shein-vs-shopee-temu` | [[02_Artigos/shein-ou-shopee-temu]] | 10/10 | pronto para deploy em 12/10/2026 (fase 4); núcleo + bloco de mercado, com o concorrente de cada idioma |
 
 Cada família nova entra aqui com a chave, o slug da fonte em português e a data (Job 4,
 seção 3, item 9).

@@ -6,9 +6,11 @@ parceiro: "[[Dolce-Gusto]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de custo"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy (decisão do Bruno), depois da oferta nova da YesStyle; as imagens novas já estão no CDN"
+proxima_acao: "nenhuma"
+publicado_em: "2026-10-12"
+nota_publicacao: "Publicado no PR #67 em 12/10/2026 (decisão do Bruno; squash d2e028d, no ar às 22:56 UTC), com a capa e as 3 imagens do corpo no CDN."
 bloqueado_por: null
 score_autoridade: 81 # 0 a 100
 score_conversao: 75 # 0 a 100

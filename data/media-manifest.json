@@ -53639,6 +53639,2019 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+      "local_url": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 55942,
+      "sha256": "cc9a35158565466fe8514ba5f69517b846565aa7ab175ad1e31d6ab3f94d3bfd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "codigo-de-indicacao-shein-busca-capa.webp",
+      "storage_filename": "codigo-de-indicacao-shein-busca-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/code-de-parrainage-shein-ou-le-mettre.json",
+        "content/reviews/codice-invito-shein-dove-inserirlo.json",
+        "content/reviews/codigo-de-indicacao-shein.json",
+        "content/reviews/codigo-de-referido-shein-donde-ponerlo.json",
+        "content/reviews/shein-empfehlungscode-wo-eingeben.json",
+        "content/reviews/shein-referral-code-ja.json",
+        "content/reviews/shein-referral-code-ko.json",
+        "content/reviews/shein-referral-code-where-to-enter.json",
+        "content/reviews/shein-referral-code-zh-hans.json",
+        "content/reviews/shein-referral-code-zh-hant.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/code-de-parrainage-shein-ou-le-mettre.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codice-invito-shein-dove-inserirlo.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codigo-de-indicacao-shein.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codigo-de-referido-shein-donde-ponerlo.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-empfehlungscode-wo-eingeben.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-where-to-enter.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62773,
+          "column": 15,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62915,
+          "column": 15,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63049,
+          "column": 15,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63183,
+          "column": 15,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63317,
+          "column": 15,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63450,
+          "column": 15,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63583,
+          "column": 15,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63717,
+          "column": 15,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63851,
+          "column": 15,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63984,
+          "column": 15,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 427,
+          "column": 4,
+          "literal": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cc9a35158565466fe8514ba5f69517b846565aa7ab175ad1e31d6ab3f94d3bfd/codigo-de-indicacao-shein-busca-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cc9a35158565466fe8514ba5f69517b846565aa7ab175ad1e31d6ab3f94d3bfd/codigo-de-indicacao-shein-busca-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T23:47:38.765Z",
+      "verification_etag_or_digest": "cc9a35158565466fe8514ba5f69517b846565aa7ab175ad1e31d6ab3f94d3bfd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+      "local_url": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36290,
+      "sha256": "b742e84543075b5fcbae261f61145b529b299add69bfbc977e30de627727c4fe",
+      "width": 705,
+      "height": 930,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-busca-4cw5y-resultado.webp",
+      "storage_filename": "shein-busca-4cw5y-resultado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/code-de-parrainage-shein-ou-le-mettre.json",
+        "content/reviews/codice-invito-shein-dove-inserirlo.json",
+        "content/reviews/codigo-de-indicacao-shein.json",
+        "content/reviews/codigo-de-referido-shein-donde-ponerlo.json",
+        "content/reviews/shein-empfehlungscode-wo-eingeben.json",
+        "content/reviews/shein-referral-code-ja.json",
+        "content/reviews/shein-referral-code-ko.json",
+        "content/reviews/shein-referral-code-where-to-enter.json",
+        "content/reviews/shein-referral-code-zh-hans.json",
+        "content/reviews/shein-referral-code-zh-hant.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/code-de-parrainage-shein-ou-le-mettre.json",
+          "line": 67,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codice-invito-shein-dove-inserirlo.json",
+          "line": 66,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codigo-de-indicacao-shein.json",
+          "line": 65,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codigo-de-referido-shein-donde-ponerlo.json",
+          "line": 67,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-empfehlungscode-wo-eingeben.json",
+          "line": 66,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-ja.json",
+          "line": 67,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-ko.json",
+          "line": 67,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-where-to-enter.json",
+          "line": 67,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-zh-hans.json",
+          "line": 66,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-zh-hant.json",
+          "line": 66,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62814,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62957,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63091,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63225,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63358,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63491,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63625,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63759,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63892,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64025,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 428,
+          "column": 4,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b742e84543075b5fcbae261f61145b529b299add69bfbc977e30de627727c4fe/shein-busca-4cw5y-resultado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b742e84543075b5fcbae261f61145b529b299add69bfbc977e30de627727c4fe/shein-busca-4cw5y-resultado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T23:47:38.766Z",
+      "verification_etag_or_digest": "b742e84543075b5fcbae261f61145b529b299add69bfbc977e30de627727c4fe",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-busca-4cw5y.webp",
+      "local_url": "/images/reviews/shein/shein-busca-4cw5y.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27718,
+      "sha256": "9f100473530a112dab5838eeacbd5a9c37fb171c5721c6eb368df5ff0c1754a7",
+      "width": 1060,
+      "height": 720,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-busca-4cw5y.webp",
+      "storage_filename": "shein-busca-4cw5y.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/code-de-parrainage-shein-ou-le-mettre.json",
+        "content/reviews/codice-invito-shein-dove-inserirlo.json",
+        "content/reviews/codigo-de-indicacao-shein.json",
+        "content/reviews/codigo-de-referido-shein-donde-ponerlo.json",
+        "content/reviews/is-shein-legit-and-safe.json",
+        "content/reviews/ist-shein-serioes-und-sicher.json",
+        "content/reviews/shein-e-affidabile-e-sicuro.json",
+        "content/reviews/shein-e-confiavel.json",
+        "content/reviews/shein-empfehlungscode-wo-eingeben.json",
+        "content/reviews/shein-es-confiable-y-seguro.json",
+        "content/reviews/shein-est-il-fiable-et-sur.json",
+        "content/reviews/shein-referral-code-ja.json",
+        "content/reviews/shein-referral-code-ko.json",
+        "content/reviews/shein-referral-code-where-to-enter.json",
+        "content/reviews/shein-referral-code-zh-hans.json",
+        "content/reviews/shein-referral-code-zh-hant.json",
+        "content/reviews/shein-trust-guide-ja.json",
+        "content/reviews/shein-trust-guide-ko.json",
+        "content/reviews/shein-trust-guide-zh-hans.json",
+        "content/reviews/shein-trust-guide-zh-hant.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/code-de-parrainage-shein-ou-le-mettre.json",
+          "line": 60,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codice-invito-shein-dove-inserirlo.json",
+          "line": 59,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codigo-de-indicacao-shein.json",
+          "line": 58,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codigo-de-referido-shein-donde-ponerlo.json",
+          "line": 60,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/is-shein-legit-and-safe.json",
+          "line": 112,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/ist-shein-serioes-und-sicher.json",
+          "line": 93,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-e-affidabile-e-sicuro.json",
+          "line": 93,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-e-confiavel.json",
+          "line": 145,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-empfehlungscode-wo-eingeben.json",
+          "line": 59,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-es-confiable-y-seguro.json",
+          "line": 127,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-est-il-fiable-et-sur.json",
+          "line": 95,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-ja.json",
+          "line": 60,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-ko.json",
+          "line": 60,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-where-to-enter.json",
+          "line": 60,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-zh-hans.json",
+          "line": 59,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-zh-hant.json",
+          "line": 59,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-trust-guide-ja.json",
+          "line": 86,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-trust-guide-ko.json",
+          "line": 85,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-trust-guide-zh-hans.json",
+          "line": 86,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-trust-guide-zh-hant.json",
+          "line": 86,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62807,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62950,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63084,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63218,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63351,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63484,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63618,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63752,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63885,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64018,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64237,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64405,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64585,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64734,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64881,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 65028,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 65167,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 65306,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 65446,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 65585,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 429,
+          "column": 4,
+          "literal": "/images/reviews/shein/shein-busca-4cw5y.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9f100473530a112dab5838eeacbd5a9c37fb171c5721c6eb368df5ff0c1754a7/shein-busca-4cw5y.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9f100473530a112dab5838eeacbd5a9c37fb171c5721c6eb368df5ff0c1754a7/shein-busca-4cw5y.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T23:47:38.766Z",
+      "verification_etag_or_digest": "9f100473530a112dab5838eeacbd5a9c37fb171c5721c6eb368df5ff0c1754a7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-busca-site-movel-antes.webp",
+      "local_url": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29272,
+      "sha256": "4f93d560d5bebef15ee44fd68c86ea04c41b34f125c092471ccd59fcb322c78d",
+      "width": 1060,
+      "height": 720,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-busca-site-movel-antes.webp",
+      "storage_filename": "shein-busca-site-movel-antes.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/code-de-parrainage-shein-ou-le-mettre.json",
+        "content/reviews/codice-invito-shein-dove-inserirlo.json",
+        "content/reviews/codigo-de-indicacao-shein.json",
+        "content/reviews/codigo-de-referido-shein-donde-ponerlo.json",
+        "content/reviews/shein-empfehlungscode-wo-eingeben.json",
+        "content/reviews/shein-referral-code-ja.json",
+        "content/reviews/shein-referral-code-ko.json",
+        "content/reviews/shein-referral-code-where-to-enter.json",
+        "content/reviews/shein-referral-code-zh-hans.json",
+        "content/reviews/shein-referral-code-zh-hant.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/code-de-parrainage-shein-ou-le-mettre.json",
+          "line": 53,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codice-invito-shein-dove-inserirlo.json",
+          "line": 52,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codigo-de-indicacao-shein.json",
+          "line": 51,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/codigo-de-referido-shein-donde-ponerlo.json",
+          "line": 53,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-empfehlungscode-wo-eingeben.json",
+          "line": 52,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-ja.json",
+          "line": 53,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-ko.json",
+          "line": 53,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-where-to-enter.json",
+          "line": 53,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-zh-hans.json",
+          "line": 52,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-referral-code-zh-hant.json",
+          "line": 52,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62800,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62943,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63077,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63211,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63344,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63477,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63611,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63745,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 63878,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64011,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 430,
+          "column": 4,
+          "literal": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4f93d560d5bebef15ee44fd68c86ea04c41b34f125c092471ccd59fcb322c78d/shein-busca-site-movel-antes.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4f93d560d5bebef15ee44fd68c86ea04c41b34f125c092471ccd59fcb322c78d/shein-busca-site-movel-antes.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T23:47:38.766Z",
+      "verification_etag_or_digest": "4f93d560d5bebef15ee44fd68c86ea04c41b34f125c092471ccd59fcb322c78d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-home-br-2026-10-12.webp",
+      "local_url": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 115196,
+      "sha256": "25ddbc926ff89837ec5418b8b54a0bcbbd40ebf4b642c3a6551a45d4d15f730f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-home-br-2026-10-12.webp",
+      "storage_filename": "shein-home-br-2026-10-12.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-e-confiavel.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-e-confiavel.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64116,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 431,
+          "column": 4,
+          "literal": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/25ddbc926ff89837ec5418b8b54a0bcbbd40ebf4b642c3a6551a45d4d15f730f/shein-home-br-2026-10-12.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/25ddbc926ff89837ec5418b8b54a0bcbbd40ebf4b642c3a6551a45d4d15f730f/shein-home-br-2026-10-12.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T23:47:38.766Z",
+      "verification_etag_or_digest": "25ddbc926ff89837ec5418b8b54a0bcbbd40ebf4b642c3a6551a45d4d15f730f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-home-de-2026-10-12.webp",
+      "local_url": "/images/reviews/shein/shein-home-de-2026-10-12.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 124458,
+      "sha256": "6f287cd20de68eba3d9f25e12b9e8af9d820b04e35628be3696cf444dc528867",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-home-de-2026-10-12.webp",
+      "storage_filename": "shein-home-de-2026-10-12.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/ist-shein-serioes-und-sicher.json",
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/ist-shein-serioes-und-sicher.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-home-de-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 46,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-home-de-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64813,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-home-de-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 66449,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-home-de-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 432,
+          "column": 4,
+          "literal": "/images/reviews/shein/shein-home-de-2026-10-12.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6f287cd20de68eba3d9f25e12b9e8af9d820b04e35628be3696cf444dc528867/shein-home-de-2026-10-12.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6f287cd20de68eba3d9f25e12b9e8af9d820b04e35628be3696cf444dc528867/shein-home-de-2026-10-12.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T23:47:38.766Z",
+      "verification_etag_or_digest": "6f287cd20de68eba3d9f25e12b9e8af9d820b04e35628be3696cf444dc528867",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-home-es-2026-10-12.webp",
+      "local_url": "/images/reviews/shein/shein-home-es-2026-10-12.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 125282,
+      "sha256": "3cb3b330ffbfca737544b6924171006c9876e8a9bd658769bb458546b337a0a0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-home-es-2026-10-12.webp",
+      "storage_filename": "shein-home-es-2026-10-12.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-es-confiable-y-seguro.json",
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-es-confiable-y-seguro.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-home-es-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 45,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-home-es-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64483,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-home-es-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 66116,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-home-es-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 433,
+          "column": 4,
+          "literal": "/images/reviews/shein/shein-home-es-2026-10-12.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3cb3b330ffbfca737544b6924171006c9876e8a9bd658769bb458546b337a0a0/shein-home-es-2026-10-12.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3cb3b330ffbfca737544b6924171006c9876e8a9bd658769bb458546b337a0a0/shein-home-es-2026-10-12.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T23:47:38.766Z",
+      "verification_etag_or_digest": "3cb3b330ffbfca737544b6924171006c9876e8a9bd658769bb458546b337a0a0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-home-fr-2026-10-12.webp",
+      "local_url": "/images/reviews/shein/shein-home-fr-2026-10-12.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 123186,
+      "sha256": "4913118358e1a0b9718fe0475f0cfc03f755f81da5a0858e3146a1dfbb90effe",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-home-fr-2026-10-12.webp",
+      "storage_filename": "shein-home-fr-2026-10-12.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-est-il-fiable-et-sur.json",
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-est-il-fiable-et-sur.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-home-fr-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 45,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-home-fr-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64664,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-home-fr-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 66284,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-home-fr-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 434,
+          "column": 4,
+          "literal": "/images/reviews/shein/shein-home-fr-2026-10-12.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4913118358e1a0b9718fe0475f0cfc03f755f81da5a0858e3146a1dfbb90effe/shein-home-fr-2026-10-12.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4913118358e1a0b9718fe0475f0cfc03f755f81da5a0858e3146a1dfbb90effe/shein-home-fr-2026-10-12.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T23:47:38.766Z",
+      "verification_etag_or_digest": "4913118358e1a0b9718fe0475f0cfc03f755f81da5a0858e3146a1dfbb90effe",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-home-it-2026-10-12.webp",
+      "local_url": "/images/reviews/shein/shein-home-it-2026-10-12.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 123740,
+      "sha256": "03cb9e5a5d6e08d5bf1bb873b8972ac1916511530e21c85025eecef16036752a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-home-it-2026-10-12.webp",
+      "storage_filename": "shein-home-it-2026-10-12.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-e-affidabile-e-sicuro.json",
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-e-affidabile-e-sicuro.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-home-it-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 46,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-home-it-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64960,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-home-it-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 66614,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-home-it-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 435,
+          "column": 4,
+          "literal": "/images/reviews/shein/shein-home-it-2026-10-12.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/03cb9e5a5d6e08d5bf1bb873b8972ac1916511530e21c85025eecef16036752a/shein-home-it-2026-10-12.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/03cb9e5a5d6e08d5bf1bb873b8972ac1916511530e21c85025eecef16036752a/shein-home-it-2026-10-12.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T23:47:38.766Z",
+      "verification_etag_or_digest": "03cb9e5a5d6e08d5bf1bb873b8972ac1916511530e21c85025eecef16036752a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-home-jp-2026-10-12.webp",
+      "local_url": "/images/reviews/shein/shein-home-jp-2026-10-12.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 94374,
+      "sha256": "5561f0452c97e714bd5db62df4f7961934179327e7061507c289a27a0a9a0393",
+      "width": 1600,
+      "height": 860,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-home-jp-2026-10-12.webp",
+      "storage_filename": "shein-home-jp-2026-10-12.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-trust-guide-ja.json",
+        "content/reviews/shein-vs-temu-ja.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-trust-guide-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-home-jp-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 45,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-home-jp-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 65245,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-home-jp-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 66942,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-home-jp-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 436,
+          "column": 4,
+          "literal": "/images/reviews/shein/shein-home-jp-2026-10-12.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5561f0452c97e714bd5db62df4f7961934179327e7061507c289a27a0a9a0393/shein-home-jp-2026-10-12.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5561f0452c97e714bd5db62df4f7961934179327e7061507c289a27a0a9a0393/shein-home-jp-2026-10-12.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T23:47:38.766Z",
+      "verification_etag_or_digest": "5561f0452c97e714bd5db62df4f7961934179327e7061507c289a27a0a9a0393",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-home-kr-2026-10-12.webp",
+      "local_url": "/images/reviews/shein/shein-home-kr-2026-10-12.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 97920,
+      "sha256": "26d159e977c2e816d6be5a59aa48ecd97275ec64a3aded2849ba2668b2e10adc",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-home-kr-2026-10-12.webp",
+      "storage_filename": "shein-home-kr-2026-10-12.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-trust-guide-ko.json",
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-trust-guide-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-home-kr-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 46,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-home-kr-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 65107,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-home-kr-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 66779,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-home-kr-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 437,
+          "column": 4,
+          "literal": "/images/reviews/shein/shein-home-kr-2026-10-12.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/26d159e977c2e816d6be5a59aa48ecd97275ec64a3aded2849ba2668b2e10adc/shein-home-kr-2026-10-12.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/26d159e977c2e816d6be5a59aa48ecd97275ec64a3aded2849ba2668b2e10adc/shein-home-kr-2026-10-12.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T23:47:38.766Z",
+      "verification_etag_or_digest": "26d159e977c2e816d6be5a59aa48ecd97275ec64a3aded2849ba2668b2e10adc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-home-sg-2026-10-12.webp",
+      "local_url": "/images/reviews/shein/shein-home-sg-2026-10-12.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 102374,
+      "sha256": "02e850b7c47084572952de307330603e949f90418d38902867716073fe7d1a83",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-home-sg-2026-10-12.webp",
+      "storage_filename": "shein-home-sg-2026-10-12.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-trust-guide-zh-hans.json",
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-trust-guide-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-home-sg-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 45,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-home-sg-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 65524,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-home-sg-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 67267,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-home-sg-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 438,
+          "column": 4,
+          "literal": "/images/reviews/shein/shein-home-sg-2026-10-12.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/02e850b7c47084572952de307330603e949f90418d38902867716073fe7d1a83/shein-home-sg-2026-10-12.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/02e850b7c47084572952de307330603e949f90418d38902867716073fe7d1a83/shein-home-sg-2026-10-12.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T23:47:38.766Z",
+      "verification_etag_or_digest": "02e850b7c47084572952de307330603e949f90418d38902867716073fe7d1a83",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-home-tw-2026-10-12.webp",
+      "local_url": "/images/reviews/shein/shein-home-tw-2026-10-12.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 87424,
+      "sha256": "ac5992fc149dc6cde3bf9ef38d0abb61a578ab2b62d6d3aefc6af4780b5f29db",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-home-tw-2026-10-12.webp",
+      "storage_filename": "shein-home-tw-2026-10-12.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-trust-guide-zh-hant.json",
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-trust-guide-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-home-tw-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 45,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-home-tw-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 65385,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-home-tw-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 67108,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-home-tw-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 439,
+          "column": 4,
+          "literal": "/images/reviews/shein/shein-home-tw-2026-10-12.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ac5992fc149dc6cde3bf9ef38d0abb61a578ab2b62d6d3aefc6af4780b5f29db/shein-home-tw-2026-10-12.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ac5992fc149dc6cde3bf9ef38d0abb61a578ab2b62d6d3aefc6af4780b5f29db/shein-home-tw-2026-10-12.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T23:47:38.766Z",
+      "verification_etag_or_digest": "ac5992fc149dc6cde3bf9ef38d0abb61a578ab2b62d6d3aefc6af4780b5f29db",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-home-uk-2026-10-12.webp",
+      "local_url": "/images/reviews/shein/shein-home-uk-2026-10-12.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 103044,
+      "sha256": "d6bca13997de8468d429edcc3b430c97822d6aa4461dec5a3eb4a500ee5350b1",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-home-uk-2026-10-12.webp",
+      "storage_filename": "shein-home-uk-2026-10-12.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-shein-legit-and-safe.json",
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-shein-legit-and-safe.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-home-uk-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 45,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-home-uk-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64318,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-home-uk-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 65948,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-home-uk-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 440,
+          "column": 4,
+          "literal": "/images/reviews/shein/shein-home-uk-2026-10-12.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d6bca13997de8468d429edcc3b430c97822d6aa4461dec5a3eb4a500ee5350b1/shein-home-uk-2026-10-12.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d6bca13997de8468d429edcc3b430c97822d6aa4461dec5a3eb4a500ee5350b1/shein-home-uk-2026-10-12.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T23:47:38.766Z",
+      "verification_etag_or_digest": "d6bca13997de8468d429edcc3b430c97822d6aa4461dec5a3eb4a500ee5350b1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+      "local_url": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20080,
+      "sha256": "49fa580db9368271e9da59a935b79b76b1864bc787478242b3dc6c32b3017748",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-shopee-temu-aliexpress-criterios.webp",
+      "storage_filename": "shein-shopee-temu-aliexpress-criterios.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "content/reviews/shein-ou-shopee-temu.json",
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "content/reviews/shein-vs-temu-ja.json",
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 65662,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 65928,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 66096,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 66264,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 66428,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 66593,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 66758,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 66922,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 67088,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 67247,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 441,
+          "column": 4,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/49fa580db9368271e9da59a935b79b76b1864bc787478242b3dc6c32b3017748/shein-shopee-temu-aliexpress-criterios.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/49fa580db9368271e9da59a935b79b76b1864bc787478242b3dc6c32b3017748/shein-shopee-temu-aliexpress-criterios.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T23:47:38.766Z",
+      "verification_etag_or_digest": "49fa580db9368271e9da59a935b79b76b1864bc787478242b3dc6c32b3017748",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-shopee-temu-prazo-devolucao.webp",
+      "local_url": "/images/reviews/shein/shein-shopee-temu-prazo-devolucao.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25058,
+      "sha256": "3db9b26f8cce0a0d344ffc607ded994bbf441ef7d09605a59d9b77b262b33090",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-shopee-temu-prazo-devolucao.webp",
+      "storage_filename": "shein-shopee-temu-prazo-devolucao.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-ou-shopee-temu.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 111,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-shopee-temu-prazo-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 65749,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-shopee-temu-prazo-devolucao.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 442,
+          "column": 4,
+          "literal": "/images/reviews/shein/shein-shopee-temu-prazo-devolucao.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3db9b26f8cce0a0d344ffc607ded994bbf441ef7d09605a59d9b77b262b33090/shein-shopee-temu-prazo-devolucao.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3db9b26f8cce0a0d344ffc607ded994bbf441ef7d09605a59d9b77b262b33090/shein-shopee-temu-prazo-devolucao.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T23:47:38.766Z",
+      "verification_etag_or_digest": "3db9b26f8cce0a0d344ffc607ded994bbf441ef7d09605a59d9b77b262b33090",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+      "local_url": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 110574,
+      "sha256": "37c9c5d3d6302e45830fb22a2f67b7ccd0400bc0afff1eef674b7bb301ad07bb",
+      "width": 1600,
+      "height": 560,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-sites-por-pais-2026-10-12.webp",
+      "storage_filename": "shein-sites-por-pais-2026-10-12.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-shein-legit-and-safe.json",
+        "content/reviews/ist-shein-serioes-und-sicher.json",
+        "content/reviews/shein-e-affidabile-e-sicuro.json",
+        "content/reviews/shein-e-confiavel.json",
+        "content/reviews/shein-es-confiable-y-seguro.json",
+        "content/reviews/shein-est-il-fiable-et-sur.json",
+        "content/reviews/shein-trust-guide-ja.json",
+        "content/reviews/shein-trust-guide-ko.json",
+        "content/reviews/shein-trust-guide-zh-hans.json",
+        "content/reviews/shein-trust-guide-zh-hant.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-shein-legit-and-safe.json",
+          "line": 48,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/ist-shein-serioes-und-sicher.json",
+          "line": 48,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-e-affidabile-e-sicuro.json",
+          "line": 48,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-e-confiavel.json",
+          "line": 47,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-es-confiable-y-seguro.json",
+          "line": 49,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-est-il-fiable-et-sur.json",
+          "line": 49,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-trust-guide-ja.json",
+          "line": 47,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-trust-guide-ko.json",
+          "line": 47,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-trust-guide-zh-hans.json",
+          "line": 47,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-trust-guide-zh-hant.json",
+          "line": 47,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64139,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64341,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64507,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64688,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64836,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 64983,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 65129,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 65267,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 65407,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 65546,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 443,
+          "column": 4,
+          "literal": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/37c9c5d3d6302e45830fb22a2f67b7ccd0400bc0afff1eef674b7bb301ad07bb/shein-sites-por-pais-2026-10-12.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/37c9c5d3d6302e45830fb22a2f67b7ccd0400bc0afff1eef674b7bb301ad07bb/shein-sites-por-pais-2026-10-12.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-12T23:47:38.766Z",
+      "verification_etag_or_digest": "37c9c5d3d6302e45830fb22a2f67b7ccd0400bc0afff1eef674b7bb301ad07bb",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/sofa-damie-modular-hero.webp",
       "local_url": "/images/reviews/sofa-damie-modular-hero.webp",
       "media_kind": "image",

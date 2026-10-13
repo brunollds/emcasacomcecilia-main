@@ -6,9 +6,9 @@ parceiro: "[[SHEIN]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir o PT (Job 2), registrando as duas fontes de imprensa com porta-voz para o país de origem (decisão B de 12/10); depois o Job 3 com o bloco de mercado de cada idioma, conferido linha a linha contra a seção 6; a capa é o print do site (seção 5)"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy (decisão do Bruno), depois do PR da oferta nova da YesStyle; as 17 imagens novas da fase 4 já estão no CDN"
 bloqueado_por: null
 score_autoridade: 75
 score_conversao: 80
@@ -182,7 +182,7 @@ concorrente ("é mais seguro que a Temu?") não tem resposta aqui: vai para o co
 | O problema mais citado nas reclamações é "Produto não recebido" (36,68%); a categoria mais citada é Moda Feminina (20,19%) | Dado de terceiro | Mesma página, "Principais problemas comentados" (reclamações "de até 3 anos") | Bloco "Problemas" | [x] Sim, com o aviso de que o recorte é de até 3 anos, diferente da janela de 6 meses |
 | A SHEIN se descreve como "varejista global online de moda e lifestyle" que vende roupas da marca SHEIN e produtos de uma rede global de fornecedores; diz ter sido fundada em 2012 | Declaração da marca | `br.shein.com/About-Us-a-117.html` (atualizada em 03/08/2026) | "Sobre nós" / "Nossa história" | [x] Sim, atribuído à SHEIN. O texto que a empresa enviou ao Reclame Aqui diz "Fundada em 2008": decisão do Bruno (12/10) é **atribuir**, não escolher um ano: "a SHEIN diz 2012 no site do Brasil; o texto dela no Reclame Aqui diz 2008" |
 | O site global (`sheingroup.com`) é de propriedade e operado pela Roadget Business Pte. Ltd., 12 Marina Boulevard, Singapura; os termos seguem a lei de Singapura | Fato oficial | `sheingroup.com/privacy-policy` (§ "The Site is owned and operated by…") e `sheingroup.com/terms-conditions` (cláusulas 9.2.1 e 10.5) | Texto | [x] Sim, dito como "o site do grupo" (a empresa que vende no Brasil é a In Glow, linha acima) |
-| A SHEIN diz que os dados podem ser tratados fora do país onde o cliente mora, "including to the United States, China and/or Singapore"; no Brasil, que os dados do pedido vão ao país do vendedor | Fato oficial | `sheingroup.com/privacy-policy` (§ transferência); `br.shein.com/Privacy-Security-Policy-a-282.html` (§ 9) | Texto | [x] Sim (responde "individual data/China" nas versões ja, de, fr) |
+| A SHEIN diz que os dados podem ser tratados fora do país onde o cliente mora, "including to the United States, China and/or Singapore"; no Brasil, que os dados do pedido vão ao país do vendedor | Fato oficial | `sheingroup.com/privacy-policy` (§ transferência); `br.shein.com/Privacy-Security-Policy-a-282.html` (§ 9) | Texto | [x] Só a parte do Brasil (Job 3, 12/10/2026): a política do sheingroup.com vale para quem visita aquele site, não para quem compra, e saiu do texto. As traduções mandam ler a seção de transferência internacional da política do mercado, sem dizer para onde os dados vão. |
 | A SHEIN diz seguir padrões ISO, NIST e PCI DSS e não vender dados de clientes | Declaração da marca | `sheingroup.com/governance` | "Data Security and Privacy" | [x] Sim, só como "a SHEIN afirma"; sem auditoria independente à vista |
 | A SHEIN "não coleta o número do seu cartão" quando se paga com cartão internacional | Fato oficial | `br.shein.com/Payment-Method-a-278.html` (05/06/2026), item 5 | Texto | [x] Sim, restrito ao item de cartão internacional |
 | Formas de pagamento: Pix, cartão brasileiro (até 6x), boleto (3 dias), cartão virtual e internacional, PayPal e Pagaleve | Fato oficial | `br.shein.com/Payment-Method-a-278.html` | Lista de 6 opções (a página diz "5" e lista 6) | [x] Sim; o texto não repete a contagem da página |
@@ -192,7 +192,7 @@ concorrente ("é mais seguro que a Temu?") não tem resposta aqui: vai para o co
 | Devolução em 20 dias; primeira devolução de cada pedido grátis, depois R$ 45; itens "não devolvíveis" só em 7 dias | Fato oficial | `br.shein.com/Return-Policy-a-281.html` (16/09/2026) | Itens 1, 2 e 4 | [x] Sim, em uma frase; o detalhe fica no Black Friday |
 | Imposto: ICMS de 17% a 20% conforme o estado e imposto de importação zero até US$ 50 (desde 13/05/2026); Envio Nacional não paga imposto de importação | Fato oficial | `br.shein.com/tax-policy-a-3476.html` (23/05/2026); Lei 15.502/2026 | Tabela da política | [x] Sim, em uma frase; "veja a tabela no guia de Black Friday" (não repetir a tabela) |
 | O 4CW5Y é código de indicação da Cecília, pesquisado no app; condições na conta | Condição comercial | `referral` do cupom `shein` em `couponsData.ts` (`verifiedAt` 2026-09-01) | — | [x] Sim, sem prometer benefício. Nenhum código de campanha da página da loja entra |
-| **"A SHEIN é chinesa"** | Fato histórico | Nenhuma página oficial lida diz o país de origem: a "Sobre Nós" dá 2012 e nenhuma cidade; o Reclame Aqui traz o texto "2008" da empresa | — | [ ] **Não, até o redator (Job 2) registrar aqui as duas fontes de imprensa que citam um porta-voz da empresa, cada uma com veículo, data e a fala.** Decisão do Bruno (12/10): duas fontes de imprensa com porta-voz bastam (o mesmo precedente do calendário da Black Friday). Com as duas registradas, a resposta é **uma frase, atribuída** ("segundo [veículo] e [veículo], citando porta-voz da empresa…"); a linha passa a "Sim" só então. Até lá, o texto diz o que a SHEIN publica (operadoras em Singapura e no Brasil) |
+| **"A SHEIN é chinesa"** | Fato histórico | Nenhuma página oficial lida diz o país de origem: a "Sobre Nós" dá 2012 e nenhuma cidade; o Reclame Aqui traz o texto "2008" da empresa | — | [x] **Sim, atribuído fato a fato (Job 2, 12/10/2026; o Bruno aceitou o fundador no lugar do porta-voz em 12/10).** (1) BBC, 25/02/2026, reproduzida em `capitalfm.africa/sheins-elusive-boss-hails-chinese-roots-in-rare-public-appearance/`: Xu Yangtian, fundador, falou na terça-feira (24/02) num evento do governo de Guangdong; a SHEIN vai "remain firmly rooted in Guangdong"; a sede foi para Singapura. Não diz onde a empresa nasceu. (2) The Straits Times, Joyce ZK Lim, 26/02/2026: "Guangdong is where Shein's roots are, and is where our striving began"; a sede foi para Singapura (o jornal diz 2021). URL não registrada: o site bloqueia a busca automática. (3) Financial Times, William Langley, 25/02/2026, republicado pelo Milenio (`milenio.com/negocios/financial-times/fundador-shein-sale-elogiar-raices-chinas`): "La compañía se fundó en la ciudad de Nanjing, en el este de China"; sede em Singapura "desde 2022". O texto: "nasceu na China, segundo o Financial Times"; a fala sobre Guangdong segundo a BBC e o The Straits Times; a sede em Singapura nas três, sem ano (as fontes divergem). **Registro anterior:** Decisão do Bruno (12/10): duas fontes de imprensa com porta-voz bastam (o mesmo precedente do calendário da Black Friday). Com as duas registradas, a resposta é **uma frase, atribuída** ("segundo [veículo] e [veículo], citando porta-voz da empresa…"); a linha passa a "Sim" só então. Até lá, o texto diz o que a SHEIN publica (operadoras em Singapura e no Brasil) |
 | CNPJ e situação cadastral da In Glow Brasil | Registro público | Receita Federal / BrasilAPI (como no `insider-store-e-confiavel`) | — | [ ] **Não até consultar**: o número do CNPJ não aparece nas páginas lidas (pendência, seção 10) |
 | "Por que é barata" (produção sob demanda, lotes pequenos) | Declaração da marca | `sheingroup.com/our-group` ("On-Demand Fashion") | Texto | [x] Sim, atribuído à SHEIN, uma frase ("a SHEIN diz…"); não afirmamos que explica o preço |
 | "Produtos falsificados / originais" | Declaração da marca | `sheingroup.com/governance` ("Intellectual Property", "Product Safety") | Texto | [x] Sim, só o que a SHEIN afirma que faz (checagem de IP e testes por laboratórios terceirizados), atribuído; **sem** dizer que o produto é "original" |
@@ -380,3 +380,35 @@ coisa?". "Por que é barata?" fica numa frase atribuída à SHEIN no corpo, não
 
 **Leitura por nativo:** nenhuma versão passou por pessoa do idioma (como no Black Friday); a releitura é a do
 item 10 do Job 4, com o conferidor da família no scratchpad.
+
+## Redação
+Redigido em 12/10/2026 (Job 2: Claude), revisado no Job 3 por outro agente e conformado no Job 4. Pronto para deploy.
+
+**PT (`shein-e-confiavel`, id 375, `type` Editorial):** resposta rápida; quem opera a SHEIN e de que país ela é; o Reclame Aqui (tabela da janela de 01/04 a 30/09/2026, consultada em 12/10/2026, com a data visível); pagamento e dados; entrega; taxa, imposto e devolução (link para o guia de Black Friday); antes de pagar; parceria e código de indicação (imagem da busca, links para `/cupons/shein` e o guia do código); FAQ com 10 itens.
+
+**Job 3 (12/10/2026), aprovado com ajustes, todos aplicados:**
+- País de origem atribuído fato a fato: "nasceu na China" ao Financial Times; a fala do fundador sobre Guangdong à BBC e ao The Straits Times; a sede em Singapura às três. O Bruno aceitou o fundador no lugar do porta-voz (decisão B, 12/10). Fontes na linha "A SHEIN é chinesa" da matriz.
+- Dados: a cláusula do sheingroup.com vale só para quem visita aquele site e saiu do texto; fica a da SHEIN Brasil (pedido de vendedor no exterior). ISO, NIST e PCI DSS como "alinhados".
+- Resposta rápida: a reclamação mais comum com o recorte de três anos do Reclame Aqui; o prazo de entrega "na página do pedido".
+- Devolução: o grátis é o frete da primeira devolução de cada pedido. O FAQ da taxa termina no guia de Black Friday.
+- "Sobre o preço" saiu da frase do sob demanda (a matriz não liga o sob demanda ao preço).
+- Montagem dos dez mercados com `aspectRatio` 2.8571; o rótulo de Taiwan é `shein.tw`.
+
+**Traduções (Job 4, decisão A: núcleo + bloco de mercado):** ids 376 a 384, cada uma com a capa do site do próprio mercado (decisão do Bruno: um print por país) e as duas imagens do corpo do PT. Mercados: en EUA e Reino Unido; es Espanha, México e a linha dos 5 mercados latino-americanos; fr, de e it UE, com a alfândega de € 3 e a seção da Comissão Europeia (DSA e CPC, sem decisão); ko Coreia do Sul; ja Japão, com a regra de ¥ 10.000 da Alfândega; zh-hant Taiwan; zh-hans Singapura (só a empresa; o prazo de devolução não foi lido).
+
+**Releitura (item 10 do Job 4), 12/10/2026, por outro agente:**
+- en: "4CW5Y" sem artigo; a frase do imposto virou orientação ("check at checkout whether it is included in the total").
+- es: título neutro da seção da UE ("Los procedimientos de la Comisión Europea"); "licenciante de Roadget" (a política diz licenciadora); alfândega do México como orientação; "4CW5Y" sem artigo.
+- fr: título neutro da seção da UE ("Les procédures de la Commission européenne"); "délai de rétractation légal" no lugar de "par la loi"; "barre de recherche"; título real do comparativo nos relacionados.
+- de: título "Verfahren und Mitteilung der EU-Behörden"; os termos do comunicado da Comissão em alemão ("eingeleitet", "süchtig machendes Design", "falsche Rabattaktionen"); "im Wert von bis zu € 150"; "Fake-Shop", "App-Store", "Suchleiste".
+- it: título "Procedimento e notifica delle autorità UE"; "sconti fittizi" e "non pregiudica l'esito" (termos da Comissão); "di valore fino a € 150"; o código "digitato nella barra di ricerca".
+- ko: "어느 나라 회사인지"; o título da seção 4 sem prometer regra de imposto; a frase do imposto como orientação; o 4CW5Y como "Cecília의 SHEIN 브라질 추천 코드".
+- ja: a regra da Alfândega reescrita pela Customs Answer 1006 (lista "主なもの", com botas de esqui e calçado de sola de couro; fonte e data no texto); "公式アプリストア".
+- zh-hant e zh-hans: escrita conferida por conversor; "查閱/查阅"; ISO "保持一致"; a frase do imposto como orientação; título real do comparativo nos relacionados.
+
+**Imagens (no CDN desde 12/10/2026, com o OK do Bruno):**
+- `shein-home-br-2026-10-12.webp` (capa do PT) e `shein-home-{uk,es,fr,de,it,kr,jp,tw,sg}-2026-10-12.webp` (capas por mercado): capturas da página inicial de cada site em 12/10/2026, sem login e sem aceitar cookies; origem em `midia-staging/2026-10-12-imagens-pendentes/ORIGEM.md`. As capturas da UE trazem a tarja da decisão da Corte de Apelação de Paris (Lacoste); nenhuma frase depende dela.
+- `shein-sites-por-pais-2026-10-12.webp`: montagem nossa das dez capturas, com o endereço de cada site.
+- `shein-busca-4cw5y.webp`: quadro da gravação do site móvel da SHEIN Brasil, sem teclado, recortado para tirar a camiseta com slogan político.
+
+**Gates (12/10/2026):** typecheck, eslint, `test:review-i18n` (10 famílias, as três da fase 4 inclusas), `validate:video`, `test-delivery-integration` e os testes de mídia verdes. O `validate:content` só acusa a oferta vencida da YesStyle (1010VIBES), que espera o PR do Bruno; a build completa e as provas de entrega rodam depois dele.
