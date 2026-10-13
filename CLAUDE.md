@@ -164,6 +164,11 @@ vídeo, primeiras impressões e uso noturno.
   acordeão é componente de cliente); o Job 4 do vault traz o título de cada idioma. O
   `test:review-i18n` confere o formato "pergunta? resposta" de cada item e exige a seção em todas
   as versões quando a família tem FAQ.
+- O markdown curto do texto dos artigos (`[texto](/caminho ou https://…)` e `**negrito**`) é lido por
+  `src/lib/inlineMarkdown.ts`, o mesmo código na página (`AnimatedTextHighlight`) e no `FAQPage`: a
+  pergunta sai em texto puro e a resposta em HTML, com `<a>` de href absoluto e `<strong>`. Formato
+  novo de marcação entra nesse módulo, nunca num regex à parte. O `test:build-output` compara as
+  perguntas e as respostas do acordeão com o `FAQPage` de cada artigo.
 - O processo editorial (pauta, redação, revisão, JSON e gates) está no vault
   `docs/Memoria de Artigos/memreview`, a partir de `00_Sistema/AI-PRIMING-INDEX.md`.
 
