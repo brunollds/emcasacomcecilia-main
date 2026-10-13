@@ -45314,6 +45314,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/insider-como-medir-camiseta.webp",
+      "local_url": "/images/reviews/insider/insider-como-medir-camiseta.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 62898,
+      "sha256": "7803ae40c6fb3421465de0c7032d6b5fe023053719ade827828ff10a59106059",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-como-medir-camiseta.webp",
+      "storage_filename": "insider-como-medir-camiseta.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tabela-de-medidas-insider.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tabela-de-medidas-insider.json",
+          "line": 64,
+          "column": 17,
+          "literal": "/images/reviews/insider/insider-como-medir-camiseta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60900,
+          "column": 19,
+          "literal": "/images/reviews/insider/insider-como-medir-camiseta.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7803ae40c6fb3421465de0c7032d6b5fe023053719ade827828ff10a59106059/insider-como-medir-camiseta.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7803ae40c6fb3421465de0c7032d6b5fe023053719ade827828ff10a59106059/insider-como-medir-camiseta.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T14:27:09.828Z",
+      "verification_etag_or_digest": "7803ae40c6fb3421465de0c7032d6b5fe023053719ade827828ff10a59106059",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/insider-confiavel-hero-oficial.webp",
       "local_url": "/images/reviews/insider/insider-confiavel-hero-oficial.webp",
       "media_kind": "image",
@@ -45360,6 +45406,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/insider-core-t-shirt-preta-oficial.webp",
+      "local_url": "/images/reviews/insider/insider-core-t-shirt-preta-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28372,
+      "sha256": "29950e0d5a959c4d46a2c7d525d702c686c6061df17273c397203bb90d304349",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-core-t-shirt-preta-oficial.webp",
+      "storage_filename": "insider-core-t-shirt-preta-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-vale-a-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-vale-a-pena.json",
+          "line": 115,
+          "column": 19,
+          "literal": "/images/reviews/insider/insider-core-t-shirt-preta-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62110,
+          "column": 21,
+          "literal": "/images/reviews/insider/insider-core-t-shirt-preta-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/29950e0d5a959c4d46a2c7d525d702c686c6061df17273c397203bb90d304349/insider-core-t-shirt-preta-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/29950e0d5a959c4d46a2c7d525d702c686c6061df17273c397203bb90d304349/insider-core-t-shirt-preta-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T14:27:09.829Z",
+      "verification_etag_or_digest": "29950e0d5a959c4d46a2c7d525d702c686c6061df17273c397203bb90d304349",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/insider-cupom-hero-oficial.webp",
       "local_url": "/images/reviews/insider/insider-cupom-hero-oficial.webp",
       "media_kind": "image",
@@ -45403,6 +45495,98 @@
       "uploaded_at": null,
       "verified_at": "2026-10-05T18:52:29.883Z",
       "verification_etag_or_digest": "9c621de5429082023f8ba635978015c31229c54c2e799e7de470f35f272fe0b9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-daily-t-shirt-feminina-oficial.webp",
+      "local_url": "/images/reviews/insider/insider-daily-t-shirt-feminina-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24302,
+      "sha256": "ce7c47a9a9414b7bfe650037ee59ad3e02d03703b6800a82373f3a7274d07cb0",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-daily-t-shirt-feminina-oficial.webp",
+      "storage_filename": "insider-daily-t-shirt-feminina-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-vale-a-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-vale-a-pena.json",
+          "line": 109,
+          "column": 19,
+          "literal": "/images/reviews/insider/insider-daily-t-shirt-feminina-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62104,
+          "column": 21,
+          "literal": "/images/reviews/insider/insider-daily-t-shirt-feminina-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ce7c47a9a9414b7bfe650037ee59ad3e02d03703b6800a82373f3a7274d07cb0/insider-daily-t-shirt-feminina-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ce7c47a9a9414b7bfe650037ee59ad3e02d03703b6800a82373f3a7274d07cb0/insider-daily-t-shirt-feminina-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T14:27:09.829Z",
+      "verification_etag_or_digest": "ce7c47a9a9414b7bfe650037ee59ad3e02d03703b6800a82373f3a7274d07cb0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-guia-de-medidas-menu.webp",
+      "local_url": "/images/reviews/insider/insider-guia-de-medidas-menu.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 39412,
+      "sha256": "6ee9a330817d3135a81bfae5953b82cd351b32449db1539b7b73b058a5ba3332",
+      "width": 946,
+      "height": 712,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-guia-de-medidas-menu.webp",
+      "storage_filename": "insider-guia-de-medidas-menu.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tabela-de-medidas-insider.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tabela-de-medidas-insider.json",
+          "line": 51,
+          "column": 17,
+          "literal": "/images/reviews/insider/insider-guia-de-medidas-menu.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 60887,
+          "column": 19,
+          "literal": "/images/reviews/insider/insider-guia-de-medidas-menu.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6ee9a330817d3135a81bfae5953b82cd351b32449db1539b7b73b058a5ba3332/insider-guia-de-medidas-menu.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6ee9a330817d3135a81bfae5953b82cd351b32449db1539b7b73b058a5ba3332/insider-guia-de-medidas-menu.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T14:27:09.829Z",
+      "verification_etag_or_digest": "6ee9a330817d3135a81bfae5953b82cd351b32449db1539b7b73b058a5ba3332",
       "verification_status": "verified"
     },
     {
@@ -45774,6 +45958,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/insider-tabela-medidas-tech-t-shirt-feminina.webp",
+      "local_url": "/images/reviews/insider/insider-tabela-medidas-tech-t-shirt-feminina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16752,
+      "sha256": "c016e10890b75df13acc7df9f894385703d3156333e80a87b73f833e42bc6956",
+      "width": 820,
+      "height": 395,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-tabela-medidas-tech-t-shirt-feminina.webp",
+      "storage_filename": "insider-tabela-medidas-tech-t-shirt-feminina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tabela-de-medidas-insider.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tabela-de-medidas-insider.json",
+          "line": 157,
+          "column": 17,
+          "literal": "/images/reviews/insider/insider-tabela-medidas-tech-t-shirt-feminina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 61217,
+          "column": 19,
+          "literal": "/images/reviews/insider/insider-tabela-medidas-tech-t-shirt-feminina.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c016e10890b75df13acc7df9f894385703d3156333e80a87b73f833e42bc6956/insider-tabela-medidas-tech-t-shirt-feminina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c016e10890b75df13acc7df9f894385703d3156333e80a87b73f833e42bc6956/insider-tabela-medidas-tech-t-shirt-feminina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T14:27:09.829Z",
+      "verification_etag_or_digest": "c016e10890b75df13acc7df9f894385703d3156333e80a87b73f833e42bc6956",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/insider-tabela-medidas-tech-t-shirt-masculina.webp",
       "local_url": "/images/reviews/insider/insider-tabela-medidas-tech-t-shirt-masculina.webp",
       "media_kind": "image",
@@ -45825,6 +46055,98 @@
       "uploaded_at": null,
       "verified_at": "2026-10-12T21:19:47.244Z",
       "verification_etag_or_digest": "dc8793b1081510b0691ca9e28b1670c7e924854c4bdd10148c4edd44a15de2ac",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-tech-e-daily-gramatura-comparacao-oficial.webp",
+      "local_url": "/images/reviews/insider/insider-tech-e-daily-gramatura-comparacao-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32594,
+      "sha256": "dc5123328abe3d69a4ad0bdb099b4c64b0cb47dc83abfbdf23ae82ec05990e05",
+      "width": 1172,
+      "height": 1065,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-tech-e-daily-gramatura-comparacao-oficial.webp",
+      "storage_filename": "insider-tech-e-daily-gramatura-comparacao-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-vale-a-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-vale-a-pena.json",
+          "line": 87,
+          "column": 17,
+          "literal": "/images/reviews/insider/insider-tech-e-daily-gramatura-comparacao-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62082,
+          "column": 19,
+          "literal": "/images/reviews/insider/insider-tech-e-daily-gramatura-comparacao-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/dc5123328abe3d69a4ad0bdb099b4c64b0cb47dc83abfbdf23ae82ec05990e05/insider-tech-e-daily-gramatura-comparacao-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dc5123328abe3d69a4ad0bdb099b4c64b0cb47dc83abfbdf23ae82ec05990e05/insider-tech-e-daily-gramatura-comparacao-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T14:27:09.829Z",
+      "verification_etag_or_digest": "dc5123328abe3d69a4ad0bdb099b4c64b0cb47dc83abfbdf23ae82ec05990e05",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-tech-t-shirt-nori-green-oficial.webp",
+      "local_url": "/images/reviews/insider/insider-tech-t-shirt-nori-green-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46714,
+      "sha256": "bd8aa48fe24764ffd0b9891a7d89bb8e87b963577cd81c4299df5846a38f55e7",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-tech-t-shirt-nori-green-oficial.webp",
+      "storage_filename": "insider-tech-t-shirt-nori-green-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-vale-a-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-vale-a-pena.json",
+          "line": 103,
+          "column": 19,
+          "literal": "/images/reviews/insider/insider-tech-t-shirt-nori-green-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62098,
+          "column": 21,
+          "literal": "/images/reviews/insider/insider-tech-t-shirt-nori-green-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/bd8aa48fe24764ffd0b9891a7d89bb8e87b963577cd81c4299df5846a38f55e7/insider-tech-t-shirt-nori-green-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bd8aa48fe24764ffd0b9891a7d89bb8e87b963577cd81c4299df5846a38f55e7/insider-tech-t-shirt-nori-green-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T14:27:09.829Z",
+      "verification_etag_or_digest": "bd8aa48fe24764ffd0b9891a7d89bb8e87b963577cd81c4299df5846a38f55e7",
       "verification_status": "verified"
     },
     {
@@ -45925,6 +46247,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-05T18:52:29.883Z",
       "verification_etag_or_digest": "b5754d797fc360ff412713245d1f97aaba2fc495cb0b9940d72fd8c364a04c1c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/insider-troca-devolucao-prazos.webp",
+      "local_url": "/images/reviews/insider/insider-troca-devolucao-prazos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47178,
+      "sha256": "0c0338333a3fd094bba7ce3a8e7d34b9ab69419858e243e63c804d7fc3ff60cd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "insider-troca-devolucao-prazos.webp",
+      "storage_filename": "insider-troca-devolucao-prazos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/insider-vale-a-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/insider-vale-a-pena.json",
+          "line": 179,
+          "column": 17,
+          "literal": "/images/reviews/insider/insider-troca-devolucao-prazos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62209,
+          "column": 19,
+          "literal": "/images/reviews/insider/insider-troca-devolucao-prazos.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0c0338333a3fd094bba7ce3a8e7d34b9ab69419858e243e63c804d7fc3ff60cd/insider-troca-devolucao-prazos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0c0338333a3fd094bba7ce3a8e7d34b9ab69419858e243e63c804d7fc3ff60cd/insider-troca-devolucao-prazos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T14:27:09.829Z",
+      "verification_etag_or_digest": "0c0338333a3fd094bba7ce3a8e7d34b9ab69419858e243e63c804d7fc3ff60cd",
       "verification_status": "verified"
     },
     {
@@ -50796,6 +51164,106 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/magalu/magazine-voce-endereco-e-selo.webp",
+      "local_url": "/images/reviews/magalu/magazine-voce-endereco-e-selo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23890,
+      "sha256": "6ff764c85456b33716e346f167029b6d27f806c0fcc2dc6c8795cc5ea92c67ea",
+      "width": 815,
+      "height": 322,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "magazine-voce-endereco-e-selo.webp",
+      "storage_filename": "magazine-voce-endereco-e-selo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/magazine-voce-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/magazine-voce-e-confiavel.json",
+          "line": 88,
+          "column": 17,
+          "literal": "/images/reviews/magalu/magazine-voce-endereco-e-selo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 35636,
+          "column": 19,
+          "literal": "/images/reviews/magalu/magazine-voce-endereco-e-selo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6ff764c85456b33716e346f167029b6d27f806c0fcc2dc6c8795cc5ea92c67ea/magazine-voce-endereco-e-selo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6ff764c85456b33716e346f167029b6d27f806c0fcc2dc6c8795cc5ea92c67ea/magazine-voce-endereco-e-selo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T14:27:09.829Z",
+      "verification_etag_or_digest": "6ff764c85456b33716e346f167029b6d27f806c0fcc2dc6c8795cc5ea92c67ea",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/magalu/magazine-voce-loja-emcasacomcecilia-produto.webp",
+      "local_url": "/images/reviews/magalu/magazine-voce-loja-emcasacomcecilia-produto.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 69750,
+      "sha256": "365ec5473b0ae77d13aeee30393ef732e1a2d2a8090c02610110332d232340f6",
+      "width": 1352,
+      "height": 757,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "magazine-voce-loja-emcasacomcecilia-produto.webp",
+      "storage_filename": "magazine-voce-loja-emcasacomcecilia-produto.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/magazine-voce-e-confiavel.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/magazine-voce-e-confiavel.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/magazine-voce-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/magalu/magazine-voce-loja-emcasacomcecilia-produto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/magazine-voce-e-confiavel.md",
+          "line": 380,
+          "column": 15,
+          "literal": "/images/reviews/magalu/magazine-voce-loja-emcasacomcecilia-produto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 35570,
+          "column": 15,
+          "literal": "/images/reviews/magalu/magazine-voce-loja-emcasacomcecilia-produto.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/365ec5473b0ae77d13aeee30393ef732e1a2d2a8090c02610110332d232340f6/magazine-voce-loja-emcasacomcecilia-produto.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/365ec5473b0ae77d13aeee30393ef732e1a2d2a8090c02610110332d232340f6/magazine-voce-loja-emcasacomcecilia-produto.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T14:27:09.829Z",
+      "verification_etag_or_digest": "365ec5473b0ae77d13aeee30393ef732e1a2d2a8090c02610110332d232340f6",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/magalu/magazine-voce-loja-emcasacomcecilia-topo.webp",
       "local_url": "/images/reviews/magalu/magazine-voce-loja-emcasacomcecilia-topo.webp",
       "media_kind": "image",
@@ -50847,6 +51315,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-12T21:19:47.244Z",
       "verification_etag_or_digest": "4bb558006a9da56cd2a25d8f3289de8fa5357de7a68e1a0854a741a4a23b335d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/magalu/reclame-aqui-magazine-luiza-loja-online-6-meses-2026-10-13.webp",
+      "local_url": "/images/reviews/magalu/reclame-aqui-magazine-luiza-loja-online-6-meses-2026-10-13.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 36226,
+      "sha256": "5fb56eebe706c3bb547df3168f530020cbc5aae54af322ccb66fc68cac375b5a",
+      "width": 330,
+      "height": 1071,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "reclame-aqui-magazine-luiza-loja-online-6-meses-2026-10-13.webp",
+      "storage_filename": "reclame-aqui-magazine-luiza-loja-online-6-meses-2026-10-13.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/magazine-voce-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/magazine-voce-e-confiavel.json",
+          "line": 70,
+          "column": 17,
+          "literal": "/images/reviews/magalu/reclame-aqui-magazine-luiza-loja-online-6-meses-2026-10-13.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 35618,
+          "column": 19,
+          "literal": "/images/reviews/magalu/reclame-aqui-magazine-luiza-loja-online-6-meses-2026-10-13.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5fb56eebe706c3bb547df3168f530020cbc5aae54af322ccb66fc68cac375b5a/reclame-aqui-magazine-luiza-loja-online-6-meses-2026-10-13.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5fb56eebe706c3bb547df3168f530020cbc5aae54af322ccb66fc68cac375b5a/reclame-aqui-magazine-luiza-loja-online-6-meses-2026-10-13.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T14:27:09.829Z",
+      "verification_etag_or_digest": "5fb56eebe706c3bb547df3168f530020cbc5aae54af322ccb66fc68cac375b5a",
       "verification_status": "verified"
     },
     {
@@ -51957,6 +52471,60 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/nutren-linha-senior-protein-control-active-v2.webp",
+      "local_url": "/images/reviews/nutren/nutren-linha-senior-protein-control-active-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 139756,
+      "sha256": "1ece1cc4f60390d1b636d3f78efc47369cfbab54992e6b1beb71251c23f6e1f6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-linha-senior-protein-control-active-v2.webp",
+      "storage_filename": "nutren-linha-senior-protein-control-active-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nestle-nutre-produtos-para-que-servem.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/nestle-nutre-produtos-para-que-servem.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nestle-nutre-produtos-para-que-servem.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/nutren-linha-senior-protein-control-active-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/nestle-nutre-produtos-para-que-servem.md",
+          "line": 330,
+          "column": 15,
+          "literal": "/images/reviews/nutren/nutren-linha-senior-protein-control-active-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 34557,
+          "column": 15,
+          "literal": "/images/reviews/nutren/nutren-linha-senior-protein-control-active-v2.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1ece1cc4f60390d1b636d3f78efc47369cfbab54992e6b1beb71251c23f6e1f6/nutren-linha-senior-protein-control-active-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1ece1cc4f60390d1b636d3f78efc47369cfbab54992e6b1beb71251c23f6e1f6/nutren-linha-senior-protein-control-active-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T14:27:09.829Z",
+      "verification_etag_or_digest": "1ece1cc4f60390d1b636d3f78efc47369cfbab54992e6b1beb71251c23f6e1f6",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/nutren-linha-senior-protein-control-active.webp",
       "local_url": "/images/reviews/nutren/nutren-linha-senior-protein-control-active.webp",
       "media_kind": "image",
@@ -52011,6 +52579,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/nutren-protein-15g-o-que-quer-dizer.webp",
+      "local_url": "/images/reviews/nutren/nutren-protein-15g-o-que-quer-dizer.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 113378,
+      "sha256": "03898ff526ea30543de0299edc7c27b68262a9f9f2e88b94adb44d7dccfd55b9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-protein-15g-o-que-quer-dizer.webp",
+      "storage_filename": "nutren-protein-15g-o-que-quer-dizer.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-protein-ou-whey.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-protein-ou-whey.json",
+          "line": 47,
+          "column": 17,
+          "literal": "/images/reviews/nutren/nutren-protein-15g-o-que-quer-dizer.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62339,
+          "column": 19,
+          "literal": "/images/reviews/nutren/nutren-protein-15g-o-que-quer-dizer.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/03898ff526ea30543de0299edc7c27b68262a9f9f2e88b94adb44d7dccfd55b9/nutren-protein-15g-o-que-quer-dizer.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/03898ff526ea30543de0299edc7c27b68262a9f9f2e88b94adb44d7dccfd55b9/nutren-protein-15g-o-que-quer-dizer.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T14:27:09.829Z",
+      "verification_etag_or_digest": "03898ff526ea30543de0299edc7c27b68262a9f9f2e88b94adb44d7dccfd55b9",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-protein-baunilha-e-senior-cafe-com-leite.webp",
+      "local_url": "/images/reviews/nutren/nutren-protein-baunilha-e-senior-cafe-com-leite.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 83636,
+      "sha256": "6b18cb5d06890e12d6ad5f3c555bc309811c0e7354a726aea9ff6e7d575b36d6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-protein-baunilha-e-senior-cafe-com-leite.webp",
+      "storage_filename": "nutren-protein-baunilha-e-senior-cafe-com-leite.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-protein-ou-whey.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-protein-ou-whey.json",
+          "line": 130,
+          "column": 17,
+          "literal": "/images/reviews/nutren/nutren-protein-baunilha-e-senior-cafe-com-leite.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62522,
+          "column": 19,
+          "literal": "/images/reviews/nutren/nutren-protein-baunilha-e-senior-cafe-com-leite.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6b18cb5d06890e12d6ad5f3c555bc309811c0e7354a726aea9ff6e7d575b36d6/nutren-protein-baunilha-e-senior-cafe-com-leite.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6b18cb5d06890e12d6ad5f3c555bc309811c0e7354a726aea9ff6e7d575b36d6/nutren-protein-baunilha-e-senior-cafe-com-leite.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T14:27:09.829Z",
+      "verification_etag_or_digest": "6b18cb5d06890e12d6ad5f3c555bc309811c0e7354a726aea9ff6e7d575b36d6",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/nutren-protein-po-e-pronto-para-beber-oficial.webp",
       "local_url": "/images/reviews/nutren/nutren-protein-po-e-pronto-para-beber-oficial.webp",
       "media_kind": "image",
@@ -52062,6 +52722,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-12T21:19:47.244Z",
       "verification_etag_or_digest": "f039c4e5f935ab8e4d35d2b0fd2f2dcffd1aeb8ca96ccfbbd8a1be2aac921b30",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-protein-pronto-selo-zero-lactose.webp",
+      "local_url": "/images/reviews/nutren/nutren-protein-pronto-selo-zero-lactose.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 61098,
+      "sha256": "199133b88d927a81f23b9f6ebcd0429c64a5b5b457f7007cadca0d154a88624c",
+      "width": 1344,
+      "height": 1008,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-protein-pronto-selo-zero-lactose.webp",
+      "storage_filename": "nutren-protein-pronto-selo-zero-lactose.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nutren-protein-ou-whey.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nutren-protein-ou-whey.json",
+          "line": 159,
+          "column": 17,
+          "literal": "/images/reviews/nutren/nutren-protein-pronto-selo-zero-lactose.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 62551,
+          "column": 19,
+          "literal": "/images/reviews/nutren/nutren-protein-pronto-selo-zero-lactose.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/199133b88d927a81f23b9f6ebcd0429c64a5b5b457f7007cadca0d154a88624c/nutren-protein-pronto-selo-zero-lactose.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/199133b88d927a81f23b9f6ebcd0429c64a5b5b457f7007cadca0d154a88624c/nutren-protein-pronto-selo-zero-lactose.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T14:27:09.829Z",
+      "verification_etag_or_digest": "199133b88d927a81f23b9f6ebcd0429c64a5b5b457f7007cadca0d154a88624c",
       "verification_status": "verified"
     },
     {
@@ -60581,6 +61287,144 @@
       "uploaded_at": null,
       "verified_at": "2026-10-04T03:48:21.474Z",
       "verification_etag_or_digest": "25b7e094fb37d5026422924d85202ac8d9575969519d98ba6426bdcb44913308",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-active-chocolate-400g-oficial.webp",
+      "local_url": "/images/reviews/nutren/nutren-active-chocolate-400g-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 54990,
+      "sha256": "6a315280e0a1c72fa5af856a4d5498d380350666d41e6d48480e8470800a5e52",
+      "width": 1200,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-active-chocolate-400g-oficial.webp",
+      "storage_filename": "nutren-active-chocolate-400g-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nestle-nutre-produtos-para-que-servem.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nestle-nutre-produtos-para-que-servem.json",
+          "line": 139,
+          "column": 17,
+          "literal": "/images/reviews/nutren/nutren-active-chocolate-400g-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 34764,
+          "column": 19,
+          "literal": "/images/reviews/nutren/nutren-active-chocolate-400g-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6a315280e0a1c72fa5af856a4d5498d380350666d41e6d48480e8470800a5e52/nutren-active-chocolate-400g-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6a315280e0a1c72fa5af856a4d5498d380350666d41e6d48480e8470800a5e52/nutren-active-chocolate-400g-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T14:27:09.829Z",
+      "verification_etag_or_digest": "6a315280e0a1c72fa5af856a4d5498d380350666d41e6d48480e8470800a5e52",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-control-baunilha-380g-oficial.webp",
+      "local_url": "/images/reviews/nutren/nutren-control-baunilha-380g-oficial.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 96242,
+      "sha256": "cbb1d814506c72323ed139a025ede1b9fa8a7a30ac10a24714e44888a3d4e271",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-control-baunilha-380g-oficial.webp",
+      "storage_filename": "nutren-control-baunilha-380g-oficial.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nestle-nutre-produtos-para-que-servem.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nestle-nutre-produtos-para-que-servem.json",
+          "line": 119,
+          "column": 19,
+          "literal": "/images/reviews/nutren/nutren-control-baunilha-380g-oficial.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 34744,
+          "column": 21,
+          "literal": "/images/reviews/nutren/nutren-control-baunilha-380g-oficial.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/cbb1d814506c72323ed139a025ede1b9fa8a7a30ac10a24714e44888a3d4e271/nutren-control-baunilha-380g-oficial.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cbb1d814506c72323ed139a025ede1b9fa8a7a30ac10a24714e44888a3d4e271/nutren-control-baunilha-380g-oficial.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T14:27:09.829Z",
+      "verification_etag_or_digest": "cbb1d814506c72323ed139a025ede1b9fa8a7a30ac10a24714e44888a3d4e271",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/nutren-control-modo-de-preparo-rotulo.webp",
+      "local_url": "/images/reviews/nutren/nutren-control-modo-de-preparo-rotulo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 148300,
+      "sha256": "e3b5dc46783f0cff73e295b4c7d62dd29756c3c8e7c627cd2b772532651600c4",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "nutren-control-modo-de-preparo-rotulo.webp",
+      "storage_filename": "nutren-control-modo-de-preparo-rotulo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/nestle-nutre-produtos-para-que-servem.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/nestle-nutre-produtos-para-que-servem.json",
+          "line": 125,
+          "column": 19,
+          "literal": "/images/reviews/nutren/nutren-control-modo-de-preparo-rotulo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 34750,
+          "column": 21,
+          "literal": "/images/reviews/nutren/nutren-control-modo-de-preparo-rotulo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e3b5dc46783f0cff73e295b4c7d62dd29756c3c8e7c627cd2b772532651600c4/nutren-control-modo-de-preparo-rotulo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e3b5dc46783f0cff73e295b4c7d62dd29756c3c8e7c627cd2b772532651600c4/nutren-control-modo-de-preparo-rotulo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T14:27:09.829Z",
+      "verification_etag_or_digest": "e3b5dc46783f0cff73e295b4c7d62dd29756c3c8e7c627cd2b772532651600c4",
       "verification_status": "verified"
     }
   ]

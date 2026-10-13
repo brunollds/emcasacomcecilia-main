@@ -82,7 +82,14 @@
         "A Tech T-Shirt é de 92% modal e 8% elastano (a cor Índigo tem 62% modal, 30% viscose e 8% elastano), num tecido que a Insider chama de INTECH. A gramatura, 185 g/m², não está no texto da página: aparece na imagem que abre no botão \"Compare entre peças Insider\".",
         "A garantia é de 2 anos contra desbotamento, para peças compradas desde 06/09/2024, \"desde que seguidas as instruções da etiqueta, considerando uma lavagem por semana\", e, segundo a página, cobre só o desbotamento por lavagem. Os cuidados pedidos são ciclo delicado até 30 °C, sabão neutro, sem deixar de molho, sem torcer, sem alvejante, secar no varal à sombra, sem secadora e evitando amaciante.",
         "A marca diz que a camiseta é antiodor e que isso \"permite usar mais e lavar menos\", mas não informa por quantas lavagens o efeito dura."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/insider/insider-tech-e-daily-gramatura-comparacao-oficial.webp",
+        "alt": "Comparação oficial da Insider entre a Tech T-Shirt e a Daily T-Shirt, com composição de modal e elastano e de viscose e elastano e gramatura de 185 g/m² e 225 g/m² destacadas em amarelo",
+        "caption": "A comparação que abre no botão \"Compare entre peças Insider\", na página da Tech T-Shirt, recortada na Tech e na Daily. O destaque em amarelo é nosso.",
+        "objectFit": "contain",
+        "aspectRatio": 1.1005
+      }
     },
     {
       "heading": "Tech, Daily ou Core: qual camiseta da Insider",
@@ -90,6 +97,26 @@
         "A Daily e a Core são de 94% viscose e 6% elastano, não de modal. A Daily, de tecido DAYON, tem 225 g/m² na comparação oficial e custava R$ 79 (de R$ 139) em 12/10/2026. A página avisa que o preço já tem o desconto máximo e não soma com cupons, e no teste do cupom no checkout, nesse dia, o EMCASACOMCECILIA não se aplicou a ela.",
         "A Core custava R$ 179 (de R$ 189) e, segundo a Insider, é \"levemente mais encorpada e texturizada\" que a Tech. A gramatura dela não está publicada. Nas páginas da Daily e da Core, a marca avisa que o tecido pode encolher até 2 cm no comprimento depois da primeira lavagem.",
         "A garantia de cor publicada é a da Tech T-Shirt. As medidas de cada linha estão no nosso guia de tamanhos da Insider."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/insider/insider-tech-t-shirt-nori-green-oficial.webp",
+          "alt": "Homem usando a Tech T-Shirt verde da Insider",
+          "caption": "Tech T-Shirt, de modal. Foto oficial da Insider.",
+          "objectFit": "square"
+        },
+        {
+          "src": "/images/reviews/insider/insider-daily-t-shirt-feminina-oficial.webp",
+          "alt": "Mulher usando a Daily T-Shirt preta da Insider",
+          "caption": "Daily T-Shirt feminina, de viscose. Foto oficial da Insider.",
+          "objectFit": "square"
+        },
+        {
+          "src": "/images/reviews/insider/insider-core-t-shirt-preta-oficial.webp",
+          "alt": "Homem usando a Core T-Shirt preta da Insider",
+          "caption": "Core T-Shirt, de viscose e mais encorpada que a Tech, segundo a marca. Foto oficial da Insider.",
+          "objectFit": "square"
+        }
       ]
     },
     {
@@ -124,7 +151,7 @@
           "src": "/images/reviews/insider/insider-kit-cuecas-oficial.webp",
           "alt": "Kit de cuecas boxer da Insider em foto oficial da marca",
           "caption": "Foto oficial da Insider.",
-          "objectFit": "contain"
+          "objectFit": "square"
         }
       ],
       "comparisonTable": {
@@ -148,6 +175,13 @@
       "paragraphs": [
         "Na compra online, a Insider aceita o arrependimento em até 7 dias úteis, a troca por insatisfação em até 21 dias corridos, pelo mesmo modelo em outra cor ou tamanho (conforme o estoque) ou com estorno, com a peça sem uso, com etiqueta e sem sinais de lavagem, e o defeito em até 180 dias, com fotos. O processo é gratuito. O passo a passo e a reputação da loja estão no nosso guia de confiança."
       ],
+      "image": {
+        "src": "/images/reviews/insider/insider-troca-devolucao-prazos.webp",
+        "alt": "Três cartões com os prazos da Insider: 7 para desistir da compra, 21 para trocar por insatisfação e 180 para defeito",
+        "caption": "Na compra online: 7 dias úteis para desistir, 21 dias corridos para trocar ou devolver por insatisfação e 180 dias para defeito de fabricação.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "links": [
         {
           "label": "Insider Store é confiável? CNPJ, loja física, trocas e reputação",

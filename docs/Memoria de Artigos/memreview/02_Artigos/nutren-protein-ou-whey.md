@@ -315,3 +315,13 @@ Produtos comparados no artigo (nome exato):
 - Tabelas e textos das páginas da Nestlé Nutre relidos no navegador em 12/10/2026; a YoPRO só pelo site oficial dela. Pó e pronto para beber ficam separados em toda afirmação.
 - CTA: a página da linha, `https://www.nestlenutre.com.br/nutren-protein` (decisão do Bruno).
 - Revisão Job 3 (12/10/2026): reprovado na primeira versão (cafeína do Just Protein sem fonte e uma FAQ que estendia ao pronto o que vale para o pó). Corrigido e enviado a uma segunda revisão, que aprovou com ajustes: a garrafa de chocolate tem 114 kcal (a de baunilha, 112), o Just Protein contém lactose pelo rótulo da lata, o aviso a gestantes, lactantes e crianças também está no Just Protein, frases do pó marcadas como do pó, a FAQ de lactose numa pergunta só (o template corta a pergunta no primeiro "?") e o aviso do Nutren 1.5 Protein de uso só com orientação. Os números novos foram conferidos no navegador em 12/10/2026.
+
+## Retrofit de imagens (13/10/2026)
+
+Fase 2 do retrofit pedido pelo Bruno em 12/10/2026; folha de contato aprovada por ele em 13/10/2026. Origem em `midia-staging\2026-10-13-retrofit-fase2\ORIGEM.md`. A capa ficou a mesma (decisão do Bruno): as latas já ocupam 87% da altura.
+
+- "Nutren Protein, Nutren Just Protein e Nutren 1.5 Protein: qual é qual": gráfico nosso, sem palavras, `nutren-protein-15g-o-que-quer-dizer.webp`, com dois cartões: na garrafa de 260 ml, 15 g é a proteína; no Just Protein, 15 g é a porção, com 13 g de proteína (versão B, escolha do Bruno; a versão com a lata do pó ficou de fora porque a frente da lata diz "20g").
+- "Cafeína, lactose, glúten e açúcar": `nutren-protein-pronto-selo-zero-lactose.webp`, recorte da foto oficial da garrafa de chocolate com o selo Zero Lactose contornado em amarelo (destaque nosso).
+- "Nutren Protein ou Nutren Senior": `nutren-protein-baunilha-e-senior-cafe-com-leite.webp`, montagem das fotos oficiais das duas latas que o texto compara, fora de escala.
+- A lata do Just Protein passou a quadrada (`objectFit: square`), sem as faixas do quadro 16:9.
+- YoPRO e whey seguem sem imagem.

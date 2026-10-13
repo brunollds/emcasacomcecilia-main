@@ -19,8 +19,8 @@
   "publishedAtISO": "2026-10-12",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/magalu/magazine-voce-loja-emcasacomcecilia-topo.webp",
-  "imageAlt": "Topo da loja Emcasacomcecilia no Magalu, com o selo Influenciador Magalu e o cabeçalho do Magalu",
+  "image": "/images/reviews/magalu/magazine-voce-loja-emcasacomcecilia-produto.webp",
+  "imageAlt": "Página de produto na loja Emcasacomcecilia do Magazine Você, com o selo Influenciador Magalu e o aviso Vendido e entregue por Magalu acima do preço",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -63,9 +63,16 @@
     {
       "heading": "O que o Reclame Aqui mostra",
       "paragraphs": [
-        "No perfil Magazine Luiza - Loja Online, com dados de 01/04 a 30/09/2026, o Magalu tem reputação RA1000 e nota 8,2 de 10. Foram 54.992 reclamações no período, com 94,5% respondidas e 90,4% resolvidas; nas 28.975 reclamações avaliadas pelos consumidores, 74,9% disseram que voltariam a fazer negócio. No histórico de até 3 anos, o problema mais citado é o atraso na entrega (24,18%).",
+        "No perfil Magazine Luiza - Loja Online, com dados de 01/04 a 30/09/2026 lidos em 13/10/2026, o Magalu tem reputação RA1000 e nota 8,2 de 10. Foram 54.989 reclamações no período, com 94,5% respondidas e 90,4% resolvidas; nas 29.012 reclamações avaliadas pelos consumidores, 74,9% disseram que voltariam a fazer negócio. No histórico de até 3 anos, o problema mais citado é o atraso na entrega (24,18%).",
         "Existe também um perfil do programa, \"Influenciador Magalu (Magazine Você)\", com reputação Não Recomendada: 55 reclamações no mesmo período e nenhuma respondida. O perfil ainda não é verificado pelo Reclame Aqui. As cinco reclamações mais recentes da página, em 12/10/2026, eram de influenciadores do programa reclamando de comissão, não de compradores. Se o problema é com um pedido, o canal é o atendimento do Magalu, que vendeu ou intermediou a compra."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/magalu/reclame-aqui-magazine-luiza-loja-online-6-meses-2026-10-13.webp",
+        "alt": "Painel de desempenho do perfil Magazine Luiza - Loja Online no Reclame Aqui: reputação RA1000, nota 8,2, 54.989 reclamações, 94,5% respondidas, 90,4% resolvidas e 74,9% voltariam a fazer negócio",
+        "caption": "O perfil Magazine Luiza - Loja Online no Reclame Aqui, com dados de 01/04 a 30/09/2026. Print de 13/10/2026.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.3081
+      }
     },
     {
       "heading": "Como saber se o link é oficial: checklist",
@@ -76,7 +83,14 @@
         "Na página de cada produto, veja o \"Vendido e entregue por\".",
         "Pague só no checkout do Magalu. No aviso sobre pedidos internacionais taxados, o próprio Magalu diz que \"nunca envia boletos ou links de cobrança por e-mail, SMS ou WhatsApp\".",
         "O cadeado do navegador só mostra que a conexão é criptografada. Site falso também tem cadeado."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/magalu/magazine-voce-endereco-e-selo.webp",
+        "alt": "Barra de endereço com magazinevoce.com.br/magazineemcasacomcecilia/ e o topo da loja Emcasacomcecilia com o selo Influenciador Magalu, os dois destacados em amarelo",
+        "caption": "A loja da Cecília no navegador: o endereço magazinevoce.com.br/magazineemcasacomcecilia/ e o selo Influenciador Magalu com o nome da loja. Print de 13/10/2026; o destaque em amarelo é nosso.",
+        "objectFit": "contain",
+        "aspectRatio": 2.5311
+      }
     },
     {
       "heading": "Login, entrar e app",
@@ -109,7 +123,7 @@
     {
       "heading": "Como verificamos",
       "paragraphs": [
-        "Consultamos em 12/10/2026: o registro dos três domínios no RDAP do registro.br; a página inicial do programa, o contrato e a central de ajuda dos influenciadores; a central de atendimento e os termos de compra do Magalu; e os perfis do Magalu e do programa no Reclame Aqui. Os números do Reclame Aqui mudam todo mês."
+        "Consultamos em 12/10/2026: o registro dos três domínios no RDAP do registro.br; a página inicial do programa, o contrato e a central de ajuda dos influenciadores; a central de atendimento e os termos de compra do Magalu; e os perfis do Magalu e do programa no Reclame Aqui (o do Magalu, de novo em 13/10/2026). Os números do Reclame Aqui mudam todo mês."
       ]
     },
     {

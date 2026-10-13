@@ -322,3 +322,14 @@ A coluna "Para quem" e a coluna "Sabores e lata" saem da seção 6.1 e da seçã
 - Capa: `/images/reviews/nutren/nutren-linha-senior-protein-control-active.webp`, 1600×900, as latas do Senior Sem Sabor 740 g, do Protein Baunilha 400 g, do Control Baunilha 380 g e do Active Chocolate 400 g, fotos oficiais na mesma altura (origem em `midia-staging\2026-10-12-fase2\nutren\`). No corpo, a foto da linha Senior que já estava no CDN.
 - Tabelas e preços relidos no navegador em 12/10/2026, inclusive o Protein pronto e o Control (a tabela publicada é a da lata de 380 g; o preço citado é o da de 740 g, e o texto avisa).
 - Revisão Job 3 (12/10/2026): aprovado com ajustes. Aplicados: a indicação do Control nas palavras da Nestlé, sem "zero adição de açúcares" (as tabelas mostram açúcares adicionados), a FAQ de diabetes sem apontar o Control e o Premium atribuído à página.
+
+## Retrofit de imagens (13/10/2026)
+
+Fase 2 do retrofit pedido pelo Bruno em 12/10/2026; folha de contato aprovada por ele em 13/10/2026. Origem em `midia-staging\2026-10-13-retrofit-fase2\ORIGEM.md`.
+
+- Capa nova: `/images/reviews/nutren/nutren-linha-senior-protein-control-active-v2.webp`, 1600×900, fundo branco (versão A, escolha do Bruno). As mesmas quatro fotos oficiais, com as latas de cerca de 45% para 63% da altura, uma 12% à frente da outra, sem cortar o "nutren" nem o peso. A capa anterior continua no CDN e no Git.
+- "Nutren Protein: pó com cafeína ou garrafa pronta": reaproveita a capa do guia do Nutren Protein (`nutren-protein-po-e-pronto-para-beber-oficial.webp`).
+- "Nutren Control": carrossel com a lata de 380 g (`nutren-control-baunilha-380g-oficial.webp`) e o recorte do modo de preparo no rótulo (`nutren-control-modo-de-preparo-rotulo.webp`), as duas fotos oficiais do staging de 12/10.
+- "Nutren Active": `nutren-active-chocolate-400g-oficial.webp`; a legenda avisa que a tabela é a da baunilha.
+- A foto da linha Senior ganhou a proporção exata (`aspectRatio: 3.1779`), sem as faixas do quadro 16:9.
+- Texto: "Comparamos só rótulos e páginas oficiais, lidos em 12/10/2026, sem teste próprio." virou "Comparamos só os dados oficiais, sem teste próprio." (Bruno, 13/10/2026).

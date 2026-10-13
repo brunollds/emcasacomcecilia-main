@@ -453,3 +453,12 @@ A própria marca diz que cada corpo é único e recomenda conferir a tabela de m
 - Capa: `/images/reviews/insider/insider-tabela-medidas-tech-t-shirt-masculina.webp`, 1600×900, a tabela oficial da Tech T-Shirt masculina inteira sobre fundo branco (escolha do Bruno). Na seção das cuecas, a tabela oficial da Comfort, igual à da Performance, em 820×395, a metade exata do original. As 22 tabelas oficiais, baixadas do botão "Tabela de Medidas da Peça", estão em `midia-staging\2026-10-12-fase2\insider-tabelas\`.
 - Tabelas transcritas em texto e conferidas duas vezes: a revisão comparou 406 células com as imagens e com uma transcrição às cegas, sem nenhuma divergência. O estoque por tamanho foi lido nos dados públicos de cada produto em 12/10/2026.
 - Revisão Job 3 (12/10/2026): aprovado com ajustes. Aplicados: os tamanhos grandes por linha (as tabelas femininas vão até o XGG; a Gola V feminina lista o XXGG, esgotado), o estoque das cuecas e das femininas separado por linha, a regra de leitura marcada como nossa, a frase de escopo (Tech Heavy, Sportee, Performance T-Shirt 2.0 e The Perfect Top ficam na página do produto) e o crédito da tabela da cueca.
+
+## Retrofit de imagens (13/10/2026)
+
+Fase 2 do retrofit pedido pelo Bruno em 12/10/2026; folha de contato aprovada por ele em 13/10/2026. Origem em `midia-staging\2026-10-13-retrofit-fase2\ORIGEM.md`. A capa não mudou.
+
+- "A tabela da Insider é da peça, não do corpo": `insider-guia-de-medidas-menu.webp`, print do menu "Ficou com dúvidas sobre o seu tamanho?" da página da Tech T-Shirt, aberto em 13/10/2026 sem perfil e sem login (dois popups de propaganda escondidos por CSS, sem preencher nada). O destaque em amarelo do cartão "Tabela de Medidas da Peça" é nosso (versão B, escolha do Bruno).
+- "Como medir uma camiseta sua e comparar": gráfico nosso, sem palavras, `insider-como-medir-camiseta.webp`, com as setas nas posições das tabelas oficiais.
+- "Tech T-Shirt feminina": `insider-tabela-medidas-tech-t-shirt-feminina.webp`, a tabela oficial em 820×395, a metade exata, como a da cueca. Sai do staging de 12/10; as tabelas não usadas continuam lá.
+- A tabela da cueca ganhou a proporção exata (`aspectRatio: 2.0759`), sem faixas.

@@ -307,3 +307,13 @@ Observações para a redação: "não informada" quer dizer que a página consul
 - Capa: `/images/reviews/insider/insider-tech-t-shirt-preta-oficial.webp`, 1600×900, a foto oficial da Tech T-Shirt preta recortada em 16:9 (origem em `midia-staging\2026-10-12-imagens-pendentes\insider\`). Na seção das cuecas, a foto oficial do kit, que já estava no CDN.
 - Seis marcas comparadas só pelo site oficial de cada uma, lido em 12/10/2026: composição, gramatura, preço, troca e garantia. Só a Insider tem link, foto e código; as outras cinco ficam sem link.
 - Revisão Job 3 (12/10/2026): aprovado com ajustes. Aplicados: comparação de preço só entre camisetas equivalentes (a Tech T-Shirt contra as de modal e contra a Super Cotton da Hering, R$ 89,99; a Malha H+ a R$ 31,99 aparece à parte), a Daily como a mais barata das camisetas da Insider comparadas, a garantia de cor que cobre só o desbotamento por lavagem, 21 dias por insatisfação e 7 dias úteis por arrependimento, a regra da cueca só nas marcas que a publicam (Insider, Minimal Club, Hering e Alpha Co) e a divergência da composição da Slip na própria página.
+
+## Retrofit de imagens (13/10/2026)
+
+Fase 2 do retrofit pedido pelo Bruno em 12/10/2026; folha de contato aprovada por ele em 13/10/2026. Origem de cada arquivo em `midia-staging\2026-10-13-retrofit-fase2\ORIGEM.md`. A capa não mudou.
+
+- "Tech T-Shirt: o que a Insider publica": `insider-tech-e-daily-gramatura-comparacao-oficial.webp`, recorte da imagem oficial do botão "Compare entre peças Insider" (baixada com o OK do Bruno), só com a Tech e a Daily e até a linha da gramatura. O destaque em amarelo de 185 e 225 g/m² é nosso. A imagem inteira traz notas de 0 a 10 da própria marca e não tem a Core.
+- "Tech, Daily ou Core": carrossel de fotos oficiais, a Tech T-Shirt verde (`insider-tech-t-shirt-nori-green-oficial.webp`), a Daily T-Shirt **feminina** (`insider-daily-t-shirt-feminina-oficial.webp`) e a Core preta (`insider-core-t-shirt-preta-oficial.webp`). A Daily e a Core foram baixadas pelo Bruno; a legenda da Daily diz "feminina" (decisão do Bruno), porque o texto cita a Daily de R$ 79.
+- "Troca e devolução na Insider": gráfico nosso, sem palavras, `insider-troca-devolucao-prazos.webp` (7, 21 e 180 dias; a legenda diz quais são úteis e quais corridos).
+- A foto do kit de cuecas passou a quadrada (`objectFit: square`), sem as faixas do quadro 16:9.
+- Concorrentes seguem sem foto.

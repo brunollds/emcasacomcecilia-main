@@ -43,6 +43,13 @@
       "paragraphs": [
         "A Nestlé vende três linhas com \"Protein\" no nome, e o \"15g\" quer dizer coisas diferentes em duas delas. Os nomes abaixo são os da loja oficial."
       ],
+      "image": {
+        "src": "/images/reviews/nutren/nutren-protein-15g-o-que-quer-dizer.webp",
+        "alt": "Dois cartões: a garrafa de Nutren Protein de 260 ml com 15 g de proteína e o Nutren Just Protein com porção de 15 g, em duas colheres, e 13 g de proteína",
+        "caption": "O \"15 g\" quer dizer coisas diferentes: na garrafa de 260 ml, é a proteína; no Just Protein, é a porção de duas colheres, com 13 g de proteína. Em cinza, a porção; em verde, a proteína.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "comparisonTable": {
         "caption": "Nomes e descrições da loja oficial da Nestlé Nutre em 12/10/2026.",
         "headers": ["Produto", "O que é, segundo a Nestlé", "O que o número do nome quer dizer"],
@@ -96,7 +103,7 @@
           "src": "/images/reviews/nutren/nutren-just-protein-lata-280g.avif",
           "alt": "Lata do Nutren Just Protein 280 g, whey protein isolado sem sabor da Nestlé",
           "caption": "Nutren Just Protein 280 g. Foto oficial da Nestlé Nutre.",
-          "objectFit": "contain"
+          "objectFit": "square"
         }
       ],
       "links": [
@@ -119,6 +126,13 @@
         "Na mesma porção de 31,5 g, o Nutren Protein Baunilha tem 14 g de proteína, 441 mg de cálcio e 3,2 µg de vitamina D. O Nutren Senior Café com Leite tem 11 g de proteína, 375 mg de cálcio e 25 µg de vitamina D, e a tabela dele não traz linha de cafeína.",
         "A indicação também muda. A Nestlé descreve o Senior como linha para adultos acima dos 50 anos. Para o Nutren Protein, a página do Baunilha fala em \"jovens e adultos que querem mais foco e energia\"; a do Chocolate acrescenta pessoas \"especialmente a partir dos 50 anos\". Se a dúvida é lactose, a ficha do Senior Zero Lactose está no nosso guia."
       ],
+      "image": {
+        "src": "/images/reviews/nutren/nutren-protein-baunilha-e-senior-cafe-com-leite.webp",
+        "alt": "Lata de Nutren Protein Baunilha 400 g ao lado da lata de Nutren Senior Café com Leite 740 g",
+        "caption": "Nutren Protein Baunilha, lata de 400 g, e Nutren Senior Café com Leite, lata de 740 g. Fotos oficiais da Nestlé Nutre, fora de escala.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
       "links": [
         {
           "label": "Nutren Senior Zero Lactose: o que saber antes de comprar",
@@ -140,7 +154,14 @@
         "Lactose: no FAQ da página da linha, a resposta a \"NUTREN® Protein contém lactose?\" é \"Sim, contém lactose\", e a mesma página mostra \"Zero Lactose\" entre os benefícios. O selo \"Zero Lactose\" está no rótulo da garrafa de 260 ml (a de chocolate, na foto deste guia), e as tabelas das garrafas de baunilha e de chocolate informam lactose 0 g. O FAQ não separa o pó da garrafa; com intolerância, confirme na embalagem.",
         "Glúten: o FAQ da página da linha responde que o Nutren Protein \"contém glúten\". A YoPRO de chocolate diz \"não contém glúten\", e a loja marca o Just Protein como \"Sem Glúten\".",
         "Açúcar: a tabela do Baunilha em pó traz 10 g de açúcares totais e 0,1 g de açúcares adicionados por porção; o FAQ da Nestlé diz que o produto não leva sacarose e que os açúcares são os próprios dos ingredientes, como a lactose."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/nutren/nutren-protein-pronto-selo-zero-lactose.webp",
+        "alt": "Rótulo da garrafa de Nutren Protein Chocolate com 15 g de proteínas e o selo Zero Lactose contornado em amarelo",
+        "caption": "O selo \"Zero Lactose\" no rótulo da garrafa de Nutren Protein Chocolate, 260 ml. Foto oficial da Nestlé Nutre; o destaque em amarelo é nosso.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3333
+      }
     },
     {
       "heading": "Quando procurar médico ou nutricionista",
