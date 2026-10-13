@@ -18,6 +18,7 @@ import {
 } from '@/lib/video-pages';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { getFaqItems, isFaqHeading } from '@/lib/faq';
+import { inlineMarkdownToHtml, inlineMarkdownToText } from '@/lib/inlineMarkdown';
 
 export { getYoutubeEmbedUrl };
 
@@ -174,12 +175,13 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
     ? {
         '@context': 'https://schema.org',
         '@type': 'FAQPage',
+        // O que o acordeão mostra: a pergunta em texto puro e a resposta com o link e o negrito em HTML.
         mainEntity: faqItems.map(({ question, answer }) => ({
           '@type': 'Question',
-          name: question,
+          name: inlineMarkdownToText(question),
           acceptedAnswer: {
             '@type': 'Answer',
-            text: answer,
+            text: inlineMarkdownToHtml(answer, baseUrl),
           },
         })),
       }

@@ -1,40 +1,12 @@
 'use client';
 
 import { useEffect, useMemo, useRef, useState } from 'react';
+import { splitInlineMarkdown } from '@/lib/inlineMarkdown';
 
 const DEFAULT_TERMS = ['CECILIA12'];
-const MARKDOWN_PATTERN = /\[([^\]]+)\]\((https?:\/\/[^\s)]+|\/[^\s)]*)\)|\*\*([^*]+)\*\*/g;
 
 function escapeRegExp(value: string): string {
   return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-}
-
-type TextSegment =
-  | { type: 'text'; text: string }
-  | { type: 'link'; text: string; href: string }
-  | { type: 'bold'; text: string };
-
-function splitMarkdown(text: string): TextSegment[] {
-  const segments: TextSegment[] = [];
-  let lastIndex = 0;
-  let match: RegExpExecArray | null;
-  const pattern = new RegExp(MARKDOWN_PATTERN);
-
-  while ((match = pattern.exec(text)) !== null) {
-    if (match.index > lastIndex) {
-      segments.push({ type: 'text', text: text.slice(lastIndex, match.index) });
-    }
-    if (match[1] !== undefined && match[2] !== undefined) {
-      segments.push({ type: 'link', text: match[1], href: match[2] });
-    } else if (match[3] !== undefined) {
-      segments.push({ type: 'bold', text: match[3] });
-    }
-    lastIndex = match.index + match[0].length;
-  }
-  if (lastIndex < text.length || segments.length === 0) {
-    segments.push({ type: 'text', text: text.slice(lastIndex) });
-  }
-  return segments;
 }
 
 interface AnimatedHighlightProps {
@@ -134,7 +106,7 @@ export function AnimatedTextHighlight({
     [terms]
   );
 
-  const segments = useMemo(() => splitMarkdown(text), [text]);
+  const segments = useMemo(() => splitInlineMarkdown(text), [text]);
 
   return (
     <>
