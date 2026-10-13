@@ -18,7 +18,8 @@ import { getCouponBySlug } from '@/lib/couponsData';
 import { getCouponStorePath, getLocalizedCoupon, isTranslatedLocale } from '@/lib/couponTranslations';
 import { LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
 import { getCouponBrandFromHref, getInternalHref, isCouponPageLink } from '@/lib/internalLinks';
-import { isFaqHeading, parseFaqBullet, resolveRelatedArticleLinks } from '@/lib/review-template-props';
+import { isFaqHeading } from '@/lib/faqHeadings';
+import { parseFaqBullet, resolveRelatedArticleLinks } from '@/lib/review-template-props';
 
 interface ReviewSource {
   slug: string;
