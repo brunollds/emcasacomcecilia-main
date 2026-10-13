@@ -8,7 +8,7 @@ import { asSentence } from '@/components/coupons/CouponBlocks';
 import { ShareBar } from '@/components/shared/ShareBar';
 import { ReviewGallerySection } from './ReviewGallerySection';
 import { ArticleByline, ChangelogDetails, EditorialAmbientBackground, EditorialReveal, SectionHeadingReveal, SectionLinkButton, EditorialNotePill } from '@/components/editorial';
-import { contentSectionsToPlainText, formatDate, generateSectionIds, type Review, type ReviewViewModel } from '@/lib/content';
+import { formatDate, generateSectionIds, type Review, type ReviewViewModel } from '@/lib/content';
 import { getCouponBySlug, getStoreCodeKind } from '@/lib/couponsData';
 import { serializeJsonLd } from '@/lib/jsonLd';
 import { isLineAnchor } from '@/lib/pretext/lineAnchorCodec';
