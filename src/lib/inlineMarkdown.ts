@@ -1,6 +1,7 @@
 // O markdown curto do texto dos artigos: [texto](/caminho ou https://…) e **negrito**. A página
-// (AnimatedTextHighlight) e o FAQPage do JSON-LD (review-template-props) leem o texto por aqui, para o
-// schema dizer o mesmo que a tela. Sem imports: o AnimatedTextHighlight é componente de cliente.
+// (AnimatedTextHighlight), o FAQPage do JSON-LD (review-template-props) e o texto do áudio e do tempo de
+// leitura (contentSectionsToPlainText) leem o texto por aqui, para dizerem o mesmo que a tela. Sem imports:
+// o AnimatedTextHighlight é componente de cliente.
 const INLINE_MARKDOWN_PATTERN = /\[([^\]]+)\]\((https?:\/\/[^\s)]+|\/[^\s)]*)\)|\*\*([^*]+)\*\*/g;
 
 export type InlineSegment =

@@ -391,6 +391,16 @@ for (const review of reviews) {
         message: 'normalizeReview perdeu o texto de contentSections',
       });
     }
+    // O áudio e o tempo de leitura usam o texto que a página mostra. Sobra marcação quando o tokenizador
+    // não a reconhece ou quando ela está no título ou no aviso, que a página também mostra crus.
+    if (/\]\(|\*\*/.test(viewModel.plainTextBody)) {
+      reportError({
+        type: 'review',
+        id: review.id,
+        slug: review.slug,
+        message: 'plainTextBody com markdown cru ("](" ou "**"): o áudio leria a marcação, e a página também a mostra',
+      });
+    }
   } catch (err) {
     reportError({ type: 'review', id: review.id, slug: review.slug, message: `normalizeReview falhou: ${err instanceof Error ? err.message : String(err)}` });
   }
@@ -471,6 +481,33 @@ if (!pilotReview) {
   }
   if (!pilotReview.image) {
     reportError({ type: 'review', id: pilotReview.id, slug: pilotReview.slug, message: 'review piloto não possui image' });
+  }
+}
+
+// Artigo com link em markdown: no texto puro fica o texto do link, sem o endereço.
+const MARKDOWN_LINK_REVIEW_SLUG = 'dolce-gusto-genio-s-basic-vs-plus-vs-touch';
+const MARKDOWN_LINK_TEXT = 'Adaptador NEO Start';
+const MARKDOWN_LINK_HREF = '/reviews/adaptador-neo-start-o-que-e';
+const markdownLinkReview = reviews.find((review) => review.slug === MARKDOWN_LINK_REVIEW_SLUG);
+
+if (!markdownLinkReview) {
+  reportError({ type: 'review', id: -1, slug: MARKDOWN_LINK_REVIEW_SLUG, message: 'review com link em markdown não encontrado' });
+} else {
+  const report = (message: string) =>
+    reportError({ type: 'review', id: markdownLinkReview.id, slug: markdownLinkReview.slug, message });
+  const sourceTexts = (markdownLinkReview.contentSections || []).flatMap((section) => [
+    ...(section.paragraphs || []),
+    ...(section.bullets || []),
+  ]);
+  const { plainTextBody } = normalizeReview(markdownLinkReview);
+  if (!sourceTexts.some((text) => text.includes(`[${MARKDOWN_LINK_TEXT}](${MARKDOWN_LINK_HREF})`))) {
+    report(`o artigo não tem mais o link [${MARKDOWN_LINK_TEXT}](${MARKDOWN_LINK_HREF}): troque o artigo deste teste por outro com link em markdown`);
+  }
+  if (!plainTextBody.includes(MARKDOWN_LINK_TEXT)) {
+    report(`plainTextBody sem o texto do link "${MARKDOWN_LINK_TEXT}"`);
+  }
+  if (plainTextBody.includes(MARKDOWN_LINK_HREF)) {
+    report(`plainTextBody com o endereço do link (${MARKDOWN_LINK_HREF})`);
   }
 }
 

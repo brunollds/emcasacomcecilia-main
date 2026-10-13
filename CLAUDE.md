@@ -166,9 +166,12 @@ vídeo, primeiras impressões e uso noturno.
   confere o formato de cada item e exige a seção em todas as versões quando a família tem FAQ.
 - O markdown curto do texto dos artigos (`[texto](/caminho ou https://…)` e `**negrito**`) é lido por
   `src/lib/inlineMarkdown.ts`, o mesmo código na página (`AnimatedTextHighlight`) e no `FAQPage`: a
-  pergunta sai em texto puro e a resposta em HTML, com `<a>` de href absoluto e `<strong>`. Formato
-  novo de marcação entra nesse módulo, nunca num regex à parte. O `test:build-output` compara as
-  perguntas e as respostas do acordeão com o `FAQPage` de cada artigo.
+  pergunta sai em texto puro e a resposta em HTML, com `<a>` de href absoluto e `<strong>`. O texto
+  do áudio e do tempo de leitura (`plainTextBody`, de `contentSectionsToPlainText`) passa por ele nos
+  mesmos campos que a página: parágrafos, bullets e o destaque; o título e o aviso da seção a página
+  mostra crus, e não levam marcação. Formato novo de marcação entra nesse módulo, nunca num regex à
+  parte. O `test:build-output` compara as perguntas e as respostas do acordeão com o `FAQPage` de cada
+  artigo, e o `validate:content` barra `](` e `**` no `plainTextBody` de todo artigo.
 - O processo editorial (pauta, redação, revisão, JSON e gates) está no vault
   `docs/Memoria de Artigos/memreview`, a partir de `00_Sistema/AI-PRIMING-INDEX.md`.
 
