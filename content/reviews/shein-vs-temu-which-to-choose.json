@@ -3,8 +3,8 @@
   "slug": "shein-vs-temu-which-to-choose",
   "locale": "en",
   "translationKey": "shein-vs-shopee-temu",
-  "title": "SHEIN vs Temu: how to choose (returns and what to check before you buy)",
-  "seoTitle": "SHEIN vs Temu: how to choose, returns and what to check",
+  "title": "SHEIN vs Temu vs AliExpress: how to choose (shipping, returns and what to check before you buy)",
+  "seoTitle": "SHEIN vs Temu vs AliExpress: shipping and returns",
   "type": "Comparison Guide",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,15 +15,15 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "SHEIN vs Temu: what SHEIN publishes on returns in the United States and the United Kingdom, how to choose depending on what you are buying, what to check before you pay and what the SHEIN Brazil referral code is.",
-  "metaDescription": "SHEIN vs Temu: how to choose. SHEIN's returns in the US and UK (checked Oct 12, 2026) and what to check before you buy. No price comparison.",
+  "description": "SHEIN vs Temu vs AliExpress: the shipping, delivery time and returns that each store publishes for the United Kingdom (plus SHEIN's returns in the US), checked on October 12 and 13, 2026, and what to check before you buy. No price comparison.",
+  "metaDescription": "SHEIN vs Temu vs AliExpress: shipping, delivery time and returns published for the UK, checked on October 12 and 13, 2026, and what to check before you buy.",
   "publishedAt": "October 13, 2026",
   "publishedAtISO": "2026-10-13",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
-  "imageAlt": "Illustration of an empty table with the columns SHEIN, Shopee, Temu and AliExpress and five rows marked by icons: shipping, delivery time, returns, tax and reputation",
+  "image": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+  "imageAlt": "Illustration of a table with the SHEIN, Temu and AliExpress logos at the top of the columns and five rows marked by icons: shipping, delivery time, returns, tax and reputation",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -32,14 +32,14 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "There is no store that is best for everyone. The choice depends on what you are buying and on how much being able to return it matters to you, and each store publishes its own rules in each country. On its US site, SHEIN publishes a return window of 30 days from delivery. On its UK site, it publishes 14 days by law, counted from receipt, and, for most items, up to 30 days after receipt under its own policy. We did not read Temu's rules for your country for this article.",
-        "This article does not measure prices or test deliveries. SHEIN's side comes from the policies on its websites, checked on October 12, 2026. Amazon and Shopee also appear in searches like this one, but this article does not compare them."
+        "There is no store that is best for everyone. The choice depends on what you are buying and on how much being able to return it matters. In the UK, Temu and AliExpress give 90 days to return, counted from the purchase (AliExpress, for sellers that ship from abroad), and SHEIN up to 30 days after receipt for most items, with 14 days by law. In the US, SHEIN publishes 30 days after delivery.",
+        "This article does not measure prices or test deliveries. The table brings together what each store publishes in the UK, checked on October 12 and 13, 2026. Amazon and Shopee also appear in searches like this one, but this article does not compare them."
       ]
     },
     {
-      "heading": "What SHEIN publishes in the US and the UK",
+      "heading": "SHEIN, Temu and AliExpress side by side in the UK",
       "paragraphs": [
-        "Source, checked on October 12, 2026: the privacy and returns policies on SHEIN's website in each market."
+        "Sources, checked on October 12 and 13, 2026: the privacy, shipping and returns pages of SHEIN's UK site; Temu's shipping and returns pages for the UK; AliExpress's return policy and the product page of a dress, with delivery set to the UK. SHEIN's UK site is operated by Infinite Styles Services Co., Limited (ISSL)."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-home-uk-2026-10-12.webp",
@@ -48,40 +48,50 @@
         "objectFit": "contain"
       },
       "comparisonTable": {
-        "caption": "The company that operates SHEIN's site and its returns window in the United States and the United Kingdom, from the policies on SHEIN's websites checked on October 12, 2026.",
+        "caption": "Shipping, delivery time and returns published by SHEIN, Temu and AliExpress for the United Kingdom, checked on October 12 and 13, 2026.",
         "headers": [
-          "Market",
-          "Company that operates the site",
-          "Returns on SHEIN"
+          "Criterion",
+          "SHEIN",
+          "Temu",
+          "AliExpress"
         ],
         "rows": [
           [
-            "United States",
-            "SHEIN US Services, LLC",
-            "Up to 30 days after delivery"
+            "Shipping",
+            "Standard: £3 under £39, free from £39. Express: £9",
+            "Standard free on almost all orders; minimum order £10 for the first and £15 for later ones. Express: £9",
+            "Free to pick-up points on the dress we opened"
           ],
           [
-            "United Kingdom",
-            "Infinite Styles Services Co., Limited (“ISSL”)",
-            "14 days by law (right of withdrawal), counted from receipt. Under SHEIN's own policy, most items can be returned up to 30 days after receipt. Lingerie, underwear and costume jewelry only come back within the 14 days."
+            "Delivery time",
+            "Standard: 5 to 8 working days. Express: 4 to 7",
+            "Standard: 6 to 13 working days. Express: 4 to 7. Processing: 1 to 3 days",
+            "Estimate on the product page: 6 to 10 days on the dress we opened; refund if it is not delivered within 35 days"
+          ],
+          [
+            "Returns",
+            "14 days by law, from receipt; most items up to 30 days after receipt under SHEIN's policy; lingerie, underwear and costume jewelry only within the 14 days",
+            "14 days by law, from receipt; 90 days from purchase under Temu's policy; the first return of each order is free, from the second you pay the return cost",
+            "90 days from the order for sellers that ship from abroad; 15 days after delivery for UK sellers; the dress showed free returns within 90 days"
           ]
         ]
       },
       "postParagraphs": [
-        "We did not read Temu's policy for your country, so this article has nothing on Temu's returns or shipping there. Before you buy, check the shipping and returns pages on Temu's own site."
+        "In the US, SHEIN's site (SHEIN US Services, LLC) publishes returns up to 30 days after delivery.",
+        "The AliExpress cells come from one dress: delivery time and free returns change from item to item, so check them on the product page."
       ]
     },
     {
       "heading": "Import tax and customs",
       "paragraphs": [
-        "Import tax depends on the country, and this article does not cover customs rules. Before you pay, check at each store's checkout whether the total includes taxes, and compare that final figure, not just the price of the item."
+        "Import tax depends on the country. On its UK site, SHEIN says customers in the UK do not need to deal with customs, and the AliExpress product page showed that the price includes VAT. Before you pay, check at each store's checkout whether the total includes taxes, and compare that final figure, not just the price of the item."
       ]
     },
     {
       "heading": "Which to choose, depending on what you're buying",
       "bullets": [
         "**You want room to return things:** compare the return window, not just the price.",
-        "**You need it by a certain date:** check the delivery time on the product page or in your order.",
+        "**You need it by a certain date:** check the delivery time on the product page or in your order. On AliExpress, the product page shows the estimated date, and the order is refunded if it is not delivered within 35 days.",
         "**The order comes from abroad:** check the total with taxes at checkout.",
         "**You will pay by card, with a digital wallet or in instalments:** check the payment options at each store's checkout."
       ]
@@ -110,7 +120,7 @@
     {
       "heading": "Partnership and referral code",
       "paragraphs": [
-        "Cecília is an affiliate of SHEIN and Temu and may earn a commission on purchases made through the links in this article, at no extra cost to you. That does not change the answer: the choice depends on what you are buying.",
+        "Cecília is an affiliate of SHEIN, Temu and AliExpress and may earn a commission on purchases made through the links in this article, at no extra cost to you. That does not change the answer: the choice depends on what you are buying.",
         "4CW5Y is Cecília's referral code for SHEIN Brazil (the Brazilian site and app). You search for it in SHEIN's search bar, not in the coupon field, and it may not work in your country. It is not a coupon."
       ],
       "links": [
@@ -126,6 +136,11 @@
           "label": "Open Temu",
           "href": "https://temu.to/k/glfwht5gllj",
           "sponsored": true
+        },
+        {
+          "label": "Open AliExpress",
+          "href": "https://s.click.aliexpress.com/e/_c37RSyBR",
+          "sponsored": true
         }
       ]
     },
@@ -134,10 +149,12 @@
       "bullets": [
         "SHEIN or Temu: which is better? Neither is better for everyone. It depends on what you are buying and on how much being able to return it matters to you: compare the return window and the total at checkout, not just the price.",
         "Which is cheaper, SHEIN or Temu? This article does not measure prices. Compare the final price of each item, with shipping and taxes, when you pay at each store.",
-        "Which arrives faster, SHEIN or Temu? This article does not test deliveries. Check the delivery time on the product page and in your order. We did not read Temu's rules for your country.",
+        "Which arrives faster, SHEIN or Temu? In the UK, SHEIN publishes 5 to 8 working days for Standard delivery, and Temu 6 to 13 working days (processing takes 1 to 3 days). This article does not test deliveries: check the date on the product page and in your order.",
         "Which is safer, SHEIN or Temu? This article gives no verdict. See our article on SHEIN to find out who operates the store and what is known about its reputation.",
         "Are SHEIN and Temu the same company? No. They are different stores, each with its own rules for shipping, delivery and returns.",
         "How long do I have to return something to SHEIN? In the US, up to 30 days after delivery. In the UK, 14 days by law, counted from receipt, and for most items up to 30 days after receipt under SHEIN's own policy. Lingerie, underwear and costume jewelry only come back within the 14 days.",
+        "How long do I have to return something to Temu? In the UK, 14 days by law, counted from receipt, and 90 days from purchase under Temu's own policy. The first return of each order is free; from the second, you pay the return cost.",
+        "SHEIN or AliExpress: which is better? Neither is better for everyone. In the UK, AliExpress gives 90 days from the order for sellers that ship from abroad and showed free returns within 90 days on the dress we opened; SHEIN takes most items back up to 30 days after receipt. Compare the total with shipping at checkout.",
         "Is 4CW5Y a coupon? No. It is Cecília's referral code for SHEIN Brazil. You search for it in SHEIN's search bar, and it may not work in your country."
       ]
     }
@@ -150,7 +167,7 @@
   },
   "coupon": "4CW5Y",
   "affiliate": "shein",
-  "editorialNote": "This article is editorial. We may earn a commission on SHEIN and Temu links.",
+  "editorialNote": "This article is editorial. We may earn a commission on SHEIN, Temu and AliExpress links.",
   "relatedArticles": [
     {
       "slug": "is-shein-legit-and-safe",

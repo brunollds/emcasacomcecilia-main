@@ -56570,6 +56570,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/shein/shein-shopee-aliexpress-logos.webp",
+      "local_url": "/images/reviews/shein/shein-shopee-aliexpress-logos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22186,
+      "sha256": "956e1bf195a433974b9af829aa04e2cb6a84e1392b4f86dc234f09d636b83aeb",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-shopee-aliexpress-logos.webp",
+      "storage_filename": "shein-shopee-aliexpress-logos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-vs-shopee-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-vs-shopee-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-shopee-aliexpress-logos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 67538,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-shopee-aliexpress-logos.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/956e1bf195a433974b9af829aa04e2cb6a84e1392b4f86dc234f09d636b83aeb/shein-shopee-aliexpress-logos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/956e1bf195a433974b9af829aa04e2cb6a84e1392b4f86dc234f09d636b83aeb/shein-shopee-aliexpress-logos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T21:09:26.625Z",
+      "verification_etag_or_digest": "956e1bf195a433974b9af829aa04e2cb6a84e1392b4f86dc234f09d636b83aeb",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
       "local_url": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
       "media_kind": "image",
@@ -56756,6 +56802,98 @@
       "uploaded_at": null,
       "verified_at": "2026-10-12T23:47:38.766Z",
       "verification_etag_or_digest": "49fa580db9368271e9da59a935b79b76b1864bc787478242b3dc6c32b3017748",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-shopee-temu-aliexpress-logos.webp",
+      "local_url": "/images/reviews/shein/shein-shopee-temu-aliexpress-logos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26876,
+      "sha256": "7ba50d87e0a329518abe74a47a4cb0f088e154a3441b0bbf16d1ac8e745c74db",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-shopee-temu-aliexpress-logos.webp",
+      "storage_filename": "shein-shopee-temu-aliexpress-logos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-ou-shopee-temu.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-logos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 65938,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-logos.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7ba50d87e0a329518abe74a47a4cb0f088e154a3441b0bbf16d1ac8e745c74db/shein-shopee-temu-aliexpress-logos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7ba50d87e0a329518abe74a47a4cb0f088e154a3441b0bbf16d1ac8e745c74db/shein-shopee-temu-aliexpress-logos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T21:09:26.626Z",
+      "verification_etag_or_digest": "7ba50d87e0a329518abe74a47a4cb0f088e154a3441b0bbf16d1ac8e745c74db",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
+      "local_url": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19752,
+      "sha256": "2aed20cfa7b8bb3c6b4b1464f4ab0b60552c7f74235732e4503edb116a8b8b7b",
+      "width": 1200,
+      "height": 800,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "shein-shopee-temu-aliexpress-prazo-devolucao.webp",
+      "storage_filename": "shein-shopee-temu-aliexpress-prazo-devolucao.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-ou-shopee-temu.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-ou-shopee-temu.json",
+          "line": 110,
+          "column": 17,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 66024,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2aed20cfa7b8bb3c6b4b1464f4ab0b60552c7f74235732e4503edb116a8b8b7b/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2aed20cfa7b8bb3c6b4b1464f4ab0b60552c7f74235732e4503edb116a8b8b7b/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T21:09:26.626Z",
+      "verification_etag_or_digest": "2aed20cfa7b8bb3c6b4b1464f4ab0b60552c7f74235732e4503edb116a8b8b7b",
       "verification_status": "verified"
     },
     {
@@ -56999,6 +57137,157 @@
       "uploaded_at": null,
       "verified_at": "2026-10-12T23:47:38.766Z",
       "verification_etag_or_digest": "37c9c5d3d6302e45830fb22a2f67b7ccd0400bc0afff1eef674b7bb301ad07bb",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+      "local_url": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22754,
+      "sha256": "0131abde14394f83443a3297ed6c77bca8af3011a2dc6297ca13e59d4c5a03b0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-temu-aliexpress-logos.webp",
+      "storage_filename": "shein-temu-aliexpress-logos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-o-temu-come-scegliere.json",
+        "content/reviews/shein-o-temu-cual-elegir.json",
+        "content/reviews/shein-oder-temu-was-waehlen.json",
+        "content/reviews/shein-ou-temu-comment-choisir.json",
+        "content/reviews/shein-vs-temu-ja.json",
+        "content/reviews/shein-vs-temu-vs-ali-ko.json",
+        "content/reviews/shein-vs-temu-which-to-choose.json",
+        "content/reviews/shein-vs-temu-zh-hans.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-o-temu-come-scegliere.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-o-temu-cual-elegir.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-oder-temu-was-waehlen.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ou-temu-comment-choisir.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-vs-ali-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-which-to-choose.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vs-temu-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 66209,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 66394,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 66614,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 66799,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 66983,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 67168,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 67351,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 67719,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-temu-aliexpress-logos.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0131abde14394f83443a3297ed6c77bca8af3011a2dc6297ca13e59d4c5a03b0/shein-temu-aliexpress-logos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0131abde14394f83443a3297ed6c77bca8af3011a2dc6297ca13e59d4c5a03b0/shein-temu-aliexpress-logos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T21:09:26.626Z",
+      "verification_etag_or_digest": "0131abde14394f83443a3297ed6c77bca8af3011a2dc6297ca13e59d4c5a03b0",
       "verification_status": "verified"
     },
     {

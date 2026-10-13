@@ -3,8 +3,8 @@
   "slug": "shein-vs-shopee-zh-hant",
   "locale": "zh-hant",
   "translationKey": "shein-vs-shopee-temu",
-  "title": "SHEIN 跟蝦皮怎麼選？退貨規則與購買前要確認的事",
-  "seoTitle": "SHEIN 還是蝦皮？退貨與購買前確認事項",
+  "title": "SHEIN 跟蝦皮怎麼選？運費、退貨規則與購買前要確認的事（含 AliExpress）",
+  "seoTitle": "SHEIN 還是蝦皮？運費與退貨（含 AliExpress）",
   "type": "比較指南",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,15 +15,15 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "SHEIN 和蝦皮怎麼選？整理 SHEIN 台灣站公布的營運公司與退貨期限、依購物需求的選擇方式，以及購買前要確認的事。這篇文章不比較價格，也沒有測試配送。",
-  "metaDescription": "SHEIN 還是蝦皮？整理 SHEIN 台灣站公布的營運公司與退貨期限（收到商品後 15 天內）、依需求怎麼選，以及購買前要確認的事。不比價格、不測配送。",
+  "description": "SHEIN、蝦皮和 AliExpress 在台灣怎麼選？整理三家平台在台灣公布的運費、配送時間與退貨規則（2026 年 10 月 12 日和 13 日查閱），以及購買前要確認的事。這篇文章不比較價格，也沒有測試配送。",
+  "metaDescription": "SHEIN 還是蝦皮？比較 SHEIN、蝦皮和 AliExpress 在台灣公布的運費、時效與退貨（2026 年 10 月 12 日和 13 日查閱）及買前確認事項。",
   "publishedAt": "2026年10月13日",
   "publishedAtISO": "2026-10-13",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/shein/shein-shopee-temu-aliexpress-criterios.webp",
-  "imageAlt": "一張內容空白的比較表插圖，有 SHEIN、Shopee、Temu 和 AliExpress 四個欄位，以及五列圖示，分別代表運費、時效、退貨、稅金與口碑",
+  "image": "/images/reviews/shein/shein-shopee-aliexpress-logos.webp",
+  "imageAlt": "一張對比表插圖，欄位上方是 SHEIN、蝦皮（Shopee）和 AliExpress 的標誌，五行圖示分別代表運費、時效、退貨、稅金與口碑",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -32,14 +32,14 @@
     {
       "heading": "快速解答",
       "paragraphs": [
-        "沒有一家平台適合所有人。怎麼選，取決於你要買什麼，以及能不能退貨對你有多重要。SHEIN 和蝦皮在各個市場都公布自己的規則。SHEIN 台灣站公布的退貨期限是收到商品後 15 天內。蝦皮在台灣的規則，我們沒有為這篇文章查閱。",
-        "這篇文章不比較價格，也沒有測試配送。SHEIN 的資料來自 2026 年 10 月 12 日查閱的台灣站。"
+        "沒有一家平台適合所有人。怎麼選，取決於你要買什麼，以及能不能退貨對你有多重要。在台灣，SHEIN 公布的退貨期限是收到商品後 15 天內；蝦皮要求所有賣家依消保法提供七天鑑賞期；AliExpress 是送達後 15 天內。",
+        "這篇文章不比較價格，也沒有測試配送。表格整理了各平台在台灣公布的規則，2026 年 10 月 12 日和 13 日查閱。"
       ]
     },
     {
-      "heading": "SHEIN 在台灣公布的內容",
+      "heading": "台灣的 SHEIN、蝦皮和 AliExpress 對比",
       "paragraphs": [
-        "出處：SHEIN 台灣站的隱私權政策與退貨政策，2026 年 10 月 12 日查閱。"
+        "出處（2026 年 10 月 12 日和 13 日查閱）：SHEIN 台灣站（shein.tw）的隱私權政策、運送與退貨頁面；蝦皮幫助中心（help.shopee.tw）的退貨退款說明文章；AliExpress 的退貨政策，以及一件洋裝的商品頁面（配送地設為台灣）。SHEIN 台灣站由 Fashion Choice Pte. Ltd.（新加坡）營運。"
       ],
       "image": {
         "src": "/images/reviews/shein/shein-home-tw-2026-10-12.webp",
@@ -49,28 +49,43 @@
         "aspectRatio": 1.7778
       },
       "comparisonTable": {
-        "caption": "SHEIN 台灣站公布的營運公司與退貨期限，2026 年 10 月 12 日查閱。",
+        "caption": "SHEIN、蝦皮和 AliExpress 在台灣公布的運費、時效與退貨（2026 年 10 月 12 日和 13 日查閱）",
         "headers": [
-          "市場",
-          "網站營運公司",
-          "SHEIN 的退貨"
+          "項目",
+          "SHEIN",
+          "蝦皮",
+          "AliExpress"
         ],
         "rows": [
           [
-            "台灣（shein.tw）",
-            "Fashion Choice Pte. Ltd.（新加坡）",
-            "收到商品後 15 天內"
+            "運費",
+            "超商取貨未滿 NT$299 收 NT$50、宅配到府未滿 NT$299 收 NT$60，滿 NT$299 免運",
+            "依賣家與寄送方式而定，看商品頁面",
+            "我們打開的洋裝免運費"
+          ],
+          [
+            "時效",
+            "處理 1–3 天；超商取貨 3–5 個工作日，宅配到府 3–6 個工作日",
+            "依賣家與寄送方式而定",
+            "商品頁面預估：我們打開的洋裝 9–17 天"
+          ],
+          [
+            "退貨",
+            "收到商品後 15 天內",
+            "所有賣家都須依消保法提供七天鑑賞期，在鑑賞期內於蝦皮申請退貨退款；不提供換貨，要退貨後重新購買；賣家 2 天內沒有安排退貨，系統自動退款",
+            "送達後 15 天內"
           ]
         ]
       },
       "postParagraphs": [
-        "蝦皮的母公司 Sea Limited 在 2026 年的財報新聞稿中表示，蝦皮是東南亞、台灣與巴西最大的電商平台。這是我們引用的唯一一項蝦皮資料：蝦皮在台灣的出貨與退貨規則，我們沒有為這篇文章查閱。買之前，請先到蝦皮的運送與退貨說明頁面確認。"
+        "蝦皮的母公司 Sea Limited 在 2026 年的財報新聞稿中表示，蝦皮是東南亞、台灣與巴西最大的電商平台。",
+        "AliExpress 欄的資料來自我們打開的一件洋裝：配送時間可能因商品而異，請到商品頁面確認。"
       ]
     },
     {
       "heading": "進口稅與海關",
       "paragraphs": [
-        "進口稅依國家與地區而定。付款前，請在各平台的結帳頁面確認總金額是否已包含稅金。"
+        "進口稅依國家與地區而定。SHEIN 台灣站表示，包裹可能依台灣的規定課稅，並說明 EZ WAY 易利委的實名認證；我們打開的 AliExpress 商品頁面註明價格不含稅，如適用，稅金會在結帳時加上。付款前，請在各平台的結帳頁面確認總金額是否已包含稅金。"
       ]
     },
     {
@@ -106,7 +121,7 @@
     {
       "heading": "合作與推薦碼",
       "paragraphs": [
-        "Cecília 是 SHEIN 的聯盟會員。透過本文連結購買時，她可能獲得佣金，你不需要多付費。這不會改變答案：怎麼選，取決於你要買什麼。",
+        "Cecília 是 SHEIN 和 AliExpress 的聯盟會員。透過本文連結購買時，她可能獲得佣金，你不需要多付費。這不會改變答案：怎麼選，取決於你要買什麼。",
         "4CW5Y 是 SHEIN 巴西站的推薦碼。要在 SHEIN 的搜尋欄搜尋，不是輸入到優惠券欄位。它屬於 SHEIN 巴西站，在台灣可能無法使用。"
       ],
       "links": [
@@ -117,6 +132,11 @@
         {
           "label": "SHEIN 巴西站推薦碼：在哪裡輸入、怎麼用",
           "href": "/zh-hant/reviews/shein-referral-code-zh-hant"
+        },
+        {
+          "label": "打開 AliExpress",
+          "href": "https://s.click.aliexpress.com/e/_c37RSyBR",
+          "sponsored": true
         }
       ]
     },
@@ -125,10 +145,12 @@
       "bullets": [
         "SHEIN 和蝦皮哪個比較好？ 沒有一家平台適合所有人。依你要買什麼、退貨對你有多重要，以及需要在哪天前收到來選。",
         "SHEIN 和蝦皮哪個比較便宜？ 這篇文章不比較價格。付款前，到各平台的結帳頁面，比較含運費與稅金的總金額。",
-        "SHEIN 和蝦皮哪個比較快到貨？ 請看商品頁面與訂單頁面上的送達時間。蝦皮在台灣的規則，我們沒有為這篇文章查閱。",
+        "SHEIN 和蝦皮哪個比較快到貨？ 這篇文章沒有測試配送。SHEIN 台灣站公布：處理 1–3 天，超商取貨 3–5 個工作日，宅配到府 3–6 個工作日。蝦皮依賣家與寄送方式而定，請看商品頁面與訂單頁面上的送達時間。",
         "SHEIN 和蝦皮哪個比較安全？ 這篇文章不做這樣的判斷。關於 SHEIN，請看我們談 SHEIN 可靠性的文章。",
         "SHEIN 和蝦皮是同一家公司嗎？ 不是。它們是不同的平台，各有各的規則。",
         "SHEIN 台灣站的退貨期限是幾天？ 根據 SHEIN 台灣站的公布，是收到商品後 15 天內（2026 年 10 月 12 日查閱）。",
+        "蝦皮有七天鑑賞期嗎？ 有。依蝦皮幫助中心，所有賣家都須依消保法提供鑑賞期，在鑑賞期內可以申請退貨退款；蝦皮不提供換貨，賣家 2 天內沒有安排退貨，系統會自動退款（2026 年 10 月 13 日查閱）。",
+        "SHEIN 和 AliExpress 怎麼選？ 沒有一家平台適合所有人。在台灣，兩家的退貨期限都是 15 天（SHEIN 從收到商品起算，AliExpress 從送達起算）；SHEIN 公布超商取貨 3–5 個工作日，我們打開的 AliExpress 洋裝預估 9–17 天。付款前比較含運費與稅金的總金額。",
         "4CW5Y 是優惠券嗎？ 不是。它是 SHEIN 巴西站的推薦碼，要在 SHEIN 的搜尋欄搜尋，在台灣可能無法使用。"
       ]
     }
@@ -141,7 +163,7 @@
   },
   "coupon": "4CW5Y",
   "affiliate": "shein",
-  "editorialNote": "本文為編輯內容。透過本文的 SHEIN 連結購買，我們可能獲得佣金。",
+  "editorialNote": "本文為編輯內容。透過本文的 SHEIN 和 AliExpress 連結購買，我們可能獲得佣金。",
   "relatedArticles": [
     {
       "slug": "shein-trust-guide-zh-hant",
