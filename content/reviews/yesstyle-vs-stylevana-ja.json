@@ -1,0 +1,201 @@
+{
+  "id": 412,
+  "slug": "yesstyle-vs-stylevana-ja",
+  "locale": "ja",
+  "translationKey": "yesstyle-vs-alternatives",
+  "title": "YesStyleとStylevanaを比較：日本への配送・関税・返品",
+  "seoTitle": "YesStyleとStylevanaを比較：日本の配送・関税・返品",
+  "type": "ショップ比較",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "YesStyleとStylevanaを中心に、日本に届けてくれる店はどこか、関税は誰が払うか、返品では何を受け付けてくれるかを、各店の公式ページから整理しました。",
+  "metaDescription": "YesStyleとStylevanaを比較。日本への配送、送料無料の条件、関税、返品のルールを、各店の公式ページ（2026年10月12日確認）からまとめました。",
+  "publishedAt": "2026年10月13日",
+  "publishedAtISO": "2026-10-13",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa.webp",
+  "imageAlt": "YesStyleとStylevanaの名前を並べ、地球儀、トラック、時計、返品の矢印のアイコンをつけた4つの行を描いたイラスト",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "まずは結論",
+      "paragraphs": [
+        "すべての人に合う店はありません。合う店は、届け先の国、税金を誰が払うか、返品で何を受け付けてくれるかによって変わります。",
+        "日本向けでは、YesStyleがExpress便で4〜5営業日、US$50以上で送料無料と公表しています。Stylevanaは、英語のヘルプセンターの配送先リスト（2026年10月9日時点）に日本が載っていません。Jolseは送料表で日本を配送不可としていて、StyleKoreanは送料無料の表に日本がありません。",
+        "この記事では価格を比較せず、YesStyle以外の店を実際に試すこともしていません。各店が公式ページで公開している内容を、2026年10月12日に確認してまとめています。"
+      ]
+    },
+    {
+      "heading": "日本に届けてくれる店は？",
+      "bullets": [
+        "**YesStyle：** Express便で4〜5営業日。US$50以上で送料無料、US$50未満は送料US$5です。",
+        "**Stylevana：** 英語のヘルプセンターの配送先リスト（2026年10月9日時点）に、日本は載っていません。",
+        "**Jolse：** 店の送料表で、日本は配送不可とされています。",
+        "**StyleKorean：** 店の送料無料の表に、日本は載っていません。配送できるかどうかは、この表からは分かりません。"
+      ],
+      "postParagraphs": [
+        "YesStyleの日数は配送にかかる日数で、商品が倉庫を出るまでの時間は含まれていません。"
+      ]
+    },
+    {
+      "heading": "関税や税金は誰が払う？",
+      "bullets": [
+        "YesStyleには、日本向けの税金のページがありません。",
+        "到着時に関税などを請求された場合、YesStyleはUS$1,000未満の注文に限り、その金額をストアクレジットで返金します。"
+      ]
+    },
+    {
+      "heading": "返品と開封済みの商品",
+      "paragraphs": [
+        "5店とも、開封した美容製品は、お客様都合では返品できません。違いは、返品を申請できる期間と、受け付けてくれる内容です。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/lojas-kbeauty-produto-aberto-devolucao.webp",
+        "alt": "開いた箱と返品の矢印を描き、隅にバツ印を添えたイラスト",
+        "caption": "YesStyle、Stylevana、Olive Young Global、StyleKorean、Jolseのどの店でも、開封した美容製品は、お客様都合では返品できません。",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
+      "comparisonTable": {
+        "caption": "各店の返品の申請期間、返品できるもの、返金の方法。公式ページを2026年10月12日に確認しました。",
+        "headers": [
+          "ショップ",
+          "申請できる期間",
+          "返品できるもの・できないもの",
+          "返金の方法"
+        ],
+        "rows": [
+          [
+            "YesStyle",
+            "受け取りから14日以内。RMA番号が必要",
+            "開封した美容製品とサプリメントは返品できない",
+            "ストアクレジット。希望すれば、支払い方法への返金も可能"
+          ],
+          [
+            "Stylevana",
+            "受け取りから14日以内",
+            "不良品、誤配送、お客様都合の返品。美容製品は新品・未開封・未使用のものだけ",
+            "ストアクレジット。元の送料は戻らない"
+          ],
+          [
+            "Olive Young Global",
+            "受け取りから30日以内",
+            "不良品と誤配送のみ。交換は不可",
+            "支払い方法へ返金。返品の送料は店が負担"
+          ],
+          [
+            "StyleKorean",
+            "14営業日以内",
+            "未開封・未使用の商品。アレルギーを理由にした返品は不可",
+            "ポイント、または支払い方法へ返金。送料は差し引かれる"
+          ],
+          [
+            "Jolse",
+            "受け取りから7日以内。写真が必要",
+            "不良品、誤配送、入っていなかった商品のみ。開封・使用済みの商品は返品できない",
+            "商品が韓国に戻ってから返金"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "正規品について、各店はどう説明している？",
+      "paragraphs": [
+        "各店の説明は次のとおりです。いずれも各店自身の主張で、独立した第三者の監査による裏付けはありません。"
+      ],
+      "bullets": [
+        "**YesStyle：** すべての商品が正規品で、400以上の韓国ブランドの正規代理店だと説明しています。YesStyleの運営会社と、購入前に確認したい点は、信頼性のガイドにまとめています。",
+        "**Stylevana：** 販売するすべての商品は本物で、評判のよい仕入れ先と正規代理店から仕入れていると説明しています。",
+        "**Olive Young Global：** 韓国に1,400店以上あるOlive Youngの店舗と同じ、本物の商品を販売していると説明しています。"
+      ],
+      "links": [
+        {
+          "label": "YesStyleは安全？購入前に知っておくべき信頼性と評判",
+          "href": "/ja/reviews/yesstyle-trust-guide-ja"
+        }
+      ]
+    },
+    {
+      "heading": "選ぶ前に確認したいこと",
+      "bullets": [
+        "**その店は、お住まいの国に届けてくれる？** 店の配送ページで、お住まいの国の送料と日数を確認してください。YesStyleが日本向けに公表している内容は、配送ガイドにまとめています。",
+        "**税金は誰が払う？** 税金が価格に含まれているか、チェックアウトで請求されるか、荷物が着いてから請求されるかを確認してください。返金があるかどうかも見ておきましょう。",
+        "**返品では何を受け付けてくれる？** 返品を申請できる期間と、返金の方法を比べてください。"
+      ],
+      "links": [
+        {
+          "label": "YesStyleの日本への配送：日数・送料・関税",
+          "href": "/ja/reviews/yesstyle-shipping-japan-ja"
+        }
+      ]
+    },
+    {
+      "heading": "YesStyleとSHEINは同じ会社？",
+      "paragraphs": [
+        "いいえ。YesStyleは、SHEIN Groupのブランド一覧（2026年10月12日確認）に載っていません。一覧にあるのは、SHEIN、DAZY、ROMWE、MOTF、ANEWSTA、MUSERA、GLOWMODE、ARALINAです。YesStyleは、香港のYesAsia Holdingsの傘下だと説明しています。"
+      ]
+    },
+    {
+      "heading": "提携とリワードコード",
+      "paragraphs": [
+        "CECILIA010は、セシリアのYesStyle用リワードコードです。チェックアウトのReward Code欄に入力すると、初回購入は最大5%、2回目以降は2%引きになり、YesStyleのクーポンとも併用できます。この比較に出てくるほかの店には、当サイトのコードはありません。"
+      ],
+      "links": [
+        {
+          "label": "今日のYesStyleのクーポンとリワードコードCECILIA010を確認する",
+          "href": "/ja/coupons/yesstyle"
+        }
+      ]
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "YesStyleとStylevanaでは、どちらがいいですか？国によって違います。日本向けでは、YesStyleがExpress便で4〜5営業日、US$50以上で送料無料と公表しています。Stylevanaは、英語のヘルプセンターの配送先リスト（2026年10月9日時点）に日本が載っていません。",
+        "YesStyleはSHEINと同じですか？いいえ。YesStyleは、SHEIN Groupのブランド一覧に載っておらず、香港のYesAsia Holdingsの傘下だと説明しています。",
+        "YesStyleは日本に配送しますか？はい。Express便で4〜5営業日、US$50以上で送料無料です（それ未満はUS$5）。この日数に、商品が倉庫を出るまでの時間は含まれません。",
+        "Stylevanaは日本に配送しますか？英語のヘルプセンターの配送先リスト（2026年10月9日時点）に、日本は載っていません。",
+        "Jolseは日本に配送しますか？店の送料表では、日本は配送不可とされています。",
+        "StyleKoreanは日本に配送しますか？店の送料無料の表に、日本は載っていません。配送できるかどうかは、この表からは分かりません。",
+        "税金は誰が払いますか？YesStyleには、日本向けの税金のページがありません。到着時に関税などを請求された場合は、US$1,000未満の注文に限り、ストアクレジットで返金します。",
+        "開封した美容製品は返品できますか？お客様都合では、5店とも返品できません。Stylevanaがお客様都合の返品を受け付けるのは、新品・未開封・未使用の商品に限られます。",
+        "どの店がいちばん安いですか？この記事は価格を比較していません。送料や関税を含めた合計は、各店のチェックアウトで比べてください。",
+        "YesStyleのリワードコードは、どこに入力しますか？CECILIA010は、チェックアウトのReward Code欄に入力します。いま使えるクーポンは、このサイトのYesStyleのページに載せています。"
+      ]
+    }
+  ],
+  "cta": {
+    "text": "YesStyleのチェックアウトで、お届け先の送料と税金を確認し、CECILIA010をReward Code欄に入力しましょう。",
+    "label": "YesStyleへ進む",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
+  },
+  "coupon": "CECILIA010",
+  "affiliate": "yesstyle",
+  "editorialNote": "YesStyleの購入でアフィリエイト報酬を受け取る場合があります。他店のルールは各店の公式ページによります。",
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-shipping-japan-ja",
+      "title": "YesStyleの日本への配送：日数・送料・関税"
+    },
+    {
+      "slug": "yesstyle-trust-guide-ja",
+      "title": "YesStyleは安全？購入前に知っておくべき信頼性と評判"
+    },
+    {
+      "slug": "yesstyle-reward-code-cecilia010-ja",
+      "title": "YesStyle リワードコード CECILIA010：最大5%オフ（初回購入 5% / リピーター 2%）"
+    }
+  ]
+}

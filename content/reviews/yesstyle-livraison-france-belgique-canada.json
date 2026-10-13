@@ -1,0 +1,187 @@
+{
+  "id": 398,
+  "slug": "yesstyle-livraison-france-belgique-canada",
+  "locale": "fr",
+  "translationKey": "yesstyle-shipping-by-country",
+  "title": "YesStyle livre-t-il en France, en Belgique et au Canada ? Délais, frais de port et taxes",
+  "seoTitle": "Livraison YesStyle France, Belgique, Canada : délais, frais",
+  "type": "Guide de livraison",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Ce que YesStyle publie sur la livraison, les délais, la livraison gratuite et les taxes en France, en Belgique et au Canada, et comment se faire rembourser les frais de douane.",
+  "metaDescription": "YesStyle livre-t-il en France, en Belgique et au Canada ? Délais, livraison gratuite et taxes d'après la grille de la boutique du 6 octobre 2026.",
+  "publishedAt": "13 octobre 2026",
+  "publishedAtISO": "2026-10-13",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
+  "imageAlt": "Illustration avec le nom YesStyle et quatre icônes reliées par une ligne : globe, camion, horloge et reçu",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "Réponse rapide",
+      "paragraphs": [
+        "Cette version couvre la France, la Belgique et le Canada ; les autres versions linguistiques de ce guide couvrent d'autres pays."
+      ],
+      "bullets": [
+        "**France :** livraison Standard en 10 à 15 jours ouvrés, gratuite dès US$ 45 et facturée US$ 5 en dessous. La TVA de 20 % est déjà comprise dans le prix.",
+        "**Belgique :** livraison Standard en 10 à 15 jours ouvrés, gratuite dès US$ 45 et facturée US$ 5 en dessous. La TVA de 21 % est déjà comprise dans le prix.",
+        "**Canada :** livraison Premium Standard en 7 à 14 jours ouvrés, gratuite dès US$ 50 et facturée US$ 6 en dessous. Seule la Saskatchewan a une taxe ajoutée au paiement, la PST de 6 % ; la page de YesStyle ne parle pas de la TPS fédérale."
+      ],
+      "postParagraphs": [
+        "Les chiffres viennent de la grille de livraison de YesStyle, en vigueur depuis le 6 octobre 2026, et de ses pages de taxes par région, toutes lues le 12 octobre 2026. Les montants sont en dollars américains, comme la boutique les publie."
+      ]
+    },
+    {
+      "heading": "Délais et frais de livraison en France, en Belgique et au Canada",
+      "paragraphs": [
+        "Au délai d'expédition s'ajoute le temps nécessaire pour que l'article quitte l'entrepôt, expliqué plus bas."
+      ],
+      "comparisonTable": {
+        "caption": "Délais et frais de livraison de YesStyle pour la France, la Belgique et le Canada, d'après la grille en vigueur depuis le 6 octobre 2026, lue le 12 octobre 2026.",
+        "headers": [
+          "Pays",
+          "Livraison et délai",
+          "Livraison gratuite",
+          "Frais sous le seuil"
+        ],
+        "rows": [
+          [
+            "France (la livraison ne couvre pas la Guyane, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin, la Polynésie française, la Nouvelle-Calédonie ni Wallis-et-Futuna)",
+            "Standard, 10 à 15 jours ouvrés",
+            "dès US$ 45",
+            "US$ 5"
+          ],
+          [
+            "Belgique",
+            "Standard, 10 à 15 jours ouvrés",
+            "dès US$ 45",
+            "US$ 5"
+          ],
+          [
+            "Canada",
+            "Premium Standard, 7 à 14 jours ouvrés",
+            "dès US$ 50",
+            "US$ 6"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "YesStyle ou Stylevana : livraison, taxes et retours côte à côte, avec Olive Young, StyleKorean et Jolse",
+          "href": "/fr/reviews/yesstyle-ou-stylevana-que-choisir"
+        }
+      ]
+    },
+    {
+      "heading": "Comment se calcule le délai",
+      "paragraphs": [
+        "Toute commande part de l'entrepôt de YesStyle à Hong Kong. Le délai total additionne le temps que met l'article à être disponible et le délai d'expédition : un article en stock part en 1 à 3 jours ouvrés, et un article marqué « Awaiting Stock » prend de 3 à 30 jours ouvrés de plus, selon la page du produit."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+        "alt": "Illustration d'un calcul : une boîte plus un camion égale un calendrier",
+        "caption": "Le délai de YesStyle additionne la disponibilité de chaque article et le délai d'expédition. La disponibilité figure sur la page du produit.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "Taxes : ce qui est déjà dans le prix et ce qui arrive après",
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-imposto-no-preco-ou-na-entrega.webp",
+        "alt": "Illustration avec deux chemins : à gauche, un panier d'achat avec le symbole du pourcentage ; à droite, une boîte devant une porte avec le même symbole",
+        "caption": "En France et en Belgique, la TVA est déjà dans le prix ; au Canada, seule la Saskatchewan ajoute une taxe au paiement.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
+      "bullets": [
+        "**France :** la TVA de 20 % est déjà comprise dans le prix des produits et s'ajoute aux frais de livraison. Depuis le 1er juillet 2026, l'UE perçoit 3 € par catégorie douanière sur les colis de moins de 150 €, et YesStyle indique qu'il paie actuellement cette taxe à la place du client.",
+        "**Belgique :** la TVA de 21 % est déjà comprise dans le prix et s'ajoute aux frais de livraison. La même taxe de 3 € est actuellement payée par YesStyle.",
+        "**Canada :** seule la Saskatchewan a une PST de 6 %, ajoutée au paiement. La page de YesStyle ne parle ni de la TPS fédérale ni des frais du transporteur à la livraison."
+      ]
+    },
+    {
+      "heading": "Si le colis est taxé",
+      "paragraphs": [
+        "YesStyle rembourse les taxes et les frais de douane perçus à la livraison sur les commandes de moins de US$ 1 000, montant calculé avant le coupon et hors frais de livraison. Réglez la somme demandée, gardez le justificatif et envoyez-le par e-mail au service client dans les 30 jours suivant la date du justificatif ; le remboursement se fait en crédit en boutique.",
+        "Ne sont pas remboursés : les frais de la poste et du transporteur (stockage, retrait, colis non retiré ou retourné) et les taxes déjà perçues au paiement, ici la TVA de la France et de la Belgique et la PST de la Saskatchewan. Si vous refusez le colis à cause des frais, vous n'obtenez ni remboursement ni réexpédition."
+      ]
+    },
+    {
+      "heading": "Si le colis tarde ou doit revenir",
+      "paragraphs": [
+        "Un colis perdu est réexpédié sans frais, au titre de la garantie de la boutique (The YesStyle Promise). Un colis qui revient à la boutique pour une adresse erronée, une livraison échouée ou faute d'avoir été retiré n'est réexpédié qu'avec des frais de manutention et de nouveaux frais de livraison.",
+        "Pour retourner un produit, demandez un numéro de RMA dans les 14 jours suivant la réception ; un produit de beauté ouvert et un complément alimentaire ne sont pas repris, et le remboursement standard se fait en crédit en boutique.",
+        "Qui exploite YesStyle et ce qu'il faut vérifier avant d'acheter se trouvent dans le guide de confiance."
+      ],
+      "links": [
+        {
+          "label": "YesStyle est-il fiable et sûr ? Ce qu'il faut savoir avant d'acheter",
+          "href": "/fr/reviews/yesstyle-est-il-fiable-et-sur"
+        }
+      ]
+    },
+    {
+      "heading": "Partenariat et code récompense",
+      "paragraphs": [
+        "CECILIA010 est le code récompense de Cecília sur YesStyle : il se saisit dans le champ « Reward Code » du paiement, offre jusqu'à 5 % de réduction sur la première commande et 2 % sur les suivantes, et se cumule avec les coupons de la boutique. Les coupons du moment se trouvent sur la page YesStyle de ce site."
+      ],
+      "links": [
+        {
+          "label": "Voir le coupon YesStyle du jour et le code récompense CECILIA010",
+          "href": "/fr/coupons/yesstyle"
+        }
+      ]
+    },
+    {
+      "heading": "Questions fréquentes",
+      "bullets": [
+        "YesStyle livre-t-il en France, en Belgique et au Canada ? Oui, les trois pays figurent dans la grille de livraison de la boutique, en vigueur depuis le 6 octobre 2026.",
+        "Combien de temps prend la livraison de YesStyle ? Le délai d'expédition est de 10 à 15 jours ouvrés en France et en Belgique (Standard) et de 7 à 14 jours ouvrés au Canada (Premium Standard), plus 1 à 3 jours ouvrés pour qu'un article en stock quitte l'entrepôt de Hong Kong.",
+        "À partir de quel montant la livraison YesStyle est-elle gratuite ? Dès US$ 45 en France et en Belgique et dès US$ 50 au Canada ; en dessous, elle coûte US$ 5 en France et en Belgique et US$ 6 au Canada.",
+        "YesStyle applique-t-il des taxes ou des droits de douane ? En France et en Belgique, la TVA (20 % et 21 %) est déjà dans le prix, et la taxe de 3 € de l'UE est payée par YesStyle, actuellement. Au Canada, seule la Saskatchewan a une PST de 6 % ajoutée au paiement.",
+        "YesStyle rembourse-t-il les frais de douane ? Oui, en crédit en boutique, sur les commandes de moins de US$ 1 000, si vous envoyez le justificatif au service client dans les 30 jours. La TVA déjà perçue au paiement n'est pas remboursée.",
+        "Comment payer sur YesStyle ? Par carte (Visa, Mastercard, American Express ou JCB), PayPal, Apple Pay ou Google Pay. Votre banque peut appliquer des frais de transaction internationale.",
+        "Comment retourner un produit YesStyle ? Demandez un numéro de RMA au service client dans les 14 jours suivant la réception ; un produit de beauté ouvert n'est pas repris.",
+        "YesStyle livre-t-il dans toute la France ? Non : la livraison ne couvre pas la Guyane, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin, la Polynésie française, la Nouvelle-Calédonie ni Wallis-et-Futuna.",
+        "Pourquoi le délai change-t-il d'une commande à l'autre ? Parce qu'il additionne la disponibilité de chaque article, qui peut aller jusqu'à 30 jours ouvrés, au délai d'expédition.",
+        "Où trouver les coupons et le code récompense de YesStyle ? Sur la page YesStyle de ce site, avec les coupons du moment et le code récompense CECILIA010, qui se saisit dans le champ « Reward Code »."
+      ]
+    }
+  ],
+  "cta": {
+    "text": "Vérifiez au paiement les frais et le délai de livraison pour votre adresse, puis saisissez CECILIA010 dans le champ « Reward Code »",
+    "label": "Aller sur YesStyle",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
+  },
+  "coupon": "CECILIA010",
+  "affiliate": "yesstyle",
+  "editorialNote": "Règles tirées des pages officielles de YesStyle. Commission possible sur les achats.",
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-ou-stylevana-que-choisir",
+      "title": "YesStyle ou Stylevana : livraison, taxes et retours côte à côte, avec Olive Young, StyleKorean et Jolse"
+    },
+    {
+      "slug": "yesstyle-est-il-fiable-et-sur",
+      "title": "YesStyle est-il fiable et sûr ? Ce qu'il faut savoir avant d'acheter"
+    },
+    {
+      "slug": "code-recompense-yesstyle-cecilia010",
+      "title": "YesStyle CECILIA010 : code de récompense"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": 399,
+  "slug": "yesstyle-versand-deutschland-oesterreich-schweiz",
+  "locale": "de",
+  "translationKey": "yesstyle-shipping-by-country",
+  "title": "Liefert YesStyle nach Deutschland, Österreich und in die Schweiz? Lieferzeit, Versandkosten und Zoll",
+  "seoTitle": "YesStyle Versand: Deutschland, Österreich, Schweiz, Zoll",
+  "type": "Versand-Ratgeber",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Was YesStyle zu Lieferung, Lieferzeit, Gratisversand und Steuern in Deutschland, Österreich und der Schweiz veröffentlicht und wie Sie sich die Zollgebühr erstatten lassen.",
+  "metaDescription": "Liefert YesStyle nach Deutschland, Österreich und in die Schweiz? Lieferzeit, Gratisversand und MwSt. laut Versandtabelle vom 06.10.2026 sowie Zollerstattung.",
+  "publishedAt": "13. Oktober 2026",
+  "publishedAtISO": "2026-10-13",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
+  "imageAlt": "Illustration mit dem Namen YesStyle und vier durch eine Linie verbundenen Symbolen: Globus, Lastwagen, Uhr und Quittung",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "Kurz gesagt",
+      "paragraphs": [
+        "Dieser Ratgeber gilt für Deutschland, Österreich und die Schweiz. Die anderen Sprachversionen dieses Ratgebers behandeln andere Länder."
+      ],
+      "bullets": [
+        "**Deutschland:** Standardversand in 10 bis 15 Werktagen, Gratisversand ab US$ 45 (darunter US$ 5 Versandkosten), MwSt. von 19% schon im Preis.",
+        "**Österreich:** Standardversand in 10 bis 15 Werktagen, auch mit Abholung an einer Abholstelle (Standard Self-Pickup), Gratisversand ab US$ 45 (darunter US$ 5 Versandkosten), USt. von 20% schon im Preis.",
+        "**Schweiz:** Standardversand in 10 bis 15 Werktagen, Gratisversand ab US$ 45 (darunter US$ 5 Versandkosten), MWST von 8,1% schon im Preis."
+      ],
+      "postParagraphs": [
+        "Die Zahlen stammen aus der Versandtabelle von YesStyle, die seit dem 6. Oktober 2026 gilt, und aus den Steuerseiten des Shops (Stand: 12.10.2026). Die Beträge stehen in US-Dollar, wie der Shop sie veröffentlicht."
+      ]
+    },
+    {
+      "heading": "Lieferzeit und Versandkosten in Deutschland, Österreich und der Schweiz",
+      "paragraphs": [
+        "Zur Versanddauer kommt die Zeit hinzu, bis der Artikel das Lager verlässt. Mehr dazu weiter unten."
+      ],
+      "comparisonTable": {
+        "caption": "Lieferzeit und Versandkosten von YesStyle für Deutschland, Österreich und die Schweiz laut der Versandtabelle, die seit dem 06.10.2026 gilt, Stand 12.10.2026.",
+        "headers": [
+          "Land",
+          "Versandart und Versanddauer",
+          "Gratisversand",
+          "Versandkosten darunter"
+        ],
+        "rows": [
+          [
+            "Deutschland",
+            "Standard, 10 bis 15 Werktage",
+            "ab US$ 45",
+            "US$ 5"
+          ],
+          [
+            "Österreich",
+            "Standard, 10 bis 15 Werktage",
+            "ab US$ 45",
+            "US$ 5"
+          ],
+          [
+            "Österreich (Abholung)",
+            "Standard Self-Pickup, Abholung an einer Abholstelle, gleiche Lieferzeit und gleicher Preis",
+            "ab US$ 45",
+            "US$ 5"
+          ],
+          [
+            "Schweiz",
+            "Standard, 10 bis 15 Werktage",
+            "ab US$ 45",
+            "US$ 5"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "YesStyle oder Stylevana: Versand, Zoll und Rückgabe im Vergleich, mit Olive Young, StyleKorean und Jolse",
+          "href": "/de/reviews/yesstyle-oder-stylevana-welcher-shop"
+        }
+      ]
+    },
+    {
+      "heading": "So wird die Lieferzeit gerechnet",
+      "paragraphs": [
+        "Jede Bestellung verlässt das Lager von YesStyle in Hongkong. Die Gesamtzeit setzt sich aus der Zeit bis zur Verfügbarkeit des Artikels und der Versanddauer zusammen: Ein vorrätiger Artikel verlässt das Lager in 1 bis 3 Werktagen, ein Artikel mit dem Hinweis „Awaiting Stock“ braucht je nach Produktseite 3 bis 30 Werktage mehr."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+        "alt": "Illustration einer Rechnung: ein Karton plus ein Lastwagen ergibt einen Kalender",
+        "caption": "Die Lieferzeit bei YesStyle setzt sich aus der Verfügbarkeit jedes Artikels und der Versanddauer zusammen. Die Verfügbarkeit steht auf der Produktseite.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "Steuern: was schon im Preis steckt und was später dazukommen kann",
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-imposto-no-preco-ou-na-entrega.webp",
+        "alt": "Illustration mit zwei Wegen: links ein Einkaufswagen mit Prozentzeichen, rechts ein Paket vor einer Tür mit demselben Zeichen",
+        "caption": "In Deutschland, Österreich und der Schweiz ist die Mehrwertsteuer schon im Preis enthalten.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
+      "bullets": [
+        "**Deutschland:** Die MwSt. von 19% ist schon im Preis der Produkte enthalten und wird im Checkout auf die Versandkosten aufgeschlagen. Seit dem 1. Juli 2026 erhebt die EU 3 € pro Zollkategorie bei Sendungen unter 150 €. YesStyle gibt an, diese Gebühr derzeit für Sie zu übernehmen.",
+        "**Österreich:** Die USt. von 20% ist schon im Preis enthalten und wird im Checkout auf die Versandkosten aufgeschlagen. Auch hier übernimmt YesStyle derzeit die EU-Gebühr von 3 €.",
+        "**Schweiz:** Die MWST von 8,1% ist schon im Preis enthalten. Die Schweiz gehört nicht zur EU, deshalb gilt die Gebühr von 3 € dort nicht."
+      ]
+    },
+    {
+      "heading": "Wenn auf das Paket Abgaben erhoben werden",
+      "paragraphs": [
+        "YesStyle erstattet die Steuern und Zollgebühren, die bei der Lieferung erhoben werden, bei Bestellungen unter US$ 1.000 (gerechnet vor Abzug des Gutscheins und ohne Versandkosten). Zahlen Sie die Abgabe, bewahren Sie den Beleg auf und schicken Sie ihn innerhalb von 30 Tagen ab Belegdatum per E-Mail an den Kundenservice. Die Erstattung kommt als Guthaben im Shop.",
+        "Nicht erstattet werden die Gebühren der Post und des Paketdienstes (Lagerung, Abholung, nicht abgeholte oder zurückgeschickte Pakete) sowie die Steuer, die YesStyle schon im Checkout erhebt, also die Mehrwertsteuer in Deutschland, Österreich und der Schweiz. Wer die Annahme des Pakets wegen der Gebühr verweigert, bekommt weder eine Erstattung noch einen erneuten Versand."
+      ]
+    },
+    {
+      "heading": "Wenn das Paket sich verspätet oder zurückgehen muss",
+      "paragraphs": [
+        "Ein verlorenes Paket schickt YesStyle kostenlos erneut, dank der Garantie des Shops (The YesStyle Promise). Ein Paket, das an den Shop zurückgeht, weil die Adresse falsch war, die Zustellung scheiterte oder es nicht abgeholt wurde, verschickt YesStyle nur gegen eine Bearbeitungsgebühr und neue Versandkosten erneut.",
+        "Wenn Sie ein Produkt zurückgeben möchten, fordern Sie die RMA-Nummer innerhalb von 14 Tagen nach Erhalt an. Geöffnete Beauty-Produkte und Nahrungsergänzungsmittel sind von der Rückgabe ausgeschlossen, und die Standarderstattung kommt als Guthaben im Shop.",
+        "Wer YesStyle betreibt und worauf Sie vor dem Kauf achten sollten, steht im Ratgeber zur Seriosität."
+      ],
+      "links": [
+        {
+          "label": "Ist YesStyle seriös und sicher? Was Sie vor dem Kauf wissen müssen",
+          "href": "/de/reviews/ist-yesstyle-serioes-und-sicher"
+        }
+      ]
+    },
+    {
+      "heading": "Partnerschaft und Reward Code",
+      "paragraphs": [
+        "CECILIA010 ist der Reward Code von Cecília bei YesStyle: Er kommt in das Feld Reward Code im Checkout und bringt bis zu 5% Rabatt auf die erste Bestellung und 2% auf die folgenden. Er lässt sich mit den Gutscheinen des Shops kombinieren. Die aktuellen Gutscheine stehen auf der YesStyle-Seite dieser Website."
+      ],
+      "links": [
+        {
+          "label": "Den YesStyle-Gutschein von heute und den Reward Code CECILIA010 ansehen",
+          "href": "/de/coupons/yesstyle"
+        }
+      ]
+    },
+    {
+      "heading": "Häufige Fragen",
+      "bullets": [
+        "Liefert YesStyle nach Deutschland, Österreich und in die Schweiz? Ja. Laut der Versandtabelle des Shops, die seit dem 6. Oktober 2026 gilt, gibt es für alle drei Länder den Standardversand, in Österreich außerdem die Abholung an einer Abholstelle.",
+        "Wie lange dauert die Lieferung von YesStyle? In allen drei Ländern 10 bis 15 Werktage im Standardversand, dazu 1 bis 3 Werktage, bis ein vorrätiger Artikel das Lager in Hongkong verlässt.",
+        "Ab welchem Bestellwert ist der Versand bei YesStyle kostenlos? Ab US$ 45 in allen drei Ländern. Darunter kostet der Versand US$ 5.",
+        "Fallen bei YesStyle Steuern oder Gebühren an? Die Mehrwertsteuer ist schon im Preis enthalten: 19% in Deutschland, 20% in Österreich und 8,1% in der Schweiz. Die EU-Gebühr von 3 € übernimmt YesStyle derzeit für Deutschland und Österreich.",
+        "Erstattet YesStyle die Zollgebühren? Ja, als Guthaben im Shop, bei Bestellungen unter US$ 1.000 und wenn Sie den Beleg innerhalb von 30 Tagen an den Kundenservice schicken. Die schon im Checkout erhobene Mehrwertsteuer wird nicht erstattet.",
+        "Wie kann ich bei YesStyle bezahlen? Mit Visa, Mastercard, American Express oder JCB, mit PayPal, Apple Pay oder Google Pay. Bei einer Zahlung in Dollar kann Ihre Bank eine Gebühr für internationale Transaktionen berechnen.",
+        "Wie gebe ich ein Produkt von YesStyle zurück? Fordern Sie beim Kundenservice innerhalb von 14 Tagen nach Erhalt die RMA-Nummer an. Geöffnete Beauty-Produkte werden nicht zurückgenommen.",
+        "Von wo versendet YesStyle? Jede Bestellung verlässt das Lager von YesStyle in Hongkong.",
+        "Warum ändert sich die Lieferzeit von Bestellung zu Bestellung? Weil sich die Gesamtzeit aus der Verfügbarkeit jedes Artikels, die bis zu 30 Werktage dauern kann, und der Versanddauer zusammensetzt.",
+        "Wo finde ich die Gutscheine und den Reward Code von YesStyle? Auf der YesStyle-Seite dieser Website, mit den aktuellen Gutscheinen und dem Reward Code CECILIA010, der in das Feld Reward Code kommt."
+      ]
+    }
+  ],
+  "cta": {
+    "text": "Prüfen Sie Versandkosten und Lieferzeit für Ihre Adresse im Checkout und geben Sie CECILIA010 im Feld Reward Code ein.",
+    "label": "Zu YesStyle",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
+  },
+  "coupon": "CECILIA010",
+  "affiliate": "yesstyle",
+  "editorialNote": "Regeln aus den offiziellen YesStyle-Seiten. Wir können für Käufe eine Provision erhalten.",
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-oder-stylevana-welcher-shop",
+      "title": "YesStyle oder Stylevana: Versand, Zoll und Rückgabe im Vergleich, mit Olive Young, StyleKorean und Jolse"
+    },
+    {
+      "slug": "ist-yesstyle-serioes-und-sicher",
+      "title": "Ist YesStyle seriös und sicher? Was Sie vor dem Kauf wissen müssen"
+    },
+    {
+      "slug": "yesstyle-reward-code-rabatt-cecilia010",
+      "title": "YesStyle CECILIA010: Reward Code nutzen"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "id": 401,
+  "slug": "yesstyle-shipping-korea-ko",
+  "locale": "ko",
+  "translationKey": "yesstyle-shipping-by-country",
+  "title": "YesStyle 한국 배송: 배송 기간, 배송비, 관세",
+  "seoTitle": "YesStyle 한국 배송: 기간, 무료배송 기준, 관세",
+  "type": "배송 가이드",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "YesStyle이 한국 배송에 대해 게시한 배송 기간과 무료배송 기준, 그리고 세관에서 부과금이 붙었을 때 환급받는 방법을 정리했습니다.",
+  "metaDescription": "YesStyle은 한국으로 배송하나요? Express 영업일 3~5일, US$ 50 이상 무료배송, 세관 부과금 환급 방법을 2026년 10월 6일 배송표 기준으로 정리했습니다.",
+  "publishedAt": "2026년 10월 13일",
+  "publishedAtISO": "2026-10-13",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
+  "imageAlt": "YesStyle 이름과 선으로 이어진 네 개의 아이콘(지구본, 트럭, 시계, 영수증)을 담은 일러스트",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "핵심 요약",
+      "paragraphs": [
+        "이 글은 한국 배송만 다룹니다. 이 가이드의 다른 언어 버전은 다른 나라를 다룹니다."
+      ],
+      "bullets": [
+        "**한국:** Express 배송으로 영업일 3~5일이 걸립니다. US$ 50 이상이면 배송비가 무료이고, 그 미만은 US$ 7입니다. YesStyle에는 한국용 세금 안내 페이지가 없습니다. 세관이 배송 때 세금이나 관세를 부과하면 YesStyle의 환급 정책이 적용됩니다."
+      ],
+      "postParagraphs": [
+        "수치는 2026년 10월 6일부터 적용된 YesStyle 배송표를 2026년 10월 12일에 확인한 것입니다. 금액은 YesStyle이 게시한 대로 US$입니다."
+      ]
+    },
+    {
+      "heading": "한국 배송 기간과 배송비",
+      "paragraphs": [
+        "표의 배송 기간에 상품이 창고에서 출고되기까지의 시간이 더해집니다. 아래에서 설명합니다."
+      ],
+      "comparisonTable": {
+        "caption": "2026년 10월 6일부터 적용된 배송표 기준 YesStyle의 한국 배송 기간과 배송비, 2026년 10월 12일 확인.",
+        "headers": [
+          "국가",
+          "배송 방식과 기간",
+          "무료배송",
+          "기준 미만 배송비"
+        ],
+        "rows": [
+          [
+            "한국",
+            "Express, 영업일 3~5일",
+            "US$ 50 이상",
+            "US$ 7"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "YesStyle vs Stylevana: 한국 배송, 관세, 반품 비교",
+          "href": "/ko/reviews/yesstyle-vs-stylevana-ko"
+        }
+      ]
+    },
+    {
+      "heading": "배송 기간은 이렇게 계산합니다",
+      "paragraphs": [
+        "모든 주문은 홍콩에 있는 YesStyle 창고에서 출고됩니다. 전체 기간은 상품이 준비되기까지의 시간에 배송 기간을 더한 것입니다. 재고가 있는 상품은 영업일 1~3일 안에 출고되고, ‘Awaiting Stock’으로 표시된 상품은 상품 페이지에 따라 영업일 3~30일이 더 걸립니다."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+        "alt": "덧셈을 나타낸 일러스트: 상자 + 트럭 = 달력",
+        "caption": "YesStyle의 배송 기간은 상품별 준비 기간과 배송 기간을 더한 것입니다. 준비 기간은 상품 페이지에 표시됩니다.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "세금과 관세",
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-imposto-no-preco-ou-na-entrega.webp",
+        "alt": "두 갈래 길을 그린 일러스트: 왼쪽에는 퍼센트 기호가 있는 장바구니, 오른쪽에는 같은 기호가 있는 문 앞의 상자",
+        "caption": "한국에서는 세관이 배송 때 세금이나 관세를 부과하면 YesStyle의 환급 정책이 적용됩니다.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
+      "bullets": [
+        "**한국:** YesStyle에는 한국용 세금 안내 페이지가 없고, 저희는 한국 세관 규정을 확인하지 않았습니다. 세관이 배송 때 세금이나 관세를 부과하면 아래 환급 정책이 적용됩니다."
+      ]
+    },
+    {
+      "heading": "세관에서 부과금이 붙으면",
+      "paragraphs": [
+        "YesStyle은 US$ 1,000 미만 주문에 한해 배송 때 부과된 세금과 관세를 환급합니다. 주문 금액은 쿠폰 적용 전, 배송비 제외 기준입니다. 부과금을 내고 영수증을 보관한 뒤, 영수증 날짜로부터 30일 안에 고객센터에 이메일로 보내세요. 환급은 YesStyle 크레딧으로 들어옵니다.",
+        "환급 대상이 아닌 것은 우체국과 택배사가 부과하는 수수료(보관료, 수령 수수료, 찾아가지 않거나 반송된 패키지의 수수료), 그리고 결제 때 YesStyle이 이미 부과한 세금입니다. 부과금 때문에 패키지 수령을 거부하면 환급도 재발송도 받을 수 없습니다."
+      ]
+    },
+    {
+      "heading": "배송이 늦어지거나 반송될 때",
+      "paragraphs": [
+        "분실된 패키지는 YesStyle의 보증(The YesStyle Promise)에 따라 무료로 다시 보내 줍니다. 주소 오류, 배송 실패, 수취인 미수령으로 YesStyle에 되돌아온 패키지는 취급 수수료와 새 배송비를 내야 다시 보내 줍니다.",
+        "상품을 반품하려면 수령 후 14일 안에 RMA 번호를 요청하세요. 개봉한 뷰티 제품과 건강보조식품은 반품할 수 없고, 기본 환불은 YesStyle 크레딧으로 들어옵니다.",
+        "YesStyle을 누가 운영하는지, 구매 전에 무엇을 확인해야 하는지는 신뢰 가이드에 있습니다."
+      ],
+      "links": [
+        {
+          "label": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보",
+          "href": "/ko/reviews/yesstyle-trust-guide-ko"
+        }
+      ]
+    },
+    {
+      "heading": "제휴와 리워드 코드",
+      "paragraphs": [
+        "CECILIA010은 YesStyle에서 쓰는 Cecília의 리워드 코드입니다. 결제 화면의 Reward Code 칸에 입력하면 첫 구매에 최대 5%, 재구매에 2% 할인이 적용되고, YesStyle 쿠폰과 합산됩니다. 지금 유효한 쿠폰은 이 사이트의 YesStyle 페이지에 있습니다."
+      ],
+      "links": [
+        {
+          "label": "YesStyle 스토어에서 오늘의 할인과 리워드 코드 CECILIA010 보기",
+          "href": "/ko/coupons/yesstyle"
+        }
+      ]
+    },
+    {
+      "heading": "자주 묻는 질문",
+      "bullets": [
+        "YesStyle은 한국으로 배송하나요? 네, 2026년 10월 6일부터 적용된 YesStyle 배송표에 한국이 있습니다. Express 배송으로 보냅니다.",
+        "YesStyle 배송은 얼마나 걸리나요? Express 배송으로 영업일 3~5일이며, 재고가 있는 상품은 홍콩 창고에서 출고되기까지 영업일 1~3일이 더 걸립니다.",
+        "YesStyle 배송비는 얼마부터 무료인가요? US$ 50 이상 주문하면 무료이고, 그 미만은 US$ 7입니다.",
+        "YesStyle에서 사면 세금이나 관세가 붙나요? YesStyle에는 한국용 세금 안내 페이지가 없고, 저희는 한국 세관 규정을 확인하지 않았습니다. 세관이 배송 때 세금이나 관세를 부과하면 YesStyle의 환급 정책이 적용됩니다.",
+        "YesStyle은 세관 부과금을 환급해 주나요? 네, US$ 1,000 미만 주문이면 YesStyle 크레딧으로 환급합니다. 영수증 날짜로부터 30일 안에 고객센터로 영수증을 보내야 합니다.",
+        "YesStyle은 어떻게 결제하나요? Visa, Mastercard, American Express, JCB 카드와 PayPal, Apple Pay, Google Pay로 결제합니다. 달러로 결제하면 카드사나 은행이 해외 결제 수수료를 부과할 수 있습니다.",
+        "YesStyle 상품은 어떻게 반품하나요? 수령 후 14일 안에 고객센터에 RMA 번호를 요청하세요. 개봉한 뷰티 제품은 반품할 수 없습니다.",
+        "YesStyle은 어디에서 발송하나요? 모든 주문은 홍콩에 있는 YesStyle 창고에서 출고됩니다.",
+        "주문마다 배송 기간이 다른 이유는 무엇인가요? 상품별 준비 기간(최대 영업일 30일)에 배송 기간이 더해지기 때문입니다.",
+        "YesStyle 쿠폰과 리워드 코드는 어디에서 확인하나요? 이 사이트의 YesStyle 페이지에서 지금 유효한 쿠폰을 볼 수 있고, CECILIA010은 Reward Code 칸에 입력합니다."
+      ]
+    }
+  ],
+  "cta": {
+    "text": "결제 화면에서 내 주소의 배송비와 배송 기간을 확인하고 Reward Code 칸에 CECILIA010을 입력하세요.",
+    "label": "YesStyle로 이동",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
+  },
+  "coupon": "CECILIA010",
+  "affiliate": "yesstyle",
+  "editorialNote": "YesStyle 공식 페이지의 규정을 기준으로 합니다. 구매하면 수수료를 받을 수 있습니다.",
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-vs-stylevana-ko",
+      "title": "YesStyle vs Stylevana: 한국 배송, 관세, 반품 비교"
+    },
+    {
+      "slug": "yesstyle-trust-guide-ko",
+      "title": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보"
+    },
+    {
+      "slug": "yesstyle-reward-code-cecilia010-ko",
+      "title": "YesStyle 리워드 코드 CECILIA010: 최대 5% 할인 (첫 구매 5% / 재구매 2%)"
+    }
+  ]
+}

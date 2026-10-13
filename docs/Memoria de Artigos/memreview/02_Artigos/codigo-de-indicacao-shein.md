@@ -6,9 +6,11 @@ parceiro: "[[SHEIN]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia do Código de Indicação" # rótulo novo aprovado pelo Bruno em 12/10/2026 (decisão C), com os 9 termos da seção 10
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy (decisão do Bruno), depois do PR da oferta nova da YesStyle; as 17 imagens novas da fase 4 já estão no CDN"
+proxima_acao: "nenhuma"
+publicado_em: "2026-10-13"
+nota_publicacao: "Publicado no PR #73 em 13/10/2026 (decisão do Bruno; squash 6bff5fe, no ar às 00:36 UTC), as 10 versões com as telas M1 a M3 e a capa no CDN."
 bloqueado_por: null
 score_autoridade: 68
 score_conversao: 78
@@ -19,7 +21,7 @@ translationKey: "shein-referral-code"
 modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
-status_i18n: "em-localizacao"
+status_i18n: "completo"
 ---
 
 # Briefing de Pauta: Código de indicação SHEIN, onde colocar e como usar

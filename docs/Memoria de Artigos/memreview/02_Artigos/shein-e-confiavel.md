@@ -6,9 +6,11 @@ parceiro: "[[SHEIN]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy (decisão do Bruno), depois do PR da oferta nova da YesStyle; as 17 imagens novas da fase 4 já estão no CDN"
+proxima_acao: "nenhuma"
+publicado_em: "2026-10-13"
+nota_publicacao: "Publicado no PR #73 em 13/10/2026 (decisão do Bruno; squash 6bff5fe, no ar às 00:36 UTC), as 10 versões com a capa de cada mercado e as imagens do corpo no CDN."
 bloqueado_por: null
 score_autoridade: 75
 score_conversao: 80
@@ -19,7 +21,7 @@ translationKey: "shein-trust"
 modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
-status_i18n: "em-localizacao"
+status_i18n: "completo"
 ---
 
 # Briefing de Pauta: SHEIN é confiável? (credibilidade: quem opera, reputação, prazo e taxa)

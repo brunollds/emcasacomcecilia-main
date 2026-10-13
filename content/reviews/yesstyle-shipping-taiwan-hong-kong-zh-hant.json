@@ -1,0 +1,186 @@
+{
+  "id": 403,
+  "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "yesstyle-shipping-by-country",
+  "title": "YesStyle 寄送台灣、香港與澳門：運送時間、運費與稅費",
+  "seoTitle": "YesStyle 台灣、香港、澳門運送時間、運費與稅費",
+  "type": "運送指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "YesStyle 寄往台灣、香港與澳門的運送方式、時間與免運門檻，依 2026年10月6日起生效的運費表整理，並說明送達時被收費的退款申請方式。",
+  "metaDescription": "YesStyle 會寄到台灣、香港與澳門嗎？依 2026年10月6日起的運費表，整理 Express 與順豐的運送時間、免運門檻，以及海關費用的退款條件。",
+  "publishedAt": "2026年10月13日",
+  "publishedAtISO": "2026-10-13",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
+  "imageAlt": "YesStyle 名稱與四個以線條相連的圖示：地球、貨車、時鐘與收據的插圖",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "快速解答",
+      "paragraphs": [
+        "本篇指南涵蓋台灣、香港與澳門三個市場；其他語言版本涵蓋其他市場。"
+      ],
+      "bullets": [
+        "**台灣：** Express，3 至 6 個工作天，滿 US$50 免運費，未滿收 US$3。",
+        "**香港：** 順豐速運（SF Express），1 至 3 個工作天，可到順豐站、服務中心或 EF Locker 智能櫃自取。包裹直接從 YesStyle 位於香港的倉庫寄出。滿 US$35 免運費，未滿收 US$4。",
+        "**澳門：** Express，1 至 3 個工作天，滿 US$35 免運費，未滿收 US$4.99。"
+      ],
+      "postParagraphs": [
+        "三個市場的稅費，YesStyle 都沒有公布；若送達時被收費，可申請退款，條件見「包裹被課稅時」一節。",
+        "以上數字取自 YesStyle 自 2026年10月6日起生效的運費表，於 2026年10月12日查閱。金額以美元計，與商店公布的相同。"
+      ]
+    },
+    {
+      "heading": "台灣、香港與澳門的運送時間與運費",
+      "paragraphs": [
+        "運送天數之外，還要加上商品從倉庫寄出前所需的時間，下面會說明。"
+      ],
+      "comparisonTable": {
+        "caption": "YesStyle 寄往台灣、香港與澳門的運送時間與運費，依 2026年10月6日起生效的運費表，於 2026年10月12日查閱。",
+        "headers": [
+          "市場",
+          "運送方式與時間",
+          "免運費",
+          "未達門檻的運費"
+        ],
+        "rows": [
+          [
+            "台灣",
+            "Express，3 至 6 個工作天",
+            "滿 US$50",
+            "US$3"
+          ],
+          [
+            "香港",
+            "順豐速運（SF Express），1 至 3 個工作天；可到順豐站、服務中心或 EF Locker 智能櫃自取；直接從 YesStyle 位於香港的倉庫寄出",
+            "滿 US$35",
+            "US$4"
+          ],
+          [
+            "澳門",
+            "Express，1 至 3 個工作天",
+            "滿 US$35",
+            "US$4.99"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "YesStyle 還是 Stylevana？台灣與香港的運送、稅費與退貨比較",
+          "href": "/zh-hant/reviews/yesstyle-vs-stylevana-zh-hant"
+        }
+      ]
+    },
+    {
+      "heading": "運送時間怎麼算",
+      "paragraphs": [
+        "所有訂單都從 YesStyle 位於香港的倉庫寄出。總時間等於商品備妥出貨的時間，加上運送時間。有庫存的商品，1 至 3 個工作天內寄出；標示「Awaiting Stock」的商品，依商品頁的說明，還要再多 3 至 30 個工作天。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+        "alt": "加法示意圖：一個箱子加上一輛貨車，等於一本日曆",
+        "caption": "YesStyle 的送達時間，是每件商品的備貨時間加上運送時間。備貨時間會顯示在商品頁。",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "稅費與海關",
+      "paragraphs": [
+        "YesStyle 沒有台灣、香港與澳門的稅費頁面，我們也沒有查閱這三個市場的當地規定。送達時若被收費，可適用 YesStyle 的退款（見下一節）。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-imposto-no-preco-ou-na-entrega.webp",
+        "alt": "兩條路的示意圖：左邊是帶有百分比符號的購物車，右邊是門前帶有同樣符號的箱子",
+        "caption": "台灣、香港與澳門的稅費，YesStyle 都沒有公布；送達時被收取的費用，可申請退款。",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "包裹被課稅時",
+      "paragraphs": [
+        "YesStyle 會退還送達時被收取的稅金與海關費用，適用於未滿 US$1,000 的訂單（以優惠券折扣前、不含運費的金額計算）。請先付款、保留收據，並在收據日期起 30 天內以電子郵件寄給客服；退款以 YesStyle Credit 發放。",
+        "不在退款範圍內的有：郵政或物流業者收取的費用（如倉儲費、取件費，以及包裹未領取或被退回時的費用），以及結帳時已收取的稅金。因被收費而拒收包裹，不會獲得退款，也不會重寄。"
+      ]
+    },
+    {
+      "heading": "包裹延誤或需要退回時",
+      "paragraphs": [
+        "包裹遺失時，YesStyle 會依保障承諾（The YesStyle Promise）免費重寄。包裹因地址錯誤、投遞失敗或無人領取而退回商店時，需支付處理費與新的運費才會重寄。",
+        "要退貨的話，請在收到商品後 14 天內向客服申請 RMA 編號。已拆封的美妝品和營養補充品無法退貨，標準退款以 YesStyle Credit 發放。",
+        "YesStyle 由誰營運、購買前要注意哪些事，請見安全評價與購物指南。"
+      ],
+      "links": [
+        {
+          "label": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南",
+          "href": "/zh-hant/reviews/yesstyle-trust-guide-zh-hant"
+        }
+      ]
+    },
+    {
+      "heading": "合作與獎勵碼",
+      "paragraphs": [
+        "CECILIA010 是西西莉亞在 YesStyle 的獎勵碼：填入結帳頁的 Reward Code 欄位，首購最高享 5% 折扣，回購享 2%，並可與商店的優惠券疊加。今日的優惠券列在本站的 YesStyle 頁面。"
+      ],
+      "links": [
+        {
+          "label": "查看 YesStyle 今日的優惠券與獎勵碼 CECILIA010",
+          "href": "/zh-hant/coupons/yesstyle"
+        }
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "YesStyle 會寄到台灣、香港與澳門嗎？會。三個市場都在 YesStyle 自 2026年10月6日起生效的運費表上：台灣和澳門走 Express，香港走順豐。",
+        "YesStyle 寄送要多久？台灣 Express 為 3 至 6 個工作天，香港順豐與澳門 Express 都是 1 至 3 個工作天；有庫存的商品，另外需要 1 至 3 個工作天才會從倉庫寄出。",
+        "YesStyle 滿多少免運費？台灣滿 US$50 免運，未滿運費 US$3；香港滿 US$35 免運，未滿 US$4；澳門滿 US$35 免運，未滿 US$4.99。",
+        "在 YesStyle 購物會被收稅費嗎？YesStyle 沒有公布這三個市場的稅費，我們也沒有查閱當地規定。如果送達時被收費，可申請 YesStyle 的退款。",
+        "YesStyle 會退還海關費用嗎？會。訂單未滿 US$1,000 時，以 YesStyle Credit 退還；請在收據日期起 30 天內，把收據寄給客服。",
+        "在 YesStyle 怎麼付款？可用 Visa、Mastercard、American Express 或 JCB 信用卡，也可用 PayPal、Apple Pay 或 Google Pay；以美元付款時，銀行可能收取海外交易手續費。",
+        "在 YesStyle 怎麼退貨？請在收到商品後 14 天內向客服申請 RMA 編號；已拆封的美妝品無法退貨。",
+        "YesStyle 從哪裡寄出？從位於香港的倉庫寄出。",
+        "為什麼不同訂單的送達時間不一樣？因為送達時間等於每件商品的備貨時間（最長可達 30 個工作天）加上運送時間。",
+        "YesStyle 的優惠券和獎勵碼在哪裡？在本站的 YesStyle 頁面，有今日的優惠券，以及填在 Reward Code 欄位的 CECILIA010。"
+      ]
+    }
+  ],
+  "cta": {
+    "text": "到結帳頁確認寄到你地址的運費與送達時間，再把 CECILIA010 填入 Reward Code 欄位。",
+    "label": "前往 YesStyle",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
+  },
+  "coupon": "CECILIA010",
+  "affiliate": "yesstyle",
+  "editorialNote": "規則取自 YesStyle 官方頁面。我們可能會從購買中獲得佣金。",
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-vs-stylevana-zh-hant",
+      "title": "YesStyle 還是 Stylevana？台灣與香港的運送、稅費與退貨比較"
+    },
+    {
+      "slug": "yesstyle-trust-guide-zh-hant",
+      "title": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南"
+    },
+    {
+      "slug": "yesstyle-reward-code-cecilia010-zh-hant",
+      "title": "YesStyle 獎勵碼 CECILIA010：高達 5% 優惠 (首購 5% / 回購 2%)"
+    }
+  ]
+}

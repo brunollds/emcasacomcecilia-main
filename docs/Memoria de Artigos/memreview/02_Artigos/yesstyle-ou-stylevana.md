@@ -6,9 +6,9 @@ parceiro: "[[YesStyle]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Lojas"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir o PT (Job 2); a capa é o gráfico B (seção 5)"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy (decisão do Bruno); as 5 imagens novas da fase 5 já estão no CDN. Depois do deploy: encurtar o frete das famílias de confiança e de Black Friday da YesStyle e linkar para a família de entrega (seção 10)"
 bloqueado_por: null
 score_autoridade: 75
 score_conversao: 78
@@ -19,7 +19,7 @@ translationKey: "yesstyle-vs-alternatives"
 modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
-status_i18n: "em-localizacao"
+status_i18n: "completo"
 ---
 
 # Briefing de Pauta: YesStyle ou Stylevana (e Olive Young, StyleKorean, Jolse)
@@ -177,7 +177,9 @@ famílias de confiança e Black Friday está na seção 2.
 | Impostos: UK, Noruega, Austrália (GST 10%), Singapura (9%) e UE cobrados na compra; Canadá e Israel na entrega; "preços e frete não incluem impostos ou taxas" | Fato oficial | `foterMenuSeq=10`, "Taxes & Duties" | Tabela de impostos | [x] Sim |
 | Devolução só de produto defeituoso ou errado, em até 30 dias do recebimento; sem troca; sem devolução por arrependimento | Fato oficial | `foterMenuSeq=12` ("Returns & Exchanges") | "Non-Eligibility for Returns" | [x] Sim |
 | "Produtos autênticos como os das lojas na Coreia"; a empresa tem mais de 1.400 lojas na Coreia | Afirmação da loja | `foterMenuSeq=10`, introdução | — | [x] Sim, atribuída |
-| Itália, Áustria, Suíça, Bélgica, Portugal, Chile, Peru, Argentina, Colômbia | — | não aparecem na tabela; a disponibilidade vem do seletor de bandeira do site, que não foi usado | — | [ ] Não: dizer só "consulte o seletor da loja" ou deixar fora |
+| Itália, Áustria, Suíça, Bélgica, Portugal, Chile, Peru, Argentina, Colômbia | — | não aparecem na tabela; a disponibilidade vem do seletor de bandeira do site, que não foi usado | — | [x] Só assim (Job 2, 12/10/2026): a Olive Young Global fica fora da tabela desses países, e uma frase, fora da tabela, diz que a página de envio também lista "outras regiões" sem nomeá-las e que a lista completa fica no seletor de país do site |
+| Os EUA não estão na tabela de envio; quem envia para os EUA compra na OLIVE YOUNG US, loja separada desde 29/05/2026, com disponibilidade, promoções e envio próprios | Fato oficial | `help.global.oliveyoung.com/hc/pt/articles/16778275177743` (lido em 12/10/2026) | "29 de maio de 2026 (PST)" | [x] Sim, só na versão en; as regras da OLIVE YOUNG US não foram lidas |
+| UE: a loja não devolve nem reembolsa taxa alfandegária, IVA ou encargo de importação ("esses encargos não são cobrados pela OLIVE YOUNG"); o reembolso de devolução aprovada vai à forma de pagamento original em cerca de 2 a 15 dias úteis; pacote descartado ou devolvido por erro do cliente não tem reembolso | Fato oficial | `help.global.oliveyoung.com/hc/pt/articles/16778291644431`; `foterMenuSeq=12`; `foterMenuSeq=10` (lidos em 12/10/2026, resolve a seção 10, item 6) | — | [x] Sim |
 
 **6.3 StyleKorean**
 
@@ -193,11 +195,12 @@ famílias de confiança e Black Friday está na seção 2.
 
 | Afirmação planejada | Tipo de Dado | Fonte Exata | Localização / Trecho | Pode Publicar? |
 |---|---|---|---|---|
-| Tabela de frete por país, em três colunas (Standard sem imposto, Standard com imposto incluído, Express), lida país a país no seletor da página (consulta de leitura) | Fato oficial | `jolse.com/shipping_notice.html` | "Shipping Fee Table" | [x] Sim, por país |
+| Tabela de frete por país, em três colunas (Standard sem imposto, Standard com imposto incluído, Express) | Fato oficial | `jolse.com/shipping_notice.html`; os valores vêm de `jolse.com/js/shipping_fee_data.js` (variável `shippingOptions`, 209 países), lido em 12/10/2026 sem mexer no seletor | "Shipping Fee Table" | [x] Sim, por país |
+| Outros mercados das traduções (Standard sem imposto, com o frete grátis a partir de; "X" = indisponível): Reino Unido US$ 4,99 (47); Canadá 5,99 (47); Austrália 5,49 (33); Irlanda 4,99 (43) ou com IVA 23% 5,99 (60); México 5,99 (43); Peru 5,99 (57); Argentina 7,99 (59); França 4,99 (43) ou com TVA 20% 4,99 (50); Bélgica 4,99 (43) ou com 21% 8,99 (80); Áustria 4,99 (43) ou com 20% 6,99 (60); Suíça 4,99 (43); Itália 4,99 (43) ou com 22% 4,99 (50); Taiwan 2,99 (47); Hong Kong 3,99 (33); Macau 4,98 (33); Singapura 3,99 (47); Malásia 3,99 (33). Express a partir de US$ 15,99 na Ásia e 16,99 a 29,99 no resto, quando existe | Fato oficial | mesmo arquivo | — | [x] Sim, por país, sem somar colunas |
 | Brasil: Standard sem imposto US$ 9,99, grátis acima de US$ 60; impostos "TBD" (pagos na entrega); sem Express nem opção com imposto incluído | Fato oficial | mesma página, país BRAZIL | — | [x] Sim |
 | Portugal: Standard com imposto incluído US$ 6,99, grátis acima de US$ 60, IVA 23% incluído. Espanha: US$ 4,99 sem imposto (grátis acima de US$ 43) ou US$ 4,99 com IVA 21% incluído (grátis acima de US$ 50). Chile: US$ 5,99 sem imposto ou US$ 9,99 com IVA 19% incluído (grátis acima de US$ 100). Colômbia: US$ 9,99 com 19% incluído (grátis acima de US$ 100). EUA: US$ 6,99 com imposto incluído (grátis acima de US$ 60). Alemanha: só com imposto incluído, US$ 4,99 (grátis acima de US$ 50) | Fato oficial | mesma página, país a país | — | [x] Sim; uma frase por país, sem somar colunas |
 | Japão, Coreia do Sul e China: "shipping unavailable" nas três opções | Fato oficial | mesma página | — | [x] Sim |
-| Imposto de importação e taxas são do cliente e não são reembolsados; o valor declarado na alfândega é o efetivamente pago, com o frete, e não pode ser alterado | Fato oficial | `jolse.com/article/faq/3/130700/` ("Customs Tax / Shipping Issues") | — | [x] Sim |
+| Imposto de importação e taxas ficam por conta do cliente ("If some charges occur, it is the buyer's responsibility"); o valor declarado na alfândega é o efetivamente pago, com o frete, e não pode ser alterado | Fato oficial | `jolse.com/article/faq/3/130700/` ("Customs Tax / Shipping Issues") e `shipping_notice.html` | — | [x] Sim. **Correção do Job 3 (12/10/2026):** a página não traz frase de "sem reembolso"; o texto diz "por conta do cliente" e não fala em reembolso |
 | Devolução: defeito, item errado ou faltando em até 7 dias do recebimento, com fotos; sem devolução por arrependimento nem de produto aberto | Fato oficial | `jolse.com/article/faq/3/130701/` | — | [x] Sim |
 
 **6.5 Stylevana (lido em 12/10/2026) e Yami (fora da comparação)**
@@ -389,3 +392,38 @@ Palavras fora dos títulos: confiável, legit, safe, scam, fake, melhor.
    "mesmos claims do PT" não vale para as tabelas de mercado, que mudam de idioma para idioma. A conferência é contra a
    matriz da seção 6, linha a linha.
 10. **Nenhuma versão passou por pessoa nativa do idioma.**
+
+## Redação
+Redigido em 12/10/2026 (Job 2: Claude), revisado no Job 3 por outro agente e conformado no Job 4. Pronto para deploy.
+
+**PT (`yesstyle-ou-stylevana`, id 405, `type` Comparativo de Lojas):** resposta rápida; quem entrega no Brasil (YesStyle, Jolse e StyleKorean na tabela; o aviso de pausa da YesStyle; a Olive Young Global cita o Brasil entre os países sem envio; a lista de destinos do Stylevana varia conforme a versão, mais o artigo de imposto de 17/06/2026); quem entrega em Portugal; quem paga o imposto (cinco lojas); devolução e produto aberto (gráfico); o que cada loja diz sobre originalidade (link para o guia de confiança); o que olhar antes de escolher (link para o guia de entrega); YesStyle e SHEIN; YesStyle ou Shopee; parceria e código de recompensa; FAQ com 10 itens.
+
+**Job 3 (12/10/2026), aprovado com ajustes, todos aplicados:**
+- O texto diz, onde cita o reembolso, que a política da YesStyle não cita o ICMS.
+- Jolse: imposto e taxas "por conta do cliente", sem "sem reembolso" (FAQ 130700 conferida; matriz 6.4 corrigida).
+- O resumo do Brasil ficou neutro; da StyleKorean, só o aviso do topo.
+- O Remessa Conforme com as duas faixas (0% até US$ 50; 60% menos US$ 30 acima) e 60% sem desconto fora dele, com o ICMS nos dois casos.
+- O FAQ não ordena valores em moedas diferentes, e o "mais rápido" diz que os prazos publicados são do envio, não o total.
+- Stylevana em Portugal: "a loja não lista os países com imposto incluído".
+- O gráfico da devolução foi refeito: o primeiro tinha um visto numa caixa lacrada, falso para a Olive Young e a Jolse, que não aceitam arrependimento. Ficou a caixa aberta com a seta de devolução e um X.
+
+**Leituras novas da redação (12/10/2026, na matriz 6.2 e 6.4):** a Olive Young Global (a tabela de envio v1.7 com "outras regiões", a loja separada OLIVE YOUNG US desde 29/05/2026, o reembolso e a FAQ da UE, o que resolve a seção 10, item 6) e a tabela completa da Jolse, lida do `js/shipping_fee_data.js` da página, sem mexer no seletor.
+
+**Ordem dos links (12/10/2026):** nas 10 versões, o link do guia de entrega foi para "O que olhar antes de escolher", apresentado pelo primeiro item, e a frase do guia de confiança fecha o item da YesStyle na seção de originalidade.
+
+**Traduções (Job 4, decisão A e regra D):** ids 406 a 414, cada uma com as lojas que atendem os países do idioma (tabela da seção 8). en: EUA, Reino Unido, Canadá e Austrália, com a OLIVE YOUNG US no lugar da Olive Young Global nos EUA. es: Espanha, México e os quatro sul-americanos, o Stylevana sem a Argentina e o reembolso de imposto só no site do México. fr, de e it: com a alfândega de € 3 da UE. ko e ja: a YesStyle na tabela e uma frase para cada loja que não mostra o país. zh-hant: Taiwan e Hong Kong (o Stylevana só em Hong Kong). zh-hans: Singapura e Malásia. Quando a Olive Young Global fica fora da tabela de um país, a nota das "outras regiões" aparece uma vez.
+
+**Releitura (item 10 do Job 4), 12/10/2026, por outro agente:**
+- en: o resumo dos EUA em duas frases; "Import tax"; "package".
+- es: "Argentina no aparece en su lista de destinos"; o reembolso do Stylevana restrito ao México ("allí"); "costo".
+- fr: "pour changement d'avis"; "crédit en boutique"; no Canadá, "seule la Saskatchewan a une PST".
+- de: "bei Nichtgefallen"; "48 €"; a frase do Reward Code dividida.
+- it: "Tempi di spedizione"; "affida il pacco al corriere"; "credito nel negozio".
+- ko: o item de imposto só com o fato; a Jolse reembolsa depois que o produto chega ao armazém dela; "Stylevana 크레딧".
+- ja: o FAQ com 10 itens ("YesStyleは日本に配送しますか？"); "正規代理店"; "入っていなかった商品".
+- zh-hant: "Express"; "可送貨上門，或送到智能櫃、順豐站自取"; "未滿 US$1,000".
+- zh-hans: "YesStyle Credit"; "西马"; o "mais rápido" com Sabah, Sarawak e Labuan.
+
+**Imagens (no CDN desde 13/10/2026, com o OK do Bruno):** `yesstyle-ou-stylevana-capa.webp` (capa, o gráfico B sem palavras além dos nomes, decisão do Bruno de 12/10) e `lojas-kbeauty-produto-aberto-devolucao.webp` (corpo): gráficos nossos com ícones Lucide (licença ISC), iguais nas 10 versões.
+
+**Gates (13/10/2026, depois do merge da main com o parser único do FAQ, #74 a #76):** typecheck, eslint, `validate:content`, `test:review-i18n` (12 famílias), `validate:video`, `test-yesstyle-mutation`, `test-delivery-integration`, a build completa (com `test:build-output` e `test:client-bundle`) e a conferência do HTML das 20 páginas da fase (toda imagem do artigo vem do CDN, o CTA é o link da YesStyle e nenhuma versão fora do PT tem `/cupons/`).

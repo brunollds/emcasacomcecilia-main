@@ -1,0 +1,198 @@
+{
+  "id": 411,
+  "slug": "yesstyle-vs-stylevana-ko",
+  "locale": "ko",
+  "translationKey": "yesstyle-vs-alternatives",
+  "title": "YesStyle vs Stylevana: 한국 배송, 관세, 반품 비교",
+  "seoTitle": "YesStyle vs Stylevana: 한국 배송, 관세, 반품 비교",
+  "type": "쇼핑몰 비교",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "한국으로 배송하는 곳이 어디인지, 그리고 YesStyle, Stylevana, Olive Young, StyleKorean, Jolse 다섯 곳의 반품 규정을 공식 페이지 기준으로 정리했습니다.",
+  "metaDescription": "YesStyle vs Stylevana: 한국으로 배송하는 곳, YesStyle의 배송비와 세금 환급, 다섯 쇼핑몰의 반품 규정을 공식 페이지 기준으로 정리했습니다.",
+  "publishedAt": "2026년 10월 13일",
+  "publishedAtISO": "2026-10-13",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa.webp",
+  "imageAlt": "YesStyle과 Stylevana 이름이 나란히 있고, 지구본, 트럭, 시계, 반품 화살표 아이콘이 붙은 네 줄이 있는 일러스트",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "핵심 요약",
+      "paragraphs": [
+        "모든 사람에게 맞는 쇼핑몰은 없습니다. 어디가 맞는지는 나라, 세금을 누가 내는지, 쇼핑몰이 무엇을 반품받아 주는지에 따라 달라집니다.",
+        "한국 배송은 YesStyle이 Express 영업일 3~5일로 안내하고, US$ 50 이상이면 배송비가 무료입니다. Stylevana의 배송 가능 국가 목록에는 한국이 없고, Jolse의 배송비 표는 한국을 배송 불가로 표시합니다. Olive Young Global의 배송 표에도 한국은 나오지 않습니다.",
+        "이 글은 가격을 비교하지 않고, 경쟁 쇼핑몰을 직접 테스트하지도 않았습니다. 표와 목록은 각 쇼핑몰이 공식 페이지에 게시한 내용을 2026년 10월 12일에 확인해 모은 것입니다."
+      ]
+    },
+    {
+      "heading": "한국으로 배송하는 쇼핑몰",
+      "bullets": [
+        "**YesStyle:** Express 배송으로 영업일 3~5일이 걸립니다. US$ 50 이상이면 배송비가 무료이고, 그 미만은 US$ 7입니다.",
+        "**Stylevana:** 영어 고객센터의 배송 가능 국가 목록(2026년 10월 9일 갱신)에 한국이 없습니다.",
+        "**Jolse:** 배송비 표가 한국을 배송 불가로 표시합니다.",
+        "**Olive Young Global:** 글로벌 쇼핑몰의 배송 표에 한국이 없습니다. Olive Young은 한국에 1,400개가 넘는 매장을 두고 있습니다. 배송 페이지에는 이름을 밝히지 않은 ‘기타 지역’도 있으며, 전체 목록은 사이트의 국가 선택 메뉴에서 볼 수 있습니다."
+      ]
+    },
+    {
+      "heading": "세금은 누가 내나요?",
+      "bullets": [
+        "**YesStyle:** 한국용 세금 안내 페이지는 없습니다. 세관이 배송 때 부과한 금액은 US$ 1,000 미만 주문에 한해 YesStyle 크레딧으로 환급합니다.",
+        "**Stylevana, Jolse, Olive Young Global:** 세 곳 모두 한국이 배송 대상으로 나오지 않습니다."
+      ]
+    },
+    {
+      "heading": "반품과 개봉한 제품",
+      "paragraphs": [
+        "다섯 쇼핑몰 모두 개봉한 뷰티 제품은 단순 변심으로 반품할 수 없습니다. 달라지는 것은 반품을 요청할 수 있는 기간과 각 쇼핑몰이 받아 주는 범위입니다."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/lojas-kbeauty-produto-aberto-devolucao.webp",
+        "alt": "열린 상자와 반품 화살표, 모서리에 X 표시가 있는 일러스트",
+        "caption": "YesStyle, Stylevana, Olive Young Global, StyleKorean, Jolse 모두 개봉한 뷰티 제품은 단순 변심으로 반품할 수 없습니다.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
+      "comparisonTable": {
+        "caption": "반품 요청 기한, 각 쇼핑몰이 받아 주는 범위, 환불 방식입니다. 2026년 10월 12일에 확인한 공식 페이지 기준입니다.",
+        "headers": [
+          "쇼핑몰",
+          "요청 기한",
+          "반품되는 것과 안 되는 것",
+          "환불 방식"
+        ],
+        "rows": [
+          [
+            "YesStyle",
+            "수령 후 14일, RMA 번호 필요",
+            "개봉한 뷰티 제품과 건강보조식품은 반품 불가",
+            "YesStyle 크레딧; 요청하면 결제 수단으로"
+          ],
+          [
+            "Stylevana",
+            "수령 후 14일",
+            "결함, 오배송, 단순 변심(뷰티 제품은 새 제품이고 미개봉, 미사용일 때만)",
+            "Stylevana 크레딧; 처음 낸 배송비는 환불되지 않음"
+          ],
+          [
+            "Olive Young Global",
+            "수령 후 30일",
+            "결함 또는 오배송만; 교환 불가",
+            "결제 수단으로, 반품 배송비는 쇼핑몰 부담"
+          ],
+          [
+            "StyleKorean",
+            "14영업일",
+            "미개봉, 미사용 제품; 알레르기로 인한 반품 불가",
+            "포인트 또는 결제 수단으로, 배송비 차감"
+          ],
+          [
+            "Jolse",
+            "수령 후 7일, 사진 첨부",
+            "결함, 오배송, 누락만; 개봉했거나 사용한 제품은 반품 불가",
+            "반품한 제품이 Jolse 창고에 도착한 뒤"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "각 쇼핑몰이 밝히는 정품 여부",
+      "paragraphs": [
+        "각 쇼핑몰이 밝힌 내용은 다음과 같으며, 쇼핑몰 스스로 한 주장이고 독립적인 검증은 거치지 않았습니다."
+      ],
+      "bullets": [
+        "**YesStyle:** 모든 제품이 정품이며 400개가 넘는 한국 브랜드의 공인 유통업체라고 밝힙니다. YesStyle을 운영하는 곳과 구매 전에 살펴볼 점은 신뢰 가이드에 있습니다.",
+        "**Stylevana:** 판매하는 모든 제품이 정품이며, 평판이 좋은 공급업체와 공인 유통업체에서 구매한다고 밝힙니다.",
+        "**Olive Young Global:** 한국에 있는 자사 매장(1,400개가 넘음)과 같은 정품을 판매한다고 밝힙니다."
+      ],
+      "links": [
+        {
+          "label": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보",
+          "href": "/ko/reviews/yesstyle-trust-guide-ko"
+        }
+      ]
+    },
+    {
+      "heading": "고르기 전에 확인할 것",
+      "bullets": [
+        "**내가 사는 나라로 배송하나요?** 쇼핑몰의 배송 안내 페이지에서 내 나라를 찾아 배송비와 기간을 확인하세요. YesStyle이 한국에 대해 게시한 내용은 배송 가이드에 있습니다.",
+        "**세금은 누가 내나요?** 가격에 이미 포함되어 있는지, 결제할 때 부과되는지, 택배가 도착한 뒤 부과되는지, 쇼핑몰이 환급해 주는지 살펴보세요.",
+        "**무엇을 반품받아 주나요?** 반품 요청 기한과 환불 방식을 비교하세요."
+      ],
+      "links": [
+        {
+          "label": "YesStyle 한국 배송: 배송 기간, 배송비, 관세",
+          "href": "/ko/reviews/yesstyle-shipping-korea-ko"
+        }
+      ]
+    },
+    {
+      "heading": "YesStyle과 SHEIN은 같은 회사인가요?",
+      "paragraphs": [
+        "아니요. YesStyle은 SHEIN Group의 브랜드 목록(2026년 10월 12일 확인)에 없습니다. 그 목록에는 SHEIN, DAZY, ROMWE, MOTF, ANEWSTA, MUSERA, GLOWMODE, ARALINA가 있습니다. YesStyle은 홍콩의 YesAsia Holdings 소속이라고 밝힙니다."
+      ]
+    },
+    {
+      "heading": "제휴와 리워드 코드",
+      "paragraphs": [
+        "CECILIA010은 YesStyle에서 쓰는 Cecília의 리워드 코드입니다. 결제 화면의 Reward Code 칸에 입력하면 첫 구매에 최대 5%, 재구매에 2% 할인이 적용되고, YesStyle 쿠폰과 합산됩니다. 이 비교에 나온 다른 쇼핑몰에는 저희 코드가 없습니다."
+      ],
+      "links": [
+        {
+          "label": "YesStyle 스토어에서 오늘의 할인과 리워드 코드 CECILIA010 보기",
+          "href": "/ko/coupons/yesstyle"
+        }
+      ]
+    },
+    {
+      "heading": "자주 묻는 질문",
+      "bullets": [
+        "YesStyle과 Stylevana 중 어디가 더 좋나요? 나라에 따라 다릅니다. 한국 기준으로 YesStyle은 Express 영업일 3~5일에 US$ 50 이상 무료배송을 안내하고, Stylevana의 배송 가능 국가 목록(2026년 10월 9일)에는 한국이 없습니다.",
+        "YesStyle은 SHEIN과 같은 회사인가요? 아니요. YesStyle은 SHEIN Group의 브랜드 목록에 없고, 홍콩의 YesAsia Holdings 소속이라고 밝힙니다.",
+        "Stylevana는 한국으로 배송하나요? 영어 고객센터의 배송 가능 국가 목록(2026년 10월 9일 갱신)에 한국이 없습니다.",
+        "Olive Young Global은 한국으로 배송하나요? 글로벌 쇼핑몰의 배송 표에 한국은 나오지 않습니다.",
+        "Jolse는 한국으로 배송하나요? Jolse의 배송비 표는 한국을 배송 불가로 표시합니다.",
+        "세금은 누가 내나요? YesStyle은 한국용 세금 안내 페이지가 없습니다. 세관이 배송 때 부과한 금액은 US$ 1,000 미만 주문에 한해 YesStyle 크레딧으로 환급합니다.",
+        "개봉한 뷰티 제품을 반품할 수 있나요? 다섯 쇼핑몰 모두 단순 변심으로는 반품할 수 없습니다. Stylevana는 제품이 새 것이고 미개봉, 미사용일 때만 단순 변심 반품을 받아 줍니다.",
+        "YesStyle의 한국 배송은 얼마나 걸리고 배송비는 얼마인가요? Express 배송은 영업일 3~5일이고, US$ 50 이상이면 무료, 그 미만은 US$ 7입니다. YesStyle이 게시하는 기간은 배송 구간만이며, 상품이 창고에서 출고되기까지의 시간은 포함되지 않습니다.",
+        "어느 쇼핑몰이 더 저렴한가요? 이 글은 가격을 비교하지 않습니다. 각 쇼핑몰의 결제 화면에서 배송비와 세금까지 포함한 총액을 비교하세요.",
+        "YesStyle의 리워드 코드는 어디에 입력하나요? CECILIA010은 결제 화면의 Reward Code 칸에 입력합니다. 지금 쓸 수 있는 쿠폰은 이 사이트의 YesStyle 페이지에 있습니다."
+      ]
+    }
+  ],
+  "cta": {
+    "text": "결제 화면에서 내 주소의 배송비와 세금을 확인하고 Reward Code 칸에 CECILIA010을 붙여넣으세요.",
+    "label": "YesStyle로 이동",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
+  },
+  "coupon": "CECILIA010",
+  "affiliate": "yesstyle",
+  "editorialNote": "YesStyle에서 수수료를 받을 수 있습니다. 다른 쇼핑몰의 규정은 각 공식 페이지 기준입니다.",
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-shipping-korea-ko",
+      "title": "YesStyle 한국 배송: 배송 기간, 배송비, 관세"
+    },
+    {
+      "slug": "yesstyle-trust-guide-ko",
+      "title": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보"
+    },
+    {
+      "slug": "yesstyle-reward-code-cecilia010-ko",
+      "title": "YesStyle 리워드 코드 CECILIA010: 최대 5% 할인 (첫 구매 5% / 재구매 2%)"
+    }
+  ]
+}
