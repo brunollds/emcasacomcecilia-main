@@ -6,9 +6,11 @@ parceiro: "[[YesStyle]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo de Lojas"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy (decisão do Bruno); as 5 imagens novas da fase 5 já estão no CDN. Depois do deploy: encurtar o frete das famílias de confiança e de Black Friday da YesStyle e linkar para a família de entrega (seção 10)"
+proxima_acao: "nenhuma"
+publicado_em: "2026-10-13"
+nota_publicacao: "Publicado no PR #77 em 13/10/2026 (decisão do Bruno; squash f3362a5, no ar às 02:01 UTC), as 10 versões com a capa e o gráfico da devolução no CDN."
 bloqueado_por: null
 score_autoridade: 75
 score_conversao: 78

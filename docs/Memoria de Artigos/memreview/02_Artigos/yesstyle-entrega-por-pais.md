@@ -6,9 +6,11 @@ parceiro: "[[YesStyle]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Entrega e Frete"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy (decisão do Bruno); as 5 imagens novas da fase 5 já estão no CDN. Depois do deploy: encurtar o frete das famílias de confiança e de Black Friday da YesStyle e linkar para a família de entrega (seção 10)"
+proxima_acao: "nenhuma"
+publicado_em: "2026-10-13"
+nota_publicacao: "Publicado no PR #77 em 13/10/2026 (decisão do Bruno; squash f3362a5, no ar às 02:01 UTC), as 10 versões com a capa e os 2 gráficos do corpo no CDN. Pendente na seção 10, item 5: encurtar o frete das famílias de confiança e de Black Friday e linkar para cá."
 bloqueado_por: null
 score_autoridade: 80
 score_conversao: 75
