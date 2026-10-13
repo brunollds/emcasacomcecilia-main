@@ -57124,6 +57124,556 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/yesstyle/lojas-kbeauty-produto-aberto-devolucao.webp",
+      "local_url": "/images/reviews/yesstyle/lojas-kbeauty-produto-aberto-devolucao.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 10592,
+      "sha256": "94477508100240e13615a35b1fab0b5b0f8f9ca708ee5c829dc5b199f991d3dd",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "lojas-kbeauty-produto-aberto-devolucao.webp",
+      "storage_filename": "lojas-kbeauty-produto-aberto-devolucao.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-o-stylevana-cual-elegir.json",
+        "content/reviews/yesstyle-o-stylevana-quale-scegliere.json",
+        "content/reviews/yesstyle-oder-stylevana-welcher-shop.json",
+        "content/reviews/yesstyle-ou-stylevana-que-choisir.json",
+        "content/reviews/yesstyle-ou-stylevana.json",
+        "content/reviews/yesstyle-vs-stylevana-ja.json",
+        "content/reviews/yesstyle-vs-stylevana-ko.json",
+        "content/reviews/yesstyle-vs-stylevana-olive-young.json",
+        "content/reviews/yesstyle-vs-stylevana-zh-hans.json",
+        "content/reviews/yesstyle-vs-stylevana-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-o-stylevana-cual-elegir.json",
+          "line": 177,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/lojas-kbeauty-produto-aberto-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-o-stylevana-quale-scegliere.json",
+          "line": 124,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/lojas-kbeauty-produto-aberto-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-oder-stylevana-welcher-shop.json",
+          "line": 131,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/lojas-kbeauty-produto-aberto-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-ou-stylevana-que-choisir.json",
+          "line": 131,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/lojas-kbeauty-produto-aberto-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-ou-stylevana.json",
+          "line": 162,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/lojas-kbeauty-produto-aberto-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-stylevana-ja.json",
+          "line": 65,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/lojas-kbeauty-produto-aberto-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-stylevana-ko.json",
+          "line": 62,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/lojas-kbeauty-produto-aberto-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-stylevana-olive-young.json",
+          "line": 136,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/lojas-kbeauty-produto-aberto-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-stylevana-zh-hans.json",
+          "line": 126,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/lojas-kbeauty-produto-aberto-devolucao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-stylevana-zh-hant.json",
+          "line": 125,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/lojas-kbeauty-produto-aberto-devolucao.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/94477508100240e13615a35b1fab0b5b0f8f9ca708ee5c829dc5b199f991d3dd/lojas-kbeauty-produto-aberto-devolucao.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/94477508100240e13615a35b1fab0b5b0f8f9ca708ee5c829dc5b199f991d3dd/lojas-kbeauty-produto-aberto-devolucao.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T01:32:03.287Z",
+      "verification_etag_or_digest": "94477508100240e13615a35b1fab0b5b0f8f9ca708ee5c829dc5b199f991d3dd",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16108,
+      "sha256": "fa13b920dcab7872947f0932a73a67f9c457de5b5d72666d288cad2ec31b0457",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-entrega-frete-imposto-capa.webp",
+      "storage_filename": "yesstyle-entrega-frete-imposto-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-entrega-no-brasil-e-portugal.json",
+        "content/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia.json",
+        "content/reviews/yesstyle-livraison-france-belgique-canada.json",
+        "content/reviews/yesstyle-shipping-japan-ja.json",
+        "content/reviews/yesstyle-shipping-korea-ko.json",
+        "content/reviews/yesstyle-shipping-singapore-malaysia-zh-hans.json",
+        "content/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant.json",
+        "content/reviews/yesstyle-shipping-us-uk-canada-australia.json",
+        "content/reviews/yesstyle-spedizione-italia-tempi-costi-dogana.json",
+        "content/reviews/yesstyle-versand-deutschland-oesterreich-schweiz.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-entrega-no-brasil-e-portugal.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-livraison-france-belgique-canada.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-japan-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-korea-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-singapore-malaysia-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-us-uk-canada-australia.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-spedizione-italia-tempi-costi-dogana.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-versand-deutschland-oesterreich-schweiz.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/fa13b920dcab7872947f0932a73a67f9c457de5b5d72666d288cad2ec31b0457/yesstyle-entrega-frete-imposto-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fa13b920dcab7872947f0932a73a67f9c457de5b5d72666d288cad2ec31b0457/yesstyle-entrega-frete-imposto-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T01:32:03.288Z",
+      "verification_etag_or_digest": "fa13b920dcab7872947f0932a73a67f9c457de5b5d72666d288cad2ec31b0457",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-imposto-no-preco-ou-na-entrega.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-imposto-no-preco-ou-na-entrega.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 10932,
+      "sha256": "a4d718b2f17d083ad86bcde651b72509268bb7f7f8f6f7f5c55e646eb98eb5a6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-imposto-no-preco-ou-na-entrega.webp",
+      "storage_filename": "yesstyle-imposto-no-preco-ou-na-entrega.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-entrega-no-brasil-e-portugal.json",
+        "content/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia.json",
+        "content/reviews/yesstyle-livraison-france-belgique-canada.json",
+        "content/reviews/yesstyle-shipping-japan-ja.json",
+        "content/reviews/yesstyle-shipping-korea-ko.json",
+        "content/reviews/yesstyle-shipping-singapore-malaysia-zh-hans.json",
+        "content/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant.json",
+        "content/reviews/yesstyle-shipping-us-uk-canada-australia.json",
+        "content/reviews/yesstyle-spedizione-italia-tempi-costi-dogana.json",
+        "content/reviews/yesstyle-versand-deutschland-oesterreich-schweiz.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-entrega-no-brasil-e-portugal.json",
+          "line": 99,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-imposto-no-preco-ou-na-entrega.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia.json",
+          "line": 124,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-imposto-no-preco-ou-na-entrega.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-livraison-france-belgique-canada.json",
+          "line": 103,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-imposto-no-preco-ou-na-entrega.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-japan-ja.json",
+          "line": 89,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-imposto-no-preco-ou-na-entrega.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-korea-ko.json",
+          "line": 89,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-imposto-no-preco-ou-na-entrega.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-singapore-malaysia-zh-hans.json",
+          "line": 96,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-imposto-no-preco-ou-na-entrega.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant.json",
+          "line": 107,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-imposto-no-preco-ou-na-entrega.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-us-uk-canada-australia.json",
+          "line": 148,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-imposto-no-preco-ou-na-entrega.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-spedizione-italia-tempi-costi-dogana.json",
+          "line": 89,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-imposto-no-preco-ou-na-entrega.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-versand-deutschland-oesterreich-schweiz.json",
+          "line": 109,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-imposto-no-preco-ou-na-entrega.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a4d718b2f17d083ad86bcde651b72509268bb7f7f8f6f7f5c55e646eb98eb5a6/yesstyle-imposto-no-preco-ou-na-entrega.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a4d718b2f17d083ad86bcde651b72509268bb7f7f8f6f7f5c55e646eb98eb5a6/yesstyle-imposto-no-preco-ou-na-entrega.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T01:32:03.288Z",
+      "verification_etag_or_digest": "a4d718b2f17d083ad86bcde651b72509268bb7f7f8f6f7f5c55e646eb98eb5a6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-ou-stylevana-capa.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19298,
+      "sha256": "c0f84ddd9bde94bbf0594575eaca9b7eef203a7ef03607660d3a5dc836174f7d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-ou-stylevana-capa.webp",
+      "storage_filename": "yesstyle-ou-stylevana-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-o-stylevana-cual-elegir.json",
+        "content/reviews/yesstyle-o-stylevana-quale-scegliere.json",
+        "content/reviews/yesstyle-oder-stylevana-welcher-shop.json",
+        "content/reviews/yesstyle-ou-stylevana-que-choisir.json",
+        "content/reviews/yesstyle-ou-stylevana.json",
+        "content/reviews/yesstyle-vs-stylevana-ja.json",
+        "content/reviews/yesstyle-vs-stylevana-ko.json",
+        "content/reviews/yesstyle-vs-stylevana-olive-young.json",
+        "content/reviews/yesstyle-vs-stylevana-zh-hans.json",
+        "content/reviews/yesstyle-vs-stylevana-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-o-stylevana-cual-elegir.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-o-stylevana-quale-scegliere.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-oder-stylevana-welcher-shop.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-ou-stylevana-que-choisir.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-ou-stylevana.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-stylevana-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-stylevana-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-stylevana-olive-young.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-stylevana-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-vs-stylevana-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c0f84ddd9bde94bbf0594575eaca9b7eef203a7ef03607660d3a5dc836174f7d/yesstyle-ou-stylevana-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c0f84ddd9bde94bbf0594575eaca9b7eef203a7ef03607660d3a5dc836174f7d/yesstyle-ou-stylevana-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T01:32:03.288Z",
+      "verification_etag_or_digest": "c0f84ddd9bde94bbf0594575eaca9b7eef203a7ef03607660d3a5dc836174f7d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+      "local_url": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 10150,
+      "sha256": "e6f31639a104689e94aea8b71539cdf520fb4b5f3b4d2883f9f7d09c783e7909",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "yesstyle-prazo-disponibilidade-mais-envio.webp",
+      "storage_filename": "yesstyle-prazo-disponibilidade-mais-envio.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/yesstyle-entrega-no-brasil-e-portugal.json",
+        "content/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia.json",
+        "content/reviews/yesstyle-livraison-france-belgique-canada.json",
+        "content/reviews/yesstyle-shipping-japan-ja.json",
+        "content/reviews/yesstyle-shipping-korea-ko.json",
+        "content/reviews/yesstyle-shipping-singapore-malaysia-zh-hans.json",
+        "content/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant.json",
+        "content/reviews/yesstyle-shipping-us-uk-canada-australia.json",
+        "content/reviews/yesstyle-spedizione-italia-tempi-costi-dogana.json",
+        "content/reviews/yesstyle-versand-deutschland-oesterreich-schweiz.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/yesstyle-entrega-no-brasil-e-portugal.json",
+          "line": 89,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia.json",
+          "line": 114,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-livraison-france-belgique-canada.json",
+          "line": 93,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-japan-ja.json",
+          "line": 79,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-korea-ko.json",
+          "line": 79,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-singapore-malaysia-zh-hans.json",
+          "line": 86,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant.json",
+          "line": 94,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-shipping-us-uk-canada-australia.json",
+          "line": 138,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-spedizione-italia-tempi-costi-dogana.json",
+          "line": 79,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-versand-deutschland-oesterreich-schweiz.json",
+          "line": 99,
+          "column": 17,
+          "literal": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e6f31639a104689e94aea8b71539cdf520fb4b5f3b4d2883f9f7d09c783e7909/yesstyle-prazo-disponibilidade-mais-envio.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e6f31639a104689e94aea8b71539cdf520fb4b5f3b4d2883f9f7d09c783e7909/yesstyle-prazo-disponibilidade-mais-envio.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-13T01:32:03.288Z",
+      "verification_etag_or_digest": "e6f31639a104689e94aea8b71539cdf520fb4b5f3b4d2883f9f7d09c783e7909",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/universe/damie-hero-cecilia.webp",
       "local_url": "/images/universe/damie-hero-cecilia.webp",
       "media_kind": "image",

@@ -1,0 +1,207 @@
+{
+  "id": 397,
+  "slug": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia",
+  "locale": "es",
+  "translationKey": "yesstyle-shipping-by-country",
+  "title": "¿YesStyle envía a España, México, Chile, Perú, Argentina y Colombia? Plazos, costo de envío e impuestos",
+  "seoTitle": "Envíos de YesStyle a España, México, Chile y Perú: plazos",
+  "type": "Guía de Envíos",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Lo que YesStyle publica sobre plazos de entrega, envío gratis e impuestos en España, México, Chile, Perú, Argentina y Colombia, y cómo pedir el reembolso de las tasas de aduana.",
+  "metaDescription": "¿YesStyle envía a España, México, Chile, Perú, Argentina y Colombia? Plazos y envío gratis según la tabla de la tienda del 6 de octubre de 2026, e impuestos.",
+  "publishedAt": "13 de octubre de 2026",
+  "publishedAtISO": "2026-10-13",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/yesstyle/yesstyle-entrega-frete-imposto-capa.webp",
+  "imageAlt": "Ilustración con el nombre YesStyle y cuatro iconos unidos por una línea: globo terráqueo, camión, reloj y recibo",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "Respuesta rápida",
+      "paragraphs": [
+        "Esta versión cubre España, México, Chile, Perú, Argentina y Colombia; las otras versiones de idioma de esta guía cubren otros países."
+      ],
+      "bullets": [
+        "**España:** envío Standard en 10 a 15 días hábiles, gratis desde US$ 45 (US$ 5 por debajo del mínimo). El IVA del 21% ya está en el precio.",
+        "**México:** envío Standard en 10 a 13 días hábiles, gratis desde US$ 45 (US$ 6 por debajo del mínimo). YesStyle no publica los impuestos de México; si la aduana cobra algo al entregar el paquete, aplica el reembolso de YesStyle (más abajo).",
+        "**Chile:** envío Standard en 15 a 20 días hábiles, gratis desde US$ 60 (US$ 6 por debajo del mínimo). YesStyle no publica los impuestos de Chile; si la aduana cobra algo al entregar el paquete, aplica el reembolso de YesStyle (más abajo).",
+        "**Perú:** envío Standard en 15 a 22 días hábiles, gratis desde US$ 60 (US$ 6 por debajo del mínimo). YesStyle no publica los impuestos de Perú; si la aduana cobra algo al entregar el paquete, aplica el reembolso de YesStyle (más abajo).",
+        "**Argentina:** envío Standard en 15 a 27 días hábiles, gratis desde US$ 60 (US$ 8 por debajo del mínimo). YesStyle no publica los impuestos de Argentina; si la aduana cobra algo al entregar el paquete, aplica el reembolso de YesStyle (más abajo).",
+        "**Colombia:** envío Standard en 15 a 22 días hábiles, gratis desde US$ 45 (US$ 5 por debajo del mínimo). El 11 de agosto de 2026, YesStyle avisó de atrasos en los envíos a Colombia a causa del terremoto. YesStyle no publica los impuestos de Colombia; si la aduana cobra algo al entregar el paquete, aplica el reembolso de YesStyle (más abajo)."
+      ],
+      "postParagraphs": [
+        "Las cifras salen de la tabla de envío de YesStyle vigente desde el 6 de octubre de 2026 y de sus páginas de impuestos por región, leídas el 12 de octubre de 2026. Los valores están en dólares estadounidenses, como los publica la tienda."
+      ]
+    },
+    {
+      "heading": "Plazo y costo de envío en España, México, Chile, Perú, Argentina y Colombia",
+      "paragraphs": [
+        "Al plazo del envío se suma el tiempo que tarda el producto en salir del almacén, que se explica más abajo."
+      ],
+      "comparisonTable": {
+        "caption": "Plazo y costo de envío de YesStyle a España, México, Chile, Perú, Argentina y Colombia, según la tabla vigente desde el 6 de octubre de 2026, leída el 12 de octubre de 2026.",
+        "headers": [
+          "País",
+          "Envío y plazo",
+          "Envío gratis",
+          "Envío por debajo del mínimo"
+        ],
+        "rows": [
+          [
+            "España (el envío no incluye las Baleares, las Canarias —Tenerife incluida—, Ceuta ni Melilla)",
+            "Standard, 10 a 15 días hábiles",
+            "desde US$ 45",
+            "US$ 5"
+          ],
+          [
+            "México",
+            "Standard, 10 a 13 días hábiles",
+            "desde US$ 45",
+            "US$ 6"
+          ],
+          [
+            "Chile",
+            "Standard, 15 a 20 días hábiles",
+            "desde US$ 60",
+            "US$ 6"
+          ],
+          [
+            "Perú",
+            "Standard, 15 a 22 días hábiles",
+            "desde US$ 60",
+            "US$ 6"
+          ],
+          [
+            "Argentina",
+            "Standard, 15 a 27 días hábiles",
+            "desde US$ 60",
+            "US$ 8"
+          ],
+          [
+            "Colombia",
+            "Standard, 15 a 22 días hábiles",
+            "desde US$ 45",
+            "US$ 5"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "YesStyle o Stylevana: envíos, impuestos y devoluciones lado a lado, con Olive Young, StyleKorean y Jolse",
+          "href": "/es/reviews/yesstyle-o-stylevana-cual-elegir"
+        }
+      ]
+    },
+    {
+      "heading": "Cómo se cuenta el plazo",
+      "paragraphs": [
+        "Todo pedido sale del almacén de YesStyle en Hong Kong. El plazo total es el tiempo que tarda el producto en estar disponible más el plazo del envío. Un producto en stock sale del almacén en 1 a 3 días hábiles; uno marcado como «Awaiting Stock» tarda de 3 a 30 días hábiles más, según la página del producto."
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-prazo-disponibilidade-mais-envio.webp",
+        "alt": "Ilustración de una suma: una caja más un camión es igual a un calendario",
+        "caption": "El plazo de YesStyle suma la disponibilidad de cada producto y el plazo del envío. La disponibilidad aparece en la página del producto.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "Impuestos: lo que ya está en el precio y lo que llega después",
+      "image": {
+        "src": "/images/reviews/yesstyle/yesstyle-imposto-no-preco-ou-na-entrega.webp",
+        "alt": "Ilustración con dos caminos: a la izquierda, un carrito de compras con el símbolo de porcentaje; a la derecha, una caja frente a una puerta con el mismo símbolo",
+        "caption": "En España, el IVA ya está en el precio; para los otros cinco países, la tienda no publica página de impuestos.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
+      "bullets": [
+        "**España:** el IVA del 21% ya está incluido en el precio de los productos y se suma al envío. Desde el 1 de julio de 2026, la UE cobra 3 € por categoría aduanera en paquetes de menos de 150 €, y YesStyle dice que, por ahora, paga esa tasa por el cliente.",
+        "**México, Chile, Perú, Argentina y Colombia:** YesStyle no tiene página de impuestos para estos países, y no hemos revisado las reglas de sus aduanas. Si la aduana cobra impuestos o tasas al entregar el paquete, rige el reembolso de YesStyle que se explica a continuación."
+      ]
+    },
+    {
+      "heading": "Si te cobran impuestos al recibir el paquete",
+      "paragraphs": [
+        "YesStyle reembolsa los impuestos y las tasas de aduana cobrados en la entrega en pedidos de menos de US$ 1.000; el valor del pedido se cuenta antes del cupón y sin el envío. Paga el cobro, guarda el comprobante y envíalo por correo electrónico a atención al cliente en un máximo de 30 días desde la fecha del comprobante. El reembolso llega como crédito en la tienda.",
+        "Quedan fuera las tasas del correo y del transportista (almacenaje, recogida, paquete no recogido o devuelto) y el impuesto que ya se cobra en el checkout, que en esta guía es el IVA de España. Si rechazas el paquete por el cobro, no recibes reembolso ni reenvío."
+      ]
+    },
+    {
+      "heading": "Si el paquete se retrasa o tiene que volver",
+      "paragraphs": [
+        "Un paquete perdido se reenvía sin costo, gracias a la garantía de la tienda (The YesStyle Promise). Un paquete que vuelve a la tienda por dirección equivocada, por un intento de entrega fallido o por no haberse recogido solo se reenvía con una tarifa de manejo y un nuevo costo de envío.",
+        "Para devolver un producto, pide el número de RMA en un máximo de 14 días desde la recepción. Los productos de belleza abiertos y los suplementos no se devuelven, y el reembolso estándar llega como crédito en la tienda.",
+        "Quién opera YesStyle y qué revisar antes de comprar están en la guía de confianza."
+      ],
+      "links": [
+        {
+          "label": "¿YesStyle es confiable y seguro? Quién la opera, de dónde es y envíos",
+          "href": "/es/reviews/es-yesstyle-de-fiar-y-seguro"
+        }
+      ]
+    },
+    {
+      "heading": "Colaboración y código de recompensa",
+      "paragraphs": [
+        "CECILIA010 es el código de recompensa de Cecília en YesStyle: va en el campo Código de Recompensa (Reward Code) del checkout y da hasta un 5% de descuento en la primera compra y un 2% en las siguientes, y suma con los cupones de la propia tienda. Los cupones vigentes están en la página de YesStyle de este sitio."
+      ],
+      "links": [
+        {
+          "label": "Ver el cupón de YesStyle de hoy y el código de recompensa CECILIA010",
+          "href": "/es/coupons/yesstyle"
+        }
+      ]
+    },
+    {
+      "heading": "Preguntas frecuentes",
+      "bullets": [
+        "¿YesStyle envía a España, México, Chile, Perú, Argentina y Colombia? Sí: los seis países están en la tabla de envío de la tienda, vigente desde el 6 de octubre de 2026, con envío Standard.",
+        "¿Cuánto tarda la entrega de YesStyle? El envío Standard tarda de 10 a 15 días hábiles en España, de 10 a 13 en México, de 15 a 20 en Chile, de 15 a 22 en Perú y Colombia y de 15 a 27 en Argentina, más 1 a 3 días hábiles para que el producto en stock salga del almacén de Hong Kong.",
+        "¿Desde cuánto es gratis el envío de YesStyle? Desde US$ 45 en España, México y Colombia, y desde US$ 60 en Chile, Perú y Argentina. Por debajo del mínimo cuesta US$ 5 en España y Colombia, US$ 6 en México, Chile y Perú, y US$ 8 en Argentina.",
+        "¿YesStyle cobra impuestos o tasas? En España, el IVA del 21% ya está en el precio. En México, Chile, Perú, Argentina y Colombia, YesStyle no publica los impuestos y no hemos revisado las reglas de aduana de esos países.",
+        "¿YesStyle reembolsa la tasa de aduana? Sí, como crédito en la tienda, en pedidos de menos de US$ 1.000, si envías el comprobante a atención al cliente en un máximo de 30 días. El IVA de España, que ya se cobra en el checkout, no entra en el reembolso.",
+        "¿Cómo pagar en YesStyle? Con tarjeta Visa, Mastercard, American Express o JCB, con PayPal, Apple Pay o Google Pay y, solo si la dirección de entrega está en México, con OXXO, que exige RFC o CURP. El banco puede cobrar una tarifa por transacción internacional.",
+        "¿Cómo devolver un producto de YesStyle? Pide el número de RMA a atención al cliente en un máximo de 14 días desde la recepción; el producto de belleza abierto no se devuelve.",
+        "¿YesStyle envía a toda España? No: el envío no incluye las Baleares, las Canarias (Tenerife incluida), Ceuta ni Melilla.",
+        "¿Por qué el plazo cambia de un pedido a otro? Porque suma la disponibilidad de cada producto, que puede llevar hasta 30 días hábiles, al plazo del envío.",
+        "¿Dónde están los cupones y el código de recompensa de YesStyle? En la página de YesStyle de este sitio, con los cupones vigentes y CECILIA010, que va en el campo Código de Recompensa (Reward Code)."
+      ]
+    }
+  ],
+  "cta": {
+    "text": "Revisa el envío y el plazo de tu dirección en el checkout y pega CECILIA010 en el campo Código de Recompensa (Reward Code)",
+    "label": "Ir a YesStyle",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
+  },
+  "coupon": "CECILIA010",
+  "affiliate": "yesstyle",
+  "editorialNote": "Reglas de las páginas oficiales de YesStyle. Podemos recibir comisión por las compras.",
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-o-stylevana-cual-elegir",
+      "title": "YesStyle o Stylevana: envíos, impuestos y devoluciones lado a lado, con Olive Young, StyleKorean y Jolse"
+    },
+    {
+      "slug": "es-yesstyle-de-fiar-y-seguro",
+      "title": "¿YesStyle es confiable y seguro? Quién la opera, de dónde es y envíos"
+    },
+    {
+      "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
+      "title": "YesStyle CECILIA010: código de recompensa"
+    }
+  ]
+}

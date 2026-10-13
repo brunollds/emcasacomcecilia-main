@@ -1,0 +1,261 @@
+{
+  "id": 413,
+  "slug": "yesstyle-vs-stylevana-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "yesstyle-vs-alternatives",
+  "title": "YesStyle 還是 Stylevana？台灣與香港的運送、稅費與退貨比較",
+  "seoTitle": "YesStyle 與 Stylevana 比較：台灣、香港運送與退貨",
+  "type": "購物平台比較",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "並排比較 YesStyle、Stylevana、Olive Young、StyleKorean 與 Jolse 在台灣與香港的運送情況、免運門檻、稅費由誰負擔，以及各店接受什麼退貨，內容取自各店官方頁面。",
+  "metaDescription": "YesStyle 還是 Stylevana？台灣與香港的運送時間、免運門檻、稅費與退貨比較，涵蓋 Olive Young、StyleKorean 與 Jolse，整理自各店官方頁面。",
+  "publishedAt": "2026年10月13日",
+  "publishedAtISO": "2026-10-13",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa.webp",
+  "imageAlt": "插圖：YesStyle 與 Stylevana 的名稱並排，下方四行各配一個圖示，分別是地球、貨車、時鐘與退貨箭頭",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "contentSections": [
+    {
+      "heading": "快速解答",
+      "paragraphs": [
+        "沒有哪一家店適合所有人。選哪一家，要看寄送的地區、稅費由誰負擔，以及店家接受什麼退貨。",
+        "在台灣，Stylevana 不在寄送目的地清單上（英文說明中心，2026年10月9日）。在香港，五家店都寄送。各店的免運門檻和運送時間不一樣，請看下面的表。",
+        "本文不比較價格，也沒有實際測試其他店家。表格整理的是各店在官方頁面公布的內容，查閱日期為 2026年10月12日。"
+      ]
+    },
+    {
+      "heading": "台灣與香港有哪些店寄送？",
+      "comparisonTable": {
+        "caption": "YesStyle、Stylevana、Olive Young Global、StyleKorean 與 Jolse 寄往台灣與香港的運送時間和免運門檻，取自各店官方頁面，查閱日期為 2026年10月12日。",
+        "headers": [
+          "商店",
+          "台灣",
+          "香港"
+        ],
+        "rows": [
+          [
+            "YesStyle",
+            "Express，3–6 個工作天；滿 US$50 免運",
+            "順豐速運，1–3 個工作天，從香港倉庫出貨；滿 US$35 免運"
+          ],
+          [
+            "Stylevana",
+            "不在寄送目的地清單上（2026年10月9日）",
+            "順豐速運，1–3 個工作天，可送貨上門，或送到智能櫃、順豐站自取；滿 HK$270 免運"
+          ],
+          [
+            "Olive Young Global",
+            "5–6 天；滿 US$35 免運",
+            "3–5 天；滿 US$60 免運"
+          ],
+          [
+            "StyleKorean",
+            "滿 US$70 免運",
+            "滿 US$70 免運"
+          ],
+          [
+            "Jolse",
+            "運費 US$2.99；超過 US$47 免運",
+            "運費 US$3.99；超過 US$33 免運"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "StyleKorean 沒有公布各地區的運送時間，只表示會在 5 個工作天內把包裹交給物流業者；Jolse 也沒有公布。表中的天數是各店公布的運送時間，不含商品離開倉庫前所需的時間。"
+      ]
+    },
+    {
+      "heading": "稅費由誰負擔",
+      "comparisonTable": {
+        "caption": "各店何時收取稅費，以及是否退還海關費用，取自官方頁面，查閱日期為 2026年10月12日。",
+        "headers": [
+          "商店",
+          "何時收取稅費",
+          "稅費退款"
+        ],
+        "rows": [
+          [
+            "YesStyle",
+            "YesStyle 沒有台灣與香港的稅費頁面",
+            "未滿 US$1,000 的訂單，到貨時被收取的費用可申請退款，以商店購物金退還"
+          ],
+          [
+            "Stylevana",
+            "店家表示「許多」地區的稅費已含在價格內，或在結帳時計算，但沒有列出是哪些地區；香港網站沒有說明由誰支付",
+            "香港網站沒有公布稅費退款"
+          ],
+          [
+            "Olive Young Global",
+            "價格與運費不含稅；到貨時被收取的費用由顧客負擔",
+            "這兩個地區未公布"
+          ],
+          [
+            "StyleKorean",
+            "海關稅費由顧客負擔",
+            "未公布"
+          ],
+          [
+            "Jolse",
+            "運費不含稅；被收取的費用由顧客負擔",
+            "未公布退款；稅費與海關費用由顧客自行負責"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "退貨與已拆封的商品",
+      "paragraphs": [
+        "五家店都不接受因改變心意而退回已拆封的美妝品。差別在於申請期限，以及各店接受什麼。"
+      ],
+      "image": {
+        "src": "/images/reviews/yesstyle/lojas-kbeauty-produto-aberto-devolucao.webp",
+        "alt": "插圖：一個打開的箱子和一個退貨箭頭，角落有一個叉號",
+        "caption": "在 YesStyle、Stylevana、Olive Young Global、StyleKorean 和 Jolse，已拆封的美妝品都不能因為改變心意而退貨。",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
+      "comparisonTable": {
+        "caption": "各店的退貨申請期限、可退與不可退的商品，以及退款方式，取自官方頁面，查閱日期為 2026年10月12日。",
+        "headers": [
+          "商店",
+          "申請期限",
+          "可退與不可退",
+          "退款方式"
+        ],
+        "rows": [
+          [
+            "YesStyle",
+            "收到後 14 天內，需申請 RMA 編號",
+            "已拆封的美妝品與營養補充品不能退",
+            "商店購物金；如有要求，可退回付款方式"
+          ],
+          [
+            "Stylevana",
+            "收到後 14 天內",
+            "瑕疵、寄錯，或改變心意；美妝品須為全新、未拆封、未使用",
+            "商店購物金；原運費不退"
+          ],
+          [
+            "Olive Young Global",
+            "收到後 30 天內",
+            "僅限瑕疵或寄錯；不換貨",
+            "退回付款方式，退貨運費由店家負擔"
+          ],
+          [
+            "StyleKorean",
+            "14 個工作天內",
+            "未拆封、未使用的商品；不接受因過敏而退貨",
+            "點數或退回付款方式，並扣除運費"
+          ],
+          [
+            "Jolse",
+            "收到後 7 天內，需附照片",
+            "僅限瑕疵、寄錯或缺件；已拆封或使用過的商品不能退",
+            "商品退回韓國後才退款"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "各店怎麼說明商品是正品",
+      "paragraphs": [
+        "各店的說明如下；這些都是店家自己的說法，沒有經過獨立審核。"
+      ],
+      "bullets": [
+        "**YesStyle：** 表示所有商品皆為正品，並且是 400 多個韓國品牌的授權經銷商。誰在營運這家店、購買前該注意什麼，請見安全評價與購物指南。",
+        "**Stylevana：** 表示販售的每件商品都是正品，向信譽良好的供應商與授權經銷商採購。",
+        "**Olive Young Global：** 表示販售的商品，與 Olive Young 在韓國 1,400 多家門市販售的正品相同。"
+      ],
+      "links": [
+        {
+          "label": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南",
+          "href": "/zh-hant/reviews/yesstyle-trust-guide-zh-hant"
+        }
+      ]
+    },
+    {
+      "heading": "選店前先看什麼",
+      "bullets": [
+        "**這家店寄到我所在的地區嗎？** 在店家的運送頁面找你的地區，確認運費與時間；YesStyle 公布的台灣與香港運送資訊，見運送指南。",
+        "**稅費由誰付？** 看稅費是已含在價格內、在結帳時收取，還是包裹到了才收，以及店家是否退款。",
+        "**退貨時店家接受什麼？** 比較申請退貨的期限與退款方式。"
+      ],
+      "links": [
+        {
+          "label": "YesStyle 寄送台灣、香港與澳門：運送時間、運費與稅費",
+          "href": "/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant"
+        }
+      ]
+    },
+    {
+      "heading": "YesStyle 和 SHEIN 是同一家嗎？",
+      "paragraphs": [
+        "不是。YesStyle 不在 SHEIN Group 的品牌清單上（2026年10月12日查閱），清單列的是 SHEIN、DAZY、ROMWE、MOTF、ANEWSTA、MUSERA、GLOWMODE 和 ARALINA。YesStyle 表示隸屬於香港的 YesAsia Holdings。"
+      ]
+    },
+    {
+      "heading": "合作與獎勵碼",
+      "paragraphs": [
+        "CECILIA010 是西西莉亞在 YesStyle 的獎勵碼：填入結帳頁的 Reward Code 欄位，首購最高享 5%、回購享 2%，並可與 YesStyle 的優惠券疊加。這篇比較裡的其他店家，都沒有我們的代碼。"
+      ],
+      "links": [
+        {
+          "label": "查看 YesStyle 今日的優惠券與獎勵碼 CECILIA010",
+          "href": "/zh-hant/coupons/yesstyle"
+        }
+      ]
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "YesStyle 和 Stylevana 哪一家比較好？要看寄送的地區。台灣：YesStyle 公布 Express 3–6 個工作天、滿 US$50 免運，Stylevana 不在寄送目的地清單上。香港：兩家都是順豐速運 1–3 個工作天，YesStyle 滿 US$35 免運，Stylevana 滿 HK$270 免運。",
+        "YesStyle 和 SHEIN 是同一家嗎？不是。YesStyle 不在 SHEIN Group 的品牌清單上，並表示隸屬於香港的 YesAsia Holdings。",
+        "Stylevana 寄台灣嗎？英文說明中心 2026年10月9日的寄送目的地清單沒有台灣。寄往香港的話，是順豐速運 1–3 個工作天，滿 HK$270 免運。",
+        "Olive Young 寄台灣和香港嗎？會。Olive Young Global 的寄送表列有這兩個地區：台灣 5–6 天，滿 US$35 免運；香港 3–5 天，滿 US$60 免運。",
+        "哪一家的免運門檻最低？各店的門檻不同，幣別也不同，這裡只列出公布的數字，不排名。台灣：YesStyle 滿 US$50，Olive Young Global 滿 US$35，StyleKorean 滿 US$70，Jolse 超過 US$47。香港：YesStyle 滿 US$35，Stylevana 滿 HK$270，Olive Young Global 滿 US$60，StyleKorean 滿 US$70，Jolse 超過 US$33。",
+        "稅費由誰負擔？要看店家。YesStyle 沒有台灣與香港的稅費頁面；到貨時被收取費用的話，未滿 US$1,000 的訂單可申請退款，以商店購物金退還。Stylevana 的香港網站沒有說明由誰支付。Olive Young Global 的價格與運費不含稅，到貨時被收取的費用由顧客負擔。StyleKorean 與 Jolse 也由顧客負擔。",
+        "已拆封的美妝品可以退貨嗎？不行，五家店都不接受已拆封的美妝品因改變心意而退貨。Stylevana 只接受全新、未拆封、未使用的商品因改變心意而退貨。",
+        "哪一家送得比較快？各店公布的是運送時間，不是下單到收貨的總時間，也不含商品離開倉庫前所需的時間。台灣：YesStyle Express 3–6 個工作天，Olive Young Global 5–6 天。香港：YesStyle 與 Stylevana 的順豐速運都是 1–3 個工作天，Olive Young Global 3–5 天。StyleKorean 只說會在 5 個工作天內交給物流業者，Jolse 沒有公布各地區的時間。",
+        "哪一家比較便宜？本文不比較價格。請到各店的結帳頁面，比較含運費與稅費的總價。",
+        "YesStyle 的獎勵碼要填在哪裡？CECILIA010 填在結帳頁的 Reward Code 欄位。目前可用的優惠券，請看本站的 YesStyle 頁面。"
+      ]
+    }
+  ],
+  "cta": {
+    "text": "到 YesStyle 的結帳頁查看寄到你地址的運費與稅費，並把 CECILIA010 貼到 Reward Code 欄位。",
+    "label": "前往 YesStyle",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
+  },
+  "coupon": "CECILIA010",
+  "affiliate": "yesstyle",
+  "editorialNote": "我們可能會從 YesStyle 的購買獲得佣金。其他店家的規則取自各店官方頁面。",
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant",
+      "title": "YesStyle 寄送台灣、香港與澳門：運送時間、運費與稅費"
+    },
+    {
+      "slug": "yesstyle-trust-guide-zh-hant",
+      "title": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南"
+    },
+    {
+      "slug": "yesstyle-reward-code-cecilia010-zh-hant",
+      "title": "YesStyle 獎勵碼 CECILIA010：高達 5% 優惠 (首購 5% / 回購 2%)"
+    }
+  ]
+}
