@@ -8,8 +8,8 @@
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
 - [ ] [[probiotica-e-confiavel]] — Probiótica / Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação (Score Aut: 76 / Conv: 74; onboarding)
-- [ ] [[probiotica-reclame-aqui-nota-reputacao]] — Probiótica / Probiótica no Reclame Aqui (Score Aut: 74 / Conv: 66; onboarding; bloqueado pelos prints do Reclame Aqui)
-- [ ] [[cupom-probiotica-como-usar]] — Probiótica / Cupom Probiótica PRO10EMCASACOMCECILIA: como usar (Score Aut: 70 / Conv: 88; onboarding; bloqueado pelos prints do checkout e por respostas do Bruno)
+- [ ] [[probiotica-reclame-aqui-nota-reputacao]] — Probiótica / Probiótica no Reclame Aqui (Score Aut: 74 / Conv: 66; onboarding)
+- [ ] [[cupom-probiotica-como-usar]] — Probiótica / Cupom Probiótica PRO10EMCASACOMCECILIA: como usar (Score Aut: 70 / Conv: 88; onboarding)
 
 ---
 

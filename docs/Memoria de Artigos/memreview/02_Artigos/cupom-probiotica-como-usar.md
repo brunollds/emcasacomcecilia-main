@@ -9,7 +9,7 @@ type: "Guia & Cupons"
 status: "pauta-aprovada"
 responsavel: "Job-1"
 proxima_acao: "redigir-artigo"
-bloqueado_por: "prints do checkout de 13/10 e duas respostas do Bruno (seção 11)"
+bloqueado_por: null
 score_autoridade: 70
 score_conversao: 88
 score_ponderado_total: 80
@@ -42,7 +42,8 @@ checkout, onde o cupom vale pelo teste, frete grátis e outros cupons, e a FAQ.
 ## 1. Portões Obrigatórios (Hard Gates)
 - [x] **1. Evidência Factual Suficiente:** sim. Teste de checkout do Bruno em 13/10/2026: carrinho
   de R$ 659,35, R$ 54,75 de desconto, campo "Cupom de Desconto" (dossiê). Regras de frete grátis e
-  pagamento lidas no site em 14/10/2026. Os prints do teste ainda não estão no vault (seção 11).
+  pagamento lidas no site em 14/10/2026. Prints do teste em
+  `midia-staging/2026-10-14-onboarding-probiotica/checkout/`.
 - [x] **2. Segurança Regulatória & Ética:** sem claim de saúde. "O que comprar com o cupom" lista
   categorias da loja, sem dizer para que servem os suplementos.
 - [x] **3. Fronteira Factual vs Experiência:** o teste é real ("testamos o cupom num pedido em
@@ -102,11 +103,12 @@ checkout, onde o cupom vale pelo teste, frete grátis e outros cupons, e a FAQ.
 - **Imagem Principal (Hero):** foto oficial de um produto de destaque (whey ou creatina) do site,
   em 16:9 e sem faixa branca, ou montagem de 2 ou 3 produtos. Opções na folha.
 - **Contrato de mídia:** [Guia de mídia editorial](../../../GUIA-MIDIA-EDITORIAL.md). Planejar compressão, origem/licença, paths locais, upload verificado e `--append`; não confundir upload com publicação nem excluir originais.
-- **Imagens Inline / Seções:** prints do teste de 13/10, recortados sem nome, endereço, CEP, e-mail
-  nem número de pedido, e com o marca-texto amarelo:
-  - o campo "Cupom de Desconto" no carrinho;
-  - o código aceito;
-  - o resumo com a linha do desconto.
+- **Imagens Inline / Seções:** os três prints do teste de 13/10, sem dado pessoal, com o
+  marca-texto amarelo no campo e na linha do desconto:
+  - `01-carrinho-sem-cupom.png`: o carrinho e o campo "Cupom de Desconto" (passo 2). A parte dos
+    brindes pode sair no recorte;
+  - `02-codigo-digitado.png`: o código no campo, antes de "Adicionar" (passo 3);
+  - `03-desconto-aplicado.png`: subtotal, "Descontos" e total (passo 4).
 - **Galeria de Detalhes:** não.
 - **Vídeo:** [x] Nenhum.
 
@@ -118,12 +120,16 @@ checkout, onde o cupom vale pelo teste, frete grátis e outros cupons, e a FAQ.
 |---|---|---|---|---|---|
 | O cupom é `PRO10EMCASACOMCECILIA` e dá até 10% OFF; o percentual varia por produto | Condição comercial | `couponsData.ts` (slug `probiotica`) e dossiê | `discount`, `monthlyHighlight.note` | 2026-10-14 | [x] Sim. Título com 10%; o aviso logo depois, na resposta rápida, nas regras e na FAQ (decisão do Bruno de 13/10/2026) |
 | O link da parceria leva ao site com as UTMs do programa de creators | Condição comercial | `offerUrl` | — | 2026-10-14 | [x] Sim. Não dizer que o link aplica o cupom sozinho: não foi conferido |
-| O código vai no campo "Cupom de Desconto" do carrinho | Experiência própria | Teste do Bruno, 13/10/2026 | Dossiê | 2026-10-13 | [x] Sim, com o print |
+| O código vai no campo "Cupom de Desconto" do carrinho, no botão "Adicionar" | Experiência própria | Teste do Bruno, 13/10/2026 | `01` e `02` | 2026-10-13 | [x] Sim, com o print |
+| Depois de aceito, o resumo mostra a linha "Descontos" e o código no lugar do campo | Experiência própria | Idem | `03` | 2026-10-13 | [x] Sim |
+| O carrinho do teste também mostrou brindes escolhidos (squeeze, galão e toalha) | Experiência própria | `01` | — | 2026-10-13 | [ ] Não como regra: brinde é campanha da loja. No máximo, a linha da política de brindes na FAQ |
 | No teste, um carrinho com colágeno, creatina em promoção, camiseta e barra de proteína teve R$ 54,75 de desconto em R$ 659,35 | Experiência própria | `testNote` público de `couponsData.ts` | — | 2026-10-13 | [x] Sim, numa frase ("cerca de 8% no carrinho misto"), sem a conta item a item |
-| O cupom vale em item em promoção | Experiência própria | Teste (creatina em promoção no carrinho) | — | 2026-10-13 | [ ] Só se o print mostrar desconto na linha da creatina (seção 11) |
+| O cupom vale em item em promoção | Experiência própria | Teste (creatina em promoção no carrinho) | `03` mostra só o desconto total | 2026-10-13 | [ ] Não: o print não separa o desconto por item. O artigo diz "o desconto varia por produto; confira o total antes de pagar" |
 | Frete grátis por região (SP capital R$ 104 … Norte R$ 599), na entrega mais barata, e não no Sedex | Política | `probiotica.com.br/politica-de-frete-gratis` | Lista por região | 2026-10-14 | [x] Sim |
 | Se o cupom deixar o total abaixo do mínimo da região, o frete volta a ser cobrado | Política | Idem | "abaixo do valor destacado acima da sua Região" | 2026-10-14 | [x] Sim. É o aviso mais útil do artigo |
-| Pix e boleto têm até 5% de desconto; cartão em até 6x sem juros | Fato oficial | Página inicial | — | 2026-10-14 | [x] Sim. A soma do cupom com o desconto do Pix depende da resposta do Bruno (seção 11) |
+| Pix e boleto têm até 5% de desconto; cartão em até 6x sem juros | Fato oficial | Página inicial | — | 2026-10-14 | [x] Sim |
+| O cupom vale em todas as formas de pagamento | Condição comercial | Bruno, 14/10/2026 | Chat | 2026-10-14 | [x] Sim, com "todas as formas de pagamento", nunca "Pix e cartão" ([[feedback-artigos-parceiro]]) |
+| O cupom vale para conta nova e para quem já comprou | Condição comercial | Bruno, 14/10/2026 | Chat | 2026-10-14 | [x] Sim. Responde a "cupom probiotica primeira compra" |
 | "Promoções não são válidas para kits, pois estes já possuem desconto" | Política | Termos e condições | — | 2026-10-14 | [ ] Não como regra do cupom: fala de promoções da loja. O kit de colágeno do teste é o dado (seção 11) |
 | Brinde depende do valor pago depois de cupons e Pix | Política | Termos (Política de Brindes) | "O recebimento do brinde está condicionado ao valor final pago após os descontos de cupons, Pix…" | 2026-10-14 | [x] Sim, numa linha na FAQ |
 | Código de influenciador ou de site de cupom | — | — | — | — | [ ] Nunca |
@@ -153,8 +159,8 @@ checkout, onde o cupom vale pelo teste, frete grátis e outros cupons, e a FAQ.
 2. **O que é o cupom PRO10EMCASACOMCECILIA.**
 3. **1. Entre no site pelo link da parceria.**
 4. **2. Monte o carrinho.**
-5. **3. Digite PRO10EMCASACOMCECILIA em "Cupom de Desconto".**
-6. **4. Confira o desconto de cada item antes de pagar,** onde o leitor vê que o percentual varia.
+5. **3. Digite PRO10EMCASACOMCECILIA em "Cupom de Desconto" e clique em "Adicionar".**
+6. **4. Confira a linha "Descontos" antes de pagar,** onde o leitor vê que o percentual varia.
 7. **Frete grátis com o cupom: confira o mínimo da sua região,** com a tabela.
 8. **Pix, primeira compra e outros cupons.**
 9. **O que comprar com o cupom,** só as categorias.
@@ -164,11 +170,11 @@ checkout, onde o cupom vale pelo teste, frete grátis e outros cupons, e a FAQ.
 
 FAQ:
 - Qual é o cupom da Probiótica?
-- Tem cupom de primeira compra na Probiótica? Sim: o PRO10EMCASACOMCECILIA, se o Bruno confirmar
-  que vale em conta nova (seção 11).
+- Tem cupom de primeira compra na Probiótica? Sim: o PRO10EMCASACOMCECILIA vale na primeira compra
+  e nas seguintes.
+- O cupom vale em todas as formas de pagamento? Sim.
 - Por que o cupom não deu 10% em todos os produtos?
 - O cupom da Probiótica dá frete grátis?
-- O cupom soma com o desconto do Pix?
 - Tem cupom para whey da Probiótica?
 - O cupom vale no Mercado Livre? Não: vale no site oficial. Resposta curta, sem citar loja de
   marketplace.
@@ -184,18 +190,18 @@ FAQ:
 ---
 
 ## 11. Pontos para o Bruno e pendências
-1. **Prints do checkout de 13/10/2026 (bloqueio):** o dossiê diz que eles ficaram guardados para
-   este artigo, mas não estão no vault nem no `midia-staging`. Onde estão?
-2. **Pix:** o PRO10EMCASACOMCECILIA soma com o desconto de até 5% do Pix e vale em todas as formas
-   de pagamento? A regra é perguntar em vez de publicar "não confirmamos"
-   ([[feedback-artigos-parceiro]]). O teste foi pago no Pix?
-3. **Primeira compra:** o código vale em conta nova? E vale de novo para quem já comprou? O
-   `reusable` de `couponsData.ts` está "Conforme regras da loja".
-4. **Promoção e kit:** no teste, a creatina em promoção e o kit de colágeno receberam desconto? A
-   resposta vem dos prints. Se não houver como ver, o artigo diz só "o desconto varia por produto".
-5. **Slug:** `cupom-probiotica-como-usar`, mais curto que o padrão com o código
-   (`cupom-<código>-<loja>-como-usar`), porque o código é longo e a busca é "cupom probiotica". O
-   código vai no título.
+Respostas do Bruno de 14/10/2026:
+1. **Prints do checkout:** recebidos e guardados em `midia-staging/2026-10-14-onboarding-probiotica/`.
+2. **Pagamento:** vale em todas as formas de pagamento. O artigo não fala de soma com o desconto do
+   Pix: diz só "todas as formas de pagamento".
+3. **Primeira compra:** vale para conta nova e para quem já comprou.
+4. **Promoção e kit:** o print mostra só o desconto total, então o artigo diz "o desconto varia por
+   produto".
+5. **Slug:** `cupom-probiotica-como-usar`, aprovado.
+
+Fora do artigo: o `reusable` de `couponsData.ts` ("Conforme regras da loja") pode virar "vale na
+primeira compra e nas seguintes". É mudança em `/cupons`, fora do escopo desta sessão
+([[feedback-escopo-artigos]]).
 
 ---
 
