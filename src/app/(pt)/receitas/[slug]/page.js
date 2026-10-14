@@ -56,6 +56,9 @@ export default async function RecipePage({ params }) {
   return <RecipeNotebookTemplate {...templateProps} />;
 }
 
+// Receita fora da lista cai no 404 do site (src/app/global-not-found.js), que sai com o HTML completo.
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   return recipes.map((recipe) => ({
     slug: recipe.slug,

@@ -3,11 +3,15 @@ import { notFound } from 'next/navigation';
 import { CouponStorePage, getCouponStoreMetadata } from '@/components/coupons/CouponStorePage';
 import { COUPONS, getAllActiveCouponSlugs, getCouponBySlug } from '@/lib/couponsData';
 
+// Loja fora da lista cai no 404 do site (src/app/global-not-found.js), que sai com o HTML completo. Em dev,
+// a lista leva também as lojas pausadas, que continuam abrindo para revisão.
 export function generateStaticParams() {
-  return getAllActiveCouponSlugs().map((brand) => ({ brand }));
+  const slugs =
+    process.env.NODE_ENV === 'development' ? COUPONS.map((coupon) => coupon.slug) : getAllActiveCouponSlugs();
+  return slugs.map((brand) => ({ brand }));
 }
 
-export const dynamicParams = true;
+export const dynamicParams = false;
 
 type CouponBrandPageProps = {
   params: Promise<{ brand: string }>;
