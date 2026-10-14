@@ -36,19 +36,7 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- [ ] [[probiotica-e-confiavel]] — Probiótica / Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação (Score Aut: 76 / Conv: 74; onboarding; JSON e imagens prontos, build verde em 14/10/2026)
-- [ ] [[probiotica-reclame-aqui-nota-reputacao]] — Probiótica / Probiótica no Reclame Aqui (Score Aut: 74 / Conv: 66; onboarding; JSON e imagens prontos, build verde em 14/10/2026)
-- [ ] [[cupom-probiotica-como-usar]] — Probiótica / Cupom Probiótica PRO10EMCASACOMCECILIA: como usar (Score Aut: 70 / Conv: 88; onboarding; JSON e imagens prontos, build verde em 14/10/2026)
-- [ ] [[dr-peanut-e-confiavel]] — Dr. Peanut / Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete (Score Aut: 74 / Conv: 72; onboarding; JSON e imagens prontos, build verde em 14/10/2026)
-- [ ] [[dr-peanut-reclame-aqui-nota-reputacao]] — Dr. Peanut / Dr. Peanut no Reclame Aqui (Score Aut: 72 / Conv: 62; onboarding; JSON e imagens prontos, build verde em 14/10/2026)
-- [ ] [[cupom-dr-peanut-como-usar]] — Dr. Peanut / Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site (Score Aut: 70 / Conv: 88; onboarding; JSON e imagens prontos, build verde em 14/10/2026)
-- [ ] [[black-skull-e-confiavel]] — Black Skull / Black Skull é confiável? De quem é a marca, site oficial, trocas e frete (Score Aut: 76 / Conv: 74; onboarding; JSON e imagens prontos, build verde em 14/10/2026)
-- [ ] [[black-skull-reclame-aqui-nota-reputacao]] — Black Skull / Black Skull no Reclame Aqui (Score Aut: 74 / Conv: 64; onboarding; JSON e imagens prontos, build verde em 14/10/2026)
-- [ ] [[cupom-black-skull-como-usar]] — Black Skull / Cupom Black Skull CECILIA10: como usar os 10% em todo o site (Score Aut: 70 / Conv: 90; onboarding; JSON e imagens prontos, build verde em 14/10/2026)
-- [ ] [[lejour-e-confiavel]] — Lejour / Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques (Score Aut: 76 / Conv: 70; onboarding; JSON e imagens prontos, build verde em 14/10/2026)
-- [ ] [[lejour-reclame-aqui-nota-reputacao]] — Lejour / Lejour no Reclame Aqui (Score Aut: 72 / Conv: 62; onboarding; JSON e imagens prontos, build verde em 14/10/2026)
-- [ ] [[lejour-como-funciona]] — Lejour / O que é a Lejour e como funciona: site, lista de presentes, taxas e planos (Score Aut: 74 / Conv: 80; onboarding; JSON e imagens prontos, build verde em 14/10/2026)
-- [ ] [[lista-de-casamento-lejour-como-criar]] — Lejour / Como criar a lista de casamento na Lejour, passo a passo (Score Aut: 68 / Conv: 88; onboarding; JSON e imagens prontos, build verde em 14/10/2026)
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -105,3 +93,17 @@
 - [[dolce-gusto-mini-me-2-0-vale-a-pena]] ✅
 - [[aliv-head-gel-iws-mascara-termica-enxaqueca]] ✅
 - [[melatonina-liquida-iws-ficha-tecnica]] ✅
+
+- [x] [[probiotica-e-confiavel]] — Probiótica / Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação (Score Aut: 76 / Conv: 74; onboarding; no ar em 14/10/2026, PR #93) 🚀
+- [x] [[probiotica-reclame-aqui-nota-reputacao]] — Probiótica / Probiótica no Reclame Aqui (Score Aut: 74 / Conv: 66; onboarding; no ar em 14/10/2026, PR #93) 🚀
+- [x] [[cupom-probiotica-como-usar]] — Probiótica / Cupom Probiótica PRO10EMCASACOMCECILIA: como usar (Score Aut: 70 / Conv: 88; onboarding; no ar em 14/10/2026, PR #93) 🚀
+- [x] [[dr-peanut-e-confiavel]] — Dr. Peanut / Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete (Score Aut: 74 / Conv: 72; onboarding; no ar em 14/10/2026, PR #93) 🚀
+- [x] [[dr-peanut-reclame-aqui-nota-reputacao]] — Dr. Peanut / Dr. Peanut no Reclame Aqui (Score Aut: 72 / Conv: 62; onboarding; no ar em 14/10/2026, PR #93) 🚀
+- [x] [[cupom-dr-peanut-como-usar]] — Dr. Peanut / Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site (Score Aut: 70 / Conv: 88; onboarding; no ar em 14/10/2026, PR #93) 🚀
+- [x] [[black-skull-e-confiavel]] — Black Skull / Black Skull é confiável? De quem é a marca, site oficial, trocas e frete (Score Aut: 76 / Conv: 74; onboarding; no ar em 14/10/2026, PR #93) 🚀
+- [x] [[black-skull-reclame-aqui-nota-reputacao]] — Black Skull / Black Skull no Reclame Aqui (Score Aut: 74 / Conv: 64; onboarding; no ar em 14/10/2026, PR #93) 🚀
+- [x] [[cupom-black-skull-como-usar]] — Black Skull / Cupom Black Skull CECILIA10: como usar os 10% em todo o site (Score Aut: 70 / Conv: 90; onboarding; no ar em 14/10/2026, PR #93) 🚀
+- [x] [[lejour-e-confiavel]] — Lejour / Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques (Score Aut: 76 / Conv: 70; onboarding; no ar em 14/10/2026, PR #93) 🚀
+- [x] [[lejour-reclame-aqui-nota-reputacao]] — Lejour / Lejour no Reclame Aqui (Score Aut: 72 / Conv: 62; onboarding; no ar em 14/10/2026, PR #93) 🚀
+- [x] [[lejour-como-funciona]] — Lejour / O que é a Lejour e como funciona: site, lista de presentes, taxas e planos (Score Aut: 74 / Conv: 80; onboarding; no ar em 14/10/2026, PR #93) 🚀
+- [x] [[lista-de-casamento-lejour-como-criar]] — Lejour / Como criar a lista de casamento na Lejour, passo a passo (Score Aut: 68 / Conv: 88; onboarding; no ar em 14/10/2026, PR #93) 🚀

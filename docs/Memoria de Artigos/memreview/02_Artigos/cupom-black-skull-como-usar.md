@@ -6,9 +6,9 @@ parceiro: "[[Black-Skull]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pronto-para-deploy"
-responsavel: "Claude"
-proxima_acao: "deploy-com-ok-do-bruno"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "nenhuma"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 90
@@ -190,3 +190,7 @@ separadamente") podem ganhar essas regras e a do frete grátis; isso fica para a
 - Redação por subagentes, um por bloco de capítulos; junção e revisão do Claude; Job 3 aplicado. Texto aprovado pelo Bruno em 14/10/2026.
 - JSON `content/reviews/cupom-black-skull-como-usar.json`, id 423, conferido frase a frase contra o texto aprovado.
 - Imagens (prints de tela feitos pelo Bruno em 13 e 14/10/2026, recortados e com marca-texto nosso; sem foto de terceiros): `black-skull-cupom-01-carrinho-sem-cupom.webp`, `black-skull-cupom-02-codigo-digitado.webp`, `black-skull-cupom-03-desconto-aplicado.webp`, `black-skull-cupom-capa.webp`. No CDN e verificadas por HTTPS em 14/10/2026.
+
+## Publicação (14/10/2026)
+
+No ar desde 14/10/2026 17:28 UTC: PR #93 (`fd0700d`), deploy `894e4a1e…`, build `01a13b73…`. Smoke ok e IndexNow enviado.

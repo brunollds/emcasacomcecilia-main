@@ -6,9 +6,9 @@ parceiro: "[[Dr-Peanut]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "pronto-para-deploy"
-responsavel: "Claude"
-proxima_acao: "deploy-com-ok-do-bruno"
+status: "publicado"
+responsavel: "-"
+proxima_acao: "nenhuma"
 bloqueado_por: null
 score_autoridade: 72
 score_conversao: 62
@@ -171,3 +171,7 @@ FAQ:
 - Redação por subagentes, um por bloco de capítulos; junção e revisão do Claude; Job 3 aplicado. Texto aprovado pelo Bruno em 14/10/2026.
 - JSON `content/reviews/dr-peanut-reclame-aqui-nota-reputacao.json`, id 419, conferido frase a frase contra o texto aprovado.
 - Imagens (prints de tela feitos pelo Bruno em 13 e 14/10/2026, recortados e com marca-texto nosso; sem foto de terceiros): `dr-peanut-reclame-aqui-aba-12-meses.webp`, `dr-peanut-reclame-aqui-aba-2025.webp`, `dr-peanut-reclame-aqui-aba-6-meses.webp`, `dr-peanut-reclame-aqui-capa.webp`, `dr-peanut-reclame-aqui-principais-problemas.webp`. No CDN e verificadas por HTTPS em 14/10/2026.
+
+## Publicação (14/10/2026)
+
+No ar desde 14/10/2026 17:28 UTC: PR #93 (`fd0700d`), deploy `894e4a1e…`, build `01a13b73…`. Smoke ok e IndexNow enviado.
