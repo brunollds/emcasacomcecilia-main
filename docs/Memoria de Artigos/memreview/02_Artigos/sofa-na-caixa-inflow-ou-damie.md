@@ -141,6 +141,7 @@ que não são (seção 6). É a primeira resposta do artigo.
 | Reclame Aqui, 6 meses (01/04 a 30/09/2026). **Sofá na Caixa:** Regular, 6,1; 6.947 reclamações; 100% respondidas; 56,1% resolvidas; 49,8% voltariam; nota do consumidor 4,66; resposta em 2 dias e 1 hora. **Inflow Sofá:** RA1000, 8,6; 144 reclamações; 98,6% respondidas; 94% resolvidas; 75% voltariam; nota 7,62; resposta em 7 dias e 13 horas. **Damie Móveis:** Ótima, 8,3; 218 reclamações; 100% respondidas; 86,7% resolvidas; 76% voltariam; nota 7,37; resposta em 13 horas | Dado público | Prints do Bruno de 14/10/2026 (`midia-staging/2026-10-14-pautas-sofa/reclame-aqui/`) | Abas de 6 meses | 2026-10-14 | [x] Sim, em tabela, com a data |
 | Principais problemas (até 3 anos): nas três, o primeiro é **atraso na entrega** (Sofá na Caixa 40,79%; Inflow 28,18%; DAMIE 50,36%) | Dado público | Idem | — | 2026-10-14 | [x] Sim. Dizer que atraso é a queixa comum do setor de sofá na caixa, nas três |
 | Leitura honesta: no Reclame Aqui, a **Inflow tem hoje o melhor selo (RA1000)** e a maior taxa de solução (94%); a DAMIE tem selo Ótima e a resposta mais rápida (13 horas); a Sofá na Caixa tem volume quase 50 vezes maior e selo Regular | Análise | Prints | — | 2026-10-14 | [x] Sim. O artigo não esconde que a concorrente vai melhor no selo: a DAMIE se diferencia pelo teste de 30 dias e pela garantia de 1 ano, não pelo Reclame Aqui |
+| Contexto do selo (Bruno, 14/10/2026): o selo do Reclame Aqui mede atendimento e solução, não volume. A Inflow "acaba de chegar ao mercado brasileiro de estofados" (release de 22/01/2026): são cerca de 9 meses vendendo sofá e 144 reclamações nos últimos 6 meses. A DAMIE tem histórico longo (CNPJ ativo desde 2014; 6 anos de marca, segundo o Bruno) e 218 reclamações no mesmo período. Por isso o RA1000 da Inflow vale para um histórico curto | Análise | Release da Inflow (PR Newswire), cnpj.ws e Bruno | — | 2026-10-14 | [x] Sim, como contexto, sem tirar mérito da Inflow. Sem os números de vendas de nenhuma das duas, o texto não calcula reclamação por cliente nem diz que a DAMIE tem menos reclamações proporcionalmente. Conferir na redação uma fonte pública para os "6 anos"; sem ela, usar só o CNPJ de 2014 |
 | CECILIA12: 12% em todo o site da DAMIE, todas as formas de pagamento, soma com o Pix e as promoções | Condição comercial | `couponsData.ts` e dossiê | — | 2026-10-14 | [x] Sim |
 
 ---
@@ -179,6 +180,9 @@ que não são (seção 6). É a primeira resposta do artigo.
 8. **E a reputação?** Tabela do Reclame Aqui das três (6 meses), com a leitura honesta: a Inflow
    tem o melhor selo, a DAMIE responde mais rápido, e a Sofá na Caixa tem 6.947 reclamações e selo
    Regular, com link para o artigo da crise. Nas três, a queixa principal é atraso na entrega.
+   Logo depois da tabela, o contexto: o selo mede atendimento, não volume. A Inflow chegou ao mercado
+   em janeiro de 2026 (cerca de 9 meses), e a DAMIE tem anos de histórico. O RA1000 da Inflow é real,
+   mas vale para pouco tempo de mercado.
 9. **Qual escolher:** por perfil (quer testar antes; quer o menor preço; precisa de entrega fora do
    Sul e do Sudeste).
 10. **A experiência da Cecília com a DAMIE:** o depoimento do Bruno de 14/10/2026 (seção 11),
