@@ -6,9 +6,9 @@ parceiro: "[[DAMIE]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy-com-ok-do-bruno"
 bloqueado_por: null
 score_autoridade: 78
 score_conversao: 84
@@ -228,3 +228,11 @@ FAQ:
   (consultoria), e não deve ser citado.
 - CNPJs: cnpj.ws (a BrasilAPI respondeu 503).
 - Release da Inflow de 22/01/2026 (PR Newswire).
+
+## Redação, revisão e JSON (14/10/2026)
+
+- Redação e JSON publicados no main pelo PR #100 (`3ca4ff2`), sem registro de Job 3.
+- Job 3 em 14/10/2026 (revisão pedida pelo Bruno antes do deploy): números do Reclame Aqui conferidos com os prints. Corrigido o preço da Sofá na Caixa: R$ 3.482,19 e R$ 4.211,19 eram o preço no Pix (10% OFF); o preço é R$ 3.869,10 e R$ 4.679,10 (10x sem juros), conferido na página dos produtos em 14/10/2026. As três marcas informam o valor do Pix.
+- Bruno confirmou (14/10/2026): tomada USB e suporte por indução para celular e tablet são opcionais do sofá dela.
+- Ajustes de texto: CDC e garantia, janelas do Reclame Aqui (6 meses x até 3 anos), sem generalizar para o setor, rótulos de link com o título exato, sem bastidor, menos repetição.
+- Imagens: 4 prints do Reclame Aqui no CDN (sem marca-texto); fotos da Cecília já publicadas.

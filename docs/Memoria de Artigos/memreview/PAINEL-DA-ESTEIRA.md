@@ -7,8 +7,6 @@
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
 - [ ] [[poltrona-damie-como-limpar-cada-tipo-de-tecido]] — DAMIE (Score Aut: 80 / Conv: 75)
-- [ ] [[sofa-na-caixa-inflow-ou-damie]] — DAMIE / Sofá na Caixa, Inflow ou DAMIE: qual a diferença e qual escolher (Score Aut: 78 / Conv: 84; pauta 3 da fila)
-- [ ] [[sofa-na-caixa-ou-sofa-montado-qual-dura-mais]] — DAMIE / Sofá na caixa ou sofá montado: qual dura mais? (Score Aut: 80 / Conv: 74; pauta 4 da fila)
 
 ---
 
@@ -38,7 +36,8 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- *(Nenhum artigo no momento)*
+- [ ] [[sofa-na-caixa-inflow-ou-damie]] — DAMIE / Sofá na Caixa, Inflow ou DAMIE: qual a diferença e qual escolher (Score Aut: 78 / Conv: 84; pauta 3 da fila; Job 3 em 14/10/2026)
+- [ ] [[sofa-na-caixa-ou-sofa-montado-qual-dura-mais]] — DAMIE / Sofá na caixa ou sofá montado: qual dura mais? (Score Aut: 80 / Conv: 74; pauta 4 da fila; Job 3 em 14/10/2026)
 
 ---
 

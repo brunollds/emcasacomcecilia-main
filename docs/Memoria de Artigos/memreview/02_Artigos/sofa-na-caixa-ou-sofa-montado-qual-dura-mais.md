@@ -6,9 +6,9 @@ parceiro: "[[DAMIE]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy-com-ok-do-bruno"
 bloqueado_por: null
 score_autoridade: 80
 score_conversao: 74
@@ -211,3 +211,10 @@ FAQ:
   sugestão).
 - Fichas da DAMIE e da Inflow, as mesmas de [[sofa-na-caixa-inflow-ou-damie]].
 - Busca sobre as normas ABNT NBR 15164, 8537 e 16031 (só os resumos públicos).
+
+## Redação, revisão e JSON (14/10/2026)
+
+- Redação e JSON publicados no main pelo PR #100 (`3ca4ff2`), sem registro de Job 3.
+- Job 3 em 14/10/2026 (revisão pedida pelo Bruno antes do deploy): fatos, garantias, CDC e tabela conferidos; nenhum ajuste de fato.
+- Bruno confirmou (14/10/2026): tomada USB e suporte por indução para celular e tablet são opcionais do sofá dela.
+- Ajustes de texto: rótulos de link com o título exato, sem bastidor, sem afirmação genérica sem fonte, menos repetição.
