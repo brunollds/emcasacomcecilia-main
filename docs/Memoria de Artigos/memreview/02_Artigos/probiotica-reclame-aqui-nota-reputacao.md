@@ -6,9 +6,9 @@ parceiro: "[[Probiotica]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy-com-ok-do-bruno"
 bloqueado_por: null
 score_autoridade: 74
 score_conversao: 66
@@ -195,3 +195,9 @@ FAQ:
     resolvidas.
 
   Os números não entram no artigo: os períodos já passaram.
+
+## Redação, revisão e JSON (14/10/2026)
+
+- Redação por subagentes, um por bloco de capítulos; junção e revisão do Claude; Job 3 aplicado. Texto aprovado pelo Bruno em 14/10/2026.
+- JSON `content/reviews/probiotica-reclame-aqui-nota-reputacao.json`, id 416, conferido frase a frase contra o texto aprovado.
+- Imagens (prints de tela feitos pelo Bruno em 13 e 14/10/2026, recortados e com marca-texto nosso; sem foto de terceiros): `probiotica-reclame-aqui-aba-12-meses.webp`, `probiotica-reclame-aqui-aba-6-meses.webp`, `probiotica-reclame-aqui-capa.webp`, `probiotica-reclame-aqui-principais-problemas.webp`. No CDN e verificadas por HTTPS em 14/10/2026.

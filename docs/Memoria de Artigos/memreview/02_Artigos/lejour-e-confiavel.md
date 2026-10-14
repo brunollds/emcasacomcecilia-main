@@ -6,9 +6,9 @@ parceiro: "[[Lejour]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy-com-ok-do-bruno"
 bloqueado_por: null
 score_autoridade: 76
 score_conversao: 70
@@ -116,7 +116,7 @@ algum lugar, como a fatura do cartão ou o Pix, e querem saber o que é. O artig
 
 | Afirmação planejada no artigo | Tipo de Dado | Fonte Exata | Localização / Trecho | Data Consulta | Pode Publicar? |
 |---|---|---|---|---|---|
-| A empresa é a Lejour Presentes Ltda., CNPJ 29.009.811/0001-35, em São Paulo (SP) | Dado público | Rodapé de `lejour.com.br` e BrasilAPI | "Lejour Presentes Ltda", "CNPJ 29.009.811/0001-35", "Travessa Dona Paula, nº 13, Higienópolis" | 2026-10-14 | [x] Sim. Responde a "lejour presentes ltda" |
+| A empresa tem o CNPJ 29.009.811/0001-35, em São Paulo (SP); o rodapé mostra outra razão social com o mesmo CNPJ, e o texto cita só o CNPJ (decisão do Bruno, 14/10/2026) | Dado público | Rodapé de `lejour.com.br` e BrasilAPI | "CNPJ 29.009.811/0001-35", "Travessa Dona Paula, nº 13, Higienópolis" | 2026-10-14 | [x] Sim. Responde a "lejour presentes ltda" |
 | CNPJ ativo desde 07/11/2017, atividade de portais e serviços de internet | Dado público | BrasilAPI | `ATIVA`, `2017-11-07` | 2026-10-14 | [x] Sim |
 | A Lejour trabalha com a Fast Shop: o logo é "Fast Shop + le jour", e a Fast Shop apresenta a "lista Lejour + Fast Shop" | Fato oficial | Cabeçalho de `lejour.com.br`; `site.fastshop.com.br/lista-de-casamento`; Bruno confirmou em 14/10/2026 | "O que os casais dizem sobre a lista Lejour + Fast Shop" | 2026-10-14 | [x] Sim, como parceria. Não dizer "comprada pela Fast Shop": não há fonte oficial da aquisição |
 | Os presentes são virtuais: viram crédito em dinheiro, não produto enviado | Fato oficial | `lejour.com.br/blog/entrega-presentes-casal-lejour/` | "todos os presentes da lista são virtuais" | 2026-10-14 | [x] Sim |
@@ -176,8 +176,9 @@ FAQ:
 
 ## 10. Pontos de atenção na redação
 - Sem comparar com iCasei (fica para depois, decisão do Bruno de 14/10/2026).
-- "Lejour Presentes Ltda" na fatura: dizer que é a razão social da Lejour, sem afirmar que é
-  exatamente o nome que aparece no extrato (não foi conferido).
+- ~~"Lejour Presentes Ltda" na fatura~~: superado. Decisão do Bruno de 14/10/2026: o texto cita só o
+  CNPJ, nenhum nome de empresa (o rodapé do site mostra outra razão social com o mesmo CNPJ). A
+  pergunta "O que é Lejour Presentes Ltda?" saiu do esqueleto e da FAQ.
 
 ---
 
@@ -192,3 +193,9 @@ FAQ:
 - WebFetch: rodapé de `lejour.com.br`, `/faq` (só títulos) e os artigos da central citados na matriz;
   `site.fastshop.com.br/lista-de-casamento`. "Sobre a Lejour" respondeu 404 no endereço testado.
 - BrasilAPI: CNPJ 29.009.811/0001-35.
+
+## Redação, revisão e JSON (14/10/2026)
+
+- Redação por subagentes, um por bloco de capítulos; junção e revisão do Claude; Job 3 aplicado. Texto aprovado pelo Bruno em 14/10/2026.
+- JSON `content/reviews/lejour-e-confiavel.json`, id 424, conferido frase a frase contra o texto aprovado.
+- Imagens (prints de tela feitos pelo Bruno em 13 e 14/10/2026, recortados e com marca-texto nosso; sem foto de terceiros): `lejour-confiavel-capa.webp`, `lejour-rodape-cnpj.webp`. No CDN e verificadas por HTTPS em 14/10/2026.

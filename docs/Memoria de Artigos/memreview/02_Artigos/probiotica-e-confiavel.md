@@ -6,9 +6,9 @@ parceiro: "[[Probiotica]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy-com-ok-do-bruno"
 bloqueado_por: null
 score_autoridade: 76
 score_conversao: 74
@@ -244,3 +244,9 @@ FAQ (no formato "pergunta? resposta", título reconhecido por `isFaqHeading`):
   frete grátis; `/faq` respondeu 404. `supley.com.br` (marcas e 2006).
 - BrasilAPI: CNPJs 07.578.713/0001-86 (matriz, Matão), 0002-67 (baixada), 0003-48 (Matão) e
   0004-29 (Jundiaí), consultados um por um.
+
+## Redação, revisão e JSON (14/10/2026)
+
+- Redação por subagentes, um por bloco de capítulos; junção e revisão do Claude; Job 3 aplicado. Texto aprovado pelo Bruno em 14/10/2026.
+- JSON `content/reviews/probiotica-e-confiavel.json`, id 415, conferido frase a frase contra o texto aprovado.
+- Imagens (prints de tela feitos pelo Bruno em 13 e 14/10/2026, recortados e com marca-texto nosso; sem foto de terceiros): `probiotica-confiavel-capa.webp`, `probiotica-rodape-cnpj.webp`. No CDN e verificadas por HTTPS em 14/10/2026.

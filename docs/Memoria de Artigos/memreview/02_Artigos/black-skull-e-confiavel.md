@@ -6,9 +6,9 @@ parceiro: "[[Black-Skull]]"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy-com-ok-do-bruno"
 bloqueado_por: null
 score_autoridade: 76
 score_conversao: 74
@@ -212,3 +212,9 @@ FAQ:
 - WebFetch em `blackskullusa.com.br` (rodapé) e nas páginas `/institucional/` sobre-nos,
   politica-de-entrega, trocas-e-devolucoes, politica-de-pagamento e entre-em-contato.
 - BrasilAPI: CNPJ 19.897.687/0001-38.
+
+## Redação, revisão e JSON (14/10/2026)
+
+- Redação por subagentes, um por bloco de capítulos; junção e revisão do Claude; Job 3 aplicado. Texto aprovado pelo Bruno em 14/10/2026.
+- JSON `content/reviews/black-skull-e-confiavel.json`, id 421, conferido frase a frase contra o texto aprovado.
+- Imagens (prints de tela feitos pelo Bruno em 13 e 14/10/2026, recortados e com marca-texto nosso; sem foto de terceiros): `black-skull-confiavel-capa.webp`, `black-skull-rodape-cnpj.webp`. No CDN e verificadas por HTTPS em 14/10/2026.

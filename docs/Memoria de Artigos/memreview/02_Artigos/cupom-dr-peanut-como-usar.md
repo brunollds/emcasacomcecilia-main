@@ -6,9 +6,9 @@ parceiro: "[[Dr-Peanut]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redigir-artigo"
+status: "pronto-para-deploy"
+responsavel: "Claude"
+proxima_acao: "deploy-com-ok-do-bruno"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 88
@@ -186,3 +186,9 @@ FAQ:
 - Autocompletar: "dr peanut cupom", "cupom dr peanut" e "dr peanut frete".
 - Prints do teste de 13/10/2026 e a política de frete grátis colada pelo Bruno em 14/10/2026.
 - `couponsData.ts` e o dossiê `01_Parceiros/Dr-Peanut.md`.
+
+## Redação, revisão e JSON (14/10/2026)
+
+- Redação por subagentes, um por bloco de capítulos; junção e revisão do Claude; Job 3 aplicado. Texto aprovado pelo Bruno em 14/10/2026.
+- JSON `content/reviews/cupom-dr-peanut-como-usar.json`, id 420, conferido frase a frase contra o texto aprovado.
+- Imagens (prints de tela feitos pelo Bruno em 13 e 14/10/2026, recortados e com marca-texto nosso; sem foto de terceiros): `dr-peanut-cupom-01-carrinho-sem-cupom.webp`, `dr-peanut-cupom-02-codigo-digitado.webp`, `dr-peanut-cupom-03-desconto-aplicado.webp`, `dr-peanut-cupom-capa.webp`. No CDN e verificadas por HTTPS em 14/10/2026.

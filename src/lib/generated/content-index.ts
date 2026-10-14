@@ -73249,5 +73249,3175 @@ export const reviewsData: unknown[] = [
         "title": "YesStyle 奖励码 CECILIA010：高达 5% 优惠 (首购 5% / 回购 2%)"
       }
     ]
+  },
+  {
+    "id": 415,
+    "slug": "probiotica-e-confiavel",
+    "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação",
+    "seoTitle": "Probiótica é confiável? Quem fabrica e site oficial",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Conferimos a Probiótica antes de indicar a loja: operada pela Supley, CNPJ ativo em 14/10/2026, site oficial probiotica.com.br, 7 dias para arrependimento, 30 para defeito, frete grátis por região e reputação Boa no Reclame Aqui.",
+    "metaDescription": "A Probiótica é confiável? Veja quem opera a loja, o CNPJ, o site oficial, os prazos de troca, o frete grátis e a reputação no Reclame Aqui.",
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/probiotica/probiotica-confiavel-capa.webp",
+    "imageAlt": "Página inicial do site probiotica.com.br em 14/10/2026",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "CNPJ ativo nos dados da Receita Federal em 14/10/2026, o mesmo do rodapé do site",
+      "Loja operada pela Supley, do mesmo grupo da Max Titanium e da Dr. Peanut",
+      "7 dias corridos para desistir da compra e 30 dias corridos para comunicar defeito, com coleta e reenvio por conta da Probiótica",
+      "Reputação Boa no Reclame Aqui, com 99% das reclamações dos últimos seis meses respondidas",
+      "Parcelamento em até 6 vezes sem juros e até 5% de desconto no Pix e no boleto, em 14/10/2026"
+    ],
+    "cons": [
+      "O frete grátis depende da região: de R$ 104 na capital paulista a R$ 599 no Norte",
+      "O frete grátis não vale para entrega por Sedex",
+      "Atraso na entrega é o problema mais citado no Reclame Aqui",
+      "79,3% das reclamações dos últimos 6 meses foram resolvidas",
+      "A ligação com a Supley não aparece no Quem Somos da Probiótica"
+    ],
+    "cta": {
+      "text": "Se a Probiótica faz sentido para você, entre pelo link da parceria e use o cupom PRO10EMCASACOMCECILIA, de até 10% OFF.",
+      "label": "Ir para a Probiótica com o cupom",
+      "url": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+      "sponsored": true
+    },
+    "coupon": "PRO10EMCASACOMCECILIA",
+    "affiliate": "probiotica",
+    "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo PRO10EMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "probiotica-reclame-aqui-nota-reputacao",
+        "title": "Probiótica no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "cupom-probiotica-como-usar",
+        "title": "Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Sim. A loja é operada pela Supley Laboratório de Alimentos e Suplementos Nutricionais Ltda., cujo CNPJ, 07.578.713/0004-29, aparece no rodapé do site e consta como **ativo** nos dados públicos da Receita Federal em 14/10/2026.",
+          "A Probiótica é uma marca do grupo Supley, o mesmo da Max Titanium, da Dr. Peanut e da Znack That. Ela não é da Max Titanium: são marcas irmãs.",
+          "O site oficial é **probiotica.com.br**.",
+          "Há 7 dias corridos para desistir da compra, contados do recebimento, e 30 dias corridos para comunicar defeito. Na troca por defeito, a coleta e o reenvio ficam por conta da Probiótica.",
+          "O cupom da parceria, PRO10EMCASACOMCECILIA, dá até 10% OFF; em alguns produtos o desconto é menor. Regras na [página do cupom da Probiótica](/cupons/probiotica)."
+        ]
+      },
+      {
+        "heading": "De quem é a Probiótica?",
+        "paragraphs": [
+          "A Probiótica pertence ao grupo **Supley**. No site da Supley, a empresa diz que renova diariamente o seu compromisso com o mercado \"com MAX Titanium, Probiótica, Dr. Peanut e Znack That\". Por isso a Probiótica não é da Max Titanium: as duas são marcas irmãs, do mesmo grupo.",
+          "A ligação não aparece no \"Quem Somos\" da Probiótica, que não cita a Supley. Ela vem de duas fontes públicas: o site da Supley e o rodapé da própria Probiótica, onde a razão social da loja é a da Supley. Conferimos os dois em 14/10/2026.",
+          "Nos dados públicos da Receita Federal, o CNPJ do rodapé é o de uma filial ativa da Supley. A matriz da Supley fica em Matão (SP), está ativa desde 5 de setembro de 2005 e tem como atividade a fabricação de alimentos dietéticos e complementos alimentares. O endereço que o rodapé mostra, Avenida José Pilo, 161, em Matão, também é de uma unidade da Supley, ativa desde 2015 e com a mesma atividade de fabricação.",
+          "Sobre a idade das marcas, são duas afirmações das próprias empresas, que não conferimos de forma independente. A Supley diz que iniciou a trajetória em 2006. A Probiótica diz, no \"Quem Somos\", que investe \"desde 1986\" em pesquisa e inovação."
+        ],
+        "links": [
+          {
+            "label": "Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete",
+            "href": "/reviews/dr-peanut-e-confiavel"
+          }
+        ]
+      },
+      {
+        "heading": "Como saber se você está no site oficial",
+        "paragraphs": [
+          "O endereço oficial é **probiotica.com.br**. Antes de pagar, confira na barra do navegador se o domínio é exatamente esse, sem nenhuma letra trocada, principalmente quando você chegou por um anúncio ou por uma mensagem.",
+          "O segundo teste é o rodapé. No site oficial, em 14/10/2026, ele traz:"
+        ],
+        "bullets": [
+          "a razão social: Supley Lab. de Alimentos e Suplementos Nutricionais Ltda;",
+          "o CNPJ 07.578.713/0004-29;",
+          "o endereço: Avenida José Pilo, 161, Matão (SP);",
+          "os telefones (16) 3506-2045, (16) 3506-2046 e 4004-2696;",
+          "o e-mail de atendimento sac@supley.com.br."
+        ],
+        "postParagraphs": [
+          "Você pode cruzar o CNPJ numa consulta pública da Receita Federal e ver se a situação aparece como ativa e se a razão social bate com a do rodapé. Se a página não mostra esses dados no rodapé, desconfie.",
+          "O site também mostra o selo de \"Garantia de originalidade\" no topo da página. O selo é da própria marca, e não uma certificação de terceiros, então use-o como mais uma pista, e não como prova. O rodapé ainda traz o logo da VTEX, a plataforma em que a loja roda."
+        ],
+        "image": "/images/reviews/probiotica/probiotica-rodape-cnpj.webp",
+        "imageAlt": "Rodapé do site probiotica.com.br com a razão social da Supley, o CNPJ 07.578.713/0004-29 e o endereço em Matão (SP), com trechos sublinhados em amarelo",
+        "imageCaption": "Rodapé de probiotica.com.br em 14/10/2026, com razão social, CNPJ e endereço. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 14.7308
+      },
+      {
+        "heading": "O que a Probiótica vende",
+        "paragraphs": [
+          "A loja é de suplementos e de itens ligados a eles. O menu da página inicial, em 14/10/2026, lista Whey Protein, Creatina, Colágeno, Endurance, Pré-treino, Barras Proteicas, Kits Promocionais e Roupas e Acessórios.",
+          "Este artigo não avalia os produtos. Dizer se um whey ou uma creatina é bom pediria laudo ou teste, e não temos nenhum dos dois. Se o suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista. O que dá para verificar, e é o que fizemos, é quem vende, se o site é o oficial e o que acontece se você precisar trocar."
+        ]
+      },
+      {
+        "heading": "Trocas, devoluções e defeito",
+        "paragraphs": [
+          "As regras ficam na página de Termos e Condições do site. O que valia em 14/10/2026 está no quadro:"
+        ],
+        "comparisonTable": {
+          "caption": "Prazos de arrependimento e de defeito da Probiótica, segundo os Termos e Condições do site em 14/10/2026",
+          "headers": [
+            "Situação",
+            "Prazo",
+            "O que a Probiótica pede",
+            "Frete e reembolso"
+          ],
+          "rows": [
+            [
+              "Arrependimento",
+              "7 dias corridos a partir do recebimento",
+              "Embalagem original e lacre intacto; pedido por e-mail com número do pedido e nota fiscal",
+              "Reembolso integral, com o frete pago na compra"
+            ],
+            [
+              "Defeito",
+              "30 dias corridos para comunicar",
+              "Comunicar o defeito; a loja analisa o caso",
+              "Coleta e reenvio por conta da Probiótica"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na troca por defeito, depois da análise, você escolhe entre a troca do produto, o dinheiro de volta ou um cupom. O pedido de arrependimento vai para o e-mail do SAC, sac@supley.com.br, o mesmo do rodapé. Quando o pagamento foi no cartão, o estorno vem numa vez só, na fatura seguinte ou na outra.",
+          "Para não perder o prazo, guarde a nota fiscal e abra o pedido assim que perceber o problema: os 7 dias correm do recebimento, e não da data da compra."
+        ]
+      },
+      {
+        "heading": "Frete, prazo e formas de pagamento",
+        "paragraphs": [
+          "Pela política de frete grátis do site, a entrega sai sem custo a partir de um valor de pedido que muda conforme a região do CEP. Os valores abaixo são os que a página mostrava em 14/10/2026:"
+        ],
+        "comparisonTable": {
+          "caption": "Valor de pedido para frete grátis da Probiótica por região, segundo a política do site em 14/10/2026",
+          "headers": [
+            "Região",
+            "Frete grátis a partir de"
+          ],
+          "rows": [
+            [
+              "São Paulo (capital)",
+              "R$ 104"
+            ],
+            [
+              "Sudeste",
+              "R$ 134"
+            ],
+            [
+              "Sul",
+              "R$ 249"
+            ],
+            [
+              "Centro-Oeste",
+              "R$ 204"
+            ],
+            [
+              "Nordeste",
+              "R$ 299"
+            ],
+            [
+              "Norte",
+              "R$ 599"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O frete grátis não vale para entrega por Sedex. Esses valores mudam com o tempo, então confirme o do seu CEP no carrinho antes de fechar o pedido.",
+          "Sobre o prazo, pelos Termos e Condições, o pedido com pagamento aprovado até as 13h em dia útil é processado no mesmo dia. O prazo de entrega é contado em dias úteis e aparece na hora da compra.",
+          "Nos Termos e Condições, as formas de pagamento são Pix, boleto e cartão de crédito das bandeiras Visa, Mastercard, American Express, Diners, Elo e Hipercard. A página inicial, em 14/10/2026, anunciava parcelamento em até 6 vezes sem juros e **até 5% de desconto** no Pix e no boleto; confira o percentual no carrinho antes de pagar."
+        ]
+      },
+      {
+        "heading": "E a reputação da Probiótica no Reclame Aqui?",
+        "paragraphs": [
+          "Em 14/10/2026, a página da Probiótica Laboratórios no Reclame Aqui mostrava reputação **Boa**, com nota 7,2 nos últimos seis meses (de 1º de abril a 30 de setembro de 2026), 99% das reclamações respondidas e 79,3% resolvidas. Os números de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão no artigo abaixo."
+        ],
+        "links": [
+          {
+            "label": "Probiótica no Reclame Aqui: nota, reclamações e o que os dados mostram",
+            "href": "/reviews/probiotica-reclame-aqui-nota-reputacao"
+          }
+        ]
+      },
+      {
+        "heading": "Onde comprar Probiótica original",
+        "paragraphs": [
+          "O caminho mais direto é o site oficial, o **probiotica.com.br**, onde valem as regras de troca e arrependimento descritas neste artigo.",
+          "Quem prefere comprar pessoalmente ou receber de uma revenda pode usar o localizador de lojas do \"Quem Somos\", o \"Encontre a loja mais próxima\", que lista pontos de venda que trabalham com a marca. Em revenda, as regras de troca são as da loja, não as do site da Probiótica.",
+          "Se for comprar em marketplace, abra a página do vendedor antes de pagar e confira quem entrega o produto. Prefira vendedor com identificação clara e CNPJ, e desconfie de preço muito abaixo do praticado no site oficial."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Probiótica e pode receber comissão pelas compras feitas com o cupom **PRO10EMCASACOMCECILIA**. No carrinho do site, o campo onde ele entra se chama \"Cupom de Desconto\".",
+          "O desconto chega a 10% OFF, mas o percentual pode ser menor em alguns produtos, então confira o desconto no carrinho antes de pagar. O cupom vale em todas as formas de pagamento e funciona tanto para conta nova quanto para quem já comprou na loja. As regras completas e as condições atualizadas ficam na [página do cupom da Probiótica](/cupons/probiotica).",
+          "Testamos o cupom num pedido real, e o passo a passo, com o que mudou no carrinho, está no artigo abaixo."
+        ],
+        "links": [
+          {
+            "label": "Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%",
+            "href": "/reviews/cupom-probiotica-como-usar"
+          }
+        ]
+      },
+      {
+        "heading": "Vale a pena comprar no site da Probiótica?",
+        "paragraphs": [
+          "Do ponto de vista da confiança, sim. A loja é operada pela Supley, com CNPJ ativo, razão social e endereço no rodapé, política de trocas publicada (7 dias de arrependimento e 30 para defeito) e reputação Boa no Reclame Aqui, com 99% das reclamações respondidas nos últimos seis meses.",
+          "Há dois pontos de atenção. O frete grátis depende da região: começa em R$ 104 na capital paulista e chega a R$ 599 no Norte. E 79,3% das reclamações dos últimos 6 meses foram resolvidas; atraso na entrega é o problema mais citado no Reclame Aqui, então acompanhe o rastreio do pedido."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Probiótica é confiável? Sim. A loja é operada pela Supley, com CNPJ ativo, trocas publicadas no site e reputação Boa no Reclame Aqui, com 99% das reclamações dos últimos seis meses respondidas, em consulta de 14/10/2026.",
+          "A Probiótica é da Supley? Sim. A própria Supley lista a Probiótica entre as marcas do grupo, ao lado de Max Titanium, Dr. Peanut e Znack That, e o rodapé da loja traz a razão social da Supley.",
+          "A Probiótica é da Max Titanium? Não. As duas são marcas irmãs do mesmo grupo, a Supley, mas a Probiótica não pertence à Max Titanium.",
+          "O site da Probiótica é seguro? O endereço oficial é probiotica.com.br, e o rodapé mostra razão social, CNPJ e endereço. Confira o domínio na barra do navegador antes de digitar dados de pagamento, principalmente se chegou por anúncio.",
+          "Qual é o CNPJ da Probiótica? O rodapé do site traz o CNPJ 07.578.713/0004-29, da Supley Laboratório de Alimentos e Suplementos Nutricionais Ltda., que consta como ativo nos dados públicos em 14/10/2026.",
+          "Quanto tempo tenho para trocar um produto da Probiótica? São 7 dias corridos a partir do recebimento para o arrependimento, com embalagem original e lacre intacto, e 30 dias corridos para comunicar defeito. No arrependimento, o pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
+          "A Probiótica tem frete grátis? Tem, a partir de um valor de pedido que depende da região: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 249 no Sul, R$ 204 no Centro-Oeste, R$ 299 no Nordeste e R$ 599 no Norte, em 14/10/2026. Não vale para Sedex.",
+          "Tem cupom de primeira compra na Probiótica? Nosso cupom é o PRO10EMCASACOMCECILIA: dá até 10% OFF, com desconto menor em alguns produtos, e vale em todas as formas de pagamento, para conta nova e para quem já comprou. Digite o código no campo \"Cupom de Desconto\" do carrinho."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 416,
+    "slug": "probiotica-reclame-aqui-nota-reputacao",
+    "title": "Probiótica no Reclame Aqui: nota, reclamações e o que os dados mostram",
+    "seoTitle": "Probiótica no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os números da Probiótica no Reclame Aqui em 14/10/2026: reputação Boa, nota 7,2 nos últimos 6 meses, 99% das reclamações respondidas e 79,3% resolvidas. Veja o que mais gera queixa e o que fazer se o pedido der problema.",
+    "metaDescription": "Probiótica no Reclame Aqui: reputação Boa, nota 7,2 e 79,3% de reclamações resolvidas. Veja as queixas mais comuns e o que fazer (14/10/2026).",
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/probiotica/probiotica-reclame-aqui-capa.webp",
+    "imageAlt": "Perfil Probiótica Laboratórios no Reclame Aqui em 14/10/2026: topo com a reputação Boa, em montagem com a aba de 6 meses",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "heroCompact": true,
+    "pros": [
+      "Reputação Boa no Reclame Aqui, com nota 7,2 nos últimos 6 meses e 7,1 nos últimos 12",
+      "99% das reclamações respondidas nos últimos 6 meses e 99,6% nos últimos 12",
+      "79,3% das reclamações dos últimos 6 meses resolvidas, cerca de 4 em cada 5",
+      "Avaliações de compra de 4,7 em 5 no topo do perfil"
+    ],
+    "cons": [
+      "Só 55,2% dos consumidores que avaliaram voltariam a fazer negócio",
+      "Nota média do consumidor de 5,9 nos últimos 6 meses e 5,54 nos últimos 12",
+      "Atraso na entrega é o problema mais citado, com 15,62%",
+      "Tempo médio de resposta de cerca de uma semana",
+      "Reclamações de pedidos feitos no site podem estar no perfil da Supley, e não no da Probiótica"
+    ],
+    "cta": {
+      "text": "Se os números te deram segurança para comprar, entre pelo link da parceria e use o cupom PRO10EMCASACOMCECILIA, de até 10% OFF.",
+      "label": "Ir para a Probiótica com o cupom",
+      "url": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+      "sponsored": true
+    },
+    "coupon": "PRO10EMCASACOMCECILIA",
+    "affiliate": "probiotica",
+    "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo PRO10EMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "probiotica-e-confiavel",
+        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+      },
+      {
+        "slug": "cupom-probiotica-como-usar",
+        "title": "Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "A Probiótica tem reputação **Boa** no Reclame Aqui. Em 14/10/2026, o perfil \"Probiótica Laboratórios\" mostrava nota 7,2 nos últimos 6 meses (de 01/04 a 30/09/2026), com 105 reclamações, 99% respondidas e 79,3% resolvidas.",
+          "O ponto fraco está em quem avaliou: só 55,2% dos consumidores que avaliaram disseram que voltariam a fazer negócio, e a nota média do consumidor foi 5,9. A loja responde quase tudo, mas quase metade de quem avaliou a reclamação não voltaria a fazer negócio.",
+          "Nos 12 meses (de 01/10/2025 a 30/09/2026), a nota é 7,1, com 281 reclamações e 76,7% resolvidas.",
+          "Nas reclamações de até 3 anos, o problema mais citado é o atraso na entrega e o produto mais citado é o Whey Protein. O quadro não diz que o whey tenha mais problemas que os outros itens.",
+          "A loja do site é operada pela Supley, que tem perfil próprio no Reclame Aqui. Vale olhar os dois nomes. Sobre quem está por trás da marca e as trocas, veja [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Por que olhar o Reclame Aqui antes de comprar na Probiótica",
+        "paragraphs": [
+          "A Probiótica vende pela internet suplementos e itens ligados a eles, como whey, creatina, colágeno e barras de proteína. Quem compra pela primeira vez costuma ter duas dúvidas: o pedido chega no prazo, e o que acontece se vier algo errado ou se der problema depois?",
+          "Toda loja que vende pela internet recebe reclamações. O que o Reclame Aqui ajuda a medir é outra coisa: se a empresa responde, quantas reclamações ela resolve, quanto tempo leva e se quem reclamou voltaria a comprar. Os números mudam todos os dias, então tratamos os de 14/10/2026 como uma fotografia, e não como uma garantia. Vale abrir o perfil de novo no dia da sua compra.",
+          "Este artigo não avalia produto. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista. O que dá para ler nos dados públicos é como a empresa lida com as reclamações que recebe."
+        ]
+      },
+      {
+        "heading": "Os números da Probiótica no Reclame Aqui",
+        "paragraphs": [
+          "O perfil da Probiótica fica na categoria Suplementos Alimentares e Fórmulas. Em 14/10/2026, o topo mostrava reputação **Boa** e avaliações de compra de 4,7 em 5. A tabela põe lado a lado as abas de 6 e de 12 meses, cada uma com o seu período:"
+        ],
+        "comparisonTable": {
+          "caption": "Perfil Probiótica Laboratórios no Reclame Aqui, abas de 6 meses (01/04 a 30/09/2026) e de 12 meses (01/10/2025 a 30/09/2026), consultado em 14/10/2026",
+          "headers": [
+            "Indicador",
+            "6 meses (01/04 a 30/09/2026)",
+            "12 meses (01/10/2025 a 30/09/2026)"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Boa, nota 7,2",
+              "Boa, nota 7,1"
+            ],
+            [
+              "Reclamações recebidas",
+              "105",
+              "281"
+            ],
+            [
+              "Respondidas",
+              "99% (1 aguardando)",
+              "99,6% (1 aguardando)"
+            ],
+            [
+              "Resolvidas",
+              "79,3%",
+              "76,7%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "55,2%",
+              "56,4%"
+            ],
+            [
+              "Reclamações avaliadas",
+              "58",
+              "172"
+            ],
+            [
+              "Nota média do consumidor",
+              "5,9",
+              "5,54"
+            ],
+            [
+              "Tempo médio de resposta",
+              "7 dias",
+              "8 dias e 3 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A diferença entre as duas janelas é pequena: os indicadores mudam pouco de uma aba para a outra, e o \"voltariam\" e a nota do consumidor ficam nos mesmos patamares nas duas. A leitura mais direta é que a Probiótica responde, resolve a maior parte dos casos, e mesmo assim uma parte grande de quem avaliou não voltaria a fazer negócio."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/probiotica-reclame-aqui-aba-6-meses.webp",
+            "alt": "Aba de 6 meses do perfil Probiótica Laboratórios no Reclame Aqui, com dados de 01/04/2026 a 30/09/2026, consultada em 14/10/2026",
+            "caption": "Aba de 6 meses do perfil \"Probiótica Laboratórios\" no Reclame Aqui, com dados de 01/04/2026 a 30/09/2026 (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+            "objectFit": "contain",
+            "aspectRatio": 0.3054
+          },
+          {
+            "src": "/images/reviews/probiotica/probiotica-reclame-aqui-aba-12-meses.webp",
+            "alt": "Aba de 12 meses do perfil Probiótica Laboratórios no Reclame Aqui, com dados de 01/10/2025 a 30/09/2026, consultada em 14/10/2026",
+            "caption": "Aba de 12 meses do mesmo perfil, com dados de 01/10/2025 a 30/09/2026 (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+            "objectFit": "contain",
+            "aspectRatio": 0.3018
+          }
+        ]
+      },
+      {
+        "heading": "O que mais aparece nas reclamações",
+        "paragraphs": [
+          "Na aba geral, o Reclame Aqui mostra os principais problemas comentados, com reclamações de até 3 anos. Em 14/10/2026, a lista era esta:"
+        ],
+        "bullets": [
+          "**Categoria:** Suplementos Alimentares, com 58,3%.",
+          "**Problema:** atraso na entrega, com 15,62%.",
+          "**Produto:** Whey Protein, com 35,67%."
+        ],
+        "postParagraphs": [
+          "O atraso na entrega é o problema que mais se repete. Por isso, depois de pagar, acompanhe o rastreio e fale com a loja assim que o prazo informado na compra vencer, sem esperar semanas.",
+          "O Whey Protein é o produto mais citado (35,67%). Os números do perfil não permitem concluir que ele tenha mais problemas que os outros itens."
+        ],
+        "image": "/images/reviews/probiotica/probiotica-reclame-aqui-principais-problemas.webp",
+        "imageAlt": "Principais problemas comentados no perfil Probiótica Laboratórios no Reclame Aqui: categoria Suplementos Alimentares com 58,3%, atraso na entrega com 15,62% e Whey Protein com 35,67%",
+        "imageCaption": "Principais problemas comentados no perfil \"Probiótica Laboratórios\", com reclamações de até 3 anos na aba geral (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.22
+      },
+      {
+        "heading": "Probiótica ou Supley: qual perfil olhar?",
+        "paragraphs": [
+          "Quem pesquisa encontra dois perfis no Reclame Aqui: \"Probiótica Laboratórios\" e \"Supley Laboratório de Alimentos e Suplementos Nutricionais\". A Supley é a empresa que opera a loja: a razão social e o CNPJ do rodapé de probiotica.com.br são dela, e a Probiótica é uma das marcas do grupo.",
+          "Os números deste artigo são só os do perfil da Probiótica Laboratórios; o perfil da Supley tem índices próprios, que não estão aqui. Como uma reclamação de pedido feito no site pode estar em qualquer um dos dois, vale buscar pelos dois nomes antes de decidir."
+        ]
+      },
+      {
+        "heading": "Como a Probiótica responde às reclamações",
+        "paragraphs": [
+          "Responde quase todas: em 14/10/2026, 99% estavam respondidas, com uma aguardando, e o tempo médio de resposta ficava em cerca de uma semana. Responder, porém, não é o mesmo que resolver. Nos últimos 6 meses, a loja resolveu 79,3% das reclamações (cerca de 4 em cada 5), e quase metade de quem avaliou não voltaria a fazer negócio.",
+          "Só 58 das 105 reclamações dos últimos 6 meses foram avaliadas, então o \"voltariam\" e a nota do consumidor falam de uma parte delas. Esses números mostram como a Probiótica foi vista por quem usou o Reclame Aqui, não como é a experiência de todos os compradores."
+        ]
+      },
+      {
+        "heading": "Se o seu pedido der problema: o que fazer",
+        "paragraphs": [
+          "A política da loja está nos Termos e Condições do site, e o atendimento é o SAC da Supley, empresa que opera a loja, pelo e-mail sac@supley.com.br. O rodapé do site traz também os telefones (16) 3506-2045, (16) 3506-2046 e 4004-2696, em 14/10/2026. Os prazos e as regras de troca estão detalhados em [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel). Em resumo, o caminho é este:"
+        ],
+        "bullets": [
+          "**Pedido atrasado:** acompanhe o rastreio e guarde o número do pedido. O prazo de entrega é contado em dias úteis e aparece na hora da compra. Quando ele vencer, escreva para o SAC com o número do pedido, sem esperar semanas.",
+          "**Arrependimento:** são 7 dias corridos a partir do recebimento. O produto precisa estar na embalagem original, com o lacre intacto, e o pedido vai por e-mail para o SAC, com o número do pedido e a nota fiscal. O reembolso é integral, com o frete pago na compra.",
+          "**Defeito:** são 30 dias corridos para comunicar. A loja analisa o caso, e a coleta e o reenvio ficam por conta da Probiótica. Depois da análise, você escolhe entre a troca do produto, o dinheiro de volta ou um cupom.",
+          "**Cartão:** o estorno vem numa vez só, na fatura seguinte ou na outra.",
+          "**Se o atendimento direto não resolver:** abra uma reclamação no Reclame Aqui e, depois da resposta, você pode avaliar se o problema foi resolvido. Reclamações de pedidos feitos no site podem estar no perfil da Supley, e não no da Probiótica."
+        ],
+        "postParagraphs": [
+          "Se o problema for mal-estar depois de consumir o produto, pare de usar, procure um profissional de saúde e avise o SAC."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Probiótica e pode receber comissão pelas compras feitas com o cupom **PRO10EMCASACOMCECILIA**. Isso não mexe nos números deste artigo, que são todos do perfil público da empresa no Reclame Aqui.",
+          "O cupom dá até 10% OFF, e em alguns produtos o desconto é menor, então confira o valor no carrinho antes de pagar. Ele vale em todas as formas de pagamento e funciona para conta nova e para quem já comprou na loja. Os detalhes atualizados estão na [página do cupom da Probiótica](/cupons/probiotica), e o passo a passo no carrinho, no artigo [Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-probiotica-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Probiótica é confiável segundo o Reclame Aqui? Em 14/10/2026, o perfil Probiótica Laboratórios mostrava reputação Boa, com nota 7,2 nos últimos 6 meses. O ponto fraco é que só 55,2% dos consumidores que avaliaram voltariam a fazer negócio.",
+          "Qual a nota da Probiótica no Reclame Aqui? Nota 7,2 nos últimos 6 meses (de 01/04 a 30/09/2026) e 7,1 nos últimos 12 meses, ambas na faixa Boa, em consulta de 14/10/2026. A nota do consumidor, dada por quem avaliou o atendimento, era 5,9 e 5,54.",
+          "A Probiótica responde às reclamações? Sim. Em 14/10/2026, o perfil mostrava 99% das reclamações respondidas nos últimos 6 meses e 99,6% nos últimos 12, com resposta em cerca de uma semana.",
+          "Por que há dois perfis, Probiótica e Supley? A Supley é a empresa que opera a loja, e a razão social e o CNPJ do rodapé do site são dela, enquanto Probiótica é a marca. Por isso uma reclamação sobre um pedido do site pode estar em qualquer um dos dois perfis, e vale buscar pelos dois nomes.",
+          "O que fazer se o pedido da Probiótica atrasar? Acompanhe o rastreio e, quando o prazo de entrega informado na compra vencer, escreva para o SAC em sac@supley.com.br com o número do pedido. Se não resolver, abra uma reclamação no Reclame Aqui.",
+          "Como pedir troca ou reembolso na Probiótica? No arrependimento, são 7 dias corridos do recebimento, com embalagem original e lacre intacto, e o pedido vai por e-mail para sac@supley.com.br com o número do pedido e a nota fiscal. Em caso de defeito, são 30 dias corridos para comunicar, com coleta paga pela loja."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 417,
+    "slug": "cupom-probiotica-como-usar",
+    "title": "Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%",
+    "seoTitle": "Cupom Probiótica: como usar o PRO10EMCASACOMCECILIA",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Como usar o cupom PRO10EMCASACOMCECILIA na Probiótica: até 10% OFF em todo o site, testado no carrinho em 13/10/2026. Passo a passo, linha Descontos, frete grátis por região, Pix, primeira compra e o que comprar.",
+    "metaDescription": "Cupom Probiótica PRO10EMCASACOMCECILIA: até 10% OFF, testado no carrinho. Veja como aplicar, a linha Descontos e o frete grátis por região.",
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/probiotica/probiotica-cupom-capa.webp",
+    "imageAlt": "Montagem do checkout da Probiótica com o código PRO10EMCASACOMCECILIA digitado no campo Cupom de Desconto e o desconto aplicado no resumo do pedido",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "Até 10% OFF em todo o site, em todas as formas de pagamento",
+      "Vale para conta nova e para quem já comprou na loja",
+      "O resumo do pedido mostra a linha Descontos antes do pagamento",
+      "Código digitado no campo Cupom de Desconto do carrinho"
+    ],
+    "cons": [
+      "O desconto é menor em alguns produtos: no nosso teste, cerca de 8% do carrinho",
+      "Não dá frete grátis: o mínimo muda por região, de R$ 104 a R$ 599",
+      "Se o cupom deixar o total abaixo do mínimo da região, o frete volta a ser cobrado",
+      "Não sabemos quais categorias ou itens ficam abaixo de 10%"
+    ],
+    "cta": {
+      "text": "Entre na Probiótica pelo link da parceria e digite o PRO10EMCASACOMCECILIA no carrinho. Confira a linha Descontos antes de pagar.",
+      "label": "Ir para a Probiótica com o cupom",
+      "url": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+      "sponsored": true
+    },
+    "coupon": "PRO10EMCASACOMCECILIA",
+    "affiliate": "probiotica",
+    "editorialNote": "Cupom testado no carrinho oficial. Podemos receber comissão pelo PRO10EMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "probiotica-e-confiavel",
+        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+      },
+      {
+        "slug": "probiotica-reclame-aqui-nota-reputacao",
+        "title": "Probiótica no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Entre no site da Probiótica pelo botão desta página, coloque os produtos no carrinho e digite **PRO10EMCASACOMCECILIA** no campo \"Cupom de Desconto\", no resumo do pedido. Clique em \"Adicionar\".",
+          "O desconto chega a 10% OFF, mas em alguns produtos ele é menor. A linha \"Descontos\" do resumo mostra quanto o cupom abateu de verdade antes de você pagar.",
+          "O cupom vale em todas as formas de pagamento, em todo o site, para conta nova e para quem já comprou na loja.",
+          "Atenção ao frete grátis: o valor mínimo muda conforme a região do CEP, e o desconto do cupom entra na conta. Confira a tabela mais abaixo.",
+          "As condições atualizadas do código ficam na [página do cupom da Probiótica](/cupons/probiotica)."
+        ]
+      },
+      {
+        "heading": "O que é o cupom PRO10EMCASACOMCECILIA",
+        "paragraphs": [
+          "PRO10EMCASACOMCECILIA é o código da parceria do Em Casa com Cecília com a Probiótica, marca brasileira de suplementos. Na loja, ele entra no campo \"Cupom de Desconto\" do carrinho.",
+          "O desconto chega a **10% OFF**, mas varia por produto: nem todo item recebe os 10%. O número que vale é o que a loja mostra na linha \"Descontos\" do seu pedido. O teste do passo 4 mostra isso num carrinho misto.",
+          "O Em Casa com Cecília pode receber comissão pelas compras feitas com esse cupom."
+        ]
+      },
+      {
+        "heading": "1. Entre no site pelo link da parceria",
+        "paragraphs": [
+          "Use o botão da Probiótica desta página para abrir o site oficial. O código você digita no carrinho, no passo 3."
+        ]
+      },
+      {
+        "heading": "2. Monte o carrinho",
+        "paragraphs": [
+          "Escolha os produtos no site e abra o carrinho. Na tela do carrinho, cada item mostra a foto, o nome, a quantidade e o preço, e do lado direito fica o resumo do pedido, com o campo \"Cupom de Desconto\", o subtotal e o total.",
+          "No nosso teste, de 13/10/2026, o carrinho tinha quatro produtos: um kit de colágeno, uma creatina que estava em promoção (o print mostra o preço antigo riscado e o novo), uma camiseta e uma barra de proteína.",
+          "Nessa tela, antes de digitar qualquer coisa, olhe o subtotal e compare com o mínimo de frete grátis da sua região, na tabela abaixo."
+        ],
+        "image": "/images/reviews/probiotica/probiotica-cupom-01-carrinho-sem-cupom.webp",
+        "imageAlt": "Carrinho da Probiótica antes do cupom, com quatro produtos, o campo Cupom de Desconto e o resumo com subtotal e total iguais",
+        "imageCaption": "Carrinho da Probiótica em 13/10/2026, antes do cupom: quatro produtos, o campo \"Cupom de Desconto\" e o resumo com subtotal e total iguais. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.2844
+      },
+      {
+        "heading": "3. Digite PRO10EMCASACOMCECILIA em \"Cupom de Desconto\" e clique em \"Adicionar\"",
+        "paragraphs": [
+          "No resumo do pedido, no alto do lado direito da tela do carrinho, está o campo \"Cupom de Desconto\", com o botão \"Adicionar\" ao lado. Digite o código **PRO10EMCASACOMCECILIA** e clique em \"Adicionar\". Copiar o código pelo botão desta página evita erro de digitação.",
+          "No print, o código aparece no campo, mas cortado: o campo é estreito e só mostra o começo do texto, \"PRO10EMCASACOMCE\". O código inteiro está lá, e a prova vem no próximo passo, quando a loja o exibe completo depois de aceito.",
+          "Até clicar em \"Adicionar\", nada muda: o subtotal e o total seguem iguais, como no print. O desconto só entra depois do clique."
+        ],
+        "image": "/images/reviews/probiotica/probiotica-cupom-02-codigo-digitado.webp",
+        "imageAlt": "Código PRO10EMCASACOMCECILIA digitado no campo Cupom de Desconto do carrinho da Probiótica, antes do clique em Adicionar",
+        "imageCaption": "O código PRO10EMCASACOMCECILIA digitado no campo \"Cupom de Desconto\", antes do clique em \"Adicionar\", no teste de 13/10/2026. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.307
+      },
+      {
+        "heading": "4. Confira a linha \"Descontos\" antes de pagar",
+        "paragraphs": [
+          "Depois do clique, o resumo do pedido muda. O código aparece no lugar do campo, com um X ao lado, e surge uma linha nova, \"Descontos\", entre o subtotal e o total, com o valor abatido em reais e com sinal de menos.",
+          "No nosso teste, o desconto foi de R$ 54,75 sobre o subtotal de R$ 659,35. É cerca de 8% do carrinho, abaixo dos 10% do título, porque o cupom não dá 10% em todos os produtos. O carrinho do teste tinha um kit e uma creatina em promoção, e o print mostra só o desconto total, sem separar quanto saiu de cada item. Então não dá para dizer que um produto específico recebe, ou não, os 10%.",
+          "Por isso, a regra prática é: **confira a linha \"Descontos\" e o total antes de pagar**. Se o valor for menor do que você esperava, é porque o desconto daquele carrinho é menor do que 10%."
+        ],
+        "image": "/images/reviews/probiotica/probiotica-cupom-03-desconto-aplicado.webp",
+        "imageAlt": "Resumo do pedido da Probiótica depois do cupom, com o código no lugar do campo e a linha Descontos com sinal de menos entre o subtotal e o total",
+        "imageCaption": "Resumo do pedido depois do cupom, em 13/10/2026: o código no lugar do campo, a linha \"Descontos\" com sinal de menos entre o subtotal e o total. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.0209
+      },
+      {
+        "heading": "Frete grátis com o cupom: confira o mínimo da sua região",
+        "paragraphs": [
+          "A Probiótica dá frete grátis a partir de um valor de pedido que depende da região do CEP. Em 14/10/2026, a política de frete grátis do site trazia estes valores:"
+        ],
+        "comparisonTable": {
+          "caption": "Valor de pedido para frete grátis da Probiótica por região, segundo a política do site em 14/10/2026",
+          "headers": [
+            "Região",
+            "Frete grátis a partir de"
+          ],
+          "rows": [
+            [
+              "São Paulo (capital)",
+              "R$ 104"
+            ],
+            [
+              "Sudeste",
+              "R$ 134"
+            ],
+            [
+              "Sul",
+              "R$ 249"
+            ],
+            [
+              "Centro-Oeste",
+              "R$ 204"
+            ],
+            [
+              "Nordeste",
+              "R$ 299"
+            ],
+            [
+              "Norte",
+              "R$ 599"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A política vale para a entrega mais barata do site e não vale para Sedex.",
+          "O ponto que pesa com o cupom: se o desconto deixar o total do pedido abaixo do valor da sua região, o frete volta a ser cobrado. Exemplo de conta, não um valor de produto: no Sudeste, um carrinho de R$ 140 passa do mínimo de R$ 134 sem cupom, mas, se o cupom tirasse 10%, o total ficaria em R$ 126 e o frete deixaria de ser grátis.",
+          "Por isso, quem está perto do mínimo deve olhar o total depois do cupom, e não o subtotal. Se o total depois do cupom ficou abaixo do mínimo da sua região, o frete será cobrado. Esses valores mudam com o tempo; confirme o do seu CEP no carrinho antes de fechar."
+        ]
+      },
+      {
+        "heading": "Pix, primeira compra e outros cupons",
+        "paragraphs": [
+          "O PRO10EMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. Em 14/10/2026, a página inicial da Probiótica anunciava parcelamento em até 6 vezes sem juros no cartão e até 5% de desconto no Pix e no boleto. O percentual do Pix e do boleto é da loja, e pode mudar: confira o percentual na hora de pagar.",
+          "Também não importa se é a sua primeira compra. O cupom funciona para quem está abrindo uma conta nova e para quem já comprou na Probiótica. Ele vale na primeira compra e continua valendo nos pedidos seguintes.",
+          "Se o pedido tiver brinde, os Termos e Condições da loja, em 14/10/2026, contavam o valor final pago, já com o desconto do cupom."
+        ]
+      },
+      {
+        "heading": "O que comprar com o cupom",
+        "paragraphs": [
+          "O cupom vale em todo o site. O menu da página inicial da Probiótica, em 14/10/2026, tem estas categorias:"
+        ],
+        "bullets": [
+          "Whey Protein",
+          "Creatina",
+          "Colágeno",
+          "Endurance",
+          "Pré-treino",
+          "Barras Proteicas",
+          "Kits Promocionais",
+          "Roupas e Acessórios"
+        ],
+        "postParagraphs": [
+          "Não avaliamos produto aqui: dizer se um item é bom pediria laudo ou teste, e não temos nenhum dos dois. Se o suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
+          "Nenhuma fonte nossa diz quais categorias ou itens ficam abaixo de 10%: a linha \"Descontos\" mostra só o total do pedido."
+        ]
+      },
+      {
+        "heading": "Prazos e regras de troca da Probiótica",
+        "paragraphs": [
+          "As regras de troca e devolução da Probiótica, em 14/10/2026, eram estas:"
+        ],
+        "bullets": [
+          "**Arrependimento:** 7 dias corridos a partir do recebimento, com a embalagem original e o lacre intactos. O pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
+          "**Defeito:** 30 dias corridos para comunicar. A loja analisa o caso, e a coleta e o reenvio ficam por conta da Probiótica."
+        ],
+        "postParagraphs": [
+          "Os 7 dias correm do recebimento, e não da data da compra. Guarde a nota fiscal e abra o pedido assim que perceber o problema. O quadro completo de trocas, devoluções e defeito está em [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel). Os números da loja no Reclame Aqui estão em [Probiótica no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/probiotica-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Vale a pena usar o cupom?",
+        "paragraphs": [
+          "Se você já ia comprar na Probiótica, sim: o cupom vale em todo o site e dá até 10% OFF, menos em alguns produtos, como no nosso teste. Duas conferências evitam surpresa: a linha \"Descontos\" antes de pagar e, perto do mínimo do frete grátis da sua região, o total depois do cupom.",
+          "As condições atualizadas do código ficam na [página do cupom da Probiótica](/cupons/probiotica)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Probiótica? O cupom da nossa parceria é o PRO10EMCASACOMCECILIA, que dá até 10% OFF no site oficial, probiotica.com.br. Em alguns produtos o desconto é menor, então confira a linha \"Descontos\" no carrinho antes de pagar.",
+          "Tem cupom de primeira compra na Probiótica? Sim. O PRO10EMCASACOMCECILIA vale na primeira compra e nas seguintes, tanto para conta nova quanto para quem já comprou. Digite o código no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\".",
+          "O cupom vale em todas as formas de pagamento? Sim. O código vale em todas as formas de pagamento da loja. A condição de pagamento do site, como o desconto de até 5% no Pix e no boleto anunciado em 14/10/2026, é da própria Probiótica.",
+          "Por que o cupom não deu 10% em todos os produtos? Porque o desconto varia por produto: o cupom dá até 10% OFF, e em alguns itens o percentual é menor. O total do carrinho pode ficar abaixo de 10%, e a linha \"Descontos\" mostra o valor abatido no seu pedido.",
+          "O cupom da Probiótica dá frete grátis? Não. O frete grátis é uma regra da loja, que depende do valor do pedido e da região, de R$ 104 na capital de São Paulo a R$ 599 no Norte em 14/10/2026, e não vale no Sedex. Se o cupom deixar o total abaixo do mínimo da sua região, o frete volta a ser cobrado.",
+          "Tem cupom para whey da Probiótica? Sim: o PRO10EMCASACOMCECILIA vale no site oficial, que tem a categoria Whey Protein no menu em 14/10/2026. O desconto chega a 10% e é menor em alguns produtos; não testamos o whey, então confira a linha \"Descontos\" no carrinho.",
+          "Onde o cupom vale? No site oficial da Probiótica, o probiotica.com.br, onde o código é digitado no carrinho."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 418,
+    "slug": "dr-peanut-e-confiavel",
+    "title": "Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete",
+    "seoTitle": "Dr. Peanut é confiável? De quem é e site oficial",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que conferimos sobre a Dr. Peanut em 14/10/2026: CNPJ ativo desde 2017, fábrica em Curitiba ligada ao grupo Supley, site oficial, regras de troca e de frete grátis por região e a reputação no Reclame Aqui.",
+    "metaDescription": "A Dr. Peanut é confiável? Veja o CNPJ, de quem é a marca, o site oficial, as regras de troca, o frete grátis por região e o Reclame Aqui (14/10/2026).",
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dr-peanut/dr-peanut-confiavel-capa.webp",
+    "imageAlt": "Página inicial do site da Dr. Peanut (drpeanut.com.br) em 14/10/2026",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "CNPJ ativo desde 02/08/2017, o mesmo que aparece no rodapé do site junto com o endereço",
+      "Fábrica brasileira de Curitiba (PR), ligada ao grupo Supley",
+      "Políticas de troca e de frete publicadas no site, com prazo e valor escritos",
+      "Arrependimento em 7 dias corridos, com reembolso integral e devolução paga pela loja",
+      "Reputação Ótima (nota 8,1) nos últimos 12 meses no Reclame Aqui"
+    ],
+    "cons": [
+      "Na troca por outro produto, o frete de ida e o de volta são seus",
+      "O frete grátis depende do mínimo da região e é conferido depois do cupom",
+      "Reputação Boa (nota 7,4) nos últimos 6 meses, abaixo da de 12 meses",
+      "A política de trocas não informa prazo para a troca por outro produto"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Sim, a Dr. Peanut é confiável. A empresa por trás da marca, a Body Food Fabricantes de Alimentos Saudáveis Ltda. (nome fantasia \"DR PEANUT\"), tem CNPJ 28.324.667/0001-69 ativo desde 02/08/2017, matriz em Curitiba (PR) e atividade cadastrada de fábrica de alimentos. Dados conferidos em 14/10/2026.",
+          "É brasileira. A empresa fica em Curitiba, e o endereço e o CNPJ aparecem no rodapé do site.",
+          "A Supley Laboratório de Alimentos e Suplementos Nutricionais Ltda. é sócia da empresa no CNPJ. A Dr. Peanut é uma das marcas do grupo Supley, que também tem Max Titanium, Probiótica e Znack That. Então a Dr. Peanut não é da Max Titanium: são marcas irmãs.",
+          "O site oficial é o drpeanut.com.br. As trocas e o frete grátis estão publicados nele, com prazo e regra por região, e o frete grátis começa em R$ 149,90 no Sudeste e no Sul e em R$ 199,90 no Centro-Oeste, Nordeste e Norte.",
+          "O cupom da nossa parceria dá 10% em todo o site, em todas as formas de pagamento. As regras estão na [página do cupom da Dr. Peanut](/cupons/dr-peanut)."
+        ]
+      },
+      {
+        "heading": "De quem é a Dr. Peanut? É brasileira?",
+        "paragraphs": [
+          "A Dr. Peanut é uma marca brasileira, de Curitiba, no Paraná. A empresa por trás dela é a Body Food Fabricantes de Alimentos Saudáveis Ltda., que usa \"DR PEANUT\" como nome fantasia. O CNPJ é 28.324.667/0001-69 e o endereço da matriz, o mesmo que o site mostra no rodapé, é Rua Martha Gembaroski Tuleski, 320, no bairro CIC, em Curitiba/PR.",
+          "Na consulta pública do CNPJ, em 14/10/2026, a situação cadastral é ativa, com início das atividades em 02/08/2017. A atividade principal registrada é \"Fabricação de outros produtos alimentícios não especificados anteriormente\", ou seja, a empresa é cadastrada como fábrica, e não apenas como revendedora.",
+          "Quem procura \"Dr. Peanut dono\" encontra a resposta no quadro de sócios do mesmo cadastro: a Supley Laboratório de Alimentos e Suplementos Nutricionais Ltda. aparece como sócia da empresa. A Supley é a empresa por trás de um grupo de marcas de alimentos e suplementos, e a Dr. Peanut é uma delas.",
+          "O \"Dr.\" do nome é parte da marca. Não indica médico nem recomendação de profissional de saúde."
+        ]
+      },
+      {
+        "heading": "A Dr. Peanut é da Max Titanium?",
+        "paragraphs": [
+          "Não. As duas são marcas irmãs, do mesmo grupo Supley. No site do grupo, a Supley se apresenta com Max Titanium, Probiótica, Dr. Peanut e Znack That.",
+          "A ligação aparece até no catálogo. Na loja da Dr. Peanut existe o produto \"100% Whey Dr. Peanut 900g - Max Titanium\", com o nome das duas marcas. O ponto em comum é o grupo: a Dr. Peanut tem CNPJ próprio, o da Body Food, em que a Supley é sócia."
+        ],
+        "links": [
+          {
+            "label": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação",
+            "href": "/reviews/probiotica-e-confiavel"
+          }
+        ]
+      },
+      {
+        "heading": "Como saber se você está no site oficial",
+        "paragraphs": [
+          "O site oficial da Dr. Peanut é o **drpeanut.com.br**, uma loja própria, e é nele que valem as regras de troca e o cupom da nossa parceria. Antes de pagar, confira estes pontos:"
+        ],
+        "bullets": [
+          "**Endereço.** O botão da loja leva a https://www.drpeanut.com.br/. Confira o endereço na barra do navegador antes de colocar qualquer dado.",
+          "**Rodapé com CNPJ e endereço.** Em 14/10/2026 o rodapé traz \"DR. PEANUT - CNPJ 28.324.667/0001-69 - RUA MARTHA GEMBAROSKI TULESKI, 320 - CIC. CURITIBA/PR\". Se o CNPJ do rodapé for outro, desconfie.",
+          "**Selo de segurança.** O rodapé mostra \"Site Seguro SSL\" e indica que a loja roda na plataforma VTEX. O selo é uma informação do próprio site: ele indica conexão criptografada, mas não prova sozinho que a loja é a oficial. Use junto com os outros pontos.",
+          "**Formas de pagamento.** O rodapé mostra os ícones de pagamento (cartões, boleto, débito online pelos bancos e Pix), listados na seção de frete e pagamento.",
+          "**Quem vende.** No carrinho, os produtos aparecem como \"Produto fornecido e entregue por Dr. Peanut\". Se o vendedor for outro, você está num marketplace e não na loja oficial.",
+          "**Cupom.** Na loja oficial, o cupom vai no campo \"Insira o seu cupom abaixo\", no carrinho."
+        ],
+        "image": "/images/reviews/dr-peanut/dr-peanut-rodape-cnpj.webp",
+        "imageAlt": "Rodapé do site da Dr. Peanut em 14/10/2026, com CNPJ, endereço, formas de pagamento e o selo Site Seguro SSL",
+        "imageCaption": "Rodapé do site da Dr. Peanut em 14/10/2026, com CNPJ, endereço, formas de pagamento e o selo Site Seguro SSL. O destaque amarelo no CNPJ é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 8.205
+      },
+      {
+        "heading": "O que a Dr. Peanut vende",
+        "paragraphs": [
+          "A Dr. Peanut é conhecida pelas pastas de amendoim e tem mais categorias na loja. Em 14/10/2026, o menu do site traz Pastas de Amendoim, Snacks e Whey Protein, e a loja vende também alfajores:"
+        ],
+        "bullets": [
+          "**Pastas de amendoim**, a categoria que dá nome à marca, em sabores como Bombom Italiano.",
+          "**Alfajores.**",
+          "**Snacks.**",
+          "**Whey**, inclusive o \"100% Whey Dr. Peanut 900g - Max Titanium\"."
+        ],
+        "postParagraphs": [
+          "A política de defeito da loja cita roupas, acessórios e coqueteleiras, com prazo de 90 dias (veja a seção de trocas). Isso vem do texto da política, e não confirmamos que a loja venda esses itens hoje.",
+          "Este guia trata de confiança na loja: quem é a empresa, como comprar e o que fazer se algo der errado. Não avaliamos sabor nem composição de nenhum produto, e não fazemos afirmações sobre saúde, dieta ou desempenho. Para isso, a referência é o rótulo de cada produto."
+        ]
+      },
+      {
+        "heading": "Trocas, devoluções e defeito na Dr. Peanut",
+        "paragraphs": [
+          "A \"Política de Trocas e Devoluções\" está publicada no site. Em 14/10/2026, ela separa três situações, e o que muda de uma para outra é o prazo e quem paga o frete:"
+        ],
+        "comparisonTable": {
+          "caption": "Política de Trocas e Devoluções da Dr. Peanut em 14/10/2026",
+          "headers": [
+            "Situação",
+            "Prazo",
+            "Quem paga o frete"
+          ],
+          "rows": [
+            [
+              "Arrependimento",
+              "7 dias corridos a partir do recebimento",
+              "A loja: o reembolso é integral, com o frete, e ela dá os meios de devolução sem custo"
+            ],
+            [
+              "Troca por outro produto",
+              "A política não informa",
+              "Você, na ida e na volta"
+            ],
+            [
+              "Defeito",
+              "30 dias para alimentos e 90 dias para roupas, acessórios e coqueteleiras",
+              "A loja, na coleta e no reenvio"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O arrependimento vale só para compras feitas no site oficial, com a embalagem original e o lacre intacto. Para pedir, você escreve para sac@supley.com.br com o número do pedido e a nota fiscal.",
+          "A troca por outro produto é a linha que costuma pegar de surpresa. Se você comprou um sabor e quer outro, o frete de ida e o de volta são seus. Se você só desistiu da compra, o arrependimento sai sem custo, desde que esteja dentro dos 7 dias.",
+          "No defeito, a loja faz uma análise técnica e você escolhe entre a troca, o dinheiro de volta ou um cupom.",
+          "Na entrega, confira o pacote antes de aceitar. Se houver avaria, embalagem violada ou item errado, você pode recusar a encomenda e escrever o motivo no verso da nota fiscal. Isso evita abrir o processo de devolução depois.",
+          "Sobre o estorno: no cartão, o valor volta na fatura seguinte ou na outra, de uma vez só. No boleto, o depósito sai em até 72 horas, depois da análise da loja."
+        ]
+      },
+      {
+        "heading": "Frete grátis e formas de pagamento",
+        "paragraphs": [
+          "A Dr. Peanut dá frete grátis a partir de um valor mínimo, que depende da região. Em 14/10/2026, a política era esta:"
+        ],
+        "comparisonTable": {
+          "caption": "Frete grátis da Dr. Peanut por região em 14/10/2026",
+          "headers": [
+            "Região",
+            "Frete grátis a partir de"
+          ],
+          "rows": [
+            [
+              "São Paulo capital, Sudeste e Sul",
+              "R$ 149,90"
+            ],
+            [
+              "Centro-Oeste, Nordeste e Norte",
+              "R$ 199,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O frete grátis vale na opção de entrega mais barata. Para quem usa cupom, o detalhe que conta é este: o mínimo é conferido sobre o total já com o desconto. Se o seu carrinho tem R$ 155 e o cupom tira 10%, o total cai para R$ 139,50 e o frete deixa de ser grátis no Sudeste. O aviso do carrinho mostra se você chegou lá, então olhe essa linha depois de aplicar o cupom.",
+          "Para pagar, o rodapé do site lista cartões (Visa, Mastercard, Diners, American Express, Elo e Hipercard), boleto, débito online pelos bancos (Itaú, Bradesco e Banco do Brasil) e Pix."
+        ]
+      },
+      {
+        "heading": "E a reputação no Reclame Aqui?",
+        "paragraphs": [
+          "No Reclame Aqui, a Dr. Peanut aparece com reputação **Boa** nos últimos 6 meses (nota 7,4) e **Ótima** nos últimos 12 meses (nota 8,1), em 14/10/2026. Os números, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão no nosso artigo sobre o assunto."
+        ],
+        "links": [
+          {
+            "label": "Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram",
+            "href": "/reviews/dr-peanut-reclame-aqui-nota-reputacao"
+          }
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Dr. Peanut e pode receber comissão pelas compras feitas com o cupom **DREMCASACOMCECILIA**. Ele dá 10% OFF em todo o site, vale em todas as formas de pagamento e se soma às promoções que estiverem no ar. Também vale tanto para quem já tem conta na loja quanto para quem cria uma agora.",
+          "O cupom entra no campo \"Insira o seu cupom abaixo\", no carrinho. Em 13/10/2026, testamos o cupom num pedido real, e o desconto de 10% entrou em todos os itens, inclusive na pasta de amendoim que já estava em promoção. O passo a passo, com o que apareceu em cada tela, está no artigo do cupom. Os termos atuais ficam na [página do cupom da Dr. Peanut](/cupons/dr-peanut)."
+        ],
+        "links": [
+          {
+            "label": "Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site",
+            "href": "/reviews/cupom-dr-peanut-como-usar"
+          }
+        ]
+      },
+      {
+        "heading": "Vale a pena comprar no site da Dr. Peanut?",
+        "paragraphs": [
+          "Do ponto de vista da confiança, sim. O CNPJ está ativo desde 2017, a empresa é uma fábrica brasileira, está ligada à Supley e mostra no rodapé o CNPJ e o endereço. As regras de troca e de frete estão escritas com número e prazo, e o arrependimento sai sem custo para você.",
+          "Os cuidados são pontuais. A troca por outro produto tem o frete por sua conta, então vale conferir o sabor ou o item antes de fechar o carrinho. O frete grátis depende do mínimo da sua região, contado depois do cupom. E, no Reclame Aqui, a reputação dos últimos 6 meses (Boa, 7,4) ficou abaixo da de 12 meses (Ótima, 8,1). Se você já pretendia comprar, vale usar o cupom e conferir o carrinho antes de pagar."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Dr. Peanut é confiável? Sim. É uma fábrica de alimentos de Curitiba com CNPJ ativo desde 2017, a Supley é sócia da empresa, as políticas de troca e de frete têm prazos e valores escritos, e o Reclame Aqui mostra reputação Boa em 6 meses e Ótima em 12 meses (em 14/10/2026).",
+          "A Dr. Peanut é brasileira? Sim. A empresa é a Body Food Fabricantes de Alimentos Saudáveis Ltda., com matriz em Curitiba (PR) e atividade de fabricação de produtos alimentícios no CNPJ.",
+          "A Dr. Peanut é da Max Titanium? Não: as duas são marcas irmãs, ligadas à mesma empresa, a Supley. O site da Dr. Peanut chega a vender um whey que leva o nome das duas.",
+          "De quem é a Dr. Peanut? A empresa é a Body Food Fabricantes de Alimentos Saudáveis Ltda., e a Supley Laboratório de Alimentos e Suplementos Nutricionais aparece como sócia no CNPJ. A Supley reúne também Max Titanium, Probiótica e Znack That.",
+          "O site da Dr. Peanut é seguro? O site oficial, drpeanut.com.br, mostra o selo \"Site Seguro SSL\", roda na plataforma VTEX e traz CNPJ e endereço no rodapé. Confira sempre o endereço antes de pagar.",
+          "Qual é o CNPJ da Dr. Peanut? É 28.324.667/0001-69, da Body Food Fabricantes de Alimentos Saudáveis Ltda., com sede na Rua Martha Gembaroski Tuleski, 320, no bairro CIC, em Curitiba (PR).",
+          "Posso trocar um produto da Dr. Peanut? Pode. Por arrependimento, são 7 dias corridos do recebimento, com a embalagem original e o lacre intactos, e a loja paga a devolução. Por defeito, são 30 dias para alimentos e 90 dias para roupas, acessórios e coqueteleiras. Na troca por outro produto, o frete de ida e de volta é seu.",
+          "A Dr. Peanut tem frete grátis? Tem. O mínimo é R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o total já com o cupom (em 14/10/2026).",
+          "Tem cupom de primeira compra na Dr. Peanut? Sim: o DREMCASACOMCECILIA dá 10% OFF em todo o site e vale na primeira compra e nas seguintes, em todas as formas de pagamento e somando com as promoções. A [página do cupom da Dr. Peanut](/cupons/dr-peanut) traz as condições atuais."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Se a Dr. Peanut faz sentido para você, use o cupom DREMCASACOMCECILIA, de 10% OFF em todo o site, no carrinho.",
+      "label": "Ir para a Dr. Peanut",
+      "url": "https://www.drpeanut.com.br/",
+      "sponsored": true
+    },
+    "coupon": "DREMCASACOMCECILIA",
+    "affiliate": "dr-peanut",
+    "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo DREMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "dr-peanut-reclame-aqui-nota-reputacao",
+        "title": "Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "cupom-dr-peanut-como-usar",
+        "title": "Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site"
+      }
+    ]
+  },
+  {
+    "id": 419,
+    "slug": "dr-peanut-reclame-aqui-nota-reputacao",
+    "title": "Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram",
+    "seoTitle": "Dr. Peanut no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os números da Dr. Peanut no Reclame Aqui em 14/10/2026: reputação Boa (7,4) em 6 meses e Ótima (8,1) em 12 meses, 95,6% das reclamações respondidas, 84,2% resolvidas, o que mais gera queixa e o que fazer se o pedido der problema.",
+    "metaDescription": "Dr. Peanut no Reclame Aqui em 14/10/2026: reputação Boa (7,4) em 6 meses e Ótima (8,1) em 12. Veja respostas, solução, recompra e as queixas mais comuns.",
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-capa.webp",
+    "imageAlt": "Perfil da Dr. Peanut no Reclame Aqui em 14/10/2026: reputação Boa, avaliações de compra 4,6 de 5 e o quadro da aba de 6 meses",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "heroCompact": true,
+    "pros": [
+      "Reputação Ótima (nota 8,1) nos últimos 12 meses",
+      "95,6% das reclamações respondidas nos últimos 6 meses",
+      "84,2% das reclamações avaliadas foram resolvidas nos últimos 6 meses",
+      "Menos reclamações: 68 nos últimos 6 meses, contra cerca de 121 nos 6 meses anteriores",
+      "Resposta mais rápida: 7 dias e 7 horas nos últimos 6 meses, contra 10 a 11 dias nos períodos mais longos"
+    ],
+    "cons": [
+      "Só 52,6% de quem avaliou nos últimos 6 meses voltaria a fazer negócio",
+      "A reputação dos últimos 6 meses ficou em Boa (7,4), abaixo da Ótima de 12 meses",
+      "A nota média do consumidor segue abaixo de 7 nos três períodos",
+      "Pedido não recebido e entrega lideram as queixas de até 3 anos",
+      "Uma semana de resposta ainda é tempo para quem espera um pedido"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "A Dr. Peanut tem reputação **Boa** no Reclame Aqui nos últimos 6 meses, com nota 7,4 (de 01/04 a 30/09/2026), e **Ótima** nos últimos 12 meses, com nota 8,1 (de 01/10/2025 a 30/09/2026). Em 14/10/2026, o perfil também mostrava 4,6 de 5 nas avaliações de compra.",
+          "A empresa responde quase tudo e resolve a maior parte. Nos últimos 6 meses, foram 68 reclamações, 95,6% respondidas e 84,2% resolvidas, entre as que os consumidores avaliaram. Em 12 meses, foram 189 reclamações, 98,4% respondidas e 89,4% resolvidas.",
+          "O ponto fraco é a recompra: só 52,6% dos que avaliaram nos últimos 6 meses voltariam a fazer negócio, e 66% nos últimos 12 meses.",
+          "A tendência é de menos reclamações: 510 em 2025 e 189 nos 12 meses até setembro de 2026; nos últimos 6 meses foram 68, contra cerca de 121 nos 6 meses anteriores. A resposta também está mais rápida (7 dias e 7 horas nos últimos 6 meses, contra 10 a 11 dias nos períodos mais longos). A nota recente, porém, ficou abaixo da de 12 meses, e é por isso que a reputação caiu de Ótima para Boa.",
+          "O que mais aparece nas queixas é pedido não recebido e entrega, e não o produto."
+        ]
+      },
+      {
+        "heading": "Por que olhar o Reclame Aqui antes de comprar na Dr. Peanut",
+        "paragraphs": [
+          "A Dr. Peanut vende pelo próprio site, e a empresa é uma fábrica de Curitiba (PR). Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista; aqui o assunto é a loja.",
+          "O perfil mostra, com data, a reputação da empresa, quantas reclamações recebeu, quantas respondeu, quantas o consumidor considerou resolvidas e quantos voltariam a fazer negócio. São essas medidas que usamos aqui.",
+          "Em 14/10/2026, o perfil \"Dr. Peanut\" aparecia na categoria Alimentos e Bebidas, em Suplementos Alimentares e Fórmulas. Os números do Reclame Aqui mudam com o tempo e cada aba do perfil cobre um período próprio, por isso todos os dados abaixo trazem a data da consulta e o intervalo de cada aba. Vale abrir o perfil de novo no dia da sua compra."
+        ]
+      },
+      {
+        "heading": "Os números da Dr. Peanut no Reclame Aqui",
+        "paragraphs": [
+          "O perfil tem abas por período. Estas são as três que consultamos em 14/10/2026: os últimos 6 meses, os últimos 12 meses e o ano de 2025. Cada aba conta só as reclamações abertas dentro do próprio intervalo."
+        ],
+        "comparisonTable": {
+          "caption": "Perfil da Dr. Peanut no Reclame Aqui, abas de 6 meses, 12 meses e 2025, consultadas em 14/10/2026.",
+          "headers": [
+            "Indicador",
+            "6 meses (01/04 a 30/09/2026)",
+            "12 meses (01/10/2025 a 30/09/2026)",
+            "2025 (01/01 a 31/12/2025)"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Boa, nota 7,4",
+              "Ótima, nota 8,1",
+              "Boa, nota 7,1"
+            ],
+            [
+              "Reclamações recebidas",
+              "68",
+              "189",
+              "510"
+            ],
+            [
+              "Respondidas",
+              "95,6%",
+              "98,4%",
+              "99,6%"
+            ],
+            [
+              "Aguardando resposta",
+              "3",
+              "3",
+              "0"
+            ],
+            [
+              "Resolvidas",
+              "84,2%",
+              "89,4%",
+              "79,5%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "52,6%",
+              "66%",
+              "57,1%"
+            ],
+            [
+              "Reclamações avaliadas",
+              "38",
+              "94",
+              "268"
+            ],
+            [
+              "Nota média do consumidor",
+              "6,21",
+              "6,94",
+              "5,41"
+            ],
+            [
+              "Tempo médio de resposta",
+              "7 dias e 7 horas",
+              "11 dias e 6 horas",
+              "10 dias e 4 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "As porcentagens de solução e de recompra saem só das reclamações avaliadas. Nos últimos 6 meses, foram 38 das 68. Com uma base tão pequena, poucas avaliações mexem muito nos percentuais: 52,6% de 38 avaliações equivalem a cerca de 20 avaliações."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-6-meses.webp",
+            "alt": "Aba de 6 meses do perfil da Dr. Peanut no Reclame Aqui, com dados de 01/04/2026 a 30/09/2026",
+            "caption": "Aba de 6 meses do perfil da Dr. Peanut no Reclame Aqui, com dados de 01/04/2026 a 30/09/2026 (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+            "objectFit": "contain",
+            "aspectRatio": 0.3093
+          },
+          {
+            "src": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-12-meses.webp",
+            "alt": "Aba de 12 meses do perfil da Dr. Peanut no Reclame Aqui, com dados de 01/10/2025 a 30/09/2026",
+            "caption": "Aba de 12 meses do perfil da Dr. Peanut no Reclame Aqui, com dados de 01/10/2025 a 30/09/2026 (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+            "objectFit": "contain",
+            "aspectRatio": 0.309
+          },
+          {
+            "src": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-2025.webp",
+            "alt": "Aba de 2025 do perfil da Dr. Peanut no Reclame Aqui, com dados de 01/01 a 31/12/2025",
+            "caption": "Aba de 2025 do perfil da Dr. Peanut no Reclame Aqui, com dados de 01/01 a 31/12/2025 (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+            "objectFit": "contain",
+            "aspectRatio": 0.3101
+          }
+        ]
+      },
+      {
+        "heading": "O que os números mostram",
+        "paragraphs": [
+          "**Menos reclamações.** Como os 6 meses estão dentro dos 12, os 6 meses anteriores (de 01/10/2025 a 31/03/2026) somam cerca de 121 reclamações, contra as 68 mais recentes. O volume vem caindo de um período para o outro.",
+          "**Resposta mais rápida.** O tempo médio caiu em relação aos períodos mais longos, mas uma semana ainda é tempo para quem espera um pedido.",
+          "**Mais resolvidas que em 2025, menos recompra.** A solução e a nota média do consumidor subiram em relação a 2025. A recompra dos últimos 6 meses (52,6%) ficou abaixo da de 2025 (57,1%). A nota média do consumidor segue abaixo de 7 nos três períodos (6,21; 6,94; 5,41).",
+          "**Por que a reputação caiu.** A reputação foi de Boa em 2025 para Ótima em 12 meses e voltou a Boa em 6 meses. A conta é do período: a aba de 6 meses olha só as reclamações de abril a setembro de 2026, e a de 12 meses também inclui os 6 meses anteriores, que tiveram mais reclamações. No recorte de abril a setembro de 2026, a solução (84,2%), a recompra (52,6%) e a nota do consumidor (6,21) ficaram abaixo dos de 12 meses. O volume de reclamações não aumentou: caiu.",
+          "Também vale não exagerar na leitura. Poucas reclamações, e poucas avaliadas, não provam qualidade. A reputação Boa é a de uma empresa que responde e resolve a maior parte dos casos, e em que quase metade de quem avaliou nos últimos 6 meses não voltaria a fazer negócio."
+        ]
+      },
+      {
+        "heading": "O que mais aparece nas reclamações da Dr. Peanut",
+        "paragraphs": [
+          "O Reclame Aqui reúne as reclamações de até 3 anos, da aba geral, em três listas: categoria, problema e produto. Em 14/10/2026, as três apontam para o mesmo lugar, a entrega:"
+        ],
+        "comparisonTable": {
+          "caption": "Principais problemas no perfil da Dr. Peanut no Reclame Aqui, reclamações de até 3 anos (consulta em 14/10/2026)",
+          "headers": [
+            "Lista",
+            "Item que lidera",
+            "Percentual"
+          ],
+          "rows": [
+            [
+              "Categorias",
+              "Problemas na Loja",
+              "35,04%"
+            ],
+            [
+              "Problemas",
+              "Não recebi",
+              "33,36%"
+            ],
+            [
+              "Produtos",
+              "Entrega",
+              "34%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A queixa que lidera é pedido que não chegou, e não o produto em si. O perfil não mostra, nessas três listas, quanto dessas reclamações já foi resolvido, e o período é bem mais longo que o das abas da tabela: as listas cobrem até 3 anos, enquanto as abas de 6 meses, 12 meses e 2025 mostram um recorte menor. Por isso, a leitura certa é \"o tema que mais se repete\", e não \"o que acontece hoje\".",
+          "Na prática, acompanhe o rastreio e acione a loja quando o prazo informado passar. Para caixa avariada, embalagem violada ou item errado, veja \"o que fazer\" mais abaixo."
+        ],
+        "image": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-principais-problemas.webp",
+        "imageAlt": "Principais problemas comentados no perfil da Dr. Peanut no Reclame Aqui, com reclamações de até 3 anos da aba geral",
+        "imageCaption": "Principais problemas comentados no perfil da Dr. Peanut no Reclame Aqui, com reclamações de até 3 anos da aba geral (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.224
+      },
+      {
+        "heading": "O selo do site e o perfil do Reclame Aqui",
+        "paragraphs": [
+          "O rodapé do site da Dr. Peanut, no bloco \"Segurança e Qualidade\", mostra um selo \"RA 4.7 Ótimo\". Em 14/10/2026, o perfil da empresa no Reclame Aqui mostrava Boa (7,4) em 6 meses, Ótima (8,1) em 12 meses e 4,6 de 5 nas avaliações de compra.",
+          "O rodapé não informa a que período ou medida o selo se refere. Para decidir, abra o perfil direto no Reclame Aqui, no dia da compra."
+        ]
+      },
+      {
+        "heading": "Se o seu pedido da Dr. Peanut der problema: o que fazer",
+        "paragraphs": [
+          "Se o pedido atrasar ou não chegar, acompanhe o rastreio e escreva para o SAC com o número do pedido assim que o prazo informado passar.",
+          "O atendimento é pelo e-mail sac@supley.com.br; a Política de Trocas e Devoluções, em 14/10/2026, define prazos e custos nestes casos:"
+        ],
+        "bullets": [
+          "**Caixa avariada, embalagem violada ou item errado na entrega:** você pode recusar a encomenda e escrever o motivo no verso da nota fiscal.",
+          "**Arrependimento:** 7 dias corridos a partir do recebimento, com a devolução paga pela loja, com a embalagem original e o lacre intacto, só para compras no site oficial.",
+          "**Troca por outro produto:** o frete de ida e de volta é seu.",
+          "**Defeito:** 30 dias para alimentos e 90 dias para roupas, acessórios e coqueteleiras, com a coleta paga pela loja."
+        ],
+        "postParagraphs": [
+          "Os prazos e as regras estão em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel). Se o SAC não resolver, o Reclame Aqui é o passo seguinte. Depois da resposta, você pode avaliar se o problema foi resolvido."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Dr. Peanut e pode receber comissão pelas compras feitas com o cupom **DREMCASACOMCECILIA**. Isso não muda os números deste artigo, que vêm todos do perfil público da empresa no Reclame Aqui.",
+          "O cupom dá 10% OFF em todo o site, vale em todas as formas de pagamento e se soma às promoções que estiverem no ar. Também vale para quem já tem conta na loja e para quem cria uma agora. Testamos o cupom num pedido real, e o passo a passo está em [Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site](/reviews/cupom-dr-peanut-como-usar). Os termos atuais ficam na [página do cupom da Dr. Peanut](/cupons/dr-peanut)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Dr. Peanut é confiável segundo o Reclame Aqui? Em 14/10/2026, a reputação era Boa nos últimos 6 meses e Ótima nos últimos 12. A empresa responde quase todas as reclamações e resolve a maior parte, mas só cerca de metade de quem avaliou nos últimos 6 meses voltaria a comprar.",
+          "Qual a nota da Dr. Peanut no Reclame Aqui? Em 14/10/2026: 7,4 nos últimos 6 meses, 8,1 nos últimos 12 meses e 7,1 em 2025. As avaliações de compra do topo do perfil estavam em 4,6 de 5.",
+          "A Dr. Peanut responde às reclamações? Responde. Nos últimos 6 meses, 95,6% das reclamações foram respondidas, em média em 7 dias e 7 horas.",
+          "Por que a reputação é \"Boa\" em 6 meses e \"Ótima\" em 12 meses? Cada aba conta só as reclamações do próprio período: a de 6 meses vai de 01/04 a 30/09/2026 e a de 12 meses, de 01/10/2025 a 30/09/2026. Nos últimos 6 meses, a nota ficou em 7,4, abaixo dos 8,1 de 12 meses.",
+          "O que fazer se o pedido da Dr. Peanut atrasar ou chegar avariado? Se atrasar, acompanhe o rastreio e escreva para sac@supley.com.br com o número do pedido. Se a caixa chegar avariada, você pode recusar na entrega e escrever o motivo no verso da nota fiscal."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Se os números te deram segurança para comprar, use o cupom DREMCASACOMCECILIA, de 10% OFF em todo o site, no carrinho.",
+      "label": "Ir para a Dr. Peanut",
+      "url": "https://www.drpeanut.com.br/",
+      "sponsored": true
+    },
+    "coupon": "DREMCASACOMCECILIA",
+    "affiliate": "dr-peanut",
+    "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo DREMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "dr-peanut-e-confiavel",
+        "title": "Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete"
+      },
+      {
+        "slug": "cupom-dr-peanut-como-usar",
+        "title": "Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site"
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "slug": "cupom-dr-peanut-como-usar",
+    "title": "Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site",
+    "seoTitle": "Cupom Dr. Peanut: como usar o DREMCASACOMCECILIA",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Como usar o cupom DREMCASACOMCECILIA na Dr. Peanut e ganhar 10% OFF em todo o site: passo a passo no carrinho, produto em promoção, todas as formas de pagamento, frete grátis por região e o que fazer se precisar trocar.",
+    "metaDescription": "Cupom Dr. Peanut DREMCASACOMCECILIA: 10% OFF em todo o site, testado no carrinho. Veja o passo a passo, o frete grátis por região e as regras de troca.",
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dr-peanut/dr-peanut-cupom-capa.webp",
+    "imageAlt": "Carrinho da Dr. Peanut em 13/10/2026 com o cupom DREMCASACOMCECILIA digitado e, depois, aplicado",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "10% OFF em todo o site, em todas as formas de pagamento",
+      "Soma com as promoções do site",
+      "Vale para quem cria a conta agora e para quem já comprou na loja",
+      "O carrinho mostra a linha \"Descontos\" com o valor abatido antes do pagamento"
+    ],
+    "cons": [
+      "O cupom não dá frete grátis: o frete tem regra e mínimo à parte",
+      "O mínimo do frete grátis é conferido sobre o total já com o cupom",
+      "Na troca por outro produto, o frete de ida e de volta é seu",
+      "O arrependimento vale só para compras feitas no site oficial"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: como usar o cupom da Dr. Peanut",
+        "bullets": [
+          "Entre no site oficial da Dr. Peanut (drpeanut.com.br), monte o carrinho e digite **DREMCASACOMCECILIA** no campo do cupom, no carrinho. Depois clique em \"Adicionar\".",
+          "O cupom dá **10% OFF em todo o site**, em todas as formas de pagamento, e se soma às promoções que estiverem no ar.",
+          "Vale para quem cria a conta agora e para quem já comprou na loja antes.",
+          "O frete grátis conta o total já com o cupom: o mínimo é R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte (política em 14/10/2026).",
+          "Antes de pagar, confira a linha \"Descontos\" no resumo do carrinho.",
+          "As condições atuais ficam na [página do cupom da Dr. Peanut](/cupons/dr-peanut)."
+        ]
+      },
+      {
+        "heading": "O que é o cupom DREMCASACOMCECILIA",
+        "paragraphs": [
+          "O **DREMCASACOMCECILIA** é o cupom da parceria do Em Casa com Cecília com a Dr. Peanut. Ele dá 10% OFF em todo o site oficial, com qualquer forma de pagamento, e o percentual é o mesmo seja qual for o meio escolhido. Vale para conta nova e para quem já comprou, então serve na primeira compra e nas seguintes. O Em Casa com Cecília tem parceria com a Dr. Peanut e pode receber comissão pelas compras feitas com o cupom."
+        ]
+      },
+      {
+        "heading": "1. Entre no site oficial da Dr. Peanut",
+        "paragraphs": [
+          "O cupom vale no site oficial, o **drpeanut.com.br**. Abra a loja, escolha os produtos e digite o DREMCASACOMCECILIA no carrinho."
+        ]
+      },
+      {
+        "heading": "2. Monte o carrinho",
+        "paragraphs": [
+          "Escolha os produtos normalmente e vá para o carrinho. Nele aparecem a lista de itens, com quantidade e preço, e, à direita, o resumo com o **Subtotal**, o **Total** e o campo **\"Código\"**, sob o texto \"Insira o seu cupom abaixo\", com o botão **\"Adicionar\"**.",
+          "No nosso teste de 13/10/2026, o carrinho tinha três itens, entre eles uma pasta de amendoim em promoção (de R$ 64,90 por R$ 59,89). O subtotal, antes do cupom, era de R$ 440,16.",
+          "No topo do carrinho há uma faixa laranja sobre o frete grátis: o valor total da compra, já com o cupom aplicado, precisa ser igual ou superior a R$ 149,90 (valor que o carrinho mostrava em 13/10/2026). O mínimo de cada região está na seção de frete, mais abaixo."
+        ],
+        "image": "/images/reviews/dr-peanut/dr-peanut-cupom-01-carrinho-sem-cupom.webp",
+        "imageAlt": "Carrinho da Dr. Peanut antes do cupom, com três itens, Subtotal e Total de R$ 440,16, o campo do cupom e a faixa do frete grátis no topo",
+        "imageCaption": "Carrinho da Dr. Peanut em 13/10/2026, antes do cupom: os três itens, o Subtotal e o Total de R$ 440,16, o campo do cupom, sob \"Insira o seu cupom abaixo\", e a faixa do frete grátis no topo. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.6075
+      },
+      {
+        "heading": "3. Digite DREMCASACOMCECILIA e clique em \"Adicionar\"",
+        "paragraphs": [
+          "No resumo à direita, clique no campo **\"Código\"**, logo abaixo do texto \"Insira o seu cupom abaixo\", e digite **DREMCASACOMCECILIA**. Depois clique no botão **\"Adicionar\"**, ao lado do campo.",
+          "Na nossa captura, com o código já digitado e antes de clicar em \"Adicionar\", o Subtotal e o Total seguiam em R$ 440,16."
+        ],
+        "image": "/images/reviews/dr-peanut/dr-peanut-cupom-02-codigo-digitado.webp",
+        "imageAlt": "Campo do cupom da Dr. Peanut, sob o texto Insira o seu cupom abaixo, com o DREMCASACOMCECILIA digitado e o Total ainda em R$ 440,16",
+        "imageCaption": "O campo do cupom, sob \"Insira o seu cupom abaixo\", com o DREMCASACOMCECILIA digitado, em 13/10/2026, antes de clicar em \"Adicionar\". O Total ainda marca R$ 440,16. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.756
+      },
+      {
+        "heading": "4. Confira a linha \"Descontos\" antes de pagar",
+        "paragraphs": [
+          "Com o cupom aceito, o resumo muda: o código aparece ao lado de \"Cupom de desconto\", com um **×** ao lado, e entra a linha **\"Descontos\"**, com o valor abatido em reais. O Total passa a mostrar o valor já com o desconto.",
+          "No nosso teste de 13/10/2026, o Subtotal de R$ 440,16 ganhou **R$ 44,02 de desconto** e o Total ficou em **R$ 396,14**. Os R$ 44,02 correspondem a 10% do Subtotal.",
+          "Antes de clicar em \"Continuar pagamento\", confira estes pontos:"
+        ],
+        "bullets": [
+          "**O código ao lado de \"Cupom de desconto\":** deve estar escrito DREMCASACOMCECILIA, sem letra faltando.",
+          "**A linha \"Descontos\":** é ela que mostra o valor abatido. Se não aparecer, o desconto não foi aplicado.",
+          "**O Total:** é ele que vale para a faixa do frete grátis, porque a loja confere o mínimo depois do desconto."
+        ],
+        "image": "/images/reviews/dr-peanut/dr-peanut-cupom-03-desconto-aplicado.webp",
+        "imageAlt": "Resumo do carrinho da Dr. Peanut depois do cupom: código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ 44,02 e Total de R$ 396,14",
+        "imageCaption": "Resumo do carrinho em 13/10/2026 depois do cupom: o código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ -44,02 e Total de R$ 396,14. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.0423
+      },
+      {
+        "heading": "O cupom vale em produto em promoção?",
+        "paragraphs": [
+          "Sim. O **DREMCASACOMCECILIA** soma com as promoções do site. No nosso teste de 13/10/2026, o carrinho tinha a pasta de amendoim Bombom Italiano em promoção: o Subtotal já trazia o preço promocional (R$ 59,89), e o cupom tirou R$ 44,02, 10% do Subtotal."
+        ]
+      },
+      {
+        "heading": "Frete grátis com o cupom: confira o mínimo da sua região",
+        "paragraphs": [
+          "A Dr. Peanut dá frete grátis a partir de um valor mínimo, que depende de onde você mora. Em 14/10/2026, a política da loja era esta:"
+        ],
+        "comparisonTable": {
+          "caption": "Frete grátis da Dr. Peanut por região em 14/10/2026",
+          "headers": [
+            "Região",
+            "Frete grátis a partir de"
+          ],
+          "rows": [
+            [
+              "São Paulo capital, Sudeste e Sul",
+              "R$ 149,90"
+            ],
+            [
+              "Centro-Oeste, Nordeste e Norte",
+              "R$ 199,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O frete grátis vale na opção de entrega mais barata. O mínimo é conferido sobre o valor total da compra **já com o cupom aplicado**. Um carrinho que passa do mínimo antes do desconto pode ficar abaixo dele depois dos 10%, e aí o frete volta a ser cobrado.",
+          "Exemplo (conta ilustrativa, não é do nosso teste): um carrinho de R$ 155,00 passa de R$ 149,90, mas com os 10% do cupom fica em R$ 139,50, abaixo do mínimo de quem mora em São Paulo capital, no Sudeste ou no Sul.",
+          "Depois de aplicar o cupom, confira o Total antes de pagar."
+        ]
+      },
+      {
+        "heading": "O que comprar com o cupom",
+        "paragraphs": [
+          "O cupom vale em todo o site. Em 14/10/2026, o menu da Dr. Peanut traz Pastas de Amendoim, Snacks e Whey Protein, e a loja vende também alfajores."
+        ],
+        "bullets": [
+          "**Whey:** inclusive o \"100% Whey Dr. Peanut 900g - Max Titanium\". O nome das duas marcas aparece porque elas são do mesmo grupo, como explicamos em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel)."
+        ],
+        "postParagraphs": [
+          "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
+        ]
+      },
+      {
+        "heading": "Se precisar trocar",
+        "paragraphs": [
+          "Compra feita no site oficial segue a Política de Trocas e Devoluções da loja. Em 14/10/2026, ela separa três situações:"
+        ],
+        "bullets": [
+          "**Arrependimento:** 7 dias corridos a partir do recebimento, com a embalagem original e o lacre intactos. A loja paga a devolução.",
+          "**Troca por outro produto:** o frete de ida e de volta é seu.",
+          "**Defeito:** 30 dias para alimentos e 90 dias para roupas, acessórios e coqueteleiras, com a coleta paga pela loja."
+        ],
+        "postParagraphs": [
+          "O pedido é feito pelo SAC, no e-mail sac@supley.com.br, com o número do pedido e a nota fiscal. Os prazos, o estorno e o que fazer na entrega estão em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel). Para ver a reputação da loja no Reclame Aqui, veja [Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/dr-peanut-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Dr. Peanut? É o DREMCASACOMCECILIA, que dá 10% OFF em todo o site da Dr. Peanut. Você digita o código no campo do cupom, no carrinho, e clica em \"Adicionar\".",
+          "Tem cupom de primeira compra na Dr. Peanut? Sim: o DREMCASACOMCECILIA vale na primeira compra e nas seguintes, tanto para quem cria a conta agora quanto para quem já comprou.",
+          "O cupom da Dr. Peanut vale em produto em promoção? Sim. No nosso teste, o cupom tirou 10% do subtotal, que já incluía uma pasta de amendoim em promoção.",
+          "O cupom vale em todas as formas de pagamento? Sim. O DREMCASACOMCECILIA vale em todas as formas de pagamento da loja e soma com as promoções do site.",
+          "O cupom da Dr. Peanut dá frete grátis? Não por si só: o cupom dá 10% de desconto, e o frete grátis é uma regra à parte da loja. Começa em R$ 149,90 em São Paulo capital, Sudeste e Sul e em R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o total já com o cupom (política em 14/10/2026).",
+          "Tem cupom para pasta de amendoim Dr. Peanut? Sim. O DREMCASACOMCECILIA vale em todo o site, então vale nas pastas de amendoim, inclusive nas que estão em promoção. As condições atuais ficam na [página do cupom da Dr. Peanut](/cupons/dr-peanut).",
+          "Onde o cupom vale? No site oficial da Dr. Peanut, o drpeanut.com.br, onde o código é digitado no carrinho."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Entre no site da Dr. Peanut e digite o DREMCASACOMCECILIA no carrinho: são 10% OFF em todo o site. Confira a linha \"Descontos\" antes de pagar.",
+      "label": "Ir para a Dr. Peanut",
+      "url": "https://www.drpeanut.com.br/",
+      "sponsored": true
+    },
+    "coupon": "DREMCASACOMCECILIA",
+    "affiliate": "dr-peanut",
+    "editorialNote": "Cupom testado num pedido real. Podemos receber comissão pelo DREMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "dr-peanut-e-confiavel",
+        "title": "Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete"
+      },
+      {
+        "slug": "dr-peanut-reclame-aqui-nota-reputacao",
+        "title": "Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "slug": "black-skull-e-confiavel",
+    "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete",
+    "seoTitle": "Black Skull é confiável? Site oficial e de quem é",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que conferimos sobre a Black Skull antes de indicar a loja: a GDS Grow Dietary Supplements do Brasil S/A, CNPJ ativo desde 2014, o site oficial blackskullusa.com.br, as regras de troca, as faixas de frete grátis e os canais de atendimento.",
+    "metaDescription": "A Black Skull é confiável? Veja de quem é a marca, o CNPJ, o site oficial, as regras de troca, o frete grátis por região e o atendimento, em 14/10/2026.",
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/black-skull/black-skull-confiavel-capa.webp",
+    "imageAlt": "Página inicial do site oficial da Black Skull, blackskullusa.com.br, em 14/10/2026",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "CNPJ ativo desde 18/03/2014, da GDS Grow Dietary Supplements do Brasil S/A, com fábrica em Embu das Artes (SP)",
+      "Políticas de entrega, pagamento, trocas e atendimento publicadas no site",
+      "Arrependimento em 7 dias corridos, com a postagem paga pela loja",
+      "Frete grátis a partir de R$ 199,90 no Sul e no Sudeste",
+      "SAC por telefone e e-mail, de segunda a sexta, das 8h às 18h"
+    ],
+    "cons": [
+      "A troca comum tem a postagem e o reenvio por conta do cliente",
+      "Reputação Regular no Reclame Aqui nos últimos 6 meses, com 61,5% das reclamações resolvidas",
+      "O mínimo do frete grátis muda conforme a região e conta o valor já com desconto",
+      "Alguns links do rodapé não abriam a página certa em 14/10/2026",
+      "O WhatsApp da página de contato é de revenda, não de atendimento ao cliente"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Sim, do ponto de vista da empresa e das regras de compra. A loja pertence à GDS Grow Dietary Supplements do Brasil S/A, CNPJ 19.897.687/0001-38, uma fábrica de complementos alimentares em Embu das Artes (SP) com CNPJ ativo desde 18/03/2014.",
+          "É brasileira, segundo a própria marca: no \"Sobre nós\", ela se apresenta como \"uma marca brasileira de suplementos\", inaugurada no Brasil em 2015. O mesmo texto cita a Grow Dietary Supplements Labs USA (GDS), de onde vem a sigla que aparece no nome, sem explicar o motivo.",
+          "Nenhuma fonte oficial liga a Black Skull à Integralmédica: o CNPJ e o site apontam para a GDS.",
+          "O site oficial é **blackskullusa.com.br**. O endereço antigo, blackskull.com.br, redireciona para ele.",
+          "Troca comum é paga pelo cliente. Arrependimento (7 dias corridos) e defeito têm a postagem paga pela loja.",
+          "O cupom da nossa parceria dá 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Os detalhes estão em [Cupom Black Skull](/cupons/black-skull)."
+        ]
+      },
+      {
+        "heading": "A Black Skull é brasileira? E por que \"USA\"?",
+        "paragraphs": [
+          "Segundo a própria marca, sim. No \"Sobre nós\" do site oficial, a Black Skull se define como \"uma marca brasileira de suplementos\", inaugurada no Brasil em 2015, que trabalha \"através da Grow Dietary Supplements Labs USA (GDS)\". A sede da marca no Brasil fica em Embu das Artes, na Grande São Paulo, e o texto fala em mais de 12.000 m². São afirmações institucionais da empresa.",
+          "O que dá para conferir por fora bate com isso. A razão social que aparece no rodapé do site é GDS Grow Dietary Supplements do Brasil S/A, com o CNPJ 19.897.687/0001-38 e o endereço Av. João Paulo I, 1795, Jardim Sao Luiz, Embu das Artes (SP). Na base pública de CNPJ (BrasilAPI, consultada em 14/10/2026), a empresa consta como ativa desde 18/03/2014, matriz, sociedade anônima fechada, com atividade de fabricação de alimentos dietéticos e complementos alimentares.",
+          "Então, de onde vem o \"USA\"? O nome do site e o da loja no carrinho (\"BLACKSKULL USA\") repetem a sigla que a marca usa ao descrever a GDS, mas o \"Sobre nós\" não explica o motivo em uma frase. O que importa para quem compra: a empresa do rodapé tem CNPJ brasileiro, e as trocas, o frete e o atendimento seguem regras publicadas no site e telefones do Brasil."
+        ]
+      },
+      {
+        "heading": "A Black Skull é da Integralmédica?",
+        "paragraphs": [
+          "A pergunta aparece nas buscas, mas o rodapé, o \"Sobre nós\" e os dados públicos do CNPJ não citam a Integralmédica. Nenhuma fonte oficial liga a Black Skull à Integralmédica: o CNPJ e o site apontam para a GDS Grow Dietary Supplements do Brasil S/A."
+        ]
+      },
+      {
+        "heading": "Como saber se você está no site oficial",
+        "paragraphs": [
+          "A busca \"site black skull é confiável\" aparece no autocompletar do Google. Confira antes de pagar:"
+        ],
+        "bullets": [
+          "O endereço na barra do navegador é **blackskullusa.com.br**. O nome antigo, blackskull.com.br, redireciona para ele, então cair aí também é normal. Atenção principalmente se você chegou por anúncio ou mensagem.",
+          "No rodapé aparecem a razão social GDS Grow Dietary Supplements do Brasil S/A e o CNPJ 19.897.687/0001-38, com o endereço em Embu das Artes (SP) e a mensagem \"Consulte nosso compliance\".",
+          "A loja que consta como vendedora no carrinho é \"BLACKSKULL USA\"."
+        ],
+        "image": "/images/reviews/black-skull/black-skull-rodape-cnpj.webp",
+        "imageAlt": "Rodapé do site oficial da Black Skull com a razão social GDS Grow Dietary Supplements do Brasil S/A e o CNPJ 19.897.687/0001-38 destacados em amarelo",
+        "imageCaption": "Rodapé do site oficial com a razão social e o CNPJ da GDS. O destaque amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 5.7384
+      },
+      {
+        "heading": "O que a Black Skull vende",
+        "paragraphs": [
+          "A Black Skull se apresenta como uma marca de suplementos para treino (\"Heavy Sports Nutrition\"). Em 14/10/2026, o menu da página inicial tinha Produtos, Whey Protein, Creatina, Exclusivos e Promoções. Entre os produtos da loja estão:"
+        ],
+        "bullets": [
+          "whey protein, inclusive em kits;",
+          "creatina;",
+          "pré-treino;",
+          "glutamina;",
+          "roupas, como regatas."
+        ],
+        "postParagraphs": [
+          "O estoque e as categorias mudam, então vale abrir o site para ver o que está à venda no dia. Para escolher um suplemento, a orientação é de um nutricionista ou médico."
+        ]
+      },
+      {
+        "heading": "Trocas, devoluções e defeito",
+        "paragraphs": [
+          "As regras estão na política de trocas publicada no site. Resumo, conferido em 14/10/2026:"
+        ],
+        "comparisonTable": {
+          "caption": "Regras de troca e devolução da Black Skull, conferidas em 14/10/2026",
+          "headers": [
+            "Situação",
+            "Prazo",
+            "Quem paga o envio"
+          ],
+          "rows": [
+            [
+              "Arrependimento (desistir da compra)",
+              "7 dias corridos a partir do recebimento",
+              "A loja paga a postagem. Não aceita devolução parcial: precisa ser o pedido inteiro"
+            ],
+            [
+              "Troca comum (outro sabor, por exemplo)",
+              "Pedir em até 30 dias corridos da entrega e enviar em até 7 dias",
+              "O cliente paga a postagem e o reenvio. O produto precisa estar lacrado e sem uso. A loja dá produto similar ou crédito"
+            ],
+            [
+              "Defeito",
+              "Comunique à loja assim que perceber",
+              "A loja paga a postagem e devolve o valor total"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No reembolso pago no cartão, o estorno aparece de uma vez, na fatura seguinte ou na outra. No Pix, a devolução volta pelo próprio Pix.",
+          "O ponto que mais muda a decisão é a troca comum: se você errou o sabor ou mudou de ideia depois dos 7 dias, o frete de ida e de volta sai do seu bolso. Os pedidos de troca e devolução vão para o e-mail sac@blackskullusa.com."
+        ]
+      },
+      {
+        "heading": "Frete grátis, entrega e pagamento",
+        "paragraphs": [
+          "A Black Skull tem frete grátis, mas o valor mínimo muda conforme a região de entrega. Pela política de entrega do site, lida em 14/10/2026, as faixas são estas:"
+        ],
+        "comparisonTable": {
+          "caption": "Frete grátis da Black Skull por região de entrega, conforme a política de entrega lida em 14/10/2026",
+          "headers": [
+            "Região de entrega",
+            "Frete grátis em compras acima de"
+          ],
+          "rows": [
+            [
+              "Sul e Sudeste",
+              "R$ 199,90"
+            ],
+            [
+              "Centro-Oeste",
+              "R$ 249,90"
+            ],
+            [
+              "Demais regiões",
+              "R$ 299,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O que conta é o valor total final do carrinho, já com os descontos, inclusive o do cupom da parceria: se o carrinho só passa do mínimo antes do desconto, confira se o frete grátis continua depois de aplicar o código. A faixa do topo do site diz \"Frete grátis para todo Brasil - consulte as regras\", e as regras são as faixas acima.",
+          "A mesma política cobre o que acontece quando a entrega dá problema:",
+          "Extravio ou roubo no transporte: a loja reenvia o pedido sem custo para você.",
+          "Entrega que você não reconhece: conteste em até 10 dias.",
+          "Item errado no pacote: avise a loja em até 7 dias.",
+          "Depois que o pedido é feito, a loja não cobra nenhuma taxa. Se alguém pedir pagamento extra por Pix, link ou boleto para \"liberar\" ou \"reenviar\" a entrega, desconfie: é o tipo de mensagem usada em golpes.",
+          "Na política de pagamento, a loja aceita:",
+          "Cartão de crédito (Amex, Visa, Mastercard, Hipercard, Elo e Diners), em até 8 vezes sem juros, com parcela mínima de R$ 50.",
+          "Pix.",
+          "Pix parcelado em 4 vezes sem juros.",
+          "Boleto, só à vista.",
+          "Como a parcela mínima é de R$ 50, um pedido pequeno não chega às 8 vezes: o número de parcelas sem juros que aparece no checkout depende do total do carrinho."
+        ]
+      },
+      {
+        "heading": "Como falar com o atendimento da Black Skull",
+        "paragraphs": [
+          "A página \"Entre em contato\" do site e a política de trocas trazem os canais oficiais, conferidos em 14/10/2026:"
+        ],
+        "bullets": [
+          "SAC pelo 0800-770 4260.",
+          "Telefone (11) 4189-7000.",
+          "Horário de atendimento: de segunda a sexta, das 8h às 18h.",
+          "E-mail sac@blackskullusa.com, indicado na política de trocas para pedidos de troca e devolução."
+        ],
+        "postParagraphs": [
+          "Para guardar o registro do que foi combinado, o e-mail serve melhor: você tem o texto do pedido e a resposta da loja por escrito.",
+          "Um detalhe da página de contato: ela mostra um número de WhatsApp, mas ele é de revenda, para quem quer vender os produtos, e não um canal de atendimento ao cliente. Se você precisa resolver um pedido, use o SAC, o telefone ou o e-mail acima.",
+          "As políticas (entrega, trocas e devoluções, pagamento e contato) ficam em páginas da área institucional do site. Em 14/10/2026, alguns links do rodapé, como \"Trocas e Devoluções\", \"Sobre Nós\" e \"Fale Conosco\", não abriam a página certa. Se acontecer com você, fale com o SAC."
+        ]
+      },
+      {
+        "heading": "E a reputação no Reclame Aqui?",
+        "paragraphs": [
+          "Em 14/10/2026, a Black Skull aparece no Reclame Aqui com reputação Regular nos últimos 6 meses, nota 6,8, e Boa nos últimos 12 meses, nota 7,1. O artigo de reputação explica o que está por trás de cada selo, a taxa de solução e o que fazer se o pedido der problema."
+        ],
+        "links": [
+          {
+            "label": "Black Skull no Reclame Aqui: nota, reclamações e o que os dados mostram",
+            "href": "/reviews/black-skull-reclame-aqui-nota-reputacao"
+          }
+        ]
+      },
+      {
+        "heading": "Parceria e cupom da Black Skull",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Black Skull e pode receber comissão pelas compras feitas com o código **CECILIA10**. Na sacola, ele vai no campo \"Cupom de Desconto\" e dá 10% de desconto em todo o site.",
+          "As regras que conferimos com a parceria:"
+        ],
+        "bullets": [
+          "Vale em todas as formas de pagamento: cartão, Pix, Pix parcelado e boleto.",
+          "Soma com as promoções que já estiverem no site.",
+          "Vale para conta nova e para conta antiga, então não é preciso ser a primeira compra."
+        ],
+        "links": [
+          {
+            "label": "Cupom Black Skull CECILIA10: como usar os 10% em todo o site",
+            "href": "/reviews/cupom-black-skull-como-usar"
+          },
+          {
+            "label": "Página da Black Skull com as condições do cupom",
+            "href": "/cupons/black-skull"
+          }
+        ],
+        "postParagraphs": [
+          "Testamos o cupom num pedido real em 13/10/2026: o desconto de 10% entrou em todos os itens do carrinho, inclusive nos que já estavam com preço promocional. O passo a passo, com os prints do checkout, está no artigo de como usar. As condições atuais ficam na página da loja."
+        ]
+      },
+      {
+        "heading": "Vale a pena comprar no site da Black Skull?",
+        "paragraphs": [
+          "Do ponto de vista da confiança, sim. A loja pertence a uma empresa com CNPJ ativo desde 2014, publica as regras de entrega, pagamento, troca e atendimento, e tem canais de contato por telefone e e-mail. Este artigo não avalia a qualidade dos produtos: o que dá para verificar em fontes públicas é a empresa e as regras de compra.",
+          "Três cuidados antes de fechar o pedido:"
+        ],
+        "bullets": [
+          "Veja as faixas de frete grátis da sua região e confira o carrinho depois de aplicar o cupom, porque o mínimo conta o valor já com desconto.",
+          "Lembre que a troca comum (por gosto ou por escolher o item errado) tem a postagem e o reenvio por sua conta. Só arrependimento e defeito saem sem custo de postagem para você.",
+          "Reputação no Reclame Aqui: nos últimos 6 meses, a loja respondeu a 100% das reclamações e resolveu 61,5%, e é isso que deixa o selo em Regular. Guarde número do pedido, e-mails e protocolos do SAC."
+        ],
+        "postParagraphs": [
+          "Se você já decidiu comprar, use o código CECILIA10 no carrinho e confira o desconto item por item antes de pagar."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Black Skull é confiável? Sim, do ponto de vista da empresa e das regras de compra. A GDS, dona da loja, tem CNPJ ativo desde 2014, e o site publica as políticas de entrega, pagamento, trocas e atendimento. No Reclame Aqui, em 14/10/2026, a reputação é Regular nos últimos 6 meses (nota 6,8) e Boa nos últimos 12 meses (nota 7,1).",
+          "A Black Skull é brasileira? Segundo a própria marca, sim: ela se descreve como uma marca brasileira, inaugurada no Brasil em 2015, com sede em Embu das Artes (SP). O \"Sobre nós\" cita a Grow Dietary Supplements Labs USA (GDS), mas não explica a sigla do nome.",
+          "A Black Skull é da Integralmédica? O CNPJ e o site apontam a GDS, e nenhuma fonte oficial liga a marca à Integralmédica.",
+          "O site da Black Skull é seguro? O endereço oficial é blackskullusa.com.br, e o antigo blackskull.com.br redireciona para ele. Confira o domínio na barra do navegador e o CNPJ no rodapé antes de pagar, e lembre que a loja não cobra nenhuma taxa depois que o pedido é feito.",
+          "Qual é o CNPJ da Black Skull? É 19.897.687/0001-38, da GDS Grow Dietary Supplements do Brasil S/A, com matriz em Embu das Artes (SP). O número aparece no rodapé do site.",
+          "Posso trocar um produto da Black Skull? Sim. Por arrependimento, são 7 dias corridos do recebimento, com a postagem paga pela loja e sem devolução parcial. A troca comum precisa ser pedida em até 30 dias da entrega, com produto lacrado e sem uso, e a postagem e o reenvio são por sua conta. Em caso de defeito, a loja paga a postagem e devolve o valor total.",
+          "A Black Skull tem frete grátis? Tem, a partir de um valor mínimo por região: acima de R$ 199,90 no Sul e no Sudeste, acima de R$ 249,90 no Centro-Oeste e acima de R$ 299,90 nas demais regiões, em consulta de 14/10/2026. O valor considerado é o do carrinho já com desconto.",
+          "Qual o telefone do SAC da Black Skull? O SAC é 0800-770 4260, e também há o telefone (11) 4189-7000, de segunda a sexta, das 8h às 18h. Para trocas, o e-mail é sac@blackskullusa.com.",
+          "Tem cupom de primeira compra na Black Skull? O cupom da nossa parceria é o CECILIA10, que dá 10% de desconto em todo o site e vale para conta nova e antiga, então serve na primeira compra e nas seguintes. Ele soma com as promoções do site e vale em todas as formas de pagamento."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Se a Black Skull faz sentido para você, use o código CECILIA10 no carrinho: 10% de desconto em todo o site.",
+      "label": "Ir para a Black Skull",
+      "url": "https://www.blackskullusa.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "black-skull",
+    "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "black-skull-reclame-aqui-nota-reputacao",
+        "title": "Black Skull no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "cupom-black-skull-como-usar",
+        "title": "Cupom Black Skull CECILIA10: como usar os 10% em todo o site"
+      }
+    ]
+  },
+  {
+    "id": 422,
+    "slug": "black-skull-reclame-aqui-nota-reputacao",
+    "title": "Black Skull no Reclame Aqui: nota, reclamações e o que os dados mostram",
+    "seoTitle": "Black Skull no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os números da Black Skull no Reclame Aqui em 14/10/2026: reputação Regular nos últimos 6 meses (nota 6,8) e Boa nos últimos 12 meses (nota 7,1), 100% das reclamações respondidas, 61,5% resolvidas e o que mais aparece nas queixas.",
+    "metaDescription": "Black Skull no Reclame Aqui em 14/10/2026: reputação Regular (6,8) em 6 meses e Boa (7,1) em 12 meses, 100% respondidas e 61,5% resolvidas.",
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/black-skull/black-skull-reclame-aqui-capa.webp",
+    "imageAlt": "Perfil BLACKSKULL USA no Reclame Aqui, com a reputação Regular e o selo de empresa verificada, ao lado do quadro de desempenho dos últimos 6 meses, em print de 14/10/2026",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "heroCompact": true,
+    "pros": [
+      "100% das reclamações respondidas nos últimos 6 meses, sem nenhuma aguardando resposta",
+      "Reputação Boa, nota 7,1, na aba de 12 meses",
+      "74,3% das reclamações resolvidas na aba de 12 meses",
+      "Perfil de empresa verificada no Reclame Aqui",
+      "Em caso de extravio, a loja reenvia o pedido sem custo"
+    ],
+    "cons": [
+      "Reputação Regular, nota 6,8, nos últimos 6 meses",
+      "Só 61,5% das reclamações resolvidas nos últimos 6 meses",
+      "Tempo médio de resposta de 6 dias e 11 horas nos últimos 6 meses",
+      "Produto não recebido é o problema mais citado, com 19,39%",
+      "Só 56,4% dos que avaliaram voltariam a fazer negócio nos últimos 6 meses"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Em 14/10/2026, a Black Skull tinha reputação **Regular** nos últimos 6 meses, com nota 6,8, e **Boa** nos últimos 12 meses, com nota 7,1. O perfil \"BLACKSKULL USA\" aparece como empresa verificada, na categoria Suplementos Alimentares e Fórmulas.",
+          "A loja responde a todas as reclamações: 100% respondidas nos últimos 6 meses, sem nenhuma aguardando resposta.",
+          "O ponto fraco é a solução. Nos últimos 6 meses, 61,5% das reclamações foram marcadas como resolvidas, a taxa mais baixa entre as abas de 6 meses, 12 meses e 2025.",
+          "O problema que mais aparece nas reclamações é produto não recebido, e o produto mais citado é o whey protein.",
+          "Regular não indica golpe. O que separa o Regular do Boa nas abas é a taxa de solução."
+        ]
+      },
+      {
+        "heading": "Por que olhar o Reclame Aqui antes de comprar na Black Skull",
+        "paragraphs": [
+          "Na Black Skull você compra pelo site e recebe em casa. Se o pedido não chegar, alguém resolve? O Reclame Aqui mostra quantas pessoas reclamaram, se a empresa respondeu e quanto resolveu.",
+          "Toda loja que vende pela internet recebe reclamações, então a pergunta útil não é se existem queixas. É quanto a empresa responde, quanto resolve, quanto demora e quais problemas se repetem. Em 14/10/2026, o perfil \"BLACKSKULL USA\" mostrava as abas de 6 meses, 12 meses, 2025, 2024 e Geral, mais a lista de principais problemas. As abas de 2024 e Geral não entram aqui.",
+          "Os números do Reclame Aqui podem mudar. Abra o perfil de novo no dia da sua compra e compare com o que está aqui."
+        ]
+      },
+      {
+        "heading": "Os números da Black Skull no Reclame Aqui",
+        "paragraphs": [
+          "O perfil mostra um quadro de desempenho para cada período. A tabela reúne as três abas lidas em 14/10/2026, cada uma com as datas que o Reclame Aqui informa embaixo do quadro:"
+        ],
+        "comparisonTable": {
+          "caption": "Perfil da Black Skull no Reclame Aqui, abas de 6 meses, 12 meses e 2025, lidas em 14/10/2026",
+          "headers": [
+            "Indicador",
+            "6 meses (01/04/2026 a 30/09/2026)",
+            "12 meses (01/10/2025 a 30/09/2026)",
+            "2025 (01/01/2025 a 31/12/2025)"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Regular, nota 6,8",
+              "Boa, nota 7,1",
+              "Regular, nota 6,6"
+            ],
+            [
+              "Reclamações recebidas",
+              "98",
+              "238",
+              "293"
+            ],
+            [
+              "Reclamações respondidas",
+              "100%",
+              "99,6%",
+              "100%"
+            ],
+            [
+              "Aguardando resposta",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "Reclamações resolvidas",
+              "61,5%",
+              "74,3%",
+              "64,4%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "56,4%",
+              "57,4%",
+              "55,7%"
+            ],
+            [
+              "Reclamações avaliadas",
+              "42",
+              "119",
+              "155"
+            ],
+            [
+              "Nota média do consumidor",
+              "6,08",
+              "5,79",
+              "5,1"
+            ],
+            [
+              "Tempo médio de resposta",
+              "6 dias e 11 horas",
+              "6 dias e 19 horas",
+              "4 dias e 10 horas"
+            ]
+          ]
+        },
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/black-skull-reclame-aqui-aba-6-meses.webp",
+            "alt": "Aba de 6 meses do perfil da Black Skull no Reclame Aqui, com reputação Regular, nota 6,8 e dados de 01/04/2026 a 30/09/2026, com números destacados em amarelo",
+            "caption": "Aba de 6 meses do perfil da Black Skull no Reclame Aqui, com dados de 01/04/2026 a 30/09/2026 (print de 14/10/2026). O marca-texto amarelo é nosso.",
+            "objectFit": "contain",
+            "aspectRatio": 0.3164
+          },
+          {
+            "src": "/images/reviews/black-skull/black-skull-reclame-aqui-aba-12-meses.webp",
+            "alt": "Aba de 12 meses do perfil da Black Skull no Reclame Aqui, com reputação Boa, nota 7,1 e dados de 01/10/2025 a 30/09/2026, com números destacados em amarelo",
+            "caption": "Aba de 12 meses do perfil, com dados de 01/10/2025 a 30/09/2026 (print de 14/10/2026). O marca-texto amarelo é nosso.",
+            "objectFit": "contain",
+            "aspectRatio": 0.319
+          },
+          {
+            "src": "/images/reviews/black-skull/black-skull-reclame-aqui-aba-2025.webp",
+            "alt": "Aba de 2025 do perfil da Black Skull no Reclame Aqui, com reputação Regular, nota 6,6 e dados de 01/01/2025 a 31/12/2025, com números destacados em amarelo",
+            "caption": "Aba de 2025 do perfil, com dados de 01/01/2025 a 31/12/2025 (print de 14/10/2026). O marca-texto amarelo é nosso.",
+            "objectFit": "contain",
+            "aspectRatio": 0.3202
+          }
+        ],
+        "postParagraphs": [
+          "Três leituras saem da tabela. A primeira é a resposta: nas três abas a loja responde a praticamente todas as reclamações e não deixa nenhuma aguardando.",
+          "A segunda é a solução, que varia mais entre as abas. Nas abas de 6 meses e de 2025, mais de um terço das reclamações não aparece como resolvida. Já a vontade de voltar a comprar é parecida nos três períodos.",
+          "A terceira é o tamanho da amostra: 98 reclamações em 6 meses, 42 avaliadas. Com tão poucos casos, os índices mexem com pouco. Por isso vale olhar as três abas juntas, e não só o selo do topo."
+        ]
+      },
+      {
+        "heading": "O que separa o Regular do Boa: a solução, não a resposta",
+        "paragraphs": [
+          "No quadro de 6 meses, a Black Skull responde a tudo, mas só 61,5% das reclamações foram resolvidas, 56,4% voltariam a fazer negócio e a nota média do consumidor é 6,08.",
+          "A diferença mais clara entre as abas é a solução: 61,5% nos 6 meses e 64,4% em 2025, ambas Regular, contra 74,3% na aba de 12 meses, que é Boa.",
+          "Responder rápido é outra coisa. O tempo médio de resposta passou de 4 dias e 10 horas em 2025 para 6 dias e 11 horas nos últimos 6 meses. Responder a todas não significa resolver todas.",
+          "O que isso quer dizer para você: Regular, sozinho, não diz que a loja deixa de entregar. Mostra que uma parte das reclamações registradas não aparece como resolvida. A taxa de solução baixa é um motivo para guardar o número do pedido, os e-mails e os protocolos do atendimento desde a compra."
+        ]
+      },
+      {
+        "heading": "O que mais aparece nas reclamações da Black Skull",
+        "paragraphs": [
+          "No quadro \"Principais problemas comentados\", o Reclame Aqui reúne as reclamações de até 3 anos registradas na aba geral do perfil. Em 14/10/2026, o quadro mostrava três recortes:"
+        ],
+        "comparisonTable": {
+          "caption": "Principais problemas comentados no perfil da Black Skull no Reclame Aqui, em 14/10/2026",
+          "headers": [
+            "Recorte",
+            "Item mais citado",
+            "Participação"
+          ],
+          "rows": [
+            [
+              "Categoria",
+              "Suplementos Alimentares",
+              "66,76%"
+            ],
+            [
+              "Problema",
+              "Produto não recebido",
+              "19,39%"
+            ],
+            [
+              "Produto",
+              "Whey Protein",
+              "32,96%"
+            ]
+          ]
+        },
+        "image": "/images/reviews/black-skull/black-skull-reclame-aqui-principais-problemas.webp",
+        "imageAlt": "Quadro Principais problemas comentados do perfil da Black Skull no Reclame Aqui: Suplementos Alimentares com 66,76% na categoria, Produto não recebido com 19,39% nos problemas e Whey Protein com 32,96% nos produtos",
+        "imageCaption": "Quadro \"Principais problemas comentados\" do perfil da Black Skull em 14/10/2026. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.2261,
+        "postParagraphs": [
+          "O problema mais citado é produto não recebido. É um tipo de reclamação sobre entrega, não sobre o produto. Como o quadro cobre até 3 anos, ele não diz quanto disso aconteceu nos últimos 6 meses, e a participação do problema mais citado não é a da maioria das reclamações.",
+          "O Whey Protein é o produto mais citado, o que não diz que ele seja pior do que os outros itens. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
+          "Nenhum desses números vira prova de golpe nem de que está tudo certo. O que o quadro ajuda a fazer é saber onde prestar atenção no seu pedido: o prazo de entrega e o rastreio."
+        ]
+      },
+      {
+        "heading": "Se o seu pedido da Black Skull der problema: o que fazer",
+        "paragraphs": [
+          "Os prazos e os canais abaixo são os da política de entrega e da página de contato da loja, conferidos em 14/10/2026. Eles estão explicados com mais detalhe em [Black Skull é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/black-skull-e-confiavel)."
+        ],
+        "comparisonTable": {
+          "caption": "O que a Black Skull prevê quando a entrega dá problema, conforme a política de entrega conferida em 14/10/2026",
+          "headers": [
+            "Situação",
+            "O que a loja prevê"
+          ],
+          "rows": [
+            [
+              "Pedido extraviado ou roubado no transporte",
+              "A loja reenvia o pedido sem custo para você"
+            ],
+            [
+              "Entrega que você não reconhece",
+              "Conteste em até 10 dias"
+            ],
+            [
+              "Item errado no pacote",
+              "Avise a loja em até 7 dias"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Para o caso mais citado no Reclame Aqui, o pedido que não chegou, o caminho é este:",
+          "1. Acompanhe o rastreio e guarde o número do pedido.",
+          "2. Fale com a loja antes de abrir a reclamação pública. O SAC é 0800-770 4260, de segunda a sexta, das 8h às 18h, e o e-mail é sac@blackskullusa.com.",
+          "3. Peça o protocolo e guarde as respostas. O e-mail serve melhor para isso, porque o pedido e a resposta ficam por escrito.",
+          "4. Se o pedido foi extraviado, a loja reenvia sem custo.",
+          "5. Se o pedido consta como entregue e você não reconhece a entrega, conteste em até 10 dias.",
+          "6. Se a loja não resolver, registre a reclamação no Reclame Aqui, com número do pedido, datas e protocolos.",
+          "Para troca por arrependimento ou por defeito, os prazos e quem paga o envio estão no artigo linkado acima. A página de contato do site mostra também um número de WhatsApp, mas ele é de revenda, e não de atendimento ao cliente."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom da Black Skull",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Black Skull e pode receber comissão pelas compras feitas com o código **CECILIA10**. Ele dá 10% de desconto em todo o site, vale em todas as formas de pagamento, soma com as promoções que já estiverem no site e funciona em conta nova e em conta antiga.",
+          "Testamos o cupom num pedido real. O passo a passo, com os prints do checkout, está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar). As condições atuais ficam na [página do cupom da Black Skull](/cupons/black-skull).",
+          "A parceria não muda os números deste artigo. Eles vêm do perfil público da loja no Reclame Aqui, lido em 14/10/2026, e podem mudar."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Black Skull é confiável segundo o Reclame Aqui? A resposta é mista. Em 14/10/2026, o perfil mostrava reputação Regular nos últimos 6 meses (nota 6,8) e Boa nos últimos 12 meses (nota 7,1). A loja respondeu a 100% das reclamações dos últimos 6 meses e 61,5% aparecem como resolvidas.",
+          "Qual a nota da Black Skull no Reclame Aqui? Em 14/10/2026, a nota era 6,8 nos últimos 6 meses (Regular), 7,1 nos últimos 12 meses (Boa) e 6,6 em 2025 (Regular). A nota média do consumidor era 6,08 nos últimos 6 meses.",
+          "A Black Skull responde às reclamações? Sim. Nos últimos 6 meses, 100% foram respondidas e nenhuma estava aguardando resposta. O tempo médio de resposta era de 6 dias e 11 horas.",
+          "O que fazer se o pedido da Black Skull não chegar? Guarde o número do pedido, fale com o SAC (0800-770 4260) ou pelo e-mail sac@blackskullusa.com e peça o protocolo. Em caso de extravio, a loja reenvia o pedido sem custo, e uma entrega que você não reconhece deve ser contestada em até 10 dias.",
+          "Qual o SAC da Black Skull? O SAC é 0800-770 4260 e (11) 4189-7000, de segunda a sexta, das 8h às 18h, e o e-mail é sac@blackskullusa.com."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Se os números te deram segurança, use o código CECILIA10 no carrinho da Black Skull: 10% de desconto em todo o site.",
+      "label": "Ir para a Black Skull",
+      "url": "https://www.blackskullusa.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "black-skull",
+    "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo CECILIA10.",
+    "relatedArticles": [
+      {
+        "slug": "black-skull-e-confiavel",
+        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+      },
+      {
+        "slug": "cupom-black-skull-como-usar",
+        "title": "Cupom Black Skull CECILIA10: como usar os 10% em todo o site"
+      }
+    ]
+  },
+  {
+    "id": 423,
+    "slug": "cupom-black-skull-como-usar",
+    "title": "Cupom Black Skull CECILIA10: como usar os 10% em todo o site",
+    "seoTitle": "Cupom Black Skull: como usar o CECILIA10",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Como usar o cupom CECILIA10 na Black Skull e ganhar 10% de desconto em todo o site: passo a passo na sacola com os prints do nosso teste de 13/10/2026, promoções, frete grátis por região, primeira compra e trocas.",
+    "metaDescription": "Cupom Black Skull CECILIA10: 10% em todo o site, testado na sacola em 13/10/2026. Veja como aplicar, o desconto nos itens em promoção e o frete grátis.",
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/black-skull/black-skull-cupom-capa.webp",
+    "imageAlt": "Sacola da Black Skull com o código CECILIA10 digitado no campo Cupom de Desconto e, ao lado, o código aplicado, no nosso teste de 13/10/2026",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "10% de desconto em todo o site",
+      "Vale em todas as formas de pagamento",
+      "Soma com as promoções do site",
+      "Vale na primeira compra e nas seguintes, em conta nova ou antiga",
+      "No nosso teste, R$ 36,44 de desconto num subtotal de R$ 364,33"
+    ],
+    "cons": [
+      "Não é cupom de frete grátis: o mínimo muda conforme a região",
+      "O frete grátis conta o valor do carrinho já com o desconto",
+      "A troca comum tem a postagem e o reenvio por conta do cliente"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Digite **CECILIA10** no campo \"Cupom de Desconto\" da sacola do site oficial da Black Skull (blackskullusa.com.br), clique em \"Adicionar\" e confira a linha \"Descontos\" antes de finalizar.",
+          "O cupom dá 10% de desconto em todo o site.",
+          "Vale em todas as formas de pagamento, soma com as promoções e serve na primeira compra e nas seguintes.",
+          "As condições atuais ficam na [página do cupom da Black Skull](/cupons/black-skull)."
+        ]
+      },
+      {
+        "heading": "O que é o cupom CECILIA10 da Black Skull",
+        "paragraphs": [
+          "O CECILIA10 é o código da parceria do Em Casa com Cecília com a Black Skull. Ele dá **10% de desconto em todo o site**, de whey e creatina a pré-treino, glutamina e roupas de treino.",
+          "As regras do cupom em 14/10/2026:"
+        ],
+        "bullets": [
+          "**Pagamento:** vale em todas as formas de pagamento da loja, inclusive cartão, Pix e boleto.",
+          "**Promoções:** soma com as promoções vigentes. Se o produto já está com preço riscado no site, o código ainda dá os 10% sobre o preço promocional.",
+          "**Primeira compra ou não:** vale para quem está criando a conta agora e para quem já comprou antes."
+        ],
+        "postParagraphs": [
+          "O Em Casa com Cecília pode receber comissão pelas compras feitas com esse cupom."
+        ]
+      },
+      {
+        "heading": "1. Entre no site oficial da Black Skull",
+        "paragraphs": [
+          "Abra o site oficial, **blackskullusa.com.br**, e escolha os produtos que quer comprar."
+        ]
+      },
+      {
+        "heading": "2. Monte a sacola",
+        "paragraphs": [
+          "Adicione os produtos que você quer e abra a sacola. É a primeira das quatro etapas da compra: Sacola, Identificação, Entrega e Pagamento. O campo do cupom fica nessa primeira etapa, no quadro à direita, acima do subtotal e do total.",
+          "No nosso teste, em 13/10/2026, a sacola tinha uma regata, um kit de whey, creatina e pré-treino e uma glutamina, num subtotal de R$ 364,33. Dois dos itens já apareciam com o preço antigo riscado, ou seja, em promoção. O quadro do cupom aparece com o título \"Cupom de Desconto\", um campo \"Código\" e o botão \"Adicionar\"."
+        ],
+        "image": "/images/reviews/black-skull/black-skull-cupom-01-carrinho-sem-cupom.webp",
+        "imageAlt": "Sacola da Black Skull antes do cupom, com itens de preço promocional riscado e, à direita, o campo Cupom de Desconto com o botão Adicionar",
+        "imageCaption": "Sacola da Black Skull em 13/10/2026, antes do cupom: itens com preço promocional riscado e, à direita, o campo \"Cupom de Desconto\" com o botão \"Adicionar\". O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.4203
+      },
+      {
+        "heading": "3. Digite CECILIA10 em \"Cupom de Desconto\" e clique em \"Adicionar\"",
+        "paragraphs": [
+          "Clique no campo \"Código\", digite **CECILIA10** e clique em \"Adicionar\". No print, com o código digitado e antes do \"Adicionar\", o subtotal e o total ainda são R$ 364,33.",
+          "Quando o cupom é aceito, o campo é substituído por uma linha com o nome do código, CECILIA10, com um X ao lado."
+        ],
+        "image": "/images/reviews/black-skull/black-skull-cupom-02-codigo-digitado.webp",
+        "imageAlt": "Quadro da sacola da Black Skull com CECILIA10 digitado no campo Cupom de Desconto, antes de clicar em Adicionar, com subtotal e total de R$ 364,33",
+        "imageCaption": "CECILIA10 digitado no campo \"Cupom de Desconto\", antes de clicar em \"Adicionar\": o total ainda é o mesmo da sacola. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.494
+      },
+      {
+        "heading": "4. Confira a linha \"Descontos\" antes de finalizar",
+        "paragraphs": [
+          "Depois do \"Adicionar\", o quadro à direita passa a mostrar três valores: \"Subtotal\", \"Descontos\" e \"Total\". O desconto do cupom aparece como valor negativo na linha \"Descontos\", e o total já vem abatido. No nosso teste de 13/10/2026, o subtotal de R$ 364,33 teve R$ 36,44 de desconto e o total ficou em R$ 327,89, os 10% do cupom.",
+          "Antes de clicar em \"Finalizar Compra\", confira que a linha \"Descontos\" existe e que o total é o que você espera pagar. Depois, siga para Identificação, Entrega e Pagamento."
+        ],
+        "image": "/images/reviews/black-skull/black-skull-cupom-03-desconto-aplicado.webp",
+        "imageAlt": "Quadro da sacola da Black Skull depois do Adicionar, com CECILIA10 aplicado, Descontos de R$ -36,44 e total de R$ 327,89",
+        "imageCaption": "Quadro da sacola depois do \"Adicionar\", em 13/10/2026: CECILIA10 aplicado, \"Descontos\" de R$ -36,44 e total de R$ 327,89. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 0.8481
+      },
+      {
+        "heading": "O cupom vale em produto em promoção?",
+        "paragraphs": [
+          "Sim. O CECILIA10 soma com as promoções do site, e o nosso teste de 13/10/2026 mostrou isso no checkout: a regata aparecia de R$ 129,90 por R$ 51,96, e o kit, de R$ 284,70 por R$ 232,47, antes mesmo do código. O cupom tirou 10% do subtotal, que já trazia esses preços: o desconto vem em cima do preço promocional, sem substituí-lo."
+        ]
+      },
+      {
+        "heading": "Frete grátis com o cupom: confira o mínimo da sua região",
+        "paragraphs": [
+          "O CECILIA10 não é um cupom de frete grátis. O frete grátis da Black Skull vem do valor mínimo do pedido, que muda conforme a região de entrega. Em 14/10/2026, a loja informava estes mínimos:"
+        ],
+        "comparisonTable": {
+          "caption": "Frete grátis da Black Skull por região de entrega, em 14/10/2026",
+          "headers": [
+            "Região de entrega",
+            "Frete grátis acima de"
+          ],
+          "rows": [
+            [
+              "Sul e Sudeste",
+              "R$ 199,90"
+            ],
+            [
+              "Centro-Oeste",
+              "R$ 249,90"
+            ],
+            [
+              "Demais regiões",
+              "R$ 299,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A loja considera o valor total final do carrinho, já com o desconto. Então os 10% do cupom entram na conta antes do mínimo. Exemplo: um pedido de R$ 215 no Sudeste cai para R$ 193,50 com o CECILIA10 e deixa de passar dos R$ 199,90. Confira o total com o cupom aplicado antes de finalizar."
+        ]
+      },
+      {
+        "heading": "O que comprar com o cupom",
+        "paragraphs": [
+          "O CECILIA10 vale em todo o site. Na sacola do nosso teste, em 13/10/2026, havia whey, creatina e pré-treino (no kit), glutamina e uma regata. A página da loja cita também aminoácidos e roupas de treino.",
+          "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
+        ]
+      },
+      {
+        "heading": "Se precisar trocar",
+        "paragraphs": [
+          "A troca comum não é gratuita. Em 14/10/2026, a política da loja funcionava assim:"
+        ],
+        "bullets": [
+          "**Arrependimento:** em até 7 dias corridos do recebimento, com a loja pagando a postagem. Não há devolução parcial do pedido.",
+          "**Troca comum, com produto lacrado e sem uso:** pedida em até 30 dias, com postagem e reenvio pagos por você.",
+          "**Produto com defeito:** o custo fica com a loja."
+        ],
+        "postParagraphs": [
+          "Os pedidos de troca e devolução vão para o e-mail sac@blackskullusa.com. Para os detalhes de quem é a marca, site oficial, trocas e frete, veja [Black Skull é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/black-skull-e-confiavel). Para os números de reclamações e respostas, veja [Black Skull no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/black-skull-reclame-aqui-nota-reputacao).",
+          "Antes de fechar o pedido, as condições atuais estão na [página do cupom da Black Skull](/cupons/black-skull)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Black Skull? O cupom é o CECILIA10, com 10% de desconto em todo o site oficial, digitado no campo \"Cupom de Desconto\" da sacola.",
+          "Tem cupom de primeira compra na Black Skull? Sim. O CECILIA10 vale na primeira compra e também para quem já comprou, em conta nova ou antiga.",
+          "O cupom da Black Skull vale em produto em promoção? Sim. Os 10% valem também nos itens que já estão com preço promocional, como no nosso teste de 13/10/2026.",
+          "O cupom vale em todas as formas de pagamento? Sim. O CECILIA10 vale em qualquer forma de pagamento, e a loja oferece cartão em até 8x sem juros (parcela mínima de R$ 50), Pix, Pix parcelado em 4x sem juros e boleto.",
+          "O cupom da Black Skull dá frete grátis? Não, o CECILIA10 é desconto de 10%. O frete grátis vem do valor mínimo do pedido (R$ 199,90 no Sul e Sudeste, R$ 249,90 no Centro-Oeste e R$ 299,90 nas demais regiões, em 14/10/2026), contado sobre o total já com o desconto.",
+          "Tem cupom para whey e creatina da Black Skull? Sim, o CECILIA10 vale em todo o site, então vale também em whey e creatina.",
+          "O cupom vale no Mercado Livre, na Shopee ou na Amazon? O CECILIA10 é o código do site oficial da Black Skull, o blackskullusa.com.br, onde é digitado no campo \"Cupom de Desconto\" da sacola."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Entre no site oficial da Black Skull e use o CECILIA10 na sacola: 10% de desconto em todo o site. Confira a linha \"Descontos\" antes de pagar.",
+      "label": "Ir para a Black Skull",
+      "url": "https://www.blackskullusa.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "black-skull",
+    "editorialNote": "Cupom testado no checkout oficial da Black Skull. Podemos receber comissão.",
+    "relatedArticles": [
+      {
+        "slug": "black-skull-e-confiavel",
+        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+      },
+      {
+        "slug": "black-skull-reclame-aqui-nota-reputacao",
+        "title": "Black Skull no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "slug": "lejour-e-confiavel",
+    "title": "Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques",
+    "seoTitle": "Lejour é confiável? Fast Shop, taxas e saques",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que conferimos sobre a Lejour antes de indicar: CNPJ ativo desde 2017, a parceria com a Fast Shop, as travas do saque por Pix, os prazos do crédito dos presentes e a reputação Ótima no Reclame Aqui em 14/10/2026.",
+    "metaDescription": "A Lejour é confiável? Veja o CNPJ, a parceria com a Fast Shop, como o saque por Pix é protegido e a reputação no Reclame Aqui em 14/10/2026.",
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/lejour/lejour-confiavel-capa.webp",
+    "imageAlt": "Página inicial de lejour.com.br com o logo Fast Shop + le jour no cabeçalho",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "CNPJ ativo na Receita Federal desde 07/11/2017, o mesmo do rodapé do site",
+      "Parceria com a Fast Shop, que apresenta a lista Lejour + Fast Shop no site dela",
+      "Saque por Pix só para o CPF de quem publicou a lista, depois de validar a identidade",
+      "Reputação Ótima no Reclame Aqui nos últimos 12 meses, com nota 9,5",
+      "Painel e saldo continuam acessíveis depois dos 90 dias do site"
+    ],
+    "cons": [
+      "Crédito do cartão só fica disponível 15 dias corridos depois da compra",
+      "Taxa de 3,89% por presente no plano Basic",
+      "Presentes virtuais: o casal recebe crédito em dinheiro, não produtos em casa",
+      "Sem certificação de segurança nem nome do processador de pagamento publicados"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Sim, a Lejour é uma empresa brasileira regular: o CNPJ 29.009.811/0001-35 está ativo na Receita Federal desde 07/11/2017, com endereço em São Paulo (SP).",
+          "A Lejour trabalha em parceria com a Fast Shop. O logo do site é \"Fast Shop + le jour\", e a própria Fast Shop apresenta a \"lista Lejour + Fast Shop\" em uma página sobre lista de casamento.",
+          "Os presentes da lista são virtuais: o convidado paga e o valor vira crédito em dinheiro para o casal. Nenhum produto é enviado.",
+          "O saque sai por Pix, em até 1 dia útil, para uma chave do mesmo CPF de quem publicou a lista, e só depois de a Lejour validar a identidade com documento com foto e selfie.",
+          "O site do casal fica público até 90 dias depois do casamento, e o painel com o saldo continua acessível depois disso."
+        ]
+      },
+      {
+        "heading": "Quem está por trás da Lejour",
+        "paragraphs": [
+          "A Lejour é uma plataforma brasileira de casamento: o casal monta um site com as informações da festa e uma lista de presentes em dinheiro, e os convidados presenteiam pelo próprio site. Na página inicial, a empresa diz que \"mais de 300 mil casais já usaram a Lejour\". É um número da própria Lejour, que não conseguimos conferir de forma independente.",
+          "O que dá para conferir é o cadastro da empresa. Consultamos o CNPJ na BrasilAPI, que espelha os dados da Receita Federal, e comparamos com o rodapé do site em 14/10/2026."
+        ],
+        "postParagraphs": [
+          "Para checar por conta própria, basta pesquisar o CNPJ em uma consulta pública de cadastro de empresas, como a da Receita Federal, e ver a situação cadastral e a data de abertura."
+        ],
+        "image": "/images/reviews/lejour/lejour-rodape-cnpj.webp",
+        "imageAlt": "Rodapé do site lejour.com.br com o endereço da empresa e o CNPJ 29.009.811/0001-35 destacados",
+        "imageCaption": "Rodapé de lejour.com.br em 14/10/2026, com o endereço e o CNPJ 29.009.811/0001-35 destacados",
+        "imageFit": "contain",
+        "imageAspectRatio": 2.3333,
+        "comparisonTable": {
+          "caption": "Dados públicos do CNPJ da Lejour, conferidos em 14/10/2026",
+          "headers": [
+            "Dado",
+            "O que consta"
+          ],
+          "rows": [
+            [
+              "CNPJ",
+              "29.009.811/0001-35"
+            ],
+            [
+              "Situação cadastral",
+              "Ativa, desde 07/11/2017"
+            ],
+            [
+              "Atividade",
+              "Portais, provedores de conteúdo e outros serviços de informação na internet"
+            ],
+            [
+              "Endereço no rodapé do site",
+              "Travessa Dona Paula, nº 13, Higienópolis, São Paulo (SP), CEP 01239-050"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "A Lejour é da Fast Shop?",
+        "paragraphs": [
+          "Não. A Lejour e a Fast Shop são parceiras, e não há fonte oficial de compra da Lejour pela Fast Shop. Em 14/10/2026, a parceria aparece nos dois sites:"
+        ],
+        "bullets": [
+          "o cabeçalho de lejour.com.br traz o logo \"Fast Shop + le jour\";",
+          "a Fast Shop tem uma página de lista de casamento que apresenta a \"lista Lejour + Fast Shop\", com depoimentos de casais sobre ela."
+        ]
+      },
+      {
+        "heading": "Como o dinheiro dos presentes chega até vocês",
+        "paragraphs": [
+          "Na Lejour, todos os presentes da lista são virtuais. O convidado escolhe um presente, paga, e o valor entra como crédito em dinheiro no painel do casal. Do crédito, o casal saca por Pix. O caminho completo, segundo a central de ajuda da Lejour, é este:"
+        ],
+        "postParagraphs": [
+          "Se vocês contam com o dinheiro para uma data, como o sinal do buffet, lembrem que o presente pago no cartão só vira crédito 15 dias corridos depois da compra.",
+          "Prazos e regras podem mudar, então confira os da central de ajuda no momento de criar a sua lista."
+        ],
+        "comparisonTable": {
+          "caption": "Etapas do presente até o saque por Pix, segundo a central de ajuda da Lejour (14/10/2026)",
+          "headers": [
+            "Etapa",
+            "O que acontece",
+            "Prazo"
+          ],
+          "rows": [
+            [
+              "1. O convidado escolhe e paga",
+              "Paga por Pix, boleto ou cartão. No cartão, pode parcelar em até 12x, com juros de 3,49% ao mês pagos pelo próprio convidado",
+              "No ato do pagamento"
+            ],
+            [
+              "2. O valor vira crédito",
+              "No Pix e no boleto, o crédito fica disponível depois da confirmação do pagamento",
+              "Depois da confirmação"
+            ],
+            [
+              "3. O crédito do cartão",
+              "Fica disponível 15 dias corridos depois da compra",
+              "15 dias corridos"
+            ],
+            [
+              "4. A Lejour valida sua identidade",
+              "Antes do primeiro saque, pede documento com foto e selfie",
+              "Uma vez, antes do primeiro saque"
+            ],
+            [
+              "5. O casal pede o saque",
+              "O dinheiro vai por Pix, para uma chave pertencente ao CPF de quem publicou a lista",
+              "Até 1 dia útil"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "O que protege o saldo",
+        "paragraphs": [
+          "Nenhuma plataforma garante segurança absoluta, mas a central de ajuda da Lejour descreve três travas:"
+        ],
+        "bullets": [
+          "**Saque só para o CPF de quem publicou a lista.** A chave Pix informada deve pertencer ao mesmo CPF responsável pela publicação da lista. Ou seja, o saque não vai para uma conta de outra pessoa.",
+          "**Validação de identidade antes do primeiro saque.** A Lejour pede documento com foto e selfie. É a etapa que liga a lista a uma pessoa real antes de o dinheiro sair.",
+          "**Painel e saldo sem prazo para sumir.** O site do casal fica público até 90 dias depois do casamento. Depois disso, os convidados não acessam mais o site, mas o painel de administração \"permanece ativo por tempo indeterminado\", segundo a central de ajuda, e dá para resgatar o saldo por ele."
+        ],
+        "postParagraphs": [
+          "Não encontramos certificação de segurança nem o nome do processador de pagamento publicados. A página \"É seguro utilizar a Lejour?\" da central de ajuda é genérica e diz só que a empresa leva a segurança a sério.",
+          "Uma atitude sua ajuda e não depende da Lejour: confira que o endereço que você acessa é mesmo lejour.com.br."
+        ]
+      },
+      {
+        "heading": "Quanto custa usar a Lejour",
+        "paragraphs": [
+          "Criar a lista é grátis no plano Basic. A Lejour cobra uma taxa sobre os presentes, de 2,99% a 3,89% conforme o plano (3,89% no Basic, em 14/10/2026), e o casal escolhe se ela sai do valor que recebe ou é somada ao que o convidado paga. Os planos pagos, Premium e Pro, baixam a taxa e são pagos uma vez. A comparação entre os planos está em:"
+        ],
+        "links": [
+          {
+            "label": "O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos",
+            "href": "/reviews/lejour-como-funciona"
+          }
+        ]
+      },
+      {
+        "heading": "E a reputação no Reclame Aqui?",
+        "paragraphs": [
+          "Em 14/10/2026, a Lejour tinha reputação Ótima no Reclame Aqui nos últimos 12 meses, com nota 9,5 e 22 reclamações no período, todas respondidas. Por que as abas de 6 meses e de 2025 aparecem como \"Sem Reputação\" e o que mais aparece nas queixas estão no artigo sobre a Lejour no Reclame Aqui."
+        ],
+        "links": [
+          {
+            "label": "Lejour no Reclame Aqui: nota, reclamações e o que os dados mostram",
+            "href": "/reviews/lejour-reclame-aqui-nota-reputacao"
+          }
+        ]
+      },
+      {
+        "heading": "Indicação do Em Casa com Cecília",
+        "paragraphs": [
+          "O Em Casa com Cecília tem uma parceria com a Lejour. O link do nosso botão é um link de indicação: se você criar a conta por ele, o site pode receber uma comissão da Lejour. Para o casal, não muda nada: você não paga mais, não ganha desconto e não recebe benefício extra por entrar por ele. Por isso não chamamos de cupom, e a Lejour não tem código para digitar. O plano Basic continua grátis do mesmo jeito.",
+          "A indicação só conta para cadastros feitos pelo link: entrar por ele ajuda o site e não custa nada a mais. Se preferir, entre direto pelo site da Lejour; a lista e as taxas são as mesmas. As condições da parceria ficam na página da Lejour no Em Casa com Cecília, e o passo a passo do cadastro está no guia de como criar a lista."
+        ],
+        "links": [
+          {
+            "label": "Lejour no Em Casa com Cecília",
+            "href": "/cupons/lejour"
+          },
+          {
+            "label": "Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes",
+            "href": "/reviews/lista-de-casamento-lejour-como-criar"
+          }
+        ]
+      },
+      {
+        "heading": "Vale a pena usar a Lejour?",
+        "paragraphs": [
+          "Do ponto de vista da confiança, sim. É uma empresa com CNPJ ativo desde 2017, trabalha com a Fast Shop, libera o saque só por Pix para o CPF de quem publicou a lista, depois de confirmar a identidade, e tem reputação Ótima no Reclame Aqui nos últimos 12 meses. O plano Basic permite começar sem pagar nada e ver se o formato serve ao casal.",
+          "Os cuidados são de conta, não de confiança. A taxa de 3,89% do Basic pesa mais conforme a lista cresce, e vale comparar com os planos Premium e Pro se a expectativa de presentes em dinheiro for alta. No cartão, o dinheiro só fica disponível 15 dias corridos depois da compra, então quem precisa do valor logo deve pensar nisso. E, como o presente é crédito em dinheiro e não produto enviado, a Lejour serve a casais que querem receber em Pix, e não a quem quer ver cada item chegar em casa."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Lejour é confiável? Sim. É uma empresa brasileira com CNPJ ativo desde 2017, que trabalha com a Fast Shop, e o saque dos presentes só sai por Pix para o CPF de quem publicou a lista, depois de validar a identidade.",
+          "A Lejour é da Fast Shop? Não. As duas são parceiras: o logo do site é \"Fast Shop + le jour\", e a Fast Shop apresenta a \"lista Lejour + Fast Shop\" no site dela.",
+          "O site de casamento da Lejour é seguro? A Lejour só libera o saque por Pix para uma chave do mesmo CPF que publicou a lista, com documento com foto e selfie antes do primeiro saque. A página de segurança da empresa é genérica, e não encontramos certificação nem o nome do processador de pagamento publicados.",
+          "Em quanto tempo o dinheiro dos presentes cai na conta? Presentes pagos por Pix ou boleto ficam disponíveis depois da confirmação do pagamento, e os pagos no cartão, 15 dias corridos depois da compra. O saque por Pix sai em até 1 dia útil.",
+          "O site some depois do casamento, e o saldo também? O site fica público até 90 dias depois do casamento. O painel e o saldo continuam acessíveis depois disso.",
+          "Qual é o CNPJ da Lejour? É 29.009.811/0001-35, ativo desde 07/11/2017, e aparece no rodapé do site."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Crie o site e a lista grátis no plano Basic.",
+      "label": "Criar a lista na Lejour",
+      "url": "https://painel.lejour.com.br/onboarding/inicio?affiliate=emcasacomcecilia&source=the-coachers",
+      "sponsored": true
+    },
+    "affiliate": "lejour",
+    "editorialNote": "Link de indicação: podemos receber comissão da Lejour, sem custo nem vantagem para o casal.",
+    "relatedArticles": [
+      {
+        "slug": "lejour-reclame-aqui-nota-reputacao",
+        "title": "Lejour no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "lejour-como-funciona",
+        "title": "O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos"
+      },
+      {
+        "slug": "lista-de-casamento-lejour-como-criar",
+        "title": "Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes"
+      }
+    ]
+  },
+  {
+    "id": 425,
+    "slug": "lejour-reclame-aqui-nota-reputacao",
+    "title": "Lejour no Reclame Aqui: nota, reclamações e o que os dados mostram",
+    "seoTitle": "Lejour no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Os números da Lejour no Reclame Aqui em 14/10/2026: reputação Ótima nos últimos 12 meses, nota 9,5, 22 reclamações 100% respondidas, o que significa \"Sem Reputação\" e o que fazer se o saque não cair.",
+    "metaDescription": "Lejour no Reclame Aqui em 14/10/2026: reputação Ótima, nota 9,5 e 22 reclamações respondidas. Veja o que é \"Sem Reputação\" e o que fazer.",
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/lejour/lejour-reclame-aqui-capa.webp",
+    "imageAlt": "Perfil da Lejour no Reclame Aqui: reputação Ótima, empresa verificada, avaliações de compra 5,0 e o quadro de desempenho dos últimos 12 meses",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "heroCompact": true,
+    "pros": [
+      "Reputação Ótima nos últimos 12 meses, com nota 9,5 de 10",
+      "100% das reclamações respondidas nas abas de 6 meses, 12 meses e 2025",
+      "100% das 13 reclamações avaliadas em 12 meses foram resolvidas",
+      "Tempo médio de resposta de 2 dias e 5 horas em 12 meses",
+      "Empresa verificada e avaliações de compra de 5,0 em 5"
+    ],
+    "cons": [
+      "Volume pequeno: a nota de 12 meses se apoia em 13 reclamações avaliadas",
+      "Abas de 6 meses e de 2025 aparecem como \"Sem Reputação\"",
+      "Mau Atendimento é o problema mais marcado, com 13,64%"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "Em 14/10/2026, a Lejour tinha reputação **Ótima** no Reclame Aqui nos últimos 12 meses (01/10/2025 a 30/09/2026), com nota 9,5 de 10.",
+          "Foram 22 reclamações no período: 100% respondidas, nenhuma aguardando resposta e 100% resolvidas, segundo quem avaliou. A resposta levou em média 2 dias e 5 horas.",
+          "O volume é pequeno. A nota de 12 meses se apoia em 13 reclamações avaliadas, então ela mostra como a empresa tratou poucos casos, e não um histórico longo.",
+          "Nas abas de 6 meses e de 2025, o perfil aparece como \"Sem Reputação\". Não é nota ruim: o Reclame Aqui só calcula a reputação a partir de 10 reclamações avaliadas, e essas abas ficam abaixo disso.",
+          "O perfil também mostra empresa verificada e avaliações de compra de 5,0 em 5. O topo do perfil não diz quantas avaliações são."
+        ]
+      },
+      {
+        "heading": "Por que olhar o Reclame Aqui antes de criar a lista",
+        "paragraphs": [
+          "Na Lejour, o presente da lista é virtual: o convidado paga, o valor vira crédito em dinheiro no painel do casal, e o casal saca por Pix. Por isso a pergunta que importa antes de criar a conta é o que acontece se algo travar, como um saque que não sai ou um pagamento que não aparece como crédito.",
+          "O Reclame Aqui mostra o que a empresa faz quando alguém reclama: se responde, em quanto tempo, e se o consumidor considera o problema resolvido.",
+          "Em 14/10/2026, olhamos o perfil \"Lejour\" no Reclame Aqui: o topo, as abas de 6 meses, 12 meses e 2025 e a lista de principais problemas. Os números mudam com o tempo, então vale abrir o perfil de novo no dia em que você for criar a lista."
+        ],
+        "links": [
+          {
+            "label": "Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques",
+            "href": "/reviews/lejour-e-confiavel"
+          }
+        ]
+      },
+      {
+        "heading": "Os números da Lejour no Reclame Aqui",
+        "paragraphs": [
+          "O Reclame Aqui mostra o desempenho por período. O perfil da Lejour tinha cinco abas em 14/10/2026: 6 meses, 12 meses, 2025, 2024 e Geral. Estas são três delas, cada uma com o intervalo de datas que aparece no rodapé do quadro:"
+        ],
+        "postParagraphs": [
+          "O \"--\" aparece no próprio Reclame Aqui, nas abas de 6 meses e de 2025. Só a aba de 12 meses traz esses números.",
+          "Há dois cuidados na leitura. O primeiro é que \"100% resolvidas\" e \"84,6% voltariam\" valem só para as 13 reclamações avaliadas, e quem não volta ao Reclame Aqui para avaliar não entra na conta. O segundo é que 22 reclamações em 12 meses não bastam para afirmar como a Lejour trata qualquer pedido. O que os números mostram é que, nos casos registrados, todos foram respondidos e nenhum estava aguardando resposta."
+        ],
+        "comparisonTable": {
+          "caption": "Lejour no Reclame Aqui por período, consulta de 14/10/2026",
+          "headers": [
+            "Indicador",
+            "12 meses (01/10/2025 a 30/09/2026)",
+            "6 meses (01/04 a 30/09/2026)",
+            "2025 (01/01 a 31/12/2025)"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Ótima, nota 9,5/10",
+              "Sem Reputação",
+              "Sem Reputação"
+            ],
+            [
+              "Reclamações recebidas",
+              "22",
+              "13",
+              "10"
+            ],
+            [
+              "Respondidas",
+              "100%",
+              "100%",
+              "100%"
+            ],
+            [
+              "Aguardando resposta",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "Resolvidas",
+              "100%",
+              "--",
+              "--"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "84,6%",
+              "--",
+              "--"
+            ],
+            [
+              "Reclamações avaliadas",
+              "13",
+              "5",
+              "8"
+            ],
+            [
+              "Nota média do consumidor",
+              "9,38",
+              "--",
+              "--"
+            ],
+            [
+              "Tempo médio de resposta",
+              "2 dias e 5 horas",
+              "2 dias e 22 horas",
+              "23 horas"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "O que quer dizer \"Sem Reputação\"",
+        "paragraphs": [
+          "\"Sem Reputação\" não é uma nota baixa, nem um aviso do Reclame Aqui contra a empresa. É a ausência de nota. O quadro das abas de 6 meses e de 2025 traz a explicação em duas linhas: \"Essa empresa ainda não possui 10 reclamações avaliadas para calcularmos a reputação.\"",
+          "A conta depende de reclamações avaliadas, e não de reclamações recebidas. Na aba de 6 meses, só 5 das 13 reclamações foram avaliadas pelos consumidores; em 2025, foram 8 das 10. Nenhuma das duas janelas chega a 10 avaliadas, e por isso o perfil aparece sem reputação. Na aba de 12 meses, o número sobe para 13 avaliadas, o Reclame Aqui consegue calcular, e aparece a reputação Ótima."
+        ],
+        "image": "/images/reviews/lejour/lejour-reclame-aqui-aba-6-meses.webp",
+        "imageAlt": "Aba de 6 meses do perfil da Lejour no Reclame Aqui: Sem Reputação, 13 reclamações recebidas e 5 avaliadas",
+        "imageCaption": "Aba de 6 meses do perfil da Lejour no Reclame Aqui em 14/10/2026: \"Sem Reputação\", 13 reclamações recebidas e 5 avaliadas. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 0.3221
+      },
+      {
+        "heading": "O que mais aparece nas reclamações da Lejour",
+        "paragraphs": [
+          "Em 14/10/2026, o Reclame Aqui destacava três itens no perfil da Lejour, todos de reclamações registradas em até 3 anos na aba geral:"
+        ],
+        "postParagraphs": [
+          "A leitura é sobre a plataforma e o atendimento: \"Mau Atendimento\" é o problema mais marcado. Nos três itens que o perfil destaca, não aparece saque, pagamento ou estorno. O print mostra um item de cada grupo, e não a lista completa, então isso não quer dizer que nenhuma reclamação tenha tratado de dinheiro.",
+          "O volume é pequeno, e isso pesa nas porcentagens: com tão poucas reclamações, cada uma muda bastante a fatia. O que o Reclame Aqui publica aqui é só o agrupamento, não o texto das reclamações. Por isso, o que dá para tirar daqui é uma pista do que olhar (como o atendimento responde), e não uma estatística sobre quanto dá errado."
+        ],
+        "image": "/images/reviews/lejour/lejour-reclame-aqui-principais-problemas.webp",
+        "imageAlt": "Principais problemas comentados no perfil da Lejour no Reclame Aqui: Sites e portais, Mau Atendimento e Conteúdo",
+        "imageCaption": "Principais problemas comentados no perfil da Lejour no Reclame Aqui, com reclamações de até 3 anos (consulta em 14/10/2026). O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.225,
+        "comparisonTable": {
+          "caption": "Principais agrupamentos de reclamações da Lejour no Reclame Aqui, consulta de 14/10/2026",
+          "headers": [
+            "Agrupamento",
+            "O que mais aparece",
+            "Parcela das reclamações"
+          ],
+          "rows": [
+            [
+              "Categoria",
+              "Sites e portais",
+              "22,73%"
+            ],
+            [
+              "Problema",
+              "Mau Atendimento",
+              "13,64%"
+            ],
+            [
+              "Produto",
+              "Conteúdo",
+              "9,09%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Se o saque ou um presente der problema: o que fazer",
+        "paragraphs": [
+          "Antes de abrir qualquer reclamação, confira o que costuma explicar a demora. Os prazos e as regras abaixo são os da central de ajuda da Lejour em 14/10/2026."
+        ],
+        "bullets": [
+          "**O presente foi pago, mas o crédito não aparece.** No Pix e no boleto, o crédito fica disponível depois da confirmação do pagamento. No cartão, só 15 dias corridos depois da compra.",
+          "**O saque não caiu.** O saque sai por Pix em até 1 dia útil, mas só para uma chave do mesmo CPF de quem publicou a lista, e só depois de a Lejour validar a identidade com documento com foto e selfie. Se a chave estiver em nome de outra pessoa, ou se a validação ainda não foi concluída, o dinheiro não sai.",
+          "**Nada disso explica.** Fale com a Lejour pela opção \"Fale com a gente\", que leva ao atendimento por WhatsApp, e tenha à mão o CPF do titular da lista, a chave Pix usada e a data do pedido de saque ou do presente.",
+          "**O atendimento não resolveu.** O Reclame Aqui é o passo seguinte. Em 14/10/2026, a Lejour tinha 100% das reclamações dos últimos 12 meses respondidas. Depois da resposta, você pode avaliar se o problema foi resolvido."
+        ],
+        "postParagraphs": [
+          "Guarde o comprovante de cada pagamento de presente e a captura da tela do pedido de saque. Com eles, a reclamação, se precisar chegar ao Reclame Aqui, fica documentada."
+        ]
+      },
+      {
+        "heading": "Indicação do Em Casa com Cecília",
+        "paragraphs": [
+          "O Em Casa com Cecília tem uma parceria com a Lejour. O botão deste artigo leva a um link de indicação: se você criar a conta por ele, o site pode receber uma comissão da Lejour. Para o casal, não muda nada: não há desconto, cupom nem benefício extra, e o plano Basic continua grátis do mesmo jeito. Os números do Reclame Aqui acima são do perfil público da empresa e não dependem da parceria.",
+          "A página da Lejour no Em Casa com Cecília reúne as condições da indicação, e o passo a passo do cadastro está no guia de como montar a lista. Se preferir, entre direto pelo site da Lejour."
+        ],
+        "links": [
+          {
+            "label": "Lejour no Em Casa com Cecília",
+            "href": "/cupons/lejour"
+          },
+          {
+            "label": "Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes",
+            "href": "/reviews/lista-de-casamento-lejour-como-criar"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Lejour é confiável segundo o Reclame Aqui? Em 14/10/2026, o perfil tinha reputação Ótima nos últimos 12 meses, com 100% das reclamações respondidas e 100% das avaliadas resolvidas. As reclamações são poucas e a nota se apoia em 13 avaliações, então o número não garante como a empresa trata cada caso. Nem todos os que avaliaram voltariam a fazer negócio (84,6%).",
+          "Qual a nota da Lejour no Reclame Aqui? A reputação é Ótima, com nota 9,5 de 10, na aba de 12 meses (01/10/2025 a 30/09/2026). A nota média do consumidor nas reclamações avaliadas é 9,38, e 84,6% dizem que voltariam a fazer negócio. A consulta é de 14/10/2026, e os números mudam com o tempo.",
+          "Por que a Lejour aparece \"Sem Reputação\"? Nas abas de 6 meses e de 2025, o Reclame Aqui só dá reputação a perfis com 10 reclamações avaliadas ou mais. A Lejour teve menos que isso nas duas janelas, e por isso elas ficam sem nota.",
+          "A Lejour responde às reclamações? Sim: em 14/10/2026, o perfil mostrava 100% das reclamações respondidas nas três abas, com resposta média de 2 dias e 5 horas em 12 meses, 2 dias e 22 horas em 6 meses e 23 horas em 2025.",
+          "O que fazer se o saque da Lejour não cair? O saque sai em até 1 dia útil, então confira se a chave Pix é do mesmo CPF de quem publicou a lista e se a validação de identidade foi concluída. Se estiver tudo certo, fale com a Lejour por \"Fale com a gente\" e, sem solução, abra a reclamação no Reclame Aqui."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Crie o site e a lista grátis no plano Basic.",
+      "label": "Criar a lista na Lejour",
+      "url": "https://painel.lejour.com.br/onboarding/inicio?affiliate=emcasacomcecilia&source=the-coachers",
+      "sponsored": true
+    },
+    "affiliate": "lejour",
+    "editorialNote": "Link de indicação: podemos receber comissão da Lejour, sem custo nem vantagem para o casal.",
+    "relatedArticles": [
+      {
+        "slug": "lejour-e-confiavel",
+        "title": "Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques"
+      },
+      {
+        "slug": "lejour-como-funciona",
+        "title": "O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos"
+      },
+      {
+        "slug": "lista-de-casamento-lejour-como-criar",
+        "title": "Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes"
+      }
+    ]
+  },
+  {
+    "id": 426,
+    "slug": "lejour-como-funciona",
+    "title": "O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos",
+    "seoTitle": "Lejour: o que é e como funciona (taxas e planos)",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que é a Lejour e como funciona: site do casamento, lista de presentes virtuais, taxa de 3,89% no Basic, 3,29% no Premium e 2,99% no Pro em 14/10/2026, prazos do saque e qual plano escolher.",
+    "metaDescription": "Lejour: o que é, como funciona a lista de presentes, as taxas (3,89% a 2,99%) e os planos Basic, Premium e Pro, em 14/10/2026.",
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/lejour/lejour-como-funciona-capa.webp",
+    "imageAlt": "Painel da Lejour com o menu Personalizar site, Lista de presentes e Lista de convidados e a prévia do site do casal",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "A Lejour é uma plataforma brasileira de casamento que faz duas coisas: o site do casal e a lista de presentes. Tem também lista de convidados com confirmação de presença.",
+          "Os presentes são virtuais. O convidado paga e o valor vira crédito em dinheiro para o casal; nenhum produto é enviado.",
+          "O casal usa o crédito em dinheiro (Pix), em produtos da Fast Shop ou nos dois.",
+          "Criar a lista é grátis no plano Basic. A Lejour cobra uma taxa por presente, de 3,89% no Basic, 3,29% no Premium e 2,99% no Pro, em 14/10/2026. Premium e Pro são pagos uma vez e valem para sempre."
+        ]
+      },
+      {
+        "heading": "O que a Lejour faz",
+        "paragraphs": [
+          "A Lejour junta, num só painel, o que o casal precisa para avisar e organizar a festa. O menu do painel mostra as áreas: Painel inicial, Personalizar site, Lista de presentes, Lista de convidados e Produtos Fast Shop."
+        ],
+        "bullets": [
+          "**Site do casamento.** Uma página pública com as informações da festa, que o casal personaliza. O título do site da Lejour o apresenta como \"site de casamento grátis e lista de presentes\".",
+          "**Lista de presentes.** Onde o casal define os presentes e acompanha o que os convidados deram. Como ela funciona está na próxima seção.",
+          "**Lista de convidados.** Reúne os convidados e a confirmação de presença.",
+          "**Capture.** Recurso de fotos dos convidados. No plano Basic, vai até 10 participantes; no Premium e no Pro, não há limite."
+        ],
+        "postParagraphs": [
+          "Dá para começar sem criar conta antes: o cadastro tem 3 passos e abre o painel direto. O painel avisa que você está navegando sem login e pede para criar uma conta gratuita, que guarda o que foi feito. O passo a passo com as telas está em [Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes](/reviews/lista-de-casamento-lejour-como-criar)."
+        ]
+      },
+      {
+        "heading": "Como funciona a lista de presentes da Lejour",
+        "paragraphs": [
+          "Todos os presentes da lista são virtuais, segundo a central de ajuda da Lejour. O convidado entra no site do casal, escolhe um presente e paga. O valor vira crédito em dinheiro no painel do casal, e nada é entregue em casa.",
+          "O convidado paga por Pix, boleto ou cartão. No cartão, pode parcelar em até 12x, com juros de 3,49% ao mês pagos por ele, e não pelo casal.",
+          "Do lado do casal, o crédito fica no painel, e é de lá que sai o saque."
+        ]
+      },
+      {
+        "heading": "Dinheiro ou Fast Shop: como usar o crédito",
+        "paragraphs": [
+          "O crédito é flexível: o casal pode usar tudo em dinheiro, tudo em produtos da Fast Shop, ou dividir entre os dois. A central de ajuda da Lejour descreve o resgate como \"100% flexível\"."
+        ],
+        "bullets": [
+          "**Em dinheiro:** o casal saca o crédito por Pix.",
+          "**Na Fast Shop:** o menu do painel tem a área Produtos Fast Shop, e o crédito vale em compras na loja. Em 14/10/2026, a página de lista de casamento da Fast Shop diz que as compras feitas com o crédito dão cashback mínimo de 4% para as próximas compras. A condição é da Fast Shop e pode mudar; confira na página dela antes de contar com o valor."
+        ],
+        "postParagraphs": [
+          "A Lejour e a Fast Shop são parceiras: o logo do site é \"Fast Shop + le jour\". Mais sobre essa parceria está em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "A Lejour tem taxa? Quanto custa",
+        "paragraphs": [
+          "Tem. A Lejour cobra uma taxa sobre cada presente da lista, e o percentual depende do plano. Em 14/10/2026, a tabela de planos do painel mostrava:"
+        ],
+        "postParagraphs": [
+          "A coluna de R$ 200 é uma conta nossa, só para dar a dimensão: percentual da tabela aplicado ao valor do presente.",
+          "O casal escolhe quem paga a taxa: o casal, que recebe o presente com a taxa descontada, ou os convidados, que pagam a taxa por cima do valor do presente. A escolha fica em Configurações, na opção \"Sobre site e lista\". O convidado que parcela no cartão paga, além disso, os juros de 3,49% ao mês, que são da parcela e não entram nessa taxa.",
+          "Fora a taxa, há custos que dependem do plano: no Basic, os saques são gratuitos só até o segundo, e depois custam R$ 5 cada; o domínio personalizado .site custa R$ 69,90. No Premium e no Pro, os saques são ilimitados e o domínio está incluso."
+        ],
+        "comparisonTable": {
+          "caption": "Taxa por presente em cada plano da Lejour, 14/10/2026",
+          "headers": [
+            "Plano",
+            "Taxa por presente",
+            "Taxa num presente de R$ 200"
+          ],
+          "rows": [
+            [
+              "Basic",
+              "3,89%",
+              "R$ 7,78"
+            ],
+            [
+              "Premium",
+              "3,29%",
+              "R$ 6,58"
+            ],
+            [
+              "Pro",
+              "2,99%",
+              "R$ 5,98"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Planos Basic, Premium e Pro",
+        "paragraphs": [
+          "A Lejour tem três planos. O Basic é gratuito. O Premium e o Pro são pagos uma única vez, valem para sempre (\"vitalício\", na tabela) e podem ser pagos à vista ou em até 12x. Em 14/10/2026, o Premium aparecia por R$ 99,90, riscado de R$ 179,90, e o Pro por R$ 199,90. O preço do Premium é promocional e pode mudar."
+        ],
+        "postParagraphs": [
+          "O Premium aparece com o selo \"Mais popular\". Do Premium para o Pro, a diferença está em três pontos: a taxa cai de 3,29% para 2,99%, a tradução passa de inglês e espanhol para vários idiomas, e só o Pro tem inteligência artificial."
+        ],
+        "image": "/images/reviews/lejour/lejour-cadastro-05-planos.webp",
+        "imageAlt": "Tabela de planos do painel da Lejour com Basic, Premium e Pro: preço, taxa da lista de presentes, saques, domínio e recursos de cada plano",
+        "imageCaption": "Tabela de planos do painel da Lejour em 14/10/2026. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.3563,
+        "comparisonTable": {
+          "caption": "Comparação dos planos Basic, Premium e Pro da Lejour, 14/10/2026",
+          "headers": [
+            "",
+            "Basic",
+            "Premium",
+            "Pro"
+          ],
+          "rows": [
+            [
+              "Preço",
+              "Gratuito",
+              "R$ 99,90 (de R$ 179,90), uma vez ou em até 12x",
+              "R$ 199,90, uma vez ou em até 12x"
+            ],
+            [
+              "Taxa da lista de presentes",
+              "3,89%",
+              "3,29%",
+              "2,99%"
+            ],
+            [
+              "Saques",
+              "Até 2 gratuitos (depois, R$ 5 cada)",
+              "Ilimitados",
+              "Ilimitados"
+            ],
+            [
+              "Domínio personalizado (.site)",
+              "R$ 69,90",
+              "Incluso",
+              "Incluso"
+            ],
+            [
+              "Templates e personalizações exclusivas",
+              "Não",
+              "Sim",
+              "Sim"
+            ],
+            [
+              "Música e vídeo",
+              "Não",
+              "Sim",
+              "Sim"
+            ],
+            [
+              "Tradução do site",
+              "Não",
+              "Inglês e espanhol",
+              "Vários idiomas"
+            ],
+            [
+              "Inteligência artificial",
+              "Não",
+              "Não",
+              "Sim"
+            ],
+            [
+              "Fotos dos convidados (Capture)",
+              "Até 10 participantes",
+              "Ilimitado",
+              "Ilimitado"
+            ],
+            [
+              "Atendimento prioritário",
+              "Não",
+              "Sim",
+              "Sim"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Quando o dinheiro cai na conta",
+        "paragraphs": [
+          "Depende de como o convidado paga e de quando você pede o saque. Segundo a central de ajuda da Lejour, em 14/10/2026, o caminho do presente até o seu Pix tem quatro etapas:"
+        ],
+        "postParagraphs": [
+          "Na prática, o presente pago no cartão só pode ser sacado 15 dias corridos depois da compra, e o Pix chega em até 1 dia útil depois do pedido de saque.",
+          "A validação de identidade é feita uma única vez, antes do primeiro saque, e o conselho é validar cedo. A segurança do saldo e as regras de saque estão em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
+        ],
+        "comparisonTable": {
+          "caption": "Prazos do presente até o Pix, segundo a central de ajuda da Lejour (14/10/2026)",
+          "headers": [
+            "Etapa",
+            "Prazo"
+          ],
+          "rows": [
+            [
+              "Presente pago por Pix ou boleto vira crédito",
+              "Depois da confirmação do pagamento"
+            ],
+            [
+              "Presente pago no cartão vira crédito",
+              "15 dias corridos"
+            ],
+            [
+              "Validação de identidade, com documento com foto e selfie",
+              "Uma vez, antes do primeiro saque"
+            ],
+            [
+              "Saque por Pix, para chave do mesmo CPF que publicou a lista",
+              "Até 1 dia útil"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Quanto tempo o site fica no ar",
+        "paragraphs": [
+          "O site do casal fica público até 90 dias depois do casamento. Depois disso, os convidados deixam de acessá-lo.",
+          "O painel de administração e o saldo continuam acessíveis depois disso, segundo a central de ajuda da Lejour."
+        ]
+      },
+      {
+        "heading": "Qual plano escolher",
+        "paragraphs": [
+          "**Basic:** casais que querem começar sem pagar, testar o formato ou esperam poucos presentes em dinheiro. Tem taxa de 3,89% por presente, até 2 saques grátis e domínio .site por R$ 69,90 à parte.",
+          "**Premium:** casais que esperam um volume maior de presentes ou fariam mais de 2 saques. Custa R$ 99,90 (de R$ 179,90) uma vez, tem taxa de 3,29%, saques ilimitados, domínio incluso, tradução do site em inglês e espanhol e atendimento prioritário.",
+          "**Pro:** casais com convidados de vários países ou que querem todos os recursos. Custa R$ 199,90 uma vez, tem taxa de 2,99%, saques ilimitados, domínio incluso, tradução em vários idiomas, inteligência artificial e o Capture ilimitado, o recurso de fotos dos convidados.",
+          "Pelos recursos da tabela de planos do painel em 14/10/2026:"
+        ],
+        "postParagraphs": [
+          "Para saber a partir de quanto a taxa menor paga o preço do plano, a conta é simples: o preço do plano dividido pela diferença entre as taxas. É uma conta nossa, feita com os números de 14/10/2026, e serve como orientação, não como promessa de economia:",
+          "Conferindo o primeiro caso: em R$ 16.650 de presentes, a taxa do Basic é de R$ 647,69 e a do Premium, de R$ 547,79. A diferença é de R$ 99,90, o preço do Premium.",
+          "Três cuidados sobre essa conta. Primeiro, a conta só favorece o casal se ele paga a taxa; se os convidados pagam, quem economiza é o convidado. Segundo, o Premium estava em preço promocional em 14/10/2026 (de R$ 179,90 por R$ 99,90), então refaça a conta com o preço que aparecer no painel. Terceiro, a conta não inclui os extras de cada plano: no Basic, o domínio .site custa R$ 69,90 e cada saque depois do 2º custa R$ 5, itens que os planos pagos já cobrem."
+        ],
+        "comparisonTable": {
+          "caption": "A partir de quanto em presentes a taxa menor paga o plano (conta nossa, 14/10/2026)",
+          "headers": [
+            "Comparação",
+            "Diferença na taxa",
+            "Conta",
+            "Presentes a partir de"
+          ],
+          "rows": [
+            [
+              "Premium contra Basic",
+              "0,60 ponto (3,89% menos 3,29%)",
+              "R$ 99,90 ÷ 0,006",
+              "R$ 16.650"
+            ],
+            [
+              "Pro contra Basic",
+              "0,90 ponto (3,89% menos 2,99%)",
+              "R$ 199,90 ÷ 0,009",
+              "cerca de R$ 22.211"
+            ],
+            [
+              "Pro contra Premium",
+              "0,30 ponto (3,29% menos 2,99%)",
+              "R$ 100,00 ÷ 0,003 (a diferença de preço)",
+              "cerca de R$ 33.333"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Indicação do Em Casa com Cecília",
+        "paragraphs": [
+          "O Em Casa com Cecília tem uma parceria com a Lejour. O botão para criar a lista é um link de indicação: se você criar a conta por ele, o site pode receber uma comissão da Lejour. Para o casal, nada muda. Você não paga mais, não ganha desconto e não recebe benefício extra, e por isso não chamamos de cupom: a Lejour não tem código para digitar. O plano Basic é grátis com ou sem o link, e as taxas e os planos são os mesmos.",
+          "As condições da parceria estão em [Lejour no Em Casa com Cecília](/cupons/lejour). Para ver a reputação da empresa antes de decidir, leia [Lejour no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/lejour-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O que é a Lejour? É uma plataforma brasileira de casamento que faz o site do casal e a lista de presentes, com lista de convidados e confirmação de presença.",
+          "A Lejour é gratuita? Criar o site e a lista é grátis no plano Basic, que cobra uma taxa de 3,89% por presente. Os planos Premium (R$ 99,90) e Pro (R$ 199,90) são pagos uma vez e têm taxa menor, em 14/10/2026.",
+          "Qual a taxa da Lejour? Em 14/10/2026, a taxa por presente é de 3,89% no Basic, 3,29% no Premium e 2,99% no Pro. Num presente de R$ 200 no Basic, a taxa é de R$ 7,78, conta nossa.",
+          "Quem paga a taxa da lista de presentes? O casal escolhe: a taxa pode sair do valor que o casal recebe ou ser paga pelos convidados. A opção fica em Configurações, em \"Sobre site e lista\".",
+          "Os presentes da Lejour são entregues em casa? Não. Todos os presentes da lista são virtuais: o convidado dá um valor, que vira crédito em dinheiro para o casal usar por Pix ou em produtos da Fast Shop.",
+          "Dá para usar o dinheiro da lista na Fast Shop? Sim. O casal pode usar o crédito em dinheiro, em produtos da Fast Shop ou nos dois. A Fast Shop informa cashback mínimo de 4% nas compras com o crédito, em 14/10/2026.",
+          "Em quanto tempo o dinheiro cai na conta? Presentes pagos por Pix ou boleto viram crédito depois da confirmação do pagamento, e os pagos no cartão, em 15 dias corridos. O saque por Pix sai em até 1 dia útil, depois da validação de identidade.",
+          "O convidado pode parcelar o presente? Sim. No cartão, o convidado parcela em até 12x, com juros de 3,49% ao mês pagos por ele, e também pode pagar por Pix ou boleto."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Crie o site e a lista grátis no plano Basic.",
+      "label": "Criar a lista na Lejour",
+      "url": "https://painel.lejour.com.br/onboarding/inicio?affiliate=emcasacomcecilia&source=the-coachers",
+      "sponsored": true
+    },
+    "affiliate": "lejour",
+    "editorialNote": "Link de indicação: podemos receber comissão da Lejour, sem custo nem vantagem para o casal.",
+    "relatedArticles": [
+      {
+        "slug": "lejour-e-confiavel",
+        "title": "Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques"
+      },
+      {
+        "slug": "lejour-reclame-aqui-nota-reputacao",
+        "title": "Lejour no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "lista-de-casamento-lejour-como-criar",
+        "title": "Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes"
+      }
+    ]
+  },
+  {
+    "id": 427,
+    "slug": "lista-de-casamento-lejour-como-criar",
+    "title": "Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes",
+    "seoTitle": "Lista de casamento Lejour: como criar, passo a passo",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Passo a passo para criar a lista de casamento na Lejour: nomes do casal, data, tema do site, conta grátis, lista de presentes, quem paga a taxa e como sacar. Cadastro refeito até o painel em 14/10/2026.",
+    "metaDescription": "Como criar a lista de casamento na Lejour em 3 passos, com as telas do cadastro, a taxa dos presentes e o saque por Pix. Consulta de 14/10/2026.",
+    "publishedAt": "14 de outubro de 2026",
+    "publishedAtISO": "2026-10-14",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/lejour/lejour-lista-capa.webp",
+    "imageAlt": "Passo 3 do cadastro na Lejour: tela Qual tema vocês mais gostam, com a prévia do site e as quatro cores do tema",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "bullets": [
+          "O cadastro da lista de casamento na Lejour tem 3 passos e começa sem login: os nomes do casal, a data do casamento e o tema do site. Depois deles, abre o painel, e uma conta grátis guarda o que vocês fizeram. A lista de presentes é montada no menu \"Lista de presentes\".",
+          "Refizemos o cadastro em 14/10/2026, com dados de teste, até o painel. Da lista de presentes em diante, os passos seguem a central de ajuda da Lejour.",
+          "O link do botão da Lejour neste guia é de indicação: se vocês criarem a conta por ele, o Em Casa com Cecília pode receber uma comissão. Para o casal não muda nada: o plano grátis é o mesmo, não há desconto e não há cupom. As condições estão em [Lejour no Em Casa com Cecília](/cupons/lejour)."
+        ]
+      },
+      {
+        "heading": "Antes de começar: decidam no CPF de quem a lista fica",
+        "paragraphs": [
+          "O dinheiro dos presentes só sai por Pix para uma chave do mesmo CPF de quem publicou a lista, e a Lejour pede validação de identidade, com documento com foto e selfie, antes do primeiro saque. Por isso, combinem antes quem vai criar a conta e publicar a lista: ela deve ficar no CPF da pessoa que vai receber o dinheiro.",
+          "Os detalhes de prazo e segurança do saque estão em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "1. Abra a Lejour pelo link e digite os nomes do casal",
+        "paragraphs": [
+          "Abra a Lejour pelo botão deste guia. O cadastro começa na tela \"Queremos conhecer vocês\", com a pergunta \"Como vocês querem ser chamados?\". Há dois campos, \"Seu nome\" e \"Nome do seu amor\", separados por um \"&\". Os nomes digitados aparecem depois no topo do site do casal. Acima do título, uma barra de progresso marca \"1/3\"."
+        ],
+        "image": "/images/reviews/lejour/lejour-cadastro-01-nomes-do-casal.webp",
+        "imageAlt": "Passo 1 do cadastro na Lejour: tela Queremos conhecer vocês, com os campos de nome do casal e o progresso 1/3",
+        "imageCaption": "Passo 1 do cadastro na Lejour em 14/10/2026 (recorte do formulário): \"Queremos conhecer vocês\", com os campos de nome do casal e o progresso 1/3. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 2.2945
+      },
+      {
+        "heading": "2. Escolha a data do casamento",
+        "paragraphs": [
+          "O passo 2 faz a pergunta \"Quando será o grande dia?\" e mostra a data no formato dia/mês/ano. Logo abaixo, a Lejour avisa: \"Não se preocupem, vocês poderão alterar a data se precisarem!\". A barra de progresso marca \"2/3\"."
+        ],
+        "image": "/images/reviews/lejour/lejour-cadastro-02-data-do-casamento.webp",
+        "imageAlt": "Passo 2 do cadastro na Lejour: tela Quando será o grande dia, com o campo da data e o aviso de que ela pode ser alterada",
+        "imageCaption": "Passo 2 do cadastro na Lejour em 14/10/2026: \"Quando será o grande dia?\", com o aviso de que a data pode ser alterada depois. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 2.6432
+      },
+      {
+        "heading": "3. Escolha o tema do site",
+        "paragraphs": [
+          "O passo 3, \"Qual tema vocês mais gostam?\", mostra a prévia do site do casal e, abaixo dela, quatro bolinhas de cor, uma delas marcada. A Lejour avisa: \"Lembrando que vocês podem alterar o tema quando quiserem!\". A prévia traz o nome do casal no topo, a \"Mensagem inicial\" e a seção \"Sobre o casal\". A barra de progresso marca \"3/3\"."
+        ]
+      },
+      {
+        "heading": "4. Crie a conta grátis para salvar",
+        "paragraphs": [
+          "Depois do passo 3, abre o painel, mesmo sem login. No nosso teste, uma faixa vermelha no topo avisava: \"Você ainda não salvou suas alterações. Você está navegando sem login. Crie uma conta gratuita para guardar tudo e continuar de onde parou, leva menos de um minuto.\" Ao lado do texto, o botão \"Criar conta grátis\". A central de ajuda da Lejour também traz o cadastro e o login com Apple e Google.",
+          "O menu do painel tem cinco itens: Painel inicial, Personalizar site, Lista de presentes, Lista de convidados e Produtos Fast Shop. Em \"Personalizar site\", o topo da tela tem, entre outros, os botões Temas, Cores, Fontes e Elementos (o quinto aparece cortado no print), e a lista \"Conteúdo\" traz, além de \"Foto e frase inicial\", nove seções do site, cada uma com um botão para ligar e desligar:"
+        ],
+        "bullets": [
+          "Mensagem inicial;",
+          "Cerimônia e Recepção;",
+          "Contagem regressiva;",
+          "Lista de presentes;",
+          "Confirmação de presença;",
+          "Música;",
+          "Vídeo;",
+          "Capture;",
+          "Contribuições."
+        ],
+        "postParagraphs": [
+          "Música e Vídeo aparecem com um selo de coroa; na tabela de planos, música e vídeo são recursos do Premium e do Pro. Ao lado da lista, a prévia mostra o site como ele fica."
+        ],
+        "image": "/images/reviews/lejour/lejour-cadastro-04-painel-personalizar-site.webp",
+        "imageAlt": "Painel da Lejour sem login, com a faixa Criar conta grátis, o menu lateral e a lista de seções do site do casal",
+        "imageCaption": "Painel da Lejour em 14/10/2026, ainda sem login: a faixa \"Criar conta grátis\", o menu e a lista de seções do site. O marca-texto amarelo é nosso.",
+        "imageFit": "contain",
+        "imageAspectRatio": 1.107
+      },
+      {
+        "heading": "5. Monte a lista de presentes",
+        "paragraphs": [
+          "A lista de presentes fica no menu \"Lista de presentes\". Segundo a central de ajuda da Lejour, há três jeitos de montar a lista:"
+        ],
+        "bullets": [
+          "**Lista pronta.** São mais de 35 listas prontas, e dá para adicionar todos os itens de uma delas num clique.",
+          "**Catálogo.** Mais de 1.000 presentes para escolher um a um.",
+          "**Presente próprio.** O casal cria o presente com imagem, nome e valor."
+        ],
+        "postParagraphs": [
+          "A central também descreve uma calculadora que sugere a lista a partir do número de convidados, e a possibilidade de dividir um presente em cotas.",
+          "Os presentes da Lejour são virtuais: o convidado paga e o valor vira crédito em dinheiro para o casal, que saca por Pix."
+        ]
+      },
+      {
+        "heading": "6. Configure antes de divulgar: quem paga a taxa e o que acontece com o presente comprado",
+        "paragraphs": [
+          "Segundo a central de ajuda da Lejour, antes de mandar o link para os convidados, abra Configurações e entre em \"Sobre site e lista\". Duas escolhas ficam ali, e vale decidi-las agora.",
+          "**Quem paga a taxa.** A Lejour cobra uma taxa sobre cada presente: 3,89% no plano Basic, 3,29% no Premium e 2,99% no Pro (valores em 14/10/2026). O casal decide quem arca com ela, e são duas opções:"
+        ],
+        "postParagraphs": [
+          "Conta nossa, com os preços de 14/10/2026: num presente de R$ 200 no plano Basic, a taxa é de R$ 7,78. As taxas dos três planos e a diferença entre eles estão em [O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos](/reviews/lejour-como-funciona).",
+          "**O que acontece com o presente depois de comprado.** A mesma tela traz as opções \"Sair da lista\" e \"Permanecer na lista\": o casal escolhe o que acontece com o presente depois que um convidado o compra."
+        ],
+        "comparisonTable": {
+          "caption": "Quem paga a taxa da lista de presentes na Lejour (14/10/2026)",
+          "headers": [
+            "Opção",
+            "O que acontece"
+          ],
+          "rows": [
+            [
+              "O casal paga",
+              "A taxa sai do valor do presente, e o crédito que chega a vocês é menor que o valor pago pelo convidado"
+            ],
+            [
+              "Os convidados pagam",
+              "A taxa é somada ao valor do presente, e o convidado paga um pouco mais que o preço da lista"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "7. Ligue a confirmação de presença",
+        "paragraphs": [
+          "A confirmação de presença é uma das seções do site que se ligam e desligam em \"Personalizar site\", como mostra o passo 4. Segundo a central de ajuda da Lejour, ela pode ser restrita aos convidados da lista de convidados. Se vocês usam essa restrição, confiram antes quem está na lista de convidados do painel."
+        ]
+      },
+      {
+        "heading": "Depois do casamento: saque, validação e os 90 dias do site",
+        "paragraphs": [
+          "O dinheiro dos presentes fica como crédito no painel do casal. Pagamentos por Pix e boleto ficam disponíveis depois da confirmação do pagamento, e os de cartão, 15 dias corridos depois da compra.",
+          "O saque sai por Pix, em até 1 dia útil, depois da validação de identidade do primeiro saque. Em 14/10/2026, no plano Basic, os dois primeiros saques eram grátis e os seguintes custavam R$ 5 cada; Premium e Pro têm saques ilimitados.",
+          "O site do casal fica público até 90 dias depois do casamento. Passado esse prazo, os convidados deixam de acessá-lo, mas o painel de administração e o saldo continuam acessíveis. O que protege o saque e o saldo está em [Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques](/reviews/lejour-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Plano grátis ou pago?",
+        "paragraphs": [
+          "Criar a lista e o site é grátis no plano Basic; os planos Premium e Pro são pagos uma vez, baixam a taxa e liberam mais recursos, e a comparação completa está em [O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos](/reviews/lejour-como-funciona). O botão deste guia é de indicação, sem vantagem para o casal."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Como criar a lista de casamento na Lejour? Pelo link de cadastro, informe os nomes do casal, a data do casamento e o tema do site; o painel abre em seguida, mesmo sem login. Depois crie a conta grátis para guardar o que foi feito e monte a lista de presentes no menu \"Lista de presentes\".",
+          "Precisa pagar para criar a lista na Lejour? Não. O plano Basic é grátis, e a Lejour cobra uma taxa sobre cada presente recebido, de 3,89% no Basic em 14/10/2026. O casal escolhe se a taxa sai do valor que recebe ou se é somada ao que o convidado paga.",
+          "Dá para começar sem cadastro? Sim. Depois dos três passos, o painel abre com o aviso \"Você está navegando sem login\". Para guardar o que foi feito, é preciso criar uma conta gratuita.",
+          "Posso mudar a data e o tema depois? Sim. A própria Lejour avisa no cadastro que a data pode ser alterada se for preciso e que o tema pode ser trocado quando vocês quiserem.",
+          "Posso criar um presente com o valor que eu quiser? Pelo presente próprio, sim: segundo a central de ajuda da Lejour, o casal cria o presente com imagem, nome e valor.",
+          "Como os convidados acessam a lista? Pelo site do casal. Eles escolhem o presente, pagam por Pix, boleto ou cartão, e o valor vira crédito no painel de vocês.",
+          "Quem recebe o dinheiro da lista? O casal, por Pix, para uma chave do mesmo CPF de quem publicou a lista, depois de a Lejour validar a identidade com documento com foto e selfie."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Crie o site e a lista grátis no plano Basic.",
+      "label": "Criar a lista na Lejour",
+      "url": "https://painel.lejour.com.br/onboarding/inicio?affiliate=emcasacomcecilia&source=the-coachers",
+      "sponsored": true
+    },
+    "affiliate": "lejour",
+    "editorialNote": "Link de indicação: podemos receber comissão da Lejour, sem custo nem vantagem para o casal.",
+    "relatedArticles": [
+      {
+        "slug": "lejour-e-confiavel",
+        "title": "Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques"
+      },
+      {
+        "slug": "lejour-reclame-aqui-nota-reputacao",
+        "title": "Lejour no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "lejour-como-funciona",
+        "title": "O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos"
+      }
+    ]
   }
 ];
