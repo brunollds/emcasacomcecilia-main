@@ -27,8 +27,11 @@ se chama "Cupom de Desconto".
 
 Decisão do Bruno (13/10/2026): o título e o número da página dizem 10% OFF, pela concorrência na
 busca, e o aviso "chega a 10% e pode ser menor em alguns produtos" fica separado, no destaque, nas
-regras e na FAQ. O `test:coupon-offer-modes` falha se o aviso sumir do destaque. Soma com
-promoções e formas de pagamento não foram confirmadas: seguem "conforme regras da loja".
+regras e na FAQ. O `test:coupon-offer-modes` falha se o aviso sumir do destaque.
+
+Bruno (14/10/2026): o cupom vale em **todas as formas de pagamento** e vale para conta nova e para
+quem já comprou. A soma com promoções da loja segue sem confirmação. Prints do teste em
+`midia-staging/2026-10-14-onboarding-probiotica/checkout/`.
 
 ---
 
