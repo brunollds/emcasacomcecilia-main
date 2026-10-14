@@ -36,8 +36,7 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- [ ] [[sofa-na-caixa-inflow-ou-damie]] — DAMIE / Sofá na Caixa, Inflow ou DAMIE: qual a diferença e qual escolher (Score Aut: 78 / Conv: 84; pauta 3 da fila; Job 3 em 14/10/2026)
-- [ ] [[sofa-na-caixa-ou-sofa-montado-qual-dura-mais]] — DAMIE / Sofá na caixa ou sofá montado: qual dura mais? (Score Aut: 80 / Conv: 74; pauta 4 da fila; Job 3 em 14/10/2026)
+- *(Nenhum artigo no momento)*
 
 ---
 
@@ -90,6 +89,8 @@
 - [x] [[k-beauty-o-que-e-onde-comprar]] — YesStyle / K-Beauty: descubra por que virou febre mundial e onde comprar as marcas coreanas (No ar; família em 10 idiomas) 🚀
 - [x] [[dolce-gusto-genio-s-basic-vs-plus-vs-touch]] — Dolce Gusto (No ar) 🚀
 - [x] [[nutren-just-protein-para-que-serve]] — Nestlé Nutre (No ar) 🚀
+- [x] [[sofa-na-caixa-inflow-ou-damie]] — DAMIE / Sofá na Caixa, Inflow ou DAMIE: qual a diferença e qual escolher (No ar em 14/10/2026, PR #100 e revisão no PR #102, release `2ab132e`; Score Aut: 78 / Conv: 84; pauta 3 da fila; Job 3 em 14/10/2026) 🚀
+- [x] [[sofa-na-caixa-ou-sofa-montado-qual-dura-mais]] — DAMIE / Sofá na caixa ou sofá montado: qual dura mais? (No ar em 14/10/2026, PR #100 e revisão no PR #102, release `2ab132e`; Score Aut: 80 / Conv: 74; pauta 4 da fila; Job 3 em 14/10/2026) 🚀
 - [[tabela-medidas-dolce-gusto-ml-por-nivel]] ✅
 - [[dolce-gusto-mini-me-2-0-vale-a-pena]] ✅
 - [[aliv-head-gel-iws-mascara-termica-enxaqueca]] ✅
