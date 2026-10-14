@@ -6,7 +6,7 @@ import { trackEvent } from '@/lib/analytics';
 
 // Onde fica o link: os artigos da loja e o painel da Cecília na vitrine, o "Acabou de sair", a faixa
 // da data comercial na home e a página de cada data; na home de cada idioma (/en, /ja…), o hero, as
-// lojas, os artigos, as perguntas e as redes.
+// lojas, os artigos, as perguntas e as redes; no 404, os caminhos, os artigos e os outros idiomas.
 export type HomeRoutePlacement =
   | 'home_store_articles'
   | 'home_cecilia'
@@ -17,7 +17,8 @@ export type HomeRoutePlacement =
   | 'locale_home_stores'
   | 'locale_home_articles'
   | 'locale_home_faq'
-  | 'locale_home_follow';
+  | 'locale_home_follow'
+  | 'not_found';
 
 type HomeRouteClickInput = {
   href: string;

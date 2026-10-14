@@ -2608,6 +2608,26 @@ if (homeVideos) assertHomeVideoLinks(homeVideos);
   );
 }
 
+// O 404 do site (src/app/global-not-found.js), que o Next gera na build: o HTML inteiro, não o
+// __next_error__ vazio do bug vercel/next.js#99793, com menu, rodapé, noindex e uma linha por idioma.
+{
+  const notFoundHtml = read(path.join(APP_DIR, '_not-found.html'));
+  assert.match(notFoundHtml, /<html lang="pt-BR">/, '404: sem <html lang="pt-BR">');
+  assert.ok(!notFoundHtml.includes('__next_error__'), '404: HTML vazio de erro');
+  const expected: Array<[string, string]> = [
+    ['menu', '<nav'],
+    ['rodapé', '<footer'],
+    ['noindex', '<meta name="robots" content="noindex'],
+    ['título', '<title>Página não encontrada - Em Casa com Cecília</title>'],
+    ['h1', 'Esta página não existe</span></h1>'],
+    ['busca', 'placeholder="Buscar receitas e artigos"'],
+  ];
+  for (const [label, needle] of expected) assert.ok(notFoundHtml.includes(needle), `404: sem ${label}`);
+  for (const locale of LOCALE_KEYS.filter((key) => key !== 'pt')) {
+    assert.ok(notFoundHtml.includes(`<li lang="${LOCALES[locale].htmlLang}"`), `404: sem a linha do idioma ${locale}`);
+  }
+}
+
 // O feed do Dicas & Ofertas e a API do YouTube decidem na hora do build se ofertas e vídeos
 // aparecem; a linha final diz quantos cards cada um teve, para o log do build mostrar.
 const cardsIn = (section: string) => {
@@ -2617,5 +2637,5 @@ const cardsIn = (section: string) => {
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
+  `✅ build output: CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o <head> de ${familyHeads} artigos de família, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
 );

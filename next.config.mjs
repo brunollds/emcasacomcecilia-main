@@ -62,6 +62,9 @@ const nextConfig = {
   reactStrictMode: true,
   experimental: {
     cpus: 1,
+    // Com vários layouts raiz ((pt), (en)… e [locale]), é o que dá ao 404 do site menu, rodapé e HTML
+    // completo (src/app/global-not-found.js; ver "404 e rotas dinâmicas" no CLAUDE.md).
+    globalNotFound: true,
   },
   images: {
     remotePatterns: IMAGE_REMOTE_PATTERNS,

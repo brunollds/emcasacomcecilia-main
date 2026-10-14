@@ -47,7 +47,10 @@ export default function OmniSearch({
   placeholder = 'Buscar Receitas e Artigos',
   autoFocus = false,
   emphasis = false,
+  // 'dark' no fundo marinho do header; 'light' em página branca, como o 404.
+  tone = 'dark',
 }) {
+  const light = tone === 'light';
   const [query, setQuery] = useState('');
   const [index, setIndex] = useState(null);
   const [results, setResults] = useState([]);
@@ -158,7 +161,9 @@ export default function OmniSearch({
   return (
     <div ref={searchRef} className="relative w-full">
       <div className="relative">
-        <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-white/60" />
+        <Search
+          className={`pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 ${light ? 'text-marinho-suave' : 'text-white/60'}`}
+        />
         <input
           type="text"
           autoFocus={autoFocus}
@@ -176,10 +181,14 @@ export default function OmniSearch({
           onFocus={handleFocus}
           placeholder={placeholder}
           aria-label="Buscar no site"
-          className={`w-full rounded-full py-2.5 pl-10 pr-9 text-sm text-white placeholder-white/50 transition-all focus:outline-none ${
-            emphasis
-              ? 'border-2 border-[#ff6b35]/70 bg-white/15 shadow-lg shadow-black/15 focus:border-[#ff8a5c] focus:bg-white/20'
-              : 'border border-white/20 bg-white/10 focus:border-white/40 focus:bg-white/20'
+          className={`w-full rounded-full py-2.5 pl-10 pr-9 text-sm transition-all focus:outline-none ${
+            light
+              ? 'border-2 border-marinho bg-white font-semibold text-marinho placeholder-marinho-suave focus:border-laranja'
+              : `text-white placeholder-white/50 ${
+                  emphasis
+                    ? 'border-2 border-[#ff6b35]/70 bg-white/15 shadow-lg shadow-black/15 focus:border-[#ff8a5c] focus:bg-white/20'
+                    : 'border border-white/20 bg-white/10 focus:border-white/40 focus:bg-white/20'
+                }`
           }`}
         />
         {query && (
@@ -187,7 +196,7 @@ export default function OmniSearch({
             type="button"
             onClick={clearQuery}
             aria-label="Limpar busca"
-            className="absolute right-3 top-1/2 -translate-y-1/2 text-white/60 transition-colors hover:text-white"
+            className={`absolute right-3 top-1/2 -translate-y-1/2 transition-colors ${light ? 'text-marinho-suave hover:text-marinho' : 'text-white/60 hover:text-white'}`}
           >
             <X className="h-4 w-4" />
           </button>
