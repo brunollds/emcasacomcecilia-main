@@ -6,9 +6,9 @@ parceiro: "[[DAMIE]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy-com-ok-do-bruno"
+proxima_acao: "nenhuma"
 bloqueado_por: null
 score_autoridade: 80
 score_conversao: 74
