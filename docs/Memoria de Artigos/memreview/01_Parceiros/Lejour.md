@@ -30,7 +30,9 @@ de link sem código nenhum: o cadastro do casal pelo link é a indicação.
 | Fato / Especificação | Tipo | Fonte | Consultado Em | Rever Até | Notas |
 |---|---|---|---|---|---|
 | Plataforma brasileira de casamento: site do casal e lista de presentes ("Crie seu site de casamento grátis e lista de presentes") | fato_oficial | Título do site lejour.com.br | 2026-10-13 | 2027-01-13 | Site em WordPress; o painel fica em painel.lejour.com.br |
-| Logotipo do site aparece junto com o da Fast Shop ("Fast Shop + le jour") | fato_oficial | Cabeçalho de lejour.com.br | 2026-10-13 | 2027-01-13 | Notícias de 2022–2023 tratam a Lejour como startup da Fast Shop; reconfirmar antes de citar |
+| Logotipo do site aparece junto com o da Fast Shop ("Fast Shop + le jour") | fato_oficial | Cabeçalho de lejour.com.br | 2026-10-13 | 2027-01-13 | A parceria segue valendo (Bruno, 14/10/2026); a Fast Shop apresenta a "lista Lejour + Fast Shop" em `site.fastshop.com.br/lista-de-casamento`, com cashback mínimo de 4% nas compras com o crédito. Não há fonte oficial de aquisição: tratar como parceria |
+| Empresa: Lejour Presentes Ltda., CNPJ 29.009.811/0001-35, São Paulo (SP), ativa desde 07/11/2017 | fato_oficial | Rodapé e BrasilAPI | 2026-10-14 | 2027-01-13 | |
+| Presentes virtuais, que viram crédito; convidado paga por Pix, boleto ou cartão em até 12x (juros de 3,49% ao mês pagos por ele); crédito liberado na confirmação (Pix e boleto) ou em 15 dias (cartão); saque por Pix em até 1 dia útil para chave do CPF que publicou a lista, com validação de identidade antes do primeiro; site público até 90 dias depois do casamento | fato_oficial | Central de ajuda (`lejour.com.br/faq` e artigos do blog) | 2026-10-14 | 2027-01-13 | O casal escolhe quem paga a taxa. Prints do cadastro, dos planos e do Reclame Aqui em `midia-staging/2026-10-14-onboarding-lejour/` |
 
 ---
 
