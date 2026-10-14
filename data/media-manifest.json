@@ -572,6 +572,82 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/about/partners/clea-store-icon.png",
+      "local_url": "/images/about/partners/clea-store-icon.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 11499,
+      "sha256": "fcf9954a78dda2ad0c0eb3973b8c9e6ebc3494629b02b5f9b72d5a09192bc856",
+      "width": 256,
+      "height": 256,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "clea-store-icon.png",
+      "storage_filename": "clea-store-icon.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 1510,
+          "column": 17,
+          "literal": "/images/about/partners/clea-store-icon.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/fcf9954a78dda2ad0c0eb3973b8c9e6ebc3494629b02b5f9b72d5a09192bc856/clea-store-icon.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fcf9954a78dda2ad0c0eb3973b8c9e6ebc3494629b02b5f9b72d5a09192bc856/clea-store-icon.png",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T22:52:53.437Z",
+      "verification_etag_or_digest": "fcf9954a78dda2ad0c0eb3973b8c9e6ebc3494629b02b5f9b72d5a09192bc856",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/about/partners/clea-store.png",
+      "local_url": "/images/about/partners/clea-store.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 18133,
+      "sha256": "7704e48f8b154e42ed5fce96cb0289055c9d8797a42eebd3a494d144aca62bcf",
+      "width": 600,
+      "height": 100,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "clea-store.png",
+      "storage_filename": "clea-store.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/app/(pt)/sobre/page.js"
+      ],
+      "references": [
+        {
+          "file": "src/app/(pt)/sobre/page.js",
+          "line": 99,
+          "column": 31,
+          "literal": "/images/about/partners/clea-store.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7704e48f8b154e42ed5fce96cb0289055c9d8797a42eebd3a494d144aca62bcf/clea-store.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7704e48f8b154e42ed5fce96cb0289055c9d8797a42eebd3a494d144aca62bcf/clea-store.png",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T22:52:53.438Z",
+      "verification_etag_or_digest": "7704e48f8b154e42ed5fce96cb0289055c9d8797a42eebd3a494d144aca62bcf",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/about/partners/damie.jpg",
       "local_url": "/images/about/partners/damie.jpg",
       "media_kind": "image",
@@ -1203,6 +1279,82 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.365Z",
       "verification_etag_or_digest": "7fed97913b6f49915e67032ff0611e831ef7bed65c55cf56ac53398e06553c72",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/about/partners/max-titanium-icon.png",
+      "local_url": "/images/about/partners/max-titanium-icon.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 8266,
+      "sha256": "eae29880f2933ba589a1f1e6a58508749ffe767378f8ae7c75f37c918faa3b3f",
+      "width": 256,
+      "height": 256,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "max-titanium-icon.png",
+      "storage_filename": "max-titanium-icon.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 1223,
+          "column": 17,
+          "literal": "/images/about/partners/max-titanium-icon.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/eae29880f2933ba589a1f1e6a58508749ffe767378f8ae7c75f37c918faa3b3f/max-titanium-icon.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/eae29880f2933ba589a1f1e6a58508749ffe767378f8ae7c75f37c918faa3b3f/max-titanium-icon.png",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T22:52:53.438Z",
+      "verification_etag_or_digest": "eae29880f2933ba589a1f1e6a58508749ffe767378f8ae7c75f37c918faa3b3f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/about/partners/max-titanium.png",
+      "local_url": "/images/about/partners/max-titanium.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 21802,
+      "sha256": "e4673f309e6b152808c45ba4dc438b6fb27ef701879281165ad5a3db93bba5eb",
+      "width": 600,
+      "height": 170,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "max-titanium.png",
+      "storage_filename": "max-titanium.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/app/(pt)/sobre/page.js"
+      ],
+      "references": [
+        {
+          "file": "src/app/(pt)/sobre/page.js",
+          "line": 98,
+          "column": 33,
+          "literal": "/images/about/partners/max-titanium.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e4673f309e6b152808c45ba4dc438b6fb27ef701879281165ad5a3db93bba5eb/max-titanium.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e4673f309e6b152808c45ba4dc438b6fb27ef701879281165ad5a3db93bba5eb/max-titanium.png",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T22:52:53.438Z",
+      "verification_etag_or_digest": "e4673f309e6b152808c45ba4dc438b6fb27ef701879281165ad5a3db93bba5eb",
       "verification_status": "verified"
     },
     {
@@ -21355,6 +21507,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/logos/watermarks/clea-store.webp",
+      "local_url": "/images/logos/watermarks/clea-store.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 5828,
+      "sha256": "8ccc0fe65e5eb7774190aa03c5e9491f9f6c1ea2e08bee83d0d7d08137dc6efa",
+      "width": 480,
+      "height": 80,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "clea-store.webp",
+      "storage_filename": "clea-store.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 1512,
+          "column": 22,
+          "literal": "/images/logos/watermarks/clea-store.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/8ccc0fe65e5eb7774190aa03c5e9491f9f6c1ea2e08bee83d0d7d08137dc6efa/clea-store.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8ccc0fe65e5eb7774190aa03c5e9491f9f6c1ea2e08bee83d0d7d08137dc6efa/clea-store.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T22:52:53.438Z",
+      "verification_etag_or_digest": "8ccc0fe65e5eb7774190aa03c5e9491f9f6c1ea2e08bee83d0d7d08137dc6efa",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/logos/watermarks/damie.webp",
       "local_url": "/images/logos/watermarks/damie.webp",
       "media_kind": "image",
@@ -21656,6 +21846,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-05T19:55:06.188Z",
       "verification_etag_or_digest": "d980627f09b6513cadfedd17e10c4760f3c6467ad7cce14a960c2e3b80f64db0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/watermarks/max-titanium.webp",
+      "local_url": "/images/logos/watermarks/max-titanium.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 5980,
+      "sha256": "f856065a64fb55fa7ce2202a570c0d4467f874108d7b07373734fe340a8de906",
+      "width": 480,
+      "height": 136,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "max-titanium.webp",
+      "storage_filename": "max-titanium.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 1225,
+          "column": 22,
+          "literal": "/images/logos/watermarks/max-titanium.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f856065a64fb55fa7ce2202a570c0d4467f874108d7b07373734fe340a8de906/max-titanium.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f856065a64fb55fa7ce2202a570c0d4467f874108d7b07373734fe340a8de906/max-titanium.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T22:52:53.438Z",
+      "verification_etag_or_digest": "f856065a64fb55fa7ce2202a570c0d4467f874108d7b07373734fe340a8de906",
       "verification_status": "verified"
     },
     {
