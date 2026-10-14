@@ -206,12 +206,11 @@ FAQ:
 ---
 
 ## 11. Pontos para o Bruno e pendências
-1. **Reclame Aqui (opcional):** prints do topo e da aba 6 meses da Inflow e da Sofá na Caixa, e da
-   DAMIE, para atualizar. Com eles, a seção de reputação ganha uma tabela das três; sem eles, fica a
-   frase com o link para o artigo da crise.
-2. **Experiência da Cecília:** o artigo de experiência com o sofá da DAMIE é de junho de 2026. Há
-   algo novo a dizer depois de alguns meses de uso (espuma, tecido, encaixe)? Uma ou duas frases
-   reais valem mais que a ficha.
+1. **Reclame Aqui:** prints das três de 14/10/2026 recebidos (topo, 6 meses e principais problemas).
+2. **Experiência da Cecília (Bruno, 14/10/2026), para usar na voz dela, quase literal:**
+   "O meu sofá Damie já se tornou um dos móveis mais usados na rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família em casa, conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). Posso dizer que tem um uso moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais. Não tem como se arrepender de comprar um sofá desses."
+   A "parte elétrica" é a do sofá da Cecília (conferir na redação o que ele tem: módulo reclinável
+   elétrico, tomada ou USB), sem generalizar para todo sofá modular da DAMIE.
 
 ---
 

@@ -138,7 +138,7 @@ checklist para comparar qualquer sofá, na caixa ou montado.
 | "Densidade maior dura mais" | Afirmação geral | Fonte jornalística (Olhar Digital) | — | 2026-10-14 | [ ] Não como regra. Dizer só que a densidade é um dos números a pedir na ficha |
 | "Espuma compactada perde volume" ou "sofá na caixa dura X anos" | — | Sem fonte | — | — | [ ] Não |
 | Sofá montado: chega pronto, mas precisa passar pela porta, pelo elevador e pela escada; o sofá na caixa resolve isso | Fato geral | Página da Inflow ("compactos na embalagem") e dossiê da DAMIE (passagem da reclinável a partir de 65 cm) | — | 2026-10-14 | [x] Sim, sem medida de porta para o sofá: a DAMIE não publica a do sofá |
-| Experiência da Cecília: uso do sofá modular da DAMIE desde junho de 2026 | Experiência própria | `sofa-damie-modular-vale-a-pena` | — | 2026-06 | [x] Sim, com o tempo de uso real. Atualização depende do Bruno (seção 11) |
+| Experiência da Cecília: o sofá da DAMIE, em uso de moderado a intenso desde a compra (receber visitas, família, brincar com os filhos, ler, cochilar), "continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais" | Experiência própria | Bruno, 14/10/2026 (seção 11) | — | 2026-10-14 | [x] Sim, na voz da Cecília, com o tempo de uso real (desde junho de 2026). É experiência de meses, não de anos: o texto não extrapola |
 | CECILIA12: 12% em todo o site da DAMIE | Condição comercial | `couponsData.ts` | — | 2026-10-14 | [x] Sim |
 
 ---
@@ -195,10 +195,11 @@ FAQ:
 ---
 
 ## 11. Pontos para o Bruno e pendências
-1. **Experiência da Cecília (importante):** o sofá da DAMIE está em uso desde junho. Como estão hoje
-   a espuma (afundou? voltou ao lugar?), o tecido e o encaixe dos módulos? Duas ou três frases reais
-   são o diferencial deste artigo diante do Copilot. Se houver uma foto atual do sofá, melhor ainda.
-2. **Hero:** foto do sofá da Cecília, se houver uma nova.
+1. **Experiência da Cecília (Bruno, 14/10/2026), para usar na voz dela, quase literal:**
+   "O meu sofá Damie já se tornou um dos móveis mais usados na rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família em casa, conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). Posso dizer que tem um uso moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais. Não tem como se arrepender de comprar um sofá desses."
+   Vai na seção 9 do esqueleto e numa linha da resposta rápida. A "parte elétrica" é a do sofá da
+   Cecília: conferir na redação o que ele tem, sem generalizar.
+2. **Hero:** foto do sofá da Cecília, se houver uma nova; senão, a do artigo de experiência.
 
 ---
 
