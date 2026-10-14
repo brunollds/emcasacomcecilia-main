@@ -13,6 +13,9 @@
 - [ ] [[dr-peanut-e-confiavel]] — Dr. Peanut / Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete (Score Aut: 74 / Conv: 72; onboarding)
 - [ ] [[dr-peanut-reclame-aqui-nota-reputacao]] — Dr. Peanut / Dr. Peanut no Reclame Aqui (Score Aut: 72 / Conv: 62; onboarding)
 - [ ] [[cupom-dr-peanut-como-usar]] — Dr. Peanut / Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site (Score Aut: 70 / Conv: 88; onboarding)
+- [ ] [[black-skull-e-confiavel]] — Black Skull / Black Skull é confiável? De quem é a marca, site oficial, trocas e frete (Score Aut: 76 / Conv: 74; onboarding)
+- [ ] [[black-skull-reclame-aqui-nota-reputacao]] — Black Skull / Black Skull no Reclame Aqui (Score Aut: 74 / Conv: 64; onboarding)
+- [ ] [[cupom-black-skull-como-usar]] — Black Skull / Cupom Black Skull CECILIA10: como usar os 10% em todo o site (Score Aut: 70 / Conv: 90; onboarding)
 
 ---
 

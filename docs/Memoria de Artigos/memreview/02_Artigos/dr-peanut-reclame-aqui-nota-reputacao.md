@@ -106,7 +106,7 @@ no navegador automatizado.
 | **12 meses** (01/10/2025 a 30/09/2026): ÓTIMA, nota 8,1; 189 reclamações; 98,4% respondidas; 3 aguardando; 89,4% resolvidas; 66% voltariam; 94 avaliadas; nota do consumidor 6,94; resposta em 11 dias e 6 horas | Dado público | Idem | `03-aba-12-meses.png` | 2026-10-14 | [x] Sim |
 | **2025** (01/01 a 31/12/2025): BOA, nota 7,1; 510 reclamações; 99,6% respondidas; 0 aguardando; 79,5% resolvidas; 57,1% voltariam; 268 avaliadas; nota do consumidor 5,41; resposta em 10 dias e 4 horas | Dado público | Idem | `04-aba-2025.png` | 2026-10-14 | [x] Sim |
 | Leitura: as reclamações caíram (510 em 2025, 189 em 12 meses, 68 nos últimos 6); a resposta ficou mais rápida (7 dias contra 10 a 11); mas a nota de 6 meses (7,4) ficou abaixo da de 12 meses (8,1), e o selo caiu de Ótima para Boa | Análise | Prints | — | 2026-10-14 | [x] Sim, em frases diretas |
-| Principais problemas (categorias e produtos) | Dado público | Perfil | Sem print | — | [ ] Não. Se o Bruno mandar o print, entra a seção "O que mais aparece nas reclamações" (seção 11) |
+| Principais problemas (até 3 anos, aba geral): categoria Problemas na Loja 35,04%; problema Não recebi 33,36%; produto Entrega 34% | Dado público | Perfil | `05-principais-problemas.png` (Bruno, 14/10/2026) | 2026-10-14 | [x] Sim. A queixa principal é entrega e pedido não recebido, não o produto |
 | O selo "RA 4.7 Ótimo" do rodapé | Selo da loja | Rodapé (print) | — | 2026-10-14 | [x] Sim, numa frase neutra: "o site mostra um selo do Reclame Aqui; o perfil, em 14/10, mostrava…". Sem acusar |
 | Caminho do pós-venda: sac@supley.com.br; 7 dias de arrependimento; troca por outro produto com frete do cliente; defeito em 30 ou 90 dias com coleta paga pela loja; recusar na entrega se houver avaria | Política | Política de Trocas e Devoluções (Bruno, 14/10) | Ver [[dr-peanut-e-confiavel]] | 2026-10-14 | [x] Sim |
 | Nome de consumidor ou texto literal de reclamação | — | — | — | — | [ ] Não |
@@ -134,10 +134,12 @@ no navegador automatizado.
 2. **Por que olhar o Reclame Aqui antes de comprar na Dr. Peanut.**
 3. **Os números da Dr. Peanut no Reclame Aqui:** tabela de 6 meses, 12 meses e 2025.
 4. **O que os números mostram:** menos reclamações e resposta mais rápida, mas o selo recente caiu.
-5. **O selo do site e o perfil do Reclame Aqui.**
-6. **Se o seu pedido der problema: o que fazer.**
-7. **Parceria e cupom.**
-8. **Perguntas frequentes.**
+5. **O que mais aparece nas reclamações:** pedido não recebido e entrega, com a dica de conferir o
+   rastreio e recusar na porta a caixa avariada.
+6. **O selo do site e o perfil do Reclame Aqui.**
+7. **Se o seu pedido der problema: o que fazer.**
+8. **Parceria e cupom.**
+9. **Perguntas frequentes.**
 
 FAQ:
 - A Dr. Peanut é confiável segundo o Reclame Aqui?
@@ -156,12 +158,10 @@ FAQ:
 ---
 
 ## 11. Pontos para o Bruno e pendências
-1. **Principais problemas:** falta o print de "Principais problemas comentados", como o da
-   Probiótica. Sem ele, o artigo não tem a seção do que mais aparece nas reclamações. É opcional,
-   mas é a seção mais útil do artigo da Probiótica.
+1. **Principais problemas:** print recebido em 14/10/2026 (`05-principais-problemas.png`).
 
 ---
 
 ## 12. Registro da pesquisa (14/10/2026)
 - Autocompletar: "dr peanut reclame aqui".
-- Prints do Bruno: topo e abas 6 meses, 12 meses e 2025.
+- Prints do Bruno: topo, abas 6 meses, 12 meses e 2025 e principais problemas.

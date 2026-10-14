@@ -120,6 +120,7 @@ mostrou isso, inclusive no item em promoção.
 | Não há link de afiliado: basta digitar o código no site oficial | Condição comercial | Dossiê (`offerUrl` = site oficial) | — | 2026-10-14 | [x] Sim. O passo 1 é "entre no site oficial", sem "link da parceria" |
 | Frete grátis: R$ 149,90 em SP capital, Sudeste e Sul; R$ 199,90 no Centro-Oeste, Nordeste e Norte; na entrega mais barata | Política | Política de Frete Grátis (texto colado pelo Bruno) | Lista por região | 2026-10-14 | [x] Sim |
 | O mínimo do frete grátis conta o total já com o cupom; abaixo dele, o frete volta a ser cobrado | Política | Idem e faixa do carrinho (print `01`) | "o valor total da sua compra, já com cupom de desconto aplicado, precisa ser igual ou superior ao valor de R$ 149,90" | 2026-10-14 | [x] Sim. É o aviso principal da seção |
+| O cupom vale para conta nova e para quem já comprou | Condição comercial | Bruno, 14/10/2026 | Chat | 2026-10-14 | [x] Sim. Responde a "cupom dr peanut primeira compra" |
 | Código de influenciador ou nome de influenciador | — | — | — | — | [ ] Nunca |
 
 ---
@@ -157,7 +158,8 @@ mostrou isso, inclusive no item em promoção.
 
 FAQ:
 - Qual é o cupom da Dr. Peanut?
-- Tem cupom de primeira compra na Dr. Peanut? (seção 11)
+- Tem cupom de primeira compra na Dr. Peanut? Sim: o DREMCASACOMCECILIA vale na primeira compra e
+  nas seguintes.
 - O cupom da Dr. Peanut vale em produto em promoção?
 - O cupom vale em todas as formas de pagamento?
 - O cupom da Dr. Peanut dá frete grátis?
@@ -174,8 +176,9 @@ FAQ:
 ---
 
 ## 11. Pontos para o Bruno e pendências
-1. **Primeira compra:** como na Probiótica, o DREMCASACOMCECILIA vale para conta nova e para quem já
-   comprou? O `reusable` de `couponsData.ts` está "Conforme regras da loja".
+1. **Primeira compra:** o Bruno confirmou em 14/10/2026 que o código vale para conta nova e para quem
+   já comprou. O `reusable` de `couponsData.ts` ("Conforme regras da loja") fica para a sessão de
+   cupons.
 
 ---
 
