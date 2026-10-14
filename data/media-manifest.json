@@ -458,6 +458,82 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/about/partners/black-skull-icon.png",
+      "local_url": "/images/about/partners/black-skull-icon.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 8583,
+      "sha256": "dffc19d6e856f088b589525d6382845b02d645fda7878c59681f549568077238",
+      "width": 256,
+      "height": 256,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "black-skull-icon.png",
+      "storage_filename": "black-skull-icon.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 1291,
+          "column": 17,
+          "literal": "/images/about/partners/black-skull-icon.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/dffc19d6e856f088b589525d6382845b02d645fda7878c59681f549568077238/black-skull-icon.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/dffc19d6e856f088b589525d6382845b02d645fda7878c59681f549568077238/black-skull-icon.png",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T02:10:23.872Z",
+      "verification_etag_or_digest": "dffc19d6e856f088b589525d6382845b02d645fda7878c59681f549568077238",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/about/partners/black-skull.png",
+      "local_url": "/images/about/partners/black-skull.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 22161,
+      "sha256": "e43748aa11a5f2cf6538884535ecd58bd423f48f15b7b647c58ff613c6344c09",
+      "width": 600,
+      "height": 116,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "black-skull.png",
+      "storage_filename": "black-skull.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/app/(pt)/sobre/page.js"
+      ],
+      "references": [
+        {
+          "file": "src/app/(pt)/sobre/page.js",
+          "line": 95,
+          "column": 32,
+          "literal": "/images/about/partners/black-skull.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/e43748aa11a5f2cf6538884535ecd58bd423f48f15b7b647c58ff613c6344c09/black-skull.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e43748aa11a5f2cf6538884535ecd58bd423f48f15b7b647c58ff613c6344c09/black-skull.png",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T02:10:23.872Z",
+      "verification_etag_or_digest": "e43748aa11a5f2cf6538884535ecd58bd423f48f15b7b647c58ff613c6344c09",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/about/partners/carolina-baby.webp",
       "local_url": "/images/about/partners/carolina-baby.webp",
       "media_kind": "image",
@@ -864,6 +940,82 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/about/partners/lejour-icon.png",
+      "local_url": "/images/about/partners/lejour-icon.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 11868,
+      "sha256": "ef2f5ed78597538d7af6504e2e6dbe8e2732708563afe5633422850a48fd66df",
+      "width": 256,
+      "height": 256,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "lejour-icon.png",
+      "storage_filename": "lejour-icon.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 1361,
+          "column": 17,
+          "literal": "/images/about/partners/lejour-icon.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ef2f5ed78597538d7af6504e2e6dbe8e2732708563afe5633422850a48fd66df/lejour-icon.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ef2f5ed78597538d7af6504e2e6dbe8e2732708563afe5633422850a48fd66df/lejour-icon.png",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T02:10:23.872Z",
+      "verification_etag_or_digest": "ef2f5ed78597538d7af6504e2e6dbe8e2732708563afe5633422850a48fd66df",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/about/partners/lejour.png",
+      "local_url": "/images/about/partners/lejour.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 68824,
+      "sha256": "54a5cbaed31f02f40a0ac729f006b9264481def7534799b321f824f62cd9e320",
+      "width": 600,
+      "height": 368,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "lejour.png",
+      "storage_filename": "lejour.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/app/(pt)/sobre/page.js"
+      ],
+      "references": [
+        {
+          "file": "src/app/(pt)/sobre/page.js",
+          "line": 96,
+          "column": 27,
+          "literal": "/images/about/partners/lejour.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/54a5cbaed31f02f40a0ac729f006b9264481def7534799b321f824f62cd9e320/lejour.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/54a5cbaed31f02f40a0ac729f006b9264481def7534799b321f824f62cd9e320/lejour.png",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T02:10:23.872Z",
+      "verification_etag_or_digest": "54a5cbaed31f02f40a0ac729f006b9264481def7534799b321f824f62cd9e320",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/about/partners/letseatit-icon.png",
       "local_url": "/images/about/partners/letseatit-icon.png",
       "media_kind": "image",
@@ -1127,6 +1279,82 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.365Z",
       "verification_etag_or_digest": "43c9750d6328880dd6eedc7f2f2a2fba7b1954603c35a01a0a1c096629c66ee5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/about/partners/probiotica-icon.png",
+      "local_url": "/images/about/partners/probiotica-icon.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 7337,
+      "sha256": "5f86191081a23895d7b019770d5e7411dd85d8b56dacbf643f2708e57bcd331a",
+      "width": 256,
+      "height": 256,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "probiotica-icon.png",
+      "storage_filename": "probiotica-icon.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 1152,
+          "column": 17,
+          "literal": "/images/about/partners/probiotica-icon.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/5f86191081a23895d7b019770d5e7411dd85d8b56dacbf643f2708e57bcd331a/probiotica-icon.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5f86191081a23895d7b019770d5e7411dd85d8b56dacbf643f2708e57bcd331a/probiotica-icon.png",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T02:10:23.872Z",
+      "verification_etag_or_digest": "5f86191081a23895d7b019770d5e7411dd85d8b56dacbf643f2708e57bcd331a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/about/partners/probiotica.png",
+      "local_url": "/images/about/partners/probiotica.png",
+      "media_kind": "image",
+      "mime": "image/png",
+      "mime_extension_match": true,
+      "bytes": 28453,
+      "sha256": "966b5687f82e389008e13867ace4fbb6b90c81c8cd58712a58bf6ea83fa83c18",
+      "width": 600,
+      "height": 132,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "probiotica.png",
+      "storage_filename": "probiotica.png",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/app/(pt)/sobre/page.js"
+      ],
+      "references": [
+        {
+          "file": "src/app/(pt)/sobre/page.js",
+          "line": 94,
+          "column": 31,
+          "literal": "/images/about/partners/probiotica.png",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/966b5687f82e389008e13867ace4fbb6b90c81c8cd58712a58bf6ea83fa83c18/probiotica.png",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/966b5687f82e389008e13867ace4fbb6b90c81c8cd58712a58bf6ea83fa83c18/probiotica.png",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T02:10:23.872Z",
+      "verification_etag_or_digest": "966b5687f82e389008e13867ace4fbb6b90c81c8cd58712a58bf6ea83fa83c18",
       "verification_status": "verified"
     },
     {
@@ -21013,6 +21241,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/logos/watermarks/black-skull.webp",
+      "local_url": "/images/logos/watermarks/black-skull.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 7908,
+      "sha256": "3512b08f567254eb99fb84728956b2251672b68cbedb984c080154c2c97dbbf5",
+      "width": 480,
+      "height": 92,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "black-skull.webp",
+      "storage_filename": "black-skull.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 1293,
+          "column": 22,
+          "literal": "/images/logos/watermarks/black-skull.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3512b08f567254eb99fb84728956b2251672b68cbedb984c080154c2c97dbbf5/black-skull.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3512b08f567254eb99fb84728956b2251672b68cbedb984c080154c2c97dbbf5/black-skull.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T02:10:23.872Z",
+      "verification_etag_or_digest": "3512b08f567254eb99fb84728956b2251672b68cbedb984c080154c2c97dbbf5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/logos/watermarks/damie.webp",
       "local_url": "/images/logos/watermarks/damie.webp",
       "media_kind": "image",
@@ -21165,6 +21431,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/logos/watermarks/lejour.webp",
+      "local_url": "/images/logos/watermarks/lejour.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15750,
+      "sha256": "4b0c4593fbdaf5939f117ad127f25c2a80d8ecca2902a38ce2c9f0f9875c96aa",
+      "width": 480,
+      "height": 294,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "lejour.webp",
+      "storage_filename": "lejour.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 1363,
+          "column": 22,
+          "literal": "/images/logos/watermarks/lejour.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4b0c4593fbdaf5939f117ad127f25c2a80d8ecca2902a38ce2c9f0f9875c96aa/lejour.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4b0c4593fbdaf5939f117ad127f25c2a80d8ecca2902a38ce2c9f0f9875c96aa/lejour.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T02:10:23.872Z",
+      "verification_etag_or_digest": "4b0c4593fbdaf5939f117ad127f25c2a80d8ecca2902a38ce2c9f0f9875c96aa",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/logos/watermarks/letseatit.webp",
       "local_url": "/images/logos/watermarks/letseatit.webp",
       "media_kind": "image",
@@ -21276,6 +21580,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-05T19:55:06.188Z",
       "verification_etag_or_digest": "b4bac3300c08475a7a665acb1488f67fe97d6daaae915d5bde77bd66c61d5d7f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/logos/watermarks/probiotica.webp",
+      "local_url": "/images/logos/watermarks/probiotica.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 7400,
+      "sha256": "235bf9aba994e0bbaf08eb3a973ed63d955602ef26fa21a910487cb0f1da3643",
+      "width": 480,
+      "height": 106,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "probiotica.webp",
+      "storage_filename": "probiotica.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 1154,
+          "column": 22,
+          "literal": "/images/logos/watermarks/probiotica.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/235bf9aba994e0bbaf08eb3a973ed63d955602ef26fa21a910487cb0f1da3643/probiotica.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/235bf9aba994e0bbaf08eb3a973ed63d955602ef26fa21a910487cb0f1da3643/probiotica.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-10-14T02:10:23.872Z",
+      "verification_etag_or_digest": "235bf9aba994e0bbaf08eb3a973ed63d955602ef26fa21a910487cb0f1da3643",
       "verification_status": "verified"
     },
     {
