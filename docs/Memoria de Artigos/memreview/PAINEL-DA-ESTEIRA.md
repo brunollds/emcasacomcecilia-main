@@ -16,6 +16,10 @@
 - [ ] [[black-skull-e-confiavel]] — Black Skull / Black Skull é confiável? De quem é a marca, site oficial, trocas e frete (Score Aut: 76 / Conv: 74; onboarding)
 - [ ] [[black-skull-reclame-aqui-nota-reputacao]] — Black Skull / Black Skull no Reclame Aqui (Score Aut: 74 / Conv: 64; onboarding)
 - [ ] [[cupom-black-skull-como-usar]] — Black Skull / Cupom Black Skull CECILIA10: como usar os 10% em todo o site (Score Aut: 70 / Conv: 90; onboarding)
+- [ ] [[lejour-e-confiavel]] — Lejour / Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques (Score Aut: 76 / Conv: 70; onboarding)
+- [ ] [[lejour-reclame-aqui-nota-reputacao]] — Lejour / Lejour no Reclame Aqui (Score Aut: 72 / Conv: 62; onboarding)
+- [ ] [[lejour-como-funciona]] — Lejour / O que é a Lejour e como funciona: site, lista de presentes, taxas e planos (Score Aut: 74 / Conv: 80; onboarding)
+- [ ] [[lista-de-casamento-lejour-como-criar]] — Lejour / Como criar a lista de casamento na Lejour, passo a passo (Score Aut: 68 / Conv: 88; onboarding)
 
 ---
 
