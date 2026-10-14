@@ -179,7 +179,7 @@ export type StoreShelfContent = {
   trail: PageLink[];
 };
 
-// A subpágina de uma loja ativa com mais de 3 artigos (a regra de getStoreArticlesPage); as outras dão null.
+// A subpágina de uma loja ativa com 3 artigos ou mais (a regra de getStoreArticlesPage); as outras dão null.
 export function getStoreShelfContent(
   reviews: readonly HubReview[],
   slug: string,

@@ -181,7 +181,7 @@ assert.ok(article('abacate').searchText.includes('fruta'), 'tags entram na busca
 assert.equal(article('dez-dicas').image, undefined);
 assert.equal(article('duas-dicas').store, undefined, 'affiliate fora das lojas passadas: sem nome de loja');
 
-// Bolinhas: só lojas com subpágina (mais de 3 artigos), na ordem das lojas.
+// Bolinhas: só lojas com subpágina (3 artigos ou mais), na ordem das lojas.
 assert.deepEqual(hub.stores, [
   {
     slug: 'magalu',

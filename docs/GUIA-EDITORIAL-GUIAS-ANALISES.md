@@ -126,7 +126,7 @@ e com `locale` português ou sem `locale`) aparece:
 - **no "Acabou de sair"**, se estiver entre os 5 mais novos por `publishedAtISO`, com desempate
   pelo maior `id` (`getHomeLatest`, em `src/lib/homeStores.ts`). Não há teto por categoria;
 - **na aba da loja, na vitrine**, se o `affiliate` for o slug de uma loja ativa de
-  `src/lib/couponsData.ts`: a aba mostra os 3 mais novos da loja. Loja com mais de 3 artigos ganha
+  `src/lib/couponsData.ts`: a aba mostra os 3 mais novos da loja. Loja com 3 artigos ou mais ganha
   a subpágina `/reviews/loja/<slug>`, com todos;
 - **na faixa de uma data comercial**, durante a campanha, se o slug estiver entre os 4 primeiros
   do `articleSlugs` da edição em `content/home-events.json`, na ordem do arquivo. A página da
@@ -134,7 +134,7 @@ e com `locale` português ou sem `locale`) aparece:
 - **em `/reviews`**, sempre, em "Todos os artigos" (ordem "Mais novos" por `publishedAtISO`,
   desempate pelo maior `id`, ou "A–Z" pelo título); **nas Novidades**, enquanto tiver `isNew` (a
   regra mensal do selo "Novo"); e, pelo `affiliate`, na subpágina `/reviews/loja/<slug>` da loja e na
-  bolinha dela em "Por loja", quando a loja está ativa e tem mais de 3 artigos.
+  bolinha dela em "Por loja", quando a loja está ativa e tem 3 artigos ou mais.
 
 `category` continua valendo para os filtros de `/reviews`, e `isNew` põe o artigo nas Novidades de
 `/reviews` e o selo "Novo" no cartão dele na grade, sem mudar a ordem da lista. A linha do modo lista

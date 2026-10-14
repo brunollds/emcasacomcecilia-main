@@ -212,7 +212,7 @@ vídeo, primeiras impressões e uso noturno.
   receitas no próprio `<section>`, as outras pelo `HomeSection`.
 - Os dados saem do servidor:
   - `src/lib/homeStores.ts`: abas, artigos da loja pelo `affiliate`, "Acabou de sair" e as
-    subpáginas `/reviews/loja/<slug>` das lojas com mais de 3 artigos;
+    subpáginas `/reviews/loja/<slug>` das lojas com 3 artigos ou mais;
   - `src/lib/homeEvents.ts` com `content/home-events.json`: as datas comerciais. Como pôr uma data
     no ar está em "Para pôr a Black Friday no ar", no fim de
     `docs/superpowers/plans/2026-10-08-home-d2-fase-4.md`;
@@ -373,7 +373,7 @@ nome no HTML, e a miniatura voa até ela. O HTML de `/videos` não leva nenhum n
 | `/receitas` | `src/app/(pt)/receitas/page.js` |
 | `/receitas/[slug]` | `src/app/(pt)/receitas/[slug]/page.js` |
 | `/reviews` | `src/app/(pt)/reviews/page.tsx` (Novidades, bolinhas e a estante `ReviewsBrowser`; dados em `src/lib/reviewsHub.ts`) |
-| `/reviews/loja/[brand]` | `src/app/(pt)/reviews/loja/[brand]/page.tsx` (só lojas ativas com mais de 3 artigos; a estante de `/reviews`, com busca acima de 12 artigos) |
+| `/reviews/loja/[brand]` | `src/app/(pt)/reviews/loja/[brand]/page.tsx` (só lojas ativas com 3 artigos ou mais; a estante de `/reviews`, com busca acima de 12 artigos) |
 | `/videos` | `src/app/(pt)/videos/page.tsx` (o destaque, a grade com os chips das lojas e os últimos do canal; dados em `src/lib/videosHub.ts`) |
 | `/videos/[slug]` | `src/app/(pt)/videos/[slug]/page.tsx` (a página de exibição: o player no formato do `aspect` logo depois do h1, o painel e Mais vídeos; o `VideoObject` e o sitemap de vídeo não mudam) |
 | `/black-friday` | `src/app/(pt)/black-friday/page.tsx` (`EventHubPage`; 404 enquanto não houver edição em `content/home-events.json`) |
