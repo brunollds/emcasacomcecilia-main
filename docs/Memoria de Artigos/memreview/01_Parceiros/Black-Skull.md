@@ -36,8 +36,13 @@ artigos, o código vale para a loja do `affiliate` do artigo.
 | Marca de suplementos para treino ("Heavy Sports Nutrition"), loja VTEX em blackskullusa.com.br | fato_oficial | Site oficial | 2026-10-13 | 2027-01-13 | Vendedor no carrinho: "BLACKSKULL USA" |
 | Linha vista no carrinho: whey, creatina, pré-treino, glutamina, regatas | fato_oficial | Carrinho do teste de 13/10 | 2026-10-13 | 2027-01-13 | |
 
-A origem da marca é confusa nas fontes públicas (varejistas ligam a Probiótica ou à Grow Dietary
-Supplements Labs USA). Não afirmar dono nem fundação sem fonte oficial.
+| Empresa: GDS Grow Dietary Supplements do Brasil S/A, CNPJ 19.897.687/0001-38, matriz em Embu das Artes (SP), ativa desde 18/03/2014, fábrica de complementos alimentares | fato_oficial | Rodapé e BrasilAPI | 2026-10-14 | 2027-01-13 | O "Sobre nós" diz "marca brasileira", "inaugurada no Brasil em 2015", "através da Grow Dietary Supplements Labs USA (GDS)". Nenhuma fonte oficial cita Integralmédica nem Probiótica |
+| Trocas: arrependimento em 7 dias (loja paga, sem devolução parcial); troca comum pedida em 30 dias, com postagem e reenvio pagos pelo cliente; defeito pago pela loja | politica | `/institucional/trocas-e-devolucoes` | 2026-10-14 | 2027-01-13 | E-mail sac@blackskullusa.com |
+| Frete grátis: Sul e Sudeste acima de R$ 199,90; Centro-Oeste acima de R$ 249,90; demais acima de R$ 299,90; conta o total com desconto | condicao_comercial_volatil | `/institucional/politica-de-entrega` | 2026-10-14 | 2026-11-14 | |
+| Atendimento: SAC 0800-770 4260, (11) 4189-7000, segunda a sexta, das 8h às 18h. Pagamento: cartões em até 8x sem juros (parcela mínima R$ 50), Pix, Pix parcelado em 4x e boleto | fato_oficial | `/institucional/entre-em-contato` e `/politica-de-pagamento` | 2026-10-14 | 2027-01-13 | Os links do rodapé para trocas, sobre e contato apontam para `#` |
+
+Bruno (14/10/2026): o `CECILIA10` vale em todas as formas de pagamento e para conta nova e antiga.
+Prints do checkout e do Reclame Aqui em `midia-staging/2026-10-14-onboarding-black-skull/`.
 
 ---
 
@@ -47,8 +52,8 @@ Supplements Labs USA). Não afirmar dono nem fundação sem fonte oficial.
 > Em fevereiro de 2025, a Anvisa proibiu 19 produtos manipulados vendidos com o nome Black Skull,
 > feitos por uma farmácia de manipulação (OficialMed, Apucarana/PR). A marca disse que a linha
 > tradicional de suplementos não foi atingida. A página de cupom não cita o caso (decisão do
-> Bruno, 13/10/2026). Um artigo de "é confiável" ou de reputação precisa tratar o tema com as
-> fontes oficiais da Anvisa.
+> Bruno, 13/10/2026). Os artigos de onboarding também não citam o caso (decisão do Bruno de
+> 14/10/2026, PR #88). Se um artigo futuro tratar o tema, usar as fontes oficiais da Anvisa.
 
 Nos artigos deste parceiro, usar `affiliate: "black-skull"` e link relativo para
 `/cupons/black-skull`, conforme `docs/CONTRATO-ARTIGO-AFILIADO.md`.
