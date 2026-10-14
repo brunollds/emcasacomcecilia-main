@@ -103,6 +103,10 @@ Para cada oferta ativa, reconferir:
 | `magalu` | Magazine Você | 10 faixas | `tiers` no próprio cupom | Testar as dez faixas, mínimos, navegador e elegibilidade “vendido e entregue pelo Magalu”. |
 | `letseatit` | Let's Eat It | `MAUAD` | UTMs da Inbazz em `offerUrl` | Testar os 5% no checkout. A comissão é atribuída pelos quatro UTMs do link; `test:coupon-offer-modes` falha se algum sumir. |
 | `insider` | Insider | `EMCASACOMCECILIA` | FAQ do Insider Creators Club e link da Inbazz em `offerUrl` | Testar os 15% no carrinho com um item comum. Lançamentos podem ficar sem desconto, e a tag `lançamento` não é critério confiável. O site publica o percentual desde 07/10/2026, contra a orientação do FAQ do programa (ver alerta no dossiê). Não editar o link. |
+| `probiotica` | Probiótica | `PRO10EMCASACOMCECILIA` | UTM do programa de creators em `offerUrl` | O desconto chega a 10% e varia por produto: testar com um carrinho misto e manter o aviso "pode ser menor" no destaque, nas regras e na FAQ (o título segue em 10%, decisão de 13/10/2026). Não editar o link. |
+| `dr-peanut` | Dr. Peanut | `DREMCASACOMCECILIA` | — | Testar os 10% com um item em promoção e conferir a faixa de frete grátis do carrinho (R$ 149,90 com o cupom em 13/10/2026). O site bloqueia acesso automático: conferir pelo navegador. |
+| `black-skull` | Black Skull | `CECILIA10` | — | Testar os 10% com um item em promoção. O site é blackskullusa.com.br. |
+| `lejour` | Lejour | indicação por link, sem código | tabela de planos no dossiê | Conferir preços, taxas e saques dos planos Basic, Premium e Pro, que a FAQ cita com data. A indicação não dá desconto: nenhum texto pode chamá-la de cupom. Não editar o link. |
 | `shein` | SHEIN | oferta por link | `referral` e `campaigns` | Revalidar links, códigos de busca, público e prazo de cada campanha. |
 | `kopenhagen` | Kopenhagen | `CECILIA10` | — | Está pausada: não linkar nem reativar sem confirmação da parceria. |
 

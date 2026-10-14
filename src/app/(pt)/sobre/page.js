@@ -91,6 +91,10 @@ const partners = [
   { name: 'Shein', src: '/images/about/partners/shein.webp', href: 'https://shein.com' },
   { name: "Let's Eat It", src: '/images/about/partners/letseatit.png', href: 'https://letseatit.com.br' },
   { name: 'Insider', src: '/images/about/partners/insider.png', href: 'https://www.insiderstore.com.br' },
+  { name: 'Probiótica', src: '/images/about/partners/probiotica.png', href: 'https://www.probiotica.com.br' },
+  { name: 'Dr. Peanut', src: '/images/about/partners/dr-peanut.png', href: 'https://www.drpeanut.com.br' },
+  { name: 'Black Skull', src: '/images/about/partners/black-skull.png', href: 'https://www.blackskullusa.com.br' },
+  { name: 'Lejour', src: '/images/about/partners/lejour.png', href: 'https://lejour.com.br' },
 ];
 
 const personJsonLd = {

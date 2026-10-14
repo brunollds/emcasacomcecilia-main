@@ -74,6 +74,35 @@ assert.equal(
 );
 assert.ok(getAllActiveCouponSlugs().includes('insider'), 'Insider ativa deve gerar página de cupom');
 
+// Parceiros de 13/10/2026. Só a Probiótica e a Lejour mandaram link com UTM, e ele vai como veio.
+const newPartners = [
+  { slug: 'probiotica', code: 'PRO10EMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi' },
+  { slug: 'dr-peanut', code: 'DREMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.drpeanut.com.br/' },
+  { slug: 'black-skull', code: 'CECILIA10', hubCategory: 'saude', offerUrl: 'https://www.blackskullusa.com.br/' },
+] as const;
+for (const partner of newPartners) {
+  const store = getCouponBySlug(partner.slug);
+  assert.ok(store && store.offerMode === 'discount-code', `${partner.slug} deve existir como discount-code ativo`);
+  assert.equal(store.code, partner.code);
+  assert.equal(store.discountNumber, 10);
+  assert.equal(store.hubCategory, partner.hubCategory);
+  assert.equal(store.offerUrl, partner.offerUrl);
+}
+// O desconto da Probiótica chega a 10% mas varia por produto: a página precisa dizer isso.
+const probiotica = getCouponBySlug('probiotica');
+assert.match(probiotica?.monthlyHighlight?.note ?? '', /pode ser menor/);
+
+// A Lejour é só indicação: cadastro pelo link, sem código nem desconto.
+const lejour = getCouponBySlug('lejour');
+assert.ok(lejour && lejour.offerMode === 'affiliate-link', 'Lejour deve existir como affiliate-link');
+assert.equal('code' in lejour, false);
+assert.equal(lejour.referral, undefined);
+assert.equal(lejour.hubCategory, 'casa');
+assert.equal(
+  lejour.offerUrl,
+  'https://painel.lejour.com.br/onboarding/inicio?affiliate=emcasacomcecilia&source=the-coachers'
+);
+
 // "Cupom testado em" só vale com o teste registrado: toda loja com código precisa do testNote. A
 // YesStyle fica de fora porque o código é de recompensa e a página dela é outra.
 const untested = COUPONS.filter(
@@ -148,4 +177,4 @@ try {
   if (testIndex !== -1) COUPONS.splice(testIndex, 1);
 }
 
-console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider e prateleiras do hub conferidos.");
+console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Dr. Peanut, Black Skull, Lejour e prateleiras do hub conferidos.");

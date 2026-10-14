@@ -31,6 +31,10 @@ Este é o contrato principal dos cupons. Verificar para cada cupom ativo:
 | `magalu` | Magalu (Magazine Você da Cecília) | `100EMCASACOMCECILIA` (+ 9 faixas em `tiers`) | `lastVerified`, `metaTitle`, `metaDescription`, FAQ "Cupom Magalu hoje" |
 | `letseatit` | Let's Eat It | `MAUAD` | `lastVerified`, `metaTitle`, `metaDescription`; preservar os 4 UTMs da Inbazz em `offerUrl` |
 | `insider` | Insider | `EMCASACOMCECILIA` (15% desde a publicação de 07/10/2026) | `lastVerified`, `metaTitle`, `metaDescription`; manter `offerUrl` exatamente como veio |
+| `probiotica` | Probiótica | `PRO10EMCASACOMCECILIA` (até 10%) | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`; manter `offerUrl` exatamente como veio |
+| `dr-peanut` | Dr. Peanut | `DREMCASACOMCECILIA` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription`, faixa de frete grátis em `shipping` e na FAQ |
+| `black-skull` | Black Skull | `CECILIA10` | `lastVerified`, `testNote`, `metaTitle`, `metaDescription` |
+| `lejour` | Lejour | Indicação por link, sem código | `lastVerified` e os preços e taxas dos planos na FAQ; manter `offerUrl` exatamente como veio |
 | `shein` | SHEIN | Oferta por link, `referral` e `campaigns` | `lastVerified`, destinos, códigos, público e `verifiedAt` de cada campanha |
 
 #### Cupons inativos (não aparecem no site, mas mantêm histórico)

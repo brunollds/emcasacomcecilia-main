@@ -37,6 +37,7 @@ export const COUPON_HUB_CATEGORIES = [
   { id: 'moda', label: 'Moda' },
   { id: 'beleza', label: 'Beleza' },
   { id: 'alimentacao', label: 'Alimentação' },
+  { id: 'saude', label: 'Saúde e suplementos' },
   { id: 'casa', label: 'Casa' },
   { id: 'diversos', label: 'Diversos' },
 ] as const;
@@ -1139,6 +1140,287 @@ export const COUPONS: Coupon[] = [
       },
     ],
     status: 'pausado',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
+    slug: 'probiotica',
+    brand: 'Probiótica',
+    officialUrl: 'https://www.probiotica.com.br/',
+    offerUrl: 'https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi',
+    brandIcon: 'PRO',
+    brandLogo: '/images/about/partners/probiotica-icon.png',
+    brandLogoAlt: 'Marca Probiótica',
+    brandWatermark: '/images/logos/watermarks/probiotica.webp',
+    brandColor: '#0A1FE9',
+    code: 'PRO10EMCASACOMCECILIA',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Suplementos e nutrição esportiva',
+    hubCategory: 'saude',
+    shortDescription: 'suplementos no site oficial da Probiótica',
+    longDescription:
+      'Código da Cecília para economizar em whey, creatina, colágeno, barras de proteína e outros suplementos no site oficial da Probiótica.',
+    metaTitle: 'Cupom Probiótica Outubro 2026: PRO10EMCASACOMCECILIA — 10% OFF',
+    metaDescription:
+      'Cupom Probiótica de outubro de 2026: use PRO10EMCASACOMCECILIA no checkout do site oficial e ganhe até 10% OFF em suplementos.',
+    eligibleCategories: 'Produtos do site oficial da Probiótica; o desconto chega a 10% e pode ser menor em alguns itens',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja',
+    shipping: 'Calculado separadamente, conforme política da loja',
+    combinable: 'Conforme regras da loja; o valor final do checkout é a referência',
+    lastVerified: '2026-10-13',
+    testNote:
+      'Aplicamos o PRO10EMCASACOMCECILIA num carrinho de R$ 659,35 com kit de colágeno, creatina em promoção, camiseta e barra de proteína, e o pedido saiu por R$ 604,60, com R$ 54,75 de desconto. O desconto chega a 10%, mas varia por produto: nem todo item recebe os 10%.',
+    aboutBrand:
+      'A Probiótica é uma marca brasileira de suplementos alimentares, com linha de whey protein, creatina, colágeno, barras de proteína, pré-treinos e acessórios de treino vendidos no site oficial. O cupom PRO10EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e dá até 10% OFF: o percentual varia conforme o produto, e o carrinho mostra quanto cada item recebeu. A recomendação é conferir o resumo do pedido antes de finalizar.',
+    faqs: [
+      {
+        question: 'Quanto de desconto o cupom PRO10EMCASACOMCECILIA dá?',
+        answer:
+          'Até 10% OFF. O percentual varia conforme o produto: alguns itens recebem os 10%, outros um desconto menor. O resumo do pedido mostra o valor de cada item assim que o código é aceito.',
+      },
+      {
+        question: 'O cupom PRO10EMCASACOMCECILIA vale para todos os produtos da Probiótica?',
+        answer:
+          'Ele vale nas compras do site oficial da Probiótica, com o desconto variando por produto. Se um item não receber os 10%, o carrinho mostra; confira o resumo do pedido antes de pagar.',
+      },
+      {
+        question: 'O cupom PRO10EMCASACOMCECILIA está funcionando hoje?',
+        answer:
+          'Sim. No teste de checkout de 13/10/2026, o PRO10EMCASACOMCECILIA foi aceito. A data do teste mais recente aparece no topo desta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na Probiótica?',
+        answer:
+          'No carrinho do site oficial, no campo "Cupom de Desconto", antes de continuar para o pagamento.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'no site oficial',
+      note: 'O desconto chega a 10% e pode ser menor em alguns produtos',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
+    slug: 'dr-peanut',
+    brand: 'Dr. Peanut',
+    officialUrl: 'https://www.drpeanut.com.br/',
+    offerUrl: 'https://www.drpeanut.com.br/',
+    brandIcon: 'DP',
+    brandLogo: '/images/about/partners/dr-peanut-icon.png',
+    brandLogoAlt: 'Marca Dr. Peanut',
+    brandWatermark: '/images/logos/watermarks/dr-peanut.webp',
+    brandColor: '#FF7300',
+    code: 'DREMCASACOMCECILIA',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Pastas de amendoim e snacks',
+    hubCategory: 'saude',
+    shortDescription: 'todo o site Dr. Peanut, com todas as formas de pagamento',
+    longDescription:
+      'Código da Cecília para economizar em pastas de amendoim, alfajores, snacks e whey no site oficial da Dr. Peanut, com qualquer forma de pagamento.',
+    metaTitle: 'Cupom Dr. Peanut Outubro 2026: DREMCASACOMCECILIA — 10% OFF',
+    metaDescription:
+      'Cupom Dr. Peanut de outubro de 2026: use DREMCASACOMCECILIA e ganhe 10% OFF em todo o site, em todas as formas de pagamento e somando com as promoções.',
+    eligibleCategories: 'Todos os produtos do site oficial da Dr. Peanut',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja',
+    shipping:
+      'Frete grátis quando o total, já com o cupom, chega a R$ 149,90 (aviso do carrinho em 13/10/2026); abaixo disso, conforme a política da loja',
+    combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
+    lastVerified: '2026-10-13',
+    testNote:
+      'Aplicamos o DREMCASACOMCECILIA num carrinho de R$ 440,16 com pasta de amendoim em promoção, display de alfajor e whey, e o pedido saiu por R$ 396,14, com R$ 44,02 de desconto: os 10% valeram em todos os itens, inclusive no que já estava com preço promocional.',
+    aboutBrand:
+      'A Dr. Peanut é uma marca paranaense de pastas de amendoim, com sabores doces como Bombom Italiano e linha de alfajores, snacks e whey protein vendidos no site oficial. O cupom DREMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções vigentes. A recomendação é conferir o resumo do pedido antes de finalizar.',
+    faqs: [
+      {
+        question: 'O cupom DREMCASACOMCECILIA vale para todos os produtos da Dr. Peanut?',
+        answer: 'Sim. O DREMCASACOMCECILIA dá 10% OFF em todos os produtos do site oficial da Dr. Peanut.',
+      },
+      {
+        question: 'O cupom DREMCASACOMCECILIA vale no Pix, no cartão e em outras formas de pagamento?',
+        answer:
+          'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, e o desconto de 10% não depende do meio escolhido.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No teste de 13/10/2026, os 10% entraram também na pasta de amendoim que já estava com preço promocional.',
+      },
+      {
+        question: 'O cupom DREMCASACOMCECILIA está funcionando hoje?',
+        answer:
+          'Sim. No teste de checkout de 13/10/2026, o DREMCASACOMCECILIA aplicou os 10% em todos os itens. A data do teste mais recente aparece no topo desta página.',
+      },
+      {
+        question: 'A Dr. Peanut tem frete grátis?',
+        answer:
+          'Em 13/10/2026, o carrinho avisava frete grátis quando o total, já com o cupom aplicado, chega a R$ 149,90. Abaixo disso, o frete é calculado pela loja.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'em todo o site',
+      note: 'Vale com todas as formas de pagamento e soma com as promoções vigentes',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
+    slug: 'black-skull',
+    brand: 'Black Skull',
+    officialUrl: 'https://www.blackskullusa.com.br/',
+    offerUrl: 'https://www.blackskullusa.com.br/',
+    brandIcon: 'BS',
+    brandLogo: '/images/about/partners/black-skull-icon.png',
+    brandLogoAlt: 'Marca Black Skull',
+    brandWatermark: '/images/logos/watermarks/black-skull.webp',
+    brandColor: '#1C1C1E',
+    code: 'CECILIA10',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Suplementos e nutrição esportiva',
+    hubCategory: 'saude',
+    shortDescription: 'todo o site Black Skull, com todas as formas de pagamento',
+    longDescription:
+      'Código da Cecília para economizar em whey, creatina, pré-treinos, aminoácidos e roupas de treino no site oficial da Black Skull, com qualquer forma de pagamento.',
+    metaTitle: 'Cupom Black Skull Outubro 2026: CECILIA10 — 10% OFF',
+    metaDescription:
+      'Cupom Black Skull de outubro de 2026: use CECILIA10 e ganhe 10% OFF em todo o site, em todas as formas de pagamento e somando com as promoções.',
+    eligibleCategories: 'Todos os produtos do site oficial da Black Skull',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja',
+    shipping: 'Calculado separadamente, conforme política da loja',
+    combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
+    lastVerified: '2026-10-13',
+    testNote:
+      'Aplicamos o CECILIA10 num carrinho de R$ 364,33 com regata, kit de whey, creatina e pré-treino e glutamina, e o pedido saiu por R$ 327,89, com R$ 36,44 de desconto: os 10% valeram em todos os itens, inclusive nos que já estavam com preço promocional.',
+    aboutBrand:
+      'A Black Skull é uma marca de suplementos para quem treina, com whey protein, creatina, pré-treinos, aminoácidos como glutamina e roupas de treino vendidos no site oficial. O cupom CECILIA10 é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções vigentes. A recomendação é conferir o resumo do pedido antes de finalizar.',
+    faqs: [
+      {
+        question: 'O cupom CECILIA10 vale para todos os produtos da Black Skull?',
+        answer: 'Sim. O CECILIA10 dá 10% OFF em todos os produtos do site oficial da Black Skull, inclusive kits e roupas.',
+      },
+      {
+        question: 'O cupom CECILIA10 vale no Pix, no cartão e em outras formas de pagamento?',
+        answer:
+          'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, e o desconto de 10% não depende do meio escolhido.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No teste de 13/10/2026, os 10% entraram também na regata e no kit que já estavam com preço promocional.',
+      },
+      {
+        question: 'O cupom CECILIA10 está funcionando hoje?',
+        answer:
+          'Sim. No teste de checkout de 13/10/2026, o CECILIA10 aplicou os 10% em todos os itens. A data do teste mais recente aparece no topo desta página.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'em todo o site',
+      note: 'Vale com todas as formas de pagamento e soma com as promoções vigentes',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'affiliate-link',
+    slug: 'lejour',
+    brand: 'Lejour',
+    officialUrl: 'https://lejour.com.br/',
+    offerUrl: 'https://painel.lejour.com.br/onboarding/inicio?affiliate=emcasacomcecilia&source=the-coachers',
+    brandIcon: 'LJ',
+    brandLogo: '/images/about/partners/lejour-icon.png',
+    brandLogoAlt: 'Marca Lejour',
+    brandWatermark: '/images/logos/watermarks/lejour.webp',
+    brandColor: '#E2645A',
+    discount: 'Lista grátis',
+    offerTypeLabel: 'indicação',
+    offerTypeLabelPlural: 'indicações',
+    offerActionLabel: 'Criar a lista na Lejour',
+    category: 'Lista de casamento e site dos noivos',
+    hubCategory: 'casa',
+    shortDescription: 'site do casamento e lista de presentes, com plano gratuito',
+    longDescription:
+      'Indicação da Cecília para casais que vão montar o site do casamento e a lista de presentes na Lejour. O cadastro é pelo link, e o plano Basic é gratuito.',
+    metaTitle: 'Lejour: lista de casamento grátis e planos — indicação da Cecília',
+    metaDescription:
+      'Lista de casamento e site dos noivos na Lejour: o plano Basic é gratuito, e Premium e Pro são pagos uma vez. Veja as taxas e crie a lista pelo link da Cecília.',
+    eligibleCategories: 'Cadastro de casais no site da Lejour: site do casamento e lista de presentes',
+    validity: 'Indicação ativa enquanto a parceria estiver vigente',
+    reusable: 'Não se aplica: é um cadastro, não um cupom',
+    shipping: 'Não se aplica',
+    combinable: 'Não há desconto para somar: o cadastro pelo link é uma indicação, sem benefício extra',
+    lastVerified: '2026-10-13',
+    linkInstructions: [
+      'Abra o cadastro da Lejour pelo botão indicado.',
+      'Crie a conta do casal pelo próprio link: a indicação só conta para cadastros feitos por ele.',
+      'Escolha o plano: o Basic é gratuito; o Premium e o Pro são pagos uma única vez, à vista ou em até 12x.',
+      'Monte o site do casamento e a lista de presentes e compartilhe com os convidados.',
+    ],
+    linkNote:
+      'A indicação não dá desconto nem benefício extra: o cadastro e os planos são os mesmos do site da Lejour.',
+    aboutBrand:
+      'A Lejour é uma plataforma brasileira de casamento: o casal monta o site do evento e a lista de presentes, e os convidados presenteiam pelo próprio site. O plano Basic é gratuito; o Premium e o Pro são pagos uma única vez e baixam a taxa da lista de presentes, liberam saques ilimitados e incluem domínio personalizado. O cadastro pelo link é uma indicação do Em Casa com Cecília: não dá desconto, e as condições são as mesmas do site da Lejour.',
+    faqs: [
+      {
+        question: 'Tem cupom de desconto da Lejour?',
+        answer:
+          'Não. O link da Cecília é uma indicação: o cadastro, os planos e as taxas são os mesmos do site da Lejour, sem desconto extra.',
+      },
+      {
+        question: 'A lista de casamento da Lejour é grátis?',
+        answer:
+          'Sim, no plano Basic. Em 13/10/2026, ele não tinha mensalidade, cobrava 3,89% de taxa sobre os presentes e dava até 2 saques gratuitos.',
+      },
+      {
+        question: 'Quanto custam os planos Premium e Pro da Lejour?',
+        answer:
+          'Em 13/10/2026, o Premium custava R$ 99,90 (de R$ 179,90) e o Pro, R$ 199,90, ambos vitalícios, pagos uma única vez ou em até 12x. A taxa da lista cai para 3,29% no Premium e 2,99% no Pro, os saques ficam ilimitados e o domínio personalizado (.site) vem incluso; no Basic, ele custa R$ 69,90.',
+      },
+      {
+        question: 'Como faço o cadastro pela indicação da Cecília?',
+        answer:
+          'Abra o cadastro pelo botão desta página e crie a conta do casal por ele. A indicação só conta para cadastros feitos pelo link.',
+      },
+      {
+        question: 'Fazer o cadastro pelo link apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a indicação pode gerar comissão para o Em Casa com Cecília, sem custo extra para o casal.',
+      },
+    ],
+    status: 'ativo',
     featured: false,
   },
 ];
